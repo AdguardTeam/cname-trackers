@@ -18,4 +18,4 @@ This is the most complete auto-updating repository of actively used hidden track
 
 We're going to block those trackers in [AdGuard Tracking Protection list](https://github.com/AdguardTeam/AdGuardFilters) so now even the users of Chrome and Safari extensions will be protected from CNAME abuse.
 
-We hope that other filter lists makes (EasyPrivacy in particular) will also use this repository.
+We hope that other filter lists makers (EasyPrivacy in particular) will also use this repository. This way we'll cover most of the content blockers and finally get rid of CNAME abuse.
