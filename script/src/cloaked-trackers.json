@@ -1,0 +1,107 @@
+[
+    {
+        "company_name": "Pardot",
+        "domains": [
+            "go.pardot.com"
+        ]
+    },
+    {
+        "company_name": "Act-On",
+        "domains": [
+            "actonservice.com",
+            "actonsoftware.com"
+        ]
+    },
+    {
+        "company_name": "Oracle Eloqua",
+        "domains": [
+            "hs.eloqua.com"
+        ]
+    },
+    {
+        "company_name": "Criteo",
+        "domains": [
+            "dnsdelegation.io",
+            "storetail.io"
+        ]
+    },
+    {
+        "company_name": "Commanders Act",
+        "domains": [
+            "tagcommander.com"
+        ]
+    },
+    {
+        "company_name": "Eulerian",
+        "domains": [
+            "eulerian.net"
+        ]
+    },
+    {
+        "company_name": "AT Internet (formerly XiTi)",
+        "domains": [
+            "at-o.net"
+        ]
+    },
+    {
+        "company_name": "Keyade",
+        "domains": [
+            "k.keyade.com"
+        ]
+    },
+    {
+        "company_name": "Adobe Experience Cloud (formerly Omniture)",
+        "domains": [
+            "2o7.net",
+            "data.adobedc.net",
+            "sc.adobedc.net",
+            "sc.omtrdc.net"
+        ]
+    },
+    {
+        "company_name": "Wizaly",
+        "domains": [
+            "wizaly.com"
+        ]
+    },
+    {
+        "company_name": "TraceDock",
+        "domains": [
+            "a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com",
+            "a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com",
+            "a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com",
+            "afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com"
+        ]
+    },
+    {
+        "company_name": "Ingenious Technologies",
+        "domains": [
+            "affex.org"
+        ]
+    },
+    {
+        "company_name": "Webtrekk",
+        "domains": [
+            "webtrekk.net",
+            "wt-eu02.net"
+        ]
+    },
+    {
+        "company_name": "Otto Group",
+        "domains": [
+            "oghub.io"
+        ]
+    },
+    {
+        "company_name": "NP6",
+        "domains": [
+            "tracking.bp01.net"
+        ]
+    },
+    {
+        "company_name": "Lead Forensics",
+        "domains": [
+            "ghochv3eng.trafficmanager.net"
+        ]
+    }
+]

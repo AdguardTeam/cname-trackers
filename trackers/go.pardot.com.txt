@@ -1,4 +1,0 @@
-!
-! go.pardot.org disguised trackers
-!
-||example.org^

@@ -1,0 +1,22 @@
+!
+! Company name: Wizaly
+!
+! wizaly.com disguised trackers
+!
+||tk.abt.com^
+||tk.airfrance.fr^
+||tk.airfrance.us^
+||tk.biovea.com^
+||tk.conforama.fr^
+||tk.engie.fr^
+||tk.healthwarehouse.com^
+||tk.lcl.fr^
+||tk.little-big-change.com^
+||tk.lulli-sur-la-toile.com^
+||tk.msccruises.com^
+||tk.nhlottery.com^
+||tk.ornikar.com^
+||tk.prismashop.fr^
+||tk.salomon.com^
+||tk.svsound.com^
+||wiz.ghostbed.com^

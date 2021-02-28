@@ -1,0 +1,17 @@
+!
+! Company name: Commanders Act
+!
+! tagcommander.com disguised trackers
+!
+||data.cofinoga.fr^
+||data.decathlon.de^
+||data.decathlon.es^
+||data.decathlon.it^
+||data.ubi.com^
+||data.wptag.net^
+||logger.yp.ca^
+||sales.disneylandparis.com^
+||tag.boulanger.fr^
+||tagcommander.laredoute.co.uk^
+||tc.airfrance.com^
+||tcdata.fnac.com^

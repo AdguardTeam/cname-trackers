@@ -1,0 +1,31 @@
+!
+! Company name: Otto Group
+!
+! oghub.io disguised trackers
+!
+||te.limango.de^
+||te.mytoys.de^
+||te.otto.de^
+||te.sheego.de^
+||te.universal.at^
+||te.witt-weiden.de^
+||te.yourhome.de^
+||tp.baur.de^
+||tp.frankonia.de^
+||tp.frankoniamoda.ch^
+||tp.heine.at^
+||tp.heine.de^
+||tp.imwalking.de^
+||tp.jelmoli-shop.ch^
+||tp.limango.de^
+||tp.mirapodo.de^
+||tp.mytoys.de^
+||tp.otto-baumarkt.de^
+||tp.otto.de^
+||tp.ottoversand.at^
+||tp.quelle.de^
+||tp.schlafwelt.de^
+||tp.sheego.de^
+||tp.universal.at^
+||tp.yomonda.de^
+||tp.yourhome.de^
