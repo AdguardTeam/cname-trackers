@@ -2,7 +2,11 @@
 
 A CNAME (Canonical Name) is a type of DNS record that defines an alias from one domain name to another. It’s a basic function used by millions of websites to create unique subdomains for different services, such as mail, search, etc. To allow for seamless interaction, the subdomains are trusted just like the primary domain. CNAME-cloaked tracking abuses this fundamental mechanic and creates many more problems than unwelcome data collection.
 
+![image](https://user-images.githubusercontent.com/5947035/109689530-6ed9a400-7b96-11eb-85a8-abb0b5a54749.png)
+
 There are numerous issues with this approach and the most severe one is that third-parties (disguised as first-parties) can potentially receive all kinds of data that's stored in the first-party cookies.
+
+![image](https://user-images.githubusercontent.com/5947035/109689550-74cf8500-7b96-11eb-873d-44d0ce8772c0.png)
 
 ## The Problem
 
