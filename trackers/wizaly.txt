@@ -4,6 +4,7 @@
 ! wizaly.com disguised trackers
 !
 ||tk.abt.com^
+||tk.airfrance.ca^
 ||tk.airfrance.fr^
 ||tk.airfrance.us^
 ||tk.biovea.com^
@@ -14,9 +15,9 @@
 ||tk.little-big-change.com^
 ||tk.lulli-sur-la-toile.com^
 ||tk.msccruises.com^
-||tk.nhlottery.com^
 ||tk.ornikar.com^
 ||tk.prismashop.fr^
 ||tk.salomon.com^
 ||tk.svsound.com^
+||tk.transavia.com^
 ||wiz.ghostbed.com^

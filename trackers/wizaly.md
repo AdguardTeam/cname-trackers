@@ -11,11 +11,11 @@
     * tk-lcl-fr.wizaly.com
     * tk-little-big-change-com.wizaly.com
     * tk-lulli-sur-la-toile-com.wizaly.com
-    * tk-nhlottery-com.wizaly.com
     * tk-ornikar-com.wizaly.com
     * tk-salomon-com.wizaly.com
     * tk-svsound-com.wizaly.com
     * tk_prismashop_fr.wizaly.com
+    * tk_transavia_com.wizaly.com
     * tkairfrance.wizaly.com
     * tkmsccruisescom.wizaly.com
     * wiz-ghostbed-com.wizaly.com
@@ -32,11 +32,12 @@
 | tk.lcl.fr | tk-lcl-fr.wizaly.com |
 | tk.little-big-change.com | tk-little-big-change-com.wizaly.com |
 | tk.lulli-sur-la-toile.com | tk-lulli-sur-la-toile-com.wizaly.com |
-| tk.nhlottery.com | tk-nhlottery-com.wizaly.com |
 | tk.ornikar.com | tk-ornikar-com.wizaly.com |
 | tk.salomon.com | tk-salomon-com.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |
+| tk.transavia.com | tk_transavia_com.wizaly.com |
+| tk.airfrance.ca | tkairfrance.wizaly.com |
 | tk.airfrance.fr | tkairfrance.wizaly.com |
 | tk.airfrance.us | tkairfrance.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |
