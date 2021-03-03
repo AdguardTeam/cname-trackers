@@ -103,5 +103,29 @@
         "domains": [
             "ghochv3eng.trafficmanager.net"
         ]
+    },
+    {
+        "company_name": "A8.net",
+        "domains": [
+            "a8.net"
+        ]
+    },
+    {
+        "company_name": "GMO Internet Group",
+        "domains": [
+            "ad-cloud.jp"
+        ]
+    },
+    {
+        "company_name": "AD EBiS",
+        "domains": [
+            "ebis.ne.jp"
+        ]
+    },
+    {
+        "company_name": "GENIEE",
+        "domains": [
+            "genieespv.jp"
+        ]
     }
 ]

@@ -1,0 +1,12 @@
+!
+! Company name: GMO Internet Group
+!
+! ad-cloud.jp disguised trackers
+!
+||d.image-ad.jp^
+||d.newssuite.sony.net^
+||i.image-ad.jp^
+||i.newssuite.sony.net^
+||j.bg.adresult-sp.jp^
+||j.image-ad.jp^
+||j.newssuite.sony.net^

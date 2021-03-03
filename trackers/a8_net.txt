@@ -1,0 +1,11 @@
+!
+! Company name: A8.net
+!
+! a8.net disguised trackers
+!
+||a8.cyclemarket.jp^
+||a8.eonet.jp^
+||a8.print-netsquare.com^
+||a8clk.xserver.ne.jp^
+||a8cv.amiami.jp^
+||afi.ssl.gmobb.jp^

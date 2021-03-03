@@ -1,0 +1,16 @@
+!
+! Company name: AD EBiS
+!
+! ebis.ne.jp disguised trackers
+!
+||ad-track.paravi.jp^
+||ad.kddi-fs.com^
+||ad.udition.jp^
+||adebis.nursery.co.jp^
+||adebiscname.auone.jp^
+||axjfkc.kobayashi.co.jp^
+||cnameebis.usagi-online.com^
+||ebis.rozetta.jp^
+||kraciecojp-ebis.kracie.co.jp^
+||nlp-japan.life-and-mind.com^
+||tukuru.cotta.jp^
