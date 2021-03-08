@@ -28,7 +28,7 @@ We hope that other filter lists makers (EasyPrivacy in particular) will also use
 
 * **Recommended:** just use "AdGuard Tracking Protection filter" or "EasyPrivacy" in a content blocker of your choice. This would be the safest way.
 
-If you absolutely sure you want to block all disguised trackers even if it breaks some websites, choose one of these:
+If you are absolutely sure you want to block all disguised trackers even if it breaks some websites, choose one of these:
 
 * `AdGuard CNAME original trackers list` - The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
     * [Adblock-style syntax](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style): https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_original_trackers.txt
