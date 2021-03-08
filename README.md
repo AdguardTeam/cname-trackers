@@ -23,3 +23,15 @@ This is the most complete auto-updating repository of actively used hidden track
 We're going to block those trackers in [AdGuard Tracking Protection list](https://github.com/AdguardTeam/AdGuardFilters) so now even the users of Chrome and Safari extensions will be protected from CNAME abuse.
 
 We hope that other filter lists makers (EasyPrivacy in particular) will also use this repository. This way we'll cover most of the content blockers and finally get rid of CNAME abuse.
+
+## The Lists
+
+* **Recommended:** just use "AdGuard Tracking Protection filter" or "EasyPrivacy" in a content blocker of your choice. This would be the safest way.
+
+If you absolutely sure you want to block all disguised trackers even if it breaks some websites, choose one of these:
+
+* `AdGuard CNAME original trackers list` - The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
+    * [Adblock-style syntax](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style): https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_original_trackers.txt
+* `AdGuard CNAME disguised trackers list` - The list of trackers that disguise the real trackers by using CNAME records. Use in any traditional content blocker.
+    * [Adblock-style syntax](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style): https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+    * [Just domain names](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style): https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt

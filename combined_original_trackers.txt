@@ -1,0 +1,74 @@
+!
+! Title: AdGuard CNAME original trackers list
+! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
+! Homepage: https://github.com/AdguardTeam/cname-trackers
+!
+
+! Company: Pardot
+||go.pardot.com^
+
+! Company: Act-On
+||actonservice.com^
+||actonsoftware.com^
+
+! Company: Oracle Eloqua
+||hs.eloqua.com^
+
+! Company: Criteo
+||dnsdelegation.io^
+||storetail.io^
+
+! Company: Commanders Act
+||tagcommander.com^
+
+! Company: Eulerian
+||eulerian.net^
+
+! Company: AT Internet (formerly XiTi)
+||at-o.net^
+
+! Company: Keyade
+||k.keyade.com^
+
+! Company: Adobe Experience Cloud (formerly Omniture)
+||2o7.net^
+||data.adobedc.net^
+||sc.adobedc.net^
+||sc.omtrdc.net^
+
+! Company: Wizaly
+||wizaly.com^
+
+! Company: TraceDock
+||a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com^
+||a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com^
+||a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com^
+||afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com^
+
+! Company: Ingenious Technologies
+||affex.org^
+
+! Company: Webtrekk
+||webtrekk.net^
+||wt-eu02.net^
+
+! Company: Otto Group
+||oghub.io^
+
+! Company: NP6
+||tracking.bp01.net^
+
+! Company: Lead Forensics
+||ghochv3eng.trafficmanager.net^
+
+! Company: A8.net
+||a8.net^
+
+! Company: GMO Internet Group
+||ad-cloud.jp^
+
+! Company: AD EBiS
+||ebis.ne.jp^
+
+! Company: GENIEE
+||genieespv.jp^
