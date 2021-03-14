@@ -127,5 +127,11 @@
         "domains": [
             "genieespv.jp"
         ]
+    },
+    {
+        "company_name": "Plausible Analytics",
+        "domains": [
+            "custom.plausible.io"
+        ]
     }
 ]

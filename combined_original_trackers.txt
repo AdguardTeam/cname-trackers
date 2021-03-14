@@ -72,3 +72,6 @@
 
 ! Company: GENIEE
 ||genieespv.jp^
+
+! Company: Plausible Analytics
+||custom.plausible.io^
