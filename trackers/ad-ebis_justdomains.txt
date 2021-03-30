@@ -1,0 +1,27 @@
+#
+# Company name: AD EBiS
+#
+# ebis.ne.jp disguised trackers
+#
+ac-3.mix.tokyo
+ad.tempstaff.co.jp
+ad1.tone.ne.jp
+adbq.bk.mufg.jp
+adebis-52667624.wowma.jp
+adebis.cybozu.co.jp
+adebis.fenet.jp
+adebis.irobot-jp.com
+adebis.juku.st
+adebis.report.clinic
+adebis.urban-research.jp
+adebis02.juku.st
+adebiscname.auone.jp
+aesus.so-net.ne.jp
+digital.anicom-sompo.co.jp
+ebis.biyo-job.com
+ebis.pasonatech.co.jp
+ebis.seibu-k.co.jp
+greenjapan-cname.green-japan.com
+kraciecojp-ebis.kracie.co.jp
+ncc.nip-col.jp
+tukuru.cotta.jp

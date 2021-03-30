@@ -10,8 +10,11 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | a8.cyclemarket.jp | trck.a8.net |
-| a8.eonet.jp | trck.a8.net |
-| a8.print-netsquare.com | trck.a8.net |
-| a8clk.xserver.ne.jp | trck.a8.net |
-| a8cv.amiami.jp | trck.a8.net |
-| afi.ssl.gmobb.jp | trck.a8.net |
+| a8.shopserve.jp | trck.a8.net |
+| a8clk.bstyle.store | trck.a8.net |
+| a8clk.dospara.co.jp | trck.a8.net |
+| a8clk.kenkoukazoku.co.jp | trck.a8.net |
+| a8clk.rental.geo-online.co.jp | trck.a8.net |
+| a8cv.omni7.jp | trck.a8.net |
+| a8cv.p-antiaging.com | trck.a8.net |
+| shopping.cellpure.co.jp | trck.a8.net |

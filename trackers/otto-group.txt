@@ -3,17 +3,22 @@
 !
 ! oghub.io disguised trackers
 !
+||te.frankonia.de^
+||te.heine.de^
 ||te.limango.de^
+||te.mirapodo.de^
 ||te.mytoys.de^
 ||te.otto.de^
+||te.ottoversand.at^
+||te.schlafwelt.de^
 ||te.sheego.de^
-||te.universal.at^
-||te.witt-weiden.de^
+||te.your-look-for-less.nl^
 ||te.yourhome.de^
+||tp.ackermann.ch^
 ||tp.baur.de^
 ||tp.frankonia.de^
-||tp.frankoniamoda.ch^
 ||tp.heine.at^
+||tp.heine.ch^
 ||tp.heine.de^
 ||tp.imwalking.de^
 ||tp.jelmoli-shop.ch^
@@ -23,6 +28,8 @@
 ||tp.otto-baumarkt.de^
 ||tp.otto.de^
 ||tp.ottoversand.at^
+||tp.quelle.at^
+||tp.quelle.ch^
 ||tp.quelle.de^
 ||tp.schlafwelt.de^
 ||tp.sheego.de^

@@ -1,40 +1,14 @@
 [
     {
-        "company_name": "Pardot",
+        "company_name": "A8.net",
         "domains": [
-            "go.pardot.com"
+            "a8.net"
         ]
     },
     {
-        "company_name": "Act-On",
+        "company_name": "AD EBiS",
         "domains": [
-            "actonservice.com",
-            "actonsoftware.com"
-        ]
-    },
-    {
-        "company_name": "Oracle Eloqua",
-        "domains": [
-            "hs.eloqua.com"
-        ]
-    },
-    {
-        "company_name": "Criteo",
-        "domains": [
-            "dnsdelegation.io",
-            "storetail.io"
-        ]
-    },
-    {
-        "company_name": "Commanders Act",
-        "domains": [
-            "tagcommander.com"
-        ]
-    },
-    {
-        "company_name": "Eulerian",
-        "domains": [
-            "eulerian.net"
+            "ebis.ne.jp"
         ]
     },
     {
@@ -44,9 +18,10 @@
         ]
     },
     {
-        "company_name": "Keyade",
+        "company_name": "Act-On",
         "domains": [
-            "k.keyade.com"
+            "actonservice.com",
+            "actonsoftware.com"
         ]
     },
     {
@@ -59,9 +34,82 @@
         ]
     },
     {
-        "company_name": "Wizaly",
+        "company_name": "Commanders Act",
         "domains": [
-            "wizaly.com"
+            "tagcommander.com"
+        ]
+    },
+    {
+        "company_name": "Criteo",
+        "domains": [
+            "dnsdelegation.io",
+            "storetail.io"
+        ]
+    },
+    {
+        "company_name": "Eulerian",
+        "domains": [
+            "eulerian.net"
+        ]
+    },
+    {
+        "company_name": "GENIEE",
+        "domains": [
+            "genieespv.jp"
+        ]
+    },
+    {
+        "company_name": "GMO Internet Group",
+        "domains": [
+            "ad-cloud.jp"
+        ]
+    },
+    {
+        "company_name": "Ingenious Technologies",
+        "domains": [
+            "affex.org"
+        ]
+    },
+    {
+        "company_name": "Keyade",
+        "domains": [
+            "k.keyade.com"
+        ]
+    },
+    {
+        "company_name": "Lead Forensics",
+        "domains": [
+            "ghochv3eng.trafficmanager.net"
+        ]
+    },
+    {
+        "company_name": "NP6",
+        "domains": [
+            "tracking.bp01.net"
+        ]
+    },
+    {
+        "company_name": "Oracle Eloqua",
+        "domains": [
+            "hs.eloqua.com"
+        ]
+    },
+    {
+        "company_name": "Otto Group",
+        "domains": [
+            "oghub.io"
+        ]
+    },
+    {
+        "company_name": "Pardot",
+        "domains": [
+            "go.pardot.com"
+        ]
+    },
+    {
+        "company_name": "Plausible Analytics",
+        "domains": [
+            "custom.plausible.io"
         ]
     },
     {
@@ -74,12 +122,6 @@
         ]
     },
     {
-        "company_name": "Ingenious Technologies",
-        "domains": [
-            "affex.org"
-        ]
-    },
-    {
         "company_name": "Webtrekk",
         "domains": [
             "webtrekk.net",
@@ -87,51 +129,9 @@
         ]
     },
     {
-        "company_name": "Otto Group",
+        "company_name": "Wizaly",
         "domains": [
-            "oghub.io"
-        ]
-    },
-    {
-        "company_name": "NP6",
-        "domains": [
-            "tracking.bp01.net"
-        ]
-    },
-    {
-        "company_name": "Lead Forensics",
-        "domains": [
-            "ghochv3eng.trafficmanager.net"
-        ]
-    },
-    {
-        "company_name": "A8.net",
-        "domains": [
-            "a8.net"
-        ]
-    },
-    {
-        "company_name": "GMO Internet Group",
-        "domains": [
-            "ad-cloud.jp"
-        ]
-    },
-    {
-        "company_name": "AD EBiS",
-        "domains": [
-            "ebis.ne.jp"
-        ]
-    },
-    {
-        "company_name": "GENIEE",
-        "domains": [
-            "genieespv.jp"
-        ]
-    },
-    {
-        "company_name": "Plausible Analytics",
-        "domains": [
-            "custom.plausible.io"
+            "wizaly.com"
         ]
     }
 ]

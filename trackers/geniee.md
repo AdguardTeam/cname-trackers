@@ -4,8 +4,4 @@
 
 * genieespv.jp
 
-## Cloaking domains
-
-| Disguise | Tracker |
-| ---- | ---- |
-
+## No cloaking domains for GENIEE

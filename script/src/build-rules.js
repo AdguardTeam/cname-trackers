@@ -1,33 +1,68 @@
-const buildRules = async (trackersInfo) => {
+const { CONST_DATA } = require('./constants');
+
+/**
+ * @typedef { import('./build-desc').TrackersData } TrackersData
+ */
+
+/**
+ * Builds rules content by type
+ * @param {TrackersData} trackersData
+ * @param {'BASE'|'HOSTS'} type rules type
+ * @returns {string}
+ */
+const buildRulesByType = (trackersData, type) => {
     const {
-        company_name: companyName,
-        domains,
-    } = trackersInfo;
+        companyName,
+        trackersInfoItems,
+    } = trackersData;
 
-    const rulesStringWithDomains = domains
-        .map(({ domain_name: domainName, cloaked_trackers: cloakedTrackers }) => {
-            const domainsString = `!
-! ${domainName} disguised trackers
-!`;
-            let rulesString = `! no domains found for ${domainName}`;
-            if (cloakedTrackers) {
-                const disguises = cloakedTrackers.map(({ disguise }) => disguise);
-                // remove duplicates
-                const uniqDisguises = [...new Set(disguises)];
-                rulesString = uniqDisguises
-                    .sort()
-                    .map((disguise) => `||${disguise}^`)
-                    .join('\n');
-            }
+    const rulesChunks = [
+        CONST_DATA[type].commentMarker,
+        `${CONST_DATA[type].commentMarker} Company name: ${companyName}`,
+    ];
 
-            return `${domainsString}\n${rulesString}`;
-        }).join('\n');
+    trackersInfoItems.forEach(({ domain_name: domainName, disguises }) => {
+        rulesChunks.push(CONST_DATA[type].commentMarker);
+        rulesChunks.push(`${CONST_DATA[type].commentMarker} ${domainName} disguised trackers`);
+        rulesChunks.push(CONST_DATA[type].commentMarker);
 
-    const rulesContentString = `!
-! Company name: ${companyName}
-${rulesStringWithDomains}`;
+        if (disguises && disguises.length > 0) {
+            // remove duplicates and order alphabetically
+            const uniqDisguises = [...new Set(disguises)].sort();
+            uniqDisguises.forEach((disguise) => {
+                let rule;
+                if (type === CONST_DATA.BASE.type) {
+                    rule = `||${disguise}^`;
+                } else if (type === CONST_DATA.HOSTS.type) {
+                    rule = disguise;
+                }
+                rulesChunks.push(rule);
+            });
+        } else {
+            rulesChunks.push(`${CONST_DATA[type].commentMarker} no domains found for ${domainName}`);
+        }
+    });
 
-    return rulesContentString;
+    const baseRulesString = rulesChunks.join('\n');
+    return baseRulesString;
+};
+
+/**
+ * @typedef {Object} RulesContent
+ * @property {string} baseRulesString
+ * @property {string} hostsRulesString
+ */
+
+/**
+ * Builds rules files content
+ * @param {TrackersData} trackersData
+ * @returns {RulesContent} content for base and hosts rules files
+ */
+const buildRules = async (trackersData) => {
+    const baseRulesString = buildRulesByType(trackersData, CONST_DATA.BASE.type);
+    const hostsRulesString = buildRulesByType(trackersData, CONST_DATA.HOSTS.type);
+
+    return { baseRulesString, hostsRulesString };
 };
 
 module.exports = { buildRules };

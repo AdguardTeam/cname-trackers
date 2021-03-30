@@ -1,58 +1,93 @@
-const { sortAscending } = require('./helpers');
+const { identity, sortAscending } = require('./helpers');
 
-const buildDesc = async (trackersInfo) => {
+/**
+ * @typedef { import('./helpers').SortedObjItem } SortedObjItem
+ */
+
+/**
+ * @typedef {Object} CloakingInfo
+ * @property {string} company_name
+ * @property {SortedObjItem[]} domains merged data sorted by trackers
+ */
+
+/**
+ * Builds content of description file
+ * @param {CloakingInfo} trackersData
+ * @param {string} predefinedDomains original trackers domains names
+ * @returns {string} description file content
+ */
+const buildDesc = async (trackersData, predefinedDomains) => {
     const {
-        company_name: companyName,
-        domains,
-    } = trackersInfo;
+        companyName,
+        trackersInfoItems,
+    } = trackersData;
 
-    const flattedCloakedTrackers = domains
+    const flattedCloakedTrackers = trackersInfoItems
         .flatMap(({ cloaked_trackers: cloakedTrackers }) => cloakedTrackers)
-        .filter((i) => i);
+        .filter(identity);
 
     const cloakedTrackersDomains = flattedCloakedTrackers.map(({ tracker }) => tracker);
 
-    const domainsString = domains.map(({ domain_name: domainName }) => {
-        const subDomains = cloakedTrackersDomains.filter((domain) => {
-            if (domainName === domain) {
+    const passedInfoDomains = trackersInfoItems.map(({ domain_name: domainName }) => domainName);
+    const knownDomains = passedInfoDomains.filter((el) => predefinedDomains.includes(el));
+
+    const descChunks = [
+        `# Tracker: ${companyName}`,
+        '',
+        '## Disguised trackers list',
+        '',
+    ];
+
+    knownDomains.forEach((knownDomain) => {
+        const subDomains = cloakedTrackersDomains.filter((domainToCheck) => {
+            if (knownDomain === domainToCheck) {
                 return false;
             }
-            return domain.endsWith(domainName);
+            // do not consider 'aca.ca-eulerian.net' as a subdomain for 'eulerian.net'
+            return domainToCheck.endsWith(`.${knownDomain}`);
         });
+        const uniqSubdomains = [...new Set(subDomains)].sort();
 
-        const uniqSubdomains = [...new Set(subDomains)];
-
-        const subDomainsString = uniqSubdomains.sort().map((subDomain) => `    * ${subDomain}`).join('\n');
-
+        descChunks.push(`* ${knownDomain}`);
         if (subDomains.length > 0) {
-            return `* ${domainName}
-${subDomainsString}`;
+            uniqSubdomains.forEach((subDomain) => {
+                descChunks.push(`    * ${subDomain}`);
+            });
         }
-        return `* ${domainName}`;
-    }).join('\n');
+    });
+    descChunks.push('');
 
-    const cloakedTrackersString = flattedCloakedTrackers
+    const rareDomains = passedInfoDomains.filter((el) => !predefinedDomains.includes(el));
+
+    if (rareDomains.length > 0) {
+        descChunks.push('### Rarely active trackers', '');
+        rareDomains.forEach((domain) => {
+            descChunks.push(`* ${domain}`);
+        });
+        descChunks.push('');
+    }
+
+    const sortedCloakedTrackers = flattedCloakedTrackers
         .sort((a, b) => {
             let res = sortAscending(a.tracker, b.tracker);
             if (res === 0) {
                 res = sortAscending(a.disguise, b.disguise);
             }
             return res;
-        })
-        .map(({ disguise, tracker }) => `| ${disguise} | ${tracker} |`).join('\n');
+        });
 
-    const mdString = `# Tracker: ${companyName}
+    if (sortedCloakedTrackers.length > 0) {
+        descChunks.push('## Cloaking domains', '');
+        descChunks.push('| Disguise | Tracker |');
+        descChunks.push('| ---- | ---- |');
+        sortedCloakedTrackers.forEach(({ disguise, tracker }) => {
+            descChunks.push(`| ${disguise} | ${tracker} |`);
+        });
+    } else {
+        descChunks.push(`## No cloaking domains for ${companyName}`);
+    }
 
-## Disguised trackers list
-
-${domainsString}
-
-## Cloaking domains
-
-| Disguise | Tracker |
-| ---- | ---- |
-${cloakedTrackersString}
-`;
+    const mdString = descChunks.join('\n');
 
     return mdString;
 };

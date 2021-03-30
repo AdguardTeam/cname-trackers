@@ -23,6 +23,22 @@ const getOid = (url) => {
     return responseUrl.searchParams.get('oid');
 };
 
+/**
+ * @typedef { import('./helpers').Pair } Pair
+ */
+
+/**
+ * @typedef {Object} FetchedDomainInfo
+ * @property {string} domain_name
+ * @property {Object} cloaked_domains_matches domain_name info about presence in filters lists
+ * @property {Pair[]} cloaked_trackers '{ disguise, tracker }' pairs
+ */
+
+/**
+ * Fetches domain info
+ * @param {string} domain
+ * @returns {FetchedDomainInfo}
+ */
 const fetchWithRetry = async (domain) => {
     const retryFn = async (domain, oid, retryCount = 1) => {
         if (retryCount > MAX_RETRIES_COUNT) {

@@ -4,8 +4,11 @@
 ! a8.net disguised trackers
 !
 ||a8.cyclemarket.jp^
-||a8.eonet.jp^
-||a8.print-netsquare.com^
-||a8clk.xserver.ne.jp^
-||a8cv.amiami.jp^
-||afi.ssl.gmobb.jp^
+||a8.shopserve.jp^
+||a8clk.bstyle.store^
+||a8clk.dospara.co.jp^
+||a8clk.kenkoukazoku.co.jp^
+||a8clk.rental.geo-online.co.jp^
+||a8cv.omni7.jp^
+||a8cv.p-antiaging.com^
+||shopping.cellpure.co.jp^
