@@ -2,6 +2,8 @@ const { promises: fs } = require('fs');
 const path = require('path');
 const {
     RULES_FILE_EXTENSION,
+    INFO_FILE_EXTENSION,
+    COMBINED_JSON_FILE_NAME,
     HOSTS_RULES_FILE_NAME_ENDING,
     CONST_DATA,
 } = require('./constants');
@@ -71,6 +73,24 @@ const updateCombined = async () => {
     await fs.writeFile(
         path.resolve(__dirname, ROOT_DIR_PATH, CONST_DATA.HOSTS.combinedFileName),
         hostsCombinedStr,
+    );
+
+    // update combined_disguise_trackers.json
+    const jsonFileNames = companyFileNames.map((rawFileName) => {
+        const baseFileName = `${rawFileName}.${INFO_FILE_EXTENSION}`;
+        return baseFileName;
+    });
+    const jsons = await Promise.all(jsonFileNames
+        .map(async (fileName) => {
+            const jsonFileContent = await fs.readFile(
+                path.resolve(__dirname, TRACKERS_DIR_PATH, fileName),
+            );
+            return JSON.parse(jsonFileContent);
+        }));
+    const combined = Object.assign(...jsons);
+    await fs.writeFile(
+        path.resolve(__dirname, ROOT_DIR_PATH, COMBINED_JSON_FILE_NAME),
+        JSON.stringify(combined, null, 2),
     );
 };
 
