@@ -4,11 +4,13 @@
 # ebis.ne.jp disguised trackers
 #
 ac-3.mix.tokyo
+ad-ebis.bookpass.auone.jp
 ad.tempstaff.co.jp
 ad1.tone.ne.jp
 adbq.bk.mufg.jp
 adebis-52667624.wowma.jp
 adebis.cybozu.co.jp
+adebis.demae-can.com
 adebis.fenet.jp
 adebis.irobot-jp.com
 adebis.juku.st
@@ -17,11 +19,18 @@ adebis.urban-research.jp
 adebis02.juku.st
 adebiscname.auone.jp
 aesus.so-net.ne.jp
+cname.finess.jp
 digital.anicom-sompo.co.jp
+ebis.as-1.co.jp
 ebis.biyo-job.com
+ebis.kubara.jp
+ebis.okasan-online.co.jp
 ebis.pasonatech.co.jp
 ebis.seibu-k.co.jp
+ebis.studio-alice.co.jp
 greenjapan-cname.green-japan.com
 kraciecojp-ebis.kracie.co.jp
+maz.zba.jp
 ncc.nip-col.jp
+qxhydkz8.hmjdaw.ntt.com
 tukuru.cotta.jp

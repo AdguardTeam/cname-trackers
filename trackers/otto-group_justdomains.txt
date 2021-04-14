@@ -3,6 +3,7 @@
 #
 # oghub.io disguised trackers
 #
+te.baur.de
 te.frankonia.de
 te.heine.de
 te.limango.de

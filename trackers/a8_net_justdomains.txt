@@ -4,11 +4,19 @@
 # a8.net disguised trackers
 #
 a8.cyclemarket.jp
+a8.denki-koji.work
+a8.looop-denki.com
+a8.sakuratravel.jp
 a8.shopserve.jp
+a8aspconv.xn--ocn-ws1e.jp
+a8click.you-up.com
 a8clk.bstyle.store
 a8clk.dospara.co.jp
 a8clk.kenkoukazoku.co.jp
 a8clk.rental.geo-online.co.jp
+a8cv.broadbandservice.jp
+a8cv.entry.renet.jp
+a8cv.housingbazar.jp
 a8cv.omni7.jp
 a8cv.p-antiaging.com
 shopping.cellpure.co.jp

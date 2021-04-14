@@ -18,9 +18,9 @@ b6ft.zone-turf.fr
 bhu9.bankia.es
 bum7.bymycar.fr
 c0i.ckoi.com
-c0p.cepsum.umontreal.ca
 ch0p.darty.com
 cpgo.avatacar.com
+cse3.chausport.com
 ctp1.bforbank.com
 deut1.fdj.fr
 di8n.bfmtv.com
@@ -32,6 +32,7 @@ ea.access-moto.com
 ea.catimini.com
 ea.ciblo.net
 ea.deguisetoi.fr
+ea.evaway.com
 ea.galerieslafayette.com
 ea.histoiredor.com
 ea.hofmann.es
@@ -47,6 +48,7 @@ ea.officedepot.fr
 ea.placedestendances.com
 ea.poeleaboismaison.com
 ea.reunica.com
+ea.smartbox.com
 ea.telecommandeonline.com
 ea.venta-unica.com
 ea.vente-unique.be
@@ -59,13 +61,13 @@ eat9.thebeat925.ca
 ebc1.capifrance.fr
 ek8.voyage-prive.com
 elr.sfr.fr
-erb.tremblant.ca
 ert5.rmcsport.tv
 eule1.pmu.fr
 eulerian.look-voyages.fr
 eulerian.monoprix.fr
 eulerian.officiel-des-vacances.com
 eulerian.sarenza.com
+eulerian.telechargement.fr
 eulerian.thalasseo.com
 eultech.fnac.com
 f0nn.oney.fr
@@ -76,6 +78,7 @@ fec1.optimhome.com
 fl5dpe.oui.sncf
 fpb8.esce.fr
 fsz1.francoisesaget.com
+ftn.fortuneo.fr
 fzb5.laboratoire-giphar.fr
 gdm1.toner.fr
 gi7a.structube.com
@@ -83,9 +86,9 @@ guq9.vente-unique.it
 hbo5.concours-pass.com
 he6e.lavieimmo.com
 hjc6.supcareer.com
-hk2d.tourismemauricie.com
 hkj8.evobanco.com
 idg1.idgarages.com
+inv3te.oui.sncf
 iop4.aireuropa.com
 jcr3.onlyyouhotels.com
 jelr1.dili.fr
@@ -94,6 +97,7 @@ jln3.clstudios.com
 jo2f.cheque-cadhoc.fr
 k4fu.verif.com
 kux5.raileurope.com
+kvt5.blesscollectionhotels.com
 kwsjy9.oui.sncf
 kyo7.supdepub.com
 let1.devialet.com
@@ -105,13 +109,16 @@ mi.miliboo.com
 mi.miliboo.de
 mm.melia.com
 mn.mistermenuiserie.com
+mud4.destinia.com.eg
 mva1.maeva.com
 ncx2.voyage-prive.it
 net1.coolsailing.com
 netc.sfr.fr
 nlf6.vente-unique.pl
 nmo1.orpi.com
+noa0.compteczam.fr
 nrg.red-by-sfr.fr
+nym5c.bonlook.com
 nym5c.laura.ca
 ofk3.orcanta.fr
 ogb2.leanatureboutique.com
@@ -130,6 +137,7 @@ pbox.photobox.se
 pgt1.voyage-prive.es
 pjh7.us.chantelle.com
 pk1u.melanielyne.com
+pkc5.hardrockhoteltenerife.com
 po.ponant.com
 pol3.cheque-domicile.fr
 pp.promocionesfarma.com
@@ -138,6 +146,7 @@ qaz3.wethenew.com
 rh5i.tradingsat.com
 s4e8.cascades.com
 sby1.madeindesign.de
+sis8.premieremoisson.com
 sis8.sisley-paris.com
 ski1.skiset.com
 sls2.loisirsencheres.com
@@ -148,18 +157,21 @@ t.locasun.es
 t.locasun.fr
 t.locasun.it
 t9h2.ricardocuisine.com
+tdf1.admyjob.com
 tdf1.easyviajar.com
 tdf1.easyvoyage.co.uk
 tdf1.easyvoyage.com
+tdf1.laredoute.fr
 tdf1.vente-unique.pt
 tmy8.madeindesign.ch
-tpa7.iahorro.com
 tsj0.madeindesign.com
 tvl8.supdecreation.com
+udr9.livera.nl
 uue2.destinia.ir
 uwy4.aegon.es
 uzd1.madeindesign.com
 v.oui.sncf
+vbe.voyage-prive.be
 vch.voyage-prive.ch
 vde1.voyage-prive.de
 vet0.carrefour-banque.fr
@@ -180,9 +192,13 @@ zum7cc.oui.sncf
 #
 # aca.ca-eulerian.net disguised trackers
 #
+5fm.985fm.ca
+c0i.ckoi.com
 c0p.cepsum.umontreal.ca
+eat9.thebeat925.ca
 erb.tremblant.ca
 hk2d.tourismemauricie.com
+nym5c.bonlook.com
 #
 # bca.ca-eulerian.net disguised trackers
 #

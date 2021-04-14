@@ -48,6 +48,7 @@
     * st1-lg-avendrealouer-fr-cddc.at-o.net
     * strawberry-basf-com-cddc.at-o.net
     * tm-urssaf-fr-cddc.at-o.net
+    * waati-quechoisir-org-cddc.at-o.net
     * wareneingang-edeka-de-cddc.at-o.net
     * wvvw-france24-com-cddc.at-o.net
     * wvvw-francemediasmonde-com-cddc.at-o.net
@@ -108,6 +109,7 @@
 | st1.lg.avendrealouer.fr | st1-lg-avendrealouer-fr-cddc.at-o.net |
 | strawberry.basf.com | strawberry-basf-com-cddc.at-o.net |
 | tm.urssaf.fr | tm-urssaf-fr-cddc.at-o.net |
+| waati.quechoisir.org | waati-quechoisir-org-cddc.at-o.net |
 | wareneingang.edeka.de | wareneingang-edeka-de-cddc.at-o.net |
 | wvvw.france24.com | wvvw-france24-com-cddc.at-o.net |
 | wvvw.francemediasmonde.com | wvvw-francemediasmonde-com-cddc.at-o.net |

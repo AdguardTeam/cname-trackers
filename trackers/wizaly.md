@@ -16,6 +16,7 @@
     * tk-planete-oui-fr.wizaly.com
     * tk-salomon-com.wizaly.com
     * tk-svsound-com.wizaly.com
+    * tk-viapresse-com.wizaly.com
     * tk_prismashop_fr.wizaly.com
     * tk_transavia_com.wizaly.com
     * tkairfrance.wizaly.com
@@ -39,6 +40,7 @@
 | tk.planete-oui.fr | tk-planete-oui-fr.wizaly.com |
 | tk.salomon.com | tk-salomon-com.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |
+| tk.viapresse.com | tk-viapresse-com.wizaly.com |
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |
 | tk.transavia.com | tk_transavia_com.wizaly.com |
 | tk.airfrance.at | tkairfrance.wizaly.com |

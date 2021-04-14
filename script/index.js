@@ -91,7 +91,7 @@ const main = async () => {
                 ),
                 hostsRulesString,
             );
-            const doneNumStr = i === trackersLength - 1 ? '100%' : `~${Math.round((i + 1 / trackersLength) * 100)}%`;
+            const doneNumStr = i === trackersLength - 1 ? '100%' : `~${Math.round(((i + 1) / trackersLength) * 100)}%`;
             console.log(`Successfully fetched for tracker: ${companyName}, ${doneNumStr} done`);
         } catch (e) {
             console.log(`Failed to fetch for tracker: ${companyName}`);

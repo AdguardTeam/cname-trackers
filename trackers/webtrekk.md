@@ -24,6 +24,7 @@
 * wt-eu02.net
     * 107006243521810.wt-eu02.net
     * 148749046266446.wt-eu02.net
+    * 176652923057792.wt-eu02.net
     * 208005830805862.wt-eu02.net
     * 285545256993116.wt-eu02.net
     * 286813086616891.wt-eu02.net
@@ -33,8 +34,10 @@
     * 371033713452477.wt-eu02.net
     * 427813503923049.wt-eu02.net
     * 451504046304293.wt-eu02.net
+    * 470719744966924.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
+    * 611716061616237.wt-eu02.net
     * 626892113650542.wt-eu02.net
     * 637394170883823.wt-eu02.net
     * 639871942536313.wt-eu02.net
@@ -45,11 +48,14 @@
     * 737859735586197.wt-eu02.net
     * 752828619977374.wt-eu02.net
     * 753960264605716.wt-eu02.net
+    * 807354460250799.wt-eu02.net
     * 823532764568303.wt-eu02.net
     * 865411762489824.wt-eu02.net
+    * 913854712272815.wt-eu02.net
     * 915651380225350.wt-eu02.net
     * 958731023298385.wt-eu02.net
     * 964869656656022.wt-eu02.net
+    * 965607891904117.wt-eu02.net
     * 972067760041897.wt-eu02.net
     * 982429105360946.wt-eu02.net
     * 989502084988358.wt-eu02.net
@@ -61,6 +67,7 @@
     * berlinonline-02.wt-eu02.net
     * corporate-benefits.wt-eu02.net
     * creditreform01.wt-eu02.net
+    * creditreform02.wt-eu02.net
     * data-inbank01.wt-eu02.net
     * data-leipzig.wt-eu02.net
     * de-card01.wt-eu02.net
@@ -81,6 +88,7 @@
     * paydirekt-de01.wt-eu02.net
     * sdkurier-de01.wt-eu02.net
     * sparda01.wt-eu02.net
+    * sportscheckde01.wt-eu02.net
     * tipp24-de01.wt-eu02.net
     * tr.computeruniverse.wt-eu02.net
     * unioninvestment-de01.wt-eu02.net
@@ -94,6 +102,7 @@
 | ---- | ---- |
 | web.emails.elc.co.uk | 107006243521810.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
+| trk.nuernberger.digital | 176652923057792.wt-eu02.net |
 | census.misterspex.de | 208005830805862.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
@@ -103,8 +112,10 @@
 | web.emails.thetoyshop.com | 371033713452477.wt-eu02.net |
 | wbtrkk.teufelaudio.com | 427813503923049.wt-eu02.net |
 | wbtrkk.teufelaudio.it | 451504046304293.wt-eu02.net |
+| webt.pure.com | 470719744966924.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
+| census.misterspex.es | 611716061616237.wt-eu02.net |
 | census.misterspex.ch | 626892113650542.wt-eu02.net |
 | wbtrkk.teufelaudio.at | 637394170883823.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |
@@ -115,12 +126,15 @@
 | mapp.yesstyle.com | 737859735586197.wt-eu02.net |
 | wbtrkk.teufel.ch | 752828619977374.wt-eu02.net |
 | census.misterspex.nl | 753960264605716.wt-eu02.net |
+| abc.fackelmann.de | 807354460250799.wt-eu02.net |
 | mit.dws.com | 823532764568303.wt-eu02.net |
 | mit.dws.de | 823532764568303.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
+| census.misterspex.fr | 913854712272815.wt-eu02.net |
 | census.misterspex.se | 915651380225350.wt-eu02.net |
 | web.mapp.ilgiardinodeilibri.it | 958731023298385.wt-eu02.net |
 | web.newsletter.viviennewestwood.com | 964869656656022.wt-eu02.net |
+| mit.researchlog.dbresearch.com | 965607891904117.wt-eu02.net |
 | census.misterspex.co.uk | 972067760041897.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
@@ -141,6 +155,7 @@
 | text.rahmenvereinbarungen.de | corporate-benefits.wt-eu02.net |
 | sub1.cosmosdirekt.de | cosmos01ssl.webtrekk.net |
 | fiwinet.firmenwissen.de | creditreform01.wt-eu02.net |
+| webmet.creditreform.de | creditreform02.wt-eu02.net |
 | data.inbank.it | data-inbank01.wt-eu02.net |
 | data.leipzig.de | data-leipzig.wt-eu02.net |
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
@@ -187,6 +202,7 @@
 | scout.bergfreunde.eu | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
+| wttd.madeleine-mode.at | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-mode.ch | madeleineprod01.wt-eu02.net |
 | wttd.madeleine.com | madeleineprod01.wt-eu02.net |
 | wttd.madeleine.de | madeleineprod01.wt-eu02.net |
@@ -194,6 +210,7 @@
 | wttd.madeleine.gr | madeleineprod01.wt-eu02.net |
 | data.mainpost.de | mainpost01.wt-eu02.net |
 | waaf.medion.com | medion01.wt-eu02.net |
+| waaf1.aldilife.com | medion01.wt-eu02.net |
 | waaf1.alditalk.de | medion01.wt-eu02.net |
 | web.mytoys.de | mytoys02.wt-eu02.net |
 | trk.nuernberger.de | nuernberger02.webtrekk.net |
@@ -210,6 +227,7 @@
 | t.paydirekt.de | paydirekt-de01.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |
 | proditor.sparda.de | sparda01.wt-eu02.net |
+| wetr.sportscheck.com | sportscheckde01.wt-eu02.net |
 | tracking.tchibo.de | tchibo03.webtrekk.net |
 | tracking.tchibo.com.tr | tchibo09.webtrekk.net |
 | pix.telekom.de | telekom01.webtrekk.net |

@@ -8,7 +8,9 @@
 ||k.cocooncenter.com^
 ||k.cocooncenter.de^
 ||k.cocooncenter.es^
+||k.direct-assurance.fr^
 ||k.jacadi.es^
+||k.jacadi.us^
 ||k.laredoute.be^
 ||k.laredoute.fr^
 ||k.laredoute.nl^
@@ -18,4 +20,5 @@
 ||k.voyageursdumonde.fr^
 ||ka.ilius.net^
 ||keyade.alltricks.fr^
+||tck.photobox.com^
 ||tck.transavia.com^
