@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * webtrekk.net
+    * adac02.webtrekk.net
     * augsburgerallgemeine01.webtrekk.net
     * bild01.webtrekk.net
     * cbm02.webtrekk.net
@@ -22,6 +23,7 @@
     * warentest-de01.webtrekk.net
     * yello-de01.webtrekk.net
 * wt-eu02.net
+    * 101230059950694.wt-eu02.net
     * 107006243521810.wt-eu02.net
     * 148749046266446.wt-eu02.net
     * 176652923057792.wt-eu02.net
@@ -30,6 +32,7 @@
     * 286813086616891.wt-eu02.net
     * 302631813489498.wt-eu02.net
     * 307902509027183.wt-eu02.net
+    * 346715981768881.wt-eu02.net
     * 367171131378433.wt-eu02.net
     * 371033713452477.wt-eu02.net
     * 427813503923049.wt-eu02.net
@@ -37,6 +40,7 @@
     * 470719744966924.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
+    * 598189357306993.wt-eu02.net
     * 611716061616237.wt-eu02.net
     * 626892113650542.wt-eu02.net
     * 637394170883823.wt-eu02.net
@@ -44,6 +48,7 @@
     * 641523609775483.wt-eu02.net
     * 666882163750646.wt-eu02.net
     * 669154114435717.wt-eu02.net
+    * 729347163621496.wt-eu02.net
     * 730059294506327.wt-eu02.net
     * 737859735586197.wt-eu02.net
     * 752828619977374.wt-eu02.net
@@ -65,6 +70,7 @@
     * audev-zeit.wt-eu02.net
     * baunetzprod01.wt-eu02.net
     * berlinonline-02.wt-eu02.net
+    * blume2000.wt-eu02.net
     * corporate-benefits.wt-eu02.net
     * creditreform01.wt-eu02.net
     * creditreform02.wt-eu02.net
@@ -100,6 +106,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| web.news.creedfragrances.co.uk | 101230059950694.wt-eu02.net |
 | web.emails.elc.co.uk | 107006243521810.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
@@ -107,7 +114,9 @@
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
+| a.jaz-hotel.com | 307902509027183.wt-eu02.net |
 | a.steigenberger.com | 307902509027183.wt-eu02.net |
+| census.misterspex.fi | 346715981768881.wt-eu02.net |
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |
 | web.emails.thetoyshop.com | 371033713452477.wt-eu02.net |
 | wbtrkk.teufelaudio.com | 427813503923049.wt-eu02.net |
@@ -115,6 +124,7 @@
 | webt.pure.com | 470719744966924.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
+| wbtrkk.teufelaudio.be | 598189357306993.wt-eu02.net |
 | census.misterspex.es | 611716061616237.wt-eu02.net |
 | census.misterspex.ch | 626892113650542.wt-eu02.net |
 | wbtrkk.teufelaudio.at | 637394170883823.wt-eu02.net |
@@ -122,6 +132,7 @@
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
 | data.adlermode.com | 669154114435717.wt-eu02.net |
+| web.diebayerische.de | 729347163621496.wt-eu02.net |
 | census.misterspex.at | 730059294506327.wt-eu02.net |
 | mapp.yesstyle.com | 737859735586197.wt-eu02.net |
 | wbtrkk.teufel.ch | 752828619977374.wt-eu02.net |
@@ -139,6 +150,7 @@
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
 | wbtrkk.teufelaudio.pl | 997311968670029.wt-eu02.net |
+| webts.adac.de | adac02.webtrekk.net |
 | pix.airbusgroup.com | airbusgroup-de01.wt-eu02.net |
 | analytics.hermesworld.com | analytics-myhermes.wt-eu02.net |
 | analytics.myhermes.de | analytics-myhermes.wt-eu02.net |
@@ -147,6 +159,7 @@
 | cdn7.baunetz.de | baunetzprod01.wt-eu02.net |
 | w7.berlin.de | berlinonline-02.wt-eu02.net |
 | spr.bild.de | bild01.webtrekk.net |
+| trk.blume2000.de | blume2000.wt-eu02.net |
 | text.mitarbeiterangebote.de | cbm02.webtrekk.net |
 | text.benefitsatwork.be | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.ch | corporate-benefits.wt-eu02.net |
@@ -198,6 +211,7 @@
 | da.hornbach.ro | hornbach-02.wt-eu02.net |
 | da.hornbach.se | hornbach-02.wt-eu02.net |
 | da.hornbach.sk | hornbach-02.wt-eu02.net |
+| scout.berg-freunde.ch | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.de | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.eu | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
@@ -244,6 +258,7 @@
 | wa.wdrmaus.de | wa-wdr.wt-eu02.net |
 | images1.test.de | warentest-de01.webtrekk.net |
 | wttd.douglas.at | wttd-douglas.wt-eu02.net |
+| wttd.douglas.ch | wttd-douglas.wt-eu02.net |
 | wttd.douglas.de | wttd-douglas.wt-eu02.net |
 | wttd.douglas.it | wttd-douglas.wt-eu02.net |
 | wttd.douglas.nl | wttd-douglas.wt-eu02.net |

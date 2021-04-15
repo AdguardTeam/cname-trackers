@@ -22,10 +22,12 @@ w3.flatex.at
 w3.flatex.de
 w3.flatex.nl
 w3.vitrade.de
+webts.adac.de
 #
 # wt-eu02.net disguised trackers
 #
 a.gedidigital.it
+a.jaz-hotel.com
 a.steigenberger.com
 abc.fackelmann.de
 analytics.hermesworld.com
@@ -37,6 +39,7 @@ census.misterspex.ch
 census.misterspex.co.uk
 census.misterspex.de
 census.misterspex.es
+census.misterspex.fi
 census.misterspex.fr
 census.misterspex.nl
 census.misterspex.no
@@ -98,6 +101,7 @@ ot.obi.si
 ot.obi.sk
 pix.airbusgroup.com
 proditor.sparda.de
+scout.berg-freunde.ch
 scout.bergfreunde.de
 scout.bergfreunde.eu
 startrekk.flaconi.at
@@ -112,6 +116,7 @@ text.rahmenvereinbarungen.de
 tippcom01.tipp24.com
 tr.computeruniverse.net
 tr.suedkurier.de
+trk.blume2000.de
 trk.nuernberger.digital
 w7.berlin.de
 wa.planet-wissen.de
@@ -126,15 +131,18 @@ wbtrkk.deutschlandcard.de
 wbtrkk.teufel.ch
 wbtrkk.teufel.de
 wbtrkk.teufelaudio.at
+wbtrkk.teufelaudio.be
 wbtrkk.teufelaudio.com
 wbtrkk.teufelaudio.es
 wbtrkk.teufelaudio.it
 wbtrkk.teufelaudio.nl
 wbtrkk.teufelaudio.pl
+web.diebayerische.de
 web.emails.elc.co.uk
 web.emails.thetoyshop.com
 web.mapp.ilgiardinodeilibri.it
 web.mytoys.de
+web.news.creedfragrances.co.uk
 web.news.eprice.it
 web.newsletter.viviennewestwood.com
 web.x.ilpost.it
@@ -145,6 +153,7 @@ wt.envivas.de
 wt.generali.de
 wt.vhb.de
 wttd.douglas.at
+wttd.douglas.ch
 wttd.douglas.de
 wttd.douglas.it
 wttd.douglas.nl

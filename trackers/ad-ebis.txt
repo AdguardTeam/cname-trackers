@@ -5,11 +5,15 @@
 !
 ||ac-3.mix.tokyo^
 ||ad-ebis.bookpass.auone.jp^
+||ad.aucfan.com^
+||ad.kddi-fs.com^
+||ad.takasu.co.jp^
 ||ad.tempstaff.co.jp^
 ||ad1.tone.ne.jp^
 ||adbq.bk.mufg.jp^
 ||adebis-52667624.wowma.jp^
 ||adebis.cybozu.co.jp^
+||adebis.daiwahouse.co.jp^
 ||adebis.demae-can.com^
 ||adebis.fenet.jp^
 ||adebis.irobot-jp.com^
@@ -28,6 +32,9 @@
 ||ebis.pasonatech.co.jp^
 ||ebis.seibu-k.co.jp^
 ||ebis.studio-alice.co.jp^
+||ebis.sunstar-shop.jp^
+||ebis2020.hoiku-job.net^
+||ebisanalysis.mouse-jp.co.jp^
 ||greenjapan-cname.green-japan.com^
 ||kraciecojp-ebis.kracie.co.jp^
 ||maz.zba.jp^

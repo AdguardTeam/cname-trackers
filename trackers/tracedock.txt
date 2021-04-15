@@ -18,6 +18,7 @@
 !
 ! a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com disguised trackers
 !
+||api.bunzlaucastle.com^
 ||api.weltevree.eu^
 ||app1.youngcapital.nl^
 ||core.bruynzeelkeukens.nl^
@@ -41,6 +42,7 @@
 ||s0.beyondonline.nl^
 ||tdep.garmundo.de^
 ||tdep.garmundo.nl^
+||tdep.growwwdigital.com^
 ||tdep.mijnurgentie.nl^
 ||tdep.sdim.nl^
 ||tdep.teamnijhuis.com^

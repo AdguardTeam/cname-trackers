@@ -6,6 +6,7 @@
 4de141c5-7211-4615-be13-b3774dde16f8.legaltile.com
 a.artistasdigitais.net
 a.fdmedia.io
+a.getaawp.com
 a.hellonext.co
 a.mhthemes.com
 a.skcript.com
@@ -14,6 +15,7 @@ analytics.arunraghavan.net
 analytics.behaheaters.co.uk
 analytics.churchthemes.com
 analytics.filiotech.com
+analytics.forgetwp.com
 analytics.hiome.com
 analytics.lunge.de
 analytics.mambaui.com
@@ -31,6 +33,7 @@ app-stats.supernotes.app
 artistchristinacarmel.ericksonbuilt.com
 assets.garron.blog
 assets.garron.me
+bob.gitclear.com
 churro.noteapps.info
 cm.redbull.com
 connect.astrobotanicals.com
@@ -40,11 +43,13 @@ data.netweaver.uk
 datum.appfleet.com
 engine.totalcarcheck.co.uk
 explicatio.edgeimpulse.com
+extramilefloorcare.ericksonbuilt.com
 goals.rusingh.com
 gullfoss.deepsource.io
 hej.henriksommerfeld.se
 hi.koalendar.com
 hi.streetworkoutlist.com
+hi.victorbaudot.com
 informatics.filamentcolors.xyz
 insights.frenchtogether.com
 joy.ochronus.online
@@ -89,10 +94,12 @@ plausible.ezrayellin.com
 plausible.f1laps.com
 plausible.factly.in
 plausible.flowcv.io
+plausible.food.game
 plausible.gitjournal.io
 plausible.goose.game
 plausible.grouparoo.com
 plausible.gymglish.com
+plausible.haltakov.net
 plausible.help.exploreandcreate.com
 plausible.hstmedical.com
 plausible.inflex.io
@@ -104,8 +111,10 @@ plausible.mattpruitt.com
 plausible.microwire.info
 plausible.notiontweet.app
 plausible.nova.app
+plausible.nubemia.com
 plausible.panic.com
 plausible.phuctm97.com
+plausible.play.date
 plausible.promlabs.com
 plausible.punchfork.com
 plausible.resilienz-kongress.de
@@ -148,9 +157,12 @@ stat.tomdebruijn.com
 stat.umsu.de
 stats.100daystooffload.com
 stats.alleaktien.de
+stats.am.ai
 stats.amiibo.life
+stats.audiorelay.net
 stats.avedictionary.com
 stats.baby-care.de
+stats.baptistwomen.com
 stats.benui.ca
 stats.bertwagner.com
 stats.bestservers.co
@@ -186,6 +198,7 @@ stats.dirtify.me
 stats.divemap.uk
 stats.dokidokibangkok.com
 stats.domain.garden
+stats.doors.live
 stats.edkimo.com
 stats.elementary.io
 stats.elixir-lang.org
@@ -242,10 +255,12 @@ stats.lebonforfait.fr
 stats.lestypesdefarine.fr
 stats.limewebdevelopment.io
 stats.lord.io
+stats.lumen-app.com
 stats.macosicons.com
 stats.maferland.com
 stats.marudor.de
 stats.masjidbox.com
+stats.maximorlov.com
 stats.melvingeorge.me
 stats.menn.blog
 stats.mesenvies.fr
@@ -346,5 +361,6 @@ traffic.hostedstatus.page
 visitors.asadis.net
 visits.quitsocialmedia.club
 visits.tommi.space
+vole.amplenote.com
 www2.azimuthpsych.com
 yolo.phpliveregex.com
