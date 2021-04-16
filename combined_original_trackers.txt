@@ -22,6 +22,9 @@
 ||sc.adobedc.net^
 ||sc.omtrdc.net^
 !
+! Company: Branch.io
+||thirdparty.bnc.lt^
+!
 ! Company: Commanders Act
 ||tagcommander.com^
 !

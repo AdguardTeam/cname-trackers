@@ -1,4 +1,5 @@
 const dnsPromises = require('dns').promises;
+const { promises: fs } = require('fs');
 
 const identity = (el) => el;
 
@@ -29,6 +30,20 @@ const sortAscending = (a, b) => {
     }
 
     return 0;
+};
+
+/**
+ * Checks if file exist
+ * @param {string} filepath path to file
+ * @returns {boolean}
+ */
+const isFileExisting = async (filepath) => {
+    try {
+        await fs.access(filepath);
+        return true;
+    } catch {
+        return false;
+    }
 };
 
 /**
@@ -238,6 +253,7 @@ module.exports = {
     formatFilename,
     sleep,
     sortAscending,
+    isFileExisting,
     getRemoved,
     getValidPairsFromRemoved,
     sortMergedInfo,
