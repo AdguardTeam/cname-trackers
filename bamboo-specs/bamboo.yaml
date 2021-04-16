@@ -1,0 +1,58 @@
+---
+version: 2
+plan:
+  project-key: FILTERS
+  key: CNAMETRACKSPECS
+  name: cname-trackers
+variables:
+  dockerNode: node:current-alpine3.12
+
+stages:
+  - Build:
+      manual: false
+      final: false
+      jobs:
+        - Build
+Build:
+  key: BUILD
+  other:
+    clean-working-dir
+  docker:
+    image: ${bamboo.dockerNode}
+  tasks:
+    - checkout:
+        force-clean-build: 'true'
+    - script:
+        interpreter: SHELL
+        scripts:
+          - |-
+            cd script
+            yarn install
+            yarn start
+    - any-task:
+        plugin-key: com.atlassian.bamboo.plugins.vcs:task.vcs.commit
+        configuration:
+          commitMessage: Periodic update
+          selectedRepository: defaultRepository
+    - any-task:
+        plugin-key: com.atlassian.bamboo.plugins.vcs:task.vcs.push
+        configuration:
+          selectedRepository: defaultRepository
+triggers:
+  - cron:
+      expression: 0 0 11 ? * 2
+
+branches:
+  create: manually
+  delete: never
+  link-to-jira: true
+
+notifications:
+  - events:
+      - plan-failed
+    recipients:
+      - emails:
+          - filters@adguard.com
+labels: []
+other:
+  concurrent-build-plugin: system-default
