@@ -5,7 +5,7 @@ plan:
   key: CNAMETRACKSPECS
   name: cname-trackers
 variables:
-  dockerNode: node:current-alpine3.12
+  dockerNode: node:15.14.0-buster-slim
 
 stages:
   - Build:
