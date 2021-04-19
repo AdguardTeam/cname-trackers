@@ -16,7 +16,7 @@ stages:
 Build:
   key: BUILD
   other:
-    clean-working-dir
+    clean-working-dir: true
   docker:
     image: ${bamboo.dockerNode}
   tasks:
