@@ -38,6 +38,9 @@ Build:
         plugin-key: com.atlassian.bamboo.plugins.vcs:task.vcs.push
         configuration:
           selectedRepository: defaultRepository
+  requirements:
+    - adg-docker: 'true'
+
 triggers:
   - cron:
       expression: 0 0 11 ? * 2
