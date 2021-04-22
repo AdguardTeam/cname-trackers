@@ -8,6 +8,7 @@
 1.car21.net.daraz.com
 114-track.net.daraz.com
 2.c.ns.emailvision.net.daraz.com
+76.ingenioustech.biz
 a.billing-ns.emailvision.net.daraz.com
 a.disabledns.emailvision.net.daraz.com
 a.dogfood-ns.emailvision.net.daraz.com
@@ -593,6 +594,8 @@ marketing.net.monedo.pl
 marketing.net.occhiali24.it
 marketing.net.ocm.de
 marketing.net.steiner-vision.de
+marketing.net.voopter.com.br
+marketing.net.vsgamers.es
 marketing.net.wink.es
 marketing.net.x24factory.com
 marketing.net.zooplus.de
@@ -639,6 +642,7 @@ net-csr31.net.daraz.com
 net-r-ln-2.net.daraz.com
 net.berndpulchmedotcom.net.daraz.com
 net.daraz.com
+net.home24.de
 net.idealo-partner.com
 net.jumia.ci
 net.jumia.com.eg
@@ -886,6 +890,7 @@ r-oa-1.productions.net.daraz.com
 r-oa-1.sandbox.net.daraz.com
 r-oa-2.merchant.net.daraz.com
 r-oa-2.team.net.daraz.com
+r.akipam.com
 r.lafamo.com
 raw-patner.net.daraz.com
 raw.c.ns.emailvision.net.daraz.com
@@ -899,6 +904,7 @@ redirector-allseason.net.daraz.com
 redirector-keele-nnw-leis-mc-leis.net.daraz.com
 regionc.ns.emailvision.net.daraz.com
 regionns3.cl.bellsouth.net.daraz.com
+renaultbankdirekt.efscle.com
 repo-csr41.net.daraz.com
 repo-patnercgi.net.daraz.com
 repo.net.daraz.com
@@ -924,6 +930,7 @@ rw.net.rewe.de
 s3.lib-oa-1.net.daraz.com
 s3.ns3.cl.bellsouth.net.daraz.com
 s3.www.applications.net.daraz.com
+schwaebischhall.efscle.com
 scm-car10.net.daraz.com
 scm-lib-ln-1.net.daraz.com
 scm-r-ln-1.net.daraz.com
@@ -954,6 +961,7 @@ skins-r-dw-1.net.daraz.com
 skins.csr12.net.daraz.com
 skins.r-dw-1.net.daraz.com
 skinscar21.net.daraz.com
+smartbroker.efscle.com
 spring.ebs.net.daraz.com
 spring.static.net.daraz.com
 spring.stgx.net.daraz.com
@@ -1025,6 +1033,7 @@ training-ns3.cl.bellsouth.net.daraz.com
 training.r-ln-1.net.daraz.com
 trainingcsr41.net.daraz.com
 trainr-oa-1.net.daraz.com
+trezor.efscle.com
 trial-lib-ht-1.net.daraz.com
 trial-ns1.twtelecom.net.daraz.com
 upload-beta-interaction.net.daraz.com

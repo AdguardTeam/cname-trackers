@@ -24,6 +24,7 @@
 ||analytics.ramiyer.io^
 ||analytics.ramiyer.me^
 ||analytics.teamcovenant.com^
+||analytics.transmoni.vn^
 ||analytics.valheimgamer.com^
 ||analytics.winter.ink^
 ||antitracking.owncast.online^
@@ -42,7 +43,6 @@
 ||data.netweaver.uk^
 ||datum.appfleet.com^
 ||engine.totalcarcheck.co.uk^
-||explicatio.edgeimpulse.com^
 ||extramilefloorcare.ericksonbuilt.com^
 ||goals.rusingh.com^
 ||gullfoss.deepsource.io^
@@ -57,19 +57,25 @@
 ||l2k30jsa.theochu.com^
 ||littlebrother.makeplans.net^
 ||meter.bref.sh^
+||miernik.technologiewdomu.pl^
 ||momotaro.craigmod.com^
 ||ms.markosaric.com^
 ||noushe.zevvle.com^
 ||numbers.triplejack.com^
+||p.barrera.io^
 ||p.clvs7.com^
 ||p.fairspot.host^
+||p.ivoberger.com^
 ||p.versacommerce.de^
 ||p.victoria.dev^
 ||p.wren.co^
 ||pa-stats.encore.dev^
 ||pa.opqr.co^
+||pa.travelwhiz.app^
 ||pan.render.com^
 ||ping.cavelab.dev^
+||ping.richardtaylor.dev^
+||pio.fabianfett.de^
 ||pl.1feed.app^
 ||pl.codetheweb.blog^
 ||plau.devjob.ro^
@@ -103,6 +109,7 @@
 ||plausible.help.exploreandcreate.com^
 ||plausible.hstmedical.com^
 ||plausible.inflex.io^
+||plausible.io.merfolkslullaby.com^
 ||plausible.jeremiahlee.com^
 ||plausible.kreya.app^
 ||plausible.lesbianromantic.com^
@@ -115,6 +122,7 @@
 ||plausible.panic.com^
 ||plausible.phuctm97.com^
 ||plausible.play.date^
+||plausible.prod.sketch.com^
 ||plausible.promlabs.com^
 ||plausible.punchfork.com^
 ||plausible.resilienz-kongress.de^
@@ -123,6 +131,7 @@
 ||plausible.simplelogin.io^
 ||plausible.slope.io^
 ||plausible.staging.sketch.com^
+||plausible.starlegacyfoundation.org^
 ||plausible.strzibny.name^
 ||plausible.tac.dappstar.io^
 ||plausible.vaughanesports.org^
@@ -147,7 +156,7 @@
 ||s.maxrozen.com^
 ||s.nslookup.io^
 ||s.onlineornot.com^
-||s.savjee.be^
+||sats.mailbrew.com^
 ||simple.bootify.io^
 ||site-stats.supernotes.app^
 ||sp.gameomatic.fr^
@@ -167,6 +176,8 @@
 ||stats.bertwagner.com^
 ||stats.bestservers.co^
 ||stats.bimbase.nl^
+||stats.bitpost.app^
+||stats.blog.codingmilitia.com^
 ||stats.blog.sean-wright.com^
 ||stats.blog.sublimesecurity.com^
 ||stats.bluesabre.org^
@@ -214,6 +225,7 @@
 ||stats.formcrafts.com^
 ||stats.fortunabkk.com^
 ||stats.fundimmo.com^
+||stats.garten.schule^
 ||stats.getdoks.org^
 ||stats.ghost.org^
 ||stats.glassmountains.co.uk^
@@ -230,6 +242,7 @@
 ||stats.hone.uk^
 ||stats.hotwire.dev^
 ||stats.htmlcsstoimage.com^
+||stats.htp.org^
 ||stats.hugoreeves.com^
 ||stats.immunefi.com^
 ||stats.infoboard.de^
@@ -249,6 +262,7 @@
 ||stats.kryptoslogic.com^
 ||stats.laxallstars.com^
 ||stats.layl.app^
+||stats.leadership.garden^
 ||stats.leaguestats.gg^
 ||stats.learnappmaking.com^
 ||stats.lebonforfait.fr^
@@ -266,6 +280,8 @@
 ||stats.mesenvies.fr^
 ||stats.metaletter.net^
 ||stats.metrozendodo.fr^
+||stats.mikepenz.dev^
+||stats.mmazzarolo.com^
 ||stats.mtsknn.fi^
 ||stats.muchbetteradventures.com^
 ||stats.mynfp.de^
@@ -280,8 +296,10 @@
 ||stats.patout.dev^
 ||stats.patriot.win^
 ||stats.paulbutler.org^
+||stats.paysagistes.pro^
 ||stats.pebkac.io^
 ||stats.pep20.org^
+||stats.permapeople.org^
 ||stats.personalkollen.se^
 ||stats.pixify.net^
 ||stats.planillaplus.com^
@@ -309,6 +327,7 @@
 ||stats.sethvincent.com^
 ||stats.share.link^
 ||stats.shell-tips.com^
+||stats.shepherd.com^
 ||stats.shoutout.so^
 ||stats.simplecss.org^
 ||stats.ski.com^
@@ -316,10 +335,12 @@
 ||stats.songbox.rocks^
 ||stats.southswindon-pc.gov.uk^
 ||stats.sparkloop.app^
+||stats.spp.co^
 ||stats.stacks.org^
 ||stats.stadiastats.gg^
 ||stats.steuer-soldaten.de^
 ||stats.stronglifts.com^
+||stats.studypages.com^
 ||stats.tekin.co.uk^
 ||stats.thegoodlineheight.com^
 ||stats.thelion.website^
@@ -327,12 +348,14 @@
 ||stats.thingsthatkeepmeupatnight.dev^
 ||stats.thomasvitale.com^
 ||stats.timmyomahony.com^
+||stats.tk.gg^
 ||stats.tobias-barth.net^
 ||stats.toiletmap.org.uk^
 ||stats.travel.geek.nz^
 ||stats.tresor.one^
 ||stats.twhl.xyz^
 ||stats.ubiwiz.com^
+||stats.unox.com^
 ||stats.urbanfinn.com^
 ||stats.useeffect.dev^
 ||stats.uxtools.co^
@@ -342,6 +365,7 @@
 ||stats.visions.ch^
 ||stats.vngameden.com^
 ||stats.walkiees.co.uk^
+||stats.websherpa.net^
 ||stats.www.agirpourlenvironnement.org^
 ||stats.x5x.host^
 ||stats.xn--drivation-b4a.fr^
@@ -358,6 +382,7 @@
 ||track.pokestats.gg^
 ||track.slickinbox.com^
 ||traffic.hostedstatus.page^
+||traffic.taktikal.is^
 ||visitors.asadis.net^
 ||visits.quitsocialmedia.club^
 ||visits.tommi.space^

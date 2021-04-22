@@ -6,6 +6,7 @@
 ||image.kfw.de^
 ||images1.test.de^
 ||mon.ingservices.nl^
+||pix.eads.com^
 ||pix.telekom-dienste.de^
 ||pix.telekom.de^
 ||pixel.augsburger-allgemeine.de^
@@ -15,6 +16,7 @@
 ||sub1.cosmosdirekt.de^
 ||text.mitarbeiterangebote.de^
 ||track.yello.de^
+||track.yellostrom.de^
 ||tracking.tchibo.com.tr^
 ||tracking.tchibo.de^
 ||trk.nuernberger.de^
@@ -44,6 +46,7 @@
 ||census.misterspex.nl^
 ||census.misterspex.no^
 ||census.misterspex.se^
+||cijfers.tweakers.nl^
 ||da.hornbach.at^
 ||da.hornbach.ch^
 ||da.hornbach.cz^
@@ -127,6 +130,7 @@
 ||waaf.medion.com^
 ||waaf1.aldilife.com^
 ||waaf1.alditalk.de^
+||waaf1.hoferfotos.at^
 ||wbtrkk.deutschlandcard.de^
 ||wbtrkk.teufel.ch^
 ||wbtrkk.teufel.de^
@@ -134,12 +138,14 @@
 ||wbtrkk.teufelaudio.be^
 ||wbtrkk.teufelaudio.com^
 ||wbtrkk.teufelaudio.es^
+||wbtrkk.teufelaudio.fr^
 ||wbtrkk.teufelaudio.it^
 ||wbtrkk.teufelaudio.nl^
 ||wbtrkk.teufelaudio.pl^
 ||web.diebayerische.de^
 ||web.emails.elc.co.uk^
 ||web.emails.thetoyshop.com^
+||web.info.bonprix.es^
 ||web.mapp.ilgiardinodeilibri.it^
 ||web.mytoys.de^
 ||web.news.creedfragrances.co.uk^
@@ -158,6 +164,7 @@
 ||wttd.douglas.it^
 ||wttd.douglas.nl^
 ||wttd.douglas.pl^
+||wttd.madeleine-fashion.be^
 ||wttd.madeleine-mode.at^
 ||wttd.madeleine-mode.ch^
 ||wttd.madeleine.com^

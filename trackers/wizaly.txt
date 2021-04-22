@@ -5,9 +5,11 @@
 !
 ||tk.abt.com^
 ||tk.airfrance.at^
+||tk.airfrance.ca^
 ||tk.airfrance.com^
 ||tk.airfrance.fr^
 ||tk.airfrance.tn^
+||tk.airfrance.us^
 ||tk.biovea.com^
 ||tk.conforama.fr^
 ||tk.engie.fr^

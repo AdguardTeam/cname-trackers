@@ -43,6 +43,7 @@
 ||res.programme-television.org^
 ||res.public.fr^
 ||ressources.centraleauto.com^
+||ressources.mavoiturecash.fr^
 ||rsc.lepoint.fr^
 ||salzwerk.viessmann.de^
 ||sheeta.nrj-play.fr^

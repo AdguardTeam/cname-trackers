@@ -33,7 +33,7 @@ const mergeDomainsInfo = async (companyFileName, fetchedDomainsInfo) => {
 
     let oldInfo = {};
     if (isOldFileExisting) {
-        const oldInfoContent = await fs.promises.readFile(oldInfoFilePath);
+        const oldInfoContent = await fs.readFile(oldInfoFilePath);
         oldInfo = JSON.parse(oldInfoContent);
     }
 

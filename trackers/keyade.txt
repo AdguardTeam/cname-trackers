@@ -11,14 +11,17 @@
 ||k.direct-assurance.fr^
 ||k.jacadi.co.uk^
 ||k.jacadi.es^
+||k.jacadi.fr^
 ||k.jacadi.us^
 ||k.laredoute.be^
 ||k.laredoute.fr^
 ||k.laredoute.nl^
 ||k.nomade-aventure.com^
 ||k.premiereclasse.com^
+||k.rueducommerce.fr^
 ||k.terdav.com^
 ||k.truffaut.com^
+||k.veepee.fr^
 ||k.veepee.it^
 ||k.voyageursdumonde.fr^
 ||ka.ilius.net^

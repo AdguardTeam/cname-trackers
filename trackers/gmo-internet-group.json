@@ -1,9 +1,11 @@
 {
   "d.image-ad.jp": "site-112900816347.gslb5.sakura.ne.jp",
   "d.newssuite.sony.net": "site-112900816347.gslb5.sakura.ne.jp",
+  "favor1.fractal.jp": "fractal-auth.ad-cloud.jp",
   "i.image-ad.jp": "e10217.g.akamaiedge.net",
   "i.newssuite.sony.net": "e26817.f.akamaiedge.net",
   "j.bg.adresult-sp.jp": "site-112900816347.gslb5.sakura.ne.jp",
   "j.image-ad.jp": "e10217.f.akamaiedge.net",
-  "j.newssuite.sony.net": "e26817.f.akamaiedge.net"
+  "j.newssuite.sony.net": "e26817.f.akamaiedge.net",
+  "newssuite.sony.net": "newssuite-sony-net.storage.googleapis.com"
 }

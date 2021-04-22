@@ -42,6 +42,7 @@
     * res-programme-television-org-cddc.at-o.net
     * res-public-fr-cddc.at-o.net
     * ressources-centraleauto-com-cddc.at-o.net
+    * ressources-mavoiturecash-fr-cddc.at-o.net
     * rsc-lepoint-fr-cddc.at-o.net
     * salzwerk-viessmann-de-cddc.at-o.net
     * sheeta-nrj-play-fr-cddc.at-o.net
@@ -103,6 +104,7 @@
 | res.programme-television.org | res-programme-television-org-cddc.at-o.net |
 | res.public.fr | res-public-fr-cddc.at-o.net |
 | ressources.centraleauto.com | ressources-centraleauto-com-cddc.at-o.net |
+| ressources.mavoiturecash.fr | ressources-mavoiturecash-fr-cddc.at-o.net |
 | rsc.lepoint.fr | rsc-lepoint-fr-cddc.at-o.net |
 | salzwerk.viessmann.de | salzwerk-viessmann-de-cddc.at-o.net |
 | sheeta.nrj-play.fr | sheeta-nrj-play-fr-cddc.at-o.net |

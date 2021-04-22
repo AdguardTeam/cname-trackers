@@ -8,6 +8,7 @@
     * bild01.webtrekk.net
     * cbm02.webtrekk.net
     * cosmos01ssl.webtrekk.net
+    * eads-com01.webtrekk.net
     * flaconi02.webtrekk.net
     * flatex-at01.webtrekk.net
     * flatex-de01.webtrekk.net
@@ -40,6 +41,7 @@
     * 470719744966924.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
+    * 590838755166551.wt-eu02.net
     * 598189357306993.wt-eu02.net
     * 611716061616237.wt-eu02.net
     * 626892113650542.wt-eu02.net
@@ -48,6 +50,7 @@
     * 641523609775483.wt-eu02.net
     * 666882163750646.wt-eu02.net
     * 669154114435717.wt-eu02.net
+    * 709114798683263.wt-eu02.net
     * 729347163621496.wt-eu02.net
     * 730059294506327.wt-eu02.net
     * 737859735586197.wt-eu02.net
@@ -97,6 +100,7 @@
     * sportscheckde01.wt-eu02.net
     * tipp24-de01.wt-eu02.net
     * tr.computeruniverse.wt-eu02.net
+    * tweakersnl01.wt-eu02.net
     * unioninvestment-de01.wt-eu02.net
     * vhb-01.wt-eu02.net
     * wa-wdr.wt-eu02.net
@@ -124,6 +128,7 @@
 | webt.pure.com | 470719744966924.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
+| wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
 | wbtrkk.teufelaudio.be | 598189357306993.wt-eu02.net |
 | census.misterspex.es | 611716061616237.wt-eu02.net |
 | census.misterspex.ch | 626892113650542.wt-eu02.net |
@@ -132,6 +137,7 @@
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
 | data.adlermode.com | 669154114435717.wt-eu02.net |
+| web.info.bonprix.es | 709114798683263.wt-eu02.net |
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
 | census.misterspex.at | 730059294506327.wt-eu02.net |
 | mapp.yesstyle.com | 737859735586197.wt-eu02.net |
@@ -174,6 +180,7 @@
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
 | di.ifolor.ch | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
+| pix.eads.com | eads-com01.webtrekk.net |
 | ed.emp-online.ch | emp01.wt-eu02.net |
 | ed.emp-online.com | emp01.wt-eu02.net |
 | ed.emp-online.es | emp01.wt-eu02.net |
@@ -216,6 +223,7 @@
 | scout.bergfreunde.eu | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
+| wttd.madeleine-fashion.be | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-mode.at | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-mode.ch | madeleineprod01.wt-eu02.net |
 | wttd.madeleine.com | madeleineprod01.wt-eu02.net |
@@ -226,6 +234,7 @@
 | waaf.medion.com | medion01.wt-eu02.net |
 | waaf1.aldilife.com | medion01.wt-eu02.net |
 | waaf1.alditalk.de | medion01.wt-eu02.net |
+| waaf1.hoferfotos.at | medion01.wt-eu02.net |
 | web.mytoys.de | mytoys02.wt-eu02.net |
 | trk.nuernberger.de | nuernberger02.webtrekk.net |
 | ot.obi-italia.it | obi-all.wt-eu02.net |
@@ -248,6 +257,7 @@
 | pix.telekom-dienste.de | telekom02.webtrekk.net |
 | tippcom01.tipp24.com | tipp24-de01.wt-eu02.net |
 | tr.computeruniverse.net | tr.computeruniverse.wt-eu02.net |
+| cijfers.tweakers.nl | tweakersnl01.wt-eu02.net |
 | daten.union-investment.de | unioninvestment-de01.wt-eu02.net |
 | wt.vhb.de | vhb-01.wt-eu02.net |
 | w3.vitrade.de | vitrade02.webtrekk.net |
@@ -264,3 +274,4 @@
 | wttd.douglas.nl | wttd-douglas.wt-eu02.net |
 | wttd.douglas.pl | wttd-douglas.wt-eu02.net |
 | track.yello.de | yello-de01.webtrekk.net |
+| track.yellostrom.de | yello-de01.webtrekk.net |
