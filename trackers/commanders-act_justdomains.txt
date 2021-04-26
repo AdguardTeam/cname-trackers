@@ -8,7 +8,6 @@ data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
 data.decathlon.it
-data.ouigo.com
 data.ubi.com
 data.wptag.net
 logger.yp.ca
@@ -23,6 +22,7 @@ tcdata.fnac.com
 #
 data.cofinoga.fr
 data.decathlon.it
+data.ouigo.com
 data.ubi.com
 data.wptag.net
 sales.disneylandparis.com

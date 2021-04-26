@@ -19,10 +19,15 @@ a8clk.asp.jcity.co.jp
 a8clk.bstyle.store
 a8clk.dospara.co.jp
 a8clk.kenkoukazoku.co.jp
+a8clk.osoujihonpo.com
+a8clk.rarejob.com
 a8clk.rental.geo-online.co.jp
 a8clk.reserve.retty.me
+a8clk.www.nortonstore.jp
 a8clk.xserver.ne.jp
+a8clk.yourmystar.jp
 a8cv.amiami.jp
+a8cv.bettysbeauty.jp
 a8cv.broadbandservice.jp
 a8cv.direct-teleshop.jp
 a8cv.entry.renet.jp
@@ -33,3 +38,4 @@ a8cv.p-antiaging.com
 a8cventry.uqwimax.jp
 afi.ssl.gmobb.jp
 shopping.cellpure.co.jp
+trcka8net.irobot-jp.com

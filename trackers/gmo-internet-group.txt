@@ -11,7 +11,6 @@
 ||j.bg.adresult-sp.jp^
 ||j.image-ad.jp^
 ||j.newssuite.sony.net^
-||newssuite.sony.net^
 !
 ! site-112900816347.gslb5.sakura.ne.jp disguised trackers
 !
@@ -31,3 +30,7 @@
 ! e10217.f.akamaiedge.net disguised trackers
 !
 ||j.image-ad.jp^
+!
+! newssuite-sony-net.storage.googleapis.com disguised trackers
+!
+||newssuite.sony.net^

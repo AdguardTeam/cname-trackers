@@ -10,7 +10,6 @@
     * redirect33.tagcommander.com
     * redirect341.tagcommander.com
     * redirect343.tagcommander.com
-    * redirect362.tagcommander.com
     * redirect440.tagcommander.com
     * redirect476.tagcommander.com
     * redirect521.tagcommander.com
@@ -30,6 +29,7 @@
 | ---- | ---- |
 | data.cofinoga.fr | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.decathlon.it | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
+| data.ouigo.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.ubi.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.wptag.net | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | sales.disneylandparis.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
@@ -41,7 +41,6 @@
 | tag.boulanger.fr | redirect33.tagcommander.com |
 | data.decathlon.es | redirect341.tagcommander.com |
 | data.decathlon.it | redirect343.tagcommander.com |
-| data.ouigo.com | redirect362.tagcommander.com |
 | data.decathlon.de | redirect440.tagcommander.com |
 | sales.disneylandparis.com | redirect476.tagcommander.com |
 | tagcommander.laredoute.be | redirect521.tagcommander.com |

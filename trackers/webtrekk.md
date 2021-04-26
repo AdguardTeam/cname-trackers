@@ -93,6 +93,7 @@
     * mainpost01.wt-eu02.net
     * medion01.wt-eu02.net
     * mytoys02.wt-eu02.net
+    * netze-bw01.wt-eu02.net
     * obi-all.wt-eu02.net
     * paydirekt-de01.wt-eu02.net
     * sdkurier-de01.wt-eu02.net
@@ -220,6 +221,7 @@
 | da.hornbach.sk | hornbach-02.wt-eu02.net |
 | scout.berg-freunde.ch | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.de | img.bergfreunde.wt-eu02.net |
+| scout.bergfreunde.dk | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.eu | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
@@ -236,6 +238,7 @@
 | waaf1.alditalk.de | medion01.wt-eu02.net |
 | waaf1.hoferfotos.at | medion01.wt-eu02.net |
 | web.mytoys.de | mytoys02.wt-eu02.net |
+| wt.netze-bw.de | netze-bw01.wt-eu02.net |
 | trk.nuernberger.de | nuernberger02.webtrekk.net |
 | ot.obi-italia.it | obi-all.wt-eu02.net |
 | ot.obi.at | obi-all.wt-eu02.net |

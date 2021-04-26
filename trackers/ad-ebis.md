@@ -5,9 +5,12 @@
 * ebis.ne.jp
     * 055b1f86-ycxd4a4u.cname.ebis.ne.jp
     * 06fb9eec-clhowtg1.cname.ebis.ne.jp
+    * 07d020a3-crscrcp3.cname.ebis.ne.jp
     * 0cd5dd46-3fyehbqu.cname.ebis.ne.jp
     * 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp
+    * 112991d3-surmt4v9.cname.ebis.ne.jp
     * 18aeb18f-orvgub9g.cname.ebis.ne.jp
+    * 28398c99-cswptfaa.cname.ebis.ne.jp
     * 34213ab6-xnj2xrq7.cname.ebis.ne.jp
     * 35e79adf-qjtkq0iz.cname.ebis.ne.jp
     * 3a3d0355-kkto8pe9.cname.ebis.ne.jp
@@ -36,11 +39,13 @@
     * a0dd7a11-rrtv6uew.cname.ebis.ne.jp
     * a210b17a-hwsehbyq.cname.ebis.ne.jp
     * a4ba7b93-e2mmxp45.cname.ebis.ne.jp
+    * a8ba4949-zsbmdhqh.cname.ebis.ne.jp
     * aa9c1a10-bxd3nsfc.cname.ebis.ne.jp
     * ae17c42a-alqe4sgf.cname.ebis.ne.jp
     * af715239-g5riys9k.cname.ebis.ne.jp
     * b9f16cb4-srrg93nh.cname.ebis.ne.jp
     * bba13219-ehtgvvgm.cname.ebis.ne.jp
+    * c266cf71-oq0xkpcx.cname.ebis.ne.jp
     * c9b592e5-3ddhh4av.cname.ebis.ne.jp
     * ce122a7c-hgyagqzw.cname.ebis.ne.jp
     * ceac5848-wpvbdb7j.cname.ebis.ne.jp
@@ -60,9 +65,12 @@
 | ---- | ---- |
 | ad.takasu.co.jp | 055b1f86-ycxd4a4u.cname.ebis.ne.jp |
 | adebis.tohshin.co.jp | 06fb9eec-clhowtg1.cname.ebis.ne.jp |
+| adebis.livable.co.jp | 07d020a3-crscrcp3.cname.ebis.ne.jp |
 | adebiscname.auone.jp | 0cd5dd46-3fyehbqu.cname.ebis.ne.jp |
 | ad-ebis.bookpass.auone.jp | 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp |
+| partner.haru-shop.jp | 112991d3-surmt4v9.cname.ebis.ne.jp |
 | ebis.rozetta.jp | 18aeb18f-orvgub9g.cname.ebis.ne.jp |
+| cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
 | adebis.report.clinic | 34213ab6-xnj2xrq7.cname.ebis.ne.jp |
 | adebis.fenet.jp | 35e79adf-qjtkq0iz.cname.ebis.ne.jp |
 | ebis.seibu-k.co.jp | 3a3d0355-kkto8pe9.cname.ebis.ne.jp |
@@ -91,11 +99,13 @@
 | ebis.pasonatech.co.jp | a0dd7a11-rrtv6uew.cname.ebis.ne.jp |
 | ad.kddi-fs.com | a210b17a-hwsehbyq.cname.ebis.ne.jp |
 | cnameebis.usagi-online.com | a4ba7b93-e2mmxp45.cname.ebis.ne.jp |
+| ebis.la-coco.com | a8ba4949-zsbmdhqh.cname.ebis.ne.jp |
 | nlp-japan.life-and-mind.com | aa9c1a10-bxd3nsfc.cname.ebis.ne.jp |
 | qxhydkz8.hmjdaw.ntt.com | ae17c42a-alqe4sgf.cname.ebis.ne.jp |
 | adebis.daiwahouse.co.jp | af715239-g5riys9k.cname.ebis.ne.jp |
 | greenjapan-cname.green-japan.com | b9f16cb4-srrg93nh.cname.ebis.ne.jp |
 | ad.udition.jp | bba13219-ehtgvvgm.cname.ebis.ne.jp |
+| adebis.angfa-store.jp | c266cf71-oq0xkpcx.cname.ebis.ne.jp |
 | adebis.urban-research.jp | c9b592e5-3ddhh4av.cname.ebis.ne.jp |
 | ebis.kubara.jp | ce122a7c-hgyagqzw.cname.ebis.ne.jp |
 | adbq.bk.mufg.jp | ceac5848-wpvbdb7j.cname.ebis.ne.jp |

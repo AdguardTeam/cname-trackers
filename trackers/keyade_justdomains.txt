@@ -8,12 +8,15 @@ k.cocooncenter.co.uk
 k.cocooncenter.com
 k.cocooncenter.de
 k.cocooncenter.es
+k.comptoir.fr
 k.direct-assurance.fr
 k.jacadi.co.uk
 k.jacadi.es
 k.jacadi.fr
+k.jacadi.it
 k.jacadi.us
 k.laredoute.be
+k.laredoute.es
 k.laredoute.fr
 k.laredoute.nl
 k.nomade-aventure.com

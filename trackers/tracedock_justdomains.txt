@@ -28,10 +28,12 @@ tdep.bunzlonline.nl
 tdep.suncamp.be
 tdep.suncamp.de
 tdep.suncamp.nl
+tdep.suncamp.pl
 tdep.vacansoleil.be
 tdep.vacansoleil.de
 tdep.vacansoleil.dk
 tdep.vacansoleil.fr
+tdep.vacansoleil.it
 tdep.vacansoleil.nl
 tdep.vacansoleil.pl
 #

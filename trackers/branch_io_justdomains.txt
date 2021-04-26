@@ -7,6 +7,7 @@
 19035924.email.almosafer.com
 19035924.loyalty.almosafer.com
 19035924.mktg.almosafer.com
+5363316.marketing.numi.com
 6519114.loyalty.almosafer.com
 6519114.mktg.almosafer.com
 7701534.emails.tntdrama.com
@@ -48,6 +49,7 @@ ablink.email.pressreader.com
 ablink.emails.spothero.com
 ablink.emails.themarket.nz
 ablink.engage.insighttimer.com
+ablink.feed.liven.com.au
 ablink.go1.zip.co
 ablink.go2.zip.co
 ablink.go3.zip.co
@@ -101,6 +103,7 @@ ablink.seller.etsy.com
 ablink.sender.skyscanner.com
 ablink.sender.skyscanner.net
 ablink.staging-e.klarna.com
+ablink.support.gimmeradio.com
 ablink.tchicken.popeyes.com
 ablink.test.iheart.com
 ablink.test.skyscanner.net
@@ -116,6 +119,7 @@ ablinks.e.foxsports.com.au
 ablinks.kfc.com.au
 ablinks.mail.claritymoney.com
 ablinks.mail.hinge.co
+ablinks.marketing.numi.com
 ablinks.news.amaro.com
 ablinks.news.learnwithhomer.com
 ablinks.picsart.com
@@ -123,6 +127,7 @@ ablinksemail.wirexapp.com
 ablinksuni.a.grubhub.com
 ablinksuni.a.seamless.com
 abmail2.e.hungryjacks.com.au
+abtest.redmart.com
 activation.depop.com
 alerts.steadyapp.com
 app-clicks.firstrepublic.com
@@ -133,6 +138,7 @@ b.dl.redcrossblood.org
 b.lyst.com
 b.your.offers.dominos.com
 blinks.mindoktor.se
+bnc.autopass.xyz
 bpe.mlb.com
 bpeml.mlb.com
 br.backmarket.fr
@@ -140,6 +146,7 @@ br.email.lifesum.com
 branch-consumer.hipages.com.au
 branch.chelseafc.com
 branch.email.livenation.com
+branch.pgatour-mail.com
 branchlink.adobespark.com
 brc.emails.rakuten.com
 click.aaptiv.com
@@ -169,8 +176,10 @@ click.redditmail.com
 click.transactional.carousell.com
 click1.e.radio.com
 click1.e.thechive.com
+click1.mail.paltalkpeople.com
 click2.email.ticketmaster.com
 clickmail.stubhub.com
+clicks-test.info.theiconic.com.au
 clicks.6thstreet.com
 clicks.drizly.com
 clicks.email.shakeshack.com
@@ -179,16 +188,22 @@ clicks.lifesum.com
 clicks.metronautapp.com
 clicks.staging.worldremit.com
 clicks.variis.com
+cn1.stadiumgoods.com
+cn2.stadiumgoods.com
 ct.irl.com
 deeplink.aspiration.com
 deeplink.instacartemail.com
 deeplinks.padmapper.com
+deeplinks.zumper.com
 dl-stage.zola.com
 dl.benefits.express-scripts.com
+dl.health-programs.express-scripts.com
 dl.mail.express-scripts.com
+dl.orders.express-scripts.com
 dl.zola.com
 e.e.themighty.com
 e.synchronybank.com
+em.getsimpleprints.com
 em.touchtunes.com
 em.touchtunesmail.com
 email-sendgrid-deep-linking.chewy.com
@@ -248,6 +263,7 @@ link.hello2-sg.circles.life
 link.hey.mypostcard.com
 link.kdkmoments.com
 link.loyalty.almosafer.com
+link.mail.burgerking.ca
 link.mail.popsa.com
 link.mktg.almosafer.com
 link.moodagent.com
@@ -264,6 +280,7 @@ link.touchtunesmail.com
 link.tr.freshly.com
 link.usa-network.com
 link.watchbravotv.com
+link.yourway.burgerking.ca
 links.ab.soul-cycle.email
 links.alerts.depop.com
 links.announce.touchsurgery.com
@@ -307,6 +324,7 @@ links.t.blueapron.com
 links.t.wine.com
 links.theyes.com
 links.yummly.com
+links2.emails.verishop.com
 m1.stadiumgoods.com
 mail01.virginpulse.com
 mlinks.fluz.app
@@ -328,6 +346,7 @@ t.prod1.discover.binge.com.au
 t1.stadiumgoods.com
 td.ecomms.originenergy.com.au
 test-eml.postmates.com
+test-fleet-eml.postmates.com
 test.customers.instacartemail.com
 test.shoppers.instacartemail.com
 trac.roomster.com
@@ -339,6 +358,7 @@ trk.geico.com
 trk.m1.stadiumgoods.com
 trk.s.sephora.com
 trklink.luisaviaroma.com
+url1015.abtest.em.redmart.com
 url1451.careerkarma.info
 url3630.newsletter.experience-muse.com
 url9576.oneshift.com

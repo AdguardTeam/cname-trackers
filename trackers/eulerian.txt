@@ -23,7 +23,6 @@
 ||b6ft.zone-turf.fr^
 ||bhu9.bankia.es^
 ||bum7.bymycar.fr^
-||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||cc.conforama.es^
@@ -136,12 +135,10 @@
 ||fzb5.laboratoire-giphar.fr^
 ||gdm1.toner.fr^
 ||gfn1.ugap.fr^
-||gi7a.structube.com^
 ||guq9.vente-unique.it^
 ||hbo5.concours-pass.com^
 ||he6e.lavieimmo.com^
 ||hjc6.supcareer.com^
-||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^
@@ -215,7 +212,6 @@
 ||r1ztni.oui.sncf^
 ||rh5i.tradingsat.com^
 ||rqz4.supdigital.fr^
-||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sby1.madeindesign.de^
 ||sis8.premieremoisson.com^
@@ -232,6 +228,7 @@
 ||t.locasun.it^
 ||t.locasun.nl^
 ||t.voyages-sncf.com^
+||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tdf1.admyjob.com^
@@ -298,6 +295,7 @@
 ||erb.tremblant.ca^
 ||hk2d.tourismemauricie.com^
 ||nym5c.bonlook.com^
+||ry0.rythmefm.com^
 !
 ! bca.ca-eulerian.net disguised trackers
 !

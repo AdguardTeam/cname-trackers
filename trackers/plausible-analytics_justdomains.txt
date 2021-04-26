@@ -52,10 +52,13 @@ hi.streetworkoutlist.com
 hi.victorbaudot.com
 informatics.filamentcolors.xyz
 insights.frenchtogether.com
+iwonttrackyou.xn--gckvb8fzb.com
 joy.ochronus.online
+js.webklik.nl
 juniper.starleaf.com
 l2k30jsa.theochu.com
 littlebrother.makeplans.net
+logs.ptable.com
 meter.bref.sh
 miernik.technologiewdomu.pl
 momotaro.craigmod.com
@@ -63,6 +66,7 @@ ms.markosaric.com
 noushe.zevvle.com
 numbers.triplejack.com
 p.barrera.io
+p.classroombookings.com
 p.clvs7.com
 p.fairspot.host
 p.ivoberger.com
@@ -116,6 +120,7 @@ plausible.lesbianromantic.com
 plausible.lovesdata.com
 plausible.mattpruitt.com
 plausible.microwire.info
+plausible.moncefbelyamani.com
 plausible.notiontweet.app
 plausible.nova.app
 plausible.nubemia.com
@@ -128,6 +133,7 @@ plausible.punchfork.com
 plausible.resilienz-kongress.de
 plausible.riok.ch
 plausible.ruqqus.com
+plausible.sftpplus.com
 plausible.simplelogin.io
 plausible.slope.io
 plausible.staging.sketch.com
@@ -135,7 +141,6 @@ plausible.starlegacyfoundation.org
 plausible.strzibny.name
 plausible.tac.dappstar.io
 plausible.vaughanesports.org
-plausible.videospeedup.com
 plausible.zorin.com
 pls.indiemakers.fr
 potatoes.dinomatic.com
@@ -156,12 +161,15 @@ s.mannes.tech
 s.maxrozen.com
 s.nslookup.io
 s.onlineornot.com
+sa.flux.community
 sats.mailbrew.com
 simple.bootify.io
 site-stats.supernotes.app
 sp.gameomatic.fr
 sp.jrklein.com
+sp.spaceomatic.fr
 st.encyclopediadramatica.rs
+st2.jamesdaniel.dev
 stat.tomdebruijn.com
 stat.umsu.de
 stats.100daystooffload.com
@@ -175,8 +183,10 @@ stats.baptistwomen.com
 stats.benui.ca
 stats.bertwagner.com
 stats.bestservers.co
+stats.bholmes.dev
 stats.bimbase.nl
 stats.bitpost.app
+stats.bjoernkw.com
 stats.blog.codingmilitia.com
 stats.blog.sean-wright.com
 stats.blog.sublimesecurity.com
@@ -232,7 +242,6 @@ stats.glassmountains.co.uk
 stats.glyphs.fyi
 stats.gslc.utah.edu
 stats.guersanguillaume.com
-stats.happynhealthful.com
 stats.hex.pm
 stats.hexdocs.pm
 stats.hey.com
@@ -250,6 +259,7 @@ stats.innoq.com
 stats.inre.me
 stats.instabudget.app
 stats.iscc-system.org
+stats.ivankahl.com
 stats.jackwhiting.co.uk
 stats.jansix.at
 stats.jerickson.net
@@ -286,12 +296,16 @@ stats.mtsknn.fi
 stats.muchbetteradventures.com
 stats.mynfp.de
 stats.nctm.org
+stats.nddmed.com
 stats.nicklafferty.com
 stats.nicolabricot.com
+stats.nodehub.io
+stats.nota.md
 stats.nytecomics.com
 stats.onepagelove.com
 stats.oursky.com
 stats.oxygem.com
+stats.passeport-mairie.com
 stats.pasteapp.io
 stats.patout.dev
 stats.patriot.win
@@ -310,6 +324,7 @@ stats.pselookup.vrymel.com
 stats.qawl.app
 stats.qbitstore.nl
 stats.qovery.com
+stats.raidprotect.org
 stats.rasulkireev.com
 stats.readng.co
 stats.referralhero.com
@@ -360,6 +375,7 @@ stats.urbanfinn.com
 stats.useeffect.dev
 stats.uxtools.co
 stats.vanityprojects.com
+stats.vdsnow.ru
 stats.virtualghostwriter.com
 stats.visamundi.fr
 stats.visions.ch

@@ -9,6 +9,7 @@ activity.asce.org
 advise.gallup.com
 ai.mist.com
 ai.thermo.com
+ald.aldautomotive.com
 allergy.thermofisher.com
 analytics.aba.com
 analytics.cognyte.com
@@ -22,7 +23,6 @@ app.business.westernunion.com
 app.demand.ptc.com
 app.info.coopenae.fi.cr
 app.mktg.genesys.com
-app.response.siemens-info.com
 app.thomsonreuters.com
 app.updates.digicert.com
 appointments.providence.org
@@ -131,6 +131,7 @@ digital.att.com
 discover.10play.com.au
 discover.clarivate.com
 discover.parker.com
+discover.vivo-shopping.com
 discover.zumtobelgroup.com
 download.dnvgl.com
 dx.thermofisher.com
@@ -228,6 +229,7 @@ email-particuliers.engie.fr
 email.hockeytown.com
 emea.info.mouser.com
 emea.wf.com
+empresa.ricoh.es
 endpoint.demand.intelsecurity.com
 energy.eneco.be
 engage-emea.jll.com
@@ -270,6 +272,7 @@ engage.3maustria.at
 engage.3mbelgie.be
 engage.3mbelgique.be
 engage.3mcanada.ca
+engage.3mcesko.cz
 engage.3mchile.cl
 engage.3mcompany.jp
 engage.3mcompany.lk
@@ -398,8 +401,10 @@ info.bmc.com
 info.boozallen.com
 info.brightcove.com
 info.chiesiusa.com
+info.christus.mx
 info.clarivate.com
 info.commercial.keurig.com
+info.cybersource.com
 info.dfinsolutions.com
 info.edb.gov.sg
 info.engage.3m.com
@@ -435,6 +440,7 @@ italia.wolterskluwer.com
 know.wolterskluwerlr.com
 lacinfo.motorolasolutions.com
 landing-kleos.wolterskluwer.com
+landing-legisway.wolterskluwer.com
 landing-smartdocument.wolterskluwer.com
 landing.computershare.com
 lantern.kronos.ca
@@ -459,6 +465,7 @@ lp.embarcadero.com
 lp.sophos.com
 lp.tfd-corp.co.jp
 lrfrance.wolterskluwer.com
+lrhungary.wolterskluwer.com
 lritaly.wolterskluwer.com
 lrpoland.wolterskluwer.com
 lrspain.wolterskluwer.com
@@ -466,6 +473,7 @@ ltam2.secureforms.mcafee.com
 m.bumrungrad1378.com
 m.premier.info.shutterstock.com
 mail.dolce-gusto.co.nz
+mail.dolce-gusto.co.uk
 mail.dolce-gusto.fr
 mail.dolce-gusto.ro
 mail.dolce-gusto.ru
@@ -486,6 +494,7 @@ more.groups.be
 ms.informaengage.com
 my.internationalsos.com
 my.orhp.com
+myprofile.panasonic.eu
 namrinfo.motorolasolutions.com
 nbg.seagate.com
 news.bpost.be
@@ -496,6 +505,7 @@ ops.bpost.be
 page.sangfor.com
 pages.att.com
 pages.contact.columbiabank.com
+pages.info.exclusive-networks.com
 pages.maritimeintelligence.informa.com
 pages.naturopathica.com.au
 paginaseloqua.unisabana.edu.co
@@ -506,6 +516,7 @@ pgs.aviationweek.com
 plan.seek.intel.com
 platformsolutions.shutterstock.com
 postuler.bpost.be
+preferencecenter.fticonsulting.com
 preferences.acspubs.org
 preferences.deloitte.ca
 primary.hasegawa.jp
@@ -542,6 +553,7 @@ seao.business.samsung.com
 secure-e.healthiq.com
 secure.arrow.com
 secure.fortinet.com
+secure.gartnerevents.com
 secure.info.domo.com
 secure.mycalcas.com
 secure.wiley.com
@@ -562,6 +574,8 @@ services.cmacgm-group.com
 shoppingguarantee.digicert.com
 simple.avaya.com
 site.att.com
+site.firstnet.com
+smb.info.shutterstock.com
 software.seek.intel.com
 solliciteren.bpost.be
 solutions.desertfinancial.com
@@ -633,13 +647,16 @@ tracking.about.bgov.com
 tracking.academicyear.org
 tracking.adp.ca
 tracking.adp.com
+tracking.almax.com
 tracking.almirallmed.es
 tracking.atea.dk
 tracking.atea.fi
 tracking.att.com
 tracking.attsavings.com
+tracking.aupairinamerica.com
 tracking.bettingexpert.com
 tracking.bloombergindustry.com
+tracking.bnpparibas.fr
 tracking.bnppre.fr
 tracking.bonava.de
 tracking.bonava.ee
@@ -726,6 +743,7 @@ tracking.pgi.com
 tracking.pharmanewsintel.com
 tracking.pirelli.com
 tracking.precisely.com
+tracking.pro.bloomberglaw.com
 tracking.pro.bloombergtax.com
 tracking.prophix.com
 tracking.questdiagnostics.com
@@ -764,6 +782,7 @@ tracking.uwindsor.ca
 tracking.vegasinsider.com
 tracking.venture-net.co.jp
 tracking.verisk.com
+tracking.veritas.com
 tracking.virtus.com
 tracking.visitdubai.com
 tracking.visma.com
@@ -811,12 +830,14 @@ trk.gdconf.com
 trk.informationweek.com
 trk.iotworldtoday.com
 trk.itprotoday.com
+trk.lookbook.westernunion.com
 trk.mt.business.westernunion.com
 trk.networkcomputing.com
 trk.nojitter.com
 trk.optum.com
 trk.thinkhdi.com
 trk.webhostingtalk.com
+trust.zebra.com
 ucaas.avaya.com
 ukri.innovateuk.org
 user.bizcompass.jp
@@ -857,9 +878,14 @@ www.efficiency.visma.com
 www.gaylordhotelsnews.com
 www.info.shavve.co.il
 www.marketing.hilton.com
+www.meetnewyorklifeinvestments.com
 www.oraclestartups.tech
 www.service.cz.nl
 www.solutions.prudential.com
 www1.kawasaki-motors.com
 www2.info.renesas.cn
 www3.restek.com
+#
+# p03.t.en25.com disguised trackers
+#
+app.response.siemens-info.com
