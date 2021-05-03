@@ -48,9 +48,11 @@
 ||tr.communication.harmonie-mutuelle.fr^
 ||tr.communication.offresb2b.fr^
 ||tr.contact.canalplus.fr^
+||tr.contrats.cofinoga.fr^
 ||tr.courrier.charentelibre.fr^
 ||tr.courrier.larepubliquedespyrenees.fr^
 ||tr.courrier.sudouest.fr^
+||tr.destination.visit-lanarbonnaise.com^
 ||tr.devis-companeo.com^
 ||tr.devis-companeo.fr^
 ||tr.devis-express.be^
@@ -76,6 +78,7 @@
 ||tr.emailium.fr^
 ||tr.enedis-infos.fr^
 ||tr.entreprise-pro.info^
+||tr.envie-de-bien-manger.espmp-aufr.net^
 ||tr.europa-organisation.com^
 ||tr.gestion.banque-casino.fr^
 ||tr.gestion.cetelem.fr^
@@ -104,6 +107,7 @@
 ||tr.invitation-mesdessous.fr^
 ||tr.italia.plimsoll.it^
 ||tr.jkyg.espmp-cufr.net^
+||tr.kontakt.younited-credit.com^
 ||tr.kpyn.espmp-cufr.net^
 ||tr.leads.direct^
 ||tr.lesmarques.envie-de-bien-manger.com^
@@ -171,10 +175,13 @@
 ||tr.notification-gdpr.bnpparibas-personalfinance.fr^
 ||tr.notification-gdpr.domofinance.fr^
 ||tr.notification-gdpr.sygmabybnpparibas-pf.com^
+||tr.notification.banque-revillon.fr^
 ||tr.notification.cdiscount.com^
 ||tr.notification.cetelem.fr^
 ||tr.notification.credit-moderne.fr^
+||tr.np6.co.uk^
 ||tr.np6.com^
+||tr.np6.orange.fr^
 ||tr.offer-companeo.co.uk^
 ||tr.offre-companeo.com^
 ||tr.offres.01net.com^

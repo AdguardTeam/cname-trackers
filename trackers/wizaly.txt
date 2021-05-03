@@ -4,6 +4,7 @@
 ! wizaly.com disguised trackers
 !
 ||tk.abt.com^
+||tk.airfrance.ae^
 ||tk.airfrance.at^
 ||tk.airfrance.ca^
 ||tk.airfrance.com^

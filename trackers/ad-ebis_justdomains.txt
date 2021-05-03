@@ -21,6 +21,7 @@ adebis.demae-can.com
 adebis.fenet.jp
 adebis.irobot-jp.com
 adebis.juku.st
+adebis.kaonavi.jp
 adebis.livable.co.jp
 adebis.macnica.co.jp
 adebis.nursery.co.jp
@@ -29,8 +30,10 @@ adebis.tohshin.co.jp
 adebis.urban-research.jp
 adebis02.juku.st
 adebiscname.auone.jp
+adebisu.wowow.co.jp
 aesus.so-net.ne.jp
 axjfkc.kobayashi.co.jp
+cname.ebis.folio-sec.com
 cname.finess.jp
 cname.jaic-college.jp
 cname.mebiusseiyaku.co.jp
@@ -38,11 +41,14 @@ cnameebis.usagi-online.com
 digital.anicom-sompo.co.jp
 ebis.as-1.co.jp
 ebis.biyo-job.com
+ebis.c-3-esthe.com
+ebis.hokensoudannavi.jp
 ebis.kubara.jp
 ebis.la-coco.com
 ebis.okasan-online.co.jp
 ebis.pasonatech.co.jp
 ebis.rozetta.jp
+ebis.sbismile.co.jp
 ebis.seibu-k.co.jp
 ebis.sekisuihouse.co.jp
 ebis.studio-alice.co.jp
@@ -57,4 +63,5 @@ ncc.nip-col.jp
 nlp-japan.life-and-mind.com
 partner.haru-shop.jp
 qxhydkz8.hmjdaw.ntt.com
+real-fitness2019.real-fitness.jp
 tukuru.cotta.jp

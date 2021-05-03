@@ -43,6 +43,7 @@
 | tk.viapresse.com | tk-viapresse-com.wizaly.com |
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |
 | tk.transavia.com | tk_transavia_com.wizaly.com |
+| tk.airfrance.ae | tkairfrance.wizaly.com |
 | tk.airfrance.at | tkairfrance.wizaly.com |
 | tk.airfrance.ca | tkairfrance.wizaly.com |
 | tk.airfrance.com | tkairfrance.wizaly.com |

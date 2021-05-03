@@ -58,6 +58,7 @@
     * 753960264605716.wt-eu02.net
     * 807354460250799.wt-eu02.net
     * 823532764568303.wt-eu02.net
+    * 849036415619964.wt-eu02.net
     * 865411762489824.wt-eu02.net
     * 913854712272815.wt-eu02.net
     * 915651380225350.wt-eu02.net
@@ -88,6 +89,7 @@
     * gedidigital.wt-eu02.net
     * goertz-01.wt-eu02.net
     * hornbach-02.wt-eu02.net
+    * ikk-classic-app03.wt-eu02.net
     * img.bergfreunde.wt-eu02.net
     * madeleineprod01.wt-eu02.net
     * mainpost01.wt-eu02.net
@@ -147,6 +149,7 @@
 | abc.fackelmann.de | 807354460250799.wt-eu02.net |
 | mit.dws.com | 823532764568303.wt-eu02.net |
 | mit.dws.de | 823532764568303.wt-eu02.net |
+| web.bankofscotland.de | 849036415619964.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
 | census.misterspex.fr | 913854712272815.wt-eu02.net |
 | census.misterspex.se | 915651380225350.wt-eu02.net |
@@ -174,6 +177,7 @@
 | text.mitarbeiterangebote.at | corporate-benefits.wt-eu02.net |
 | text.rahmenvereinbarungen.de | corporate-benefits.wt-eu02.net |
 | sub1.cosmosdirekt.de | cosmos01ssl.webtrekk.net |
+| fiwinet.firmenwissen.com | creditreform01.wt-eu02.net |
 | fiwinet.firmenwissen.de | creditreform01.wt-eu02.net |
 | webmet.creditreform.de | creditreform02.wt-eu02.net |
 | data.inbank.it | data-inbank01.wt-eu02.net |
@@ -219,13 +223,16 @@
 | da.hornbach.ro | hornbach-02.wt-eu02.net |
 | da.hornbach.se | hornbach-02.wt-eu02.net |
 | da.hornbach.sk | hornbach-02.wt-eu02.net |
+| app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
 | scout.berg-freunde.ch | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.de | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.dk | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.eu | img.bergfreunde.wt-eu02.net |
+| scout.bergfreunde.nl | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
 | wttd.madeleine-fashion.be | madeleineprod01.wt-eu02.net |
+| wttd.madeleine-fashion.nl | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-mode.at | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-mode.ch | madeleineprod01.wt-eu02.net |
 | wttd.madeleine.com | madeleineprod01.wt-eu02.net |

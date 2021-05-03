@@ -34,6 +34,7 @@ a.steigenberger.com
 abc.fackelmann.de
 analytics.hermesworld.com
 analytics.myhermes.de
+app03.ikk-classic.de
 audev.zeit.de
 cdn7.baunetz.de
 census.misterspex.at
@@ -86,6 +87,7 @@ ed.emp.ie
 ed.large.be
 ed.large.nl
 eht.endress.com
+fiwinet.firmenwissen.com
 fiwinet.firmenwissen.de
 mapp.yesstyle.com
 mit.db.com
@@ -108,6 +110,7 @@ scout.berg-freunde.ch
 scout.bergfreunde.de
 scout.bergfreunde.dk
 scout.bergfreunde.eu
+scout.bergfreunde.nl
 startrekk.flaconi.at
 startrekk.flaconi.pl
 t.enbw.com
@@ -143,6 +146,7 @@ wbtrkk.teufelaudio.fr
 wbtrkk.teufelaudio.it
 wbtrkk.teufelaudio.nl
 wbtrkk.teufelaudio.pl
+web.bankofscotland.de
 web.diebayerische.de
 web.emails.elc.co.uk
 web.emails.thetoyshop.com
@@ -167,6 +171,7 @@ wttd.douglas.it
 wttd.douglas.nl
 wttd.douglas.pl
 wttd.madeleine-fashion.be
+wttd.madeleine-fashion.nl
 wttd.madeleine-mode.at
 wttd.madeleine-mode.ch
 wttd.madeleine.com

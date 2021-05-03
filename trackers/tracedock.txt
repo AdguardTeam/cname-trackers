@@ -43,6 +43,7 @@
 ||erp.qwic.nl^
 ||host11.traffic-builders.com^
 ||s0.beyondonline.nl^
+||s4.parkeren-haarlem.nl^
 ||tdep.garmundo.de^
 ||tdep.garmundo.nl^
 ||tdep.growwwdigital.com^

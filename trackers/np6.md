@@ -53,9 +53,11 @@
 | tr.communication.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.communication.offresb2b.fr | tracking.bp01.net |
 | tr.contact.canalplus.fr | tracking.bp01.net |
+| tr.contrats.cofinoga.fr | tracking.bp01.net |
 | tr.courrier.charentelibre.fr | tracking.bp01.net |
 | tr.courrier.larepubliquedespyrenees.fr | tracking.bp01.net |
 | tr.courrier.sudouest.fr | tracking.bp01.net |
+| tr.destination.visit-lanarbonnaise.com | tracking.bp01.net |
 | tr.devis-companeo.com | tracking.bp01.net |
 | tr.devis-companeo.fr | tracking.bp01.net |
 | tr.devis-express.be | tracking.bp01.net |
@@ -81,6 +83,7 @@
 | tr.emailium.fr | tracking.bp01.net |
 | tr.enedis-infos.fr | tracking.bp01.net |
 | tr.entreprise-pro.info | tracking.bp01.net |
+| tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
 | tr.europa-organisation.com | tracking.bp01.net |
 | tr.gestion.banque-casino.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
@@ -109,6 +112,7 @@
 | tr.invitation-mesdessous.fr | tracking.bp01.net |
 | tr.italia.plimsoll.it | tracking.bp01.net |
 | tr.jkyg.espmp-cufr.net | tracking.bp01.net |
+| tr.kontakt.younited-credit.com | tracking.bp01.net |
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
 | tr.leads.direct | tracking.bp01.net |
 | tr.lesmarques.envie-de-bien-manger.com | tracking.bp01.net |
@@ -176,10 +180,13 @@
 | tr.notification-gdpr.bnpparibas-personalfinance.fr | tracking.bp01.net |
 | tr.notification-gdpr.domofinance.fr | tracking.bp01.net |
 | tr.notification-gdpr.sygmabybnpparibas-pf.com | tracking.bp01.net |
+| tr.notification.banque-revillon.fr | tracking.bp01.net |
 | tr.notification.cdiscount.com | tracking.bp01.net |
 | tr.notification.cetelem.fr | tracking.bp01.net |
 | tr.notification.credit-moderne.fr | tracking.bp01.net |
+| tr.np6.co.uk | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |
+| tr.np6.orange.fr | tracking.bp01.net |
 | tr.offer-companeo.co.uk | tracking.bp01.net |
 | tr.offre-companeo.com | tracking.bp01.net |
 | tr.offres.01net.com | tracking.bp01.net |
