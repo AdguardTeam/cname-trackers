@@ -33,6 +33,7 @@
     * 286813086616891.wt-eu02.net
     * 302631813489498.wt-eu02.net
     * 307902509027183.wt-eu02.net
+    * 329712103760415.wt-eu02.net
     * 346715981768881.wt-eu02.net
     * 367171131378433.wt-eu02.net
     * 371033713452477.wt-eu02.net
@@ -51,6 +52,7 @@
     * 666882163750646.wt-eu02.net
     * 669154114435717.wt-eu02.net
     * 709114798683263.wt-eu02.net
+    * 728252369996325.wt-eu02.net
     * 729347163621496.wt-eu02.net
     * 730059294506327.wt-eu02.net
     * 737859735586197.wt-eu02.net
@@ -123,6 +125,7 @@
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |
 | a.steigenberger.com | 307902509027183.wt-eu02.net |
+| data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
 | census.misterspex.fi | 346715981768881.wt-eu02.net |
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |
 | web.emails.thetoyshop.com | 371033713452477.wt-eu02.net |
@@ -141,6 +144,7 @@
 | data.westlotto.de | 666882163750646.wt-eu02.net |
 | data.adlermode.com | 669154114435717.wt-eu02.net |
 | web.info.bonprix.es | 709114798683263.wt-eu02.net |
+| data.campaign.toyscenter.it | 728252369996325.wt-eu02.net |
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
 | census.misterspex.at | 730059294506327.wt-eu02.net |
 | mapp.yesstyle.com | 737859735586197.wt-eu02.net |

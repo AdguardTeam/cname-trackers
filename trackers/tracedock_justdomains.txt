@@ -30,6 +30,7 @@ tdep.suncamp.de
 tdep.suncamp.nl
 tdep.suncamp.pl
 tdep.vacansoleil.be
+tdep.vacansoleil.co.uk
 tdep.vacansoleil.de
 tdep.vacansoleil.dk
 tdep.vacansoleil.fr
@@ -44,6 +45,7 @@ erp.qwic.nl
 host11.traffic-builders.com
 s0.beyondonline.nl
 s4.parkeren-haarlem.nl
+s4.parkeren-utrecht.nl
 tdep.garmundo.de
 tdep.garmundo.nl
 tdep.growwwdigital.com

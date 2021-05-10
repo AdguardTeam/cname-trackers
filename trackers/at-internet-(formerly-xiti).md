@@ -18,6 +18,9 @@
     * c-atinternet-solutions-com-cddc.at-o.net
     * c0012-brsimg-com-cddc.at-o.net
     * chihiro-nostalgie-fr-cddc.at-o.net
+    * col-idealista-com-cddc.at-o.net
+    * col-idealista-it-cddc.at-o.net
+    * col-idealista-pt-cddc.at-o.net
     * collect-meilleurtaux-com-cddc.at-o.net
     * d-uni-medias-com-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
@@ -80,6 +83,9 @@
 | c.atinternet-solutions.com | c-atinternet-solutions-com-cddc.at-o.net |
 | c0012.brsimg.com | c0012-brsimg-com-cddc.at-o.net |
 | chihiro.nostalgie.fr | chihiro-nostalgie-fr-cddc.at-o.net |
+| col.idealista.com | col-idealista-com-cddc.at-o.net |
+| col.idealista.it | col-idealista-it-cddc.at-o.net |
+| col.idealista.pt | col-idealista-pt-cddc.at-o.net |
 | collect.meilleurtaux.com | collect-meilleurtaux-com-cddc.at-o.net |
 | d.uni-medias.com | d-uni-medias-com-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |

@@ -14,6 +14,7 @@ ad.udition.jp
 ad1.tone.ne.jp
 adbq.bk.mufg.jp
 adebis-52667624.wowma.jp
+adebis-morijuku.morijuku.com
 adebis.angfa-store.jp
 adebis.cybozu.co.jp
 adebis.daiwahouse.co.jp
@@ -25,7 +26,9 @@ adebis.kaonavi.jp
 adebis.livable.co.jp
 adebis.macnica.co.jp
 adebis.nursery.co.jp
+adebis.real-style.co.jp
 adebis.report.clinic
+adebis.theclinic.jp
 adebis.tohshin.co.jp
 adebis.urban-research.jp
 adebis02.juku.st
@@ -41,11 +44,14 @@ cnameebis.usagi-online.com
 digital.anicom-sompo.co.jp
 ebis.as-1.co.jp
 ebis.biyo-job.com
+ebis.bulk.co.jp
 ebis.c-3-esthe.com
+ebis.ce-parfait.com
 ebis.hokensoudannavi.jp
 ebis.kubara.jp
 ebis.la-coco.com
 ebis.okasan-online.co.jp
+ebis.onamae.com
 ebis.pasonatech.co.jp
 ebis.rozetta.jp
 ebis.sbismile.co.jp
@@ -56,8 +62,8 @@ ebis.sunstar-shop.jp
 ebis2020.hoiku-job.net
 ebis202001.joyfit.jp
 ebisanalysis.mouse-jp.co.jp
+ebisfracora.fracora.com
 greenjapan-cname.green-japan.com
-kraciecojp-ebis.kracie.co.jp
 maz.zba.jp
 ncc.nip-col.jp
 nlp-japan.life-and-mind.com

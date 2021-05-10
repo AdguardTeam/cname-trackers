@@ -59,6 +59,8 @@
 ||da.hornbach.sk^
 ||data.adlermode.com^
 ||data.all-in.de^
+||data.campaign.prenatal.com^
+||data.campaign.toyscenter.it^
 ||data.engelhorn.de^
 ||data.goertz.de^
 ||data.inbank.it^

@@ -19,6 +19,9 @@
 ||c.atinternet-solutions.com^
 ||c0012.brsimg.com^
 ||chihiro.nostalgie.fr^
+||col.idealista.com^
+||col.idealista.it^
+||col.idealista.pt^
 ||collect.meilleurtaux.com^
 ||d.uni-medias.com^
 ||da.maif.fr^

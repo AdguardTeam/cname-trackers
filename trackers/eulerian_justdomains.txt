@@ -14,6 +14,7 @@
 7lbd4.armandthiery.fr
 7mx.eider.com
 913nd.dieti-natura.es
+a.perfumesclub.fr
 a8ht.hipp.fr
 ac.acadomia.fr
 alp1.drimki.fr
@@ -37,7 +38,6 @@ def1.optimhome-recrutement.com
 deut1.fdj.fr
 di8n.bfmtv.com
 dko.vente-unique.nl
-doa1.immobilier-neuf.com
 dqs3.darjeeling.fr
 dt.nrjmobile.fr
 du2k.bhv.fr
@@ -100,6 +100,7 @@ ea.voyage-prive.co.uk
 ea.voyage-prive.it
 ea.warnerbros.fr
 ea.zebestof.com
+eat9.thebeat925.ca
 ebc1.capifrance.fr
 ef.futuroscope.com
 ef.futuroscope.mobi
@@ -137,12 +138,10 @@ ftn.fortuneo.fr
 fzb5.laboratoire-giphar.fr
 gdm1.toner.fr
 gfn1.ugap.fr
-gi7a.structube.com
 guq9.vente-unique.it
 hbo5.concours-pass.com
 he6e.lavieimmo.com
 hjc6.supcareer.com
-hk2d.tourismemauricie.com
 hkj8.evobanco.com
 idg1.idgarages.com
 inv3te.oui.sncf
@@ -160,6 +159,7 @@ kwsjy9.oui.sncf
 kyo7.supdepub.com
 leo1.leon-de-bruxelles.fr
 let1.devialet.com
+lio8.destinia.com.pa
 lmvc1.vivatechnology.com
 lsv5.belambra.fr
 mgt7.madeindesign.it
@@ -213,6 +213,7 @@ pol3.cheque-domicile.fr
 pp.promocionesfarma.com
 pqn7.cheque-dejeuner.fr
 qaz3.wethenew.com
+qfo.eurotierce.be
 r1ztni.oui.sncf
 rh5i.tradingsat.com
 rqz4.supdigital.fr
