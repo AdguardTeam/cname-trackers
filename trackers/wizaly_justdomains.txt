@@ -10,10 +10,12 @@ tk.airfrance.ca
 tk.airfrance.co.uk
 tk.airfrance.com
 tk.airfrance.fr
+tk.airfrance.ru
 tk.airfrance.tn
 tk.airfrance.us
 tk.biovea.com
 tk.conforama.fr
+tk.dietbon.fr
 tk.engie.fr
 tk.healthwarehouse.com
 tk.lcl.fr

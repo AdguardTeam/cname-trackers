@@ -445,6 +445,7 @@ edge-keele-nnw-leis-mc-leis.net.daraz.com
 edge.car10.net.daraz.com
 edge.csr11.net.daraz.com
 edge.r-es-1.net.daraz.com
+efficientscale.efscle.com
 elasticbeanstalk-ns1.twtelecom.net.daraz.com
 emeacsr11.net.daraz.com
 engine-w-htgb-a.net.daraz.com
@@ -500,10 +501,12 @@ luna.r.lafamo.com
 mail.partner.net.daraz.com
 marketing.ingenious.cloud
 marketing.net.brillen.at
+marketing.net.brillen.com
 marketing.net.brillen.de
 marketing.net.brillen.pl
 marketing.net.daraz.com.bd
 marketing.net.daraz.lk
+marketing.net.daraz.pk
 marketing.net.fidor.de
 marketing.net.gafas.es
 marketing.net.home24.at
@@ -529,6 +532,7 @@ marketing.net.zooplus.fr
 marketing.net.zooplus.it
 marketing.net.zooplus.nl
 marketing.net.zooroyal.at
+marketing.net.zooroyal.cz
 marketing.net.zooroyal.de
 marketing.r.niwepa.com
 marketing.tr.netsalesmedia.pl
@@ -537,6 +541,7 @@ mgmt.ns3.cl.bellsouth.net.daraz.com
 mp4teluguwap.net.daraz.com
 mybooster.net.daraz.com
 mymangaonline.net.daraz.com
+mypension.efscle.com
 neso.r.niwepa.com
 net.carrefour.es
 net.daraz.com
@@ -546,6 +551,7 @@ net.jumia.com.eg
 net.penny.de
 net.r-hx-1.net.daraz.com
 net.x24factory.com
+net.zooplus.de
 ns1.activeviviotech.net.daraz.com
 ns2.app-cl.bellsouth.net.daraz.com
 ns2.assets-viviotech.net.daraz.com
@@ -601,6 +607,7 @@ r-ch-2.net.daraz.com
 r-ht-1.cvs.net.daraz.com
 r-ht-1.testbed.net.daraz.com
 r-hx-1.git.net.daraz.com
+r.jakuli.com
 r.lafamo.com
 r.powuta.com
 redirect-allseason.net.daraz.com

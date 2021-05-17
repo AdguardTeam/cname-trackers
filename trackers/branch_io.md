@@ -29,6 +29,8 @@
 | 8147563.your-way.bk.com | thirdparty.bnc.lt |
 | 9735476.sender.skyscanner.net | thirdparty.bnc.lt |
 | 9735476.test.skyscanner.net | thirdparty.bnc.lt |
+| 9857064.hello.spriggy.com.au | thirdparty.bnc.lt |
+| 9857064.notice.spriggy.com.au | thirdparty.bnc.lt |
 | ablink.1954.bk.com | thirdparty.bnc.lt |
 | ablink.a.radio.com | thirdparty.bnc.lt |
 | ablink.account.debut.careers | thirdparty.bnc.lt |
@@ -67,9 +69,13 @@
 | ablink.go1.zip.co | thirdparty.bnc.lt |
 | ablink.go2.zip.co | thirdparty.bnc.lt |
 | ablink.go3.zip.co | thirdparty.bnc.lt |
+| ablink.hello.innit.com | thirdparty.bnc.lt |
 | ablink.hello.sanvello.com | thirdparty.bnc.lt |
+| ablink.hello.spriggy.com.au | thirdparty.bnc.lt |
 | ablink.hello.steadyapp.com | thirdparty.bnc.lt |
+| ablink.help.innit.com | thirdparty.bnc.lt |
 | ablink.help.sanvello.com | thirdparty.bnc.lt |
+| ablink.help.shopwell.com | thirdparty.bnc.lt |
 | ablink.info.pressreader.com | thirdparty.bnc.lt |
 | ablink.info.sofi.org | thirdparty.bnc.lt |
 | ablink.info.themarket.nz | thirdparty.bnc.lt |
@@ -105,6 +111,7 @@
 | ablink.news.omio.com | thirdparty.bnc.lt |
 | ablink.newsletter.quizlet.com | thirdparty.bnc.lt |
 | ablink.notice.hoopladigital.com | thirdparty.bnc.lt |
+| ablink.notice.spriggy.com.au | thirdparty.bnc.lt |
 | ablink.notification.insighttimer.com | thirdparty.bnc.lt |
 | ablink.notifications.br.live | thirdparty.bnc.lt |
 | ablink.notify.homecourt.ai | thirdparty.bnc.lt |
@@ -136,8 +143,10 @@
 | ablink.transactions.earnin.com | thirdparty.bnc.lt |
 | ablink.watch.br.live | thirdparty.bnc.lt |
 | ablink.your-way.bk.com | thirdparty.bnc.lt |
+| ablink.your.audacy.com | thirdparty.bnc.lt |
 | ablinks.comms.healthengine.com.au | thirdparty.bnc.lt |
 | ablinks.e.foxsports.com.au | thirdparty.bnc.lt |
+| ablinks.info.amaro.com | thirdparty.bnc.lt |
 | ablinks.kfc.com.au | thirdparty.bnc.lt |
 | ablinks.mail.claritymoney.com | thirdparty.bnc.lt |
 | ablinks.mail.hinge.co | thirdparty.bnc.lt |
@@ -218,6 +227,7 @@
 | cn1.stadiumgoods.com | thirdparty.bnc.lt |
 | cn2.stadiumgoods.com | thirdparty.bnc.lt |
 | ct.irl.com | thirdparty.bnc.lt |
+| ct.irlmail.org | thirdparty.bnc.lt |
 | deeplink.aspiration.com | thirdparty.bnc.lt |
 | deeplink.instacartemail.com | thirdparty.bnc.lt |
 | deeplinks.padmapper.com | thirdparty.bnc.lt |
@@ -241,6 +251,7 @@
 | email.clearscore.com.au | thirdparty.bnc.lt |
 | email.fretello.com | thirdparty.bnc.lt |
 | email.goodrx.com | thirdparty.bnc.lt |
+| email.link.flipgive.com | thirdparty.bnc.lt |
 | email.member.theknot.com | thirdparty.bnc.lt |
 | email.pac-12.com | thirdparty.bnc.lt |
 | email.pray.com | thirdparty.bnc.lt |
@@ -258,6 +269,7 @@
 | gotoaws.dresslily.com | thirdparty.bnc.lt |
 | gotoaws.rosegal.com | thirdparty.bnc.lt |
 | gotoaws.zaful.com | thirdparty.bnc.lt |
+| gotoexp.dresslily.com | thirdparty.bnc.lt |
 | hello.steadyapp.com | thirdparty.bnc.lt |
 | ilinks.petalcard.com | thirdparty.bnc.lt |
 | iterable.convoy.com | thirdparty.bnc.lt |
@@ -283,6 +295,7 @@
 | link.email.almosafer.com | thirdparty.bnc.lt |
 | link.email.bnext.es | thirdparty.bnc.lt |
 | link.email.ninetynine.com | thirdparty.bnc.lt |
+| link.email.soothe.com | thirdparty.bnc.lt |
 | link.foodnetwork.com | thirdparty.bnc.lt |
 | link.hello-sg.circles.life | thirdparty.bnc.lt |
 | link.hello.soothe.com | thirdparty.bnc.lt |
@@ -331,6 +344,7 @@
 | links.em.mylifetime.com | thirdparty.bnc.lt |
 | links.email.almosafer.com | thirdparty.bnc.lt |
 | links.email.bravotv.com | thirdparty.bnc.lt |
+| links.email.getgocafe.com | thirdparty.bnc.lt |
 | links.email.gianteagle.com | thirdparty.bnc.lt |
 | links.email.greenlight.me | thirdparty.bnc.lt |
 | links.email.nbc.com | thirdparty.bnc.lt |
@@ -340,6 +354,7 @@
 | links.email.usanetwork.com | thirdparty.bnc.lt |
 | links.evault.history.com | thirdparty.bnc.lt |
 | links.glamsquad.com | thirdparty.bnc.lt |
+| links.hitrecord.org | thirdparty.bnc.lt |
 | links.huckleberry-labs.com | thirdparty.bnc.lt |
 | links.i.blueapron.com | thirdparty.bnc.lt |
 | links.info.gianteagle.com | thirdparty.bnc.lt |

@@ -6,6 +6,7 @@
     * tk-abt-com.wizaly.com
     * tk-biovea-com.wizaly.com
     * tk-conforama-fr.wizaly.com
+    * tk-dietbon-fr.wizaly.com
     * tk-engie-com.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
     * tk-lcl-fr.wizaly.com
@@ -31,6 +32,7 @@
 | tk.abt.com | tk-abt-com.wizaly.com |
 | tk.biovea.com | tk-biovea-com.wizaly.com |
 | tk.conforama.fr | tk-conforama-fr.wizaly.com |
+| tk.dietbon.fr | tk-dietbon-fr.wizaly.com |
 | tk.engie.fr | tk-engie-com.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |
 | tk.lcl.fr | tk-lcl-fr.wizaly.com |
@@ -51,6 +53,7 @@
 | tk.airfrance.co.uk | tkairfrance.wizaly.com |
 | tk.airfrance.com | tkairfrance.wizaly.com |
 | tk.airfrance.fr | tkairfrance.wizaly.com |
+| tk.airfrance.ru | tkairfrance.wizaly.com |
 | tk.airfrance.tn | tkairfrance.wizaly.com |
 | tk.airfrance.us | tkairfrance.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |

@@ -3,6 +3,7 @@
 !
 ! oghub.io disguised trackers
 !
+||te.ackermann.ch^
 ||te.baur.de^
 ||te.creation-l.de^
 ||te.frankonia.de^
@@ -21,6 +22,7 @@
 ||te.yourhome.de^
 ||tp.ackermann.ch^
 ||tp.baur.de^
+||tp.frankonia.com^
 ||tp.frankonia.de^
 ||tp.frankoniamoda.ch^
 ||tp.heine.at^

@@ -108,6 +108,7 @@
 ||ot.obi.sk^
 ||pix.airbusgroup.com^
 ||proditor.sparda.de^
+||scout.alpiniste.fr^
 ||scout.berg-freunde.ch^
 ||scout.bergfreunde.de^
 ||scout.bergfreunde.dk^

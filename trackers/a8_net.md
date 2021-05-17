@@ -14,6 +14,7 @@
 | a8.eonet.jp | trck.a8.net |
 | a8.haptic.co.jp | trck.a8.net |
 | a8.looop-denki.com | trck.a8.net |
+| a8.makeshop.jp | trck.a8.net |
 | a8.print-netsquare.com | trck.a8.net |
 | a8.sakuratravel.jp | trck.a8.net |
 | a8.shopserve.jp | trck.a8.net |
@@ -29,12 +30,14 @@
 | a8clk.bstyle.store | trck.a8.net |
 | a8clk.cv.mensfashion.cc | trck.a8.net |
 | a8clk.dospara.co.jp | trck.a8.net |
+| a8clk.justy-consul.com | trck.a8.net |
 | a8clk.kenkoukazoku.co.jp | trck.a8.net |
 | a8clk.osoujihonpo.com | trck.a8.net |
 | a8clk.petitjob.jp | trck.a8.net |
 | a8clk.rarejob.com | trck.a8.net |
 | a8clk.reserve.retty.me | trck.a8.net |
 | a8clk.shop.sunsorit.co.jp | trck.a8.net |
+| a8clk.titivate.jp | trck.a8.net |
 | a8clk.www.nortonstore.jp | trck.a8.net |
 | a8clk.xserver.ne.jp | trck.a8.net |
 | a8clk.yourmystar.jp | trck.a8.net |
@@ -51,6 +54,7 @@
 | a8cv.p-antiaging.com | trck.a8.net |
 | a8cv.signalift.com | trck.a8.net |
 | a8cv.try-fs.com | trck.a8.net |
+| a8cv.workman.jp | trck.a8.net |
 | a8cv2.hoken-choice.com | trck.a8.net |
 | a8cventry.uqwimax.jp | trck.a8.net |
 | afi.ssl.gmobb.jp | trck.a8.net |

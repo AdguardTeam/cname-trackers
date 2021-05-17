@@ -34,6 +34,7 @@ tdep.vacansoleil.co.uk
 tdep.vacansoleil.de
 tdep.vacansoleil.dk
 tdep.vacansoleil.fr
+tdep.vacansoleil.hu
 tdep.vacansoleil.it
 tdep.vacansoleil.nl
 tdep.vacansoleil.pl

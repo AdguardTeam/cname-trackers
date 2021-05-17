@@ -8,6 +8,7 @@ a8.cyclemarket.jp
 a8.eonet.jp
 a8.haptic.co.jp
 a8.looop-denki.com
+a8.makeshop.jp
 a8.print-netsquare.com
 a8.sakuratravel.jp
 a8.shopserve.jp
@@ -23,12 +24,14 @@ a8clk.asp.jcity.co.jp
 a8clk.bstyle.store
 a8clk.cv.mensfashion.cc
 a8clk.dospara.co.jp
+a8clk.justy-consul.com
 a8clk.kenkoukazoku.co.jp
 a8clk.osoujihonpo.com
 a8clk.petitjob.jp
 a8clk.rarejob.com
 a8clk.reserve.retty.me
 a8clk.shop.sunsorit.co.jp
+a8clk.titivate.jp
 a8clk.www.nortonstore.jp
 a8clk.xserver.ne.jp
 a8clk.yourmystar.jp
@@ -45,6 +48,7 @@ a8cv.ishibashi.co.jp
 a8cv.p-antiaging.com
 a8cv.signalift.com
 a8cv.try-fs.com
+a8cv.workman.jp
 a8cv2.hoken-choice.com
 a8cventry.uqwimax.jp
 afi.ssl.gmobb.jp

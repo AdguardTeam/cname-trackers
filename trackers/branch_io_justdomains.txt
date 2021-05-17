@@ -21,6 +21,8 @@
 8147563.your-way.bk.com
 9735476.sender.skyscanner.net
 9735476.test.skyscanner.net
+9857064.hello.spriggy.com.au
+9857064.notice.spriggy.com.au
 ablink.1954.bk.com
 ablink.a.radio.com
 ablink.account.debut.careers
@@ -59,9 +61,13 @@ ablink.feed.liven.com.au
 ablink.go1.zip.co
 ablink.go2.zip.co
 ablink.go3.zip.co
+ablink.hello.innit.com
 ablink.hello.sanvello.com
+ablink.hello.spriggy.com.au
 ablink.hello.steadyapp.com
+ablink.help.innit.com
 ablink.help.sanvello.com
+ablink.help.shopwell.com
 ablink.info.pressreader.com
 ablink.info.sofi.org
 ablink.info.themarket.nz
@@ -97,6 +103,7 @@ ablink.news.gimmeradio.com
 ablink.news.omio.com
 ablink.newsletter.quizlet.com
 ablink.notice.hoopladigital.com
+ablink.notice.spriggy.com.au
 ablink.notification.insighttimer.com
 ablink.notifications.br.live
 ablink.notify.homecourt.ai
@@ -128,8 +135,10 @@ ablink.track.timhortons.com
 ablink.transactions.earnin.com
 ablink.watch.br.live
 ablink.your-way.bk.com
+ablink.your.audacy.com
 ablinks.comms.healthengine.com.au
 ablinks.e.foxsports.com.au
+ablinks.info.amaro.com
 ablinks.kfc.com.au
 ablinks.mail.claritymoney.com
 ablinks.mail.hinge.co
@@ -211,6 +220,7 @@ clicks.staging.worldremit.com
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
 ct.irl.com
+ct.irlmail.org
 deeplink.aspiration.com
 deeplink.instacartemail.com
 deeplinks.padmapper.com
@@ -235,6 +245,7 @@ email.clearscore.com
 email.clearscore.com.au
 email.fretello.com
 email.goodrx.com
+email.link.flipgive.com
 email.member.theknot.com
 email.pac-12.com
 email.pray.com
@@ -252,6 +263,7 @@ goto.zaful.com
 gotoaws.dresslily.com
 gotoaws.rosegal.com
 gotoaws.zaful.com
+gotoexp.dresslily.com
 hello.steadyapp.com
 ilinks.petalcard.com
 iterable.convoy.com
@@ -277,6 +289,7 @@ link.earnin.com
 link.email.almosafer.com
 link.email.bnext.es
 link.email.ninetynine.com
+link.email.soothe.com
 link.foodnetwork.com
 link.hello-sg.circles.life
 link.hello.soothe.com
@@ -325,6 +338,7 @@ links.em.history.com
 links.em.mylifetime.com
 links.email.almosafer.com
 links.email.bravotv.com
+links.email.getgocafe.com
 links.email.gianteagle.com
 links.email.greenlight.me
 links.email.nbc.com
@@ -334,6 +348,7 @@ links.email.twine.com
 links.email.usanetwork.com
 links.evault.history.com
 links.glamsquad.com
+links.hitrecord.org
 links.huckleberry-labs.com
 links.i.blueapron.com
 links.info.gianteagle.com
