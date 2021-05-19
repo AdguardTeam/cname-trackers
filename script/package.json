@@ -2,7 +2,6 @@
   "name": "cname-trackers",
   "version": "0.0.1",
   "main": "index.js",
-  "repository": "ssh://git@bit.adguard.com:7999/adguard-filters/cname-trackers.git",
   "author": "AdGuard",
   "license": "MIT",
   "private": true,
