@@ -5,8 +5,10 @@
 #
 a8.01cloud.jp
 a8.cyclemarket.jp
+a8.denwa-hikari.com
 a8.eonet.jp
 a8.haptic.co.jp
+a8.lavie-official.jp
 a8.looop-denki.com
 a8.makeshop.jp
 a8.print-netsquare.com
@@ -17,6 +19,7 @@ a8.tour-sys.com
 a8.uqmobile-shop.jp
 a8.virus-gekitai.com
 a8.webist-cri.com
+a8.yuzen-official.com
 a8aspconv.xn--biglobe-kc9k.com
 a8aspconv.xn--ocn-ws1e.jp
 a8click.you-up.com
@@ -31,6 +34,7 @@ a8clk.petitjob.jp
 a8clk.rarejob.com
 a8clk.reserve.retty.me
 a8clk.shop.sunsorit.co.jp
+a8clk.teacon.jp
 a8clk.titivate.jp
 a8clk.www.nortonstore.jp
 a8clk.xserver.ne.jp
@@ -45,6 +49,7 @@ a8cv.english-bootcamp.com
 a8cv.entry.renet.jp
 a8cv.housingbazar.jp
 a8cv.ishibashi.co.jp
+a8cv.omni7.jp
 a8cv.p-antiaging.com
 a8cv.signalift.com
 a8cv.try-fs.com
@@ -55,4 +60,5 @@ afi.ssl.gmobb.jp
 analytics.villagehouse.jp
 cv.a-internet.jp
 cv.drive-hikari.net
+cv.online.ysroad.co.jp
 trcka8net.irobot-jp.com

@@ -18,6 +18,7 @@
 ||tk.dietbon.fr^
 ||tk.engie.fr^
 ||tk.healthwarehouse.com^
+||tk.klm.com^
 ||tk.lcl.fr^
 ||tk.little-big-change.com^
 ||tk.lulli-sur-la-toile.com^

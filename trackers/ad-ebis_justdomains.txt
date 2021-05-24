@@ -31,6 +31,7 @@ adebis.real-style.co.jp
 adebis.report.clinic
 adebis.theclinic.jp
 adebis.tohshin.co.jp
+adebis.tokyuhotels.co.jp
 adebis.urban-research.jp
 adebis02.juku.st
 adebiscname.auone.jp
@@ -42,6 +43,7 @@ axjfkc.kobayashi.co.jp
 cname.ebis.folio-sec.com
 cname.finess.jp
 cname.jaic-college.jp
+cname.kyusai.co.jp
 cname.mebiusseiyaku.co.jp
 cnameebis.usagi-online.com
 cnebis.i-no-science.com

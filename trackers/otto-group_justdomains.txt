@@ -17,7 +17,9 @@ te.schlafwelt.de
 te.sheego.de
 te.universal.at
 te.witt-international.nl
+te.witt-weiden.at
 te.witt-weiden.de
+te.yomonda.de
 te.your-look-for-less.nl
 te.yourhome.de
 tp.ackermann.ch

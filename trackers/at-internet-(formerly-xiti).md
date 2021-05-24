@@ -44,6 +44,7 @@
     * res-francedimanche-fr-cddc.at-o.net
     * res-programme-television-org-cddc.at-o.net
     * res-public-fr-cddc.at-o.net
+    * ressources-caradisiac-com-cddc.at-o.net
     * ressources-centraleauto-com-cddc.at-o.net
     * ressources-mavoiturecash-fr-cddc.at-o.net
     * rsc-lepoint-fr-cddc.at-o.net
@@ -109,6 +110,7 @@
 | res.francedimanche.fr | res-francedimanche-fr-cddc.at-o.net |
 | res.programme-television.org | res-programme-television-org-cddc.at-o.net |
 | res.public.fr | res-public-fr-cddc.at-o.net |
+| ressources.caradisiac.com | ressources-caradisiac-com-cddc.at-o.net |
 | ressources.centraleauto.com | ressources-centraleauto-com-cddc.at-o.net |
 | ressources.mavoiturecash.fr | ressources-mavoiturecash-fr-cddc.at-o.net |
 | rsc.lepoint.fr | rsc-lepoint-fr-cddc.at-o.net |

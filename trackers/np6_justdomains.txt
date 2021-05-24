@@ -4,7 +4,9 @@
 # tracking.bp01.net disguised trackers
 #
 emailing.casden.banquepopulaire.fr
+sms.gestion.cetelem.fr
 tr.3ou4xcb.cetelem.fr
+tr.abo.cotemaison.fr
 tr.actu.bricodepot.com
 tr.actualites.01net.com
 tr.actualites.bfmtv.com
@@ -27,6 +29,7 @@ tr.cacf-acq.ipsos-surveys.com
 tr.camara.eu.com
 tr.carte.lcl.fr
 tr.client.emailing.bnpparibas
+tr.clienti.younited-credit.com
 tr.clienti.younited-credit.it
 tr.clients-mediametrie.fr
 tr.clients.boursorama.info
@@ -44,6 +47,7 @@ tr.communication.cgaaer.fr
 tr.communication.harmonie-mutuelle.fr
 tr.communication.numericable.fr
 tr.contact.canalplus.fr
+tr.courriel.ouestnormandie.cci.fr
 tr.courrier.charentelibre.fr
 tr.courrier.larepubliquedespyrenees.fr
 tr.courrier.sudouest.fr
@@ -57,6 +61,7 @@ tr.em.cdiscountpro.com
 tr.email.archiexpo.com
 tr.email.directindustry.com
 tr.email.janedeboy.com
+tr.email.securite-routiere.gouv.fr
 tr.email.voyagesleclerc.com
 tr.emailing.canalplus-afrique.com
 tr.emailing.canalplus-caledonie.com
@@ -71,6 +76,7 @@ tr.europa-organisation.com
 tr.gestion.banque-casino.fr
 tr.gestion.cetelem.fr
 tr.gestion.floa.fr
+tr.groupama-gne.fr
 tr.info.actionlogement.fr
 tr.info.arialcnp.fr
 tr.info.casino-proximites.fr
@@ -100,6 +106,7 @@ tr.mm.infopro-digital.com
 tr.mnoc.espmp-nifr.net
 tr.mondevis-pro.com
 tr.mp.aconclue-pro.com
+tr.n.info.cdgp.fr
 tr.news-companeo.pl
 tr.news.alinea.com
 tr.news.allopneus.com
@@ -118,6 +125,7 @@ tr.news.lexpansion.lexpress.fr
 tr.news.lexpress.fr
 tr.news.mdbp.fr
 tr.news.meillandrichardier.com
+tr.news.perfectstay.com
 tr.news.smartdeals-transavia-fr.com
 tr.news.vipmag.fr
 tr.news.voyagesleclerc.com
@@ -128,6 +136,8 @@ tr.newsletter.bouygues-construction.com
 tr.newsletter.capdecision.fr
 tr.newsletter.younited-credit.com
 tr.newsletters.odalys-vacances.com
+tr.notification-gdpr.cafineo.fr
+tr.notification-gdpr.cofinoga.fr
 tr.notification-gdpr.domofinance.fr
 tr.notification-gdpr.sygmabybnpparibas-pf.com
 tr.notification.banque-revillon.fr
@@ -143,11 +153,15 @@ tr.pole-emploi-services.com
 tr.politicolive.eu
 tr.portail.afpa.fr
 tr.ra.cofinoga.fr
+tr.redaction.essentiel-sante-magazine.fr
+tr.reglementaire.emailing.bnpparibas
 tr.satisfaction.groupe-pv-cp.com
 tr.scienceshumaines.pro
 tr.secteurentreprises.harmonie-mutuelle.fr
+tr.serviceclient.younited-credit.com
 tr.services.caradisiac.com
 tr.servicesclients.canalplus.fr
+tr.souscription.floa.fr
 tr.toner-service.fr
 tr1.mailperf.com
 trpreviews.bp01.net

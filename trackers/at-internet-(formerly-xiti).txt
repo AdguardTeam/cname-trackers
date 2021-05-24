@@ -45,6 +45,7 @@
 ||res.francedimanche.fr^
 ||res.programme-television.org^
 ||res.public.fr^
+||ressources.caradisiac.com^
 ||ressources.centraleauto.com^
 ||ressources.mavoiturecash.fr^
 ||rsc.lepoint.fr^

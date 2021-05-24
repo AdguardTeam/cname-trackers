@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * ebis.ne.jp
+    * 02a8f7d5-th1skucf.cname.ebis.ne.jp
     * 055b1f86-ycxd4a4u.cname.ebis.ne.jp
     * 06fb9eec-clhowtg1.cname.ebis.ne.jp
     * 07d020a3-crscrcp3.cname.ebis.ne.jp
@@ -22,6 +23,7 @@
     * 417df397-9zxfa7mv.cname.ebis.ne.jp
     * 4276d508-rytkalgx.cname.ebis.ne.jp
     * 44f2417e-guakxgpf.cname.ebis.ne.jp
+    * 4a5353c5-wrr2jzhu.cname.ebis.ne.jp
     * 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp
     * 4f9cdbe0-unrhytys.cname.ebis.ne.jp
     * 5032afa8-66fsga6n.cname.ebis.ne.jp
@@ -82,6 +84,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| adebis.tokyuhotels.co.jp | 02a8f7d5-th1skucf.cname.ebis.ne.jp |
 | ad.takasu.co.jp | 055b1f86-ycxd4a4u.cname.ebis.ne.jp |
 | adebis.tohshin.co.jp | 06fb9eec-clhowtg1.cname.ebis.ne.jp |
 | adebis.livable.co.jp | 07d020a3-crscrcp3.cname.ebis.ne.jp |
@@ -101,6 +104,7 @@
 | tukuru.cotta.jp | 417df397-9zxfa7mv.cname.ebis.ne.jp |
 | adebis.cybozu.co.jp | 4276d508-rytkalgx.cname.ebis.ne.jp |
 | adebis.theclinic.jp | 44f2417e-guakxgpf.cname.ebis.ne.jp |
+| cname.kyusai.co.jp | 4a5353c5-wrr2jzhu.cname.ebis.ne.jp |
 | ncc.nip-col.jp | 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp |
 | ad-track.paravi.jp | 4f9cdbe0-unrhytys.cname.ebis.ne.jp |
 | adebis.nursery.co.jp | 5032afa8-66fsga6n.cname.ebis.ne.jp |

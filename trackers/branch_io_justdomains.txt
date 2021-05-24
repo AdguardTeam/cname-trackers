@@ -68,6 +68,7 @@ ablink.hello.steadyapp.com
 ablink.help.innit.com
 ablink.help.sanvello.com
 ablink.help.shopwell.com
+ablink.info.felixmobile.com.au
 ablink.info.pressreader.com
 ablink.info.sofi.org
 ablink.info.themarket.nz
@@ -195,6 +196,7 @@ click.email.soundhound.com
 click.emails.creditonebank.com
 click.favordelivery.com
 click.food.mercato.com
+click.glamsquad.com
 click.instacartemail.com
 click.mail.carousell.com
 click.mail.thecarousell.com
@@ -234,7 +236,7 @@ e.e.themighty.com
 e.synchronybank.com
 em.getsimpleprints.com
 em.touchtunes.com
-em.touchtunesmail.com
+email-link.mg.surkus.com
 email-sendgrid-deep-linking.chewy.com
 email-staging.goodrx.com
 email-test.wirexapp.com
@@ -304,9 +306,11 @@ link.moodagent.com
 link.nbcadmin.com
 link.news.goeuro.com
 link.notifications.busuu.app
+link.notifications.goodu.se
 link.offers.kodakmoments.com
 link.orders.kodakmoments.com
 link.resy.com
+link.ridewithvia.com
 link.syfy-channel.com
 link.team.bnext.io
 link.touchtunes.com
@@ -323,6 +327,7 @@ links.automated.almosafer.com
 links.automated.tajawal.com
 links.blueapron.com
 links.boxed.com
+links.colonelsclub.kfc.com
 links.customers.instacartemail.com
 links.dice.fm
 links.e.aetv.com
@@ -393,11 +398,13 @@ t.comms.thetimes.co.uk
 t.discover.kayosports.com.au
 t.prod1.discover.binge.com.au
 t1.stadiumgoods.com
+td.ecomms.originenergy.com.au
 test-eml.postmates.com
 test-fleet-eml.postmates.com
 test.customers.instacartemail.com
 test.shoppers.instacartemail.com
 trac.roomster.com
+track.cafu.com
 track.roomster.com
 track.spothero.com
 tracking.email-mandrill.pushd.com
@@ -410,5 +417,6 @@ trk.s.sephora.com
 trklink.luisaviaroma.com
 url1015.abtest.em.redmart.com
 url3630.newsletter.experience-muse.com
+url7542.fluz.app
 url9576.oneshift.com
 wl.spotify.com

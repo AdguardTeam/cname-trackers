@@ -11,7 +11,7 @@ data.ouigo.com
 data.ubi.com
 data.wptag.net
 logger.yp.ca
-tag.boulanger.fr
+sales.disneylandparis.com
 tagcommander.castaluna.fr
 tagcommander.laredoute.be
 tagcommander.laredoute.co.uk

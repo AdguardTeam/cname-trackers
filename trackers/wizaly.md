@@ -56,5 +56,6 @@
 | tk.airfrance.ru | tkairfrance.wizaly.com |
 | tk.airfrance.tn | tkairfrance.wizaly.com |
 | tk.airfrance.us | tkairfrance.wizaly.com |
+| tk.klm.com | tkairfrance.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |
 | wiz.ghostbed.com | wiz-ghostbed-com.wizaly.com |
