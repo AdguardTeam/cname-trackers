@@ -7,6 +7,10 @@
 ||19035924.email.almosafer.com^
 ||19035924.loyalty.almosafer.com^
 ||19035924.mktg.almosafer.com^
+||19035955.automated.tajawal.com^
+||19035955.email.tajawal.com^
+||19035955.loyalty.tajawal.com^
+||19035955.mktg.tajawal.com^
 ||5363316.marketing.numi.com^
 ||6519114.automated.tajawal.com^
 ||6519114.email.tajawal.com^
@@ -84,6 +88,7 @@
 ||ablink.m.popeyes.com^
 ||ablink.m.seatedapp.io^
 ||ablink.m.sofi.org^
+||ablink.mail.activearcade.ai^
 ||ablink.mail.adobespark.com^
 ||ablink.mail.grailed.com^
 ||ablink.mail.homecourt.ai^
@@ -138,6 +143,7 @@
 ||ablink.your-way.bk.com^
 ||ablink.your.audacy.com^
 ||ablinks.comms.healthengine.com.au^
+||ablinks.e.draft.com^
 ||ablinks.e.foxsports.com.au^
 ||ablinks.info.amaro.com^
 ||ablinks.kfc.com.au^
@@ -152,6 +158,7 @@
 ||ablinksuni.a.seamless.com^
 ||abmail.email.alltrails.com^
 ||abmail2.e.hungryjacks.com.au^
+||abtest.em.redmart.com^
 ||abtest.redmart.com^
 ||activation.depop.com^
 ||alerts.steadyapp.com^
@@ -197,6 +204,7 @@
 ||click.favordelivery.com^
 ||click.food.mercato.com^
 ||click.glamsquad.com^
+||click.gudog.com^
 ||click.instacartemail.com^
 ||click.mail.carousell.com^
 ||click.mail.thecarousell.com^
@@ -284,6 +292,7 @@
 ||link.alerts.busuu.app^
 ||link.announce.busuu.app^
 ||link.automated.almosafer.com^
+||link.automated.tajawal.com^
 ||link.cdl.freshly.com^
 ||link.cheerz.com^
 ||link.creditonemail.com^
@@ -292,6 +301,7 @@
 ||link.email.bnext.es^
 ||link.email.ninetynine.com^
 ||link.email.soothe.com^
+||link.email.tajawal.com^
 ||link.foodnetwork.com^
 ||link.hello-sg.circles.life^
 ||link.hello.soothe.com^
@@ -299,10 +309,14 @@
 ||link.hey.mypostcard.com^
 ||link.kdkmoments.com^
 ||link.loyalty.almosafer.com^
+||link.loyalty.tajawal.com^
 ||link.mail.burgerking.ca^
 ||link.mail.popsa.com^
+||link.marketing.churchomeglobal.org^
 ||link.mktg.almosafer.com^
+||link.mktg.tajawal.com^
 ||link.moodagent.com^
+||link.mypostcard.com^
 ||link.nbcadmin.com^
 ||link.news.goeuro.com^
 ||link.notifications.busuu.app^
@@ -388,6 +402,7 @@
 ||read.medium.com^
 ||redirectmail.majelan.com^
 ||sendgridlinks.neuroflowsolution.com^
+||sephora-qa.branchstaging.com^
 ||sg3.notarize.com^
 ||shoppers-test.instacartemail.com^
 ||shoppers.instacartemail.com^
@@ -418,5 +433,6 @@
 ||url1015.abtest.em.redmart.com^
 ||url3630.newsletter.experience-muse.com^
 ||url7542.fluz.app^
+||url8196.mindrise.app^
 ||url9576.oneshift.com^
 ||wl.spotify.com^

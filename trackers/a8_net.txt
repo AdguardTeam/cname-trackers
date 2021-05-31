@@ -29,6 +29,7 @@
 ||a8clk.dospara.co.jp^
 ||a8clk.justy-consul.com^
 ||a8clk.kenkoukazoku.co.jp^
+||a8clk.manage.conoha.jp^
 ||a8clk.osoujihonpo.com^
 ||a8clk.petitjob.jp^
 ||a8clk.rarejob.com^

@@ -96,6 +96,7 @@ mit.db.com
 mit.dws.com
 mit.dws.de
 mit.researchlog.dbresearch.com
+mit.researchlog.dbresearch.de
 ot.obi-italia.it
 ot.obi.at
 ot.obi.ch
@@ -162,6 +163,7 @@ web.newsletter.viviennewestwood.com
 web.x.ilpost.it
 webmet.creditreform.de
 webt.pure.com
+wetr.sportscheck.at
 wetr.sportscheck.com
 wt.envivas.de
 wt.generali.de

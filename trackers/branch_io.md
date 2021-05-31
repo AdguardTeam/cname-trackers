@@ -11,10 +11,15 @@
 | ---- | ---- |
 | app.sephora.com | epsilon.thirdparty.bnc.lt |
 | e.synchronybank.com | epsilon.thirdparty.bnc.lt |
+| sephora-qa.branchstaging.com | epsilon.thirdparty.bnc.lt |
 | 19035924.automated.almosafer.com | thirdparty.bnc.lt |
 | 19035924.email.almosafer.com | thirdparty.bnc.lt |
 | 19035924.loyalty.almosafer.com | thirdparty.bnc.lt |
 | 19035924.mktg.almosafer.com | thirdparty.bnc.lt |
+| 19035955.automated.tajawal.com | thirdparty.bnc.lt |
+| 19035955.email.tajawal.com | thirdparty.bnc.lt |
+| 19035955.loyalty.tajawal.com | thirdparty.bnc.lt |
+| 19035955.mktg.tajawal.com | thirdparty.bnc.lt |
 | 5363316.marketing.numi.com | thirdparty.bnc.lt |
 | 6519114.automated.tajawal.com | thirdparty.bnc.lt |
 | 6519114.email.tajawal.com | thirdparty.bnc.lt |
@@ -92,6 +97,7 @@
 | ablink.m.popeyes.com | thirdparty.bnc.lt |
 | ablink.m.seatedapp.io | thirdparty.bnc.lt |
 | ablink.m.sofi.org | thirdparty.bnc.lt |
+| ablink.mail.activearcade.ai | thirdparty.bnc.lt |
 | ablink.mail.adobespark.com | thirdparty.bnc.lt |
 | ablink.mail.grailed.com | thirdparty.bnc.lt |
 | ablink.mail.homecourt.ai | thirdparty.bnc.lt |
@@ -146,6 +152,7 @@
 | ablink.your-way.bk.com | thirdparty.bnc.lt |
 | ablink.your.audacy.com | thirdparty.bnc.lt |
 | ablinks.comms.healthengine.com.au | thirdparty.bnc.lt |
+| ablinks.e.draft.com | thirdparty.bnc.lt |
 | ablinks.e.foxsports.com.au | thirdparty.bnc.lt |
 | ablinks.info.amaro.com | thirdparty.bnc.lt |
 | ablinks.kfc.com.au | thirdparty.bnc.lt |
@@ -160,6 +167,7 @@
 | ablinksuni.a.seamless.com | thirdparty.bnc.lt |
 | abmail.email.alltrails.com | thirdparty.bnc.lt |
 | abmail2.e.hungryjacks.com.au | thirdparty.bnc.lt |
+| abtest.em.redmart.com | thirdparty.bnc.lt |
 | abtest.redmart.com | thirdparty.bnc.lt |
 | activation.depop.com | thirdparty.bnc.lt |
 | alerts.steadyapp.com | thirdparty.bnc.lt |
@@ -204,6 +212,7 @@
 | click.favordelivery.com | thirdparty.bnc.lt |
 | click.food.mercato.com | thirdparty.bnc.lt |
 | click.glamsquad.com | thirdparty.bnc.lt |
+| click.gudog.com | thirdparty.bnc.lt |
 | click.instacartemail.com | thirdparty.bnc.lt |
 | click.mail.carousell.com | thirdparty.bnc.lt |
 | click.mail.thecarousell.com | thirdparty.bnc.lt |
@@ -290,6 +299,7 @@
 | link.alerts.busuu.app | thirdparty.bnc.lt |
 | link.announce.busuu.app | thirdparty.bnc.lt |
 | link.automated.almosafer.com | thirdparty.bnc.lt |
+| link.automated.tajawal.com | thirdparty.bnc.lt |
 | link.cdl.freshly.com | thirdparty.bnc.lt |
 | link.cheerz.com | thirdparty.bnc.lt |
 | link.creditonemail.com | thirdparty.bnc.lt |
@@ -298,6 +308,7 @@
 | link.email.bnext.es | thirdparty.bnc.lt |
 | link.email.ninetynine.com | thirdparty.bnc.lt |
 | link.email.soothe.com | thirdparty.bnc.lt |
+| link.email.tajawal.com | thirdparty.bnc.lt |
 | link.foodnetwork.com | thirdparty.bnc.lt |
 | link.hello-sg.circles.life | thirdparty.bnc.lt |
 | link.hello.soothe.com | thirdparty.bnc.lt |
@@ -305,10 +316,14 @@
 | link.hey.mypostcard.com | thirdparty.bnc.lt |
 | link.kdkmoments.com | thirdparty.bnc.lt |
 | link.loyalty.almosafer.com | thirdparty.bnc.lt |
+| link.loyalty.tajawal.com | thirdparty.bnc.lt |
 | link.mail.burgerking.ca | thirdparty.bnc.lt |
 | link.mail.popsa.com | thirdparty.bnc.lt |
+| link.marketing.churchomeglobal.org | thirdparty.bnc.lt |
 | link.mktg.almosafer.com | thirdparty.bnc.lt |
+| link.mktg.tajawal.com | thirdparty.bnc.lt |
 | link.moodagent.com | thirdparty.bnc.lt |
+| link.mypostcard.com | thirdparty.bnc.lt |
 | link.nbcadmin.com | thirdparty.bnc.lt |
 | link.news.goeuro.com | thirdparty.bnc.lt |
 | link.notifications.busuu.app | thirdparty.bnc.lt |
@@ -424,5 +439,6 @@
 | url1015.abtest.em.redmart.com | thirdparty.bnc.lt |
 | url3630.newsletter.experience-muse.com | thirdparty.bnc.lt |
 | url7542.fluz.app | thirdparty.bnc.lt |
+| url8196.mindrise.app | thirdparty.bnc.lt |
 | url9576.oneshift.com | thirdparty.bnc.lt |
 | wl.spotify.com | thirdparty.bnc.lt |

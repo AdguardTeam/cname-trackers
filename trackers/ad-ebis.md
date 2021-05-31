@@ -14,15 +14,18 @@
     * 18aeb18f-orvgub9g.cname.ebis.ne.jp
     * 23d55728-ssmshbez.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
+    * 2c9c5766-qkdlymcx.cname.ebis.ne.jp
     * 30a5817d-lkhaegjw.cname.ebis.ne.jp
     * 34213ab6-xnj2xrq7.cname.ebis.ne.jp
     * 35e79adf-qjtkq0iz.cname.ebis.ne.jp
     * 3a3d0355-kkto8pe9.cname.ebis.ne.jp
     * 3c39ea6e-px3cltrd.cname.ebis.ne.jp
+    * 3c40b540-dfevquvl.cname.ebis.ne.jp
     * 3fcda11b-dmcr4rty.cname.ebis.ne.jp
     * 417df397-9zxfa7mv.cname.ebis.ne.jp
     * 4276d508-rytkalgx.cname.ebis.ne.jp
     * 44f2417e-guakxgpf.cname.ebis.ne.jp
+    * 4625f83e-ua37naea.cname.ebis.ne.jp
     * 4a5353c5-wrr2jzhu.cname.ebis.ne.jp
     * 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp
     * 4f9cdbe0-unrhytys.cname.ebis.ne.jp
@@ -37,6 +40,7 @@
     * 65583296-u9rwf5hz.cname.ebis.ne.jp
     * 730fac49-ezdvkv2x.cname.ebis.ne.jp
     * 748da21f-kuqpafku.cname.ebis.ne.jp
+    * 7955b170-gaz6wmaw.cname.ebis.ne.jp
     * 8084b5d3-mqxnlcy4.cname.ebis.ne.jp
     * 80ad1e32-pvfpecyh.cname.ebis.ne.jp
     * 852e231d-ct0ymnok.cname.ebis.ne.jp
@@ -78,6 +82,7 @@
     * e566cdfc-dvrv5nhw.cname.ebis.ne.jp
     * eceb7b9f-6a92yces.cname.ebis.ne.jp
     * f3054804-quxzshgd.cname.ebis.ne.jp
+    * fc0a624f-lxzgwtkr.cname.ebis.ne.jp
     * fe1d7165-mmpoiy89.cname.ebis.ne.jp
 
 ## Cloaking domains
@@ -95,15 +100,18 @@
 | ebis.rozetta.jp | 18aeb18f-orvgub9g.cname.ebis.ne.jp |
 | ebis.c-3-esthe.com | 23d55728-ssmshbez.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
+| ebis.codecamp.jp | 2c9c5766-qkdlymcx.cname.ebis.ne.jp |
 | adebis-morijuku.morijuku.com | 30a5817d-lkhaegjw.cname.ebis.ne.jp |
 | adebis.report.clinic | 34213ab6-xnj2xrq7.cname.ebis.ne.jp |
 | adebis.fenet.jp | 35e79adf-qjtkq0iz.cname.ebis.ne.jp |
 | ebis.seibu-k.co.jp | 3a3d0355-kkto8pe9.cname.ebis.ne.jp |
 | ebis202001.joyfit.jp | 3c39ea6e-px3cltrd.cname.ebis.ne.jp |
+| ebis.rabo.cat | 3c40b540-dfevquvl.cname.ebis.ne.jp |
 | digital.anicom-sompo.co.jp | 3fcda11b-dmcr4rty.cname.ebis.ne.jp |
 | tukuru.cotta.jp | 417df397-9zxfa7mv.cname.ebis.ne.jp |
 | adebis.cybozu.co.jp | 4276d508-rytkalgx.cname.ebis.ne.jp |
 | adebis.theclinic.jp | 44f2417e-guakxgpf.cname.ebis.ne.jp |
+| cmass.massmedian.co.jp | 4625f83e-ua37naea.cname.ebis.ne.jp |
 | cname.kyusai.co.jp | 4a5353c5-wrr2jzhu.cname.ebis.ne.jp |
 | ncc.nip-col.jp | 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp |
 | ad-track.paravi.jp | 4f9cdbe0-unrhytys.cname.ebis.ne.jp |
@@ -118,6 +126,7 @@
 | ebis.studio-alice.co.jp | 65583296-u9rwf5hz.cname.ebis.ne.jp |
 | ebis.bulk.co.jp | 730fac49-ezdvkv2x.cname.ebis.ne.jp |
 | adebis.demae-can.com | 748da21f-kuqpafku.cname.ebis.ne.jp |
+| cnebis.chocola.com | 7955b170-gaz6wmaw.cname.ebis.ne.jp |
 | cname.mebiusseiyaku.co.jp | 8084b5d3-mqxnlcy4.cname.ebis.ne.jp |
 | adebis.qeee.jp | 80ad1e32-pvfpecyh.cname.ebis.ne.jp |
 | maz.zba.jp | 852e231d-ct0ymnok.cname.ebis.ne.jp |
@@ -159,4 +168,5 @@
 | ad1.tone.ne.jp | e566cdfc-dvrv5nhw.cname.ebis.ne.jp |
 | adebisu.wowow.co.jp | eceb7b9f-6a92yces.cname.ebis.ne.jp |
 | ebis2020.hoiku-job.net | f3054804-quxzshgd.cname.ebis.ne.jp |
+| ebis.sekisuiheim.com | fc0a624f-lxzgwtkr.cname.ebis.ne.jp |
 | axjfkc.kobayashi.co.jp | fe1d7165-mmpoiy89.cname.ebis.ne.jp |

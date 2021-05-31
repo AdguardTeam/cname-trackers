@@ -70,11 +70,13 @@
 | tr.email.voyagesleclerc.com | tracking.bp01.net |
 | tr.emailing.canalplus-afrique.com | tracking.bp01.net |
 | tr.emailing.canalplus-caledonie.com | tracking.bp01.net |
+| tr.emailing.canalplus-caraibes.com | tracking.bp01.net |
 | tr.emailing.canalplus-reunion.com | tracking.bp01.net |
 | tr.emailing.canalplus.fr | tracking.bp01.net |
 | tr.emailing.coe.int | tracking.bp01.net |
 | tr.emailing.detours.canal.fr | tracking.bp01.net |
 | tr.emailing.grassavoye.com | tracking.bp01.net |
+| tr.emailium.fr | tracking.bp01.net |
 | tr.enedis-infos.fr | tracking.bp01.net |
 | tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
 | tr.europa-organisation.com | tracking.bp01.net |
@@ -83,7 +85,9 @@
 | tr.gestion.floa.fr | tracking.bp01.net |
 | tr.groupama-gne.fr | tracking.bp01.net |
 | tr.info.actionlogement.fr | tracking.bp01.net |
+| tr.info.aprr.fr | tracking.bp01.net |
 | tr.info.arialcnp.fr | tracking.bp01.net |
+| tr.info.capfun.com | tracking.bp01.net |
 | tr.info.casino-proximites.fr | tracking.bp01.net |
 | tr.info.easyviaggio.com | tracking.bp01.net |
 | tr.info.easyviajar.com | tracking.bp01.net |
@@ -106,6 +110,7 @@
 | tr.mail.floa.fr | tracking.bp01.net |
 | tr.mail.koregraf.com | tracking.bp01.net |
 | tr.mail.satisfactory.fr | tracking.bp01.net |
+| tr.mail.vipmag.fr | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
 | tr.mm.infopro-digital.com | tracking.bp01.net |
 | tr.mnoc.espmp-nifr.net | tracking.bp01.net |
@@ -123,9 +128,11 @@
 | tr.news.easyviaggio.com | tracking.bp01.net |
 | tr.news.easyvoyage.co.uk | tracking.bp01.net |
 | tr.news.easyvoyage.com | tracking.bp01.net |
+| tr.news.heredis.com | tracking.bp01.net |
 | tr.news.infopro-digital.com | tracking.bp01.net |
 | tr.news.kpmgnet.fr | tracking.bp01.net |
 | tr.news.lacollection-airfrance.fr | tracking.bp01.net |
+| tr.news.lacollectionairfrance.fr | tracking.bp01.net |
 | tr.news.lexpansion.lexpress.fr | tracking.bp01.net |
 | tr.news.lexpress.fr | tracking.bp01.net |
 | tr.news.mdbp.fr | tracking.bp01.net |
@@ -141,6 +148,7 @@
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
 | tr.newsletter.younited-credit.com | tracking.bp01.net |
 | tr.newsletters.odalys-vacances.com | tracking.bp01.net |
+| tr.nl.services-sncf.com | tracking.bp01.net |
 | tr.notification-gdpr.cafineo.fr | tracking.bp01.net |
 | tr.notification-gdpr.cofinoga.fr | tracking.bp01.net |
 | tr.notification-gdpr.domofinance.fr | tracking.bp01.net |
@@ -166,6 +174,7 @@
 | tr.serviceclient.younited-credit.com | tracking.bp01.net |
 | tr.services.caradisiac.com | tracking.bp01.net |
 | tr.servicesclients.canalplus.fr | tracking.bp01.net |
+| tr.smtp1.email-mediapost.fr | tracking.bp01.net |
 | tr.souscription.floa.fr | tracking.bp01.net |
 | tr.toner-service.fr | tracking.bp01.net |
 | tr1.mailperf.com | tracking.bp01.net |

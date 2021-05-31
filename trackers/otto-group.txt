@@ -4,6 +4,7 @@
 ! oghub.io disguised trackers
 !
 ||te.ackermann.ch^
+||te.ambria.de^
 ||te.baur.de^
 ||te.creation-l.de^
 ||te.frankonia.de^

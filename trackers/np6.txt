@@ -65,11 +65,13 @@
 ||tr.email.voyagesleclerc.com^
 ||tr.emailing.canalplus-afrique.com^
 ||tr.emailing.canalplus-caledonie.com^
+||tr.emailing.canalplus-caraibes.com^
 ||tr.emailing.canalplus-reunion.com^
 ||tr.emailing.canalplus.fr^
 ||tr.emailing.coe.int^
 ||tr.emailing.detours.canal.fr^
 ||tr.emailing.grassavoye.com^
+||tr.emailium.fr^
 ||tr.enedis-infos.fr^
 ||tr.envie-de-bien-manger.espmp-aufr.net^
 ||tr.europa-organisation.com^
@@ -78,7 +80,9 @@
 ||tr.gestion.floa.fr^
 ||tr.groupama-gne.fr^
 ||tr.info.actionlogement.fr^
+||tr.info.aprr.fr^
 ||tr.info.arialcnp.fr^
+||tr.info.capfun.com^
 ||tr.info.casino-proximites.fr^
 ||tr.info.easyviaggio.com^
 ||tr.info.easyviajar.com^
@@ -101,6 +105,7 @@
 ||tr.mail.floa.fr^
 ||tr.mail.koregraf.com^
 ||tr.mail.satisfactory.fr^
+||tr.mail.vipmag.fr^
 ||tr.mailing.lvmhappening.com^
 ||tr.mm.infopro-digital.com^
 ||tr.mnoc.espmp-nifr.net^
@@ -118,9 +123,11 @@
 ||tr.news.easyviaggio.com^
 ||tr.news.easyvoyage.co.uk^
 ||tr.news.easyvoyage.com^
+||tr.news.heredis.com^
 ||tr.news.infopro-digital.com^
 ||tr.news.kpmgnet.fr^
 ||tr.news.lacollection-airfrance.fr^
+||tr.news.lacollectionairfrance.fr^
 ||tr.news.lexpansion.lexpress.fr^
 ||tr.news.lexpress.fr^
 ||tr.news.mdbp.fr^
@@ -136,6 +143,7 @@
 ||tr.newsletter.capdecision.fr^
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletters.odalys-vacances.com^
+||tr.nl.services-sncf.com^
 ||tr.notification-gdpr.cafineo.fr^
 ||tr.notification-gdpr.cofinoga.fr^
 ||tr.notification-gdpr.domofinance.fr^
@@ -161,6 +169,7 @@
 ||tr.serviceclient.younited-credit.com^
 ||tr.services.caradisiac.com^
 ||tr.servicesclients.canalplus.fr^
+||tr.smtp1.email-mediapost.fr^
 ||tr.souscription.floa.fr^
 ||tr.toner-service.fr^
 ||tr1.mailperf.com^

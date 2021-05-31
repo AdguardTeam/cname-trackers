@@ -160,6 +160,7 @@
 | web.mapp.ilgiardinodeilibri.it | 958731023298385.wt-eu02.net |
 | web.newsletter.viviennewestwood.com | 964869656656022.wt-eu02.net |
 | mit.researchlog.dbresearch.com | 965607891904117.wt-eu02.net |
+| mit.researchlog.dbresearch.de | 965607891904117.wt-eu02.net |
 | census.misterspex.co.uk | 972067760041897.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
@@ -265,6 +266,7 @@
 | t.paydirekt.de | paydirekt-de01.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |
 | proditor.sparda.de | sparda01.wt-eu02.net |
+| wetr.sportscheck.at | sportscheckde01.wt-eu02.net |
 | wetr.sportscheck.com | sportscheckde01.wt-eu02.net |
 | tracking.tchibo.de | tchibo03.webtrekk.net |
 | tracking.tchibo.com.tr | tchibo09.webtrekk.net |
