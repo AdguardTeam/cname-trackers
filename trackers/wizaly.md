@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * wizaly.com
+    * t.wizaly.com
     * tk-abt-com.wizaly.com
     * tk-biovea-com.wizaly.com
     * tk-conforama-fr.wizaly.com
@@ -29,6 +30,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| twiz.wizaly.fr | t.wizaly.com |
 | tk.abt.com | tk-abt-com.wizaly.com |
 | tk.biovea.com | tk-biovea-com.wizaly.com |
 | tk.conforama.fr | tk-conforama-fr.wizaly.com |

@@ -11,7 +11,6 @@
 ||advise.gallup.com^
 ||ai.mist.com^
 ||ai.thermo.com^
-||ald.aldautomotive.com^
 ||allergy.thermofisher.com^
 ||amplify.strategic-i.com^
 ||analytics.aba.com^
@@ -21,6 +20,7 @@
 ||apcinfo.motorolasolutions.com^
 ||app.3d.ultimaker.com^
 ||app.assetscem.endeavorb2b.com^
+||app.assetsdes.endeavorb2b.com^
 ||app.assetsmanu.endeavorb2b.com^
 ||app.business.westernunion.com^
 ||app.demand.ptc.com^
@@ -106,6 +106,7 @@
 ||content.tatatelebusiness.com^
 ||content.verint.com^
 ||conteudos.lp.deloittecomunicacao.com.br^
+||conversations.al-enterprise.com^
 ||cookiejar.atea.no^
 ||cookies.engage.russellinvestments.com^
 ||cookies.siemens-energy.com^
@@ -167,6 +168,7 @@
 ||eloq.fiducial.fr^
 ||eloqua-trackings.unity.com^
 ||eloqua-trackings.unity3d.com^
+||eloqua.53.com^
 ||eloqua.eft.com^
 ||eloqua.infobip.com^
 ||eloqua.liberty.edu^
@@ -175,8 +177,10 @@
 ||eloqua.talktalkbusiness.co.uk^
 ||eloquatracking.iqvia.com^
 ||elq-trk.fullsail.edu^
+||elq.accuity.com^
 ||elq.blackrock.com^
 ||elq.cirium.com^
+||elq.eg.co.uk^
 ||elq.egi.co.uk^
 ||elq.farmplan.co.uk^
 ||elq.forrester.com^
@@ -248,6 +252,7 @@
 ||emea.wf.com^
 ||empresa.ricoh.es^
 ||endpoint.demand.intelsecurity.com^
+||endpoint2.secureforms.mcafee.com^
 ||energy.eneco.be^
 ||eng.info.mouser.com^
 ||engage-emea.jll.com^
@@ -289,6 +294,7 @@
 ||engage.3maustria.at^
 ||engage.3mbelgie.be^
 ||engage.3mbelgique.be^
+||engage.3mbulgaria.bg^
 ||engage.3mcanada.ca^
 ||engage.3mcesko.cz^
 ||engage.3mchile.cl^
@@ -354,6 +360,7 @@
 ||forms.vaisala.com^
 ||fp.mandatumtrader.fi^
 ||fpc.attcenter.com^
+||fpc.bartlegibson.com^
 ||fpc.broadway.com^
 ||fpc.cebglobal.com^
 ||fpc.gartner.com^
@@ -385,6 +392,7 @@
 ||go.frost.com^
 ||go.getneighborly.com^
 ||go.getneighbourly.ca^
+||go.hager.com^
 ||go.kareo.com^
 ||go.morningstar.com^
 ||go.morningstar.com.au^
@@ -411,12 +419,14 @@
 ||info.adp.com^
 ||info.asce.org^
 ||info.attcenter.com^
+||info.authorize.net^
 ||info.bbvaautorenting.es^
 ||info.boozallen.com^
 ||info.brightcove.com^
 ||info.cengage.com^
 ||info.clarivate.com^
 ||info.commercial.keurig.com^
+||info.cookiepro.com^
 ||info.dunnhumby.com^
 ||info.edb.gov.sg^
 ||info.fdbhealth.com^
@@ -424,6 +434,7 @@
 ||info.houzz.com^
 ||info.macktrucks.com^
 ||info.markmonitor.com^
+||info.medtronicdiabetes.com^
 ||info.mouser.com^
 ||info.nhlseattle.com^
 ||info.o2business.de^
@@ -433,6 +444,7 @@
 ||info.perkinelmer.com^
 ||info.questoraclecommunity.org^
 ||info.vendorpedia.com^
+||information.frbcommunications.org^
 ||insight.business.hsbc.com^
 ||insights.harvardbusiness.org^
 ||insights.prophet.com^
@@ -442,6 +454,7 @@
 ||journey.cisco.com^
 ||know.wolterskluwerlr.com^
 ||la.secure.sonosite.com^
+||lacinfo.motorolasolutions.com^
 ||landing-annotext.wolterskluwer.com^
 ||landing-legisway.wolterskluwer.com^
 ||landing.wolterskluwer.hu^
@@ -453,6 +466,7 @@
 ||learn.uwindsor.ca^
 ||lincolnfinancialgroup.lfg.com^
 ||link.lloydsbank.com^
+||links.e.response.mayoclinic.org^
 ||live.alljobs.co.il^
 ||log.cognex.com^
 ||loyalty.interamerican.gr^
@@ -468,7 +482,9 @@
 ||marketing.amadeus.com^
 ||marketing.cloud.travelport.com^
 ||marketing.psentertainment.com^
+||marketing.royalalaskanmovers.com^
 ||mds.ricoh.es^
+||medion.interamerican.gr^
 ||meet.westuc.com^
 ||metricsinfo.edc.ca^
 ||mfg.endeavorb2b.com^
@@ -523,6 +539,7 @@
 ||secure.info.domo.com^
 ||secure.medtronicinteract.com^
 ||secure.mycalcas.com^
+||secure.sonosite.com^
 ||secure.wiley.com^
 ||securecookies.dustin.dk^
 ||securecookies.dustin.fi^
@@ -535,6 +552,7 @@
 ||securetracking.eaton.com^
 ||sedigital.cloudseidor.com^
 ||services.cmacgm-group.com^
+||shoppingguarantee.digicert.com^
 ||shows.broadwayacrossamerica.com^
 ||simple.avaya.com^
 ||site.att.com^
@@ -553,7 +571,9 @@
 ||stat.guiasjuridicas.es^
 ||stat.ipsoa.it^
 ||stat.juridicas.com^
+||stat.laley.es^
 ||stat.laleynext.es^
+||stat.lamyetudiant.fr^
 ||stat.lex.pl^
 ||stat.prawo.pl^
 ||stat.profinfo.pl^
@@ -562,6 +582,7 @@
 ||stat.wolterskluwer.pl^
 ||study.vu.edu.au^
 ||sub.info.mouser.com^
+||subscribe.dnv.com^
 ||supplychain.kinaxis.com^
 ||sweeps.la-z-boy.com^
 ||t.azets.com^
@@ -593,6 +614,7 @@
 ||tracking.about.bgov.com^
 ||tracking.adp.ca^
 ||tracking.adp.com^
+||tracking.almax.com^
 ||tracking.almirallmed.es^
 ||tracking.arabiancentres.com^
 ||tracking.att.com^
@@ -608,11 +630,14 @@
 ||tracking.bonava.no^
 ||tracking.bonava.ru^
 ||tracking.bonava.se^
+||tracking.bradyid.com^
 ||tracking.business.comcast.com^
 ||tracking.businessdirect.bt.com^
 ||tracking.cairn.info^
 ||tracking.cengage.com^
 ||tracking.clarivate.com^
+||tracking.columbiabank.com^
+||tracking.cranepi.com^
 ||tracking.drivercenter.eu^
 ||tracking.edb.gov.sg^
 ||tracking.efficiency.visma.com^
@@ -624,6 +649,7 @@
 ||tracking.flukecal.com^
 ||tracking.go.onshape.com^
 ||tracking.goal.pl^
+||tracking.hardoxwearparts.com^
 ||tracking.healthitanalytics.com^
 ||tracking.healthitsecurity.com^
 ||tracking.hello.global.ntt^
@@ -638,6 +664,7 @@
 ||tracking.mathworks.com^
 ||tracking.max.co.il^
 ||tracking.motorolasolutions.com^
+||tracking.mwe.com^
 ||tracking.nkbm.si^
 ||tracking.nl.visma.com^
 ||tracking.oldnational.com^
@@ -651,6 +678,7 @@
 ||tracking.pgi.com^
 ||tracking.pirelli.com^
 ||tracking.precisely.com^
+||tracking.pro.bloombergtax.com^
 ||tracking.regus.com^
 ||tracking.rinoebastel.com^
 ||tracking.risk.lexisnexis.com^
@@ -662,13 +690,19 @@
 ||tracking.sierrawireless.com^
 ||tracking.smartbets.com^
 ||tracking.ssab.com^
+||tracking.ssab.fi^
+||tracking.ssab.fr^
 ||tracking.ssab.ru^
 ||tracking.ssab.se^
+||tracking.stemcell.com^
 ||tracking.tdk.com^
 ||tracking.thiomucase.es^
 ||tracking.ti.com^
 ||tracking.ti.com.cn^
+||tracking.tij.co.jp^
+||tracking.trinet.com^
 ||tracking.tripletex.no^
+||tracking.uk.adp.com^
 ||tracking.umbrella.com^
 ||tracking.uwindsor.ca^
 ||tracking.vegasinsider.com^
@@ -679,13 +713,18 @@
 ||tracking.vismaraet.nl^
 ||tracking.wettfreunde.net^
 ||tracking.yealink.com^
+||tracking1.tena.com^
 ||tracking2.lenovo.com^
 ||tracking3.lenovo.com^
 ||trackingcareers.accenture.com^
 ||trackingmms.accenture.com^
 ||tracks3.ferrari.com^
 ||trk.batterytechonline.com^
+||trk.business.westernunion.ch^
 ||trk.business.westernunion.com^
+||trk.business.westernunion.com.au^
+||trk.business.westernunion.fr^
+||trk.business.westernunion.it^
 ||trk.channelfutures.com^
 ||trk.contentmarketinginstitute.com^
 ||trk.darkreading.com^
@@ -693,13 +732,17 @@
 ||trk.designnews.com^
 ||trk.drdobbs.com^
 ||trk.en-cz.business.westernunion.com^
+||trk.en.business.westernunion.ch^
+||trk.fr.business.westernunion.ch^
 ||trk.gamasutra.com^
+||trk.gamecareerguide.com^
 ||trk.gdconf.com^
 ||trk.informationweek.com^
 ||trk.iotworldtoday.com^
 ||trk.itprotoday.com^
 ||trk.lookbook.westernunion.com^
 ||trk.mddionline.com^
+||trk.mk.westernunion.com^
 ||trk.mt.business.westernunion.com^
 ||trk.networkcomputing.com^
 ||trk.nojitter.com^
@@ -731,6 +774,7 @@
 ||wholesalebank.wf.com^
 ||wholesalebanking.wf.com^
 ||workforcesolutions.equifax.com^
+||www.acpprograms.org^
 ||www.allergodil.hu^
 ||www.aonunited.com^
 ||www.efficiency.visma.com^
@@ -740,6 +784,6 @@
 ||www3.restek.com^
 ||yourporsche.nabooda-auto.com^
 !
-! p03.t.en25.com disguised trackers
+! s2033604275.t.en25.com disguised trackers
 !
 ||app.response.siemens-info.com^

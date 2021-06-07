@@ -230,6 +230,7 @@
 | da.hornbach.sk | hornbach-02.wt-eu02.net |
 | app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
 | scout.alpiniste.fr | img.bergfreunde.wt-eu02.net |
+| scout.berg-freunde.at | img.bergfreunde.wt-eu02.net |
 | scout.berg-freunde.ch | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.de | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.dk | img.bergfreunde.wt-eu02.net |

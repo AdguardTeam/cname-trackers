@@ -32,4 +32,5 @@ tk.salomon.com
 tk.svsound.com
 tk.transavia.com
 tk.viapresse.com
+twiz.wizaly.fr
 wiz.ghostbed.com

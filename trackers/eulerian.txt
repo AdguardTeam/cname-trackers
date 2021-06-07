@@ -29,6 +29,7 @@
 ||bhu9.bankia.es^
 ||bpe2.destinia.co.il^
 ||bum7.bymycar.fr^
+||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
 ||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
@@ -62,6 +63,7 @@
 ||ea.diamant-unique.com^
 ||ea.ecotour.com^
 ||ea.evaway.com^
+||ea.fleurancenature.fr^
 ||ea.francoisesaget.com^
 ||ea.galerieslafayette.com^
 ||ea.greenweez.com^
@@ -146,6 +148,7 @@
 ||fzb5.laboratoire-giphar.fr^
 ||gdm1.toner.fr^
 ||gfn1.ugap.fr^
+||gi7a.structube.com^
 ||gti3.culture.leclerc^
 ||guq9.vente-unique.it^
 ||gwtc.sfr.fr^
@@ -233,6 +236,7 @@
 ||r1ztni.oui.sncf^
 ||rh5i.tradingsat.com^
 ||rqz4.supdigital.fr^
+||rup5.destinia.ru^
 ||s4e8.cascades.com^
 ||sby1.madeindesign.de^
 ||sd.securitasdirect.fr^
@@ -251,6 +255,7 @@
 ||t.locasun.it^
 ||t.locasun.nl^
 ||t.voyages-sncf.com^
+||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tdf1.admyjob.com^

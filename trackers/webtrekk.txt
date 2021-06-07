@@ -110,6 +110,7 @@
 ||pix.airbusgroup.com^
 ||proditor.sparda.de^
 ||scout.alpiniste.fr^
+||scout.berg-freunde.at^
 ||scout.berg-freunde.ch^
 ||scout.bergfreunde.de^
 ||scout.bergfreunde.dk^

@@ -12,10 +12,12 @@ te.heine.de
 te.limango.de
 te.mirapodo.de
 te.mytoys.de
+te.otto-baumarkt.de
 te.otto.de
 te.ottoversand.at
 te.schlafwelt.de
 te.sheego.de
+te.sieh-an.de
 te.universal.at
 te.witt-international.nl
 te.witt-weiden.at

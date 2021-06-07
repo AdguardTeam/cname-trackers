@@ -19,6 +19,7 @@ tr.asp002q.espmp-aufr.net
 tr.asp1.espmp-agfr.net
 tr.asp103z.espmp-nifr.net
 tr.asp106g.espmp-nifr.net
+tr.asp10bs.espmp-aufr.net
 tr.asp10cr.espmp-nifr.net
 tr.asp10hi.espmp-cufr.net
 tr.asp2032.espmp-aufr.net
@@ -91,13 +92,16 @@ tr.info.easyvoyage.com
 tr.info.harmonie-mutuelle.fr
 tr.info.lacentrale.fr
 tr.info.mango-mobilites.fr
+tr.info.mdbp.fr
 tr.info.mobibam.com
 tr.info.promoneuve.fr
+tr.info.snpden.net
 tr.infolettre.securite-routiere.gouv.fr
 tr.information.lacollection-airfrance.fr
 tr.informations.harmonie-mutuelle.fr
 tr.informations.lcl.fr
 tr.infos.afpa.fr
+tr.infos.odalys-vacances.com
 tr.invitation-mesdessous.fr
 tr.jkyg.espmp-cufr.net
 tr.kpyn.espmp-cufr.net
@@ -119,6 +123,7 @@ tr.news.capfun.com
 tr.news.casino.fr
 tr.news.casinomax.fr
 tr.news.cdiscount.com
+tr.news.deneuville-chocolat.fr
 tr.news.digitpjms.fr
 tr.news.easyviaggio.com
 tr.news.easyvoyage.co.uk
@@ -141,9 +146,11 @@ tr.news2pjms.fr
 tr.newsletter.assuragency.net
 tr.newsletter.bouygues-construction.com
 tr.newsletter.capdecision.fr
+tr.newsletter.location.boulanger.com
 tr.newsletter.younited-credit.com
 tr.newsletters.odalys-vacances.com
 tr.nl.services-sncf.com
+tr.nl2.sncf-fidelite.com
 tr.notification-gdpr.cafineo.fr
 tr.notification-gdpr.cofinoga.fr
 tr.notification-gdpr.domofinance.fr
@@ -152,6 +159,7 @@ tr.notification.banque-revillon.fr
 tr.notification.cdiscount.com
 tr.notification.cetelem.fr
 tr.np6.com
+tr.offres-professionnelles.fr
 tr.offres.01net.com
 tr.offres.bfmtv.com
 tr.offrevip.floa.fr
@@ -172,5 +180,7 @@ tr.servicesclients.canalplus.fr
 tr.smtp1.email-mediapost.fr
 tr.souscription.floa.fr
 tr.toner-service.fr
+tr.votrealarme.securitasdirect.fr
+tr1.citroen-ipsos.com
 tr1.mailperf.com
 trpreviews.bp01.net

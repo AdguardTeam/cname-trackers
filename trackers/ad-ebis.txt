@@ -34,12 +34,14 @@
 ||adebis.tokyuhotels.co.jp^
 ||adebis.urban-research.jp^
 ||adebis02.juku.st^
+||adebis8628.matsui.co.jp^
 ||adebiscname.auone.jp^
 ||adebisu.wowow.co.jp^
 ||admeasure.hh-online.jp^
 ||adpromo.peppynet.com^
 ||aesus.so-net.ne.jp^
 ||axjfkc.kobayashi.co.jp^
+||bbbb.goace.jp^
 ||cmass.massmedian.co.jp^
 ||cname.ebis.folio-sec.com^
 ||cname.finess.jp^
@@ -70,6 +72,7 @@
 ||ebis.sekisuihouse.co.jp^
 ||ebis.studio-alice.co.jp^
 ||ebis.sunstar-shop.jp^
+||ebis01.zkai.co.jp^
 ||ebis2020.hoiku-job.net^
 ||ebis202001.joyfit.jp^
 ||ebisanalysis.mouse-jp.co.jp^

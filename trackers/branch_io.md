@@ -5,10 +5,15 @@
 * thirdparty.bnc.lt
     * epsilon.thirdparty.bnc.lt
 
+### Rarely active trackers
+
+* click1.email.audacy.com
+
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| click1.e.radio.com | click1.email.audacy.com |
 | app.sephora.com | epsilon.thirdparty.bnc.lt |
 | e.synchronybank.com | epsilon.thirdparty.bnc.lt |
 | sephora-qa.branchstaging.com | epsilon.thirdparty.bnc.lt |
@@ -151,6 +156,7 @@
 | ablink.watch.br.live | thirdparty.bnc.lt |
 | ablink.your-way.bk.com | thirdparty.bnc.lt |
 | ablink.your.audacy.com | thirdparty.bnc.lt |
+| ablinkclicktest.prod.aws.skyscnr.com | thirdparty.bnc.lt |
 | ablinks.comms.healthengine.com.au | thirdparty.bnc.lt |
 | ablinks.e.draft.com | thirdparty.bnc.lt |
 | ablinks.e.foxsports.com.au | thirdparty.bnc.lt |
@@ -296,6 +302,7 @@
 | lb.quote01.email-allstate.com | thirdparty.bnc.lt |
 | lb.service01.email-allstate.com | thirdparty.bnc.lt |
 | link.admin.kodakmoments.com | thirdparty.bnc.lt |
+| link.afterpay.com | thirdparty.bnc.lt |
 | link.alerts.busuu.app | thirdparty.bnc.lt |
 | link.announce.busuu.app | thirdparty.bnc.lt |
 | link.automated.almosafer.com | thirdparty.bnc.lt |
@@ -310,6 +317,7 @@
 | link.email.soothe.com | thirdparty.bnc.lt |
 | link.email.tajawal.com | thirdparty.bnc.lt |
 | link.foodnetwork.com | thirdparty.bnc.lt |
+| link.hello-au.circles.life | thirdparty.bnc.lt |
 | link.hello-sg.circles.life | thirdparty.bnc.lt |
 | link.hello.soothe.com | thirdparty.bnc.lt |
 | link.hello2-sg.circles.life | thirdparty.bnc.lt |
@@ -387,6 +395,7 @@
 | links.nbcnews.com | thirdparty.bnc.lt |
 | links.news.mindbody.io | thirdparty.bnc.lt |
 | links.notarize.com | thirdparty.bnc.lt |
+| links.notifications.headspace.com | thirdparty.bnc.lt |
 | links.official.vsco.co | thirdparty.bnc.lt |
 | links.ohhey.depop.com | thirdparty.bnc.lt |
 | links.openfit.com | thirdparty.bnc.lt |
@@ -398,7 +407,9 @@
 | links.theyes.com | thirdparty.bnc.lt |
 | links.yummly.com | thirdparty.bnc.lt |
 | links2.emails.verishop.com | thirdparty.bnc.lt |
+| linktrace.diningcity.cn | thirdparty.bnc.lt |
 | m1.stadiumgoods.com | thirdparty.bnc.lt |
+| mail.theknot.com | thirdparty.bnc.lt |
 | mail01.virginpulse.com | thirdparty.bnc.lt |
 | mlinks.fluz.app | thirdparty.bnc.lt |
 | mx.carfax.com | thirdparty.bnc.lt |
@@ -419,6 +430,7 @@
 | t.discover.kayosports.com.au | thirdparty.bnc.lt |
 | t.prod1.discover.binge.com.au | thirdparty.bnc.lt |
 | t1.stadiumgoods.com | thirdparty.bnc.lt |
+| td.benefits.tops.co.th | thirdparty.bnc.lt |
 | td.ecomms.originenergy.com.au | thirdparty.bnc.lt |
 | test-eml.postmates.com | thirdparty.bnc.lt |
 | test-fleet-eml.postmates.com | thirdparty.bnc.lt |
