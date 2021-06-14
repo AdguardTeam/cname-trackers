@@ -28,6 +28,7 @@
 ||analytics.mondoweiss.net^
 ||analytics.ramiyer.io^
 ||analytics.ramiyer.me^
+||analytics.sejlguide.dk^
 ||analytics.souazi.com^
 ||analytics.teamcovenant.com^
 ||analytics.techdiary.dev^
@@ -39,6 +40,7 @@
 ||ap.dt.gl^
 ||api-pl.kdrag0n.dev^
 ||api.decentralize.today^
+||api.elliehuxtable.com^
 ||app-stats.supernotes.app^
 ||artistchristinacarmel.ericksonbuilt.com^
 ||assets.garron.blog^
@@ -51,9 +53,11 @@
 ||connect.astrobotanicals.com^
 ||counter.proxycrawl.com^
 ||counter.subtitlebee.com^
+||data.dare.deals^
 ||data.digipolis.fr^
 ||data.netweaver.uk^
 ||data.podwatch.io^
+||data.technoscoots.com^
 ||data.ventesprivees-fr.com^
 ||datum.appfleet.com^
 ||f8phvntohv.tpetry.me^
@@ -67,6 +71,7 @@
 ||loggychops.paulsmith.site^
 ||momotaro.craigmod.com^
 ||numbers.triplejack.com^
+||p.barrera.io^
 ||p.classroombookings.com^
 ||p.fairspot.host^
 ||p.versacommerce.de^
@@ -83,6 +88,7 @@
 ||pl.astro.fi^
 ||pl.codetheweb.blog^
 ||pl.volunteeringwaikato.org.nz^
+||pla.wigglepixel.nl^
 ||plau.devjob.ro^
 ||plau.germantechjobs.de^
 ||plau.hiringnearme.jobs^
@@ -117,9 +123,11 @@
 ||plausible.kabaret.no^
 ||plausible.kreya.app^
 ||plausible.lesbianromantic.com^
+||plausible.lovesdata.com^
 ||plausible.mattpruitt.com^
 ||plausible.moncefbelyamani.com^
 ||plausible.nova.app^
+||plausible.nspeaks.com^
 ||plausible.nubemia.com^
 ||plausible.panic.com^
 ||plausible.pgmustard.com^
@@ -150,8 +158,10 @@
 ||sa.flux.community^
 ||sats.mailbrew.com^
 ||simple.bootify.io^
+||site-stats.supernotes.app^
 ||sp.spaceomatic.fr^
 ||st.encyclopediadramatica.rs^
+||st2.jamesdaniel.dev^
 ||stat.bill.harding.blog^
 ||statistics.csweapons.com^
 ||stats.100daystooffload.com^
@@ -190,6 +200,7 @@
 ||stats.dailyposter.com^
 ||stats.dashbit.co^
 ||stats.davestewart.co.uk^
+||stats.davidlms.com^
 ||stats.deva.guru^
 ||stats.dirtify.me^
 ||stats.drewbolles.com^
@@ -201,6 +212,7 @@
 ||stats.engineering.freeagent.com^
 ||stats.englishadam.com^
 ||stats.ericgregorich.com^
+||stats.filmfed.com^
 ||stats.finger-ink.com^
 ||stats.fruechtl.me^
 ||stats.fundimmo.com^
@@ -251,6 +263,7 @@
 ||stats.muchbetteradventures.com^
 ||stats.nctm.org^
 ||stats.nicklafferty.com^
+||stats.nodehub.io^
 ||stats.nonprofit.foundation^
 ||stats.nota.md^
 ||stats.nothingbutnylon.com^
@@ -291,6 +304,7 @@
 ||stats.stackingthebricks.com^
 ||stats.stacks.org^
 ||stats.steuer-soldaten.de^
+||stats.strawberry.rocks^
 ||stats.stronglifts.com^
 ||stats.sublimesecurity.com^
 ||stats.svenadolph.net^

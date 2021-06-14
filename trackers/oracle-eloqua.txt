@@ -32,6 +32,7 @@
 ||app.updates.digicert.com^
 ||appointments.providence.org^
 ||ask.legalsolutions.thomsonreuters.info^
+||b.bloomberglp.com^
 ||b2binfo.canon-europe.com^
 ||b2bmarketing.swisscom.ch^
 ||b2bmarketingsb.swisscom.ch^
@@ -187,6 +188,7 @@
 ||elq.hamamatsu.com^
 ||elq.icis.com^
 ||elq.irobot.com^
+||elq.keysight.com^
 ||elq.mouser.ca^
 ||elq.mouser.com^
 ||elq.sonicwall.com^
@@ -414,6 +416,7 @@
 ||gsasolutionssecure.gsa.gov^
 ||health.interamerican.gr^
 ||hello.bpost.be^
+||images.information.maileva.com^
 ||imeetcentral.pgi.com^
 ||info.academynet.com^
 ||info.adp.com^
@@ -443,18 +446,22 @@
 ||info.onetrustpro.com^
 ||info.perkinelmer.com^
 ||info.questoraclecommunity.org^
+||info.unis.edu.gt^
 ||info.vendorpedia.com^
 ||information.frbcommunications.org^
 ||insight.business.hsbc.com^
+||insight.intrado.com^
 ||insights.harvardbusiness.org^
 ||insights.prophet.com^
 ||internalforms.legalsolutions.thomsonreuters.co.uk^
 ||internationalfactoring-temp.wf.com^
 ||italia.wolterskluwer.com^
 ||journey.cisco.com^
+||kampanja.bhtelecom.ba^
 ||know.wolterskluwerlr.com^
 ||la.secure.sonosite.com^
 ||lacinfo.motorolasolutions.com^
+||lakerspreferences.gleague.nba.com^
 ||landing-annotext.wolterskluwer.com^
 ||landing-legisway.wolterskluwer.com^
 ||landing.wolterskluwer.hu^
@@ -463,6 +470,7 @@
 ||lantern.kronos.com^
 ||lantern.kronos.com.au^
 ||lantern.kronos.mx^
+||learn.ricoh.ca^
 ||learn.uwindsor.ca^
 ||lincolnfinancialgroup.lfg.com^
 ||link.lloydsbank.com^
@@ -496,12 +504,14 @@
 ||newsletters.bancsabadell.com^
 ||notify.eset.com^
 ||oci.dyn.com^
+||oiat.dow.com^
 ||ops.bpost.be^
 ||pages.att.com^
 ||pages.canon.com.au^
 ||partnermktg.symantec.com^
 ||partnersuccess.cisco.com^
 ||partnersuccessmetrics.cisco.com^
+||pgs.aviationweek.com^
 ||pgs.farmprogress.com^
 ||plan.seek.intel.com^
 ||platformsolutions.shutterstock.com^
@@ -562,6 +572,7 @@
 ||software.seek.intel.com^
 ||solliciteren.bpost.be^
 ||solutions.dbschenker.com^
+||solutions.desertfinancial.com^
 ||solutions.oppd.com^
 ||solutions.refinitiv.com^
 ||st.azcardinals.com^
@@ -607,6 +618,7 @@
 ||track.ferrari.com^
 ||track.ferraridealers.com^
 ||track.postkodlotteriet.se^
+||tracker.facey.com^
 ||tracker.kadlec.org^
 ||tracker.providence.org^
 ||tracker.swedish.org^
@@ -641,6 +653,7 @@
 ||tracking.drivercenter.eu^
 ||tracking.edb.gov.sg^
 ||tracking.efficiency.visma.com^
+||tracking.ehrintelligence.com^
 ||tracking.eloq.soa.org^
 ||tracking.eloqua.modernize.com^
 ||tracking.emoneyadvisor.com^
@@ -649,9 +662,11 @@
 ||tracking.flukecal.com^
 ||tracking.go.onshape.com^
 ||tracking.goal.pl^
+||tracking.granular.ag^
 ||tracking.hardoxwearparts.com^
 ||tracking.healthitanalytics.com^
 ||tracking.healthitsecurity.com^
+||tracking.healthpayerintelligence.com^
 ||tracking.hello.global.ntt^
 ||tracking.houzz.com^
 ||tracking.info.ivanti.com^
@@ -667,6 +682,7 @@
 ||tracking.mwe.com^
 ||tracking.nkbm.si^
 ||tracking.nl.visma.com^
+||tracking.oceaneering.com^
 ||tracking.oldnational.com^
 ||tracking.omron.es^
 ||tracking.omron.eu^
@@ -679,10 +695,12 @@
 ||tracking.pirelli.com^
 ||tracking.precisely.com^
 ||tracking.pro.bloombergtax.com^
+||tracking.questdiagnostics.com^
 ||tracking.regus.com^
 ||tracking.rinoebastel.com^
 ||tracking.risk.lexisnexis.com^
 ||tracking.rotogrinders.com^
+||tracking.rti-inc.com^
 ||tracking.sailpoint.com^
 ||tracking.scoresandodds.com^
 ||tracking.shl.com^
@@ -715,6 +733,7 @@
 ||tracking.yealink.com^
 ||tracking1.tena.com^
 ||tracking2.lenovo.com^
+||tracking2.questdiagnostics.com^
 ||tracking3.lenovo.com^
 ||trackingcareers.accenture.com^
 ||trackingmms.accenture.com^
@@ -747,6 +766,7 @@
 ||trk.networkcomputing.com^
 ||trk.nojitter.com^
 ||trk.optum.com^
+||trk.packagingdigest.com^
 ||trk.plasticstoday.com^
 ||trk.webhostingtalk.com^
 ||trust.zebra.com^
@@ -763,6 +783,7 @@
 ||web.northwestern.nm.org^
 ||web.zoominfo.com^
 ||webinar.intel.com^
+||webinars.oncourselearning.com^
 ||website-security.geotrust.com^
 ||webtracking.acams.org^
 ||webtracking.aucmed.edu^
@@ -784,6 +805,6 @@
 ||www3.restek.com^
 ||yourporsche.nabooda-auto.com^
 !
-! s2033604275.t.en25.com disguised trackers
+! p03.t.en25.com disguised trackers
 !
 ||app.response.siemens-info.com^

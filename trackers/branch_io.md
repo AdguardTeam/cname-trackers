@@ -5,15 +5,10 @@
 * thirdparty.bnc.lt
     * epsilon.thirdparty.bnc.lt
 
-### Rarely active trackers
-
-* click1.email.audacy.com
-
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| click1.e.radio.com | click1.email.audacy.com |
 | app.sephora.com | epsilon.thirdparty.bnc.lt |
 | e.synchronybank.com | epsilon.thirdparty.bnc.lt |
 | sephora-qa.branchstaging.com | epsilon.thirdparty.bnc.lt |
@@ -177,6 +172,7 @@
 | abtest.redmart.com | thirdparty.bnc.lt |
 | activation.depop.com | thirdparty.bnc.lt |
 | alerts.steadyapp.com | thirdparty.bnc.lt |
+| alinks.outcomes4me.com | thirdparty.bnc.lt |
 | app-clicks.firstrepublic.com | thirdparty.bnc.lt |
 | app.events.philips.com | thirdparty.bnc.lt |
 | applink.getbambu.com | thirdparty.bnc.lt |
@@ -248,6 +244,7 @@
 | deeplink.aspiration.com | thirdparty.bnc.lt |
 | deeplink.instacartemail.com | thirdparty.bnc.lt |
 | deeplinks.padmapper.com | thirdparty.bnc.lt |
+| deeplinks.zumper.com | thirdparty.bnc.lt |
 | dl-stage.zola.com | thirdparty.bnc.lt |
 | dl.benefits.express-scripts.com | thirdparty.bnc.lt |
 | dl.health-programs.express-scripts.com | thirdparty.bnc.lt |
@@ -268,6 +265,7 @@
 | email.clearscore.com.au | thirdparty.bnc.lt |
 | email.fretello.com | thirdparty.bnc.lt |
 | email.goodrx.com | thirdparty.bnc.lt |
+| email.headsuphealth.com | thirdparty.bnc.lt |
 | email.link.flipgive.com | thirdparty.bnc.lt |
 | email.member.theknot.com | thirdparty.bnc.lt |
 | email.pac-12.com | thirdparty.bnc.lt |

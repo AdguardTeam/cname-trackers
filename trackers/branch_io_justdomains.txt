@@ -163,6 +163,7 @@ abtest.em.redmart.com
 abtest.redmart.com
 activation.depop.com
 alerts.steadyapp.com
+alinks.outcomes4me.com
 app-clicks.firstrepublic.com
 app.events.philips.com
 app.sephora.com
@@ -235,6 +236,7 @@ ct.irlmail.org
 deeplink.aspiration.com
 deeplink.instacartemail.com
 deeplinks.padmapper.com
+deeplinks.zumper.com
 dl-stage.zola.com
 dl.benefits.express-scripts.com
 dl.health-programs.express-scripts.com
@@ -256,6 +258,7 @@ email.clearscore.com
 email.clearscore.com.au
 email.fretello.com
 email.goodrx.com
+email.headsuphealth.com
 email.link.flipgive.com
 email.member.theknot.com
 email.pac-12.com
@@ -443,7 +446,3 @@ url7542.fluz.app
 url8196.mindrise.app
 url9576.oneshift.com
 wl.spotify.com
-#
-# click1.email.audacy.com disguised trackers
-#
-click1.e.radio.com

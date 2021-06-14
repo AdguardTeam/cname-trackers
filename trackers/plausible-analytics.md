@@ -33,6 +33,7 @@
 | analytics.mondoweiss.net | custom.plausible.io |
 | analytics.ramiyer.io | custom.plausible.io |
 | analytics.ramiyer.me | custom.plausible.io |
+| analytics.sejlguide.dk | custom.plausible.io |
 | analytics.souazi.com | custom.plausible.io |
 | analytics.teamcovenant.com | custom.plausible.io |
 | analytics.techdiary.dev | custom.plausible.io |
@@ -44,6 +45,7 @@
 | ap.dt.gl | custom.plausible.io |
 | api-pl.kdrag0n.dev | custom.plausible.io |
 | api.decentralize.today | custom.plausible.io |
+| api.elliehuxtable.com | custom.plausible.io |
 | app-stats.supernotes.app | custom.plausible.io |
 | artistchristinacarmel.ericksonbuilt.com | custom.plausible.io |
 | assets.garron.blog | custom.plausible.io |
@@ -56,9 +58,11 @@
 | connect.astrobotanicals.com | custom.plausible.io |
 | counter.proxycrawl.com | custom.plausible.io |
 | counter.subtitlebee.com | custom.plausible.io |
+| data.dare.deals | custom.plausible.io |
 | data.digipolis.fr | custom.plausible.io |
 | data.netweaver.uk | custom.plausible.io |
 | data.podwatch.io | custom.plausible.io |
+| data.technoscoots.com | custom.plausible.io |
 | data.ventesprivees-fr.com | custom.plausible.io |
 | datum.appfleet.com | custom.plausible.io |
 | f8phvntohv.tpetry.me | custom.plausible.io |
@@ -72,6 +76,7 @@
 | loggychops.paulsmith.site | custom.plausible.io |
 | momotaro.craigmod.com | custom.plausible.io |
 | numbers.triplejack.com | custom.plausible.io |
+| p.barrera.io | custom.plausible.io |
 | p.classroombookings.com | custom.plausible.io |
 | p.fairspot.host | custom.plausible.io |
 | p.versacommerce.de | custom.plausible.io |
@@ -88,6 +93,7 @@
 | pl.astro.fi | custom.plausible.io |
 | pl.codetheweb.blog | custom.plausible.io |
 | pl.volunteeringwaikato.org.nz | custom.plausible.io |
+| pla.wigglepixel.nl | custom.plausible.io |
 | plau.devjob.ro | custom.plausible.io |
 | plau.germantechjobs.de | custom.plausible.io |
 | plau.hiringnearme.jobs | custom.plausible.io |
@@ -122,9 +128,11 @@
 | plausible.kabaret.no | custom.plausible.io |
 | plausible.kreya.app | custom.plausible.io |
 | plausible.lesbianromantic.com | custom.plausible.io |
+| plausible.lovesdata.com | custom.plausible.io |
 | plausible.mattpruitt.com | custom.plausible.io |
 | plausible.moncefbelyamani.com | custom.plausible.io |
 | plausible.nova.app | custom.plausible.io |
+| plausible.nspeaks.com | custom.plausible.io |
 | plausible.nubemia.com | custom.plausible.io |
 | plausible.panic.com | custom.plausible.io |
 | plausible.pgmustard.com | custom.plausible.io |
@@ -155,8 +163,10 @@
 | sa.flux.community | custom.plausible.io |
 | sats.mailbrew.com | custom.plausible.io |
 | simple.bootify.io | custom.plausible.io |
+| site-stats.supernotes.app | custom.plausible.io |
 | sp.spaceomatic.fr | custom.plausible.io |
 | st.encyclopediadramatica.rs | custom.plausible.io |
+| st2.jamesdaniel.dev | custom.plausible.io |
 | stat.bill.harding.blog | custom.plausible.io |
 | statistics.csweapons.com | custom.plausible.io |
 | stats.100daystooffload.com | custom.plausible.io |
@@ -195,6 +205,7 @@
 | stats.dailyposter.com | custom.plausible.io |
 | stats.dashbit.co | custom.plausible.io |
 | stats.davestewart.co.uk | custom.plausible.io |
+| stats.davidlms.com | custom.plausible.io |
 | stats.deva.guru | custom.plausible.io |
 | stats.dirtify.me | custom.plausible.io |
 | stats.drewbolles.com | custom.plausible.io |
@@ -206,6 +217,7 @@
 | stats.engineering.freeagent.com | custom.plausible.io |
 | stats.englishadam.com | custom.plausible.io |
 | stats.ericgregorich.com | custom.plausible.io |
+| stats.filmfed.com | custom.plausible.io |
 | stats.finger-ink.com | custom.plausible.io |
 | stats.fruechtl.me | custom.plausible.io |
 | stats.fundimmo.com | custom.plausible.io |
@@ -256,6 +268,7 @@
 | stats.muchbetteradventures.com | custom.plausible.io |
 | stats.nctm.org | custom.plausible.io |
 | stats.nicklafferty.com | custom.plausible.io |
+| stats.nodehub.io | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
 | stats.nota.md | custom.plausible.io |
 | stats.nothingbutnylon.com | custom.plausible.io |
@@ -296,6 +309,7 @@
 | stats.stackingthebricks.com | custom.plausible.io |
 | stats.stacks.org | custom.plausible.io |
 | stats.steuer-soldaten.de | custom.plausible.io |
+| stats.strawberry.rocks | custom.plausible.io |
 | stats.stronglifts.com | custom.plausible.io |
 | stats.sublimesecurity.com | custom.plausible.io |
 | stats.svenadolph.net | custom.plausible.io |

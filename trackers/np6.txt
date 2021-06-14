@@ -26,9 +26,11 @@
 ||tr.b2d1.espmp-agfr.net^
 ||tr.b2d1068.espmp-nifr.net^
 ||tr.bizzquotes.co.uk^
+||tr.boletim.meu-orcamento.pt^
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.camara.eu.com^
 ||tr.carte.lcl.fr^
+||tr.cashback.floa.fr^
 ||tr.client.emailing.bnpparibas^
 ||tr.clienti.younited-credit.com^
 ||tr.clienti.younited-credit.it^
@@ -40,6 +42,7 @@
 ||tr.com-red.sfr.fr^
 ||tr.com-web.sfr.fr^
 ||tr.com.sfr.fr^
+||tr.communaute.caradisiac.com^
 ||tr.communautes-mediametrie.fr^
 ||tr.communication-comptable.fr^
 ||tr.communication.b2b-actualites.com^
@@ -57,6 +60,7 @@
 ||tr.devis-express.be^
 ||tr.donateur.afm-telethon.fr^
 ||tr.e-mail.axa.fr^
+||tr.e.entreprise-pm.net^
 ||tr.e.trouver-un-logement-neuf.com^
 ||tr.em.cdiscountpro.com^
 ||tr.email.archiexpo.com^
@@ -116,6 +120,7 @@
 ||tr.mondevis-pro.com^
 ||tr.mp.aconclue-pro.com^
 ||tr.n.info.cdgp.fr^
+||tr.news-companeo.fr^
 ||tr.news-companeo.pl^
 ||tr.news.alinea.com^
 ||tr.news.allopneus.com^
@@ -141,6 +146,7 @@
 ||tr.news.smartdeals-transavia-fr.com^
 ||tr.news.vipmag.fr^
 ||tr.news.voyagesleclerc.com^
+||tr.news.younited-coach.com^
 ||tr.news.younited-credit.com^
 ||tr.news2pjms.fr^
 ||tr.newsletter.assuragency.net^
@@ -158,6 +164,7 @@
 ||tr.notification.banque-revillon.fr^
 ||tr.notification.cdiscount.com^
 ||tr.notification.cetelem.fr^
+||tr.notification.norrsken.fr^
 ||tr.np6.com^
 ||tr.offres-professionnelles.fr^
 ||tr.offres.01net.com^
@@ -171,6 +178,7 @@
 ||tr.ra.cofinoga.fr^
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^
+||tr.route-solutiondata.fr^
 ||tr.satisfaction.groupe-pv-cp.com^
 ||tr.scienceshumaines.pro^
 ||tr.secteurentreprises.harmonie-mutuelle.fr^
@@ -180,7 +188,9 @@
 ||tr.smtp1.email-mediapost.fr^
 ||tr.souscription.floa.fr^
 ||tr.toner-service.fr^
+||tr.uk.icicibank.com^
 ||tr.votrealarme.securitasdirect.fr^
+||tr.vous.hellobank.fr^
 ||tr1.citroen-ipsos.com^
 ||tr1.mailperf.com^
 ||trpreviews.bp01.net^

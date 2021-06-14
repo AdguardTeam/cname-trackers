@@ -3,8 +3,10 @@
 !
 ! ebis.ne.jp disguised trackers
 !
+||aaaa.gakkikaitori.co.jp^
 ||ac-3.mix.tokyo^
 ||ad-ebis.bookpass.auone.jp^
+||ad-ebis.mynavi-job20s.jp^
 ||ad-track.paravi.jp^
 ||ad.aucfan.com^
 ||ad.kddi-fs.com^
@@ -30,6 +32,7 @@
 ||adebis.real-style.co.jp^
 ||adebis.report.clinic^
 ||adebis.theclinic.jp^
+||adebis.tipness.co.jp^
 ||adebis.tohshin.co.jp^
 ||adebis.tokyuhotels.co.jp^
 ||adebis.urban-research.jp^
@@ -51,6 +54,7 @@
 ||cnameebis.usagi-online.com^
 ||cnebis.chocola.com^
 ||cnebis.i-no-science.com^
+||ct.xn--0et88ccz6awh1a.biz^
 ||digital.anicom-sompo.co.jp^
 ||ebis.as-1.co.jp^
 ||ebis.biyo-job.com^
@@ -78,7 +82,9 @@
 ||ebisanalysis.mouse-jp.co.jp^
 ||ebisfracora.fracora.com^
 ||greenjapan-cname.green-japan.com^
+||isebis.yutoriform.com^
 ||maz.zba.jp^
+||msr.p-antiaging.com^
 ||ncc.nip-col.jp^
 ||nlp-japan.life-and-mind.com^
 ||partner.haru-shop.jp^

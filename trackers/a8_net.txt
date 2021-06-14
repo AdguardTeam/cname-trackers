@@ -29,6 +29,7 @@
 ||a8clk.dospara.co.jp^
 ||a8clk.justy-consul.com^
 ||a8clk.kenkoukazoku.co.jp^
+||a8clk.low-ya.com^
 ||a8clk.manage.conoha.jp^
 ||a8clk.osoujihonpo.com^
 ||a8clk.petitjob.jp^
@@ -45,6 +46,7 @@
 ||a8cv.araiba.net^
 ||a8cv.bettysbeauty.jp^
 ||a8cv.broadbandservice.jp^
+||a8cv.coopnet.or.jp^
 ||a8cv.direct-teleshop.jp^
 ||a8cv.english-bootcamp.com^
 ||a8cv.entry.renet.jp^
@@ -55,6 +57,7 @@
 ||a8cv.p-antiaging.com^
 ||a8cv.signalift.com^
 ||a8cv.try-fs.com^
+||a8cv.unito.life^
 ||a8cv.workman.jp^
 ||a8cv.www.bedstyle.jp^
 ||a8cv2.hoken-choice.com^
