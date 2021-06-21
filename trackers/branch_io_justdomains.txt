@@ -382,6 +382,7 @@ links.m.blueapron.com
 links.mail.allbirds.com
 links.mail.foodnetwork.com
 links.mail.stubhub.com
+links.marketing.getprizepool.com
 links.nbc.com
 links.nbcnews.com
 links.news.mindbody.io
@@ -441,6 +442,7 @@ trk.m1.stadiumgoods.com
 trk.s.sephora.com
 trklink.luisaviaroma.com
 url1015.abtest.em.redmart.com
+url1451.careerkarma.info
 url3630.newsletter.experience-muse.com
 url7542.fluz.app
 url8196.mindrise.app

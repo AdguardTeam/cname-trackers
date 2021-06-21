@@ -33,6 +33,7 @@
 | a8clk.bstyle.store | trck.a8.net |
 | a8clk.cv.mensfashion.cc | trck.a8.net |
 | a8clk.dospara.co.jp | trck.a8.net |
+| a8clk.hurugicom.jp | trck.a8.net |
 | a8clk.justy-consul.com | trck.a8.net |
 | a8clk.kenkoukazoku.co.jp | trck.a8.net |
 | a8clk.low-ya.com | trck.a8.net |
@@ -51,6 +52,7 @@
 | a8cv.amiami.jp | trck.a8.net |
 | a8cv.araiba.net | trck.a8.net |
 | a8cv.bettysbeauty.jp | trck.a8.net |
+| a8cv.brandeuse.jp | trck.a8.net |
 | a8cv.broadbandservice.jp | trck.a8.net |
 | a8cv.coopnet.or.jp | trck.a8.net |
 | a8cv.direct-teleshop.jp | trck.a8.net |
@@ -71,6 +73,7 @@
 | a8trck.worldone.to | trck.a8.net |
 | afi.ssl.gmobb.jp | trck.a8.net |
 | analytics.villagehouse.jp | trck.a8.net |
+| cart.matsuzaka-steak.com | trck.a8.net |
 | cv.a-internet.jp | trck.a8.net |
 | cv.drive-hikari.net | trck.a8.net |
 | cv.online.ysroad.co.jp | trck.a8.net |

@@ -29,6 +29,7 @@
     * 3fcda11b-dmcr4rty.cname.ebis.ne.jp
     * 417df397-9zxfa7mv.cname.ebis.ne.jp
     * 4276d508-rytkalgx.cname.ebis.ne.jp
+    * 435017b6-hcwlnnyg.cname.ebis.ne.jp
     * 44f2417e-guakxgpf.cname.ebis.ne.jp
     * 4625f83e-ua37naea.cname.ebis.ne.jp
     * 4a5353c5-wrr2jzhu.cname.ebis.ne.jp
@@ -72,6 +73,7 @@
     * bba13219-ehtgvvgm.cname.ebis.ne.jp
     * bceaceed-neqq92z2.cname.ebis.ne.jp
     * bd4ef0f6-ywapzf2c.cname.ebis.ne.jp
+    * bebe7a28-6pusefyf.cname.ebis.ne.jp
     * c266cf71-oq0xkpcx.cname.ebis.ne.jp
     * c990b46a-cy6kqhld.cname.ebis.ne.jp
     * c9b592e5-3ddhh4av.cname.ebis.ne.jp
@@ -124,6 +126,7 @@
 | digital.anicom-sompo.co.jp | 3fcda11b-dmcr4rty.cname.ebis.ne.jp |
 | tukuru.cotta.jp | 417df397-9zxfa7mv.cname.ebis.ne.jp |
 | adebis.cybozu.co.jp | 4276d508-rytkalgx.cname.ebis.ne.jp |
+| adebis.kose.co.jp | 435017b6-hcwlnnyg.cname.ebis.ne.jp |
 | adebis.theclinic.jp | 44f2417e-guakxgpf.cname.ebis.ne.jp |
 | cmass.massmedian.co.jp | 4625f83e-ua37naea.cname.ebis.ne.jp |
 | cname.kyusai.co.jp | 4a5353c5-wrr2jzhu.cname.ebis.ne.jp |
@@ -167,6 +170,7 @@
 | ad.udition.jp | bba13219-ehtgvvgm.cname.ebis.ne.jp |
 | admeasure.hh-online.jp | bceaceed-neqq92z2.cname.ebis.ne.jp |
 | cname.ebis.folio-sec.com | bd4ef0f6-ywapzf2c.cname.ebis.ne.jp |
+| ebis-tracking.tcb-beauty.net | bebe7a28-6pusefyf.cname.ebis.ne.jp |
 | adebis.angfa-store.jp | c266cf71-oq0xkpcx.cname.ebis.ne.jp |
 | ebisfracora.fracora.com | c990b46a-cy6kqhld.cname.ebis.ne.jp |
 | adebis.urban-research.jp | c9b592e5-3ddhh4av.cname.ebis.ne.jp |

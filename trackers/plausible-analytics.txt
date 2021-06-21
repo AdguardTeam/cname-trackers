@@ -33,6 +33,7 @@
 ||analytics.teamcovenant.com^
 ||analytics.techdiary.dev^
 ||analytics.transmoni.vn^
+||analytics.trust.page^
 ||analytics.valheimgamer.com^
 ||analytics.whotargets.me^
 ||analytics.winter.ink^
@@ -53,13 +54,10 @@
 ||connect.astrobotanicals.com^
 ||counter.proxycrawl.com^
 ||counter.subtitlebee.com^
-||data.dare.deals^
-||data.digipolis.fr^
 ||data.netweaver.uk^
 ||data.podwatch.io^
-||data.technoscoots.com^
-||data.ventesprivees-fr.com^
 ||datum.appfleet.com^
+||eliteclng.ericksonbuilt.com^
 ||f8phvntohv.tpetry.me^
 ||gullfoss.deepsource.io^
 ||hej.henriksommerfeld.se^
@@ -105,6 +103,7 @@
 ||plausible.corbettbarr.com^
 ||plausible.derpycoder.com^
 ||plausible.dev.sketch.com^
+||plausible.doctave.com^
 ||plausible.eurostocks.nl^
 ||plausible.executeprogram.com^
 ||plausible.ezrayellin.com^
@@ -114,6 +113,7 @@
 ||plausible.food.game^
 ||plausible.gitjournal.io^
 ||plausible.goatstake.com^
+||plausible.golfbreaks.com^
 ||plausible.goose.game^
 ||plausible.grouparoo.com^
 ||plausible.gryka.net^
@@ -127,7 +127,6 @@
 ||plausible.mattpruitt.com^
 ||plausible.moncefbelyamani.com^
 ||plausible.nova.app^
-||plausible.nspeaks.com^
 ||plausible.nubemia.com^
 ||plausible.panic.com^
 ||plausible.pgmustard.com^
@@ -143,6 +142,7 @@
 ||plausible.starlegacyfoundation.org^
 ||plausible.strzibny.name^
 ||plausible.test.sketch.com^
+||plausible.urbanekuensteruhr.de^
 ||plausible.vaughanesports.org^
 ||plausible.zorin.com^
 ||pls.indiemakers.fr^
@@ -154,6 +154,7 @@
 ||s.glimesh.tv^
 ||s.nerdfulmind.com^
 ||s.nslookup.io^
+||s.schlachter.tech^
 ||s.sporks.space^
 ||sa.flux.community^
 ||sats.mailbrew.com^
@@ -189,6 +190,7 @@
 ||stats.carrotsearch.com^
 ||stats.cassidyjames.com^
 ||stats.changelog.com^
+||stats.comovee.com^
 ||stats.console.dev^
 ||stats.contentwritingjobs.com^
 ||stats.craftybase.com^
@@ -203,6 +205,7 @@
 ||stats.davidlms.com^
 ||stats.deva.guru^
 ||stats.dirtify.me^
+||stats.doors.live^
 ||stats.drewbolles.com^
 ||stats.edkimo.com^
 ||stats.elementary.io^
@@ -226,12 +229,14 @@
 ||stats.hexdocs.pm^
 ||stats.hey.com^
 ||stats.homestow.com^
+||stats.htmlcsstoimage.com^
 ||stats.htp.org^
 ||stats.huysmanbouw.be^
 ||stats.immunefi.com^
 ||stats.innoq.com^
 ||stats.instabudget.app^
 ||stats.jackwhiting.co.uk^
+||stats.jdheyburn.co.uk^
 ||stats.jerickson.net^
 ||stats.joincomet.app^
 ||stats.kensho.com^
@@ -253,8 +258,10 @@
 ||stats.ltdhunt.com^
 ||stats.macosicons.com^
 ||stats.macroarraydx.com^
+||stats.marcradziwill.com^
 ||stats.marudor.de^
 ||stats.masjidbox.com^
+||stats.matthiasloibl.com^
 ||stats.matthogg.fyi^
 ||stats.melvingeorge.me^
 ||stats.mesenvies.fr^
@@ -268,15 +275,18 @@
 ||stats.nota.md^
 ||stats.nothingbutnylon.com^
 ||stats.nytecomics.com^
+||stats.offthekerb.com^
 ||stats.onepagelove.com^
 ||stats.oursky.com^
 ||stats.oxygem.com^
+||stats.parqet.com^
 ||stats.pasteapp.io^
 ||stats.patriot.win^
 ||stats.paulbutler.org^
 ||stats.paysagistes.pro^
 ||stats.personalkollen.se^
 ||stats.picci.app^
+||stats.pixify.net^
 ||stats.plastbest.sk^
 ||stats.poesieundgenuss.com^
 ||stats.pointflottant.com^
@@ -321,6 +331,7 @@
 ||stats.urbanfinn.com^
 ||stats.useeffect.dev^
 ||stats.uxtools.co^
+||stats.vanityprojects.com^
 ||stats.vdsnow.ru^
 ||stats.visa2egypt.fr^
 ||stats.vngameden.com^
@@ -335,7 +346,7 @@
 ||stats.yatil.net^
 ||stats.yourdallashandyman.com^
 ||stats3.ferheng.co^
-||t.mattepaint.com^
+||sts.papyrs.com^
 ||tics.seeker.gg^
 ||tics.techdirt.com^
 ||tocotronic.thomas.me^
@@ -343,7 +354,7 @@
 ||track.slickinbox.com^
 ||traffic.hostedstatus.page^
 ||visite.scambi.org^
+||visits.quitsocialmedia.club^
 ||visits.tommi.space^
 ||vole.amplenote.com^
-||www2.lesventesprivees.net^
 ||yolo.phpliveregex.com^

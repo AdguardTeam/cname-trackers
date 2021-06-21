@@ -27,6 +27,7 @@
 ||tr.b2d1068.espmp-nifr.net^
 ||tr.bizzquotes.co.uk^
 ||tr.boletim.meu-orcamento.pt^
+||tr.btobquotes.com^
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.camara.eu.com^
 ||tr.carte.lcl.fr^
@@ -64,6 +65,7 @@
 ||tr.e.trouver-un-logement-neuf.com^
 ||tr.em.cdiscountpro.com^
 ||tr.email.archiexpo.com^
+||tr.email.custom-campaign.com^
 ||tr.email.directindustry.com^
 ||tr.email.janedeboy.com^
 ||tr.email.securite-routiere.gouv.fr^
@@ -100,6 +102,7 @@
 ||tr.info.mobibam.com^
 ||tr.info.promoneuve.fr^
 ||tr.info.snpden.net^
+||tr.info.valcenis.com^
 ||tr.infolettre.securite-routiere.gouv.fr^
 ||tr.information.lacollection-airfrance.fr^
 ||tr.informations.harmonie-mutuelle.fr^
@@ -107,6 +110,7 @@
 ||tr.infos.afpa.fr^
 ||tr.infos.odalys-vacances.com^
 ||tr.invitation-mesdessous.fr^
+||tr.jesuis.enformedelotus.com^
 ||tr.jkyg.espmp-cufr.net^
 ||tr.kpyn.espmp-cufr.net^
 ||tr.mail.enviedebienmanger.fr^
@@ -155,6 +159,7 @@
 ||tr.newsletter.location.boulanger.com^
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletters.odalys-vacances.com^
+||tr.nl.2wls.net^
 ||tr.nl.services-sncf.com^
 ||tr.nl2.sncf-fidelite.com^
 ||tr.notification-gdpr.cafineo.fr^
@@ -179,16 +184,19 @@
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^
 ||tr.route-solutiondata.fr^
+||tr.satisfaction.alinea.com^
 ||tr.satisfaction.groupe-pv-cp.com^
 ||tr.scienceshumaines.pro^
 ||tr.secteurentreprises.harmonie-mutuelle.fr^
 ||tr.serviceclient.younited-credit.com^
+||tr.services.alinea.com^
 ||tr.services.caradisiac.com^
 ||tr.servicesclients.canalplus.fr^
 ||tr.smtp1.email-mediapost.fr^
 ||tr.souscription.floa.fr^
 ||tr.toner-service.fr^
 ||tr.uk.icicibank.com^
+||tr.ville.bordeaux.fr^
 ||tr.votrealarme.securitasdirect.fr^
 ||tr.vous.hellobank.fr^
 ||tr1.citroen-ipsos.com^

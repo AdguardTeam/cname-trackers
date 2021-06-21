@@ -25,6 +25,7 @@ adebis.fenet.jp
 adebis.irobot-jp.com
 adebis.juku.st
 adebis.kaonavi.jp
+adebis.kose.co.jp
 adebis.livable.co.jp
 adebis.macnica.co.jp
 adebis.nursery.co.jp
@@ -56,6 +57,7 @@ cnebis.chocola.com
 cnebis.i-no-science.com
 ct.xn--0et88ccz6awh1a.biz
 digital.anicom-sompo.co.jp
+ebis-tracking.tcb-beauty.net
 ebis.as-1.co.jp
 ebis.biyo-job.com
 ebis.bulk.co.jp

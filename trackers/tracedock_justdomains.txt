@@ -41,6 +41,7 @@ tdep.vacansoleil.pl
 # afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com disguised trackers
 #
 app1.maatwerkonline.nl
+box.bossdata.be
 erp.qwic.nl
 host11.traffic-builders.com
 s0.beyondonline.nl
@@ -53,3 +54,4 @@ tdep.growwwdigital.com
 tdep.mijnurgentie.nl
 tdep.sdim.nl
 tdep.teamnijhuis.com
+tdep.theofficeservice.com

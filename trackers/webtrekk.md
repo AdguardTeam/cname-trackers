@@ -31,12 +31,14 @@
     * 208005830805862.wt-eu02.net
     * 285545256993116.wt-eu02.net
     * 286813086616891.wt-eu02.net
+    * 292595354576025.wt-eu02.net
     * 302631813489498.wt-eu02.net
     * 307902509027183.wt-eu02.net
     * 329712103760415.wt-eu02.net
     * 346715981768881.wt-eu02.net
     * 367171131378433.wt-eu02.net
     * 371033713452477.wt-eu02.net
+    * 425587064188106.wt-eu02.net
     * 427813503923049.wt-eu02.net
     * 451504046304293.wt-eu02.net
     * 470719744966924.wt-eu02.net
@@ -122,6 +124,7 @@
 | census.misterspex.de | 208005830805862.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
+| data.mapp.com | 292595354576025.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |
 | a.steigenberger.com | 307902509027183.wt-eu02.net |
@@ -129,6 +132,7 @@
 | census.misterspex.fi | 346715981768881.wt-eu02.net |
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |
 | web.emails.thetoyshop.com | 371033713452477.wt-eu02.net |
+| web.news.piquadro.com | 425587064188106.wt-eu02.net |
 | wbtrkk.teufelaudio.com | 427813503923049.wt-eu02.net |
 | wbtrkk.teufelaudio.it | 451504046304293.wt-eu02.net |
 | webt.pure.com | 470719744966924.wt-eu02.net |

@@ -389,6 +389,7 @@
 | links.mail.allbirds.com | thirdparty.bnc.lt |
 | links.mail.foodnetwork.com | thirdparty.bnc.lt |
 | links.mail.stubhub.com | thirdparty.bnc.lt |
+| links.marketing.getprizepool.com | thirdparty.bnc.lt |
 | links.nbc.com | thirdparty.bnc.lt |
 | links.nbcnews.com | thirdparty.bnc.lt |
 | links.news.mindbody.io | thirdparty.bnc.lt |
@@ -447,6 +448,7 @@
 | trk.s.sephora.com | thirdparty.bnc.lt |
 | trklink.luisaviaroma.com | thirdparty.bnc.lt |
 | url1015.abtest.em.redmart.com | thirdparty.bnc.lt |
+| url1451.careerkarma.info | thirdparty.bnc.lt |
 | url3630.newsletter.experience-muse.com | thirdparty.bnc.lt |
 | url7542.fluz.app | thirdparty.bnc.lt |
 | url8196.mindrise.app | thirdparty.bnc.lt |

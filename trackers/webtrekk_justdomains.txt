@@ -66,6 +66,7 @@ data.goertz.de
 data.inbank.it
 data.leipzig.de
 data.mainpost.de
+data.mapp.com
 data.westlotto.de
 daten.union-investment.de
 di.ifolor.ch
@@ -160,6 +161,7 @@ web.mapp.ilgiardinodeilibri.it
 web.mytoys.de
 web.news.creedfragrances.co.uk
 web.news.eprice.it
+web.news.piquadro.com
 web.newsletter.viviennewestwood.com
 web.x.ilpost.it
 webmet.creditreform.de

@@ -31,6 +31,7 @@
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
+||c0i.ckoi.com^
 ||c4dv.copinesdevoyage.com^
 ||cc.conforama.es^
 ||ch0p.darty.com^
@@ -108,7 +109,6 @@
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
 ||ea.zebestof.com^
-||eat9.thebeat925.ca^
 ||ebc1.capifrance.fr^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
@@ -155,6 +155,7 @@
 ||hby7.destinia.it^
 ||he6e.lavieimmo.com^
 ||hjc6.supcareer.com^
+||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^
@@ -186,6 +187,7 @@
 ||mi.miliboo.it^
 ||mm.melia.com^
 ||mn.mistermenuiserie.com^
+||msz3.destinia.cn^
 ||mud4.destinia.com.eg^
 ||mva1.maeva.com^
 ||ncx2.voyage-prive.it^
@@ -254,8 +256,10 @@
 ||t.locasun.it^
 ||t.locasun.nl^
 ||t.voyages-sncf.com^
+||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
+||tce0.primes-energie.leclerc^
 ||tdf1.admyjob.com^
 ||tdf1.easyviaggio.com^
 ||tdf1.easyviajar.com^

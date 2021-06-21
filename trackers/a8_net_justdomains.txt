@@ -27,6 +27,7 @@ a8clk.asp.jcity.co.jp
 a8clk.bstyle.store
 a8clk.cv.mensfashion.cc
 a8clk.dospara.co.jp
+a8clk.hurugicom.jp
 a8clk.justy-consul.com
 a8clk.kenkoukazoku.co.jp
 a8clk.low-ya.com
@@ -45,6 +46,7 @@ a8cv.all-plan.co.jp
 a8cv.amiami.jp
 a8cv.araiba.net
 a8cv.bettysbeauty.jp
+a8cv.brandeuse.jp
 a8cv.broadbandservice.jp
 a8cv.coopnet.or.jp
 a8cv.direct-teleshop.jp
@@ -65,6 +67,7 @@ a8cventry.uqwimax.jp
 a8trck.worldone.to
 afi.ssl.gmobb.jp
 analytics.villagehouse.jp
+cart.matsuzaka-steak.com
 cv.a-internet.jp
 cv.drive-hikari.net
 cv.online.ysroad.co.jp

@@ -18,6 +18,7 @@
 | k.comptoir.fr | k.keyade.com |
 | k.direct-assurance.fr | k.keyade.com |
 | k.jacadi.co.uk | k.keyade.com |
+| k.jacadi.de | k.keyade.com |
 | k.jacadi.es | k.keyade.com |
 | k.jacadi.fr | k.keyade.com |
 | k.jacadi.it | k.keyade.com |

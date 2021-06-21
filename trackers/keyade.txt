@@ -12,6 +12,7 @@
 ||k.comptoir.fr^
 ||k.direct-assurance.fr^
 ||k.jacadi.co.uk^
+||k.jacadi.de^
 ||k.jacadi.es^
 ||k.jacadi.fr^
 ||k.jacadi.it^
