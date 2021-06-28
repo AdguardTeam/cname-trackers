@@ -29,6 +29,7 @@ webts.adac.de
 # wt-eu02.net disguised trackers
 #
 a.gedidigital.it
+a.intercityhotel.com
 a.jaz-hotel.com
 a.steigenberger.com
 abc.fackelmann.de
@@ -157,6 +158,7 @@ web.diebayerische.de
 web.emails.elc.co.uk
 web.emails.thetoyshop.com
 web.info.bonprix.es
+web.info.yeppon.it
 web.mapp.ilgiardinodeilibri.it
 web.mytoys.de
 web.news.creedfragrances.co.uk

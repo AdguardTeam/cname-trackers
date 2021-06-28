@@ -31,8 +31,8 @@
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.camara.eu.com^
 ||tr.carte.lcl.fr^
-||tr.cashback.floa.fr^
 ||tr.client.emailing.bnpparibas^
+||tr.clientes.younited-credit.com^
 ||tr.clienti.younited-credit.com^
 ||tr.clienti.younited-credit.it^
 ||tr.clients-mediametrie.fr^
@@ -84,7 +84,6 @@
 ||tr.europa-organisation.com^
 ||tr.gestion.banque-casino.fr^
 ||tr.gestion.cetelem.fr^
-||tr.gestion.floa.fr^
 ||tr.groupama-gne.fr^
 ||tr.info.actionlogement.fr^
 ||tr.info.aprr.fr^
@@ -114,7 +113,6 @@
 ||tr.jkyg.espmp-cufr.net^
 ||tr.kpyn.espmp-cufr.net^
 ||tr.mail.enviedebienmanger.fr^
-||tr.mail.floa.fr^
 ||tr.mail.koregraf.com^
 ||tr.mail.satisfactory.fr^
 ||tr.mail.vipmag.fr^
@@ -130,6 +128,7 @@
 ||tr.news.allopneus.com^
 ||tr.news.capfun.com^
 ||tr.news.casino.fr^
+||tr.news.casinodrive.fr^
 ||tr.news.casinomax.fr^
 ||tr.news.cdiscount.com^
 ||tr.news.deneuville-chocolat.fr^
@@ -137,6 +136,7 @@
 ||tr.news.easyviaggio.com^
 ||tr.news.easyvoyage.co.uk^
 ||tr.news.easyvoyage.com^
+||tr.news.geantcasino.fr^
 ||tr.news.heredis.com^
 ||tr.news.infopro-digital.com^
 ||tr.news.kpmgnet.fr^
@@ -174,12 +174,12 @@
 ||tr.offres-professionnelles.fr^
 ||tr.offres.01net.com^
 ||tr.offres.bfmtv.com^
-||tr.offrevip.floa.fr^
 ||tr.orange-lease.fr^
 ||tr.panels-mediametrie.fr^
 ||tr.pole-emploi-services.com^
 ||tr.politicolive.eu^
 ||tr.portail.afpa.fr^
+||tr.pro.odalys-vacances.com^
 ||tr.ra.cofinoga.fr^
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^
@@ -193,7 +193,6 @@
 ||tr.services.caradisiac.com^
 ||tr.servicesclients.canalplus.fr^
 ||tr.smtp1.email-mediapost.fr^
-||tr.souscription.floa.fr^
 ||tr.toner-service.fr^
 ||tr.uk.icicibank.com^
 ||tr.ville.bordeaux.fr^

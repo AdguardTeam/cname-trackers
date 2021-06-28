@@ -9,6 +9,7 @@
 ||ad-ebis.mynavi-job20s.jp^
 ||ad-track.paravi.jp^
 ||ad.aucfan.com^
+||ad.aucview.com^
 ||ad.kddi-fs.com^
 ||ad.takasu.co.jp^
 ||ad.tempstaff.co.jp^
@@ -26,17 +27,20 @@
 ||adebis.juku.st^
 ||adebis.kaonavi.jp^
 ||adebis.kose.co.jp^
+||adebis.koutsujiko.jp^
 ||adebis.livable.co.jp^
 ||adebis.macnica.co.jp^
 ||adebis.nursery.co.jp^
 ||adebis.qeee.jp^
 ||adebis.real-style.co.jp^
 ||adebis.report.clinic^
+||adebis.shiseido.co.jp^
 ||adebis.theclinic.jp^
 ||adebis.tipness.co.jp^
 ||adebis.tohshin.co.jp^
 ||adebis.tokyuhotels.co.jp^
 ||adebis.urban-research.jp^
+||adebis01.job-con.jp^
 ||adebis02.juku.st^
 ||adebis8628.matsui.co.jp^
 ||adebiscname.auone.jp^
@@ -52,6 +56,7 @@
 ||cname.jaic-college.jp^
 ||cname.kyusai.co.jp^
 ||cname.mebiusseiyaku.co.jp^
+||cname1.shakenkan.co.jp^
 ||cnameebis.usagi-online.com^
 ||cnebis.chocola.com^
 ||cnebis.i-no-science.com^
@@ -67,6 +72,7 @@
 ||ebis.hokensoudannavi.jp^
 ||ebis.kubara.jp^
 ||ebis.la-coco.com^
+||ebis.nomu-silica.jp^
 ||ebis.okasan-online.co.jp^
 ||ebis.onamae.com^
 ||ebis.pasonatech.co.jp^

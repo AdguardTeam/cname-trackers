@@ -29,6 +29,7 @@
     * 148749046266446.wt-eu02.net
     * 176652923057792.wt-eu02.net
     * 208005830805862.wt-eu02.net
+    * 243341177383246.wt-eu02.net
     * 285545256993116.wt-eu02.net
     * 286813086616891.wt-eu02.net
     * 292595354576025.wt-eu02.net
@@ -122,10 +123,12 @@
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
 | census.misterspex.de | 208005830805862.wt-eu02.net |
+| web.info.yeppon.it | 243341177383246.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
 | data.mapp.com | 292595354576025.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
+| a.intercityhotel.com | 307902509027183.wt-eu02.net |
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |
 | a.steigenberger.com | 307902509027183.wt-eu02.net |
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |

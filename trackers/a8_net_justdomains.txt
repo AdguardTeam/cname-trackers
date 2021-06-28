@@ -30,6 +30,7 @@ a8clk.dospara.co.jp
 a8clk.hurugicom.jp
 a8clk.justy-consul.com
 a8clk.kenkoukazoku.co.jp
+a8clk.life.bang.co.jp
 a8clk.low-ya.com
 a8clk.manage.conoha.jp
 a8clk.osoujihonpo.com
@@ -57,6 +58,7 @@ a8cv.ishibashi.co.jp
 a8cv.modern-deco.jp
 a8cv.omni7.jp
 a8cv.p-antiaging.com
+a8cv.shibarinashi-wifi.jp
 a8cv.signalift.com
 a8cv.try-fs.com
 a8cv.unito.life

@@ -22,6 +22,7 @@
     * col-idealista-it-cddc.at-o.net
     * col-idealista-pt-cddc.at-o.net
     * collect-meilleurtaux-com-cddc.at-o.net
+    * conimicutlighthouse-viessmann-us-com-cddc.at-o.net
     * d-uni-medias-com-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
     * hal-courrierinternational-com-cddc.at-o.net
@@ -89,6 +90,7 @@
 | col.idealista.it | col-idealista-it-cddc.at-o.net |
 | col.idealista.pt | col-idealista-pt-cddc.at-o.net |
 | collect.meilleurtaux.com | collect-meilleurtaux-com-cddc.at-o.net |
+| conimicutlighthouse.viessmann-us.com | conimicutlighthouse-viessmann-us-com-cddc.at-o.net |
 | d.uni-medias.com | d-uni-medias-com-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |
 | hal.courrierinternational.com | hal-courrierinternational-com-cddc.at-o.net |

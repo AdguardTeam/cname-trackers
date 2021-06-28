@@ -226,6 +226,7 @@
 ||clicks.drizly.com^
 ||clicks.email.shakeshack.com^
 ||clicks.equinoxplus.com^
+||clicks.food.mercato.com^
 ||clicks.lifesum.com^
 ||clicks.metronautapp.com^
 ||clicks.staging.worldremit.com^
@@ -378,6 +379,7 @@
 ||links.i.blueapron.com^
 ||links.info.gianteagle.com^
 ||links.info.headspace.com^
+||links.info.kfc.com^
 ||links.m.blueapron.com^
 ||links.mail.allbirds.com^
 ||links.mail.foodnetwork.com^
@@ -391,6 +393,7 @@
 ||links.official.vsco.co^
 ||links.ohhey.depop.com^
 ||links.openfit.com^
+||links.orders.kfc.com^
 ||links.playon.tv^
 ||links.shoppers.instacartemail.com^
 ||links.strava.com^
@@ -422,6 +425,7 @@
 ||t.comms.thetimes.co.uk^
 ||t.discover.kayosports.com.au^
 ||t.prod1.discover.binge.com.au^
+||t.service.thetimes.co.uk^
 ||t1.stadiumgoods.com^
 ||td.benefits.tops.co.th^
 ||td.ecomms.originenergy.com.au^
@@ -445,6 +449,7 @@
 ||url1451.careerkarma.info^
 ||url3630.newsletter.experience-muse.com^
 ||url7542.fluz.app^
+||url7976.stage.domain.com.au^
 ||url8196.mindrise.app^
 ||url9576.oneshift.com^
 ||wl.spotify.com^

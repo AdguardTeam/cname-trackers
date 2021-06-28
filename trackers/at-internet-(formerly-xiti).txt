@@ -23,6 +23,7 @@
 ||col.idealista.it^
 ||col.idealista.pt^
 ||collect.meilleurtaux.com^
+||conimicutlighthouse.viessmann-us.com^
 ||d.uni-medias.com^
 ||da.maif.fr^
 ||hal.courrierinternational.com^

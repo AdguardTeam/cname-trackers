@@ -5,12 +5,14 @@
 #
 clk.boulanger.com
 k.campanile.com
+k.cocooncenter.be
 k.cocooncenter.co.uk
 k.cocooncenter.com
 k.cocooncenter.de
 k.cocooncenter.es
 k.comptoir.fr
 k.direct-assurance.fr
+k.fnacspectacles.com
 k.jacadi.co.uk
 k.jacadi.de
 k.jacadi.es
@@ -21,6 +23,7 @@ k.laredoute.be
 k.laredoute.es
 k.laredoute.fr
 k.laredoute.nl
+k.laredoute.ru
 k.nomade-aventure.com
 k.premiereclasse.com
 k.rueducommerce.fr

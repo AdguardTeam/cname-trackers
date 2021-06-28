@@ -36,8 +36,8 @@
 | tr.cacf-acq.ipsos-surveys.com | tracking.bp01.net |
 | tr.camara.eu.com | tracking.bp01.net |
 | tr.carte.lcl.fr | tracking.bp01.net |
-| tr.cashback.floa.fr | tracking.bp01.net |
 | tr.client.emailing.bnpparibas | tracking.bp01.net |
+| tr.clientes.younited-credit.com | tracking.bp01.net |
 | tr.clienti.younited-credit.com | tracking.bp01.net |
 | tr.clienti.younited-credit.it | tracking.bp01.net |
 | tr.clients-mediametrie.fr | tracking.bp01.net |
@@ -89,7 +89,6 @@
 | tr.europa-organisation.com | tracking.bp01.net |
 | tr.gestion.banque-casino.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
-| tr.gestion.floa.fr | tracking.bp01.net |
 | tr.groupama-gne.fr | tracking.bp01.net |
 | tr.info.actionlogement.fr | tracking.bp01.net |
 | tr.info.aprr.fr | tracking.bp01.net |
@@ -119,7 +118,6 @@
 | tr.jkyg.espmp-cufr.net | tracking.bp01.net |
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
-| tr.mail.floa.fr | tracking.bp01.net |
 | tr.mail.koregraf.com | tracking.bp01.net |
 | tr.mail.satisfactory.fr | tracking.bp01.net |
 | tr.mail.vipmag.fr | tracking.bp01.net |
@@ -135,6 +133,7 @@
 | tr.news.allopneus.com | tracking.bp01.net |
 | tr.news.capfun.com | tracking.bp01.net |
 | tr.news.casino.fr | tracking.bp01.net |
+| tr.news.casinodrive.fr | tracking.bp01.net |
 | tr.news.casinomax.fr | tracking.bp01.net |
 | tr.news.cdiscount.com | tracking.bp01.net |
 | tr.news.deneuville-chocolat.fr | tracking.bp01.net |
@@ -142,6 +141,7 @@
 | tr.news.easyviaggio.com | tracking.bp01.net |
 | tr.news.easyvoyage.co.uk | tracking.bp01.net |
 | tr.news.easyvoyage.com | tracking.bp01.net |
+| tr.news.geantcasino.fr | tracking.bp01.net |
 | tr.news.heredis.com | tracking.bp01.net |
 | tr.news.infopro-digital.com | tracking.bp01.net |
 | tr.news.kpmgnet.fr | tracking.bp01.net |
@@ -179,12 +179,12 @@
 | tr.offres-professionnelles.fr | tracking.bp01.net |
 | tr.offres.01net.com | tracking.bp01.net |
 | tr.offres.bfmtv.com | tracking.bp01.net |
-| tr.offrevip.floa.fr | tracking.bp01.net |
 | tr.orange-lease.fr | tracking.bp01.net |
 | tr.panels-mediametrie.fr | tracking.bp01.net |
 | tr.pole-emploi-services.com | tracking.bp01.net |
 | tr.politicolive.eu | tracking.bp01.net |
 | tr.portail.afpa.fr | tracking.bp01.net |
+| tr.pro.odalys-vacances.com | tracking.bp01.net |
 | tr.ra.cofinoga.fr | tracking.bp01.net |
 | tr.redaction.essentiel-sante-magazine.fr | tracking.bp01.net |
 | tr.reglementaire.emailing.bnpparibas | tracking.bp01.net |
@@ -198,7 +198,6 @@
 | tr.services.caradisiac.com | tracking.bp01.net |
 | tr.servicesclients.canalplus.fr | tracking.bp01.net |
 | tr.smtp1.email-mediapost.fr | tracking.bp01.net |
-| tr.souscription.floa.fr | tracking.bp01.net |
 | tr.toner-service.fr | tracking.bp01.net |
 | tr.uk.icicibank.com | tracking.bp01.net |
 | tr.ville.bordeaux.fr | tracking.bp01.net |

@@ -12,6 +12,7 @@
 ||a.skcript.com^
 ||a.soraredata.com^
 ||analytics.adonisjs.com^
+||analytics.arunraghavan.net^
 ||analytics.behaheaters.co.uk^
 ||analytics.betterplaces.nl^
 ||analytics.churchthemes.com^
@@ -43,6 +44,7 @@
 ||api.decentralize.today^
 ||api.elliehuxtable.com^
 ||app-stats.supernotes.app^
+||ares.buyersclub.se^
 ||artistchristinacarmel.ericksonbuilt.com^
 ||assets.garron.blog^
 ||assets.garron.me^
@@ -55,12 +57,12 @@
 ||counter.proxycrawl.com^
 ||counter.subtitlebee.com^
 ||data.netweaver.uk^
-||data.podwatch.io^
 ||datum.appfleet.com^
 ||eliteclng.ericksonbuilt.com^
 ||f8phvntohv.tpetry.me^
 ||gullfoss.deepsource.io^
 ||hej.henriksommerfeld.se^
+||hi.streetworkoutlist.com^
 ||hi.victorbaudot.com^
 ||hurricane.tinybird.co^
 ||insights.frenchtogether.com^
@@ -85,6 +87,7 @@
 ||pl.1feed.app^
 ||pl.astro.fi^
 ||pl.codetheweb.blog^
+||pl.terraintinker.com^
 ||pl.volunteeringwaikato.org.nz^
 ||pla.wigglepixel.nl^
 ||plau.devjob.ro^
@@ -115,7 +118,6 @@
 ||plausible.goatstake.com^
 ||plausible.golfbreaks.com^
 ||plausible.goose.game^
-||plausible.grouparoo.com^
 ||plausible.gryka.net^
 ||plausible.gymglish.com^
 ||plausible.haltakov.net^
@@ -133,6 +135,7 @@
 ||plausible.phuctm97.com^
 ||plausible.play.date^
 ||plausible.prod.sketch.com^
+||plausible.promlabs.com^
 ||plausible.rachel.systems^
 ||plausible.regex.help^
 ||plausible.resilienz-kongress.de^
@@ -151,6 +154,7 @@
 ||s.80000hours.org^
 ||s.cameratico.com^
 ||s.crackedthecode.co^
+||s.cuoresportivo.no^
 ||s.glimesh.tv^
 ||s.nerdfulmind.com^
 ||s.nslookup.io^
@@ -165,7 +169,6 @@
 ||st2.jamesdaniel.dev^
 ||stat.bill.harding.blog^
 ||statistics.csweapons.com^
-||stats.100daystooffload.com^
 ||stats.acadevor.com^
 ||stats.allaboutberlin.com^
 ||stats.alleaktien.de^
@@ -173,6 +176,7 @@
 ||stats.amiibo.life^
 ||stats.audiorelay.net^
 ||stats.avedictionary.com^
+||stats.barriestephenhair.co.uk^
 ||stats.basecamp.com^
 ||stats.bcdtravel.com^
 ||stats.benui.ca^
@@ -204,7 +208,9 @@
 ||stats.davestewart.co.uk^
 ||stats.davidlms.com^
 ||stats.deva.guru^
+||stats.digiexpert.store^
 ||stats.dirtify.me^
+||stats.dokidokibangkok.com^
 ||stats.doors.live^
 ||stats.drewbolles.com^
 ||stats.edkimo.com^
@@ -232,6 +238,7 @@
 ||stats.htmlcsstoimage.com^
 ||stats.htp.org^
 ||stats.huysmanbouw.be^
+||stats.igevia.com^
 ||stats.immunefi.com^
 ||stats.innoq.com^
 ||stats.instabudget.app^
@@ -240,7 +247,6 @@
 ||stats.jerickson.net^
 ||stats.joincomet.app^
 ||stats.kensho.com^
-||stats.kevq.uk^
 ||stats.keygen.sh^
 ||stats.keyscore.me^
 ||stats.kod.ru^
@@ -269,6 +275,7 @@
 ||stats.mmazzarolo.com^
 ||stats.muchbetteradventures.com^
 ||stats.nctm.org^
+||stats.nddmed.com^
 ||stats.nicklafferty.com^
 ||stats.nodehub.io^
 ||stats.nonprofit.foundation^
@@ -285,6 +292,7 @@
 ||stats.paulbutler.org^
 ||stats.paysagistes.pro^
 ||stats.personalkollen.se^
+||stats.pianoplanet.app^
 ||stats.picci.app^
 ||stats.pixify.net^
 ||stats.plastbest.sk^
@@ -305,7 +313,6 @@
 ||stats.shell-tips.com^
 ||stats.shepherd.com^
 ||stats.shoutout.so^
-||stats.simplecss.org^
 ||stats.sirdata.com^
 ||stats.sommselect.com^
 ||stats.songbox.rocks^
@@ -315,9 +322,9 @@
 ||stats.stacks.org^
 ||stats.steuer-soldaten.de^
 ||stats.strawberry.rocks^
-||stats.stronglifts.com^
 ||stats.sublimesecurity.com^
 ||stats.svenadolph.net^
+||stats.thelion.website^
 ||stats.themakoreactor.com^
 ||stats.therenegadecoder.com^
 ||stats.thomasvitale.com^

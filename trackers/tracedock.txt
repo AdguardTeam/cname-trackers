@@ -20,7 +20,6 @@
 !
 ||api.bunzlaucastle.com^
 ||api.weltevree.eu^
-||app1.youngcapital.nl^
 ||core.bruynzeelkeukens.nl^
 ||dtch.brunel.nl^
 ||tdep.bunzlonline.nl^
