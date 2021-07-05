@@ -201,6 +201,7 @@
 | click.blueapron.com | thirdparty.bnc.lt |
 | click.community.carousell.com | thirdparty.bnc.lt |
 | click.depop.com | thirdparty.bnc.lt |
+| click.dice.com | thirdparty.bnc.lt |
 | click.drizly.com | thirdparty.bnc.lt |
 | click.e.affirm.com | thirdparty.bnc.lt |
 | click.e.progressive.com | thirdparty.bnc.lt |
@@ -379,6 +380,7 @@
 | links.email.tajawal.com | thirdparty.bnc.lt |
 | links.email.twine.com | thirdparty.bnc.lt |
 | links.email.usanetwork.com | thirdparty.bnc.lt |
+| links.emails.verishop.com | thirdparty.bnc.lt |
 | links.evault.history.com | thirdparty.bnc.lt |
 | links.glamsquad.com | thirdparty.bnc.lt |
 | links.hitrecord.org | thirdparty.bnc.lt |

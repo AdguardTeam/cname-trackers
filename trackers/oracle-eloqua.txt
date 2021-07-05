@@ -77,14 +77,18 @@
 ||communication.ricoh.fr^
 ||comunicaciones.davivienda.com^
 ||comunicazioni.bancamediolanum.it^
+||connect.abm.netapp.com^
 ||connect.acspubs.org^
 ||connect.blog.netapp.com^
+||connect.chamberlain.edu^
 ||connect.cloud.netapp.com^
 ||connect.cognex.com^
 ||connect.content-hub.netapp.com^
+||connect.customers.netapp.com^
 ||connect.flowroute.com^
 ||connect.intel.com^
 ||connect.medical.rossu.edu^
+||connect.mycwt.com^
 ||connect.netapp.co.il^
 ||connect.netapp.co.kr^
 ||connect.netapp.com^
@@ -95,6 +99,7 @@
 ||connectfpc.zebra.com^
 ||connection.arrow.com^
 ||connectlp.keysight.com^
+||connectportal.netapp.com^
 ||consulting.guidehouse.com^
 ||contact-us.adp.ca^
 ||contact.lesmills.com^
@@ -157,6 +162,7 @@
 ||discover.10play.com.au^
 ||discover.clarivate.com^
 ||discover.parker.com^
+||discover.phenomenex.com^
 ||discover.vivo-shopping.com^
 ||dmkt.solutions.cas.org^
 ||download.dnvgl.com^
@@ -167,8 +173,10 @@
 ||e1c.curtisswrightds.com^
 ||eb.endeavorb2b.com^
 ||ec.infosys.com^
+||education.bendigotafe.edu.au^
 ||education.seek.intel.com^
 ||efficiency.nl.visma.com^
+||efficiency.visma.com^
 ||eloq.fiducial.fr^
 ||eloqua-trackings.unity.com^
 ||eloqua-trackings.unity3d.com^
@@ -281,6 +289,7 @@
 ||engage.3m.com.gt^
 ||engage.3m.com.hk^
 ||engage.3m.com.hn^
+||engage.3m.com.hr^
 ||engage.3m.com.kz^
 ||engage.3m.com.lv^
 ||engage.3m.com.mx^
@@ -380,6 +389,7 @@
 ||fpc.pelican.com^
 ||fpc.questoraclecommunity.org^
 ||fpc.sage.com^
+||fpc.singleplatform.com^
 ||fpc.spurs.com^
 ||fpc.trimarkusa.com^
 ||fpcdallasstars.nhl.com^
@@ -423,6 +433,8 @@
 ||gsasolutionssecure.gsa.gov^
 ||health.interamerican.gr^
 ||hello.bpost.be^
+||hello.ops.bpost.be^
+||hello.welcome.media^
 ||ie-business.vodafone.com^
 ||images.information.maileva.com^
 ||imeetcentral.pgi.com^
@@ -454,15 +466,18 @@
 ||info.onetrustpro.com^
 ||info.perkinelmer.com^
 ||info.questoraclecommunity.org^
+||info.regis.edu^
 ||info.shavve.co.il^
 ||info.unis.edu.gt^
 ||info.vendorpedia.com^
 ||info.wolterskluwer.de^
 ||information.frbcommunications.org^
+||ins.leavitt.com^
 ||insight.business.hsbc.com^
 ||insight.intrado.com^
 ||insights.harvardbusiness.org^
 ||insights.prophet.com^
+||inspire.webfleet.com^
 ||internalforms.legalsolutions.thomsonreuters.co.uk^
 ||internationalfactoring-temp.wf.com^
 ||italia.wolterskluwer.com^
@@ -475,6 +490,7 @@
 ||lakerspreferences.nba.com^
 ||landing-annotext.wolterskluwer.com^
 ||landing-legisway.wolterskluwer.com^
+||landing-smartdocument.wolterskluwer.com^
 ||landing.computershare.com^
 ||landing.wolterskluwer.hu^
 ||lantern.kronos.ca^
@@ -498,11 +514,13 @@
 ||ma.hmhco.com^
 ||ma.ridgid.emerson.com^
 ||mail.dolce-gusto.at^
+||mail.dolce-gusto.bg^
 ||mail.dolce-gusto.com.au^
 ||mail.dolce-gusto.com.sg^
 ||mail.dolce-gusto.de^
 ||mail.dolce-gusto.gr^
 ||mail.dolce-gusto.hk^
+||mail.dolce-gusto.it^
 ||map.rockwellautomation.com^
 ||marketing.amadeus.com^
 ||marketing.cloud.travelport.com^
@@ -520,6 +538,7 @@
 ||namrinfo.motorolasolutions.com^
 ||nbg.seagate.com^
 ||news.bpost.be^
+||news.swisspostsolutions.com^
 ||newsletters.bancsabadell.com^
 ||notify.eset.com^
 ||oci.dyn.com^
@@ -597,9 +616,11 @@
 ||solutions.desertfinancial.com^
 ||solutions.oppd.com^
 ||solutions.refinitiv.com^
+||solutions.risk.lexisnexis.com^
 ||solutions.westrock.com^
 ||st.azcardinals.com^
 ||stat.altalex.com^
+||stat.bdc.ca^
 ||stat.ciss.es^
 ||stat.cuadernosdepedagogia.com^
 ||stat.dbschenker.com^
@@ -621,6 +642,7 @@
 ||supplychain.kinaxis.com^
 ||sweeps.la-z-boy.com^
 ||t.abloy.com^
+||t.aptuspet.com^
 ||t.azets.com^
 ||t.azets.fi^
 ||t.azets.no^
@@ -656,6 +678,7 @@
 ||tracking.academicyear.org^
 ||tracking.adp.ca^
 ||tracking.adp.com^
+||tracking.adtran.com^
 ||tracking.almax.com^
 ||tracking.almirallmed.es^
 ||tracking.arabiancentres.com^
@@ -680,6 +703,7 @@
 ||tracking.bv.com^
 ||tracking.cairn.info^
 ||tracking.cengage.com^
+||tracking.chem-agilent.com^
 ||tracking.clarivate.com^
 ||tracking.columbiabank.com^
 ||tracking.cranepi.com^
@@ -709,6 +733,7 @@
 ||tracking.insperity.com^
 ||tracking.kubota.ca^
 ||tracking.lenovo.com^
+||tracking.lonnogpersonalabc.visma.no^
 ||tracking.m.premier.info.shutterstock.com^
 ||tracking.mathworks.com^
 ||tracking.max.co.il^
@@ -722,6 +747,7 @@
 ||tracking.omron.eu^
 ||tracking.opentable.com^
 ||tracking.oppd.com^
+||tracking.patientengagementhit.com^
 ||tracking.pella.com^
 ||tracking.pepsicopartners.com^
 ||tracking.petrelocation.com^
@@ -741,10 +767,12 @@
 ||tracking.smartbets.com^
 ||tracking.ssab.com^
 ||tracking.ssab.com.tr^
+||tracking.ssab.de^
 ||tracking.ssab.fr^
 ||tracking.ssab.jp^
 ||tracking.ssab.ru^
 ||tracking.ssab.se^
+||tracking.stihl.de^
 ||tracking.tdk.com^
 ||tracking.ti.com^
 ||tracking.ti.com.cn^
@@ -757,6 +785,8 @@
 ||tracking.visma.com^
 ||tracking.visma.lv^
 ||tracking.visma.net^
+||tracking.visma.no^
+||tracking.visma.se^
 ||tracking.vismaraet.nl^
 ||tracking.vodafone.com^
 ||tracking.wettfreunde.net^
@@ -765,6 +795,9 @@
 ||tracking1.tena.com^
 ||trackingcareers.accenture.com^
 ||trackingmms.accenture.com^
+||tracks3.ferrari.com^
+||trk.atxwest.com^
+||trk.business.westernunion.ch^
 ||trk.business.westernunion.com^
 ||trk.channelfutures.com^
 ||trk.contentmarketinginstitute.com^
@@ -772,6 +805,7 @@
 ||trk.darkreading.com^
 ||trk.datacenterknowledge.com^
 ||trk.designnews.com^
+||trk.dmwest.com^
 ||trk.drdobbs.com^
 ||trk.fr.business.westernunion.ca^
 ||trk.fr.business.westernunion.ch^
@@ -781,12 +815,17 @@
 ||trk.iotworldtoday.com^
 ||trk.itprotoday.com^
 ||trk.mddionline.com^
+||trk.mdmwest.com^
 ||trk.mt.business.westernunion.com^
 ||trk.networkcomputing.com^
+||trk.nojitter.com^
 ||trk.optum.com^
+||trk.plastecwest.com^
 ||trk.webhostingtalk.com^
+||trk.westpackshow.com^
 ||updates.gaylordhotels.com^
 ||visit.donateblood.com.au^
+||visit.hypertherm.com^
 ||visit.tafensw.edu.au^
 ||visitor.furniture-china.cn^
 ||web.care.eehealth.org^
@@ -807,12 +846,16 @@
 ||webtracking.oncourselearning.com^
 ||www.acpprograms.org^
 ||www.aonunited.com^
+||www.desrem.in^
 ||www.efficiency.visma.com^
 ||www.gaylordhotelsnews.com^
 ||www.opendayonline.ac.nz^
+||www.scienceaaas.org^
 ||www.secure.rc-club.ricoh.co.jp^
+||www.service.just.nl^
 ||www1.kawasaki-motors.com^
 ||www3.restek.com^
+||yourporsche.nabooda-auto.com^
 !
 ! p03.t.en25.com disguised trackers
 !

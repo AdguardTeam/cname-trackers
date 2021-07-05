@@ -43,6 +43,7 @@
 | tr.clients-mediametrie.fr | tracking.bp01.net |
 | tr.clients.boursorama.info | tracking.bp01.net |
 | tr.cnaf.espmp-nifr.net | tracking.bp01.net |
+| tr.collectif.groupe-vyv.fr | tracking.bp01.net |
 | tr.com-clients.sfr.fr | tracking.bp01.net |
 | tr.com-parc.sfr.fr | tracking.bp01.net |
 | tr.com-red.sfr.fr | tracking.bp01.net |
@@ -68,6 +69,7 @@
 | tr.e-mail.axa.fr | tracking.bp01.net |
 | tr.e.entreprise-pm.net | tracking.bp01.net |
 | tr.e.trouver-un-logement-neuf.com | tracking.bp01.net |
+| tr.easy-offertes.be | tracking.bp01.net |
 | tr.em.cdiscountpro.com | tracking.bp01.net |
 | tr.email.archiexpo.com | tracking.bp01.net |
 | tr.email.custom-campaign.com | tracking.bp01.net |
@@ -89,6 +91,7 @@
 | tr.europa-organisation.com | tracking.bp01.net |
 | tr.gestion.banque-casino.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
+| tr.gestion.sygmabnpparibas-pf.com | tracking.bp01.net |
 | tr.groupama-gne.fr | tracking.bp01.net |
 | tr.info.actionlogement.fr | tracking.bp01.net |
 | tr.info.aprr.fr | tracking.bp01.net |
@@ -102,6 +105,7 @@
 | tr.info.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.info.lacentrale.fr | tracking.bp01.net |
 | tr.info.mango-mobilites.fr | tracking.bp01.net |
+| tr.info.mavoiturecash.fr | tracking.bp01.net |
 | tr.info.mdbp.fr | tracking.bp01.net |
 | tr.info.mobibam.com | tracking.bp01.net |
 | tr.info.promoneuve.fr | tracking.bp01.net |
@@ -118,6 +122,7 @@
 | tr.jkyg.espmp-cufr.net | tracking.bp01.net |
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
+| tr.mail.floa.fr | tracking.bp01.net |
 | tr.mail.koregraf.com | tracking.bp01.net |
 | tr.mail.satisfactory.fr | tracking.bp01.net |
 | tr.mail.vipmag.fr | tracking.bp01.net |
@@ -151,10 +156,12 @@
 | tr.news.lexpress.fr | tracking.bp01.net |
 | tr.news.mdbp.fr | tracking.bp01.net |
 | tr.news.meillandrichardier.com | tracking.bp01.net |
+| tr.news.mi-oferta.es | tracking.bp01.net |
 | tr.news.perfectstay.com | tracking.bp01.net |
 | tr.news.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.news.vipmag.fr | tracking.bp01.net |
 | tr.news.voyagesleclerc.com | tracking.bp01.net |
+| tr.news.vraaguwofferte.be | tracking.bp01.net |
 | tr.news.younited-coach.com | tracking.bp01.net |
 | tr.news.younited-credit.com | tracking.bp01.net |
 | tr.news2pjms.fr | tracking.bp01.net |

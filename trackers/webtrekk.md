@@ -45,6 +45,7 @@
     * 470719744966924.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
+    * 584263287768398.wt-eu02.net
     * 590838755166551.wt-eu02.net
     * 598189357306993.wt-eu02.net
     * 611716061616237.wt-eu02.net
@@ -54,6 +55,7 @@
     * 641523609775483.wt-eu02.net
     * 666882163750646.wt-eu02.net
     * 669154114435717.wt-eu02.net
+    * 669798445377675.wt-eu02.net
     * 709114798683263.wt-eu02.net
     * 728252369996325.wt-eu02.net
     * 729347163621496.wt-eu02.net
@@ -112,6 +114,7 @@
     * unioninvestment-de01.wt-eu02.net
     * vhb-01.wt-eu02.net
     * wa-wdr.wt-eu02.net
+    * welt-01.wt-eu02.net
     * wttd-douglas.wt-eu02.net
 
 ## Cloaking domains
@@ -141,6 +144,7 @@
 | webt.pure.com | 470719744966924.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
+| web.news.lancel.com | 584263287768398.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
 | wbtrkk.teufelaudio.be | 598189357306993.wt-eu02.net |
 | census.misterspex.es | 611716061616237.wt-eu02.net |
@@ -150,6 +154,7 @@
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
 | data.adlermode.com | 669154114435717.wt-eu02.net |
+| web.news.thebridge.it | 669798445377675.wt-eu02.net |
 | web.info.bonprix.es | 709114798683263.wt-eu02.net |
 | data.campaign.toyscenter.it | 728252369996325.wt-eu02.net |
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
@@ -292,6 +297,7 @@
 | wa.wdr.de | wa-wdr.wt-eu02.net |
 | wa.wdrmaus.de | wa-wdr.wt-eu02.net |
 | images1.test.de | warentest-de01.webtrekk.net |
+| spr.welt.de | welt-01.wt-eu02.net |
 | wttd.douglas.at | wttd-douglas.wt-eu02.net |
 | wttd.douglas.ch | wttd-douglas.wt-eu02.net |
 | wttd.douglas.de | wttd-douglas.wt-eu02.net |

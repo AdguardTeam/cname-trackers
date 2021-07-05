@@ -118,6 +118,7 @@
 ||scout.bergfreunde.dk^
 ||scout.bergfreunde.eu^
 ||scout.bergfreunde.nl^
+||spr.welt.de^
 ||startrekk.flaconi.at^
 ||startrekk.flaconi.pl^
 ||t.enbw.com^
@@ -163,7 +164,9 @@
 ||web.mytoys.de^
 ||web.news.creedfragrances.co.uk^
 ||web.news.eprice.it^
+||web.news.lancel.com^
 ||web.news.piquadro.com^
+||web.news.thebridge.it^
 ||web.newsletter.viviennewestwood.com^
 ||web.x.ilpost.it^
 ||webmet.creditreform.de^

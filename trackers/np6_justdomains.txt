@@ -38,6 +38,7 @@ tr.clienti.younited-credit.it
 tr.clients-mediametrie.fr
 tr.clients.boursorama.info
 tr.cnaf.espmp-nifr.net
+tr.collectif.groupe-vyv.fr
 tr.com-clients.sfr.fr
 tr.com-parc.sfr.fr
 tr.com-red.sfr.fr
@@ -63,6 +64,7 @@ tr.donateur.afm-telethon.fr
 tr.e-mail.axa.fr
 tr.e.entreprise-pm.net
 tr.e.trouver-un-logement-neuf.com
+tr.easy-offertes.be
 tr.em.cdiscountpro.com
 tr.email.archiexpo.com
 tr.email.custom-campaign.com
@@ -84,6 +86,7 @@ tr.envie-de-bien-manger.espmp-aufr.net
 tr.europa-organisation.com
 tr.gestion.banque-casino.fr
 tr.gestion.cetelem.fr
+tr.gestion.sygmabnpparibas-pf.com
 tr.groupama-gne.fr
 tr.info.actionlogement.fr
 tr.info.aprr.fr
@@ -97,6 +100,7 @@ tr.info.easyvoyage.com
 tr.info.harmonie-mutuelle.fr
 tr.info.lacentrale.fr
 tr.info.mango-mobilites.fr
+tr.info.mavoiturecash.fr
 tr.info.mdbp.fr
 tr.info.mobibam.com
 tr.info.promoneuve.fr
@@ -113,6 +117,7 @@ tr.jesuis.enformedelotus.com
 tr.jkyg.espmp-cufr.net
 tr.kpyn.espmp-cufr.net
 tr.mail.enviedebienmanger.fr
+tr.mail.floa.fr
 tr.mail.koregraf.com
 tr.mail.satisfactory.fr
 tr.mail.vipmag.fr
@@ -146,10 +151,12 @@ tr.news.lexpansion.lexpress.fr
 tr.news.lexpress.fr
 tr.news.mdbp.fr
 tr.news.meillandrichardier.com
+tr.news.mi-oferta.es
 tr.news.perfectstay.com
 tr.news.smartdeals-transavia-fr.com
 tr.news.vipmag.fr
 tr.news.voyagesleclerc.com
+tr.news.vraaguwofferte.be
 tr.news.younited-coach.com
 tr.news.younited-credit.com
 tr.news2pjms.fr

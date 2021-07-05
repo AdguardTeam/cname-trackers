@@ -10,6 +10,8 @@ tk.airfrance.ca
 tk.airfrance.co.uk
 tk.airfrance.com
 tk.airfrance.fr
+tk.airfrance.ga
+tk.airfrance.it
 tk.airfrance.ru
 tk.airfrance.tn
 tk.airfrance.us

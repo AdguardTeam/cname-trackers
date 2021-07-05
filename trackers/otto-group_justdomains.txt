@@ -21,6 +21,7 @@ te.sieh-an.de
 te.universal.at
 te.witt-international.nl
 te.witt-weiden.at
+te.witt-weiden.ch
 te.witt-weiden.de
 te.yomonda.de
 te.your-look-for-less.nl

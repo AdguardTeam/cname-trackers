@@ -65,6 +65,7 @@
 ||hi.streetworkoutlist.com^
 ||hi.victorbaudot.com^
 ||hurricane.tinybird.co^
+||informatics.filamentcolors.xyz^
 ||insights.frenchtogether.com^
 ||ks.walkq.com^
 ||littlebrother.makeplans.net^
@@ -73,7 +74,9 @@
 ||numbers.triplejack.com^
 ||p.barrera.io^
 ||p.classroombookings.com^
+||p.clvs7.com^
 ||p.fairspot.host^
+||p.ivoberger.com^
 ||p.versacommerce.de^
 ||p.victoria.dev^
 ||p.wren.co^
@@ -84,6 +87,7 @@
 ||pan.render.com^
 ||ping.cavelab.dev^
 ||ping.richardtaylor.dev^
+||pio.fabianfett.de^
 ||pl.1feed.app^
 ||pl.astro.fi^
 ||pl.codetheweb.blog^
@@ -155,6 +159,7 @@
 ||s.cameratico.com^
 ||s.crackedthecode.co^
 ||s.cuoresportivo.no^
+||s.fission.codes^
 ||s.glimesh.tv^
 ||s.nerdfulmind.com^
 ||s.nslookup.io^
@@ -164,11 +169,13 @@
 ||sats.mailbrew.com^
 ||simple.bootify.io^
 ||site-stats.supernotes.app^
+||sp.jrklein.com^
 ||sp.spaceomatic.fr^
 ||st.encyclopediadramatica.rs^
 ||st2.jamesdaniel.dev^
 ||stat.bill.harding.blog^
 ||statistics.csweapons.com^
+||statistics.heatbeat.de^
 ||stats.acadevor.com^
 ||stats.allaboutberlin.com^
 ||stats.alleaktien.de^
@@ -181,6 +188,7 @@
 ||stats.bcdtravel.com^
 ||stats.benui.ca^
 ||stats.bertwagner.com^
+||stats.bestservers.co^
 ||stats.bholmes.dev^
 ||stats.biblionumericus.fr^
 ||stats.bitpost.app^
@@ -194,6 +202,7 @@
 ||stats.carrotsearch.com^
 ||stats.cassidyjames.com^
 ||stats.changelog.com^
+||stats.chapterist.show^
 ||stats.comovee.com^
 ||stats.console.dev^
 ||stats.contentwritingjobs.com^
@@ -213,6 +222,7 @@
 ||stats.dokidokibangkok.com^
 ||stats.doors.live^
 ||stats.drewbolles.com^
+||stats.drgomesp.dev^
 ||stats.edkimo.com^
 ||stats.elementary.io^
 ||stats.elixir-lang.org^
@@ -242,6 +252,7 @@
 ||stats.immunefi.com^
 ||stats.innoq.com^
 ||stats.instabudget.app^
+||stats.iscc-system.org^
 ||stats.jackwhiting.co.uk^
 ||stats.jdheyburn.co.uk^
 ||stats.jerickson.net^
@@ -255,6 +266,7 @@
 ||stats.kryptoslogic.com^
 ||stats.laxallstars.com^
 ||stats.layl.app^
+||stats.leafland.co.nz^
 ||stats.leaguestats.gg^
 ||stats.learnappmaking.com^
 ||stats.learnlinux.tv^
@@ -281,9 +293,11 @@
 ||stats.nonprofit.foundation^
 ||stats.nota.md^
 ||stats.nothingbutnylon.com^
+||stats.ntietz.com^
 ||stats.nytecomics.com^
 ||stats.offthekerb.com^
 ||stats.onepagelove.com^
+||stats.ortussolutions.com^
 ||stats.oursky.com^
 ||stats.oxygem.com^
 ||stats.parqet.com^
@@ -301,6 +315,7 @@
 ||stats.polekatfitness.com^
 ||stats.pri.org^
 ||stats.print.work^
+||stats.profilehunt.net^
 ||stats.raidprotect.org^
 ||stats.rainlily.org.hk^
 ||stats.readng.co^
@@ -310,6 +325,7 @@
 ||stats.ruthmontenegro.com^
 ||stats.scalgo.com^
 ||stats.share.link^
+||stats.shareup.app^
 ||stats.shell-tips.com^
 ||stats.shepherd.com^
 ||stats.shoutout.so^
@@ -328,13 +344,11 @@
 ||stats.themakoreactor.com^
 ||stats.therenegadecoder.com^
 ||stats.thomasvitale.com^
-||stats.tinnitustips.no^
 ||stats.toiletmap.org.uk^
 ||stats.tresor.one^
 ||stats.tubecalculator.co.uk^
 ||stats.twenty.so^
 ||stats.unox.com^
-||stats.updown.io^
 ||stats.urbanfinn.com^
 ||stats.useeffect.dev^
 ||stats.uxtools.co^
@@ -350,10 +364,10 @@
 ||stats.wwdcscholars.com^
 ||stats.www.agirpourlenvironnement.org^
 ||stats.x5x.host^
-||stats.yatil.net^
 ||stats.yourdallashandyman.com^
 ||stats3.ferheng.co^
 ||sts.papyrs.com^
+||t.andarpersassi.it^
 ||tics.seeker.gg^
 ||tics.techdirt.com^
 ||tocotronic.thomas.me^

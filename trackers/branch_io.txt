@@ -193,6 +193,7 @@
 ||click.blueapron.com^
 ||click.community.carousell.com^
 ||click.depop.com^
+||click.dice.com^
 ||click.drizly.com^
 ||click.e.affirm.com^
 ||click.e.progressive.com^
@@ -372,6 +373,7 @@
 ||links.email.tajawal.com^
 ||links.email.twine.com^
 ||links.email.usanetwork.com^
+||links.emails.verishop.com^
 ||links.evault.history.com^
 ||links.glamsquad.com^
 ||links.hitrecord.org^
