@@ -108,6 +108,7 @@
 ||tr.info.valcenis.com^
 ||tr.infolettre.securite-routiere.gouv.fr^
 ||tr.information.lacollection-airfrance.fr^
+||tr.informations.dila.gouv.fr^
 ||tr.informations.harmonie-mutuelle.fr^
 ||tr.informations.lcl.fr^
 ||tr.infos.afpa.fr^
@@ -119,6 +120,7 @@
 ||tr.mail.enviedebienmanger.fr^
 ||tr.mail.floa.fr^
 ||tr.mail.koregraf.com^
+||tr.mail.moncoupdepouce.com^
 ||tr.mail.satisfactory.fr^
 ||tr.mail.vipmag.fr^
 ||tr.mailing.lvmhappening.com^

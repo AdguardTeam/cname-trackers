@@ -15,7 +15,6 @@
     * atconnect-npo-nl-cddc.at-o.net
     * atxqb-psychologies-com-cddc.at-o.net
     * buf-lemonde-fr-cddc.at-o.net
-    * c-atinternet-solutions-com-cddc.at-o.net
     * c0012-brsimg-com-cddc.at-o.net
     * chihiro-nostalgie-fr-cddc.at-o.net
     * col-idealista-com-cddc.at-o.net
@@ -85,7 +84,6 @@
 | atconnect.npo.nl | atconnect-npo-nl-cddc.at-o.net |
 | atxqb.psychologies.com | atxqb-psychologies-com-cddc.at-o.net |
 | buf.lemonde.fr | buf-lemonde-fr-cddc.at-o.net |
-| c.atinternet-solutions.com | c-atinternet-solutions-com-cddc.at-o.net |
 | c0012.brsimg.com | c0012-brsimg-com-cddc.at-o.net |
 | chihiro.nostalgie.fr | chihiro-nostalgie-fr-cddc.at-o.net |
 | col.idealista.com | col-idealista-com-cddc.at-o.net |

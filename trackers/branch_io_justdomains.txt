@@ -78,6 +78,7 @@ ablink.info.sofi.org
 ablink.info.themarket.nz
 ablink.info.timhortons.ca
 ablink.info.timhortons.com
+ablink.info.vida.com
 ablink.juicer.li.me
 ablink.lifecycle.quizlet.com
 ablink.loyal.timhortons.ca
@@ -157,7 +158,6 @@ ablinks.picsart.com
 ablinksemail.wirexapp.com
 ablinksuni.a.grubhub.com
 ablinksuni.a.seamless.com
-abmail.email.alltrails.com
 abmail2.e.hungryjacks.com.au
 abtest.em.redmart.com
 abtest.redmart.com
@@ -166,6 +166,7 @@ alerts.steadyapp.com
 alinks.outcomes4me.com
 app-clicks.firstrepublic.com
 app.events.philips.com
+app.omio.com
 app.sephora.com
 applink.getbambu.com
 b.dl.redcrossblood.org
@@ -246,6 +247,7 @@ dl.mail.express-scripts.com
 dl.orders.express-scripts.com
 dl.zola.com
 e.e.themighty.com
+e.passfolio.us
 e.synchronybank.com
 em.getsimpleprints.com
 em.touchtunes.com
@@ -334,6 +336,7 @@ link.orders.kodakmoments.com
 link.resy.com
 link.ridewithvia.com
 link.syfy-channel.com
+link.team.bnext.es
 link.team.bnext.io
 link.touchtunes.com
 link.touchtunesmail.com

@@ -10,6 +10,8 @@
     * 07d020a3-crscrcp3.cname.ebis.ne.jp
     * 0cd5dd46-3fyehbqu.cname.ebis.ne.jp
     * 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp
+    * 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp
+    * 0ecb3018-xpsz9xxb.cname.ebis.ne.jp
     * 112991d3-surmt4v9.cname.ebis.ne.jp
     * 1241cdd8-znrwzwlu.cname.ebis.ne.jp
     * 17a0a051-yhrqdvjf.cname.ebis.ne.jp
@@ -35,6 +37,7 @@
     * 4276d508-rytkalgx.cname.ebis.ne.jp
     * 435017b6-hcwlnnyg.cname.ebis.ne.jp
     * 44f2417e-guakxgpf.cname.ebis.ne.jp
+    * 454c6615-hd5f4dhg.cname.ebis.ne.jp
     * 4625f83e-ua37naea.cname.ebis.ne.jp
     * 4a5353c5-wrr2jzhu.cname.ebis.ne.jp
     * 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp
@@ -120,6 +123,8 @@
 | adebis.livable.co.jp | 07d020a3-crscrcp3.cname.ebis.ne.jp |
 | adebiscname.auone.jp | 0cd5dd46-3fyehbqu.cname.ebis.ne.jp |
 | ad-ebis.bookpass.auone.jp | 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp |
+| ebis-cname.mirai-japan.co.jp | 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp |
+| adebis.satori.marketing | 0ecb3018-xpsz9xxb.cname.ebis.ne.jp |
 | partner.haru-shop.jp | 112991d3-surmt4v9.cname.ebis.ne.jp |
 | seo.tkc110.jp | 1241cdd8-znrwzwlu.cname.ebis.ne.jp |
 | ebis.nomu-silica.jp | 17a0a051-yhrqdvjf.cname.ebis.ne.jp |
@@ -145,6 +150,7 @@
 | adebis.cybozu.co.jp | 4276d508-rytkalgx.cname.ebis.ne.jp |
 | adebis.kose.co.jp | 435017b6-hcwlnnyg.cname.ebis.ne.jp |
 | adebis.theclinic.jp | 44f2417e-guakxgpf.cname.ebis.ne.jp |
+| tracking.nokai.jp | 454c6615-hd5f4dhg.cname.ebis.ne.jp |
 | cmass.massmedian.co.jp | 4625f83e-ua37naea.cname.ebis.ne.jp |
 | cname.kyusai.co.jp | 4a5353c5-wrr2jzhu.cname.ebis.ne.jp |
 | ncc.nip-col.jp | 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp |

@@ -97,6 +97,7 @@ mapp.yesstyle.com
 mit.db.com
 mit.dws.com
 mit.dws.de
+mit.researchlog.db.com
 mit.researchlog.dbresearch.com
 mit.researchlog.dbresearch.de
 ot.obi-italia.it

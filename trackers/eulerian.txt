@@ -84,6 +84,7 @@
 ||ea.millet-mountain.com^
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
+||ea.mondial-assistance.fr^
 ||ea.motorisationplus.com^
 ||ea.natiloo.com^
 ||ea.nextseguros.es^
@@ -108,7 +109,6 @@
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
 ||ea.zebestof.com^
-||eat9.thebeat925.ca^
 ||ebc1.capifrance.fr^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
@@ -267,7 +267,6 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
-||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sby1.madeindesign.de^
 ||sd.securitasdirect.fr^
@@ -278,6 +277,7 @@
 ||sls2.loisirsencheres.com^
 ||snr4.canalplus.com^
 ||ssrlot.lotoquebec.com^
+||ssy7.destinia.com.ua^
 ||sykc.madeindesign.ch^
 ||t.locasun-vp.fr^
 ||t.locasun.de^

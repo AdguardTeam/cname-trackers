@@ -87,6 +87,7 @@
 | ablink.info.themarket.nz | thirdparty.bnc.lt |
 | ablink.info.timhortons.ca | thirdparty.bnc.lt |
 | ablink.info.timhortons.com | thirdparty.bnc.lt |
+| ablink.info.vida.com | thirdparty.bnc.lt |
 | ablink.juicer.li.me | thirdparty.bnc.lt |
 | ablink.lifecycle.quizlet.com | thirdparty.bnc.lt |
 | ablink.loyal.timhortons.ca | thirdparty.bnc.lt |
@@ -166,7 +167,6 @@
 | ablinksemail.wirexapp.com | thirdparty.bnc.lt |
 | ablinksuni.a.grubhub.com | thirdparty.bnc.lt |
 | ablinksuni.a.seamless.com | thirdparty.bnc.lt |
-| abmail.email.alltrails.com | thirdparty.bnc.lt |
 | abmail2.e.hungryjacks.com.au | thirdparty.bnc.lt |
 | abtest.em.redmart.com | thirdparty.bnc.lt |
 | abtest.redmart.com | thirdparty.bnc.lt |
@@ -175,6 +175,7 @@
 | alinks.outcomes4me.com | thirdparty.bnc.lt |
 | app-clicks.firstrepublic.com | thirdparty.bnc.lt |
 | app.events.philips.com | thirdparty.bnc.lt |
+| app.omio.com | thirdparty.bnc.lt |
 | applink.getbambu.com | thirdparty.bnc.lt |
 | b.dl.redcrossblood.org | thirdparty.bnc.lt |
 | b.iheart.southwest.com | thirdparty.bnc.lt |
@@ -254,6 +255,7 @@
 | dl.orders.express-scripts.com | thirdparty.bnc.lt |
 | dl.zola.com | thirdparty.bnc.lt |
 | e.e.themighty.com | thirdparty.bnc.lt |
+| e.passfolio.us | thirdparty.bnc.lt |
 | em.getsimpleprints.com | thirdparty.bnc.lt |
 | em.touchtunes.com | thirdparty.bnc.lt |
 | email-link.mg.surkus.com | thirdparty.bnc.lt |
@@ -341,6 +343,7 @@
 | link.resy.com | thirdparty.bnc.lt |
 | link.ridewithvia.com | thirdparty.bnc.lt |
 | link.syfy-channel.com | thirdparty.bnc.lt |
+| link.team.bnext.es | thirdparty.bnc.lt |
 | link.team.bnext.io | thirdparty.bnc.lt |
 | link.touchtunes.com | thirdparty.bnc.lt |
 | link.touchtunesmail.com | thirdparty.bnc.lt |

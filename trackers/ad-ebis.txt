@@ -34,6 +34,7 @@
 ||adebis.qeee.jp^
 ||adebis.real-style.co.jp^
 ||adebis.report.clinic^
+||adebis.satori.marketing^
 ||adebis.sbpayment.jp^
 ||adebis.shiseido.co.jp^
 ||adebis.theclinic.jp^
@@ -66,6 +67,7 @@
 ||cvs.kireimo.jp^
 ||digital.anicom-sompo.co.jp^
 ||eb.bewithyou.jp^
+||ebis-cname.mirai-japan.co.jp^
 ||ebis-tracking.tcb-beauty.net^
 ||ebis.as-1.co.jp^
 ||ebis.biyo-job.com^
@@ -106,5 +108,6 @@
 ||qxhydkz8.hmjdaw.ntt.com^
 ||real-fitness2019.real-fitness.jp^
 ||seo.tkc110.jp^
+||tracking.nokai.jp^
 ||tukuru.cotta.jp^
 ||y8hxgv9m.kobetsu.co.jp^

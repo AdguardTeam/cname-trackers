@@ -9,6 +9,7 @@ a8.denwa-hikari.com
 a8.eonet.jp
 a8.haptic.co.jp
 a8.lavie-official.jp
+a8.lens-labo.com
 a8.looop-denki.com
 a8.makeshop.jp
 a8.print-netsquare.com
@@ -24,6 +25,7 @@ a8.yuzen-official.com
 a8aspconv.xn--biglobe-kc9k.com
 a8aspconv.xn--ocn-ws1e.jp
 a8click.you-up.com
+a8clk.apply-shop.menu.inc
 a8clk.asp.jcity.co.jp
 a8clk.bstyle.store
 a8clk.camerakaitori.jp
@@ -38,10 +40,13 @@ a8clk.manage.conoha.jp
 a8clk.osoujihonpo.com
 a8clk.petitjob.jp
 a8clk.rarejob.com
+a8clk.rental.geo-online.co.jp
 a8clk.reserve.retty.me
 a8clk.shop.sunsorit.co.jp
+a8clk.skima.jp
 a8clk.teacon.jp
 a8clk.titivate.jp
+a8clk.www.cledepeau-beaute.com
 a8clk.www.nortonstore.jp
 a8clk.xserver.ne.jp
 a8clk.yourmystar.jp
@@ -60,6 +65,7 @@ a8cv.housingbazar.jp
 a8cv.ishibashi.co.jp
 a8cv.modern-deco.jp
 a8cv.omni7.jp
+a8cv.online.bell-road.com
 a8cv.p-antiaging.com
 a8cv.sakura-forest.com
 a8cv.shibarinashi-wifi.jp
@@ -79,4 +85,5 @@ cart.matsuzaka-steak.com
 cv.a-internet.jp
 cv.drive-hikari.net
 cv.online.ysroad.co.jp
+summary.bookoffonline.co.jp
 trcka8net.irobot-jp.com

@@ -29,7 +29,6 @@
 ||analytics.mondoweiss.net^
 ||analytics.ramiyer.io^
 ||analytics.ramiyer.me^
-||analytics.sejlguide.dk^
 ||analytics.souazi.com^
 ||analytics.teamcovenant.com^
 ||analytics.techdiary.dev^
@@ -48,6 +47,7 @@
 ||artistchristinacarmel.ericksonbuilt.com^
 ||assets.garron.blog^
 ||assets.garron.me^
+||bees.beesbeesbeesbees.com^
 ||bob.gitclear.com^
 ||cats.d20.rs^
 ||cdn.arcstudiopro.com^
@@ -94,6 +94,7 @@
 ||pl.terraintinker.com^
 ||pl.volunteeringwaikato.org.nz^
 ||pla.wigglepixel.nl^
+||plas.imfeld.dev^
 ||plau.devjob.ro^
 ||plau.germantechjobs.de^
 ||plau.hiringnearme.jobs^
@@ -145,17 +146,21 @@
 ||plausible.resilienz-kongress.de^
 ||plausible.ruqqus.com^
 ||plausible.simplelogin.io^
+||plausible.slope.io^
 ||plausible.staging.sketch.com^
 ||plausible.starlegacyfoundation.org^
 ||plausible.strzibny.name^
+||plausible.sysloun.cz^
 ||plausible.test.sketch.com^
 ||plausible.urbanekuensteruhr.de^
 ||plausible.vaughanesports.org^
+||plausible.west.io^
 ||plausible.zorin.com^
 ||pls.indiemakers.fr^
 ||pm.redbull.com^
 ||pstat.akathists.com^
 ||s.80000hours.org^
+||s.allbootdisks.com^
 ||s.cameratico.com^
 ||s.crackedthecode.co^
 ||s.cuoresportivo.no^
@@ -183,6 +188,7 @@
 ||stats.amiibo.life^
 ||stats.audiorelay.net^
 ||stats.avedictionary.com^
+||stats.backprop.co^
 ||stats.barriestephenhair.co.uk^
 ||stats.basecamp.com^
 ||stats.bcdtravel.com^
@@ -198,12 +204,12 @@
 ||stats.breathly.app^
 ||stats.briskoda.net^
 ||stats.bungeefit.co.uk^
+||stats.bytebase.com^
 ||stats.carrot2.org^
 ||stats.carrotsearch.com^
 ||stats.cassidyjames.com^
 ||stats.changelog.com^
 ||stats.chapterist.show^
-||stats.comovee.com^
 ||stats.console.dev^
 ||stats.contentwritingjobs.com^
 ||stats.craftybase.com^
@@ -231,10 +237,13 @@
 ||stats.engineering.freeagent.com^
 ||stats.englishadam.com^
 ||stats.ericgregorich.com^
+||stats.fabiofranchino.com^
 ||stats.filmfed.com^
 ||stats.finger-ink.com^
+||stats.flightsphere.com^
 ||stats.fruechtl.me^
 ||stats.fundimmo.com^
+||stats.geobox.app^
 ||stats.getdoks.org^
 ||stats.gethyas.com^
 ||stats.ghost.org^
@@ -266,7 +275,6 @@
 ||stats.kryptoslogic.com^
 ||stats.laxallstars.com^
 ||stats.layl.app^
-||stats.leafland.co.nz^
 ||stats.leaguestats.gg^
 ||stats.learnappmaking.com^
 ||stats.learnlinux.tv^
@@ -291,7 +299,6 @@
 ||stats.nicklafferty.com^
 ||stats.nodehub.io^
 ||stats.nonprofit.foundation^
-||stats.nota.md^
 ||stats.nothingbutnylon.com^
 ||stats.ntietz.com^
 ||stats.nytecomics.com^
@@ -302,6 +309,7 @@
 ||stats.oxygem.com^
 ||stats.parqet.com^
 ||stats.pasteapp.io^
+||stats.patout.dev^
 ||stats.patriot.win^
 ||stats.paulbutler.org^
 ||stats.paysagistes.pro^
@@ -318,6 +326,7 @@
 ||stats.profilehunt.net^
 ||stats.raidprotect.org^
 ||stats.rainlily.org.hk^
+||stats.rasulkireev.com^
 ||stats.readng.co^
 ||stats.reisemobil.pro^
 ||stats.reprage.com^
@@ -333,6 +342,7 @@
 ||stats.sommselect.com^
 ||stats.songbox.rocks^
 ||stats.southpetherwin.com^
+||stats.sparkloop.app^
 ||stats.spp.co^
 ||stats.stackingthebricks.com^
 ||stats.stacks.org^
@@ -366,6 +376,7 @@
 ||stats.x5x.host^
 ||stats.yourdallashandyman.com^
 ||stats3.ferheng.co^
+||statystyki.ekspertyzy-szkolenia.pl^
 ||sts.papyrs.com^
 ||t.andarpersassi.it^
 ||tics.seeker.gg^
@@ -378,4 +389,5 @@
 ||visits.quitsocialmedia.club^
 ||visits.tommi.space^
 ||vole.amplenote.com^
+||xyz.bestool.pl^
 ||yolo.phpliveregex.com^

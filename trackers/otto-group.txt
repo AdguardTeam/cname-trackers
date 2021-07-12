@@ -28,6 +28,7 @@
 ||te.yourhome.de^
 ||tp.ackermann.ch^
 ||tp.baur.de^
+||tp.frankonia.at^
 ||tp.frankonia.com^
 ||tp.frankonia.de^
 ||tp.frankoniamoda.ch^
