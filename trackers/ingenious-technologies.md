@@ -3,152 +3,33 @@
 ## Disguised trackers list
 
 * affex.org
-    * cdn-elogia-net.affex.org
-    * daraz-com.affex.org
-    * home24-de.affex.org
-    * ingenious-cloud.affex.org
-    * ingenioustech-biz.affex.org
-    * jumia-ci.affex.org
-    * jumia-com-eg.affex.org
     * lb1.affex.org
-    * niwepa-com.affex.org
-    * tr-24-ads-com.affex.org
-    * tr-akipam-com.affex.org
-    * tr-brillen-at.affex.org
-    * tr-brillen-com.affex.org
-    * tr-brillen-de.affex.org
-    * tr-brillen-pl.affex.org
-    * tr-daraz-com-bd.affex.org
-    * tr-daraz-lk.affex.org
-    * tr-daraz-pk.affex.org
-    * tr-eficads-com.affex.org
-    * tr-fidormarket-com.affex.org
-    * tr-gafas-es.affex.org
-    * tr-home24-at.affex.org
-    * tr-home24-be.affex.org
-    * tr-home24-ch.affex.org
-    * tr-home24-de.affex.org
-    * tr-home24-fr.affex.org
-    * tr-home24-nl.affex.org
-    * tr-idealo-partner-com.affex.org
-    * tr-jakuli-com.affex.org
-    * tr-jumia-ci.affex.org
-    * tr-jumia-co-ke.affex.org
-    * tr-jumia-com-eg.affex.org
-    * tr-jumia-com-gh.affex.org
-    * tr-jumia-ma.affex.org
-    * tr-krankenkassenzentrale-de.affex.org
-    * tr-lafamo-com.affex.org
-    * tr-logitravel-com.affex.org
-    * tr-monedo-pl.affex.org
-    * tr-netsalesmedia-pl.affex.org
-    * tr-niwepa-com.affex.org
-    * tr-occhiali24-it.affex.org
-    * tr-ocm-de.affex.org
-    * tr-powuta-com.affex.org
-    * tr-rewe-de.affex.org
-    * tr-toom-de.affex.org
-    * tr-voopter-com-br.affex.org
-    * tr-vsgamers-es.affex.org
-    * tr-wink-es.affex.org
-    * tr-x24factory-com.affex.org
-    * tr-zooplus-de.affex.org
-    * tr-zooplus-es.affex.org
-    * tr-zooplus-fr.affex.org
-    * tr-zooplus-it.affex.org
-    * tr-zooplus-nl.affex.org
-    * tr-zooroyal-at.affex.org
-    * tr-zooroyal-de.affex.org
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| cdn.net.elogia.net | cdn-elogia-net.affex.org |
-| 114-track.net.daraz.com | daraz-com.affex.org |
-| 2-wlan-switch.net.daraz.com | daraz-com.affex.org |
-| a.marketns.emailvision.net.daraz.com | daraz-com.affex.org |
-| a.ns.ecmsvision.net.daraz.com | daraz-com.affex.org |
-| a.ns.gistemailvision.net.daraz.com | daraz-com.affex.org |
-| administrator-ns1.twtelecom.net.daraz.com | daraz-com.affex.org |
-| administrator.lib-ht-2.net.daraz.com | daraz-com.affex.org |
-| administrators-lib-ln-2.net.daraz.com | daraz-com.affex.org |
-| adminslib-ln-2.net.daraz.com | daraz-com.affex.org |
-| allseason.east.net.daraz.com | daraz-com.affex.org |
-| apache.r-oa-2.net.daraz.com | daraz-com.affex.org |
-| apachesummer.net.daraz.com | daraz-com.affex.org |
-| api-docscar31.net.daraz.com | daraz-com.affex.org |
-| api-docsfreya.net.daraz.com | daraz-com.affex.org |
-| apidocsr-ln-1.net.daraz.com | daraz-com.affex.org |
-| apiserver-c.ns.emailvision.net.daraz.com | daraz-com.affex.org |
-| apiserver.r-is-1-2.net.daraz.com | daraz-com.affex.org |
-| application-r-ch-1.net.daraz.com | daraz-com.affex.org |
-| application.wlan-switch.net.daraz.com | daraz-com.affex.org |
-| applicationpartner.net.daraz.com | daraz-com.affex.org |
-| apps-spring.net.daraz.com | daraz-com.affex.org |
-| apps-www.net.daraz.com | daraz-com.affex.org |
-| apps.car21.net.daraz.com | daraz-com.affex.org |
-| apps.net.daraz.com | daraz-com.affex.org |
-| assets-r-dw-1.net.daraz.com | daraz-com.affex.org |
-| authenticate-csr41.net.daraz.com | daraz-com.affex.org |
-| b.ns.us.emailvision.net.daraz.com | daraz-com.affex.org |
-| bgu-sso.net.daraz.com | daraz-com.affex.org |
-| billing-b.ns.emailvision.net.daraz.com | daraz-com.affex.org |
-| billing-r-oa-2.net.daraz.com | daraz-com.affex.org |
-| billingr-is-1-2.net.daraz.com | daraz-com.affex.org |
-| bitbucket-car21.net.daraz.com | daraz-com.affex.org |
-| c.ns.account-emailvision.net.daraz.com | daraz-com.affex.org |
-| c.ns.eappsvision.net.daraz.com | daraz-com.affex.org |
-| c.ns.ecgivision.net.daraz.com | daraz-com.affex.org |
-| c.ns.eclientvision.net.daraz.com | daraz-com.affex.org |
-| c.ns.edisabledvision.net.daraz.com | daraz-com.affex.org |
-| c.ns.stagevision.net.daraz.com | daraz-com.affex.org |
-| control-summer.net.daraz.com | daraz-com.affex.org |
-| cs-utils-rtr.net.daraz.com | daraz-com.affex.org |
-| csr11.europewest.net.daraz.com | daraz-com.affex.org |
-| csr11.net.daraz.com | daraz-com.affex.org |
-| devops.winter.net.daraz.com | daraz-com.affex.org |
-| devopsns2.twtelecom.net.daraz.com | daraz-com.affex.org |
-| devs.ns2.cl.bellsouth.net.daraz.com | daraz-com.affex.org |
-| devscar31.net.daraz.com | daraz-com.affex.org |
-| devssummer.net.daraz.com | daraz-com.affex.org |
-| dns1.freshegg.fw.net.daraz.com | daraz-com.affex.org |
-| dns1.historyfreshegg.net.daraz.com | daraz-com.affex.org |
-| dns1.k8s.freshegg.net.daraz.com | daraz-com.affex.org |
-| dns1.pass.freshegg.net.daraz.com | daraz-com.affex.org |
-| dockersummer.net.daraz.com | daraz-com.affex.org |
-| docscsr21.net.daraz.com | daraz-com.affex.org |
-| docsdrop-lib-ln-1.net.daraz.com | daraz-com.affex.org |
-| docsprint-mo.net.daraz.com | daraz-com.affex.org |
-| docsr-ht-1.net.daraz.com | daraz-com.affex.org |
-| docsw-htgb-a.net.daraz.com | daraz-com.affex.org |
-| doctor-qa.int.net.daraz.com | daraz-com.affex.org |
-| documentcar10.net.daraz.com | daraz-com.affex.org |
-| documentcsr11.net.daraz.com | daraz-com.affex.org |
-| documents.ns2.viviotech.net.daraz.com | daraz-com.affex.org |
-| documentsr-es-1.net.daraz.com | daraz-com.affex.org |
-| freya.net.daraz.com | daraz-com.affex.org |
-| summer.net.daraz.com | daraz-com.affex.org |
-| net.home24.de | home24-de.affex.org |
-| marketing.ingenious.cloud | ingenious-cloud.affex.org |
-| 76.ingenioustech.biz | ingenioustech-biz.affex.org |
-| net.jumia.ci | jumia-ci.affex.org |
-| net.jumia.com.eg | jumia-com-eg.affex.org |
+| 114-track.net.daraz.com | lb1.affex.org |
 | 123seks.net.daraz.com | lb1.affex.org |
 | 1winter.net.daraz.com | lb1.affex.org |
+| 2-wlan-switch.net.daraz.com | lb1.affex.org |
 | 50.net.daraz.com | lb1.affex.org |
+| 76.ingenioustech.biz | lb1.affex.org |
 | a.2-ns.emailvision.net.daraz.com | lb1.affex.org |
 | a.apachens.emailvision.net.daraz.com | lb1.affex.org |
 | a.assets-ns.emailvision.net.daraz.com | lb1.affex.org |
 | a.cloud.ns.emailvision.net.daraz.com | lb1.affex.org |
 | a.docs-ns.emailvision.net.daraz.com | lb1.affex.org |
 | a.global.ns.emailvision.net.daraz.com | lb1.affex.org |
+| a.marketns.emailvision.net.daraz.com | lb1.affex.org |
 | a.ns.admins.emailvision.net.daraz.com | lb1.affex.org |
 | a.ns.alpha-emailvision.net.daraz.com | lb1.affex.org |
 | a.ns.apacheemailvision.net.daraz.com | lb1.affex.org |
 | a.ns.cgi-emailvision.net.daraz.com | lb1.affex.org |
 | a.ns.confluence.emailvision.net.daraz.com | lb1.affex.org |
+| a.ns.ecmsvision.net.daraz.com | lb1.affex.org |
 | a.ns.emailvision.acc.net.daraz.com | lb1.affex.org |
+| a.ns.gistemailvision.net.daraz.com | lb1.affex.org |
 | a.ns.github.emailvision.net.daraz.com | lb1.affex.org |
 | a.ns.int.emailvision.net.daraz.com | lb1.affex.org |
 | a.ns.metric.emailvision.net.daraz.com | lb1.affex.org |
@@ -172,9 +53,12 @@
 | adm.r-ch-1.net.daraz.com | lb1.affex.org |
 | admin.ns3.cl.bellsouth.net.daraz.com | lb1.affex.org |
 | administrator-nfreya.net.daraz.com | lb1.affex.org |
+| administrator-ns1.twtelecom.net.daraz.com | lb1.affex.org |
 | administrator.csr21.net.daraz.com | lb1.affex.org |
+| administrator.lib-ht-2.net.daraz.com | lb1.affex.org |
 | administratorr-is-1-2.net.daraz.com | lb1.affex.org |
 | administrators-lib-ht-1.net.daraz.com | lb1.affex.org |
+| administrators-lib-ln-2.net.daraz.com | lb1.affex.org |
 | administrators-yancancook.net.daraz.com | lb1.affex.org |
 | administrators.ns2.cl.bellsouth.net.daraz.com | lb1.affex.org |
 | administrators.print-mo.net.daraz.com | lb1.affex.org |
@@ -185,11 +69,13 @@
 | admins.csr41.net.daraz.com | lb1.affex.org |
 | admins.ns2.twtelecom.net.daraz.com | lb1.affex.org |
 | adminscar10.net.daraz.com | lb1.affex.org |
+| adminslib-ln-2.net.daraz.com | lb1.affex.org |
 | adminsns2.twtelecom.net.daraz.com | lb1.affex.org |
 | agriprecision.net.daraz.com | lb1.affex.org |
 | allseason.chd.net.daraz.com | lb1.affex.org |
 | allseason.development.net.daraz.com | lb1.affex.org |
 | allseason.documents.net.daraz.com | lb1.affex.org |
+| allseason.east.net.daraz.com | lb1.affex.org |
 | allseason.stgx.net.daraz.com | lb1.affex.org |
 | alpha-car13.net.daraz.com | lb1.affex.org |
 | alpha-freya.net.daraz.com | lb1.affex.org |
@@ -206,24 +92,38 @@
 | apacautumn.net.daraz.com | lb1.affex.org |
 | apacd.ns.emailvision.net.daraz.com | lb1.affex.org |
 | apache-ns2.twtelecom.net.daraz.com | lb1.affex.org |
+| apache.r-oa-2.net.daraz.com | lb1.affex.org |
+| apachesummer.net.daraz.com | lb1.affex.org |
 | apacr-ht-1.net.daraz.com | lb1.affex.org |
 | apacwlan-switch.net.daraz.com | lb1.affex.org |
 | api-docs-r-oa-2.net.daraz.com | lb1.affex.org |
 | api-docs.c.ns.emailvision.net.daraz.com | lb1.affex.org |
 | api-docs.dns1.freshegg.net.daraz.com | lb1.affex.org |
 | api-docs.www.net.daraz.com | lb1.affex.org |
+| api-docscar31.net.daraz.com | lb1.affex.org |
 | api-docscsr41.net.daraz.com | lb1.affex.org |
+| api-docsfreya.net.daraz.com | lb1.affex.org |
 | api.keele-nnw-leis-mc-leis.net.daraz.com | lb1.affex.org |
 | apiautumn.net.daraz.com | lb1.affex.org |
 | apidocs-winter.net.daraz.com | lb1.affex.org |
 | apidocs.lib-ln-2.net.daraz.com | lb1.affex.org |
 | apidocskeele-nnw-leis-mc-leis.net.daraz.com | lb1.affex.org |
+| apidocsr-ln-1.net.daraz.com | lb1.affex.org |
+| apiserver-c.ns.emailvision.net.daraz.com | lb1.affex.org |
 | apiserver-wlan-switch.net.daraz.com | lb1.affex.org |
+| apiserver.r-is-1-2.net.daraz.com | lb1.affex.org |
 | apiserverlib-ht-2.net.daraz.com | lb1.affex.org |
 | app.season.net.daraz.com | lb1.affex.org |
+| application-r-ch-1.net.daraz.com | lb1.affex.org |
 | application-r-ln-1.net.daraz.com | lb1.affex.org |
+| application.wlan-switch.net.daraz.com | lb1.affex.org |
+| applicationpartner.net.daraz.com | lb1.affex.org |
 | applications-r-es-1.net.daraz.com | lb1.affex.org |
 | applications.lib-ln-1.net.daraz.com | lb1.affex.org |
+| apps-spring.net.daraz.com | lb1.affex.org |
+| apps-www.net.daraz.com | lb1.affex.org |
+| apps.car21.net.daraz.com | lb1.affex.org |
+| apps.net.daraz.com | lb1.affex.org |
 | apps.print-mo.net.daraz.com | lb1.affex.org |
 | apps.www.net.daraz.com | lb1.affex.org |
 | asana.cs-utils-rtr.net.daraz.com | lb1.affex.org |
@@ -232,13 +132,13 @@
 | asanaautumn.net.daraz.com | lb1.affex.org |
 | asanans2.twtelecom.net.daraz.com | lb1.affex.org |
 | assets-d.ns.emailvision.net.daraz.com | lb1.affex.org |
+| assets-r-dw-1.net.daraz.com | lb1.affex.org |
 | assetscsr12.net.daraz.com | lb1.affex.org |
 | assetslib-ht-2.net.daraz.com | lb1.affex.org |
 | assetsns3.cl.bellsouth.net.daraz.com | lb1.affex.org |
 | assetsyancancook.net.daraz.com | lb1.affex.org |
 | asterisk.net.daraz.com | lb1.affex.org |
 | atid.net.daraz.com | lb1.affex.org |
-| atlas.r.akipam.com | lb1.affex.org |
 | atlas.r.akipam.com | lb1.affex.org |
 | att.net.daraz.com | lb1.affex.org |
 | auth-csr21.net.daraz.com | lb1.affex.org |
@@ -247,6 +147,7 @@
 | auth.r-ln-2.net.daraz.com | lb1.affex.org |
 | auth40.net.daraz.com | lb1.affex.org |
 | authallseason.net.daraz.com | lb1.affex.org |
+| authenticate-csr41.net.daraz.com | lb1.affex.org |
 | authenticate.car10.net.daraz.com | lb1.affex.org |
 | authenticate.d.ns.emailvision.net.daraz.com | lb1.affex.org |
 | authenticate.localhost.net.daraz.com | lb1.affex.org |
@@ -334,6 +235,7 @@
 | b.ns.staging.emailvision.net.daraz.com | lb1.affex.org |
 | b.ns.staticemailvision.net.daraz.com | lb1.affex.org |
 | b.ns.train.emailvision.net.daraz.com | lb1.affex.org |
+| b.ns.us.emailvision.net.daraz.com | lb1.affex.org |
 | b.ops-ns.emailvision.net.daraz.com | lb1.affex.org |
 | b.regionns.emailvision.net.daraz.com | lb1.affex.org |
 | b.staff-ns.emailvision.net.daraz.com | lb1.affex.org |
@@ -360,7 +262,12 @@
 | beta.localhost.net.daraz.com | lb1.affex.org |
 | betacar40.net.daraz.com | lb1.affex.org |
 | betalib-ln-2.net.daraz.com | lb1.affex.org |
+| bgu-sso.net.daraz.com | lb1.affex.org |
+| billing-b.ns.emailvision.net.daraz.com | lb1.affex.org |
+| billing-r-oa-2.net.daraz.com | lb1.affex.org |
 | billingcisco-capwap-controller.net.daraz.com | lb1.affex.org |
+| billingr-is-1-2.net.daraz.com | lb1.affex.org |
+| bitbucket-car21.net.daraz.com | lb1.affex.org |
 | bitbucket-r-es-1.net.daraz.com | lb1.affex.org |
 | bitbucketsummer.net.daraz.com | lb1.affex.org |
 | bollyshare.net.daraz.com | lb1.affex.org |
@@ -375,6 +282,7 @@
 | c.documentsns.emailvision.net.daraz.com | lb1.affex.org |
 | c.europewest-ns.emailvision.net.daraz.com | lb1.affex.org |
 | c.iadns.emailvision.net.daraz.com | lb1.affex.org |
+| c.ns.account-emailvision.net.daraz.com | lb1.affex.org |
 | c.ns.activeemailvision.net.daraz.com | lb1.affex.org |
 | c.ns.adminsemailvision.net.daraz.com | lb1.affex.org |
 | c.ns.apivision.net.daraz.com | lb1.affex.org |
@@ -388,6 +296,10 @@
 | c.ns.dogfood.emailvision.net.daraz.com | lb1.affex.org |
 | c.ns.eadminsvision.net.daraz.com | lb1.affex.org |
 | c.ns.eapacvision.net.daraz.com | lb1.affex.org |
+| c.ns.eappsvision.net.daraz.com | lb1.affex.org |
+| c.ns.ecgivision.net.daraz.com | lb1.affex.org |
+| c.ns.eclientvision.net.daraz.com | lb1.affex.org |
+| c.ns.edisabledvision.net.daraz.com | lb1.affex.org |
 | c.ns.einternalsvision.net.daraz.com | lb1.affex.org |
 | c.ns.eintvision.net.daraz.com | lb1.affex.org |
 | c.ns.ek8s-devvision.net.daraz.com | lb1.affex.org |
@@ -418,6 +330,7 @@
 | c.ns.productions.emailvision.net.daraz.com | lb1.affex.org |
 | c.ns.promovision.net.daraz.com | lb1.affex.org |
 | c.ns.s3.emailvision.net.daraz.com | lb1.affex.org |
+| c.ns.stagevision.net.daraz.com | lb1.affex.org |
 | c.ns.stagingvision.net.daraz.com | lb1.affex.org |
 | c.ns.statsemailvision.net.daraz.com | lb1.affex.org |
 | c.ns.v-emailvision.net.daraz.com | lb1.affex.org |
@@ -509,6 +422,7 @@
 | containerlib-ht-1.net.daraz.com | lb1.affex.org |
 | containerr-dw-1.net.daraz.com | lb1.affex.org |
 | containerwinter.net.daraz.com | lb1.affex.org |
+| control-summer.net.daraz.com | lb1.affex.org |
 | control.r-dw-1.net.daraz.com | lb1.affex.org |
 | control.summer.net.daraz.com | lb1.affex.org |
 | controller-autumn.net.daraz.com | lb1.affex.org |
@@ -529,9 +443,11 @@
 | cryptotax.efscle.com | lb1.affex.org |
 | cs-utils-rtr.backend.net.daraz.com | lb1.affex.org |
 | cs-utils-rtr.kubernetes.net.daraz.com | lb1.affex.org |
+| cs-utils-rtr.net.daraz.com | lb1.affex.org |
 | cs6.net.daraz.com | lb1.affex.org |
 | csprod-staff.net.daraz.com | lb1.affex.org |
 | csr11.elastic.net.daraz.com | lb1.affex.org |
+| csr11.europewest.net.daraz.com | lb1.affex.org |
 | csr11.ingress.net.daraz.com | lb1.affex.org |
 | csr11.net.daraz.com | lb1.affex.org |
 | csr12.acc.net.daraz.com | lb1.affex.org |
@@ -628,7 +544,6 @@
 | datacar40.net.daraz.com | lb1.affex.org |
 | dclnxirp002cin.net.daraz.com | lb1.affex.org |
 | decimo.product.fidormarket.com | lb1.affex.org |
-| decimo.product.fidormarket.com | lb1.affex.org |
 | demo-r-ht-2.net.daraz.com | lb1.affex.org |
 | demo.lib-oa-2.net.daraz.com | lb1.affex.org |
 | demo.r-ln-1.net.daraz.com | lb1.affex.org |
@@ -654,6 +569,11 @@
 | devops.print-mo.net.daraz.com | lb1.affex.org |
 | devops.r-hx-1.net.daraz.com | lb1.affex.org |
 | devops.r-is-1-2.net.daraz.com | lb1.affex.org |
+| devops.winter.net.daraz.com | lb1.affex.org |
+| devopsns2.twtelecom.net.daraz.com | lb1.affex.org |
+| devs.ns2.cl.bellsouth.net.daraz.com | lb1.affex.org |
+| devscar31.net.daraz.com | lb1.affex.org |
+| devssummer.net.daraz.com | lb1.affex.org |
 | digitalvoice.net.daraz.com | lb1.affex.org |
 | directory.arfooo.net.daraz.com | lb1.affex.org |
 | disabled-allseason.net.daraz.com | lb1.affex.org |
@@ -671,8 +591,23 @@
 | dns1.confluence.freshegg.net.daraz.com | lb1.affex.org |
 | dns1.data-freshegg.net.daraz.com | lb1.affex.org |
 | dns1.elasticbeanstalkfreshegg.net.daraz.com | lb1.affex.org |
+| dns1.freshegg.fw.net.daraz.com | lb1.affex.org |
+| dns1.historyfreshegg.net.daraz.com | lb1.affex.org |
+| dns1.k8s.freshegg.net.daraz.com | lb1.affex.org |
+| dns1.pass.freshegg.net.daraz.com | lb1.affex.org |
+| dockersummer.net.daraz.com | lb1.affex.org |
+| docscsr21.net.daraz.com | lb1.affex.org |
+| docsdrop-lib-ln-1.net.daraz.com | lb1.affex.org |
+| docsprint-mo.net.daraz.com | lb1.affex.org |
+| docsr-ht-1.net.daraz.com | lb1.affex.org |
+| docsw-htgb-a.net.daraz.com | lb1.affex.org |
+| doctor-qa.int.net.daraz.com | lb1.affex.org |
 | document.lib-ht-1.net.daraz.com | lb1.affex.org |
+| documentcar10.net.daraz.com | lb1.affex.org |
+| documentcsr11.net.daraz.com | lb1.affex.org |
 | documents-ns3.cl.bellsouth.net.daraz.com | lb1.affex.org |
+| documents.ns2.viviotech.net.daraz.com | lb1.affex.org |
+| documentsr-es-1.net.daraz.com | lb1.affex.org |
 | documentsr-oa-2.net.daraz.com | lb1.affex.org |
 | documentwww.net.daraz.com | lb1.affex.org |
 | dogfood-allseason.net.daraz.com | lb1.affex.org |
@@ -746,6 +681,8 @@
 | marketing-chef.net.daraz.com | lb1.affex.org |
 | marketing-r-es-1.net.daraz.com | lb1.affex.org |
 | marketing.ingenious.cloud | lb1.affex.org |
+| marketing.net.24-ads.com | lb1.affex.org |
+| marketing.net.brillen.at | lb1.affex.org |
 | marketing.net.brillen.com | lb1.affex.org |
 | marketing.net.brillen.de | lb1.affex.org |
 | marketing.net.brillen.pl | lb1.affex.org |
@@ -755,39 +692,35 @@
 | marketing.net.elogia.net | lb1.affex.org |
 | marketing.net.fidor.de | lb1.affex.org |
 | marketing.net.gafas.es | lb1.affex.org |
-| marketing.net.gafas.es | lb1.affex.org |
-| marketing.net.home24.at | lb1.affex.org |
 | marketing.net.home24.at | lb1.affex.org |
 | marketing.net.home24.be | lb1.affex.org |
-| marketing.net.home24.be | lb1.affex.org |
-| marketing.net.home24.ch | lb1.affex.org |
 | marketing.net.home24.ch | lb1.affex.org |
 | marketing.net.home24.de | lb1.affex.org |
-| marketing.net.home24.de | lb1.affex.org |
-| marketing.net.home24.fr | lb1.affex.org |
 | marketing.net.home24.fr | lb1.affex.org |
 | marketing.net.home24.it | lb1.affex.org |
 | marketing.net.home24.nl | lb1.affex.org |
 | marketing.net.idealo-partner.com | lb1.affex.org |
-| marketing.net.idealo-partner.com | lb1.affex.org |
-| marketing.net.jumia.ci | lb1.affex.org |
 | marketing.net.jumia.ci | lb1.affex.org |
 | marketing.net.jumia.co.ke | lb1.affex.org |
-| marketing.net.jumia.co.ke | lb1.affex.org |
 | marketing.net.jumia.com.eg | lb1.affex.org |
-| marketing.net.jumia.com.eg | lb1.affex.org |
-| marketing.net.jumia.com.gh | lb1.affex.org |
 | marketing.net.jumia.com.gh | lb1.affex.org |
 | marketing.net.jumia.com.ng | lb1.affex.org |
 | marketing.net.jumia.ma | lb1.affex.org |
-| marketing.net.jumia.ma | lb1.affex.org |
+| marketing.net.monedo.pl | lb1.affex.org |
 | marketing.net.occhiali24.it | lb1.affex.org |
+| marketing.net.ocm.de | lb1.affex.org |
+| marketing.net.voopter.com.br | lb1.affex.org |
+| marketing.net.vsgamers.es | lb1.affex.org |
 | marketing.net.wink.es | lb1.affex.org |
 | marketing.net.x24factory.com | lb1.affex.org |
 | marketing.net.zooplus.de | lb1.affex.org |
 | marketing.net.zooplus.es | lb1.affex.org |
+| marketing.net.zooplus.fr | lb1.affex.org |
 | marketing.net.zooplus.it | lb1.affex.org |
+| marketing.net.zooplus.nl | lb1.affex.org |
+| marketing.net.zooroyal.at | lb1.affex.org |
 | marketing.net.zooroyal.de | lb1.affex.org |
+| marketing.r.niwepa.com | lb1.affex.org |
 | marketing.tr.netsalesmedia.pl | lb1.affex.org |
 | marketingdeveloper.net.daraz.com | lb1.affex.org |
 | marketinglatin.net.daraz.com | lb1.affex.org |
@@ -817,52 +750,3 @@
 | ssl.affiliate.logitravel.com | lb1.affex.org |
 | summer.net.daraz.com | lb1.affex.org |
 | tbm.net.toom.de | lb1.affex.org |
-| marketing.r.niwepa.com | niwepa-com.affex.org |
-| marketing.net.24-ads.com | tr-24-ads-com.affex.org |
-| atlas.r.akipam.com | tr-akipam-com.affex.org |
-| marketing.net.brillen.at | tr-brillen-at.affex.org |
-| marketing.net.brillen.com | tr-brillen-com.affex.org |
-| marketing.net.brillen.de | tr-brillen-de.affex.org |
-| marketing.net.brillen.pl | tr-brillen-pl.affex.org |
-| marketing.net.daraz.com.bd | tr-daraz-com-bd.affex.org |
-| marketing.net.daraz.lk | tr-daraz-lk.affex.org |
-| marketing.net.daraz.pk | tr-daraz-pk.affex.org |
-| perf.af.eficads.com | tr-eficads-com.affex.org |
-| decimo.product.fidormarket.com | tr-fidormarket-com.affex.org |
-| marketing.net.gafas.es | tr-gafas-es.affex.org |
-| marketing.net.home24.at | tr-home24-at.affex.org |
-| marketing.net.home24.be | tr-home24-be.affex.org |
-| marketing.net.home24.ch | tr-home24-ch.affex.org |
-| marketing.net.home24.de | tr-home24-de.affex.org |
-| marketing.net.home24.fr | tr-home24-fr.affex.org |
-| marketing.net.home24.nl | tr-home24-nl.affex.org |
-| marketing.net.idealo-partner.com | tr-idealo-partner-com.affex.org |
-| janus.r.jakuli.com | tr-jakuli-com.affex.org |
-| marketing.net.jumia.ci | tr-jumia-ci.affex.org |
-| marketing.net.jumia.co.ke | tr-jumia-co-ke.affex.org |
-| marketing.net.jumia.com.eg | tr-jumia-com-eg.affex.org |
-| marketing.net.jumia.com.gh | tr-jumia-com-gh.affex.org |
-| marketing.net.jumia.ma | tr-jumia-ma.affex.org |
-| kkz.net.krankenkassenzentrale.de | tr-krankenkassenzentrale-de.affex.org |
-| luna.r.lafamo.com | tr-lafamo-com.affex.org |
-| ssl.affiliate.logitravel.com | tr-logitravel-com.affex.org |
-| marketing.net.monedo.pl | tr-monedo-pl.affex.org |
-| marketing.tr.netsalesmedia.pl | tr-netsalesmedia-pl.affex.org |
-| nsm.tr.netsalesmedia.pl | tr-netsalesmedia-pl.affex.org |
-| neso.r.niwepa.com | tr-niwepa-com.affex.org |
-| marketing.net.occhiali24.it | tr-occhiali24-it.affex.org |
-| marketing.net.ocm.de | tr-ocm-de.affex.org |
-| pluto.r.powuta.com | tr-powuta-com.affex.org |
-| rw.net.rewe.de | tr-rewe-de.affex.org |
-| tbm.net.toom.de | tr-toom-de.affex.org |
-| marketing.net.voopter.com.br | tr-voopter-com-br.affex.org |
-| marketing.net.vsgamers.es | tr-vsgamers-es.affex.org |
-| marketing.net.wink.es | tr-wink-es.affex.org |
-| marketing.net.x24factory.com | tr-x24factory-com.affex.org |
-| marketing.net.zooplus.de | tr-zooplus-de.affex.org |
-| marketing.net.zooplus.es | tr-zooplus-es.affex.org |
-| marketing.net.zooplus.fr | tr-zooplus-fr.affex.org |
-| marketing.net.zooplus.it | tr-zooplus-it.affex.org |
-| marketing.net.zooplus.nl | tr-zooplus-nl.affex.org |
-| marketing.net.zooroyal.at | tr-zooroyal-at.affex.org |
-| marketing.net.zooroyal.de | tr-zooroyal-de.affex.org |

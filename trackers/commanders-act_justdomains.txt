@@ -6,12 +6,6 @@
 data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
-data.decathlon.it
-data.ubi.com
-data.wptag.net
-logger.yp.ca
-sales.disneylandparis.com
-tag.boulanger.fr
 tagcommander.castaluna.fr
 tagcommander.laredoute.be
 tagcommander.laredoute.co.uk

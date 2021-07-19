@@ -56,7 +56,6 @@
 ||business-pages.edfenergy.com^
 ||business.samsungusa.com^
 ||business.vodafone.co.nz^
-||business.vodafone.com^
 ||businessengage.comcast.com^
 ||businessmaking.progress.com^
 ||ca.creditacceptance.com^
@@ -84,7 +83,6 @@
 ||challengeh.carte-gr.total.fr^
 ||channelusa.samsung.com^
 ||choose.nu.edu^
-||clicks.tableau.com^
 ||clogindustresmails.carte-gr.total.fr^
 ||cloud.aspiresys.com^
 ||cockpitdcbaima.carte-gr.total.fr^
@@ -120,9 +118,7 @@
 ||connect.telstrawholesale.com^
 ||connect.zebra.com^
 ||connectfpc.zebra.com^
-||connection.arrow.com^
 ||connectlp.keysight.com^
-||connectportal.netapp.com^
 ||consulting.guidehouse.com^
 ||contact-us.adp.ca^
 ||contact.lesmills.com^
@@ -133,15 +129,11 @@
 ||content.cercle-actionnaires.bnpparibas^
 ||content.eaton.com^
 ||content.hydraulicsproducts.com^
-||content.juniper.net^
 ||content.tatatelebusiness.com^
-||content.verint.com^
 ||conteudos.lp.deloittecomunicacao.com.br^
 ||conversations.al-enterprise.com^
 ||cookiejar.atea.no^
 ||cookies.engage.russellinvestments.com^
-||cookies.siemens-energy.com^
-||cookies.siemens.com^
 ||cookietracking.eatonpowersource.com^
 ||corporate.mattamyhomes.com^
 ||corporateforms.americanexpress.com^
@@ -493,7 +485,6 @@
 ||imeetcentral.pgi.com^
 ||info.academynet.com^
 ||info.adp.com^
-||info.asce.org^
 ||info.authorize.net^
 ||info.bbvaautorenting.es^
 ||info.boozallen.com^
@@ -530,7 +521,6 @@
 ||insight.business.hsbc.com^
 ||insight.intrado.com^
 ||insights.harvardbusiness.org^
-||insights.prophet.com^
 ||inspire.webfleet.com^
 ||internalforms.legalsolutions.thomsonreuters.co.uk^
 ||internationalfactoring-temp.wf.com^
@@ -944,28 +934,6 @@
 ||web.northwestern.nm.org^
 ||web.zoominfo.com^
 ||webinar.intel.com^
-||webinars.oncourselearning.com^
-||website-security.geotrust.com^
-||webtracking.acams.org^
-||webtracking.aucmed.edu^
-||webtracking.becker.com^
-||webtracking.chamberlain.edu^
-||webtracking.medical.rossu.edu^
-||webtracking.oncourselearning.com^
-||wmagesgr.carte-gr.total.fr^
-||wmpartnermail.carte-gr.total.fr^
-||www.acpprograms.org^
-||www.adpinfo.com^
-||www.aonunited.com^
-||www.desrem.in^
-||www.efficiency.visma.com^
-||www.gaylordhotelsnews.com^
-||www.yourplanprovisions.com^
-||www1.kawasaki-motors.com^
-||x.carte-gr.total.fr^
-||ynmlkji.carte-gr.total.fr^
-||ystation.carte-gr.total.fr^
-||zagesn.carte-gr.total.fr^
 !
 ! p03.t.en25.com disguised trackers
 !

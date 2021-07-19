@@ -80,7 +80,6 @@ ablink.info.timhortons.ca
 ablink.info.timhortons.com
 ablink.info.vida.com
 ablink.juicer.li.me
-ablink.lifecycle.quizlet.com
 ablink.loyal.timhortons.ca
 ablink.loyal.timhortons.com
 ablink.loyalty.almosafer.com
@@ -289,7 +288,6 @@ l.create.canva.com
 l.email.livingsocial.co.uk
 l.email.nxtwowcher.co.uk
 l.email.wowcher.co.uk
-l.engage.canva.com
 l.support.canva.com
 l.thumbtack.com
 lb.billing01.email-allstate.com
@@ -454,7 +452,6 @@ url1015.abtest.em.redmart.com
 url1451.careerkarma.info
 url3630.newsletter.experience-muse.com
 url7542.fluz.app
-url7976.stage.domain.com.au
 url8196.mindrise.app
 url9576.oneshift.com
 wl.spotify.com

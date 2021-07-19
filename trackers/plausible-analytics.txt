@@ -82,7 +82,6 @@
 ||p.wren.co^
 ||pa-stats.encore.dev^
 ||pa.opqr.co^
-||pa.rockett.pw^
 ||pa.travelwhiz.app^
 ||pan.render.com^
 ||ping.cavelab.dev^
@@ -225,7 +224,6 @@
 ||stats.deva.guru^
 ||stats.digiexpert.store^
 ||stats.dirtify.me^
-||stats.dokidokibangkok.com^
 ||stats.doors.live^
 ||stats.drewbolles.com^
 ||stats.drgomesp.dev^

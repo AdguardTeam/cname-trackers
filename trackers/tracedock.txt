@@ -4,7 +4,6 @@
 ! a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com disguised trackers
 !
 ||2tty.overstappen.nl^
-||3d.shophumanoid.com^
 ||bc.semwerkt.nl^
 ||cms.hardloopaanbiedingen.nl^
 ||ee.sightful.nl^
@@ -21,7 +20,6 @@
 ||api.bunzlaucastle.com^
 ||api.weltevree.eu^
 ||core.bruynzeelkeukens.nl^
-||dtch.brunel.nl^
 ||tdep.bunzlonline.nl^
 ||tdep.suncamp.be^
 ||tdep.suncamp.de^
