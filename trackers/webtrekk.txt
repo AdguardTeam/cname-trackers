@@ -111,6 +111,7 @@
 ||ot.obi.si^
 ||ot.obi.sk^
 ||pix.airbusgroup.com^
+||pix.telekom.com^
 ||proditor.sparda.de^
 ||scout.alpiniste.fr^
 ||scout.berg-freunde.at^
@@ -161,6 +162,7 @@
 ||web.emails.thetoyshop.com^
 ||web.info.bonprix.es^
 ||web.info.yeppon.it^
+||web.mail.proximaati.com^
 ||web.mapp.ilgiardinodeilibri.it^
 ||web.mytoys.de^
 ||web.news.creedfragrances.co.uk^
@@ -188,6 +190,7 @@
 ||wttd.madeleine-fashion.nl^
 ||wttd.madeleine-mode.at^
 ||wttd.madeleine-mode.ch^
+||wttd.madeleine.co.uk^
 ||wttd.madeleine.com^
 ||wttd.madeleine.de^
 ||wttd.madeleine.fr^

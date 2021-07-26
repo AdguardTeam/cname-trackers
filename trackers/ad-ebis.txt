@@ -88,6 +88,7 @@
 ||ebis.seibu-k.co.jp^
 ||ebis.sekisuiheim.com^
 ||ebis.sekisuihouse.co.jp^
+||ebis.sekisuihouse.com^
 ||ebis.studio-alice.co.jp^
 ||ebis.sunstar-shop.jp^
 ||ebis01.zkai.co.jp^
@@ -110,4 +111,5 @@
 ||seo.tkc110.jp^
 ||tracking.nokai.jp^
 ||tukuru.cotta.jp^
+||urerucname.manara.jp^
 ||y8hxgv9m.kobetsu.co.jp^

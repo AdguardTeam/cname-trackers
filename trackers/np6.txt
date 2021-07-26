@@ -4,6 +4,7 @@
 ! tracking.bp01.net disguised trackers
 !
 ||emailing.casden.banquepopulaire.fr^
+||epm.mailperformance.com^
 ||sms.gestion.cetelem.fr^
 ||tr.3ou4xcb.cetelem.fr^
 ||tr.abo.cotemaison.fr^
@@ -31,6 +32,7 @@
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.camara.eu.com^
 ||tr.carte.lcl.fr^
+||tr.cashback.floa.fr^
 ||tr.client.emailing.bnpparibas^
 ||tr.clientes.younited-credit.com^
 ||tr.clienti.younited-credit.com^
@@ -117,6 +119,7 @@
 ||tr.jesuis.enformedelotus.com^
 ||tr.jkyg.espmp-cufr.net^
 ||tr.kpyn.espmp-cufr.net^
+||tr.krus.espmp-agfr.net^
 ||tr.mail.enviedebienmanger.fr^
 ||tr.mail.floa.fr^
 ||tr.mail.koregraf.com^
@@ -124,6 +127,7 @@
 ||tr.mail.satisfactory.fr^
 ||tr.mail.vipmag.fr^
 ||tr.mailing.lvmhappening.com^
+||tr.mhist.moethennessy.com^
 ||tr.mm.infopro-digital.com^
 ||tr.mnoc.espmp-nifr.net^
 ||tr.mondevis-pro.com^
@@ -169,6 +173,7 @@
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletters.odalys-vacances.com^
 ||tr.nl.2wls.net^
+||tr.nl.mondo-shop.fr^
 ||tr.nl.services-sncf.com^
 ||tr.nl2.sncf-fidelite.com^
 ||tr.notification-gdpr.cafineo.fr^
@@ -183,6 +188,7 @@
 ||tr.offres-professionnelles.fr^
 ||tr.offres.01net.com^
 ||tr.offres.bfmtv.com^
+||tr.offrevip.floa.fr^
 ||tr.orange-lease.fr^
 ||tr.panels-mediametrie.fr^
 ||tr.pole-emploi-services.com^
@@ -202,11 +208,13 @@
 ||tr.services.caradisiac.com^
 ||tr.servicesclients.canalplus.fr^
 ||tr.smtp1.email-mediapost.fr^
+||tr.souscription.floa.fr^
 ||tr.toner-service.fr^
 ||tr.uk.icicibank.com^
 ||tr.ville.bordeaux.fr^
 ||tr.votrealarme.securitasdirect.fr^
 ||tr.vous.hellobank.fr^
+||tr.welcome.easyvoyage.com^
 ||tr1.citroen-ipsos.com^
 ||tr1.mailperf.com^
 ||trpreviews.bp01.net^

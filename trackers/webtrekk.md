@@ -45,6 +45,7 @@
     * 470719744966924.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
+    * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
     * 590838755166551.wt-eu02.net
     * 598189357306993.wt-eu02.net
@@ -61,6 +62,7 @@
     * 729347163621496.wt-eu02.net
     * 730059294506327.wt-eu02.net
     * 737859735586197.wt-eu02.net
+    * 741723125859679.wt-eu02.net
     * 752828619977374.wt-eu02.net
     * 753960264605716.wt-eu02.net
     * 807354460250799.wt-eu02.net
@@ -144,6 +146,7 @@
 | webt.pure.com | 470719744966924.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
+| pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
 | wbtrkk.teufelaudio.be | 598189357306993.wt-eu02.net |
@@ -160,6 +163,7 @@
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
 | census.misterspex.at | 730059294506327.wt-eu02.net |
 | mapp.yesstyle.com | 737859735586197.wt-eu02.net |
+| web.mail.proximaati.com | 741723125859679.wt-eu02.net |
 | wbtrkk.teufel.ch | 752828619977374.wt-eu02.net |
 | census.misterspex.nl | 753960264605716.wt-eu02.net |
 | abc.fackelmann.de | 807354460250799.wt-eu02.net |
@@ -255,6 +259,7 @@
 | wttd.madeleine-fashion.nl | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-mode.at | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-mode.ch | madeleineprod01.wt-eu02.net |
+| wttd.madeleine.co.uk | madeleineprod01.wt-eu02.net |
 | wttd.madeleine.com | madeleineprod01.wt-eu02.net |
 | wttd.madeleine.de | madeleineprod01.wt-eu02.net |
 | wttd.madeleine.fr | madeleineprod01.wt-eu02.net |

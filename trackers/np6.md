@@ -9,6 +9,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
+| epm.mailperformance.com | tracking.bp01.net |
 | sms.gestion.cetelem.fr | tracking.bp01.net |
 | tr.3ou4xcb.cetelem.fr | tracking.bp01.net |
 | tr.abo.cotemaison.fr | tracking.bp01.net |
@@ -36,6 +37,7 @@
 | tr.cacf-acq.ipsos-surveys.com | tracking.bp01.net |
 | tr.camara.eu.com | tracking.bp01.net |
 | tr.carte.lcl.fr | tracking.bp01.net |
+| tr.cashback.floa.fr | tracking.bp01.net |
 | tr.client.emailing.bnpparibas | tracking.bp01.net |
 | tr.clientes.younited-credit.com | tracking.bp01.net |
 | tr.clienti.younited-credit.com | tracking.bp01.net |
@@ -122,6 +124,7 @@
 | tr.jesuis.enformedelotus.com | tracking.bp01.net |
 | tr.jkyg.espmp-cufr.net | tracking.bp01.net |
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
+| tr.krus.espmp-agfr.net | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
 | tr.mail.floa.fr | tracking.bp01.net |
 | tr.mail.koregraf.com | tracking.bp01.net |
@@ -129,6 +132,7 @@
 | tr.mail.satisfactory.fr | tracking.bp01.net |
 | tr.mail.vipmag.fr | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
+| tr.mhist.moethennessy.com | tracking.bp01.net |
 | tr.mm.infopro-digital.com | tracking.bp01.net |
 | tr.mnoc.espmp-nifr.net | tracking.bp01.net |
 | tr.mondevis-pro.com | tracking.bp01.net |
@@ -174,6 +178,7 @@
 | tr.newsletter.younited-credit.com | tracking.bp01.net |
 | tr.newsletters.odalys-vacances.com | tracking.bp01.net |
 | tr.nl.2wls.net | tracking.bp01.net |
+| tr.nl.mondo-shop.fr | tracking.bp01.net |
 | tr.nl.services-sncf.com | tracking.bp01.net |
 | tr.nl2.sncf-fidelite.com | tracking.bp01.net |
 | tr.notification-gdpr.cafineo.fr | tracking.bp01.net |
@@ -188,6 +193,7 @@
 | tr.offres-professionnelles.fr | tracking.bp01.net |
 | tr.offres.01net.com | tracking.bp01.net |
 | tr.offres.bfmtv.com | tracking.bp01.net |
+| tr.offrevip.floa.fr | tracking.bp01.net |
 | tr.orange-lease.fr | tracking.bp01.net |
 | tr.panels-mediametrie.fr | tracking.bp01.net |
 | tr.pole-emploi-services.com | tracking.bp01.net |
@@ -207,11 +213,13 @@
 | tr.services.caradisiac.com | tracking.bp01.net |
 | tr.servicesclients.canalplus.fr | tracking.bp01.net |
 | tr.smtp1.email-mediapost.fr | tracking.bp01.net |
+| tr.souscription.floa.fr | tracking.bp01.net |
 | tr.toner-service.fr | tracking.bp01.net |
 | tr.uk.icicibank.com | tracking.bp01.net |
 | tr.ville.bordeaux.fr | tracking.bp01.net |
 | tr.votrealarme.securitasdirect.fr | tracking.bp01.net |
 | tr.vous.hellobank.fr | tracking.bp01.net |
+| tr.welcome.easyvoyage.com | tracking.bp01.net |
 | tr1.citroen-ipsos.com | tracking.bp01.net |
 | tr1.mailperf.com | tracking.bp01.net |
 | trpreviews.bp01.net | tracking.bp01.net |

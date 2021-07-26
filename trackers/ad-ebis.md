@@ -54,11 +54,13 @@
     * 63caa179-uynsk4n4.cname.ebis.ne.jp
     * 64642ff0-29kvavam.cname.ebis.ne.jp
     * 65583296-u9rwf5hz.cname.ebis.ne.jp
+    * 728d5fcc-6hbgpszs.cname.ebis.ne.jp
     * 730fac49-ezdvkv2x.cname.ebis.ne.jp
     * 748da21f-kuqpafku.cname.ebis.ne.jp
     * 7955b170-gaz6wmaw.cname.ebis.ne.jp
     * 8084b5d3-mqxnlcy4.cname.ebis.ne.jp
     * 80ad1e32-pvfpecyh.cname.ebis.ne.jp
+    * 82590653-c7rwefvl.cname.ebis.ne.jp
     * 852e231d-ct0ymnok.cname.ebis.ne.jp
     * 861e71a7-mhybr5iz.cname.ebis.ne.jp
     * 87bfa869-gchgrbwl.cname.ebis.ne.jp
@@ -167,11 +169,13 @@
 | ad.aucfan.com | 63caa179-uynsk4n4.cname.ebis.ne.jp |
 | ebis.onamae.com | 64642ff0-29kvavam.cname.ebis.ne.jp |
 | ebis.studio-alice.co.jp | 65583296-u9rwf5hz.cname.ebis.ne.jp |
+| ebis.sekisuihouse.com | 728d5fcc-6hbgpszs.cname.ebis.ne.jp |
 | ebis.bulk.co.jp | 730fac49-ezdvkv2x.cname.ebis.ne.jp |
 | adebis.demae-can.com | 748da21f-kuqpafku.cname.ebis.ne.jp |
 | cnebis.chocola.com | 7955b170-gaz6wmaw.cname.ebis.ne.jp |
 | cname.mebiusseiyaku.co.jp | 8084b5d3-mqxnlcy4.cname.ebis.ne.jp |
 | adebis.qeee.jp | 80ad1e32-pvfpecyh.cname.ebis.ne.jp |
+| urerucname.manara.jp | 82590653-c7rwefvl.cname.ebis.ne.jp |
 | maz.zba.jp | 852e231d-ct0ymnok.cname.ebis.ne.jp |
 | adebis.irobot-jp.com | 861e71a7-mhybr5iz.cname.ebis.ne.jp |
 | ebis.ce-parfait.com | 87bfa869-gchgrbwl.cname.ebis.ne.jp |

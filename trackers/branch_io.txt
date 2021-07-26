@@ -80,6 +80,7 @@
 ||ablink.info.timhortons.com^
 ||ablink.info.vida.com^
 ||ablink.juicer.li.me^
+||ablink.lifecycle.quizlet.com^
 ||ablink.loyal.timhortons.ca^
 ||ablink.loyal.timhortons.com^
 ||ablink.loyalty.almosafer.com^
@@ -174,6 +175,7 @@
 ||b.iwanna.southwest.com^
 ||b.lyst.com^
 ||b.your.offers.dominos.com^
+||bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au^
 ||blinks.mindoktor.se^
 ||bnc.autopass.xyz^
 ||bpe.mlb.com^
@@ -288,6 +290,7 @@
 ||l.email.livingsocial.co.uk^
 ||l.email.nxtwowcher.co.uk^
 ||l.email.wowcher.co.uk^
+||l.engage.canva.com^
 ||l.support.canva.com^
 ||l.thumbtack.com^
 ||lb.billing01.email-allstate.com^
@@ -313,8 +316,10 @@
 ||link.hello-au.circles.life^
 ||link.hello-sg.circles.life^
 ||link.hello.soothe.com^
+||link.hello.unum.la^
 ||link.hello2-sg.circles.life^
 ||link.hey.mypostcard.com^
+||link.info.myfitnesspal.com^
 ||link.kdkmoments.com^
 ||link.loyalty.almosafer.com^
 ||link.loyalty.tajawal.com^
@@ -429,6 +434,7 @@
 ||t.discover.kayosports.com.au^
 ||t.prod1.discover.binge.com.au^
 ||t.service.thetimes.co.uk^
+||t1.benefits.tops.co.th^
 ||t1.stadiumgoods.com^
 ||td.benefits.tops.co.th^
 ||td.ecomms.originenergy.com.au^

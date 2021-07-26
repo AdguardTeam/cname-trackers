@@ -25,6 +25,7 @@
 ||analytics.hiome.com^
 ||analytics.itsnoahevans.co.uk^
 ||analytics.lunge.de^
+||analytics.mambaui.com^
 ||analytics.mhpod.gov.au^
 ||analytics.mondoweiss.net^
 ||analytics.ramiyer.io^
@@ -37,6 +38,7 @@
 ||analytics.valheimgamer.com^
 ||analytics.whotargets.me^
 ||analytics.winter.ink^
+||analytics.wittypen.com^
 ||antitracking.owncast.online^
 ||ap.dt.gl^
 ||api-pl.kdrag0n.dev^
@@ -67,7 +69,9 @@
 ||hurricane.tinybird.co^
 ||informatics.filamentcolors.xyz^
 ||insights.frenchtogether.com^
+||iwonttrackyou.xn--gckvb8fzb.com^
 ||ks.walkq.com^
+||l2k30jsa.theochu.com^
 ||littlebrother.makeplans.net^
 ||loggychops.paulsmith.site^
 ||momotaro.craigmod.com^
@@ -125,6 +129,7 @@
 ||plausible.gryka.net^
 ||plausible.gymglish.com^
 ||plausible.haltakov.net^
+||plausible.hey-soho.com^
 ||plausible.hstmedical.com^
 ||plausible.kabaret.no^
 ||plausible.kreya.app^
@@ -150,6 +155,7 @@
 ||plausible.starlegacyfoundation.org^
 ||plausible.strzibny.name^
 ||plausible.sysloun.cz^
+||plausible.tac.dappstar.io^
 ||plausible.test.sketch.com^
 ||plausible.urbanekuensteruhr.de^
 ||plausible.vaughanesports.org^
@@ -175,6 +181,7 @@
 ||site-stats.supernotes.app^
 ||sp.jrklein.com^
 ||sp.spaceomatic.fr^
+||spock.dom.codes^
 ||st.encyclopediadramatica.rs^
 ||st2.jamesdaniel.dev^
 ||stat.bill.harding.blog^
@@ -228,6 +235,7 @@
 ||stats.drewbolles.com^
 ||stats.drgomesp.dev^
 ||stats.edkimo.com^
+||stats.ekomenyong.com^
 ||stats.elementary.io^
 ||stats.elixir-lang.org^
 ||stats.emaillove.com^
@@ -314,6 +322,7 @@
 ||stats.personalkollen.se^
 ||stats.pianoplanet.app^
 ||stats.picci.app^
+||stats.piranhas.co^
 ||stats.pixify.net^
 ||stats.plastbest.sk^
 ||stats.poesieundgenuss.com^
@@ -326,6 +335,7 @@
 ||stats.rainlily.org.hk^
 ||stats.rasulkireev.com^
 ||stats.readng.co^
+||stats.referralhero.com^
 ||stats.reisemobil.pro^
 ||stats.reprage.com^
 ||stats.ruhrfestspiele.de^
@@ -362,7 +372,6 @@
 ||stats.uxtools.co^
 ||stats.vanityprojects.com^
 ||stats.vdsnow.ru^
-||stats.visa2egypt.fr^
 ||stats.vngameden.com^
 ||stats.voltamediahouse.com^
 ||stats.walkiees.co.uk^

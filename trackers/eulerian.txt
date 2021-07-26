@@ -8,6 +8,7 @@
 ||1bva.societegenerale.fr^
 ||1ctc.sfr.fr^
 ||2efj.up.coop^
+||5fm.985fm.ca^
 ||5ijo.01net.com^
 ||6pal.consobaby.com^
 ||7lbd4.armandthiery.fr^
@@ -28,6 +29,7 @@
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
+||c0i.ckoi.com^
 ||c4dv.copinesdevoyage.com^
 ||cc.conforama.es^
 ||ch0p.darty.com^
@@ -113,6 +115,7 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
+||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||eule1.pmu.fr^
 ||eulerian.belambra.be^
@@ -214,6 +217,9 @@
 ||nmo1.orpi.com^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
+||nym5c.bonlook.com^
+||nym5c.laura.ca^
+||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^
 ||oal2.destinia.co.uk^
 ||oek7.april-moto.com^
@@ -241,6 +247,7 @@
 ||pbox.photobox.se^
 ||pgt1.voyage-prive.es^
 ||pjh7.us.chantelle.com^
+||pk1u.melanielyne.com^
 ||pkc5.hardrockhoteltenerife.com^
 ||po.ponant.com^
 ||pol3.cheque-domicile.fr^
@@ -259,6 +266,7 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
+||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sby1.madeindesign.de^
 ||sd.securitasdirect.fr^

@@ -16,6 +16,7 @@ tk.airfrance.ru
 tk.airfrance.tn
 tk.airfrance.us
 tk.biovea.com
+tk.bricoprive.com
 tk.conforama.fr
 tk.dietbon.fr
 tk.engie.fr

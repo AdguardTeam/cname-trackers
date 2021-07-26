@@ -9,6 +9,7 @@ te.baur.de
 te.creation-l.de
 te.frankonia.de
 te.heine.de
+te.imwalking.de
 te.limango.de
 te.mirapodo.de
 te.mytoys.de

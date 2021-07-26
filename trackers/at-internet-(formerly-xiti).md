@@ -15,6 +15,7 @@
     * atconnect-npo-nl-cddc.at-o.net
     * atxqb-psychologies-com-cddc.at-o.net
     * buf-lemonde-fr-cddc.at-o.net
+    * c-atinternet-solutions-com-cddc.at-o.net
     * c0012-brsimg-com-cddc.at-o.net
     * chihiro-nostalgie-fr-cddc.at-o.net
     * col-idealista-com-cddc.at-o.net
@@ -47,6 +48,7 @@
     * ressources-caradisiac-com-cddc.at-o.net
     * ressources-centraleauto-com-cddc.at-o.net
     * ressources-mavoiturecash-fr-cddc.at-o.net
+    * ressources-promoneuve-fr-cddc.at-o.net
     * rsc-lepoint-fr-cddc.at-o.net
     * salzwerk-viessmann-de-cddc.at-o.net
     * sheeta-nrj-play-fr-cddc.at-o.net
@@ -84,6 +86,7 @@
 | atconnect.npo.nl | atconnect-npo-nl-cddc.at-o.net |
 | atxqb.psychologies.com | atxqb-psychologies-com-cddc.at-o.net |
 | buf.lemonde.fr | buf-lemonde-fr-cddc.at-o.net |
+| c.atinternet-solutions.com | c-atinternet-solutions-com-cddc.at-o.net |
 | c0012.brsimg.com | c0012-brsimg-com-cddc.at-o.net |
 | chihiro.nostalgie.fr | chihiro-nostalgie-fr-cddc.at-o.net |
 | col.idealista.com | col-idealista-com-cddc.at-o.net |
@@ -116,6 +119,7 @@
 | ressources.caradisiac.com | ressources-caradisiac-com-cddc.at-o.net |
 | ressources.centraleauto.com | ressources-centraleauto-com-cddc.at-o.net |
 | ressources.mavoiturecash.fr | ressources-mavoiturecash-fr-cddc.at-o.net |
+| ressources.promoneuve.fr | ressources-promoneuve-fr-cddc.at-o.net |
 | rsc.lepoint.fr | rsc-lepoint-fr-cddc.at-o.net |
 | salzwerk.viessmann.de | salzwerk-viessmann-de-cddc.at-o.net |
 | sheeta.nrj-play.fr | sheeta-nrj-play-fr-cddc.at-o.net |
