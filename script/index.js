@@ -11,6 +11,7 @@ const {
     INFO_FILE_EXTENSION,
     RULES_FILE_EXTENSION,
     HOSTS_RULES_FILE_NAME_ENDING,
+    RPZ_RULES_FILE_NAME_ENDING,
 } = require('./src/constants');
 const { TRACKERS_DIR } = require('./config');
 const { buildDesc } = require('./src/build-desc');
@@ -73,7 +74,7 @@ const main = async () => {
             await fs.writeFile(path.resolve(__dirname, TRACKERS_DIR, `${companyFileName}.md`), descString);
 
             const {
-                baseRulesString, hostsRulesString,
+                baseRulesString, hostsRulesString, rpzRulesString,
             } = await buildRules(trackersData);
             await fs.writeFile(
                 path.resolve(
@@ -90,6 +91,14 @@ const main = async () => {
                     `${companyFileName}${HOSTS_RULES_FILE_NAME_ENDING}.${RULES_FILE_EXTENSION}`,
                 ),
                 hostsRulesString,
+            );
+            await fs.writeFile(
+                path.resolve(
+                    __dirname,
+                    TRACKERS_DIR,
+                    `${companyFileName}${RPZ_RULES_FILE_NAME_ENDING}.${RULES_FILE_EXTENSION}`,
+                ),
+                rpzRulesString,
             );
             const doneNumStr = i === trackersLength - 1 ? '100%' : `~${Math.round(((i + 1) / trackersLength) * 100)}%`;
             console.log(`Successfully fetched for tracker: ${companyName}, ${doneNumStr} done`);

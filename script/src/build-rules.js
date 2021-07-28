@@ -7,7 +7,7 @@ const { CONST_DATA } = require('./constants');
 /**
  * Builds rules content by type
  * @param {TrackersData} trackersData
- * @param {'BASE'|'HOSTS'} type rules type
+ * @param {'BASE'|'HOSTS'|'RPZ'} type rules type
  * @returns {string}
  */
 const buildRulesByType = (trackersData, type) => {
@@ -35,6 +35,8 @@ const buildRulesByType = (trackersData, type) => {
                     rule = `||${disguise}^`;
                 } else if (type === CONST_DATA.HOSTS.type) {
                     rule = disguise;
+                } else if (type === CONST_DATA.RPZ.type) {
+                    rule = `${disguise} CNAME .`;
                 }
                 rulesChunks.push(rule);
             });
@@ -42,6 +44,11 @@ const buildRulesByType = (trackersData, type) => {
             rulesChunks.push(`${CONST_DATA[type].commentMarker} no domains found for ${domainName}`);
         }
     });
+
+    /* Ensure there is a newline at the end of RPZ files. */
+    if (type === CONST_DATA.RPZ.type) {
+        rulesChunks.length++;
+    }
 
     const baseRulesString = rulesChunks.join('\n');
     return baseRulesString;
@@ -51,6 +58,7 @@ const buildRulesByType = (trackersData, type) => {
  * @typedef {Object} RulesContent
  * @property {string} baseRulesString
  * @property {string} hostsRulesString
+ * @property {string} rpzRulesString
  */
 
 /**
@@ -61,8 +69,9 @@ const buildRulesByType = (trackersData, type) => {
 const buildRules = async (trackersData) => {
     const baseRulesString = buildRulesByType(trackersData, CONST_DATA.BASE.type);
     const hostsRulesString = buildRulesByType(trackersData, CONST_DATA.HOSTS.type);
+    const rpzRulesString = buildRulesByType(trackersData, CONST_DATA.RPZ.type);
 
-    return { baseRulesString, hostsRulesString };
+    return { baseRulesString, hostsRulesString, rpzRulesString };
 };
 
 module.exports = { buildRules };
