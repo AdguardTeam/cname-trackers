@@ -48,6 +48,7 @@ res.programme-television.org
 res.public.fr
 ressources.caradisiac.com
 ressources.centraleauto.com
+ressources.lacentrale.fr
 ressources.mavoiturecash.fr
 ressources.promoneuve.fr
 rsc.lepoint.fr

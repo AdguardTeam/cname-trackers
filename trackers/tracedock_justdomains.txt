@@ -45,8 +45,6 @@ s0.beyondonline.nl
 s4.parkeren-amsterdam.com
 s4.parkeren-haarlem.nl
 s4.parkeren-utrecht.nl
-tdep.garmundo.de
-tdep.garmundo.nl
 tdep.growwwdigital.com
 tdep.mijnurgentie.nl
 tdep.sdim.nl

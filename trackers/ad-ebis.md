@@ -24,6 +24,7 @@
     * 2effafae-p5xsryk6.cname.ebis.ne.jp
     * 2feef04e-wnxavwja.cname.ebis.ne.jp
     * 30a5817d-lkhaegjw.cname.ebis.ne.jp
+    * 31e48120-fbzwhcnp.cname.ebis.ne.jp
     * 34213ab6-xnj2xrq7.cname.ebis.ne.jp
     * 359e2360-u9necda2.cname.ebis.ne.jp
     * 35e79adf-qjtkq0iz.cname.ebis.ne.jp
@@ -39,6 +40,7 @@
     * 44f2417e-guakxgpf.cname.ebis.ne.jp
     * 454c6615-hd5f4dhg.cname.ebis.ne.jp
     * 4625f83e-ua37naea.cname.ebis.ne.jp
+    * 49bd8542-7sbpa3f6.cname.ebis.ne.jp
     * 4a5353c5-wrr2jzhu.cname.ebis.ne.jp
     * 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp
     * 4dc90a8e-bagmsfc6.cname.ebis.ne.jp
@@ -54,6 +56,7 @@
     * 63caa179-uynsk4n4.cname.ebis.ne.jp
     * 64642ff0-29kvavam.cname.ebis.ne.jp
     * 65583296-u9rwf5hz.cname.ebis.ne.jp
+    * 68d30b5c-gxw6vfjd.cname.ebis.ne.jp
     * 728d5fcc-6hbgpszs.cname.ebis.ne.jp
     * 730fac49-ezdvkv2x.cname.ebis.ne.jp
     * 748da21f-kuqpafku.cname.ebis.ne.jp
@@ -139,6 +142,7 @@
 | isebis.takamiclinic.or.jp | 2effafae-p5xsryk6.cname.ebis.ne.jp |
 | ebis01.zkai.co.jp | 2feef04e-wnxavwja.cname.ebis.ne.jp |
 | adebis-morijuku.morijuku.com | 30a5817d-lkhaegjw.cname.ebis.ne.jp |
+| cname-ade.hankoya.com | 31e48120-fbzwhcnp.cname.ebis.ne.jp |
 | adebis.report.clinic | 34213ab6-xnj2xrq7.cname.ebis.ne.jp |
 | adebis.tipness.co.jp | 359e2360-u9necda2.cname.ebis.ne.jp |
 | adebis.fenet.jp | 35e79adf-qjtkq0iz.cname.ebis.ne.jp |
@@ -154,6 +158,7 @@
 | adebis.theclinic.jp | 44f2417e-guakxgpf.cname.ebis.ne.jp |
 | tracking.nokai.jp | 454c6615-hd5f4dhg.cname.ebis.ne.jp |
 | cmass.massmedian.co.jp | 4625f83e-ua37naea.cname.ebis.ne.jp |
+| ebisstore.tamagokichi.com | 49bd8542-7sbpa3f6.cname.ebis.ne.jp |
 | cname.kyusai.co.jp | 4a5353c5-wrr2jzhu.cname.ebis.ne.jp |
 | ncc.nip-col.jp | 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp |
 | nadeshiko2019.kirei-nadeshiko.jp | 4dc90a8e-bagmsfc6.cname.ebis.ne.jp |
@@ -169,6 +174,7 @@
 | ad.aucfan.com | 63caa179-uynsk4n4.cname.ebis.ne.jp |
 | ebis.onamae.com | 64642ff0-29kvavam.cname.ebis.ne.jp |
 | ebis.studio-alice.co.jp | 65583296-u9rwf5hz.cname.ebis.ne.jp |
+| ebis.randstad.co.jp | 68d30b5c-gxw6vfjd.cname.ebis.ne.jp |
 | ebis.sekisuihouse.com | 728d5fcc-6hbgpszs.cname.ebis.ne.jp |
 | ebis.bulk.co.jp | 730fac49-ezdvkv2x.cname.ebis.ne.jp |
 | adebis.demae-can.com | 748da21f-kuqpafku.cname.ebis.ne.jp |

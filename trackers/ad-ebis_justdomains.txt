@@ -53,6 +53,7 @@ aesus.so-net.ne.jp
 axjfkc.kobayashi.co.jp
 bbbb.goace.jp
 cmass.massmedian.co.jp
+cname-ade.hankoya.com
 cname.crank-in.net
 cname.ebis.folio-sec.com
 cname.finess.jp
@@ -83,6 +84,7 @@ ebis.okasan-online.co.jp
 ebis.onamae.com
 ebis.pasonatech.co.jp
 ebis.rabo.cat
+ebis.randstad.co.jp
 ebis.rozetta.jp
 ebis.sbismile.co.jp
 ebis.seibu-k.co.jp
@@ -96,6 +98,7 @@ ebis2020.hoiku-job.net
 ebis202001.joyfit.jp
 ebisanalysis.mouse-jp.co.jp
 ebisfracora.fracora.com
+ebisstore.tamagokichi.com
 greenjapan-cname.green-japan.com
 isebis.takamiclinic.or.jp
 isebis.yutoriform.com

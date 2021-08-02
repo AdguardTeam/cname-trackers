@@ -39,11 +39,13 @@ a8clk.low-ya.com
 a8clk.manage.conoha.jp
 a8clk.osoujihonpo.com
 a8clk.petitjob.jp
+a8clk.point-land.net
 a8clk.rarejob.com
 a8clk.rental.geo-online.co.jp
 a8clk.reserve.retty.me
 a8clk.shop.sunsorit.co.jp
 a8clk.skima.jp
+a8clk.skynet-c.jp
 a8clk.teacon.jp
 a8clk.titivate.jp
 a8clk.www.cledepeau-beaute.com
@@ -76,6 +78,7 @@ a8cv.workman.jp
 a8cv.www.bedstyle.jp
 a8cv2.hoken-choice.com
 a8cventry.uqwimax.jp
+a8onlineshop.trendmicro.co.jp
 a8sup.chapup.jp
 a8trck.aisatsujo.jp
 a8trck.worldone.to

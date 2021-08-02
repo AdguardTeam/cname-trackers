@@ -10,6 +10,7 @@
 ||te.frankonia.de^
 ||te.heine.de^
 ||te.imwalking.de^
+||te.jelmoli-shop.ch^
 ||te.limango.de^
 ||te.mirapodo.de^
 ||te.mytoys.de^

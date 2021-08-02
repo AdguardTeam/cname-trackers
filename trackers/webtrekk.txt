@@ -93,6 +93,7 @@
 ||eht.endress.com^
 ||fiwinet.firmenwissen.com^
 ||fiwinet.firmenwissen.de^
+||mapp.ewm.co.uk^
 ||mapp.yesstyle.com^
 ||mit.db.com^
 ||mit.dws.com^
@@ -120,6 +121,7 @@
 ||scout.bergfreunde.dk^
 ||scout.bergfreunde.eu^
 ||scout.bergfreunde.nl^
+||scout.bergfreunde.se^
 ||spr.welt.de^
 ||startrekk.flaconi.at^
 ||startrekk.flaconi.pl^

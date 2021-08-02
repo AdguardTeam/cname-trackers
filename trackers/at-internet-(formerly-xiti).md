@@ -47,6 +47,7 @@
     * res-public-fr-cddc.at-o.net
     * ressources-caradisiac-com-cddc.at-o.net
     * ressources-centraleauto-com-cddc.at-o.net
+    * ressources-lacentrale-fr-cddc.at-o.net
     * ressources-mavoiturecash-fr-cddc.at-o.net
     * ressources-promoneuve-fr-cddc.at-o.net
     * rsc-lepoint-fr-cddc.at-o.net
@@ -118,6 +119,7 @@
 | res.public.fr | res-public-fr-cddc.at-o.net |
 | ressources.caradisiac.com | ressources-caradisiac-com-cddc.at-o.net |
 | ressources.centraleauto.com | ressources-centraleauto-com-cddc.at-o.net |
+| ressources.lacentrale.fr | ressources-lacentrale-fr-cddc.at-o.net |
 | ressources.mavoiturecash.fr | ressources-mavoiturecash-fr-cddc.at-o.net |
 | ressources.promoneuve.fr | ressources-promoneuve-fr-cddc.at-o.net |
 | rsc.lepoint.fr | rsc-lepoint-fr-cddc.at-o.net |

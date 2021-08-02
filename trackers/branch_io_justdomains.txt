@@ -166,7 +166,6 @@ alerts.steadyapp.com
 alinks.outcomes4me.com
 app-clicks.firstrepublic.com
 app.events.philips.com
-app.omio.com
 app.sephora.com
 applink.getbambu.com
 b.dl.redcrossblood.org
@@ -180,10 +179,12 @@ blinks.mindoktor.se
 bnc.autopass.xyz
 bpe.mlb.com
 bpeml.mlb.com
+br.ac.orbitz.com
 br.ac.travelocity.com
 br.backmarket.fr
 br.email.lifesum.com
 branch-consumer.hipages.com.au
+branch.carvana.com
 branch.chelseafc.com
 branch.email.livenation.com
 branch.pgatour-mail.com
@@ -306,9 +307,11 @@ link.automated.tajawal.com
 link.cdl.freshly.com
 link.cheerz.com
 link.creditonemail.com
+link.e.blog.myfitnesspal.com
 link.earnin.com
 link.email.almosafer.com
 link.email.bnext.es
+link.email.myfitnesspal.com
 link.email.ninetynine.com
 link.email.soothe.com
 link.email.tajawal.com
@@ -323,6 +326,8 @@ link.info.myfitnesspal.com
 link.kdkmoments.com
 link.loyalty.almosafer.com
 link.loyalty.tajawal.com
+link.lpm.surkus.com
+link.lpt.surkus.com
 link.mail.burgerking.ca
 link.mail.popsa.com
 link.marketing.churchomeglobal.org
@@ -331,6 +336,7 @@ link.mktg.tajawal.com
 link.moodagent.com
 link.mypostcard.com
 link.nbcadmin.com
+link.news.clearpay.co.uk
 link.news.goeuro.com
 link.notifications.busuu.app
 link.notifications.goodu.se
@@ -407,6 +413,7 @@ links.shoppers.instacartemail.com
 links.strava.com
 links.t.blueapron.com
 links.t.wine.com
+links.thedyrt.com
 links.theyes.com
 links.yummly.com
 links2.emails.verishop.com

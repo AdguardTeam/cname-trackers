@@ -4,6 +4,7 @@
 ! custom.plausible.io disguised trackers
 !
 ||a.aawp.de^
+||a.affcoups.com^
 ||a.artistasdigitais.net^
 ||a.fdmedia.io^
 ||a.getaawp.com^
@@ -32,7 +33,6 @@
 ||analytics.ramiyer.me^
 ||analytics.souazi.com^
 ||analytics.teamcovenant.com^
-||analytics.techdiary.dev^
 ||analytics.transmoni.vn^
 ||analytics.trust.page^
 ||analytics.valheimgamer.com^
@@ -60,6 +60,7 @@
 ||counter.subtitlebee.com^
 ||data.netweaver.uk^
 ||datum.appfleet.com^
+||dragon.moneycoach.io^
 ||eliteclng.ericksonbuilt.com^
 ||f8phvntohv.tpetry.me^
 ||gullfoss.deepsource.io^
@@ -79,6 +80,7 @@
 ||p.barrera.io^
 ||p.classroombookings.com^
 ||p.clvs7.com^
+||p.e-bot7.com^
 ||p.fairspot.host^
 ||p.ivoberger.com^
 ||p.versacommerce.de^
@@ -91,10 +93,12 @@
 ||ping.cavelab.dev^
 ||ping.richardtaylor.dev^
 ||pio.fabianfett.de^
+||piostats.gdcorner.com^
 ||pl.1feed.app^
 ||pl.astro.fi^
 ||pl.codetheweb.blog^
 ||pl.terraintinker.com^
+||pl.volunteeringauckland.org.nz^
 ||pl.volunteeringwaikato.org.nz^
 ||pla.wigglepixel.nl^
 ||plas.imfeld.dev^
@@ -146,10 +150,12 @@
 ||plausible.prod.sketch.com^
 ||plausible.promlabs.com^
 ||plausible.rachel.systems^
+||plausible.reactpreview.com^
 ||plausible.regex.help^
 ||plausible.resilienz-kongress.de^
 ||plausible.ruqqus.com^
 ||plausible.simplelogin.io^
+||plausible.simpleportfolio.app^
 ||plausible.slope.io^
 ||plausible.staging.sketch.com^
 ||plausible.starlegacyfoundation.org^
@@ -195,6 +201,7 @@
 ||stats.audiorelay.net^
 ||stats.avedictionary.com^
 ||stats.backprop.co^
+||stats.baptistwomen.com^
 ||stats.barriestephenhair.co.uk^
 ||stats.basecamp.com^
 ||stats.bcdtravel.com^
@@ -247,6 +254,7 @@
 ||stats.filmfed.com^
 ||stats.finger-ink.com^
 ||stats.flightsphere.com^
+||stats.frenlo.com^
 ||stats.fruechtl.me^
 ||stats.fundimmo.com^
 ||stats.geobox.app^
@@ -265,6 +273,7 @@
 ||stats.huysmanbouw.be^
 ||stats.igevia.com^
 ||stats.immunefi.com^
+||stats.infoboard.de^
 ||stats.innoq.com^
 ||stats.instabudget.app^
 ||stats.iscc-system.org^

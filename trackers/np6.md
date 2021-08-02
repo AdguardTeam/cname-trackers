@@ -54,6 +54,7 @@
 | tr.communaute.caradisiac.com | tracking.bp01.net |
 | tr.communautes-mediametrie.fr | tracking.bp01.net |
 | tr.communication-comptable.fr | tracking.bp01.net |
+| tr.communication.arthur-bonnet.com | tracking.bp01.net |
 | tr.communication.b2b-actualites.com | tracking.bp01.net |
 | tr.communication.boursorama.info | tracking.bp01.net |
 | tr.communication.cgaaer.fr | tracking.bp01.net |
@@ -67,6 +68,7 @@
 | tr.devis-companeo.com | tracking.bp01.net |
 | tr.devis-companeo.fr | tracking.bp01.net |
 | tr.devis-express.be | tracking.bp01.net |
+| tr.devis.digital | tracking.bp01.net |
 | tr.donateur.afm-telethon.fr | tracking.bp01.net |
 | tr.e-mail.axa.fr | tracking.bp01.net |
 | tr.e.entreprise-pm.net | tracking.bp01.net |
@@ -93,7 +95,9 @@
 | tr.europa-organisation.com | tracking.bp01.net |
 | tr.gestion.banque-casino.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
+| tr.gestion.cofinoga.fr | tracking.bp01.net |
 | tr.gestion.sygmabnpparibas-pf.com | tracking.bp01.net |
+| tr.group-hr.lvmh.fr | tracking.bp01.net |
 | tr.groupama-gne.fr | tracking.bp01.net |
 | tr.info.actionlogement.fr | tracking.bp01.net |
 | tr.info.aprr.fr | tracking.bp01.net |
@@ -112,6 +116,7 @@
 | tr.info.mobibam.com | tracking.bp01.net |
 | tr.info.promoneuve.fr | tracking.bp01.net |
 | tr.info.snpden.net | tracking.bp01.net |
+| tr.info.solidarm.fr | tracking.bp01.net |
 | tr.info.valcenis.com | tracking.bp01.net |
 | tr.infolettre.securite-routiere.gouv.fr | tracking.bp01.net |
 | tr.information.lacollection-airfrance.fr | tracking.bp01.net |
@@ -175,6 +180,7 @@
 | tr.newsletter.bouygues-construction.com | tracking.bp01.net |
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |
+| tr.newsletter.meilleurmobile.com | tracking.bp01.net |
 | tr.newsletter.younited-credit.com | tracking.bp01.net |
 | tr.newsletters.odalys-vacances.com | tracking.bp01.net |
 | tr.nl.2wls.net | tracking.bp01.net |
@@ -188,6 +194,7 @@
 | tr.notification.banque-revillon.fr | tracking.bp01.net |
 | tr.notification.cdiscount.com | tracking.bp01.net |
 | tr.notification.cetelem.fr | tracking.bp01.net |
+| tr.notification.credit-moderne.fr | tracking.bp01.net |
 | tr.notification.norrsken.fr | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |
 | tr.offres-professionnelles.fr | tracking.bp01.net |
@@ -220,6 +227,7 @@
 | tr.votrealarme.securitasdirect.fr | tracking.bp01.net |
 | tr.vous.hellobank.fr | tracking.bp01.net |
 | tr.welcome.easyvoyage.com | tracking.bp01.net |
+| tr.welcome.lexpress.fr | tracking.bp01.net |
 | tr1.citroen-ipsos.com | tracking.bp01.net |
 | tr1.mailperf.com | tracking.bp01.net |
 | trpreviews.bp01.net | tracking.bp01.net |

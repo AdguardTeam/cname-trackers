@@ -175,7 +175,6 @@
 | alinks.outcomes4me.com | thirdparty.bnc.lt |
 | app-clicks.firstrepublic.com | thirdparty.bnc.lt |
 | app.events.philips.com | thirdparty.bnc.lt |
-| app.omio.com | thirdparty.bnc.lt |
 | applink.getbambu.com | thirdparty.bnc.lt |
 | b.dl.redcrossblood.org | thirdparty.bnc.lt |
 | b.iheart.southwest.com | thirdparty.bnc.lt |
@@ -188,10 +187,12 @@
 | bnc.autopass.xyz | thirdparty.bnc.lt |
 | bpe.mlb.com | thirdparty.bnc.lt |
 | bpeml.mlb.com | thirdparty.bnc.lt |
+| br.ac.orbitz.com | thirdparty.bnc.lt |
 | br.ac.travelocity.com | thirdparty.bnc.lt |
 | br.backmarket.fr | thirdparty.bnc.lt |
 | br.email.lifesum.com | thirdparty.bnc.lt |
 | branch-consumer.hipages.com.au | thirdparty.bnc.lt |
+| branch.carvana.com | thirdparty.bnc.lt |
 | branch.chelseafc.com | thirdparty.bnc.lt |
 | branch.email.livenation.com | thirdparty.bnc.lt |
 | branch.pgatour-mail.com | thirdparty.bnc.lt |
@@ -313,9 +314,11 @@
 | link.cdl.freshly.com | thirdparty.bnc.lt |
 | link.cheerz.com | thirdparty.bnc.lt |
 | link.creditonemail.com | thirdparty.bnc.lt |
+| link.e.blog.myfitnesspal.com | thirdparty.bnc.lt |
 | link.earnin.com | thirdparty.bnc.lt |
 | link.email.almosafer.com | thirdparty.bnc.lt |
 | link.email.bnext.es | thirdparty.bnc.lt |
+| link.email.myfitnesspal.com | thirdparty.bnc.lt |
 | link.email.ninetynine.com | thirdparty.bnc.lt |
 | link.email.soothe.com | thirdparty.bnc.lt |
 | link.email.tajawal.com | thirdparty.bnc.lt |
@@ -330,6 +333,8 @@
 | link.kdkmoments.com | thirdparty.bnc.lt |
 | link.loyalty.almosafer.com | thirdparty.bnc.lt |
 | link.loyalty.tajawal.com | thirdparty.bnc.lt |
+| link.lpm.surkus.com | thirdparty.bnc.lt |
+| link.lpt.surkus.com | thirdparty.bnc.lt |
 | link.mail.burgerking.ca | thirdparty.bnc.lt |
 | link.mail.popsa.com | thirdparty.bnc.lt |
 | link.marketing.churchomeglobal.org | thirdparty.bnc.lt |
@@ -338,6 +343,7 @@
 | link.moodagent.com | thirdparty.bnc.lt |
 | link.mypostcard.com | thirdparty.bnc.lt |
 | link.nbcadmin.com | thirdparty.bnc.lt |
+| link.news.clearpay.co.uk | thirdparty.bnc.lt |
 | link.news.goeuro.com | thirdparty.bnc.lt |
 | link.notifications.busuu.app | thirdparty.bnc.lt |
 | link.notifications.goodu.se | thirdparty.bnc.lt |
@@ -414,6 +420,7 @@
 | links.strava.com | thirdparty.bnc.lt |
 | links.t.blueapron.com | thirdparty.bnc.lt |
 | links.t.wine.com | thirdparty.bnc.lt |
+| links.thedyrt.com | thirdparty.bnc.lt |
 | links.theyes.com | thirdparty.bnc.lt |
 | links.yummly.com | thirdparty.bnc.lt |
 | links2.emails.verishop.com | thirdparty.bnc.lt |

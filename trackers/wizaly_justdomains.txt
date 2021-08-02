@@ -9,6 +9,7 @@ tk.airfrance.at
 tk.airfrance.ca
 tk.airfrance.co.uk
 tk.airfrance.com
+tk.airfrance.de
 tk.airfrance.fr
 tk.airfrance.ga
 tk.airfrance.it

@@ -49,6 +49,7 @@ tr.com.sfr.fr
 tr.communaute.caradisiac.com
 tr.communautes-mediametrie.fr
 tr.communication-comptable.fr
+tr.communication.arthur-bonnet.com
 tr.communication.b2b-actualites.com
 tr.communication.boursorama.info
 tr.communication.cgaaer.fr
@@ -62,6 +63,7 @@ tr.courrier.sudouest.fr
 tr.devis-companeo.com
 tr.devis-companeo.fr
 tr.devis-express.be
+tr.devis.digital
 tr.donateur.afm-telethon.fr
 tr.e-mail.axa.fr
 tr.e.entreprise-pm.net
@@ -88,7 +90,9 @@ tr.envie-de-bien-manger.espmp-aufr.net
 tr.europa-organisation.com
 tr.gestion.banque-casino.fr
 tr.gestion.cetelem.fr
+tr.gestion.cofinoga.fr
 tr.gestion.sygmabnpparibas-pf.com
+tr.group-hr.lvmh.fr
 tr.groupama-gne.fr
 tr.info.actionlogement.fr
 tr.info.aprr.fr
@@ -107,6 +111,7 @@ tr.info.mdbp.fr
 tr.info.mobibam.com
 tr.info.promoneuve.fr
 tr.info.snpden.net
+tr.info.solidarm.fr
 tr.info.valcenis.com
 tr.infolettre.securite-routiere.gouv.fr
 tr.information.lacollection-airfrance.fr
@@ -170,6 +175,7 @@ tr.newsletter.assuragency.net
 tr.newsletter.bouygues-construction.com
 tr.newsletter.capdecision.fr
 tr.newsletter.location.boulanger.com
+tr.newsletter.meilleurmobile.com
 tr.newsletter.younited-credit.com
 tr.newsletters.odalys-vacances.com
 tr.nl.2wls.net
@@ -183,6 +189,7 @@ tr.notification-gdpr.sygmabybnpparibas-pf.com
 tr.notification.banque-revillon.fr
 tr.notification.cdiscount.com
 tr.notification.cetelem.fr
+tr.notification.credit-moderne.fr
 tr.notification.norrsken.fr
 tr.np6.com
 tr.offres-professionnelles.fr
@@ -215,6 +222,7 @@ tr.ville.bordeaux.fr
 tr.votrealarme.securitasdirect.fr
 tr.vous.hellobank.fr
 tr.welcome.easyvoyage.com
+tr.welcome.lexpress.fr
 tr1.citroen-ipsos.com
 tr1.mailperf.com
 trpreviews.bp01.net
