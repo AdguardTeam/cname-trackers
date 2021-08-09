@@ -323,6 +323,7 @@
 ||secure.wauk1care.com^
 ||secure.wild0army.com^
 ||secure.wivo2gaza.com^
+||secure.yama1hove.com^
 ||secure.yami8alea.com^
 ||secure.yeld9auto.com^
 ||secure.yirr5frog.com^
@@ -390,14 +391,18 @@
 ||www.game9time.com^
 ||www.gaza2lote.com^
 ||www.gbl007.com^
+||www.gblwebcen.com^
+||www.gift2pair.com^
 ||www.glb12pkgr.com^
 ||www.glb21pkgr.com^
 ||www.golp4elik.com^
+||www.grow1maid.com^
 ||www.gw100-10.com^
 ||www.half1hell.com^
 ||www.harm6stop.com^
 ||www.hero6bell.com^
 ||www.hiss3lark.com^
+||www.hrb1tng0.com^
 ||www.hunter-details.com^
 ||www.hvgcfx1.com^
 ||www.incline9edge.com^
@@ -427,6 +432,7 @@
 ||www.list1holp.com^
 ||www.lmknjb1.com^
 ||www.loom3otto.com^
+||www.lope4refl.com^
 ||www.m1ll1c4n0.com^
 ||www.mack7oyes.com^
 ||www.malm1coax.com^
@@ -443,6 +449,7 @@
 ||www.norm0care.com^
 ||www.nw-rail-03.com^
 ||www.ny79641.com^
+||www.ofnsv69.com^
 ||www.oita4bali.com^
 ||www.okc-5191.com^
 ||www.otto5loki.com^
@@ -450,6 +457,7 @@
 ||www.peep1alea.com^
 ||www.perk0mean.com^
 ||www.pkrchp001.com^
+||www.poor5zero.com^
 ||www.pri12mel.com^
 ||www.qetup12.com^
 ||www.qlzn6i1l.com^
@@ -458,6 +466,8 @@
 ||www.rep0pkgr.com^
 ||www.req12pkgb.com^
 ||www.rime8lope.com^
+||www.roar9beer.com^
+||www.rock5rice.com^
 ||www.rote8mino.com^
 ||www.s3network1.com^
 ||www.saas-eue-1.com^
@@ -480,6 +490,7 @@
 ||www.toru0vane.com^
 ||www.trackdiscovery.net^
 ||www.trail-viewer.com^
+||www.tray0bury.com^
 ||www.trksrv44.com^
 ||www.trksrv45.com^
 ||www.trksrv46.com^

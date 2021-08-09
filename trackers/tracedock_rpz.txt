@@ -1,0 +1,43 @@
+;
+; Company name: TraceDock
+;
+; a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com disguised trackers
+;
+2tty.overstappen.nl CNAME .
+bc.semwerkt.nl CNAME .
+cms.hardloopaanbiedingen.nl CNAME .
+ee.sightful.nl CNAME .
+en.johnhardy.com CNAME .
+s1.carnext.com CNAME .
+style.onvz.nl CNAME .
+;
+; a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com disguised trackers
+;
+; no domains found for a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
+;
+; a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com disguised trackers
+;
+api.bunzlaucastle.com CNAME .
+api.weltevree.eu CNAME .
+core.bruynzeelkeukens.nl CNAME .
+tdep.bunzlonline.nl CNAME .
+tdep.suncamp.be CNAME .
+tdep.suncamp.de CNAME .
+tdep.suncamp.nl CNAME .
+tdep.suncamp.pl CNAME .
+;
+; afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com disguised trackers
+;
+app1.maatwerkonline.nl CNAME .
+box.bossdata.be CNAME .
+erp.qwic.nl CNAME .
+host11.traffic-builders.com CNAME .
+s0.beyondonline.nl CNAME .
+s4.parkeren-amsterdam.com CNAME .
+s4.parkeren-haarlem.nl CNAME .
+s4.parkeren-utrecht.nl CNAME .
+tdep.growwwdigital.com CNAME .
+tdep.mijnurgentie.nl CNAME .
+tdep.sdim.nl CNAME .
+tdep.teamnijhuis.com CNAME .
+tdep.theofficeservice.com CNAME .

@@ -1,0 +1,38 @@
+;
+; Company name: Keyade
+;
+; k.keyade.com disguised trackers
+;
+clk.boulanger.com CNAME .
+k.campanile.com CNAME .
+k.cocooncenter.be CNAME .
+k.cocooncenter.co.uk CNAME .
+k.cocooncenter.com CNAME .
+k.cocooncenter.de CNAME .
+k.cocooncenter.es CNAME .
+k.comptoir.fr CNAME .
+k.direct-assurance.fr CNAME .
+k.fnacspectacles.com CNAME .
+k.jacadi.co.uk CNAME .
+k.jacadi.de CNAME .
+k.jacadi.es CNAME .
+k.jacadi.fr CNAME .
+k.jacadi.it CNAME .
+k.jacadi.us CNAME .
+k.laredoute.be CNAME .
+k.laredoute.es CNAME .
+k.laredoute.fr CNAME .
+k.laredoute.nl CNAME .
+k.laredoute.ru CNAME .
+k.nomade-aventure.com CNAME .
+k.premiereclasse.com CNAME .
+k.rueducommerce.fr CNAME .
+k.terdav.com CNAME .
+k.truffaut.com CNAME .
+k.veepee.fr CNAME .
+k.veepee.it CNAME .
+k.voyageursdumonde.fr CNAME .
+ka.ilius.net CNAME .
+keyade.alltricks.fr CNAME .
+tck.photobox.com CNAME .
+tck.transavia.com CNAME .

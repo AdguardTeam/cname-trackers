@@ -1,0 +1,40 @@
+;
+; Company name: Wizaly
+;
+; wizaly.com disguised trackers
+;
+tk.abt.com CNAME .
+tk.airfrance.ae CNAME .
+tk.airfrance.at CNAME .
+tk.airfrance.ca CNAME .
+tk.airfrance.co.uk CNAME .
+tk.airfrance.com CNAME .
+tk.airfrance.de CNAME .
+tk.airfrance.fr CNAME .
+tk.airfrance.ga CNAME .
+tk.airfrance.it CNAME .
+tk.airfrance.ru CNAME .
+tk.airfrance.tn CNAME .
+tk.airfrance.us CNAME .
+tk.biovea.com CNAME .
+tk.bricoprive.com CNAME .
+tk.conforama.fr CNAME .
+tk.dietbon.fr CNAME .
+tk.engie.fr CNAME .
+tk.healthwarehouse.com CNAME .
+tk.klm.com CNAME .
+tk.lcl.fr CNAME .
+tk.little-big-change.com CNAME .
+tk.lulli-sur-la-toile.com CNAME .
+tk.msccruises.com CNAME .
+tk.nhlottery.com CNAME .
+tk.ornikar.com CNAME .
+tk.planete-oui.fr CNAME .
+tk.prismashop.fr CNAME .
+tk.rentacar.fr CNAME .
+tk.salomon.com CNAME .
+tk.svsound.com CNAME .
+tk.transavia.com CNAME .
+tk.viapresse.com CNAME .
+twiz.wizaly.fr CNAME .
+wiz.ghostbed.com CNAME .

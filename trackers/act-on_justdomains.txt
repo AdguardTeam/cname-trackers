@@ -352,7 +352,6 @@ marketingautomation.impexium.net
 marketingus.hso.com
 mbhs.hrm.healthgrades.com
 mbna.bruker.com
-mediasolutions.netinsight.net
 mktg.lightspeed.com
 mktg.schlage.com
 moody.actonsoftware.com
@@ -380,10 +379,7 @@ trust.titanhq.com
 ugmarketing.smu.edu.sg
 www.bcaeurope.eu
 www.marketing.linguamatics.com
-www1.drwilsons.com
-www2.2ndgear.com
 www2.citizensclimatelobby.org
-www2.teracom.se
 yourupmcsusquehanna.hrm.healthgrades.com
 #
 # actonsoftware.com disguised trackers
@@ -1791,6 +1787,7 @@ meanwellaustralia.actonservice.com
 medhyg.actonservice.com
 media.pirtek.co.uk
 mediacy.actonservice.com
+mediasolutions.netinsight.net
 mediasource.actonservice.com
 medstarhealth.hrm.healthgrades.com
 membership.mortonarb.org
@@ -1969,8 +1966,11 @@ woodward.actonservice.com
 www.anritsu-apsr-response.com
 www.bcaeurope.eu
 www.wescam.info
+www1.drwilsons.com
+www2.2ndgear.com
 www2.bimobject.com
 www2.citizensclimatelobby.org
+www2.teracom.se
 yourhealth.bassett.org
 yourhealth.cooperhealth.org
 yourhealth.nwh.org

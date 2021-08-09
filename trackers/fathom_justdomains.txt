@@ -205,6 +205,7 @@ ape.nusii.com
 armadillo.gothiacup.se
 armadillo.stacking.club
 azlej8cdm.pragmaticwebsecurity.com
+baboon.alexmedick.com
 badger.pager.app
 badger.roidi.gr
 badger.vbvf.org
@@ -224,6 +225,7 @@ bison.mikeoliver.me
 bison.weitweit.at
 blackbird.docstation.co
 blackbird.westboroughcovidplan.com
+bluejay.postmediagroup.com
 bluejay.twelve70.com
 boa.brycewray.com
 boar.indieweb.org
@@ -243,15 +245,18 @@ canid.peterakkies.net
 canidae.introcrm.com
 capybara.bell0bytes.eu
 capybara.stefanguy.com
+cardinal.businessfirstonline.co.uk
 cardinal.iwgb.org.uk
 caribou.color.io
 caribou.landlordsguild.com
+carp.seniorsinjobs.com
 cat.1000things.at
 cat.acesandaros.org
 cat.gfx.io
 cat.laravel-news.com
 cat.mattr.global
 cat.pushworth.com
+cattle.ajyd.org.au
 cattle.apisyouwonthate.com
 cattle.kirkebaekke.dk
 cattle.kumo.at
@@ -270,6 +275,8 @@ chinchilla.68keys.io
 chinchilla.ubclaunchpad.com
 chipmunk.balancer.fi
 chipmunk.crestedbuttejobs.com
+clam.figmachina.com
+clownfish.philipkiely.com
 cobra.didhost.pl
 cod.onemanandhisblog.com
 coral.doublefine.com
@@ -280,11 +287,14 @@ coyote.titlerun.xyz
 crane.trescolori.cloud
 crawdad.internetassociation.org
 crayfish.fansubbing.com
+crayfish.thingelstad.com
 cuckoo.minaexplorer.com
 cuckoo.peoplefirstjobs.com
 dakqbwpduu.coywolf.io
 deer.ray.io
+dog.freddyheppell.com
 dog.orbit.love
+dolphin.brandname.tech
 dolphin.maybe.co
 donkey.bahr.dev
 donkey.routinehub.co
@@ -309,6 +319,7 @@ ferret.helpspace.com
 ferret.linksoftwarellc.com
 ferret.siloam.ch
 finch.koronasporing.no
+fish.muted.io
 fish.whitney.org
 flyingfish.jak-zrobic-strone.pl
 fowl.saulhardman.com
@@ -322,6 +333,7 @@ gecko.withclarify.com
 gerbil.buf.build
 gibbon.ehubhealth.com
 giraffe.0xtracker.com
+giraffe.fnd.info
 giraffe.southsidekitchen.com
 goat.aicontentdojo.com
 goat.codeofar.ms
@@ -338,10 +350,12 @@ guineapig.recap.io
 gull.technikempfehlung.de
 guppy.estimate.taxi
 guppy.setasign.com
+haddock.affilimate.com
 halibut.ozspeedtest.com
 hawk.makroskop.eu
 hedgehog.fightforthefuture.org
 hedgehog.impira.com
+heron.cleanenergyproject.tw
 heron.notability.com
 horse.deadmanssnitch.com
 horse.ohseemedia.com
@@ -356,6 +370,7 @@ ijderu.tr.af
 impala.vnv.nl
 jackal.goldsteinmedia.com
 jackal.laravelpackage.com
+jaguar.thankbox.com
 jay.andycroll.com
 kangaroo.covidtracking.com
 kaxlfq.testingwithtestcafe.com
@@ -414,6 +429,7 @@ otter.gpu.stream
 owl.boatingscout.com
 owl.gregwolanski.com
 panther.activelink.ie
+panther.codyhatfield.me
 panther.datocms.com
 panther.hoprnet.org
 panther.pit-pit.com
@@ -421,6 +437,7 @@ panther.thestocks.im
 parrot.binarymoon.co.uk
 parrot.matcha.xyz
 parrotfish.wilderworld.com
+pelican.jatikhwan.com
 pelican.protomaps.com
 penguin.craftpeak.io
 perch.searchwp.com
@@ -477,6 +494,7 @@ stingray.cryptovoxels.com
 stoat.death-to-ie11.com
 stork.notlessbutbetter.com
 sturgeon.petjeaf.net
+swallow.pelias.io
 swift.vanuitjehuis.nl
 swordfish.hotcross.com
 swordfish.joebuhlig.com
@@ -503,6 +521,7 @@ viper.sitesauce.app
 vole.contemporaryartlibrary.org
 vole.noteapps.info
 wallaby.cron.help
+wallaby.short1.link
 wasp.frenchtogether.com
 waterboa.midu.dev
 weasel.vvys.me

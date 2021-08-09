@@ -295,7 +295,6 @@
 | stats.jerickson.net | custom.plausible.io |
 | stats.joincomet.app | custom.plausible.io |
 | stats.kensho.com | custom.plausible.io |
-| stats.keygen.sh | custom.plausible.io |
 | stats.keyscore.me | custom.plausible.io |
 | stats.kod.ru | custom.plausible.io |
 | stats.kongressen.com | custom.plausible.io |
