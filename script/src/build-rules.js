@@ -47,7 +47,7 @@ const buildRulesByType = (trackersData, type) => {
 
     /* Ensure there is a newline at the end of RPZ files. */
     if (type === CONST_DATA.RPZ.type) {
-        rulesChunks.length++;
+        rulesChunks.length += 1;
     }
 
     const baseRulesString = rulesChunks.join('\n');
