@@ -5,6 +5,7 @@ const {
     INFO_FILE_EXTENSION,
     COMBINED_JSON_FILE_NAME,
     HOSTS_RULES_FILE_NAME_ENDING,
+    RPZ_RULES_FILE_NAME_ENDING,
     CONST_DATA,
 } = require('./constants');
 const { formatFilename } = require('./helpers');
@@ -46,7 +47,7 @@ const updateCombined = async () => {
         originalTrackersCombinedChunks.join('\n'),
     );
 
-    // update base and hosts rules combined files
+    // update base, hosts and rpz rules combined files
     const companyFileNames = originalTrackers
         .map(({ company_name: companyName }) => formatFilename(companyName));
 
@@ -58,12 +59,19 @@ const updateCombined = async () => {
         const hostsFileName = `${rawFileName}${HOSTS_RULES_FILE_NAME_ENDING}.${RULES_FILE_EXTENSION}`;
         return hostsFileName;
     });
+    const rpzRulesFileNames = companyFileNames.map((rawFileName) => {
+        const rpzFileName = `${rawFileName}${RPZ_RULES_FILE_NAME_ENDING}.${RULES_FILE_EXTENSION}`;
+        return rpzFileName;
+    });
 
     const baseCombinedStr = await combineFiles(
         baseRulesFileNames, CONST_DATA.BASE.combinedHeader,
     );
     const hostsCombinedStr = await combineFiles(
         hostsRulesFileNames, CONST_DATA.HOSTS.combinedHeader,
+    );
+    const rpzCombinedStr = await combineFiles(
+        rpzRulesFileNames, CONST_DATA.RPZ.combinedHeader,
     );
 
     await fs.writeFile(
@@ -73,6 +81,10 @@ const updateCombined = async () => {
     await fs.writeFile(
         path.resolve(__dirname, ROOT_DIR_PATH, CONST_DATA.HOSTS.combinedFileName),
         hostsCombinedStr,
+    );
+    await fs.writeFile(
+        path.resolve(__dirname, ROOT_DIR_PATH, CONST_DATA.RPZ.combinedFileName),
+        rpzCombinedStr,
     );
 
     // update combined_disguise_trackers.json
