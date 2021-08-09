@@ -8,6 +8,7 @@
     * 055b1f86-ycxd4a4u.cname.ebis.ne.jp
     * 06fb9eec-clhowtg1.cname.ebis.ne.jp
     * 07d020a3-crscrcp3.cname.ebis.ne.jp
+    * 099c079b-vmcsnsvr.cname.ebis.ne.jp
     * 0cd5dd46-3fyehbqu.cname.ebis.ne.jp
     * 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp
     * 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp
@@ -17,6 +18,7 @@
     * 17a0a051-yhrqdvjf.cname.ebis.ne.jp
     * 18aeb18f-orvgub9g.cname.ebis.ne.jp
     * 23d55728-ssmshbez.cname.ebis.ne.jp
+    * 26349a15-esqb2ypb.cname.ebis.ne.jp
     * 272dd850-1tkscuog.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
     * 2c9c5766-qkdlymcx.cname.ebis.ne.jp
@@ -73,6 +75,7 @@
     * 8f087789-nkcrsmeh.cname.ebis.ne.jp
     * 95e65062-vpau4sdp.cname.ebis.ne.jp
     * 95e65062-y5awr3vc.cname.ebis.ne.jp
+    * 98d6d446-llbfadyx.cname.ebis.ne.jp
     * 99ebdab6-bagmsfc6.cname.ebis.ne.jp
     * 9fc5109a-rgq6b9zp.cname.ebis.ne.jp
     * a0c6f4cd-wqcfddrl.cname.ebis.ne.jp
@@ -126,6 +129,7 @@
 | ad.takasu.co.jp | 055b1f86-ycxd4a4u.cname.ebis.ne.jp |
 | adebis.tohshin.co.jp | 06fb9eec-clhowtg1.cname.ebis.ne.jp |
 | adebis.livable.co.jp | 07d020a3-crscrcp3.cname.ebis.ne.jp |
+| adebis-saimu.vbest.jp | 099c079b-vmcsnsvr.cname.ebis.ne.jp |
 | adebiscname.auone.jp | 0cd5dd46-3fyehbqu.cname.ebis.ne.jp |
 | ad-ebis.bookpass.auone.jp | 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp |
 | ebis-cname.mirai-japan.co.jp | 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp |
@@ -135,6 +139,7 @@
 | ebis.nomu-silica.jp | 17a0a051-yhrqdvjf.cname.ebis.ne.jp |
 | ebis.rozetta.jp | 18aeb18f-orvgub9g.cname.ebis.ne.jp |
 | ebis.c-3-esthe.com | 23d55728-ssmshbez.cname.ebis.ne.jp |
+| ebis.smakon.jp | 26349a15-esqb2ypb.cname.ebis.ne.jp |
 | ad-ebis.mynavi-job20s.jp | 272dd850-1tkscuog.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
 | ebis.codecamp.jp | 2c9c5766-qkdlymcx.cname.ebis.ne.jp |
@@ -191,6 +196,7 @@
 | cname.finess.jp | 8f087789-nkcrsmeh.cname.ebis.ne.jp |
 | adebis.juku.st | 95e65062-vpau4sdp.cname.ebis.ne.jp |
 | adebis02.juku.st | 95e65062-y5awr3vc.cname.ebis.ne.jp |
+| ebiscname.j-esthe.com | 98d6d446-llbfadyx.cname.ebis.ne.jp |
 | proteinhikaku2019.proteinhikaku.com | 99ebdab6-bagmsfc6.cname.ebis.ne.jp |
 | y8hxgv9m.kobetsu.co.jp | 9fc5109a-rgq6b9zp.cname.ebis.ne.jp |
 | ebis.hokensoudannavi.jp | a0c6f4cd-wqcfddrl.cname.ebis.ne.jp |

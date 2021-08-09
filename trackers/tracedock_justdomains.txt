@@ -25,15 +25,6 @@ tdep.suncamp.be
 tdep.suncamp.de
 tdep.suncamp.nl
 tdep.suncamp.pl
-tdep.vacansoleil.be
-tdep.vacansoleil.co.uk
-tdep.vacansoleil.de
-tdep.vacansoleil.dk
-tdep.vacansoleil.fr
-tdep.vacansoleil.hu
-tdep.vacansoleil.it
-tdep.vacansoleil.nl
-tdep.vacansoleil.pl
 #
 # afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com disguised trackers
 #

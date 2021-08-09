@@ -95,6 +95,7 @@
 ||tr.group-hr.lvmh.fr^
 ||tr.groupama-gne.fr^
 ||tr.info.actionlogement.fr^
+||tr.info.ag2rlamondiale.fr^
 ||tr.info.aprr.fr^
 ||tr.info.arialcnp.fr^
 ||tr.info.capfun.com^
@@ -203,6 +204,7 @@
 ||tr.portail.afpa.fr^
 ||tr.pro.odalys-vacances.com^
 ||tr.ra.cofinoga.fr^
+||tr.read.glose.com^
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^
 ||tr.route-solutiondata.fr^
@@ -217,6 +219,7 @@
 ||tr.smtp1.email-mediapost.fr^
 ||tr.souscription.floa.fr^
 ||tr.toner-service.fr^
+||tr.toner-services.fr^
 ||tr.uk.icicibank.com^
 ||tr.ville.bordeaux.fr^
 ||tr.votrealarme.securitasdirect.fr^

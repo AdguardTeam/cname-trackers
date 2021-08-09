@@ -93,7 +93,6 @@
     * de-card01.wt-eu02.net
     * di.ifolor.wt-eu02.net
     * emp01.wt-eu02.net
-    * enbw-02.wt-eu02.net
     * endresshauser01.wt-eu02.net
     * flaconi-at.wt-eu02.net
     * gedidigital.wt-eu02.net
@@ -228,7 +227,6 @@
 | ed.emp.ie | emp01.wt-eu02.net |
 | ed.large.be | emp01.wt-eu02.net |
 | ed.large.nl | emp01.wt-eu02.net |
-| t.enbw.com | enbw-02.wt-eu02.net |
 | eht.endress.com | endresshauser01.wt-eu02.net |
 | startrekk.flaconi.at | flaconi-at.wt-eu02.net |
 | startrekk.flaconi.de | flaconi02.webtrekk.net |
@@ -313,5 +311,4 @@
 | wttd.douglas.it | wttd-douglas.wt-eu02.net |
 | wttd.douglas.nl | wttd-douglas.wt-eu02.net |
 | wttd.douglas.pl | wttd-douglas.wt-eu02.net |
-| track.yello.de | yello-de01.webtrekk.net |
 | track.yellostrom.de | yello-de01.webtrekk.net |

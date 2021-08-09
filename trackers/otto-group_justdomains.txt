@@ -7,6 +7,7 @@ te.ackermann.ch
 te.ambria.de
 te.baur.de
 te.creation-l.de
+te.frankonia.com
 te.frankonia.de
 te.heine.de
 te.imwalking.de

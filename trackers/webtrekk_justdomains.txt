@@ -15,7 +15,6 @@ spr.bild.de
 startrekk.flaconi.de
 sub1.cosmosdirekt.de
 text.mitarbeiterangebote.de
-track.yello.de
 track.yellostrom.de
 tracking.tchibo.com.tr
 tracking.tchibo.de
@@ -125,7 +124,6 @@ scout.bergfreunde.se
 spr.welt.de
 startrekk.flaconi.at
 startrekk.flaconi.pl
-t.enbw.com
 t.paydirekt.de
 text.benefitsatwork.be
 text.benefitsatwork.ch

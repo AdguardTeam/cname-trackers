@@ -25,6 +25,7 @@
 ||analytics.filiotech.com^
 ||analytics.hiome.com^
 ||analytics.itsnoahevans.co.uk^
+||analytics.lapiazzetta-horsham.com^
 ||analytics.lunge.de^
 ||analytics.mambaui.com^
 ||analytics.mhpod.gov.au^
@@ -69,6 +70,7 @@
 ||hi.victorbaudot.com^
 ||hurricane.tinybird.co^
 ||informatics.filamentcolors.xyz^
+||insights.affilimate.com^
 ||insights.frenchtogether.com^
 ||iwonttrackyou.xn--gckvb8fzb.com^
 ||ks.walkq.com^
@@ -102,6 +104,7 @@
 ||pl.volunteeringwaikato.org.nz^
 ||pla.wigglepixel.nl^
 ||plas.imfeld.dev^
+||plau.devitjobs.uk^
 ||plau.devjob.ro^
 ||plau.germantechjobs.de^
 ||plau.hiringnearme.jobs^
@@ -211,6 +214,7 @@
 ||stats.bholmes.dev^
 ||stats.biblionumericus.fr^
 ||stats.bitpost.app^
+||stats.blockleviton.com^
 ||stats.blog.sean-wright.com^
 ||stats.bluesabre.org^
 ||stats.breadtube.tv^
@@ -221,6 +225,7 @@
 ||stats.carrot2.org^
 ||stats.carrotsearch.com^
 ||stats.cassidyjames.com^
+||stats.catholicluv.com^
 ||stats.changelog.com^
 ||stats.chapterist.show^
 ||stats.console.dev^
@@ -251,6 +256,8 @@
 ||stats.englishadam.com^
 ||stats.ericgregorich.com^
 ||stats.fabiofranchino.com^
+||stats.felipesere.com^
+||stats.femtobill.com^
 ||stats.filmfed.com^
 ||stats.finger-ink.com^
 ||stats.flightsphere.com^
@@ -276,6 +283,7 @@
 ||stats.infoboard.de^
 ||stats.innoq.com^
 ||stats.instabudget.app^
+||stats.interactjs.io^
 ||stats.iscc-system.org^
 ||stats.jackwhiting.co.uk^
 ||stats.jdheyburn.co.uk^
@@ -312,6 +320,7 @@
 ||stats.nctm.org^
 ||stats.nddmed.com^
 ||stats.nicklafferty.com^
+||stats.nicolaskempf.fr^
 ||stats.nodehub.io^
 ||stats.nonprofit.foundation^
 ||stats.nothingbutnylon.com^
@@ -322,6 +331,7 @@
 ||stats.ortussolutions.com^
 ||stats.oursky.com^
 ||stats.oxygem.com^
+||stats.pandasnap.io^
 ||stats.parqet.com^
 ||stats.pasteapp.io^
 ||stats.patout.dev^
@@ -350,12 +360,14 @@
 ||stats.ruhrfestspiele.de^
 ||stats.ruthmontenegro.com^
 ||stats.scalgo.com^
+||stats.screenwavemedia.com^
 ||stats.share.link^
 ||stats.shareup.app^
 ||stats.shell-tips.com^
 ||stats.shepherd.com^
 ||stats.shoutout.so^
 ||stats.sirdata.com^
+||stats.social-webwork.at^
 ||stats.sommselect.com^
 ||stats.songbox.rocks^
 ||stats.southpetherwin.com^
@@ -368,7 +380,6 @@
 ||stats.sublimesecurity.com^
 ||stats.svenadolph.net^
 ||stats.thelion.website^
-||stats.themakoreactor.com^
 ||stats.therenegadecoder.com^
 ||stats.thomasvitale.com^
 ||stats.toiletmap.org.uk^

@@ -26,15 +26,6 @@
 | tdep.suncamp.de | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | tdep.suncamp.nl | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | tdep.suncamp.pl | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
-| tdep.vacansoleil.be | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
-| tdep.vacansoleil.co.uk | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
-| tdep.vacansoleil.de | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
-| tdep.vacansoleil.dk | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
-| tdep.vacansoleil.fr | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
-| tdep.vacansoleil.hu | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
-| tdep.vacansoleil.it | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
-| tdep.vacansoleil.nl | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
-| tdep.vacansoleil.pl | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | app1.maatwerkonline.nl | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |
 | box.bossdata.be | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |
 | erp.qwic.nl | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |

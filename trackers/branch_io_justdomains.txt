@@ -27,6 +27,7 @@
 9735476.test.skyscanner.net
 9857064.hello.spriggy.com.au
 9857064.notice.spriggy.com.au
+a.hibbett.com
 ablink.1954.bk.com
 ablink.a.radio.com
 ablink.account.debut.careers
@@ -164,6 +165,7 @@ abtest.redmart.com
 activation.depop.com
 alerts.steadyapp.com
 alinks.outcomes4me.com
+ap.hibbett.com
 app-clicks.firstrepublic.com
 app.events.philips.com
 app.sephora.com
@@ -184,6 +186,7 @@ br.ac.travelocity.com
 br.backmarket.fr
 br.email.lifesum.com
 branch-consumer.hipages.com.au
+branch-tradie.hipages.com.au
 branch.carvana.com
 branch.chelseafc.com
 branch.email.livenation.com
@@ -254,6 +257,7 @@ e.synchronybank.com
 em.getsimpleprints.com
 em.touchtunes.com
 email-link.mg.surkus.com
+email-sailthru.branch.io
 email-sendgrid-deep-linking.chewy.com
 email-staging.goodrx.com
 email-test.wirexapp.com
@@ -274,6 +278,7 @@ email.strava.com
 email.thislife.com
 email.wirexapp.com
 email1.strava.com
+emails.verishop.com
 fleet-eml.postmates.com
 go.emails.discoveryplus.com
 go.heybianca.co
@@ -462,6 +467,7 @@ trk.m1.stadiumgoods.com
 trk.s.sephora.com
 trklink.luisaviaroma.com
 url1015.abtest.em.redmart.com
+url1020.keycollectorcomics.com
 url1451.careerkarma.info
 url3630.newsletter.experience-muse.com
 url7542.fluz.app
