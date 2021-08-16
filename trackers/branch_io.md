@@ -10,6 +10,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | app.sephora.com | epsilon.thirdparty.bnc.lt |
+| clicked.ebates.com | epsilon.thirdparty.bnc.lt |
 | e.synchronybank.com | epsilon.thirdparty.bnc.lt |
 | sephora-qa.branchstaging.com | epsilon.thirdparty.bnc.lt |
 | 19035924.automated.almosafer.com | thirdparty.bnc.lt |
@@ -159,6 +160,7 @@
 | ablinks.e.foxsports.com.au | thirdparty.bnc.lt |
 | ablinks.info.amaro.com | thirdparty.bnc.lt |
 | ablinks.kfc.com.au | thirdparty.bnc.lt |
+| ablinks.m.draft.com | thirdparty.bnc.lt |
 | ablinks.mail.claritymoney.com | thirdparty.bnc.lt |
 | ablinks.mail.hinge.co | thirdparty.bnc.lt |
 | ablinks.marketing.numi.com | thirdparty.bnc.lt |
@@ -421,6 +423,7 @@
 | links.openfit.com | thirdparty.bnc.lt |
 | links.orders.kfc.com | thirdparty.bnc.lt |
 | links.playon.tv | thirdparty.bnc.lt |
+| links.sheroes.in | thirdparty.bnc.lt |
 | links.shoppers.instacartemail.com | thirdparty.bnc.lt |
 | links.strava.com | thirdparty.bnc.lt |
 | links.t.blueapron.com | thirdparty.bnc.lt |
@@ -440,7 +443,6 @@
 | pint-dev-branch.airship.com | thirdparty.bnc.lt |
 | qbse.intuit.com | thirdparty.bnc.lt |
 | read.medium.com | thirdparty.bnc.lt |
-| redirectmail.majelan.com | thirdparty.bnc.lt |
 | sendgridlinks.neuroflowsolution.com | thirdparty.bnc.lt |
 | sg3.notarize.com | thirdparty.bnc.lt |
 | shoppers-test.instacartemail.com | thirdparty.bnc.lt |

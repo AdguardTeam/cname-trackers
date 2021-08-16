@@ -150,6 +150,7 @@ ablinks.e.draft.com CNAME .
 ablinks.e.foxsports.com.au CNAME .
 ablinks.info.amaro.com CNAME .
 ablinks.kfc.com.au CNAME .
+ablinks.m.draft.com CNAME .
 ablinks.mail.claritymoney.com CNAME .
 ablinks.mail.hinge.co CNAME .
 ablinks.marketing.numi.com CNAME .
@@ -226,6 +227,7 @@ click1.e.radio.com CNAME .
 click1.e.thechive.com CNAME .
 click1.mail.paltalkpeople.com CNAME .
 click2.email.ticketmaster.com CNAME .
+clicked.ebates.com CNAME .
 clickmail.stubhub.com CNAME .
 clicks-test.info.theiconic.com.au CNAME .
 clicks.6thstreet.com CNAME .
@@ -414,6 +416,7 @@ links.ohhey.depop.com CNAME .
 links.openfit.com CNAME .
 links.orders.kfc.com CNAME .
 links.playon.tv CNAME .
+links.sheroes.in CNAME .
 links.shoppers.instacartemail.com CNAME .
 links.strava.com CNAME .
 links.t.blueapron.com CNAME .
@@ -433,7 +436,6 @@ notify.pray.com CNAME .
 pint-dev-branch.airship.com CNAME .
 qbse.intuit.com CNAME .
 read.medium.com CNAME .
-redirectmail.majelan.com CNAME .
 sendgridlinks.neuroflowsolution.com CNAME .
 sephora-qa.branchstaging.com CNAME .
 sg3.notarize.com CNAME .

@@ -33,6 +33,7 @@ a8clk.cv.mensfashion.cc CNAME .
 a8clk.dospara.co.jp CNAME .
 a8clk.hurugicom.jp CNAME .
 a8clk.justy-consul.com CNAME .
+a8clk.kaitori-retrog.jp CNAME .
 a8clk.kenkoukazoku.co.jp CNAME .
 a8clk.life.bang.co.jp CNAME .
 a8clk.low-ya.com CNAME .
@@ -76,6 +77,7 @@ a8cv.try-fs.com CNAME .
 a8cv.unito.life CNAME .
 a8cv.workman.jp CNAME .
 a8cv.www.bedstyle.jp CNAME .
+a8cv.you-shoku.net CNAME .
 a8cv2.hoken-choice.com CNAME .
 a8cventry.uqwimax.jp CNAME .
 a8onlineshop.trendmicro.co.jp CNAME .

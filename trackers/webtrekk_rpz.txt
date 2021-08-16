@@ -15,6 +15,7 @@ spr.bild.de CNAME .
 startrekk.flaconi.de CNAME .
 sub1.cosmosdirekt.de CNAME .
 text.mitarbeiterangebote.de CNAME .
+track.emeza.com CNAME .
 track.yellostrom.de CNAME .
 tracking.tchibo.com.tr CNAME .
 tracking.tchibo.de CNAME .

@@ -33,6 +33,7 @@
 ||a8clk.dospara.co.jp^
 ||a8clk.hurugicom.jp^
 ||a8clk.justy-consul.com^
+||a8clk.kaitori-retrog.jp^
 ||a8clk.kenkoukazoku.co.jp^
 ||a8clk.life.bang.co.jp^
 ||a8clk.low-ya.com^
@@ -76,6 +77,7 @@
 ||a8cv.unito.life^
 ||a8cv.workman.jp^
 ||a8cv.www.bedstyle.jp^
+||a8cv.you-shoku.net^
 ||a8cv2.hoken-choice.com^
 ||a8cventry.uqwimax.jp^
 ||a8onlineshop.trendmicro.co.jp^

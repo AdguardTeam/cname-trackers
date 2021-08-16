@@ -150,6 +150,7 @@ ablinks.e.draft.com
 ablinks.e.foxsports.com.au
 ablinks.info.amaro.com
 ablinks.kfc.com.au
+ablinks.m.draft.com
 ablinks.mail.claritymoney.com
 ablinks.mail.hinge.co
 ablinks.marketing.numi.com
@@ -226,6 +227,7 @@ click1.e.radio.com
 click1.e.thechive.com
 click1.mail.paltalkpeople.com
 click2.email.ticketmaster.com
+clicked.ebates.com
 clickmail.stubhub.com
 clicks-test.info.theiconic.com.au
 clicks.6thstreet.com
@@ -414,6 +416,7 @@ links.ohhey.depop.com
 links.openfit.com
 links.orders.kfc.com
 links.playon.tv
+links.sheroes.in
 links.shoppers.instacartemail.com
 links.strava.com
 links.t.blueapron.com
@@ -433,7 +436,6 @@ notify.pray.com
 pint-dev-branch.airship.com
 qbse.intuit.com
 read.medium.com
-redirectmail.majelan.com
 sendgridlinks.neuroflowsolution.com
 sephora-qa.branchstaging.com
 sg3.notarize.com

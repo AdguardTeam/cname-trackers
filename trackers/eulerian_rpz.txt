@@ -23,14 +23,12 @@ anz7.allianz-voyage.fr CNAME .
 ar.i-run.fr CNAME .
 aze0.dmp.leclerc CNAME .
 azg1.emalu-store.com CNAME .
-b1n.carabins.umontreal.ca CNAME .
 b6ft.zone-turf.fr CNAME .
 bhu9.bankia.es CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
 ch0p.darty.com CNAME .
@@ -96,6 +94,7 @@ ea.officedepot.fr CNAME .
 ea.placedestendances.com CNAME .
 ea.poeleaboismaison.com CNAME .
 ea.quiksilver.eu CNAME .
+ea.radiateurplus.com CNAME .
 ea.rentacar.fr CNAME .
 ea.reunica.com CNAME .
 ea.roxy.eu CNAME .
@@ -197,7 +196,6 @@ ls.e-cartecadeauleclerc.fr CNAME .
 lsv5.belambra.fr CNAME .
 ly8c.caci-online.fr CNAME .
 lzuc.sfr.fr CNAME .
-m10.m1029.com CNAME .
 m3ds.subarumetropolitain.com CNAME .
 mfd.myfirstdressing.com CNAME .
 mgt7.madeindesign.it CNAME .
@@ -224,7 +222,6 @@ nlf6.vente-unique.pl CNAME .
 nmo1.orpi.com CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
-nym5c.bonlook.com CNAME .
 nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
@@ -293,7 +290,6 @@ t.locasun.fr CNAME .
 t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.voyages-sncf.com CNAME .
-t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tce0.primes-energie.leclerc CNAME .
@@ -321,7 +317,6 @@ vch.voyage-prive.ch CNAME .
 vde1.voyage-prive.de CNAME .
 vet0.carrefour-banque.fr CNAME .
 vfo.voyage-prive.co.uk CNAME .
-vgo.vegaoo.co.uk CNAME .
 vgo.vegaoo.de CNAME .
 vgo.vegaoo.es CNAME .
 vgo.vegaoo.it CNAME .
@@ -336,6 +331,7 @@ vqp3.madeindesign.co.uk CNAME .
 vry9.destinia.com CNAME .
 vtf2f.banque-casino.fr CNAME .
 wdr9.inseec.com CNAME .
+wfd7.carventura.com CNAME .
 why3.inseec.education CNAME .
 wph2.destinia.us CNAME .
 xay5o.toscane-boutique.fr CNAME .

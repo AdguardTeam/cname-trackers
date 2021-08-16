@@ -39,6 +39,7 @@
 | a8clk.dospara.co.jp | trck.a8.net |
 | a8clk.hurugicom.jp | trck.a8.net |
 | a8clk.justy-consul.com | trck.a8.net |
+| a8clk.kaitori-retrog.jp | trck.a8.net |
 | a8clk.kenkoukazoku.co.jp | trck.a8.net |
 | a8clk.life.bang.co.jp | trck.a8.net |
 | a8clk.low-ya.com | trck.a8.net |
@@ -82,6 +83,7 @@
 | a8cv.unito.life | trck.a8.net |
 | a8cv.workman.jp | trck.a8.net |
 | a8cv.www.bedstyle.jp | trck.a8.net |
+| a8cv.you-shoku.net | trck.a8.net |
 | a8cv2.hoken-choice.com | trck.a8.net |
 | a8cventry.uqwimax.jp | trck.a8.net |
 | a8onlineshop.trendmicro.co.jp | trck.a8.net |

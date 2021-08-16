@@ -9,6 +9,7 @@
     * cbm02.webtrekk.net
     * cosmos01ssl.webtrekk.net
     * eads-com01.webtrekk.net
+    * emeza-com01.webtrekk.net
     * flaconi02.webtrekk.net
     * flatex-at01.webtrekk.net
     * flatex-de01.webtrekk.net
@@ -209,6 +210,7 @@
 | di.ifolor.ch | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
 | pix.eads.com | eads-com01.webtrekk.net |
+| track.emeza.com | emeza-com01.webtrekk.net |
 | ed.emp-online.ch | emp01.wt-eu02.net |
 | ed.emp-online.com | emp01.wt-eu02.net |
 | ed.emp-online.es | emp01.wt-eu02.net |

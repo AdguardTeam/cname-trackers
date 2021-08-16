@@ -20,7 +20,6 @@ adebis-52667624.wowma.jp CNAME .
 adebis-morijuku.morijuku.com CNAME .
 adebis-saimu.vbest.jp CNAME .
 adebis.angfa-store.jp CNAME .
-adebis.cybozu.co.jp CNAME .
 adebis.daiwahouse.co.jp CNAME .
 adebis.demae-can.com CNAME .
 adebis.fenet.jp CNAME .
@@ -53,12 +52,15 @@ adpromo.peppynet.com CNAME .
 aesus.so-net.ne.jp CNAME .
 axjfkc.kobayashi.co.jp CNAME .
 bbbb.goace.jp CNAME .
+beeline.beeline-tire.co.jp CNAME .
+belegend2019.belegend.jp CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.hankoya.com CNAME .
 cname.crank-in.net CNAME .
 cname.ebis.folio-sec.com CNAME .
 cname.finess.jp CNAME .
 cname.jaic-college.jp CNAME .
+cname.jf-d.jp CNAME .
 cname.kyusai.co.jp CNAME .
 cname.mebiusseiyaku.co.jp CNAME .
 cname1.shakenkan.co.jp CNAME .
@@ -115,6 +117,7 @@ proteinhikaku2019.proteinhikaku.com CNAME .
 qxhydkz8.hmjdaw.ntt.com CNAME .
 real-fitness2019.real-fitness.jp CNAME .
 seo.tkc110.jp CNAME .
+sep02.hinagiku-life.jp CNAME .
 tracking.nokai.jp CNAME .
 tukuru.cotta.jp CNAME .
 urerucname.manara.jp CNAME .

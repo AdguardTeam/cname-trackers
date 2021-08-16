@@ -94,6 +94,7 @@ tr.gestion.cofinoga.fr CNAME .
 tr.gestion.sygmabnpparibas-pf.com CNAME .
 tr.group-hr.lvmh.fr CNAME .
 tr.groupama-gne.fr CNAME .
+tr.helloartisan.info CNAME .
 tr.info.actionlogement.fr CNAME .
 tr.info.ag2rlamondiale.fr CNAME .
 tr.info.aprr.fr CNAME .
@@ -106,6 +107,7 @@ tr.info.easyvoyage.co.uk CNAME .
 tr.info.easyvoyage.com CNAME .
 tr.info.harmonie-mutuelle.fr CNAME .
 tr.info.lacentrale.fr CNAME .
+tr.info.linxea.com CNAME .
 tr.info.mango-mobilites.fr CNAME .
 tr.info.mavoiturecash.fr CNAME .
 tr.info.mdbp.fr CNAME .
@@ -136,9 +138,11 @@ tr.mailing.lvmhappening.com CNAME .
 tr.mhist.moethennessy.com CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
+tr.moja-wycena.pl CNAME .
 tr.mondevis-pro.com CNAME .
 tr.mp.aconclue-pro.com CNAME .
 tr.n.info.cdgp.fr CNAME .
+tr.news-chocolat.com CNAME .
 tr.news-companeo.fr CNAME .
 tr.news-companeo.pl CNAME .
 tr.news.alinea.com CNAME .
@@ -220,6 +224,7 @@ tr.smtp1.email-mediapost.fr CNAME .
 tr.souscription.floa.fr CNAME .
 tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .
+tr.trafficnews.lyria.com CNAME .
 tr.uk.icicibank.com CNAME .
 tr.ville.bordeaux.fr CNAME .
 tr.votrealarme.securitasdirect.fr CNAME .
