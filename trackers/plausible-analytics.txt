@@ -37,6 +37,7 @@
 ||analytics.teamcovenant.com^
 ||analytics.transmoni.vn^
 ||analytics.trust.page^
+||analytics.uxmetrics.com^
 ||analytics.valheimgamer.com^
 ||analytics.whotargets.me^
 ||analytics.winter.ink^
@@ -74,10 +75,12 @@
 ||insights.affilimate.com^
 ||insights.frenchtogether.com^
 ||iwonttrackyou.xn--gckvb8fzb.com^
+||juniper.starleaf.com^
 ||ks.walkq.com^
 ||l2k30jsa.theochu.com^
 ||littlebrother.makeplans.net^
 ||loggychops.paulsmith.site^
+||meter.bref.sh^
 ||momotaro.craigmod.com^
 ||numbers.triplejack.com^
 ||p.barrera.io^
@@ -98,6 +101,7 @@
 ||pl.1feed.app^
 ||pl.astro.fi^
 ||pl.codetheweb.blog^
+||pl.maya-astro.fi^
 ||pl.terraintinker.com^
 ||pl.volunteeringauckland.org.nz^
 ||pl.volunteeringwaikato.org.nz^
@@ -111,6 +115,7 @@
 ||plauplauplau.app.budg.co^
 ||plauplauplau.budg.co^
 ||plaus.svelte.school^
+||plausible.as207960.net^
 ||plausible.banovo.de^
 ||plausible.bearer.sh^
 ||plausible.benscarblog.com^
@@ -229,6 +234,7 @@
 ||stats.catholicluv.com^
 ||stats.changelog.com^
 ||stats.chapterist.show^
+||stats.citizenos.com^
 ||stats.console.dev^
 ||stats.contentwritingjobs.com^
 ||stats.craftybase.com^
@@ -294,6 +300,7 @@
 ||stats.jerickson.net^
 ||stats.johnmac.pro^
 ||stats.joincomet.app^
+||stats.justanotherpm.com^
 ||stats.kensho.com^
 ||stats.keyscore.me^
 ||stats.kod.ru^
@@ -350,6 +357,7 @@
 ||stats.poesieundgenuss.com^
 ||stats.pointflottant.com^
 ||stats.polekatfitness.com^
+||stats.portabella.io^
 ||stats.pri.org^
 ||stats.print.work^
 ||stats.profilehunt.net^
@@ -363,6 +371,7 @@
 ||stats.ruhrfestspiele.de^
 ||stats.ruthmontenegro.com^
 ||stats.scalgo.com^
+||stats.scottbartell.com^
 ||stats.screen-play.app^
 ||stats.screenwavemedia.com^
 ||stats.seedthemes.com^
@@ -404,6 +413,7 @@
 ||stats.westswindon-pc.gov.uk^
 ||stats.whereisit5pmrightnow.com^
 ||stats.world.hey.com^
+||stats.wvs.org.uk^
 ||stats.wwdcscholars.com^
 ||stats.www.agirpourlenvironnement.org^
 ||stats.x5x.host^
@@ -412,6 +422,7 @@
 ||statystyki.ekspertyzy-szkolenia.pl^
 ||sts.papyrs.com^
 ||t.andarpersassi.it^
+||thumos.fileside.app^
 ||tics.seeker.gg^
 ||tics.techdirt.com^
 ||tocotronic.thomas.me^

@@ -177,6 +177,7 @@ webmet.creditreform.de CNAME .
 webt.pure.com CNAME .
 wetr.sportscheck.at CNAME .
 wetr.sportscheck.com CNAME .
+wt.dialog-versicherung.de CNAME .
 wt.envivas.de CNAME .
 wt.generali.de CNAME .
 wt.netze-bw.de CNAME .

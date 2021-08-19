@@ -32,6 +32,9 @@
 ||dnsdelegation.io^
 ||storetail.io^
 !
+! Company: DataUnlocker
+||dataunlocker.com^
+!
 ! Company: Eulerian
 ||eulerian.net^
 !

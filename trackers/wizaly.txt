@@ -38,3 +38,4 @@
 ||tk.viapresse.com^
 ||twiz.wizaly.fr^
 ||wiz.ghostbed.com^
+||wz.allianz.fr^

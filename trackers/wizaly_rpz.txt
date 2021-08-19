@@ -38,3 +38,4 @@ tk.transavia.com CNAME .
 tk.viapresse.com CNAME .
 twiz.wizaly.fr CNAME .
 wiz.ghostbed.com CNAME .
+wz.allianz.fr CNAME .

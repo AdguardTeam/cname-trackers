@@ -1,0 +1,28 @@
+;
+; Company name: DataUnlocker
+;
+; dataunlocker.com disguised trackers
+;
+1amehwchx31.bloxdhop.io CNAME .
+1asr0l6zjb1.franchiseplus.nl CNAME .
+1avhg3kanx9.www.earthclassmail.com CNAME .
+1bw7etm93lf.www.woodbrass.com CNAME .
+1j2n061x3td.www.digi.no CNAME .
+1kpv4njzilv.community.intersystems.com CNAME .
+1op1je6zs97.www.emanualonline.com CNAME .
+1p3293dngsv.dodofacile.fr CNAME .
+1zzs6w25i8n.tube.inflatevids.xyz CNAME .
+225arud0w9f.blanc.ru CNAME .
+25voj20abod.honeyswap.org CNAME .
+2829i2p88jx.www.csaladinet.hu CNAME .
+5n2y9omclb.panprices.com CNAME .
+5ytahorfwt0n.flex.team CNAME .
+9upp9h74lf50.www.botcomics.com CNAME .
+a79avde9ks56.www.sepastop.eu CNAME .
+cihnqp6p65.koinly.io CNAME .
+m5yw219v6r.app.koinly.io CNAME .
+pbuci7pdjgez.furucombo.app CNAME .
+tos5dqejpd.www.freecodecamp.org CNAME .
+x57o7cmeiwjz.www.androidacy.com CNAME .
+xlvvy4msxr.coolinastore.com CNAME .
+ypf4i81rjs5p.unstoppabledomains.com CNAME .

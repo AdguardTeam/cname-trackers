@@ -273,6 +273,7 @@
 ||email.headsuphealth.com^
 ||email.link.flipgive.com^
 ||email.member.theknot.com^
+||email.mg.everyonesocial.com^
 ||email.pac-12.com^
 ||email.pray.com^
 ||email.social.f5.com^
@@ -354,6 +355,7 @@
 ||link.syfy-channel.com^
 ||link.team.bnext.es^
 ||link.team.bnext.io^
+||link.tempo.fit^
 ||link.touchtunes.com^
 ||link.touchtunesmail.com^
 ||link.tr.freshly.com^

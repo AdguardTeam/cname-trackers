@@ -26,13 +26,16 @@ tr.asp10hi.espmp-cufr.net CNAME .
 tr.asp2032.espmp-aufr.net CNAME .
 tr.b2d1.espmp-agfr.net CNAME .
 tr.b2d1068.espmp-nifr.net CNAME .
+tr.batiweb.co CNAME .
 tr.bizzquotes.co.uk CNAME .
 tr.boletim.meu-orcamento.pt CNAME .
 tr.btobquotes.com CNAME .
+tr.buenasofertas.pro CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.camara.eu.com CNAME .
 tr.carte.lcl.fr CNAME .
 tr.cashback.floa.fr CNAME .
+tr.cifa02k.espmp-aufr.net CNAME .
 tr.client.emailing.bnpparibas CNAME .
 tr.clientes.younited-credit.com CNAME .
 tr.clienti.younited-credit.com CNAME .
@@ -54,6 +57,7 @@ tr.communication.b2b-actualites.com CNAME .
 tr.communication.boursorama.info CNAME .
 tr.communication.cgaaer.fr CNAME .
 tr.communication.harmonie-mutuelle.fr CNAME .
+tr.communication.moethennessy.com CNAME .
 tr.communication.numericable.fr CNAME .
 tr.contact.canalplus.fr CNAME .
 tr.courriel.ouestnormandie.cci.fr CNAME .
@@ -123,8 +127,11 @@ tr.informations.harmonie-mutuelle.fr CNAME .
 tr.informations.lcl.fr CNAME .
 tr.infos.afpa.fr CNAME .
 tr.infos.odalys-vacances.com CNAME .
+tr.inspiration.culture-data.fr CNAME .
+tr.interviews-mediametrie.fr CNAME .
 tr.invitation-mesdessous.fr CNAME .
 tr.jesuis.enformedelotus.com CNAME .
+tr.jevoteenligne.fr CNAME .
 tr.jkyg.espmp-cufr.net CNAME .
 tr.kpyn.espmp-cufr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
@@ -135,6 +142,8 @@ tr.mail.moncoupdepouce.com CNAME .
 tr.mail.satisfactory.fr CNAME .
 tr.mail.vipmag.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
+tr.mailing.r2e-humanis.fr CNAME .
+tr.marketing.younited-credit.com CNAME .
 tr.mhist.moethennessy.com CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
@@ -152,9 +161,11 @@ tr.news.casino.fr CNAME .
 tr.news.casinodrive.fr CNAME .
 tr.news.casinomax.fr CNAME .
 tr.news.cdiscount.com CNAME .
+tr.news.cotemaison.fr CNAME .
 tr.news.deneuville-chocolat.fr CNAME .
 tr.news.digitpjms.fr CNAME .
 tr.news.easyviaggio.com CNAME .
+tr.news.easyviajar.com CNAME .
 tr.news.easyvoyage.co.uk CNAME .
 tr.news.easyvoyage.com CNAME .
 tr.news.geantcasino.fr CNAME .
@@ -183,6 +194,7 @@ tr.newsletter.location.boulanger.com CNAME .
 tr.newsletter.meilleurmobile.com CNAME .
 tr.newsletter.younited-credit.com CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
+tr.newsmarketing.allopneus.com CNAME .
 tr.nl.2wls.net CNAME .
 tr.nl.mondo-shop.fr CNAME .
 tr.nl.services-sncf.com CNAME .
@@ -208,6 +220,7 @@ tr.politicolive.eu CNAME .
 tr.portail.afpa.fr CNAME .
 tr.pro.odalys-vacances.com CNAME .
 tr.ra.cofinoga.fr CNAME .
+tr.ratm.espmp-agfr.net CNAME .
 tr.read.glose.com CNAME .
 tr.redaction.essentiel-sante-magazine.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .

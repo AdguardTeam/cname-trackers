@@ -23,6 +23,7 @@
 ||adebis.daiwahouse.co.jp^
 ||adebis.demae-can.com^
 ||adebis.fenet.jp^
+||adebis.harutaka.jp^
 ||adebis.irobot-jp.com^
 ||adebis.juku.st^
 ||adebis.kaonavi.jp^

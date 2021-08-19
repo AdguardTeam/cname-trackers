@@ -177,6 +177,7 @@ webmet.creditreform.de
 webt.pure.com
 wetr.sportscheck.at
 wetr.sportscheck.com
+wt.dialog-versicherung.de
 wt.envivas.de
 wt.generali.de
 wt.netze-bw.de

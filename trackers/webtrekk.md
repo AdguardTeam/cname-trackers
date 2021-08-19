@@ -65,6 +65,7 @@
     * 730059294506327.wt-eu02.net
     * 737859735586197.wt-eu02.net
     * 741723125859679.wt-eu02.net
+    * 752542050590835.wt-eu02.net
     * 752828619977374.wt-eu02.net
     * 753960264605716.wt-eu02.net
     * 807354460250799.wt-eu02.net
@@ -166,6 +167,7 @@
 | census.misterspex.at | 730059294506327.wt-eu02.net |
 | mapp.yesstyle.com | 737859735586197.wt-eu02.net |
 | web.mail.proximaati.com | 741723125859679.wt-eu02.net |
+| wt.dialog-versicherung.de | 752542050590835.wt-eu02.net |
 | wbtrkk.teufel.ch | 752828619977374.wt-eu02.net |
 | census.misterspex.nl | 753960264605716.wt-eu02.net |
 | abc.fackelmann.de | 807354460250799.wt-eu02.net |

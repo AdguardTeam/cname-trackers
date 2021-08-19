@@ -273,6 +273,7 @@ email.goodrx.com CNAME .
 email.headsuphealth.com CNAME .
 email.link.flipgive.com CNAME .
 email.member.theknot.com CNAME .
+email.mg.everyonesocial.com CNAME .
 email.pac-12.com CNAME .
 email.pray.com CNAME .
 email.social.f5.com CNAME .
@@ -354,6 +355,7 @@ link.ridewithvia.com CNAME .
 link.syfy-channel.com CNAME .
 link.team.bnext.es CNAME .
 link.team.bnext.io CNAME .
+link.tempo.fit CNAME .
 link.touchtunes.com CNAME .
 link.touchtunesmail.com CNAME .
 link.tr.freshly.com CNAME .

@@ -61,6 +61,7 @@
     * 728d5fcc-6hbgpszs.cname.ebis.ne.jp
     * 730fac49-ezdvkv2x.cname.ebis.ne.jp
     * 748da21f-kuqpafku.cname.ebis.ne.jp
+    * 77898d5b-lkppvk2g.cname.ebis.ne.jp
     * 7955b170-gaz6wmaw.cname.ebis.ne.jp
     * 8084b5d3-mqxnlcy4.cname.ebis.ne.jp
     * 80ad1e32-pvfpecyh.cname.ebis.ne.jp
@@ -185,6 +186,7 @@
 | ebis.sekisuihouse.com | 728d5fcc-6hbgpszs.cname.ebis.ne.jp |
 | ebis.bulk.co.jp | 730fac49-ezdvkv2x.cname.ebis.ne.jp |
 | adebis.demae-can.com | 748da21f-kuqpafku.cname.ebis.ne.jp |
+| adebis.harutaka.jp | 77898d5b-lkppvk2g.cname.ebis.ne.jp |
 | cnebis.chocola.com | 7955b170-gaz6wmaw.cname.ebis.ne.jp |
 | cname.mebiusseiyaku.co.jp | 8084b5d3-mqxnlcy4.cname.ebis.ne.jp |
 | adebis.qeee.jp | 80ad1e32-pvfpecyh.cname.ebis.ne.jp |

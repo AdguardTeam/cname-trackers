@@ -12,6 +12,7 @@ a8.lavie-official.jp CNAME .
 a8.lens-labo.com CNAME .
 a8.looop-denki.com CNAME .
 a8.makeshop.jp CNAME .
+a8.payse.basefood.co.jp CNAME .
 a8.print-netsquare.com CNAME .
 a8.sakuratravel.jp CNAME .
 a8.shopserve.jp CNAME .
@@ -25,6 +26,7 @@ a8.yuzen-official.com CNAME .
 a8aspconv.xn--biglobe-kc9k.com CNAME .
 a8aspconv.xn--ocn-ws1e.jp CNAME .
 a8click.you-up.com CNAME .
+a8clk.app.offerbox.jp CNAME .
 a8clk.apply-shop.menu.inc CNAME .
 a8clk.asp.jcity.co.jp CNAME .
 a8clk.bstyle.store CNAME .
@@ -44,6 +46,7 @@ a8clk.point-land.net CNAME .
 a8clk.rarejob.com CNAME .
 a8clk.rental.geo-online.co.jp CNAME .
 a8clk.reserve.retty.me CNAME .
+a8clk.shokutakubin.com CNAME .
 a8clk.shop.sunsorit.co.jp CNAME .
 a8clk.skima.jp CNAME .
 a8clk.skynet-c.jp CNAME .

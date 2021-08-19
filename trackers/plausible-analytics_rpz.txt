@@ -37,6 +37,7 @@ analytics.souazi.com CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.transmoni.vn CNAME .
 analytics.trust.page CNAME .
+analytics.uxmetrics.com CNAME .
 analytics.valheimgamer.com CNAME .
 analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
@@ -74,10 +75,12 @@ informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
 insights.frenchtogether.com CNAME .
 iwonttrackyou.xn--gckvb8fzb.com CNAME .
+juniper.starleaf.com CNAME .
 ks.walkq.com CNAME .
 l2k30jsa.theochu.com CNAME .
 littlebrother.makeplans.net CNAME .
 loggychops.paulsmith.site CNAME .
+meter.bref.sh CNAME .
 momotaro.craigmod.com CNAME .
 numbers.triplejack.com CNAME .
 p.barrera.io CNAME .
@@ -98,6 +101,7 @@ piostats.gdcorner.com CNAME .
 pl.1feed.app CNAME .
 pl.astro.fi CNAME .
 pl.codetheweb.blog CNAME .
+pl.maya-astro.fi CNAME .
 pl.terraintinker.com CNAME .
 pl.volunteeringauckland.org.nz CNAME .
 pl.volunteeringwaikato.org.nz CNAME .
@@ -111,6 +115,7 @@ plau.swissdevjobs.ch CNAME .
 plauplauplau.app.budg.co CNAME .
 plauplauplau.budg.co CNAME .
 plaus.svelte.school CNAME .
+plausible.as207960.net CNAME .
 plausible.banovo.de CNAME .
 plausible.bearer.sh CNAME .
 plausible.benscarblog.com CNAME .
@@ -229,6 +234,7 @@ stats.cassidyjames.com CNAME .
 stats.catholicluv.com CNAME .
 stats.changelog.com CNAME .
 stats.chapterist.show CNAME .
+stats.citizenos.com CNAME .
 stats.console.dev CNAME .
 stats.contentwritingjobs.com CNAME .
 stats.craftybase.com CNAME .
@@ -294,6 +300,7 @@ stats.jdheyburn.co.uk CNAME .
 stats.jerickson.net CNAME .
 stats.johnmac.pro CNAME .
 stats.joincomet.app CNAME .
+stats.justanotherpm.com CNAME .
 stats.kensho.com CNAME .
 stats.keyscore.me CNAME .
 stats.kod.ru CNAME .
@@ -350,6 +357,7 @@ stats.plastbest.sk CNAME .
 stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
+stats.portabella.io CNAME .
 stats.pri.org CNAME .
 stats.print.work CNAME .
 stats.profilehunt.net CNAME .
@@ -363,6 +371,7 @@ stats.reprage.com CNAME .
 stats.ruhrfestspiele.de CNAME .
 stats.ruthmontenegro.com CNAME .
 stats.scalgo.com CNAME .
+stats.scottbartell.com CNAME .
 stats.screen-play.app CNAME .
 stats.screenwavemedia.com CNAME .
 stats.seedthemes.com CNAME .
@@ -404,6 +413,7 @@ stats.walkiees.co.uk CNAME .
 stats.westswindon-pc.gov.uk CNAME .
 stats.whereisit5pmrightnow.com CNAME .
 stats.world.hey.com CNAME .
+stats.wvs.org.uk CNAME .
 stats.wwdcscholars.com CNAME .
 stats.www.agirpourlenvironnement.org CNAME .
 stats.x5x.host CNAME .
@@ -412,6 +422,7 @@ stats3.ferheng.co CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
 sts.papyrs.com CNAME .
 t.andarpersassi.it CNAME .
+thumos.fileside.app CNAME .
 tics.seeker.gg CNAME .
 tics.techdirt.com CNAME .
 tocotronic.thomas.me CNAME .

@@ -18,6 +18,7 @@
 | a8.lens-labo.com | trck.a8.net |
 | a8.looop-denki.com | trck.a8.net |
 | a8.makeshop.jp | trck.a8.net |
+| a8.payse.basefood.co.jp | trck.a8.net |
 | a8.print-netsquare.com | trck.a8.net |
 | a8.sakuratravel.jp | trck.a8.net |
 | a8.shopserve.jp | trck.a8.net |
@@ -31,6 +32,7 @@
 | a8aspconv.xn--biglobe-kc9k.com | trck.a8.net |
 | a8aspconv.xn--ocn-ws1e.jp | trck.a8.net |
 | a8click.you-up.com | trck.a8.net |
+| a8clk.app.offerbox.jp | trck.a8.net |
 | a8clk.apply-shop.menu.inc | trck.a8.net |
 | a8clk.asp.jcity.co.jp | trck.a8.net |
 | a8clk.bstyle.store | trck.a8.net |
@@ -50,6 +52,7 @@
 | a8clk.rarejob.com | trck.a8.net |
 | a8clk.rental.geo-online.co.jp | trck.a8.net |
 | a8clk.reserve.retty.me | trck.a8.net |
+| a8clk.shokutakubin.com | trck.a8.net |
 | a8clk.shop.sunsorit.co.jp | trck.a8.net |
 | a8clk.skima.jp | trck.a8.net |
 | a8clk.skynet-c.jp | trck.a8.net |

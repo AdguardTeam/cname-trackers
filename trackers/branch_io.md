@@ -280,6 +280,7 @@
 | email.headsuphealth.com | thirdparty.bnc.lt |
 | email.link.flipgive.com | thirdparty.bnc.lt |
 | email.member.theknot.com | thirdparty.bnc.lt |
+| email.mg.everyonesocial.com | thirdparty.bnc.lt |
 | email.pac-12.com | thirdparty.bnc.lt |
 | email.pray.com | thirdparty.bnc.lt |
 | email.social.f5.com | thirdparty.bnc.lt |
@@ -361,6 +362,7 @@
 | link.syfy-channel.com | thirdparty.bnc.lt |
 | link.team.bnext.es | thirdparty.bnc.lt |
 | link.team.bnext.io | thirdparty.bnc.lt |
+| link.tempo.fit | thirdparty.bnc.lt |
 | link.touchtunes.com | thirdparty.bnc.lt |
 | link.touchtunesmail.com | thirdparty.bnc.lt |
 | link.tr.freshly.com | thirdparty.bnc.lt |

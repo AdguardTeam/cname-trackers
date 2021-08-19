@@ -26,6 +26,7 @@
     * tkairfrance.wizaly.com
     * tkmsccruisescom.wizaly.com
     * wiz-ghostbed-com.wizaly.com
+    * wz-allianz-fr.wizaly.com
 
 ## Cloaking domains
 
@@ -66,3 +67,4 @@
 | tk.klm.com | tkairfrance.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |
 | wiz.ghostbed.com | wiz-ghostbed-com.wizaly.com |
+| wz.allianz.fr | wz-allianz-fr.wizaly.com |

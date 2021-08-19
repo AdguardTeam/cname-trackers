@@ -23,6 +23,7 @@ adebis.angfa-store.jp CNAME .
 adebis.daiwahouse.co.jp CNAME .
 adebis.demae-can.com CNAME .
 adebis.fenet.jp CNAME .
+adebis.harutaka.jp CNAME .
 adebis.irobot-jp.com CNAME .
 adebis.juku.st CNAME .
 adebis.kaonavi.jp CNAME .

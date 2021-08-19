@@ -12,6 +12,7 @@ a8.lavie-official.jp
 a8.lens-labo.com
 a8.looop-denki.com
 a8.makeshop.jp
+a8.payse.basefood.co.jp
 a8.print-netsquare.com
 a8.sakuratravel.jp
 a8.shopserve.jp
@@ -25,6 +26,7 @@ a8.yuzen-official.com
 a8aspconv.xn--biglobe-kc9k.com
 a8aspconv.xn--ocn-ws1e.jp
 a8click.you-up.com
+a8clk.app.offerbox.jp
 a8clk.apply-shop.menu.inc
 a8clk.asp.jcity.co.jp
 a8clk.bstyle.store
@@ -44,6 +46,7 @@ a8clk.point-land.net
 a8clk.rarejob.com
 a8clk.rental.geo-online.co.jp
 a8clk.reserve.retty.me
+a8clk.shokutakubin.com
 a8clk.shop.sunsorit.co.jp
 a8clk.skima.jp
 a8clk.skynet-c.jp

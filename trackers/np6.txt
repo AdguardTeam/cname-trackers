@@ -26,13 +26,16 @@
 ||tr.asp2032.espmp-aufr.net^
 ||tr.b2d1.espmp-agfr.net^
 ||tr.b2d1068.espmp-nifr.net^
+||tr.batiweb.co^
 ||tr.bizzquotes.co.uk^
 ||tr.boletim.meu-orcamento.pt^
 ||tr.btobquotes.com^
+||tr.buenasofertas.pro^
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.camara.eu.com^
 ||tr.carte.lcl.fr^
 ||tr.cashback.floa.fr^
+||tr.cifa02k.espmp-aufr.net^
 ||tr.client.emailing.bnpparibas^
 ||tr.clientes.younited-credit.com^
 ||tr.clienti.younited-credit.com^
@@ -54,6 +57,7 @@
 ||tr.communication.boursorama.info^
 ||tr.communication.cgaaer.fr^
 ||tr.communication.harmonie-mutuelle.fr^
+||tr.communication.moethennessy.com^
 ||tr.communication.numericable.fr^
 ||tr.contact.canalplus.fr^
 ||tr.courriel.ouestnormandie.cci.fr^
@@ -123,8 +127,11 @@
 ||tr.informations.lcl.fr^
 ||tr.infos.afpa.fr^
 ||tr.infos.odalys-vacances.com^
+||tr.inspiration.culture-data.fr^
+||tr.interviews-mediametrie.fr^
 ||tr.invitation-mesdessous.fr^
 ||tr.jesuis.enformedelotus.com^
+||tr.jevoteenligne.fr^
 ||tr.jkyg.espmp-cufr.net^
 ||tr.kpyn.espmp-cufr.net^
 ||tr.krus.espmp-agfr.net^
@@ -135,6 +142,8 @@
 ||tr.mail.satisfactory.fr^
 ||tr.mail.vipmag.fr^
 ||tr.mailing.lvmhappening.com^
+||tr.mailing.r2e-humanis.fr^
+||tr.marketing.younited-credit.com^
 ||tr.mhist.moethennessy.com^
 ||tr.mm.infopro-digital.com^
 ||tr.mnoc.espmp-nifr.net^
@@ -152,9 +161,11 @@
 ||tr.news.casinodrive.fr^
 ||tr.news.casinomax.fr^
 ||tr.news.cdiscount.com^
+||tr.news.cotemaison.fr^
 ||tr.news.deneuville-chocolat.fr^
 ||tr.news.digitpjms.fr^
 ||tr.news.easyviaggio.com^
+||tr.news.easyviajar.com^
 ||tr.news.easyvoyage.co.uk^
 ||tr.news.easyvoyage.com^
 ||tr.news.geantcasino.fr^
@@ -183,6 +194,7 @@
 ||tr.newsletter.meilleurmobile.com^
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletters.odalys-vacances.com^
+||tr.newsmarketing.allopneus.com^
 ||tr.nl.2wls.net^
 ||tr.nl.mondo-shop.fr^
 ||tr.nl.services-sncf.com^
@@ -208,6 +220,7 @@
 ||tr.portail.afpa.fr^
 ||tr.pro.odalys-vacances.com^
 ||tr.ra.cofinoga.fr^
+||tr.ratm.espmp-agfr.net^
 ||tr.read.glose.com^
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^
