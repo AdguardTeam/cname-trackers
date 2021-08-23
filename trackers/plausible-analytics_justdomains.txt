@@ -33,6 +33,7 @@ analytics.mhpod.gov.au
 analytics.mondoweiss.net
 analytics.ramiyer.io
 analytics.ramiyer.me
+analytics.sixfigureswine.com
 analytics.souazi.com
 analytics.teamcovenant.com
 analytics.transmoni.vn
@@ -101,6 +102,7 @@ piostats.gdcorner.com
 pl.1feed.app
 pl.astro.fi
 pl.codetheweb.blog
+pl.ethan.link
 pl.maya-astro.fi
 pl.terraintinker.com
 pl.volunteeringauckland.org.nz
@@ -143,6 +145,7 @@ plausible.gymglish.com
 plausible.haltakov.net
 plausible.hey-soho.com
 plausible.hstmedical.com
+plausible.inflex.io
 plausible.kabaret.no
 plausible.kreya.app
 plausible.lesbianromantic.com
@@ -176,6 +179,7 @@ plausible.vaughanesports.org
 plausible.west.io
 plausible.zorin.com
 pls.indiemakers.fr
+plsbl.edison.se
 pm.redbull.com
 pstat.akathists.com
 s.80000hours.org
@@ -206,6 +210,7 @@ stats.allaboutberlin.com
 stats.alleaktien.de
 stats.am.ai
 stats.amiibo.life
+stats.arquido.com
 stats.audiorelay.net
 stats.avedictionary.com
 stats.backprop.co
@@ -226,6 +231,7 @@ stats.bluesabre.org
 stats.breadtube.tv
 stats.breathly.app
 stats.briskoda.net
+stats.buildingtheelite.com
 stats.bungeefit.co.uk
 stats.bytebase.com
 stats.carrot2.org
@@ -249,7 +255,6 @@ stats.davestewart.co.uk
 stats.davidlms.com
 stats.deva.guru
 stats.digiexpert.store
-stats.dirtify.me
 stats.doors.live
 stats.drewbolles.com
 stats.drgomesp.dev
@@ -264,6 +269,7 @@ stats.engineering.freeagent.com
 stats.englishadam.com
 stats.executebig.org
 stats.fabiofranchino.com
+stats.farbenmeer.de
 stats.felipesere.com
 stats.femtobill.com
 stats.filmfed.com
@@ -275,7 +281,6 @@ stats.fundimmo.com
 stats.geobox.app
 stats.getdoks.org
 stats.gethyas.com
-stats.ghost.org
 stats.glassmountains.co.uk
 stats.graphql-api.com
 stats.gslc.utah.edu
@@ -310,9 +315,9 @@ stats.kryptoslogic.com
 stats.laxallstars.com
 stats.layl.app
 stats.leaguestats.gg
-stats.learnappmaking.com
 stats.learnlinux.tv
 stats.liist.io
+stats.lollipoptest.at
 stats.lord.io
 stats.ltdhunt.com
 stats.macosicons.com
@@ -397,6 +402,7 @@ stats.thelion.website
 stats.therenegadecoder.com
 stats.thomasvitale.com
 stats.toiletmap.org.uk
+stats.travel.geek.nz
 stats.tresor.one
 stats.tubecalculator.co.uk
 stats.twenty.so

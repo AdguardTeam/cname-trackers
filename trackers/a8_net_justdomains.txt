@@ -7,6 +7,7 @@ a8.01cloud.jp
 a8.cyclemarket.jp
 a8.denwa-hikari.com
 a8.eonet.jp
+a8.geo-online.co.jp
 a8.haptic.co.jp
 a8.lavie-official.jp
 a8.lens-labo.com
@@ -31,10 +32,12 @@ a8clk.apply-shop.menu.inc
 a8clk.asp.jcity.co.jp
 a8clk.bstyle.store
 a8clk.camerakaitori.jp
+a8clk.chat-wifi.site
 a8clk.cv.mensfashion.cc
 a8clk.dospara.co.jp
 a8clk.hurugicom.jp
 a8clk.justy-consul.com
+a8clk.kaitori-beerecords.jp
 a8clk.kaitori-retrog.jp
 a8clk.kenkoukazoku.co.jp
 a8clk.life.bang.co.jp
@@ -67,6 +70,7 @@ a8cv.coopnet.or.jp
 a8cv.direct-teleshop.jp
 a8cv.english-bootcamp.com
 a8cv.entry.renet.jp
+a8cv.greed-island.ne.jp
 a8cv.housingbazar.jp
 a8cv.ishibashi.co.jp
 a8cv.modern-deco.jp

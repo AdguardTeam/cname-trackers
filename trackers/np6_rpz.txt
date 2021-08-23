@@ -92,6 +92,7 @@ tr.emailium.fr CNAME .
 tr.enedis-infos.fr CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net CNAME .
 tr.europa-organisation.com CNAME .
+tr.evenements.inpi.fr CNAME .
 tr.gestion.banque-casino.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
 tr.gestion.cofinoga.fr CNAME .
@@ -154,6 +155,7 @@ tr.n.info.cdgp.fr CNAME .
 tr.news-chocolat.com CNAME .
 tr.news-companeo.fr CNAME .
 tr.news-companeo.pl CNAME .
+tr.news.accessmbatour.com CNAME .
 tr.news.alinea.com CNAME .
 tr.news.allopneus.com CNAME .
 tr.news.capfun.com CNAME .
@@ -192,6 +194,7 @@ tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
 tr.newsletter.location.boulanger.com CNAME .
 tr.newsletter.meilleurmobile.com CNAME .
+tr.newsletter.milleis.fr CNAME .
 tr.newsletter.younited-credit.com CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .
@@ -214,6 +217,7 @@ tr.offres.01net.com CNAME .
 tr.offres.bfmtv.com CNAME .
 tr.offrevip.floa.fr CNAME .
 tr.orange-lease.fr CNAME .
+tr.orcamentos-companeo.pt CNAME .
 tr.panels-mediametrie.fr CNAME .
 tr.pole-emploi-services.com CNAME .
 tr.politicolive.eu CNAME .
@@ -233,6 +237,7 @@ tr.serviceclient.younited-credit.com CNAME .
 tr.services.alinea.com CNAME .
 tr.services.caradisiac.com CNAME .
 tr.servicesclients.canalplus.fr CNAME .
+tr.servicoaocliente.younited-credit.com CNAME .
 tr.smtp1.email-mediapost.fr CNAME .
 tr.souscription.floa.fr CNAME .
 tr.toner-service.fr CNAME .

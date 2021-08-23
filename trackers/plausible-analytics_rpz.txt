@@ -33,6 +33,7 @@ analytics.mhpod.gov.au CNAME .
 analytics.mondoweiss.net CNAME .
 analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
+analytics.sixfigureswine.com CNAME .
 analytics.souazi.com CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.transmoni.vn CNAME .
@@ -101,6 +102,7 @@ piostats.gdcorner.com CNAME .
 pl.1feed.app CNAME .
 pl.astro.fi CNAME .
 pl.codetheweb.blog CNAME .
+pl.ethan.link CNAME .
 pl.maya-astro.fi CNAME .
 pl.terraintinker.com CNAME .
 pl.volunteeringauckland.org.nz CNAME .
@@ -143,6 +145,7 @@ plausible.gymglish.com CNAME .
 plausible.haltakov.net CNAME .
 plausible.hey-soho.com CNAME .
 plausible.hstmedical.com CNAME .
+plausible.inflex.io CNAME .
 plausible.kabaret.no CNAME .
 plausible.kreya.app CNAME .
 plausible.lesbianromantic.com CNAME .
@@ -176,6 +179,7 @@ plausible.vaughanesports.org CNAME .
 plausible.west.io CNAME .
 plausible.zorin.com CNAME .
 pls.indiemakers.fr CNAME .
+plsbl.edison.se CNAME .
 pm.redbull.com CNAME .
 pstat.akathists.com CNAME .
 s.80000hours.org CNAME .
@@ -206,6 +210,7 @@ stats.allaboutberlin.com CNAME .
 stats.alleaktien.de CNAME .
 stats.am.ai CNAME .
 stats.amiibo.life CNAME .
+stats.arquido.com CNAME .
 stats.audiorelay.net CNAME .
 stats.avedictionary.com CNAME .
 stats.backprop.co CNAME .
@@ -226,6 +231,7 @@ stats.bluesabre.org CNAME .
 stats.breadtube.tv CNAME .
 stats.breathly.app CNAME .
 stats.briskoda.net CNAME .
+stats.buildingtheelite.com CNAME .
 stats.bungeefit.co.uk CNAME .
 stats.bytebase.com CNAME .
 stats.carrot2.org CNAME .
@@ -249,7 +255,6 @@ stats.davestewart.co.uk CNAME .
 stats.davidlms.com CNAME .
 stats.deva.guru CNAME .
 stats.digiexpert.store CNAME .
-stats.dirtify.me CNAME .
 stats.doors.live CNAME .
 stats.drewbolles.com CNAME .
 stats.drgomesp.dev CNAME .
@@ -264,6 +269,7 @@ stats.engineering.freeagent.com CNAME .
 stats.englishadam.com CNAME .
 stats.executebig.org CNAME .
 stats.fabiofranchino.com CNAME .
+stats.farbenmeer.de CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
 stats.filmfed.com CNAME .
@@ -275,7 +281,6 @@ stats.fundimmo.com CNAME .
 stats.geobox.app CNAME .
 stats.getdoks.org CNAME .
 stats.gethyas.com CNAME .
-stats.ghost.org CNAME .
 stats.glassmountains.co.uk CNAME .
 stats.graphql-api.com CNAME .
 stats.gslc.utah.edu CNAME .
@@ -310,9 +315,9 @@ stats.kryptoslogic.com CNAME .
 stats.laxallstars.com CNAME .
 stats.layl.app CNAME .
 stats.leaguestats.gg CNAME .
-stats.learnappmaking.com CNAME .
 stats.learnlinux.tv CNAME .
 stats.liist.io CNAME .
+stats.lollipoptest.at CNAME .
 stats.lord.io CNAME .
 stats.ltdhunt.com CNAME .
 stats.macosicons.com CNAME .
@@ -397,6 +402,7 @@ stats.thelion.website CNAME .
 stats.therenegadecoder.com CNAME .
 stats.thomasvitale.com CNAME .
 stats.toiletmap.org.uk CNAME .
+stats.travel.geek.nz CNAME .
 stats.tresor.one CNAME .
 stats.tubecalculator.co.uk CNAME .
 stats.twenty.so CNAME .

@@ -77,6 +77,7 @@
     * 95e65062-y5awr3vc.cname.ebis.ne.jp
     * 98d6d446-llbfadyx.cname.ebis.ne.jp
     * 99ebdab6-bagmsfc6.cname.ebis.ne.jp
+    * 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp
     * 9fc5109a-rgq6b9zp.cname.ebis.ne.jp
     * a0c6f4cd-wqcfddrl.cname.ebis.ne.jp
     * a0dd7a11-rrtv6uew.cname.ebis.ne.jp
@@ -111,6 +112,7 @@
     * d473741d-bagmsfc6.cname.ebis.ne.jp
     * d4aca7c0-gwd6au9d.cname.ebis.ne.jp
     * d64474bb-20mouroy.cname.ebis.ne.jp
+    * d9a8eccf-fgsftzrs.cname.ebis.ne.jp
     * dae17865-vqh9uah6.cname.ebis.ne.jp
     * df09ac2e-bagmsfc6.cname.ebis.ne.jp
     * dfd1c48f-kdknv6tt.cname.ebis.ne.jp
@@ -202,6 +204,7 @@
 | adebis02.juku.st | 95e65062-y5awr3vc.cname.ebis.ne.jp |
 | ebiscname.j-esthe.com | 98d6d446-llbfadyx.cname.ebis.ne.jp |
 | proteinhikaku2019.proteinhikaku.com | 99ebdab6-bagmsfc6.cname.ebis.ne.jp |
+| cname-adebis.nice2meet.us | 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp |
 | y8hxgv9m.kobetsu.co.jp | 9fc5109a-rgq6b9zp.cname.ebis.ne.jp |
 | ebis.hokensoudannavi.jp | a0c6f4cd-wqcfddrl.cname.ebis.ne.jp |
 | ebis.pasonatech.co.jp | a0dd7a11-rrtv6uew.cname.ebis.ne.jp |
@@ -236,6 +239,7 @@
 | adebis.real-style.co.jp | d473741d-bagmsfc6.cname.ebis.ne.jp |
 | adpromo.peppynet.com | d4aca7c0-gwd6au9d.cname.ebis.ne.jp |
 | ebis.okasan-online.co.jp | d64474bb-20mouroy.cname.ebis.ne.jp |
+| ebiscname.clark.ed.jp | d9a8eccf-fgsftzrs.cname.ebis.ne.jp |
 | ebis.biyo-job.com | dae17865-vqh9uah6.cname.ebis.ne.jp |
 | real-fitness2019.real-fitness.jp | df09ac2e-bagmsfc6.cname.ebis.ne.jp |
 | cname1.shakenkan.co.jp | dfd1c48f-kdknv6tt.cname.ebis.ne.jp |

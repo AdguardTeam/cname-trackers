@@ -57,6 +57,7 @@ beeline.beeline-tire.co.jp
 belegend2019.belegend.jp
 cmass.massmedian.co.jp
 cname-ade.hankoya.com
+cname-adebis.nice2meet.us
 cname.crank-in.net
 cname.ebis.folio-sec.com
 cname.finess.jp
@@ -102,6 +103,7 @@ ebis01.zkai.co.jp
 ebis2020.hoiku-job.net
 ebis202001.joyfit.jp
 ebisanalysis.mouse-jp.co.jp
+ebiscname.clark.ed.jp
 ebiscname.j-esthe.com
 ebisfracora.fracora.com
 ebisstore.tamagokichi.com

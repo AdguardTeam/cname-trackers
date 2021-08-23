@@ -92,6 +92,7 @@
 ||tr.enedis-infos.fr^
 ||tr.envie-de-bien-manger.espmp-aufr.net^
 ||tr.europa-organisation.com^
+||tr.evenements.inpi.fr^
 ||tr.gestion.banque-casino.fr^
 ||tr.gestion.cetelem.fr^
 ||tr.gestion.cofinoga.fr^
@@ -154,6 +155,7 @@
 ||tr.news-chocolat.com^
 ||tr.news-companeo.fr^
 ||tr.news-companeo.pl^
+||tr.news.accessmbatour.com^
 ||tr.news.alinea.com^
 ||tr.news.allopneus.com^
 ||tr.news.capfun.com^
@@ -192,6 +194,7 @@
 ||tr.newsletter.capdecision.fr^
 ||tr.newsletter.location.boulanger.com^
 ||tr.newsletter.meilleurmobile.com^
+||tr.newsletter.milleis.fr^
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletters.odalys-vacances.com^
 ||tr.newsmarketing.allopneus.com^
@@ -214,6 +217,7 @@
 ||tr.offres.bfmtv.com^
 ||tr.offrevip.floa.fr^
 ||tr.orange-lease.fr^
+||tr.orcamentos-companeo.pt^
 ||tr.panels-mediametrie.fr^
 ||tr.pole-emploi-services.com^
 ||tr.politicolive.eu^
@@ -233,6 +237,7 @@
 ||tr.services.alinea.com^
 ||tr.services.caradisiac.com^
 ||tr.servicesclients.canalplus.fr^
+||tr.servicoaocliente.younited-credit.com^
 ||tr.smtp1.email-mediapost.fr^
 ||tr.souscription.floa.fr^
 ||tr.toner-service.fr^

@@ -97,6 +97,7 @@
 | tr.enedis-infos.fr | tracking.bp01.net |
 | tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
 | tr.europa-organisation.com | tracking.bp01.net |
+| tr.evenements.inpi.fr | tracking.bp01.net |
 | tr.gestion.banque-casino.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
 | tr.gestion.cofinoga.fr | tracking.bp01.net |
@@ -159,6 +160,7 @@
 | tr.news-chocolat.com | tracking.bp01.net |
 | tr.news-companeo.fr | tracking.bp01.net |
 | tr.news-companeo.pl | tracking.bp01.net |
+| tr.news.accessmbatour.com | tracking.bp01.net |
 | tr.news.alinea.com | tracking.bp01.net |
 | tr.news.allopneus.com | tracking.bp01.net |
 | tr.news.capfun.com | tracking.bp01.net |
@@ -197,6 +199,7 @@
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |
 | tr.newsletter.meilleurmobile.com | tracking.bp01.net |
+| tr.newsletter.milleis.fr | tracking.bp01.net |
 | tr.newsletter.younited-credit.com | tracking.bp01.net |
 | tr.newsletters.odalys-vacances.com | tracking.bp01.net |
 | tr.newsmarketing.allopneus.com | tracking.bp01.net |
@@ -219,6 +222,7 @@
 | tr.offres.bfmtv.com | tracking.bp01.net |
 | tr.offrevip.floa.fr | tracking.bp01.net |
 | tr.orange-lease.fr | tracking.bp01.net |
+| tr.orcamentos-companeo.pt | tracking.bp01.net |
 | tr.panels-mediametrie.fr | tracking.bp01.net |
 | tr.pole-emploi-services.com | tracking.bp01.net |
 | tr.politicolive.eu | tracking.bp01.net |
@@ -238,6 +242,7 @@
 | tr.services.alinea.com | tracking.bp01.net |
 | tr.services.caradisiac.com | tracking.bp01.net |
 | tr.servicesclients.canalplus.fr | tracking.bp01.net |
+| tr.servicoaocliente.younited-credit.com | tracking.bp01.net |
 | tr.smtp1.email-mediapost.fr | tracking.bp01.net |
 | tr.souscription.floa.fr | tracking.bp01.net |
 | tr.toner-service.fr | tracking.bp01.net |

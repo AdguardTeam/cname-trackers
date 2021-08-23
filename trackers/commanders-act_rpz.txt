@@ -3,6 +3,7 @@
 ;
 ; tagcommander.com disguised trackers
 ;
+data.cofinoga.fr CNAME .
 data.decathlon.de CNAME .
 data.decathlon.es CNAME .
 data.decathlon.fr CNAME .
