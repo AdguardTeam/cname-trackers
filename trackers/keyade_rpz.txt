@@ -32,6 +32,7 @@ k.truffaut.com CNAME .
 k.veepee.fr CNAME .
 k.veepee.it CNAME .
 k.voyageursdumonde.fr CNAME .
+k.yves-rocher.fr CNAME .
 ka.ilius.net CNAME .
 keyade.alltricks.fr CNAME .
 tck.photobox.com CNAME .

@@ -29,6 +29,7 @@
 ! wt-eu02.net disguised trackers
 !
 ||a.gedidigital.it^
+||a.hrewards.com^
 ||a.intercityhotel.com^
 ||a.jaz-hotel.com^
 ||a.steigenberger.com^
@@ -125,6 +126,7 @@
 ||spr.welt.de^
 ||startrekk.flaconi.at^
 ||startrekk.flaconi.pl^
+||statistics.tuv.com^
 ||t.paydirekt.de^
 ||text.benefitsatwork.be^
 ||text.benefitsatwork.ch^
@@ -159,6 +161,7 @@
 ||wbtrkk.teufelaudio.pl^
 ||web.bankofscotland.de^
 ||web.diebayerische.de^
+||web.email.theindependentpharmacy.co.uk^
 ||web.emails.elc.co.uk^
 ||web.emails.thetoyshop.com^
 ||web.info.bonprix.es^

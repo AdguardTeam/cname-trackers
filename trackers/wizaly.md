@@ -11,6 +11,7 @@
     * tk-dietbon-fr.wizaly.com
     * tk-engie-com.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
+    * tk-kitchendiet-fr.wizaly.com
     * tk-lcl-fr.wizaly.com
     * tk-little-big-change-com.wizaly.com
     * tk-lulli-sur-la-toile-com.wizaly.com
@@ -40,6 +41,7 @@
 | tk.dietbon.fr | tk-dietbon-fr.wizaly.com |
 | tk.engie.fr | tk-engie-com.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |
+| tk.kitchendiet.fr | tk-kitchendiet-fr.wizaly.com |
 | tk.lcl.fr | tk-lcl-fr.wizaly.com |
 | tk.little-big-change.com | tk-little-big-change-com.wizaly.com |
 | tk.lulli-sur-la-toile.com | tk-lulli-sur-la-toile-com.wizaly.com |

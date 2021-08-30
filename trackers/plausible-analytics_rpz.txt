@@ -35,6 +35,7 @@ analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
 analytics.sixfigureswine.com CNAME .
 analytics.souazi.com CNAME .
+analytics.sweep.net CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.transmoni.vn CNAME .
 analytics.trust.page CNAME .
@@ -136,6 +137,7 @@ plausible.f1laps.com CNAME .
 plausible.factly.in CNAME .
 plausible.flowcv.io CNAME .
 plausible.food.game CNAME .
+plausible.fwouts.com CNAME .
 plausible.gitjournal.io CNAME .
 plausible.goatstake.com CNAME .
 plausible.golfbreaks.com CNAME .
@@ -159,7 +161,6 @@ plausible.pgmustard.com CNAME .
 plausible.phuctm97.com CNAME .
 plausible.play.date CNAME .
 plausible.prod.sketch.com CNAME .
-plausible.promlabs.com CNAME .
 plausible.rachel.systems CNAME .
 plausible.reactpreview.com CNAME .
 plausible.regex.help CNAME .
@@ -176,6 +177,7 @@ plausible.tac.dappstar.io CNAME .
 plausible.test.sketch.com CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.vaughanesports.org CNAME .
+plausible.viteshot.com CNAME .
 plausible.west.io CNAME .
 plausible.zorin.com CNAME .
 pls.indiemakers.fr CNAME .
@@ -233,14 +235,16 @@ stats.breathly.app CNAME .
 stats.briskoda.net CNAME .
 stats.buildingtheelite.com CNAME .
 stats.bungeefit.co.uk CNAME .
-stats.bytebase.com CNAME .
 stats.carrot2.org CNAME .
 stats.carrotsearch.com CNAME .
 stats.cassidyjames.com CNAME .
 stats.catholicluv.com CNAME .
 stats.changelog.com CNAME .
 stats.chapterist.show CNAME .
+stats.chronoslabs.net CNAME .
 stats.citizenos.com CNAME .
+stats.codeexposed.com CNAME .
+stats.colabra.app CNAME .
 stats.console.dev CNAME .
 stats.contentwritingjobs.com CNAME .
 stats.craftybase.com CNAME .
@@ -292,6 +296,7 @@ stats.homestow.com CNAME .
 stats.hostfactor.io CNAME .
 stats.htmlcsstoimage.com CNAME .
 stats.htp.org CNAME .
+stats.hugoreeves.com CNAME .
 stats.huysmanbouw.be CNAME .
 stats.igevia.com CNAME .
 stats.immunefi.com CNAME .
@@ -314,6 +319,7 @@ stats.krauss.io CNAME .
 stats.kryptoslogic.com CNAME .
 stats.laxallstars.com CNAME .
 stats.layl.app CNAME .
+stats.leadership.garden CNAME .
 stats.leaguestats.gg CNAME .
 stats.learnlinux.tv CNAME .
 stats.liist.io CNAME .
@@ -332,17 +338,18 @@ stats.mesenvies.fr CNAME .
 stats.mikepenz.dev CNAME .
 stats.mmazzarolo.com CNAME .
 stats.muchbetteradventures.com CNAME .
-stats.nctm.org CNAME .
 stats.nddmed.com CNAME .
 stats.nicklafferty.com CNAME .
 stats.nicolaskempf.fr CNAME .
 stats.nodehub.io CNAME .
 stats.nonprofit.foundation CNAME .
 stats.nothingbutnylon.com CNAME .
+stats.nrcaknights.com CNAME .
 stats.ntietz.com CNAME .
 stats.nytecomics.com CNAME .
 stats.offthekerb.com CNAME .
 stats.onepagelove.com CNAME .
+stats.openwebcraft.com CNAME .
 stats.ortussolutions.com CNAME .
 stats.oursky.com CNAME .
 stats.oxygem.com CNAME .
@@ -364,6 +371,7 @@ stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
 stats.portabella.io CNAME .
 stats.pri.org CNAME .
+stats.pricewell.io CNAME .
 stats.print.work CNAME .
 stats.profilehunt.net CNAME .
 stats.raidprotect.org CNAME .
@@ -420,6 +428,7 @@ stats.westswindon-pc.gov.uk CNAME .
 stats.whereisit5pmrightnow.com CNAME .
 stats.world.hey.com CNAME .
 stats.wvs.org.uk CNAME .
+stats.wvsindia.org CNAME .
 stats.wwdcscholars.com CNAME .
 stats.www.agirpourlenvironnement.org CNAME .
 stats.x5x.host CNAME .

@@ -19,6 +19,7 @@
 ||6519114.mktg.almosafer.com^
 ||6519114.mktg.tajawal.com^
 ||7701534.emails.tntdrama.com^
+||8041691.comms.hipages.com.au^
 ||8041691.engage.hipages.com.au^
 ||8147563.1954.bk.com^
 ||8147563.thekingdom.bk.com^
@@ -30,6 +31,7 @@
 ||a.hibbett.com^
 ||ablink.1954.bk.com^
 ||ablink.a.radio.com^
+||ablink.abtest.redmart.com^
 ||ablink.account.debut.careers^
 ||ablink.account.quizlet.com^
 ||ablink.account.zip.co^
@@ -182,6 +184,7 @@
 ||bnc.autopass.xyz^
 ||bpe.mlb.com^
 ||bpeml.mlb.com^
+||br.ac.ebookers.fr^
 ||br.ac.orbitz.com^
 ||br.ac.travelocity.com^
 ||br.backmarket.fr^
@@ -236,6 +239,7 @@
 ||clicks.email.shakeshack.com^
 ||clicks.equinoxplus.com^
 ||clicks.food.mercato.com^
+||clicks.info.theiconic.com.au^
 ||clicks.lifesum.com^
 ||clicks.metronautapp.com^
 ||clicks.staging.worldremit.com^

@@ -5,11 +5,11 @@
 ;
 2tty.overstappen.nl CNAME .
 bc.semwerkt.nl CNAME .
+bound.sightful.be CNAME .
 cms.hardloopaanbiedingen.nl CNAME .
 ee.sightful.nl CNAME .
 en.johnhardy.com CNAME .
 s1.carnext.com CNAME .
-style.onvz.nl CNAME .
 ;
 ; a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com disguised trackers
 ;

@@ -22,6 +22,7 @@ tk.conforama.fr
 tk.dietbon.fr
 tk.engie.fr
 tk.healthwarehouse.com
+tk.kitchendiet.fr
 tk.klm.com
 tk.lcl.fr
 tk.little-big-change.com

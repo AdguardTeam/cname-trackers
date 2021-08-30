@@ -61,6 +61,7 @@
 | a8clk.skynet-c.jp | trck.a8.net |
 | a8clk.teacon.jp | trck.a8.net |
 | a8clk.titivate.jp | trck.a8.net |
+| a8clk.wi-ho.net | trck.a8.net |
 | a8clk.www.cledepeau-beaute.com | trck.a8.net |
 | a8clk.www.nortonstore.jp | trck.a8.net |
 | a8clk.xserver.ne.jp | trck.a8.net |

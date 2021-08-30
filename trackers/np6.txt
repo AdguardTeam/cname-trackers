@@ -75,6 +75,7 @@
 ||tr.easy-offertes.be^
 ||tr.em.cdiscountpro.com^
 ||tr.email.archiexpo.com^
+||tr.email.contact-landrover.fr^
 ||tr.email.custom-campaign.com^
 ||tr.email.directindustry.com^
 ||tr.email.janedeboy.com^
@@ -117,7 +118,9 @@
 ||tr.info.mavoiturecash.fr^
 ||tr.info.mdbp.fr^
 ||tr.info.mobibam.com^
+||tr.info.offresprivilege.com^
 ||tr.info.promoneuve.fr^
+||tr.info.rouen.aeroport.fr^
 ||tr.info.snpden.net^
 ||tr.info.solidarm.fr^
 ||tr.info.valcenis.com^
@@ -136,6 +139,7 @@
 ||tr.jkyg.espmp-cufr.net^
 ||tr.kpyn.espmp-cufr.net^
 ||tr.krus.espmp-agfr.net^
+||tr.lvmhappening.lvmh.fr^
 ||tr.mail.enviedebienmanger.fr^
 ||tr.mail.floa.fr^
 ||tr.mail.koregraf.com^
@@ -170,6 +174,7 @@
 ||tr.news.easyviajar.com^
 ||tr.news.easyvoyage.co.uk^
 ||tr.news.easyvoyage.com^
+||tr.news.easyvoyage.de^
 ||tr.news.geantcasino.fr^
 ||tr.news.heredis.com^
 ||tr.news.infopro-digital.com^

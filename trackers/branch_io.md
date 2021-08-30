@@ -29,6 +29,7 @@
 | 6519114.mktg.almosafer.com | thirdparty.bnc.lt |
 | 6519114.mktg.tajawal.com | thirdparty.bnc.lt |
 | 7701534.emails.tntdrama.com | thirdparty.bnc.lt |
+| 8041691.comms.hipages.com.au | thirdparty.bnc.lt |
 | 8041691.engage.hipages.com.au | thirdparty.bnc.lt |
 | 8147563.1954.bk.com | thirdparty.bnc.lt |
 | 8147563.thekingdom.bk.com | thirdparty.bnc.lt |
@@ -40,6 +41,7 @@
 | a.hibbett.com | thirdparty.bnc.lt |
 | ablink.1954.bk.com | thirdparty.bnc.lt |
 | ablink.a.radio.com | thirdparty.bnc.lt |
+| ablink.abtest.redmart.com | thirdparty.bnc.lt |
 | ablink.account.debut.careers | thirdparty.bnc.lt |
 | ablink.account.quizlet.com | thirdparty.bnc.lt |
 | ablink.account.zip.co | thirdparty.bnc.lt |
@@ -191,6 +193,7 @@
 | bnc.autopass.xyz | thirdparty.bnc.lt |
 | bpe.mlb.com | thirdparty.bnc.lt |
 | bpeml.mlb.com | thirdparty.bnc.lt |
+| br.ac.ebookers.fr | thirdparty.bnc.lt |
 | br.ac.orbitz.com | thirdparty.bnc.lt |
 | br.ac.travelocity.com | thirdparty.bnc.lt |
 | br.backmarket.fr | thirdparty.bnc.lt |
@@ -244,6 +247,7 @@
 | clicks.email.shakeshack.com | thirdparty.bnc.lt |
 | clicks.equinoxplus.com | thirdparty.bnc.lt |
 | clicks.food.mercato.com | thirdparty.bnc.lt |
+| clicks.info.theiconic.com.au | thirdparty.bnc.lt |
 | clicks.lifesum.com | thirdparty.bnc.lt |
 | clicks.metronautapp.com | thirdparty.bnc.lt |
 | clicks.staging.worldremit.com | thirdparty.bnc.lt |

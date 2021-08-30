@@ -35,6 +35,7 @@
 ||analytics.ramiyer.me^
 ||analytics.sixfigureswine.com^
 ||analytics.souazi.com^
+||analytics.sweep.net^
 ||analytics.teamcovenant.com^
 ||analytics.transmoni.vn^
 ||analytics.trust.page^
@@ -136,6 +137,7 @@
 ||plausible.factly.in^
 ||plausible.flowcv.io^
 ||plausible.food.game^
+||plausible.fwouts.com^
 ||plausible.gitjournal.io^
 ||plausible.goatstake.com^
 ||plausible.golfbreaks.com^
@@ -159,7 +161,6 @@
 ||plausible.phuctm97.com^
 ||plausible.play.date^
 ||plausible.prod.sketch.com^
-||plausible.promlabs.com^
 ||plausible.rachel.systems^
 ||plausible.reactpreview.com^
 ||plausible.regex.help^
@@ -176,6 +177,7 @@
 ||plausible.test.sketch.com^
 ||plausible.urbanekuensteruhr.de^
 ||plausible.vaughanesports.org^
+||plausible.viteshot.com^
 ||plausible.west.io^
 ||plausible.zorin.com^
 ||pls.indiemakers.fr^
@@ -233,14 +235,16 @@
 ||stats.briskoda.net^
 ||stats.buildingtheelite.com^
 ||stats.bungeefit.co.uk^
-||stats.bytebase.com^
 ||stats.carrot2.org^
 ||stats.carrotsearch.com^
 ||stats.cassidyjames.com^
 ||stats.catholicluv.com^
 ||stats.changelog.com^
 ||stats.chapterist.show^
+||stats.chronoslabs.net^
 ||stats.citizenos.com^
+||stats.codeexposed.com^
+||stats.colabra.app^
 ||stats.console.dev^
 ||stats.contentwritingjobs.com^
 ||stats.craftybase.com^
@@ -292,6 +296,7 @@
 ||stats.hostfactor.io^
 ||stats.htmlcsstoimage.com^
 ||stats.htp.org^
+||stats.hugoreeves.com^
 ||stats.huysmanbouw.be^
 ||stats.igevia.com^
 ||stats.immunefi.com^
@@ -314,6 +319,7 @@
 ||stats.kryptoslogic.com^
 ||stats.laxallstars.com^
 ||stats.layl.app^
+||stats.leadership.garden^
 ||stats.leaguestats.gg^
 ||stats.learnlinux.tv^
 ||stats.liist.io^
@@ -332,17 +338,18 @@
 ||stats.mikepenz.dev^
 ||stats.mmazzarolo.com^
 ||stats.muchbetteradventures.com^
-||stats.nctm.org^
 ||stats.nddmed.com^
 ||stats.nicklafferty.com^
 ||stats.nicolaskempf.fr^
 ||stats.nodehub.io^
 ||stats.nonprofit.foundation^
 ||stats.nothingbutnylon.com^
+||stats.nrcaknights.com^
 ||stats.ntietz.com^
 ||stats.nytecomics.com^
 ||stats.offthekerb.com^
 ||stats.onepagelove.com^
+||stats.openwebcraft.com^
 ||stats.ortussolutions.com^
 ||stats.oursky.com^
 ||stats.oxygem.com^
@@ -364,6 +371,7 @@
 ||stats.polekatfitness.com^
 ||stats.portabella.io^
 ||stats.pri.org^
+||stats.pricewell.io^
 ||stats.print.work^
 ||stats.profilehunt.net^
 ||stats.raidprotect.org^
@@ -420,6 +428,7 @@
 ||stats.whereisit5pmrightnow.com^
 ||stats.world.hey.com^
 ||stats.wvs.org.uk^
+||stats.wvsindia.org^
 ||stats.wwdcscholars.com^
 ||stats.www.agirpourlenvironnement.org^
 ||stats.x5x.host^

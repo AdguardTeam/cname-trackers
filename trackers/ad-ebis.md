@@ -44,6 +44,7 @@
     * 49bd8542-7sbpa3f6.cname.ebis.ne.jp
     * 4a5353c5-wrr2jzhu.cname.ebis.ne.jp
     * 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp
+    * 4c291f26-leoqufvo.cname.ebis.ne.jp
     * 4dc90a8e-bagmsfc6.cname.ebis.ne.jp
     * 4e405524-rycpokjr.cname.ebis.ne.jp
     * 4f9cdbe0-unrhytys.cname.ebis.ne.jp
@@ -171,6 +172,7 @@
 | ebisstore.tamagokichi.com | 49bd8542-7sbpa3f6.cname.ebis.ne.jp |
 | cname.kyusai.co.jp | 4a5353c5-wrr2jzhu.cname.ebis.ne.jp |
 | ncc.nip-col.jp | 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp |
+| itp.phoebebeautyup.com | 4c291f26-leoqufvo.cname.ebis.ne.jp |
 | nadeshiko2019.kirei-nadeshiko.jp | 4dc90a8e-bagmsfc6.cname.ebis.ne.jp |
 | aaaa.gakkikaitori.co.jp | 4e405524-rycpokjr.cname.ebis.ne.jp |
 | ad-track.paravi.jp | 4f9cdbe0-unrhytys.cname.ebis.ne.jp |

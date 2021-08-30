@@ -29,6 +29,7 @@ webts.adac.de CNAME .
 ; wt-eu02.net disguised trackers
 ;
 a.gedidigital.it CNAME .
+a.hrewards.com CNAME .
 a.intercityhotel.com CNAME .
 a.jaz-hotel.com CNAME .
 a.steigenberger.com CNAME .
@@ -125,6 +126,7 @@ scout.bergfreunde.se CNAME .
 spr.welt.de CNAME .
 startrekk.flaconi.at CNAME .
 startrekk.flaconi.pl CNAME .
+statistics.tuv.com CNAME .
 t.paydirekt.de CNAME .
 text.benefitsatwork.be CNAME .
 text.benefitsatwork.ch CNAME .
@@ -159,6 +161,7 @@ wbtrkk.teufelaudio.nl CNAME .
 wbtrkk.teufelaudio.pl CNAME .
 web.bankofscotland.de CNAME .
 web.diebayerische.de CNAME .
+web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .
 web.info.bonprix.es CNAME .

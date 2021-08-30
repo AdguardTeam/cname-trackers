@@ -75,6 +75,7 @@ tr.e.trouver-un-logement-neuf.com CNAME .
 tr.easy-offertes.be CNAME .
 tr.em.cdiscountpro.com CNAME .
 tr.email.archiexpo.com CNAME .
+tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
 tr.email.directindustry.com CNAME .
 tr.email.janedeboy.com CNAME .
@@ -117,7 +118,9 @@ tr.info.mango-mobilites.fr CNAME .
 tr.info.mavoiturecash.fr CNAME .
 tr.info.mdbp.fr CNAME .
 tr.info.mobibam.com CNAME .
+tr.info.offresprivilege.com CNAME .
 tr.info.promoneuve.fr CNAME .
+tr.info.rouen.aeroport.fr CNAME .
 tr.info.snpden.net CNAME .
 tr.info.solidarm.fr CNAME .
 tr.info.valcenis.com CNAME .
@@ -136,6 +139,7 @@ tr.jevoteenligne.fr CNAME .
 tr.jkyg.espmp-cufr.net CNAME .
 tr.kpyn.espmp-cufr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
+tr.lvmhappening.lvmh.fr CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
 tr.mail.floa.fr CNAME .
 tr.mail.koregraf.com CNAME .
@@ -170,6 +174,7 @@ tr.news.easyviaggio.com CNAME .
 tr.news.easyviajar.com CNAME .
 tr.news.easyvoyage.co.uk CNAME .
 tr.news.easyvoyage.com CNAME .
+tr.news.easyvoyage.de CNAME .
 tr.news.geantcasino.fr CNAME .
 tr.news.heredis.com CNAME .
 tr.news.infopro-digital.com CNAME .

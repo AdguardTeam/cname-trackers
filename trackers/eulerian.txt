@@ -113,7 +113,6 @@
 ||ea.voyage-prive.co.uk^
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
-||ea.zebestof.com^
 ||eat9.thebeat925.ca^
 ||ebc1.capifrance.fr^
 ||ef.futuroscope.com^
@@ -162,7 +161,6 @@
 ||gdm1.toner.fr^
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
-||gi7a.structube.com^
 ||gti3.culture.leclerc^
 ||guq9.vente-unique.it^
 ||gwtc.sfr.fr^
@@ -275,6 +273,7 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
+||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sby1.madeindesign.de^
 ||sd.securitasdirect.fr^

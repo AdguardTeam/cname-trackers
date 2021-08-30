@@ -32,6 +32,7 @@
 ||k.veepee.fr^
 ||k.veepee.it^
 ||k.voyageursdumonde.fr^
+||k.yves-rocher.fr^
 ||ka.ilius.net^
 ||keyade.alltricks.fr^
 ||tck.photobox.com^

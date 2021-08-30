@@ -110,6 +110,7 @@ ebisstore.tamagokichi.com
 greenjapan-cname.green-japan.com
 isebis.takamiclinic.or.jp
 isebis.yutoriform.com
+itp.phoebebeautyup.com
 maz.zba.jp
 msr.p-antiaging.com
 nadeshiko2019.kirei-nadeshiko.jp

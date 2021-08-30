@@ -55,6 +55,7 @@ a8clk.skima.jp
 a8clk.skynet-c.jp
 a8clk.teacon.jp
 a8clk.titivate.jp
+a8clk.wi-ho.net
 a8clk.www.cledepeau-beaute.com
 a8clk.www.nortonstore.jp
 a8clk.xserver.ne.jp

@@ -5,11 +5,11 @@
 #
 2tty.overstappen.nl
 bc.semwerkt.nl
+bound.sightful.be
 cms.hardloopaanbiedingen.nl
 ee.sightful.nl
 en.johnhardy.com
 s1.carnext.com
-style.onvz.nl
 #
 # a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com disguised trackers
 #

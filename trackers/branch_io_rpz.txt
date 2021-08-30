@@ -19,6 +19,7 @@
 6519114.mktg.almosafer.com CNAME .
 6519114.mktg.tajawal.com CNAME .
 7701534.emails.tntdrama.com CNAME .
+8041691.comms.hipages.com.au CNAME .
 8041691.engage.hipages.com.au CNAME .
 8147563.1954.bk.com CNAME .
 8147563.thekingdom.bk.com CNAME .
@@ -30,6 +31,7 @@
 a.hibbett.com CNAME .
 ablink.1954.bk.com CNAME .
 ablink.a.radio.com CNAME .
+ablink.abtest.redmart.com CNAME .
 ablink.account.debut.careers CNAME .
 ablink.account.quizlet.com CNAME .
 ablink.account.zip.co CNAME .
@@ -182,6 +184,7 @@ blinks.mindoktor.se CNAME .
 bnc.autopass.xyz CNAME .
 bpe.mlb.com CNAME .
 bpeml.mlb.com CNAME .
+br.ac.ebookers.fr CNAME .
 br.ac.orbitz.com CNAME .
 br.ac.travelocity.com CNAME .
 br.backmarket.fr CNAME .
@@ -236,6 +239,7 @@ clicks.drizly.com CNAME .
 clicks.email.shakeshack.com CNAME .
 clicks.equinoxplus.com CNAME .
 clicks.food.mercato.com CNAME .
+clicks.info.theiconic.com.au CNAME .
 clicks.lifesum.com CNAME .
 clicks.metronautapp.com CNAME .
 clicks.staging.worldremit.com CNAME .

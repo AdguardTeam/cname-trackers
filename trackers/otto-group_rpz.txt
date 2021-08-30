@@ -9,6 +9,8 @@ te.baur.de CNAME .
 te.creation-l.de CNAME .
 te.frankonia.com CNAME .
 te.frankonia.de CNAME .
+te.heine.at CNAME .
+te.heine.ch CNAME .
 te.heine.de CNAME .
 te.imwalking.de CNAME .
 te.jelmoli-shop.ch CNAME .
@@ -18,6 +20,7 @@ te.mytoys.de CNAME .
 te.otto-baumarkt.de CNAME .
 te.otto.de CNAME .
 te.ottoversand.at CNAME .
+te.quelle.ch CNAME .
 te.schlafwelt.de CNAME .
 te.sheego.de CNAME .
 te.sieh-an.de CNAME .

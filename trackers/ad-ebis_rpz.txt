@@ -110,6 +110,7 @@ ebisstore.tamagokichi.com CNAME .
 greenjapan-cname.green-japan.com CNAME .
 isebis.takamiclinic.or.jp CNAME .
 isebis.yutoriform.com CNAME .
+itp.phoebebeautyup.com CNAME .
 maz.zba.jp CNAME .
 msr.p-antiaging.com CNAME .
 nadeshiko2019.kirei-nadeshiko.jp CNAME .

@@ -61,6 +61,7 @@ tm.urssaf.fr CNAME .
 torropinto.viessmann.es CNAME .
 waati.quechoisir.org CNAME .
 wareneingang.edeka.de CNAME .
+wasserkraftwerkkessel.viessmann.ch CNAME .
 wvvw.france24.com CNAME .
 wvvw.francemediasmonde.com CNAME .
 wvvw.infomigrants.net CNAME .

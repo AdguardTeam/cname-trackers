@@ -113,7 +113,6 @@ ea.vente-unique.lu CNAME .
 ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-ea.zebestof.com CNAME .
 eat9.thebeat925.ca CNAME .
 ebc1.capifrance.fr CNAME .
 ef.futuroscope.com CNAME .
@@ -162,7 +161,6 @@ g1be.swisslife-direct.fr CNAME .
 gdm1.toner.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
-gi7a.structube.com CNAME .
 gti3.culture.leclerc CNAME .
 guq9.vente-unique.it CNAME .
 gwtc.sfr.fr CNAME .
@@ -275,6 +273,7 @@ rh5i.tradingsat.com CNAME .
 rqz4.supdigital.fr CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
+ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sby1.madeindesign.de CNAME .
 sd.securitasdirect.fr CNAME .

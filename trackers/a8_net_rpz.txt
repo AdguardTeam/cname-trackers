@@ -55,6 +55,7 @@ a8clk.skima.jp CNAME .
 a8clk.skynet-c.jp CNAME .
 a8clk.teacon.jp CNAME .
 a8clk.titivate.jp CNAME .
+a8clk.wi-ho.net CNAME .
 a8clk.www.cledepeau-beaute.com CNAME .
 a8clk.www.nortonstore.jp CNAME .
 a8clk.xserver.ne.jp CNAME .
