@@ -4,6 +4,7 @@
 ; k.keyade.com disguised trackers
 ;
 clk.boulanger.com CNAME .
+clk.ubi.com CNAME .
 k.campanile.com CNAME .
 k.cocooncenter.be CNAME .
 k.cocooncenter.co.uk CNAME .

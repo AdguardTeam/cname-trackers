@@ -64,6 +64,7 @@
     * 728252369996325.wt-eu02.net
     * 729347163621496.wt-eu02.net
     * 730059294506327.wt-eu02.net
+    * 734297997850272.wt-eu02.net
     * 737859735586197.wt-eu02.net
     * 741723125859679.wt-eu02.net
     * 752542050590835.wt-eu02.net
@@ -115,10 +116,10 @@
     * sparda01.wt-eu02.net
     * sportscheckde01.wt-eu02.net
     * tipp24-de01.wt-eu02.net
-    * tr.computeruniverse.wt-eu02.net
     * tweakersnl01.wt-eu02.net
     * unioninvestment-de01.wt-eu02.net
     * vhb-01.wt-eu02.net
+    * volksfreund01.wt-eu02.net
     * wa-wdr.wt-eu02.net
     * welt-01.wt-eu02.net
     * wttd-douglas.wt-eu02.net
@@ -169,6 +170,7 @@
 | data.campaign.toyscenter.it | 728252369996325.wt-eu02.net |
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
 | census.misterspex.at | 730059294506327.wt-eu02.net |
+| web.info.varelotteriet.dk | 734297997850272.wt-eu02.net |
 | mapp.yesstyle.com | 737859735586197.wt-eu02.net |
 | web.mail.proximaati.com | 741723125859679.wt-eu02.net |
 | wt.dialog-versicherung.de | 752542050590835.wt-eu02.net |
@@ -255,6 +257,7 @@
 | da.hornbach.se | hornbach-02.wt-eu02.net |
 | da.hornbach.sk | hornbach-02.wt-eu02.net |
 | app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
+| scout.alpinetrek.co.uk | img.bergfreunde.wt-eu02.net |
 | scout.alpiniste.fr | img.bergfreunde.wt-eu02.net |
 | scout.berg-freunde.at | img.bergfreunde.wt-eu02.net |
 | scout.berg-freunde.ch | img.bergfreunde.wt-eu02.net |
@@ -302,11 +305,11 @@
 | pix.telekom.de | telekom01.webtrekk.net |
 | pix.telekom-dienste.de | telekom02.webtrekk.net |
 | tippcom01.tipp24.com | tipp24-de01.wt-eu02.net |
-| tr.computeruniverse.net | tr.computeruniverse.wt-eu02.net |
 | cijfers.tweakers.nl | tweakersnl01.wt-eu02.net |
 | daten.union-investment.de | unioninvestment-de01.wt-eu02.net |
 | wt.vhb.de | vhb-01.wt-eu02.net |
 | w3.vitrade.de | vitrade02.webtrekk.net |
+| data.volksfreund.de | volksfreund01.wt-eu02.net |
 | wa.planet-wissen.de | wa-wdr.wt-eu02.net |
 | wa.quarks.de | wa-wdr.wt-eu02.net |
 | wa.sportschau.de | wa-wdr.wt-eu02.net |

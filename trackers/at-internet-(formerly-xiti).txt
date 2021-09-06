@@ -24,8 +24,10 @@
 ||col.idealista.pt^
 ||collect.meilleurtaux.com^
 ||conimicutlighthouse.viessmann-us.com^
+||culture.intermedes.com^
 ||d.uni-medias.com^
 ||da.maif.fr^
+||faucons.viessmann.fr^
 ||hal.courrierinternational.com^
 ||hd.pe.fr^
 ||image.ard.de^

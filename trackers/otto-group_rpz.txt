@@ -9,6 +9,7 @@ te.baur.de CNAME .
 te.creation-l.de CNAME .
 te.frankonia.com CNAME .
 te.frankonia.de CNAME .
+te.heine-shop.nl CNAME .
 te.heine.at CNAME .
 te.heine.ch CNAME .
 te.heine.de CNAME .

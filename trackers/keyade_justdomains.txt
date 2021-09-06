@@ -4,6 +4,7 @@
 # k.keyade.com disguised trackers
 #
 clk.boulanger.com
+clk.ubi.com
 k.campanile.com
 k.cocooncenter.be
 k.cocooncenter.co.uk

@@ -64,6 +64,7 @@ tr.courriel.ouestnormandie.cci.fr
 tr.courrier.charentelibre.fr
 tr.courrier.larepubliquedespyrenees.fr
 tr.courrier.sudouest.fr
+tr.devis-companeo.be
 tr.devis-companeo.com
 tr.devis-companeo.fr
 tr.devis-express.be
@@ -217,11 +218,11 @@ tr.notification.cetelem.fr
 tr.notification.credit-moderne.fr
 tr.notification.norrsken.fr
 tr.np6.com
+tr.observatoire.musee-orsay.fr
 tr.offres-professionnelles.fr
 tr.offres.01net.com
 tr.offres.bfmtv.com
 tr.offrevip.floa.fr
-tr.orange-lease.fr
 tr.orcamentos-companeo.pt
 tr.panels-mediametrie.fr
 tr.pole-emploi-services.com

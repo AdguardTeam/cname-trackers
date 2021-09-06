@@ -64,6 +64,7 @@ tr.courriel.ouestnormandie.cci.fr CNAME .
 tr.courrier.charentelibre.fr CNAME .
 tr.courrier.larepubliquedespyrenees.fr CNAME .
 tr.courrier.sudouest.fr CNAME .
+tr.devis-companeo.be CNAME .
 tr.devis-companeo.com CNAME .
 tr.devis-companeo.fr CNAME .
 tr.devis-express.be CNAME .
@@ -217,11 +218,11 @@ tr.notification.cetelem.fr CNAME .
 tr.notification.credit-moderne.fr CNAME .
 tr.notification.norrsken.fr CNAME .
 tr.np6.com CNAME .
+tr.observatoire.musee-orsay.fr CNAME .
 tr.offres-professionnelles.fr CNAME .
 tr.offres.01net.com CNAME .
 tr.offres.bfmtv.com CNAME .
 tr.offrevip.floa.fr CNAME .
-tr.orange-lease.fr CNAME .
 tr.orcamentos-companeo.pt CNAME .
 tr.panels-mediametrie.fr CNAME .
 tr.pole-emploi-services.com CNAME .

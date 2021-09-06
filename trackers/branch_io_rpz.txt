@@ -24,6 +24,7 @@
 8147563.1954.bk.com CNAME .
 8147563.thekingdom.bk.com CNAME .
 8147563.your-way.bk.com CNAME .
+9735476.sender.skyscanner.com CNAME .
 9735476.sender.skyscanner.net CNAME .
 9735476.test.skyscanner.net CNAME .
 9857064.hello.spriggy.com.au CNAME .
@@ -169,6 +170,7 @@ activation.depop.com CNAME .
 alerts.steadyapp.com CNAME .
 alinks.outcomes4me.com CNAME .
 ap.hibbett.com CNAME .
+app-clicks-corporate.firstrepublic.com CNAME .
 app-clicks.firstrepublic.com CNAME .
 app.events.philips.com CNAME .
 app.sephora.com CNAME .
@@ -184,11 +186,13 @@ blinks.mindoktor.se CNAME .
 bnc.autopass.xyz CNAME .
 bpe.mlb.com CNAME .
 bpeml.mlb.com CNAME .
+br.ac.ebookers.com CNAME .
 br.ac.ebookers.fr CNAME .
 br.ac.orbitz.com CNAME .
 br.ac.travelocity.com CNAME .
 br.backmarket.fr CNAME .
 br.email.lifesum.com CNAME .
+br.potato1.influitive.com CNAME .
 branch-consumer.hipages.com.au CNAME .
 branch-tradie.hipages.com.au CNAME .
 branch.carvana.com CNAME .
@@ -278,7 +282,6 @@ email.headsuphealth.com CNAME .
 email.link.flipgive.com CNAME .
 email.member.theknot.com CNAME .
 email.mg.everyonesocial.com CNAME .
-email.pac-12.com CNAME .
 email.pray.com CNAME .
 email.social.f5.com CNAME .
 email.strava.com CNAME .
@@ -400,6 +403,7 @@ links.email.twine.com CNAME .
 links.email.usanetwork.com CNAME .
 links.emails.verishop.com CNAME .
 links.evault.history.com CNAME .
+links.fitbod.me CNAME .
 links.glamsquad.com CNAME .
 links.hitrecord.org CNAME .
 links.huckleberry-labs.com CNAME .
@@ -422,6 +426,7 @@ links.ohhey.depop.com CNAME .
 links.openfit.com CNAME .
 links.orders.kfc.com CNAME .
 links.playon.tv CNAME .
+links.schnucks.com CNAME .
 links.sheroes.in CNAME .
 links.shoppers.instacartemail.com CNAME .
 links.strava.com CNAME .
@@ -430,8 +435,10 @@ links.t.wine.com CNAME .
 links.thedyrt.com CNAME .
 links.theyes.com CNAME .
 links.yummly.com CNAME .
+links2.chownowmail.com CNAME .
 links2.emails.verishop.com CNAME .
 linktrace.diningcity.cn CNAME .
+m.irl.com CNAME .
 m1.stadiumgoods.com CNAME .
 mail.theknot.com CNAME .
 mail01.virginpulse.com CNAME .

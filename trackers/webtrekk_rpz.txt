@@ -69,6 +69,7 @@ data.inbank.it CNAME .
 data.leipzig.de CNAME .
 data.mainpost.de CNAME .
 data.mapp.com CNAME .
+data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
 di.ifolor.ch CNAME .
@@ -115,6 +116,7 @@ ot.obi.sk CNAME .
 pix.airbusgroup.com CNAME .
 pix.telekom.com CNAME .
 proditor.sparda.de CNAME .
+scout.alpinetrek.co.uk CNAME .
 scout.alpiniste.fr CNAME .
 scout.berg-freunde.at CNAME .
 scout.berg-freunde.ch CNAME .
@@ -134,7 +136,6 @@ text.convenzioniaziendali.it CNAME .
 text.mitarbeiterangebote.at CNAME .
 text.rahmenvereinbarungen.de CNAME .
 tippcom01.tipp24.com CNAME .
-tr.computeruniverse.net CNAME .
 tr.suedkurier.de CNAME .
 trk.blume2000.de CNAME .
 trk.nuernberger.digital CNAME .
@@ -165,6 +166,7 @@ web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .
 web.info.bonprix.es CNAME .
+web.info.varelotteriet.dk CNAME .
 web.info.yeppon.it CNAME .
 web.mail.proximaati.com CNAME .
 web.mapp.ilgiardinodeilibri.it CNAME .

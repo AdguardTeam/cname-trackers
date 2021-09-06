@@ -21,6 +21,7 @@
     * 26349a15-esqb2ypb.cname.ebis.ne.jp
     * 272dd850-1tkscuog.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
+    * 2ab268f1-uxwrqv9t.cname.ebis.ne.jp
     * 2c9c5766-qkdlymcx.cname.ebis.ne.jp
     * 2cd1a98a-bagmsfc6.cname.ebis.ne.jp
     * 2effafae-p5xsryk6.cname.ebis.ne.jp
@@ -149,6 +150,7 @@
 | ebis.smakon.jp | 26349a15-esqb2ypb.cname.ebis.ne.jp |
 | ad-ebis.mynavi-job20s.jp | 272dd850-1tkscuog.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
+| ebis.studioindi.jp | 2ab268f1-uxwrqv9t.cname.ebis.ne.jp |
 | ebis.codecamp.jp | 2c9c5766-qkdlymcx.cname.ebis.ne.jp |
 | ct.xn--0et88ccz6awh1a.biz | 2cd1a98a-bagmsfc6.cname.ebis.ne.jp |
 | isebis.takamiclinic.or.jp | 2effafae-p5xsryk6.cname.ebis.ne.jp |

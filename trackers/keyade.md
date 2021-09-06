@@ -10,6 +10,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | clk.boulanger.com | k.keyade.com |
+| clk.ubi.com | k.keyade.com |
 | k.campanile.com | k.keyade.com |
 | k.cocooncenter.be | k.keyade.com |
 | k.cocooncenter.co.uk | k.keyade.com |

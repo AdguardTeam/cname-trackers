@@ -24,6 +24,7 @@
 8147563.1954.bk.com
 8147563.thekingdom.bk.com
 8147563.your-way.bk.com
+9735476.sender.skyscanner.com
 9735476.sender.skyscanner.net
 9735476.test.skyscanner.net
 9857064.hello.spriggy.com.au
@@ -169,6 +170,7 @@ activation.depop.com
 alerts.steadyapp.com
 alinks.outcomes4me.com
 ap.hibbett.com
+app-clicks-corporate.firstrepublic.com
 app-clicks.firstrepublic.com
 app.events.philips.com
 app.sephora.com
@@ -184,11 +186,13 @@ blinks.mindoktor.se
 bnc.autopass.xyz
 bpe.mlb.com
 bpeml.mlb.com
+br.ac.ebookers.com
 br.ac.ebookers.fr
 br.ac.orbitz.com
 br.ac.travelocity.com
 br.backmarket.fr
 br.email.lifesum.com
+br.potato1.influitive.com
 branch-consumer.hipages.com.au
 branch-tradie.hipages.com.au
 branch.carvana.com
@@ -278,7 +282,6 @@ email.headsuphealth.com
 email.link.flipgive.com
 email.member.theknot.com
 email.mg.everyonesocial.com
-email.pac-12.com
 email.pray.com
 email.social.f5.com
 email.strava.com
@@ -400,6 +403,7 @@ links.email.twine.com
 links.email.usanetwork.com
 links.emails.verishop.com
 links.evault.history.com
+links.fitbod.me
 links.glamsquad.com
 links.hitrecord.org
 links.huckleberry-labs.com
@@ -422,6 +426,7 @@ links.ohhey.depop.com
 links.openfit.com
 links.orders.kfc.com
 links.playon.tv
+links.schnucks.com
 links.sheroes.in
 links.shoppers.instacartemail.com
 links.strava.com
@@ -430,8 +435,10 @@ links.t.wine.com
 links.thedyrt.com
 links.theyes.com
 links.yummly.com
+links2.chownowmail.com
 links2.emails.verishop.com
 linktrace.diningcity.cn
+m.irl.com
 m1.stadiumgoods.com
 mail.theknot.com
 mail01.virginpulse.com

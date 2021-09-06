@@ -23,8 +23,10 @@
     * col-idealista-pt-cddc.at-o.net
     * collect-meilleurtaux-com-cddc.at-o.net
     * conimicutlighthouse-viessmann-us-com-cddc.at-o.net
+    * culture-intermedes-com-cddc.at-o.net
     * d-uni-medias-com-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
+    * faucons-viessmann-fr-cddc.at-o.net
     * hal-courrierinternational-com-cddc.at-o.net
     * hd-pe-fr-cddc.at-o.net
     * image-ard-de-cddc.at-o.net
@@ -96,8 +98,10 @@
 | col.idealista.pt | col-idealista-pt-cddc.at-o.net |
 | collect.meilleurtaux.com | collect-meilleurtaux-com-cddc.at-o.net |
 | conimicutlighthouse.viessmann-us.com | conimicutlighthouse-viessmann-us-com-cddc.at-o.net |
+| culture.intermedes.com | culture-intermedes-com-cddc.at-o.net |
 | d.uni-medias.com | d-uni-medias-com-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |
+| faucons.viessmann.fr | faucons-viessmann-fr-cddc.at-o.net |
 | hal.courrierinternational.com | hal-courrierinternational-com-cddc.at-o.net |
 | hd.pe.fr | hd-pe-fr-cddc.at-o.net |
 | image.ard.de | image-ard-de-cddc.at-o.net |

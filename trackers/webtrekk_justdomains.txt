@@ -69,6 +69,7 @@ data.inbank.it
 data.leipzig.de
 data.mainpost.de
 data.mapp.com
+data.volksfreund.de
 data.westlotto.de
 daten.union-investment.de
 di.ifolor.ch
@@ -115,6 +116,7 @@ ot.obi.sk
 pix.airbusgroup.com
 pix.telekom.com
 proditor.sparda.de
+scout.alpinetrek.co.uk
 scout.alpiniste.fr
 scout.berg-freunde.at
 scout.berg-freunde.ch
@@ -134,7 +136,6 @@ text.convenzioniaziendali.it
 text.mitarbeiterangebote.at
 text.rahmenvereinbarungen.de
 tippcom01.tipp24.com
-tr.computeruniverse.net
 tr.suedkurier.de
 trk.blume2000.de
 trk.nuernberger.digital
@@ -165,6 +166,7 @@ web.email.theindependentpharmacy.co.uk
 web.emails.elc.co.uk
 web.emails.thetoyshop.com
 web.info.bonprix.es
+web.info.varelotteriet.dk
 web.info.yeppon.it
 web.mail.proximaati.com
 web.mapp.ilgiardinodeilibri.it

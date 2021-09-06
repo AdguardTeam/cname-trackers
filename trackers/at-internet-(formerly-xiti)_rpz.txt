@@ -24,8 +24,10 @@ col.idealista.it CNAME .
 col.idealista.pt CNAME .
 collect.meilleurtaux.com CNAME .
 conimicutlighthouse.viessmann-us.com CNAME .
+culture.intermedes.com CNAME .
 d.uni-medias.com CNAME .
 da.maif.fr CNAME .
+faucons.viessmann.fr CNAME .
 hal.courrierinternational.com CNAME .
 hd.pe.fr CNAME .
 image.ard.de CNAME .

@@ -9,6 +9,7 @@ a8.denwa-hikari.com
 a8.eonet.jp
 a8.geo-online.co.jp
 a8.haptic.co.jp
+a8.instokyo.com
 a8.lavie-official.jp
 a8.lens-labo.com
 a8.looop-denki.com
@@ -98,5 +99,6 @@ cart.matsuzaka-steak.com
 cv.a-internet.jp
 cv.drive-hikari.net
 cv.online.ysroad.co.jp
+sub.booksdream-mypage.com
 summary.bookoffonline.co.jp
 trcka8net.irobot-jp.com

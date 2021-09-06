@@ -108,6 +108,7 @@ pl.maya-astro.fi
 pl.terraintinker.com
 pl.volunteeringauckland.org.nz
 pl.volunteeringwaikato.org.nz
+pl.volunteermarlborough.org.nz
 pla.wigglepixel.nl
 plas.imfeld.dev
 plau.devitjobs.uk
@@ -156,6 +157,7 @@ plausible.mattpruitt.com
 plausible.moncefbelyamani.com
 plausible.nova.app
 plausible.nubemia.com
+plausible.nuqu.org
 plausible.panic.com
 plausible.pgmustard.com
 plausible.phuctm97.com
@@ -179,6 +181,7 @@ plausible.urbanekuensteruhr.de
 plausible.vaughanesports.org
 plausible.viteshot.com
 plausible.west.io
+plausible.zest.dev
 plausible.zorin.com
 pls.indiemakers.fr
 plsbl.edison.se
@@ -227,6 +230,7 @@ stats.bholmes.dev
 stats.biblionumericus.fr
 stats.bitpost.app
 stats.blockleviton.com
+stats.blog.codingmilitia.com
 stats.blog.sean-wright.com
 stats.blog.sublimesecurity.com
 stats.bluesabre.org
@@ -244,6 +248,7 @@ stats.chapterist.show
 stats.chronoslabs.net
 stats.citizenos.com
 stats.codeexposed.com
+stats.coditia.com
 stats.colabra.app
 stats.console.dev
 stats.contentwritingjobs.com
@@ -259,6 +264,7 @@ stats.davestewart.co.uk
 stats.davidlms.com
 stats.deva.guru
 stats.digiexpert.store
+stats.divyanshu013.dev
 stats.doors.live
 stats.drewbolles.com
 stats.drgomesp.dev
@@ -271,6 +277,7 @@ stats.emailrep.io
 stats.emmas.site
 stats.engineering.freeagent.com
 stats.englishadam.com
+stats.erlef.org
 stats.executebig.org
 stats.fabiofranchino.com
 stats.farbenmeer.de
@@ -285,6 +292,7 @@ stats.fundimmo.com
 stats.geobox.app
 stats.getdoks.org
 stats.gethyas.com
+stats.getpickaxe.com
 stats.glassmountains.co.uk
 stats.graphql-api.com
 stats.gslc.utah.edu
@@ -323,6 +331,7 @@ stats.leadership.garden
 stats.leaguestats.gg
 stats.learnlinux.tv
 stats.liist.io
+stats.livingedge.ngo
 stats.lollipoptest.at
 stats.lord.io
 stats.ltdhunt.com
@@ -337,6 +346,7 @@ stats.melvingeorge.me
 stats.mesenvies.fr
 stats.mikepenz.dev
 stats.mmazzarolo.com
+stats.motion-effect.com
 stats.muchbetteradventures.com
 stats.nddmed.com
 stats.nicklafferty.com
@@ -363,6 +373,7 @@ stats.paysagistes.pro
 stats.personalkollen.se
 stats.pianoplanet.app
 stats.picci.app
+stats.pinoymusicstation.com
 stats.piranhas.co
 stats.pixify.net
 stats.plastbest.sk
@@ -437,6 +448,7 @@ stats3.ferheng.co
 statystyki.ekspertyzy-szkolenia.pl
 sts.papyrs.com
 t.andarpersassi.it
+thor.pureelectric.se
 thumos.fileside.app
 tics.seeker.gg
 tics.techdirt.com

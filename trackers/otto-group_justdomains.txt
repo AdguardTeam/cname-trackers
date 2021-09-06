@@ -9,6 +9,7 @@ te.baur.de
 te.creation-l.de
 te.frankonia.com
 te.frankonia.de
+te.heine-shop.nl
 te.heine.at
 te.heine.ch
 te.heine.de

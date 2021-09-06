@@ -15,6 +15,7 @@
 | a8.eonet.jp | trck.a8.net |
 | a8.geo-online.co.jp | trck.a8.net |
 | a8.haptic.co.jp | trck.a8.net |
+| a8.instokyo.com | trck.a8.net |
 | a8.lavie-official.jp | trck.a8.net |
 | a8.lens-labo.com | trck.a8.net |
 | a8.looop-denki.com | trck.a8.net |
@@ -104,5 +105,6 @@
 | cv.a-internet.jp | trck.a8.net |
 | cv.drive-hikari.net | trck.a8.net |
 | cv.online.ysroad.co.jp | trck.a8.net |
+| sub.booksdream-mypage.com | trck.a8.net |
 | summary.bookoffonline.co.jp | trck.a8.net |
 | trcka8net.irobot-jp.com | trck.a8.net |
