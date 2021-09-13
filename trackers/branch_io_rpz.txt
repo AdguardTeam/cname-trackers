@@ -200,6 +200,7 @@ branch.chelseafc.com CNAME .
 branch.email.livenation.com CNAME .
 branch.pgatour-mail.com CNAME .
 branchlink.adobespark.com CNAME .
+branchtrk.lendingtree.com CNAME .
 brc.emails.rakuten.com CNAME .
 click.aaptiv.com CNAME .
 click.bible.com CNAME .
@@ -249,6 +250,7 @@ clicks.metronautapp.com CNAME .
 clicks.staging.worldremit.com CNAME .
 cn1.stadiumgoods.com CNAME .
 cn2.stadiumgoods.com CNAME .
+cq.hq1.influitive.com CNAME .
 ct.irl.com CNAME .
 ct.irlmail.org CNAME .
 deeplink.aspiration.com CNAME .
@@ -298,6 +300,7 @@ goto.zaful.com CNAME .
 gotoaws.dresslily.com CNAME .
 gotoaws.rosegal.com CNAME .
 gotoaws.zaful.com CNAME .
+gotoedm.whereyogi.com CNAME .
 gotoexp.dresslily.com CNAME .
 hello.steadyapp.com CNAME .
 ilinks.petalcard.com CNAME .
@@ -322,9 +325,12 @@ link.automated.tajawal.com CNAME .
 link.cdl.freshly.com CNAME .
 link.cheerz.com CNAME .
 link.creditonemail.com CNAME .
+link.design.unum.la CNAME .
 link.e.blog.myfitnesspal.com CNAME .
 link.earnin.com CNAME .
+link.em.sssports.com CNAME .
 link.email.almosafer.com CNAME .
+link.email.atumanera.burgerking.com.mx CNAME .
 link.email.bnext.es CNAME .
 link.email.myfitnesspal.com CNAME .
 link.email.ninetynine.com CNAME .

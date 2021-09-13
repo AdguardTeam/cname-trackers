@@ -3,23 +3,49 @@
 ;
 ; dataunlocker.com disguised trackers
 ;
+1amehwchx31.bloxdhop.io CNAME .
+1asr0l6zjb1.franchiseplus.nl CNAME .
+1bw7etm93lf.www.woodbrass.com CNAME .
+1iy4gu0lpkp.my.gloryleague.basketball CNAME .
+1j2n061x3td.www.digi.no CNAME .
+1op1je6zs97.www.emanualonline.com CNAME .
+1q6ck0lrhrr.www.newsinside.org CNAME .
+1zzs6w25i8n.tube.inflatevids.xyz CNAME .
+25voj20abod.honeyswap.org CNAME .
+2829i2p88jx.www.csaladinet.hu CNAME .
+5n2y9omclb.panprices.com CNAME .
+5ytahorfwt0n.flex.team CNAME .
+bygr2ri20e4y.li.finance CNAME .
+c5ai4b502b.www.chandlerorchards.com CNAME .
+cihnqp6p65.koinly.io CNAME .
+ctj21ofemjy7.catoriclothing.com CNAME .
+ddddljxhefoy.www.earthclassmail.com CNAME .
+e5o28q264rbh.www.cybernetman.com CNAME .
+e5obq1v261.www.lurkit.com CNAME .
+i3f01h2ser3z.www.logology.co CNAME .
+m5yw219v6r.app.koinly.io CNAME .
+pbuci7pdjgez.furucombo.app CNAME .
+s4s51f00a3o7.www.eldorado.gg CNAME .
+tos5dqejpd.www.freecodecamp.org CNAME .
+xlvvy4msxr.coolinastore.com CNAME .
+ypf4i81rjs5p.unstoppabledomains.com CNAME .
+yrjpgjv35y9x.salud-masculina.info CNAME .
+;
+; creative-banana.tk disguised trackers
+;
 11jboxuvhdn.www.jeddd.com CNAME .
 1amehwchx31.bloxdhop.io CNAME .
 1asr0l6zjb1.franchiseplus.nl CNAME .
-1avhg3kanx9.www.earthclassmail.com CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
 1j2n061x3td.www.digi.no CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
-1m7bv0c62id.www.cybernetman.com CNAME .
 1op1je6zs97.www.emanualonline.com CNAME .
 1p3293dngsv.dodofacile.fr CNAME .
 1q6ck0lrhrr.www.newsinside.org CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 225arud0w9f.blanc.ru CNAME .
 25voj20abod.honeyswap.org CNAME .
-27bqjmht7ph.www.word.com.au CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
-493ro63z3fka.fjlaboratories.com CNAME .
 4iyaysuvob.www.logology.co CNAME .
 5n2y9omclb.panprices.com CNAME .
 5qz5gmi6c6pn.boxoffice.adventuretix.com CNAME .
@@ -30,8 +56,6 @@ c5ai4b502b.www.chandlerorchards.com CNAME .
 cihnqp6p65.koinly.io CNAME .
 ctj21ofemjy7.catoriclothing.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
-ejdkgx7ysj.www.nookgaming.com CNAME .
-m57zv59mcfkj.www.fjlaboratories.com CNAME .
 m5yw219v6r.app.koinly.io CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 pbuci7pdjgez.furucombo.app CNAME .

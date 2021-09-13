@@ -23,12 +23,14 @@
 ||ar.i-run.fr^
 ||aze0.dmp.leclerc^
 ||azg1.emalu-store.com^
+||b1n.carabins.umontreal.ca^
 ||b6ft.zone-turf.fr^
 ||bhu9.bankia.es^
 ||bpe2.destinia.co.il^
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
+||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||cc.conforama.es^
@@ -100,6 +102,7 @@
 ||ea.rentacar.fr^
 ||ea.reunica.com^
 ||ea.roxy.eu^
+||ea.smallable.com^
 ||ea.smartbox.com^
 ||ea.telecommandeonline.com^
 ||ea.tool-fitness.com^
@@ -161,6 +164,7 @@
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
 ||gti3.culture.leclerc^
+||gti3.hightech.leclerc^
 ||guq9.vente-unique.it^
 ||gwtc.sfr.fr^
 ||h00c.sfr.fr^
@@ -169,7 +173,6 @@
 ||he6e.lavieimmo.com^
 ||hgf4.zanzicar.fr^
 ||hjc6.supcareer.com^
-||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^
@@ -197,7 +200,6 @@
 ||lsv5.belambra.fr^
 ||ly8c.caci-online.fr^
 ||lzuc.sfr.fr^
-||m10.m1029.com^
 ||m3ds.subarumetropolitain.com^
 ||mfd.myfirstdressing.com^
 ||mgt7.madeindesign.it^
@@ -293,6 +295,7 @@
 ||t.locasun.it^
 ||t.locasun.nl^
 ||t.voyages-sncf.com^
+||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tce0.primes-energie.leclerc^

@@ -64,6 +64,7 @@ cname.finess.jp CNAME .
 cname.jaic-college.jp CNAME .
 cname.jf-d.jp CNAME .
 cname.kyusai.co.jp CNAME .
+cname.lions-mansion.jp CNAME .
 cname.mebiusseiyaku.co.jp CNAME .
 cname1.shakenkan.co.jp CNAME .
 cnameebis.usagi-online.com CNAME .
@@ -123,7 +124,9 @@ qxhydkz8.hmjdaw.ntt.com CNAME .
 real-fitness2019.real-fitness.jp CNAME .
 seo.tkc110.jp CNAME .
 sep02.hinagiku-life.jp CNAME .
+tracking.mysurance.co.jp CNAME .
 tracking.nokai.jp CNAME .
 tukuru.cotta.jp CNAME .
 urerucname.manara.jp CNAME .
+us9recc3.simseller.goo.ne.jp CNAME .
 y8hxgv9m.kobetsu.co.jp CNAME .

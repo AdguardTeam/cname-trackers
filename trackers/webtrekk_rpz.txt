@@ -136,6 +136,7 @@ text.convenzioniaziendali.it CNAME .
 text.mitarbeiterangebote.at CNAME .
 text.rahmenvereinbarungen.de CNAME .
 tippcom01.tipp24.com CNAME .
+tr.computeruniverse.net CNAME .
 tr.suedkurier.de CNAME .
 trk.blume2000.de CNAME .
 trk.nuernberger.digital CNAME .
@@ -161,6 +162,7 @@ wbtrkk.teufelaudio.it CNAME .
 wbtrkk.teufelaudio.nl CNAME .
 wbtrkk.teufelaudio.pl CNAME .
 web.bankofscotland.de CNAME .
+web.comunicazioni.iol.it CNAME .
 web.diebayerische.de CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .

@@ -200,6 +200,7 @@ branch.chelseafc.com
 branch.email.livenation.com
 branch.pgatour-mail.com
 branchlink.adobespark.com
+branchtrk.lendingtree.com
 brc.emails.rakuten.com
 click.aaptiv.com
 click.bible.com
@@ -249,6 +250,7 @@ clicks.metronautapp.com
 clicks.staging.worldremit.com
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
+cq.hq1.influitive.com
 ct.irl.com
 ct.irlmail.org
 deeplink.aspiration.com
@@ -298,6 +300,7 @@ goto.zaful.com
 gotoaws.dresslily.com
 gotoaws.rosegal.com
 gotoaws.zaful.com
+gotoedm.whereyogi.com
 gotoexp.dresslily.com
 hello.steadyapp.com
 ilinks.petalcard.com
@@ -322,9 +325,12 @@ link.automated.tajawal.com
 link.cdl.freshly.com
 link.cheerz.com
 link.creditonemail.com
+link.design.unum.la
 link.e.blog.myfitnesspal.com
 link.earnin.com
+link.em.sssports.com
 link.email.almosafer.com
+link.email.atumanera.burgerking.com.mx
 link.email.bnext.es
 link.email.myfitnesspal.com
 link.email.ninetynine.com

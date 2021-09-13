@@ -95,6 +95,7 @@
 ||tr.envie-de-bien-manger.espmp-aufr.net^
 ||tr.europa-organisation.com^
 ||tr.evenements.inpi.fr^
+||tr.fr.pro.accor.com^
 ||tr.gestion.banque-casino.fr^
 ||tr.gestion.cetelem.fr^
 ||tr.gestion.cofinoga.fr^
@@ -150,6 +151,7 @@
 ||tr.mailing.lvmhappening.com^
 ||tr.mailing.r2e-humanis.fr^
 ||tr.marketing.younited-credit.com^
+||tr.mart.espmp-agfr.net^
 ||tr.mhist.moethennessy.com^
 ||tr.mm.infopro-digital.com^
 ||tr.mnoc.espmp-nifr.net^

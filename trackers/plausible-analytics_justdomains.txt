@@ -37,16 +37,15 @@ analytics.sixfigureswine.com
 analytics.souazi.com
 analytics.sweep.net
 analytics.teamcovenant.com
-analytics.transmoni.vn
 analytics.trust.page
 analytics.uxmetrics.com
 analytics.valheimgamer.com
 analytics.whotargets.me
 analytics.winter.ink
 analytics.wittypen.com
+analytics.zingerwebdesign.com
 antitracking.owncast.online
 ap.dt.gl
-api-pl.kdrag0n.dev
 api.decentralize.today
 api.elliehuxtable.com
 app-stats.supernotes.app
@@ -154,6 +153,7 @@ plausible.kreya.app
 plausible.lesbianromantic.com
 plausible.lovesdata.com
 plausible.mattpruitt.com
+plausible.microwire.info
 plausible.moncefbelyamani.com
 plausible.nova.app
 plausible.nubemia.com
@@ -200,6 +200,7 @@ s.schlachter.tech
 s.sporks.space
 sa.flux.community
 sats.mailbrew.com
+server.japanbyrivercruise.com
 simple.bootify.io
 site-stats.supernotes.app
 sp.jrklein.com
@@ -211,6 +212,7 @@ stat.bill.harding.blog
 statistics.csweapons.com
 statistics.heatbeat.de
 stats.acadevor.com
+stats.aixbrain.de
 stats.allaboutberlin.com
 stats.alleaktien.de
 stats.am.ai
@@ -281,6 +283,7 @@ stats.erlef.org
 stats.executebig.org
 stats.fabiofranchino.com
 stats.farbenmeer.de
+stats.feathercss.makerkits.co
 stats.felipesere.com
 stats.femtobill.com
 stats.filmfed.com
@@ -288,6 +291,7 @@ stats.finger-ink.com
 stats.flightsphere.com
 stats.frenlo.com
 stats.fruechtl.me
+stats.fullofwishes.co.uk
 stats.fundimmo.com
 stats.geobox.app
 stats.getdoks.org
@@ -327,7 +331,6 @@ stats.krauss.io
 stats.kryptoslogic.com
 stats.laxallstars.com
 stats.layl.app
-stats.leadership.garden
 stats.leaguestats.gg
 stats.learnlinux.tv
 stats.liist.io
@@ -335,6 +338,7 @@ stats.livingedge.ngo
 stats.lollipoptest.at
 stats.lord.io
 stats.ltdhunt.com
+stats.ltodrivingschools.org
 stats.macosicons.com
 stats.macroarraydx.com
 stats.marcradziwill.com
@@ -347,6 +351,7 @@ stats.mesenvies.fr
 stats.mikepenz.dev
 stats.mmazzarolo.com
 stats.motion-effect.com
+stats.motornation.net
 stats.muchbetteradventures.com
 stats.nddmed.com
 stats.nicklafferty.com
@@ -391,6 +396,8 @@ stats.rasulkireev.com
 stats.readng.co
 stats.referralhero.com
 stats.reisemobil.pro
+stats.remotebear.io
+stats.remotejobs.co.uk
 stats.reprage.com
 stats.ruhrfestspiele.de
 stats.ruthmontenegro.com
@@ -398,6 +405,7 @@ stats.scalgo.com
 stats.scottbartell.com
 stats.screen-play.app
 stats.screenwavemedia.com
+stats.sebastiangale.ca
 stats.seedthemes.com
 stats.share.link
 stats.shareup.app
@@ -414,6 +422,7 @@ stats.spp.co
 stats.stackingthebricks.com
 stats.stacks.org
 stats.steuer-soldaten.de
+stats.stopchikane.nu
 stats.strawberry.rocks
 stats.sublimesecurity.com
 stats.svenadolph.net
@@ -444,6 +453,7 @@ stats.wwdcscholars.com
 stats.www.agirpourlenvironnement.org
 stats.x5x.host
 stats.yourdallashandyman.com
+stats.zander.wtf
 stats3.ferheng.co
 statystyki.ekspertyzy-szkolenia.pl
 sts.papyrs.com

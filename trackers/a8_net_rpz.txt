@@ -23,6 +23,7 @@ a8.tone.ne.jp CNAME .
 a8.tour-sys.com CNAME .
 a8.uqmobile-shop.jp CNAME .
 a8.virus-gekitai.com CNAME .
+a8.web-hikari.net CNAME .
 a8.webist-cri.com CNAME .
 a8.yuzen-official.com CNAME .
 a8aspconv.xn--biglobe-kc9k.com CNAME .

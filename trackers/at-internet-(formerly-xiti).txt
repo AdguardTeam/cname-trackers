@@ -15,6 +15,7 @@
 ||atconnect.npo.nl^
 ||ati-a1.946d001b783803c1.xhst.bbci.co.uk^
 ||atxqb.psychologies.com^
+||avocado.laprovence.com^
 ||buf.lemonde.fr^
 ||c.atinternet-solutions.com^
 ||c0012.brsimg.com^

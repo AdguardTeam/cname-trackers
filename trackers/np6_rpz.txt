@@ -95,6 +95,7 @@ tr.enedis-infos.fr CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net CNAME .
 tr.europa-organisation.com CNAME .
 tr.evenements.inpi.fr CNAME .
+tr.fr.pro.accor.com CNAME .
 tr.gestion.banque-casino.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
 tr.gestion.cofinoga.fr CNAME .
@@ -150,6 +151,7 @@ tr.mail.vipmag.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
 tr.mailing.r2e-humanis.fr CNAME .
 tr.marketing.younited-credit.com CNAME .
+tr.mart.espmp-agfr.net CNAME .
 tr.mhist.moethennessy.com CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .

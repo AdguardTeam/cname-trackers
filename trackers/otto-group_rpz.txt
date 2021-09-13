@@ -22,6 +22,7 @@ te.otto-baumarkt.de CNAME .
 te.otto.de CNAME .
 te.ottoversand.at CNAME .
 te.quelle.ch CNAME .
+te.quelle.de CNAME .
 te.schlafwelt.de CNAME .
 te.sheego.de CNAME .
 te.sieh-an.de CNAME .

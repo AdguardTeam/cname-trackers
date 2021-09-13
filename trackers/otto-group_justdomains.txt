@@ -22,6 +22,7 @@ te.otto-baumarkt.de
 te.otto.de
 te.ottoversand.at
 te.quelle.ch
+te.quelle.de
 te.schlafwelt.de
 te.sheego.de
 te.sieh-an.de

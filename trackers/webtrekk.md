@@ -31,6 +31,7 @@
     * 148749046266446.wt-eu02.net
     * 176652923057792.wt-eu02.net
     * 208005830805862.wt-eu02.net
+    * 215973748390194.wt-eu02.net
     * 243341177383246.wt-eu02.net
     * 285545256993116.wt-eu02.net
     * 286813086616891.wt-eu02.net
@@ -116,6 +117,7 @@
     * sparda01.wt-eu02.net
     * sportscheckde01.wt-eu02.net
     * tipp24-de01.wt-eu02.net
+    * tr.computeruniverse.wt-eu02.net
     * tweakersnl01.wt-eu02.net
     * unioninvestment-de01.wt-eu02.net
     * vhb-01.wt-eu02.net
@@ -134,6 +136,7 @@
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
 | census.misterspex.de | 208005830805862.wt-eu02.net |
+| web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | web.info.yeppon.it | 243341177383246.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
@@ -305,6 +308,7 @@
 | pix.telekom.de | telekom01.webtrekk.net |
 | pix.telekom-dienste.de | telekom02.webtrekk.net |
 | tippcom01.tipp24.com | tipp24-de01.wt-eu02.net |
+| tr.computeruniverse.net | tr.computeruniverse.wt-eu02.net |
 | cijfers.tweakers.nl | tweakersnl01.wt-eu02.net |
 | daten.union-investment.de | unioninvestment-de01.wt-eu02.net |
 | wt.vhb.de | vhb-01.wt-eu02.net |
