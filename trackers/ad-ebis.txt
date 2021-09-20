@@ -22,6 +22,7 @@
 ||adebis.angfa-store.jp^
 ||adebis.daiwahouse.co.jp^
 ||adebis.demae-can.com^
+||adebis.e-ohaka.com^
 ||adebis.fenet.jp^
 ||adebis.harutaka.jp^
 ||adebis.irobot-jp.com^

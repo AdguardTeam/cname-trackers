@@ -30,7 +30,6 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
@@ -114,7 +113,6 @@ ea.vente-unique.lu CNAME .
 ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-eat9.thebeat925.ca CNAME .
 ebc1.capifrance.fr CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
@@ -176,7 +174,6 @@ hjc6.supcareer.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
-iop4.aireuropa.com CNAME .
 jcr3.onlyyouhotels.com CNAME .
 jelr1.dili.fr CNAME .
 jfp6.destinia.de CNAME .

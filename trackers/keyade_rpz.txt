@@ -12,6 +12,7 @@ k.cocooncenter.com CNAME .
 k.cocooncenter.de CNAME .
 k.cocooncenter.es CNAME .
 k.comptoir.fr CNAME .
+k.comptoirdesvoyages.fr CNAME .
 k.direct-assurance.fr CNAME .
 k.fnacspectacles.com CNAME .
 k.jacadi.co.uk CNAME .

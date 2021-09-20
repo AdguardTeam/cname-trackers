@@ -39,6 +39,7 @@ kiki.rireetchansons.fr CNAME .
 lem.nouvelobs.com CNAME .
 logs1257.at.pagesjaunes.fr CNAME .
 mango.seloger.com CNAME .
+mkt.usz.ch CNAME .
 mond.post.ch CNAME .
 mond.postauto.ch CNAME .
 montpalatin.handicap.fr CNAME .
@@ -65,6 +66,7 @@ torropinto.viessmann.es CNAME .
 waati.quechoisir.org CNAME .
 wareneingang.edeka.de CNAME .
 wasserkraftwerkkessel.viessmann.ch CNAME .
+waterlooberlin.viessmann.ca CNAME .
 wvvw.france24.com CNAME .
 wvvw.francemediasmonde.com CNAME .
 wvvw.infomigrants.net CNAME .

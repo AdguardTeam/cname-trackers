@@ -39,6 +39,7 @@
 ||lem.nouvelobs.com^
 ||logs1257.at.pagesjaunes.fr^
 ||mango.seloger.com^
+||mkt.usz.ch^
 ||mond.post.ch^
 ||mond.postauto.ch^
 ||montpalatin.handicap.fr^
@@ -65,6 +66,7 @@
 ||waati.quechoisir.org^
 ||wareneingang.edeka.de^
 ||wasserkraftwerkkessel.viessmann.ch^
+||waterlooberlin.viessmann.ca^
 ||wvvw.france24.com^
 ||wvvw.francemediasmonde.com^
 ||wvvw.infomigrants.net^

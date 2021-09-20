@@ -46,6 +46,7 @@
     * 425587064188106.wt-eu02.net
     * 427813503923049.wt-eu02.net
     * 451504046304293.wt-eu02.net
+    * 467808562573270.wt-eu02.net
     * 470719744966924.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
@@ -154,6 +155,7 @@
 | web.news.piquadro.com | 425587064188106.wt-eu02.net |
 | wbtrkk.teufelaudio.com | 427813503923049.wt-eu02.net |
 | wbtrkk.teufelaudio.it | 451504046304293.wt-eu02.net |
+| a.deutschehospitality.com | 467808562573270.wt-eu02.net |
 | webt.pure.com | 470719744966924.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
@@ -302,6 +304,7 @@
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |
 | proditor.sparda.de | sparda01.wt-eu02.net |
 | wetr.sportscheck.at | sportscheckde01.wt-eu02.net |
+| wetr.sportscheck.ch | sportscheckde01.wt-eu02.net |
 | wetr.sportscheck.com | sportscheckde01.wt-eu02.net |
 | tracking.tchibo.de | tchibo03.webtrekk.net |
 | tracking.tchibo.com.tr | tchibo09.webtrekk.net |

@@ -189,6 +189,7 @@
 | b.itravel.southwest.com | thirdparty.bnc.lt |
 | b.iwanna.southwest.com | thirdparty.bnc.lt |
 | b.lyst.com | thirdparty.bnc.lt |
+| b.prod1.youroffers.dominos.ca | thirdparty.bnc.lt |
 | b.your.offers.dominos.com | thirdparty.bnc.lt |
 | bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au | thirdparty.bnc.lt |
 | blinks.mindoktor.se | thirdparty.bnc.lt |
@@ -426,7 +427,6 @@
 | links.info.kfc.com | thirdparty.bnc.lt |
 | links.m.blueapron.com | thirdparty.bnc.lt |
 | links.mail.allbirds.com | thirdparty.bnc.lt |
-| links.mail.foodnetwork.com | thirdparty.bnc.lt |
 | links.mail.stubhub.com | thirdparty.bnc.lt |
 | links.marketing.getprizepool.com | thirdparty.bnc.lt |
 | links.nbc.com | thirdparty.bnc.lt |

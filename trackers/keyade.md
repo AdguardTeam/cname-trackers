@@ -18,6 +18,7 @@
 | k.cocooncenter.de | k.keyade.com |
 | k.cocooncenter.es | k.keyade.com |
 | k.comptoir.fr | k.keyade.com |
+| k.comptoirdesvoyages.fr | k.keyade.com |
 | k.direct-assurance.fr | k.keyade.com |
 | k.fnacspectacles.com | k.keyade.com |
 | k.jacadi.co.uk | k.keyade.com |

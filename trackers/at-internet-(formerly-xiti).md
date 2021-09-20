@@ -38,6 +38,7 @@
     * lem-nouvelobs-com-cddc.at-o.net
     * logs1257-at-pagesjaunes-fr-cddc.at-o.net
     * mango-seloger-com-cddc.at-o.net
+    * mkt-usz-ch-cddc.at-o.net
     * mond-post-ch-cddc.at-o.net
     * mond-postauto-ch-cddc.at-o.net
     * montpalatin-handicap-fr-cddc.at-o.net
@@ -64,6 +65,7 @@
     * waati-quechoisir-org-cddc.at-o.net
     * wareneingang-edeka-de-cddc.at-o.net
     * wasserkraftwerkkessel-viessmann-ch-cddc.at-o.net
+    * waterlooberlin-viessmann-ca-cddc.at-o.net
     * wvvw-france24-com-cddc.at-o.net
     * wvvw-francemediasmonde-com-cddc.at-o.net
     * wvvw-infomigrants-net-cddc.at-o.net
@@ -114,6 +116,7 @@
 | lem.nouvelobs.com | lem-nouvelobs-com-cddc.at-o.net |
 | logs1257.at.pagesjaunes.fr | logs1257-at-pagesjaunes-fr-cddc.at-o.net |
 | mango.seloger.com | mango-seloger-com-cddc.at-o.net |
+| mkt.usz.ch | mkt-usz-ch-cddc.at-o.net |
 | mond.post.ch | mond-post-ch-cddc.at-o.net |
 | mond.postauto.ch | mond-postauto-ch-cddc.at-o.net |
 | montpalatin.handicap.fr | montpalatin-handicap-fr-cddc.at-o.net |
@@ -140,6 +143,7 @@
 | waati.quechoisir.org | waati-quechoisir-org-cddc.at-o.net |
 | wareneingang.edeka.de | wareneingang-edeka-de-cddc.at-o.net |
 | wasserkraftwerkkessel.viessmann.ch | wasserkraftwerkkessel-viessmann-ch-cddc.at-o.net |
+| waterlooberlin.viessmann.ca | waterlooberlin-viessmann-ca-cddc.at-o.net |
 | wvvw.france24.com | wvvw-france24-com-cddc.at-o.net |
 | wvvw.francemediasmonde.com | wvvw-francemediasmonde-com-cddc.at-o.net |
 | wvvw.infomigrants.net | wvvw-infomigrants-net-cddc.at-o.net |

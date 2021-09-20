@@ -83,6 +83,7 @@
 ||a8cv.sakura-forest.com^
 ||a8cv.shibarinashi-wifi.jp^
 ||a8cv.signalift.com^
+||a8cv.store.alpen-group.jp^
 ||a8cv.try-fs.com^
 ||a8cv.unito.life^
 ||a8cv.workman.jp^

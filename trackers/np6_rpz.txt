@@ -57,6 +57,7 @@ tr.communication.b2b-actualites.com CNAME .
 tr.communication.boursorama.info CNAME .
 tr.communication.cgaaer.fr CNAME .
 tr.communication.harmonie-mutuelle.fr CNAME .
+tr.communication.lvmh.fr CNAME .
 tr.communication.moethennessy.com CNAME .
 tr.communication.numericable.fr CNAME .
 tr.contact.canalplus.fr CNAME .
@@ -141,6 +142,7 @@ tr.jevoteenligne.fr CNAME .
 tr.jkyg.espmp-cufr.net CNAME .
 tr.kpyn.espmp-cufr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
+tr.lesmarques.envie-de-bien-manger.com CNAME .
 tr.lvmhappening.lvmh.fr CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
 tr.mail.floa.fr CNAME .

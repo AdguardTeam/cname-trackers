@@ -13,6 +13,7 @@ a.hellonext.co CNAME .
 a.mhthemes.com CNAME .
 a.skcript.com CNAME .
 a.visitefoz.com.br CNAME .
+analytics.adamstoner.com CNAME .
 analytics.adonisjs.com CNAME .
 analytics.arunraghavan.net CNAME .
 analytics.behaheaters.co.uk CNAME .
@@ -24,6 +25,7 @@ analytics.dogecoin.gg CNAME .
 analytics.explained-from-first-principles.com CNAME .
 analytics.fatalparadox.com CNAME .
 analytics.filiotech.com CNAME .
+analytics.gamedatacrunch.com CNAME .
 analytics.hiome.com CNAME .
 analytics.itsnoahevans.co.uk CNAME .
 analytics.lapiazzetta-horsham.com CNAME .
@@ -67,6 +69,7 @@ datum.appfleet.com CNAME .
 dragon.moneycoach.io CNAME .
 eliteclng.ericksonbuilt.com CNAME .
 f8phvntohv.tpetry.me CNAME .
+ftllrl.fotoallerlei.com CNAME .
 gullfoss.deepsource.io CNAME .
 hej.henriksommerfeld.se CNAME .
 hi.streetworkoutlist.com CNAME .
@@ -349,11 +352,13 @@ stats.matthogg.fyi CNAME .
 stats.melvingeorge.me CNAME .
 stats.mesenvies.fr CNAME .
 stats.mikepenz.dev CNAME .
+stats.missionrabies.com CNAME .
 stats.mmazzarolo.com CNAME .
 stats.motion-effect.com CNAME .
 stats.motornation.net CNAME .
 stats.muchbetteradventures.com CNAME .
 stats.nddmed.com CNAME .
+stats.nerdbusiness.com CNAME .
 stats.nicklafferty.com CNAME .
 stats.nicolaskempf.fr CNAME .
 stats.nodehub.io CNAME .
@@ -467,6 +472,7 @@ tokei.upstract.com CNAME .
 track.slickinbox.com CNAME .
 traffic.hostedstatus.page CNAME .
 visite.scambi.org CNAME .
+visitors.asadis.net CNAME .
 visits.quitsocialmedia.club CNAME .
 visits.tommi.space CNAME .
 vole.amplenote.com CNAME .

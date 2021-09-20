@@ -89,6 +89,7 @@
 | a8cv.sakura-forest.com | trck.a8.net |
 | a8cv.shibarinashi-wifi.jp | trck.a8.net |
 | a8cv.signalift.com | trck.a8.net |
+| a8cv.store.alpen-group.jp | trck.a8.net |
 | a8cv.try-fs.com | trck.a8.net |
 | a8cv.unito.life | trck.a8.net |
 | a8cv.workman.jp | trck.a8.net |

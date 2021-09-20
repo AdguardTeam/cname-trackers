@@ -180,6 +180,7 @@ b.iheart.southwest.com CNAME .
 b.itravel.southwest.com CNAME .
 b.iwanna.southwest.com CNAME .
 b.lyst.com CNAME .
+b.prod1.youroffers.dominos.ca CNAME .
 b.your.offers.dominos.com CNAME .
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au CNAME .
 blinks.mindoktor.se CNAME .
@@ -419,7 +420,6 @@ links.info.headspace.com CNAME .
 links.info.kfc.com CNAME .
 links.m.blueapron.com CNAME .
 links.mail.allbirds.com CNAME .
-links.mail.foodnetwork.com CNAME .
 links.mail.stubhub.com CNAME .
 links.marketing.getprizepool.com CNAME .
 links.nbc.com CNAME .

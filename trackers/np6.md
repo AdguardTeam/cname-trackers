@@ -62,6 +62,7 @@
 | tr.communication.boursorama.info | tracking.bp01.net |
 | tr.communication.cgaaer.fr | tracking.bp01.net |
 | tr.communication.harmonie-mutuelle.fr | tracking.bp01.net |
+| tr.communication.lvmh.fr | tracking.bp01.net |
 | tr.communication.moethennessy.com | tracking.bp01.net |
 | tr.communication.numericable.fr | tracking.bp01.net |
 | tr.contact.canalplus.fr | tracking.bp01.net |
@@ -146,6 +147,7 @@
 | tr.jkyg.espmp-cufr.net | tracking.bp01.net |
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
 | tr.krus.espmp-agfr.net | tracking.bp01.net |
+| tr.lesmarques.envie-de-bien-manger.com | tracking.bp01.net |
 | tr.lvmhappening.lvmh.fr | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
 | tr.mail.floa.fr | tracking.bp01.net |

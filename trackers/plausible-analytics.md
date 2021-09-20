@@ -18,6 +18,7 @@
 | a.mhthemes.com | custom.plausible.io |
 | a.skcript.com | custom.plausible.io |
 | a.visitefoz.com.br | custom.plausible.io |
+| analytics.adamstoner.com | custom.plausible.io |
 | analytics.adonisjs.com | custom.plausible.io |
 | analytics.arunraghavan.net | custom.plausible.io |
 | analytics.behaheaters.co.uk | custom.plausible.io |
@@ -29,6 +30,7 @@
 | analytics.explained-from-first-principles.com | custom.plausible.io |
 | analytics.fatalparadox.com | custom.plausible.io |
 | analytics.filiotech.com | custom.plausible.io |
+| analytics.gamedatacrunch.com | custom.plausible.io |
 | analytics.hiome.com | custom.plausible.io |
 | analytics.itsnoahevans.co.uk | custom.plausible.io |
 | analytics.lapiazzetta-horsham.com | custom.plausible.io |
@@ -72,6 +74,7 @@
 | dragon.moneycoach.io | custom.plausible.io |
 | eliteclng.ericksonbuilt.com | custom.plausible.io |
 | f8phvntohv.tpetry.me | custom.plausible.io |
+| ftllrl.fotoallerlei.com | custom.plausible.io |
 | gullfoss.deepsource.io | custom.plausible.io |
 | hej.henriksommerfeld.se | custom.plausible.io |
 | hi.streetworkoutlist.com | custom.plausible.io |
@@ -354,11 +357,13 @@
 | stats.melvingeorge.me | custom.plausible.io |
 | stats.mesenvies.fr | custom.plausible.io |
 | stats.mikepenz.dev | custom.plausible.io |
+| stats.missionrabies.com | custom.plausible.io |
 | stats.mmazzarolo.com | custom.plausible.io |
 | stats.motion-effect.com | custom.plausible.io |
 | stats.motornation.net | custom.plausible.io |
 | stats.muchbetteradventures.com | custom.plausible.io |
 | stats.nddmed.com | custom.plausible.io |
+| stats.nerdbusiness.com | custom.plausible.io |
 | stats.nicklafferty.com | custom.plausible.io |
 | stats.nicolaskempf.fr | custom.plausible.io |
 | stats.nodehub.io | custom.plausible.io |
@@ -472,6 +477,7 @@
 | track.slickinbox.com | custom.plausible.io |
 | traffic.hostedstatus.page | custom.plausible.io |
 | visite.scambi.org | custom.plausible.io |
+| visitors.asadis.net | custom.plausible.io |
 | visits.quitsocialmedia.club | custom.plausible.io |
 | visits.tommi.space | custom.plausible.io |
 | vole.amplenote.com | custom.plausible.io |

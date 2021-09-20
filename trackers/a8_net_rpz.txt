@@ -83,6 +83,7 @@ a8cv.p-antiaging.com CNAME .
 a8cv.sakura-forest.com CNAME .
 a8cv.shibarinashi-wifi.jp CNAME .
 a8cv.signalift.com CNAME .
+a8cv.store.alpen-group.jp CNAME .
 a8cv.try-fs.com CNAME .
 a8cv.unito.life CNAME .
 a8cv.workman.jp CNAME .

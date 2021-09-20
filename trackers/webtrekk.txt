@@ -28,6 +28,7 @@
 !
 ! wt-eu02.net disguised trackers
 !
+||a.deutschehospitality.com^
 ||a.gedidigital.it^
 ||a.hrewards.com^
 ||a.intercityhotel.com^
@@ -183,6 +184,7 @@
 ||webmet.creditreform.de^
 ||webt.pure.com^
 ||wetr.sportscheck.at^
+||wetr.sportscheck.ch^
 ||wetr.sportscheck.com^
 ||wt.dialog-versicherung.de^
 ||wt.envivas.de^

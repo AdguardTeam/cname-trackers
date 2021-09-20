@@ -180,6 +180,7 @@
 ||b.itravel.southwest.com^
 ||b.iwanna.southwest.com^
 ||b.lyst.com^
+||b.prod1.youroffers.dominos.ca^
 ||b.your.offers.dominos.com^
 ||bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au^
 ||blinks.mindoktor.se^
@@ -419,7 +420,6 @@
 ||links.info.kfc.com^
 ||links.m.blueapron.com^
 ||links.mail.allbirds.com^
-||links.mail.foodnetwork.com^
 ||links.mail.stubhub.com^
 ||links.marketing.getprizepool.com^
 ||links.nbc.com^

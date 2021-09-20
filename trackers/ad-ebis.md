@@ -128,6 +128,7 @@
     * eceb7b9f-6a92yces.cname.ebis.ne.jp
     * f199b50c-gy66xg6s.cname.ebis.ne.jp
     * f3054804-quxzshgd.cname.ebis.ne.jp
+    * f923e064-jwm2vvcx.cname.ebis.ne.jp
     * fc0a624f-lxzgwtkr.cname.ebis.ne.jp
     * fe1d7165-mmpoiy89.cname.ebis.ne.jp
 
@@ -260,5 +261,6 @@
 | adebisu.wowow.co.jp | eceb7b9f-6a92yces.cname.ebis.ne.jp |
 | sep02.hinagiku-life.jp | f199b50c-gy66xg6s.cname.ebis.ne.jp |
 | ebis2020.hoiku-job.net | f3054804-quxzshgd.cname.ebis.ne.jp |
+| adebis.e-ohaka.com | f923e064-jwm2vvcx.cname.ebis.ne.jp |
 | ebis.sekisuiheim.com | fc0a624f-lxzgwtkr.cname.ebis.ne.jp |
 | axjfkc.kobayashi.co.jp | fe1d7165-mmpoiy89.cname.ebis.ne.jp |

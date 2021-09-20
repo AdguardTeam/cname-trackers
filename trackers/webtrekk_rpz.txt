@@ -28,6 +28,7 @@ webts.adac.de CNAME .
 ;
 ; wt-eu02.net disguised trackers
 ;
+a.deutschehospitality.com CNAME .
 a.gedidigital.it CNAME .
 a.hrewards.com CNAME .
 a.intercityhotel.com CNAME .
@@ -183,6 +184,7 @@ web.x.ilpost.it CNAME .
 webmet.creditreform.de CNAME .
 webt.pure.com CNAME .
 wetr.sportscheck.at CNAME .
+wetr.sportscheck.ch CNAME .
 wetr.sportscheck.com CNAME .
 wt.dialog-versicherung.de CNAME .
 wt.envivas.de CNAME .
