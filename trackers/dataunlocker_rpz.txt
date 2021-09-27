@@ -7,6 +7,36 @@
 1bw7etm93lf.www.woodbrass.com CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
 1op1je6zs97.www.emanualonline.com CNAME .
+1zzs6w25i8n.tube.inflatevids.xyz CNAME .
+2829i2p88jx.www.csaladinet.hu CNAME .
+2qqfxz5kecr4.www.eldorado.gg CNAME .
+3wn3w3skxpym.round.t3.gg CNAME .
+5ytahorfwt0n.flex.team CNAME .
+9a7dv7p21r7m.furucombo.app CNAME .
+cihnqp6p65.koinly.io CNAME .
+cpcimoukaltn.www.nookgaming.com CNAME .
+e5obq1v261.www.lurkit.com CNAME .
+fp84rw0jinz7.blanc.ru CNAME .
+gaujc8nzm6m1.www.usa-corporate.com CNAME .
+i4m41mz71pae.www.word.com.au CNAME .
+m5yw219v6r.app.koinly.io CNAME .
+mi4jdd1t8cbb.www.cybernetman.com CNAME .
+qwcp5tza48tt.xpollinate.io CNAME .
+ros3d4dbs3px.salud-masculina.info CNAME .
+s2whyufxmzam.chatpay.com.br CNAME .
+tf0lorti5xbi.www.logology.co CNAME .
+tos5dqejpd.www.freecodecamp.org CNAME .
+uhm26jyr11zv.www.freecodecamp.org CNAME .
+x2l5lsn8rvsq.li.finance CNAME .
+xlvvy4msxr.coolinastore.com CNAME .
+ypf4i81rjs5p.unstoppabledomains.com CNAME .
+;
+; welcoming-carpets.tk disguised trackers
+;
+1amehwchx31.bloxdhop.io CNAME .
+1bw7etm93lf.www.woodbrass.com CNAME .
+1kpv4njzilv.community.intersystems.com CNAME .
+1op1je6zs97.www.emanualonline.com CNAME .
 1q6ck0lrhrr.www.newsinside.org CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 25voj20abod.honeyswap.org CNAME .
@@ -17,13 +47,10 @@
 5ytahorfwt0n.flex.team CNAME .
 9upp9h74lf50.www.botcomics.com CNAME .
 cihnqp6p65.koinly.io CNAME .
-cks83u765a1i.furucombo.app CNAME .
 ctj21ofemjy7.catoriclothing.com CNAME .
-dgeken5vqrhy.www.nookgaming.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 i3f01h2ser3z.www.logology.co CNAME .
 m5yw219v6r.app.koinly.io CNAME .
-mq6j2otvkeao.blanc.ru CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 qwcp5tza48tt.xpollinate.io CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
@@ -31,6 +58,4 @@ s4s51f00a3o7.www.eldorado.gg CNAME .
 t82u62xfa1.hypera.live CNAME .
 tos5dqejpd.www.freecodecamp.org CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
-y6xwx8jhsj1t.www.earthclassmail.com CNAME .
-ydqylmmph31j.adria.gg CNAME .
 ypf4i81rjs5p.unstoppabledomains.com CNAME .

@@ -5,6 +5,8 @@
 * wizaly.com
     * t.wizaly.com
     * tk-abt-com.wizaly.com
+    * tk-alexandermcqueen-com.wizaly.com
+    * tk-balenciaga-com.wizaly.com
     * tk-biovea-com.wizaly.com
     * tk-bricoprive-com.wizaly.com
     * tk-conforama-fr.wizaly.com
@@ -35,6 +37,8 @@
 | ---- | ---- |
 | twiz.wizaly.fr | t.wizaly.com |
 | tk.abt.com | tk-abt-com.wizaly.com |
+| tk.alexandermcqueen.com | tk-alexandermcqueen-com.wizaly.com |
+| tk.balenciaga.com | tk-balenciaga-com.wizaly.com |
 | tk.biovea.com | tk-biovea-com.wizaly.com |
 | tk.bricoprive.com | tk-bricoprive-com.wizaly.com |
 | tk.conforama.fr | tk-conforama-fr.wizaly.com |

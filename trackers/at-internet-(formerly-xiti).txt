@@ -63,6 +63,7 @@
 ||strawberry.basf.com^
 ||tm.urssaf.fr^
 ||torropinto.viessmann.es^
+||tse.telerama.fr^
 ||waati.quechoisir.org^
 ||wareneingang.edeka.de^
 ||wasserkraftwerkkessel.viessmann.ch^

@@ -249,6 +249,7 @@ clicks.info.theiconic.com.au
 clicks.lifesum.com
 clicks.metronautapp.com
 clicks.staging.worldremit.com
+clicks.variis.com
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
 cq.hq1.influitive.com
@@ -279,6 +280,7 @@ email.boxed.com
 email.clearscore.co.za
 email.clearscore.com
 email.clearscore.com.au
+email.everyonesocial.unity.com
 email.fretello.com
 email.goodrx.com
 email.headsuphealth.com
@@ -465,12 +467,14 @@ t.ac.pandora.com
 t.beautybay.com
 t.comms.thetimes.co.uk
 t.discover.kayosports.com.au
+t.newsletter.thetimes.co.uk
 t.prod1.discover.binge.com.au
 t.service.thetimes.co.uk
 t1.benefits.tops.co.th
 t1.stadiumgoods.com
 td.benefits.tops.co.th
 td.ecomms.originenergy.com.au
+td.testbnc.originenergy.com.au
 test-eml.postmates.com
 test-fleet-eml.postmates.com
 test.customers.instacartemail.com
@@ -483,6 +487,7 @@ tracking.email-mandrill.pushd.com
 tracking.laredoute.fr
 tracking.sp.sofi.com
 trk.bc.shutterfly.com
+trk.dijanow.com
 trk.geico.com
 trk.m1.stadiumgoods.com
 trk.s.sephora.com

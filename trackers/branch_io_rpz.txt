@@ -249,6 +249,7 @@ clicks.info.theiconic.com.au CNAME .
 clicks.lifesum.com CNAME .
 clicks.metronautapp.com CNAME .
 clicks.staging.worldremit.com CNAME .
+clicks.variis.com CNAME .
 cn1.stadiumgoods.com CNAME .
 cn2.stadiumgoods.com CNAME .
 cq.hq1.influitive.com CNAME .
@@ -279,6 +280,7 @@ email.boxed.com CNAME .
 email.clearscore.co.za CNAME .
 email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
+email.everyonesocial.unity.com CNAME .
 email.fretello.com CNAME .
 email.goodrx.com CNAME .
 email.headsuphealth.com CNAME .
@@ -465,12 +467,14 @@ t.ac.pandora.com CNAME .
 t.beautybay.com CNAME .
 t.comms.thetimes.co.uk CNAME .
 t.discover.kayosports.com.au CNAME .
+t.newsletter.thetimes.co.uk CNAME .
 t.prod1.discover.binge.com.au CNAME .
 t.service.thetimes.co.uk CNAME .
 t1.benefits.tops.co.th CNAME .
 t1.stadiumgoods.com CNAME .
 td.benefits.tops.co.th CNAME .
 td.ecomms.originenergy.com.au CNAME .
+td.testbnc.originenergy.com.au CNAME .
 test-eml.postmates.com CNAME .
 test-fleet-eml.postmates.com CNAME .
 test.customers.instacartemail.com CNAME .
@@ -483,6 +487,7 @@ tracking.email-mandrill.pushd.com CNAME .
 tracking.laredoute.fr CNAME .
 tracking.sp.sofi.com CNAME .
 trk.bc.shutterfly.com CNAME .
+trk.dijanow.com CNAME .
 trk.geico.com CNAME .
 trk.m1.stadiumgoods.com CNAME .
 trk.s.sephora.com CNAME .

@@ -31,7 +31,6 @@
 ||adebis.kose.co.jp^
 ||adebis.koutsujiko.jp^
 ||adebis.livable.co.jp^
-||adebis.macnica.co.jp^
 ||adebis.nursery.co.jp^
 ||adebis.qeee.jp^
 ||adebis.real-style.co.jp^
@@ -56,6 +55,7 @@
 ||bbbb.goace.jp^
 ||beeline.beeline-tire.co.jp^
 ||belegend2019.belegend.jp^
+||campaign-direct.eisai.jp^
 ||cmass.massmedian.co.jp^
 ||cname-ade.hankoya.com^
 ||cname-adebis.nice2meet.us^
@@ -84,6 +84,7 @@
 ||ebis.ce-parfait.com^
 ||ebis.codecamp.jp^
 ||ebis.hokensoudannavi.jp^
+||ebis.jobcan.ne.jp^
 ||ebis.kubara.jp^
 ||ebis.la-coco.com^
 ||ebis.nomu-silica.jp^
@@ -110,6 +111,7 @@
 ||ebiscname.j-esthe.com^
 ||ebisfracora.fracora.com^
 ||ebisstore.tamagokichi.com^
+||ebs.green-osaka.com^
 ||greenjapan-cname.green-japan.com^
 ||isebis.takamiclinic.or.jp^
 ||isebis.yutoriform.com^

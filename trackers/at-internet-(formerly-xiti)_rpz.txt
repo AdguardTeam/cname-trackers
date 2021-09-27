@@ -63,6 +63,7 @@ steinernehaus.viessmann.at CNAME .
 strawberry.basf.com CNAME .
 tm.urssaf.fr CNAME .
 torropinto.viessmann.es CNAME .
+tse.telerama.fr CNAME .
 waati.quechoisir.org CNAME .
 wareneingang.edeka.de CNAME .
 wasserkraftwerkkessel.viessmann.ch CNAME .

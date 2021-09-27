@@ -21,6 +21,7 @@
 | k.comptoirdesvoyages.fr | k.keyade.com |
 | k.direct-assurance.fr | k.keyade.com |
 | k.fnacspectacles.com | k.keyade.com |
+| k.hofmann.es | k.keyade.com |
 | k.jacadi.co.uk | k.keyade.com |
 | k.jacadi.de | k.keyade.com |
 | k.jacadi.es | k.keyade.com |

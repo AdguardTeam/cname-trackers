@@ -23,13 +23,13 @@ anz7.allianz-voyage.fr
 ar.i-run.fr
 aze0.dmp.leclerc
 azg1.emalu-store.com
-b1n.carabins.umontreal.ca
 b6ft.zone-turf.fr
 bhu9.bankia.es
 bpe2.destinia.co.il
 bum7.bymycar.fr
 bvz5.destinia.com.tr
 bwj4.hrhibiza.com
+c0i.ckoi.com
 c0p.cepsum.umontreal.ca
 c4dv.copinesdevoyage.com
 cc.conforama.es
@@ -111,8 +111,10 @@ ea.vente-unique.ch
 ea.vente-unique.com
 ea.vente-unique.lu
 ea.voyage-prive.co.uk
+ea.voyage-prive.es
 ea.voyage-prive.it
 ea.warnerbros.fr
+eat9.thebeat925.ca
 ebc1.capifrance.fr
 ef.futuroscope.com
 ef.futuroscope.mobi
@@ -223,7 +225,6 @@ nlf6.vente-unique.pl
 nmo1.orpi.com
 noa0.compteczam.fr
 nrg.red-by-sfr.fr
-nym5c.bonlook.com
 nym5c.laura.ca
 nyt1.biosens-leanature.fr
 o68c.sfr.fr
@@ -292,7 +293,6 @@ t.locasun.fr
 t.locasun.it
 t.locasun.nl
 t.voyages-sncf.com
-t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tce0.primes-energie.leclerc

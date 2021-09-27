@@ -16,6 +16,8 @@ tk.airfrance.it CNAME .
 tk.airfrance.ru CNAME .
 tk.airfrance.tn CNAME .
 tk.airfrance.us CNAME .
+tk.alexandermcqueen.com CNAME .
+tk.balenciaga.com CNAME .
 tk.biovea.com CNAME .
 tk.bricoprive.com CNAME .
 tk.conforama.fr CNAME .

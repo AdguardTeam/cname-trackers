@@ -37,6 +37,7 @@
 ||analytics.ramiyer.me^
 ||analytics.sixfigureswine.com^
 ||analytics.souazi.com^
+||analytics.ss88.us^
 ||analytics.sweep.net^
 ||analytics.teamcovenant.com^
 ||analytics.trust.page^
@@ -91,6 +92,7 @@
 ||p.classroombookings.com^
 ||p.e-bot7.com^
 ||p.fairspot.host^
+||p.nqueue.io^
 ||p.versacommerce.de^
 ||p.victoria.dev^
 ||p.wren.co^
@@ -108,6 +110,7 @@
 ||pl.ethan.link^
 ||pl.maya-astro.fi^
 ||pl.terraintinker.com^
+||pl.the-investing-desk.com^
 ||pl.volunteeringauckland.org.nz^
 ||pl.volunteeringwaikato.org.nz^
 ||pl.volunteermarlborough.org.nz^
@@ -169,7 +172,6 @@
 ||plausible.rachel.systems^
 ||plausible.reactpreview.com^
 ||plausible.regex.help^
-||plausible.resilienz-kongress.de^
 ||plausible.ruqqus.com^
 ||plausible.simplelogin.io^
 ||plausible.simpleportfolio.app^
@@ -190,6 +192,7 @@
 ||plsbl.edison.se^
 ||pm.redbull.com^
 ||pstat.akathists.com^
+||retention.ankidecks.com^
 ||s.80000hours.org^
 ||s.allbootdisks.com^
 ||s.cameratico.com^
@@ -197,6 +200,7 @@
 ||s.cuoresportivo.no^
 ||s.fission.codes^
 ||s.glimesh.tv^
+||s.mannes.tech^
 ||s.nerdfulmind.com^
 ||s.nslookup.io^
 ||s.schlachter.tech^
@@ -204,6 +208,7 @@
 ||sa.flux.community^
 ||sats.mailbrew.com^
 ||server.japanbyrivercruise.com^
+||server.olliehorn.com^
 ||simple.bootify.io^
 ||site-stats.supernotes.app^
 ||sp.jrklein.com^
@@ -214,6 +219,7 @@
 ||stat.bill.harding.blog^
 ||statistics.csweapons.com^
 ||statistics.heatbeat.de^
+||stats.45rpm.ch^
 ||stats.acadevor.com^
 ||stats.aixbrain.de^
 ||stats.allaboutberlin.com^
@@ -242,6 +248,7 @@
 ||stats.breadtube.tv^
 ||stats.breathly.app^
 ||stats.briskoda.net^
+||stats.broddin.be^
 ||stats.buildingtheelite.com^
 ||stats.bungeefit.co.uk^
 ||stats.carrot2.org^
@@ -252,6 +259,7 @@
 ||stats.chapterist.show^
 ||stats.chronoslabs.net^
 ||stats.citizenos.com^
+||stats.code-it-studio.de^
 ||stats.codeexposed.com^
 ||stats.coditia.com^
 ||stats.colabra.app^
@@ -280,6 +288,7 @@
 ||stats.emaillove.com^
 ||stats.emailrep.io^
 ||stats.emmas.site^
+||stats.engeldirekt.de^
 ||stats.engineering.freeagent.com^
 ||stats.englishadam.com^
 ||stats.erlef.org^
@@ -307,6 +316,7 @@
 ||stats.hex.pm^
 ||stats.hexdocs.pm^
 ||stats.hey.com^
+||stats.homerdixon.com^
 ||stats.homestow.com^
 ||stats.hostfactor.io^
 ||stats.htmlcsstoimage.com^
@@ -320,6 +330,7 @@
 ||stats.instabudget.app^
 ||stats.interactjs.io^
 ||stats.iscc-system.org^
+||stats.ivankahl.com^
 ||stats.jackwhiting.co.uk^
 ||stats.jdheyburn.co.uk^
 ||stats.jerickson.net^
@@ -336,6 +347,7 @@
 ||stats.layl.app^
 ||stats.leaguestats.gg^
 ||stats.learnlinux.tv^
+||stats.lessimpact.org^
 ||stats.liist.io^
 ||stats.livingedge.ngo^
 ||stats.lollipoptest.at^
@@ -345,6 +357,7 @@
 ||stats.macosicons.com^
 ||stats.macroarraydx.com^
 ||stats.marcradziwill.com^
+||stats.martinbetz.eu^
 ||stats.marudor.de^
 ||stats.masjidbox.com^
 ||stats.matthiasloibl.com^
@@ -381,8 +394,8 @@
 ||stats.paulbutler.org^
 ||stats.paysagistes.pro^
 ||stats.personalkollen.se^
+||stats.phili.pe^
 ||stats.pianoplanet.app^
-||stats.picci.app^
 ||stats.pinoymusicstation.com^
 ||stats.piranhas.co^
 ||stats.pixify.net^
@@ -404,6 +417,7 @@
 ||stats.remotebear.io^
 ||stats.remotejobs.co.uk^
 ||stats.reprage.com^
+||stats.robhope.com^
 ||stats.ruhrfestspiele.de^
 ||stats.ruthmontenegro.com^
 ||stats.scalgo.com^
@@ -412,6 +426,7 @@
 ||stats.screenwavemedia.com^
 ||stats.sebastiangale.ca^
 ||stats.seedthemes.com^
+||stats.seedwebs.com^
 ||stats.share.link^
 ||stats.shareup.app^
 ||stats.sheer.tj^
@@ -436,6 +451,7 @@
 ||stats.thomasvitale.com^
 ||stats.toiletmap.org.uk^
 ||stats.travel.geek.nz^
+||stats.travelfodder.com^
 ||stats.tresor.one^
 ||stats.tubecalculator.co.uk^
 ||stats.twenty.so^

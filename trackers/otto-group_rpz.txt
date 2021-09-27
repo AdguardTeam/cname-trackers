@@ -18,12 +18,10 @@ te.jelmoli-shop.ch CNAME .
 te.limango.de CNAME .
 te.mirapodo.de CNAME .
 te.mytoys.de CNAME .
-te.otto-baumarkt.de CNAME .
 te.otto.de CNAME .
 te.ottoversand.at CNAME .
 te.quelle.ch CNAME .
 te.quelle.de CNAME .
-te.schlafwelt.de CNAME .
 te.sheego.de CNAME .
 te.sieh-an.de CNAME .
 te.universal.at CNAME .
@@ -33,7 +31,6 @@ te.witt-weiden.ch CNAME .
 te.witt-weiden.de CNAME .
 te.yomonda.de CNAME .
 te.your-look-for-less.nl CNAME .
-te.yourhome.de CNAME .
 tp.ackermann.ch CNAME .
 tp.baur.de CNAME .
 tp.frankonia.at CNAME .
@@ -48,14 +45,11 @@ tp.jelmoli-shop.ch CNAME .
 tp.limango.de CNAME .
 tp.mirapodo.de CNAME .
 tp.mytoys.de CNAME .
-tp.otto-baumarkt.de CNAME .
 tp.otto.de CNAME .
 tp.ottoversand.at CNAME .
 tp.quelle.at CNAME .
 tp.quelle.ch CNAME .
 tp.quelle.de CNAME .
-tp.schlafwelt.de CNAME .
 tp.sheego.de CNAME .
 tp.universal.at CNAME .
 tp.yomonda.de CNAME .
-tp.yourhome.de CNAME .

@@ -257,6 +257,7 @@
 | clicks.lifesum.com | thirdparty.bnc.lt |
 | clicks.metronautapp.com | thirdparty.bnc.lt |
 | clicks.staging.worldremit.com | thirdparty.bnc.lt |
+| clicks.variis.com | thirdparty.bnc.lt |
 | cn1.stadiumgoods.com | thirdparty.bnc.lt |
 | cn2.stadiumgoods.com | thirdparty.bnc.lt |
 | cq.hq1.influitive.com | thirdparty.bnc.lt |
@@ -286,6 +287,7 @@
 | email.clearscore.co.za | thirdparty.bnc.lt |
 | email.clearscore.com | thirdparty.bnc.lt |
 | email.clearscore.com.au | thirdparty.bnc.lt |
+| email.everyonesocial.unity.com | thirdparty.bnc.lt |
 | email.fretello.com | thirdparty.bnc.lt |
 | email.goodrx.com | thirdparty.bnc.lt |
 | email.headsuphealth.com | thirdparty.bnc.lt |
@@ -471,12 +473,14 @@
 | t.beautybay.com | thirdparty.bnc.lt |
 | t.comms.thetimes.co.uk | thirdparty.bnc.lt |
 | t.discover.kayosports.com.au | thirdparty.bnc.lt |
+| t.newsletter.thetimes.co.uk | thirdparty.bnc.lt |
 | t.prod1.discover.binge.com.au | thirdparty.bnc.lt |
 | t.service.thetimes.co.uk | thirdparty.bnc.lt |
 | t1.benefits.tops.co.th | thirdparty.bnc.lt |
 | t1.stadiumgoods.com | thirdparty.bnc.lt |
 | td.benefits.tops.co.th | thirdparty.bnc.lt |
 | td.ecomms.originenergy.com.au | thirdparty.bnc.lt |
+| td.testbnc.originenergy.com.au | thirdparty.bnc.lt |
 | test-eml.postmates.com | thirdparty.bnc.lt |
 | test-fleet-eml.postmates.com | thirdparty.bnc.lt |
 | test.customers.instacartemail.com | thirdparty.bnc.lt |
@@ -489,6 +493,7 @@
 | tracking.laredoute.fr | thirdparty.bnc.lt |
 | tracking.sp.sofi.com | thirdparty.bnc.lt |
 | trk.bc.shutterfly.com | thirdparty.bnc.lt |
+| trk.dijanow.com | thirdparty.bnc.lt |
 | trk.geico.com | thirdparty.bnc.lt |
 | trk.m1.stadiumgoods.com | thirdparty.bnc.lt |
 | trk.s.sephora.com | thirdparty.bnc.lt |

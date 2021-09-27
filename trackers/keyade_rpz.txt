@@ -15,6 +15,7 @@ k.comptoir.fr CNAME .
 k.comptoirdesvoyages.fr CNAME .
 k.direct-assurance.fr CNAME .
 k.fnacspectacles.com CNAME .
+k.hofmann.es CNAME .
 k.jacadi.co.uk CNAME .
 k.jacadi.de CNAME .
 k.jacadi.es CNAME .

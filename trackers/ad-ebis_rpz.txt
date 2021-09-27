@@ -31,7 +31,6 @@ adebis.kaonavi.jp CNAME .
 adebis.kose.co.jp CNAME .
 adebis.koutsujiko.jp CNAME .
 adebis.livable.co.jp CNAME .
-adebis.macnica.co.jp CNAME .
 adebis.nursery.co.jp CNAME .
 adebis.qeee.jp CNAME .
 adebis.real-style.co.jp CNAME .
@@ -56,6 +55,7 @@ axjfkc.kobayashi.co.jp CNAME .
 bbbb.goace.jp CNAME .
 beeline.beeline-tire.co.jp CNAME .
 belegend2019.belegend.jp CNAME .
+campaign-direct.eisai.jp CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.hankoya.com CNAME .
 cname-adebis.nice2meet.us CNAME .
@@ -84,6 +84,7 @@ ebis.c-3-esthe.com CNAME .
 ebis.ce-parfait.com CNAME .
 ebis.codecamp.jp CNAME .
 ebis.hokensoudannavi.jp CNAME .
+ebis.jobcan.ne.jp CNAME .
 ebis.kubara.jp CNAME .
 ebis.la-coco.com CNAME .
 ebis.nomu-silica.jp CNAME .
@@ -110,6 +111,7 @@ ebiscname.clark.ed.jp CNAME .
 ebiscname.j-esthe.com CNAME .
 ebisfracora.fracora.com CNAME .
 ebisstore.tamagokichi.com CNAME .
+ebs.green-osaka.com CNAME .
 greenjapan-cname.green-japan.com CNAME .
 isebis.takamiclinic.or.jp CNAME .
 isebis.yutoriform.com CNAME .
