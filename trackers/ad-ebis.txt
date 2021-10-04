@@ -109,6 +109,7 @@
 ||ebisanalysis.mouse-jp.co.jp^
 ||ebiscname.clark.ed.jp^
 ||ebiscname.j-esthe.com^
+||ebiscname.urr.jp^
 ||ebisfracora.fracora.com^
 ||ebisstore.tamagokichi.com^
 ||ebs.green-osaka.com^
@@ -117,6 +118,7 @@
 ||isebis.yutoriform.com^
 ||itp.phoebebeautyup.com^
 ||maz.zba.jp^
+||mgn.ebis.andbe-official.com^
 ||msr.p-antiaging.com^
 ||nadeshiko2019.kirei-nadeshiko.jp^
 ||ncc.nip-col.jp^

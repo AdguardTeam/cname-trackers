@@ -90,6 +90,7 @@ tr.emailing.canalplus-afrique.com CNAME .
 tr.emailing.canalplus-caledonie.com CNAME .
 tr.emailing.canalplus-caraibes.com CNAME .
 tr.emailing.canalplus-reunion.com CNAME .
+tr.emailing.canalplus.ch CNAME .
 tr.emailing.canalplus.fr CNAME .
 tr.emailing.coe.int CNAME .
 tr.emailing.detours.canal.fr CNAME .
@@ -155,6 +156,7 @@ tr.mail.satisfactory.fr CNAME .
 tr.mail.vipmag.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
 tr.mailing.r2e-humanis.fr CNAME .
+tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.younited-credit.com CNAME .
 tr.mart.espmp-agfr.net CNAME .
 tr.mhist.moethennessy.com CNAME .
@@ -262,6 +264,7 @@ tr.uk.icicibank.com CNAME .
 tr.ville.bordeaux.fr CNAME .
 tr.votrealarme.securitasdirect.fr CNAME .
 tr.vous.hellobank.fr CNAME .
+tr.welcome.easyvoyage.co.uk CNAME .
 tr.welcome.easyvoyage.com CNAME .
 tr.welcome.lexpress.fr CNAME .
 tr1.citroen-ipsos.com CNAME .

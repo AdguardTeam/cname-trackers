@@ -285,6 +285,7 @@ email.fretello.com CNAME .
 email.goodrx.com CNAME .
 email.headsuphealth.com CNAME .
 email.link.flipgive.com CNAME .
+email.mail.floatme.io CNAME .
 email.member.theknot.com CNAME .
 email.mg.everyonesocial.com CNAME .
 email.pray.com CNAME .

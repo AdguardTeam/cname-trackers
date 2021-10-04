@@ -18,7 +18,9 @@
 ||a8.makeshop.jp^
 ||a8.payse.basefood.co.jp^
 ||a8.print-netsquare.com^
+||a8.remix-denki.com^
 ||a8.sakuratravel.jp^
+||a8.sennendo.jp^
 ||a8.shopserve.jp^
 ||a8.ssl.aispr.jp^
 ||a8.tone.ne.jp^
@@ -49,6 +51,7 @@
 ||a8clk.life.bang.co.jp^
 ||a8clk.low-ya.com^
 ||a8clk.manage.conoha.jp^
+||a8clk.netowl.jp^
 ||a8clk.osoujihonpo.com^
 ||a8clk.petitjob.jp^
 ||a8clk.point-land.net^
@@ -73,6 +76,7 @@
 ||a8cv.bettysbeauty.jp^
 ||a8cv.brandeuse.jp^
 ||a8cv.broadbandservice.jp^
+||a8cv.busbookmark.jp^
 ||a8cv.coopnet.or.jp^
 ||a8cv.direct-teleshop.jp^
 ||a8cv.english-bootcamp.com^
@@ -87,6 +91,7 @@
 ||a8cv.p-antiaging.com^
 ||a8cv.sakura-forest.com^
 ||a8cv.shibarinashi-wifi.jp^
+||a8cv.shop.matsuo1956.jp^
 ||a8cv.signalift.com^
 ||a8cv.store.alpen-group.jp^
 ||a8cv.try-fs.com^

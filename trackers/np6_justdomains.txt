@@ -90,6 +90,7 @@ tr.emailing.canalplus-afrique.com
 tr.emailing.canalplus-caledonie.com
 tr.emailing.canalplus-caraibes.com
 tr.emailing.canalplus-reunion.com
+tr.emailing.canalplus.ch
 tr.emailing.canalplus.fr
 tr.emailing.coe.int
 tr.emailing.detours.canal.fr
@@ -155,6 +156,7 @@ tr.mail.satisfactory.fr
 tr.mail.vipmag.fr
 tr.mailing.lvmhappening.com
 tr.mailing.r2e-humanis.fr
+tr.marg02n.espmp-agfr.net
 tr.marketing.younited-credit.com
 tr.mart.espmp-agfr.net
 tr.mhist.moethennessy.com
@@ -262,6 +264,7 @@ tr.uk.icicibank.com
 tr.ville.bordeaux.fr
 tr.votrealarme.securitasdirect.fr
 tr.vous.hellobank.fr
+tr.welcome.easyvoyage.co.uk
 tr.welcome.easyvoyage.com
 tr.welcome.lexpress.fr
 tr1.citroen-ipsos.com

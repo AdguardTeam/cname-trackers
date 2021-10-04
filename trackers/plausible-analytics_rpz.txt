@@ -10,6 +10,7 @@ a.easyazon.com CNAME .
 a.fdmedia.io CNAME .
 a.getaawp.com CNAME .
 a.hellonext.co CNAME .
+a.kryptonitewp.com CNAME .
 a.mhthemes.com CNAME .
 a.skcript.com CNAME .
 a.visitefoz.com.br CNAME .
@@ -92,6 +93,7 @@ p.barrera.io CNAME .
 p.classroombookings.com CNAME .
 p.e-bot7.com CNAME .
 p.fairspot.host CNAME .
+p.neil.gg CNAME .
 p.nqueue.io CNAME .
 p.versacommerce.de CNAME .
 p.victoria.dev CNAME .
@@ -151,7 +153,6 @@ plausible.goose.game CNAME .
 plausible.gryka.net CNAME .
 plausible.gymglish.com CNAME .
 plausible.haltakov.net CNAME .
-plausible.hey-soho.com CNAME .
 plausible.hstmedical.com CNAME .
 plausible.inflex.io CNAME .
 plausible.kabaret.no CNAME .
@@ -354,6 +355,7 @@ stats.lollipoptest.at CNAME .
 stats.lord.io CNAME .
 stats.ltdhunt.com CNAME .
 stats.ltodrivingschools.org CNAME .
+stats.lumen-app.com CNAME .
 stats.macosicons.com CNAME .
 stats.macroarraydx.com CNAME .
 stats.marcradziwill.com CNAME .
@@ -364,7 +366,6 @@ stats.matthiasloibl.com CNAME .
 stats.matthogg.fyi CNAME .
 stats.melvingeorge.me CNAME .
 stats.mesenvies.fr CNAME .
-stats.mikepenz.dev CNAME .
 stats.missionrabies.com CNAME .
 stats.mmazzarolo.com CNAME .
 stats.motion-effect.com CNAME .
@@ -372,7 +373,6 @@ stats.motornation.net CNAME .
 stats.muchbetteradventures.com CNAME .
 stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
-stats.nicklafferty.com CNAME .
 stats.nicolaskempf.fr CNAME .
 stats.nodehub.io CNAME .
 stats.nonprofit.foundation CNAME .
@@ -483,6 +483,7 @@ thor.pureelectric.se CNAME .
 thumos.fileside.app CNAME .
 tics.seeker.gg CNAME .
 tics.techdirt.com CNAME .
+tock.weg.plus CNAME .
 tocotronic.thomas.me CNAME .
 tokei.upstract.com CNAME .
 track.slickinbox.com CNAME .

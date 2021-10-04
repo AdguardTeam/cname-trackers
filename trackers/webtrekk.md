@@ -48,6 +48,7 @@
     * 451504046304293.wt-eu02.net
     * 467808562573270.wt-eu02.net
     * 470719744966924.wt-eu02.net
+    * 484879729086450.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
     * 579960529907681.wt-eu02.net
@@ -62,6 +63,7 @@
     * 666882163750646.wt-eu02.net
     * 669154114435717.wt-eu02.net
     * 669798445377675.wt-eu02.net
+    * 671130969507772.wt-eu02.net
     * 709114798683263.wt-eu02.net
     * 728252369996325.wt-eu02.net
     * 729347163621496.wt-eu02.net
@@ -157,6 +159,7 @@
 | wbtrkk.teufelaudio.it | 451504046304293.wt-eu02.net |
 | a.deutschehospitality.com | 467808562573270.wt-eu02.net |
 | webt.pure.com | 470719744966924.wt-eu02.net |
+| mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
@@ -171,6 +174,7 @@
 | data.westlotto.de | 666882163750646.wt-eu02.net |
 | data.adlermode.com | 669154114435717.wt-eu02.net |
 | web.news.thebridge.it | 669798445377675.wt-eu02.net |
+| mapp.jysk.nl | 671130969507772.wt-eu02.net |
 | web.info.bonprix.es | 709114798683263.wt-eu02.net |
 | data.campaign.toyscenter.it | 728252369996325.wt-eu02.net |
 | web.diebayerische.de | 729347163621496.wt-eu02.net |

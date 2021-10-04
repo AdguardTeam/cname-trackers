@@ -97,6 +97,8 @@ eht.endress.com
 fiwinet.firmenwissen.com
 fiwinet.firmenwissen.de
 mapp.ewm.co.uk
+mapp.jysk.dk
+mapp.jysk.nl
 mapp.yesstyle.com
 mit.db.com
 mit.dws.com

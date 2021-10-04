@@ -15,6 +15,7 @@
 | a.fdmedia.io | custom.plausible.io |
 | a.getaawp.com | custom.plausible.io |
 | a.hellonext.co | custom.plausible.io |
+| a.kryptonitewp.com | custom.plausible.io |
 | a.mhthemes.com | custom.plausible.io |
 | a.skcript.com | custom.plausible.io |
 | a.visitefoz.com.br | custom.plausible.io |
@@ -97,6 +98,7 @@
 | p.classroombookings.com | custom.plausible.io |
 | p.e-bot7.com | custom.plausible.io |
 | p.fairspot.host | custom.plausible.io |
+| p.neil.gg | custom.plausible.io |
 | p.nqueue.io | custom.plausible.io |
 | p.versacommerce.de | custom.plausible.io |
 | p.victoria.dev | custom.plausible.io |
@@ -156,7 +158,6 @@
 | plausible.gryka.net | custom.plausible.io |
 | plausible.gymglish.com | custom.plausible.io |
 | plausible.haltakov.net | custom.plausible.io |
-| plausible.hey-soho.com | custom.plausible.io |
 | plausible.hstmedical.com | custom.plausible.io |
 | plausible.inflex.io | custom.plausible.io |
 | plausible.kabaret.no | custom.plausible.io |
@@ -359,6 +360,7 @@
 | stats.lord.io | custom.plausible.io |
 | stats.ltdhunt.com | custom.plausible.io |
 | stats.ltodrivingschools.org | custom.plausible.io |
+| stats.lumen-app.com | custom.plausible.io |
 | stats.macosicons.com | custom.plausible.io |
 | stats.macroarraydx.com | custom.plausible.io |
 | stats.marcradziwill.com | custom.plausible.io |
@@ -369,7 +371,6 @@
 | stats.matthogg.fyi | custom.plausible.io |
 | stats.melvingeorge.me | custom.plausible.io |
 | stats.mesenvies.fr | custom.plausible.io |
-| stats.mikepenz.dev | custom.plausible.io |
 | stats.missionrabies.com | custom.plausible.io |
 | stats.mmazzarolo.com | custom.plausible.io |
 | stats.motion-effect.com | custom.plausible.io |
@@ -377,7 +378,6 @@
 | stats.muchbetteradventures.com | custom.plausible.io |
 | stats.nddmed.com | custom.plausible.io |
 | stats.nerdbusiness.com | custom.plausible.io |
-| stats.nicklafferty.com | custom.plausible.io |
 | stats.nicolaskempf.fr | custom.plausible.io |
 | stats.nodehub.io | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
@@ -488,6 +488,7 @@
 | thumos.fileside.app | custom.plausible.io |
 | tics.seeker.gg | custom.plausible.io |
 | tics.techdirt.com | custom.plausible.io |
+| tock.weg.plus | custom.plausible.io |
 | tocotronic.thomas.me | custom.plausible.io |
 | tokei.upstract.com | custom.plausible.io |
 | track.slickinbox.com | custom.plausible.io |

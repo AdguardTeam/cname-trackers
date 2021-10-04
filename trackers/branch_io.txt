@@ -285,6 +285,7 @@
 ||email.goodrx.com^
 ||email.headsuphealth.com^
 ||email.link.flipgive.com^
+||email.mail.floatme.io^
 ||email.member.theknot.com^
 ||email.mg.everyonesocial.com^
 ||email.pray.com^

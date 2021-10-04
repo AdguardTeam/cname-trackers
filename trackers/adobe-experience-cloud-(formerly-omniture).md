@@ -11,6 +11,7 @@
     * 4imprint.com.102.112.2o7.net
     * 4travel.jp.102.112.2o7.net
     * aafp.org.102.122.2o7.net
+    * aavacations.com.102.112.2o7.net
     * abbott.com.102.112.2o7.net
     * abbottfamily.co.id.112.2o7.net
     * abbottnutrition.com.my.102.112.2o7.net
@@ -19,6 +20,8 @@
     * accuweather.com.122.2o7.net
     * acehardware.com.112.2o7.net
     * aclu.org.102.122.2o7.net
+    * actemra.com.102.122.2o7.net
+    * activase.com.122.2o7.net
     * active.com.102.122.2o7.net
     * active.com.122.2o7.net
     * adt.com.112.2o7.net
@@ -52,6 +55,7 @@
     * asacolhd.com.102.112.2o7.net
     * asacolhd.com.112.2o7.net
     * asdafinance.com.122.2o7.net
+    * ask.com.102.122.2o7.net
     * assiniboine.mb.ca.102.112.2o7.net
     * atlanticmedia.122.2o7.net
     * audi.co.uk.102.112.2o7.net
@@ -59,6 +63,7 @@
     * automobilemag.com.112.2o7.net
     * autozone.com.102.122.2o7.net
     * autozone.com.122.2o7.net
+    * avastin-hcp.com.102.122.2o7.net
     * avid.com.102.112.2o7.net
     * avid.com.112.2o7.net
     * avnet.com.102.122.2o7.net
@@ -66,6 +71,7 @@
     * avon.uk.com.102.112.2o7.net
     * avon.uk.com.112.2o7.net
     * avycaz.com.102.112.2o7.net
+    * avycaz.com.112.2o7.net
     * awccu.com.102.112.2o7.net
     * babycenter.com.112.2o7.net
     * babycentre.co.uk.112.2o7.net
@@ -84,7 +90,9 @@
     * biktvbcom.122.2o7.net
     * bikvuecom.122.2o7.net
     * bill-me-later.com.112.2o7.net
+    * billmelater.com.102.112.2o7.net
     * billmelater.com.112.2o7.net
+    * biooncology.com.122.2o7.net
     * bipecom.122.2o7.net
     * bitdefender.com.102.122.2o7.net
     * bitdefender.com.122.2o7.net
@@ -122,6 +130,7 @@
     * cdcu.com.102.112.2o7.net
     * celeroibdemo.ca.102.112.2o7.net
     * cengagebrain.com.102.112.2o7.net
+    * cengagebrain.com.112.2o7.net
     * cerexa.com.112.2o7.net
     * chinookcu.com.102.112.2o7.net
     * cineplex.com.102.122.2o7.net
@@ -141,8 +150,10 @@
     * comtechcu.com.102.112.2o7.net
     * conexus.ca.102.112.2o7.net
     * consolidatedcreditu.com.102.112.2o7.net
+    * constantcontact.com.102.122.2o7.net
     * constantcontact.com.122.2o7.net
     * consumentenbond.nl.102.112.2o7.net
+    * copaair.com.102.122.2o7.net
     * copperfin.ca.102.112.2o7.net
     * cornerstonecu.com.102.112.2o7.net
     * costco.ca.102.122.2o7.net
@@ -188,9 +199,11 @@
     * easternedgecu.com.102.112.2o7.net
     * eccu.ca.102.112.2o7.net
     * economist.com.102.122.2o7.net
+    * economist.com.122.2o7.net
     * edweek.org.102.122.2o7.net
     * edweek.org.122.2o7.net
     * efirstbank.com.102.112.2o7.net
+    * ehc.com.102.112.2o7.net
     * eiga.com.102.112.2o7.net
     * eiu.com.122.2o7.net
     * ekccu.com.102.112.2o7.net
@@ -204,6 +217,8 @@
     * entegra.ca.102.112.2o7.net
     * envisionfinancial.ca.102.112.2o7.net
     * eprice.it.102.122.2o7.net
+    * epson.com.112.2o7.net
+    * erivedge.com.122.2o7.net
     * esignal.com.102.122.2o7.net
     * esignal.com.122.2o7.net
     * europeansocietyofcardiology.112.2o7.net
@@ -237,6 +252,7 @@
     * fnac.es.102.112.2o7.net
     * fnac.es.112.2o7.net
     * fnbc.ca.102.112.2o7.net
+    * forbescom.112.2o7.net
     * foxentertainment.122.2o7.net
     * frontlinecu.com.102.112.2o7.net
     * frx.com.112.2o7.net
@@ -247,7 +263,10 @@
     * ganaraskacu.com.102.112.2o7.net
     * gap.com.102.112.2o7.net
     * gap.com.112.2o7.net
+    * gazyva.com.102.122.2o7.net
     * gelnique.com.112.2o7.net
+    * gene.com.122.2o7.net
+    * genentech-access.com.122.2o7.net
     * generac.com.102.122.2o7.net
     * generac.com.122.2o7.net
     * genesis.es.102.122.2o7.net
@@ -262,6 +281,7 @@
     * goldbook.ca.122.2o7.net
     * govpro.com.122.2o7.net
     * grandandtoy.com.102.112.2o7.net
+    * greatland.com.102.122.2o7.net
     * greendot.com.102.112.2o7.net
     * greenies.com.102.112.2o7.net
     * gvccu.com.102.112.2o7.net
@@ -307,6 +327,7 @@
     * integriscu.ca.102.112.2o7.net
     * interiorsavings.com.102.112.2o7.net
     * intervalworld.com.102.122.2o7.net
+    * intralinks.com.102.122.2o7.net
     * intralinks.com.122.2o7.net
     * intuit.ca.102.122.2o7.net
     * investools.com.112.2o7.net
@@ -342,6 +363,7 @@
     * ldcu.ca.102.112.2o7.net
     * lecu.ca.102.112.2o7.net
     * lenscrafters.ca.102.122.2o7.net
+    * liander.nl.102.122.2o7.net
     * lifenet-seimei.co.jp.102.112.2o7.net
     * liletta.com.102.112.2o7.net
     * liletta.com.112.2o7.net
@@ -352,10 +374,13 @@
     * linzesshcp.com.112.2o7.net
     * lookfantastic.com.102.112.2o7.net
     * lookfantastic.com.112.2o7.net
+    * lucentis.com.102.122.2o7.net
+    * lucentis.com.122.2o7.net
     * luminusfinancial.com.102.112.2o7.net
     * magicalia.122.2o7.net
     * mail-corp.com.122.2o7.net
     * mainstreetcu.ca.102.112.2o7.net
+    * marthastewart.com.102.122.2o7.net
     * marthastewart.com.122.2o7.net
     * marykay.102.122.2o7.net
     * marykay.122.2o7.net
@@ -398,6 +423,8 @@
     * newrosscreditunion.ca.102.112.2o7.net
     * news.ktar.com.112.2o7.net
     * nickvia.112.2o7.net
+    * nike.net.102.112.2o7.net
+    * ninemsn.com.au.102.112.2o7.net
     * ninemsn.com.au.112.2o7.net
     * nintendo.com.102.112.2o7.net
     * nintendo.com.112.2o7.net
@@ -414,7 +441,9 @@
     * norvir.com.112.2o7.net
     * npscu.ca.102.112.2o7.net
     * nutrisystem.com.112.2o7.net
+    * nvidia.com.102.122.2o7.net
     * nwsource.com.112.2o7.net
+    * nysif.com.102.122.2o7.net
     * oclc.org.112.2o7.net
     * officefurniture.com.102.112.2o7.net
     * omahasteaks.com.102.122.2o7.net
@@ -423,19 +452,26 @@
     * omniture.com.112.2o7.net
     * opentable.com.112.2o7.net
     * oreilly.com.102.122.2o7.net
+    * oreilly.com.122.2o7.net
     * panasonic.com.102.112.2o7.net
     * partycity.com.102.122.2o7.net
     * patientsatheart.com.112.2o7.net
     * paypal-metrics.com.102.112.2o7.net
+    * paysafecard.com.102.122.2o7.net
     * paysafecard.com.122.2o7.net
     * peacehills.com.102.112.2o7.net
+    * pearlevision.ca.102.122.2o7.net
+    * pearlevision.com.102.122.2o7.net
     * pedialyte.com.102.112.2o7.net
     * pediasure.com.my.102.112.2o7.net
+    * pemco.com.102.112.2o7.net
+    * pemco.com.112.2o7.net
     * penfinancial.com.102.112.2o7.net
     * people.com.122.2o7.net
     * peopleenespanol.com.122.2o7.net
     * pepboys.com.102.122.2o7.net
     * performgroup.com.122.2o7.net
+    * perjeta.com.102.112.2o7.net
     * petinsurance.com.102.112.2o7.net
     * petinsurance.com.112.2o7.net
     * petsmart.com.112.2o7.net
@@ -447,11 +483,13 @@
     * plussizetech.com.122.2o7.net
     * polo.com.112.2o7.net
     * polycom.122.2o7.net
+    * priceless.com.122.2o7.net
     * prospera.ca.102.112.2o7.net
     * provincialcu.com.102.112.2o7.net
     * pscu.ca.102.112.2o7.net
     * pultehomes.122.2o7.net
     * quickbooks.com.122.2o7.net
+    * quiksilver.com.112.2o7.net
     * randomhouse.com.102.122.2o7.net
     * randomhouse.com.122.2o7.net
     * rci.com.102.122.2o7.net
@@ -459,9 +497,11 @@
     * rectiv.com.112.2o7.net
     * reddyk.net.102.112.2o7.net
     * regal.es.102.122.2o7.net
+    * register.122.2o7.net
     * rent.com.112.2o7.net
     * restockit.com.112.2o7.net
     * rhapsody.com.112.2o7.net
+    * rituxan.com.102.122.2o7.net
     * roche.de.102.122.2o7.net
     * roche.de.122.2o7.net
     * rockwool.112.2o7.net
@@ -469,13 +509,19 @@
     * rssc.com.102.112.2o7.net
     * rwjf.org.102.112.2o7.net
     * ryanhomes.com.102.112.2o7.net
+    * salmat.112.2o7.net
+    * samsungfc.112.2o7.net
+    * saphris.com.112.2o7.net
     * saphrishcp.com.112.2o7.net
     * savella.com.102.112.2o7.net
     * savella.com.112.2o7.net
     * savellahcp.com.112.2o7.net
     * sce.com.102.122.2o7.net
     * schooloutfitters.com.102.112.2o7.net
+    * scotts.com.102.122.2o7.net
+    * scotts.com.122.2o7.net
     * sdcu.com.102.112.2o7.net
+    * seagate.com.102.122.2o7.net
     * seagate.com.122.2o7.net
     * securitas-direct.com.102.112.2o7.net
     * securitas-direct.com.112.2o7.net
@@ -489,6 +535,7 @@
     * skinmedica.com.122.2o7.net
     * slate.com.112.2o7.net
     * slbbawdukcom.112.2o7.net
+    * slbbbcom.112.2o7.net
     * slbbomgcom.112.2o7.net
     * sltravelcom.112.2o7.net
     * smbcnikko.co.jp.102.112.2o7.net
@@ -500,8 +547,10 @@
     * sony.jp.112.2o7.net
     * sonypictures.com.102.112.2o7.net
     * sonypictures.com.112.2o7.net
+    * sothebys.com.102.122.2o7.net
     * sothebys.com.122.2o7.net
     * southpointcasino.com.102.112.2o7.net
+    * sparkassendirekt.de.102.122.2o7.net
     * spencersonline.com.102.112.2o7.net
     * spencersonline.com.112.2o7.net
     * spirithalloween.com.102.112.2o7.net
@@ -510,6 +559,7 @@
     * stanfordhealthcare.org.102.122.2o7.net
     * starz.122.2o7.net
     * store.irobot.com.112.2o7.net
+    * strokeawareness.com.122.2o7.net
     * sudburycu.com.102.112.2o7.net
     * sumaity.com.102.112.2o7.net
     * sungardavailabilityservices.122.2o7.net
@@ -521,8 +571,10 @@
     * synergycu.ca.102.112.2o7.net
     * tabelog.com.102.112.2o7.net
     * tactics.com.102.112.2o7.net
+    * tamiflu.com.122.2o7.net
     * tandia.com.102.112.2o7.net
     * tasclap.jp.102.112.2o7.net
+    * tasclap.jp.112.2o7.net
     * tasteofhome.com.122.2o7.net
     * tbs.com.112.2o7.net
     * tcm.com.102.122.2o7.net
@@ -541,10 +593,12 @@
     * tignishcreditu.com.102.112.2o7.net
     * timberland.com.102.112.2o7.net
     * timberland.com.112.2o7.net
+    * timberland.fr.112.2o7.net
     * timeinc.net.122.2o7.net
     * tiscover.com.122.2o7.net
     * tjmaxx.tjx.com.102.112.2o7.net
     * tlc.com.122.2o7.net
+    * tnkase.com.122.2o7.net
     * tnt.tv.112.2o7.net
     * tnt.tv.122.2o7.net
     * tomsofmaine.com.122.2o7.net
@@ -587,15 +641,22 @@
     * virginaustralia.com.102.122.2o7.net
     * visioncu.ca.102.112.2o7.net
     * vmn.112.2o7.net
+    * volusion.com.102.112.2o7.net
+    * vrbo.com.102.122.2o7.net
     * vrbo.com.122.2o7.net
     * vueling.com.102.112.2o7.net
+    * wa.gto.db.com.102.112.2o7.net
     * waitrose.com.102.112.2o7.net
     * walmart.com.102.112.2o7.net
     * walmart.com.112.2o7.net
     * walmartmoneycard.com.112.2o7.net
+    * walmartstores.com.102.112.2o7.net
+    * washingtonpost.com.102.112.2o7.net
     * washingtonpost.com.112.2o7.net
     * weyburncu.ca.102.112.2o7.net
     * wfcu.ca.102.112.2o7.net
+    * wimbledon.com.102.122.2o7.net
+    * winecountrygiftbaskets.com.102.112.2o7.net
     * wldcu.com.102.112.2o7.net
     * wm.com.102.122.2o7.net
     * wm.com.122.2o7.net
@@ -609,6 +670,7 @@
     * wyndham.com.102.112.2o7.net
     * wyndhamtrips.com.112.2o7.net
     * xbox.com.112.2o7.net
+    * xolairhcp.com.122.2o7.net
     * ybs.co.uk.112.2o7.net
     * yellowbook.com.102.112.2o7.net
     * yemeksepeti.com.102.122.2o7.net
@@ -618,9 +680,11 @@
     * yourbankcard.com.112.2o7.net
     * yourcu.com.102.112.2o7.net
     * yp.com.112.2o7.net
+    * zero.122.2o7.net
     * zoneperfect.com.102.112.2o7.net
     * zoneperfect.com.112.2o7.net
 * data.adobedc.net
+    * 10er-tagesticket.de.data.adobedc.net
     * 48.ie.data.adobedc.net
     * aaa.com.data.adobedc.net
     * abanca.com.data.adobedc.net
@@ -629,6 +693,7 @@
     * adidas.hu.data.adobedc.net
     * adobe.tp.gskpro.com.data.adobedc.net
     * aia.co.kr.data.adobedc.net
+    * aireserv.com.data.adobedc.net
     * allianz.com.au.data.adobedc.net
     * angi.com.data.adobedc.net
     * ansys.com.data.adobedc.net
@@ -640,6 +705,7 @@
     * athome.com.data.adobedc.net
     * atresmedia.com.data.adobedc.net
     * atresplayer.com.data.adobedc.net
+    * bahnbuchung.de.data.adobedc.net
     * bahnhof.de.data.adobedc.net
     * baitoru-id.com.data.adobedc.net
     * baitorupro.com.data.adobedc.net
@@ -654,6 +720,7 @@
     * bbva.com.uy.data.adobedc.net
     * belgiantrain.be.data.adobedc.net
     * beneplace.com.data.adobedc.net
+    * bereadywith.com.data.adobedc.net
     * beveragedaily.com.data.adobedc.net
     * bighospitality.co.uk.data.adobedc.net
     * binge.com.au.data.adobedc.net
@@ -661,6 +728,9 @@
     * biopharma-reporter.com.data.adobedc.net
     * bjs.com.data.adobedc.net
     * bnpparibas.com.data.adobedc.net
+    * boehringer-ingelheim.hu.data.adobedc.net
+    * boehringer-ingelheim.in.data.adobedc.net
+    * boehringer-ingelheim.mx.data.adobedc.net
     * bramptonguardian.com.data.adobedc.net
     * brinksprepaidmastercard.com.data.adobedc.net
     * buysearchsell.com.au.data.adobedc.net
@@ -668,11 +738,17 @@
     * cadenaser.com.data.adobedc.net
     * caledonenterprise.com.data.adobedc.net
     * cambridgetimes.ca.data.adobedc.net
+    * canaltnt.es.data.adobedc.net
     * canosan.de.data.adobedc.net
     * carecredit.com.data.adobedc.net
+    * cartoonnetwork.ca.data.adobedc.net
+    * cartoonnetworkclimatechampions.com.data.adobedc.net
     * cartoonnetworkmena.com.data.adobedc.net
+    * cat-care.nl.data.adobedc.net
+    * catxpert.se.data.adobedc.net
     * celcom.com.my.data.adobedc.net
     * changehealthcare.com.data.adobedc.net
+    * channel.com.data.adobedc.net
     * chemistanddruggist.co.uk.data.adobedc.net
     * citibank.ae.data.adobedc.net
     * citibank.pl.data.adobedc.net
@@ -697,7 +773,9 @@
     * cultura.com.data.adobedc.net
     * dairyreporter.com.data.adobedc.net
     * data.lloydsbankinggroup.com.data.adobedc.net
+    * dats24.be.data.adobedc.net
     * db-finanzberatung.de.data.adobedc.net
+    * dengiamerika.com.data.adobedc.net
     * desparasitaatumascota.es.data.adobedc.net
     * deutsche-bank.de.data.adobedc.net
     * discoveruniversal.com.data.adobedc.net
@@ -793,9 +871,13 @@
     * footlocker.fr.data.adobedc.net
     * footlocker.nl.data.adobedc.net
     * forecourttrader.co.uk.data.adobedc.net
+    * frankly.ch.data.adobedc.net
+    * frontline.de.data.adobedc.net
     * frontline.ru.data.adobedc.net
     * frontlinecanegatto.it.data.adobedc.net
+    * frontlinecombo.bg.data.adobedc.net
     * frontlinemascotas.es.data.adobedc.net
+    * frontlineplus.com.tw.data.adobedc.net
     * g-shock.com.data.adobedc.net
     * gconlineplus.de.data.adobedc.net
     * genentech-pro.com.data.adobedc.net
@@ -822,9 +904,11 @@
     * hemlibra.com.data.adobedc.net
     * hitachi-powergrids.com.data.adobedc.net
     * ho-mobile.it.data.adobedc.net
+    * homegoods.com.data.adobedc.net
     * hossintropia.com.data.adobedc.net
     * hostplus.com.au.data.adobedc.net
     * hyundai.com.data.adobedc.net
+    * iceportal.de.data.adobedc.net
     * ig.ca.data.adobedc.net
     * illinois.gov.data.adobedc.net
     * insidehalton.com.data.adobedc.net
@@ -835,6 +919,7 @@
     * johnlewisfinance.com.data.adobedc.net
     * joincambridge.com.data.adobedc.net
     * kaobeautybrands.com.data.adobedc.net
+    * katzen-vorsorge-check.de.data.adobedc.net
     * kia.com.data.adobedc.net
     * kiavirtualexperience.com.data.adobedc.net
     * koreanair.com.data.adobedc.net
@@ -847,8 +932,10 @@
     * landrover.de.data.adobedc.net
     * lasexta.com.data.adobedc.net
     * lastminute.ch.data.adobedc.net
+    * lexusonthepark.ca.data.adobedc.net
     * los40.com.data.adobedc.net
     * m1.com.sg.data.adobedc.net
+    * markenschuhe.de.data.adobedc.net
     * marketfor.com.data.adobedc.net
     * marriottvacationclub.com.data.adobedc.net
     * maxblue.de.data.adobedc.net
@@ -856,11 +943,13 @@
     * maxizoo.fr.data.adobedc.net
     * maxizoo.it.data.adobedc.net
     * mca-insight.com.data.adobedc.net
+    * mcdpromotion.ca.data.adobedc.net
     * mclaren.com.data.adobedc.net
     * mercola.com.data.adobedc.net
     * mercolamarket.com.data.adobedc.net
     * miles-and-more.com.data.adobedc.net
     * mirkota.ru.data.adobedc.net
+    * misrp.com.data.adobedc.net
     * mississauga.com.data.adobedc.net
     * mollymaid.com.data.adobedc.net
     * mopo.de.data.adobedc.net
@@ -871,6 +960,8 @@
     * mrappliance.ca.data.adobedc.net
     * mrappliance.com.data.adobedc.net
     * mrelectric.com.data.adobedc.net
+    * mrhandyman.com.data.adobedc.net
+    * mrrooter.ca.data.adobedc.net
     * mtv.it.data.adobedc.net
     * mtv.nl.data.adobedc.net
     * munichre.com.data.adobedc.net
@@ -882,6 +973,7 @@
     * mytributes.com.au.data.adobedc.net
     * myvi.in.data.adobedc.net
     * napaprolink.com.data.adobedc.net
+    * nationalgrid.com.data.adobedc.net
     * ncr.com.data.adobedc.net
     * neom.com.data.adobedc.net
     * netspend.com.data.adobedc.net
@@ -916,11 +1008,16 @@
     * platformservices.co.uk.data.adobedc.net
     * pluralsight.com.data.adobedc.net
     * pnet.co.za.data.adobedc.net
+    * poptv.com.data.adobedc.net
     * portauthorityclothing.com.data.adobedc.net
+    * portlandglass.com.data.adobedc.net
     * prado.com.sv.data.adobedc.net
+    * preautorizacionfs.com.data.adobedc.net
     * prozinc.jp.data.adobedc.net
     * publicissapient.com.data.adobedc.net
+    * pulmonaryfibrosis360.com.data.adobedc.net
     * qlmortgageservices.com.data.adobedc.net
+    * quickenloans.org.data.adobedc.net
     * radiole.com.data.adobedc.net
     * radissonhotelsamericas.com.data.adobedc.net
     * rainbowintl.com.data.adobedc.net
@@ -933,13 +1030,17 @@
     * rocketaccount.com.data.adobedc.net
     * rocketcompanies.com.data.adobedc.net
     * rundschau-online.de.data.adobedc.net
+    * s-bahn-muenchen-magazin.de.data.adobedc.net
+    * sales.vikingline.com.data.adobedc.net
     * sanmar.com.data.adobedc.net
     * save.ca.data.adobedc.net
     * sc.jinair.com.data.adobedc.net
+    * scarboroughtoyota.ca.data.adobedc.net
     * shell.co.uk.data.adobedc.net
     * shell.com.data.adobedc.net
     * sherwoodbuickgmc.com.data.adobedc.net
     * shopdisney.in.data.adobedc.net
+    * siapnge.com.data.adobedc.net
     * simcoe.com.data.adobedc.net
     * sky.de.data.adobedc.net
     * skynews.com.au.data.adobedc.net
@@ -947,8 +1048,10 @@
     * sommer-ticket-bahn.de.data.adobedc.net
     * sony.com.data.adobedc.net
     * southaustralia.com.data.adobedc.net
+    * southerncomfort.com.data.adobedc.net
     * spreadex.com.data.adobedc.net
     * sptoyota.com.data.adobedc.net
+    * srpmarketplace.com.data.adobedc.net
     * standardchartered.com.tw.data.adobedc.net
     * stcatharinesstandard.ca.data.adobedc.net
     * stenaline.co.uk.data.adobedc.net
@@ -967,6 +1070,7 @@
     * synchronybank.com.data.adobedc.net
     * tarrantcounty.com.data.adobedc.net
     * taylors.edu.my.data.adobedc.net
+    * teletoon.com.data.adobedc.net
     * tescomobile.com.data.adobedc.net
     * thankyou.com.data.adobedc.net
     * thatsmymortgage.com.data.adobedc.net
@@ -998,9 +1102,12 @@
     * universalstudioshollywood.com.data.adobedc.net
     * vans.com.au.data.adobedc.net
     * verisign.com.data.adobedc.net
+    * verizonenterprise.com.data.adobedc.net
+    * vetmedica.de.data.adobedc.net
     * vetmedin.jp.data.adobedc.net
     * vetmedin.ru.data.adobedc.net
     * viega.us.data.adobedc.net
+    * vikingline.ax.data.adobedc.net
     * vikingline.ee.data.adobedc.net
     * vikingline.fi.data.adobedc.net
     * vikingline.ru.data.adobedc.net
@@ -1011,19 +1118,24 @@
     * volkswagen.se.data.adobedc.net
     * vpay.co.kr.data.adobedc.net
     * vwfs.com.br.data.adobedc.net
+    * vwfs.cz.data.adobedc.net
     * vwfs.de.data.adobedc.net
+    * vwfs.es.data.adobedc.net
     * vwfs.it.data.adobedc.net
     * vwfs.mx.data.adobedc.net
     * waterloochronicle.ca.data.adobedc.net
     * wellandtribune.ca.data.adobedc.net
     * wiley.com.data.adobedc.net
     * wileyplus.com.data.adobedc.net
+    * windowgenie.com.data.adobedc.net
     * windsurfercrs.com.data.adobedc.net
+    * wir-entdecken-bayern.de.data.adobedc.net
     * worldsteakchallenge.com.data.adobedc.net
     * wunderman-email.cjm.adobe.com.data.adobedc.net
     * wunetspendprepaid.com.data.adobedc.net
     * yaencontre.com.data.adobedc.net
     * yorkregion.com.data.adobedc.net
+    * ytv.com.data.adobedc.net
 * sc.adobedc.net
 * sc.omtrdc.net
     * 10play.com.au.ssl.sc.omtrdc.net
@@ -1032,6 +1144,7 @@
     * 247sports.com.ssl.sc.omtrdc.net
     * 24hourfitness.com.ssl.sc.omtrdc.net
     * 28degreescard.com.au.ssl.sc.omtrdc.net
+    * 384.co.jp.ssl.sc.omtrdc.net
     * 3m.com.sc.omtrdc.net
     * 3m.com.ssl.sc.omtrdc.net
     * 53.com.ssl.d2.sc.omtrdc.net
@@ -1048,7 +1161,6 @@
     * aami.com.au.ssl.sc.omtrdc.net
     * aarp.org.sc.omtrdc.net
     * aarp.org.ssl.sc.omtrdc.net
-    * ab-road.net.ssl.sc.omtrdc.net
     * abbvie.com.sc.omtrdc.net
     * abbvie.com.ssl.sc.omtrdc.net
     * abc.com.sc.omtrdc.net
@@ -1057,6 +1169,7 @@
     * abc.es.ssl.sc.omtrdc.net
     * abcu.ca.ssl.sc.omtrdc.net
     * abercrombie.com.ssl.d1.sc.omtrdc.net
+    * abilifymaintena.com.ssl.d2.sc.omtrdc.net
     * acadiancreditu.ca.ssl.sc.omtrdc.net
     * acbj.com.ssl.sc.omtrdc.net
     * accenture.com.ssl.sc.omtrdc.net
@@ -1168,23 +1281,25 @@
     * apia.com.au.ssl.sc.omtrdc.net
     * apple.com.cn.ssl.sc.omtrdc.net
     * apps.ge.com.ssl.sc.omtrdc.net
+    * architecturaldigest.com.sc.omtrdc.net
     * architecturaldigest.com.ssl.sc.omtrdc.net
     * arcteryx.com.ssl.d2.sc.omtrdc.net
     * argenta.be.sc.omtrdc.net
     * argenta.be.ssl.sc.omtrdc.net
     * argenta.eu.sc.omtrdc.net
+    * argenta.eu.ssl.sc.omtrdc.net
     * argos.co.uk.d1.sc.omtrdc.net
     * argos.co.uk.ssl.d1.sc.omtrdc.net
     * argos.ie.ssl.sc.omtrdc.net
     * arhealthwellness.com.ssl.sc.omtrdc.net
     * ariba.com.sc.omtrdc.net
     * ariba.com.ssl.sc.omtrdc.net
-    * armadaskis.com.ssl.sc.omtrdc.net
     * armstrongceilings.com.ssl.sc.omtrdc.net
     * army.mod.uk.ssl.sc.omtrdc.net
     * arnette.com.ssl.sc.omtrdc.net
     * asadventure.com.ssl.sc.omtrdc.net
     * asadventure.fr.ssl.sc.omtrdc.net
+    * asadventure.lu.ssl.sc.omtrdc.net
     * asadventure.nl.ssl.sc.omtrdc.net
     * asb.co.nz.ssl.d2.sc.omtrdc.net
     * asianfoodnetwork.com.ssl.sc.omtrdc.net
@@ -1220,6 +1335,7 @@
     * autoscout24.com.ua.d1.sc.omtrdc.net
     * autoscout24.cz.d1.sc.omtrdc.net
     * autoscout24.de.d1.sc.omtrdc.net
+    * autoscout24.de.ssl.d1.sc.omtrdc.net
     * autoscout24.es.d1.sc.omtrdc.net
     * autoscout24.fr.d1.sc.omtrdc.net
     * autoscout24.hr.d1.sc.omtrdc.net
@@ -1238,10 +1354,17 @@
     * avast.co.jp.ldc.d3.sc.omtrdc.net
     * avast.co.jp.ssl.ldc.d3.sc.omtrdc.net
     * avastin-hcp.com.sc.omtrdc.net
+    * avastin.com.ssl.sc.omtrdc.net
     * aveva.com.ssl.sc.omtrdc.net
+    * aviationweek.com.ssl.sc.omtrdc.net
+    * avis.at.ssl.sc.omtrdc.net
     * avis.co.uk.ssl.sc.omtrdc.net
     * avis.de.ssl.sc.omtrdc.net
+    * avis.dk.ssl.sc.omtrdc.net
     * avis.es.ssl.sc.omtrdc.net
+    * avis.fr.ssl.sc.omtrdc.net
+    * avis.se.ssl.sc.omtrdc.net
+    * avisautonoleggio.it.ssl.sc.omtrdc.net
     * aviva.co.uk.ssl.d2.sc.omtrdc.net
     * aviva.com.sg.sc.omtrdc.net
     * aviva.com.sg.ssl.sc.omtrdc.net
@@ -1249,11 +1372,13 @@
     * axa-direct-life.co.jp.ssl.d1.sc.omtrdc.net
     * axelspringer.com.ssl.sc.omtrdc.net
     * axs.com.ssl.d1.sc.omtrdc.net
+    * azcentral.com.ssl.sc.omtrdc.net
     * b2dreamlab.com.ssl.sc.omtrdc.net
     * baby-g.jp.ssl.sc.omtrdc.net
     * backcountry.com.ssl.sc.omtrdc.net
     * bahamabreeze.com.ssl.sc.omtrdc.net
     * baitoru.com.ssl.sc.omtrdc.net
+    * bakerfurniture.com.ssl.sc.omtrdc.net
     * banamex.com.ssl.sc.omtrdc.net
     * bananarepublic.co.uk.ssl.sc.omtrdc.net
     * bananarepublic.eu.ssl.sc.omtrdc.net
@@ -1265,6 +1390,7 @@
     * bankofmelbourne.com.au.ssl.sc.omtrdc.net
     * banksa.com.au.ssl.sc.omtrdc.net
     * banquemondiale.org.ssl.sc.omtrdc.net
+    * barandblock.co.uk.ssl.sc.omtrdc.net
     * barcainnovationhub.com.ssl.sc.omtrdc.net
     * barclaycardus.com.sc.omtrdc.net
     * barclaycardus.com.ssl.sc.omtrdc.net
@@ -1290,12 +1416,14 @@
     * bcbsm.com.ssl.sc.omtrdc.net
     * bcbsnc.com.sc.omtrdc.net
     * bcbsnc.com.ssl.sc.omtrdc.net
+    * bcbsnd.com.ssl.sc.omtrdc.net
     * bcg.com.ssl.sc.omtrdc.net
     * be.carrefour.eu.sc.omtrdc.net
     * be.carrefour.eu.ssl.sc.omtrdc.net
     * beatsbydre.com.d1.sc.omtrdc.net
     * beatsbydre.com.ssl.d1.sc.omtrdc.net
     * beauty.hotpepper.jp.ssl.sc.omtrdc.net
+    * becomeanex.org.ssl.sc.omtrdc.net
     * bedbathandbeyond.ca.ssl.d1.sc.omtrdc.net
     * bedbathandbeyond.com.ssl.d1.sc.omtrdc.net
     * beefeater.co.uk.ssl.sc.omtrdc.net
@@ -1311,6 +1439,7 @@
     * bestbuy.ca.ssl.sc.omtrdc.net
     * bestbuy.com.ssl.sc.omtrdc.net
     * bestcheck.de.sc.omtrdc.net
+    * bestcheck.de.ssl.sc.omtrdc.net
     * bestegg.com.ssl.sc.omtrdc.net
     * bestinver.es.ssl.sc.omtrdc.net
     * bestoforlando.com.ssl.d2.sc.omtrdc.net
@@ -1330,6 +1459,7 @@
     * bingle.com.au.ssl.sc.omtrdc.net
     * biogen.com.ssl.d2.sc.omtrdc.net
     * biooncology.com.sc.omtrdc.net
+    * biooncology.com.ssl.sc.omtrdc.net
     * bioplanet.be.sc.omtrdc.net
     * bitdefender.com.sc.omtrdc.net
     * bitdefender.com.ssl.sc.omtrdc.net
@@ -1353,10 +1483,12 @@
     * blackrock.com.d2.sc.omtrdc.net
     * blackrock.com.ssl.d2.sc.omtrdc.net
     * blair.com.ssl.sc.omtrdc.net
+    * blinds.com.ssl.sc.omtrdc.net
     * blinkfitness.com.ssl.sc.omtrdc.net
     * blockbuster.com.sc.omtrdc.net
     * blogasturias.com.sc.omtrdc.net
     * blogasturias.com.ssl.sc.omtrdc.net
+    * bloombergindustry.com.ssl.sc.omtrdc.net
     * bloombergtax.com.ssl.sc.omtrdc.net
     * bluecrossma.com.sc.omtrdc.net
     * bluecrossma.com.ssl.sc.omtrdc.net
@@ -1364,6 +1496,7 @@
     * bmo.com.d1.sc.omtrdc.net
     * bmo.com.ssl.d1.sc.omtrdc.net
     * bna.com.ssl.sc.omtrdc.net
+    * bncollege.com.ssl.sc.omtrdc.net
     * bncvirtual.com.ssl.sc.omtrdc.net
     * bnpparibasfortis.be.ssl.sc.omtrdc.net
     * bnymellon.com.ssl.d2.sc.omtrdc.net
@@ -1381,6 +1514,7 @@
     * boehringer-ingelheim.tw.ssl.sc.omtrdc.net
     * boing.es.sc.omtrdc.net
     * boing.es.ssl.sc.omtrdc.net
+    * bol.com.d1.sc.omtrdc.net
     * bol.com.ssl.d1.sc.omtrdc.net
     * bonappetit.com.ssl.sc.omtrdc.net
     * bookingbuddy.com.ssl.sc.omtrdc.net
@@ -1404,6 +1538,9 @@
     * brooksbrothers.com.ssl.d2.sc.omtrdc.net
     * bt.com.sc.omtrdc.net
     * bt.com.ssl.sc.omtrdc.net
+    * buckeyehealthplan.com.ssl.sc.omtrdc.net
+    * budget.dk.ssl.sc.omtrdc.net
+    * budget.es.ssl.sc.omtrdc.net
     * budgetdirect.com.au.ssl.d1.sc.omtrdc.net
     * buffalotracedistillery.com.ssl.sc.omtrdc.net
     * buick.com.ssl.sc.omtrdc.net
@@ -1413,7 +1550,9 @@
     * burgosconecta.es.ssl.sc.omtrdc.net
     * bushikaku.net.ssl.sc.omtrdc.net
     * buyagift.co.uk.ssl.sc.omtrdc.net
+    * buybuybaby.com.ssl.d1.sc.omtrdc.net
     * bwin.com.d2.sc.omtrdc.net
+    * bwin.com.ssl.d2.sc.omtrdc.net
     * bwin.it.d2.sc.omtrdc.net
     * bws.com.au.ssl.sc.omtrdc.net
     * bz-berlin.de.ssl.sc.omtrdc.net
@@ -1424,8 +1563,11 @@
     * caesars.com.ssl.sc.omtrdc.net
     * cairnspost.com.au.ssl.sc.omtrdc.net
     * caixabank.es.ssl.sc.omtrdc.net
+    * caliastudio.com.ssl.sc.omtrdc.net
     * calvinklein.ca.ssl.sc.omtrdc.net
     * calvinklein.us.ssl.sc.omtrdc.net
+    * campaigns.home.saxo.sc.omtrdc.net
+    * campaigns.home.saxo.ssl.sc.omtrdc.net
     * canadapost.ca.ssl.d1.sc.omtrdc.net
     * canadianbusiness.com.ssl.sc.omtrdc.net
     * canal10tv.com.sc.omtrdc.net
@@ -1449,9 +1591,11 @@
     * carters.com.sc.omtrdc.net
     * carters.com.ssl.sc.omtrdc.net
     * cartersoshkosh.ca.ssl.sc.omtrdc.net
+    * cartoonito.co.uk.ssl.sc.omtrdc.net
     * cartoonito.it.sc.omtrdc.net
     * cartoonito.it.ssl.sc.omtrdc.net
     * cartoonnetwork.cl.ssl.sc.omtrdc.net
+    * cartoonnetwork.co.uk.ssl.sc.omtrdc.net
     * cartoonnetwork.com.ar.ssl.sc.omtrdc.net
     * cartoonnetwork.com.br.ssl.sc.omtrdc.net
     * cartoonnetwork.com.co.ssl.sc.omtrdc.net
@@ -1459,11 +1603,15 @@
     * cartoonnetwork.com.tr.ssl.sc.omtrdc.net
     * cartoonnetwork.es.ssl.sc.omtrdc.net
     * cartoonnetwork.fr.ssl.sc.omtrdc.net
+    * cartoonnetwork.it.ssl.sc.omtrdc.net
     * cartoonnetwork.jp.sc.omtrdc.net
+    * cartoonnetwork.jp.ssl.sc.omtrdc.net
     * cartoonnetwork.pl.ssl.sc.omtrdc.net
+    * cartoonnetwork.pt.ssl.sc.omtrdc.net
     * cartoonnetwork.ru.ssl.sc.omtrdc.net
     * cartoonnetworkarabic.com.ssl.sc.omtrdc.net
     * cartoonnetworkasia.com.sc.omtrdc.net
+    * cartoonnetworkasia.com.ssl.sc.omtrdc.net
     * cartoonnetworkhq.com.ssl.sc.omtrdc.net
     * cartoonnetworkindia.com.ssl.sc.omtrdc.net
     * cartoonnetworkla.com.ssl.sc.omtrdc.net
@@ -1471,13 +1619,19 @@
     * cartoonnetworkmena.com.sc.omtrdc.net
     * carview.co.jp.d1.sc.omtrdc.net
     * caser.es.ssl.sc.omtrdc.net
+    * caseys.com.ssl.sc.omtrdc.net
+    * cashnetusa.com.ssl.sc.omtrdc.net
+    * casinoladbrokes.be.ssl.sc.omtrdc.net
     * casio-intl.com.ssl.sc.omtrdc.net
+    * casio-watches.com.ssl.sc.omtrdc.net
     * casio.co.jp.ssl.sc.omtrdc.net
     * casio.com.ssl.sc.omtrdc.net
+    * casio.com.tw.ssl.sc.omtrdc.net
     * casio.jp.sc.omtrdc.net
     * casio.jp.ssl.sc.omtrdc.net
     * catalog.usmint.gov.ssl.sc.omtrdc.net
     * cathflo.com.sc.omtrdc.net
+    * cathflo.com.ssl.sc.omtrdc.net
     * catlife.com.tw.sc.omtrdc.net
     * cbc.be.ssl.sc.omtrdc.net
     * cbcu.ca.ssl.sc.omtrdc.net
@@ -1518,10 +1672,12 @@
     * cheddars.com.ssl.sc.omtrdc.net
     * chegg.com.d2.sc.omtrdc.net
     * chegg.com.sc.omtrdc.net
+    * chegg.com.ssl.d2.sc.omtrdc.net
     * chegg.com.ssl.sc.omtrdc.net
     * chevrolet.com.ssl.sc.omtrdc.net
     * chicagobusiness.com.ssl.d1.sc.omtrdc.net
     * chiku-wa.jp.ssl.sc.omtrdc.net
+    * chilevision.cl.sc.omtrdc.net
     * chilevision.cl.ssl.sc.omtrdc.net
     * chinookfinancial.com.ssl.sc.omtrdc.net
     * chip.de.sc.omtrdc.net
@@ -1559,6 +1715,7 @@
     * citibank.com.vn.ssl.sc.omtrdc.net
     * citibankonline.com.ssl.sc.omtrdc.net
     * citizensbank.com.ssl.sc.omtrdc.net
+    * cityline.tv.ssl.sc.omtrdc.net
     * citynews.ca.ssl.sc.omtrdc.net
     * citynews1130.com.ssl.sc.omtrdc.net
     * citytv.com.ssl.sc.omtrdc.net
@@ -1568,7 +1725,9 @@
     * cloudera.com.ssl.sc.omtrdc.net
     * cluballiance.aaa.com.sc.omtrdc.net
     * cluballiance.aaa.com.ssl.sc.omtrdc.net
+    * cmacomunicacion.com.ssl.sc.omtrdc.net
     * cmt.com.ssl.sc.omtrdc.net
+    * cn.saxobank.com.sc.omtrdc.net
     * cnb.com.ssl.sc.omtrdc.net
     * cnet.com.sc.omtrdc.net
     * cnet.com.ssl.sc.omtrdc.net
@@ -1580,7 +1739,9 @@
     * cocokarada.jp.ssl.sc.omtrdc.net
     * collectandgo.be.sc.omtrdc.net
     * collectandgo.be.ssl.sc.omtrdc.net
+    * collegeboard.org.d1.sc.omtrdc.net
     * collegeboard.org.ssl.d1.sc.omtrdc.net
+    * collegesportslive.com.ssl.sc.omtrdc.net
     * collishop.be.sc.omtrdc.net
     * colruyt.be.sc.omtrdc.net
     * colruyt.be.ssl.sc.omtrdc.net
@@ -1614,6 +1775,7 @@
     * coop.dk.ssl.sc.omtrdc.net
     * copart.com.d1.sc.omtrdc.net
     * copart.com.ssl.d1.sc.omtrdc.net
+    * corner.ch.ssl.sc.omtrdc.net
     * cornercard.ch.ssl.d2.sc.omtrdc.net
     * cornertrader.ch.ssl.ldc.d3.sc.omtrdc.net
     * cort.com.ssl.sc.omtrdc.net
@@ -1634,6 +1796,7 @@
     * countryfinancial.com.ssl.sc.omtrdc.net
     * couponcabin.com.ssl.d1.sc.omtrdc.net
     * couriermail.com.au.ssl.sc.omtrdc.net
+    * courierpress.com.ssl.sc.omtrdc.net
     * cox.com.ssl.sc.omtrdc.net
     * crackle.com.ssl.d2.sc.omtrdc.net
     * crackle.d2.sc.omtrdc.net
@@ -1669,7 +1832,9 @@
     * cvent.com.d1.sc.omtrdc.net
     * cwbank.com.sc.omtrdc.net
     * cytivalifesciences.com.ssl.sc.omtrdc.net
+    * dabl.com.ssl.sc.omtrdc.net
     * daiichisankyo-hc.co.jp.ssl.sc.omtrdc.net
+    * dailyfx.com.hk.ssl.sc.omtrdc.net
     * dailyfx.com.ssl.sc.omtrdc.net
     * dailytelegraph.com.au.ssl.sc.omtrdc.net
     * dakotafarmer.com.sc.omtrdc.net
@@ -1691,6 +1856,8 @@
     * dell.com.d1.sc.omtrdc.net
     * dell.com.ssl.d1.sc.omtrdc.net
     * delltechnologies.com.sc.omtrdc.net
+    * delltechnologies.com.ssl.sc.omtrdc.net
+    * deloitte.com.sc.omtrdc.net
     * deloitte.com.ssl.sc.omtrdc.net
     * delta.com.sc.omtrdc.net
     * delta.com.ssl.sc.omtrdc.net
@@ -1701,6 +1868,7 @@
     * dertour.at.ssl.d3.sc.omtrdc.net
     * dertour.de.ssl.ldc.d3.sc.omtrdc.net
     * dertouristik.online.ssl.sc.omtrdc.net
+    * deutschlandsim.de.ssl.sc.omtrdc.net
     * devolksbank.nl.ssl.sc.omtrdc.net
     * devry.edu.ssl.d1.sc.omtrdc.net
     * dhc.co.jp.d1.sc.omtrdc.net
@@ -1738,15 +1906,20 @@
     * disney.be.ssl.sc.omtrdc.net
     * disney.co.jp.sc.omtrdc.net
     * disney.co.jp.ssl.sc.omtrdc.net
+    * disney.co.uk.ssl.sc.omtrdc.net
     * disney.de.ssl.sc.omtrdc.net
     * disney.es.ssl.sc.omtrdc.net
     * disney.fr.ssl.sc.omtrdc.net
+    * disney.gr.ssl.sc.omtrdc.net
+    * disney.it.ssl.sc.omtrdc.net
     * disney.nl.ssl.sc.omtrdc.net
+    * disney.no.ssl.sc.omtrdc.net
     * disney.pt.ssl.sc.omtrdc.net
     * disney.ru.ssl.sc.omtrdc.net
     * disneyme.com.ssl.sc.omtrdc.net
     * disneynow.com.ssl.sc.omtrdc.net
     * disneyplus.com.ssl.sc.omtrdc.net
+    * disneyrewards.com.ssl.sc.omtrdc.net
     * disneyturkiye.com.tr.ssl.sc.omtrdc.net
     * diynetwork.com.ssl.sc.omtrdc.net
     * djoglobal.com.ssl.sc.omtrdc.net
@@ -1783,6 +1956,7 @@
     * dyson.at.sc.omtrdc.net
     * dyson.at.ssl.sc.omtrdc.net
     * dyson.be.sc.omtrdc.net
+    * dyson.be.ssl.sc.omtrdc.net
     * dyson.ch.sc.omtrdc.net
     * dyson.ch.ssl.sc.omtrdc.net
     * dyson.co.uk.sc.omtrdc.net
@@ -1798,21 +1972,25 @@
     * dyson.fr.sc.omtrdc.net
     * dyson.fr.ssl.sc.omtrdc.net
     * dyson.ie.sc.omtrdc.net
+    * dyson.ie.ssl.sc.omtrdc.net
     * dyson.it.sc.omtrdc.net
     * dyson.it.ssl.sc.omtrdc.net
     * dyson.nl.sc.omtrdc.net
     * dyson.nl.ssl.sc.omtrdc.net
     * dyson.no.sc.omtrdc.net
     * dyson.pt.sc.omtrdc.net
+    * dyson.pt.ssl.sc.omtrdc.net
     * dyson.se.sc.omtrdc.net
     * dyson.se.ssl.sc.omtrdc.net
     * dysoncanada.ca.sc.omtrdc.net
     * dysoncanada.ca.ssl.sc.omtrdc.net
+    * e-casio.com.tw.ssl.sc.omtrdc.net
     * e-nichii.net.ssl.sc.omtrdc.net
     * e-volucion.es.ssl.sc.omtrdc.net
     * e-wie-einfach.de.ssl.sc.omtrdc.net
     * easi.com.ssl.sc.omtrdc.net
     * eastbay.com.ssl.sc.omtrdc.net
+    * eastdane.com.sc.omtrdc.net
     * eastdane.com.ssl.sc.omtrdc.net
     * ecampus.com.d1.sc.omtrdc.net
     * ecomov.es.ssl.sc.omtrdc.net
@@ -1836,6 +2014,7 @@
     * elcorreo.com.sc.omtrdc.net
     * elcorreo.com.ssl.sc.omtrdc.net
     * eldiariomontanes.es.ssl.sc.omtrdc.net
+    * eleague.com.ssl.sc.omtrdc.net
     * eleague.sc.omtrdc.net
     * element14.com.sc.omtrdc.net
     * element14.com.ssl.sc.omtrdc.net
@@ -1848,6 +2027,7 @@
     * elsevier.com.d1.sc.omtrdc.net
     * elsevier.com.ssl.d1.sc.omtrdc.net
     * elvia.ch.ssl.sc.omtrdc.net
+    * emarketer.com.ssl.d1.sc.omtrdc.net
     * emc.com.ssl.d2.sc.omtrdc.net
     * emc.comd2.sc.omtrdc.net
     * emirates.com.d1.sc.omtrdc.net
@@ -1876,7 +2056,9 @@
     * ernestjones.co.uk.ssl.sc.omtrdc.net
     * erwinmueller.com.ssl.sc.omtrdc.net
     * esbriet.com.sc.omtrdc.net
+    * esbriet.com.ssl.sc.omtrdc.net
     * esbriethcp.com.sc.omtrdc.net
+    * esbriethcp.com.ssl.sc.omtrdc.net
     * escape.com.au.ssl.sc.omtrdc.net
     * eset.com.sc.omtrdc.net
     * eset.com.ssl.sc.omtrdc.net
@@ -1910,9 +2092,11 @@
     * etihad.com.ssl.d2.sc.omtrdc.net
     * etonline.com.ssl.sc.omtrdc.net
     * eu.playstation.com.d1.sc.omtrdc.net
+    * eu.playstation.com.ssl.d1.sc.omtrdc.net
     * eurobet.it.d3.sc.omtrdc.net
     * eurobet.it.ssl.d3.sc.omtrdc.net
     * eurocard.com.ssl.sc.omtrdc.net
+    * eurosport.com.sc.omtrdc.net
     * eurowings.com.ssl.sc.omtrdc.net
     * eversource.com.ssl.sc.omtrdc.net
     * everydayhealth.com.d1.sc.omtrdc.net
@@ -1931,6 +2115,7 @@
     * extranetperu.grupobbva.pe.ssl.sc.omtrdc.net
     * ey.com.ssl.sc.omtrdc.net
     * faceipf.com.sc.omtrdc.net
+    * faceipf.com.ssl.sc.omtrdc.net
     * factiva.com.ssl.sc.omtrdc.net
     * fairmont.com.ssl.d1.sc.omtrdc.net
     * falabella.com.ar.ssl.d2.sc.omtrdc.net
@@ -1950,6 +2135,7 @@
     * farnell.com.sc.omtrdc.net
     * farnell.com.ssl.sc.omtrdc.net
     * fatface.com.ssl.sc.omtrdc.net
+    * faucet.com.ssl.d1.sc.omtrdc.net
     * faucetdirect.com.ssl.d1.sc.omtrdc.net
     * faz.net.ssl.sc.omtrdc.net
     * fcacert.com.d3.sc.omtrdc.net
@@ -1983,6 +2169,7 @@
     * finn.no.sc.omtrdc.net
     * finn.no.ssl.d1.sc.omtrdc.net
     * finn.no.ssl.sc.omtrdc.net
+    * finning.com.ssl.sc.omtrdc.net
     * fintro.be.ssl.sc.omtrdc.net
     * fireballwhisky.com.ssl.sc.omtrdc.net
     * firestonecompleteautocare.com.ssl.d1.sc.omtrdc.net
@@ -1990,6 +2177,7 @@
     * fishersci.com.ssl.d1.sc.omtrdc.net
     * fishersci.de.ssl.sc.omtrdc.net
     * fishersci.es.ssl.sc.omtrdc.net
+    * fishersci.fr.ssl.sc.omtrdc.net
     * fishersci.se.ssl.sc.omtrdc.net
     * fitbook.de.ssl.sc.omtrdc.net
     * flagstar.com.ssl.sc.omtrdc.net
@@ -2015,6 +2203,7 @@
     * footlocker.cz.ssl.sc.omtrdc.net
     * footlocker.es.ssl.sc.omtrdc.net
     * footlocker.gr.ssl.sc.omtrdc.net
+    * footlocker.hu.ssl.sc.omtrdc.net
     * footlocker.ie.ssl.sc.omtrdc.net
     * footlocker.it.ssl.sc.omtrdc.net
     * footlocker.lu.ssl.sc.omtrdc.net
@@ -2058,6 +2247,7 @@
     * futuro360.com.sc.omtrdc.net
     * futuro360.com.ssl.sc.omtrdc.net
     * fuzeon.com.sc.omtrdc.net
+    * fuzeon.com.ssl.sc.omtrdc.net
     * fx-rashinban.com.ssl.sc.omtrdc.net
     * fxnetworks.com.ssl.sc.omtrdc.net
     * fxnowcanada.ca.ssl.sc.omtrdc.net
@@ -2084,6 +2274,7 @@
     * gcimetrics.com.d1.sc.omtrdc.net
     * gcimetrics.com.ssl.d1.sc.omtrdc.net
     * gct.com.ssl.d1.sc.omtrdc.net
+    * geelongadvertiser.com.au.sc.omtrdc.net
     * geelongadvertiser.com.au.ssl.sc.omtrdc.net
     * gehealthcare.com.sc.omtrdc.net
     * gehealthcare.com.ssl.sc.omtrdc.net
@@ -2149,9 +2340,11 @@
     * gvb.ch.ssl.sc.omtrdc.net
     * haband.com.ssl.sc.omtrdc.net
     * habitatsoft.com.ssl.sc.omtrdc.net
+    * hagerty.co.uk.ssl.sc.omtrdc.net
     * hagerty.com.ssl.sc.omtrdc.net
     * halifaxtoday.ca.ssl.sc.omtrdc.net
     * hallmark.com.ssl.sc.omtrdc.net
+    * handlesets.com.ssl.d1.sc.omtrdc.net
     * handy.airregi.jp.ssl.sc.omtrdc.net
     * handyvertrag.de.ssl.sc.omtrdc.net
     * happyfamilyorganics.com.ssl.sc.omtrdc.net
@@ -2338,6 +2531,7 @@
     * ionos.fr.ssl.sc.omtrdc.net
     * ionos.it.ssl.sc.omtrdc.net
     * ionos.mx.ssl.sc.omtrdc.net
+    * iowatotalcare.com.ssl.sc.omtrdc.net
     * ipb.citibank.com.sg.ssl.sc.omtrdc.net
     * iprimo.jp.ssl.sc.omtrdc.net
     * irishjobs.ie.ssl.sc.omtrdc.net
@@ -2349,6 +2543,7 @@
     * jahnreisen.de.ssl.d3.sc.omtrdc.net
     * jalan.net.ssl.sc.omtrdc.net
     * japannetbank.co.jp.ssl.sc.omtrdc.net
+    * jared.com.ssl.sc.omtrdc.net
     * java.com.ssl.d1.sc.omtrdc.net
     * jcb.co.jp.ssl.sc.omtrdc.net
     * jcpenney.com.ssl.sc.omtrdc.net
@@ -2382,6 +2577,7 @@
     * juiceplus.com.sc.omtrdc.net
     * juiceplus.com.ssl.sc.omtrdc.net
     * justblinds.com.sc.omtrdc.net
+    * juttu.be.ssl.sc.omtrdc.net
     * kaercher.com.ssl.ldc.d3.sc.omtrdc.net
     * kaiserpermanente.org.ssl.sc.omtrdc.net
     * kakakumag.com.ssl.sc.omtrdc.net
@@ -2433,10 +2629,14 @@
     * kirklands.com.ssl.d1.sc.omtrdc.net
     * kitchenertoday.com.ssl.sc.omtrdc.net
     * kmart.com.ssl.d1.sc.omtrdc.net
+    * knowpneumonia.com.ssl.sc.omtrdc.net
+    * kohls.com.sc.omtrdc.net
     * kohls.com.ssl.sc.omtrdc.net
     * kone-major-projects.com.d2.sc.omtrdc.net
+    * kone-marine.com.ssl.sc.omtrdc.net
     * kone.ae.d2.sc.omtrdc.net
     * kone.ae.ssl.sc.omtrdc.net
+    * kone.bi.d2.sc.omtrdc.net
     * kone.bi.ssl.sc.omtrdc.net
     * kone.ch.d2.sc.omtrdc.net
     * kone.co.il.sc.omtrdc.net
@@ -2445,9 +2645,11 @@
     * kone.co.uk.d2.sc.omtrdc.net
     * kone.com.d2.sc.omtrdc.net
     * kone.com.ssl.sc.omtrdc.net
+    * kone.com.tr.ssl.sc.omtrdc.net
     * kone.cz.d2.sc.omtrdc.net
     * kone.cz.ssl.sc.omtrdc.net
     * kone.dk.d2.sc.omtrdc.net
+    * kone.hr.ssl.sc.omtrdc.net
     * kone.ie.d2.sc.omtrdc.net
     * kone.ie.ssl.sc.omtrdc.net
     * kone.in.ssl.sc.omtrdc.net
@@ -2456,11 +2658,13 @@
     * kone.lv.d2.sc.omtrdc.net
     * kone.lv.ssl.sc.omtrdc.net
     * kone.me.d2.sc.omtrdc.net
+    * kone.me.ssl.sc.omtrdc.net
     * kone.mx.d2.sc.omtrdc.net
     * kone.my.ssl.sc.omtrdc.net
     * kone.ru.d2.sc.omtrdc.net
     * kone.ru.ssl.sc.omtrdc.net
     * kone.sg.d2.sc.omtrdc.net
+    * kone.ug.d2.sc.omtrdc.net
     * kone.ug.ssl.sc.omtrdc.net
     * koodomobile.com.ssl.sc.omtrdc.net
     * kpmg.us.ssl.sc.omtrdc.net
@@ -2483,6 +2687,7 @@
     * lambweston.com.ssl.sc.omtrdc.net
     * landolakes.com.sc.omtrdc.net
     * landolakes.com.ssl.sc.omtrdc.net
+    * landolakesfoodservice.com.ssl.sc.omtrdc.net
     * landolakesinc.com.ssl.sc.omtrdc.net
     * landsend.co.jp.ssl.sc.omtrdc.net
     * landsend.co.uk.ssl.sc.omtrdc.net
@@ -2546,6 +2751,7 @@
     * lpl.com.ssl.sc.omtrdc.net
     * ltdcommodities.com.ssl.d2.sc.omtrdc.net
     * lucentis.com.sc.omtrdc.net
+    * lucentis.com.ssl.sc.omtrdc.net
     * lululemon.ch.sc.omtrdc.net
     * lululemon.ch.ssl.sc.omtrdc.net
     * lululemon.co.jp.ssl.sc.omtrdc.net
@@ -2611,6 +2817,7 @@
     * maximintegrated.com.ssl.sc.omtrdc.net
     * maxizoo.pl.ssl.sc.omtrdc.net
     * maxpreps.com.ssl.sc.omtrdc.net
+    * maxxia.com.au.ssl.sc.omtrdc.net
     * maxxim.de.ssl.sc.omtrdc.net
     * mazdausa.com.ssl.sc.omtrdc.net
     * mazuri.com.ssl.sc.omtrdc.net
@@ -2671,10 +2878,13 @@
     * modernhealthcare.com.ssl.d1.sc.omtrdc.net
     * monabanq.com.ssl.ldc.d3.sc.omtrdc.net
     * mondotv.jp.sc.omtrdc.net
+    * mondotv.jp.ssl.sc.omtrdc.net
     * moneta.cz.ssl.sc.omtrdc.net
     * money-viva.jp.ssl.sc.omtrdc.net
+    * money.asda.com.d2.sc.omtrdc.net
     * monsanto.com.ssl.sc.omtrdc.net
     * montgomeryadvertiser.com.ssl.d1.sc.omtrdc.net
+    * moodys.com.sc.omtrdc.net
     * moodys.com.ssl.sc.omtrdc.net
     * moony.com.ssl.sc.omtrdc.net
     * mora-qualitas.com.ssl.sc.omtrdc.net
@@ -2683,7 +2893,9 @@
     * motorsportreg.com.ssl.sc.omtrdc.net
     * motortrend.com.ssl.sc.omtrdc.net
     * motosport.com.ssl.sc.omtrdc.net
+    * mouse-jp.co.jp.sc.omtrdc.net
     * mouse-jp.co.jp.ssl.sc.omtrdc.net
+    * movement.com.ssl.sc.omtrdc.net
     * moving.com.ssl.sc.omtrdc.net
     * mrporter.com.ssl.d3.sc.omtrdc.net
     * mrrooter.com.ssl.sc.omtrdc.net
@@ -2703,6 +2915,7 @@
     * murdoch.edu.au.ssl.sc.omtrdc.net
     * musicradio.com.ssl.sc.omtrdc.net
     * musikexpress.de.ssl.sc.omtrdc.net
+    * mycareforward.com.sc.omtrdc.net
     * myhomebook.de.ssl.sc.omtrdc.net
     * myoccu.org.ssl.sc.omtrdc.net
     * myomee.com.ssl.sc.omtrdc.net
@@ -2715,9 +2928,11 @@
     * nab.com.au.ssl.d1.sc.omtrdc.net
     * nab.com.au.ssl.sc.omtrdc.net
     * nabbroker.com.au.sc.omtrdc.net
+    * nabtrade.com.au.ssl.sc.omtrdc.net
     * napaonline.com.d2.sc.omtrdc.net
     * napaonline.com.ssl.d2.sc.omtrdc.net
     * nascar.com.ssl.sc.omtrdc.net
+    * nationalgeographic.com.sc.omtrdc.net
     * nationalgeographic.com.ssl.sc.omtrdc.net
     * nationwide.co.uk.d2.sc.omtrdc.net
     * nationwide.co.uk.ssl.d2.sc.omtrdc.net
@@ -2751,6 +2966,7 @@
     * newsapp.telemundo.com.ssl.sc.omtrdc.net
     * newscorpaustralia.com.ssl.sc.omtrdc.net
     * newyorker.com.ssl.sc.omtrdc.net
+    * newyorklife.com.ssl.d1.sc.omtrdc.net
     * newzit.com.ssl.sc.omtrdc.net
     * nexgardfordogs.com.ssl.sc.omtrdc.net
     * nexmo.com.sc.omtrdc.net
@@ -2795,6 +3011,7 @@
     * noventis.ca.ssl.sc.omtrdc.net
     * nowtv.com.ssl.sc.omtrdc.net
     * nowtv.it.ssl.sc.omtrdc.net
+    * npubank.com.au.ssl.sc.omtrdc.net
     * nrma.com.au.ssl.sc.omtrdc.net
     * nti.nl.d2.sc.omtrdc.net
     * ntnews.com.au.ssl.sc.omtrdc.net
@@ -2820,6 +3037,7 @@
     * o.qxmd.com.ssl.sc.omtrdc.net
     * o.rxlist.com.ssl.sc.omtrdc.net
     * o.the-hospitalist.org.ssl.sc.omtrdc.net
+    * o.univadis.co.uk.ssl.sc.omtrdc.net
     * o.univadis.com.ssl.sc.omtrdc.net
     * o.univadis.de.ssl.sc.omtrdc.net
     * o.univadis.es.ssl.sc.omtrdc.net
@@ -2838,13 +3056,17 @@
     * octanner.com.ssl.sc.omtrdc.net
     * oferplan.com.ssl.sc.omtrdc.net
     * officeworks.com.au.ssl.sc.omtrdc.net
+    * ok.dk.ssl.sc.omtrdc.net
     * ok.gov.ssl.sc.omtrdc.net
     * okcashbag.com.ssl.d2.sc.omtrdc.net
+    * olgaintimates.com.ssl.d2.sc.omtrdc.net
     * olivegarden.com.sc.omtrdc.net
     * olivegarden.com.ssl.sc.omtrdc.net
     * oliverpeoples.com.ssl.sc.omtrdc.net
     * omni.synchronybusiness.com.sc.omtrdc.net
     * omnitv.ca.ssl.sc.omtrdc.net
+    * onetime.com.ssl.sc.omtrdc.net
+    * ontechsmartservices.com.ssl.sc.omtrdc.net
     * onward.co.jp.ssl.sc.omtrdc.net
     * openshift.com.ssl.sc.omtrdc.net
     * opensource.com.ssl.sc.omtrdc.net
@@ -2856,6 +3078,7 @@
     * originenergy.com.au.ssl.sc.omtrdc.net
     * orlandofuntickets.com.ssl.d2.sc.omtrdc.net
     * orvis.com.ssl.sc.omtrdc.net
+    * osorezone.com.ssl.sc.omtrdc.net
     * oui.sncf.ssl.sc.omtrdc.net
     * outrigger.com.ssl.sc.omtrdc.net
     * oxfam.org.uk.ssl.d2.sc.omtrdc.net
@@ -2867,6 +3090,7 @@
     * panasonic.co.uk.ssl.sc.omtrdc.net
     * panasonic.com.ssl.d3.sc.omtrdc.net
     * panasonic.com.ssl.sc.omtrdc.net
+    * panasonic.jp.ssl.sc.omtrdc.net
     * panasonic.net.ssl.sc.omtrdc.net
     * panasonicglobal.d3.sc.omtrdc.net
     * pandora.net.ssl.sc.omtrdc.net
@@ -2902,8 +3126,10 @@
     * pgatour.com.ssl.d2.sc.omtrdc.net
     * pharmaintelligence.informa.com.ssl.sc.omtrdc.net
     * philosophy.com.sc.omtrdc.net
+    * philosophy.com.ssl.sc.omtrdc.net
     * phoenix.edu.ssl.d1.sc.omtrdc.net
     * pinkribbonbottle.com.sc.omtrdc.net
+    * pionline.com.ssl.d1.sc.omtrdc.net
     * pipesandcigars.com.ssl.sc.omtrdc.net
     * pisocompartido.com.ssl.sc.omtrdc.net
     * pisos.com.ssl.sc.omtrdc.net
@@ -2934,7 +3160,10 @@
     * premierinn.com.ssl.sc.omtrdc.net
     * premiumsim.de.ssl.sc.omtrdc.net
     * princess.com.ssl.sc.omtrdc.net
+    * privilege.com.ssl.sc.omtrdc.net
+    * proactiv.com.ssl.sc.omtrdc.net
     * professionnels.roche.fr.sc.omtrdc.net
+    * proflowers.com.d1.sc.omtrdc.net
     * proflowers.com.ssl.d1.sc.omtrdc.net
     * protrek.jp.ssl.sc.omtrdc.net
     * provigo.ca.ssl.sc.omtrdc.net
@@ -2955,12 +3184,14 @@
     * qatarairways.com.d2.sc.omtrdc.net
     * qatarairways.com.ssl.d2.sc.omtrdc.net
     * queensland.com.ssl.sc.omtrdc.net
+    * quickenloans.com.d2.sc.omtrdc.net
     * quickenloans.com.ssl.d2.sc.omtrdc.net
     * quikshiptoner.com.ssl.sc.omtrdc.net
     * quill.com.ssl.d1.sc.omtrdc.net
     * quintefirst.ca.ssl.sc.omtrdc.net
     * qvc.jp.ssl.sc.omtrdc.net
     * qvcjapan.sc.omtrdc.net
+    * rac.co.uk.ssl.sc.omtrdc.net
     * rachaelrayshow.com.ssl.sc.omtrdc.net
     * rackroomshoes.com.ssl.sc.omtrdc.net
     * racv.com.au.ssl.sc.omtrdc.net
@@ -2994,6 +3225,7 @@
     * reg.kb.nl.ssl.sc.omtrdc.net
     * regiobank.nl.ssl.sc.omtrdc.net
     * regions.com.ssl.sc.omtrdc.net
+    * rei.com.d2.sc.omtrdc.net
     * rei.com.ssl.d2.sc.omtrdc.net
     * reiseversicherung.de.ssl.ldc.d3.sc.omtrdc.net
     * rejuvenation.com.ssl.sc.omtrdc.net
@@ -3064,6 +3296,7 @@
     * savethechildren.org.uk.ssl.sc.omtrdc.net
     * saxobank.com.sc.omtrdc.net
     * saxobank.com.ssl.sc.omtrdc.net
+    * sazerac.com.ssl.sc.omtrdc.net
     * sazerachouse.com.ssl.sc.omtrdc.net
     * sbicard.com.ssl.sc.omtrdc.net
     * sbimobility.com.ssl.sc.omtrdc.net
@@ -3085,6 +3318,7 @@
     * sciencedirect.com.d1.sc.omtrdc.net
     * sciencemag.org.sc.omtrdc.net
     * sciencemag.org.ssl.sc.omtrdc.net
+    * scotiabank.com.sc.omtrdc.net
     * scotiabank.com.ssl.sc.omtrdc.net
     * sdcvisit.com.ssl.d2.sc.omtrdc.net
     * seabourn.com.ssl.sc.omtrdc.net
@@ -3101,19 +3335,24 @@
     * seat.es.ssl.sc.omtrdc.net
     * seat.fi.ssl.sc.omtrdc.net
     * seat.fr.ssl.sc.omtrdc.net
+    * seat.ie.ssl.sc.omtrdc.net
     * seat.mx.ssl.sc.omtrdc.net
     * seat.pl.ssl.sc.omtrdc.net
     * seat.pt.ssl.sc.omtrdc.net
+    * seat.sg.ssl.sc.omtrdc.net
     * seawheeze.com.sc.omtrdc.net
     * seawheeze.com.ssl.sc.omtrdc.net
     * seb.ee.ssl.sc.omtrdc.net
     * seb.lt.ssl.sc.omtrdc.net
     * seb.lv.ssl.sc.omtrdc.net
     * securebanklogin.com.ssl.sc.omtrdc.net
+    * securemaxxia.com.au.ssl.sc.omtrdc.net
     * seguro.mediaset.es.ssl.sc.omtrdc.net
     * self.com.ssl.sc.omtrdc.net
+    * seloger.com.ssl.d2.sc.omtrdc.net
     * sen.com.au.sc.omtrdc.net
     * sen.com.au.ssl.sc.omtrdc.net
+    * sensai-cosmetics.com.ssl.sc.omtrdc.net
     * sephora.com.d1.sc.omtrdc.net
     * sephora.com.ssl.d1.sc.omtrdc.net
     * seriesplus.com.ssl.sc.omtrdc.net
@@ -3128,10 +3367,13 @@
     * shawmobile.ca.ssl.sc.omtrdc.net
     * shell.d3.sc.omtrdc.net
     * shellenergy.co.uk.ssl.sc.omtrdc.net
+    * shihang.org.ssl.sc.omtrdc.net
     * sho.com.ssl.sc.omtrdc.net
     * shoedazzle.com.d1.sc.omtrdc.net
     * shop.superstore.ca.d1.sc.omtrdc.net
+    * shop.superstore.ca.ssl.d1.sc.omtrdc.net
     * shopbop.com.sc.omtrdc.net
+    * shopbop.com.ssl.d2.sc.omtrdc.net
     * shopbop.com.ssl.sc.omtrdc.net
     * shopdisney.co.uk.ssl.sc.omtrdc.net
     * shopdisney.de.ssl.sc.omtrdc.net
@@ -3152,10 +3394,13 @@
     * shutterfly.com.sc.omtrdc.net
     * shutterfly.com.ssl.sc.omtrdc.net
     * sigsa.info.ssl.sc.omtrdc.net
+    * silversea.com.ssl.sc.omtrdc.net
     * sim.de.ssl.sc.omtrdc.net
+    * simplyhealth.co.uk.sc.omtrdc.net
     * simplyhealth.co.uk.ssl.sc.omtrdc.net
     * simplytel.de.ssl.sc.omtrdc.net
     * simpsonmillar.d2.sc.omtrdc.net
+    * simzdarma.cz.ssl.sc.omtrdc.net
     * siriusxm.ca.ssl.sc.omtrdc.net
     * siriusxm.com.d1.sc.omtrdc.net
     * siriusxm.com.ssl.d1.sc.omtrdc.net
@@ -3166,6 +3411,7 @@
     * sixt.com.sc.omtrdc.net
     * sixt.com.ssl.sc.omtrdc.net
     * sixt.de.sc.omtrdc.net
+    * sixt.de.ssl.sc.omtrdc.net
     * sixt.fr.sc.omtrdc.net
     * sixt.it.sc.omtrdc.net
     * sixt.jobs.sc.omtrdc.net
@@ -3174,12 +3420,14 @@
     * sixt.sixtcarsales.sc.omtrdc.net
     * sj.se.ssl.sc.omtrdc.net
     * skinny.co.nz.ssl.sc.omtrdc.net
+    * skipton.co.uk.ssl.sc.omtrdc.net
     * sky.com.d1.sc.omtrdc.net
     * sky.com.ssl.d1.sc.omtrdc.net
     * sky.de.d2.sc.omtrdc.net
     * sky.de.ssl.d2.sc.omtrdc.net
     * sky.it.sc.omtrdc.net
     * sky.it.ssl.sc.omtrdc.net
+    * slate.com.ssl.d1.sc.omtrdc.net
     * sleepnumber.com.ssl.sc.omtrdc.net
     * sling.com.ssl.sc.omtrdc.net
     * smart.com.ssl.sc.omtrdc.net
@@ -3197,10 +3445,12 @@
     * snnow.ca.ssl.sc.omtrdc.net
     * snow.com.d2.sc.omtrdc.net
     * snow.com.ssl.d2.sc.omtrdc.net
+    * snowandrock.com.ssl.sc.omtrdc.net
     * so-net.ne.jp.ssl.d1.sc.omtrdc.net
     * so-net.ne.jp.ssl.sc.omtrdc.net
     * sofina.co.jp.ssl.sc.omtrdc.net
     * sofina.com.ssl.sc.omtrdc.net
+    * softcrylic.com.ssl.sc.omtrdc.net
     * sofy.jp.ssl.sc.omtrdc.net
     * sofygirls.com.ssl.sc.omtrdc.net
     * solarwinds.com.sc.omtrdc.net
@@ -3243,10 +3493,12 @@
     * startribune.com.d1.sc.omtrdc.net
     * startribune.com.ssl.d1.sc.omtrdc.net
     * starwars.ru.ssl.sc.omtrdc.net
+    * starwoodhotels.com.d1.sc.omtrdc.net
     * stat.canal-plus.net.ssl.sc.omtrdc.net
     * statefarm.com.ssl.d1.sc.omtrdc.net
     * statnews.com.ssl.sc.omtrdc.net
     * steelcase.com.ssl.sc.omtrdc.net
+    * steepandcheap.com.sc.omtrdc.net
     * steepandcheap.com.ssl.sc.omtrdc.net
     * stepstone.at.ssl.sc.omtrdc.net
     * stepstone.be.sc.omtrdc.net
@@ -3267,6 +3519,7 @@
     * suncorp.com.au.sc.omtrdc.net
     * suncorp.com.au.ssl.sc.omtrdc.net
     * suncorpbank.com.au.sc.omtrdc.net
+    * suncorpbank.com.au.ssl.sc.omtrdc.net
     * sundancecatalog.com.ssl.sc.omtrdc.net
     * sunglasshut.com.ssl.sc.omtrdc.net
     * sunlife.ca.ssl.sc.omtrdc.net
@@ -3287,17 +3540,20 @@
     * swisscom.ch.ssl.sc.omtrdc.net
     * symantec.com.d1.sc.omtrdc.net
     * symantec.com.ssl.d1.sc.omtrdc.net
+    * sympany.ch.ssl.sc.omtrdc.net
     * synergy.net.au.ssl.sc.omtrdc.net
     * synopsys.com.ssl.sc.omtrdc.net
     * t-mobile.com.ssl.d1.sc.omtrdc.net
     * t-mobilemoney.com.ssl.sc.omtrdc.net
     * tab.com.au.ssl.sc.omtrdc.net
     * tabichan.jp.sc.omtrdc.net
+    * tabichan.jp.ssl.sc.omtrdc.net
     * tabroom.jp.ssl.sc.omtrdc.net
     * takami-labo.com.ssl.sc.omtrdc.net
     * talbots.com.ssl.sc.omtrdc.net
     * tallink.com.sc.omtrdc.net
     * tallink.com.ssl.sc.omtrdc.net
+    * tamiflu.com.ssl.sc.omtrdc.net
     * taste.com.au.ssl.sc.omtrdc.net
     * tataaig.com.ssl.sc.omtrdc.net
     * tatacard.com.ssl.sc.omtrdc.net
@@ -3342,6 +3598,7 @@
     * thelott.com.ssl.sc.omtrdc.net
     * themercury.com.au.sc.omtrdc.net
     * themercury.com.au.ssl.sc.omtrdc.net
+    * therecroom.com.ssl.sc.omtrdc.net
     * thermofisher.com.ssl.d2.sc.omtrdc.net
     * thespacecinema.it.ssl.sc.omtrdc.net
     * thestar.com.sc.omtrdc.net
@@ -3361,6 +3618,7 @@
     * tiaa-cref.org.d2.sc.omtrdc.net
     * tiaa-cref.org.ssl.d2.sc.omtrdc.net
     * tiaa.org.ssl.sc.omtrdc.net
+    * ticket.dk.ssl.d2.sc.omtrdc.net
     * ticket.fi.ssl.d2.sc.omtrdc.net
     * ticket.no.ssl.d2.sc.omtrdc.net
     * ticket.se.ssl.d2.sc.omtrdc.net
@@ -3417,6 +3675,7 @@
     * topcomparativas.com.ssl.sc.omtrdc.net
     * toptable.co.uk.ssl.d1.sc.omtrdc.net
     * totalwine.com.ssl.sc.omtrdc.net
+    * tour-list.com.ssl.sc.omtrdc.net
     * townsvillebulletin.com.au.ssl.sc.omtrdc.net
     * toyota.com.d1.sc.omtrdc.net
     * toyota.com.ssl.d1.sc.omtrdc.net
@@ -3432,6 +3691,7 @@
     * travelchannel.com.d1.sc.omtrdc.net
     * travelchannel.com.ssl.d1.sc.omtrdc.net
     * travelmoneyonline.co.uk.ssl.sc.omtrdc.net
+    * travelocity.com.d1.sc.omtrdc.net
     * travelocity.com.ssl.d1.sc.omtrdc.net
     * trb.com.sc.omtrdc.net
     * trendyol.com.ldc.d3.sc.omtrdc.net
@@ -3439,6 +3699,7 @@
     * troweprice.com.ssl.d2.sc.omtrdc.net
     * truckscout24.de.d1.sc.omtrdc.net
     * truffaut.com.sc.omtrdc.net
+    * truffaut.com.ssl.sc.omtrdc.net
     * truist.com.ssl.sc.omtrdc.net
     * trulia.com.d2.sc.omtrdc.net
     * trulia.com.ssl.d2.sc.omtrdc.net
@@ -3455,6 +3716,7 @@
     * tudorwatch.com.ssl.sc.omtrdc.net
     * tuneup.de.d2.sc.omtrdc.net
     * turkcell.com.tr.d3.sc.omtrdc.net
+    * turkcell.com.tr.ssl.d3.sc.omtrdc.net
     * turner.com.ssl.sc.omtrdc.net
     * turneruk.sc.omtrdc.net
     * tv.com.sc.omtrdc.net
@@ -3462,6 +3724,7 @@
     * tv2.dk.ssl.sc.omtrdc.net
     * tvguide.com.sc.omtrdc.net
     * tvguide.com.ssl.sc.omtrdc.net
+    * tvland.com.ssl.sc.omtrdc.net
     * tvr.es.ssl.sc.omtrdc.net
     * tyson.com.d2.sc.omtrdc.net
     * u-can.co.jp.ssl.sc.omtrdc.net
@@ -3482,6 +3745,7 @@
     * unoauto.com.ssl.sc.omtrdc.net
     * unsw.edu.au.ssl.sc.omtrdc.net
     * upc.ch.ssl.sc.omtrdc.net
+    * upc.cz.ssl.sc.omtrdc.net
     * upmc.com.ssl.sc.omtrdc.net
     * ups.com.sc.omtrdc.net
     * ups.com.ssl.sc.omtrdc.net
@@ -3507,9 +3771,11 @@
     * vcm.com.ssl.sc.omtrdc.net
     * vcstar.com.ssl.sc.omtrdc.net
     * vehiculosdeocasion.eus.sc.omtrdc.net
+    * vehiculosdeocasion.eus.ssl.sc.omtrdc.net
     * venclextahcp.com.sc.omtrdc.net
     * venclextahcp.com.ssl.sc.omtrdc.net
     * venere.com.ssl.d2.sc.omtrdc.net
+    * ventingdirect.com.ssl.d1.sc.omtrdc.net
     * verizon.com.d1.sc.omtrdc.net
     * verizon.com.ssl.d1.sc.omtrdc.net
     * verizonwireless.com.ssl.sc.omtrdc.net
@@ -3528,6 +3794,7 @@
     * virginmobile.ca.ssl.sc.omtrdc.net
     * virginmobileusa.com.sc.omtrdc.net
     * virtual-cosme.net.ssl.sc.omtrdc.net
+    * virtualtourist.com.ssl.sc.omtrdc.net
     * visainfinite.ca.d2.sc.omtrdc.net
     * visaliatimesdelta.com.ssl.d1.sc.omtrdc.net
     * visasignaturehotels.com.d2.sc.omtrdc.net
@@ -3562,6 +3829,7 @@
     * vodafone.qa.ssl.sc.omtrdc.net
     * vodafone.ro.ssl.sc.omtrdc.net
     * vodafonecu.gr.ssl.sc.omtrdc.net
+    * vogue-eyewear.com.ssl.sc.omtrdc.net
     * vogue.com.au.ssl.sc.omtrdc.net
     * vogue.com.sc.omtrdc.net
     * vogue.com.ssl.sc.omtrdc.net
@@ -3604,7 +3872,10 @@
     * westjet.com.d1.sc.omtrdc.net
     * westjet.com.ssl.d1.sc.omtrdc.net
     * westpac.com.au.ssl.d2.sc.omtrdc.net
+    * westpacgroup.com.au.ssl.sc.omtrdc.net
     * wgu.edu.ssl.sc.omtrdc.net
+    * whattopack.com.sc.omtrdc.net
+    * whattopack.com.ssl.sc.omtrdc.net
     * wholesaleclub.ca.ssl.sc.omtrdc.net
     * wideroe.no.ssl.sc.omtrdc.net
     * wikirioja.com.ssl.sc.omtrdc.net
@@ -3613,6 +3884,7 @@
     * williamoneil.com.ssl.sc.omtrdc.net
     * williams-sonoma.com.ssl.d1.sc.omtrdc.net
     * wilson.com.ssl.d2.sc.omtrdc.net
+    * winecoolerdirect.com.ssl.sc.omtrdc.net
     * winsim.de.ssl.sc.omtrdc.net
     * wired.com.ssl.sc.omtrdc.net
     * wired2fish.com.ssl.sc.omtrdc.net
@@ -3658,7 +3930,9 @@
     * yourfone.de.ssl.sc.omtrdc.net
     * yourindependentgrocer.ca.ssl.sc.omtrdc.net
     * zales.com.sc.omtrdc.net
+    * zales.com.ssl.sc.omtrdc.net
     * zdnet.com.ssl.sc.omtrdc.net
+    * zebra.com.sc.omtrdc.net
     * zebra.com.ssl.sc.omtrdc.net
     * zehrs.ca.ssl.sc.omtrdc.net
     * zendalibros.com.ssl.sc.omtrdc.net
@@ -3704,8 +3978,10 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| t.10er-tagesticket.de | 10er-tagesticket.de.data.adobedc.net |
 | smetrics.10play.com.au | 10play.com.au.ssl.sc.omtrdc.net |
 | osc.webroot.com | 112.2o7.net |
+| sitecatalyst.newsamerica.com | 112.2o7.net |
 | metrics.npr.org | 122.2o7.net |
 | smetrics.1800contacts.com | 1800contacts.com.ssl.d1.sc.omtrdc.net |
 | mdws.1stchoicesavings.ca | 1stchoicesavings.ca.102.112.2o7.net |
@@ -3715,6 +3991,7 @@
 | smetrics.28degreescard.com.au | 28degreescard.com.au.ssl.sc.omtrdc.net |
 | smetrics.3838.com | 3838.com.102.112.2o7.net |
 | metrics.3838.com | 3838.com.112.2o7.net |
+| www-sadobe.384.co.jp | 384.co.jp.ssl.sc.omtrdc.net |
 | metrics.3m.com | 3m.com.sc.omtrdc.net |
 | smetrics.3m.com | 3m.com.ssl.sc.omtrdc.net |
 | smetrics.48.ie | 48.ie.data.adobedc.net |
@@ -3737,7 +4014,7 @@
 | smetrics.aami.com.au | aami.com.au.ssl.sc.omtrdc.net |
 | metrics.aarp.org | aarp.org.sc.omtrdc.net |
 | smetrics.aarp.org | aarp.org.ssl.sc.omtrdc.net |
-| aa-metrics.ab-road.net | ab-road.net.ssl.sc.omtrdc.net |
+| sstats.aavacations.com | aavacations.com.102.112.2o7.net |
 | smetrics.abanca.com | abanca.com.data.adobedc.net |
 | smetrics.abbott.com | abbott.com.102.112.2o7.net |
 | metrics.abbottfamily.co.id | abbottfamily.co.id.112.2o7.net |
@@ -3752,6 +4029,7 @@
 | ewstv.abcactionnews.com | abcactionnews.com.112.2o7.net |
 | mdws.abcu.ca | abcu.ca.ssl.sc.omtrdc.net |
 | smetrics.abercrombie.com | abercrombie.com.ssl.d1.sc.omtrdc.net |
+| smetrics.abilifymaintena.com | abilifymaintena.com.ssl.d2.sc.omtrdc.net |
 | mdws.acadiancreditu.ca | acadiancreditu.ca.ssl.sc.omtrdc.net |
 | metrics.acbj.com | acbj.com.ssl.sc.omtrdc.net |
 | smetrics.accaglobal.com | accaglobal.com.data.adobedc.net |
@@ -3762,8 +4040,10 @@
 | smetrics.aclu.org | aclu.org.102.122.2o7.net |
 | swebanalytics.acs.org | acs.org.ssl.sc.omtrdc.net |
 | adobeanalytics.actalentservices.com | actalentservices.com.ssl.sc.omtrdc.net |
+| t-s.actemra.com | actemra.com.102.122.2o7.net |
 | metrics.actemra.com | actemra.com.sc.omtrdc.net |
 | metrics.actemrahcp.com | actemrahcp.com.sc.omtrdc.net |
+| t.activase.com | activase.com.122.2o7.net |
 | metrics.activase.com | activase.com.sc.omtrdc.net |
 | smetrics.active.com | active.com.102.122.2o7.net |
 | metrics.active.com | active.com.122.2o7.net |
@@ -3787,6 +4067,7 @@
 | metrics.adt.com | adt.com.112.2o7.net |
 | smetrics.adt.com | adt.com.ssl.sc.omtrdc.net |
 | stats.adultswim.com | adultswim.122.2o7.net |
+| stats.liveforeverasyouarenowwithalanresnick.com | adultswim.122.2o7.net |
 | analytics.adultswim.co.uk | adultswim.co.uk.sc.omtrdc.net |
 | sstats.adultswim.com | adultswim.com.102.122.2o7.net |
 | mdws.advancesavings.ca | advancesavings.ca.102.112.2o7.net |
@@ -3817,6 +4098,7 @@
 | smetrics.airbank.cz | airbank.cz.ssl.sc.omtrdc.net |
 | smetrics.aircanada.com | aircanada.com.ssl.d2.sc.omtrdc.net |
 | aa-metrics.aircard.jp | aircard.jp.ssl.sc.omtrdc.net |
+| smetrics.aireserv.com | aireserv.com.data.adobedc.net |
 | sstats.airfarewatchdog.co.uk | airfarewatchdog.co.uk.ssl.sc.omtrdc.net |
 | sstats.airfarewatchdog.com | airfarewatchdog.com.ssl.sc.omtrdc.net |
 | aa-metrics.airreserve.net | airreserve.net.ssl.sc.omtrdc.net |
@@ -3837,6 +4119,7 @@
 | smetrics.allianz.com.au | allianz.com.au.data.adobedc.net |
 | dc.allianz.de | allianz.de.sc.omtrdc.net |
 | sdc.allianz.de | allianz.de.ssl.sc.omtrdc.net |
+| sdc.kfz-steuercheck.de | allianz.de.ssl.sc.omtrdc.net |
 | collect.allianzcinema.ch | allianzcinema.ch.ssl.sc.omtrdc.net |
 | collect.allianzdriveincinema.ch | allianzdriveincinema.ch.ssl.sc.omtrdc.net |
 | firstparty.alloyio.com | alloyio.com.ssl.sc.omtrdc.net |
@@ -3905,18 +4188,19 @@
 | aadata.april-international.com | april-international.com.data.adobedc.net |
 | aadata.april.fr | april.fr.data.adobedc.net |
 | med.aptalispharma.com | aptalispharma.com.112.2o7.net |
+| stats2.architecturaldigest.com | architecturaldigest.com.sc.omtrdc.net |
 | sstats.architecturaldigest.com | architecturaldigest.com.ssl.sc.omtrdc.net |
 | scs.arcteryx.com | arcteryx.com.ssl.d2.sc.omtrdc.net |
 | metrics.argenta.be | argenta.be.sc.omtrdc.net |
 | smetrics.argenta.be | argenta.be.ssl.sc.omtrdc.net |
 | metrics.argenta.eu | argenta.eu.sc.omtrdc.net |
+| smetrics.argenta.eu | argenta.eu.ssl.sc.omtrdc.net |
 | metrics.argos.co.uk | argos.co.uk.d1.sc.omtrdc.net |
 | smetrics.argos.co.uk | argos.co.uk.ssl.d1.sc.omtrdc.net |
 | smetrics.argos.ie | argos.ie.ssl.sc.omtrdc.net |
 | smetrics.arhealthwellness.com | arhealthwellness.com.ssl.sc.omtrdc.net |
 | metrics.ariba.com | ariba.com.sc.omtrdc.net |
 | smetrics.ariba.com | ariba.com.ssl.sc.omtrdc.net |
-| smetrics.armadaskis.com | armadaskis.com.ssl.sc.omtrdc.net |
 | metric.armstrong.com | armstrong.com.112.2o7.net |
 | metrics.armstrongceilings.com | armstrongceilings.com.ssl.sc.omtrdc.net |
 | smetrics.army.mod.uk | army.mod.uk.ssl.sc.omtrdc.net |
@@ -3927,11 +4211,13 @@
 | med.asacolhd.com | asacolhd.com.112.2o7.net |
 | sstats.asadventure.com | asadventure.com.ssl.sc.omtrdc.net |
 | sstats.asadventure.fr | asadventure.fr.ssl.sc.omtrdc.net |
+| sstats.asadventure.lu | asadventure.lu.ssl.sc.omtrdc.net |
 | sstats.asadventure.nl | asadventure.nl.ssl.sc.omtrdc.net |
 | visit.asb.co.nz | asb.co.nz.ssl.d2.sc.omtrdc.net |
 | metrics.asdafinance.com | asdafinance.com.122.2o7.net |
 | ssa.asianfoodnetwork.com | asianfoodnetwork.com.ssl.sc.omtrdc.net |
 | smetrics.asics.com | asics.com.data.adobedc.net |
+| smetrics.ask.com | ask.com.102.122.2o7.net |
 | analytics.asml.com | asml.com.ssl.sc.omtrdc.net |
 | swa.asnbank.nl | asnbank.nl.ssl.sc.omtrdc.net |
 | metrics.asos.com | asos.com.ssl.d3.sc.omtrdc.net |
@@ -3974,6 +4260,7 @@
 | adobe.autoscout24.com.ua | autoscout24.com.ua.d1.sc.omtrdc.net |
 | adobe.autoscout24.cz | autoscout24.cz.d1.sc.omtrdc.net |
 | adobe.autoscout24.de | autoscout24.de.d1.sc.omtrdc.net |
+| sadobe.autoscout24.de | autoscout24.de.ssl.d1.sc.omtrdc.net |
 | adobe.autoscout24.es | autoscout24.es.d1.sc.omtrdc.net |
 | adobe.autoscout24.fr | autoscout24.fr.d1.sc.omtrdc.net |
 | adobe.autoscout24.hr | autoscout24.hr.d1.sc.omtrdc.net |
@@ -3993,13 +4280,21 @@
 | smetrics.avalara.com | avalara.com.ssl.sc.omtrdc.net |
 | an.avast.com | avast.co.jp.ldc.d3.sc.omtrdc.net |
 | ans.avast.com | avast.co.jp.ssl.ldc.d3.sc.omtrdc.net |
+| t-s.avastin-hcp.com | avastin-hcp.com.102.122.2o7.net |
 | metrics.avastin-hcp.com | avastin-hcp.com.sc.omtrdc.net |
+| smetrics.avastin.com | avastin.com.ssl.sc.omtrdc.net |
 | smetrics.aveva.com | aveva.com.ssl.sc.omtrdc.net |
+| smetrics.aviationweek.com | aviationweek.com.ssl.sc.omtrdc.net |
 | sdata.avid.com | avid.com.102.112.2o7.net |
 | data.avid.com | avid.com.112.2o7.net |
+| secureanalytics.avis.at | avis.at.ssl.sc.omtrdc.net |
 | secureanalytics.avis.co.uk | avis.co.uk.ssl.sc.omtrdc.net |
 | secureanalytics.avis.de | avis.de.ssl.sc.omtrdc.net |
+| secureanalytics.avis.dk | avis.dk.ssl.sc.omtrdc.net |
 | secureanalytics.avis.es | avis.es.ssl.sc.omtrdc.net |
+| secureanalytics.avis.fr | avis.fr.ssl.sc.omtrdc.net |
+| secureanalytics.avis.se | avis.se.ssl.sc.omtrdc.net |
+| secureanalytics.avisautonoleggio.it | avisautonoleggio.it.ssl.sc.omtrdc.net |
 | smetrics.aviva.co.uk | aviva.co.uk.ssl.d2.sc.omtrdc.net |
 | metrics.aviva.com.sg | aviva.com.sg.sc.omtrdc.net |
 | smetrics.aviva.com.sg | aviva.com.sg.ssl.sc.omtrdc.net |
@@ -4008,11 +4303,13 @@
 | smetrix.avon.uk.com | avon.uk.com.102.112.2o7.net |
 | metrix.avon.uk.com | avon.uk.com.112.2o7.net |
 | meds.avycaz.com | avycaz.com.102.112.2o7.net |
+| med.avycaz.com | avycaz.com.112.2o7.net |
 | sdc.aware.com.au | aware.com.au.ssl.sc.omtrdc.net |
 | mdws.awccu.com | awccu.com.102.112.2o7.net |
 | smetrics.axa-direct-life.co.jp | axa-direct-life.co.jp.ssl.d1.sc.omtrdc.net |
 | as.axelspringer.com | axelspringer.com.ssl.sc.omtrdc.net |
 | smetrics.axs.com | axs.com.ssl.d1.sc.omtrdc.net |
+| srepdata.azcentral.com | azcentral.com.ssl.sc.omtrdc.net |
 | infos.b2dreamlab.com | b2dreamlab.com.ssl.sc.omtrdc.net |
 | smetrics.baby-g.jp | baby-g.jp.ssl.sc.omtrdc.net |
 | metrics.babycenter.com | babycenter.com.112.2o7.net |
@@ -4021,10 +4318,12 @@
 | smetric.bahamabreeze.com | bahamabreeze.com.ssl.sc.omtrdc.net |
 | st.bahn.de | bahn.de.102.122.2o7.net |
 | t.bahn.de | bahn.de.122.2o7.net |
+| t.bahnbuchung.de | bahnbuchung.de.data.adobedc.net |
 | st.bahnhof.de | bahnhof.de.data.adobedc.net |
 | metrics.baitoru-id.com | baitoru-id.com.data.adobedc.net |
 | metrics.baitoru.com | baitoru.com.ssl.sc.omtrdc.net |
 | metrics.baitorupro.com | baitorupro.com.data.adobedc.net |
+| sanalytics.bakerfurniture.com | bakerfurniture.com.ssl.sc.omtrdc.net |
 | metrics.bakeryandsnacks.com | bakeryandsnacks.com.data.adobedc.net |
 | metrics.bakeryinfo.co.uk | bakeryinfo.co.uk.data.adobedc.net |
 | smetrics.banamex.com | banamex.com.ssl.sc.omtrdc.net |
@@ -4043,12 +4342,14 @@
 | mdws.banquelaurentienne.ca | banquelaurentienne.ca.102.112.2o7.net |
 | smetrics.banquemondiale.org | banquemondiale.org.ssl.sc.omtrdc.net |
 | smetrics.banter.com | banter.com.data.adobedc.net |
+| smetrics.barandblock.co.uk | barandblock.co.uk.ssl.sc.omtrdc.net |
 | smetrics.barcainnovationhub.com | barcainnovationhub.com.ssl.sc.omtrdc.net |
 | metric.barclaycardus.com | barclaycardus.com.sc.omtrdc.net |
 | metrics.barclaycardus.com | barclaycardus.com.ssl.sc.omtrdc.net |
 | metrics.barclays.co.uk | barclays.co.uk.d3.sc.omtrdc.net |
 | metrics.base.be | base.be.sc.omtrdc.net |
 | smetrics.base.be | base.be.ssl.sc.omtrdc.net |
+| smetrics.prd.base.be | base.be.ssl.sc.omtrdc.net |
 | omnis.basspro.com | basspro.com.ssl.sc.omtrdc.net |
 | aa.bathandbodyworks.com | bathandbodyworks.com.data.adobedc.net |
 | asd.bauhaus.at | bauhaus.at.ssl.sc.omtrdc.net |
@@ -4072,6 +4373,7 @@
 | smetrics.bcbsm.com | bcbsm.com.ssl.sc.omtrdc.net |
 | metrics.bcbsnc.com | bcbsnc.com.sc.omtrdc.net |
 | smetrics.bcbsnc.com | bcbsnc.com.ssl.sc.omtrdc.net |
+| smetrics.bcbsnd.com | bcbsnd.com.ssl.sc.omtrdc.net |
 | somni.bcg.com | bcg.com.ssl.sc.omtrdc.net |
 | metrics.be.carrefour.eu | be.carrefour.eu.sc.omtrdc.net |
 | smetrics.be.carrefour.eu | be.carrefour.eu.ssl.sc.omtrdc.net |
@@ -4081,6 +4383,7 @@
 | smetrics.beatsbydre.com | beatsbydre.com.ssl.d1.sc.omtrdc.net |
 | mdws.beaubear.ca | beaubear.ca.102.112.2o7.net |
 | aa-metrics.beauty.hotpepper.jp | beauty.hotpepper.jp.ssl.sc.omtrdc.net |
+| smetrics.becomeanex.org | becomeanex.org.ssl.sc.omtrdc.net |
 | smetrics.bedbathandbeyond.ca | bedbathandbeyond.ca.ssl.d1.sc.omtrdc.net |
 | smetrics.bedbathandbeyond.com | bedbathandbeyond.com.ssl.d1.sc.omtrdc.net |
 | smetrics.beefeater.co.uk | beefeater.co.uk.ssl.sc.omtrdc.net |
@@ -4095,9 +4398,11 @@
 | aas.bellemaison.jp | bellemaison.jp.ssl.sc.omtrdc.net |
 | infos.belong.com.au | belong.com.au.ssl.sc.omtrdc.net |
 | smetrics.beneplace.com | beneplace.com.data.adobedc.net |
+| smetrics.bereadywith.com | bereadywith.com.data.adobedc.net |
 | strack.bestbuy.ca | bestbuy.ca.ssl.sc.omtrdc.net |
 | smetrics.bestbuy.com | bestbuy.com.ssl.sc.omtrdc.net |
 | omniture.bestcheck.de | bestcheck.de.sc.omtrdc.net |
+| somniture.bestcheck.de | bestcheck.de.ssl.sc.omtrdc.net |
 | smetrics.bestegg.com | bestegg.com.ssl.sc.omtrdc.net |
 | smetrics.bestinver.es | bestinver.es.ssl.sc.omtrdc.net |
 | smetrics.bestoforlando.com | bestoforlando.com.ssl.d2.sc.omtrdc.net |
@@ -4124,6 +4429,7 @@
 | metric.billmelateroffers.com | bill-me-later.com.112.2o7.net |
 | metric.myfinancingprogram.com | bill-me-later.com.112.2o7.net |
 | metric.weshopnaked.com | bill-me-later.com.112.2o7.net |
+| metrics.billmelater.com | billmelater.com.102.112.2o7.net |
 | metric.billmelater.com | billmelater.com.112.2o7.net |
 | somni.binck.nl | binck.nl.ssl.sc.omtrdc.net |
 | smetrics.binge.com.au | binge.com.au.data.adobedc.net |
@@ -4131,7 +4437,9 @@
 | smetrics.bingle.com.au | bingle.com.au.ssl.sc.omtrdc.net |
 | metrics.biocompare.com | biocompare.com.data.adobedc.net |
 | smetric.biogen.com | biogen.com.ssl.d2.sc.omtrdc.net |
+| t.biooncology.com | biooncology.com.122.2o7.net |
 | metrics.biooncology.com | biooncology.com.sc.omtrdc.net |
+| smetrics.biooncology.com | biooncology.com.ssl.sc.omtrdc.net |
 | metrics.biopharma-reporter.com | biopharma-reporter.com.data.adobedc.net |
 | data.bioplanet.be | bioplanet.be.sc.omtrdc.net |
 | metrics.pe.com | bipecom.122.2o7.net |
@@ -4161,11 +4469,13 @@
 | securemetrics.blackrock.com | blackrock.com.ssl.d2.sc.omtrdc.net |
 | smetrics.blair.com | blair.com.ssl.sc.omtrdc.net |
 | analytics.bleacherreport.com | bleacherreport.com.122.2o7.net |
+| s.blinds.com | blinds.com.ssl.sc.omtrdc.net |
 | somnit.blinkfitness.com | blinkfitness.com.ssl.sc.omtrdc.net |
 | metrics.blockbuster.com | blockbuster.com.sc.omtrdc.net |
 | adbmetrics.blogasturias.com | blogasturias.com.sc.omtrdc.net |
 | sadbmetrics.blogasturias.com | blogasturias.com.ssl.sc.omtrdc.net |
 | metrics.bloomberg.com | bloomberg.122.2o7.net |
+| smetrics.bloombergindustry.com | bloombergindustry.com.ssl.sc.omtrdc.net |
 | smetrics.bloombergtax.com | bloombergtax.com.ssl.sc.omtrdc.net |
 | omni.bluecrossma.com | bluecrossma.com.sc.omtrdc.net |
 | somni.bluecrossma.com | bluecrossma.com.ssl.sc.omtrdc.net |
@@ -4175,6 +4485,7 @@
 | smetrics.bmo.com | bmo.com.ssl.d1.sc.omtrdc.net |
 | metrics.bmwusa.com | bmwfs.122.2o7.net |
 | smetrics.bna.com | bna.com.ssl.sc.omtrdc.net |
+| smetrics.bncollege.com | bncollege.com.ssl.sc.omtrdc.net |
 | smetrics.bncvirtual.com | bncvirtual.com.ssl.sc.omtrdc.net |
 | smetrics.bnpparibas.com | bnpparibas.com.data.adobedc.net |
 | sstats.bnpparibasfortis.be | bnpparibasfortis.be.ssl.sc.omtrdc.net |
@@ -4189,11 +4500,15 @@
 | smetrics.boehringer-ingelheim.ca | boehringer-ingelheim.ca.ssl.sc.omtrdc.net |
 | smetrics.boehringer-ingelheim.com | boehringer-ingelheim.com.ssl.sc.omtrdc.net |
 | smetrics.boehringer-ingelheim.de | boehringer-ingelheim.de.ssl.sc.omtrdc.net |
+| smetrics.boehringer-ingelheim.hu | boehringer-ingelheim.hu.data.adobedc.net |
+| smetrics.boehringer-ingelheim.in | boehringer-ingelheim.in.data.adobedc.net |
+| smetrics.boehringer-ingelheim.mx | boehringer-ingelheim.mx.data.adobedc.net |
 | smetrics.boehringer-ingelheim.ru | boehringer-ingelheim.ru.ssl.sc.omtrdc.net |
 | smetrics.boehringer-ingelheim.tw | boehringer-ingelheim.tw.ssl.sc.omtrdc.net |
 | so.boh.com | boh.com.102.112.2o7.net |
 | analytics.boing.es | boing.es.sc.omtrdc.net |
 | sanalytics.boing.es | boing.es.ssl.sc.omtrdc.net |
+| wa.bol.com | bol.com.d1.sc.omtrdc.net |
 | swa.bol.com | bol.com.ssl.d1.sc.omtrdc.net |
 | sstats.bonappetit.com | bonappetit.com.ssl.sc.omtrdc.net |
 | analytics.popsci.com | bonniercorp.122.2o7.net |
@@ -4225,6 +4540,9 @@
 | smetrics.brooksbrothers.com | brooksbrothers.com.ssl.d2.sc.omtrdc.net |
 | metrics.bt.com | bt.com.sc.omtrdc.net |
 | smetrics.bt.com | bt.com.ssl.sc.omtrdc.net |
+| smetrics.buckeyehealthplan.com | buckeyehealthplan.com.ssl.sc.omtrdc.net |
+| secureanalytics.budget.dk | budget.dk.ssl.sc.omtrdc.net |
+| secureanalytics.budget.es | budget.es.ssl.sc.omtrdc.net |
 | infos.budgetdirect.com.au | budgetdirect.com.au.ssl.d1.sc.omtrdc.net |
 | smetrics.buffalotracedistillery.com | buffalotracedistillery.com.ssl.sc.omtrdc.net |
 | pdmsmrt.buick.com | buick.com.ssl.sc.omtrdc.net |
@@ -4235,8 +4553,10 @@
 | sadbmetrics.burgosconecta.es | burgosconecta.es.ssl.sc.omtrdc.net |
 | stat-ssl.bushikaku.net | bushikaku.net.ssl.sc.omtrdc.net |
 | smetrics.buyagift.co.uk | buyagift.co.uk.ssl.sc.omtrdc.net |
+| smetrics.buybuybaby.com | buybuybaby.com.ssl.d1.sc.omtrdc.net |
 | metrics.buysearchsell.com.au | buysearchsell.com.au.data.adobedc.net |
 | img.bwin.com | bwin.com.d2.sc.omtrdc.net |
+| simg.bwin.com | bwin.com.ssl.d2.sc.omtrdc.net |
 | img.bwin.it | bwin.it.d2.sc.omtrdc.net |
 | adobeanalytics.bws.com.au | bws.com.au.ssl.sc.omtrdc.net |
 | med.bystolic.com | bystolic.com.112.2o7.net |
@@ -4254,15 +4574,19 @@
 | mdws.caissepopclare.com | caissepopclare.com.102.112.2o7.net |
 | metrics.caixabank.es | caixabank.es.ssl.sc.omtrdc.net |
 | s.caledonenterprise.com | caledonenterprise.com.data.adobedc.net |
+| smetrics.caliastudio.com | caliastudio.com.ssl.sc.omtrdc.net |
 | smetrics.calvinklein.ca | calvinklein.ca.ssl.sc.omtrdc.net |
 | smetrics.calvinklein.us | calvinklein.us.ssl.sc.omtrdc.net |
 | s.cambridgetimes.ca | cambridgetimes.ca.data.adobedc.net |
+| omni.campaigns.home.saxo | campaigns.home.saxo.sc.omtrdc.net |
+| somni.campaigns.home.saxo | campaigns.home.saxo.ssl.sc.omtrdc.net |
 | sslstats.canadapost-postescanada.ca | canadapost.ca.ssl.d1.sc.omtrdc.net |
 | sslstats.canadapost.ca | canadapost.ca.ssl.d1.sc.omtrdc.net |
 | oms.canadianbusiness.com | canadianbusiness.com.ssl.sc.omtrdc.net |
 | mdws.canadiandirectfinancial.com | canadiandirectfinancial.com.102.112.2o7.net |
 | secure-stat.canal-plus.com | canal-plus.com.102.112.2o7.net |
 | adbmetrics.canal10tv.com | canal10tv.com.sc.omtrdc.net |
+| sanalytics.canaltnt.es | canaltnt.es.data.adobedc.net |
 | analytics.canaltnt.es | canaltnt.es.sc.omtrdc.net |
 | metrics.cancer.gov | cancer.gov.ssl.sc.omtrdc.net |
 | smetrics.canosan.de | canosan.de.data.adobedc.net |
@@ -4291,9 +4615,12 @@
 | metrics.carters.com | carters.com.sc.omtrdc.net |
 | smetrics.carters.com | carters.com.ssl.sc.omtrdc.net |
 | smetrics.cartersoshkosh.ca | cartersoshkosh.ca.ssl.sc.omtrdc.net |
+| sanalytics.cartoonito.co.uk | cartoonito.co.uk.ssl.sc.omtrdc.net |
 | analytics.cartoonito.it | cartoonito.it.sc.omtrdc.net |
 | sanalytics.cartoonito.it | cartoonito.it.ssl.sc.omtrdc.net |
+| smetrics.cartoonnetwork.ca | cartoonnetwork.ca.data.adobedc.net |
 | sanalytics.cartoonnetwork.cl | cartoonnetwork.cl.ssl.sc.omtrdc.net |
+| sanalytics.cartoonnetwork.co.uk | cartoonnetwork.co.uk.ssl.sc.omtrdc.net |
 | sstats.cartoonnetwork.com | cartoonnetwork.com.102.122.2o7.net |
 | sanalytics.cartoonnetwork.com.ar | cartoonnetwork.com.ar.ssl.sc.omtrdc.net |
 | sanalytics.cartoonnetwork.com.br | cartoonnetwork.com.br.ssl.sc.omtrdc.net |
@@ -4302,11 +4629,16 @@
 | sanalytics.cartoonnetwork.com.tr | cartoonnetwork.com.tr.ssl.sc.omtrdc.net |
 | sanalytics.cartoonnetwork.es | cartoonnetwork.es.ssl.sc.omtrdc.net |
 | sanalytics.cartoonnetwork.fr | cartoonnetwork.fr.ssl.sc.omtrdc.net |
+| sanalytics.cartoonnetwork.it | cartoonnetwork.it.ssl.sc.omtrdc.net |
 | analytics.cartoonnetwork.jp | cartoonnetwork.jp.sc.omtrdc.net |
+| sanalytics.cartoonnetwork.jp | cartoonnetwork.jp.ssl.sc.omtrdc.net |
 | sanalytics.cartoonnetwork.pl | cartoonnetwork.pl.ssl.sc.omtrdc.net |
+| sanalytics.cartoonnetwork.pt | cartoonnetwork.pt.ssl.sc.omtrdc.net |
 | sanalytics.cartoonnetwork.ru | cartoonnetwork.ru.ssl.sc.omtrdc.net |
 | sanalytics.cartoonnetworkarabic.com | cartoonnetworkarabic.com.ssl.sc.omtrdc.net |
 | analytics.cartoonnetworkasia.com | cartoonnetworkasia.com.sc.omtrdc.net |
+| sanalytics.cartoonnetworkasia.com | cartoonnetworkasia.com.ssl.sc.omtrdc.net |
+| sanalytics.cartoonnetworkclimatechampions.com | cartoonnetworkclimatechampions.com.data.adobedc.net |
 | sanalytics.cartoonnetworkhq.com | cartoonnetworkhq.com.ssl.sc.omtrdc.net |
 | sanalytics.cartoonnetworkindia.com | cartoonnetworkindia.com.ssl.sc.omtrdc.net |
 | sanalytics.cartoonnetworkla.com | cartoonnetworkla.com.ssl.sc.omtrdc.net |
@@ -4318,15 +4650,23 @@
 | metric.carview.co.jp | carview.co.jp.d1.sc.omtrdc.net |
 | smetrics.caser.es | caser.es.ssl.sc.omtrdc.net |
 | mdws.caseracu.ca | caseracu.ca.102.112.2o7.net |
+| smetrics.caseys.com | caseys.com.ssl.sc.omtrdc.net |
+| smetrics.cashnetusa.com | cashnetusa.com.ssl.sc.omtrdc.net |
+| smetrics.casinoladbrokes.be | casinoladbrokes.be.ssl.sc.omtrdc.net |
 | smetrics.casio-intl.com | casio-intl.com.ssl.sc.omtrdc.net |
+| smetrics.casio-watches.com | casio-watches.com.ssl.sc.omtrdc.net |
 | smetrics.casio.co.jp | casio.co.jp.ssl.sc.omtrdc.net |
 | smetrics.casio.com | casio.com.ssl.sc.omtrdc.net |
+| smetrics.casio.com.tw | casio.com.tw.ssl.sc.omtrdc.net |
 | metrics.casio.jp | casio.jp.sc.omtrdc.net |
 | smetrics.casio.jp | casio.jp.ssl.sc.omtrdc.net |
+| smetrics.cat-care.nl | cat-care.nl.data.adobedc.net |
 | smetrics.catalog.usmint.gov | catalog.usmint.gov.ssl.sc.omtrdc.net |
 | mdws.cataractsavings.ca | cataractsavings.ca.102.112.2o7.net |
 | metrics.cathflo.com | cathflo.com.sc.omtrdc.net |
+| smetrics.cathflo.com | cathflo.com.ssl.sc.omtrdc.net |
 | metrics.catlife.com.tw | catlife.com.tw.sc.omtrdc.net |
+| smetrics.catxpert.se | catxpert.se.data.adobedc.net |
 | scookies-adobe.cbc.be | cbc.be.ssl.sc.omtrdc.net |
 | smetrics.cbc.ca | cbc.ca.102.122.2o7.net |
 | metrics.cbc.ca | cbc.ca.122.2o7.net |
@@ -4358,6 +4698,7 @@
 | smetrics.cellcept.com | cellcept.com.ssl.sc.omtrdc.net |
 | metrics.tylted.com | cellufun.d1.sc.omtrdc.net |
 | sstats.cengagebrain.com | cengagebrain.com.102.112.2o7.net |
+| stats.cengagebrain.com | cengagebrain.com.112.2o7.net |
 | metrics.centurylink.com | centurylink.com.sc.omtrdc.net |
 | smetrics.centurylink.com | centurylink.com.ssl.sc.omtrdc.net |
 | med.cerexa.com | cerexa.com.112.2o7.net |
@@ -4365,6 +4706,7 @@
 | smetrics.cfox.com | cfox.com.ssl.sc.omtrdc.net |
 | sanl.champssports.com | champssports.com.ssl.sc.omtrdc.net |
 | sfpc.changehealthcare.com | changehealthcare.com.data.adobedc.net |
+| smetrics.channel.com | channel.com.data.adobedc.net |
 | webstat.channel4.com | channel4.com.sc.omtrdc.net |
 | webstats.channel4.com | channel4.com.ssl.sc.omtrdc.net |
 | metrics.chapters.indigo.ca | chapters.indigo.ca.ssl.d1.sc.omtrdc.net |
@@ -4376,11 +4718,13 @@
 | smetric.cheddars.com | cheddars.com.ssl.sc.omtrdc.net |
 | trk.chegg.com | chegg.com.d2.sc.omtrdc.net |
 | adobetp.chegg.com | chegg.com.sc.omtrdc.net |
+| strk.chegg.com | chegg.com.ssl.d2.sc.omtrdc.net |
 | adobetps.chegg.com | chegg.com.ssl.sc.omtrdc.net |
 | smetrics.chemistanddruggist.co.uk | chemistanddruggist.co.uk.data.adobedc.net |
 | pdmsmrt.chevrolet.com | chevrolet.com.ssl.sc.omtrdc.net |
 | smetrics.chicagobusiness.com | chicagobusiness.com.ssl.d1.sc.omtrdc.net |
 | stat-ssl.chiku-wa.jp | chiku-wa.jp.ssl.sc.omtrdc.net |
+| analytics.chilevision.cl | chilevision.cl.sc.omtrdc.net |
 | sanalytics.chilevision.cl | chilevision.cl.ssl.sc.omtrdc.net |
 | mdws.chinookcu.com | chinookcu.com.102.112.2o7.net |
 | mdws.chinookfinancial.com | chinookfinancial.com.ssl.sc.omtrdc.net |
@@ -4423,6 +4767,7 @@
 | smetrics.citibank.pl | citibank.pl.data.adobedc.net |
 | metrics1.citibankonline.com | citibankonline.com.ssl.sc.omtrdc.net |
 | smetrics.citizensbank.com | citizensbank.com.ssl.sc.omtrdc.net |
+| oms.cityline.tv | cityline.tv.ssl.sc.omtrdc.net |
 | oms.citynews.ca | citynews.ca.ssl.sc.omtrdc.net |
 | oms.citynews1130.com | citynews1130.com.ssl.sc.omtrdc.net |
 | oms.citytv.com | citytv.com.ssl.sc.omtrdc.net |
@@ -4435,8 +4780,10 @@
 | smetrics.cloudera.com | cloudera.com.ssl.sc.omtrdc.net |
 | metrics.cluballiance.aaa.com | cluballiance.aaa.com.sc.omtrdc.net |
 | smetrics.cluballiance.aaa.com | cluballiance.aaa.com.ssl.sc.omtrdc.net |
+| sadbmetrics.cmacomunicacion.com | cmacomunicacion.com.ssl.sc.omtrdc.net |
 | metrics.vademecum.es | cmpmedica.112.2o7.net |
 | ssc.cmt.com | cmt.com.ssl.sc.omtrdc.net |
+| omni.cn.saxobank.com | cn.saxobank.com.sc.omtrdc.net |
 | smetrics.cnb.com | cnb.com.ssl.sc.omtrdc.net |
 | aa.cnet.com | cnet.com.sc.omtrdc.net |
 | saa.cnet.com | cnet.com.ssl.sc.omtrdc.net |
@@ -4452,7 +4799,9 @@
 | aa-metrics.cocokarada.jp | cocokarada.jp.ssl.sc.omtrdc.net |
 | data.collectandgo.be | collectandgo.be.sc.omtrdc.net |
 | securedata.collectandgo.be | collectandgo.be.ssl.sc.omtrdc.net |
+| track.collegeboard.org | collegeboard.org.d1.sc.omtrdc.net |
 | strack.collegeboard.org | collegeboard.org.ssl.d1.sc.omtrdc.net |
+| saa.collegesportslive.com | collegesportslive.com.ssl.sc.omtrdc.net |
 | data.collishop.be | collishop.be.sc.omtrdc.net |
 | data.colruyt.be | colruyt.be.sc.omtrdc.net |
 | securedata.colruyt.be | colruyt.be.ssl.sc.omtrdc.net |
@@ -4488,6 +4837,7 @@
 | smon.congress.gov | congress.gov.ssl.sc.omtrdc.net |
 | mdws.consolidatedcreditu.com | consolidatedcreditu.com.102.112.2o7.net |
 | om-ssl.consorsbank.de | consorsbank.de.ssl.d3.sc.omtrdc.net |
+| sc2.constantcontact.com | constantcontact.com.102.122.2o7.net |
 | an.constantcontact.com | constantcontact.com.122.2o7.net |
 | swa.consumentenbond.nl | consumentenbond.nl.102.112.2o7.net |
 | metrics.consumerreports.org | consumerreports.org.d2.sc.omtrdc.net |
@@ -4500,9 +4850,11 @@
 | smetrics.converse.com | converse.com.ssl.d1.sc.omtrdc.net |
 | ssa.cookingchanneltv.com | cookingchanneltv.com.ssl.d1.sc.omtrdc.net |
 | sstats.coop.dk | coop.dk.ssl.sc.omtrdc.net |
+| omni.copaair.com | copaair.com.102.122.2o7.net |
 | metrics.copart.com | copart.com.d1.sc.omtrdc.net |
 | smetrics.copart.com | copart.com.ssl.d1.sc.omtrdc.net |
 | mdws.copperfin.ca | copperfin.ca.102.112.2o7.net |
+| smetrics.corner.ch | corner.ch.ssl.sc.omtrdc.net |
 | smetrics.cornercard.ch | cornercard.ch.ssl.d2.sc.omtrdc.net |
 | mdws.cornerstonecu.com | cornerstonecu.com.102.112.2o7.net |
 | smetrics.cornertrader.ch | cornertrader.ch.ssl.ldc.d3.sc.omtrdc.net |
@@ -4534,6 +4886,7 @@
 | smetrics.countryfinancial.com | countryfinancial.com.ssl.sc.omtrdc.net |
 | smetrics.couponcabin.com | couponcabin.com.ssl.d1.sc.omtrdc.net |
 | metrics.couriermail.com.au | couriermail.com.au.ssl.sc.omtrdc.net |
+| srepdata.courierpress.com | courierpress.com.ssl.sc.omtrdc.net |
 | smetrics.cox.com | cox.com.ssl.sc.omtrdc.net |
 | smetrics.cpaaustralia.com.au | cpaaustralia.com.au.data.adobedc.net |
 | smetrics.cpsenergy.com | cpsenergy.com.102.112.2o7.net |
@@ -4583,7 +4936,9 @@
 | metrics.cvs.com | cvs.com.112.2o7.net |
 | mdws.cwbank.com | cwbank.com.sc.omtrdc.net |
 | smetrics.cytivalifesciences.com | cytivalifesciences.com.ssl.sc.omtrdc.net |
+| saa.dabl.com | dabl.com.ssl.sc.omtrdc.net |
 | www-smt.daiichisankyo-hc.co.jp | daiichisankyo-hc.co.jp.ssl.sc.omtrdc.net |
+| sut.dailyfx.com.hk | dailyfx.com.hk.ssl.sc.omtrdc.net |
 | sut.dailyfx.com | dailyfx.com.ssl.sc.omtrdc.net |
 | metrics.dailytelegraph.com.au | dailytelegraph.com.au.ssl.sc.omtrdc.net |
 | metrics.dairyreporter.com | dairyreporter.com.data.adobedc.net |
@@ -4602,30 +4957,46 @@
 | analytics.hotelclub.com | data.102.112.2o7.net |
 | analytics.surfline.com | data.102.112.2o7.net |
 | meds.saphris.com | data.102.112.2o7.net |
+| metrics.billmelater.com | data.102.112.2o7.net |
 | metrics.damart.fr | data.102.112.2o7.net |
 | metrics.lan.com | data.102.112.2o7.net |
 | scmetrics.exacttarget.com | data.102.112.2o7.net |
 | sdata.avid.com | data.102.112.2o7.net |
 | smetrics.hmhco.com | data.102.112.2o7.net |
-| smetrics.linkshare.com | data.102.112.2o7.net |
-| smetrics.moosejaw.com | data.102.112.2o7.net |
-| smetrics.timberland.com | data.102.112.2o7.net |
+| smetrics.hmhco.com | data.102.112.2o7.net |
+| smetrics.secure.ehc.com | data.102.112.2o7.net |
+| smetrics.volusion.com | data.102.112.2o7.net |
+| smetrics.walmartstores.com | data.102.112.2o7.net |
 | som.hotels.com | data.102.112.2o7.net |
+| ssc.wa.gto.db.com | data.102.112.2o7.net |
 | sstats.cengagebrain.com | data.102.112.2o7.net |
 | sstats.paypal-metrics.com | data.102.112.2o7.net |
-| sstats.tena.us | data.102.112.2o7.net |
+| t-s.perjeta.com | data.102.112.2o7.net |
 | infos.yellow.com.au | data.102.122.2o7.net |
 | metrics.creditreport.com | data.102.122.2o7.net |
 | omnis.skinmedica.com | data.102.122.2o7.net |
 | omniture.dupontregistry.com | data.102.122.2o7.net |
+| omniture.nvidia.com | data.102.122.2o7.net |
+| securemetrics.marthastewart.com | data.102.122.2o7.net |
+| smetrics.ask.com | data.102.122.2o7.net |
 | smetrics.bitdefender.com | data.102.122.2o7.net |
 | smetrics.csi.ca | data.102.122.2o7.net |
+| smetrics.esignal.com | data.102.122.2o7.net |
+| smetrics.intralinks.com | data.102.122.2o7.net |
 | smetrics.oreilly.com | data.102.122.2o7.net |
-| som.floridavacations.com | data.102.122.2o7.net |
-| somniture.yodlee.com | data.102.122.2o7.net |
+| smetrics.paysafecard.com | data.102.122.2o7.net |
+| smetrics.scotts.com | data.102.122.2o7.net |
+| smetrics.seagate.com | data.102.122.2o7.net |
+| som.vrbo.com | data.102.122.2o7.net |
+| t-s.actemra.com | data.102.122.2o7.net |
+| t-s.avastin-hcp.com | data.102.122.2o7.net |
+| t-s.gazyva.com | data.102.122.2o7.net |
+| t-s.lucentis.com | data.102.122.2o7.net |
+| t-s.rituxan.com | data.102.122.2o7.net |
 | analytics.data.lloydsbankinggroup.com | data.lloydsbankinggroup.com.data.adobedc.net |
 | metrics.datafeedtoolbox.com | datafeedtoolbox.com.d1.sc.omtrdc.net |
 | saa.datasheets360.com | datasheets360.com.ssl.sc.omtrdc.net |
+| securedata.dats24.be | dats24.be.data.adobedc.net |
 | aa.db-finanzberatung.de | db-finanzberatung.de.data.adobedc.net |
 | sc.wa.gto.db.com | db.com.112.2o7.net |
 | metrics.dcshoes.com | dcshoes.com.112.2o7.net |
@@ -4640,12 +5011,15 @@
 | nsm.dell.com | dell.com.d1.sc.omtrdc.net |
 | sm.dell.com | dell.com.ssl.d1.sc.omtrdc.net |
 | m.delltechnologies.com | delltechnologies.com.sc.omtrdc.net |
+| sm.delltechnologies.com | delltechnologies.com.ssl.sc.omtrdc.net |
+| stats.deloitte.com | deloitte.com.sc.omtrdc.net |
 | sstats.deloitte.com | deloitte.com.ssl.sc.omtrdc.net |
 | metrics.delta.com | delta.com.sc.omtrdc.net |
 | smetrics.delta.com | delta.com.ssl.sc.omtrdc.net |
 | adtmrs.delti.com | delti.com.ssl.sc.omtrdc.net |
 | sstats.deluxe.com | deluxe.com.102.122.2o7.net |
 | adobedc.demdex.net | demdex.net.ssl.sc.omtrdc.net |
+| ssc.dengiamerika.com | dengiamerika.com.data.adobedc.net |
 | sadobe.dentsu-ho.com | dentsu-ho.com.ssl.sc.omtrdc.net |
 | metrics.depakoteer.com | depakoteer.com.112.2o7.net |
 | metrics.der.com | der.com.ssl.d3.sc.omtrdc.net |
@@ -4655,6 +5029,7 @@
 | smetrics.desparasitaatumascota.es | desparasitaatumascota.es.data.adobedc.net |
 | aa.deutsche-bank.de | deutsche-bank.de.data.adobedc.net |
 | metrics.deutschlandcard.de | deutschlandcard.de.122.2o7.net |
+| stats.deutschlandsim.de | deutschlandsim.de.ssl.sc.omtrdc.net |
 | swa.devolksbank.nl | devolksbank.nl.ssl.sc.omtrdc.net |
 | omnifpcs.devry.edu | devry.edu.ssl.d1.sc.omtrdc.net |
 | metrics.dhc.co.jp | dhc.co.jp.d1.sc.omtrdc.net |
@@ -4700,10 +5075,14 @@
 | sw88.disney.be | disney.be.ssl.sc.omtrdc.net |
 | w88.disney.co.jp | disney.co.jp.sc.omtrdc.net |
 | sw88.disney.co.jp | disney.co.jp.ssl.sc.omtrdc.net |
+| sw88.disney.co.uk | disney.co.uk.ssl.sc.omtrdc.net |
 | sw88.disney.de | disney.de.ssl.sc.omtrdc.net |
 | sw88.disney.es | disney.es.ssl.sc.omtrdc.net |
 | sw88.disney.fr | disney.fr.ssl.sc.omtrdc.net |
+| sw88.disney.gr | disney.gr.ssl.sc.omtrdc.net |
+| sw88.disney.it | disney.it.ssl.sc.omtrdc.net |
 | sw88.disney.nl | disney.nl.ssl.sc.omtrdc.net |
+| sw88.disney.no | disney.no.ssl.sc.omtrdc.net |
 | sw88.disney.pt | disney.pt.ssl.sc.omtrdc.net |
 | sw88.disney.ru | disney.ru.ssl.sc.omtrdc.net |
 | smetrics.disneychannel.ca | disneychannel.ca.data.adobedc.net |
@@ -4712,6 +5091,7 @@
 | sw88.disneyme.com | disneyme.com.ssl.sc.omtrdc.net |
 | sw88.disneynow.com | disneynow.com.ssl.sc.omtrdc.net |
 | sanalytics.disneyplus.com | disneyplus.com.ssl.sc.omtrdc.net |
+| sw88.disneyrewards.com | disneyrewards.com.ssl.sc.omtrdc.net |
 | sw88.disneytickets.co.uk | disneytickets.co.uk.data.adobedc.net |
 | sw88.disneyturkiye.com.tr | disneyturkiye.com.tr.ssl.sc.omtrdc.net |
 | metrics.diy.com | diy.com.122.2o7.net |
@@ -4766,6 +5146,7 @@
 | aa.dyson.at | dyson.at.sc.omtrdc.net |
 | saa.dyson.at | dyson.at.ssl.sc.omtrdc.net |
 | aa.dyson.be | dyson.be.sc.omtrdc.net |
+| saa.dyson.be | dyson.be.ssl.sc.omtrdc.net |
 | aa.dyson.ch | dyson.ch.sc.omtrdc.net |
 | saa.dyson.ch | dyson.ch.ssl.sc.omtrdc.net |
 | aa.dyson.co.uk | dyson.co.uk.sc.omtrdc.net |
@@ -4781,16 +5162,19 @@
 | aa.dyson.fr | dyson.fr.sc.omtrdc.net |
 | saa.dyson.fr | dyson.fr.ssl.sc.omtrdc.net |
 | aa.dyson.ie | dyson.ie.sc.omtrdc.net |
+| saa.dyson.ie | dyson.ie.ssl.sc.omtrdc.net |
 | aa.dyson.it | dyson.it.sc.omtrdc.net |
 | saa.dyson.it | dyson.it.ssl.sc.omtrdc.net |
 | aa.dyson.nl | dyson.nl.sc.omtrdc.net |
 | saa.dyson.nl | dyson.nl.ssl.sc.omtrdc.net |
 | sa.dyson.no | dyson.no.sc.omtrdc.net |
 | aa.dyson.pt | dyson.pt.sc.omtrdc.net |
+| saa.dyson.pt | dyson.pt.ssl.sc.omtrdc.net |
 | aa.dyson.se | dyson.se.sc.omtrdc.net |
 | saa.dyson.se | dyson.se.ssl.sc.omtrdc.net |
 | aa.dysoncanada.ca | dysoncanada.ca.sc.omtrdc.net |
 | saa.dysoncanada.ca | dysoncanada.ca.ssl.sc.omtrdc.net |
+| smetrics.e-casio.com.tw | e-casio.com.tw.ssl.sc.omtrdc.net |
 | smetric.e-nichii.net | e-nichii.net.ssl.sc.omtrdc.net |
 | sadbmetrics.e-volucion.es | e-volucion.es.ssl.sc.omtrdc.net |
 | smetrics.e-wie-einfach.de | e-wie-einfach.de.ssl.sc.omtrdc.net |
@@ -4798,6 +5182,7 @@
 | adobeanalytics.easi.com | easi.com.ssl.sc.omtrdc.net |
 | sanl.eastbay.com | eastbay.com.ssl.sc.omtrdc.net |
 | mdws.eastcoastcu.ca | eastcoastcu.ca.102.112.2o7.net |
+| metrics.eastdane.com | eastdane.com.sc.omtrdc.net |
 | smetrics.eastdane.com | eastdane.com.ssl.sc.omtrdc.net |
 | mdws.easternedgecu.com | easternedgecu.com.102.112.2o7.net |
 | smetrics.eastwestbank.com | eastwestbank.com.data.adobedc.net |
@@ -4805,6 +5190,7 @@
 | mdws.eccu.ca | eccu.ca.102.112.2o7.net |
 | sadbmetrics.ecomov.es | ecomov.es.ssl.sc.omtrdc.net |
 | sstats.economist.com | economist.com.102.122.2o7.net |
+| stats.economist.com | economist.com.122.2o7.net |
 | smetrics.edb.gov.sg | edb.gov.sg.data.adobedc.net |
 | smetrics.eddiebauer.com | eddiebauer.com.ssl.sc.omtrdc.net |
 | metric.eddiev.com | eddiev.com.sc.omtrdc.net |
@@ -4838,6 +5224,7 @@
 | metrics.egencia.no | egencia.no.data.adobedc.net |
 | metrics.egencia.pl | egencia.pl.data.adobedc.net |
 | metrics.egencia.se | egencia.se.data.adobedc.net |
+| smetrics.secure.ehc.com | ehc.com.102.112.2o7.net |
 | metrics.ehealthinsurance.com | ehealthinsurance.com.d1.sc.omtrdc.net |
 | smetrics.ehealthinsurance.com | ehealthinsurance.com.ssl.d1.sc.omtrdc.net |
 | metrics.ehstoday.com | ehstoday.com.sc.omtrdc.net |
@@ -4855,6 +5242,7 @@
 | adbmetrics.elcorreo.com | elcorreo.com.sc.omtrdc.net |
 | sadbmetrics.elcorreo.com | elcorreo.com.ssl.sc.omtrdc.net |
 | sadbmetrics.eldiariomontanes.es | eldiariomontanes.es.ssl.sc.omtrdc.net |
+| sanalytics.eleague.com | eleague.com.ssl.sc.omtrdc.net |
 | analytics.eleague.com | eleague.sc.omtrdc.net |
 | metrics.element14.com | element14.com.sc.omtrdc.net |
 | smetrics.element14.com | element14.com.ssl.sc.omtrdc.net |
@@ -4880,6 +5268,7 @@
 | data.email-mobiledx.cjm.adobe.com | email-mobiledx.cjm.adobe.com.data.adobedc.net |
 | data.email-signify.cjm.adobe.com | email-signify.cjm.adobe.com.data.adobedc.net |
 | data.email-tsb.cjm.adobe.com | email-tsb.cjm.adobe.com.data.adobedc.net |
+| site.emarketer.com | emarketer.com.ssl.d1.sc.omtrdc.net |
 | ecn-analytics.emc.com | emc.com.ssl.d2.sc.omtrdc.net |
 | ecn-analytics-nssl.emc.com | emc.comd2.sc.omtrdc.net |
 | metrics.emicizumabinfo.com | emicizumabinfo.com.data.adobedc.net |
@@ -4912,17 +5301,21 @@
 | adbsmetrics.ep.hmc.co.kr | ep.hmc.co.kr.data.adobedc.net |
 | sstats.epicurious.com | epicurious.com.ssl.sc.omtrdc.net |
 | smetrics.eprice.it | eprice.it.102.122.2o7.net |
+| wa.epson.com | epson.com.112.2o7.net |
 | sfeedback.equabank.cz | equabank.cz.ssl.sc.omtrdc.net |
 | awap.equifax.com | equifax.com.sc.omtrdc.net |
 | sawap.equifax.com | equifax.com.ssl.sc.omtrdc.net |
 | somnit.equinox.com | equinox.com.ssl.sc.omtrdc.net |
 | metrics.equipmentwatch.com | equipmentwatch.com.sc.omtrdc.net |
 | smetrics.equitable.com | equitable.com.ssl.sc.omtrdc.net |
+| t.erivedge.com | erivedge.com.122.2o7.net |
 | metrics.erivedge.com | erivedge.com.sc.omtrdc.net |
 | smetrics.ernestjones.co.uk | ernestjones.co.uk.ssl.sc.omtrdc.net |
 | aa.erwinmueller.com | erwinmueller.com.ssl.sc.omtrdc.net |
 | metrics.esbriet.com | esbriet.com.sc.omtrdc.net |
+| smetrics.esbriet.com | esbriet.com.ssl.sc.omtrdc.net |
 | metrics.esbriethcp.com | esbriethcp.com.sc.omtrdc.net |
+| smetrics.esbriethcp.com | esbriethcp.com.ssl.sc.omtrdc.net |
 | metrics.escape.com.au | escape.com.au.ssl.sc.omtrdc.net |
 | sitecat.eset.com | eset.com.sc.omtrdc.net |
 | ssitecat.eset.com | eset.com.ssl.sc.omtrdc.net |
@@ -4959,6 +5352,7 @@
 | smetrics.etihadcargo.com | etihadcargo.com.data.adobedc.net |
 | saa.etonline.com | etonline.com.ssl.sc.omtrdc.net |
 | metrics.eu.playstation.com | eu.playstation.com.d1.sc.omtrdc.net |
+| smetrics.eu.playstation.com | eu.playstation.com.ssl.d1.sc.omtrdc.net |
 | metrics.eurobet.it | eurobet.it.d3.sc.omtrdc.net |
 | smetrics.eurobet.it | eurobet.it.ssl.d3.sc.omtrdc.net |
 | smetrics.eurocard.com | eurocard.com.ssl.sc.omtrdc.net |
@@ -4967,6 +5361,7 @@
 | ssa.eurosport.bg | eurosport.bg.data.adobedc.net |
 | ssa.eurosport.co.uk | eurosport.co.uk.data.adobedc.net |
 | ssa.eurosport.com | eurosport.com.data.adobedc.net |
+| sa.eurosport.com | eurosport.com.sc.omtrdc.net |
 | ssa.eurosport.cz | eurosport.cz.data.adobedc.net |
 | ssa.eurosport.de | eurosport.de.data.adobedc.net |
 | ssa.eurosport.dk | eurosport.dk.data.adobedc.net |
@@ -5008,6 +5403,7 @@
 | smetrics.extranetperu.grupobbva.pe | extranetperu.grupobbva.pe.ssl.sc.omtrdc.net |
 | smetrics.ey.com | ey.com.ssl.sc.omtrdc.net |
 | metrics.faceipf.com | faceipf.com.sc.omtrdc.net |
+| smetrics.faceipf.com | faceipf.com.ssl.sc.omtrdc.net |
 | oms.factiva.com | factiva.com.ssl.sc.omtrdc.net |
 | st.fahrkartenshop2-bahn.de | fahrkartenshop2-bahn.de.data.adobedc.net |
 | sstats.fairmont.com | fairmont.com.ssl.d1.sc.omtrdc.net |
@@ -5033,6 +5429,7 @@
 | smetrics.farnell.com | farnell.com.ssl.sc.omtrdc.net |
 | metric.fatcatalog.com | fatcatalog.com.112.2o7.net |
 | smetrics.fatface.com | fatface.com.ssl.sc.omtrdc.net |
+| sstats.faucet.com | faucet.com.ssl.d1.sc.omtrdc.net |
 | somniture.faucetdirect.com | faucetdirect.com.ssl.d1.sc.omtrdc.net |
 | smetrics.faz.net | faz.net.ssl.sc.omtrdc.net |
 | metrics.fcacert.com | fcacert.com.d3.sc.omtrdc.net |
@@ -5076,6 +5473,7 @@
 | ametrics.finn.no | finn.no.sc.omtrdc.net |
 | smetrics.finn.no | finn.no.ssl.d1.sc.omtrdc.net |
 | sametrics.finn.no | finn.no.ssl.sc.omtrdc.net |
+| smetrics.finning.com | finning.com.ssl.sc.omtrdc.net |
 | sstats.fintro.be | fintro.be.ssl.sc.omtrdc.net |
 | smetrics.fireballwhisky.com | fireballwhisky.com.ssl.sc.omtrdc.net |
 | hub.firestonecompleteautocare.com | firestonecompleteautocare.com.ssl.d1.sc.omtrdc.net |
@@ -5088,6 +5486,7 @@
 | sstats.fishersci.com | fishersci.com.ssl.d1.sc.omtrdc.net |
 | sstats.fishersci.de | fishersci.de.ssl.sc.omtrdc.net |
 | sstats.fishersci.es | fishersci.es.ssl.sc.omtrdc.net |
+| sstats.fishersci.fr | fishersci.fr.ssl.sc.omtrdc.net |
 | sstats.fishersci.se | fishersci.se.ssl.sc.omtrdc.net |
 | as.fitbook.de | fitbook.de.ssl.sc.omtrdc.net |
 | smetrics.fivestarpainting.com | fivestarpainting.com.data.adobedc.net |
@@ -5131,6 +5530,7 @@
 | sanl.footlocker.es | footlocker.es.ssl.sc.omtrdc.net |
 | sanl.footlocker.fr | footlocker.fr.data.adobedc.net |
 | sanl.footlocker.gr | footlocker.gr.ssl.sc.omtrdc.net |
+| sanl.footlocker.hu | footlocker.hu.ssl.sc.omtrdc.net |
 | sanl.footlocker.ie | footlocker.ie.ssl.sc.omtrdc.net |
 | sanl.footlocker.it | footlocker.it.ssl.sc.omtrdc.net |
 | sanl.footlocker.lu | footlocker.lu.ssl.sc.omtrdc.net |
@@ -5139,6 +5539,7 @@
 | sanl.footlocker.pl | footlocker.pl.ssl.sc.omtrdc.net |
 | sanl.footlocker.pt | footlocker.pt.ssl.sc.omtrdc.net |
 | sanl.footlocker.se | footlocker.se.ssl.sc.omtrdc.net |
+| sc-forbes.forbes.com | forbescom.112.2o7.net |
 | analyticsssl.forcepoint.com | forcepoint.com.ssl.sc.omtrdc.net |
 | smetrics.ford.ca | ford.ca.ssl.sc.omtrdc.net |
 | metrics.ford.com | ford.com.sc.omtrdc.net |
@@ -5161,6 +5562,7 @@
 | b.foxsports.com | foxsports.com.ssl.d2.sc.omtrdc.net |
 | metrics.fpl.com | fpl.com.sc.omtrdc.net |
 | smetrics.fpl.com | fpl.com.ssl.sc.omtrdc.net |
+| samc.frankly.ch | frankly.ch.data.adobedc.net |
 | stats.free-prepaid.de | free-prepaid.de.ssl.sc.omtrdc.net |
 | metrics.freecreditreport.com | freecreditreport.com.ssl.sc.omtrdc.net |
 | smetrics.freedomfordsales.ca | freedomfordsales.ca.ssl.sc.omtrdc.net |
@@ -5175,10 +5577,13 @@
 | smetrics.frontier.com | frontier.com.ssl.d2.sc.omtrdc.net |
 | metrics.frontline.com | frontline.com.sc.omtrdc.net |
 | smetrics.frontline.com | frontline.com.ssl.sc.omtrdc.net |
+| smetrics.frontline.de | frontline.de.data.adobedc.net |
 | smetrics.frontline.ru | frontline.ru.data.adobedc.net |
 | smetrics.frontlinecanegatto.it | frontlinecanegatto.it.data.adobedc.net |
+| smetrics.frontlinecombo.bg | frontlinecombo.bg.data.adobedc.net |
 | mdws.frontlinecu.com | frontlinecu.com.102.112.2o7.net |
 | smetrics.frontlinemascotas.es | frontlinemascotas.es.data.adobedc.net |
+| smetrics.frontlineplus.com.tw | frontlineplus.com.tw.data.adobedc.net |
 | med.frx.com | frx.com.112.2o7.net |
 | smetrics.ftd.ca | ftd.ca.102.122.2o7.net |
 | metrics.ftd.ca | ftd.ca.122.2o7.net |
@@ -5187,6 +5592,7 @@
 | analytics.futuro360.com | futuro360.com.sc.omtrdc.net |
 | sanalytics.futuro360.com | futuro360.com.ssl.sc.omtrdc.net |
 | metrics.fuzeon.com | fuzeon.com.sc.omtrdc.net |
+| smetrics.fuzeon.com | fuzeon.com.ssl.sc.omtrdc.net |
 | stat-ssl.fx-rashinban.com | fx-rashinban.com.ssl.sc.omtrdc.net |
 | sw88.fxnetworks.com | fxnetworks.com.ssl.sc.omtrdc.net |
 | oms.fxnowcanada.ca | fxnowcanada.ca.ssl.sc.omtrdc.net |
@@ -5212,12 +5618,14 @@
 | securemetrics.gapfactory.com | gapfactory.com.ssl.sc.omtrdc.net |
 | webstats.garanti.com.tr | garanti.com.tr.ssl.sc.omtrdc.net |
 | smetrics.gatesnotes.com | gatesnotes.com.ssl.sc.omtrdc.net |
+| t-s.gazyva.com | gazyva.com.102.122.2o7.net |
 | metrics.gazyva.com | gazyva.com.sc.omtrdc.net |
 | mdws.gbccu.ca | gbccu.ca.ssl.sc.omtrdc.net |
 | metrics.gcimetrics.com | gcimetrics.com.d1.sc.omtrdc.net |
 | smetrics.gcimetrics.com | gcimetrics.com.ssl.d1.sc.omtrdc.net |
 | smetric.gconlineplus.de | gconlineplus.de.data.adobedc.net |
 | lewis.gct.com | gct.com.ssl.d1.sc.omtrdc.net |
+| nsmetrics.geelongadvertiser.com.au | geelongadvertiser.com.au.sc.omtrdc.net |
 | metrics.geelongadvertiser.com.au | geelongadvertiser.com.au.ssl.sc.omtrdc.net |
 | metrics.gehealthcare.com | gehealthcare.com.sc.omtrdc.net |
 | smetrics.gehealthcare.com | gehealthcare.com.ssl.sc.omtrdc.net |
@@ -5226,6 +5634,8 @@
 | med.gelnique.com | gelnique.com.112.2o7.net |
 | smetrics.gemfinance.co.nz | gemfinance.co.nz.ssl.sc.omtrdc.net |
 | smetrics.gemvisa.com.au | gemvisa.com.au.ssl.sc.omtrdc.net |
+| t.gene.com | gene.com.122.2o7.net |
+| t.genentech-access.com | genentech-access.com.122.2o7.net |
 | metrics.genentech-access.com | genentech-access.com.sc.omtrdc.net |
 | metrics.genentech-forum.com | genentech-forum.com.sc.omtrdc.net |
 | metrics.genentech-pro.com | genentech-pro.com.data.adobedc.net |
@@ -5286,6 +5696,7 @@
 | sadbmetrics.granadablogs.com | granadablogs.com.ssl.sc.omtrdc.net |
 | smetrics.grandandtoy.com | grandandtoy.com.102.112.2o7.net |
 | sslsa.greatamericancountry.com | greatamericancountry.com.ssl.sc.omtrdc.net |
+| smetrics.greatland.com | greatland.com.102.122.2o7.net |
 | smetrics.greatsouthernbank.com.au | greatsouthernbank.com.au.data.adobedc.net |
 | smetrics.greendot.com | greendot.com.102.112.2o7.net |
 | smetrics.greenflag.com | greenflag.com.ssl.sc.omtrdc.net |
@@ -5316,11 +5727,13 @@
 | smetrics.ha.com | ha.com.102.122.2o7.net |
 | smetrics.haband.com | haband.com.ssl.sc.omtrdc.net |
 | sadbmetrics.habitatsoft.com | habitatsoft.com.ssl.sc.omtrdc.net |
+| smetrics.hagerty.co.uk | hagerty.co.uk.ssl.sc.omtrdc.net |
 | secu.hagerty.com | hagerty.com.ssl.sc.omtrdc.net |
 | oms.halifaxtoday.ca | halifaxtoday.ca.ssl.sc.omtrdc.net |
 | sanalytics.hallmark.com | hallmark.com.ssl.sc.omtrdc.net |
 | osimg.halloweenhorrornights.com | halloweenhorrornights.com.data.adobedc.net |
 | s.hamiltonnews.com | hamiltonnews.com.data.adobedc.net |
+| somniture.handlesets.com | handlesets.com.ssl.d1.sc.omtrdc.net |
 | aa-metrics.handy.airregi.jp | handy.airregi.jp.ssl.sc.omtrdc.net |
 | stats.handyvertrag.de | handyvertrag.de.ssl.sc.omtrdc.net |
 | smetrics.happyfamilyorganics.com | happyfamilyorganics.com.ssl.sc.omtrdc.net |
@@ -5376,6 +5789,7 @@
 | collect.helsana.ch | helsana.ch.data.adobedc.net |
 | smetrics.helvetia.com | helvetia.com.ssl.d3.sc.omtrdc.net |
 | metrics.hemlibra.com | hemlibra.com.data.adobedc.net |
+| smetrics.hemlibra.com | hemlibra.com.data.adobedc.net |
 | smetrics.henkivakuutuskuntoon.fi | henkivakuutuskuntoon.fi.ssl.sc.omtrdc.net |
 | metrics.her2treatment.com | her2treatment.com.sc.omtrdc.net |
 | smetrics.her2treatment.com | her2treatment.com.ssl.sc.omtrdc.net |
@@ -5420,6 +5834,7 @@
 | om.homeaway.com | homeaway.com.122.2o7.net |
 | swasc.homedepot.ca | homedepot.ca.ssl.d2.sc.omtrdc.net |
 | swasc.homedepot.com | homedepot.com.ssl.d2.sc.omtrdc.net |
+| smetrics.homegoods.com | homegoods.com.data.adobedc.net |
 | metrics.homes.com | homes.com.sc.omtrdc.net |
 | smetrics.homes.com | homes.com.ssl.sc.omtrdc.net |
 | smetrics.homestatehealth.com | homestatehealth.com.ssl.sc.omtrdc.net |
@@ -5472,6 +5887,7 @@
 | statss.ia.ca | ia.ca.ssl.sc.omtrdc.net |
 | metric.iccu.com | iccu.com.sc.omtrdc.net |
 | smetrics.ice.gov | ice.gov.ssl.sc.omtrdc.net |
+| st.iceportal.de | iceportal.de.data.adobedc.net |
 | somni.icicihfc.com | icicihfc.com.ssl.sc.omtrdc.net |
 | metrics.iconfitness.com | iconfitness.com.d1.sc.omtrdc.net |
 | smetrics.iconfitness.com | iconfitness.com.ssl.d1.sc.omtrdc.net |
@@ -5557,6 +5973,7 @@
 | smetrics.internationalchampionscup.com | internationalchampionscup.com.ssl.sc.omtrdc.net |
 | smetrics.internetbanka.cz | internetbanka.cz.ssl.sc.omtrdc.net |
 | smetrics.intervalworld.com | intervalworld.com.102.122.2o7.net |
+| smetrics.intralinks.com | intralinks.com.102.122.2o7.net |
 | metrics.intralinks.com | intralinks.com.122.2o7.net |
 | sci.intuit.ca | intuit.ca.102.122.2o7.net |
 | sci.intuit.com | intuit.com.ssl.sc.omtrdc.net |
@@ -5572,6 +5989,7 @@
 | metrics.ionos.fr | ionos.fr.ssl.sc.omtrdc.net |
 | metrics.ionos.it | ionos.it.ssl.sc.omtrdc.net |
 | metrics.ionos.mx | ionos.mx.ssl.sc.omtrdc.net |
+| smetrics.iowatotalcare.com | iowatotalcare.com.ssl.sc.omtrdc.net |
 | smetrics.ipb.citibank.com.sg | ipb.citibank.com.sg.ssl.sc.omtrdc.net |
 | smetrics.iprimo.jp | iprimo.jp.ssl.sc.omtrdc.net |
 | smetrics.irishjobs.ie | irishjobs.ie.ssl.sc.omtrdc.net |
@@ -5588,6 +6006,7 @@
 | sac.japannetbank.co.jp | japannetbank.co.jp.ssl.sc.omtrdc.net |
 | smetrics.jardiance.com | jardiance.com.data.adobedc.net |
 | smetrics.jardiance.in | jardiance.in.data.adobedc.net |
+| smetrics.jared.com | jared.com.ssl.sc.omtrdc.net |
 | sjremetrics.java.com | java.com.ssl.d1.sc.omtrdc.net |
 | smetrics.jcb.co.jp | jcb.co.jp.ssl.sc.omtrdc.net |
 | smetrics.jcpenney.com | jcpenney.com.ssl.sc.omtrdc.net |
@@ -5630,6 +6049,7 @@
 | metrics.juiceplus.com | juiceplus.com.sc.omtrdc.net |
 | smetrics.juiceplus.com | juiceplus.com.ssl.sc.omtrdc.net |
 | i.justblinds.com | justblinds.com.sc.omtrdc.net |
+| sstats.juttu.be | juttu.be.ssl.sc.omtrdc.net |
 | stat-ssl.kaago.com | kaago.com.102.112.2o7.net |
 | smetrics.kaercher.com | kaercher.com.ssl.ldc.d3.sc.omtrdc.net |
 | smetrics.kaiserpermanente.org | kaiserpermanente.org.ssl.sc.omtrdc.net |
@@ -5647,6 +6067,7 @@
 | tr2.kaspersky.co.uk | kaspersky.co.uk.ssl.sc.omtrdc.net |
 | tr1.kaspersky.com | kaspersky.com.d2.sc.omtrdc.net |
 | tr2.kaspersky.com | kaspersky.com.ssl.d2.sc.omtrdc.net |
+| smetrics.katzen-vorsorge-check.de | katzen-vorsorge-check.de.data.adobedc.net |
 | swasc.kaufland.bg | kaufland.bg.ssl.sc.omtrdc.net |
 | swasc.kaufland.com | kaufland.com.ssl.sc.omtrdc.net |
 | swasc.kaufland.cz | kaufland.cz.ssl.sc.omtrdc.net |
@@ -5690,14 +6111,18 @@
 | metrics.kirklands.com | kirklands.com.ssl.d1.sc.omtrdc.net |
 | oms.kitchenertoday.com | kitchenertoday.com.ssl.sc.omtrdc.net |
 | som.kmart.com | kmart.com.ssl.d1.sc.omtrdc.net |
+| smetrics.knowpneumonia.com | knowpneumonia.com.ssl.sc.omtrdc.net |
 | metrics.knowyourhdl.com | knowyourhdl.com.112.2o7.net |
 | metrics.knowyourtrigs.com | knowyourtrigs.com.112.2o7.net |
 | kohlermetricssecure.kohler.com | kohler.com.102.122.2o7.net |
 | kohlermetrics.kohler.com | kohleruscom.122.2o7.net |
+| ww9.kohls.com | kohls.com.sc.omtrdc.net |
 | ww8.kohls.com | kohls.com.ssl.sc.omtrdc.net |
 | metrics.kone-major-projects.com | kone-major-projects.com.d2.sc.omtrdc.net |
+| smetrics.kone-marine.com | kone-marine.com.ssl.sc.omtrdc.net |
 | metrics.kone.ae | kone.ae.d2.sc.omtrdc.net |
 | smetrics.kone.ae | kone.ae.ssl.sc.omtrdc.net |
+| metrics.kone.bi | kone.bi.d2.sc.omtrdc.net |
 | smetrics.kone.bi | kone.bi.ssl.sc.omtrdc.net |
 | metrics.kone.ch | kone.ch.d2.sc.omtrdc.net |
 | metrics.kone.co.il | kone.co.il.sc.omtrdc.net |
@@ -5706,9 +6131,11 @@
 | metrics.kone.co.uk | kone.co.uk.d2.sc.omtrdc.net |
 | metrics.kone.com | kone.com.d2.sc.omtrdc.net |
 | smetrics.kone.com | kone.com.ssl.sc.omtrdc.net |
+| smetrics.kone.com.tr | kone.com.tr.ssl.sc.omtrdc.net |
 | metrics.kone.cz | kone.cz.d2.sc.omtrdc.net |
 | smetrics.kone.cz | kone.cz.ssl.sc.omtrdc.net |
 | metrics.kone.dk | kone.dk.d2.sc.omtrdc.net |
+| smetrics.kone.hr | kone.hr.ssl.sc.omtrdc.net |
 | metrics.kone.ie | kone.ie.d2.sc.omtrdc.net |
 | smetrics.kone.ie | kone.ie.ssl.sc.omtrdc.net |
 | smetrics.kone.in | kone.in.ssl.sc.omtrdc.net |
@@ -5717,11 +6144,13 @@
 | metrics.kone.lv | kone.lv.d2.sc.omtrdc.net |
 | smetrics.kone.lv | kone.lv.ssl.sc.omtrdc.net |
 | metrics.kone.me | kone.me.d2.sc.omtrdc.net |
+| smetrics.kone.me | kone.me.ssl.sc.omtrdc.net |
 | metrics.kone.mx | kone.mx.d2.sc.omtrdc.net |
 | smetrics.kone.my | kone.my.ssl.sc.omtrdc.net |
 | metrics.kone.ru | kone.ru.d2.sc.omtrdc.net |
 | smetrics.kone.ru | kone.ru.ssl.sc.omtrdc.net |
 | metrics.kone.sg | kone.sg.d2.sc.omtrdc.net |
+| metrics.kone.ug | kone.ug.d2.sc.omtrdc.net |
 | smetrics.kone.ug | kone.ug.ssl.sc.omtrdc.net |
 | b.koodomobile.com | koodomobile.com.ssl.sc.omtrdc.net |
 | adbsmetrics.koreanair.com | koreanair.com.data.adobedc.net |
@@ -5757,6 +6186,7 @@
 | smetrics.lambweston.com | lambweston.com.ssl.sc.omtrdc.net |
 | metrics.landolakes.com | landolakes.com.sc.omtrdc.net |
 | smetrics.landolakes.com | landolakes.com.ssl.sc.omtrdc.net |
+| smetrics.landolakesfoodservice.com | landolakesfoodservice.com.ssl.sc.omtrdc.net |
 | smetrics.landolakesinc.com | landolakesinc.com.ssl.sc.omtrdc.net |
 | smetrics.landrover.com.au | landrover.com.au.data.adobedc.net |
 | smetrics.landrover.com | landrover.com.data.adobedc.net |
@@ -5803,8 +6233,10 @@
 | metrics.lexus.com | lexus.com.d1.sc.omtrdc.net |
 | smetrics.lexus.com | lexus.com.ssl.d1.sc.omtrdc.net |
 | s.lexusfinancial.com | lexusfinancial.com.ssl.sc.omtrdc.net |
+| smetrics.lexusonthepark.ca | lexusonthepark.ca.data.adobedc.net |
 | omniture.lg.com | lg.com.d2.sc.omtrdc.net |
 | tracking.lg.com | lge.com.ssl.d2.sc.omtrdc.net |
+| sstats.liander.nl | liander.nl.102.122.2o7.net |
 | smetrics.libertymutual.com | libertymutual.com.ssl.d1.sc.omtrdc.net |
 | smetrics.lidea.today | lidea.today.ssl.sc.omtrdc.net |
 | scs.lifenet-seimei.co.jp | lifenet-seimei.co.jp.102.112.2o7.net |
@@ -5840,7 +6272,10 @@
 | metrics.lowes.com | lowes.d2.sc.omtrdc.net |
 | smetrics.lpl.com | lpl.com.ssl.sc.omtrdc.net |
 | smetrics.ltdcommodities.com | ltdcommodities.com.ssl.d2.sc.omtrdc.net |
+| t-s.lucentis.com | lucentis.com.102.122.2o7.net |
+| t.lucentis.com | lucentis.com.122.2o7.net |
 | metrics.lucentis.com | lucentis.com.sc.omtrdc.net |
+| smetrics.lucentis.com | lucentis.com.ssl.sc.omtrdc.net |
 | metrics.lululemon.ch | lululemon.ch.sc.omtrdc.net |
 | smetrics.lululemon.ch | lululemon.ch.ssl.sc.omtrdc.net |
 | smetrics.lululemon.co.jp | lululemon.co.jp.ssl.sc.omtrdc.net |
@@ -5885,6 +6320,7 @@
 | smetrics.marcus.com | marcus.com.ssl.sc.omtrdc.net |
 | smetrics.maritimeintelligence.informa.com | maritimeintelligence.informa.com.ssl.sc.omtrdc.net |
 | smetrics.markandgraham.com | markandgraham.com.ssl.d1.sc.omtrdc.net |
+| smetric.markenschuhe.de | markenschuhe.de.data.adobedc.net |
 | smetrics.marketfor.com | marketfor.com.data.adobedc.net |
 | oms.marketwatch.com | marketwatch.com.ssl.sc.omtrdc.net |
 | metrics.marksandspencer.com | marksandspencer.com.d3.sc.omtrdc.net |
@@ -5894,6 +6330,7 @@
 | smetrics.marriottvacationclub.com | marriottvacationclub.com.data.adobedc.net |
 | smetrics.marshalls.com | marshalls.com.ssl.sc.omtrdc.net |
 | smetrics.marshandmclennan.com | marshandmclennan.com.ssl.sc.omtrdc.net |
+| securemetrics.marthastewart.com | marthastewart.com.102.122.2o7.net |
 | metric.marthastewart.com | marthastewart.com.122.2o7.net |
 | adobes.marugame-seimen.com | marugame-seimen.com.ssl.sc.omtrdc.net |
 | sw88.marvel.com.ru | marvel.com.ru.ssl.sc.omtrdc.net |
@@ -5923,6 +6360,7 @@
 | metrics.maxizoo.it | maxizoo.it.data.adobedc.net |
 | metrics.maxizoo.pl | maxizoo.pl.ssl.sc.omtrdc.net |
 | saa.maxpreps.com | maxpreps.com.ssl.sc.omtrdc.net |
+| smetrics.maxxia.com.au | maxxia.com.au.ssl.sc.omtrdc.net |
 | stats.maxxim.de | maxxim.de.ssl.sc.omtrdc.net |
 | st.mazdausa.com | mazdausa.com.ssl.sc.omtrdc.net |
 | smetrics.mazuri.com | mazuri.com.ssl.sc.omtrdc.net |
@@ -5931,6 +6369,7 @@
 | smetrics.mcafee.com | mcafee.com.ssl.d2.sc.omtrdc.net |
 | metrics.mcdonalds.com | mcdonalds.com.sc.omtrdc.net |
 | smetrics.mcdonalds.com | mcdonalds.com.ssl.sc.omtrdc.net |
+| smetrics.mcdpromotion.ca | mcdpromotion.ca.data.adobedc.net |
 | aas.mclaren.com | mclaren.com.data.adobedc.net |
 | aa.mclaren.com | mclaren.com.sc.omtrdc.net |
 | stats-ssl.mdanderson.org | mdanderson.org.ssl.d2.sc.omtrdc.net |
@@ -5986,6 +6425,7 @@
 | adbmetrics.miperiodicodigital.com | miperiodicodigital.com.sc.omtrdc.net |
 | sadbmetrics.miperiodicodigital.com | miperiodicodigital.com.ssl.sc.omtrdc.net |
 | smetrics.mirkota.ru | mirkota.ru.data.adobedc.net |
+| smetrics.misrp.com | misrp.com.data.adobedc.net |
 | s.mississauga.com | mississauga.com.data.adobedc.net |
 | smetrics.mistore.jp | mistore.jp.ssl.sc.omtrdc.net |
 | smetrics.misumi-ec.com | misumi-ec.com.ssl.d2.sc.omtrdc.net |
@@ -6002,10 +6442,13 @@
 | smetrics.mollymaid.com | mollymaid.com.data.adobedc.net |
 | swa.monabanq.com | monabanq.com.ssl.ldc.d3.sc.omtrdc.net |
 | analytics.mondotv.jp | mondotv.jp.sc.omtrdc.net |
+| sanalytics.mondotv.jp | mondotv.jp.ssl.sc.omtrdc.net |
 | smetrics.moneta.cz | moneta.cz.ssl.sc.omtrdc.net |
 | stat-ssl.money-viva.jp | money-viva.jp.ssl.sc.omtrdc.net |
+| omniture.money.asda.com | money.asda.com.d2.sc.omtrdc.net |
 | smetrics.monsanto.com | monsanto.com.ssl.sc.omtrdc.net |
 | srepdata.montgomeryadvertiser.com | montgomeryadvertiser.com.ssl.d1.sc.omtrdc.net |
+| metrics.moodys.com | moodys.com.sc.omtrdc.net |
 | smetrics.moodys.com | moodys.com.ssl.sc.omtrdc.net |
 | smetrics.moony.com | moony.com.ssl.sc.omtrdc.net |
 | smetrics.moosejaw.com | moosejaw.com.102.112.2o7.net |
@@ -6021,12 +6464,16 @@
 | smetrics.motorsportreg.com | motorsportreg.com.ssl.sc.omtrdc.net |
 | smetrics.motortrend.com | motortrend.com.ssl.sc.omtrdc.net |
 | sstats.motosport.com | motosport.com.ssl.sc.omtrdc.net |
+| metrics.mouse-jp.co.jp | mouse-jp.co.jp.sc.omtrdc.net |
 | smetrics.mouse-jp.co.jp | mouse-jp.co.jp.ssl.sc.omtrdc.net |
+| smetric.movement.com | movement.com.ssl.sc.omtrdc.net |
 | smetrics.moving.com | moving.com.ssl.sc.omtrdc.net |
 | smetrics.mrappliance.ca | mrappliance.ca.data.adobedc.net |
 | smetrics.mrappliance.com | mrappliance.com.data.adobedc.net |
 | smetrics.mrelectric.com | mrelectric.com.data.adobedc.net |
+| smetrics.mrhandyman.com | mrhandyman.com.data.adobedc.net |
 | smetrics.mrporter.com | mrporter.com.ssl.d3.sc.omtrdc.net |
+| smetrics.mrrooter.ca | mrrooter.ca.data.adobedc.net |
 | smetrics.mrrooter.com | mrrooter.com.ssl.sc.omtrdc.net |
 | smetrics.msg.com | msg.com.ssl.sc.omtrdc.net |
 | aamt.msnbc.com | msnbc.com.ssl.sc.omtrdc.net |
@@ -6051,6 +6498,7 @@
 | s.muskokaregion.com | muskokaregion.com.data.adobedc.net |
 | smetrics.mutua.es | mutua.es.data.adobedc.net |
 | smetrics.mutuactivos.com | mutuactivos.com.data.adobedc.net |
+| metrics.mycareforward.com | mycareforward.com.sc.omtrdc.net |
 | as.myhomebook.de | myhomebook.de.ssl.sc.omtrdc.net |
 | metrics.myhumiraprodemo.com | myhumiraprodemo.com.112.2o7.net |
 | s.mykawartha.com | mykawartha.com.data.adobedc.net |
@@ -6069,6 +6517,7 @@
 | smetrics.nab.com.au | nab.com.au.ssl.d1.sc.omtrdc.net |
 | sit-smetrics.nab.com.au | nab.com.au.ssl.sc.omtrdc.net |
 | metrics.nabbroker.com.au | nabbroker.com.au.sc.omtrdc.net |
+| smetrics.nabtrade.com.au | nabtrade.com.au.ssl.sc.omtrdc.net |
 | metrics.nadaguides.com | nadaguides.122.2o7.net |
 | smetrics.nadaguides.com | nadaguides.com.102.122.2o7.net |
 | sig.nadex.com | nadex.com.102.122.2o7.net |
@@ -6080,7 +6529,9 @@
 | analytics.nascar.com | nascar.com.122.2o7.net |
 | smetrics.nascar.com | nascar.com.ssl.sc.omtrdc.net |
 | metric.nationalgeographic.com | nationalgeographic.com.112.2o7.net |
+| w88.nationalgeographic.com | nationalgeographic.com.sc.omtrdc.net |
 | sw88.nationalgeographic.com | nationalgeographic.com.ssl.sc.omtrdc.net |
+| smetrics.nationalgrid.com | nationalgrid.com.data.adobedc.net |
 | metrics.nationwide.co.uk | nationwide.co.uk.d2.sc.omtrdc.net |
 | smetrics.nationwide.co.uk | nationwide.co.uk.ssl.d2.sc.omtrdc.net |
 | sstats.nationwidechildrens.org | nationwidechildrens.org.102.112.2o7.net |
@@ -6132,6 +6583,7 @@
 | aamt.newsapp.telemundo.com | newsapp.telemundo.com.ssl.sc.omtrdc.net |
 | metrics.newscorpaustralia.com | newscorpaustralia.com.ssl.sc.omtrdc.net |
 | sstats.newyorker.com | newyorker.com.ssl.sc.omtrdc.net |
+| st.newyorklife.com | newyorklife.com.ssl.d1.sc.omtrdc.net |
 | strack.newzit.com | newzit.com.ssl.sc.omtrdc.net |
 | smetrics.nexgard.com.ar | nexgard.com.ar.data.adobedc.net |
 | smetrics.nexgard.com.au | nexgard.com.au.data.adobedc.net |
@@ -6156,8 +6608,10 @@
 | sc.nick.com | nickvia.112.2o7.net |
 | smetrics.nijobs.com | nijobs.com.ssl.sc.omtrdc.net |
 | smodus.nike.com | nike.com.ssl.sc.omtrdc.net |
+| smetrics.nike.net | nike.net.102.112.2o7.net |
 | omni.nine.com.au | nine.com.au.sc.omtrdc.net |
 | somni.nine.com.au | nine.com.au.ssl.sc.omtrdc.net |
+| somni.ninemsn.com.au | ninemsn.com.au.102.112.2o7.net |
 | omni.ninemsn.com.au | ninemsn.com.au.112.2o7.net |
 | smetrics.nintendo.com | nintendo.com.102.112.2o7.net |
 | metrics.nintendo.com | nintendo.com.112.2o7.net |
@@ -6202,6 +6656,7 @@
 | smetrics.nowtv.com | nowtv.com.ssl.sc.omtrdc.net |
 | smetrics.nowtv.it | nowtv.it.ssl.sc.omtrdc.net |
 | mdws.npscu.ca | npscu.ca.102.112.2o7.net |
+| smetrics.npubank.com.au | npubank.com.au.ssl.sc.omtrdc.net |
 | metrics.nrma.com.au | nrma.com.au.ssl.sc.omtrdc.net |
 | metrics.nti.nl | nti.nl.d2.sc.omtrdc.net |
 | metrics.ntnews.com.au | ntnews.com.au.ssl.sc.omtrdc.net |
@@ -6211,6 +6666,7 @@
 | metrics.nutraingredients-usa.com | nutraingredients-usa.com.data.adobedc.net |
 | metrics.nutraingredients.com | nutraingredients.com.data.adobedc.net |
 | metrics.nutrisystem.com | nutrisystem.com.112.2o7.net |
+| omniture.nvidia.com | nvidia.com.102.122.2o7.net |
 | metrics.nvidia.com | nvidia.com.sc.omtrdc.net |
 | smetrics.nvidia.com | nvidia.com.ssl.sc.omtrdc.net |
 | metric.nwsource.com | nwsource.com.112.2o7.net |
@@ -6219,6 +6675,7 @@
 | smetrics.nykaafashion.com | nykaafashion.com.data.adobedc.net |
 | metrics.nykredit.dk | nykredit.dk.d1.sc.omtrdc.net |
 | smetrics.nylaarp.com | nylaarp.com.ssl.sc.omtrdc.net |
+| smetrics.nysif.com | nysif.com.102.122.2o7.net |
 | smetrics.nyulangone.org | nyulangone.org.ssl.sc.omtrdc.net |
 | o.auspost.com.au | o.auspost.com.au.d2.sc.omtrdc.net |
 | ssl.o.auspost.com.au | o.auspost.com.au.ssl.d2.sc.omtrdc.net |
@@ -6234,6 +6691,7 @@
 | ssl.o.qxmd.com | o.qxmd.com.ssl.sc.omtrdc.net |
 | ssl.o.rxlist.com | o.rxlist.com.ssl.sc.omtrdc.net |
 | ssl.o.the-hospitalist.org | o.the-hospitalist.org.ssl.sc.omtrdc.net |
+| ssl.o.univadis.co.uk | o.univadis.co.uk.ssl.sc.omtrdc.net |
 | ssl.o.univadis.com | o.univadis.com.ssl.sc.omtrdc.net |
 | ssl.o.univadis.de | o.univadis.de.ssl.sc.omtrdc.net |
 | ssl.o.univadis.es | o.univadis.es.ssl.sc.omtrdc.net |
@@ -6255,9 +6713,11 @@
 | sadbmetrics.oferplan.com | oferplan.com.ssl.sc.omtrdc.net |
 | smetrics.officefurniture.com | officefurniture.com.102.112.2o7.net |
 | smetrics.officeworks.com.au | officeworks.com.au.ssl.sc.omtrdc.net |
+| smetrics.ok.dk | ok.dk.ssl.sc.omtrdc.net |
 | swebmetrics.ok.gov | ok.gov.ssl.sc.omtrdc.net |
 | smetrics.okcashbag.com | okcashbag.com.ssl.d2.sc.omtrdc.net |
 | swebmetrics.oklahoma.gov | oklahoma.gov.data.adobedc.net |
+| smetrics.olgaintimates.com | olgaintimates.com.ssl.d2.sc.omtrdc.net |
 | metric.olivegarden.com | olivegarden.com.sc.omtrdc.net |
 | smetric.olivegarden.com | olivegarden.com.ssl.sc.omtrdc.net |
 | smetrics.oliverpeoples.com | oliverpeoples.com.ssl.sc.omtrdc.net |
@@ -6269,6 +6729,8 @@
 | metrics.sjo.omniture.com | omniture.com.112.2o7.net |
 | oms.omnitv.ca | omnitv.ca.ssl.sc.omtrdc.net |
 | smetrics.ondacero.es | ondacero.es.data.adobedc.net |
+| sstats.onetime.com | onetime.com.ssl.sc.omtrdc.net |
+| smetrics.ontechsmartservices.com | ontechsmartservices.com.ssl.sc.omtrdc.net |
 | smetrics.onward.co.jp | onward.co.jp.ssl.sc.omtrdc.net |
 | smetrics.openshift.com | openshift.com.ssl.sc.omtrdc.net |
 | smetrics.opensource.com | opensource.com.ssl.sc.omtrdc.net |
@@ -6280,9 +6742,11 @@
 | smetrics.orangetheory.com | orangetheory.com.ssl.sc.omtrdc.net |
 | s.orangeville.com | orangeville.com.data.adobedc.net |
 | smetrics.oreilly.com | oreilly.com.102.122.2o7.net |
+| metrics.oreilly.com | oreilly.com.122.2o7.net |
 | sanmet.originenergy.com.au | originenergy.com.au.ssl.sc.omtrdc.net |
 | smetrics.orlandofuntickets.com | orlandofuntickets.com.ssl.d2.sc.omtrdc.net |
 | somni.orvis.com | orvis.com.ssl.sc.omtrdc.net |
+| stat-ssl.osorezone.com | osorezone.com.ssl.sc.omtrdc.net |
 | sstats.oui.sncf | oui.sncf.ssl.sc.omtrdc.net |
 | s.ourwindsor.ca | ourwindsor.ca.data.adobedc.net |
 | outrigger-a.outrigger.com | outrigger.com.ssl.sc.omtrdc.net |
@@ -6297,6 +6761,7 @@
 | smetrics.panasonic.com | panasonic.com.102.112.2o7.net |
 | sgw-analytics.panasonic.com | panasonic.com.ssl.d3.sc.omtrdc.net |
 | smetrics-cns.panasonic.com | panasonic.com.ssl.sc.omtrdc.net |
+| smetrics.panasonic.jp | panasonic.jp.ssl.sc.omtrdc.net |
 | smetrics.panasonic.net | panasonic.net.ssl.sc.omtrdc.net |
 | gw-analytics.panasonic.com | panasonicglobal.d3.sc.omtrdc.net |
 | smetrics.pandora.net | pandora.net.ssl.sc.omtrdc.net |
@@ -6321,6 +6786,7 @@
 | smetrics.payback.pl | payback.pl.ssl.sc.omtrdc.net |
 | scadobe.paybooc.co.kr | paybooc.co.kr.data.adobedc.net |
 | sstats.paypal-metrics.com | paypal-metrics.com.102.112.2o7.net |
+| smetrics.paysafecard.com | paysafecard.com.102.122.2o7.net |
 | metrics.paysafecard.com | paysafecard.com.122.2o7.net |
 | smetrics.pbteen.com | pbteen.com.ssl.d1.sc.omtrdc.net |
 | smetrics.pcid.ca | pcid.ca.ssl.sc.omtrdc.net |
@@ -6328,9 +6794,13 @@
 | smetrics.pdt.r-agent.com | pdt.r-agent.com.ssl.sc.omtrdc.net |
 | mdws.peacehills.com | peacehills.com.102.112.2o7.net |
 | smetrics.peakperformance.com | peakperformance.com.data.adobedc.net |
+| smetrics.pearlevision.ca | pearlevision.ca.102.122.2o7.net |
+| smetrics.pearlevision.com | pearlevision.com.102.122.2o7.net |
 | smetrics.pedialyte.com | pedialyte.com.102.112.2o7.net |
 | smetrics.pediasure.com.my | pediasure.com.my.102.112.2o7.net |
 | smetrics.pedrodelhierro.com | pedrodelhierro.com.ssl.sc.omtrdc.net |
+| somni.pemco.com | pemco.com.102.112.2o7.net |
+| omni.pemco.com | pemco.com.112.2o7.net |
 | smetrics.penfed.org | penfed.org.ssl.sc.omtrdc.net |
 | mdws.penfinancial.com | penfinancial.com.102.112.2o7.net |
 | metrics.penny-reisen.de | penny-reisen.de.ssl.d3.sc.omtrdc.net |
@@ -6340,6 +6810,7 @@
 | metrics.peopleenespanol.com | peopleenespanol.com.122.2o7.net |
 | metrics.pepboys.com | pepboys.com.102.122.2o7.net |
 | metrics.performgroup.com | performgroup.com.122.2o7.net |
+| t-s.perjeta.com | perjeta.com.102.112.2o7.net |
 | metrics.perjeta.com | perjeta.com.sc.omtrdc.net |
 | smetrics.persol.com | persol.com.ssl.sc.omtrdc.net |
 | swa.personalcreations.com | personalcreations.com.ssl.d1.sc.omtrdc.net |
@@ -6355,10 +6826,12 @@
 | smetrics.pharmaintelligence.informa.com | pharmaintelligence.informa.com.ssl.sc.omtrdc.net |
 | metrics.philly.com | philly.com.112.2o7.net |
 | metric.philosophy.com | philosophy.com.sc.omtrdc.net |
+| smetric.philosophy.com | philosophy.com.ssl.sc.omtrdc.net |
 | smetrics.phoenix.edu | phoenix.edu.ssl.d1.sc.omtrdc.net |
 | stat-ssl.photohito.com | photohito.com.102.112.2o7.net |
 | m.photoshelter.com | photoshelter.com.112.2o7.net |
 | metrics.pinkribbonbottle.com | pinkribbonbottle.com.sc.omtrdc.net |
+| smetrics.pionline.com | pionline.com.ssl.d1.sc.omtrdc.net |
 | smetrics.pipesandcigars.com | pipesandcigars.com.ssl.sc.omtrdc.net |
 | sadbmetrics.pisocompartido.com | pisocompartido.com.ssl.sc.omtrdc.net |
 | sadbmetrics.pisos.com | pisos.com.ssl.sc.omtrdc.net |
@@ -6387,18 +6860,25 @@
 | aa-metrics.ponparemall.com | ponparemall.com.ssl.sc.omtrdc.net |
 | saa.popculture.com | popculture.com.ssl.sc.omtrdc.net |
 | ts.popsugar.com | popsugar.com.ssl.sc.omtrdc.net |
+| saa.poptv.com | poptv.com.data.adobedc.net |
 | smetrics.portal.roche.de | portal.roche.de.ssl.sc.omtrdc.net |
 | sstats.portauthorityclothing.com | portauthorityclothing.com.data.adobedc.net |
+| smetrics.portlandglass.com | portlandglass.com.data.adobedc.net |
 | swa.postnl.nl | postnl.nl.ssl.sc.omtrdc.net |
 | metrics.postoffice.co.uk | postoffice.co.uk.ssl.d1.sc.omtrdc.net |
 | smetrics.potterybarn.com | potterybarn.com.ssl.d1.sc.omtrdc.net |
 | smetrics.potterybarnkids.com | potterybarnkids.com.ssl.d1.sc.omtrdc.net |
 | smetrics.prado.com.sv | prado.com.sv.data.adobedc.net |
+| smetrics.preautorizacionfs.com | preautorizacionfs.com.data.adobedc.net |
 | smetrics.premera.com | premera.com.ssl.sc.omtrdc.net |
 | smetrics.premierinn.com | premierinn.com.ssl.sc.omtrdc.net |
 | stats.premiumsim.de | premiumsim.de.ssl.sc.omtrdc.net |
+| metrics.priceless.com | priceless.com.122.2o7.net |
 | smetrics.princess.com | princess.com.ssl.sc.omtrdc.net |
+| smetrics.privilege.com | privilege.com.ssl.sc.omtrdc.net |
+| sanalytics.proactiv.com | proactiv.com.ssl.sc.omtrdc.net |
 | metrics.professionnels.roche.fr | professionnels.roche.fr.sc.omtrdc.net |
+| wa.proflowers.com | proflowers.com.d1.sc.omtrdc.net |
 | swa.proflowers.com | proflowers.com.ssl.d1.sc.omtrdc.net |
 | mdws.prospera.ca | prospera.ca.102.112.2o7.net |
 | smetrics.protrek.jp | protrek.jp.ssl.sc.omtrdc.net |
@@ -6414,6 +6894,7 @@
 | smetrics.publicissapient.com | publicissapient.com.data.adobedc.net |
 | b.publicmobile.ca | publicmobile.ca.ssl.sc.omtrdc.net |
 | metrics.publicstorage.com | publicstorage.com.ssl.d1.sc.omtrdc.net |
+| smetrics.pulmonaryfibrosis360.com | pulmonaryfibrosis360.com.data.adobedc.net |
 | smetrics.pulte.com | pulte.com.ssl.sc.omtrdc.net |
 | metrics.centex.com | pultehomes.122.2o7.net |
 | metrics.delwebb.com | pultehomes.122.2o7.net |
@@ -6429,12 +6910,16 @@
 | somni.qlmortgageservices.com | qlmortgageservices.com.data.adobedc.net |
 | nsteq.queensland.com | queensland.com.ssl.sc.omtrdc.net |
 | ci.quickbooks.com | quickbooks.com.122.2o7.net |
+| omni.quickenloans.com | quickenloans.com.d2.sc.omtrdc.net |
 | somni.quickenloans.com | quickenloans.com.ssl.d2.sc.omtrdc.net |
+| smetrics.quickenloans.org | quickenloans.org.data.adobedc.net |
 | smetrics.quikshiptoner.com | quikshiptoner.com.ssl.sc.omtrdc.net |
+| metrics.quiksilver.com | quiksilver.com.112.2o7.net |
 | smetrics.quill.com | quill.com.ssl.d1.sc.omtrdc.net |
 | mdws.quintefirst.ca | quintefirst.ca.ssl.sc.omtrdc.net |
 | smetrics.qvc.jp | qvc.jp.ssl.sc.omtrdc.net |
 | metrics.qvc.jp | qvcjapan.sc.omtrdc.net |
+| smetrics.rac.co.uk | rac.co.uk.ssl.sc.omtrdc.net |
 | saa.rachaelrayshow.com | rachaelrayshow.com.ssl.sc.omtrdc.net |
 | smetrics.rackroomshoes.com | rackroomshoes.com.ssl.sc.omtrdc.net |
 | smetrics.racv.com.au | racv.com.au.ssl.sc.omtrdc.net |
@@ -6482,6 +6967,9 @@
 | metrics.regal.es | regal.es.102.122.2o7.net |
 | swa.regiobank.nl | regiobank.nl.ssl.sc.omtrdc.net |
 | smetrics.regions.com | regions.com.ssl.sc.omtrdc.net |
+| smetrics.regionstest.com | regions.com.ssl.sc.omtrdc.net |
+| value.register.com | register.122.2o7.net |
+| omni.rei.com | rei.com.d2.sc.omtrdc.net |
 | somni.rei.com | rei.com.ssl.d2.sc.omtrdc.net |
 | dcs.reiseversicherung.de | reiseversicherung.de.ssl.ldc.d3.sc.omtrdc.net |
 | smetrics.rejuvenation.com | rejuvenation.com.ssl.sc.omtrdc.net |
@@ -6502,6 +6990,7 @@
 | som.ringcentral.com | ringcentral.com.ssl.sc.omtrdc.net |
 | metrics.lolesports.com | riotgames.d1.sc.omtrdc.net |
 | smetrics.riteaid.com | riteaid.com.ssl.sc.omtrdc.net |
+| t-s.rituxan.com | rituxan.com.102.122.2o7.net |
 | smetrics.rituxan.com | rituxan.com.ssl.sc.omtrdc.net |
 | smetrics.robeco.com | robeco.com.ssl.sc.omtrdc.net |
 | smetrics.robeco.nl | robeco.nl.ssl.sc.omtrdc.net |
@@ -6545,13 +7034,16 @@
 | metrics.ryanair.com | ryanair.com.d3.sc.omtrdc.net |
 | smetrics.ryanair.com | ryanair.com.ssl.d3.sc.omtrdc.net |
 | smetrics.ryanhomes.com | ryanhomes.com.102.112.2o7.net |
+| st.s-bahn-muenchen-magazin.de | s-bahn-muenchen-magazin.de.data.adobedc.net |
 | stats.safeway.com | safeway.com.ssl.sc.omtrdc.net |
 | collection.saga.co.uk | saga.co.uk.ssl.sc.omtrdc.net |
 | smetrics.sainsburysbank.co.uk | sainsburysbank.co.uk.ssl.sc.omtrdc.net |
 | sitecatalysts.saisoncard.co.jp | saisoncard.co.jp.ssl.sc.omtrdc.net |
 | ssitectlyst.saksfifthavenue.com | saksfifthavenue.com.ssl.sc.omtrdc.net |
 | smetrics.saksoff5th.com | saksoff5th.com.ssl.sc.omtrdc.net |
+| smetric.sales.vikingline.com | sales.vikingline.com.data.adobedc.net |
 | smetrics.salliemae.com | salliemae.com.ssl.sc.omtrdc.net |
+| webstats.lasoo.com.au | salmat.112.2o7.net |
 | smetrics.salomon.com | salomon.com.ssl.sc.omtrdc.net |
 | aa-metrics.salonboard.com | salonboard.com.ssl.sc.omtrdc.net |
 | metric.samsclub.com | samsclub.com.d1.sc.omtrdc.net |
@@ -6560,10 +7052,12 @@
 | hubmetrics.samsclub.com | samsclub.com.ssl.sc.omtrdc.net |
 | nmetrics.samsung.com | samsung.com.sc.omtrdc.net |
 | smetrics.samsung.com | samsung.com.ssl.sc.omtrdc.net |
+| nmetrics.samsungmobile.com | samsungfc.112.2o7.net |
 | sslsc.sanitas.com | sanitas.com.ssl.ldc.d3.sc.omtrdc.net |
 | sstats.sanmar.com | sanmar.com.data.adobedc.net |
 | smetrics.santander.co.uk | santander.co.uk.ssl.d3.sc.omtrdc.net |
 | smetrics.sap.com | sap.com.ssl.sc.omtrdc.net |
+| med.saphris.com | saphris.com.112.2o7.net |
 | med.saphrishcp.com | saphrishcp.com.112.2o7.net |
 | smetrics.saseurobonusmastercard.se | saseurobonusmastercard.se.ssl.sc.omtrdc.net |
 | smetrics.sasktel.com | sasktel.com.ssl.sc.omtrdc.net |
@@ -6575,6 +7069,7 @@
 | smetrics.savethechildren.org.uk | savethechildren.org.uk.ssl.sc.omtrdc.net |
 | metrics.saxobank.com | saxobank.com.sc.omtrdc.net |
 | smetrics.saxobank.com | saxobank.com.ssl.sc.omtrdc.net |
+| smetrics.sazerac.com | sazerac.com.ssl.sc.omtrdc.net |
 | smetrics.sazerachouse.com | sazerachouse.com.ssl.sc.omtrdc.net |
 | somni.sbicard.com | sbicard.com.ssl.sc.omtrdc.net |
 | somni.sbimobility.com | sbimobility.com.ssl.sc.omtrdc.net |
@@ -6587,6 +7082,7 @@
 | smetrics.scandichotels.fi | scandichotels.fi.ssl.sc.omtrdc.net |
 | smetrics.scandichotels.no | scandichotels.no.ssl.sc.omtrdc.net |
 | smetrics.scandichotels.se | scandichotels.se.ssl.sc.omtrdc.net |
+| smetrics.scarboroughtoyota.ca | scarboroughtoyota.ca.data.adobedc.net |
 | smetrics.sce.com | sce.com.102.122.2o7.net |
 | secmetrics.schaefer-shop.de | schaefer-shop.de.ssl.d3.sc.omtrdc.net |
 | sstats.scholastic.com | scholastic.com.ssl.sc.omtrdc.net |
@@ -6599,10 +7095,14 @@
 | metrics.sciencedirect.com | sciencedirect.com.d1.sc.omtrdc.net |
 | metric.sciencemag.org | sciencemag.org.sc.omtrdc.net |
 | metrics.sciencemag.org | sciencemag.org.ssl.sc.omtrdc.net |
+| omniture.scotiabank.com | scotiabank.com.sc.omtrdc.net |
 | somniture.scotiabank.com | scotiabank.com.ssl.sc.omtrdc.net |
+| smetrics.scotts.com | scotts.com.102.122.2o7.net |
+| metrics.scotts.com | scotts.com.122.2o7.net |
 | mdws.sdcu.com | sdcu.com.102.112.2o7.net |
 | smetrics.sdcvisit.com | sdcvisit.com.ssl.d2.sc.omtrdc.net |
 | smetrics.seabourn.com | seabourn.com.ssl.sc.omtrdc.net |
+| smetrics.seagate.com | seagate.com.102.122.2o7.net |
 | metrics.seagate.com | seagate.com.122.2o7.net |
 | om.sears.com | sears.com.d1.sc.omtrdc.net |
 | som.sears.com | sears.com.ssl.d1.sc.omtrdc.net |
@@ -6617,21 +7117,26 @@
 | smetrics.seat.es | seat.es.ssl.sc.omtrdc.net |
 | smetrics.seat.fi | seat.fi.ssl.sc.omtrdc.net |
 | smetrics.seat.fr | seat.fr.ssl.sc.omtrdc.net |
+| smetrics.seat.ie | seat.ie.ssl.sc.omtrdc.net |
 | smetrics.seat.mx | seat.mx.ssl.sc.omtrdc.net |
 | smetrics.seat.pl | seat.pl.ssl.sc.omtrdc.net |
 | smetrics.seat.pt | seat.pt.ssl.sc.omtrdc.net |
+| smetrics.seat.sg | seat.sg.ssl.sc.omtrdc.net |
 | metrics.seawheeze.com | seawheeze.com.sc.omtrdc.net |
 | smetrics.seawheeze.com | seawheeze.com.ssl.sc.omtrdc.net |
 | smetrics.seb.ee | seb.ee.ssl.sc.omtrdc.net |
 | smetrics.seb.lt | seb.lt.ssl.sc.omtrdc.net |
 | smetrics.seb.lv | seb.lv.ssl.sc.omtrdc.net |
 | sanalytics.securebanklogin.com | securebanklogin.com.ssl.sc.omtrdc.net |
+| smetrics.securemaxxia.com.au | securemaxxia.com.au.ssl.sc.omtrdc.net |
 | sstats.securitas-direct.com | securitas-direct.com.102.112.2o7.net |
 | stats.securitas-direct.com | securitas-direct.com.112.2o7.net |
 | smetrics.seguro.mediaset.es | seguro.mediaset.es.ssl.sc.omtrdc.net |
 | sstats.self.com | self.com.ssl.sc.omtrdc.net |
+| smetrics.seloger.com | seloger.com.ssl.d2.sc.omtrdc.net |
 | metrics.sen.com.au | sen.com.au.sc.omtrdc.net |
 | smetrics.sen.com.au | sen.com.au.ssl.sc.omtrdc.net |
+| smetrics.sensai-cosmetics.com | sensai-cosmetics.com.ssl.sc.omtrdc.net |
 | metrics.sephora.com | sephora.com.d1.sc.omtrdc.net |
 | smetrics.sephora.com | sephora.com.ssl.d1.sc.omtrdc.net |
 | smetrics.seriesplus.com | seriesplus.com.ssl.sc.omtrdc.net |
@@ -6652,11 +7157,14 @@
 | nsc.metrics-shell.com | shell.d3.sc.omtrdc.net |
 | smetrics.shellenergy.co.uk | shellenergy.co.uk.ssl.sc.omtrdc.net |
 | smetrics.sherwoodbuickgmc.com | sherwoodbuickgmc.com.data.adobedc.net |
+| smetrics.shihang.org | shihang.org.ssl.sc.omtrdc.net |
 | smetrics.shinseibank.com | shinseibank.com.102.112.2o7.net |
 | smetrics.sho.com | sho.com.ssl.sc.omtrdc.net |
 | metrics.shoedazzle.com | shoedazzle.com.d1.sc.omtrdc.net |
 | metrics.shop.superstore.ca | shop.superstore.ca.d1.sc.omtrdc.net |
+| smetrics.shop.superstore.ca | shop.superstore.ca.ssl.d1.sc.omtrdc.net |
 | metrics.shopbop.com | shopbop.com.sc.omtrdc.net |
+| ompxs.shopbop.com | shopbop.com.ssl.d2.sc.omtrdc.net |
 | smetrics.shopbop.com | shopbop.com.ssl.sc.omtrdc.net |
 | sw88.shopdisney.co.uk | shopdisney.co.uk.ssl.sc.omtrdc.net |
 | sw88.shopdisney.de | shopdisney.de.ssl.sc.omtrdc.net |
@@ -6678,14 +7186,18 @@
 | ou.shutterfly.com | shutterfly.com.sc.omtrdc.net |
 | os.shutterfly.com | shutterfly.com.ssl.sc.omtrdc.net |
 | metrics.si.com | si.com.122.2o7.net |
+| smetrics.siapnge.com | siapnge.com.data.adobedc.net |
 | securetags.sigsa.info | sigsa.info.ssl.sc.omtrdc.net |
+| somni.silversea.com | silversea.com.ssl.sc.omtrdc.net |
 | stats.sim.de | sim.de.ssl.sc.omtrdc.net |
 | s.simcoe.com | simcoe.com.data.adobedc.net |
 | metrics.similac.com | similac.com.112.2o7.net |
 | metrics.similac.com.tr | similac.com.tr.112.2o7.net |
+| analytic.simplyhealth.co.uk | simplyhealth.co.uk.sc.omtrdc.net |
 | analytics.simplyhealth.co.uk | simplyhealth.co.uk.ssl.sc.omtrdc.net |
 | stats.simplytel.de | simplytel.de.ssl.sc.omtrdc.net |
 | metrics.simpsonmillar.co.uk | simpsonmillar.d2.sc.omtrdc.net |
+| sstats.simzdarma.cz | simzdarma.cz.ssl.sc.omtrdc.net |
 | smetrics.siriusxm.ca | siriusxm.ca.ssl.sc.omtrdc.net |
 | metrics.siriusxm.com | siriusxm.com.d1.sc.omtrdc.net |
 | smetrics.siriusxm.com | siriusxm.com.ssl.d1.sc.omtrdc.net |
@@ -6696,6 +7208,7 @@
 | analytics.sixt.com | sixt.com.sc.omtrdc.net |
 | sslanalytics.sixt.com | sixt.com.ssl.sc.omtrdc.net |
 | analytics.sixt.de | sixt.de.sc.omtrdc.net |
+| sslanalytics.sixt.de | sixt.de.ssl.sc.omtrdc.net |
 | analytics.sixt.fr | sixt.fr.sc.omtrdc.net |
 | analytics.sixt.it | sixt.it.sc.omtrdc.net |
 | analytics.sixt.jobs | sixt.jobs.sc.omtrdc.net |
@@ -6705,6 +7218,7 @@
 | smetrics.sj.se | sj.se.ssl.sc.omtrdc.net |
 | omni.skinmedica.com | skinmedica.com.122.2o7.net |
 | sanalytics.skinny.co.nz | skinny.co.nz.ssl.sc.omtrdc.net |
+| smetrics.skipton.co.uk | skipton.co.uk.ssl.sc.omtrdc.net |
 | metrics.sky.com | sky.com.d1.sc.omtrdc.net |
 | smetrics.sky.com | sky.com.ssl.d1.sc.omtrdc.net |
 | omni.sky.de | sky.de.d2.sc.omtrdc.net |
@@ -6714,7 +7228,9 @@
 | smetrics.sky.it | sky.it.ssl.sc.omtrdc.net |
 | metrics.skynews.com.au | skynews.com.au.data.adobedc.net |
 | metrics.slate.com | slate.com.112.2o7.net |
+| smetrics.slate.com | slate.com.ssl.d1.sc.omtrdc.net |
 | stats.airfarewatchdog.co.uk | slbbawdukcom.112.2o7.net |
+| stats.bookingbuddy.com | slbbbcom.112.2o7.net |
 | stats.cheapflightsomg.com | slbbomgcom.112.2o7.net |
 | stats.cheaphotelsomg.com | slbbomgcom.112.2o7.net |
 | smetrics.sleepnumber.com | sleepnumber.com.ssl.sc.omtrdc.net |
@@ -6737,11 +7253,13 @@
 | oms.snnow.ca | snnow.ca.ssl.sc.omtrdc.net |
 | c.snow.com | snow.com.d2.sc.omtrdc.net |
 | b.snow.com | snow.com.ssl.d2.sc.omtrdc.net |
+| sstats.snowandrock.com | snowandrock.com.ssl.sc.omtrdc.net |
 | swa.snsbank.nl | snsbank.nl.102.122.2o7.net |
 | ssmr.so-net.ne.jp | so-net.ne.jp.ssl.d1.sc.omtrdc.net |
 | ssmr2.so-net.ne.jp | so-net.ne.jp.ssl.sc.omtrdc.net |
 | smetrics.sofina.co.jp | sofina.co.jp.ssl.sc.omtrdc.net |
 | smetrics.sofina.com | sofina.com.ssl.sc.omtrdc.net |
+| smetrics.softcrylic.com | softcrylic.com.ssl.sc.omtrdc.net |
 | smetrics.softwareag.com | softwareag.com.data.adobedc.net |
 | smetrics.sofy.jp | sofy.jp.ssl.sc.omtrdc.net |
 | smetrics.sofygirls.com | sofygirls.com.ssl.sc.omtrdc.net |
@@ -6759,9 +7277,11 @@
 | somn.sonypictures.com | sonypictures.com.102.112.2o7.net |
 | omn.sonypictures.com | sonypictures.com.112.2o7.net |
 | ssc.sonystyle.com.cn | sonystyle.com.cn.ssl.sc.omtrdc.net |
+| smetrics.sothebys.com | sothebys.com.102.122.2o7.net |
 | metrics.sothebys.com | sothebys.com.122.2o7.net |
 | smetrics.sourceesb.com | sourceesb.com.ssl.sc.omtrdc.net |
 | smetrics.southaustralia.com | southaustralia.com.data.adobedc.net |
+| smetrics.southerncomfort.com | southerncomfort.com.data.adobedc.net |
 | ssc.southpark.de | southpark.de.ssl.sc.omtrdc.net |
 | ssc.southpark.lat | southpark.lat.ssl.sc.omtrdc.net |
 | ssc.southparkstudios.co.uk | southparkstudios.co.uk.ssl.sc.omtrdc.net |
@@ -6774,6 +7294,7 @@
 | analytics.spark.co.nz | spark.co.nz.sc.omtrdc.net |
 | sanalytics.spark.co.nz | spark.co.nz.ssl.sc.omtrdc.net |
 | data1.sparkasse.at | sparkasse.at.ssl.sc.omtrdc.net |
+| smetrics.sparkassendirekt.de | sparkassendirekt.de.102.122.2o7.net |
 | smetrics.spdrs.com | spdrs.com.ssl.sc.omtrdc.net |
 | smetrics.spela.svenskaspel.se | spela.svenskaspel.se.ssl.sc.omtrdc.net |
 | metrics.spencersonline.com | spencersonline.com.102.112.2o7.net |
@@ -6791,6 +7312,7 @@
 | sanalytics.sprint.com | sprint.com.ssl.sc.omtrdc.net |
 | sappmetrics.sprint.com | sprint.com.ssl.sc.omtrdc.net |
 | smetrics.sptoyota.com | sptoyota.com.data.adobedc.net |
+| smetrics.srpmarketplace.com | srpmarketplace.com.data.adobedc.net |
 | smetrics.srpnet.com | srpnet.com.ssl.d2.sc.omtrdc.net |
 | swa.st.com | st.com.ssl.ldc.d3.sc.omtrdc.net |
 | ssc.standard.co.uk | standard.co.uk.102.122.2o7.net |
@@ -6807,12 +7329,14 @@
 | metrics.startribune.com | startribune.com.d1.sc.omtrdc.net |
 | smetrics.startribune.com | startribune.com.ssl.d1.sc.omtrdc.net |
 | sw88.starwars.ru | starwars.ru.ssl.sc.omtrdc.net |
+| metrics.starwoodhotels.com | starwoodhotels.com.d1.sc.omtrdc.net |
 | metric.starz.com | starz.122.2o7.net |
 | secure.stat.canal-plus.net | stat.canal-plus.net.ssl.sc.omtrdc.net |
 | smetrics.statefarm.com | statefarm.com.ssl.d1.sc.omtrdc.net |
 | smetrics.statnews.com | statnews.com.ssl.sc.omtrdc.net |
 | s.stcatharinesstandard.ca | stcatharinesstandard.ca.data.adobedc.net |
 | metrics.steelcase.com | steelcase.com.ssl.sc.omtrdc.net |
+| stats.steepandcheap.com | steepandcheap.com.sc.omtrdc.net |
 | sstats.steepandcheap.com | steepandcheap.com.ssl.sc.omtrdc.net |
 | dc.stenaline.co.uk | stenaline.co.uk.data.adobedc.net |
 | dc.stenaline.de | stenaline.de.data.adobedc.net |
@@ -6832,6 +7356,7 @@
 | sm.stjude.org | stjude.org.ssl.sc.omtrdc.net |
 | metrics.store.irobot.com | store.irobot.com.112.2o7.net |
 | mdws.stridecu.ca | stridecu.ca.ssl.sc.omtrdc.net |
+| t.strokeawareness.com | strokeawareness.com.122.2o7.net |
 | metrics.strokeawareness.com | strokeawareness.com.sc.omtrdc.net |
 | was.stubhub.com | stubhub.com.ssl.d2.sc.omtrdc.net |
 | omniture.stuff.co.nz | stuff.co.nz.d1.sc.omtrdc.net |
@@ -6845,6 +7370,7 @@
 | metrics.suncorp.com.au | suncorp.com.au.sc.omtrdc.net |
 | smetrics.suncorp.com.au | suncorp.com.au.ssl.sc.omtrdc.net |
 | metrics.suncorpbank.com.au | suncorpbank.com.au.sc.omtrdc.net |
+| smetrics.suncorpbank.com.au | suncorpbank.com.au.ssl.sc.omtrdc.net |
 | somni.sundancecatalog.com | sundancecatalog.com.ssl.sc.omtrdc.net |
 | metrics.sungard.com | sungardavailabilityservices.122.2o7.net |
 | smetrics.sunglasshut.com | sunglasshut.com.ssl.sc.omtrdc.net |
@@ -6870,10 +7396,12 @@
 | so.swisscom.ch | swisscom.ch.ssl.sc.omtrdc.net |
 | sstats.swissotel.com | swissotel.com.102.112.2o7.net |
 | metrics.switch2t-mobile.com | switch2t-mobile.com.data.adobedc.net |
+| smetrics.switch2t-mobile.com | switch2t-mobile.com.data.adobedc.net |
 | sanalytics.sydney.edu.au | sydney.edu.au.data.adobedc.net |
 | somni.syf.com | syf.com.data.adobedc.net |
 | om.symantec.com | symantec.com.d1.sc.omtrdc.net |
 | oms.symantec.com | symantec.com.ssl.d1.sc.omtrdc.net |
+| smetrics.sympany.ch | sympany.ch.ssl.sc.omtrdc.net |
 | somni.synchrony.com | synchrony.com.data.adobedc.net |
 | somni.synchronybank.com | synchronybank.com.data.adobedc.net |
 | smetrics.synergy.net.au | synergy.net.au.ssl.sc.omtrdc.net |
@@ -6884,20 +7412,25 @@
 | smetrics.tab.com.au | tab.com.au.ssl.sc.omtrdc.net |
 | stat-ssl.tabelog.com | tabelog.com.102.112.2o7.net |
 | analytics.tabichan.jp | tabichan.jp.sc.omtrdc.net |
+| sanalytics.tabichan.jp | tabichan.jp.ssl.sc.omtrdc.net |
 | aa-metrics.tabroom.jp | tabroom.jp.ssl.sc.omtrdc.net |
 | sa.tactics.com | tactics.com.102.112.2o7.net |
 | smetrics.takami-labo.com | takami-labo.com.ssl.sc.omtrdc.net |
 | smetrics.talbots.com | talbots.com.ssl.sc.omtrdc.net |
 | aa.tallink.com | tallink.com.sc.omtrdc.net |
 | saa.tallink.com | tallink.com.ssl.sc.omtrdc.net |
+| t.fuzeon.com | tamiflu.com.122.2o7.net |
+| smetrics.tamiflu.com | tamiflu.com.ssl.sc.omtrdc.net |
 | mdws.tandia.com | tandia.com.102.112.2o7.net |
 | smetrics.tarrantcounty.com | tarrantcounty.com.data.adobedc.net |
 | stat-ssl.tasclap.jp | tasclap.jp.102.112.2o7.net |
+| stat.tasclap.jp | tasclap.jp.112.2o7.net |
 | metrics.taste.com.au | taste.com.au.ssl.sc.omtrdc.net |
 | omtrkpix.tasteofhome.com | tasteofhome.com.122.2o7.net |
 | smetrics.tataaig.com | tataaig.com.ssl.sc.omtrdc.net |
 | somni.tatacard.com | tatacard.com.ssl.sc.omtrdc.net |
 | smetrics.taylors.edu.my | taylors.edu.my.data.adobedc.net |
+| metrics.tbs.com | tbs.com.112.2o7.net |
 | metrics.turnertv.com | tbs.com.112.2o7.net |
 | analytics.tbs.com | tbs.com.d2.sc.omtrdc.net |
 | analytics.turnertv.com | tbs.com.d2.sc.omtrdc.net |
@@ -6928,6 +7461,7 @@
 | sstatistikk.telenor.no | telenor.no.ssl.d1.sc.omtrdc.net |
 | metrics.telenor.se | telenor.se.112.2o7.net |
 | sstats.telenor.se | telenor.se.ssl.sc.omtrdc.net |
+| smetrics.teletoon.com | teletoon.com.data.adobedc.net |
 | infos.telstra.com | telstra.com.102.122.2o7.net |
 | info.telstra.com | telstra.com.122.2o7.net |
 | info.telstra.com.au | telstra.com.au.sc.omtrdc.net |
@@ -6960,6 +7494,7 @@
 | metrics.themercury.com.au | themercury.com.au.ssl.sc.omtrdc.net |
 | s.thepeterboroughexaminer.com | thepeterboroughexaminer.com.data.adobedc.net |
 | s.therecord.com | therecord.com.data.adobedc.net |
+| somni.therecroom.com | therecroom.com.ssl.sc.omtrdc.net |
 | somni.thermofisher.com | thermofisher.com.ssl.d2.sc.omtrdc.net |
 | smetrics.thespacecinema.it | thespacecinema.it.ssl.sc.omtrdc.net |
 | s.thespec.com | thespec.com.data.adobedc.net |
@@ -6983,6 +7518,7 @@
 | metrics.tiaa-cref.org | tiaa-cref.org.d2.sc.omtrdc.net |
 | smetrics.tiaa-cref.org | tiaa-cref.org.ssl.d2.sc.omtrdc.net |
 | smetrics.tiaa.org | tiaa.org.ssl.sc.omtrdc.net |
+| smetrics.ticket.dk | ticket.dk.ssl.d2.sc.omtrdc.net |
 | smetrics.ticket.fi | ticket.fi.ssl.d2.sc.omtrdc.net |
 | smetrics.ticket.no | ticket.no.ssl.d2.sc.omtrdc.net |
 | smetrics.ticket.se | ticket.se.ssl.d2.sc.omtrdc.net |
@@ -7010,6 +7546,7 @@
 | ssl-metrics.tim.it | tim.it.ssl.d2.sc.omtrdc.net |
 | smetrics.timberland.com | timberland.com.102.112.2o7.net |
 | metrics.timberland.com | timberland.com.112.2o7.net |
+| metrics.timberland.fr | timberland.fr.112.2o7.net |
 | metrics.time.com | time.com.sc.omtrdc.net |
 | smetrics.time.com | time.com.ssl.sc.omtrdc.net |
 | metrics.timeinc.net | timeinc.net.122.2o7.net |
@@ -7024,6 +7561,7 @@
 | ssa.tlc.com | tlc.com.ssl.sc.omtrdc.net |
 | metrics.tmz.com | tmz.com.sc.omtrdc.net |
 | smetrics.tmz.com | tmz.com.ssl.sc.omtrdc.net |
+| t.tnkase.com | tnkase.com.122.2o7.net |
 | metrics.tnkase.com | tnkase.com.sc.omtrdc.net |
 | sanalytics.tnt-tv.de | tnt-tv.de.data.adobedc.net |
 | analytics.tnt-tv.de | tnt-tv.de.sc.omtrdc.net |
@@ -7061,6 +7599,7 @@
 | metrics.toptenreviews.com | toptenreviews.122.2o7.net |
 | metrics.toryburch.com | toryburch.com.112.2o7.net |
 | smetrics.totalwine.com | totalwine.com.ssl.sc.omtrdc.net |
+| stat-ssl.tour-list.com | tour-list.com.ssl.sc.omtrdc.net |
 | metrics.townsvillebulletin.com.au | townsvillebulletin.com.au.ssl.sc.omtrdc.net |
 | metrics.toyota.com | toyota.com.d1.sc.omtrdc.net |
 | smetrics.toyota.com | toyota.com.ssl.d1.sc.omtrdc.net |
@@ -7078,6 +7617,7 @@
 | metrics.travelchannel.com | travelchannel.com.d1.sc.omtrdc.net |
 | smetrics.travelchannel.com | travelchannel.com.ssl.d1.sc.omtrdc.net |
 | smetrics.travelmoneyonline.co.uk | travelmoneyonline.co.uk.ssl.sc.omtrdc.net |
+| om.travelocity.com | travelocity.com.d1.sc.omtrdc.net |
 | oms.travelocity.com | travelocity.com.ssl.d1.sc.omtrdc.net |
 | smetrics.travelzoo.com | travelzoo.com.data.adobedc.net |
 | m.trb.com | trb.com.sc.omtrdc.net |
@@ -7086,6 +7626,7 @@
 | sitecats.troweprice.com | troweprice.com.ssl.d2.sc.omtrdc.net |
 | adobe.truckscout24.de | truckscout24.de.d1.sc.omtrdc.net |
 | metrics.truffaut.com | truffaut.com.sc.omtrdc.net |
+| smetrics.truffaut.com | truffaut.com.ssl.sc.omtrdc.net |
 | sstats.truist.com | truist.com.ssl.sc.omtrdc.net |
 | metric.trulia.com | trulia.com.d2.sc.omtrdc.net |
 | smetric.trulia.com | trulia.com.ssl.d2.sc.omtrdc.net |
@@ -7106,6 +7647,7 @@
 | metrics.tuneup.de | tuneup.de.d2.sc.omtrdc.net |
 | sadbmetrics.turium.es | turium.es.data.adobedc.net |
 | omni.turkcell.com.tr | turkcell.com.tr.d3.sc.omtrdc.net |
+| somni.turkcell.com.tr | turkcell.com.tr.ssl.d3.sc.omtrdc.net |
 | metrics.turner.com | turner.com.122.2o7.net |
 | securetenilstats.turner.com | turner.com.ssl.sc.omtrdc.net |
 | tenilstats.turner.com | turneruk.sc.omtrdc.net |
@@ -7115,6 +7657,7 @@
 | metrics.tvguide.com | tvguide.112.2o7.net |
 | aa.tvguide.com | tvguide.com.sc.omtrdc.net |
 | saa.tvguide.com | tvguide.com.ssl.sc.omtrdc.net |
+| ssc.tvland.com | tvland.com.ssl.sc.omtrdc.net |
 | sadbmetrics.tvr.es | tvr.es.ssl.sc.omtrdc.net |
 | metrics.lesjoforsab.com | twoisverige.122.2o7.net |
 | metrics.thermia.com | twoisverige.122.2o7.net |
@@ -7155,6 +7698,7 @@
 | securedata.unsw.edu.au | unsw.edu.au.ssl.sc.omtrdc.net |
 | metrics.untangle.com | untangle.com.122.2o7.net |
 | smetrics.upc.ch | upc.ch.ssl.sc.omtrdc.net |
+| swa.upc.cz | upc.cz.ssl.sc.omtrdc.net |
 | st.upmc.com | upmc.com.ssl.sc.omtrdc.net |
 | metrics.ups.com | ups.com.sc.omtrdc.net |
 | smetrics.ups.com | ups.com.ssl.sc.omtrdc.net |
@@ -7295,6 +7839,7 @@
 | mytvsuperlimited.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | nascardigitalsap.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | nationalgeographic.hb-api.omtrdc.net | va-edge.sc.omtrdc.net |
+| nationalinstruments.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | nbaprop.hb-api.omtrdc.net | va-edge.sc.omtrdc.net |
 | nbaprop.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | nbcstreaming.hb.omtrdc.net | va-edge.sc.omtrdc.net |
@@ -7313,6 +7858,7 @@
 | pluralsight.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | radiocanada.hb-api.omtrdc.net | va-edge.sc.omtrdc.net |
 | radiocanada.hb.omtrdc.net | va-edge.sc.omtrdc.net |
+| rochedia.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | rogersmedia.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | roomandboard.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | rtl.hb-api.omtrdc.net | va-edge.sc.omtrdc.net |
@@ -7332,18 +7878,23 @@
 | tim.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | turnerclassicmovies.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | turnerinternational.hb.omtrdc.net | va-edge.sc.omtrdc.net |
+| turnersidigital.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | tv2.hb-api.omtrdc.net | va-edge.sc.omtrdc.net |
 | tv2.hb.omtrdc.net | va-edge.sc.omtrdc.net |
+| tve.hb-api.omtrdc.net | va-edge.sc.omtrdc.net |
 | twctsg.hb-api.omtrdc.net | va-edge.sc.omtrdc.net |
+| twctsg.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | verizontelecom.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | vice.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | videor.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | vidgoinc.hb.omtrdc.net | va-edge.sc.omtrdc.net |
+| vmware.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | vrt.hb-api.omtrdc.net | va-edge.sc.omtrdc.net |
 | vrt.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | warnerbrosentertainmentinc.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | webmd.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | www.foxentertainment.hb.omtrdc.net | va-edge.sc.omtrdc.net |
+| www.newscorpau.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | yleisradio.hb.omtrdc.net | va-edge.sc.omtrdc.net |
 | mdws.valleycreditunion.com | valleycreditunion.com.102.112.2o7.net |
 | mdws.valleyfirst.com | valleyfirst.com.102.112.2o7.net |
@@ -7358,23 +7909,28 @@
 | smetrics.vcm.com | vcm.com.ssl.sc.omtrdc.net |
 | srepdata.vcstar.com | vcstar.com.ssl.sc.omtrdc.net |
 | adbmetrics.vehiculosdeocasion.eus | vehiculosdeocasion.eus.sc.omtrdc.net |
+| sadbmetrics.vehiculosdeocasion.eus | vehiculosdeocasion.eus.ssl.sc.omtrdc.net |
 | metrics.venclextahcp.com | venclextahcp.com.sc.omtrdc.net |
 | smetrics.venclextahcp.com | venclextahcp.com.ssl.sc.omtrdc.net |
 | oms.venere.com | venere.com.ssl.d2.sc.omtrdc.net |
 | osc.venetian.com | venetian.com.122.2o7.net |
+| somniture.ventingdirect.com | ventingdirect.com.ssl.d1.sc.omtrdc.net |
 | smetrics.verisign.com | verisign.com.data.adobedc.net |
 | metrics.verizon.com | verizon.com.112.2o7.net |
 | analytics.verizon.com | verizon.com.d1.sc.omtrdc.net |
 | sanalytics.verizon.com | verizon.com.ssl.d1.sc.omtrdc.net |
+| sanalytics.verizonenterprise.com | verizonenterprise.com.data.adobedc.net |
 | sanalytics.verizonwireless.com | verizonwireless.com.ssl.sc.omtrdc.net |
 | mdws.vermilioncreditunion.com | vermilioncreditunion.com.102.112.2o7.net |
 | smetrics.vermontcountrystore.com | vermontcountrystore.com.102.112.2o7.net |
 | metrics.vero.co.nz | vero.co.nz.sc.omtrdc.net |
 | smetrics.vero.co.nz | vero.co.nz.ssl.sc.omtrdc.net |
+| smetrics.vetmedica.de | vetmedica.de.data.adobedc.net |
 | smetrics.vetmedin.jp | vetmedin.jp.data.adobedc.net |
 | smetrics.vetmedin.ru | vetmedin.ru.data.adobedc.net |
 | ssc.vh1.com | vh1.com.ssl.sc.omtrdc.net |
 | sc.nick.co.uk | viakcanickglobal.112.2o7.net |
+| sc.nick.com.au | viakcanickglobal.112.2o7.net |
 | sc.nickelodeon.ru | viakcanickglobal.112.2o7.net |
 | smetrics.viasat.com | viasat.com.ssl.sc.omtrdc.net |
 | sc.vh1.com | viatabletvh1.sc.omtrdc.net |
@@ -7388,6 +7944,7 @@
 | med.viibryd.com | viibryd.com.112.2o7.net |
 | meds.viibrydhcp.com | viibrydhcp.com.102.112.2o7.net |
 | med.viibrydhcp.com | viibrydhcp.com.112.2o7.net |
+| smetrics.vikingline.ax | vikingline.ax.data.adobedc.net |
 | smetrics.vikingline.ee | vikingline.ee.data.adobedc.net |
 | smetrics.vikingline.fi | vikingline.fi.data.adobedc.net |
 | smetrics.vikingline.ru | vikingline.ru.data.adobedc.net |
@@ -7400,6 +7957,7 @@
 | analytics.virginmobileusa.com | virginmobileusa.com.sc.omtrdc.net |
 | data1.virginplus.ca | virginplus.ca.data.adobedc.net |
 | smetrics.virtual-cosme.net | virtual-cosme.net.ssl.sc.omtrdc.net |
+| sstats.virtualtoursit.com.au | virtualtourist.com.ssl.sc.omtrdc.net |
 | metrics.visainfinite.ca | visainfinite.ca.d2.sc.omtrdc.net |
 | srepdata.visaliatimesdelta.com | visaliatimesdelta.com.ssl.d1.sc.omtrdc.net |
 | metrics.visasignaturehotels.com | visasignaturehotels.com.d2.sc.omtrdc.net |
@@ -7442,6 +8000,7 @@
 | smetrics.vodafone.qa | vodafone.qa.ssl.sc.omtrdc.net |
 | smetrics.vodafone.ro | vodafone.ro.ssl.sc.omtrdc.net |
 | smetrics.vodafonecu.gr | vodafonecu.gr.ssl.sc.omtrdc.net |
+| smetrics.vogue-eyewear.com | vogue-eyewear.com.ssl.sc.omtrdc.net |
 | metrics.vogue.com.au | vogue.com.au.ssl.sc.omtrdc.net |
 | stats2.vogue.com | vogue.com.sc.omtrdc.net |
 | sstats.vogue.com | vogue.com.ssl.sc.omtrdc.net |
@@ -7452,18 +8011,23 @@
 | smetric.volkswagen.de | volkswagen.de.data.adobedc.net |
 | metric.volkswagen.de | volkswagen.de.sc.omtrdc.net |
 | smatning.volkswagen.se | volkswagen.se.data.adobedc.net |
+| smetrics.volusion.com | volusion.com.102.112.2o7.net |
 | metrics.vonage.com | vonage.com.d2.sc.omtrdc.net |
 | smetrics.vonage.com | vonage.com.ssl.d2.sc.omtrdc.net |
 | scadobe.vpay.co.kr | vpay.co.kr.data.adobedc.net |
+| som.vrbo.com | vrbo.com.102.122.2o7.net |
 | om.vrbo.com | vrbo.com.122.2o7.net |
 | smetrics.vsemirnyjbank.org | vsemirnyjbank.org.ssl.sc.omtrdc.net |
 | smetrics.vueling.com | vueling.com.102.112.2o7.net |
 | metrics.vw.com | vw.com.d2.sc.omtrdc.net |
 | smetrics.vw.com | vw.com.ssl.d2.sc.omtrdc.net |
 | smetrics.vwfs.com.br | vwfs.com.br.data.adobedc.net |
+| smetrics.vwfs.cz | vwfs.cz.data.adobedc.net |
 | smetrics.vwfs.de | vwfs.de.data.adobedc.net |
+| smetrics.vwfs.es | vwfs.es.data.adobedc.net |
 | smetrics.vwfs.it | vwfs.it.data.adobedc.net |
 | smetrics.vwfs.mx | vwfs.mx.data.adobedc.net |
+| ssc.wa.gto.db.com | wa.gto.db.com.102.112.2o7.net |
 | adobe.wacoal.jp | wacoal.jp.sc.omtrdc.net |
 | s-adobe.wacoal.jp | wacoal.jp.ssl.sc.omtrdc.net |
 | ssite.waitrose.com | waitrose.com.102.112.2o7.net |
@@ -7478,8 +8042,10 @@
 | omniture.walmart.com | walmart.com.d1.sc.omtrdc.net |
 | omniture-ssl.walmart.com | walmart.com.ssl.d1.sc.omtrdc.net |
 | metrics.walmartmoneycard.com | walmartmoneycard.com.112.2o7.net |
+| smetrics.walmartstores.com | walmartstores.com.102.112.2o7.net |
 | smetrics.warners.com | warners.com.ssl.d2.sc.omtrdc.net |
 | smetrics.waseda-ac.co.jp | waseda-ac.co.jp.ssl.sc.omtrdc.net |
+| smetrics.washingtonpost.com | washingtonpost.com.102.112.2o7.net |
 | metrics.washingtonpost.com | washingtonpost.com.112.2o7.net |
 | s.waterloochronicle.ca | waterloochronicle.ca.data.adobedc.net |
 | smetrics.waterlooford.com | waterlooford.com.ssl.sc.omtrdc.net |
@@ -7500,9 +8066,12 @@
 | digistat.westjet.com | westjet.com.d1.sc.omtrdc.net |
 | digistats.westjet.com | westjet.com.ssl.d1.sc.omtrdc.net |
 | smetrics.westpac.com.au | westpac.com.au.ssl.d2.sc.omtrdc.net |
+| smetrics.westpacgroup.com.au | westpacgroup.com.au.ssl.sc.omtrdc.net |
 | mdws.weyburncu.ca | weyburncu.ca.102.112.2o7.net |
 | mdws.wfcu.ca | wfcu.ca.102.112.2o7.net |
 | smetrics.wgu.edu | wgu.edu.ssl.sc.omtrdc.net |
+| stats.whattopack.com | whattopack.com.sc.omtrdc.net |
+| sstats.whattopack.com | whattopack.com.ssl.sc.omtrdc.net |
 | smetrics.wholesaleclub.ca | wholesaleclub.ca.ssl.sc.omtrdc.net |
 | sanalytics.wideroe.no | wideroe.no.ssl.sc.omtrdc.net |
 | sadbmetrics.wikirioja.com | wikirioja.com.ssl.sc.omtrdc.net |
@@ -7513,8 +8082,13 @@
 | sstats.williamoneil.com | williamoneil.com.ssl.sc.omtrdc.net |
 | smetrics.williams-sonoma.com | williams-sonoma.com.ssl.d1.sc.omtrdc.net |
 | smetrics.wilson.com | wilson.com.ssl.d2.sc.omtrdc.net |
+| smetrics.wimbledon.com | wimbledon.com.102.122.2o7.net |
+| smetrics.windowgenie.com | windowgenie.com.data.adobedc.net |
 | osimg.windsurfercrs.com | windsurfercrs.com.data.adobedc.net |
+| somniture.winecoolerdirect.com | winecoolerdirect.com.ssl.sc.omtrdc.net |
+| visitors.winecountrygiftbaskets.com | winecountrygiftbaskets.com.102.112.2o7.net |
 | stats.winsim.de | winsim.de.ssl.sc.omtrdc.net |
+| st.wir-entdecken-bayern.de | wir-entdecken-bayern.de.data.adobedc.net |
 | sstats.wired.com | wired.com.ssl.sc.omtrdc.net |
 | saa.wired2fish.com | wired2fish.com.ssl.sc.omtrdc.net |
 | mdws.wldcu.com | wldcu.com.102.112.2o7.net |
@@ -7564,6 +8138,7 @@
 | sadbmetrics.xlsemanal.com | xlsemanal.com.ssl.sc.omtrdc.net |
 | stat-ssl.xn--pckua2a7gp15o89zb.com | xn--pckua2a7gp15o89zb.com.ssl.d1.sc.omtrdc.net |
 | metrics.xofluza.com | xofluza.com.sc.omtrdc.net |
+| t.xolairhcp.com | xolairhcp.com.122.2o7.net |
 | metrics.xolairhcp.com | xolairhcp.com.sc.omtrdc.net |
 | smetrics.yaencontre.com | yaencontre.com.data.adobedc.net |
 | smetric.yardhouse.com | yardhouse.com.ssl.sc.omtrdc.net |
@@ -7585,11 +8160,15 @@
 | stats.yourfone.de | yourfone.de.ssl.sc.omtrdc.net |
 | smetrics.yourindependentgrocer.ca | yourindependentgrocer.ca.ssl.sc.omtrdc.net |
 | metric.yp.com | yp.com.112.2o7.net |
+| smetrics.ytv.com | ytv.com.data.adobedc.net |
 | metrics.zales.com | zales.com.sc.omtrdc.net |
+| smetrics.zales.com | zales.com.ssl.sc.omtrdc.net |
 | saa.zdnet.com | zdnet.com.ssl.sc.omtrdc.net |
+| webmetrics.zebra.com | zebra.com.sc.omtrdc.net |
 | swebmetrics.zebra.com | zebra.com.ssl.sc.omtrdc.net |
 | smetrics.zehrs.ca | zehrs.ca.ssl.sc.omtrdc.net |
 | sadbmetrics.zendalibros.com | zendalibros.com.ssl.sc.omtrdc.net |
+| sstats.emersonecologics.com | zero.122.2o7.net |
 | smetrics.zexy-en-soudan.net | zexy-en-soudan.net.ssl.sc.omtrdc.net |
 | smetrics.zexy-enmusubi.net | zexy-enmusubi.net.ssl.sc.omtrdc.net |
 | ssl-omtrdc.zexy.net | zexy.net.ssl.sc.omtrdc.net |

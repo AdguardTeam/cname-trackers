@@ -107,6 +107,7 @@
     * c07c2fd1-ccb9p988.cname.ebis.ne.jp
     * c1d1d278-4j4tjcfr.cname.ebis.ne.jp
     * c266cf71-oq0xkpcx.cname.ebis.ne.jp
+    * c35cf548-urr.cname.ebis.ne.jp
     * c990b46a-cy6kqhld.cname.ebis.ne.jp
     * c9b592e5-3ddhh4av.cname.ebis.ne.jp
     * cb8eb280-2eexez7z.cname.ebis.ne.jp
@@ -127,6 +128,7 @@
     * e566cdfc-dvrv5nhw.cname.ebis.ne.jp
     * e6ffde45-yp7fpvcr.cname.ebis.ne.jp
     * e889caf6-3qe9sa9a.cname.ebis.ne.jp
+    * eae7dd77-nztumxtt.cname.ebis.ne.jp
     * eceb7b9f-6a92yces.cname.ebis.ne.jp
     * f199b50c-gy66xg6s.cname.ebis.ne.jp
     * f3054804-quxzshgd.cname.ebis.ne.jp
@@ -242,6 +244,7 @@
 | tracking.mysurance.co.jp | c07c2fd1-ccb9p988.cname.ebis.ne.jp |
 | adebis.koutsujiko.jp | c1d1d278-4j4tjcfr.cname.ebis.ne.jp |
 | adebis.angfa-store.jp | c266cf71-oq0xkpcx.cname.ebis.ne.jp |
+| ebiscname.urr.jp | c35cf548-urr.cname.ebis.ne.jp |
 | ebisfracora.fracora.com | c990b46a-cy6kqhld.cname.ebis.ne.jp |
 | adebis.urban-research.jp | c9b592e5-3ddhh4av.cname.ebis.ne.jp |
 | bbbb.goace.jp | cb8eb280-2eexez7z.cname.ebis.ne.jp |
@@ -262,6 +265,7 @@
 | ad1.tone.ne.jp | e566cdfc-dvrv5nhw.cname.ebis.ne.jp |
 | cname.lions-mansion.jp | e6ffde45-yp7fpvcr.cname.ebis.ne.jp |
 | adebis.sbpayment.jp | e889caf6-3qe9sa9a.cname.ebis.ne.jp |
+| mgn.ebis.andbe-official.com | eae7dd77-nztumxtt.cname.ebis.ne.jp |
 | adebisu.wowow.co.jp | eceb7b9f-6a92yces.cname.ebis.ne.jp |
 | sep02.hinagiku-life.jp | f199b50c-gy66xg6s.cname.ebis.ne.jp |
 | ebis2020.hoiku-job.net | f3054804-quxzshgd.cname.ebis.ne.jp |

@@ -18,7 +18,9 @@ a8.looop-denki.com CNAME .
 a8.makeshop.jp CNAME .
 a8.payse.basefood.co.jp CNAME .
 a8.print-netsquare.com CNAME .
+a8.remix-denki.com CNAME .
 a8.sakuratravel.jp CNAME .
+a8.sennendo.jp CNAME .
 a8.shopserve.jp CNAME .
 a8.ssl.aispr.jp CNAME .
 a8.tone.ne.jp CNAME .
@@ -49,6 +51,7 @@ a8clk.kenkoukazoku.co.jp CNAME .
 a8clk.life.bang.co.jp CNAME .
 a8clk.low-ya.com CNAME .
 a8clk.manage.conoha.jp CNAME .
+a8clk.netowl.jp CNAME .
 a8clk.osoujihonpo.com CNAME .
 a8clk.petitjob.jp CNAME .
 a8clk.point-land.net CNAME .
@@ -73,6 +76,7 @@ a8cv.araiba.net CNAME .
 a8cv.bettysbeauty.jp CNAME .
 a8cv.brandeuse.jp CNAME .
 a8cv.broadbandservice.jp CNAME .
+a8cv.busbookmark.jp CNAME .
 a8cv.coopnet.or.jp CNAME .
 a8cv.direct-teleshop.jp CNAME .
 a8cv.english-bootcamp.com CNAME .
@@ -87,6 +91,7 @@ a8cv.online.bell-road.com CNAME .
 a8cv.p-antiaging.com CNAME .
 a8cv.sakura-forest.com CNAME .
 a8cv.shibarinashi-wifi.jp CNAME .
+a8cv.shop.matsuo1956.jp CNAME .
 a8cv.signalift.com CNAME .
 a8cv.store.alpen-group.jp CNAME .
 a8cv.try-fs.com CNAME .

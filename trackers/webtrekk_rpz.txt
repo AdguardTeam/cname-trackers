@@ -97,6 +97,8 @@ eht.endress.com CNAME .
 fiwinet.firmenwissen.com CNAME .
 fiwinet.firmenwissen.de CNAME .
 mapp.ewm.co.uk CNAME .
+mapp.jysk.dk CNAME .
+mapp.jysk.nl CNAME .
 mapp.yesstyle.com CNAME .
 mit.db.com CNAME .
 mit.dws.com CNAME .

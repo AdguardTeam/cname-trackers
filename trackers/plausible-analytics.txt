@@ -10,6 +10,7 @@
 ||a.fdmedia.io^
 ||a.getaawp.com^
 ||a.hellonext.co^
+||a.kryptonitewp.com^
 ||a.mhthemes.com^
 ||a.skcript.com^
 ||a.visitefoz.com.br^
@@ -92,6 +93,7 @@
 ||p.classroombookings.com^
 ||p.e-bot7.com^
 ||p.fairspot.host^
+||p.neil.gg^
 ||p.nqueue.io^
 ||p.versacommerce.de^
 ||p.victoria.dev^
@@ -151,7 +153,6 @@
 ||plausible.gryka.net^
 ||plausible.gymglish.com^
 ||plausible.haltakov.net^
-||plausible.hey-soho.com^
 ||plausible.hstmedical.com^
 ||plausible.inflex.io^
 ||plausible.kabaret.no^
@@ -354,6 +355,7 @@
 ||stats.lord.io^
 ||stats.ltdhunt.com^
 ||stats.ltodrivingschools.org^
+||stats.lumen-app.com^
 ||stats.macosicons.com^
 ||stats.macroarraydx.com^
 ||stats.marcradziwill.com^
@@ -364,7 +366,6 @@
 ||stats.matthogg.fyi^
 ||stats.melvingeorge.me^
 ||stats.mesenvies.fr^
-||stats.mikepenz.dev^
 ||stats.missionrabies.com^
 ||stats.mmazzarolo.com^
 ||stats.motion-effect.com^
@@ -372,7 +373,6 @@
 ||stats.muchbetteradventures.com^
 ||stats.nddmed.com^
 ||stats.nerdbusiness.com^
-||stats.nicklafferty.com^
 ||stats.nicolaskempf.fr^
 ||stats.nodehub.io^
 ||stats.nonprofit.foundation^
@@ -483,6 +483,7 @@
 ||thumos.fileside.app^
 ||tics.seeker.gg^
 ||tics.techdirt.com^
+||tock.weg.plus^
 ||tocotronic.thomas.me^
 ||tokei.upstract.com^
 ||track.slickinbox.com^

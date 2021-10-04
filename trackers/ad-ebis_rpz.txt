@@ -109,6 +109,7 @@ ebis202001.joyfit.jp CNAME .
 ebisanalysis.mouse-jp.co.jp CNAME .
 ebiscname.clark.ed.jp CNAME .
 ebiscname.j-esthe.com CNAME .
+ebiscname.urr.jp CNAME .
 ebisfracora.fracora.com CNAME .
 ebisstore.tamagokichi.com CNAME .
 ebs.green-osaka.com CNAME .
@@ -117,6 +118,7 @@ isebis.takamiclinic.or.jp CNAME .
 isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
 maz.zba.jp CNAME .
+mgn.ebis.andbe-official.com CNAME .
 msr.p-antiaging.com CNAME .
 nadeshiko2019.kirei-nadeshiko.jp CNAME .
 ncc.nip-col.jp CNAME .

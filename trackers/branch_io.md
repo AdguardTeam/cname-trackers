@@ -292,6 +292,7 @@
 | email.goodrx.com | thirdparty.bnc.lt |
 | email.headsuphealth.com | thirdparty.bnc.lt |
 | email.link.flipgive.com | thirdparty.bnc.lt |
+| email.mail.floatme.io | thirdparty.bnc.lt |
 | email.member.theknot.com | thirdparty.bnc.lt |
 | email.mg.everyonesocial.com | thirdparty.bnc.lt |
 | email.pray.com | thirdparty.bnc.lt |
