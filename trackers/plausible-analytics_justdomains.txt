@@ -34,6 +34,7 @@ analytics.lunge.de
 analytics.mambaui.com
 analytics.mhpod.gov.au
 analytics.mondoweiss.net
+analytics.naturequant.com
 analytics.ramiyer.io
 analytics.ramiyer.me
 analytics.sixfigureswine.com
@@ -41,6 +42,7 @@ analytics.souazi.com
 analytics.ss88.us
 analytics.sweep.net
 analytics.teamcovenant.com
+analytics.top10-charts.com
 analytics.trust.page
 analytics.uxmetrics.com
 analytics.valheimgamer.com
@@ -88,6 +90,7 @@ littlebrother.makeplans.net
 loggychops.paulsmith.site
 meter.bref.sh
 momotaro.craigmod.com
+noushe.zevvle.com
 numbers.triplejack.com
 p.barrera.io
 p.classroombookings.com
@@ -112,7 +115,6 @@ pl.codetheweb.blog
 pl.ethan.link
 pl.maya-astro.fi
 pl.terraintinker.com
-pl.the-investing-desk.com
 pl.volunteeringauckland.org.nz
 pl.volunteeringwaikato.org.nz
 pl.volunteermarlborough.org.nz
@@ -131,7 +133,6 @@ plausible.banovo.de
 plausible.bearer.sh
 plausible.benscarblog.com
 plausible.bernheisel.com
-plausible.carnetsvanille.com
 plausible.conveyal.com
 plausible.corbettbarr.com
 plausible.deploymentfromscratch.com
@@ -356,9 +357,10 @@ stats.lord.io
 stats.ltdhunt.com
 stats.ltodrivingschools.org
 stats.lumen-app.com
+stats.lussoveloce.com
 stats.macosicons.com
 stats.macroarraydx.com
-stats.marcradziwill.com
+stats.maferland.com
 stats.martinbetz.eu
 stats.marudor.de
 stats.masjidbox.com
@@ -374,7 +376,6 @@ stats.muchbetteradventures.com
 stats.nddmed.com
 stats.nerdbusiness.com
 stats.nicolaskempf.fr
-stats.nodehub.io
 stats.nonprofit.foundation
 stats.nothingbutnylon.com
 stats.nrcaknights.com
@@ -450,6 +451,7 @@ stats.thelion.website
 stats.therenegadecoder.com
 stats.thomasvitale.com
 stats.toiletmap.org.uk
+stats.tomorrowacademy.org
 stats.travel.geek.nz
 stats.travelfodder.com
 stats.tresor.one

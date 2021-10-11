@@ -29,6 +29,7 @@
 | tr.asp10cr.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10hi.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2032.espmp-aufr.net | tracking.bp01.net |
+| tr.asp2075.espmp-nifr.net | tracking.bp01.net |
 | tr.b2d1.espmp-agfr.net | tracking.bp01.net |
 | tr.b2d1068.espmp-nifr.net | tracking.bp01.net |
 | tr.b2d106z.espmp-aufr.net | tracking.bp01.net |
@@ -41,6 +42,7 @@
 | tr.cacf.ipsos-surveys.com | tracking.bp01.net |
 | tr.camara.eu.com | tracking.bp01.net |
 | tr.carte.lcl.fr | tracking.bp01.net |
+| tr.cartegie.fr | tracking.bp01.net |
 | tr.cashback.floa.fr | tracking.bp01.net |
 | tr.cifa02k.espmp-aufr.net | tracking.bp01.net |
 | tr.cj.bordeaux-metropole.fr | tracking.bp01.net |
@@ -50,6 +52,7 @@
 | tr.clienti.younited-credit.it | tracking.bp01.net |
 | tr.clients-mediametrie.fr | tracking.bp01.net |
 | tr.clients.boursorama.info | tracking.bp01.net |
+| tr.clients.idaia.group | tracking.bp01.net |
 | tr.cnaf.espmp-nifr.net | tracking.bp01.net |
 | tr.collectif.groupe-vyv.fr | tracking.bp01.net |
 | tr.com-clients.sfr.fr | tracking.bp01.net |
@@ -151,6 +154,7 @@
 | tr.jkyg.espmp-cufr.net | tracking.bp01.net |
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
 | tr.krus.espmp-agfr.net | tracking.bp01.net |
+| tr.leads.direct | tracking.bp01.net |
 | tr.lesmarques.envie-de-bien-manger.com | tracking.bp01.net |
 | tr.lvmhappening.lvmh.fr | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
@@ -235,6 +239,7 @@
 | tr.notification.norrsken.fr | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |
 | tr.observatoire.musee-orsay.fr | tracking.bp01.net |
+| tr.offre-companeo.com | tracking.bp01.net |
 | tr.offres-professionnelles.fr | tracking.bp01.net |
 | tr.offres.01net.com | tracking.bp01.net |
 | tr.offres.bfmtv.com | tracking.bp01.net |
@@ -245,6 +250,7 @@
 | tr.politicolive.eu | tracking.bp01.net |
 | tr.portail.afpa.fr | tracking.bp01.net |
 | tr.pro.odalys-vacances.com | tracking.bp01.net |
+| tr.quotes4business.info | tracking.bp01.net |
 | tr.ra.cofinoga.fr | tracking.bp01.net |
 | tr.ratm.espmp-agfr.net | tracking.bp01.net |
 | tr.read.glose.com | tracking.bp01.net |

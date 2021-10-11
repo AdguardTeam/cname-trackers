@@ -188,6 +188,7 @@ bnc.autopass.xyz
 bpe.mlb.com
 bpeml.mlb.com
 br.ac.ebookers.com
+br.ac.ebookers.de
 br.ac.ebookers.fr
 br.ac.orbitz.com
 br.ac.travelocity.com
@@ -418,6 +419,7 @@ links.glamsquad.com
 links.hitrecord.org
 links.huckleberry-labs.com
 links.i.blueapron.com
+links.info.getgocafe.com
 links.info.gianteagle.com
 links.info.headspace.com
 links.info.kfc.com
@@ -489,9 +491,11 @@ tracking.laredoute.fr
 tracking.sp.sofi.com
 trk.bc.shutterfly.com
 trk.dijanow.com
+trk.e.underarmour.com
 trk.geico.com
 trk.m1.stadiumgoods.com
 trk.s.sephora.com
+trk.us.underarmour.com
 trklink.luisaviaroma.com
 url1015.abtest.em.redmart.com
 url1020.keycollectorcomics.com

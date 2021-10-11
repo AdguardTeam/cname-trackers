@@ -39,6 +39,7 @@
 | analytics.mambaui.com | custom.plausible.io |
 | analytics.mhpod.gov.au | custom.plausible.io |
 | analytics.mondoweiss.net | custom.plausible.io |
+| analytics.naturequant.com | custom.plausible.io |
 | analytics.ramiyer.io | custom.plausible.io |
 | analytics.ramiyer.me | custom.plausible.io |
 | analytics.sixfigureswine.com | custom.plausible.io |
@@ -46,6 +47,7 @@
 | analytics.ss88.us | custom.plausible.io |
 | analytics.sweep.net | custom.plausible.io |
 | analytics.teamcovenant.com | custom.plausible.io |
+| analytics.top10-charts.com | custom.plausible.io |
 | analytics.trust.page | custom.plausible.io |
 | analytics.uxmetrics.com | custom.plausible.io |
 | analytics.valheimgamer.com | custom.plausible.io |
@@ -93,6 +95,7 @@
 | loggychops.paulsmith.site | custom.plausible.io |
 | meter.bref.sh | custom.plausible.io |
 | momotaro.craigmod.com | custom.plausible.io |
+| noushe.zevvle.com | custom.plausible.io |
 | numbers.triplejack.com | custom.plausible.io |
 | p.barrera.io | custom.plausible.io |
 | p.classroombookings.com | custom.plausible.io |
@@ -117,7 +120,6 @@
 | pl.ethan.link | custom.plausible.io |
 | pl.maya-astro.fi | custom.plausible.io |
 | pl.terraintinker.com | custom.plausible.io |
-| pl.the-investing-desk.com | custom.plausible.io |
 | pl.volunteeringauckland.org.nz | custom.plausible.io |
 | pl.volunteeringwaikato.org.nz | custom.plausible.io |
 | pl.volunteermarlborough.org.nz | custom.plausible.io |
@@ -136,7 +138,6 @@
 | plausible.bearer.sh | custom.plausible.io |
 | plausible.benscarblog.com | custom.plausible.io |
 | plausible.bernheisel.com | custom.plausible.io |
-| plausible.carnetsvanille.com | custom.plausible.io |
 | plausible.conveyal.com | custom.plausible.io |
 | plausible.corbettbarr.com | custom.plausible.io |
 | plausible.deploymentfromscratch.com | custom.plausible.io |
@@ -361,9 +362,10 @@
 | stats.ltdhunt.com | custom.plausible.io |
 | stats.ltodrivingschools.org | custom.plausible.io |
 | stats.lumen-app.com | custom.plausible.io |
+| stats.lussoveloce.com | custom.plausible.io |
 | stats.macosicons.com | custom.plausible.io |
 | stats.macroarraydx.com | custom.plausible.io |
-| stats.marcradziwill.com | custom.plausible.io |
+| stats.maferland.com | custom.plausible.io |
 | stats.martinbetz.eu | custom.plausible.io |
 | stats.marudor.de | custom.plausible.io |
 | stats.masjidbox.com | custom.plausible.io |
@@ -379,7 +381,6 @@
 | stats.nddmed.com | custom.plausible.io |
 | stats.nerdbusiness.com | custom.plausible.io |
 | stats.nicolaskempf.fr | custom.plausible.io |
-| stats.nodehub.io | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
 | stats.nothingbutnylon.com | custom.plausible.io |
 | stats.nrcaknights.com | custom.plausible.io |
@@ -455,6 +456,7 @@
 | stats.therenegadecoder.com | custom.plausible.io |
 | stats.thomasvitale.com | custom.plausible.io |
 | stats.toiletmap.org.uk | custom.plausible.io |
+| stats.tomorrowacademy.org | custom.plausible.io |
 | stats.travel.geek.nz | custom.plausible.io |
 | stats.travelfodder.com | custom.plausible.io |
 | stats.tresor.one | custom.plausible.io |

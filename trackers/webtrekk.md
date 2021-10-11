@@ -48,6 +48,7 @@
     * 451504046304293.wt-eu02.net
     * 467808562573270.wt-eu02.net
     * 470719744966924.wt-eu02.net
+    * 481977157370244.wt-eu02.net
     * 484879729086450.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
@@ -106,6 +107,7 @@
     * flaconi-at.wt-eu02.net
     * gedidigital.wt-eu02.net
     * goertz-01.wt-eu02.net
+    * hbbtv-track.wt-eu02.net
     * hornbach-02.wt-eu02.net
     * ikk-classic-app03.wt-eu02.net
     * img.bergfreunde.wt-eu02.net
@@ -159,6 +161,7 @@
 | wbtrkk.teufelaudio.it | 451504046304293.wt-eu02.net |
 | a.deutschehospitality.com | 467808562573270.wt-eu02.net |
 | webt.pure.com | 470719744966924.wt-eu02.net |
+| web.marketing.elbenwald.de | 481977157370244.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
@@ -255,6 +258,7 @@
 | w3.flatex.de | flatex-de01.webtrekk.net |
 | a.gedidigital.it | gedidigital.wt-eu02.net |
 | data.goertz.de | goertz-01.wt-eu02.net |
+| hbbtv-track.prosieben.de | hbbtv-track.wt-eu02.net |
 | prophet.heise.de | heise02.webtrekk.net |
 | da.hornbach.at | hornbach-02.wt-eu02.net |
 | da.hornbach.ch | hornbach-02.wt-eu02.net |
@@ -296,6 +300,7 @@
 | trk.nuernberger.de | nuernberger02.webtrekk.net |
 | ot.obi-italia.it | obi-all.wt-eu02.net |
 | ot.obi.at | obi-all.wt-eu02.net |
+| ot.obi.ba | obi-all.wt-eu02.net |
 | ot.obi.ch | obi-all.wt-eu02.net |
 | ot.obi.cz | obi-all.wt-eu02.net |
 | ot.obi.de | obi-all.wt-eu02.net |

@@ -24,6 +24,7 @@ tr.asp10bs.espmp-aufr.net CNAME .
 tr.asp10cr.espmp-nifr.net CNAME .
 tr.asp10hi.espmp-cufr.net CNAME .
 tr.asp2032.espmp-aufr.net CNAME .
+tr.asp2075.espmp-nifr.net CNAME .
 tr.b2d1.espmp-agfr.net CNAME .
 tr.b2d1068.espmp-nifr.net CNAME .
 tr.b2d106z.espmp-aufr.net CNAME .
@@ -36,6 +37,7 @@ tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.cacf.ipsos-surveys.com CNAME .
 tr.camara.eu.com CNAME .
 tr.carte.lcl.fr CNAME .
+tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
 tr.cifa02k.espmp-aufr.net CNAME .
 tr.cj.bordeaux-metropole.fr CNAME .
@@ -45,6 +47,7 @@ tr.clienti.younited-credit.com CNAME .
 tr.clienti.younited-credit.it CNAME .
 tr.clients-mediametrie.fr CNAME .
 tr.clients.boursorama.info CNAME .
+tr.clients.idaia.group CNAME .
 tr.cnaf.espmp-nifr.net CNAME .
 tr.collectif.groupe-vyv.fr CNAME .
 tr.com-clients.sfr.fr CNAME .
@@ -146,6 +149,7 @@ tr.jevoteenligne.fr CNAME .
 tr.jkyg.espmp-cufr.net CNAME .
 tr.kpyn.espmp-cufr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
+tr.leads.direct CNAME .
 tr.lesmarques.envie-de-bien-manger.com CNAME .
 tr.lvmhappening.lvmh.fr CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
@@ -230,6 +234,7 @@ tr.notification.credit-moderne.fr CNAME .
 tr.notification.norrsken.fr CNAME .
 tr.np6.com CNAME .
 tr.observatoire.musee-orsay.fr CNAME .
+tr.offre-companeo.com CNAME .
 tr.offres-professionnelles.fr CNAME .
 tr.offres.01net.com CNAME .
 tr.offres.bfmtv.com CNAME .
@@ -240,6 +245,7 @@ tr.pole-emploi-services.com CNAME .
 tr.politicolive.eu CNAME .
 tr.portail.afpa.fr CNAME .
 tr.pro.odalys-vacances.com CNAME .
+tr.quotes4business.info CNAME .
 tr.ra.cofinoga.fr CNAME .
 tr.ratm.espmp-agfr.net CNAME .
 tr.read.glose.com CNAME .

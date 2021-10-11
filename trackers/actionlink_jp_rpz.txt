@@ -1,0 +1,6 @@
+;
+; Company name: Actionlink.jp
+;
+; mm.actionlink.jp disguised trackers
+;
+al.office-com.jp CNAME .

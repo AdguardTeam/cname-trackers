@@ -91,7 +91,6 @@ ea.natiloo.com CNAME .
 ea.nextseguros.es CNAME .
 ea.odalys-vacances.com CNAME .
 ea.odalys-vacation-rental.com CNAME .
-ea.officedepot.fr CNAME .
 ea.placedestendances.com CNAME .
 ea.poeleaboismaison.com CNAME .
 ea.quiksilver.eu CNAME .
@@ -119,7 +118,6 @@ ef.futuroscope.mobi CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 eule1.pmu.fr CNAME .
 eulerian.astro-way.com CNAME .
@@ -172,7 +170,6 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 he6e.lavieimmo.com CNAME .
 hgf4.zanzicar.fr CNAME .
-hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
@@ -338,6 +335,7 @@ wfd7.carventura.com CNAME .
 why3.inseec.education CNAME .
 wph2.destinia.us CNAME .
 xay5o.toscane-boutique.fr CNAME .
+xjq5.belambra.be CNAME .
 xy33.smallable.com CNAME .
 yf5.voyage-prive.at CNAME .
 yh6u.dealeusedevoyages.com CNAME .

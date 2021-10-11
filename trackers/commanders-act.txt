@@ -3,11 +3,13 @@
 !
 ! tagcommander.com disguised trackers
 !
+||acquisition.klm.com^
 ||data.decathlon.de^
 ||data.decathlon.es^
 ||data.decathlon.fr^
 ||data.decathlon.it^
 ||data.ouigo.com^
+||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^

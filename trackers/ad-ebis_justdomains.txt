@@ -87,6 +87,7 @@ ebis.hokensoudannavi.jp
 ebis.jobcan.ne.jp
 ebis.kubara.jp
 ebis.la-coco.com
+ebis.n-pri.jp
 ebis.nomu-silica.jp
 ebis.okasan-online.co.jp
 ebis.onamae.com

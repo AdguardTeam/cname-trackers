@@ -34,6 +34,7 @@ analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
 analytics.mhpod.gov.au CNAME .
 analytics.mondoweiss.net CNAME .
+analytics.naturequant.com CNAME .
 analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
 analytics.sixfigureswine.com CNAME .
@@ -41,6 +42,7 @@ analytics.souazi.com CNAME .
 analytics.ss88.us CNAME .
 analytics.sweep.net CNAME .
 analytics.teamcovenant.com CNAME .
+analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
 analytics.valheimgamer.com CNAME .
@@ -88,6 +90,7 @@ littlebrother.makeplans.net CNAME .
 loggychops.paulsmith.site CNAME .
 meter.bref.sh CNAME .
 momotaro.craigmod.com CNAME .
+noushe.zevvle.com CNAME .
 numbers.triplejack.com CNAME .
 p.barrera.io CNAME .
 p.classroombookings.com CNAME .
@@ -112,7 +115,6 @@ pl.codetheweb.blog CNAME .
 pl.ethan.link CNAME .
 pl.maya-astro.fi CNAME .
 pl.terraintinker.com CNAME .
-pl.the-investing-desk.com CNAME .
 pl.volunteeringauckland.org.nz CNAME .
 pl.volunteeringwaikato.org.nz CNAME .
 pl.volunteermarlborough.org.nz CNAME .
@@ -131,7 +133,6 @@ plausible.banovo.de CNAME .
 plausible.bearer.sh CNAME .
 plausible.benscarblog.com CNAME .
 plausible.bernheisel.com CNAME .
-plausible.carnetsvanille.com CNAME .
 plausible.conveyal.com CNAME .
 plausible.corbettbarr.com CNAME .
 plausible.deploymentfromscratch.com CNAME .
@@ -356,9 +357,10 @@ stats.lord.io CNAME .
 stats.ltdhunt.com CNAME .
 stats.ltodrivingschools.org CNAME .
 stats.lumen-app.com CNAME .
+stats.lussoveloce.com CNAME .
 stats.macosicons.com CNAME .
 stats.macroarraydx.com CNAME .
-stats.marcradziwill.com CNAME .
+stats.maferland.com CNAME .
 stats.martinbetz.eu CNAME .
 stats.marudor.de CNAME .
 stats.masjidbox.com CNAME .
@@ -374,7 +376,6 @@ stats.muchbetteradventures.com CNAME .
 stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
 stats.nicolaskempf.fr CNAME .
-stats.nodehub.io CNAME .
 stats.nonprofit.foundation CNAME .
 stats.nothingbutnylon.com CNAME .
 stats.nrcaknights.com CNAME .
@@ -450,6 +451,7 @@ stats.thelion.website CNAME .
 stats.therenegadecoder.com CNAME .
 stats.thomasvitale.com CNAME .
 stats.toiletmap.org.uk CNAME .
+stats.tomorrowacademy.org CNAME .
 stats.travel.geek.nz CNAME .
 stats.travelfodder.com CNAME .
 stats.tresor.one CNAME .

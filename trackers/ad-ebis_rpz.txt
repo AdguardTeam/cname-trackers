@@ -87,6 +87,7 @@ ebis.hokensoudannavi.jp CNAME .
 ebis.jobcan.ne.jp CNAME .
 ebis.kubara.jp CNAME .
 ebis.la-coco.com CNAME .
+ebis.n-pri.jp CNAME .
 ebis.nomu-silica.jp CNAME .
 ebis.okasan-online.co.jp CNAME .
 ebis.onamae.com CNAME .

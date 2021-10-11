@@ -24,6 +24,7 @@ tr.asp10bs.espmp-aufr.net
 tr.asp10cr.espmp-nifr.net
 tr.asp10hi.espmp-cufr.net
 tr.asp2032.espmp-aufr.net
+tr.asp2075.espmp-nifr.net
 tr.b2d1.espmp-agfr.net
 tr.b2d1068.espmp-nifr.net
 tr.b2d106z.espmp-aufr.net
@@ -36,6 +37,7 @@ tr.cacf-acq.ipsos-surveys.com
 tr.cacf.ipsos-surveys.com
 tr.camara.eu.com
 tr.carte.lcl.fr
+tr.cartegie.fr
 tr.cashback.floa.fr
 tr.cifa02k.espmp-aufr.net
 tr.cj.bordeaux-metropole.fr
@@ -45,6 +47,7 @@ tr.clienti.younited-credit.com
 tr.clienti.younited-credit.it
 tr.clients-mediametrie.fr
 tr.clients.boursorama.info
+tr.clients.idaia.group
 tr.cnaf.espmp-nifr.net
 tr.collectif.groupe-vyv.fr
 tr.com-clients.sfr.fr
@@ -146,6 +149,7 @@ tr.jevoteenligne.fr
 tr.jkyg.espmp-cufr.net
 tr.kpyn.espmp-cufr.net
 tr.krus.espmp-agfr.net
+tr.leads.direct
 tr.lesmarques.envie-de-bien-manger.com
 tr.lvmhappening.lvmh.fr
 tr.mail.enviedebienmanger.fr
@@ -230,6 +234,7 @@ tr.notification.credit-moderne.fr
 tr.notification.norrsken.fr
 tr.np6.com
 tr.observatoire.musee-orsay.fr
+tr.offre-companeo.com
 tr.offres-professionnelles.fr
 tr.offres.01net.com
 tr.offres.bfmtv.com
@@ -240,6 +245,7 @@ tr.pole-emploi-services.com
 tr.politicolive.eu
 tr.portail.afpa.fr
 tr.pro.odalys-vacances.com
+tr.quotes4business.info
 tr.ra.cofinoga.fr
 tr.ratm.espmp-agfr.net
 tr.read.glose.com

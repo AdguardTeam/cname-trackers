@@ -50,6 +50,7 @@
 ||a8clk.kenkoukazoku.co.jp^
 ||a8clk.life.bang.co.jp^
 ||a8clk.low-ya.com^
+||a8clk.macpaw.com^
 ||a8clk.manage.conoha.jp^
 ||a8clk.netowl.jp^
 ||a8clk.osoujihonpo.com^

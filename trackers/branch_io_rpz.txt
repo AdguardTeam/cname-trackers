@@ -188,6 +188,7 @@ bnc.autopass.xyz CNAME .
 bpe.mlb.com CNAME .
 bpeml.mlb.com CNAME .
 br.ac.ebookers.com CNAME .
+br.ac.ebookers.de CNAME .
 br.ac.ebookers.fr CNAME .
 br.ac.orbitz.com CNAME .
 br.ac.travelocity.com CNAME .
@@ -418,6 +419,7 @@ links.glamsquad.com CNAME .
 links.hitrecord.org CNAME .
 links.huckleberry-labs.com CNAME .
 links.i.blueapron.com CNAME .
+links.info.getgocafe.com CNAME .
 links.info.gianteagle.com CNAME .
 links.info.headspace.com CNAME .
 links.info.kfc.com CNAME .
@@ -489,9 +491,11 @@ tracking.laredoute.fr CNAME .
 tracking.sp.sofi.com CNAME .
 trk.bc.shutterfly.com CNAME .
 trk.dijanow.com CNAME .
+trk.e.underarmour.com CNAME .
 trk.geico.com CNAME .
 trk.m1.stadiumgoods.com CNAME .
 trk.s.sephora.com CNAME .
+trk.us.underarmour.com CNAME .
 trklink.luisaviaroma.com CNAME .
 url1015.abtest.em.redmart.com CNAME .
 url1020.keycollectorcomics.com CNAME .

@@ -56,6 +56,7 @@
 | a8clk.kenkoukazoku.co.jp | trck.a8.net |
 | a8clk.life.bang.co.jp | trck.a8.net |
 | a8clk.low-ya.com | trck.a8.net |
+| a8clk.macpaw.com | trck.a8.net |
 | a8clk.manage.conoha.jp | trck.a8.net |
 | a8clk.netowl.jp | trck.a8.net |
 | a8clk.osoujihonpo.com | trck.a8.net |

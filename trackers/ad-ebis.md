@@ -119,6 +119,7 @@
     * d473741d-bagmsfc6.cname.ebis.ne.jp
     * d4aca7c0-gwd6au9d.cname.ebis.ne.jp
     * d64474bb-20mouroy.cname.ebis.ne.jp
+    * d8891d4f-5qfabvkt.cname.ebis.ne.jp
     * d9a8eccf-fgsftzrs.cname.ebis.ne.jp
     * dae17865-vqh9uah6.cname.ebis.ne.jp
     * df09ac2e-bagmsfc6.cname.ebis.ne.jp
@@ -256,6 +257,7 @@
 | adebis.real-style.co.jp | d473741d-bagmsfc6.cname.ebis.ne.jp |
 | adpromo.peppynet.com | d4aca7c0-gwd6au9d.cname.ebis.ne.jp |
 | ebis.okasan-online.co.jp | d64474bb-20mouroy.cname.ebis.ne.jp |
+| ebis.n-pri.jp | d8891d4f-5qfabvkt.cname.ebis.ne.jp |
 | ebiscname.clark.ed.jp | d9a8eccf-fgsftzrs.cname.ebis.ne.jp |
 | ebis.biyo-job.com | dae17865-vqh9uah6.cname.ebis.ne.jp |
 | real-fitness2019.real-fitness.jp | df09ac2e-bagmsfc6.cname.ebis.ne.jp |
