@@ -29,6 +29,7 @@ Build:
             cd script
             yarn install
             yarn start
+            rm -rf node_modules
     - any-task:
         plugin-key: com.atlassian.bamboo.plugins.vcs:task.vcs.commit
         configuration:
