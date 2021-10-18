@@ -63,8 +63,10 @@ ablink.email.pray.com CNAME .
 ablink.email.pressreader.com CNAME .
 ablink.emails.spothero.com CNAME .
 ablink.emails.themarket.nz CNAME .
+ablink.emails.vida.com CNAME .
 ablink.engage.hipages.com.au CNAME .
 ablink.engage.insighttimer.com CNAME .
+ablink.enjoy.wonder.com CNAME .
 ablink.feed.liven.com.au CNAME .
 ablink.go1.zip.co CNAME .
 ablink.go2.zip.co CNAME .
@@ -138,6 +140,7 @@ ablink.tchicken.popeyes.com CNAME .
 ablink.test.iheart.com CNAME .
 ablink.test.kfc.com.au CNAME .
 ablink.test.skyscanner.net CNAME .
+ablink.test.vida.com CNAME .
 ablink.thekingdom.bk.com CNAME .
 ablink.thekitchen.popeyes.com CNAME .
 ablink.track.popeyes.com CNAME .
@@ -166,6 +169,7 @@ ablinksuni.a.seamless.com CNAME .
 abmail2.e.hungryjacks.com.au CNAME .
 abtest.em.redmart.com CNAME .
 abtest.redmart.com CNAME .
+abtestmail.em.redmart.com CNAME .
 activation.depop.com CNAME .
 alerts.steadyapp.com CNAME .
 alinks.outcomes4me.com CNAME .
@@ -388,6 +392,8 @@ links.automated.almosafer.com CNAME .
 links.automated.tajawal.com CNAME .
 links.blueapron.com CNAME .
 links.boxed.com CNAME .
+links.br.discoveryplus.com CNAME .
+links.ca.discoveryplus.com CNAME .
 links.colonelsclub.kfc.com CNAME .
 links.customers.instacartemail.com CNAME .
 links.dice.fm CNAME .

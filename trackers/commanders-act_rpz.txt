@@ -3,7 +3,6 @@
 ;
 ; tagcommander.com disguised trackers
 ;
-acquisition.klm.com CNAME .
 data.decathlon.de CNAME .
 data.decathlon.es CNAME .
 data.decathlon.fr CNAME .
@@ -22,6 +21,7 @@ tcdata.fnac.com CNAME .
 ;
 ; ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com disguised trackers
 ;
+acquisition.klm.com CNAME .
 data.cofinoga.fr CNAME .
 data.decathlon.it CNAME .
 data.ouigo.com CNAME .

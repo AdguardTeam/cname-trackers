@@ -66,6 +66,8 @@ tr.communication.harmonie-mutuelle.fr CNAME .
 tr.communication.lvmh.fr CNAME .
 tr.communication.moethennessy.com CNAME .
 tr.communication.numericable.fr CNAME .
+tr.communication.offresb2b.fr CNAME .
+tr.compte.fca-capital-france.fr CNAME .
 tr.contact.canalplus.fr CNAME .
 tr.courriel.ouestnormandie.cci.fr CNAME .
 tr.courrier.charentelibre.fr CNAME .
@@ -76,6 +78,7 @@ tr.devis-companeo.com CNAME .
 tr.devis-companeo.fr CNAME .
 tr.devis-express.be CNAME .
 tr.devis.digital CNAME .
+tr.devize-companeo.ro CNAME .
 tr.donateur.afm-telethon.fr CNAME .
 tr.e-mail.axa.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
@@ -163,6 +166,7 @@ tr.mailing.r2e-humanis.fr CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.younited-credit.com CNAME .
 tr.mart.espmp-agfr.net CNAME .
+tr.membres.boursorama.info CNAME .
 tr.mhist.moethennessy.com CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
@@ -202,14 +206,17 @@ tr.news.meillandrichardier.com CNAME .
 tr.news.mi-oferta.es CNAME .
 tr.news.perfectstay.com CNAME .
 tr.news.smartdeals-transavia-fr.com CNAME .
+tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
 tr.news.thelist-emirates.fr CNAME .
+tr.news.toocampmail.com CNAME .
 tr.news.vipmag.fr CNAME .
 tr.news.voyagesleclerc.com CNAME .
 tr.news.vraaguwofferte.be CNAME .
 tr.news.younited-coach.com CNAME .
 tr.news.younited-credit.com CNAME .
 tr.news2pjms.fr CNAME .
+tr.news6.cdiscount.com CNAME .
 tr.newsletter.assuragency.net CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
@@ -239,6 +246,7 @@ tr.offres-professionnelles.fr CNAME .
 tr.offres.01net.com CNAME .
 tr.offres.bfmtv.com CNAME .
 tr.offrevip.floa.fr CNAME .
+tr.orange-lease.fr CNAME .
 tr.orcamentos-companeo.pt CNAME .
 tr.panels-mediametrie.fr CNAME .
 tr.pole-emploi-services.com CNAME .
@@ -262,6 +270,7 @@ tr.services.caradisiac.com CNAME .
 tr.servicesclients.canalplus.fr CNAME .
 tr.servicoaocliente.younited-credit.com CNAME .
 tr.smtp1.email-mediapost.fr CNAME .
+tr.solution.uneo.fr CNAME .
 tr.souscription.floa.fr CNAME .
 tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .
@@ -273,6 +282,7 @@ tr.vous.hellobank.fr CNAME .
 tr.welcome.easyvoyage.co.uk CNAME .
 tr.welcome.easyvoyage.com CNAME .
 tr.welcome.lexpress.fr CNAME .
+tr.welcome.vipmag.fr CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.mailperf.com CNAME .
 trpreviews.bp01.net CNAME .

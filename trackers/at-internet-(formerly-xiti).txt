@@ -33,6 +33,7 @@
 ||hd.pe.fr^
 ||image.ard.de^
 ||image.mdr.de^
+||insights.biallo.de^
 ||insights.sport1.de^
 ||johannes.voith.com^
 ||kiki.rireetchansons.fr^
@@ -59,6 +60,7 @@
 ||salzwerk.viessmann.de^
 ||sheeta.nrj-play.fr^
 ||st1.lg.avendrealouer.fr^
+||steinbackhaus.viessmann.com^
 ||steinernehaus.viessmann.at^
 ||strawberry.basf.com^
 ||tm.urssaf.fr^

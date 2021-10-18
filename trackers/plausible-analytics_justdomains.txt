@@ -72,6 +72,7 @@ data.netweaver.uk
 datum.appfleet.com
 dragon.moneycoach.io
 eliteclng.ericksonbuilt.com
+external.techopian.com
 f8phvntohv.tpetry.me
 ftllrl.fotoallerlei.com
 gullfoss.deepsource.io
@@ -163,6 +164,7 @@ plausible.lovesdata.com
 plausible.mattpruitt.com
 plausible.microwire.info
 plausible.moncefbelyamani.com
+plausible.notiontweet.app
 plausible.nova.app
 plausible.nubemia.com
 plausible.nuqu.org
@@ -193,6 +195,7 @@ plausible.zorin.com
 pls.indiemakers.fr
 plsbl.edison.se
 pm.redbull.com
+prism.raumgleiter.com
 pstat.akathists.com
 retention.ankidecks.com
 s.80000hours.org
@@ -230,7 +233,6 @@ stats.am.ai
 stats.amiibo.life
 stats.arquido.com
 stats.audiorelay.net
-stats.avedictionary.com
 stats.backprop.co
 stats.baptistwomen.com
 stats.barriestephenhair.co.uk
@@ -446,6 +448,7 @@ stats.steuer-soldaten.de
 stats.stopchikane.nu
 stats.strawberry.rocks
 stats.sublimesecurity.com
+stats.sushibyte.io
 stats.svenadolph.net
 stats.thelion.website
 stats.therenegadecoder.com
@@ -477,7 +480,6 @@ stats.www.agirpourlenvironnement.org
 stats.x5x.host
 stats.yourdallashandyman.com
 stats.zander.wtf
-stats3.ferheng.co
 statystyki.ekspertyzy-szkolenia.pl
 sts.papyrs.com
 t.andarpersassi.it

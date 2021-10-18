@@ -33,6 +33,7 @@ hal.courrierinternational.com CNAME .
 hd.pe.fr CNAME .
 image.ard.de CNAME .
 image.mdr.de CNAME .
+insights.biallo.de CNAME .
 insights.sport1.de CNAME .
 johannes.voith.com CNAME .
 kiki.rireetchansons.fr CNAME .
@@ -59,6 +60,7 @@ rsc.lepoint.fr CNAME .
 salzwerk.viessmann.de CNAME .
 sheeta.nrj-play.fr CNAME .
 st1.lg.avendrealouer.fr CNAME .
+steinbackhaus.viessmann.com CNAME .
 steinernehaus.viessmann.at CNAME .
 strawberry.basf.com CNAME .
 tm.urssaf.fr CNAME .

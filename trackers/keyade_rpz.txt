@@ -21,12 +21,10 @@ k.laredoute.nl CNAME .
 k.laredoute.ru CNAME .
 k.premiereclasse.com CNAME .
 k.rueducommerce.fr CNAME .
-k.terdav.com CNAME .
 k.truffaut.com CNAME .
 k.veepee.fr CNAME .
 k.veepee.it CNAME .
 k.voyageursdumonde.fr CNAME .
-k.yves-rocher.fr CNAME .
 ka.ilius.net CNAME .
 keyade.alltricks.fr CNAME .
 tck.photobox.com CNAME .

@@ -11,11 +11,13 @@
 ||a8.geo-online.co.jp^
 ||a8.haptic.co.jp^
 ||a8.hitohana.tokyo^
+||a8.i-netservice.net^
 ||a8.instokyo.com^
 ||a8.lavie-official.jp^
 ||a8.lens-labo.com^
 ||a8.looop-denki.com^
 ||a8.makeshop.jp^
+||a8.nosh.jp^
 ||a8.payse.basefood.co.jp^
 ||a8.print-netsquare.com^
 ||a8.remix-denki.com^
@@ -70,6 +72,7 @@
 ||a8clk.www.nortonstore.jp^
 ||a8clk.xserver.ne.jp^
 ||a8clk.yourmystar.jp^
+||a8cv.464981.com^
 ||a8cv.a-resort.jp^
 ||a8cv.all-plan.co.jp^
 ||a8cv.amiami.jp^
@@ -108,6 +111,7 @@
 ||a8sup.chapup.jp^
 ||a8trck.aisatsujo.jp^
 ||a8trck.worldone.to^
+||acv.cmf-hikari.net^
 ||afi.ssl.gmobb.jp^
 ||analytics.villagehouse.jp^
 ||cart.matsuzaka-steak.com^

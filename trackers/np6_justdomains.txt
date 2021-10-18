@@ -66,6 +66,8 @@ tr.communication.harmonie-mutuelle.fr
 tr.communication.lvmh.fr
 tr.communication.moethennessy.com
 tr.communication.numericable.fr
+tr.communication.offresb2b.fr
+tr.compte.fca-capital-france.fr
 tr.contact.canalplus.fr
 tr.courriel.ouestnormandie.cci.fr
 tr.courrier.charentelibre.fr
@@ -76,6 +78,7 @@ tr.devis-companeo.com
 tr.devis-companeo.fr
 tr.devis-express.be
 tr.devis.digital
+tr.devize-companeo.ro
 tr.donateur.afm-telethon.fr
 tr.e-mail.axa.fr
 tr.e.entreprise-pm.net
@@ -163,6 +166,7 @@ tr.mailing.r2e-humanis.fr
 tr.marg02n.espmp-agfr.net
 tr.marketing.younited-credit.com
 tr.mart.espmp-agfr.net
+tr.membres.boursorama.info
 tr.mhist.moethennessy.com
 tr.mm.infopro-digital.com
 tr.mnoc.espmp-nifr.net
@@ -202,14 +206,17 @@ tr.news.meillandrichardier.com
 tr.news.mi-oferta.es
 tr.news.perfectstay.com
 tr.news.smartdeals-transavia-fr.com
+tr.news.smartdealstransavia-fr.com
 tr.news.sport2000.fr
 tr.news.thelist-emirates.fr
+tr.news.toocampmail.com
 tr.news.vipmag.fr
 tr.news.voyagesleclerc.com
 tr.news.vraaguwofferte.be
 tr.news.younited-coach.com
 tr.news.younited-credit.com
 tr.news2pjms.fr
+tr.news6.cdiscount.com
 tr.newsletter.assuragency.net
 tr.newsletter.bouygues-construction.com
 tr.newsletter.capdecision.fr
@@ -239,6 +246,7 @@ tr.offres-professionnelles.fr
 tr.offres.01net.com
 tr.offres.bfmtv.com
 tr.offrevip.floa.fr
+tr.orange-lease.fr
 tr.orcamentos-companeo.pt
 tr.panels-mediametrie.fr
 tr.pole-emploi-services.com
@@ -262,6 +270,7 @@ tr.services.caradisiac.com
 tr.servicesclients.canalplus.fr
 tr.servicoaocliente.younited-credit.com
 tr.smtp1.email-mediapost.fr
+tr.solution.uneo.fr
 tr.souscription.floa.fr
 tr.toner-service.fr
 tr.toner-services.fr
@@ -273,6 +282,7 @@ tr.vous.hellobank.fr
 tr.welcome.easyvoyage.co.uk
 tr.welcome.easyvoyage.com
 tr.welcome.lexpress.fr
+tr.welcome.vipmag.fr
 tr1.citroen-ipsos.com
 tr1.mailperf.com
 trpreviews.bp01.net

@@ -63,8 +63,10 @@
 ||ablink.email.pressreader.com^
 ||ablink.emails.spothero.com^
 ||ablink.emails.themarket.nz^
+||ablink.emails.vida.com^
 ||ablink.engage.hipages.com.au^
 ||ablink.engage.insighttimer.com^
+||ablink.enjoy.wonder.com^
 ||ablink.feed.liven.com.au^
 ||ablink.go1.zip.co^
 ||ablink.go2.zip.co^
@@ -138,6 +140,7 @@
 ||ablink.test.iheart.com^
 ||ablink.test.kfc.com.au^
 ||ablink.test.skyscanner.net^
+||ablink.test.vida.com^
 ||ablink.thekingdom.bk.com^
 ||ablink.thekitchen.popeyes.com^
 ||ablink.track.popeyes.com^
@@ -166,6 +169,7 @@
 ||abmail2.e.hungryjacks.com.au^
 ||abtest.em.redmart.com^
 ||abtest.redmart.com^
+||abtestmail.em.redmart.com^
 ||activation.depop.com^
 ||alerts.steadyapp.com^
 ||alinks.outcomes4me.com^
@@ -388,6 +392,8 @@
 ||links.automated.tajawal.com^
 ||links.blueapron.com^
 ||links.boxed.com^
+||links.br.discoveryplus.com^
+||links.ca.discoveryplus.com^
 ||links.colonelsclub.kfc.com^
 ||links.customers.instacartemail.com^
 ||links.dice.fm^

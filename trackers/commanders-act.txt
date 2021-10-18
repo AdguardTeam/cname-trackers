@@ -3,7 +3,6 @@
 !
 ! tagcommander.com disguised trackers
 !
-||acquisition.klm.com^
 ||data.decathlon.de^
 ||data.decathlon.es^
 ||data.decathlon.fr^
@@ -22,6 +21,7 @@
 !
 ! ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com disguised trackers
 !
+||acquisition.klm.com^
 ||data.cofinoga.fr^
 ||data.decathlon.it^
 ||data.ouigo.com^

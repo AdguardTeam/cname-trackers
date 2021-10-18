@@ -21,12 +21,10 @@
 ||k.laredoute.ru^
 ||k.premiereclasse.com^
 ||k.rueducommerce.fr^
-||k.terdav.com^
 ||k.truffaut.com^
 ||k.veepee.fr^
 ||k.veepee.it^
 ||k.voyageursdumonde.fr^
-||k.yves-rocher.fr^
 ||ka.ilius.net^
 ||keyade.alltricks.fr^
 ||tck.photobox.com^

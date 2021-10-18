@@ -73,8 +73,10 @@
 | ablink.email.pressreader.com | thirdparty.bnc.lt |
 | ablink.emails.spothero.com | thirdparty.bnc.lt |
 | ablink.emails.themarket.nz | thirdparty.bnc.lt |
+| ablink.emails.vida.com | thirdparty.bnc.lt |
 | ablink.engage.hipages.com.au | thirdparty.bnc.lt |
 | ablink.engage.insighttimer.com | thirdparty.bnc.lt |
+| ablink.enjoy.wonder.com | thirdparty.bnc.lt |
 | ablink.feed.liven.com.au | thirdparty.bnc.lt |
 | ablink.go1.zip.co | thirdparty.bnc.lt |
 | ablink.go2.zip.co | thirdparty.bnc.lt |
@@ -148,6 +150,7 @@
 | ablink.test.iheart.com | thirdparty.bnc.lt |
 | ablink.test.kfc.com.au | thirdparty.bnc.lt |
 | ablink.test.skyscanner.net | thirdparty.bnc.lt |
+| ablink.test.vida.com | thirdparty.bnc.lt |
 | ablink.thekingdom.bk.com | thirdparty.bnc.lt |
 | ablink.thekitchen.popeyes.com | thirdparty.bnc.lt |
 | ablink.track.popeyes.com | thirdparty.bnc.lt |
@@ -176,6 +179,7 @@
 | abmail2.e.hungryjacks.com.au | thirdparty.bnc.lt |
 | abtest.em.redmart.com | thirdparty.bnc.lt |
 | abtest.redmart.com | thirdparty.bnc.lt |
+| abtestmail.em.redmart.com | thirdparty.bnc.lt |
 | activation.depop.com | thirdparty.bnc.lt |
 | alerts.steadyapp.com | thirdparty.bnc.lt |
 | alinks.outcomes4me.com | thirdparty.bnc.lt |
@@ -395,6 +399,8 @@
 | links.automated.tajawal.com | thirdparty.bnc.lt |
 | links.blueapron.com | thirdparty.bnc.lt |
 | links.boxed.com | thirdparty.bnc.lt |
+| links.br.discoveryplus.com | thirdparty.bnc.lt |
+| links.ca.discoveryplus.com | thirdparty.bnc.lt |
 | links.colonelsclub.kfc.com | thirdparty.bnc.lt |
 | links.customers.instacartemail.com | thirdparty.bnc.lt |
 | links.dice.fm | thirdparty.bnc.lt |

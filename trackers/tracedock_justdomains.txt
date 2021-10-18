@@ -5,9 +5,7 @@
 #
 2tty.overstappen.nl
 bc.semwerkt.nl
-bound.sightful.be
 cms.hardloopaanbiedingen.nl
-ee.sightful.nl
 en.johnhardy.com
 s1.carnext.com
 #

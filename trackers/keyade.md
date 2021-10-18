@@ -27,12 +27,10 @@
 | k.laredoute.ru | k.keyade.com |
 | k.premiereclasse.com | k.keyade.com |
 | k.rueducommerce.fr | k.keyade.com |
-| k.terdav.com | k.keyade.com |
 | k.truffaut.com | k.keyade.com |
 | k.veepee.fr | k.keyade.com |
 | k.veepee.it | k.keyade.com |
 | k.voyageursdumonde.fr | k.keyade.com |
-| k.yves-rocher.fr | k.keyade.com |
 | keyade.alltricks.fr | k.keyade.com |
 | tck.photobox.com | k.keyade.com |
 | tck.transavia.com | k.keyade.com |

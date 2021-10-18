@@ -5,9 +5,7 @@
 ;
 2tty.overstappen.nl CNAME .
 bc.semwerkt.nl CNAME .
-bound.sightful.be CNAME .
 cms.hardloopaanbiedingen.nl CNAME .
-ee.sightful.nl CNAME .
 en.johnhardy.com CNAME .
 s1.carnext.com CNAME .
 ;

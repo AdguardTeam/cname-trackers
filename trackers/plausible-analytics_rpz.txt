@@ -72,6 +72,7 @@ data.netweaver.uk CNAME .
 datum.appfleet.com CNAME .
 dragon.moneycoach.io CNAME .
 eliteclng.ericksonbuilt.com CNAME .
+external.techopian.com CNAME .
 f8phvntohv.tpetry.me CNAME .
 ftllrl.fotoallerlei.com CNAME .
 gullfoss.deepsource.io CNAME .
@@ -163,6 +164,7 @@ plausible.lovesdata.com CNAME .
 plausible.mattpruitt.com CNAME .
 plausible.microwire.info CNAME .
 plausible.moncefbelyamani.com CNAME .
+plausible.notiontweet.app CNAME .
 plausible.nova.app CNAME .
 plausible.nubemia.com CNAME .
 plausible.nuqu.org CNAME .
@@ -193,6 +195,7 @@ plausible.zorin.com CNAME .
 pls.indiemakers.fr CNAME .
 plsbl.edison.se CNAME .
 pm.redbull.com CNAME .
+prism.raumgleiter.com CNAME .
 pstat.akathists.com CNAME .
 retention.ankidecks.com CNAME .
 s.80000hours.org CNAME .
@@ -230,7 +233,6 @@ stats.am.ai CNAME .
 stats.amiibo.life CNAME .
 stats.arquido.com CNAME .
 stats.audiorelay.net CNAME .
-stats.avedictionary.com CNAME .
 stats.backprop.co CNAME .
 stats.baptistwomen.com CNAME .
 stats.barriestephenhair.co.uk CNAME .
@@ -446,6 +448,7 @@ stats.steuer-soldaten.de CNAME .
 stats.stopchikane.nu CNAME .
 stats.strawberry.rocks CNAME .
 stats.sublimesecurity.com CNAME .
+stats.sushibyte.io CNAME .
 stats.svenadolph.net CNAME .
 stats.thelion.website CNAME .
 stats.therenegadecoder.com CNAME .
@@ -477,7 +480,6 @@ stats.www.agirpourlenvironnement.org CNAME .
 stats.x5x.host CNAME .
 stats.yourdallashandyman.com CNAME .
 stats.zander.wtf CNAME .
-stats3.ferheng.co CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
 sts.papyrs.com CNAME .
 t.andarpersassi.it CNAME .
