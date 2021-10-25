@@ -12,6 +12,7 @@
 ||19035955.loyalty.tajawal.com^
 ||19035955.mktg.tajawal.com^
 ||5363316.marketing.numi.com^
+||5709751.ab.soul-cycle.email^
 ||6519114.automated.tajawal.com^
 ||6519114.email.tajawal.com^
 ||6519114.loyalty.almosafer.com^
@@ -166,6 +167,7 @@
 ||ablinksemail.wirexapp.com^
 ||ablinksuni.a.grubhub.com^
 ||ablinksuni.a.seamless.com^
+||abmail.test.iheart.com^
 ||abmail2.e.hungryjacks.com.au^
 ||abtest.em.redmart.com^
 ||abtest.redmart.com^
@@ -420,6 +422,10 @@
 ||links.email.usanetwork.com^
 ||links.emails.verishop.com^
 ||links.evault.history.com^
+||links.fabletics.co.uk^
+||links.fabletics.com^
+||links.fabletics.de^
+||links.fabletics.fr^
 ||links.fitbod.me^
 ||links.glamsquad.com^
 ||links.hitrecord.org^
@@ -429,6 +435,10 @@
 ||links.info.gianteagle.com^
 ||links.info.headspace.com^
 ||links.info.kfc.com^
+||links.justfab.com^
+||links.justfab.de^
+||links.justfab.es^
+||links.justfab.fr^
 ||links.m.blueapron.com^
 ||links.mail.allbirds.com^
 ||links.mail.stubhub.com^

@@ -37,6 +37,7 @@
 | analytics.lapiazzetta-horsham.com | custom.plausible.io |
 | analytics.lunge.de | custom.plausible.io |
 | analytics.mambaui.com | custom.plausible.io |
+| analytics.mc500.info | custom.plausible.io |
 | analytics.mhpod.gov.au | custom.plausible.io |
 | analytics.mondoweiss.net | custom.plausible.io |
 | analytics.naturequant.com | custom.plausible.io |
@@ -73,7 +74,6 @@
 | connect.astrobotanicals.com | custom.plausible.io |
 | counter.proxycrawl.com | custom.plausible.io |
 | counter.subtitlebee.com | custom.plausible.io |
-| data.netweaver.uk | custom.plausible.io |
 | datum.appfleet.com | custom.plausible.io |
 | dragon.moneycoach.io | custom.plausible.io |
 | eliteclng.ericksonbuilt.com | custom.plausible.io |
@@ -88,6 +88,7 @@
 | informatics.filamentcolors.xyz | custom.plausible.io |
 | insights.affilimate.com | custom.plausible.io |
 | insights.frenchtogether.com | custom.plausible.io |
+| insights.growwithless.com | custom.plausible.io |
 | iwonttrackyou.xn--gckvb8fzb.com | custom.plausible.io |
 | juniper.starleaf.com | custom.plausible.io |
 | ks.walkq.com | custom.plausible.io |
@@ -95,6 +96,7 @@
 | littlebrother.makeplans.net | custom.plausible.io |
 | loggychops.paulsmith.site | custom.plausible.io |
 | meter.bref.sh | custom.plausible.io |
+| miernik.technologiewdomu.pl | custom.plausible.io |
 | momotaro.craigmod.com | custom.plausible.io |
 | noushe.zevvle.com | custom.plausible.io |
 | numbers.triplejack.com | custom.plausible.io |
@@ -127,6 +129,7 @@
 | pla.wigglepixel.nl | custom.plausible.io |
 | plas.imfeld.dev | custom.plausible.io |
 | plau.devitjobs.uk | custom.plausible.io |
+| plau.devitjobs.us | custom.plausible.io |
 | plau.devjob.ro | custom.plausible.io |
 | plau.germantechjobs.de | custom.plausible.io |
 | plau.hiringnearme.jobs | custom.plausible.io |
@@ -150,6 +153,7 @@
 | plausible.ezrayellin.com | custom.plausible.io |
 | plausible.f1laps.com | custom.plausible.io |
 | plausible.factly.in | custom.plausible.io |
+| plausible.ferranfigueredo.com | custom.plausible.io |
 | plausible.flowcv.io | custom.plausible.io |
 | plausible.food.game | custom.plausible.io |
 | plausible.fwouts.com | custom.plausible.io |
@@ -247,7 +251,6 @@
 | stats.bertwagner.com | custom.plausible.io |
 | stats.bestservers.co | custom.plausible.io |
 | stats.bholmes.dev | custom.plausible.io |
-| stats.biblionumericus.fr | custom.plausible.io |
 | stats.bitpost.app | custom.plausible.io |
 | stats.blockleviton.com | custom.plausible.io |
 | stats.blog.codingmilitia.com | custom.plausible.io |
@@ -327,6 +330,7 @@
 | stats.hey.com | custom.plausible.io |
 | stats.homerdixon.com | custom.plausible.io |
 | stats.homestow.com | custom.plausible.io |
+| stats.hone.uk | custom.plausible.io |
 | stats.hostfactor.io | custom.plausible.io |
 | stats.htmlcsstoimage.com | custom.plausible.io |
 | stats.htp.org | custom.plausible.io |
@@ -376,6 +380,7 @@
 | stats.melvingeorge.me | custom.plausible.io |
 | stats.mesenvies.fr | custom.plausible.io |
 | stats.missionrabies.com | custom.plausible.io |
+| stats.mkwtas.com | custom.plausible.io |
 | stats.mmazzarolo.com | custom.plausible.io |
 | stats.motion-effect.com | custom.plausible.io |
 | stats.motornation.net | custom.plausible.io |
@@ -394,6 +399,7 @@
 | stats.ortussolutions.com | custom.plausible.io |
 | stats.oursky.com | custom.plausible.io |
 | stats.oxygem.com | custom.plausible.io |
+| stats.p42.ai | custom.plausible.io |
 | stats.pandasnap.io | custom.plausible.io |
 | stats.parqet.com | custom.plausible.io |
 | stats.pasteapp.io | custom.plausible.io |
@@ -497,6 +503,7 @@
 | tokei.upstract.com | custom.plausible.io |
 | track.slickinbox.com | custom.plausible.io |
 | traffic.hostedstatus.page | custom.plausible.io |
+| traffic.taktikal.is | custom.plausible.io |
 | visite.scambi.org | custom.plausible.io |
 | visitors.asadis.net | custom.plausible.io |
 | visits.quitsocialmedia.club | custom.plausible.io |

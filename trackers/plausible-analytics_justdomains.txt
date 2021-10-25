@@ -32,6 +32,7 @@ analytics.itsnoahevans.co.uk
 analytics.lapiazzetta-horsham.com
 analytics.lunge.de
 analytics.mambaui.com
+analytics.mc500.info
 analytics.mhpod.gov.au
 analytics.mondoweiss.net
 analytics.naturequant.com
@@ -68,7 +69,6 @@ churro.noteapps.info
 connect.astrobotanicals.com
 counter.proxycrawl.com
 counter.subtitlebee.com
-data.netweaver.uk
 datum.appfleet.com
 dragon.moneycoach.io
 eliteclng.ericksonbuilt.com
@@ -83,6 +83,7 @@ hurricane.tinybird.co
 informatics.filamentcolors.xyz
 insights.affilimate.com
 insights.frenchtogether.com
+insights.growwithless.com
 iwonttrackyou.xn--gckvb8fzb.com
 juniper.starleaf.com
 ks.walkq.com
@@ -90,6 +91,7 @@ l2k30jsa.theochu.com
 littlebrother.makeplans.net
 loggychops.paulsmith.site
 meter.bref.sh
+miernik.technologiewdomu.pl
 momotaro.craigmod.com
 noushe.zevvle.com
 numbers.triplejack.com
@@ -122,6 +124,7 @@ pl.volunteermarlborough.org.nz
 pla.wigglepixel.nl
 plas.imfeld.dev
 plau.devitjobs.uk
+plau.devitjobs.us
 plau.devjob.ro
 plau.germantechjobs.de
 plau.hiringnearme.jobs
@@ -145,6 +148,7 @@ plausible.executeprogram.com
 plausible.ezrayellin.com
 plausible.f1laps.com
 plausible.factly.in
+plausible.ferranfigueredo.com
 plausible.flowcv.io
 plausible.food.game
 plausible.fwouts.com
@@ -242,7 +246,6 @@ stats.benui.ca
 stats.bertwagner.com
 stats.bestservers.co
 stats.bholmes.dev
-stats.biblionumericus.fr
 stats.bitpost.app
 stats.blockleviton.com
 stats.blog.codingmilitia.com
@@ -322,6 +325,7 @@ stats.hexdocs.pm
 stats.hey.com
 stats.homerdixon.com
 stats.homestow.com
+stats.hone.uk
 stats.hostfactor.io
 stats.htmlcsstoimage.com
 stats.htp.org
@@ -371,6 +375,7 @@ stats.matthogg.fyi
 stats.melvingeorge.me
 stats.mesenvies.fr
 stats.missionrabies.com
+stats.mkwtas.com
 stats.mmazzarolo.com
 stats.motion-effect.com
 stats.motornation.net
@@ -389,6 +394,7 @@ stats.openwebcraft.com
 stats.ortussolutions.com
 stats.oursky.com
 stats.oxygem.com
+stats.p42.ai
 stats.pandasnap.io
 stats.parqet.com
 stats.pasteapp.io
@@ -492,6 +498,7 @@ tocotronic.thomas.me
 tokei.upstract.com
 track.slickinbox.com
 traffic.hostedstatus.page
+traffic.taktikal.is
 visite.scambi.org
 visitors.asadis.net
 visits.quitsocialmedia.club

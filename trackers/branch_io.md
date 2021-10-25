@@ -22,6 +22,7 @@
 | 19035955.loyalty.tajawal.com | thirdparty.bnc.lt |
 | 19035955.mktg.tajawal.com | thirdparty.bnc.lt |
 | 5363316.marketing.numi.com | thirdparty.bnc.lt |
+| 5709751.ab.soul-cycle.email | thirdparty.bnc.lt |
 | 6519114.automated.tajawal.com | thirdparty.bnc.lt |
 | 6519114.email.tajawal.com | thirdparty.bnc.lt |
 | 6519114.loyalty.almosafer.com | thirdparty.bnc.lt |
@@ -176,6 +177,7 @@
 | ablinksemail.wirexapp.com | thirdparty.bnc.lt |
 | ablinksuni.a.grubhub.com | thirdparty.bnc.lt |
 | ablinksuni.a.seamless.com | thirdparty.bnc.lt |
+| abmail.test.iheart.com | thirdparty.bnc.lt |
 | abmail2.e.hungryjacks.com.au | thirdparty.bnc.lt |
 | abtest.em.redmart.com | thirdparty.bnc.lt |
 | abtest.redmart.com | thirdparty.bnc.lt |
@@ -427,6 +429,10 @@
 | links.email.usanetwork.com | thirdparty.bnc.lt |
 | links.emails.verishop.com | thirdparty.bnc.lt |
 | links.evault.history.com | thirdparty.bnc.lt |
+| links.fabletics.co.uk | thirdparty.bnc.lt |
+| links.fabletics.com | thirdparty.bnc.lt |
+| links.fabletics.de | thirdparty.bnc.lt |
+| links.fabletics.fr | thirdparty.bnc.lt |
 | links.fitbod.me | thirdparty.bnc.lt |
 | links.glamsquad.com | thirdparty.bnc.lt |
 | links.hitrecord.org | thirdparty.bnc.lt |
@@ -436,6 +442,10 @@
 | links.info.gianteagle.com | thirdparty.bnc.lt |
 | links.info.headspace.com | thirdparty.bnc.lt |
 | links.info.kfc.com | thirdparty.bnc.lt |
+| links.justfab.com | thirdparty.bnc.lt |
+| links.justfab.de | thirdparty.bnc.lt |
+| links.justfab.es | thirdparty.bnc.lt |
+| links.justfab.fr | thirdparty.bnc.lt |
 | links.m.blueapron.com | thirdparty.bnc.lt |
 | links.mail.allbirds.com | thirdparty.bnc.lt |
 | links.mail.stubhub.com | thirdparty.bnc.lt |

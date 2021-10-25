@@ -3,29 +3,28 @@
 ;
 ; dataunlocker.com disguised trackers
 ;
-1bw7etm93lf.www.woodbrass.com CNAME .
+1iy4gu0lpkp.my.gloryleague.basketball CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
-1op1je6zs97.www.emanualonline.com CNAME .
 1q6ck0lrhrr.www.newsinside.org CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
-25voj20abod.honeyswap.org CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
-5n2y9omclb.panprices.com CNAME .
+7jrjkdfgpn4u.app.polymersearch.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
-b5j6itccyluq.nofluffjobs.com CNAME .
 cihnqp6p65.koinly.io CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 fp84rw0jinz7.blanc.ru CNAME .
-kfuf06i7g8qn.www.earthclassmail.com CNAME .
+gl5g98t0vfjb.panprices.com CNAME .
+lh3pvljbkong.www.nookgaming.com CNAME .
 ny7tvb3lqvm1.furucombo.app CNAME .
-pcjhd5yuwpup.www.nookgaming.com CNAME .
-qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
+ouc82i67pytg.www.emanualonline.com CNAME .
+psaun1b37e2k.www.fjlaboratories.com CNAME .
+q2q7d5mjrdp0.www.logology.co CNAME .
 qwcp5tza48tt.xpollinate.io CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
 tos5dqejpd.www.freecodecamp.org CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
-wgevzz9ry1h0.www.botcomics.com CNAME .
+vpm4dla7q83q.fjlaboratories.com CNAME .
 x2l5lsn8rvsq.li.finance CNAME .
 xlvvy4msxr.coolinastore.com CNAME .

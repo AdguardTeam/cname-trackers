@@ -73,7 +73,9 @@ a8clk.www.nortonstore.jp CNAME .
 a8clk.xserver.ne.jp CNAME .
 a8clk.yourmystar.jp CNAME .
 a8cv.464981.com CNAME .
+a8cv.550909.com CNAME .
 a8cv.a-resort.jp CNAME .
+a8cv.akihabara-x.jp CNAME .
 a8cv.all-plan.co.jp CNAME .
 a8cv.amiami.jp CNAME .
 a8cv.araiba.net CNAME .
@@ -88,6 +90,7 @@ a8cv.entry.renet.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
 a8cv.housingbazar.jp CNAME .
 a8cv.ishibashi.co.jp CNAME .
+a8cv.minana-jp.com CNAME .
 a8cv.minnano-eikaiwa.com CNAME .
 a8cv.modern-deco.jp CNAME .
 a8cv.omni7.jp CNAME .

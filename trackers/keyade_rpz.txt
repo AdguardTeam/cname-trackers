@@ -27,5 +27,6 @@ k.veepee.it CNAME .
 k.voyageursdumonde.fr CNAME .
 ka.ilius.net CNAME .
 keyade.alltricks.fr CNAME .
+keyade.ooreka.fr CNAME .
 tck.photobox.com CNAME .
 tck.transavia.com CNAME .

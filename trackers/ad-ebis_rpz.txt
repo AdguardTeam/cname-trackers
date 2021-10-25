@@ -71,6 +71,7 @@ cname.mebiusseiyaku.co.jp CNAME .
 cname1.shakenkan.co.jp CNAME .
 cnameebis.usagi-online.com CNAME .
 cnebis.chocola.com CNAME .
+cnebis.eisai.jp CNAME .
 cnebis.i-no-science.com CNAME .
 ct.xn--0et88ccz6awh1a.biz CNAME .
 cvs.kireimo.jp CNAME .
@@ -138,4 +139,5 @@ tracking.nokai.jp CNAME .
 tukuru.cotta.jp CNAME .
 urerucname.manara.jp CNAME .
 us9recc3.simseller.goo.ne.jp CNAME .
+www2.hnavi.co.jp CNAME .
 y8hxgv9m.kobetsu.co.jp CNAME .

@@ -252,6 +252,7 @@ tr.panels-mediametrie.fr CNAME .
 tr.pole-emploi-services.com CNAME .
 tr.politicolive.eu CNAME .
 tr.portail.afpa.fr CNAME .
+tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.pro.odalys-vacances.com CNAME .
 tr.quotes4business.info CNAME .
 tr.ra.cofinoga.fr CNAME .

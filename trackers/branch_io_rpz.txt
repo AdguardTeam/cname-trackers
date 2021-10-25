@@ -12,6 +12,7 @@
 19035955.loyalty.tajawal.com CNAME .
 19035955.mktg.tajawal.com CNAME .
 5363316.marketing.numi.com CNAME .
+5709751.ab.soul-cycle.email CNAME .
 6519114.automated.tajawal.com CNAME .
 6519114.email.tajawal.com CNAME .
 6519114.loyalty.almosafer.com CNAME .
@@ -166,6 +167,7 @@ ablinks.picsart.com CNAME .
 ablinksemail.wirexapp.com CNAME .
 ablinksuni.a.grubhub.com CNAME .
 ablinksuni.a.seamless.com CNAME .
+abmail.test.iheart.com CNAME .
 abmail2.e.hungryjacks.com.au CNAME .
 abtest.em.redmart.com CNAME .
 abtest.redmart.com CNAME .
@@ -420,6 +422,10 @@ links.email.twine.com CNAME .
 links.email.usanetwork.com CNAME .
 links.emails.verishop.com CNAME .
 links.evault.history.com CNAME .
+links.fabletics.co.uk CNAME .
+links.fabletics.com CNAME .
+links.fabletics.de CNAME .
+links.fabletics.fr CNAME .
 links.fitbod.me CNAME .
 links.glamsquad.com CNAME .
 links.hitrecord.org CNAME .
@@ -429,6 +435,10 @@ links.info.getgocafe.com CNAME .
 links.info.gianteagle.com CNAME .
 links.info.headspace.com CNAME .
 links.info.kfc.com CNAME .
+links.justfab.com CNAME .
+links.justfab.de CNAME .
+links.justfab.es CNAME .
+links.justfab.fr CNAME .
 links.m.blueapron.com CNAME .
 links.mail.allbirds.com CNAME .
 links.mail.stubhub.com CNAME .

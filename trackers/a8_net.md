@@ -79,7 +79,9 @@
 | a8clk.xserver.ne.jp | trck.a8.net |
 | a8clk.yourmystar.jp | trck.a8.net |
 | a8cv.464981.com | trck.a8.net |
+| a8cv.550909.com | trck.a8.net |
 | a8cv.a-resort.jp | trck.a8.net |
+| a8cv.akihabara-x.jp | trck.a8.net |
 | a8cv.all-plan.co.jp | trck.a8.net |
 | a8cv.amiami.jp | trck.a8.net |
 | a8cv.araiba.net | trck.a8.net |
@@ -94,6 +96,7 @@
 | a8cv.greed-island.ne.jp | trck.a8.net |
 | a8cv.housingbazar.jp | trck.a8.net |
 | a8cv.ishibashi.co.jp | trck.a8.net |
+| a8cv.minana-jp.com | trck.a8.net |
 | a8cv.minnano-eikaiwa.com | trck.a8.net |
 | a8cv.modern-deco.jp | trck.a8.net |
 | a8cv.omni7.jp | trck.a8.net |

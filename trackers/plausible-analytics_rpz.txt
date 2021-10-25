@@ -32,6 +32,7 @@ analytics.itsnoahevans.co.uk CNAME .
 analytics.lapiazzetta-horsham.com CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
+analytics.mc500.info CNAME .
 analytics.mhpod.gov.au CNAME .
 analytics.mondoweiss.net CNAME .
 analytics.naturequant.com CNAME .
@@ -68,7 +69,6 @@ churro.noteapps.info CNAME .
 connect.astrobotanicals.com CNAME .
 counter.proxycrawl.com CNAME .
 counter.subtitlebee.com CNAME .
-data.netweaver.uk CNAME .
 datum.appfleet.com CNAME .
 dragon.moneycoach.io CNAME .
 eliteclng.ericksonbuilt.com CNAME .
@@ -83,6 +83,7 @@ hurricane.tinybird.co CNAME .
 informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
 insights.frenchtogether.com CNAME .
+insights.growwithless.com CNAME .
 iwonttrackyou.xn--gckvb8fzb.com CNAME .
 juniper.starleaf.com CNAME .
 ks.walkq.com CNAME .
@@ -90,6 +91,7 @@ l2k30jsa.theochu.com CNAME .
 littlebrother.makeplans.net CNAME .
 loggychops.paulsmith.site CNAME .
 meter.bref.sh CNAME .
+miernik.technologiewdomu.pl CNAME .
 momotaro.craigmod.com CNAME .
 noushe.zevvle.com CNAME .
 numbers.triplejack.com CNAME .
@@ -122,6 +124,7 @@ pl.volunteermarlborough.org.nz CNAME .
 pla.wigglepixel.nl CNAME .
 plas.imfeld.dev CNAME .
 plau.devitjobs.uk CNAME .
+plau.devitjobs.us CNAME .
 plau.devjob.ro CNAME .
 plau.germantechjobs.de CNAME .
 plau.hiringnearme.jobs CNAME .
@@ -145,6 +148,7 @@ plausible.executeprogram.com CNAME .
 plausible.ezrayellin.com CNAME .
 plausible.f1laps.com CNAME .
 plausible.factly.in CNAME .
+plausible.ferranfigueredo.com CNAME .
 plausible.flowcv.io CNAME .
 plausible.food.game CNAME .
 plausible.fwouts.com CNAME .
@@ -242,7 +246,6 @@ stats.benui.ca CNAME .
 stats.bertwagner.com CNAME .
 stats.bestservers.co CNAME .
 stats.bholmes.dev CNAME .
-stats.biblionumericus.fr CNAME .
 stats.bitpost.app CNAME .
 stats.blockleviton.com CNAME .
 stats.blog.codingmilitia.com CNAME .
@@ -322,6 +325,7 @@ stats.hexdocs.pm CNAME .
 stats.hey.com CNAME .
 stats.homerdixon.com CNAME .
 stats.homestow.com CNAME .
+stats.hone.uk CNAME .
 stats.hostfactor.io CNAME .
 stats.htmlcsstoimage.com CNAME .
 stats.htp.org CNAME .
@@ -371,6 +375,7 @@ stats.matthogg.fyi CNAME .
 stats.melvingeorge.me CNAME .
 stats.mesenvies.fr CNAME .
 stats.missionrabies.com CNAME .
+stats.mkwtas.com CNAME .
 stats.mmazzarolo.com CNAME .
 stats.motion-effect.com CNAME .
 stats.motornation.net CNAME .
@@ -389,6 +394,7 @@ stats.openwebcraft.com CNAME .
 stats.ortussolutions.com CNAME .
 stats.oursky.com CNAME .
 stats.oxygem.com CNAME .
+stats.p42.ai CNAME .
 stats.pandasnap.io CNAME .
 stats.parqet.com CNAME .
 stats.pasteapp.io CNAME .
@@ -492,6 +498,7 @@ tocotronic.thomas.me CNAME .
 tokei.upstract.com CNAME .
 track.slickinbox.com CNAME .
 traffic.hostedstatus.page CNAME .
+traffic.taktikal.is CNAME .
 visite.scambi.org CNAME .
 visitors.asadis.net CNAME .
 visits.quitsocialmedia.club CNAME .

@@ -73,7 +73,9 @@
 ||a8clk.xserver.ne.jp^
 ||a8clk.yourmystar.jp^
 ||a8cv.464981.com^
+||a8cv.550909.com^
 ||a8cv.a-resort.jp^
+||a8cv.akihabara-x.jp^
 ||a8cv.all-plan.co.jp^
 ||a8cv.amiami.jp^
 ||a8cv.araiba.net^
@@ -88,6 +90,7 @@
 ||a8cv.greed-island.ne.jp^
 ||a8cv.housingbazar.jp^
 ||a8cv.ishibashi.co.jp^
+||a8cv.minana-jp.com^
 ||a8cv.minnano-eikaiwa.com^
 ||a8cv.modern-deco.jp^
 ||a8cv.omni7.jp^

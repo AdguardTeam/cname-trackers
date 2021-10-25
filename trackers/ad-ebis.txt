@@ -71,6 +71,7 @@
 ||cname1.shakenkan.co.jp^
 ||cnameebis.usagi-online.com^
 ||cnebis.chocola.com^
+||cnebis.eisai.jp^
 ||cnebis.i-no-science.com^
 ||ct.xn--0et88ccz6awh1a.biz^
 ||cvs.kireimo.jp^
@@ -138,4 +139,5 @@
 ||tukuru.cotta.jp^
 ||urerucname.manara.jp^
 ||us9recc3.simseller.goo.ne.jp^
+||www2.hnavi.co.jp^
 ||y8hxgv9m.kobetsu.co.jp^

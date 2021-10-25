@@ -3,6 +3,7 @@
 ;
 ; webtrekk.net disguised trackers
 ;
+image.kfw-entwicklungsbank.de CNAME .
 image.kfw.de CNAME .
 images1.test.de CNAME .
 mon.ingservices.nl CNAME .
@@ -70,6 +71,7 @@ data.inbank.it CNAME .
 data.leipzig.de CNAME .
 data.mainpost.de CNAME .
 data.mapp.com CNAME .
+data.mediaworld.it CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .

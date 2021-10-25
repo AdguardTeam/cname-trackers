@@ -77,6 +77,7 @@
     * 8a79c862-uynsk4n4.cname.ebis.ne.jp
     * 8b44cc88-gaz6wmaw.cname.ebis.ne.jp
     * 8f087789-nkcrsmeh.cname.ebis.ne.jp
+    * 9473cf8f-gaz6wmaw.cname.ebis.ne.jp
     * 9473cf8f-y4rfthkp.cname.ebis.ne.jp
     * 95e65062-vpau4sdp.cname.ebis.ne.jp
     * 95e65062-y5awr3vc.cname.ebis.ne.jp
@@ -99,6 +100,7 @@
     * ae331b42-b3j1fwdu.cname.ebis.ne.jp
     * af715239-g5riys9k.cname.ebis.ne.jp
     * b3dfd045-acrymmnj.cname.ebis.ne.jp
+    * b5e8d6c4-bzcut99h.cname.ebis.ne.jp
     * b6ed666a-bagmsfc6.cname.ebis.ne.jp
     * b773e430-snfbdnnq.cname.ebis.ne.jp
     * b9f16cb4-srrg93nh.cname.ebis.ne.jp
@@ -218,6 +220,7 @@
 | ad.aucview.com | 8a79c862-uynsk4n4.cname.ebis.ne.jp |
 | cnebis.i-no-science.com | 8b44cc88-gaz6wmaw.cname.ebis.ne.jp |
 | cname.finess.jp | 8f087789-nkcrsmeh.cname.ebis.ne.jp |
+| cnebis.eisai.jp | 9473cf8f-gaz6wmaw.cname.ebis.ne.jp |
 | campaign-direct.eisai.jp | 9473cf8f-y4rfthkp.cname.ebis.ne.jp |
 | adebis.juku.st | 95e65062-vpau4sdp.cname.ebis.ne.jp |
 | adebis02.juku.st | 95e65062-y5awr3vc.cname.ebis.ne.jp |
@@ -240,6 +243,7 @@
 | beeline.beeline-tire.co.jp | ae331b42-b3j1fwdu.cname.ebis.ne.jp |
 | adebis.daiwahouse.co.jp | af715239-g5riys9k.cname.ebis.ne.jp |
 | cname.jf-d.jp | b3dfd045-acrymmnj.cname.ebis.ne.jp |
+| www2.hnavi.co.jp | b5e8d6c4-bzcut99h.cname.ebis.ne.jp |
 | belegend2019.belegend.jp | b6ed666a-bagmsfc6.cname.ebis.ne.jp |
 | adebis.toitoitoi.clinic | b773e430-snfbdnnq.cname.ebis.ne.jp |
 | greenjapan-cname.green-japan.com | b9f16cb4-srrg93nh.cname.ebis.ne.jp |

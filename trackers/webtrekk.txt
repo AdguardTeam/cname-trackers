@@ -3,6 +3,7 @@
 !
 ! webtrekk.net disguised trackers
 !
+||image.kfw-entwicklungsbank.de^
 ||image.kfw.de^
 ||images1.test.de^
 ||mon.ingservices.nl^
@@ -70,6 +71,7 @@
 ||data.leipzig.de^
 ||data.mainpost.de^
 ||data.mapp.com^
+||data.mediaworld.it^
 ||data.volksfreund.de^
 ||data.westlotto.de^
 ||daten.union-investment.de^

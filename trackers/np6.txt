@@ -252,6 +252,7 @@
 ||tr.pole-emploi-services.com^
 ||tr.politicolive.eu^
 ||tr.portail.afpa.fr^
+||tr.prevention.harmonie-mutuelle.fr^
 ||tr.pro.odalys-vacances.com^
 ||tr.quotes4business.info^
 ||tr.ra.cofinoga.fr^

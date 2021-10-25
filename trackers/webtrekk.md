@@ -15,6 +15,7 @@
     * flatex-de01.webtrekk.net
     * heise02.webtrekk.net
     * ingnl04.webtrekk.net
+    * kfw-07.webtrekk.net
     * kfw04.webtrekk.net
     * nuernberger02.webtrekk.net
     * tchibo03.webtrekk.net
@@ -41,6 +42,7 @@
     * 329712103760415.wt-eu02.net
     * 346715981768881.wt-eu02.net
     * 350258498646185.wt-eu02.net
+    * 367128732629814.wt-eu02.net
     * 367171131378433.wt-eu02.net
     * 371033713452477.wt-eu02.net
     * 425587064188106.wt-eu02.net
@@ -154,6 +156,7 @@
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
 | census.misterspex.fi | 346715981768881.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
+| data.mediaworld.it | 367128732629814.wt-eu02.net |
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |
 | web.emails.thetoyshop.com | 371033713452477.wt-eu02.net |
 | web.news.piquadro.com | 425587064188106.wt-eu02.net |
@@ -280,6 +283,7 @@
 | scout.bergfreunde.nl | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.se | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
+| image.kfw-entwicklungsbank.de | kfw-07.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
 | wttd.madeleine-fashion.be | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-fashion.nl | madeleineprod01.wt-eu02.net |

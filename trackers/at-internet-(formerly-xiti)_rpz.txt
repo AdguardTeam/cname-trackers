@@ -11,6 +11,7 @@ abncx.amv.fr CNAME .
 ana.tv5unis.ca CNAME .
 arrietty.nrj.fr CNAME .
 at-cddc.actu-juridique.fr CNAME .
+at.badische-zeitung.de CNAME .
 at.pagesjaunes.fr CNAME .
 atconnect.npo.nl CNAME .
 ati-a1.946d001b783803c1.xhst.bbci.co.uk CNAME .

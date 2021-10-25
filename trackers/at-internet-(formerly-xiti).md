@@ -10,6 +10,7 @@
     * abncx-amv-fr-cddc.at-o.net
     * ana-tv5unis-ca-cddc.at-o.net
     * arrietty-nrj-fr-cddc.at-o.net
+    * at-badische-zeitung-de-cddc.at-o.net
     * at-cddc-actu-juridique-fr-cddc.at-o.net
     * at-pagesjaunes-fr-cddc.at-o.net
     * atconnect-npo-nl-cddc.at-o.net
@@ -91,6 +92,7 @@
 | abncx.amv.fr | abncx-amv-fr-cddc.at-o.net |
 | ana.tv5unis.ca | ana-tv5unis-ca-cddc.at-o.net |
 | arrietty.nrj.fr | arrietty-nrj-fr-cddc.at-o.net |
+| at.badische-zeitung.de | at-badische-zeitung-de-cddc.at-o.net |
 | at-cddc.actu-juridique.fr | at-cddc-actu-juridique-fr-cddc.at-o.net |
 | at.pagesjaunes.fr | at-pagesjaunes-fr-cddc.at-o.net |
 | atconnect.npo.nl | atconnect-npo-nl-cddc.at-o.net |
