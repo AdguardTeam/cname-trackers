@@ -14,6 +14,7 @@ a.kryptonitewp.com CNAME .
 a.mhthemes.com CNAME .
 a.skcript.com CNAME .
 a.visitefoz.com.br CNAME .
+analytics.adam.page CNAME .
 analytics.adamstoner.com CNAME .
 analytics.adonisjs.com CNAME .
 analytics.arunraghavan.net CNAME .
@@ -85,6 +86,7 @@ insights.affilimate.com CNAME .
 insights.frenchtogether.com CNAME .
 insights.growwithless.com CNAME .
 iwonttrackyou.xn--gckvb8fzb.com CNAME .
+js.webklik.nl CNAME .
 juniper.starleaf.com CNAME .
 ks.walkq.com CNAME .
 l2k30jsa.theochu.com CNAME .
@@ -143,6 +145,7 @@ plausible.deploymentfromscratch.com CNAME .
 plausible.derpycoder.com CNAME .
 plausible.dev.sketch.com CNAME .
 plausible.doctave.com CNAME .
+plausible.ericgoebelbecker.com CNAME .
 plausible.eurostocks.nl CNAME .
 plausible.executeprogram.com CNAME .
 plausible.ezrayellin.com CNAME .
@@ -168,7 +171,6 @@ plausible.lovesdata.com CNAME .
 plausible.mattpruitt.com CNAME .
 plausible.microwire.info CNAME .
 plausible.moncefbelyamani.com CNAME .
-plausible.notiontweet.app CNAME .
 plausible.nova.app CNAME .
 plausible.nubemia.com CNAME .
 plausible.nuqu.org CNAME .
@@ -177,6 +179,7 @@ plausible.pgmustard.com CNAME .
 plausible.phuctm97.com CNAME .
 plausible.play.date CNAME .
 plausible.prod.sketch.com CNAME .
+plausible.promlens.com CNAME .
 plausible.rachel.systems CNAME .
 plausible.reactpreview.com CNAME .
 plausible.regex.help CNAME .
@@ -312,6 +315,7 @@ stats.frenlo.com CNAME .
 stats.fruechtl.me CNAME .
 stats.fullofwishes.co.uk CNAME .
 stats.fundimmo.com CNAME .
+stats.galleriacortona.com CNAME .
 stats.geobox.app CNAME .
 stats.getdoks.org CNAME .
 stats.gethyas.com CNAME .
@@ -323,6 +327,7 @@ stats.guersanguillaume.com CNAME .
 stats.hex.pm CNAME .
 stats.hexdocs.pm CNAME .
 stats.hey.com CNAME .
+stats.hey.science CNAME .
 stats.homerdixon.com CNAME .
 stats.homestow.com CNAME .
 stats.hone.uk CNAME .
@@ -345,6 +350,7 @@ stats.jerickson.net CNAME .
 stats.johnmac.pro CNAME .
 stats.joincomet.app CNAME .
 stats.justanotherpm.com CNAME .
+stats.kejk.tech CNAME .
 stats.kensho.com CNAME .
 stats.keyscore.me CNAME .
 stats.kod.ru CNAME .
@@ -382,6 +388,7 @@ stats.motornation.net CNAME .
 stats.muchbetteradventures.com CNAME .
 stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
+stats.nicolabricot.com CNAME .
 stats.nicolaskempf.fr CNAME .
 stats.nonprofit.foundation CNAME .
 stats.nothingbutnylon.com CNAME .
@@ -391,6 +398,7 @@ stats.nytecomics.com CNAME .
 stats.offthekerb.com CNAME .
 stats.onepagelove.com CNAME .
 stats.openwebcraft.com CNAME .
+stats.orbitalhealth.co CNAME .
 stats.ortussolutions.com CNAME .
 stats.oursky.com CNAME .
 stats.oxygem.com CNAME .
@@ -453,6 +461,7 @@ stats.stacks.org CNAME .
 stats.steuer-soldaten.de CNAME .
 stats.stopchikane.nu CNAME .
 stats.strawberry.rocks CNAME .
+stats.studypages.com CNAME .
 stats.sublimesecurity.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svenadolph.net CNAME .
@@ -484,6 +493,7 @@ stats.wvsindia.org CNAME .
 stats.wwdcscholars.com CNAME .
 stats.www.agirpourlenvironnement.org CNAME .
 stats.x5x.host CNAME .
+stats.xn--drivation-b4a.fr CNAME .
 stats.yourdallashandyman.com CNAME .
 stats.zander.wtf CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .

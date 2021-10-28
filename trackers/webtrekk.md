@@ -17,6 +17,7 @@
     * ingnl04.webtrekk.net
     * kfw-07.webtrekk.net
     * kfw04.webtrekk.net
+    * netcologne-01.webtrekk.net
     * nuernberger02.webtrekk.net
     * tchibo03.webtrekk.net
     * tchibo09.webtrekk.net
@@ -300,6 +301,7 @@
 | waaf1.alditalk.de | medion01.wt-eu02.net |
 | waaf1.hoferfotos.at | medion01.wt-eu02.net |
 | web.mytoys.de | mytoys02.wt-eu02.net |
+| tracking.netcologne.de | netcologne-01.webtrekk.net |
 | wt.netze-bw.de | netze-bw01.wt-eu02.net |
 | trk.nuernberger.de | nuernberger02.webtrekk.net |
 | ot.obi-italia.it | obi-all.wt-eu02.net |

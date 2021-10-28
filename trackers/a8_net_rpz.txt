@@ -5,6 +5,7 @@
 ;
 a8.01cloud.jp CNAME .
 a8.cyclemarket.jp CNAME .
+a8.denki-koji.work CNAME .
 a8.denwa-hikari.com CNAME .
 a8.eonet.jp CNAME .
 a8.erasutamo.onlinestaff.jp CNAME .
@@ -54,6 +55,7 @@ a8clk.life.bang.co.jp CNAME .
 a8clk.low-ya.com CNAME .
 a8clk.macpaw.com CNAME .
 a8clk.manage.conoha.jp CNAME .
+a8clk.minnadeooyasan.com CNAME .
 a8clk.netowl.jp CNAME .
 a8clk.osoujihonpo.com CNAME .
 a8clk.petitjob.jp CNAME .
@@ -121,6 +123,7 @@ cart.matsuzaka-steak.com CNAME .
 cv.a-internet.jp CNAME .
 cv.drive-hikari.net CNAME .
 cv.online.ysroad.co.jp CNAME .
+shopping.cellpure.co.jp CNAME .
 sub.booksdream-mypage.com CNAME .
 summary.bookoffonline.co.jp CNAME .
 trck.rework-s.com CNAME .

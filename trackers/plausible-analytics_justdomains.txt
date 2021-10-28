@@ -14,6 +14,7 @@ a.kryptonitewp.com
 a.mhthemes.com
 a.skcript.com
 a.visitefoz.com.br
+analytics.adam.page
 analytics.adamstoner.com
 analytics.adonisjs.com
 analytics.arunraghavan.net
@@ -85,6 +86,7 @@ insights.affilimate.com
 insights.frenchtogether.com
 insights.growwithless.com
 iwonttrackyou.xn--gckvb8fzb.com
+js.webklik.nl
 juniper.starleaf.com
 ks.walkq.com
 l2k30jsa.theochu.com
@@ -143,6 +145,7 @@ plausible.deploymentfromscratch.com
 plausible.derpycoder.com
 plausible.dev.sketch.com
 plausible.doctave.com
+plausible.ericgoebelbecker.com
 plausible.eurostocks.nl
 plausible.executeprogram.com
 plausible.ezrayellin.com
@@ -168,7 +171,6 @@ plausible.lovesdata.com
 plausible.mattpruitt.com
 plausible.microwire.info
 plausible.moncefbelyamani.com
-plausible.notiontweet.app
 plausible.nova.app
 plausible.nubemia.com
 plausible.nuqu.org
@@ -177,6 +179,7 @@ plausible.pgmustard.com
 plausible.phuctm97.com
 plausible.play.date
 plausible.prod.sketch.com
+plausible.promlens.com
 plausible.rachel.systems
 plausible.reactpreview.com
 plausible.regex.help
@@ -312,6 +315,7 @@ stats.frenlo.com
 stats.fruechtl.me
 stats.fullofwishes.co.uk
 stats.fundimmo.com
+stats.galleriacortona.com
 stats.geobox.app
 stats.getdoks.org
 stats.gethyas.com
@@ -323,6 +327,7 @@ stats.guersanguillaume.com
 stats.hex.pm
 stats.hexdocs.pm
 stats.hey.com
+stats.hey.science
 stats.homerdixon.com
 stats.homestow.com
 stats.hone.uk
@@ -345,6 +350,7 @@ stats.jerickson.net
 stats.johnmac.pro
 stats.joincomet.app
 stats.justanotherpm.com
+stats.kejk.tech
 stats.kensho.com
 stats.keyscore.me
 stats.kod.ru
@@ -382,6 +388,7 @@ stats.motornation.net
 stats.muchbetteradventures.com
 stats.nddmed.com
 stats.nerdbusiness.com
+stats.nicolabricot.com
 stats.nicolaskempf.fr
 stats.nonprofit.foundation
 stats.nothingbutnylon.com
@@ -391,6 +398,7 @@ stats.nytecomics.com
 stats.offthekerb.com
 stats.onepagelove.com
 stats.openwebcraft.com
+stats.orbitalhealth.co
 stats.ortussolutions.com
 stats.oursky.com
 stats.oxygem.com
@@ -453,6 +461,7 @@ stats.stacks.org
 stats.steuer-soldaten.de
 stats.stopchikane.nu
 stats.strawberry.rocks
+stats.studypages.com
 stats.sublimesecurity.com
 stats.sushibyte.io
 stats.svenadolph.net
@@ -484,6 +493,7 @@ stats.wvsindia.org
 stats.wwdcscholars.com
 stats.www.agirpourlenvironnement.org
 stats.x5x.host
+stats.xn--drivation-b4a.fr
 stats.yourdallashandyman.com
 stats.zander.wtf
 statystyki.ekspertyzy-szkolenia.pl

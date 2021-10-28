@@ -38,6 +38,7 @@ adebis.report.clinic CNAME .
 adebis.satori.marketing CNAME .
 adebis.sbpayment.jp CNAME .
 adebis.shiseido.co.jp CNAME .
+adebis.thd-web.jp CNAME .
 adebis.theclinic.jp CNAME .
 adebis.tipness.co.jp CNAME .
 adebis.tohshin.co.jp CNAME .

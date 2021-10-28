@@ -92,6 +92,7 @@
     * a4ba7b93-e2mmxp45.cname.ebis.ne.jp
     * a5ede5f5-sn9wfkl3.cname.ebis.ne.jp
     * a6688744-0p7lzdhu.cname.ebis.ne.jp
+    * a6a5d774-vsrgbn9q.cname.ebis.ne.jp
     * a8ba4949-zsbmdhqh.cname.ebis.ne.jp
     * aa9c1a10-bxd3nsfc.cname.ebis.ne.jp
     * ac8dd399-7xybwgkv.cname.ebis.ne.jp
@@ -235,6 +236,7 @@
 | cnameebis.usagi-online.com | a4ba7b93-e2mmxp45.cname.ebis.ne.jp |
 | adebis01.job-con.jp | a5ede5f5-sn9wfkl3.cname.ebis.ne.jp |
 | adebis8628.matsui.co.jp | a6688744-0p7lzdhu.cname.ebis.ne.jp |
+| adebis.thd-web.jp | a6a5d774-vsrgbn9q.cname.ebis.ne.jp |
 | ebis.la-coco.com | a8ba4949-zsbmdhqh.cname.ebis.ne.jp |
 | nlp-japan.life-and-mind.com | aa9c1a10-bxd3nsfc.cname.ebis.ne.jp |
 | ebis.jobcan.ne.jp | ac8dd399-7xybwgkv.cname.ebis.ne.jp |

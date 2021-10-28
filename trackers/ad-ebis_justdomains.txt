@@ -38,6 +38,7 @@ adebis.report.clinic
 adebis.satori.marketing
 adebis.sbpayment.jp
 adebis.shiseido.co.jp
+adebis.thd-web.jp
 adebis.theclinic.jp
 adebis.tipness.co.jp
 adebis.tohshin.co.jp

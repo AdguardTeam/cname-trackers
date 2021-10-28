@@ -19,6 +19,7 @@
 | a.mhthemes.com | custom.plausible.io |
 | a.skcript.com | custom.plausible.io |
 | a.visitefoz.com.br | custom.plausible.io |
+| analytics.adam.page | custom.plausible.io |
 | analytics.adamstoner.com | custom.plausible.io |
 | analytics.adonisjs.com | custom.plausible.io |
 | analytics.arunraghavan.net | custom.plausible.io |
@@ -90,6 +91,7 @@
 | insights.frenchtogether.com | custom.plausible.io |
 | insights.growwithless.com | custom.plausible.io |
 | iwonttrackyou.xn--gckvb8fzb.com | custom.plausible.io |
+| js.webklik.nl | custom.plausible.io |
 | juniper.starleaf.com | custom.plausible.io |
 | ks.walkq.com | custom.plausible.io |
 | l2k30jsa.theochu.com | custom.plausible.io |
@@ -148,6 +150,7 @@
 | plausible.derpycoder.com | custom.plausible.io |
 | plausible.dev.sketch.com | custom.plausible.io |
 | plausible.doctave.com | custom.plausible.io |
+| plausible.ericgoebelbecker.com | custom.plausible.io |
 | plausible.eurostocks.nl | custom.plausible.io |
 | plausible.executeprogram.com | custom.plausible.io |
 | plausible.ezrayellin.com | custom.plausible.io |
@@ -173,7 +176,6 @@
 | plausible.mattpruitt.com | custom.plausible.io |
 | plausible.microwire.info | custom.plausible.io |
 | plausible.moncefbelyamani.com | custom.plausible.io |
-| plausible.notiontweet.app | custom.plausible.io |
 | plausible.nova.app | custom.plausible.io |
 | plausible.nubemia.com | custom.plausible.io |
 | plausible.nuqu.org | custom.plausible.io |
@@ -182,6 +184,7 @@
 | plausible.phuctm97.com | custom.plausible.io |
 | plausible.play.date | custom.plausible.io |
 | plausible.prod.sketch.com | custom.plausible.io |
+| plausible.promlens.com | custom.plausible.io |
 | plausible.rachel.systems | custom.plausible.io |
 | plausible.reactpreview.com | custom.plausible.io |
 | plausible.regex.help | custom.plausible.io |
@@ -317,6 +320,7 @@
 | stats.fruechtl.me | custom.plausible.io |
 | stats.fullofwishes.co.uk | custom.plausible.io |
 | stats.fundimmo.com | custom.plausible.io |
+| stats.galleriacortona.com | custom.plausible.io |
 | stats.geobox.app | custom.plausible.io |
 | stats.getdoks.org | custom.plausible.io |
 | stats.gethyas.com | custom.plausible.io |
@@ -328,6 +332,7 @@
 | stats.hex.pm | custom.plausible.io |
 | stats.hexdocs.pm | custom.plausible.io |
 | stats.hey.com | custom.plausible.io |
+| stats.hey.science | custom.plausible.io |
 | stats.homerdixon.com | custom.plausible.io |
 | stats.homestow.com | custom.plausible.io |
 | stats.hone.uk | custom.plausible.io |
@@ -350,6 +355,7 @@
 | stats.johnmac.pro | custom.plausible.io |
 | stats.joincomet.app | custom.plausible.io |
 | stats.justanotherpm.com | custom.plausible.io |
+| stats.kejk.tech | custom.plausible.io |
 | stats.kensho.com | custom.plausible.io |
 | stats.keyscore.me | custom.plausible.io |
 | stats.kod.ru | custom.plausible.io |
@@ -387,6 +393,7 @@
 | stats.muchbetteradventures.com | custom.plausible.io |
 | stats.nddmed.com | custom.plausible.io |
 | stats.nerdbusiness.com | custom.plausible.io |
+| stats.nicolabricot.com | custom.plausible.io |
 | stats.nicolaskempf.fr | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
 | stats.nothingbutnylon.com | custom.plausible.io |
@@ -396,6 +403,7 @@
 | stats.offthekerb.com | custom.plausible.io |
 | stats.onepagelove.com | custom.plausible.io |
 | stats.openwebcraft.com | custom.plausible.io |
+| stats.orbitalhealth.co | custom.plausible.io |
 | stats.ortussolutions.com | custom.plausible.io |
 | stats.oursky.com | custom.plausible.io |
 | stats.oxygem.com | custom.plausible.io |
@@ -458,6 +466,7 @@
 | stats.steuer-soldaten.de | custom.plausible.io |
 | stats.stopchikane.nu | custom.plausible.io |
 | stats.strawberry.rocks | custom.plausible.io |
+| stats.studypages.com | custom.plausible.io |
 | stats.sublimesecurity.com | custom.plausible.io |
 | stats.sushibyte.io | custom.plausible.io |
 | stats.svenadolph.net | custom.plausible.io |
@@ -489,6 +498,7 @@
 | stats.wwdcscholars.com | custom.plausible.io |
 | stats.www.agirpourlenvironnement.org | custom.plausible.io |
 | stats.x5x.host | custom.plausible.io |
+| stats.xn--drivation-b4a.fr | custom.plausible.io |
 | stats.yourdallashandyman.com | custom.plausible.io |
 | stats.zander.wtf | custom.plausible.io |
 | statystyki.ekspertyzy-szkolenia.pl | custom.plausible.io |

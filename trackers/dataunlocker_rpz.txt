@@ -3,28 +3,56 @@
 ;
 ; dataunlocker.com disguised trackers
 ;
-1iy4gu0lpkp.my.gloryleague.basketball CNAME .
-1kpv4njzilv.community.intersystems.com CNAME .
-1q6ck0lrhrr.www.newsinside.org CNAME .
+0ewo7r50vwkz.www.botcomics.com CNAME .
+164fi5kesvt.www.usa-corporate.com CNAME .
+1p3293dngsv.dodofacile.fr CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
+25voj20abod.honeyswap.org CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
-7jrjkdfgpn4u.app.polymersearch.com CNAME .
+4ntug5jhu0t8.furucombo.app CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
+9kkjfywjz50v.www.eventus.io CNAME .
 cihnqp6p65.koinly.io CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 fp84rw0jinz7.blanc.ru CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
-lh3pvljbkong.www.nookgaming.com CNAME .
-ny7tvb3lqvm1.furucombo.app CNAME .
+grxkwphx0yk5.stoic.ai CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
-psaun1b37e2k.www.fjlaboratories.com CNAME .
-q2q7d5mjrdp0.www.logology.co CNAME .
+p7qebe2odmlm.franchiseplus.nl CNAME .
 qwcp5tza48tt.xpollinate.io CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
 tos5dqejpd.www.freecodecamp.org CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
-vpm4dla7q83q.fjlaboratories.com CNAME .
 x2l5lsn8rvsq.li.finance CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
+ypf4i81rjs5p.unstoppabledomains.com CNAME .
+;
+; monopoly-drain.ga disguised trackers
+;
+0ewo7r50vwkz.www.botcomics.com CNAME .
+164fi5kesvt.www.usa-corporate.com CNAME .
+1p3293dngsv.dodofacile.fr CNAME .
+1zzs6w25i8n.tube.inflatevids.xyz CNAME .
+25voj20abod.honeyswap.org CNAME .
+2829i2p88jx.www.csaladinet.hu CNAME .
+2qqfxz5kecr4.www.eldorado.gg CNAME .
+4ntug5jhu0t8.furucombo.app CNAME .
+8p0kiyq5mq1d.flex.team CNAME .
+9kkjfywjz50v.www.eventus.io CNAME .
+cihnqp6p65.koinly.io CNAME .
+e5obq1v261.www.lurkit.com CNAME .
+fp84rw0jinz7.blanc.ru CNAME .
+gl5g98t0vfjb.panprices.com CNAME .
+grxkwphx0yk5.stoic.ai CNAME .
+ouc82i67pytg.www.emanualonline.com CNAME .
+p7qebe2odmlm.franchiseplus.nl CNAME .
+qwcp5tza48tt.xpollinate.io CNAME .
+ros3d4dbs3px.salud-masculina.info CNAME .
+s2whyufxmzam.chatpay.com.br CNAME .
+tos5dqejpd.www.freecodecamp.org CNAME .
+uhm26jyr11zv.www.freecodecamp.org CNAME .
+x2l5lsn8rvsq.li.finance CNAME .
+xlvvy4msxr.coolinastore.com CNAME .
+ypf4i81rjs5p.unstoppabledomains.com CNAME .

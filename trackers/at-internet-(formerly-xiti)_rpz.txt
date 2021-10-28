@@ -20,6 +20,7 @@ avocado.laprovence.com CNAME .
 buf.lemonde.fr CNAME .
 c.atinternet-solutions.com CNAME .
 c0012.brsimg.com CNAME .
+checkpointcharlie.heizung.de CNAME .
 chihiro.nostalgie.fr CNAME .
 col.idealista.com CNAME .
 col.idealista.it CNAME .
@@ -32,6 +33,8 @@ da.maif.fr CNAME .
 faucons.viessmann.fr CNAME .
 hal.courrierinternational.com CNAME .
 hd.pe.fr CNAME .
+hmg.handelsblatt.com CNAME .
+hmg.wiwo.de CNAME .
 image.ard.de CNAME .
 image.mdr.de CNAME .
 insights.biallo.de CNAME .

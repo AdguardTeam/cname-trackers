@@ -287,6 +287,7 @@ email.boxed.com CNAME .
 email.clearscore.co.za CNAME .
 email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
+email.everyonesocial.united.com CNAME .
 email.everyonesocial.unity.com CNAME .
 email.fretello.com CNAME .
 email.goodrx.com CNAME .

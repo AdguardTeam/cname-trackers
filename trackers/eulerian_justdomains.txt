@@ -23,13 +23,13 @@ anz7.allianz-voyage.fr
 ar.i-run.fr
 aze0.dmp.leclerc
 azg1.emalu-store.com
-b1n.carabins.umontreal.ca
 b6ft.zone-turf.fr
 bhu9.bankia.es
 bpe2.destinia.co.il
 bum7.bymycar.fr
 bvz5.destinia.com.tr
 bwj4.hrhibiza.com
+c0i.ckoi.com
 c0p.cepsum.umontreal.ca
 c4dv.copinesdevoyage.com
 cc.conforama.es
@@ -88,7 +88,6 @@ ea.millet-mountain.com
 ea.millet.fr
 ea.mistergatesdirect.com
 ea.mondial-assistance.fr
-ea.motorisationplus.com
 ea.natiloo.com
 ea.nextseguros.es
 ea.odalys-vacances.com
@@ -172,6 +171,7 @@ hbo5.concours-pass.com
 hby7.destinia.it
 he6e.lavieimmo.com
 hgf4.zanzicar.fr
+hk2d.tourismemauricie.com
 hkj8.evobanco.com
 idg1.idgarages.com
 inv3te.oui.sncf
@@ -271,6 +271,7 @@ rh5i.tradingsat.com
 rqz4.supdigital.fr
 rup5.destinia.ru
 rvz9.destinia.co.ro
+ry0.rythmefm.com
 s4e8.cascades.com
 sby1.madeindesign.de
 sd.securitasdirect.fr
@@ -291,7 +292,6 @@ t.locasun.fr
 t.locasun.it
 t.locasun.nl
 t.voyages-sncf.com
-t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tce0.primes-energie.leclerc

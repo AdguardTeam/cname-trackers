@@ -5,6 +5,7 @@
 !
 ||a8.01cloud.jp^
 ||a8.cyclemarket.jp^
+||a8.denki-koji.work^
 ||a8.denwa-hikari.com^
 ||a8.eonet.jp^
 ||a8.erasutamo.onlinestaff.jp^
@@ -54,6 +55,7 @@
 ||a8clk.low-ya.com^
 ||a8clk.macpaw.com^
 ||a8clk.manage.conoha.jp^
+||a8clk.minnadeooyasan.com^
 ||a8clk.netowl.jp^
 ||a8clk.osoujihonpo.com^
 ||a8clk.petitjob.jp^
@@ -121,6 +123,7 @@
 ||cv.a-internet.jp^
 ||cv.drive-hikari.net^
 ||cv.online.ysroad.co.jp^
+||shopping.cellpure.co.jp^
 ||sub.booksdream-mypage.com^
 ||summary.bookoffonline.co.jp^
 ||trck.rework-s.com^

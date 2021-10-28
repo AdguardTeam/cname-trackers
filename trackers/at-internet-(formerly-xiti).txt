@@ -20,6 +20,7 @@
 ||buf.lemonde.fr^
 ||c.atinternet-solutions.com^
 ||c0012.brsimg.com^
+||checkpointcharlie.heizung.de^
 ||chihiro.nostalgie.fr^
 ||col.idealista.com^
 ||col.idealista.it^
@@ -32,6 +33,8 @@
 ||faucons.viessmann.fr^
 ||hal.courrierinternational.com^
 ||hd.pe.fr^
+||hmg.handelsblatt.com^
+||hmg.wiwo.de^
 ||image.ard.de^
 ||image.mdr.de^
 ||insights.biallo.de^

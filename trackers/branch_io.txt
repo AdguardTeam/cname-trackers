@@ -287,6 +287,7 @@
 ||email.clearscore.co.za^
 ||email.clearscore.com^
 ||email.clearscore.com.au^
+||email.everyonesocial.united.com^
 ||email.everyonesocial.unity.com^
 ||email.fretello.com^
 ||email.goodrx.com^

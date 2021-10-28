@@ -19,6 +19,7 @@
     * buf-lemonde-fr-cddc.at-o.net
     * c-atinternet-solutions-com-cddc.at-o.net
     * c0012-brsimg-com-cddc.at-o.net
+    * checkpointcharlie-heizung-de-cddc.at-o.net
     * chihiro-nostalgie-fr-cddc.at-o.net
     * col-idealista-com-cddc.at-o.net
     * col-idealista-it-cddc.at-o.net
@@ -31,6 +32,8 @@
     * faucons-viessmann-fr-cddc.at-o.net
     * hal-courrierinternational-com-cddc.at-o.net
     * hd-pe-fr-cddc.at-o.net
+    * hmg-handelsblatt-com-cddc.at-o.net
+    * hmg-wiwo-de-cddc.at-o.net
     * image-ard-de-cddc.at-o.net
     * image-mdr-de-cddc.at-o.net
     * insights-biallo-de-cddc.at-o.net
@@ -101,6 +104,7 @@
 | buf.lemonde.fr | buf-lemonde-fr-cddc.at-o.net |
 | c.atinternet-solutions.com | c-atinternet-solutions-com-cddc.at-o.net |
 | c0012.brsimg.com | c0012-brsimg-com-cddc.at-o.net |
+| checkpointcharlie.heizung.de | checkpointcharlie-heizung-de-cddc.at-o.net |
 | chihiro.nostalgie.fr | chihiro-nostalgie-fr-cddc.at-o.net |
 | col.idealista.com | col-idealista-com-cddc.at-o.net |
 | col.idealista.it | col-idealista-it-cddc.at-o.net |
@@ -113,6 +117,8 @@
 | faucons.viessmann.fr | faucons-viessmann-fr-cddc.at-o.net |
 | hal.courrierinternational.com | hal-courrierinternational-com-cddc.at-o.net |
 | hd.pe.fr | hd-pe-fr-cddc.at-o.net |
+| hmg.handelsblatt.com | hmg-handelsblatt-com-cddc.at-o.net |
+| hmg.wiwo.de | hmg-wiwo-de-cddc.at-o.net |
 | image.ard.de | image-ard-de-cddc.at-o.net |
 | image.mdr.de | image-mdr-de-cddc.at-o.net |
 | insights.biallo.de | insights-biallo-de-cddc.at-o.net |
