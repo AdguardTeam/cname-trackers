@@ -56,6 +56,7 @@ antitracking.owncast.online CNAME .
 ap.dt.gl CNAME .
 api.decentralize.today CNAME .
 api.elliehuxtable.com CNAME .
+api.ryanyao.design CNAME .
 app-stats.supernotes.app CNAME .
 ares.buyersclub.se CNAME .
 artistchristinacarmel.ericksonbuilt.com CNAME .
@@ -177,6 +178,7 @@ plausible.nuqu.org CNAME .
 plausible.panic.com CNAME .
 plausible.pgmustard.com CNAME .
 plausible.phuctm97.com CNAME .
+plausible.plancagency.com CNAME .
 plausible.play.date CNAME .
 plausible.prod.sketch.com CNAME .
 plausible.promlens.com CNAME .
@@ -285,6 +287,7 @@ stats.dailyposter.com CNAME .
 stats.dashbit.co CNAME .
 stats.davestewart.co.uk CNAME .
 stats.davidlms.com CNAME .
+stats.dazzit.com CNAME .
 stats.deva.guru CNAME .
 stats.digiexpert.store CNAME .
 stats.divyanshu013.dev CNAME .
@@ -378,16 +381,21 @@ stats.marudor.de CNAME .
 stats.masjidbox.com CNAME .
 stats.matthiasloibl.com CNAME .
 stats.matthogg.fyi CNAME .
+stats.maurer-rides.de CNAME .
 stats.melvingeorge.me CNAME .
 stats.mesenvies.fr CNAME .
+stats.michaell.io CNAME .
 stats.missionrabies.com CNAME .
 stats.mkwtas.com CNAME .
 stats.mmazzarolo.com CNAME .
 stats.motion-effect.com CNAME .
 stats.motornation.net CNAME .
 stats.muchbetteradventures.com CNAME .
+stats.mynfp.de CNAME .
 stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
+stats.newslit.co CNAME .
+stats.nextaction.app CNAME .
 stats.nicolabricot.com CNAME .
 stats.nicolaskempf.fr CNAME .
 stats.nonprofit.foundation CNAME .
@@ -437,6 +445,7 @@ stats.reprage.com CNAME .
 stats.robhope.com CNAME .
 stats.ruhrfestspiele.de CNAME .
 stats.ruthmontenegro.com CNAME .
+stats.scailable.net CNAME .
 stats.scalgo.com CNAME .
 stats.scottbartell.com CNAME .
 stats.screen-play.app CNAME .

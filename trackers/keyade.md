@@ -5,6 +5,10 @@
 * k.keyade.com
     * mt.k.keyade.com
 
+### Rarely active trackers
+
+* k.madmetrics.com
+
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -21,9 +25,7 @@
 | k.empruntis.com | k.keyade.com |
 | k.fnacspectacles.com | k.keyade.com |
 | k.hofmann.es | k.keyade.com |
-| k.laredoute.be | k.keyade.com |
 | k.laredoute.es | k.keyade.com |
-| k.laredoute.fr | k.keyade.com |
 | k.laredoute.ru | k.keyade.com |
 | k.premiereclasse.com | k.keyade.com |
 | k.rueducommerce.fr | k.keyade.com |
@@ -35,4 +37,5 @@
 | keyade.ooreka.fr | k.keyade.com |
 | tck.photobox.com | k.keyade.com |
 | tck.transavia.com | k.keyade.com |
+| k.truffaut.com | k.madmetrics.com |
 | ka.ilius.net | mt.k.keyade.com |

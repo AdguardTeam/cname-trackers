@@ -57,6 +57,7 @@ a8clk.macpaw.com CNAME .
 a8clk.manage.conoha.jp CNAME .
 a8clk.minnadeooyasan.com CNAME .
 a8clk.netowl.jp CNAME .
+a8clk.order.lpio.jp CNAME .
 a8clk.osoujihonpo.com CNAME .
 a8clk.petitjob.jp CNAME .
 a8clk.point-land.net CNAME .

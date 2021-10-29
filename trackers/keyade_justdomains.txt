@@ -15,9 +15,7 @@ k.direct-assurance.fr
 k.empruntis.com
 k.fnacspectacles.com
 k.hofmann.es
-k.laredoute.be
 k.laredoute.es
-k.laredoute.fr
 k.laredoute.ru
 k.premiereclasse.com
 k.rueducommerce.fr
@@ -30,3 +28,7 @@ keyade.alltricks.fr
 keyade.ooreka.fr
 tck.photobox.com
 tck.transavia.com
+#
+# k.madmetrics.com disguised trackers
+#
+k.truffaut.com

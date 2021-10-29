@@ -294,6 +294,7 @@
 | email.clearscore.co.za | thirdparty.bnc.lt |
 | email.clearscore.com | thirdparty.bnc.lt |
 | email.clearscore.com.au | thirdparty.bnc.lt |
+| email.everyonesocial.r3.com | thirdparty.bnc.lt |
 | email.everyonesocial.united.com | thirdparty.bnc.lt |
 | email.everyonesocial.unity.com | thirdparty.bnc.lt |
 | email.fretello.com | thirdparty.bnc.lt |
@@ -443,6 +444,7 @@
 | links.info.gianteagle.com | thirdparty.bnc.lt |
 | links.info.headspace.com | thirdparty.bnc.lt |
 | links.info.kfc.com | thirdparty.bnc.lt |
+| links.justfab.co.uk | thirdparty.bnc.lt |
 | links.justfab.com | thirdparty.bnc.lt |
 | links.justfab.de | thirdparty.bnc.lt |
 | links.justfab.es | thirdparty.bnc.lt |

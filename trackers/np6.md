@@ -25,6 +25,7 @@
 | tr.asp1.espmp-agfr.net | tracking.bp01.net |
 | tr.asp103z.espmp-nifr.net | tracking.bp01.net |
 | tr.asp106g.espmp-nifr.net | tracking.bp01.net |
+| tr.asp10ar.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10bs.espmp-aufr.net | tracking.bp01.net |
 | tr.asp10cr.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10hi.espmp-cufr.net | tracking.bp01.net |
@@ -44,6 +45,7 @@
 | tr.carte.lcl.fr | tracking.bp01.net |
 | tr.cartegie.fr | tracking.bp01.net |
 | tr.cashback.floa.fr | tracking.bp01.net |
+| tr.cifa.espmp-nifr.net | tracking.bp01.net |
 | tr.cifa02k.espmp-aufr.net | tracking.bp01.net |
 | tr.cj.bordeaux-metropole.fr | tracking.bp01.net |
 | tr.client.emailing.bnpparibas | tracking.bp01.net |
@@ -89,6 +91,7 @@
 | tr.e.entreprise-pm.net | tracking.bp01.net |
 | tr.e.trouver-un-logement-neuf.com | tracking.bp01.net |
 | tr.easy-offertes.be | tracking.bp01.net |
+| tr.em.cdiscount-pro.com | tracking.bp01.net |
 | tr.em.cdiscountpro.com | tracking.bp01.net |
 | tr.email.archiexpo.com | tracking.bp01.net |
 | tr.email.contact-landrover.fr | tracking.bp01.net |
@@ -122,6 +125,7 @@
 | tr.group-hr.lvmh.fr | tracking.bp01.net |
 | tr.groupama-gne.fr | tracking.bp01.net |
 | tr.helloartisan.info | tracking.bp01.net |
+| tr.info-btob-leaders.com | tracking.bp01.net |
 | tr.info-companeo.be | tracking.bp01.net |
 | tr.info.actionlogement.fr | tracking.bp01.net |
 | tr.info.ag2rlamondiale.fr | tracking.bp01.net |
@@ -185,6 +189,7 @@
 | tr.mnoc.espmp-nifr.net | tracking.bp01.net |
 | tr.moja-wycena.pl | tracking.bp01.net |
 | tr.mondevis-pro.com | tracking.bp01.net |
+| tr.mp.aconclue-business.fr | tracking.bp01.net |
 | tr.mp.aconclue-pro.com | tracking.bp01.net |
 | tr.n.info.cdgp.fr | tracking.bp01.net |
 | tr.news-chocolat.com | tracking.bp01.net |
@@ -203,11 +208,13 @@
 | tr.news.cotemaison.fr | tracking.bp01.net |
 | tr.news.deneuville-chocolat.fr | tracking.bp01.net |
 | tr.news.digitpjms.fr | tracking.bp01.net |
+| tr.news.directeo.fr | tracking.bp01.net |
 | tr.news.easyviaggio.com | tracking.bp01.net |
 | tr.news.easyviajar.com | tracking.bp01.net |
 | tr.news.easyvoyage.co.uk | tracking.bp01.net |
 | tr.news.easyvoyage.com | tracking.bp01.net |
 | tr.news.easyvoyage.de | tracking.bp01.net |
+| tr.news.economic-studies.fr | tracking.bp01.net |
 | tr.news.geantcasino.fr | tracking.bp01.net |
 | tr.news.heredis.com | tracking.bp01.net |
 | tr.news.infopro-digital.com | tracking.bp01.net |
@@ -233,6 +240,7 @@
 | tr.news.younited-credit.com | tracking.bp01.net |
 | tr.news2pjms.fr | tracking.bp01.net |
 | tr.news6.cdiscount.com | tracking.bp01.net |
+| tr.newsletter.afpa.fr | tracking.bp01.net |
 | tr.newsletter.assuragency.net | tracking.bp01.net |
 | tr.newsletter.bouygues-construction.com | tracking.bp01.net |
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
@@ -257,6 +265,7 @@
 | tr.notification.norrsken.fr | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |
 | tr.observatoire.musee-orsay.fr | tracking.bp01.net |
+| tr.offerte.migliorifornitori.it | tracking.bp01.net |
 | tr.offre-companeo.com | tracking.bp01.net |
 | tr.offres-professionnelles.fr | tracking.bp01.net |
 | tr.offres.01net.com | tracking.bp01.net |
@@ -297,6 +306,7 @@
 | tr.toner-services.fr | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |
 | tr.uk.icicibank.com | tracking.bp01.net |
+| tr.urfk03u.espmp-nifr.net | tracking.bp01.net |
 | tr.ville.bordeaux.fr | tracking.bp01.net |
 | tr.votrealarme.securitasdirect.fr | tracking.bp01.net |
 | tr.vous.hellobank.fr | tracking.bp01.net |

@@ -63,6 +63,7 @@
 | a8clk.manage.conoha.jp | trck.a8.net |
 | a8clk.minnadeooyasan.com | trck.a8.net |
 | a8clk.netowl.jp | trck.a8.net |
+| a8clk.order.lpio.jp | trck.a8.net |
 | a8clk.osoujihonpo.com | trck.a8.net |
 | a8clk.petitjob.jp | trck.a8.net |
 | a8clk.point-land.net | trck.a8.net |

@@ -287,6 +287,7 @@ email.boxed.com CNAME .
 email.clearscore.co.za CNAME .
 email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
+email.everyonesocial.r3.com CNAME .
 email.everyonesocial.united.com CNAME .
 email.everyonesocial.unity.com CNAME .
 email.fretello.com CNAME .
@@ -436,6 +437,7 @@ links.info.getgocafe.com CNAME .
 links.info.gianteagle.com CNAME .
 links.info.headspace.com CNAME .
 links.info.kfc.com CNAME .
+links.justfab.co.uk CNAME .
 links.justfab.com CNAME .
 links.justfab.de CNAME .
 links.justfab.es CNAME .

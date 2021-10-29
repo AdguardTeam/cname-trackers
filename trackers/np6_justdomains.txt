@@ -20,6 +20,7 @@ tr.asp002q.espmp-aufr.net
 tr.asp1.espmp-agfr.net
 tr.asp103z.espmp-nifr.net
 tr.asp106g.espmp-nifr.net
+tr.asp10ar.espmp-cufr.net
 tr.asp10bs.espmp-aufr.net
 tr.asp10cr.espmp-nifr.net
 tr.asp10hi.espmp-cufr.net
@@ -39,6 +40,7 @@ tr.camara.eu.com
 tr.carte.lcl.fr
 tr.cartegie.fr
 tr.cashback.floa.fr
+tr.cifa.espmp-nifr.net
 tr.cifa02k.espmp-aufr.net
 tr.cj.bordeaux-metropole.fr
 tr.client.emailing.bnpparibas
@@ -84,6 +86,7 @@ tr.e-mail.axa.fr
 tr.e.entreprise-pm.net
 tr.e.trouver-un-logement-neuf.com
 tr.easy-offertes.be
+tr.em.cdiscount-pro.com
 tr.em.cdiscountpro.com
 tr.email.archiexpo.com
 tr.email.contact-landrover.fr
@@ -117,6 +120,7 @@ tr.gestion.sygmabnpparibas-pf.com
 tr.group-hr.lvmh.fr
 tr.groupama-gne.fr
 tr.helloartisan.info
+tr.info-btob-leaders.com
 tr.info-companeo.be
 tr.info.actionlogement.fr
 tr.info.ag2rlamondiale.fr
@@ -180,6 +184,7 @@ tr.mm.infopro-digital.com
 tr.mnoc.espmp-nifr.net
 tr.moja-wycena.pl
 tr.mondevis-pro.com
+tr.mp.aconclue-business.fr
 tr.mp.aconclue-pro.com
 tr.n.info.cdgp.fr
 tr.news-chocolat.com
@@ -198,11 +203,13 @@ tr.news.cdiscount.com
 tr.news.cotemaison.fr
 tr.news.deneuville-chocolat.fr
 tr.news.digitpjms.fr
+tr.news.directeo.fr
 tr.news.easyviaggio.com
 tr.news.easyviajar.com
 tr.news.easyvoyage.co.uk
 tr.news.easyvoyage.com
 tr.news.easyvoyage.de
+tr.news.economic-studies.fr
 tr.news.geantcasino.fr
 tr.news.heredis.com
 tr.news.infopro-digital.com
@@ -228,6 +235,7 @@ tr.news.younited-coach.com
 tr.news.younited-credit.com
 tr.news2pjms.fr
 tr.news6.cdiscount.com
+tr.newsletter.afpa.fr
 tr.newsletter.assuragency.net
 tr.newsletter.bouygues-construction.com
 tr.newsletter.capdecision.fr
@@ -252,6 +260,7 @@ tr.notification.credit-moderne.fr
 tr.notification.norrsken.fr
 tr.np6.com
 tr.observatoire.musee-orsay.fr
+tr.offerte.migliorifornitori.it
 tr.offre-companeo.com
 tr.offres-professionnelles.fr
 tr.offres.01net.com
@@ -292,6 +301,7 @@ tr.toner-service.fr
 tr.toner-services.fr
 tr.trafficnews.lyria.com
 tr.uk.icicibank.com
+tr.urfk03u.espmp-nifr.net
 tr.ville.bordeaux.fr
 tr.votrealarme.securitasdirect.fr
 tr.vous.hellobank.fr

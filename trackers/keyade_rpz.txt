@@ -15,9 +15,7 @@ k.direct-assurance.fr CNAME .
 k.empruntis.com CNAME .
 k.fnacspectacles.com CNAME .
 k.hofmann.es CNAME .
-k.laredoute.be CNAME .
 k.laredoute.es CNAME .
-k.laredoute.fr CNAME .
 k.laredoute.ru CNAME .
 k.premiereclasse.com CNAME .
 k.rueducommerce.fr CNAME .
@@ -30,3 +28,7 @@ keyade.alltricks.fr CNAME .
 keyade.ooreka.fr CNAME .
 tck.photobox.com CNAME .
 tck.transavia.com CNAME .
+;
+; k.madmetrics.com disguised trackers
+;
+k.truffaut.com CNAME .

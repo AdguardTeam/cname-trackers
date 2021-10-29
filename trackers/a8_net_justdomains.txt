@@ -57,6 +57,7 @@ a8clk.macpaw.com
 a8clk.manage.conoha.jp
 a8clk.minnadeooyasan.com
 a8clk.netowl.jp
+a8clk.order.lpio.jp
 a8clk.osoujihonpo.com
 a8clk.petitjob.jp
 a8clk.point-land.net

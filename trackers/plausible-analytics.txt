@@ -56,6 +56,7 @@
 ||ap.dt.gl^
 ||api.decentralize.today^
 ||api.elliehuxtable.com^
+||api.ryanyao.design^
 ||app-stats.supernotes.app^
 ||ares.buyersclub.se^
 ||artistchristinacarmel.ericksonbuilt.com^
@@ -177,6 +178,7 @@
 ||plausible.panic.com^
 ||plausible.pgmustard.com^
 ||plausible.phuctm97.com^
+||plausible.plancagency.com^
 ||plausible.play.date^
 ||plausible.prod.sketch.com^
 ||plausible.promlens.com^
@@ -285,6 +287,7 @@
 ||stats.dashbit.co^
 ||stats.davestewart.co.uk^
 ||stats.davidlms.com^
+||stats.dazzit.com^
 ||stats.deva.guru^
 ||stats.digiexpert.store^
 ||stats.divyanshu013.dev^
@@ -378,16 +381,21 @@
 ||stats.masjidbox.com^
 ||stats.matthiasloibl.com^
 ||stats.matthogg.fyi^
+||stats.maurer-rides.de^
 ||stats.melvingeorge.me^
 ||stats.mesenvies.fr^
+||stats.michaell.io^
 ||stats.missionrabies.com^
 ||stats.mkwtas.com^
 ||stats.mmazzarolo.com^
 ||stats.motion-effect.com^
 ||stats.motornation.net^
 ||stats.muchbetteradventures.com^
+||stats.mynfp.de^
 ||stats.nddmed.com^
 ||stats.nerdbusiness.com^
+||stats.newslit.co^
+||stats.nextaction.app^
 ||stats.nicolabricot.com^
 ||stats.nicolaskempf.fr^
 ||stats.nonprofit.foundation^
@@ -437,6 +445,7 @@
 ||stats.robhope.com^
 ||stats.ruhrfestspiele.de^
 ||stats.ruthmontenegro.com^
+||stats.scailable.net^
 ||stats.scalgo.com^
 ||stats.scottbartell.com^
 ||stats.screen-play.app^

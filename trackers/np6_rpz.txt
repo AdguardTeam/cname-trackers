@@ -20,6 +20,7 @@ tr.asp002q.espmp-aufr.net CNAME .
 tr.asp1.espmp-agfr.net CNAME .
 tr.asp103z.espmp-nifr.net CNAME .
 tr.asp106g.espmp-nifr.net CNAME .
+tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
 tr.asp10cr.espmp-nifr.net CNAME .
 tr.asp10hi.espmp-cufr.net CNAME .
@@ -39,6 +40,7 @@ tr.camara.eu.com CNAME .
 tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
+tr.cifa.espmp-nifr.net CNAME .
 tr.cifa02k.espmp-aufr.net CNAME .
 tr.cj.bordeaux-metropole.fr CNAME .
 tr.client.emailing.bnpparibas CNAME .
@@ -84,6 +86,7 @@ tr.e-mail.axa.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
 tr.e.trouver-un-logement-neuf.com CNAME .
 tr.easy-offertes.be CNAME .
+tr.em.cdiscount-pro.com CNAME .
 tr.em.cdiscountpro.com CNAME .
 tr.email.archiexpo.com CNAME .
 tr.email.contact-landrover.fr CNAME .
@@ -117,6 +120,7 @@ tr.gestion.sygmabnpparibas-pf.com CNAME .
 tr.group-hr.lvmh.fr CNAME .
 tr.groupama-gne.fr CNAME .
 tr.helloartisan.info CNAME .
+tr.info-btob-leaders.com CNAME .
 tr.info-companeo.be CNAME .
 tr.info.actionlogement.fr CNAME .
 tr.info.ag2rlamondiale.fr CNAME .
@@ -180,6 +184,7 @@ tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
 tr.moja-wycena.pl CNAME .
 tr.mondevis-pro.com CNAME .
+tr.mp.aconclue-business.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
 tr.n.info.cdgp.fr CNAME .
 tr.news-chocolat.com CNAME .
@@ -198,11 +203,13 @@ tr.news.cdiscount.com CNAME .
 tr.news.cotemaison.fr CNAME .
 tr.news.deneuville-chocolat.fr CNAME .
 tr.news.digitpjms.fr CNAME .
+tr.news.directeo.fr CNAME .
 tr.news.easyviaggio.com CNAME .
 tr.news.easyviajar.com CNAME .
 tr.news.easyvoyage.co.uk CNAME .
 tr.news.easyvoyage.com CNAME .
 tr.news.easyvoyage.de CNAME .
+tr.news.economic-studies.fr CNAME .
 tr.news.geantcasino.fr CNAME .
 tr.news.heredis.com CNAME .
 tr.news.infopro-digital.com CNAME .
@@ -228,6 +235,7 @@ tr.news.younited-coach.com CNAME .
 tr.news.younited-credit.com CNAME .
 tr.news2pjms.fr CNAME .
 tr.news6.cdiscount.com CNAME .
+tr.newsletter.afpa.fr CNAME .
 tr.newsletter.assuragency.net CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
@@ -252,6 +260,7 @@ tr.notification.credit-moderne.fr CNAME .
 tr.notification.norrsken.fr CNAME .
 tr.np6.com CNAME .
 tr.observatoire.musee-orsay.fr CNAME .
+tr.offerte.migliorifornitori.it CNAME .
 tr.offre-companeo.com CNAME .
 tr.offres-professionnelles.fr CNAME .
 tr.offres.01net.com CNAME .
@@ -292,6 +301,7 @@ tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .
 tr.trafficnews.lyria.com CNAME .
 tr.uk.icicibank.com CNAME .
+tr.urfk03u.espmp-nifr.net CNAME .
 tr.ville.bordeaux.fr CNAME .
 tr.votrealarme.securitasdirect.fr CNAME .
 tr.vous.hellobank.fr CNAME .
