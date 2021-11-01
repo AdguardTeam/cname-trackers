@@ -71,6 +71,7 @@ tr.communication.numericable.fr
 tr.communication.offresb2b.fr
 tr.compte.fca-capital-france.fr
 tr.contact.canalplus.fr
+tr.contact.e-turf.fr
 tr.courriel.ouestnormandie.cci.fr
 tr.courrier.charentelibre.fr
 tr.courrier.larepubliquedespyrenees.fr
@@ -254,6 +255,7 @@ tr.notification-gdpr.cofinoga.fr
 tr.notification-gdpr.domofinance.fr
 tr.notification-gdpr.sygmabybnpparibas-pf.com
 tr.notification.banque-revillon.fr
+tr.notification.cafineo.fr
 tr.notification.cdiscount.com
 tr.notification.cetelem.fr
 tr.notification.credit-moderne.fr

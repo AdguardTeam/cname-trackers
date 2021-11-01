@@ -9,6 +9,7 @@
 ||a8.denwa-hikari.com^
 ||a8.eonet.jp^
 ||a8.erasutamo.onlinestaff.jp^
+||a8.fit-theme.com^
 ||a8.geo-online.co.jp^
 ||a8.haptic.co.jp^
 ||a8.hitohana.tokyo^
@@ -45,6 +46,7 @@
 ||a8clk.campaigns.speed-kaitori.jp^
 ||a8clk.chat-wifi.site^
 ||a8clk.cv.mensfashion.cc^
+||a8clk.cv.warau.jp^
 ||a8clk.dospara.co.jp^
 ||a8clk.hurugicom.jp^
 ||a8clk.justy-consul.com^
@@ -117,8 +119,10 @@
 ||a8sup.chapup.jp^
 ||a8trck.aisatsujo.jp^
 ||a8trck.worldone.to^
+||a8trk.www.std-lab.jp^
 ||acv.cmf-hikari.net^
 ||afi.ssl.gmobb.jp^
+||aficv.finebase.jp^
 ||analytics.villagehouse.jp^
 ||cart.matsuzaka-steak.com^
 ||cv.a-internet.jp^

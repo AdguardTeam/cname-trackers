@@ -71,6 +71,7 @@ tr.communication.numericable.fr CNAME .
 tr.communication.offresb2b.fr CNAME .
 tr.compte.fca-capital-france.fr CNAME .
 tr.contact.canalplus.fr CNAME .
+tr.contact.e-turf.fr CNAME .
 tr.courriel.ouestnormandie.cci.fr CNAME .
 tr.courrier.charentelibre.fr CNAME .
 tr.courrier.larepubliquedespyrenees.fr CNAME .
@@ -254,6 +255,7 @@ tr.notification-gdpr.cofinoga.fr CNAME .
 tr.notification-gdpr.domofinance.fr CNAME .
 tr.notification-gdpr.sygmabybnpparibas-pf.com CNAME .
 tr.notification.banque-revillon.fr CNAME .
+tr.notification.cafineo.fr CNAME .
 tr.notification.cdiscount.com CNAME .
 tr.notification.cetelem.fr CNAME .
 tr.notification.credit-moderne.fr CNAME .

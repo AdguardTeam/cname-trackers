@@ -29,7 +29,7 @@
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
-||c0i.ckoi.com^
+||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||cc.conforama.es^
 ||ch0p.darty.com^
@@ -118,7 +118,6 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
-||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||eule1.pmu.fr^
 ||eulerian.astro-way.com^
@@ -171,6 +170,7 @@
 ||hby7.destinia.it^
 ||he6e.lavieimmo.com^
 ||hgf4.zanzicar.fr^
+||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^
@@ -222,7 +222,6 @@
 ||nmo1.orpi.com^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
-||nym5c.bonlook.com^
 ||nym5c.laura.ca^
 ||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^
@@ -235,6 +234,7 @@
 ||ogb2.natessance.com^
 ||ojm4.palladiumhotelgroup.com^
 ||oor.ooreka.fr^
+||oph7o.montecarlosbm-corporate.com^
 ||oqr4.destinia.in^
 ||pbox.no.photobox.com^
 ||pbox.photobox.be^
@@ -271,6 +271,7 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
+||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sby1.madeindesign.de^
 ||sd.securitasdirect.fr^
@@ -291,7 +292,6 @@
 ||t.locasun.it^
 ||t.locasun.nl^
 ||t.voyages-sncf.com^
-||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tce0.primes-energie.leclerc^

@@ -76,6 +76,7 @@
 | tr.communication.offresb2b.fr | tracking.bp01.net |
 | tr.compte.fca-capital-france.fr | tracking.bp01.net |
 | tr.contact.canalplus.fr | tracking.bp01.net |
+| tr.contact.e-turf.fr | tracking.bp01.net |
 | tr.courriel.ouestnormandie.cci.fr | tracking.bp01.net |
 | tr.courrier.charentelibre.fr | tracking.bp01.net |
 | tr.courrier.larepubliquedespyrenees.fr | tracking.bp01.net |
@@ -259,6 +260,7 @@
 | tr.notification-gdpr.domofinance.fr | tracking.bp01.net |
 | tr.notification-gdpr.sygmabybnpparibas-pf.com | tracking.bp01.net |
 | tr.notification.banque-revillon.fr | tracking.bp01.net |
+| tr.notification.cafineo.fr | tracking.bp01.net |
 | tr.notification.cdiscount.com | tracking.bp01.net |
 | tr.notification.cetelem.fr | tracking.bp01.net |
 | tr.notification.credit-moderne.fr | tracking.bp01.net |

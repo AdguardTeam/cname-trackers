@@ -19,7 +19,6 @@ k.laredoute.es CNAME .
 k.laredoute.ru CNAME .
 k.premiereclasse.com CNAME .
 k.rueducommerce.fr CNAME .
-k.truffaut.com CNAME .
 k.veepee.fr CNAME .
 k.veepee.it CNAME .
 k.voyageursdumonde.fr CNAME .

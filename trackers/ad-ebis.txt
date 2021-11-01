@@ -10,6 +10,7 @@
 ||ad-track.paravi.jp^
 ||ad.aucfan.com^
 ||ad.aucview.com^
+||ad.autorace.jp^
 ||ad.kddi-fs.com^
 ||ad.takasu.co.jp^
 ||ad.tempstaff.co.jp^
@@ -123,6 +124,7 @@
 ||isebis.takamiclinic.or.jp^
 ||isebis.yutoriform.com^
 ||itp.phoebebeautyup.com^
+||jj85xnjq.ybqwah.ntt.com^
 ||maz.zba.jp^
 ||mgn.ebis.andbe-official.com^
 ||msr.p-antiaging.com^

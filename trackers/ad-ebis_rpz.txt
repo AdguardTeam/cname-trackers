@@ -10,6 +10,7 @@ ad-ebis.mynavi-job20s.jp CNAME .
 ad-track.paravi.jp CNAME .
 ad.aucfan.com CNAME .
 ad.aucview.com CNAME .
+ad.autorace.jp CNAME .
 ad.kddi-fs.com CNAME .
 ad.takasu.co.jp CNAME .
 ad.tempstaff.co.jp CNAME .
@@ -123,6 +124,7 @@ greenjapan-cname.green-japan.com CNAME .
 isebis.takamiclinic.or.jp CNAME .
 isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
+jj85xnjq.ybqwah.ntt.com CNAME .
 maz.zba.jp CNAME .
 mgn.ebis.andbe-official.com CNAME .
 msr.p-antiaging.com CNAME .

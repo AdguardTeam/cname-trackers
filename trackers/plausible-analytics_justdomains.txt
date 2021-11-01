@@ -82,6 +82,7 @@ hej.henriksommerfeld.se
 hi.streetworkoutlist.com
 hi.victorbaudot.com
 hurricane.tinybird.co
+hype.zlipa.com
 informatics.filamentcolors.xyz
 insights.affilimate.com
 insights.frenchtogether.com
@@ -228,7 +229,6 @@ site-stats.supernotes.app
 sp.jrklein.com
 sp.spaceomatic.fr
 spock.dom.codes
-st.encyclopediadramatica.rs
 st2.jamesdaniel.dev
 stat.bill.harding.blog
 statistics.csweapons.com
@@ -398,6 +398,7 @@ stats.newslit.co
 stats.nextaction.app
 stats.nicolabricot.com
 stats.nicolaskempf.fr
+stats.nomad.radio
 stats.nonprofit.foundation
 stats.nothingbutnylon.com
 stats.nrcaknights.com

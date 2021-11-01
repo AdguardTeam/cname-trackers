@@ -98,6 +98,7 @@
 ||ablink.m.sofi.org^
 ||ablink.mail.activearcade.ai^
 ||ablink.mail.adobespark.com^
+||ablink.mail.flipfit.com^
 ||ablink.mail.grailed.com^
 ||ablink.mail.homecourt.ai^
 ||ablink.mail.inscape.life^
@@ -110,6 +111,7 @@
 ||ablink.marketing.motortrend.com^
 ||ablink.mktg.almosafer.com^
 ||ablink.mktg.tajawal.com^
+||ablink.msg.flipfit.com^
 ||ablink.my.zip.co^
 ||ablink.news.debut.careers^
 ||ablink.news.felixmobile.com.au^
@@ -126,6 +128,7 @@
 ||ablink.offers.checkout51.com^
 ||ablink.offers.grassdoor.com^
 ||ablink.p.radio.com^
+||ablink.pomelo.fashion^
 ||ablink.pomelofashion.com^
 ||ablink.promos.timhortons.ca^
 ||ablink.promos.timhortons.com^
@@ -305,7 +308,6 @@
 ||email1.strava.com^
 ||emails.verishop.com^
 ||fleet-eml.postmates.com^
-||go.emails.discoveryplus.com^
 ||go.heybianca.co^
 ||goto.dresslily.com^
 ||goto.rosegal.com^
@@ -427,6 +429,7 @@
 ||links.fabletics.co.uk^
 ||links.fabletics.com^
 ||links.fabletics.de^
+||links.fabletics.es^
 ||links.fabletics.fr^
 ||links.fitbod.me^
 ||links.glamsquad.com^
@@ -523,4 +526,5 @@
 ||url7542.fluz.app^
 ||url8196.mindrise.app^
 ||url9576.oneshift.com^
+||url9609.account.experience-muse.com^
 ||wl.spotify.com^

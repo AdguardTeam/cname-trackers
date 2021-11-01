@@ -3,25 +3,22 @@
 ;
 ; dataunlocker.com disguised trackers
 ;
-042qge73l5aw.app.polymersearch.com CNAME .
-164fi5kesvt.www.usa-corporate.com CNAME .
-1iy4gu0lpkp.my.gloryleague.basketball CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
+2e5km6f7o4zq.www.botcomics.com CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
 4ntug5jhu0t8.furucombo.app CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
-c5ai4b502b.www.chandlerorchards.com CNAME .
 cihnqp6p65.koinly.io CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 fp84rw0jinz7.blanc.ru CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 grxkwphx0yk5.stoic.ai CNAME .
-h5nmx7qrncrp.mailfloss.com CNAME .
 lh3pvljbkong.www.nookgaming.com CNAME .
-ok2691lw4w3g.www.word.com.au CNAME .
+ooyk93cxdqv8.www.usa-corporate.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
+p6pcdu3doexb.www.earthclassmail.com CNAME .
 qwcp5tza48tt.xpollinate.io CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
@@ -30,29 +27,17 @@ xlvvy4msxr.coolinastore.com CNAME .
 ;
 ; monopoly-drain.ga disguised trackers
 ;
-1iy4gu0lpkp.my.gloryleague.basketball CNAME .
-1zzs6w25i8n.tube.inflatevids.xyz CNAME .
-2829i2p88jx.www.csaladinet.hu CNAME .
-2qqfxz5kecr4.www.eldorado.gg CNAME .
-4ntug5jhu0t8.furucombo.app CNAME .
-grxkwphx0yk5.stoic.ai CNAME .
-h5nmx7qrncrp.mailfloss.com CNAME .
-ros3d4dbs3px.salud-masculina.info CNAME .
-s2whyufxmzam.chatpay.com.br CNAME .
-uhm26jyr11zv.www.freecodecamp.org CNAME .
-xlvvy4msxr.coolinastore.com CNAME .
+; no domains found for monopoly-drain.ga
 ;
 ; friendly-community.tk disguised trackers
 ;
-042qge73l5aw.app.polymersearch.com CNAME .
-0ewo7r50vwkz.www.botcomics.com CNAME .
-164fi5kesvt.www.usa-corporate.com CNAME .
 1iy4gu0lpkp.my.gloryleague.basketball CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
 1p3293dngsv.dodofacile.fr CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 25voj20abod.honeyswap.org CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
+2e5km6f7o4zq.www.botcomics.com CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
 4ntug5jhu0t8.furucombo.app CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
@@ -65,7 +50,9 @@ gl5g98t0vfjb.panprices.com CNAME .
 grxkwphx0yk5.stoic.ai CNAME .
 lh3pvljbkong.www.nookgaming.com CNAME .
 ok2691lw4w3g.www.word.com.au CNAME .
+ooyk93cxdqv8.www.usa-corporate.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
+p6pcdu3doexb.www.earthclassmail.com CNAME .
 p7qebe2odmlm.franchiseplus.nl CNAME .
 qwcp5tza48tt.xpollinate.io CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .

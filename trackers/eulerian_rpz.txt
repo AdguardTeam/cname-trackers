@@ -29,7 +29,7 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
 ch0p.darty.com CNAME .
@@ -118,7 +118,6 @@ ef.futuroscope.mobi CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 eule1.pmu.fr CNAME .
 eulerian.astro-way.com CNAME .
@@ -171,6 +170,7 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 he6e.lavieimmo.com CNAME .
 hgf4.zanzicar.fr CNAME .
+hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
@@ -222,7 +222,6 @@ nlf6.vente-unique.pl CNAME .
 nmo1.orpi.com CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
-nym5c.bonlook.com CNAME .
 nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
@@ -235,6 +234,7 @@ ogb2.leanatureboutique.com CNAME .
 ogb2.natessance.com CNAME .
 ojm4.palladiumhotelgroup.com CNAME .
 oor.ooreka.fr CNAME .
+oph7o.montecarlosbm-corporate.com CNAME .
 oqr4.destinia.in CNAME .
 pbox.no.photobox.com CNAME .
 pbox.photobox.be CNAME .
@@ -271,6 +271,7 @@ rh5i.tradingsat.com CNAME .
 rqz4.supdigital.fr CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
+ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sby1.madeindesign.de CNAME .
 sd.securitasdirect.fr CNAME .
@@ -291,7 +292,6 @@ t.locasun.fr CNAME .
 t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.voyages-sncf.com CNAME .
-t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tce0.primes-energie.leclerc CNAME .

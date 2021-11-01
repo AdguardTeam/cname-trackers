@@ -9,6 +9,7 @@ a8.denki-koji.work CNAME .
 a8.denwa-hikari.com CNAME .
 a8.eonet.jp CNAME .
 a8.erasutamo.onlinestaff.jp CNAME .
+a8.fit-theme.com CNAME .
 a8.geo-online.co.jp CNAME .
 a8.haptic.co.jp CNAME .
 a8.hitohana.tokyo CNAME .
@@ -45,6 +46,7 @@ a8clk.camerakaitori.jp CNAME .
 a8clk.campaigns.speed-kaitori.jp CNAME .
 a8clk.chat-wifi.site CNAME .
 a8clk.cv.mensfashion.cc CNAME .
+a8clk.cv.warau.jp CNAME .
 a8clk.dospara.co.jp CNAME .
 a8clk.hurugicom.jp CNAME .
 a8clk.justy-consul.com CNAME .
@@ -117,8 +119,10 @@ a8onlineshop.trendmicro.co.jp CNAME .
 a8sup.chapup.jp CNAME .
 a8trck.aisatsujo.jp CNAME .
 a8trck.worldone.to CNAME .
+a8trk.www.std-lab.jp CNAME .
 acv.cmf-hikari.net CNAME .
 afi.ssl.gmobb.jp CNAME .
+aficv.finebase.jp CNAME .
 analytics.villagehouse.jp CNAME .
 cart.matsuzaka-steak.com CNAME .
 cv.a-internet.jp CNAME .

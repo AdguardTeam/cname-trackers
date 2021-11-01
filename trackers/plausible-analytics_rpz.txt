@@ -82,6 +82,7 @@ hej.henriksommerfeld.se CNAME .
 hi.streetworkoutlist.com CNAME .
 hi.victorbaudot.com CNAME .
 hurricane.tinybird.co CNAME .
+hype.zlipa.com CNAME .
 informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
 insights.frenchtogether.com CNAME .
@@ -228,7 +229,6 @@ site-stats.supernotes.app CNAME .
 sp.jrklein.com CNAME .
 sp.spaceomatic.fr CNAME .
 spock.dom.codes CNAME .
-st.encyclopediadramatica.rs CNAME .
 st2.jamesdaniel.dev CNAME .
 stat.bill.harding.blog CNAME .
 statistics.csweapons.com CNAME .
@@ -398,6 +398,7 @@ stats.newslit.co CNAME .
 stats.nextaction.app CNAME .
 stats.nicolabricot.com CNAME .
 stats.nicolaskempf.fr CNAME .
+stats.nomad.radio CNAME .
 stats.nonprofit.foundation CNAME .
 stats.nothingbutnylon.com CNAME .
 stats.nrcaknights.com CNAME .

@@ -55,6 +55,7 @@
     * 518dea17-lwmskzks.cname.ebis.ne.jp
     * 52e84b1b-f9cqqk3h.cname.ebis.ne.jp
     * 5e958d74-ugbtnbbz.cname.ebis.ne.jp
+    * 60222f89-dui9p9au.cname.ebis.ne.jp
     * 608975dd-6hbgpszs.cname.ebis.ne.jp
     * 62eeb5c5-qzuayf3m.cname.ebis.ne.jp
     * 63caa179-uynsk4n4.cname.ebis.ne.jp
@@ -98,6 +99,7 @@
     * ac8dd399-7xybwgkv.cname.ebis.ne.jp
     * ad332265-3fbqyybv.cname.ebis.ne.jp
     * ae17c42a-alqe4sgf.cname.ebis.ne.jp
+    * ae17c42a-hcl31hrm.cname.ebis.ne.jp
     * ae331b42-b3j1fwdu.cname.ebis.ne.jp
     * af715239-g5riys9k.cname.ebis.ne.jp
     * b3dfd045-acrymmnj.cname.ebis.ne.jp
@@ -199,6 +201,7 @@
 | cvs.kireimo.jp | 518dea17-lwmskzks.cname.ebis.ne.jp |
 | adebis-52667624.wowma.jp | 52e84b1b-f9cqqk3h.cname.ebis.ne.jp |
 | ac-3.mix.tokyo | 5e958d74-ugbtnbbz.cname.ebis.ne.jp |
+| ad.autorace.jp | 60222f89-dui9p9au.cname.ebis.ne.jp |
 | ebis.sekisuihouse.co.jp | 608975dd-6hbgpszs.cname.ebis.ne.jp |
 | ebisanalysis.mouse-jp.co.jp | 62eeb5c5-qzuayf3m.cname.ebis.ne.jp |
 | ad.aucfan.com | 63caa179-uynsk4n4.cname.ebis.ne.jp |
@@ -242,6 +245,7 @@
 | ebis.jobcan.ne.jp | ac8dd399-7xybwgkv.cname.ebis.ne.jp |
 | isebis.yutoriform.com | ad332265-3fbqyybv.cname.ebis.ne.jp |
 | qxhydkz8.hmjdaw.ntt.com | ae17c42a-alqe4sgf.cname.ebis.ne.jp |
+| jj85xnjq.ybqwah.ntt.com | ae17c42a-hcl31hrm.cname.ebis.ne.jp |
 | beeline.beeline-tire.co.jp | ae331b42-b3j1fwdu.cname.ebis.ne.jp |
 | adebis.daiwahouse.co.jp | af715239-g5riys9k.cname.ebis.ne.jp |
 | cname.jf-d.jp | b3dfd045-acrymmnj.cname.ebis.ne.jp |

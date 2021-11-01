@@ -98,6 +98,7 @@ ablink.m.seatedapp.io CNAME .
 ablink.m.sofi.org CNAME .
 ablink.mail.activearcade.ai CNAME .
 ablink.mail.adobespark.com CNAME .
+ablink.mail.flipfit.com CNAME .
 ablink.mail.grailed.com CNAME .
 ablink.mail.homecourt.ai CNAME .
 ablink.mail.inscape.life CNAME .
@@ -110,6 +111,7 @@ ablink.marketing.li.me CNAME .
 ablink.marketing.motortrend.com CNAME .
 ablink.mktg.almosafer.com CNAME .
 ablink.mktg.tajawal.com CNAME .
+ablink.msg.flipfit.com CNAME .
 ablink.my.zip.co CNAME .
 ablink.news.debut.careers CNAME .
 ablink.news.felixmobile.com.au CNAME .
@@ -126,6 +128,7 @@ ablink.o.sofi.org CNAME .
 ablink.offers.checkout51.com CNAME .
 ablink.offers.grassdoor.com CNAME .
 ablink.p.radio.com CNAME .
+ablink.pomelo.fashion CNAME .
 ablink.pomelofashion.com CNAME .
 ablink.promos.timhortons.ca CNAME .
 ablink.promos.timhortons.com CNAME .
@@ -305,7 +308,6 @@ email.wirexapp.com CNAME .
 email1.strava.com CNAME .
 emails.verishop.com CNAME .
 fleet-eml.postmates.com CNAME .
-go.emails.discoveryplus.com CNAME .
 go.heybianca.co CNAME .
 goto.dresslily.com CNAME .
 goto.rosegal.com CNAME .
@@ -427,6 +429,7 @@ links.evault.history.com CNAME .
 links.fabletics.co.uk CNAME .
 links.fabletics.com CNAME .
 links.fabletics.de CNAME .
+links.fabletics.es CNAME .
 links.fabletics.fr CNAME .
 links.fitbod.me CNAME .
 links.glamsquad.com CNAME .
@@ -523,4 +526,5 @@ url3630.newsletter.experience-muse.com CNAME .
 url7542.fluz.app CNAME .
 url8196.mindrise.app CNAME .
 url9576.oneshift.com CNAME .
+url9609.account.experience-muse.com CNAME .
 wl.spotify.com CNAME .

@@ -29,7 +29,6 @@
 | k.laredoute.ru | k.keyade.com |
 | k.premiereclasse.com | k.keyade.com |
 | k.rueducommerce.fr | k.keyade.com |
-| k.truffaut.com | k.keyade.com |
 | k.veepee.fr | k.keyade.com |
 | k.veepee.it | k.keyade.com |
 | k.voyageursdumonde.fr | k.keyade.com |

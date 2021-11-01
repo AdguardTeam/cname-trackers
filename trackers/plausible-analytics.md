@@ -87,6 +87,7 @@
 | hi.streetworkoutlist.com | custom.plausible.io |
 | hi.victorbaudot.com | custom.plausible.io |
 | hurricane.tinybird.co | custom.plausible.io |
+| hype.zlipa.com | custom.plausible.io |
 | informatics.filamentcolors.xyz | custom.plausible.io |
 | insights.affilimate.com | custom.plausible.io |
 | insights.frenchtogether.com | custom.plausible.io |
@@ -233,7 +234,6 @@
 | sp.jrklein.com | custom.plausible.io |
 | sp.spaceomatic.fr | custom.plausible.io |
 | spock.dom.codes | custom.plausible.io |
-| st.encyclopediadramatica.rs | custom.plausible.io |
 | st2.jamesdaniel.dev | custom.plausible.io |
 | stat.bill.harding.blog | custom.plausible.io |
 | statistics.csweapons.com | custom.plausible.io |
@@ -403,6 +403,7 @@
 | stats.nextaction.app | custom.plausible.io |
 | stats.nicolabricot.com | custom.plausible.io |
 | stats.nicolaskempf.fr | custom.plausible.io |
+| stats.nomad.radio | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
 | stats.nothingbutnylon.com | custom.plausible.io |
 | stats.nrcaknights.com | custom.plausible.io |
