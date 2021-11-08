@@ -36,6 +36,7 @@
     * hmg-wiwo-de-cddc.at-o.net
     * image-ard-de-cddc.at-o.net
     * image-mdr-de-cddc.at-o.net
+    * images-kika-de-cddc.at-o.net
     * insights-biallo-de-cddc.at-o.net
     * insights-sport1-de-cddc.at-o.net
     * johannes-voith-com-cddc.at-o.net
@@ -48,6 +49,7 @@
     * mond-postauto-ch-cddc.at-o.net
     * montpalatin-handicap-fr-cddc.at-o.net
     * pear-ca-eko-globetrotter-fr-cddc.at-o.net
+    * pear-youzful-by-ca-fr-cddc.at-o.net
     * ponyo-cheriefm-fr-cddc.at-o.net
     * res-elle-fr-cddc.at-o.net
     * res-femina-fr-cddc.at-o.net
@@ -121,6 +123,7 @@
 | hmg.wiwo.de | hmg-wiwo-de-cddc.at-o.net |
 | image.ard.de | image-ard-de-cddc.at-o.net |
 | image.mdr.de | image-mdr-de-cddc.at-o.net |
+| images.kika.de | images-kika-de-cddc.at-o.net |
 | insights.biallo.de | insights-biallo-de-cddc.at-o.net |
 | insights.sport1.de | insights-sport1-de-cddc.at-o.net |
 | johannes.voith.com | johannes-voith-com-cddc.at-o.net |
@@ -133,6 +136,7 @@
 | mond.postauto.ch | mond-postauto-ch-cddc.at-o.net |
 | montpalatin.handicap.fr | montpalatin-handicap-fr-cddc.at-o.net |
 | pear.ca-eko-globetrotter.fr | pear-ca-eko-globetrotter-fr-cddc.at-o.net |
+| pear.youzful-by-ca.fr | pear-youzful-by-ca-fr-cddc.at-o.net |
 | ponyo.cheriefm.fr | ponyo-cheriefm-fr-cddc.at-o.net |
 | res.elle.fr | res-elle-fr-cddc.at-o.net |
 | res.femina.fr | res-femina-fr-cddc.at-o.net |

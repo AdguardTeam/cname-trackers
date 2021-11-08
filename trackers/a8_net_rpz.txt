@@ -54,6 +54,7 @@ a8clk.kaitori-beerecords.jp CNAME .
 a8clk.kaitori-retrog.jp CNAME .
 a8clk.kenkoukazoku.co.jp CNAME .
 a8clk.life.bang.co.jp CNAME .
+a8clk.lolipop.jp CNAME .
 a8clk.low-ya.com CNAME .
 a8clk.macpaw.com CNAME .
 a8clk.manage.conoha.jp CNAME .
@@ -113,6 +114,7 @@ a8cv.workman.jp CNAME .
 a8cv.www.bedstyle.jp CNAME .
 a8cv.ygm-clinic.or.jp CNAME .
 a8cv.you-shoku.net CNAME .
+a8cv.yuyu-tei.jp CNAME .
 a8cv2.hoken-choice.com CNAME .
 a8cventry.uqwimax.jp CNAME .
 a8onlineshop.trendmicro.co.jp CNAME .

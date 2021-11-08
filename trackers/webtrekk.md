@@ -133,6 +133,7 @@
     * wa-wdr.wt-eu02.net
     * welt-01.wt-eu02.net
     * wttd-douglas.wt-eu02.net
+    * xxxlmoebelhaeuserde02.wt-eu02.net
 
 ## Cloaking domains
 
@@ -345,4 +346,5 @@
 | wttd.douglas.it | wttd-douglas.wt-eu02.net |
 | wttd.douglas.nl | wttd-douglas.wt-eu02.net |
 | wttd.douglas.pl | wttd-douglas.wt-eu02.net |
+| watg.xxxlutz.com | xxxlmoebelhaeuserde02.wt-eu02.net |
 | track.yellostrom.de | yello-de01.webtrekk.net |

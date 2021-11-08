@@ -27,6 +27,7 @@
 ||tk.healthwarehouse.com^
 ||tk.kitchendiet.fr^
 ||tk.klm.com^
+||tk.lamaisonduchocolat.com^
 ||tk.lcl.fr^
 ||tk.little-big-change.com^
 ||tk.lulli-sur-la-toile.com^

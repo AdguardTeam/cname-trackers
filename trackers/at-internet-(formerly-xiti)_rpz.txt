@@ -37,6 +37,7 @@ hmg.handelsblatt.com CNAME .
 hmg.wiwo.de CNAME .
 image.ard.de CNAME .
 image.mdr.de CNAME .
+images.kika.de CNAME .
 insights.biallo.de CNAME .
 insights.sport1.de CNAME .
 johannes.voith.com CNAME .
@@ -49,6 +50,7 @@ mond.post.ch CNAME .
 mond.postauto.ch CNAME .
 montpalatin.handicap.fr CNAME .
 pear.ca-eko-globetrotter.fr CNAME .
+pear.youzful-by-ca.fr CNAME .
 ponyo.cheriefm.fr CNAME .
 res.elle.fr CNAME .
 res.femina.fr CNAME .

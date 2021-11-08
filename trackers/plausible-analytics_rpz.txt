@@ -271,6 +271,7 @@ stats.changelog.com CNAME .
 stats.chapterist.show CNAME .
 stats.chronoslabs.net CNAME .
 stats.citizenos.com CNAME .
+stats.cleverdiabetic.com CNAME .
 stats.code-it-studio.de CNAME .
 stats.codeexposed.com CNAME .
 stats.coditia.com CNAME .
@@ -291,6 +292,7 @@ stats.dazzit.com CNAME .
 stats.deva.guru CNAME .
 stats.digiexpert.store CNAME .
 stats.divyanshu013.dev CNAME .
+stats.domain.garden CNAME .
 stats.doors.live CNAME .
 stats.drewbolles.com CNAME .
 stats.drgomesp.dev CNAME .
@@ -324,6 +326,7 @@ stats.getdoks.org CNAME .
 stats.gethyas.com CNAME .
 stats.getpickaxe.com CNAME .
 stats.glassmountains.co.uk CNAME .
+stats.glyphs.fyi CNAME .
 stats.graphql-api.com CNAME .
 stats.gslc.utah.edu CNAME .
 stats.guersanguillaume.com CNAME .
@@ -388,6 +391,7 @@ stats.michaell.io CNAME .
 stats.missionrabies.com CNAME .
 stats.mkwtas.com CNAME .
 stats.mmazzarolo.com CNAME .
+stats.moderncoupmake.com CNAME .
 stats.motion-effect.com CNAME .
 stats.motornation.net CNAME .
 stats.muchbetteradventures.com CNAME .
@@ -435,7 +439,6 @@ stats.pricewell.io CNAME .
 stats.print.work CNAME .
 stats.profilehunt.net CNAME .
 stats.raidprotect.org CNAME .
-stats.rainlily.org.hk CNAME .
 stats.rasulkireev.com CNAME .
 stats.readng.co CNAME .
 stats.referralhero.com CNAME .
@@ -513,16 +516,19 @@ thor.pureelectric.se CNAME .
 thumos.fileside.app CNAME .
 tics.seeker.gg CNAME .
 tics.techdirt.com CNAME .
+tipstats.onepagelove.com CNAME .
 tock.weg.plus CNAME .
 tocotronic.thomas.me CNAME .
 tokei.upstract.com CNAME .
 track.slickinbox.com CNAME .
 traffic.hostedstatus.page CNAME .
 traffic.taktikal.is CNAME .
+triton.companyegg.com CNAME .
 visite.scambi.org CNAME .
 visitors.asadis.net CNAME .
 visits.quitsocialmedia.club CNAME .
 visits.tommi.space CNAME .
 vole.amplenote.com CNAME .
+we-love-privacy.humane.club CNAME .
 xyz.bestool.pl CNAME .
 yolo.phpliveregex.com CNAME .

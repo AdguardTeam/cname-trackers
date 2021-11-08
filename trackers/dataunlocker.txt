@@ -3,22 +3,20 @@
 !
 ! dataunlocker.com disguised trackers
 !
-||1kpv4njzilv.community.intersystems.com^
+||1amehwchx31.bloxdhop.io^
 ||1zzs6w25i8n.tube.inflatevids.xyz^
 ||2829i2p88jx.www.csaladinet.hu^
-||2e5km6f7o4zq.www.botcomics.com^
 ||2qqfxz5kecr4.www.eldorado.gg^
-||4ntug5jhu0t8.furucombo.app^
+||4tiz3b7uvzv5.app.polymersearch.com^
 ||8p0kiyq5mq1d.flex.team^
-||cihnqp6p65.koinly.io^
+||8rqwuq2dtrki.www.botcomics.com^
 ||e5obq1v261.www.lurkit.com^
+||ekpnog9km4am.www.word.com.au^
 ||fp84rw0jinz7.blanc.ru^
-||gl5g98t0vfjb.panprices.com^
-||grxkwphx0yk5.stoic.ai^
+||kbozkdxa51bk.www.earthclassmail.com^
 ||lh3pvljbkong.www.nookgaming.com^
-||ooyk93cxdqv8.www.usa-corporate.com^
+||lis39l95rq1s.furucombo.app^
 ||ouc82i67pytg.www.emanualonline.com^
-||p6pcdu3doexb.www.earthclassmail.com^
 ||qwcp5tza48tt.xpollinate.io^
 ||ros3d4dbs3px.salud-masculina.info^
 ||s2whyufxmzam.chatpay.com.br^
@@ -31,34 +29,8 @@
 !
 ! friendly-community.tk disguised trackers
 !
-||1iy4gu0lpkp.my.gloryleague.basketball^
-||1kpv4njzilv.community.intersystems.com^
-||1p3293dngsv.dodofacile.fr^
-||1zzs6w25i8n.tube.inflatevids.xyz^
-||25voj20abod.honeyswap.org^
-||2829i2p88jx.www.csaladinet.hu^
-||2e5km6f7o4zq.www.botcomics.com^
-||2qqfxz5kecr4.www.eldorado.gg^
+! no domains found for friendly-community.tk
+!
+! cname.vercel-dns.com disguised trackers
+!
 ||4ntug5jhu0t8.furucombo.app^
-||8p0kiyq5mq1d.flex.team^
-||9kkjfywjz50v.www.eventus.io^
-||c5ai4b502b.www.chandlerorchards.com^
-||cihnqp6p65.koinly.io^
-||e5obq1v261.www.lurkit.com^
-||fp84rw0jinz7.blanc.ru^
-||gl5g98t0vfjb.panprices.com^
-||grxkwphx0yk5.stoic.ai^
-||lh3pvljbkong.www.nookgaming.com^
-||ok2691lw4w3g.www.word.com.au^
-||ooyk93cxdqv8.www.usa-corporate.com^
-||ouc82i67pytg.www.emanualonline.com^
-||p6pcdu3doexb.www.earthclassmail.com^
-||p7qebe2odmlm.franchiseplus.nl^
-||qwcp5tza48tt.xpollinate.io^
-||ros3d4dbs3px.salud-masculina.info^
-||s2whyufxmzam.chatpay.com.br^
-||tos5dqejpd.www.freecodecamp.org^
-||uhm26jyr11zv.www.freecodecamp.org^
-||x2l5lsn8rvsq.li.finance^
-||xlvvy4msxr.coolinastore.com^
-||ypf4i81rjs5p.unstoppabledomains.com^

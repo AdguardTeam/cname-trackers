@@ -298,6 +298,7 @@ email.goodrx.com CNAME .
 email.headsuphealth.com CNAME .
 email.link.flipgive.com CNAME .
 email.mail.floatme.io CNAME .
+email.mail.primexbt.com CNAME .
 email.member.theknot.com CNAME .
 email.mg.everyonesocial.com CNAME .
 email.pray.com CNAME .
@@ -308,6 +309,7 @@ email.wirexapp.com CNAME .
 email1.strava.com CNAME .
 emails.verishop.com CNAME .
 fleet-eml.postmates.com CNAME .
+go.emails.discoveryplus.com CNAME .
 go.heybianca.co CNAME .
 goto.dresslily.com CNAME .
 goto.rosegal.com CNAME .
@@ -360,6 +362,7 @@ link.hello2-sg.circles.life CNAME .
 link.hey.mypostcard.com CNAME .
 link.info.myfitnesspal.com CNAME .
 link.kdkmoments.com CNAME .
+link.kingsnews.whopper.co.za CNAME .
 link.loyalty.almosafer.com CNAME .
 link.loyalty.tajawal.com CNAME .
 link.lpm.surkus.com CNAME .
@@ -475,6 +478,7 @@ m.irl.com CNAME .
 m1.stadiumgoods.com CNAME .
 mail.theknot.com CNAME .
 mail01.virginpulse.com CNAME .
+mandrillapp.zola.com CNAME .
 mlinks.fluz.app CNAME .
 mx.carfax.com CNAME .
 notice.hoopladigital.com CNAME .

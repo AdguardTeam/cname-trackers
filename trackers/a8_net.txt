@@ -54,6 +54,7 @@
 ||a8clk.kaitori-retrog.jp^
 ||a8clk.kenkoukazoku.co.jp^
 ||a8clk.life.bang.co.jp^
+||a8clk.lolipop.jp^
 ||a8clk.low-ya.com^
 ||a8clk.macpaw.com^
 ||a8clk.manage.conoha.jp^
@@ -113,6 +114,7 @@
 ||a8cv.www.bedstyle.jp^
 ||a8cv.ygm-clinic.or.jp^
 ||a8cv.you-shoku.net^
+||a8cv.yuyu-tei.jp^
 ||a8cv2.hoken-choice.com^
 ||a8cventry.uqwimax.jp^
 ||a8onlineshop.trendmicro.co.jp^

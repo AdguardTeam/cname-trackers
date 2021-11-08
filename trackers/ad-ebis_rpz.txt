@@ -61,6 +61,7 @@ belegend2019.belegend.jp CNAME .
 campaign-direct.eisai.jp CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.hankoya.com CNAME .
+cname-ade.original-calendar.com CNAME .
 cname-adebis.nice2meet.us CNAME .
 cname.crank-in.net CNAME .
 cname.ebis.folio-sec.com CNAME .

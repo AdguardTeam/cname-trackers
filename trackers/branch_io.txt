@@ -298,6 +298,7 @@
 ||email.headsuphealth.com^
 ||email.link.flipgive.com^
 ||email.mail.floatme.io^
+||email.mail.primexbt.com^
 ||email.member.theknot.com^
 ||email.mg.everyonesocial.com^
 ||email.pray.com^
@@ -308,6 +309,7 @@
 ||email1.strava.com^
 ||emails.verishop.com^
 ||fleet-eml.postmates.com^
+||go.emails.discoveryplus.com^
 ||go.heybianca.co^
 ||goto.dresslily.com^
 ||goto.rosegal.com^
@@ -360,6 +362,7 @@
 ||link.hey.mypostcard.com^
 ||link.info.myfitnesspal.com^
 ||link.kdkmoments.com^
+||link.kingsnews.whopper.co.za^
 ||link.loyalty.almosafer.com^
 ||link.loyalty.tajawal.com^
 ||link.lpm.surkus.com^
@@ -475,6 +478,7 @@
 ||m1.stadiumgoods.com^
 ||mail.theknot.com^
 ||mail01.virginpulse.com^
+||mandrillapp.zola.com^
 ||mlinks.fluz.app^
 ||mx.carfax.com^
 ||notice.hoopladigital.com^

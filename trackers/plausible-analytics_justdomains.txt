@@ -271,6 +271,7 @@ stats.changelog.com
 stats.chapterist.show
 stats.chronoslabs.net
 stats.citizenos.com
+stats.cleverdiabetic.com
 stats.code-it-studio.de
 stats.codeexposed.com
 stats.coditia.com
@@ -291,6 +292,7 @@ stats.dazzit.com
 stats.deva.guru
 stats.digiexpert.store
 stats.divyanshu013.dev
+stats.domain.garden
 stats.doors.live
 stats.drewbolles.com
 stats.drgomesp.dev
@@ -324,6 +326,7 @@ stats.getdoks.org
 stats.gethyas.com
 stats.getpickaxe.com
 stats.glassmountains.co.uk
+stats.glyphs.fyi
 stats.graphql-api.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
@@ -388,6 +391,7 @@ stats.michaell.io
 stats.missionrabies.com
 stats.mkwtas.com
 stats.mmazzarolo.com
+stats.moderncoupmake.com
 stats.motion-effect.com
 stats.motornation.net
 stats.muchbetteradventures.com
@@ -435,7 +439,6 @@ stats.pricewell.io
 stats.print.work
 stats.profilehunt.net
 stats.raidprotect.org
-stats.rainlily.org.hk
 stats.rasulkireev.com
 stats.readng.co
 stats.referralhero.com
@@ -513,16 +516,19 @@ thor.pureelectric.se
 thumos.fileside.app
 tics.seeker.gg
 tics.techdirt.com
+tipstats.onepagelove.com
 tock.weg.plus
 tocotronic.thomas.me
 tokei.upstract.com
 track.slickinbox.com
 traffic.hostedstatus.page
 traffic.taktikal.is
+triton.companyegg.com
 visite.scambi.org
 visitors.asadis.net
 visits.quitsocialmedia.club
 visits.tommi.space
 vole.amplenote.com
+we-love-privacy.humane.club
 xyz.bestool.pl
 yolo.phpliveregex.com

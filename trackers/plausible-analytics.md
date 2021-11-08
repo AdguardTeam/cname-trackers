@@ -276,6 +276,7 @@
 | stats.chapterist.show | custom.plausible.io |
 | stats.chronoslabs.net | custom.plausible.io |
 | stats.citizenos.com | custom.plausible.io |
+| stats.cleverdiabetic.com | custom.plausible.io |
 | stats.code-it-studio.de | custom.plausible.io |
 | stats.codeexposed.com | custom.plausible.io |
 | stats.coditia.com | custom.plausible.io |
@@ -296,6 +297,7 @@
 | stats.deva.guru | custom.plausible.io |
 | stats.digiexpert.store | custom.plausible.io |
 | stats.divyanshu013.dev | custom.plausible.io |
+| stats.domain.garden | custom.plausible.io |
 | stats.doors.live | custom.plausible.io |
 | stats.drewbolles.com | custom.plausible.io |
 | stats.drgomesp.dev | custom.plausible.io |
@@ -329,6 +331,7 @@
 | stats.gethyas.com | custom.plausible.io |
 | stats.getpickaxe.com | custom.plausible.io |
 | stats.glassmountains.co.uk | custom.plausible.io |
+| stats.glyphs.fyi | custom.plausible.io |
 | stats.graphql-api.com | custom.plausible.io |
 | stats.gslc.utah.edu | custom.plausible.io |
 | stats.guersanguillaume.com | custom.plausible.io |
@@ -393,6 +396,7 @@
 | stats.missionrabies.com | custom.plausible.io |
 | stats.mkwtas.com | custom.plausible.io |
 | stats.mmazzarolo.com | custom.plausible.io |
+| stats.moderncoupmake.com | custom.plausible.io |
 | stats.motion-effect.com | custom.plausible.io |
 | stats.motornation.net | custom.plausible.io |
 | stats.muchbetteradventures.com | custom.plausible.io |
@@ -440,7 +444,6 @@
 | stats.print.work | custom.plausible.io |
 | stats.profilehunt.net | custom.plausible.io |
 | stats.raidprotect.org | custom.plausible.io |
-| stats.rainlily.org.hk | custom.plausible.io |
 | stats.rasulkireev.com | custom.plausible.io |
 | stats.readng.co | custom.plausible.io |
 | stats.referralhero.com | custom.plausible.io |
@@ -518,16 +521,19 @@
 | thumos.fileside.app | custom.plausible.io |
 | tics.seeker.gg | custom.plausible.io |
 | tics.techdirt.com | custom.plausible.io |
+| tipstats.onepagelove.com | custom.plausible.io |
 | tock.weg.plus | custom.plausible.io |
 | tocotronic.thomas.me | custom.plausible.io |
 | tokei.upstract.com | custom.plausible.io |
 | track.slickinbox.com | custom.plausible.io |
 | traffic.hostedstatus.page | custom.plausible.io |
 | traffic.taktikal.is | custom.plausible.io |
+| triton.companyegg.com | custom.plausible.io |
 | visite.scambi.org | custom.plausible.io |
 | visitors.asadis.net | custom.plausible.io |
 | visits.quitsocialmedia.club | custom.plausible.io |
 | visits.tommi.space | custom.plausible.io |
 | vole.amplenote.com | custom.plausible.io |
+| we-love-privacy.humane.club | custom.plausible.io |
 | xyz.bestool.pl | custom.plausible.io |
 | yolo.phpliveregex.com | custom.plausible.io |

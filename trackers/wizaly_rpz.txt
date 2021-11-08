@@ -27,6 +27,7 @@ tk.engie.fr CNAME .
 tk.healthwarehouse.com CNAME .
 tk.kitchendiet.fr CNAME .
 tk.klm.com CNAME .
+tk.lamaisonduchocolat.com CNAME .
 tk.lcl.fr CNAME .
 tk.little-big-change.com CNAME .
 tk.lulli-sur-la-toile.com CNAME .

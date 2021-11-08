@@ -60,7 +60,6 @@
 ||tr.communaute.caradisiac.com^
 ||tr.communautes-mediametrie.fr^
 ||tr.communication-comptable.fr^
-||tr.communication.arthur-bonnet.com^
 ||tr.communication.b2b-actualites.com^
 ||tr.communication.boursorama.info^
 ||tr.communication.cgaaer.fr^

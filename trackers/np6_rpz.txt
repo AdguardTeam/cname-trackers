@@ -60,7 +60,6 @@ tr.com.sfr.fr CNAME .
 tr.communaute.caradisiac.com CNAME .
 tr.communautes-mediametrie.fr CNAME .
 tr.communication-comptable.fr CNAME .
-tr.communication.arthur-bonnet.com CNAME .
 tr.communication.b2b-actualites.com CNAME .
 tr.communication.boursorama.info CNAME .
 tr.communication.cgaaer.fr CNAME .

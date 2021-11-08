@@ -3,4 +3,5 @@
 !
 ! mm.actionlink.jp disguised trackers
 !
+||al.junior-onlineshop.jp^
 ||al.office-com.jp^

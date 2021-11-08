@@ -158,6 +158,7 @@ waaf.medion.com CNAME .
 waaf1.aldilife.com CNAME .
 waaf1.alditalk.de CNAME .
 waaf1.hoferfotos.at CNAME .
+watg.xxxlutz.com CNAME .
 wbtrkk.deutschlandcard.de CNAME .
 wbtrkk.teufel.ch CNAME .
 wbtrkk.teufel.de CNAME .

@@ -61,6 +61,7 @@
 ||campaign-direct.eisai.jp^
 ||cmass.massmedian.co.jp^
 ||cname-ade.hankoya.com^
+||cname-ade.original-calendar.com^
 ||cname-adebis.nice2meet.us^
 ||cname.crank-in.net^
 ||cname.ebis.folio-sec.com^

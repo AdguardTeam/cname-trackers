@@ -65,7 +65,6 @@
 | tr.communaute.caradisiac.com | tracking.bp01.net |
 | tr.communautes-mediametrie.fr | tracking.bp01.net |
 | tr.communication-comptable.fr | tracking.bp01.net |
-| tr.communication.arthur-bonnet.com | tracking.bp01.net |
 | tr.communication.b2b-actualites.com | tracking.bp01.net |
 | tr.communication.boursorama.info | tracking.bp01.net |
 | tr.communication.cgaaer.fr | tracking.bp01.net |

@@ -12,8 +12,6 @@ k.cocooncenter.com CNAME .
 k.cocooncenter.de CNAME .
 k.cocooncenter.es CNAME .
 k.direct-assurance.fr CNAME .
-k.empruntis.com CNAME .
-k.fnacspectacles.com CNAME .
 k.hofmann.es CNAME .
 k.laredoute.es CNAME .
 k.laredoute.ru CNAME .
