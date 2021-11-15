@@ -151,6 +151,7 @@ ablink.track.popeyes.com CNAME .
 ablink.track.timhortons.ca CNAME .
 ablink.track.timhortons.com CNAME .
 ablink.transactions.earnin.com CNAME .
+ablink.uat.enjoy.wonder.com CNAME .
 ablink.watch.br.live CNAME .
 ablink.your-way.bk.com CNAME .
 ablink.your.audacy.com CNAME .
@@ -181,6 +182,7 @@ alinks.outcomes4me.com CNAME .
 ap.hibbett.com CNAME .
 app-clicks-corporate.firstrepublic.com CNAME .
 app-clicks.firstrepublic.com CNAME .
+app.email.influitive.com CNAME .
 app.events.philips.com CNAME .
 app.sephora.com CNAME .
 applink.getbambu.com CNAME .
@@ -453,7 +455,6 @@ links.mail.allbirds.com CNAME .
 links.mail.stubhub.com CNAME .
 links.marketing.getprizepool.com CNAME .
 links.nbc.com CNAME .
-links.nbcnews.com CNAME .
 links.news.mindbody.io CNAME .
 links.notarize.com CNAME .
 links.notifications.headspace.com CNAME .
@@ -501,7 +502,6 @@ t.prod1.discover.binge.com.au CNAME .
 t.service.thetimes.co.uk CNAME .
 t1.benefits.tops.co.th CNAME .
 t1.stadiumgoods.com CNAME .
-td.benefits.tops.co.th CNAME .
 td.ecomms.originenergy.com.au CNAME .
 td.testbnc.originenergy.com.au CNAME .
 test-eml.postmates.com CNAME .
@@ -528,6 +528,7 @@ url1020.keycollectorcomics.com CNAME .
 url1451.careerkarma.info CNAME .
 url3630.newsletter.experience-muse.com CNAME .
 url7542.fluz.app CNAME .
+url7962.careerkarma.io CNAME .
 url8196.mindrise.app CNAME .
 url9576.oneshift.com CNAME .
 url9609.account.experience-muse.com CNAME .

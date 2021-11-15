@@ -35,6 +35,7 @@
 | tr.b2d1068.espmp-nifr.net | tracking.bp01.net |
 | tr.b2d106z.espmp-aufr.net | tracking.bp01.net |
 | tr.batiweb.co | tracking.bp01.net |
+| tr.bienvenue.envie-de-bien-manger.com | tracking.bp01.net |
 | tr.bizzquotes.co.uk | tracking.bp01.net |
 | tr.boletim.meu-orcamento.pt | tracking.bp01.net |
 | tr.btobquotes.com | tracking.bp01.net |
@@ -120,6 +121,7 @@
 | tr.gestion.banque-casino.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
 | tr.gestion.cofinoga.fr | tracking.bp01.net |
+| tr.gestion.credit-moderne.fr | tracking.bp01.net |
 | tr.gestion.floa.fr | tracking.bp01.net |
 | tr.gestion.sygmabnpparibas-pf.com | tracking.bp01.net |
 | tr.group-hr.lvmh.fr | tracking.bp01.net |

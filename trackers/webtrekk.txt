@@ -191,6 +191,7 @@
 ||web.newsletter.viviennewestwood.com^
 ||web.x.ilpost.it^
 ||webmet.creditreform.de^
+||webt.eu.teac-audio.com^
 ||webt.pure.com^
 ||wetr.sportscheck.at^
 ||wetr.sportscheck.ch^

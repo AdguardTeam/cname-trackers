@@ -23,12 +23,14 @@
 ||ar.i-run.fr^
 ||aze0.dmp.leclerc^
 ||azg1.emalu-store.com^
+||b1n.carabins.umontreal.ca^
 ||b6ft.zone-turf.fr^
 ||bhu9.bankia.es^
 ||bpe2.destinia.co.il^
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
+||c0i.ckoi.com^
 ||c4dv.copinesdevoyage.com^
 ||cc.conforama.es^
 ||ch0p.darty.com^
@@ -86,6 +88,7 @@
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
 ||ea.mondial-assistance.fr^
+||ea.monnierfreres.com^
 ||ea.natiloo.com^
 ||ea.nextseguros.es^
 ||ea.odalys-vacances.com^
@@ -170,6 +173,7 @@
 ||hby7.destinia.it^
 ||he6e.lavieimmo.com^
 ||hgf4.zanzicar.fr^
+||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^
@@ -280,6 +284,7 @@
 ||sis8.sisley-paris.com^
 ||ski1.skiset.com^
 ||sls2.loisirsencheres.com^
+||sno1.snowrental.com^
 ||snr4.canalplus.com^
 ||ssrlot.lotoquebec.com^
 ||ssy7.destinia.com.ua^
@@ -292,7 +297,6 @@
 ||t.locasun.it^
 ||t.locasun.nl^
 ||t.voyages-sncf.com^
-||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tce0.primes-energie.leclerc^
@@ -318,7 +322,6 @@
 ||vbe.voyage-prive.be^
 ||vch.voyage-prive.ch^
 ||vde1.voyage-prive.de^
-||vet0.carrefour-banque.fr^
 ||vfo.voyage-prive.co.uk^
 ||vgo.vegaoo.de^
 ||vgo.vegaoo.es^

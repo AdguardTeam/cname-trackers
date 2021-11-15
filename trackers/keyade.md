@@ -15,7 +15,6 @@
 | ---- | ---- |
 | clk.boulanger.com | k.keyade.com |
 | clk.ubi.com | k.keyade.com |
-| k.campanile.com | k.keyade.com |
 | k.cocooncenter.be | k.keyade.com |
 | k.cocooncenter.co.uk | k.keyade.com |
 | k.cocooncenter.com | k.keyade.com |
@@ -25,7 +24,6 @@
 | k.hofmann.es | k.keyade.com |
 | k.laredoute.es | k.keyade.com |
 | k.laredoute.ru | k.keyade.com |
-| k.premiereclasse.com | k.keyade.com |
 | k.rueducommerce.fr | k.keyade.com |
 | k.veepee.fr | k.keyade.com |
 | k.veepee.it | k.keyade.com |

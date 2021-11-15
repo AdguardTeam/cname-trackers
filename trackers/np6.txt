@@ -30,6 +30,7 @@
 ||tr.b2d1068.espmp-nifr.net^
 ||tr.b2d106z.espmp-aufr.net^
 ||tr.batiweb.co^
+||tr.bienvenue.envie-de-bien-manger.com^
 ||tr.bizzquotes.co.uk^
 ||tr.boletim.meu-orcamento.pt^
 ||tr.btobquotes.com^
@@ -115,6 +116,7 @@
 ||tr.gestion.banque-casino.fr^
 ||tr.gestion.cetelem.fr^
 ||tr.gestion.cofinoga.fr^
+||tr.gestion.credit-moderne.fr^
 ||tr.gestion.floa.fr^
 ||tr.gestion.sygmabnpparibas-pf.com^
 ||tr.group-hr.lvmh.fr^

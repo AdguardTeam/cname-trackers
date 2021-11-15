@@ -16,6 +16,7 @@ a8.hitohana.tokyo
 a8.i-netservice.net
 a8.instokyo.com
 a8.lavie-official.jp
+a8.learning.agaroot.jp
 a8.lens-labo.com
 a8.looop-denki.com
 a8.makeshop.jp
@@ -59,6 +60,7 @@ a8clk.low-ya.com
 a8clk.macpaw.com
 a8clk.manage.conoha.jp
 a8clk.minnadeooyasan.com
+a8clk.nenga-kazoku.com
 a8clk.netowl.jp
 a8clk.order.lpio.jp
 a8clk.osoujihonpo.com
@@ -69,6 +71,7 @@ a8clk.rental.geo-online.co.jp
 a8clk.reserve.retty.me
 a8clk.shokutakubin.com
 a8clk.shop.sunsorit.co.jp
+a8clk.shop.tanita.co.jp
 a8clk.skima.jp
 a8clk.skynet-c.jp
 a8clk.teacon.jp
@@ -95,6 +98,7 @@ a8cv.english-bootcamp.com
 a8cv.entry.renet.jp
 a8cv.greed-island.ne.jp
 a8cv.housingbazar.jp
+a8cv.iikyujin.net
 a8cv.ishibashi.co.jp
 a8cv.minana-jp.com
 a8cv.minnano-eikaiwa.com
@@ -106,6 +110,7 @@ a8cv.sakura-forest.com
 a8cv.shibarinashi-wifi.jp
 a8cv.shop.matsuo1956.jp
 a8cv.signalift.com
+a8cv.soundfun.co.jp
 a8cv.store.alpen-group.jp
 a8cv.try-fs.com
 a8cv.unito.life
@@ -120,6 +125,7 @@ a8cventry.uqwimax.jp
 a8onlineshop.trendmicro.co.jp
 a8sup.chapup.jp
 a8trck.aisatsujo.jp
+a8trck.tolot.com
 a8trck.worldone.to
 a8trk.www.std-lab.jp
 acv.cmf-hikari.net

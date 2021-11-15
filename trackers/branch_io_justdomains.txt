@@ -151,6 +151,7 @@ ablink.track.popeyes.com
 ablink.track.timhortons.ca
 ablink.track.timhortons.com
 ablink.transactions.earnin.com
+ablink.uat.enjoy.wonder.com
 ablink.watch.br.live
 ablink.your-way.bk.com
 ablink.your.audacy.com
@@ -181,6 +182,7 @@ alinks.outcomes4me.com
 ap.hibbett.com
 app-clicks-corporate.firstrepublic.com
 app-clicks.firstrepublic.com
+app.email.influitive.com
 app.events.philips.com
 app.sephora.com
 applink.getbambu.com
@@ -453,7 +455,6 @@ links.mail.allbirds.com
 links.mail.stubhub.com
 links.marketing.getprizepool.com
 links.nbc.com
-links.nbcnews.com
 links.news.mindbody.io
 links.notarize.com
 links.notifications.headspace.com
@@ -501,7 +502,6 @@ t.prod1.discover.binge.com.au
 t.service.thetimes.co.uk
 t1.benefits.tops.co.th
 t1.stadiumgoods.com
-td.benefits.tops.co.th
 td.ecomms.originenergy.com.au
 td.testbnc.originenergy.com.au
 test-eml.postmates.com
@@ -528,6 +528,7 @@ url1020.keycollectorcomics.com
 url1451.careerkarma.info
 url3630.newsletter.experience-muse.com
 url7542.fluz.app
+url7962.careerkarma.io
 url8196.mindrise.app
 url9576.oneshift.com
 url9609.account.experience-muse.com

@@ -5,7 +5,6 @@
 !
 ||clk.boulanger.com^
 ||clk.ubi.com^
-||k.campanile.com^
 ||k.cocooncenter.be^
 ||k.cocooncenter.co.uk^
 ||k.cocooncenter.com^
@@ -15,7 +14,6 @@
 ||k.hofmann.es^
 ||k.laredoute.es^
 ||k.laredoute.ru^
-||k.premiereclasse.com^
 ||k.rueducommerce.fr^
 ||k.veepee.fr^
 ||k.veepee.it^

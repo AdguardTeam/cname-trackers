@@ -88,7 +88,6 @@ insights.affilimate.com CNAME .
 insights.frenchtogether.com CNAME .
 insights.growwithless.com CNAME .
 iwonttrackyou.xn--gckvb8fzb.com CNAME .
-js.webklik.nl CNAME .
 juniper.starleaf.com CNAME .
 ks.walkq.com CNAME .
 l2k30jsa.theochu.com CNAME .
@@ -150,14 +149,12 @@ plausible.doctave.com CNAME .
 plausible.ericgoebelbecker.com CNAME .
 plausible.eurostocks.nl CNAME .
 plausible.executeprogram.com CNAME .
-plausible.ezrayellin.com CNAME .
 plausible.f1laps.com CNAME .
 plausible.factly.in CNAME .
 plausible.ferranfigueredo.com CNAME .
 plausible.flowcv.io CNAME .
 plausible.food.game CNAME .
 plausible.fwouts.com CNAME .
-plausible.gitjournal.io CNAME .
 plausible.goatstake.com CNAME .
 plausible.golfbreaks.com CNAME .
 plausible.goose.game CNAME .
@@ -342,6 +339,7 @@ stats.htmlcsstoimage.com CNAME .
 stats.htp.org CNAME .
 stats.hugoreeves.com CNAME .
 stats.huysmanbouw.be CNAME .
+stats.iamzero.dev CNAME .
 stats.igevia.com CNAME .
 stats.immunefi.com CNAME .
 stats.infoboard.de CNAME .
@@ -451,6 +449,7 @@ stats.ruhrfestspiele.de CNAME .
 stats.ruthmontenegro.com CNAME .
 stats.scailable.net CNAME .
 stats.scalgo.com CNAME .
+stats.scastiel.dev CNAME .
 stats.scottbartell.com CNAME .
 stats.screen-play.app CNAME .
 stats.screenwavemedia.com CNAME .
@@ -481,6 +480,7 @@ stats.svenadolph.net CNAME .
 stats.thelion.website CNAME .
 stats.therenegadecoder.com CNAME .
 stats.thomasvitale.com CNAME .
+stats.timmyomahony.com CNAME .
 stats.toiletmap.org.uk CNAME .
 stats.tomorrowacademy.org CNAME .
 stats.travel.geek.nz CNAME .

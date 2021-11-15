@@ -16,6 +16,7 @@ a8.hitohana.tokyo CNAME .
 a8.i-netservice.net CNAME .
 a8.instokyo.com CNAME .
 a8.lavie-official.jp CNAME .
+a8.learning.agaroot.jp CNAME .
 a8.lens-labo.com CNAME .
 a8.looop-denki.com CNAME .
 a8.makeshop.jp CNAME .
@@ -59,6 +60,7 @@ a8clk.low-ya.com CNAME .
 a8clk.macpaw.com CNAME .
 a8clk.manage.conoha.jp CNAME .
 a8clk.minnadeooyasan.com CNAME .
+a8clk.nenga-kazoku.com CNAME .
 a8clk.netowl.jp CNAME .
 a8clk.order.lpio.jp CNAME .
 a8clk.osoujihonpo.com CNAME .
@@ -69,6 +71,7 @@ a8clk.rental.geo-online.co.jp CNAME .
 a8clk.reserve.retty.me CNAME .
 a8clk.shokutakubin.com CNAME .
 a8clk.shop.sunsorit.co.jp CNAME .
+a8clk.shop.tanita.co.jp CNAME .
 a8clk.skima.jp CNAME .
 a8clk.skynet-c.jp CNAME .
 a8clk.teacon.jp CNAME .
@@ -95,6 +98,7 @@ a8cv.english-bootcamp.com CNAME .
 a8cv.entry.renet.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
 a8cv.housingbazar.jp CNAME .
+a8cv.iikyujin.net CNAME .
 a8cv.ishibashi.co.jp CNAME .
 a8cv.minana-jp.com CNAME .
 a8cv.minnano-eikaiwa.com CNAME .
@@ -106,6 +110,7 @@ a8cv.sakura-forest.com CNAME .
 a8cv.shibarinashi-wifi.jp CNAME .
 a8cv.shop.matsuo1956.jp CNAME .
 a8cv.signalift.com CNAME .
+a8cv.soundfun.co.jp CNAME .
 a8cv.store.alpen-group.jp CNAME .
 a8cv.try-fs.com CNAME .
 a8cv.unito.life CNAME .
@@ -120,6 +125,7 @@ a8cventry.uqwimax.jp CNAME .
 a8onlineshop.trendmicro.co.jp CNAME .
 a8sup.chapup.jp CNAME .
 a8trck.aisatsujo.jp CNAME .
+a8trck.tolot.com CNAME .
 a8trck.worldone.to CNAME .
 a8trk.www.std-lab.jp CNAME .
 acv.cmf-hikari.net CNAME .

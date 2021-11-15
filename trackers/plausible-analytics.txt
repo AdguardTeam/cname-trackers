@@ -88,7 +88,6 @@
 ||insights.frenchtogether.com^
 ||insights.growwithless.com^
 ||iwonttrackyou.xn--gckvb8fzb.com^
-||js.webklik.nl^
 ||juniper.starleaf.com^
 ||ks.walkq.com^
 ||l2k30jsa.theochu.com^
@@ -150,14 +149,12 @@
 ||plausible.ericgoebelbecker.com^
 ||plausible.eurostocks.nl^
 ||plausible.executeprogram.com^
-||plausible.ezrayellin.com^
 ||plausible.f1laps.com^
 ||plausible.factly.in^
 ||plausible.ferranfigueredo.com^
 ||plausible.flowcv.io^
 ||plausible.food.game^
 ||plausible.fwouts.com^
-||plausible.gitjournal.io^
 ||plausible.goatstake.com^
 ||plausible.golfbreaks.com^
 ||plausible.goose.game^
@@ -342,6 +339,7 @@
 ||stats.htp.org^
 ||stats.hugoreeves.com^
 ||stats.huysmanbouw.be^
+||stats.iamzero.dev^
 ||stats.igevia.com^
 ||stats.immunefi.com^
 ||stats.infoboard.de^
@@ -451,6 +449,7 @@
 ||stats.ruthmontenegro.com^
 ||stats.scailable.net^
 ||stats.scalgo.com^
+||stats.scastiel.dev^
 ||stats.scottbartell.com^
 ||stats.screen-play.app^
 ||stats.screenwavemedia.com^
@@ -481,6 +480,7 @@
 ||stats.thelion.website^
 ||stats.therenegadecoder.com^
 ||stats.thomasvitale.com^
+||stats.timmyomahony.com^
 ||stats.toiletmap.org.uk^
 ||stats.tomorrowacademy.org^
 ||stats.travel.geek.nz^

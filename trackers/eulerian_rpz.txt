@@ -23,12 +23,14 @@ anz7.allianz-voyage.fr CNAME .
 ar.i-run.fr CNAME .
 aze0.dmp.leclerc CNAME .
 azg1.emalu-store.com CNAME .
+b1n.carabins.umontreal.ca CNAME .
 b6ft.zone-turf.fr CNAME .
 bhu9.bankia.es CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
+c0i.ckoi.com CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
 ch0p.darty.com CNAME .
@@ -86,6 +88,7 @@ ea.millet-mountain.com CNAME .
 ea.millet.fr CNAME .
 ea.mistergatesdirect.com CNAME .
 ea.mondial-assistance.fr CNAME .
+ea.monnierfreres.com CNAME .
 ea.natiloo.com CNAME .
 ea.nextseguros.es CNAME .
 ea.odalys-vacances.com CNAME .
@@ -170,6 +173,7 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 he6e.lavieimmo.com CNAME .
 hgf4.zanzicar.fr CNAME .
+hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
@@ -280,6 +284,7 @@ sis8.premieremoisson.com CNAME .
 sis8.sisley-paris.com CNAME .
 ski1.skiset.com CNAME .
 sls2.loisirsencheres.com CNAME .
+sno1.snowrental.com CNAME .
 snr4.canalplus.com CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
@@ -292,7 +297,6 @@ t.locasun.fr CNAME .
 t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.voyages-sncf.com CNAME .
-t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tce0.primes-energie.leclerc CNAME .
@@ -318,7 +322,6 @@ v.oui.sncf CNAME .
 vbe.voyage-prive.be CNAME .
 vch.voyage-prive.ch CNAME .
 vde1.voyage-prive.de CNAME .
-vet0.carrefour-banque.fr CNAME .
 vfo.voyage-prive.co.uk CNAME .
 vgo.vegaoo.de CNAME .
 vgo.vegaoo.es CNAME .
