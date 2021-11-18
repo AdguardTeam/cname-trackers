@@ -11,6 +11,7 @@ a.fdmedia.io
 a.getaawp.com
 a.hellonext.co
 a.kryptonitewp.com
+a.linkz.ai
 a.mhthemes.com
 a.skcript.com
 a.visitefoz.com.br
@@ -83,6 +84,7 @@ hi.streetworkoutlist.com
 hi.victorbaudot.com
 hurricane.tinybird.co
 hype.zlipa.com
+info.alvin.codes
 informatics.filamentcolors.xyz
 insights.affilimate.com
 insights.frenchtogether.com
@@ -161,6 +163,7 @@ plausible.goose.game
 plausible.gryka.net
 plausible.gymglish.com
 plausible.haltakov.net
+plausible.help.exploreandcreate.com
 plausible.hstmedical.com
 plausible.inflex.io
 plausible.kabaret.no
@@ -230,6 +233,7 @@ st2.jamesdaniel.dev
 stat.bill.harding.blog
 statistics.csweapons.com
 statistics.heatbeat.de
+statistik.veronika-steiner.at
 stats.45rpm.ch
 stats.acadevor.com
 stats.aixbrain.de
@@ -281,6 +285,7 @@ stats.crema.fi
 stats.cremashop.eu
 stats.cremashop.se
 stats.crewebo.de
+stats.curbnumberpro.com
 stats.dailyposter.com
 stats.dashbit.co
 stats.davestewart.co.uk
@@ -311,7 +316,6 @@ stats.feathercss.makerkits.co
 stats.felipesere.com
 stats.femtobill.com
 stats.filmfed.com
-stats.finger-ink.com
 stats.flightsphere.com
 stats.frenlo.com
 stats.fruechtl.me
@@ -354,6 +358,7 @@ stats.jerickson.net
 stats.johnmac.pro
 stats.joincomet.app
 stats.justanotherpm.com
+stats.justinwilliams.ca
 stats.kejk.tech
 stats.kensho.com
 stats.keyscore.me
@@ -477,6 +482,7 @@ stats.studypages.com
 stats.sublimesecurity.com
 stats.sushibyte.io
 stats.svenadolph.net
+stats.tekin.co.uk
 stats.thelion.website
 stats.therenegadecoder.com
 stats.thomasvitale.com

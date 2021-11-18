@@ -11,6 +11,7 @@ a.fdmedia.io CNAME .
 a.getaawp.com CNAME .
 a.hellonext.co CNAME .
 a.kryptonitewp.com CNAME .
+a.linkz.ai CNAME .
 a.mhthemes.com CNAME .
 a.skcript.com CNAME .
 a.visitefoz.com.br CNAME .
@@ -83,6 +84,7 @@ hi.streetworkoutlist.com CNAME .
 hi.victorbaudot.com CNAME .
 hurricane.tinybird.co CNAME .
 hype.zlipa.com CNAME .
+info.alvin.codes CNAME .
 informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
 insights.frenchtogether.com CNAME .
@@ -161,6 +163,7 @@ plausible.goose.game CNAME .
 plausible.gryka.net CNAME .
 plausible.gymglish.com CNAME .
 plausible.haltakov.net CNAME .
+plausible.help.exploreandcreate.com CNAME .
 plausible.hstmedical.com CNAME .
 plausible.inflex.io CNAME .
 plausible.kabaret.no CNAME .
@@ -230,6 +233,7 @@ st2.jamesdaniel.dev CNAME .
 stat.bill.harding.blog CNAME .
 statistics.csweapons.com CNAME .
 statistics.heatbeat.de CNAME .
+statistik.veronika-steiner.at CNAME .
 stats.45rpm.ch CNAME .
 stats.acadevor.com CNAME .
 stats.aixbrain.de CNAME .
@@ -281,6 +285,7 @@ stats.crema.fi CNAME .
 stats.cremashop.eu CNAME .
 stats.cremashop.se CNAME .
 stats.crewebo.de CNAME .
+stats.curbnumberpro.com CNAME .
 stats.dailyposter.com CNAME .
 stats.dashbit.co CNAME .
 stats.davestewart.co.uk CNAME .
@@ -311,7 +316,6 @@ stats.feathercss.makerkits.co CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
 stats.filmfed.com CNAME .
-stats.finger-ink.com CNAME .
 stats.flightsphere.com CNAME .
 stats.frenlo.com CNAME .
 stats.fruechtl.me CNAME .
@@ -354,6 +358,7 @@ stats.jerickson.net CNAME .
 stats.johnmac.pro CNAME .
 stats.joincomet.app CNAME .
 stats.justanotherpm.com CNAME .
+stats.justinwilliams.ca CNAME .
 stats.kejk.tech CNAME .
 stats.kensho.com CNAME .
 stats.keyscore.me CNAME .
@@ -477,6 +482,7 @@ stats.studypages.com CNAME .
 stats.sublimesecurity.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svenadolph.net CNAME .
+stats.tekin.co.uk CNAME .
 stats.thelion.website CNAME .
 stats.therenegadecoder.com CNAME .
 stats.thomasvitale.com CNAME .

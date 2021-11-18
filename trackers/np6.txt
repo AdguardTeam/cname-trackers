@@ -156,6 +156,7 @@
 ||tr.informations.harmonie-mutuelle.fr^
 ||tr.informations.lcl.fr^
 ||tr.infos.afpa.fr^
+||tr.infos.mailrungis.com^
 ||tr.infos.odalys-vacances.com^
 ||tr.inspiration.culture-data.fr^
 ||tr.interviews-mediametrie.fr^
@@ -175,6 +176,7 @@
 ||tr.mail.moncoupdepouce.com^
 ||tr.mail.satisfactory.fr^
 ||tr.mail.vipmag.fr^
+||tr.mailing.achatpublic.com^
 ||tr.mailing.lvmhappening.com^
 ||tr.mailing.r2e-humanis.fr^
 ||tr.marg02n.espmp-agfr.net^
@@ -233,6 +235,7 @@
 ||tr.news.vipmag.fr^
 ||tr.news.voyagesleclerc.com^
 ||tr.news.vraaguwofferte.be^
+||tr.news.vraaguwofferte.com^
 ||tr.news.younited-coach.com^
 ||tr.news.younited-credit.com^
 ||tr.news2pjms.fr^
@@ -282,8 +285,10 @@
 ||tr.pro.odalys-vacances.com^
 ||tr.quotes.digital^
 ||tr.quotes4business.info^
+||tr.quotesforbusiness.co.uk^
 ||tr.ra.cofinoga.fr^
 ||tr.ratm.espmp-agfr.net^
+||tr.raym.espmp-agfr.net^
 ||tr.read.glose.com^
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^
@@ -305,6 +310,7 @@
 ||tr.trafficnews.lyria.com^
 ||tr.uk.icicibank.com^
 ||tr.urfk03u.espmp-nifr.net^
+||tr.urfk06y.espmp-nifr.net^
 ||tr.ville.bordeaux.fr^
 ||tr.votrealarme.securitasdirect.fr^
 ||tr.vous.hellobank.fr^

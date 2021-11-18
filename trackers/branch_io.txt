@@ -167,7 +167,6 @@
 ||ablinks.marketing.numi.com^
 ||ablinks.news.amaro.com^
 ||ablinks.news.learnwithhomer.com^
-||ablinks.picsart.com^
 ||ablinksemail.wirexapp.com^
 ||ablinksuni.a.grubhub.com^
 ||ablinksuni.a.seamless.com^
@@ -485,6 +484,7 @@
 ||notice.hoopladigital.com^
 ||notify.pray.com^
 ||pint-dev-branch.airship.com^
+||qa-brc.emails.rakuten.com^
 ||qbse.intuit.com^
 ||read.medium.com^
 ||sendgridlinks.neuroflowsolution.com^
@@ -521,6 +521,7 @@
 ||trk.geico.com^
 ||trk.m1.stadiumgoods.com^
 ||trk.s.sephora.com^
+||trk.underarmour.com^
 ||trk.us.underarmour.com^
 ||trklink.luisaviaroma.com^
 ||url1015.abtest.em.redmart.com^

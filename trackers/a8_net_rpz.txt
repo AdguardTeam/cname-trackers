@@ -117,6 +117,7 @@ a8cv.unito.life CNAME .
 a8cv.untenmenkyo-yi.com CNAME .
 a8cv.workman.jp CNAME .
 a8cv.www.bedstyle.jp CNAME .
+a8cv.www.biyou-soushin.com CNAME .
 a8cv.ygm-clinic.or.jp CNAME .
 a8cv.you-shoku.net CNAME .
 a8cv.yuyu-tei.jp CNAME .

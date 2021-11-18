@@ -54,6 +54,7 @@
     * 481977157370244.wt-eu02.net
     * 484879729086450.wt-eu02.net
     * 517717528680725.wt-eu02.net
+    * 524633908170120.wt-eu02.net
     * 524656123914087.wt-eu02.net
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
@@ -170,6 +171,7 @@
 | web.marketing.elbenwald.de | 481977157370244.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
+| web.friends.ellaskitchen.co.uk | 524633908170120.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |

@@ -176,6 +176,7 @@ web.diebayerische.de CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .
+web.friends.ellaskitchen.co.uk CNAME .
 web.info.bonprix.es CNAME .
 web.info.varelotteriet.dk CNAME .
 web.info.yeppon.it CNAME .

@@ -28,6 +28,7 @@
 ||collect.meilleurtaux.com^
 ||conimicutlighthouse.viessmann-us.com^
 ||culture.intermedes.com^
+||d.m-net.de^
 ||d.uni-medias.com^
 ||da.maif.fr^
 ||faucons.viessmann.fr^
@@ -54,6 +55,7 @@
 ||ponyo.cheriefm.fr^
 ||res.elle.fr^
 ||res.femina.fr^
+||res.franc-tireur.fr^
 ||res.francedimanche.fr^
 ||res.programme-television.org^
 ||res.public.fr^

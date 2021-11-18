@@ -117,6 +117,7 @@
 ||a8cv.untenmenkyo-yi.com^
 ||a8cv.workman.jp^
 ||a8cv.www.bedstyle.jp^
+||a8cv.www.biyou-soushin.com^
 ||a8cv.ygm-clinic.or.jp^
 ||a8cv.you-shoku.net^
 ||a8cv.yuyu-tei.jp^

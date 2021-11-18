@@ -10,6 +10,7 @@
     * j-bg-adresult-sp-jp.ad-cloud.jp
     * j-image-ad-jp.ad-cloud.jp
     * j-newssuite-sony-net.ad-cloud.jp
+    * www-akane-ad-com.ad-cloud.jp
 
 ### Rarely active trackers
 
@@ -38,3 +39,4 @@
 | d.image-ad.jp | site-112900816347.gslb5.sakura.ne.jp |
 | d.newssuite.sony.net | site-112900816347.gslb5.sakura.ne.jp |
 | j.bg.adresult-sp.jp | site-112900816347.gslb5.sakura.ne.jp |
+| www.akane-ad.com | www-akane-ad-com.ad-cloud.jp |

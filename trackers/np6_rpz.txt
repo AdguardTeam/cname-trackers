@@ -156,6 +156,7 @@ tr.informations.dila.gouv.fr CNAME .
 tr.informations.harmonie-mutuelle.fr CNAME .
 tr.informations.lcl.fr CNAME .
 tr.infos.afpa.fr CNAME .
+tr.infos.mailrungis.com CNAME .
 tr.infos.odalys-vacances.com CNAME .
 tr.inspiration.culture-data.fr CNAME .
 tr.interviews-mediametrie.fr CNAME .
@@ -175,6 +176,7 @@ tr.mail.koregraf.com CNAME .
 tr.mail.moncoupdepouce.com CNAME .
 tr.mail.satisfactory.fr CNAME .
 tr.mail.vipmag.fr CNAME .
+tr.mailing.achatpublic.com CNAME .
 tr.mailing.lvmhappening.com CNAME .
 tr.mailing.r2e-humanis.fr CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
@@ -233,6 +235,7 @@ tr.news.toocampmail.com CNAME .
 tr.news.vipmag.fr CNAME .
 tr.news.voyagesleclerc.com CNAME .
 tr.news.vraaguwofferte.be CNAME .
+tr.news.vraaguwofferte.com CNAME .
 tr.news.younited-coach.com CNAME .
 tr.news.younited-credit.com CNAME .
 tr.news2pjms.fr CNAME .
@@ -282,8 +285,10 @@ tr.preventivo.risparmiazienda.it CNAME .
 tr.pro.odalys-vacances.com CNAME .
 tr.quotes.digital CNAME .
 tr.quotes4business.info CNAME .
+tr.quotesforbusiness.co.uk CNAME .
 tr.ra.cofinoga.fr CNAME .
 tr.ratm.espmp-agfr.net CNAME .
+tr.raym.espmp-agfr.net CNAME .
 tr.read.glose.com CNAME .
 tr.redaction.essentiel-sante-magazine.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .
@@ -305,6 +310,7 @@ tr.toner-services.fr CNAME .
 tr.trafficnews.lyria.com CNAME .
 tr.uk.icicibank.com CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .
+tr.urfk06y.espmp-nifr.net CNAME .
 tr.ville.bordeaux.fr CNAME .
 tr.votrealarme.securitasdirect.fr CNAME .
 tr.vous.hellobank.fr CNAME .

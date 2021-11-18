@@ -167,7 +167,6 @@ ablinks.mail.hinge.co CNAME .
 ablinks.marketing.numi.com CNAME .
 ablinks.news.amaro.com CNAME .
 ablinks.news.learnwithhomer.com CNAME .
-ablinks.picsart.com CNAME .
 ablinksemail.wirexapp.com CNAME .
 ablinksuni.a.grubhub.com CNAME .
 ablinksuni.a.seamless.com CNAME .
@@ -485,6 +484,7 @@ mx.carfax.com CNAME .
 notice.hoopladigital.com CNAME .
 notify.pray.com CNAME .
 pint-dev-branch.airship.com CNAME .
+qa-brc.emails.rakuten.com CNAME .
 qbse.intuit.com CNAME .
 read.medium.com CNAME .
 sendgridlinks.neuroflowsolution.com CNAME .
@@ -521,6 +521,7 @@ trk.e.underarmour.com CNAME .
 trk.geico.com CNAME .
 trk.m1.stadiumgoods.com CNAME .
 trk.s.sephora.com CNAME .
+trk.underarmour.com CNAME .
 trk.us.underarmour.com CNAME .
 trklink.luisaviaroma.com CNAME .
 url1015.abtest.em.redmart.com CNAME .

@@ -176,6 +176,7 @@
 ||web.email.theindependentpharmacy.co.uk^
 ||web.emails.elc.co.uk^
 ||web.emails.thetoyshop.com^
+||web.friends.ellaskitchen.co.uk^
 ||web.info.bonprix.es^
 ||web.info.varelotteriet.dk^
 ||web.info.yeppon.it^

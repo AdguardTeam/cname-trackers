@@ -23,7 +23,6 @@ anz7.allianz-voyage.fr CNAME .
 ar.i-run.fr CNAME .
 aze0.dmp.leclerc CNAME .
 azg1.emalu-store.com CNAME .
-b1n.carabins.umontreal.ca CNAME .
 b6ft.zone-turf.fr CNAME .
 bhu9.bankia.es CNAME .
 bpe2.destinia.co.il CNAME .
@@ -31,6 +30,7 @@ bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
 c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
 ch0p.darty.com CNAME .
@@ -113,14 +113,12 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-eat9.thebeat925.ca CNAME .
 ebc1.capifrance.fr CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 eule1.pmu.fr CNAME .
 eulerian.astro-way.com CNAME .
@@ -173,7 +171,6 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 he6e.lavieimmo.com CNAME .
 hgf4.zanzicar.fr CNAME .
-hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
@@ -225,7 +222,6 @@ nlf6.vente-unique.pl CNAME .
 nmo1.orpi.com CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
-nym5c.bonlook.com CNAME .
 nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
@@ -313,6 +309,7 @@ tmy8.madeindesign.ch CNAME .
 tsj0.madeindesign.com CNAME .
 txv0.destinia.hu CNAME .
 udr9.livera.nl CNAME .
+ueb4.destinia.tw CNAME .
 uhn9.up-france.fr CNAME .
 upz1.destinia.lt CNAME .
 uue2.destinia.ir CNAME .
@@ -322,6 +319,7 @@ v.oui.sncf CNAME .
 vbe.voyage-prive.be CNAME .
 vch.voyage-prive.ch CNAME .
 vde1.voyage-prive.de CNAME .
+vet0.carrefour-banque.fr CNAME .
 vfo.voyage-prive.co.uk CNAME .
 vgo.vegaoo.de CNAME .
 vgo.vegaoo.es CNAME .

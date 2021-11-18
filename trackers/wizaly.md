@@ -14,6 +14,7 @@
     * tk-dietbon-fr.wizaly.com
     * tk-engie-com.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
+    * tk-jeux-loro-ch.wizaly.com
     * tk-kitchendiet-fr.wizaly.com
     * tk-lamaisonduchocolat-com.wizaly.com
     * tk-lcl-fr.wizaly.com
@@ -48,6 +49,7 @@
 | tk.dietbon.fr | tk-dietbon-fr.wizaly.com |
 | tk.engie.fr | tk-engie-com.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |
+| tk.jeux.loro.ch | tk-jeux-loro-ch.wizaly.com |
 | tk.kitchendiet.fr | tk-kitchendiet-fr.wizaly.com |
 | tk.lamaisonduchocolat.com | tk-lamaisonduchocolat-com.wizaly.com |
 | tk.lcl.fr | tk-lcl-fr.wizaly.com |

@@ -25,6 +25,7 @@ tk.conforama.fr CNAME .
 tk.dietbon.fr CNAME .
 tk.engie.fr CNAME .
 tk.healthwarehouse.com CNAME .
+tk.jeux.loro.ch CNAME .
 tk.kitchendiet.fr CNAME .
 tk.klm.com CNAME .
 tk.lamaisonduchocolat.com CNAME .

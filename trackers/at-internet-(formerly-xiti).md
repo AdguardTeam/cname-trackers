@@ -27,6 +27,7 @@
     * collect-meilleurtaux-com-cddc.at-o.net
     * conimicutlighthouse-viessmann-us-com-cddc.at-o.net
     * culture-intermedes-com-cddc.at-o.net
+    * d-m-net-de-cddc.at-o.net
     * d-uni-medias-com-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
     * faucons-viessmann-fr-cddc.at-o.net
@@ -53,6 +54,7 @@
     * ponyo-cheriefm-fr-cddc.at-o.net
     * res-elle-fr-cddc.at-o.net
     * res-femina-fr-cddc.at-o.net
+    * res-franc-tireur-fr-cddc.at-o.net
     * res-francedimanche-fr-cddc.at-o.net
     * res-programme-television-org-cddc.at-o.net
     * res-public-fr-cddc.at-o.net
@@ -114,6 +116,7 @@
 | collect.meilleurtaux.com | collect-meilleurtaux-com-cddc.at-o.net |
 | conimicutlighthouse.viessmann-us.com | conimicutlighthouse-viessmann-us-com-cddc.at-o.net |
 | culture.intermedes.com | culture-intermedes-com-cddc.at-o.net |
+| d.m-net.de | d-m-net-de-cddc.at-o.net |
 | d.uni-medias.com | d-uni-medias-com-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |
 | faucons.viessmann.fr | faucons-viessmann-fr-cddc.at-o.net |
@@ -140,6 +143,7 @@
 | ponyo.cheriefm.fr | ponyo-cheriefm-fr-cddc.at-o.net |
 | res.elle.fr | res-elle-fr-cddc.at-o.net |
 | res.femina.fr | res-femina-fr-cddc.at-o.net |
+| res.franc-tireur.fr | res-franc-tireur-fr-cddc.at-o.net |
 | res.francedimanche.fr | res-francedimanche-fr-cddc.at-o.net |
 | res.programme-television.org | res-programme-television-org-cddc.at-o.net |
 | res.public.fr | res-public-fr-cddc.at-o.net |

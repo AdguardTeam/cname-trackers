@@ -177,7 +177,6 @@
 | ablinks.marketing.numi.com | thirdparty.bnc.lt |
 | ablinks.news.amaro.com | thirdparty.bnc.lt |
 | ablinks.news.learnwithhomer.com | thirdparty.bnc.lt |
-| ablinks.picsart.com | thirdparty.bnc.lt |
 | ablinksemail.wirexapp.com | thirdparty.bnc.lt |
 | ablinksuni.a.grubhub.com | thirdparty.bnc.lt |
 | ablinksuni.a.seamless.com | thirdparty.bnc.lt |
@@ -492,6 +491,7 @@
 | notice.hoopladigital.com | thirdparty.bnc.lt |
 | notify.pray.com | thirdparty.bnc.lt |
 | pint-dev-branch.airship.com | thirdparty.bnc.lt |
+| qa-brc.emails.rakuten.com | thirdparty.bnc.lt |
 | qbse.intuit.com | thirdparty.bnc.lt |
 | read.medium.com | thirdparty.bnc.lt |
 | sendgridlinks.neuroflowsolution.com | thirdparty.bnc.lt |
@@ -527,6 +527,7 @@
 | trk.geico.com | thirdparty.bnc.lt |
 | trk.m1.stadiumgoods.com | thirdparty.bnc.lt |
 | trk.s.sephora.com | thirdparty.bnc.lt |
+| trk.underarmour.com | thirdparty.bnc.lt |
 | trk.us.underarmour.com | thirdparty.bnc.lt |
 | trklink.luisaviaroma.com | thirdparty.bnc.lt |
 | url1015.abtest.em.redmart.com | thirdparty.bnc.lt |

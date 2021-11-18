@@ -25,6 +25,7 @@
 ||tk.dietbon.fr^
 ||tk.engie.fr^
 ||tk.healthwarehouse.com^
+||tk.jeux.loro.ch^
 ||tk.kitchendiet.fr^
 ||tk.klm.com^
 ||tk.lamaisonduchocolat.com^

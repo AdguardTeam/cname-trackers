@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2021-11-15T08:00:30+00:00
+! TimeUpdated: 2021-11-18T14:42:46+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 !
@@ -12,6 +12,9 @@
 !
 ! Company: AD EBiS
 ||ebis.ne.jp^
+!
+! Company: AdSpyglass
+||0i0i0i0.com^
 !
 ! Company: AT Internet (formerly XiTi)
 ||at-o.net^

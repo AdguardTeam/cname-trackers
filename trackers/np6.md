@@ -161,6 +161,7 @@
 | tr.informations.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.informations.lcl.fr | tracking.bp01.net |
 | tr.infos.afpa.fr | tracking.bp01.net |
+| tr.infos.mailrungis.com | tracking.bp01.net |
 | tr.infos.odalys-vacances.com | tracking.bp01.net |
 | tr.inspiration.culture-data.fr | tracking.bp01.net |
 | tr.interviews-mediametrie.fr | tracking.bp01.net |
@@ -180,6 +181,7 @@
 | tr.mail.moncoupdepouce.com | tracking.bp01.net |
 | tr.mail.satisfactory.fr | tracking.bp01.net |
 | tr.mail.vipmag.fr | tracking.bp01.net |
+| tr.mailing.achatpublic.com | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
 | tr.mailing.r2e-humanis.fr | tracking.bp01.net |
 | tr.marg02n.espmp-agfr.net | tracking.bp01.net |
@@ -238,6 +240,7 @@
 | tr.news.vipmag.fr | tracking.bp01.net |
 | tr.news.voyagesleclerc.com | tracking.bp01.net |
 | tr.news.vraaguwofferte.be | tracking.bp01.net |
+| tr.news.vraaguwofferte.com | tracking.bp01.net |
 | tr.news.younited-coach.com | tracking.bp01.net |
 | tr.news.younited-credit.com | tracking.bp01.net |
 | tr.news2pjms.fr | tracking.bp01.net |
@@ -287,8 +290,10 @@
 | tr.pro.odalys-vacances.com | tracking.bp01.net |
 | tr.quotes.digital | tracking.bp01.net |
 | tr.quotes4business.info | tracking.bp01.net |
+| tr.quotesforbusiness.co.uk | tracking.bp01.net |
 | tr.ra.cofinoga.fr | tracking.bp01.net |
 | tr.ratm.espmp-agfr.net | tracking.bp01.net |
+| tr.raym.espmp-agfr.net | tracking.bp01.net |
 | tr.read.glose.com | tracking.bp01.net |
 | tr.redaction.essentiel-sante-magazine.fr | tracking.bp01.net |
 | tr.reglementaire.emailing.bnpparibas | tracking.bp01.net |
@@ -310,6 +315,7 @@
 | tr.trafficnews.lyria.com | tracking.bp01.net |
 | tr.uk.icicibank.com | tracking.bp01.net |
 | tr.urfk03u.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk06y.espmp-nifr.net | tracking.bp01.net |
 | tr.ville.bordeaux.fr | tracking.bp01.net |
 | tr.votrealarme.securitasdirect.fr | tracking.bp01.net |
 | tr.vous.hellobank.fr | tracking.bp01.net |
