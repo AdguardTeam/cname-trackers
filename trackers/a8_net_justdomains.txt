@@ -31,6 +31,7 @@ a8.ssl.aispr.jp
 a8.tone.ne.jp
 a8.tour-sys.com
 a8.uqmobile-shop.jp
+a8.vege-pet.jp
 a8.virus-gekitai.com
 a8.web-hikari.net
 a8.webist-cri.com
@@ -60,6 +61,7 @@ a8clk.low-ya.com
 a8clk.macpaw.com
 a8clk.manage.conoha.jp
 a8clk.minnadeooyasan.com
+a8clk.mobile-norikae.com
 a8clk.nenga-kazoku.com
 a8clk.netowl.jp
 a8clk.order.lpio.jp
@@ -106,6 +108,7 @@ a8cv.modern-deco.jp
 a8cv.omni7.jp
 a8cv.online.bell-road.com
 a8cv.p-antiaging.com
+a8cv.presence.jp
 a8cv.sakura-forest.com
 a8cv.shibarinashi-wifi.jp
 a8cv.shop.matsuo1956.jp
@@ -115,6 +118,7 @@ a8cv.store.alpen-group.jp
 a8cv.try-fs.com
 a8cv.unito.life
 a8cv.untenmenkyo-yi.com
+a8cv.urocca.jp
 a8cv.workman.jp
 a8cv.www.bedstyle.jp
 a8cv.www.biyou-soushin.com

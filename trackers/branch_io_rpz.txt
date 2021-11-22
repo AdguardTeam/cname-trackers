@@ -288,6 +288,7 @@ email-staging.goodrx.com CNAME .
 email-test.wirexapp.com CNAME .
 email.app.theiconic.com.au CNAME .
 email.boxed.com CNAME .
+email.chope.co CNAME .
 email.clearscore.co.za CNAME .
 email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
@@ -486,6 +487,7 @@ notify.pray.com CNAME .
 pint-dev-branch.airship.com CNAME .
 qa-brc.emails.rakuten.com CNAME .
 qbse.intuit.com CNAME .
+r.blidzdeal.com CNAME .
 read.medium.com CNAME .
 sendgridlinks.neuroflowsolution.com CNAME .
 sephora-qa.branchstaging.com CNAME .

@@ -60,6 +60,7 @@
     * 584263287768398.wt-eu02.net
     * 590838755166551.wt-eu02.net
     * 598189357306993.wt-eu02.net
+    * 602849465568863.wt-eu02.net
     * 611716061616237.wt-eu02.net
     * 626892113650542.wt-eu02.net
     * 637394170883823.wt-eu02.net
@@ -166,6 +167,7 @@
 | wbtrkk.teufelaudio.com | 427813503923049.wt-eu02.net |
 | wbtrkk.teufelaudio.it | 451504046304293.wt-eu02.net |
 | a.deutschehospitality.com | 467808562573270.wt-eu02.net |
+| webt.eleonto.com | 470719744966924.wt-eu02.net |
 | webt.eu.teac-audio.com | 470719744966924.wt-eu02.net |
 | webt.pure.com | 470719744966924.wt-eu02.net |
 | web.marketing.elbenwald.de | 481977157370244.wt-eu02.net |
@@ -177,6 +179,7 @@
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
 | wbtrkk.teufelaudio.be | 598189357306993.wt-eu02.net |
+| web.email.farrow-ball.com | 602849465568863.wt-eu02.net |
 | census.misterspex.es | 611716061616237.wt-eu02.net |
 | census.misterspex.ch | 626892113650542.wt-eu02.net |
 | wbtrkk.teufelaudio.at | 637394170883823.wt-eu02.net |
@@ -221,6 +224,7 @@
 | pixel.augsburger-allgemeine.de | augsburgerallgemeine01.webtrekk.net |
 | cdn7.baunetz.de | baunetzprod01.wt-eu02.net |
 | w7.berlin.de | berlinonline-02.wt-eu02.net |
+| w7.weihnachteninberlin.de | berlinonline-02.wt-eu02.net |
 | spr.bild.de | bild01.webtrekk.net |
 | trk.blume2000.de | blume2000.wt-eu02.net |
 | text.mitarbeiterangebote.de | cbm02.webtrekk.net |
@@ -237,6 +241,7 @@
 | data.leipzig.de | data-leipzig.wt-eu02.net |
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
 | di.ifolor.ch | di.ifolor.wt-eu02.net |
+| di.ifolor.fi | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
 | pix.eads.com | eads-com01.webtrekk.net |
 | track.emeza.com | emeza-com01.webtrekk.net |

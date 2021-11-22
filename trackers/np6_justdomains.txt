@@ -191,6 +191,7 @@ tr.mondevis-pro.com
 tr.mp.aconclue-business.fr
 tr.mp.aconclue-pro.com
 tr.n.info.cdgp.fr
+tr.nespresso.com
 tr.news-chocolat.com
 tr.news-companeo.fr
 tr.news-companeo.mx
@@ -214,6 +215,7 @@ tr.news.easyvoyage.co.uk
 tr.news.easyvoyage.com
 tr.news.easyvoyage.de
 tr.news.economic-studies.fr
+tr.news.editions-lva.fr
 tr.news.geantcasino.fr
 tr.news.heredis.com
 tr.news.infopro-digital.com

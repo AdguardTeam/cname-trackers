@@ -31,6 +31,7 @@ a8.ssl.aispr.jp CNAME .
 a8.tone.ne.jp CNAME .
 a8.tour-sys.com CNAME .
 a8.uqmobile-shop.jp CNAME .
+a8.vege-pet.jp CNAME .
 a8.virus-gekitai.com CNAME .
 a8.web-hikari.net CNAME .
 a8.webist-cri.com CNAME .
@@ -60,6 +61,7 @@ a8clk.low-ya.com CNAME .
 a8clk.macpaw.com CNAME .
 a8clk.manage.conoha.jp CNAME .
 a8clk.minnadeooyasan.com CNAME .
+a8clk.mobile-norikae.com CNAME .
 a8clk.nenga-kazoku.com CNAME .
 a8clk.netowl.jp CNAME .
 a8clk.order.lpio.jp CNAME .
@@ -106,6 +108,7 @@ a8cv.modern-deco.jp CNAME .
 a8cv.omni7.jp CNAME .
 a8cv.online.bell-road.com CNAME .
 a8cv.p-antiaging.com CNAME .
+a8cv.presence.jp CNAME .
 a8cv.sakura-forest.com CNAME .
 a8cv.shibarinashi-wifi.jp CNAME .
 a8cv.shop.matsuo1956.jp CNAME .
@@ -115,6 +118,7 @@ a8cv.store.alpen-group.jp CNAME .
 a8cv.try-fs.com CNAME .
 a8cv.unito.life CNAME .
 a8cv.untenmenkyo-yi.com CNAME .
+a8cv.urocca.jp CNAME .
 a8cv.workman.jp CNAME .
 a8cv.www.bedstyle.jp CNAME .
 a8cv.www.biyou-soushin.com CNAME .

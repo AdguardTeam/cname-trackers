@@ -31,6 +31,7 @@ adebis.juku.st CNAME .
 adebis.kaonavi.jp CNAME .
 adebis.kose.co.jp CNAME .
 adebis.koutsujiko.jp CNAME .
+adebis.leben-style.jp CNAME .
 adebis.livable.co.jp CNAME .
 adebis.nursery.co.jp CNAME .
 adebis.qeee.jp CNAME .

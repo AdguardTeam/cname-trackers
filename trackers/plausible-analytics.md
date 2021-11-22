@@ -57,6 +57,7 @@
 | analytics.whotargets.me | custom.plausible.io |
 | analytics.winter.ink | custom.plausible.io |
 | analytics.wittypen.com | custom.plausible.io |
+| analytics.wpsermons.com | custom.plausible.io |
 | analytics.zingerwebdesign.com | custom.plausible.io |
 | antitracking.owncast.online | custom.plausible.io |
 | ap.dt.gl | custom.plausible.io |
@@ -260,6 +261,7 @@
 | stats.bitpost.app | custom.plausible.io |
 | stats.blockleviton.com | custom.plausible.io |
 | stats.blog.codingmilitia.com | custom.plausible.io |
+| stats.blog.merckx.fr | custom.plausible.io |
 | stats.blog.sean-wright.com | custom.plausible.io |
 | stats.blog.sublimesecurity.com | custom.plausible.io |
 | stats.bluesabre.org | custom.plausible.io |
@@ -466,6 +468,7 @@
 | stats.sebastiangale.ca | custom.plausible.io |
 | stats.seedthemes.com | custom.plausible.io |
 | stats.seedwebs.com | custom.plausible.io |
+| stats.sexplore.app | custom.plausible.io |
 | stats.share.link | custom.plausible.io |
 | stats.shareup.app | custom.plausible.io |
 | stats.sheer.tj | custom.plausible.io |
@@ -478,6 +481,7 @@
 | stats.southpetherwin.com | custom.plausible.io |
 | stats.sparkloop.app | custom.plausible.io |
 | stats.spp.co | custom.plausible.io |
+| stats.sqlteam.com | custom.plausible.io |
 | stats.stackingthebricks.com | custom.plausible.io |
 | stats.stacks.org | custom.plausible.io |
 | stats.steuer-soldaten.de | custom.plausible.io |

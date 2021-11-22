@@ -10,7 +10,6 @@ i.newssuite.sony.net CNAME .
 j.bg.adresult-sp.jp CNAME .
 j.image-ad.jp CNAME .
 j.newssuite.sony.net CNAME .
-www.akane-ad.com CNAME .
 ;
 ; site-112900816347.gslb5.sakura.ne.jp disguised trackers
 ;
@@ -34,3 +33,7 @@ j.image-ad.jp CNAME .
 ; newssuite-sony-net.storage.googleapis.com disguised trackers
 ;
 newssuite.sony.net CNAME .
+;
+; site-113001687131.gslb7.sakura.ne.jp disguised trackers
+;
+www.akane-ad.com CNAME .

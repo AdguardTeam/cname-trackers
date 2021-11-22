@@ -77,6 +77,7 @@ data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
 di.ifolor.ch CNAME .
+di.ifolor.fi CNAME .
 di.ifolor.net CNAME .
 ed.emp-online.ch CNAME .
 ed.emp-online.com CNAME .
@@ -149,6 +150,7 @@ tr.suedkurier.de CNAME .
 trk.blume2000.de CNAME .
 trk.nuernberger.digital CNAME .
 w7.berlin.de CNAME .
+w7.weihnachteninberlin.de CNAME .
 wa.planet-wissen.de CNAME .
 wa.quarks.de CNAME .
 wa.sportschau.de CNAME .
@@ -173,6 +175,7 @@ wbtrkk.teufelaudio.pl CNAME .
 web.bankofscotland.de CNAME .
 web.comunicazioni.iol.it CNAME .
 web.diebayerische.de CNAME .
+web.email.farrow-ball.com CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .
@@ -192,6 +195,7 @@ web.news.thebridge.it CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.x.ilpost.it CNAME .
 webmet.creditreform.de CNAME .
+webt.eleonto.com CNAME .
 webt.eu.teac-audio.com CNAME .
 webt.pure.com CNAME .
 wetr.sportscheck.at CNAME .

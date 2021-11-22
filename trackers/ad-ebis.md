@@ -62,6 +62,7 @@
     * 63caa179-uynsk4n4.cname.ebis.ne.jp
     * 64642ff0-29kvavam.cname.ebis.ne.jp
     * 65583296-u9rwf5hz.cname.ebis.ne.jp
+    * 68408270-ysplpzur.cname.ebis.ne.jp
     * 68d30b5c-gxw6vfjd.cname.ebis.ne.jp
     * 70f6c026-alqe4sgf.cname.ebis.ne.jp
     * 728d5fcc-6hbgpszs.cname.ebis.ne.jp
@@ -209,6 +210,7 @@
 | ad.aucfan.com | 63caa179-uynsk4n4.cname.ebis.ne.jp |
 | ebis.onamae.com | 64642ff0-29kvavam.cname.ebis.ne.jp |
 | ebis.studio-alice.co.jp | 65583296-u9rwf5hz.cname.ebis.ne.jp |
+| adebis.leben-style.jp | 68408270-ysplpzur.cname.ebis.ne.jp |
 | ebis.randstad.co.jp | 68d30b5c-gxw6vfjd.cname.ebis.ne.jp |
 | us9recc3.simseller.goo.ne.jp | 70f6c026-alqe4sgf.cname.ebis.ne.jp |
 | ebis.sekisuihouse.com | 728d5fcc-6hbgpszs.cname.ebis.ne.jp |

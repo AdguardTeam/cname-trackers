@@ -52,6 +52,7 @@ analytics.valheimgamer.com CNAME .
 analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
 analytics.wittypen.com CNAME .
+analytics.wpsermons.com CNAME .
 analytics.zingerwebdesign.com CNAME .
 antitracking.owncast.online CNAME .
 ap.dt.gl CNAME .
@@ -255,6 +256,7 @@ stats.bholmes.dev CNAME .
 stats.bitpost.app CNAME .
 stats.blockleviton.com CNAME .
 stats.blog.codingmilitia.com CNAME .
+stats.blog.merckx.fr CNAME .
 stats.blog.sean-wright.com CNAME .
 stats.blog.sublimesecurity.com CNAME .
 stats.bluesabre.org CNAME .
@@ -461,6 +463,7 @@ stats.screenwavemedia.com CNAME .
 stats.sebastiangale.ca CNAME .
 stats.seedthemes.com CNAME .
 stats.seedwebs.com CNAME .
+stats.sexplore.app CNAME .
 stats.share.link CNAME .
 stats.shareup.app CNAME .
 stats.sheer.tj CNAME .
@@ -473,6 +476,7 @@ stats.songbox.rocks CNAME .
 stats.southpetherwin.com CNAME .
 stats.sparkloop.app CNAME .
 stats.spp.co CNAME .
+stats.sqlteam.com CNAME .
 stats.stackingthebricks.com CNAME .
 stats.stacks.org CNAME .
 stats.steuer-soldaten.de CNAME .

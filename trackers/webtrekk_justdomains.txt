@@ -77,6 +77,7 @@ data.volksfreund.de
 data.westlotto.de
 daten.union-investment.de
 di.ifolor.ch
+di.ifolor.fi
 di.ifolor.net
 ed.emp-online.ch
 ed.emp-online.com
@@ -149,6 +150,7 @@ tr.suedkurier.de
 trk.blume2000.de
 trk.nuernberger.digital
 w7.berlin.de
+w7.weihnachteninberlin.de
 wa.planet-wissen.de
 wa.quarks.de
 wa.sportschau.de
@@ -173,6 +175,7 @@ wbtrkk.teufelaudio.pl
 web.bankofscotland.de
 web.comunicazioni.iol.it
 web.diebayerische.de
+web.email.farrow-ball.com
 web.email.theindependentpharmacy.co.uk
 web.emails.elc.co.uk
 web.emails.thetoyshop.com
@@ -192,6 +195,7 @@ web.news.thebridge.it
 web.newsletter.viviennewestwood.com
 web.x.ilpost.it
 webmet.creditreform.de
+webt.eleonto.com
 webt.eu.teac-audio.com
 webt.pure.com
 wetr.sportscheck.at

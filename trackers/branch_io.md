@@ -295,6 +295,7 @@
 | email-test.wirexapp.com | thirdparty.bnc.lt |
 | email.app.theiconic.com.au | thirdparty.bnc.lt |
 | email.boxed.com | thirdparty.bnc.lt |
+| email.chope.co | thirdparty.bnc.lt |
 | email.clearscore.co.za | thirdparty.bnc.lt |
 | email.clearscore.com | thirdparty.bnc.lt |
 | email.clearscore.com.au | thirdparty.bnc.lt |
@@ -493,6 +494,7 @@
 | pint-dev-branch.airship.com | thirdparty.bnc.lt |
 | qa-brc.emails.rakuten.com | thirdparty.bnc.lt |
 | qbse.intuit.com | thirdparty.bnc.lt |
+| r.blidzdeal.com | thirdparty.bnc.lt |
 | read.medium.com | thirdparty.bnc.lt |
 | sendgridlinks.neuroflowsolution.com | thirdparty.bnc.lt |
 | sg3.notarize.com | thirdparty.bnc.lt |

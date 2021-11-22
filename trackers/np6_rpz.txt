@@ -191,6 +191,7 @@ tr.mondevis-pro.com CNAME .
 tr.mp.aconclue-business.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
 tr.n.info.cdgp.fr CNAME .
+tr.nespresso.com CNAME .
 tr.news-chocolat.com CNAME .
 tr.news-companeo.fr CNAME .
 tr.news-companeo.mx CNAME .
@@ -214,6 +215,7 @@ tr.news.easyvoyage.co.uk CNAME .
 tr.news.easyvoyage.com CNAME .
 tr.news.easyvoyage.de CNAME .
 tr.news.economic-studies.fr CNAME .
+tr.news.editions-lva.fr CNAME .
 tr.news.geantcasino.fr CNAME .
 tr.news.heredis.com CNAME .
 tr.news.infopro-digital.com CNAME .

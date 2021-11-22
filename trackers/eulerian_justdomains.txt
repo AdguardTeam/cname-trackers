@@ -29,8 +29,6 @@ bpe2.destinia.co.il
 bum7.bymycar.fr
 bvz5.destinia.com.tr
 bwj4.hrhibiza.com
-c0i.ckoi.com
-c0p.cepsum.umontreal.ca
 c4dv.copinesdevoyage.com
 cc.conforama.es
 ch0p.darty.com
@@ -222,6 +220,7 @@ nlf6.vente-unique.pl
 nmo1.orpi.com
 noa0.compteczam.fr
 nrg.red-by-sfr.fr
+nym5c.bonlook.com
 nym5c.laura.ca
 nyt1.biosens-leanature.fr
 o68c.sfr.fr
@@ -271,7 +270,6 @@ rh5i.tradingsat.com
 rqz4.supdigital.fr
 rup5.destinia.ru
 rvz9.destinia.co.ro
-ry0.rythmefm.com
 s4e8.cascades.com
 sby1.madeindesign.de
 sd.securitasdirect.fr

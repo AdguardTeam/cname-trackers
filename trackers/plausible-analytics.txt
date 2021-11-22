@@ -52,6 +52,7 @@
 ||analytics.whotargets.me^
 ||analytics.winter.ink^
 ||analytics.wittypen.com^
+||analytics.wpsermons.com^
 ||analytics.zingerwebdesign.com^
 ||antitracking.owncast.online^
 ||ap.dt.gl^
@@ -255,6 +256,7 @@
 ||stats.bitpost.app^
 ||stats.blockleviton.com^
 ||stats.blog.codingmilitia.com^
+||stats.blog.merckx.fr^
 ||stats.blog.sean-wright.com^
 ||stats.blog.sublimesecurity.com^
 ||stats.bluesabre.org^
@@ -461,6 +463,7 @@
 ||stats.sebastiangale.ca^
 ||stats.seedthemes.com^
 ||stats.seedwebs.com^
+||stats.sexplore.app^
 ||stats.share.link^
 ||stats.shareup.app^
 ||stats.sheer.tj^
@@ -473,6 +476,7 @@
 ||stats.southpetherwin.com^
 ||stats.sparkloop.app^
 ||stats.spp.co^
+||stats.sqlteam.com^
 ||stats.stackingthebricks.com^
 ||stats.stacks.org^
 ||stats.steuer-soldaten.de^
