@@ -42,8 +42,10 @@
 ||analytics.ramiyer.me^
 ||analytics.sixfigureswine.com^
 ||analytics.souazi.com^
+||analytics.southjerseyquakers.org^
 ||analytics.ss88.us^
 ||analytics.sweep.net^
+||analytics.talisgrove.com^
 ||analytics.teamcovenant.com^
 ||analytics.top10-charts.com^
 ||analytics.trust.page^
@@ -92,9 +94,9 @@
 ||insights.growwithless.com^
 ||iwonttrackyou.xn--gckvb8fzb.com^
 ||juniper.starleaf.com^
+||kon.mediaplatform.group^
 ||ks.walkq.com^
 ||l2k30jsa.theochu.com^
-||littlebrother.makeplans.net^
 ||loggychops.paulsmith.site^
 ||meter.bref.sh^
 ||miernik.technologiewdomu.pl^
@@ -157,7 +159,6 @@
 ||plausible.ferranfigueredo.com^
 ||plausible.flowcv.io^
 ||plausible.food.game^
-||plausible.fwouts.com^
 ||plausible.goatstake.com^
 ||plausible.golfbreaks.com^
 ||plausible.goose.game^
@@ -300,6 +301,7 @@
 ||stats.doors.live^
 ||stats.drewbolles.com^
 ||stats.drgomesp.dev^
+||stats.dsgn.link^
 ||stats.edkimo.com^
 ||stats.ekomenyong.com^
 ||stats.elementary.io^
@@ -317,7 +319,6 @@
 ||stats.feathercss.makerkits.co^
 ||stats.felipesere.com^
 ||stats.femtobill.com^
-||stats.filmfed.com^
 ||stats.flightsphere.com^
 ||stats.frenlo.com^
 ||stats.fruechtl.me^
@@ -482,6 +483,7 @@
 ||stats.steuer-soldaten.de^
 ||stats.stopchikane.nu^
 ||stats.strawberry.rocks^
+||stats.strikogkod.dk^
 ||stats.studypages.com^
 ||stats.sublimesecurity.com^
 ||stats.sushibyte.io^

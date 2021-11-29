@@ -20,12 +20,14 @@ te.mirapodo.de
 te.mytoys.de
 te.otto.de
 te.ottoversand.at
+te.quelle.at
 te.quelle.ch
 te.quelle.de
 te.sheego.de
 te.sieh-an.de
 te.universal.at
 te.witt-international.nl
+te.witt-international.sk
 te.witt-weiden.at
 te.witt-weiden.ch
 te.witt-weiden.de

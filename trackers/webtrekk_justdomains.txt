@@ -131,6 +131,7 @@ scout.berg-freunde.at
 scout.berg-freunde.ch
 scout.bergfreunde.de
 scout.bergfreunde.dk
+scout.bergfreunde.es
 scout.bergfreunde.eu
 scout.bergfreunde.nl
 scout.bergfreunde.se
@@ -185,6 +186,7 @@ web.info.varelotteriet.dk
 web.info.yeppon.it
 web.mail.proximaati.com
 web.mapp.ilgiardinodeilibri.it
+web.mapp.skousen.dk
 web.marketing.elbenwald.de
 web.mytoys.de
 web.news.creedfragrances.co.uk

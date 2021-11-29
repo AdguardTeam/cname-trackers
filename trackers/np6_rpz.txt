@@ -35,6 +35,7 @@ tr.bizzquotes.co.uk CNAME .
 tr.boletim.meu-orcamento.pt CNAME .
 tr.btobquotes.com CNAME .
 tr.buenasofertas.pro CNAME .
+tr.bureauveritas.espmp-aufr.net CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.cacf.ipsos-surveys.com CNAME .
 tr.camara.eu.com CNAME .
@@ -112,6 +113,7 @@ tr.enedis-infos.fr CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net CNAME .
 tr.europa-organisation.com CNAME .
 tr.evenements.inpi.fr CNAME .
+tr.fidal.pro CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.gestion.banque-casino.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
@@ -216,6 +218,7 @@ tr.news.easyvoyage.com CNAME .
 tr.news.easyvoyage.de CNAME .
 tr.news.economic-studies.fr CNAME .
 tr.news.editions-lva.fr CNAME .
+tr.news.exclu.fr CNAME .
 tr.news.geantcasino.fr CNAME .
 tr.news.heredis.com CNAME .
 tr.news.infopro-digital.com CNAME .
@@ -229,7 +232,6 @@ tr.news.mdbp.fr CNAME .
 tr.news.meillandrichardier.com CNAME .
 tr.news.mi-oferta.es CNAME .
 tr.news.perfectstay.com CNAME .
-tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
 tr.news.thelist-emirates.fr CNAME .

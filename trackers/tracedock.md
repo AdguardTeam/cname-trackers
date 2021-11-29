@@ -17,7 +17,6 @@
 | en.johnhardy.com | a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com |
 | s1.carnext.com | a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com |
 | api.bunzlaucastle.com | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
-| api.weltevree.eu | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | core.bruynzeelkeukens.nl | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | tdep.bunzlonline.nl | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |
 | tdep.suncamp.be | a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com |

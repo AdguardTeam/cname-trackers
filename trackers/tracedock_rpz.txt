@@ -16,7 +16,6 @@ s1.carnext.com CNAME .
 ; a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com disguised trackers
 ;
 api.bunzlaucastle.com CNAME .
-api.weltevree.eu CNAME .
 core.bruynzeelkeukens.nl CNAME .
 tdep.bunzlonline.nl CNAME .
 tdep.suncamp.be CNAME .

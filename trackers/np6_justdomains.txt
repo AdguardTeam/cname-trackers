@@ -35,6 +35,7 @@ tr.bizzquotes.co.uk
 tr.boletim.meu-orcamento.pt
 tr.btobquotes.com
 tr.buenasofertas.pro
+tr.bureauveritas.espmp-aufr.net
 tr.cacf-acq.ipsos-surveys.com
 tr.cacf.ipsos-surveys.com
 tr.camara.eu.com
@@ -112,6 +113,7 @@ tr.enedis-infos.fr
 tr.envie-de-bien-manger.espmp-aufr.net
 tr.europa-organisation.com
 tr.evenements.inpi.fr
+tr.fidal.pro
 tr.fr.pro.accor.com
 tr.gestion.banque-casino.fr
 tr.gestion.cetelem.fr
@@ -216,6 +218,7 @@ tr.news.easyvoyage.com
 tr.news.easyvoyage.de
 tr.news.economic-studies.fr
 tr.news.editions-lva.fr
+tr.news.exclu.fr
 tr.news.geantcasino.fr
 tr.news.heredis.com
 tr.news.infopro-digital.com
@@ -229,7 +232,6 @@ tr.news.mdbp.fr
 tr.news.meillandrichardier.com
 tr.news.mi-oferta.es
 tr.news.perfectstay.com
-tr.news.smartdeals-transavia-fr.com
 tr.news.smartdealstransavia-fr.com
 tr.news.sport2000.fr
 tr.news.thelist-emirates.fr

@@ -21,10 +21,12 @@
 ||adebis-morijuku.morijuku.com^
 ||adebis-saimu.vbest.jp^
 ||adebis.angfa-store.jp^
+||adebis.chojyu.com^
 ||adebis.daiwahouse.co.jp^
 ||adebis.demae-can.com^
 ||adebis.e-ohaka.com^
 ||adebis.fenet.jp^
+||adebis.gfs-official.com^
 ||adebis.harutaka.jp^
 ||adebis.irobot-jp.com^
 ||adebis.juku.st^
@@ -46,6 +48,7 @@
 ||adebis.tohshin.co.jp^
 ||adebis.toitoitoi.clinic^
 ||adebis.tokyuhotels.co.jp^
+||adebis.toushi-up.com^
 ||adebis.urban-research.jp^
 ||adebis01.job-con.jp^
 ||adebis02.juku.st^

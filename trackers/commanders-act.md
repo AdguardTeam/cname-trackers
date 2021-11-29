@@ -15,7 +15,6 @@
     * redirect521.tagcommander.com
     * redirect622.tagcommander.com
     * redirect660.tagcommander.com
-    * redirect804.tagcommander.com
     * redirect891.tagcommander.com
     * ypg.tagcommander.com
 
@@ -48,6 +47,5 @@
 | tagcommander.laredoute.be | redirect521.tagcommander.com |
 | data.ubi.com | redirect622.tagcommander.com |
 | tagcommander.laredoute.co.uk | redirect660.tagcommander.com |
-| tagcommander.castaluna.fr | redirect804.tagcommander.com |
 | data.wptag.net | redirect891.tagcommander.com |
 | logger.yp.ca | ypg.tagcommander.com |

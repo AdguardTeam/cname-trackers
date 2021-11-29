@@ -21,10 +21,12 @@ adebis-52667624.wowma.jp CNAME .
 adebis-morijuku.morijuku.com CNAME .
 adebis-saimu.vbest.jp CNAME .
 adebis.angfa-store.jp CNAME .
+adebis.chojyu.com CNAME .
 adebis.daiwahouse.co.jp CNAME .
 adebis.demae-can.com CNAME .
 adebis.e-ohaka.com CNAME .
 adebis.fenet.jp CNAME .
+adebis.gfs-official.com CNAME .
 adebis.harutaka.jp CNAME .
 adebis.irobot-jp.com CNAME .
 adebis.juku.st CNAME .
@@ -46,6 +48,7 @@ adebis.tipness.co.jp CNAME .
 adebis.tohshin.co.jp CNAME .
 adebis.toitoitoi.clinic CNAME .
 adebis.tokyuhotels.co.jp CNAME .
+adebis.toushi-up.com CNAME .
 adebis.urban-research.jp CNAME .
 adebis01.job-con.jp CNAME .
 adebis02.juku.st CNAME .

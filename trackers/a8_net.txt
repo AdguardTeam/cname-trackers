@@ -21,6 +21,7 @@
 ||a8.looop-denki.com^
 ||a8.makeshop.jp^
 ||a8.nosh.jp^
+||a8.olightstore.jp^
 ||a8.payse.basefood.co.jp^
 ||a8.print-netsquare.com^
 ||a8.remix-denki.com^
@@ -92,6 +93,7 @@
 ||a8cv.araiba.net^
 ||a8cv.bettysbeauty.jp^
 ||a8cv.brandeuse.jp^
+||a8cv.brassiere-shorts.jp^
 ||a8cv.broadbandservice.jp^
 ||a8cv.busbookmark.jp^
 ||a8cv.coopnet.or.jp^

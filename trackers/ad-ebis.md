@@ -16,6 +16,8 @@
     * 0ecb3018-xpsz9xxb.cname.ebis.ne.jp
     * 112991d3-surmt4v9.cname.ebis.ne.jp
     * 1241cdd8-znrwzwlu.cname.ebis.ne.jp
+    * 12e8d4f5-xjhet6w1.cname.ebis.ne.jp
+    * 1590f1a6-xjhet6w1.cname.ebis.ne.jp
     * 17a0a051-yhrqdvjf.cname.ebis.ne.jp
     * 18aeb18f-orvgub9g.cname.ebis.ne.jp
     * 23d55728-ssmshbez.cname.ebis.ne.jp
@@ -54,6 +56,7 @@
     * 4f9cdbe0-unrhytys.cname.ebis.ne.jp
     * 5032afa8-66fsga6n.cname.ebis.ne.jp
     * 518dea17-lwmskzks.cname.ebis.ne.jp
+    * 520a8d3c-sxwkkncm.cname.ebis.ne.jp
     * 52e84b1b-f9cqqk3h.cname.ebis.ne.jp
     * 5e958d74-ugbtnbbz.cname.ebis.ne.jp
     * 60222f89-dui9p9au.cname.ebis.ne.jp
@@ -164,6 +167,8 @@
 | adebis.satori.marketing | 0ecb3018-xpsz9xxb.cname.ebis.ne.jp |
 | partner.haru-shop.jp | 112991d3-surmt4v9.cname.ebis.ne.jp |
 | seo.tkc110.jp | 1241cdd8-znrwzwlu.cname.ebis.ne.jp |
+| adebis.toushi-up.com | 12e8d4f5-xjhet6w1.cname.ebis.ne.jp |
+| adebis.gfs-official.com | 1590f1a6-xjhet6w1.cname.ebis.ne.jp |
 | ebis.nomu-silica.jp | 17a0a051-yhrqdvjf.cname.ebis.ne.jp |
 | ebis.rozetta.jp | 18aeb18f-orvgub9g.cname.ebis.ne.jp |
 | ebis.c-3-esthe.com | 23d55728-ssmshbez.cname.ebis.ne.jp |
@@ -202,6 +207,7 @@
 | ad-track.paravi.jp | 4f9cdbe0-unrhytys.cname.ebis.ne.jp |
 | adebis.nursery.co.jp | 5032afa8-66fsga6n.cname.ebis.ne.jp |
 | cvs.kireimo.jp | 518dea17-lwmskzks.cname.ebis.ne.jp |
+| adebis.chojyu.com | 520a8d3c-sxwkkncm.cname.ebis.ne.jp |
 | adebis-52667624.wowma.jp | 52e84b1b-f9cqqk3h.cname.ebis.ne.jp |
 | ac-3.mix.tokyo | 5e958d74-ugbtnbbz.cname.ebis.ne.jp |
 | ad.autorace.jp | 60222f89-dui9p9au.cname.ebis.ne.jp |

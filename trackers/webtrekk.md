@@ -32,6 +32,7 @@
     * 145003564476173.wt-eu02.net
     * 148749046266446.wt-eu02.net
     * 176652923057792.wt-eu02.net
+    * 186015257614542.wt-eu02.net
     * 208005830805862.wt-eu02.net
     * 215973748390194.wt-eu02.net
     * 243341177383246.wt-eu02.net
@@ -146,6 +147,7 @@
 | mapp.ewm.co.uk | 145003564476173.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
+| web.mapp.skousen.dk | 186015257614542.wt-eu02.net |
 | census.misterspex.de | 208005830805862.wt-eu02.net |
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | web.info.yeppon.it | 243341177383246.wt-eu02.net |
@@ -289,6 +291,7 @@
 | scout.berg-freunde.ch | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.de | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.dk | img.bergfreunde.wt-eu02.net |
+| scout.bergfreunde.es | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.eu | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.nl | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.se | img.bergfreunde.wt-eu02.net |

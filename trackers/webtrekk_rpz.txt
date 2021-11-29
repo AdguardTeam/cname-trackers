@@ -131,6 +131,7 @@ scout.berg-freunde.at CNAME .
 scout.berg-freunde.ch CNAME .
 scout.bergfreunde.de CNAME .
 scout.bergfreunde.dk CNAME .
+scout.bergfreunde.es CNAME .
 scout.bergfreunde.eu CNAME .
 scout.bergfreunde.nl CNAME .
 scout.bergfreunde.se CNAME .
@@ -185,6 +186,7 @@ web.info.varelotteriet.dk CNAME .
 web.info.yeppon.it CNAME .
 web.mail.proximaati.com CNAME .
 web.mapp.ilgiardinodeilibri.it CNAME .
+web.mapp.skousen.dk CNAME .
 web.marketing.elbenwald.de CNAME .
 web.mytoys.de CNAME .
 web.news.creedfragrances.co.uk CNAME .

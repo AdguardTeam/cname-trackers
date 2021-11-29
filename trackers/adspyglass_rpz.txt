@@ -16,11 +16,14 @@ a.allwedoisfuck.com CNAME .
 a.andropps.us CNAME .
 a.antiadxxxspy.com CNAME .
 a.benonblkd.xyz CNAME .
+a.cdn1.pro CNAME .
 a.chastityvideos.com CNAME .
+a.digitalgiftshopping.com CNAME .
 a.dirtyasmr.com CNAME .
 a.dphunters.com CNAME .
 a.eachporn.com CNAME .
 a.emwstore.xyz CNAME .
+a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.green-good-nice.site CNAME .
@@ -36,6 +39,7 @@ a.veryn1ce.com CNAME .
 a.watchomovies.com CNAME .
 a.xirono.club CNAME .
 a.xxe2.com CNAME .
+a5.g--o.info CNAME .
 a5g.oves.biz CNAME .
 aa.zerg.pro CNAME .
 acdn.uploads.mobi CNAME .
@@ -98,6 +102,7 @@ deliver.vkcdnservice.com CNAME .
 digiadzone.com CNAME .
 digital.goldvertise.com CNAME .
 dl.4kporn.xxx CNAME .
+dl.crazyporn.xxx CNAME .
 ebd.cda-hd.cc CNAME .
 edge1-us-priority.akamacdn.com CNAME .
 est.pornleech.ch CNAME .
@@ -115,6 +120,7 @@ glokta.info CNAME .
 go.showmeyouradsnow.com CNAME .
 go.ss-n-30.com CNAME .
 hazicu.hothomefuck.com CNAME .
+hellothere.filefox.io CNAME .
 hq3x.com CNAME .
 hsux.com CNAME .
 id.fc2-ppv.live CNAME .
@@ -150,6 +156,7 @@ pre.102porno.club CNAME .
 pre.ebasos.club CNAME .
 profield.ddns.net CNAME .
 pu.teentube18.net CNAME .
+pubblicita.animeitaly.org CNAME .
 redi.teengirl-pics.com CNAME .
 rst.pornyhd.com CNAME .
 s.freeporncave.com CNAME .
@@ -172,11 +179,13 @@ sub.superxxxfree.com CNAME .
 sub.xxx-porn-tube.com CNAME .
 svekolasg.pro CNAME .
 tb.turbocap.net CNAME .
+tpl.factporn.com CNAME .
 trickyneotits.com CNAME .
 ts.sopornvideos.com CNAME .
 uthbxvz.bestzba.com CNAME .
 v.pornomixfree.com CNAME .
 vd.7vid.net CNAME .
+vidcdn.name CNAME .
 videocdn.name CNAME .
 vsx.hotpornfile.org CNAME .
 w00t.us CNAME .
@@ -185,7 +194,6 @@ web.cinetux.nu CNAME .
 widjet.analnoe.tv CNAME .
 www.findnewline.com CNAME .
 www.healmsuoguurd.eu CNAME .
-www.hot-3d-girls.com CNAME .
 www.hq3x.com CNAME .
 www.letstry69.xyz CNAME .
 www.sex1.party CNAME .

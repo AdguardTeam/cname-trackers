@@ -27,6 +27,7 @@
 | a8.looop-denki.com | trck.a8.net |
 | a8.makeshop.jp | trck.a8.net |
 | a8.nosh.jp | trck.a8.net |
+| a8.olightstore.jp | trck.a8.net |
 | a8.payse.basefood.co.jp | trck.a8.net |
 | a8.print-netsquare.com | trck.a8.net |
 | a8.remix-denki.com | trck.a8.net |
@@ -98,6 +99,7 @@
 | a8cv.araiba.net | trck.a8.net |
 | a8cv.bettysbeauty.jp | trck.a8.net |
 | a8cv.brandeuse.jp | trck.a8.net |
+| a8cv.brassiere-shorts.jp | trck.a8.net |
 | a8cv.broadbandservice.jp | trck.a8.net |
 | a8cv.busbookmark.jp | trck.a8.net |
 | a8cv.coopnet.or.jp | trck.a8.net |

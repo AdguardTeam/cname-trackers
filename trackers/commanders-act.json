@@ -11,7 +11,6 @@
   "logger.yp.ca": "ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com",
   "sales.disneylandparis.com": "ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com",
   "tag.boulanger.fr": "ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com",
-  "tagcommander.castaluna.fr": "redirect804.tagcommander.com",
   "tagcommander.laredoute.be": "redirect521.tagcommander.com",
   "tagcommander.laredoute.co.uk": "redirect660.tagcommander.com",
   "tc.airfrance.com": "redirect324.tagcommander.com",

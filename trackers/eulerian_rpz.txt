@@ -35,6 +35,7 @@ ch0p.darty.com CNAME .
 cls7.theushuaiaexperience.com CNAME .
 cpgo.avatacar.com CNAME .
 cpk.princessetamtam.com CNAME .
+cpr.comptoirdescotonniers.com CNAME .
 cse3.chausport.com CNAME .
 csv4.ebs-paris.fr CNAME .
 ct5m.citadium.com CNAME .
@@ -111,6 +112,7 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
+eat9.thebeat925.ca CNAME .
 ebc1.capifrance.fr CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
@@ -169,6 +171,7 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 he6e.lavieimmo.com CNAME .
 hgf4.zanzicar.fr CNAME .
+hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
@@ -291,6 +294,7 @@ t.locasun.fr CNAME .
 t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.voyages-sncf.com CNAME .
+t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tce0.primes-energie.leclerc CNAME .

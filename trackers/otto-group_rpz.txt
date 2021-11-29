@@ -20,12 +20,14 @@ te.mirapodo.de CNAME .
 te.mytoys.de CNAME .
 te.otto.de CNAME .
 te.ottoversand.at CNAME .
+te.quelle.at CNAME .
 te.quelle.ch CNAME .
 te.quelle.de CNAME .
 te.sheego.de CNAME .
 te.sieh-an.de CNAME .
 te.universal.at CNAME .
 te.witt-international.nl CNAME .
+te.witt-international.sk CNAME .
 te.witt-weiden.at CNAME .
 te.witt-weiden.ch CNAME .
 te.witt-weiden.de CNAME .

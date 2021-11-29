@@ -40,6 +40,7 @@
 | tr.boletim.meu-orcamento.pt | tracking.bp01.net |
 | tr.btobquotes.com | tracking.bp01.net |
 | tr.buenasofertas.pro | tracking.bp01.net |
+| tr.bureauveritas.espmp-aufr.net | tracking.bp01.net |
 | tr.cacf-acq.ipsos-surveys.com | tracking.bp01.net |
 | tr.cacf.ipsos-surveys.com | tracking.bp01.net |
 | tr.camara.eu.com | tracking.bp01.net |
@@ -117,6 +118,7 @@
 | tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
 | tr.europa-organisation.com | tracking.bp01.net |
 | tr.evenements.inpi.fr | tracking.bp01.net |
+| tr.fidal.pro | tracking.bp01.net |
 | tr.fr.pro.accor.com | tracking.bp01.net |
 | tr.gestion.banque-casino.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
@@ -221,6 +223,7 @@
 | tr.news.easyvoyage.de | tracking.bp01.net |
 | tr.news.economic-studies.fr | tracking.bp01.net |
 | tr.news.editions-lva.fr | tracking.bp01.net |
+| tr.news.exclu.fr | tracking.bp01.net |
 | tr.news.geantcasino.fr | tracking.bp01.net |
 | tr.news.heredis.com | tracking.bp01.net |
 | tr.news.infopro-digital.com | tracking.bp01.net |
@@ -234,7 +237,6 @@
 | tr.news.meillandrichardier.com | tracking.bp01.net |
 | tr.news.mi-oferta.es | tracking.bp01.net |
 | tr.news.perfectstay.com | tracking.bp01.net |
-| tr.news.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.news.smartdealstransavia-fr.com | tracking.bp01.net |
 | tr.news.sport2000.fr | tracking.bp01.net |
 | tr.news.thelist-emirates.fr | tracking.bp01.net |

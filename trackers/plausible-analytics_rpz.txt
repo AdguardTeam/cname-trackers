@@ -42,8 +42,10 @@ analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
 analytics.sixfigureswine.com CNAME .
 analytics.souazi.com CNAME .
+analytics.southjerseyquakers.org CNAME .
 analytics.ss88.us CNAME .
 analytics.sweep.net CNAME .
+analytics.talisgrove.com CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
@@ -92,9 +94,9 @@ insights.frenchtogether.com CNAME .
 insights.growwithless.com CNAME .
 iwonttrackyou.xn--gckvb8fzb.com CNAME .
 juniper.starleaf.com CNAME .
+kon.mediaplatform.group CNAME .
 ks.walkq.com CNAME .
 l2k30jsa.theochu.com CNAME .
-littlebrother.makeplans.net CNAME .
 loggychops.paulsmith.site CNAME .
 meter.bref.sh CNAME .
 miernik.technologiewdomu.pl CNAME .
@@ -157,7 +159,6 @@ plausible.factly.in CNAME .
 plausible.ferranfigueredo.com CNAME .
 plausible.flowcv.io CNAME .
 plausible.food.game CNAME .
-plausible.fwouts.com CNAME .
 plausible.goatstake.com CNAME .
 plausible.golfbreaks.com CNAME .
 plausible.goose.game CNAME .
@@ -300,6 +301,7 @@ stats.domain.garden CNAME .
 stats.doors.live CNAME .
 stats.drewbolles.com CNAME .
 stats.drgomesp.dev CNAME .
+stats.dsgn.link CNAME .
 stats.edkimo.com CNAME .
 stats.ekomenyong.com CNAME .
 stats.elementary.io CNAME .
@@ -317,7 +319,6 @@ stats.farbenmeer.de CNAME .
 stats.feathercss.makerkits.co CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
-stats.filmfed.com CNAME .
 stats.flightsphere.com CNAME .
 stats.frenlo.com CNAME .
 stats.fruechtl.me CNAME .
@@ -482,6 +483,7 @@ stats.stacks.org CNAME .
 stats.steuer-soldaten.de CNAME .
 stats.stopchikane.nu CNAME .
 stats.strawberry.rocks CNAME .
+stats.strikogkod.dk CNAME .
 stats.studypages.com CNAME .
 stats.sublimesecurity.com CNAME .
 stats.sushibyte.io CNAME .

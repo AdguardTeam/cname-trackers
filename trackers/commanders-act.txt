@@ -13,7 +13,6 @@
 ||logger.yp.ca^
 ||sales.disneylandparis.com^
 ||tag.boulanger.fr^
-||tagcommander.castaluna.fr^
 ||tagcommander.laredoute.be^
 ||tagcommander.laredoute.co.uk^
 ||tc.airfrance.com^
