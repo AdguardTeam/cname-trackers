@@ -12,6 +12,7 @@
 a.123porner.com CNAME .
 a.888x.cyou CNAME .
 a.abismo-katheryne.top CNAME .
+a.acervox.com CNAME .
 a.allwedoisfuck.com CNAME .
 a.andropps.us CNAME .
 a.antiadxxxspy.com CNAME .
@@ -28,6 +29,8 @@ a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.green-good-nice.site CNAME .
 a.hentaimotel.com CNAME .
+a.kagiti.club CNAME .
+a.katomu.club CNAME .
 a.letsjerk.to CNAME .
 a.neverbe.xyz CNAME .
 a.pinoymoviepedia.ru CNAME .
@@ -115,6 +118,7 @@ free.stat.tk CNAME .
 freememes.desiceleb.top CNAME .
 g6j.cupidonmedia.com CNAME .
 geovideo.name CNAME .
+gg.xszcdn.com CNAME .
 ghtry.amateurswild.com CNAME .
 glokta.info CNAME .
 go.showmeyouradsnow.com CNAME .

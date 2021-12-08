@@ -257,6 +257,7 @@ clicks.email.shakeshack.com CNAME .
 clicks.equinoxplus.com CNAME .
 clicks.food.mercato.com CNAME .
 clicks.info.theiconic.com.au CNAME .
+clicks.kfc.co.uk CNAME .
 clicks.lifesum.com CNAME .
 clicks.metronautapp.com CNAME .
 clicks.staging.worldremit.com CNAME .
@@ -311,6 +312,7 @@ email.wirexapp.com CNAME .
 email1.strava.com CNAME .
 emails.verishop.com CNAME .
 fleet-eml.postmates.com CNAME .
+go.email.jbhunt.com CNAME .
 go.emails.discoveryplus.com CNAME .
 go.heybianca.co CNAME .
 goto.dresslily.com CNAME .
@@ -438,6 +440,7 @@ links.fabletics.es CNAME .
 links.fabletics.fr CNAME .
 links.fitbod.me CNAME .
 links.glamsquad.com CNAME .
+links.helloalfred.com CNAME .
 links.hitrecord.org CNAME .
 links.huckleberry-labs.com CNAME .
 links.i.blueapron.com CNAME .
@@ -478,7 +481,6 @@ linktrace.diningcity.cn CNAME .
 m.irl.com CNAME .
 m1.stadiumgoods.com CNAME .
 mail.theknot.com CNAME .
-mail01.virginpulse.com CNAME .
 mandrillapp.zola.com CNAME .
 mlinks.fluz.app CNAME .
 mx.carfax.com CNAME .

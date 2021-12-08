@@ -118,7 +118,6 @@ pa.travelwhiz.app CNAME .
 pan.render.com CNAME .
 ping.cavelab.dev CNAME .
 ping.richardtaylor.dev CNAME .
-pio.fabianfett.de CNAME .
 piostats.gdcorner.com CNAME .
 pl.1feed.app CNAME .
 pl.astro.fi CNAME .
@@ -298,6 +297,7 @@ stats.deva.guru CNAME .
 stats.digiexpert.store CNAME .
 stats.divyanshu013.dev CNAME .
 stats.domain.garden CNAME .
+stats.dominikmayer.com CNAME .
 stats.doors.live CNAME .
 stats.drewbolles.com CNAME .
 stats.drgomesp.dev CNAME .
@@ -492,6 +492,7 @@ stats.tekin.co.uk CNAME .
 stats.thelion.website CNAME .
 stats.therenegadecoder.com CNAME .
 stats.thomasvitale.com CNAME .
+stats.threadstart.io CNAME .
 stats.timmyomahony.com CNAME .
 stats.toiletmap.org.uk CNAME .
 stats.tomorrowacademy.org CNAME .
@@ -524,6 +525,7 @@ stats.zander.wtf CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
 sts.papyrs.com CNAME .
 t.andarpersassi.it CNAME .
+telemetry.xeraa.net CNAME .
 thor.pureelectric.se CNAME .
 thumos.fileside.app CNAME .
 tics.seeker.gg CNAME .

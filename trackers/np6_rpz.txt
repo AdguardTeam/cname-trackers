@@ -73,6 +73,7 @@ tr.communication.offresb2b.fr CNAME .
 tr.compte.fca-capital-france.fr CNAME .
 tr.contact.canalplus.fr CNAME .
 tr.contact.e-turf.fr CNAME .
+tr.contrats.cetelem.fr CNAME .
 tr.courriel.ouestnormandie.cci.fr CNAME .
 tr.courrier.charentelibre.fr CNAME .
 tr.courrier.larepubliquedespyrenees.fr CNAME .
@@ -105,6 +106,7 @@ tr.emailing.canalplus-maurice.com CNAME .
 tr.emailing.canalplus-reunion.com CNAME .
 tr.emailing.canalplus.ch CNAME .
 tr.emailing.canalplus.fr CNAME .
+tr.emailing.cifea-mkg.com CNAME .
 tr.emailing.coe.int CNAME .
 tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
@@ -287,6 +289,7 @@ tr.portail.afpa.fr CNAME .
 tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro.odalys-vacances.com CNAME .
+tr.qualitaetsumfrage.com CNAME .
 tr.quotes.digital CNAME .
 tr.quotes4business.info CNAME .
 tr.quotesforbusiness.co.uk CNAME .

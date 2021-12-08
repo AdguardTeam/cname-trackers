@@ -18,7 +18,6 @@
 ||atxqb.psychologies.com^
 ||avocado.laprovence.com^
 ||buf.lemonde.fr^
-||c.atinternet-solutions.com^
 ||c0012.brsimg.com^
 ||checkpointcharlie.heizung.de^
 ||chihiro.nostalgie.fr^

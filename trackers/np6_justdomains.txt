@@ -73,6 +73,7 @@ tr.communication.offresb2b.fr
 tr.compte.fca-capital-france.fr
 tr.contact.canalplus.fr
 tr.contact.e-turf.fr
+tr.contrats.cetelem.fr
 tr.courriel.ouestnormandie.cci.fr
 tr.courrier.charentelibre.fr
 tr.courrier.larepubliquedespyrenees.fr
@@ -105,6 +106,7 @@ tr.emailing.canalplus-maurice.com
 tr.emailing.canalplus-reunion.com
 tr.emailing.canalplus.ch
 tr.emailing.canalplus.fr
+tr.emailing.cifea-mkg.com
 tr.emailing.coe.int
 tr.emailing.detours.canal.fr
 tr.emailing.grassavoye.com
@@ -287,6 +289,7 @@ tr.portail.afpa.fr
 tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
 tr.pro.odalys-vacances.com
+tr.qualitaetsumfrage.com
 tr.quotes.digital
 tr.quotes4business.info
 tr.quotesforbusiness.co.uk

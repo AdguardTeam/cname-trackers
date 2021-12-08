@@ -18,7 +18,6 @@ ati-a1.946d001b783803c1.xhst.bbci.co.uk CNAME .
 atxqb.psychologies.com CNAME .
 avocado.laprovence.com CNAME .
 buf.lemonde.fr CNAME .
-c.atinternet-solutions.com CNAME .
 c0012.brsimg.com CNAME .
 checkpointcharlie.heizung.de CNAME .
 chihiro.nostalgie.fr CNAME .

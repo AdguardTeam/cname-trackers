@@ -257,6 +257,7 @@
 ||clicks.equinoxplus.com^
 ||clicks.food.mercato.com^
 ||clicks.info.theiconic.com.au^
+||clicks.kfc.co.uk^
 ||clicks.lifesum.com^
 ||clicks.metronautapp.com^
 ||clicks.staging.worldremit.com^
@@ -311,6 +312,7 @@
 ||email1.strava.com^
 ||emails.verishop.com^
 ||fleet-eml.postmates.com^
+||go.email.jbhunt.com^
 ||go.emails.discoveryplus.com^
 ||go.heybianca.co^
 ||goto.dresslily.com^
@@ -438,6 +440,7 @@
 ||links.fabletics.fr^
 ||links.fitbod.me^
 ||links.glamsquad.com^
+||links.helloalfred.com^
 ||links.hitrecord.org^
 ||links.huckleberry-labs.com^
 ||links.i.blueapron.com^
@@ -478,7 +481,6 @@
 ||m.irl.com^
 ||m1.stadiumgoods.com^
 ||mail.theknot.com^
-||mail01.virginpulse.com^
 ||mandrillapp.zola.com^
 ||mlinks.fluz.app^
 ||mx.carfax.com^

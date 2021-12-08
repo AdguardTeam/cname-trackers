@@ -29,6 +29,8 @@ bpe2.destinia.co.il
 bum7.bymycar.fr
 bvz5.destinia.com.tr
 bwj4.hrhibiza.com
+c0i.ckoi.com
+c0p.cepsum.umontreal.ca
 c4dv.copinesdevoyage.com
 cc.conforama.es
 ch0p.darty.com
@@ -119,6 +121,7 @@ ef.futuroscope.mobi
 ek8.voyage-prive.com
 elc1.energies.leclerc
 elr.sfr.fr
+erb.tremblant.ca
 ert5.rmcsport.tv
 eule1.pmu.fr
 eulerian.astro-way.com
@@ -273,6 +276,7 @@ rh5i.tradingsat.com
 rqz4.supdigital.fr
 rup5.destinia.ru
 rvz9.destinia.co.ro
+ry0.rythmefm.com
 s4e8.cascades.com
 sby1.madeindesign.de
 sd.securitasdirect.fr

@@ -118,7 +118,6 @@
 ||pan.render.com^
 ||ping.cavelab.dev^
 ||ping.richardtaylor.dev^
-||pio.fabianfett.de^
 ||piostats.gdcorner.com^
 ||pl.1feed.app^
 ||pl.astro.fi^
@@ -298,6 +297,7 @@
 ||stats.digiexpert.store^
 ||stats.divyanshu013.dev^
 ||stats.domain.garden^
+||stats.dominikmayer.com^
 ||stats.doors.live^
 ||stats.drewbolles.com^
 ||stats.drgomesp.dev^
@@ -492,6 +492,7 @@
 ||stats.thelion.website^
 ||stats.therenegadecoder.com^
 ||stats.thomasvitale.com^
+||stats.threadstart.io^
 ||stats.timmyomahony.com^
 ||stats.toiletmap.org.uk^
 ||stats.tomorrowacademy.org^
@@ -524,6 +525,7 @@
 ||statystyki.ekspertyzy-szkolenia.pl^
 ||sts.papyrs.com^
 ||t.andarpersassi.it^
+||telemetry.xeraa.net^
 ||thor.pureelectric.se^
 ||thumos.fileside.app^
 ||tics.seeker.gg^

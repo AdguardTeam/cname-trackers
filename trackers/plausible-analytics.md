@@ -123,7 +123,6 @@
 | pan.render.com | custom.plausible.io |
 | ping.cavelab.dev | custom.plausible.io |
 | ping.richardtaylor.dev | custom.plausible.io |
-| pio.fabianfett.de | custom.plausible.io |
 | piostats.gdcorner.com | custom.plausible.io |
 | pl.1feed.app | custom.plausible.io |
 | pl.astro.fi | custom.plausible.io |
@@ -303,6 +302,7 @@
 | stats.digiexpert.store | custom.plausible.io |
 | stats.divyanshu013.dev | custom.plausible.io |
 | stats.domain.garden | custom.plausible.io |
+| stats.dominikmayer.com | custom.plausible.io |
 | stats.doors.live | custom.plausible.io |
 | stats.drewbolles.com | custom.plausible.io |
 | stats.drgomesp.dev | custom.plausible.io |
@@ -497,6 +497,7 @@
 | stats.thelion.website | custom.plausible.io |
 | stats.therenegadecoder.com | custom.plausible.io |
 | stats.thomasvitale.com | custom.plausible.io |
+| stats.threadstart.io | custom.plausible.io |
 | stats.timmyomahony.com | custom.plausible.io |
 | stats.toiletmap.org.uk | custom.plausible.io |
 | stats.tomorrowacademy.org | custom.plausible.io |
@@ -529,6 +530,7 @@
 | statystyki.ekspertyzy-szkolenia.pl | custom.plausible.io |
 | sts.papyrs.com | custom.plausible.io |
 | t.andarpersassi.it | custom.plausible.io |
+| telemetry.xeraa.net | custom.plausible.io |
 | thor.pureelectric.se | custom.plausible.io |
 | thumos.fileside.app | custom.plausible.io |
 | tics.seeker.gg | custom.plausible.io |
