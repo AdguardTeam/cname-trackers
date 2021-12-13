@@ -80,6 +80,7 @@ ablink.help.innit.com
 ablink.help.sanvello.com
 ablink.help.shopwell.com
 ablink.info.felixmobile.com.au
+ablink.info.gawin.ph
 ablink.info.pressreader.com
 ablink.info.sofi.org
 ablink.info.themarket.nz
@@ -87,6 +88,7 @@ ablink.info.timhortons.ca
 ablink.info.timhortons.com
 ablink.info.vida.com
 ablink.juicer.li.me
+ablink.kfc.com.au
 ablink.lifecycle.quizlet.com
 ablink.loyal.timhortons.ca
 ablink.loyal.timhortons.com
@@ -358,6 +360,7 @@ link.email.ninetynine.com
 link.email.soothe.com
 link.email.tajawal.com
 link.foodnetwork.com
+link.get.discovery.plus
 link.hello-au.circles.life
 link.hello-sg.circles.life
 link.hello.soothe.com
@@ -387,6 +390,7 @@ link.offers.kodakmoments.com
 link.orders.kodakmoments.com
 link.resy.com
 link.ridewithvia.com
+link.support.discovery.plus
 link.syfy-channel.com
 link.team.bnext.es
 link.team.bnext.io
@@ -465,6 +469,7 @@ links.official.vsco.co
 links.ohhey.depop.com
 links.openfit.com
 links.orders.kfc.com
+links.ph.discoveryplus.com
 links.playon.tv
 links.schnucks.com
 links.sheroes.in

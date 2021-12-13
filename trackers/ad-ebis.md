@@ -73,6 +73,8 @@
     * 748da21f-kuqpafku.cname.ebis.ne.jp
     * 77898d5b-lkppvk2g.cname.ebis.ne.jp
     * 7955b170-gaz6wmaw.cname.ebis.ne.jp
+    * 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp
+    * 7d014781-4z4kfqrd.cname.ebis.ne.jp
     * 8084b5d3-mqxnlcy4.cname.ebis.ne.jp
     * 80ad1e32-pvfpecyh.cname.ebis.ne.jp
     * 82590653-c7rwefvl.cname.ebis.ne.jp
@@ -224,6 +226,8 @@
 | adebis.demae-can.com | 748da21f-kuqpafku.cname.ebis.ne.jp |
 | adebis.harutaka.jp | 77898d5b-lkppvk2g.cname.ebis.ne.jp |
 | cnebis.chocola.com | 7955b170-gaz6wmaw.cname.ebis.ne.jp |
+| cname-adebis.vcube.com | 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp |
+| mcad.mods-clinic.com | 7d014781-4z4kfqrd.cname.ebis.ne.jp |
 | cname.mebiusseiyaku.co.jp | 8084b5d3-mqxnlcy4.cname.ebis.ne.jp |
 | adebis.qeee.jp | 80ad1e32-pvfpecyh.cname.ebis.ne.jp |
 | urerucname.manara.jp | 82590653-c7rwefvl.cname.ebis.ne.jp |

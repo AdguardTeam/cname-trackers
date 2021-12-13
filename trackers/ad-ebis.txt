@@ -67,6 +67,7 @@
 ||cname-ade.hankoya.com^
 ||cname-ade.original-calendar.com^
 ||cname-adebis.nice2meet.us^
+||cname-adebis.vcube.com^
 ||cname.crank-in.net^
 ||cname.ebis.folio-sec.com^
 ||cname.finess.jp^
@@ -131,6 +132,7 @@
 ||itp.phoebebeautyup.com^
 ||jj85xnjq.ybqwah.ntt.com^
 ||maz.zba.jp^
+||mcad.mods-clinic.com^
 ||mgn.ebis.andbe-official.com^
 ||msr.p-antiaging.com^
 ||nadeshiko2019.kirei-nadeshiko.jp^

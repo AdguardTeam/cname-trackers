@@ -51,6 +51,7 @@
 ||a8clk.cv.mensfashion.cc^
 ||a8clk.cv.warau.jp^
 ||a8clk.dospara.co.jp^
+||a8clk.francfranc.com^
 ||a8clk.hurugicom.jp^
 ||a8clk.justy-consul.com^
 ||a8clk.kaitori-beerecords.jp^
@@ -104,6 +105,7 @@
 ||a8cv.housingbazar.jp^
 ||a8cv.iikyujin.net^
 ||a8cv.ishibashi.co.jp^
+||a8cv.k-ikiiki.jp^
 ||a8cv.minana-jp.com^
 ||a8cv.minnano-eikaiwa.com^
 ||a8cv.modern-deco.jp^

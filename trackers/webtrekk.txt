@@ -16,6 +16,7 @@
 ||startrekk.flaconi.de^
 ||sub1.cosmosdirekt.de^
 ||text.mitarbeiterangebote.de^
+||track.emeza.ch^
 ||track.emeza.com^
 ||track.yellostrom.de^
 ||tracking.netcologne.de^

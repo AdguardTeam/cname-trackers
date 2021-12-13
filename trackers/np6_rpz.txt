@@ -12,6 +12,7 @@ tr.actu.bricodepot.com CNAME .
 tr.actualites.01net.com CNAME .
 tr.actualites.bfmtv.com CNAME .
 tr.actupremium.com CNAME .
+tr.actus-fdj.fr CNAME .
 tr.animation.lexpress.fr CNAME .
 tr.animation.micromania.fr CNAME .
 tr.animations.01net.com CNAME .
@@ -71,6 +72,7 @@ tr.communication.moethennessy.com CNAME .
 tr.communication.numericable.fr CNAME .
 tr.communication.offresb2b.fr CNAME .
 tr.compte.fca-capital-france.fr CNAME .
+tr.comunicacao.younited-credit.com CNAME .
 tr.contact.canalplus.fr CNAME .
 tr.contact.e-turf.fr CNAME .
 tr.contrats.cetelem.fr CNAME .
@@ -96,6 +98,7 @@ tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
 tr.email.directindustry.com CNAME .
 tr.email.janedeboy.com CNAME .
+tr.email.medicalexpo.com CNAME .
 tr.email.securite-routiere.gouv.fr CNAME .
 tr.email.thelem-assurances.fr CNAME .
 tr.email.voyagesleclerc.com CNAME .
@@ -234,6 +237,7 @@ tr.news.mdbp.fr CNAME .
 tr.news.meillandrichardier.com CNAME .
 tr.news.mi-oferta.es CNAME .
 tr.news.perfectstay.com CNAME .
+tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
 tr.news.thelist-emirates.fr CNAME .
@@ -299,6 +303,7 @@ tr.raym.espmp-agfr.net CNAME .
 tr.read.glose.com CNAME .
 tr.redaction.essentiel-sante-magazine.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .
+tr.relation.uneo.fr CNAME .
 tr.route-solutiondata.fr CNAME .
 tr.satisfaction.alinea.com CNAME .
 tr.satisfaction.groupe-pv-cp.com CNAME .
@@ -325,6 +330,7 @@ tr.welcome.easyviaggio.com CNAME .
 tr.welcome.easyvoyage.co.uk CNAME .
 tr.welcome.easyvoyage.com CNAME .
 tr.welcome.lexpress.fr CNAME .
+tr.welcome.thelist-emirates.fr CNAME .
 tr.welcome.vipmag.fr CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.mailperf.com CNAME .

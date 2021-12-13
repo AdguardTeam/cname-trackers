@@ -3,6 +3,7 @@
 !
 ! custom.plausible.io disguised trackers
 !
+||a-api.skz.dev^
 ||a.aawp.de^
 ||a.affcoups.com^
 ||a.artistasdigitais.net^
@@ -109,6 +110,7 @@
 ||p.fairspot.host^
 ||p.neil.gg^
 ||p.nqueue.io^
+||p.ryanhalliday.com^
 ||p.versacommerce.de^
 ||p.victoria.dev^
 ||p.wren.co^
@@ -187,7 +189,6 @@
 ||plausible.rachel.systems^
 ||plausible.reactpreview.com^
 ||plausible.regex.help^
-||plausible.ruqqus.com^
 ||plausible.simplelogin.io^
 ||plausible.simpleportfolio.app^
 ||plausible.slope.io^
@@ -208,6 +209,7 @@
 ||pm.redbull.com^
 ||prism.raumgleiter.com^
 ||pstat.akathists.com^
+||rapido.idraetsmusik.dk^
 ||retention.ankidecks.com^
 ||s.80000hours.org^
 ||s.allbootdisks.com^
@@ -243,6 +245,7 @@
 ||stats.am.ai^
 ||stats.amiibo.life^
 ||stats.arquido.com^
+||stats.artefact.space^
 ||stats.audiorelay.net^
 ||stats.backprop.co^
 ||stats.baptistwomen.com^
@@ -266,6 +269,7 @@
 ||stats.broddin.be^
 ||stats.buildingtheelite.com^
 ||stats.bungeefit.co.uk^
+||stats.byma.com.br^
 ||stats.carrot2.org^
 ||stats.carrotsearch.com^
 ||stats.cassidyjames.com^
@@ -356,6 +360,7 @@
 ||stats.iscc-system.org^
 ||stats.ivankahl.com^
 ||stats.jackwhiting.co.uk^
+||stats.jawebb.se^
 ||stats.jdheyburn.co.uk^
 ||stats.jerickson.net^
 ||stats.johnmac.pro^

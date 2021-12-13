@@ -12,6 +12,7 @@
 ||tr.actualites.01net.com^
 ||tr.actualites.bfmtv.com^
 ||tr.actupremium.com^
+||tr.actus-fdj.fr^
 ||tr.animation.lexpress.fr^
 ||tr.animation.micromania.fr^
 ||tr.animations.01net.com^
@@ -71,6 +72,7 @@
 ||tr.communication.numericable.fr^
 ||tr.communication.offresb2b.fr^
 ||tr.compte.fca-capital-france.fr^
+||tr.comunicacao.younited-credit.com^
 ||tr.contact.canalplus.fr^
 ||tr.contact.e-turf.fr^
 ||tr.contrats.cetelem.fr^
@@ -96,6 +98,7 @@
 ||tr.email.custom-campaign.com^
 ||tr.email.directindustry.com^
 ||tr.email.janedeboy.com^
+||tr.email.medicalexpo.com^
 ||tr.email.securite-routiere.gouv.fr^
 ||tr.email.thelem-assurances.fr^
 ||tr.email.voyagesleclerc.com^
@@ -234,6 +237,7 @@
 ||tr.news.meillandrichardier.com^
 ||tr.news.mi-oferta.es^
 ||tr.news.perfectstay.com^
+||tr.news.smartdeals-transavia-fr.com^
 ||tr.news.smartdealstransavia-fr.com^
 ||tr.news.sport2000.fr^
 ||tr.news.thelist-emirates.fr^
@@ -299,6 +303,7 @@
 ||tr.read.glose.com^
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^
+||tr.relation.uneo.fr^
 ||tr.route-solutiondata.fr^
 ||tr.satisfaction.alinea.com^
 ||tr.satisfaction.groupe-pv-cp.com^
@@ -325,6 +330,7 @@
 ||tr.welcome.easyvoyage.co.uk^
 ||tr.welcome.easyvoyage.com^
 ||tr.welcome.lexpress.fr^
+||tr.welcome.thelist-emirates.fr^
 ||tr.welcome.vipmag.fr^
 ||tr1.citroen-ipsos.com^
 ||tr1.mailperf.com^

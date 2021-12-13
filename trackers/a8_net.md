@@ -57,6 +57,7 @@
 | a8clk.cv.mensfashion.cc | trck.a8.net |
 | a8clk.cv.warau.jp | trck.a8.net |
 | a8clk.dospara.co.jp | trck.a8.net |
+| a8clk.francfranc.com | trck.a8.net |
 | a8clk.hurugicom.jp | trck.a8.net |
 | a8clk.justy-consul.com | trck.a8.net |
 | a8clk.kaitori-beerecords.jp | trck.a8.net |
@@ -110,6 +111,7 @@
 | a8cv.housingbazar.jp | trck.a8.net |
 | a8cv.iikyujin.net | trck.a8.net |
 | a8cv.ishibashi.co.jp | trck.a8.net |
+| a8cv.k-ikiiki.jp | trck.a8.net |
 | a8cv.minana-jp.com | trck.a8.net |
 | a8cv.minnano-eikaiwa.com | trck.a8.net |
 | a8cv.modern-deco.jp | trck.a8.net |

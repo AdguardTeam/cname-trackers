@@ -80,6 +80,7 @@ ablink.help.innit.com CNAME .
 ablink.help.sanvello.com CNAME .
 ablink.help.shopwell.com CNAME .
 ablink.info.felixmobile.com.au CNAME .
+ablink.info.gawin.ph CNAME .
 ablink.info.pressreader.com CNAME .
 ablink.info.sofi.org CNAME .
 ablink.info.themarket.nz CNAME .
@@ -87,6 +88,7 @@ ablink.info.timhortons.ca CNAME .
 ablink.info.timhortons.com CNAME .
 ablink.info.vida.com CNAME .
 ablink.juicer.li.me CNAME .
+ablink.kfc.com.au CNAME .
 ablink.lifecycle.quizlet.com CNAME .
 ablink.loyal.timhortons.ca CNAME .
 ablink.loyal.timhortons.com CNAME .
@@ -358,6 +360,7 @@ link.email.ninetynine.com CNAME .
 link.email.soothe.com CNAME .
 link.email.tajawal.com CNAME .
 link.foodnetwork.com CNAME .
+link.get.discovery.plus CNAME .
 link.hello-au.circles.life CNAME .
 link.hello-sg.circles.life CNAME .
 link.hello.soothe.com CNAME .
@@ -387,6 +390,7 @@ link.offers.kodakmoments.com CNAME .
 link.orders.kodakmoments.com CNAME .
 link.resy.com CNAME .
 link.ridewithvia.com CNAME .
+link.support.discovery.plus CNAME .
 link.syfy-channel.com CNAME .
 link.team.bnext.es CNAME .
 link.team.bnext.io CNAME .
@@ -465,6 +469,7 @@ links.official.vsco.co CNAME .
 links.ohhey.depop.com CNAME .
 links.openfit.com CNAME .
 links.orders.kfc.com CNAME .
+links.ph.discoveryplus.com CNAME .
 links.playon.tv CNAME .
 links.schnucks.com CNAME .
 links.sheroes.in CNAME .

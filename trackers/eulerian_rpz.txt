@@ -24,6 +24,7 @@ ar.i-run.fr CNAME .
 aze0.dmp.leclerc CNAME .
 azg1.emalu-store.com CNAME .
 b6ft.zone-turf.fr CNAME .
+barp3.bordeaux.aeroport.fr CNAME .
 bhu9.bankia.es CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .

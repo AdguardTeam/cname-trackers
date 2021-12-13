@@ -67,6 +67,7 @@ cmass.massmedian.co.jp CNAME .
 cname-ade.hankoya.com CNAME .
 cname-ade.original-calendar.com CNAME .
 cname-adebis.nice2meet.us CNAME .
+cname-adebis.vcube.com CNAME .
 cname.crank-in.net CNAME .
 cname.ebis.folio-sec.com CNAME .
 cname.finess.jp CNAME .
@@ -131,6 +132,7 @@ isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
 jj85xnjq.ybqwah.ntt.com CNAME .
 maz.zba.jp CNAME .
+mcad.mods-clinic.com CNAME .
 mgn.ebis.andbe-official.com CNAME .
 msr.p-antiaging.com CNAME .
 nadeshiko2019.kirei-nadeshiko.jp CNAME .

@@ -3,6 +3,7 @@
 ;
 ; custom.plausible.io disguised trackers
 ;
+a-api.skz.dev CNAME .
 a.aawp.de CNAME .
 a.affcoups.com CNAME .
 a.artistasdigitais.net CNAME .
@@ -109,6 +110,7 @@ p.e-bot7.com CNAME .
 p.fairspot.host CNAME .
 p.neil.gg CNAME .
 p.nqueue.io CNAME .
+p.ryanhalliday.com CNAME .
 p.versacommerce.de CNAME .
 p.victoria.dev CNAME .
 p.wren.co CNAME .
@@ -187,7 +189,6 @@ plausible.promlens.com CNAME .
 plausible.rachel.systems CNAME .
 plausible.reactpreview.com CNAME .
 plausible.regex.help CNAME .
-plausible.ruqqus.com CNAME .
 plausible.simplelogin.io CNAME .
 plausible.simpleportfolio.app CNAME .
 plausible.slope.io CNAME .
@@ -208,6 +209,7 @@ plsbl.edison.se CNAME .
 pm.redbull.com CNAME .
 prism.raumgleiter.com CNAME .
 pstat.akathists.com CNAME .
+rapido.idraetsmusik.dk CNAME .
 retention.ankidecks.com CNAME .
 s.80000hours.org CNAME .
 s.allbootdisks.com CNAME .
@@ -243,6 +245,7 @@ stats.alleaktien.de CNAME .
 stats.am.ai CNAME .
 stats.amiibo.life CNAME .
 stats.arquido.com CNAME .
+stats.artefact.space CNAME .
 stats.audiorelay.net CNAME .
 stats.backprop.co CNAME .
 stats.baptistwomen.com CNAME .
@@ -266,6 +269,7 @@ stats.briskoda.net CNAME .
 stats.broddin.be CNAME .
 stats.buildingtheelite.com CNAME .
 stats.bungeefit.co.uk CNAME .
+stats.byma.com.br CNAME .
 stats.carrot2.org CNAME .
 stats.carrotsearch.com CNAME .
 stats.cassidyjames.com CNAME .
@@ -356,6 +360,7 @@ stats.interactjs.io CNAME .
 stats.iscc-system.org CNAME .
 stats.ivankahl.com CNAME .
 stats.jackwhiting.co.uk CNAME .
+stats.jawebb.se CNAME .
 stats.jdheyburn.co.uk CNAME .
 stats.jerickson.net CNAME .
 stats.johnmac.pro CNAME .

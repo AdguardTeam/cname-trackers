@@ -24,6 +24,7 @@ ar.i-run.fr
 aze0.dmp.leclerc
 azg1.emalu-store.com
 b6ft.zone-turf.fr
+barp3.bordeaux.aeroport.fr
 bhu9.bankia.es
 bpe2.destinia.co.il
 bum7.bymycar.fr

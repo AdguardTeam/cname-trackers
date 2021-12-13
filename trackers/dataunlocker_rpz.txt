@@ -3,6 +3,44 @@
 ;
 ; dataunlocker.com disguised trackers
 ;
+17aifrn7w6od.unstoppabledomains.com CNAME .
+1zzs6w25i8n.tube.inflatevids.xyz CNAME .
+25voj20abod.honeyswap.org CNAME .
+2829i2p88jx.www.csaladinet.hu CNAME .
+2qqfxz5kecr4.www.eldorado.gg CNAME .
+8ehhtsv9bo7i.monkeylearn.com CNAME .
+b20p6lt350nt.app.polymersearch.com CNAME .
+b46zqnf0i1cc.www.earthclassmail.com CNAME .
+dc19qtc6mkm6.www.cefirates.com CNAME .
+e5obq1v261.www.lurkit.com CNAME .
+fp84rw0jinz7.blanc.ru CNAME .
+gl5g98t0vfjb.panprices.com CNAME .
+ivshamxknklc.www.atlaslane.com CNAME .
+j5qtzhvpaq6t.stoic.ai CNAME .
+jzbzvk10u32f.adria.gg CNAME .
+lh3pvljbkong.www.nookgaming.com CNAME .
+lis39l95rq1s.furucombo.app CNAME .
+moahcor6ifhk.app.stoic.ai CNAME .
+mqctqssadv26.tapmyback.com CNAME .
+ouc82i67pytg.www.emanualonline.com CNAME .
+qwcp5tza48tt.xpollinate.io CNAME .
+ros3d4dbs3px.salud-masculina.info CNAME .
+tng0r8sd8p1n.boxoffice.adventuretix.com CNAME .
+uhm26jyr11zv.www.freecodecamp.org CNAME .
+x2l5lsn8rvsq.li.finance CNAME .
+xlvvy4msxr.coolinastore.com CNAME .
+zd070nxf5c3c.anydebrid.com CNAME .
+;
+; monopoly-drain.ga disguised trackers
+;
+; no domains found for monopoly-drain.ga
+;
+; friendly-community.tk disguised trackers
+;
+; no domains found for friendly-community.tk
+;
+; fantastic-diamond.cf disguised trackers
+;
 0i7p3pnbyl8e.www.earthclassmail.com CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
@@ -23,11 +61,3 @@ x2l5lsn8rvsq.li.finance CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 yodunmnmr3dc.www.cefirates.com CNAME .
 z24rhhuv7esb.www.logology.co CNAME .
-;
-; monopoly-drain.ga disguised trackers
-;
-; no domains found for monopoly-drain.ga
-;
-; friendly-community.tk disguised trackers
-;
-; no domains found for friendly-community.tk
