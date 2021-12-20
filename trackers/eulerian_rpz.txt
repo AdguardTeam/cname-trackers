@@ -175,7 +175,6 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 he6e.lavieimmo.com CNAME .
 hgf4.zanzicar.fr CNAME .
-hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
@@ -195,7 +194,6 @@ leo1.leon-de-bruxelles.fr CNAME .
 let1.devialet.com CNAME .
 lio8.destinia.com.pa CNAME .
 ljb0.assuronline.com CNAME .
-lmvc1.vivatechnology.com CNAME .
 ls.cartecarburant.leclerc CNAME .
 ls.e-cartecadeauleclerc.fr CNAME .
 lsv5.belambra.fr CNAME .
@@ -242,6 +240,7 @@ ojm4.palladiumhotelgroup.com CNAME .
 oor.ooreka.fr CNAME .
 oph7o.montecarlosbm-corporate.com CNAME .
 oqr4.destinia.in CNAME .
+p8s.oxbowshop.com CNAME .
 pbox.no.photobox.com CNAME .
 pbox.photobox.be CNAME .
 pbox.photobox.ch CNAME .
@@ -302,7 +301,6 @@ t.voyages-sncf.com CNAME .
 t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
-tce0.primes-energie.leclerc CNAME .
 tdf1.admyjob.com CNAME .
 tdf1.easyviaggio.com CNAME .
 tdf1.easyviajar.com CNAME .

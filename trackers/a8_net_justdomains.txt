@@ -47,7 +47,9 @@ a8clk.autoc-one.jp
 a8clk.bstyle.store
 a8clk.camerakaitori.jp
 a8clk.campaigns.speed-kaitori.jp
+a8clk.chapup.jp
 a8clk.chat-wifi.site
+a8clk.crowdworks.jp
 a8clk.cv.mensfashion.cc
 a8clk.cv.warau.jp
 a8clk.dospara.co.jp
@@ -61,6 +63,7 @@ a8clk.life.bang.co.jp
 a8clk.lolipop.jp
 a8clk.low-ya.com
 a8clk.macpaw.com
+a8clk.manabiz.jp
 a8clk.manage.conoha.jp
 a8clk.minnadeooyasan.com
 a8clk.mobile-norikae.com
@@ -126,6 +129,7 @@ a8cv.urocca.jp
 a8cv.workman.jp
 a8cv.www.bedstyle.jp
 a8cv.www.biyou-soushin.com
+a8cv.yamato-gp.net
 a8cv.ygm-clinic.or.jp
 a8cv.you-shoku.net
 a8cv.yuyu-tei.jp
@@ -145,6 +149,7 @@ cart.matsuzaka-steak.com
 cv.a-internet.jp
 cv.drive-hikari.net
 cv.online.ysroad.co.jp
+kaden.netoff.co.jp
 shopping.cellpure.co.jp
 sub.booksdream-mypage.com
 summary.bookoffonline.co.jp

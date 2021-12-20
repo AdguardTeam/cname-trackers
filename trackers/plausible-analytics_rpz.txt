@@ -82,6 +82,7 @@ eliteclng.ericksonbuilt.com CNAME .
 external.techopian.com CNAME .
 f8phvntohv.tpetry.me CNAME .
 ftllrl.fotoallerlei.com CNAME .
+galop.leferacheval-saintcloud.com CNAME .
 gullfoss.deepsource.io CNAME .
 hej.henriksommerfeld.se CNAME .
 hi.streetworkoutlist.com CNAME .
@@ -125,6 +126,7 @@ pl.1feed.app CNAME .
 pl.astro.fi CNAME .
 pl.codetheweb.blog CNAME .
 pl.ethan.link CNAME .
+pl.kanbanmail.app CNAME .
 pl.maya-astro.fi CNAME .
 pl.terraintinker.com CNAME .
 pl.volunteeringauckland.org.nz CNAME .
@@ -237,6 +239,7 @@ stat.bill.harding.blog CNAME .
 statistics.csweapons.com CNAME .
 statistics.heatbeat.de CNAME .
 statistik.veronika-steiner.at CNAME .
+stats.123nz.nl CNAME .
 stats.45rpm.ch CNAME .
 stats.acadevor.com CNAME .
 stats.aixbrain.de CNAME .
@@ -287,6 +290,7 @@ stats.console.dev CNAME .
 stats.contentwritingjobs.com CNAME .
 stats.craftybase.com CNAME .
 stats.creativeboom.com CNAME .
+stats.creativinn.com CNAME .
 stats.crema.fi CNAME .
 stats.cremashop.eu CNAME .
 stats.cremashop.se CNAME .
@@ -389,6 +393,7 @@ stats.lumen-app.com CNAME .
 stats.lussoveloce.com CNAME .
 stats.macosicons.com CNAME .
 stats.macroarraydx.com CNAME .
+stats.madeit.io CNAME .
 stats.maferland.com CNAME .
 stats.martinbetz.eu CNAME .
 stats.marudor.de CNAME .
@@ -476,7 +481,9 @@ stats.sheer.tj CNAME .
 stats.shell-tips.com CNAME .
 stats.shepherd.com CNAME .
 stats.shoutout.so CNAME .
+stats.siedentop.dev CNAME .
 stats.sirdata.com CNAME .
+stats.ski.com CNAME .
 stats.sommselect.com CNAME .
 stats.songbox.rocks CNAME .
 stats.southpetherwin.com CNAME .
@@ -494,6 +501,7 @@ stats.sublimesecurity.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svenadolph.net CNAME .
 stats.tekin.co.uk CNAME .
+stats.thechurchfactory.com CNAME .
 stats.thelion.website CNAME .
 stats.therenegadecoder.com CNAME .
 stats.thomasvitale.com CNAME .

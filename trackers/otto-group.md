@@ -5,23 +5,18 @@
 * oghub.io
     * js.oghub.io
     * te-baur-de.oghub.io
-    * te-creation-l-de.oghub.io
     * te-frankonia-de.oghub.io
-    * te-heine-at.oghub.io
     * te-heine-de.oghub.io
-    * te-heine-shop-nl.oghub.io
-    * te-imwalking-de.oghub.io
     * te-limango-de.oghub.io
     * te-mirapodo-de.oghub.io
     * te-mytoys-de.oghub.io
     * te-otto-de.oghub.io
-    * te-sieh-an-ch.oghub.io
-    * te-sieh-an-de.oghub.io
+    * te-ottoversand-at.oghub.io
     * te-witt-weiden-de.oghub.io
     * te.oghub.io
     * tp-ackermann-ch.oghub.io
     * tp-baur-de.oghub.io
-    * tp-frankonia-at.oghub.io
+    * tp-frankonia-com.oghub.io
     * tp-frankonia-de.oghub.io
     * tp-imwalking-de.oghub.io
     * tp-jelmoli-shop-ch.oghub.io
@@ -46,7 +41,7 @@
 | tp.baur.de | js.oghub.io |
 | tp.baur.de | js.oghub.io |
 | tp.frankonia.at | js.oghub.io |
-| tp.frankonia.at | js.oghub.io |
+| tp.frankonia.com | js.oghub.io |
 | tp.frankonia.com | js.oghub.io |
 | tp.frankonia.de | js.oghub.io |
 | tp.frankonia.de | js.oghub.io |
@@ -77,22 +72,16 @@
 | tp.sheego.de | js.oghub.io |
 | tp.sheego.de | js.oghub.io |
 | tp.universal.at | js.oghub.io |
-| tp.universal.at | js.oghub.io |
 | tp.yomonda.de | js.oghub.io |
 | tp.yomonda.de | js.oghub.io |
 | te.baur.de | te-baur-de.oghub.io |
-| te.creation-l.de | te-creation-l-de.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
-| te.heine.at | te-heine-at.oghub.io |
 | te.heine.de | te-heine-de.oghub.io |
-| te.heine-shop.nl | te-heine-shop-nl.oghub.io |
-| te.imwalking.de | te-imwalking-de.oghub.io |
 | te.limango.de | te-limango-de.oghub.io |
 | te.mirapodo.de | te-mirapodo-de.oghub.io |
 | te.mytoys.de | te-mytoys-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
-| te.sieh-an.ch | te-sieh-an-ch.oghub.io |
-| te.sieh-an.de | te-sieh-an-de.oghub.io |
+| te.ottoversand.at | te-ottoversand-at.oghub.io |
 | te.witt-weiden.de | te-witt-weiden-de.oghub.io |
 | te.ackermann.ch | te.oghub.io |
 | te.ambria.de | te.oghub.io |
@@ -112,12 +101,12 @@
 | te.otto.de | te.oghub.io |
 | te.otto.de | te.oghub.io |
 | te.ottoversand.at | te.oghub.io |
+| te.ottoversand.at | te.oghub.io |
 | te.quelle.at | te.oghub.io |
 | te.quelle.ch | te.oghub.io |
 | te.quelle.de | te.oghub.io |
 | te.sheego.de | te.oghub.io |
 | te.sieh-an.ch | te.oghub.io |
-| te.sieh-an.de | te.oghub.io |
 | te.sieh-an.de | te.oghub.io |
 | te.universal.at | te.oghub.io |
 | te.witt-international.nl | te.oghub.io |
@@ -130,7 +119,7 @@
 | te.your-look-for-less.nl | te.oghub.io |
 | tp.ackermann.ch | tp-ackermann-ch.oghub.io |
 | tp.baur.de | tp-baur-de.oghub.io |
-| tp.frankonia.at | tp-frankonia-at.oghub.io |
+| tp.frankonia.com | tp-frankonia-com.oghub.io |
 | tp.frankonia.de | tp-frankonia-de.oghub.io |
 | tp.imwalking.de | tp-imwalking-de.oghub.io |
 | tp.jelmoli-shop.ch | tp-jelmoli-shop-ch.oghub.io |

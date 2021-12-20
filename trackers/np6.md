@@ -48,6 +48,7 @@
 | tr.carte.lcl.fr | tracking.bp01.net |
 | tr.cartegie.fr | tracking.bp01.net |
 | tr.cashback.floa.fr | tracking.bp01.net |
+| tr.cb4x.floa.fr | tracking.bp01.net |
 | tr.cifa.espmp-nifr.net | tracking.bp01.net |
 | tr.cifa02k.espmp-aufr.net | tracking.bp01.net |
 | tr.cj.bordeaux-metropole.fr | tracking.bp01.net |
@@ -176,6 +177,7 @@
 | tr.jesuis.enformedelotus.com | tracking.bp01.net |
 | tr.jevoteenligne.fr | tracking.bp01.net |
 | tr.jkyg.espmp-cufr.net | tracking.bp01.net |
+| tr.kontakt.younited-credit.com | tracking.bp01.net |
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
 | tr.krus.espmp-agfr.net | tracking.bp01.net |
 | tr.leads.direct | tracking.bp01.net |
@@ -219,6 +221,7 @@
 | tr.news.cdiscount.com | tracking.bp01.net |
 | tr.news.cotemaison.fr | tracking.bp01.net |
 | tr.news.deneuville-chocolat.fr | tracking.bp01.net |
+| tr.news.devisdirect.be | tracking.bp01.net |
 | tr.news.digitpjms.fr | tracking.bp01.net |
 | tr.news.directeo.fr | tracking.bp01.net |
 | tr.news.easyviaggio.com | tracking.bp01.net |
@@ -299,6 +302,7 @@
 | tr.preventivo.risparmiazienda.it | tracking.bp01.net |
 | tr.pro.odalys-vacances.com | tracking.bp01.net |
 | tr.qualitaetsumfrage.com | tracking.bp01.net |
+| tr.qualite.groupebarriere.com | tracking.bp01.net |
 | tr.quotes.digital | tracking.bp01.net |
 | tr.quotes4business.info | tracking.bp01.net |
 | tr.quotesforbusiness.co.uk | tracking.bp01.net |
@@ -319,6 +323,7 @@
 | tr.services.caradisiac.com | tracking.bp01.net |
 | tr.servicesclients.canalplus.fr | tracking.bp01.net |
 | tr.servicoaocliente.younited-credit.com | tracking.bp01.net |
+| tr.silvera-contact.fr | tracking.bp01.net |
 | tr.smtp1.email-mediapost.fr | tracking.bp01.net |
 | tr.solution.uneo.fr | tracking.bp01.net |
 | tr.souscription.floa.fr | tracking.bp01.net |
@@ -329,6 +334,7 @@
 | tr.urfk03u.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk06y.espmp-nifr.net | tracking.bp01.net |
 | tr.ville.bordeaux.fr | tracking.bp01.net |
+| tr.voixduclient.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.votrealarme.securitasdirect.fr | tracking.bp01.net |
 | tr.vous.hellobank.fr | tracking.bp01.net |
 | tr.welcome.easyviaggio.com | tracking.bp01.net |

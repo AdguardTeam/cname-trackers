@@ -25,8 +25,6 @@
 | k.laredoute.es | k.keyade.com |
 | k.laredoute.ru | k.keyade.com |
 | k.rueducommerce.fr | k.keyade.com |
-| k.veepee.fr | k.keyade.com |
-| k.veepee.it | k.keyade.com |
 | k.voyageursdumonde.fr | k.keyade.com |
 | keyade.alltricks.fr | k.keyade.com |
 | keyade.ooreka.fr | k.keyade.com |

@@ -47,7 +47,9 @@ a8clk.autoc-one.jp CNAME .
 a8clk.bstyle.store CNAME .
 a8clk.camerakaitori.jp CNAME .
 a8clk.campaigns.speed-kaitori.jp CNAME .
+a8clk.chapup.jp CNAME .
 a8clk.chat-wifi.site CNAME .
+a8clk.crowdworks.jp CNAME .
 a8clk.cv.mensfashion.cc CNAME .
 a8clk.cv.warau.jp CNAME .
 a8clk.dospara.co.jp CNAME .
@@ -61,6 +63,7 @@ a8clk.life.bang.co.jp CNAME .
 a8clk.lolipop.jp CNAME .
 a8clk.low-ya.com CNAME .
 a8clk.macpaw.com CNAME .
+a8clk.manabiz.jp CNAME .
 a8clk.manage.conoha.jp CNAME .
 a8clk.minnadeooyasan.com CNAME .
 a8clk.mobile-norikae.com CNAME .
@@ -126,6 +129,7 @@ a8cv.urocca.jp CNAME .
 a8cv.workman.jp CNAME .
 a8cv.www.bedstyle.jp CNAME .
 a8cv.www.biyou-soushin.com CNAME .
+a8cv.yamato-gp.net CNAME .
 a8cv.ygm-clinic.or.jp CNAME .
 a8cv.you-shoku.net CNAME .
 a8cv.yuyu-tei.jp CNAME .
@@ -145,6 +149,7 @@ cart.matsuzaka-steak.com CNAME .
 cv.a-internet.jp CNAME .
 cv.drive-hikari.net CNAME .
 cv.online.ysroad.co.jp CNAME .
+kaden.netoff.co.jp CNAME .
 shopping.cellpure.co.jp CNAME .
 sub.booksdream-mypage.com CNAME .
 summary.bookoffonline.co.jp CNAME .

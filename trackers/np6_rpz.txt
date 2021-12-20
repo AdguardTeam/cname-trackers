@@ -43,6 +43,7 @@ tr.camara.eu.com CNAME .
 tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
+tr.cb4x.floa.fr CNAME .
 tr.cifa.espmp-nifr.net CNAME .
 tr.cifa02k.espmp-aufr.net CNAME .
 tr.cj.bordeaux-metropole.fr CNAME .
@@ -171,6 +172,7 @@ tr.invitation-mesdessous.fr CNAME .
 tr.jesuis.enformedelotus.com CNAME .
 tr.jevoteenligne.fr CNAME .
 tr.jkyg.espmp-cufr.net CNAME .
+tr.kontakt.younited-credit.com CNAME .
 tr.kpyn.espmp-cufr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
 tr.leads.direct CNAME .
@@ -214,6 +216,7 @@ tr.news.casinomax.fr CNAME .
 tr.news.cdiscount.com CNAME .
 tr.news.cotemaison.fr CNAME .
 tr.news.deneuville-chocolat.fr CNAME .
+tr.news.devisdirect.be CNAME .
 tr.news.digitpjms.fr CNAME .
 tr.news.directeo.fr CNAME .
 tr.news.easyviaggio.com CNAME .
@@ -294,6 +297,7 @@ tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro.odalys-vacances.com CNAME .
 tr.qualitaetsumfrage.com CNAME .
+tr.qualite.groupebarriere.com CNAME .
 tr.quotes.digital CNAME .
 tr.quotes4business.info CNAME .
 tr.quotesforbusiness.co.uk CNAME .
@@ -314,6 +318,7 @@ tr.services.alinea.com CNAME .
 tr.services.caradisiac.com CNAME .
 tr.servicesclients.canalplus.fr CNAME .
 tr.servicoaocliente.younited-credit.com CNAME .
+tr.silvera-contact.fr CNAME .
 tr.smtp1.email-mediapost.fr CNAME .
 tr.solution.uneo.fr CNAME .
 tr.souscription.floa.fr CNAME .
@@ -324,6 +329,7 @@ tr.uk.icicibank.com CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
 tr.ville.bordeaux.fr CNAME .
+tr.voixduclient.harmonie-mutuelle.fr CNAME .
 tr.votrealarme.securitasdirect.fr CNAME .
 tr.vous.hellobank.fr CNAME .
 tr.welcome.easyviaggio.com CNAME .

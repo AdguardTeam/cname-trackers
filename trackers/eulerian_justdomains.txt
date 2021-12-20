@@ -175,7 +175,6 @@ hbo5.concours-pass.com
 hby7.destinia.it
 he6e.lavieimmo.com
 hgf4.zanzicar.fr
-hk2d.tourismemauricie.com
 hkj8.evobanco.com
 idg1.idgarages.com
 inv3te.oui.sncf
@@ -195,7 +194,6 @@ leo1.leon-de-bruxelles.fr
 let1.devialet.com
 lio8.destinia.com.pa
 ljb0.assuronline.com
-lmvc1.vivatechnology.com
 ls.cartecarburant.leclerc
 ls.e-cartecadeauleclerc.fr
 lsv5.belambra.fr
@@ -242,6 +240,7 @@ ojm4.palladiumhotelgroup.com
 oor.ooreka.fr
 oph7o.montecarlosbm-corporate.com
 oqr4.destinia.in
+p8s.oxbowshop.com
 pbox.no.photobox.com
 pbox.photobox.be
 pbox.photobox.ch
@@ -302,7 +301,6 @@ t.voyages-sncf.com
 t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
-tce0.primes-energie.leclerc
 tdf1.admyjob.com
 tdf1.easyviaggio.com
 tdf1.easyviajar.com

@@ -376,12 +376,14 @@ link.lpm.surkus.com CNAME .
 link.lpt.surkus.com CNAME .
 link.mail.burgerking.ca CNAME .
 link.mail.popsa.com CNAME .
+link.marketing.bleacherreport.com CNAME .
 link.marketing.churchomeglobal.org CNAME .
 link.mktg.almosafer.com CNAME .
 link.mktg.tajawal.com CNAME .
 link.moodagent.com CNAME .
 link.mypostcard.com CNAME .
 link.nbcadmin.com CNAME .
+link.news.bleacherreport.com CNAME .
 link.news.clearpay.co.uk CNAME .
 link.news.goeuro.com CNAME .
 link.notifications.busuu.app CNAME .
@@ -444,7 +446,6 @@ links.fabletics.es CNAME .
 links.fabletics.fr CNAME .
 links.fitbod.me CNAME .
 links.glamsquad.com CNAME .
-links.helloalfred.com CNAME .
 links.hitrecord.org CNAME .
 links.huckleberry-labs.com CNAME .
 links.i.blueapron.com CNAME .
@@ -462,6 +463,7 @@ links.mail.allbirds.com CNAME .
 links.mail.stubhub.com CNAME .
 links.marketing.getprizepool.com CNAME .
 links.nbc.com CNAME .
+links.nbcnews.com CNAME .
 links.news.mindbody.io CNAME .
 links.notarize.com CNAME .
 links.notifications.headspace.com CNAME .
@@ -492,6 +494,7 @@ mx.carfax.com CNAME .
 notice.hoopladigital.com CNAME .
 notify.pray.com CNAME .
 pint-dev-branch.airship.com CNAME .
+pxsg.pandora.com CNAME .
 qa-brc.emails.rakuten.com CNAME .
 qbse.intuit.com CNAME .
 r.blidzdeal.com CNAME .
@@ -537,6 +540,7 @@ url1015.abtest.em.redmart.com CNAME .
 url1020.keycollectorcomics.com CNAME .
 url1451.careerkarma.info CNAME .
 url3630.newsletter.experience-muse.com CNAME .
+url7424.email.readytotravel.com CNAME .
 url7542.fluz.app CNAME .
 url7962.careerkarma.io CNAME .
 url8196.mindrise.app CNAME .

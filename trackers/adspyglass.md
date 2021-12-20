@@ -22,6 +22,7 @@
 | a.acervox.com | 0i0i0i0.com |
 | a.allwedoisfuck.com | 0i0i0i0.com |
 | a.andropps.us | 0i0i0i0.com |
+| a.aniplay.it | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.benonblkd.xyz | 0i0i0i0.com |
 | a.cdn1.pro | 0i0i0i0.com |
@@ -84,7 +85,6 @@
 | asg.sdtraff.com | 0i0i0i0.com |
 | asg.shudhdesiporn.com | 0i0i0i0.com |
 | asg.somecdn.bid | 0i0i0i0.com |
-| asg.telegramfiles.com | 0i0i0i0.com |
 | asg.zzipps.com | 0i0i0i0.com |
 | asg1.xueserverhost.com | 0i0i0i0.com |
 | asg2.xueserverhost.com | 0i0i0i0.com |
@@ -96,6 +96,7 @@
 | b.filexan.com | 0i0i0i0.com |
 | b.pornomixfree.com | 0i0i0i0.com |
 | b1.hentaibaka.one | 0i0i0i0.com |
+| baren.hejkaheel.xyz | 0i0i0i0.com |
 | beehomemade.com | 0i0i0i0.com |
 | blog.andropps.com | 0i0i0i0.com |
 | c3s.bionestraff.pro | 0i0i0i0.com |
@@ -113,6 +114,7 @@
 | digital.goldvertise.com | 0i0i0i0.com |
 | dl.4kporn.xxx | 0i0i0i0.com |
 | dl.crazyporn.xxx | 0i0i0i0.com |
+| dl.love4porn.com | 0i0i0i0.com |
 | ebd.cda-hd.cc | 0i0i0i0.com |
 | edge1-us-priority.akamacdn.com | 0i0i0i0.com |
 | est.pornleech.ch | 0i0i0i0.com |
@@ -135,6 +137,7 @@
 | id.fc2-ppv.live | 0i0i0i0.com |
 | in.fuckhardclips.com | 0i0i0i0.com |
 | j45.webringporn.com | 0i0i0i0.com |
+| jucy.porntry.com | 0i0i0i0.com |
 | ka.kakakakaka.xyz | 0i0i0i0.com |
 | kliqz.com | 0i0i0i0.com |
 | lixir.wargers.org | 0i0i0i0.com |
@@ -171,6 +174,7 @@
 | s2.everydaygayporn.com | 0i0i0i0.com |
 | satmon.neekstore.com | 0i0i0i0.com |
 | scdn.safelinkonly.top | 0i0i0i0.com |
+| scuoo.porneq.co | 0i0i0i0.com |
 | sda.seksohub.com | 0i0i0i0.com |
 | sdg.desihamster.pro | 0i0i0i0.com |
 | sdg.fwtrck.com | 0i0i0i0.com |

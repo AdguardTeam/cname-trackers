@@ -43,6 +43,7 @@ tr.camara.eu.com
 tr.carte.lcl.fr
 tr.cartegie.fr
 tr.cashback.floa.fr
+tr.cb4x.floa.fr
 tr.cifa.espmp-nifr.net
 tr.cifa02k.espmp-aufr.net
 tr.cj.bordeaux-metropole.fr
@@ -171,6 +172,7 @@ tr.invitation-mesdessous.fr
 tr.jesuis.enformedelotus.com
 tr.jevoteenligne.fr
 tr.jkyg.espmp-cufr.net
+tr.kontakt.younited-credit.com
 tr.kpyn.espmp-cufr.net
 tr.krus.espmp-agfr.net
 tr.leads.direct
@@ -214,6 +216,7 @@ tr.news.casinomax.fr
 tr.news.cdiscount.com
 tr.news.cotemaison.fr
 tr.news.deneuville-chocolat.fr
+tr.news.devisdirect.be
 tr.news.digitpjms.fr
 tr.news.directeo.fr
 tr.news.easyviaggio.com
@@ -294,6 +297,7 @@ tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
 tr.pro.odalys-vacances.com
 tr.qualitaetsumfrage.com
+tr.qualite.groupebarriere.com
 tr.quotes.digital
 tr.quotes4business.info
 tr.quotesforbusiness.co.uk
@@ -314,6 +318,7 @@ tr.services.alinea.com
 tr.services.caradisiac.com
 tr.servicesclients.canalplus.fr
 tr.servicoaocliente.younited-credit.com
+tr.silvera-contact.fr
 tr.smtp1.email-mediapost.fr
 tr.solution.uneo.fr
 tr.souscription.floa.fr
@@ -324,6 +329,7 @@ tr.uk.icicibank.com
 tr.urfk03u.espmp-nifr.net
 tr.urfk06y.espmp-nifr.net
 tr.ville.bordeaux.fr
+tr.voixduclient.harmonie-mutuelle.fr
 tr.votrealarme.securitasdirect.fr
 tr.vous.hellobank.fr
 tr.welcome.easyviaggio.com

@@ -16,6 +16,7 @@ a.abismo-katheryne.top CNAME .
 a.acervox.com CNAME .
 a.allwedoisfuck.com CNAME .
 a.andropps.us CNAME .
+a.aniplay.it CNAME .
 a.antiadxxxspy.com CNAME .
 a.benonblkd.xyz CNAME .
 a.cdn1.pro CNAME .
@@ -79,7 +80,6 @@ asg.retrosexporn.com CNAME .
 asg.sdtraff.com CNAME .
 asg.shudhdesiporn.com CNAME .
 asg.somecdn.bid CNAME .
-asg.telegramfiles.com CNAME .
 asg.zzipps.com CNAME .
 asg1.xueserverhost.com CNAME .
 asg2.xueserverhost.com CNAME .
@@ -91,6 +91,7 @@ b.comihon.com CNAME .
 b.filexan.com CNAME .
 b.pornomixfree.com CNAME .
 b1.hentaibaka.one CNAME .
+baren.hejkaheel.xyz CNAME .
 beehomemade.com CNAME .
 blog.andropps.com CNAME .
 c3s.bionestraff.pro CNAME .
@@ -108,6 +109,7 @@ digiadzone.com CNAME .
 digital.goldvertise.com CNAME .
 dl.4kporn.xxx CNAME .
 dl.crazyporn.xxx CNAME .
+dl.love4porn.com CNAME .
 ebd.cda-hd.cc CNAME .
 edge1-us-priority.akamacdn.com CNAME .
 est.pornleech.ch CNAME .
@@ -132,6 +134,7 @@ hsux.com CNAME .
 id.fc2-ppv.live CNAME .
 in.fuckhardclips.com CNAME .
 j45.webringporn.com CNAME .
+jucy.porntry.com CNAME .
 ka.kakakakaka.xyz CNAME .
 kliqz.com CNAME .
 lixir.wargers.org CNAME .
@@ -170,6 +173,7 @@ s.speedostream.com CNAME .
 s2.everydaygayporn.com CNAME .
 satmon.neekstore.com CNAME .
 scdn.safelinkonly.top CNAME .
+scuoo.porneq.co CNAME .
 sda.seksohub.com CNAME .
 sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .

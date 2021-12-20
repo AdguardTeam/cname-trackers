@@ -82,6 +82,7 @@
 ||external.techopian.com^
 ||f8phvntohv.tpetry.me^
 ||ftllrl.fotoallerlei.com^
+||galop.leferacheval-saintcloud.com^
 ||gullfoss.deepsource.io^
 ||hej.henriksommerfeld.se^
 ||hi.streetworkoutlist.com^
@@ -125,6 +126,7 @@
 ||pl.astro.fi^
 ||pl.codetheweb.blog^
 ||pl.ethan.link^
+||pl.kanbanmail.app^
 ||pl.maya-astro.fi^
 ||pl.terraintinker.com^
 ||pl.volunteeringauckland.org.nz^
@@ -237,6 +239,7 @@
 ||statistics.csweapons.com^
 ||statistics.heatbeat.de^
 ||statistik.veronika-steiner.at^
+||stats.123nz.nl^
 ||stats.45rpm.ch^
 ||stats.acadevor.com^
 ||stats.aixbrain.de^
@@ -287,6 +290,7 @@
 ||stats.contentwritingjobs.com^
 ||stats.craftybase.com^
 ||stats.creativeboom.com^
+||stats.creativinn.com^
 ||stats.crema.fi^
 ||stats.cremashop.eu^
 ||stats.cremashop.se^
@@ -389,6 +393,7 @@
 ||stats.lussoveloce.com^
 ||stats.macosicons.com^
 ||stats.macroarraydx.com^
+||stats.madeit.io^
 ||stats.maferland.com^
 ||stats.martinbetz.eu^
 ||stats.marudor.de^
@@ -476,7 +481,9 @@
 ||stats.shell-tips.com^
 ||stats.shepherd.com^
 ||stats.shoutout.so^
+||stats.siedentop.dev^
 ||stats.sirdata.com^
+||stats.ski.com^
 ||stats.sommselect.com^
 ||stats.songbox.rocks^
 ||stats.southpetherwin.com^
@@ -494,6 +501,7 @@
 ||stats.sushibyte.io^
 ||stats.svenadolph.net^
 ||stats.tekin.co.uk^
+||stats.thechurchfactory.com^
 ||stats.thelion.website^
 ||stats.therenegadecoder.com^
 ||stats.thomasvitale.com^

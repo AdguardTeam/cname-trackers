@@ -87,6 +87,7 @@
 | external.techopian.com | custom.plausible.io |
 | f8phvntohv.tpetry.me | custom.plausible.io |
 | ftllrl.fotoallerlei.com | custom.plausible.io |
+| galop.leferacheval-saintcloud.com | custom.plausible.io |
 | gullfoss.deepsource.io | custom.plausible.io |
 | hej.henriksommerfeld.se | custom.plausible.io |
 | hi.streetworkoutlist.com | custom.plausible.io |
@@ -130,6 +131,7 @@
 | pl.astro.fi | custom.plausible.io |
 | pl.codetheweb.blog | custom.plausible.io |
 | pl.ethan.link | custom.plausible.io |
+| pl.kanbanmail.app | custom.plausible.io |
 | pl.maya-astro.fi | custom.plausible.io |
 | pl.terraintinker.com | custom.plausible.io |
 | pl.volunteeringauckland.org.nz | custom.plausible.io |
@@ -242,6 +244,7 @@
 | statistics.csweapons.com | custom.plausible.io |
 | statistics.heatbeat.de | custom.plausible.io |
 | statistik.veronika-steiner.at | custom.plausible.io |
+| stats.123nz.nl | custom.plausible.io |
 | stats.45rpm.ch | custom.plausible.io |
 | stats.acadevor.com | custom.plausible.io |
 | stats.aixbrain.de | custom.plausible.io |
@@ -292,6 +295,7 @@
 | stats.contentwritingjobs.com | custom.plausible.io |
 | stats.craftybase.com | custom.plausible.io |
 | stats.creativeboom.com | custom.plausible.io |
+| stats.creativinn.com | custom.plausible.io |
 | stats.crema.fi | custom.plausible.io |
 | stats.cremashop.eu | custom.plausible.io |
 | stats.cremashop.se | custom.plausible.io |
@@ -394,6 +398,7 @@
 | stats.lussoveloce.com | custom.plausible.io |
 | stats.macosicons.com | custom.plausible.io |
 | stats.macroarraydx.com | custom.plausible.io |
+| stats.madeit.io | custom.plausible.io |
 | stats.maferland.com | custom.plausible.io |
 | stats.martinbetz.eu | custom.plausible.io |
 | stats.marudor.de | custom.plausible.io |
@@ -481,7 +486,9 @@
 | stats.shell-tips.com | custom.plausible.io |
 | stats.shepherd.com | custom.plausible.io |
 | stats.shoutout.so | custom.plausible.io |
+| stats.siedentop.dev | custom.plausible.io |
 | stats.sirdata.com | custom.plausible.io |
+| stats.ski.com | custom.plausible.io |
 | stats.sommselect.com | custom.plausible.io |
 | stats.songbox.rocks | custom.plausible.io |
 | stats.southpetherwin.com | custom.plausible.io |
@@ -499,6 +506,7 @@
 | stats.sushibyte.io | custom.plausible.io |
 | stats.svenadolph.net | custom.plausible.io |
 | stats.tekin.co.uk | custom.plausible.io |
+| stats.thechurchfactory.com | custom.plausible.io |
 | stats.thelion.website | custom.plausible.io |
 | stats.therenegadecoder.com | custom.plausible.io |
 | stats.thomasvitale.com | custom.plausible.io |

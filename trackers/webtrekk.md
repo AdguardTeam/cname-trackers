@@ -92,13 +92,13 @@
     * 958731023298385.wt-eu02.net
     * 964869656656022.wt-eu02.net
     * 965607891904117.wt-eu02.net
+    * 969665527401678.wt-eu02.net
     * 972067760041897.wt-eu02.net
     * 982429105360946.wt-eu02.net
     * 989502084988358.wt-eu02.net
     * 997311968670029.wt-eu02.net
     * airbusgroup-de01.wt-eu02.net
     * analytics-myhermes.wt-eu02.net
-    * audev-zeit.wt-eu02.net
     * baunetzprod01.wt-eu02.net
     * berlinonline-02.wt-eu02.net
     * blume2000.wt-eu02.net
@@ -215,6 +215,7 @@
 | mit.researchlog.db.com | 965607891904117.wt-eu02.net |
 | mit.researchlog.dbresearch.com | 965607891904117.wt-eu02.net |
 | mit.researchlog.dbresearch.de | 965607891904117.wt-eu02.net |
+| abc.bayer04.de | 969665527401678.wt-eu02.net |
 | census.misterspex.co.uk | 972067760041897.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
@@ -223,7 +224,6 @@
 | pix.airbusgroup.com | airbusgroup-de01.wt-eu02.net |
 | analytics.hermesworld.com | analytics-myhermes.wt-eu02.net |
 | analytics.myhermes.de | analytics-myhermes.wt-eu02.net |
-| audev.zeit.de | audev-zeit.wt-eu02.net |
 | pixel.augsburger-allgemeine.de | augsburgerallgemeine01.webtrekk.net |
 | cdn7.baunetz.de | baunetzprod01.wt-eu02.net |
 | w7.berlin.de | berlinonline-02.wt-eu02.net |
@@ -244,6 +244,7 @@
 | data.leipzig.de | data-leipzig.wt-eu02.net |
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
 | di.ifolor.ch | di.ifolor.wt-eu02.net |
+| di.ifolor.de | di.ifolor.wt-eu02.net |
 | di.ifolor.fi | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
 | pix.eads.com | eads-com01.webtrekk.net |

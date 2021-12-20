@@ -7,6 +7,7 @@
 ||tk.airfrance.ae^
 ||tk.airfrance.at^
 ||tk.airfrance.ca^
+||tk.airfrance.ch^
 ||tk.airfrance.co.uk^
 ||tk.airfrance.com^
 ||tk.airfrance.de^

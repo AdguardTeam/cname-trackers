@@ -383,12 +383,14 @@
 | link.lpt.surkus.com | thirdparty.bnc.lt |
 | link.mail.burgerking.ca | thirdparty.bnc.lt |
 | link.mail.popsa.com | thirdparty.bnc.lt |
+| link.marketing.bleacherreport.com | thirdparty.bnc.lt |
 | link.marketing.churchomeglobal.org | thirdparty.bnc.lt |
 | link.mktg.almosafer.com | thirdparty.bnc.lt |
 | link.mktg.tajawal.com | thirdparty.bnc.lt |
 | link.moodagent.com | thirdparty.bnc.lt |
 | link.mypostcard.com | thirdparty.bnc.lt |
 | link.nbcadmin.com | thirdparty.bnc.lt |
+| link.news.bleacherreport.com | thirdparty.bnc.lt |
 | link.news.clearpay.co.uk | thirdparty.bnc.lt |
 | link.news.goeuro.com | thirdparty.bnc.lt |
 | link.notifications.busuu.app | thirdparty.bnc.lt |
@@ -451,7 +453,6 @@
 | links.fabletics.fr | thirdparty.bnc.lt |
 | links.fitbod.me | thirdparty.bnc.lt |
 | links.glamsquad.com | thirdparty.bnc.lt |
-| links.helloalfred.com | thirdparty.bnc.lt |
 | links.hitrecord.org | thirdparty.bnc.lt |
 | links.huckleberry-labs.com | thirdparty.bnc.lt |
 | links.i.blueapron.com | thirdparty.bnc.lt |
@@ -469,6 +470,7 @@
 | links.mail.stubhub.com | thirdparty.bnc.lt |
 | links.marketing.getprizepool.com | thirdparty.bnc.lt |
 | links.nbc.com | thirdparty.bnc.lt |
+| links.nbcnews.com | thirdparty.bnc.lt |
 | links.news.mindbody.io | thirdparty.bnc.lt |
 | links.notarize.com | thirdparty.bnc.lt |
 | links.notifications.headspace.com | thirdparty.bnc.lt |
@@ -499,6 +501,7 @@
 | notice.hoopladigital.com | thirdparty.bnc.lt |
 | notify.pray.com | thirdparty.bnc.lt |
 | pint-dev-branch.airship.com | thirdparty.bnc.lt |
+| pxsg.pandora.com | thirdparty.bnc.lt |
 | qa-brc.emails.rakuten.com | thirdparty.bnc.lt |
 | qbse.intuit.com | thirdparty.bnc.lt |
 | r.blidzdeal.com | thirdparty.bnc.lt |
@@ -543,6 +546,7 @@
 | url1020.keycollectorcomics.com | thirdparty.bnc.lt |
 | url1451.careerkarma.info | thirdparty.bnc.lt |
 | url3630.newsletter.experience-muse.com | thirdparty.bnc.lt |
+| url7424.email.readytotravel.com | thirdparty.bnc.lt |
 | url7542.fluz.app | thirdparty.bnc.lt |
 | url7962.careerkarma.io | thirdparty.bnc.lt |
 | url8196.mindrise.app | thirdparty.bnc.lt |

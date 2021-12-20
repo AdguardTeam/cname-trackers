@@ -15,8 +15,6 @@
 ||k.laredoute.es^
 ||k.laredoute.ru^
 ||k.rueducommerce.fr^
-||k.veepee.fr^
-||k.veepee.it^
 ||k.voyageursdumonde.fr^
 ||ka.ilius.net^
 ||keyade.alltricks.fr^

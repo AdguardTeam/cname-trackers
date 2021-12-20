@@ -37,11 +37,11 @@ a.hrewards.com CNAME .
 a.intercityhotel.com CNAME .
 a.jaz-hotel.com CNAME .
 a.steigenberger.com CNAME .
+abc.bayer04.de CNAME .
 abc.fackelmann.de CNAME .
 analytics.hermesworld.com CNAME .
 analytics.myhermes.de CNAME .
 app03.ikk-classic.de CNAME .
-audev.zeit.de CNAME .
 cdn7.baunetz.de CNAME .
 census.misterspex.at CNAME .
 census.misterspex.ch CNAME .
@@ -78,6 +78,7 @@ data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
 di.ifolor.ch CNAME .
+di.ifolor.de CNAME .
 di.ifolor.fi CNAME .
 di.ifolor.net CNAME .
 ed.emp-online.ch CNAME .

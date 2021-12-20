@@ -376,12 +376,14 @@
 ||link.lpt.surkus.com^
 ||link.mail.burgerking.ca^
 ||link.mail.popsa.com^
+||link.marketing.bleacherreport.com^
 ||link.marketing.churchomeglobal.org^
 ||link.mktg.almosafer.com^
 ||link.mktg.tajawal.com^
 ||link.moodagent.com^
 ||link.mypostcard.com^
 ||link.nbcadmin.com^
+||link.news.bleacherreport.com^
 ||link.news.clearpay.co.uk^
 ||link.news.goeuro.com^
 ||link.notifications.busuu.app^
@@ -444,7 +446,6 @@
 ||links.fabletics.fr^
 ||links.fitbod.me^
 ||links.glamsquad.com^
-||links.helloalfred.com^
 ||links.hitrecord.org^
 ||links.huckleberry-labs.com^
 ||links.i.blueapron.com^
@@ -462,6 +463,7 @@
 ||links.mail.stubhub.com^
 ||links.marketing.getprizepool.com^
 ||links.nbc.com^
+||links.nbcnews.com^
 ||links.news.mindbody.io^
 ||links.notarize.com^
 ||links.notifications.headspace.com^
@@ -492,6 +494,7 @@
 ||notice.hoopladigital.com^
 ||notify.pray.com^
 ||pint-dev-branch.airship.com^
+||pxsg.pandora.com^
 ||qa-brc.emails.rakuten.com^
 ||qbse.intuit.com^
 ||r.blidzdeal.com^
@@ -537,6 +540,7 @@
 ||url1020.keycollectorcomics.com^
 ||url1451.careerkarma.info^
 ||url3630.newsletter.experience-muse.com^
+||url7424.email.readytotravel.com^
 ||url7542.fluz.app^
 ||url7962.careerkarma.io^
 ||url8196.mindrise.app^
