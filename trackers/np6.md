@@ -106,6 +106,7 @@
 | tr.email.janedeboy.com | tracking.bp01.net |
 | tr.email.medicalexpo.com | tracking.bp01.net |
 | tr.email.securite-routiere.gouv.fr | tracking.bp01.net |
+| tr.email.solocal.com | tracking.bp01.net |
 | tr.email.thelem-assurances.fr | tracking.bp01.net |
 | tr.email.voyagesleclerc.com | tracking.bp01.net |
 | tr.emailing.canalplus-afrique.com | tracking.bp01.net |
@@ -219,8 +220,10 @@
 | tr.news.casinodrive.fr | tracking.bp01.net |
 | tr.news.casinomax.fr | tracking.bp01.net |
 | tr.news.cdiscount.com | tracking.bp01.net |
+| tr.news.companeo.es | tracking.bp01.net |
 | tr.news.cotemaison.fr | tracking.bp01.net |
 | tr.news.deneuville-chocolat.fr | tracking.bp01.net |
+| tr.news.deshotelsetdesiles.com | tracking.bp01.net |
 | tr.news.devisdirect.be | tracking.bp01.net |
 | tr.news.digitpjms.fr | tracking.bp01.net |
 | tr.news.directeo.fr | tracking.bp01.net |
@@ -231,6 +234,7 @@
 | tr.news.easyvoyage.de | tracking.bp01.net |
 | tr.news.economic-studies.fr | tracking.bp01.net |
 | tr.news.editions-lva.fr | tracking.bp01.net |
+| tr.news.entreprise-pm.com | tracking.bp01.net |
 | tr.news.exclu.fr | tracking.bp01.net |
 | tr.news.geantcasino.fr | tracking.bp01.net |
 | tr.news.heredis.com | tracking.bp01.net |

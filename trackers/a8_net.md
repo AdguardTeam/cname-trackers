@@ -17,6 +17,7 @@
 | a8.erasutamo.onlinestaff.jp | trck.a8.net |
 | a8.fit-theme.com | trck.a8.net |
 | a8.geo-online.co.jp | trck.a8.net |
+| a8.hakata-hisamatsu.net | trck.a8.net |
 | a8.haptic.co.jp | trck.a8.net |
 | a8.hitohana.tokyo | trck.a8.net |
 | a8.i-netservice.net | trck.a8.net |
@@ -49,6 +50,7 @@
 | a8clk.app.offerbox.jp | trck.a8.net |
 | a8clk.apply-shop.menu.inc | trck.a8.net |
 | a8clk.asp.jcity.co.jp | trck.a8.net |
+| a8clk.audiobook.jp | trck.a8.net |
 | a8clk.autoc-one.jp | trck.a8.net |
 | a8clk.bstyle.store | trck.a8.net |
 | a8clk.camerakaitori.jp | trck.a8.net |
@@ -128,6 +130,7 @@
 | a8cv.signalift.com | trck.a8.net |
 | a8cv.soundfun.co.jp | trck.a8.net |
 | a8cv.store.alpen-group.jp | trck.a8.net |
+| a8cv.store.tavenal.com | trck.a8.net |
 | a8cv.try-fs.com | trck.a8.net |
 | a8cv.unito.life | trck.a8.net |
 | a8cv.untenmenkyo-yi.com | trck.a8.net |
@@ -135,6 +138,8 @@
 | a8cv.workman.jp | trck.a8.net |
 | a8cv.www.bedstyle.jp | trck.a8.net |
 | a8cv.www.biyou-soushin.com | trck.a8.net |
+| a8cv.www.biyou-wakiga.com | trck.a8.net |
+| a8cv.ya-man.com | trck.a8.net |
 | a8cv.yamato-gp.net | trck.a8.net |
 | a8cv.ygm-clinic.or.jp | trck.a8.net |
 | a8cv.you-shoku.net | trck.a8.net |

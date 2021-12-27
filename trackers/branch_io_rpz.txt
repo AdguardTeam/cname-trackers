@@ -33,7 +33,6 @@
 a.hibbett.com CNAME .
 ablink.1954.bk.com CNAME .
 ablink.a.radio.com CNAME .
-ablink.abtest.redmart.com CNAME .
 ablink.account.debut.careers CNAME .
 ablink.account.quizlet.com CNAME .
 ablink.account.zip.co CNAME .
@@ -94,6 +93,7 @@ ablink.loyal.timhortons.ca CNAME .
 ablink.loyal.timhortons.com CNAME .
 ablink.loyalty.almosafer.com CNAME .
 ablink.loyalty.tajawal.com CNAME .
+ablink.m.feelcove.com CNAME .
 ablink.m.jackpocket.com CNAME .
 ablink.m.popeyes.com CNAME .
 ablink.m.seatedapp.io CNAME .
@@ -169,14 +169,12 @@ ablinks.mail.hinge.co CNAME .
 ablinks.marketing.numi.com CNAME .
 ablinks.news.amaro.com CNAME .
 ablinks.news.learnwithhomer.com CNAME .
+ablinks.picsart.com CNAME .
 ablinksemail.wirexapp.com CNAME .
 ablinksuni.a.grubhub.com CNAME .
 ablinksuni.a.seamless.com CNAME .
 abmail.test.iheart.com CNAME .
 abmail2.e.hungryjacks.com.au CNAME .
-abtest.em.redmart.com CNAME .
-abtest.redmart.com CNAME .
-abtestmail.em.redmart.com CNAME .
 activation.depop.com CNAME .
 alerts.steadyapp.com CNAME .
 alinks.outcomes4me.com CNAME .
@@ -202,6 +200,7 @@ bpeml.mlb.com CNAME .
 br.ac.ebookers.com CNAME .
 br.ac.ebookers.de CNAME .
 br.ac.ebookers.fr CNAME .
+br.ac.ebookers.ie CNAME .
 br.ac.orbitz.com CNAME .
 br.ac.travelocity.com CNAME .
 br.backmarket.fr CNAME .
@@ -494,6 +493,7 @@ mx.carfax.com CNAME .
 notice.hoopladigital.com CNAME .
 notify.pray.com CNAME .
 pint-dev-branch.airship.com CNAME .
+px.pandora.com CNAME .
 pxsg.pandora.com CNAME .
 qa-brc.emails.rakuten.com CNAME .
 qbse.intuit.com CNAME .
@@ -536,7 +536,6 @@ trk.s.sephora.com CNAME .
 trk.underarmour.com CNAME .
 trk.us.underarmour.com CNAME .
 trklink.luisaviaroma.com CNAME .
-url1015.abtest.em.redmart.com CNAME .
 url1020.keycollectorcomics.com CNAME .
 url1451.careerkarma.info CNAME .
 url3630.newsletter.experience-muse.com CNAME .

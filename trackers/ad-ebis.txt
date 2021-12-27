@@ -126,6 +126,7 @@
 ||ebisfracora.fracora.com^
 ||ebisstore.tamagokichi.com^
 ||ebs.green-osaka.com^
+||emc.dr-stick.shop^
 ||greenjapan-cname.green-japan.com^
 ||isebis.takamiclinic.or.jp^
 ||isebis.yutoriform.com^

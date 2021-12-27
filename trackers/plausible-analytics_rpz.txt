@@ -382,8 +382,10 @@ stats.laxallstars.com CNAME .
 stats.layl.app CNAME .
 stats.leaguestats.gg CNAME .
 stats.learnlinux.tv CNAME .
+stats.leoloso.com CNAME .
 stats.lessimpact.org CNAME .
 stats.liist.io CNAME .
+stats.literacysomerset.org CNAME .
 stats.livingedge.ngo CNAME .
 stats.lollipoptest.at CNAME .
 stats.lord.io CNAME .
@@ -440,6 +442,7 @@ stats.patriot.win CNAME .
 stats.paulbutler.org CNAME .
 stats.paysagistes.pro CNAME .
 stats.personalkollen.se CNAME .
+stats.phelsumagrandis.de CNAME .
 stats.phili.pe CNAME .
 stats.pianoplanet.app CNAME .
 stats.pinoymusicstation.com CNAME .

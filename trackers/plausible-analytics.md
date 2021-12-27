@@ -387,8 +387,10 @@
 | stats.layl.app | custom.plausible.io |
 | stats.leaguestats.gg | custom.plausible.io |
 | stats.learnlinux.tv | custom.plausible.io |
+| stats.leoloso.com | custom.plausible.io |
 | stats.lessimpact.org | custom.plausible.io |
 | stats.liist.io | custom.plausible.io |
+| stats.literacysomerset.org | custom.plausible.io |
 | stats.livingedge.ngo | custom.plausible.io |
 | stats.lollipoptest.at | custom.plausible.io |
 | stats.lord.io | custom.plausible.io |
@@ -445,6 +447,7 @@
 | stats.paulbutler.org | custom.plausible.io |
 | stats.paysagistes.pro | custom.plausible.io |
 | stats.personalkollen.se | custom.plausible.io |
+| stats.phelsumagrandis.de | custom.plausible.io |
 | stats.phili.pe | custom.plausible.io |
 | stats.pianoplanet.app | custom.plausible.io |
 | stats.pinoymusicstation.com | custom.plausible.io |

@@ -101,6 +101,7 @@ tr.email.directindustry.com CNAME .
 tr.email.janedeboy.com CNAME .
 tr.email.medicalexpo.com CNAME .
 tr.email.securite-routiere.gouv.fr CNAME .
+tr.email.solocal.com CNAME .
 tr.email.thelem-assurances.fr CNAME .
 tr.email.voyagesleclerc.com CNAME .
 tr.emailing.canalplus-afrique.com CNAME .
@@ -214,8 +215,10 @@ tr.news.casino.fr CNAME .
 tr.news.casinodrive.fr CNAME .
 tr.news.casinomax.fr CNAME .
 tr.news.cdiscount.com CNAME .
+tr.news.companeo.es CNAME .
 tr.news.cotemaison.fr CNAME .
 tr.news.deneuville-chocolat.fr CNAME .
+tr.news.deshotelsetdesiles.com CNAME .
 tr.news.devisdirect.be CNAME .
 tr.news.digitpjms.fr CNAME .
 tr.news.directeo.fr CNAME .
@@ -226,6 +229,7 @@ tr.news.easyvoyage.com CNAME .
 tr.news.easyvoyage.de CNAME .
 tr.news.economic-studies.fr CNAME .
 tr.news.editions-lva.fr CNAME .
+tr.news.entreprise-pm.com CNAME .
 tr.news.exclu.fr CNAME .
 tr.news.geantcasino.fr CNAME .
 tr.news.heredis.com CNAME .

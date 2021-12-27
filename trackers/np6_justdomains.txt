@@ -101,6 +101,7 @@ tr.email.directindustry.com
 tr.email.janedeboy.com
 tr.email.medicalexpo.com
 tr.email.securite-routiere.gouv.fr
+tr.email.solocal.com
 tr.email.thelem-assurances.fr
 tr.email.voyagesleclerc.com
 tr.emailing.canalplus-afrique.com
@@ -214,8 +215,10 @@ tr.news.casino.fr
 tr.news.casinodrive.fr
 tr.news.casinomax.fr
 tr.news.cdiscount.com
+tr.news.companeo.es
 tr.news.cotemaison.fr
 tr.news.deneuville-chocolat.fr
+tr.news.deshotelsetdesiles.com
 tr.news.devisdirect.be
 tr.news.digitpjms.fr
 tr.news.directeo.fr
@@ -226,6 +229,7 @@ tr.news.easyvoyage.com
 tr.news.easyvoyage.de
 tr.news.economic-studies.fr
 tr.news.editions-lva.fr
+tr.news.entreprise-pm.com
 tr.news.exclu.fr
 tr.news.geantcasino.fr
 tr.news.heredis.com

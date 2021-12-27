@@ -126,6 +126,7 @@ ebiscname.urr.jp CNAME .
 ebisfracora.fracora.com CNAME .
 ebisstore.tamagokichi.com CNAME .
 ebs.green-osaka.com CNAME .
+emc.dr-stick.shop CNAME .
 greenjapan-cname.green-japan.com CNAME .
 isebis.takamiclinic.or.jp CNAME .
 isebis.yutoriform.com CNAME .

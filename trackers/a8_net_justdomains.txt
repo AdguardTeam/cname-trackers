@@ -11,6 +11,7 @@ a8.eonet.jp
 a8.erasutamo.onlinestaff.jp
 a8.fit-theme.com
 a8.geo-online.co.jp
+a8.hakata-hisamatsu.net
 a8.haptic.co.jp
 a8.hitohana.tokyo
 a8.i-netservice.net
@@ -43,6 +44,7 @@ a8click.you-up.com
 a8clk.app.offerbox.jp
 a8clk.apply-shop.menu.inc
 a8clk.asp.jcity.co.jp
+a8clk.audiobook.jp
 a8clk.autoc-one.jp
 a8clk.bstyle.store
 a8clk.camerakaitori.jp
@@ -122,6 +124,7 @@ a8cv.shop.matsuo1956.jp
 a8cv.signalift.com
 a8cv.soundfun.co.jp
 a8cv.store.alpen-group.jp
+a8cv.store.tavenal.com
 a8cv.try-fs.com
 a8cv.unito.life
 a8cv.untenmenkyo-yi.com
@@ -129,6 +132,8 @@ a8cv.urocca.jp
 a8cv.workman.jp
 a8cv.www.bedstyle.jp
 a8cv.www.biyou-soushin.com
+a8cv.www.biyou-wakiga.com
+a8cv.ya-man.com
 a8cv.yamato-gp.net
 a8cv.ygm-clinic.or.jp
 a8cv.you-shoku.net

@@ -4,28 +4,34 @@
 ; dataunlocker.com disguised trackers
 ;
 17aifrn7w6od.unstoppabledomains.com CNAME .
-1iy4gu0lpkp.my.gloryleague.basketball CNAME .
+1kpv4njzilv.community.intersystems.com CNAME .
+1q6ck0lrhrr.www.newsinside.org CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
-25voj20abod.honeyswap.org CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
+3wn3w3skxpym.round.t3.gg CNAME .
+6d5a81guuve4.anydebrid.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
+96xawnq3op3t.www.earthclassmail.com CNAME .
+av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
-d0okq2fxd9lz.app.stoic.ai CNAME .
-e5obq1v261.www.lurkit.com CNAME .
+f6j7cpuae2zx.www.marketdata.app CNAME .
 fp84rw0jinz7.blanc.ru CNAME .
-gl5g98t0vfjb.panprices.com CNAME .
-htahii1lpt4u.boxoffice.adventuretix.com CNAME .
-hxfc9xrq6owz.www.earthclassmail.com CNAME .
-jzbzvk10u32f.adria.gg CNAME .
-nwuoxwthvak3.stoic.ai CNAME .
+fzkvfu84m485.stoic.ai CNAME .
+jlx31nt6ptw2.www.chandlerorchards.com CNAME .
+lh3pvljbkong.www.nookgaming.com CNAME .
+ogfjk9vllz.www.tragonesymazmorras.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
+p9jhxqlkmn.miniso.com.gr CNAME .
+rg2uscgrk9rz.franchiseplus.nl CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
+t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
+targ2i21km4b.kvest.ee CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
 x2l5lsn8rvsq.li.finance CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
-z24rhhuv7esb.www.logology.co CNAME .
+ysrrzgku6tar.us.themoneytizer.com CNAME .
 zd070nxf5c3c.anydebrid.com CNAME .
 ;
 ; monopoly-drain.ga disguised trackers
@@ -39,6 +45,7 @@ zd070nxf5c3c.anydebrid.com CNAME .
 ; fantastic-diamond.cf disguised trackers
 ;
 17aifrn7w6od.unstoppabledomains.com CNAME .
+1iy4gu0lpkp.my.gloryleague.basketball CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 25voj20abod.honeyswap.org CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
@@ -47,11 +54,12 @@ zd070nxf5c3c.anydebrid.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
-b46zqnf0i1cc.www.earthclassmail.com CNAME .
 dc19qtc6mkm6.www.cefirates.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 fp84rw0jinz7.blanc.ru CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
+htahii1lpt4u.boxoffice.adventuretix.com CNAME .
+hxfc9xrq6owz.www.earthclassmail.com CNAME .
 jzbzvk10u32f.adria.gg CNAME .
 lh3pvljbkong.www.nookgaming.com CNAME .
 mqctqssadv26.tapmyback.com CNAME .

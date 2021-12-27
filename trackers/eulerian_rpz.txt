@@ -30,7 +30,6 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
@@ -87,6 +86,7 @@ ea.lexpress.fr CNAME .
 ea.megustaleer.com.pe CNAME .
 ea.melijoe.com CNAME .
 ea.millet-mountain.com CNAME .
+ea.millet-mountain.de CNAME .
 ea.millet.fr CNAME .
 ea.mistergatesdirect.com CNAME .
 ea.mondial-assistance.fr CNAME .
@@ -128,7 +128,6 @@ eule1.pmu.fr CNAME .
 eulerian.astro-way.com CNAME .
 eulerian.belambra.be CNAME .
 eulerian.belambra.fr CNAME .
-eulerian.brandalley.fr CNAME .
 eulerian.canal-plus.com CNAME .
 eulerian.look-voyages.fr CNAME .
 eulerian.madeindesign.com CNAME .
@@ -175,6 +174,7 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 he6e.lavieimmo.com CNAME .
 hgf4.zanzicar.fr CNAME .
+hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .

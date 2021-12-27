@@ -42,6 +42,7 @@
     * 3c39ea6e-px3cltrd.cname.ebis.ne.jp
     * 3c40b540-dfevquvl.cname.ebis.ne.jp
     * 3fcda11b-dmcr4rty.cname.ebis.ne.jp
+    * 402e5b1b-na8iuntw.cname.ebis.ne.jp
     * 417df397-9zxfa7mv.cname.ebis.ne.jp
     * 435017b6-hcwlnnyg.cname.ebis.ne.jp
     * 44f2417e-guakxgpf.cname.ebis.ne.jp
@@ -195,6 +196,7 @@
 | ebis202001.joyfit.jp | 3c39ea6e-px3cltrd.cname.ebis.ne.jp |
 | ebis.rabo.cat | 3c40b540-dfevquvl.cname.ebis.ne.jp |
 | digital.anicom-sompo.co.jp | 3fcda11b-dmcr4rty.cname.ebis.ne.jp |
+| emc.dr-stick.shop | 402e5b1b-na8iuntw.cname.ebis.ne.jp |
 | tukuru.cotta.jp | 417df397-9zxfa7mv.cname.ebis.ne.jp |
 | adebis.kose.co.jp | 435017b6-hcwlnnyg.cname.ebis.ne.jp |
 | adebis.theclinic.jp | 44f2417e-guakxgpf.cname.ebis.ne.jp |

@@ -33,7 +33,6 @@
 ||a.hibbett.com^
 ||ablink.1954.bk.com^
 ||ablink.a.radio.com^
-||ablink.abtest.redmart.com^
 ||ablink.account.debut.careers^
 ||ablink.account.quizlet.com^
 ||ablink.account.zip.co^
@@ -94,6 +93,7 @@
 ||ablink.loyal.timhortons.com^
 ||ablink.loyalty.almosafer.com^
 ||ablink.loyalty.tajawal.com^
+||ablink.m.feelcove.com^
 ||ablink.m.jackpocket.com^
 ||ablink.m.popeyes.com^
 ||ablink.m.seatedapp.io^
@@ -169,14 +169,12 @@
 ||ablinks.marketing.numi.com^
 ||ablinks.news.amaro.com^
 ||ablinks.news.learnwithhomer.com^
+||ablinks.picsart.com^
 ||ablinksemail.wirexapp.com^
 ||ablinksuni.a.grubhub.com^
 ||ablinksuni.a.seamless.com^
 ||abmail.test.iheart.com^
 ||abmail2.e.hungryjacks.com.au^
-||abtest.em.redmart.com^
-||abtest.redmart.com^
-||abtestmail.em.redmart.com^
 ||activation.depop.com^
 ||alerts.steadyapp.com^
 ||alinks.outcomes4me.com^
@@ -202,6 +200,7 @@
 ||br.ac.ebookers.com^
 ||br.ac.ebookers.de^
 ||br.ac.ebookers.fr^
+||br.ac.ebookers.ie^
 ||br.ac.orbitz.com^
 ||br.ac.travelocity.com^
 ||br.backmarket.fr^
@@ -494,6 +493,7 @@
 ||notice.hoopladigital.com^
 ||notify.pray.com^
 ||pint-dev-branch.airship.com^
+||px.pandora.com^
 ||pxsg.pandora.com^
 ||qa-brc.emails.rakuten.com^
 ||qbse.intuit.com^
@@ -536,7 +536,6 @@
 ||trk.underarmour.com^
 ||trk.us.underarmour.com^
 ||trklink.luisaviaroma.com^
-||url1015.abtest.em.redmart.com^
 ||url1020.keycollectorcomics.com^
 ||url1451.careerkarma.info^
 ||url3630.newsletter.experience-muse.com^

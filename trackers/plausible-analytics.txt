@@ -382,8 +382,10 @@
 ||stats.layl.app^
 ||stats.leaguestats.gg^
 ||stats.learnlinux.tv^
+||stats.leoloso.com^
 ||stats.lessimpact.org^
 ||stats.liist.io^
+||stats.literacysomerset.org^
 ||stats.livingedge.ngo^
 ||stats.lollipoptest.at^
 ||stats.lord.io^
@@ -440,6 +442,7 @@
 ||stats.paulbutler.org^
 ||stats.paysagistes.pro^
 ||stats.personalkollen.se^
+||stats.phelsumagrandis.de^
 ||stats.phili.pe^
 ||stats.pianoplanet.app^
 ||stats.pinoymusicstation.com^

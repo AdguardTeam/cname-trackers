@@ -30,7 +30,6 @@
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
-||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||cc.conforama.es^
@@ -87,6 +86,7 @@
 ||ea.megustaleer.com.pe^
 ||ea.melijoe.com^
 ||ea.millet-mountain.com^
+||ea.millet-mountain.de^
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
 ||ea.mondial-assistance.fr^
@@ -128,7 +128,6 @@
 ||eulerian.astro-way.com^
 ||eulerian.belambra.be^
 ||eulerian.belambra.fr^
-||eulerian.brandalley.fr^
 ||eulerian.canal-plus.com^
 ||eulerian.look-voyages.fr^
 ||eulerian.madeindesign.com^
@@ -175,6 +174,7 @@
 ||hby7.destinia.it^
 ||he6e.lavieimmo.com^
 ||hgf4.zanzicar.fr^
+||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^
