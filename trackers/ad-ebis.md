@@ -8,6 +8,7 @@
     * 055b1f86-ycxd4a4u.cname.ebis.ne.jp
     * 06fb9eec-clhowtg1.cname.ebis.ne.jp
     * 07d020a3-crscrcp3.cname.ebis.ne.jp
+    * 099c079b-kdytzguc.cname.ebis.ne.jp
     * 099c079b-vmcsnsvr.cname.ebis.ne.jp
     * 0c693a00-fbzwhcnp.cname.ebis.ne.jp
     * 0cd5dd46-3fyehbqu.cname.ebis.ne.jp
@@ -162,6 +163,7 @@
 | ad.takasu.co.jp | 055b1f86-ycxd4a4u.cname.ebis.ne.jp |
 | adebis.tohshin.co.jp | 06fb9eec-clhowtg1.cname.ebis.ne.jp |
 | adebis.livable.co.jp | 07d020a3-crscrcp3.cname.ebis.ne.jp |
+| adebis-rikon.vbest.jp | 099c079b-kdytzguc.cname.ebis.ne.jp |
 | adebis-saimu.vbest.jp | 099c079b-vmcsnsvr.cname.ebis.ne.jp |
 | cname-ade.original-calendar.com | 0c693a00-fbzwhcnp.cname.ebis.ne.jp |
 | adebiscname.auone.jp | 0cd5dd46-3fyehbqu.cname.ebis.ne.jp |

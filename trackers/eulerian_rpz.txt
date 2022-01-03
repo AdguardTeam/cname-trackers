@@ -30,7 +30,7 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
+c0i.ckoi.com CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
 ch0p.darty.com CNAME .
@@ -115,14 +115,12 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-eat9.thebeat925.ca CNAME .
 ebc1.capifrance.fr CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 eule1.pmu.fr CNAME .
 eulerian.astro-way.com CNAME .
@@ -282,7 +280,6 @@ sby1.madeindesign.de CNAME .
 sd.securitasdirect.fr CNAME .
 sfp7.eco-conscient.com CNAME .
 sis8.premieremoisson.com CNAME .
-sis8.sisley-paris.com CNAME .
 ski1.skiset.com CNAME .
 sls2.loisirsencheres.com CNAME .
 sno1.snowrental.com CNAME .

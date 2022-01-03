@@ -110,6 +110,7 @@
 ||mit.db.com^
 ||mit.dws.com^
 ||mit.dws.de^
+||mit.postbank.de^
 ||mit.researchlog.db.com^
 ||mit.researchlog.dbresearch.com^
 ||mit.researchlog.dbresearch.de^
@@ -135,6 +136,7 @@
 ||scout.bergfreunde.dk^
 ||scout.bergfreunde.es^
 ||scout.bergfreunde.eu^
+||scout.bergfreunde.it^
 ||scout.bergfreunde.nl^
 ||scout.bergfreunde.se^
 ||spr.welt.de^
@@ -152,6 +154,7 @@
 ||tr.suedkurier.de^
 ||trk.blume2000.de^
 ||trk.nuernberger.digital^
+||w3.aktionaersbank.de^
 ||w7.berlin.de^
 ||w7.weihnachteninberlin.de^
 ||wa.planet-wissen.de^

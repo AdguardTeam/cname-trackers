@@ -76,6 +76,7 @@
 ||tr.comunicacao.younited-credit.com^
 ||tr.contact.canalplus.fr^
 ||tr.contact.e-turf.fr^
+||tr.contrat.location.boulanger.com^
 ||tr.contrats.cetelem.fr^
 ||tr.courriel.ouestnormandie.cci.fr^
 ||tr.courrier.charentelibre.fr^
@@ -173,6 +174,7 @@
 ||tr.jesuis.enformedelotus.com^
 ||tr.jevoteenligne.fr^
 ||tr.jkyg.espmp-cufr.net^
+||tr.kommunikation.younited-credit.com^
 ||tr.kontakt.younited-credit.com^
 ||tr.kpyn.espmp-cufr.net^
 ||tr.krus.espmp-agfr.net^
@@ -249,6 +251,8 @@
 ||tr.news.sport2000.fr^
 ||tr.news.thelist-emirates.fr^
 ||tr.news.toocampmail.com^
+||tr.news.vip-diary.com^
+||tr.news.vip-mag.co.uk^
 ||tr.news.vipmag.fr^
 ||tr.news.voyagesleclerc.com^
 ||tr.news.vraaguwofferte.be^
@@ -325,6 +329,7 @@
 ||tr.silvera-contact.fr^
 ||tr.smtp1.email-mediapost.fr^
 ||tr.solution.uneo.fr^
+||tr.souscription.banque-casino.fr^
 ||tr.souscription.floa.fr^
 ||tr.toner-service.fr^
 ||tr.toner-services.fr^

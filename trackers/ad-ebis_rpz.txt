@@ -19,6 +19,7 @@ ad1.tone.ne.jp CNAME .
 adbq.bk.mufg.jp CNAME .
 adebis-52667624.wowma.jp CNAME .
 adebis-morijuku.morijuku.com CNAME .
+adebis-rikon.vbest.jp CNAME .
 adebis-saimu.vbest.jp CNAME .
 adebis.angfa-store.jp CNAME .
 adebis.chojyu.com CNAME .

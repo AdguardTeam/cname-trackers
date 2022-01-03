@@ -76,6 +76,7 @@ tr.compte.fca-capital-france.fr CNAME .
 tr.comunicacao.younited-credit.com CNAME .
 tr.contact.canalplus.fr CNAME .
 tr.contact.e-turf.fr CNAME .
+tr.contrat.location.boulanger.com CNAME .
 tr.contrats.cetelem.fr CNAME .
 tr.courriel.ouestnormandie.cci.fr CNAME .
 tr.courrier.charentelibre.fr CNAME .
@@ -173,6 +174,7 @@ tr.invitation-mesdessous.fr CNAME .
 tr.jesuis.enformedelotus.com CNAME .
 tr.jevoteenligne.fr CNAME .
 tr.jkyg.espmp-cufr.net CNAME .
+tr.kommunikation.younited-credit.com CNAME .
 tr.kontakt.younited-credit.com CNAME .
 tr.kpyn.espmp-cufr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
@@ -249,6 +251,8 @@ tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
 tr.news.thelist-emirates.fr CNAME .
 tr.news.toocampmail.com CNAME .
+tr.news.vip-diary.com CNAME .
+tr.news.vip-mag.co.uk CNAME .
 tr.news.vipmag.fr CNAME .
 tr.news.voyagesleclerc.com CNAME .
 tr.news.vraaguwofferte.be CNAME .
@@ -325,6 +329,7 @@ tr.servicoaocliente.younited-credit.com CNAME .
 tr.silvera-contact.fr CNAME .
 tr.smtp1.email-mediapost.fr CNAME .
 tr.solution.uneo.fr CNAME .
+tr.souscription.banque-casino.fr CNAME .
 tr.souscription.floa.fr CNAME .
 tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .

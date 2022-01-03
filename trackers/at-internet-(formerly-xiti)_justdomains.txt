@@ -30,6 +30,7 @@ culture.intermedes.com
 d.m-net.de
 d.uni-medias.com
 da.maif.fr
+dimensions.mappy.com
 faucons.viessmann.fr
 hal.courrierinternational.com
 hd.pe.fr

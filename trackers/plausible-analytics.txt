@@ -22,6 +22,7 @@
 ||analytics.arunraghavan.net^
 ||analytics.behaheaters.co.uk^
 ||analytics.betterplaces.nl^
+||analytics.certifriedit.com^
 ||analytics.churchthemes.com^
 ||analytics.codeforscience.org^
 ||analytics.codeskulptor.org^
@@ -72,6 +73,7 @@
 ||cats.d20.rs^
 ||cdn.arcstudiopro.com^
 ||channelwatcher.panda.tech^
+||cheese.guac.live^
 ||churro.noteapps.info^
 ||connect.astrobotanicals.com^
 ||counter.proxycrawl.com^
@@ -151,7 +153,6 @@
 ||plausible.conveyal.com^
 ||plausible.corbettbarr.com^
 ||plausible.deploymentfromscratch.com^
-||plausible.derpycoder.com^
 ||plausible.dev.sketch.com^
 ||plausible.doctave.com^
 ||plausible.ericgoebelbecker.com^
@@ -275,6 +276,7 @@
 ||stats.byma.com.br^
 ||stats.carrot2.org^
 ||stats.carrotsearch.com^
+||stats.cascadeinstitute.org^
 ||stats.cassidyjames.com^
 ||stats.catholicluv.com^
 ||stats.changelog.com^
@@ -364,6 +366,7 @@
 ||stats.iscc-system.org^
 ||stats.ivankahl.com^
 ||stats.jackwhiting.co.uk^
+||stats.jamesevers.co.uk^
 ||stats.jawebb.se^
 ||stats.jdheyburn.co.uk^
 ||stats.jerickson.net^
@@ -400,6 +403,7 @@
 ||stats.martinbetz.eu^
 ||stats.marudor.de^
 ||stats.masjidbox.com^
+||stats.mastermeup.com^
 ||stats.matthiasloibl.com^
 ||stats.matthogg.fyi^
 ||stats.maurer-rides.de^
@@ -491,7 +495,6 @@
 ||stats.songbox.rocks^
 ||stats.southpetherwin.com^
 ||stats.sparkloop.app^
-||stats.spp.co^
 ||stats.sqlteam.com^
 ||stats.stackingthebricks.com^
 ||stats.stacks.org^
@@ -501,6 +504,7 @@
 ||stats.strikogkod.dk^
 ||stats.studypages.com^
 ||stats.sublimesecurity.com^
+||stats.sunpeaksstables.com^
 ||stats.sushibyte.io^
 ||stats.svenadolph.net^
 ||stats.tekin.co.uk^
@@ -512,6 +516,7 @@
 ||stats.timmyomahony.com^
 ||stats.toiletmap.org.uk^
 ||stats.tomorrowacademy.org^
+||stats.torontohhs.org^
 ||stats.travel.geek.nz^
 ||stats.travelfodder.com^
 ||stats.tresor.one^
@@ -520,6 +525,7 @@
 ||stats.twhl.xyz^
 ||stats.unox.com^
 ||stats.urbanfinn.com^
+||stats.urlaubsverwaltung.cloud^
 ||stats.useeffect.dev^
 ||stats.uxtools.co^
 ||stats.vanityprojects.com^
@@ -541,7 +547,6 @@
 ||statystyki.ekspertyzy-szkolenia.pl^
 ||sts.papyrs.com^
 ||t.andarpersassi.it^
-||telemetry.xeraa.net^
 ||thor.pureelectric.se^
 ||thumos.fileside.app^
 ||tics.seeker.gg^

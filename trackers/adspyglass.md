@@ -45,6 +45,7 @@
 | a.pumpity.net | 0i0i0i0.com |
 | a.streamoupload.com | 0i0i0i0.com |
 | a.suptube.com | 0i0i0i0.com |
+| a.teencfnm.com | 0i0i0i0.com |
 | a.veryn1ce.com | 0i0i0i0.com |
 | a.watchomovies.com | 0i0i0i0.com |
 | a.xirono.club | 0i0i0i0.com |
@@ -75,6 +76,7 @@
 | asg.collegesexvideo.net | 0i0i0i0.com |
 | asg.faperoni.com | 0i0i0i0.com |
 | asg.i884.info | 0i0i0i0.com |
+| asg.lustesthd.com | 0i0i0i0.com |
 | asg.makemewell.pro | 0i0i0i0.com |
 | asg.phukienthoitranggiare.com | 0i0i0i0.com |
 | asg.pornimagine.com | 0i0i0i0.com |
@@ -115,6 +117,7 @@
 | dl.4kporn.xxx | 0i0i0i0.com |
 | dl.crazyporn.xxx | 0i0i0i0.com |
 | dl.love4porn.com | 0i0i0i0.com |
+| dontbeabadboy.javboys.com | 0i0i0i0.com |
 | ebd.cda-hd.cc | 0i0i0i0.com |
 | eco.blendxxx.com | 0i0i0i0.com |
 | edge1-us-priority.akamacdn.com | 0i0i0i0.com |
@@ -185,6 +188,7 @@
 | sg.xclick24.com | 0i0i0i0.com |
 | shemale.house | 0i0i0i0.com |
 | smoothlikebutter.cc | 0i0i0i0.com |
+| solutions.playernetca.top | 0i0i0i0.com |
 | spacetraveldin.com | 0i0i0i0.com |
 | spy.luvprn.com | 0i0i0i0.com |
 | spyglass.reklamko.pro | 0i0i0i0.com |

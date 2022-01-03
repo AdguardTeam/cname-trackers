@@ -32,7 +32,6 @@
 ||a8.ssl.aispr.jp^
 ||a8.tone.ne.jp^
 ||a8.tour-sys.com^
-||a8.uqmobile-shop.jp^
 ||a8.vege-pet.jp^
 ||a8.virus-gekitai.com^
 ||a8.web-hikari.net^
@@ -85,6 +84,7 @@
 ||a8clk.skynet-c.jp^
 ||a8clk.teacon.jp^
 ||a8clk.titivate.jp^
+||a8clk.ur-s.me^
 ||a8clk.wi-ho.net^
 ||a8clk.www.cledepeau-beaute.com^
 ||a8clk.www.nortonstore.jp^
@@ -122,6 +122,7 @@
 ||a8cv.shibarinashi-wifi.jp^
 ||a8cv.shop.matsuo1956.jp^
 ||a8cv.signalift.com^
+||a8cv.snkrdunk.com^
 ||a8cv.soundfun.co.jp^
 ||a8cv.store.alpen-group.jp^
 ||a8cv.store.tavenal.com^

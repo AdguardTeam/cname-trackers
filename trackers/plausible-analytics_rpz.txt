@@ -22,6 +22,7 @@ analytics.adonisjs.com CNAME .
 analytics.arunraghavan.net CNAME .
 analytics.behaheaters.co.uk CNAME .
 analytics.betterplaces.nl CNAME .
+analytics.certifriedit.com CNAME .
 analytics.churchthemes.com CNAME .
 analytics.codeforscience.org CNAME .
 analytics.codeskulptor.org CNAME .
@@ -72,6 +73,7 @@ bob.gitclear.com CNAME .
 cats.d20.rs CNAME .
 cdn.arcstudiopro.com CNAME .
 channelwatcher.panda.tech CNAME .
+cheese.guac.live CNAME .
 churro.noteapps.info CNAME .
 connect.astrobotanicals.com CNAME .
 counter.proxycrawl.com CNAME .
@@ -151,7 +153,6 @@ plausible.bernheisel.com CNAME .
 plausible.conveyal.com CNAME .
 plausible.corbettbarr.com CNAME .
 plausible.deploymentfromscratch.com CNAME .
-plausible.derpycoder.com CNAME .
 plausible.dev.sketch.com CNAME .
 plausible.doctave.com CNAME .
 plausible.ericgoebelbecker.com CNAME .
@@ -275,6 +276,7 @@ stats.bungeefit.co.uk CNAME .
 stats.byma.com.br CNAME .
 stats.carrot2.org CNAME .
 stats.carrotsearch.com CNAME .
+stats.cascadeinstitute.org CNAME .
 stats.cassidyjames.com CNAME .
 stats.catholicluv.com CNAME .
 stats.changelog.com CNAME .
@@ -364,6 +366,7 @@ stats.interactjs.io CNAME .
 stats.iscc-system.org CNAME .
 stats.ivankahl.com CNAME .
 stats.jackwhiting.co.uk CNAME .
+stats.jamesevers.co.uk CNAME .
 stats.jawebb.se CNAME .
 stats.jdheyburn.co.uk CNAME .
 stats.jerickson.net CNAME .
@@ -400,6 +403,7 @@ stats.maferland.com CNAME .
 stats.martinbetz.eu CNAME .
 stats.marudor.de CNAME .
 stats.masjidbox.com CNAME .
+stats.mastermeup.com CNAME .
 stats.matthiasloibl.com CNAME .
 stats.matthogg.fyi CNAME .
 stats.maurer-rides.de CNAME .
@@ -491,7 +495,6 @@ stats.sommselect.com CNAME .
 stats.songbox.rocks CNAME .
 stats.southpetherwin.com CNAME .
 stats.sparkloop.app CNAME .
-stats.spp.co CNAME .
 stats.sqlteam.com CNAME .
 stats.stackingthebricks.com CNAME .
 stats.stacks.org CNAME .
@@ -501,6 +504,7 @@ stats.strawberry.rocks CNAME .
 stats.strikogkod.dk CNAME .
 stats.studypages.com CNAME .
 stats.sublimesecurity.com CNAME .
+stats.sunpeaksstables.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svenadolph.net CNAME .
 stats.tekin.co.uk CNAME .
@@ -512,6 +516,7 @@ stats.threadstart.io CNAME .
 stats.timmyomahony.com CNAME .
 stats.toiletmap.org.uk CNAME .
 stats.tomorrowacademy.org CNAME .
+stats.torontohhs.org CNAME .
 stats.travel.geek.nz CNAME .
 stats.travelfodder.com CNAME .
 stats.tresor.one CNAME .
@@ -520,6 +525,7 @@ stats.twenty.so CNAME .
 stats.twhl.xyz CNAME .
 stats.unox.com CNAME .
 stats.urbanfinn.com CNAME .
+stats.urlaubsverwaltung.cloud CNAME .
 stats.useeffect.dev CNAME .
 stats.uxtools.co CNAME .
 stats.vanityprojects.com CNAME .
@@ -541,7 +547,6 @@ stats.zander.wtf CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
 sts.papyrs.com CNAME .
 t.andarpersassi.it CNAME .
-telemetry.xeraa.net CNAME .
 thor.pureelectric.se CNAME .
 thumos.fileside.app CNAME .
 tics.seeker.gg CNAME .

@@ -29,6 +29,7 @@
     * d-m-net-de-cddc.at-o.net
     * d-uni-medias-com-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
+    * dimensions-mappy-com-cddc.at-o.net
     * faucons-viessmann-fr-cddc.at-o.net
     * hal-courrierinternational-com-cddc.at-o.net
     * hd-pe-fr-cddc.at-o.net
@@ -117,6 +118,7 @@
 | d.m-net.de | d-m-net-de-cddc.at-o.net |
 | d.uni-medias.com | d-uni-medias-com-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |
+| dimensions.mappy.com | dimensions-mappy-com-cddc.at-o.net |
 | faucons.viessmann.fr | faucons-viessmann-fr-cddc.at-o.net |
 | hal.courrierinternational.com | hal-courrierinternational-com-cddc.at-o.net |
 | hd.pe.fr | hd-pe-fr-cddc.at-o.net |

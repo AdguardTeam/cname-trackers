@@ -110,6 +110,7 @@ mapp.yesstyle.com CNAME .
 mit.db.com CNAME .
 mit.dws.com CNAME .
 mit.dws.de CNAME .
+mit.postbank.de CNAME .
 mit.researchlog.db.com CNAME .
 mit.researchlog.dbresearch.com CNAME .
 mit.researchlog.dbresearch.de CNAME .
@@ -135,6 +136,7 @@ scout.bergfreunde.de CNAME .
 scout.bergfreunde.dk CNAME .
 scout.bergfreunde.es CNAME .
 scout.bergfreunde.eu CNAME .
+scout.bergfreunde.it CNAME .
 scout.bergfreunde.nl CNAME .
 scout.bergfreunde.se CNAME .
 spr.welt.de CNAME .
@@ -152,6 +154,7 @@ tr.computeruniverse.net CNAME .
 tr.suedkurier.de CNAME .
 trk.blume2000.de CNAME .
 trk.nuernberger.digital CNAME .
+w3.aktionaersbank.de CNAME .
 w7.berlin.de CNAME .
 w7.weihnachteninberlin.de CNAME .
 wa.planet-wissen.de CNAME .

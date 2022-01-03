@@ -81,6 +81,7 @@
 | tr.comunicacao.younited-credit.com | tracking.bp01.net |
 | tr.contact.canalplus.fr | tracking.bp01.net |
 | tr.contact.e-turf.fr | tracking.bp01.net |
+| tr.contrat.location.boulanger.com | tracking.bp01.net |
 | tr.contrats.cetelem.fr | tracking.bp01.net |
 | tr.courriel.ouestnormandie.cci.fr | tracking.bp01.net |
 | tr.courrier.charentelibre.fr | tracking.bp01.net |
@@ -178,6 +179,7 @@
 | tr.jesuis.enformedelotus.com | tracking.bp01.net |
 | tr.jevoteenligne.fr | tracking.bp01.net |
 | tr.jkyg.espmp-cufr.net | tracking.bp01.net |
+| tr.kommunikation.younited-credit.com | tracking.bp01.net |
 | tr.kontakt.younited-credit.com | tracking.bp01.net |
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
 | tr.krus.espmp-agfr.net | tracking.bp01.net |
@@ -254,6 +256,8 @@
 | tr.news.sport2000.fr | tracking.bp01.net |
 | tr.news.thelist-emirates.fr | tracking.bp01.net |
 | tr.news.toocampmail.com | tracking.bp01.net |
+| tr.news.vip-diary.com | tracking.bp01.net |
+| tr.news.vip-mag.co.uk | tracking.bp01.net |
 | tr.news.vipmag.fr | tracking.bp01.net |
 | tr.news.voyagesleclerc.com | tracking.bp01.net |
 | tr.news.vraaguwofferte.be | tracking.bp01.net |
@@ -330,6 +334,7 @@
 | tr.silvera-contact.fr | tracking.bp01.net |
 | tr.smtp1.email-mediapost.fr | tracking.bp01.net |
 | tr.solution.uneo.fr | tracking.bp01.net |
+| tr.souscription.banque-casino.fr | tracking.bp01.net |
 | tr.souscription.floa.fr | tracking.bp01.net |
 | tr.toner-service.fr | tracking.bp01.net |
 | tr.toner-services.fr | tracking.bp01.net |
