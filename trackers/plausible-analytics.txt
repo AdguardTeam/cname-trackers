@@ -5,7 +5,6 @@
 !
 ||a-api.skz.dev^
 ||a.aawp.de^
-||a.affcoups.com^
 ||a.artistasdigitais.net^
 ||a.easyazon.com^
 ||a.fdmedia.io^
@@ -271,9 +270,11 @@
 ||stats.breathly.app^
 ||stats.briskoda.net^
 ||stats.broddin.be^
+||stats.brousse.info^
 ||stats.buildingtheelite.com^
 ||stats.bungeefit.co.uk^
 ||stats.byma.com.br^
+||stats.cable.tech^
 ||stats.carrot2.org^
 ||stats.carrotsearch.com^
 ||stats.cascadeinstitute.org^
@@ -300,7 +301,6 @@
 ||stats.curbnumberpro.com^
 ||stats.dailyposter.com^
 ||stats.dashbit.co^
-||stats.davestewart.co.uk^
 ||stats.davidlms.com^
 ||stats.dazzit.com^
 ||stats.deva.guru^
@@ -325,6 +325,7 @@
 ||stats.erlef.org^
 ||stats.executebig.org^
 ||stats.fabiofranchino.com^
+||stats.fantinel.dev^
 ||stats.farbenmeer.de^
 ||stats.feathercss.makerkits.co^
 ||stats.felipesere.com^
@@ -367,6 +368,7 @@
 ||stats.ivankahl.com^
 ||stats.jackwhiting.co.uk^
 ||stats.jamesevers.co.uk^
+||stats.jansix.at^
 ||stats.jawebb.se^
 ||stats.jdheyburn.co.uk^
 ||stats.jerickson.net^
@@ -457,6 +459,7 @@
 ||stats.pointflottant.com^
 ||stats.polekatfitness.com^
 ||stats.portabella.io^
+||stats.poweringpastcoal.org^
 ||stats.pri.org^
 ||stats.pricewell.io^
 ||stats.print.work^
@@ -514,6 +517,7 @@
 ||stats.thomasvitale.com^
 ||stats.threadstart.io^
 ||stats.timmyomahony.com^
+||stats.tkg.codes^
 ||stats.toiletmap.org.uk^
 ||stats.tomorrowacademy.org^
 ||stats.torontohhs.org^

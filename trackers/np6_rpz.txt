@@ -152,7 +152,6 @@ tr.info.mango-mobilites.fr CNAME .
 tr.info.mavoiturecash.fr CNAME .
 tr.info.mdbp.fr CNAME .
 tr.info.mobibam.com CNAME .
-tr.info.offresprivilege.com CNAME .
 tr.info.promoneuve.fr CNAME .
 tr.info.rouen.aeroport.fr CNAME .
 tr.info.rouen.cci.fr CNAME .
@@ -193,6 +192,7 @@ tr.mailing.lvmhappening.com CNAME .
 tr.mailing.r2e-humanis.fr CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.younited-credit.com CNAME .
+tr.marketing.younited-credit.es CNAME .
 tr.mart.espmp-agfr.net CNAME .
 tr.membres.boursorama.info CNAME .
 tr.mhist.moethennessy.com CNAME .
@@ -321,6 +321,7 @@ tr.satisfaction.alinea.com CNAME .
 tr.satisfaction.groupe-pv-cp.com CNAME .
 tr.scienceshumaines.pro CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
+tr.serviceclient.somgaz.fr CNAME .
 tr.serviceclient.younited-credit.com CNAME .
 tr.services.alinea.com CNAME .
 tr.services.caradisiac.com CNAME .
@@ -345,6 +346,7 @@ tr.welcome.easyviaggio.com CNAME .
 tr.welcome.easyvoyage.co.uk CNAME .
 tr.welcome.easyvoyage.com CNAME .
 tr.welcome.lexpress.fr CNAME .
+tr.welcome.moncoupdepouce.com CNAME .
 tr.welcome.thelist-emirates.fr CNAME .
 tr.welcome.vipmag.fr CNAME .
 tr1.citroen-ipsos.com CNAME .

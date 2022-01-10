@@ -4,6 +4,7 @@
 ! a8.net disguised trackers
 !
 ||a8.01cloud.jp^
+||a8.abemashopping.jp^
 ||a8.cyclemarket.jp^
 ||a8.denki-koji.work^
 ||a8.denwa-hikari.com^
@@ -155,6 +156,7 @@
 ||cv.a-internet.jp^
 ||cv.drive-hikari.net^
 ||cv.online.ysroad.co.jp^
+||cv.shiryoku1.com^
 ||kaden.netoff.co.jp^
 ||shopping.cellpure.co.jp^
 ||sub.booksdream-mypage.com^

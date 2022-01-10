@@ -4,6 +4,7 @@
 ; a8.net disguised trackers
 ;
 a8.01cloud.jp CNAME .
+a8.abemashopping.jp CNAME .
 a8.cyclemarket.jp CNAME .
 a8.denki-koji.work CNAME .
 a8.denwa-hikari.com CNAME .
@@ -155,6 +156,7 @@ cart.matsuzaka-steak.com CNAME .
 cv.a-internet.jp CNAME .
 cv.drive-hikari.net CNAME .
 cv.online.ysroad.co.jp CNAME .
+cv.shiryoku1.com CNAME .
 kaden.netoff.co.jp CNAME .
 shopping.cellpure.co.jp CNAME .
 sub.booksdream-mypage.com CNAME .

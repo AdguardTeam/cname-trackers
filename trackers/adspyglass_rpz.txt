@@ -13,15 +13,14 @@
 a.123porner.com CNAME .
 a.888x.cyou CNAME .
 a.abismo-katheryne.top CNAME .
-a.acervox.com CNAME .
 a.allwedoisfuck.com CNAME .
 a.andropps.us CNAME .
 a.aniplay.it CNAME .
 a.antiadxxxspy.com CNAME .
 a.benonblkd.xyz CNAME .
+a.bitporno.com CNAME .
 a.cdn1.pro CNAME .
 a.chastityvideos.com CNAME .
-a.digitalgiftshopping.com CNAME .
 a.dirtyasmr.com CNAME .
 a.dphunters.com CNAME .
 a.eachporn.com CNAME .
@@ -45,6 +44,7 @@ a.veryn1ce.com CNAME .
 a.watchomovies.com CNAME .
 a.xirono.club CNAME .
 a.xxe2.com CNAME .
+a.zillastream.com CNAME .
 a5.g--o.info CNAME .
 a5g.oves.biz CNAME .
 aa.zerg.pro CNAME .
@@ -99,6 +99,7 @@ blog.andropps.com CNAME .
 c3s.bionestraff.pro CNAME .
 cdc.teensnorest.com CNAME .
 cdfr.hot4k.org CNAME .
+cdn3.hentaihand.com CNAME .
 cdncont.com CNAME .
 cdnfind.net CNAME .
 cdnvid.com CNAME .
@@ -184,6 +185,7 @@ scuoo.porneq.co CNAME .
 sda.seksohub.com CNAME .
 sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
+search.cdn1.pro CNAME .
 sg.xclick24.com CNAME .
 shemale.house CNAME .
 smoothlikebutter.cc CNAME .
@@ -198,6 +200,7 @@ sub.xxx-porn-tube.com CNAME .
 support.streamjav.top CNAME .
 svekolasg.pro CNAME .
 tb.turbocap.net CNAME .
+tlv.ui02.com CNAME .
 tpl.factporn.com CNAME .
 trickyneotits.com CNAME .
 ts.sopornvideos.com CNAME .
@@ -212,6 +215,8 @@ w00t.us CNAME .
 wealth.thearve.com CNAME .
 web.cinetux.nu CNAME .
 widjet.analnoe.tv CNAME .
+ww.cvideos.stream CNAME .
+www.bigboy.monster CNAME .
 www.findnewline.com CNAME .
 www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
@@ -219,6 +224,7 @@ www.letstry69.xyz CNAME .
 www.sex1.party CNAME .
 www.spacetraveldin.com CNAME .
 www.upcdn.site CNAME .
+www.vkcdnservice.com CNAME .
 www4.hentaigamecg.com CNAME .
 www6.freeanimesource.com CNAME .
 www6.hentai-zone.com CNAME .

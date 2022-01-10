@@ -152,7 +152,6 @@ tr.info.mango-mobilites.fr
 tr.info.mavoiturecash.fr
 tr.info.mdbp.fr
 tr.info.mobibam.com
-tr.info.offresprivilege.com
 tr.info.promoneuve.fr
 tr.info.rouen.aeroport.fr
 tr.info.rouen.cci.fr
@@ -193,6 +192,7 @@ tr.mailing.lvmhappening.com
 tr.mailing.r2e-humanis.fr
 tr.marg02n.espmp-agfr.net
 tr.marketing.younited-credit.com
+tr.marketing.younited-credit.es
 tr.mart.espmp-agfr.net
 tr.membres.boursorama.info
 tr.mhist.moethennessy.com
@@ -321,6 +321,7 @@ tr.satisfaction.alinea.com
 tr.satisfaction.groupe-pv-cp.com
 tr.scienceshumaines.pro
 tr.secteurentreprises.harmonie-mutuelle.fr
+tr.serviceclient.somgaz.fr
 tr.serviceclient.younited-credit.com
 tr.services.alinea.com
 tr.services.caradisiac.com
@@ -345,6 +346,7 @@ tr.welcome.easyviaggio.com
 tr.welcome.easyvoyage.co.uk
 tr.welcome.easyvoyage.com
 tr.welcome.lexpress.fr
+tr.welcome.moncoupdepouce.com
 tr.welcome.thelist-emirates.fr
 tr.welcome.vipmag.fr
 tr1.citroen-ipsos.com

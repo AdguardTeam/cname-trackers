@@ -10,6 +10,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | a8.01cloud.jp | trck.a8.net |
+| a8.abemashopping.jp | trck.a8.net |
 | a8.cyclemarket.jp | trck.a8.net |
 | a8.denki-koji.work | trck.a8.net |
 | a8.denwa-hikari.com | trck.a8.net |
@@ -161,6 +162,7 @@
 | cv.a-internet.jp | trck.a8.net |
 | cv.drive-hikari.net | trck.a8.net |
 | cv.online.ysroad.co.jp | trck.a8.net |
+| cv.shiryoku1.com | trck.a8.net |
 | kaden.netoff.co.jp | trck.a8.net |
 | shopping.cellpure.co.jp | trck.a8.net |
 | sub.booksdream-mypage.com | trck.a8.net |

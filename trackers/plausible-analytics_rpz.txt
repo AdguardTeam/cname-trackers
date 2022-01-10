@@ -5,7 +5,6 @@
 ;
 a-api.skz.dev CNAME .
 a.aawp.de CNAME .
-a.affcoups.com CNAME .
 a.artistasdigitais.net CNAME .
 a.easyazon.com CNAME .
 a.fdmedia.io CNAME .
@@ -271,9 +270,11 @@ stats.breadtube.tv CNAME .
 stats.breathly.app CNAME .
 stats.briskoda.net CNAME .
 stats.broddin.be CNAME .
+stats.brousse.info CNAME .
 stats.buildingtheelite.com CNAME .
 stats.bungeefit.co.uk CNAME .
 stats.byma.com.br CNAME .
+stats.cable.tech CNAME .
 stats.carrot2.org CNAME .
 stats.carrotsearch.com CNAME .
 stats.cascadeinstitute.org CNAME .
@@ -300,7 +301,6 @@ stats.crewebo.de CNAME .
 stats.curbnumberpro.com CNAME .
 stats.dailyposter.com CNAME .
 stats.dashbit.co CNAME .
-stats.davestewart.co.uk CNAME .
 stats.davidlms.com CNAME .
 stats.dazzit.com CNAME .
 stats.deva.guru CNAME .
@@ -325,6 +325,7 @@ stats.englishadam.com CNAME .
 stats.erlef.org CNAME .
 stats.executebig.org CNAME .
 stats.fabiofranchino.com CNAME .
+stats.fantinel.dev CNAME .
 stats.farbenmeer.de CNAME .
 stats.feathercss.makerkits.co CNAME .
 stats.felipesere.com CNAME .
@@ -367,6 +368,7 @@ stats.iscc-system.org CNAME .
 stats.ivankahl.com CNAME .
 stats.jackwhiting.co.uk CNAME .
 stats.jamesevers.co.uk CNAME .
+stats.jansix.at CNAME .
 stats.jawebb.se CNAME .
 stats.jdheyburn.co.uk CNAME .
 stats.jerickson.net CNAME .
@@ -457,6 +459,7 @@ stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
 stats.portabella.io CNAME .
+stats.poweringpastcoal.org CNAME .
 stats.pri.org CNAME .
 stats.pricewell.io CNAME .
 stats.print.work CNAME .
@@ -514,6 +517,7 @@ stats.therenegadecoder.com CNAME .
 stats.thomasvitale.com CNAME .
 stats.threadstart.io CNAME .
 stats.timmyomahony.com CNAME .
+stats.tkg.codes CNAME .
 stats.toiletmap.org.uk CNAME .
 stats.tomorrowacademy.org CNAME .
 stats.torontohhs.org CNAME .

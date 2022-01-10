@@ -10,7 +10,6 @@
 | ---- | ---- |
 | a-api.skz.dev | custom.plausible.io |
 | a.aawp.de | custom.plausible.io |
-| a.affcoups.com | custom.plausible.io |
 | a.artistasdigitais.net | custom.plausible.io |
 | a.easyazon.com | custom.plausible.io |
 | a.fdmedia.io | custom.plausible.io |
@@ -276,9 +275,11 @@
 | stats.breathly.app | custom.plausible.io |
 | stats.briskoda.net | custom.plausible.io |
 | stats.broddin.be | custom.plausible.io |
+| stats.brousse.info | custom.plausible.io |
 | stats.buildingtheelite.com | custom.plausible.io |
 | stats.bungeefit.co.uk | custom.plausible.io |
 | stats.byma.com.br | custom.plausible.io |
+| stats.cable.tech | custom.plausible.io |
 | stats.carrot2.org | custom.plausible.io |
 | stats.carrotsearch.com | custom.plausible.io |
 | stats.cascadeinstitute.org | custom.plausible.io |
@@ -305,7 +306,6 @@
 | stats.curbnumberpro.com | custom.plausible.io |
 | stats.dailyposter.com | custom.plausible.io |
 | stats.dashbit.co | custom.plausible.io |
-| stats.davestewart.co.uk | custom.plausible.io |
 | stats.davidlms.com | custom.plausible.io |
 | stats.dazzit.com | custom.plausible.io |
 | stats.deva.guru | custom.plausible.io |
@@ -330,6 +330,7 @@
 | stats.erlef.org | custom.plausible.io |
 | stats.executebig.org | custom.plausible.io |
 | stats.fabiofranchino.com | custom.plausible.io |
+| stats.fantinel.dev | custom.plausible.io |
 | stats.farbenmeer.de | custom.plausible.io |
 | stats.feathercss.makerkits.co | custom.plausible.io |
 | stats.felipesere.com | custom.plausible.io |
@@ -372,6 +373,7 @@
 | stats.ivankahl.com | custom.plausible.io |
 | stats.jackwhiting.co.uk | custom.plausible.io |
 | stats.jamesevers.co.uk | custom.plausible.io |
+| stats.jansix.at | custom.plausible.io |
 | stats.jawebb.se | custom.plausible.io |
 | stats.jdheyburn.co.uk | custom.plausible.io |
 | stats.jerickson.net | custom.plausible.io |
@@ -462,6 +464,7 @@
 | stats.pointflottant.com | custom.plausible.io |
 | stats.polekatfitness.com | custom.plausible.io |
 | stats.portabella.io | custom.plausible.io |
+| stats.poweringpastcoal.org | custom.plausible.io |
 | stats.pri.org | custom.plausible.io |
 | stats.pricewell.io | custom.plausible.io |
 | stats.print.work | custom.plausible.io |
@@ -519,6 +522,7 @@
 | stats.thomasvitale.com | custom.plausible.io |
 | stats.threadstart.io | custom.plausible.io |
 | stats.timmyomahony.com | custom.plausible.io |
+| stats.tkg.codes | custom.plausible.io |
 | stats.toiletmap.org.uk | custom.plausible.io |
 | stats.tomorrowacademy.org | custom.plausible.io |
 | stats.torontohhs.org | custom.plausible.io |
