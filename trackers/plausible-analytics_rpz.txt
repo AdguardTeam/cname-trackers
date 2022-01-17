@@ -29,7 +29,9 @@ analytics.dogecoin.gg CNAME .
 analytics.explained-from-first-principles.com CNAME .
 analytics.fatalparadox.com CNAME .
 analytics.filiotech.com CNAME .
+analytics.forgetwp.com CNAME .
 analytics.gamedatacrunch.com CNAME .
+analytics.givealittle.co CNAME .
 analytics.hiome.com CNAME .
 analytics.itsnoahevans.co.uk CNAME .
 analytics.lapiazzetta-horsham.com CNAME .
@@ -38,6 +40,7 @@ analytics.mambaui.com CNAME .
 analytics.mc500.info CNAME .
 analytics.mhpod.gov.au CNAME .
 analytics.mondoweiss.net CNAME .
+analytics.mycater.fr CNAME .
 analytics.naturequant.com CNAME .
 analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
@@ -101,9 +104,11 @@ kon.mediaplatform.group CNAME .
 ks.walkq.com CNAME .
 l2k30jsa.theochu.com CNAME .
 loggychops.paulsmith.site CNAME .
+logs.ptable.com CNAME .
 meter.bref.sh CNAME .
 miernik.technologiewdomu.pl CNAME .
 momotaro.craigmod.com CNAME .
+munnin.hicsuntdra.co CNAME .
 noushe.zevvle.com CNAME .
 numbers.triplejack.com CNAME .
 p.barrera.io CNAME .
@@ -127,6 +132,7 @@ pl.1feed.app CNAME .
 pl.astro.fi CNAME .
 pl.codetheweb.blog CNAME .
 pl.ethan.link CNAME .
+pl.getfamealy.com CNAME .
 pl.kanbanmail.app CNAME .
 pl.maya-astro.fi CNAME .
 pl.terraintinker.com CNAME .
@@ -149,6 +155,7 @@ plausible.banovo.de CNAME .
 plausible.bearer.sh CNAME .
 plausible.benscarblog.com CNAME .
 plausible.bernheisel.com CNAME .
+plausible.bostad.shop CNAME .
 plausible.conveyal.com CNAME .
 plausible.corbettbarr.com CNAME .
 plausible.deploymentfromscratch.com CNAME .
@@ -300,11 +307,13 @@ stats.cremashop.se CNAME .
 stats.crewebo.de CNAME .
 stats.curbnumberpro.com CNAME .
 stats.dailyposter.com CNAME .
+stats.danielwolf.photography CNAME .
 stats.dashbit.co CNAME .
 stats.davidlms.com CNAME .
 stats.dazzit.com CNAME .
 stats.deva.guru CNAME .
 stats.digiexpert.store CNAME .
+stats.divemap.uk CNAME .
 stats.divyanshu013.dev CNAME .
 stats.domain.garden CNAME .
 stats.dominikmayer.com CNAME .
@@ -331,6 +340,7 @@ stats.feathercss.makerkits.co CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
 stats.flightsphere.com CNAME .
+stats.formcrafts.com CNAME .
 stats.frenlo.com CNAME .
 stats.fruechtl.me CNAME .
 stats.fullofwishes.co.uk CNAME .
@@ -497,6 +507,7 @@ stats.ski.com CNAME .
 stats.sommselect.com CNAME .
 stats.songbox.rocks CNAME .
 stats.southpetherwin.com CNAME .
+stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
 stats.sqlteam.com CNAME .
 stats.stackingthebricks.com CNAME .
@@ -569,5 +580,6 @@ visits.quitsocialmedia.club CNAME .
 visits.tommi.space CNAME .
 vole.amplenote.com CNAME .
 we-love-privacy.humane.club CNAME .
+www2.azimuthpsych.com CNAME .
 xyz.bestool.pl CNAME .
 yolo.phpliveregex.com CNAME .

@@ -6,6 +6,7 @@
 ||tk.abt.com^
 ||tk.airfrance.ae^
 ||tk.airfrance.at^
+||tk.airfrance.be^
 ||tk.airfrance.ca^
 ||tk.airfrance.ch^
 ||tk.airfrance.co.uk^

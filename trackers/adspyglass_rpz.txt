@@ -112,11 +112,13 @@ digiadzone.com CNAME .
 digital.goldvertise.com CNAME .
 dl.4kporn.xxx CNAME .
 dl.crazyporn.xxx CNAME .
+dl.hoes.tube CNAME .
 dl.love4porn.com CNAME .
 dontbeabadboy.javboys.com CNAME .
 ebd.cda-hd.cc CNAME .
 eco.blendxxx.com CNAME .
 edge1-us-priority.akamacdn.com CNAME .
+erfe.sexydev.dev CNAME .
 est.pornleech.ch CNAME .
 findcdn.net CNAME .
 forads.pro CNAME .
@@ -205,6 +207,7 @@ tpl.factporn.com CNAME .
 trickyneotits.com CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
+uk.boffinsoft.com CNAME .
 uthbxvz.bestzba.com CNAME .
 v.pornomixfree.com CNAME .
 vd.7vid.net CNAME .

@@ -33,6 +33,7 @@
 ||a8.ssl.aispr.jp^
 ||a8.tone.ne.jp^
 ||a8.tour-sys.com^
+||a8.tscubic.com^
 ||a8.vege-pet.jp^
 ||a8.virus-gekitai.com^
 ||a8.web-hikari.net^
@@ -56,6 +57,7 @@
 ||a8clk.cv.warau.jp^
 ||a8clk.dospara.co.jp^
 ||a8clk.francfranc.com^
+||a8clk.grirose.jp^
 ||a8clk.hurugicom.jp^
 ||a8clk.justy-consul.com^
 ||a8clk.kaitori-beerecords.jp^
@@ -107,6 +109,7 @@
 ||a8cv.direct-teleshop.jp^
 ||a8cv.english-bootcamp.com^
 ||a8cv.entry.renet.jp^
+||a8cv.frecious.jp^
 ||a8cv.greed-island.ne.jp^
 ||a8cv.housingbazar.jp^
 ||a8cv.iikyujin.net^

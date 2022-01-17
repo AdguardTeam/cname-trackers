@@ -31,6 +31,7 @@ bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
 c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
 ch0p.darty.com CNAME .
@@ -122,7 +123,6 @@ ef.futuroscope.mobi CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 eule1.pmu.fr CNAME .
 eulerian.astro-way.com CNAME .
@@ -239,6 +239,7 @@ ojm4.palladiumhotelgroup.com CNAME .
 oor.ooreka.fr CNAME .
 oph7o.montecarlosbm-corporate.com CNAME .
 oqr4.destinia.in CNAME .
+p.pmu.fr CNAME .
 p8s.oxbowshop.com CNAME .
 pbox.no.photobox.com CNAME .
 pbox.photobox.be CNAME .

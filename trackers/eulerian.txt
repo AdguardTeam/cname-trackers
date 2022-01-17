@@ -31,6 +31,7 @@
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
 ||c0i.ckoi.com^
+||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||cc.conforama.es^
 ||ch0p.darty.com^
@@ -122,7 +123,6 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
-||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||eule1.pmu.fr^
 ||eulerian.astro-way.com^
@@ -239,6 +239,7 @@
 ||oor.ooreka.fr^
 ||oph7o.montecarlosbm-corporate.com^
 ||oqr4.destinia.in^
+||p.pmu.fr^
 ||p8s.oxbowshop.com^
 ||pbox.no.photobox.com^
 ||pbox.photobox.be^

@@ -180,6 +180,7 @@
 | ablinks.news.amaro.com | thirdparty.bnc.lt |
 | ablinks.news.learnwithhomer.com | thirdparty.bnc.lt |
 | ablinks.picsart.com | thirdparty.bnc.lt |
+| ablinks.picsart.com.cdn.cloudflare.net | thirdparty.bnc.lt |
 | ablinksemail.wirexapp.com | thirdparty.bnc.lt |
 | ablinksuni.a.grubhub.com | thirdparty.bnc.lt |
 | ablinksuni.a.seamless.com | thirdparty.bnc.lt |
@@ -316,6 +317,7 @@
 | email.social.f5.com | thirdparty.bnc.lt |
 | email.strava.com | thirdparty.bnc.lt |
 | email.thislife.com | thirdparty.bnc.lt |
+| email.wingocard.com | thirdparty.bnc.lt |
 | email.wirexapp.com | thirdparty.bnc.lt |
 | email1.strava.com | thirdparty.bnc.lt |
 | emails.verishop.com | thirdparty.bnc.lt |
@@ -345,6 +347,7 @@
 | lb.marketing01.email-allstate.com | thirdparty.bnc.lt |
 | lb.quote01.email-allstate.com | thirdparty.bnc.lt |
 | lb.service01.email-allstate.com | thirdparty.bnc.lt |
+| levi247.levi.com | thirdparty.bnc.lt |
 | link.admin.kodakmoments.com | thirdparty.bnc.lt |
 | link.afterpay.com | thirdparty.bnc.lt |
 | link.alerts.busuu.app | thirdparty.bnc.lt |
@@ -504,6 +507,7 @@
 | pxsg.pandora.com | thirdparty.bnc.lt |
 | qa-brc.emails.rakuten.com | thirdparty.bnc.lt |
 | qbse.intuit.com | thirdparty.bnc.lt |
+| r.blidz.com | thirdparty.bnc.lt |
 | r.blidzdeal.com | thirdparty.bnc.lt |
 | read.medium.com | thirdparty.bnc.lt |
 | sendgridlinks.neuroflowsolution.com | thirdparty.bnc.lt |

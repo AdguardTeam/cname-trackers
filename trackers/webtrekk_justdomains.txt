@@ -81,6 +81,7 @@ di.ifolor.ch
 di.ifolor.de
 di.ifolor.fi
 di.ifolor.net
+dnsbl.test.wbtrkk.teufel.de
 ed.emp-online.ch
 ed.emp-online.com
 ed.emp-online.es
@@ -193,6 +194,7 @@ web.info.yeppon.it
 web.mail.proximaati.com
 web.mapp.ilgiardinodeilibri.it
 web.mapp.skousen.dk
+web.mapp.whiteaway.com
 web.marketing.elbenwald.de
 web.mytoys.de
 web.news.creedfragrances.co.uk

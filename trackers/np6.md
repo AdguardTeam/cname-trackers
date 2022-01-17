@@ -186,6 +186,7 @@
 | tr.lesmarques.envie-de-bien-manger.com | tracking.bp01.net |
 | tr.louvre-boites.com | tracking.bp01.net |
 | tr.lvmhappening.lvmh.fr | tracking.bp01.net |
+| tr.mail.banque-casino.fr | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
 | tr.mail.floa.fr | tracking.bp01.net |
 | tr.mail.koregraf.com | tracking.bp01.net |
@@ -208,6 +209,7 @@
 | tr.mp.aconclue-business.fr | tracking.bp01.net |
 | tr.mp.aconclue-pro.com | tracking.bp01.net |
 | tr.n.info.cdgp.fr | tracking.bp01.net |
+| tr.n.info.sygmabanque.fr | tracking.bp01.net |
 | tr.nespresso.com | tracking.bp01.net |
 | tr.news-chocolat.com | tracking.bp01.net |
 | tr.news-companeo.fr | tracking.bp01.net |
@@ -326,6 +328,7 @@
 | tr.satisfaction.groupe-pv-cp.com | tracking.bp01.net |
 | tr.scienceshumaines.pro | tracking.bp01.net |
 | tr.secteurentreprises.harmonie-mutuelle.fr | tracking.bp01.net |
+| tr.serviceclient.gazservicerapide.fr | tracking.bp01.net |
 | tr.serviceclient.somgaz.fr | tracking.bp01.net |
 | tr.serviceclient.younited-credit.com | tracking.bp01.net |
 | tr.services.alinea.com | tracking.bp01.net |
@@ -352,6 +355,7 @@
 | tr.welcome.easyvoyage.com | tracking.bp01.net |
 | tr.welcome.lexpress.fr | tracking.bp01.net |
 | tr.welcome.moncoupdepouce.com | tracking.bp01.net |
+| tr.welcome.odalys-vacances.com | tracking.bp01.net |
 | tr.welcome.thelist-emirates.fr | tracking.bp01.net |
 | tr.welcome.vipmag.fr | tracking.bp01.net |
 | tr1.citroen-ipsos.com | tracking.bp01.net |

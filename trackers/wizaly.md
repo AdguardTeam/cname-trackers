@@ -66,6 +66,7 @@
 | tk.transavia.com | tk_transavia_com.wizaly.com |
 | tk.airfrance.ae | tkairfrance.wizaly.com |
 | tk.airfrance.at | tkairfrance.wizaly.com |
+| tk.airfrance.be | tkairfrance.wizaly.com |
 | tk.airfrance.ca | tkairfrance.wizaly.com |
 | tk.airfrance.ch | tkairfrance.wizaly.com |
 | tk.airfrance.co.uk | tkairfrance.wizaly.com |

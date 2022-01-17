@@ -6,6 +6,7 @@
 tk.abt.com CNAME .
 tk.airfrance.ae CNAME .
 tk.airfrance.at CNAME .
+tk.airfrance.be CNAME .
 tk.airfrance.ca CNAME .
 tk.airfrance.ch CNAME .
 tk.airfrance.co.uk CNAME .

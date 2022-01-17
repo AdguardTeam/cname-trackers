@@ -181,6 +181,7 @@ tr.leads.direct CNAME .
 tr.lesmarques.envie-de-bien-manger.com CNAME .
 tr.louvre-boites.com CNAME .
 tr.lvmhappening.lvmh.fr CNAME .
+tr.mail.banque-casino.fr CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
 tr.mail.floa.fr CNAME .
 tr.mail.koregraf.com CNAME .
@@ -203,6 +204,7 @@ tr.mondevis-pro.com CNAME .
 tr.mp.aconclue-business.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
 tr.n.info.cdgp.fr CNAME .
+tr.n.info.sygmabanque.fr CNAME .
 tr.nespresso.com CNAME .
 tr.news-chocolat.com CNAME .
 tr.news-companeo.fr CNAME .
@@ -321,6 +323,7 @@ tr.satisfaction.alinea.com CNAME .
 tr.satisfaction.groupe-pv-cp.com CNAME .
 tr.scienceshumaines.pro CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
+tr.serviceclient.gazservicerapide.fr CNAME .
 tr.serviceclient.somgaz.fr CNAME .
 tr.serviceclient.younited-credit.com CNAME .
 tr.services.alinea.com CNAME .
@@ -347,6 +350,7 @@ tr.welcome.easyvoyage.co.uk CNAME .
 tr.welcome.easyvoyage.com CNAME .
 tr.welcome.lexpress.fr CNAME .
 tr.welcome.moncoupdepouce.com CNAME .
+tr.welcome.odalys-vacances.com CNAME .
 tr.welcome.thelist-emirates.fr CNAME .
 tr.welcome.vipmag.fr CNAME .
 tr1.citroen-ipsos.com CNAME .

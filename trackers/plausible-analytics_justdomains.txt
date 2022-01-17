@@ -29,7 +29,9 @@ analytics.dogecoin.gg
 analytics.explained-from-first-principles.com
 analytics.fatalparadox.com
 analytics.filiotech.com
+analytics.forgetwp.com
 analytics.gamedatacrunch.com
+analytics.givealittle.co
 analytics.hiome.com
 analytics.itsnoahevans.co.uk
 analytics.lapiazzetta-horsham.com
@@ -38,6 +40,7 @@ analytics.mambaui.com
 analytics.mc500.info
 analytics.mhpod.gov.au
 analytics.mondoweiss.net
+analytics.mycater.fr
 analytics.naturequant.com
 analytics.ramiyer.io
 analytics.ramiyer.me
@@ -101,9 +104,11 @@ kon.mediaplatform.group
 ks.walkq.com
 l2k30jsa.theochu.com
 loggychops.paulsmith.site
+logs.ptable.com
 meter.bref.sh
 miernik.technologiewdomu.pl
 momotaro.craigmod.com
+munnin.hicsuntdra.co
 noushe.zevvle.com
 numbers.triplejack.com
 p.barrera.io
@@ -127,6 +132,7 @@ pl.1feed.app
 pl.astro.fi
 pl.codetheweb.blog
 pl.ethan.link
+pl.getfamealy.com
 pl.kanbanmail.app
 pl.maya-astro.fi
 pl.terraintinker.com
@@ -149,6 +155,7 @@ plausible.banovo.de
 plausible.bearer.sh
 plausible.benscarblog.com
 plausible.bernheisel.com
+plausible.bostad.shop
 plausible.conveyal.com
 plausible.corbettbarr.com
 plausible.deploymentfromscratch.com
@@ -300,11 +307,13 @@ stats.cremashop.se
 stats.crewebo.de
 stats.curbnumberpro.com
 stats.dailyposter.com
+stats.danielwolf.photography
 stats.dashbit.co
 stats.davidlms.com
 stats.dazzit.com
 stats.deva.guru
 stats.digiexpert.store
+stats.divemap.uk
 stats.divyanshu013.dev
 stats.domain.garden
 stats.dominikmayer.com
@@ -331,6 +340,7 @@ stats.feathercss.makerkits.co
 stats.felipesere.com
 stats.femtobill.com
 stats.flightsphere.com
+stats.formcrafts.com
 stats.frenlo.com
 stats.fruechtl.me
 stats.fullofwishes.co.uk
@@ -497,6 +507,7 @@ stats.ski.com
 stats.sommselect.com
 stats.songbox.rocks
 stats.southpetherwin.com
+stats.southswindon-pc.gov.uk
 stats.sparkloop.app
 stats.sqlteam.com
 stats.stackingthebricks.com
@@ -569,5 +580,6 @@ visits.quitsocialmedia.club
 visits.tommi.space
 vole.amplenote.com
 we-love-privacy.humane.club
+www2.azimuthpsych.com
 xyz.bestool.pl
 yolo.phpliveregex.com

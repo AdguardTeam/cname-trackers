@@ -38,6 +38,7 @@
     * 215973748390194.wt-eu02.net
     * 243341177383246.wt-eu02.net
     * 261826549347986.wt-eu02.net
+    * 266905402333512.wt-eu02.net
     * 285545256993116.wt-eu02.net
     * 286813086616891.wt-eu02.net
     * 292595354576025.wt-eu02.net
@@ -156,6 +157,7 @@
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | web.info.yeppon.it | 243341177383246.wt-eu02.net |
 | mit.postbank.de | 261826549347986.wt-eu02.net |
+| web.mapp.whiteaway.com | 266905402333512.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
 | data.mapp.com | 292595354576025.wt-eu02.net |
@@ -222,6 +224,7 @@
 | mit.researchlog.dbresearch.de | 965607891904117.wt-eu02.net |
 | abc.bayer04.de | 969665527401678.wt-eu02.net |
 | census.misterspex.co.uk | 972067760041897.wt-eu02.net |
+| dnsbl.test.wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
 | wbtrkk.teufelaudio.pl | 997311968670029.wt-eu02.net |

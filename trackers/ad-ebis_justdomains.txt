@@ -32,6 +32,7 @@ adebis.harutaka.jp
 adebis.irobot-jp.com
 adebis.juku.st
 adebis.kaonavi.jp
+adebis.kirin.co.jp
 adebis.kose.co.jp
 adebis.koutsujiko.jp
 adebis.leben-style.jp

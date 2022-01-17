@@ -40,6 +40,7 @@
     * 3714e864-qge7cq9v.cname.ebis.ne.jp
     * 37fe71c4-kfga9uze.cname.ebis.ne.jp
     * 3a3d0355-kkto8pe9.cname.ebis.ne.jp
+    * 3ba7c801-gwbfzy7a.cname.ebis.ne.jp
     * 3c39ea6e-px3cltrd.cname.ebis.ne.jp
     * 3c40b540-dfevquvl.cname.ebis.ne.jp
     * 3fcda11b-dmcr4rty.cname.ebis.ne.jp
@@ -195,6 +196,7 @@
 | msr.p-antiaging.com | 3714e864-qge7cq9v.cname.ebis.ne.jp |
 | eb.bewithyou.jp | 37fe71c4-kfga9uze.cname.ebis.ne.jp |
 | ebis.seibu-k.co.jp | 3a3d0355-kkto8pe9.cname.ebis.ne.jp |
+| adebis.kirin.co.jp | 3ba7c801-gwbfzy7a.cname.ebis.ne.jp |
 | ebis202001.joyfit.jp | 3c39ea6e-px3cltrd.cname.ebis.ne.jp |
 | ebis.rabo.cat | 3c40b540-dfevquvl.cname.ebis.ne.jp |
 | digital.anicom-sompo.co.jp | 3fcda11b-dmcr4rty.cname.ebis.ne.jp |

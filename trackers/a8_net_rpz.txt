@@ -33,6 +33,7 @@ a8.shopserve.jp CNAME .
 a8.ssl.aispr.jp CNAME .
 a8.tone.ne.jp CNAME .
 a8.tour-sys.com CNAME .
+a8.tscubic.com CNAME .
 a8.vege-pet.jp CNAME .
 a8.virus-gekitai.com CNAME .
 a8.web-hikari.net CNAME .
@@ -56,6 +57,7 @@ a8clk.cv.mensfashion.cc CNAME .
 a8clk.cv.warau.jp CNAME .
 a8clk.dospara.co.jp CNAME .
 a8clk.francfranc.com CNAME .
+a8clk.grirose.jp CNAME .
 a8clk.hurugicom.jp CNAME .
 a8clk.justy-consul.com CNAME .
 a8clk.kaitori-beerecords.jp CNAME .
@@ -107,6 +109,7 @@ a8cv.coopnet.or.jp CNAME .
 a8cv.direct-teleshop.jp CNAME .
 a8cv.english-bootcamp.com CNAME .
 a8cv.entry.renet.jp CNAME .
+a8cv.frecious.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
 a8cv.housingbazar.jp CNAME .
 a8cv.iikyujin.net CNAME .

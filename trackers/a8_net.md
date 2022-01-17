@@ -39,6 +39,7 @@
 | a8.ssl.aispr.jp | trck.a8.net |
 | a8.tone.ne.jp | trck.a8.net |
 | a8.tour-sys.com | trck.a8.net |
+| a8.tscubic.com | trck.a8.net |
 | a8.vege-pet.jp | trck.a8.net |
 | a8.virus-gekitai.com | trck.a8.net |
 | a8.web-hikari.net | trck.a8.net |
@@ -62,6 +63,7 @@
 | a8clk.cv.warau.jp | trck.a8.net |
 | a8clk.dospara.co.jp | trck.a8.net |
 | a8clk.francfranc.com | trck.a8.net |
+| a8clk.grirose.jp | trck.a8.net |
 | a8clk.hurugicom.jp | trck.a8.net |
 | a8clk.justy-consul.com | trck.a8.net |
 | a8clk.kaitori-beerecords.jp | trck.a8.net |
@@ -113,6 +115,7 @@
 | a8cv.direct-teleshop.jp | trck.a8.net |
 | a8cv.english-bootcamp.com | trck.a8.net |
 | a8cv.entry.renet.jp | trck.a8.net |
+| a8cv.frecious.jp | trck.a8.net |
 | a8cv.greed-island.ne.jp | trck.a8.net |
 | a8cv.housingbazar.jp | trck.a8.net |
 | a8cv.iikyujin.net | trck.a8.net |

@@ -32,6 +32,7 @@ adebis.harutaka.jp CNAME .
 adebis.irobot-jp.com CNAME .
 adebis.juku.st CNAME .
 adebis.kaonavi.jp CNAME .
+adebis.kirin.co.jp CNAME .
 adebis.kose.co.jp CNAME .
 adebis.koutsujiko.jp CNAME .
 adebis.leben-style.jp CNAME .

@@ -170,6 +170,7 @@ ablinks.marketing.numi.com
 ablinks.news.amaro.com
 ablinks.news.learnwithhomer.com
 ablinks.picsart.com
+ablinks.picsart.com.cdn.cloudflare.net
 ablinksemail.wirexapp.com
 ablinksuni.a.grubhub.com
 ablinksuni.a.seamless.com
@@ -309,6 +310,7 @@ email.pray.com
 email.social.f5.com
 email.strava.com
 email.thislife.com
+email.wingocard.com
 email.wirexapp.com
 email1.strava.com
 emails.verishop.com
@@ -338,6 +340,7 @@ lb.billing01.email-allstate.com
 lb.marketing01.email-allstate.com
 lb.quote01.email-allstate.com
 lb.service01.email-allstate.com
+levi247.levi.com
 link.admin.kodakmoments.com
 link.afterpay.com
 link.alerts.busuu.app
@@ -497,6 +500,7 @@ px.pandora.com
 pxsg.pandora.com
 qa-brc.emails.rakuten.com
 qbse.intuit.com
+r.blidz.com
 r.blidzdeal.com
 read.medium.com
 sendgridlinks.neuroflowsolution.com

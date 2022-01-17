@@ -181,6 +181,7 @@ tr.leads.direct
 tr.lesmarques.envie-de-bien-manger.com
 tr.louvre-boites.com
 tr.lvmhappening.lvmh.fr
+tr.mail.banque-casino.fr
 tr.mail.enviedebienmanger.fr
 tr.mail.floa.fr
 tr.mail.koregraf.com
@@ -203,6 +204,7 @@ tr.mondevis-pro.com
 tr.mp.aconclue-business.fr
 tr.mp.aconclue-pro.com
 tr.n.info.cdgp.fr
+tr.n.info.sygmabanque.fr
 tr.nespresso.com
 tr.news-chocolat.com
 tr.news-companeo.fr
@@ -321,6 +323,7 @@ tr.satisfaction.alinea.com
 tr.satisfaction.groupe-pv-cp.com
 tr.scienceshumaines.pro
 tr.secteurentreprises.harmonie-mutuelle.fr
+tr.serviceclient.gazservicerapide.fr
 tr.serviceclient.somgaz.fr
 tr.serviceclient.younited-credit.com
 tr.services.alinea.com
@@ -347,6 +350,7 @@ tr.welcome.easyvoyage.co.uk
 tr.welcome.easyvoyage.com
 tr.welcome.lexpress.fr
 tr.welcome.moncoupdepouce.com
+tr.welcome.odalys-vacances.com
 tr.welcome.thelist-emirates.fr
 tr.welcome.vipmag.fr
 tr1.citroen-ipsos.com

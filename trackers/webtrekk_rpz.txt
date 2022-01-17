@@ -81,6 +81,7 @@ di.ifolor.ch CNAME .
 di.ifolor.de CNAME .
 di.ifolor.fi CNAME .
 di.ifolor.net CNAME .
+dnsbl.test.wbtrkk.teufel.de CNAME .
 ed.emp-online.ch CNAME .
 ed.emp-online.com CNAME .
 ed.emp-online.es CNAME .
@@ -193,6 +194,7 @@ web.info.yeppon.it CNAME .
 web.mail.proximaati.com CNAME .
 web.mapp.ilgiardinodeilibri.it CNAME .
 web.mapp.skousen.dk CNAME .
+web.mapp.whiteaway.com CNAME .
 web.marketing.elbenwald.de CNAME .
 web.mytoys.de CNAME .
 web.news.creedfragrances.co.uk CNAME .

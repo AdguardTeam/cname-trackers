@@ -170,6 +170,7 @@ ablinks.marketing.numi.com CNAME .
 ablinks.news.amaro.com CNAME .
 ablinks.news.learnwithhomer.com CNAME .
 ablinks.picsart.com CNAME .
+ablinks.picsart.com.cdn.cloudflare.net CNAME .
 ablinksemail.wirexapp.com CNAME .
 ablinksuni.a.grubhub.com CNAME .
 ablinksuni.a.seamless.com CNAME .
@@ -309,6 +310,7 @@ email.pray.com CNAME .
 email.social.f5.com CNAME .
 email.strava.com CNAME .
 email.thislife.com CNAME .
+email.wingocard.com CNAME .
 email.wirexapp.com CNAME .
 email1.strava.com CNAME .
 emails.verishop.com CNAME .
@@ -338,6 +340,7 @@ lb.billing01.email-allstate.com CNAME .
 lb.marketing01.email-allstate.com CNAME .
 lb.quote01.email-allstate.com CNAME .
 lb.service01.email-allstate.com CNAME .
+levi247.levi.com CNAME .
 link.admin.kodakmoments.com CNAME .
 link.afterpay.com CNAME .
 link.alerts.busuu.app CNAME .
@@ -497,6 +500,7 @@ px.pandora.com CNAME .
 pxsg.pandora.com CNAME .
 qa-brc.emails.rakuten.com CNAME .
 qbse.intuit.com CNAME .
+r.blidz.com CNAME .
 r.blidzdeal.com CNAME .
 read.medium.com CNAME .
 sendgridlinks.neuroflowsolution.com CNAME .
