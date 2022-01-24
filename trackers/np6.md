@@ -11,6 +11,7 @@
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | sms.gestion.cetelem.fr | tracking.bp01.net |
+| t8.mailperformance.com | tracking.bp01.net |
 | tr.3ou4xcb.cetelem.fr | tracking.bp01.net |
 | tr.abo.cotemaison.fr | tracking.bp01.net |
 | tr.actu.bricodepot.com | tracking.bp01.net |
@@ -175,6 +176,7 @@
 | tr.inspiration.culture-data.fr | tracking.bp01.net |
 | tr.interviews-mediametrie.fr | tracking.bp01.net |
 | tr.invitation-mesdessous.fr | tracking.bp01.net |
+| tr.italia.plimsoll.it | tracking.bp01.net |
 | tr.jesuis.enformedelotus.com | tracking.bp01.net |
 | tr.jevoteenligne.fr | tracking.bp01.net |
 | tr.jkyg.espmp-cufr.net | tracking.bp01.net |
@@ -238,6 +240,7 @@
 | tr.news.easyvoyage.de | tracking.bp01.net |
 | tr.news.economic-studies.fr | tracking.bp01.net |
 | tr.news.editions-lva.fr | tracking.bp01.net |
+| tr.news.enkiapp.io | tracking.bp01.net |
 | tr.news.entreprise-pm.com | tracking.bp01.net |
 | tr.news.exclu.fr | tracking.bp01.net |
 | tr.news.geantcasino.fr | tracking.bp01.net |
@@ -257,6 +260,7 @@
 | tr.news.smartdealstransavia-fr.com | tracking.bp01.net |
 | tr.news.sport2000.fr | tracking.bp01.net |
 | tr.news.thelist-emirates.fr | tracking.bp01.net |
+| tr.news.tiptel.fr | tracking.bp01.net |
 | tr.news.toocampmail.com | tracking.bp01.net |
 | tr.news.vip-diary.com | tracking.bp01.net |
 | tr.news.vip-mag.co.uk | tracking.bp01.net |
@@ -294,6 +298,7 @@
 | tr.notification.norrsken.fr | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |
 | tr.observatoire.musee-orsay.fr | tracking.bp01.net |
+| tr.offer-companeo.co.uk | tracking.bp01.net |
 | tr.offerte.migliorifornitori.it | tracking.bp01.net |
 | tr.offre-companeo.com | tracking.bp01.net |
 | tr.offres-professionnelles.fr | tracking.bp01.net |
@@ -326,6 +331,7 @@
 | tr.route-solutiondata.fr | tracking.bp01.net |
 | tr.satisfaction.alinea.com | tracking.bp01.net |
 | tr.satisfaction.groupe-pv-cp.com | tracking.bp01.net |
+| tr.scienceshumaines.info | tracking.bp01.net |
 | tr.scienceshumaines.pro | tracking.bp01.net |
 | tr.secteurentreprises.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.serviceclient.gazservicerapide.fr | tracking.bp01.net |
@@ -340,6 +346,8 @@
 | tr.solution.uneo.fr | tracking.bp01.net |
 | tr.souscription.banque-casino.fr | tracking.bp01.net |
 | tr.souscription.floa.fr | tracking.bp01.net |
+| tr.spain.plimsoll.es | tracking.bp01.net |
+| tr.strategie.gouv.fr | tracking.bp01.net |
 | tr.toner-service.fr | tracking.bp01.net |
 | tr.toner-services.fr | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |
@@ -351,6 +359,7 @@
 | tr.votrealarme.securitasdirect.fr | tracking.bp01.net |
 | tr.vous.hellobank.fr | tracking.bp01.net |
 | tr.welcome.easyviaggio.com | tracking.bp01.net |
+| tr.welcome.easyviajar.com | tracking.bp01.net |
 | tr.welcome.easyvoyage.co.uk | tracking.bp01.net |
 | tr.welcome.easyvoyage.com | tracking.bp01.net |
 | tr.welcome.lexpress.fr | tracking.bp01.net |

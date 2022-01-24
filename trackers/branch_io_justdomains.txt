@@ -206,6 +206,7 @@ br.ac.orbitz.com
 br.ac.travelocity.com
 br.backmarket.fr
 br.email.lifesum.com
+br.links.kodakmoments.com
 br.potato1.influitive.com
 branch-consumer.hipages.com.au
 branch-tradie.hipages.com.au
@@ -493,6 +494,7 @@ mail.theknot.com
 mandrillapp.zola.com
 mlinks.fluz.app
 mx.carfax.com
+nextcname.getblueshift.com
 notice.hoopladigital.com
 notify.pray.com
 pint-dev-branch.airship.com

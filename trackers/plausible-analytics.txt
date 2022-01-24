@@ -6,6 +6,7 @@
 ||a-api.skz.dev^
 ||a.aawp.de^
 ||a.artistasdigitais.net^
+||a.ctd.ai^
 ||a.easyazon.com^
 ||a.fdmedia.io^
 ||a.getaawp.com^
@@ -77,18 +78,22 @@
 ||channelwatcher.panda.tech^
 ||cheese.guac.live^
 ||churro.noteapps.info^
+||connect.adkhifi.com^
 ||connect.astrobotanicals.com^
+||connect.ftpresents.com^
 ||counter.proxycrawl.com^
 ||counter.subtitlebee.com^
 ||datum.appfleet.com^
 ||dragon.moneycoach.io^
 ||eliteclng.ericksonbuilt.com^
 ||external.techopian.com^
+||extramilefloorcare.ericksonbuilt.com^
 ||f8phvntohv.tpetry.me^
 ||ftllrl.fotoallerlei.com^
 ||galop.leferacheval-saintcloud.com^
 ||gullfoss.deepsource.io^
 ||hej.henriksommerfeld.se^
+||hi.koalendar.com^
 ||hi.streetworkoutlist.com^
 ||hi.victorbaudot.com^
 ||hurricane.tinybird.co^
@@ -104,10 +109,10 @@
 ||ks.walkq.com^
 ||l2k30jsa.theochu.com^
 ||loggychops.paulsmith.site^
-||logs.ptable.com^
 ||meter.bref.sh^
 ||miernik.technologiewdomu.pl^
 ||momotaro.craigmod.com^
+||momotaro.walkkumano.com^
 ||munnin.hicsuntdra.co^
 ||noushe.zevvle.com^
 ||numbers.triplejack.com^
@@ -228,6 +233,7 @@
 ||s.fission.codes^
 ||s.glimesh.tv^
 ||s.mannes.tech^
+||s.maxrozen.com^
 ||s.nerdfulmind.com^
 ||s.nslookup.io^
 ||s.schlachter.tech^
@@ -238,11 +244,13 @@
 ||server.olliehorn.com^
 ||simple.bootify.io^
 ||site-stats.supernotes.app^
+||sp.gameomatic.fr^
 ||sp.jrklein.com^
 ||sp.spaceomatic.fr^
 ||spock.dom.codes^
 ||st2.jamesdaniel.dev^
 ||stat.bill.harding.blog^
+||stat.tomdebruijn.com^
 ||statistics.csweapons.com^
 ||statistics.heatbeat.de^
 ||statistik.veronika-steiner.at^
@@ -266,6 +274,7 @@
 ||stats.bertwagner.com^
 ||stats.bestservers.co^
 ||stats.bholmes.dev^
+||stats.bimbase.nl^
 ||stats.bitpost.app^
 ||stats.blockleviton.com^
 ||stats.blog.codingmilitia.com^
@@ -273,6 +282,7 @@
 ||stats.blog.sean-wright.com^
 ||stats.blog.sublimesecurity.com^
 ||stats.bluesabre.org^
+||stats.bmxdevils.be^
 ||stats.breadtube.tv^
 ||stats.breathly.app^
 ||stats.briskoda.net^
@@ -295,6 +305,7 @@
 ||stats.code-it-studio.de^
 ||stats.codeexposed.com^
 ||stats.coditia.com^
+||stats.cohere.so^
 ||stats.colabra.app^
 ||stats.console.dev^
 ||stats.contentwritingjobs.com^
@@ -305,6 +316,7 @@
 ||stats.cremashop.eu^
 ||stats.cremashop.se^
 ||stats.crewebo.de^
+||stats.ctor.io^
 ||stats.curbnumberpro.com^
 ||stats.dailyposter.com^
 ||stats.danielwolf.photography^
@@ -352,6 +364,7 @@
 ||stats.getpickaxe.com^
 ||stats.glassmountains.co.uk^
 ||stats.glyphs.fyi^
+||stats.goldsguide.com^
 ||stats.graphql-api.com^
 ||stats.gslc.utah.edu^
 ||stats.guersanguillaume.com^
@@ -363,6 +376,7 @@
 ||stats.homestow.com^
 ||stats.hone.uk^
 ||stats.hostfactor.io^
+||stats.hpz-scharnhausen.de^
 ||stats.htmlcsstoimage.com^
 ||stats.htp.org^
 ||stats.hugoreeves.com^
@@ -420,6 +434,7 @@
 ||stats.matthogg.fyi^
 ||stats.maurer-rides.de^
 ||stats.melvingeorge.me^
+||stats.menn.blog^
 ||stats.mesenvies.fr^
 ||stats.michaell.io^
 ||stats.missionrabies.com^
@@ -428,6 +443,7 @@
 ||stats.moderncoupmake.com^
 ||stats.motion-effect.com^
 ||stats.motornation.net^
+||stats.mtsknn.fi^
 ||stats.muchbetteradventures.com^
 ||stats.mynfp.de^
 ||stats.nddmed.com^
@@ -457,6 +473,7 @@
 ||stats.patriot.win^
 ||stats.paulbutler.org^
 ||stats.paysagistes.pro^
+||stats.pebkac.io^
 ||stats.personalkollen.se^
 ||stats.phelsumagrandis.de^
 ||stats.phili.pe^
@@ -474,6 +491,7 @@
 ||stats.pricewell.io^
 ||stats.print.work^
 ||stats.profilehunt.net^
+||stats.pselookup.vrymel.com^
 ||stats.raidprotect.org^
 ||stats.rasulkireev.com^
 ||stats.readng.co^
@@ -483,8 +501,10 @@
 ||stats.remotejobs.co.uk^
 ||stats.reprage.com^
 ||stats.robhope.com^
+||stats.rocketvalidator.com^
 ||stats.ruhrfestspiele.de^
 ||stats.ruthmontenegro.com^
+||stats.savethemothers.org^
 ||stats.scailable.net^
 ||stats.scalgo.com^
 ||stats.scastiel.dev^
@@ -538,6 +558,7 @@
 ||stats.tubecalculator.co.uk^
 ||stats.twenty.so^
 ||stats.twhl.xyz^
+||stats.ubiwiz.com^
 ||stats.unox.com^
 ||stats.urbanfinn.com^
 ||stats.urlaubsverwaltung.cloud^
@@ -545,6 +566,7 @@
 ||stats.uxtools.co^
 ||stats.vanityprojects.com^
 ||stats.vdsnow.ru^
+||stats.visions.ch^
 ||stats.vngameden.com^
 ||stats.voltamediahouse.com^
 ||stats.walkiees.co.uk^
@@ -570,6 +592,7 @@
 ||tock.weg.plus^
 ||tocotronic.thomas.me^
 ||tokei.upstract.com^
+||track.pokestats.gg^
 ||track.slickinbox.com^
 ||traffic.hostedstatus.page^
 ||traffic.taktikal.is^

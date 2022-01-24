@@ -4,6 +4,7 @@
 ; wizaly.com disguised trackers
 ;
 tk.abt.com CNAME .
+tk.aircaraibes.com CNAME .
 tk.airfrance.ae CNAME .
 tk.airfrance.at CNAME .
 tk.airfrance.be CNAME .
@@ -35,6 +36,7 @@ tk.lamaisonduchocolat.com CNAME .
 tk.lcl.fr CNAME .
 tk.little-big-change.com CNAME .
 tk.lulli-sur-la-toile.com CNAME .
+tk.moveyourfit.com CNAME .
 tk.msccruises.com CNAME .
 tk.nhlottery.com CNAME .
 tk.ornikar.com CNAME .

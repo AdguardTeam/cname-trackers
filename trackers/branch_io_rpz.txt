@@ -206,6 +206,7 @@ br.ac.orbitz.com CNAME .
 br.ac.travelocity.com CNAME .
 br.backmarket.fr CNAME .
 br.email.lifesum.com CNAME .
+br.links.kodakmoments.com CNAME .
 br.potato1.influitive.com CNAME .
 branch-consumer.hipages.com.au CNAME .
 branch-tradie.hipages.com.au CNAME .
@@ -493,6 +494,7 @@ mail.theknot.com CNAME .
 mandrillapp.zola.com CNAME .
 mlinks.fluz.app CNAME .
 mx.carfax.com CNAME .
+nextcname.getblueshift.com CNAME .
 notice.hoopladigital.com CNAME .
 notify.pray.com CNAME .
 pint-dev-branch.airship.com CNAME .

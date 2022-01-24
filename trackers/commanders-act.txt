@@ -25,7 +25,6 @@
 ||data.decathlon.it^
 ||data.ouigo.com^
 ||data.ubi.com^
-||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^
 ||tag.boulanger.fr^

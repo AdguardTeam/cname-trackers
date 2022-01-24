@@ -28,12 +28,12 @@ a.emwstore.xyz CNAME .
 a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
+a.focusde.info CNAME .
 a.green-good-nice.site CNAME .
 a.hentaimotel.com CNAME .
 a.kagiti.club CNAME .
 a.katomu.club CNAME .
 a.letsjerk.to CNAME .
-a.neverbe.xyz CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornomixfree.com CNAME .
 a.pumpity.net CNAME .
@@ -120,6 +120,7 @@ eco.blendxxx.com CNAME .
 edge1-us-priority.akamacdn.com CNAME .
 erfe.sexydev.dev CNAME .
 est.pornleech.ch CNAME .
+eyedssw.javvvvvv.xyz CNAME .
 findcdn.net CNAME .
 forads.pro CNAME .
 fortran.icu CNAME .
@@ -138,11 +139,13 @@ hazicu.hothomefuck.com CNAME .
 hellothere.filefox.io CNAME .
 hq3x.com CNAME .
 hsux.com CNAME .
+i.hqvrporn.net CNAME .
 id.fc2-ppv.live CNAME .
 in.fuckhardclips.com CNAME .
 j45.webringporn.com CNAME .
 jucy.porntry.com CNAME .
 ka.kakakakaka.xyz CNAME .
+ka2.javbuzz.com CNAME .
 kliqz.com CNAME .
 lixir.wargers.org CNAME .
 load.jabx.net CNAME .
@@ -173,6 +176,7 @@ pornvideos.casa CNAME .
 pre.03porno.com CNAME .
 pre.102porno.club CNAME .
 pre.ebasos.club CNAME .
+pre.myfuck.club CNAME .
 profield.ddns.net CNAME .
 pu.teentube18.net CNAME .
 pubblicita.animeitaly.org CNAME .

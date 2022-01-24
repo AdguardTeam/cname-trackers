@@ -60,6 +60,7 @@
     * 517717528680725.wt-eu02.net
     * 524633908170120.wt-eu02.net
     * 524656123914087.wt-eu02.net
+    * 554833903189763.wt-eu02.net
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
     * 590838755166551.wt-eu02.net
@@ -116,6 +117,7 @@
     * emp01.wt-eu02.net
     * endresshauser01.wt-eu02.net
     * flaconi-at.wt-eu02.net
+    * fvw-de01.wt-eu02.net
     * gedidigital.wt-eu02.net
     * goertz-01.wt-eu02.net
     * hbbtv-track.wt-eu02.net
@@ -129,6 +131,7 @@
     * netze-bw01.wt-eu02.net
     * obi-all.wt-eu02.net
     * paydirekt-de01.wt-eu02.net
+    * prosiebensat1puls4.wt-eu02.net
     * sdkurier-de01.wt-eu02.net
     * sparda01.wt-eu02.net
     * sportscheckde01.wt-eu02.net
@@ -184,6 +187,7 @@
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | web.friends.ellaskitchen.co.uk | 524633908170120.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
+| web.s.sasrx.com | 554833903189763.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
@@ -283,6 +287,7 @@
 | w3.flatex.at | flatex-at01.webtrekk.net |
 | w3.flatex.nl | flatex-at01.webtrekk.net |
 | w3.flatex.de | flatex-de01.webtrekk.net |
+| hulpmiddel.fvw.de | fvw-de01.wt-eu02.net |
 | a.gedidigital.it | gedidigital.wt-eu02.net |
 | data.goertz.de | goertz-01.wt-eu02.net |
 | hbbtv-track.prosieben.de | hbbtv-track.wt-eu02.net |
@@ -341,6 +346,7 @@
 | ot.obi.si | obi-all.wt-eu02.net |
 | ot.obi.sk | obi-all.wt-eu02.net |
 | t.paydirekt.de | paydirekt-de01.wt-eu02.net |
+| hbbtv-track.prosiebensat1puls4.com | prosiebensat1puls4.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |
 | proditor.sparda.de | sparda01.wt-eu02.net |
 | wetr.sportscheck.at | sportscheckde01.wt-eu02.net |

@@ -62,6 +62,7 @@ a8clk.hurugicom.jp CNAME .
 a8clk.justy-consul.com CNAME .
 a8clk.kaitori-beerecords.jp CNAME .
 a8clk.kaitori-retrog.jp CNAME .
+a8clk.kaitori-yamatokukimono.jp CNAME .
 a8clk.kenkoukazoku.co.jp CNAME .
 a8clk.life.bang.co.jp CNAME .
 a8clk.lolipop.jp CNAME .
@@ -115,6 +116,7 @@ a8cv.housingbazar.jp CNAME .
 a8cv.iikyujin.net CNAME .
 a8cv.ishibashi.co.jp CNAME .
 a8cv.k-ikiiki.jp CNAME .
+a8cv.kuih.jp CNAME .
 a8cv.minana-jp.com CNAME .
 a8cv.minnano-eikaiwa.com CNAME .
 a8cv.modern-deco.jp CNAME .

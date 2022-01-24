@@ -104,6 +104,8 @@ eht.endress.com
 fiwinet.firmenwissen.com
 fiwinet.firmenwissen.de
 hbbtv-track.prosieben.de
+hbbtv-track.prosiebensat1puls4.com
+hulpmiddel.fvw.de
 mapp.ewm.co.uk
 mapp.jysk.dk
 mapp.jysk.nl
@@ -203,6 +205,7 @@ web.news.lancel.com
 web.news.piquadro.com
 web.news.thebridge.it
 web.newsletter.viviennewestwood.com
+web.s.sasrx.com
 web.x.ilpost.it
 webmet.creditreform.de
 webt.eleonto.com

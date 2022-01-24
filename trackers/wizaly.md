@@ -5,6 +5,7 @@
 * wizaly.com
     * t.wizaly.com
     * tk-abt-com.wizaly.com
+    * tk-aircaraibes-com.wizaly.com
     * tk-alexandermcqueen-com.wizaly.com
     * tk-apprentis-auteuil-com.wizaly.com
     * tk-balenciaga-com.wizaly.com
@@ -20,6 +21,7 @@
     * tk-lcl-fr.wizaly.com
     * tk-little-big-change-com.wizaly.com
     * tk-lulli-sur-la-toile-com.wizaly.com
+    * tk-moveyourfit-com.wizaly.com
     * tk-nhlottery-com.wizaly.com
     * tk-ornikar-com.wizaly.com
     * tk-planete-oui-fr.wizaly.com
@@ -40,6 +42,7 @@
 | ---- | ---- |
 | twiz.wizaly.fr | t.wizaly.com |
 | tk.abt.com | tk-abt-com.wizaly.com |
+| tk.aircaraibes.com | tk-aircaraibes-com.wizaly.com |
 | tk.alexandermcqueen.com | tk-alexandermcqueen-com.wizaly.com |
 | tk.apprentis-auteuil.org | tk-apprentis-auteuil-com.wizaly.com |
 | tk.balenciaga.com | tk-balenciaga-com.wizaly.com |
@@ -55,6 +58,7 @@
 | tk.lcl.fr | tk-lcl-fr.wizaly.com |
 | tk.little-big-change.com | tk-little-big-change-com.wizaly.com |
 | tk.lulli-sur-la-toile.com | tk-lulli-sur-la-toile-com.wizaly.com |
+| tk.moveyourfit.com | tk-moveyourfit-com.wizaly.com |
 | tk.nhlottery.com | tk-nhlottery-com.wizaly.com |
 | tk.ornikar.com | tk-ornikar-com.wizaly.com |
 | tk.planete-oui.fr | tk-planete-oui-fr.wizaly.com |

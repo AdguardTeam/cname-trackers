@@ -62,6 +62,7 @@ a8clk.hurugicom.jp
 a8clk.justy-consul.com
 a8clk.kaitori-beerecords.jp
 a8clk.kaitori-retrog.jp
+a8clk.kaitori-yamatokukimono.jp
 a8clk.kenkoukazoku.co.jp
 a8clk.life.bang.co.jp
 a8clk.lolipop.jp
@@ -115,6 +116,7 @@ a8cv.housingbazar.jp
 a8cv.iikyujin.net
 a8cv.ishibashi.co.jp
 a8cv.k-ikiiki.jp
+a8cv.kuih.jp
 a8cv.minana-jp.com
 a8cv.minnano-eikaiwa.com
 a8cv.modern-deco.jp

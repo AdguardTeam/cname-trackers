@@ -34,6 +34,7 @@
 | a.epicgoo.com | 0i0i0i0.com |
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
+| a.focusde.info | 0i0i0i0.com |
 | a.green-good-nice.site | 0i0i0i0.com |
 | a.hentaimotel.com | 0i0i0i0.com |
 | a.kagiti.club | 0i0i0i0.com |
@@ -125,6 +126,7 @@
 | edge1-us-priority.akamacdn.com | 0i0i0i0.com |
 | erfe.sexydev.dev | 0i0i0i0.com |
 | est.pornleech.ch | 0i0i0i0.com |
+| eyedssw.javvvvvv.xyz | 0i0i0i0.com |
 | findcdn.net | 0i0i0i0.com |
 | forads.pro | 0i0i0i0.com |
 | fortran.icu | 0i0i0i0.com |
@@ -141,11 +143,13 @@
 | hazicu.hothomefuck.com | 0i0i0i0.com |
 | hellothere.filefox.io | 0i0i0i0.com |
 | hsux.com | 0i0i0i0.com |
+| i.hqvrporn.net | 0i0i0i0.com |
 | id.fc2-ppv.live | 0i0i0i0.com |
 | in.fuckhardclips.com | 0i0i0i0.com |
 | j45.webringporn.com | 0i0i0i0.com |
 | jucy.porntry.com | 0i0i0i0.com |
 | ka.kakakakaka.xyz | 0i0i0i0.com |
+| ka2.javbuzz.com | 0i0i0i0.com |
 | kliqz.com | 0i0i0i0.com |
 | lixir.wargers.org | 0i0i0i0.com |
 | load.jabx.net | 0i0i0i0.com |
@@ -174,6 +178,7 @@
 | pre.03porno.com | 0i0i0i0.com |
 | pre.102porno.club | 0i0i0i0.com |
 | pre.ebasos.club | 0i0i0i0.com |
+| pre.myfuck.club | 0i0i0i0.com |
 | profield.ddns.net | 0i0i0i0.com |
 | pu.teentube18.net | 0i0i0i0.com |
 | pubblicita.animeitaly.org | 0i0i0i0.com |
@@ -236,7 +241,6 @@
 | z0000g.yvmads.com | 0i0i0i0.com |
 | zazu.vtube.to | 0i0i0i0.com |
 | zzz.pissrip.net | 0i0i0i0.com |
-| a.neverbe.xyz | u50.0i0i0i0.com |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | hq3x.com | u50.0i0i0i0.com |
 | lovelybingo.com | u50.0i0i0i0.com |
