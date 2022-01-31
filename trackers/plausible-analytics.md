@@ -25,7 +25,6 @@
 | analytics.adamstoner.com | custom.plausible.io |
 | analytics.adonisjs.com | custom.plausible.io |
 | analytics.arunraghavan.net | custom.plausible.io |
-| analytics.behaheaters.co.uk | custom.plausible.io |
 | analytics.betterplaces.nl | custom.plausible.io |
 | analytics.certifriedit.com | custom.plausible.io |
 | analytics.churchthemes.com | custom.plausible.io |
@@ -40,7 +39,6 @@
 | analytics.givealittle.co | custom.plausible.io |
 | analytics.hiome.com | custom.plausible.io |
 | analytics.itsnoahevans.co.uk | custom.plausible.io |
-| analytics.lapiazzetta-horsham.com | custom.plausible.io |
 | analytics.lunge.de | custom.plausible.io |
 | analytics.mambaui.com | custom.plausible.io |
 | analytics.mc500.info | custom.plausible.io |
@@ -55,7 +53,6 @@
 | analytics.southjerseyquakers.org | custom.plausible.io |
 | analytics.ss88.us | custom.plausible.io |
 | analytics.sweep.net | custom.plausible.io |
-| analytics.talisgrove.com | custom.plausible.io |
 | analytics.teamcovenant.com | custom.plausible.io |
 | analytics.top10-charts.com | custom.plausible.io |
 | analytics.trust.page | custom.plausible.io |
@@ -76,6 +73,7 @@
 | artistchristinacarmel.ericksonbuilt.com | custom.plausible.io |
 | assets.garron.blog | custom.plausible.io |
 | assets.garron.me | custom.plausible.io |
+| assets.webmanufaktur.ch | custom.plausible.io |
 | bees.beesbeesbeesbees.com | custom.plausible.io |
 | bob.gitclear.com | custom.plausible.io |
 | cats.d20.rs | custom.plausible.io |
@@ -176,7 +174,6 @@
 | plausible.executeprogram.com | custom.plausible.io |
 | plausible.f1laps.com | custom.plausible.io |
 | plausible.factly.in | custom.plausible.io |
-| plausible.ferranfigueredo.com | custom.plausible.io |
 | plausible.flowcv.io | custom.plausible.io |
 | plausible.food.game | custom.plausible.io |
 | plausible.goatstake.com | custom.plausible.io |
@@ -223,7 +220,6 @@
 | plausible.west.io | custom.plausible.io |
 | plausible.zest.dev | custom.plausible.io |
 | plausible.zorin.com | custom.plausible.io |
-| pls.indiemakers.fr | custom.plausible.io |
 | plsbl.edison.se | custom.plausible.io |
 | pm.redbull.com | custom.plausible.io |
 | prism.raumgleiter.com | custom.plausible.io |
@@ -236,6 +232,7 @@
 | s.crackedthecode.co | custom.plausible.io |
 | s.cuoresportivo.no | custom.plausible.io |
 | s.fission.codes | custom.plausible.io |
+| s.freelanceratecalculator.com | custom.plausible.io |
 | s.glimesh.tv | custom.plausible.io |
 | s.mannes.tech | custom.plausible.io |
 | s.maxrozen.com | custom.plausible.io |
@@ -332,7 +329,6 @@
 | stats.digiexpert.store | custom.plausible.io |
 | stats.divemap.uk | custom.plausible.io |
 | stats.divyanshu013.dev | custom.plausible.io |
-| stats.domain.garden | custom.plausible.io |
 | stats.dominikmayer.com | custom.plausible.io |
 | stats.doors.live | custom.plausible.io |
 | stats.drewbolles.com | custom.plausible.io |
@@ -531,6 +527,7 @@
 | stats.ski.com | custom.plausible.io |
 | stats.sommselect.com | custom.plausible.io |
 | stats.songbox.rocks | custom.plausible.io |
+| stats.soundbite.so | custom.plausible.io |
 | stats.southpetherwin.com | custom.plausible.io |
 | stats.southswindon-pc.gov.uk | custom.plausible.io |
 | stats.sparkloop.app | custom.plausible.io |
@@ -557,9 +554,11 @@
 | stats.toiletmap.org.uk | custom.plausible.io |
 | stats.tomorrowacademy.org | custom.plausible.io |
 | stats.torontohhs.org | custom.plausible.io |
+| stats.training.fit | custom.plausible.io |
 | stats.travel.geek.nz | custom.plausible.io |
 | stats.travelfodder.com | custom.plausible.io |
 | stats.tresor.one | custom.plausible.io |
+| stats.trimbles.ie | custom.plausible.io |
 | stats.tubecalculator.co.uk | custom.plausible.io |
 | stats.twenty.so | custom.plausible.io |
 | stats.twhl.xyz | custom.plausible.io |

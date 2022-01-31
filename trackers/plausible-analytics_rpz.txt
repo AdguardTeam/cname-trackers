@@ -20,7 +20,6 @@ analytics.adam.page CNAME .
 analytics.adamstoner.com CNAME .
 analytics.adonisjs.com CNAME .
 analytics.arunraghavan.net CNAME .
-analytics.behaheaters.co.uk CNAME .
 analytics.betterplaces.nl CNAME .
 analytics.certifriedit.com CNAME .
 analytics.churchthemes.com CNAME .
@@ -35,7 +34,6 @@ analytics.gamedatacrunch.com CNAME .
 analytics.givealittle.co CNAME .
 analytics.hiome.com CNAME .
 analytics.itsnoahevans.co.uk CNAME .
-analytics.lapiazzetta-horsham.com CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
 analytics.mc500.info CNAME .
@@ -50,7 +48,6 @@ analytics.souazi.com CNAME .
 analytics.southjerseyquakers.org CNAME .
 analytics.ss88.us CNAME .
 analytics.sweep.net CNAME .
-analytics.talisgrove.com CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
@@ -71,6 +68,7 @@ ares.buyersclub.se CNAME .
 artistchristinacarmel.ericksonbuilt.com CNAME .
 assets.garron.blog CNAME .
 assets.garron.me CNAME .
+assets.webmanufaktur.ch CNAME .
 bees.beesbeesbeesbees.com CNAME .
 bob.gitclear.com CNAME .
 cats.d20.rs CNAME .
@@ -171,7 +169,6 @@ plausible.eurostocks.nl CNAME .
 plausible.executeprogram.com CNAME .
 plausible.f1laps.com CNAME .
 plausible.factly.in CNAME .
-plausible.ferranfigueredo.com CNAME .
 plausible.flowcv.io CNAME .
 plausible.food.game CNAME .
 plausible.goatstake.com CNAME .
@@ -218,7 +215,6 @@ plausible.viteshot.com CNAME .
 plausible.west.io CNAME .
 plausible.zest.dev CNAME .
 plausible.zorin.com CNAME .
-pls.indiemakers.fr CNAME .
 plsbl.edison.se CNAME .
 pm.redbull.com CNAME .
 prism.raumgleiter.com CNAME .
@@ -231,6 +227,7 @@ s.cameratico.com CNAME .
 s.crackedthecode.co CNAME .
 s.cuoresportivo.no CNAME .
 s.fission.codes CNAME .
+s.freelanceratecalculator.com CNAME .
 s.glimesh.tv CNAME .
 s.mannes.tech CNAME .
 s.maxrozen.com CNAME .
@@ -327,7 +324,6 @@ stats.deva.guru CNAME .
 stats.digiexpert.store CNAME .
 stats.divemap.uk CNAME .
 stats.divyanshu013.dev CNAME .
-stats.domain.garden CNAME .
 stats.dominikmayer.com CNAME .
 stats.doors.live CNAME .
 stats.drewbolles.com CNAME .
@@ -526,6 +522,7 @@ stats.sirdata.com CNAME .
 stats.ski.com CNAME .
 stats.sommselect.com CNAME .
 stats.songbox.rocks CNAME .
+stats.soundbite.so CNAME .
 stats.southpetherwin.com CNAME .
 stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
@@ -552,9 +549,11 @@ stats.tkg.codes CNAME .
 stats.toiletmap.org.uk CNAME .
 stats.tomorrowacademy.org CNAME .
 stats.torontohhs.org CNAME .
+stats.training.fit CNAME .
 stats.travel.geek.nz CNAME .
 stats.travelfodder.com CNAME .
 stats.tresor.one CNAME .
+stats.trimbles.ie CNAME .
 stats.tubecalculator.co.uk CNAME .
 stats.twenty.so CNAME .
 stats.twhl.xyz CNAME .

@@ -119,6 +119,7 @@ tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
 tr.emailium.fr CNAME .
 tr.enedis-infos.fr CNAME .
+tr.entreprise-pro.info CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net CNAME .
 tr.europa-organisation.com CNAME .
 tr.evenements.inpi.fr CNAME .
@@ -132,6 +133,7 @@ tr.gestion.floa.fr CNAME .
 tr.gestion.sygmabnpparibas-pf.com CNAME .
 tr.group-hr.lvmh.fr CNAME .
 tr.groupama-gne.fr CNAME .
+tr.hello.maisonfoody.com CNAME .
 tr.helloartisan.info CNAME .
 tr.info-btob-leaders.com CNAME .
 tr.info-companeo.be CNAME .
@@ -311,7 +313,9 @@ tr.portail.afpa.fr CNAME .
 tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro.odalys-vacances.com CNAME .
+tr.projet.cotemaison.fr CNAME .
 tr.qualitaetsumfrage.com CNAME .
+tr.qualitaveicolo.com CNAME .
 tr.qualite.groupebarriere.com CNAME .
 tr.quotes.digital CNAME .
 tr.quotes4business.info CNAME .
@@ -357,6 +361,7 @@ tr.welcome.easyviaggio.com CNAME .
 tr.welcome.easyviajar.com CNAME .
 tr.welcome.easyvoyage.co.uk CNAME .
 tr.welcome.easyvoyage.com CNAME .
+tr.welcome.lacollection-airfrance.fr CNAME .
 tr.welcome.lexpress.fr CNAME .
 tr.welcome.moncoupdepouce.com CNAME .
 tr.welcome.odalys-vacances.com CNAME .

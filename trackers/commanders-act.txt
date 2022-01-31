@@ -6,7 +6,6 @@
 ||data.decathlon.de^
 ||data.decathlon.es^
 ||data.decathlon.fr^
-||data.decathlon.it^
 ||data.ouigo.com^
 ||data.ubi.com^
 ||data.wptag.net^
@@ -15,7 +14,6 @@
 ||tag.boulanger.fr^
 ||tagcommander.laredoute.be^
 ||tagcommander.laredoute.co.uk^
-||tc.airfrance.com^
 ||tcdata.fnac.com^
 !
 ! ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com disguised trackers

@@ -20,7 +20,6 @@
 ||analytics.adamstoner.com^
 ||analytics.adonisjs.com^
 ||analytics.arunraghavan.net^
-||analytics.behaheaters.co.uk^
 ||analytics.betterplaces.nl^
 ||analytics.certifriedit.com^
 ||analytics.churchthemes.com^
@@ -35,7 +34,6 @@
 ||analytics.givealittle.co^
 ||analytics.hiome.com^
 ||analytics.itsnoahevans.co.uk^
-||analytics.lapiazzetta-horsham.com^
 ||analytics.lunge.de^
 ||analytics.mambaui.com^
 ||analytics.mc500.info^
@@ -50,7 +48,6 @@
 ||analytics.southjerseyquakers.org^
 ||analytics.ss88.us^
 ||analytics.sweep.net^
-||analytics.talisgrove.com^
 ||analytics.teamcovenant.com^
 ||analytics.top10-charts.com^
 ||analytics.trust.page^
@@ -71,6 +68,7 @@
 ||artistchristinacarmel.ericksonbuilt.com^
 ||assets.garron.blog^
 ||assets.garron.me^
+||assets.webmanufaktur.ch^
 ||bees.beesbeesbeesbees.com^
 ||bob.gitclear.com^
 ||cats.d20.rs^
@@ -171,7 +169,6 @@
 ||plausible.executeprogram.com^
 ||plausible.f1laps.com^
 ||plausible.factly.in^
-||plausible.ferranfigueredo.com^
 ||plausible.flowcv.io^
 ||plausible.food.game^
 ||plausible.goatstake.com^
@@ -218,7 +215,6 @@
 ||plausible.west.io^
 ||plausible.zest.dev^
 ||plausible.zorin.com^
-||pls.indiemakers.fr^
 ||plsbl.edison.se^
 ||pm.redbull.com^
 ||prism.raumgleiter.com^
@@ -231,6 +227,7 @@
 ||s.crackedthecode.co^
 ||s.cuoresportivo.no^
 ||s.fission.codes^
+||s.freelanceratecalculator.com^
 ||s.glimesh.tv^
 ||s.mannes.tech^
 ||s.maxrozen.com^
@@ -327,7 +324,6 @@
 ||stats.digiexpert.store^
 ||stats.divemap.uk^
 ||stats.divyanshu013.dev^
-||stats.domain.garden^
 ||stats.dominikmayer.com^
 ||stats.doors.live^
 ||stats.drewbolles.com^
@@ -526,6 +522,7 @@
 ||stats.ski.com^
 ||stats.sommselect.com^
 ||stats.songbox.rocks^
+||stats.soundbite.so^
 ||stats.southpetherwin.com^
 ||stats.southswindon-pc.gov.uk^
 ||stats.sparkloop.app^
@@ -552,9 +549,11 @@
 ||stats.toiletmap.org.uk^
 ||stats.tomorrowacademy.org^
 ||stats.torontohhs.org^
+||stats.training.fit^
 ||stats.travel.geek.nz^
 ||stats.travelfodder.com^
 ||stats.tresor.one^
+||stats.trimbles.ie^
 ||stats.tubecalculator.co.uk^
 ||stats.twenty.so^
 ||stats.twhl.xyz^

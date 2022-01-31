@@ -55,6 +55,7 @@ adebis.urban-research.jp
 adebis01.job-con.jp
 adebis02.juku.st
 adebis8628.matsui.co.jp
+adebiscname.au-sonpo.co.jp
 adebiscname.auone.jp
 adebisu.wowow.co.jp
 admeasure.hh-online.jp
@@ -109,6 +110,7 @@ ebis.rabo.cat
 ebis.radishbo-ya.co.jp
 ebis.randstad.co.jp
 ebis.rozetta.jp
+ebis.s-bisco.jp
 ebis.sbismile.co.jp
 ebis.seibu-k.co.jp
 ebis.sekisuiheim.com

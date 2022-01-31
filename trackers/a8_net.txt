@@ -44,6 +44,7 @@
 ||a8click.you-up.com^
 ||a8clk.app.offerbox.jp^
 ||a8clk.apply-shop.menu.inc^
+||a8clk.asahi-net.or.jp^
 ||a8clk.asp.jcity.co.jp^
 ||a8clk.audiobook.jp^
 ||a8clk.autoc-one.jp^
@@ -70,6 +71,7 @@
 ||a8clk.macpaw.com^
 ||a8clk.manabiz.jp^
 ||a8clk.manage.conoha.jp^
+||a8clk.miidas.jp^
 ||a8clk.minnadeooyasan.com^
 ||a8clk.mobile-norikae.com^
 ||a8clk.nenga-kazoku.com^
@@ -102,6 +104,7 @@
 ||a8cv.amiami.jp^
 ||a8cv.araiba.net^
 ||a8cv.bettysbeauty.jp^
+||a8cv.bizcomfort.jp^
 ||a8cv.brandeuse.jp^
 ||a8cv.brassiere-shorts.jp^
 ||a8cv.broadbandservice.jp^
@@ -145,9 +148,11 @@
 ||a8cv.ygm-clinic.or.jp^
 ||a8cv.you-shoku.net^
 ||a8cv.yuyu-tei.jp^
+||a8cv.zeroen-denki.com^
 ||a8cv2.hoken-choice.com^
 ||a8cventry.uqwimax.jp^
 ||a8onlineshop.trendmicro.co.jp^
+||a8redirect.cart.ec-sites.jp^
 ||a8sup.chapup.jp^
 ||a8trck.aisatsujo.jp^
 ||a8trck.tolot.com^

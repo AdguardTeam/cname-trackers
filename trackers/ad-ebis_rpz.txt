@@ -55,6 +55,7 @@ adebis.urban-research.jp CNAME .
 adebis01.job-con.jp CNAME .
 adebis02.juku.st CNAME .
 adebis8628.matsui.co.jp CNAME .
+adebiscname.au-sonpo.co.jp CNAME .
 adebiscname.auone.jp CNAME .
 adebisu.wowow.co.jp CNAME .
 admeasure.hh-online.jp CNAME .
@@ -109,6 +110,7 @@ ebis.rabo.cat CNAME .
 ebis.radishbo-ya.co.jp CNAME .
 ebis.randstad.co.jp CNAME .
 ebis.rozetta.jp CNAME .
+ebis.s-bisco.jp CNAME .
 ebis.sbismile.co.jp CNAME .
 ebis.seibu-k.co.jp CNAME .
 ebis.sekisuiheim.com CNAME .

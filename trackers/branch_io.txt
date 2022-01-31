@@ -407,6 +407,7 @@
 ||link.watchbravotv.com^
 ||link.watchoxygen.com^
 ||link.yourway.burgerking.ca^
+||links-na.afterpay.com^
 ||links.ab.soul-cycle.email^
 ||links.alerts.depop.com^
 ||links.announce.touchsurgery.com^
@@ -505,6 +506,7 @@
 ||r.blidz.com^
 ||r.blidzdeal.com^
 ||read.medium.com^
+||send.preply.com^
 ||sendgridlinks.neuroflowsolution.com^
 ||sephora-qa.branchstaging.com^
 ||sg3.notarize.com^

@@ -183,6 +183,7 @@ wbtrkk.teufelaudio.nl CNAME .
 wbtrkk.teufelaudio.pl CNAME .
 web.autobodytoolmart.com CNAME .
 web.bankofscotland.de CNAME .
+web.collisionservices.com CNAME .
 web.comunicazioni.iol.it CNAME .
 web.diebayerische.de CNAME .
 web.email.farrow-ball.com CNAME .
@@ -190,12 +191,14 @@ web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .
 web.friends.ellaskitchen.co.uk CNAME .
+web.ideaautorepair.com CNAME .
 web.info.bonprix.es CNAME .
 web.info.varelotteriet.dk CNAME .
 web.info.yeppon.it CNAME .
 web.mail.proximaati.com CNAME .
 web.mapp.ilgiardinodeilibri.it CNAME .
 web.mapp.skousen.dk CNAME .
+web.mapp.tretti.se CNAME .
 web.mapp.whiteaway.com CNAME .
 web.marketing.elbenwald.de CNAME .
 web.mytoys.de CNAME .
@@ -206,6 +209,7 @@ web.news.piquadro.com CNAME .
 web.news.thebridge.it CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.s.sasrx.com CNAME .
+web.sidsavage.com CNAME .
 web.x.ilpost.it CNAME .
 webmet.creditreform.de CNAME .
 webt.eleonto.com CNAME .

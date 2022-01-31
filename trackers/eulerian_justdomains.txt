@@ -23,7 +23,6 @@ anz7.allianz-voyage.fr
 ar.i-run.fr
 aze0.dmp.leclerc
 azg1.emalu-store.com
-b1n.carabins.umontreal.ca
 b6ft.zone-turf.fr
 barp3.bordeaux.aeroport.fr
 bhu9.bankia.es
@@ -32,7 +31,6 @@ bum7.bymycar.fr
 bvz5.destinia.com.tr
 bwj4.hrhibiza.com
 c0i.ckoi.com
-c0p.cepsum.umontreal.ca
 c4dv.copinesdevoyage.com
 cc.conforama.es
 ch0p.darty.com
@@ -167,7 +165,6 @@ g1be.swisslife-direct.fr
 gdm1.toner.fr
 gfn1.ugap.fr
 gfv4.destinia.co.za
-gi7a.structube.com
 gti3.culture.leclerc
 gti3.hightech.leclerc
 guq9.vente-unique.it
@@ -177,7 +174,6 @@ hbo5.concours-pass.com
 hby7.destinia.it
 he6e.lavieimmo.com
 hgf4.zanzicar.fr
-hk2d.tourismemauricie.com
 hkj8.evobanco.com
 idg1.idgarages.com
 inv3te.oui.sncf
@@ -301,6 +297,7 @@ t.locasun.it
 t.locasun.nl
 t.pmu.fr
 t.voyages-sncf.com
+t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tdf1.admyjob.com

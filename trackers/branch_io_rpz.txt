@@ -407,6 +407,7 @@ link.usa-network.com CNAME .
 link.watchbravotv.com CNAME .
 link.watchoxygen.com CNAME .
 link.yourway.burgerking.ca CNAME .
+links-na.afterpay.com CNAME .
 links.ab.soul-cycle.email CNAME .
 links.alerts.depop.com CNAME .
 links.announce.touchsurgery.com CNAME .
@@ -505,6 +506,7 @@ qbse.intuit.com CNAME .
 r.blidz.com CNAME .
 r.blidzdeal.com CNAME .
 read.medium.com CNAME .
+send.preply.com CNAME .
 sendgridlinks.neuroflowsolution.com CNAME .
 sephora-qa.branchstaging.com CNAME .
 sg3.notarize.com CNAME .

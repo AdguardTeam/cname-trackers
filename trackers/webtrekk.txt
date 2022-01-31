@@ -183,6 +183,7 @@
 ||wbtrkk.teufelaudio.pl^
 ||web.autobodytoolmart.com^
 ||web.bankofscotland.de^
+||web.collisionservices.com^
 ||web.comunicazioni.iol.it^
 ||web.diebayerische.de^
 ||web.email.farrow-ball.com^
@@ -190,12 +191,14 @@
 ||web.emails.elc.co.uk^
 ||web.emails.thetoyshop.com^
 ||web.friends.ellaskitchen.co.uk^
+||web.ideaautorepair.com^
 ||web.info.bonprix.es^
 ||web.info.varelotteriet.dk^
 ||web.info.yeppon.it^
 ||web.mail.proximaati.com^
 ||web.mapp.ilgiardinodeilibri.it^
 ||web.mapp.skousen.dk^
+||web.mapp.tretti.se^
 ||web.mapp.whiteaway.com^
 ||web.marketing.elbenwald.de^
 ||web.mytoys.de^
@@ -206,6 +209,7 @@
 ||web.news.thebridge.it^
 ||web.newsletter.viviennewestwood.com^
 ||web.s.sasrx.com^
+||web.sidsavage.com^
 ||web.x.ilpost.it^
 ||webmet.creditreform.de^
 ||webt.eleonto.com^

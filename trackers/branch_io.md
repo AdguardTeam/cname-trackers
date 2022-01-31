@@ -414,6 +414,7 @@
 | link.watchbravotv.com | thirdparty.bnc.lt |
 | link.watchoxygen.com | thirdparty.bnc.lt |
 | link.yourway.burgerking.ca | thirdparty.bnc.lt |
+| links-na.afterpay.com | thirdparty.bnc.lt |
 | links.ab.soul-cycle.email | thirdparty.bnc.lt |
 | links.alerts.depop.com | thirdparty.bnc.lt |
 | links.announce.touchsurgery.com | thirdparty.bnc.lt |
@@ -512,6 +513,7 @@
 | r.blidz.com | thirdparty.bnc.lt |
 | r.blidzdeal.com | thirdparty.bnc.lt |
 | read.medium.com | thirdparty.bnc.lt |
+| send.preply.com | thirdparty.bnc.lt |
 | sendgridlinks.neuroflowsolution.com | thirdparty.bnc.lt |
 | sg3.notarize.com | thirdparty.bnc.lt |
 | shoppers-test.instacartemail.com | thirdparty.bnc.lt |

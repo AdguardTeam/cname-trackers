@@ -45,6 +45,7 @@
     * 3c40b540-dfevquvl.cname.ebis.ne.jp
     * 3fcda11b-dmcr4rty.cname.ebis.ne.jp
     * 402e5b1b-na8iuntw.cname.ebis.ne.jp
+    * 40ecbdc3-jtmaxrx7.cname.ebis.ne.jp
     * 417df397-9zxfa7mv.cname.ebis.ne.jp
     * 435017b6-hcwlnnyg.cname.ebis.ne.jp
     * 44f2417e-guakxgpf.cname.ebis.ne.jp
@@ -70,6 +71,7 @@
     * 65583296-u9rwf5hz.cname.ebis.ne.jp
     * 68408270-ysplpzur.cname.ebis.ne.jp
     * 68d30b5c-gxw6vfjd.cname.ebis.ne.jp
+    * 70e4a629-y6ciip1f.cname.ebis.ne.jp
     * 70f6c026-alqe4sgf.cname.ebis.ne.jp
     * 728d5fcc-6hbgpszs.cname.ebis.ne.jp
     * 730fac49-ezdvkv2x.cname.ebis.ne.jp
@@ -201,6 +203,7 @@
 | ebis.rabo.cat | 3c40b540-dfevquvl.cname.ebis.ne.jp |
 | digital.anicom-sompo.co.jp | 3fcda11b-dmcr4rty.cname.ebis.ne.jp |
 | emc.dr-stick.shop | 402e5b1b-na8iuntw.cname.ebis.ne.jp |
+| ebis.s-bisco.jp | 40ecbdc3-jtmaxrx7.cname.ebis.ne.jp |
 | tukuru.cotta.jp | 417df397-9zxfa7mv.cname.ebis.ne.jp |
 | adebis.kose.co.jp | 435017b6-hcwlnnyg.cname.ebis.ne.jp |
 | adebis.theclinic.jp | 44f2417e-guakxgpf.cname.ebis.ne.jp |
@@ -226,6 +229,7 @@
 | ebis.studio-alice.co.jp | 65583296-u9rwf5hz.cname.ebis.ne.jp |
 | adebis.leben-style.jp | 68408270-ysplpzur.cname.ebis.ne.jp |
 | ebis.randstad.co.jp | 68d30b5c-gxw6vfjd.cname.ebis.ne.jp |
+| adebiscname.au-sonpo.co.jp | 70e4a629-y6ciip1f.cname.ebis.ne.jp |
 | us9recc3.simseller.goo.ne.jp | 70f6c026-alqe4sgf.cname.ebis.ne.jp |
 | ebis.sekisuihouse.com | 728d5fcc-6hbgpszs.cname.ebis.ne.jp |
 | ebis.bulk.co.jp | 730fac49-ezdvkv2x.cname.ebis.ne.jp |

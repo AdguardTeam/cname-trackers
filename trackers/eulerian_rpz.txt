@@ -23,7 +23,6 @@ anz7.allianz-voyage.fr CNAME .
 ar.i-run.fr CNAME .
 aze0.dmp.leclerc CNAME .
 azg1.emalu-store.com CNAME .
-b1n.carabins.umontreal.ca CNAME .
 b6ft.zone-turf.fr CNAME .
 barp3.bordeaux.aeroport.fr CNAME .
 bhu9.bankia.es CNAME .
@@ -32,7 +31,6 @@ bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
 c0i.ckoi.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
 ch0p.darty.com CNAME .
@@ -167,7 +165,6 @@ g1be.swisslife-direct.fr CNAME .
 gdm1.toner.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
-gi7a.structube.com CNAME .
 gti3.culture.leclerc CNAME .
 gti3.hightech.leclerc CNAME .
 guq9.vente-unique.it CNAME .
@@ -177,7 +174,6 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 he6e.lavieimmo.com CNAME .
 hgf4.zanzicar.fr CNAME .
-hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
@@ -301,6 +297,7 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
+t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.admyjob.com CNAME .

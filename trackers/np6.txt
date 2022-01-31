@@ -119,6 +119,7 @@
 ||tr.emailing.grassavoye.com^
 ||tr.emailium.fr^
 ||tr.enedis-infos.fr^
+||tr.entreprise-pro.info^
 ||tr.envie-de-bien-manger.espmp-aufr.net^
 ||tr.europa-organisation.com^
 ||tr.evenements.inpi.fr^
@@ -132,6 +133,7 @@
 ||tr.gestion.sygmabnpparibas-pf.com^
 ||tr.group-hr.lvmh.fr^
 ||tr.groupama-gne.fr^
+||tr.hello.maisonfoody.com^
 ||tr.helloartisan.info^
 ||tr.info-btob-leaders.com^
 ||tr.info-companeo.be^
@@ -311,7 +313,9 @@
 ||tr.prevention.harmonie-mutuelle.fr^
 ||tr.preventivo.risparmiazienda.it^
 ||tr.pro.odalys-vacances.com^
+||tr.projet.cotemaison.fr^
 ||tr.qualitaetsumfrage.com^
+||tr.qualitaveicolo.com^
 ||tr.qualite.groupebarriere.com^
 ||tr.quotes.digital^
 ||tr.quotes4business.info^
@@ -357,6 +361,7 @@
 ||tr.welcome.easyviajar.com^
 ||tr.welcome.easyvoyage.co.uk^
 ||tr.welcome.easyvoyage.com^
+||tr.welcome.lacollection-airfrance.fr^
 ||tr.welcome.lexpress.fr^
 ||tr.welcome.moncoupdepouce.com^
 ||tr.welcome.odalys-vacances.com^

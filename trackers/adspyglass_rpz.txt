@@ -33,6 +33,7 @@ a.green-good-nice.site CNAME .
 a.hentaimotel.com CNAME .
 a.kagiti.club CNAME .
 a.katomu.club CNAME .
+a.letsjerk.org CNAME .
 a.letsjerk.to CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornomixfree.com CNAME .
@@ -82,6 +83,7 @@ asg.retrosexporn.com CNAME .
 asg.sdtraff.com CNAME .
 asg.shudhdesiporn.com CNAME .
 asg.somecdn.bid CNAME .
+asg.srvtax.com CNAME .
 asg.zzipps.com CNAME .
 asg1.xueserverhost.com CNAME .
 asg2.xueserverhost.com CNAME .
@@ -100,7 +102,6 @@ c3s.bionestraff.pro CNAME .
 cdc.teensnorest.com CNAME .
 cdfr.hot4k.org CNAME .
 cdn3.hentaihand.com CNAME .
-cdncont.com CNAME .
 cdnfind.net CNAME .
 cdnvid.com CNAME .
 cleantapioca.com CNAME .
@@ -117,7 +118,6 @@ dl.love4porn.com CNAME .
 dontbeabadboy.javboys.com CNAME .
 ebd.cda-hd.cc CNAME .
 eco.blendxxx.com CNAME .
-edge1-us-priority.akamacdn.com CNAME .
 erfe.sexydev.dev CNAME .
 est.pornleech.ch CNAME .
 eyedssw.javvvvvv.xyz CNAME .
@@ -129,6 +129,7 @@ free.srcdn.xyz CNAME .
 free.stat.tk CNAME .
 freememes.desiceleb.top CNAME .
 g6j.cupidonmedia.com CNAME .
+gameporn.org CNAME .
 geovideo.name CNAME .
 gg.xszcdn.com CNAME .
 ghtry.amateurswild.com CNAME .
@@ -201,11 +202,10 @@ spy.luvprn.com CNAME .
 spyglass.reklamko.pro CNAME .
 srv.clinno.link CNAME .
 stuff.wikiporno.org CNAME .
-sub.superxxxfree.com CNAME .
-sub.xxx-porn-tube.com CNAME .
 support.streamjav.top CNAME .
 svekolasg.pro CNAME .
 tb.turbocap.net CNAME .
+titsnvids.com CNAME .
 tlv.ui02.com CNAME .
 tpl.factporn.com CNAME .
 trickyneotits.com CNAME .
@@ -213,9 +213,9 @@ ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 uk.boffinsoft.com CNAME .
 uthbxvz.bestzba.com CNAME .
+v.focusde.info CNAME .
 v.pornomixfree.com CNAME .
 vd.7vid.net CNAME .
-vidcdn.name CNAME .
 videocdn.name CNAME .
 vsx.hotpornfile.org CNAME .
 w00t.us CNAME .
@@ -224,6 +224,7 @@ web.cinetux.nu CNAME .
 widjet.analnoe.tv CNAME .
 ww.cvideos.stream CNAME .
 www.bigboy.monster CNAME .
+www.demstenes24.one CNAME .
 www.findnewline.com CNAME .
 www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
