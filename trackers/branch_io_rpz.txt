@@ -3,6 +3,7 @@
 ;
 ; thirdparty.bnc.lt disguised trackers
 ;
+18052925.im.intermiles.com CNAME .
 19035924.automated.almosafer.com CNAME .
 19035924.email.almosafer.com CNAME .
 19035924.loyalty.almosafer.com CNAME .
@@ -159,11 +160,9 @@ ablink.your-way.bk.com CNAME .
 ablink.your.audacy.com CNAME .
 ablinkclicktest.prod.aws.skyscnr.com CNAME .
 ablinks.comms.healthengine.com.au CNAME .
-ablinks.e.draft.com CNAME .
 ablinks.e.foxsports.com.au CNAME .
 ablinks.info.amaro.com CNAME .
 ablinks.kfc.com.au CNAME .
-ablinks.m.draft.com CNAME .
 ablinks.mail.claritymoney.com CNAME .
 ablinks.mail.hinge.co CNAME .
 ablinks.marketing.numi.com CNAME .
@@ -296,6 +295,7 @@ email.chope.co CNAME .
 email.clearscore.co.za CNAME .
 email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
+email.everyonesocial.circle.com CNAME .
 email.everyonesocial.r3.com CNAME .
 email.everyonesocial.united.com CNAME .
 email.everyonesocial.unity.com CNAME .
@@ -370,6 +370,7 @@ link.hello.soothe.com CNAME .
 link.hello.unum.la CNAME .
 link.hello2-sg.circles.life CNAME .
 link.hey.mypostcard.com CNAME .
+link.im.intermiles.com CNAME .
 link.info.myfitnesspal.com CNAME .
 link.kdkmoments.com CNAME .
 link.kingsnews.whopper.co.za CNAME .
@@ -407,6 +408,7 @@ link.usa-network.com CNAME .
 link.watchbravotv.com CNAME .
 link.watchoxygen.com CNAME .
 link.yourway.burgerking.ca CNAME .
+links-anz.afterpay.com CNAME .
 links-na.afterpay.com CNAME .
 links.ab.soul-cycle.email CNAME .
 links.alerts.depop.com CNAME .
@@ -463,7 +465,6 @@ links.justfab.de CNAME .
 links.justfab.es CNAME .
 links.justfab.fr CNAME .
 links.m.blueapron.com CNAME .
-links.mail.allbirds.com CNAME .
 links.mail.stubhub.com CNAME .
 links.marketing.getprizepool.com CNAME .
 links.nbc.com CNAME .

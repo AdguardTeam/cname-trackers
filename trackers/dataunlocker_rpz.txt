@@ -3,33 +3,25 @@
 ;
 ; dataunlocker.com disguised trackers
 ;
-1kpv4njzilv.community.intersystems.com CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
-5p0utbv2mjq1.www.earthclassmail.com CNAME .
 634lj7p7g3lv.unstoppabledomains.com CNAME .
-8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
+ayg6joe1lbe2.www.chandlerorchards.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
-bygr2ri20e4y.li.finance CNAME .
 e5obq1v261.www.lurkit.com CNAME .
+f5q72e2o8r5f.www.word.com.au CNAME .
 fp84rw0jinz7.blanc.ru CNAME .
-gl5g98t0vfjb.panprices.com CNAME .
 gw5worvzkb4j.stoic.ai CNAME .
-hkhpnqciykaf.www.gamecamp.gg CNAME .
-jzbzvk10u32f.adria.gg CNAME .
 lh3pvljbkong.www.nookgaming.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
-p9jhxqlkmn.miniso.com.gr CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
-tos5dqejpd.www.freecodecamp.org CNAME .
+t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
+unl1zvy2zuyn.franchiseplus.nl CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
-xo704w18yt75.filmustage.com CNAME .
-ydqv7yvf191i.www.logology.co CNAME .
-yhpknxzspo8a.kvest.ee CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
 ;
 ; monopoly-drain.ga disguised trackers

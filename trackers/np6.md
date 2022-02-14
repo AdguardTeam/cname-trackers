@@ -82,6 +82,7 @@
 | tr.comunicacao.younited-credit.com | tracking.bp01.net |
 | tr.contact.canalplus.fr | tracking.bp01.net |
 | tr.contact.e-turf.fr | tracking.bp01.net |
+| tr.contact.thelist-emirates.fr | tracking.bp01.net |
 | tr.contrat.location.boulanger.com | tracking.bp01.net |
 | tr.contrats.cetelem.fr | tracking.bp01.net |
 | tr.courriel.ouestnormandie.cci.fr | tracking.bp01.net |
@@ -220,6 +221,7 @@
 | tr.news-companeo.mx | tracking.bp01.net |
 | tr.news-companeo.pl | tracking.bp01.net |
 | tr.news.accessmbatour.com | tracking.bp01.net |
+| tr.news.alibabuy.com | tracking.bp01.net |
 | tr.news.alinea.com | tracking.bp01.net |
 | tr.news.allopneus.com | tracking.bp01.net |
 | tr.news.assuragency.net | tracking.bp01.net |
@@ -273,6 +275,7 @@
 | tr.news.younited-coach.com | tracking.bp01.net |
 | tr.news.younited-credit.com | tracking.bp01.net |
 | tr.news2pjms.fr | tracking.bp01.net |
+| tr.news5.cdiscount.com | tracking.bp01.net |
 | tr.news6.cdiscount.com | tracking.bp01.net |
 | tr.newsletter.afpa.fr | tracking.bp01.net |
 | tr.newsletter.assuragency.net | tracking.bp01.net |
@@ -329,6 +332,7 @@
 | tr.ratm.espmp-agfr.net | tracking.bp01.net |
 | tr.raym.espmp-agfr.net | tracking.bp01.net |
 | tr.read.glose.com | tracking.bp01.net |
+| tr.recouvrement.younited-credit.com | tracking.bp01.net |
 | tr.redaction.essentiel-sante-magazine.fr | tracking.bp01.net |
 | tr.reglementaire.emailing.bnpparibas | tracking.bp01.net |
 | tr.relation.uneo.fr | tracking.bp01.net |
@@ -340,6 +344,7 @@
 | tr.secteurentreprises.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.serviceclient.gazservicerapide.fr | tracking.bp01.net |
 | tr.serviceclient.somgaz.fr | tracking.bp01.net |
+| tr.serviceclient.younited-coach.com | tracking.bp01.net |
 | tr.serviceclient.younited-credit.com | tracking.bp01.net |
 | tr.services.alinea.com | tracking.bp01.net |
 | tr.services.caradisiac.com | tracking.bp01.net |
@@ -372,6 +377,8 @@
 | tr.welcome.odalys-vacances.com | tracking.bp01.net |
 | tr.welcome.thelist-emirates.fr | tracking.bp01.net |
 | tr.welcome.vipmag.fr | tracking.bp01.net |
+| tr.xleads.digital | tracking.bp01.net |
 | tr1.citroen-ipsos.com | tracking.bp01.net |
 | tr1.mailperf.com | tracking.bp01.net |
+| tr5.mailperf.com | tracking.bp01.net |
 | trpreviews.bp01.net | tracking.bp01.net |

@@ -30,6 +30,7 @@ tk.dietbon.fr CNAME .
 tk.engie.fr CNAME .
 tk.healthwarehouse.com CNAME .
 tk.jeux.loro.ch CNAME .
+tk.kidsaround.com CNAME .
 tk.kitchendiet.fr CNAME .
 tk.klm.com CNAME .
 tk.lamaisonduchocolat.com CNAME .
@@ -49,4 +50,5 @@ tk.transavia.com CNAME .
 tk.viapresse.com CNAME .
 twiz.wizaly.fr CNAME .
 wiz.ghostbed.com CNAME .
+wiz.sncf-connect.com CNAME .
 wz.allianz.fr CNAME .

@@ -42,6 +42,7 @@ a8.yuzen-official.com
 a8aspconv.xn--biglobe-kc9k.com
 a8aspconv.xn--ocn-ws1e.jp
 a8click.you-up.com
+a8click.young-mobile.net
 a8clk.app.offerbox.jp
 a8clk.apply-shop.menu.inc
 a8clk.asahi-net.or.jp
@@ -118,11 +119,13 @@ a8cv.greed-island.ne.jp
 a8cv.housingbazar.jp
 a8cv.iikyujin.net
 a8cv.ishibashi.co.jp
+a8cv.jp-shop.kiwabi.com
 a8cv.k-ikiiki.jp
 a8cv.kuih.jp
 a8cv.minana-jp.com
 a8cv.minnano-eikaiwa.com
 a8cv.modern-deco.jp
+a8cv.ogaland.com
 a8cv.omni7.jp
 a8cv.online.bell-road.com
 a8cv.p-antiaging.com

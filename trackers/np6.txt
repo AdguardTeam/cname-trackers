@@ -77,6 +77,7 @@
 ||tr.comunicacao.younited-credit.com^
 ||tr.contact.canalplus.fr^
 ||tr.contact.e-turf.fr^
+||tr.contact.thelist-emirates.fr^
 ||tr.contrat.location.boulanger.com^
 ||tr.contrats.cetelem.fr^
 ||tr.courriel.ouestnormandie.cci.fr^
@@ -215,6 +216,7 @@
 ||tr.news-companeo.mx^
 ||tr.news-companeo.pl^
 ||tr.news.accessmbatour.com^
+||tr.news.alibabuy.com^
 ||tr.news.alinea.com^
 ||tr.news.allopneus.com^
 ||tr.news.assuragency.net^
@@ -268,6 +270,7 @@
 ||tr.news.younited-coach.com^
 ||tr.news.younited-credit.com^
 ||tr.news2pjms.fr^
+||tr.news5.cdiscount.com^
 ||tr.news6.cdiscount.com^
 ||tr.newsletter.afpa.fr^
 ||tr.newsletter.assuragency.net^
@@ -324,6 +327,7 @@
 ||tr.ratm.espmp-agfr.net^
 ||tr.raym.espmp-agfr.net^
 ||tr.read.glose.com^
+||tr.recouvrement.younited-credit.com^
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^
 ||tr.relation.uneo.fr^
@@ -335,6 +339,7 @@
 ||tr.secteurentreprises.harmonie-mutuelle.fr^
 ||tr.serviceclient.gazservicerapide.fr^
 ||tr.serviceclient.somgaz.fr^
+||tr.serviceclient.younited-coach.com^
 ||tr.serviceclient.younited-credit.com^
 ||tr.services.alinea.com^
 ||tr.services.caradisiac.com^
@@ -367,6 +372,8 @@
 ||tr.welcome.odalys-vacances.com^
 ||tr.welcome.thelist-emirates.fr^
 ||tr.welcome.vipmag.fr^
+||tr.xleads.digital^
 ||tr1.citroen-ipsos.com^
 ||tr1.mailperf.com^
+||tr5.mailperf.com^
 ||trpreviews.bp01.net^

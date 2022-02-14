@@ -16,6 +16,7 @@
     * tk-engie-com.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
     * tk-jeux-loro-ch.wizaly.com
+    * tk-kidsaround-com.wizaly.com
     * tk-kitchendiet-fr.wizaly.com
     * tk-lamaisonduchocolat-com.wizaly.com
     * tk-lcl-fr.wizaly.com
@@ -27,6 +28,7 @@
     * tk-planete-oui-fr.wizaly.com
     * tk-rentacar-fr.wizaly.com
     * tk-salomon-com.wizaly.com
+    * tk-sncf.wizaly.com
     * tk-svsound-com.wizaly.com
     * tk-viapresse-com.wizaly.com
     * tk_prismashop_fr.wizaly.com
@@ -53,6 +55,7 @@
 | tk.engie.fr | tk-engie-com.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |
 | tk.jeux.loro.ch | tk-jeux-loro-ch.wizaly.com |
+| tk.kidsaround.com | tk-kidsaround-com.wizaly.com |
 | tk.kitchendiet.fr | tk-kitchendiet-fr.wizaly.com |
 | tk.lamaisonduchocolat.com | tk-lamaisonduchocolat-com.wizaly.com |
 | tk.lcl.fr | tk-lcl-fr.wizaly.com |
@@ -64,6 +67,7 @@
 | tk.planete-oui.fr | tk-planete-oui-fr.wizaly.com |
 | tk.rentacar.fr | tk-rentacar-fr.wizaly.com |
 | tk.salomon.com | tk-salomon-com.wizaly.com |
+| wiz.sncf-connect.com | tk-sncf.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |
 | tk.viapresse.com | tk-viapresse-com.wizaly.com |
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |

@@ -30,6 +30,7 @@ tk.dietbon.fr
 tk.engie.fr
 tk.healthwarehouse.com
 tk.jeux.loro.ch
+tk.kidsaround.com
 tk.kitchendiet.fr
 tk.klm.com
 tk.lamaisonduchocolat.com
@@ -49,4 +50,5 @@ tk.transavia.com
 tk.viapresse.com
 twiz.wizaly.fr
 wiz.ghostbed.com
+wiz.sncf-connect.com
 wz.allianz.fr

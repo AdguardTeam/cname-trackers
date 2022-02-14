@@ -10,7 +10,6 @@
 ||a.easyazon.com^
 ||a.fdmedia.io^
 ||a.getaawp.com^
-||a.hellonext.co^
 ||a.kryptonitewp.com^
 ||a.linkz.ai^
 ||a.mhthemes.com^
@@ -29,11 +28,9 @@
 ||analytics.explained-from-first-principles.com^
 ||analytics.fatalparadox.com^
 ||analytics.filiotech.com^
-||analytics.forgetwp.com^
 ||analytics.gamedatacrunch.com^
 ||analytics.givealittle.co^
 ||analytics.hiome.com^
-||analytics.itsnoahevans.co.uk^
 ||analytics.lunge.de^
 ||analytics.mambaui.com^
 ||analytics.mc500.info^
@@ -57,7 +54,6 @@
 ||analytics.winter.ink^
 ||analytics.wittypen.com^
 ||analytics.wpsermons.com^
-||analytics.zingerwebdesign.com^
 ||antitracking.owncast.online^
 ||ap.dt.gl^
 ||api.decentralize.today^
@@ -108,7 +104,6 @@
 ||l2k30jsa.theochu.com^
 ||loggychops.paulsmith.site^
 ||meter.bref.sh^
-||miernik.technologiewdomu.pl^
 ||momotaro.craigmod.com^
 ||momotaro.walkkumano.com^
 ||munnin.hicsuntdra.co^
@@ -234,6 +229,7 @@
 ||s.nerdfulmind.com^
 ||s.nslookup.io^
 ||s.schlachter.tech^
+||s.somos-arts.org^
 ||s.sporks.space^
 ||sa.flux.community^
 ||sats.mailbrew.com^
@@ -350,7 +346,6 @@
 ||stats.flightsphere.com^
 ||stats.formcrafts.com^
 ||stats.frenlo.com^
-||stats.fruechtl.me^
 ||stats.fullofwishes.co.uk^
 ||stats.fundimmo.com^
 ||stats.galleriacortona.com^
@@ -416,6 +411,7 @@
 ||stats.lord.io^
 ||stats.ltdhunt.com^
 ||stats.ltodrivingschools.org^
+||stats.luieremmer.net^
 ||stats.lumen-app.com^
 ||stats.lussoveloce.com^
 ||stats.macosicons.com^
@@ -424,6 +420,7 @@
 ||stats.maferland.com^
 ||stats.martinbetz.eu^
 ||stats.marudor.de^
+||stats.mashword.com^
 ||stats.masjidbox.com^
 ||stats.mastermeup.com^
 ||stats.matthiasloibl.com^
@@ -458,6 +455,7 @@
 ||stats.onepagelove.com^
 ||stats.openwebcraft.com^
 ||stats.orbitalhealth.co^
+||stats.ordinarypuzzles.com^
 ||stats.ortussolutions.com^
 ||stats.oursky.com^
 ||stats.oxygem.com^
@@ -481,6 +479,7 @@
 ||stats.poesieundgenuss.com^
 ||stats.pointflottant.com^
 ||stats.polekatfitness.com^
+||stats.populang.com^
 ||stats.portabella.io^
 ||stats.poweringpastcoal.org^
 ||stats.pri.org^

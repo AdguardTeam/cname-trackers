@@ -15,7 +15,6 @@
 | a.easyazon.com | custom.plausible.io |
 | a.fdmedia.io | custom.plausible.io |
 | a.getaawp.com | custom.plausible.io |
-| a.hellonext.co | custom.plausible.io |
 | a.kryptonitewp.com | custom.plausible.io |
 | a.linkz.ai | custom.plausible.io |
 | a.mhthemes.com | custom.plausible.io |
@@ -34,11 +33,9 @@
 | analytics.explained-from-first-principles.com | custom.plausible.io |
 | analytics.fatalparadox.com | custom.plausible.io |
 | analytics.filiotech.com | custom.plausible.io |
-| analytics.forgetwp.com | custom.plausible.io |
 | analytics.gamedatacrunch.com | custom.plausible.io |
 | analytics.givealittle.co | custom.plausible.io |
 | analytics.hiome.com | custom.plausible.io |
-| analytics.itsnoahevans.co.uk | custom.plausible.io |
 | analytics.lunge.de | custom.plausible.io |
 | analytics.mambaui.com | custom.plausible.io |
 | analytics.mc500.info | custom.plausible.io |
@@ -62,7 +59,6 @@
 | analytics.winter.ink | custom.plausible.io |
 | analytics.wittypen.com | custom.plausible.io |
 | analytics.wpsermons.com | custom.plausible.io |
-| analytics.zingerwebdesign.com | custom.plausible.io |
 | antitracking.owncast.online | custom.plausible.io |
 | ap.dt.gl | custom.plausible.io |
 | api.decentralize.today | custom.plausible.io |
@@ -113,7 +109,6 @@
 | l2k30jsa.theochu.com | custom.plausible.io |
 | loggychops.paulsmith.site | custom.plausible.io |
 | meter.bref.sh | custom.plausible.io |
-| miernik.technologiewdomu.pl | custom.plausible.io |
 | momotaro.craigmod.com | custom.plausible.io |
 | momotaro.walkkumano.com | custom.plausible.io |
 | munnin.hicsuntdra.co | custom.plausible.io |
@@ -239,6 +234,7 @@
 | s.nerdfulmind.com | custom.plausible.io |
 | s.nslookup.io | custom.plausible.io |
 | s.schlachter.tech | custom.plausible.io |
+| s.somos-arts.org | custom.plausible.io |
 | s.sporks.space | custom.plausible.io |
 | sa.flux.community | custom.plausible.io |
 | sats.mailbrew.com | custom.plausible.io |
@@ -355,7 +351,6 @@
 | stats.flightsphere.com | custom.plausible.io |
 | stats.formcrafts.com | custom.plausible.io |
 | stats.frenlo.com | custom.plausible.io |
-| stats.fruechtl.me | custom.plausible.io |
 | stats.fullofwishes.co.uk | custom.plausible.io |
 | stats.fundimmo.com | custom.plausible.io |
 | stats.galleriacortona.com | custom.plausible.io |
@@ -421,6 +416,7 @@
 | stats.lord.io | custom.plausible.io |
 | stats.ltdhunt.com | custom.plausible.io |
 | stats.ltodrivingschools.org | custom.plausible.io |
+| stats.luieremmer.net | custom.plausible.io |
 | stats.lumen-app.com | custom.plausible.io |
 | stats.lussoveloce.com | custom.plausible.io |
 | stats.macosicons.com | custom.plausible.io |
@@ -429,6 +425,7 @@
 | stats.maferland.com | custom.plausible.io |
 | stats.martinbetz.eu | custom.plausible.io |
 | stats.marudor.de | custom.plausible.io |
+| stats.mashword.com | custom.plausible.io |
 | stats.masjidbox.com | custom.plausible.io |
 | stats.mastermeup.com | custom.plausible.io |
 | stats.matthiasloibl.com | custom.plausible.io |
@@ -463,6 +460,7 @@
 | stats.onepagelove.com | custom.plausible.io |
 | stats.openwebcraft.com | custom.plausible.io |
 | stats.orbitalhealth.co | custom.plausible.io |
+| stats.ordinarypuzzles.com | custom.plausible.io |
 | stats.ortussolutions.com | custom.plausible.io |
 | stats.oursky.com | custom.plausible.io |
 | stats.oxygem.com | custom.plausible.io |
@@ -486,6 +484,7 @@
 | stats.poesieundgenuss.com | custom.plausible.io |
 | stats.pointflottant.com | custom.plausible.io |
 | stats.polekatfitness.com | custom.plausible.io |
+| stats.populang.com | custom.plausible.io |
 | stats.portabella.io | custom.plausible.io |
 | stats.poweringpastcoal.org | custom.plausible.io |
 | stats.pri.org | custom.plausible.io |

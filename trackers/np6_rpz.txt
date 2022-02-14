@@ -77,6 +77,7 @@ tr.compte.fca-capital-france.fr CNAME .
 tr.comunicacao.younited-credit.com CNAME .
 tr.contact.canalplus.fr CNAME .
 tr.contact.e-turf.fr CNAME .
+tr.contact.thelist-emirates.fr CNAME .
 tr.contrat.location.boulanger.com CNAME .
 tr.contrats.cetelem.fr CNAME .
 tr.courriel.ouestnormandie.cci.fr CNAME .
@@ -215,6 +216,7 @@ tr.news-companeo.fr CNAME .
 tr.news-companeo.mx CNAME .
 tr.news-companeo.pl CNAME .
 tr.news.accessmbatour.com CNAME .
+tr.news.alibabuy.com CNAME .
 tr.news.alinea.com CNAME .
 tr.news.allopneus.com CNAME .
 tr.news.assuragency.net CNAME .
@@ -268,6 +270,7 @@ tr.news.vraaguwofferte.com CNAME .
 tr.news.younited-coach.com CNAME .
 tr.news.younited-credit.com CNAME .
 tr.news2pjms.fr CNAME .
+tr.news5.cdiscount.com CNAME .
 tr.news6.cdiscount.com CNAME .
 tr.newsletter.afpa.fr CNAME .
 tr.newsletter.assuragency.net CNAME .
@@ -324,6 +327,7 @@ tr.ra.cofinoga.fr CNAME .
 tr.ratm.espmp-agfr.net CNAME .
 tr.raym.espmp-agfr.net CNAME .
 tr.read.glose.com CNAME .
+tr.recouvrement.younited-credit.com CNAME .
 tr.redaction.essentiel-sante-magazine.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .
 tr.relation.uneo.fr CNAME .
@@ -335,6 +339,7 @@ tr.scienceshumaines.pro CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
 tr.serviceclient.gazservicerapide.fr CNAME .
 tr.serviceclient.somgaz.fr CNAME .
+tr.serviceclient.younited-coach.com CNAME .
 tr.serviceclient.younited-credit.com CNAME .
 tr.services.alinea.com CNAME .
 tr.services.caradisiac.com CNAME .
@@ -367,6 +372,8 @@ tr.welcome.moncoupdepouce.com CNAME .
 tr.welcome.odalys-vacances.com CNAME .
 tr.welcome.thelist-emirates.fr CNAME .
 tr.welcome.vipmag.fr CNAME .
+tr.xleads.digital CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.mailperf.com CNAME .
+tr5.mailperf.com CNAME .
 trpreviews.bp01.net CNAME .

@@ -42,6 +42,7 @@ a8.yuzen-official.com CNAME .
 a8aspconv.xn--biglobe-kc9k.com CNAME .
 a8aspconv.xn--ocn-ws1e.jp CNAME .
 a8click.you-up.com CNAME .
+a8click.young-mobile.net CNAME .
 a8clk.app.offerbox.jp CNAME .
 a8clk.apply-shop.menu.inc CNAME .
 a8clk.asahi-net.or.jp CNAME .
@@ -118,11 +119,13 @@ a8cv.greed-island.ne.jp CNAME .
 a8cv.housingbazar.jp CNAME .
 a8cv.iikyujin.net CNAME .
 a8cv.ishibashi.co.jp CNAME .
+a8cv.jp-shop.kiwabi.com CNAME .
 a8cv.k-ikiiki.jp CNAME .
 a8cv.kuih.jp CNAME .
 a8cv.minana-jp.com CNAME .
 a8cv.minnano-eikaiwa.com CNAME .
 a8cv.modern-deco.jp CNAME .
+a8cv.ogaland.com CNAME .
 a8cv.omni7.jp CNAME .
 a8cv.online.bell-road.com CNAME .
 a8cv.p-antiaging.com CNAME .

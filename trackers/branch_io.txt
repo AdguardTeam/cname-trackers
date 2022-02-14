@@ -3,6 +3,7 @@
 !
 ! thirdparty.bnc.lt disguised trackers
 !
+||18052925.im.intermiles.com^
 ||19035924.automated.almosafer.com^
 ||19035924.email.almosafer.com^
 ||19035924.loyalty.almosafer.com^
@@ -159,11 +160,9 @@
 ||ablink.your.audacy.com^
 ||ablinkclicktest.prod.aws.skyscnr.com^
 ||ablinks.comms.healthengine.com.au^
-||ablinks.e.draft.com^
 ||ablinks.e.foxsports.com.au^
 ||ablinks.info.amaro.com^
 ||ablinks.kfc.com.au^
-||ablinks.m.draft.com^
 ||ablinks.mail.claritymoney.com^
 ||ablinks.mail.hinge.co^
 ||ablinks.marketing.numi.com^
@@ -296,6 +295,7 @@
 ||email.clearscore.co.za^
 ||email.clearscore.com^
 ||email.clearscore.com.au^
+||email.everyonesocial.circle.com^
 ||email.everyonesocial.r3.com^
 ||email.everyonesocial.united.com^
 ||email.everyonesocial.unity.com^
@@ -370,6 +370,7 @@
 ||link.hello.unum.la^
 ||link.hello2-sg.circles.life^
 ||link.hey.mypostcard.com^
+||link.im.intermiles.com^
 ||link.info.myfitnesspal.com^
 ||link.kdkmoments.com^
 ||link.kingsnews.whopper.co.za^
@@ -407,6 +408,7 @@
 ||link.watchbravotv.com^
 ||link.watchoxygen.com^
 ||link.yourway.burgerking.ca^
+||links-anz.afterpay.com^
 ||links-na.afterpay.com^
 ||links.ab.soul-cycle.email^
 ||links.alerts.depop.com^
@@ -463,7 +465,6 @@
 ||links.justfab.es^
 ||links.justfab.fr^
 ||links.m.blueapron.com^
-||links.mail.allbirds.com^
 ||links.mail.stubhub.com^
 ||links.marketing.getprizepool.com^
 ||links.nbc.com^

@@ -10,7 +10,6 @@ a.ctd.ai CNAME .
 a.easyazon.com CNAME .
 a.fdmedia.io CNAME .
 a.getaawp.com CNAME .
-a.hellonext.co CNAME .
 a.kryptonitewp.com CNAME .
 a.linkz.ai CNAME .
 a.mhthemes.com CNAME .
@@ -29,11 +28,9 @@ analytics.dogecoin.gg CNAME .
 analytics.explained-from-first-principles.com CNAME .
 analytics.fatalparadox.com CNAME .
 analytics.filiotech.com CNAME .
-analytics.forgetwp.com CNAME .
 analytics.gamedatacrunch.com CNAME .
 analytics.givealittle.co CNAME .
 analytics.hiome.com CNAME .
-analytics.itsnoahevans.co.uk CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
 analytics.mc500.info CNAME .
@@ -57,7 +54,6 @@ analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
 analytics.wittypen.com CNAME .
 analytics.wpsermons.com CNAME .
-analytics.zingerwebdesign.com CNAME .
 antitracking.owncast.online CNAME .
 ap.dt.gl CNAME .
 api.decentralize.today CNAME .
@@ -108,7 +104,6 @@ ks.walkq.com CNAME .
 l2k30jsa.theochu.com CNAME .
 loggychops.paulsmith.site CNAME .
 meter.bref.sh CNAME .
-miernik.technologiewdomu.pl CNAME .
 momotaro.craigmod.com CNAME .
 momotaro.walkkumano.com CNAME .
 munnin.hicsuntdra.co CNAME .
@@ -234,6 +229,7 @@ s.maxrozen.com CNAME .
 s.nerdfulmind.com CNAME .
 s.nslookup.io CNAME .
 s.schlachter.tech CNAME .
+s.somos-arts.org CNAME .
 s.sporks.space CNAME .
 sa.flux.community CNAME .
 sats.mailbrew.com CNAME .
@@ -350,7 +346,6 @@ stats.femtobill.com CNAME .
 stats.flightsphere.com CNAME .
 stats.formcrafts.com CNAME .
 stats.frenlo.com CNAME .
-stats.fruechtl.me CNAME .
 stats.fullofwishes.co.uk CNAME .
 stats.fundimmo.com CNAME .
 stats.galleriacortona.com CNAME .
@@ -416,6 +411,7 @@ stats.lollipoptest.at CNAME .
 stats.lord.io CNAME .
 stats.ltdhunt.com CNAME .
 stats.ltodrivingschools.org CNAME .
+stats.luieremmer.net CNAME .
 stats.lumen-app.com CNAME .
 stats.lussoveloce.com CNAME .
 stats.macosicons.com CNAME .
@@ -424,6 +420,7 @@ stats.madeit.io CNAME .
 stats.maferland.com CNAME .
 stats.martinbetz.eu CNAME .
 stats.marudor.de CNAME .
+stats.mashword.com CNAME .
 stats.masjidbox.com CNAME .
 stats.mastermeup.com CNAME .
 stats.matthiasloibl.com CNAME .
@@ -458,6 +455,7 @@ stats.offthekerb.com CNAME .
 stats.onepagelove.com CNAME .
 stats.openwebcraft.com CNAME .
 stats.orbitalhealth.co CNAME .
+stats.ordinarypuzzles.com CNAME .
 stats.ortussolutions.com CNAME .
 stats.oursky.com CNAME .
 stats.oxygem.com CNAME .
@@ -481,6 +479,7 @@ stats.plastbest.sk CNAME .
 stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
+stats.populang.com CNAME .
 stats.portabella.io CNAME .
 stats.poweringpastcoal.org CNAME .
 stats.pri.org CNAME .

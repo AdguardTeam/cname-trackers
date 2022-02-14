@@ -31,6 +31,7 @@
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
 ||c0i.ckoi.com^
+||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||cc.conforama.es^
 ||ch0p.darty.com^
@@ -90,7 +91,6 @@
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
 ||ea.mondial-assistance.fr^
-||ea.monnierfreres.com^
 ||ea.natiloo.com^
 ||ea.nextseguros.es^
 ||ea.odalys-vacances.com^
@@ -165,6 +165,7 @@
 ||gdm1.toner.fr^
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
+||gi7a.structube.com^
 ||gti3.culture.leclerc^
 ||gti3.hightech.leclerc^
 ||guq9.vente-unique.it^
@@ -174,6 +175,7 @@
 ||hby7.destinia.it^
 ||he6e.lavieimmo.com^
 ||hgf4.zanzicar.fr^
+||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^

@@ -20,6 +20,7 @@ track.emeza.ch CNAME .
 track.emeza.com CNAME .
 track.yellostrom.de CNAME .
 tracking.netcologne.de CNAME .
+tracking.tchibo.ch CNAME .
 tracking.tchibo.com.tr CNAME .
 tracking.tchibo.de CNAME .
 trk.nuernberger.de CNAME .
@@ -54,6 +55,7 @@ census.misterspex.nl CNAME .
 census.misterspex.no CNAME .
 census.misterspex.se CNAME .
 cijfers.tweakers.nl CNAME .
+da.bodenhaus.de CNAME .
 da.hornbach.at CNAME .
 da.hornbach.ch CNAME .
 da.hornbach.cz CNAME .
@@ -198,6 +200,7 @@ web.info.yeppon.it CNAME .
 web.mail.proximaati.com CNAME .
 web.mapp.ilgiardinodeilibri.it CNAME .
 web.mapp.skousen.dk CNAME .
+web.mapp.skousen.no CNAME .
 web.mapp.tretti.se CNAME .
 web.mapp.whiteaway.com CNAME .
 web.marketing.elbenwald.de CNAME .

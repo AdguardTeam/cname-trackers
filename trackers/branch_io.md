@@ -13,6 +13,7 @@
 | clicked.ebates.com | epsilon.thirdparty.bnc.lt |
 | e.synchronybank.com | epsilon.thirdparty.bnc.lt |
 | sephora-qa.branchstaging.com | epsilon.thirdparty.bnc.lt |
+| 18052925.im.intermiles.com | thirdparty.bnc.lt |
 | 19035924.automated.almosafer.com | thirdparty.bnc.lt |
 | 19035924.email.almosafer.com | thirdparty.bnc.lt |
 | 19035924.loyalty.almosafer.com | thirdparty.bnc.lt |
@@ -169,11 +170,9 @@
 | ablink.your.audacy.com | thirdparty.bnc.lt |
 | ablinkclicktest.prod.aws.skyscnr.com | thirdparty.bnc.lt |
 | ablinks.comms.healthengine.com.au | thirdparty.bnc.lt |
-| ablinks.e.draft.com | thirdparty.bnc.lt |
 | ablinks.e.foxsports.com.au | thirdparty.bnc.lt |
 | ablinks.info.amaro.com | thirdparty.bnc.lt |
 | ablinks.kfc.com.au | thirdparty.bnc.lt |
-| ablinks.m.draft.com | thirdparty.bnc.lt |
 | ablinks.mail.claritymoney.com | thirdparty.bnc.lt |
 | ablinks.mail.hinge.co | thirdparty.bnc.lt |
 | ablinks.marketing.numi.com | thirdparty.bnc.lt |
@@ -303,6 +302,7 @@
 | email.clearscore.co.za | thirdparty.bnc.lt |
 | email.clearscore.com | thirdparty.bnc.lt |
 | email.clearscore.com.au | thirdparty.bnc.lt |
+| email.everyonesocial.circle.com | thirdparty.bnc.lt |
 | email.everyonesocial.r3.com | thirdparty.bnc.lt |
 | email.everyonesocial.united.com | thirdparty.bnc.lt |
 | email.everyonesocial.unity.com | thirdparty.bnc.lt |
@@ -377,6 +377,7 @@
 | link.hello.unum.la | thirdparty.bnc.lt |
 | link.hello2-sg.circles.life | thirdparty.bnc.lt |
 | link.hey.mypostcard.com | thirdparty.bnc.lt |
+| link.im.intermiles.com | thirdparty.bnc.lt |
 | link.info.myfitnesspal.com | thirdparty.bnc.lt |
 | link.kdkmoments.com | thirdparty.bnc.lt |
 | link.kingsnews.whopper.co.za | thirdparty.bnc.lt |
@@ -414,6 +415,7 @@
 | link.watchbravotv.com | thirdparty.bnc.lt |
 | link.watchoxygen.com | thirdparty.bnc.lt |
 | link.yourway.burgerking.ca | thirdparty.bnc.lt |
+| links-anz.afterpay.com | thirdparty.bnc.lt |
 | links-na.afterpay.com | thirdparty.bnc.lt |
 | links.ab.soul-cycle.email | thirdparty.bnc.lt |
 | links.alerts.depop.com | thirdparty.bnc.lt |
@@ -470,7 +472,6 @@
 | links.justfab.es | thirdparty.bnc.lt |
 | links.justfab.fr | thirdparty.bnc.lt |
 | links.m.blueapron.com | thirdparty.bnc.lt |
-| links.mail.allbirds.com | thirdparty.bnc.lt |
 | links.mail.stubhub.com | thirdparty.bnc.lt |
 | links.marketing.getprizepool.com | thirdparty.bnc.lt |
 | links.nbc.com | thirdparty.bnc.lt |
