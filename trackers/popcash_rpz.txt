@@ -1,0 +1,46 @@
+;
+; Company name: PopCash
+;
+; popcashjs.b-cdn.net disguised trackers
+;
+cdn.agcm.xyz CNAME .
+cdn.alota.xyz CNAME .
+cdn.aprick.xyz CNAME .
+cdn.asdb.xyz CNAME .
+cdn.asdfix.com CNAME .
+cdn.asdnow.xyz CNAME .
+cdn.asecv.xyz CNAME .
+cdn.asrop.xyz CNAME .
+cdn.barlo.xyz CNAME .
+cdn.bbes.xyz CNAME .
+cdn.brtv.xyz CNAME .
+cdn.buram.xyz CNAME .
+cdn.ddow.xyz CNAME .
+cdn.drawx.xyz CNAME .
+cdn.eecd.xyz CNAME .
+cdn.eeco.xyz CNAME .
+cdn.fagold.xyz CNAME .
+cdn.fdsgv.xyz CNAME .
+cdn.fedsy.xyz CNAME .
+cdn.gecl.xyz CNAME .
+cdn.gtrd.xyz CNAME .
+cdn.iople.com CNAME .
+cdn.lemonet.xyz CNAME .
+cdn.morps.xyz CNAME .
+cdn.namol.xyz CNAME .
+cdn.nlop.xyz CNAME .
+cdn.nuqwe.com CNAME .
+cdn.popclow.xyz CNAME .
+cdn.popjs.xyz CNAME .
+cdn.poptri.com CNAME .
+cdn.popwad.xyz CNAME .
+cdn.popwow.xyz CNAME .
+cdn.rgrd.xyz CNAME .
+cdn.sawron.xyz CNAME .
+cdn.spnut.com CNAME .
+cdn.srxy.xyz CNAME .
+cdn.trejar.com CNAME .
+cdn.wwfx.xyz CNAME .
+cdn.xapa.xyz CNAME .
+cdn.xaxo.xyz CNAME .
+cdn.zxclan.com CNAME .

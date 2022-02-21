@@ -186,6 +186,7 @@ ape.maximzubarev.com CNAME .
 ape.mfj.se CNAME .
 ape.nusii.com CNAME .
 ape.smartplanschema.se CNAME .
+armadillo.axeneo7.qc.ca CNAME .
 armadillo.gothiacup.se CNAME .
 armadillo.stacking.club CNAME .
 asp.chop-shop.com.au CNAME .
@@ -422,6 +423,7 @@ hedgehog.fightforthefuture.org CNAME .
 hedgehog.impira.com CNAME .
 heron.joel.is CNAME .
 heron.notability.com CNAME .
+heron.oneaudiobooks.app CNAME .
 herring.artemis.cloud CNAME .
 hookworm.commanddot.com CNAME .
 horse.deadmanssnitch.com CNAME .
@@ -486,6 +488,7 @@ louse.messengo.com CNAME .
 louse.seanconnolly.dev CNAME .
 louse.sigle.io CNAME .
 lungfish.datadividendproject.com CNAME .
+lynx.microl.ink CNAME .
 lynx.sbstjn.com CNAME .
 lynx.simpleparish.com CNAME .
 macaw.ianmitchell.dev CNAME .
@@ -568,6 +571,7 @@ pelican.jatikhwan.com CNAME .
 pelican.protomaps.com CNAME .
 penguin.craftpeak.io CNAME .
 penguin.mobiadroit.com CNAME .
+perch.matiasvad.com CNAME .
 perch.searchwp.com CNAME .
 pheasant.ampapageorgiou.gr CNAME .
 pig.curtisherbert.com CNAME .

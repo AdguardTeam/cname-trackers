@@ -503,6 +503,7 @@ www.ches5sort.com CNAME .
 www.chic9usia.com CNAME .
 www.chip2gift.com CNAME .
 www.chrs-mln-krs.com CNAME .
+www.click-to-trace.com CNAME .
 www.cloud-9751.com CNAME .
 www.clue6load.com CNAME .
 www.cnej4912jks.com CNAME .
@@ -511,6 +512,7 @@ www.cntr-di5.com CNAME .
 www.cntr-di7.com CNAME .
 www.coax7nice.com CNAME .
 www.connct-9.com CNAME .
+www.copy9loom.com CNAME .
 www.coup7cold.com CNAME .
 www.create-tracking.com CNAME .
 www.cten10010.com CNAME .
@@ -674,6 +676,7 @@ www.optimum-xyz.com CNAME .
 www.otto5loki.com CNAME .
 www.page1monk.com CNAME .
 www.page9awry.com CNAME .
+www.pair1tune.com CNAME .
 www.path5wall.com CNAME .
 www.pdxor02.com CNAME .
 www.peak2poem.com CNAME .
@@ -686,6 +689,7 @@ www.poor5zero.com CNAME .
 www.poqwo3.com CNAME .
 www.pri12mel.com CNAME .
 www.prt-or-067.com CNAME .
+www.pump8walk.com CNAME .
 www.qetup12.com CNAME .
 www.qlzn6i1l.com CNAME .
 www.qpwoei2.com CNAME .

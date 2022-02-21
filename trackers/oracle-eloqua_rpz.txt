@@ -9,7 +9,6 @@ access.acspubs.org CNAME .
 access.sunpower.com CNAME .
 acq-au.americanexpress.com CNAME .
 acq-hk.americanexpress.com CNAME .
-acq-sg.americanexpress.com CNAME .
 activity.asce.org CNAME .
 admina.carte-gr.total.fr CNAME .
 adminspace.carte-gr.total.fr CNAME .
@@ -18,8 +17,6 @@ afhleads.keurig.ca CNAME .
 agentcomm.mercuryinsurance.com CNAME .
 ai.mist.com CNAME .
 aladdinupdate.blackrock.com CNAME .
-alertsatwork.americanexpress.com CNAME .
-allergy.thermofisher.com CNAME .
 alquiler.carflex.es CNAME .
 amplify.strategic-i.com CNAME .
 analytics.aba.com CNAME .
@@ -29,8 +26,6 @@ answers.teradata.com CNAME .
 answers.teradata.pl CNAME .
 antwort.hager.de CNAME .
 apac.info.mouser.com CNAME .
-apac.zendesk.com CNAME .
-apacenews.roche.com CNAME .
 apcinfo.motorolasolutions.com CNAME .
 apcinfo.vertexstandard.com CNAME .
 app.3d.ultimaker.com CNAME .
@@ -65,11 +60,8 @@ appsecurezomation.carte-gr.total.fr CNAME .
 ask.legalsolutions.thomsonreuters.info CNAME .
 assets.spectrumhealthlakeland.org CNAME .
 auforex.americanexpress.com CNAME .
-autoimmunity.thermofisher.com CNAME .
-automate.opex.com CNAME .
 b.bloomberglp.com CNAME .
 b2bmarketing.swisscom.ch CNAME .
-b2bmarketingsb.swisscom.ch CNAME .
 b2bmarketingsb.swisscom.com CNAME .
 b2bmkt.lge.co.kr CNAME .
 badirectoryz.carte-gr.total.fr CNAME .
@@ -134,14 +126,12 @@ cockpitdcbaima.carte-gr.total.fr CNAME .
 cockpitexchanges.carte-gr.total.fr CNAME .
 cockpitproximity.carte-gr.total.fr CNAME .
 cockpitwaykonectoryz.carte-gr.total.fr CNAME .
-comm.toro.com CNAME .
 commanslabdpp.carte-gr.total.fr CNAME .
 commanslabdspace.carte-gr.total.fr CNAME .
 comms.cigna.es CNAME .
 comms.hello.global.ntt CNAME .
 communicatie.vub.be CNAME .
 communication.adpinfo.com CNAME .
-communication.imec.be CNAME .
 communication.imechyperspectral.com CNAME .
 communication.ricoh.fr CNAME .
 comunicaciones.davivienda.com.pa CNAME .
@@ -303,15 +293,12 @@ eloquatracking.mindbody.io CNAME .
 eloquatracking.relayr.io CNAME .
 elq-lantern.ruggedsolution.getac.com CNAME .
 elq-trk.fullsail.edu CNAME .
-elq.accuity.com CNAME .
 elq.blackrock.com CNAME .
 elq.cirium.com CNAME .
 elq.eg.co.uk CNAME .
 elq.egi.co.uk CNAME .
 elq.farmplan.co.uk CNAME .
 elq.forrester.com CNAME .
-elq.icis.com CNAME .
-elq.irobot.com CNAME .
 elq.keysight.com CNAME .
 elq.macu.com CNAME .
 elq.mouser.ca CNAME .
@@ -402,7 +389,6 @@ email.lottehotel.com CNAME .
 email.mymandg.co.uk CNAME .
 emea.info.mouser.com CNAME .
 emeaevents.americanexpress.com CNAME .
-empresa.ricoh.es CNAME .
 endpoint2.secureforms.mcafee.com CNAME .
 energy.eneco.be CNAME .
 eng.info.mouser.com CNAME .

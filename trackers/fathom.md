@@ -49,6 +49,7 @@
 | ape.mfj.se | a2f41194651173ebf.awsglobalaccelerator.com |
 | ape.nusii.com | a2f41194651173ebf.awsglobalaccelerator.com |
 | ape.smartplanschema.se | a2f41194651173ebf.awsglobalaccelerator.com |
+| armadillo.axeneo7.qc.ca | a2f41194651173ebf.awsglobalaccelerator.com |
 | armadillo.gothiacup.se | a2f41194651173ebf.awsglobalaccelerator.com |
 | armadillo.stacking.club | a2f41194651173ebf.awsglobalaccelerator.com |
 | asp.chop-shop.com.au | a2f41194651173ebf.awsglobalaccelerator.com |
@@ -285,6 +286,7 @@
 | hedgehog.impira.com | a2f41194651173ebf.awsglobalaccelerator.com |
 | heron.joel.is | a2f41194651173ebf.awsglobalaccelerator.com |
 | heron.notability.com | a2f41194651173ebf.awsglobalaccelerator.com |
+| heron.oneaudiobooks.app | a2f41194651173ebf.awsglobalaccelerator.com |
 | herring.artemis.cloud | a2f41194651173ebf.awsglobalaccelerator.com |
 | hookworm.commanddot.com | a2f41194651173ebf.awsglobalaccelerator.com |
 | horse.deadmanssnitch.com | a2f41194651173ebf.awsglobalaccelerator.com |
@@ -349,6 +351,7 @@
 | louse.seanconnolly.dev | a2f41194651173ebf.awsglobalaccelerator.com |
 | louse.sigle.io | a2f41194651173ebf.awsglobalaccelerator.com |
 | lungfish.datadividendproject.com | a2f41194651173ebf.awsglobalaccelerator.com |
+| lynx.microl.ink | a2f41194651173ebf.awsglobalaccelerator.com |
 | lynx.sbstjn.com | a2f41194651173ebf.awsglobalaccelerator.com |
 | lynx.simpleparish.com | a2f41194651173ebf.awsglobalaccelerator.com |
 | macaw.ianmitchell.dev | a2f41194651173ebf.awsglobalaccelerator.com |
@@ -431,6 +434,7 @@
 | pelican.protomaps.com | a2f41194651173ebf.awsglobalaccelerator.com |
 | penguin.craftpeak.io | a2f41194651173ebf.awsglobalaccelerator.com |
 | penguin.mobiadroit.com | a2f41194651173ebf.awsglobalaccelerator.com |
+| perch.matiasvad.com | a2f41194651173ebf.awsglobalaccelerator.com |
 | perch.searchwp.com | a2f41194651173ebf.awsglobalaccelerator.com |
 | pheasant.ampapageorgiou.gr | a2f41194651173ebf.awsglobalaccelerator.com |
 | pig.curtisherbert.com | a2f41194651173ebf.awsglobalaccelerator.com |

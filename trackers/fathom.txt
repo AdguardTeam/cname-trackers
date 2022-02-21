@@ -186,6 +186,7 @@
 ||ape.mfj.se^
 ||ape.nusii.com^
 ||ape.smartplanschema.se^
+||armadillo.axeneo7.qc.ca^
 ||armadillo.gothiacup.se^
 ||armadillo.stacking.club^
 ||asp.chop-shop.com.au^
@@ -422,6 +423,7 @@
 ||hedgehog.impira.com^
 ||heron.joel.is^
 ||heron.notability.com^
+||heron.oneaudiobooks.app^
 ||herring.artemis.cloud^
 ||hookworm.commanddot.com^
 ||horse.deadmanssnitch.com^
@@ -486,6 +488,7 @@
 ||louse.seanconnolly.dev^
 ||louse.sigle.io^
 ||lungfish.datadividendproject.com^
+||lynx.microl.ink^
 ||lynx.sbstjn.com^
 ||lynx.simpleparish.com^
 ||macaw.ianmitchell.dev^
@@ -568,6 +571,7 @@
 ||pelican.protomaps.com^
 ||penguin.craftpeak.io^
 ||penguin.mobiadroit.com^
+||perch.matiasvad.com^
 ||perch.searchwp.com^
 ||pheasant.ampapageorgiou.gr^
 ||pig.curtisherbert.com^

@@ -9,7 +9,6 @@
 ||access.sunpower.com^
 ||acq-au.americanexpress.com^
 ||acq-hk.americanexpress.com^
-||acq-sg.americanexpress.com^
 ||activity.asce.org^
 ||admina.carte-gr.total.fr^
 ||adminspace.carte-gr.total.fr^
@@ -18,8 +17,6 @@
 ||agentcomm.mercuryinsurance.com^
 ||ai.mist.com^
 ||aladdinupdate.blackrock.com^
-||alertsatwork.americanexpress.com^
-||allergy.thermofisher.com^
 ||alquiler.carflex.es^
 ||amplify.strategic-i.com^
 ||analytics.aba.com^
@@ -29,8 +26,6 @@
 ||answers.teradata.pl^
 ||antwort.hager.de^
 ||apac.info.mouser.com^
-||apac.zendesk.com^
-||apacenews.roche.com^
 ||apcinfo.motorolasolutions.com^
 ||apcinfo.vertexstandard.com^
 ||app.3d.ultimaker.com^
@@ -65,11 +60,8 @@
 ||ask.legalsolutions.thomsonreuters.info^
 ||assets.spectrumhealthlakeland.org^
 ||auforex.americanexpress.com^
-||autoimmunity.thermofisher.com^
-||automate.opex.com^
 ||b.bloomberglp.com^
 ||b2bmarketing.swisscom.ch^
-||b2bmarketingsb.swisscom.ch^
 ||b2bmarketingsb.swisscom.com^
 ||b2bmkt.lge.co.kr^
 ||badirectoryz.carte-gr.total.fr^
@@ -134,14 +126,12 @@
 ||cockpitexchanges.carte-gr.total.fr^
 ||cockpitproximity.carte-gr.total.fr^
 ||cockpitwaykonectoryz.carte-gr.total.fr^
-||comm.toro.com^
 ||commanslabdpp.carte-gr.total.fr^
 ||commanslabdspace.carte-gr.total.fr^
 ||comms.cigna.es^
 ||comms.hello.global.ntt^
 ||communicatie.vub.be^
 ||communication.adpinfo.com^
-||communication.imec.be^
 ||communication.imechyperspectral.com^
 ||communication.ricoh.fr^
 ||comunicaciones.davivienda.com.pa^
@@ -303,15 +293,12 @@
 ||eloquatracking.relayr.io^
 ||elq-lantern.ruggedsolution.getac.com^
 ||elq-trk.fullsail.edu^
-||elq.accuity.com^
 ||elq.blackrock.com^
 ||elq.cirium.com^
 ||elq.eg.co.uk^
 ||elq.egi.co.uk^
 ||elq.farmplan.co.uk^
 ||elq.forrester.com^
-||elq.icis.com^
-||elq.irobot.com^
 ||elq.keysight.com^
 ||elq.macu.com^
 ||elq.mouser.ca^
@@ -402,7 +389,6 @@
 ||email.mymandg.co.uk^
 ||emea.info.mouser.com^
 ||emeaevents.americanexpress.com^
-||empresa.ricoh.es^
 ||endpoint2.secureforms.mcafee.com^
 ||energy.eneco.be^
 ||eng.info.mouser.com^
