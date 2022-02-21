@@ -62,6 +62,7 @@ tr.com-parc.sfr.fr
 tr.com-red.sfr.fr
 tr.com-web.sfr.fr
 tr.com.sfr.fr
+tr.commande.location.boulanger.com
 tr.communaute.caradisiac.com
 tr.communautes-mediametrie.fr
 tr.communication-comptable.fr
@@ -76,6 +77,7 @@ tr.communication.offresb2b.fr
 tr.compte.fca-capital-france.fr
 tr.comunicacao.younited-credit.com
 tr.contact.canalplus.fr
+tr.contact.cereps.fr
 tr.contact.e-turf.fr
 tr.contact.thelist-emirates.fr
 tr.contrat.location.boulanger.com
@@ -106,6 +108,7 @@ tr.email.medicalexpo.com
 tr.email.securite-routiere.gouv.fr
 tr.email.solocal.com
 tr.email.thelem-assurances.fr
+tr.email.virtual-expo.com
 tr.email.voyagesleclerc.com
 tr.emailing.canalplus-afrique.com
 tr.emailing.canalplus-caledonie.com
@@ -208,6 +211,7 @@ tr.moja-wycena.pl
 tr.mondevis-pro.com
 tr.mp.aconclue-business.fr
 tr.mp.aconclue-pro.com
+tr.mp.actu-pm.fr
 tr.n.info.cdgp.fr
 tr.n.info.sygmabanque.fr
 tr.nespresso.com
@@ -276,6 +280,7 @@ tr.newsletter.afpa.fr
 tr.newsletter.assuragency.net
 tr.newsletter.bouygues-construction.com
 tr.newsletter.capdecision.fr
+tr.newsletter.leocare.eu
 tr.newsletter.location.boulanger.com
 tr.newsletter.meilleurmobile.com
 tr.newsletter.milleis.fr

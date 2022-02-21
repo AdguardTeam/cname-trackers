@@ -3,7 +3,7 @@
 #
 # ebis.ne.jp disguised trackers
 #
-aaaa.gakkikaitori.co.jp
+a9d8e7b6i5s.andgino.jp
 ac-3.mix.tokyo
 ad-ebis.bookpass.auone.jp
 ad-ebis.mynavi-job20s.jp
@@ -22,6 +22,7 @@ adebis-morijuku.morijuku.com
 adebis-rikon.vbest.jp
 adebis-saimu.vbest.jp
 adebis.angfa-store.jp
+adebis.bathclin.jp
 adebis.chojyu.com
 adebis.daiwahouse.co.jp
 adebis.demae-can.com
@@ -43,6 +44,7 @@ adebis.real-style.co.jp
 adebis.report.clinic
 adebis.satori.marketing
 adebis.sbpayment.jp
+adebis.shinseibank.com
 adebis.shiseido.co.jp
 adebis.thd-web.jp
 adebis.theclinic.jp
@@ -113,7 +115,6 @@ ebis.rozetta.jp
 ebis.s-bisco.jp
 ebis.sbismile.co.jp
 ebis.seibu-k.co.jp
-ebis.sekisuiheim.com
 ebis.sekisuihouse.co.jp
 ebis.sekisuihouse.com
 ebis.smakon.jp
@@ -129,7 +130,6 @@ ebiscname.j-esthe.com
 ebiscname.urr.jp
 ebisfracora.fracora.com
 ebisstore.tamagokichi.com
-ebs.green-osaka.com
 emc.dr-stick.shop
 greenjapan-cname.green-japan.com
 isebis.takamiclinic.or.jp

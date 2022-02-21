@@ -28,6 +28,7 @@
 | k.voyageursdumonde.fr | k.keyade.com |
 | keyade.alltricks.fr | k.keyade.com |
 | keyade.ooreka.fr | k.keyade.com |
+| market-keyade.macif.fr | k.keyade.com |
 | tck.photobox.com | k.keyade.com |
 | tck.transavia.com | k.keyade.com |
 | k.truffaut.com | k.madmetrics.com |

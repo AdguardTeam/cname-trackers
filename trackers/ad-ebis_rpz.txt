@@ -3,7 +3,7 @@
 ;
 ; ebis.ne.jp disguised trackers
 ;
-aaaa.gakkikaitori.co.jp CNAME .
+a9d8e7b6i5s.andgino.jp CNAME .
 ac-3.mix.tokyo CNAME .
 ad-ebis.bookpass.auone.jp CNAME .
 ad-ebis.mynavi-job20s.jp CNAME .
@@ -22,6 +22,7 @@ adebis-morijuku.morijuku.com CNAME .
 adebis-rikon.vbest.jp CNAME .
 adebis-saimu.vbest.jp CNAME .
 adebis.angfa-store.jp CNAME .
+adebis.bathclin.jp CNAME .
 adebis.chojyu.com CNAME .
 adebis.daiwahouse.co.jp CNAME .
 adebis.demae-can.com CNAME .
@@ -43,6 +44,7 @@ adebis.real-style.co.jp CNAME .
 adebis.report.clinic CNAME .
 adebis.satori.marketing CNAME .
 adebis.sbpayment.jp CNAME .
+adebis.shinseibank.com CNAME .
 adebis.shiseido.co.jp CNAME .
 adebis.thd-web.jp CNAME .
 adebis.theclinic.jp CNAME .
@@ -113,7 +115,6 @@ ebis.rozetta.jp CNAME .
 ebis.s-bisco.jp CNAME .
 ebis.sbismile.co.jp CNAME .
 ebis.seibu-k.co.jp CNAME .
-ebis.sekisuiheim.com CNAME .
 ebis.sekisuihouse.co.jp CNAME .
 ebis.sekisuihouse.com CNAME .
 ebis.smakon.jp CNAME .
@@ -129,7 +130,6 @@ ebiscname.j-esthe.com CNAME .
 ebiscname.urr.jp CNAME .
 ebisfracora.fracora.com CNAME .
 ebisstore.tamagokichi.com CNAME .
-ebs.green-osaka.com CNAME .
 emc.dr-stick.shop CNAME .
 greenjapan-cname.green-japan.com CNAME .
 isebis.takamiclinic.or.jp CNAME .

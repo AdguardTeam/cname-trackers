@@ -11,6 +11,7 @@
 | ---- | ---- |
 | a8.01cloud.jp | trck.a8.net |
 | a8.abemashopping.jp | trck.a8.net |
+| a8.cocomeister.jp | trck.a8.net |
 | a8.cyclemarket.jp | trck.a8.net |
 | a8.denki-koji.work | trck.a8.net |
 | a8.denwa-hikari.com | trck.a8.net |
@@ -109,6 +110,7 @@
 | a8cv.akihabara-x.jp | trck.a8.net |
 | a8cv.all-plan.co.jp | trck.a8.net |
 | a8cv.amiami.jp | trck.a8.net |
+| a8cv.anapnet.com | trck.a8.net |
 | a8cv.araiba.net | trck.a8.net |
 | a8cv.bettysbeauty.jp | trck.a8.net |
 | a8cv.bizcomfort.jp | trck.a8.net |
@@ -118,6 +120,7 @@
 | a8cv.busbookmark.jp | trck.a8.net |
 | a8cv.coopnet.or.jp | trck.a8.net |
 | a8cv.direct-teleshop.jp | trck.a8.net |
+| a8cv.dreambeer.jp | trck.a8.net |
 | a8cv.english-bootcamp.com | trck.a8.net |
 | a8cv.entry.renet.jp | trck.a8.net |
 | a8cv.frecious.jp | trck.a8.net |

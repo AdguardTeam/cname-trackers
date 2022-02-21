@@ -19,6 +19,7 @@ k.voyageursdumonde.fr CNAME .
 ka.ilius.net CNAME .
 keyade.alltricks.fr CNAME .
 keyade.ooreka.fr CNAME .
+market-keyade.macif.fr CNAME .
 tck.photobox.com CNAME .
 tck.transavia.com CNAME .
 ;

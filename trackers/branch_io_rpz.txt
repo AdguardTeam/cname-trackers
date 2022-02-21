@@ -205,6 +205,7 @@ br.ac.orbitz.com CNAME .
 br.ac.travelocity.com CNAME .
 br.backmarket.fr CNAME .
 br.email.lifesum.com CNAME .
+br.links.kmartphotos.com.au CNAME .
 br.links.kodakmoments.com CNAME .
 br.potato1.influitive.com CNAME .
 branch-consumer.hipages.com.au CNAME .
@@ -262,6 +263,7 @@ clicks.info.theiconic.com.au CNAME .
 clicks.kfc.co.uk CNAME .
 clicks.lifesum.com CNAME .
 clicks.metronautapp.com CNAME .
+clicks.point.app CNAME .
 clicks.staging.worldremit.com CNAME .
 clicks.variis.com CNAME .
 cn1.stadiumgoods.com CNAME .
@@ -410,6 +412,7 @@ link.watchoxygen.com CNAME .
 link.yourway.burgerking.ca CNAME .
 links-anz.afterpay.com CNAME .
 links-na.afterpay.com CNAME .
+links-uk.clearpay.co.uk CNAME .
 links.ab.soul-cycle.email CNAME .
 links.alerts.depop.com CNAME .
 links.announce.touchsurgery.com CNAME .
@@ -539,6 +542,7 @@ tracking.sp.sofi.com CNAME .
 trk.bc.shutterfly.com CNAME .
 trk.dijanow.com CNAME .
 trk.e.underarmour.com CNAME .
+trk.flipfit.com CNAME .
 trk.geico.com CNAME .
 trk.m1.stadiumgoods.com CNAME .
 trk.s.sephora.com CNAME .

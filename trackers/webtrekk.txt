@@ -189,6 +189,7 @@
 ||web.comunicazioni.iol.it^
 ||web.diebayerische.de^
 ||web.email.farrow-ball.com^
+||web.email.pragroup.co.uk^
 ||web.email.theindependentpharmacy.co.uk^
 ||web.emails.elc.co.uk^
 ||web.emails.thetoyshop.com^
@@ -213,6 +214,7 @@
 ||web.newsletter.viviennewestwood.com^
 ||web.s.sasrx.com^
 ||web.sidsavage.com^
+||web.solesource.com^
 ||web.x.ilpost.it^
 ||webmet.creditreform.de^
 ||webt.eleonto.com^

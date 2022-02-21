@@ -62,6 +62,7 @@ tr.com-parc.sfr.fr CNAME .
 tr.com-red.sfr.fr CNAME .
 tr.com-web.sfr.fr CNAME .
 tr.com.sfr.fr CNAME .
+tr.commande.location.boulanger.com CNAME .
 tr.communaute.caradisiac.com CNAME .
 tr.communautes-mediametrie.fr CNAME .
 tr.communication-comptable.fr CNAME .
@@ -76,6 +77,7 @@ tr.communication.offresb2b.fr CNAME .
 tr.compte.fca-capital-france.fr CNAME .
 tr.comunicacao.younited-credit.com CNAME .
 tr.contact.canalplus.fr CNAME .
+tr.contact.cereps.fr CNAME .
 tr.contact.e-turf.fr CNAME .
 tr.contact.thelist-emirates.fr CNAME .
 tr.contrat.location.boulanger.com CNAME .
@@ -106,6 +108,7 @@ tr.email.medicalexpo.com CNAME .
 tr.email.securite-routiere.gouv.fr CNAME .
 tr.email.solocal.com CNAME .
 tr.email.thelem-assurances.fr CNAME .
+tr.email.virtual-expo.com CNAME .
 tr.email.voyagesleclerc.com CNAME .
 tr.emailing.canalplus-afrique.com CNAME .
 tr.emailing.canalplus-caledonie.com CNAME .
@@ -208,6 +211,7 @@ tr.moja-wycena.pl CNAME .
 tr.mondevis-pro.com CNAME .
 tr.mp.aconclue-business.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
+tr.mp.actu-pm.fr CNAME .
 tr.n.info.cdgp.fr CNAME .
 tr.n.info.sygmabanque.fr CNAME .
 tr.nespresso.com CNAME .
@@ -276,6 +280,7 @@ tr.newsletter.afpa.fr CNAME .
 tr.newsletter.assuragency.net CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
+tr.newsletter.leocare.eu CNAME .
 tr.newsletter.location.boulanger.com CNAME .
 tr.newsletter.meilleurmobile.com CNAME .
 tr.newsletter.milleis.fr CNAME .

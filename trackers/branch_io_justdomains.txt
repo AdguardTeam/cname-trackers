@@ -205,6 +205,7 @@ br.ac.orbitz.com
 br.ac.travelocity.com
 br.backmarket.fr
 br.email.lifesum.com
+br.links.kmartphotos.com.au
 br.links.kodakmoments.com
 br.potato1.influitive.com
 branch-consumer.hipages.com.au
@@ -262,6 +263,7 @@ clicks.info.theiconic.com.au
 clicks.kfc.co.uk
 clicks.lifesum.com
 clicks.metronautapp.com
+clicks.point.app
 clicks.staging.worldremit.com
 clicks.variis.com
 cn1.stadiumgoods.com
@@ -410,6 +412,7 @@ link.watchoxygen.com
 link.yourway.burgerking.ca
 links-anz.afterpay.com
 links-na.afterpay.com
+links-uk.clearpay.co.uk
 links.ab.soul-cycle.email
 links.alerts.depop.com
 links.announce.touchsurgery.com
@@ -539,6 +542,7 @@ tracking.sp.sofi.com
 trk.bc.shutterfly.com
 trk.dijanow.com
 trk.e.underarmour.com
+trk.flipfit.com
 trk.geico.com
 trk.m1.stadiumgoods.com
 trk.s.sephora.com

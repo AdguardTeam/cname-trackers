@@ -3,20 +3,33 @@
 ;
 ; dataunlocker.com disguised trackers
 ;
+0naqzso7re3p.tapmyback.com CNAME .
+1iy4gu0lpkp.my.gloryleague.basketball CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
+25voj20abod.honeyswap.org CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
+2rid9fii9chx.www.atlaslane.com CNAME .
+2y0lbig207qz.www.botcomics.com CNAME .
+3l0zszdzjhpw.www.comicleaks.com CNAME .
 634lj7p7g3lv.unstoppabledomains.com CNAME .
+6lpkf7qdc3mu.www.chandlerorchards.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
-ayg6joe1lbe2.www.chandlerorchards.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
+cjic8t2v1fe0.www.earthclassmail.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 f5q72e2o8r5f.www.word.com.au CNAME .
 fp84rw0jinz7.blanc.ru CNAME .
+fve57b8cs74i.www.cybernetman.com CNAME .
+gomyjndc8v5t.www.nookgaming.com CNAME .
 gw5worvzkb4j.stoic.ai CNAME .
-lh3pvljbkong.www.nookgaming.com CNAME .
+j1kmigrhwjf4.angelacampos.es CNAME .
+lvdvpvn9q0bc.www.cefirates.com CNAME .
+nqyuel589fq5.esgrounding.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
+p9jhxqlkmn.miniso.com.gr CNAME .
+pg3b233p99sa.www.marketdata.app CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .

@@ -12,12 +12,12 @@
     * te-mytoys-de.oghub.io
     * te-otto-de.oghub.io
     * te-sheego-de.oghub.io
-    * te-universal-at.oghub.io
     * te-witt-weiden-de.oghub.io
     * te-yomonda-de.oghub.io
     * te.oghub.io
     * tp-ackermann-ch.oghub.io
     * tp-baur-de.oghub.io
+    * tp-frankonia-at.oghub.io
     * tp-frankonia-com.oghub.io
     * tp-frankonia-de.oghub.io
     * tp-imwalking-de.oghub.io
@@ -42,6 +42,7 @@
 | tp.ackermann.ch | js.oghub.io |
 | tp.baur.de | js.oghub.io |
 | tp.baur.de | js.oghub.io |
+| tp.frankonia.at | js.oghub.io |
 | tp.frankonia.at | js.oghub.io |
 | tp.frankonia.com | js.oghub.io |
 | tp.frankonia.com | js.oghub.io |
@@ -85,7 +86,6 @@
 | te.mytoys.de | te-mytoys-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
 | te.sheego.de | te-sheego-de.oghub.io |
-| te.universal.at | te-universal-at.oghub.io |
 | te.witt-weiden.de | te-witt-weiden-de.oghub.io |
 | te.yomonda.de | te-yomonda-de.oghub.io |
 | te.ackermann.ch | te.oghub.io |
@@ -114,7 +114,6 @@
 | te.sieh-an.ch | te.oghub.io |
 | te.sieh-an.de | te.oghub.io |
 | te.universal.at | te.oghub.io |
-| te.universal.at | te.oghub.io |
 | te.witt-international.nl | te.oghub.io |
 | te.witt-international.sk | te.oghub.io |
 | te.witt-weiden.at | te.oghub.io |
@@ -126,6 +125,7 @@
 | te.your-look-for-less.nl | te.oghub.io |
 | tp.ackermann.ch | tp-ackermann-ch.oghub.io |
 | tp.baur.de | tp-baur-de.oghub.io |
+| tp.frankonia.at | tp-frankonia-at.oghub.io |
 | tp.frankonia.com | tp-frankonia-com.oghub.io |
 | tp.frankonia.de | tp-frankonia-de.oghub.io |
 | tp.imwalking.de | tp-imwalking-de.oghub.io |

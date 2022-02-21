@@ -17,6 +17,7 @@ a.abismo-katheryne.top CNAME .
 a.allwedoisfuck.com CNAME .
 a.andropps.us CNAME .
 a.aniplay.it CNAME .
+a.antiadxxxspy.com CNAME .
 a.bitporno.com CNAME .
 a.cashjma.com CNAME .
 a.cdn1.pro CNAME .
@@ -35,17 +36,15 @@ a.kagiti.club CNAME .
 a.katomu.club CNAME .
 a.letsjerk.org CNAME .
 a.letsjerk.to CNAME .
+a.neverbe.xyz CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pumpity.net CNAME .
 a.streamoupload.com CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
-a.veryn1ce.com CNAME .
 a.watchomovies.com CNAME .
 a.xirono.club CNAME .
-a.xxe2.com CNAME .
 a.zillastream.com CNAME .
-a5.g--o.info CNAME .
 a5g.oves.biz CNAME .
 aa.zerg.pro CNAME .
 acdn.uploads.mobi CNAME .
@@ -231,6 +230,7 @@ www4.hentaigamecg.com CNAME .
 www6.freeanimesource.com CNAME .
 www6.hentai-zone.com CNAME .
 www8.upload-pics.com CNAME .
+x1cdnad22.fin.ovh CNAME .
 x2sfa.javgg.eu CNAME .
 z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .

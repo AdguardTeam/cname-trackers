@@ -189,6 +189,7 @@ web.collisionservices.com CNAME .
 web.comunicazioni.iol.it CNAME .
 web.diebayerische.de CNAME .
 web.email.farrow-ball.com CNAME .
+web.email.pragroup.co.uk CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .
@@ -213,6 +214,7 @@ web.news.thebridge.it CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.s.sasrx.com CNAME .
 web.sidsavage.com CNAME .
+web.solesource.com CNAME .
 web.x.ilpost.it CNAME .
 webmet.creditreform.de CNAME .
 webt.eleonto.com CNAME .

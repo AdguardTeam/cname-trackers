@@ -67,6 +67,7 @@
 | tr.com-red.sfr.fr | tracking.bp01.net |
 | tr.com-web.sfr.fr | tracking.bp01.net |
 | tr.com.sfr.fr | tracking.bp01.net |
+| tr.commande.location.boulanger.com | tracking.bp01.net |
 | tr.communaute.caradisiac.com | tracking.bp01.net |
 | tr.communautes-mediametrie.fr | tracking.bp01.net |
 | tr.communication-comptable.fr | tracking.bp01.net |
@@ -81,6 +82,7 @@
 | tr.compte.fca-capital-france.fr | tracking.bp01.net |
 | tr.comunicacao.younited-credit.com | tracking.bp01.net |
 | tr.contact.canalplus.fr | tracking.bp01.net |
+| tr.contact.cereps.fr | tracking.bp01.net |
 | tr.contact.e-turf.fr | tracking.bp01.net |
 | tr.contact.thelist-emirates.fr | tracking.bp01.net |
 | tr.contrat.location.boulanger.com | tracking.bp01.net |
@@ -111,6 +113,7 @@
 | tr.email.securite-routiere.gouv.fr | tracking.bp01.net |
 | tr.email.solocal.com | tracking.bp01.net |
 | tr.email.thelem-assurances.fr | tracking.bp01.net |
+| tr.email.virtual-expo.com | tracking.bp01.net |
 | tr.email.voyagesleclerc.com | tracking.bp01.net |
 | tr.emailing.canalplus-afrique.com | tracking.bp01.net |
 | tr.emailing.canalplus-caledonie.com | tracking.bp01.net |
@@ -213,6 +216,7 @@
 | tr.mondevis-pro.com | tracking.bp01.net |
 | tr.mp.aconclue-business.fr | tracking.bp01.net |
 | tr.mp.aconclue-pro.com | tracking.bp01.net |
+| tr.mp.actu-pm.fr | tracking.bp01.net |
 | tr.n.info.cdgp.fr | tracking.bp01.net |
 | tr.n.info.sygmabanque.fr | tracking.bp01.net |
 | tr.nespresso.com | tracking.bp01.net |
@@ -281,6 +285,7 @@
 | tr.newsletter.assuragency.net | tracking.bp01.net |
 | tr.newsletter.bouygues-construction.com | tracking.bp01.net |
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
+| tr.newsletter.leocare.eu | tracking.bp01.net |
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |
 | tr.newsletter.meilleurmobile.com | tracking.bp01.net |
 | tr.newsletter.milleis.fr | tracking.bp01.net |

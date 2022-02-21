@@ -27,7 +27,6 @@ analytics.codeskulptor.org
 analytics.dogecoin.gg
 analytics.explained-from-first-principles.com
 analytics.fatalparadox.com
-analytics.filiotech.com
 analytics.gamedatacrunch.com
 analytics.givealittle.co
 analytics.hiome.com
@@ -123,6 +122,7 @@ pa-stats.encore.dev
 pa.opqr.co
 pa.travelwhiz.app
 pan.render.com
+pine.nervecentral.com
 ping.cavelab.dev
 ping.richardtaylor.dev
 piostats.gdcorner.com
@@ -172,6 +172,7 @@ plausible.goose.game
 plausible.gryka.net
 plausible.gymglish.com
 plausible.haltakov.net
+plausible.hellpancake.com
 plausible.help.exploreandcreate.com
 plausible.hstmedical.com
 plausible.inflex.io
@@ -248,6 +249,7 @@ statistics.csweapons.com
 statistics.heatbeat.de
 statistik.veronika-steiner.at
 stats.123nz.nl
+stats.4-camper.de
 stats.45rpm.ch
 stats.acadevor.com
 stats.aixbrain.de
@@ -290,6 +292,9 @@ stats.carrotsearch.com
 stats.cascadeinstitute.org
 stats.cassidyjames.com
 stats.catholicluv.com
+stats.centralswindonnorth-pc.gov.uk
+stats.cfcasts.com
+stats.challengehub.app
 stats.changelog.com
 stats.chapterist.show
 stats.chronoslabs.net
@@ -356,6 +361,7 @@ stats.getpickaxe.com
 stats.glassmountains.co.uk
 stats.glyphs.fyi
 stats.goldsguide.com
+stats.granot.dev
 stats.graphql-api.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
@@ -379,6 +385,7 @@ stats.infoboard.de
 stats.innoq.com
 stats.instabudget.app
 stats.interactjs.io
+stats.intothebox.org
 stats.iscc-system.org
 stats.ivankahl.com
 stats.jackwhiting.co.uk
@@ -388,7 +395,6 @@ stats.jawebb.se
 stats.jdheyburn.co.uk
 stats.jerickson.net
 stats.johnmac.pro
-stats.joincomet.app
 stats.justanotherpm.com
 stats.justinwilliams.ca
 stats.kejk.tech
@@ -438,6 +444,7 @@ stats.motion-effect.com
 stats.motornation.net
 stats.mtsknn.fi
 stats.muchbetteradventures.com
+stats.murrayhometextiles.ie
 stats.mynfp.de
 stats.nddmed.com
 stats.nerdbusiness.com
@@ -453,7 +460,6 @@ stats.ntietz.com
 stats.nytecomics.com
 stats.offthekerb.com
 stats.onepagelove.com
-stats.openwebcraft.com
 stats.orbitalhealth.co
 stats.ordinarypuzzles.com
 stats.ortussolutions.com
@@ -468,6 +474,7 @@ stats.patriot.win
 stats.paulbutler.org
 stats.paysagistes.pro
 stats.pebkac.io
+stats.pep20.org
 stats.personalkollen.se
 stats.phelsumagrandis.de
 stats.phili.pe
@@ -475,6 +482,7 @@ stats.pianoplanet.app
 stats.pinoymusicstation.com
 stats.piranhas.co
 stats.pixify.net
+stats.pizzapizza.io
 stats.plastbest.sk
 stats.poesieundgenuss.com
 stats.pointflottant.com
@@ -489,6 +497,7 @@ stats.profilehunt.net
 stats.pselookup.vrymel.com
 stats.raidprotect.org
 stats.rasulkireev.com
+stats.ravivyas.com
 stats.readng.co
 stats.referralhero.com
 stats.reisemobil.pro
@@ -553,6 +562,7 @@ stats.travel.geek.nz
 stats.travelfodder.com
 stats.tresor.one
 stats.trimbles.ie
+stats.tsas.ca
 stats.tubecalculator.co.uk
 stats.twenty.so
 stats.twhl.xyz
