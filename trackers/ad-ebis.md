@@ -131,6 +131,7 @@
     * c35cf548-urr.cname.ebis.ne.jp
     * c990b46a-cy6kqhld.cname.ebis.ne.jp
     * c9b592e5-3ddhh4av.cname.ebis.ne.jp
+    * caf7dafd-s02edfsx.cname.ebis.ne.jp
     * cb8eb280-2eexez7z.cname.ebis.ne.jp
     * ce122a7c-hgyagqzw.cname.ebis.ne.jp
     * ceac5848-wpvbdb7j.cname.ebis.ne.jp
@@ -289,6 +290,7 @@
 | ebiscname.urr.jp | c35cf548-urr.cname.ebis.ne.jp |
 | ebisfracora.fracora.com | c990b46a-cy6kqhld.cname.ebis.ne.jp |
 | adebis.urban-research.jp | c9b592e5-3ddhh4av.cname.ebis.ne.jp |
+| ebis.tokado.jp | caf7dafd-s02edfsx.cname.ebis.ne.jp |
 | bbbb.goace.jp | cb8eb280-2eexez7z.cname.ebis.ne.jp |
 | ebis.kubara.jp | ce122a7c-hgyagqzw.cname.ebis.ne.jp |
 | adbq.bk.mufg.jp | ceac5848-wpvbdb7j.cname.ebis.ne.jp |

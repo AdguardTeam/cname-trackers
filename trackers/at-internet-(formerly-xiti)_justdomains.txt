@@ -17,6 +17,7 @@ atconnect.npo.nl
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
 atxqb.psychologies.com
 avocado.laprovence.com
+avp.labanquepostale.fr
 buf.lemonde.fr
 c0012.brsimg.com
 checkpointcharlie.heizung.de
@@ -31,6 +32,7 @@ d.m-net.de
 d.uni-medias.com
 da.maif.fr
 dimensions.mappy.com
+fabryczna.viessmann.pl
 faucons.viessmann.fr
 hal.courrierinternational.com
 hd.pe.fr
@@ -66,6 +68,8 @@ ressources.mavoiturecash.fr
 ressources.promoneuve.fr
 rsc.lepoint.fr
 salzwerk.viessmann.de
+selvi.viessmann.com.tr
+severn.viessmann.co.uk
 sheeta.nrj-play.fr
 st1.lg.avendrealouer.fr
 steinbackhaus.viessmann.com

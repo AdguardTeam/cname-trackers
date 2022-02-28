@@ -143,7 +143,6 @@
 ||plau.devitjobs.us^
 ||plau.devjob.ro^
 ||plau.germantechjobs.de^
-||plau.hiringnearme.jobs^
 ||plau.swissdevjobs.ch^
 ||plauplauplau.app.budg.co^
 ||plauplauplau.budg.co^
@@ -178,6 +177,7 @@
 ||plausible.inflex.io^
 ||plausible.kabaret.no^
 ||plausible.kreya.app^
+||plausible.lawdeeda.com^
 ||plausible.lesbianromantic.com^
 ||plausible.lovesdata.com^
 ||plausible.mattpruitt.com^
@@ -248,7 +248,6 @@
 ||statistics.csweapons.com^
 ||statistics.heatbeat.de^
 ||statistik.veronika-steiner.at^
-||stats.123nz.nl^
 ||stats.4-camper.de^
 ||stats.45rpm.ch^
 ||stats.acadevor.com^
@@ -271,6 +270,7 @@
 ||stats.bholmes.dev^
 ||stats.bimbase.nl^
 ||stats.bitpost.app^
+||stats.blendsalons.co.uk^
 ||stats.blockleviton.com^
 ||stats.blog.codingmilitia.com^
 ||stats.blog.merckx.fr^
@@ -349,7 +349,6 @@
 ||stats.felipesere.com^
 ||stats.femtobill.com^
 ||stats.flightsphere.com^
-||stats.formcrafts.com^
 ||stats.frenlo.com^
 ||stats.fullofwishes.co.uk^
 ||stats.fundimmo.com^
@@ -504,6 +503,7 @@
 ||stats.remotebear.io^
 ||stats.remotejobs.co.uk^
 ||stats.reprage.com^
+||stats.revit-content.com^
 ||stats.robhope.com^
 ||stats.rocketvalidator.com^
 ||stats.ruhrfestspiele.de^
@@ -558,7 +558,6 @@
 ||stats.tomorrowacademy.org^
 ||stats.torontohhs.org^
 ||stats.training.fit^
-||stats.travel.geek.nz^
 ||stats.travelfodder.com^
 ||stats.tresor.one^
 ||stats.trimbles.ie^

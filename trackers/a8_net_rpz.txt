@@ -50,6 +50,7 @@ a8clk.asahi-net.or.jp CNAME .
 a8clk.asp.jcity.co.jp CNAME .
 a8clk.audiobook.jp CNAME .
 a8clk.autoc-one.jp CNAME .
+a8clk.biomarche.jp CNAME .
 a8clk.bstyle.store CNAME .
 a8clk.camerakaitori.jp CNAME .
 a8clk.campaigns.speed-kaitori.jp CNAME .
@@ -57,6 +58,7 @@ a8clk.chapup.jp CNAME .
 a8clk.chat-wifi.site CNAME .
 a8clk.crowdworks.jp CNAME .
 a8clk.cv.mensfashion.cc CNAME .
+a8clk.cv.onedenki.jp CNAME .
 a8clk.cv.warau.jp CNAME .
 a8clk.dospara.co.jp CNAME .
 a8clk.francfranc.com CNAME .
@@ -149,6 +151,7 @@ a8cv.workman.jp CNAME .
 a8cv.www.bedstyle.jp CNAME .
 a8cv.www.biyou-soushin.com CNAME .
 a8cv.www.biyou-wakiga.com CNAME .
+a8cv.www.chara-ani.com CNAME .
 a8cv.ya-man.com CNAME .
 a8cv.yamato-gp.net CNAME .
 a8cv.ygm-clinic.or.jp CNAME .

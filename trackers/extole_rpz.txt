@@ -1,0 +1,27 @@
+;
+; Company name: Extole
+;
+; extole.com disguised trackers
+;
+refer.ahsfriends.com CNAME .
+refer.american-giant.com CNAME .
+refer.ancestry.com CNAME .
+refer.aol.com CNAME .
+refer.clearme.com CNAME .
+refer.discover.com CNAME .
+refer.dna.ancestry.co.uk CNAME .
+refer.dna.ancestry.com CNAME .
+refer.freshly.com CNAME .
+refer.hannaandersson.com CNAME .
+refer.healthypawspetinsurance.com CNAME .
+refer.luckyvitamin.com CNAME .
+refer.moo.com CNAME .
+refer.purchasingpower.com CNAME .
+refer.shoesforcrews.com CNAME .
+refer.sperry.com CNAME .
+refer.talbots.com CNAME .
+refer.timberland.com CNAME .
+refer.vonage.com CNAME .
+refer.xoom.com CNAME .
+referral.hostgator.com CNAME .
+share.vimeo.com CNAME .

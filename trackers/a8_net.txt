@@ -50,6 +50,7 @@
 ||a8clk.asp.jcity.co.jp^
 ||a8clk.audiobook.jp^
 ||a8clk.autoc-one.jp^
+||a8clk.biomarche.jp^
 ||a8clk.bstyle.store^
 ||a8clk.camerakaitori.jp^
 ||a8clk.campaigns.speed-kaitori.jp^
@@ -57,6 +58,7 @@
 ||a8clk.chat-wifi.site^
 ||a8clk.crowdworks.jp^
 ||a8clk.cv.mensfashion.cc^
+||a8clk.cv.onedenki.jp^
 ||a8clk.cv.warau.jp^
 ||a8clk.dospara.co.jp^
 ||a8clk.francfranc.com^
@@ -149,6 +151,7 @@
 ||a8cv.www.bedstyle.jp^
 ||a8cv.www.biyou-soushin.com^
 ||a8cv.www.biyou-wakiga.com^
+||a8cv.www.chara-ani.com^
 ||a8cv.ya-man.com^
 ||a8cv.yamato-gp.net^
 ||a8cv.ygm-clinic.or.jp^

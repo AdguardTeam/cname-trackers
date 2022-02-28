@@ -10,6 +10,7 @@ activate.lanebryant.com CNAME .
 activate.latimes.com CNAME .
 activate.loft.com CNAME .
 activate.maurices.com CNAME .
+activate.nydailynews.com CNAME .
 activate.pacificsandiego.com CNAME .
 activate.platform.californiatimes.com CNAME .
 activate.sandiegouniontribune.com CNAME .
@@ -17,9 +18,11 @@ activate.suncorp.com.au CNAME .
 activate.tacdn.com CNAME .
 activate.united.com CNAME .
 activate1.fidelity.com CNAME .
+agility.cartoonnetwork.com CNAME .
 agility.cnn.com CNAME .
 agility.nba.com CNAME .
 agility.tbs.com CNAME .
+agility.tcm.com CNAME .
 analytics.amica.com CNAME .
 analytics.carecredit.com CNAME .
 analytics.carecreditprovidercenter.com CNAME .
@@ -28,6 +31,7 @@ analytics.coachoutlet.com CNAME .
 analytics.duluthtrading.com CNAME .
 analytics.katespade.com CNAME .
 analytics.llflooring.com CNAME .
+analytics.lumberliquidators.com CNAME .
 analytics.michiganlottery.com CNAME .
 analytics.mysynchrony.com CNAME .
 analytics.ovative.com CNAME .
@@ -38,16 +42,20 @@ analytics.synchronybank.com CNAME .
 assets1.aainsurance.co.nz CNAME .
 assets1.aami.com.au CNAME .
 assets1.bingle.com.au CNAME .
+assets1.cilinsurance.com.au CNAME .
 assets1.gio.com.au CNAME .
 assets1.shannons.com.au CNAME .
 assets1.suncorp.com.au CNAME .
 assets1.vero.co.nz CNAME .
 attribution.theworks.co.uk CNAME .
+coke.activate.ensighten.com CNAME .
 cookies.jll-mena.com CNAME .
+cookies.jll.ca CNAME .
 cookies.jll.cl CNAME .
 cookies.jll.co.in CNAME .
 cookies.jll.com.au CNAME .
 cookies.jll.com.ph CNAME .
+cookies.jll.com.sg CNAME .
 cookies.jll.es CNAME .
 cookies.jll.pl CNAME .
 cookies.jll.ru CNAME .
@@ -82,6 +90,7 @@ gst.pulse.toyota.com CNAME .
 measure.ensighten.com CNAME .
 metrics.mysynchrony.com CNAME .
 metrics.syf.com CNAME .
+metrics.synchronybusiness.com CNAME .
 nexus.toyota.com CNAME .
 nexus.virginholidays.co.uk CNAME .
 p.pulse.toyota.com CNAME .
@@ -95,6 +104,8 @@ securemetrics.synchronybusiness.com CNAME .
 sst.dell.com CNAME .
 t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
+tagman.heathrow.com CNAME .
+tagman.virginatlantic.com CNAME .
 tags.aljazeera.com CNAME .
 tags.aljazeera.net CNAME .
 tags.experian.co.uk CNAME .

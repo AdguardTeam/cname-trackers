@@ -10,6 +10,7 @@ activate.lanebryant.com
 activate.latimes.com
 activate.loft.com
 activate.maurices.com
+activate.nydailynews.com
 activate.pacificsandiego.com
 activate.platform.californiatimes.com
 activate.sandiegouniontribune.com
@@ -17,9 +18,11 @@ activate.suncorp.com.au
 activate.tacdn.com
 activate.united.com
 activate1.fidelity.com
+agility.cartoonnetwork.com
 agility.cnn.com
 agility.nba.com
 agility.tbs.com
+agility.tcm.com
 analytics.amica.com
 analytics.carecredit.com
 analytics.carecreditprovidercenter.com
@@ -28,6 +31,7 @@ analytics.coachoutlet.com
 analytics.duluthtrading.com
 analytics.katespade.com
 analytics.llflooring.com
+analytics.lumberliquidators.com
 analytics.michiganlottery.com
 analytics.mysynchrony.com
 analytics.ovative.com
@@ -38,16 +42,20 @@ analytics.synchronybank.com
 assets1.aainsurance.co.nz
 assets1.aami.com.au
 assets1.bingle.com.au
+assets1.cilinsurance.com.au
 assets1.gio.com.au
 assets1.shannons.com.au
 assets1.suncorp.com.au
 assets1.vero.co.nz
 attribution.theworks.co.uk
+coke.activate.ensighten.com
 cookies.jll-mena.com
+cookies.jll.ca
 cookies.jll.cl
 cookies.jll.co.in
 cookies.jll.com.au
 cookies.jll.com.ph
+cookies.jll.com.sg
 cookies.jll.es
 cookies.jll.pl
 cookies.jll.ru
@@ -82,6 +90,7 @@ gst.pulse.toyota.com
 measure.ensighten.com
 metrics.mysynchrony.com
 metrics.syf.com
+metrics.synchronybusiness.com
 nexus.toyota.com
 nexus.virginholidays.co.uk
 p.pulse.toyota.com
@@ -95,6 +104,8 @@ securemetrics.synchronybusiness.com
 sst.dell.com
 t.janieandjack.com
 tagman.britishairways.com
+tagman.heathrow.com
+tagman.virginatlantic.com
 tags.aljazeera.com
 tags.aljazeera.net
 tags.experian.co.uk

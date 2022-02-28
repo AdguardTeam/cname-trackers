@@ -123,6 +123,7 @@
 ||tr.emailing.grassavoye.com^
 ||tr.emailium.fr^
 ||tr.enedis-infos.fr^
+||tr.enews.customsolutions.fr^
 ||tr.entreprise-pro.info^
 ||tr.envie-de-bien-manger.espmp-aufr.net^
 ||tr.europa-organisation.com^
@@ -248,6 +249,7 @@
 ||tr.news.exclu.fr^
 ||tr.news.geantcasino.fr^
 ||tr.news.heredis.com^
+||tr.news.i24news.tv^
 ||tr.news.infopro-digital.com^
 ||tr.news.kpmgnet.fr^
 ||tr.news.lacollection-airfrance.fr^
@@ -259,6 +261,7 @@
 ||tr.news.meillandrichardier.com^
 ||tr.news.mi-oferta.es^
 ||tr.news.perfectstay.com^
+||tr.news.seine-estuaire.cci.fr^
 ||tr.news.smartdeals-transavia-fr.com^
 ||tr.news.smartdealstransavia-fr.com^
 ||tr.news.sport2000.fr^
@@ -325,6 +328,7 @@
 ||tr.qualitaetsumfrage.com^
 ||tr.qualitaveicolo.com^
 ||tr.qualite.groupebarriere.com^
+||tr.qualityvehiclesurvey.com^
 ||tr.quotes.digital^
 ||tr.quotes4business.info^
 ||tr.quotesforbusiness.co.uk^
@@ -363,6 +367,7 @@
 ||tr.uk.icicibank.com^
 ||tr.urfk03u.espmp-nifr.net^
 ||tr.urfk06y.espmp-nifr.net^
+||tr.urfk07s.espmp-nifr.net^
 ||tr.ville.bordeaux.fr^
 ||tr.voixduclient.harmonie-mutuelle.fr^
 ||tr.votrealarme.securitasdirect.fr^
@@ -380,5 +385,6 @@
 ||tr.xleads.digital^
 ||tr1.citroen-ipsos.com^
 ||tr1.mailperf.com^
+||tr1.peugeot-ipsos.com^
 ||tr5.mailperf.com^
 ||trpreviews.bp01.net^

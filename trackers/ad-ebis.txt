@@ -121,6 +121,7 @@
 ||ebis.studio-alice.co.jp^
 ||ebis.studioindi.jp^
 ||ebis.sunstar-shop.jp^
+||ebis.tokado.jp^
 ||ebis01.zkai.co.jp^
 ||ebis2020.hoiku-job.net^
 ||ebis202001.joyfit.jp^

@@ -121,6 +121,7 @@ ebis.smakon.jp CNAME .
 ebis.studio-alice.co.jp CNAME .
 ebis.studioindi.jp CNAME .
 ebis.sunstar-shop.jp CNAME .
+ebis.tokado.jp CNAME .
 ebis01.zkai.co.jp CNAME .
 ebis2020.hoiku-job.net CNAME .
 ebis202001.joyfit.jp CNAME .

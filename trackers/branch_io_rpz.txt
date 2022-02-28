@@ -429,6 +429,7 @@ links.e.aetv.com CNAME .
 links.e.history.com CNAME .
 links.e.historyvault.com CNAME .
 links.e.lifetimemovieclub.com CNAME .
+links.e.moneybyafterpay.com CNAME .
 links.e.mylifetime.com CNAME .
 links.e.wine.com CNAME .
 links.edm.noracora.com CNAME .

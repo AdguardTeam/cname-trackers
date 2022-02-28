@@ -56,6 +56,7 @@
 | a8clk.asp.jcity.co.jp | trck.a8.net |
 | a8clk.audiobook.jp | trck.a8.net |
 | a8clk.autoc-one.jp | trck.a8.net |
+| a8clk.biomarche.jp | trck.a8.net |
 | a8clk.bstyle.store | trck.a8.net |
 | a8clk.camerakaitori.jp | trck.a8.net |
 | a8clk.campaigns.speed-kaitori.jp | trck.a8.net |
@@ -63,6 +64,7 @@
 | a8clk.chat-wifi.site | trck.a8.net |
 | a8clk.crowdworks.jp | trck.a8.net |
 | a8clk.cv.mensfashion.cc | trck.a8.net |
+| a8clk.cv.onedenki.jp | trck.a8.net |
 | a8clk.cv.warau.jp | trck.a8.net |
 | a8clk.dospara.co.jp | trck.a8.net |
 | a8clk.francfranc.com | trck.a8.net |
@@ -155,6 +157,7 @@
 | a8cv.www.bedstyle.jp | trck.a8.net |
 | a8cv.www.biyou-soushin.com | trck.a8.net |
 | a8cv.www.biyou-wakiga.com | trck.a8.net |
+| a8cv.www.chara-ani.com | trck.a8.net |
 | a8cv.ya-man.com | trck.a8.net |
 | a8cv.yamato-gp.net | trck.a8.net |
 | a8cv.ygm-clinic.or.jp | trck.a8.net |

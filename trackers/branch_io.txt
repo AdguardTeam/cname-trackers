@@ -429,6 +429,7 @@
 ||links.e.history.com^
 ||links.e.historyvault.com^
 ||links.e.lifetimemovieclub.com^
+||links.e.moneybyafterpay.com^
 ||links.e.mylifetime.com^
 ||links.e.wine.com^
 ||links.edm.noracora.com^

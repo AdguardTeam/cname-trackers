@@ -17,6 +17,7 @@ atconnect.npo.nl CNAME .
 ati-a1.946d001b783803c1.xhst.bbci.co.uk CNAME .
 atxqb.psychologies.com CNAME .
 avocado.laprovence.com CNAME .
+avp.labanquepostale.fr CNAME .
 buf.lemonde.fr CNAME .
 c0012.brsimg.com CNAME .
 checkpointcharlie.heizung.de CNAME .
@@ -31,6 +32,7 @@ d.m-net.de CNAME .
 d.uni-medias.com CNAME .
 da.maif.fr CNAME .
 dimensions.mappy.com CNAME .
+fabryczna.viessmann.pl CNAME .
 faucons.viessmann.fr CNAME .
 hal.courrierinternational.com CNAME .
 hd.pe.fr CNAME .
@@ -66,6 +68,8 @@ ressources.mavoiturecash.fr CNAME .
 ressources.promoneuve.fr CNAME .
 rsc.lepoint.fr CNAME .
 salzwerk.viessmann.de CNAME .
+selvi.viessmann.com.tr CNAME .
+severn.viessmann.co.uk CNAME .
 sheeta.nrj-play.fr CNAME .
 st1.lg.avendrealouer.fr CNAME .
 steinbackhaus.viessmann.com CNAME .

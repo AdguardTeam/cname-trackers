@@ -6,6 +6,7 @@
 cdn.agcm.xyz
 cdn.alota.xyz
 cdn.aprick.xyz
+cdn.asce.xyz
 cdn.asdb.xyz
 cdn.asdfix.com
 cdn.asdnow.xyz
@@ -22,11 +23,13 @@ cdn.eeco.xyz
 cdn.fagold.xyz
 cdn.fdsgv.xyz
 cdn.fedsy.xyz
+cdn.fluxy.xyz
 cdn.gecl.xyz
 cdn.gtrd.xyz
 cdn.iople.com
 cdn.lemonet.xyz
 cdn.morps.xyz
+cdn.mrvio.com
 cdn.namol.xyz
 cdn.nlop.xyz
 cdn.nuqwe.com
@@ -39,7 +42,6 @@ cdn.rgrd.xyz
 cdn.sawron.xyz
 cdn.spnut.com
 cdn.srxy.xyz
-cdn.trejar.com
 cdn.wwfx.xyz
 cdn.xapa.xyz
 cdn.xaxo.xyz

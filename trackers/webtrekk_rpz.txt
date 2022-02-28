@@ -204,6 +204,7 @@ web.mapp.skousen.dk CNAME .
 web.mapp.skousen.no CNAME .
 web.mapp.tretti.se CNAME .
 web.mapp.whiteaway.com CNAME .
+web.mapp.whiteaway.se CNAME .
 web.marketing.elbenwald.de CNAME .
 web.mytoys.de CNAME .
 web.news.creedfragrances.co.uk CNAME .

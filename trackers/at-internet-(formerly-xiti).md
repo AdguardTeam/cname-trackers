@@ -16,6 +16,7 @@
     * atconnect-npo-nl-cddc.at-o.net
     * atxqb-psychologies-com-cddc.at-o.net
     * avocado-laprovence-com-cddc.at-o.net
+    * avp-labanquepostale-fr-cddc.at-o.net
     * buf-lemonde-fr-cddc.at-o.net
     * c0012-brsimg-com-cddc.at-o.net
     * checkpointcharlie-heizung-de-cddc.at-o.net
@@ -30,6 +31,7 @@
     * d-uni-medias-com-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
     * dimensions-mappy-com-cddc.at-o.net
+    * fabryczna-viessmann-pl-cddc.at-o.net
     * faucons-viessmann-fr-cddc.at-o.net
     * hal-courrierinternational-com-cddc.at-o.net
     * hd-pe-fr-cddc.at-o.net
@@ -65,6 +67,8 @@
     * ressources-promoneuve-fr-cddc.at-o.net
     * rsc-lepoint-fr-cddc.at-o.net
     * salzwerk-viessmann-de-cddc.at-o.net
+    * selvi-viessmann-com-tr-cddc.at-o.net
+    * severn-viessmann-co-uk-cddc.at-o.net
     * sheeta-nrj-play-fr-cddc.at-o.net
     * st1-lg-avendrealouer-fr-cddc.at-o.net
     * steinbackhaus-viessmann-com-cddc.at-o.net
@@ -105,6 +109,7 @@
 | atconnect.npo.nl | atconnect-npo-nl-cddc.at-o.net |
 | atxqb.psychologies.com | atxqb-psychologies-com-cddc.at-o.net |
 | avocado.laprovence.com | avocado-laprovence-com-cddc.at-o.net |
+| avp.labanquepostale.fr | avp-labanquepostale-fr-cddc.at-o.net |
 | buf.lemonde.fr | buf-lemonde-fr-cddc.at-o.net |
 | c0012.brsimg.com | c0012-brsimg-com-cddc.at-o.net |
 | checkpointcharlie.heizung.de | checkpointcharlie-heizung-de-cddc.at-o.net |
@@ -119,6 +124,7 @@
 | d.uni-medias.com | d-uni-medias-com-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |
 | dimensions.mappy.com | dimensions-mappy-com-cddc.at-o.net |
+| fabryczna.viessmann.pl | fabryczna-viessmann-pl-cddc.at-o.net |
 | faucons.viessmann.fr | faucons-viessmann-fr-cddc.at-o.net |
 | hal.courrierinternational.com | hal-courrierinternational-com-cddc.at-o.net |
 | hd.pe.fr | hd-pe-fr-cddc.at-o.net |
@@ -154,6 +160,8 @@
 | ressources.promoneuve.fr | ressources-promoneuve-fr-cddc.at-o.net |
 | rsc.lepoint.fr | rsc-lepoint-fr-cddc.at-o.net |
 | salzwerk.viessmann.de | salzwerk-viessmann-de-cddc.at-o.net |
+| selvi.viessmann.com.tr | selvi-viessmann-com-tr-cddc.at-o.net |
+| severn.viessmann.co.uk | severn-viessmann-co-uk-cddc.at-o.net |
 | sheeta.nrj-play.fr | sheeta-nrj-play-fr-cddc.at-o.net |
 | st1.lg.avendrealouer.fr | st1-lg-avendrealouer-fr-cddc.at-o.net |
 | steinbackhaus.viessmann.com | steinbackhaus-viessmann-com-cddc.at-o.net |

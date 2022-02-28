@@ -62,6 +62,7 @@
     * 467808562573270.wt-eu02.net
     * 470719744966924.wt-eu02.net
     * 481977157370244.wt-eu02.net
+    * 482221458407393.wt-eu02.net
     * 484879729086450.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524633908170120.wt-eu02.net
@@ -197,6 +198,7 @@
 | webt.eu.teac-audio.com | 470719744966924.wt-eu02.net |
 | webt.pure.com | 470719744966924.wt-eu02.net |
 | web.marketing.elbenwald.de | 481977157370244.wt-eu02.net |
+| web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | web.friends.ellaskitchen.co.uk | 524633908170120.wt-eu02.net |

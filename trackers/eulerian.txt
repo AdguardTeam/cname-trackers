@@ -21,8 +21,8 @@
 ||am.belambra.com^
 ||anz7.allianz-voyage.fr^
 ||ar.i-run.fr^
-||aze0.dmp.leclerc^
 ||azg1.emalu-store.com^
+||b1n.carabins.umontreal.ca^
 ||b6ft.zone-turf.fr^
 ||barp3.bordeaux.aeroport.fr^
 ||bhu9.bankia.es^
@@ -92,6 +92,7 @@
 ||ea.mistergatesdirect.com^
 ||ea.mondial-assistance.fr^
 ||ea.natiloo.com^
+||ea.netvox-assurances.com^
 ||ea.nextseguros.es^
 ||ea.odalys-vacances.com^
 ||ea.odalys-vacation-rental.com^
@@ -125,7 +126,9 @@
 ||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||eule1.pmu.fr^
+||eule3.pmu.fr^
 ||eule5.pmu.fr^
+||euler.pmu.fr^
 ||eulerian.astro-way.com^
 ||eulerian.belambra.be^
 ||eulerian.belambra.fr^
@@ -167,8 +170,6 @@
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
 ||gi7a.structube.com^
-||gti3.culture.leclerc^
-||gti3.hightech.leclerc^
 ||guq9.vente-unique.it^
 ||gwtc.sfr.fr^
 ||h00c.sfr.fr^
@@ -196,8 +197,6 @@
 ||let1.devialet.com^
 ||lio8.destinia.com.pa^
 ||ljb0.assuronline.com^
-||ls.cartecarburant.leclerc^
-||ls.e-cartecadeauleclerc.fr^
 ||lsv5.belambra.fr^
 ||ly8c.caci-online.fr^
 ||lzuc.sfr.fr^
@@ -261,6 +260,7 @@
 ||pjh7.us.chantelle.com^
 ||pk1u.melanielyne.com^
 ||pkc5.hardrockhoteltenerife.com^
+||pm.pmu.fr^
 ||po.ponant.com^
 ||pol3.cheque-domicile.fr^
 ||pp.promocionesfarma.com^
@@ -268,7 +268,6 @@
 ||pqn7.cheque-dejeuner.fr^
 ||prx6.destinia.ch^
 ||pv.partenaires-verisure.fr^
-||qaz3.wethenew.com^
 ||qfo.eurotierce.be^
 ||qpl9.destinia.dk^
 ||quk9.destinia.com.ar^
