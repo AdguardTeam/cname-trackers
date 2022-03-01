@@ -3,10 +3,10 @@
 #
 # extole.com disguised trackers
 #
+ilove.volusion.com
 refer.ahsfriends.com
 refer.american-giant.com
 refer.ancestry.com
-refer.aol.com
 refer.clearme.com
 refer.discover.com
 refer.dna.ancestry.co.uk
@@ -25,3 +25,8 @@ refer.vonage.com
 refer.xoom.com
 referral.hostgator.com
 share.vimeo.com
+tellapal.register.com
+#
+# media-router-aol1.prod.g03.yahoodns.net disguised trackers
+#
+refer.aol.com

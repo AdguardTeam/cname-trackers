@@ -113,6 +113,7 @@
 ||mapp.jysk.nl^
 ||mapp.yesstyle.com^
 ||mit.db.com^
+||mit.deutsche-bank.de^
 ||mit.dws.com^
 ||mit.dws.de^
 ||mit.postbank.de^

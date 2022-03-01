@@ -39,6 +39,7 @@
 ||analytics.naturequant.com^
 ||analytics.ramiyer.io^
 ||analytics.ramiyer.me^
+||analytics.ratemymeeting.co^
 ||analytics.sixfigureswine.com^
 ||analytics.souazi.com^
 ||analytics.southjerseyquakers.org^
@@ -112,6 +113,7 @@
 ||p.classroombookings.com^
 ||p.e-bot7.com^
 ||p.fairspot.host^
+||p.ifvictr.com^
 ||p.neil.gg^
 ||p.nqueue.io^
 ||p.ryanhalliday.com^
@@ -219,6 +221,7 @@
 ||retention.ankidecks.com^
 ||s.80000hours.org^
 ||s.allbootdisks.com^
+||s.aromapix.com^
 ||s.cameratico.com^
 ||s.crackedthecode.co^
 ||s.cuoresportivo.no^
@@ -305,7 +308,6 @@
 ||stats.coditia.com^
 ||stats.cohere.so^
 ||stats.colabra.app^
-||stats.console.dev^
 ||stats.contentwritingjobs.com^
 ||stats.craftybase.com^
 ||stats.creativeboom.com^
@@ -412,10 +414,8 @@
 ||stats.liist.io^
 ||stats.literacysomerset.org^
 ||stats.livingedge.ngo^
-||stats.lollipoptest.at^
 ||stats.lord.io^
 ||stats.ltdhunt.com^
-||stats.ltodrivingschools.org^
 ||stats.luieremmer.net^
 ||stats.lumen-app.com^
 ||stats.lussoveloce.com^
@@ -494,6 +494,7 @@
 ||stats.print.work^
 ||stats.profilehunt.net^
 ||stats.pselookup.vrymel.com^
+||stats.radreiseglueck.de^
 ||stats.raidprotect.org^
 ||stats.rasulkireev.com^
 ||stats.ravivyas.com^
@@ -590,6 +591,7 @@
 ||stats.zander.wtf^
 ||statystyki.ekspertyzy-szkolenia.pl^
 ||sts.papyrs.com^
+||stts.sgab-srfp.ch^
 ||t.andarpersassi.it^
 ||thor.pureelectric.se^
 ||thumos.fileside.app^

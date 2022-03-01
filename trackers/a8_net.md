@@ -98,6 +98,7 @@
 | a8clk.shop.tanita.co.jp | trck.a8.net |
 | a8clk.skima.jp | trck.a8.net |
 | a8clk.skynet-c.jp | trck.a8.net |
+| a8clk.tanp.jp | trck.a8.net |
 | a8clk.teacon.jp | trck.a8.net |
 | a8clk.titivate.jp | trck.a8.net |
 | a8clk.ur-s.me | trck.a8.net |
@@ -149,6 +150,7 @@
 | a8cv.soundfun.co.jp | trck.a8.net |
 | a8cv.store.alpen-group.jp | trck.a8.net |
 | a8cv.store.tavenal.com | trck.a8.net |
+| a8cv.t-bang.jp | trck.a8.net |
 | a8cv.try-fs.com | trck.a8.net |
 | a8cv.unito.life | trck.a8.net |
 | a8cv.untenmenkyo-yi.com | trck.a8.net |

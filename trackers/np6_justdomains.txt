@@ -27,7 +27,10 @@ tr.asp10bs.espmp-aufr.net
 tr.asp10cr.espmp-nifr.net
 tr.asp10hi.espmp-cufr.net
 tr.asp2032.espmp-aufr.net
+tr.asp2045.espmp-nifr.net
 tr.asp2075.espmp-nifr.net
+tr.asp207e.espmp-nifr.net
+tr.axa.espmp-aufr.net
 tr.b2d1.espmp-agfr.net
 tr.b2d1068.espmp-nifr.net
 tr.b2d106z.espmp-aufr.net
@@ -90,6 +93,7 @@ tr.devis-companeo.be
 tr.devis-companeo.com
 tr.devis-companeo.fr
 tr.devis-express.be
+tr.devis-professionnels.com
 tr.devis.digital
 tr.devize-companeo.ro
 tr.donateur.afm-telethon.fr
@@ -103,6 +107,7 @@ tr.email.archiexpo.com
 tr.email.contact-landrover.fr
 tr.email.custom-campaign.com
 tr.email.directindustry.com
+tr.email.harmonie-mutuelle.fr
 tr.email.janedeboy.com
 tr.email.medicalexpo.com
 tr.email.securite-routiere.gouv.fr
@@ -130,6 +135,7 @@ tr.europa-organisation.com
 tr.evenements.inpi.fr
 tr.fidal.pro
 tr.fr.pro.accor.com
+tr.gen.espmp-agfr.net
 tr.gestion.banque-casino.fr
 tr.gestion.cetelem.fr
 tr.gestion.cofinoga.fr
@@ -169,6 +175,7 @@ tr.info.valcenis.com
 tr.info.vip-mag.co.uk
 tr.infolettre.securite-routiere.gouv.fr
 tr.information.lacollection-airfrance.fr
+tr.information.thelist-emirates.fr
 tr.informations.dila.gouv.fr
 tr.informations.harmonie-mutuelle.fr
 tr.informations.lcl.fr
@@ -203,8 +210,10 @@ tr.mailing.r2e-humanis.fr
 tr.marg02n.espmp-agfr.net
 tr.marketing.younited-credit.com
 tr.marketing.younited-credit.es
+tr.marketing.younited-credit.pt
 tr.mart.espmp-agfr.net
 tr.membres.boursorama.info
+tr.message.maaf.fr
 tr.mhist.moethennessy.com
 tr.mm.infopro-digital.com
 tr.mnoc.espmp-nifr.net
@@ -256,6 +265,7 @@ tr.news.lacollection-airfrance.fr
 tr.news.lacollectionairfrance.fr
 tr.news.lexpansion.lexpress.fr
 tr.news.lexpress.fr
+tr.news.linxea.com
 tr.news.maisonfoody.com
 tr.news.mdbp.fr
 tr.news.meillandrichardier.com
@@ -265,6 +275,7 @@ tr.news.seine-estuaire.cci.fr
 tr.news.smartdeals-transavia-fr.com
 tr.news.smartdealstransavia-fr.com
 tr.news.sport2000.fr
+tr.news.styles.lexpress.fr
 tr.news.thelist-emirates.fr
 tr.news.tiptel.fr
 tr.news.toocampmail.com
@@ -341,6 +352,7 @@ tr.redaction.essentiel-sante-magazine.fr
 tr.reglementaire.emailing.bnpparibas
 tr.relation.uneo.fr
 tr.route-solutiondata.fr
+tr.sash.espmp-aufr.net
 tr.satisfaction.alinea.com
 tr.satisfaction.groupe-pv-cp.com
 tr.scienceshumaines.info
@@ -361,6 +373,7 @@ tr.souscription.banque-casino.fr
 tr.souscription.floa.fr
 tr.spain.plimsoll.es
 tr.strategie.gouv.fr
+tr.tdgx.espmp-cufr.net
 tr.toner-service.fr
 tr.toner-services.fr
 tr.trafficnews.lyria.com

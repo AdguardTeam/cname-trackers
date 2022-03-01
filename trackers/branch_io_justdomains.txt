@@ -424,7 +424,6 @@ links.br.discoveryplus.com
 links.ca.discoveryplus.com
 links.colonelsclub.kfc.com
 links.customers.instacartemail.com
-links.dice.fm
 links.e.aetv.com
 links.e.history.com
 links.e.historyvault.com
@@ -496,6 +495,7 @@ links2.emails.verishop.com
 linktrace.diningcity.cn
 m.irl.com
 m1.stadiumgoods.com
+mail.bravado.co
 mail.theknot.com
 mandrillapp.zola.com
 mlinks.fluz.app

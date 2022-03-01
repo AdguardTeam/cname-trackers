@@ -6,8 +6,8 @@
     * ahs.extole.com
     * american-giant.extole.com
     * ancestrydna.extole.com
-    * aol.extole.com
     * clearme-ssl.extole.com
+    * d.extole.com
     * discover.extole.com
     * freshly.extole.com
     * hannaandersson.extole.com
@@ -24,6 +24,10 @@
     * vimeo.extole.com
     * vonage.extole.com
 
+### Rarely active trackers
+
+* media-router-aol1.prod.g03.yahoodns.net
+
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -33,14 +37,16 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
-| refer.aol.com | aol.extole.com |
 | refer.clearme.com | clearme-ssl.extole.com |
+| ilove.volusion.com | d.extole.com |
+| tellapal.register.com | d.extole.com |
 | refer.discover.com | discover.extole.com |
 | refer.freshly.com | freshly.extole.com |
 | refer.hannaandersson.com | hannaandersson.extole.com |
 | refer.healthypawspetinsurance.com | healthypaws.extole.com |
 | referral.hostgator.com | hostgator.extole.com |
 | refer.luckyvitamin.com | luckyvitamin.extole.com |
+| refer.aol.com | media-router-aol1.prod.g03.yahoodns.net |
 | refer.moo.com | moo.extole.com |
 | refer.purchasingpower.com | purchasingpower.extole.com |
 | refer.xoom.com | referxoom.extole.com |

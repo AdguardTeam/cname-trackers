@@ -27,6 +27,7 @@ tk.biovea.com CNAME .
 tk.bricoprive.com CNAME .
 tk.conforama.fr CNAME .
 tk.dietbon.fr CNAME .
+tk.domitys.fr CNAME .
 tk.engie.fr CNAME .
 tk.healthwarehouse.com CNAME .
 tk.jeux.loro.ch CNAME .

@@ -92,6 +92,7 @@ a8clk.shop.sunsorit.co.jp CNAME .
 a8clk.shop.tanita.co.jp CNAME .
 a8clk.skima.jp CNAME .
 a8clk.skynet-c.jp CNAME .
+a8clk.tanp.jp CNAME .
 a8clk.teacon.jp CNAME .
 a8clk.titivate.jp CNAME .
 a8clk.ur-s.me CNAME .
@@ -143,6 +144,7 @@ a8cv.snkrdunk.com CNAME .
 a8cv.soundfun.co.jp CNAME .
 a8cv.store.alpen-group.jp CNAME .
 a8cv.store.tavenal.com CNAME .
+a8cv.t-bang.jp CNAME .
 a8cv.try-fs.com CNAME .
 a8cv.unito.life CNAME .
 a8cv.untenmenkyo-yi.com CNAME .

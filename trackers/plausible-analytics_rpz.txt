@@ -39,6 +39,7 @@ analytics.mycater.fr CNAME .
 analytics.naturequant.com CNAME .
 analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
+analytics.ratemymeeting.co CNAME .
 analytics.sixfigureswine.com CNAME .
 analytics.souazi.com CNAME .
 analytics.southjerseyquakers.org CNAME .
@@ -112,6 +113,7 @@ p.barrera.io CNAME .
 p.classroombookings.com CNAME .
 p.e-bot7.com CNAME .
 p.fairspot.host CNAME .
+p.ifvictr.com CNAME .
 p.neil.gg CNAME .
 p.nqueue.io CNAME .
 p.ryanhalliday.com CNAME .
@@ -219,6 +221,7 @@ rapido.idraetsmusik.dk CNAME .
 retention.ankidecks.com CNAME .
 s.80000hours.org CNAME .
 s.allbootdisks.com CNAME .
+s.aromapix.com CNAME .
 s.cameratico.com CNAME .
 s.crackedthecode.co CNAME .
 s.cuoresportivo.no CNAME .
@@ -305,7 +308,6 @@ stats.codeexposed.com CNAME .
 stats.coditia.com CNAME .
 stats.cohere.so CNAME .
 stats.colabra.app CNAME .
-stats.console.dev CNAME .
 stats.contentwritingjobs.com CNAME .
 stats.craftybase.com CNAME .
 stats.creativeboom.com CNAME .
@@ -412,10 +414,8 @@ stats.lessimpact.org CNAME .
 stats.liist.io CNAME .
 stats.literacysomerset.org CNAME .
 stats.livingedge.ngo CNAME .
-stats.lollipoptest.at CNAME .
 stats.lord.io CNAME .
 stats.ltdhunt.com CNAME .
-stats.ltodrivingschools.org CNAME .
 stats.luieremmer.net CNAME .
 stats.lumen-app.com CNAME .
 stats.lussoveloce.com CNAME .
@@ -494,6 +494,7 @@ stats.pricewell.io CNAME .
 stats.print.work CNAME .
 stats.profilehunt.net CNAME .
 stats.pselookup.vrymel.com CNAME .
+stats.radreiseglueck.de CNAME .
 stats.raidprotect.org CNAME .
 stats.rasulkireev.com CNAME .
 stats.ravivyas.com CNAME .
@@ -590,6 +591,7 @@ stats.yourdallashandyman.com CNAME .
 stats.zander.wtf CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
 sts.papyrs.com CNAME .
+stts.sgab-srfp.ch CNAME .
 t.andarpersassi.it CNAME .
 thor.pureelectric.se CNAME .
 thumos.fileside.app CNAME .

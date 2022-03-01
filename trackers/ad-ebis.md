@@ -86,6 +86,7 @@
     * 852e231d-ct0ymnok.cname.ebis.ne.jp
     * 861e71a7-mhybr5iz.cname.ebis.ne.jp
     * 87bfa869-gchgrbwl.cname.ebis.ne.jp
+    * 8994616b-m2u5vl4g.cname.ebis.ne.jp
     * 89b01a4a-rgypc97e.cname.ebis.ne.jp
     * 8a79c862-uynsk4n4.cname.ebis.ne.jp
     * 8b44cc88-gaz6wmaw.cname.ebis.ne.jp
@@ -245,6 +246,7 @@
 | maz.zba.jp | 852e231d-ct0ymnok.cname.ebis.ne.jp |
 | adebis.irobot-jp.com | 861e71a7-mhybr5iz.cname.ebis.ne.jp |
 | ebis.ce-parfait.com | 87bfa869-gchgrbwl.cname.ebis.ne.jp |
+| sinceregarden.sincere-garden.jp | 8994616b-m2u5vl4g.cname.ebis.ne.jp |
 | ebis.as-1.co.jp | 89b01a4a-rgypc97e.cname.ebis.ne.jp |
 | ad.aucview.com | 8a79c862-uynsk4n4.cname.ebis.ne.jp |
 | cnebis.i-no-science.com | 8b44cc88-gaz6wmaw.cname.ebis.ne.jp |

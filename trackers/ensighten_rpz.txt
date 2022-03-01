@@ -3,8 +3,11 @@
 ;
 ; nc0.co disguised trackers
 ;
+activate.aami.com.au CNAME .
 activate.academy.com CNAME .
+activate.bingle.com.au CNAME .
 activate.delmartimes.net CNAME .
+activate.encinitasadvocate.com CNAME .
 activate.lajollalight.com CNAME .
 activate.lanebryant.com CNAME .
 activate.latimes.com CNAME .
@@ -13,6 +16,7 @@ activate.maurices.com CNAME .
 activate.nydailynews.com CNAME .
 activate.pacificsandiego.com CNAME .
 activate.platform.californiatimes.com CNAME .
+activate.ranchosantafereview.com CNAME .
 activate.sandiegouniontribune.com CNAME .
 activate.suncorp.com.au CNAME .
 activate.tacdn.com CNAME .
@@ -20,11 +24,15 @@ activate.united.com CNAME .
 activate1.fidelity.com CNAME .
 agility.cartoonnetwork.com CNAME .
 agility.cnn.com CNAME .
+agility.eleague.com CNAME .
 agility.nba.com CNAME .
+agility.ncaa.com CNAME .
 agility.tbs.com CNAME .
 agility.tcm.com CNAME .
+agility.tntdrama.com CNAME .
 analytics.amica.com CNAME .
 analytics.carecredit.com CNAME .
+analytics.carecreditlearning.com CNAME .
 analytics.carecreditprovidercenter.com CNAME .
 analytics.coach.com CNAME .
 analytics.coachoutlet.com CNAME .
@@ -39,13 +47,17 @@ analytics.stuartweitzman.com CNAME .
 analytics.syf.com CNAME .
 analytics.synchrony.com CNAME .
 analytics.synchronybank.com CNAME .
+analytics.synchronybusiness.com CNAME .
 assets1.aainsurance.co.nz CNAME .
 assets1.aami.com.au CNAME .
+assets1.apia.com.au CNAME .
 assets1.bingle.com.au CNAME .
 assets1.cilinsurance.com.au CNAME .
 assets1.gio.com.au CNAME .
 assets1.shannons.com.au CNAME .
+assets1.suncorp.co.nz CNAME .
 assets1.suncorp.com.au CNAME .
+assets1.terrischeer.com.au CNAME .
 assets1.vero.co.nz CNAME .
 attribution.theworks.co.uk CNAME .
 coke.activate.ensighten.com CNAME .
@@ -53,11 +65,16 @@ cookies.jll-mena.com CNAME .
 cookies.jll.ca CNAME .
 cookies.jll.cl CNAME .
 cookies.jll.co.in CNAME .
+cookies.jll.co.kr CNAME .
+cookies.jll.co.uk CNAME .
 cookies.jll.com.au CNAME .
+cookies.jll.com.br CNAME .
+cookies.jll.com.co CNAME .
 cookies.jll.com.ph CNAME .
 cookies.jll.com.sg CNAME .
 cookies.jll.es CNAME .
 cookies.jll.pl CNAME .
+cookies.jll.pt CNAME .
 cookies.jll.ru CNAME .
 cookies.us.jll.com CNAME .
 data.experian.co.uk CNAME .
@@ -95,6 +112,7 @@ nexus.toyota.com CNAME .
 nexus.virginholidays.co.uk CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
+privacy.heineken.it CNAME .
 privacy.heishop.mx CNAME .
 pulse.delta.com CNAME .
 pulse.sleepnumber.com CNAME .
@@ -121,3 +139,5 @@ tms.marriott.com CNAME .
 tms.nab.com.au CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .
+tripadvisor.activate.ensighten.com CNAME .
+united.activate.ensighten.com CNAME .

@@ -67,6 +67,7 @@
 ||as.ebalovo.adult^
 ||as.lenkino.adult^
 ||as2.fasta.xyz^
+||as2.movporvid.com^
 ||ascc.javquick.com^
 ||asdf.eldos.xyz^
 ||asg.aphex.me^

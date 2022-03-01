@@ -424,7 +424,6 @@ links.br.discoveryplus.com CNAME .
 links.ca.discoveryplus.com CNAME .
 links.colonelsclub.kfc.com CNAME .
 links.customers.instacartemail.com CNAME .
-links.dice.fm CNAME .
 links.e.aetv.com CNAME .
 links.e.history.com CNAME .
 links.e.historyvault.com CNAME .
@@ -496,6 +495,7 @@ links2.emails.verishop.com CNAME .
 linktrace.diningcity.cn CNAME .
 m.irl.com CNAME .
 m1.stadiumgoods.com CNAME .
+mail.bravado.co CNAME .
 mail.theknot.com CNAME .
 mandrillapp.zola.com CNAME .
 mlinks.fluz.app CNAME .

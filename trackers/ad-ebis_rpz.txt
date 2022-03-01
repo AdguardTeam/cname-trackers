@@ -150,6 +150,7 @@ qxhydkz8.hmjdaw.ntt.com CNAME .
 real-fitness2019.real-fitness.jp CNAME .
 seo.tkc110.jp CNAME .
 sep02.hinagiku-life.jp CNAME .
+sinceregarden.sincere-garden.jp CNAME .
 tracking.mysurance.co.jp CNAME .
 tracking.nokai.jp CNAME .
 tukuru.cotta.jp CNAME .

@@ -73,6 +73,7 @@
 | as.ebalovo.adult | 0i0i0i0.com |
 | as.lenkino.adult | 0i0i0i0.com |
 | as2.fasta.xyz | 0i0i0i0.com |
+| as2.movporvid.com | 0i0i0i0.com |
 | ascc.javquick.com | 0i0i0i0.com |
 | asdf.eldos.xyz | 0i0i0i0.com |
 | asg.aphex.me | 0i0i0i0.com |

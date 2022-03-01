@@ -67,6 +67,7 @@ arbs.arabshentai.com CNAME .
 as.ebalovo.adult CNAME .
 as.lenkino.adult CNAME .
 as2.fasta.xyz CNAME .
+as2.movporvid.com CNAME .
 ascc.javquick.com CNAME .
 asdf.eldos.xyz CNAME .
 asg.aphex.me CNAME .

@@ -33,6 +33,7 @@ cdn.mrvio.com CNAME .
 cdn.namol.xyz CNAME .
 cdn.nlop.xyz CNAME .
 cdn.nuqwe.com CNAME .
+cdn.pctv.xyz CNAME .
 cdn.popclow.xyz CNAME .
 cdn.popjs.xyz CNAME .
 cdn.poptri.com CNAME .

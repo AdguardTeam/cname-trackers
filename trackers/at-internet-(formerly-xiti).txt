@@ -32,6 +32,7 @@
 ||d.uni-medias.com^
 ||da.maif.fr^
 ||dimensions.mappy.com^
+||drau.viessmann.si^
 ||fabryczna.viessmann.pl^
 ||faucons.viessmann.fr^
 ||hal.courrierinternational.com^
@@ -44,6 +45,7 @@
 ||insights.biallo.de^
 ||insights.sport1.de^
 ||johannes.voith.com^
+||kallerupstone.viessmann.dk^
 ||kiki.rireetchansons.fr^
 ||lem.nouvelobs.com^
 ||logs1257.at.pagesjaunes.fr^

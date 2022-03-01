@@ -27,7 +27,10 @@ tr.asp10bs.espmp-aufr.net CNAME .
 tr.asp10cr.espmp-nifr.net CNAME .
 tr.asp10hi.espmp-cufr.net CNAME .
 tr.asp2032.espmp-aufr.net CNAME .
+tr.asp2045.espmp-nifr.net CNAME .
 tr.asp2075.espmp-nifr.net CNAME .
+tr.asp207e.espmp-nifr.net CNAME .
+tr.axa.espmp-aufr.net CNAME .
 tr.b2d1.espmp-agfr.net CNAME .
 tr.b2d1068.espmp-nifr.net CNAME .
 tr.b2d106z.espmp-aufr.net CNAME .
@@ -90,6 +93,7 @@ tr.devis-companeo.be CNAME .
 tr.devis-companeo.com CNAME .
 tr.devis-companeo.fr CNAME .
 tr.devis-express.be CNAME .
+tr.devis-professionnels.com CNAME .
 tr.devis.digital CNAME .
 tr.devize-companeo.ro CNAME .
 tr.donateur.afm-telethon.fr CNAME .
@@ -103,6 +107,7 @@ tr.email.archiexpo.com CNAME .
 tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
 tr.email.directindustry.com CNAME .
+tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.janedeboy.com CNAME .
 tr.email.medicalexpo.com CNAME .
 tr.email.securite-routiere.gouv.fr CNAME .
@@ -130,6 +135,7 @@ tr.europa-organisation.com CNAME .
 tr.evenements.inpi.fr CNAME .
 tr.fidal.pro CNAME .
 tr.fr.pro.accor.com CNAME .
+tr.gen.espmp-agfr.net CNAME .
 tr.gestion.banque-casino.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
 tr.gestion.cofinoga.fr CNAME .
@@ -169,6 +175,7 @@ tr.info.valcenis.com CNAME .
 tr.info.vip-mag.co.uk CNAME .
 tr.infolettre.securite-routiere.gouv.fr CNAME .
 tr.information.lacollection-airfrance.fr CNAME .
+tr.information.thelist-emirates.fr CNAME .
 tr.informations.dila.gouv.fr CNAME .
 tr.informations.harmonie-mutuelle.fr CNAME .
 tr.informations.lcl.fr CNAME .
@@ -203,8 +210,10 @@ tr.mailing.r2e-humanis.fr CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.younited-credit.com CNAME .
 tr.marketing.younited-credit.es CNAME .
+tr.marketing.younited-credit.pt CNAME .
 tr.mart.espmp-agfr.net CNAME .
 tr.membres.boursorama.info CNAME .
+tr.message.maaf.fr CNAME .
 tr.mhist.moethennessy.com CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
@@ -256,6 +265,7 @@ tr.news.lacollection-airfrance.fr CNAME .
 tr.news.lacollectionairfrance.fr CNAME .
 tr.news.lexpansion.lexpress.fr CNAME .
 tr.news.lexpress.fr CNAME .
+tr.news.linxea.com CNAME .
 tr.news.maisonfoody.com CNAME .
 tr.news.mdbp.fr CNAME .
 tr.news.meillandrichardier.com CNAME .
@@ -265,6 +275,7 @@ tr.news.seine-estuaire.cci.fr CNAME .
 tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
+tr.news.styles.lexpress.fr CNAME .
 tr.news.thelist-emirates.fr CNAME .
 tr.news.tiptel.fr CNAME .
 tr.news.toocampmail.com CNAME .
@@ -341,6 +352,7 @@ tr.redaction.essentiel-sante-magazine.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .
 tr.relation.uneo.fr CNAME .
 tr.route-solutiondata.fr CNAME .
+tr.sash.espmp-aufr.net CNAME .
 tr.satisfaction.alinea.com CNAME .
 tr.satisfaction.groupe-pv-cp.com CNAME .
 tr.scienceshumaines.info CNAME .
@@ -361,6 +373,7 @@ tr.souscription.banque-casino.fr CNAME .
 tr.souscription.floa.fr CNAME .
 tr.spain.plimsoll.es CNAME .
 tr.strategie.gouv.fr CNAME .
+tr.tdgx.espmp-cufr.net CNAME .
 tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .
 tr.trafficnews.lyria.com CNAME .

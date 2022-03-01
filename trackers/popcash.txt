@@ -33,6 +33,7 @@
 ||cdn.namol.xyz^
 ||cdn.nlop.xyz^
 ||cdn.nuqwe.com^
+||cdn.pctv.xyz^
 ||cdn.popclow.xyz^
 ||cdn.popjs.xyz^
 ||cdn.poptri.com^

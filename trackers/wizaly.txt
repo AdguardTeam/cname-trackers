@@ -27,6 +27,7 @@
 ||tk.bricoprive.com^
 ||tk.conforama.fr^
 ||tk.dietbon.fr^
+||tk.domitys.fr^
 ||tk.engie.fr^
 ||tk.healthwarehouse.com^
 ||tk.jeux.loro.ch^

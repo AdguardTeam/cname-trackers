@@ -32,7 +32,10 @@
 | tr.asp10cr.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10hi.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2032.espmp-aufr.net | tracking.bp01.net |
+| tr.asp2045.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2075.espmp-nifr.net | tracking.bp01.net |
+| tr.asp207e.espmp-nifr.net | tracking.bp01.net |
+| tr.axa.espmp-aufr.net | tracking.bp01.net |
 | tr.b2d1.espmp-agfr.net | tracking.bp01.net |
 | tr.b2d1068.espmp-nifr.net | tracking.bp01.net |
 | tr.b2d106z.espmp-aufr.net | tracking.bp01.net |
@@ -95,6 +98,7 @@
 | tr.devis-companeo.com | tracking.bp01.net |
 | tr.devis-companeo.fr | tracking.bp01.net |
 | tr.devis-express.be | tracking.bp01.net |
+| tr.devis-professionnels.com | tracking.bp01.net |
 | tr.devis.digital | tracking.bp01.net |
 | tr.devize-companeo.ro | tracking.bp01.net |
 | tr.donateur.afm-telethon.fr | tracking.bp01.net |
@@ -108,6 +112,7 @@
 | tr.email.contact-landrover.fr | tracking.bp01.net |
 | tr.email.custom-campaign.com | tracking.bp01.net |
 | tr.email.directindustry.com | tracking.bp01.net |
+| tr.email.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.email.janedeboy.com | tracking.bp01.net |
 | tr.email.medicalexpo.com | tracking.bp01.net |
 | tr.email.securite-routiere.gouv.fr | tracking.bp01.net |
@@ -135,6 +140,7 @@
 | tr.evenements.inpi.fr | tracking.bp01.net |
 | tr.fidal.pro | tracking.bp01.net |
 | tr.fr.pro.accor.com | tracking.bp01.net |
+| tr.gen.espmp-agfr.net | tracking.bp01.net |
 | tr.gestion.banque-casino.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
 | tr.gestion.cofinoga.fr | tracking.bp01.net |
@@ -174,6 +180,7 @@
 | tr.info.vip-mag.co.uk | tracking.bp01.net |
 | tr.infolettre.securite-routiere.gouv.fr | tracking.bp01.net |
 | tr.information.lacollection-airfrance.fr | tracking.bp01.net |
+| tr.information.thelist-emirates.fr | tracking.bp01.net |
 | tr.informations.dila.gouv.fr | tracking.bp01.net |
 | tr.informations.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.informations.lcl.fr | tracking.bp01.net |
@@ -208,8 +215,10 @@
 | tr.marg02n.espmp-agfr.net | tracking.bp01.net |
 | tr.marketing.younited-credit.com | tracking.bp01.net |
 | tr.marketing.younited-credit.es | tracking.bp01.net |
+| tr.marketing.younited-credit.pt | tracking.bp01.net |
 | tr.mart.espmp-agfr.net | tracking.bp01.net |
 | tr.membres.boursorama.info | tracking.bp01.net |
+| tr.message.maaf.fr | tracking.bp01.net |
 | tr.mhist.moethennessy.com | tracking.bp01.net |
 | tr.mm.infopro-digital.com | tracking.bp01.net |
 | tr.mnoc.espmp-nifr.net | tracking.bp01.net |
@@ -261,6 +270,7 @@
 | tr.news.lacollectionairfrance.fr | tracking.bp01.net |
 | tr.news.lexpansion.lexpress.fr | tracking.bp01.net |
 | tr.news.lexpress.fr | tracking.bp01.net |
+| tr.news.linxea.com | tracking.bp01.net |
 | tr.news.maisonfoody.com | tracking.bp01.net |
 | tr.news.mdbp.fr | tracking.bp01.net |
 | tr.news.meillandrichardier.com | tracking.bp01.net |
@@ -270,6 +280,7 @@
 | tr.news.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.news.smartdealstransavia-fr.com | tracking.bp01.net |
 | tr.news.sport2000.fr | tracking.bp01.net |
+| tr.news.styles.lexpress.fr | tracking.bp01.net |
 | tr.news.thelist-emirates.fr | tracking.bp01.net |
 | tr.news.tiptel.fr | tracking.bp01.net |
 | tr.news.toocampmail.com | tracking.bp01.net |
@@ -346,6 +357,7 @@
 | tr.reglementaire.emailing.bnpparibas | tracking.bp01.net |
 | tr.relation.uneo.fr | tracking.bp01.net |
 | tr.route-solutiondata.fr | tracking.bp01.net |
+| tr.sash.espmp-aufr.net | tracking.bp01.net |
 | tr.satisfaction.alinea.com | tracking.bp01.net |
 | tr.satisfaction.groupe-pv-cp.com | tracking.bp01.net |
 | tr.scienceshumaines.info | tracking.bp01.net |
@@ -366,6 +378,7 @@
 | tr.souscription.floa.fr | tracking.bp01.net |
 | tr.spain.plimsoll.es | tracking.bp01.net |
 | tr.strategie.gouv.fr | tracking.bp01.net |
+| tr.tdgx.espmp-cufr.net | tracking.bp01.net |
 | tr.toner-service.fr | tracking.bp01.net |
 | tr.toner-services.fr | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |

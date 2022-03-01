@@ -113,6 +113,7 @@ mapp.jysk.dk CNAME .
 mapp.jysk.nl CNAME .
 mapp.yesstyle.com CNAME .
 mit.db.com CNAME .
+mit.deutsche-bank.de CNAME .
 mit.dws.com CNAME .
 mit.dws.de CNAME .
 mit.postbank.de CNAME .
