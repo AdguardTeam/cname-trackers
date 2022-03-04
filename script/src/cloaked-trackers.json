@@ -157,6 +157,12 @@
         ]
     },
     {
+        "company_name": "Parse.ly",
+        "domains": [
+            "parsely.com"
+        ]
+    },
+    {
         "company_name": "Plausible Analytics",
         "domains": [
             "custom.plausible.io"
