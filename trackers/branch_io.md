@@ -137,6 +137,7 @@
 | ablink.notifications.br.live | thirdparty.bnc.lt |
 | ablink.notify.homecourt.ai | thirdparty.bnc.lt |
 | ablink.notify.pray.com | thirdparty.bnc.lt |
+| ablink.nz-edm.zip.co | thirdparty.bnc.lt |
 | ablink.o.sofi.org | thirdparty.bnc.lt |
 | ablink.offers.checkout51.com | thirdparty.bnc.lt |
 | ablink.offers.grassdoor.com | thirdparty.bnc.lt |
@@ -212,6 +213,7 @@
 | br.ac.ebookers.ie | thirdparty.bnc.lt |
 | br.ac.orbitz.com | thirdparty.bnc.lt |
 | br.ac.travelocity.com | thirdparty.bnc.lt |
+| br.ac2.cheaptickets.com | thirdparty.bnc.lt |
 | br.backmarket.fr | thirdparty.bnc.lt |
 | br.email.lifesum.com | thirdparty.bnc.lt |
 | br.links.kmartphotos.com.au | thirdparty.bnc.lt |
@@ -222,6 +224,7 @@
 | branch.carvana.com | thirdparty.bnc.lt |
 | branch.chelseafc.com | thirdparty.bnc.lt |
 | branch.email.livenation.com | thirdparty.bnc.lt |
+| branch.livenation.com | thirdparty.bnc.lt |
 | branch.pgatour-mail.com | thirdparty.bnc.lt |
 | branchlink.adobespark.com | thirdparty.bnc.lt |
 | branchtrk.lendingtree.com | thirdparty.bnc.lt |
@@ -357,6 +360,7 @@
 | link.announce.busuu.app | thirdparty.bnc.lt |
 | link.automated.almosafer.com | thirdparty.bnc.lt |
 | link.automated.tajawal.com | thirdparty.bnc.lt |
+| link.bambu.social | thirdparty.bnc.lt |
 | link.cdl.freshly.com | thirdparty.bnc.lt |
 | link.cheerz.com | thirdparty.bnc.lt |
 | link.creditonemail.com | thirdparty.bnc.lt |

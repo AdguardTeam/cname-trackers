@@ -14,6 +14,7 @@
 | t8.mailperformance.com | tracking.bp01.net |
 | tr.3ou4xcb.cetelem.fr | tracking.bp01.net |
 | tr.abo.cotemaison.fr | tracking.bp01.net |
+| tr.acq-pjms.fr | tracking.bp01.net |
 | tr.actu.bricodepot.com | tracking.bp01.net |
 | tr.actualites.01net.com | tracking.bp01.net |
 | tr.actualites.bfmtv.com | tracking.bp01.net |
@@ -33,6 +34,7 @@
 | tr.asp10hi.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2032.espmp-aufr.net | tracking.bp01.net |
 | tr.asp2045.espmp-nifr.net | tracking.bp01.net |
+| tr.asp2063.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2075.espmp-nifr.net | tracking.bp01.net |
 | tr.asp207e.espmp-nifr.net | tracking.bp01.net |
 | tr.axa.espmp-aufr.net | tracking.bp01.net |
@@ -115,6 +117,7 @@
 | tr.email.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.email.janedeboy.com | tracking.bp01.net |
 | tr.email.medicalexpo.com | tracking.bp01.net |
+| tr.email.rs-fr.com | tracking.bp01.net |
 | tr.email.securite-routiere.gouv.fr | tracking.bp01.net |
 | tr.email.solocal.com | tracking.bp01.net |
 | tr.email.thelem-assurances.fr | tracking.bp01.net |
@@ -220,6 +223,7 @@
 | tr.membres.boursorama.info | tracking.bp01.net |
 | tr.message.maaf.fr | tracking.bp01.net |
 | tr.mhist.moethennessy.com | tracking.bp01.net |
+| tr.mijn-superaanbieding.be | tracking.bp01.net |
 | tr.mm.infopro-digital.com | tracking.bp01.net |
 | tr.mnoc.espmp-nifr.net | tracking.bp01.net |
 | tr.moja-wycena.pl | tracking.bp01.net |
@@ -265,7 +269,9 @@
 | tr.news.heredis.com | tracking.bp01.net |
 | tr.news.i24news.tv | tracking.bp01.net |
 | tr.news.infopro-digital.com | tracking.bp01.net |
+| tr.news.jautomatise.com | tracking.bp01.net |
 | tr.news.kpmgnet.fr | tracking.bp01.net |
+| tr.news.la-collectionairfrance.fr | tracking.bp01.net |
 | tr.news.lacollection-airfrance.fr | tracking.bp01.net |
 | tr.news.lacollectionairfrance.fr | tracking.bp01.net |
 | tr.news.lexpansion.lexpress.fr | tracking.bp01.net |
@@ -275,6 +281,7 @@
 | tr.news.mdbp.fr | tracking.bp01.net |
 | tr.news.meillandrichardier.com | tracking.bp01.net |
 | tr.news.mi-oferta.es | tracking.bp01.net |
+| tr.news.ouestnormandie.cci.fr | tracking.bp01.net |
 | tr.news.perfectstay.com | tracking.bp01.net |
 | tr.news.seine-estuaire.cci.fr | tracking.bp01.net |
 | tr.news.smartdeals-transavia-fr.com | tracking.bp01.net |
@@ -371,6 +378,8 @@
 | tr.services.caradisiac.com | tracking.bp01.net |
 | tr.servicesclients.canalplus.fr | tracking.bp01.net |
 | tr.servicoaocliente.younited-credit.com | tracking.bp01.net |
+| tr.sfr.espmp-aufr.net | tracking.bp01.net |
+| tr.sgjk.espmp-aufr.net | tracking.bp01.net |
 | tr.silvera-contact.fr | tracking.bp01.net |
 | tr.smtp1.email-mediapost.fr | tracking.bp01.net |
 | tr.solution.uneo.fr | tracking.bp01.net |
@@ -403,6 +412,7 @@
 | tr.xleads.digital | tracking.bp01.net |
 | tr1.citroen-ipsos.com | tracking.bp01.net |
 | tr1.mailperf.com | tracking.bp01.net |
+| tr1.mailperformance.com | tracking.bp01.net |
 | tr1.peugeot-ipsos.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
 | trpreviews.bp01.net | tracking.bp01.net |

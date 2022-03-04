@@ -93,6 +93,7 @@
 ||ebis-cname.mirai-japan.co.jp^
 ||ebis-tracking.tcb-beauty.net^
 ||ebis.as-1.co.jp^
+||ebis.ayura.co.jp^
 ||ebis.biyo-job.com^
 ||ebis.bulk.co.jp^
 ||ebis.c-3-esthe.com^

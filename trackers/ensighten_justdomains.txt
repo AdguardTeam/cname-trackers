@@ -70,15 +70,19 @@ cookies.jll.co.uk
 cookies.jll.com.au
 cookies.jll.com.br
 cookies.jll.com.co
+cookies.jll.com.mx
 cookies.jll.com.ph
 cookies.jll.com.sg
+cookies.jll.com.tr
 cookies.jll.es
 cookies.jll.pl
 cookies.jll.pt
 cookies.jll.ru
+cookies.joneslanglasalle.co.jp
 cookies.us.jll.com
 data.experian.co.uk
 data.experianidentityservice.co.uk
+data.lincoln.com
 data.privacy.ensighten.com
 dc.directv.com
 dcf.espn.com
@@ -86,6 +90,7 @@ dcfdata.espn.com
 ddc.statefarm.com
 eb.trbas.com
 emetrics.eastwestbank.com
+ens-orlet.activate.ensighten.com
 ens.luzernerzeitung.ch
 ens.nzz.ch
 ens.tagblatt.ch
@@ -119,7 +124,9 @@ pulse.sleepnumber.com
 securemetrics.mysynchrony.com
 securemetrics.syf.com
 securemetrics.synchronybusiness.com
+smt.jcpenney.com
 sst.dell.com
+sst.johnlewis.com
 t.janieandjack.com
 tagman.britishairways.com
 tagman.heathrow.com

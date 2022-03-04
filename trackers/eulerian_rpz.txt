@@ -22,7 +22,6 @@ am.belambra.com CNAME .
 anz7.allianz-voyage.fr CNAME .
 ar.i-run.fr CNAME .
 azg1.emalu-store.com CNAME .
-b1n.carabins.umontreal.ca CNAME .
 b6ft.zone-turf.fr CNAME .
 barp3.bordeaux.aeroport.fr CNAME .
 bhu9.bankia.es CNAME .
@@ -276,6 +275,7 @@ rh5i.tradingsat.com CNAME .
 rqz4.supdigital.fr CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
+ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sby1.madeindesign.de CNAME .
 sd.securitasdirect.fr CNAME .

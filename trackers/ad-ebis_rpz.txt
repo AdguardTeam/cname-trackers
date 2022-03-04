@@ -93,6 +93,7 @@ eb.bewithyou.jp CNAME .
 ebis-cname.mirai-japan.co.jp CNAME .
 ebis-tracking.tcb-beauty.net CNAME .
 ebis.as-1.co.jp CNAME .
+ebis.ayura.co.jp CNAME .
 ebis.biyo-job.com CNAME .
 ebis.bulk.co.jp CNAME .
 ebis.c-3-esthe.com CNAME .

@@ -70,15 +70,19 @@ cookies.jll.co.uk CNAME .
 cookies.jll.com.au CNAME .
 cookies.jll.com.br CNAME .
 cookies.jll.com.co CNAME .
+cookies.jll.com.mx CNAME .
 cookies.jll.com.ph CNAME .
 cookies.jll.com.sg CNAME .
+cookies.jll.com.tr CNAME .
 cookies.jll.es CNAME .
 cookies.jll.pl CNAME .
 cookies.jll.pt CNAME .
 cookies.jll.ru CNAME .
+cookies.joneslanglasalle.co.jp CNAME .
 cookies.us.jll.com CNAME .
 data.experian.co.uk CNAME .
 data.experianidentityservice.co.uk CNAME .
+data.lincoln.com CNAME .
 data.privacy.ensighten.com CNAME .
 dc.directv.com CNAME .
 dcf.espn.com CNAME .
@@ -86,6 +90,7 @@ dcfdata.espn.com CNAME .
 ddc.statefarm.com CNAME .
 eb.trbas.com CNAME .
 emetrics.eastwestbank.com CNAME .
+ens-orlet.activate.ensighten.com CNAME .
 ens.luzernerzeitung.ch CNAME .
 ens.nzz.ch CNAME .
 ens.tagblatt.ch CNAME .
@@ -119,7 +124,9 @@ pulse.sleepnumber.com CNAME .
 securemetrics.mysynchrony.com CNAME .
 securemetrics.syf.com CNAME .
 securemetrics.synchronybusiness.com CNAME .
+smt.jcpenney.com CNAME .
 sst.dell.com CNAME .
+sst.johnlewis.com CNAME .
 t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
 tagman.heathrow.com CNAME .

@@ -9,6 +9,7 @@ sms.gestion.cetelem.fr CNAME .
 t8.mailperformance.com CNAME .
 tr.3ou4xcb.cetelem.fr CNAME .
 tr.abo.cotemaison.fr CNAME .
+tr.acq-pjms.fr CNAME .
 tr.actu.bricodepot.com CNAME .
 tr.actualites.01net.com CNAME .
 tr.actualites.bfmtv.com CNAME .
@@ -28,6 +29,7 @@ tr.asp10cr.espmp-nifr.net CNAME .
 tr.asp10hi.espmp-cufr.net CNAME .
 tr.asp2032.espmp-aufr.net CNAME .
 tr.asp2045.espmp-nifr.net CNAME .
+tr.asp2063.espmp-nifr.net CNAME .
 tr.asp2075.espmp-nifr.net CNAME .
 tr.asp207e.espmp-nifr.net CNAME .
 tr.axa.espmp-aufr.net CNAME .
@@ -110,6 +112,7 @@ tr.email.directindustry.com CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.janedeboy.com CNAME .
 tr.email.medicalexpo.com CNAME .
+tr.email.rs-fr.com CNAME .
 tr.email.securite-routiere.gouv.fr CNAME .
 tr.email.solocal.com CNAME .
 tr.email.thelem-assurances.fr CNAME .
@@ -215,6 +218,7 @@ tr.mart.espmp-agfr.net CNAME .
 tr.membres.boursorama.info CNAME .
 tr.message.maaf.fr CNAME .
 tr.mhist.moethennessy.com CNAME .
+tr.mijn-superaanbieding.be CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
 tr.moja-wycena.pl CNAME .
@@ -260,7 +264,9 @@ tr.news.geantcasino.fr CNAME .
 tr.news.heredis.com CNAME .
 tr.news.i24news.tv CNAME .
 tr.news.infopro-digital.com CNAME .
+tr.news.jautomatise.com CNAME .
 tr.news.kpmgnet.fr CNAME .
+tr.news.la-collectionairfrance.fr CNAME .
 tr.news.lacollection-airfrance.fr CNAME .
 tr.news.lacollectionairfrance.fr CNAME .
 tr.news.lexpansion.lexpress.fr CNAME .
@@ -270,6 +276,7 @@ tr.news.maisonfoody.com CNAME .
 tr.news.mdbp.fr CNAME .
 tr.news.meillandrichardier.com CNAME .
 tr.news.mi-oferta.es CNAME .
+tr.news.ouestnormandie.cci.fr CNAME .
 tr.news.perfectstay.com CNAME .
 tr.news.seine-estuaire.cci.fr CNAME .
 tr.news.smartdeals-transavia-fr.com CNAME .
@@ -366,6 +373,8 @@ tr.services.alinea.com CNAME .
 tr.services.caradisiac.com CNAME .
 tr.servicesclients.canalplus.fr CNAME .
 tr.servicoaocliente.younited-credit.com CNAME .
+tr.sfr.espmp-aufr.net CNAME .
+tr.sgjk.espmp-aufr.net CNAME .
 tr.silvera-contact.fr CNAME .
 tr.smtp1.email-mediapost.fr CNAME .
 tr.solution.uneo.fr CNAME .
@@ -398,6 +407,7 @@ tr.welcome.vipmag.fr CNAME .
 tr.xleads.digital CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.mailperf.com CNAME .
+tr1.mailperformance.com CNAME .
 tr1.peugeot-ipsos.com CNAME .
 tr5.mailperf.com CNAME .
 trpreviews.bp01.net CNAME .

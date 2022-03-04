@@ -1,0 +1,16 @@
+;
+; Company name: Parse.ly
+;
+; parsely.com disguised trackers
+;
+fpa-api.arstechnica.com CNAME .
+fpa-cdn.adweek.com CNAME .
+fpa-cdn.arstechnica.com CNAME .
+fpa-cdn.decrypt.co CNAME .
+fpa-cdn.parse.ly CNAME .
+fpa-cdn.slate.com CNAME .
+fpa-events.adweek.com CNAME .
+fpa-events.arstechnica.com CNAME .
+fpa-events.decrypt.co CNAME .
+fpa-events.parse.ly CNAME .
+fpa-events.slate.com CNAME .

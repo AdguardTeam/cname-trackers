@@ -22,7 +22,6 @@ am.belambra.com
 anz7.allianz-voyage.fr
 ar.i-run.fr
 azg1.emalu-store.com
-b1n.carabins.umontreal.ca
 b6ft.zone-turf.fr
 barp3.bordeaux.aeroport.fr
 bhu9.bankia.es
@@ -276,6 +275,7 @@ rh5i.tradingsat.com
 rqz4.supdigital.fr
 rup5.destinia.ru
 rvz9.destinia.co.ro
+ry0.rythmefm.com
 s4e8.cascades.com
 sby1.madeindesign.de
 sd.securitasdirect.fr

@@ -9,6 +9,7 @@ sms.gestion.cetelem.fr
 t8.mailperformance.com
 tr.3ou4xcb.cetelem.fr
 tr.abo.cotemaison.fr
+tr.acq-pjms.fr
 tr.actu.bricodepot.com
 tr.actualites.01net.com
 tr.actualites.bfmtv.com
@@ -28,6 +29,7 @@ tr.asp10cr.espmp-nifr.net
 tr.asp10hi.espmp-cufr.net
 tr.asp2032.espmp-aufr.net
 tr.asp2045.espmp-nifr.net
+tr.asp2063.espmp-nifr.net
 tr.asp2075.espmp-nifr.net
 tr.asp207e.espmp-nifr.net
 tr.axa.espmp-aufr.net
@@ -110,6 +112,7 @@ tr.email.directindustry.com
 tr.email.harmonie-mutuelle.fr
 tr.email.janedeboy.com
 tr.email.medicalexpo.com
+tr.email.rs-fr.com
 tr.email.securite-routiere.gouv.fr
 tr.email.solocal.com
 tr.email.thelem-assurances.fr
@@ -215,6 +218,7 @@ tr.mart.espmp-agfr.net
 tr.membres.boursorama.info
 tr.message.maaf.fr
 tr.mhist.moethennessy.com
+tr.mijn-superaanbieding.be
 tr.mm.infopro-digital.com
 tr.mnoc.espmp-nifr.net
 tr.moja-wycena.pl
@@ -260,7 +264,9 @@ tr.news.geantcasino.fr
 tr.news.heredis.com
 tr.news.i24news.tv
 tr.news.infopro-digital.com
+tr.news.jautomatise.com
 tr.news.kpmgnet.fr
+tr.news.la-collectionairfrance.fr
 tr.news.lacollection-airfrance.fr
 tr.news.lacollectionairfrance.fr
 tr.news.lexpansion.lexpress.fr
@@ -270,6 +276,7 @@ tr.news.maisonfoody.com
 tr.news.mdbp.fr
 tr.news.meillandrichardier.com
 tr.news.mi-oferta.es
+tr.news.ouestnormandie.cci.fr
 tr.news.perfectstay.com
 tr.news.seine-estuaire.cci.fr
 tr.news.smartdeals-transavia-fr.com
@@ -366,6 +373,8 @@ tr.services.alinea.com
 tr.services.caradisiac.com
 tr.servicesclients.canalplus.fr
 tr.servicoaocliente.younited-credit.com
+tr.sfr.espmp-aufr.net
+tr.sgjk.espmp-aufr.net
 tr.silvera-contact.fr
 tr.smtp1.email-mediapost.fr
 tr.solution.uneo.fr
@@ -398,6 +407,7 @@ tr.welcome.vipmag.fr
 tr.xleads.digital
 tr1.citroen-ipsos.com
 tr1.mailperf.com
+tr1.mailperformance.com
 tr1.peugeot-ipsos.com
 tr5.mailperf.com
 trpreviews.bp01.net

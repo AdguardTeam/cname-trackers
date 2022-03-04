@@ -127,6 +127,7 @@ ablink.notification.insighttimer.com CNAME .
 ablink.notifications.br.live CNAME .
 ablink.notify.homecourt.ai CNAME .
 ablink.notify.pray.com CNAME .
+ablink.nz-edm.zip.co CNAME .
 ablink.o.sofi.org CNAME .
 ablink.offers.checkout51.com CNAME .
 ablink.offers.grassdoor.com CNAME .
@@ -203,6 +204,7 @@ br.ac.ebookers.fr CNAME .
 br.ac.ebookers.ie CNAME .
 br.ac.orbitz.com CNAME .
 br.ac.travelocity.com CNAME .
+br.ac2.cheaptickets.com CNAME .
 br.backmarket.fr CNAME .
 br.email.lifesum.com CNAME .
 br.links.kmartphotos.com.au CNAME .
@@ -213,6 +215,7 @@ branch-tradie.hipages.com.au CNAME .
 branch.carvana.com CNAME .
 branch.chelseafc.com CNAME .
 branch.email.livenation.com CNAME .
+branch.livenation.com CNAME .
 branch.pgatour-mail.com CNAME .
 branchlink.adobespark.com CNAME .
 branchtrk.lendingtree.com CNAME .
@@ -350,6 +353,7 @@ link.alerts.busuu.app CNAME .
 link.announce.busuu.app CNAME .
 link.automated.almosafer.com CNAME .
 link.automated.tajawal.com CNAME .
+link.bambu.social CNAME .
 link.cdl.freshly.com CNAME .
 link.cheerz.com CNAME .
 link.creditonemail.com CNAME .

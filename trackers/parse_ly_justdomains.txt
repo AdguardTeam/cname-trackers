@@ -1,0 +1,16 @@
+#
+# Company name: Parse.ly
+#
+# parsely.com disguised trackers
+#
+fpa-api.arstechnica.com
+fpa-cdn.adweek.com
+fpa-cdn.arstechnica.com
+fpa-cdn.decrypt.co
+fpa-cdn.parse.ly
+fpa-cdn.slate.com
+fpa-events.adweek.com
+fpa-events.arstechnica.com
+fpa-events.decrypt.co
+fpa-events.parse.ly
+fpa-events.slate.com

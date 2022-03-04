@@ -15,6 +15,7 @@ a.linkz.ai
 a.mhthemes.com
 a.skcript.com
 a.visitefoz.com.br
+also.greatsecuritydebate.net
 analytics.adam.page
 analytics.adamstoner.com
 analytics.adonisjs.com
@@ -25,13 +26,14 @@ analytics.churchthemes.com
 analytics.codeforscience.org
 analytics.codeskulptor.org
 analytics.dogecoin.gg
+analytics.dombesteindata.net
 analytics.explained-from-first-principles.com
 analytics.fatalparadox.com
 analytics.gamedatacrunch.com
+analytics.geekyminds.net
 analytics.givealittle.co
 analytics.hiome.com
 analytics.lunge.de
-analytics.mambaui.com
 analytics.mc500.info
 analytics.mhpod.gov.au
 analytics.mondoweiss.net
@@ -54,6 +56,7 @@ analytics.whotargets.me
 analytics.winter.ink
 analytics.wittypen.com
 analytics.wpsermons.com
+analytics.xiloc.net
 antitracking.owncast.online
 ap.dt.gl
 api.decentralize.today
@@ -97,7 +100,6 @@ informatics.filamentcolors.xyz
 insights.affilimate.com
 insights.frenchtogether.com
 insights.growwithless.com
-iwonttrackyou.xn--gckvb8fzb.com
 juniper.starleaf.com
 kon.mediaplatform.group
 ks.walkq.com
@@ -129,6 +131,7 @@ ping.cavelab.dev
 ping.richardtaylor.dev
 piostats.gdcorner.com
 pl.1feed.app
+pl.astro-akatemia.fi
 pl.astro.fi
 pl.codetheweb.blog
 pl.ethan.link
@@ -149,12 +152,14 @@ plau.swissdevjobs.ch
 plauplauplau.app.budg.co
 plauplauplau.budg.co
 plaus.svelte.school
+plausible.amava.com
 plausible.as207960.net
 plausible.banovo.de
 plausible.bearer.sh
 plausible.benscarblog.com
 plausible.bernheisel.com
 plausible.bostad.shop
+plausible.brandonly.me
 plausible.conveyal.com
 plausible.corbettbarr.com
 plausible.deploymentfromscratch.com
@@ -198,6 +203,7 @@ plausible.promlens.com
 plausible.rachel.systems
 plausible.reactpreview.com
 plausible.regex.help
+plausible.riok.ch
 plausible.simplelogin.io
 plausible.simpleportfolio.app
 plausible.slope.io
@@ -209,6 +215,7 @@ plausible.tac.dappstar.io
 plausible.test.sketch.com
 plausible.urbanekuensteruhr.de
 plausible.vaughanesports.org
+plausible.vhanda.in
 plausible.viteshot.com
 plausible.west.io
 plausible.zest.dev
@@ -254,6 +261,7 @@ statistik.veronika-steiner.at
 stats.4-camper.de
 stats.45rpm.ch
 stats.acadevor.com
+stats.airtrafik.com
 stats.aixbrain.de
 stats.allaboutberlin.com
 stats.alleaktien.de
@@ -331,7 +339,6 @@ stats.dominikmayer.com
 stats.doors.live
 stats.drewbolles.com
 stats.drgomesp.dev
-stats.dsgn.link
 stats.edkimo.com
 stats.ekomenyong.com
 stats.elementary.io
@@ -380,6 +387,7 @@ stats.htp.org
 stats.hugoreeves.com
 stats.huysmanbouw.be
 stats.iamzero.dev
+stats.ibuildings.net
 stats.igevia.com
 stats.immunefi.com
 stats.infoboard.de
@@ -400,6 +408,7 @@ stats.justanotherpm.com
 stats.justinwilliams.ca
 stats.kejk.tech
 stats.kensho.com
+stats.kettlebellbundle.com
 stats.keyscore.me
 stats.kod.ru
 stats.kongressen.com
@@ -494,6 +503,7 @@ stats.pricewell.io
 stats.print.work
 stats.profilehunt.net
 stats.pselookup.vrymel.com
+stats.qbitstore.nl
 stats.radreiseglueck.de
 stats.raidprotect.org
 stats.rasulkireev.com
@@ -549,7 +559,6 @@ stats.sushibyte.io
 stats.svenadolph.net
 stats.tekin.co.uk
 stats.thechurchfactory.com
-stats.thelion.website
 stats.therenegadecoder.com
 stats.thomasvitale.com
 stats.threadstart.io

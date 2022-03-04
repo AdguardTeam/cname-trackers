@@ -62,6 +62,7 @@ a8clk.cv.onedenki.jp CNAME .
 a8clk.cv.warau.jp CNAME .
 a8clk.dospara.co.jp CNAME .
 a8clk.francfranc.com CNAME .
+a8clk.fuku-chan.jp CNAME .
 a8clk.grirose.jp CNAME .
 a8clk.hurugicom.jp CNAME .
 a8clk.justy-consul.com CNAME .
@@ -78,6 +79,7 @@ a8clk.manage.conoha.jp CNAME .
 a8clk.miidas.jp CNAME .
 a8clk.minnadeooyasan.com CNAME .
 a8clk.mobile-norikae.com CNAME .
+a8clk.muumuu-domain.com CNAME .
 a8clk.nenga-kazoku.com CNAME .
 a8clk.netowl.jp CNAME .
 a8clk.order.lpio.jp CNAME .
@@ -85,6 +87,7 @@ a8clk.osoujihonpo.com CNAME .
 a8clk.petitjob.jp CNAME .
 a8clk.point-land.net CNAME .
 a8clk.rarejob.com CNAME .
+a8clk.recycle-net.jp CNAME .
 a8clk.rental.geo-online.co.jp CNAME .
 a8clk.reserve.retty.me CNAME .
 a8clk.shokutakubin.com CNAME .
@@ -92,6 +95,7 @@ a8clk.shop.sunsorit.co.jp CNAME .
 a8clk.shop.tanita.co.jp CNAME .
 a8clk.skima.jp CNAME .
 a8clk.skynet-c.jp CNAME .
+a8clk.smile-zemi.jp CNAME .
 a8clk.tanp.jp CNAME .
 a8clk.teacon.jp CNAME .
 a8clk.titivate.jp CNAME .

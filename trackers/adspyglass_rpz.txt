@@ -31,6 +31,7 @@ a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.focusde.info CNAME .
+a.gaypornlove.net CNAME .
 a.green-good-nice.site CNAME .
 a.hentaimotel.com CNAME .
 a.kagiti.club CNAME .
@@ -55,10 +56,12 @@ adilk.ilikecomix.com CNAME .
 ads.al3ably.com CNAME .
 ads.poptwinks.com CNAME .
 ads.tabuflix.com CNAME .
+ads.xmov.net CNAME .
 ads.xxxleaks.cc CNAME .
 adspy.javrank.com CNAME .
 ags.hobby.porn CNAME .
 amazingdomain.sbs CNAME .
+anti.ultraten.net CNAME .
 antiadblock.info CNAME .
 api.adultsclips.com CNAME .
 app.phimvu.app CNAME .
@@ -70,11 +73,13 @@ as2.fasta.xyz CNAME .
 as2.movporvid.com CNAME .
 ascc.javquick.com CNAME .
 asdf.eldos.xyz CNAME .
+asg.animehdl.net CNAME .
 asg.aphex.me CNAME .
 asg.catraff.com CNAME .
 asg.collegesexvideo.net CNAME .
 asg.faperoni.com CNAME .
 asg.i884.info CNAME .
+asg.japanxxxvideo.net CNAME .
 asg.lustesthd.com CNAME .
 asg.phukienthoitranggiare.com CNAME .
 asg.pornimagine.com CNAME .
@@ -107,6 +112,7 @@ cdc.teensnorest.com CNAME .
 cdfr.hot4k.org CNAME .
 cdn3.hentaihand.com CNAME .
 cdnvid.com CNAME .
+chrome-loading.car-insurance-reviews.com CNAME .
 client2009x25.xcdn.ovh CNAME .
 dashboard.fc2ppv.buzz CNAME .
 data.bangtubevideos.com CNAME .
@@ -167,6 +173,7 @@ nav.srcdn.xyz CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
 o313o.com CNAME .
+oi.fapnado.com CNAME .
 oi.fapnado.xxx CNAME .
 p123p.com CNAME .
 parkurl.com CNAME .

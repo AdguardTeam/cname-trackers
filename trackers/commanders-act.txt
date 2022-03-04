@@ -7,7 +7,6 @@
 ||data.decathlon.es^
 ||data.decathlon.fr^
 ||data.ouigo.com^
-||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^

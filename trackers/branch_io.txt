@@ -127,6 +127,7 @@
 ||ablink.notifications.br.live^
 ||ablink.notify.homecourt.ai^
 ||ablink.notify.pray.com^
+||ablink.nz-edm.zip.co^
 ||ablink.o.sofi.org^
 ||ablink.offers.checkout51.com^
 ||ablink.offers.grassdoor.com^
@@ -203,6 +204,7 @@
 ||br.ac.ebookers.ie^
 ||br.ac.orbitz.com^
 ||br.ac.travelocity.com^
+||br.ac2.cheaptickets.com^
 ||br.backmarket.fr^
 ||br.email.lifesum.com^
 ||br.links.kmartphotos.com.au^
@@ -213,6 +215,7 @@
 ||branch.carvana.com^
 ||branch.chelseafc.com^
 ||branch.email.livenation.com^
+||branch.livenation.com^
 ||branch.pgatour-mail.com^
 ||branchlink.adobespark.com^
 ||branchtrk.lendingtree.com^
@@ -350,6 +353,7 @@
 ||link.announce.busuu.app^
 ||link.automated.almosafer.com^
 ||link.automated.tajawal.com^
+||link.bambu.social^
 ||link.cdl.freshly.com^
 ||link.cheerz.com^
 ||link.creditonemail.com^

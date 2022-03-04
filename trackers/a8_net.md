@@ -68,6 +68,7 @@
 | a8clk.cv.warau.jp | trck.a8.net |
 | a8clk.dospara.co.jp | trck.a8.net |
 | a8clk.francfranc.com | trck.a8.net |
+| a8clk.fuku-chan.jp | trck.a8.net |
 | a8clk.grirose.jp | trck.a8.net |
 | a8clk.hurugicom.jp | trck.a8.net |
 | a8clk.justy-consul.com | trck.a8.net |
@@ -84,6 +85,7 @@
 | a8clk.miidas.jp | trck.a8.net |
 | a8clk.minnadeooyasan.com | trck.a8.net |
 | a8clk.mobile-norikae.com | trck.a8.net |
+| a8clk.muumuu-domain.com | trck.a8.net |
 | a8clk.nenga-kazoku.com | trck.a8.net |
 | a8clk.netowl.jp | trck.a8.net |
 | a8clk.order.lpio.jp | trck.a8.net |
@@ -91,6 +93,7 @@
 | a8clk.petitjob.jp | trck.a8.net |
 | a8clk.point-land.net | trck.a8.net |
 | a8clk.rarejob.com | trck.a8.net |
+| a8clk.recycle-net.jp | trck.a8.net |
 | a8clk.rental.geo-online.co.jp | trck.a8.net |
 | a8clk.reserve.retty.me | trck.a8.net |
 | a8clk.shokutakubin.com | trck.a8.net |
@@ -98,6 +101,7 @@
 | a8clk.shop.tanita.co.jp | trck.a8.net |
 | a8clk.skima.jp | trck.a8.net |
 | a8clk.skynet-c.jp | trck.a8.net |
+| a8clk.smile-zemi.jp | trck.a8.net |
 | a8clk.tanp.jp | trck.a8.net |
 | a8clk.teacon.jp | trck.a8.net |
 | a8clk.titivate.jp | trck.a8.net |

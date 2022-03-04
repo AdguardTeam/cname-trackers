@@ -15,6 +15,7 @@ a.linkz.ai CNAME .
 a.mhthemes.com CNAME .
 a.skcript.com CNAME .
 a.visitefoz.com.br CNAME .
+also.greatsecuritydebate.net CNAME .
 analytics.adam.page CNAME .
 analytics.adamstoner.com CNAME .
 analytics.adonisjs.com CNAME .
@@ -25,13 +26,14 @@ analytics.churchthemes.com CNAME .
 analytics.codeforscience.org CNAME .
 analytics.codeskulptor.org CNAME .
 analytics.dogecoin.gg CNAME .
+analytics.dombesteindata.net CNAME .
 analytics.explained-from-first-principles.com CNAME .
 analytics.fatalparadox.com CNAME .
 analytics.gamedatacrunch.com CNAME .
+analytics.geekyminds.net CNAME .
 analytics.givealittle.co CNAME .
 analytics.hiome.com CNAME .
 analytics.lunge.de CNAME .
-analytics.mambaui.com CNAME .
 analytics.mc500.info CNAME .
 analytics.mhpod.gov.au CNAME .
 analytics.mondoweiss.net CNAME .
@@ -54,6 +56,7 @@ analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
 analytics.wittypen.com CNAME .
 analytics.wpsermons.com CNAME .
+analytics.xiloc.net CNAME .
 antitracking.owncast.online CNAME .
 ap.dt.gl CNAME .
 api.decentralize.today CNAME .
@@ -97,7 +100,6 @@ informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
 insights.frenchtogether.com CNAME .
 insights.growwithless.com CNAME .
-iwonttrackyou.xn--gckvb8fzb.com CNAME .
 juniper.starleaf.com CNAME .
 kon.mediaplatform.group CNAME .
 ks.walkq.com CNAME .
@@ -129,6 +131,7 @@ ping.cavelab.dev CNAME .
 ping.richardtaylor.dev CNAME .
 piostats.gdcorner.com CNAME .
 pl.1feed.app CNAME .
+pl.astro-akatemia.fi CNAME .
 pl.astro.fi CNAME .
 pl.codetheweb.blog CNAME .
 pl.ethan.link CNAME .
@@ -149,12 +152,14 @@ plau.swissdevjobs.ch CNAME .
 plauplauplau.app.budg.co CNAME .
 plauplauplau.budg.co CNAME .
 plaus.svelte.school CNAME .
+plausible.amava.com CNAME .
 plausible.as207960.net CNAME .
 plausible.banovo.de CNAME .
 plausible.bearer.sh CNAME .
 plausible.benscarblog.com CNAME .
 plausible.bernheisel.com CNAME .
 plausible.bostad.shop CNAME .
+plausible.brandonly.me CNAME .
 plausible.conveyal.com CNAME .
 plausible.corbettbarr.com CNAME .
 plausible.deploymentfromscratch.com CNAME .
@@ -198,6 +203,7 @@ plausible.promlens.com CNAME .
 plausible.rachel.systems CNAME .
 plausible.reactpreview.com CNAME .
 plausible.regex.help CNAME .
+plausible.riok.ch CNAME .
 plausible.simplelogin.io CNAME .
 plausible.simpleportfolio.app CNAME .
 plausible.slope.io CNAME .
@@ -209,6 +215,7 @@ plausible.tac.dappstar.io CNAME .
 plausible.test.sketch.com CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.vaughanesports.org CNAME .
+plausible.vhanda.in CNAME .
 plausible.viteshot.com CNAME .
 plausible.west.io CNAME .
 plausible.zest.dev CNAME .
@@ -254,6 +261,7 @@ statistik.veronika-steiner.at CNAME .
 stats.4-camper.de CNAME .
 stats.45rpm.ch CNAME .
 stats.acadevor.com CNAME .
+stats.airtrafik.com CNAME .
 stats.aixbrain.de CNAME .
 stats.allaboutberlin.com CNAME .
 stats.alleaktien.de CNAME .
@@ -331,7 +339,6 @@ stats.dominikmayer.com CNAME .
 stats.doors.live CNAME .
 stats.drewbolles.com CNAME .
 stats.drgomesp.dev CNAME .
-stats.dsgn.link CNAME .
 stats.edkimo.com CNAME .
 stats.ekomenyong.com CNAME .
 stats.elementary.io CNAME .
@@ -380,6 +387,7 @@ stats.htp.org CNAME .
 stats.hugoreeves.com CNAME .
 stats.huysmanbouw.be CNAME .
 stats.iamzero.dev CNAME .
+stats.ibuildings.net CNAME .
 stats.igevia.com CNAME .
 stats.immunefi.com CNAME .
 stats.infoboard.de CNAME .
@@ -400,6 +408,7 @@ stats.justanotherpm.com CNAME .
 stats.justinwilliams.ca CNAME .
 stats.kejk.tech CNAME .
 stats.kensho.com CNAME .
+stats.kettlebellbundle.com CNAME .
 stats.keyscore.me CNAME .
 stats.kod.ru CNAME .
 stats.kongressen.com CNAME .
@@ -494,6 +503,7 @@ stats.pricewell.io CNAME .
 stats.print.work CNAME .
 stats.profilehunt.net CNAME .
 stats.pselookup.vrymel.com CNAME .
+stats.qbitstore.nl CNAME .
 stats.radreiseglueck.de CNAME .
 stats.raidprotect.org CNAME .
 stats.rasulkireev.com CNAME .
@@ -549,7 +559,6 @@ stats.sushibyte.io CNAME .
 stats.svenadolph.net CNAME .
 stats.tekin.co.uk CNAME .
 stats.thechurchfactory.com CNAME .
-stats.thelion.website CNAME .
 stats.therenegadecoder.com CNAME .
 stats.thomasvitale.com CNAME .
 stats.threadstart.io CNAME .

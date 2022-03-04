@@ -11,6 +11,7 @@ cdn.asdb.xyz CNAME .
 cdn.asdfix.com CNAME .
 cdn.asdnow.xyz CNAME .
 cdn.asecv.xyz CNAME .
+cdn.asecw.xyz CNAME .
 cdn.asrop.xyz CNAME .
 cdn.barlo.xyz CNAME .
 cdn.bbes.xyz CNAME .
@@ -18,6 +19,7 @@ cdn.brtv.xyz CNAME .
 cdn.buram.xyz CNAME .
 cdn.ddow.xyz CNAME .
 cdn.drawx.xyz CNAME .
+cdn.dupx.xyz CNAME .
 cdn.eecd.xyz CNAME .
 cdn.eeco.xyz CNAME .
 cdn.fagold.xyz CNAME .
@@ -40,7 +42,9 @@ cdn.poptri.com CNAME .
 cdn.popwad.xyz CNAME .
 cdn.popwow.xyz CNAME .
 cdn.rgrd.xyz CNAME .
+cdn.ropx.xyz CNAME .
 cdn.sawron.xyz CNAME .
+cdn.soxg.xyz CNAME .
 cdn.spnut.com CNAME .
 cdn.srxy.xyz CNAME .
 cdn.wwfx.xyz CNAME .
