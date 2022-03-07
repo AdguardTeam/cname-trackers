@@ -86,6 +86,7 @@ cnameebis.usagi-online.com CNAME .
 cnebis.chocola.com CNAME .
 cnebis.eisai.jp CNAME .
 cnebis.i-no-science.com CNAME .
+corporate.frontierconsul.net CNAME .
 ct.xn--0et88ccz6awh1a.biz CNAME .
 cvs.kireimo.jp CNAME .
 digital.anicom-sompo.co.jp CNAME .

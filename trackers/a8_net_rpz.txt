@@ -3,6 +3,7 @@
 ;
 ; a8.net disguised trackers
 ;
+a8-itp.qoo10.jp CNAME .
 a8.01cloud.jp CNAME .
 a8.abemashopping.jp CNAME .
 a8.cocomeister.jp CNAME .
@@ -25,7 +26,6 @@ a8.looop-denki.com CNAME .
 a8.makeshop.jp CNAME .
 a8.nosh.jp CNAME .
 a8.olightstore.jp CNAME .
-a8.payse.basefood.co.jp CNAME .
 a8.print-netsquare.com CNAME .
 a8.remix-denki.com CNAME .
 a8.sakuratravel.jp CNAME .
@@ -39,7 +39,9 @@ a8.vege-pet.jp CNAME .
 a8.virus-gekitai.com CNAME .
 a8.web-hikari.net CNAME .
 a8.webist-cri.com CNAME .
+a8.yanoman.com CNAME .
 a8.yuzen-official.com CNAME .
+a8aspconv.ns-softbank-hikari.com CNAME .
 a8aspconv.xn--biglobe-kc9k.com CNAME .
 a8aspconv.xn--ocn-ws1e.jp CNAME .
 a8click.you-up.com CNAME .
@@ -128,6 +130,7 @@ a8cv.frecious.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
 a8cv.housingbazar.jp CNAME .
 a8cv.iikyujin.net CNAME .
+a8cv.interlink.or.jp CNAME .
 a8cv.ishibashi.co.jp CNAME .
 a8cv.jp-shop.kiwabi.com CNAME .
 a8cv.k-ikiiki.jp CNAME .

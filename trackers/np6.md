@@ -64,6 +64,7 @@
 | tr.clienti.younited-credit.it | tracking.bp01.net |
 | tr.clients-mediametrie.fr | tracking.bp01.net |
 | tr.clients.boursorama.info | tracking.bp01.net |
+| tr.clients.gemy.fr | tracking.bp01.net |
 | tr.clients.idaia.group | tracking.bp01.net |
 | tr.cnaf.espmp-nifr.net | tracking.bp01.net |
 | tr.collectif.groupe-vyv.fr | tracking.bp01.net |
@@ -215,6 +216,7 @@
 | tr.mailing.achatpublic.com | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
 | tr.mailing.r2e-humanis.fr | tracking.bp01.net |
+| tr.maisonsdumonde.com | tracking.bp01.net |
 | tr.marg02n.espmp-agfr.net | tracking.bp01.net |
 | tr.marketing.younited-credit.com | tracking.bp01.net |
 | tr.marketing.younited-credit.es | tracking.bp01.net |
@@ -238,6 +240,7 @@
 | tr.news-companeo.fr | tracking.bp01.net |
 | tr.news-companeo.mx | tracking.bp01.net |
 | tr.news-companeo.pl | tracking.bp01.net |
+| tr.news.a-t.fr | tracking.bp01.net |
 | tr.news.accessmbatour.com | tracking.bp01.net |
 | tr.news.alibabuy.com | tracking.bp01.net |
 | tr.news.alinea.com | tracking.bp01.net |
@@ -278,6 +281,7 @@
 | tr.news.lexpress.fr | tracking.bp01.net |
 | tr.news.linxea.com | tracking.bp01.net |
 | tr.news.maisonfoody.com | tracking.bp01.net |
+| tr.news.manufacturing.fr | tracking.bp01.net |
 | tr.news.mdbp.fr | tracking.bp01.net |
 | tr.news.meillandrichardier.com | tracking.bp01.net |
 | tr.news.mi-oferta.es | tracking.bp01.net |
@@ -329,6 +333,7 @@
 | tr.notification.norrsken.fr | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |
 | tr.observatoire.musee-orsay.fr | tracking.bp01.net |
+| tr.ofertas-companeo.es | tracking.bp01.net |
 | tr.offer-companeo.co.uk | tracking.bp01.net |
 | tr.offerte.migliorifornitori.it | tracking.bp01.net |
 | tr.offre-companeo.com | tracking.bp01.net |

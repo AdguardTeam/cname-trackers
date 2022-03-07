@@ -3,6 +3,7 @@
 #
 # popcashjs.b-cdn.net disguised trackers
 #
+cdn.adoglu.com
 cdn.agcm.xyz
 cdn.alota.xyz
 cdn.aprick.xyz
@@ -35,6 +36,7 @@ cdn.mrvio.com
 cdn.namol.xyz
 cdn.nlop.xyz
 cdn.nuqwe.com
+cdn.olep.xyz
 cdn.pctv.xyz
 cdn.popclow.xyz
 cdn.popjs.xyz

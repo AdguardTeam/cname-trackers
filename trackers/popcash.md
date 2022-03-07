@@ -8,6 +8,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| cdn.adoglu.com | popcashjs.b-cdn.net |
 | cdn.agcm.xyz | popcashjs.b-cdn.net |
 | cdn.alota.xyz | popcashjs.b-cdn.net |
 | cdn.aprick.xyz | popcashjs.b-cdn.net |
@@ -40,6 +41,7 @@
 | cdn.namol.xyz | popcashjs.b-cdn.net |
 | cdn.nlop.xyz | popcashjs.b-cdn.net |
 | cdn.nuqwe.com | popcashjs.b-cdn.net |
+| cdn.olep.xyz | popcashjs.b-cdn.net |
 | cdn.pctv.xyz | popcashjs.b-cdn.net |
 | cdn.popclow.xyz | popcashjs.b-cdn.net |
 | cdn.popjs.xyz | popcashjs.b-cdn.net |

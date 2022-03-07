@@ -20,6 +20,7 @@ analytics.adam.page CNAME .
 analytics.adamstoner.com CNAME .
 analytics.adonisjs.com CNAME .
 analytics.arunraghavan.net CNAME .
+analytics.basistheory.com CNAME .
 analytics.betterplaces.nl CNAME .
 analytics.certifriedit.com CNAME .
 analytics.churchthemes.com CNAME .
@@ -52,6 +53,7 @@ analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
 analytics.valheimgamer.com CNAME .
+analytics.vanilla-project.guide CNAME .
 analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
 analytics.wittypen.com CNAME .
@@ -182,6 +184,7 @@ plausible.hellpancake.com CNAME .
 plausible.help.exploreandcreate.com CNAME .
 plausible.hstmedical.com CNAME .
 plausible.inflex.io CNAME .
+plausible.joinself.com CNAME .
 plausible.kabaret.no CNAME .
 plausible.kreya.app CNAME .
 plausible.lawdeeda.com CNAME .
@@ -389,7 +392,6 @@ stats.huysmanbouw.be CNAME .
 stats.iamzero.dev CNAME .
 stats.ibuildings.net CNAME .
 stats.igevia.com CNAME .
-stats.immunefi.com CNAME .
 stats.infoboard.de CNAME .
 stats.innoq.com CNAME .
 stats.instabudget.app CNAME .
@@ -433,6 +435,7 @@ stats.macroarraydx.com CNAME .
 stats.madeit.io CNAME .
 stats.maferland.com CNAME .
 stats.martinbetz.eu CNAME .
+stats.martyntaylor.com CNAME .
 stats.marudor.de CNAME .
 stats.mashword.com CNAME .
 stats.masjidbox.com CNAME .
@@ -486,6 +489,7 @@ stats.pep20.org CNAME .
 stats.personalkollen.se CNAME .
 stats.phelsumagrandis.de CNAME .
 stats.phili.pe CNAME .
+stats.photovisionprints.com CNAME .
 stats.pianoplanet.app CNAME .
 stats.pinoymusicstation.com CNAME .
 stats.piranhas.co CNAME .

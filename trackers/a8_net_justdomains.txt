@@ -3,6 +3,7 @@
 #
 # a8.net disguised trackers
 #
+a8-itp.qoo10.jp
 a8.01cloud.jp
 a8.abemashopping.jp
 a8.cocomeister.jp
@@ -25,7 +26,6 @@ a8.looop-denki.com
 a8.makeshop.jp
 a8.nosh.jp
 a8.olightstore.jp
-a8.payse.basefood.co.jp
 a8.print-netsquare.com
 a8.remix-denki.com
 a8.sakuratravel.jp
@@ -39,7 +39,9 @@ a8.vege-pet.jp
 a8.virus-gekitai.com
 a8.web-hikari.net
 a8.webist-cri.com
+a8.yanoman.com
 a8.yuzen-official.com
+a8aspconv.ns-softbank-hikari.com
 a8aspconv.xn--biglobe-kc9k.com
 a8aspconv.xn--ocn-ws1e.jp
 a8click.you-up.com
@@ -128,6 +130,7 @@ a8cv.frecious.jp
 a8cv.greed-island.ne.jp
 a8cv.housingbazar.jp
 a8cv.iikyujin.net
+a8cv.interlink.or.jp
 a8cv.ishibashi.co.jp
 a8cv.jp-shop.kiwabi.com
 a8cv.k-ikiiki.jp

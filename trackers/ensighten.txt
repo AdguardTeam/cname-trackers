@@ -14,6 +14,7 @@
 ||activate.loft.com^
 ||activate.maurices.com^
 ||activate.nydailynews.com^
+||activate.orlandosentinel.com^
 ||activate.pacificsandiego.com^
 ||activate.platform.californiatimes.com^
 ||activate.ranchosantafereview.com^
@@ -75,6 +76,7 @@
 ||cookies.jll.com.sg^
 ||cookies.jll.com.tr^
 ||cookies.jll.es^
+||cookies.jll.it^
 ||cookies.jll.pl^
 ||cookies.jll.pt^
 ||cookies.jll.ru^
@@ -109,6 +111,7 @@
 ||fidelity.activate.ensighten.com^
 ||gst.pulse.buyatoyota.com^
 ||gst.pulse.toyota.com^
+||maurices.activate.ensighten.com^
 ||measure.ensighten.com^
 ||metrics.mysynchrony.com^
 ||metrics.syf.com^
@@ -138,6 +141,7 @@
 ||tam.volkswagen.com^
 ||tdi.cartoonnetwork.com^
 ||tm.hdmtools.com^
+||tms-test.nab.com.au^
 ||tms.americanexpress.com^
 ||tms.capitalone.com^
 ||tms.delta.com^

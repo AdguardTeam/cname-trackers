@@ -25,6 +25,7 @@
 | analytics.adamstoner.com | custom.plausible.io |
 | analytics.adonisjs.com | custom.plausible.io |
 | analytics.arunraghavan.net | custom.plausible.io |
+| analytics.basistheory.com | custom.plausible.io |
 | analytics.betterplaces.nl | custom.plausible.io |
 | analytics.certifriedit.com | custom.plausible.io |
 | analytics.churchthemes.com | custom.plausible.io |
@@ -57,6 +58,7 @@
 | analytics.trust.page | custom.plausible.io |
 | analytics.uxmetrics.com | custom.plausible.io |
 | analytics.valheimgamer.com | custom.plausible.io |
+| analytics.vanilla-project.guide | custom.plausible.io |
 | analytics.whotargets.me | custom.plausible.io |
 | analytics.winter.ink | custom.plausible.io |
 | analytics.wittypen.com | custom.plausible.io |
@@ -187,6 +189,7 @@
 | plausible.help.exploreandcreate.com | custom.plausible.io |
 | plausible.hstmedical.com | custom.plausible.io |
 | plausible.inflex.io | custom.plausible.io |
+| plausible.joinself.com | custom.plausible.io |
 | plausible.kabaret.no | custom.plausible.io |
 | plausible.kreya.app | custom.plausible.io |
 | plausible.lawdeeda.com | custom.plausible.io |
@@ -394,7 +397,6 @@
 | stats.iamzero.dev | custom.plausible.io |
 | stats.ibuildings.net | custom.plausible.io |
 | stats.igevia.com | custom.plausible.io |
-| stats.immunefi.com | custom.plausible.io |
 | stats.infoboard.de | custom.plausible.io |
 | stats.innoq.com | custom.plausible.io |
 | stats.instabudget.app | custom.plausible.io |
@@ -438,6 +440,7 @@
 | stats.madeit.io | custom.plausible.io |
 | stats.maferland.com | custom.plausible.io |
 | stats.martinbetz.eu | custom.plausible.io |
+| stats.martyntaylor.com | custom.plausible.io |
 | stats.marudor.de | custom.plausible.io |
 | stats.mashword.com | custom.plausible.io |
 | stats.masjidbox.com | custom.plausible.io |
@@ -491,6 +494,7 @@
 | stats.personalkollen.se | custom.plausible.io |
 | stats.phelsumagrandis.de | custom.plausible.io |
 | stats.phili.pe | custom.plausible.io |
+| stats.photovisionprints.com | custom.plausible.io |
 | stats.pianoplanet.app | custom.plausible.io |
 | stats.pinoymusicstation.com | custom.plausible.io |
 | stats.piranhas.co | custom.plausible.io |

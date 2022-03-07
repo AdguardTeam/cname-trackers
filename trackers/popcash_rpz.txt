@@ -3,6 +3,7 @@
 ;
 ; popcashjs.b-cdn.net disguised trackers
 ;
+cdn.adoglu.com CNAME .
 cdn.agcm.xyz CNAME .
 cdn.alota.xyz CNAME .
 cdn.aprick.xyz CNAME .
@@ -35,6 +36,7 @@ cdn.mrvio.com CNAME .
 cdn.namol.xyz CNAME .
 cdn.nlop.xyz CNAME .
 cdn.nuqwe.com CNAME .
+cdn.olep.xyz CNAME .
 cdn.pctv.xyz CNAME .
 cdn.popclow.xyz CNAME .
 cdn.popjs.xyz CNAME .

@@ -15,15 +15,16 @@
 2rid9fii9chx.www.atlaslane.com CNAME .
 2y0lbig207qz.www.botcomics.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
+42qnuym6jsvn.www.cefirates.com CNAME .
 634lj7p7g3lv.unstoppabledomains.com CNAME .
+8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
-f5q72e2o8r5f.www.word.com.au CNAME .
-fp84rw0jinz7.blanc.ru CNAME .
+e62ndy5gz80q.bitdomain.biz CNAME .
 fve57b8cs74i.www.cybernetman.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .
@@ -45,7 +46,6 @@ tos5dqejpd.www.freecodecamp.org CNAME .
 u3mgjck7ke28.www.cefirates.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
-w0ah2nau25l7.www.earthclassmail.com CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
 ;

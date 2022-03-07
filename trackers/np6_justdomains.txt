@@ -59,6 +59,7 @@ tr.clienti.younited-credit.com
 tr.clienti.younited-credit.it
 tr.clients-mediametrie.fr
 tr.clients.boursorama.info
+tr.clients.gemy.fr
 tr.clients.idaia.group
 tr.cnaf.espmp-nifr.net
 tr.collectif.groupe-vyv.fr
@@ -210,6 +211,7 @@ tr.mail.vipmag.fr
 tr.mailing.achatpublic.com
 tr.mailing.lvmhappening.com
 tr.mailing.r2e-humanis.fr
+tr.maisonsdumonde.com
 tr.marg02n.espmp-agfr.net
 tr.marketing.younited-credit.com
 tr.marketing.younited-credit.es
@@ -233,6 +235,7 @@ tr.news-chocolat.com
 tr.news-companeo.fr
 tr.news-companeo.mx
 tr.news-companeo.pl
+tr.news.a-t.fr
 tr.news.accessmbatour.com
 tr.news.alibabuy.com
 tr.news.alinea.com
@@ -273,6 +276,7 @@ tr.news.lexpansion.lexpress.fr
 tr.news.lexpress.fr
 tr.news.linxea.com
 tr.news.maisonfoody.com
+tr.news.manufacturing.fr
 tr.news.mdbp.fr
 tr.news.meillandrichardier.com
 tr.news.mi-oferta.es
@@ -324,6 +328,7 @@ tr.notification.credit-moderne.fr
 tr.notification.norrsken.fr
 tr.np6.com
 tr.observatoire.musee-orsay.fr
+tr.ofertas-companeo.es
 tr.offer-companeo.co.uk
 tr.offerte.migliorifornitori.it
 tr.offre-companeo.com

@@ -20,6 +20,7 @@
 ||analytics.adamstoner.com^
 ||analytics.adonisjs.com^
 ||analytics.arunraghavan.net^
+||analytics.basistheory.com^
 ||analytics.betterplaces.nl^
 ||analytics.certifriedit.com^
 ||analytics.churchthemes.com^
@@ -52,6 +53,7 @@
 ||analytics.trust.page^
 ||analytics.uxmetrics.com^
 ||analytics.valheimgamer.com^
+||analytics.vanilla-project.guide^
 ||analytics.whotargets.me^
 ||analytics.winter.ink^
 ||analytics.wittypen.com^
@@ -182,6 +184,7 @@
 ||plausible.help.exploreandcreate.com^
 ||plausible.hstmedical.com^
 ||plausible.inflex.io^
+||plausible.joinself.com^
 ||plausible.kabaret.no^
 ||plausible.kreya.app^
 ||plausible.lawdeeda.com^
@@ -389,7 +392,6 @@
 ||stats.iamzero.dev^
 ||stats.ibuildings.net^
 ||stats.igevia.com^
-||stats.immunefi.com^
 ||stats.infoboard.de^
 ||stats.innoq.com^
 ||stats.instabudget.app^
@@ -433,6 +435,7 @@
 ||stats.madeit.io^
 ||stats.maferland.com^
 ||stats.martinbetz.eu^
+||stats.martyntaylor.com^
 ||stats.marudor.de^
 ||stats.mashword.com^
 ||stats.masjidbox.com^
@@ -486,6 +489,7 @@
 ||stats.personalkollen.se^
 ||stats.phelsumagrandis.de^
 ||stats.phili.pe^
+||stats.photovisionprints.com^
 ||stats.pianoplanet.app^
 ||stats.pinoymusicstation.com^
 ||stats.piranhas.co^

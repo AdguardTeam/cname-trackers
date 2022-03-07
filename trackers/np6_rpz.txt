@@ -59,6 +59,7 @@ tr.clienti.younited-credit.com CNAME .
 tr.clienti.younited-credit.it CNAME .
 tr.clients-mediametrie.fr CNAME .
 tr.clients.boursorama.info CNAME .
+tr.clients.gemy.fr CNAME .
 tr.clients.idaia.group CNAME .
 tr.cnaf.espmp-nifr.net CNAME .
 tr.collectif.groupe-vyv.fr CNAME .
@@ -210,6 +211,7 @@ tr.mail.vipmag.fr CNAME .
 tr.mailing.achatpublic.com CNAME .
 tr.mailing.lvmhappening.com CNAME .
 tr.mailing.r2e-humanis.fr CNAME .
+tr.maisonsdumonde.com CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.younited-credit.com CNAME .
 tr.marketing.younited-credit.es CNAME .
@@ -233,6 +235,7 @@ tr.news-chocolat.com CNAME .
 tr.news-companeo.fr CNAME .
 tr.news-companeo.mx CNAME .
 tr.news-companeo.pl CNAME .
+tr.news.a-t.fr CNAME .
 tr.news.accessmbatour.com CNAME .
 tr.news.alibabuy.com CNAME .
 tr.news.alinea.com CNAME .
@@ -273,6 +276,7 @@ tr.news.lexpansion.lexpress.fr CNAME .
 tr.news.lexpress.fr CNAME .
 tr.news.linxea.com CNAME .
 tr.news.maisonfoody.com CNAME .
+tr.news.manufacturing.fr CNAME .
 tr.news.mdbp.fr CNAME .
 tr.news.meillandrichardier.com CNAME .
 tr.news.mi-oferta.es CNAME .
@@ -324,6 +328,7 @@ tr.notification.credit-moderne.fr CNAME .
 tr.notification.norrsken.fr CNAME .
 tr.np6.com CNAME .
 tr.observatoire.musee-orsay.fr CNAME .
+tr.ofertas-companeo.es CNAME .
 tr.offer-companeo.co.uk CNAME .
 tr.offerte.migliorifornitori.it CNAME .
 tr.offre-companeo.com CNAME .

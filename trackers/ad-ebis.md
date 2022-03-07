@@ -24,6 +24,7 @@
     * 23d55728-ssmshbez.cname.ebis.ne.jp
     * 26349a15-esqb2ypb.cname.ebis.ne.jp
     * 272dd850-1tkscuog.cname.ebis.ne.jp
+    * 27bc2a62-d23tnyeg.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
     * 2ab268f1-uxwrqv9t.cname.ebis.ne.jp
     * 2c9c5766-qkdlymcx.cname.ebis.ne.jp
@@ -185,6 +186,7 @@
 | ebis.c-3-esthe.com | 23d55728-ssmshbez.cname.ebis.ne.jp |
 | ebis.smakon.jp | 26349a15-esqb2ypb.cname.ebis.ne.jp |
 | ad-ebis.mynavi-job20s.jp | 272dd850-1tkscuog.cname.ebis.ne.jp |
+| corporate.frontierconsul.net | 27bc2a62-d23tnyeg.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
 | ebis.studioindi.jp | 2ab268f1-uxwrqv9t.cname.ebis.ne.jp |
 | ebis.codecamp.jp | 2c9c5766-qkdlymcx.cname.ebis.ne.jp |

@@ -277,6 +277,7 @@ rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
 ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
+sa.skodasuperb.fr CNAME .
 sby1.madeindesign.de CNAME .
 sd.securitasdirect.fr CNAME .
 sfp7.eco-conscient.com CNAME .
