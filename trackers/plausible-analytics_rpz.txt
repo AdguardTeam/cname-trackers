@@ -34,12 +34,15 @@ analytics.gamedatacrunch.com CNAME .
 analytics.geekyminds.net CNAME .
 analytics.givealittle.co CNAME .
 analytics.hiome.com CNAME .
+analytics.kerns.co CNAME .
 analytics.lunge.de CNAME .
+analytics.mambaui.com CNAME .
 analytics.mc500.info CNAME .
 analytics.mhpod.gov.au CNAME .
 analytics.mondoweiss.net CNAME .
 analytics.mycater.fr CNAME .
 analytics.naturequant.com CNAME .
+analytics.qualityquestions.co CNAME .
 analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
 analytics.ratemymeeting.co CNAME .
@@ -47,6 +50,7 @@ analytics.sixfigureswine.com CNAME .
 analytics.souazi.com CNAME .
 analytics.southjerseyquakers.org CNAME .
 analytics.ss88.us CNAME .
+analytics.surov.fi CNAME .
 analytics.sweep.net CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.top10-charts.com CNAME .
@@ -62,11 +66,13 @@ analytics.xiloc.net CNAME .
 antitracking.owncast.online CNAME .
 ap.dt.gl CNAME .
 api.decentralize.today CNAME .
+api.dt.gl CNAME .
 api.elliehuxtable.com CNAME .
 api.ryanyao.design CNAME .
 app-stats.supernotes.app CNAME .
 ares.buyersclub.se CNAME .
 artistchristinacarmel.ericksonbuilt.com CNAME .
+asclepius.nordenta.se CNAME .
 assets.garron.blog CNAME .
 assets.garron.me CNAME .
 assets.webmanufaktur.ch CNAME .
@@ -77,6 +83,7 @@ cdn.arcstudiopro.com CNAME .
 channelwatcher.panda.tech CNAME .
 cheese.guac.live CNAME .
 churro.noteapps.info CNAME .
+cody-stats.coupa.engineering CNAME .
 connect.adkhifi.com CNAME .
 connect.astrobotanicals.com CNAME .
 connect.ftpresents.com CNAME .
@@ -85,6 +92,7 @@ counter.subtitlebee.com CNAME .
 datum.appfleet.com CNAME .
 dragon.moneycoach.io CNAME .
 eliteclng.ericksonbuilt.com CNAME .
+events.mikescerealshack.co CNAME .
 external.techopian.com CNAME .
 extramilefloorcare.ericksonbuilt.com CNAME .
 f8phvntohv.tpetry.me CNAME .
@@ -95,6 +103,7 @@ hej.henriksommerfeld.se CNAME .
 hi.koalendar.com CNAME .
 hi.streetworkoutlist.com CNAME .
 hi.victorbaudot.com CNAME .
+hola.xebel.co CNAME .
 hurricane.tinybird.co CNAME .
 hype.zlipa.com CNAME .
 info.alvin.codes CNAME .
@@ -103,6 +112,7 @@ insights.affilimate.com CNAME .
 insights.frenchtogether.com CNAME .
 insights.growwithless.com CNAME .
 juniper.starleaf.com CNAME .
+kekw.givetip.to CNAME .
 kon.mediaplatform.group CNAME .
 ks.walkq.com CNAME .
 l2k30jsa.theochu.com CNAME .
@@ -154,12 +164,14 @@ plau.swissdevjobs.ch CNAME .
 plauplauplau.app.budg.co CNAME .
 plauplauplau.budg.co CNAME .
 plaus.svelte.school CNAME .
+plausdj2ajskljzx0ikwkiasible.ethics.info CNAME .
 plausible.amava.com CNAME .
 plausible.as207960.net CNAME .
 plausible.banovo.de CNAME .
 plausible.bearer.sh CNAME .
 plausible.benscarblog.com CNAME .
 plausible.bernheisel.com CNAME .
+plausible.billfox.co CNAME .
 plausible.bostad.shop CNAME .
 plausible.brandonly.me CNAME .
 plausible.conveyal.com CNAME .
@@ -184,13 +196,16 @@ plausible.hellpancake.com CNAME .
 plausible.help.exploreandcreate.com CNAME .
 plausible.hstmedical.com CNAME .
 plausible.inflex.io CNAME .
+plausible.intalk.nl CNAME .
 plausible.joinself.com CNAME .
 plausible.kabaret.no CNAME .
 plausible.kreya.app CNAME .
+plausible.langojango.com CNAME .
 plausible.lawdeeda.com CNAME .
 plausible.lesbianromantic.com CNAME .
 plausible.lovesdata.com CNAME .
 plausible.mattpruitt.com CNAME .
+plausible.mcj.co CNAME .
 plausible.microwire.info CNAME .
 plausible.moncefbelyamani.com CNAME .
 plausible.nova.app CNAME .
@@ -203,6 +218,7 @@ plausible.plancagency.com CNAME .
 plausible.play.date CNAME .
 plausible.prod.sketch.com CNAME .
 plausible.promlens.com CNAME .
+plausible.prufit.co CNAME .
 plausible.rachel.systems CNAME .
 plausible.reactpreview.com CNAME .
 plausible.regex.help CNAME .
@@ -218,11 +234,11 @@ plausible.tac.dappstar.io CNAME .
 plausible.test.sketch.com CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.vaughanesports.org CNAME .
-plausible.vhanda.in CNAME .
 plausible.viteshot.com CNAME .
 plausible.west.io CNAME .
 plausible.zest.dev CNAME .
 plausible.zorin.com CNAME .
+plsbl-staging.edison.se CNAME .
 plsbl.edison.se CNAME .
 pm.redbull.com CNAME .
 prism.raumgleiter.com CNAME .
@@ -235,9 +251,11 @@ s.aromapix.com CNAME .
 s.cameratico.com CNAME .
 s.crackedthecode.co CNAME .
 s.cuoresportivo.no CNAME .
+s.ergotherapieblog.de CNAME .
 s.fission.codes CNAME .
 s.freelanceratecalculator.com CNAME .
 s.glimesh.tv CNAME .
+s.inspectelement.co CNAME .
 s.mannes.tech CNAME .
 s.maxrozen.com CNAME .
 s.nerdfulmind.com CNAME .
@@ -270,6 +288,7 @@ stats.allaboutberlin.com CNAME .
 stats.alleaktien.de CNAME .
 stats.am.ai CNAME .
 stats.amiibo.life CNAME .
+stats.app.plock.fi CNAME .
 stats.arquido.com CNAME .
 stats.artefact.space CNAME .
 stats.audiorelay.net CNAME .
@@ -278,12 +297,14 @@ stats.baptistwomen.com CNAME .
 stats.barriestephenhair.co.uk CNAME .
 stats.basecamp.com CNAME .
 stats.bcdtravel.com CNAME .
+stats.belic.si CNAME .
 stats.benui.ca CNAME .
 stats.bertwagner.com CNAME .
 stats.bestservers.co CNAME .
 stats.bholmes.dev CNAME .
 stats.bimbase.nl CNAME .
 stats.bitpost.app CNAME .
+stats.blackblog.cz CNAME .
 stats.blendsalons.co.uk CNAME .
 stats.blockleviton.com CNAME .
 stats.blog.codingmilitia.com CNAME .
@@ -306,6 +327,7 @@ stats.carrotsearch.com CNAME .
 stats.cascadeinstitute.org CNAME .
 stats.cassidyjames.com CNAME .
 stats.catholicluv.com CNAME .
+stats.centerforvalues.international CNAME .
 stats.centralswindonnorth-pc.gov.uk CNAME .
 stats.cfcasts.com CNAME .
 stats.challengehub.app CNAME .
@@ -314,6 +336,7 @@ stats.chapterist.show CNAME .
 stats.chronoslabs.net CNAME .
 stats.citizenos.com CNAME .
 stats.cleverdiabetic.com CNAME .
+stats.coachingcourses.pro CNAME .
 stats.code-it-studio.de CNAME .
 stats.codeexposed.com CNAME .
 stats.coditia.com CNAME .
@@ -335,6 +358,7 @@ stats.dashbit.co CNAME .
 stats.davidlms.com CNAME .
 stats.dazzit.com CNAME .
 stats.deva.guru CNAME .
+stats.devenet.info CNAME .
 stats.digiexpert.store CNAME .
 stats.divemap.uk CNAME .
 stats.divyanshu013.dev CNAME .
@@ -360,6 +384,7 @@ stats.farbenmeer.de CNAME .
 stats.feathercss.makerkits.co CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
+stats.ff.ht CNAME .
 stats.flightsphere.com CNAME .
 stats.frenlo.com CNAME .
 stats.fullofwishes.co.uk CNAME .
@@ -391,6 +416,7 @@ stats.hugoreeves.com CNAME .
 stats.huysmanbouw.be CNAME .
 stats.iamzero.dev CNAME .
 stats.ibuildings.net CNAME .
+stats.idle.cafe CNAME .
 stats.igevia.com CNAME .
 stats.infoboard.de CNAME .
 stats.innoq.com CNAME .
@@ -401,6 +427,8 @@ stats.iscc-system.org CNAME .
 stats.ivankahl.com CNAME .
 stats.jackwhiting.co.uk CNAME .
 stats.jamesevers.co.uk CNAME .
+stats.jani.to CNAME .
+stats.janlindblom.se CNAME .
 stats.jansix.at CNAME .
 stats.jawebb.se CNAME .
 stats.jdheyburn.co.uk CNAME .
@@ -416,6 +444,7 @@ stats.kod.ru CNAME .
 stats.kongressen.com CNAME .
 stats.krauss.io CNAME .
 stats.kryptoslogic.com CNAME .
+stats.lastfm.matthiasloibl.com CNAME .
 stats.laxallstars.com CNAME .
 stats.layl.app CNAME .
 stats.leaguestats.gg CNAME .
@@ -466,9 +495,11 @@ stats.nicolaskempf.fr CNAME .
 stats.nomad.radio CNAME .
 stats.nonprofit.foundation CNAME .
 stats.nothingbutnylon.com CNAME .
+stats.nowicki.io CNAME .
 stats.nrcaknights.com CNAME .
 stats.ntietz.com CNAME .
 stats.nytecomics.com CNAME .
+stats.obiit.co CNAME .
 stats.offthekerb.com CNAME .
 stats.onepagelove.com CNAME .
 stats.orbitalhealth.co CNAME .
@@ -493,9 +524,12 @@ stats.photovisionprints.com CNAME .
 stats.pianoplanet.app CNAME .
 stats.pinoymusicstation.com CNAME .
 stats.piranhas.co CNAME .
+stats.pitstone.co.uk CNAME .
 stats.pixify.net CNAME .
 stats.pizzapizza.io CNAME .
+stats.plastbest.cz CNAME .
 stats.plastbest.sk CNAME .
+stats.plock.fi CNAME .
 stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
@@ -512,6 +546,7 @@ stats.radreiseglueck.de CNAME .
 stats.raidprotect.org CNAME .
 stats.rasulkireev.com CNAME .
 stats.ravivyas.com CNAME .
+stats.readers.cafe CNAME .
 stats.readng.co CNAME .
 stats.referralhero.com CNAME .
 stats.reisemobil.pro CNAME .
@@ -521,6 +556,7 @@ stats.reprage.com CNAME .
 stats.revit-content.com CNAME .
 stats.robhope.com CNAME .
 stats.rocketvalidator.com CNAME .
+stats.rtlanerecruitment.ie CNAME .
 stats.ruhrfestspiele.de CNAME .
 stats.ruthmontenegro.com CNAME .
 stats.savethemothers.org CNAME .
@@ -549,6 +585,7 @@ stats.soundbite.so CNAME .
 stats.southpetherwin.com CNAME .
 stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
+stats.sprechstunde.ai CNAME .
 stats.sqlteam.com CNAME .
 stats.stackingthebricks.com CNAME .
 stats.stacks.org CNAME .
@@ -563,6 +600,7 @@ stats.sushibyte.io CNAME .
 stats.svenadolph.net CNAME .
 stats.tekin.co.uk CNAME .
 stats.thechurchfactory.com CNAME .
+stats.thegoodlineheight.com CNAME .
 stats.therenegadecoder.com CNAME .
 stats.thomasvitale.com CNAME .
 stats.threadstart.io CNAME .
@@ -592,6 +630,7 @@ stats.vngameden.com CNAME .
 stats.voltamediahouse.com CNAME .
 stats.walkiees.co.uk CNAME .
 stats.westswindon-pc.gov.uk CNAME .
+stats.whenpigsflybbq.com CNAME .
 stats.whereisit5pmrightnow.com CNAME .
 stats.world.hey.com CNAME .
 stats.wvs.org.uk CNAME .
@@ -602,6 +641,7 @@ stats.x5x.host CNAME .
 stats.xn--drivation-b4a.fr CNAME .
 stats.yourdallashandyman.com CNAME .
 stats.zander.wtf CNAME .
+statstest.upti.pro CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
 sts.papyrs.com CNAME .
 stts.sgab-srfp.ch CNAME .

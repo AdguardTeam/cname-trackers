@@ -15,6 +15,7 @@
 7mx.eider.com CNAME .
 8ezc.sfr.fr CNAME .
 a.perfumesclub.fr CNAME .
+a.weareknitters.se CNAME .
 a8ht.hipp.fr CNAME .
 ac.acadomia.fr CNAME .
 alp1.drimki.fr CNAME .
@@ -22,8 +23,10 @@ am.belambra.com CNAME .
 anz7.allianz-voyage.fr CNAME .
 ar.i-run.fr CNAME .
 azg1.emalu-store.com CNAME .
+b1n.carabins.umontreal.ca CNAME .
 b6ft.zone-turf.fr CNAME .
 barp3.bordeaux.aeroport.fr CNAME .
+bch8.destinia.co CNAME .
 bhu9.bankia.es CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
@@ -188,6 +191,7 @@ jln3.clstudios.com CNAME .
 jo2f.cheque-cadhoc.fr CNAME .
 jxy6.evobanco.es CNAME .
 k4fu.verif.com CNAME .
+kep6.destinia.ie CNAME .
 kux5.raileurope.com CNAME .
 kvt5.blesscollectionhotels.com CNAME .
 kwsjy9.oui.sncf CNAME .
@@ -196,6 +200,7 @@ let1.devialet.com CNAME .
 lio8.destinia.com.pa CNAME .
 ljb0.assuronline.com CNAME .
 lsv5.belambra.fr CNAME .
+ltm6.destinia.se CNAME .
 ly8c.caci-online.fr CNAME .
 lzuc.sfr.fr CNAME .
 m3ds.subarumetropolitain.com CNAME .
@@ -211,6 +216,7 @@ mi.miliboo.it CNAME .
 mi.miliboo.lu CNAME .
 mm.melia.com CNAME .
 mn.mistermenuiserie.com CNAME .
+moh7.yoodoogood.com CNAME .
 msz3.destinia.cn CNAME .
 mud4.destinia.com.eg CNAME .
 mva1.maeva.com CNAME .
@@ -269,6 +275,7 @@ pv.partenaires-verisure.fr CNAME .
 qfo.eurotierce.be CNAME .
 qpl9.destinia.dk CNAME .
 quk9.destinia.com.ar CNAME .
+qzl8.destinia.fi CNAME .
 r1ztni.oui.sncf CNAME .
 r4nds.absorba.com CNAME .
 rh5i.tradingsat.com CNAME .
@@ -298,7 +305,6 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
-t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.admyjob.com CNAME .
@@ -315,6 +321,7 @@ tsj0.madeindesign.com CNAME .
 txv0.destinia.hu CNAME .
 udr9.livera.nl CNAME .
 ueb4.destinia.tw CNAME .
+ued8.destinia.sg CNAME .
 uhn9.up-france.fr CNAME .
 upz1.destinia.lt CNAME .
 uue2.destinia.ir CNAME .

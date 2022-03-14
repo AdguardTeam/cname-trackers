@@ -79,6 +79,7 @@ ablink.hello.steadyapp.com
 ablink.help.innit.com
 ablink.help.sanvello.com
 ablink.help.shopwell.com
+ablink.info.beres.id
 ablink.info.felixmobile.com.au
 ablink.info.gawin.ph
 ablink.info.pressreader.com
@@ -186,6 +187,7 @@ app.email.influitive.com
 app.events.philips.com
 app.sephora.com
 applink.getbambu.com
+atumanera.burgerking.com.mx
 b.dl.redcrossblood.org
 b.iheart.southwest.com
 b.itravel.southwest.com
@@ -194,7 +196,9 @@ b.lyst.com
 b.prod1.youroffers.dominos.ca
 b.your.offers.dominos.com
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
+bk.atumanera.burgerking.com.mx
 blinks.mindoktor.se
+blinkstest.mindoktor.se
 bnc.autopass.xyz
 bpe.mlb.com
 bpeml.mlb.com
@@ -248,6 +252,7 @@ click.mail.theknot.com
 click.marketing.carousell.com
 click.official.nike.com
 click.redditmail.com
+click.sutra.co
 click.transactional.carousell.com
 click1.e.radio.com
 click1.e.thechive.com
@@ -269,11 +274,14 @@ clicks.metronautapp.com
 clicks.point.app
 clicks.staging.worldremit.com
 clicks.variis.com
+clicktrack.cmnetwork.co
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
 cq.hq1.influitive.com
+ct.irl.co
 ct.irl.com
 ct.irlmail.org
+ctd.drivescore.com
 deeplink.aspiration.com
 deeplink.instacartemail.com
 deeplinks.padmapper.com
@@ -312,6 +320,7 @@ email.mail.floatme.io
 email.mail.primexbt.com
 email.member.theknot.com
 email.mg.everyonesocial.com
+email.pac-12.com
 email.pray.com
 email.social.f5.com
 email.strava.com
@@ -333,6 +342,7 @@ gotoaws.zaful.com
 gotoedm.whereyogi.com
 gotoexp.dresslily.com
 hello.steadyapp.com
+igorsgtest.branch.rocks
 ilinks.petalcard.com
 iterable.convoy.com
 l.create.canva.com
@@ -410,6 +420,7 @@ link.tempo.fit
 link.touchtunes.com
 link.touchtunesmail.com
 link.tr.freshly.com
+link.updates.goodu.se
 link.usa-network.com
 link.watchbravotv.com
 link.watchoxygen.com
@@ -483,6 +494,7 @@ links.official.vsco.co
 links.ohhey.depop.com
 links.openfit.com
 links.orders.kfc.com
+links.petpartner.co
 links.ph.discoveryplus.com
 links.playon.tv
 links.schnucks.com
@@ -537,10 +549,13 @@ test-eml.postmates.com
 test-fleet-eml.postmates.com
 test.customers.instacartemail.com
 test.shoppers.instacartemail.com
+thirdbranch.zulln.se
 trac.roomster.com
+track-mail.homage.co
 track.cafu.com
 track.roomster.com
 track.spothero.com
+tracking-driver.staging.goshare.co
 tracking.email-mandrill.pushd.com
 tracking.laredoute.fr
 tracking.sp.sofi.com

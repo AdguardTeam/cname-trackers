@@ -10,6 +10,7 @@
 ||cdn.asce.xyz^
 ||cdn.asdb.xyz^
 ||cdn.asdfix.com^
+||cdn.asdfix.xyz^
 ||cdn.asdnow.xyz^
 ||cdn.asecv.xyz^
 ||cdn.asecw.xyz^
@@ -28,11 +29,11 @@
 ||cdn.fedsy.xyz^
 ||cdn.fluxy.xyz^
 ||cdn.gecl.xyz^
+||cdn.goldclick.xyz^
 ||cdn.gtrd.xyz^
 ||cdn.iople.com^
 ||cdn.lemonet.xyz^
 ||cdn.morps.xyz^
-||cdn.mrvio.com^
 ||cdn.namol.xyz^
 ||cdn.nlop.xyz^
 ||cdn.nuqwe.com^
@@ -49,6 +50,7 @@
 ||cdn.soxg.xyz^
 ||cdn.spnut.com^
 ||cdn.srxy.xyz^
+||cdn.ssers.xyz^
 ||cdn.wwfx.xyz^
 ||cdn.xapa.xyz^
 ||cdn.xaxo.xyz^

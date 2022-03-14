@@ -7,6 +7,7 @@
 bc.semwerkt.nl CNAME .
 cms.hardloopaanbiedingen.nl CNAME .
 en.johnhardy.com CNAME .
+o2.ikontwerpflyers.nl CNAME .
 s1.carnext.com CNAME .
 ;
 ; a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com disguised trackers

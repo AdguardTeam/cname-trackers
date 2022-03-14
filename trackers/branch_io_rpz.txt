@@ -79,6 +79,7 @@ ablink.hello.steadyapp.com CNAME .
 ablink.help.innit.com CNAME .
 ablink.help.sanvello.com CNAME .
 ablink.help.shopwell.com CNAME .
+ablink.info.beres.id CNAME .
 ablink.info.felixmobile.com.au CNAME .
 ablink.info.gawin.ph CNAME .
 ablink.info.pressreader.com CNAME .
@@ -186,6 +187,7 @@ app.email.influitive.com CNAME .
 app.events.philips.com CNAME .
 app.sephora.com CNAME .
 applink.getbambu.com CNAME .
+atumanera.burgerking.com.mx CNAME .
 b.dl.redcrossblood.org CNAME .
 b.iheart.southwest.com CNAME .
 b.itravel.southwest.com CNAME .
@@ -194,7 +196,9 @@ b.lyst.com CNAME .
 b.prod1.youroffers.dominos.ca CNAME .
 b.your.offers.dominos.com CNAME .
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au CNAME .
+bk.atumanera.burgerking.com.mx CNAME .
 blinks.mindoktor.se CNAME .
+blinkstest.mindoktor.se CNAME .
 bnc.autopass.xyz CNAME .
 bpe.mlb.com CNAME .
 bpeml.mlb.com CNAME .
@@ -248,6 +252,7 @@ click.mail.theknot.com CNAME .
 click.marketing.carousell.com CNAME .
 click.official.nike.com CNAME .
 click.redditmail.com CNAME .
+click.sutra.co CNAME .
 click.transactional.carousell.com CNAME .
 click1.e.radio.com CNAME .
 click1.e.thechive.com CNAME .
@@ -269,11 +274,14 @@ clicks.metronautapp.com CNAME .
 clicks.point.app CNAME .
 clicks.staging.worldremit.com CNAME .
 clicks.variis.com CNAME .
+clicktrack.cmnetwork.co CNAME .
 cn1.stadiumgoods.com CNAME .
 cn2.stadiumgoods.com CNAME .
 cq.hq1.influitive.com CNAME .
+ct.irl.co CNAME .
 ct.irl.com CNAME .
 ct.irlmail.org CNAME .
+ctd.drivescore.com CNAME .
 deeplink.aspiration.com CNAME .
 deeplink.instacartemail.com CNAME .
 deeplinks.padmapper.com CNAME .
@@ -312,6 +320,7 @@ email.mail.floatme.io CNAME .
 email.mail.primexbt.com CNAME .
 email.member.theknot.com CNAME .
 email.mg.everyonesocial.com CNAME .
+email.pac-12.com CNAME .
 email.pray.com CNAME .
 email.social.f5.com CNAME .
 email.strava.com CNAME .
@@ -333,6 +342,7 @@ gotoaws.zaful.com CNAME .
 gotoedm.whereyogi.com CNAME .
 gotoexp.dresslily.com CNAME .
 hello.steadyapp.com CNAME .
+igorsgtest.branch.rocks CNAME .
 ilinks.petalcard.com CNAME .
 iterable.convoy.com CNAME .
 l.create.canva.com CNAME .
@@ -410,6 +420,7 @@ link.tempo.fit CNAME .
 link.touchtunes.com CNAME .
 link.touchtunesmail.com CNAME .
 link.tr.freshly.com CNAME .
+link.updates.goodu.se CNAME .
 link.usa-network.com CNAME .
 link.watchbravotv.com CNAME .
 link.watchoxygen.com CNAME .
@@ -483,6 +494,7 @@ links.official.vsco.co CNAME .
 links.ohhey.depop.com CNAME .
 links.openfit.com CNAME .
 links.orders.kfc.com CNAME .
+links.petpartner.co CNAME .
 links.ph.discoveryplus.com CNAME .
 links.playon.tv CNAME .
 links.schnucks.com CNAME .
@@ -537,10 +549,13 @@ test-eml.postmates.com CNAME .
 test-fleet-eml.postmates.com CNAME .
 test.customers.instacartemail.com CNAME .
 test.shoppers.instacartemail.com CNAME .
+thirdbranch.zulln.se CNAME .
 trac.roomster.com CNAME .
+track-mail.homage.co CNAME .
 track.cafu.com CNAME .
 track.roomster.com CNAME .
 track.spothero.com CNAME .
+tracking-driver.staging.goshare.co CNAME .
 tracking.email-mandrill.pushd.com CNAME .
 tracking.laredoute.fr CNAME .
 tracking.sp.sofi.com CNAME .

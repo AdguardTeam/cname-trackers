@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2022-03-07T08:00:14+00:00
+! TimeUpdated: 2022-03-14T08:00:14+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 !
@@ -70,6 +70,9 @@
 !
 ! Company: Lead Forensics
 ||ghochv3eng.trafficmanager.net^
+!
+! Company: Logly
+||logly.co.jp^
 !
 ! Company: NameSilo
 ||ab1n.net^

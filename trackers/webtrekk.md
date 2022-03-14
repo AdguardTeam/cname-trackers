@@ -22,6 +22,8 @@
     * nuernberger02.webtrekk.net
     * tchibo02.webtrekk.net
     * tchibo03.webtrekk.net
+    * tchibo06.webtrekk.net
+    * tchibo07.webtrekk.net
     * tchibo09.webtrekk.net
     * telekom01.webtrekk.net
     * telekom02.webtrekk.net
@@ -97,6 +99,7 @@
     * 802837842744167.wt-eu02.net
     * 807354460250799.wt-eu02.net
     * 823532764568303.wt-eu02.net
+    * 832292761796928.wt-eu02.net
     * 849036415619964.wt-eu02.net
     * 849715076759606.wt-eu02.net
     * 865411762489824.wt-eu02.net
@@ -134,6 +137,7 @@
     * hbbtv-track.wt-eu02.net
     * hornbach-02.wt-eu02.net
     * ikk-classic-app03.wt-eu02.net
+    * img-foodspring01.wt-eu02.net
     * img.bergfreunde.wt-eu02.net
     * madeleineprod01.wt-eu02.net
     * mainpost01.wt-eu02.net
@@ -235,6 +239,7 @@
 | abc.fackelmann.de | 807354460250799.wt-eu02.net |
 | mit.dws.com | 823532764568303.wt-eu02.net |
 | mit.dws.de | 823532764568303.wt-eu02.net |
+| web.info.vantastic-foods.com | 832292761796928.wt-eu02.net |
 | web.bankofscotland.de | 849036415619964.wt-eu02.net |
 | mit.deutsche-bank.de | 849715076759606.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
@@ -323,6 +328,7 @@
 | da.hornbach.se | hornbach-02.wt-eu02.net |
 | da.hornbach.sk | hornbach-02.wt-eu02.net |
 | app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
+| img.foodspring.se | img-foodspring01.wt-eu02.net |
 | scout.alpinetrek.co.uk | img.bergfreunde.wt-eu02.net |
 | scout.alpiniste.fr | img.bergfreunde.wt-eu02.net |
 | scout.berg-freunde.at | img.bergfreunde.wt-eu02.net |
@@ -331,6 +337,7 @@
 | scout.bergfreunde.dk | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.es | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.eu | img.bergfreunde.wt-eu02.net |
+| scout.bergfreunde.fi | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.it | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.nl | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.se | img.bergfreunde.wt-eu02.net |
@@ -363,7 +370,6 @@
 | ot.obi.de | obi-all.wt-eu02.net |
 | ot.obi.hu | obi-all.wt-eu02.net |
 | ot.obi.pl | obi-all.wt-eu02.net |
-| ot.obi.ru | obi-all.wt-eu02.net |
 | ot.obi.si | obi-all.wt-eu02.net |
 | ot.obi.sk | obi-all.wt-eu02.net |
 | t.paydirekt.de | paydirekt-de01.wt-eu02.net |
@@ -375,6 +381,8 @@
 | wetr.sportscheck.com | sportscheckde01.wt-eu02.net |
 | tracking.tchibo.ch | tchibo02.webtrekk.net |
 | tracking.tchibo.de | tchibo03.webtrekk.net |
+| tracking.tchibo.cz | tchibo06.webtrekk.net |
+| tracking.tchibo.sk | tchibo07.webtrekk.net |
 | tracking.tchibo.com.tr | tchibo09.webtrekk.net |
 | pix.telekom.de | telekom01.webtrekk.net |
 | pix.telekom-dienste.de | telekom02.webtrekk.net |

@@ -8,6 +8,7 @@
 1a715b8q5m3j.www.logology.co CNAME .
 1amehwchx31.bloxdhop.io CNAME .
 1iy4gu0lpkp.my.gloryleague.basketball CNAME .
+1uwcex4qf9z.test-115.dapp.ml CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 25voj20abod.honeyswap.org CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
@@ -16,6 +17,7 @@
 2y0lbig207qz.www.botcomics.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 42qnuym6jsvn.www.cefirates.com CNAME .
+5brgdxdhtt.thebarrecollective.co CNAME .
 634lj7p7g3lv.unstoppabledomains.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
@@ -26,9 +28,9 @@ dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
 fve57b8cs74i.www.cybernetman.com CNAME .
+g8zao4slwe69.asenaru.id CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .
-gw5worvzkb4j.stoic.ai CNAME .
 hkhpnqciykaf.www.gamecamp.gg CNAME .
 j1kmigrhwjf4.angelacampos.es CNAME .
 jrai31gjloby.www.earthclassmail.com CNAME .
@@ -41,6 +43,7 @@ ouc82i67pytg.www.emanualonline.com CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 pg3b233p99sa.www.marketdata.app CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
+sv0pec59ktzm.unstoppabledomains.com CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 tos5dqejpd.www.freecodecamp.org CNAME .
 u3mgjck7ke28.www.cefirates.com CNAME .

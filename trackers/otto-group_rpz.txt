@@ -34,6 +34,7 @@ te.witt-weiden.ch CNAME .
 te.witt-weiden.de CNAME .
 te.yomonda.de CNAME .
 te.your-look-for-less.nl CNAME .
+te.your-look-for-less.se CNAME .
 tp.ackermann.ch CNAME .
 tp.baur.de CNAME .
 tp.frankonia.at CNAME .
@@ -55,4 +56,7 @@ tp.quelle.ch CNAME .
 tp.quelle.de CNAME .
 tp.sheego.de CNAME .
 tp.universal.at CNAME .
+tp.witt-international.cz CNAME .
+tp.witt-international.sk CNAME .
 tp.yomonda.de CNAME .
+tp.your-look-for-less.se CNAME .

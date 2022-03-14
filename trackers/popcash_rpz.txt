@@ -10,6 +10,7 @@ cdn.aprick.xyz CNAME .
 cdn.asce.xyz CNAME .
 cdn.asdb.xyz CNAME .
 cdn.asdfix.com CNAME .
+cdn.asdfix.xyz CNAME .
 cdn.asdnow.xyz CNAME .
 cdn.asecv.xyz CNAME .
 cdn.asecw.xyz CNAME .
@@ -28,11 +29,11 @@ cdn.fdsgv.xyz CNAME .
 cdn.fedsy.xyz CNAME .
 cdn.fluxy.xyz CNAME .
 cdn.gecl.xyz CNAME .
+cdn.goldclick.xyz CNAME .
 cdn.gtrd.xyz CNAME .
 cdn.iople.com CNAME .
 cdn.lemonet.xyz CNAME .
 cdn.morps.xyz CNAME .
-cdn.mrvio.com CNAME .
 cdn.namol.xyz CNAME .
 cdn.nlop.xyz CNAME .
 cdn.nuqwe.com CNAME .
@@ -49,6 +50,7 @@ cdn.sawron.xyz CNAME .
 cdn.soxg.xyz CNAME .
 cdn.spnut.com CNAME .
 cdn.srxy.xyz CNAME .
+cdn.ssers.xyz CNAME .
 cdn.wwfx.xyz CNAME .
 cdn.xapa.xyz CNAME .
 cdn.xaxo.xyz CNAME .

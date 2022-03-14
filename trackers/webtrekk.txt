@@ -22,7 +22,9 @@
 ||tracking.netcologne.de^
 ||tracking.tchibo.ch^
 ||tracking.tchibo.com.tr^
+||tracking.tchibo.cz^
 ||tracking.tchibo.de^
+||tracking.tchibo.sk^
 ||trk.nuernberger.de^
 ||w3.flatex.at^
 ||w3.flatex.de^
@@ -108,6 +110,7 @@
 ||hbbtv-track.prosieben.de^
 ||hbbtv-track.prosiebensat1puls4.com^
 ||hulpmiddel.fvw.de^
+||img.foodspring.se^
 ||mapp.ewm.co.uk^
 ||mapp.jysk.dk^
 ||mapp.jysk.nl^
@@ -128,7 +131,6 @@
 ||ot.obi.de^
 ||ot.obi.hu^
 ||ot.obi.pl^
-||ot.obi.ru^
 ||ot.obi.si^
 ||ot.obi.sk^
 ||pix.airbusgroup.com^
@@ -142,6 +144,7 @@
 ||scout.bergfreunde.dk^
 ||scout.bergfreunde.es^
 ||scout.bergfreunde.eu^
+||scout.bergfreunde.fi^
 ||scout.bergfreunde.it^
 ||scout.bergfreunde.nl^
 ||scout.bergfreunde.se^
@@ -197,6 +200,7 @@
 ||web.friends.ellaskitchen.co.uk^
 ||web.ideaautorepair.com^
 ||web.info.bonprix.es^
+||web.info.vantastic-foods.com^
 ||web.info.varelotteriet.dk^
 ||web.info.yeppon.it^
 ||web.mail.proximaati.com^

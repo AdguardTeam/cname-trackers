@@ -30,6 +30,8 @@
 ||a.epicgoo.com^
 ||a.fapcat.com^
 ||a.fapster.xxx^
+||a.filmlinks4u.pro^
+||a.flizmovies.cc^
 ||a.focusde.info^
 ||a.gaypornlove.net^
 ||a.green-good-nice.site^
@@ -52,6 +54,9 @@
 ||a5g.oves.biz^
 ||aa.zerg.pro^
 ||acdn.uploads.mobi^
+||ad.emule-island.eu^
+||ad.grizox.xyz^
+||ad.wawacity.xyz^
 ||adilk.ilikecomix.com^
 ||ads.al3ably.com^
 ||ads.poptwinks.com^
@@ -59,9 +64,9 @@
 ||ads.xmov.net^
 ||ads.xxxleaks.cc^
 ||adspy.javrank.com^
+||advpro.pro^
 ||ags.hobby.porn^
 ||amazingdomain.sbs^
-||anti.ultraten.net^
 ||antiadblock.info^
 ||api.adultsclips.com^
 ||app.phimvu.app^
@@ -73,6 +78,7 @@
 ||as2.movporvid.com^
 ||ascc.javquick.com^
 ||asdf.eldos.xyz^
+||asg.allweb.click^
 ||asg.animehdl.net^
 ||asg.aphex.me^
 ||asg.catraff.com^
@@ -146,7 +152,6 @@
 ||go.showmeyouradsnow.com^
 ||go.ss-n-30.com^
 ||hazicu.hothomefuck.com^
-||hellothere.filefox.io^
 ||hq3x.com^
 ||hsux.com^
 ||i.hqvrporn.net^
@@ -157,6 +162,7 @@
 ||ka2.javbuzz.com^
 ||kliqz.com^
 ||kuhdsysdas.indexsubtitle.com^
+||likse.aaaf.info^
 ||lixir.wargers.org^
 ||load.jabx.net^
 ||load.try-games.com^
@@ -220,11 +226,13 @@
 ||uk.boffinsoft.com^
 ||uthbxvz.bestzba.com^
 ||v.focusde.info^
+||v2pro.stbvip.net^
 ||vd.7vid.net^
 ||videocdn.name^
 ||vsx.hotpornfile.org^
 ||w00t.us^
 ||web.cinetux.nu^
+||whatsthis.owo.si^
 ||widjet.analnoe.tv^
 ||wtfdontblock.theporndudes.xyz^
 ||ww.cvideos.stream^

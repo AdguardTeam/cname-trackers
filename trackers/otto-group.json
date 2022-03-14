@@ -30,6 +30,7 @@
   "te.witt-weiden.de": "te.oghub.io",
   "te.yomonda.de": "te.oghub.io",
   "te.your-look-for-less.nl": "te.oghub.io",
+  "te.your-look-for-less.se": "te.oghub.io",
   "tp.ackermann.ch": "js.oghub.io",
   "tp.baur.de": "js.oghub.io",
   "tp.frankonia.at": "js.oghub.io",
@@ -51,5 +52,8 @@
   "tp.quelle.de": "js.oghub.io",
   "tp.sheego.de": "js.oghub.io",
   "tp.universal.at": "js.oghub.io",
-  "tp.yomonda.de": "js.oghub.io"
+  "tp.witt-international.cz": "js.oghub.io",
+  "tp.witt-international.sk": "js.oghub.io",
+  "tp.yomonda.de": "js.oghub.io",
+  "tp.your-look-for-less.se": "js.oghub.io"
 }

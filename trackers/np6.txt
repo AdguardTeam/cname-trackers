@@ -10,6 +10,7 @@
 ||tr.3ou4xcb.cetelem.fr^
 ||tr.abo.cotemaison.fr^
 ||tr.acq-pjms.fr^
+||tr.activeprospects.info^
 ||tr.actu.bricodepot.com^
 ||tr.actualites.01net.com^
 ||tr.actualites.bfmtv.com^
@@ -36,6 +37,7 @@
 ||tr.b2d1.espmp-agfr.net^
 ||tr.b2d1068.espmp-nifr.net^
 ||tr.b2d106z.espmp-aufr.net^
+||tr.batirenover.info^
 ||tr.batiweb.co^
 ||tr.bienvenue.envie-de-bien-manger.com^
 ||tr.bizzquotes.co.uk^
@@ -85,9 +87,11 @@
 ||tr.contact.canalplus.fr^
 ||tr.contact.cereps.fr^
 ||tr.contact.e-turf.fr^
+||tr.contact.makemelead.info^
 ||tr.contact.thelist-emirates.fr^
 ||tr.contrat.location.boulanger.com^
 ||tr.contrats.cetelem.fr^
+||tr.contrats.cofinoga.fr^
 ||tr.courriel.ouestnormandie.cci.fr^
 ||tr.courrier.charentelibre.fr^
 ||tr.courrier.larepubliquedespyrenees.fr^
@@ -138,7 +142,9 @@
 ||tr.europa-organisation.com^
 ||tr.evenements.inpi.fr^
 ||tr.fidal.pro^
+||tr.fidalformation.pro^
 ||tr.fr.pro.accor.com^
+||tr.gdfsuez-globalenergy.info^
 ||tr.gen.espmp-agfr.net^
 ||tr.gestion.banque-casino.fr^
 ||tr.gestion.cetelem.fr^
@@ -148,6 +154,7 @@
 ||tr.gestion.sygmabnpparibas-pf.com^
 ||tr.group-hr.lvmh.fr^
 ||tr.groupama-gne.fr^
+||tr.gtr.moethennessy.com^
 ||tr.hello.maisonfoody.com^
 ||tr.helloartisan.info^
 ||tr.info-btob-leaders.com^
@@ -287,6 +294,7 @@
 ||tr.news.smartdealstransavia-fr.com^
 ||tr.news.sport2000.fr^
 ||tr.news.styles.lexpress.fr^
+||tr.news.teklifim.pro^
 ||tr.news.thelist-emirates.fr^
 ||tr.news.tiptel.fr^
 ||tr.news.toocampmail.com^
@@ -340,7 +348,9 @@
 ||tr.orange-lease.fr^
 ||tr.orcamentos-companeo.pt^
 ||tr.panels-mediametrie.fr^
+||tr.partenaire.manageo.info^
 ||tr.pole-emploi-services.com^
+||tr.policyexpert.info^
 ||tr.politicolive.eu^
 ||tr.politicomarketing.eu^
 ||tr.portail.afpa.fr^

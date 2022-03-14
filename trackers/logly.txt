@@ -1,0 +1,7 @@
+!
+! Company name: Logly
+!
+! logly.co.jp disguised trackers
+!
+||nt.compass-fit.jp^
+||send.mad-infeed.jp^

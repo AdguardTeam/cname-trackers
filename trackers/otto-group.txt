@@ -34,6 +34,7 @@
 ||te.witt-weiden.de^
 ||te.yomonda.de^
 ||te.your-look-for-less.nl^
+||te.your-look-for-less.se^
 ||tp.ackermann.ch^
 ||tp.baur.de^
 ||tp.frankonia.at^
@@ -55,4 +56,7 @@
 ||tp.quelle.de^
 ||tp.sheego.de^
 ||tp.universal.at^
+||tp.witt-international.cz^
+||tp.witt-international.sk^
 ||tp.yomonda.de^
+||tp.your-look-for-less.se^

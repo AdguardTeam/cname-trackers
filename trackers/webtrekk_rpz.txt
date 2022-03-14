@@ -22,7 +22,9 @@ track.yellostrom.de CNAME .
 tracking.netcologne.de CNAME .
 tracking.tchibo.ch CNAME .
 tracking.tchibo.com.tr CNAME .
+tracking.tchibo.cz CNAME .
 tracking.tchibo.de CNAME .
+tracking.tchibo.sk CNAME .
 trk.nuernberger.de CNAME .
 w3.flatex.at CNAME .
 w3.flatex.de CNAME .
@@ -108,6 +110,7 @@ fiwinet.firmenwissen.de CNAME .
 hbbtv-track.prosieben.de CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
 hulpmiddel.fvw.de CNAME .
+img.foodspring.se CNAME .
 mapp.ewm.co.uk CNAME .
 mapp.jysk.dk CNAME .
 mapp.jysk.nl CNAME .
@@ -128,7 +131,6 @@ ot.obi.cz CNAME .
 ot.obi.de CNAME .
 ot.obi.hu CNAME .
 ot.obi.pl CNAME .
-ot.obi.ru CNAME .
 ot.obi.si CNAME .
 ot.obi.sk CNAME .
 pix.airbusgroup.com CNAME .
@@ -142,6 +144,7 @@ scout.bergfreunde.de CNAME .
 scout.bergfreunde.dk CNAME .
 scout.bergfreunde.es CNAME .
 scout.bergfreunde.eu CNAME .
+scout.bergfreunde.fi CNAME .
 scout.bergfreunde.it CNAME .
 scout.bergfreunde.nl CNAME .
 scout.bergfreunde.se CNAME .
@@ -197,6 +200,7 @@ web.emails.thetoyshop.com CNAME .
 web.friends.ellaskitchen.co.uk CNAME .
 web.ideaautorepair.com CNAME .
 web.info.bonprix.es CNAME .
+web.info.vantastic-foods.com CNAME .
 web.info.varelotteriet.dk CNAME .
 web.info.yeppon.it CNAME .
 web.mail.proximaati.com CNAME .

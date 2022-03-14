@@ -34,12 +34,15 @@ analytics.gamedatacrunch.com
 analytics.geekyminds.net
 analytics.givealittle.co
 analytics.hiome.com
+analytics.kerns.co
 analytics.lunge.de
+analytics.mambaui.com
 analytics.mc500.info
 analytics.mhpod.gov.au
 analytics.mondoweiss.net
 analytics.mycater.fr
 analytics.naturequant.com
+analytics.qualityquestions.co
 analytics.ramiyer.io
 analytics.ramiyer.me
 analytics.ratemymeeting.co
@@ -47,6 +50,7 @@ analytics.sixfigureswine.com
 analytics.souazi.com
 analytics.southjerseyquakers.org
 analytics.ss88.us
+analytics.surov.fi
 analytics.sweep.net
 analytics.teamcovenant.com
 analytics.top10-charts.com
@@ -62,11 +66,13 @@ analytics.xiloc.net
 antitracking.owncast.online
 ap.dt.gl
 api.decentralize.today
+api.dt.gl
 api.elliehuxtable.com
 api.ryanyao.design
 app-stats.supernotes.app
 ares.buyersclub.se
 artistchristinacarmel.ericksonbuilt.com
+asclepius.nordenta.se
 assets.garron.blog
 assets.garron.me
 assets.webmanufaktur.ch
@@ -77,6 +83,7 @@ cdn.arcstudiopro.com
 channelwatcher.panda.tech
 cheese.guac.live
 churro.noteapps.info
+cody-stats.coupa.engineering
 connect.adkhifi.com
 connect.astrobotanicals.com
 connect.ftpresents.com
@@ -85,6 +92,7 @@ counter.subtitlebee.com
 datum.appfleet.com
 dragon.moneycoach.io
 eliteclng.ericksonbuilt.com
+events.mikescerealshack.co
 external.techopian.com
 extramilefloorcare.ericksonbuilt.com
 f8phvntohv.tpetry.me
@@ -95,6 +103,7 @@ hej.henriksommerfeld.se
 hi.koalendar.com
 hi.streetworkoutlist.com
 hi.victorbaudot.com
+hola.xebel.co
 hurricane.tinybird.co
 hype.zlipa.com
 info.alvin.codes
@@ -103,6 +112,7 @@ insights.affilimate.com
 insights.frenchtogether.com
 insights.growwithless.com
 juniper.starleaf.com
+kekw.givetip.to
 kon.mediaplatform.group
 ks.walkq.com
 l2k30jsa.theochu.com
@@ -154,12 +164,14 @@ plau.swissdevjobs.ch
 plauplauplau.app.budg.co
 plauplauplau.budg.co
 plaus.svelte.school
+plausdj2ajskljzx0ikwkiasible.ethics.info
 plausible.amava.com
 plausible.as207960.net
 plausible.banovo.de
 plausible.bearer.sh
 plausible.benscarblog.com
 plausible.bernheisel.com
+plausible.billfox.co
 plausible.bostad.shop
 plausible.brandonly.me
 plausible.conveyal.com
@@ -184,13 +196,16 @@ plausible.hellpancake.com
 plausible.help.exploreandcreate.com
 plausible.hstmedical.com
 plausible.inflex.io
+plausible.intalk.nl
 plausible.joinself.com
 plausible.kabaret.no
 plausible.kreya.app
+plausible.langojango.com
 plausible.lawdeeda.com
 plausible.lesbianromantic.com
 plausible.lovesdata.com
 plausible.mattpruitt.com
+plausible.mcj.co
 plausible.microwire.info
 plausible.moncefbelyamani.com
 plausible.nova.app
@@ -203,6 +218,7 @@ plausible.plancagency.com
 plausible.play.date
 plausible.prod.sketch.com
 plausible.promlens.com
+plausible.prufit.co
 plausible.rachel.systems
 plausible.reactpreview.com
 plausible.regex.help
@@ -218,11 +234,11 @@ plausible.tac.dappstar.io
 plausible.test.sketch.com
 plausible.urbanekuensteruhr.de
 plausible.vaughanesports.org
-plausible.vhanda.in
 plausible.viteshot.com
 plausible.west.io
 plausible.zest.dev
 plausible.zorin.com
+plsbl-staging.edison.se
 plsbl.edison.se
 pm.redbull.com
 prism.raumgleiter.com
@@ -235,9 +251,11 @@ s.aromapix.com
 s.cameratico.com
 s.crackedthecode.co
 s.cuoresportivo.no
+s.ergotherapieblog.de
 s.fission.codes
 s.freelanceratecalculator.com
 s.glimesh.tv
+s.inspectelement.co
 s.mannes.tech
 s.maxrozen.com
 s.nerdfulmind.com
@@ -270,6 +288,7 @@ stats.allaboutberlin.com
 stats.alleaktien.de
 stats.am.ai
 stats.amiibo.life
+stats.app.plock.fi
 stats.arquido.com
 stats.artefact.space
 stats.audiorelay.net
@@ -278,12 +297,14 @@ stats.baptistwomen.com
 stats.barriestephenhair.co.uk
 stats.basecamp.com
 stats.bcdtravel.com
+stats.belic.si
 stats.benui.ca
 stats.bertwagner.com
 stats.bestservers.co
 stats.bholmes.dev
 stats.bimbase.nl
 stats.bitpost.app
+stats.blackblog.cz
 stats.blendsalons.co.uk
 stats.blockleviton.com
 stats.blog.codingmilitia.com
@@ -306,6 +327,7 @@ stats.carrotsearch.com
 stats.cascadeinstitute.org
 stats.cassidyjames.com
 stats.catholicluv.com
+stats.centerforvalues.international
 stats.centralswindonnorth-pc.gov.uk
 stats.cfcasts.com
 stats.challengehub.app
@@ -314,6 +336,7 @@ stats.chapterist.show
 stats.chronoslabs.net
 stats.citizenos.com
 stats.cleverdiabetic.com
+stats.coachingcourses.pro
 stats.code-it-studio.de
 stats.codeexposed.com
 stats.coditia.com
@@ -335,6 +358,7 @@ stats.dashbit.co
 stats.davidlms.com
 stats.dazzit.com
 stats.deva.guru
+stats.devenet.info
 stats.digiexpert.store
 stats.divemap.uk
 stats.divyanshu013.dev
@@ -360,6 +384,7 @@ stats.farbenmeer.de
 stats.feathercss.makerkits.co
 stats.felipesere.com
 stats.femtobill.com
+stats.ff.ht
 stats.flightsphere.com
 stats.frenlo.com
 stats.fullofwishes.co.uk
@@ -391,6 +416,7 @@ stats.hugoreeves.com
 stats.huysmanbouw.be
 stats.iamzero.dev
 stats.ibuildings.net
+stats.idle.cafe
 stats.igevia.com
 stats.infoboard.de
 stats.innoq.com
@@ -401,6 +427,8 @@ stats.iscc-system.org
 stats.ivankahl.com
 stats.jackwhiting.co.uk
 stats.jamesevers.co.uk
+stats.jani.to
+stats.janlindblom.se
 stats.jansix.at
 stats.jawebb.se
 stats.jdheyburn.co.uk
@@ -416,6 +444,7 @@ stats.kod.ru
 stats.kongressen.com
 stats.krauss.io
 stats.kryptoslogic.com
+stats.lastfm.matthiasloibl.com
 stats.laxallstars.com
 stats.layl.app
 stats.leaguestats.gg
@@ -466,9 +495,11 @@ stats.nicolaskempf.fr
 stats.nomad.radio
 stats.nonprofit.foundation
 stats.nothingbutnylon.com
+stats.nowicki.io
 stats.nrcaknights.com
 stats.ntietz.com
 stats.nytecomics.com
+stats.obiit.co
 stats.offthekerb.com
 stats.onepagelove.com
 stats.orbitalhealth.co
@@ -493,9 +524,12 @@ stats.photovisionprints.com
 stats.pianoplanet.app
 stats.pinoymusicstation.com
 stats.piranhas.co
+stats.pitstone.co.uk
 stats.pixify.net
 stats.pizzapizza.io
+stats.plastbest.cz
 stats.plastbest.sk
+stats.plock.fi
 stats.poesieundgenuss.com
 stats.pointflottant.com
 stats.polekatfitness.com
@@ -512,6 +546,7 @@ stats.radreiseglueck.de
 stats.raidprotect.org
 stats.rasulkireev.com
 stats.ravivyas.com
+stats.readers.cafe
 stats.readng.co
 stats.referralhero.com
 stats.reisemobil.pro
@@ -521,6 +556,7 @@ stats.reprage.com
 stats.revit-content.com
 stats.robhope.com
 stats.rocketvalidator.com
+stats.rtlanerecruitment.ie
 stats.ruhrfestspiele.de
 stats.ruthmontenegro.com
 stats.savethemothers.org
@@ -549,6 +585,7 @@ stats.soundbite.so
 stats.southpetherwin.com
 stats.southswindon-pc.gov.uk
 stats.sparkloop.app
+stats.sprechstunde.ai
 stats.sqlteam.com
 stats.stackingthebricks.com
 stats.stacks.org
@@ -563,6 +600,7 @@ stats.sushibyte.io
 stats.svenadolph.net
 stats.tekin.co.uk
 stats.thechurchfactory.com
+stats.thegoodlineheight.com
 stats.therenegadecoder.com
 stats.thomasvitale.com
 stats.threadstart.io
@@ -592,6 +630,7 @@ stats.vngameden.com
 stats.voltamediahouse.com
 stats.walkiees.co.uk
 stats.westswindon-pc.gov.uk
+stats.whenpigsflybbq.com
 stats.whereisit5pmrightnow.com
 stats.world.hey.com
 stats.wvs.org.uk
@@ -602,6 +641,7 @@ stats.x5x.host
 stats.xn--drivation-b4a.fr
 stats.yourdallashandyman.com
 stats.zander.wtf
+statstest.upti.pro
 statystyki.ekspertyzy-szkolenia.pl
 sts.papyrs.com
 stts.sgab-srfp.ch

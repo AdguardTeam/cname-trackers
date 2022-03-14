@@ -15,6 +15,7 @@
 | cdn.asce.xyz | popcashjs.b-cdn.net |
 | cdn.asdb.xyz | popcashjs.b-cdn.net |
 | cdn.asdfix.com | popcashjs.b-cdn.net |
+| cdn.asdfix.xyz | popcashjs.b-cdn.net |
 | cdn.asdnow.xyz | popcashjs.b-cdn.net |
 | cdn.asecv.xyz | popcashjs.b-cdn.net |
 | cdn.asecw.xyz | popcashjs.b-cdn.net |
@@ -33,11 +34,11 @@
 | cdn.fedsy.xyz | popcashjs.b-cdn.net |
 | cdn.fluxy.xyz | popcashjs.b-cdn.net |
 | cdn.gecl.xyz | popcashjs.b-cdn.net |
+| cdn.goldclick.xyz | popcashjs.b-cdn.net |
 | cdn.gtrd.xyz | popcashjs.b-cdn.net |
 | cdn.iople.com | popcashjs.b-cdn.net |
 | cdn.lemonet.xyz | popcashjs.b-cdn.net |
 | cdn.morps.xyz | popcashjs.b-cdn.net |
-| cdn.mrvio.com | popcashjs.b-cdn.net |
 | cdn.namol.xyz | popcashjs.b-cdn.net |
 | cdn.nlop.xyz | popcashjs.b-cdn.net |
 | cdn.nuqwe.com | popcashjs.b-cdn.net |
@@ -54,6 +55,7 @@
 | cdn.soxg.xyz | popcashjs.b-cdn.net |
 | cdn.spnut.com | popcashjs.b-cdn.net |
 | cdn.srxy.xyz | popcashjs.b-cdn.net |
+| cdn.ssers.xyz | popcashjs.b-cdn.net |
 | cdn.wwfx.xyz | popcashjs.b-cdn.net |
 | cdn.xapa.xyz | popcashjs.b-cdn.net |
 | cdn.xaxo.xyz | popcashjs.b-cdn.net |

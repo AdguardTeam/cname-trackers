@@ -10,6 +10,7 @@ t8.mailperformance.com CNAME .
 tr.3ou4xcb.cetelem.fr CNAME .
 tr.abo.cotemaison.fr CNAME .
 tr.acq-pjms.fr CNAME .
+tr.activeprospects.info CNAME .
 tr.actu.bricodepot.com CNAME .
 tr.actualites.01net.com CNAME .
 tr.actualites.bfmtv.com CNAME .
@@ -36,6 +37,7 @@ tr.axa.espmp-aufr.net CNAME .
 tr.b2d1.espmp-agfr.net CNAME .
 tr.b2d1068.espmp-nifr.net CNAME .
 tr.b2d106z.espmp-aufr.net CNAME .
+tr.batirenover.info CNAME .
 tr.batiweb.co CNAME .
 tr.bienvenue.envie-de-bien-manger.com CNAME .
 tr.bizzquotes.co.uk CNAME .
@@ -85,9 +87,11 @@ tr.comunicacao.younited-credit.com CNAME .
 tr.contact.canalplus.fr CNAME .
 tr.contact.cereps.fr CNAME .
 tr.contact.e-turf.fr CNAME .
+tr.contact.makemelead.info CNAME .
 tr.contact.thelist-emirates.fr CNAME .
 tr.contrat.location.boulanger.com CNAME .
 tr.contrats.cetelem.fr CNAME .
+tr.contrats.cofinoga.fr CNAME .
 tr.courriel.ouestnormandie.cci.fr CNAME .
 tr.courrier.charentelibre.fr CNAME .
 tr.courrier.larepubliquedespyrenees.fr CNAME .
@@ -138,7 +142,9 @@ tr.envie-de-bien-manger.espmp-aufr.net CNAME .
 tr.europa-organisation.com CNAME .
 tr.evenements.inpi.fr CNAME .
 tr.fidal.pro CNAME .
+tr.fidalformation.pro CNAME .
 tr.fr.pro.accor.com CNAME .
+tr.gdfsuez-globalenergy.info CNAME .
 tr.gen.espmp-agfr.net CNAME .
 tr.gestion.banque-casino.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
@@ -148,6 +154,7 @@ tr.gestion.floa.fr CNAME .
 tr.gestion.sygmabnpparibas-pf.com CNAME .
 tr.group-hr.lvmh.fr CNAME .
 tr.groupama-gne.fr CNAME .
+tr.gtr.moethennessy.com CNAME .
 tr.hello.maisonfoody.com CNAME .
 tr.helloartisan.info CNAME .
 tr.info-btob-leaders.com CNAME .
@@ -287,6 +294,7 @@ tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
 tr.news.styles.lexpress.fr CNAME .
+tr.news.teklifim.pro CNAME .
 tr.news.thelist-emirates.fr CNAME .
 tr.news.tiptel.fr CNAME .
 tr.news.toocampmail.com CNAME .
@@ -340,7 +348,9 @@ tr.offrevip.floa.fr CNAME .
 tr.orange-lease.fr CNAME .
 tr.orcamentos-companeo.pt CNAME .
 tr.panels-mediametrie.fr CNAME .
+tr.partenaire.manageo.info CNAME .
 tr.pole-emploi-services.com CNAME .
+tr.policyexpert.info CNAME .
 tr.politicolive.eu CNAME .
 tr.politicomarketing.eu CNAME .
 tr.portail.afpa.fr CNAME .

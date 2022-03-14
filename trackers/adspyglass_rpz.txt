@@ -30,6 +30,8 @@ a.emwstore.xyz CNAME .
 a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
+a.filmlinks4u.pro CNAME .
+a.flizmovies.cc CNAME .
 a.focusde.info CNAME .
 a.gaypornlove.net CNAME .
 a.green-good-nice.site CNAME .
@@ -52,6 +54,9 @@ a.zillastream.com CNAME .
 a5g.oves.biz CNAME .
 aa.zerg.pro CNAME .
 acdn.uploads.mobi CNAME .
+ad.emule-island.eu CNAME .
+ad.grizox.xyz CNAME .
+ad.wawacity.xyz CNAME .
 adilk.ilikecomix.com CNAME .
 ads.al3ably.com CNAME .
 ads.poptwinks.com CNAME .
@@ -59,9 +64,9 @@ ads.tabuflix.com CNAME .
 ads.xmov.net CNAME .
 ads.xxxleaks.cc CNAME .
 adspy.javrank.com CNAME .
+advpro.pro CNAME .
 ags.hobby.porn CNAME .
 amazingdomain.sbs CNAME .
-anti.ultraten.net CNAME .
 antiadblock.info CNAME .
 api.adultsclips.com CNAME .
 app.phimvu.app CNAME .
@@ -73,6 +78,7 @@ as2.fasta.xyz CNAME .
 as2.movporvid.com CNAME .
 ascc.javquick.com CNAME .
 asdf.eldos.xyz CNAME .
+asg.allweb.click CNAME .
 asg.animehdl.net CNAME .
 asg.aphex.me CNAME .
 asg.catraff.com CNAME .
@@ -146,7 +152,6 @@ glokta.info CNAME .
 go.showmeyouradsnow.com CNAME .
 go.ss-n-30.com CNAME .
 hazicu.hothomefuck.com CNAME .
-hellothere.filefox.io CNAME .
 hq3x.com CNAME .
 hsux.com CNAME .
 i.hqvrporn.net CNAME .
@@ -157,6 +162,7 @@ ka.kakakakaka.xyz CNAME .
 ka2.javbuzz.com CNAME .
 kliqz.com CNAME .
 kuhdsysdas.indexsubtitle.com CNAME .
+likse.aaaf.info CNAME .
 lixir.wargers.org CNAME .
 load.jabx.net CNAME .
 load.try-games.com CNAME .
@@ -220,11 +226,13 @@ tt.wl-cornholio.com CNAME .
 uk.boffinsoft.com CNAME .
 uthbxvz.bestzba.com CNAME .
 v.focusde.info CNAME .
+v2pro.stbvip.net CNAME .
 vd.7vid.net CNAME .
 videocdn.name CNAME .
 vsx.hotpornfile.org CNAME .
 w00t.us CNAME .
 web.cinetux.nu CNAME .
+whatsthis.owo.si CNAME .
 widjet.analnoe.tv CNAME .
 wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
