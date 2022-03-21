@@ -196,6 +196,7 @@ b.lyst.com CNAME .
 b.prod1.youroffers.dominos.ca CNAME .
 b.your.offers.dominos.com CNAME .
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au CNAME .
+bit.beformance.com CNAME .
 bk.atumanera.burgerking.com.mx CNAME .
 blinks.mindoktor.se CNAME .
 blinkstest.mindoktor.se CNAME .
@@ -215,15 +216,20 @@ br.links.kmartphotos.com.au CNAME .
 br.links.kodakmoments.com CNAME .
 br.potato1.influitive.com CNAME .
 branch-consumer.hipages.com.au CNAME .
+branch-io.smartr365.com CNAME .
 branch-tradie.hipages.com.au CNAME .
 branch.carvana.com CNAME .
 branch.chelseafc.com CNAME .
+branch.connect.actionnetwork.com CNAME .
 branch.email.livenation.com CNAME .
 branch.livenation.com CNAME .
 branch.pgatour-mail.com CNAME .
+branch.xoxloveheart.com CNAME .
+branchct.ncapp04.com CNAME .
 branchlink.adobespark.com CNAME .
 branchtrk.lendingtree.com CNAME .
 brc.emails.rakuten.com CNAME .
+click-staging.food.mercato.com CNAME .
 click.aaptiv.com CNAME .
 click.bible.com CNAME .
 click.bitesquad.com CNAME .
@@ -256,6 +262,7 @@ click.sutra.co CNAME .
 click.transactional.carousell.com CNAME .
 click1.e.radio.com CNAME .
 click1.e.thechive.com CNAME .
+click1.email.audacy.com CNAME .
 click1.mail.paltalkpeople.com CNAME .
 click2.email.ticketmaster.com CNAME .
 clicked.ebates.com CNAME .
@@ -275,8 +282,10 @@ clicks.point.app CNAME .
 clicks.staging.worldremit.com CNAME .
 clicks.variis.com CNAME .
 clicktrack.cmnetwork.co CNAME .
+clk.mindfulsuite.com CNAME .
 cn1.stadiumgoods.com CNAME .
 cn2.stadiumgoods.com CNAME .
+concierge.intros.com CNAME .
 cq.hq1.influitive.com CNAME .
 ct.irl.co CNAME .
 ct.irl.com CNAME .
@@ -439,6 +448,7 @@ links.br.discoveryplus.com CNAME .
 links.ca.discoveryplus.com CNAME .
 links.colonelsclub.kfc.com CNAME .
 links.customers.instacartemail.com CNAME .
+links.e.aecrimecentral.com CNAME .
 links.e.aetv.com CNAME .
 links.e.history.com CNAME .
 links.e.historyvault.com CNAME .

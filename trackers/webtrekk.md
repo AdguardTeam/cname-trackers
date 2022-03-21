@@ -18,6 +18,7 @@
     * ingnl04.webtrekk.net
     * kfw-07.webtrekk.net
     * kfw04.webtrekk.net
+    * kiomi-com01.webtrekk.net
     * netcologne-01.webtrekk.net
     * nuernberger02.webtrekk.net
     * tchibo02.webtrekk.net
@@ -186,6 +187,7 @@
 | a.intercityhotel.com | 307902509027183.wt-eu02.net |
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |
 | a.steigenberger.com | 307902509027183.wt-eu02.net |
+| a.zleep.com | 307902509027183.wt-eu02.net |
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
 | web.email.pragroup.co.uk | 341309604352055.wt-eu02.net |
 | census.misterspex.fi | 346715981768881.wt-eu02.net |
@@ -344,6 +346,7 @@
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | image.kfw-entwicklungsbank.de | kfw-07.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
+| track.kiomi.com | kiomi-com01.webtrekk.net |
 | wttd.madeleine-fashion.be | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-fashion.nl | madeleineprod01.wt-eu02.net |
 | wttd.madeleine-mode.at | madeleineprod01.wt-eu02.net |

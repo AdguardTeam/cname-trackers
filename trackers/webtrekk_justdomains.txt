@@ -18,6 +18,7 @@ sub1.cosmosdirekt.de
 text.mitarbeiterangebote.de
 track.emeza.ch
 track.emeza.com
+track.kiomi.com
 track.yellostrom.de
 tracking.netcologne.de
 tracking.tchibo.ch
@@ -40,6 +41,7 @@ a.hrewards.com
 a.intercityhotel.com
 a.jaz-hotel.com
 a.steigenberger.com
+a.zleep.com
 abc.bayer04.de
 abc.fackelmann.de
 analytics.hermesworld.com

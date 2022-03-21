@@ -7,6 +7,7 @@
 ||refer.ahsfriends.com^
 ||refer.american-giant.com^
 ||refer.ancestry.com^
+||refer.aol.com^
 ||refer.clearme.com^
 ||refer.discover.com^
 ||refer.dna.ancestry.co.uk^
@@ -17,6 +18,7 @@
 ||refer.luckyvitamin.com^
 ||refer.moo.com^
 ||refer.purchasingpower.com^
+||refer.sage.com^
 ||refer.shoesforcrews.com^
 ||refer.sperry.com^
 ||refer.talbots.com^

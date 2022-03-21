@@ -3,6 +3,7 @@
 #
 # a8.net disguised trackers
 #
+1909a8.satofull.jp
 a8-itp.qoo10.jp
 a8.01cloud.jp
 a8.abemashopping.jp
@@ -19,7 +20,6 @@ a8.hakata-hisamatsu.net
 a8.haptic.co.jp
 a8.hitohana.tokyo
 a8.i-netservice.net
-a8.instokyo.com
 a8.lavie-official.jp
 a8.learning.agaroot.jp
 a8.lens-labo.com
@@ -111,6 +111,7 @@ a8clk.titivate.jp
 a8clk.ur-s.me
 a8clk.wi-ho.net
 a8clk.www.cledepeau-beaute.com
+a8clk.www.clip-studio.com
 a8clk.www.nortonstore.jp
 a8clk.xserver.ne.jp
 a8clk.yourmystar.jp
@@ -164,6 +165,7 @@ a8cv.store.alpen-group.jp
 a8cv.store.tavenal.com
 a8cv.str.classicmusic.tokyo
 a8cv.t-bang.jp
+a8cv.tfansite.jp
 a8cv.try-fs.com
 a8cv.unito.life
 a8cv.untenmenkyo-yi.com
@@ -196,7 +198,14 @@ afi.sougou.web-marketing.ai
 afi.ssl.gmobb.jp
 aficv.finebase.jp
 analytics.villagehouse.jp
+asp.taishokunext.com
+asp.yasaka-official.com
 cart.matsuzaka-steak.com
+clk.glam-print.com
+clk.liberty-e.com
+clk.wagon-hire.com
+clkcv.biglobehikari-kaisen.com
+contact.kdg-yobi.com
 cv.a-internet.jp
 cv.drive-hikari.net
 cv.online.ysroad.co.jp

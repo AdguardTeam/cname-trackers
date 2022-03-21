@@ -41,6 +41,7 @@ tr.batirenover.info CNAME .
 tr.batiweb.co CNAME .
 tr.bienvenue.envie-de-bien-manger.com CNAME .
 tr.bizzquotes.co.uk CNAME .
+tr.boletim.companeo.pt CNAME .
 tr.boletim.meu-orcamento.pt CNAME .
 tr.btobquotes.com CNAME .
 tr.buenasofertas.pro CNAME .
@@ -48,6 +49,7 @@ tr.bureauveritas.espmp-aufr.net CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.cacf.ipsos-surveys.com CNAME .
 tr.camara.eu.com CNAME .
+tr.cart02d.espmp-agfr.net CNAME .
 tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
@@ -155,6 +157,7 @@ tr.gestion.sygmabnpparibas-pf.com CNAME .
 tr.group-hr.lvmh.fr CNAME .
 tr.groupama-gne.fr CNAME .
 tr.gtr.moethennessy.com CNAME .
+tr.haute-maurienne-vanoise.net CNAME .
 tr.hello.maisonfoody.com CNAME .
 tr.helloartisan.info CNAME .
 tr.info-btob-leaders.com CNAME .

@@ -41,6 +41,7 @@ tr.batirenover.info
 tr.batiweb.co
 tr.bienvenue.envie-de-bien-manger.com
 tr.bizzquotes.co.uk
+tr.boletim.companeo.pt
 tr.boletim.meu-orcamento.pt
 tr.btobquotes.com
 tr.buenasofertas.pro
@@ -48,6 +49,7 @@ tr.bureauveritas.espmp-aufr.net
 tr.cacf-acq.ipsos-surveys.com
 tr.cacf.ipsos-surveys.com
 tr.camara.eu.com
+tr.cart02d.espmp-agfr.net
 tr.carte.lcl.fr
 tr.cartegie.fr
 tr.cashback.floa.fr
@@ -155,6 +157,7 @@ tr.gestion.sygmabnpparibas-pf.com
 tr.group-hr.lvmh.fr
 tr.groupama-gne.fr
 tr.gtr.moethennessy.com
+tr.haute-maurienne-vanoise.net
 tr.hello.maisonfoody.com
 tr.helloartisan.info
 tr.info-btob-leaders.com

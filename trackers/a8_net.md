@@ -9,6 +9,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| 1909a8.satofull.jp | trck.a8.net |
 | a8-itp.qoo10.jp | trck.a8.net |
 | a8.01cloud.jp | trck.a8.net |
 | a8.abemashopping.jp | trck.a8.net |
@@ -25,7 +26,6 @@
 | a8.haptic.co.jp | trck.a8.net |
 | a8.hitohana.tokyo | trck.a8.net |
 | a8.i-netservice.net | trck.a8.net |
-| a8.instokyo.com | trck.a8.net |
 | a8.lavie-official.jp | trck.a8.net |
 | a8.learning.agaroot.jp | trck.a8.net |
 | a8.lens-labo.com | trck.a8.net |
@@ -117,6 +117,7 @@
 | a8clk.ur-s.me | trck.a8.net |
 | a8clk.wi-ho.net | trck.a8.net |
 | a8clk.www.cledepeau-beaute.com | trck.a8.net |
+| a8clk.www.clip-studio.com | trck.a8.net |
 | a8clk.www.nortonstore.jp | trck.a8.net |
 | a8clk.xserver.ne.jp | trck.a8.net |
 | a8clk.yourmystar.jp | trck.a8.net |
@@ -170,6 +171,7 @@
 | a8cv.store.tavenal.com | trck.a8.net |
 | a8cv.str.classicmusic.tokyo | trck.a8.net |
 | a8cv.t-bang.jp | trck.a8.net |
+| a8cv.tfansite.jp | trck.a8.net |
 | a8cv.try-fs.com | trck.a8.net |
 | a8cv.unito.life | trck.a8.net |
 | a8cv.untenmenkyo-yi.com | trck.a8.net |
@@ -202,7 +204,14 @@
 | afi.ssl.gmobb.jp | trck.a8.net |
 | aficv.finebase.jp | trck.a8.net |
 | analytics.villagehouse.jp | trck.a8.net |
+| asp.taishokunext.com | trck.a8.net |
+| asp.yasaka-official.com | trck.a8.net |
 | cart.matsuzaka-steak.com | trck.a8.net |
+| clk.glam-print.com | trck.a8.net |
+| clk.liberty-e.com | trck.a8.net |
+| clk.wagon-hire.com | trck.a8.net |
+| clkcv.biglobehikari-kaisen.com | trck.a8.net |
+| contact.kdg-yobi.com | trck.a8.net |
 | cv.a-internet.jp | trck.a8.net |
 | cv.drive-hikari.net | trck.a8.net |
 | cv.online.ysroad.co.jp | trck.a8.net |

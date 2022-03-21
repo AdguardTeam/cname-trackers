@@ -73,6 +73,7 @@ beeline.beeline-tire.co.jp CNAME .
 belegend2019.belegend.jp CNAME .
 campaign-direct.eisai.jp CNAME .
 cmass.massmedian.co.jp CNAME .
+cname-ade.gom-in.com CNAME .
 cname-ade.hankoya.com CNAME .
 cname-ade.original-calendar.com CNAME .
 cname-adebis.nice2meet.us CNAME .
@@ -85,7 +86,10 @@ cname.jf-d.jp CNAME .
 cname.kyusai.co.jp CNAME .
 cname.lions-mansion.jp CNAME .
 cname.mebiusseiyaku.co.jp CNAME .
+cname.ri-chel.com CNAME .
 cname1.shakenkan.co.jp CNAME .
+cname2.shaken-yoyaku.com CNAME .
+cnameebis.eizoshigoto.com CNAME .
 cnameebis.usagi-online.com CNAME .
 cnebis.chocola.com CNAME .
 cnebis.eisai.jp CNAME .

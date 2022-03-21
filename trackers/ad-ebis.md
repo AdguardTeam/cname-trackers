@@ -18,6 +18,7 @@
     * 112991d3-surmt4v9.cname.ebis.ne.jp
     * 1241cdd8-znrwzwlu.cname.ebis.ne.jp
     * 12e8d4f5-xjhet6w1.cname.ebis.ne.jp
+    * 13b34133-kldqnwyj.cname.ebis.ne.jp
     * 1590f1a6-xjhet6w1.cname.ebis.ne.jp
     * 17a0a051-yhrqdvjf.cname.ebis.ne.jp
     * 18aeb18f-orvgub9g.cname.ebis.ne.jp
@@ -66,6 +67,7 @@
     * 518dea17-lwmskzks.cname.ebis.ne.jp
     * 520a8d3c-sxwkkncm.cname.ebis.ne.jp
     * 52e84b1b-f9cqqk3h.cname.ebis.ne.jp
+    * 5c4367ff-jngsetpd.cname.ebis.ne.jp
     * 5e958d74-ugbtnbbz.cname.ebis.ne.jp
     * 60222f89-dui9p9au.cname.ebis.ne.jp
     * 608975dd-6hbgpszs.cname.ebis.ne.jp
@@ -128,6 +130,7 @@
     * b6ed666a-bagmsfc6.cname.ebis.ne.jp
     * b773e430-snfbdnnq.cname.ebis.ne.jp
     * b9f16cb4-srrg93nh.cname.ebis.ne.jp
+    * bb6aa604-kdknv6tt.cname.ebis.ne.jp
     * bba13219-ehtgvvgm.cname.ebis.ne.jp
     * bcc4d612-qmmdzant.cname.ebis.ne.jp
     * bceaceed-neqq92z2.cname.ebis.ne.jp
@@ -160,6 +163,7 @@
     * e566cdfc-dvrv5nhw.cname.ebis.ne.jp
     * e6ffde45-yp7fpvcr.cname.ebis.ne.jp
     * e889caf6-3qe9sa9a.cname.ebis.ne.jp
+    * e8efa80d-fbzwhcnp.cname.ebis.ne.jp
     * eae7dd77-nztumxtt.cname.ebis.ne.jp
     * eceb7b9f-6a92yces.cname.ebis.ne.jp
     * f199b50c-gy66xg6s.cname.ebis.ne.jp
@@ -186,6 +190,7 @@
 | partner.haru-shop.jp | 112991d3-surmt4v9.cname.ebis.ne.jp |
 | seo.tkc110.jp | 1241cdd8-znrwzwlu.cname.ebis.ne.jp |
 | adebis.toushi-up.com | 12e8d4f5-xjhet6w1.cname.ebis.ne.jp |
+| cname.ri-chel.com | 13b34133-kldqnwyj.cname.ebis.ne.jp |
 | adebis.gfs-official.com | 1590f1a6-xjhet6w1.cname.ebis.ne.jp |
 | ebis.nomu-silica.jp | 17a0a051-yhrqdvjf.cname.ebis.ne.jp |
 | ebis.rozetta.jp | 18aeb18f-orvgub9g.cname.ebis.ne.jp |
@@ -234,6 +239,7 @@
 | cvs.kireimo.jp | 518dea17-lwmskzks.cname.ebis.ne.jp |
 | adebis.chojyu.com | 520a8d3c-sxwkkncm.cname.ebis.ne.jp |
 | adebis-52667624.wowma.jp | 52e84b1b-f9cqqk3h.cname.ebis.ne.jp |
+| cnameebis.eizoshigoto.com | 5c4367ff-jngsetpd.cname.ebis.ne.jp |
 | ac-3.mix.tokyo | 5e958d74-ugbtnbbz.cname.ebis.ne.jp |
 | ad.autorace.jp | 60222f89-dui9p9au.cname.ebis.ne.jp |
 | ebis.sekisuihouse.co.jp | 608975dd-6hbgpszs.cname.ebis.ne.jp |
@@ -296,6 +302,7 @@
 | belegend2019.belegend.jp | b6ed666a-bagmsfc6.cname.ebis.ne.jp |
 | adebis.toitoitoi.clinic | b773e430-snfbdnnq.cname.ebis.ne.jp |
 | greenjapan-cname.green-japan.com | b9f16cb4-srrg93nh.cname.ebis.ne.jp |
+| cname2.shaken-yoyaku.com | bb6aa604-kdknv6tt.cname.ebis.ne.jp |
 | ad.udition.jp | bba13219-ehtgvvgm.cname.ebis.ne.jp |
 | adebis.shiseido.co.jp | bcc4d612-qmmdzant.cname.ebis.ne.jp |
 | admeasure.hh-online.jp | bceaceed-neqq92z2.cname.ebis.ne.jp |
@@ -328,6 +335,7 @@
 | ad1.tone.ne.jp | e566cdfc-dvrv5nhw.cname.ebis.ne.jp |
 | cname.lions-mansion.jp | e6ffde45-yp7fpvcr.cname.ebis.ne.jp |
 | adebis.sbpayment.jp | e889caf6-3qe9sa9a.cname.ebis.ne.jp |
+| cname-ade.gom-in.com | e8efa80d-fbzwhcnp.cname.ebis.ne.jp |
 | mgn.ebis.andbe-official.com | eae7dd77-nztumxtt.cname.ebis.ne.jp |
 | adebisu.wowow.co.jp | eceb7b9f-6a92yces.cname.ebis.ne.jp |
 | sep02.hinagiku-life.jp | f199b50c-gy66xg6s.cname.ebis.ne.jp |

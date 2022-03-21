@@ -60,7 +60,12 @@ assets1.suncorp.co.nz
 assets1.suncorp.com.au
 assets1.terrischeer.com.au
 assets1.vero.co.nz
+attribution.saucony.com
+attribution.sperry.com
 attribution.theworks.co.uk
+attribution.tmlewin.com
+attribution.wolverine.com
+businessmetrics.syf.com
 coke.activate.ensighten.com
 cookies.jll-mena.com
 cookies.jll.ca
@@ -69,9 +74,12 @@ cookies.jll.co.id
 cookies.jll.co.in
 cookies.jll.co.kr
 cookies.jll.co.uk
+cookies.jll.co.za
+cookies.jll.com.ar
 cookies.jll.com.au
 cookies.jll.com.br
 cookies.jll.com.co
+cookies.jll.com.hk
 cookies.jll.com.mx
 cookies.jll.com.my
 cookies.jll.com.ph
@@ -85,6 +93,7 @@ cookies.jll.pt
 cookies.jll.ru
 cookies.jll.sk
 cookies.joneslanglasalle.co.jp
+cookies.joneslanglasalle.com.cn
 cookies.us.jll.com
 data.experian.co.uk
 data.experianidentityservice.co.uk
@@ -120,6 +129,7 @@ measure.ensighten.com
 metrics.mysynchrony.com
 metrics.syf.com
 metrics.synchronybusiness.com
+mjt.lacoste.com
 nexus.ensighten.tiaa.org
 nexus.toyota.com
 nexus.virginholidays.co.uk

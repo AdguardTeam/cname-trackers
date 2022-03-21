@@ -73,6 +73,7 @@
 ||belegend2019.belegend.jp^
 ||campaign-direct.eisai.jp^
 ||cmass.massmedian.co.jp^
+||cname-ade.gom-in.com^
 ||cname-ade.hankoya.com^
 ||cname-ade.original-calendar.com^
 ||cname-adebis.nice2meet.us^
@@ -85,7 +86,10 @@
 ||cname.kyusai.co.jp^
 ||cname.lions-mansion.jp^
 ||cname.mebiusseiyaku.co.jp^
+||cname.ri-chel.com^
 ||cname1.shakenkan.co.jp^
+||cname2.shaken-yoyaku.com^
+||cnameebis.eizoshigoto.com^
 ||cnameebis.usagi-online.com^
 ||cnebis.chocola.com^
 ||cnebis.eisai.jp^

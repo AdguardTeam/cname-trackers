@@ -3,6 +3,7 @@
 ;
 ; a8.net disguised trackers
 ;
+1909a8.satofull.jp CNAME .
 a8-itp.qoo10.jp CNAME .
 a8.01cloud.jp CNAME .
 a8.abemashopping.jp CNAME .
@@ -19,7 +20,6 @@ a8.hakata-hisamatsu.net CNAME .
 a8.haptic.co.jp CNAME .
 a8.hitohana.tokyo CNAME .
 a8.i-netservice.net CNAME .
-a8.instokyo.com CNAME .
 a8.lavie-official.jp CNAME .
 a8.learning.agaroot.jp CNAME .
 a8.lens-labo.com CNAME .
@@ -111,6 +111,7 @@ a8clk.titivate.jp CNAME .
 a8clk.ur-s.me CNAME .
 a8clk.wi-ho.net CNAME .
 a8clk.www.cledepeau-beaute.com CNAME .
+a8clk.www.clip-studio.com CNAME .
 a8clk.www.nortonstore.jp CNAME .
 a8clk.xserver.ne.jp CNAME .
 a8clk.yourmystar.jp CNAME .
@@ -164,6 +165,7 @@ a8cv.store.alpen-group.jp CNAME .
 a8cv.store.tavenal.com CNAME .
 a8cv.str.classicmusic.tokyo CNAME .
 a8cv.t-bang.jp CNAME .
+a8cv.tfansite.jp CNAME .
 a8cv.try-fs.com CNAME .
 a8cv.unito.life CNAME .
 a8cv.untenmenkyo-yi.com CNAME .
@@ -196,7 +198,14 @@ afi.sougou.web-marketing.ai CNAME .
 afi.ssl.gmobb.jp CNAME .
 aficv.finebase.jp CNAME .
 analytics.villagehouse.jp CNAME .
+asp.taishokunext.com CNAME .
+asp.yasaka-official.com CNAME .
 cart.matsuzaka-steak.com CNAME .
+clk.glam-print.com CNAME .
+clk.liberty-e.com CNAME .
+clk.wagon-hire.com CNAME .
+clkcv.biglobehikari-kaisen.com CNAME .
+contact.kdg-yobi.com CNAME .
 cv.a-internet.jp CNAME .
 cv.drive-hikari.net CNAME .
 cv.online.ysroad.co.jp CNAME .

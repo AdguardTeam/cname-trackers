@@ -44,9 +44,11 @@ cdn.popjs.xyz CNAME .
 cdn.poptri.com CNAME .
 cdn.popwad.xyz CNAME .
 cdn.popwow.xyz CNAME .
+cdn.pushfan.com CNAME .
 cdn.rgrd.xyz CNAME .
 cdn.ropx.xyz CNAME .
 cdn.sawron.xyz CNAME .
+cdn.silverclick.xyz CNAME .
 cdn.soxg.xyz CNAME .
 cdn.spnut.com CNAME .
 cdn.srxy.xyz CNAME .

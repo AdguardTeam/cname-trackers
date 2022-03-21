@@ -44,9 +44,11 @@ cdn.popjs.xyz
 cdn.poptri.com
 cdn.popwad.xyz
 cdn.popwow.xyz
+cdn.pushfan.com
 cdn.rgrd.xyz
 cdn.ropx.xyz
 cdn.sawron.xyz
+cdn.silverclick.xyz
 cdn.soxg.xyz
 cdn.spnut.com
 cdn.srxy.xyz

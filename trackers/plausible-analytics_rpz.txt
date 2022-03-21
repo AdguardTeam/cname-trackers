@@ -5,7 +5,6 @@
 ;
 a-api.skz.dev CNAME .
 a.aawp.de CNAME .
-a.artistasdigitais.net CNAME .
 a.ctd.ai CNAME .
 a.easyazon.com CNAME .
 a.fdmedia.io CNAME .
@@ -76,6 +75,7 @@ asclepius.nordenta.se CNAME .
 assets.garron.blog CNAME .
 assets.garron.me CNAME .
 assets.webmanufaktur.ch CNAME .
+badwolf.open-election-compass.com CNAME .
 bees.beesbeesbeesbees.com CNAME .
 bob.gitclear.com CNAME .
 cats.d20.rs CNAME .
@@ -87,8 +87,12 @@ cody-stats.coupa.engineering CNAME .
 connect.adkhifi.com CNAME .
 connect.astrobotanicals.com CNAME .
 connect.ftpresents.com CNAME .
+connect.tommyroxmusic.com CNAME .
+connect.virtuesofthevine.com CNAME .
+counter.cropvid.com CNAME .
 counter.proxycrawl.com CNAME .
 counter.subtitlebee.com CNAME .
+counter.websitevoice.com CNAME .
 datum.appfleet.com CNAME .
 dragon.moneycoach.io CNAME .
 eliteclng.ericksonbuilt.com CNAME .
@@ -232,6 +236,7 @@ plausible.strzibny.name CNAME .
 plausible.sysloun.cz CNAME .
 plausible.tac.dappstar.io CNAME .
 plausible.test.sketch.com CNAME .
+plausible.therubaiyatofomarkhayyam.com CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.vaughanesports.org CNAME .
 plausible.viteshot.com CNAME .
@@ -259,7 +264,6 @@ s.inspectelement.co CNAME .
 s.mannes.tech CNAME .
 s.maxrozen.com CNAME .
 s.nerdfulmind.com CNAME .
-s.nslookup.io CNAME .
 s.schlachter.tech CNAME .
 s.somos-arts.org CNAME .
 s.sporks.space CNAME .
@@ -273,7 +277,6 @@ sp.gameomatic.fr CNAME .
 sp.jrklein.com CNAME .
 sp.spaceomatic.fr CNAME .
 spock.dom.codes CNAME .
-st2.jamesdaniel.dev CNAME .
 stat.bill.harding.blog CNAME .
 stat.tomdebruijn.com CNAME .
 statistics.csweapons.com CNAME .
@@ -291,8 +294,6 @@ stats.amiibo.life CNAME .
 stats.app.plock.fi CNAME .
 stats.arquido.com CNAME .
 stats.artefact.space CNAME .
-stats.audiorelay.net CNAME .
-stats.backprop.co CNAME .
 stats.baptistwomen.com CNAME .
 stats.barriestephenhair.co.uk CNAME .
 stats.basecamp.com CNAME .
@@ -451,6 +452,7 @@ stats.leaguestats.gg CNAME .
 stats.learnlinux.tv CNAME .
 stats.leoloso.com CNAME .
 stats.lessimpact.org CNAME .
+stats.lestypesdefarine.fr CNAME .
 stats.liist.io CNAME .
 stats.literacysomerset.org CNAME .
 stats.livingedge.ngo CNAME .
@@ -599,7 +601,9 @@ stats.sunpeaksstables.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svenadolph.net CNAME .
 stats.tekin.co.uk CNAME .
+stats.the18monthpianoproject.com CNAME .
 stats.thechurchfactory.com CNAME .
+stats.thedartmoorsoapco.co.uk CNAME .
 stats.thegoodlineheight.com CNAME .
 stats.therenegadecoder.com CNAME .
 stats.thomasvitale.com CNAME .
@@ -652,7 +656,6 @@ tics.seeker.gg CNAME .
 tics.techdirt.com CNAME .
 tipstats.onepagelove.com CNAME .
 tock.weg.plus CNAME .
-tocotronic.thomas.me CNAME .
 tokei.upstract.com CNAME .
 track.pokestats.gg CNAME .
 track.slickinbox.com CNAME .

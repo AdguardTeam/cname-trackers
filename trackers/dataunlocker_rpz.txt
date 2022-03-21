@@ -5,6 +5,7 @@
 ;
 0naqzso7re3p.tapmyback.com CNAME .
 11b6n4ty2x3.taxliencode.com CNAME .
+17aifrn7w6od.unstoppabledomains.com CNAME .
 1a715b8q5m3j.www.logology.co CNAME .
 1amehwchx31.bloxdhop.io CNAME .
 1iy4gu0lpkp.my.gloryleague.basketball CNAME .
@@ -12,21 +13,25 @@
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 25voj20abod.honeyswap.org CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
+2aa6f9qgrh9.acc.evservice.nl CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
-2y0lbig207qz.www.botcomics.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 42qnuym6jsvn.www.cefirates.com CNAME .
-5brgdxdhtt.thebarrecollective.co CNAME .
 634lj7p7g3lv.unstoppabledomains.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
+9i9dta97bhqp.www.cefirates.com CNAME .
+9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
+bygr2ri20e4y.li.finance CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
+dxqugszyplls.www.earthclassmail.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
+f0tiojboxnc1.bitdomain.biz CNAME .
 fve57b8cs74i.www.cybernetman.com CNAME .
 g8zao4slwe69.asenaru.id CNAME .
 gl5g98t0vfjb.panprices.com CNAME .

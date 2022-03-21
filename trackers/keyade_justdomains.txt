@@ -21,7 +21,6 @@ keyade.alltricks.fr
 keyade.ooreka.fr
 market-keyade.macif.fr
 tck.photobox.com
-tck.transavia.com
 #
 # k.madmetrics.com disguised trackers
 #

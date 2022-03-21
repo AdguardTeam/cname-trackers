@@ -196,6 +196,7 @@ b.lyst.com
 b.prod1.youroffers.dominos.ca
 b.your.offers.dominos.com
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
+bit.beformance.com
 bk.atumanera.burgerking.com.mx
 blinks.mindoktor.se
 blinkstest.mindoktor.se
@@ -215,15 +216,20 @@ br.links.kmartphotos.com.au
 br.links.kodakmoments.com
 br.potato1.influitive.com
 branch-consumer.hipages.com.au
+branch-io.smartr365.com
 branch-tradie.hipages.com.au
 branch.carvana.com
 branch.chelseafc.com
+branch.connect.actionnetwork.com
 branch.email.livenation.com
 branch.livenation.com
 branch.pgatour-mail.com
+branch.xoxloveheart.com
+branchct.ncapp04.com
 branchlink.adobespark.com
 branchtrk.lendingtree.com
 brc.emails.rakuten.com
+click-staging.food.mercato.com
 click.aaptiv.com
 click.bible.com
 click.bitesquad.com
@@ -256,6 +262,7 @@ click.sutra.co
 click.transactional.carousell.com
 click1.e.radio.com
 click1.e.thechive.com
+click1.email.audacy.com
 click1.mail.paltalkpeople.com
 click2.email.ticketmaster.com
 clicked.ebates.com
@@ -275,8 +282,10 @@ clicks.point.app
 clicks.staging.worldremit.com
 clicks.variis.com
 clicktrack.cmnetwork.co
+clk.mindfulsuite.com
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
+concierge.intros.com
 cq.hq1.influitive.com
 ct.irl.co
 ct.irl.com
@@ -439,6 +448,7 @@ links.br.discoveryplus.com
 links.ca.discoveryplus.com
 links.colonelsclub.kfc.com
 links.customers.instacartemail.com
+links.e.aecrimecentral.com
 links.e.aetv.com
 links.e.history.com
 links.e.historyvault.com

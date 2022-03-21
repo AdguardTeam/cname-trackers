@@ -60,7 +60,12 @@ assets1.suncorp.co.nz CNAME .
 assets1.suncorp.com.au CNAME .
 assets1.terrischeer.com.au CNAME .
 assets1.vero.co.nz CNAME .
+attribution.saucony.com CNAME .
+attribution.sperry.com CNAME .
 attribution.theworks.co.uk CNAME .
+attribution.tmlewin.com CNAME .
+attribution.wolverine.com CNAME .
+businessmetrics.syf.com CNAME .
 coke.activate.ensighten.com CNAME .
 cookies.jll-mena.com CNAME .
 cookies.jll.ca CNAME .
@@ -69,9 +74,12 @@ cookies.jll.co.id CNAME .
 cookies.jll.co.in CNAME .
 cookies.jll.co.kr CNAME .
 cookies.jll.co.uk CNAME .
+cookies.jll.co.za CNAME .
+cookies.jll.com.ar CNAME .
 cookies.jll.com.au CNAME .
 cookies.jll.com.br CNAME .
 cookies.jll.com.co CNAME .
+cookies.jll.com.hk CNAME .
 cookies.jll.com.mx CNAME .
 cookies.jll.com.my CNAME .
 cookies.jll.com.ph CNAME .
@@ -85,6 +93,7 @@ cookies.jll.pt CNAME .
 cookies.jll.ru CNAME .
 cookies.jll.sk CNAME .
 cookies.joneslanglasalle.co.jp CNAME .
+cookies.joneslanglasalle.com.cn CNAME .
 cookies.us.jll.com CNAME .
 data.experian.co.uk CNAME .
 data.experianidentityservice.co.uk CNAME .
@@ -120,6 +129,7 @@ measure.ensighten.com CNAME .
 metrics.mysynchrony.com CNAME .
 metrics.syf.com CNAME .
 metrics.synchronybusiness.com CNAME .
+mjt.lacoste.com CNAME .
 nexus.ensighten.tiaa.org CNAME .
 nexus.toyota.com CNAME .
 nexus.virginholidays.co.uk CNAME .
