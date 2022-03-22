@@ -25,6 +25,7 @@ analytics.certifriedit.com CNAME .
 analytics.churchthemes.com CNAME .
 analytics.codeforscience.org CNAME .
 analytics.codeskulptor.org CNAME .
+analytics.dephibank.com CNAME .
 analytics.dogecoin.gg CNAME .
 analytics.dombesteindata.net CNAME .
 analytics.explained-from-first-principles.com CNAME .
@@ -144,6 +145,7 @@ pa.travelwhiz.app CNAME .
 pan.render.com CNAME .
 pine.nervecentral.com CNAME .
 ping.cavelab.dev CNAME .
+ping.naturadapt.com CNAME .
 ping.richardtaylor.dev CNAME .
 piostats.gdcorner.com CNAME .
 pl.1feed.app CNAME .
@@ -169,6 +171,7 @@ plauplauplau.app.budg.co CNAME .
 plauplauplau.budg.co CNAME .
 plaus.svelte.school CNAME .
 plausdj2ajskljzx0ikwkiasible.ethics.info CNAME .
+plausible.adreform.com CNAME .
 plausible.amava.com CNAME .
 plausible.as207960.net CNAME .
 plausible.banovo.de CNAME .
@@ -182,6 +185,7 @@ plausible.conveyal.com CNAME .
 plausible.corbettbarr.com CNAME .
 plausible.deploymentfromscratch.com CNAME .
 plausible.dev.sketch.com CNAME .
+plausible.doberman.co CNAME .
 plausible.doctave.com CNAME .
 plausible.ericgoebelbecker.com CNAME .
 plausible.eurostocks.nl CNAME .
@@ -248,6 +252,7 @@ plsbl.edison.se CNAME .
 pm.redbull.com CNAME .
 prism.raumgleiter.com CNAME .
 pstat.akathists.com CNAME .
+puls.smakujenam.pl CNAME .
 rapido.idraetsmusik.dk CNAME .
 retention.ankidecks.com CNAME .
 s.80000hours.org CNAME .
@@ -278,6 +283,7 @@ sp.jrklein.com CNAME .
 sp.spaceomatic.fr CNAME .
 spock.dom.codes CNAME .
 stat.bill.harding.blog CNAME .
+stat.landingpro.pl CNAME .
 stat.tomdebruijn.com CNAME .
 statistics.csweapons.com CNAME .
 statistics.heatbeat.de CNAME .
@@ -424,6 +430,7 @@ stats.innoq.com CNAME .
 stats.instabudget.app CNAME .
 stats.interactjs.io CNAME .
 stats.intothebox.org CNAME .
+stats.ipadhire.co.nz CNAME .
 stats.iscc-system.org CNAME .
 stats.ivankahl.com CNAME .
 stats.jackwhiting.co.uk CNAME .
@@ -527,7 +534,6 @@ stats.pianoplanet.app CNAME .
 stats.pinoymusicstation.com CNAME .
 stats.piranhas.co CNAME .
 stats.pitstone.co.uk CNAME .
-stats.pixify.net CNAME .
 stats.pizzapizza.io CNAME .
 stats.plastbest.cz CNAME .
 stats.plastbest.sk CNAME .
@@ -544,10 +550,12 @@ stats.print.work CNAME .
 stats.profilehunt.net CNAME .
 stats.pselookup.vrymel.com CNAME .
 stats.qbitstore.nl CNAME .
+stats.radicitoscane.it CNAME .
 stats.radreiseglueck.de CNAME .
 stats.raidprotect.org CNAME .
 stats.rasulkireev.com CNAME .
 stats.ravivyas.com CNAME .
+stats.reactician.com CNAME .
 stats.readers.cafe CNAME .
 stats.readng.co CNAME .
 stats.referralhero.com CNAME .
@@ -662,6 +670,7 @@ track.slickinbox.com CNAME .
 traffic.hostedstatus.page CNAME .
 traffic.taktikal.is CNAME .
 triton.companyegg.com CNAME .
+views.sikerproducts.com CNAME .
 visite.scambi.org CNAME .
 visitors.asadis.net CNAME .
 visits.quitsocialmedia.club CNAME .

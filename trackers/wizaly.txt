@@ -20,6 +20,7 @@
 ||tk.airfrance.ht^
 ||tk.airfrance.ie^
 ||tk.airfrance.it^
+||tk.airfrance.pl^
 ||tk.airfrance.pt^
 ||tk.airfrance.ru^
 ||tk.airfrance.sg^

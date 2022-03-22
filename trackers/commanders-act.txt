@@ -8,10 +8,10 @@
 ||data.decathlon.fr^
 ||data.decathlon.pl^
 ||data.ouigo.com^
-||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^
+||tag.boulanger.fr^
 ||tagcommander.laredoute.be^
 ||tagcommander.laredoute.co.uk^
 ||tcdata.fnac.com^

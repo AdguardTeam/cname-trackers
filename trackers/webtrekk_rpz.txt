@@ -73,6 +73,7 @@ data.adlermode.com CNAME .
 data.all-in.de CNAME .
 data.campaign.prenatal.com CNAME .
 data.campaign.toyscenter.it CNAME .
+data.engelhorn.com CNAME .
 data.engelhorn.de CNAME .
 data.goertz.de CNAME .
 data.inbank.it CNAME .
@@ -80,6 +81,7 @@ data.leipzig.de CNAME .
 data.mainpost.de CNAME .
 data.mapp.com CNAME .
 data.mediaworld.it CNAME .
+data.pepephone.com CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .

@@ -1,0 +1,10 @@
+;
+; Company name: GoDaddy
+;
+; ads.bid disguised trackers
+;
+adv.ads2.bid CNAME .
+arvb.ewtcbedtmx.ru CNAME .
+avb-sing.ewtcbedtmx.ru CNAME .
+avbr.13wynpuurt.ru CNAME .
+sing.3h1fpq39jb.ru CNAME .

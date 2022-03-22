@@ -11,6 +11,7 @@ tr.3ou4xcb.cetelem.fr CNAME .
 tr.abo.cotemaison.fr CNAME .
 tr.acq-pjms.fr CNAME .
 tr.activeprospects.info CNAME .
+tr.actu-companeo.com CNAME .
 tr.actu.bricodepot.com CNAME .
 tr.actualites.01net.com CNAME .
 tr.actualites.bfmtv.com CNAME .
@@ -90,6 +91,7 @@ tr.contact.canalplus.fr CNAME .
 tr.contact.cereps.fr CNAME .
 tr.contact.e-turf.fr CNAME .
 tr.contact.makemelead.info CNAME .
+tr.contact.stof.fr CNAME .
 tr.contact.thelist-emirates.fr CNAME .
 tr.contrat.location.boulanger.com CNAME .
 tr.contrats.cetelem.fr CNAME .
@@ -98,6 +100,7 @@ tr.courriel.ouestnormandie.cci.fr CNAME .
 tr.courrier.charentelibre.fr CNAME .
 tr.courrier.larepubliquedespyrenees.fr CNAME .
 tr.courrier.sudouest.fr CNAME .
+tr.credito.universo.pt CNAME .
 tr.devis-companeo.be CNAME .
 tr.devis-companeo.com CNAME .
 tr.devis-companeo.fr CNAME .
@@ -133,6 +136,7 @@ tr.emailing.canalplus-reunion.com CNAME .
 tr.emailing.canalplus.ch CNAME .
 tr.emailing.canalplus.fr CNAME .
 tr.emailing.cifea-mkg.com CNAME .
+tr.emailing.cnam-paysdelaloire.fr CNAME .
 tr.emailing.coe.int CNAME .
 tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
@@ -180,6 +184,7 @@ tr.info.mango-mobilites.fr CNAME .
 tr.info.mavoiturecash.fr CNAME .
 tr.info.mdbp.fr CNAME .
 tr.info.mobibam.com CNAME .
+tr.info.onboarding.corporatecards.bnpparibas CNAME .
 tr.info.promoneuve.fr CNAME .
 tr.info.rouen.aeroport.fr CNAME .
 tr.info.rouen.cci.fr CNAME .
@@ -238,6 +243,7 @@ tr.mondevis-pro.com CNAME .
 tr.mp.aconclue-business.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
 tr.mp.actu-pm.fr CNAME .
+tr.mydevisentreprise.com CNAME .
 tr.n.info.cdgp.fr CNAME .
 tr.n.info.sygmabanque.fr CNAME .
 tr.nespresso.com CNAME .
@@ -297,6 +303,7 @@ tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
 tr.news.styles.lexpress.fr CNAME .
+tr.news.supercasino.fr CNAME .
 tr.news.teklifim.pro CNAME .
 tr.news.thelist-emirates.fr CNAME .
 tr.news.tiptel.fr CNAME .
@@ -422,6 +429,7 @@ tr.welcome.moncoupdepouce.com CNAME .
 tr.welcome.odalys-vacances.com CNAME .
 tr.welcome.thelist-emirates.fr CNAME .
 tr.welcome.vipmag.fr CNAME .
+tr.wycena-companeo.pl CNAME .
 tr.xleads.digital CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.mailperf.com CNAME .

@@ -19,6 +19,7 @@ activate.pacificsandiego.com CNAME .
 activate.platform.californiatimes.com CNAME .
 activate.ranchosantafereview.com CNAME .
 activate.sandiegouniontribune.com CNAME .
+activate.shopjustice.com CNAME .
 activate.suncorp.com.au CNAME .
 activate.tacdn.com CNAME .
 activate.united.com CNAME .
@@ -31,6 +32,7 @@ agility.ncaa.com CNAME .
 agility.tbs.com CNAME .
 agility.tcm.com CNAME .
 agility.tntdrama.com CNAME .
+agility.trutv.com CNAME .
 analytics.amica.com CNAME .
 analytics.carecredit.com CNAME .
 analytics.carecreditlearning.com CNAME .
@@ -60,6 +62,7 @@ assets1.suncorp.co.nz CNAME .
 assets1.suncorp.com.au CNAME .
 assets1.terrischeer.com.au CNAME .
 assets1.vero.co.nz CNAME .
+assets1.vero.com.au CNAME .
 attribution.saucony.com CNAME .
 attribution.sperry.com CNAME .
 attribution.theworks.co.uk CNAME .
@@ -88,6 +91,8 @@ cookies.jll.com.tr CNAME .
 cookies.jll.es CNAME .
 cookies.jll.fi CNAME .
 cookies.jll.it CNAME .
+cookies.jll.nl CNAME .
+cookies.jll.pe CNAME .
 cookies.jll.pl CNAME .
 cookies.jll.pt CNAME .
 cookies.jll.ru CNAME .
@@ -95,11 +100,20 @@ cookies.jll.sk CNAME .
 cookies.joneslanglasalle.co.jp CNAME .
 cookies.joneslanglasalle.com.cn CNAME .
 cookies.us.jll.com CNAME .
+data.ensightendemo.com CNAME .
 data.experian.co.uk CNAME .
 data.experianidentityservice.co.uk CNAME .
+data.ford.com CNAME .
 data.lincoln.com CNAME .
 data.privacy.ensighten.com CNAME .
+dc.darkhorsewine.com CNAME .
 dc.directv.com CNAME .
+dc.esterethyl.com CNAME .
+dc.jared.com CNAME .
+dc.kay.com CNAME .
+dc.kayoutlet.com CNAME .
+dc.sterlingjewelers.com CNAME .
+dc.volkswagen.com CNAME .
 dcf.espn.com CNAME .
 dcfdata.espn.com CNAME .
 ddc.statefarm.com CNAME .

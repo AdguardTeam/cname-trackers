@@ -16,6 +16,7 @@
 | tr.abo.cotemaison.fr | tracking.bp01.net |
 | tr.acq-pjms.fr | tracking.bp01.net |
 | tr.activeprospects.info | tracking.bp01.net |
+| tr.actu-companeo.com | tracking.bp01.net |
 | tr.actu.bricodepot.com | tracking.bp01.net |
 | tr.actualites.01net.com | tracking.bp01.net |
 | tr.actualites.bfmtv.com | tracking.bp01.net |
@@ -95,6 +96,7 @@
 | tr.contact.cereps.fr | tracking.bp01.net |
 | tr.contact.e-turf.fr | tracking.bp01.net |
 | tr.contact.makemelead.info | tracking.bp01.net |
+| tr.contact.stof.fr | tracking.bp01.net |
 | tr.contact.thelist-emirates.fr | tracking.bp01.net |
 | tr.contrat.location.boulanger.com | tracking.bp01.net |
 | tr.contrats.cetelem.fr | tracking.bp01.net |
@@ -103,6 +105,7 @@
 | tr.courrier.charentelibre.fr | tracking.bp01.net |
 | tr.courrier.larepubliquedespyrenees.fr | tracking.bp01.net |
 | tr.courrier.sudouest.fr | tracking.bp01.net |
+| tr.credito.universo.pt | tracking.bp01.net |
 | tr.devis-companeo.be | tracking.bp01.net |
 | tr.devis-companeo.com | tracking.bp01.net |
 | tr.devis-companeo.fr | tracking.bp01.net |
@@ -138,6 +141,7 @@
 | tr.emailing.canalplus.ch | tracking.bp01.net |
 | tr.emailing.canalplus.fr | tracking.bp01.net |
 | tr.emailing.cifea-mkg.com | tracking.bp01.net |
+| tr.emailing.cnam-paysdelaloire.fr | tracking.bp01.net |
 | tr.emailing.coe.int | tracking.bp01.net |
 | tr.emailing.detours.canal.fr | tracking.bp01.net |
 | tr.emailing.grassavoye.com | tracking.bp01.net |
@@ -185,6 +189,7 @@
 | tr.info.mavoiturecash.fr | tracking.bp01.net |
 | tr.info.mdbp.fr | tracking.bp01.net |
 | tr.info.mobibam.com | tracking.bp01.net |
+| tr.info.onboarding.corporatecards.bnpparibas | tracking.bp01.net |
 | tr.info.promoneuve.fr | tracking.bp01.net |
 | tr.info.rouen.aeroport.fr | tracking.bp01.net |
 | tr.info.rouen.cci.fr | tracking.bp01.net |
@@ -243,6 +248,7 @@
 | tr.mp.aconclue-business.fr | tracking.bp01.net |
 | tr.mp.aconclue-pro.com | tracking.bp01.net |
 | tr.mp.actu-pm.fr | tracking.bp01.net |
+| tr.mydevisentreprise.com | tracking.bp01.net |
 | tr.n.info.cdgp.fr | tracking.bp01.net |
 | tr.n.info.sygmabanque.fr | tracking.bp01.net |
 | tr.nespresso.com | tracking.bp01.net |
@@ -302,6 +308,7 @@
 | tr.news.smartdealstransavia-fr.com | tracking.bp01.net |
 | tr.news.sport2000.fr | tracking.bp01.net |
 | tr.news.styles.lexpress.fr | tracking.bp01.net |
+| tr.news.supercasino.fr | tracking.bp01.net |
 | tr.news.teklifim.pro | tracking.bp01.net |
 | tr.news.thelist-emirates.fr | tracking.bp01.net |
 | tr.news.tiptel.fr | tracking.bp01.net |
@@ -427,6 +434,7 @@
 | tr.welcome.odalys-vacances.com | tracking.bp01.net |
 | tr.welcome.thelist-emirates.fr | tracking.bp01.net |
 | tr.welcome.vipmag.fr | tracking.bp01.net |
+| tr.wycena-companeo.pl | tracking.bp01.net |
 | tr.xleads.digital | tracking.bp01.net |
 | tr1.citroen-ipsos.com | tracking.bp01.net |
 | tr1.mailperf.com | tracking.bp01.net |

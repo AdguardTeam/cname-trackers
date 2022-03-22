@@ -34,7 +34,6 @@
 a.hibbett.com
 ablink.1954.bk.com
 ablink.a.radio.com
-ablink.account.debut.careers
 ablink.account.quizlet.com
 ablink.account.zip.co
 ablink.activation.depop.com
@@ -117,7 +116,6 @@ ablink.mktg.almosafer.com
 ablink.mktg.tajawal.com
 ablink.msg.flipfit.com
 ablink.my.zip.co
-ablink.news.debut.careers
 ablink.news.felixmobile.com.au
 ablink.news.gimmeradio.com
 ablink.news.omio.com
@@ -291,10 +289,13 @@ ct.irl.co
 ct.irl.com
 ct.irlmail.org
 ctd.drivescore.com
+debug-inform.liilix.com
+deeplink.alpha.aspiration.com
 deeplink.aspiration.com
 deeplink.instacartemail.com
 deeplinks.padmapper.com
 deeplinks.zumper.com
+devtest.app-birdy.com
 dl-stage.zola.com
 dl.benefits.express-scripts.com
 dl.health-programs.express-scripts.com

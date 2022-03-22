@@ -19,6 +19,7 @@ activate.pacificsandiego.com
 activate.platform.californiatimes.com
 activate.ranchosantafereview.com
 activate.sandiegouniontribune.com
+activate.shopjustice.com
 activate.suncorp.com.au
 activate.tacdn.com
 activate.united.com
@@ -31,6 +32,7 @@ agility.ncaa.com
 agility.tbs.com
 agility.tcm.com
 agility.tntdrama.com
+agility.trutv.com
 analytics.amica.com
 analytics.carecredit.com
 analytics.carecreditlearning.com
@@ -60,6 +62,7 @@ assets1.suncorp.co.nz
 assets1.suncorp.com.au
 assets1.terrischeer.com.au
 assets1.vero.co.nz
+assets1.vero.com.au
 attribution.saucony.com
 attribution.sperry.com
 attribution.theworks.co.uk
@@ -88,6 +91,8 @@ cookies.jll.com.tr
 cookies.jll.es
 cookies.jll.fi
 cookies.jll.it
+cookies.jll.nl
+cookies.jll.pe
 cookies.jll.pl
 cookies.jll.pt
 cookies.jll.ru
@@ -95,11 +100,20 @@ cookies.jll.sk
 cookies.joneslanglasalle.co.jp
 cookies.joneslanglasalle.com.cn
 cookies.us.jll.com
+data.ensightendemo.com
 data.experian.co.uk
 data.experianidentityservice.co.uk
+data.ford.com
 data.lincoln.com
 data.privacy.ensighten.com
+dc.darkhorsewine.com
 dc.directv.com
+dc.esterethyl.com
+dc.jared.com
+dc.kay.com
+dc.kayoutlet.com
+dc.sterlingjewelers.com
+dc.volkswagen.com
 dcf.espn.com
 dcfdata.espn.com
 ddc.statefarm.com

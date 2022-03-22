@@ -147,6 +147,7 @@
     * netze-bw01.wt-eu02.net
     * obi-all.wt-eu02.net
     * paydirekt-de01.wt-eu02.net
+    * pepephonelive01.wt-eu02.net
     * prosiebensat1puls4.wt-eu02.net
     * sdkurier-de01.wt-eu02.net
     * sparda01.wt-eu02.net
@@ -182,6 +183,7 @@
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
 | data.mapp.com | 292595354576025.wt-eu02.net |
+| data.engelhorn.com | 302631813489498.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
 | a.hrewards.com | 307902509027183.wt-eu02.net |
 | a.intercityhotel.com | 307902509027183.wt-eu02.net |
@@ -376,6 +378,7 @@
 | ot.obi.si | obi-all.wt-eu02.net |
 | ot.obi.sk | obi-all.wt-eu02.net |
 | t.paydirekt.de | paydirekt-de01.wt-eu02.net |
+| data.pepephone.com | pepephonelive01.wt-eu02.net |
 | hbbtv-track.prosiebensat1puls4.com | prosiebensat1puls4.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |
 | proditor.sparda.de | sparda01.wt-eu02.net |

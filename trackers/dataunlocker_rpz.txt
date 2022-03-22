@@ -5,7 +5,6 @@
 ;
 0naqzso7re3p.tapmyback.com CNAME .
 11b6n4ty2x3.taxliencode.com CNAME .
-17aifrn7w6od.unstoppabledomains.com CNAME .
 1a715b8q5m3j.www.logology.co CNAME .
 1amehwchx31.bloxdhop.io CNAME .
 1iy4gu0lpkp.my.gloryleague.basketball CNAME .
@@ -18,7 +17,7 @@
 2rid9fii9chx.www.atlaslane.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 42qnuym6jsvn.www.cefirates.com CNAME .
-634lj7p7g3lv.unstoppabledomains.com CNAME .
+88j9q1o9vr5g.kvest.ee CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
 9i9dta97bhqp.www.cefirates.com CNAME .
@@ -27,6 +26,7 @@
 av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 bygr2ri20e4y.li.finance CNAME .
+cqz6fn6aox.aporia.com CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
 dxqugszyplls.www.earthclassmail.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
@@ -38,10 +38,9 @@ gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .
 hkhpnqciykaf.www.gamecamp.gg CNAME .
 j1kmigrhwjf4.angelacampos.es CNAME .
-jrai31gjloby.www.earthclassmail.com CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 l16tm2ide7bu.beta.tt.fm CNAME .
-lvdvpvn9q0bc.www.cefirates.com CNAME .
+lv6od3a4sz12.www.logology.co CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .

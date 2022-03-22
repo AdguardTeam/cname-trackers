@@ -34,7 +34,6 @@
 a.hibbett.com CNAME .
 ablink.1954.bk.com CNAME .
 ablink.a.radio.com CNAME .
-ablink.account.debut.careers CNAME .
 ablink.account.quizlet.com CNAME .
 ablink.account.zip.co CNAME .
 ablink.activation.depop.com CNAME .
@@ -117,7 +116,6 @@ ablink.mktg.almosafer.com CNAME .
 ablink.mktg.tajawal.com CNAME .
 ablink.msg.flipfit.com CNAME .
 ablink.my.zip.co CNAME .
-ablink.news.debut.careers CNAME .
 ablink.news.felixmobile.com.au CNAME .
 ablink.news.gimmeradio.com CNAME .
 ablink.news.omio.com CNAME .
@@ -291,10 +289,13 @@ ct.irl.co CNAME .
 ct.irl.com CNAME .
 ct.irlmail.org CNAME .
 ctd.drivescore.com CNAME .
+debug-inform.liilix.com CNAME .
+deeplink.alpha.aspiration.com CNAME .
 deeplink.aspiration.com CNAME .
 deeplink.instacartemail.com CNAME .
 deeplinks.padmapper.com CNAME .
 deeplinks.zumper.com CNAME .
+devtest.app-birdy.com CNAME .
 dl-stage.zola.com CNAME .
 dl.benefits.express-scripts.com CNAME .
 dl.health-programs.express-scripts.com CNAME .

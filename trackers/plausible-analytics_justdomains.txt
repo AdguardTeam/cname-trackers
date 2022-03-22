@@ -25,6 +25,7 @@ analytics.certifriedit.com
 analytics.churchthemes.com
 analytics.codeforscience.org
 analytics.codeskulptor.org
+analytics.dephibank.com
 analytics.dogecoin.gg
 analytics.dombesteindata.net
 analytics.explained-from-first-principles.com
@@ -144,6 +145,7 @@ pa.travelwhiz.app
 pan.render.com
 pine.nervecentral.com
 ping.cavelab.dev
+ping.naturadapt.com
 ping.richardtaylor.dev
 piostats.gdcorner.com
 pl.1feed.app
@@ -169,6 +171,7 @@ plauplauplau.app.budg.co
 plauplauplau.budg.co
 plaus.svelte.school
 plausdj2ajskljzx0ikwkiasible.ethics.info
+plausible.adreform.com
 plausible.amava.com
 plausible.as207960.net
 plausible.banovo.de
@@ -182,6 +185,7 @@ plausible.conveyal.com
 plausible.corbettbarr.com
 plausible.deploymentfromscratch.com
 plausible.dev.sketch.com
+plausible.doberman.co
 plausible.doctave.com
 plausible.ericgoebelbecker.com
 plausible.eurostocks.nl
@@ -248,6 +252,7 @@ plsbl.edison.se
 pm.redbull.com
 prism.raumgleiter.com
 pstat.akathists.com
+puls.smakujenam.pl
 rapido.idraetsmusik.dk
 retention.ankidecks.com
 s.80000hours.org
@@ -278,6 +283,7 @@ sp.jrklein.com
 sp.spaceomatic.fr
 spock.dom.codes
 stat.bill.harding.blog
+stat.landingpro.pl
 stat.tomdebruijn.com
 statistics.csweapons.com
 statistics.heatbeat.de
@@ -424,6 +430,7 @@ stats.innoq.com
 stats.instabudget.app
 stats.interactjs.io
 stats.intothebox.org
+stats.ipadhire.co.nz
 stats.iscc-system.org
 stats.ivankahl.com
 stats.jackwhiting.co.uk
@@ -527,7 +534,6 @@ stats.pianoplanet.app
 stats.pinoymusicstation.com
 stats.piranhas.co
 stats.pitstone.co.uk
-stats.pixify.net
 stats.pizzapizza.io
 stats.plastbest.cz
 stats.plastbest.sk
@@ -544,10 +550,12 @@ stats.print.work
 stats.profilehunt.net
 stats.pselookup.vrymel.com
 stats.qbitstore.nl
+stats.radicitoscane.it
 stats.radreiseglueck.de
 stats.raidprotect.org
 stats.rasulkireev.com
 stats.ravivyas.com
+stats.reactician.com
 stats.readers.cafe
 stats.readng.co
 stats.referralhero.com
@@ -662,6 +670,7 @@ track.slickinbox.com
 traffic.hostedstatus.page
 traffic.taktikal.is
 triton.companyegg.com
+views.sikerproducts.com
 visite.scambi.org
 visitors.asadis.net
 visits.quitsocialmedia.club

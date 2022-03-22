@@ -1,0 +1,10 @@
+!
+! Company name: GoDaddy
+!
+! ads.bid disguised trackers
+!
+||adv.ads2.bid^
+||arvb.ewtcbedtmx.ru^
+||avb-sing.ewtcbedtmx.ru^
+||avbr.13wynpuurt.ru^
+||sing.3h1fpq39jb.ru^

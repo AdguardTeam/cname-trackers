@@ -11,6 +11,7 @@
 ||tr.abo.cotemaison.fr^
 ||tr.acq-pjms.fr^
 ||tr.activeprospects.info^
+||tr.actu-companeo.com^
 ||tr.actu.bricodepot.com^
 ||tr.actualites.01net.com^
 ||tr.actualites.bfmtv.com^
@@ -90,6 +91,7 @@
 ||tr.contact.cereps.fr^
 ||tr.contact.e-turf.fr^
 ||tr.contact.makemelead.info^
+||tr.contact.stof.fr^
 ||tr.contact.thelist-emirates.fr^
 ||tr.contrat.location.boulanger.com^
 ||tr.contrats.cetelem.fr^
@@ -98,6 +100,7 @@
 ||tr.courrier.charentelibre.fr^
 ||tr.courrier.larepubliquedespyrenees.fr^
 ||tr.courrier.sudouest.fr^
+||tr.credito.universo.pt^
 ||tr.devis-companeo.be^
 ||tr.devis-companeo.com^
 ||tr.devis-companeo.fr^
@@ -133,6 +136,7 @@
 ||tr.emailing.canalplus.ch^
 ||tr.emailing.canalplus.fr^
 ||tr.emailing.cifea-mkg.com^
+||tr.emailing.cnam-paysdelaloire.fr^
 ||tr.emailing.coe.int^
 ||tr.emailing.detours.canal.fr^
 ||tr.emailing.grassavoye.com^
@@ -180,6 +184,7 @@
 ||tr.info.mavoiturecash.fr^
 ||tr.info.mdbp.fr^
 ||tr.info.mobibam.com^
+||tr.info.onboarding.corporatecards.bnpparibas^
 ||tr.info.promoneuve.fr^
 ||tr.info.rouen.aeroport.fr^
 ||tr.info.rouen.cci.fr^
@@ -238,6 +243,7 @@
 ||tr.mp.aconclue-business.fr^
 ||tr.mp.aconclue-pro.com^
 ||tr.mp.actu-pm.fr^
+||tr.mydevisentreprise.com^
 ||tr.n.info.cdgp.fr^
 ||tr.n.info.sygmabanque.fr^
 ||tr.nespresso.com^
@@ -297,6 +303,7 @@
 ||tr.news.smartdealstransavia-fr.com^
 ||tr.news.sport2000.fr^
 ||tr.news.styles.lexpress.fr^
+||tr.news.supercasino.fr^
 ||tr.news.teklifim.pro^
 ||tr.news.thelist-emirates.fr^
 ||tr.news.tiptel.fr^
@@ -422,6 +429,7 @@
 ||tr.welcome.odalys-vacances.com^
 ||tr.welcome.thelist-emirates.fr^
 ||tr.welcome.vipmag.fr^
+||tr.wycena-companeo.pl^
 ||tr.xleads.digital^
 ||tr1.citroen-ipsos.com^
 ||tr1.mailperf.com^

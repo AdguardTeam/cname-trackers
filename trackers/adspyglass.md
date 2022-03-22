@@ -147,6 +147,7 @@
 | dontblock.jaaavjavs1.buzz | 0i0i0i0.com |
 | dontblock.jav1jav2.buzz | 0i0i0i0.com |
 | dontblock.javjav1.buzz | 0i0i0i0.com |
+| dsfgp.admenhost.com | 0i0i0i0.com |
 | ebd.cda-hd.cc | 0i0i0i0.com |
 | eco.blendxxx.com | 0i0i0i0.com |
 | erfe.sexydev.dev | 0i0i0i0.com |
@@ -188,6 +189,7 @@
 | nav.srcdn.xyz | 0i0i0i0.com |
 | net.contoseroticoscnn.com | 0i0i0i0.com |
 | net.sexstories69.com | 0i0i0i0.com |
+| news.arad-daor.com | 0i0i0i0.com |
 | o313o.com | 0i0i0i0.com |
 | oi.fapnado.com | 0i0i0i0.com |
 | oi.fapnado.xxx | 0i0i0i0.com |

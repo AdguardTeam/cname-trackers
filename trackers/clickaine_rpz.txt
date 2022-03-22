@@ -1,0 +1,45 @@
+;
+; Company name: Clickaine
+;
+; api.clickaine.com disguised trackers
+;
+ad.arabsex1.com CNAME .
+api.rtnews.pro CNAME .
+api.willalland.info CNAME .
+app.rtnews.pro CNAME .
+app.willalland.info CNAME .
+c4n.ijerk.club CNAME .
+c4n.mypornovideos.com CNAME .
+c4n.myteentgp.com CNAME .
+c4n.xxx8.me CNAME .
+ca.xxxshame.com CNAME .
+cc.histoires-de-sexe-gratuites.com CNAME .
+cc.opowiadaniaerotyczne-darmowo.com CNAME .
+cc.pornorasskazy-intim.com CNAME .
+cc.pornorasskazy-xxx.com CNAME .
+cc.relatoseroticos-gratis.com CNAME .
+cc.sersh.com CNAME .
+cc.sex-stories-xxx.com CNAME .
+cc.sexgeschichten-klub.com CNAME .
+cc.sexgeschichten-kostenlos.com CNAME .
+cc.sexgeschichten-xxx.com CNAME .
+cc.sexstories-all.com CNAME .
+clkn.apostle.onl CNAME .
+clknrtrg.pro CNAME .
+cln.willyporn.com CNAME .
+cmd.maturexxxporno.net CNAME .
+cn4.animehdl.net CNAME .
+faq.brandnewapp.pro CNAME .
+flare.vtube.to CNAME .
+go.analsextuber.com CNAME .
+hruk.gumasi.top CNAME .
+hruk.jjikk.top CNAME .
+hruk.prikupok.com CNAME .
+hruk.prikupok.icu CNAME .
+icn.brandnewapp.pro CNAME .
+ps1.reallifecam.to CNAME .
+ps2.camcaps.to CNAME .
+snow.snowdayonline.xyz CNAME .
+wp.brandnewapp.pro CNAME .
+ww1.willalland.info CNAME .
+www.rtnews.pro CNAME .
