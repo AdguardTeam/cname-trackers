@@ -241,6 +241,7 @@ tr.mnoc.espmp-nifr.net
 tr.moja-wycena.pl
 tr.mondevis-pro.com
 tr.mp.aconclue-business.fr
+tr.mp.aconclue-entreprise.fr
 tr.mp.aconclue-pro.com
 tr.mp.actu-pm.fr
 tr.mydevisentreprise.com
@@ -327,6 +328,7 @@ tr.newsletter.leocare.eu
 tr.newsletter.location.boulanger.com
 tr.newsletter.meilleurmobile.com
 tr.newsletter.milleis.fr
+tr.newsletter.phyto.com
 tr.newsletter.younited-credit.com
 tr.newsletters.odalys-vacances.com
 tr.newsmarketing.allopneus.com

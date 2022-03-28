@@ -38,7 +38,6 @@ a.green-good-nice.site CNAME .
 a.hentaimotel.com CNAME .
 a.kagiti.club CNAME .
 a.katomu.club CNAME .
-a.kbjfree.com CNAME .
 a.letsjerk.org CNAME .
 a.letsjerk.to CNAME .
 a.neverbe.xyz CNAME .
@@ -184,6 +183,7 @@ makumva.all-usanomination.com CNAME .
 marcusdevs.ru CNAME .
 member.javtvnow.xyz CNAME .
 my.shymilftube.com CNAME .
+mydomainbest.com CNAME .
 nav.srcdn.xyz CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
@@ -220,6 +220,7 @@ sdg.fwtrck.com CNAME .
 search.cdn1.pro CNAME .
 sg.xclick24.com CNAME .
 shemale.house CNAME .
+slave.kbjfree.com CNAME .
 solutions.playernetca.top CNAME .
 spy.luvprn.com CNAME .
 spyglass.reklamko.pro CNAME .
@@ -238,7 +239,6 @@ uthbxvz.bestzba.com CNAME .
 v.focusde.info CNAME .
 v2pro.stbvip.net CNAME .
 vd.7vid.net CNAME .
-videocdn.name CNAME .
 vsx.hotpornfile.org CNAME .
 w00t.us CNAME .
 web.cinetux.nu CNAME .
@@ -249,7 +249,6 @@ ww.cvideos.stream CNAME .
 www.bigboy.monster CNAME .
 www.demstenes24.one CNAME .
 www.findnewline.com CNAME .
-www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.lechoncito.one CNAME .
 www.letstry69.xyz CNAME .
@@ -260,7 +259,6 @@ www4.hentaigamecg.com CNAME .
 www6.freeanimesource.com CNAME .
 www6.hentai-zone.com CNAME .
 www8.upload-pics.com CNAME .
-x1cdnad22.fin.ovh CNAME .
 x2sfa.javgg.eu CNAME .
 z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .

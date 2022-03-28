@@ -27,8 +27,9 @@ av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 bygr2ri20e4y.li.finance CNAME .
 cqz6fn6aox.aporia.com CNAME .
+din1j0su0u99.artwallstreet.io CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
-dxqugszyplls.www.earthclassmail.com CNAME .
+e1150tmri34u.www.earthclassmail.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
@@ -37,7 +38,10 @@ g8zao4slwe69.asenaru.id CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .
 hkhpnqciykaf.www.gamecamp.gg CNAME .
+iwl2d7pa4yx1.www.logology.co CNAME .
 j1kmigrhwjf4.angelacampos.es CNAME .
+k5rtkx84u7fd.www.cefirates.com CNAME .
+k5ygj3bivnrp.uae.revent.store CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 l16tm2ide7bu.beta.tt.fm CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
@@ -47,12 +51,13 @@ ouc82i67pytg.www.emanualonline.com CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 pg3b233p99sa.www.marketdata.app CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
-sv0pec59ktzm.unstoppabledomains.com CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 tos5dqejpd.www.freecodecamp.org CNAME .
 u3mgjck7ke28.www.cefirates.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
+umhadn49kldc.www.jeddd.com CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
+wiar9wff0ma9.ping.t3.gg CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
 ;

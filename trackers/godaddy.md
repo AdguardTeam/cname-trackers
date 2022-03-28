@@ -10,6 +10,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| abttss-ur.exolkkl6i2puvf.ru | lb.rtb.ads.bid |
 | adv.ads2.bid | lb.rtb.ads.bid |
 | arvb.ewtcbedtmx.ru | lb.rtb.ads.bid |
 | avbr.13wynpuurt.ru | lb.rtb.ads.bid |

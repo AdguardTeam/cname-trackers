@@ -40,6 +40,7 @@ a.gedidigital.it CNAME .
 a.hrewards.com CNAME .
 a.intercityhotel.com CNAME .
 a.jaz-hotel.com CNAME .
+a.maxxhotel.com CNAME .
 a.steigenberger.com CNAME .
 a.zleep.com CNAME .
 abc.bayer04.de CNAME .
@@ -196,6 +197,7 @@ web.bankofscotland.de CNAME .
 web.collisionservices.com CNAME .
 web.comunicazioni.iol.it CNAME .
 web.diebayerische.de CNAME .
+web.e.aldermore.co.uk CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.pragroup.co.uk CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .

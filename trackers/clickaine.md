@@ -16,6 +16,7 @@
 | c4n.ijerk.club | api.clickaine.com |
 | c4n.mypornovideos.com | api.clickaine.com |
 | c4n.myteentgp.com | api.clickaine.com |
+| c4n.watchpornonline.xyz | api.clickaine.com |
 | c4n.xxx8.me | api.clickaine.com |
 | ca.xxxshame.com | api.clickaine.com |
 | cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
@@ -29,6 +30,9 @@
 | cc.sexgeschichten-kostenlos.com | api.clickaine.com |
 | cc.sexgeschichten-xxx.com | api.clickaine.com |
 | cc.sexstories-all.com | api.clickaine.com |
+| cc.sexstories-hot.com | api.clickaine.com |
+| cc.sexverhalen-gratis.com | api.clickaine.com |
+| ck.zzipps.com | api.clickaine.com |
 | clkn.apostle.onl | api.clickaine.com |
 | clknrtrg.pro | api.clickaine.com |
 | cln.willyporn.com | api.clickaine.com |

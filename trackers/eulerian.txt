@@ -24,7 +24,6 @@
 ||ar.i-run.fr^
 ||azg1.emalu-store.com^
 ||b6ft.zone-turf.fr^
-||barp3.bordeaux.aeroport.fr^
 ||bch8.destinia.co^
 ||bdj5.terrassesmontecarlosbm.com^
 ||bft5.destinia.fr^
@@ -48,8 +47,6 @@
 ||csv4.ebs-paris.fr^
 ||ct5m.citadium.com^
 ||ctp1.bforbank.com^
-||d0f.le-dauphin.com^
-||d2u.dauphinquebec.com^
 ||def1.optimhome-recrutement.com^
 ||deut1.fdj.fr^
 ||di8n.bfmtv.com^
@@ -67,7 +64,6 @@
 ||ea.auchantelecom.fr^
 ||ea.audika.com^
 ||ea.catimini.com^
-||ea.celio.com^
 ||ea.ciblo.net^
 ||ea.coffrefortplus.com^
 ||ea.comprendrechoisir.com^
@@ -110,6 +106,7 @@
 ||ea.odalys-vacances.com^
 ||ea.odalys-vacation-rental.com^
 ||ea.onestep-boutique.com^
+||ea.online.carrefour.fr^
 ||ea.placedestendances.com^
 ||ea.poeleaboismaison.com^
 ||ea.quiksilver.eu^
@@ -139,6 +136,7 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
+||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||eule1.pmu.fr^
 ||eule3.pmu.fr^
@@ -184,6 +182,7 @@
 ||gdm1.toner.fr^
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
+||gi7a.structube.com^
 ||guq9.vente-unique.it^
 ||gwtc.sfr.fr^
 ||h00c.sfr.fr^
@@ -191,7 +190,6 @@
 ||hby7.destinia.it^
 ||he6e.lavieimmo.com^
 ||hgf4.zanzicar.fr^
-||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^
@@ -254,7 +252,6 @@
 ||ogb2.leanatureboutique.com^
 ||ogb2.natessance.com^
 ||ojm4.palladiumhotelgroup.com^
-||oor.ooreka.fr^
 ||oph7o.montecarlosbm-corporate.com^
 ||oqr4.destinia.in^
 ||p.pmu.fr^
@@ -322,7 +319,6 @@
 ||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
-||tdf1.admyjob.com^
 ||tdf1.easyviaggio.com^
 ||tdf1.easyviajar.com^
 ||tdf1.easyvols.fr^
@@ -384,6 +380,8 @@
 ||b1n.carabins.umontreal.ca^
 ||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^
+||d0f.le-dauphin.com^
+||d2u.dauphinquebec.com^
 ||eat9.thebeat925.ca^
 ||erb.tremblant.ca^
 ||hk2d.tourismemauricie.com^

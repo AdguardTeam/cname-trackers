@@ -57,7 +57,6 @@
 | analytics.ss88.us | custom.plausible.io |
 | analytics.surov.fi | custom.plausible.io |
 | analytics.sweep.net | custom.plausible.io |
-| analytics.teamcovenant.com | custom.plausible.io |
 | analytics.top10-charts.com | custom.plausible.io |
 | analytics.trust.page | custom.plausible.io |
 | analytics.uxmetrics.com | custom.plausible.io |
@@ -174,7 +173,6 @@
 | plau.swissdevjobs.ch | custom.plausible.io |
 | plauplauplau.app.budg.co | custom.plausible.io |
 | plauplauplau.budg.co | custom.plausible.io |
-| plaus.svelte.school | custom.plausible.io |
 | plausdj2ajskljzx0ikwkiasible.ethics.info | custom.plausible.io |
 | plausible.adreform.com | custom.plausible.io |
 | plausible.amava.com | custom.plausible.io |
@@ -195,6 +193,7 @@
 | plausible.ericgoebelbecker.com | custom.plausible.io |
 | plausible.eurostocks.nl | custom.plausible.io |
 | plausible.executeprogram.com | custom.plausible.io |
+| plausible.exploreandcreate.com | custom.plausible.io |
 | plausible.f1laps.com | custom.plausible.io |
 | plausible.factly.in | custom.plausible.io |
 | plausible.flowcv.io | custom.plausible.io |
@@ -245,7 +244,6 @@
 | plausible.sysloun.cz | custom.plausible.io |
 | plausible.tac.dappstar.io | custom.plausible.io |
 | plausible.test.sketch.com | custom.plausible.io |
-| plausible.therubaiyatofomarkhayyam.com | custom.plausible.io |
 | plausible.urbanekuensteruhr.de | custom.plausible.io |
 | plausible.vaughanesports.org | custom.plausible.io |
 | plausible.viteshot.com | custom.plausible.io |
@@ -417,6 +415,7 @@
 | stats.hexdocs.pm | custom.plausible.io |
 | stats.hey.com | custom.plausible.io |
 | stats.hey.science | custom.plausible.io |
+| stats.homeandgardenmakeover.com | custom.plausible.io |
 | stats.homerdixon.com | custom.plausible.io |
 | stats.homestow.com | custom.plausible.io |
 | stats.hone.uk | custom.plausible.io |
@@ -493,7 +492,6 @@
 | stats.missionrabies.com | custom.plausible.io |
 | stats.mkwtas.com | custom.plausible.io |
 | stats.mmazzarolo.com | custom.plausible.io |
-| stats.moderncoupmake.com | custom.plausible.io |
 | stats.motion-effect.com | custom.plausible.io |
 | stats.motornation.net | custom.plausible.io |
 | stats.mtsknn.fi | custom.plausible.io |
@@ -594,6 +592,7 @@
 | stats.siedentop.dev | custom.plausible.io |
 | stats.sirdata.com | custom.plausible.io |
 | stats.ski.com | custom.plausible.io |
+| stats.socialeurope.eu | custom.plausible.io |
 | stats.sommselect.com | custom.plausible.io |
 | stats.songbox.rocks | custom.plausible.io |
 | stats.soundbite.so | custom.plausible.io |

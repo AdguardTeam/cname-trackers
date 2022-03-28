@@ -46,6 +46,7 @@
     * johannes-voith-com-cddc.at-o.net
     * kallerupstone-viessmann-dk-cddc.at-o.net
     * kiki-rireetchansons-fr-cddc.at-o.net
+    * kistacity-viessmann-se-cddc.at-o.net
     * lem-nouvelobs-com-cddc.at-o.net
     * logs1257-at-pagesjaunes-fr-cddc.at-o.net
     * mango-seloger-com-cddc.at-o.net
@@ -141,6 +142,7 @@
 | johannes.voith.com | johannes-voith-com-cddc.at-o.net |
 | kallerupstone.viessmann.dk | kallerupstone-viessmann-dk-cddc.at-o.net |
 | kiki.rireetchansons.fr | kiki-rireetchansons-fr-cddc.at-o.net |
+| kistacity.viessmann.se | kistacity-viessmann-se-cddc.at-o.net |
 | lem.nouvelobs.com | lem-nouvelobs-com-cddc.at-o.net |
 | logs1257.at.pagesjaunes.fr | logs1257-at-pagesjaunes-fr-cddc.at-o.net |
 | mango.seloger.com | mango-seloger-com-cddc.at-o.net |

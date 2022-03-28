@@ -52,7 +52,6 @@ analytics.southjerseyquakers.org
 analytics.ss88.us
 analytics.surov.fi
 analytics.sweep.net
-analytics.teamcovenant.com
 analytics.top10-charts.com
 analytics.trust.page
 analytics.uxmetrics.com
@@ -169,7 +168,6 @@ plau.germantechjobs.de
 plau.swissdevjobs.ch
 plauplauplau.app.budg.co
 plauplauplau.budg.co
-plaus.svelte.school
 plausdj2ajskljzx0ikwkiasible.ethics.info
 plausible.adreform.com
 plausible.amava.com
@@ -190,6 +188,7 @@ plausible.doctave.com
 plausible.ericgoebelbecker.com
 plausible.eurostocks.nl
 plausible.executeprogram.com
+plausible.exploreandcreate.com
 plausible.f1laps.com
 plausible.factly.in
 plausible.flowcv.io
@@ -240,7 +239,6 @@ plausible.strzibny.name
 plausible.sysloun.cz
 plausible.tac.dappstar.io
 plausible.test.sketch.com
-plausible.therubaiyatofomarkhayyam.com
 plausible.urbanekuensteruhr.de
 plausible.vaughanesports.org
 plausible.viteshot.com
@@ -412,6 +410,7 @@ stats.hex.pm
 stats.hexdocs.pm
 stats.hey.com
 stats.hey.science
+stats.homeandgardenmakeover.com
 stats.homerdixon.com
 stats.homestow.com
 stats.hone.uk
@@ -488,7 +487,6 @@ stats.michaell.io
 stats.missionrabies.com
 stats.mkwtas.com
 stats.mmazzarolo.com
-stats.moderncoupmake.com
 stats.motion-effect.com
 stats.motornation.net
 stats.mtsknn.fi
@@ -589,6 +587,7 @@ stats.shoutout.so
 stats.siedentop.dev
 stats.sirdata.com
 stats.ski.com
+stats.socialeurope.eu
 stats.sommselect.com
 stats.songbox.rocks
 stats.soundbite.so

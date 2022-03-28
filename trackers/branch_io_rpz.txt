@@ -510,6 +510,7 @@ links.ph.discoveryplus.com CNAME .
 links.playon.tv CNAME .
 links.schnucks.com CNAME .
 links.sheroes.in CNAME .
+links.shipt.com CNAME .
 links.shoppers.instacartemail.com CNAME .
 links.strava.com CNAME .
 links.t.blueapron.com CNAME .
@@ -585,6 +586,7 @@ url1451.careerkarma.info CNAME .
 url3630.newsletter.experience-muse.com CNAME .
 url7424.email.readytotravel.com CNAME .
 url7542.fluz.app CNAME .
+url7674.fitgenieapp.com CNAME .
 url7962.careerkarma.io CNAME .
 url8196.mindrise.app CNAME .
 url9576.oneshift.com CNAME .

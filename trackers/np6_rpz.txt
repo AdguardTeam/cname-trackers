@@ -241,6 +241,7 @@ tr.mnoc.espmp-nifr.net CNAME .
 tr.moja-wycena.pl CNAME .
 tr.mondevis-pro.com CNAME .
 tr.mp.aconclue-business.fr CNAME .
+tr.mp.aconclue-entreprise.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
 tr.mp.actu-pm.fr CNAME .
 tr.mydevisentreprise.com CNAME .
@@ -327,6 +328,7 @@ tr.newsletter.leocare.eu CNAME .
 tr.newsletter.location.boulanger.com CNAME .
 tr.newsletter.meilleurmobile.com CNAME .
 tr.newsletter.milleis.fr CNAME .
+tr.newsletter.phyto.com CNAME .
 tr.newsletter.younited-credit.com CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .

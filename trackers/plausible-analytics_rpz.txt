@@ -52,7 +52,6 @@ analytics.southjerseyquakers.org CNAME .
 analytics.ss88.us CNAME .
 analytics.surov.fi CNAME .
 analytics.sweep.net CNAME .
-analytics.teamcovenant.com CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
@@ -169,7 +168,6 @@ plau.germantechjobs.de CNAME .
 plau.swissdevjobs.ch CNAME .
 plauplauplau.app.budg.co CNAME .
 plauplauplau.budg.co CNAME .
-plaus.svelte.school CNAME .
 plausdj2ajskljzx0ikwkiasible.ethics.info CNAME .
 plausible.adreform.com CNAME .
 plausible.amava.com CNAME .
@@ -190,6 +188,7 @@ plausible.doctave.com CNAME .
 plausible.ericgoebelbecker.com CNAME .
 plausible.eurostocks.nl CNAME .
 plausible.executeprogram.com CNAME .
+plausible.exploreandcreate.com CNAME .
 plausible.f1laps.com CNAME .
 plausible.factly.in CNAME .
 plausible.flowcv.io CNAME .
@@ -240,7 +239,6 @@ plausible.strzibny.name CNAME .
 plausible.sysloun.cz CNAME .
 plausible.tac.dappstar.io CNAME .
 plausible.test.sketch.com CNAME .
-plausible.therubaiyatofomarkhayyam.com CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.vaughanesports.org CNAME .
 plausible.viteshot.com CNAME .
@@ -412,6 +410,7 @@ stats.hex.pm CNAME .
 stats.hexdocs.pm CNAME .
 stats.hey.com CNAME .
 stats.hey.science CNAME .
+stats.homeandgardenmakeover.com CNAME .
 stats.homerdixon.com CNAME .
 stats.homestow.com CNAME .
 stats.hone.uk CNAME .
@@ -488,7 +487,6 @@ stats.michaell.io CNAME .
 stats.missionrabies.com CNAME .
 stats.mkwtas.com CNAME .
 stats.mmazzarolo.com CNAME .
-stats.moderncoupmake.com CNAME .
 stats.motion-effect.com CNAME .
 stats.motornation.net CNAME .
 stats.mtsknn.fi CNAME .
@@ -589,6 +587,7 @@ stats.shoutout.so CNAME .
 stats.siedentop.dev CNAME .
 stats.sirdata.com CNAME .
 stats.ski.com CNAME .
+stats.socialeurope.eu CNAME .
 stats.sommselect.com CNAME .
 stats.songbox.rocks CNAME .
 stats.soundbite.so CNAME .

@@ -246,6 +246,7 @@
 | tr.moja-wycena.pl | tracking.bp01.net |
 | tr.mondevis-pro.com | tracking.bp01.net |
 | tr.mp.aconclue-business.fr | tracking.bp01.net |
+| tr.mp.aconclue-entreprise.fr | tracking.bp01.net |
 | tr.mp.aconclue-pro.com | tracking.bp01.net |
 | tr.mp.actu-pm.fr | tracking.bp01.net |
 | tr.mydevisentreprise.com | tracking.bp01.net |
@@ -332,6 +333,7 @@
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |
 | tr.newsletter.meilleurmobile.com | tracking.bp01.net |
 | tr.newsletter.milleis.fr | tracking.bp01.net |
+| tr.newsletter.phyto.com | tracking.bp01.net |
 | tr.newsletter.younited-credit.com | tracking.bp01.net |
 | tr.newsletters.odalys-vacances.com | tracking.bp01.net |
 | tr.newsmarketing.allopneus.com | tracking.bp01.net |

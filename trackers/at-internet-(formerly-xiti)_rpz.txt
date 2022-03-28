@@ -47,6 +47,7 @@ insights.sport1.de CNAME .
 johannes.voith.com CNAME .
 kallerupstone.viessmann.dk CNAME .
 kiki.rireetchansons.fr CNAME .
+kistacity.viessmann.se CNAME .
 lem.nouvelobs.com CNAME .
 logs1257.at.pagesjaunes.fr CNAME .
 mango.seloger.com CNAME .

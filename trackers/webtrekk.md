@@ -78,6 +78,7 @@
     * 600483262075260.wt-eu02.net
     * 602849465568863.wt-eu02.net
     * 611716061616237.wt-eu02.net
+    * 625009642816718.wt-eu02.net
     * 626892113650542.wt-eu02.net
     * 637394170883823.wt-eu02.net
     * 639871942536313.wt-eu02.net
@@ -188,6 +189,7 @@
 | a.hrewards.com | 307902509027183.wt-eu02.net |
 | a.intercityhotel.com | 307902509027183.wt-eu02.net |
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |
+| a.maxxhotel.com | 307902509027183.wt-eu02.net |
 | a.steigenberger.com | 307902509027183.wt-eu02.net |
 | a.zleep.com | 307902509027183.wt-eu02.net |
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
@@ -220,6 +222,7 @@
 | web.mapp.tretti.se | 600483262075260.wt-eu02.net |
 | web.email.farrow-ball.com | 602849465568863.wt-eu02.net |
 | census.misterspex.es | 611716061616237.wt-eu02.net |
+| web.e.aldermore.co.uk | 625009642816718.wt-eu02.net |
 | census.misterspex.ch | 626892113650542.wt-eu02.net |
 | wbtrkk.teufelaudio.at | 637394170883823.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |

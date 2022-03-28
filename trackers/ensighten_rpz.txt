@@ -88,6 +88,7 @@ cookies.jll.com.my CNAME .
 cookies.jll.com.ph CNAME .
 cookies.jll.com.sg CNAME .
 cookies.jll.com.tr CNAME .
+cookies.jll.de CNAME .
 cookies.jll.es CNAME .
 cookies.jll.fi CNAME .
 cookies.jll.it CNAME .

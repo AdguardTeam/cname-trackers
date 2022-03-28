@@ -90,6 +90,7 @@ a8clk.mobile-norikae.com CNAME .
 a8clk.muumuu-domain.com CNAME .
 a8clk.nenga-kazoku.com CNAME .
 a8clk.netowl.jp CNAME .
+a8clk.onemile.jp CNAME .
 a8clk.order.lpio.jp CNAME .
 a8clk.osoujihonpo.com CNAME .
 a8clk.petitjob.jp CNAME .
@@ -109,6 +110,7 @@ a8clk.tanp.jp CNAME .
 a8clk.teacon.jp CNAME .
 a8clk.titivate.jp CNAME .
 a8clk.ur-s.me CNAME .
+a8clk.voice-inc.co.jp CNAME .
 a8clk.wi-ho.net CNAME .
 a8clk.www.cledepeau-beaute.com CNAME .
 a8clk.www.clip-studio.com CNAME .
@@ -230,6 +232,7 @@ cv.online.ysroad.co.jp CNAME .
 cv.ryoutuki-kyujin.com CNAME .
 cv.shiryoku1.com CNAME .
 cv.subscription-store.com CNAME .
+cv.sumaho-hoken.jp CNAME .
 cv.web-sana.com CNAME .
 cv.xn--zbs202g.com CNAME .
 cv.zephylrin-w.com CNAME .

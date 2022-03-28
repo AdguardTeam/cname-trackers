@@ -90,6 +90,7 @@ a8clk.mobile-norikae.com
 a8clk.muumuu-domain.com
 a8clk.nenga-kazoku.com
 a8clk.netowl.jp
+a8clk.onemile.jp
 a8clk.order.lpio.jp
 a8clk.osoujihonpo.com
 a8clk.petitjob.jp
@@ -109,6 +110,7 @@ a8clk.tanp.jp
 a8clk.teacon.jp
 a8clk.titivate.jp
 a8clk.ur-s.me
+a8clk.voice-inc.co.jp
 a8clk.wi-ho.net
 a8clk.www.cledepeau-beaute.com
 a8clk.www.clip-studio.com
@@ -230,6 +232,7 @@ cv.online.ysroad.co.jp
 cv.ryoutuki-kyujin.com
 cv.shiryoku1.com
 cv.subscription-store.com
+cv.sumaho-hoken.jp
 cv.web-sana.com
 cv.xn--zbs202g.com
 cv.zephylrin-w.com

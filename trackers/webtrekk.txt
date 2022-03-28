@@ -40,6 +40,7 @@
 ||a.hrewards.com^
 ||a.intercityhotel.com^
 ||a.jaz-hotel.com^
+||a.maxxhotel.com^
 ||a.steigenberger.com^
 ||a.zleep.com^
 ||abc.bayer04.de^
@@ -196,6 +197,7 @@
 ||web.collisionservices.com^
 ||web.comunicazioni.iol.it^
 ||web.diebayerische.de^
+||web.e.aldermore.co.uk^
 ||web.email.farrow-ball.com^
 ||web.email.pragroup.co.uk^
 ||web.email.theindependentpharmacy.co.uk^

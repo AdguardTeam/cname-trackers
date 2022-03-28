@@ -44,7 +44,6 @@
 | a.hentaimotel.com | 0i0i0i0.com |
 | a.kagiti.club | 0i0i0i0.com |
 | a.katomu.club | 0i0i0i0.com |
-| a.kbjfree.com | 0i0i0i0.com |
 | a.letsjerk.org | 0i0i0i0.com |
 | a.letsjerk.to | 0i0i0i0.com |
 | a.neverbe.xyz | 0i0i0i0.com |
@@ -186,6 +185,7 @@
 | marcusdevs.ru | 0i0i0i0.com |
 | member.javtvnow.xyz | 0i0i0i0.com |
 | my.shymilftube.com | 0i0i0i0.com |
+| mydomainbest.com | 0i0i0i0.com |
 | nav.srcdn.xyz | 0i0i0i0.com |
 | net.contoseroticoscnn.com | 0i0i0i0.com |
 | net.sexstories69.com | 0i0i0i0.com |
@@ -222,6 +222,7 @@
 | search.cdn1.pro | 0i0i0i0.com |
 | sg.xclick24.com | 0i0i0i0.com |
 | shemale.house | 0i0i0i0.com |
+| slave.kbjfree.com | 0i0i0i0.com |
 | solutions.playernetca.top | 0i0i0i0.com |
 | spy.luvprn.com | 0i0i0i0.com |
 | spyglass.reklamko.pro | 0i0i0i0.com |
@@ -240,7 +241,6 @@
 | v.focusde.info | 0i0i0i0.com |
 | v2pro.stbvip.net | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
-| videocdn.name | 0i0i0i0.com |
 | vsx.hotpornfile.org | 0i0i0i0.com |
 | w00t.us | 0i0i0i0.com |
 | web.cinetux.nu | 0i0i0i0.com |
@@ -251,7 +251,6 @@
 | www.bigboy.monster | 0i0i0i0.com |
 | www.demstenes24.one | 0i0i0i0.com |
 | www.findnewline.com | 0i0i0i0.com |
-| www.healmsuoguurd.eu | 0i0i0i0.com |
 | www.lechoncito.one | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
 | www.sex1.party | 0i0i0i0.com |
@@ -261,7 +260,6 @@
 | www6.freeanimesource.com | 0i0i0i0.com |
 | www6.hentai-zone.com | 0i0i0i0.com |
 | www8.upload-pics.com | 0i0i0i0.com |
-| x1cdnad22.fin.ovh | 0i0i0i0.com |
 | x2sfa.javgg.eu | 0i0i0i0.com |
 | z0000g.yvmads.com | 0i0i0i0.com |
 | zazu.vtube.to | 0i0i0i0.com |

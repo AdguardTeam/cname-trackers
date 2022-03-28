@@ -7,7 +7,6 @@ ilove.volusion.com CNAME .
 refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.ancestry.com CNAME .
-refer.aol.com CNAME .
 refer.clearme.com CNAME .
 refer.discover.com CNAME .
 refer.dna.ancestry.co.uk CNAME .
@@ -26,6 +25,7 @@ refer.timberland.com CNAME .
 refer.vonage.com CNAME .
 refer.xoom.com CNAME .
 referral.hostgator.com CNAME .
+share.na.sage.com CNAME .
 share.vimeo.com CNAME .
 tellapal.register.com CNAME .
 ;
