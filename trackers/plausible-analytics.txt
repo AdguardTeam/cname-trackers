@@ -16,7 +16,6 @@
 ||a.visitefoz.com.br^
 ||also.greatsecuritydebate.net^
 ||analytics.adam.page^
-||analytics.adamstoner.com^
 ||analytics.adonisjs.com^
 ||analytics.arunraghavan.net^
 ||analytics.basistheory.com^
@@ -27,7 +26,6 @@
 ||analytics.codeskulptor.org^
 ||analytics.dephibank.com^
 ||analytics.dogecoin.gg^
-||analytics.dombesteindata.net^
 ||analytics.explained-from-first-principles.com^
 ||analytics.fatalparadox.com^
 ||analytics.gamedatacrunch.com^
@@ -52,6 +50,7 @@
 ||analytics.ss88.us^
 ||analytics.surov.fi^
 ||analytics.sweep.net^
+||analytics.teamcovenant.com^
 ||analytics.top10-charts.com^
 ||analytics.trust.page^
 ||analytics.uxmetrics.com^
@@ -87,7 +86,6 @@
 ||connect.adkhifi.com^
 ||connect.astrobotanicals.com^
 ||connect.ftpresents.com^
-||connect.tommyroxmusic.com^
 ||connect.virtuesofthevine.com^
 ||counter.cropvid.com^
 ||counter.proxycrawl.com^
@@ -187,7 +185,6 @@
 ||plausible.doctave.com^
 ||plausible.ericgoebelbecker.com^
 ||plausible.eurostocks.nl^
-||plausible.executeprogram.com^
 ||plausible.exploreandcreate.com^
 ||plausible.f1laps.com^
 ||plausible.factly.in^
@@ -295,7 +292,6 @@
 ||stats.alleaktien.de^
 ||stats.am.ai^
 ||stats.amiibo.life^
-||stats.app.plock.fi^
 ||stats.arquido.com^
 ||stats.artefact.space^
 ||stats.baptistwomen.com^
@@ -443,6 +439,7 @@
 ||stats.johnmac.pro^
 ||stats.justanotherpm.com^
 ||stats.justinwilliams.ca^
+||stats.kafarowski.com^
 ||stats.kejk.tech^
 ||stats.kensho.com^
 ||stats.kettlebellbundle.com^
@@ -524,7 +521,6 @@
 ||stats.paysagistes.pro^
 ||stats.pebkac.io^
 ||stats.pep20.org^
-||stats.personalkollen.se^
 ||stats.phelsumagrandis.de^
 ||stats.phili.pe^
 ||stats.photovisionprints.com^
@@ -535,7 +531,6 @@
 ||stats.pizzapizza.io^
 ||stats.plastbest.cz^
 ||stats.plastbest.sk^
-||stats.plock.fi^
 ||stats.poesieundgenuss.com^
 ||stats.pointflottant.com^
 ||stats.polekatfitness.com^
@@ -637,7 +632,6 @@
 ||stats.vanityprojects.com^
 ||stats.vdsnow.ru^
 ||stats.visions.ch^
-||stats.vngameden.com^
 ||stats.voltamediahouse.com^
 ||stats.walkiees.co.uk^
 ||stats.westswindon-pc.gov.uk^

@@ -253,6 +253,7 @@
 | tr.n.info.cdgp.fr | tracking.bp01.net |
 | tr.n.info.sygmabanque.fr | tracking.bp01.net |
 | tr.nespresso.com | tracking.bp01.net |
+| tr.new.offres-cartegie.fr | tracking.bp01.net |
 | tr.news-chocolat.com | tracking.bp01.net |
 | tr.news-companeo.fr | tracking.bp01.net |
 | tr.news-companeo.mx | tracking.bp01.net |
@@ -351,6 +352,7 @@
 | tr.notification.cetelem.fr | tracking.bp01.net |
 | tr.notification.credit-moderne.fr | tracking.bp01.net |
 | tr.notification.norrsken.fr | tracking.bp01.net |
+| tr.np6.co.uk | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |
 | tr.observatoire.musee-orsay.fr | tracking.bp01.net |
 | tr.ofertas-companeo.es | tracking.bp01.net |
@@ -366,6 +368,7 @@
 | tr.orcamentos-companeo.pt | tracking.bp01.net |
 | tr.panels-mediametrie.fr | tracking.bp01.net |
 | tr.partenaire.manageo.info | tracking.bp01.net |
+| tr.particuliers8.engie.com | tracking.bp01.net |
 | tr.pole-emploi-services.com | tracking.bp01.net |
 | tr.policyexpert.info | tracking.bp01.net |
 | tr.politicolive.eu | tracking.bp01.net |
@@ -378,6 +381,7 @@
 | tr.qualitaetsumfrage.com | tracking.bp01.net |
 | tr.qualitaveicolo.com | tracking.bp01.net |
 | tr.qualite.groupebarriere.com | tracking.bp01.net |
+| tr.qualitevehicule.fr | tracking.bp01.net |
 | tr.qualityvehiclesurvey.com | tracking.bp01.net |
 | tr.quotes.digital | tracking.bp01.net |
 | tr.quotes4business.info | tracking.bp01.net |

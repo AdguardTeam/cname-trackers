@@ -16,3 +16,4 @@
 | avbr.13wynpuurt.ru | lb.rtb.ads.bid |
 | avb-sing.ewtcbedtmx.ru | sing.lb.rtb.ads.bid |
 | sing.3h1fpq39jb.ru | sing.lb.rtb.ads.bid |
+| sing.wcoeaykv78.ru | sing.lb.rtb.ads.bid |

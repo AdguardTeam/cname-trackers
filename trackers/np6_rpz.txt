@@ -248,6 +248,7 @@ tr.mydevisentreprise.com CNAME .
 tr.n.info.cdgp.fr CNAME .
 tr.n.info.sygmabanque.fr CNAME .
 tr.nespresso.com CNAME .
+tr.new.offres-cartegie.fr CNAME .
 tr.news-chocolat.com CNAME .
 tr.news-companeo.fr CNAME .
 tr.news-companeo.mx CNAME .
@@ -346,6 +347,7 @@ tr.notification.cdiscount.com CNAME .
 tr.notification.cetelem.fr CNAME .
 tr.notification.credit-moderne.fr CNAME .
 tr.notification.norrsken.fr CNAME .
+tr.np6.co.uk CNAME .
 tr.np6.com CNAME .
 tr.observatoire.musee-orsay.fr CNAME .
 tr.ofertas-companeo.es CNAME .
@@ -361,6 +363,7 @@ tr.orange-lease.fr CNAME .
 tr.orcamentos-companeo.pt CNAME .
 tr.panels-mediametrie.fr CNAME .
 tr.partenaire.manageo.info CNAME .
+tr.particuliers8.engie.com CNAME .
 tr.pole-emploi-services.com CNAME .
 tr.policyexpert.info CNAME .
 tr.politicolive.eu CNAME .
@@ -373,6 +376,7 @@ tr.projet.cotemaison.fr CNAME .
 tr.qualitaetsumfrage.com CNAME .
 tr.qualitaveicolo.com CNAME .
 tr.qualite.groupebarriere.com CNAME .
+tr.qualitevehicule.fr CNAME .
 tr.qualityvehiclesurvey.com CNAME .
 tr.quotes.digital CNAME .
 tr.quotes4business.info CNAME .

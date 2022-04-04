@@ -3,6 +3,7 @@
 !
 ! thirdparty.bnc.lt disguised trackers
 !
+||11959579.fun.joyrun.com^
 ||18052925.im.intermiles.com^
 ||19035924.automated.almosafer.com^
 ||19035924.email.almosafer.com^
@@ -126,7 +127,6 @@
 ||ablink.notifications.br.live^
 ||ablink.notify.homecourt.ai^
 ||ablink.notify.pray.com^
-||ablink.nz-edm.zip.co^
 ||ablink.o.sofi.org^
 ||ablink.offers.checkout51.com^
 ||ablink.offers.grassdoor.com^
@@ -193,6 +193,7 @@
 ||b.lyst.com^
 ||b.prod1.youroffers.dominos.ca^
 ||b.your.offers.dominos.com^
+||bclicks.lyst.com^
 ||bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au^
 ||bit.beformance.com^
 ||bk.atumanera.burgerking.com.mx^
@@ -278,6 +279,7 @@
 ||clicks.metronautapp.com^
 ||clicks.point.app^
 ||clicks.staging.worldremit.com^
+||clicks.tunein.com^
 ||clicks.variis.com^
 ||clicktrack.cmnetwork.co^
 ||clk.mindfulsuite.com^
@@ -320,6 +322,7 @@
 ||email.clearscore.com.au^
 ||email.everyonesocial.circle.com^
 ||email.everyonesocial.r3.com^
+||email.everyonesocial.rubrik.com^
 ||email.everyonesocial.united.com^
 ||email.everyonesocial.unity.com^
 ||email.fretello.com^
@@ -410,7 +413,6 @@
 ||link.marketing.churchomeglobal.org^
 ||link.mktg.almosafer.com^
 ||link.mktg.tajawal.com^
-||link.moodagent.com^
 ||link.mypostcard.com^
 ||link.nbcadmin.com^
 ||link.news.bleacherreport.com^

@@ -9,3 +9,4 @@ arvb.ewtcbedtmx.ru CNAME .
 avb-sing.ewtcbedtmx.ru CNAME .
 avbr.13wynpuurt.ru CNAME .
 sing.3h1fpq39jb.ru CNAME .
+sing.wcoeaykv78.ru CNAME .

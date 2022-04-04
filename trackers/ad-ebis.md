@@ -117,6 +117,7 @@
     * 93c1009e-6pusefyf.cname.ebis.ne.jp
     * 9473cf8f-gaz6wmaw.cname.ebis.ne.jp
     * 9473cf8f-y4rfthkp.cname.ebis.ne.jp
+    * 9545ff72-f16cbhzj.cname.ebis.ne.jp
     * 95e65062-vpau4sdp.cname.ebis.ne.jp
     * 95e65062-y5awr3vc.cname.ebis.ne.jp
     * 98463bc9-scxitlgt.cname.ebis.ne.jp
@@ -196,6 +197,7 @@
     * f199b50c-gy66xg6s.cname.ebis.ne.jp
     * f3054804-quxzshgd.cname.ebis.ne.jp
     * f923e064-jwm2vvcx.cname.ebis.ne.jp
+    * faaf3154-scxitlgt.cname.ebis.ne.jp
     * fc192e57-yfrcguru.cname.ebis.ne.jp
     * fe1d7165-mmpoiy89.cname.ebis.ne.jp
 
@@ -317,6 +319,7 @@
 | ebis-tracking.hirakata-skin-clinic.com | 93c1009e-6pusefyf.cname.ebis.ne.jp |
 | cnebis.eisai.jp | 9473cf8f-gaz6wmaw.cname.ebis.ne.jp |
 | campaign-direct.eisai.jp | 9473cf8f-y4rfthkp.cname.ebis.ne.jp |
+| ebis.j-l-m.co.jp | 9545ff72-f16cbhzj.cname.ebis.ne.jp |
 | adebis.juku.st | 95e65062-vpau4sdp.cname.ebis.ne.jp |
 | adebis02.juku.st | 95e65062-y5awr3vc.cname.ebis.ne.jp |
 | cs0010sbeda.theory-clinic.com | 98463bc9-scxitlgt.cname.ebis.ne.jp |
@@ -396,5 +399,6 @@
 | sep02.hinagiku-life.jp | f199b50c-gy66xg6s.cname.ebis.ne.jp |
 | ebis2020.hoiku-job.net | f3054804-quxzshgd.cname.ebis.ne.jp |
 | adebis.e-ohaka.com | f923e064-jwm2vvcx.cname.ebis.ne.jp |
+| cs0113sbeda.convenient-smooth.net | faaf3154-scxitlgt.cname.ebis.ne.jp |
 | ebis.funai-finance.com | fc192e57-yfrcguru.cname.ebis.ne.jp |
 | axjfkc.kobayashi.co.jp | fe1d7165-mmpoiy89.cname.ebis.ne.jp |

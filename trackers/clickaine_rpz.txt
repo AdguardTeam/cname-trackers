@@ -28,6 +28,7 @@ cc.sexstories-all.com CNAME .
 cc.sexstories-hot.com CNAME .
 cc.sexverhalen-gratis.com CNAME .
 ck.zzipps.com CNAME .
+cli.its2.net CNAME .
 clkn.apostle.onl CNAME .
 clknrtrg.pro CNAME .
 cln.willyporn.com CNAME .

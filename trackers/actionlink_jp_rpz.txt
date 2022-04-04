@@ -3,6 +3,7 @@
 ;
 ; mm.actionlink.jp disguised trackers
 ;
+al.directishii.net CNAME .
 al.fulcloset.jp CNAME .
 al.junior-onlineshop.jp CNAME .
 al.office-com.jp CNAME .

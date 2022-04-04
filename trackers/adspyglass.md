@@ -40,6 +40,7 @@
 | a.flizmovies.cc | 0i0i0i0.com |
 | a.focusde.info | 0i0i0i0.com |
 | a.gaypornlove.net | 0i0i0i0.com |
+| a.gayvideo.me | 0i0i0i0.com |
 | a.green-good-nice.site | 0i0i0i0.com |
 | a.hentaimotel.com | 0i0i0i0.com |
 | a.kagiti.club | 0i0i0i0.com |
@@ -242,6 +243,7 @@
 | v2pro.stbvip.net | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
 | vsx.hotpornfile.org | 0i0i0i0.com |
+| vz.7vid.net | 0i0i0i0.com |
 | w00t.us | 0i0i0i0.com |
 | web.cinetux.nu | 0i0i0i0.com |
 | whatsthis.owo.si | 0i0i0i0.com |
@@ -251,6 +253,7 @@
 | www.bigboy.monster | 0i0i0i0.com |
 | www.demstenes24.one | 0i0i0i0.com |
 | www.findnewline.com | 0i0i0i0.com |
+| www.healmsuoguurd.eu | 0i0i0i0.com |
 | www.lechoncito.one | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
 | www.sex1.party | 0i0i0i0.com |

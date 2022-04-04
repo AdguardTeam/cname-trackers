@@ -248,6 +248,7 @@ tr.mydevisentreprise.com
 tr.n.info.cdgp.fr
 tr.n.info.sygmabanque.fr
 tr.nespresso.com
+tr.new.offres-cartegie.fr
 tr.news-chocolat.com
 tr.news-companeo.fr
 tr.news-companeo.mx
@@ -346,6 +347,7 @@ tr.notification.cdiscount.com
 tr.notification.cetelem.fr
 tr.notification.credit-moderne.fr
 tr.notification.norrsken.fr
+tr.np6.co.uk
 tr.np6.com
 tr.observatoire.musee-orsay.fr
 tr.ofertas-companeo.es
@@ -361,6 +363,7 @@ tr.orange-lease.fr
 tr.orcamentos-companeo.pt
 tr.panels-mediametrie.fr
 tr.partenaire.manageo.info
+tr.particuliers8.engie.com
 tr.pole-emploi-services.com
 tr.policyexpert.info
 tr.politicolive.eu
@@ -373,6 +376,7 @@ tr.projet.cotemaison.fr
 tr.qualitaetsumfrage.com
 tr.qualitaveicolo.com
 tr.qualite.groupebarriere.com
+tr.qualitevehicule.fr
 tr.qualityvehiclesurvey.com
 tr.quotes.digital
 tr.quotes4business.info

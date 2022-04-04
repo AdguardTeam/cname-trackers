@@ -215,6 +215,7 @@
 ||web.mapp.skousen.no^
 ||web.mapp.tretti.se^
 ||web.mapp.whiteaway.com^
+||web.mapp.whiteaway.no^
 ||web.mapp.whiteaway.se^
 ||web.marketing.elbenwald.de^
 ||web.mytoys.de^

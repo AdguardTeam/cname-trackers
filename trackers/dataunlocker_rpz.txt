@@ -7,6 +7,7 @@
 11b6n4ty2x3.taxliencode.com CNAME .
 1a715b8q5m3j.www.logology.co CNAME .
 1amehwchx31.bloxdhop.io CNAME .
+1bw7etm93lf.www.woodbrass.com CNAME .
 1iy4gu0lpkp.my.gloryleague.basketball CNAME .
 1uwcex4qf9z.test-115.dapp.ml CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
@@ -17,14 +18,15 @@
 2rid9fii9chx.www.atlaslane.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 42qnuym6jsvn.www.cefirates.com CNAME .
-88j9q1o9vr5g.kvest.ee CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
 9i9dta97bhqp.www.cefirates.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
+a514vjsecus3.www.earthclassmail.com CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
+b5j6itccyluq.nofluffjobs.com CNAME .
 bygr2ri20e4y.li.finance CNAME .
 cqz6fn6aox.aporia.com CNAME .
 din1j0su0u99.artwallstreet.io CNAME .
@@ -43,7 +45,6 @@ j1kmigrhwjf4.angelacampos.es CNAME .
 k5rtkx84u7fd.www.cefirates.com CNAME .
 k5ygj3bivnrp.uae.revent.store CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
-l16tm2ide7bu.beta.tt.fm CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
@@ -51,11 +52,10 @@ ouc82i67pytg.www.emanualonline.com CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 pg3b233p99sa.www.marketdata.app CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
+s4s51f00a3o7.www.eldorado.gg CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 tos5dqejpd.www.freecodecamp.org CNAME .
-u3mgjck7ke28.www.cefirates.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
-umhadn49kldc.www.jeddd.com CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
 xlvvy4msxr.coolinastore.com CNAME .

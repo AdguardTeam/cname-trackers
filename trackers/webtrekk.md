@@ -50,6 +50,7 @@
     * 292595354576025.wt-eu02.net
     * 302631813489498.wt-eu02.net
     * 307902509027183.wt-eu02.net
+    * 310695274957699.wt-eu02.net
     * 329712103760415.wt-eu02.net
     * 341309604352055.wt-eu02.net
     * 346715981768881.wt-eu02.net
@@ -192,6 +193,7 @@
 | a.maxxhotel.com | 307902509027183.wt-eu02.net |
 | a.steigenberger.com | 307902509027183.wt-eu02.net |
 | a.zleep.com | 307902509027183.wt-eu02.net |
+| web.mapp.whiteaway.no | 310695274957699.wt-eu02.net |
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
 | web.email.pragroup.co.uk | 341309604352055.wt-eu02.net |
 | census.misterspex.fi | 346715981768881.wt-eu02.net |

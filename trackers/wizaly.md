@@ -27,6 +27,7 @@
     * tk-nhlottery-com.wizaly.com
     * tk-ornikar-com.wizaly.com
     * tk-planete-oui-fr.wizaly.com
+    * tk-qare-fr.wizaly.com
     * tk-rentacar-fr.wizaly.com
     * tk-salomon-com.wizaly.com
     * tk-sncf.wizaly.com
@@ -67,6 +68,7 @@
 | tk.nhlottery.com | tk-nhlottery-com.wizaly.com |
 | tk.ornikar.com | tk-ornikar-com.wizaly.com |
 | tk.planete-oui.fr | tk-planete-oui-fr.wizaly.com |
+| tk.qare.fr | tk-qare-fr.wizaly.com |
 | tk.rentacar.fr | tk-rentacar-fr.wizaly.com |
 | tk.salomon.com | tk-salomon-com.wizaly.com |
 | wiz.sncf-connect.com | tk-sncf.wizaly.com |

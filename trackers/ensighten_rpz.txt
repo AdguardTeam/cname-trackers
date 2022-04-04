@@ -61,6 +61,7 @@ assets1.shannons.com.au CNAME .
 assets1.suncorp.co.nz CNAME .
 assets1.suncorp.com.au CNAME .
 assets1.terrischeer.com.au CNAME .
+assets1.vanz.vero.co.nz CNAME .
 assets1.vero.co.nz CNAME .
 assets1.vero.com.au CNAME .
 attribution.saucony.com CNAME .
@@ -91,6 +92,7 @@ cookies.jll.com.tr CNAME .
 cookies.jll.de CNAME .
 cookies.jll.es CNAME .
 cookies.jll.fi CNAME .
+cookies.jll.fr CNAME .
 cookies.jll.it CNAME .
 cookies.jll.nl CNAME .
 cookies.jll.pe CNAME .
@@ -100,6 +102,7 @@ cookies.jll.ru CNAME .
 cookies.jll.sk CNAME .
 cookies.joneslanglasalle.co.jp CNAME .
 cookies.joneslanglasalle.com.cn CNAME .
+cookies.joneslanglasalle.com.vn CNAME .
 cookies.us.jll.com CNAME .
 data.ensightendemo.com CNAME .
 data.experian.co.uk CNAME .
@@ -156,6 +159,7 @@ privacy.heishop.mx CNAME .
 pulse.delta.com CNAME .
 pulse.sleepnumber.com CNAME .
 secureanalytics.syf.com CNAME .
+secureanalytics.synchronycredit.com CNAME .
 securemetrics.mysynchrony.com CNAME .
 securemetrics.syf.com CNAME .
 securemetrics.synchronybusiness.com CNAME .
@@ -170,6 +174,7 @@ tags.aljazeera.com CNAME .
 tags.aljazeera.net CNAME .
 tags.experian.co.uk CNAME .
 tags.hickies.com CNAME .
+tags.kone.com CNAME .
 tam.volkswagen.com CNAME .
 tdi.cartoonnetwork.com CNAME .
 tm.hdmtools.com CNAME .

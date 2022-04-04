@@ -33,6 +33,7 @@
 | cc.sexstories-hot.com | api.clickaine.com |
 | cc.sexverhalen-gratis.com | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |
+| cli.its2.net | api.clickaine.com |
 | clkn.apostle.onl | api.clickaine.com |
 | clknrtrg.pro | api.clickaine.com |
 | cln.willyporn.com | api.clickaine.com |

@@ -14,6 +14,7 @@
 | cdn.aprick.xyz | popcashjs.b-cdn.net |
 | cdn.asce.xyz | popcashjs.b-cdn.net |
 | cdn.asdb.xyz | popcashjs.b-cdn.net |
+| cdn.asdccc.xyz | popcashjs.b-cdn.net |
 | cdn.asdfix.com | popcashjs.b-cdn.net |
 | cdn.asdfix.xyz | popcashjs.b-cdn.net |
 | cdn.asdnow.xyz | popcashjs.b-cdn.net |
@@ -61,4 +62,5 @@
 | cdn.wwfx.xyz | popcashjs.b-cdn.net |
 | cdn.xapa.xyz | popcashjs.b-cdn.net |
 | cdn.xaxo.xyz | popcashjs.b-cdn.net |
+| cdn.xtow.xyz | popcashjs.b-cdn.net |
 | cdn.zxclan.com | popcashjs.b-cdn.net |

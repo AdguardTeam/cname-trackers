@@ -51,6 +51,7 @@
 ||tk.ornikar.com^
 ||tk.planete-oui.fr^
 ||tk.prismashop.fr^
+||tk.qare.fr^
 ||tk.rentacar.fr^
 ||tk.salomon.com^
 ||tk.svsound.com^

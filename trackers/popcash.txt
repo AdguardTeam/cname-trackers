@@ -9,6 +9,7 @@
 ||cdn.aprick.xyz^
 ||cdn.asce.xyz^
 ||cdn.asdb.xyz^
+||cdn.asdccc.xyz^
 ||cdn.asdfix.com^
 ||cdn.asdfix.xyz^
 ||cdn.asdnow.xyz^
@@ -56,4 +57,5 @@
 ||cdn.wwfx.xyz^
 ||cdn.xapa.xyz^
 ||cdn.xaxo.xyz^
+||cdn.xtow.xyz^
 ||cdn.zxclan.com^

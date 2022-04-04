@@ -16,7 +16,6 @@ a.skcript.com CNAME .
 a.visitefoz.com.br CNAME .
 also.greatsecuritydebate.net CNAME .
 analytics.adam.page CNAME .
-analytics.adamstoner.com CNAME .
 analytics.adonisjs.com CNAME .
 analytics.arunraghavan.net CNAME .
 analytics.basistheory.com CNAME .
@@ -27,7 +26,6 @@ analytics.codeforscience.org CNAME .
 analytics.codeskulptor.org CNAME .
 analytics.dephibank.com CNAME .
 analytics.dogecoin.gg CNAME .
-analytics.dombesteindata.net CNAME .
 analytics.explained-from-first-principles.com CNAME .
 analytics.fatalparadox.com CNAME .
 analytics.gamedatacrunch.com CNAME .
@@ -52,6 +50,7 @@ analytics.southjerseyquakers.org CNAME .
 analytics.ss88.us CNAME .
 analytics.surov.fi CNAME .
 analytics.sweep.net CNAME .
+analytics.teamcovenant.com CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
@@ -87,7 +86,6 @@ cody-stats.coupa.engineering CNAME .
 connect.adkhifi.com CNAME .
 connect.astrobotanicals.com CNAME .
 connect.ftpresents.com CNAME .
-connect.tommyroxmusic.com CNAME .
 connect.virtuesofthevine.com CNAME .
 counter.cropvid.com CNAME .
 counter.proxycrawl.com CNAME .
@@ -187,7 +185,6 @@ plausible.doberman.co CNAME .
 plausible.doctave.com CNAME .
 plausible.ericgoebelbecker.com CNAME .
 plausible.eurostocks.nl CNAME .
-plausible.executeprogram.com CNAME .
 plausible.exploreandcreate.com CNAME .
 plausible.f1laps.com CNAME .
 plausible.factly.in CNAME .
@@ -295,7 +292,6 @@ stats.allaboutberlin.com CNAME .
 stats.alleaktien.de CNAME .
 stats.am.ai CNAME .
 stats.amiibo.life CNAME .
-stats.app.plock.fi CNAME .
 stats.arquido.com CNAME .
 stats.artefact.space CNAME .
 stats.baptistwomen.com CNAME .
@@ -443,6 +439,7 @@ stats.jerickson.net CNAME .
 stats.johnmac.pro CNAME .
 stats.justanotherpm.com CNAME .
 stats.justinwilliams.ca CNAME .
+stats.kafarowski.com CNAME .
 stats.kejk.tech CNAME .
 stats.kensho.com CNAME .
 stats.kettlebellbundle.com CNAME .
@@ -524,7 +521,6 @@ stats.paulbutler.org CNAME .
 stats.paysagistes.pro CNAME .
 stats.pebkac.io CNAME .
 stats.pep20.org CNAME .
-stats.personalkollen.se CNAME .
 stats.phelsumagrandis.de CNAME .
 stats.phili.pe CNAME .
 stats.photovisionprints.com CNAME .
@@ -535,7 +531,6 @@ stats.pitstone.co.uk CNAME .
 stats.pizzapizza.io CNAME .
 stats.plastbest.cz CNAME .
 stats.plastbest.sk CNAME .
-stats.plock.fi CNAME .
 stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
@@ -637,7 +632,6 @@ stats.uxtools.co CNAME .
 stats.vanityprojects.com CNAME .
 stats.vdsnow.ru CNAME .
 stats.visions.ch CNAME .
-stats.vngameden.com CNAME .
 stats.voltamediahouse.com CNAME .
 stats.walkiees.co.uk CNAME .
 stats.westswindon-pc.gov.uk CNAME .

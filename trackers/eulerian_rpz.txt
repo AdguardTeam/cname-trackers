@@ -33,7 +33,6 @@ bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
 c0i.ckoi.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
 ch.credithypo.com CNAME .
@@ -232,7 +231,6 @@ msz3.destinia.cn CNAME .
 mud4.destinia.com.eg CNAME .
 mva1.maeva.com CNAME .
 ncx2.voyage-prive.it CNAME .
-net1.coolsailing.com CNAME .
 net1.netski.com CNAME .
 netc.sfr.fr CNAME .
 ni8.lafuma-boutique.com CNAME .

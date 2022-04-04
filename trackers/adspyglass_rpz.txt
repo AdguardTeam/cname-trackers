@@ -34,6 +34,7 @@ a.filmlinks4u.pro CNAME .
 a.flizmovies.cc CNAME .
 a.focusde.info CNAME .
 a.gaypornlove.net CNAME .
+a.gayvideo.me CNAME .
 a.green-good-nice.site CNAME .
 a.hentaimotel.com CNAME .
 a.kagiti.club CNAME .
@@ -240,6 +241,7 @@ v.focusde.info CNAME .
 v2pro.stbvip.net CNAME .
 vd.7vid.net CNAME .
 vsx.hotpornfile.org CNAME .
+vz.7vid.net CNAME .
 w00t.us CNAME .
 web.cinetux.nu CNAME .
 whatsthis.owo.si CNAME .
@@ -249,6 +251,7 @@ ww.cvideos.stream CNAME .
 www.bigboy.monster CNAME .
 www.demstenes24.one CNAME .
 www.findnewline.com CNAME .
+www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.lechoncito.one CNAME .
 www.letstry69.xyz CNAME .

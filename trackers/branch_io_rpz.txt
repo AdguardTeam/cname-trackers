@@ -3,6 +3,7 @@
 ;
 ; thirdparty.bnc.lt disguised trackers
 ;
+11959579.fun.joyrun.com CNAME .
 18052925.im.intermiles.com CNAME .
 19035924.automated.almosafer.com CNAME .
 19035924.email.almosafer.com CNAME .
@@ -126,7 +127,6 @@ ablink.notification.insighttimer.com CNAME .
 ablink.notifications.br.live CNAME .
 ablink.notify.homecourt.ai CNAME .
 ablink.notify.pray.com CNAME .
-ablink.nz-edm.zip.co CNAME .
 ablink.o.sofi.org CNAME .
 ablink.offers.checkout51.com CNAME .
 ablink.offers.grassdoor.com CNAME .
@@ -193,6 +193,7 @@ b.iwanna.southwest.com CNAME .
 b.lyst.com CNAME .
 b.prod1.youroffers.dominos.ca CNAME .
 b.your.offers.dominos.com CNAME .
+bclicks.lyst.com CNAME .
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au CNAME .
 bit.beformance.com CNAME .
 bk.atumanera.burgerking.com.mx CNAME .
@@ -278,6 +279,7 @@ clicks.lifesum.com CNAME .
 clicks.metronautapp.com CNAME .
 clicks.point.app CNAME .
 clicks.staging.worldremit.com CNAME .
+clicks.tunein.com CNAME .
 clicks.variis.com CNAME .
 clicktrack.cmnetwork.co CNAME .
 clk.mindfulsuite.com CNAME .
@@ -320,6 +322,7 @@ email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
 email.everyonesocial.circle.com CNAME .
 email.everyonesocial.r3.com CNAME .
+email.everyonesocial.rubrik.com CNAME .
 email.everyonesocial.united.com CNAME .
 email.everyonesocial.unity.com CNAME .
 email.fretello.com CNAME .
@@ -410,7 +413,6 @@ link.marketing.bleacherreport.com CNAME .
 link.marketing.churchomeglobal.org CNAME .
 link.mktg.almosafer.com CNAME .
 link.mktg.tajawal.com CNAME .
-link.moodagent.com CNAME .
 link.mypostcard.com CNAME .
 link.nbcadmin.com CNAME .
 link.news.bleacherreport.com CNAME .

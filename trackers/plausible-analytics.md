@@ -21,7 +21,6 @@
 | a.visitefoz.com.br | custom.plausible.io |
 | also.greatsecuritydebate.net | custom.plausible.io |
 | analytics.adam.page | custom.plausible.io |
-| analytics.adamstoner.com | custom.plausible.io |
 | analytics.adonisjs.com | custom.plausible.io |
 | analytics.arunraghavan.net | custom.plausible.io |
 | analytics.basistheory.com | custom.plausible.io |
@@ -32,7 +31,6 @@
 | analytics.codeskulptor.org | custom.plausible.io |
 | analytics.dephibank.com | custom.plausible.io |
 | analytics.dogecoin.gg | custom.plausible.io |
-| analytics.dombesteindata.net | custom.plausible.io |
 | analytics.explained-from-first-principles.com | custom.plausible.io |
 | analytics.fatalparadox.com | custom.plausible.io |
 | analytics.gamedatacrunch.com | custom.plausible.io |
@@ -57,6 +55,7 @@
 | analytics.ss88.us | custom.plausible.io |
 | analytics.surov.fi | custom.plausible.io |
 | analytics.sweep.net | custom.plausible.io |
+| analytics.teamcovenant.com | custom.plausible.io |
 | analytics.top10-charts.com | custom.plausible.io |
 | analytics.trust.page | custom.plausible.io |
 | analytics.uxmetrics.com | custom.plausible.io |
@@ -92,7 +91,6 @@
 | connect.adkhifi.com | custom.plausible.io |
 | connect.astrobotanicals.com | custom.plausible.io |
 | connect.ftpresents.com | custom.plausible.io |
-| connect.tommyroxmusic.com | custom.plausible.io |
 | connect.virtuesofthevine.com | custom.plausible.io |
 | counter.cropvid.com | custom.plausible.io |
 | counter.proxycrawl.com | custom.plausible.io |
@@ -192,7 +190,6 @@
 | plausible.doctave.com | custom.plausible.io |
 | plausible.ericgoebelbecker.com | custom.plausible.io |
 | plausible.eurostocks.nl | custom.plausible.io |
-| plausible.executeprogram.com | custom.plausible.io |
 | plausible.exploreandcreate.com | custom.plausible.io |
 | plausible.f1laps.com | custom.plausible.io |
 | plausible.factly.in | custom.plausible.io |
@@ -300,7 +297,6 @@
 | stats.alleaktien.de | custom.plausible.io |
 | stats.am.ai | custom.plausible.io |
 | stats.amiibo.life | custom.plausible.io |
-| stats.app.plock.fi | custom.plausible.io |
 | stats.arquido.com | custom.plausible.io |
 | stats.artefact.space | custom.plausible.io |
 | stats.baptistwomen.com | custom.plausible.io |
@@ -448,6 +444,7 @@
 | stats.johnmac.pro | custom.plausible.io |
 | stats.justanotherpm.com | custom.plausible.io |
 | stats.justinwilliams.ca | custom.plausible.io |
+| stats.kafarowski.com | custom.plausible.io |
 | stats.kejk.tech | custom.plausible.io |
 | stats.kensho.com | custom.plausible.io |
 | stats.kettlebellbundle.com | custom.plausible.io |
@@ -529,7 +526,6 @@
 | stats.paysagistes.pro | custom.plausible.io |
 | stats.pebkac.io | custom.plausible.io |
 | stats.pep20.org | custom.plausible.io |
-| stats.personalkollen.se | custom.plausible.io |
 | stats.phelsumagrandis.de | custom.plausible.io |
 | stats.phili.pe | custom.plausible.io |
 | stats.photovisionprints.com | custom.plausible.io |
@@ -540,7 +536,6 @@
 | stats.pizzapizza.io | custom.plausible.io |
 | stats.plastbest.cz | custom.plausible.io |
 | stats.plastbest.sk | custom.plausible.io |
-| stats.plock.fi | custom.plausible.io |
 | stats.poesieundgenuss.com | custom.plausible.io |
 | stats.pointflottant.com | custom.plausible.io |
 | stats.polekatfitness.com | custom.plausible.io |
@@ -642,7 +637,6 @@
 | stats.vanityprojects.com | custom.plausible.io |
 | stats.vdsnow.ru | custom.plausible.io |
 | stats.visions.ch | custom.plausible.io |
-| stats.vngameden.com | custom.plausible.io |
 | stats.voltamediahouse.com | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
 | stats.westswindon-pc.gov.uk | custom.plausible.io |

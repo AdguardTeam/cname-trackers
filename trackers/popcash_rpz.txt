@@ -9,6 +9,7 @@ cdn.alota.xyz CNAME .
 cdn.aprick.xyz CNAME .
 cdn.asce.xyz CNAME .
 cdn.asdb.xyz CNAME .
+cdn.asdccc.xyz CNAME .
 cdn.asdfix.com CNAME .
 cdn.asdfix.xyz CNAME .
 cdn.asdnow.xyz CNAME .
@@ -56,4 +57,5 @@ cdn.ssers.xyz CNAME .
 cdn.wwfx.xyz CNAME .
 cdn.xapa.xyz CNAME .
 cdn.xaxo.xyz CNAME .
+cdn.xtow.xyz CNAME .
 cdn.zxclan.com CNAME .

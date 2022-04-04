@@ -61,6 +61,7 @@ assets1.shannons.com.au
 assets1.suncorp.co.nz
 assets1.suncorp.com.au
 assets1.terrischeer.com.au
+assets1.vanz.vero.co.nz
 assets1.vero.co.nz
 assets1.vero.com.au
 attribution.saucony.com
@@ -91,6 +92,7 @@ cookies.jll.com.tr
 cookies.jll.de
 cookies.jll.es
 cookies.jll.fi
+cookies.jll.fr
 cookies.jll.it
 cookies.jll.nl
 cookies.jll.pe
@@ -100,6 +102,7 @@ cookies.jll.ru
 cookies.jll.sk
 cookies.joneslanglasalle.co.jp
 cookies.joneslanglasalle.com.cn
+cookies.joneslanglasalle.com.vn
 cookies.us.jll.com
 data.ensightendemo.com
 data.experian.co.uk
@@ -156,6 +159,7 @@ privacy.heishop.mx
 pulse.delta.com
 pulse.sleepnumber.com
 secureanalytics.syf.com
+secureanalytics.synchronycredit.com
 securemetrics.mysynchrony.com
 securemetrics.syf.com
 securemetrics.synchronybusiness.com
@@ -170,6 +174,7 @@ tags.aljazeera.com
 tags.aljazeera.net
 tags.experian.co.uk
 tags.hickies.com
+tags.kone.com
 tam.volkswagen.com
 tdi.cartoonnetwork.com
 tm.hdmtools.com

@@ -51,6 +51,7 @@ tk.nhlottery.com CNAME .
 tk.ornikar.com CNAME .
 tk.planete-oui.fr CNAME .
 tk.prismashop.fr CNAME .
+tk.qare.fr CNAME .
 tk.rentacar.fr CNAME .
 tk.salomon.com CNAME .
 tk.svsound.com CNAME .
