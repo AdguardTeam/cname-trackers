@@ -31,7 +31,6 @@ bygr2ri20e4y.li.finance CNAME .
 cqz6fn6aox.aporia.com CNAME .
 din1j0su0u99.artwallstreet.io CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
-e1150tmri34u.www.earthclassmail.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
@@ -39,6 +38,7 @@ fve57b8cs74i.www.cybernetman.com CNAME .
 g8zao4slwe69.asenaru.id CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .
+h5jcu19uw3fy.filmustage.com CNAME .
 hkhpnqciykaf.www.gamecamp.gg CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 j1kmigrhwjf4.angelacampos.es CNAME .
@@ -51,6 +51,7 @@ nqyuel589fq5.esgrounding.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 pg3b233p99sa.www.marketdata.app CNAME .
+qmaea68tanna.www.earthclassmail.com CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s4s51f00a3o7.www.eldorado.gg CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .

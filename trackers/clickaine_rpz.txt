@@ -18,6 +18,7 @@ cc.histoires-de-sexe-gratuites.com CNAME .
 cc.opowiadaniaerotyczne-darmowo.com CNAME .
 cc.pornorasskazy-intim.com CNAME .
 cc.pornorasskazy-xxx.com CNAME .
+cc.raccontierotici-club.com CNAME .
 cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
 cc.sex-stories-xxx.com CNAME .

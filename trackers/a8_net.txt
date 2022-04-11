@@ -141,6 +141,7 @@
 ||a8cv.entry.renet.jp^
 ||a8cv.frecious.jp^
 ||a8cv.greed-island.ne.jp^
+||a8cv.hotyoga-loive.com^
 ||a8cv.housingbazar.jp^
 ||a8cv.iikyujin.net^
 ||a8cv.interlink.or.jp^

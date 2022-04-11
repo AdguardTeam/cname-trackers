@@ -98,7 +98,6 @@ events.mikescerealshack.co CNAME .
 external.techopian.com CNAME .
 extramilefloorcare.ericksonbuilt.com CNAME .
 f8phvntohv.tpetry.me CNAME .
-ftllrl.fotoallerlei.com CNAME .
 galop.leferacheval-saintcloud.com CNAME .
 gullfoss.deepsource.io CNAME .
 hej.henriksommerfeld.se CNAME .
@@ -198,7 +197,6 @@ plausible.gymglish.com CNAME .
 plausible.haltakov.net CNAME .
 plausible.hellpancake.com CNAME .
 plausible.help.exploreandcreate.com CNAME .
-plausible.hstmedical.com CNAME .
 plausible.inflex.io CNAME .
 plausible.intalk.nl CNAME .
 plausible.joinself.com CNAME .
@@ -210,7 +208,6 @@ plausible.lesbianromantic.com CNAME .
 plausible.lovesdata.com CNAME .
 plausible.mattpruitt.com CNAME .
 plausible.mcj.co CNAME .
-plausible.microwire.info CNAME .
 plausible.moncefbelyamani.com CNAME .
 plausible.nova.app CNAME .
 plausible.nubemia.com CNAME .
@@ -318,7 +315,6 @@ stats.breadtube.tv CNAME .
 stats.breathly.app CNAME .
 stats.briskoda.net CNAME .
 stats.broddin.be CNAME .
-stats.brousse.info CNAME .
 stats.buildingtheelite.com CNAME .
 stats.bungeefit.co.uk CNAME .
 stats.byma.com.br CNAME .
@@ -386,6 +382,7 @@ stats.feathercss.makerkits.co CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
 stats.ff.ht CNAME .
+stats.filewatch.net CNAME .
 stats.flightsphere.com CNAME .
 stats.frenlo.com CNAME .
 stats.fullofwishes.co.uk CNAME .
@@ -576,7 +573,6 @@ stats.sexplore.app CNAME .
 stats.share.link CNAME .
 stats.shareup.app CNAME .
 stats.sheer.tj CNAME .
-stats.shell-tips.com CNAME .
 stats.shepherd.com CNAME .
 stats.shoutout.so CNAME .
 stats.siedentop.dev CNAME .
@@ -586,7 +582,6 @@ stats.socialeurope.eu CNAME .
 stats.sommselect.com CNAME .
 stats.songbox.rocks CNAME .
 stats.soundbite.so CNAME .
-stats.southpetherwin.com CNAME .
 stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
 stats.sprechstunde.ai CNAME .

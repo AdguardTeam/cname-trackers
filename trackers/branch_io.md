@@ -137,6 +137,7 @@
 | ablink.notifications.br.live | thirdparty.bnc.lt |
 | ablink.notify.homecourt.ai | thirdparty.bnc.lt |
 | ablink.notify.pray.com | thirdparty.bnc.lt |
+| ablink.nz-edm.zip.co | thirdparty.bnc.lt |
 | ablink.o.sofi.org | thirdparty.bnc.lt |
 | ablink.offers.checkout51.com | thirdparty.bnc.lt |
 | ablink.offers.grassdoor.com | thirdparty.bnc.lt |
@@ -328,6 +329,7 @@
 | email.clearscore.com | thirdparty.bnc.lt |
 | email.clearscore.com.au | thirdparty.bnc.lt |
 | email.everyonesocial.circle.com | thirdparty.bnc.lt |
+| email.everyonesocial.coupa.com | thirdparty.bnc.lt |
 | email.everyonesocial.r3.com | thirdparty.bnc.lt |
 | email.everyonesocial.rubrik.com | thirdparty.bnc.lt |
 | email.everyonesocial.united.com | thirdparty.bnc.lt |

@@ -91,6 +91,7 @@ wvvw.infomigrants.net CNAME .
 wvvw.mc-doualiya.com CNAME .
 wvvw.rfi.fr CNAME .
 y1.arte.tv CNAME .
+zagrabiti.viessmann.hr CNAME .
 zaventemdijleland.viessmann.be CNAME .
 zelten.fritz-berger.de CNAME .
 zug.sbb.ch CNAME .

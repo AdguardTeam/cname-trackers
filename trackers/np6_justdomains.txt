@@ -222,6 +222,7 @@ tr.mail.floa.fr
 tr.mail.koregraf.com
 tr.mail.moncoupdepouce.com
 tr.mail.satisfactory.fr
+tr.mail.vip-mag.co.uk
 tr.mail.vipmag.fr
 tr.mailing.achatpublic.com
 tr.mailing.lvmhappening.com

@@ -227,6 +227,7 @@
 | tr.mail.koregraf.com | tracking.bp01.net |
 | tr.mail.moncoupdepouce.com | tracking.bp01.net |
 | tr.mail.satisfactory.fr | tracking.bp01.net |
+| tr.mail.vip-mag.co.uk | tracking.bp01.net |
 | tr.mail.vipmag.fr | tracking.bp01.net |
 | tr.mailing.achatpublic.com | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |

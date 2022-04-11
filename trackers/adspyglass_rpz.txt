@@ -23,6 +23,7 @@ a.bitporno.com CNAME .
 a.cashjma.com CNAME .
 a.cdn1.pro CNAME .
 a.chastityvideos.com CNAME .
+a.digitalgiftshopping.com CNAME .
 a.dirtyasmr.com CNAME .
 a.dphunters.com CNAME .
 a.eachporn.com CNAME .
@@ -30,7 +31,6 @@ a.emwstore.xyz CNAME .
 a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
-a.filmlinks4u.pro CNAME .
 a.flizmovies.cc CNAME .
 a.focusde.info CNAME .
 a.gaypornlove.net CNAME .
@@ -44,7 +44,7 @@ a.letsjerk.to CNAME .
 a.neverbe.xyz CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pumpity.net CNAME .
-a.streamoupload.com CNAME .
+a.streamoupload.xyz CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
 a.warddogs.com CNAME .
@@ -64,6 +64,8 @@ ads.poptwinks.com CNAME .
 ads.tabuflix.com CNAME .
 ads.xmov.net CNAME .
 ads.xxxleaks.cc CNAME .
+adsnot.1javguru.xyz CNAME .
+adsnot.1supjav.xyz CNAME .
 adspy.javrank.com CNAME .
 advpro.pro CNAME .
 ags.hobby.porn CNAME .
@@ -77,6 +79,7 @@ as.ebalovo.adult CNAME .
 as.lenkino.adult CNAME .
 as2.fasta.xyz CNAME .
 as2.movporvid.com CNAME .
+as2.o777i.com CNAME .
 ascc.javquick.com CNAME .
 asdf.eldos.xyz CNAME .
 asg.allweb.click CNAME .
@@ -189,6 +192,13 @@ nav.srcdn.xyz CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
 news.arad-daor.com CNAME .
+notads.111javguru.xyz CNAME .
+notads.111supjav.xyz CNAME .
+notads.111supjavcom.xyz CNAME .
+notads.11javguru.xyz CNAME .
+notads.11supjav.xyz CNAME .
+notads.11supjavcom.xyz CNAME .
+notads.1gi3rir.xyz CNAME .
 o313o.com CNAME .
 oi.fapnado.com CNAME .
 oi.fapnado.xxx CNAME .
@@ -229,6 +239,7 @@ srv.clinno.link CNAME .
 stuff.wikiporno.org CNAME .
 support.streamjav.top CNAME .
 tb.turbocap.net CNAME .
+theporndude.com.1111supjavcom.xyz CNAME .
 thescript.javfinder.xyz CNAME .
 thetranny.online CNAME .
 tlv.ui02.com CNAME .
@@ -263,6 +274,7 @@ www6.freeanimesource.com CNAME .
 www6.hentai-zone.com CNAME .
 www8.upload-pics.com CNAME .
 x2sfa.javgg.eu CNAME .
+xxxlove.rooski.net CNAME .
 z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .
 zeenite.online CNAME .

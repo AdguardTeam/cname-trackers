@@ -90,6 +90,7 @@
     * wvvw-mc-doualiya-com-cddc.at-o.net
     * wvvw-rfi-fr-cddc.at-o.net
     * y1-arte-tv-cddc.at-o.net
+    * zagrabiti-viessmann-hr-cddc.at-o.net
     * zaventemdijleland-viessmann-be-cddc.at-o.net
     * zelten-fritz-berger-de-cddc.at-o.net
     * zug-sbb-ch-cddc.at-o.net
@@ -186,6 +187,7 @@
 | wvvw.mc-doualiya.com | wvvw-mc-doualiya-com-cddc.at-o.net |
 | wvvw.rfi.fr | wvvw-rfi-fr-cddc.at-o.net |
 | y1.arte.tv | y1-arte-tv-cddc.at-o.net |
+| zagrabiti.viessmann.hr | zagrabiti-viessmann-hr-cddc.at-o.net |
 | zaventemdijleland.viessmann.be | zaventemdijleland-viessmann-be-cddc.at-o.net |
 | zelten.fritz-berger.de | zelten-fritz-berger-de-cddc.at-o.net |
 | zug.sbb.ch | zug-sbb-ch-cddc.at-o.net |

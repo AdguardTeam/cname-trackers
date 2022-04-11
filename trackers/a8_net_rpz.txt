@@ -141,6 +141,7 @@ a8cv.english-bootcamp.com CNAME .
 a8cv.entry.renet.jp CNAME .
 a8cv.frecious.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
+a8cv.hotyoga-loive.com CNAME .
 a8cv.housingbazar.jp CNAME .
 a8cv.iikyujin.net CNAME .
 a8cv.interlink.or.jp CNAME .

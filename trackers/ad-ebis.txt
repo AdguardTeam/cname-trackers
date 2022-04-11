@@ -30,6 +30,7 @@
 ||adebis.demae-can.com^
 ||adebis.e-ohaka.com^
 ||adebis.fenet.jp^
+||adebis.furisode-ichikura.jp^
 ||adebis.gfs-official.com^
 ||adebis.harutaka.jp^
 ||adebis.irobot-jp.com^

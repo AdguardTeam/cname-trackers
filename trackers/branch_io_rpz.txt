@@ -127,6 +127,7 @@ ablink.notification.insighttimer.com CNAME .
 ablink.notifications.br.live CNAME .
 ablink.notify.homecourt.ai CNAME .
 ablink.notify.pray.com CNAME .
+ablink.nz-edm.zip.co CNAME .
 ablink.o.sofi.org CNAME .
 ablink.offers.checkout51.com CNAME .
 ablink.offers.grassdoor.com CNAME .
@@ -321,6 +322,7 @@ email.clearscore.co.za CNAME .
 email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
 email.everyonesocial.circle.com CNAME .
+email.everyonesocial.coupa.com CNAME .
 email.everyonesocial.r3.com CNAME .
 email.everyonesocial.rubrik.com CNAME .
 email.everyonesocial.united.com CNAME .

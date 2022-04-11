@@ -6,6 +6,7 @@
 activate.aami.com.au
 activate.academy.com
 activate.bingle.com.au
+activate.courant.com
 activate.delmartimes.net
 activate.encinitasadvocate.com
 activate.lajollalight.com
@@ -22,9 +23,11 @@ activate.sandiegouniontribune.com
 activate.shopjustice.com
 activate.suncorp.com.au
 activate.tacdn.com
+activate.thedailymeal.com
 activate.united.com
 activate1.fidelity.com
 agility.cartoonnetwork.com
+agility.citizensbank.com
 agility.cnn.com
 agility.eleague.com
 agility.nba.com

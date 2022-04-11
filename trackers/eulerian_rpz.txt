@@ -33,6 +33,7 @@ bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
 c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
 ch.credithypo.com CNAME .
@@ -135,7 +136,6 @@ ef.futuroscope.mobi CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 eule1.pmu.fr CNAME .
 eule3.pmu.fr CNAME .
@@ -181,7 +181,6 @@ g1be.swisslife-direct.fr CNAME .
 gdm1.toner.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
-gi7a.structube.com CNAME .
 guq9.vente-unique.it CNAME .
 gwtc.sfr.fr CNAME .
 h00c.sfr.fr CNAME .
@@ -364,6 +363,8 @@ xy33.smallable.com CNAME .
 yf5.voyage-prive.at CNAME .
 yh6u.dealeusedevoyages.com CNAME .
 yoc.younited-credit.com CNAME .
+yst4.torviajes.com CNAME .
+zcih.clotureantifugue.com CNAME .
 zkc5.fleurancenature.fr CNAME .
 zm5d.lexpress.fr CNAME .
 znq9.destinia.mx CNAME .

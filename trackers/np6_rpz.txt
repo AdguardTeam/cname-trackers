@@ -222,6 +222,7 @@ tr.mail.floa.fr CNAME .
 tr.mail.koregraf.com CNAME .
 tr.mail.moncoupdepouce.com CNAME .
 tr.mail.satisfactory.fr CNAME .
+tr.mail.vip-mag.co.uk CNAME .
 tr.mail.vipmag.fr CNAME .
 tr.mailing.achatpublic.com CNAME .
 tr.mailing.lvmhappening.com CNAME .

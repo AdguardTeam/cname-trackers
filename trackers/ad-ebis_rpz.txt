@@ -30,6 +30,7 @@ adebis.daiwahouse.co.jp CNAME .
 adebis.demae-can.com CNAME .
 adebis.e-ohaka.com CNAME .
 adebis.fenet.jp CNAME .
+adebis.furisode-ichikura.jp CNAME .
 adebis.gfs-official.com CNAME .
 adebis.harutaka.jp CNAME .
 adebis.irobot-jp.com CNAME .

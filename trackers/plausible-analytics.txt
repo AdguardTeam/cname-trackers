@@ -98,7 +98,6 @@
 ||external.techopian.com^
 ||extramilefloorcare.ericksonbuilt.com^
 ||f8phvntohv.tpetry.me^
-||ftllrl.fotoallerlei.com^
 ||galop.leferacheval-saintcloud.com^
 ||gullfoss.deepsource.io^
 ||hej.henriksommerfeld.se^
@@ -198,7 +197,6 @@
 ||plausible.haltakov.net^
 ||plausible.hellpancake.com^
 ||plausible.help.exploreandcreate.com^
-||plausible.hstmedical.com^
 ||plausible.inflex.io^
 ||plausible.intalk.nl^
 ||plausible.joinself.com^
@@ -210,7 +208,6 @@
 ||plausible.lovesdata.com^
 ||plausible.mattpruitt.com^
 ||plausible.mcj.co^
-||plausible.microwire.info^
 ||plausible.moncefbelyamani.com^
 ||plausible.nova.app^
 ||plausible.nubemia.com^
@@ -318,7 +315,6 @@
 ||stats.breathly.app^
 ||stats.briskoda.net^
 ||stats.broddin.be^
-||stats.brousse.info^
 ||stats.buildingtheelite.com^
 ||stats.bungeefit.co.uk^
 ||stats.byma.com.br^
@@ -386,6 +382,7 @@
 ||stats.felipesere.com^
 ||stats.femtobill.com^
 ||stats.ff.ht^
+||stats.filewatch.net^
 ||stats.flightsphere.com^
 ||stats.frenlo.com^
 ||stats.fullofwishes.co.uk^
@@ -576,7 +573,6 @@
 ||stats.share.link^
 ||stats.shareup.app^
 ||stats.sheer.tj^
-||stats.shell-tips.com^
 ||stats.shepherd.com^
 ||stats.shoutout.so^
 ||stats.siedentop.dev^
@@ -586,7 +582,6 @@
 ||stats.sommselect.com^
 ||stats.songbox.rocks^
 ||stats.soundbite.so^
-||stats.southpetherwin.com^
 ||stats.southswindon-pc.gov.uk^
 ||stats.sparkloop.app^
 ||stats.sprechstunde.ai^

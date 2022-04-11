@@ -22,6 +22,7 @@
 3225747.notify6.com
 3231172.notify6.com
 3242990.notify6.com
+3243082.notify6.com
 3249648.notify6.com
 3273540.notifysrv.com
 3285792.notifysrv.com
@@ -61,6 +62,8 @@
 3457959.notify6.com
 3461289.notify6.com
 3466857.notifysrv.com
+3483067.notifysrv.com
+3498171.notify6.com
 3505135.notifysrv.com
 3508819.notify6.com
 3518183.notifysrv.com
@@ -77,6 +80,7 @@
 3572303.notifysrv.com
 3576531.notifysrv.com
 3584069.notifysrv.com
+3587731.notify6.com
 3588587.notify6.com
 3588591.notifysrv.com
 3588593.notifysrv.com
@@ -104,6 +108,7 @@
 3739013.notify6.com
 3749331.notify6.com
 3768747.notify6.com
+3775247.notifysrv.com
 3805703.notifysrv.com
 3814695.notifysrv.com
 3822893.notifysrv.com
@@ -158,11 +163,13 @@
 4290976.notify6.com
 4329288.notify6.com
 4329294.notify6.com
+4329296.notify6.com
 4329300.notify6.com
 4454624.notify6.com
 4598410.notify6.com
 4615884.notify6.com
 4623392.notify6.com
+6180.notify.optimizesrv.com
 a.exdynsrv.com
 a.exoclick.com
 a.exosrv.com
@@ -228,7 +235,7 @@ u3y8v8u4.ackcdn.net
 www.notify6.com
 www.notifysrv.com
 #
-# fp276a.wac.sigmacdn.net disguised trackers
+# cds.d6n9n7e2.hwcdn.net disguised trackers
 #
 a.exdynsrv.com
 a.exoclick.com
@@ -236,11 +243,10 @@ a.exosrv.com
 ads.exdynsrv.com
 ads.exoclick.com
 ads.exosrv.com
+delivery.gettopple.com
+s3t3d2y8.ackcdn.net
+u3y8v8u4.ackcdn.net
 #
 # cds.v3j9t5q9.hwcdn.net disguised trackers
 #
 admin.adnation.com
-#
-# cds.d6n9n7e2.hwcdn.net disguised trackers
-#
-delivery.gettopple.com

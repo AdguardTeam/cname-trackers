@@ -23,6 +23,7 @@
 | cc.opowiadaniaerotyczne-darmowo.com | api.clickaine.com |
 | cc.pornorasskazy-intim.com | api.clickaine.com |
 | cc.pornorasskazy-xxx.com | api.clickaine.com |
+| cc.raccontierotici-club.com | api.clickaine.com |
 | cc.relatoseroticos-gratis.com | api.clickaine.com |
 | cc.sersh.com | api.clickaine.com |
 | cc.sex-stories-xxx.com | api.clickaine.com |

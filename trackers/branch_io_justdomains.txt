@@ -127,6 +127,7 @@ ablink.notification.insighttimer.com
 ablink.notifications.br.live
 ablink.notify.homecourt.ai
 ablink.notify.pray.com
+ablink.nz-edm.zip.co
 ablink.o.sofi.org
 ablink.offers.checkout51.com
 ablink.offers.grassdoor.com
@@ -321,6 +322,7 @@ email.clearscore.co.za
 email.clearscore.com
 email.clearscore.com.au
 email.everyonesocial.circle.com
+email.everyonesocial.coupa.com
 email.everyonesocial.r3.com
 email.everyonesocial.rubrik.com
 email.everyonesocial.united.com
