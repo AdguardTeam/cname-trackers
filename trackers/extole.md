@@ -16,6 +16,7 @@
     * hostgator.extole.com
     * luckyvitamin.extole.com
     * moo.extole.com
+    * personalcreations-ssl.extole.com
     * purchasingpower.extole.com
     * referxoom.extole.com
     * sage-ssl.extole.com
@@ -52,6 +53,7 @@
 | refer.luckyvitamin.com | luckyvitamin.extole.com |
 | refer.aol.com | media-router-aol1.prod.g03.yahoodns.net |
 | refer.moo.com | moo.extole.com |
+| refer.personalcreations.com | personalcreations-ssl.extole.com |
 | refer.purchasingpower.com | purchasingpower.extole.com |
 | refer.xoom.com | referxoom.extole.com |
 | refer.sage.com | sage-ssl.extole.com |

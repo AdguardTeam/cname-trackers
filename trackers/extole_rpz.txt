@@ -17,6 +17,7 @@ refer.hannaandersson.com CNAME .
 refer.healthypawspetinsurance.com CNAME .
 refer.luckyvitamin.com CNAME .
 refer.moo.com CNAME .
+refer.personalcreations.com CNAME .
 refer.purchasingpower.com CNAME .
 refer.sage.com CNAME .
 refer.shoesforcrews.com CNAME .

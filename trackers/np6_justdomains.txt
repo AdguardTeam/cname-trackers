@@ -184,6 +184,7 @@ tr.info.mango-mobilites.fr
 tr.info.mavoiturecash.fr
 tr.info.mdbp.fr
 tr.info.mobibam.com
+tr.info.offres-cartegie.fr
 tr.info.onboarding.corporatecards.bnpparibas
 tr.info.promoneuve.fr
 tr.info.rouen.aeroport.fr
@@ -291,6 +292,7 @@ tr.news.kpmgnet.fr
 tr.news.la-collectionairfrance.fr
 tr.news.lacollection-airfrance.fr
 tr.news.lacollectionairfrance.fr
+tr.news.lentreprise.lexpress.fr
 tr.news.lexpansion.lexpress.fr
 tr.news.lexpress.fr
 tr.news.linxea.com

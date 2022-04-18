@@ -309,7 +309,6 @@ stats.blog.codingmilitia.com
 stats.blog.merckx.fr
 stats.blog.sean-wright.com
 stats.blog.sublimesecurity.com
-stats.bluesabre.org
 stats.bmxdevils.be
 stats.breadtube.tv
 stats.breathly.app
@@ -317,6 +316,7 @@ stats.briskoda.net
 stats.broddin.be
 stats.buildingtheelite.com
 stats.bungeefit.co.uk
+stats.buttondown.email
 stats.byma.com.br
 stats.cable.tech
 stats.carrot2.org
@@ -453,7 +453,6 @@ stats.learnlinux.tv
 stats.leoloso.com
 stats.lessimpact.org
 stats.lestypesdefarine.fr
-stats.liist.io
 stats.literacysomerset.org
 stats.livingedge.ngo
 stats.lord.io
@@ -602,7 +601,6 @@ stats.the18monthpianoproject.com
 stats.thechurchfactory.com
 stats.thedartmoorsoapco.co.uk
 stats.thegoodlineheight.com
-stats.therenegadecoder.com
 stats.thomasvitale.com
 stats.threadstart.io
 stats.timmyomahony.com

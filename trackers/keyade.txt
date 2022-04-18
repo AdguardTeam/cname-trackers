@@ -5,12 +5,12 @@
 !
 ||clk.boulanger.com^
 ||clk.ubi.com^
+||k.brandalley.co.nl^
 ||k.cocooncenter.be^
 ||k.cocooncenter.co.uk^
 ||k.cocooncenter.com^
 ||k.cocooncenter.de^
 ||k.cocooncenter.es^
-||k.direct-assurance.fr^
 ||k.hofmann.es^
 ||k.laredoute.es^
 ||k.laredoute.ru^

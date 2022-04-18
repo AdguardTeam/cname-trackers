@@ -41,12 +41,14 @@ a.kagiti.club CNAME .
 a.katomu.club CNAME .
 a.letsjerk.org CNAME .
 a.letsjerk.to CNAME .
+a.letsjerk.tv CNAME .
 a.neverbe.xyz CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pumpity.net CNAME .
 a.streamoupload.xyz CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
+a.umpornozinho.com CNAME .
 a.warddogs.com CNAME .
 a.watchomovies.com CNAME .
 a.xirono.club CNAME .
@@ -116,10 +118,12 @@ av5.mofoshd.org CNAME .
 awrfds3.pornpapa.com CNAME .
 b.comihon.com CNAME .
 b.filexan.com CNAME .
+b.pinetq.com CNAME .
 b.sexvids.cc CNAME .
 b.sonorousporn.com CNAME .
 b1.hentaibaka.one CNAME .
 baren.hejkaheel.xyz CNAME .
+best.s5live.com CNAME .
 blog.andropps.com CNAME .
 c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
@@ -185,6 +189,7 @@ m.x-power.info CNAME .
 m.xrum.info CNAME .
 makumva.all-usanomination.com CNAME .
 marcusdevs.ru CNAME .
+mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 my.shymilftube.com CNAME .
 mydomainbest.com CNAME .
@@ -256,7 +261,6 @@ vz.7vid.net CNAME .
 w00t.us CNAME .
 web.cinetux.nu CNAME .
 whatsthis.owo.si CNAME .
-widjet.analnoe.tv CNAME .
 wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
 www.bigboy.monster CNAME .
@@ -279,3 +283,7 @@ z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .
 zeenite.online CNAME .
 zzz.pissrip.net CNAME .
+;
+; 548260.parkingcrew.net disguised trackers
+;
+widjet.analnoe.tv CNAME .

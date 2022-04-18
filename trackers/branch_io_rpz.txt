@@ -193,7 +193,6 @@ b.itravel.southwest.com CNAME .
 b.iwanna.southwest.com CNAME .
 b.lyst.com CNAME .
 b.prod1.youroffers.dominos.ca CNAME .
-b.your.offers.dominos.com CNAME .
 bclicks.lyst.com CNAME .
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au CNAME .
 bit.beformance.com CNAME .
@@ -205,6 +204,7 @@ bpe.mlb.com CNAME .
 bpeml.mlb.com CNAME .
 br.ac.ebookers.com CNAME .
 br.ac.ebookers.de CNAME .
+br.ac.ebookers.fi CNAME .
 br.ac.ebookers.fr CNAME .
 br.ac.ebookers.ie CNAME .
 br.ac.orbitz.com CNAME .
@@ -476,7 +476,6 @@ links.email.oxygen.com CNAME .
 links.email.tajawal.com CNAME .
 links.email.twine.com CNAME .
 links.email.usanetwork.com CNAME .
-links.emails.verishop.com CNAME .
 links.evault.history.com CNAME .
 links.fabletics.co.uk CNAME .
 links.fabletics.com CNAME .
@@ -523,7 +522,6 @@ links.thedyrt.com CNAME .
 links.theyes.com CNAME .
 links.yummly.com CNAME .
 links2.chownowmail.com CNAME .
-links2.emails.verishop.com CNAME .
 linktrace.diningcity.cn CNAME .
 m.irl.com CNAME .
 m1.stadiumgoods.com CNAME .
@@ -588,6 +586,7 @@ trklink.luisaviaroma.com CNAME .
 url1020.keycollectorcomics.com CNAME .
 url1451.careerkarma.info CNAME .
 url3630.newsletter.experience-muse.com CNAME .
+url3788.blazepizza.com CNAME .
 url7424.email.readytotravel.com CNAME .
 url7542.fluz.app CNAME .
 url7674.fitgenieapp.com CNAME .

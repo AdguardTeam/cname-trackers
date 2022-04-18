@@ -193,7 +193,6 @@ b.itravel.southwest.com
 b.iwanna.southwest.com
 b.lyst.com
 b.prod1.youroffers.dominos.ca
-b.your.offers.dominos.com
 bclicks.lyst.com
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
 bit.beformance.com
@@ -205,6 +204,7 @@ bpe.mlb.com
 bpeml.mlb.com
 br.ac.ebookers.com
 br.ac.ebookers.de
+br.ac.ebookers.fi
 br.ac.ebookers.fr
 br.ac.ebookers.ie
 br.ac.orbitz.com
@@ -476,7 +476,6 @@ links.email.oxygen.com
 links.email.tajawal.com
 links.email.twine.com
 links.email.usanetwork.com
-links.emails.verishop.com
 links.evault.history.com
 links.fabletics.co.uk
 links.fabletics.com
@@ -523,7 +522,6 @@ links.thedyrt.com
 links.theyes.com
 links.yummly.com
 links2.chownowmail.com
-links2.emails.verishop.com
 linktrace.diningcity.cn
 m.irl.com
 m1.stadiumgoods.com
@@ -588,6 +586,7 @@ trklink.luisaviaroma.com
 url1020.keycollectorcomics.com
 url1451.careerkarma.info
 url3630.newsletter.experience-muse.com
+url3788.blazepizza.com
 url7424.email.readytotravel.com
 url7542.fluz.app
 url7674.fitgenieapp.com

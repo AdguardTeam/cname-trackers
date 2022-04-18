@@ -27,6 +27,7 @@
     * 17db93a8-scxitlgt.cname.ebis.ne.jp
     * 18aeb18f-orvgub9g.cname.ebis.ne.jp
     * 1a549c8f-lxybwclf.cname.ebis.ne.jp
+    * 1c49adf8-5jfswxpe.cname.ebis.ne.jp
     * 23d55728-ssmshbez.cname.ebis.ne.jp
     * 26349a15-esqb2ypb.cname.ebis.ne.jp
     * 272dd850-1tkscuog.cname.ebis.ne.jp
@@ -230,6 +231,7 @@
 | cs0010sbeda.theory-diet.com | 17db93a8-scxitlgt.cname.ebis.ne.jp |
 | ebis.rozetta.jp | 18aeb18f-orvgub9g.cname.ebis.ne.jp |
 | ade.deskstyle.info | 1a549c8f-lxybwclf.cname.ebis.ne.jp |
+| ac-ebis-stb.usen.com | 1c49adf8-5jfswxpe.cname.ebis.ne.jp |
 | ebis.c-3-esthe.com | 23d55728-ssmshbez.cname.ebis.ne.jp |
 | ebis.smakon.jp | 26349a15-esqb2ypb.cname.ebis.ne.jp |
 | ad-ebis.mynavi-job20s.jp | 272dd850-1tkscuog.cname.ebis.ne.jp |

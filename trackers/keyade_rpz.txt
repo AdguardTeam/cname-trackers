@@ -5,12 +5,12 @@
 ;
 clk.boulanger.com CNAME .
 clk.ubi.com CNAME .
+k.brandalley.co.nl CNAME .
 k.cocooncenter.be CNAME .
 k.cocooncenter.co.uk CNAME .
 k.cocooncenter.com CNAME .
 k.cocooncenter.de CNAME .
 k.cocooncenter.es CNAME .
-k.direct-assurance.fr CNAME .
 k.hofmann.es CNAME .
 k.laredoute.es CNAME .
 k.laredoute.ru CNAME .

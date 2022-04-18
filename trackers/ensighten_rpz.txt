@@ -171,6 +171,7 @@ sst.dell.com CNAME .
 sst.johnlewis.com CNAME .
 t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
+tagman.fotolia.com CNAME .
 tagman.heathrow.com CNAME .
 tagman.virginatlantic.com CNAME .
 tags.aljazeera.com CNAME .

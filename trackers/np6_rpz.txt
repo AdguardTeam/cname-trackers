@@ -184,6 +184,7 @@ tr.info.mango-mobilites.fr CNAME .
 tr.info.mavoiturecash.fr CNAME .
 tr.info.mdbp.fr CNAME .
 tr.info.mobibam.com CNAME .
+tr.info.offres-cartegie.fr CNAME .
 tr.info.onboarding.corporatecards.bnpparibas CNAME .
 tr.info.promoneuve.fr CNAME .
 tr.info.rouen.aeroport.fr CNAME .
@@ -291,6 +292,7 @@ tr.news.kpmgnet.fr CNAME .
 tr.news.la-collectionairfrance.fr CNAME .
 tr.news.lacollection-airfrance.fr CNAME .
 tr.news.lacollectionairfrance.fr CNAME .
+tr.news.lentreprise.lexpress.fr CNAME .
 tr.news.lexpansion.lexpress.fr CNAME .
 tr.news.lexpress.fr CNAME .
 tr.news.linxea.com CNAME .

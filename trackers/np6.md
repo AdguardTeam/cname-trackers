@@ -189,6 +189,7 @@
 | tr.info.mavoiturecash.fr | tracking.bp01.net |
 | tr.info.mdbp.fr | tracking.bp01.net |
 | tr.info.mobibam.com | tracking.bp01.net |
+| tr.info.offres-cartegie.fr | tracking.bp01.net |
 | tr.info.onboarding.corporatecards.bnpparibas | tracking.bp01.net |
 | tr.info.promoneuve.fr | tracking.bp01.net |
 | tr.info.rouen.aeroport.fr | tracking.bp01.net |
@@ -296,6 +297,7 @@
 | tr.news.la-collectionairfrance.fr | tracking.bp01.net |
 | tr.news.lacollection-airfrance.fr | tracking.bp01.net |
 | tr.news.lacollectionairfrance.fr | tracking.bp01.net |
+| tr.news.lentreprise.lexpress.fr | tracking.bp01.net |
 | tr.news.lexpansion.lexpress.fr | tracking.bp01.net |
 | tr.news.lexpress.fr | tracking.bp01.net |
 | tr.news.linxea.com | tracking.bp01.net |

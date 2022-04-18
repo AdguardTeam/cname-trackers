@@ -25,6 +25,7 @@ a8.learning.agaroot.jp
 a8.lens-labo.com
 a8.looop-denki.com
 a8.makeshop.jp
+a8.n-pri.jp
 a8.nanafu.tokyo
 a8.nosh.jp
 a8.olightstore.jp
@@ -170,6 +171,7 @@ a8cv.str.classicmusic.tokyo
 a8cv.t-bang.jp
 a8cv.tfansite.jp
 a8cv.try-fs.com
+a8cv.udition.jp
 a8cv.unito.life
 a8cv.untenmenkyo-yi.com
 a8cv.urocca.jp

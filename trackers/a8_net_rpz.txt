@@ -25,6 +25,7 @@ a8.learning.agaroot.jp CNAME .
 a8.lens-labo.com CNAME .
 a8.looop-denki.com CNAME .
 a8.makeshop.jp CNAME .
+a8.n-pri.jp CNAME .
 a8.nanafu.tokyo CNAME .
 a8.nosh.jp CNAME .
 a8.olightstore.jp CNAME .
@@ -170,6 +171,7 @@ a8cv.str.classicmusic.tokyo CNAME .
 a8cv.t-bang.jp CNAME .
 a8cv.tfansite.jp CNAME .
 a8cv.try-fs.com CNAME .
+a8cv.udition.jp CNAME .
 a8cv.unito.life CNAME .
 a8cv.untenmenkyo-yi.com CNAME .
 a8cv.urocca.jp CNAME .

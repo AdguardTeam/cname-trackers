@@ -309,7 +309,6 @@ stats.blog.codingmilitia.com CNAME .
 stats.blog.merckx.fr CNAME .
 stats.blog.sean-wright.com CNAME .
 stats.blog.sublimesecurity.com CNAME .
-stats.bluesabre.org CNAME .
 stats.bmxdevils.be CNAME .
 stats.breadtube.tv CNAME .
 stats.breathly.app CNAME .
@@ -317,6 +316,7 @@ stats.briskoda.net CNAME .
 stats.broddin.be CNAME .
 stats.buildingtheelite.com CNAME .
 stats.bungeefit.co.uk CNAME .
+stats.buttondown.email CNAME .
 stats.byma.com.br CNAME .
 stats.cable.tech CNAME .
 stats.carrot2.org CNAME .
@@ -453,7 +453,6 @@ stats.learnlinux.tv CNAME .
 stats.leoloso.com CNAME .
 stats.lessimpact.org CNAME .
 stats.lestypesdefarine.fr CNAME .
-stats.liist.io CNAME .
 stats.literacysomerset.org CNAME .
 stats.livingedge.ngo CNAME .
 stats.lord.io CNAME .
@@ -602,7 +601,6 @@ stats.the18monthpianoproject.com CNAME .
 stats.thechurchfactory.com CNAME .
 stats.thedartmoorsoapco.co.uk CNAME .
 stats.thegoodlineheight.com CNAME .
-stats.therenegadecoder.com CNAME .
 stats.thomasvitale.com CNAME .
 stats.threadstart.io CNAME .
 stats.timmyomahony.com CNAME .

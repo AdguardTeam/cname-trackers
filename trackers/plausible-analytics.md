@@ -314,7 +314,6 @@
 | stats.blog.merckx.fr | custom.plausible.io |
 | stats.blog.sean-wright.com | custom.plausible.io |
 | stats.blog.sublimesecurity.com | custom.plausible.io |
-| stats.bluesabre.org | custom.plausible.io |
 | stats.bmxdevils.be | custom.plausible.io |
 | stats.breadtube.tv | custom.plausible.io |
 | stats.breathly.app | custom.plausible.io |
@@ -322,6 +321,7 @@
 | stats.broddin.be | custom.plausible.io |
 | stats.buildingtheelite.com | custom.plausible.io |
 | stats.bungeefit.co.uk | custom.plausible.io |
+| stats.buttondown.email | custom.plausible.io |
 | stats.byma.com.br | custom.plausible.io |
 | stats.cable.tech | custom.plausible.io |
 | stats.carrot2.org | custom.plausible.io |
@@ -458,7 +458,6 @@
 | stats.leoloso.com | custom.plausible.io |
 | stats.lessimpact.org | custom.plausible.io |
 | stats.lestypesdefarine.fr | custom.plausible.io |
-| stats.liist.io | custom.plausible.io |
 | stats.literacysomerset.org | custom.plausible.io |
 | stats.livingedge.ngo | custom.plausible.io |
 | stats.lord.io | custom.plausible.io |
@@ -607,7 +606,6 @@
 | stats.thechurchfactory.com | custom.plausible.io |
 | stats.thedartmoorsoapco.co.uk | custom.plausible.io |
 | stats.thegoodlineheight.com | custom.plausible.io |
-| stats.therenegadecoder.com | custom.plausible.io |
 | stats.thomasvitale.com | custom.plausible.io |
 | stats.threadstart.io | custom.plausible.io |
 | stats.timmyomahony.com | custom.plausible.io |

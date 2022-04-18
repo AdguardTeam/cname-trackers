@@ -5,6 +5,7 @@
 ;
 0naqzso7re3p.tapmyback.com CNAME .
 11b6n4ty2x3.taxliencode.com CNAME .
+13js1lbtbj3.sparkloop.app CNAME .
 1a715b8q5m3j.www.logology.co CNAME .
 1amehwchx31.bloxdhop.io CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
@@ -14,6 +15,7 @@
 25voj20abod.honeyswap.org CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .
+2e718yf5jypb.test.digitalsurge.io CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
@@ -23,7 +25,6 @@
 9i9dta97bhqp.www.cefirates.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
-a514vjsecus3.www.earthclassmail.com CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
@@ -33,12 +34,11 @@ din1j0su0u99.artwallstreet.io CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
+eqv1dzhowp78.www.cefirates.com CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
 fve57b8cs74i.www.cybernetman.com CNAME .
-g8zao4slwe69.asenaru.id CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .
-h5jcu19uw3fy.filmustage.com CNAME .
 hkhpnqciykaf.www.gamecamp.gg CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 j1kmigrhwjf4.angelacampos.es CNAME .
