@@ -44,6 +44,7 @@
 3346174.notify6.com
 3348424.notify6.com
 3349680.notify6.com
+3351068.notify6.com
 3359790.notifysrv.com
 3360202.notify6.com
 3362420.notifysrv.com
@@ -140,6 +141,7 @@
 3944974.notify6.com
 3944978.notify6.com
 3945010.notify6.com
+3950808.notify6.com
 3959292.notify6.com
 3961386.notify6.com
 3973252.notify6.com
@@ -178,8 +180,11 @@
 4329294.notify6.com
 4329296.notify6.com
 4329300.notify6.com
+4329306.notify6.com
+4365744.notify6.com
 4421184.notify6.com
 4454624.notify6.com
+4539496.notify6.com
 4598410.notify6.com
 4615884.notify6.com
 4623392.notify6.com
@@ -217,6 +222,7 @@ s.optnx.com
 s.st1net.com
 s.vlink6.com
 s.wlink1.com
+s.zlink1.com
 s.zlink2.com
 s.zlink4.com
 s.zlink6.com
@@ -248,10 +254,13 @@ u3y8v8u4.ackcdn.net
 www.notify6.com
 www.notifysrv.com
 #
+# cds.d6n9n7e2.hwcdn.net disguised trackers
+#
+a.exdynsrv.com
+a.exoclick.com
+a.exosrv.com
+delivery.gettopple.com
+#
 # cds.v3j9t5q9.hwcdn.net disguised trackers
 #
 admin.adnation.com
-#
-# cds.d6n9n7e2.hwcdn.net disguised trackers
-#
-delivery.gettopple.com

@@ -43,6 +43,7 @@
 | faq.brandnewapp.pro | api.clickaine.com |
 | flare.vtube.to | api.clickaine.com |
 | go.analsextuber.com | api.clickaine.com |
+| hruk.afguk.top | api.clickaine.com |
 | hruk.gumasi.top | api.clickaine.com |
 | hruk.jjikk.top | api.clickaine.com |
 | hruk.prikupok.com | api.clickaine.com |
@@ -54,3 +55,4 @@
 | wp.brandnewapp.pro | api.clickaine.com |
 | ww1.willalland.info | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |
+| zone1.bestporn24.com | api.clickaine.com |

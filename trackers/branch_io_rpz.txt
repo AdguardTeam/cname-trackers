@@ -215,6 +215,7 @@ br.email.lifesum.com CNAME .
 br.links.kmartphotos.com.au CNAME .
 br.links.kodakmoments.com CNAME .
 br.potato1.influitive.com CNAME .
+br.uk.beformance.com CNAME .
 branch-consumer.hipages.com.au CNAME .
 branch-io.smartr365.com CNAME .
 branch-tradie.hipages.com.au CNAME .
@@ -525,6 +526,7 @@ links2.chownowmail.com CNAME .
 linktrace.diningcity.cn CNAME .
 m.irl.com CNAME .
 m1.stadiumgoods.com CNAME .
+mail.blueapronwine.com CNAME .
 mail.bravado.co CNAME .
 mail.theknot.com CNAME .
 mandrillapp.zola.com CNAME .
@@ -586,7 +588,6 @@ trklink.luisaviaroma.com CNAME .
 url1020.keycollectorcomics.com CNAME .
 url1451.careerkarma.info CNAME .
 url3630.newsletter.experience-muse.com CNAME .
-url3788.blazepizza.com CNAME .
 url7424.email.readytotravel.com CNAME .
 url7542.fluz.app CNAME .
 url7674.fitgenieapp.com CNAME .

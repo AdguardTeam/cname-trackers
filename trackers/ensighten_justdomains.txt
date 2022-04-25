@@ -87,6 +87,7 @@ cookies.jll.com.au
 cookies.jll.com.br
 cookies.jll.com.co
 cookies.jll.com.hk
+cookies.jll.com.lk
 cookies.jll.com.mx
 cookies.jll.com.my
 cookies.jll.com.ph
@@ -146,6 +147,7 @@ fidelity.activate.ensighten.com
 gst.pulse.buyatoyota.com
 gst.pulse.toyota.com
 maurices.activate.ensighten.com
+mcdonalds.activate.ensighten.com
 measure.ensighten.com
 metrics.mysynchrony.com
 metrics.syf.com

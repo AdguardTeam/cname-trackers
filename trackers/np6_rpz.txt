@@ -126,6 +126,7 @@ tr.email.rs-fr.com CNAME .
 tr.email.securite-routiere.gouv.fr CNAME .
 tr.email.solocal.com CNAME .
 tr.email.thelem-assurances.fr CNAME .
+tr.email.toute-la-franchise.com CNAME .
 tr.email.virtual-expo.com CNAME .
 tr.email.voyagesleclerc.com CNAME .
 tr.emailing.canalplus-afrique.com CNAME .
@@ -235,6 +236,7 @@ tr.marketing.younited-credit.es CNAME .
 tr.marketing.younited-credit.pt CNAME .
 tr.mart.espmp-agfr.net CNAME .
 tr.membres.boursorama.info CNAME .
+tr.mep.enkiapp.io CNAME .
 tr.message.maaf.fr CNAME .
 tr.mhist.moethennessy.com CNAME .
 tr.mijn-superaanbieding.be CNAME .

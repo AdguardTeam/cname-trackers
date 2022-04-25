@@ -166,6 +166,7 @@
     * c35cf548-urr.cname.ebis.ne.jp
     * c398a8b1-yfrcguru.cname.ebis.ne.jp
     * c3ef335b-in8gz9ss.cname.ebis.ne.jp
+    * c7424645-h0sqxtcz.cname.ebis.ne.jp
     * c75154e7-t3ucd5yy.cname.ebis.ne.jp
     * c990b46a-cy6kqhld.cname.ebis.ne.jp
     * c9b592e5-3ddhh4av.cname.ebis.ne.jp
@@ -370,6 +371,7 @@
 | ebiscname.urr.jp | c35cf548-urr.cname.ebis.ne.jp |
 | ebis.jinzai-business.com | c398a8b1-yfrcguru.cname.ebis.ne.jp |
 | analyse.hinemos.info | c3ef335b-in8gz9ss.cname.ebis.ne.jp |
+| adtrack.loracle.jp | c7424645-h0sqxtcz.cname.ebis.ne.jp |
 | ebiscname.native-phrase.com | c75154e7-t3ucd5yy.cname.ebis.ne.jp |
 | ebisfracora.fracora.com | c990b46a-cy6kqhld.cname.ebis.ne.jp |
 | adebis.urban-research.jp | c9b592e5-3ddhh4av.cname.ebis.ne.jp |

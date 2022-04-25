@@ -33,6 +33,7 @@ analytics.geekyminds.net
 analytics.givealittle.co
 analytics.hiome.com
 analytics.kerns.co
+analytics.lifestyledemocracy.com
 analytics.lunge.de
 analytics.mambaui.com
 analytics.mc500.info
@@ -189,7 +190,6 @@ plausible.f1laps.com
 plausible.factly.in
 plausible.flowcv.io
 plausible.food.game
-plausible.goatstake.com
 plausible.golfbreaks.com
 plausible.goose.game
 plausible.gryka.net
@@ -336,6 +336,7 @@ stats.cleverdiabetic.com
 stats.coachingcourses.pro
 stats.code-it-studio.de
 stats.codeexposed.com
+stats.codinginfinity.me
 stats.coditia.com
 stats.cohere.so
 stats.colabra.app
@@ -550,7 +551,6 @@ stats.readng.co
 stats.referralhero.com
 stats.reisemobil.pro
 stats.remotebear.io
-stats.remotejobs.co.uk
 stats.reprage.com
 stats.revit-content.com
 stats.robhope.com

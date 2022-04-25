@@ -19,7 +19,6 @@
 2qqfxz5kecr4.www.eldorado.gg CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
-42qnuym6jsvn.www.cefirates.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
 9i9dta97bhqp.www.cefirates.com CNAME .
@@ -46,6 +45,7 @@ k5rtkx84u7fd.www.cefirates.com CNAME .
 k5ygj3bivnrp.uae.revent.store CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
+m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .

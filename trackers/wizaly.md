@@ -88,6 +88,7 @@
 | tk.airfrance.de | tkairfrance.wizaly.com |
 | tk.airfrance.fr | tkairfrance.wizaly.com |
 | tk.airfrance.ga | tkairfrance.wizaly.com |
+| tk.airfrance.gr | tkairfrance.wizaly.com |
 | tk.airfrance.ht | tkairfrance.wizaly.com |
 | tk.airfrance.ie | tkairfrance.wizaly.com |
 | tk.airfrance.it | tkairfrance.wizaly.com |

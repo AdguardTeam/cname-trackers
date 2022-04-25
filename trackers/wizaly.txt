@@ -17,6 +17,7 @@
 ||tk.airfrance.de^
 ||tk.airfrance.fr^
 ||tk.airfrance.ga^
+||tk.airfrance.gr^
 ||tk.airfrance.ht^
 ||tk.airfrance.ie^
 ||tk.airfrance.it^

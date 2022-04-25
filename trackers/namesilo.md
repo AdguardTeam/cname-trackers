@@ -13,13 +13,16 @@
 
 ### Rarely active trackers
 
-* cds.v3j9t5q9.hwcdn.net
 * cds.d6n9n7e2.hwcdn.net
+* cds.v3j9t5q9.hwcdn.net
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| a.exdynsrv.com | cds.d6n9n7e2.hwcdn.net |
+| a.exoclick.com | cds.d6n9n7e2.hwcdn.net |
+| a.exosrv.com | cds.d6n9n7e2.hwcdn.net |
 | delivery.gettopple.com | cds.d6n9n7e2.hwcdn.net |
 | admin.adnation.com | cds.v3j9t5q9.hwcdn.net |
 | rtb.exoclick.com | ka8ing2z.ab1n.net |
@@ -64,6 +67,7 @@
 | 3346174.notify6.com | tk6if76q.ab1n.net |
 | 3348424.notify6.com | tk6if76q.ab1n.net |
 | 3349680.notify6.com | tk6if76q.ab1n.net |
+| 3351068.notify6.com | tk6if76q.ab1n.net |
 | 3359790.notifysrv.com | tk6if76q.ab1n.net |
 | 3360202.notify6.com | tk6if76q.ab1n.net |
 | 3362420.notifysrv.com | tk6if76q.ab1n.net |
@@ -160,6 +164,7 @@
 | 3944974.notify6.com | tk6if76q.ab1n.net |
 | 3944978.notify6.com | tk6if76q.ab1n.net |
 | 3945010.notify6.com | tk6if76q.ab1n.net |
+| 3950808.notify6.com | tk6if76q.ab1n.net |
 | 3959292.notify6.com | tk6if76q.ab1n.net |
 | 3961386.notify6.com | tk6if76q.ab1n.net |
 | 3973252.notify6.com | tk6if76q.ab1n.net |
@@ -198,8 +203,11 @@
 | 4329294.notify6.com | tk6if76q.ab1n.net |
 | 4329296.notify6.com | tk6if76q.ab1n.net |
 | 4329300.notify6.com | tk6if76q.ab1n.net |
+| 4329306.notify6.com | tk6if76q.ab1n.net |
+| 4365744.notify6.com | tk6if76q.ab1n.net |
 | 4421184.notify6.com | tk6if76q.ab1n.net |
 | 4454624.notify6.com | tk6if76q.ab1n.net |
+| 4539496.notify6.com | tk6if76q.ab1n.net |
 | 4598410.notify6.com | tk6if76q.ab1n.net |
 | 4615884.notify6.com | tk6if76q.ab1n.net |
 | 4623392.notify6.com | tk6if76q.ab1n.net |
@@ -227,6 +235,7 @@
 | s.st1net.com | tk6if76q.ab1n.net |
 | s.vlink6.com | tk6if76q.ab1n.net |
 | s.wlink1.com | tk6if76q.ab1n.net |
+| s.zlink1.com | tk6if76q.ab1n.net |
 | s.zlink2.com | tk6if76q.ab1n.net |
 | s.zlink4.com | tk6if76q.ab1n.net |
 | s.zlink6.com | tk6if76q.ab1n.net |

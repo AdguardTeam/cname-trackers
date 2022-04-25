@@ -126,6 +126,7 @@ tr.email.rs-fr.com
 tr.email.securite-routiere.gouv.fr
 tr.email.solocal.com
 tr.email.thelem-assurances.fr
+tr.email.toute-la-franchise.com
 tr.email.virtual-expo.com
 tr.email.voyagesleclerc.com
 tr.emailing.canalplus-afrique.com
@@ -235,6 +236,7 @@ tr.marketing.younited-credit.es
 tr.marketing.younited-credit.pt
 tr.mart.espmp-agfr.net
 tr.membres.boursorama.info
+tr.mep.enkiapp.io
 tr.message.maaf.fr
 tr.mhist.moethennessy.com
 tr.mijn-superaanbieding.be

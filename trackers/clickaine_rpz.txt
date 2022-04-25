@@ -38,6 +38,7 @@ cn4.animehdl.net CNAME .
 faq.brandnewapp.pro CNAME .
 flare.vtube.to CNAME .
 go.analsextuber.com CNAME .
+hruk.afguk.top CNAME .
 hruk.gumasi.top CNAME .
 hruk.jjikk.top CNAME .
 hruk.prikupok.com CNAME .
@@ -49,3 +50,4 @@ snow.snowdayonline.xyz CNAME .
 wp.brandnewapp.pro CNAME .
 ww1.willalland.info CNAME .
 www.rtnews.pro CNAME .
+zone1.bestporn24.com CNAME .

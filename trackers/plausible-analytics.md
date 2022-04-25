@@ -38,6 +38,7 @@
 | analytics.givealittle.co | custom.plausible.io |
 | analytics.hiome.com | custom.plausible.io |
 | analytics.kerns.co | custom.plausible.io |
+| analytics.lifestyledemocracy.com | custom.plausible.io |
 | analytics.lunge.de | custom.plausible.io |
 | analytics.mambaui.com | custom.plausible.io |
 | analytics.mc500.info | custom.plausible.io |
@@ -194,7 +195,6 @@
 | plausible.factly.in | custom.plausible.io |
 | plausible.flowcv.io | custom.plausible.io |
 | plausible.food.game | custom.plausible.io |
-| plausible.goatstake.com | custom.plausible.io |
 | plausible.golfbreaks.com | custom.plausible.io |
 | plausible.goose.game | custom.plausible.io |
 | plausible.gryka.net | custom.plausible.io |
@@ -341,6 +341,7 @@
 | stats.coachingcourses.pro | custom.plausible.io |
 | stats.code-it-studio.de | custom.plausible.io |
 | stats.codeexposed.com | custom.plausible.io |
+| stats.codinginfinity.me | custom.plausible.io |
 | stats.coditia.com | custom.plausible.io |
 | stats.cohere.so | custom.plausible.io |
 | stats.colabra.app | custom.plausible.io |
@@ -555,7 +556,6 @@
 | stats.referralhero.com | custom.plausible.io |
 | stats.reisemobil.pro | custom.plausible.io |
 | stats.remotebear.io | custom.plausible.io |
-| stats.remotejobs.co.uk | custom.plausible.io |
 | stats.reprage.com | custom.plausible.io |
 | stats.revit-content.com | custom.plausible.io |
 | stats.robhope.com | custom.plausible.io |

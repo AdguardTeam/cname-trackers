@@ -33,6 +33,7 @@ analytics.geekyminds.net CNAME .
 analytics.givealittle.co CNAME .
 analytics.hiome.com CNAME .
 analytics.kerns.co CNAME .
+analytics.lifestyledemocracy.com CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
 analytics.mc500.info CNAME .
@@ -189,7 +190,6 @@ plausible.f1laps.com CNAME .
 plausible.factly.in CNAME .
 plausible.flowcv.io CNAME .
 plausible.food.game CNAME .
-plausible.goatstake.com CNAME .
 plausible.golfbreaks.com CNAME .
 plausible.goose.game CNAME .
 plausible.gryka.net CNAME .
@@ -336,6 +336,7 @@ stats.cleverdiabetic.com CNAME .
 stats.coachingcourses.pro CNAME .
 stats.code-it-studio.de CNAME .
 stats.codeexposed.com CNAME .
+stats.codinginfinity.me CNAME .
 stats.coditia.com CNAME .
 stats.cohere.so CNAME .
 stats.colabra.app CNAME .
@@ -550,7 +551,6 @@ stats.readng.co CNAME .
 stats.referralhero.com CNAME .
 stats.reisemobil.pro CNAME .
 stats.remotebear.io CNAME .
-stats.remotejobs.co.uk CNAME .
 stats.reprage.com CNAME .
 stats.revit-content.com CNAME .
 stats.robhope.com CNAME .

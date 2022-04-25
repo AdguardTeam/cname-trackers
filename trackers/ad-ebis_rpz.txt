@@ -67,6 +67,7 @@ adebiscname.auone.jp CNAME .
 adebisu.wowow.co.jp CNAME .
 admeasure.hh-online.jp CNAME .
 adpromo.peppynet.com CNAME .
+adtrack.loracle.jp CNAME .
 aesus.so-net.ne.jp CNAME .
 analyse.hinemos.info CNAME .
 axjfkc.kobayashi.co.jp CNAME .

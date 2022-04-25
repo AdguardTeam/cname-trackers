@@ -215,6 +215,7 @@ br.email.lifesum.com
 br.links.kmartphotos.com.au
 br.links.kodakmoments.com
 br.potato1.influitive.com
+br.uk.beformance.com
 branch-consumer.hipages.com.au
 branch-io.smartr365.com
 branch-tradie.hipages.com.au
@@ -525,6 +526,7 @@ links2.chownowmail.com
 linktrace.diningcity.cn
 m.irl.com
 m1.stadiumgoods.com
+mail.blueapronwine.com
 mail.bravado.co
 mail.theknot.com
 mandrillapp.zola.com
@@ -586,7 +588,6 @@ trklink.luisaviaroma.com
 url1020.keycollectorcomics.com
 url1451.careerkarma.info
 url3630.newsletter.experience-muse.com
-url3788.blazepizza.com
 url7424.email.readytotravel.com
 url7542.fluz.app
 url7674.fitgenieapp.com

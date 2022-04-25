@@ -224,6 +224,7 @@
 | br.links.kmartphotos.com.au | thirdparty.bnc.lt |
 | br.links.kodakmoments.com | thirdparty.bnc.lt |
 | br.potato1.influitive.com | thirdparty.bnc.lt |
+| br.uk.beformance.com | thirdparty.bnc.lt |
 | branch-consumer.hipages.com.au | thirdparty.bnc.lt |
 | branch-io.smartr365.com | thirdparty.bnc.lt |
 | branch-tradie.hipages.com.au | thirdparty.bnc.lt |
@@ -532,6 +533,7 @@
 | linktrace.diningcity.cn | thirdparty.bnc.lt |
 | m.irl.com | thirdparty.bnc.lt |
 | m1.stadiumgoods.com | thirdparty.bnc.lt |
+| mail.blueapronwine.com | thirdparty.bnc.lt |
 | mail.bravado.co | thirdparty.bnc.lt |
 | mail.theknot.com | thirdparty.bnc.lt |
 | mandrillapp.zola.com | thirdparty.bnc.lt |
@@ -592,7 +594,6 @@
 | url1020.keycollectorcomics.com | thirdparty.bnc.lt |
 | url1451.careerkarma.info | thirdparty.bnc.lt |
 | url3630.newsletter.experience-muse.com | thirdparty.bnc.lt |
-| url3788.blazepizza.com | thirdparty.bnc.lt |
 | url7424.email.readytotravel.com | thirdparty.bnc.lt |
 | url7542.fluz.app | thirdparty.bnc.lt |
 | url7674.fitgenieapp.com | thirdparty.bnc.lt |

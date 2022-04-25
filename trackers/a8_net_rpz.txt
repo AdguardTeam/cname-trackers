@@ -31,6 +31,7 @@ a8.nosh.jp CNAME .
 a8.olightstore.jp CNAME .
 a8.pcnext.shop CNAME .
 a8.print-netsquare.com CNAME .
+a8.rank-quest.jp CNAME .
 a8.remix-denki.com CNAME .
 a8.route-roller.info CNAME .
 a8.sakuratravel.jp CNAME .

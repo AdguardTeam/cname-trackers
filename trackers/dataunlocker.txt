@@ -19,7 +19,6 @@
 ||2qqfxz5kecr4.www.eldorado.gg^
 ||2rid9fii9chx.www.atlaslane.com^
 ||3l0zszdzjhpw.www.comicleaks.com^
-||42qnuym6jsvn.www.cefirates.com^
 ||8ehhtsv9bo7i.monkeylearn.com^
 ||8p0kiyq5mq1d.flex.team^
 ||9i9dta97bhqp.www.cefirates.com^
@@ -46,6 +45,7 @@
 ||k5ygj3bivnrp.uae.revent.store^
 ||kn81kivjwwc7.www.logology.co^
 ||lv6od3a4sz12.www.logology.co^
+||m6c4t9vmqarj.www.cefirates.com^
 ||mh9qqwotr890.koelewijn.nl^
 ||nqyuel589fq5.esgrounding.com^
 ||ouc82i67pytg.www.emanualonline.com^

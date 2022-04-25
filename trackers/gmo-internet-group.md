@@ -10,6 +10,7 @@
     * j-bg-adresult-sp-jp.ad-cloud.jp
     * j-image-ad-jp.ad-cloud.jp
     * j-newssuite-sony-net.ad-cloud.jp
+    * manage-newssuite-sony-net.ad-cloud.jp
 
 ### Rarely active trackers
 
@@ -35,6 +36,7 @@
 | j.bg.adresult-sp.jp | j-bg-adresult-sp-jp.ad-cloud.jp |
 | j.image-ad.jp | j-image-ad-jp.ad-cloud.jp |
 | j.newssuite.sony.net | j-newssuite-sony-net.ad-cloud.jp |
+| manage.newssuite.sony.net | manage-newssuite-sony-net.ad-cloud.jp |
 | newssuite.sony.net | newssuite-sony-net.storage.googleapis.com |
 | d.image-ad.jp | site-112900816347.gslb5.sakura.ne.jp |
 | d.newssuite.sony.net | site-112900816347.gslb5.sakura.ne.jp |
