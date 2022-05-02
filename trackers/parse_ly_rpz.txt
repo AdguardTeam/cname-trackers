@@ -11,6 +11,7 @@ fpa-cdn.parse.ly CNAME .
 fpa-cdn.slate.com CNAME .
 fpa-events.adweek.com CNAME .
 fpa-events.arstechnica.com CNAME .
+fpa-events.blog.parse.ly CNAME .
 fpa-events.decrypt.co CNAME .
 fpa-events.parse.ly CNAME .
 fpa-events.slate.com CNAME .

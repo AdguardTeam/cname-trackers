@@ -8,3 +8,4 @@ al.fulcloset.jp CNAME .
 al.ganzo.ne.jp CNAME .
 al.junior-onlineshop.jp CNAME .
 al.office-com.jp CNAME .
+al.pierrotshop.jp CNAME .

@@ -10,7 +10,6 @@
     * j-bg-adresult-sp-jp.ad-cloud.jp
     * j-image-ad-jp.ad-cloud.jp
     * j-newssuite-sony-net.ad-cloud.jp
-    * manage-newssuite-sony-net.ad-cloud.jp
 
 ### Rarely active trackers
 
@@ -18,8 +17,8 @@
 * e10217.g.akamaiedge.net
 * e26817.f.akamaiedge.net
 * e10217.f.akamaiedge.net
-* newssuite-sony-net.storage.googleapis.com
 * site-113001687131.gslb7.sakura.ne.jp
+* newssuite-sony-net.storage.googleapis.com
 
 ## Cloaking domains
 
@@ -36,9 +35,9 @@
 | j.bg.adresult-sp.jp | j-bg-adresult-sp-jp.ad-cloud.jp |
 | j.image-ad.jp | j-image-ad-jp.ad-cloud.jp |
 | j.newssuite.sony.net | j-newssuite-sony-net.ad-cloud.jp |
-| manage.newssuite.sony.net | manage-newssuite-sony-net.ad-cloud.jp |
 | newssuite.sony.net | newssuite-sony-net.storage.googleapis.com |
 | d.image-ad.jp | site-112900816347.gslb5.sakura.ne.jp |
 | d.newssuite.sony.net | site-112900816347.gslb5.sakura.ne.jp |
 | j.bg.adresult-sp.jp | site-112900816347.gslb5.sakura.ne.jp |
+| manage.newssuite.sony.net | site-113001687131.gslb7.sakura.ne.jp |
 | www.akane-ad.com | site-113001687131.gslb7.sakura.ne.jp |

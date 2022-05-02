@@ -16,9 +16,11 @@
 ||cdn.drawx.xyz^
 ||cdn.eecd.xyz^
 ||cdn.eeco.xyz^
+||cdn.faspox.com^
 ||cdn.fedsy.xyz^
 ||cdn.gecl.xyz^
 ||cdn.iople.com^
+||cdn.jwalf.com^
 ||cdn.luxope.com^
 ||cdn.namol.xyz^
 ||cdn.nlop.xyz^

@@ -42,6 +42,7 @@ adebis.kose.co.jp CNAME .
 adebis.koutsujiko.jp CNAME .
 adebis.leben-style.jp CNAME .
 adebis.livable.co.jp CNAME .
+adebis.no.01.alo-organic.com CNAME .
 adebis.nursery.co.jp CNAME .
 adebis.piano-kaitoriyasan.com CNAME .
 adebis.qeee.jp CNAME .

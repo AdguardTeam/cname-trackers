@@ -17,6 +17,7 @@ activate.maurices.com CNAME .
 activate.nydailynews.com CNAME .
 activate.orlandosentinel.com CNAME .
 activate.pacificsandiego.com CNAME .
+activate.pbmonthly.net CNAME .
 activate.platform.californiatimes.com CNAME .
 activate.ranchosantafereview.com CNAME .
 activate.sandiegouniontribune.com CNAME .

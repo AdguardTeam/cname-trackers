@@ -12,6 +12,7 @@ a8.cyclemarket.jp CNAME .
 a8.denki-koji.work CNAME .
 a8.denwa-hikari.com CNAME .
 a8.eonet.jp CNAME .
+a8.eonet.ne.jp CNAME .
 a8.erasutamo.onlinestaff.jp CNAME .
 a8.everest.ac CNAME .
 a8.fit-theme.com CNAME .
@@ -135,6 +136,7 @@ a8cv.brassiere-shorts.jp CNAME .
 a8cv.broadbandservice.jp CNAME .
 a8cv.busbookmark.jp CNAME .
 a8cv.coopnet.or.jp CNAME .
+a8cv.danjiki-net.jp CNAME .
 a8cv.direct-teleshop.jp CNAME .
 a8cv.dotpro.tokyo CNAME .
 a8cv.downjacket.pro CNAME .
@@ -159,6 +161,7 @@ a8cv.omni7.jp CNAME .
 a8cv.online.bell-road.com CNAME .
 a8cv.p-antiaging.com CNAME .
 a8cv.presence.jp CNAME .
+a8cv.reservation.matching-photo.com CNAME .
 a8cv.sakura-forest.com CNAME .
 a8cv.shibarinashi-wifi.jp CNAME .
 a8cv.shinro.info CNAME .

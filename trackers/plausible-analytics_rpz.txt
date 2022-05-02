@@ -428,7 +428,6 @@ stats.iscc-system.org CNAME .
 stats.ivankahl.com CNAME .
 stats.jackwhiting.co.uk CNAME .
 stats.jamesevers.co.uk CNAME .
-stats.jani.to CNAME .
 stats.janlindblom.se CNAME .
 stats.jansix.at CNAME .
 stats.jawebb.se CNAME .
@@ -451,6 +450,7 @@ stats.laxallstars.com CNAME .
 stats.layl.app CNAME .
 stats.leaguestats.gg CNAME .
 stats.learnlinux.tv CNAME .
+stats.lefthoek.com CNAME .
 stats.leoloso.com CNAME .
 stats.lessimpact.org CNAME .
 stats.lestypesdefarine.fr CNAME .
@@ -491,6 +491,7 @@ stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
 stats.newslit.co CNAME .
 stats.nextaction.app CNAME .
+stats.nicklafferty.com CNAME .
 stats.nicolabricot.com CNAME .
 stats.nicolaskempf.fr CNAME .
 stats.nomad.radio CNAME .

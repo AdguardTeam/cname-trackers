@@ -16,9 +16,11 @@ cdn.decpo.xyz CNAME .
 cdn.drawx.xyz CNAME .
 cdn.eecd.xyz CNAME .
 cdn.eeco.xyz CNAME .
+cdn.faspox.com CNAME .
 cdn.fedsy.xyz CNAME .
 cdn.gecl.xyz CNAME .
 cdn.iople.com CNAME .
+cdn.jwalf.com CNAME .
 cdn.luxope.com CNAME .
 cdn.namol.xyz CNAME .
 cdn.nlop.xyz CNAME .

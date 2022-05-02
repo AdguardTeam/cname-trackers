@@ -17,6 +17,7 @@
 ||activate.nydailynews.com^
 ||activate.orlandosentinel.com^
 ||activate.pacificsandiego.com^
+||activate.pbmonthly.net^
 ||activate.platform.californiatimes.com^
 ||activate.ranchosantafereview.com^
 ||activate.sandiegouniontribune.com^

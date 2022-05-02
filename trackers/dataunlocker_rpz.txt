@@ -19,9 +19,9 @@
 2qqfxz5kecr4.www.eldorado.gg CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
+78rkcgj4i8c6.www.cefirates.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
-9i9dta97bhqp.www.cefirates.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
@@ -35,6 +35,7 @@ e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
 eqv1dzhowp78.www.cefirates.com CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
+fq9vy0muyqi3.www.madrigalmaps.com CNAME .
 fve57b8cs74i.www.cybernetman.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .
@@ -52,6 +53,7 @@ ouc82i67pytg.www.emanualonline.com CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 pg3b233p99sa.www.marketdata.app CNAME .
 qmaea68tanna.www.earthclassmail.com CNAME .
+qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s4s51f00a3o7.www.eldorado.gg CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .

@@ -182,7 +182,6 @@ g1be.swisslife-direct.fr CNAME .
 gdm1.toner.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
-gi7a.structube.com CNAME .
 guq9.vente-unique.it CNAME .
 gwtc.sfr.fr CNAME .
 h00c.sfr.fr CNAME .
@@ -362,6 +361,7 @@ why3.inseec.education CNAME .
 wph2.destinia.us CNAME .
 xay5o.toscane-boutique.fr CNAME .
 xjq5.belambra.be CNAME .
+xoq.pmubrasil.com.br CNAME .
 xy33.smallable.com CNAME .
 yf5.voyage-prive.at CNAME .
 yh6u.dealeusedevoyages.com CNAME .

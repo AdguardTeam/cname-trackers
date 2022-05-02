@@ -7,7 +7,7 @@
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
 2.dtxtck1.xyz CNAME .
-3.premihub.xyz CNAME .
+2.proanime.xyz CNAME .
 58745.clicknplay.to CNAME .
 71213zhazha.com CNAME .
 987656iuyyty.hotscopes.to CNAME .
@@ -20,6 +20,7 @@ a.allwedoisfuck.com CNAME .
 a.andropps.us CNAME .
 a.aniplay.it CNAME .
 a.antiadxxxspy.com CNAME .
+a.apyarvideo.xyz CNAME .
 a.bitporno.com CNAME .
 a.cashjma.com CNAME .
 a.cdn1.pro CNAME .
@@ -37,7 +38,7 @@ a.focusde.info CNAME .
 a.gaypornlove.net CNAME .
 a.gayvideo.me CNAME .
 a.green-good-nice.site CNAME .
-a.hentaimotel.com CNAME .
+a.hentai369.com CNAME .
 a.kagiti.club CNAME .
 a.katomu.club CNAME .
 a.letsjerk.org CNAME .
@@ -71,6 +72,7 @@ adsnot.1supjav.xyz CNAME .
 adspy.javrank.com CNAME .
 advpro.pro CNAME .
 ags.hobby.porn CNAME .
+amaz.emailon.top CNAME .
 amazingdomain.sbs CNAME .
 amf2lm1vbnn0zxi.myjav.fun CNAME .
 antiadblock.info CNAME .
@@ -123,6 +125,7 @@ b.pinetq.com CNAME .
 b.sexvids.cc CNAME .
 b.sonorousporn.com CNAME .
 b1.hentaibaka.one CNAME .
+banana.emailon.top CNAME .
 baren.hejkaheel.xyz CNAME .
 best.s5live.com CNAME .
 blog.andropps.com CNAME .
@@ -155,6 +158,7 @@ eco.blendxxx.com CNAME .
 erfe.sexydev.dev CNAME .
 est.pornleech.ch CNAME .
 eyedssw.javvvvvv.xyz CNAME .
+fast.s5live.com CNAME .
 forads.pro CNAME .
 fortran.icu CNAME .
 free.srcdn.xyz CNAME .
@@ -166,11 +170,14 @@ geovideo.name CNAME .
 gg.xszcdn.com CNAME .
 ghtry.amateurswild.com CNAME .
 glokta.info CNAME .
+go.s5live.com CNAME .
 go.showmeyouradsnow.com CNAME .
 go.ss-n-30.com CNAME .
+goog.emailon.top CNAME .
 hazicu.hothomefuck.com CNAME .
 hq3x.com CNAME .
 hsux.com CNAME .
+hub.bazboy.club CNAME .
 i.hqvrporn.net CNAME .
 id.fc2-ppv.live CNAME .
 in.fuckhardclips.com CNAME .
@@ -221,7 +228,6 @@ pre.102porno.club CNAME .
 pre.ebasos.club CNAME .
 pre.myfuck.club CNAME .
 profield.ddns.net CNAME .
-pu.teentube18.net CNAME .
 pubblicita.animeitaly.org CNAME .
 redi.teengirl-pics.com CNAME .
 rst.pornyhd.com CNAME .
@@ -272,6 +278,7 @@ www.hq3x.com CNAME .
 www.lechoncito.one CNAME .
 www.letstry69.xyz CNAME .
 www.sex1.party CNAME .
+www.ucdn.website CNAME .
 www.upcdn.site CNAME .
 www.vkcdnservice.com CNAME .
 www4.hentaigamecg.com CNAME .

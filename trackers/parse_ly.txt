@@ -11,6 +11,7 @@
 ||fpa-cdn.slate.com^
 ||fpa-events.adweek.com^
 ||fpa-events.arstechnica.com^
+||fpa-events.blog.parse.ly^
 ||fpa-events.decrypt.co^
 ||fpa-events.parse.ly^
 ||fpa-events.slate.com^

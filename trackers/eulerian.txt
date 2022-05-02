@@ -182,7 +182,6 @@
 ||gdm1.toner.fr^
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
-||gi7a.structube.com^
 ||guq9.vente-unique.it^
 ||gwtc.sfr.fr^
 ||h00c.sfr.fr^
@@ -362,6 +361,7 @@
 ||wph2.destinia.us^
 ||xay5o.toscane-boutique.fr^
 ||xjq5.belambra.be^
+||xoq.pmubrasil.com.br^
 ||xy33.smallable.com^
 ||yf5.voyage-prive.at^
 ||yh6u.dealeusedevoyages.com^

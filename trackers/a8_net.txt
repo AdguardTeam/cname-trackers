@@ -12,6 +12,7 @@
 ||a8.denki-koji.work^
 ||a8.denwa-hikari.com^
 ||a8.eonet.jp^
+||a8.eonet.ne.jp^
 ||a8.erasutamo.onlinestaff.jp^
 ||a8.everest.ac^
 ||a8.fit-theme.com^
@@ -135,6 +136,7 @@
 ||a8cv.broadbandservice.jp^
 ||a8cv.busbookmark.jp^
 ||a8cv.coopnet.or.jp^
+||a8cv.danjiki-net.jp^
 ||a8cv.direct-teleshop.jp^
 ||a8cv.dotpro.tokyo^
 ||a8cv.downjacket.pro^
@@ -159,6 +161,7 @@
 ||a8cv.online.bell-road.com^
 ||a8cv.p-antiaging.com^
 ||a8cv.presence.jp^
+||a8cv.reservation.matching-photo.com^
 ||a8cv.sakura-forest.com^
 ||a8cv.shibarinashi-wifi.jp^
 ||a8cv.shinro.info^

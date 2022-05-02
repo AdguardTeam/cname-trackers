@@ -35,7 +35,6 @@
 a.hibbett.com
 ablink.1954.bk.com
 ablink.a.radio.com
-ablink.account.quizlet.com
 ablink.account.zip.co
 ablink.activation.depop.com
 ablink.alerts.steadyapp.com
@@ -90,7 +89,6 @@ ablink.info.timhortons.com
 ablink.info.vida.com
 ablink.juicer.li.me
 ablink.kfc.com.au
-ablink.lifecycle.quizlet.com
 ablink.loyal.timhortons.ca
 ablink.loyal.timhortons.com
 ablink.loyalty.almosafer.com
@@ -120,7 +118,6 @@ ablink.my.zip.co
 ablink.news.felixmobile.com.au
 ablink.news.gimmeradio.com
 ablink.news.omio.com
-ablink.newsletter.quizlet.com
 ablink.notice.hoopladigital.com
 ablink.notice.spriggy.com.au
 ablink.notification.insighttimer.com
@@ -324,6 +321,7 @@ email.clearscore.com
 email.clearscore.com.au
 email.everyonesocial.circle.com
 email.everyonesocial.coupa.com
+email.everyonesocial.indeed.com
 email.everyonesocial.r3.com
 email.everyonesocial.rubrik.com
 email.everyonesocial.united.com
@@ -532,7 +530,6 @@ mail.theknot.com
 mandrillapp.zola.com
 mlinks.fluz.app
 mx.carfax.com
-nextcname.getblueshift.com
 notice.hoopladigital.com
 notify.pray.com
 pint-dev-branch.airship.com

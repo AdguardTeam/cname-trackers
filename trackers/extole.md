@@ -26,6 +26,7 @@
     * talbots.extole.com
     * timberland.extole.com
     * vimeo.extole.com
+    * volcom.extole.com
     * vonage.extole.com
 
 ### Rarely active trackers
@@ -63,4 +64,5 @@
 | refer.talbots.com | talbots.extole.com |
 | refer.timberland.com | timberland.extole.com |
 | share.vimeo.com | vimeo.extole.com |
+| refer.volcom.com | volcom.extole.com |
 | refer.vonage.com | vonage.extole.com |

@@ -11,6 +11,7 @@
     * fpa-cdn-slate-com.parsely.com
     * fpa-events-adweek-com.parsely.com
     * fpa-events-arstechnica-com.parsely.com
+    * fpa-events-blog-parse-ly.parsely.com
     * fpa-events-decrypt-co.parsely.com
     * fpa-events-parse-ly.parsely.com
     * fpa-events-slate-com.parsely.com
@@ -27,6 +28,7 @@
 | fpa-cdn.slate.com | fpa-cdn-slate-com.parsely.com |
 | fpa-events.adweek.com | fpa-events-adweek-com.parsely.com |
 | fpa-events.arstechnica.com | fpa-events-arstechnica-com.parsely.com |
+| fpa-events.blog.parse.ly | fpa-events-blog-parse-ly.parsely.com |
 | fpa-events.decrypt.co | fpa-events-decrypt-co.parsely.com |
 | fpa-events.parse.ly | fpa-events-parse-ly.parsely.com |
 | fpa-events.slate.com | fpa-events-slate-com.parsely.com |

@@ -18,6 +18,7 @@
 | c4n.myteentgp.com | api.clickaine.com |
 | c4n.watchpornonline.xyz | api.clickaine.com |
 | c4n.xxx8.me | api.clickaine.com |
+| ca.infomix.best | api.clickaine.com |
 | ca.xxxshame.com | api.clickaine.com |
 | cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
 | cc.opowiadaniaerotyczne-darmowo.com | api.clickaine.com |
@@ -40,6 +41,7 @@
 | cln.willyporn.com | api.clickaine.com |
 | cmd.maturexxxporno.net | api.clickaine.com |
 | cn4.animehdl.net | api.clickaine.com |
+| dnsbl.test.ww1.willalland.info | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flare.vtube.to | api.clickaine.com |
 | go.analsextuber.com | api.clickaine.com |
@@ -55,4 +57,5 @@
 | wp.brandnewapp.pro | api.clickaine.com |
 | ww1.willalland.info | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |
+| zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

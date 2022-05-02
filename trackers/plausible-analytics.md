@@ -433,7 +433,6 @@
 | stats.ivankahl.com | custom.plausible.io |
 | stats.jackwhiting.co.uk | custom.plausible.io |
 | stats.jamesevers.co.uk | custom.plausible.io |
-| stats.jani.to | custom.plausible.io |
 | stats.janlindblom.se | custom.plausible.io |
 | stats.jansix.at | custom.plausible.io |
 | stats.jawebb.se | custom.plausible.io |
@@ -456,6 +455,7 @@
 | stats.layl.app | custom.plausible.io |
 | stats.leaguestats.gg | custom.plausible.io |
 | stats.learnlinux.tv | custom.plausible.io |
+| stats.lefthoek.com | custom.plausible.io |
 | stats.leoloso.com | custom.plausible.io |
 | stats.lessimpact.org | custom.plausible.io |
 | stats.lestypesdefarine.fr | custom.plausible.io |
@@ -496,6 +496,7 @@
 | stats.nerdbusiness.com | custom.plausible.io |
 | stats.newslit.co | custom.plausible.io |
 | stats.nextaction.app | custom.plausible.io |
+| stats.nicklafferty.com | custom.plausible.io |
 | stats.nicolabricot.com | custom.plausible.io |
 | stats.nicolaskempf.fr | custom.plausible.io |
 | stats.nomad.radio | custom.plausible.io |

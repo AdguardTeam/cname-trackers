@@ -76,11 +76,11 @@
 ||tr.commande.location.boulanger.com^
 ||tr.communaute.caradisiac.com^
 ||tr.communautes-mediametrie.fr^
-||tr.communication-comptable.fr^
 ||tr.communication.b2b-actualites.com^
 ||tr.communication.boursorama.info^
 ||tr.communication.cgaaer.fr^
 ||tr.communication.harmonie-mutuelle.fr^
+||tr.communication.jardindacclimatation.fr^
 ||tr.communication.lvmh.fr^
 ||tr.communication.moethennessy.com^
 ||tr.communication.numericable.fr^
@@ -285,6 +285,7 @@
 ||tr.news.enkiapp.io^
 ||tr.news.entreprise-pm.com^
 ||tr.news.exclu.fr^
+||tr.news.futuramedia.fr^
 ||tr.news.geantcasino.fr^
 ||tr.news.heredis.com^
 ||tr.news.i24news.tv^

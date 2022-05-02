@@ -24,6 +24,7 @@ refer.shoesforcrews.com CNAME .
 refer.sperry.com CNAME .
 refer.talbots.com CNAME .
 refer.timberland.com CNAME .
+refer.volcom.com CNAME .
 refer.vonage.com CNAME .
 refer.xoom.com CNAME .
 referral.hostgator.com CNAME .

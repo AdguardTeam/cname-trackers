@@ -428,7 +428,6 @@
 ||stats.ivankahl.com^
 ||stats.jackwhiting.co.uk^
 ||stats.jamesevers.co.uk^
-||stats.jani.to^
 ||stats.janlindblom.se^
 ||stats.jansix.at^
 ||stats.jawebb.se^
@@ -451,6 +450,7 @@
 ||stats.layl.app^
 ||stats.leaguestats.gg^
 ||stats.learnlinux.tv^
+||stats.lefthoek.com^
 ||stats.leoloso.com^
 ||stats.lessimpact.org^
 ||stats.lestypesdefarine.fr^
@@ -491,6 +491,7 @@
 ||stats.nerdbusiness.com^
 ||stats.newslit.co^
 ||stats.nextaction.app^
+||stats.nicklafferty.com^
 ||stats.nicolabricot.com^
 ||stats.nicolaskempf.fr^
 ||stats.nomad.radio^

@@ -76,11 +76,11 @@ tr.com.sfr.fr CNAME .
 tr.commande.location.boulanger.com CNAME .
 tr.communaute.caradisiac.com CNAME .
 tr.communautes-mediametrie.fr CNAME .
-tr.communication-comptable.fr CNAME .
 tr.communication.b2b-actualites.com CNAME .
 tr.communication.boursorama.info CNAME .
 tr.communication.cgaaer.fr CNAME .
 tr.communication.harmonie-mutuelle.fr CNAME .
+tr.communication.jardindacclimatation.fr CNAME .
 tr.communication.lvmh.fr CNAME .
 tr.communication.moethennessy.com CNAME .
 tr.communication.numericable.fr CNAME .
@@ -285,6 +285,7 @@ tr.news.editions-lva.fr CNAME .
 tr.news.enkiapp.io CNAME .
 tr.news.entreprise-pm.com CNAME .
 tr.news.exclu.fr CNAME .
+tr.news.futuramedia.fr CNAME .
 tr.news.geantcasino.fr CNAME .
 tr.news.heredis.com CNAME .
 tr.news.i24news.tv CNAME .

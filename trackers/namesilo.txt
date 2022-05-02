@@ -9,6 +9,7 @@
 ||3169187.notify6.com^
 ||3171864.notifysrv.com^
 ||3177866.notify6.com^
+||3178848.notifysrv.com^
 ||3179416.notify6.com^
 ||3180710.notifysrv.com^
 ||3181924.notifysrv.com^
@@ -21,6 +22,7 @@
 ||3215685.notify6.com^
 ||3225747.notify6.com^
 ||3231172.notify6.com^
+||3232836.notify6.com^
 ||3242990.notify6.com^
 ||3243082.notify6.com^
 ||3249648.notify6.com^
@@ -70,12 +72,14 @@
 ||3466857.notifysrv.com^
 ||3483067.notifysrv.com^
 ||3498171.notify6.com^
+||3501655.notify6.com^
 ||3505135.notifysrv.com^
 ||3508819.notify6.com^
 ||3518183.notifysrv.com^
 ||3520653.notifysrv.com^
 ||3521363.notifysrv.com^
 ||3523289.notifysrv.com^
+||3524339.notify6.com^
 ||3527699.notify6.com^
 ||3541095.notifysrv.com^
 ||3549573.notifysrv.com^
@@ -111,6 +115,7 @@
 ||3662595.notifysrv.com^
 ||3662601.notifysrv.com^
 ||3662897.notifysrv.com^
+||3662967.notifysrv.com^
 ||3668787.notifysrv.com^
 ||3670119.notifysrv.com^
 ||3672243.notifysrv.com^
@@ -152,6 +157,7 @@
 ||4031266.notify6.com^
 ||4037374.notify6.com^
 ||4037426.notify6.com^
+||4050544.notify6.com^
 ||4052808.notify6.com^
 ||4052828.notify6.com^
 ||4061378.notify6.com^
@@ -185,6 +191,7 @@
 ||4421184.notify6.com^
 ||4454624.notify6.com^
 ||4539496.notify6.com^
+||4587228.notify6.com^
 ||4598410.notify6.com^
 ||4615884.notify6.com^
 ||4623392.notify6.com^
@@ -259,8 +266,15 @@
 ||a.exdynsrv.com^
 ||a.exoclick.com^
 ||a.exosrv.com^
+||ads.exdynsrv.com^
+||ads.exoclick.com^
+||ads.exosrv.com^
 ||delivery.gettopple.com^
 !
 ! cds.v3j9t5q9.hwcdn.net disguised trackers
 !
 ||admin.adnation.com^
+!
+! 1208818836.rsc.cdn77.org disguised trackers
+!
+||u3y8v8u4.ackcdn.net^

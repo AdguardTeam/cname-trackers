@@ -35,7 +35,6 @@
 a.hibbett.com CNAME .
 ablink.1954.bk.com CNAME .
 ablink.a.radio.com CNAME .
-ablink.account.quizlet.com CNAME .
 ablink.account.zip.co CNAME .
 ablink.activation.depop.com CNAME .
 ablink.alerts.steadyapp.com CNAME .
@@ -90,7 +89,6 @@ ablink.info.timhortons.com CNAME .
 ablink.info.vida.com CNAME .
 ablink.juicer.li.me CNAME .
 ablink.kfc.com.au CNAME .
-ablink.lifecycle.quizlet.com CNAME .
 ablink.loyal.timhortons.ca CNAME .
 ablink.loyal.timhortons.com CNAME .
 ablink.loyalty.almosafer.com CNAME .
@@ -120,7 +118,6 @@ ablink.my.zip.co CNAME .
 ablink.news.felixmobile.com.au CNAME .
 ablink.news.gimmeradio.com CNAME .
 ablink.news.omio.com CNAME .
-ablink.newsletter.quizlet.com CNAME .
 ablink.notice.hoopladigital.com CNAME .
 ablink.notice.spriggy.com.au CNAME .
 ablink.notification.insighttimer.com CNAME .
@@ -324,6 +321,7 @@ email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
 email.everyonesocial.circle.com CNAME .
 email.everyonesocial.coupa.com CNAME .
+email.everyonesocial.indeed.com CNAME .
 email.everyonesocial.r3.com CNAME .
 email.everyonesocial.rubrik.com CNAME .
 email.everyonesocial.united.com CNAME .
@@ -532,7 +530,6 @@ mail.theknot.com CNAME .
 mandrillapp.zola.com CNAME .
 mlinks.fluz.app CNAME .
 mx.carfax.com CNAME .
-nextcname.getblueshift.com CNAME .
 notice.hoopladigital.com CNAME .
 notify.pray.com CNAME .
 pint-dev-branch.airship.com CNAME .

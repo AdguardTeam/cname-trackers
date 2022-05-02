@@ -84,6 +84,7 @@
     * 60222f89-dui9p9au.cname.ebis.ne.jp
     * 608975dd-6hbgpszs.cname.ebis.ne.jp
     * 60975a62-6pusefyf.cname.ebis.ne.jp
+    * 61ee329f-zslwnuid.cname.ebis.ne.jp
     * 62cdc15c-yhrqdvjf.cname.ebis.ne.jp
     * 62eeb5c5-qzuayf3m.cname.ebis.ne.jp
     * 63caa179-uynsk4n4.cname.ebis.ne.jp
@@ -289,6 +290,7 @@
 | ad.autorace.jp | 60222f89-dui9p9au.cname.ebis.ne.jp |
 | ebis.sekisuihouse.co.jp | 608975dd-6hbgpszs.cname.ebis.ne.jp |
 | ebis-tracking.shinyokohama-beauty.com | 60975a62-6pusefyf.cname.ebis.ne.jp |
+| adebis.no.01.alo-organic.com | 61ee329f-zslwnuid.cname.ebis.ne.jp |
 | ebis.gokusen-ichiba.com | 62cdc15c-yhrqdvjf.cname.ebis.ne.jp |
 | ebisanalysis.mouse-jp.co.jp | 62eeb5c5-qzuayf3m.cname.ebis.ne.jp |
 | ad.aucfan.com | 63caa179-uynsk4n4.cname.ebis.ne.jp |
