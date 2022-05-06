@@ -91,6 +91,7 @@
 | ablink.info.beres.id | thirdparty.bnc.lt |
 | ablink.info.felixmobile.com.au | thirdparty.bnc.lt |
 | ablink.info.gawin.ph | thirdparty.bnc.lt |
+| ablink.info.kaodim.com | thirdparty.bnc.lt |
 | ablink.info.pressreader.com | thirdparty.bnc.lt |
 | ablink.info.sofi.org | thirdparty.bnc.lt |
 | ablink.info.themarket.nz | thirdparty.bnc.lt |
@@ -150,6 +151,7 @@
 | ablink.sender.skyscanner.com | thirdparty.bnc.lt |
 | ablink.sender.skyscanner.net | thirdparty.bnc.lt |
 | ablink.staging-e.klarna.com | thirdparty.bnc.lt |
+| ablink.support.gimmecountry.com | thirdparty.bnc.lt |
 | ablink.support.gimmeradio.com | thirdparty.bnc.lt |
 | ablink.tchicken.popeyes.com | thirdparty.bnc.lt |
 | ablink.test.iheart.com | thirdparty.bnc.lt |
@@ -199,6 +201,7 @@
 | b.iwanna.southwest.com | thirdparty.bnc.lt |
 | b.lyst.com | thirdparty.bnc.lt |
 | b.prod1.youroffers.dominos.ca | thirdparty.bnc.lt |
+| b.your.rewardsemail.dominos.ca | thirdparty.bnc.lt |
 | bclicks.lyst.com | thirdparty.bnc.lt |
 | bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au | thirdparty.bnc.lt |
 | bit.beformance.com | thirdparty.bnc.lt |
@@ -213,6 +216,7 @@
 | br.ac.ebookers.fi | thirdparty.bnc.lt |
 | br.ac.ebookers.fr | thirdparty.bnc.lt |
 | br.ac.ebookers.ie | thirdparty.bnc.lt |
+| br.ac.mrjet.se | thirdparty.bnc.lt |
 | br.ac.orbitz.com | thirdparty.bnc.lt |
 | br.ac.travelocity.com | thirdparty.bnc.lt |
 | br.ac2.cheaptickets.com | thirdparty.bnc.lt |
@@ -596,6 +600,5 @@
 | url7674.fitgenieapp.com | thirdparty.bnc.lt |
 | url7962.careerkarma.io | thirdparty.bnc.lt |
 | url8196.mindrise.app | thirdparty.bnc.lt |
-| url9576.oneshift.com | thirdparty.bnc.lt |
 | url9609.account.experience-muse.com | thirdparty.bnc.lt |
 | wl.spotify.com | thirdparty.bnc.lt |

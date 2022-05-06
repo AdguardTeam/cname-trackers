@@ -225,6 +225,7 @@ web.news.lancel.com
 web.news.piquadro.com
 web.news.thebridge.it
 web.newsletter.viviennewestwood.com
+web.online.monnalisa.com
 web.s.sasrx.com
 web.sidsavage.com
 web.solesource.com

@@ -7,7 +7,6 @@
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
 2.dtxtck1.xyz CNAME .
-2.proanime.xyz CNAME .
 58745.clicknplay.to CNAME .
 71213zhazha.com CNAME .
 987656iuyyty.hotscopes.to CNAME .
@@ -138,9 +137,11 @@ cdn3.hentaihand.com CNAME .
 cdnvid.com CNAME .
 chrome-loading.car-insurance-reviews.com CNAME .
 client2009x25.xcdn.ovh CNAME .
+coco.rockdilla.com CNAME .
 cool.ah-me.com CNAME .
 dashboard.fc2ppv.buzz CNAME .
 data.bangtubevideos.com CNAME .
+ddownload.simplaza.org CNAME .
 deliver.vkcdnservice.com CNAME .
 digiadzone.com CNAME .
 digital.goldvertise.com CNAME .
@@ -188,6 +189,7 @@ ka.kakakakaka.xyz CNAME .
 ka2.javbuzz.com CNAME .
 kliqz.com CNAME .
 kuhdsysdas.indexsubtitle.com CNAME .
+l.rated.sex CNAME .
 likse.aaaf.info CNAME .
 lixir.wargers.org CNAME .
 load.jabx.net CNAME .
@@ -219,18 +221,21 @@ oi.fapnow.xxx CNAME .
 p123p.com CNAME .
 parkurl.com CNAME .
 pengenanu.files.im CNAME .
+pep.s2online.xyz CNAME .
 plsdonblock.supjav.buzz CNAME .
 pop.dtoo1.space CNAME .
 pornve.sexyadsrun.com CNAME .
 pornvideos.casa CNAME .
 pre.03porno.com CNAME .
 pre.102porno.club CNAME .
+pre.102porno.net CNAME .
 pre.ebasos.club CNAME .
 pre.myfuck.club CNAME .
 profield.ddns.net CNAME .
 pubblicita.animeitaly.org CNAME .
 redi.teengirl-pics.com CNAME .
 rst.pornyhd.com CNAME .
+s.elitecdn.pl CNAME .
 s.freeporncave.com CNAME .
 s.speedostream.com CNAME .
 s2.everydaygayporn.com CNAME .
@@ -278,6 +283,7 @@ www.hq3x.com CNAME .
 www.lechoncito.one CNAME .
 www.letstry69.xyz CNAME .
 www.sex1.party CNAME .
+www.u808i.com CNAME .
 www.ucdn.website CNAME .
 www.upcdn.site CNAME .
 www.vkcdnservice.com CNAME .

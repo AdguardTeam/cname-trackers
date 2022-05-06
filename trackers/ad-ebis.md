@@ -126,6 +126,7 @@
     * 98463bc9-scxitlgt.cname.ebis.ne.jp
     * 98d6d446-llbfadyx.cname.ebis.ne.jp
     * 99ebdab6-bagmsfc6.cname.ebis.ne.jp
+    * 9ee2360d-hwfrjewf.cname.ebis.ne.jp
     * 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp
     * 9fc5109a-rgq6b9zp.cname.ebis.ne.jp
     * a0c6f4cd-wqcfddrl.cname.ebis.ne.jp
@@ -332,6 +333,7 @@
 | cs0010sbeda.theory-clinic.com | 98463bc9-scxitlgt.cname.ebis.ne.jp |
 | ebiscname.j-esthe.com | 98d6d446-llbfadyx.cname.ebis.ne.jp |
 | proteinhikaku2019.proteinhikaku.com | 99ebdab6-bagmsfc6.cname.ebis.ne.jp |
+| ebis.aibashiro.jp | 9ee2360d-hwfrjewf.cname.ebis.ne.jp |
 | cname-adebis.nice2meet.us | 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp |
 | y8hxgv9m.kobetsu.co.jp | 9fc5109a-rgq6b9zp.cname.ebis.ne.jp |
 | ebis.hokensoudannavi.jp | a0c6f4cd-wqcfddrl.cname.ebis.ne.jp |

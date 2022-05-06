@@ -12,7 +12,6 @@ data.ubi.com CNAME .
 data.wptag.net CNAME .
 logger.yp.ca CNAME .
 sales.disneylandparis.com CNAME .
-tag.boulanger.fr CNAME .
 tagcommander.laredoute.be CNAME .
 tagcommander.laredoute.co.uk CNAME .
 tcdata.fnac.com CNAME .

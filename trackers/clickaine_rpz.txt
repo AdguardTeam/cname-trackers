@@ -51,6 +51,7 @@ ps2.camcaps.to CNAME .
 snow.snowdayonline.xyz CNAME .
 wp.brandnewapp.pro CNAME .
 ww1.willalland.info CNAME .
+www.icn.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

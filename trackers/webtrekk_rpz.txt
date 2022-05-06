@@ -225,6 +225,7 @@ web.news.lancel.com CNAME .
 web.news.piquadro.com CNAME .
 web.news.thebridge.it CNAME .
 web.newsletter.viviennewestwood.com CNAME .
+web.online.monnalisa.com CNAME .
 web.s.sasrx.com CNAME .
 web.sidsavage.com CNAME .
 web.solesource.com CNAME .

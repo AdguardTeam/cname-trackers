@@ -47,6 +47,7 @@
 ||tr.btobquotes.com^
 ||tr.buenasofertas.pro^
 ||tr.bureauveritas.espmp-aufr.net^
+||tr.businessdev.younited-credit.es^
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.cacf.ipsos-surveys.com^
 ||tr.camara.eu.com^
@@ -82,6 +83,7 @@
 ||tr.communication.harmonie-mutuelle.fr^
 ||tr.communication.jardindacclimatation.fr^
 ||tr.communication.lvmh.fr^
+||tr.communication.lvmhdare.com^
 ||tr.communication.moethennessy.com^
 ||tr.communication.numericable.fr^
 ||tr.communication.offresb2b.fr^
@@ -183,6 +185,7 @@
 ||tr.info.linxea.com^
 ||tr.info.mango-mobilites.fr^
 ||tr.info.mavoiturecash.fr^
+||tr.info.maxis-gbn.com^
 ||tr.info.mdbp.fr^
 ||tr.info.mobibam.com^
 ||tr.info.offres-cartegie.fr^
@@ -218,6 +221,7 @@
 ||tr.lesmarques.envie-de-bien-manger.com^
 ||tr.louvre-boites.com^
 ||tr.lvmhappening.lvmh.fr^
+||tr.mail-companeo.fr^
 ||tr.mail.banque-casino.fr^
 ||tr.mail.enviedebienmanger.fr^
 ||tr.mail.floa.fr^
@@ -240,6 +244,7 @@
 ||tr.message.maaf.fr^
 ||tr.mhist.moethennessy.com^
 ||tr.mijn-superaanbieding.be^
+||tr.mijnaanbieding.renowizz.be^
 ||tr.mm.infopro-digital.com^
 ||tr.mnoc.espmp-nifr.net^
 ||tr.moja-wycena.pl^
@@ -249,6 +254,7 @@
 ||tr.mp.aconclue-pro.com^
 ||tr.mp.actu-pm.fr^
 ||tr.mydevisentreprise.com^
+||tr.n.ferrero.fr^
 ||tr.n.info.cdgp.fr^
 ||tr.n.info.sygmabanque.fr^
 ||tr.nespresso.com^
@@ -332,6 +338,7 @@
 ||tr.newsletter.bouygues-construction.com^
 ||tr.newsletter.capdecision.fr^
 ||tr.newsletter.leocare.eu^
+||tr.newsletter.lierac.com^
 ||tr.newsletter.location.boulanger.com^
 ||tr.newsletter.meilleurmobile.com^
 ||tr.newsletter.milleis.fr^

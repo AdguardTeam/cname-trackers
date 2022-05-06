@@ -101,6 +101,7 @@
     * 757421535252818.wt-eu02.net
     * 802837842744167.wt-eu02.net
     * 807354460250799.wt-eu02.net
+    * 819363623263983.wt-eu02.net
     * 823532764568303.wt-eu02.net
     * 832292761796928.wt-eu02.net
     * 849036415619964.wt-eu02.net
@@ -246,6 +247,7 @@
 | web.sidsavage.com | 757421535252818.wt-eu02.net |
 | web.email.theindependentpharmacy.co.uk | 802837842744167.wt-eu02.net |
 | abc.fackelmann.de | 807354460250799.wt-eu02.net |
+| web.online.monnalisa.com | 819363623263983.wt-eu02.net |
 | mit.dws.com | 823532764568303.wt-eu02.net |
 | mit.dws.de | 823532764568303.wt-eu02.net |
 | web.info.vantastic-foods.com | 832292761796928.wt-eu02.net |

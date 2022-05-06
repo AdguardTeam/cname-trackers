@@ -17,6 +17,7 @@
     * atxqb-psychologies-com-cddc.at-o.net
     * avocado-laprovence-com-cddc.at-o.net
     * avp-labanquepostale-fr-cddc.at-o.net
+    * blava-viessmann-sk-cddc.at-o.net
     * buf-lemonde-fr-cddc.at-o.net
     * c0012-brsimg-com-cddc.at-o.net
     * checkpointcharlie-heizung-de-cddc.at-o.net
@@ -31,7 +32,9 @@
     * d-uni-medias-com-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
     * dimensions-mappy-com-cddc.at-o.net
+    * donjigrad-viessmann-rs-cddc.at-o.net
     * drau-viessmann-si-cddc.at-o.net
+    * epwa-europarl-europa-eu-cddc.at-o.net
     * fabryczna-viessmann-pl-cddc.at-o.net
     * faucons-viessmann-fr-cddc.at-o.net
     * hal-courrierinternational-com-cddc.at-o.net
@@ -115,6 +118,7 @@
 | atxqb.psychologies.com | atxqb-psychologies-com-cddc.at-o.net |
 | avocado.laprovence.com | avocado-laprovence-com-cddc.at-o.net |
 | avp.labanquepostale.fr | avp-labanquepostale-fr-cddc.at-o.net |
+| blava.viessmann.sk | blava-viessmann-sk-cddc.at-o.net |
 | buf.lemonde.fr | buf-lemonde-fr-cddc.at-o.net |
 | c0012.brsimg.com | c0012-brsimg-com-cddc.at-o.net |
 | checkpointcharlie.heizung.de | checkpointcharlie-heizung-de-cddc.at-o.net |
@@ -129,7 +133,9 @@
 | d.uni-medias.com | d-uni-medias-com-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |
 | dimensions.mappy.com | dimensions-mappy-com-cddc.at-o.net |
+| donjigrad.viessmann.rs | donjigrad-viessmann-rs-cddc.at-o.net |
 | drau.viessmann.si | drau-viessmann-si-cddc.at-o.net |
+| epwa.europarl.europa.eu | epwa-europarl-europa-eu-cddc.at-o.net |
 | fabryczna.viessmann.pl | fabryczna-viessmann-pl-cddc.at-o.net |
 | faucons.viessmann.fr | faucons-viessmann-fr-cddc.at-o.net |
 | hal.courrierinternational.com | hal-courrierinternational-com-cddc.at-o.net |

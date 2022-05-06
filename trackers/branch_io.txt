@@ -81,6 +81,7 @@
 ||ablink.info.beres.id^
 ||ablink.info.felixmobile.com.au^
 ||ablink.info.gawin.ph^
+||ablink.info.kaodim.com^
 ||ablink.info.pressreader.com^
 ||ablink.info.sofi.org^
 ||ablink.info.themarket.nz^
@@ -140,6 +141,7 @@
 ||ablink.sender.skyscanner.com^
 ||ablink.sender.skyscanner.net^
 ||ablink.staging-e.klarna.com^
+||ablink.support.gimmecountry.com^
 ||ablink.support.gimmeradio.com^
 ||ablink.tchicken.popeyes.com^
 ||ablink.test.iheart.com^
@@ -190,6 +192,7 @@
 ||b.iwanna.southwest.com^
 ||b.lyst.com^
 ||b.prod1.youroffers.dominos.ca^
+||b.your.rewardsemail.dominos.ca^
 ||bclicks.lyst.com^
 ||bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au^
 ||bit.beformance.com^
@@ -204,6 +207,7 @@
 ||br.ac.ebookers.fi^
 ||br.ac.ebookers.fr^
 ||br.ac.ebookers.ie^
+||br.ac.mrjet.se^
 ||br.ac.orbitz.com^
 ||br.ac.travelocity.com^
 ||br.ac2.cheaptickets.com^
@@ -590,6 +594,5 @@
 ||url7674.fitgenieapp.com^
 ||url7962.careerkarma.io^
 ||url8196.mindrise.app^
-||url9576.oneshift.com^
 ||url9609.account.experience-muse.com^
 ||wl.spotify.com^

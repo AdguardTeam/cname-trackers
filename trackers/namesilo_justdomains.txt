@@ -9,6 +9,7 @@
 3169187.notify6.com
 3171864.notifysrv.com
 3177866.notify6.com
+3177866.notifysrv.com
 3178848.notifysrv.com
 3179416.notify6.com
 3180710.notifysrv.com
@@ -27,6 +28,7 @@
 3243082.notify6.com
 3249648.notify6.com
 3273540.notifysrv.com
+3278638.notify6.com
 3283088.notifysrv.com
 3285792.notifysrv.com
 3286068.notify6.com
@@ -36,6 +38,7 @@
 3302404.notify6.com
 3304354.notify6.com
 3310026.notify6.com
+3310586.notify6.com
 3323174.notifysrv.com
 3323378.notify6.com
 3328396.notifysrv.com
@@ -95,6 +98,7 @@
 3584069.notifysrv.com
 3587731.notify6.com
 3588587.notify6.com
+3588587.notifysrv.com
 3588591.notifysrv.com
 3588593.notifysrv.com
 3588597.notifysrv.com
@@ -122,10 +126,14 @@
 3710069.notifysrv.com
 3717105.notifysrv.com
 3719901.notify6.com
+3733673.notifysrv.com
 3739013.notify6.com
+3740615.notifysrv.com
 3749331.notify6.com
 3768747.notify6.com
+3768747.notifysrv.com
 3775247.notifysrv.com
+3789861.notifysrv.com
 3805703.notifysrv.com
 3814695.notifysrv.com
 3822893.notifysrv.com
@@ -154,6 +162,7 @@
 4003752.notify6.com
 4004928.notify6.com
 4018398.notify6.com
+4022684.notify6.com
 4031266.notify6.com
 4037374.notify6.com
 4037426.notify6.com
@@ -182,6 +191,7 @@
 4270618.notify6.com
 4274618.notify6.com
 4290976.notify6.com
+4327052.notify6.com
 4329288.notify6.com
 4329294.notify6.com
 4329296.notify6.com
@@ -195,6 +205,7 @@
 4598410.notify6.com
 4615884.notify6.com
 4623392.notify6.com
+4623404.notify6.com
 6180.notify.optimizesrv.com
 a.exdynsrv.com
 a.exoclick.com
@@ -261,20 +272,16 @@ u3y8v8u4.ackcdn.net
 www.notify6.com
 www.notifysrv.com
 #
-# cds.d6n9n7e2.hwcdn.net disguised trackers
-#
-a.exdynsrv.com
-a.exoclick.com
-a.exosrv.com
-ads.exdynsrv.com
-ads.exoclick.com
-ads.exosrv.com
-delivery.gettopple.com
-#
 # cds.v3j9t5q9.hwcdn.net disguised trackers
 #
 admin.adnation.com
 #
+# cds.d6n9n7e2.hwcdn.net disguised trackers
+#
+ads.exosrv.com
+delivery.gettopple.com
+#
 # 1208818836.rsc.cdn77.org disguised trackers
 #
+s3t3d2y8.ackcdn.net
 u3y8v8u4.ackcdn.net

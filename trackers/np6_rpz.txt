@@ -47,6 +47,7 @@ tr.boletim.meu-orcamento.pt CNAME .
 tr.btobquotes.com CNAME .
 tr.buenasofertas.pro CNAME .
 tr.bureauveritas.espmp-aufr.net CNAME .
+tr.businessdev.younited-credit.es CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.cacf.ipsos-surveys.com CNAME .
 tr.camara.eu.com CNAME .
@@ -82,6 +83,7 @@ tr.communication.cgaaer.fr CNAME .
 tr.communication.harmonie-mutuelle.fr CNAME .
 tr.communication.jardindacclimatation.fr CNAME .
 tr.communication.lvmh.fr CNAME .
+tr.communication.lvmhdare.com CNAME .
 tr.communication.moethennessy.com CNAME .
 tr.communication.numericable.fr CNAME .
 tr.communication.offresb2b.fr CNAME .
@@ -183,6 +185,7 @@ tr.info.lacentrale.fr CNAME .
 tr.info.linxea.com CNAME .
 tr.info.mango-mobilites.fr CNAME .
 tr.info.mavoiturecash.fr CNAME .
+tr.info.maxis-gbn.com CNAME .
 tr.info.mdbp.fr CNAME .
 tr.info.mobibam.com CNAME .
 tr.info.offres-cartegie.fr CNAME .
@@ -218,6 +221,7 @@ tr.leads.direct CNAME .
 tr.lesmarques.envie-de-bien-manger.com CNAME .
 tr.louvre-boites.com CNAME .
 tr.lvmhappening.lvmh.fr CNAME .
+tr.mail-companeo.fr CNAME .
 tr.mail.banque-casino.fr CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
 tr.mail.floa.fr CNAME .
@@ -240,6 +244,7 @@ tr.mep.enkiapp.io CNAME .
 tr.message.maaf.fr CNAME .
 tr.mhist.moethennessy.com CNAME .
 tr.mijn-superaanbieding.be CNAME .
+tr.mijnaanbieding.renowizz.be CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
 tr.moja-wycena.pl CNAME .
@@ -249,6 +254,7 @@ tr.mp.aconclue-entreprise.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
 tr.mp.actu-pm.fr CNAME .
 tr.mydevisentreprise.com CNAME .
+tr.n.ferrero.fr CNAME .
 tr.n.info.cdgp.fr CNAME .
 tr.n.info.sygmabanque.fr CNAME .
 tr.nespresso.com CNAME .
@@ -332,6 +338,7 @@ tr.newsletter.assuragency.net CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
 tr.newsletter.leocare.eu CNAME .
+tr.newsletter.lierac.com CNAME .
 tr.newsletter.location.boulanger.com CNAME .
 tr.newsletter.meilleurmobile.com CNAME .
 tr.newsletter.milleis.fr CNAME .

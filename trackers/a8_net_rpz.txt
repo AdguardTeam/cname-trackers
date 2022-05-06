@@ -19,6 +19,7 @@ a8.fit-theme.com CNAME .
 a8.geo-online.co.jp CNAME .
 a8.hakata-hisamatsu.net CNAME .
 a8.haptic.co.jp CNAME .
+a8.hikari-n.jp CNAME .
 a8.hitohana.tokyo CNAME .
 a8.i-netservice.net CNAME .
 a8.lavie-official.jp CNAME .
@@ -70,6 +71,7 @@ a8clk.crowdworks.jp CNAME .
 a8clk.cv.mensfashion.cc CNAME .
 a8clk.cv.onedenki.jp CNAME .
 a8clk.cv.warau.jp CNAME .
+a8clk.digicafe.jp CNAME .
 a8clk.dospara.co.jp CNAME .
 a8clk.fastsim.jp CNAME .
 a8clk.francfranc.com CNAME .
@@ -79,6 +81,7 @@ a8clk.hurugicom.jp CNAME .
 a8clk.justy-consul.com CNAME .
 a8clk.kaitori-beerecords.jp CNAME .
 a8clk.kaitori-retrog.jp CNAME .
+a8clk.kaitori-toretoku.jp CNAME .
 a8clk.kaitori-yamatokukimono.jp CNAME .
 a8clk.kenkoukazoku.co.jp CNAME .
 a8clk.life.bang.co.jp CNAME .
@@ -115,6 +118,7 @@ a8clk.titivate.jp CNAME .
 a8clk.ur-s.me CNAME .
 a8clk.voice-inc.co.jp CNAME .
 a8clk.wi-ho.net CNAME .
+a8clk.www.autoway.jp CNAME .
 a8clk.www.cledepeau-beaute.com CNAME .
 a8clk.www.clip-studio.com CNAME .
 a8clk.www.nortonstore.jp CNAME .

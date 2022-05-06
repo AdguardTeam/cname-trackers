@@ -81,6 +81,7 @@ ablink.help.shopwell.com CNAME .
 ablink.info.beres.id CNAME .
 ablink.info.felixmobile.com.au CNAME .
 ablink.info.gawin.ph CNAME .
+ablink.info.kaodim.com CNAME .
 ablink.info.pressreader.com CNAME .
 ablink.info.sofi.org CNAME .
 ablink.info.themarket.nz CNAME .
@@ -140,6 +141,7 @@ ablink.seller.etsy.com CNAME .
 ablink.sender.skyscanner.com CNAME .
 ablink.sender.skyscanner.net CNAME .
 ablink.staging-e.klarna.com CNAME .
+ablink.support.gimmecountry.com CNAME .
 ablink.support.gimmeradio.com CNAME .
 ablink.tchicken.popeyes.com CNAME .
 ablink.test.iheart.com CNAME .
@@ -190,6 +192,7 @@ b.itravel.southwest.com CNAME .
 b.iwanna.southwest.com CNAME .
 b.lyst.com CNAME .
 b.prod1.youroffers.dominos.ca CNAME .
+b.your.rewardsemail.dominos.ca CNAME .
 bclicks.lyst.com CNAME .
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au CNAME .
 bit.beformance.com CNAME .
@@ -204,6 +207,7 @@ br.ac.ebookers.de CNAME .
 br.ac.ebookers.fi CNAME .
 br.ac.ebookers.fr CNAME .
 br.ac.ebookers.ie CNAME .
+br.ac.mrjet.se CNAME .
 br.ac.orbitz.com CNAME .
 br.ac.travelocity.com CNAME .
 br.ac2.cheaptickets.com CNAME .
@@ -590,6 +594,5 @@ url7542.fluz.app CNAME .
 url7674.fitgenieapp.com CNAME .
 url7962.careerkarma.io CNAME .
 url8196.mindrise.app CNAME .
-url9576.oneshift.com CNAME .
 url9609.account.experience-muse.com CNAME .
 wl.spotify.com CNAME .

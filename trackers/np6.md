@@ -52,6 +52,7 @@
 | tr.btobquotes.com | tracking.bp01.net |
 | tr.buenasofertas.pro | tracking.bp01.net |
 | tr.bureauveritas.espmp-aufr.net | tracking.bp01.net |
+| tr.businessdev.younited-credit.es | tracking.bp01.net |
 | tr.cacf-acq.ipsos-surveys.com | tracking.bp01.net |
 | tr.cacf.ipsos-surveys.com | tracking.bp01.net |
 | tr.camara.eu.com | tracking.bp01.net |
@@ -87,6 +88,7 @@
 | tr.communication.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.communication.jardindacclimatation.fr | tracking.bp01.net |
 | tr.communication.lvmh.fr | tracking.bp01.net |
+| tr.communication.lvmhdare.com | tracking.bp01.net |
 | tr.communication.moethennessy.com | tracking.bp01.net |
 | tr.communication.numericable.fr | tracking.bp01.net |
 | tr.communication.offresb2b.fr | tracking.bp01.net |
@@ -188,6 +190,7 @@
 | tr.info.linxea.com | tracking.bp01.net |
 | tr.info.mango-mobilites.fr | tracking.bp01.net |
 | tr.info.mavoiturecash.fr | tracking.bp01.net |
+| tr.info.maxis-gbn.com | tracking.bp01.net |
 | tr.info.mdbp.fr | tracking.bp01.net |
 | tr.info.mobibam.com | tracking.bp01.net |
 | tr.info.offres-cartegie.fr | tracking.bp01.net |
@@ -223,6 +226,7 @@
 | tr.lesmarques.envie-de-bien-manger.com | tracking.bp01.net |
 | tr.louvre-boites.com | tracking.bp01.net |
 | tr.lvmhappening.lvmh.fr | tracking.bp01.net |
+| tr.mail-companeo.fr | tracking.bp01.net |
 | tr.mail.banque-casino.fr | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
 | tr.mail.floa.fr | tracking.bp01.net |
@@ -245,6 +249,7 @@
 | tr.message.maaf.fr | tracking.bp01.net |
 | tr.mhist.moethennessy.com | tracking.bp01.net |
 | tr.mijn-superaanbieding.be | tracking.bp01.net |
+| tr.mijnaanbieding.renowizz.be | tracking.bp01.net |
 | tr.mm.infopro-digital.com | tracking.bp01.net |
 | tr.mnoc.espmp-nifr.net | tracking.bp01.net |
 | tr.moja-wycena.pl | tracking.bp01.net |
@@ -254,6 +259,7 @@
 | tr.mp.aconclue-pro.com | tracking.bp01.net |
 | tr.mp.actu-pm.fr | tracking.bp01.net |
 | tr.mydevisentreprise.com | tracking.bp01.net |
+| tr.n.ferrero.fr | tracking.bp01.net |
 | tr.n.info.cdgp.fr | tracking.bp01.net |
 | tr.n.info.sygmabanque.fr | tracking.bp01.net |
 | tr.nespresso.com | tracking.bp01.net |
@@ -337,6 +343,7 @@
 | tr.newsletter.bouygues-construction.com | tracking.bp01.net |
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
 | tr.newsletter.leocare.eu | tracking.bp01.net |
+| tr.newsletter.lierac.com | tracking.bp01.net |
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |
 | tr.newsletter.meilleurmobile.com | tracking.bp01.net |
 | tr.newsletter.milleis.fr | tracking.bp01.net |

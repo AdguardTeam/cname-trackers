@@ -19,6 +19,7 @@
 ||a8.geo-online.co.jp^
 ||a8.hakata-hisamatsu.net^
 ||a8.haptic.co.jp^
+||a8.hikari-n.jp^
 ||a8.hitohana.tokyo^
 ||a8.i-netservice.net^
 ||a8.lavie-official.jp^
@@ -70,6 +71,7 @@
 ||a8clk.cv.mensfashion.cc^
 ||a8clk.cv.onedenki.jp^
 ||a8clk.cv.warau.jp^
+||a8clk.digicafe.jp^
 ||a8clk.dospara.co.jp^
 ||a8clk.fastsim.jp^
 ||a8clk.francfranc.com^
@@ -79,6 +81,7 @@
 ||a8clk.justy-consul.com^
 ||a8clk.kaitori-beerecords.jp^
 ||a8clk.kaitori-retrog.jp^
+||a8clk.kaitori-toretoku.jp^
 ||a8clk.kaitori-yamatokukimono.jp^
 ||a8clk.kenkoukazoku.co.jp^
 ||a8clk.life.bang.co.jp^
@@ -115,6 +118,7 @@
 ||a8clk.ur-s.me^
 ||a8clk.voice-inc.co.jp^
 ||a8clk.wi-ho.net^
+||a8clk.www.autoway.jp^
 ||a8clk.www.cledepeau-beaute.com^
 ||a8clk.www.clip-studio.com^
 ||a8clk.www.nortonstore.jp^

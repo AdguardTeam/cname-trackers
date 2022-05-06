@@ -136,7 +136,6 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
-||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||eule1.pmu.fr^
 ||eule3.pmu.fr^
@@ -189,7 +188,6 @@
 ||hby7.destinia.it^
 ||he6e.lavieimmo.com^
 ||hgf4.zanzicar.fr^
-||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^

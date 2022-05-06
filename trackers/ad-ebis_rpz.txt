@@ -115,6 +115,7 @@ ebis-tracking.tcb-beauty.net CNAME .
 ebis-tracking.tcb-recruit.com CNAME .
 ebis.15jikai.com CNAME .
 ebis.2jikaikun.com CNAME .
+ebis.aibashiro.jp CNAME .
 ebis.as-1.co.jp CNAME .
 ebis.ayura.co.jp CNAME .
 ebis.biyo-job.com CNAME .

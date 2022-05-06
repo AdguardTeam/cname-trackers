@@ -385,6 +385,7 @@ stats.femtobill.com CNAME .
 stats.ff.ht CNAME .
 stats.filewatch.net CNAME .
 stats.flightsphere.com CNAME .
+stats.flowphantom.com CNAME .
 stats.frenlo.com CNAME .
 stats.fullofwishes.co.uk CNAME .
 stats.fundimmo.com CNAME .
@@ -442,9 +443,11 @@ stats.kensho.com CNAME .
 stats.kettlebellbundle.com CNAME .
 stats.keyscore.me CNAME .
 stats.kod.ru CNAME .
+stats.koehrer.de CNAME .
 stats.kongressen.com CNAME .
 stats.krauss.io CNAME .
 stats.kryptoslogic.com CNAME .
+stats.larsroettig.dev CNAME .
 stats.lastfm.matthiasloibl.com CNAME .
 stats.laxallstars.com CNAME .
 stats.layl.app CNAME .
@@ -602,6 +605,7 @@ stats.the18monthpianoproject.com CNAME .
 stats.thechurchfactory.com CNAME .
 stats.thedartmoorsoapco.co.uk CNAME .
 stats.thegoodlineheight.com CNAME .
+stats.thingsthatkeepmeupatnight.dev CNAME .
 stats.thomasvitale.com CNAME .
 stats.threadstart.io CNAME .
 stats.timmyomahony.com CNAME .

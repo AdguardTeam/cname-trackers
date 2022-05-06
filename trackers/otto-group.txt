@@ -27,6 +27,7 @@
 ||te.sieh-an.ch^
 ||te.sieh-an.de^
 ||te.universal.at^
+||te.witt-international.cz^
 ||te.witt-international.nl^
 ||te.witt-international.sk^
 ||te.witt-weiden.at^

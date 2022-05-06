@@ -18,6 +18,7 @@ ati-a1.946d001b783803c1.xhst.bbci.co.uk CNAME .
 atxqb.psychologies.com CNAME .
 avocado.laprovence.com CNAME .
 avp.labanquepostale.fr CNAME .
+blava.viessmann.sk CNAME .
 buf.lemonde.fr CNAME .
 c0012.brsimg.com CNAME .
 checkpointcharlie.heizung.de CNAME .
@@ -32,7 +33,9 @@ d.m-net.de CNAME .
 d.uni-medias.com CNAME .
 da.maif.fr CNAME .
 dimensions.mappy.com CNAME .
+donjigrad.viessmann.rs CNAME .
 drau.viessmann.si CNAME .
+epwa.europarl.europa.eu CNAME .
 fabryczna.viessmann.pl CNAME .
 faucons.viessmann.fr CNAME .
 hal.courrierinternational.com CNAME .

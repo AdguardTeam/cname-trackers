@@ -22,6 +22,7 @@
 78rkcgj4i8c6.www.cefirates.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
+9bzcnz4vtsbf.kvest.ee CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
@@ -40,9 +41,9 @@ fve57b8cs74i.www.cybernetman.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .
 hkhpnqciykaf.www.gamecamp.gg CNAME .
+ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 j1kmigrhwjf4.angelacampos.es CNAME .
-k5rtkx84u7fd.www.cefirates.com CNAME .
 k5ygj3bivnrp.uae.revent.store CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
@@ -52,12 +53,14 @@ nqyuel589fq5.esgrounding.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 pg3b233p99sa.www.marketdata.app CNAME .
+qhoxqx12wwme.www.earthclassmail.com CNAME .
 qmaea68tanna.www.earthclassmail.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s4s51f00a3o7.www.eldorado.gg CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 tos5dqejpd.www.freecodecamp.org CNAME .
+twn36gx4109r.loveisblank.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
