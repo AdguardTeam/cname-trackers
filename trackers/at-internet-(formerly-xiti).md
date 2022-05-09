@@ -18,6 +18,7 @@
     * avocado-laprovence-com-cddc.at-o.net
     * avp-labanquepostale-fr-cddc.at-o.net
     * blava-viessmann-sk-cddc.at-o.net
+    * brickworks-viessmann-sg-cddc.at-o.net
     * buf-lemonde-fr-cddc.at-o.net
     * c0012-brsimg-com-cddc.at-o.net
     * checkpointcharlie-heizung-de-cddc.at-o.net
@@ -119,6 +120,7 @@
 | avocado.laprovence.com | avocado-laprovence-com-cddc.at-o.net |
 | avp.labanquepostale.fr | avp-labanquepostale-fr-cddc.at-o.net |
 | blava.viessmann.sk | blava-viessmann-sk-cddc.at-o.net |
+| brickworks.viessmann.sg | brickworks-viessmann-sg-cddc.at-o.net |
 | buf.lemonde.fr | buf-lemonde-fr-cddc.at-o.net |
 | c0012.brsimg.com | c0012-brsimg-com-cddc.at-o.net |
 | checkpointcharlie.heizung.de | checkpointcharlie-heizung-de-cddc.at-o.net |

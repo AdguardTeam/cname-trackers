@@ -101,6 +101,7 @@
 | dragon.moneycoach.io | custom.plausible.io |
 | eliteclng.ericksonbuilt.com | custom.plausible.io |
 | events.mikescerealshack.co | custom.plausible.io |
+| explore.bytelab.uk | custom.plausible.io |
 | external.techopian.com | custom.plausible.io |
 | extramilefloorcare.ericksonbuilt.com | custom.plausible.io |
 | f8phvntohv.tpetry.me | custom.plausible.io |
@@ -203,7 +204,6 @@
 | plausible.hellpancake.com | custom.plausible.io |
 | plausible.help.exploreandcreate.com | custom.plausible.io |
 | plausible.inflex.io | custom.plausible.io |
-| plausible.intalk.nl | custom.plausible.io |
 | plausible.joinself.com | custom.plausible.io |
 | plausible.kabaret.no | custom.plausible.io |
 | plausible.kreya.app | custom.plausible.io |
@@ -240,8 +240,10 @@
 | plausible.test.sketch.com | custom.plausible.io |
 | plausible.urbanekuensteruhr.de | custom.plausible.io |
 | plausible.vaughanesports.org | custom.plausible.io |
+| plausible.visitu.com | custom.plausible.io |
 | plausible.viteshot.com | custom.plausible.io |
 | plausible.west.io | custom.plausible.io |
+| plausible.wikiotics.org | custom.plausible.io |
 | plausible.zest.dev | custom.plausible.io |
 | plausible.zorin.com | custom.plausible.io |
 | plsbl-staging.edison.se | custom.plausible.io |
@@ -422,7 +424,6 @@
 | stats.huysmanbouw.be | custom.plausible.io |
 | stats.iamzero.dev | custom.plausible.io |
 | stats.ibuildings.net | custom.plausible.io |
-| stats.idle.cafe | custom.plausible.io |
 | stats.igevia.com | custom.plausible.io |
 | stats.infoboard.de | custom.plausible.io |
 | stats.innoq.com | custom.plausible.io |
@@ -666,6 +667,7 @@
 | traffic.hostedstatus.page | custom.plausible.io |
 | traffic.taktikal.is | custom.plausible.io |
 | triton.companyegg.com | custom.plausible.io |
+| views.emikajewelry.com | custom.plausible.io |
 | views.sikerproducts.com | custom.plausible.io |
 | visite.scambi.org | custom.plausible.io |
 | visitors.asadis.net | custom.plausible.io |

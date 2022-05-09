@@ -203,5 +203,6 @@ tracking.nokai.jp CNAME .
 tukuru.cotta.jp CNAME .
 urerucname.manara.jp CNAME .
 us9recc3.simseller.goo.ne.jp CNAME .
+www-ebis.384.co.jp CNAME .
 www2.hnavi.co.jp CNAME .
 y8hxgv9m.kobetsu.co.jp CNAME .

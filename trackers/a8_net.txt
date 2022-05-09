@@ -50,6 +50,7 @@
 ||a8.webist-cri.com^
 ||a8.yanoman.com^
 ||a8.yuzen-official.com^
+||a8aspconv.itx-home-router.com^
 ||a8aspconv.ns-softbank-hikari.com^
 ||a8aspconv.xn--biglobe-kc9k.com^
 ||a8aspconv.xn--ocn-ws1e.jp^
@@ -205,6 +206,7 @@
 ||a8trck.worldone.to^
 ||a8trk.www.std-lab.jp^
 ||acv.cmf-hikari.net^
+||ad.ichiban-boshi.com^
 ||afi.biyou.web-marketing.ai^
 ||afi.school.web-marketing.ai^
 ||afi.sougou.web-marketing.ai^
@@ -251,5 +253,6 @@
 ||shopping.cellpure.co.jp^
 ||sub.booksdream-mypage.com^
 ||summary.bookoffonline.co.jp^
+||tracking.lead-plus.jp^
 ||trck.rework-s.com^
 ||trcka8net.irobot-jp.com^

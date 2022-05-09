@@ -221,6 +221,7 @@ tr.leads.direct CNAME .
 tr.lesmarques.envie-de-bien-manger.com CNAME .
 tr.louvre-boites.com CNAME .
 tr.lvmhappening.lvmh.fr CNAME .
+tr.m.cwisas.com CNAME .
 tr.mail-companeo.fr CNAME .
 tr.mail.banque-casino.fr CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
@@ -409,6 +410,7 @@ tr.satisfaction.groupe-pv-cp.com CNAME .
 tr.scienceshumaines.info CNAME .
 tr.scienceshumaines.pro CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
+tr.service-mail.carrefour.fr CNAME .
 tr.serviceclient.gazservicerapide.fr CNAME .
 tr.serviceclient.somgaz.fr CNAME .
 tr.serviceclient.younited-coach.com CNAME .

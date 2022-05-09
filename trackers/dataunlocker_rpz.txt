@@ -10,6 +10,7 @@
 1amehwchx31.bloxdhop.io CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
 1iy4gu0lpkp.my.gloryleague.basketball CNAME .
+1kpv4njzilv.community.intersystems.com CNAME .
 1uwcex4qf9z.test-115.dapp.ml CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 25voj20abod.honeyswap.org CNAME .
@@ -34,7 +35,6 @@ din1j0su0u99.artwallstreet.io CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
-eqv1dzhowp78.www.cefirates.com CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
 fve57b8cs74i.www.cybernetman.com CNAME .

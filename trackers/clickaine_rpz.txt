@@ -40,6 +40,7 @@ dnsbl.test.ww1.willalland.info CNAME .
 faq.brandnewapp.pro CNAME .
 flare.vtube.to CNAME .
 go.analsextuber.com CNAME .
+go.lize.bid CNAME .
 hruk.afguk.top CNAME .
 hruk.gumasi.top CNAME .
 hruk.jjikk.top CNAME .

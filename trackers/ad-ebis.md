@@ -149,6 +149,7 @@
     * b0d3b087-uxwrqv9t.cname.ebis.ne.jp
     * b3dfd045-acrymmnj.cname.ebis.ne.jp
     * b5e8d6c4-bzcut99h.cname.ebis.ne.jp
+    * b654b31b-gbehg577.cname.ebis.ne.jp
     * b69bfde6-esqb2ypb.cname.ebis.ne.jp
     * b6ed666a-bagmsfc6.cname.ebis.ne.jp
     * b773e430-snfbdnnq.cname.ebis.ne.jp
@@ -356,6 +357,7 @@
 | ebis.studioindi-yokohama.com | b0d3b087-uxwrqv9t.cname.ebis.ne.jp |
 | cname.jf-d.jp | b3dfd045-acrymmnj.cname.ebis.ne.jp |
 | www2.hnavi.co.jp | b5e8d6c4-bzcut99h.cname.ebis.ne.jp |
+| www-ebis.384.co.jp | b654b31b-gbehg577.cname.ebis.ne.jp |
 | ebis.15jikai.com | b69bfde6-esqb2ypb.cname.ebis.ne.jp |
 | belegend2019.belegend.jp | b6ed666a-bagmsfc6.cname.ebis.ne.jp |
 | adebis.toitoitoi.clinic | b773e430-snfbdnnq.cname.ebis.ne.jp |

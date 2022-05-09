@@ -226,6 +226,7 @@
 | tr.lesmarques.envie-de-bien-manger.com | tracking.bp01.net |
 | tr.louvre-boites.com | tracking.bp01.net |
 | tr.lvmhappening.lvmh.fr | tracking.bp01.net |
+| tr.m.cwisas.com | tracking.bp01.net |
 | tr.mail-companeo.fr | tracking.bp01.net |
 | tr.mail.banque-casino.fr | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
@@ -414,6 +415,7 @@
 | tr.scienceshumaines.info | tracking.bp01.net |
 | tr.scienceshumaines.pro | tracking.bp01.net |
 | tr.secteurentreprises.harmonie-mutuelle.fr | tracking.bp01.net |
+| tr.service-mail.carrefour.fr | tracking.bp01.net |
 | tr.serviceclient.gazservicerapide.fr | tracking.bp01.net |
 | tr.serviceclient.somgaz.fr | tracking.bp01.net |
 | tr.serviceclient.younited-coach.com | tracking.bp01.net |

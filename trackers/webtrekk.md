@@ -215,6 +215,7 @@
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
+| data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
 | web.friends.ellaskitchen.co.uk | 524633908170120.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
 | web.s.sasrx.com | 554833903189763.wt-eu02.net |

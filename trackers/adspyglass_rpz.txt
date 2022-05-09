@@ -7,6 +7,7 @@
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
 2.dtxtck1.xyz CNAME .
+2022.hizetnet.xyz CNAME .
 58745.clicknplay.to CNAME .
 71213zhazha.com CNAME .
 987656iuyyty.hotscopes.to CNAME .
@@ -78,7 +79,6 @@ antiadblock.info CNAME .
 api.adultsclips.com CNAME .
 app.phimvu.app CNAME .
 apple.analnoe24.com CNAME .
-arbs.arabshentai.com CNAME .
 as.ebalovo.adult CNAME .
 as.lenkino.adult CNAME .
 as2.fasta.xyz CNAME .
@@ -223,6 +223,7 @@ parkurl.com CNAME .
 pengenanu.files.im CNAME .
 pep.s2online.xyz CNAME .
 plsdonblock.supjav.buzz CNAME .
+plutoclean.com CNAME .
 pop.dtoo1.space CNAME .
 pornve.sexyadsrun.com CNAME .
 pornvideos.casa CNAME .
@@ -275,9 +276,11 @@ web.cinetux.nu CNAME .
 whatsthis.owo.si CNAME .
 wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
+www.befuglago.live CNAME .
 www.bigboy.monster CNAME .
 www.demstenes24.one CNAME .
 www.findnewline.com CNAME .
+www.gombmobil.store CNAME .
 www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.lechoncito.one CNAME .

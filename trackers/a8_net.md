@@ -56,6 +56,7 @@
 | a8.webist-cri.com | trck.a8.net |
 | a8.yanoman.com | trck.a8.net |
 | a8.yuzen-official.com | trck.a8.net |
+| a8aspconv.itx-home-router.com | trck.a8.net |
 | a8aspconv.ns-softbank-hikari.com | trck.a8.net |
 | a8aspconv.xn--biglobe-kc9k.com | trck.a8.net |
 | a8aspconv.xn--ocn-ws1e.jp | trck.a8.net |
@@ -211,6 +212,7 @@
 | a8trck.worldone.to | trck.a8.net |
 | a8trk.www.std-lab.jp | trck.a8.net |
 | acv.cmf-hikari.net | trck.a8.net |
+| ad.ichiban-boshi.com | trck.a8.net |
 | afi.biyou.web-marketing.ai | trck.a8.net |
 | afi.school.web-marketing.ai | trck.a8.net |
 | afi.sougou.web-marketing.ai | trck.a8.net |
@@ -257,5 +259,6 @@
 | shopping.cellpure.co.jp | trck.a8.net |
 | sub.booksdream-mypage.com | trck.a8.net |
 | summary.bookoffonline.co.jp | trck.a8.net |
+| tracking.lead-plus.jp | trck.a8.net |
 | trck.rework-s.com | trck.a8.net |
 | trcka8net.irobot-jp.com | trck.a8.net |

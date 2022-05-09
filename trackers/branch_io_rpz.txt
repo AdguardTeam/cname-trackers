@@ -323,6 +323,7 @@ email.chope.co CNAME .
 email.clearscore.co.za CNAME .
 email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
+email.dmcperforma.com.br CNAME .
 email.everyonesocial.circle.com CNAME .
 email.everyonesocial.coupa.com CNAME .
 email.everyonesocial.indeed.com CNAME .

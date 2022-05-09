@@ -330,6 +330,7 @@
 | email.clearscore.co.za | thirdparty.bnc.lt |
 | email.clearscore.com | thirdparty.bnc.lt |
 | email.clearscore.com.au | thirdparty.bnc.lt |
+| email.dmcperforma.com.br | thirdparty.bnc.lt |
 | email.everyonesocial.circle.com | thirdparty.bnc.lt |
 | email.everyonesocial.coupa.com | thirdparty.bnc.lt |
 | email.everyonesocial.indeed.com | thirdparty.bnc.lt |

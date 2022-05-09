@@ -45,6 +45,7 @@
 | faq.brandnewapp.pro | api.clickaine.com |
 | flare.vtube.to | api.clickaine.com |
 | go.analsextuber.com | api.clickaine.com |
+| go.lize.bid | api.clickaine.com |
 | hruk.afguk.top | api.clickaine.com |
 | hruk.gumasi.top | api.clickaine.com |
 | hruk.jjikk.top | api.clickaine.com |

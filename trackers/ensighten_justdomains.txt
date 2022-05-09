@@ -176,6 +176,7 @@ t.janieandjack.com
 tagman.britishairways.com
 tagman.fotolia.com
 tagman.heathrow.com
+tagman.virgin-atlantic.com
 tagman.virginatlantic.com
 tags.aljazeera.com
 tags.aljazeera.net

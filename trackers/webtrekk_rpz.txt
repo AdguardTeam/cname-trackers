@@ -72,6 +72,7 @@ da.hornbach.se CNAME .
 da.hornbach.sk CNAME .
 data.adlermode.com CNAME .
 data.all-in.de CNAME .
+data.allgaeuer-zeitung.de CNAME .
 data.campaign.prenatal.com CNAME .
 data.campaign.toyscenter.it CNAME .
 data.engelhorn.com CNAME .

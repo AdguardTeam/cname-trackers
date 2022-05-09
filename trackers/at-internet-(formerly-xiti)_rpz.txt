@@ -19,6 +19,7 @@ atxqb.psychologies.com CNAME .
 avocado.laprovence.com CNAME .
 avp.labanquepostale.fr CNAME .
 blava.viessmann.sk CNAME .
+brickworks.viessmann.sg CNAME .
 buf.lemonde.fr CNAME .
 c0012.brsimg.com CNAME .
 checkpointcharlie.heizung.de CNAME .

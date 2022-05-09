@@ -50,6 +50,7 @@ a8.web-hikari.net CNAME .
 a8.webist-cri.com CNAME .
 a8.yanoman.com CNAME .
 a8.yuzen-official.com CNAME .
+a8aspconv.itx-home-router.com CNAME .
 a8aspconv.ns-softbank-hikari.com CNAME .
 a8aspconv.xn--biglobe-kc9k.com CNAME .
 a8aspconv.xn--ocn-ws1e.jp CNAME .
@@ -205,6 +206,7 @@ a8trck.tolot.com CNAME .
 a8trck.worldone.to CNAME .
 a8trk.www.std-lab.jp CNAME .
 acv.cmf-hikari.net CNAME .
+ad.ichiban-boshi.com CNAME .
 afi.biyou.web-marketing.ai CNAME .
 afi.school.web-marketing.ai CNAME .
 afi.sougou.web-marketing.ai CNAME .
@@ -251,5 +253,6 @@ kaden.netoff.co.jp CNAME .
 shopping.cellpure.co.jp CNAME .
 sub.booksdream-mypage.com CNAME .
 summary.bookoffonline.co.jp CNAME .
+tracking.lead-plus.jp CNAME .
 trck.rework-s.com CNAME .
 trcka8net.irobot-jp.com CNAME .

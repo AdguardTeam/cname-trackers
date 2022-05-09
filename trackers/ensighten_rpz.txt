@@ -176,6 +176,7 @@ t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
 tagman.fotolia.com CNAME .
 tagman.heathrow.com CNAME .
+tagman.virgin-atlantic.com CNAME .
 tagman.virginatlantic.com CNAME .
 tags.aljazeera.com CNAME .
 tags.aljazeera.net CNAME .

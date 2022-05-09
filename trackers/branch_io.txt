@@ -323,6 +323,7 @@
 ||email.clearscore.co.za^
 ||email.clearscore.com^
 ||email.clearscore.com.au^
+||email.dmcperforma.com.br^
 ||email.everyonesocial.circle.com^
 ||email.everyonesocial.coupa.com^
 ||email.everyonesocial.indeed.com^

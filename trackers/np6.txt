@@ -221,6 +221,7 @@
 ||tr.lesmarques.envie-de-bien-manger.com^
 ||tr.louvre-boites.com^
 ||tr.lvmhappening.lvmh.fr^
+||tr.m.cwisas.com^
 ||tr.mail-companeo.fr^
 ||tr.mail.banque-casino.fr^
 ||tr.mail.enviedebienmanger.fr^
@@ -409,6 +410,7 @@
 ||tr.scienceshumaines.info^
 ||tr.scienceshumaines.pro^
 ||tr.secteurentreprises.harmonie-mutuelle.fr^
+||tr.service-mail.carrefour.fr^
 ||tr.serviceclient.gazservicerapide.fr^
 ||tr.serviceclient.somgaz.fr^
 ||tr.serviceclient.younited-coach.com^
