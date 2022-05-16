@@ -5,10 +5,6 @@
 * 0i0i0i0.com
     * u50.0i0i0i0.com
 
-### Rarely active trackers
-
-* 548260.parkingcrew.net
-
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -21,6 +17,7 @@
 | 58745.clicknplay.to | 0i0i0i0.com |
 | 71213zhazha.com | 0i0i0i0.com |
 | 987656iuyyty.hotscopes.to | 0i0i0i0.com |
+| 99.mangaad.xyz | 0i0i0i0.com |
 | a.123porner.com | 0i0i0i0.com |
 | a.44oo.icu | 0i0i0i0.com |
 | a.6vids.space | 0i0i0i0.com |
@@ -61,6 +58,7 @@
 | a.suptube.com | 0i0i0i0.com |
 | a.teencfnm.com | 0i0i0i0.com |
 | a.umpornozinho.com | 0i0i0i0.com |
+| a.viralnewsbd.xyz | 0i0i0i0.com |
 | a.warddogs.com | 0i0i0i0.com |
 | a.watchomovies.com | 0i0i0i0.com |
 | a.youtubersgonewild.net | 0i0i0i0.com |
@@ -165,8 +163,8 @@
 | dontblock.javjav1.buzz | 0i0i0i0.com |
 | dsfgp.admenhost.com | 0i0i0i0.com |
 | ebd.cda-hd.cc | 0i0i0i0.com |
+| ebd.cda-hd.co | 0i0i0i0.com |
 | eco.blendxxx.com | 0i0i0i0.com |
-| erfe.sexydev.dev | 0i0i0i0.com |
 | est.pornleech.ch | 0i0i0i0.com |
 | eyedssw.javvvvvv.xyz | 0i0i0i0.com |
 | fast.s5live.com | 0i0i0i0.com |
@@ -239,10 +237,12 @@
 | pre.myfuck.club | 0i0i0i0.com |
 | profield.ddns.net | 0i0i0i0.com |
 | pubblicita.animeitaly.org | 0i0i0i0.com |
+| pubg.remiitano.xyz | 0i0i0i0.com |
 | redi.teengirl-pics.com | 0i0i0i0.com |
 | rst.pornyhd.com | 0i0i0i0.com |
 | s.elitecdn.pl | 0i0i0i0.com |
 | s.freeporncave.com | 0i0i0i0.com |
+| s.remonti.org | 0i0i0i0.com |
 | s.speedostream.com | 0i0i0i0.com |
 | s2.everydaygayporn.com | 0i0i0i0.com |
 | satmon.neekstore.com | 0i0i0i0.com |
@@ -256,7 +256,9 @@
 | shemale.house | 0i0i0i0.com |
 | slave.kbjfree.com | 0i0i0i0.com |
 | solutions.playernetca.top | 0i0i0i0.com |
+| space.facebiz.xyz | 0i0i0i0.com |
 | spy.luvprn.com | 0i0i0i0.com |
+| spyglass.octanime.net | 0i0i0i0.com |
 | spyglass.reklamko.pro | 0i0i0i0.com |
 | srv.clinno.link | 0i0i0i0.com |
 | stuff.wikiporno.org | 0i0i0i0.com |
@@ -265,10 +267,12 @@
 | theporndude.com.1111supjavcom.xyz | 0i0i0i0.com |
 | thescript.javfinder.xyz | 0i0i0i0.com |
 | thetranny.online | 0i0i0i0.com |
+| tik.boldtur.xyz | 0i0i0i0.com |
 | tlv.ui02.com | 0i0i0i0.com |
 | tpl.factporn.com | 0i0i0i0.com |
 | ts.sopornvideos.com | 0i0i0i0.com |
 | tt.wl-cornholio.com | 0i0i0i0.com |
+| turbo.binande.xyz | 0i0i0i0.com |
 | uk.boffinsoft.com | 0i0i0i0.com |
 | uthbxvz.bestzba.com | 0i0i0i0.com |
 | v.focusde.info | 0i0i0i0.com |
@@ -286,6 +290,7 @@
 | www.demstenes24.one | 0i0i0i0.com |
 | www.findnewline.com | 0i0i0i0.com |
 | www.gombmobil.store | 0i0i0i0.com |
+| www.guabmobil.site | 0i0i0i0.com |
 | www.healmsuoguurd.eu | 0i0i0i0.com |
 | www.lechoncito.one | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
@@ -304,7 +309,6 @@
 | zazu.vtube.to | 0i0i0i0.com |
 | zeenite.online | 0i0i0i0.com |
 | zzz.pissrip.net | 0i0i0i0.com |
-| widjet.analnoe.tv | 548260.parkingcrew.net |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | hq3x.com | u50.0i0i0i0.com |
 | lovelybingo.com | u50.0i0i0i0.com |

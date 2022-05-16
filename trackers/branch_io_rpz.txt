@@ -39,6 +39,7 @@ ablink.account.zip.co CNAME .
 ablink.activation.depop.com CNAME .
 ablink.alerts.steadyapp.com CNAME .
 ablink.arch.sofi.org CNAME .
+ablink.autoconfirm.grassdoor.com CNAME .
 ablink.automated.airtasker.com CNAME .
 ablink.book.omio.com CNAME .
 ablink.c.grubhub.com CNAME .
@@ -185,6 +186,7 @@ app.email.influitive.com CNAME .
 app.events.philips.com CNAME .
 app.sephora.com CNAME .
 applink.getbambu.com CNAME .
+apps.wholefoodsmarket.com CNAME .
 atumanera.burgerking.com.mx CNAME .
 b.dl.redcrossblood.org CNAME .
 b.iheart.southwest.com CNAME .
@@ -271,6 +273,7 @@ clicked.ebates.com CNAME .
 clickmail.stubhub.com CNAME .
 clicks-test.info.theiconic.com.au CNAME .
 clicks.6thstreet.com CNAME .
+clicks.blockfi.com CNAME .
 clicks.burgerking.co.uk CNAME .
 clicks.drizly.com CNAME .
 clicks.email.shakeshack.com CNAME .

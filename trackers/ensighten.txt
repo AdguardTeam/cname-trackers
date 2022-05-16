@@ -30,6 +30,7 @@
 ||agility.cartoonnetwork.com^
 ||agility.citizensbank.com^
 ||agility.cnn.com^
+||agility.cnvrm.com^
 ||agility.eleague.com^
 ||agility.nba.com^
 ||agility.ncaa.com^

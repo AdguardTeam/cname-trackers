@@ -29,6 +29,7 @@ tr.asp10ar.espmp-cufr.net
 tr.asp10bs.espmp-aufr.net
 tr.asp10cr.espmp-nifr.net
 tr.asp10hi.espmp-cufr.net
+tr.asp202u.espmp-cufr.net
 tr.asp2032.espmp-aufr.net
 tr.asp2045.espmp-nifr.net
 tr.asp2063.espmp-nifr.net
@@ -156,6 +157,7 @@ tr.fr.pro.accor.com
 tr.gdfsuez-globalenergy.info
 tr.gen.espmp-agfr.net
 tr.gestion.banque-casino.fr
+tr.gestion.cafineo.fr
 tr.gestion.cetelem.fr
 tr.gestion.cofinoga.fr
 tr.gestion.credit-moderne.fr
@@ -270,6 +272,7 @@ tr.news.alibabuy.com
 tr.news.alinea.com
 tr.news.allopneus.com
 tr.news.assuragency.net
+tr.news.c-media.fr
 tr.news.capfun.com
 tr.news.casino.fr
 tr.news.casinodrive.fr
@@ -326,6 +329,7 @@ tr.news.toocampmail.com
 tr.news.vip-diary.com
 tr.news.vip-mag.co.uk
 tr.news.vipmag.fr
+tr.news.vivrecotesud.fr
 tr.news.voyagesleclerc.com
 tr.news.vraaguwofferte.be
 tr.news.vraaguwofferte.com

@@ -3,6 +3,7 @@
 #
 # mm.actionlink.jp disguised trackers
 #
+al.californiastreet.net
 al.directishii.net
 al.fulcloset.jp
 al.ganzo.ne.jp

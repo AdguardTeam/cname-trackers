@@ -23,6 +23,7 @@ adebis-52667624.wowma.jp CNAME .
 adebis-morijuku.morijuku.com CNAME .
 adebis-rikon.vbest.jp CNAME .
 adebis-saimu.vbest.jp CNAME .
+adebis.464981.com CNAME .
 adebis.afc-shop.com CNAME .
 adebis.angfa-store.jp CNAME .
 adebis.bathclin.jp CNAME .
@@ -183,6 +184,7 @@ isebis.takamiclinic.or.jp CNAME .
 isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
 jj85xnjq.ybqwah.ntt.com CNAME .
+marketing.zwei.com CNAME .
 maz.zba.jp CNAME .
 mcad.mods-clinic.com CNAME .
 mgn.ebis.andbe-official.com CNAME .

@@ -39,6 +39,7 @@
 ||ablink.activation.depop.com^
 ||ablink.alerts.steadyapp.com^
 ||ablink.arch.sofi.org^
+||ablink.autoconfirm.grassdoor.com^
 ||ablink.automated.airtasker.com^
 ||ablink.book.omio.com^
 ||ablink.c.grubhub.com^
@@ -185,6 +186,7 @@
 ||app.events.philips.com^
 ||app.sephora.com^
 ||applink.getbambu.com^
+||apps.wholefoodsmarket.com^
 ||atumanera.burgerking.com.mx^
 ||b.dl.redcrossblood.org^
 ||b.iheart.southwest.com^
@@ -271,6 +273,7 @@
 ||clickmail.stubhub.com^
 ||clicks-test.info.theiconic.com.au^
 ||clicks.6thstreet.com^
+||clicks.blockfi.com^
 ||clicks.burgerking.co.uk^
 ||clicks.drizly.com^
 ||clicks.email.shakeshack.com^

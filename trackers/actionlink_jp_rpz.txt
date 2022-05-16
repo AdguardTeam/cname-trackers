@@ -3,6 +3,7 @@
 ;
 ; mm.actionlink.jp disguised trackers
 ;
+al.californiastreet.net CNAME .
 al.directishii.net CNAME .
 al.fulcloset.jp CNAME .
 al.ganzo.ne.jp CNAME .

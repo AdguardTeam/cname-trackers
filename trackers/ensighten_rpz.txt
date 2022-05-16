@@ -30,6 +30,7 @@ activate1.fidelity.com CNAME .
 agility.cartoonnetwork.com CNAME .
 agility.citizensbank.com CNAME .
 agility.cnn.com CNAME .
+agility.cnvrm.com CNAME .
 agility.eleague.com CNAME .
 agility.nba.com CNAME .
 agility.ncaa.com CNAME .

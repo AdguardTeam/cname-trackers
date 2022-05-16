@@ -3,7 +3,6 @@
 #
 # k.keyade.com disguised trackers
 #
-clk.boulanger.com
 clk.ubi.com
 k.brandalley.co.nl
 k.cocooncenter.be
@@ -13,6 +12,7 @@ k.cocooncenter.de
 k.cocooncenter.es
 k.hofmann.es
 k.laredoute.es
+k.laredoute.pt
 k.laredoute.ru
 k.rueducommerce.fr
 k.voyageursdumonde.fr

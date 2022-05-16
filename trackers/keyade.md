@@ -13,7 +13,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| clk.boulanger.com | k.keyade.com |
 | clk.ubi.com | k.keyade.com |
 | k.brandalley.co.nl | k.keyade.com |
 | k.cocooncenter.be | k.keyade.com |
@@ -23,6 +22,7 @@
 | k.cocooncenter.es | k.keyade.com |
 | k.hofmann.es | k.keyade.com |
 | k.laredoute.es | k.keyade.com |
+| k.laredoute.pt | k.keyade.com |
 | k.laredoute.ru | k.keyade.com |
 | k.rueducommerce.fr | k.keyade.com |
 | k.voyageursdumonde.fr | k.keyade.com |

@@ -34,6 +34,7 @@
 | tr.asp10bs.espmp-aufr.net | tracking.bp01.net |
 | tr.asp10cr.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10hi.espmp-cufr.net | tracking.bp01.net |
+| tr.asp202u.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2032.espmp-aufr.net | tracking.bp01.net |
 | tr.asp2045.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2063.espmp-nifr.net | tracking.bp01.net |
@@ -161,6 +162,7 @@
 | tr.gdfsuez-globalenergy.info | tracking.bp01.net |
 | tr.gen.espmp-agfr.net | tracking.bp01.net |
 | tr.gestion.banque-casino.fr | tracking.bp01.net |
+| tr.gestion.cafineo.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
 | tr.gestion.cofinoga.fr | tracking.bp01.net |
 | tr.gestion.credit-moderne.fr | tracking.bp01.net |
@@ -275,6 +277,7 @@
 | tr.news.alinea.com | tracking.bp01.net |
 | tr.news.allopneus.com | tracking.bp01.net |
 | tr.news.assuragency.net | tracking.bp01.net |
+| tr.news.c-media.fr | tracking.bp01.net |
 | tr.news.capfun.com | tracking.bp01.net |
 | tr.news.casino.fr | tracking.bp01.net |
 | tr.news.casinodrive.fr | tracking.bp01.net |
@@ -331,6 +334,7 @@
 | tr.news.vip-diary.com | tracking.bp01.net |
 | tr.news.vip-mag.co.uk | tracking.bp01.net |
 | tr.news.vipmag.fr | tracking.bp01.net |
+| tr.news.vivrecotesud.fr | tracking.bp01.net |
 | tr.news.voyagesleclerc.com | tracking.bp01.net |
 | tr.news.vraaguwofferte.be | tracking.bp01.net |
 | tr.news.vraaguwofferte.com | tracking.bp01.net |

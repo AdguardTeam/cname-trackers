@@ -86,6 +86,7 @@ strawberry.basf.com
 tm.urssaf.fr
 torropinto.viessmann.es
 tse.telerama.fr
+uusimaa.viessmann.fi
 waati.quechoisir.org
 wareneingang.edeka.de
 wasserkraftwerkkessel.viessmann.ch

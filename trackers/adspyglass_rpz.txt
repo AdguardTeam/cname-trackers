@@ -11,6 +11,7 @@
 58745.clicknplay.to CNAME .
 71213zhazha.com CNAME .
 987656iuyyty.hotscopes.to CNAME .
+99.mangaad.xyz CNAME .
 a.123porner.com CNAME .
 a.44oo.icu CNAME .
 a.6vids.space CNAME .
@@ -51,6 +52,7 @@ a.streamoupload.xyz CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
 a.umpornozinho.com CNAME .
+a.viralnewsbd.xyz CNAME .
 a.warddogs.com CNAME .
 a.watchomovies.com CNAME .
 a.youtubersgonewild.net CNAME .
@@ -155,8 +157,8 @@ dontblock.jav1jav2.buzz CNAME .
 dontblock.javjav1.buzz CNAME .
 dsfgp.admenhost.com CNAME .
 ebd.cda-hd.cc CNAME .
+ebd.cda-hd.co CNAME .
 eco.blendxxx.com CNAME .
-erfe.sexydev.dev CNAME .
 est.pornleech.ch CNAME .
 eyedssw.javvvvvv.xyz CNAME .
 fast.s5live.com CNAME .
@@ -234,10 +236,12 @@ pre.ebasos.club CNAME .
 pre.myfuck.club CNAME .
 profield.ddns.net CNAME .
 pubblicita.animeitaly.org CNAME .
+pubg.remiitano.xyz CNAME .
 redi.teengirl-pics.com CNAME .
 rst.pornyhd.com CNAME .
 s.elitecdn.pl CNAME .
 s.freeporncave.com CNAME .
+s.remonti.org CNAME .
 s.speedostream.com CNAME .
 s2.everydaygayporn.com CNAME .
 satmon.neekstore.com CNAME .
@@ -251,7 +255,9 @@ sg.xclick24.com CNAME .
 shemale.house CNAME .
 slave.kbjfree.com CNAME .
 solutions.playernetca.top CNAME .
+space.facebiz.xyz CNAME .
 spy.luvprn.com CNAME .
+spyglass.octanime.net CNAME .
 spyglass.reklamko.pro CNAME .
 srv.clinno.link CNAME .
 stuff.wikiporno.org CNAME .
@@ -260,10 +266,12 @@ tb.turbocap.net CNAME .
 theporndude.com.1111supjavcom.xyz CNAME .
 thescript.javfinder.xyz CNAME .
 thetranny.online CNAME .
+tik.boldtur.xyz CNAME .
 tlv.ui02.com CNAME .
 tpl.factporn.com CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
+turbo.binande.xyz CNAME .
 uk.boffinsoft.com CNAME .
 uthbxvz.bestzba.com CNAME .
 v.focusde.info CNAME .
@@ -281,6 +289,7 @@ www.bigboy.monster CNAME .
 www.demstenes24.one CNAME .
 www.findnewline.com CNAME .
 www.gombmobil.store CNAME .
+www.guabmobil.site CNAME .
 www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.lechoncito.one CNAME .
@@ -300,7 +309,3 @@ z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .
 zeenite.online CNAME .
 zzz.pissrip.net CNAME .
-;
-; 548260.parkingcrew.net disguised trackers
-;
-widjet.analnoe.tv CNAME .

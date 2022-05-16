@@ -107,6 +107,7 @@
 ||a8clk.recycle-net.jp^
 ||a8clk.rental.geo-online.co.jp^
 ||a8clk.reserve.retty.me^
+||a8clk.rf28.com^
 ||a8clk.shokutakubin.com^
 ||a8clk.shop.sunsorit.co.jp^
 ||a8clk.shop.tanita.co.jp^
@@ -181,6 +182,7 @@
 ||a8cv.tfansite.jp^
 ||a8cv.try-fs.com^
 ||a8cv.udition.jp^
+||a8cv.unico-fan.co.jp^
 ||a8cv.unito.life^
 ||a8cv.untenmenkyo-yi.com^
 ||a8cv.urocca.jp^

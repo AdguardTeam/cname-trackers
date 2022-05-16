@@ -332,6 +332,7 @@ stats.cfcasts.com CNAME .
 stats.challengehub.app CNAME .
 stats.changelog.com CNAME .
 stats.chapterist.show CNAME .
+stats.chargemybike.de CNAME .
 stats.chronoslabs.net CNAME .
 stats.citizenos.com CNAME .
 stats.cleverdiabetic.com CNAME .
@@ -364,6 +365,7 @@ stats.divemap.uk CNAME .
 stats.divyanshu013.dev CNAME .
 stats.dominikmayer.com CNAME .
 stats.doors.live CNAME .
+stats.dreher-dreher.eu CNAME .
 stats.drewbolles.com CNAME .
 stats.drgomesp.dev CNAME .
 stats.edkimo.com CNAME .
@@ -473,7 +475,6 @@ stats.martinbetz.eu CNAME .
 stats.martyntaylor.com CNAME .
 stats.marudor.de CNAME .
 stats.mashword.com CNAME .
-stats.masjidbox.com CNAME .
 stats.mastermeup.com CNAME .
 stats.matthiasloibl.com CNAME .
 stats.matthogg.fyi CNAME .
@@ -485,6 +486,7 @@ stats.michaell.io CNAME .
 stats.missionrabies.com CNAME .
 stats.mkwtas.com CNAME .
 stats.mmazzarolo.com CNAME .
+stats.moderncoupmake.com CNAME .
 stats.motion-effect.com CNAME .
 stats.motornation.net CNAME .
 stats.mtsknn.fi CNAME .
@@ -537,7 +539,6 @@ stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
 stats.populang.com CNAME .
-stats.portabella.io CNAME .
 stats.poweringpastcoal.org CNAME .
 stats.pri.org CNAME .
 stats.pricewell.io CNAME .
@@ -598,6 +599,7 @@ stats.strawberry.rocks CNAME .
 stats.strikogkod.dk CNAME .
 stats.studypages.com CNAME .
 stats.sublimesecurity.com CNAME .
+stats.suenicholls.com CNAME .
 stats.sunpeaksstables.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svenadolph.net CNAME .
@@ -614,6 +616,7 @@ stats.tkg.codes CNAME .
 stats.toiletmap.org.uk CNAME .
 stats.tomorrowacademy.org CNAME .
 stats.torontohhs.org CNAME .
+stats.trailblazercoffee.com CNAME .
 stats.training.fit CNAME .
 stats.travelfodder.com CNAME .
 stats.tresor.one CNAME .

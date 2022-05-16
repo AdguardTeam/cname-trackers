@@ -107,6 +107,7 @@ a8clk.rarejob.com CNAME .
 a8clk.recycle-net.jp CNAME .
 a8clk.rental.geo-online.co.jp CNAME .
 a8clk.reserve.retty.me CNAME .
+a8clk.rf28.com CNAME .
 a8clk.shokutakubin.com CNAME .
 a8clk.shop.sunsorit.co.jp CNAME .
 a8clk.shop.tanita.co.jp CNAME .
@@ -181,6 +182,7 @@ a8cv.t-bang.jp CNAME .
 a8cv.tfansite.jp CNAME .
 a8cv.try-fs.com CNAME .
 a8cv.udition.jp CNAME .
+a8cv.unico-fan.co.jp CNAME .
 a8cv.unito.life CNAME .
 a8cv.untenmenkyo-yi.com CNAME .
 a8cv.urocca.jp CNAME .

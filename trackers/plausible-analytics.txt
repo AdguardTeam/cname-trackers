@@ -332,6 +332,7 @@
 ||stats.challengehub.app^
 ||stats.changelog.com^
 ||stats.chapterist.show^
+||stats.chargemybike.de^
 ||stats.chronoslabs.net^
 ||stats.citizenos.com^
 ||stats.cleverdiabetic.com^
@@ -364,6 +365,7 @@
 ||stats.divyanshu013.dev^
 ||stats.dominikmayer.com^
 ||stats.doors.live^
+||stats.dreher-dreher.eu^
 ||stats.drewbolles.com^
 ||stats.drgomesp.dev^
 ||stats.edkimo.com^
@@ -473,7 +475,6 @@
 ||stats.martyntaylor.com^
 ||stats.marudor.de^
 ||stats.mashword.com^
-||stats.masjidbox.com^
 ||stats.mastermeup.com^
 ||stats.matthiasloibl.com^
 ||stats.matthogg.fyi^
@@ -485,6 +486,7 @@
 ||stats.missionrabies.com^
 ||stats.mkwtas.com^
 ||stats.mmazzarolo.com^
+||stats.moderncoupmake.com^
 ||stats.motion-effect.com^
 ||stats.motornation.net^
 ||stats.mtsknn.fi^
@@ -537,7 +539,6 @@
 ||stats.pointflottant.com^
 ||stats.polekatfitness.com^
 ||stats.populang.com^
-||stats.portabella.io^
 ||stats.poweringpastcoal.org^
 ||stats.pri.org^
 ||stats.pricewell.io^
@@ -598,6 +599,7 @@
 ||stats.strikogkod.dk^
 ||stats.studypages.com^
 ||stats.sublimesecurity.com^
+||stats.suenicholls.com^
 ||stats.sunpeaksstables.com^
 ||stats.sushibyte.io^
 ||stats.svenadolph.net^
@@ -614,6 +616,7 @@
 ||stats.toiletmap.org.uk^
 ||stats.tomorrowacademy.org^
 ||stats.torontohhs.org^
+||stats.trailblazercoffee.com^
 ||stats.training.fit^
 ||stats.travelfodder.com^
 ||stats.tresor.one^

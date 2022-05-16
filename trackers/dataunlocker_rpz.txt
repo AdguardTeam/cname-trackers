@@ -13,17 +13,16 @@
 1kpv4njzilv.community.intersystems.com CNAME .
 1uwcex4qf9z.test-115.dapp.ml CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
-25voj20abod.honeyswap.org CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .
 2e718yf5jypb.test.digitalsurge.io CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
+5o38vlemjcnu.www.earthclassmail.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
-9bzcnz4vtsbf.kvest.ee CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
@@ -54,7 +53,6 @@ ouc82i67pytg.www.emanualonline.com CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 pg3b233p99sa.www.marketdata.app CNAME .
 qhoxqx12wwme.www.earthclassmail.com CNAME .
-qmaea68tanna.www.earthclassmail.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s4s51f00a3o7.www.eldorado.gg CNAME .

@@ -85,6 +85,7 @@
     * tm-urssaf-fr-cddc.at-o.net
     * torropinto-viessmann-es-cddc.at-o.net
     * tse-telerama-fr-cddc.at-o.net
+    * uusimaa-viessmann-fi-cddc.at-o.net
     * waati-quechoisir-org-cddc.at-o.net
     * wareneingang-edeka-de-cddc.at-o.net
     * wasserkraftwerkkessel-viessmann-ch-cddc.at-o.net
@@ -187,6 +188,7 @@
 | tm.urssaf.fr | tm-urssaf-fr-cddc.at-o.net |
 | torropinto.viessmann.es | torropinto-viessmann-es-cddc.at-o.net |
 | tse.telerama.fr | tse-telerama-fr-cddc.at-o.net |
+| uusimaa.viessmann.fi | uusimaa-viessmann-fi-cddc.at-o.net |
 | waati.quechoisir.org | waati-quechoisir-org-cddc.at-o.net |
 | wareneingang.edeka.de | wareneingang-edeka-de-cddc.at-o.net |
 | wasserkraftwerkkessel.viessmann.ch | wasserkraftwerkkessel-viessmann-ch-cddc.at-o.net |

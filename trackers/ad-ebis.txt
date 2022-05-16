@@ -23,6 +23,7 @@
 ||adebis-morijuku.morijuku.com^
 ||adebis-rikon.vbest.jp^
 ||adebis-saimu.vbest.jp^
+||adebis.464981.com^
 ||adebis.afc-shop.com^
 ||adebis.angfa-store.jp^
 ||adebis.bathclin.jp^
@@ -183,6 +184,7 @@
 ||isebis.yutoriform.com^
 ||itp.phoebebeautyup.com^
 ||jj85xnjq.ybqwah.ntt.com^
+||marketing.zwei.com^
 ||maz.zba.jp^
 ||mcad.mods-clinic.com^
 ||mgn.ebis.andbe-official.com^

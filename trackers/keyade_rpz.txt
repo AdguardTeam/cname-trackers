@@ -3,7 +3,6 @@
 ;
 ; k.keyade.com disguised trackers
 ;
-clk.boulanger.com CNAME .
 clk.ubi.com CNAME .
 k.brandalley.co.nl CNAME .
 k.cocooncenter.be CNAME .
@@ -13,6 +12,7 @@ k.cocooncenter.de CNAME .
 k.cocooncenter.es CNAME .
 k.hofmann.es CNAME .
 k.laredoute.es CNAME .
+k.laredoute.pt CNAME .
 k.laredoute.ru CNAME .
 k.rueducommerce.fr CNAME .
 k.voyageursdumonde.fr CNAME .

@@ -29,6 +29,7 @@ tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
 tr.asp10cr.espmp-nifr.net CNAME .
 tr.asp10hi.espmp-cufr.net CNAME .
+tr.asp202u.espmp-cufr.net CNAME .
 tr.asp2032.espmp-aufr.net CNAME .
 tr.asp2045.espmp-nifr.net CNAME .
 tr.asp2063.espmp-nifr.net CNAME .
@@ -156,6 +157,7 @@ tr.fr.pro.accor.com CNAME .
 tr.gdfsuez-globalenergy.info CNAME .
 tr.gen.espmp-agfr.net CNAME .
 tr.gestion.banque-casino.fr CNAME .
+tr.gestion.cafineo.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
 tr.gestion.cofinoga.fr CNAME .
 tr.gestion.credit-moderne.fr CNAME .
@@ -270,6 +272,7 @@ tr.news.alibabuy.com CNAME .
 tr.news.alinea.com CNAME .
 tr.news.allopneus.com CNAME .
 tr.news.assuragency.net CNAME .
+tr.news.c-media.fr CNAME .
 tr.news.capfun.com CNAME .
 tr.news.casino.fr CNAME .
 tr.news.casinodrive.fr CNAME .
@@ -326,6 +329,7 @@ tr.news.toocampmail.com CNAME .
 tr.news.vip-diary.com CNAME .
 tr.news.vip-mag.co.uk CNAME .
 tr.news.vipmag.fr CNAME .
+tr.news.vivrecotesud.fr CNAME .
 tr.news.voyagesleclerc.com CNAME .
 tr.news.vraaguwofferte.be CNAME .
 tr.news.vraaguwofferte.com CNAME .

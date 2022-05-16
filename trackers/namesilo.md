@@ -13,21 +13,21 @@
 
 ### Rarely active trackers
 
-* fp276a.wac.sigmacdn.net
-* cds.v3j9t5q9.hwcdn.net
 * cds.d6n9n7e2.hwcdn.net
+* cds.v3j9t5q9.hwcdn.net
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| a.exdynsrv.com | cds.d6n9n7e2.hwcdn.net |
+| a.exoclick.com | cds.d6n9n7e2.hwcdn.net |
+| a.exosrv.com | cds.d6n9n7e2.hwcdn.net |
+| ads.exdynsrv.com | cds.d6n9n7e2.hwcdn.net |
+| ads.exoclick.com | cds.d6n9n7e2.hwcdn.net |
+| ads.exosrv.com | cds.d6n9n7e2.hwcdn.net |
 | delivery.gettopple.com | cds.d6n9n7e2.hwcdn.net |
 | admin.adnation.com | cds.v3j9t5q9.hwcdn.net |
-| a.exoclick.com | fp276a.wac.sigmacdn.net |
-| a.exosrv.com | fp276a.wac.sigmacdn.net |
-| ads.exdynsrv.com | fp276a.wac.sigmacdn.net |
-| ads.exoclick.com | fp276a.wac.sigmacdn.net |
-| ads.exosrv.com | fp276a.wac.sigmacdn.net |
 | rtb.exoclick.com | ka8ing2z.ab1n.net |
 | 3115164.notify6.com | tk6if76q.ab1n.net |
 | 3164315.notifysrv.com | tk6if76q.ab1n.net |
@@ -119,6 +119,7 @@
 | 3549573.notifysrv.com | tk6if76q.ab1n.net |
 | 3556651.notifysrv.com | tk6if76q.ab1n.net |
 | 3566697.notifysrv.com | tk6if76q.ab1n.net |
+| 3568955.notify6.com | tk6if76q.ab1n.net |
 | 3570727.notifysrv.com | tk6if76q.ab1n.net |
 | 3572273.notify6.com | tk6if76q.ab1n.net |
 | 3572273.notifysrv.com | tk6if76q.ab1n.net |
@@ -183,10 +184,12 @@
 | 3869854.notifysrv.com | tk6if76q.ab1n.net |
 | 3870370.notify6.com | tk6if76q.ab1n.net |
 | 3880638.notify6.com | tk6if76q.ab1n.net |
+| 3881818.notify6.com | tk6if76q.ab1n.net |
 | 3898280.notify6.com | tk6if76q.ab1n.net |
 | 3917542.notify6.com | tk6if76q.ab1n.net |
 | 3921002.notify6.com | tk6if76q.ab1n.net |
 | 3935380.notify6.com | tk6if76q.ab1n.net |
+| 3935618.notify6.com | tk6if76q.ab1n.net |
 | 3938193.notify6.com | tk6if76q.ab1n.net |
 | 3944044.notify6.com | tk6if76q.ab1n.net |
 | 3944974.notify6.com | tk6if76q.ab1n.net |
@@ -209,6 +212,7 @@
 | 4050544.notify6.com | tk6if76q.ab1n.net |
 | 4052808.notify6.com | tk6if76q.ab1n.net |
 | 4052828.notify6.com | tk6if76q.ab1n.net |
+| 4060008.notify6.com | tk6if76q.ab1n.net |
 | 4061378.notify6.com | tk6if76q.ab1n.net |
 | 4062424.notify6.com | tk6if76q.ab1n.net |
 | 4068856.notify6.com | tk6if76q.ab1n.net |
@@ -307,9 +311,5 @@
 | api.adnation.com | x0xmrxm4.ab1n.net |
 | s3t3d2y8.ackcdn.net | yrg6yks9.ab1n.net |
 | u3y8v8u4.ackcdn.net | yrg6yks9.ab1n.net |
-| a.exdynsrv.com | yvk8gxz2.ab1n.net |
 | a.exoclick.com | yvk8gxz2.ab1n.net |
-| a.exosrv.com | yvk8gxz2.ab1n.net |
-| ads.exdynsrv.com | yvk8gxz2.ab1n.net |
 | ads.exoclick.com | yvk8gxz2.ab1n.net |
-| ads.exosrv.com | yvk8gxz2.ab1n.net |
