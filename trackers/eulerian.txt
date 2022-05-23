@@ -70,6 +70,7 @@
 ||ea.dcshoes-europe.com^
 ||ea.deguisetoi.fr^
 ||ea.diamant-unique.com^
+||ea.ecotour.com^
 ||ea.elstarprevention.com^
 ||ea.evaway.com^
 ||ea.fleurancenature.com^
@@ -181,7 +182,6 @@
 ||gdm1.toner.fr^
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
-||gi7a.structube.com^
 ||guq9.vente-unique.it^
 ||gwtc.sfr.fr^
 ||h00c.sfr.fr^
@@ -356,7 +356,6 @@
 ||vqp3.madeindesign.co.uk^
 ||vry9.destinia.com^
 ||vtf2f.banque-casino.fr^
-||wfd7.carventura.com^
 ||why3.inseec.education^
 ||wph2.destinia.us^
 ||xay5o.toscane-boutique.fr^

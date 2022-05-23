@@ -7,6 +7,7 @@
 a8-itp.qoo10.jp CNAME .
 a8.01cloud.jp CNAME .
 a8.abemashopping.jp CNAME .
+a8.brandcosme.com CNAME .
 a8.cocomeister.jp CNAME .
 a8.cyclemarket.jp CNAME .
 a8.denki-koji.work CNAME .
@@ -40,6 +41,7 @@ a8.sakuratravel.jp CNAME .
 a8.sennendo.jp CNAME .
 a8.shopserve.jp CNAME .
 a8.ssl.aispr.jp CNAME .
+a8.strapya.com CNAME .
 a8.tone.ne.jp CNAME .
 a8.tour-sys.com CNAME .
 a8.tscubic.com CNAME .
@@ -109,6 +111,7 @@ a8clk.rental.geo-online.co.jp CNAME .
 a8clk.reserve.retty.me CNAME .
 a8clk.rf28.com CNAME .
 a8clk.shokutakubin.com CNAME .
+a8clk.shop.kitamura.jp CNAME .
 a8clk.shop.sunsorit.co.jp CNAME .
 a8clk.shop.tanita.co.jp CNAME .
 a8clk.skima.jp CNAME .
@@ -119,6 +122,7 @@ a8clk.teacon.jp CNAME .
 a8clk.titivate.jp CNAME .
 a8clk.ur-s.me CNAME .
 a8clk.voice-inc.co.jp CNAME .
+a8clk.waq-online.com CNAME .
 a8clk.wi-ho.net CNAME .
 a8clk.www.autoway.jp CNAME .
 a8clk.www.cledepeau-beaute.com CNAME .
@@ -141,12 +145,14 @@ a8cv.brandeuse.jp CNAME .
 a8cv.brassiere-shorts.jp CNAME .
 a8cv.broadbandservice.jp CNAME .
 a8cv.busbookmark.jp CNAME .
+a8cv.chillaxy.jp CNAME .
 a8cv.coopnet.or.jp CNAME .
 a8cv.danjiki-net.jp CNAME .
 a8cv.direct-teleshop.jp CNAME .
 a8cv.dotpro.tokyo CNAME .
 a8cv.downjacket.pro CNAME .
 a8cv.dreambeer.jp CNAME .
+a8cv.dshu.jp CNAME .
 a8cv.english-bootcamp.com CNAME .
 a8cv.entry.renet.jp CNAME .
 a8cv.frecious.jp CNAME .

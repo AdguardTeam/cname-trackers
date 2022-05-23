@@ -151,6 +151,7 @@ pl.astro-akatemia.fi
 pl.astro.fi
 pl.codetheweb.blog
 pl.ethan.link
+pl.fashmoms.com
 pl.getfamealy.com
 pl.kanbanmail.app
 pl.maya-astro.fi
@@ -184,6 +185,7 @@ plausible.deploymentfromscratch.com
 plausible.dev.sketch.com
 plausible.doberman.co
 plausible.doctave.com
+plausible.edu-focus.org
 plausible.ericgoebelbecker.com
 plausible.eurostocks.nl
 plausible.exploreandcreate.com
@@ -403,6 +405,7 @@ stats.glyphs.fyi
 stats.goldsguide.com
 stats.granot.dev
 stats.graphql-api.com
+stats.greatlakesdesign.co
 stats.gslc.utah.edu
 stats.guersanguillaume.com
 stats.hex.pm
@@ -558,6 +561,7 @@ stats.referralhero.com
 stats.reisemobil.pro
 stats.remotebear.io
 stats.reprage.com
+stats.retro.cz
 stats.revit-content.com
 stats.robhope.com
 stats.rocketvalidator.com

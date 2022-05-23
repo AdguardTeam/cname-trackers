@@ -20,6 +20,7 @@ ad1.tone.ne.jp CNAME .
 adbq.bk.mufg.jp CNAME .
 ade.deskstyle.info CNAME .
 adebis-52667624.wowma.jp CNAME .
+adebis-bkan.vbest.jp CNAME .
 adebis-morijuku.morijuku.com CNAME .
 adebis-rikon.vbest.jp CNAME .
 adebis-saimu.vbest.jp CNAME .
@@ -96,6 +97,7 @@ cname1.shakenkan.co.jp CNAME .
 cname2.shaken-yoyaku.com CNAME .
 cnameebis.eizoshigoto.com CNAME .
 cnameebis.usagi-online.com CNAME .
+cnameforitp.dermed.jp CNAME .
 cnebis.chocola.com CNAME .
 cnebis.eisai.jp CNAME .
 cnebis.i-no-science.com CNAME .
@@ -187,7 +189,6 @@ jj85xnjq.ybqwah.ntt.com CNAME .
 marketing.zwei.com CNAME .
 maz.zba.jp CNAME .
 mcad.mods-clinic.com CNAME .
-mgn.ebis.andbe-official.com CNAME .
 msr.p-antiaging.com CNAME .
 nadeshiko2019.kirei-nadeshiko.jp CNAME .
 ncc.nip-col.jp CNAME .
@@ -204,6 +205,7 @@ tracking.mysurance.co.jp CNAME .
 tracking.nokai.jp CNAME .
 tukuru.cotta.jp CNAME .
 urerucname.manara.jp CNAME .
+ureruebis.nintama.co.jp CNAME .
 us9recc3.simseller.goo.ne.jp CNAME .
 www-ebis.384.co.jp CNAME .
 www2.hnavi.co.jp CNAME .

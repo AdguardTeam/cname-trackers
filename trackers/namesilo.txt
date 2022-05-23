@@ -19,6 +19,7 @@
 ||3194053.notify6.com^
 ||3194053.notifysrv.com^
 ||3199023.notify6.com^
+||3199593.notifysrv.com^
 ||3207479.notifysrv.com^
 ||3207695.notify6.com^
 ||3209271.notifysrv.com^
@@ -41,6 +42,7 @@
 ||3304354.notify6.com^
 ||3310026.notify6.com^
 ||3310586.notify6.com^
+||3311320.notifysrv.com^
 ||3323174.notifysrv.com^
 ||3323378.notify6.com^
 ||3328396.notifysrv.com^
@@ -50,8 +52,10 @@
 ||3344944.notifysrv.com^
 ||3346174.notify6.com^
 ||3348424.notify6.com^
+||3348428.notify6.com^
 ||3349680.notify6.com^
 ||3351068.notify6.com^
+||3351068.notifysrv.com^
 ||3359790.notifysrv.com^
 ||3360202.notify6.com^
 ||3362420.notifysrv.com^
@@ -77,7 +81,11 @@
 ||3457959.notify6.com^
 ||3459455.notify6.com^
 ||3461289.notify6.com^
+||3466845.notifysrv.com^
 ||3466857.notifysrv.com^
+||3466863.notify6.com^
+||3476453.notifysrv.com^
+||3478737.notifysrv.com^
 ||3483067.notifysrv.com^
 ||3498171.notify6.com^
 ||3501655.notify6.com^
@@ -89,6 +97,7 @@
 ||3523289.notifysrv.com^
 ||3524339.notify6.com^
 ||3527699.notify6.com^
+||3527699.notifysrv.com^
 ||3541095.notifysrv.com^
 ||3549573.notifysrv.com^
 ||3556651.notifysrv.com^
@@ -97,11 +106,13 @@
 ||3570727.notifysrv.com^
 ||3572273.notify6.com^
 ||3572273.notifysrv.com^
+||3572277.notifysrv.com^
 ||3572293.notifysrv.com^
 ||3572299.notifysrv.com^
 ||3572303.notifysrv.com^
 ||3576531.notifysrv.com^
 ||3584069.notifysrv.com^
+||3584913.notifysrv.com^
 ||3587731.notify6.com^
 ||3588587.notify6.com^
 ||3588587.notifysrv.com^
@@ -112,10 +123,12 @@
 ||3593835.notify6.com^
 ||3595711.notifysrv.com^
 ||3597775.notifysrv.com^
+||3598457.notifysrv.com^
 ||3599727.notify6.com^
 ||3603119.notifysrv.com^
 ||3607715.notify6.com^
 ||3622691.notify6.com^
+||3629687.notifysrv.com^
 ||3629895.notifysrv.com^
 ||3632607.notifysrv.com^
 ||3648599.notifysrv.com^
@@ -134,6 +147,7 @@
 ||3672243.notifysrv.com^
 ||3682345.notifysrv.com^
 ||3710069.notifysrv.com^
+||3714181.notifysrv.com^
 ||3715633.notifysrv.com^
 ||3717105.notifysrv.com^
 ||3717259.notifysrv.com^
@@ -145,20 +159,25 @@
 ||3768747.notify6.com^
 ||3768747.notifysrv.com^
 ||3775247.notifysrv.com^
+||3783123.notifysrv.com^
 ||3789861.notifysrv.com^
 ||3805703.notifysrv.com^
 ||3814695.notifysrv.com^
 ||3822893.notifysrv.com^
+||3837365.notifysrv.com^
 ||3843075.notifysrv.com^
+||3843131.notify6.com^
 ||3845271.notify6.com^
 ||3853331.notify6.com^
 ||3853333.notify6.com^
+||3869256.notifysrv.com^
 ||3869462.notify6.com^
 ||3869504.notifysrv.com^
 ||3869854.notifysrv.com^
 ||3870370.notify6.com^
 ||3880638.notify6.com^
 ||3881818.notify6.com^
+||3887544.notify6.com^
 ||3898280.notify6.com^
 ||3917542.notify6.com^
 ||3921002.notify6.com^
@@ -169,11 +188,15 @@
 ||3944974.notify6.com^
 ||3944978.notify6.com^
 ||3945010.notify6.com^
+||3946240.notify6.com^
+||3946250.notify6.com^
 ||3950808.notify6.com^
 ||3959292.notify6.com^
+||3960141.notify6.com^
 ||3961386.notify6.com^
 ||3973252.notify6.com^
 ||3975710.notify6.com^
+||4003022.notify6.com^
 ||4003752.notify6.com^
 ||4004928.notify6.com^
 ||4018398.notify6.com^
@@ -198,6 +221,7 @@
 ||4149128.notify6.com^
 ||4160112.notify6.com^
 ||4162254.notify6.com^
+||4173050.notify6.com^
 ||4182036.notify6.com^
 ||4188246.notify6.com^
 ||4191292.notify6.com^
@@ -221,6 +245,7 @@
 ||4365744.notify6.com^
 ||4421184.notify6.com^
 ||4454624.notify6.com^
+||4455804.notify6.com^
 ||4539496.notify6.com^
 ||4587228.notify6.com^
 ||4598410.notify6.com^
@@ -302,3 +327,8 @@
 ! cds.v3j9t5q9.hwcdn.net disguised trackers
 !
 ||admin.adnation.com^
+!
+! 1208818836.rsc.cdn77.org disguised trackers
+!
+||s3t3d2y8.ackcdn.net^
+||u3y8v8u4.ackcdn.net^

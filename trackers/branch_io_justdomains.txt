@@ -225,7 +225,6 @@ branch-tradie.hipages.com.au
 branch.carvana.com
 branch.chelseafc.com
 branch.connect.actionnetwork.com
-branch.email.livenation.com
 branch.livenation.com
 branch.pgatour-mail.com
 branch.xoxloveheart.com
@@ -503,6 +502,7 @@ links.justfab.com
 links.justfab.de
 links.justfab.es
 links.justfab.fr
+links.keno.ae
 links.m.blueapron.com
 links.mail.stubhub.com
 links.marketing.getprizepool.com

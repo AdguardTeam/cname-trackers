@@ -314,6 +314,7 @@ tr.news.manufacturing.fr
 tr.news.mdbp.fr
 tr.news.meillandrichardier.com
 tr.news.mi-oferta.es
+tr.news.normandie.cci.fr
 tr.news.ouestnormandie.cci.fr
 tr.news.perfectstay.com
 tr.news.seine-estuaire.cci.fr
@@ -326,6 +327,7 @@ tr.news.teklifim.pro
 tr.news.thelist-emirates.fr
 tr.news.tiptel.fr
 tr.news.toocampmail.com
+tr.news.toute-la-franchise.com
 tr.news.vip-diary.com
 tr.news.vip-mag.co.uk
 tr.news.vipmag.fr
@@ -348,6 +350,7 @@ tr.newsletter.location.boulanger.com
 tr.newsletter.meilleurmobile.com
 tr.newsletter.milleis.fr
 tr.newsletter.phyto.com
+tr.newsletter.plurielmedia.com
 tr.newsletter.younited-credit.com
 tr.newsletters.odalys-vacances.com
 tr.newsmarketing.allopneus.com
@@ -441,6 +444,7 @@ tr.urfk03u.espmp-nifr.net
 tr.urfk06y.espmp-nifr.net
 tr.urfk07s.espmp-nifr.net
 tr.ville.bordeaux.fr
+tr.voeux-wishes.ipsilon-ip.com
 tr.voixduclient.harmonie-mutuelle.fr
 tr.votrealarme.securitasdirect.fr
 tr.vous.hellobank.fr

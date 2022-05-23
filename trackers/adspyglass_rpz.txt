@@ -6,7 +6,6 @@
 0.oldgyhogola.com CNAME .
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
-2.dtxtck1.xyz CNAME .
 2022.hizetnet.xyz CNAME .
 58745.clicknplay.to CNAME .
 71213zhazha.com CNAME .
@@ -40,6 +39,7 @@ a.gaypornlove.net CNAME .
 a.gayvideo.me CNAME .
 a.green-good-nice.site CNAME .
 a.hentai369.com CNAME .
+a.hentaitube.icu CNAME .
 a.kagiti.club CNAME .
 a.katomu.club CNAME .
 a.letsjerk.org CNAME .
@@ -130,12 +130,14 @@ banana.emailon.top CNAME .
 baren.hejkaheel.xyz CNAME .
 best.s5live.com CNAME .
 blog.andropps.com CNAME .
+bob.bezucai.com CNAME .
 c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
 c5m.codegurutech.com CNAME .
 cdc.teensnorest.com CNAME .
 cdfr.hot4k.org CNAME .
 cdn3.hentaihand.com CNAME .
+cdn3.hentaihaven.fun CNAME .
 cdnvid.com CNAME .
 chrome-loading.car-insurance-reviews.com CNAME .
 client2009x25.xcdn.ovh CNAME .
@@ -143,7 +145,6 @@ coco.rockdilla.com CNAME .
 cool.ah-me.com CNAME .
 dashboard.fc2ppv.buzz CNAME .
 data.bangtubevideos.com CNAME .
-ddownload.simplaza.org CNAME .
 deliver.vkcdnservice.com CNAME .
 digiadzone.com CNAME .
 digital.goldvertise.com CNAME .
@@ -286,7 +287,7 @@ wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
 www.befuglago.live CNAME .
 www.bigboy.monster CNAME .
-www.demstenes24.one CNAME .
+www.demostens.store CNAME .
 www.findnewline.com CNAME .
 www.gombmobil.store CNAME .
 www.guabmobil.site CNAME .

@@ -151,6 +151,7 @@ pl.astro-akatemia.fi CNAME .
 pl.astro.fi CNAME .
 pl.codetheweb.blog CNAME .
 pl.ethan.link CNAME .
+pl.fashmoms.com CNAME .
 pl.getfamealy.com CNAME .
 pl.kanbanmail.app CNAME .
 pl.maya-astro.fi CNAME .
@@ -184,6 +185,7 @@ plausible.deploymentfromscratch.com CNAME .
 plausible.dev.sketch.com CNAME .
 plausible.doberman.co CNAME .
 plausible.doctave.com CNAME .
+plausible.edu-focus.org CNAME .
 plausible.ericgoebelbecker.com CNAME .
 plausible.eurostocks.nl CNAME .
 plausible.exploreandcreate.com CNAME .
@@ -403,6 +405,7 @@ stats.glyphs.fyi CNAME .
 stats.goldsguide.com CNAME .
 stats.granot.dev CNAME .
 stats.graphql-api.com CNAME .
+stats.greatlakesdesign.co CNAME .
 stats.gslc.utah.edu CNAME .
 stats.guersanguillaume.com CNAME .
 stats.hex.pm CNAME .
@@ -558,6 +561,7 @@ stats.referralhero.com CNAME .
 stats.reisemobil.pro CNAME .
 stats.remotebear.io CNAME .
 stats.reprage.com CNAME .
+stats.retro.cz CNAME .
 stats.revit-content.com CNAME .
 stats.robhope.com CNAME .
 stats.rocketvalidator.com CNAME .

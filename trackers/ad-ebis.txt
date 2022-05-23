@@ -20,6 +20,7 @@
 ||adbq.bk.mufg.jp^
 ||ade.deskstyle.info^
 ||adebis-52667624.wowma.jp^
+||adebis-bkan.vbest.jp^
 ||adebis-morijuku.morijuku.com^
 ||adebis-rikon.vbest.jp^
 ||adebis-saimu.vbest.jp^
@@ -96,6 +97,7 @@
 ||cname2.shaken-yoyaku.com^
 ||cnameebis.eizoshigoto.com^
 ||cnameebis.usagi-online.com^
+||cnameforitp.dermed.jp^
 ||cnebis.chocola.com^
 ||cnebis.eisai.jp^
 ||cnebis.i-no-science.com^
@@ -187,7 +189,6 @@
 ||marketing.zwei.com^
 ||maz.zba.jp^
 ||mcad.mods-clinic.com^
-||mgn.ebis.andbe-official.com^
 ||msr.p-antiaging.com^
 ||nadeshiko2019.kirei-nadeshiko.jp^
 ||ncc.nip-col.jp^
@@ -204,6 +205,7 @@
 ||tracking.nokai.jp^
 ||tukuru.cotta.jp^
 ||urerucname.manara.jp^
+||ureruebis.nintama.co.jp^
 ||us9recc3.simseller.goo.ne.jp^
 ||www-ebis.384.co.jp^
 ||www2.hnavi.co.jp^

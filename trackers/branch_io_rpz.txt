@@ -225,7 +225,6 @@ branch-tradie.hipages.com.au CNAME .
 branch.carvana.com CNAME .
 branch.chelseafc.com CNAME .
 branch.connect.actionnetwork.com CNAME .
-branch.email.livenation.com CNAME .
 branch.livenation.com CNAME .
 branch.pgatour-mail.com CNAME .
 branch.xoxloveheart.com CNAME .
@@ -503,6 +502,7 @@ links.justfab.com CNAME .
 links.justfab.de CNAME .
 links.justfab.es CNAME .
 links.justfab.fr CNAME .
+links.keno.ae CNAME .
 links.m.blueapron.com CNAME .
 links.mail.stubhub.com CNAME .
 links.marketing.getprizepool.com CNAME .

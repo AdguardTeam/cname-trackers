@@ -6,7 +6,9 @@
 activate.aami.com.au CNAME .
 activate.academy.com CNAME .
 activate.bingle.com.au CNAME .
+activate.columbiaflier.com CNAME .
 activate.courant.com CNAME .
+activate.dailysouthtown.com CNAME .
 activate.delmartimes.net CNAME .
 activate.encinitasadvocate.com CNAME .
 activate.lajollalight.com CNAME .
@@ -78,6 +80,7 @@ businessmetrics.syf.com CNAME .
 coke.activate.ensighten.com CNAME .
 cookies.jll-mena.com CNAME .
 cookies.jll.ca CNAME .
+cookies.jll.ch CNAME .
 cookies.jll.cl CNAME .
 cookies.jll.co.id CNAME .
 cookies.jll.co.in CNAME .

@@ -7,6 +7,7 @@
 a8-itp.qoo10.jp
 a8.01cloud.jp
 a8.abemashopping.jp
+a8.brandcosme.com
 a8.cocomeister.jp
 a8.cyclemarket.jp
 a8.denki-koji.work
@@ -40,6 +41,7 @@ a8.sakuratravel.jp
 a8.sennendo.jp
 a8.shopserve.jp
 a8.ssl.aispr.jp
+a8.strapya.com
 a8.tone.ne.jp
 a8.tour-sys.com
 a8.tscubic.com
@@ -109,6 +111,7 @@ a8clk.rental.geo-online.co.jp
 a8clk.reserve.retty.me
 a8clk.rf28.com
 a8clk.shokutakubin.com
+a8clk.shop.kitamura.jp
 a8clk.shop.sunsorit.co.jp
 a8clk.shop.tanita.co.jp
 a8clk.skima.jp
@@ -119,6 +122,7 @@ a8clk.teacon.jp
 a8clk.titivate.jp
 a8clk.ur-s.me
 a8clk.voice-inc.co.jp
+a8clk.waq-online.com
 a8clk.wi-ho.net
 a8clk.www.autoway.jp
 a8clk.www.cledepeau-beaute.com
@@ -141,12 +145,14 @@ a8cv.brandeuse.jp
 a8cv.brassiere-shorts.jp
 a8cv.broadbandservice.jp
 a8cv.busbookmark.jp
+a8cv.chillaxy.jp
 a8cv.coopnet.or.jp
 a8cv.danjiki-net.jp
 a8cv.direct-teleshop.jp
 a8cv.dotpro.tokyo
 a8cv.downjacket.pro
 a8cv.dreambeer.jp
+a8cv.dshu.jp
 a8cv.english-bootcamp.com
 a8cv.entry.renet.jp
 a8cv.frecious.jp

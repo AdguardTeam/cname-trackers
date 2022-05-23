@@ -6,7 +6,9 @@
 ||activate.aami.com.au^
 ||activate.academy.com^
 ||activate.bingle.com.au^
+||activate.columbiaflier.com^
 ||activate.courant.com^
+||activate.dailysouthtown.com^
 ||activate.delmartimes.net^
 ||activate.encinitasadvocate.com^
 ||activate.lajollalight.com^
@@ -78,6 +80,7 @@
 ||coke.activate.ensighten.com^
 ||cookies.jll-mena.com^
 ||cookies.jll.ca^
+||cookies.jll.ch^
 ||cookies.jll.cl^
 ||cookies.jll.co.id^
 ||cookies.jll.co.in^

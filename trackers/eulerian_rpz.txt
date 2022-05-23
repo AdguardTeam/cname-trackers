@@ -70,6 +70,7 @@ ea.comprendrechoisir.com CNAME .
 ea.dcshoes-europe.com CNAME .
 ea.deguisetoi.fr CNAME .
 ea.diamant-unique.com CNAME .
+ea.ecotour.com CNAME .
 ea.elstarprevention.com CNAME .
 ea.evaway.com CNAME .
 ea.fleurancenature.com CNAME .
@@ -181,7 +182,6 @@ g1be.swisslife-direct.fr CNAME .
 gdm1.toner.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
-gi7a.structube.com CNAME .
 guq9.vente-unique.it CNAME .
 gwtc.sfr.fr CNAME .
 h00c.sfr.fr CNAME .
@@ -356,7 +356,6 @@ vpl.voyage-prive.pl CNAME .
 vqp3.madeindesign.co.uk CNAME .
 vry9.destinia.com CNAME .
 vtf2f.banque-casino.fr CNAME .
-wfd7.carventura.com CNAME .
 why3.inseec.education CNAME .
 wph2.destinia.us CNAME .
 xay5o.toscane-boutique.fr CNAME .

@@ -156,6 +156,7 @@
 | pl.astro.fi | custom.plausible.io |
 | pl.codetheweb.blog | custom.plausible.io |
 | pl.ethan.link | custom.plausible.io |
+| pl.fashmoms.com | custom.plausible.io |
 | pl.getfamealy.com | custom.plausible.io |
 | pl.kanbanmail.app | custom.plausible.io |
 | pl.maya-astro.fi | custom.plausible.io |
@@ -189,6 +190,7 @@
 | plausible.dev.sketch.com | custom.plausible.io |
 | plausible.doberman.co | custom.plausible.io |
 | plausible.doctave.com | custom.plausible.io |
+| plausible.edu-focus.org | custom.plausible.io |
 | plausible.ericgoebelbecker.com | custom.plausible.io |
 | plausible.eurostocks.nl | custom.plausible.io |
 | plausible.exploreandcreate.com | custom.plausible.io |
@@ -408,6 +410,7 @@
 | stats.goldsguide.com | custom.plausible.io |
 | stats.granot.dev | custom.plausible.io |
 | stats.graphql-api.com | custom.plausible.io |
+| stats.greatlakesdesign.co | custom.plausible.io |
 | stats.gslc.utah.edu | custom.plausible.io |
 | stats.guersanguillaume.com | custom.plausible.io |
 | stats.hex.pm | custom.plausible.io |
@@ -563,6 +566,7 @@
 | stats.reisemobil.pro | custom.plausible.io |
 | stats.remotebear.io | custom.plausible.io |
 | stats.reprage.com | custom.plausible.io |
+| stats.retro.cz | custom.plausible.io |
 | stats.revit-content.com | custom.plausible.io |
 | stats.robhope.com | custom.plausible.io |
 | stats.rocketvalidator.com | custom.plausible.io |
