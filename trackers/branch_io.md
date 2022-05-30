@@ -569,6 +569,7 @@
 | t.prod1.discover.binge.com.au | thirdparty.bnc.lt |
 | t.service.thetimes.co.uk | thirdparty.bnc.lt |
 | t1.benefits.tops.co.th | thirdparty.bnc.lt |
+| t1.discover.flashnews.com.au | thirdparty.bnc.lt |
 | t1.stadiumgoods.com | thirdparty.bnc.lt |
 | td.ecomms.originenergy.com.au | thirdparty.bnc.lt |
 | td.testbnc.originenergy.com.au | thirdparty.bnc.lt |
@@ -580,6 +581,7 @@
 | trac.roomster.com | thirdparty.bnc.lt |
 | track-mail.homage.co | thirdparty.bnc.lt |
 | track.cafu.com | thirdparty.bnc.lt |
+| track.listings.flyhomes.com | thirdparty.bnc.lt |
 | track.roomster.com | thirdparty.bnc.lt |
 | track.spothero.com | thirdparty.bnc.lt |
 | tracking-driver.staging.goshare.co | thirdparty.bnc.lt |
@@ -587,7 +589,6 @@
 | tracking.laredoute.fr | thirdparty.bnc.lt |
 | tracking.sp.sofi.com | thirdparty.bnc.lt |
 | trk.bc.shutterfly.com | thirdparty.bnc.lt |
-| trk.dijanow.com | thirdparty.bnc.lt |
 | trk.e.underarmour.com | thirdparty.bnc.lt |
 | trk.flipfit.com | thirdparty.bnc.lt |
 | trk.geico.com | thirdparty.bnc.lt |

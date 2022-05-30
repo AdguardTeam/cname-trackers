@@ -19,6 +19,7 @@
     * tk-jeux-loro-ch.wizaly.com
     * tk-kidsaround-com.wizaly.com
     * tk-kitchendiet-fr.wizaly.com
+    * tk-kusmitea-com.wizaly.com
     * tk-lamaisonduchocolat-com.wizaly.com
     * tk-lcl-fr.wizaly.com
     * tk-little-big-change-com.wizaly.com
@@ -36,6 +37,7 @@
     * tk_prismashop_fr.wizaly.com
     * tk_transavia_com.wizaly.com
     * tkairfrance.wizaly.com
+    * tklolivierfr.wizaly.com
     * tkmsccruisescom.wizaly.com
     * wiz-ghostbed-com.wizaly.com
     * wz-allianz-fr.wizaly.com
@@ -60,6 +62,7 @@
 | tk.jeux.loro.ch | tk-jeux-loro-ch.wizaly.com |
 | tk.kidsaround.com | tk-kidsaround-com.wizaly.com |
 | tk.kitchendiet.fr | tk-kitchendiet-fr.wizaly.com |
+| tk.kusmitea.com | tk-kusmitea-com.wizaly.com |
 | tk.lamaisonduchocolat.com | tk-lamaisonduchocolat-com.wizaly.com |
 | tk.lcl.fr | tk-lcl-fr.wizaly.com |
 | tk.little-big-change.com | tk-little-big-change-com.wizaly.com |
@@ -100,6 +103,7 @@
 | tk.airfrance.tn | tkairfrance.wizaly.com |
 | tk.airfrance.us | tkairfrance.wizaly.com |
 | tk.klm.com | tkairfrance.wizaly.com |
+| tk.lolivier.fr | tklolivierfr.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |
 | wiz.ghostbed.com | wiz-ghostbed-com.wizaly.com |
 | wz.allianz.fr | wz-allianz-fr.wizaly.com |

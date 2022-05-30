@@ -41,6 +41,7 @@
 ||tr.b2d106z.espmp-aufr.net^
 ||tr.batirenover.info^
 ||tr.batiweb.co^
+||tr.bgl.premium-benefits.lu^
 ||tr.bienvenue.envie-de-bien-manger.com^
 ||tr.bizzquotes.co.uk^
 ||tr.boletim.companeo.pt^
@@ -273,6 +274,7 @@
 ||tr.news.allopneus.com^
 ||tr.news.assuragency.net^
 ||tr.news.c-media.fr^
+||tr.news.cad-magazine.com^
 ||tr.news.capfun.com^
 ||tr.news.casino.fr^
 ||tr.news.casinodrive.fr^
@@ -305,6 +307,7 @@
 ||tr.news.la-collectionairfrance.fr^
 ||tr.news.lacollection-airfrance.fr^
 ||tr.news.lacollectionairfrance.fr^
+||tr.news.leclubtravel.fr^
 ||tr.news.lentreprise.lexpress.fr^
 ||tr.news.lexpansion.lexpress.fr^
 ||tr.news.lexpress.fr^
@@ -358,6 +361,7 @@
 ||tr.nl.mondo-shop.fr^
 ||tr.nl.services-sncf.com^
 ||tr.nl2.sncf-fidelite.com^
+||tr.notification-gdpr.bnpparibas-personalfinance.fr^
 ||tr.notification-gdpr.cafineo.fr^
 ||tr.notification-gdpr.cofinoga.fr^
 ||tr.notification-gdpr.domofinance.fr^
@@ -438,8 +442,10 @@
 ||tr.tdgx.espmp-cufr.net^
 ||tr.toner-service.fr^
 ||tr.toner-services.fr^
+||tr.tonerservices.fr^
 ||tr.trafficnews.lyria.com^
 ||tr.uk.icicibank.com^
+||tr.urfk02v.espmp-cufr.net^
 ||tr.urfk03u.espmp-nifr.net^
 ||tr.urfk06y.espmp-nifr.net^
 ||tr.urfk07s.espmp-nifr.net^

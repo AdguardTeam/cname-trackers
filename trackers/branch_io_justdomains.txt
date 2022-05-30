@@ -563,6 +563,7 @@ t.newsletter.thetimes.co.uk
 t.prod1.discover.binge.com.au
 t.service.thetimes.co.uk
 t1.benefits.tops.co.th
+t1.discover.flashnews.com.au
 t1.stadiumgoods.com
 td.ecomms.originenergy.com.au
 td.testbnc.originenergy.com.au
@@ -574,6 +575,7 @@ thirdbranch.zulln.se
 trac.roomster.com
 track-mail.homage.co
 track.cafu.com
+track.listings.flyhomes.com
 track.roomster.com
 track.spothero.com
 tracking-driver.staging.goshare.co
@@ -581,7 +583,6 @@ tracking.email-mandrill.pushd.com
 tracking.laredoute.fr
 tracking.sp.sofi.com
 trk.bc.shutterfly.com
-trk.dijanow.com
 trk.e.underarmour.com
 trk.flipfit.com
 trk.geico.com

@@ -41,6 +41,7 @@ tr.b2d1068.espmp-nifr.net CNAME .
 tr.b2d106z.espmp-aufr.net CNAME .
 tr.batirenover.info CNAME .
 tr.batiweb.co CNAME .
+tr.bgl.premium-benefits.lu CNAME .
 tr.bienvenue.envie-de-bien-manger.com CNAME .
 tr.bizzquotes.co.uk CNAME .
 tr.boletim.companeo.pt CNAME .
@@ -273,6 +274,7 @@ tr.news.alinea.com CNAME .
 tr.news.allopneus.com CNAME .
 tr.news.assuragency.net CNAME .
 tr.news.c-media.fr CNAME .
+tr.news.cad-magazine.com CNAME .
 tr.news.capfun.com CNAME .
 tr.news.casino.fr CNAME .
 tr.news.casinodrive.fr CNAME .
@@ -305,6 +307,7 @@ tr.news.kpmgnet.fr CNAME .
 tr.news.la-collectionairfrance.fr CNAME .
 tr.news.lacollection-airfrance.fr CNAME .
 tr.news.lacollectionairfrance.fr CNAME .
+tr.news.leclubtravel.fr CNAME .
 tr.news.lentreprise.lexpress.fr CNAME .
 tr.news.lexpansion.lexpress.fr CNAME .
 tr.news.lexpress.fr CNAME .
@@ -358,6 +361,7 @@ tr.nl.2wls.net CNAME .
 tr.nl.mondo-shop.fr CNAME .
 tr.nl.services-sncf.com CNAME .
 tr.nl2.sncf-fidelite.com CNAME .
+tr.notification-gdpr.bnpparibas-personalfinance.fr CNAME .
 tr.notification-gdpr.cafineo.fr CNAME .
 tr.notification-gdpr.cofinoga.fr CNAME .
 tr.notification-gdpr.domofinance.fr CNAME .
@@ -438,8 +442,10 @@ tr.strategie.gouv.fr CNAME .
 tr.tdgx.espmp-cufr.net CNAME .
 tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .
+tr.tonerservices.fr CNAME .
 tr.trafficnews.lyria.com CNAME .
 tr.uk.icicibank.com CNAME .
+tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
 tr.urfk07s.espmp-nifr.net CNAME .

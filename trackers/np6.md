@@ -46,6 +46,7 @@
 | tr.b2d106z.espmp-aufr.net | tracking.bp01.net |
 | tr.batirenover.info | tracking.bp01.net |
 | tr.batiweb.co | tracking.bp01.net |
+| tr.bgl.premium-benefits.lu | tracking.bp01.net |
 | tr.bienvenue.envie-de-bien-manger.com | tracking.bp01.net |
 | tr.bizzquotes.co.uk | tracking.bp01.net |
 | tr.boletim.companeo.pt | tracking.bp01.net |
@@ -278,6 +279,7 @@
 | tr.news.allopneus.com | tracking.bp01.net |
 | tr.news.assuragency.net | tracking.bp01.net |
 | tr.news.c-media.fr | tracking.bp01.net |
+| tr.news.cad-magazine.com | tracking.bp01.net |
 | tr.news.capfun.com | tracking.bp01.net |
 | tr.news.casino.fr | tracking.bp01.net |
 | tr.news.casinodrive.fr | tracking.bp01.net |
@@ -310,6 +312,7 @@
 | tr.news.la-collectionairfrance.fr | tracking.bp01.net |
 | tr.news.lacollection-airfrance.fr | tracking.bp01.net |
 | tr.news.lacollectionairfrance.fr | tracking.bp01.net |
+| tr.news.leclubtravel.fr | tracking.bp01.net |
 | tr.news.lentreprise.lexpress.fr | tracking.bp01.net |
 | tr.news.lexpansion.lexpress.fr | tracking.bp01.net |
 | tr.news.lexpress.fr | tracking.bp01.net |
@@ -363,6 +366,7 @@
 | tr.nl.mondo-shop.fr | tracking.bp01.net |
 | tr.nl.services-sncf.com | tracking.bp01.net |
 | tr.nl2.sncf-fidelite.com | tracking.bp01.net |
+| tr.notification-gdpr.bnpparibas-personalfinance.fr | tracking.bp01.net |
 | tr.notification-gdpr.cafineo.fr | tracking.bp01.net |
 | tr.notification-gdpr.cofinoga.fr | tracking.bp01.net |
 | tr.notification-gdpr.domofinance.fr | tracking.bp01.net |
@@ -443,8 +447,10 @@
 | tr.tdgx.espmp-cufr.net | tracking.bp01.net |
 | tr.toner-service.fr | tracking.bp01.net |
 | tr.toner-services.fr | tracking.bp01.net |
+| tr.tonerservices.fr | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |
 | tr.uk.icicibank.com | tracking.bp01.net |
+| tr.urfk02v.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk03u.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk06y.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk07s.espmp-nifr.net | tracking.bp01.net |

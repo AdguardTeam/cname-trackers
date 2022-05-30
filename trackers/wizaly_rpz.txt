@@ -42,9 +42,11 @@ tk.jeux.loro.ch CNAME .
 tk.kidsaround.com CNAME .
 tk.kitchendiet.fr CNAME .
 tk.klm.com CNAME .
+tk.kusmitea.com CNAME .
 tk.lamaisonduchocolat.com CNAME .
 tk.lcl.fr CNAME .
 tk.little-big-change.com CNAME .
+tk.lolivier.fr CNAME .
 tk.lulli-sur-la-toile.com CNAME .
 tk.moveyourfit.com CNAME .
 tk.msccruises.com CNAME .

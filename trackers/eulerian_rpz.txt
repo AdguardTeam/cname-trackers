@@ -385,7 +385,6 @@ d0f.le-dauphin.com CNAME .
 d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
 erb.tremblant.ca CNAME .
-hk2d.tourismemauricie.com CNAME .
 m10.m1029.com CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .

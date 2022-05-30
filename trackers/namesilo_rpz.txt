@@ -221,12 +221,14 @@
 4149128.notify6.com CNAME .
 4160112.notify6.com CNAME .
 4162254.notify6.com CNAME .
+4173044.notify6.com CNAME .
 4173050.notify6.com CNAME .
 4182036.notify6.com CNAME .
 4188246.notify6.com CNAME .
 4191292.notify6.com CNAME .
 4197730.notify6.com CNAME .
 4211854.notify6.com CNAME .
+4230500.notify6.com CNAME .
 4231374.notify6.com CNAME .
 4243868.notify6.com CNAME .
 4259086.notify6.com CNAME .
@@ -252,6 +254,7 @@
 4615884.notify6.com CNAME .
 4623392.notify6.com CNAME .
 4623404.notify6.com CNAME .
+4680526.notify6.com CNAME .
 6180.notify.optimizesrv.com CNAME .
 a.exoclick.com CNAME .
 ads.exoclick.com CNAME .
@@ -269,7 +272,9 @@ origin-ads.exosrv.com CNAME .
 origin-ads.optimizesrv.com CNAME .
 origin-ads.realsrv.com CNAME .
 rtb.exoclick.com CNAME .
+s.eaalink.com CNAME .
 s.elink2c.com CNAME .
+s.elnk40.com CNAME .
 s.elnk4b.com CNAME .
 s.elnk66.com CNAME .
 s.elnkp2.com CNAME .
@@ -282,6 +287,7 @@ s.optnx.com CNAME .
 s.st1net.com CNAME .
 s.vlink6.com CNAME .
 s.wlink1.com CNAME .
+s.wlink2.com CNAME .
 s.zlink1.com CNAME .
 s.zlink2.com CNAME .
 s.zlink4.com CNAME .

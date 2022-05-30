@@ -31,6 +31,7 @@ a8.makeshop.jp CNAME .
 a8.n-pri.jp CNAME .
 a8.nanafu.tokyo CNAME .
 a8.nosh.jp CNAME .
+a8.o-tayori.com CNAME .
 a8.olightstore.jp CNAME .
 a8.pcnext.shop CNAME .
 a8.print-netsquare.com CNAME .

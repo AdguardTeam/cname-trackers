@@ -42,6 +42,7 @@ analytics.mondoweiss.net CNAME .
 analytics.mycater.fr CNAME .
 analytics.naturequant.com CNAME .
 analytics.qualityquestions.co CNAME .
+analytics.rafalkukla.com CNAME .
 analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
 analytics.ratemymeeting.co CNAME .
@@ -159,6 +160,7 @@ pl.terraintinker.com CNAME .
 pl.volunteeringauckland.org.nz CNAME .
 pl.volunteeringwaikato.org.nz CNAME .
 pl.volunteermarlborough.org.nz CNAME .
+pl.volunteersouth.org.nz CNAME .
 pla.wigglepixel.nl CNAME .
 plas.imfeld.dev CNAME .
 plau.devitjobs.uk CNAME .
@@ -250,6 +252,7 @@ prism.raumgleiter.com CNAME .
 pstat.akathists.com CNAME .
 puls.smakujenam.pl CNAME .
 rapido.idraetsmusik.dk CNAME .
+reddwarf.till-sanders.de CNAME .
 retention.ankidecks.com CNAME .
 s.80000hours.org CNAME .
 s.allbootdisks.com CNAME .
@@ -314,7 +317,6 @@ stats.blog.merckx.fr CNAME .
 stats.blog.sean-wright.com CNAME .
 stats.blog.sublimesecurity.com CNAME .
 stats.bmxdevils.be CNAME .
-stats.breadtube.tv CNAME .
 stats.breathly.app CNAME .
 stats.briskoda.net CNAME .
 stats.broddin.be CNAME .
@@ -516,6 +518,7 @@ stats.onepagelove.com CNAME .
 stats.orbitalhealth.co CNAME .
 stats.ordinarypuzzles.com CNAME .
 stats.ortussolutions.com CNAME .
+stats.osteopathes.pro CNAME .
 stats.oursky.com CNAME .
 stats.oxygem.com CNAME .
 stats.p42.ai CNAME .
@@ -578,6 +581,7 @@ stats.screenwavemedia.com CNAME .
 stats.sebastiangale.ca CNAME .
 stats.seedthemes.com CNAME .
 stats.seedwebs.com CNAME .
+stats.sendngnt.com CNAME .
 stats.sexplore.app CNAME .
 stats.share.link CNAME .
 stats.shareup.app CNAME .

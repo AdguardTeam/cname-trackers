@@ -42,6 +42,7 @@
 ||analytics.mycater.fr^
 ||analytics.naturequant.com^
 ||analytics.qualityquestions.co^
+||analytics.rafalkukla.com^
 ||analytics.ramiyer.io^
 ||analytics.ramiyer.me^
 ||analytics.ratemymeeting.co^
@@ -159,6 +160,7 @@
 ||pl.volunteeringauckland.org.nz^
 ||pl.volunteeringwaikato.org.nz^
 ||pl.volunteermarlborough.org.nz^
+||pl.volunteersouth.org.nz^
 ||pla.wigglepixel.nl^
 ||plas.imfeld.dev^
 ||plau.devitjobs.uk^
@@ -250,6 +252,7 @@
 ||pstat.akathists.com^
 ||puls.smakujenam.pl^
 ||rapido.idraetsmusik.dk^
+||reddwarf.till-sanders.de^
 ||retention.ankidecks.com^
 ||s.80000hours.org^
 ||s.allbootdisks.com^
@@ -314,7 +317,6 @@
 ||stats.blog.sean-wright.com^
 ||stats.blog.sublimesecurity.com^
 ||stats.bmxdevils.be^
-||stats.breadtube.tv^
 ||stats.breathly.app^
 ||stats.briskoda.net^
 ||stats.broddin.be^
@@ -516,6 +518,7 @@
 ||stats.orbitalhealth.co^
 ||stats.ordinarypuzzles.com^
 ||stats.ortussolutions.com^
+||stats.osteopathes.pro^
 ||stats.oursky.com^
 ||stats.oxygem.com^
 ||stats.p42.ai^
@@ -578,6 +581,7 @@
 ||stats.sebastiangale.ca^
 ||stats.seedthemes.com^
 ||stats.seedwebs.com^
+||stats.sendngnt.com^
 ||stats.sexplore.app^
 ||stats.share.link^
 ||stats.shareup.app^

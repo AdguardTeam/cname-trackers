@@ -42,9 +42,11 @@ tk.jeux.loro.ch
 tk.kidsaround.com
 tk.kitchendiet.fr
 tk.klm.com
+tk.kusmitea.com
 tk.lamaisonduchocolat.com
 tk.lcl.fr
 tk.little-big-change.com
+tk.lolivier.fr
 tk.lulli-sur-la-toile.com
 tk.moveyourfit.com
 tk.msccruises.com

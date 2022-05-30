@@ -47,6 +47,7 @@ analytics.carecreditprovidercenter.com CNAME .
 analytics.coach.com CNAME .
 analytics.coachoutlet.com CNAME .
 analytics.duluthtrading.com CNAME .
+analytics.gnc.com CNAME .
 analytics.katespade.com CNAME .
 analytics.llflooring.com CNAME .
 analytics.lumberliquidators.com CNAME .
