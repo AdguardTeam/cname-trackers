@@ -179,6 +179,7 @@ abmail2.e.hungryjacks.com.au CNAME .
 activation.depop.com CNAME .
 alerts.steadyapp.com CNAME .
 alinks.outcomes4me.com CNAME .
+analytics.eventbrite.com CNAME .
 ap.hibbett.com CNAME .
 app-clicks-corporate.firstrepublic.com CNAME .
 app-clicks.firstrepublic.com CNAME .
@@ -329,6 +330,7 @@ email.dmcperforma.com.br CNAME .
 email.everyonesocial.circle.com CNAME .
 email.everyonesocial.coupa.com CNAME .
 email.everyonesocial.indeed.com CNAME .
+email.everyonesocial.nuskin.com CNAME .
 email.everyonesocial.r3.com CNAME .
 email.everyonesocial.rubrik.com CNAME .
 email.everyonesocial.united.com CNAME .
@@ -381,6 +383,7 @@ levi247.levi.com CNAME .
 link.admin.kodakmoments.com CNAME .
 link.afterpay.com CNAME .
 link.alerts.busuu.app CNAME .
+link.angelstudios.com CNAME .
 link.announce.busuu.app CNAME .
 link.automated.almosafer.com CNAME .
 link.automated.tajawal.com CNAME .

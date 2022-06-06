@@ -9,7 +9,6 @@
 1ctc.sfr.fr CNAME .
 2efj.up.coop CNAME .
 5fm.985fm.ca CNAME .
-5ijo.01net.com CNAME .
 6pal.consobaby.com CNAME .
 7lbd4.armandthiery.fr CNAME .
 7mx.eider.com CNAME .
@@ -33,7 +32,6 @@ bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
 c0i.ckoi.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 cc.conforama.es CNAME .
 ch.credithypo.com CNAME .
@@ -130,7 +128,6 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-eat9.thebeat925.ca CNAME .
 ebc1.capifrance.fr CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
@@ -292,7 +289,6 @@ rh5i.tradingsat.com CNAME .
 rqz4.supdigital.fr CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
-ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sa.skodasuperb.fr CNAME .
 sby1.madeindesign.de CNAME .

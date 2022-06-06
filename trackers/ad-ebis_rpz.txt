@@ -110,6 +110,7 @@ ct.xn--0et88ccz6awh1a.biz CNAME .
 cvs.kireimo.jp CNAME .
 digital.anicom-sompo.co.jp CNAME .
 eb.bewithyou.jp CNAME .
+eb.o-b-labo.com CNAME .
 ebis-cname.mirai-japan.co.jp CNAME .
 ebis-tracking.hirakata-skin-clinic.com CNAME .
 ebis-tracking.okinawa-keisei.com CNAME .
@@ -121,6 +122,7 @@ ebis.2jikaikun.com CNAME .
 ebis.aibashiro.jp CNAME .
 ebis.as-1.co.jp CNAME .
 ebis.ayura.co.jp CNAME .
+ebis.belta.co.jp CNAME .
 ebis.biyo-job.com CNAME .
 ebis.bulk.co.jp CNAME .
 ebis.c-3-esthe.com CNAME .

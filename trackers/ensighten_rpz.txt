@@ -165,6 +165,7 @@ nexus.virginholidays.co.uk CNAME .
 p.pulse.buyatoyota.com CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
+privacy.blade.app CNAME .
 privacy.heineken.it CNAME .
 privacy.heishop.mx CNAME .
 pulse.delta.com CNAME .

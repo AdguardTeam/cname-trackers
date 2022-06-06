@@ -3,6 +3,7 @@
 !
 ! webtrekk.net disguised trackers
 !
+||aud.bild.de^
 ||image.kfw-entwicklungsbank.de^
 ||image.kfw.de^
 ||images1.test.de^
@@ -156,6 +157,7 @@
 ||scout.bergfreunde.se^
 ||spr.welt.de^
 ||startrekk.flaconi.at^
+||startrekk.flaconi.fr^
 ||startrekk.flaconi.pl^
 ||statistics.tuv.com^
 ||t.paydirekt.de^
@@ -221,13 +223,17 @@
 ||web.marketing.elbenwald.de^
 ||web.mytoys.de^
 ||web.news.creedfragrances.co.uk^
+||web.news.dixiefashion.com^
 ||web.news.eprice.it^
+||web.news.imperialfashion.com^
 ||web.news.lancel.com^
 ||web.news.piquadro.com^
 ||web.news.thebridge.it^
 ||web.newsletter.viviennewestwood.com^
 ||web.online.monnalisa.com^
+||web.pages.lloydspharmacy.com^
 ||web.s.sasrx.com^
+||web.sensilab.se^
 ||web.sidsavage.com^
 ||web.solesource.com^
 ||web.x.ilpost.it^

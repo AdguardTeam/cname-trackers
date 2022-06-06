@@ -54,6 +54,7 @@
     * lem-nouvelobs-com-cddc.at-o.net
     * logs1257-at-pagesjaunes-fr-cddc.at-o.net
     * mango-seloger-com-cddc.at-o.net
+    * mefo1-zdf-de-cddc.at-o.net
     * mkt-usz-ch-cddc.at-o.net
     * mond-post-ch-cddc.at-o.net
     * mond-postauto-ch-cddc.at-o.net
@@ -157,6 +158,7 @@
 | lem.nouvelobs.com | lem-nouvelobs-com-cddc.at-o.net |
 | logs1257.at.pagesjaunes.fr | logs1257-at-pagesjaunes-fr-cddc.at-o.net |
 | mango.seloger.com | mango-seloger-com-cddc.at-o.net |
+| mefo1.zdf.de | mefo1-zdf-de-cddc.at-o.net |
 | mkt.usz.ch | mkt-usz-ch-cddc.at-o.net |
 | mond.post.ch | mond-post-ch-cddc.at-o.net |
 | mond.postauto.ch | mond-postauto-ch-cddc.at-o.net |

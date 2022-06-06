@@ -6,11 +6,10 @@
     * d-image-ad-jp.ad-cloud.jp
     * d-newssuite-sony-net.ad-cloud.jp
     * fractal-auth.ad-cloud.jp
-    * i-image-ad-jp.ad-cloud.jp
     * i-newssuite-sony-net.ad-cloud.jp
-    * j-bg-adresult-sp-jp.ad-cloud.jp
     * j-image-ad-jp.ad-cloud.jp
     * j-newssuite-sony-net.ad-cloud.jp
+    * www-akane-ad-com.ad-cloud.jp
 
 ### Rarely active trackers
 
@@ -32,9 +31,7 @@
 | i.newssuite.sony.net | e26817.f.akamaiedge.net |
 | j.newssuite.sony.net | e26817.f.akamaiedge.net |
 | favor1.fractal.jp | fractal-auth.ad-cloud.jp |
-| i.image-ad.jp | i-image-ad-jp.ad-cloud.jp |
 | i.newssuite.sony.net | i-newssuite-sony-net.ad-cloud.jp |
-| j.bg.adresult-sp.jp | j-bg-adresult-sp-jp.ad-cloud.jp |
 | j.image-ad.jp | j-image-ad-jp.ad-cloud.jp |
 | j.newssuite.sony.net | j-newssuite-sony-net.ad-cloud.jp |
 | newssuite.sony.net | newssuite-sony-net.storage.googleapis.com |
@@ -43,3 +40,4 @@
 | j.bg.adresult-sp.jp | site-112900816347.gslb5.sakura.ne.jp |
 | manage.newssuite.sony.net | site-113001687131.gslb7.sakura.ne.jp |
 | www.akane-ad.com | site-113001687131.gslb7.sakura.ne.jp |
+| www.akane-ad.com | www-akane-ad-com.ad-cloud.jp |

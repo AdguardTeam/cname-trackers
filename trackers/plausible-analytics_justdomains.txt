@@ -155,6 +155,7 @@ pl.ethan.link
 pl.fashmoms.com
 pl.getfamealy.com
 pl.kanbanmail.app
+pl.kis-nagy.art
 pl.maya-astro.fi
 pl.terraintinker.com
 pl.volunteeringauckland.org.nz
@@ -229,7 +230,6 @@ plausible.reactpreview.com
 plausible.regex.help
 plausible.riok.ch
 plausible.simplelogin.io
-plausible.simpleportfolio.app
 plausible.slope.io
 plausible.staging.sketch.com
 plausible.starlegacyfoundation.org
@@ -268,7 +268,6 @@ s.inspectelement.co
 s.mannes.tech
 s.maxrozen.com
 s.nerdfulmind.com
-s.schlachter.tech
 s.somos-arts.org
 s.sporks.space
 sa.flux.community
@@ -286,6 +285,7 @@ stat.landingpro.pl
 stat.tomdebruijn.com
 statistics.csweapons.com
 statistics.heatbeat.de
+statistik.apartments-tirolerhaus.at
 statistik.veronika-steiner.at
 stats.4-camper.de
 stats.45rpm.ch
@@ -408,6 +408,7 @@ stats.goldsguide.com
 stats.granot.dev
 stats.graphql-api.com
 stats.greatlakesdesign.co
+stats.groovetrackers.com
 stats.gslc.utah.edu
 stats.guersanguillaume.com
 stats.hex.pm
@@ -491,8 +492,8 @@ stats.michaell.io
 stats.missionrabies.com
 stats.mkwtas.com
 stats.mmazzarolo.com
-stats.moderncoupmake.com
 stats.motion-effect.com
+stats.motorcyclepartsireland.ie
 stats.motornation.net
 stats.mtsknn.fi
 stats.muchbetteradventures.com
@@ -551,6 +552,7 @@ stats.pricewell.io
 stats.print.work
 stats.profilehunt.net
 stats.pselookup.vrymel.com
+stats.qawl.app
 stats.qbitstore.nl
 stats.radicitoscane.it
 stats.radreiseglueck.de
@@ -566,6 +568,7 @@ stats.remotebear.io
 stats.reprage.com
 stats.retro.cz
 stats.revit-content.com
+stats.revitfamily.app
 stats.robhope.com
 stats.rocketvalidator.com
 stats.rtlanerecruitment.ie
@@ -611,6 +614,7 @@ stats.suenicholls.com
 stats.sunpeaksstables.com
 stats.sushibyte.io
 stats.svenadolph.net
+stats.tedserbinski.com
 stats.tekin.co.uk
 stats.the18monthpianoproject.com
 stats.thechurchfactory.com
@@ -643,7 +647,9 @@ stats.vanityprojects.com
 stats.vdsnow.ru
 stats.visions.ch
 stats.voltamediahouse.com
+stats.wafflemeido.art
 stats.walkiees.co.uk
+stats.websnap.app
 stats.westswindon-pc.gov.uk
 stats.whenpigsflybbq.com
 stats.whereisit5pmrightnow.com

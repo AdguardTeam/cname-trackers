@@ -165,6 +165,7 @@
 ||p.pulse.buyatoyota.com^
 ||p.pulse.toyota.com^
 ||pfa.levexis.com^
+||privacy.blade.app^
 ||privacy.heineken.it^
 ||privacy.heishop.mx^
 ||pulse.delta.com^

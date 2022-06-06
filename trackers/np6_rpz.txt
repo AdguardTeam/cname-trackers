@@ -19,7 +19,6 @@ tr.actupremium.com CNAME .
 tr.actus-fdj.fr CNAME .
 tr.animation.lexpress.fr CNAME .
 tr.animation.micromania.fr CNAME .
-tr.animations.01net.com CNAME .
 tr.animations.bfmtv.com CNAME .
 tr.asp002q.espmp-aufr.net CNAME .
 tr.asp1.espmp-agfr.net CNAME .
@@ -163,6 +162,8 @@ tr.gestion.cetelem.fr CNAME .
 tr.gestion.cofinoga.fr CNAME .
 tr.gestion.credit-moderne.fr CNAME .
 tr.gestion.floa.fr CNAME .
+tr.gestion.lexpress.fr CNAME .
+tr.gestion.liberation.fr CNAME .
 tr.gestion.sygmabnpparibas-pf.com CNAME .
 tr.group-hr.lvmh.fr CNAME .
 tr.groupama-gne.fr CNAME .
@@ -210,6 +211,7 @@ tr.infos.afpa.fr CNAME .
 tr.infos.mailrungis.com CNAME .
 tr.infos.odalys-vacances.com CNAME .
 tr.inspiration.culture-data.fr CNAME .
+tr.interieur.cotemaison.fr CNAME .
 tr.interviews-mediametrie.fr CNAME .
 tr.invitation-mesdessous.fr CNAME .
 tr.italia.plimsoll.it CNAME .
@@ -296,6 +298,7 @@ tr.news.economic-studies.fr CNAME .
 tr.news.editions-lva.fr CNAME .
 tr.news.enkiapp.io CNAME .
 tr.news.entreprise-pm.com CNAME .
+tr.news.eureden.com CNAME .
 tr.news.exclu.fr CNAME .
 tr.news.futuramedia.fr CNAME .
 tr.news.geantcasino.fr CNAME .
@@ -335,6 +338,7 @@ tr.news.vip-diary.com CNAME .
 tr.news.vip-mag.co.uk CNAME .
 tr.news.vipmag.fr CNAME .
 tr.news.vivrecotesud.fr CNAME .
+tr.news.votreargent.lexpress.fr CNAME .
 tr.news.voyagesleclerc.com CNAME .
 tr.news.vraaguwofferte.be CNAME .
 tr.news.vraaguwofferte.com CNAME .
@@ -380,7 +384,6 @@ tr.offer-companeo.co.uk CNAME .
 tr.offerte.migliorifornitori.it CNAME .
 tr.offre-companeo.com CNAME .
 tr.offres-professionnelles.fr CNAME .
-tr.offres.01net.com CNAME .
 tr.offres.bfmtv.com CNAME .
 tr.offrevip.banque-casino.fr CNAME .
 tr.offrevip.floa.fr CNAME .
@@ -398,6 +401,7 @@ tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro.odalys-vacances.com CNAME .
 tr.projet.cotemaison.fr CNAME .
+tr.promotion.lexpress.fr CNAME .
 tr.qualitaetsumfrage.com CNAME .
 tr.qualitaveicolo.com CNAME .
 tr.qualite.groupebarriere.com CNAME .
@@ -418,6 +422,7 @@ tr.route-solutiondata.fr CNAME .
 tr.sash.espmp-aufr.net CNAME .
 tr.satisfaction.alinea.com CNAME .
 tr.satisfaction.groupe-pv-cp.com CNAME .
+tr.satisfaction.villagesnature.com CNAME .
 tr.scienceshumaines.info CNAME .
 tr.scienceshumaines.pro CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .

@@ -39,6 +39,7 @@
     * 2cc59598-pr6qwglj.cname.ebis.ne.jp
     * 2cd1a98a-bagmsfc6.cname.ebis.ne.jp
     * 2effafae-p5xsryk6.cname.ebis.ne.jp
+    * 2f22dbfa-day5axk4.cname.ebis.ne.jp
     * 2feef04e-wnxavwja.cname.ebis.ne.jp
     * 30a5817d-lkhaegjw.cname.ebis.ne.jp
     * 31e48120-fbzwhcnp.cname.ebis.ne.jp
@@ -148,6 +149,7 @@
     * ae17c42a-alqe4sgf.cname.ebis.ne.jp
     * ae17c42a-hcl31hrm.cname.ebis.ne.jp
     * ae331b42-b3j1fwdu.cname.ebis.ne.jp
+    * aecb039e-comxtqbc.cname.ebis.ne.jp
     * af715239-g5riys9k.cname.ebis.ne.jp
     * b0d3b087-uxwrqv9t.cname.ebis.ne.jp
     * b356e282-rlvgog2a.cname.ebis.ne.jp
@@ -251,6 +253,7 @@
 | ebis.lululun.com | 2cc59598-pr6qwglj.cname.ebis.ne.jp |
 | ct.xn--0et88ccz6awh1a.biz | 2cd1a98a-bagmsfc6.cname.ebis.ne.jp |
 | isebis.takamiclinic.or.jp | 2effafae-p5xsryk6.cname.ebis.ne.jp |
+| ebis.belta.co.jp | 2f22dbfa-day5axk4.cname.ebis.ne.jp |
 | ebis01.zkai.co.jp | 2feef04e-wnxavwja.cname.ebis.ne.jp |
 | adebis-morijuku.morijuku.com | 30a5817d-lkhaegjw.cname.ebis.ne.jp |
 | cname-ade.hankoya.com | 31e48120-fbzwhcnp.cname.ebis.ne.jp |
@@ -360,6 +363,7 @@
 | qxhydkz8.hmjdaw.ntt.com | ae17c42a-alqe4sgf.cname.ebis.ne.jp |
 | jj85xnjq.ybqwah.ntt.com | ae17c42a-hcl31hrm.cname.ebis.ne.jp |
 | beeline.beeline-tire.co.jp | ae331b42-b3j1fwdu.cname.ebis.ne.jp |
+| eb.o-b-labo.com | aecb039e-comxtqbc.cname.ebis.ne.jp |
 | adebis.daiwahouse.co.jp | af715239-g5riys9k.cname.ebis.ne.jp |
 | ebis.studioindi-yokohama.com | b0d3b087-uxwrqv9t.cname.ebis.ne.jp |
 | ureruebis.nintama.co.jp | b356e282-rlvgog2a.cname.ebis.ne.jp |

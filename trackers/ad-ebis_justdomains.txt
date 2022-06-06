@@ -110,6 +110,7 @@ ct.xn--0et88ccz6awh1a.biz
 cvs.kireimo.jp
 digital.anicom-sompo.co.jp
 eb.bewithyou.jp
+eb.o-b-labo.com
 ebis-cname.mirai-japan.co.jp
 ebis-tracking.hirakata-skin-clinic.com
 ebis-tracking.okinawa-keisei.com
@@ -121,6 +122,7 @@ ebis.2jikaikun.com
 ebis.aibashiro.jp
 ebis.as-1.co.jp
 ebis.ayura.co.jp
+ebis.belta.co.jp
 ebis.biyo-job.com
 ebis.bulk.co.jp
 ebis.c-3-esthe.com

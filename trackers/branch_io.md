@@ -189,6 +189,7 @@
 | activation.depop.com | thirdparty.bnc.lt |
 | alerts.steadyapp.com | thirdparty.bnc.lt |
 | alinks.outcomes4me.com | thirdparty.bnc.lt |
+| analytics.eventbrite.com | thirdparty.bnc.lt |
 | ap.hibbett.com | thirdparty.bnc.lt |
 | app-clicks-corporate.firstrepublic.com | thirdparty.bnc.lt |
 | app-clicks.firstrepublic.com | thirdparty.bnc.lt |
@@ -336,6 +337,7 @@
 | email.everyonesocial.circle.com | thirdparty.bnc.lt |
 | email.everyonesocial.coupa.com | thirdparty.bnc.lt |
 | email.everyonesocial.indeed.com | thirdparty.bnc.lt |
+| email.everyonesocial.nuskin.com | thirdparty.bnc.lt |
 | email.everyonesocial.r3.com | thirdparty.bnc.lt |
 | email.everyonesocial.rubrik.com | thirdparty.bnc.lt |
 | email.everyonesocial.united.com | thirdparty.bnc.lt |
@@ -388,6 +390,7 @@
 | link.admin.kodakmoments.com | thirdparty.bnc.lt |
 | link.afterpay.com | thirdparty.bnc.lt |
 | link.alerts.busuu.app | thirdparty.bnc.lt |
+| link.angelstudios.com | thirdparty.bnc.lt |
 | link.announce.busuu.app | thirdparty.bnc.lt |
 | link.automated.almosafer.com | thirdparty.bnc.lt |
 | link.automated.tajawal.com | thirdparty.bnc.lt |

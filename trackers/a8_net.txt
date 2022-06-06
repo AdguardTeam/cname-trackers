@@ -76,6 +76,7 @@
 ||a8clk.cv.onedenki.jp^
 ||a8clk.cv.warau.jp^
 ||a8clk.digicafe.jp^
+||a8clk.doda.jp^
 ||a8clk.dospara.co.jp^
 ||a8clk.fastsim.jp^
 ||a8clk.francfranc.com^
@@ -165,6 +166,7 @@
 ||a8cv.ishibashi.co.jp^
 ||a8cv.jp-shop.kiwabi.com^
 ||a8cv.k-ikiiki.jp^
+||a8cv.kstarselect.com^
 ||a8cv.kuih.jp^
 ||a8cv.minana-jp.com^
 ||a8cv.minnano-eikaiwa.com^
@@ -223,7 +225,6 @@
 ||aficv.finebase.jp^
 ||analytics.villagehouse.jp^
 ||asp.taishokunext.com^
-||asp.yasaka-official.com^
 ||cart.matsuzaka-steak.com^
 ||clk.glam-print.com^
 ||clk.liberty-e.com^

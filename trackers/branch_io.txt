@@ -179,6 +179,7 @@
 ||activation.depop.com^
 ||alerts.steadyapp.com^
 ||alinks.outcomes4me.com^
+||analytics.eventbrite.com^
 ||ap.hibbett.com^
 ||app-clicks-corporate.firstrepublic.com^
 ||app-clicks.firstrepublic.com^
@@ -329,6 +330,7 @@
 ||email.everyonesocial.circle.com^
 ||email.everyonesocial.coupa.com^
 ||email.everyonesocial.indeed.com^
+||email.everyonesocial.nuskin.com^
 ||email.everyonesocial.r3.com^
 ||email.everyonesocial.rubrik.com^
 ||email.everyonesocial.united.com^
@@ -381,6 +383,7 @@
 ||link.admin.kodakmoments.com^
 ||link.afterpay.com^
 ||link.alerts.busuu.app^
+||link.angelstudios.com^
 ||link.announce.busuu.app^
 ||link.automated.almosafer.com^
 ||link.automated.tajawal.com^

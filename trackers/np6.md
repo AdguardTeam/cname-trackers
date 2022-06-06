@@ -24,7 +24,6 @@
 | tr.actus-fdj.fr | tracking.bp01.net |
 | tr.animation.lexpress.fr | tracking.bp01.net |
 | tr.animation.micromania.fr | tracking.bp01.net |
-| tr.animations.01net.com | tracking.bp01.net |
 | tr.animations.bfmtv.com | tracking.bp01.net |
 | tr.asp002q.espmp-aufr.net | tracking.bp01.net |
 | tr.asp1.espmp-agfr.net | tracking.bp01.net |
@@ -168,6 +167,8 @@
 | tr.gestion.cofinoga.fr | tracking.bp01.net |
 | tr.gestion.credit-moderne.fr | tracking.bp01.net |
 | tr.gestion.floa.fr | tracking.bp01.net |
+| tr.gestion.lexpress.fr | tracking.bp01.net |
+| tr.gestion.liberation.fr | tracking.bp01.net |
 | tr.gestion.sygmabnpparibas-pf.com | tracking.bp01.net |
 | tr.group-hr.lvmh.fr | tracking.bp01.net |
 | tr.groupama-gne.fr | tracking.bp01.net |
@@ -215,6 +216,7 @@
 | tr.infos.mailrungis.com | tracking.bp01.net |
 | tr.infos.odalys-vacances.com | tracking.bp01.net |
 | tr.inspiration.culture-data.fr | tracking.bp01.net |
+| tr.interieur.cotemaison.fr | tracking.bp01.net |
 | tr.interviews-mediametrie.fr | tracking.bp01.net |
 | tr.invitation-mesdessous.fr | tracking.bp01.net |
 | tr.italia.plimsoll.it | tracking.bp01.net |
@@ -301,6 +303,7 @@
 | tr.news.editions-lva.fr | tracking.bp01.net |
 | tr.news.enkiapp.io | tracking.bp01.net |
 | tr.news.entreprise-pm.com | tracking.bp01.net |
+| tr.news.eureden.com | tracking.bp01.net |
 | tr.news.exclu.fr | tracking.bp01.net |
 | tr.news.futuramedia.fr | tracking.bp01.net |
 | tr.news.geantcasino.fr | tracking.bp01.net |
@@ -340,6 +343,7 @@
 | tr.news.vip-mag.co.uk | tracking.bp01.net |
 | tr.news.vipmag.fr | tracking.bp01.net |
 | tr.news.vivrecotesud.fr | tracking.bp01.net |
+| tr.news.votreargent.lexpress.fr | tracking.bp01.net |
 | tr.news.voyagesleclerc.com | tracking.bp01.net |
 | tr.news.vraaguwofferte.be | tracking.bp01.net |
 | tr.news.vraaguwofferte.com | tracking.bp01.net |
@@ -385,7 +389,6 @@
 | tr.offerte.migliorifornitori.it | tracking.bp01.net |
 | tr.offre-companeo.com | tracking.bp01.net |
 | tr.offres-professionnelles.fr | tracking.bp01.net |
-| tr.offres.01net.com | tracking.bp01.net |
 | tr.offres.bfmtv.com | tracking.bp01.net |
 | tr.offrevip.banque-casino.fr | tracking.bp01.net |
 | tr.offrevip.floa.fr | tracking.bp01.net |
@@ -403,6 +406,7 @@
 | tr.preventivo.risparmiazienda.it | tracking.bp01.net |
 | tr.pro.odalys-vacances.com | tracking.bp01.net |
 | tr.projet.cotemaison.fr | tracking.bp01.net |
+| tr.promotion.lexpress.fr | tracking.bp01.net |
 | tr.qualitaetsumfrage.com | tracking.bp01.net |
 | tr.qualitaveicolo.com | tracking.bp01.net |
 | tr.qualite.groupebarriere.com | tracking.bp01.net |
@@ -423,6 +427,7 @@
 | tr.sash.espmp-aufr.net | tracking.bp01.net |
 | tr.satisfaction.alinea.com | tracking.bp01.net |
 | tr.satisfaction.groupe-pv-cp.com | tracking.bp01.net |
+| tr.satisfaction.villagesnature.com | tracking.bp01.net |
 | tr.scienceshumaines.info | tracking.bp01.net |
 | tr.scienceshumaines.pro | tracking.bp01.net |
 | tr.secteurentreprises.harmonie-mutuelle.fr | tracking.bp01.net |

@@ -82,6 +82,7 @@
 | a8clk.cv.onedenki.jp | trck.a8.net |
 | a8clk.cv.warau.jp | trck.a8.net |
 | a8clk.digicafe.jp | trck.a8.net |
+| a8clk.doda.jp | trck.a8.net |
 | a8clk.dospara.co.jp | trck.a8.net |
 | a8clk.fastsim.jp | trck.a8.net |
 | a8clk.francfranc.com | trck.a8.net |
@@ -171,6 +172,7 @@
 | a8cv.ishibashi.co.jp | trck.a8.net |
 | a8cv.jp-shop.kiwabi.com | trck.a8.net |
 | a8cv.k-ikiiki.jp | trck.a8.net |
+| a8cv.kstarselect.com | trck.a8.net |
 | a8cv.kuih.jp | trck.a8.net |
 | a8cv.minana-jp.com | trck.a8.net |
 | a8cv.minnano-eikaiwa.com | trck.a8.net |
@@ -229,7 +231,6 @@
 | aficv.finebase.jp | trck.a8.net |
 | analytics.villagehouse.jp | trck.a8.net |
 | asp.taishokunext.com | trck.a8.net |
-| asp.yasaka-official.com | trck.a8.net |
 | cart.matsuzaka-steak.com | trck.a8.net |
 | clk.glam-print.com | trck.a8.net |
 | clk.liberty-e.com | trck.a8.net |

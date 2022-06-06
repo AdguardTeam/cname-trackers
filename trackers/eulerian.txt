@@ -9,7 +9,6 @@
 ||1ctc.sfr.fr^
 ||2efj.up.coop^
 ||5fm.985fm.ca^
-||5ijo.01net.com^
 ||6pal.consobaby.com^
 ||7lbd4.armandthiery.fr^
 ||7mx.eider.com^
@@ -33,7 +32,6 @@
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
 ||c0i.ckoi.com^
-||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||cc.conforama.es^
 ||ch.credithypo.com^
@@ -130,7 +128,6 @@
 ||ea.voyage-prive.es^
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
-||eat9.thebeat925.ca^
 ||ebc1.capifrance.fr^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
@@ -292,7 +289,6 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
-||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sa.skodasuperb.fr^
 ||sby1.madeindesign.de^

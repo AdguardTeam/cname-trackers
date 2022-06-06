@@ -19,7 +19,6 @@
 ||tr.actus-fdj.fr^
 ||tr.animation.lexpress.fr^
 ||tr.animation.micromania.fr^
-||tr.animations.01net.com^
 ||tr.animations.bfmtv.com^
 ||tr.asp002q.espmp-aufr.net^
 ||tr.asp1.espmp-agfr.net^
@@ -163,6 +162,8 @@
 ||tr.gestion.cofinoga.fr^
 ||tr.gestion.credit-moderne.fr^
 ||tr.gestion.floa.fr^
+||tr.gestion.lexpress.fr^
+||tr.gestion.liberation.fr^
 ||tr.gestion.sygmabnpparibas-pf.com^
 ||tr.group-hr.lvmh.fr^
 ||tr.groupama-gne.fr^
@@ -210,6 +211,7 @@
 ||tr.infos.mailrungis.com^
 ||tr.infos.odalys-vacances.com^
 ||tr.inspiration.culture-data.fr^
+||tr.interieur.cotemaison.fr^
 ||tr.interviews-mediametrie.fr^
 ||tr.invitation-mesdessous.fr^
 ||tr.italia.plimsoll.it^
@@ -296,6 +298,7 @@
 ||tr.news.editions-lva.fr^
 ||tr.news.enkiapp.io^
 ||tr.news.entreprise-pm.com^
+||tr.news.eureden.com^
 ||tr.news.exclu.fr^
 ||tr.news.futuramedia.fr^
 ||tr.news.geantcasino.fr^
@@ -335,6 +338,7 @@
 ||tr.news.vip-mag.co.uk^
 ||tr.news.vipmag.fr^
 ||tr.news.vivrecotesud.fr^
+||tr.news.votreargent.lexpress.fr^
 ||tr.news.voyagesleclerc.com^
 ||tr.news.vraaguwofferte.be^
 ||tr.news.vraaguwofferte.com^
@@ -380,7 +384,6 @@
 ||tr.offerte.migliorifornitori.it^
 ||tr.offre-companeo.com^
 ||tr.offres-professionnelles.fr^
-||tr.offres.01net.com^
 ||tr.offres.bfmtv.com^
 ||tr.offrevip.banque-casino.fr^
 ||tr.offrevip.floa.fr^
@@ -398,6 +401,7 @@
 ||tr.preventivo.risparmiazienda.it^
 ||tr.pro.odalys-vacances.com^
 ||tr.projet.cotemaison.fr^
+||tr.promotion.lexpress.fr^
 ||tr.qualitaetsumfrage.com^
 ||tr.qualitaveicolo.com^
 ||tr.qualite.groupebarriere.com^
@@ -418,6 +422,7 @@
 ||tr.sash.espmp-aufr.net^
 ||tr.satisfaction.alinea.com^
 ||tr.satisfaction.groupe-pv-cp.com^
+||tr.satisfaction.villagesnature.com^
 ||tr.scienceshumaines.info^
 ||tr.scienceshumaines.pro^
 ||tr.secteurentreprises.harmonie-mutuelle.fr^

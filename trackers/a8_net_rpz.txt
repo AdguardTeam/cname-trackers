@@ -76,6 +76,7 @@ a8clk.cv.mensfashion.cc CNAME .
 a8clk.cv.onedenki.jp CNAME .
 a8clk.cv.warau.jp CNAME .
 a8clk.digicafe.jp CNAME .
+a8clk.doda.jp CNAME .
 a8clk.dospara.co.jp CNAME .
 a8clk.fastsim.jp CNAME .
 a8clk.francfranc.com CNAME .
@@ -165,6 +166,7 @@ a8cv.interlink.or.jp CNAME .
 a8cv.ishibashi.co.jp CNAME .
 a8cv.jp-shop.kiwabi.com CNAME .
 a8cv.k-ikiiki.jp CNAME .
+a8cv.kstarselect.com CNAME .
 a8cv.kuih.jp CNAME .
 a8cv.minana-jp.com CNAME .
 a8cv.minnano-eikaiwa.com CNAME .
@@ -223,7 +225,6 @@ afi.ssl.gmobb.jp CNAME .
 aficv.finebase.jp CNAME .
 analytics.villagehouse.jp CNAME .
 asp.taishokunext.com CNAME .
-asp.yasaka-official.com CNAME .
 cart.matsuzaka-steak.com CNAME .
 clk.glam-print.com CNAME .
 clk.liberty-e.com CNAME .

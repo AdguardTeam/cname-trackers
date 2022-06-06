@@ -26,6 +26,7 @@ a.bitporno.com CNAME .
 a.cashjma.com CNAME .
 a.cdn1.pro CNAME .
 a.chastityvideos.com CNAME .
+a.comick.top CNAME .
 a.digitalgiftshopping.com CNAME .
 a.dirtyasmr.com CNAME .
 a.dphunters.com CNAME .
@@ -227,6 +228,7 @@ oi.fapnado.xxx CNAME .
 oi.fapnow.xxx CNAME .
 oi.hqbang.com CNAME .
 oi.lesbianbliss.com CNAME .
+oi.transhero.com CNAME .
 onetwohub.com CNAME .
 p123p.com CNAME .
 parkurl.com CNAME .
@@ -254,6 +256,7 @@ s.freeporncave.com CNAME .
 s.remonti.org CNAME .
 s.speedostream.com CNAME .
 s2.everydaygayporn.com CNAME .
+sape.veriplan.xyz CNAME .
 satmon.neekstore.com CNAME .
 scdn.safelinkonly.top CNAME .
 scuoo.porneq.co CNAME .
@@ -272,6 +275,7 @@ spyglass.reklamko.pro CNAME .
 srv.clinno.link CNAME .
 stuff.wikiporno.org CNAME .
 support.streamjav.top CNAME .
+szj.boombay.xyz CNAME .
 tb.turbocap.net CNAME .
 theporndude.com.1111supjavcom.xyz CNAME .
 thescript.javfinder.xyz CNAME .
@@ -296,6 +300,7 @@ wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
 www.befuglago.live CNAME .
 www.bigboy.monster CNAME .
+www.delwargal.click CNAME .
 www.demostens.store CNAME .
 www.findnewline.com CNAME .
 www.gombmobil.store CNAME .

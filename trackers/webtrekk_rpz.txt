@@ -3,6 +3,7 @@
 ;
 ; webtrekk.net disguised trackers
 ;
+aud.bild.de CNAME .
 image.kfw-entwicklungsbank.de CNAME .
 image.kfw.de CNAME .
 images1.test.de CNAME .
@@ -156,6 +157,7 @@ scout.bergfreunde.nl CNAME .
 scout.bergfreunde.se CNAME .
 spr.welt.de CNAME .
 startrekk.flaconi.at CNAME .
+startrekk.flaconi.fr CNAME .
 startrekk.flaconi.pl CNAME .
 statistics.tuv.com CNAME .
 t.paydirekt.de CNAME .
@@ -221,13 +223,17 @@ web.mapp.whiteaway.se CNAME .
 web.marketing.elbenwald.de CNAME .
 web.mytoys.de CNAME .
 web.news.creedfragrances.co.uk CNAME .
+web.news.dixiefashion.com CNAME .
 web.news.eprice.it CNAME .
+web.news.imperialfashion.com CNAME .
 web.news.lancel.com CNAME .
 web.news.piquadro.com CNAME .
 web.news.thebridge.it CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.online.monnalisa.com CNAME .
+web.pages.lloydspharmacy.com CNAME .
 web.s.sasrx.com CNAME .
+web.sensilab.se CNAME .
 web.sidsavage.com CNAME .
 web.solesource.com CNAME .
 web.x.ilpost.it CNAME .
