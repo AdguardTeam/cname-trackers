@@ -128,6 +128,7 @@
 ||ea.voyage-prive.es^
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
+||eat9.thebeat925.ca^
 ||ebc1.capifrance.fr^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
@@ -186,7 +187,6 @@
 ||hby7.destinia.it^
 ||he6e.lavieimmo.com^
 ||hgf4.zanzicar.fr^
-||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^
@@ -243,6 +243,7 @@
 ||o68c.sfr.fr^
 ||oal2.destinia.co.uk^
 ||oek7.april-moto.com^
+||ogb2.biopur-leanature.fr^
 ||ogb2.biovie.com^
 ||ogb2.eauthermalejonzac.com^
 ||ogb2.leanatureboutique.com^
@@ -289,6 +290,7 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
+||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sa.skodasuperb.fr^
 ||sby1.madeindesign.de^
@@ -381,6 +383,7 @@
 ||d2u.dauphinquebec.com^
 ||eat9.thebeat925.ca^
 ||erb.tremblant.ca^
+||hk2d.tourismemauricie.com^
 ||m10.m1029.com^
 ||nym5c.bonlook.com^
 ||ry0.rythmefm.com^

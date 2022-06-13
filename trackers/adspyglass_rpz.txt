@@ -19,16 +19,15 @@ a.888x.cyou CNAME .
 a.abismo-katheryne.top CNAME .
 a.allwedoisfuck.com CNAME .
 a.andropps.us CNAME .
-a.aniplay.it CNAME .
 a.antiadxxxspy.com CNAME .
 a.apyarvideo.xyz CNAME .
 a.bitporno.com CNAME .
 a.cashjma.com CNAME .
 a.cdn1.pro CNAME .
 a.chastityvideos.com CNAME .
-a.comick.top CNAME .
 a.digitalgiftshopping.com CNAME .
 a.dirtyasmr.com CNAME .
+a.dorkim.club CNAME .
 a.dphunters.com CNAME .
 a.eachporn.com CNAME .
 a.emwstore.xyz CNAME .
@@ -61,6 +60,7 @@ a.youtubersgonewild.net CNAME .
 a.zillastream.com CNAME .
 a5g.oves.biz CNAME .
 aa.zerg.pro CNAME .
+abc.comick.top CNAME .
 abee.yeeowl.xyz CNAME .
 acdn.uploads.mobi CNAME .
 ad.emule-island.eu CNAME .
@@ -146,6 +146,7 @@ cdnvid.com CNAME .
 chrome-loading.car-insurance-reviews.com CNAME .
 client2009x25.xcdn.ovh CNAME .
 coco.rockdilla.com CNAME .
+comp.aniplay.it CNAME .
 cool.ah-me.com CNAME .
 dashboard.fc2ppv.buzz CNAME .
 data.bangtubevideos.com CNAME .
@@ -188,6 +189,7 @@ hsux.com CNAME .
 hub.bazboy.club CNAME .
 i.hqvrporn.net CNAME .
 id.fc2-ppv.live CNAME .
+iez.jojome.xyz CNAME .
 in.fuckhardclips.com CNAME .
 j45.webringporn.com CNAME .
 js.mangapro.top CNAME .
@@ -232,6 +234,7 @@ oi.transhero.com CNAME .
 onetwohub.com CNAME .
 p123p.com CNAME .
 parkurl.com CNAME .
+pem.tamboys.pics CNAME .
 pengenanu.files.im CNAME .
 pep.s2online.xyz CNAME .
 pepi.haillo.xyz CNAME .
@@ -266,6 +269,7 @@ sdg.fwtrck.com CNAME .
 search.cdn1.pro CNAME .
 sg.xclick24.com CNAME .
 shemale.house CNAME .
+sin.chjnmi.xyz CNAME .
 slave.kbjfree.com CNAME .
 solutions.playernetca.top CNAME .
 space.facebiz.xyz CNAME .
@@ -282,7 +286,7 @@ thescript.javfinder.xyz CNAME .
 thetranny.online CNAME .
 tik.boldtur.xyz CNAME .
 tlv.ui02.com CNAME .
-tpl.factporn.com CNAME .
+tom.beclin.xyz CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 turbo.binande.xyz CNAME .
@@ -298,13 +302,11 @@ web.cinetux.nu CNAME .
 whatsthis.owo.si CNAME .
 wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
-www.befuglago.live CNAME .
 www.bigboy.monster CNAME .
+www.darleygamball.cfd CNAME .
 www.delwargal.click CNAME .
-www.demostens.store CNAME .
 www.findnewline.com CNAME .
-www.gombmobil.store CNAME .
-www.guabmobil.site CNAME .
+www.gombaltowa.cfd CNAME .
 www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.lechoncito.one CNAME .

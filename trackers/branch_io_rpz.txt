@@ -69,6 +69,7 @@ ablink.engage.hipages.com.au CNAME .
 ablink.engage.insighttimer.com CNAME .
 ablink.enjoy.wonder.com CNAME .
 ablink.feed.liven.com.au CNAME .
+ablink.fun.joyrun.com CNAME .
 ablink.go1.zip.co CNAME .
 ablink.go2.zip.co CNAME .
 ablink.go3.zip.co CNAME .
@@ -105,7 +106,6 @@ ablink.mail.adobespark.com CNAME .
 ablink.mail.flipfit.com CNAME .
 ablink.mail.grailed.com CNAME .
 ablink.mail.homecourt.ai CNAME .
-ablink.mail.inscape.life CNAME .
 ablink.mail.parkmobile.io CNAME .
 ablink.mail.step.com CNAME .
 ablink.mail.truemoney.com CNAME .

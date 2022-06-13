@@ -118,6 +118,7 @@
 ||hbbtv-track.prosiebensat1puls4.com^
 ||hulpmiddel.fvw.de^
 ||img.foodspring.se^
+||intelligence.officialwesthamstore.com^
 ||mapp.ewm.co.uk^
 ||mapp.jysk.dk^
 ||mapp.jysk.nl^

@@ -101,6 +101,7 @@
 | tk.airfrance.sg | tkairfrance.wizaly.com |
 | tk.airfrance.sk | tkairfrance.wizaly.com |
 | tk.airfrance.tn | tkairfrance.wizaly.com |
+| tk.airfrance.ua | tkairfrance.wizaly.com |
 | tk.airfrance.us | tkairfrance.wizaly.com |
 | tk.klm.com | tkairfrance.wizaly.com |
 | tk.lolivier.fr | tklolivierfr.wizaly.com |

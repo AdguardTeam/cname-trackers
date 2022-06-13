@@ -76,7 +76,6 @@
 ||axjfkc.kobayashi.co.jp^
 ||bbbb.goace.jp^
 ||beeline.beeline-tire.co.jp^
-||belegend2019.belegend.jp^
 ||campaign-direct.eisai.jp^
 ||cmass.massmedian.co.jp^
 ||cname-ade.gom-in.com^
@@ -106,7 +105,6 @@
 ||cs0010sbeda.theory-diet.com^
 ||cs0010sbeda.theory-kumatarumi.com^
 ||cs0113sbeda.convenient-smooth.net^
-||ct.xn--0et88ccz6awh1a.biz^
 ||cvs.kireimo.jp^
 ||digital.anicom-sompo.co.jp^
 ||eb.bewithyou.jp^
@@ -192,14 +190,11 @@
 ||maz.zba.jp^
 ||mcad.mods-clinic.com^
 ||msr.p-antiaging.com^
-||nadeshiko2019.kirei-nadeshiko.jp^
 ||ncc.nip-col.jp^
 ||nlp-japan.life-and-mind.com^
 ||os.beauty-health.today^
 ||partner.haru-shop.jp^
-||proteinhikaku2019.proteinhikaku.com^
 ||qxhydkz8.hmjdaw.ntt.com^
-||real-fitness2019.real-fitness.jp^
 ||seo.tkc110.jp^
 ||sep02.hinagiku-life.jp^
 ||sinceregarden.sincere-garden.jp^

@@ -34,6 +34,7 @@
 * wt-eu02.net
     * 101230059950694.wt-eu02.net
     * 107006243521810.wt-eu02.net
+    * 125611812418194.wt-eu02.net
     * 145003564476173.wt-eu02.net
     * 148749046266446.wt-eu02.net
     * 151836596491843.wt-eu02.net
@@ -177,6 +178,7 @@
 | ---- | ---- |
 | web.news.creedfragrances.co.uk | 101230059950694.wt-eu02.net |
 | web.emails.elc.co.uk | 107006243521810.wt-eu02.net |
+| intelligence.officialwesthamstore.com | 125611812418194.wt-eu02.net |
 | mapp.ewm.co.uk | 145003564476173.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | web.sensilab.se | 151836596491843.wt-eu02.net |

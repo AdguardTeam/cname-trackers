@@ -20,8 +20,6 @@
 ||2qqfxz5kecr4.www.eldorado.gg^
 ||2rid9fii9chx.www.atlaslane.com^
 ||3l0zszdzjhpw.www.comicleaks.com^
-||5fe3x6wvsl95.uthyrningsportal.se^
-||6d5a81guuve4.anydebrid.com^
 ||76zvoxo5yx0l.www.eldorado.gg^
 ||78rkcgj4i8c6.www.cefirates.com^
 ||8ehhtsv9bo7i.monkeylearn.com^
@@ -33,6 +31,7 @@
 ||b5j6itccyluq.nofluffjobs.com^
 ||bygr2ri20e4y.li.finance^
 ||cqz6fn6aox.aporia.com^
+||db4pnwzqdrq9.kvest.ee^
 ||din1j0su0u99.artwallstreet.io^
 ||dsoxjxin5jji.controlconceptsusa.com^
 ||e5obq1v261.www.lurkit.com^
@@ -40,7 +39,6 @@
 ||f0tiojboxnc1.bitdomain.biz^
 ||fq9vy0muyqi3.www.madrigalmaps.com^
 ||fve57b8cs74i.www.cybernetman.com^
-||g604bbn44mdy.www.earthclassmail.com^
 ||gl5g98t0vfjb.panprices.com^
 ||gomyjndc8v5t.www.nookgaming.com^
 ||hkhpnqciykaf.www.gamecamp.gg^
@@ -65,6 +63,7 @@
 ||u0crsrah75fy.camberlion.com^
 ||uhm26jyr11zv.www.freecodecamp.org^
 ||unl1zvy2zuyn.franchiseplus.nl^
+||vr4b5xkuvl61.www.earthclassmail.com^
 ||vzal21mooz.hyperwrite.ai^
 ||wiar9wff0ma9.ping.t3.gg^
 ||xlvvy4msxr.coolinastore.com^

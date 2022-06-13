@@ -383,6 +383,7 @@
 | tr.notification.norrsken.fr | tracking.bp01.net |
 | tr.np6.co.uk | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |
+| tr.np6.orange.fr | tracking.bp01.net |
 | tr.observatoire.musee-orsay.fr | tracking.bp01.net |
 | tr.ofertas-companeo.es | tracking.bp01.net |
 | tr.offer-companeo.co.uk | tracking.bp01.net |
@@ -482,3 +483,4 @@
 | tr1.peugeot-ipsos.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
 | trpreviews.bp01.net | tracking.bp01.net |
+| www.newsletter.banquepopulaire.fr | tracking.bp01.net |

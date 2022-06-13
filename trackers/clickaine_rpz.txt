@@ -29,6 +29,7 @@ cc.sexgeschichten-xxx.com CNAME .
 cc.sexstories-all.com CNAME .
 cc.sexstories-hot.com CNAME .
 cc.sexverhalen-gratis.com CNAME .
+check.safelinkonly.top CNAME .
 ck.zzipps.com CNAME .
 cli.its2.net CNAME .
 clkn.apostle.onl CNAME .

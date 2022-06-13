@@ -378,6 +378,7 @@ tr.notification.credit-moderne.fr CNAME .
 tr.notification.norrsken.fr CNAME .
 tr.np6.co.uk CNAME .
 tr.np6.com CNAME .
+tr.np6.orange.fr CNAME .
 tr.observatoire.musee-orsay.fr CNAME .
 tr.ofertas-companeo.es CNAME .
 tr.offer-companeo.co.uk CNAME .
@@ -477,3 +478,4 @@ tr1.mailperformance.com CNAME .
 tr1.peugeot-ipsos.com CNAME .
 tr5.mailperf.com CNAME .
 trpreviews.bp01.net CNAME .
+www.newsletter.banquepopulaire.fr CNAME .

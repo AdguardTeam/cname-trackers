@@ -90,6 +90,7 @@
 ||3466845.notifysrv.com^
 ||3466857.notifysrv.com^
 ||3466863.notify6.com^
+||3474937.notify6.com^
 ||3476453.notifysrv.com^
 ||3478737.notifysrv.com^
 ||3483067.notifysrv.com^
@@ -203,6 +204,7 @@
 ||3945010.notify6.com^
 ||3946240.notify6.com^
 ||3946250.notify6.com^
+||3950664.notify6.com^
 ||3950808.notify6.com^
 ||3959278.notify6.com^
 ||3959292.notify6.com^
@@ -250,6 +252,7 @@
 ||4243868.notify6.com^
 ||4259086.notify6.com^
 ||4266030.notify6.com^
+||4270600.notify6.com^
 ||4270606.notify6.com^
 ||4270618.notify6.com^
 ||4274618.notify6.com^
@@ -260,6 +263,7 @@
 ||4329294.notify6.com^
 ||4329296.notify6.com^
 ||4329300.notify6.com^
+||4329302.notify6.com^
 ||4329306.notify6.com^
 ||4365744.notify6.com^
 ||4421184.notify6.com^
@@ -278,7 +282,7 @@
 ||api.adnation.com^
 ||delivery.gettopple.com^
 ||engine.gettopple.com^
-||m.hsrvv.com^
+||m.hsrvz.com^
 ||m.optnx.com^
 ||main.exdynsrv.com^
 ||main.exoclick.com^
@@ -290,6 +294,7 @@
 ||origin-ads.realsrv.com^
 ||rtb.exoclick.com^
 ||s.eaalink.com^
+||s.elink2b.com^
 ||s.elink2c.com^
 ||s.elnk40.com^
 ||s.elnk4b.com^
@@ -314,6 +319,7 @@
 ||s.zlink9.com^
 ||s.zlinkm.com^
 ||s3t3d2y8.ackcdn.net^
+||syndication-adblock.exoclick.com^
 ||syndication.dynsrvtbg.com^
 ||syndication.dynsrvwer.com^
 ||syndication.elink12.com^

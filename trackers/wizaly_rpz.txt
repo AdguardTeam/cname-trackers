@@ -27,6 +27,7 @@ tk.airfrance.ru CNAME .
 tk.airfrance.sg CNAME .
 tk.airfrance.sk CNAME .
 tk.airfrance.tn CNAME .
+tk.airfrance.ua CNAME .
 tk.airfrance.us CNAME .
 tk.alexandermcqueen.com CNAME .
 tk.apprentis-auteuil.org CNAME .

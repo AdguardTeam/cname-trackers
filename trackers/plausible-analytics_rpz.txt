@@ -9,6 +9,7 @@ a.ctd.ai CNAME .
 a.easyazon.com CNAME .
 a.fdmedia.io CNAME .
 a.getaawp.com CNAME .
+a.jenshenrikthomsen.dk CNAME .
 a.kryptonitewp.com CNAME .
 a.linkz.ai CNAME .
 a.mhthemes.com CNAME .
@@ -176,6 +177,7 @@ plausible.adreform.com CNAME .
 plausible.amava.com CNAME .
 plausible.as207960.net CNAME .
 plausible.banovo.de CNAME .
+plausible.baychi.org CNAME .
 plausible.bearer.sh CNAME .
 plausible.benscarblog.com CNAME .
 plausible.bernheisel.com CNAME .
@@ -219,7 +221,6 @@ plausible.nubemia.com CNAME .
 plausible.nuqu.org CNAME .
 plausible.panic.com CNAME .
 plausible.pgmustard.com CNAME .
-plausible.phuctm97.com CNAME .
 plausible.plancagency.com CNAME .
 plausible.play.date CNAME .
 plausible.prod.sketch.com CNAME .
@@ -316,7 +317,6 @@ stats.blog.codingmilitia.com CNAME .
 stats.blog.merckx.fr CNAME .
 stats.blog.sean-wright.com CNAME .
 stats.blog.sublimesecurity.com CNAME .
-stats.bmxdevils.be CNAME .
 stats.breathly.app CNAME .
 stats.briskoda.net CNAME .
 stats.broddin.be CNAME .
@@ -363,6 +363,7 @@ stats.dashbit.co CNAME .
 stats.davidlms.com CNAME .
 stats.dazzit.com CNAME .
 stats.deva.guru CNAME .
+stats.devenet.eu CNAME .
 stats.devenet.info CNAME .
 stats.digiexpert.store CNAME .
 stats.divemap.uk CNAME .
@@ -488,7 +489,6 @@ stats.maurer-rides.de CNAME .
 stats.melvingeorge.me CNAME .
 stats.menn.blog CNAME .
 stats.mesenvies.fr CNAME .
-stats.michaell.io CNAME .
 stats.missionrabies.com CNAME .
 stats.mkwtas.com CNAME .
 stats.mmazzarolo.com CNAME .
@@ -502,7 +502,6 @@ stats.mynfp.de CNAME .
 stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
 stats.newslit.co CNAME .
-stats.nextaction.app CNAME .
 stats.nicklafferty.com CNAME .
 stats.nicolabricot.com CNAME .
 stats.nicolaskempf.fr CNAME .
@@ -580,6 +579,7 @@ stats.scalgo.com CNAME .
 stats.scastiel.dev CNAME .
 stats.scottbartell.com CNAME .
 stats.screen-play.app CNAME .
+stats.screenagers.com CNAME .
 stats.screenwavemedia.com CNAME .
 stats.sebastiangale.ca CNAME .
 stats.seedthemes.com CNAME .
@@ -611,6 +611,7 @@ stats.strikogkod.dk CNAME .
 stats.studypages.com CNAME .
 stats.sublimesecurity.com CNAME .
 stats.suenicholls.com CNAME .
+stats.suf.one CNAME .
 stats.sunpeaksstables.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svenadolph.net CNAME .

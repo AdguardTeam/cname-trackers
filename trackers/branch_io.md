@@ -79,6 +79,7 @@
 | ablink.engage.insighttimer.com | thirdparty.bnc.lt |
 | ablink.enjoy.wonder.com | thirdparty.bnc.lt |
 | ablink.feed.liven.com.au | thirdparty.bnc.lt |
+| ablink.fun.joyrun.com | thirdparty.bnc.lt |
 | ablink.go1.zip.co | thirdparty.bnc.lt |
 | ablink.go2.zip.co | thirdparty.bnc.lt |
 | ablink.go3.zip.co | thirdparty.bnc.lt |
@@ -115,7 +116,6 @@
 | ablink.mail.flipfit.com | thirdparty.bnc.lt |
 | ablink.mail.grailed.com | thirdparty.bnc.lt |
 | ablink.mail.homecourt.ai | thirdparty.bnc.lt |
-| ablink.mail.inscape.life | thirdparty.bnc.lt |
 | ablink.mail.parkmobile.io | thirdparty.bnc.lt |
 | ablink.mail.step.com | thirdparty.bnc.lt |
 | ablink.mail.truemoney.com | thirdparty.bnc.lt |

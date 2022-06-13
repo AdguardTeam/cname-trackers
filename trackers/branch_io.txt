@@ -69,6 +69,7 @@
 ||ablink.engage.insighttimer.com^
 ||ablink.enjoy.wonder.com^
 ||ablink.feed.liven.com.au^
+||ablink.fun.joyrun.com^
 ||ablink.go1.zip.co^
 ||ablink.go2.zip.co^
 ||ablink.go3.zip.co^
@@ -105,7 +106,6 @@
 ||ablink.mail.flipfit.com^
 ||ablink.mail.grailed.com^
 ||ablink.mail.homecourt.ai^
-||ablink.mail.inscape.life^
 ||ablink.mail.parkmobile.io^
 ||ablink.mail.step.com^
 ||ablink.mail.truemoney.com^

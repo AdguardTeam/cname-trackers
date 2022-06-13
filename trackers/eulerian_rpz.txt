@@ -128,6 +128,7 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
+eat9.thebeat925.ca CNAME .
 ebc1.capifrance.fr CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
@@ -186,7 +187,6 @@ hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 he6e.lavieimmo.com CNAME .
 hgf4.zanzicar.fr CNAME .
-hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
@@ -243,6 +243,7 @@ nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
 oal2.destinia.co.uk CNAME .
 oek7.april-moto.com CNAME .
+ogb2.biopur-leanature.fr CNAME .
 ogb2.biovie.com CNAME .
 ogb2.eauthermalejonzac.com CNAME .
 ogb2.leanatureboutique.com CNAME .
@@ -289,6 +290,7 @@ rh5i.tradingsat.com CNAME .
 rqz4.supdigital.fr CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
+ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sa.skodasuperb.fr CNAME .
 sby1.madeindesign.de CNAME .
@@ -381,6 +383,7 @@ d0f.le-dauphin.com CNAME .
 d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
 erb.tremblant.ca CNAME .
+hk2d.tourismemauricie.com CNAME .
 m10.m1029.com CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .

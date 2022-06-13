@@ -139,6 +139,7 @@
 ||ens.tagblatt.ch^
 ||ens.themarket.ch^
 ||ensighten.bhphoto.com^
+||ensighten.coop.co.uk^
 ||ensighten.davidyurman.com^
 ||ensighten.huntingtonbank.com^
 ||ensighten.lightstream.com^

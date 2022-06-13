@@ -76,7 +76,6 @@ analyse.hinemos.info CNAME .
 axjfkc.kobayashi.co.jp CNAME .
 bbbb.goace.jp CNAME .
 beeline.beeline-tire.co.jp CNAME .
-belegend2019.belegend.jp CNAME .
 campaign-direct.eisai.jp CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.gom-in.com CNAME .
@@ -106,7 +105,6 @@ cs0010sbeda.theory-clinic.com CNAME .
 cs0010sbeda.theory-diet.com CNAME .
 cs0010sbeda.theory-kumatarumi.com CNAME .
 cs0113sbeda.convenient-smooth.net CNAME .
-ct.xn--0et88ccz6awh1a.biz CNAME .
 cvs.kireimo.jp CNAME .
 digital.anicom-sompo.co.jp CNAME .
 eb.bewithyou.jp CNAME .
@@ -192,14 +190,11 @@ marketing.zwei.com CNAME .
 maz.zba.jp CNAME .
 mcad.mods-clinic.com CNAME .
 msr.p-antiaging.com CNAME .
-nadeshiko2019.kirei-nadeshiko.jp CNAME .
 ncc.nip-col.jp CNAME .
 nlp-japan.life-and-mind.com CNAME .
 os.beauty-health.today CNAME .
 partner.haru-shop.jp CNAME .
-proteinhikaku2019.proteinhikaku.com CNAME .
 qxhydkz8.hmjdaw.ntt.com CNAME .
-real-fitness2019.real-fitness.jp CNAME .
 seo.tkc110.jp CNAME .
 sep02.hinagiku-life.jp CNAME .
 sinceregarden.sincere-garden.jp CNAME .

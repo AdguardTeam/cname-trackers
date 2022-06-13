@@ -378,6 +378,7 @@ tr.notification.credit-moderne.fr
 tr.notification.norrsken.fr
 tr.np6.co.uk
 tr.np6.com
+tr.np6.orange.fr
 tr.observatoire.musee-orsay.fr
 tr.ofertas-companeo.es
 tr.offer-companeo.co.uk
@@ -477,3 +478,4 @@ tr1.mailperformance.com
 tr1.peugeot-ipsos.com
 tr5.mailperf.com
 trpreviews.bp01.net
+www.newsletter.banquepopulaire.fr

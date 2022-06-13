@@ -9,6 +9,7 @@
 ||a.easyazon.com^
 ||a.fdmedia.io^
 ||a.getaawp.com^
+||a.jenshenrikthomsen.dk^
 ||a.kryptonitewp.com^
 ||a.linkz.ai^
 ||a.mhthemes.com^
@@ -176,6 +177,7 @@
 ||plausible.amava.com^
 ||plausible.as207960.net^
 ||plausible.banovo.de^
+||plausible.baychi.org^
 ||plausible.bearer.sh^
 ||plausible.benscarblog.com^
 ||plausible.bernheisel.com^
@@ -219,7 +221,6 @@
 ||plausible.nuqu.org^
 ||plausible.panic.com^
 ||plausible.pgmustard.com^
-||plausible.phuctm97.com^
 ||plausible.plancagency.com^
 ||plausible.play.date^
 ||plausible.prod.sketch.com^
@@ -316,7 +317,6 @@
 ||stats.blog.merckx.fr^
 ||stats.blog.sean-wright.com^
 ||stats.blog.sublimesecurity.com^
-||stats.bmxdevils.be^
 ||stats.breathly.app^
 ||stats.briskoda.net^
 ||stats.broddin.be^
@@ -363,6 +363,7 @@
 ||stats.davidlms.com^
 ||stats.dazzit.com^
 ||stats.deva.guru^
+||stats.devenet.eu^
 ||stats.devenet.info^
 ||stats.digiexpert.store^
 ||stats.divemap.uk^
@@ -488,7 +489,6 @@
 ||stats.melvingeorge.me^
 ||stats.menn.blog^
 ||stats.mesenvies.fr^
-||stats.michaell.io^
 ||stats.missionrabies.com^
 ||stats.mkwtas.com^
 ||stats.mmazzarolo.com^
@@ -502,7 +502,6 @@
 ||stats.nddmed.com^
 ||stats.nerdbusiness.com^
 ||stats.newslit.co^
-||stats.nextaction.app^
 ||stats.nicklafferty.com^
 ||stats.nicolabricot.com^
 ||stats.nicolaskempf.fr^
@@ -580,6 +579,7 @@
 ||stats.scastiel.dev^
 ||stats.scottbartell.com^
 ||stats.screen-play.app^
+||stats.screenagers.com^
 ||stats.screenwavemedia.com^
 ||stats.sebastiangale.ca^
 ||stats.seedthemes.com^
@@ -611,6 +611,7 @@
 ||stats.studypages.com^
 ||stats.sublimesecurity.com^
 ||stats.suenicholls.com^
+||stats.suf.one^
 ||stats.sunpeaksstables.com^
 ||stats.sushibyte.io^
 ||stats.svenadolph.net^

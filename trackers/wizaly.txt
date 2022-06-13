@@ -27,6 +27,7 @@
 ||tk.airfrance.sg^
 ||tk.airfrance.sk^
 ||tk.airfrance.tn^
+||tk.airfrance.ua^
 ||tk.airfrance.us^
 ||tk.alexandermcqueen.com^
 ||tk.apprentis-auteuil.org^

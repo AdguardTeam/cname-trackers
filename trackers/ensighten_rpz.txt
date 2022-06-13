@@ -139,6 +139,7 @@ ens.nzz.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.themarket.ch CNAME .
 ensighten.bhphoto.com CNAME .
+ensighten.coop.co.uk CNAME .
 ensighten.davidyurman.com CNAME .
 ensighten.huntingtonbank.com CNAME .
 ensighten.lightstream.com CNAME .
