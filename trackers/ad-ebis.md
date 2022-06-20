@@ -37,6 +37,7 @@
     * 2ab268f1-uxwrqv9t.cname.ebis.ne.jp
     * 2c9c5766-qkdlymcx.cname.ebis.ne.jp
     * 2cc59598-pr6qwglj.cname.ebis.ne.jp
+    * 2cf4b0df-n5mdheza.cname.ebis.ne.jp
     * 2effafae-p5xsryk6.cname.ebis.ne.jp
     * 2f22dbfa-day5axk4.cname.ebis.ne.jp
     * 2feef04e-wnxavwja.cname.ebis.ne.jp
@@ -132,6 +133,7 @@
     * 9fc5109a-rgq6b9zp.cname.ebis.ne.jp
     * a0c6f4cd-wqcfddrl.cname.ebis.ne.jp
     * a0dd7a11-rrtv6uew.cname.ebis.ne.jp
+    * a1f251c6-iksdytmu.cname.ebis.ne.jp
     * a210b17a-hwsehbyq.cname.ebis.ne.jp
     * a24bb2f5-q4vseaye.cname.ebis.ne.jp
     * a4ba7b93-e2mmxp45.cname.ebis.ne.jp
@@ -191,6 +193,7 @@
     * d9a8eccf-fgsftzrs.cname.ebis.ne.jp
     * dae17865-vqh9uah6.cname.ebis.ne.jp
     * daf5d89e-yfrcguru.cname.ebis.ne.jp
+    * de8331b9-pmffblvq.cname.ebis.ne.jp
     * dfd1c48f-kdknv6tt.cname.ebis.ne.jp
     * e2d9b43b-hutbyrck.cname.ebis.ne.jp
     * e42672f4-rqq2zpub.cname.ebis.ne.jp
@@ -246,6 +249,7 @@
 | ebis.studioindi.jp | 2ab268f1-uxwrqv9t.cname.ebis.ne.jp |
 | ebis.codecamp.jp | 2c9c5766-qkdlymcx.cname.ebis.ne.jp |
 | ebis.lululun.com | 2cc59598-pr6qwglj.cname.ebis.ne.jp |
+| adebis.zenyaku-hbshop.com | 2cf4b0df-n5mdheza.cname.ebis.ne.jp |
 | isebis.takamiclinic.or.jp | 2effafae-p5xsryk6.cname.ebis.ne.jp |
 | ebis.belta.co.jp | 2f22dbfa-day5axk4.cname.ebis.ne.jp |
 | ebis01.zkai.co.jp | 2feef04e-wnxavwja.cname.ebis.ne.jp |
@@ -341,6 +345,7 @@
 | y8hxgv9m.kobetsu.co.jp | 9fc5109a-rgq6b9zp.cname.ebis.ne.jp |
 | ebis.hokensoudannavi.jp | a0c6f4cd-wqcfddrl.cname.ebis.ne.jp |
 | ebis.pasonatech.co.jp | a0dd7a11-rrtv6uew.cname.ebis.ne.jp |
+| test-ad.lucia-c.com | a1f251c6-iksdytmu.cname.ebis.ne.jp |
 | ad.kddi-fs.com | a210b17a-hwsehbyq.cname.ebis.ne.jp |
 | ebis.radishbo-ya.co.jp | a24bb2f5-q4vseaye.cname.ebis.ne.jp |
 | cnameebis.usagi-online.com | a4ba7b93-e2mmxp45.cname.ebis.ne.jp |
@@ -400,6 +405,7 @@
 | ebiscname.clark.ed.jp | d9a8eccf-fgsftzrs.cname.ebis.ne.jp |
 | ebis.biyo-job.com | dae17865-vqh9uah6.cname.ebis.ne.jp |
 | ebis.funai-food-business.com | daf5d89e-yfrcguru.cname.ebis.ne.jp |
+| adebis.hotstaff.co.jp | de8331b9-pmffblvq.cname.ebis.ne.jp |
 | cname1.shakenkan.co.jp | dfd1c48f-kdknv6tt.cname.ebis.ne.jp |
 | ebis.sbismile.co.jp | e2d9b43b-hutbyrck.cname.ebis.ne.jp |
 | aesus.so-net.ne.jp | e42672f4-rqq2zpub.cname.ebis.ne.jp |

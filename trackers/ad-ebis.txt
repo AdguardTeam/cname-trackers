@@ -36,6 +36,7 @@
 ||adebis.furisode-ichikura.jp^
 ||adebis.gfs-official.com^
 ||adebis.harutaka.jp^
+||adebis.hotstaff.co.jp^
 ||adebis.irobot-jp.com^
 ||adebis.juku.st^
 ||adebis.kaonavi.jp^
@@ -62,6 +63,7 @@
 ||adebis.tokyuhotels.co.jp^
 ||adebis.toushi-up.com^
 ||adebis.urban-research.jp^
+||adebis.zenyaku-hbshop.com^
 ||adebis01.job-con.jp^
 ||adebis02.juku.st^
 ||adebis8628.matsui.co.jp^
@@ -198,6 +200,7 @@
 ||seo.tkc110.jp^
 ||sep02.hinagiku-life.jp^
 ||sinceregarden.sincere-garden.jp^
+||test-ad.lucia-c.com^
 ||tracking.mysurance.co.jp^
 ||tracking.nokai.jp^
 ||tukuru.cotta.jp^

@@ -66,7 +66,6 @@
 ||a8clk.audiobook.jp^
 ||a8clk.autoc-one.jp^
 ||a8clk.biomarche.jp^
-||a8clk.bstyle.store^
 ||a8clk.camerakaitori.jp^
 ||a8clk.campaigns.speed-kaitori.jp^
 ||a8clk.chapup.jp^
@@ -181,6 +180,7 @@
 ||a8cv.sakura-forest.com^
 ||a8cv.shibarinashi-wifi.jp^
 ||a8cv.shinro.info^
+||a8cv.shokubun.ec-design.co.jp^
 ||a8cv.shop.matsuo1956.jp^
 ||a8cv.signalift.com^
 ||a8cv.snkrdunk.com^
@@ -190,6 +190,7 @@
 ||a8cv.str.classicmusic.tokyo^
 ||a8cv.t-bang.jp^
 ||a8cv.tfansite.jp^
+||a8cv.treasure-f.com^
 ||a8cv.try-fs.com^
 ||a8cv.udition.jp^
 ||a8cv.unico-fan.co.jp^

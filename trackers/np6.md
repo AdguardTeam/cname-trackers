@@ -99,6 +99,7 @@
 | tr.contact.cereps.fr | tracking.bp01.net |
 | tr.contact.e-turf.fr | tracking.bp01.net |
 | tr.contact.makemelead.info | tracking.bp01.net |
+| tr.contact.mhl-publishing.fr | tracking.bp01.net |
 | tr.contact.stof.fr | tracking.bp01.net |
 | tr.contact.thelist-emirates.fr | tracking.bp01.net |
 | tr.contrat.location.boulanger.com | tracking.bp01.net |
@@ -116,7 +117,9 @@
 | tr.devis-professionnels.com | tracking.bp01.net |
 | tr.devis.digital | tracking.bp01.net |
 | tr.devize-companeo.ro | tracking.bp01.net |
+| tr.dirigeants.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.donateur.afm-telethon.fr | tracking.bp01.net |
+| tr.drh-holding.lvmh.fr | tracking.bp01.net |
 | tr.e-mail.axa.fr | tracking.bp01.net |
 | tr.e.entreprise-pm.net | tracking.bp01.net |
 | tr.e.trouver-un-logement-neuf.com | tracking.bp01.net |
@@ -149,6 +152,7 @@
 | tr.emailing.coe.int | tracking.bp01.net |
 | tr.emailing.detours.canal.fr | tracking.bp01.net |
 | tr.emailing.grassavoye.com | tracking.bp01.net |
+| tr.emailing.pogioclub.be | tracking.bp01.net |
 | tr.emailium.fr | tracking.bp01.net |
 | tr.enedis-infos.fr | tracking.bp01.net |
 | tr.enews.customsolutions.fr | tracking.bp01.net |
@@ -356,6 +360,7 @@
 | tr.newsletter.assuragency.net | tracking.bp01.net |
 | tr.newsletter.bouygues-construction.com | tracking.bp01.net |
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
+| tr.newsletter.jowae.com | tracking.bp01.net |
 | tr.newsletter.leocare.eu | tracking.bp01.net |
 | tr.newsletter.lierac.com | tracking.bp01.net |
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |

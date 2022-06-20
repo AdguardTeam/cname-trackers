@@ -94,6 +94,7 @@ tr.contact.canalplus.fr CNAME .
 tr.contact.cereps.fr CNAME .
 tr.contact.e-turf.fr CNAME .
 tr.contact.makemelead.info CNAME .
+tr.contact.mhl-publishing.fr CNAME .
 tr.contact.stof.fr CNAME .
 tr.contact.thelist-emirates.fr CNAME .
 tr.contrat.location.boulanger.com CNAME .
@@ -111,7 +112,9 @@ tr.devis-express.be CNAME .
 tr.devis-professionnels.com CNAME .
 tr.devis.digital CNAME .
 tr.devize-companeo.ro CNAME .
+tr.dirigeants.harmonie-mutuelle.fr CNAME .
 tr.donateur.afm-telethon.fr CNAME .
+tr.drh-holding.lvmh.fr CNAME .
 tr.e-mail.axa.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
 tr.e.trouver-un-logement-neuf.com CNAME .
@@ -144,6 +147,7 @@ tr.emailing.cnam-paysdelaloire.fr CNAME .
 tr.emailing.coe.int CNAME .
 tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
+tr.emailing.pogioclub.be CNAME .
 tr.emailium.fr CNAME .
 tr.enedis-infos.fr CNAME .
 tr.enews.customsolutions.fr CNAME .
@@ -351,6 +355,7 @@ tr.newsletter.afpa.fr CNAME .
 tr.newsletter.assuragency.net CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
+tr.newsletter.jowae.com CNAME .
 tr.newsletter.leocare.eu CNAME .
 tr.newsletter.lierac.com CNAME .
 tr.newsletter.location.boulanger.com CNAME .

@@ -103,7 +103,6 @@ external.techopian.com
 extramilefloorcare.ericksonbuilt.com
 f8phvntohv.tpetry.me
 galop.leferacheval-saintcloud.com
-gullfoss.deepsource.io
 hej.henriksommerfeld.se
 hi.koalendar.com
 hi.streetworkoutlist.com
@@ -147,7 +146,6 @@ pine.nervecentral.com
 ping.cavelab.dev
 ping.naturadapt.com
 ping.richardtaylor.dev
-piostats.gdcorner.com
 pl.1feed.app
 pl.astro-akatemia.fi
 pl.astro.fi
@@ -240,6 +238,7 @@ plausible.tac.dappstar.io
 plausible.test.sketch.com
 plausible.urbanekuensteruhr.de
 plausible.vaughanesports.org
+plausible.virt.io
 plausible.visitu.com
 plausible.viteshot.com
 plausible.west.io
@@ -281,6 +280,7 @@ sp.gameomatic.fr
 sp.jrklein.com
 sp.spaceomatic.fr
 spock.dom.codes
+st.preciousamber.com
 stat.bill.harding.blog
 stat.landingpro.pl
 stat.tomdebruijn.com
@@ -361,7 +361,6 @@ stats.dailyposter.com
 stats.danielwolf.photography
 stats.dashbit.co
 stats.davidlms.com
-stats.dazzit.com
 stats.deva.guru
 stats.devenet.eu
 stats.devenet.info
@@ -499,6 +498,7 @@ stats.mtsknn.fi
 stats.muchbetteradventures.com
 stats.murrayhometextiles.ie
 stats.mynfp.de
+stats.mysideproject.rocks
 stats.nddmed.com
 stats.nerdbusiness.com
 stats.newslit.co

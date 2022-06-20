@@ -86,6 +86,7 @@
     * 625009642816718.wt-eu02.net
     * 626892113650542.wt-eu02.net
     * 637394170883823.wt-eu02.net
+    * 637511691483562.wt-eu02.net
     * 639871942536313.wt-eu02.net
     * 641523609775483.wt-eu02.net
     * 666882163750646.wt-eu02.net
@@ -238,6 +239,7 @@
 | web.e.aldermore.co.uk | 625009642816718.wt-eu02.net |
 | census.misterspex.ch | 626892113650542.wt-eu02.net |
 | wbtrkk.teufelaudio.at | 637394170883823.wt-eu02.net |
+| web.news.pleasefashion.com | 637511691483562.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |

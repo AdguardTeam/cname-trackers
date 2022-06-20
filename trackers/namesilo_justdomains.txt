@@ -37,6 +37,7 @@
 3285792.notifysrv.com
 3286068.notify6.com
 3290250.notifysrv.com
+3294260.notify6.com
 3300890.notifysrv.com
 3300974.notify6.com
 3302404.notify6.com
@@ -46,12 +47,14 @@
 3311320.notifysrv.com
 3323174.notifysrv.com
 3323378.notify6.com
+3328388.notifysrv.com
 3328396.notifysrv.com
 3329496.notify6.com
 3329496.notifysrv.com
 3329726.notifysrv.com
 3344944.notifysrv.com
 3346174.notify6.com
+3347188.notify6.com
 3348424.notify6.com
 3348428.notify6.com
 3349680.notify6.com
@@ -67,6 +70,7 @@
 3382771.notifysrv.com
 3385991.notify6.com
 3389741.notify6.com
+3398315.notify6.com
 3404165.notify6.com
 3408773.notify6.com
 3409957.notifysrv.com
@@ -277,8 +281,7 @@
 4623404.notify6.com
 4680526.notify6.com
 6180.notify.optimizesrv.com
-a.exoclick.com
-ads.exoclick.com
+a.etology.com
 api.adnation.com
 delivery.gettopple.com
 engine.gettopple.com

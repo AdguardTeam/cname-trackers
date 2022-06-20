@@ -6,6 +6,7 @@
 0.oldgyhogola.com CNAME .
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
+0i0i0i0.nelasleaks.com CNAME .
 2022.hizetnet.xyz CNAME .
 58745.clicknplay.to CNAME .
 71213zhazha.com CNAME .
@@ -21,6 +22,7 @@ a.allwedoisfuck.com CNAME .
 a.andropps.us CNAME .
 a.antiadxxxspy.com CNAME .
 a.apyarvideo.xyz CNAME .
+a.ax.xxx CNAME .
 a.bitporno.com CNAME .
 a.cashjma.com CNAME .
 a.cdn1.pro CNAME .
@@ -40,7 +42,6 @@ a.gaypornlove.net CNAME .
 a.gayvideo.me CNAME .
 a.green-good-nice.site CNAME .
 a.hentai369.com CNAME .
-a.hentaitube.icu CNAME .
 a.kagiti.club CNAME .
 a.katomu.club CNAME .
 a.letsjerk.org CNAME .
@@ -56,7 +57,6 @@ a.umpornozinho.com CNAME .
 a.viralnewsbd.xyz CNAME .
 a.warddogs.com CNAME .
 a.watchomovies.com CNAME .
-a.youtubersgonewild.net CNAME .
 a.zillastream.com CNAME .
 a5g.oves.biz CNAME .
 aa.zerg.pro CNAME .
@@ -135,6 +135,7 @@ best.gobiga.xyz CNAME .
 best.s5live.com CNAME .
 blog.andropps.com CNAME .
 bob.bezucai.com CNAME .
+bzcdn.fin.ovh CNAME .
 c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
 c5m.codegurutech.com CNAME .
@@ -148,6 +149,7 @@ client2009x25.xcdn.ovh CNAME .
 coco.rockdilla.com CNAME .
 comp.aniplay.it CNAME .
 cool.ah-me.com CNAME .
+dam.tucsun.mom CNAME .
 dashboard.fc2ppv.buzz CNAME .
 data.bangtubevideos.com CNAME .
 deliver.vkcdnservice.com CNAME .
@@ -165,6 +167,7 @@ dsfgp.admenhost.com CNAME .
 ebd.cda-hd.cc CNAME .
 ebd.cda-hd.co CNAME .
 eco.blendxxx.com CNAME .
+eep.pukachu.lol CNAME .
 est.pornleech.ch CNAME .
 eyedssw.javvvvvv.xyz CNAME .
 fast.s5live.com CNAME .
@@ -173,6 +176,7 @@ fortran.icu CNAME .
 free.srcdn.xyz CNAME .
 free.stat.tk CNAME .
 freememes.desiceleb.top CNAME .
+g.rklmcdn.com CNAME .
 g6j.cupidonmedia.com CNAME .
 gay0day.online CNAME .
 geovideo.name CNAME .
@@ -204,6 +208,7 @@ lixir.wargers.org CNAME .
 load.jabx.net CNAME .
 load.try-games.com CNAME .
 load.xxxdb.io CNAME .
+look.bookies.lol CNAME .
 lovelybingo.com CNAME .
 m.x-power.info CNAME .
 m.xrum.info CNAME .
@@ -249,6 +254,7 @@ pre.102porno.net CNAME .
 pre.ebasos.club CNAME .
 pre.myfuck.club CNAME .
 profield.ddns.net CNAME .
+pub.donmam.skin CNAME .
 pubblicita.animeitaly.org CNAME .
 pubg.remiitano.xyz CNAME .
 quaz.viaoz.xyz CNAME .
@@ -272,6 +278,7 @@ shemale.house CNAME .
 sin.chjnmi.xyz CNAME .
 slave.kbjfree.com CNAME .
 solutions.playernetca.top CNAME .
+som.chartlon.skin CNAME .
 space.facebiz.xyz CNAME .
 spy.luvprn.com CNAME .
 spyglass.octanime.net CNAME .
@@ -280,6 +287,7 @@ srv.clinno.link CNAME .
 stuff.wikiporno.org CNAME .
 support.streamjav.top CNAME .
 szj.boombay.xyz CNAME .
+t.rklmcdn.com CNAME .
 tb.turbocap.net CNAME .
 theporndude.com.1111supjavcom.xyz CNAME .
 thescript.javfinder.xyz CNAME .
@@ -303,6 +311,7 @@ whatsthis.owo.si CNAME .
 wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
 www.bigboy.monster CNAME .
+www.camilo4free.cfd CNAME .
 www.darleygamball.cfd CNAME .
 www.delwargal.click CNAME .
 www.findnewline.com CNAME .
@@ -311,7 +320,6 @@ www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.lechoncito.one CNAME .
 www.letstry69.xyz CNAME .
-www.phontomsasa.cfd CNAME .
 www.sex1.party CNAME .
 www.u808i.com CNAME .
 www.ucdn.website CNAME .
@@ -321,8 +329,10 @@ www4.hentaigamecg.com CNAME .
 www6.freeanimesource.com CNAME .
 www6.hentai-zone.com CNAME .
 www8.upload-pics.com CNAME .
+x1cdn.fin.ovh CNAME .
 x2sfa.javgg.eu CNAME .
 xxxlove.rooski.net CNAME .
+z.rklmcdn.com CNAME .
 z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .
 zeenite.online CNAME .

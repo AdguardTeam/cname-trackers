@@ -8,6 +8,7 @@ api.rtnews.pro CNAME .
 api.willalland.info CNAME .
 app.rtnews.pro CNAME .
 app.willalland.info CNAME .
+c4n.asianpinay.com CNAME .
 c4n.ijerk.club CNAME .
 c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
@@ -35,7 +36,6 @@ cli.its2.net CNAME .
 clkn.apostle.onl CNAME .
 clknrtrg.pro CNAME .
 cln.willyporn.com CNAME .
-cmd.maturexxxporno.net CNAME .
 cn4.animehdl.net CNAME .
 ddd.contoseroticoscnn.com CNAME .
 dnsbl.test.ww1.willalland.info CNAME .

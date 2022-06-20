@@ -94,6 +94,7 @@
 ||tr.contact.cereps.fr^
 ||tr.contact.e-turf.fr^
 ||tr.contact.makemelead.info^
+||tr.contact.mhl-publishing.fr^
 ||tr.contact.stof.fr^
 ||tr.contact.thelist-emirates.fr^
 ||tr.contrat.location.boulanger.com^
@@ -111,7 +112,9 @@
 ||tr.devis-professionnels.com^
 ||tr.devis.digital^
 ||tr.devize-companeo.ro^
+||tr.dirigeants.harmonie-mutuelle.fr^
 ||tr.donateur.afm-telethon.fr^
+||tr.drh-holding.lvmh.fr^
 ||tr.e-mail.axa.fr^
 ||tr.e.entreprise-pm.net^
 ||tr.e.trouver-un-logement-neuf.com^
@@ -144,6 +147,7 @@
 ||tr.emailing.coe.int^
 ||tr.emailing.detours.canal.fr^
 ||tr.emailing.grassavoye.com^
+||tr.emailing.pogioclub.be^
 ||tr.emailium.fr^
 ||tr.enedis-infos.fr^
 ||tr.enews.customsolutions.fr^
@@ -351,6 +355,7 @@
 ||tr.newsletter.assuragency.net^
 ||tr.newsletter.bouygues-construction.com^
 ||tr.newsletter.capdecision.fr^
+||tr.newsletter.jowae.com^
 ||tr.newsletter.leocare.eu^
 ||tr.newsletter.lierac.com^
 ||tr.newsletter.location.boulanger.com^

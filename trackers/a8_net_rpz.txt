@@ -66,7 +66,6 @@ a8clk.asp.jcity.co.jp CNAME .
 a8clk.audiobook.jp CNAME .
 a8clk.autoc-one.jp CNAME .
 a8clk.biomarche.jp CNAME .
-a8clk.bstyle.store CNAME .
 a8clk.camerakaitori.jp CNAME .
 a8clk.campaigns.speed-kaitori.jp CNAME .
 a8clk.chapup.jp CNAME .
@@ -181,6 +180,7 @@ a8cv.reservation.matching-photo.com CNAME .
 a8cv.sakura-forest.com CNAME .
 a8cv.shibarinashi-wifi.jp CNAME .
 a8cv.shinro.info CNAME .
+a8cv.shokubun.ec-design.co.jp CNAME .
 a8cv.shop.matsuo1956.jp CNAME .
 a8cv.signalift.com CNAME .
 a8cv.snkrdunk.com CNAME .
@@ -190,6 +190,7 @@ a8cv.store.tavenal.com CNAME .
 a8cv.str.classicmusic.tokyo CNAME .
 a8cv.t-bang.jp CNAME .
 a8cv.tfansite.jp CNAME .
+a8cv.treasure-f.com CNAME .
 a8cv.try-fs.com CNAME .
 a8cv.udition.jp CNAME .
 a8cv.unico-fan.co.jp CNAME .

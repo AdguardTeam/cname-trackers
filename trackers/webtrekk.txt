@@ -229,6 +229,7 @@
 ||web.news.imperialfashion.com^
 ||web.news.lancel.com^
 ||web.news.piquadro.com^
+||web.news.pleasefashion.com^
 ||web.news.thebridge.it^
 ||web.newsletter.viviennewestwood.com^
 ||web.online.monnalisa.com^

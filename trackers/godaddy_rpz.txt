@@ -10,5 +10,6 @@ arvb.ewtcbedtmx.ru CNAME .
 arvb.gamz48qlok.ru CNAME .
 avb-sing.ewtcbedtmx.ru CNAME .
 avbr.13wynpuurt.ru CNAME .
+dsp-image-resizer.gamz48qlok.ru CNAME .
 sing.3h1fpq39jb.ru CNAME .
 sing.wcoeaykv78.ru CNAME .

@@ -72,7 +72,6 @@
 | a8clk.audiobook.jp | trck.a8.net |
 | a8clk.autoc-one.jp | trck.a8.net |
 | a8clk.biomarche.jp | trck.a8.net |
-| a8clk.bstyle.store | trck.a8.net |
 | a8clk.camerakaitori.jp | trck.a8.net |
 | a8clk.campaigns.speed-kaitori.jp | trck.a8.net |
 | a8clk.chapup.jp | trck.a8.net |
@@ -187,6 +186,7 @@
 | a8cv.sakura-forest.com | trck.a8.net |
 | a8cv.shibarinashi-wifi.jp | trck.a8.net |
 | a8cv.shinro.info | trck.a8.net |
+| a8cv.shokubun.ec-design.co.jp | trck.a8.net |
 | a8cv.shop.matsuo1956.jp | trck.a8.net |
 | a8cv.signalift.com | trck.a8.net |
 | a8cv.snkrdunk.com | trck.a8.net |
@@ -196,6 +196,7 @@
 | a8cv.str.classicmusic.tokyo | trck.a8.net |
 | a8cv.t-bang.jp | trck.a8.net |
 | a8cv.tfansite.jp | trck.a8.net |
+| a8cv.treasure-f.com | trck.a8.net |
 | a8cv.try-fs.com | trck.a8.net |
 | a8cv.udition.jp | trck.a8.net |
 | a8cv.unico-fan.co.jp | trck.a8.net |

@@ -15,6 +15,7 @@
 | arvb.ewtcbedtmx.ru | lb.rtb.ads.bid |
 | arvb.gamz48qlok.ru | lb.rtb.ads.bid |
 | avbr.13wynpuurt.ru | lb.rtb.ads.bid |
+| dsp-image-resizer.gamz48qlok.ru | lb.rtb.ads.bid |
 | adsbid-sh-click.sing.adghndou0sdh.ru | sing.lb.rtb.ads.bid |
 | avb-sing.ewtcbedtmx.ru | sing.lb.rtb.ads.bid |
 | sing.3h1fpq39jb.ru | sing.lb.rtb.ads.bid |

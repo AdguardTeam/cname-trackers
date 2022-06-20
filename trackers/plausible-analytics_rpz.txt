@@ -103,7 +103,6 @@ external.techopian.com CNAME .
 extramilefloorcare.ericksonbuilt.com CNAME .
 f8phvntohv.tpetry.me CNAME .
 galop.leferacheval-saintcloud.com CNAME .
-gullfoss.deepsource.io CNAME .
 hej.henriksommerfeld.se CNAME .
 hi.koalendar.com CNAME .
 hi.streetworkoutlist.com CNAME .
@@ -147,7 +146,6 @@ pine.nervecentral.com CNAME .
 ping.cavelab.dev CNAME .
 ping.naturadapt.com CNAME .
 ping.richardtaylor.dev CNAME .
-piostats.gdcorner.com CNAME .
 pl.1feed.app CNAME .
 pl.astro-akatemia.fi CNAME .
 pl.astro.fi CNAME .
@@ -240,6 +238,7 @@ plausible.tac.dappstar.io CNAME .
 plausible.test.sketch.com CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.vaughanesports.org CNAME .
+plausible.virt.io CNAME .
 plausible.visitu.com CNAME .
 plausible.viteshot.com CNAME .
 plausible.west.io CNAME .
@@ -281,6 +280,7 @@ sp.gameomatic.fr CNAME .
 sp.jrklein.com CNAME .
 sp.spaceomatic.fr CNAME .
 spock.dom.codes CNAME .
+st.preciousamber.com CNAME .
 stat.bill.harding.blog CNAME .
 stat.landingpro.pl CNAME .
 stat.tomdebruijn.com CNAME .
@@ -361,7 +361,6 @@ stats.dailyposter.com CNAME .
 stats.danielwolf.photography CNAME .
 stats.dashbit.co CNAME .
 stats.davidlms.com CNAME .
-stats.dazzit.com CNAME .
 stats.deva.guru CNAME .
 stats.devenet.eu CNAME .
 stats.devenet.info CNAME .
@@ -499,6 +498,7 @@ stats.mtsknn.fi CNAME .
 stats.muchbetteradventures.com CNAME .
 stats.murrayhometextiles.ie CNAME .
 stats.mynfp.de CNAME .
+stats.mysideproject.rocks CNAME .
 stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
 stats.newslit.co CNAME .

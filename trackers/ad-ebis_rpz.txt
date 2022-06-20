@@ -36,6 +36,7 @@ adebis.fenet.jp CNAME .
 adebis.furisode-ichikura.jp CNAME .
 adebis.gfs-official.com CNAME .
 adebis.harutaka.jp CNAME .
+adebis.hotstaff.co.jp CNAME .
 adebis.irobot-jp.com CNAME .
 adebis.juku.st CNAME .
 adebis.kaonavi.jp CNAME .
@@ -62,6 +63,7 @@ adebis.toitoitoi.clinic CNAME .
 adebis.tokyuhotels.co.jp CNAME .
 adebis.toushi-up.com CNAME .
 adebis.urban-research.jp CNAME .
+adebis.zenyaku-hbshop.com CNAME .
 adebis01.job-con.jp CNAME .
 adebis02.juku.st CNAME .
 adebis8628.matsui.co.jp CNAME .
@@ -198,6 +200,7 @@ qxhydkz8.hmjdaw.ntt.com CNAME .
 seo.tkc110.jp CNAME .
 sep02.hinagiku-life.jp CNAME .
 sinceregarden.sincere-garden.jp CNAME .
+test-ad.lucia-c.com CNAME .
 tracking.mysurance.co.jp CNAME .
 tracking.nokai.jp CNAME .
 tukuru.cotta.jp CNAME .

@@ -22,6 +22,7 @@ am.belambra.com
 anz7.allianz-voyage.fr
 ar.i-run.fr
 azg1.emalu-store.com
+b1n.carabins.umontreal.ca
 b6ft.zone-turf.fr
 bch8.destinia.co
 bdj5.terrassesmontecarlosbm.com
@@ -32,6 +33,7 @@ bum7.bymycar.fr
 bvz5.destinia.com.tr
 bwj4.hrhibiza.com
 c0i.ckoi.com
+c0p.cepsum.umontreal.ca
 c4dv.copinesdevoyage.com
 cc.conforama.es
 ch.credithypo.com
@@ -61,6 +63,7 @@ ea.armandthiery.fr
 ea.assuronline.com
 ea.auchantelecom.fr
 ea.audika.com
+ea.carrefour.fr
 ea.catimini.com
 ea.ciblo.net
 ea.coffrefortplus.com
@@ -140,6 +143,7 @@ eule1.pmu.fr
 eule3.pmu.fr
 eule5.pmu.fr
 euler.pmu.fr
+eulerian.alinea.fr
 eulerian.astro-way.com
 eulerian.belambra.be
 eulerian.belambra.fr
@@ -168,7 +172,6 @@ fbu8.montecarloluxuryhotels.com
 fbu8.montecarlosbm.com
 fbu8.montecarloseasonalsale.com
 fbu8.ticket-online.montecarlolive.com
-fec1.optimhome.com
 fkwc.sfr.fr
 fl5dpe.oui.sncf
 fpb8.esce.fr
@@ -187,6 +190,7 @@ hbo5.concours-pass.com
 hby7.destinia.it
 he6e.lavieimmo.com
 hgf4.zanzicar.fr
+hk2d.tourismemauricie.com
 hkj8.evobanco.com
 idg1.idgarages.com
 inv3te.oui.sncf
