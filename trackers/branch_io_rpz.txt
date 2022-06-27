@@ -263,7 +263,6 @@ click.mail.carousell.com CNAME .
 click.mail.thecarousell.com CNAME .
 click.mail.theknot.com CNAME .
 click.marketing.carousell.com CNAME .
-click.official.nike.com CNAME .
 click.redditmail.com CNAME .
 click.sutra.co CNAME .
 click.transactional.carousell.com CNAME .
@@ -287,6 +286,7 @@ clicks.kfc.co.uk CNAME .
 clicks.lifesum.com CNAME .
 clicks.metronautapp.com CNAME .
 clicks.point.app CNAME .
+clicks.shakeshack.com CNAME .
 clicks.staging.worldremit.com CNAME .
 clicks.tunein.com CNAME .
 clicks.variis.com CNAME .
@@ -529,6 +529,7 @@ links.openfit.com CNAME .
 links.orders.kfc.com CNAME .
 links.petpartner.co CNAME .
 links.ph.discoveryplus.com CNAME .
+links.pinata.ai CNAME .
 links.playon.tv CNAME .
 links.schnucks.com CNAME .
 links.sheroes.in CNAME .
@@ -546,7 +547,6 @@ m.irl.com CNAME .
 m1.stadiumgoods.com CNAME .
 mail.blueapronwine.com CNAME .
 mail.bravado.co CNAME .
-mail.theknot.com CNAME .
 mandrillapp.zola.com CNAME .
 mlinks.fluz.app CNAME .
 mx.carfax.com CNAME .

@@ -236,6 +236,7 @@ web.online.monnalisa.com
 web.pages.lloydspharmacy.com
 web.s.sasrx.com
 web.sensilab.se
+web.sensilab.si
 web.sidsavage.com
 web.solesource.com
 web.x.ilpost.it

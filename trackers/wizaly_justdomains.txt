@@ -23,12 +23,14 @@ tk.airfrance.ie
 tk.airfrance.it
 tk.airfrance.pl
 tk.airfrance.pt
+tk.airfrance.ro
 tk.airfrance.ru
 tk.airfrance.sg
 tk.airfrance.sk
 tk.airfrance.tn
 tk.airfrance.ua
 tk.airfrance.us
+tk.airfrance.vn
 tk.alexandermcqueen.com
 tk.apprentis-auteuil.org
 tk.balenciaga.com

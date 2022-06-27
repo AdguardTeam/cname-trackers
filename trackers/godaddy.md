@@ -19,4 +19,5 @@
 | adsbid-sh-click.sing.adghndou0sdh.ru | sing.lb.rtb.ads.bid |
 | avb-sing.ewtcbedtmx.ru | sing.lb.rtb.ads.bid |
 | sing.3h1fpq39jb.ru | sing.lb.rtb.ads.bid |
+| sing.r2j97oxqvr.ru | sing.lb.rtb.ads.bid |
 | sing.wcoeaykv78.ru | sing.lb.rtb.ads.bid |

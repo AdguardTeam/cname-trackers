@@ -7,6 +7,7 @@
 ||epm.mailperformance.com^
 ||sms.gestion.cetelem.fr^
 ||t8.mailperformance.com^
+||tr.1mpc.temporium.fr^
 ||tr.3ou4xcb.cetelem.fr^
 ||tr.abo.cotemaison.fr^
 ||tr.acq-pjms.fr^
@@ -155,6 +156,7 @@
 ||tr.envie-de-bien-manger.espmp-aufr.net^
 ||tr.europa-organisation.com^
 ||tr.evenements.inpi.fr^
+||tr.expresofferte.be^
 ||tr.fidal.pro^
 ||tr.fidalformation.pro^
 ||tr.fr.pro.accor.com^
@@ -181,6 +183,7 @@
 ||tr.info.ag2rlamondiale.fr^
 ||tr.info.aprr.fr^
 ||tr.info.arialcnp.fr^
+||tr.info.bessans.com^
 ||tr.info.caissenationalegendarme.fr^
 ||tr.info.capfun.com^
 ||tr.info.casino-proximites.fr^
@@ -243,6 +246,7 @@
 ||tr.mailing.achatpublic.com^
 ||tr.mailing.lvmhappening.com^
 ||tr.mailing.r2e-humanis.fr^
+||tr.mailmp.macif.net^
 ||tr.maisonsdumonde.com^
 ||tr.marg02n.espmp-agfr.net^
 ||tr.marketing.younited-credit.com^
@@ -263,6 +267,7 @@
 ||tr.mp.aconclue-entreprise.fr^
 ||tr.mp.aconclue-pro.com^
 ||tr.mp.actu-pm.fr^
+||tr.mp.ld-man.fr^
 ||tr.mydevisentreprise.com^
 ||tr.n.ferrero.fr^
 ||tr.n.info.cdgp.fr^
@@ -381,7 +386,6 @@
 ||tr.notification.cetelem.fr^
 ||tr.notification.credit-moderne.fr^
 ||tr.notification.norrsken.fr^
-||tr.np6.co.uk^
 ||tr.np6.com^
 ||tr.np6.orange.fr^
 ||tr.observatoire.musee-orsay.fr^

@@ -32,7 +32,6 @@ b20p6lt350nt.app.polymersearch.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
 bygr2ri20e4y.li.finance CNAME .
 cqz6fn6aox.aporia.com CNAME .
-db4pnwzqdrq9.kvest.ee CNAME .
 din1j0su0u99.artwallstreet.io CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
@@ -40,6 +39,7 @@ e62ndy5gz80q.bitdomain.biz CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
 fve57b8cs74i.www.cybernetman.com CNAME .
+giy0v1igdqc1.crystalmathlabs.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .
 hkhpnqciykaf.www.gamecamp.gg CNAME .
@@ -47,6 +47,7 @@ ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 j1kmigrhwjf4.angelacampos.es CNAME .
 k5ygj3bivnrp.uae.revent.store CNAME .
+kizpfrvi518a.www.crystalmathlabs.com CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
@@ -63,7 +64,7 @@ twn36gx4109r.loveisblank.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
-vr4b5xkuvl61.www.earthclassmail.com CNAME .
+uxvytbkz25v6.www.earthclassmail.com CNAME .
 vzal21mooz.hyperwrite.ai CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
 xlvvy4msxr.coolinastore.com CNAME .

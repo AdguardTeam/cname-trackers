@@ -18,6 +18,7 @@
     * moo.extole.com
     * personalcreations-ssl.extole.com
     * purchasingpower.extole.com
+    * qalo.extole.com
     * referxoom.extole.com
     * sage-ssl.extole.com
     * sageca-ssl.extole.com
@@ -56,6 +57,7 @@
 | refer.moo.com | moo.extole.com |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
 | refer.purchasingpower.com | purchasingpower.extole.com |
+| share.qalo.com | qalo.extole.com |
 | refer.xoom.com | referxoom.extole.com |
 | refer.sage.com | sage-ssl.extole.com |
 | share.na.sage.com | sageca-ssl.extole.com |

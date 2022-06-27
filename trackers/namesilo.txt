@@ -36,6 +36,7 @@
 ||3283088.notifysrv.com^
 ||3285792.notifysrv.com^
 ||3286068.notify6.com^
+||3286068.notifysrv.com^
 ||3290250.notifysrv.com^
 ||3294260.notify6.com^
 ||3300890.notifysrv.com^
@@ -53,6 +54,7 @@
 ||3329496.notifysrv.com^
 ||3329726.notifysrv.com^
 ||3344944.notifysrv.com^
+||3345712.notifysrv.com^
 ||3346174.notify6.com^
 ||3347188.notify6.com^
 ||3348424.notify6.com^
@@ -98,11 +100,13 @@
 ||3476453.notifysrv.com^
 ||3478737.notifysrv.com^
 ||3483067.notifysrv.com^
+||3493753.notifysrv.com^
 ||3498171.notify6.com^
 ||3501655.notify6.com^
 ||3505135.notifysrv.com^
 ||3505139.notify6.com^
 ||3508819.notify6.com^
+||3512011.notifysrv.com^
 ||3518183.notifysrv.com^
 ||3520653.notifysrv.com^
 ||3521363.notifysrv.com^
@@ -121,6 +125,7 @@
 ||3572273.notify6.com^
 ||3572273.notifysrv.com^
 ||3572277.notifysrv.com^
+||3572291.notify6.com^
 ||3572293.notifysrv.com^
 ||3572299.notifysrv.com^
 ||3572303.notifysrv.com^
@@ -161,6 +166,7 @@
 ||3670119.notifysrv.com^
 ||3672243.notifysrv.com^
 ||3682345.notifysrv.com^
+||3701725.notifysrv.com^
 ||3710069.notifysrv.com^
 ||3714181.notifysrv.com^
 ||3715633.notifysrv.com^
@@ -196,6 +202,7 @@
 ||3881818.notify6.com^
 ||3887544.notify6.com^
 ||3898280.notify6.com^
+||3903164.notify6.com^
 ||3917542.notify6.com^
 ||3921002.notify6.com^
 ||3935380.notify6.com^
@@ -247,6 +254,7 @@
 ||4173050.notify6.com^
 ||4182036.notify6.com^
 ||4188246.notify6.com^
+||4189280.notify6.com^
 ||4191292.notify6.com^
 ||4197730.notify6.com^
 ||4211854.notify6.com^
@@ -261,6 +269,7 @@
 ||4270618.notify6.com^
 ||4274618.notify6.com^
 ||4290976.notify6.com^
+||4298194.notify6.com^
 ||4327052.notify6.com^
 ||4329288.notify6.com^
 ||4329292.notify6.com^
@@ -273,6 +282,7 @@
 ||4421184.notify6.com^
 ||4454624.notify6.com^
 ||4455804.notify6.com^
+||4470554.notify6.com^
 ||4539496.notify6.com^
 ||4587228.notify6.com^
 ||4598410.notify6.com^
@@ -299,6 +309,7 @@
 ||s.eaalink.com^
 ||s.elink2b.com^
 ||s.elink2c.com^
+||s.elink3x.com^
 ||s.elnk40.com^
 ||s.elnk4b.com^
 ||s.elnk66.com^
@@ -308,8 +319,10 @@
 ||s.linkv3c.com^
 ||s.linkw2g.com^
 ||s.opoxv.com^
+||s.opti-digital.com^
 ||s.optidigital.com^
 ||s.optnx.com^
+||s.orbsrv.com^
 ||s.st1net.com^
 ||s.vlink6.com^
 ||s.wlink1.com^
@@ -349,6 +362,7 @@
 !
 ! cds.d6n9n7e2.hwcdn.net disguised trackers
 !
+||a.etology.com^
 ||a.exdynsrv.com^
 ||a.exoclick.com^
 ||a.exosrv.com^

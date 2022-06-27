@@ -12,6 +12,7 @@
 | epm.mailperformance.com | tracking.bp01.net |
 | sms.gestion.cetelem.fr | tracking.bp01.net |
 | t8.mailperformance.com | tracking.bp01.net |
+| tr.1mpc.temporium.fr | tracking.bp01.net |
 | tr.3ou4xcb.cetelem.fr | tracking.bp01.net |
 | tr.abo.cotemaison.fr | tracking.bp01.net |
 | tr.acq-pjms.fr | tracking.bp01.net |
@@ -160,6 +161,7 @@
 | tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
 | tr.europa-organisation.com | tracking.bp01.net |
 | tr.evenements.inpi.fr | tracking.bp01.net |
+| tr.expresofferte.be | tracking.bp01.net |
 | tr.fidal.pro | tracking.bp01.net |
 | tr.fidalformation.pro | tracking.bp01.net |
 | tr.fr.pro.accor.com | tracking.bp01.net |
@@ -186,6 +188,7 @@
 | tr.info.ag2rlamondiale.fr | tracking.bp01.net |
 | tr.info.aprr.fr | tracking.bp01.net |
 | tr.info.arialcnp.fr | tracking.bp01.net |
+| tr.info.bessans.com | tracking.bp01.net |
 | tr.info.caissenationalegendarme.fr | tracking.bp01.net |
 | tr.info.capfun.com | tracking.bp01.net |
 | tr.info.casino-proximites.fr | tracking.bp01.net |
@@ -248,6 +251,7 @@
 | tr.mailing.achatpublic.com | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
 | tr.mailing.r2e-humanis.fr | tracking.bp01.net |
+| tr.mailmp.macif.net | tracking.bp01.net |
 | tr.maisonsdumonde.com | tracking.bp01.net |
 | tr.marg02n.espmp-agfr.net | tracking.bp01.net |
 | tr.marketing.younited-credit.com | tracking.bp01.net |
@@ -268,6 +272,7 @@
 | tr.mp.aconclue-entreprise.fr | tracking.bp01.net |
 | tr.mp.aconclue-pro.com | tracking.bp01.net |
 | tr.mp.actu-pm.fr | tracking.bp01.net |
+| tr.mp.ld-man.fr | tracking.bp01.net |
 | tr.mydevisentreprise.com | tracking.bp01.net |
 | tr.n.ferrero.fr | tracking.bp01.net |
 | tr.n.info.cdgp.fr | tracking.bp01.net |
@@ -386,7 +391,6 @@
 | tr.notification.cetelem.fr | tracking.bp01.net |
 | tr.notification.credit-moderne.fr | tracking.bp01.net |
 | tr.notification.norrsken.fr | tracking.bp01.net |
-| tr.np6.co.uk | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |
 | tr.np6.orange.fr | tracking.bp01.net |
 | tr.observatoire.musee-orsay.fr | tracking.bp01.net |

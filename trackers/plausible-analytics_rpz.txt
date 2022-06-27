@@ -103,6 +103,7 @@ external.techopian.com CNAME .
 extramilefloorcare.ericksonbuilt.com CNAME .
 f8phvntohv.tpetry.me CNAME .
 galop.leferacheval-saintcloud.com CNAME .
+health.melly.de CNAME .
 hej.henriksommerfeld.se CNAME .
 hi.koalendar.com CNAME .
 hi.streetworkoutlist.com CNAME .
@@ -418,7 +419,6 @@ stats.hey.science CNAME .
 stats.homeandgardenmakeover.com CNAME .
 stats.homerdixon.com CNAME .
 stats.homestow.com CNAME .
-stats.hone.uk CNAME .
 stats.hostfactor.io CNAME .
 stats.hpz-scharnhausen.de CNAME .
 stats.htmlcsstoimage.com CNAME .
@@ -479,7 +479,6 @@ stats.madeit.io CNAME .
 stats.maferland.com CNAME .
 stats.martinbetz.eu CNAME .
 stats.martyntaylor.com CNAME .
-stats.marudor.de CNAME .
 stats.mashword.com CNAME .
 stats.mastermeup.com CNAME .
 stats.matthiasloibl.com CNAME .
@@ -496,8 +495,8 @@ stats.motorcyclepartsireland.ie CNAME .
 stats.motornation.net CNAME .
 stats.mtsknn.fi CNAME .
 stats.muchbetteradventures.com CNAME .
+stats.multiply.cloud CNAME .
 stats.murrayhometextiles.ie CNAME .
-stats.mynfp.de CNAME .
 stats.mysideproject.rocks CNAME .
 stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
@@ -634,6 +633,7 @@ stats.training.fit CNAME .
 stats.travelfodder.com CNAME .
 stats.tresor.one CNAME .
 stats.trimbles.ie CNAME .
+stats.trussed.dev CNAME .
 stats.tsas.ca CNAME .
 stats.tubecalculator.co.uk CNAME .
 stats.twenty.so CNAME .

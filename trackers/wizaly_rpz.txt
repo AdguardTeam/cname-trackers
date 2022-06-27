@@ -23,12 +23,14 @@ tk.airfrance.ie CNAME .
 tk.airfrance.it CNAME .
 tk.airfrance.pl CNAME .
 tk.airfrance.pt CNAME .
+tk.airfrance.ro CNAME .
 tk.airfrance.ru CNAME .
 tk.airfrance.sg CNAME .
 tk.airfrance.sk CNAME .
 tk.airfrance.tn CNAME .
 tk.airfrance.ua CNAME .
 tk.airfrance.us CNAME .
+tk.airfrance.vn CNAME .
 tk.alexandermcqueen.com CNAME .
 tk.apprentis-auteuil.org CNAME .
 tk.balenciaga.com CNAME .

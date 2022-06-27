@@ -36,6 +36,7 @@
 3283088.notifysrv.com CNAME .
 3285792.notifysrv.com CNAME .
 3286068.notify6.com CNAME .
+3286068.notifysrv.com CNAME .
 3290250.notifysrv.com CNAME .
 3294260.notify6.com CNAME .
 3300890.notifysrv.com CNAME .
@@ -53,6 +54,7 @@
 3329496.notifysrv.com CNAME .
 3329726.notifysrv.com CNAME .
 3344944.notifysrv.com CNAME .
+3345712.notifysrv.com CNAME .
 3346174.notify6.com CNAME .
 3347188.notify6.com CNAME .
 3348424.notify6.com CNAME .
@@ -98,11 +100,13 @@
 3476453.notifysrv.com CNAME .
 3478737.notifysrv.com CNAME .
 3483067.notifysrv.com CNAME .
+3493753.notifysrv.com CNAME .
 3498171.notify6.com CNAME .
 3501655.notify6.com CNAME .
 3505135.notifysrv.com CNAME .
 3505139.notify6.com CNAME .
 3508819.notify6.com CNAME .
+3512011.notifysrv.com CNAME .
 3518183.notifysrv.com CNAME .
 3520653.notifysrv.com CNAME .
 3521363.notifysrv.com CNAME .
@@ -121,6 +125,7 @@
 3572273.notify6.com CNAME .
 3572273.notifysrv.com CNAME .
 3572277.notifysrv.com CNAME .
+3572291.notify6.com CNAME .
 3572293.notifysrv.com CNAME .
 3572299.notifysrv.com CNAME .
 3572303.notifysrv.com CNAME .
@@ -161,6 +166,7 @@
 3670119.notifysrv.com CNAME .
 3672243.notifysrv.com CNAME .
 3682345.notifysrv.com CNAME .
+3701725.notifysrv.com CNAME .
 3710069.notifysrv.com CNAME .
 3714181.notifysrv.com CNAME .
 3715633.notifysrv.com CNAME .
@@ -196,6 +202,7 @@
 3881818.notify6.com CNAME .
 3887544.notify6.com CNAME .
 3898280.notify6.com CNAME .
+3903164.notify6.com CNAME .
 3917542.notify6.com CNAME .
 3921002.notify6.com CNAME .
 3935380.notify6.com CNAME .
@@ -247,6 +254,7 @@
 4173050.notify6.com CNAME .
 4182036.notify6.com CNAME .
 4188246.notify6.com CNAME .
+4189280.notify6.com CNAME .
 4191292.notify6.com CNAME .
 4197730.notify6.com CNAME .
 4211854.notify6.com CNAME .
@@ -261,6 +269,7 @@
 4270618.notify6.com CNAME .
 4274618.notify6.com CNAME .
 4290976.notify6.com CNAME .
+4298194.notify6.com CNAME .
 4327052.notify6.com CNAME .
 4329288.notify6.com CNAME .
 4329292.notify6.com CNAME .
@@ -273,6 +282,7 @@
 4421184.notify6.com CNAME .
 4454624.notify6.com CNAME .
 4455804.notify6.com CNAME .
+4470554.notify6.com CNAME .
 4539496.notify6.com CNAME .
 4587228.notify6.com CNAME .
 4598410.notify6.com CNAME .
@@ -299,6 +309,7 @@ rtb.exoclick.com CNAME .
 s.eaalink.com CNAME .
 s.elink2b.com CNAME .
 s.elink2c.com CNAME .
+s.elink3x.com CNAME .
 s.elnk40.com CNAME .
 s.elnk4b.com CNAME .
 s.elnk66.com CNAME .
@@ -308,8 +319,10 @@ s.exv6.com CNAME .
 s.linkv3c.com CNAME .
 s.linkw2g.com CNAME .
 s.opoxv.com CNAME .
+s.opti-digital.com CNAME .
 s.optidigital.com CNAME .
 s.optnx.com CNAME .
+s.orbsrv.com CNAME .
 s.st1net.com CNAME .
 s.vlink6.com CNAME .
 s.wlink1.com CNAME .
@@ -349,6 +362,7 @@ www.notifysrv.com CNAME .
 ;
 ; cds.d6n9n7e2.hwcdn.net disguised trackers
 ;
+a.etology.com CNAME .
 a.exdynsrv.com CNAME .
 a.exoclick.com CNAME .
 a.exosrv.com CNAME .

@@ -263,7 +263,6 @@ click.mail.carousell.com
 click.mail.thecarousell.com
 click.mail.theknot.com
 click.marketing.carousell.com
-click.official.nike.com
 click.redditmail.com
 click.sutra.co
 click.transactional.carousell.com
@@ -287,6 +286,7 @@ clicks.kfc.co.uk
 clicks.lifesum.com
 clicks.metronautapp.com
 clicks.point.app
+clicks.shakeshack.com
 clicks.staging.worldremit.com
 clicks.tunein.com
 clicks.variis.com
@@ -529,6 +529,7 @@ links.openfit.com
 links.orders.kfc.com
 links.petpartner.co
 links.ph.discoveryplus.com
+links.pinata.ai
 links.playon.tv
 links.schnucks.com
 links.sheroes.in
@@ -546,7 +547,6 @@ m.irl.com
 m1.stadiumgoods.com
 mail.blueapronwine.com
 mail.bravado.co
-mail.theknot.com
 mandrillapp.zola.com
 mlinks.fluz.app
 mx.carfax.com

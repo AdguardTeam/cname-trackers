@@ -7,6 +7,7 @@ emailing.casden.banquepopulaire.fr CNAME .
 epm.mailperformance.com CNAME .
 sms.gestion.cetelem.fr CNAME .
 t8.mailperformance.com CNAME .
+tr.1mpc.temporium.fr CNAME .
 tr.3ou4xcb.cetelem.fr CNAME .
 tr.abo.cotemaison.fr CNAME .
 tr.acq-pjms.fr CNAME .
@@ -155,6 +156,7 @@ tr.entreprise-pro.info CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net CNAME .
 tr.europa-organisation.com CNAME .
 tr.evenements.inpi.fr CNAME .
+tr.expresofferte.be CNAME .
 tr.fidal.pro CNAME .
 tr.fidalformation.pro CNAME .
 tr.fr.pro.accor.com CNAME .
@@ -181,6 +183,7 @@ tr.info.actionlogement.fr CNAME .
 tr.info.ag2rlamondiale.fr CNAME .
 tr.info.aprr.fr CNAME .
 tr.info.arialcnp.fr CNAME .
+tr.info.bessans.com CNAME .
 tr.info.caissenationalegendarme.fr CNAME .
 tr.info.capfun.com CNAME .
 tr.info.casino-proximites.fr CNAME .
@@ -243,6 +246,7 @@ tr.mail.vipmag.fr CNAME .
 tr.mailing.achatpublic.com CNAME .
 tr.mailing.lvmhappening.com CNAME .
 tr.mailing.r2e-humanis.fr CNAME .
+tr.mailmp.macif.net CNAME .
 tr.maisonsdumonde.com CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.younited-credit.com CNAME .
@@ -263,6 +267,7 @@ tr.mp.aconclue-business.fr CNAME .
 tr.mp.aconclue-entreprise.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
 tr.mp.actu-pm.fr CNAME .
+tr.mp.ld-man.fr CNAME .
 tr.mydevisentreprise.com CNAME .
 tr.n.ferrero.fr CNAME .
 tr.n.info.cdgp.fr CNAME .
@@ -381,7 +386,6 @@ tr.notification.cdiscount.com CNAME .
 tr.notification.cetelem.fr CNAME .
 tr.notification.credit-moderne.fr CNAME .
 tr.notification.norrsken.fr CNAME .
-tr.np6.co.uk CNAME .
 tr.np6.com CNAME .
 tr.np6.orange.fr CNAME .
 tr.observatoire.musee-orsay.fr CNAME .

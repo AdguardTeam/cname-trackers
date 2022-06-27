@@ -38,10 +38,9 @@ a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.flizmovies.cc CNAME .
 a.focusde.info CNAME .
-a.gaypornlove.net CNAME .
-a.gayvideo.me CNAME .
 a.green-good-nice.site CNAME .
 a.hentai369.com CNAME .
+a.hentaitube.icu CNAME .
 a.kagiti.club CNAME .
 a.katomu.club CNAME .
 a.letsjerk.org CNAME .
@@ -144,6 +143,8 @@ cdfr.hot4k.org CNAME .
 cdn3.hentaihand.com CNAME .
 cdn3.hentaihaven.fun CNAME .
 cdnvid.com CNAME .
+chartlon.skin CNAME .
+chen.pepelela.mom CNAME .
 chrome-loading.car-insurance-reviews.com CNAME .
 client2009x25.xcdn.ovh CNAME .
 coco.rockdilla.com CNAME .
@@ -199,6 +200,7 @@ j45.webringporn.com CNAME .
 js.mangapro.top CNAME .
 js.xemkqxs.com CNAME .
 ka.kakakakaka.xyz CNAME .
+khoa.jqk.lol CNAME .
 kliqz.com CNAME .
 kuhdsysdas.indexsubtitle.com CNAME .
 l.rated.sex CNAME .
@@ -293,11 +295,13 @@ theporndude.com.1111supjavcom.xyz CNAME .
 thescript.javfinder.xyz CNAME .
 thetranny.online CNAME .
 tik.boldtur.xyz CNAME .
+tip.vipz.lol CNAME .
 tlv.ui02.com CNAME .
 tom.beclin.xyz CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 turbo.binande.xyz CNAME .
+ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
 uthbxvz.bestzba.com CNAME .
 v.focusde.info CNAME .
@@ -320,6 +324,7 @@ www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.lechoncito.one CNAME .
 www.letstry69.xyz CNAME .
+www.plantomgeforce.online CNAME .
 www.sex1.party CNAME .
 www.u808i.com CNAME .
 www.ucdn.website CNAME .
@@ -331,6 +336,7 @@ www6.hentai-zone.com CNAME .
 www8.upload-pics.com CNAME .
 x1cdn.fin.ovh CNAME .
 x2sfa.javgg.eu CNAME .
+xau.pongping.mom CNAME .
 xxxlove.rooski.net CNAME .
 z.rklmcdn.com CNAME .
 z0000g.yvmads.com CNAME .

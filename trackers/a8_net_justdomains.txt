@@ -10,6 +10,7 @@ a8.abemashopping.jp
 a8.brandcosme.com
 a8.cocomeister.jp
 a8.cyclemarket.jp
+a8.degicashop.com
 a8.denki-koji.work
 a8.denwa-hikari.com
 a8.eonet.jp
@@ -37,6 +38,7 @@ a8.pcnext.shop
 a8.print-netsquare.com
 a8.rank-quest.jp
 a8.remix-denki.com
+a8.ringbell.co.jp
 a8.route-roller.info
 a8.sakuratravel.jp
 a8.sennendo.jp
@@ -128,6 +130,7 @@ a8clk.wi-ho.net
 a8clk.www.autoway.jp
 a8clk.www.cledepeau-beaute.com
 a8clk.www.clip-studio.com
+a8clk.www.ka-nabell.com
 a8clk.www.nortonstore.jp
 a8clk.xserver.ne.jp
 a8clk.yourmystar.jp
@@ -220,6 +223,7 @@ a8trck.worldone.to
 a8trk.www.std-lab.jp
 acv.cmf-hikari.net
 ad.ichiban-boshi.com
+ad.rejichoice.jp
 afi.biyou.web-marketing.ai
 afi.school.web-marketing.ai
 afi.sougou.web-marketing.ai

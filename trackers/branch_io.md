@@ -272,7 +272,6 @@
 | click.mail.thecarousell.com | thirdparty.bnc.lt |
 | click.mail.theknot.com | thirdparty.bnc.lt |
 | click.marketing.carousell.com | thirdparty.bnc.lt |
-| click.official.nike.com | thirdparty.bnc.lt |
 | click.redditmail.com | thirdparty.bnc.lt |
 | click.sutra.co | thirdparty.bnc.lt |
 | click.transactional.carousell.com | thirdparty.bnc.lt |
@@ -295,6 +294,7 @@
 | clicks.lifesum.com | thirdparty.bnc.lt |
 | clicks.metronautapp.com | thirdparty.bnc.lt |
 | clicks.point.app | thirdparty.bnc.lt |
+| clicks.shakeshack.com | thirdparty.bnc.lt |
 | clicks.staging.worldremit.com | thirdparty.bnc.lt |
 | clicks.tunein.com | thirdparty.bnc.lt |
 | clicks.variis.com | thirdparty.bnc.lt |
@@ -536,6 +536,7 @@
 | links.orders.kfc.com | thirdparty.bnc.lt |
 | links.petpartner.co | thirdparty.bnc.lt |
 | links.ph.discoveryplus.com | thirdparty.bnc.lt |
+| links.pinata.ai | thirdparty.bnc.lt |
 | links.playon.tv | thirdparty.bnc.lt |
 | links.schnucks.com | thirdparty.bnc.lt |
 | links.sheroes.in | thirdparty.bnc.lt |
@@ -553,7 +554,6 @@
 | m1.stadiumgoods.com | thirdparty.bnc.lt |
 | mail.blueapronwine.com | thirdparty.bnc.lt |
 | mail.bravado.co | thirdparty.bnc.lt |
-| mail.theknot.com | thirdparty.bnc.lt |
 | mandrillapp.zola.com | thirdparty.bnc.lt |
 | mlinks.fluz.app | thirdparty.bnc.lt |
 | mx.carfax.com | thirdparty.bnc.lt |

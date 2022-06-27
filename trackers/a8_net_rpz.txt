@@ -10,6 +10,7 @@ a8.abemashopping.jp CNAME .
 a8.brandcosme.com CNAME .
 a8.cocomeister.jp CNAME .
 a8.cyclemarket.jp CNAME .
+a8.degicashop.com CNAME .
 a8.denki-koji.work CNAME .
 a8.denwa-hikari.com CNAME .
 a8.eonet.jp CNAME .
@@ -37,6 +38,7 @@ a8.pcnext.shop CNAME .
 a8.print-netsquare.com CNAME .
 a8.rank-quest.jp CNAME .
 a8.remix-denki.com CNAME .
+a8.ringbell.co.jp CNAME .
 a8.route-roller.info CNAME .
 a8.sakuratravel.jp CNAME .
 a8.sennendo.jp CNAME .
@@ -128,6 +130,7 @@ a8clk.wi-ho.net CNAME .
 a8clk.www.autoway.jp CNAME .
 a8clk.www.cledepeau-beaute.com CNAME .
 a8clk.www.clip-studio.com CNAME .
+a8clk.www.ka-nabell.com CNAME .
 a8clk.www.nortonstore.jp CNAME .
 a8clk.xserver.ne.jp CNAME .
 a8clk.yourmystar.jp CNAME .
@@ -220,6 +223,7 @@ a8trck.worldone.to CNAME .
 a8trk.www.std-lab.jp CNAME .
 acv.cmf-hikari.net CNAME .
 ad.ichiban-boshi.com CNAME .
+ad.rejichoice.jp CNAME .
 afi.biyou.web-marketing.ai CNAME .
 afi.school.web-marketing.ai CNAME .
 afi.sougou.web-marketing.ai CNAME .

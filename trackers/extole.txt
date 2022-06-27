@@ -29,6 +29,7 @@
 ||refer.xoom.com^
 ||referral.hostgator.com^
 ||share.na.sage.com^
+||share.qalo.com^
 ||share.vimeo.com^
 ||tellapal.register.com^
 !

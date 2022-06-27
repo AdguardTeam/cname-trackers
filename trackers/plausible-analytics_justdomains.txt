@@ -103,6 +103,7 @@ external.techopian.com
 extramilefloorcare.ericksonbuilt.com
 f8phvntohv.tpetry.me
 galop.leferacheval-saintcloud.com
+health.melly.de
 hej.henriksommerfeld.se
 hi.koalendar.com
 hi.streetworkoutlist.com
@@ -418,7 +419,6 @@ stats.hey.science
 stats.homeandgardenmakeover.com
 stats.homerdixon.com
 stats.homestow.com
-stats.hone.uk
 stats.hostfactor.io
 stats.hpz-scharnhausen.de
 stats.htmlcsstoimage.com
@@ -479,7 +479,6 @@ stats.madeit.io
 stats.maferland.com
 stats.martinbetz.eu
 stats.martyntaylor.com
-stats.marudor.de
 stats.mashword.com
 stats.mastermeup.com
 stats.matthiasloibl.com
@@ -496,8 +495,8 @@ stats.motorcyclepartsireland.ie
 stats.motornation.net
 stats.mtsknn.fi
 stats.muchbetteradventures.com
+stats.multiply.cloud
 stats.murrayhometextiles.ie
-stats.mynfp.de
 stats.mysideproject.rocks
 stats.nddmed.com
 stats.nerdbusiness.com
@@ -634,6 +633,7 @@ stats.training.fit
 stats.travelfodder.com
 stats.tresor.one
 stats.trimbles.ie
+stats.trussed.dev
 stats.tsas.ca
 stats.tubecalculator.co.uk
 stats.twenty.so

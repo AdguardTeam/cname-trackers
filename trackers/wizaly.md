@@ -97,12 +97,14 @@
 | tk.airfrance.it | tkairfrance.wizaly.com |
 | tk.airfrance.pl | tkairfrance.wizaly.com |
 | tk.airfrance.pt | tkairfrance.wizaly.com |
+| tk.airfrance.ro | tkairfrance.wizaly.com |
 | tk.airfrance.ru | tkairfrance.wizaly.com |
 | tk.airfrance.sg | tkairfrance.wizaly.com |
 | tk.airfrance.sk | tkairfrance.wizaly.com |
 | tk.airfrance.tn | tkairfrance.wizaly.com |
 | tk.airfrance.ua | tkairfrance.wizaly.com |
 | tk.airfrance.us | tkairfrance.wizaly.com |
+| tk.airfrance.vn | tkairfrance.wizaly.com |
 | tk.klm.com | tkairfrance.wizaly.com |
 | tk.lolivier.fr | tklolivierfr.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |

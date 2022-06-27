@@ -236,6 +236,7 @@ web.online.monnalisa.com CNAME .
 web.pages.lloydspharmacy.com CNAME .
 web.s.sasrx.com CNAME .
 web.sensilab.se CNAME .
+web.sensilab.si CNAME .
 web.sidsavage.com CNAME .
 web.solesource.com CNAME .
 web.x.ilpost.it CNAME .
