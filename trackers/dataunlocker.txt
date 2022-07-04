@@ -20,7 +20,6 @@
 ||2qqfxz5kecr4.www.eldorado.gg^
 ||2rid9fii9chx.www.atlaslane.com^
 ||3l0zszdzjhpw.www.comicleaks.com^
-||6s1rz919x1ws.www.earthclassmail.com^
 ||76zvoxo5yx0l.www.eldorado.gg^
 ||78rkcgj4i8c6.www.cefirates.com^
 ||8ehhtsv9bo7i.monkeylearn.com^
@@ -37,6 +36,7 @@
 ||e5obq1v261.www.lurkit.com^
 ||e62ndy5gz80q.bitdomain.biz^
 ||f0tiojboxnc1.bitdomain.biz^
+||fb7syy5wn9hl.blog.abhijith.page^
 ||fq9vy0muyqi3.www.madrigalmaps.com^
 ||fve57b8cs74i.www.cybernetman.com^
 ||giy0v1igdqc1.crystalmathlabs.com^
@@ -46,9 +46,11 @@
 ||ivrnfvlcgubm.www.cefirates.com^
 ||iwl2d7pa4yx1.www.logology.co^
 ||j1kmigrhwjf4.angelacampos.es^
+||jz4s9dhrngge.www.earthclassmail.com^
 ||k5ygj3bivnrp.uae.revent.store^
 ||kizpfrvi518a.www.crystalmathlabs.com^
 ||kn81kivjwwc7.www.logology.co^
+||li3k4d70ig52.resourceya.com^
 ||lv6od3a4sz12.www.logology.co^
 ||m6c4t9vmqarj.www.cefirates.com^
 ||mh9qqwotr890.koelewijn.nl^

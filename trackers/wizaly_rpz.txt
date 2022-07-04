@@ -41,6 +41,7 @@ tk.dietbon.fr CNAME .
 tk.domitys.fr CNAME .
 tk.engie.fr CNAME .
 tk.healthwarehouse.com CNAME .
+tk.hypnia.fr CNAME .
 tk.jeux.loro.ch CNAME .
 tk.kidsaround.com CNAME .
 tk.kitchendiet.fr CNAME .

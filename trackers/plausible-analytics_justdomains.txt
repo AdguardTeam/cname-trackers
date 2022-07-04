@@ -334,6 +334,7 @@ stats.catholicluv.com
 stats.centerforvalues.international
 stats.centralswindonnorth-pc.gov.uk
 stats.cfcasts.com
+stats.chadly.net
 stats.challengehub.app
 stats.changelog.com
 stats.chapterist.show
@@ -488,7 +489,6 @@ stats.melvingeorge.me
 stats.menn.blog
 stats.mesenvies.fr
 stats.missionrabies.com
-stats.mkwtas.com
 stats.mmazzarolo.com
 stats.motion-effect.com
 stats.motorcyclepartsireland.ie

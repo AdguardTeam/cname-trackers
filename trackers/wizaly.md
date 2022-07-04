@@ -16,6 +16,7 @@
     * tk-domitys-fr.wizaly.com
     * tk-engie-com.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
+    * tk-hypnia-fr.wizaly.com
     * tk-jeux-loro-ch.wizaly.com
     * tk-kidsaround-com.wizaly.com
     * tk-kitchendiet-fr.wizaly.com
@@ -59,6 +60,7 @@
 | tk.domitys.fr | tk-domitys-fr.wizaly.com |
 | tk.engie.fr | tk-engie-com.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |
+| tk.hypnia.fr | tk-hypnia-fr.wizaly.com |
 | tk.jeux.loro.ch | tk-jeux-loro-ch.wizaly.com |
 | tk.kidsaround.com | tk-kidsaround-com.wizaly.com |
 | tk.kitchendiet.fr | tk-kitchendiet-fr.wizaly.com |

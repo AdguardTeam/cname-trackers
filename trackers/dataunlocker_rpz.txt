@@ -20,7 +20,6 @@
 2qqfxz5kecr4.www.eldorado.gg CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
-6s1rz919x1ws.www.earthclassmail.com CNAME .
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
@@ -37,6 +36,7 @@ dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
+fb7syy5wn9hl.blog.abhijith.page CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
 fve57b8cs74i.www.cybernetman.com CNAME .
 giy0v1igdqc1.crystalmathlabs.com CNAME .
@@ -46,9 +46,11 @@ hkhpnqciykaf.www.gamecamp.gg CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 j1kmigrhwjf4.angelacampos.es CNAME .
+jz4s9dhrngge.www.earthclassmail.com CNAME .
 k5ygj3bivnrp.uae.revent.store CNAME .
 kizpfrvi518a.www.crystalmathlabs.com CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
+li3k4d70ig52.resourceya.com CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .

@@ -182,6 +182,7 @@
     * caf7dafd-s02edfsx.cname.ebis.ne.jp
     * cb8eb280-2eexez7z.cname.ebis.ne.jp
     * ce122a7c-hgyagqzw.cname.ebis.ne.jp
+    * ceac5848-la9aykxs.cname.ebis.ne.jp
     * ceac5848-wpvbdb7j.cname.ebis.ne.jp
     * ced1998e-sj9u6ch7.cname.ebis.ne.jp
     * cf63b709-gczbzv7s.cname.ebis.ne.jp
@@ -395,6 +396,7 @@
 | ebis.tokado.jp | caf7dafd-s02edfsx.cname.ebis.ne.jp |
 | bbbb.goace.jp | cb8eb280-2eexez7z.cname.ebis.ne.jp |
 | ebis.kubara.jp | ce122a7c-hgyagqzw.cname.ebis.ne.jp |
+| adnl.bk.mufg.jp | ceac5848-la9aykxs.cname.ebis.ne.jp |
 | adbq.bk.mufg.jp | ceac5848-wpvbdb7j.cname.ebis.ne.jp |
 | ad.tempstaff.co.jp | ced1998e-sj9u6ch7.cname.ebis.ne.jp |
 | ebis.macchialabel.com | cf63b709-gczbzv7s.cname.ebis.ne.jp |

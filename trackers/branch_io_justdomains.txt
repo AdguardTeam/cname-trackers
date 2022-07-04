@@ -346,6 +346,7 @@ email.mail.floatme.io
 email.mail.primexbt.com
 email.member.theknot.com
 email.mg.everyonesocial.com
+email.msg.workday.com
 email.pac-12.com
 email.pray.com
 email.social.f5.com
@@ -421,7 +422,6 @@ link.hello2-sg.circles.life
 link.hey.mypostcard.com
 link.im.intermiles.com
 link.info.myfitnesspal.com
-link.kdkmoments.com
 link.kingsnews.whopper.co.za
 link.loyalty.almosafer.com
 link.loyalty.tajawal.com
@@ -614,6 +614,7 @@ trklink.luisaviaroma.com
 url1020.keycollectorcomics.com
 url1451.careerkarma.info
 url3630.newsletter.experience-muse.com
+url3788.blazepizza.com
 url7424.email.readytotravel.com
 url7542.fluz.app
 url7674.fitgenieapp.com

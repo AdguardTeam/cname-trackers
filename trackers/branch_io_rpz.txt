@@ -346,6 +346,7 @@ email.mail.floatme.io CNAME .
 email.mail.primexbt.com CNAME .
 email.member.theknot.com CNAME .
 email.mg.everyonesocial.com CNAME .
+email.msg.workday.com CNAME .
 email.pac-12.com CNAME .
 email.pray.com CNAME .
 email.social.f5.com CNAME .
@@ -421,7 +422,6 @@ link.hello2-sg.circles.life CNAME .
 link.hey.mypostcard.com CNAME .
 link.im.intermiles.com CNAME .
 link.info.myfitnesspal.com CNAME .
-link.kdkmoments.com CNAME .
 link.kingsnews.whopper.co.za CNAME .
 link.loyalty.almosafer.com CNAME .
 link.loyalty.tajawal.com CNAME .
@@ -614,6 +614,7 @@ trklink.luisaviaroma.com CNAME .
 url1020.keycollectorcomics.com CNAME .
 url1451.careerkarma.info CNAME .
 url3630.newsletter.experience-muse.com CNAME .
+url3788.blazepizza.com CNAME .
 url7424.email.readytotravel.com CNAME .
 url7542.fluz.app CNAME .
 url7674.fitgenieapp.com CNAME .

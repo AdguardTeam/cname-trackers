@@ -8,6 +8,8 @@
     * a-pourquoidocteur-fr-cddc.at-o.net
     * a1-api-bbc-co-uk-cddc.at-o.net
     * abncx-amv-fr-cddc.at-o.net
+    * ama-planet-wissen-de-cddc.at-o.net
+    * ama-wdr-de-cddc.at-o.net
     * ana-tv5unis-ca-cddc.at-o.net
     * arrietty-nrj-fr-cddc.at-o.net
     * at-badische-zeitung-de-cddc.at-o.net
@@ -112,6 +114,8 @@
 | a1.api.bbc.co.uk | a1-api-bbc-co-uk-cddc.at-o.net |
 | ati-a1.946d001b783803c1.xhst.bbci.co.uk | a1-api-bbc-co-uk-cddc.at-o.net |
 | abncx.amv.fr | abncx-amv-fr-cddc.at-o.net |
+| ama.planet-wissen.de | ama-planet-wissen-de-cddc.at-o.net |
+| ama.wdr.de | ama-wdr-de-cddc.at-o.net |
 | ana.tv5unis.ca | ana-tv5unis-ca-cddc.at-o.net |
 | arrietty.nrj.fr | arrietty-nrj-fr-cddc.at-o.net |
 | at.badische-zeitung.de | at-badische-zeitung-de-cddc.at-o.net |

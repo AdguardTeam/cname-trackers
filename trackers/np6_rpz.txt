@@ -14,6 +14,7 @@ tr.acq-pjms.fr CNAME .
 tr.activeprospects.info CNAME .
 tr.actu-companeo.com CNAME .
 tr.actu.bricodepot.com CNAME .
+tr.actu.rmcbfmplay.com CNAME .
 tr.actualites.01net.com CNAME .
 tr.actualites.bfmtv.com CNAME .
 tr.actupremium.com CNAME .
@@ -24,6 +25,7 @@ tr.animations.bfmtv.com CNAME .
 tr.asp002q.espmp-aufr.net CNAME .
 tr.asp1.espmp-agfr.net CNAME .
 tr.asp103z.espmp-nifr.net CNAME .
+tr.asp106d.espmp-cufr.net CNAME .
 tr.asp106g.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
@@ -239,6 +241,7 @@ tr.mail.banque-casino.fr CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
 tr.mail.floa.fr CNAME .
 tr.mail.koregraf.com CNAME .
+tr.mail.mdbp.fr CNAME .
 tr.mail.moncoupdepouce.com CNAME .
 tr.mail.satisfactory.fr CNAME .
 tr.mail.vip-mag.co.uk CNAME .
@@ -317,6 +320,7 @@ tr.news.infopro-digital.com CNAME .
 tr.news.jautomatise.com CNAME .
 tr.news.kpmgnet.fr CNAME .
 tr.news.la-collectionairfrance.fr CNAME .
+tr.news.la-meilleure-voyance.com CNAME .
 tr.news.lacollection-airfrance.fr CNAME .
 tr.news.lacollectionairfrance.fr CNAME .
 tr.news.leclubtravel.fr CNAME .
@@ -462,6 +466,7 @@ tr.trafficnews.lyria.com CNAME .
 tr.uk.icicibank.com CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .
+tr.urfk06h.espmp-nifr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
 tr.urfk07s.espmp-nifr.net CNAME .
 tr.ville.bordeaux.fr CNAME .

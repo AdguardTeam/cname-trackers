@@ -14,6 +14,7 @@
 ||tr.activeprospects.info^
 ||tr.actu-companeo.com^
 ||tr.actu.bricodepot.com^
+||tr.actu.rmcbfmplay.com^
 ||tr.actualites.01net.com^
 ||tr.actualites.bfmtv.com^
 ||tr.actupremium.com^
@@ -24,6 +25,7 @@
 ||tr.asp002q.espmp-aufr.net^
 ||tr.asp1.espmp-agfr.net^
 ||tr.asp103z.espmp-nifr.net^
+||tr.asp106d.espmp-cufr.net^
 ||tr.asp106g.espmp-nifr.net^
 ||tr.asp10ar.espmp-cufr.net^
 ||tr.asp10bs.espmp-aufr.net^
@@ -239,6 +241,7 @@
 ||tr.mail.enviedebienmanger.fr^
 ||tr.mail.floa.fr^
 ||tr.mail.koregraf.com^
+||tr.mail.mdbp.fr^
 ||tr.mail.moncoupdepouce.com^
 ||tr.mail.satisfactory.fr^
 ||tr.mail.vip-mag.co.uk^
@@ -317,6 +320,7 @@
 ||tr.news.jautomatise.com^
 ||tr.news.kpmgnet.fr^
 ||tr.news.la-collectionairfrance.fr^
+||tr.news.la-meilleure-voyance.com^
 ||tr.news.lacollection-airfrance.fr^
 ||tr.news.lacollectionairfrance.fr^
 ||tr.news.leclubtravel.fr^
@@ -462,6 +466,7 @@
 ||tr.uk.icicibank.com^
 ||tr.urfk02v.espmp-cufr.net^
 ||tr.urfk03u.espmp-nifr.net^
+||tr.urfk06h.espmp-nifr.net^
 ||tr.urfk06y.espmp-nifr.net^
 ||tr.urfk07s.espmp-nifr.net^
 ||tr.ville.bordeaux.fr^

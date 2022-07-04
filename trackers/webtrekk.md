@@ -50,6 +50,7 @@
     * 267062407301027.wt-eu02.net
     * 285545256993116.wt-eu02.net
     * 286813086616891.wt-eu02.net
+    * 292330999892453.wt-eu02.net
     * 292595354576025.wt-eu02.net
     * 302631813489498.wt-eu02.net
     * 307902509027183.wt-eu02.net
@@ -196,6 +197,7 @@
 | web.news.imperialfashion.com | 267062407301027.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
+| data.srf.ch | 292330999892453.wt-eu02.net |
 | data.mapp.com | 292595354576025.wt-eu02.net |
 | data.engelhorn.com | 302631813489498.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |

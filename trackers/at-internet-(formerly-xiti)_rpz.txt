@@ -8,6 +8,8 @@ a.20minutes.fr CNAME .
 a.pourquoidocteur.fr CNAME .
 a1.api.bbc.co.uk CNAME .
 abncx.amv.fr CNAME .
+ama.planet-wissen.de CNAME .
+ama.wdr.de CNAME .
 ana.tv5unis.ca CNAME .
 arrietty.nrj.fr CNAME .
 at-cddc.actu-juridique.fr CNAME .

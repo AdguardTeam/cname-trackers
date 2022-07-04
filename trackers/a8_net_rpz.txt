@@ -177,6 +177,7 @@ a8cv.ogaland.com CNAME .
 a8cv.omni7.jp CNAME .
 a8cv.one-netbook.jp CNAME .
 a8cv.online.bell-road.com CNAME .
+a8cv.orbis.co.jp CNAME .
 a8cv.p-antiaging.com CNAME .
 a8cv.presence.jp CNAME .
 a8cv.reservation.matching-photo.com CNAME .

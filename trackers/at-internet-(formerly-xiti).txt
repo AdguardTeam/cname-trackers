@@ -8,6 +8,8 @@
 ||a.pourquoidocteur.fr^
 ||a1.api.bbc.co.uk^
 ||abncx.amv.fr^
+||ama.planet-wissen.de^
+||ama.wdr.de^
 ||ana.tv5unis.ca^
 ||arrietty.nrj.fr^
 ||at-cddc.actu-juridique.fr^

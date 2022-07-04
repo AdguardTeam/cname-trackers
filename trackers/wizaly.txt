@@ -41,6 +41,7 @@
 ||tk.domitys.fr^
 ||tk.engie.fr^
 ||tk.healthwarehouse.com^
+||tk.hypnia.fr^
 ||tk.jeux.loro.ch^
 ||tk.kidsaround.com^
 ||tk.kitchendiet.fr^

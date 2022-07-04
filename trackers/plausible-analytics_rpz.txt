@@ -334,6 +334,7 @@ stats.catholicluv.com CNAME .
 stats.centerforvalues.international CNAME .
 stats.centralswindonnorth-pc.gov.uk CNAME .
 stats.cfcasts.com CNAME .
+stats.chadly.net CNAME .
 stats.challengehub.app CNAME .
 stats.changelog.com CNAME .
 stats.chapterist.show CNAME .
@@ -488,7 +489,6 @@ stats.melvingeorge.me CNAME .
 stats.menn.blog CNAME .
 stats.mesenvies.fr CNAME .
 stats.missionrabies.com CNAME .
-stats.mkwtas.com CNAME .
 stats.mmazzarolo.com CNAME .
 stats.motion-effect.com CNAME .
 stats.motorcyclepartsireland.ie CNAME .

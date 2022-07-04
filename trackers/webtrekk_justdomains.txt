@@ -85,6 +85,7 @@ data.mainpost.de
 data.mapp.com
 data.mediaworld.it
 data.pepephone.com
+data.srf.ch
 data.volksfreund.de
 data.westlotto.de
 daten.union-investment.de
