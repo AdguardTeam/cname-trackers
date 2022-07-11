@@ -6,7 +6,6 @@
     * d-image-ad-jp.ad-cloud.jp
     * d-newssuite-sony-net.ad-cloud.jp
     * fractal-auth.ad-cloud.jp
-    * i-image-ad-jp.ad-cloud.jp
     * i-newssuite-sony-net.ad-cloud.jp
     * j-image-ad-jp.ad-cloud.jp
     * j-newssuite-sony-net.ad-cloud.jp
@@ -31,7 +30,6 @@
 | i.newssuite.sony.net | e26817.f.akamaiedge.net |
 | j.newssuite.sony.net | e26817.f.akamaiedge.net |
 | favor1.fractal.jp | fractal-auth.ad-cloud.jp |
-| i.image-ad.jp | i-image-ad-jp.ad-cloud.jp |
 | i.newssuite.sony.net | i-newssuite-sony-net.ad-cloud.jp |
 | j.image-ad.jp | j-image-ad-jp.ad-cloud.jp |
 | j.newssuite.sony.net | j-newssuite-sony-net.ad-cloud.jp |

@@ -6,12 +6,12 @@
 0.oldgyhogola.com CNAME .
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
-0i0i0i0.nelasleaks.com CNAME .
 2022.hizetnet.xyz CNAME .
 4rdjebtm2i.nelasleaks.com CNAME .
 58745.clicknplay.to CNAME .
 71213zhazha.com CNAME .
 893242.milfunsource.com CNAME .
+8lang.lol CNAME .
 987656iuyyty.hotscopes.to CNAME .
 a.123porner.com CNAME .
 a.44oo.icu CNAME .
@@ -22,6 +22,7 @@ a.allwedoisfuck.com CNAME .
 a.andropps.us CNAME .
 a.antiadxxxspy.com CNAME .
 a.apyarvideo.xyz CNAME .
+a.asgadblock.buzz CNAME .
 a.ax.xxx CNAME .
 a.bitporno.com CNAME .
 a.cashjma.com CNAME .
@@ -36,7 +37,6 @@ a.emwstore.xyz CNAME .
 a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
-a.flizmovies.cc CNAME .
 a.focusde.info CNAME .
 a.hentai369.com CNAME .
 a.hentaitube.icu CNAME .
@@ -47,6 +47,7 @@ a.letsjerk.to CNAME .
 a.letsjerk.tv CNAME .
 a.neverbe.xyz CNAME .
 a.pinoymoviepedia.ru CNAME .
+a.pornhex.com CNAME .
 a.pumpity.net CNAME .
 a.streamoupload.xyz CNAME .
 a.suptube.com CNAME .
@@ -152,6 +153,7 @@ chartlon.skin CNAME .
 chen.pepelela.mom CNAME .
 chrome-loading.car-insurance-reviews.com CNAME .
 client2009x25.xcdn.ovh CNAME .
+cobuaz.lol CNAME .
 coco.rockdilla.com CNAME .
 comp.aniplay.it CNAME .
 cool.ah-me.com CNAME .
@@ -288,6 +290,7 @@ slave.kbjfree.com CNAME .
 solutions.playernetca.top CNAME .
 som.chartlon.skin CNAME .
 space.facebiz.xyz CNAME .
+spy.bocvu.lol CNAME .
 spy.luvprn.com CNAME .
 spyglass.octanime.net CNAME .
 spyglass.reklamko.pro CNAME .

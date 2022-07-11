@@ -13,7 +13,6 @@ a.jenshenrikthomsen.dk
 a.kryptonitewp.com
 a.linkz.ai
 a.mhthemes.com
-a.skcript.com
 a.visitefoz.com.br
 also.greatsecuritydebate.net
 analytics.adam.page
@@ -173,7 +172,6 @@ plauplauplau.app.budg.co
 plauplauplau.budg.co
 plausdj2ajskljzx0ikwkiasible.ethics.info
 plausible.adreform.com
-plausible.amava.com
 plausible.as207960.net
 plausible.banovo.de
 plausible.baychi.org
@@ -252,7 +250,6 @@ pm.redbull.com
 prism.raumgleiter.com
 pstat.akathists.com
 puls.smakujenam.pl
-rapido.idraetsmusik.dk
 reddwarf.till-sanders.de
 retention.ankidecks.com
 s.80000hours.org
@@ -429,6 +426,7 @@ stats.huysmanbouw.be
 stats.iamzero.dev
 stats.ibuildings.net
 stats.igevia.com
+stats.in-tuition.net
 stats.infoboard.de
 stats.innoq.com
 stats.instabudget.app
@@ -569,7 +567,6 @@ stats.revit-content.com
 stats.revitfamily.app
 stats.robhope.com
 stats.rocketvalidator.com
-stats.rtlanerecruitment.ie
 stats.ruhrfestspiele.de
 stats.ruthmontenegro.com
 stats.savethemothers.org

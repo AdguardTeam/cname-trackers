@@ -62,7 +62,6 @@
     * 367128732629814.wt-eu02.net
     * 367171131378433.wt-eu02.net
     * 368068733707725.wt-eu02.net
-    * 368352020330673.wt-eu02.net
     * 371033713452477.wt-eu02.net
     * 425587064188106.wt-eu02.net
     * 427813503923049.wt-eu02.net
@@ -90,6 +89,7 @@
     * 637511691483562.wt-eu02.net
     * 639871942536313.wt-eu02.net
     * 641523609775483.wt-eu02.net
+    * 657801072187647.wt-eu02.net
     * 666882163750646.wt-eu02.net
     * 669154114435717.wt-eu02.net
     * 669798445377675.wt-eu02.net
@@ -215,7 +215,6 @@
 | data.mediaworld.it | 367128732629814.wt-eu02.net |
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |
 | da.bodenhaus.de | 368068733707725.wt-eu02.net |
-| web.ideaautorepair.com | 368352020330673.wt-eu02.net |
 | web.emails.thetoyshop.com | 371033713452477.wt-eu02.net |
 | web.news.piquadro.com | 425587064188106.wt-eu02.net |
 | wbtrkk.teufelaudio.com | 427813503923049.wt-eu02.net |
@@ -245,6 +244,7 @@
 | web.news.pleasefashion.com | 637511691483562.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
+| web.slimjoy.se | 657801072187647.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
 | data.adlermode.com | 669154114435717.wt-eu02.net |
 | web.news.thebridge.it | 669798445377675.wt-eu02.net |

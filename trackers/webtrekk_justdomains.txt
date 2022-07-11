@@ -209,7 +209,6 @@ web.email.theindependentpharmacy.co.uk
 web.emails.elc.co.uk
 web.emails.thetoyshop.com
 web.friends.ellaskitchen.co.uk
-web.ideaautorepair.com
 web.info.bonprix.es
 web.info.vantastic-foods.com
 web.info.varelotteriet.dk
@@ -239,6 +238,7 @@ web.s.sasrx.com
 web.sensilab.se
 web.sensilab.si
 web.sidsavage.com
+web.slimjoy.se
 web.solesource.com
 web.x.ilpost.it
 webmet.creditreform.de

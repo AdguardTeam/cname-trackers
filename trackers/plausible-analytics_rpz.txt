@@ -13,7 +13,6 @@ a.jenshenrikthomsen.dk CNAME .
 a.kryptonitewp.com CNAME .
 a.linkz.ai CNAME .
 a.mhthemes.com CNAME .
-a.skcript.com CNAME .
 a.visitefoz.com.br CNAME .
 also.greatsecuritydebate.net CNAME .
 analytics.adam.page CNAME .
@@ -173,7 +172,6 @@ plauplauplau.app.budg.co CNAME .
 plauplauplau.budg.co CNAME .
 plausdj2ajskljzx0ikwkiasible.ethics.info CNAME .
 plausible.adreform.com CNAME .
-plausible.amava.com CNAME .
 plausible.as207960.net CNAME .
 plausible.banovo.de CNAME .
 plausible.baychi.org CNAME .
@@ -252,7 +250,6 @@ pm.redbull.com CNAME .
 prism.raumgleiter.com CNAME .
 pstat.akathists.com CNAME .
 puls.smakujenam.pl CNAME .
-rapido.idraetsmusik.dk CNAME .
 reddwarf.till-sanders.de CNAME .
 retention.ankidecks.com CNAME .
 s.80000hours.org CNAME .
@@ -429,6 +426,7 @@ stats.huysmanbouw.be CNAME .
 stats.iamzero.dev CNAME .
 stats.ibuildings.net CNAME .
 stats.igevia.com CNAME .
+stats.in-tuition.net CNAME .
 stats.infoboard.de CNAME .
 stats.innoq.com CNAME .
 stats.instabudget.app CNAME .
@@ -569,7 +567,6 @@ stats.revit-content.com CNAME .
 stats.revitfamily.app CNAME .
 stats.robhope.com CNAME .
 stats.rocketvalidator.com CNAME .
-stats.rtlanerecruitment.ie CNAME .
 stats.ruhrfestspiele.de CNAME .
 stats.ruthmontenegro.com CNAME .
 stats.savethemothers.org CNAME .

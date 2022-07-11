@@ -9,6 +9,7 @@ a8.01cloud.jp CNAME .
 a8.abemashopping.jp CNAME .
 a8.brandcosme.com CNAME .
 a8.cocomeister.jp CNAME .
+a8.cotta.jp CNAME .
 a8.cyclemarket.jp CNAME .
 a8.degicashop.com CNAME .
 a8.denki-koji.work CNAME .
@@ -17,6 +18,7 @@ a8.eonet.jp CNAME .
 a8.eonet.ne.jp CNAME .
 a8.erasutamo.onlinestaff.jp CNAME .
 a8.everest.ac CNAME .
+a8.exetime.jp CNAME .
 a8.fit-theme.com CNAME .
 a8.geo-online.co.jp CNAME .
 a8.hakata-hisamatsu.net CNAME .

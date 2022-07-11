@@ -57,6 +57,7 @@ kistacity.viessmann.se CNAME .
 lem.nouvelobs.com CNAME .
 logs1257.at.pagesjaunes.fr CNAME .
 mango.seloger.com CNAME .
+mediniku.viessmann.lt CNAME .
 mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
 mond.post.ch CNAME .

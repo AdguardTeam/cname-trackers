@@ -47,7 +47,6 @@ hruk.gumasi.top CNAME .
 hruk.jjikk.top CNAME .
 hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
-pop.hindixxxhd.com CNAME .
 ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .
 snow.snowdayonline.xyz CNAME .

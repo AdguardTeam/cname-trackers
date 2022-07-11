@@ -209,7 +209,6 @@ web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .
 web.friends.ellaskitchen.co.uk CNAME .
-web.ideaautorepair.com CNAME .
 web.info.bonprix.es CNAME .
 web.info.vantastic-foods.com CNAME .
 web.info.varelotteriet.dk CNAME .
@@ -239,6 +238,7 @@ web.s.sasrx.com CNAME .
 web.sensilab.se CNAME .
 web.sensilab.si CNAME .
 web.sidsavage.com CNAME .
+web.slimjoy.se CNAME .
 web.solesource.com CNAME .
 web.x.ilpost.it CNAME .
 webmet.creditreform.de CNAME .

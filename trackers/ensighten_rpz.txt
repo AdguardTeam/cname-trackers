@@ -78,6 +78,7 @@ attribution.theworks.co.uk CNAME .
 attribution.tmlewin.com CNAME .
 attribution.wolverine.com CNAME .
 businessmetrics.syf.com CNAME .
+cm.quest.com CNAME .
 coke.activate.ensighten.com CNAME .
 cookies.jll-mena.com CNAME .
 cookies.jll.ca CNAME .
@@ -185,6 +186,7 @@ t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
 tagman.fotolia.com CNAME .
 tagman.heathrow.com CNAME .
+tagman.transavia.com CNAME .
 tagman.virgin-atlantic.com CNAME .
 tagman.virginatlantic.com CNAME .
 tags.aljazeera.com CNAME .

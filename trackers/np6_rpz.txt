@@ -51,6 +51,7 @@ tr.boletim.meu-orcamento.pt CNAME .
 tr.btobquotes.com CNAME .
 tr.buenasofertas.pro CNAME .
 tr.bureauveritas.espmp-aufr.net CNAME .
+tr.business-deal.nl CNAME .
 tr.businessdev.younited-credit.es CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.cacf.ipsos-surveys.com CNAME .
@@ -96,6 +97,7 @@ tr.comunicacao.younited-credit.com CNAME .
 tr.contact.canalplus.fr CNAME .
 tr.contact.cereps.fr CNAME .
 tr.contact.e-turf.fr CNAME .
+tr.contact.lvmh.fr CNAME .
 tr.contact.makemelead.info CNAME .
 tr.contact.mhl-publishing.fr CNAME .
 tr.contact.stof.fr CNAME .
@@ -130,6 +132,7 @@ tr.email.custom-campaign.com CNAME .
 tr.email.directindustry.com CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.janedeboy.com CNAME .
+tr.email.land-rover-experience.fr CNAME .
 tr.email.medicalexpo.com CNAME .
 tr.email.rs-fr.com CNAME .
 tr.email.securite-routiere.gouv.fr CNAME .
@@ -167,6 +170,7 @@ tr.gen.espmp-agfr.net CNAME .
 tr.gestion.banque-casino.fr CNAME .
 tr.gestion.cafineo.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
+tr.gestion.coficabail.fr CNAME .
 tr.gestion.cofinoga.fr CNAME .
 tr.gestion.credit-moderne.fr CNAME .
 tr.gestion.floa.fr CNAME .
@@ -211,6 +215,7 @@ tr.info.solidarm.fr CNAME .
 tr.info.valcenis.com CNAME .
 tr.info.vip-mag.co.uk CNAME .
 tr.infolettre.securite-routiere.gouv.fr CNAME .
+tr.information.fidalformations.fr CNAME .
 tr.information.lacollection-airfrance.fr CNAME .
 tr.information.thelist-emirates.fr CNAME .
 tr.informations.dila.gouv.fr CNAME .
@@ -314,6 +319,7 @@ tr.news.eureden.com CNAME .
 tr.news.exclu.fr CNAME .
 tr.news.futuramedia.fr CNAME .
 tr.news.geantcasino.fr CNAME .
+tr.news.geomag.fr CNAME .
 tr.news.heredis.com CNAME .
 tr.news.i24news.tv CNAME .
 tr.news.infopro-digital.com CNAME .
@@ -372,6 +378,7 @@ tr.newsletter.meilleurmobile.com CNAME .
 tr.newsletter.milleis.fr CNAME .
 tr.newsletter.phyto.com CNAME .
 tr.newsletter.plurielmedia.com CNAME .
+tr.newsletter.roger-gallet.com CNAME .
 tr.newsletter.younited-credit.com CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .
@@ -484,6 +491,7 @@ tr.welcome.moncoupdepouce.com CNAME .
 tr.welcome.odalys-vacances.com CNAME .
 tr.welcome.thelist-emirates.fr CNAME .
 tr.welcome.vipmag.fr CNAME .
+tr.wuei.espmp-agfr.net CNAME .
 tr.wycena-companeo.pl CNAME .
 tr.xleads.digital CNAME .
 tr1.citroen-ipsos.com CNAME .

@@ -336,6 +336,7 @@ email.everyonesocial.indeed.com CNAME .
 email.everyonesocial.nuskin.com CNAME .
 email.everyonesocial.r3.com CNAME .
 email.everyonesocial.rubrik.com CNAME .
+email.everyonesocial.secureworks.com CNAME .
 email.everyonesocial.united.com CNAME .
 email.everyonesocial.unity.com CNAME .
 email.fretello.com CNAME .
@@ -366,6 +367,7 @@ fleet-eml.postmates.com CNAME .
 go.email.jbhunt.com CNAME .
 go.emails.discoveryplus.com CNAME .
 go.heybianca.co CNAME .
+go.tellusapp.com CNAME .
 goto.dresslily.com CNAME .
 goto.rosegal.com CNAME .
 goto.zaful.com CNAME .
@@ -429,6 +431,7 @@ link.lpm.surkus.com CNAME .
 link.lpt.surkus.com CNAME .
 link.mail.burgerking.ca CNAME .
 link.mail.popsa.com CNAME .
+link.mail.step.com CNAME .
 link.marketing.bleacherreport.com CNAME .
 link.marketing.churchomeglobal.org CNAME .
 link.mktg.almosafer.com CNAME .
@@ -612,9 +615,11 @@ trk.underarmour.com CNAME .
 trk.us.underarmour.com CNAME .
 trklink.luisaviaroma.com CNAME .
 url1020.keycollectorcomics.com CNAME .
+url1445.affirm.com CNAME .
 url1451.careerkarma.info CNAME .
 url3630.newsletter.experience-muse.com CNAME .
 url3788.blazepizza.com CNAME .
+url7061.support.1dental.com CNAME .
 url7424.email.readytotravel.com CNAME .
 url7542.fluz.app CNAME .
 url7674.fitgenieapp.com CNAME .

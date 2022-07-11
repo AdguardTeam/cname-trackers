@@ -3,7 +3,6 @@
 !
 ! tagcommander.com disguised trackers
 !
-||acquisition.klm.com^
 ||data.decathlon.de^
 ||data.decathlon.es^
 ||data.decathlon.fr^
@@ -13,6 +12,7 @@
 ||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^
+||tag.boulanger.fr^
 ||tagcommander.laredoute.be^
 ||tagcommander.laredoute.co.uk^
 ||tcdata.fnac.com^

@@ -78,6 +78,7 @@
 ||attribution.tmlewin.com^
 ||attribution.wolverine.com^
 ||businessmetrics.syf.com^
+||cm.quest.com^
 ||coke.activate.ensighten.com^
 ||cookies.jll-mena.com^
 ||cookies.jll.ca^
@@ -185,6 +186,7 @@
 ||tagman.britishairways.com^
 ||tagman.fotolia.com^
 ||tagman.heathrow.com^
+||tagman.transavia.com^
 ||tagman.virgin-atlantic.com^
 ||tagman.virginatlantic.com^
 ||tags.aljazeera.com^

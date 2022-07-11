@@ -336,6 +336,7 @@
 ||email.everyonesocial.nuskin.com^
 ||email.everyonesocial.r3.com^
 ||email.everyonesocial.rubrik.com^
+||email.everyonesocial.secureworks.com^
 ||email.everyonesocial.united.com^
 ||email.everyonesocial.unity.com^
 ||email.fretello.com^
@@ -366,6 +367,7 @@
 ||go.email.jbhunt.com^
 ||go.emails.discoveryplus.com^
 ||go.heybianca.co^
+||go.tellusapp.com^
 ||goto.dresslily.com^
 ||goto.rosegal.com^
 ||goto.zaful.com^
@@ -429,6 +431,7 @@
 ||link.lpt.surkus.com^
 ||link.mail.burgerking.ca^
 ||link.mail.popsa.com^
+||link.mail.step.com^
 ||link.marketing.bleacherreport.com^
 ||link.marketing.churchomeglobal.org^
 ||link.mktg.almosafer.com^
@@ -612,9 +615,11 @@
 ||trk.us.underarmour.com^
 ||trklink.luisaviaroma.com^
 ||url1020.keycollectorcomics.com^
+||url1445.affirm.com^
 ||url1451.careerkarma.info^
 ||url3630.newsletter.experience-muse.com^
 ||url3788.blazepizza.com^
+||url7061.support.1dental.com^
 ||url7424.email.readytotravel.com^
 ||url7542.fluz.app^
 ||url7674.fitgenieapp.com^

@@ -148,6 +148,7 @@
 3599727.notify6.com CNAME .
 3603119.notifysrv.com CNAME .
 3607715.notify6.com CNAME .
+3618939.notify6.com CNAME .
 3622691.notify6.com CNAME .
 3629687.notifysrv.com CNAME .
 3629895.notifysrv.com CNAME .
@@ -186,6 +187,7 @@
 3775247.notifysrv.com CNAME .
 3783123.notifysrv.com CNAME .
 3789861.notifysrv.com CNAME .
+3791967.notify6.com CNAME .
 3805703.notifysrv.com CNAME .
 3814695.notifysrv.com CNAME .
 3822893.notifysrv.com CNAME .
@@ -214,6 +216,7 @@
 3944044.notify6.com CNAME .
 3944974.notify6.com CNAME .
 3944978.notify6.com CNAME .
+3944980.notify6.com CNAME .
 3945010.notify6.com CNAME .
 3946240.notify6.com CNAME .
 3946250.notify6.com CNAME .
@@ -273,6 +276,7 @@
 4274618.notify6.com CNAME .
 4290976.notify6.com CNAME .
 4298194.notify6.com CNAME .
+4300970.notify6.com CNAME .
 4327052.notify6.com CNAME .
 4329288.notify6.com CNAME .
 4329292.notify6.com CNAME .
@@ -317,6 +321,7 @@ s.elnk40.com CNAME .
 s.elnk4b.com CNAME .
 s.elnk66.com CNAME .
 s.elnkp2.com CNAME .
+s.elnkp4.com CNAME .
 s.etology.com CNAME .
 s.exv6.com CNAME .
 s.linkv3c.com CNAME .
@@ -337,7 +342,6 @@ s.zlink6.com CNAME .
 s.zlink8.com CNAME .
 s.zlink9.com CNAME .
 s.zlinkm.com CNAME .
-s3t3d2y8.ackcdn.net CNAME .
 syndication-adblock.exoclick.com CNAME .
 syndication.dynsrvtbg.com CNAME .
 syndication.dynsrvwer.com CNAME .
@@ -349,6 +353,7 @@ syndication.exdynsrv.com CNAME .
 syndication.exoclick.com CNAME .
 syndication.exosrv.com CNAME .
 syndication.link2nx.com CNAME .
+syndication.link2zz.com CNAME .
 syndication.link5a.com CNAME .
 syndication.link5c.com CNAME .
 syndication.link5v.com CNAME .
@@ -359,7 +364,6 @@ syndication.optimizesrv.com CNAME .
 syndication.realsrv.com CNAME .
 syndication.whibd.com CNAME .
 syndication.whibp.com CNAME .
-u3y8v8u4.ackcdn.net CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 ;

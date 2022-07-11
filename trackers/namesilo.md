@@ -8,7 +8,6 @@
     * tk6if76r.ab1n.net
     * w2u4v9e1.ab1n.net
     * x0xmrxm4.ab1n.net
-    * yrg6yks9.ab1n.net
 
 ### Rarely active trackers
 
@@ -177,6 +176,7 @@
 | 3599727.notify6.com | tk6if76q.ab1n.net |
 | 3603119.notifysrv.com | tk6if76q.ab1n.net |
 | 3607715.notify6.com | tk6if76q.ab1n.net |
+| 3618939.notify6.com | tk6if76q.ab1n.net |
 | 3622691.notify6.com | tk6if76q.ab1n.net |
 | 3629687.notifysrv.com | tk6if76q.ab1n.net |
 | 3629895.notifysrv.com | tk6if76q.ab1n.net |
@@ -215,6 +215,7 @@
 | 3775247.notifysrv.com | tk6if76q.ab1n.net |
 | 3783123.notifysrv.com | tk6if76q.ab1n.net |
 | 3789861.notifysrv.com | tk6if76q.ab1n.net |
+| 3791967.notify6.com | tk6if76q.ab1n.net |
 | 3805703.notifysrv.com | tk6if76q.ab1n.net |
 | 3814695.notifysrv.com | tk6if76q.ab1n.net |
 | 3822893.notifysrv.com | tk6if76q.ab1n.net |
@@ -243,6 +244,7 @@
 | 3944044.notify6.com | tk6if76q.ab1n.net |
 | 3944974.notify6.com | tk6if76q.ab1n.net |
 | 3944978.notify6.com | tk6if76q.ab1n.net |
+| 3944980.notify6.com | tk6if76q.ab1n.net |
 | 3945010.notify6.com | tk6if76q.ab1n.net |
 | 3946240.notify6.com | tk6if76q.ab1n.net |
 | 3946250.notify6.com | tk6if76q.ab1n.net |
@@ -302,6 +304,7 @@
 | 4274618.notify6.com | tk6if76q.ab1n.net |
 | 4290976.notify6.com | tk6if76q.ab1n.net |
 | 4298194.notify6.com | tk6if76q.ab1n.net |
+| 4300970.notify6.com | tk6if76q.ab1n.net |
 | 4327052.notify6.com | tk6if76q.ab1n.net |
 | 4329288.notify6.com | tk6if76q.ab1n.net |
 | 4329292.notify6.com | tk6if76q.ab1n.net |
@@ -342,6 +345,7 @@
 | s.elnk4b.com | tk6if76q.ab1n.net |
 | s.elnk66.com | tk6if76q.ab1n.net |
 | s.elnkp2.com | tk6if76q.ab1n.net |
+| s.elnkp4.com | tk6if76q.ab1n.net |
 | s.etology.com | tk6if76q.ab1n.net |
 | s.linkv3c.com | tk6if76q.ab1n.net |
 | s.linkw2g.com | tk6if76q.ab1n.net |
@@ -372,6 +376,7 @@
 | syndication.exoclick.com | tk6if76q.ab1n.net |
 | syndication.exosrv.com | tk6if76q.ab1n.net |
 | syndication.link2nx.com | tk6if76q.ab1n.net |
+| syndication.link2zz.com | tk6if76q.ab1n.net |
 | syndication.link5a.com | tk6if76q.ab1n.net |
 | syndication.link5c.com | tk6if76q.ab1n.net |
 | syndication.link5v.com | tk6if76q.ab1n.net |
@@ -388,5 +393,3 @@
 | a.etology.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
 | api.adnation.com | x0xmrxm4.ab1n.net |
-| s3t3d2y8.ackcdn.net | yrg6yks9.ab1n.net |
-| u3y8v8u4.ackcdn.net | yrg6yks9.ab1n.net |

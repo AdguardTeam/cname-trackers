@@ -26,6 +26,7 @@
 8p0kiyq5mq1d.flex.team
 9kkjfywjz50v.www.eventus.io
 9uim1pc4ej4n.ru.themoneytizer.com
+ah2sjk1n75th.app.tapmyback.com
 av6fm8zw2cvz.furucombo.app
 b20p6lt350nt.app.polymersearch.com
 b5j6itccyluq.nofluffjobs.com
@@ -38,7 +39,6 @@ e62ndy5gz80q.bitdomain.biz
 f0tiojboxnc1.bitdomain.biz
 fb7syy5wn9hl.blog.abhijith.page
 fq9vy0muyqi3.www.madrigalmaps.com
-fve57b8cs74i.www.cybernetman.com
 giy0v1igdqc1.crystalmathlabs.com
 gl5g98t0vfjb.panprices.com
 gomyjndc8v5t.www.nookgaming.com
@@ -55,6 +55,7 @@ lv6od3a4sz12.www.logology.co
 m6c4t9vmqarj.www.cefirates.com
 mh9qqwotr890.koelewijn.nl
 nqyuel589fq5.esgrounding.com
+ocjeg2ca9uh9.mailfloss.com
 ouc82i67pytg.www.emanualonline.com
 p9jhxqlkmn.miniso.com.gr
 qt5jl7r111h7.allesvoormijnvakantie.nl
@@ -66,11 +67,11 @@ twn36gx4109r.loveisblank.com
 u0crsrah75fy.camberlion.com
 uhm26jyr11zv.www.freecodecamp.org
 unl1zvy2zuyn.franchiseplus.nl
-uxvytbkz25v6.www.earthclassmail.com
 vzal21mooz.hyperwrite.ai
 wiar9wff0ma9.ping.t3.gg
 xlvvy4msxr.coolinastore.com
 zkmhhr1fr79z.dictionary.basabali.org
+zoijkvuvvplo.www.earthclassmail.com
 #
 # monopoly-drain.ga disguised trackers
 #

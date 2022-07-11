@@ -148,6 +148,7 @@
 3599727.notify6.com
 3603119.notifysrv.com
 3607715.notify6.com
+3618939.notify6.com
 3622691.notify6.com
 3629687.notifysrv.com
 3629895.notifysrv.com
@@ -186,6 +187,7 @@
 3775247.notifysrv.com
 3783123.notifysrv.com
 3789861.notifysrv.com
+3791967.notify6.com
 3805703.notifysrv.com
 3814695.notifysrv.com
 3822893.notifysrv.com
@@ -214,6 +216,7 @@
 3944044.notify6.com
 3944974.notify6.com
 3944978.notify6.com
+3944980.notify6.com
 3945010.notify6.com
 3946240.notify6.com
 3946250.notify6.com
@@ -273,6 +276,7 @@
 4274618.notify6.com
 4290976.notify6.com
 4298194.notify6.com
+4300970.notify6.com
 4327052.notify6.com
 4329288.notify6.com
 4329292.notify6.com
@@ -317,6 +321,7 @@ s.elnk40.com
 s.elnk4b.com
 s.elnk66.com
 s.elnkp2.com
+s.elnkp4.com
 s.etology.com
 s.exv6.com
 s.linkv3c.com
@@ -337,7 +342,6 @@ s.zlink6.com
 s.zlink8.com
 s.zlink9.com
 s.zlinkm.com
-s3t3d2y8.ackcdn.net
 syndication-adblock.exoclick.com
 syndication.dynsrvtbg.com
 syndication.dynsrvwer.com
@@ -349,6 +353,7 @@ syndication.exdynsrv.com
 syndication.exoclick.com
 syndication.exosrv.com
 syndication.link2nx.com
+syndication.link2zz.com
 syndication.link5a.com
 syndication.link5c.com
 syndication.link5v.com
@@ -359,7 +364,6 @@ syndication.optimizesrv.com
 syndication.realsrv.com
 syndication.whibd.com
 syndication.whibp.com
-u3y8v8u4.ackcdn.net
 www.notify6.com
 www.notifysrv.com
 #

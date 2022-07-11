@@ -9,6 +9,7 @@ a8.01cloud.jp
 a8.abemashopping.jp
 a8.brandcosme.com
 a8.cocomeister.jp
+a8.cotta.jp
 a8.cyclemarket.jp
 a8.degicashop.com
 a8.denki-koji.work
@@ -17,6 +18,7 @@ a8.eonet.jp
 a8.eonet.ne.jp
 a8.erasutamo.onlinestaff.jp
 a8.everest.ac
+a8.exetime.jp
 a8.fit-theme.com
 a8.geo-online.co.jp
 a8.hakata-hisamatsu.net

@@ -26,6 +26,7 @@
 8p0kiyq5mq1d.flex.team CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
+ah2sjk1n75th.app.tapmyback.com CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
@@ -38,7 +39,6 @@ e62ndy5gz80q.bitdomain.biz CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
 fb7syy5wn9hl.blog.abhijith.page CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
-fve57b8cs74i.www.cybernetman.com CNAME .
 giy0v1igdqc1.crystalmathlabs.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .
@@ -55,6 +55,7 @@ lv6od3a4sz12.www.logology.co CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
+ocjeg2ca9uh9.mailfloss.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
@@ -66,11 +67,11 @@ twn36gx4109r.loveisblank.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
-uxvytbkz25v6.www.earthclassmail.com CNAME .
 vzal21mooz.hyperwrite.ai CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
+zoijkvuvvplo.www.earthclassmail.com CNAME .
 ;
 ; monopoly-drain.ga disguised trackers
 ;
