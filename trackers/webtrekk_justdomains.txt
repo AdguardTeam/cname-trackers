@@ -118,6 +118,7 @@ fiwinet.firmenwissen.de
 hbbtv-track.prosieben.de
 hbbtv-track.prosiebensat1puls4.com
 hulpmiddel.fvw.de
+img.foodspring.dk
 img.foodspring.se
 intelligence.officialwesthamstore.com
 mapp.ewm.co.uk
@@ -209,6 +210,7 @@ web.email.theindependentpharmacy.co.uk
 web.emails.elc.co.uk
 web.emails.thetoyshop.com
 web.friends.ellaskitchen.co.uk
+web.ideaautorepair.com
 web.info.bonprix.es
 web.info.vantastic-foods.com
 web.info.varelotteriet.dk
@@ -243,6 +245,7 @@ web.solesource.com
 web.x.ilpost.it
 webmet.creditreform.de
 webt.eleonto.com
+webt.eu.teac-audio.com
 webt.pure.com
 wetr.sportscheck.at
 wetr.sportscheck.ch
@@ -250,6 +253,7 @@ wetr.sportscheck.com
 wt.dialog-versicherung.de
 wt.envivas.de
 wt.generali.de
+wt.generalihealthsolutions.de
 wt.netze-bw.de
 wt.vhb.de
 wttd.douglas.at

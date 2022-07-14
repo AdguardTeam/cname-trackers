@@ -19,6 +19,7 @@
 2e718yf5jypb.test.digitalsurge.io CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
+2yqcaqbfnv.nextgen.shareablee.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
@@ -46,7 +47,6 @@ hkhpnqciykaf.www.gamecamp.gg CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 j1kmigrhwjf4.angelacampos.es CNAME .
-jz4s9dhrngge.www.earthclassmail.com CNAME .
 k5ygj3bivnrp.uae.revent.store CNAME .
 kizpfrvi518a.www.crystalmathlabs.com CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
@@ -59,6 +59,7 @@ ocjeg2ca9uh9.mailfloss.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
+r2e6kc0wrhvf.www.cybernetman.com CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s4s51f00a3o7.www.eldorado.gg CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .

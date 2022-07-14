@@ -190,6 +190,7 @@ isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
 jj85xnjq.ybqwah.ntt.com CNAME .
 kyoufukudoucname.worldsmile.net CNAME .
+marketing.biz.mynavi.jp CNAME .
 marketing.zwei.com CNAME .
 maz.zba.jp CNAME .
 mcad.mods-clinic.com CNAME .

@@ -7,12 +7,14 @@
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
 2022.hizetnet.xyz CNAME .
+4.syndadu.xyz CNAME .
 4rdjebtm2i.nelasleaks.com CNAME .
 58745.clicknplay.to CNAME .
 71213zhazha.com CNAME .
 893242.milfunsource.com CNAME .
 8lang.lol CNAME .
 987656iuyyty.hotscopes.to CNAME .
+98tang.lol CNAME .
 a.123porner.com CNAME .
 a.44oo.icu CNAME .
 a.6vids.space CNAME .
@@ -22,6 +24,7 @@ a.allwedoisfuck.com CNAME .
 a.andropps.us CNAME .
 a.antiadxxxspy.com CNAME .
 a.apyarvideo.xyz CNAME .
+a.artamkari.com CNAME .
 a.asgadblock.buzz CNAME .
 a.ax.xxx CNAME .
 a.bitporno.com CNAME .
@@ -31,7 +34,6 @@ a.chastityvideos.com CNAME .
 a.digitalgiftshopping.com CNAME .
 a.dirtyasmr.com CNAME .
 a.dorkim.club CNAME .
-a.dphunters.com CNAME .
 a.eachporn.com CNAME .
 a.emwstore.xyz CNAME .
 a.epicgoo.com CNAME .
@@ -49,10 +51,10 @@ a.neverbe.xyz CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornhex.com CNAME .
 a.pumpity.net CNAME .
+a.speedostream.com CNAME .
 a.streamoupload.xyz CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
-a.umpornozinho.com CNAME .
 a.viralnewsbd.xyz CNAME .
 a.warddogs.com CNAME .
 a.watchomovies.com CNAME .
@@ -204,6 +206,8 @@ id.fc2-ppv.live CNAME .
 iez.jojome.xyz CNAME .
 in.fuckhardclips.com CNAME .
 j45.webringporn.com CNAME .
+jira.xsuffer.com CNAME .
+js.manga9.co CNAME .
 js.mangapro.top CNAME .
 js.xemkqxs.com CNAME .
 ka.kakakakaka.xyz CNAME .
@@ -226,6 +230,7 @@ makumva.all-usanomination.com CNAME .
 marcusdevs.ru CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
+missunow.lol CNAME .
 my.shymilftube.com CNAME .
 mydomainbest.com CNAME .
 nav.srcdn.xyz CNAME .
@@ -307,6 +312,7 @@ tik.boldtur.xyz CNAME .
 tip.vipz.lol CNAME .
 tlv.ui02.com CNAME .
 tom.beclin.xyz CNAME .
+tomboy.lol CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 turbo.binande.xyz CNAME .
@@ -324,6 +330,7 @@ wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
 www.bigboy.monster CNAME .
 www.camilo4free.cfd CNAME .
+www.don403deblakda.store CNAME .
 www.findnewline.com CNAME .
 www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .

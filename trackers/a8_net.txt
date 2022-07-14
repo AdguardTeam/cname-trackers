@@ -70,6 +70,7 @@
 ||a8clk.audiobook.jp^
 ||a8clk.autoc-one.jp^
 ||a8clk.biomarche.jp^
+||a8clk.bstyle.store^
 ||a8clk.camerakaitori.jp^
 ||a8clk.campaigns.speed-kaitori.jp^
 ||a8clk.chapup.jp^
@@ -88,6 +89,7 @@
 ||a8clk.hurugicom.jp^
 ||a8clk.justy-consul.com^
 ||a8clk.kaitori-beerecords.jp^
+||a8clk.kaitori-do.com^
 ||a8clk.kaitori-retrog.jp^
 ||a8clk.kaitori-toretoku.jp^
 ||a8clk.kaitori-yamatokukimono.jp^
@@ -180,6 +182,7 @@
 ||a8cv.one-netbook.jp^
 ||a8cv.online.bell-road.com^
 ||a8cv.orbis.co.jp^
+||a8cv.otakudathough.com^
 ||a8cv.p-antiaging.com^
 ||a8cv.presence.jp^
 ||a8cv.reservation.matching-photo.com^

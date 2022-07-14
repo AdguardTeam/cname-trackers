@@ -7,6 +7,7 @@ ilove.volusion.com CNAME .
 refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.ancestry.com CNAME .
+refer.aol.com CNAME .
 refer.clearme.com CNAME .
 refer.discover.com CNAME .
 refer.dna.ancestry.co.uk CNAME .
@@ -16,10 +17,12 @@ refer.hannaandersson.com CNAME .
 refer.healthypawspetinsurance.com CNAME .
 refer.luckyvitamin.com CNAME .
 refer.moo.com CNAME .
+refer.ofx.com CNAME .
 refer.personalcreations.com CNAME .
 refer.purchasingpower.com CNAME .
 refer.sage.com CNAME .
 refer.shoesforcrews.com CNAME .
+refer.southernliving.com CNAME .
 refer.sperry.com CNAME .
 refer.talbots.com CNAME .
 refer.timberland.com CNAME .

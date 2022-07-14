@@ -70,6 +70,7 @@ a8clk.asp.jcity.co.jp CNAME .
 a8clk.audiobook.jp CNAME .
 a8clk.autoc-one.jp CNAME .
 a8clk.biomarche.jp CNAME .
+a8clk.bstyle.store CNAME .
 a8clk.camerakaitori.jp CNAME .
 a8clk.campaigns.speed-kaitori.jp CNAME .
 a8clk.chapup.jp CNAME .
@@ -88,6 +89,7 @@ a8clk.grirose.jp CNAME .
 a8clk.hurugicom.jp CNAME .
 a8clk.justy-consul.com CNAME .
 a8clk.kaitori-beerecords.jp CNAME .
+a8clk.kaitori-do.com CNAME .
 a8clk.kaitori-retrog.jp CNAME .
 a8clk.kaitori-toretoku.jp CNAME .
 a8clk.kaitori-yamatokukimono.jp CNAME .
@@ -180,6 +182,7 @@ a8cv.omni7.jp CNAME .
 a8cv.one-netbook.jp CNAME .
 a8cv.online.bell-road.com CNAME .
 a8cv.orbis.co.jp CNAME .
+a8cv.otakudathough.com CNAME .
 a8cv.p-antiaging.com CNAME .
 a8cv.presence.jp CNAME .
 a8cv.reservation.matching-photo.com CNAME .

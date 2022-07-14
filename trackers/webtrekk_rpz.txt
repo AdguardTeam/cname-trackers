@@ -118,6 +118,7 @@ fiwinet.firmenwissen.de CNAME .
 hbbtv-track.prosieben.de CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
 hulpmiddel.fvw.de CNAME .
+img.foodspring.dk CNAME .
 img.foodspring.se CNAME .
 intelligence.officialwesthamstore.com CNAME .
 mapp.ewm.co.uk CNAME .
@@ -209,6 +210,7 @@ web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .
 web.friends.ellaskitchen.co.uk CNAME .
+web.ideaautorepair.com CNAME .
 web.info.bonprix.es CNAME .
 web.info.vantastic-foods.com CNAME .
 web.info.varelotteriet.dk CNAME .
@@ -243,6 +245,7 @@ web.solesource.com CNAME .
 web.x.ilpost.it CNAME .
 webmet.creditreform.de CNAME .
 webt.eleonto.com CNAME .
+webt.eu.teac-audio.com CNAME .
 webt.pure.com CNAME .
 wetr.sportscheck.at CNAME .
 wetr.sportscheck.ch CNAME .
@@ -250,6 +253,7 @@ wetr.sportscheck.com CNAME .
 wt.dialog-versicherung.de CNAME .
 wt.envivas.de CNAME .
 wt.generali.de CNAME .
+wt.generalihealthsolutions.de CNAME .
 wt.netze-bw.de CNAME .
 wt.vhb.de CNAME .
 wttd.douglas.at CNAME .

@@ -24,6 +24,7 @@
 ||cdn.luxope.com^
 ||cdn.namol.xyz^
 ||cdn.nlop.xyz^
+||cdn.noptog.com^
 ||cdn.nuqwe.com^
 ||cdn.olep.xyz^
 ||cdn.pctv.xyz^

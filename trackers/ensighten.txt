@@ -40,6 +40,7 @@
 ||agility.tcm.com^
 ||agility.tntdrama.com^
 ||agility.trutv.com^
+||amex.activate.ensighten.com^
 ||analytics.amica.com^
 ||analytics.carecredit.com^
 ||analytics.carecreditlearning.com^
@@ -47,6 +48,7 @@
 ||analytics.coach.com^
 ||analytics.coachoutlet.com^
 ||analytics.duluthtrading.com^
+||analytics.ensighten.com^
 ||analytics.gnc.com^
 ||analytics.katespade.com^
 ||analytics.llflooring.com^
@@ -132,6 +134,7 @@
 ||dcf.espn.com^
 ||dcfdata.espn.com^
 ||ddc.statefarm.com^
+||dsg.activate.ensighten.com^
 ||eb.trbas.com^
 ||emetrics.eastwestbank.com^
 ||ens-orlet.activate.ensighten.com^
@@ -155,6 +158,8 @@
 ||fidelity.activate.ensighten.com^
 ||gst.pulse.buyatoyota.com^
 ||gst.pulse.toyota.com^
+||hub.talkdeskapp.com^
+||latimes.activate.ensighten.com^
 ||maurices.activate.ensighten.com^
 ||mcdonalds.activate.ensighten.com^
 ||measure.ensighten.com^

@@ -171,9 +171,11 @@
 | ablink.your.audacy.com | thirdparty.bnc.lt |
 | ablinkclicktest.prod.aws.skyscnr.com | thirdparty.bnc.lt |
 | ablinks.comms.healthengine.com.au | thirdparty.bnc.lt |
+| ablinks.e.draft.com | thirdparty.bnc.lt |
 | ablinks.e.foxsports.com.au | thirdparty.bnc.lt |
 | ablinks.info.amaro.com | thirdparty.bnc.lt |
 | ablinks.kfc.com.au | thirdparty.bnc.lt |
+| ablinks.m.draft.com | thirdparty.bnc.lt |
 | ablinks.mail.claritymoney.com | thirdparty.bnc.lt |
 | ablinks.mail.hinge.co | thirdparty.bnc.lt |
 | ablinks.marketing.numi.com | thirdparty.bnc.lt |
@@ -459,6 +461,7 @@
 | link.team.bnext.es | thirdparty.bnc.lt |
 | link.team.bnext.io | thirdparty.bnc.lt |
 | link.tempo.fit | thirdparty.bnc.lt |
+| link.tillfinancial.io | thirdparty.bnc.lt |
 | link.touchtunes.com | thirdparty.bnc.lt |
 | link.touchtunesmail.com | thirdparty.bnc.lt |
 | link.tr.freshly.com | thirdparty.bnc.lt |

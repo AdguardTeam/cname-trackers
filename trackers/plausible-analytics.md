@@ -31,6 +31,7 @@
 | analytics.codeskulptor.org | custom.plausible.io |
 | analytics.dephibank.com | custom.plausible.io |
 | analytics.dogecoin.gg | custom.plausible.io |
+| analytics.eikko.ai | custom.plausible.io |
 | analytics.explained-from-first-principles.com | custom.plausible.io |
 | analytics.fatalparadox.com | custom.plausible.io |
 | analytics.gamedatacrunch.com | custom.plausible.io |
@@ -120,6 +121,7 @@
 | insights.affilimate.com | custom.plausible.io |
 | insights.frenchtogether.com | custom.plausible.io |
 | insights.growwithless.com | custom.plausible.io |
+| joy.ochronus.online | custom.plausible.io |
 | juniper.starleaf.com | custom.plausible.io |
 | kekw.givetip.to | custom.plausible.io |
 | kon.mediaplatform.group | custom.plausible.io |
@@ -271,6 +273,7 @@
 | s.mannes.tech | custom.plausible.io |
 | s.maxrozen.com | custom.plausible.io |
 | s.nerdfulmind.com | custom.plausible.io |
+| s.onlineornot.com | custom.plausible.io |
 | s.somos-arts.org | custom.plausible.io |
 | s.sporks.space | custom.plausible.io |
 | sa.flux.community | custom.plausible.io |
@@ -287,6 +290,7 @@
 | stat.bill.harding.blog | custom.plausible.io |
 | stat.landingpro.pl | custom.plausible.io |
 | stat.tomdebruijn.com | custom.plausible.io |
+| stat.umsu.de | custom.plausible.io |
 | statistics.csweapons.com | custom.plausible.io |
 | statistics.heatbeat.de | custom.plausible.io |
 | statistik.apartments-tirolerhaus.at | custom.plausible.io |
@@ -316,10 +320,12 @@
 | stats.blackblog.cz | custom.plausible.io |
 | stats.blendsalons.co.uk | custom.plausible.io |
 | stats.blockleviton.com | custom.plausible.io |
+| stats.blog.catholicluv.com | custom.plausible.io |
 | stats.blog.codingmilitia.com | custom.plausible.io |
 | stats.blog.merckx.fr | custom.plausible.io |
 | stats.blog.sean-wright.com | custom.plausible.io |
 | stats.blog.sublimesecurity.com | custom.plausible.io |
+| stats.bmxdevils.be | custom.plausible.io |
 | stats.breathly.app | custom.plausible.io |
 | stats.briskoda.net | custom.plausible.io |
 | stats.broddin.be | custom.plausible.io |
@@ -344,6 +350,7 @@
 | stats.chronoslabs.net | custom.plausible.io |
 | stats.citizenos.com | custom.plausible.io |
 | stats.cleverdiabetic.com | custom.plausible.io |
+| stats.cloud-backup-for-podio.com | custom.plausible.io |
 | stats.coachingcourses.pro | custom.plausible.io |
 | stats.code-it-studio.de | custom.plausible.io |
 | stats.codeexposed.com | custom.plausible.io |
@@ -550,11 +557,13 @@
 | stats.poweringpastcoal.org | custom.plausible.io |
 | stats.pri.org | custom.plausible.io |
 | stats.pricewell.io | custom.plausible.io |
+| stats.principal-it.eu | custom.plausible.io |
 | stats.print.work | custom.plausible.io |
 | stats.profilehunt.net | custom.plausible.io |
 | stats.pselookup.vrymel.com | custom.plausible.io |
 | stats.qawl.app | custom.plausible.io |
 | stats.qbitstore.nl | custom.plausible.io |
+| stats.qovery.com | custom.plausible.io |
 | stats.radicitoscane.it | custom.plausible.io |
 | stats.radreiseglueck.de | custom.plausible.io |
 | stats.raidprotect.org | custom.plausible.io |
@@ -586,6 +595,7 @@
 | stats.seedthemes.com | custom.plausible.io |
 | stats.seedwebs.com | custom.plausible.io |
 | stats.sendngnt.com | custom.plausible.io |
+| stats.sethvincent.com | custom.plausible.io |
 | stats.sexplore.app | custom.plausible.io |
 | stats.share.link | custom.plausible.io |
 | stats.shareup.app | custom.plausible.io |
@@ -605,6 +615,7 @@
 | stats.sqlteam.com | custom.plausible.io |
 | stats.stackingthebricks.com | custom.plausible.io |
 | stats.stacks.org | custom.plausible.io |
+| stats.stadiastats.gg | custom.plausible.io |
 | stats.steuer-soldaten.de | custom.plausible.io |
 | stats.stopchikane.nu | custom.plausible.io |
 | stats.strawberry.rocks | custom.plausible.io |
@@ -646,6 +657,7 @@
 | stats.urlaubsverwaltung.cloud | custom.plausible.io |
 | stats.useeffect.dev | custom.plausible.io |
 | stats.uxtools.co | custom.plausible.io |
+| stats.vallery.store | custom.plausible.io |
 | stats.vanityprojects.com | custom.plausible.io |
 | stats.vdsnow.ru | custom.plausible.io |
 | stats.visions.ch | custom.plausible.io |
@@ -653,6 +665,7 @@
 | stats.wafflemeido.art | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
 | stats.websnap.app | custom.plausible.io |
+| stats.wellbeyond.com | custom.plausible.io |
 | stats.westswindon-pc.gov.uk | custom.plausible.io |
 | stats.whenpigsflybbq.com | custom.plausible.io |
 | stats.whereisit5pmrightnow.com | custom.plausible.io |

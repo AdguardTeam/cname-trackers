@@ -24,6 +24,7 @@ cdn.jwalf.com CNAME .
 cdn.luxope.com CNAME .
 cdn.namol.xyz CNAME .
 cdn.nlop.xyz CNAME .
+cdn.noptog.com CNAME .
 cdn.nuqwe.com CNAME .
 cdn.olep.xyz CNAME .
 cdn.pctv.xyz CNAME .

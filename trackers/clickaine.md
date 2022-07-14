@@ -9,8 +9,10 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | ad.arabsex1.com | api.clickaine.com |
+| api.applogy.com | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
 | api.willalland.info | api.clickaine.com |
+| api2.clickaine.com | api.clickaine.com |
 | app.rtnews.pro | api.clickaine.com |
 | app.willalland.info | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
@@ -43,7 +45,9 @@
 | cln.willyporn.com | api.clickaine.com |
 | cn4.animehdl.net | api.clickaine.com |
 | ddd.contoseroticoscnn.com | api.clickaine.com |
+| delivery.applogy.com | api.clickaine.com |
 | dnsbl.test.ww1.willalland.info | api.clickaine.com |
+| faq.brandnewapp.pro | api.clickaine.com |
 | flare.vtube.to | api.clickaine.com |
 | go.analsextuber.com | api.clickaine.com |
 | go.lize.bid | api.clickaine.com |
@@ -52,10 +56,13 @@
 | hruk.jjikk.top | api.clickaine.com |
 | hruk.prikupok.com | api.clickaine.com |
 | hruk.prikupok.icu | api.clickaine.com |
+| icn.brandnewapp.pro | api.clickaine.com |
 | ps1.reallifecam.to | api.clickaine.com |
 | ps2.camcaps.to | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |
+| wp.brandnewapp.pro | api.clickaine.com |
 | ww1.willalland.info | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |
+| xd3r.javgg.eu | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

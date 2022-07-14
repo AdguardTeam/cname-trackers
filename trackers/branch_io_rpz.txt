@@ -161,9 +161,11 @@ ablink.your-way.bk.com CNAME .
 ablink.your.audacy.com CNAME .
 ablinkclicktest.prod.aws.skyscnr.com CNAME .
 ablinks.comms.healthengine.com.au CNAME .
+ablinks.e.draft.com CNAME .
 ablinks.e.foxsports.com.au CNAME .
 ablinks.info.amaro.com CNAME .
 ablinks.kfc.com.au CNAME .
+ablinks.m.draft.com CNAME .
 ablinks.mail.claritymoney.com CNAME .
 ablinks.mail.hinge.co CNAME .
 ablinks.marketing.numi.com CNAME .
@@ -452,6 +454,7 @@ link.syfy-channel.com CNAME .
 link.team.bnext.es CNAME .
 link.team.bnext.io CNAME .
 link.tempo.fit CNAME .
+link.tillfinancial.io CNAME .
 link.touchtunes.com CNAME .
 link.touchtunesmail.com CNAME .
 link.tr.freshly.com CNAME .

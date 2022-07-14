@@ -161,9 +161,11 @@
 ||ablink.your.audacy.com^
 ||ablinkclicktest.prod.aws.skyscnr.com^
 ||ablinks.comms.healthengine.com.au^
+||ablinks.e.draft.com^
 ||ablinks.e.foxsports.com.au^
 ||ablinks.info.amaro.com^
 ||ablinks.kfc.com.au^
+||ablinks.m.draft.com^
 ||ablinks.mail.claritymoney.com^
 ||ablinks.mail.hinge.co^
 ||ablinks.marketing.numi.com^
@@ -452,6 +454,7 @@
 ||link.team.bnext.es^
 ||link.team.bnext.io^
 ||link.tempo.fit^
+||link.tillfinancial.io^
 ||link.touchtunes.com^
 ||link.touchtunesmail.com^
 ||link.tr.freshly.com^

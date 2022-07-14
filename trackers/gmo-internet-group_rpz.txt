@@ -6,9 +6,12 @@
 d.image-ad.jp CNAME .
 d.newssuite.sony.net CNAME .
 favor1.fractal.jp CNAME .
+i.image-ad.jp CNAME .
 i.newssuite.sony.net CNAME .
+j.bg.adresult-sp.jp CNAME .
 j.image-ad.jp CNAME .
 j.newssuite.sony.net CNAME .
+newssuite.sony.net CNAME .
 ;
 ; site-112900816347.gslb5.sakura.ne.jp disguised trackers
 ;

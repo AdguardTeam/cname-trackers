@@ -4,8 +4,10 @@
 ; api.clickaine.com disguised trackers
 ;
 ad.arabsex1.com CNAME .
+api.applogy.com CNAME .
 api.rtnews.pro CNAME .
 api.willalland.info CNAME .
+api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
 app.willalland.info CNAME .
 c4n.asianpinay.com CNAME .
@@ -38,7 +40,9 @@ clknrtrg.pro CNAME .
 cln.willyporn.com CNAME .
 cn4.animehdl.net CNAME .
 ddd.contoseroticoscnn.com CNAME .
+delivery.applogy.com CNAME .
 dnsbl.test.ww1.willalland.info CNAME .
+faq.brandnewapp.pro CNAME .
 flare.vtube.to CNAME .
 go.analsextuber.com CNAME .
 go.lize.bid CNAME .
@@ -47,10 +51,13 @@ hruk.gumasi.top CNAME .
 hruk.jjikk.top CNAME .
 hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
+icn.brandnewapp.pro CNAME .
 ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .
 snow.snowdayonline.xyz CNAME .
+wp.brandnewapp.pro CNAME .
 ww1.willalland.info CNAME .
 www.rtnews.pro CNAME .
+xd3r.javgg.eu CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

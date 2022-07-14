@@ -3,9 +3,12 @@
 #
 # tagcommander.com disguised trackers
 #
+acquisition.klm.com
+data.cofinoga.fr
 data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
+data.decathlon.it
 data.decathlon.pl
 data.ouigo.com
 data.ubi.com

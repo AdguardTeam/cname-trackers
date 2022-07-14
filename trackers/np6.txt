@@ -21,6 +21,7 @@
 ||tr.actus-fdj.fr^
 ||tr.animation.lexpress.fr^
 ||tr.animation.micromania.fr^
+||tr.animations.01net.com^
 ||tr.animations.bfmtv.com^
 ||tr.asp002q.espmp-aufr.net^
 ||tr.asp1.espmp-agfr.net^
@@ -157,6 +158,7 @@
 ||tr.emailium.fr^
 ||tr.enedis-infos.fr^
 ||tr.enews.customsolutions.fr^
+||tr.enquete-cpf.ifop.com^
 ||tr.entreprise-pro.info^
 ||tr.envie-de-bien-manger.espmp-aufr.net^
 ||tr.europa-organisation.com^
@@ -238,6 +240,7 @@
 ||tr.krus.espmp-agfr.net^
 ||tr.leads.direct^
 ||tr.lesmarques.envie-de-bien-manger.com^
+||tr.lettre.dechets-infos.com^
 ||tr.louvre-boites.com^
 ||tr.lvmhappening.lvmh.fr^
 ||tr.m.cwisas.com^
@@ -251,6 +254,7 @@
 ||tr.mail.satisfactory.fr^
 ||tr.mail.vip-mag.co.uk^
 ||tr.mail.vipmag.fr^
+||tr.mail.vo3000.com^
 ||tr.mailing.achatpublic.com^
 ||tr.mailing.lvmhappening.com^
 ||tr.mailing.r2e-humanis.fr^
@@ -261,6 +265,7 @@
 ||tr.marketing.younited-credit.es^
 ||tr.marketing.younited-credit.pt^
 ||tr.mart.espmp-agfr.net^
+||tr.melhores-propostas.pt^
 ||tr.membres.boursorama.info^
 ||tr.mep.enkiapp.io^
 ||tr.message.maaf.fr^
@@ -327,6 +332,7 @@
 ||tr.news.kpmgnet.fr^
 ||tr.news.la-collectionairfrance.fr^
 ||tr.news.la-meilleure-voyance.com^
+||tr.news.lacollection-airfrance.be^
 ||tr.news.lacollection-airfrance.fr^
 ||tr.news.lacollectionairfrance.fr^
 ||tr.news.leclubtravel.fr^
@@ -370,12 +376,14 @@
 ||tr.newsletter.assuragency.net^
 ||tr.newsletter.bouygues-construction.com^
 ||tr.newsletter.capdecision.fr^
+||tr.newsletter.erenumerique.fr^
 ||tr.newsletter.jowae.com^
 ||tr.newsletter.leocare.eu^
 ||tr.newsletter.lierac.com^
 ||tr.newsletter.location.boulanger.com^
 ||tr.newsletter.meilleurmobile.com^
 ||tr.newsletter.milleis.fr^
+||tr.newsletter.np6.fr^
 ||tr.newsletter.phyto.com^
 ||tr.newsletter.plurielmedia.com^
 ||tr.newsletter.roger-gallet.com^
@@ -405,6 +413,7 @@
 ||tr.offerte.migliorifornitori.it^
 ||tr.offre-companeo.com^
 ||tr.offres-professionnelles.fr^
+||tr.offres.01net.com^
 ||tr.offres.bfmtv.com^
 ||tr.offrevip.banque-casino.fr^
 ||tr.offrevip.floa.fr^
@@ -499,5 +508,6 @@
 ||tr1.mailperformance.com^
 ||tr1.peugeot-ipsos.com^
 ||tr5.mailperf.com^
+||tracking.allopneus.com^
 ||trpreviews.bp01.net^
 ||www.newsletter.banquepopulaire.fr^
