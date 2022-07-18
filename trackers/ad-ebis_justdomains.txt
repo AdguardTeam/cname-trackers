@@ -69,6 +69,7 @@ adebis02.juku.st
 adebis8628.matsui.co.jp
 adebiscname.au-sonpo.co.jp
 adebiscname.auone.jp
+adebiscname.sumirin-ht.co.jp
 adebisu.wowow.co.jp
 admeasure.hh-online.jp
 adnl.bk.mufg.jp
@@ -142,6 +143,7 @@ ebis.j-l-m.co.jp
 ebis.jinzai-business.com
 ebis.jobcan.ne.jp
 ebis.jukkou.com
+ebis.kimonoichiba.com
 ebis.kubara.jp
 ebis.kusunosetakeshi.com
 ebis.la-coco.com
@@ -209,6 +211,7 @@ tracking.nokai.jp
 tukuru.cotta.jp
 urerucname.manara.jp
 ureruebis.nintama.co.jp
+urr.kumamoto-food.com
 us9recc3.simseller.goo.ne.jp
 www-ebis.384.co.jp
 www2.hnavi.co.jp

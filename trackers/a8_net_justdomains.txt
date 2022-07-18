@@ -93,6 +93,7 @@ a8clk.kaitori-do.com
 a8clk.kaitori-retrog.jp
 a8clk.kaitori-toretoku.jp
 a8clk.kaitori-yamatokukimono.jp
+a8clk.kake-barai.com
 a8clk.kenkoukazoku.co.jp
 a8clk.life.bang.co.jp
 a8clk.lolipop.jp
@@ -117,6 +118,7 @@ a8clk.recycle-net.jp
 a8clk.rental.geo-online.co.jp
 a8clk.reserve.retty.me
 a8clk.rf28.com
+a8clk.secure.jetboy.jp
 a8clk.shokutakubin.com
 a8clk.shop.kitamura.jp
 a8clk.shop.sunsorit.co.jp
@@ -167,6 +169,7 @@ a8cv.frecious.jp
 a8cv.greed-island.ne.jp
 a8cv.hotyoga-loive.com
 a8cv.housingbazar.jp
+a8cv.i-office1.net
 a8cv.iikyujin.net
 a8cv.interlink.or.jp
 a8cv.ishibashi.co.jp
@@ -174,6 +177,7 @@ a8cv.jp-shop.kiwabi.com
 a8cv.k-ikiiki.jp
 a8cv.kstarselect.com
 a8cv.kuih.jp
+a8cv.kurashi-bears.com
 a8cv.minana-jp.com
 a8cv.minnano-eikaiwa.com
 a8cv.modern-deco.jp
@@ -220,6 +224,7 @@ a8cv.yuyu-tei.jp
 a8cv.zeroen-denki.com
 a8cv2.hoken-choice.com
 a8cventry.uqwimax.jp
+a8net.sourcenext.com
 a8onlineshop.trendmicro.co.jp
 a8redirect.cart.ec-sites.jp
 a8sup.chapup.jp

@@ -124,6 +124,7 @@ ks.walkq.com CNAME .
 l2k30jsa.theochu.com CNAME .
 loggychops.paulsmith.site CNAME .
 meter.bref.sh CNAME .
+metrics.recunia.de CNAME .
 momotaro.craigmod.com CNAME .
 momotaro.walkkumano.com CNAME .
 munnin.hicsuntdra.co CNAME .
@@ -321,6 +322,7 @@ stats.blog.merckx.fr CNAME .
 stats.blog.sean-wright.com CNAME .
 stats.blog.sublimesecurity.com CNAME .
 stats.bmxdevils.be CNAME .
+stats.boscabeatha.ie CNAME .
 stats.breathly.app CNAME .
 stats.briskoda.net CNAME .
 stats.broddin.be CNAME .
@@ -434,6 +436,7 @@ stats.iamzero.dev CNAME .
 stats.ibuildings.net CNAME .
 stats.igevia.com CNAME .
 stats.in-tuition.net CNAME .
+stats.indyhall.org CNAME .
 stats.infoboard.de CNAME .
 stats.innoq.com CNAME .
 stats.instabudget.app CNAME .
@@ -497,7 +500,6 @@ stats.missionrabies.com CNAME .
 stats.mmazzarolo.com CNAME .
 stats.motion-effect.com CNAME .
 stats.motorcyclepartsireland.ie CNAME .
-stats.motornation.net CNAME .
 stats.mtsknn.fi CNAME .
 stats.muchbetteradventures.com CNAME .
 stats.multiply.cloud CNAME .
@@ -578,6 +580,7 @@ stats.robhope.com CNAME .
 stats.rocketvalidator.com CNAME .
 stats.ruhrfestspiele.de CNAME .
 stats.ruthmontenegro.com CNAME .
+stats.sapnininkas.com CNAME .
 stats.savethemothers.org CNAME .
 stats.scailable.net CNAME .
 stats.scalgo.com CNAME .

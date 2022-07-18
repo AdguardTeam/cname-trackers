@@ -129,6 +129,7 @@
 | l2k30jsa.theochu.com | custom.plausible.io |
 | loggychops.paulsmith.site | custom.plausible.io |
 | meter.bref.sh | custom.plausible.io |
+| metrics.recunia.de | custom.plausible.io |
 | momotaro.craigmod.com | custom.plausible.io |
 | momotaro.walkkumano.com | custom.plausible.io |
 | munnin.hicsuntdra.co | custom.plausible.io |
@@ -326,6 +327,7 @@
 | stats.blog.sean-wright.com | custom.plausible.io |
 | stats.blog.sublimesecurity.com | custom.plausible.io |
 | stats.bmxdevils.be | custom.plausible.io |
+| stats.boscabeatha.ie | custom.plausible.io |
 | stats.breathly.app | custom.plausible.io |
 | stats.briskoda.net | custom.plausible.io |
 | stats.broddin.be | custom.plausible.io |
@@ -439,6 +441,7 @@
 | stats.ibuildings.net | custom.plausible.io |
 | stats.igevia.com | custom.plausible.io |
 | stats.in-tuition.net | custom.plausible.io |
+| stats.indyhall.org | custom.plausible.io |
 | stats.infoboard.de | custom.plausible.io |
 | stats.innoq.com | custom.plausible.io |
 | stats.instabudget.app | custom.plausible.io |
@@ -502,7 +505,6 @@
 | stats.mmazzarolo.com | custom.plausible.io |
 | stats.motion-effect.com | custom.plausible.io |
 | stats.motorcyclepartsireland.ie | custom.plausible.io |
-| stats.motornation.net | custom.plausible.io |
 | stats.mtsknn.fi | custom.plausible.io |
 | stats.muchbetteradventures.com | custom.plausible.io |
 | stats.multiply.cloud | custom.plausible.io |
@@ -583,6 +585,7 @@
 | stats.rocketvalidator.com | custom.plausible.io |
 | stats.ruhrfestspiele.de | custom.plausible.io |
 | stats.ruthmontenegro.com | custom.plausible.io |
+| stats.sapnininkas.com | custom.plausible.io |
 | stats.savethemothers.org | custom.plausible.io |
 | stats.scailable.net | custom.plausible.io |
 | stats.scalgo.com | custom.plausible.io |

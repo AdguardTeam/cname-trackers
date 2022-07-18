@@ -93,6 +93,7 @@ a8clk.kaitori-do.com CNAME .
 a8clk.kaitori-retrog.jp CNAME .
 a8clk.kaitori-toretoku.jp CNAME .
 a8clk.kaitori-yamatokukimono.jp CNAME .
+a8clk.kake-barai.com CNAME .
 a8clk.kenkoukazoku.co.jp CNAME .
 a8clk.life.bang.co.jp CNAME .
 a8clk.lolipop.jp CNAME .
@@ -117,6 +118,7 @@ a8clk.recycle-net.jp CNAME .
 a8clk.rental.geo-online.co.jp CNAME .
 a8clk.reserve.retty.me CNAME .
 a8clk.rf28.com CNAME .
+a8clk.secure.jetboy.jp CNAME .
 a8clk.shokutakubin.com CNAME .
 a8clk.shop.kitamura.jp CNAME .
 a8clk.shop.sunsorit.co.jp CNAME .
@@ -167,6 +169,7 @@ a8cv.frecious.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
 a8cv.hotyoga-loive.com CNAME .
 a8cv.housingbazar.jp CNAME .
+a8cv.i-office1.net CNAME .
 a8cv.iikyujin.net CNAME .
 a8cv.interlink.or.jp CNAME .
 a8cv.ishibashi.co.jp CNAME .
@@ -174,6 +177,7 @@ a8cv.jp-shop.kiwabi.com CNAME .
 a8cv.k-ikiiki.jp CNAME .
 a8cv.kstarselect.com CNAME .
 a8cv.kuih.jp CNAME .
+a8cv.kurashi-bears.com CNAME .
 a8cv.minana-jp.com CNAME .
 a8cv.minnano-eikaiwa.com CNAME .
 a8cv.modern-deco.jp CNAME .
@@ -220,6 +224,7 @@ a8cv.yuyu-tei.jp CNAME .
 a8cv.zeroen-denki.com CNAME .
 a8cv2.hoken-choice.com CNAME .
 a8cventry.uqwimax.jp CNAME .
+a8net.sourcenext.com CNAME .
 a8onlineshop.trendmicro.co.jp CNAME .
 a8redirect.cart.ec-sites.jp CNAME .
 a8sup.chapup.jp CNAME .

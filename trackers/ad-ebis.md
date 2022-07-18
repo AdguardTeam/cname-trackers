@@ -27,6 +27,7 @@
     * 17a0a051-yhrqdvjf.cname.ebis.ne.jp
     * 17db93a8-scxitlgt.cname.ebis.ne.jp
     * 18aeb18f-orvgub9g.cname.ebis.ne.jp
+    * 19b07d2c-szarg4cw.cname.ebis.ne.jp
     * 1a549c8f-lxybwclf.cname.ebis.ne.jp
     * 1c49adf8-5jfswxpe.cname.ebis.ne.jp
     * 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp
@@ -44,6 +45,7 @@
     * 2f22dbfa-day5axk4.cname.ebis.ne.jp
     * 2feef04e-wnxavwja.cname.ebis.ne.jp
     * 30a5817d-lkhaegjw.cname.ebis.ne.jp
+    * 3161a54f-5b4wkpdw.cname.ebis.ne.jp
     * 31e48120-fbzwhcnp.cname.ebis.ne.jp
     * 337c50cc-ztaqjkmm.cname.ebis.ne.jp
     * 34213ab6-xnj2xrq7.cname.ebis.ne.jp
@@ -75,6 +77,7 @@
     * 5032afa8-66fsga6n.cname.ebis.ne.jp
     * 509d6481-wvh2yr4f.cname.ebis.ne.jp
     * 518dea17-lwmskzks.cname.ebis.ne.jp
+    * 51c49914-chxzuwk9.cname.ebis.ne.jp
     * 520a8d3c-sxwkkncm.cname.ebis.ne.jp
     * 52e84b1b-f9cqqk3h.cname.ebis.ne.jp
     * 531ea578-esqb2ypb.cname.ebis.ne.jp
@@ -242,6 +245,7 @@
 | ebis.nomu-silica.jp | 17a0a051-yhrqdvjf.cname.ebis.ne.jp |
 | cs0010sbeda.theory-diet.com | 17db93a8-scxitlgt.cname.ebis.ne.jp |
 | ebis.rozetta.jp | 18aeb18f-orvgub9g.cname.ebis.ne.jp |
+| urr.kumamoto-food.com | 19b07d2c-szarg4cw.cname.ebis.ne.jp |
 | ade.deskstyle.info | 1a549c8f-lxybwclf.cname.ebis.ne.jp |
 | ac-ebis-stb.usen.com | 1c49adf8-5jfswxpe.cname.ebis.ne.jp |
 | marketing.biz.mynavi.jp | 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp |
@@ -259,6 +263,7 @@
 | ebis.belta.co.jp | 2f22dbfa-day5axk4.cname.ebis.ne.jp |
 | ebis01.zkai.co.jp | 2feef04e-wnxavwja.cname.ebis.ne.jp |
 | adebis-morijuku.morijuku.com | 30a5817d-lkhaegjw.cname.ebis.ne.jp |
+| ebis.kimonoichiba.com | 3161a54f-5b4wkpdw.cname.ebis.ne.jp |
 | cname-ade.hankoya.com | 31e48120-fbzwhcnp.cname.ebis.ne.jp |
 | adebis.afc-shop.com | 337c50cc-ztaqjkmm.cname.ebis.ne.jp |
 | adebis.report.clinic | 34213ab6-xnj2xrq7.cname.ebis.ne.jp |
@@ -290,6 +295,7 @@
 | adebis.nursery.co.jp | 5032afa8-66fsga6n.cname.ebis.ne.jp |
 | ebis.kusunosetakeshi.com | 509d6481-wvh2yr4f.cname.ebis.ne.jp |
 | cvs.kireimo.jp | 518dea17-lwmskzks.cname.ebis.ne.jp |
+| adebiscname.sumirin-ht.co.jp | 51c49914-chxzuwk9.cname.ebis.ne.jp |
 | adebis.chojyu.com | 520a8d3c-sxwkkncm.cname.ebis.ne.jp |
 | adebis-52667624.wowma.jp | 52e84b1b-f9cqqk3h.cname.ebis.ne.jp |
 | ebis.2jikaikun.com | 531ea578-esqb2ypb.cname.ebis.ne.jp |

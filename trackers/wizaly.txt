@@ -41,6 +41,7 @@
 ||tk.dietbon.fr^
 ||tk.domitys.fr^
 ||tk.engie.fr^
+||tk.etam.com^
 ||tk.healthwarehouse.com^
 ||tk.hypnia.fr^
 ||tk.jeux.loro.ch^
@@ -64,6 +65,7 @@
 ||tk.salomon.com^
 ||tk.svsound.com^
 ||tk.transavia.com^
+||tk.undiz.com^
 ||tk.viapresse.com^
 ||twiz.wizaly.fr^
 ||wiz.ghostbed.com^

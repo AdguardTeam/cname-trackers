@@ -147,6 +147,7 @@
 ||3493753.notifysrv.com^
 ||3498171.notify6.com^
 ||3501655.notify6.com^
+||3505119.notify6.com^
 ||3505135.notifysrv.com^
 ||3505139.notify6.com^
 ||3505143.notifysrv.com^
@@ -279,6 +280,7 @@
 ||3869462.notify6.com^
 ||3869504.notifysrv.com^
 ||3869854.notifysrv.com^
+||3869926.notify6.com^
 ||3870370.notify6.com^
 ||3880638.notify6.com^
 ||3881818.notify6.com^
@@ -355,6 +357,7 @@
 ||4290976.notify6.com^
 ||4298194.notify6.com^
 ||4300970.notify6.com^
+||4305016.notify6.com^
 ||4305094.notify6.com^
 ||4327052.notify6.com^
 ||4329288.notify6.com^
@@ -378,7 +381,6 @@
 ||4680526.notify6.com^
 ||6180.notify.optimizesrv.com^
 ||a.etology.com^
-||admin.adnation.com^
 ||api.adnation.com^
 ||delivery.gettopple.com^
 ||engine.gettopple.com^
@@ -405,6 +407,7 @@
 ||s.etology.com^
 ||s.exv6.com^
 ||s.linkv3c.com^
+||s.linkw2e.com^
 ||s.linkw2g.com^
 ||s.opoxv.com^
 ||s.opti-digital.com^

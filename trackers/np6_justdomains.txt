@@ -167,6 +167,7 @@ tr.expresofferte.be
 tr.fidal.pro
 tr.fidalformation.pro
 tr.fr.pro.accor.com
+tr.futurecommerce.moethennessy.com
 tr.gdfsuez-globalenergy.info
 tr.gen.espmp-agfr.net
 tr.gestion.banque-casino.fr
@@ -269,6 +270,7 @@ tr.melhores-propostas.pt
 tr.membres.boursorama.info
 tr.mep.enkiapp.io
 tr.message.maaf.fr
+tr.mh-connect.moethennessy.com
 tr.mhist.moethennessy.com
 tr.mijn-superaanbieding.be
 tr.mijnaanbieding.renowizz.be
@@ -295,6 +297,7 @@ tr.news.a-t.fr
 tr.news.accessmbatour.com
 tr.news.alibabuy.com
 tr.news.alinea.com
+tr.news.allopneus.be
 tr.news.allopneus.com
 tr.news.assuragency.net
 tr.news.c-media.fr
@@ -475,6 +478,7 @@ tr.souscription.floa.fr
 tr.spain.plimsoll.es
 tr.strategie.gouv.fr
 tr.tdgx.espmp-cufr.net
+tr.thisiseurope.moethennessy.com
 tr.toner-service.fr
 tr.toner-services.fr
 tr.tonerservices.fr

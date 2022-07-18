@@ -167,6 +167,7 @@ tr.expresofferte.be CNAME .
 tr.fidal.pro CNAME .
 tr.fidalformation.pro CNAME .
 tr.fr.pro.accor.com CNAME .
+tr.futurecommerce.moethennessy.com CNAME .
 tr.gdfsuez-globalenergy.info CNAME .
 tr.gen.espmp-agfr.net CNAME .
 tr.gestion.banque-casino.fr CNAME .
@@ -269,6 +270,7 @@ tr.melhores-propostas.pt CNAME .
 tr.membres.boursorama.info CNAME .
 tr.mep.enkiapp.io CNAME .
 tr.message.maaf.fr CNAME .
+tr.mh-connect.moethennessy.com CNAME .
 tr.mhist.moethennessy.com CNAME .
 tr.mijn-superaanbieding.be CNAME .
 tr.mijnaanbieding.renowizz.be CNAME .
@@ -295,6 +297,7 @@ tr.news.a-t.fr CNAME .
 tr.news.accessmbatour.com CNAME .
 tr.news.alibabuy.com CNAME .
 tr.news.alinea.com CNAME .
+tr.news.allopneus.be CNAME .
 tr.news.allopneus.com CNAME .
 tr.news.assuragency.net CNAME .
 tr.news.c-media.fr CNAME .
@@ -475,6 +478,7 @@ tr.souscription.floa.fr CNAME .
 tr.spain.plimsoll.es CNAME .
 tr.strategie.gouv.fr CNAME .
 tr.tdgx.espmp-cufr.net CNAME .
+tr.thisiseurope.moethennessy.com CNAME .
 tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .
 tr.tonerservices.fr CNAME .

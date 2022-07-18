@@ -7,6 +7,7 @@
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
 2022.hizetnet.xyz CNAME .
+2bx0h7o3zw.nelasleaks.com CNAME .
 4.syndadu.xyz CNAME .
 4rdjebtm2i.nelasleaks.com CNAME .
 58745.clicknplay.to CNAME .
@@ -34,6 +35,7 @@ a.chastityvideos.com CNAME .
 a.digitalgiftshopping.com CNAME .
 a.dirtyasmr.com CNAME .
 a.dorkim.club CNAME .
+a.dphunters.me CNAME .
 a.eachporn.com CNAME .
 a.emwstore.xyz CNAME .
 a.epicgoo.com CNAME .
@@ -63,6 +65,7 @@ a5g.oves.biz CNAME .
 aa.zerg.pro CNAME .
 abc.comick.top CNAME .
 abee.yeeowl.xyz CNAME .
+abracadabrahub.com CNAME .
 acdn.uploads.mobi CNAME .
 ad.emule-island.eu CNAME .
 ad.ttstreaming.stream CNAME .
@@ -138,6 +141,7 @@ banana.emailon.top CNAME .
 baren.hejkaheel.xyz CNAME .
 best.gobiga.xyz CNAME .
 best.s5live.com CNAME .
+blablahub.com CNAME .
 blog.andropps.com CNAME .
 bob.bezucai.com CNAME .
 bzcdn.fin.ovh CNAME .
@@ -173,6 +177,7 @@ dontbeabadboy.javboys.com CNAME .
 dontblock.jaaavjavs1.buzz CNAME .
 dontblock.jav1jav2.buzz CNAME .
 dontblock.javjav1.buzz CNAME .
+ebays.beauty CNAME .
 ebd.cda-hd.cc CNAME .
 ebd.cda-hd.co CNAME .
 eco.blendxxx.com CNAME .
@@ -218,6 +223,7 @@ kuhdsysdas.indexsubtitle.com CNAME .
 l.rated.sex CNAME .
 larasub.conxxx.pro CNAME .
 likse.aaaf.info CNAME .
+livenews.autos CNAME .
 lixir.wargers.org CNAME .
 load.jabx.net CNAME .
 load.try-games.com CNAME .
@@ -231,6 +237,7 @@ marcusdevs.ru CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 missunow.lol CNAME .
+morezone.lol CNAME .
 my.shymilftube.com CNAME .
 mydomainbest.com CNAME .
 nav.srcdn.xyz CNAME .
@@ -300,6 +307,8 @@ spy.luvprn.com CNAME .
 spyglass.octanime.net CNAME .
 spyglass.reklamko.pro CNAME .
 srv.clinno.link CNAME .
+sshopee.beauty CNAME .
+statement.blauenseville.buzz CNAME .
 stuff.wikiporno.org CNAME .
 support.streamjav.top CNAME .
 szj.boombay.xyz CNAME .

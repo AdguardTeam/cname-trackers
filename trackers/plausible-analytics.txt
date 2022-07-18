@@ -124,6 +124,7 @@
 ||l2k30jsa.theochu.com^
 ||loggychops.paulsmith.site^
 ||meter.bref.sh^
+||metrics.recunia.de^
 ||momotaro.craigmod.com^
 ||momotaro.walkkumano.com^
 ||munnin.hicsuntdra.co^
@@ -321,6 +322,7 @@
 ||stats.blog.sean-wright.com^
 ||stats.blog.sublimesecurity.com^
 ||stats.bmxdevils.be^
+||stats.boscabeatha.ie^
 ||stats.breathly.app^
 ||stats.briskoda.net^
 ||stats.broddin.be^
@@ -434,6 +436,7 @@
 ||stats.ibuildings.net^
 ||stats.igevia.com^
 ||stats.in-tuition.net^
+||stats.indyhall.org^
 ||stats.infoboard.de^
 ||stats.innoq.com^
 ||stats.instabudget.app^
@@ -497,7 +500,6 @@
 ||stats.mmazzarolo.com^
 ||stats.motion-effect.com^
 ||stats.motorcyclepartsireland.ie^
-||stats.motornation.net^
 ||stats.mtsknn.fi^
 ||stats.muchbetteradventures.com^
 ||stats.multiply.cloud^
@@ -578,6 +580,7 @@
 ||stats.rocketvalidator.com^
 ||stats.ruhrfestspiele.de^
 ||stats.ruthmontenegro.com^
+||stats.sapnininkas.com^
 ||stats.savethemothers.org^
 ||stats.scailable.net^
 ||stats.scalgo.com^

@@ -217,6 +217,7 @@ web.info.varelotteriet.dk CNAME .
 web.info.yeppon.it CNAME .
 web.mail.proximaati.com CNAME .
 web.mapp.ilgiardinodeilibri.it CNAME .
+web.mapp.naturzeit.com CNAME .
 web.mapp.skousen.dk CNAME .
 web.mapp.skousen.no CNAME .
 web.mapp.tretti.se CNAME .

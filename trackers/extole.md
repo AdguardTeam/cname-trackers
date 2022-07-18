@@ -49,6 +49,7 @@
 | refer.clearme.com | clearme-ssl.extole.com |
 | ilove.volusion.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
+| tellapal.web.com | d.extole.com |
 | refer.discover.com | discover.extole.com |
 | refer.freshly.com | freshly.extole.com |
 | refer.hannaandersson.com | hannaandersson.extole.com |

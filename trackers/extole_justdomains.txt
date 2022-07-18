@@ -34,6 +34,7 @@ share.na.sage.com
 share.qalo.com
 share.vimeo.com
 tellapal.register.com
+tellapal.web.com
 #
 # media-router-aol1.prod.g03.yahoodns.net disguised trackers
 #

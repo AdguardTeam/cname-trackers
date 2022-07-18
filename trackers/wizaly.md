@@ -15,6 +15,7 @@
     * tk-dietbon-fr.wizaly.com
     * tk-domitys-fr.wizaly.com
     * tk-engie-com.wizaly.com
+    * tk-etam-com.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
     * tk-hypnia-fr.wizaly.com
     * tk-jeux-loro-ch.wizaly.com
@@ -34,6 +35,7 @@
     * tk-salomon-com.wizaly.com
     * tk-sncf.wizaly.com
     * tk-svsound-com.wizaly.com
+    * tk-undiz-com.wizaly.com
     * tk-viapresse-com.wizaly.com
     * tk_prismashop_fr.wizaly.com
     * tk_transavia_com.wizaly.com
@@ -59,6 +61,7 @@
 | tk.dietbon.fr | tk-dietbon-fr.wizaly.com |
 | tk.domitys.fr | tk-domitys-fr.wizaly.com |
 | tk.engie.fr | tk-engie-com.wizaly.com |
+| tk.etam.com | tk-etam-com.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |
 | tk.hypnia.fr | tk-hypnia-fr.wizaly.com |
 | tk.jeux.loro.ch | tk-jeux-loro-ch.wizaly.com |
@@ -78,6 +81,7 @@
 | tk.salomon.com | tk-salomon-com.wizaly.com |
 | wiz.sncf-connect.com | tk-sncf.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |
+| tk.undiz.com | tk-undiz-com.wizaly.com |
 | tk.viapresse.com | tk-viapresse-com.wizaly.com |
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |
 | tk.transavia.com | tk_transavia_com.wizaly.com |

@@ -4,6 +4,7 @@
 ; dataunlocker.com disguised trackers
 ;
 0naqzso7re3p.tapmyback.com CNAME .
+0o77qjtrfkmo.www.earthclassmail.com CNAME .
 11b6n4ty2x3.taxliencode.com CNAME .
 13js1lbtbj3.sparkloop.app CNAME .
 1796kpkzuwj.www.hawpar.com CNAME .
@@ -46,6 +47,7 @@ gomyjndc8v5t.www.nookgaming.com CNAME .
 hkhpnqciykaf.www.gamecamp.gg CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
+ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
 j1kmigrhwjf4.angelacampos.es CNAME .
 k5ygj3bivnrp.uae.revent.store CNAME .
 kizpfrvi518a.www.crystalmathlabs.com CNAME .
@@ -59,7 +61,6 @@ ocjeg2ca9uh9.mailfloss.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
-r2e6kc0wrhvf.www.cybernetman.com CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s4s51f00a3o7.www.eldorado.gg CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .

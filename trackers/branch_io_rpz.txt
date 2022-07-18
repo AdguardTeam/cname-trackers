@@ -235,6 +235,7 @@ branch.livenation.com CNAME .
 branch.pgatour-mail.com CNAME .
 branch.xoxloveheart.com CNAME .
 branchct.ncapp04.com CNAME .
+branchio.hipages.com.au CNAME .
 branchlink.adobespark.com CNAME .
 branchtrk.lendingtree.com CNAME .
 brc.emails.rakuten.com CNAME .

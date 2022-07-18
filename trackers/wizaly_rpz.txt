@@ -41,6 +41,7 @@ tk.conforama.fr CNAME .
 tk.dietbon.fr CNAME .
 tk.domitys.fr CNAME .
 tk.engie.fr CNAME .
+tk.etam.com CNAME .
 tk.healthwarehouse.com CNAME .
 tk.hypnia.fr CNAME .
 tk.jeux.loro.ch CNAME .
@@ -64,6 +65,7 @@ tk.rentacar.fr CNAME .
 tk.salomon.com CNAME .
 tk.svsound.com CNAME .
 tk.transavia.com CNAME .
+tk.undiz.com CNAME .
 tk.viapresse.com CNAME .
 twiz.wizaly.fr CNAME .
 wiz.ghostbed.com CNAME .

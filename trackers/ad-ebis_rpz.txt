@@ -69,6 +69,7 @@ adebis02.juku.st CNAME .
 adebis8628.matsui.co.jp CNAME .
 adebiscname.au-sonpo.co.jp CNAME .
 adebiscname.auone.jp CNAME .
+adebiscname.sumirin-ht.co.jp CNAME .
 adebisu.wowow.co.jp CNAME .
 admeasure.hh-online.jp CNAME .
 adnl.bk.mufg.jp CNAME .
@@ -142,6 +143,7 @@ ebis.j-l-m.co.jp CNAME .
 ebis.jinzai-business.com CNAME .
 ebis.jobcan.ne.jp CNAME .
 ebis.jukkou.com CNAME .
+ebis.kimonoichiba.com CNAME .
 ebis.kubara.jp CNAME .
 ebis.kusunosetakeshi.com CNAME .
 ebis.la-coco.com CNAME .
@@ -209,6 +211,7 @@ tracking.nokai.jp CNAME .
 tukuru.cotta.jp CNAME .
 urerucname.manara.jp CNAME .
 ureruebis.nintama.co.jp CNAME .
+urr.kumamoto-food.com CNAME .
 us9recc3.simseller.goo.ne.jp CNAME .
 www-ebis.384.co.jp CNAME .
 www2.hnavi.co.jp CNAME .
