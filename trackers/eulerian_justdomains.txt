@@ -123,7 +123,6 @@ ea.voyage-prive.co.uk
 ea.voyage-prive.es
 ea.voyage-prive.it
 ea.warnerbros.fr
-eat9.thebeat925.ca
 ebc1.capifrance.fr
 ef.futuroscope.com
 ef.futuroscope.mobi
@@ -303,6 +302,7 @@ t.locasun.it
 t.locasun.nl
 t.pmu.fr
 t.voyages-sncf.com
+t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tdf1.easyviaggio.com

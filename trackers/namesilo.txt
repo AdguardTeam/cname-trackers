@@ -222,6 +222,7 @@
 ||3607715.notify6.com^
 ||3607715.notifysrv.com^
 ||3608083.notifysrv.com^
+||3613299.notifysrv.com^
 ||3618939.notify6.com^
 ||3621607.notifysrv.com^
 ||3622691.notify6.com^
@@ -344,6 +345,7 @@
 ||4191292.notify6.com^
 ||4197730.notify6.com^
 ||4211854.notify6.com^
+||4212982.notify6.com^
 ||4214522.notify6.com^
 ||4230500.notify6.com^
 ||4231374.notify6.com^
@@ -379,6 +381,7 @@
 ||4623392.notify6.com^
 ||4623404.notify6.com^
 ||4680526.notify6.com^
+||4735242.notify6.com^
 ||6180.notify.optimizesrv.com^
 ||a.etology.com^
 ||api.adnation.com^
@@ -429,6 +432,7 @@
 ||syndication.dynsrvtbg.com^
 ||syndication.dynsrvwer.com^
 ||syndication.elink12.com^
+||syndication.elink66.com^
 ||syndication.elink77.com^
 ||syndication.epcmh.com^
 ||syndication.epcmk.com^

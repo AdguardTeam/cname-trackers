@@ -19,6 +19,7 @@
 ||tr.actualites.bfmtv.com^
 ||tr.actupremium.com^
 ||tr.actus-fdj.fr^
+||tr.allopneus.com^
 ||tr.animation.lexpress.fr^
 ||tr.animation.micromania.fr^
 ||tr.animations.01net.com^
@@ -328,6 +329,9 @@
 ||tr.news.futuramedia.fr^
 ||tr.news.geantcasino.fr^
 ||tr.news.geomag.fr^
+||tr.news.glance-mediametrie.com^
+||tr.news.hallobanden.be^
+||tr.news.hallobanden.nl^
 ||tr.news.heredis.com^
 ||tr.news.i24news.tv^
 ||tr.news.infopro-digital.com^
@@ -380,6 +384,7 @@
 ||tr.newsletter.bouygues-construction.com^
 ||tr.newsletter.capdecision.fr^
 ||tr.newsletter.erenumerique.fr^
+||tr.newsletter.huilesdolive.fr^
 ||tr.newsletter.jowae.com^
 ||tr.newsletter.leocare.eu^
 ||tr.newsletter.lierac.com^
@@ -447,6 +452,7 @@
 ||tr.ratm.espmp-agfr.net^
 ||tr.raym.espmp-agfr.net^
 ||tr.read.glose.com^
+||tr.recouvrement.seeric.com^
 ||tr.recouvrement.younited-credit.com^
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^

@@ -302,6 +302,7 @@ stats.am.ai CNAME .
 stats.amiibo.life CNAME .
 stats.arquido.com CNAME .
 stats.artefact.space CNAME .
+stats.auto-dombrowski.de CNAME .
 stats.baptistwomen.com CNAME .
 stats.barriestephenhair.co.uk CNAME .
 stats.basecamp.com CNAME .
@@ -493,6 +494,7 @@ stats.mastermeup.com CNAME .
 stats.matthiasloibl.com CNAME .
 stats.matthogg.fyi CNAME .
 stats.maurer-rides.de CNAME .
+stats.maximaconsulting.xyz CNAME .
 stats.melvingeorge.me CNAME .
 stats.menn.blog CNAME .
 stats.mesenvies.fr CNAME .

@@ -243,6 +243,7 @@ web.sensilab.si CNAME .
 web.sidsavage.com CNAME .
 web.slimjoy.se CNAME .
 web.solesource.com CNAME .
+web.tummy-tox.com CNAME .
 web.x.ilpost.it CNAME .
 webmet.creditreform.de CNAME .
 webt.eleonto.com CNAME .

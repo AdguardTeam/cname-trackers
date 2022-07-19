@@ -19,6 +19,7 @@ tr.actualites.01net.com CNAME .
 tr.actualites.bfmtv.com CNAME .
 tr.actupremium.com CNAME .
 tr.actus-fdj.fr CNAME .
+tr.allopneus.com CNAME .
 tr.animation.lexpress.fr CNAME .
 tr.animation.micromania.fr CNAME .
 tr.animations.01net.com CNAME .
@@ -328,6 +329,9 @@ tr.news.exclu.fr CNAME .
 tr.news.futuramedia.fr CNAME .
 tr.news.geantcasino.fr CNAME .
 tr.news.geomag.fr CNAME .
+tr.news.glance-mediametrie.com CNAME .
+tr.news.hallobanden.be CNAME .
+tr.news.hallobanden.nl CNAME .
 tr.news.heredis.com CNAME .
 tr.news.i24news.tv CNAME .
 tr.news.infopro-digital.com CNAME .
@@ -380,6 +384,7 @@ tr.newsletter.assuragency.net CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
 tr.newsletter.erenumerique.fr CNAME .
+tr.newsletter.huilesdolive.fr CNAME .
 tr.newsletter.jowae.com CNAME .
 tr.newsletter.leocare.eu CNAME .
 tr.newsletter.lierac.com CNAME .
@@ -447,6 +452,7 @@ tr.ra.cofinoga.fr CNAME .
 tr.ratm.espmp-agfr.net CNAME .
 tr.raym.espmp-agfr.net CNAME .
 tr.read.glose.com CNAME .
+tr.recouvrement.seeric.com CNAME .
 tr.recouvrement.younited-credit.com CNAME .
 tr.redaction.essentiel-sante-magazine.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .

@@ -243,6 +243,7 @@
 ||web.sidsavage.com^
 ||web.slimjoy.se^
 ||web.solesource.com^
+||web.tummy-tox.com^
 ||web.x.ilpost.it^
 ||webmet.creditreform.de^
 ||webt.eleonto.com^

@@ -110,6 +110,7 @@ cs0010sbeda.theory-diet.com
 cs0010sbeda.theory-kumatarumi.com
 cs0113sbeda.convenient-smooth.net
 cvs.kireimo.jp
+d-kint.d-kintetsu.co.jp
 digital.anicom-sompo.co.jp
 eb.bewithyou.jp
 eb.o-b-labo.com
@@ -165,6 +166,7 @@ ebis.sbismile.co.jp
 ebis.seibu-k.co.jp
 ebis.sekisuihouse.co.jp
 ebis.sekisuihouse.com
+ebis.shabon.com
 ebis.smakon.jp
 ebis.studio-alice.co.jp
 ebis.studioindi-yokohama.com
@@ -190,7 +192,6 @@ greenjapan-cname.green-japan.com
 isebis.takamiclinic.or.jp
 isebis.yutoriform.com
 itp.phoebebeautyup.com
-jj85xnjq.ybqwah.ntt.com
 kyoufukudoucname.worldsmile.net
 marketing.biz.mynavi.jp
 marketing.zwei.com
@@ -201,7 +202,6 @@ ncc.nip-col.jp
 nlp-japan.life-and-mind.com
 os.beauty-health.today
 partner.haru-shop.jp
-qxhydkz8.hmjdaw.ntt.com
 seo.tkc110.jp
 sep02.hinagiku-life.jp
 sinceregarden.sincere-garden.jp

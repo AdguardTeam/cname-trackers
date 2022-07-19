@@ -3,6 +3,9 @@
 ;
 ; extole.com disguised trackers
 ;
+amis.keurig.ca CNAME .
+friends.keurig.ca CNAME .
+friends.keurig.com CNAME .
 ilove.volusion.com CNAME .
 refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .

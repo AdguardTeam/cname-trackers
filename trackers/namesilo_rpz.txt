@@ -222,6 +222,7 @@
 3607715.notify6.com CNAME .
 3607715.notifysrv.com CNAME .
 3608083.notifysrv.com CNAME .
+3613299.notifysrv.com CNAME .
 3618939.notify6.com CNAME .
 3621607.notifysrv.com CNAME .
 3622691.notify6.com CNAME .
@@ -344,6 +345,7 @@
 4191292.notify6.com CNAME .
 4197730.notify6.com CNAME .
 4211854.notify6.com CNAME .
+4212982.notify6.com CNAME .
 4214522.notify6.com CNAME .
 4230500.notify6.com CNAME .
 4231374.notify6.com CNAME .
@@ -379,6 +381,7 @@
 4623392.notify6.com CNAME .
 4623404.notify6.com CNAME .
 4680526.notify6.com CNAME .
+4735242.notify6.com CNAME .
 6180.notify.optimizesrv.com CNAME .
 a.etology.com CNAME .
 api.adnation.com CNAME .
@@ -429,6 +432,7 @@ syndication-adblock.exoclick.com CNAME .
 syndication.dynsrvtbg.com CNAME .
 syndication.dynsrvwer.com CNAME .
 syndication.elink12.com CNAME .
+syndication.elink66.com CNAME .
 syndication.elink77.com CNAME .
 syndication.epcmh.com CNAME .
 syndication.epcmk.com CNAME .

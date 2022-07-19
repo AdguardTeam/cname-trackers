@@ -110,6 +110,7 @@ cs0010sbeda.theory-diet.com CNAME .
 cs0010sbeda.theory-kumatarumi.com CNAME .
 cs0113sbeda.convenient-smooth.net CNAME .
 cvs.kireimo.jp CNAME .
+d-kint.d-kintetsu.co.jp CNAME .
 digital.anicom-sompo.co.jp CNAME .
 eb.bewithyou.jp CNAME .
 eb.o-b-labo.com CNAME .
@@ -165,6 +166,7 @@ ebis.sbismile.co.jp CNAME .
 ebis.seibu-k.co.jp CNAME .
 ebis.sekisuihouse.co.jp CNAME .
 ebis.sekisuihouse.com CNAME .
+ebis.shabon.com CNAME .
 ebis.smakon.jp CNAME .
 ebis.studio-alice.co.jp CNAME .
 ebis.studioindi-yokohama.com CNAME .
@@ -190,7 +192,6 @@ greenjapan-cname.green-japan.com CNAME .
 isebis.takamiclinic.or.jp CNAME .
 isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
-jj85xnjq.ybqwah.ntt.com CNAME .
 kyoufukudoucname.worldsmile.net CNAME .
 marketing.biz.mynavi.jp CNAME .
 marketing.zwei.com CNAME .
@@ -201,7 +202,6 @@ ncc.nip-col.jp CNAME .
 nlp-japan.life-and-mind.com CNAME .
 os.beauty-health.today CNAME .
 partner.haru-shop.jp CNAME .
-qxhydkz8.hmjdaw.ntt.com CNAME .
 seo.tkc110.jp CNAME .
 sep02.hinagiku-life.jp CNAME .
 sinceregarden.sincere-garden.jp CNAME .

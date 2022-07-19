@@ -5,6 +5,7 @@
 #
 activate.aami.com.au
 activate.academy.com
+activate.anntaylor.com
 activate.bingle.com.au
 activate.columbiaflier.com
 activate.courant.com

@@ -14,6 +14,9 @@
     * hannaandersson.extole.com
     * healthypaws.extole.com
     * hostgator.extole.com
+    * keurig-ssl.extole.com
+    * keurigca.extole.com
+    * keurigfr.extole.com
     * luckyvitamin.extole.com
     * moo.extole.com
     * ozforex-au.extole.com
@@ -55,6 +58,9 @@
 | refer.hannaandersson.com | hannaandersson.extole.com |
 | refer.healthypawspetinsurance.com | healthypaws.extole.com |
 | referral.hostgator.com | hostgator.extole.com |
+| friends.keurig.com | keurig-ssl.extole.com |
+| friends.keurig.ca | keurigca.extole.com |
+| amis.keurig.ca | keurigfr.extole.com |
 | refer.luckyvitamin.com | luckyvitamin.extole.com |
 | refer.aol.com | media-router-aol1.prod.g03.yahoodns.net |
 | refer.moo.com | moo.extole.com |

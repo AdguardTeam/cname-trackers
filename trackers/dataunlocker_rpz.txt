@@ -64,16 +64,17 @@ qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s4s51f00a3o7.www.eldorado.gg CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
+ti3av8k3ikwm.resume.gerardbosch.xyz CNAME .
 tos5dqejpd.www.freecodecamp.org CNAME .
 twn36gx4109r.loveisblank.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
 vzal21mooz.hyperwrite.ai CNAME .
+w38ju82bano4.cv.gerardbosch.xyz CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
-zoijkvuvvplo.www.earthclassmail.com CNAME .
 ;
 ; monopoly-drain.ga disguised trackers
 ;

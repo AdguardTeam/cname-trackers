@@ -324,6 +324,7 @@ tom.beclin.xyz CNAME .
 tomboy.lol CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
+tuckbos.lol CNAME .
 turbo.binande.xyz CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .

@@ -5,6 +5,7 @@
 ;
 activate.aami.com.au CNAME .
 activate.academy.com CNAME .
+activate.anntaylor.com CNAME .
 activate.bingle.com.au CNAME .
 activate.columbiaflier.com CNAME .
 activate.courant.com CNAME .

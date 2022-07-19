@@ -3,6 +3,9 @@
 !
 ! extole.com disguised trackers
 !
+||amis.keurig.ca^
+||friends.keurig.ca^
+||friends.keurig.com^
 ||ilove.volusion.com^
 ||refer.ahsfriends.com^
 ||refer.american-giant.com^

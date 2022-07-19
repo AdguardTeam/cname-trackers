@@ -31,6 +31,7 @@
 ||col.idealista.pt^
 ||collect.meilleurtaux.com^
 ||conimicutlighthouse.viessmann-us.com^
+||crocetta.viessmann.it^
 ||culture.intermedes.com^
 ||d.m-net.de^
 ||d.uni-medias.com^

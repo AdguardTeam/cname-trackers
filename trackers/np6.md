@@ -24,6 +24,7 @@
 | tr.actualites.bfmtv.com | tracking.bp01.net |
 | tr.actupremium.com | tracking.bp01.net |
 | tr.actus-fdj.fr | tracking.bp01.net |
+| tr.allopneus.com | tracking.bp01.net |
 | tr.animation.lexpress.fr | tracking.bp01.net |
 | tr.animation.micromania.fr | tracking.bp01.net |
 | tr.animations.01net.com | tracking.bp01.net |
@@ -333,6 +334,9 @@
 | tr.news.futuramedia.fr | tracking.bp01.net |
 | tr.news.geantcasino.fr | tracking.bp01.net |
 | tr.news.geomag.fr | tracking.bp01.net |
+| tr.news.glance-mediametrie.com | tracking.bp01.net |
+| tr.news.hallobanden.be | tracking.bp01.net |
+| tr.news.hallobanden.nl | tracking.bp01.net |
 | tr.news.heredis.com | tracking.bp01.net |
 | tr.news.i24news.tv | tracking.bp01.net |
 | tr.news.infopro-digital.com | tracking.bp01.net |
@@ -385,6 +389,7 @@
 | tr.newsletter.bouygues-construction.com | tracking.bp01.net |
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
 | tr.newsletter.erenumerique.fr | tracking.bp01.net |
+| tr.newsletter.huilesdolive.fr | tracking.bp01.net |
 | tr.newsletter.jowae.com | tracking.bp01.net |
 | tr.newsletter.leocare.eu | tracking.bp01.net |
 | tr.newsletter.lierac.com | tracking.bp01.net |
@@ -452,6 +457,7 @@
 | tr.ratm.espmp-agfr.net | tracking.bp01.net |
 | tr.raym.espmp-agfr.net | tracking.bp01.net |
 | tr.read.glose.com | tracking.bp01.net |
+| tr.recouvrement.seeric.com | tracking.bp01.net |
 | tr.recouvrement.younited-credit.com | tracking.bp01.net |
 | tr.redaction.essentiel-sante-magazine.fr | tracking.bp01.net |
 | tr.reglementaire.emailing.bnpparibas | tracking.bp01.net |
