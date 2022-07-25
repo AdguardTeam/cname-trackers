@@ -133,6 +133,7 @@
 ||ebis.ce-parfait.com^
 ||ebis.codecamp.jp^
 ||ebis.coyori.com^
+||ebis.delis.co.jp^
 ||ebis.eiyoushi-tensyoku.com^
 ||ebis.forcas.com^
 ||ebis.funai-finance.com^
@@ -144,6 +145,7 @@
 ||ebis.jinzai-business.com^
 ||ebis.jobcan.ne.jp^
 ||ebis.jukkou.com^
+||ebis.kan54.jp^
 ||ebis.kimonoichiba.com^
 ||ebis.kubara.jp^
 ||ebis.kusunosetakeshi.com^
@@ -159,6 +161,7 @@
 ||ebis.radish-pocket.com^
 ||ebis.radishbo-ya.co.jp^
 ||ebis.randstad.co.jp^
+||ebis.re-shop.jp^
 ||ebis.rozetta.jp^
 ||ebis.s-bisco.jp^
 ||ebis.samurai271.com^
@@ -212,7 +215,6 @@
 ||urerucname.manara.jp^
 ||ureruebis.nintama.co.jp^
 ||urr.kumamoto-food.com^
-||us9recc3.simseller.goo.ne.jp^
 ||www-ebis.384.co.jp^
 ||www2.hnavi.co.jp^
 ||y8hxgv9m.kobetsu.co.jp^

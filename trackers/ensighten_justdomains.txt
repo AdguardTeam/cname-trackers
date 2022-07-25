@@ -25,6 +25,7 @@ activate.platform.californiatimes.com
 activate.ranchosantafereview.com
 activate.sandiegouniontribune.com
 activate.shopjustice.com
+activate.sun-sentinel.com
 activate.suncorp.com.au
 activate.tacdn.com
 activate.thedailymeal.com
@@ -82,6 +83,7 @@ attribution.tmlewin.com
 attribution.wolverine.com
 businessmetrics.syf.com
 cm.quest.com
+co-operative.activate.ensighten.com
 coke.activate.ensighten.com
 cookies.jll-mena.com
 cookies.jll.ca
@@ -109,6 +111,7 @@ cookies.jll.fi
 cookies.jll.fr
 cookies.jll.it
 cookies.jll.nl
+cookies.jll.nz
 cookies.jll.pe
 cookies.jll.pl
 cookies.jll.pt
@@ -127,6 +130,7 @@ data.privacy.ensighten.com
 dc.darkhorsewine.com
 dc.directv.com
 dc.esterethyl.com
+dc.gordonsjewelers.com
 dc.jared.com
 dc.kay.com
 dc.kayoutlet.com
@@ -146,6 +150,7 @@ ens.themarket.ch
 ensighten.bhphoto.com
 ensighten.coop.co.uk
 ensighten.davidyurman.com
+ensighten.heishop.com.br
 ensighten.heishop.mx
 ensighten.huntingtonbank.com
 ensighten.lightstream.com
@@ -213,4 +218,5 @@ tms.nab.com.au
 tms.virginatlantic.com
 tmsgi.lv.com
 tripadvisor.activate.ensighten.com
+uat1-dc.pagoda.com
 united.activate.ensighten.com

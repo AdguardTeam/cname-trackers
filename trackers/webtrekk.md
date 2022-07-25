@@ -39,7 +39,6 @@
     * 148749046266446.wt-eu02.net
     * 151836596491843.wt-eu02.net
     * 176652923057792.wt-eu02.net
-    * 180629549208289.wt-eu02.net
     * 186015257614542.wt-eu02.net
     * 208005830805862.wt-eu02.net
     * 215973748390194.wt-eu02.net
@@ -93,6 +92,7 @@
     * 641523609775483.wt-eu02.net
     * 657801072187647.wt-eu02.net
     * 666882163750646.wt-eu02.net
+    * 667035493029158.wt-eu02.net
     * 669154114435717.wt-eu02.net
     * 669798445377675.wt-eu02.net
     * 671130969507772.wt-eu02.net
@@ -121,6 +121,7 @@
     * 893825625040746.wt-eu02.net
     * 913854712272815.wt-eu02.net
     * 915651380225350.wt-eu02.net
+    * 927703597199732.wt-eu02.net
     * 949365393396887.wt-eu02.net
     * 958731023298385.wt-eu02.net
     * 964869656656022.wt-eu02.net
@@ -189,7 +190,6 @@
 | web.sensilab.se | 151836596491843.wt-eu02.net |
 | web.sensilab.si | 151836596491843.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
-| web.solesource.com | 180629549208289.wt-eu02.net |
 | web.mapp.skousen.dk | 186015257614542.wt-eu02.net |
 | census.misterspex.de | 208005830805862.wt-eu02.net |
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
@@ -216,6 +216,7 @@
 | census.misterspex.fi | 346715981768881.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
 | web.tummy-tox.com | 366003812072969.wt-eu02.net |
+| web.tummytox.pt | 366003812072969.wt-eu02.net |
 | data.mediaworld.it | 367128732629814.wt-eu02.net |
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |
 | da.bodenhaus.de | 368068733707725.wt-eu02.net |
@@ -252,6 +253,7 @@
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
 | web.slimjoy.se | 657801072187647.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
+| web.mapp.edenred.it | 667035493029158.wt-eu02.net |
 | data.adlermode.com | 669154114435717.wt-eu02.net |
 | web.news.thebridge.it | 669798445377675.wt-eu02.net |
 | mapp.jysk.nl | 671130969507772.wt-eu02.net |
@@ -282,6 +284,7 @@
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
 | census.misterspex.fr | 913854712272815.wt-eu02.net |
 | census.misterspex.se | 915651380225350.wt-eu02.net |
+| count.bank99.at | 927703597199732.wt-eu02.net |
 | web.autobodytoolmart.com | 949365393396887.wt-eu02.net |
 | web.mapp.ilgiardinodeilibri.it | 958731023298385.wt-eu02.net |
 | web.newsletter.viviennewestwood.com | 964869656656022.wt-eu02.net |

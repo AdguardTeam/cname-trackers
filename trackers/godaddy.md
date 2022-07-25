@@ -11,6 +11,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | abttss-ur.exolkkl6i2puvf.ru | lb.rtb.ads.bid |
+| adsbid-sh-click.adghndou0sdh.ru | lb.rtb.ads.bid |
 | adv.ads2.bid | lb.rtb.ads.bid |
 | arvb.3grg8dqjil.ru | lb.rtb.ads.bid |
 | arvb.ewtcbedtmx.ru | lb.rtb.ads.bid |
@@ -18,6 +19,7 @@
 | avbr.13wynpuurt.ru | lb.rtb.ads.bid |
 | dsp-image-resizer.3grg8dqjil.ru | lb.rtb.ads.bid |
 | dsp-image-resizer.gamz48qlok.ru | lb.rtb.ads.bid |
+| vitrina-ad-click.adghndou0sdh.ru | lb.rtb.ads.bid |
 | adsbid-sh-click.sing.adghndou0sdh.ru | sing.lb.rtb.ads.bid |
 | avb-sing.ewtcbedtmx.ru | sing.lb.rtb.ads.bid |
 | sing.3h1fpq39jb.ru | sing.lb.rtb.ads.bid |

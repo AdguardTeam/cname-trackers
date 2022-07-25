@@ -61,6 +61,7 @@ census.misterspex.nl CNAME .
 census.misterspex.no CNAME .
 census.misterspex.se CNAME .
 cijfers.tweakers.nl CNAME .
+count.bank99.at CNAME .
 da.bodenhaus.de CNAME .
 da.hornbach.at CNAME .
 da.hornbach.ch CNAME .
@@ -216,6 +217,7 @@ web.info.vantastic-foods.com CNAME .
 web.info.varelotteriet.dk CNAME .
 web.info.yeppon.it CNAME .
 web.mail.proximaati.com CNAME .
+web.mapp.edenred.it CNAME .
 web.mapp.ilgiardinodeilibri.it CNAME .
 web.mapp.naturzeit.com CNAME .
 web.mapp.skousen.dk CNAME .
@@ -242,8 +244,8 @@ web.sensilab.se CNAME .
 web.sensilab.si CNAME .
 web.sidsavage.com CNAME .
 web.slimjoy.se CNAME .
-web.solesource.com CNAME .
 web.tummy-tox.com CNAME .
+web.tummytox.pt CNAME .
 web.x.ilpost.it CNAME .
 webmet.creditreform.de CNAME .
 webt.eleonto.com CNAME .

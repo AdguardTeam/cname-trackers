@@ -3,6 +3,7 @@
 #
 # thirdparty.bnc.lt disguised trackers
 #
+10008919.pomelo.fashion
 11959579.fun.joyrun.com
 18052925.im.intermiles.com
 19035924.automated.almosafer.com
@@ -164,6 +165,7 @@ ablinkclicktest.prod.aws.skyscnr.com
 ablinks.comms.healthengine.com.au
 ablinks.e.draft.com
 ablinks.e.foxsports.com.au
+ablinks.e.sportinanutshell.com.au
 ablinks.info.amaro.com
 ablinks.kfc.com.au
 ablinks.m.draft.com
@@ -272,6 +274,7 @@ click.sutra.co
 click.transactional.carousell.com
 click1.e.radio.com
 click1.e.thechive.com
+click1.email-postup.branch.rocks
 click1.email.audacy.com
 click1.mail.paltalkpeople.com
 click2.email.ticketmaster.com
@@ -304,6 +307,7 @@ ct.irl.co
 ct.irl.com
 ct.irlmail.org
 ctd.drivescore.com
+ddlbr.timesclub.co
 debug-inform.liilix.com
 deeplink.alpha.aspiration.com
 deeplink.aspiration.com
@@ -323,6 +327,7 @@ e.synchronybank.com
 em.getsimpleprints.com
 em.touchtunes.com
 email-link.mg.surkus.com
+email-listrak.branch.rocks
 email-sailthru.branch.io
 email-sendgrid-deep-linking.chewy.com
 email-staging.goodrx.com
@@ -333,10 +338,12 @@ email.chope.co
 email.clearscore.co.za
 email.clearscore.com
 email.clearscore.com.au
+email.dev.mypopshop.app
 email.dmcperforma.com.br
 email.everyonesocial.circle.com
 email.everyonesocial.coupa.com
 email.everyonesocial.indeed.com
+email.everyonesocial.notarize.com
 email.everyonesocial.nuskin.com
 email.everyonesocial.r3.com
 email.everyonesocial.rubrik.com
@@ -631,6 +638,8 @@ url1445.affirm.com
 url1451.careerkarma.info
 url3630.newsletter.experience-muse.com
 url3788.blazepizza.com
+url6146.bastien.tantawy.app
+url6633.ana.tantawy.app
 url7061.support.1dental.com
 url7424.email.readytotravel.com
 url7542.fluz.app

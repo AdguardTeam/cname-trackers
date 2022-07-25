@@ -7,6 +7,7 @@
 0o77qjtrfkmo.www.earthclassmail.com CNAME .
 11b6n4ty2x3.taxliencode.com CNAME .
 13js1lbtbj3.sparkloop.app CNAME .
+16i6nuuc2ej.koelewijn.nl CNAME .
 1796kpkzuwj.www.hawpar.com CNAME .
 1a715b8q5m3j.www.logology.co CNAME .
 1amehwchx31.bloxdhop.io CNAME .
@@ -41,9 +42,11 @@ e62ndy5gz80q.bitdomain.biz CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
 fb7syy5wn9hl.blog.abhijith.page CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
+g8kl7pdrvnia.www.earthclassmail.com CNAME .
 giy0v1igdqc1.crystalmathlabs.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .
+hht8m6w8mnug.quine.sh CNAME .
 hkhpnqciykaf.www.gamecamp.gg CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .

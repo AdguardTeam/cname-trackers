@@ -3,6 +3,7 @@
 ;
 ; thirdparty.bnc.lt disguised trackers
 ;
+10008919.pomelo.fashion CNAME .
 11959579.fun.joyrun.com CNAME .
 18052925.im.intermiles.com CNAME .
 19035924.automated.almosafer.com CNAME .
@@ -164,6 +165,7 @@ ablinkclicktest.prod.aws.skyscnr.com CNAME .
 ablinks.comms.healthengine.com.au CNAME .
 ablinks.e.draft.com CNAME .
 ablinks.e.foxsports.com.au CNAME .
+ablinks.e.sportinanutshell.com.au CNAME .
 ablinks.info.amaro.com CNAME .
 ablinks.kfc.com.au CNAME .
 ablinks.m.draft.com CNAME .
@@ -272,6 +274,7 @@ click.sutra.co CNAME .
 click.transactional.carousell.com CNAME .
 click1.e.radio.com CNAME .
 click1.e.thechive.com CNAME .
+click1.email-postup.branch.rocks CNAME .
 click1.email.audacy.com CNAME .
 click1.mail.paltalkpeople.com CNAME .
 click2.email.ticketmaster.com CNAME .
@@ -304,6 +307,7 @@ ct.irl.co CNAME .
 ct.irl.com CNAME .
 ct.irlmail.org CNAME .
 ctd.drivescore.com CNAME .
+ddlbr.timesclub.co CNAME .
 debug-inform.liilix.com CNAME .
 deeplink.alpha.aspiration.com CNAME .
 deeplink.aspiration.com CNAME .
@@ -323,6 +327,7 @@ e.synchronybank.com CNAME .
 em.getsimpleprints.com CNAME .
 em.touchtunes.com CNAME .
 email-link.mg.surkus.com CNAME .
+email-listrak.branch.rocks CNAME .
 email-sailthru.branch.io CNAME .
 email-sendgrid-deep-linking.chewy.com CNAME .
 email-staging.goodrx.com CNAME .
@@ -333,10 +338,12 @@ email.chope.co CNAME .
 email.clearscore.co.za CNAME .
 email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
+email.dev.mypopshop.app CNAME .
 email.dmcperforma.com.br CNAME .
 email.everyonesocial.circle.com CNAME .
 email.everyonesocial.coupa.com CNAME .
 email.everyonesocial.indeed.com CNAME .
+email.everyonesocial.notarize.com CNAME .
 email.everyonesocial.nuskin.com CNAME .
 email.everyonesocial.r3.com CNAME .
 email.everyonesocial.rubrik.com CNAME .
@@ -631,6 +638,8 @@ url1445.affirm.com CNAME .
 url1451.careerkarma.info CNAME .
 url3630.newsletter.experience-muse.com CNAME .
 url3788.blazepizza.com CNAME .
+url6146.bastien.tantawy.app CNAME .
+url6633.ana.tantawy.app CNAME .
 url7061.support.1dental.com CNAME .
 url7424.email.readytotravel.com CNAME .
 url7542.fluz.app CNAME .

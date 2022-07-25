@@ -3,6 +3,7 @@
 ;
 ; wizaly.com disguised trackers
 ;
+t.wiz.meilleurtaux.com CNAME .
 tk.abt.com CNAME .
 tk.aircaraibes.com CNAME .
 tk.airfrance.ae CNAME .
@@ -11,13 +12,16 @@ tk.airfrance.be CNAME .
 tk.airfrance.bj CNAME .
 tk.airfrance.ca CNAME .
 tk.airfrance.ch CNAME .
+tk.airfrance.co.kr CNAME .
 tk.airfrance.co.uk CNAME .
 tk.airfrance.com CNAME .
+tk.airfrance.com.tr CNAME .
 tk.airfrance.cz CNAME .
 tk.airfrance.de CNAME .
 tk.airfrance.fr CNAME .
 tk.airfrance.ga CNAME .
 tk.airfrance.gr CNAME .
+tk.airfrance.hr CNAME .
 tk.airfrance.ht CNAME .
 tk.airfrance.ie CNAME .
 tk.airfrance.it CNAME .

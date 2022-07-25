@@ -43,6 +43,7 @@
     * tklolivierfr.wizaly.com
     * tkmsccruisescom.wizaly.com
     * wiz-ghostbed-com.wizaly.com
+    * wiz_meilleurtaux_com.wizaly.com
     * wz-allianz-fr.wizaly.com
 
 ## Cloaking domains
@@ -91,13 +92,16 @@
 | tk.airfrance.bj | tkairfrance.wizaly.com |
 | tk.airfrance.ca | tkairfrance.wizaly.com |
 | tk.airfrance.ch | tkairfrance.wizaly.com |
+| tk.airfrance.co.kr | tkairfrance.wizaly.com |
 | tk.airfrance.co.uk | tkairfrance.wizaly.com |
 | tk.airfrance.com | tkairfrance.wizaly.com |
+| tk.airfrance.com.tr | tkairfrance.wizaly.com |
 | tk.airfrance.cz | tkairfrance.wizaly.com |
 | tk.airfrance.de | tkairfrance.wizaly.com |
 | tk.airfrance.fr | tkairfrance.wizaly.com |
 | tk.airfrance.ga | tkairfrance.wizaly.com |
 | tk.airfrance.gr | tkairfrance.wizaly.com |
+| tk.airfrance.hr | tkairfrance.wizaly.com |
 | tk.airfrance.ht | tkairfrance.wizaly.com |
 | tk.airfrance.ie | tkairfrance.wizaly.com |
 | tk.airfrance.it | tkairfrance.wizaly.com |
@@ -116,4 +120,5 @@
 | tk.lolivier.fr | tklolivierfr.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |
 | wiz.ghostbed.com | wiz-ghostbed-com.wizaly.com |
+| t.wiz.meilleurtaux.com | wiz_meilleurtaux_com.wizaly.com |
 | wz.allianz.fr | wz-allianz-fr.wizaly.com |

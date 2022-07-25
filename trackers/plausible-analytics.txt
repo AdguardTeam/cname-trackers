@@ -34,6 +34,7 @@
 ||analytics.givealittle.co^
 ||analytics.hiome.com^
 ||analytics.kerns.co^
+||analytics.kukla.club^
 ||analytics.lifestyledemocracy.com^
 ||analytics.lunge.de^
 ||analytics.mambaui.com^
@@ -124,6 +125,7 @@
 ||l2k30jsa.theochu.com^
 ||loggychops.paulsmith.site^
 ||meter.bref.sh^
+||metrics.axiomatic-inc.com^
 ||metrics.recunia.de^
 ||momotaro.craigmod.com^
 ||momotaro.walkkumano.com^
@@ -149,6 +151,7 @@
 ||ping.cavelab.dev^
 ||ping.naturadapt.com^
 ||ping.richardtaylor.dev^
+||pio.wir-sehen-uns-im-juni.de^
 ||pl.1feed.app^
 ||pl.astro-akatemia.fi^
 ||pl.astro.fi^
@@ -160,8 +163,10 @@
 ||pl.kis-nagy.art^
 ||pl.maya-astro.fi^
 ||pl.terraintinker.com^
+||pl.vmsc.org.nz^
 ||pl.volunteeringauckland.org.nz^
 ||pl.volunteeringwaikato.org.nz^
+||pl.volunteerkapiti.org.nz^
 ||pl.volunteermarlborough.org.nz^
 ||pl.volunteersouth.org.nz^
 ||pla.wigglepixel.nl^
@@ -174,6 +179,7 @@
 ||plauplauplau.app.budg.co^
 ||plauplauplau.budg.co^
 ||plausdj2ajskljzx0ikwkiasible.ethics.info^
+||plausible-stats.tangodelta.media^
 ||plausible.adreform.com^
 ||plausible.as207960.net^
 ||plausible.banovo.de^
@@ -270,6 +276,7 @@
 ||s.maxrozen.com^
 ||s.nerdfulmind.com^
 ||s.onlineornot.com^
+||s.saucisson-rebellion.fr^
 ||s.somos-arts.org^
 ||s.sporks.space^
 ||sa.flux.community^
@@ -280,6 +287,7 @@
 ||site-stats.supernotes.app^
 ||sp.gameomatic.fr^
 ||sp.jrklein.com^
+||sp.soniccares.com^
 ||sp.spaceomatic.fr^
 ||spock.dom.codes^
 ||st.preciousamber.com^
@@ -345,6 +353,7 @@
 ||stats.changelog.com^
 ||stats.chapterist.show^
 ||stats.chargemybike.de^
+||stats.chomp.haus^
 ||stats.chronoslabs.net^
 ||stats.citizenos.com^
 ||stats.cleverdiabetic.com^
@@ -364,10 +373,12 @@
 ||stats.cremashop.eu^
 ||stats.cremashop.se^
 ||stats.crewebo.de^
+||stats.cryptmail.io^
 ||stats.ctor.io^
 ||stats.curbnumberpro.com^
 ||stats.dailyposter.com^
 ||stats.danielwolf.photography^
+||stats.danner-landschaftsbau.at^
 ||stats.dashbit.co^
 ||stats.davidlms.com^
 ||stats.deva.guru^
@@ -476,6 +487,7 @@
 ||stats.leoloso.com^
 ||stats.lessimpact.org^
 ||stats.lestypesdefarine.fr^
+||stats.lik.fr^
 ||stats.literacysomerset.org^
 ||stats.livingedge.ngo^
 ||stats.lord.io^
@@ -536,6 +548,7 @@
 ||stats.patout.dev^
 ||stats.patriot.win^
 ||stats.paulbutler.org^
+||stats.paypresto.co^
 ||stats.paysagistes.pro^
 ||stats.pebkac.io^
 ||stats.pep20.org^
@@ -596,6 +609,7 @@
 ||stats.seedwebs.com^
 ||stats.sendngnt.com^
 ||stats.sethvincent.com^
+||stats.seva.rocks^
 ||stats.sexplore.app^
 ||stats.share.link^
 ||stats.shareup.app^
@@ -676,6 +690,7 @@
 ||stats.www.agirpourlenvironnement.org^
 ||stats.x5x.host^
 ||stats.xn--drivation-b4a.fr^
+||stats.yhteydenvoima.fi^
 ||stats.yourdallashandyman.com^
 ||stats.zander.wtf^
 ||statstest.upti.pro^

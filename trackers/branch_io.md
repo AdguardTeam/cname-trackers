@@ -13,6 +13,7 @@
 | clicked.ebates.com | epsilon.thirdparty.bnc.lt |
 | e.synchronybank.com | epsilon.thirdparty.bnc.lt |
 | sephora-qa.branchstaging.com | epsilon.thirdparty.bnc.lt |
+| 10008919.pomelo.fashion | thirdparty.bnc.lt |
 | 11959579.fun.joyrun.com | thirdparty.bnc.lt |
 | 18052925.im.intermiles.com | thirdparty.bnc.lt |
 | 19035924.automated.almosafer.com | thirdparty.bnc.lt |
@@ -174,6 +175,7 @@
 | ablinks.comms.healthengine.com.au | thirdparty.bnc.lt |
 | ablinks.e.draft.com | thirdparty.bnc.lt |
 | ablinks.e.foxsports.com.au | thirdparty.bnc.lt |
+| ablinks.e.sportinanutshell.com.au | thirdparty.bnc.lt |
 | ablinks.info.amaro.com | thirdparty.bnc.lt |
 | ablinks.kfc.com.au | thirdparty.bnc.lt |
 | ablinks.m.draft.com | thirdparty.bnc.lt |
@@ -281,6 +283,7 @@
 | click.transactional.carousell.com | thirdparty.bnc.lt |
 | click1.e.radio.com | thirdparty.bnc.lt |
 | click1.e.thechive.com | thirdparty.bnc.lt |
+| click1.email-postup.branch.rocks | thirdparty.bnc.lt |
 | click1.email.audacy.com | thirdparty.bnc.lt |
 | click1.mail.paltalkpeople.com | thirdparty.bnc.lt |
 | click2.email.ticketmaster.com | thirdparty.bnc.lt |
@@ -312,6 +315,7 @@
 | ct.irl.com | thirdparty.bnc.lt |
 | ct.irlmail.org | thirdparty.bnc.lt |
 | ctd.drivescore.com | thirdparty.bnc.lt |
+| ddlbr.timesclub.co | thirdparty.bnc.lt |
 | debug-inform.liilix.com | thirdparty.bnc.lt |
 | deeplink.alpha.aspiration.com | thirdparty.bnc.lt |
 | deeplink.aspiration.com | thirdparty.bnc.lt |
@@ -330,6 +334,7 @@
 | em.getsimpleprints.com | thirdparty.bnc.lt |
 | em.touchtunes.com | thirdparty.bnc.lt |
 | email-link.mg.surkus.com | thirdparty.bnc.lt |
+| email-listrak.branch.rocks | thirdparty.bnc.lt |
 | email-sailthru.branch.io | thirdparty.bnc.lt |
 | email-sendgrid-deep-linking.chewy.com | thirdparty.bnc.lt |
 | email-staging.goodrx.com | thirdparty.bnc.lt |
@@ -340,10 +345,12 @@
 | email.clearscore.co.za | thirdparty.bnc.lt |
 | email.clearscore.com | thirdparty.bnc.lt |
 | email.clearscore.com.au | thirdparty.bnc.lt |
+| email.dev.mypopshop.app | thirdparty.bnc.lt |
 | email.dmcperforma.com.br | thirdparty.bnc.lt |
 | email.everyonesocial.circle.com | thirdparty.bnc.lt |
 | email.everyonesocial.coupa.com | thirdparty.bnc.lt |
 | email.everyonesocial.indeed.com | thirdparty.bnc.lt |
+| email.everyonesocial.notarize.com | thirdparty.bnc.lt |
 | email.everyonesocial.nuskin.com | thirdparty.bnc.lt |
 | email.everyonesocial.r3.com | thirdparty.bnc.lt |
 | email.everyonesocial.rubrik.com | thirdparty.bnc.lt |
@@ -637,6 +644,8 @@
 | url1451.careerkarma.info | thirdparty.bnc.lt |
 | url3630.newsletter.experience-muse.com | thirdparty.bnc.lt |
 | url3788.blazepizza.com | thirdparty.bnc.lt |
+| url6146.bastien.tantawy.app | thirdparty.bnc.lt |
+| url6633.ana.tantawy.app | thirdparty.bnc.lt |
 | url7061.support.1dental.com | thirdparty.bnc.lt |
 | url7424.email.readytotravel.com | thirdparty.bnc.lt |
 | url7542.fluz.app | thirdparty.bnc.lt |

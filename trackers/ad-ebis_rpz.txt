@@ -133,6 +133,7 @@ ebis.care-tensyoku.com CNAME .
 ebis.ce-parfait.com CNAME .
 ebis.codecamp.jp CNAME .
 ebis.coyori.com CNAME .
+ebis.delis.co.jp CNAME .
 ebis.eiyoushi-tensyoku.com CNAME .
 ebis.forcas.com CNAME .
 ebis.funai-finance.com CNAME .
@@ -144,6 +145,7 @@ ebis.j-l-m.co.jp CNAME .
 ebis.jinzai-business.com CNAME .
 ebis.jobcan.ne.jp CNAME .
 ebis.jukkou.com CNAME .
+ebis.kan54.jp CNAME .
 ebis.kimonoichiba.com CNAME .
 ebis.kubara.jp CNAME .
 ebis.kusunosetakeshi.com CNAME .
@@ -159,6 +161,7 @@ ebis.rabo.cat CNAME .
 ebis.radish-pocket.com CNAME .
 ebis.radishbo-ya.co.jp CNAME .
 ebis.randstad.co.jp CNAME .
+ebis.re-shop.jp CNAME .
 ebis.rozetta.jp CNAME .
 ebis.s-bisco.jp CNAME .
 ebis.samurai271.com CNAME .
@@ -212,7 +215,6 @@ tukuru.cotta.jp CNAME .
 urerucname.manara.jp CNAME .
 ureruebis.nintama.co.jp CNAME .
 urr.kumamoto-food.com CNAME .
-us9recc3.simseller.goo.ne.jp CNAME .
 www-ebis.384.co.jp CNAME .
 www2.hnavi.co.jp CNAME .
 y8hxgv9m.kobetsu.co.jp CNAME .

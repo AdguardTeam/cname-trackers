@@ -25,6 +25,7 @@ activate.platform.californiatimes.com CNAME .
 activate.ranchosantafereview.com CNAME .
 activate.sandiegouniontribune.com CNAME .
 activate.shopjustice.com CNAME .
+activate.sun-sentinel.com CNAME .
 activate.suncorp.com.au CNAME .
 activate.tacdn.com CNAME .
 activate.thedailymeal.com CNAME .
@@ -82,6 +83,7 @@ attribution.tmlewin.com CNAME .
 attribution.wolverine.com CNAME .
 businessmetrics.syf.com CNAME .
 cm.quest.com CNAME .
+co-operative.activate.ensighten.com CNAME .
 coke.activate.ensighten.com CNAME .
 cookies.jll-mena.com CNAME .
 cookies.jll.ca CNAME .
@@ -109,6 +111,7 @@ cookies.jll.fi CNAME .
 cookies.jll.fr CNAME .
 cookies.jll.it CNAME .
 cookies.jll.nl CNAME .
+cookies.jll.nz CNAME .
 cookies.jll.pe CNAME .
 cookies.jll.pl CNAME .
 cookies.jll.pt CNAME .
@@ -127,6 +130,7 @@ data.privacy.ensighten.com CNAME .
 dc.darkhorsewine.com CNAME .
 dc.directv.com CNAME .
 dc.esterethyl.com CNAME .
+dc.gordonsjewelers.com CNAME .
 dc.jared.com CNAME .
 dc.kay.com CNAME .
 dc.kayoutlet.com CNAME .
@@ -146,6 +150,7 @@ ens.themarket.ch CNAME .
 ensighten.bhphoto.com CNAME .
 ensighten.coop.co.uk CNAME .
 ensighten.davidyurman.com CNAME .
+ensighten.heishop.com.br CNAME .
 ensighten.heishop.mx CNAME .
 ensighten.huntingtonbank.com CNAME .
 ensighten.lightstream.com CNAME .
@@ -213,4 +218,5 @@ tms.nab.com.au CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .
 tripadvisor.activate.ensighten.com CNAME .
+uat1-dc.pagoda.com CNAME .
 united.activate.ensighten.com CNAME .

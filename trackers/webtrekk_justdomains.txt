@@ -61,6 +61,7 @@ census.misterspex.nl
 census.misterspex.no
 census.misterspex.se
 cijfers.tweakers.nl
+count.bank99.at
 da.bodenhaus.de
 da.hornbach.at
 da.hornbach.ch
@@ -216,6 +217,7 @@ web.info.vantastic-foods.com
 web.info.varelotteriet.dk
 web.info.yeppon.it
 web.mail.proximaati.com
+web.mapp.edenred.it
 web.mapp.ilgiardinodeilibri.it
 web.mapp.naturzeit.com
 web.mapp.skousen.dk
@@ -242,8 +244,8 @@ web.sensilab.se
 web.sensilab.si
 web.sidsavage.com
 web.slimjoy.se
-web.solesource.com
 web.tummy-tox.com
+web.tummytox.pt
 web.x.ilpost.it
 webmet.creditreform.de
 webt.eleonto.com

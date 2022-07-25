@@ -3,6 +3,7 @@
 ;
 ; api.clickaine.com disguised trackers
 ;
+a3.hotpornfile.org CNAME .
 ad.arabsex1.com CNAME .
 api.applogy.com CNAME .
 api.rtnews.pro CNAME .

@@ -3,6 +3,7 @@
 !
 ! wizaly.com disguised trackers
 !
+||t.wiz.meilleurtaux.com^
 ||tk.abt.com^
 ||tk.aircaraibes.com^
 ||tk.airfrance.ae^
@@ -11,13 +12,16 @@
 ||tk.airfrance.bj^
 ||tk.airfrance.ca^
 ||tk.airfrance.ch^
+||tk.airfrance.co.kr^
 ||tk.airfrance.co.uk^
 ||tk.airfrance.com^
+||tk.airfrance.com.tr^
 ||tk.airfrance.cz^
 ||tk.airfrance.de^
 ||tk.airfrance.fr^
 ||tk.airfrance.ga^
 ||tk.airfrance.gr^
+||tk.airfrance.hr^
 ||tk.airfrance.ht^
 ||tk.airfrance.ie^
 ||tk.airfrance.it^

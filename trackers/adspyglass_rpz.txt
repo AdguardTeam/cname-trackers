@@ -17,7 +17,9 @@
 987656iuyyty.hotscopes.to CNAME .
 98tang.lol CNAME .
 a.123porner.com CNAME .
+a.2umovies.com CNAME .
 a.44oo.icu CNAME .
+a.4csh.net CNAME .
 a.6vids.space CNAME .
 a.888x.cyou CNAME .
 a.abismo-katheryne.top CNAME .
@@ -42,6 +44,7 @@ a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.focusde.info CNAME .
+a.gofilms4u.pro CNAME .
 a.hentai369.com CNAME .
 a.hentaitube.icu CNAME .
 a.kagiti.club CNAME .
@@ -64,6 +67,7 @@ a.zillastream.com CNAME .
 a5g.oves.biz CNAME .
 aa.zerg.pro CNAME .
 abc.comick.top CNAME .
+abc.manga9.co CNAME .
 abee.yeeowl.xyz CNAME .
 abracadabrahub.com CNAME .
 acdn.uploads.mobi CNAME .
@@ -150,11 +154,11 @@ c3s.bionestraff.pro CNAME .
 c5m.codegurutech.com CNAME .
 cdc.teensnorest.com CNAME .
 cdfr.hot4k.org CNAME .
+cdn1.delii2.art CNAME .
 cdn1.pop72i.art CNAME .
 cdn1.prroll2o.art CNAME .
 cdn3.hentaihand.com CNAME .
 cdn3.hentaihaven.fun CNAME .
-cdnvid.com CNAME .
 chartlon.skin CNAME .
 chen.pepelela.mom CNAME .
 chrome-loading.car-insurance-reviews.com CNAME .
@@ -223,6 +227,7 @@ kuhdsysdas.indexsubtitle.com CNAME .
 l.rated.sex CNAME .
 larasub.conxxx.pro CNAME .
 likse.aaaf.info CNAME .
+linkpopu.mom CNAME .
 livenews.autos CNAME .
 lixir.wargers.org CNAME .
 load.jabx.net CNAME .
@@ -266,6 +271,7 @@ pem.tamboys.pics CNAME .
 pengenanu.files.im CNAME .
 pep.s2online.xyz CNAME .
 pepi.haillo.xyz CNAME .
+pepipost.autos CNAME .
 plsdonblock.supjav.buzz CNAME .
 plutoclean.com CNAME .
 pop.dtoo1.space CNAME .
@@ -309,10 +315,13 @@ spyglass.reklamko.pro CNAME .
 srv.clinno.link CNAME .
 sshopee.beauty CNAME .
 statement.blauenseville.buzz CNAME .
+stbvip.co CNAME .
+stbvip.mom CNAME .
 stuff.wikiporno.org CNAME .
 support.streamjav.top CNAME .
 szj.boombay.xyz CNAME .
 t.rklmcdn.com CNAME .
+taoviep.mom CNAME .
 tb.turbocap.net CNAME .
 theporndude.com.1111supjavcom.xyz CNAME .
 thescript.javfinder.xyz CNAME .
@@ -326,6 +335,7 @@ ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 tuckbos.lol CNAME .
 turbo.binande.xyz CNAME .
+tx01.socialchicks.net CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
 uthbxvz.bestzba.com CNAME .
@@ -339,13 +349,13 @@ web.cinetux.nu CNAME .
 wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
 www.bigboy.monster CNAME .
-www.camilo4free.cfd CNAME .
 www.don403deblakda.store CNAME .
 www.findnewline.com CNAME .
 www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.lechoncito.one CNAME .
 www.letstry69.xyz CNAME .
+www.patodonalgomball.store CNAME .
 www.plantomgeforce.online CNAME .
 www.sex1.party CNAME .
 www.u808i.com CNAME .
