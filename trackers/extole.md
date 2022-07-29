@@ -6,7 +6,6 @@
     * ahs.extole.com
     * american-giant.extole.com
     * ancestrydna.extole.com
-    * aol.extole.com
     * clearme-ssl.extole.com
     * compexusa.extole.com
     * d.extole.com
@@ -38,6 +37,7 @@
     * talbots.extole.com
     * timberland.extole.com
     * turbotax-ssl.extole.com
+    * verabradley.extole.com
     * vimeo.extole.com
     * volcom.extole.com
     * vonage.extole.com
@@ -55,7 +55,6 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
-| refer.aol.com | aol.extole.com |
 | refer.clearme.com | clearme-ssl.extole.com |
 | refer.compexusa.com | compexusa.extole.com |
 | ilove.volusion.com | d.extole.com |
@@ -90,6 +89,7 @@
 | refer.talbots.com | talbots.extole.com |
 | refer.timberland.com | timberland.extole.com |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
+| refer.verabradley.com | verabradley.extole.com |
 | share.vimeo.com | vimeo.extole.com |
 | refer.volcom.com | volcom.extole.com |
 | refer.vonage.com | vonage.extole.com |

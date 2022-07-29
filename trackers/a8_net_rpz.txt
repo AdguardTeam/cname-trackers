@@ -16,6 +16,7 @@ a8.degicashop.com CNAME .
 a8.denki-koji.work CNAME .
 a8.denki-tatsujin.com CNAME .
 a8.denwa-hikari.com CNAME .
+a8.efax.co.jp CNAME .
 a8.eonet.jp CNAME .
 a8.eonet.ne.jp CNAME .
 a8.erasutamo.onlinestaff.jp CNAME .
@@ -219,6 +220,7 @@ a8cv.shinro.info CNAME .
 a8cv.shokubun.ec-design.co.jp CNAME .
 a8cv.shop.matsuo1956.jp CNAME .
 a8cv.signalift.com CNAME .
+a8cv.smart-shikaku.com CNAME .
 a8cv.snkrdunk.com CNAME .
 a8cv.soundfun.co.jp CNAME .
 a8cv.soyafarm.com CNAME .

@@ -10,7 +10,6 @@ ilove.volusion.com CNAME .
 refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.ancestry.com CNAME .
-refer.aol.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
 refer.discover.com CNAME .
@@ -36,6 +35,7 @@ refer.sperry.com CNAME .
 refer.talbots.com CNAME .
 refer.timberland.com CNAME .
 refer.turbotax.intuit.com CNAME .
+refer.verabradley.com CNAME .
 refer.volcom.com CNAME .
 refer.vonage.com CNAME .
 refer.xoom.com CNAME .

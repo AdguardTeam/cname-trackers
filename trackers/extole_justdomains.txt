@@ -10,7 +10,6 @@ ilove.volusion.com
 refer.ahsfriends.com
 refer.american-giant.com
 refer.ancestry.com
-refer.aol.com
 refer.clearme.com
 refer.compexusa.com
 refer.discover.com
@@ -36,6 +35,7 @@ refer.sperry.com
 refer.talbots.com
 refer.timberland.com
 refer.turbotax.intuit.com
+refer.verabradley.com
 refer.volcom.com
 refer.vonage.com
 refer.xoom.com

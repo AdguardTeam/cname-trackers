@@ -15,6 +15,7 @@ ad.autorace.jp CNAME .
 ad.kddi-fs.com CNAME .
 ad.takasu.co.jp CNAME .
 ad.tempstaff.co.jp CNAME .
+ad.theatreacademy.jp CNAME .
 ad.udition.jp CNAME .
 ad1.tone.ne.jp CNAME .
 adbq.bk.mufg.jp CNAME .

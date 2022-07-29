@@ -26,12 +26,14 @@
     * tk-lcl-fr.wizaly.com
     * tk-little-big-change-com.wizaly.com
     * tk-lulli-sur-la-toile-com.wizaly.com
+    * tk-maison123-com.wizaly.com
     * tk-moveyourfit-com.wizaly.com
     * tk-nhlottery-com.wizaly.com
     * tk-ornikar-com.wizaly.com
     * tk-planete-oui-fr.wizaly.com
     * tk-qare-fr.wizaly.com
     * tk-rentacar-fr.wizaly.com
+    * tk-rimowa-com.wizaly.com
     * tk-salomon-com.wizaly.com
     * tk-sncf.wizaly.com
     * tk-svsound-com.wizaly.com
@@ -73,12 +75,14 @@
 | tk.lcl.fr | tk-lcl-fr.wizaly.com |
 | tk.little-big-change.com | tk-little-big-change-com.wizaly.com |
 | tk.lulli-sur-la-toile.com | tk-lulli-sur-la-toile-com.wizaly.com |
+| tk.maison123.com | tk-maison123-com.wizaly.com |
 | tk.moveyourfit.com | tk-moveyourfit-com.wizaly.com |
 | tk.nhlottery.com | tk-nhlottery-com.wizaly.com |
 | tk.ornikar.com | tk-ornikar-com.wizaly.com |
 | tk.planete-oui.fr | tk-planete-oui-fr.wizaly.com |
 | tk.qare.fr | tk-qare-fr.wizaly.com |
 | tk.rentacar.fr | tk-rentacar-fr.wizaly.com |
+| tk.rimowa.com | tk-rimowa-com.wizaly.com |
 | tk.salomon.com | tk-salomon-com.wizaly.com |
 | wiz.sncf-connect.com | tk-sncf.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |
@@ -106,6 +110,7 @@
 | tk.airfrance.ie | tkairfrance.wizaly.com |
 | tk.airfrance.it | tkairfrance.wizaly.com |
 | tk.airfrance.mq | tkairfrance.wizaly.com |
+| tk.airfrance.ng | tkairfrance.wizaly.com |
 | tk.airfrance.pl | tkairfrance.wizaly.com |
 | tk.airfrance.pt | tkairfrance.wizaly.com |
 | tk.airfrance.ro | tkairfrance.wizaly.com |

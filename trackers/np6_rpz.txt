@@ -97,6 +97,7 @@ tr.communication.moethennessy.com CNAME .
 tr.communication.np6.com CNAME .
 tr.communication.numericable.fr CNAME .
 tr.communication.offresb2b.fr CNAME .
+tr.companeo-news.co.uk CNAME .
 tr.compte.fca-capital-france.fr CNAME .
 tr.comunicacao.younited-credit.com CNAME .
 tr.contact.canalplus.fr CNAME .
@@ -219,6 +220,7 @@ tr.info.mdbp.fr CNAME .
 tr.info.mobibam.com CNAME .
 tr.info.offres-cartegie.fr CNAME .
 tr.info.onboarding.corporatecards.bnpparibas CNAME .
+tr.info.phsolidaire-bpifrance.fr CNAME .
 tr.info.promoneuve.fr CNAME .
 tr.info.rouen.aeroport.fr CNAME .
 tr.info.rouen.cci.fr CNAME .
@@ -287,6 +289,7 @@ tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
 tr.moja-wycena.pl CNAME .
 tr.mondevis-pro.com CNAME .
+tr.mp.aconclue-business.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
 tr.mp.actu-pm.fr CNAME .
 tr.mp.ld-man.fr CNAME .
@@ -343,6 +346,7 @@ tr.news.i24news.tv CNAME .
 tr.news.infopro-digital.com CNAME .
 tr.news.jautomatise.com CNAME .
 tr.news.kpmgnet.fr CNAME .
+tr.news.kuhn.com CNAME .
 tr.news.la-collectionairfrance.fr CNAME .
 tr.news.la-meilleure-voyance.com CNAME .
 tr.news.lacollection-airfrance.be CNAME .
@@ -481,6 +485,7 @@ tr.serviceclient.younited-coach.com CNAME .
 tr.serviceclient.younited-credit.com CNAME .
 tr.services.alinea.com CNAME .
 tr.services.caradisiac.com CNAME .
+tr.servicesclients.canalplus.ch CNAME .
 tr.servicesclients.canalplus.fr CNAME .
 tr.servicoaocliente.younited-credit.com CNAME .
 tr.sfr.espmp-aufr.net CNAME .
@@ -497,24 +502,9 @@ tr.thisiseurope.moethennessy.com CNAME .
 tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .
 tr.tonerservices.fr CNAME .
-tr.trafficnews.lyria.com CNAME .
-tr.uk.icicibank.com CNAME .
-tr.urfk02v.espmp-cufr.net CNAME .
-tr.urfk03u.espmp-nifr.net CNAME .
-tr.urfk06h.espmp-nifr.net CNAME .
-tr.urfk06y.espmp-nifr.net CNAME .
 tr.urfk07s.espmp-nifr.net CNAME .
-tr.ville.bordeaux.fr CNAME .
-tr.voeux-wishes.ipsilon-ip.com CNAME .
 tr.voixduclient.harmonie-mutuelle.fr CNAME .
-tr.votrealarme.securitasdirect.fr CNAME .
-tr.vous.hellobank.fr CNAME .
-tr.welcome.easyviaggio.com CNAME .
-tr.welcome.easyviajar.com CNAME .
-tr.welcome.easyvoyage.co.uk CNAME .
 tr.welcome.easyvoyage.com CNAME .
-tr.welcome.easyvoyage.de CNAME .
-tr.welcome.lacollection-airfrance.fr CNAME .
 tr.welcome.lexpress.fr CNAME .
 tr.welcome.moncoupdepouce.com CNAME .
 tr.welcome.odalys-vacances.com CNAME .

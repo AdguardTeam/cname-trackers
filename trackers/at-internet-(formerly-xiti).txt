@@ -67,6 +67,7 @@
 ||pear.ca-eko-globetrotter.fr^
 ||pear.youzful-by-ca.fr^
 ||ponyo.cheriefm.fr^
+||protys.protys.fr^
 ||res.elle.fr^
 ||res.femina.fr^
 ||res.franc-tireur.fr^

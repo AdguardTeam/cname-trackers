@@ -16,6 +16,7 @@
 ||a8.denki-koji.work^
 ||a8.denki-tatsujin.com^
 ||a8.denwa-hikari.com^
+||a8.efax.co.jp^
 ||a8.eonet.jp^
 ||a8.eonet.ne.jp^
 ||a8.erasutamo.onlinestaff.jp^
@@ -219,6 +220,7 @@
 ||a8cv.shokubun.ec-design.co.jp^
 ||a8cv.shop.matsuo1956.jp^
 ||a8cv.signalift.com^
+||a8cv.smart-shikaku.com^
 ||a8cv.snkrdunk.com^
 ||a8cv.soundfun.co.jp^
 ||a8cv.soyafarm.com^

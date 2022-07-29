@@ -159,6 +159,7 @@ pl.codetheweb.blog
 pl.ethan.link
 pl.fashmoms.com
 pl.getfamealy.com
+pl.hackathon-makers.com
 pl.kanbanmail.app
 pl.kis-nagy.art
 pl.maya-astro.fi
@@ -244,6 +245,7 @@ plausible.strzibny.name
 plausible.sysloun.cz
 plausible.tac.dappstar.io
 plausible.test.sketch.com
+plausible.uptime.dk
 plausible.urbanekuensteruhr.de
 plausible.vaughanesports.org
 plausible.virt.io
@@ -534,6 +536,7 @@ stats.ntietz.com
 stats.nytecomics.com
 stats.obiit.co
 stats.offthekerb.com
+stats.ohmysmtp.com
 stats.onepagelove.com
 stats.orbitalhealth.co
 stats.ordinarypuzzles.com
@@ -608,7 +611,6 @@ stats.sebastiangale.ca
 stats.seedthemes.com
 stats.seedwebs.com
 stats.sendngnt.com
-stats.sethvincent.com
 stats.seva.rocks
 stats.sexplore.app
 stats.share.link
@@ -648,6 +650,7 @@ stats.thechurchfactory.com
 stats.thedartmoorsoapco.co.uk
 stats.thegoodlineheight.com
 stats.thingsthatkeepmeupatnight.dev
+stats.thomasfroese.com
 stats.thomasvitale.com
 stats.threadstart.io
 stats.timmyomahony.com

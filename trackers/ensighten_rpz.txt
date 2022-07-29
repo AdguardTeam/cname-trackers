@@ -12,6 +12,7 @@ activate.courant.com CNAME .
 activate.dailysouthtown.com CNAME .
 activate.delmartimes.net CNAME .
 activate.encinitasadvocate.com CNAME .
+activate.gio.com.au CNAME .
 activate.lajollalight.com CNAME .
 activate.lanebryant.com CNAME .
 activate.latimes.com CNAME .
@@ -63,6 +64,7 @@ analytics.syf.com CNAME .
 analytics.synchrony.com CNAME .
 analytics.synchronybank.com CNAME .
 analytics.synchronybusiness.com CNAME .
+analytics.synchronycareers.com CNAME .
 assets1.aainsurance.co.nz CNAME .
 assets1.aami.com.au CNAME .
 assets1.apia.com.au CNAME .
@@ -148,6 +150,7 @@ ens.nzz.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.themarket.ch CNAME .
 ensighten.bhphoto.com CNAME .
+ensighten.ccnag.com CNAME .
 ensighten.coop.co.uk CNAME .
 ensighten.davidyurman.com CNAME .
 ensighten.heishop.com.br CNAME .

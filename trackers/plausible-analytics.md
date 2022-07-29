@@ -164,6 +164,7 @@
 | pl.ethan.link | custom.plausible.io |
 | pl.fashmoms.com | custom.plausible.io |
 | pl.getfamealy.com | custom.plausible.io |
+| pl.hackathon-makers.com | custom.plausible.io |
 | pl.kanbanmail.app | custom.plausible.io |
 | pl.kis-nagy.art | custom.plausible.io |
 | pl.maya-astro.fi | custom.plausible.io |
@@ -249,6 +250,7 @@
 | plausible.sysloun.cz | custom.plausible.io |
 | plausible.tac.dappstar.io | custom.plausible.io |
 | plausible.test.sketch.com | custom.plausible.io |
+| plausible.uptime.dk | custom.plausible.io |
 | plausible.urbanekuensteruhr.de | custom.plausible.io |
 | plausible.vaughanesports.org | custom.plausible.io |
 | plausible.virt.io | custom.plausible.io |
@@ -539,6 +541,7 @@
 | stats.nytecomics.com | custom.plausible.io |
 | stats.obiit.co | custom.plausible.io |
 | stats.offthekerb.com | custom.plausible.io |
+| stats.ohmysmtp.com | custom.plausible.io |
 | stats.onepagelove.com | custom.plausible.io |
 | stats.orbitalhealth.co | custom.plausible.io |
 | stats.ordinarypuzzles.com | custom.plausible.io |
@@ -613,7 +616,6 @@
 | stats.seedthemes.com | custom.plausible.io |
 | stats.seedwebs.com | custom.plausible.io |
 | stats.sendngnt.com | custom.plausible.io |
-| stats.sethvincent.com | custom.plausible.io |
 | stats.seva.rocks | custom.plausible.io |
 | stats.sexplore.app | custom.plausible.io |
 | stats.share.link | custom.plausible.io |
@@ -653,6 +655,7 @@
 | stats.thedartmoorsoapco.co.uk | custom.plausible.io |
 | stats.thegoodlineheight.com | custom.plausible.io |
 | stats.thingsthatkeepmeupatnight.dev | custom.plausible.io |
+| stats.thomasfroese.com | custom.plausible.io |
 | stats.thomasvitale.com | custom.plausible.io |
 | stats.threadstart.io | custom.plausible.io |
 | stats.timmyomahony.com | custom.plausible.io |

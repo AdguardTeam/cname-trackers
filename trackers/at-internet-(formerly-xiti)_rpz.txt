@@ -67,6 +67,7 @@ montpalatin.handicap.fr CNAME .
 pear.ca-eko-globetrotter.fr CNAME .
 pear.youzful-by-ca.fr CNAME .
 ponyo.cheriefm.fr CNAME .
+protys.protys.fr CNAME .
 res.elle.fr CNAME .
 res.femina.fr CNAME .
 res.franc-tireur.fr CNAME .

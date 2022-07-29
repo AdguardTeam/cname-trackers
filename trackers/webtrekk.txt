@@ -240,6 +240,7 @@
 ||web.online.monnalisa.com^
 ||web.pages.lloydspharmacy.com^
 ||web.s.sasrx.com^
+||web.sensilab.de^
 ||web.sensilab.se^
 ||web.sensilab.si^
 ||web.sidsavage.com^

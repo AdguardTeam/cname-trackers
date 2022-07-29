@@ -240,6 +240,7 @@ web.newsletter.viviennewestwood.com CNAME .
 web.online.monnalisa.com CNAME .
 web.pages.lloydspharmacy.com CNAME .
 web.s.sasrx.com CNAME .
+web.sensilab.de CNAME .
 web.sensilab.se CNAME .
 web.sensilab.si CNAME .
 web.sidsavage.com CNAME .

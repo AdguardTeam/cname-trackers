@@ -15,6 +15,7 @@
 ||ad.kddi-fs.com^
 ||ad.takasu.co.jp^
 ||ad.tempstaff.co.jp^
+||ad.theatreacademy.jp^
 ||ad.udition.jp^
 ||ad1.tone.ne.jp^
 ||adbq.bk.mufg.jp^

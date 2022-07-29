@@ -12,6 +12,7 @@
 ||activate.dailysouthtown.com^
 ||activate.delmartimes.net^
 ||activate.encinitasadvocate.com^
+||activate.gio.com.au^
 ||activate.lajollalight.com^
 ||activate.lanebryant.com^
 ||activate.latimes.com^
@@ -63,6 +64,7 @@
 ||analytics.synchrony.com^
 ||analytics.synchronybank.com^
 ||analytics.synchronybusiness.com^
+||analytics.synchronycareers.com^
 ||assets1.aainsurance.co.nz^
 ||assets1.aami.com.au^
 ||assets1.apia.com.au^
@@ -148,6 +150,7 @@
 ||ens.tagblatt.ch^
 ||ens.themarket.ch^
 ||ensighten.bhphoto.com^
+||ensighten.ccnag.com^
 ||ensighten.coop.co.uk^
 ||ensighten.davidyurman.com^
 ||ensighten.heishop.com.br^

@@ -97,6 +97,7 @@ tr.communication.moethennessy.com
 tr.communication.np6.com
 tr.communication.numericable.fr
 tr.communication.offresb2b.fr
+tr.companeo-news.co.uk
 tr.compte.fca-capital-france.fr
 tr.comunicacao.younited-credit.com
 tr.contact.canalplus.fr
@@ -219,6 +220,7 @@ tr.info.mdbp.fr
 tr.info.mobibam.com
 tr.info.offres-cartegie.fr
 tr.info.onboarding.corporatecards.bnpparibas
+tr.info.phsolidaire-bpifrance.fr
 tr.info.promoneuve.fr
 tr.info.rouen.aeroport.fr
 tr.info.rouen.cci.fr
@@ -287,6 +289,7 @@ tr.mm.infopro-digital.com
 tr.mnoc.espmp-nifr.net
 tr.moja-wycena.pl
 tr.mondevis-pro.com
+tr.mp.aconclue-business.fr
 tr.mp.aconclue-pro.com
 tr.mp.actu-pm.fr
 tr.mp.ld-man.fr
@@ -343,6 +346,7 @@ tr.news.i24news.tv
 tr.news.infopro-digital.com
 tr.news.jautomatise.com
 tr.news.kpmgnet.fr
+tr.news.kuhn.com
 tr.news.la-collectionairfrance.fr
 tr.news.la-meilleure-voyance.com
 tr.news.lacollection-airfrance.be
@@ -481,6 +485,7 @@ tr.serviceclient.younited-coach.com
 tr.serviceclient.younited-credit.com
 tr.services.alinea.com
 tr.services.caradisiac.com
+tr.servicesclients.canalplus.ch
 tr.servicesclients.canalplus.fr
 tr.servicoaocliente.younited-credit.com
 tr.sfr.espmp-aufr.net
@@ -497,24 +502,9 @@ tr.thisiseurope.moethennessy.com
 tr.toner-service.fr
 tr.toner-services.fr
 tr.tonerservices.fr
-tr.trafficnews.lyria.com
-tr.uk.icicibank.com
-tr.urfk02v.espmp-cufr.net
-tr.urfk03u.espmp-nifr.net
-tr.urfk06h.espmp-nifr.net
-tr.urfk06y.espmp-nifr.net
 tr.urfk07s.espmp-nifr.net
-tr.ville.bordeaux.fr
-tr.voeux-wishes.ipsilon-ip.com
 tr.voixduclient.harmonie-mutuelle.fr
-tr.votrealarme.securitasdirect.fr
-tr.vous.hellobank.fr
-tr.welcome.easyviaggio.com
-tr.welcome.easyviajar.com
-tr.welcome.easyvoyage.co.uk
 tr.welcome.easyvoyage.com
-tr.welcome.easyvoyage.de
-tr.welcome.lacollection-airfrance.fr
 tr.welcome.lexpress.fr
 tr.welcome.moncoupdepouce.com
 tr.welcome.odalys-vacances.com

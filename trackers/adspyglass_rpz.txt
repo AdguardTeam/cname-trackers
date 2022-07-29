@@ -52,6 +52,7 @@ a.katomu.club CNAME .
 a.letsjerk.org CNAME .
 a.letsjerk.to CNAME .
 a.letsjerk.tv CNAME .
+a.manga18.site CNAME .
 a.neverbe.xyz CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornhex.com CNAME .
@@ -114,7 +115,6 @@ asg.japanxxxvideo.net CNAME .
 asg.lustesthd.com CNAME .
 asg.page-x.com CNAME .
 asg.phukienthoitranggiare.com CNAME .
-asg.pornimagine.com CNAME .
 asg.pornomoglie.com CNAME .
 asg.pornoplay.online CNAME .
 asg.pornx99.us CNAME .
@@ -133,6 +133,7 @@ asgdfasad.mm-cgnews.com CNAME .
 asgt.findnewline.com CNAME .
 asp.hotfullvideos.com CNAME .
 atom.seotul.pics CNAME .
+audi.lol CNAME .
 av5.mofoshd.org CNAME .
 awrfds3.pornpapa.com CNAME .
 b.comihon.com CNAME .
@@ -207,6 +208,7 @@ go.showmeyouradsnow.com CNAME .
 go.ss-n-30.com CNAME .
 goog.emailon.top CNAME .
 hazicu.hothomefuck.com CNAME .
+honda.lol CNAME .
 hq3x.com CNAME .
 hsux.com CNAME .
 hub.bazboy.club CNAME .
@@ -226,7 +228,6 @@ kliqz.com CNAME .
 kuhdsysdas.indexsubtitle.com CNAME .
 l.rated.sex CNAME .
 larasub.conxxx.pro CNAME .
-likse.aaaf.info CNAME .
 linkpopu.mom CNAME .
 livenews.autos CNAME .
 lixir.wargers.org CNAME .
@@ -301,6 +302,7 @@ sda.seksohub.com CNAME .
 sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
 search.cdn1.pro CNAME .
+serve.uploadbank.com CNAME .
 sg.xclick24.com CNAME .
 shemale.house CNAME .
 sin.chjnmi.xyz CNAME .
@@ -331,6 +333,7 @@ tip.vipz.lol CNAME .
 tlv.ui02.com CNAME .
 tom.beclin.xyz CNAME .
 tomboy.lol CNAME .
+toyota.lol CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 tuckbos.lol CNAME .
@@ -356,7 +359,6 @@ www.hq3x.com CNAME .
 www.lechoncito.one CNAME .
 www.letstry69.xyz CNAME .
 www.patodonalgomball.store CNAME .
-www.plantomgeforce.online CNAME .
 www.sex1.party CNAME .
 www.u808i.com CNAME .
 www.ucdn.website CNAME .

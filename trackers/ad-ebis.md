@@ -164,6 +164,7 @@
     * b773e430-snfbdnnq.cname.ebis.ne.jp
     * b91cdac9-llbfadyx.cname.ebis.ne.jp
     * b9f16cb4-srrg93nh.cname.ebis.ne.jp
+    * bae37929-ehtgvvgm.cname.ebis.ne.jp
     * bb6aa604-kdknv6tt.cname.ebis.ne.jp
     * bba13219-ehtgvvgm.cname.ebis.ne.jp
     * bcc4d612-qmmdzant.cname.ebis.ne.jp
@@ -384,6 +385,7 @@
 | adebis.toitoitoi.clinic | b773e430-snfbdnnq.cname.ebis.ne.jp |
 | ebiscname.j-esthe-yoyaku.com | b91cdac9-llbfadyx.cname.ebis.ne.jp |
 | greenjapan-cname.green-japan.com | b9f16cb4-srrg93nh.cname.ebis.ne.jp |
+| ad.theatreacademy.jp | bae37929-ehtgvvgm.cname.ebis.ne.jp |
 | cname2.shaken-yoyaku.com | bb6aa604-kdknv6tt.cname.ebis.ne.jp |
 | ad.udition.jp | bba13219-ehtgvvgm.cname.ebis.ne.jp |
 | adebis.shiseido.co.jp | bcc4d612-qmmdzant.cname.ebis.ne.jp |

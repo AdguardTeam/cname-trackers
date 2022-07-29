@@ -22,6 +22,7 @@
 | a8.denki-koji.work | trck.a8.net |
 | a8.denki-tatsujin.com | trck.a8.net |
 | a8.denwa-hikari.com | trck.a8.net |
+| a8.efax.co.jp | trck.a8.net |
 | a8.eonet.jp | trck.a8.net |
 | a8.eonet.ne.jp | trck.a8.net |
 | a8.erasutamo.onlinestaff.jp | trck.a8.net |
@@ -225,6 +226,7 @@
 | a8cv.shokubun.ec-design.co.jp | trck.a8.net |
 | a8cv.shop.matsuo1956.jp | trck.a8.net |
 | a8cv.signalift.com | trck.a8.net |
+| a8cv.smart-shikaku.com | trck.a8.net |
 | a8cv.snkrdunk.com | trck.a8.net |
 | a8cv.soundfun.co.jp | trck.a8.net |
 | a8cv.soyafarm.com | trck.a8.net |

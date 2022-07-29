@@ -37,6 +37,7 @@
 ||affil.plkshop.cz^
 ||affil.reedog.cz^
 ||affil.seduo.cz^
+||affil.stronger-shop.cz^
 ||affil.tadytuto.cz^
 ||affil.top4fitness.at^
 ||affil.top4fitness.bg^
@@ -111,6 +112,7 @@
 ||affiliate.dmxgear.cz^
 ||affiliate.domoss.sk^
 ||affiliate.easylingo.com^
+||affiliate.easyproject.com^
 ||affiliate.easyredmine.com^
 ||affiliate.elektronickeobojkypropsy.cz^
 ||affiliate.elisdesign.cz^
@@ -118,10 +120,13 @@
 ||affiliate.eros.sk^
 ||affiliate.expertnapredaj.sk^
 ||affiliate.faceyogainstitute.eu^
+||affiliate.fapi.cz^
+||affiliate.fotopasti-bunaty.cz^
 ||affiliate.growmarket.cz^
 ||affiliate.hanibal.cz^
 ||affiliate.horseandme.eu^
 ||affiliate.jidlojevasen.cz^
+||affiliate.kosateam.com^
 ||affiliate.kurzy-liecenia.sk^
 ||affiliate.kutil.cz^
 ||affiliate.lasamba.cz^
@@ -154,6 +159,7 @@
 ||doporuc.hopsej.cz^
 ||hcbox.mironet.cz^
 ||hcbox.tesla-electronics.eu^
+||isicpartner.mamechut.cz^
 ||login.affiliatesit.cz^
 ||partner.2din.cz^
 ||partner.amonitsro.sk^
@@ -194,6 +200,7 @@
 ||partner.marlen.cz^
 ||partner.metagram.sk^
 ||partner.mhsexshop.com^
+||partner.milujifoceni.cz^
 ||partner.motoobchod.cz^
 ||partner.nanolab.cz^
 ||partner.natubea.cz^
@@ -217,6 +224,7 @@
 ||partner.superpotlac.sk^
 ||partner.svatebni-diar.cz^
 ||partner.top-obaly.cz^
+||partner.webareal.cz^
 ||partner.webareal.sk^
 ||partner.wormup.com^
 ||partner.xm.cz^
@@ -230,6 +238,7 @@
 ||partneri.chytraopicka.cz^
 ||partneri.coffeeveronia.sk^
 ||partneri.dovychovat.cz^
+||partneri.ecstatic.cz^
 ||partneri.eduway.cz^
 ||partneri.epiderma.cz^
 ||partneri.fitstore.cz^
@@ -237,6 +246,7 @@
 ||partneri.levne-barvy-laky.cz^
 ||partneri.mebline.cz^
 ||partneri.mixano.cz^
+||partneri.motmot.cz^
 ||partneri.mrblast.eu^
 ||partneri.netfotbal.cz^
 ||partneri.onlinejazyky.cz^
@@ -257,6 +267,8 @@
 ||provizia.mimulo.sk^
 ||spoluprace.denikletusky.cz^
 ||spoluprace.eroticstore.cz^
+||spoluprace.medicinashop.cz^
 ||spoluprace.potravinyarax.cz^
+||spoluprace.terrapotheka.cz^
 ||spoluprace.vcelarstvi-domovina.cz^
 ||www.partner.hubatacernoska.cz^

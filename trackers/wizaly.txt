@@ -26,6 +26,7 @@
 ||tk.airfrance.ie^
 ||tk.airfrance.it^
 ||tk.airfrance.mq^
+||tk.airfrance.ng^
 ||tk.airfrance.pl^
 ||tk.airfrance.pt^
 ||tk.airfrance.ro^
@@ -58,6 +59,7 @@
 ||tk.little-big-change.com^
 ||tk.lolivier.fr^
 ||tk.lulli-sur-la-toile.com^
+||tk.maison123.com^
 ||tk.moveyourfit.com^
 ||tk.msccruises.com^
 ||tk.nhlottery.com^
@@ -66,6 +68,7 @@
 ||tk.prismashop.fr^
 ||tk.qare.fr^
 ||tk.rentacar.fr^
+||tk.rimowa.com^
 ||tk.salomon.com^
 ||tk.svsound.com^
 ||tk.transavia.com^

@@ -159,6 +159,7 @@ pl.codetheweb.blog CNAME .
 pl.ethan.link CNAME .
 pl.fashmoms.com CNAME .
 pl.getfamealy.com CNAME .
+pl.hackathon-makers.com CNAME .
 pl.kanbanmail.app CNAME .
 pl.kis-nagy.art CNAME .
 pl.maya-astro.fi CNAME .
@@ -244,6 +245,7 @@ plausible.strzibny.name CNAME .
 plausible.sysloun.cz CNAME .
 plausible.tac.dappstar.io CNAME .
 plausible.test.sketch.com CNAME .
+plausible.uptime.dk CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.vaughanesports.org CNAME .
 plausible.virt.io CNAME .
@@ -534,6 +536,7 @@ stats.ntietz.com CNAME .
 stats.nytecomics.com CNAME .
 stats.obiit.co CNAME .
 stats.offthekerb.com CNAME .
+stats.ohmysmtp.com CNAME .
 stats.onepagelove.com CNAME .
 stats.orbitalhealth.co CNAME .
 stats.ordinarypuzzles.com CNAME .
@@ -608,7 +611,6 @@ stats.sebastiangale.ca CNAME .
 stats.seedthemes.com CNAME .
 stats.seedwebs.com CNAME .
 stats.sendngnt.com CNAME .
-stats.sethvincent.com CNAME .
 stats.seva.rocks CNAME .
 stats.sexplore.app CNAME .
 stats.share.link CNAME .
@@ -648,6 +650,7 @@ stats.thechurchfactory.com CNAME .
 stats.thedartmoorsoapco.co.uk CNAME .
 stats.thegoodlineheight.com CNAME .
 stats.thingsthatkeepmeupatnight.dev CNAME .
+stats.thomasfroese.com CNAME .
 stats.thomasvitale.com CNAME .
 stats.threadstart.io CNAME .
 stats.timmyomahony.com CNAME .
