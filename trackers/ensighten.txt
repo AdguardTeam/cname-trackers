@@ -187,6 +187,7 @@
 ||privacy.heishop.mx^
 ||pulse.delta.com^
 ||pulse.sleepnumber.com^
+||pulse.synergy.net.au^
 ||secureanalytics.syf.com^
 ||secureanalytics.synchronycredit.com^
 ||secureanalytics.synchronyretail.com^

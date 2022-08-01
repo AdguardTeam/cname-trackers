@@ -120,6 +120,7 @@
 ||ablink.msg.flipfit.com^
 ||ablink.my.zip.co^
 ||ablink.news.felixmobile.com.au^
+||ablink.news.gimmecountry.com^
 ||ablink.news.gimmeradio.com^
 ||ablink.news.omio.com^
 ||ablink.notice.hoopladigital.com^
@@ -358,6 +359,7 @@
 ||email.mail.primexbt.com^
 ||email.member.theknot.com^
 ||email.mg.everyonesocial.com^
+||email.msg.navyfederal.org^
 ||email.msg.workday.com^
 ||email.pac-12.com^
 ||email.pray.com^

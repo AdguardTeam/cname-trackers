@@ -122,6 +122,7 @@ hulpmiddel.fvw.de
 img.foodspring.dk
 img.foodspring.se
 intelligence.officialwesthamstore.com
+is.lg.com
 mapp.ewm.co.uk
 mapp.jysk.dk
 mapp.jysk.nl
@@ -244,9 +245,12 @@ web.sensilab.de
 web.sensilab.se
 web.sensilab.si
 web.sidsavage.com
+web.slimjoy.ro
 web.slimjoy.se
+web.slimjoy.sk
 web.tummy-tox.com
 web.tummytox.pt
+web.tummytox.sk
 web.x.ilpost.it
 webmet.creditreform.de
 webt.eleonto.com

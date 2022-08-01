@@ -41,7 +41,9 @@ a8.nanafu.tokyo CNAME .
 a8.nengahonpo.com CNAME .
 a8.nosh.jp CNAME .
 a8.o-tayori.com CNAME .
+a8.obihiro-butaichi.jp CNAME .
 a8.olightstore.jp CNAME .
+a8.papapa.baby CNAME .
 a8.pcnext.shop CNAME .
 a8.pcrjapan.clinicnearme.jp CNAME .
 a8.print-netsquare.com CNAME .
@@ -66,12 +68,14 @@ a8.virus-gekitai.com CNAME .
 a8.watero.pet CNAME .
 a8.web-hikari.net CNAME .
 a8.webist-cri.com CNAME .
+a8.wifi-tokyo-rentalshop.com CNAME .
 a8.yanoman.com CNAME .
 a8.yuzen-official.com CNAME .
 a8aspconv.itx-home-router.com CNAME .
 a8aspconv.ns-softbank-hikari.com CNAME .
 a8aspconv.xn--biglobe-kc9k.com CNAME .
 a8aspconv.xn--ocn-ws1e.jp CNAME .
+a8click.daini2.co.jp CNAME .
 a8click.you-up.com CNAME .
 a8click.young-mobile.net CNAME .
 a8clk.app.offerbox.jp CNAME .

@@ -3,7 +3,11 @@
 ## Disguised trackers list
 
 * t.eloqua.com
+    * p03a.t.eloqua.com
+    * p03f.t.eloqua.com
     * p06k.t.eloqua.com
+    * s16863.t.eloqua.com
+    * s72951169.t.eloqua.com
     * s795651218.t.eloqua.com
 
 ### Rarely active trackers
@@ -66,7 +70,6 @@
 * p01e.hs.eloqua.com
 * p07a.hs.eloqua.com
 * p06c.hs.eloqua.com
-* p07c.hs.eloqua.com
 
 ## Cloaking domains
 
@@ -93,10 +96,6 @@
 | devtracking.risk.lexisnexis.com | p01a.hs.eloqua.com |
 | education.moodybible.org | p01a.hs.eloqua.com |
 | eloqua.talktalkbusiness.co.uk | p01a.hs.eloqua.com |
-| trk.iotworldtoday.com | p01a.hs.eloqua.com |
-| trk.itprotoday.com | p01a.hs.eloqua.com |
-| trk.wealthmanagement.com | p01a.hs.eloqua.com |
-| trk.webhostingtalk.com | p01a.hs.eloqua.com |
 | campaign-fbsg.fujifilm.com | p01b.hs.eloqua.com |
 | campaigns.husky.ca | p01b.hs.eloqua.com |
 | campaigns.panasonic.eu | p01b.hs.eloqua.com |
@@ -113,22 +112,16 @@
 | tracking.adpri.org | p01c.hs.eloqua.com |
 | content.eaton.com | p01d.hs.eloqua.com |
 | cookietracking.eatonpowersource.com | p01d.hs.eloqua.com |
-| trk.nationalhogfarmer.com | p01d.hs.eloqua.com |
 | elqtracking.flexera.com | p01e.hs.eloqua.com |
 | elqtracking.revenera.com | p01e.hs.eloqua.com |
 | elqtracking.richardsonrfpd.com | p01e.hs.eloqua.com |
 | solutions.equifax.co.uk | p01e.hs.eloqua.com |
 | stat.bdc.ca | p01e.hs.eloqua.com |
-| updates.gaylordhotels.com | p01e.hs.eloqua.com |
 | connection.arrow.com | p01f.hs.eloqua.com |
 | connection.verical.com | p01f.hs.eloqua.com |
 | content.verint.com | p01f.hs.eloqua.com |
 | discover.parker.com | p01f.hs.eloqua.com |
 | trk.gamasutra.com | p01f.hs.eloqua.com |
-| trk.gamecareerguide.com | p01f.hs.eloqua.com |
-| trk.gamedeveloper.com | p01f.hs.eloqua.com |
-| trk.informationweek.com | p01f.hs.eloqua.com |
-| trk.networkcomputing.com | p01f.hs.eloqua.com |
 | analytics.flexpay.io | p01g.hs.eloqua.com |
 | app.business.westernunion.com | p01g.hs.eloqua.com |
 | app.noreply.cummins.com | p01g.hs.eloqua.com |
@@ -138,7 +131,6 @@
 | elq.cirium.com | p01g.hs.eloqua.com |
 | elqtrk.cummins.com | p01g.hs.eloqua.com |
 | solutions2.risk.lexisnexis.com | p01g.hs.eloqua.com |
-| trk.mt.business.westernunion.com | p01g.hs.eloqua.com |
 | activity.asce.org | p01h.hs.eloqua.com |
 | business.vodafone.com | p01h.hs.eloqua.com |
 | cz-mktg.vodafone.com | p01h.hs.eloqua.com |
@@ -148,13 +140,10 @@
 | content.juniper.net | p01i.hs.eloqua.com |
 | dhlsupplychain.dhl.com | p01i.hs.eloqua.com |
 | elqtracking.medidata.com | p01i.hs.eloqua.com |
-| visit.hypertherm.com | p01i.hs.eloqua.com |
 | analytics.aba.com | p01j.hs.eloqua.com |
 | connect.zebra.com | p01j.hs.eloqua.com |
 | cookie.solutions.desertfinancial.com | p01j.hs.eloqua.com |
 | solutions.desertfinancial.com | p01j.hs.eloqua.com |
-| trk.wardsauto.com | p01j.hs.eloqua.com |
-| trust.zebra.com | p01j.hs.eloqua.com |
 | acq-hk.americanexpress.com | p01k.hs.eloqua.com |
 | acq-sg.americanexpress.com | p01k.hs.eloqua.com |
 | business-cards.americanexpress.com | p01k.hs.eloqua.com |
@@ -169,10 +158,6 @@
 | e.beckmancoulter.com | p01k.hs.eloqua.com |
 | elq.sonicwall.com | p01k.hs.eloqua.com |
 | trk.food-management.com | p01k.hs.eloqua.com |
-| trk.nrn.com | p01k.hs.eloqua.com |
-| trk.optum.com | p01k.hs.eloqua.com |
-| trk.routesonline.com | p01k.hs.eloqua.com |
-| trk.supermarketnews.com | p01k.hs.eloqua.com |
 | convocation.uwindsor.ca | p02f.hs.eloqua.com |
 | ccmd.coveredca.com | p03.hs.eloqua.com |
 | elq.symantec.com | p03.hs.eloqua.com |
@@ -197,6 +182,7 @@
 | track.info.pulmonologyadvisor.com | p03a.hs.eloqua.com |
 | track.info.renalandurologynews.com | p03a.hs.eloqua.com |
 | track.info.thecardiologyadvisor.com | p03a.hs.eloqua.com |
+| t.goduke.com | p03a.t.eloqua.com |
 | app.fairparkdallas.com | p03b.hs.eloqua.com |
 | app.scarletknights.com | p03b.hs.eloqua.com |
 | app.und.com | p03b.hs.eloqua.com |
@@ -220,7 +206,6 @@
 | cookie.amerigas.com | p03d.hs.eloqua.com |
 | cookie.cynch.com | p03d.hs.eloqua.com |
 | cookie.myamerigas.com | p03d.hs.eloqua.com |
-| ucaas.avaya.com | p03d.hs.eloqua.com |
 | abo.schibsted.no | p03e.hs.eloqua.com |
 | app.byutickets.com | p03e.hs.eloqua.com |
 | app.gohuskies.com | p03e.hs.eloqua.com |
@@ -230,7 +215,6 @@
 | app.ticketatlantic.com | p03e.hs.eloqua.com |
 | business.samsungusa.com | p03e.hs.eloqua.com |
 | corporate.mattamyhomes.com | p03e.hs.eloqua.com |
-| us.mattamyhomes.com | p03e.hs.eloqua.com |
 | app.arizonawildcats.com | p03f.hs.eloqua.com |
 | app.georgiadogs.com | p03f.hs.eloqua.com |
 | app.hokiesports.com | p03f.hs.eloqua.com |
@@ -245,6 +229,7 @@
 | eloqua.newenergyupdate.com | p03f.hs.eloqua.com |
 | tracking.alphacard.com | p03f.hs.eloqua.com |
 | tracking.barcodesinc.com | p03f.hs.eloqua.com |
+| info.lexisnexis.com.sg | p03f.t.eloqua.com |
 | app.12thman.com | p03g.hs.eloqua.com |
 | app.seminoles.com | p03g.hs.eloqua.com |
 | app.uabsports.com | p03g.hs.eloqua.com |
@@ -323,9 +308,6 @@
 | digital.att.com | p04c.hs.eloqua.com |
 | eloqua.53.com | p04c.hs.eloqua.com |
 | tracking.att.com | p04c.hs.eloqua.com |
-| trk.mddionline.com | p04c.hs.eloqua.com |
-| trk.packagingdigest.com | p04c.hs.eloqua.com |
-| trk.plasticstoday.com | p04c.hs.eloqua.com |
 | ai.mist.com | p04d.hs.eloqua.com |
 | appointments.providence.org | p04d.hs.eloqua.com |
 | businessengage.comcast.com | p04d.hs.eloqua.com |
@@ -388,8 +370,6 @@
 | contacto.gtc.com.gt | p04k.hs.eloqua.com |
 | content.hydraulicsproducts.com | p04k.hs.eloqua.com |
 | discover.phenomenex.com | p04k.hs.eloqua.com |
-| trk.magicfashionevents.com | p04k.hs.eloqua.com |
-| trk.sourcingatmagic.com | p04k.hs.eloqua.com |
 | app.3d.ultimaker.com | p06.hs.eloqua.com |
 | elqtracking1.tetrapak.com | p06.hs.eloqua.com |
 | campaign.bbmbonnier.se | p06a.hs.eloqua.com |
@@ -405,7 +385,6 @@
 | tracking.atea.dk | p06a.hs.eloqua.com |
 | by.bollore-logistics.com | p06b.hs.eloqua.com |
 | eloq.fiducial.fr | p06b.hs.eloqua.com |
-| visit.go.tuv.com | p06b.hs.eloqua.com |
 | tracking.arabiancentres.com | p06c.hs.eloqua.com |
 | tracking.athlon.com | p06c.hs.eloqua.com |
 | apply.bpost.be | p06d.hs.eloqua.com |
@@ -480,8 +459,6 @@
 | efficiency.visma.fi | p06i.hs.eloqua.com |
 | efficiency.visma.lv | p06i.hs.eloqua.com |
 | efficiency.visma.se | p06i.hs.eloqua.com |
-| visma.e-conomic.dk | p06i.hs.eloqua.com |
-| vismaturva.visma.fi | p06i.hs.eloqua.com |
 | antwort.hager.de | p06j.hs.eloqua.com |
 | campaign.ssab.com | p06j.hs.eloqua.com |
 | comunicazioni.bancamediolanum.it | p06j.hs.eloqua.com |
@@ -497,7 +474,6 @@
 | tracking.bettingexpert.com | p06k.hs.eloqua.com |
 | tracking.bnppre.fr | p06k.hs.eloqua.com |
 | eloqua-tracking.unity.com | p06k.t.eloqua.com |
-| eloqua-tracking.unity.com | p06k.t.eloqua.com |
 | eloqua-tracking.unity3d.com | p06k.t.eloqua.com |
 | eloqua-tracking.unity3d.com | p06k.t.eloqua.com |
 | bigdata.aspiresys.com | p07.hs.eloqua.com |
@@ -508,9 +484,6 @@
 | discover.10play.com.au | p07.hs.eloqua.com |
 | track.manawa-mai.ac.nz | p07a.hs.eloqua.com |
 | elq.utas.edu.au | p07b.hs.eloqua.com |
-| visit.tafensw.edu.au | p07b.hs.eloqua.com |
-| visit.donateblood.com.au | p07c.hs.eloqua.com |
-| visit.lifeblood.com.au | p07c.hs.eloqua.com |
 | belong.curtin.edu.au | p07d.hs.eloqua.com |
 | contact.lesmills.com | p07e.hs.eloqua.com |
 | contact.samsungsds.com | p07e.hs.eloqua.com |
@@ -523,5 +496,6 @@
 | connect.telstrawholesale.com | p07j.hs.eloqua.com |
 | tracking.apac.business.samsung.com | p07j.hs.eloqua.com |
 | contact.kikusuiamerica.com | p07k.hs.eloqua.com |
-| eloqua-tracking.unity.com | s795651218.t.eloqua.com |
+| t.goduke.com | s16863.t.eloqua.com |
+| info.lexisnexis.com.sg | s72951169.t.eloqua.com |
 | eloqua-tracking.unity3d.com | s795651218.t.eloqua.com |

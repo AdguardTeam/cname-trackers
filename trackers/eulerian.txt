@@ -44,8 +44,6 @@
 ||csv4.ebs-paris.fr^
 ||ct5m.citadium.com^
 ||ctp1.bforbank.com^
-||d0f.le-dauphin.com^
-||d2u.dauphinquebec.com^
 ||def1.optimhome-recrutement.com^
 ||deut1.fdj.fr^
 ||dko.vente-unique.nl^
@@ -135,7 +133,6 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
-||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||eule1.pmu.fr^
 ||eule3.pmu.fr^
@@ -179,7 +176,6 @@
 ||gdm1.toner.fr^
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
-||gi7a.structube.com^
 ||guq9.vente-unique.it^
 ||gwtc.sfr.fr^
 ||h00c.sfr.fr^
@@ -210,6 +206,7 @@
 ||ltm6.destinia.se^
 ||ly8c.caci-online.fr^
 ||lzuc.sfr.fr^
+||m10.m1029.com^
 ||m3ds.subarumetropolitain.com^
 ||mfd.myfirstdressing.com^
 ||mgt7.madeindesign.it^
@@ -237,6 +234,7 @@
 ||nmu3.destinia.be^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
+||nym5c.bonlook.com^
 ||nym5c.laura.ca^
 ||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^

@@ -60,6 +60,7 @@
 3298834.notifysrv.com
 3300890.notifysrv.com
 3300974.notify6.com
+3300998.notify6.com
 3302404.notify6.com
 3303294.notifysrv.com
 3304350.notifysrv.com
@@ -109,6 +110,7 @@
 3385991.notify6.com
 3385991.notifysrv.com
 3389741.notify6.com
+3395717.notify6.com
 3396611.notifysrv.com
 3398315.notify6.com
 3402191.notifysrv.com
@@ -405,6 +407,8 @@
 4329306.notify6.com
 4365744.notify6.com
 4421184.notify6.com
+4429788.notify6.com
+4443548.notify6.com
 4454624.notify6.com
 4455804.notify6.com
 4470554.notify6.com
@@ -421,6 +425,7 @@
 6180.notify.optimizesrv.com
 a.etology.com
 admin.adnation.com
+admin.etology.com
 api.adnation.com
 delivery.gettopple.com
 engine.gettopple.com

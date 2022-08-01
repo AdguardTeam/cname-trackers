@@ -39,6 +39,7 @@ adebis.gfs-official.com CNAME .
 adebis.harutaka.jp CNAME .
 adebis.hotstaff.co.jp CNAME .
 adebis.irobot-jp.com CNAME .
+adebis.jp.iface.com CNAME .
 adebis.juku.st CNAME .
 adebis.kaonavi.jp CNAME .
 adebis.kirin.co.jp CNAME .

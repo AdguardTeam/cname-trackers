@@ -5,6 +5,8 @@
 !
 ||eloqua-tracking.unity.com^
 ||eloqua-tracking.unity3d.com^
+||info.lexisnexis.com.sg^
+||t.goduke.com^
 !
 ! p03e.hs.eloqua.com disguised trackers
 !
@@ -17,7 +19,6 @@
 ||app.ticketatlantic.com^
 ||business.samsungusa.com^
 ||corporate.mattamyhomes.com^
-||us.mattamyhomes.com^
 !
 ! p01k.hs.eloqua.com disguised trackers
 !
@@ -35,10 +36,6 @@
 ||e.beckmancoulter.com^
 ||elq.sonicwall.com^
 ||trk.food-management.com^
-||trk.nrn.com^
-||trk.optum.com^
-||trk.routesonline.com^
-||trk.supermarketnews.com^
 !
 ! p01h.hs.eloqua.com disguised trackers
 !
@@ -83,8 +80,6 @@
 ||contacto.gtc.com.gt^
 ||content.hydraulicsproducts.com^
 ||discover.phenomenex.com^
-||trk.magicfashionevents.com^
-||trk.sourcingatmagic.com^
 !
 ! p06f.hs.eloqua.com disguised trackers
 !
@@ -134,8 +129,6 @@
 ||connect.zebra.com^
 ||cookie.solutions.desertfinancial.com^
 ||solutions.desertfinancial.com^
-||trk.wardsauto.com^
-||trust.zebra.com^
 !
 ! p06g.hs.eloqua.com disguised trackers
 !
@@ -172,7 +165,6 @@
 ||elq.cirium.com^
 ||elqtrk.cummins.com^
 ||solutions2.risk.lexisnexis.com^
-||trk.mt.business.westernunion.com^
 !
 ! p06j.hs.eloqua.com disguised trackers
 !
@@ -297,7 +289,6 @@
 ||cookie.amerigas.com^
 ||cookie.cynch.com^
 ||cookie.myamerigas.com^
-||ucaas.avaya.com^
 !
 ! p03c.hs.eloqua.com disguised trackers
 !
@@ -403,9 +394,6 @@
 ||digital.att.com^
 ||eloqua.53.com^
 ||tracking.att.com^
-||trk.mddionline.com^
-||trk.packagingdigest.com^
-||trk.plasticstoday.com^
 !
 ! p06h.hs.eloqua.com disguised trackers
 !
@@ -431,7 +419,6 @@
 !
 ||by.bollore-logistics.com^
 ||eloq.fiducial.fr^
-||visit.go.tuv.com^
 !
 ! p01b.hs.eloqua.com disguised trackers
 !
@@ -465,8 +452,6 @@
 ||efficiency.visma.fi^
 ||efficiency.visma.lv^
 ||efficiency.visma.se^
-||visma.e-conomic.dk^
-||vismaturva.visma.fi^
 !
 ! p04a.hs.eloqua.com disguised trackers
 !
@@ -542,10 +527,6 @@
 ||devtracking.risk.lexisnexis.com^
 ||education.moodybible.org^
 ||eloqua.talktalkbusiness.co.uk^
-||trk.iotworldtoday.com^
-||trk.itprotoday.com^
-||trk.wealthmanagement.com^
-||trk.webhostingtalk.com^
 !
 ! p01f.hs.eloqua.com disguised trackers
 !
@@ -554,10 +535,6 @@
 ||content.verint.com^
 ||discover.parker.com^
 ||trk.gamasutra.com^
-||trk.gamecareerguide.com^
-||trk.gamedeveloper.com^
-||trk.informationweek.com^
-||trk.networkcomputing.com^
 !
 ! p04f.hs.eloqua.com disguised trackers
 !
@@ -580,14 +557,12 @@
 !
 ||content.eaton.com^
 ||cookietracking.eatonpowersource.com^
-||trk.nationalhogfarmer.com^
 !
 ! p01i.hs.eloqua.com disguised trackers
 !
 ||content.juniper.net^
 ||dhlsupplychain.dhl.com^
 ||elqtracking.medidata.com^
-||visit.hypertherm.com^
 !
 ! p02f.hs.eloqua.com disguised trackers
 !
@@ -605,7 +580,6 @@
 ! p07b.hs.eloqua.com disguised trackers
 !
 ||elq.utas.edu.au^
-||visit.tafensw.edu.au^
 !
 ! p01e.hs.eloqua.com disguised trackers
 !
@@ -614,7 +588,6 @@
 ||elqtracking.richardsonrfpd.com^
 ||solutions.equifax.co.uk^
 ||stat.bdc.ca^
-||updates.gaylordhotels.com^
 !
 ! p07a.hs.eloqua.com disguised trackers
 !
@@ -624,8 +597,3 @@
 !
 ||tracking.arabiancentres.com^
 ||tracking.athlon.com^
-!
-! p07c.hs.eloqua.com disguised trackers
-!
-||visit.donateblood.com.au^
-||visit.lifeblood.com.au^

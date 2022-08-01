@@ -60,6 +60,7 @@
 3298834.notifysrv.com CNAME .
 3300890.notifysrv.com CNAME .
 3300974.notify6.com CNAME .
+3300998.notify6.com CNAME .
 3302404.notify6.com CNAME .
 3303294.notifysrv.com CNAME .
 3304350.notifysrv.com CNAME .
@@ -109,6 +110,7 @@
 3385991.notify6.com CNAME .
 3385991.notifysrv.com CNAME .
 3389741.notify6.com CNAME .
+3395717.notify6.com CNAME .
 3396611.notifysrv.com CNAME .
 3398315.notify6.com CNAME .
 3402191.notifysrv.com CNAME .
@@ -405,6 +407,8 @@
 4329306.notify6.com CNAME .
 4365744.notify6.com CNAME .
 4421184.notify6.com CNAME .
+4429788.notify6.com CNAME .
+4443548.notify6.com CNAME .
 4454624.notify6.com CNAME .
 4455804.notify6.com CNAME .
 4470554.notify6.com CNAME .
@@ -421,6 +425,7 @@
 6180.notify.optimizesrv.com CNAME .
 a.etology.com CNAME .
 admin.adnation.com CNAME .
+admin.etology.com CNAME .
 api.adnation.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .

@@ -14,6 +14,7 @@ avb-sing.ewtcbedtmx.ru CNAME .
 avbr.13wynpuurt.ru CNAME .
 dsp-image-resizer.3grg8dqjil.ru CNAME .
 dsp-image-resizer.gamz48qlok.ru CNAME .
+lk-api-beta.ads2.bid CNAME .
 sing.3h1fpq39jb.ru CNAME .
 sing.qkyb8htwd9.ru CNAME .
 sing.r2j97oxqvr.ru CNAME .

@@ -47,7 +47,9 @@
 | a8.nengahonpo.com | trck.a8.net |
 | a8.nosh.jp | trck.a8.net |
 | a8.o-tayori.com | trck.a8.net |
+| a8.obihiro-butaichi.jp | trck.a8.net |
 | a8.olightstore.jp | trck.a8.net |
+| a8.papapa.baby | trck.a8.net |
 | a8.pcnext.shop | trck.a8.net |
 | a8.pcrjapan.clinicnearme.jp | trck.a8.net |
 | a8.print-netsquare.com | trck.a8.net |
@@ -72,12 +74,14 @@
 | a8.watero.pet | trck.a8.net |
 | a8.web-hikari.net | trck.a8.net |
 | a8.webist-cri.com | trck.a8.net |
+| a8.wifi-tokyo-rentalshop.com | trck.a8.net |
 | a8.yanoman.com | trck.a8.net |
 | a8.yuzen-official.com | trck.a8.net |
 | a8aspconv.itx-home-router.com | trck.a8.net |
 | a8aspconv.ns-softbank-hikari.com | trck.a8.net |
 | a8aspconv.xn--biglobe-kc9k.com | trck.a8.net |
 | a8aspconv.xn--ocn-ws1e.jp | trck.a8.net |
+| a8click.daini2.co.jp | trck.a8.net |
 | a8click.you-up.com | trck.a8.net |
 | a8click.young-mobile.net | trck.a8.net |
 | a8clk.app.offerbox.jp | trck.a8.net |

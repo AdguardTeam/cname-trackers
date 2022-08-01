@@ -6,6 +6,7 @@
     * ahs.extole.com
     * american-giant.extole.com
     * ancestrydna.extole.com
+    * aol.extole.com
     * clearme-ssl.extole.com
     * compexusa.extole.com
     * d.extole.com
@@ -55,6 +56,7 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
+| refer.aol.com | aol.extole.com |
 | refer.clearme.com | clearme-ssl.extole.com |
 | refer.compexusa.com | compexusa.extole.com |
 | ilove.volusion.com | d.extole.com |

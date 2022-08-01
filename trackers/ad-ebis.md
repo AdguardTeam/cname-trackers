@@ -27,6 +27,7 @@
     * 17a0a051-yhrqdvjf.cname.ebis.ne.jp
     * 17db93a8-scxitlgt.cname.ebis.ne.jp
     * 18aeb18f-orvgub9g.cname.ebis.ne.jp
+    * 19740a52-z3l0wqwm.cname.ebis.ne.jp
     * 19b07d2c-szarg4cw.cname.ebis.ne.jp
     * 1a549c8f-lxybwclf.cname.ebis.ne.jp
     * 1c49adf8-5jfswxpe.cname.ebis.ne.jp
@@ -248,6 +249,7 @@
 | ebis.nomu-silica.jp | 17a0a051-yhrqdvjf.cname.ebis.ne.jp |
 | cs0010sbeda.theory-diet.com | 17db93a8-scxitlgt.cname.ebis.ne.jp |
 | ebis.rozetta.jp | 18aeb18f-orvgub9g.cname.ebis.ne.jp |
+| adebis.jp.iface.com | 19740a52-z3l0wqwm.cname.ebis.ne.jp |
 | urr.kumamoto-food.com | 19b07d2c-szarg4cw.cname.ebis.ne.jp |
 | ade.deskstyle.info | 1a549c8f-lxybwclf.cname.ebis.ne.jp |
 | ac-ebis-stb.usen.com | 1c49adf8-5jfswxpe.cname.ebis.ne.jp |

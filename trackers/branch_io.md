@@ -130,6 +130,7 @@
 | ablink.msg.flipfit.com | thirdparty.bnc.lt |
 | ablink.my.zip.co | thirdparty.bnc.lt |
 | ablink.news.felixmobile.com.au | thirdparty.bnc.lt |
+| ablink.news.gimmecountry.com | thirdparty.bnc.lt |
 | ablink.news.gimmeradio.com | thirdparty.bnc.lt |
 | ablink.news.omio.com | thirdparty.bnc.lt |
 | ablink.notice.hoopladigital.com | thirdparty.bnc.lt |
@@ -365,6 +366,7 @@
 | email.mail.primexbt.com | thirdparty.bnc.lt |
 | email.member.theknot.com | thirdparty.bnc.lt |
 | email.mg.everyonesocial.com | thirdparty.bnc.lt |
+| email.msg.navyfederal.org | thirdparty.bnc.lt |
 | email.msg.workday.com | thirdparty.bnc.lt |
 | email.pac-12.com | thirdparty.bnc.lt |
 | email.pray.com | thirdparty.bnc.lt |

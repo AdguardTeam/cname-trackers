@@ -120,6 +120,7 @@ ablink.mktg.tajawal.com CNAME .
 ablink.msg.flipfit.com CNAME .
 ablink.my.zip.co CNAME .
 ablink.news.felixmobile.com.au CNAME .
+ablink.news.gimmecountry.com CNAME .
 ablink.news.gimmeradio.com CNAME .
 ablink.news.omio.com CNAME .
 ablink.notice.hoopladigital.com CNAME .
@@ -358,6 +359,7 @@ email.mail.floatme.io CNAME .
 email.mail.primexbt.com CNAME .
 email.member.theknot.com CNAME .
 email.mg.everyonesocial.com CNAME .
+email.msg.navyfederal.org CNAME .
 email.msg.workday.com CNAME .
 email.pac-12.com CNAME .
 email.pray.com CNAME .

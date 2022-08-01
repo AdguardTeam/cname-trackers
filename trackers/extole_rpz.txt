@@ -10,6 +10,7 @@ ilove.volusion.com CNAME .
 refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.ancestry.com CNAME .
+refer.aol.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
 refer.discover.com CNAME .

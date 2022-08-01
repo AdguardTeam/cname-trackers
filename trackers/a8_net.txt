@@ -41,7 +41,9 @@
 ||a8.nengahonpo.com^
 ||a8.nosh.jp^
 ||a8.o-tayori.com^
+||a8.obihiro-butaichi.jp^
 ||a8.olightstore.jp^
+||a8.papapa.baby^
 ||a8.pcnext.shop^
 ||a8.pcrjapan.clinicnearme.jp^
 ||a8.print-netsquare.com^
@@ -66,12 +68,14 @@
 ||a8.watero.pet^
 ||a8.web-hikari.net^
 ||a8.webist-cri.com^
+||a8.wifi-tokyo-rentalshop.com^
 ||a8.yanoman.com^
 ||a8.yuzen-official.com^
 ||a8aspconv.itx-home-router.com^
 ||a8aspconv.ns-softbank-hikari.com^
 ||a8aspconv.xn--biglobe-kc9k.com^
 ||a8aspconv.xn--ocn-ws1e.jp^
+||a8click.daini2.co.jp^
 ||a8click.you-up.com^
 ||a8click.young-mobile.net^
 ||a8clk.app.offerbox.jp^

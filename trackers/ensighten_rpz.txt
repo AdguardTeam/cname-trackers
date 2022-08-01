@@ -187,6 +187,7 @@ privacy.heineken.it CNAME .
 privacy.heishop.mx CNAME .
 pulse.delta.com CNAME .
 pulse.sleepnumber.com CNAME .
+pulse.synergy.net.au CNAME .
 secureanalytics.syf.com CNAME .
 secureanalytics.synchronycredit.com CNAME .
 secureanalytics.synchronyretail.com CNAME .
