@@ -18,7 +18,6 @@ c4n.myteentgp.com CNAME .
 c4n.watchpornonline.xyz CNAME .
 c4n.xxx8.me CNAME .
 ca.infomix.best CNAME .
-ca.xxxshame.com CNAME .
 cc.histoires-de-sexe-gratuites.com CNAME .
 cc.opowiadaniaerotyczne-darmowo.com CNAME .
 cc.pornorasskazy-intim.com CNAME .
@@ -45,6 +44,7 @@ delivery.applogy.com CNAME .
 dnsbl.test.ww1.willalland.info CNAME .
 faq.brandnewapp.pro CNAME .
 flare.vtube.to CNAME .
+get.xclick24.com CNAME .
 go.analsextuber.com CNAME .
 go.lize.bid CNAME .
 hruk.afguk.top CNAME .

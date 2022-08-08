@@ -367,6 +367,7 @@
   "engage.3m.com.sa": "p04i.hs.eloqua.com",
   "engage.3m.com.sg": "p04i.hs.eloqua.com",
   "engage.3m.com.sv": "p04i.hs.eloqua.com",
+  "info.lexisnexis.com.my": "p03f.t.eloqua.com",
   "info.lexisnexis.com.sg": "p03f.t.eloqua.com",
   "solliciteren.bpost.be": "p06d.hs.eloqua.com",
   "solutions.dbschenker.com": "p06g.hs.eloqua.com",
@@ -412,11 +413,5 @@
   "tracking.bankofoklahoma.com": "p03b.hs.eloqua.com",
   "tracking.bankoftexas.com": "p03b.hs.eloqua.com",
   "tracking.barcodesinc.com": "p03f.hs.eloqua.com",
-  "tracking.bettingexpert.com": "p06k.hs.eloqua.com",
-  "tracking.bloombergindustry.com": "p03h.hs.eloqua.com",
-  "tracking.bnppre.fr": "p06k.hs.eloqua.com",
-  "tracking.bokfinancial.com": "p03b.hs.eloqua.com",
-  "tracking.bonava.de": "p06d.hs.eloqua.com",
-  "trk.food-management.com": "p01k.hs.eloqua.com",
-  "trk.gamasutra.com": "p01f.hs.eloqua.com"
+  "tracking.bettingexpert.com": "p06k.hs.eloqua.com"
 }

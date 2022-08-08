@@ -242,9 +242,11 @@ web.online.monnalisa.com
 web.pages.lloydspharmacy.com
 web.s.sasrx.com
 web.sensilab.de
+web.sensilab.ie
 web.sensilab.se
 web.sensilab.si
 web.sidsavage.com
+web.slimjoy.dk
 web.slimjoy.ro
 web.slimjoy.se
 web.slimjoy.sk

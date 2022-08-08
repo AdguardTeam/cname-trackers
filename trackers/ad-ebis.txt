@@ -45,6 +45,7 @@
 ||adebis.kirin.co.jp^
 ||adebis.kose.co.jp^
 ||adebis.koutsujiko.jp^
+||adebis.leben-establish.jp^
 ||adebis.leben-style.jp^
 ||adebis.livable.co.jp^
 ||adebis.no.01.alo-organic.com^
@@ -73,6 +74,7 @@
 ||adebiscname.auone.jp^
 ||adebiscname.sumirin-ht.co.jp^
 ||adebisu.wowow.co.jp^
+||adex.naruko333.jp^
 ||admeasure.hh-online.jp^
 ||adnl.bk.mufg.jp^
 ||adpromo.peppynet.com^

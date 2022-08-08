@@ -11,6 +11,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | abttss-ur.exolkkl6i2puvf.ru | lb.rtb.ads.bid |
+| adsbid-ad-click.adsbid.ru | lb.rtb.ads.bid |
 | adsbid-sh-click.adghndou0sdh.ru | lb.rtb.ads.bid |
 | adv.ads2.bid | lb.rtb.ads.bid |
 | arvb.3grg8dqjil.ru | lb.rtb.ads.bid |

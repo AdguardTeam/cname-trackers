@@ -23,6 +23,7 @@
 2rid9fii9chx.www.atlaslane.com CNAME .
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
+3wn3w3skxpym.round.t3.gg CNAME .
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
@@ -34,12 +35,12 @@ av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
 bygr2ri20e4y.li.finance CNAME .
+cihnqp6p65.koinly.io CNAME .
 cqz6fn6aox.aporia.com CNAME .
 din1j0su0u99.artwallstreet.io CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
-euidn48txvlc.www.cybernetman.com CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
 fb7syy5wn9hl.blog.abhijith.page CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
@@ -52,7 +53,6 @@ hkhpnqciykaf.www.gamecamp.gg CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
-j1kmigrhwjf4.angelacampos.es CNAME .
 k5ygj3bivnrp.uae.revent.store CNAME .
 kizpfrvi518a.www.crystalmathlabs.com CNAME .
 kn81kivjwwc7.www.logology.co CNAME .

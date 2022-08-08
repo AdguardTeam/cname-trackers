@@ -6,6 +6,7 @@
 2tty.overstappen.nl CNAME .
 bc.semwerkt.nl CNAME .
 cms.hardloopaanbiedingen.nl CNAME .
+ee.impactextend.dk CNAME .
 en.johnhardy.com CNAME .
 o2.ikontwerpflyers.nl CNAME .
 s1.carnext.com CNAME .

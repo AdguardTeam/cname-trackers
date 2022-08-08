@@ -5,6 +5,7 @@
 ;
 eloqua-tracking.unity.com CNAME .
 eloqua-tracking.unity3d.com CNAME .
+info.lexisnexis.com.my CNAME .
 info.lexisnexis.com.sg CNAME .
 t.goduke.com CNAME .
 ;
@@ -35,7 +36,6 @@ corporateforms.americanexpress.com CNAME .
 demandgen.ptc.com CNAME .
 e.beckmancoulter.com CNAME .
 elq.sonicwall.com CNAME .
-trk.food-management.com CNAME .
 ;
 ; p01h.hs.eloqua.com disguised trackers
 ;
@@ -267,7 +267,6 @@ elqtrk.intel.co.kr CNAME .
 elqtrk.intel.co.uk CNAME .
 elqtrk.intel.com CNAME .
 tracking.about.bgov.com CNAME .
-tracking.bloombergindustry.com CNAME .
 ;
 ; p04e.hs.eloqua.com disguised trackers
 ;
@@ -323,7 +322,6 @@ e1c.curtisswrightds.com CNAME .
 tracking.bankofalbuquerque.com CNAME .
 tracking.bankofoklahoma.com CNAME .
 tracking.bankoftexas.com CNAME .
-tracking.bokfinancial.com CNAME .
 ;
 ; p03a.hs.eloqua.com disguised trackers
 ;
@@ -371,7 +369,6 @@ campaigns.grenke.com CNAME .
 solliciteren.bpost.be CNAME .
 stat.altalex.com CNAME .
 stat.ipsoa.it CNAME .
-tracking.bonava.de CNAME .
 ;
 ; p01c.hs.eloqua.com disguised trackers
 ;
@@ -519,7 +516,6 @@ eloqua-trackings.unity.com CNAME .
 eloqua-trackings.unity3d.com CNAME .
 eloquatracking.internationalsos.com CNAME .
 tracking.bettingexpert.com CNAME .
-tracking.bnppre.fr CNAME .
 ;
 ; p01a.hs.eloqua.com disguised trackers
 ;
@@ -534,7 +530,6 @@ connection.arrow.com CNAME .
 connection.verical.com CNAME .
 content.verint.com CNAME .
 discover.parker.com CNAME .
-trk.gamasutra.com CNAME .
 ;
 ; p04f.hs.eloqua.com disguised trackers
 ;

@@ -324,6 +324,7 @@ dl.orders.express-scripts.com CNAME .
 dl.zola.com CNAME .
 e.e.themighty.com CNAME .
 e.passfolio.us CNAME .
+e.shop.app CNAME .
 e.synchronybank.com CNAME .
 em.getsimpleprints.com CNAME .
 em.touchtunes.com CNAME .
@@ -336,6 +337,7 @@ email-test.wirexapp.com CNAME .
 email.app.theiconic.com.au CNAME .
 email.boxed.com CNAME .
 email.chope.co CNAME .
+email.clearscore.ca CNAME .
 email.clearscore.co.za CNAME .
 email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
@@ -383,6 +385,7 @@ emails.tlc.com CNAME .
 emails.travelchannel.com CNAME .
 emails.verishop.com CNAME .
 emails.watchown.tv CNAME .
+emlink.hermo.my CNAME .
 fleet-eml.postmates.com CNAME .
 go.email.jbhunt.com CNAME .
 go.emails.discoveryplus.com CNAME .
@@ -519,11 +522,6 @@ links.email.tajawal.com CNAME .
 links.email.twine.com CNAME .
 links.email.usanetwork.com CNAME .
 links.evault.history.com CNAME .
-links.fabletics.co.uk CNAME .
-links.fabletics.com CNAME .
-links.fabletics.de CNAME .
-links.fabletics.es CNAME .
-links.fabletics.fr CNAME .
 links.fitbod.me CNAME .
 links.glamsquad.com CNAME .
 links.hitrecord.org CNAME .
@@ -533,11 +531,6 @@ links.info.getgocafe.com CNAME .
 links.info.gianteagle.com CNAME .
 links.info.headspace.com CNAME .
 links.info.kfc.com CNAME .
-links.justfab.co.uk CNAME .
-links.justfab.com CNAME .
-links.justfab.de CNAME .
-links.justfab.es CNAME .
-links.justfab.fr CNAME .
 links.keno.ae CNAME .
 links.m.blueapron.com CNAME .
 links.mail.stubhub.com CNAME .
@@ -591,6 +584,7 @@ sg3.notarize.com CNAME .
 shoppers-test.instacartemail.com CNAME .
 shoppers.instacartemail.com CNAME .
 smbranch.nc.mails.sssports.com CNAME .
+staging.e.shop.app CNAME .
 t.ac.pandora.com CNAME .
 t.beautybay.com CNAME .
 t.comms.thetimes.co.uk CNAME .
@@ -650,3 +644,19 @@ url7962.careerkarma.io CNAME .
 url8196.mindrise.app CNAME .
 url9609.account.experience-muse.com CNAME .
 wl.spotify.com CNAME .
+;
+; suite46-cf.emarsys.net.cdn.cloudflare.net disguised trackers
+;
+links.fabletics.co.uk CNAME .
+links.fabletics.de CNAME .
+links.fabletics.es CNAME .
+links.fabletics.fr CNAME .
+links.justfab.co.uk CNAME .
+links.justfab.de CNAME .
+links.justfab.es CNAME .
+links.justfab.fr CNAME .
+;
+; suite50-cf.emarsys.net.cdn.cloudflare.net disguised trackers
+;
+links.fabletics.com CNAME .
+links.justfab.com CNAME .

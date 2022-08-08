@@ -4,6 +4,7 @@
 ; tagcommander.com disguised trackers
 ;
 acquisition.klm.com CNAME .
+data.decathlon.co.uk CNAME .
 data.decathlon.de CNAME .
 data.decathlon.es CNAME .
 data.decathlon.fr CNAME .

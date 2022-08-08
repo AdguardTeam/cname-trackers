@@ -6,6 +6,7 @@
 activate.aami.com.au CNAME .
 activate.academy.com CNAME .
 activate.anntaylor.com CNAME .
+activate.baltimoresun.com CNAME .
 activate.bingle.com.au CNAME .
 activate.columbiaflier.com CNAME .
 activate.courant.com CNAME .
@@ -45,6 +46,7 @@ agility.tntdrama.com CNAME .
 agility.trutv.com CNAME .
 amex.activate.ensighten.com CNAME .
 analytics.amica.com CNAME .
+analytics.belk.com CNAME .
 analytics.carecredit.com CNAME .
 analytics.carecreditlearning.com CNAME .
 analytics.carecreditprovidercenter.com CNAME .
@@ -186,6 +188,7 @@ privacy.blade.app CNAME .
 privacy.heineken.it CNAME .
 privacy.heishop.mx CNAME .
 pulse.delta.com CNAME .
+pulse.mcdonalds.com CNAME .
 pulse.sleepnumber.com CNAME .
 pulse.synergy.net.au CNAME .
 secureanalytics.syf.com CNAME .

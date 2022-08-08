@@ -6,11 +6,12 @@
 0.oldgyhogola.com CNAME .
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
+123.manga1001.top CNAME .
 2022.hizetnet.xyz CNAME .
 2bx0h7o3zw.nelasleaks.com CNAME .
-4.syndadu.xyz CNAME .
 4rdjebtm2i.nelasleaks.com CNAME .
 58745.clicknplay.to CNAME .
+69741211.clicknplay.to CNAME .
 71213zhazha.com CNAME .
 893242.milfunsource.com CNAME .
 8lang.lol CNAME .
@@ -53,6 +54,7 @@ a.letsjerk.org CNAME .
 a.letsjerk.to CNAME .
 a.letsjerk.tv CNAME .
 a.manga18.site CNAME .
+a.marketing.com.sd CNAME .
 a.neverbe.xyz CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornhex.com CNAME .
@@ -104,6 +106,7 @@ as2.movporvid.com CNAME .
 as2.o777i.com CNAME .
 ascc.javquick.com CNAME .
 asdf.eldos.xyz CNAME .
+asg.adumanag.xyz CNAME .
 asg.allweb.click CNAME .
 asg.animehdl.net CNAME .
 asg.aphex.me CNAME .
@@ -151,6 +154,7 @@ blablahub.com CNAME .
 blog.andropps.com CNAME .
 bob.bezucai.com CNAME .
 bzcdn.fin.ovh CNAME .
+bzotoin.pics CNAME .
 c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
 c5m.codegurutech.com CNAME .
@@ -167,6 +171,7 @@ chrome-loading.car-insurance-reviews.com CNAME .
 client2009x25.xcdn.ovh CNAME .
 cobuaz.lol CNAME .
 coco.rockdilla.com CNAME .
+coinzba.mom CNAME .
 comp.aniplay.it CNAME .
 cool.ah-me.com CNAME .
 dam.tucsun.mom CNAME .
@@ -209,6 +214,7 @@ go.showmeyouradsnow.com CNAME .
 go.ss-n-30.com CNAME .
 goog.emailon.top CNAME .
 hazicu.hothomefuck.com CNAME .
+hoabon4.lol CNAME .
 honda.lol CNAME .
 hq3x.com CNAME .
 hsux.com CNAME .
@@ -251,6 +257,7 @@ mydomainbest.com CNAME .
 nav.srcdn.xyz CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
+nodawzua.mom CNAME .
 notads.111javguru.xyz CNAME .
 notads.111supjav.xyz CNAME .
 notads.111supjavcom.xyz CNAME .
@@ -259,6 +266,7 @@ notads.11supjav.xyz CNAME .
 notads.11supjavcom.xyz CNAME .
 notads.1gi3rir.xyz CNAME .
 o313o.com CNAME .
+obyeok.hair CNAME .
 oi.429men.com CNAME .
 oi.fapnado.com CNAME .
 oi.fapnado.xxx CNAME .
@@ -296,6 +304,7 @@ s.freeporncave.com CNAME .
 s.remonti.org CNAME .
 s.speedostream.com CNAME .
 s2.everydaygayporn.com CNAME .
+santafe.lol CNAME .
 sape.veriplan.xyz CNAME .
 satmon.neekstore.com CNAME .
 scdn.safelinkonly.top CNAME .
@@ -304,7 +313,6 @@ sda.seksohub.com CNAME .
 sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
 search.cdn1.pro CNAME .
-serve.uploadbank.com CNAME .
 sg.xclick24.com CNAME .
 shemale.house CNAME .
 sin.chjnmi.xyz CNAME .
@@ -333,6 +341,7 @@ thescript.javfinder.xyz CNAME .
 thetranny.online CNAME .
 tik.boldtur.xyz CNAME .
 tip.vipz.lol CNAME .
+tlgt10.makeup CNAME .
 tlv.ui02.com CNAME .
 tom.beclin.xyz CNAME .
 tomboy.lol CNAME .
@@ -367,6 +376,7 @@ www.ucdn.website CNAME .
 www.upcdn.site CNAME .
 www.vkcdnservice.com CNAME .
 www.vspro.cc CNAME .
+www.youtubem.shop CNAME .
 www4.hentaigamecg.com CNAME .
 www6.freeanimesource.com CNAME .
 www6.hentai-zone.com CNAME .

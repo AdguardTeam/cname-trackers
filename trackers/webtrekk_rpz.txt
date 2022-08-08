@@ -242,9 +242,11 @@ web.online.monnalisa.com CNAME .
 web.pages.lloydspharmacy.com CNAME .
 web.s.sasrx.com CNAME .
 web.sensilab.de CNAME .
+web.sensilab.ie CNAME .
 web.sensilab.se CNAME .
 web.sensilab.si CNAME .
 web.sidsavage.com CNAME .
+web.slimjoy.dk CNAME .
 web.slimjoy.ro CNAME .
 web.slimjoy.se CNAME .
 web.slimjoy.sk CNAME .

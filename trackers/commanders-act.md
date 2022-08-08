@@ -7,6 +7,7 @@
     * redirect28.tagcommander.com
     * redirect33.tagcommander.com
     * redirect341.tagcommander.com
+    * redirect342.tagcommander.com
     * redirect362.tagcommander.com
     * redirect395.tagcommander.com
     * redirect398.tagcommander.com
@@ -38,6 +39,7 @@
 | tcdata.fnac.com | redirect28.tagcommander.com |
 | tag.boulanger.fr | redirect33.tagcommander.com |
 | data.decathlon.es | redirect341.tagcommander.com |
+| data.decathlon.co.uk | redirect342.tagcommander.com |
 | data.ouigo.com | redirect362.tagcommander.com |
 | acquisition.klm.com | redirect395.tagcommander.com |
 | data.decathlon.pl | redirect398.tagcommander.com |

@@ -118,6 +118,7 @@ tr.courrier.charentelibre.fr
 tr.courrier.larepubliquedespyrenees.fr
 tr.courrier.sudouest.fr
 tr.credito.universo.pt
+tr.crtl.espmp-aufr.net
 tr.devis-companeo.be
 tr.devis-companeo.com
 tr.devis-companeo.fr
@@ -136,6 +137,7 @@ tr.em.cdiscount-pro.com
 tr.em.cdiscountpro.com
 tr.email.aeroexpo.online
 tr.email.archiexpo.com
+tr.email.contact-jaguar.fr
 tr.email.contact-landrover.fr
 tr.email.custom-campaign.com
 tr.email.directindustry.com
@@ -321,7 +323,9 @@ tr.news.casino.fr
 tr.news.casinodrive.fr
 tr.news.casinomax.fr
 tr.news.cdiscount.com
+tr.news.chapsvision.com
 tr.news.companeo.es
+tr.news.corsicalinea.com
 tr.news.cotemaison.fr
 tr.news.deneuville-chocolat.fr
 tr.news.deshotelsetdesiles.com
@@ -340,6 +344,7 @@ tr.news.enkiapp.io
 tr.news.entreprise-pm.com
 tr.news.eureden.com
 tr.news.exclu.fr
+tr.news.flandrintechnologies.com
 tr.news.futuramedia.fr
 tr.news.geantcasino.fr
 tr.news.geomag.fr
@@ -354,6 +359,7 @@ tr.news.kpmgnet.fr
 tr.news.kuhn.com
 tr.news.la-collectionairfrance.fr
 tr.news.la-meilleure-voyance.com
+tr.news.labelleadresse.com
 tr.news.lacollection-airfrance.be
 tr.news.lacollection-airfrance.fr
 tr.news.lacollectionairfrance.fr
@@ -368,6 +374,7 @@ tr.news.mdbp.fr
 tr.news.meillandrichardier.com
 tr.news.mi-oferta.es
 tr.news.normandie.cci.fr
+tr.news.onetoonemba.com
 tr.news.ouestnormandie.cci.fr
 tr.news.parisinfo.com
 tr.news.perfectstay.com
@@ -420,6 +427,7 @@ tr.nl.mondo-shop.fr
 tr.nl.services-sncf.com
 tr.nl2.sncf-fidelite.com
 tr.notification-gdpr.bnpparibas-personalfinance.fr
+tr.notification-gdpr.bnpparibas-pf.fr
 tr.notification-gdpr.cafineo.fr
 tr.notification-gdpr.cofinoga.fr
 tr.notification-gdpr.domofinance.fr
@@ -511,6 +519,7 @@ tr.trafficnews.lyria.com
 tr.uk.icicibank.com
 tr.urfk02v.espmp-cufr.net
 tr.urfk03u.espmp-nifr.net
+tr.urfk057.espmp-aufr.net
 tr.urfk06h.espmp-nifr.net
 tr.urfk06y.espmp-nifr.net
 tr.urfk07s.espmp-nifr.net
@@ -524,10 +533,12 @@ tr.welcome.easyviajar.com
 tr.welcome.easyvoyage.co.uk
 tr.welcome.easyvoyage.com
 tr.welcome.easyvoyage.de
+tr.welcome.lacollection-airfrance.co.uk
 tr.welcome.lacollection-airfrance.fr
 tr.welcome.lexpress.fr
 tr.welcome.moncoupdepouce.com
 tr.welcome.odalys-vacances.com
+tr.welcome.smartdeals-transavia-fr.com
 tr.welcome.thelist-emirates.fr
 tr.welcome.vipmag.fr
 tr.wuei.espmp-agfr.net

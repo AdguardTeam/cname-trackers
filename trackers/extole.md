@@ -17,6 +17,7 @@
     * harimari.extole.com
     * healthypaws.extole.com
     * hostgator.extole.com
+    * indochino.extole.com
     * iop.extole.com
     * julep.extole.com
     * keurig-ssl.extole.com
@@ -69,6 +70,7 @@
 | refer.harimari.com | harimari.extole.com |
 | refer.healthypawspetinsurance.com | healthypaws.extole.com |
 | referral.hostgator.com | hostgator.extole.com |
+| share.indochino.com | indochino.extole.com |
 | refer.payroll.intuit.com | iop.extole.com |
 | refer.julep.com | julep.extole.com |
 | friends.keurig.com | keurig-ssl.extole.com |

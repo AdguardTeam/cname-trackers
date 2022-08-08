@@ -24,9 +24,11 @@ a8.everest.ac CNAME .
 a8.exetime.jp CNAME .
 a8.fit-theme.com CNAME .
 a8.form.run CNAME .
+a8.fots.jp CNAME .
 a8.geo-online.co.jp CNAME .
 a8.hakata-hisamatsu.net CNAME .
 a8.haptic.co.jp CNAME .
+a8.hemptouch.co.jp CNAME .
 a8.hikari-n.jp CNAME .
 a8.hitohana.tokyo CNAME .
 a8.i-netservice.net CNAME .
@@ -92,6 +94,7 @@ a8clk.chapup.jp CNAME .
 a8clk.chat-wifi.site CNAME .
 a8clk.chuko-truck.com CNAME .
 a8clk.crowdworks.jp CNAME .
+a8clk.cv.geechs-job.com CNAME .
 a8clk.cv.mensfashion.cc CNAME .
 a8clk.cv.onedenki.jp CNAME .
 a8clk.cv.warau.jp CNAME .
@@ -101,7 +104,6 @@ a8clk.dospara.co.jp CNAME .
 a8clk.fastsim.jp CNAME .
 a8clk.francfranc.com CNAME .
 a8clk.fuku-chan.jp CNAME .
-a8clk.goen.world CNAME .
 a8clk.grirose.jp CNAME .
 a8clk.hurugicom.jp CNAME .
 a8clk.justy-consul.com CNAME .
@@ -120,6 +122,7 @@ a8clk.manabiz.jp CNAME .
 a8clk.manage.conoha.jp CNAME .
 a8clk.miidas.jp CNAME .
 a8clk.minnadeooyasan.com CNAME .
+a8clk.miselclinic.com CNAME .
 a8clk.mobile-norikae.com CNAME .
 a8clk.muumuu-domain.com CNAME .
 a8clk.nenga-kazoku.com CNAME .
@@ -225,6 +228,7 @@ a8cv.shokubun.ec-design.co.jp CNAME .
 a8cv.shop.matsuo1956.jp CNAME .
 a8cv.signalift.com CNAME .
 a8cv.smart-shikaku.com CNAME .
+a8cv.smoola.jp CNAME .
 a8cv.snkrdunk.com CNAME .
 a8cv.soundfun.co.jp CNAME .
 a8cv.soyafarm.com CNAME .

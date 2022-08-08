@@ -6,6 +6,7 @@
 ||2tty.overstappen.nl^
 ||bc.semwerkt.nl^
 ||cms.hardloopaanbiedingen.nl^
+||ee.impactextend.dk^
 ||en.johnhardy.com^
 ||o2.ikontwerpflyers.nl^
 ||s1.carnext.com^

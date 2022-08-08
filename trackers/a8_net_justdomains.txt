@@ -24,9 +24,11 @@ a8.everest.ac
 a8.exetime.jp
 a8.fit-theme.com
 a8.form.run
+a8.fots.jp
 a8.geo-online.co.jp
 a8.hakata-hisamatsu.net
 a8.haptic.co.jp
+a8.hemptouch.co.jp
 a8.hikari-n.jp
 a8.hitohana.tokyo
 a8.i-netservice.net
@@ -92,6 +94,7 @@ a8clk.chapup.jp
 a8clk.chat-wifi.site
 a8clk.chuko-truck.com
 a8clk.crowdworks.jp
+a8clk.cv.geechs-job.com
 a8clk.cv.mensfashion.cc
 a8clk.cv.onedenki.jp
 a8clk.cv.warau.jp
@@ -101,7 +104,6 @@ a8clk.dospara.co.jp
 a8clk.fastsim.jp
 a8clk.francfranc.com
 a8clk.fuku-chan.jp
-a8clk.goen.world
 a8clk.grirose.jp
 a8clk.hurugicom.jp
 a8clk.justy-consul.com
@@ -120,6 +122,7 @@ a8clk.manabiz.jp
 a8clk.manage.conoha.jp
 a8clk.miidas.jp
 a8clk.minnadeooyasan.com
+a8clk.miselclinic.com
 a8clk.mobile-norikae.com
 a8clk.muumuu-domain.com
 a8clk.nenga-kazoku.com
@@ -225,6 +228,7 @@ a8cv.shokubun.ec-design.co.jp
 a8cv.shop.matsuo1956.jp
 a8cv.signalift.com
 a8cv.smart-shikaku.com
+a8cv.smoola.jp
 a8cv.snkrdunk.com
 a8cv.soundfun.co.jp
 a8cv.soyafarm.com

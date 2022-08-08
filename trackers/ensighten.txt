@@ -6,6 +6,7 @@
 ||activate.aami.com.au^
 ||activate.academy.com^
 ||activate.anntaylor.com^
+||activate.baltimoresun.com^
 ||activate.bingle.com.au^
 ||activate.columbiaflier.com^
 ||activate.courant.com^
@@ -45,6 +46,7 @@
 ||agility.trutv.com^
 ||amex.activate.ensighten.com^
 ||analytics.amica.com^
+||analytics.belk.com^
 ||analytics.carecredit.com^
 ||analytics.carecreditlearning.com^
 ||analytics.carecreditprovidercenter.com^
@@ -186,6 +188,7 @@
 ||privacy.heineken.it^
 ||privacy.heishop.mx^
 ||pulse.delta.com^
+||pulse.mcdonalds.com^
 ||pulse.sleepnumber.com^
 ||pulse.synergy.net.au^
 ||secureanalytics.syf.com^

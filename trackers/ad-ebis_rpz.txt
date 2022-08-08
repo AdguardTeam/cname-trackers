@@ -45,6 +45,7 @@ adebis.kaonavi.jp CNAME .
 adebis.kirin.co.jp CNAME .
 adebis.kose.co.jp CNAME .
 adebis.koutsujiko.jp CNAME .
+adebis.leben-establish.jp CNAME .
 adebis.leben-style.jp CNAME .
 adebis.livable.co.jp CNAME .
 adebis.no.01.alo-organic.com CNAME .
@@ -73,6 +74,7 @@ adebiscname.au-sonpo.co.jp CNAME .
 adebiscname.auone.jp CNAME .
 adebiscname.sumirin-ht.co.jp CNAME .
 adebisu.wowow.co.jp CNAME .
+adex.naruko333.jp CNAME .
 admeasure.hh-online.jp CNAME .
 adnl.bk.mufg.jp CNAME .
 adpromo.peppynet.com CNAME .

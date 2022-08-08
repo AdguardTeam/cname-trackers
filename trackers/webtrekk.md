@@ -189,6 +189,7 @@
 | mapp.ewm.co.uk | 145003564476173.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | web.sensilab.de | 151836596491843.wt-eu02.net |
+| web.sensilab.ie | 151836596491843.wt-eu02.net |
 | web.sensilab.se | 151836596491843.wt-eu02.net |
 | web.sensilab.si | 151836596491843.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
@@ -254,6 +255,7 @@
 | web.news.pleasefashion.com | 637511691483562.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
+| web.slimjoy.dk | 657801072187647.wt-eu02.net |
 | web.slimjoy.ro | 657801072187647.wt-eu02.net |
 | web.slimjoy.se | 657801072187647.wt-eu02.net |
 | web.slimjoy.sk | 657801072187647.wt-eu02.net |

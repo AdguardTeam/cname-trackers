@@ -118,6 +118,7 @@ tr.courrier.charentelibre.fr CNAME .
 tr.courrier.larepubliquedespyrenees.fr CNAME .
 tr.courrier.sudouest.fr CNAME .
 tr.credito.universo.pt CNAME .
+tr.crtl.espmp-aufr.net CNAME .
 tr.devis-companeo.be CNAME .
 tr.devis-companeo.com CNAME .
 tr.devis-companeo.fr CNAME .
@@ -136,6 +137,7 @@ tr.em.cdiscount-pro.com CNAME .
 tr.em.cdiscountpro.com CNAME .
 tr.email.aeroexpo.online CNAME .
 tr.email.archiexpo.com CNAME .
+tr.email.contact-jaguar.fr CNAME .
 tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
 tr.email.directindustry.com CNAME .
@@ -321,7 +323,9 @@ tr.news.casino.fr CNAME .
 tr.news.casinodrive.fr CNAME .
 tr.news.casinomax.fr CNAME .
 tr.news.cdiscount.com CNAME .
+tr.news.chapsvision.com CNAME .
 tr.news.companeo.es CNAME .
+tr.news.corsicalinea.com CNAME .
 tr.news.cotemaison.fr CNAME .
 tr.news.deneuville-chocolat.fr CNAME .
 tr.news.deshotelsetdesiles.com CNAME .
@@ -340,6 +344,7 @@ tr.news.enkiapp.io CNAME .
 tr.news.entreprise-pm.com CNAME .
 tr.news.eureden.com CNAME .
 tr.news.exclu.fr CNAME .
+tr.news.flandrintechnologies.com CNAME .
 tr.news.futuramedia.fr CNAME .
 tr.news.geantcasino.fr CNAME .
 tr.news.geomag.fr CNAME .
@@ -354,6 +359,7 @@ tr.news.kpmgnet.fr CNAME .
 tr.news.kuhn.com CNAME .
 tr.news.la-collectionairfrance.fr CNAME .
 tr.news.la-meilleure-voyance.com CNAME .
+tr.news.labelleadresse.com CNAME .
 tr.news.lacollection-airfrance.be CNAME .
 tr.news.lacollection-airfrance.fr CNAME .
 tr.news.lacollectionairfrance.fr CNAME .
@@ -368,6 +374,7 @@ tr.news.mdbp.fr CNAME .
 tr.news.meillandrichardier.com CNAME .
 tr.news.mi-oferta.es CNAME .
 tr.news.normandie.cci.fr CNAME .
+tr.news.onetoonemba.com CNAME .
 tr.news.ouestnormandie.cci.fr CNAME .
 tr.news.parisinfo.com CNAME .
 tr.news.perfectstay.com CNAME .
@@ -420,6 +427,7 @@ tr.nl.mondo-shop.fr CNAME .
 tr.nl.services-sncf.com CNAME .
 tr.nl2.sncf-fidelite.com CNAME .
 tr.notification-gdpr.bnpparibas-personalfinance.fr CNAME .
+tr.notification-gdpr.bnpparibas-pf.fr CNAME .
 tr.notification-gdpr.cafineo.fr CNAME .
 tr.notification-gdpr.cofinoga.fr CNAME .
 tr.notification-gdpr.domofinance.fr CNAME .
@@ -511,6 +519,7 @@ tr.trafficnews.lyria.com CNAME .
 tr.uk.icicibank.com CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .
+tr.urfk057.espmp-aufr.net CNAME .
 tr.urfk06h.espmp-nifr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
 tr.urfk07s.espmp-nifr.net CNAME .
@@ -524,10 +533,12 @@ tr.welcome.easyviajar.com CNAME .
 tr.welcome.easyvoyage.co.uk CNAME .
 tr.welcome.easyvoyage.com CNAME .
 tr.welcome.easyvoyage.de CNAME .
+tr.welcome.lacollection-airfrance.co.uk CNAME .
 tr.welcome.lacollection-airfrance.fr CNAME .
 tr.welcome.lexpress.fr CNAME .
 tr.welcome.moncoupdepouce.com CNAME .
 tr.welcome.odalys-vacances.com CNAME .
+tr.welcome.smartdeals-transavia-fr.com CNAME .
 tr.welcome.thelist-emirates.fr CNAME .
 tr.welcome.vipmag.fr CNAME .
 tr.wuei.espmp-agfr.net CNAME .

@@ -5,6 +5,7 @@
 !
 ||eloqua-tracking.unity.com^
 ||eloqua-tracking.unity3d.com^
+||info.lexisnexis.com.my^
 ||info.lexisnexis.com.sg^
 ||t.goduke.com^
 !
@@ -35,7 +36,6 @@
 ||demandgen.ptc.com^
 ||e.beckmancoulter.com^
 ||elq.sonicwall.com^
-||trk.food-management.com^
 !
 ! p01h.hs.eloqua.com disguised trackers
 !
@@ -267,7 +267,6 @@
 ||elqtrk.intel.co.uk^
 ||elqtrk.intel.com^
 ||tracking.about.bgov.com^
-||tracking.bloombergindustry.com^
 !
 ! p04e.hs.eloqua.com disguised trackers
 !
@@ -323,7 +322,6 @@
 ||tracking.bankofalbuquerque.com^
 ||tracking.bankofoklahoma.com^
 ||tracking.bankoftexas.com^
-||tracking.bokfinancial.com^
 !
 ! p03a.hs.eloqua.com disguised trackers
 !
@@ -371,7 +369,6 @@
 ||solliciteren.bpost.be^
 ||stat.altalex.com^
 ||stat.ipsoa.it^
-||tracking.bonava.de^
 !
 ! p01c.hs.eloqua.com disguised trackers
 !
@@ -519,7 +516,6 @@
 ||eloqua-trackings.unity3d.com^
 ||eloquatracking.internationalsos.com^
 ||tracking.bettingexpert.com^
-||tracking.bnppre.fr^
 !
 ! p01a.hs.eloqua.com disguised trackers
 !
@@ -534,7 +530,6 @@
 ||connection.verical.com^
 ||content.verint.com^
 ||discover.parker.com^
-||trk.gamasutra.com^
 !
 ! p04f.hs.eloqua.com disguised trackers
 !

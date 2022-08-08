@@ -12,6 +12,7 @@ tk.airfrance.be CNAME .
 tk.airfrance.bj CNAME .
 tk.airfrance.ca CNAME .
 tk.airfrance.ch CNAME .
+tk.airfrance.co.jp CNAME .
 tk.airfrance.co.kr CNAME .
 tk.airfrance.co.uk CNAME .
 tk.airfrance.com CNAME .

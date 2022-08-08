@@ -324,6 +324,7 @@ dl.orders.express-scripts.com
 dl.zola.com
 e.e.themighty.com
 e.passfolio.us
+e.shop.app
 e.synchronybank.com
 em.getsimpleprints.com
 em.touchtunes.com
@@ -336,6 +337,7 @@ email-test.wirexapp.com
 email.app.theiconic.com.au
 email.boxed.com
 email.chope.co
+email.clearscore.ca
 email.clearscore.co.za
 email.clearscore.com
 email.clearscore.com.au
@@ -383,6 +385,7 @@ emails.tlc.com
 emails.travelchannel.com
 emails.verishop.com
 emails.watchown.tv
+emlink.hermo.my
 fleet-eml.postmates.com
 go.email.jbhunt.com
 go.emails.discoveryplus.com
@@ -519,11 +522,6 @@ links.email.tajawal.com
 links.email.twine.com
 links.email.usanetwork.com
 links.evault.history.com
-links.fabletics.co.uk
-links.fabletics.com
-links.fabletics.de
-links.fabletics.es
-links.fabletics.fr
 links.fitbod.me
 links.glamsquad.com
 links.hitrecord.org
@@ -533,11 +531,6 @@ links.info.getgocafe.com
 links.info.gianteagle.com
 links.info.headspace.com
 links.info.kfc.com
-links.justfab.co.uk
-links.justfab.com
-links.justfab.de
-links.justfab.es
-links.justfab.fr
 links.keno.ae
 links.m.blueapron.com
 links.mail.stubhub.com
@@ -591,6 +584,7 @@ sg3.notarize.com
 shoppers-test.instacartemail.com
 shoppers.instacartemail.com
 smbranch.nc.mails.sssports.com
+staging.e.shop.app
 t.ac.pandora.com
 t.beautybay.com
 t.comms.thetimes.co.uk
@@ -650,3 +644,19 @@ url7962.careerkarma.io
 url8196.mindrise.app
 url9609.account.experience-muse.com
 wl.spotify.com
+#
+# suite46-cf.emarsys.net.cdn.cloudflare.net disguised trackers
+#
+links.fabletics.co.uk
+links.fabletics.de
+links.fabletics.es
+links.fabletics.fr
+links.justfab.co.uk
+links.justfab.de
+links.justfab.es
+links.justfab.fr
+#
+# suite50-cf.emarsys.net.cdn.cloudflare.net disguised trackers
+#
+links.fabletics.com
+links.justfab.com

@@ -144,6 +144,7 @@
     * a1f251c6-iksdytmu.cname.ebis.ne.jp
     * a210b17a-hwsehbyq.cname.ebis.ne.jp
     * a24bb2f5-q4vseaye.cname.ebis.ne.jp
+    * a39324ce-fgpe2gow.cname.ebis.ne.jp
     * a4ba7b93-e2mmxp45.cname.ebis.ne.jp
     * a5ede5f5-sn9wfkl3.cname.ebis.ne.jp
     * a6688744-0p7lzdhu.cname.ebis.ne.jp
@@ -188,6 +189,7 @@
     * caf7dafd-s02edfsx.cname.ebis.ne.jp
     * cb8eb280-2eexez7z.cname.ebis.ne.jp
     * ce122a7c-hgyagqzw.cname.ebis.ne.jp
+    * ce460459-ysplpzur.cname.ebis.ne.jp
     * ceac5848-la9aykxs.cname.ebis.ne.jp
     * ceac5848-wpvbdb7j.cname.ebis.ne.jp
     * ced1998e-sj9u6ch7.cname.ebis.ne.jp
@@ -366,6 +368,7 @@
 | test-ad.lucia-c.com | a1f251c6-iksdytmu.cname.ebis.ne.jp |
 | ad.kddi-fs.com | a210b17a-hwsehbyq.cname.ebis.ne.jp |
 | ebis.radishbo-ya.co.jp | a24bb2f5-q4vseaye.cname.ebis.ne.jp |
+| adex.naruko333.jp | a39324ce-fgpe2gow.cname.ebis.ne.jp |
 | cnameebis.usagi-online.com | a4ba7b93-e2mmxp45.cname.ebis.ne.jp |
 | adebis01.job-con.jp | a5ede5f5-sn9wfkl3.cname.ebis.ne.jp |
 | adebis8628.matsui.co.jp | a6688744-0p7lzdhu.cname.ebis.ne.jp |
@@ -410,6 +413,7 @@
 | ebis.tokado.jp | caf7dafd-s02edfsx.cname.ebis.ne.jp |
 | bbbb.goace.jp | cb8eb280-2eexez7z.cname.ebis.ne.jp |
 | ebis.kubara.jp | ce122a7c-hgyagqzw.cname.ebis.ne.jp |
+| adebis.leben-establish.jp | ce460459-ysplpzur.cname.ebis.ne.jp |
 | adnl.bk.mufg.jp | ceac5848-la9aykxs.cname.ebis.ne.jp |
 | adbq.bk.mufg.jp | ceac5848-wpvbdb7j.cname.ebis.ne.jp |
 | ad.tempstaff.co.jp | ced1998e-sj9u6ch7.cname.ebis.ne.jp |

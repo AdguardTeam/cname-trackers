@@ -33,4 +33,5 @@ cdn.rgrd.xyz CNAME .
 cdn.spnut.com CNAME .
 cdn.srxy.xyz CNAME .
 cdn.wwfx.xyz CNAME .
+cdn.yopard.com CNAME .
 cdn.zxclan.com CNAME .

@@ -41,6 +41,7 @@ refer.volcom.com CNAME .
 refer.vonage.com CNAME .
 refer.xoom.com CNAME .
 referral.hostgator.com CNAME .
+share.indochino.com CNAME .
 share.na.sage.com CNAME .
 share.qalo.com CNAME .
 share.vimeo.com CNAME .

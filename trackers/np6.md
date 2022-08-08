@@ -123,6 +123,7 @@
 | tr.courrier.larepubliquedespyrenees.fr | tracking.bp01.net |
 | tr.courrier.sudouest.fr | tracking.bp01.net |
 | tr.credito.universo.pt | tracking.bp01.net |
+| tr.crtl.espmp-aufr.net | tracking.bp01.net |
 | tr.devis-companeo.be | tracking.bp01.net |
 | tr.devis-companeo.com | tracking.bp01.net |
 | tr.devis-companeo.fr | tracking.bp01.net |
@@ -141,6 +142,7 @@
 | tr.em.cdiscountpro.com | tracking.bp01.net |
 | tr.email.aeroexpo.online | tracking.bp01.net |
 | tr.email.archiexpo.com | tracking.bp01.net |
+| tr.email.contact-jaguar.fr | tracking.bp01.net |
 | tr.email.contact-landrover.fr | tracking.bp01.net |
 | tr.email.custom-campaign.com | tracking.bp01.net |
 | tr.email.directindustry.com | tracking.bp01.net |
@@ -326,7 +328,9 @@
 | tr.news.casinodrive.fr | tracking.bp01.net |
 | tr.news.casinomax.fr | tracking.bp01.net |
 | tr.news.cdiscount.com | tracking.bp01.net |
+| tr.news.chapsvision.com | tracking.bp01.net |
 | tr.news.companeo.es | tracking.bp01.net |
+| tr.news.corsicalinea.com | tracking.bp01.net |
 | tr.news.cotemaison.fr | tracking.bp01.net |
 | tr.news.deneuville-chocolat.fr | tracking.bp01.net |
 | tr.news.deshotelsetdesiles.com | tracking.bp01.net |
@@ -345,6 +349,7 @@
 | tr.news.entreprise-pm.com | tracking.bp01.net |
 | tr.news.eureden.com | tracking.bp01.net |
 | tr.news.exclu.fr | tracking.bp01.net |
+| tr.news.flandrintechnologies.com | tracking.bp01.net |
 | tr.news.futuramedia.fr | tracking.bp01.net |
 | tr.news.geantcasino.fr | tracking.bp01.net |
 | tr.news.geomag.fr | tracking.bp01.net |
@@ -359,6 +364,7 @@
 | tr.news.kuhn.com | tracking.bp01.net |
 | tr.news.la-collectionairfrance.fr | tracking.bp01.net |
 | tr.news.la-meilleure-voyance.com | tracking.bp01.net |
+| tr.news.labelleadresse.com | tracking.bp01.net |
 | tr.news.lacollection-airfrance.be | tracking.bp01.net |
 | tr.news.lacollection-airfrance.fr | tracking.bp01.net |
 | tr.news.lacollectionairfrance.fr | tracking.bp01.net |
@@ -373,6 +379,7 @@
 | tr.news.meillandrichardier.com | tracking.bp01.net |
 | tr.news.mi-oferta.es | tracking.bp01.net |
 | tr.news.normandie.cci.fr | tracking.bp01.net |
+| tr.news.onetoonemba.com | tracking.bp01.net |
 | tr.news.ouestnormandie.cci.fr | tracking.bp01.net |
 | tr.news.parisinfo.com | tracking.bp01.net |
 | tr.news.perfectstay.com | tracking.bp01.net |
@@ -425,6 +432,7 @@
 | tr.nl.services-sncf.com | tracking.bp01.net |
 | tr.nl2.sncf-fidelite.com | tracking.bp01.net |
 | tr.notification-gdpr.bnpparibas-personalfinance.fr | tracking.bp01.net |
+| tr.notification-gdpr.bnpparibas-pf.fr | tracking.bp01.net |
 | tr.notification-gdpr.cafineo.fr | tracking.bp01.net |
 | tr.notification-gdpr.cofinoga.fr | tracking.bp01.net |
 | tr.notification-gdpr.domofinance.fr | tracking.bp01.net |
@@ -516,6 +524,7 @@
 | tr.uk.icicibank.com | tracking.bp01.net |
 | tr.urfk02v.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk03u.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk057.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk06h.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk06y.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk07s.espmp-nifr.net | tracking.bp01.net |
@@ -529,10 +538,12 @@
 | tr.welcome.easyvoyage.co.uk | tracking.bp01.net |
 | tr.welcome.easyvoyage.com | tracking.bp01.net |
 | tr.welcome.easyvoyage.de | tracking.bp01.net |
+| tr.welcome.lacollection-airfrance.co.uk | tracking.bp01.net |
 | tr.welcome.lacollection-airfrance.fr | tracking.bp01.net |
 | tr.welcome.lexpress.fr | tracking.bp01.net |
 | tr.welcome.moncoupdepouce.com | tracking.bp01.net |
 | tr.welcome.odalys-vacances.com | tracking.bp01.net |
+| tr.welcome.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.welcome.thelist-emirates.fr | tracking.bp01.net |
 | tr.welcome.vipmag.fr | tracking.bp01.net |
 | tr.wuei.espmp-agfr.net | tracking.bp01.net |
