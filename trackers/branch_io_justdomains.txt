@@ -358,7 +358,6 @@ email.goodrx.com
 email.headsuphealth.com
 email.link.flipgive.com
 email.mail.floatme.io
-email.mail.primexbt.com
 email.member.theknot.com
 email.mg.everyonesocial.com
 email.msg.navyfederal.org
@@ -522,6 +521,11 @@ links.email.tajawal.com
 links.email.twine.com
 links.email.usanetwork.com
 links.evault.history.com
+links.fabletics.co.uk
+links.fabletics.com
+links.fabletics.de
+links.fabletics.es
+links.fabletics.fr
 links.fitbod.me
 links.glamsquad.com
 links.hitrecord.org
@@ -531,6 +535,11 @@ links.info.getgocafe.com
 links.info.gianteagle.com
 links.info.headspace.com
 links.info.kfc.com
+links.justfab.co.uk
+links.justfab.com
+links.justfab.de
+links.justfab.es
+links.justfab.fr
 links.keno.ae
 links.m.blueapron.com
 links.mail.stubhub.com
@@ -644,19 +653,3 @@ url7962.careerkarma.io
 url8196.mindrise.app
 url9609.account.experience-muse.com
 wl.spotify.com
-#
-# suite46-cf.emarsys.net.cdn.cloudflare.net disguised trackers
-#
-links.fabletics.co.uk
-links.fabletics.de
-links.fabletics.es
-links.fabletics.fr
-links.justfab.co.uk
-links.justfab.de
-links.justfab.es
-links.justfab.fr
-#
-# suite50-cf.emarsys.net.cdn.cloudflare.net disguised trackers
-#
-links.fabletics.com
-links.justfab.com

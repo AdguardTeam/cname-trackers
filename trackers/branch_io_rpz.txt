@@ -358,7 +358,6 @@ email.goodrx.com CNAME .
 email.headsuphealth.com CNAME .
 email.link.flipgive.com CNAME .
 email.mail.floatme.io CNAME .
-email.mail.primexbt.com CNAME .
 email.member.theknot.com CNAME .
 email.mg.everyonesocial.com CNAME .
 email.msg.navyfederal.org CNAME .
@@ -522,6 +521,11 @@ links.email.tajawal.com CNAME .
 links.email.twine.com CNAME .
 links.email.usanetwork.com CNAME .
 links.evault.history.com CNAME .
+links.fabletics.co.uk CNAME .
+links.fabletics.com CNAME .
+links.fabletics.de CNAME .
+links.fabletics.es CNAME .
+links.fabletics.fr CNAME .
 links.fitbod.me CNAME .
 links.glamsquad.com CNAME .
 links.hitrecord.org CNAME .
@@ -531,6 +535,11 @@ links.info.getgocafe.com CNAME .
 links.info.gianteagle.com CNAME .
 links.info.headspace.com CNAME .
 links.info.kfc.com CNAME .
+links.justfab.co.uk CNAME .
+links.justfab.com CNAME .
+links.justfab.de CNAME .
+links.justfab.es CNAME .
+links.justfab.fr CNAME .
 links.keno.ae CNAME .
 links.m.blueapron.com CNAME .
 links.mail.stubhub.com CNAME .
@@ -644,19 +653,3 @@ url7962.careerkarma.io CNAME .
 url8196.mindrise.app CNAME .
 url9609.account.experience-muse.com CNAME .
 wl.spotify.com CNAME .
-;
-; suite46-cf.emarsys.net.cdn.cloudflare.net disguised trackers
-;
-links.fabletics.co.uk CNAME .
-links.fabletics.de CNAME .
-links.fabletics.es CNAME .
-links.fabletics.fr CNAME .
-links.justfab.co.uk CNAME .
-links.justfab.de CNAME .
-links.justfab.es CNAME .
-links.justfab.fr CNAME .
-;
-; suite50-cf.emarsys.net.cdn.cloudflare.net disguised trackers
-;
-links.fabletics.com CNAME .
-links.justfab.com CNAME .

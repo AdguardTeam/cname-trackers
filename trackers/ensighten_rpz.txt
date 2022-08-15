@@ -19,6 +19,7 @@ activate.lanebryant.com CNAME .
 activate.latimes.com CNAME .
 activate.loft.com CNAME .
 activate.maurices.com CNAME .
+activate.mcall.com CNAME .
 activate.nydailynews.com CNAME .
 activate.orlandosentinel.com CNAME .
 activate.pacificsandiego.com CNAME .
@@ -30,6 +31,7 @@ activate.shopjustice.com CNAME .
 activate.sun-sentinel.com CNAME .
 activate.suncorp.com.au CNAME .
 activate.tacdn.com CNAME .
+activate.theactivetimes.com CNAME .
 activate.thedailymeal.com CNAME .
 activate.united.com CNAME .
 activate1.fidelity.com CNAME .
@@ -163,6 +165,7 @@ ensighten.norton.com CNAME .
 ensighten.postoffice.co.uk CNAME .
 ensighten.safeauto.com CNAME .
 ensightenone.danskespil.dk CNAME .
+ep.americanexpress.com CNAME .
 fcone.fidelitycharitable.org CNAME .
 fctms.fidelity.com CNAME .
 fctms.fidelitycharitable.org CNAME .

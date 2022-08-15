@@ -20,6 +20,7 @@ affil.11teamsports.si
 affil.11teamsports.sk
 affil.alkohol.cz
 affil.atan.cz
+affil.bitdef.cz
 affil.chlap20.sk
 affil.claimcloud.cz
 affil.comamdelat.com
@@ -30,9 +31,11 @@ affil.econea.cz
 affil.eshop-rychle.cz
 affil.fr.top4running.be
 affil.gamlery.cz
+affil.gentleport.cz
 affil.hifimarket.cz
 affil.hobbytec.cz
 affil.katalog-rebelky.cz
+affil.knihazenasnov.sk
 affil.kralovstvi-tiande.cz
 affil.lypo.cz
 affil.mydrinks.cz
@@ -97,6 +100,7 @@ affil.unuo.cz
 affil.unuo.sk
 affil.vzdusin.cz
 affil.webareal.cz
+affil.weplaybasketball.cz
 affil.weplaybasketball.hu
 affil.weplayhandball.cz
 affil.weplayvolleyball.cz
@@ -136,6 +140,7 @@ affiliate.faceyogainstitute.eu
 affiliate.fapi.cz
 affiliate.fightstuff.cz
 affiliate.fotopasti-bunaty.cz
+affiliate.gaymegastore.cz
 affiliate.gaymegastore.eu
 affiliate.growmarket.cz
 affiliate.hanibal.cz
@@ -151,12 +156,14 @@ affiliate.manvel.cz
 affiliate.milagro.cz
 affiliate.montessorihracky.cz
 affiliate.montessorikurz.cz
+affiliate.nakladatelstvi-riva.cz
 affiliate.nejfotopasti.cz
 affiliate.nomind.cz
 affiliate.notifikuj.cz
 affiliate.organikk.cz
 affiliate.pasti.cz
 affiliate.portu.cz
+affiliate.postel.cz
 affiliate.pouziteiphony.cz
 affiliate.pt-shop.cz
 affiliate.rajkratomu.cz
@@ -167,6 +174,7 @@ affiliate.sexshop51.cz
 affiliate.smarty.cz
 affiliate.smsticket.cz
 affiliate.snowbitch.cz
+affiliate.svarecky-obchod.cz
 affiliate.terarijni-potreby.cz
 affiliate.topol.io
 affiliate.urbanstore.cz
@@ -175,7 +183,9 @@ affiliate.velebny.cz
 affiliates.adinternet.cz
 affilo.crosta.cz
 affilo.crosta.sk
+affilo.damoda.cz
 affilo.lingerio.cz
+affilo.vivaboty.cz
 affilpartner.descanti.com
 doporuc.hopsej.cz
 hcbox.fitness-zone.cz
@@ -190,6 +200,7 @@ partner.artmasteracademy.cz
 partner.babysigns.cz
 partner.bilynabytek.cz
 partner.bio-nehty.cz
+partner.bioaromakosmetika.cz
 partner.brawolife.cz
 partner.brilianty.cz
 partner.candy.cz
@@ -213,6 +224,7 @@ partner.expresmenu.com
 partner.expresmenu.sk
 partner.forexrebel.net
 partner.galsari.com
+partner.gokids.cz
 partner.h2world.store
 partner.hanamoneam.com
 partner.hoska-tour.cz
@@ -235,6 +247,7 @@ partner.massivo.cz
 partner.metagram.sk
 partner.mhsexshop.com
 partner.milujifoceni.cz
+partner.mooselife.cz
 partner.motoobchod.cz
 partner.nanolab.cz
 partner.natubea.cz
@@ -242,6 +255,7 @@ partner.nejlepsi-darecky.cz
 partner.neviditelnepradlo.cz
 partner.nextwood.cz
 partner.obojky.cz
+partner.ochutnejorech.cz
 partner.olivum.cz
 partner.parfemy-parfumeur.cz
 partner.plotshop.sk
@@ -278,8 +292,10 @@ partneri.alchemistr.cz
 partneri.artisan.cz
 partneri.bazaroveregaly.cz
 partneri.biorganica.cz
+partneri.bornature.cz
 partneri.chytraopicka.cz
 partneri.coffeeveronia.sk
+partneri.dluhopisomat.cz
 partneri.dovychovat.cz
 partneri.ecstatic.cz
 partneri.eduway.cz
@@ -307,6 +323,7 @@ partneri.viadelicia.cz
 partneri.vitaon.cz
 partneri.vyzvaproimunitu.cz
 partneri.yoggspiration.cz
+partneri.zdravykram.cz
 partners.adventuremenu.com
 partners.almaf.cz
 partners.oktagon.tv

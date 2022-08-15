@@ -6,9 +6,6 @@
     * p03a.t.eloqua.com
     * p03f.t.eloqua.com
     * p06k.t.eloqua.com
-    * s16863.t.eloqua.com
-    * s72951169.t.eloqua.com
-    * s795651218.t.eloqua.com
 
 ### Rarely active trackers
 
@@ -180,7 +177,6 @@
 | track.info.pulmonologyadvisor.com | p03a.hs.eloqua.com |
 | track.info.renalandurologynews.com | p03a.hs.eloqua.com |
 | track.info.thecardiologyadvisor.com | p03a.hs.eloqua.com |
-| t.goduke.com | p03a.t.eloqua.com |
 | t.goduke.com | p03a.t.eloqua.com |
 | app.fairparkdallas.com | p03b.hs.eloqua.com |
 | app.scarletknights.com | p03b.hs.eloqua.com |
@@ -470,7 +466,6 @@
 | eloquatracking.internationalsos.com | p06k.hs.eloqua.com |
 | tracking.bettingexpert.com | p06k.hs.eloqua.com |
 | eloqua-tracking.unity.com | p06k.t.eloqua.com |
-| eloqua-tracking.unity.com | p06k.t.eloqua.com |
 | eloqua-tracking.unity3d.com | p06k.t.eloqua.com |
 | bigdata.aspiresys.com | p07.hs.eloqua.com |
 | campaign.hach.com.cn | p07.hs.eloqua.com |
@@ -492,6 +487,3 @@
 | connect.telstrawholesale.com | p07j.hs.eloqua.com |
 | tracking.apac.business.samsung.com | p07j.hs.eloqua.com |
 | contact.kikusuiamerica.com | p07k.hs.eloqua.com |
-| t.goduke.com | s16863.t.eloqua.com |
-| info.lexisnexis.com.my | s72951169.t.eloqua.com |
-| eloqua-tracking.unity.com | s795651218.t.eloqua.com |

@@ -132,6 +132,7 @@
 | tr.devis.digital | tracking.bp01.net |
 | tr.devize-companeo.ro | tracking.bp01.net |
 | tr.dirigeants.harmonie-mutuelle.fr | tracking.bp01.net |
+| tr.docapost-sirs.com | tracking.bp01.net |
 | tr.donateur.afm-telethon.fr | tracking.bp01.net |
 | tr.drh-holding.lvmh.fr | tracking.bp01.net |
 | tr.e-mail.axa.fr | tracking.bp01.net |
@@ -194,6 +195,7 @@
 | tr.gestion.coficabail.fr | tracking.bp01.net |
 | tr.gestion.cofinoga.fr | tracking.bp01.net |
 | tr.gestion.credit-moderne.fr | tracking.bp01.net |
+| tr.gestion.domofinance.fr | tracking.bp01.net |
 | tr.gestion.floa.fr | tracking.bp01.net |
 | tr.gestion.lexpress.fr | tracking.bp01.net |
 | tr.gestion.liberation.fr | tracking.bp01.net |
@@ -278,6 +280,7 @@
 | tr.mail.vip-mag.co.uk | tracking.bp01.net |
 | tr.mail.vipmag.fr | tracking.bp01.net |
 | tr.mail.vo3000.com | tracking.bp01.net |
+| tr.mail1.macif.fr | tracking.bp01.net |
 | tr.mailing.achatpublic.com | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
 | tr.mailing.r2e-humanis.fr | tracking.bp01.net |
@@ -436,6 +439,7 @@
 | tr.notification-gdpr.cafineo.fr | tracking.bp01.net |
 | tr.notification-gdpr.cofinoga.fr | tracking.bp01.net |
 | tr.notification-gdpr.domofinance.fr | tracking.bp01.net |
+| tr.notification-gdpr.loisirs-finance.fr | tracking.bp01.net |
 | tr.notification-gdpr.sygmabybnpparibas-pf.com | tracking.bp01.net |
 | tr.notification.banque-revillon.fr | tracking.bp01.net |
 | tr.notification.cafineo.fr | tracking.bp01.net |

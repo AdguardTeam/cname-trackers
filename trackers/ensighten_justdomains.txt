@@ -19,6 +19,7 @@ activate.lanebryant.com
 activate.latimes.com
 activate.loft.com
 activate.maurices.com
+activate.mcall.com
 activate.nydailynews.com
 activate.orlandosentinel.com
 activate.pacificsandiego.com
@@ -30,6 +31,7 @@ activate.shopjustice.com
 activate.sun-sentinel.com
 activate.suncorp.com.au
 activate.tacdn.com
+activate.theactivetimes.com
 activate.thedailymeal.com
 activate.united.com
 activate1.fidelity.com
@@ -163,6 +165,7 @@ ensighten.norton.com
 ensighten.postoffice.co.uk
 ensighten.safeauto.com
 ensightenone.danskespil.dk
+ep.americanexpress.com
 fcone.fidelitycharitable.org
 fctms.fidelity.com
 fctms.fidelitycharitable.org

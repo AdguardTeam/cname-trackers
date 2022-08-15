@@ -127,6 +127,7 @@ tr.devis-professionnels.com CNAME .
 tr.devis.digital CNAME .
 tr.devize-companeo.ro CNAME .
 tr.dirigeants.harmonie-mutuelle.fr CNAME .
+tr.docapost-sirs.com CNAME .
 tr.donateur.afm-telethon.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
 tr.e-mail.axa.fr CNAME .
@@ -189,6 +190,7 @@ tr.gestion.cetelem.fr CNAME .
 tr.gestion.coficabail.fr CNAME .
 tr.gestion.cofinoga.fr CNAME .
 tr.gestion.credit-moderne.fr CNAME .
+tr.gestion.domofinance.fr CNAME .
 tr.gestion.floa.fr CNAME .
 tr.gestion.lexpress.fr CNAME .
 tr.gestion.liberation.fr CNAME .
@@ -273,6 +275,7 @@ tr.mail.satisfactory.fr CNAME .
 tr.mail.vip-mag.co.uk CNAME .
 tr.mail.vipmag.fr CNAME .
 tr.mail.vo3000.com CNAME .
+tr.mail1.macif.fr CNAME .
 tr.mailing.achatpublic.com CNAME .
 tr.mailing.lvmhappening.com CNAME .
 tr.mailing.r2e-humanis.fr CNAME .
@@ -431,6 +434,7 @@ tr.notification-gdpr.bnpparibas-pf.fr CNAME .
 tr.notification-gdpr.cafineo.fr CNAME .
 tr.notification-gdpr.cofinoga.fr CNAME .
 tr.notification-gdpr.domofinance.fr CNAME .
+tr.notification-gdpr.loisirs-finance.fr CNAME .
 tr.notification-gdpr.sygmabybnpparibas-pf.com CNAME .
 tr.notification.banque-revillon.fr CNAME .
 tr.notification.cafineo.fr CNAME .

@@ -34,6 +34,7 @@ adebis.daiwahouse.co.jp CNAME .
 adebis.demae-can.com CNAME .
 adebis.e-ohaka.com CNAME .
 adebis.fenet.jp CNAME .
+adebis.ferret-one.com CNAME .
 adebis.furisode-ichikura.jp CNAME .
 adebis.gfs-official.com CNAME .
 adebis.harutaka.jp CNAME .
@@ -143,6 +144,7 @@ ebis.forcas.com CNAME .
 ebis.funai-finance.com CNAME .
 ebis.funai-food-business.com CNAME .
 ebis.funai-ma.com CNAME .
+ebis.funaisoken.co.jp CNAME .
 ebis.gokusen-ichiba.com CNAME .
 ebis.hokensoudannavi.jp CNAME .
 ebis.j-l-m.co.jp CNAME .
@@ -199,6 +201,7 @@ greenjapan-cname.green-japan.com CNAME .
 isebis.takamiclinic.or.jp CNAME .
 isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
+itpebis03.recella3d.com CNAME .
 kyoufukudoucname.worldsmile.net CNAME .
 marketing.biz.mynavi.jp CNAME .
 marketing.zwei.com CNAME .
@@ -215,6 +218,7 @@ sinceregarden.sincere-garden.jp CNAME .
 test-ad.lucia-c.com CNAME .
 tracking.mysurance.co.jp CNAME .
 tracking.nokai.jp CNAME .
+tracking.wao-corp.com CNAME .
 tukuru.cotta.jp CNAME .
 urerucname.manara.jp CNAME .
 ureruebis.nintama.co.jp CNAME .

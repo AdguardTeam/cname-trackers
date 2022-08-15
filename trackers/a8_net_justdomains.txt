@@ -61,6 +61,7 @@ a8.starseries.biz
 a8.strapya.com
 a8.the-session.jp
 a8.tone.ne.jp
+a8.toraiz.jp
 a8.tour-sys.com
 a8.triple-m.jp
 a8.tscubic.com
@@ -260,6 +261,7 @@ a8cv.zeroen-denki.com
 a8cv2.hoken-choice.com
 a8cventry.uqwimax.jp
 a8dev.hikarinet-s.com
+a8net.mellow-cbd.jp
 a8net.sourcenext.com
 a8onlineshop.trendmicro.co.jp
 a8redirect.cart.ec-sites.jp

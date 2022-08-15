@@ -127,6 +127,7 @@
 ||tr.devis.digital^
 ||tr.devize-companeo.ro^
 ||tr.dirigeants.harmonie-mutuelle.fr^
+||tr.docapost-sirs.com^
 ||tr.donateur.afm-telethon.fr^
 ||tr.drh-holding.lvmh.fr^
 ||tr.e-mail.axa.fr^
@@ -189,6 +190,7 @@
 ||tr.gestion.coficabail.fr^
 ||tr.gestion.cofinoga.fr^
 ||tr.gestion.credit-moderne.fr^
+||tr.gestion.domofinance.fr^
 ||tr.gestion.floa.fr^
 ||tr.gestion.lexpress.fr^
 ||tr.gestion.liberation.fr^
@@ -273,6 +275,7 @@
 ||tr.mail.vip-mag.co.uk^
 ||tr.mail.vipmag.fr^
 ||tr.mail.vo3000.com^
+||tr.mail1.macif.fr^
 ||tr.mailing.achatpublic.com^
 ||tr.mailing.lvmhappening.com^
 ||tr.mailing.r2e-humanis.fr^
@@ -431,6 +434,7 @@
 ||tr.notification-gdpr.cafineo.fr^
 ||tr.notification-gdpr.cofinoga.fr^
 ||tr.notification-gdpr.domofinance.fr^
+||tr.notification-gdpr.loisirs-finance.fr^
 ||tr.notification-gdpr.sygmabybnpparibas-pf.com^
 ||tr.notification.banque-revillon.fr^
 ||tr.notification.cafineo.fr^

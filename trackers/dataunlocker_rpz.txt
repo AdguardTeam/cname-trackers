@@ -24,16 +24,19 @@
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
+48z7wyjdsywu.www.revistaferramental.com.br CNAME .
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
+9ogzoig3flpa.www.cybernetman.com CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 ah2sjk1n75th.app.tapmyback.com CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
+bjouo1yzvx78.www.earthclassmail.com CNAME .
 bygr2ri20e4y.li.finance CNAME .
 cihnqp6p65.koinly.io CNAME .
 cqz6fn6aox.aporia.com CNAME .
@@ -58,6 +61,7 @@ kizpfrvi518a.www.crystalmathlabs.com CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 li3k4d70ig52.resourceya.com CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
+m5yyur2au7l4.test.li.finance CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
