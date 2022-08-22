@@ -32,6 +32,7 @@
 ||tk.airfrance.pt^
 ||tk.airfrance.ro^
 ||tk.airfrance.ru^
+||tk.airfrance.se^
 ||tk.airfrance.sg^
 ||tk.airfrance.sk^
 ||tk.airfrance.tn^

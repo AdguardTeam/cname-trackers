@@ -294,6 +294,7 @@ clicks.kfc.co.uk
 clicks.lifesum.com
 clicks.metronautapp.com
 clicks.point.app
+clicks.rallyrd.com
 clicks.shakeshack.com
 clicks.staging.worldremit.com
 clicks.tunein.com
@@ -379,6 +380,7 @@ emails.discoverylife.com
 emails.foodnetwork.com
 emails.hgtv.com
 emails.investigationdiscovery.com
+emails.motortrend.com
 emails.sciencechannel.com
 emails.tlc.com
 emails.travelchannel.com
@@ -422,6 +424,7 @@ link.announce.busuu.app
 link.automated.almosafer.com
 link.automated.tajawal.com
 link.bambu.social
+link.carfax.com
 link.cdl.freshly.com
 link.cheerz.com
 link.creditonemail.com

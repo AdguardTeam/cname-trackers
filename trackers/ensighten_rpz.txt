@@ -84,6 +84,7 @@ assets1.vero.co.nz CNAME .
 assets1.vero.com.au CNAME .
 attribution.saucony.com CNAME .
 attribution.sperry.com CNAME .
+attribution.tescomobile.com CNAME .
 attribution.theworks.co.uk CNAME .
 attribution.tmlewin.com CNAME .
 attribution.wolverine.com CNAME .
@@ -166,6 +167,7 @@ ensighten.postoffice.co.uk CNAME .
 ensighten.safeauto.com CNAME .
 ensightenone.danskespil.dk CNAME .
 ep.americanexpress.com CNAME .
+fcone.fidelity.com CNAME .
 fcone.fidelitycharitable.org CNAME .
 fctms.fidelity.com CNAME .
 fctms.fidelitycharitable.org CNAME .
@@ -185,6 +187,7 @@ nexus.ensighten.tiaa.org CNAME .
 nexus.toyota.com CNAME .
 nexus.virginholidays.co.uk CNAME .
 p.pulse.buyatoyota.com CNAME .
+p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
 privacy.blade.app CNAME .

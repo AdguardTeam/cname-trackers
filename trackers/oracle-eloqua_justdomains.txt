@@ -8,6 +8,8 @@ eloqua-tracking.unity3d.com
 info.lexisnexis.com.my
 info.lexisnexis.com.sg
 t.goduke.com
+t.goheels.com
+t.gotigersgo.com
 #
 # p03e.hs.eloqua.com disguised trackers
 #

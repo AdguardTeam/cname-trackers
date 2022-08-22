@@ -302,6 +302,7 @@
 | clicks.lifesum.com | thirdparty.bnc.lt |
 | clicks.metronautapp.com | thirdparty.bnc.lt |
 | clicks.point.app | thirdparty.bnc.lt |
+| clicks.rallyrd.com | thirdparty.bnc.lt |
 | clicks.shakeshack.com | thirdparty.bnc.lt |
 | clicks.staging.worldremit.com | thirdparty.bnc.lt |
 | clicks.tunein.com | thirdparty.bnc.lt |
@@ -386,6 +387,7 @@
 | emails.foodnetwork.com | thirdparty.bnc.lt |
 | emails.hgtv.com | thirdparty.bnc.lt |
 | emails.investigationdiscovery.com | thirdparty.bnc.lt |
+| emails.motortrend.com | thirdparty.bnc.lt |
 | emails.sciencechannel.com | thirdparty.bnc.lt |
 | emails.tlc.com | thirdparty.bnc.lt |
 | emails.travelchannel.com | thirdparty.bnc.lt |
@@ -429,6 +431,7 @@
 | link.automated.almosafer.com | thirdparty.bnc.lt |
 | link.automated.tajawal.com | thirdparty.bnc.lt |
 | link.bambu.social | thirdparty.bnc.lt |
+| link.carfax.com | thirdparty.bnc.lt |
 | link.cdl.freshly.com | thirdparty.bnc.lt |
 | link.cheerz.com | thirdparty.bnc.lt |
 | link.creditonemail.com | thirdparty.bnc.lt |

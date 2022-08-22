@@ -41,6 +41,7 @@ a8.makeshop.jp CNAME .
 a8.n-pri.jp CNAME .
 a8.nanafu.tokyo CNAME .
 a8.nengahonpo.com CNAME .
+a8.nitta-gelatin.jp CNAME .
 a8.nosh.jp CNAME .
 a8.o-tayori.com CNAME .
 a8.obihiro-butaichi.jp CNAME .
@@ -193,6 +194,7 @@ a8cv.dshu.jp CNAME .
 a8cv.english-bootcamp.com CNAME .
 a8cv.entry.renet.jp CNAME .
 a8cv.favorric.com CNAME .
+a8cv.first-spoon.com CNAME .
 a8cv.frecious.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
 a8cv.hotyoga-loive.com CNAME .
@@ -219,6 +221,7 @@ a8cv.online.bell-road.com CNAME .
 a8cv.orbis.co.jp CNAME .
 a8cv.otakudathough.com CNAME .
 a8cv.p-antiaging.com CNAME .
+a8cv.paidy.com CNAME .
 a8cv.presence.jp CNAME .
 a8cv.radi-cool.shop CNAME .
 a8cv.reservation.matching-photo.com CNAME .

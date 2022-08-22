@@ -9,6 +9,7 @@ adsbid-sh-click.adghndou0sdh.ru CNAME .
 adsbid-sh-click.sing.adghndou0sdh.ru CNAME .
 adv.ads2.bid CNAME .
 arvb.3grg8dqjil.ru CNAME .
+arvb.6v7q4txztl.ru CNAME .
 arvb.ewtcbedtmx.ru CNAME .
 arvb.gamz48qlok.ru CNAME .
 avb-sing.ewtcbedtmx.ru CNAME .

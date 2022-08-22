@@ -294,6 +294,7 @@ clicks.kfc.co.uk CNAME .
 clicks.lifesum.com CNAME .
 clicks.metronautapp.com CNAME .
 clicks.point.app CNAME .
+clicks.rallyrd.com CNAME .
 clicks.shakeshack.com CNAME .
 clicks.staging.worldremit.com CNAME .
 clicks.tunein.com CNAME .
@@ -379,6 +380,7 @@ emails.discoverylife.com CNAME .
 emails.foodnetwork.com CNAME .
 emails.hgtv.com CNAME .
 emails.investigationdiscovery.com CNAME .
+emails.motortrend.com CNAME .
 emails.sciencechannel.com CNAME .
 emails.tlc.com CNAME .
 emails.travelchannel.com CNAME .
@@ -422,6 +424,7 @@ link.announce.busuu.app CNAME .
 link.automated.almosafer.com CNAME .
 link.automated.tajawal.com CNAME .
 link.bambu.social CNAME .
+link.carfax.com CNAME .
 link.cdl.freshly.com CNAME .
 link.cheerz.com CNAME .
 link.creditonemail.com CNAME .

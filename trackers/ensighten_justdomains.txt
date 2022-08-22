@@ -84,6 +84,7 @@ assets1.vero.co.nz
 assets1.vero.com.au
 attribution.saucony.com
 attribution.sperry.com
+attribution.tescomobile.com
 attribution.theworks.co.uk
 attribution.tmlewin.com
 attribution.wolverine.com
@@ -166,6 +167,7 @@ ensighten.postoffice.co.uk
 ensighten.safeauto.com
 ensightenone.danskespil.dk
 ep.americanexpress.com
+fcone.fidelity.com
 fcone.fidelitycharitable.org
 fctms.fidelity.com
 fctms.fidelitycharitable.org
@@ -185,6 +187,7 @@ nexus.ensighten.tiaa.org
 nexus.toyota.com
 nexus.virginholidays.co.uk
 p.pulse.buyatoyota.com
+p.pulse.lexus.com
 p.pulse.toyota.com
 pfa.levexis.com
 privacy.blade.app

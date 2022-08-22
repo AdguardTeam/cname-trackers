@@ -313,6 +313,7 @@
 ||stats.arquido.com^
 ||stats.artefact.space^
 ||stats.auto-dombrowski.de^
+||stats.autofarm.network^
 ||stats.baptistwomen.com^
 ||stats.basecamp.com^
 ||stats.bcdtravel.com^
@@ -394,6 +395,7 @@
 ||stats.drewbolles.com^
 ||stats.drgomesp.dev^
 ||stats.edkimo.com^
+||stats.edovanroyen.com^
 ||stats.ekomenyong.com^
 ||stats.elementary.io^
 ||stats.elixir-lang.org^
@@ -466,7 +468,6 @@
 ||stats.jdheyburn.co.uk^
 ||stats.jerickson.net^
 ||stats.johnmac.pro^
-||stats.justanotherpm.com^
 ||stats.justinwilliams.ca^
 ||stats.kafarowski.com^
 ||stats.kejk.tech^
@@ -513,6 +514,13 @@
 ||stats.missionrabies.com^
 ||stats.mmazzarolo.com^
 ||stats.motion-effect.com^
+||stats.muchbetteradventures.com^
+||stats.mysideproject.rocks^
+||stats.nddmed.com^
+||stats.nerdbusiness.com^
+||stats.onepagelove.com^
+||stats.oursky.com^
+||stats.pasteapp.io^
 ||stats.paysagistes.pro^
 ||stats.pebkac.io^
 ||stats.pep20.org^
@@ -530,6 +538,10 @@
 ||stats.pointflottant.com^
 ||stats.polekatfitness.com^
 ||stats.populang.com^
+||stats.raidprotect.org^
+||stats.reisemobil.pro^
+||stats.sebastiangale.ca^
+||stats.shoutout.so^
 ||stats.sirdata.com^
 ||stats.ski.com^
 ||stats.socialeurope.eu^
@@ -540,6 +552,7 @@
 ||stats.sparkloop.app^
 ||stats.sprechstunde.ai^
 ||stats.sqlteam.com^
+||stats.stack11.io^
 ||stats.stackingthebricks.com^
 ||stats.stacks.org^
 ||stats.stadiastats.gg^
@@ -585,7 +598,9 @@
 ||stats.unox.com^
 ||stats.urbanfinn.com^
 ||stats.vanityprojects.com^
+||stats.visions.ch^
 ||stats.walkiees.co.uk^
+||stats.whereisit5pmrightnow.com^
 ||stats.world.hey.com^
 ||stats.wvs.org.uk^
 ||statstest.upti.pro^

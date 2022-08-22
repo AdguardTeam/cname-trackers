@@ -313,6 +313,7 @@ stats.amiibo.life CNAME .
 stats.arquido.com CNAME .
 stats.artefact.space CNAME .
 stats.auto-dombrowski.de CNAME .
+stats.autofarm.network CNAME .
 stats.baptistwomen.com CNAME .
 stats.basecamp.com CNAME .
 stats.bcdtravel.com CNAME .
@@ -394,6 +395,7 @@ stats.dreher-dreher.eu CNAME .
 stats.drewbolles.com CNAME .
 stats.drgomesp.dev CNAME .
 stats.edkimo.com CNAME .
+stats.edovanroyen.com CNAME .
 stats.ekomenyong.com CNAME .
 stats.elementary.io CNAME .
 stats.elixir-lang.org CNAME .
@@ -466,7 +468,6 @@ stats.jawebb.se CNAME .
 stats.jdheyburn.co.uk CNAME .
 stats.jerickson.net CNAME .
 stats.johnmac.pro CNAME .
-stats.justanotherpm.com CNAME .
 stats.justinwilliams.ca CNAME .
 stats.kafarowski.com CNAME .
 stats.kejk.tech CNAME .
@@ -513,6 +514,13 @@ stats.mesenvies.fr CNAME .
 stats.missionrabies.com CNAME .
 stats.mmazzarolo.com CNAME .
 stats.motion-effect.com CNAME .
+stats.muchbetteradventures.com CNAME .
+stats.mysideproject.rocks CNAME .
+stats.nddmed.com CNAME .
+stats.nerdbusiness.com CNAME .
+stats.onepagelove.com CNAME .
+stats.oursky.com CNAME .
+stats.pasteapp.io CNAME .
 stats.paysagistes.pro CNAME .
 stats.pebkac.io CNAME .
 stats.pep20.org CNAME .
@@ -530,6 +538,10 @@ stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
 stats.populang.com CNAME .
+stats.raidprotect.org CNAME .
+stats.reisemobil.pro CNAME .
+stats.sebastiangale.ca CNAME .
+stats.shoutout.so CNAME .
 stats.sirdata.com CNAME .
 stats.ski.com CNAME .
 stats.socialeurope.eu CNAME .
@@ -540,6 +552,7 @@ stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
 stats.sprechstunde.ai CNAME .
 stats.sqlteam.com CNAME .
+stats.stack11.io CNAME .
 stats.stackingthebricks.com CNAME .
 stats.stacks.org CNAME .
 stats.stadiastats.gg CNAME .
@@ -585,7 +598,9 @@ stats.ubiwiz.com CNAME .
 stats.unox.com CNAME .
 stats.urbanfinn.com CNAME .
 stats.vanityprojects.com CNAME .
+stats.visions.ch CNAME .
 stats.walkiees.co.uk CNAME .
+stats.whereisit5pmrightnow.com CNAME .
 stats.world.hey.com CNAME .
 stats.wvs.org.uk CNAME .
 statstest.upti.pro CNAME .

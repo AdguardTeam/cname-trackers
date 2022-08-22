@@ -8,6 +8,8 @@ eloqua-tracking.unity3d.com CNAME .
 info.lexisnexis.com.my CNAME .
 info.lexisnexis.com.sg CNAME .
 t.goduke.com CNAME .
+t.goheels.com CNAME .
+t.gotigersgo.com CNAME .
 ;
 ; p03e.hs.eloqua.com disguised trackers
 ;

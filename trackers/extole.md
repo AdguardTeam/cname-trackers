@@ -6,11 +6,13 @@
     * ahs.extole.com
     * american-giant.extole.com
     * ancestrydna.extole.com
+    * aol.extole.com
     * clearme-ssl.extole.com
     * compexusa.extole.com
     * d.extole.com
     * discover.extole.com
     * divvybikes.extole.com
+    * ebags.extole.com
     * freshly.extole.com
     * hannaandersson.extole.com
     * harimari.extole.com
@@ -56,6 +58,7 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
+| refer.aol.com | aol.extole.com |
 | refer.clearme.com | clearme-ssl.extole.com |
 | refer.compexusa.com | compexusa.extole.com |
 | ilove.volusion.com | d.extole.com |
@@ -63,6 +66,7 @@
 | tellapal.web.com | d.extole.com |
 | refer.discover.com | discover.extole.com |
 | refer.divvybikes.com | divvybikes.extole.com |
+| friend.ebags.com | ebags.extole.com |
 | refer.freshly.com | freshly.extole.com |
 | refer.hannaandersson.com | hannaandersson.extole.com |
 | refer.harimari.com | harimari.extole.com |

@@ -58,6 +58,7 @@ icn.brandnewapp.pro CNAME .
 ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .
 snow.snowdayonline.xyz CNAME .
+sticky.vtube.to CNAME .
 wp.brandnewapp.pro CNAME .
 ww1.willalland.info CNAME .
 www.rtnews.pro CNAME .

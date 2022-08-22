@@ -87,6 +87,7 @@
 ||3324214.notifysrv.com^
 ||3325604.notifysrv.com^
 ||3328388.notifysrv.com^
+||3328394.notifysrv.com^
 ||3328396.notifysrv.com^
 ||3329496.notify6.com^
 ||3329496.notifysrv.com^
@@ -239,6 +240,7 @@
 ||3580393.notifysrv.com^
 ||3584069.notifysrv.com^
 ||3584913.notifysrv.com^
+||3585203.notifysrv.com^
 ||3587723.notifysrv.com^
 ||3587729.notifysrv.com^
 ||3587731.notify6.com^
@@ -251,6 +253,7 @@
 ||3588593.notifysrv.com^
 ||3588597.notifysrv.com^
 ||3588599.notifysrv.com^
+||3590449.notify6.com^
 ||3591075.notify6.com^
 ||3591075.notifysrv.com^
 ||3593835.notify6.com^
@@ -276,6 +279,7 @@
 ||3629687.notify6.com^
 ||3629687.notifysrv.com^
 ||3629895.notifysrv.com^
+||3631057.notify6.com^
 ||3632607.notifysrv.com^
 ||3648599.notifysrv.com^
 ||3653689.notify6.com^
@@ -301,6 +305,7 @@
 ||3701939.notify6.com^
 ||3701939.notifysrv.com^
 ||3710069.notifysrv.com^
+||3710075.notify6.com^
 ||3714181.notifysrv.com^
 ||3715633.notifysrv.com^
 ||3717105.notifysrv.com^
@@ -314,6 +319,7 @@
 ||3745191.notifysrv.com^
 ||3749331.notify6.com^
 ||3752469.notifysrv.com^
+||3756889.notifysrv.com^
 ||3762001.notifysrv.com^
 ||3768747.notify6.com^
 ||3768747.notifysrv.com^
@@ -321,6 +327,7 @@
 ||3783121.notifysrv.com^
 ||3783123.notifysrv.com^
 ||3783125.notifysrv.com^
+||3789593.notify6.com^
 ||3789861.notifysrv.com^
 ||3791967.notify6.com^
 ||3805703.notifysrv.com^
@@ -332,6 +339,7 @@
 ||3832097.notifysrv.com^
 ||3837365.notifysrv.com^
 ||3837607.notifysrv.com^
+||3843075.notify6.com^
 ||3843075.notifysrv.com^
 ||3843131.notify6.com^
 ||3845271.notify6.com^
@@ -385,6 +393,7 @@
 ||4021032.notify6.com^
 ||4022684.notify6.com^
 ||4028412.notify6.com^
+||4031264.notify6.com^
 ||4031266.notify6.com^
 ||4035148.notify6.com^
 ||4035244.notify6.com^
@@ -467,8 +476,6 @@
 ||4735242.notify6.com^
 ||6180.notify.optimizesrv.com^
 ||a.etology.com^
-||admin.etology.com^
-||admin.shafttraffic.com^
 ||api.adnation.com^
 ||delivery.gettopple.com^
 ||engine.gettopple.com^
@@ -557,3 +564,4 @@
 !
 ||admin.adnation.com^
 ||admin.etology.com^
+||admin.shafttraffic.com^

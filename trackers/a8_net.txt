@@ -41,6 +41,7 @@
 ||a8.n-pri.jp^
 ||a8.nanafu.tokyo^
 ||a8.nengahonpo.com^
+||a8.nitta-gelatin.jp^
 ||a8.nosh.jp^
 ||a8.o-tayori.com^
 ||a8.obihiro-butaichi.jp^
@@ -193,6 +194,7 @@
 ||a8cv.english-bootcamp.com^
 ||a8cv.entry.renet.jp^
 ||a8cv.favorric.com^
+||a8cv.first-spoon.com^
 ||a8cv.frecious.jp^
 ||a8cv.greed-island.ne.jp^
 ||a8cv.hotyoga-loive.com^
@@ -219,6 +221,7 @@
 ||a8cv.orbis.co.jp^
 ||a8cv.otakudathough.com^
 ||a8cv.p-antiaging.com^
+||a8cv.paidy.com^
 ||a8cv.presence.jp^
 ||a8cv.radi-cool.shop^
 ||a8cv.reservation.matching-photo.com^

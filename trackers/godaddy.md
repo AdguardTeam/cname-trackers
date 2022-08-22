@@ -15,6 +15,7 @@
 | adsbid-sh-click.adghndou0sdh.ru | lb.rtb.ads.bid |
 | adv.ads2.bid | lb.rtb.ads.bid |
 | arvb.3grg8dqjil.ru | lb.rtb.ads.bid |
+| arvb.6v7q4txztl.ru | lb.rtb.ads.bid |
 | arvb.ewtcbedtmx.ru | lb.rtb.ads.bid |
 | arvb.gamz48qlok.ru | lb.rtb.ads.bid |
 | avbr.13wynpuurt.ru | lb.rtb.ads.bid |

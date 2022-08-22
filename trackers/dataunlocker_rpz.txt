@@ -3,8 +3,8 @@
 ;
 ; dataunlocker.com disguised trackers
 ;
+0d8is908gby1.www.terraform.com.ar CNAME .
 0naqzso7re3p.tapmyback.com CNAME .
-0o77qjtrfkmo.www.earthclassmail.com CNAME .
 11b6n4ty2x3.taxliencode.com CNAME .
 13js1lbtbj3.sparkloop.app CNAME .
 16i6nuuc2ej.koelewijn.nl CNAME .
@@ -19,6 +19,7 @@
 2829i2p88jx.www.csaladinet.hu CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .
 2e718yf5jypb.test.digitalsurge.io CNAME .
+2mammis9kbgg.datree.io CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
@@ -27,10 +28,10 @@
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
+8ag8k205ppci.app.alpacafinance.org CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8p0kiyq5mq1d.flex.team CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
-9ogzoig3flpa.www.cybernetman.com CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 ah2sjk1n75th.app.tapmyback.com CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
@@ -45,8 +46,8 @@ dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
-fb7syy5wn9hl.blog.abhijith.page CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
+fvf3adsna5qc.www.earthclassmail.com CNAME .
 g8kl7pdrvnia.www.earthclassmail.com CNAME .
 giy0v1igdqc1.crystalmathlabs.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .

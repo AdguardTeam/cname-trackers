@@ -135,7 +135,6 @@ asg1.adrooski.com CNAME .
 asg1.xueserverhost.com CNAME .
 asg2.xueserverhost.com CNAME .
 asgdfasad.mm-cgnews.com CNAME .
-asgt.findnewline.com CNAME .
 asp.hotfullvideos.com CNAME .
 atom.seotul.pics CNAME .
 audi.lol CNAME .
@@ -159,6 +158,7 @@ bzcdn.fin.ovh CNAME .
 bzotoin.pics CNAME .
 c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
+cam.javboys.cam CNAME .
 canpibo.mom CNAME .
 cdc.teensnorest.com CNAME .
 cdfr.hot4k.org CNAME .
@@ -196,6 +196,7 @@ ebd.cda-hd.cc CNAME .
 ebd.cda-hd.co CNAME .
 eco.blendxxx.com CNAME .
 eep.pukachu.lol CNAME .
+eightlon.mom CNAME .
 est.pornleech.ch CNAME .
 eyedssw.javvvvvv.xyz CNAME .
 fast.s5live.com CNAME .
@@ -233,6 +234,7 @@ js.manga9.co CNAME .
 js.mangapro.top CNAME .
 js.xemkqxs.com CNAME .
 ka.kakakakaka.xyz CNAME .
+khetlet.mom CNAME .
 khoa.jqk.lol CNAME .
 king.beov.lol CNAME .
 kliqz.com CNAME .
@@ -246,6 +248,7 @@ lixir.wargers.org CNAME .
 load.jabx.net CNAME .
 load.try-games.com CNAME .
 load.xxxdb.io CNAME .
+loienlao.mom CNAME .
 look.bookies.lol CNAME .
 lovelybingo.com CNAME .
 m.x-power.info CNAME .
@@ -354,6 +357,7 @@ tlv.ui02.com CNAME .
 tom.beclin.xyz CNAME .
 tomboy.lol CNAME .
 toyota.lol CNAME .
+tpl.fuckxness.com CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 tuckbos.lol CNAME .
@@ -371,6 +375,7 @@ w00t.us CNAME .
 web.cinetux.nu CNAME .
 wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
+www.0-000.store CNAME .
 www.bigboy.monster CNAME .
 www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .

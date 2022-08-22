@@ -171,6 +171,7 @@ affiliate.reponio.cz
 affiliate.rixo.cz
 affiliate.sexshop.cz
 affiliate.sexshop51.cz
+affiliate.sexshop51.sk
 affiliate.smarty.cz
 affiliate.smsticket.cz
 affiliate.snowbitch.cz
@@ -192,12 +193,14 @@ hcbox.fitness-zone.cz
 hcbox.mironet.cz
 hcbox.tesla-electronics.eu
 hcbox.tlamka.cz
+isic.dentalweb.cz
 isicpartner.mamechut.cz
 login.affiliatesit.cz
 partner.2din.cz
 partner.amonitsro.sk
 partner.artmasteracademy.cz
 partner.babysigns.cz
+partner.barnaby.cz
 partner.bilynabytek.cz
 partner.bio-nehty.cz
 partner.bioaromakosmetika.cz
@@ -264,6 +267,7 @@ partner.pozitivnerozpravky.sk
 partner.pradoch.cz
 partner.prosperk.cz
 partner.psidetektiv.cz
+partner.scilearn.cz
 partner.scootshop.cz
 partner.simplymix.com
 partner.sladkemameni.com
@@ -297,6 +301,7 @@ partneri.chytraopicka.cz
 partneri.coffeeveronia.sk
 partneri.dluhopisomat.cz
 partneri.dovychovat.cz
+partneri.dusansoucek.cz
 partneri.ecstatic.cz
 partneri.eduway.cz
 partneri.epiderma.cz

@@ -171,6 +171,7 @@ affiliate.reponio.cz CNAME .
 affiliate.rixo.cz CNAME .
 affiliate.sexshop.cz CNAME .
 affiliate.sexshop51.cz CNAME .
+affiliate.sexshop51.sk CNAME .
 affiliate.smarty.cz CNAME .
 affiliate.smsticket.cz CNAME .
 affiliate.snowbitch.cz CNAME .
@@ -192,12 +193,14 @@ hcbox.fitness-zone.cz CNAME .
 hcbox.mironet.cz CNAME .
 hcbox.tesla-electronics.eu CNAME .
 hcbox.tlamka.cz CNAME .
+isic.dentalweb.cz CNAME .
 isicpartner.mamechut.cz CNAME .
 login.affiliatesit.cz CNAME .
 partner.2din.cz CNAME .
 partner.amonitsro.sk CNAME .
 partner.artmasteracademy.cz CNAME .
 partner.babysigns.cz CNAME .
+partner.barnaby.cz CNAME .
 partner.bilynabytek.cz CNAME .
 partner.bio-nehty.cz CNAME .
 partner.bioaromakosmetika.cz CNAME .
@@ -264,6 +267,7 @@ partner.pozitivnerozpravky.sk CNAME .
 partner.pradoch.cz CNAME .
 partner.prosperk.cz CNAME .
 partner.psidetektiv.cz CNAME .
+partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
 partner.simplymix.com CNAME .
 partner.sladkemameni.com CNAME .
@@ -297,6 +301,7 @@ partneri.chytraopicka.cz CNAME .
 partneri.coffeeveronia.sk CNAME .
 partneri.dluhopisomat.cz CNAME .
 partneri.dovychovat.cz CNAME .
+partneri.dusansoucek.cz CNAME .
 partneri.ecstatic.cz CNAME .
 partneri.eduway.cz CNAME .
 partneri.epiderma.cz CNAME .
