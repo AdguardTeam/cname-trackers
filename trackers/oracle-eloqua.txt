@@ -10,6 +10,9 @@
 ||t.goduke.com^
 ||t.goheels.com^
 ||t.gotigersgo.com^
+||t.meangreensports.com^
+||t.nevadawolfpack.com^
+||t.nusports.com^
 !
 ! p03e.hs.eloqua.com disguised trackers
 !
@@ -201,7 +204,6 @@
 ||engage.3m.com.lv^
 ||engage.3m.com.mx^
 ||engage.3m.com.my^
-||engage.3m.com.ni^
 ||engage.3m.com.pa^
 ||engage.3m.com.pe^
 ||engage.3m.com.pk^
@@ -397,7 +399,6 @@
 ! p06h.hs.eloqua.com disguised trackers
 !
 ||bancopostapremia.bancoposta.it^
-||content.accelalpha.com^
 ||eloquatracking.iqvia.com^
 ||elqtracking.macegroup.com^
 !

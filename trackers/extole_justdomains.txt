@@ -18,6 +18,7 @@ refer.discover.com
 refer.divvybikes.com
 refer.dna.ancestry.co.uk
 refer.dna.ancestry.com
+refer.framesdirect.com
 refer.freshly.com
 refer.hannaandersson.com
 refer.harimari.com
@@ -26,6 +27,7 @@ refer.julep.com
 refer.luckyvitamin.com
 refer.moo.com
 refer.myplant.com
+refer.nvidia.com
 refer.ofx.com
 refer.payroll.intuit.com
 refer.personalcreations.com

@@ -4,6 +4,7 @@
 
 * ebis.ne.jp
     * 02a8f7d5-th1skucf.cname.ebis.ne.jp
+    * 02ad2e8f-khesgceb.cname.ebis.ne.jp
     * 0422e718-orvgub9g.cname.ebis.ne.jp
     * 043aff42-optsirog.cname.ebis.ne.jp
     * 055b1f86-ycxd4a4u.cname.ebis.ne.jp
@@ -205,6 +206,7 @@
     * d8891d4f-5qfabvkt.cname.ebis.ne.jp
     * d9a8eccf-fgsftzrs.cname.ebis.ne.jp
     * dae17865-vqh9uah6.cname.ebis.ne.jp
+    * daf42dbf-vhmygeqr.cname.ebis.ne.jp
     * daf5d89e-yfrcguru.cname.ebis.ne.jp
     * de8331b9-pmffblvq.cname.ebis.ne.jp
     * dfd1c48f-kdknv6tt.cname.ebis.ne.jp
@@ -232,6 +234,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | adebis.tokyuhotels.co.jp | 02a8f7d5-th1skucf.cname.ebis.ne.jp |
+| cs1863sbeda.glaucoma-arrest.net | 02ad2e8f-khesgceb.cname.ebis.ne.jp |
 | ebis.jukkou.com | 0422e718-orvgub9g.cname.ebis.ne.jp |
 | cname.crank-in.net | 043aff42-optsirog.cname.ebis.ne.jp |
 | ad.takasu.co.jp | 055b1f86-ycxd4a4u.cname.ebis.ne.jp |
@@ -433,6 +436,7 @@
 | ebis.n-pri.jp | d8891d4f-5qfabvkt.cname.ebis.ne.jp |
 | ebiscname.clark.ed.jp | d9a8eccf-fgsftzrs.cname.ebis.ne.jp |
 | ebis.biyo-job.com | dae17865-vqh9uah6.cname.ebis.ne.jp |
+| adebis.gogin.co.jp | daf42dbf-vhmygeqr.cname.ebis.ne.jp |
 | ebis.funai-food-business.com | daf5d89e-yfrcguru.cname.ebis.ne.jp |
 | adebis.hotstaff.co.jp | de8331b9-pmffblvq.cname.ebis.ne.jp |
 | cname1.shakenkan.co.jp | dfd1c48f-kdknv6tt.cname.ebis.ne.jp |

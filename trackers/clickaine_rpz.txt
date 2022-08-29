@@ -5,12 +5,14 @@
 ;
 a3.hotpornfile.org CNAME .
 ad.arabsex1.com CNAME .
+ad1.xero.porn CNAME .
 api.applogy.com CNAME .
 api.rtnews.pro CNAME .
 api.willalland.info CNAME .
 api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
 app.willalland.info CNAME .
+c2n.pornez.net CNAME .
 c4n.asianpinay.com CNAME .
 c4n.ijerk.club CNAME .
 c4n.mypornovideos.com CNAME .
@@ -28,7 +30,6 @@ cc.sersh.com CNAME .
 cc.sex-stories-xxx.com CNAME .
 cc.sexgeschichten-klub.com CNAME .
 cc.sexgeschichten-kostenlos.com CNAME .
-cc.sexgeschichten-xxx.com CNAME .
 cc.sexstories-all.com CNAME .
 cc.sexstories-hot.com CNAME .
 cc.sexverhalen-gratis.com CNAME .
@@ -55,6 +56,7 @@ hruk.jjikk.top CNAME .
 hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
+more.alotporn.com CNAME .
 ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .
 snow.snowdayonline.xyz CNAME .

@@ -72,6 +72,7 @@
 3304350.notifysrv.com CNAME .
 3304354.notify6.com CNAME .
 3304354.notifysrv.com CNAME .
+3305622.notifysrv.com CNAME .
 3307240.notifysrv.com CNAME .
 3310026.notify6.com CNAME .
 3310238.notify6.com CNAME .
@@ -253,6 +254,7 @@
 3588593.notifysrv.com CNAME .
 3588597.notifysrv.com CNAME .
 3588599.notifysrv.com CNAME .
+3589779.notify6.com CNAME .
 3590449.notify6.com CNAME .
 3591075.notify6.com CNAME .
 3591075.notifysrv.com CNAME .
@@ -317,6 +319,7 @@
 3739013.notify6.com CNAME .
 3740615.notifysrv.com CNAME .
 3745191.notifysrv.com CNAME .
+3745197.notify6.com CNAME .
 3749331.notify6.com CNAME .
 3752469.notifysrv.com CNAME .
 3756889.notifysrv.com CNAME .
@@ -345,6 +348,7 @@
 3845271.notify6.com CNAME .
 3853331.notify6.com CNAME .
 3853333.notify6.com CNAME .
+3854029.notify6.com CNAME .
 3869256.notifysrv.com CNAME .
 3869316.notifysrv.com CNAME .
 3869462.notify6.com CNAME .
@@ -473,8 +477,10 @@
 4648982.notify6.com CNAME .
 4656576.notify6.com CNAME .
 4680526.notify6.com CNAME .
+4682394.notify6.com CNAME .
 4735242.notify6.com CNAME .
 6180.notify.optimizesrv.com CNAME .
+a.addisplaynetwork.com CNAME .
 a.etology.com CNAME .
 api.adnation.com CNAME .
 delivery.gettopple.com CNAME .

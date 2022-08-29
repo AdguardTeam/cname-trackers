@@ -4,6 +4,7 @@
 ; thirdparty.bnc.lt disguised trackers
 ;
 10008919.pomelo.fashion CNAME .
+10298198.arch.sofi.org CNAME .
 11959579.fun.joyrun.com CNAME .
 18052925.im.intermiles.com CNAME .
 19035924.automated.almosafer.com CNAME .
@@ -319,6 +320,7 @@ deeplinks.zumper.com CNAME .
 devtest.app-birdy.com CNAME .
 dl-stage.zola.com CNAME .
 dl.benefits.express-scripts.com CNAME .
+dl.correspondence.evernorth.com CNAME .
 dl.health-programs.express-scripts.com CNAME .
 dl.mail.express-scripts.com CNAME .
 dl.orders.express-scripts.com CNAME .
@@ -329,14 +331,17 @@ e.shop.app CNAME .
 e.synchronybank.com CNAME .
 em.getsimpleprints.com CNAME .
 em.touchtunes.com CNAME .
+email-clicks.vts.com CNAME .
 email-link.mg.surkus.com CNAME .
 email-listrak.branch.rocks CNAME .
 email-sailthru.branch.io CNAME .
 email-sendgrid-deep-linking.chewy.com CNAME .
 email-staging.goodrx.com CNAME .
 email-test.wirexapp.com CNAME .
+email.agfuse.com CNAME .
 email.app.theiconic.com.au CNAME .
 email.boxed.com CNAME .
+email.branch.ninomail.com CNAME .
 email.chope.co CNAME .
 email.clearscore.ca CNAME .
 email.clearscore.co.za CNAME .
@@ -354,6 +359,7 @@ email.everyonesocial.rubrik.com CNAME .
 email.everyonesocial.secureworks.com CNAME .
 email.everyonesocial.united.com CNAME .
 email.everyonesocial.unity.com CNAME .
+email.floatme.io CNAME .
 email.fretello.com CNAME .
 email.goodrx.com CNAME .
 email.headsuphealth.com CNAME .
@@ -424,6 +430,7 @@ link.announce.busuu.app CNAME .
 link.automated.almosafer.com CNAME .
 link.automated.tajawal.com CNAME .
 link.bambu.social CNAME .
+link.branchtest.domain.leanplum.net CNAME .
 link.carfax.com CNAME .
 link.cdl.freshly.com CNAME .
 link.cheerz.com CNAME .
@@ -615,6 +622,7 @@ test.customers.instacartemail.com CNAME .
 test.emails.animalplanet.com CNAME .
 test.emails.cookingchanneltv.com CNAME .
 test.emails.destinationamerica.com CNAME .
+test.emails.discovery.com CNAME .
 test.emails.foodnetwork.com CNAME .
 test.emails.hgtv.com CNAME .
 test.emails.investigationdiscovery.com CNAME .

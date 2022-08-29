@@ -72,6 +72,7 @@
 ||3304350.notifysrv.com^
 ||3304354.notify6.com^
 ||3304354.notifysrv.com^
+||3305622.notifysrv.com^
 ||3307240.notifysrv.com^
 ||3310026.notify6.com^
 ||3310238.notify6.com^
@@ -253,6 +254,7 @@
 ||3588593.notifysrv.com^
 ||3588597.notifysrv.com^
 ||3588599.notifysrv.com^
+||3589779.notify6.com^
 ||3590449.notify6.com^
 ||3591075.notify6.com^
 ||3591075.notifysrv.com^
@@ -317,6 +319,7 @@
 ||3739013.notify6.com^
 ||3740615.notifysrv.com^
 ||3745191.notifysrv.com^
+||3745197.notify6.com^
 ||3749331.notify6.com^
 ||3752469.notifysrv.com^
 ||3756889.notifysrv.com^
@@ -345,6 +348,7 @@
 ||3845271.notify6.com^
 ||3853331.notify6.com^
 ||3853333.notify6.com^
+||3854029.notify6.com^
 ||3869256.notifysrv.com^
 ||3869316.notifysrv.com^
 ||3869462.notify6.com^
@@ -473,8 +477,10 @@
 ||4648982.notify6.com^
 ||4656576.notify6.com^
 ||4680526.notify6.com^
+||4682394.notify6.com^
 ||4735242.notify6.com^
 ||6180.notify.optimizesrv.com^
+||a.addisplaynetwork.com^
 ||a.etology.com^
 ||api.adnation.com^
 ||delivery.gettopple.com^

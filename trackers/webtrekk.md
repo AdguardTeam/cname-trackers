@@ -72,6 +72,7 @@
     * 481977157370244.wt-eu02.net
     * 482221458407393.wt-eu02.net
     * 484879729086450.wt-eu02.net
+    * 495967780350059.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524633908170120.wt-eu02.net
     * 524656123914087.wt-eu02.net
@@ -99,6 +100,7 @@
     * 676623818960096.wt-eu02.net
     * 693380235006292.wt-eu02.net
     * 709114798683263.wt-eu02.net
+    * 724547646438858.wt-eu02.net
     * 728252369996325.wt-eu02.net
     * 729347163621496.wt-eu02.net
     * 730059294506327.wt-eu02.net
@@ -236,6 +238,7 @@
 | web.marketing.elbenwald.de | 481977157370244.wt-eu02.net |
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
+| web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
 | web.friends.ellaskitchen.co.uk | 524633908170120.wt-eu02.net |
@@ -267,6 +270,7 @@
 | web.pages.lloydspharmacy.com | 676623818960096.wt-eu02.net |
 | web.news.dixiefashion.com | 693380235006292.wt-eu02.net |
 | web.info.bonprix.es | 709114798683263.wt-eu02.net |
+| web.campaign.miriade.com | 724547646438858.wt-eu02.net |
 | data.campaign.toyscenter.it | 728252369996325.wt-eu02.net |
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
 | census.misterspex.at | 730059294506327.wt-eu02.net |

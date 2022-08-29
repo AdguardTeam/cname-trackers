@@ -7,7 +7,9 @@
 ||a8-itp.qoo10.jp^
 ||a8.01cloud.jp^
 ||a8.abemashopping.jp^
+||a8.aim-beauty-medicalclinic.com^
 ||a8.brandcosme.com^
+||a8.clubgets.com^
 ||a8.cocomeister.jp^
 ||a8.cotta.jp^
 ||a8.croaster-select.com^
@@ -38,6 +40,7 @@
 ||a8.lens-labo.com^
 ||a8.looop-denki.com^
 ||a8.makeshop.jp^
+||a8.mosh.jp^
 ||a8.n-pri.jp^
 ||a8.nanafu.tokyo^
 ||a8.nengahonpo.com^
@@ -107,6 +110,7 @@
 ||a8clk.francfranc.com^
 ||a8clk.fuku-chan.jp^
 ||a8clk.grirose.jp^
+||a8clk.hozon.sp-site.jp^
 ||a8clk.hurugicom.jp^
 ||a8clk.justy-consul.com^
 ||a8clk.kaitori-beerecords.jp^
@@ -129,9 +133,11 @@
 ||a8clk.muumuu-domain.com^
 ||a8clk.nenga-kazoku.com^
 ||a8clk.netowl.jp^
+||a8clk.okawa-god.jp^
 ||a8clk.onemile.jp^
 ||a8clk.order.lpio.jp^
 ||a8clk.osoujihonpo.com^
+||a8clk.patpat.com^
 ||a8clk.petitjob.jp^
 ||a8clk.photorevo.info^
 ||a8clk.point-land.net^
@@ -186,6 +192,7 @@
 ||a8cv.coopnet.or.jp^
 ||a8cv.danjiki-net.jp^
 ||a8cv.direct-teleshop.jp^
+||a8cv.dokoyorimo.com^
 ||a8cv.dotpro.tokyo^
 ||a8cv.downjacket.pro^
 ||a8cv.dreambeer.jp^
@@ -196,6 +203,7 @@
 ||a8cv.favorric.com^
 ||a8cv.first-spoon.com^
 ||a8cv.frecious.jp^
+||a8cv.grassbeaute.jp^
 ||a8cv.greed-island.ne.jp^
 ||a8cv.hotyoga-loive.com^
 ||a8cv.housingbazar.jp^
@@ -204,6 +212,7 @@
 ||a8cv.interlink.or.jp^
 ||a8cv.ishibashi.co.jp^
 ||a8cv.isslim.jp^
+||a8cv.jokyonext.jp^
 ||a8cv.jp-shop.kiwabi.com^
 ||a8cv.k-ikiiki.jp^
 ||a8cv.kstarselect.com^
@@ -225,6 +234,7 @@
 ||a8cv.presence.jp^
 ||a8cv.radi-cool.shop^
 ||a8cv.reservation.matching-photo.com^
+||a8cv.saitoma.com^
 ||a8cv.sakura-forest.com^
 ||a8cv.shibarinashi-wifi.jp^
 ||a8cv.shinro.info^
@@ -321,11 +331,13 @@
 ||cv.xn--bcktcvdzde3c.biz^
 ||cv.xn--zbs202g.com^
 ||cv.zephylrin-w.com^
+||cv1.stefany.co.jp^
 ||kaden.netoff.co.jp^
 ||shopping.cellpure.co.jp^
 ||sokutei.car2828.jp^
 ||sub.booksdream-mypage.com^
 ||summary.bookoffonline.co.jp^
 ||tracking.lead-plus.jp^
+||trck.frutafrutashop.com^
 ||trck.rework-s.com^
 ||trcka8net.irobot-jp.com^

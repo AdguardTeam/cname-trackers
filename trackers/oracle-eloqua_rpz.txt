@@ -10,6 +10,9 @@ info.lexisnexis.com.sg CNAME .
 t.goduke.com CNAME .
 t.goheels.com CNAME .
 t.gotigersgo.com CNAME .
+t.meangreensports.com CNAME .
+t.nevadawolfpack.com CNAME .
+t.nusports.com CNAME .
 ;
 ; p03e.hs.eloqua.com disguised trackers
 ;
@@ -201,7 +204,6 @@ engage.3m.com.kw CNAME .
 engage.3m.com.lv CNAME .
 engage.3m.com.mx CNAME .
 engage.3m.com.my CNAME .
-engage.3m.com.ni CNAME .
 engage.3m.com.pa CNAME .
 engage.3m.com.pe CNAME .
 engage.3m.com.pk CNAME .
@@ -397,7 +399,6 @@ tracking.att.com CNAME .
 ; p06h.hs.eloqua.com disguised trackers
 ;
 bancopostapremia.bancoposta.it CNAME .
-content.accelalpha.com CNAME .
 eloquatracking.iqvia.com CNAME .
 elqtracking.macegroup.com CNAME .
 ;

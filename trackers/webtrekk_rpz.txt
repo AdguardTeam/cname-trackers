@@ -202,6 +202,7 @@ wbtrkk.teufelaudio.nl CNAME .
 wbtrkk.teufelaudio.pl CNAME .
 web.autobodytoolmart.com CNAME .
 web.bankofscotland.de CNAME .
+web.campaign.miriade.com CNAME .
 web.collisionservices.com CNAME .
 web.comunicazioni.iol.it CNAME .
 web.diebayerische.de CNAME .
@@ -228,6 +229,7 @@ web.mapp.whiteaway.com CNAME .
 web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
 web.marketing.elbenwald.de CNAME .
+web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.creedfragrances.co.uk CNAME .
 web.news.dixiefashion.com CNAME .

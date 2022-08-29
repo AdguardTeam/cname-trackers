@@ -18,6 +18,7 @@ refer.discover.com CNAME .
 refer.divvybikes.com CNAME .
 refer.dna.ancestry.co.uk CNAME .
 refer.dna.ancestry.com CNAME .
+refer.framesdirect.com CNAME .
 refer.freshly.com CNAME .
 refer.hannaandersson.com CNAME .
 refer.harimari.com CNAME .
@@ -26,6 +27,7 @@ refer.julep.com CNAME .
 refer.luckyvitamin.com CNAME .
 refer.moo.com CNAME .
 refer.myplant.com CNAME .
+refer.nvidia.com CNAME .
 refer.ofx.com CNAME .
 refer.payroll.intuit.com CNAME .
 refer.personalcreations.com CNAME .

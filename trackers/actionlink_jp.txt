@@ -3,6 +3,7 @@
 !
 ! mm.actionlink.jp disguised trackers
 !
+||actionlk.ozie.co.jp^
 ||al.californiastreet.net^
 ||al.directishii.net^
 ||al.fulcloset.jp^

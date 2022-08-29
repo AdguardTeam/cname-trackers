@@ -4,6 +4,7 @@
 # thirdparty.bnc.lt disguised trackers
 #
 10008919.pomelo.fashion
+10298198.arch.sofi.org
 11959579.fun.joyrun.com
 18052925.im.intermiles.com
 19035924.automated.almosafer.com
@@ -319,6 +320,7 @@ deeplinks.zumper.com
 devtest.app-birdy.com
 dl-stage.zola.com
 dl.benefits.express-scripts.com
+dl.correspondence.evernorth.com
 dl.health-programs.express-scripts.com
 dl.mail.express-scripts.com
 dl.orders.express-scripts.com
@@ -329,14 +331,17 @@ e.shop.app
 e.synchronybank.com
 em.getsimpleprints.com
 em.touchtunes.com
+email-clicks.vts.com
 email-link.mg.surkus.com
 email-listrak.branch.rocks
 email-sailthru.branch.io
 email-sendgrid-deep-linking.chewy.com
 email-staging.goodrx.com
 email-test.wirexapp.com
+email.agfuse.com
 email.app.theiconic.com.au
 email.boxed.com
+email.branch.ninomail.com
 email.chope.co
 email.clearscore.ca
 email.clearscore.co.za
@@ -354,6 +359,7 @@ email.everyonesocial.rubrik.com
 email.everyonesocial.secureworks.com
 email.everyonesocial.united.com
 email.everyonesocial.unity.com
+email.floatme.io
 email.fretello.com
 email.goodrx.com
 email.headsuphealth.com
@@ -424,6 +430,7 @@ link.announce.busuu.app
 link.automated.almosafer.com
 link.automated.tajawal.com
 link.bambu.social
+link.branchtest.domain.leanplum.net
 link.carfax.com
 link.cdl.freshly.com
 link.cheerz.com
@@ -615,6 +622,7 @@ test.customers.instacartemail.com
 test.emails.animalplanet.com
 test.emails.cookingchanneltv.com
 test.emails.destinationamerica.com
+test.emails.discovery.com
 test.emails.foodnetwork.com
 test.emails.hgtv.com
 test.emails.investigationdiscovery.com

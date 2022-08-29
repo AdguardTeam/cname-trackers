@@ -183,6 +183,7 @@ metrics.mysynchrony.com CNAME .
 metrics.syf.com CNAME .
 metrics.synchronybusiness.com CNAME .
 mjt.lacoste.com CNAME .
+msft-frcmo.activate.ensighten.com CNAME .
 nexus.ensighten.tiaa.org CNAME .
 nexus.toyota.com CNAME .
 nexus.virginholidays.co.uk CNAME .

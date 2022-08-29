@@ -15,8 +15,6 @@ tk.airfrance.ch
 tk.airfrance.co.jp
 tk.airfrance.co.kr
 tk.airfrance.co.uk
-tk.airfrance.com
-tk.airfrance.com.tr
 tk.airfrance.cz
 tk.airfrance.de
 tk.airfrance.fr

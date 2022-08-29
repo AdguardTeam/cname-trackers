@@ -7,7 +7,6 @@
 ||epm.mailperformance.com^
 ||sms.gestion.cetelem.fr^
 ||t8.mailperformance.com^
-||tr.1mpc.temporium.fr^
 ||tr.3ou4xcb.cetelem.fr^
 ||tr.abo.cotemaison.fr^
 ||tr.acq-pjms.fr^
@@ -17,6 +16,7 @@
 ||tr.actu.rmcbfmplay.com^
 ||tr.actualites.01net.com^
 ||tr.actualites.bfmtv.com^
+||tr.actuentreprises.elior.fr^
 ||tr.actupremium.com^
 ||tr.actus-fdj.fr^
 ||tr.allopneus.com^
@@ -28,6 +28,7 @@
 ||tr.asp002q.espmp-aufr.net^
 ||tr.asp1.espmp-agfr.net^
 ||tr.asp103z.espmp-nifr.net^
+||tr.asp104p.espmp-aufr.net^
 ||tr.asp106d.espmp-cufr.net^
 ||tr.asp106g.espmp-nifr.net^
 ||tr.asp10ar.espmp-cufr.net^
@@ -65,6 +66,7 @@
 ||tr.cartegie.fr^
 ||tr.cashback.floa.fr^
 ||tr.cb4x.floa.fr^
+||tr.christmas.petit-bateau.com^
 ||tr.cifa.espmp-nifr.net^
 ||tr.cifa02k.espmp-aufr.net^
 ||tr.cj.bordeaux-metropole.fr^
@@ -156,6 +158,7 @@
 ||tr.email.toute-la-franchise.com^
 ||tr.email.virtual-expo.com^
 ||tr.email.voyagesleclerc.com^
+||tr.emailatia.fr^
 ||tr.emailing.canalplus-afrique.com^
 ||tr.emailing.canalplus-caledonie.com^
 ||tr.emailing.canalplus-caraibes.com^
@@ -218,12 +221,14 @@
 ||tr.info.easyviajar.com^
 ||tr.info.easyvoyage.co.uk^
 ||tr.info.easyvoyage.com^
+||tr.info.ecole-de-savignac.com^
 ||tr.info.harmonie-mutuelle.fr^
 ||tr.info.lacentrale.fr^
 ||tr.info.linxea.com^
 ||tr.info.mango-mobilites.fr^
 ||tr.info.mavoiturecash.fr^
 ||tr.info.maxis-gbn.com^
+||tr.info.mcgarrybowen.com^
 ||tr.info.mdbp.fr^
 ||tr.info.mobibam.com^
 ||tr.info.offres-cartegie.fr^
@@ -254,6 +259,7 @@
 ||tr.jesuis.enformedelotus.com^
 ||tr.jevoteenligne.fr^
 ||tr.jkyg.espmp-cufr.net^
+||tr.klse.espmp-agfr.net^
 ||tr.kommunikation.younited-credit.com^
 ||tr.kontakt.younited-credit.com^
 ||tr.kpyn.espmp-cufr.net^
@@ -280,6 +286,7 @@
 ||tr.mailing.lvmhappening.com^
 ||tr.mailing.r2e-humanis.fr^
 ||tr.mailmp.macif.net^
+||tr.mailperformance.fr^
 ||tr.maisonsdumonde.com^
 ||tr.marg02n.espmp-agfr.net^
 ||tr.marketing.younited-credit.com^
@@ -294,6 +301,7 @@
 ||tr.mhist.moethennessy.com^
 ||tr.mijn-superaanbieding.be^
 ||tr.mijnaanbieding.renowizz.be^
+||tr.mika.espmp-nifr.net^
 ||tr.mm.infopro-digital.com^
 ||tr.mnoc.espmp-nifr.net^
 ||tr.moja-wycena.pl^
@@ -381,6 +389,7 @@
 ||tr.news.ouestnormandie.cci.fr^
 ||tr.news.parisinfo.com^
 ||tr.news.perfectstay.com^
+||tr.news.receiveyourquote.co.uk^
 ||tr.news.seine-estuaire.cci.fr^
 ||tr.news.smartdeals-transavia-fr.com^
 ||tr.news.smartdealstransavia-fr.com^
@@ -413,6 +422,7 @@
 ||tr.newsletter.erenumerique.fr^
 ||tr.newsletter.huilesdolive.fr^
 ||tr.newsletter.jowae.com^
+||tr.newsletter.lafabriqueaviva.fr^
 ||tr.newsletter.leocare.eu^
 ||tr.newsletter.lierac.com^
 ||tr.newsletter.location.boulanger.com^
@@ -424,6 +434,7 @@
 ||tr.newsletter.roger-gallet.com^
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletters.odalys-vacances.com^
+||tr.newsletters.youmeetings.com^
 ||tr.newsmarketing.allopneus.com^
 ||tr.nl.2wls.net^
 ||tr.nl.mondo-shop.fr^
@@ -496,6 +507,7 @@
 ||tr.scienceshumaines.pro^
 ||tr.secteurentreprises.harmonie-mutuelle.fr^
 ||tr.service-mail.carrefour.fr^
+||tr.serviceclient.bf-depannage.fr^
 ||tr.serviceclient.gazservicerapide.fr^
 ||tr.serviceclient.somgaz.fr^
 ||tr.serviceclient.younited-coach.com^
@@ -524,9 +536,11 @@
 ||tr.urfk02v.espmp-cufr.net^
 ||tr.urfk03u.espmp-nifr.net^
 ||tr.urfk057.espmp-aufr.net^
+||tr.urfk05l.espmp-nifr.net^
 ||tr.urfk06h.espmp-nifr.net^
 ||tr.urfk06y.espmp-nifr.net^
 ||tr.urfk07s.espmp-nifr.net^
+||tr.videofutur.fr^
 ||tr.ville.bordeaux.fr^
 ||tr.voeux-wishes.ipsilon-ip.com^
 ||tr.voixduclient.harmonie-mutuelle.fr^

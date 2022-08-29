@@ -7,7 +7,6 @@ emailing.casden.banquepopulaire.fr CNAME .
 epm.mailperformance.com CNAME .
 sms.gestion.cetelem.fr CNAME .
 t8.mailperformance.com CNAME .
-tr.1mpc.temporium.fr CNAME .
 tr.3ou4xcb.cetelem.fr CNAME .
 tr.abo.cotemaison.fr CNAME .
 tr.acq-pjms.fr CNAME .
@@ -17,6 +16,7 @@ tr.actu.bricodepot.com CNAME .
 tr.actu.rmcbfmplay.com CNAME .
 tr.actualites.01net.com CNAME .
 tr.actualites.bfmtv.com CNAME .
+tr.actuentreprises.elior.fr CNAME .
 tr.actupremium.com CNAME .
 tr.actus-fdj.fr CNAME .
 tr.allopneus.com CNAME .
@@ -28,6 +28,7 @@ tr.apou032.espmp-agfr.net CNAME .
 tr.asp002q.espmp-aufr.net CNAME .
 tr.asp1.espmp-agfr.net CNAME .
 tr.asp103z.espmp-nifr.net CNAME .
+tr.asp104p.espmp-aufr.net CNAME .
 tr.asp106d.espmp-cufr.net CNAME .
 tr.asp106g.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
@@ -65,6 +66,7 @@ tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
 tr.cb4x.floa.fr CNAME .
+tr.christmas.petit-bateau.com CNAME .
 tr.cifa.espmp-nifr.net CNAME .
 tr.cifa02k.espmp-aufr.net CNAME .
 tr.cj.bordeaux-metropole.fr CNAME .
@@ -156,6 +158,7 @@ tr.email.thelem-assurances.fr CNAME .
 tr.email.toute-la-franchise.com CNAME .
 tr.email.virtual-expo.com CNAME .
 tr.email.voyagesleclerc.com CNAME .
+tr.emailatia.fr CNAME .
 tr.emailing.canalplus-afrique.com CNAME .
 tr.emailing.canalplus-caledonie.com CNAME .
 tr.emailing.canalplus-caraibes.com CNAME .
@@ -218,12 +221,14 @@ tr.info.easyviaggio.com CNAME .
 tr.info.easyviajar.com CNAME .
 tr.info.easyvoyage.co.uk CNAME .
 tr.info.easyvoyage.com CNAME .
+tr.info.ecole-de-savignac.com CNAME .
 tr.info.harmonie-mutuelle.fr CNAME .
 tr.info.lacentrale.fr CNAME .
 tr.info.linxea.com CNAME .
 tr.info.mango-mobilites.fr CNAME .
 tr.info.mavoiturecash.fr CNAME .
 tr.info.maxis-gbn.com CNAME .
+tr.info.mcgarrybowen.com CNAME .
 tr.info.mdbp.fr CNAME .
 tr.info.mobibam.com CNAME .
 tr.info.offres-cartegie.fr CNAME .
@@ -254,6 +259,7 @@ tr.italia.plimsoll.it CNAME .
 tr.jesuis.enformedelotus.com CNAME .
 tr.jevoteenligne.fr CNAME .
 tr.jkyg.espmp-cufr.net CNAME .
+tr.klse.espmp-agfr.net CNAME .
 tr.kommunikation.younited-credit.com CNAME .
 tr.kontakt.younited-credit.com CNAME .
 tr.kpyn.espmp-cufr.net CNAME .
@@ -280,6 +286,7 @@ tr.mailing.achatpublic.com CNAME .
 tr.mailing.lvmhappening.com CNAME .
 tr.mailing.r2e-humanis.fr CNAME .
 tr.mailmp.macif.net CNAME .
+tr.mailperformance.fr CNAME .
 tr.maisonsdumonde.com CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.younited-credit.com CNAME .
@@ -294,6 +301,7 @@ tr.mh-connect.moethennessy.com CNAME .
 tr.mhist.moethennessy.com CNAME .
 tr.mijn-superaanbieding.be CNAME .
 tr.mijnaanbieding.renowizz.be CNAME .
+tr.mika.espmp-nifr.net CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
 tr.moja-wycena.pl CNAME .
@@ -381,6 +389,7 @@ tr.news.onetoonemba.com CNAME .
 tr.news.ouestnormandie.cci.fr CNAME .
 tr.news.parisinfo.com CNAME .
 tr.news.perfectstay.com CNAME .
+tr.news.receiveyourquote.co.uk CNAME .
 tr.news.seine-estuaire.cci.fr CNAME .
 tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
@@ -413,6 +422,7 @@ tr.newsletter.capdecision.fr CNAME .
 tr.newsletter.erenumerique.fr CNAME .
 tr.newsletter.huilesdolive.fr CNAME .
 tr.newsletter.jowae.com CNAME .
+tr.newsletter.lafabriqueaviva.fr CNAME .
 tr.newsletter.leocare.eu CNAME .
 tr.newsletter.lierac.com CNAME .
 tr.newsletter.location.boulanger.com CNAME .
@@ -424,6 +434,7 @@ tr.newsletter.plurielmedia.com CNAME .
 tr.newsletter.roger-gallet.com CNAME .
 tr.newsletter.younited-credit.com CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
+tr.newsletters.youmeetings.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .
 tr.nl.2wls.net CNAME .
 tr.nl.mondo-shop.fr CNAME .
@@ -496,6 +507,7 @@ tr.scienceshumaines.info CNAME .
 tr.scienceshumaines.pro CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
 tr.service-mail.carrefour.fr CNAME .
+tr.serviceclient.bf-depannage.fr CNAME .
 tr.serviceclient.gazservicerapide.fr CNAME .
 tr.serviceclient.somgaz.fr CNAME .
 tr.serviceclient.younited-coach.com CNAME .
@@ -524,9 +536,11 @@ tr.uk.icicibank.com CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .
 tr.urfk057.espmp-aufr.net CNAME .
+tr.urfk05l.espmp-nifr.net CNAME .
 tr.urfk06h.espmp-nifr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
 tr.urfk07s.espmp-nifr.net CNAME .
+tr.videofutur.fr CNAME .
 tr.ville.bordeaux.fr CNAME .
 tr.voeux-wishes.ipsilon-ip.com CNAME .
 tr.voixduclient.harmonie-mutuelle.fr CNAME .

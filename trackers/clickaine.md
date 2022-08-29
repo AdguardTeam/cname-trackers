@@ -10,12 +10,14 @@
 | ---- | ---- |
 | a3.hotpornfile.org | api.clickaine.com |
 | ad.arabsex1.com | api.clickaine.com |
+| ad1.xero.porn | api.clickaine.com |
 | api.applogy.com | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
 | api.willalland.info | api.clickaine.com |
 | api2.clickaine.com | api.clickaine.com |
 | app.rtnews.pro | api.clickaine.com |
 | app.willalland.info | api.clickaine.com |
+| c2n.pornez.net | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
 | c4n.ijerk.club | api.clickaine.com |
 | c4n.mypornovideos.com | api.clickaine.com |
@@ -33,7 +35,6 @@
 | cc.sex-stories-xxx.com | api.clickaine.com |
 | cc.sexgeschichten-klub.com | api.clickaine.com |
 | cc.sexgeschichten-kostenlos.com | api.clickaine.com |
-| cc.sexgeschichten-xxx.com | api.clickaine.com |
 | cc.sexstories-all.com | api.clickaine.com |
 | cc.sexstories-hot.com | api.clickaine.com |
 | cc.sexverhalen-gratis.com | api.clickaine.com |
@@ -60,6 +61,7 @@
 | hruk.prikupok.com | api.clickaine.com |
 | hruk.prikupok.icu | api.clickaine.com |
 | icn.brandnewapp.pro | api.clickaine.com |
+| more.alotporn.com | api.clickaine.com |
 | ps1.reallifecam.to | api.clickaine.com |
 | ps2.camcaps.to | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |

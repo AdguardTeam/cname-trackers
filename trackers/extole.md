@@ -13,6 +13,7 @@
     * discover.extole.com
     * divvybikes.extole.com
     * ebags.extole.com
+    * framesdirect.extole.com
     * freshly.extole.com
     * hannaandersson.extole.com
     * harimari.extole.com
@@ -27,6 +28,7 @@
     * luckyvitamin.extole.com
     * moo.extole.com
     * myplant.extole.com
+    * nvidia-ssl.extole.com
     * ozforex-au.extole.com
     * personalcreations-ssl.extole.com
     * purchasingpower.extole.com
@@ -67,6 +69,7 @@
 | refer.discover.com | discover.extole.com |
 | refer.divvybikes.com | divvybikes.extole.com |
 | friend.ebags.com | ebags.extole.com |
+| refer.framesdirect.com | framesdirect.extole.com |
 | refer.freshly.com | freshly.extole.com |
 | refer.hannaandersson.com | hannaandersson.extole.com |
 | refer.harimari.com | harimari.extole.com |
@@ -82,6 +85,7 @@
 | refer.aol.com | media-router-aol1.prod.g03.yahoodns.net |
 | refer.moo.com | moo.extole.com |
 | refer.myplant.com | myplant.extole.com |
+| refer.nvidia.com | nvidia-ssl.extole.com |
 | refer.ofx.com | ozforex-au.extole.com |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
 | refer.purchasingpower.com | purchasingpower.extole.com |

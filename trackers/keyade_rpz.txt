@@ -14,7 +14,7 @@ k.hofmann.es CNAME .
 k.laredoute.es CNAME .
 k.laredoute.pt CNAME .
 k.laredoute.ru CNAME .
-k.rueducommerce.fr CNAME .
+k.voyageursdumonde.ca CNAME .
 k.voyageursdumonde.ch CNAME .
 k.voyageursdumonde.fr CNAME .
 ka.ilius.net CNAME .

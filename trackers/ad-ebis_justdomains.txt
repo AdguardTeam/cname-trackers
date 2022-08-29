@@ -37,6 +37,7 @@ adebis.fenet.jp
 adebis.ferret-one.com
 adebis.furisode-ichikura.jp
 adebis.gfs-official.com
+adebis.gogin.co.jp
 adebis.harutaka.jp
 adebis.hotstaff.co.jp
 adebis.irobot-jp.com
@@ -114,6 +115,7 @@ cs0010sbeda.theory-clinic.com
 cs0010sbeda.theory-diet.com
 cs0010sbeda.theory-kumatarumi.com
 cs0113sbeda.convenient-smooth.net
+cs1863sbeda.glaucoma-arrest.net
 cvs.kireimo.jp
 d-kint.d-kintetsu.co.jp
 digital.anicom-sompo.co.jp

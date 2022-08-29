@@ -6,11 +6,16 @@
     * p03a.t.eloqua.com
     * p03e.t.eloqua.com
     * p03f.t.eloqua.com
+    * p03i.t.eloqua.com
     * p03k.t.eloqua.com
     * p06k.t.eloqua.com
     * s1107655.t.eloqua.com
+    * s12580078.t.eloqua.com
     * s16863.t.eloqua.com
     * s1701209.t.eloqua.com
+    * s196666.t.eloqua.com
+    * s3490866.t.eloqua.com
+    * s72951169.t.eloqua.com
     * s795651218.t.eloqua.com
 
 ### Rarely active trackers
@@ -217,6 +222,7 @@
 | business.samsungusa.com | p03e.hs.eloqua.com |
 | corporate.mattamyhomes.com | p03e.hs.eloqua.com |
 | t.gotigersgo.com | p03e.t.eloqua.com |
+| t.gotigersgo.com | p03e.t.eloqua.com |
 | app.arizonawildcats.com | p03f.hs.eloqua.com |
 | app.georgiadogs.com | p03f.hs.eloqua.com |
 | app.hokiesports.com | p03f.hs.eloqua.com |
@@ -232,7 +238,10 @@
 | tracking.alphacard.com | p03f.hs.eloqua.com |
 | tracking.barcodesinc.com | p03f.hs.eloqua.com |
 | info.lexisnexis.com.my | p03f.t.eloqua.com |
+| info.lexisnexis.com.my | p03f.t.eloqua.com |
 | info.lexisnexis.com.sg | p03f.t.eloqua.com |
+| t.meangreensports.com | p03f.t.eloqua.com |
+| t.nusports.com | p03f.t.eloqua.com |
 | app.12thman.com | p03g.hs.eloqua.com |
 | app.seminoles.com | p03g.hs.eloqua.com |
 | app.uabsports.com | p03g.hs.eloqua.com |
@@ -270,6 +279,7 @@
 | elq.mouser.sk | p03i.hs.eloqua.com |
 | track.info.prweekus.com | p03i.hs.eloqua.com |
 | track.quad.com | p03i.hs.eloqua.com |
+| t.nevadawolfpack.com | p03i.t.eloqua.com |
 | app.uclabruins.com | p03j.hs.eloqua.com |
 | app.xlcenter.com | p03j.hs.eloqua.com |
 | elqapp.spectrum.com | p03j.hs.eloqua.com |
@@ -352,7 +362,6 @@
 | engage.3m.com.lv | p04i.hs.eloqua.com |
 | engage.3m.com.mx | p04i.hs.eloqua.com |
 | engage.3m.com.my | p04i.hs.eloqua.com |
-| engage.3m.com.ni | p04i.hs.eloqua.com |
 | engage.3m.com.pa | p04i.hs.eloqua.com |
 | engage.3m.com.pe | p04i.hs.eloqua.com |
 | engage.3m.com.pk | p04i.hs.eloqua.com |
@@ -448,7 +457,6 @@
 | track.postkodlotteriet.se | p06g.hs.eloqua.com |
 | tracking.atea.fi | p06g.hs.eloqua.com |
 | bancopostapremia.bancoposta.it | p06h.hs.eloqua.com |
-| content.accelalpha.com | p06h.hs.eloqua.com |
 | eloquatracking.iqvia.com | p06h.hs.eloqua.com |
 | elqtracking.macegroup.com | p06h.hs.eloqua.com |
 | campaign.kpmg.co.il | p06i.hs.eloqua.com |
@@ -477,6 +485,7 @@
 | eloqua-tracking.unity.com | p06k.t.eloqua.com |
 | eloqua-tracking.unity.com | p06k.t.eloqua.com |
 | eloqua-tracking.unity3d.com | p06k.t.eloqua.com |
+| eloqua-tracking.unity3d.com | p06k.t.eloqua.com |
 | bigdata.aspiresys.com | p07.hs.eloqua.com |
 | campaign.hach.com.cn | p07.hs.eloqua.com |
 | campaign.item-china.cn | p07.hs.eloqua.com |
@@ -498,6 +507,11 @@
 | tracking.apac.business.samsung.com | p07j.hs.eloqua.com |
 | contact.kikusuiamerica.com | p07k.hs.eloqua.com |
 | t.goheels.com | s1107655.t.eloqua.com |
+| t.nusports.com | s12580078.t.eloqua.com |
 | t.goduke.com | s16863.t.eloqua.com |
 | t.gotigersgo.com | s1701209.t.eloqua.com |
+| t.nevadawolfpack.com | s196666.t.eloqua.com |
+| t.meangreensports.com | s3490866.t.eloqua.com |
+| info.lexisnexis.com.my | s72951169.t.eloqua.com |
 | eloqua-tracking.unity.com | s795651218.t.eloqua.com |
+| eloqua-tracking.unity3d.com | s795651218.t.eloqua.com |
