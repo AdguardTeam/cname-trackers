@@ -9,10 +9,10 @@
 123.manga1001.top CNAME .
 2022.hizetnet.xyz CNAME .
 2bx0h7o3zw.nelasleaks.com CNAME .
-4rdjebtm2i.nelasleaks.com CNAME .
 58745.clicknplay.to CNAME .
 69741211.clicknplay.to CNAME .
 71213zhazha.com CNAME .
+7taobao.mom CNAME .
 893242.milfunsource.com CNAME .
 8lang.lol CNAME .
 8sptzne.mom CNAME .
@@ -271,6 +271,7 @@ mydomainbest.com CNAME .
 nav.srcdn.xyz CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
+news.customapi.top CNAME .
 nodawzua.mom CNAME .
 nonekvoi.skin CNAME .
 notads.111javguru.xyz CNAME .
@@ -300,6 +301,7 @@ pep.s2online.xyz CNAME .
 pepi.haillo.xyz CNAME .
 pepipost.autos CNAME .
 pics.movporvid.com CNAME .
+pihu.xxxpornhd.pro CNAME .
 plsdonblock.supjav.buzz CNAME .
 plutoclean.com CNAME .
 pop.dtoo1.space CNAME .
@@ -321,6 +323,7 @@ s.freeporncave.com CNAME .
 s.remonti.org CNAME .
 s.speedostream.com CNAME .
 s2.everydaygayporn.com CNAME .
+saituo.mom CNAME .
 santafe.lol CNAME .
 sape.veriplan.xyz CNAME .
 sas.arabshentai.com CNAME .
@@ -333,6 +336,7 @@ sdg.fwtrck.com CNAME .
 search.cdn1.pro CNAME .
 sg.xclick24.com CNAME .
 shemale.house CNAME .
+shemale.team CNAME .
 sin.chjnmi.xyz CNAME .
 slave.kbjfree.com CNAME .
 solutions.playernetca.top CNAME .
@@ -349,6 +353,7 @@ stbvip.co CNAME .
 stbvip.mom CNAME .
 stuff.wikiporno.org CNAME .
 subtitle.mom CNAME .
+sup.srvtax.com CNAME .
 support.streamjav.top CNAME .
 szj.boombay.xyz CNAME .
 t.rklmcdn.com CNAME .
@@ -396,7 +401,7 @@ www.ucdn.website CNAME .
 www.upcdn.site CNAME .
 www.vkcdnservice.com CNAME .
 www.vspro.cc CNAME .
-www.youtubem.shop CNAME .
+www.w00t.us CNAME .
 www4.hentaigamecg.com CNAME .
 www6.freeanimesource.com CNAME .
 www6.hentai-zone.com CNAME .

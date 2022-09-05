@@ -33,5 +33,6 @@
 ||cdn.spnut.com^
 ||cdn.srxy.xyz^
 ||cdn.wwfx.xyz^
+||cdn.xawlop.com^
 ||cdn.yopard.com^
 ||cdn.zxclan.com^

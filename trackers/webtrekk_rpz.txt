@@ -8,6 +8,7 @@ image.kfw-entwicklungsbank.de CNAME .
 image.kfw.de CNAME .
 images1.test.de CNAME .
 mon.ingservices.nl CNAME .
+ot.obi.com CNAME .
 pix.eads.com CNAME .
 pix.telekom-dienste.de CNAME .
 pix.telekom.de CNAME .
@@ -203,6 +204,7 @@ wbtrkk.teufelaudio.pl CNAME .
 web.autobodytoolmart.com CNAME .
 web.bankofscotland.de CNAME .
 web.campaign.miriade.com CNAME .
+web.campaign.v73.it CNAME .
 web.collisionservices.com CNAME .
 web.comunicazioni.iol.it CNAME .
 web.diebayerische.de CNAME .
@@ -247,16 +249,20 @@ web.sensilab.de CNAME .
 web.sensilab.ie CNAME .
 web.sensilab.se CNAME .
 web.sensilab.si CNAME .
+web.sensilab.sk CNAME .
 web.sidsavage.com CNAME .
+web.slimjoy.com CNAME .
 web.slimjoy.dk CNAME .
 web.slimjoy.ro CNAME .
 web.slimjoy.se CNAME .
 web.slimjoy.sk CNAME .
+web.solesource.com CNAME .
 web.tummy-tox.com CNAME .
 web.tummytox.pt CNAME .
 web.tummytox.sk CNAME .
 web.x.ilpost.it CNAME .
 webmet.creditreform.de CNAME .
+website-usage.knorr-bremse.com CNAME .
 webt.eleonto.com CNAME .
 webt.eu.teac-audio.com CNAME .
 webt.pure.com CNAME .
@@ -284,3 +290,7 @@ wttd.madeleine.com CNAME .
 wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
+;
+; wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com disguised trackers
+;
+web.marketing.jellybelly.com CNAME .

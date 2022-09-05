@@ -10,7 +10,6 @@
     * p03k.t.eloqua.com
     * p06k.t.eloqua.com
     * s1107655.t.eloqua.com
-    * s12580078.t.eloqua.com
     * s16863.t.eloqua.com
     * s1701209.t.eloqua.com
     * s196666.t.eloqua.com
@@ -237,9 +236,11 @@
 | eloqua.newenergyupdate.com | p03f.hs.eloqua.com |
 | tracking.alphacard.com | p03f.hs.eloqua.com |
 | tracking.barcodesinc.com | p03f.hs.eloqua.com |
+| info.lexisnexis.co.in | p03f.t.eloqua.com |
 | info.lexisnexis.com.my | p03f.t.eloqua.com |
 | info.lexisnexis.com.my | p03f.t.eloqua.com |
 | info.lexisnexis.com.sg | p03f.t.eloqua.com |
+| t.meangreensports.com | p03f.t.eloqua.com |
 | t.meangreensports.com | p03f.t.eloqua.com |
 | t.nusports.com | p03f.t.eloqua.com |
 | app.12thman.com | p03g.hs.eloqua.com |
@@ -280,6 +281,7 @@
 | track.info.prweekus.com | p03i.hs.eloqua.com |
 | track.quad.com | p03i.hs.eloqua.com |
 | t.nevadawolfpack.com | p03i.t.eloqua.com |
+| t.nevadawolfpack.com | p03i.t.eloqua.com |
 | app.uclabruins.com | p03j.hs.eloqua.com |
 | app.xlcenter.com | p03j.hs.eloqua.com |
 | elqapp.spectrum.com | p03j.hs.eloqua.com |
@@ -294,6 +296,7 @@
 | elqtracking.capella.edu | p03k.hs.eloqua.com |
 | elqtracking.strayer.edu | p03k.hs.eloqua.com |
 | t.goheels.com | p03k.t.eloqua.com |
+| t.goheels.com | p03k.t.eloqua.com |
 | agentcomm.mercuryinsurance.com | p04.hs.eloqua.com |
 | eloqua.liberty.edu | p04.hs.eloqua.com |
 | elq.irobot.com | p04.hs.eloqua.com |
@@ -303,7 +306,6 @@
 | tracking-explore.agilent.com | p04a.hs.eloqua.com |
 | tracking.aapa.org | p04a.hs.eloqua.com |
 | catracking.finning.com | p04b.hs.eloqua.com |
-| comunicaciones.daviviendacorredores.com | p04b.hs.eloqua.com |
 | connect.acams.org | p04b.hs.eloqua.com |
 | connect.healthinfo.stdom.com | p04b.hs.eloqua.com |
 | connect.info.halifaxhealthnews.org | p04b.hs.eloqua.com |
@@ -507,11 +509,11 @@
 | tracking.apac.business.samsung.com | p07j.hs.eloqua.com |
 | contact.kikusuiamerica.com | p07k.hs.eloqua.com |
 | t.goheels.com | s1107655.t.eloqua.com |
-| t.nusports.com | s12580078.t.eloqua.com |
 | t.goduke.com | s16863.t.eloqua.com |
 | t.gotigersgo.com | s1701209.t.eloqua.com |
 | t.nevadawolfpack.com | s196666.t.eloqua.com |
 | t.meangreensports.com | s3490866.t.eloqua.com |
+| info.lexisnexis.co.in | s72951169.t.eloqua.com |
 | info.lexisnexis.com.my | s72951169.t.eloqua.com |
 | eloqua-tracking.unity.com | s795651218.t.eloqua.com |
 | eloqua-tracking.unity3d.com | s795651218.t.eloqua.com |

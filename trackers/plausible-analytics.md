@@ -39,6 +39,7 @@
 | analytics.givealittle.co | custom.plausible.io |
 | analytics.hiome.com | custom.plausible.io |
 | analytics.kerns.co | custom.plausible.io |
+| analytics.krieselreihe.com | custom.plausible.io |
 | analytics.kukla.club | custom.plausible.io |
 | analytics.lifestyledemocracy.com | custom.plausible.io |
 | analytics.lunge.de | custom.plausible.io |
@@ -367,6 +368,7 @@
 | stats.chargemybike.de | custom.plausible.io |
 | stats.chomp.haus | custom.plausible.io |
 | stats.chronoslabs.net | custom.plausible.io |
+| stats.cinqsecondes.fr | custom.plausible.io |
 | stats.citizenos.com | custom.plausible.io |
 | stats.cleverdiabetic.com | custom.plausible.io |
 | stats.cloud-backup-for-podio.com | custom.plausible.io |
@@ -503,6 +505,7 @@
 | stats.literacysomerset.org | custom.plausible.io |
 | stats.livingedge.ngo | custom.plausible.io |
 | stats.lord.io | custom.plausible.io |
+| stats.lstfnd.de | custom.plausible.io |
 | stats.ltdhunt.com | custom.plausible.io |
 | stats.luieremmer.net | custom.plausible.io |
 | stats.lumen-app.com | custom.plausible.io |
@@ -529,6 +532,8 @@
 | stats.mysideproject.rocks | custom.plausible.io |
 | stats.nddmed.com | custom.plausible.io |
 | stats.nerdbusiness.com | custom.plausible.io |
+| stats.nicolabricot.com | custom.plausible.io |
+| stats.nrcaknights.com | custom.plausible.io |
 | stats.nytecomics.com | custom.plausible.io |
 | stats.onepagelove.com | custom.plausible.io |
 | stats.ordinarypuzzles.com | custom.plausible.io |
@@ -562,8 +567,11 @@
 | stats.reisemobil.pro | custom.plausible.io |
 | stats.remotebear.io | custom.plausible.io |
 | stats.revit-content.com | custom.plausible.io |
+| stats.rocketvalidator.com | custom.plausible.io |
 | stats.screen-play.app | custom.plausible.io |
+| stats.screenwavemedia.com | custom.plausible.io |
 | stats.sebastiangale.ca | custom.plausible.io |
+| stats.servicedesignjobs.com | custom.plausible.io |
 | stats.shareup.app | custom.plausible.io |
 | stats.shoutout.so | custom.plausible.io |
 | stats.sirdata.com | custom.plausible.io |

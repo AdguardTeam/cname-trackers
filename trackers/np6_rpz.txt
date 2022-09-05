@@ -65,6 +65,7 @@ tr.cart02d.espmp-agfr.net CNAME .
 tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
+tr.cb4x.banque-casino.fr CNAME .
 tr.cb4x.floa.fr CNAME .
 tr.christmas.petit-bateau.com CNAME .
 tr.cifa.espmp-nifr.net CNAME .
@@ -159,6 +160,7 @@ tr.email.toute-la-franchise.com CNAME .
 tr.email.virtual-expo.com CNAME .
 tr.email.voyagesleclerc.com CNAME .
 tr.emailatia.fr CNAME .
+tr.emailing.canalbox.com CNAME .
 tr.emailing.canalplus-afrique.com CNAME .
 tr.emailing.canalplus-caledonie.com CNAME .
 tr.emailing.canalplus-caraibes.com CNAME .
@@ -314,6 +316,7 @@ tr.mydevisentreprise.com CNAME .
 tr.n.ferrero.fr CNAME .
 tr.n.info.cdgp.fr CNAME .
 tr.n.info.sygmabanque.fr CNAME .
+tr.n.kinder.fr CNAME .
 tr.nespresso.com CNAME .
 tr.new.offres-cartegie.fr CNAME .
 tr.news-chocolat.com CNAME .
@@ -373,6 +376,7 @@ tr.news.la-meilleure-voyance.com CNAME .
 tr.news.labelleadresse.com CNAME .
 tr.news.lacollection-airfrance.be CNAME .
 tr.news.lacollection-airfrance.fr CNAME .
+tr.news.lacollectionairfrance.be CNAME .
 tr.news.lacollectionairfrance.fr CNAME .
 tr.news.leclubtravel.fr CNAME .
 tr.news.lentreprise.lexpress.fr CNAME .
@@ -437,6 +441,7 @@ tr.newsletters.odalys-vacances.com CNAME .
 tr.newsletters.youmeetings.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .
 tr.nl.2wls.net CNAME .
+tr.nl.ardennes.cci.fr CNAME .
 tr.nl.mondo-shop.fr CNAME .
 tr.nl.services-sncf.com CNAME .
 tr.nl2.sncf-fidelite.com CNAME .
@@ -446,6 +451,7 @@ tr.notification-gdpr.cafineo.fr CNAME .
 tr.notification-gdpr.cofinoga.fr CNAME .
 tr.notification-gdpr.domofinance.fr CNAME .
 tr.notification-gdpr.loisirs-finance.fr CNAME .
+tr.notification-gdpr.personal-finance-location.bnpparibas CNAME .
 tr.notification-gdpr.sygmabybnpparibas-pf.com CNAME .
 tr.notification.banque-revillon.fr CNAME .
 tr.notification.cafineo.fr CNAME .
@@ -493,6 +499,7 @@ tr.ra.cofinoga.fr CNAME .
 tr.ratm.espmp-agfr.net CNAME .
 tr.raym.espmp-agfr.net CNAME .
 tr.read.glose.com CNAME .
+tr.recouvrement.finrec.com CNAME .
 tr.recouvrement.seeric.com CNAME .
 tr.recouvrement.younited-credit.com CNAME .
 tr.redaction.essentiel-sante-magazine.fr CNAME .
@@ -508,6 +515,7 @@ tr.scienceshumaines.pro CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
 tr.service-mail.carrefour.fr CNAME .
 tr.serviceclient.bf-depannage.fr CNAME .
+tr.serviceclient.depanchauffageservice.fr CNAME .
 tr.serviceclient.gazservicerapide.fr CNAME .
 tr.serviceclient.somgaz.fr CNAME .
 tr.serviceclient.younited-coach.com CNAME .
@@ -532,6 +540,7 @@ tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .
 tr.tonerservices.fr CNAME .
 tr.trafficnews.lyria.com CNAME .
+tr.ujsv.espmp-agfr.net CNAME .
 tr.uk.icicibank.com CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .

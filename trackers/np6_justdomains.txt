@@ -65,6 +65,7 @@ tr.cart02d.espmp-agfr.net
 tr.carte.lcl.fr
 tr.cartegie.fr
 tr.cashback.floa.fr
+tr.cb4x.banque-casino.fr
 tr.cb4x.floa.fr
 tr.christmas.petit-bateau.com
 tr.cifa.espmp-nifr.net
@@ -159,6 +160,7 @@ tr.email.toute-la-franchise.com
 tr.email.virtual-expo.com
 tr.email.voyagesleclerc.com
 tr.emailatia.fr
+tr.emailing.canalbox.com
 tr.emailing.canalplus-afrique.com
 tr.emailing.canalplus-caledonie.com
 tr.emailing.canalplus-caraibes.com
@@ -314,6 +316,7 @@ tr.mydevisentreprise.com
 tr.n.ferrero.fr
 tr.n.info.cdgp.fr
 tr.n.info.sygmabanque.fr
+tr.n.kinder.fr
 tr.nespresso.com
 tr.new.offres-cartegie.fr
 tr.news-chocolat.com
@@ -373,6 +376,7 @@ tr.news.la-meilleure-voyance.com
 tr.news.labelleadresse.com
 tr.news.lacollection-airfrance.be
 tr.news.lacollection-airfrance.fr
+tr.news.lacollectionairfrance.be
 tr.news.lacollectionairfrance.fr
 tr.news.leclubtravel.fr
 tr.news.lentreprise.lexpress.fr
@@ -437,6 +441,7 @@ tr.newsletters.odalys-vacances.com
 tr.newsletters.youmeetings.com
 tr.newsmarketing.allopneus.com
 tr.nl.2wls.net
+tr.nl.ardennes.cci.fr
 tr.nl.mondo-shop.fr
 tr.nl.services-sncf.com
 tr.nl2.sncf-fidelite.com
@@ -446,6 +451,7 @@ tr.notification-gdpr.cafineo.fr
 tr.notification-gdpr.cofinoga.fr
 tr.notification-gdpr.domofinance.fr
 tr.notification-gdpr.loisirs-finance.fr
+tr.notification-gdpr.personal-finance-location.bnpparibas
 tr.notification-gdpr.sygmabybnpparibas-pf.com
 tr.notification.banque-revillon.fr
 tr.notification.cafineo.fr
@@ -493,6 +499,7 @@ tr.ra.cofinoga.fr
 tr.ratm.espmp-agfr.net
 tr.raym.espmp-agfr.net
 tr.read.glose.com
+tr.recouvrement.finrec.com
 tr.recouvrement.seeric.com
 tr.recouvrement.younited-credit.com
 tr.redaction.essentiel-sante-magazine.fr
@@ -508,6 +515,7 @@ tr.scienceshumaines.pro
 tr.secteurentreprises.harmonie-mutuelle.fr
 tr.service-mail.carrefour.fr
 tr.serviceclient.bf-depannage.fr
+tr.serviceclient.depanchauffageservice.fr
 tr.serviceclient.gazservicerapide.fr
 tr.serviceclient.somgaz.fr
 tr.serviceclient.younited-coach.com
@@ -532,6 +540,7 @@ tr.toner-service.fr
 tr.toner-services.fr
 tr.tonerservices.fr
 tr.trafficnews.lyria.com
+tr.ujsv.espmp-agfr.net
 tr.uk.icicibank.com
 tr.urfk02v.espmp-cufr.net
 tr.urfk03u.espmp-nifr.net

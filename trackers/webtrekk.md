@@ -21,6 +21,7 @@
     * kiomi-com01.webtrekk.net
     * netcologne-01.webtrekk.net
     * nuernberger02.webtrekk.net
+    * obi-com01.webtrekk.net
     * tchibo02.webtrekk.net
     * tchibo03.webtrekk.net
     * tchibo06.webtrekk.net
@@ -39,6 +40,7 @@
     * 148749046266446.wt-eu02.net
     * 151836596491843.wt-eu02.net
     * 176652923057792.wt-eu02.net
+    * 180629549208289.wt-eu02.net
     * 186015257614542.wt-eu02.net
     * 208005830805862.wt-eu02.net
     * 215973748390194.wt-eu02.net
@@ -51,6 +53,7 @@
     * 286813086616891.wt-eu02.net
     * 292330999892453.wt-eu02.net
     * 292595354576025.wt-eu02.net
+    * 302571338326011.wt-eu02.net
     * 302631813489498.wt-eu02.net
     * 307902509027183.wt-eu02.net
     * 310695274957699.wt-eu02.net
@@ -77,6 +80,7 @@
     * 524633908170120.wt-eu02.net
     * 524656123914087.wt-eu02.net
     * 545460378195639.wt-eu02.net
+    * 547882457626880.wt-eu02.net
     * 554833903189763.wt-eu02.net
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
@@ -181,6 +185,10 @@
     * wttd-douglas.wt-eu02.net
     * xxxlmoebelhaeuserde02.wt-eu02.net
 
+### Rarely active trackers
+
+* wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com
+
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -194,7 +202,9 @@
 | web.sensilab.ie | 151836596491843.wt-eu02.net |
 | web.sensilab.se | 151836596491843.wt-eu02.net |
 | web.sensilab.si | 151836596491843.wt-eu02.net |
+| web.sensilab.sk | 151836596491843.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
+| web.solesource.com | 180629549208289.wt-eu02.net |
 | web.mapp.skousen.dk | 186015257614542.wt-eu02.net |
 | census.misterspex.de | 208005830805862.wt-eu02.net |
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
@@ -207,6 +217,7 @@
 | mit.db.com | 286813086616891.wt-eu02.net |
 | data.srf.ch | 292330999892453.wt-eu02.net |
 | data.mapp.com | 292595354576025.wt-eu02.net |
+| web.campaign.v73.it | 302571338326011.wt-eu02.net |
 | data.engelhorn.com | 302631813489498.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
 | a.hrewards.com | 307902509027183.wt-eu02.net |
@@ -244,6 +255,7 @@
 | web.friends.ellaskitchen.co.uk | 524633908170120.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
+| website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
 | web.s.sasrx.com | 554833903189763.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
@@ -258,6 +270,7 @@
 | web.news.pleasefashion.com | 637511691483562.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
+| web.slimjoy.com | 657801072187647.wt-eu02.net |
 | web.slimjoy.dk | 657801072187647.wt-eu02.net |
 | web.slimjoy.ro | 657801072187647.wt-eu02.net |
 | web.slimjoy.se | 657801072187647.wt-eu02.net |
@@ -426,6 +439,7 @@
 | ot.obi.pl | obi-all.wt-eu02.net |
 | ot.obi.si | obi-all.wt-eu02.net |
 | ot.obi.sk | obi-all.wt-eu02.net |
+| ot.obi.com | obi-com01.webtrekk.net |
 | t.paydirekt.de | paydirekt-de01.wt-eu02.net |
 | data.pepephone.com | pepephonelive01.wt-eu02.net |
 | hbbtv-track.prosiebensat1puls4.com | prosiebensat1puls4.wt-eu02.net |
@@ -455,6 +469,7 @@
 | wa.wdrmaus.de | wa-wdr.wt-eu02.net |
 | images1.test.de | warentest-de01.webtrekk.net |
 | spr.welt.de | welt-01.wt-eu02.net |
+| web.marketing.jellybelly.com | wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com |
 | wttd.douglas.at | wttd-douglas.wt-eu02.net |
 | wttd.douglas.ch | wttd-douglas.wt-eu02.net |
 | wttd.douglas.de | wttd-douglas.wt-eu02.net |

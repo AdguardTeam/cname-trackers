@@ -69,6 +69,7 @@ analytics.synchrony.com CNAME .
 analytics.synchronybank.com CNAME .
 analytics.synchronybusiness.com CNAME .
 analytics.synchronycareers.com CNAME .
+analytics.synchronyuniversity.com CNAME .
 assets1.aainsurance.co.nz CNAME .
 assets1.aami.com.au CNAME .
 assets1.apia.com.au CNAME .
@@ -207,6 +208,7 @@ securemetrics.synchronybusiness.com CNAME .
 smt.jcpenney.com CNAME .
 sst.dell.com CNAME .
 sst.johnlewis.com CNAME .
+sst.nab.com.au CNAME .
 t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
 tagman.fotolia.com CNAME .

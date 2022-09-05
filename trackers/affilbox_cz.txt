@@ -20,6 +20,7 @@
 ||affil.11teamsports.sk^
 ||affil.alkohol.cz^
 ||affil.atan.cz^
+||affil.avenatura.sk^
 ||affil.bitdef.cz^
 ||affil.chlap20.sk^
 ||affil.claimcloud.cz^
@@ -73,6 +74,7 @@
 ||affil.top4football.fr^
 ||affil.top4football.ie^
 ||affil.top4football.it^
+||affil.top4football.nl^
 ||affil.top4football.se^
 ||affil.top4running.at^
 ||affil.top4running.be^
@@ -103,6 +105,7 @@
 ||affil.weplaybasketball.cz^
 ||affil.weplaybasketball.hu^
 ||affil.weplayhandball.cz^
+||affil.weplayhandball.hu^
 ||affil.weplayvolleyball.cz^
 ||affilbox.andreashop.sk^
 ||affilbox.kvaskovanie.sk^
@@ -135,6 +138,7 @@
 ||affiliate.elisdesign.cz^
 ||affiliate.epohledavky.cz^
 ||affiliate.eros.sk^
+||affiliate.esensino.cz^
 ||affiliate.expertnapredaj.sk^
 ||affiliate.faceyogainstitute.eu^
 ||affiliate.fapi.cz^
@@ -196,7 +200,10 @@
 ||isic.dentalweb.cz^
 ||isicpartner.mamechut.cz^
 ||login.affiliatesit.cz^
+||money.mioweb.cz^
 ||partner.2din.cz^
+||partner.affilbox.com^
+||partner.affiliateark.com^
 ||partner.amonitsro.sk^
 ||partner.artmasteracademy.cz^
 ||partner.babysigns.cz^
@@ -207,6 +214,7 @@
 ||partner.brawolife.cz^
 ||partner.brilianty.cz^
 ||partner.candy.cz^
+||partner.cannacare.cz^
 ||partner.caskrmeni.cz^
 ||partner.cbdcko.cz^
 ||partner.cebia.com^
@@ -259,6 +267,7 @@
 ||partner.nextwood.cz^
 ||partner.obojky.cz^
 ||partner.ochutnejorech.cz^
+||partner.olivie.cz^
 ||partner.olivum.cz^
 ||partner.parfemy-parfumeur.cz^
 ||partner.plotshop.sk^
@@ -279,13 +288,16 @@
 ||partner.stickersmakers.com^
 ||partner.summermyles.cz^
 ||partner.superpotlac.sk^
+||partner.supervyhody.cz^
 ||partner.svatebni-diar.cz^
 ||partner.swimmeez.cz^
 ||partner.top-obaly.cz^
+||partner.tyano.cz^
 ||partner.vladimirekart.cz^
 ||partner.vykoupeno.cz^
 ||partner.webareal.cz^
 ||partner.webareal.sk^
+||partner.whoopdedoo.love^
 ||partner.wormup.com^
 ||partner.xm.cz^
 ||partner.yummy.sk^
@@ -309,6 +321,7 @@
 ||partneri.jakofenix.cz^
 ||partneri.levne-barvy-laky.cz^
 ||partneri.mebline.cz^
+||partneri.minshop.cz^
 ||partneri.mixano.cz^
 ||partneri.motmot.cz^
 ||partneri.mrblast.eu^
@@ -320,13 +333,18 @@
 ||partneri.prectime.cz^
 ||partneri.proficredit.cz^
 ||partneri.rondainvest.cz^
+||partneri.smartemailing.cz^
 ||partneri.sportfotbal.cz^
 ||partneri.tradicne-feng-shui.sk^
 ||partneri.trenink-vyjednavani.cz^
 ||partneri.trollbeads.cz^
+||partneri.tvojemamka.cz^
+||partneri.umenijazyku.cz^
+||partneri.vashop.cz^
 ||partneri.viadelicia.cz^
 ||partneri.vitaon.cz^
 ||partneri.vyzvaproimunitu.cz^
+||partneri.worldee.com^
 ||partneri.yoggspiration.cz^
 ||partneri.zdravykram.cz^
 ||partners.adventuremenu.com^
@@ -334,6 +352,7 @@
 ||partners.oktagon.tv^
 ||partners.pocitarna.cz^
 ||partners.spiritradar.com^
+||provize.3dfitness.cz^
 ||provize.dzumdzum.cz^
 ||provize.mimulo.cz^
 ||provize.radynacestu.cz^

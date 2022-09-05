@@ -5,6 +5,7 @@
 !
 ||eloqua-tracking.unity.com^
 ||eloqua-tracking.unity3d.com^
+||info.lexisnexis.co.in^
 ||info.lexisnexis.com.my^
 ||info.lexisnexis.com.sg^
 ||t.goduke.com^
@@ -471,7 +472,6 @@
 ! p04b.hs.eloqua.com disguised trackers
 !
 ||catracking.finning.com^
-||comunicaciones.daviviendacorredores.com^
 ||connect.acams.org^
 ||connect.healthinfo.stdom.com^
 ||connect.info.halifaxhealthnews.org^

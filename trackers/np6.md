@@ -70,6 +70,7 @@
 | tr.carte.lcl.fr | tracking.bp01.net |
 | tr.cartegie.fr | tracking.bp01.net |
 | tr.cashback.floa.fr | tracking.bp01.net |
+| tr.cb4x.banque-casino.fr | tracking.bp01.net |
 | tr.cb4x.floa.fr | tracking.bp01.net |
 | tr.christmas.petit-bateau.com | tracking.bp01.net |
 | tr.cifa.espmp-nifr.net | tracking.bp01.net |
@@ -164,6 +165,7 @@
 | tr.email.virtual-expo.com | tracking.bp01.net |
 | tr.email.voyagesleclerc.com | tracking.bp01.net |
 | tr.emailatia.fr | tracking.bp01.net |
+| tr.emailing.canalbox.com | tracking.bp01.net |
 | tr.emailing.canalplus-afrique.com | tracking.bp01.net |
 | tr.emailing.canalplus-caledonie.com | tracking.bp01.net |
 | tr.emailing.canalplus-caraibes.com | tracking.bp01.net |
@@ -319,6 +321,7 @@
 | tr.n.ferrero.fr | tracking.bp01.net |
 | tr.n.info.cdgp.fr | tracking.bp01.net |
 | tr.n.info.sygmabanque.fr | tracking.bp01.net |
+| tr.n.kinder.fr | tracking.bp01.net |
 | tr.nespresso.com | tracking.bp01.net |
 | tr.new.offres-cartegie.fr | tracking.bp01.net |
 | tr.news-chocolat.com | tracking.bp01.net |
@@ -378,6 +381,7 @@
 | tr.news.labelleadresse.com | tracking.bp01.net |
 | tr.news.lacollection-airfrance.be | tracking.bp01.net |
 | tr.news.lacollection-airfrance.fr | tracking.bp01.net |
+| tr.news.lacollectionairfrance.be | tracking.bp01.net |
 | tr.news.lacollectionairfrance.fr | tracking.bp01.net |
 | tr.news.leclubtravel.fr | tracking.bp01.net |
 | tr.news.lentreprise.lexpress.fr | tracking.bp01.net |
@@ -442,6 +446,7 @@
 | tr.newsletters.youmeetings.com | tracking.bp01.net |
 | tr.newsmarketing.allopneus.com | tracking.bp01.net |
 | tr.nl.2wls.net | tracking.bp01.net |
+| tr.nl.ardennes.cci.fr | tracking.bp01.net |
 | tr.nl.mondo-shop.fr | tracking.bp01.net |
 | tr.nl.services-sncf.com | tracking.bp01.net |
 | tr.nl2.sncf-fidelite.com | tracking.bp01.net |
@@ -451,6 +456,7 @@
 | tr.notification-gdpr.cofinoga.fr | tracking.bp01.net |
 | tr.notification-gdpr.domofinance.fr | tracking.bp01.net |
 | tr.notification-gdpr.loisirs-finance.fr | tracking.bp01.net |
+| tr.notification-gdpr.personal-finance-location.bnpparibas | tracking.bp01.net |
 | tr.notification-gdpr.sygmabybnpparibas-pf.com | tracking.bp01.net |
 | tr.notification.banque-revillon.fr | tracking.bp01.net |
 | tr.notification.cafineo.fr | tracking.bp01.net |
@@ -498,6 +504,7 @@
 | tr.ratm.espmp-agfr.net | tracking.bp01.net |
 | tr.raym.espmp-agfr.net | tracking.bp01.net |
 | tr.read.glose.com | tracking.bp01.net |
+| tr.recouvrement.finrec.com | tracking.bp01.net |
 | tr.recouvrement.seeric.com | tracking.bp01.net |
 | tr.recouvrement.younited-credit.com | tracking.bp01.net |
 | tr.redaction.essentiel-sante-magazine.fr | tracking.bp01.net |
@@ -513,6 +520,7 @@
 | tr.secteurentreprises.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.service-mail.carrefour.fr | tracking.bp01.net |
 | tr.serviceclient.bf-depannage.fr | tracking.bp01.net |
+| tr.serviceclient.depanchauffageservice.fr | tracking.bp01.net |
 | tr.serviceclient.gazservicerapide.fr | tracking.bp01.net |
 | tr.serviceclient.somgaz.fr | tracking.bp01.net |
 | tr.serviceclient.younited-coach.com | tracking.bp01.net |
@@ -537,6 +545,7 @@
 | tr.toner-services.fr | tracking.bp01.net |
 | tr.tonerservices.fr | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |
+| tr.ujsv.espmp-agfr.net | tracking.bp01.net |
 | tr.uk.icicibank.com | tracking.bp01.net |
 | tr.urfk02v.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk03u.espmp-nifr.net | tracking.bp01.net |

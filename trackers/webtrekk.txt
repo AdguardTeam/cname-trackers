@@ -8,6 +8,7 @@
 ||image.kfw.de^
 ||images1.test.de^
 ||mon.ingservices.nl^
+||ot.obi.com^
 ||pix.eads.com^
 ||pix.telekom-dienste.de^
 ||pix.telekom.de^
@@ -203,6 +204,7 @@
 ||web.autobodytoolmart.com^
 ||web.bankofscotland.de^
 ||web.campaign.miriade.com^
+||web.campaign.v73.it^
 ||web.collisionservices.com^
 ||web.comunicazioni.iol.it^
 ||web.diebayerische.de^
@@ -247,16 +249,20 @@
 ||web.sensilab.ie^
 ||web.sensilab.se^
 ||web.sensilab.si^
+||web.sensilab.sk^
 ||web.sidsavage.com^
+||web.slimjoy.com^
 ||web.slimjoy.dk^
 ||web.slimjoy.ro^
 ||web.slimjoy.se^
 ||web.slimjoy.sk^
+||web.solesource.com^
 ||web.tummy-tox.com^
 ||web.tummytox.pt^
 ||web.tummytox.sk^
 ||web.x.ilpost.it^
 ||webmet.creditreform.de^
+||website-usage.knorr-bremse.com^
 ||webt.eleonto.com^
 ||webt.eu.teac-audio.com^
 ||webt.pure.com^
@@ -284,3 +290,7 @@
 ||wttd.madeleine.de^
 ||wttd.madeleine.fr^
 ||wttd.madeleine.gr^
+!
+! wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com disguised trackers
+!
+||web.marketing.jellybelly.com^

@@ -34,6 +34,7 @@ analytics.geekyminds.net
 analytics.givealittle.co
 analytics.hiome.com
 analytics.kerns.co
+analytics.krieselreihe.com
 analytics.kukla.club
 analytics.lifestyledemocracy.com
 analytics.lunge.de
@@ -362,6 +363,7 @@ stats.chapterist.show
 stats.chargemybike.de
 stats.chomp.haus
 stats.chronoslabs.net
+stats.cinqsecondes.fr
 stats.citizenos.com
 stats.cleverdiabetic.com
 stats.cloud-backup-for-podio.com
@@ -498,6 +500,7 @@ stats.lik.fr
 stats.literacysomerset.org
 stats.livingedge.ngo
 stats.lord.io
+stats.lstfnd.de
 stats.ltdhunt.com
 stats.luieremmer.net
 stats.lumen-app.com
@@ -524,6 +527,8 @@ stats.muchbetteradventures.com
 stats.mysideproject.rocks
 stats.nddmed.com
 stats.nerdbusiness.com
+stats.nicolabricot.com
+stats.nrcaknights.com
 stats.nytecomics.com
 stats.onepagelove.com
 stats.ordinarypuzzles.com
@@ -557,8 +562,11 @@ stats.redlabelsports.com
 stats.reisemobil.pro
 stats.remotebear.io
 stats.revit-content.com
+stats.rocketvalidator.com
 stats.screen-play.app
+stats.screenwavemedia.com
 stats.sebastiangale.ca
+stats.servicedesignjobs.com
 stats.shareup.app
 stats.shoutout.so
 stats.sirdata.com

@@ -27,7 +27,9 @@ a8.exetime.jp
 a8.fit-theme.com
 a8.form.run
 a8.fots.jp
+a8.gaizyu-taiji.com
 a8.geo-online.co.jp
+a8.gigalee.com
 a8.hakata-hisamatsu.net
 a8.haptic.co.jp
 a8.hemptouch.co.jp
@@ -126,6 +128,7 @@ a8clk.low-ya.com
 a8clk.macpaw.com
 a8clk.manabiz.jp
 a8clk.manage.conoha.jp
+a8clk.meister-coating.com
 a8clk.miidas.jp
 a8clk.minnadeooyasan.com
 a8clk.miselclinic.com
@@ -196,6 +199,7 @@ a8cv.dokoyorimo.com
 a8cv.dotpro.tokyo
 a8cv.downjacket.pro
 a8cv.dreambeer.jp
+a8cv.dreamchance.net
 a8cv.dsc-nightstore.com
 a8cv.dshu.jp
 a8cv.english-bootcamp.com
@@ -203,6 +207,7 @@ a8cv.entry.renet.jp
 a8cv.favorric.com
 a8cv.first-spoon.com
 a8cv.frecious.jp
+a8cv.gaikokujin-support.com
 a8cv.grassbeaute.jp
 a8cv.greed-island.ne.jp
 a8cv.hotyoga-loive.com
@@ -215,11 +220,14 @@ a8cv.isslim.jp
 a8cv.jokyonext.jp
 a8cv.jp-shop.kiwabi.com
 a8cv.k-ikiiki.jp
+a8cv.kosodatemoney.com
 a8cv.kstarselect.com
 a8cv.kuih.jp
 a8cv.kurashi-bears.com
+a8cv.lear-caree.com
 a8cv.mashumaro-bra.com
 a8cv.menina-joue.jp
+a8cv.mens-life-clinic.com
 a8cv.minana-jp.com
 a8cv.minnano-eikaiwa.com
 a8cv.modern-deco.jp
@@ -285,6 +293,7 @@ a8trck.worldone.to
 a8trk.www.std-lab.jp
 acv.cmf-hikari.net
 ad.ichiban-boshi.com
+ad.magokoro-care-shoku.com
 ad.rejichoice.jp
 afi.biyou.web-marketing.ai
 afi.school.web-marketing.ai
@@ -338,6 +347,8 @@ sokutei.car2828.jp
 sub.booksdream-mypage.com
 summary.bookoffonline.co.jp
 tracking.lead-plus.jp
+trck.aeon.co.jp
 trck.frutafrutashop.com
 trck.rework-s.com
 trcka8net.irobot-jp.com
+web.life-cw.com

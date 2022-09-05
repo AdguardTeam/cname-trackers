@@ -38,5 +38,6 @@
 | cdn.spnut.com | popcashjs.b-cdn.net |
 | cdn.srxy.xyz | popcashjs.b-cdn.net |
 | cdn.wwfx.xyz | popcashjs.b-cdn.net |
+| cdn.xawlop.com | popcashjs.b-cdn.net |
 | cdn.yopard.com | popcashjs.b-cdn.net |
 | cdn.zxclan.com | popcashjs.b-cdn.net |

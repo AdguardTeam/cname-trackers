@@ -69,6 +69,7 @@ analytics.synchrony.com
 analytics.synchronybank.com
 analytics.synchronybusiness.com
 analytics.synchronycareers.com
+analytics.synchronyuniversity.com
 assets1.aainsurance.co.nz
 assets1.aami.com.au
 assets1.apia.com.au
@@ -207,6 +208,7 @@ securemetrics.synchronybusiness.com
 smt.jcpenney.com
 sst.dell.com
 sst.johnlewis.com
+sst.nab.com.au
 t.janieandjack.com
 tagman.britishairways.com
 tagman.fotolia.com

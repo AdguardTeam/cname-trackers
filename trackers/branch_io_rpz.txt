@@ -6,6 +6,7 @@
 10008919.pomelo.fashion CNAME .
 10298198.arch.sofi.org CNAME .
 11959579.fun.joyrun.com CNAME .
+12915784.help.sanvello.com CNAME .
 18052925.im.intermiles.com CNAME .
 19035924.automated.almosafer.com CNAME .
 19035924.email.almosafer.com CNAME .
@@ -244,6 +245,7 @@ branchio.hipages.com.au CNAME .
 branchlink.adobespark.com CNAME .
 branchtrk.lendingtree.com CNAME .
 brc.emails.rakuten.com CNAME .
+cclink.carfax.com CNAME .
 click-staging.food.mercato.com CNAME .
 click.aaptiv.com CNAME .
 click.bible.com CNAME .
@@ -265,7 +267,6 @@ click.emails.creditonebank.com CNAME .
 click.favordelivery.com CNAME .
 click.food.mercato.com CNAME .
 click.glamsquad.com CNAME .
-click.gudog.com CNAME .
 click.instacartemail.com CNAME .
 click.mail.carousell.com CNAME .
 click.mail.thecarousell.com CNAME .
@@ -349,9 +350,12 @@ email.clearscore.com CNAME .
 email.clearscore.com.au CNAME .
 email.dev.mypopshop.app CNAME .
 email.dmcperforma.com.br CNAME .
+email.employeeadvocacy.lamresearch.com CNAME .
 email.everyonesocial.circle.com CNAME .
 email.everyonesocial.coupa.com CNAME .
 email.everyonesocial.indeed.com CNAME .
+email.everyonesocial.jbhunt.com CNAME .
+email.everyonesocial.ni.com CNAME .
 email.everyonesocial.notarize.com CNAME .
 email.everyonesocial.nuskin.com CNAME .
 email.everyonesocial.r3.com CNAME .
@@ -448,6 +452,7 @@ link.email.soothe.com CNAME .
 link.email.tajawal.com CNAME .
 link.foodnetwork.com CNAME .
 link.get.discovery.plus CNAME .
+link.hallow.com CNAME .
 link.hello-au.circles.life CNAME .
 link.hello-sg.circles.life CNAME .
 link.hello.soothe.com CNAME .
@@ -537,6 +542,7 @@ links.fabletics.de CNAME .
 links.fabletics.es CNAME .
 links.fabletics.fr CNAME .
 links.fitbod.me CNAME .
+links.gimmeradio.com CNAME .
 links.glamsquad.com CNAME .
 links.hitrecord.org CNAME .
 links.huckleberry-labs.com CNAME .
@@ -579,6 +585,7 @@ links.theyes.com CNAME .
 links.yummly.com CNAME .
 links2.chownowmail.com CNAME .
 linktrace.diningcity.cn CNAME .
+lnk2.patpat.com CNAME .
 m.irl.com CNAME .
 m1.stadiumgoods.com CNAME .
 mail.blueapronwine.com CNAME .

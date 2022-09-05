@@ -34,6 +34,7 @@ analytics.geekyminds.net CNAME .
 analytics.givealittle.co CNAME .
 analytics.hiome.com CNAME .
 analytics.kerns.co CNAME .
+analytics.krieselreihe.com CNAME .
 analytics.kukla.club CNAME .
 analytics.lifestyledemocracy.com CNAME .
 analytics.lunge.de CNAME .
@@ -362,6 +363,7 @@ stats.chapterist.show CNAME .
 stats.chargemybike.de CNAME .
 stats.chomp.haus CNAME .
 stats.chronoslabs.net CNAME .
+stats.cinqsecondes.fr CNAME .
 stats.citizenos.com CNAME .
 stats.cleverdiabetic.com CNAME .
 stats.cloud-backup-for-podio.com CNAME .
@@ -498,6 +500,7 @@ stats.lik.fr CNAME .
 stats.literacysomerset.org CNAME .
 stats.livingedge.ngo CNAME .
 stats.lord.io CNAME .
+stats.lstfnd.de CNAME .
 stats.ltdhunt.com CNAME .
 stats.luieremmer.net CNAME .
 stats.lumen-app.com CNAME .
@@ -524,6 +527,8 @@ stats.muchbetteradventures.com CNAME .
 stats.mysideproject.rocks CNAME .
 stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
+stats.nicolabricot.com CNAME .
+stats.nrcaknights.com CNAME .
 stats.nytecomics.com CNAME .
 stats.onepagelove.com CNAME .
 stats.ordinarypuzzles.com CNAME .
@@ -557,8 +562,11 @@ stats.redlabelsports.com CNAME .
 stats.reisemobil.pro CNAME .
 stats.remotebear.io CNAME .
 stats.revit-content.com CNAME .
+stats.rocketvalidator.com CNAME .
 stats.screen-play.app CNAME .
+stats.screenwavemedia.com CNAME .
 stats.sebastiangale.ca CNAME .
+stats.servicedesignjobs.com CNAME .
 stats.shareup.app CNAME .
 stats.shoutout.so CNAME .
 stats.sirdata.com CNAME .

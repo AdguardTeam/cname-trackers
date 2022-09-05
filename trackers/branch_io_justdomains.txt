@@ -6,6 +6,7 @@
 10008919.pomelo.fashion
 10298198.arch.sofi.org
 11959579.fun.joyrun.com
+12915784.help.sanvello.com
 18052925.im.intermiles.com
 19035924.automated.almosafer.com
 19035924.email.almosafer.com
@@ -244,6 +245,7 @@ branchio.hipages.com.au
 branchlink.adobespark.com
 branchtrk.lendingtree.com
 brc.emails.rakuten.com
+cclink.carfax.com
 click-staging.food.mercato.com
 click.aaptiv.com
 click.bible.com
@@ -265,7 +267,6 @@ click.emails.creditonebank.com
 click.favordelivery.com
 click.food.mercato.com
 click.glamsquad.com
-click.gudog.com
 click.instacartemail.com
 click.mail.carousell.com
 click.mail.thecarousell.com
@@ -349,9 +350,12 @@ email.clearscore.com
 email.clearscore.com.au
 email.dev.mypopshop.app
 email.dmcperforma.com.br
+email.employeeadvocacy.lamresearch.com
 email.everyonesocial.circle.com
 email.everyonesocial.coupa.com
 email.everyonesocial.indeed.com
+email.everyonesocial.jbhunt.com
+email.everyonesocial.ni.com
 email.everyonesocial.notarize.com
 email.everyonesocial.nuskin.com
 email.everyonesocial.r3.com
@@ -448,6 +452,7 @@ link.email.soothe.com
 link.email.tajawal.com
 link.foodnetwork.com
 link.get.discovery.plus
+link.hallow.com
 link.hello-au.circles.life
 link.hello-sg.circles.life
 link.hello.soothe.com
@@ -537,6 +542,7 @@ links.fabletics.de
 links.fabletics.es
 links.fabletics.fr
 links.fitbod.me
+links.gimmeradio.com
 links.glamsquad.com
 links.hitrecord.org
 links.huckleberry-labs.com
@@ -579,6 +585,7 @@ links.theyes.com
 links.yummly.com
 links2.chownowmail.com
 linktrace.diningcity.cn
+lnk2.patpat.com
 m.irl.com
 m1.stadiumgoods.com
 mail.blueapronwine.com

@@ -5,6 +5,7 @@
 ;
 eloqua-tracking.unity.com CNAME .
 eloqua-tracking.unity3d.com CNAME .
+info.lexisnexis.co.in CNAME .
 info.lexisnexis.com.my CNAME .
 info.lexisnexis.com.sg CNAME .
 t.goduke.com CNAME .
@@ -471,7 +472,6 @@ tracking.apac.business.samsung.com CNAME .
 ; p04b.hs.eloqua.com disguised trackers
 ;
 catracking.finning.com CNAME .
-comunicaciones.daviviendacorredores.com CNAME .
 connect.acams.org CNAME .
 connect.healthinfo.stdom.com CNAME .
 connect.info.halifaxhealthnews.org CNAME .

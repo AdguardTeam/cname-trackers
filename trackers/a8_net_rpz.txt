@@ -27,7 +27,9 @@ a8.exetime.jp CNAME .
 a8.fit-theme.com CNAME .
 a8.form.run CNAME .
 a8.fots.jp CNAME .
+a8.gaizyu-taiji.com CNAME .
 a8.geo-online.co.jp CNAME .
+a8.gigalee.com CNAME .
 a8.hakata-hisamatsu.net CNAME .
 a8.haptic.co.jp CNAME .
 a8.hemptouch.co.jp CNAME .
@@ -126,6 +128,7 @@ a8clk.low-ya.com CNAME .
 a8clk.macpaw.com CNAME .
 a8clk.manabiz.jp CNAME .
 a8clk.manage.conoha.jp CNAME .
+a8clk.meister-coating.com CNAME .
 a8clk.miidas.jp CNAME .
 a8clk.minnadeooyasan.com CNAME .
 a8clk.miselclinic.com CNAME .
@@ -196,6 +199,7 @@ a8cv.dokoyorimo.com CNAME .
 a8cv.dotpro.tokyo CNAME .
 a8cv.downjacket.pro CNAME .
 a8cv.dreambeer.jp CNAME .
+a8cv.dreamchance.net CNAME .
 a8cv.dsc-nightstore.com CNAME .
 a8cv.dshu.jp CNAME .
 a8cv.english-bootcamp.com CNAME .
@@ -203,6 +207,7 @@ a8cv.entry.renet.jp CNAME .
 a8cv.favorric.com CNAME .
 a8cv.first-spoon.com CNAME .
 a8cv.frecious.jp CNAME .
+a8cv.gaikokujin-support.com CNAME .
 a8cv.grassbeaute.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
 a8cv.hotyoga-loive.com CNAME .
@@ -215,11 +220,14 @@ a8cv.isslim.jp CNAME .
 a8cv.jokyonext.jp CNAME .
 a8cv.jp-shop.kiwabi.com CNAME .
 a8cv.k-ikiiki.jp CNAME .
+a8cv.kosodatemoney.com CNAME .
 a8cv.kstarselect.com CNAME .
 a8cv.kuih.jp CNAME .
 a8cv.kurashi-bears.com CNAME .
+a8cv.lear-caree.com CNAME .
 a8cv.mashumaro-bra.com CNAME .
 a8cv.menina-joue.jp CNAME .
+a8cv.mens-life-clinic.com CNAME .
 a8cv.minana-jp.com CNAME .
 a8cv.minnano-eikaiwa.com CNAME .
 a8cv.modern-deco.jp CNAME .
@@ -285,6 +293,7 @@ a8trck.worldone.to CNAME .
 a8trk.www.std-lab.jp CNAME .
 acv.cmf-hikari.net CNAME .
 ad.ichiban-boshi.com CNAME .
+ad.magokoro-care-shoku.com CNAME .
 ad.rejichoice.jp CNAME .
 afi.biyou.web-marketing.ai CNAME .
 afi.school.web-marketing.ai CNAME .
@@ -338,6 +347,8 @@ sokutei.car2828.jp CNAME .
 sub.booksdream-mypage.com CNAME .
 summary.bookoffonline.co.jp CNAME .
 tracking.lead-plus.jp CNAME .
+trck.aeon.co.jp CNAME .
 trck.frutafrutashop.com CNAME .
 trck.rework-s.com CNAME .
 trcka8net.irobot-jp.com CNAME .
+web.life-cw.com CNAME .
