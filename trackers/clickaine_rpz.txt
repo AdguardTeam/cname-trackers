@@ -6,7 +6,6 @@
 a3.hotpornfile.org CNAME .
 ad.arabsex1.com CNAME .
 ad1.xero.porn CNAME .
-api.applogy.com CNAME .
 api.rtnews.pro CNAME .
 api.willalland.info CNAME .
 api2.clickaine.com CNAME .
@@ -43,7 +42,6 @@ cln.willyporn.com CNAME .
 cn4.animehdl.net CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
-delivery.applogy.com CNAME .
 dnsbl.test.ww1.willalland.info CNAME .
 faq.brandnewapp.pro CNAME .
 flare.vtube.to CNAME .

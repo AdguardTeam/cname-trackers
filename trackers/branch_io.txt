@@ -533,7 +533,6 @@
 ||links.email.nbc.com^
 ||links.email.oxygen.com^
 ||links.email.tajawal.com^
-||links.email.twine.com^
 ||links.email.usanetwork.com^
 ||links.evault.history.com^
 ||links.fabletics.co.uk^

@@ -71,7 +71,6 @@
 | tp.ottoversand.at | js.oghub.io |
 | tp.ottoversand.at | js.oghub.io |
 | tp.quelle.at | js.oghub.io |
-| tp.quelle.at | js.oghub.io |
 | tp.quelle.ch | js.oghub.io |
 | tp.quelle.ch | js.oghub.io |
 | tp.quelle.de | js.oghub.io |

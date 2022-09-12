@@ -363,7 +363,6 @@
 | ea.bongo.nl | et2.eulerian.net |
 | ea.deguisetoi.fr | et2.eulerian.net |
 | ea.millet-mountain.com | et2.eulerian.net |
-| ea.millet-mountain.com | et2.eulerian.net |
 | ea.millet-mountain.de | et2.eulerian.net |
 | ea.millet-mountain.de | et2.eulerian.net |
 | ea.millet.fr | et2.eulerian.net |

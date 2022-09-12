@@ -14,7 +14,6 @@ tr.activeprospects.info
 tr.actu-companeo.com
 tr.actu.bricodepot.com
 tr.actu.rmcbfmplay.com
-tr.actualites.01net.com
 tr.actualites.bfmtv.com
 tr.actuentreprises.elior.fr
 tr.actupremium.com
@@ -22,7 +21,6 @@ tr.actus-fdj.fr
 tr.allopneus.com
 tr.animation.lexpress.fr
 tr.animation.micromania.fr
-tr.animations.01net.com
 tr.animations.bfmtv.com
 tr.apou032.espmp-agfr.net
 tr.asp002q.espmp-aufr.net
@@ -467,7 +465,6 @@ tr.offer-companeo.co.uk
 tr.offerte.migliorifornitori.it
 tr.offre-companeo.com
 tr.offres-professionnelles.fr
-tr.offres.01net.com
 tr.offres.bfmtv.com
 tr.offrevip.banque-casino.fr
 tr.offrevip.floa.fr

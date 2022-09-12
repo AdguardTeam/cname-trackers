@@ -283,7 +283,6 @@ www.ripe8book.com CNAME .
 www.s3network1.com CNAME .
 www.se-core-pipe.com CNAME .
 www.shrfbdg004.com CNAME .
-www.smart-business-intuition.com CNAME .
 www.soma9vols.com CNAME .
 www.sour1bare.com CNAME .
 www.srv00infra.com CNAME .
@@ -301,13 +300,9 @@ www.trksrv45.com CNAME .
 www.tula9mari.com CNAME .
 www.uhygtf1.com CNAME .
 www.vane3alga.com CNAME .
-www.wauk1care.com CNAME .
-www.web-01-gbl.com CNAME .
 www.web-cntr-07.com CNAME .
-www.wild0army.com CNAME .
 www.www-path.com CNAME .
 www.ydwsjt-2.com CNAME .
-www.zcbmn14.com CNAME .
 ;
 ; v3-eu-appgwv2.uksouth.cloudapp.azure.com disguised trackers
 ;
@@ -553,6 +548,7 @@ www.44-trk-srv.com CNAME .
 www.44tele-infra.com CNAME .
 www.55-trk-srv.com CNAME .
 www.66infra-strat.com CNAME .
+www.88infra-strat.com CNAME .
 www.acor1sign.com CNAME .
 www.adgjl13.com CNAME .
 www.agiledata7.com CNAME .
@@ -637,6 +633,7 @@ www.dtc-v6t.com CNAME .
 www.dthvdr9.com CNAME .
 www.dump4barn.com CNAME .
 www.east2pony.com CNAME .
+www.easy0bark.com CNAME .
 www.ed-clr-01.com CNAME .
 www.efvrgb12.com CNAME .
 www.ela-3-tnk.com CNAME .
@@ -715,6 +712,7 @@ www.lansrv050.com CNAME .
 www.lansrv060.com CNAME .
 www.lansrv070.com CNAME .
 www.lansrv080.com CNAME .
+www.lansrv090.com CNAME .
 www.lazy8krti.com CNAME .
 www.ldfr-cloud.net CNAME .
 www.leads.goldenshovel.com CNAME .
@@ -827,6 +825,7 @@ www.shrfbdg004.com CNAME .
 www.skye6oner.com CNAME .
 www.sl-ct5.com CNAME .
 www.slim2disc.com CNAME .
+www.smart-business-intuition.com CNAME .
 www.snta0034.com CNAME .
 www.softtrack08.com CNAME .
 www.soil5hear.com CNAME .
@@ -847,7 +846,9 @@ www.tghbn12.com CNAME .
 www.tgvrfc4.com CNAME .
 www.the-lead-tracker.com CNAME .
 www.tire1soak.com CNAME .
+www.tm1-001.com CNAME .
 www.trackdiscovery.net CNAME .
+www.trailbox.net CNAME .
 www.trksrv45.com CNAME .
 www.trksrv46.com CNAME .
 www.tst16infra.com CNAME .
@@ -856,6 +857,12 @@ www.uhygtf1.com CNAME .
 www.vane3alga.com CNAME .
 www.vcentury01.com CNAME .
 www.wait8hurl.com CNAME .
+www.wauk1care.com CNAME .
+www.web-01-gbl.com CNAME .
+www.web-cntr-07.com CNAME .
+www.wild0army.com CNAME .
+www.www-path.com CNAME .
 www.ydwsjt-2.com CNAME .
 www.yeld9auto.com CNAME .
+www.zcbmn14.com CNAME .
 www.zmxncb5.com CNAME .

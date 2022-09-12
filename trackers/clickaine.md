@@ -11,7 +11,6 @@
 | a3.hotpornfile.org | api.clickaine.com |
 | ad.arabsex1.com | api.clickaine.com |
 | ad1.xero.porn | api.clickaine.com |
-| api.applogy.com | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
 | api.willalland.info | api.clickaine.com |
 | api2.clickaine.com | api.clickaine.com |
@@ -48,7 +47,6 @@
 | cn4.animehdl.net | api.clickaine.com |
 | ddd.contoseroticoscnn.com | api.clickaine.com |
 | ddd.sexstories69.com | api.clickaine.com |
-| delivery.applogy.com | api.clickaine.com |
 | dnsbl.test.ww1.willalland.info | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flare.vtube.to | api.clickaine.com |

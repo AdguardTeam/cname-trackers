@@ -533,7 +533,6 @@ links.email.greenlight.me CNAME .
 links.email.nbc.com CNAME .
 links.email.oxygen.com CNAME .
 links.email.tajawal.com CNAME .
-links.email.twine.com CNAME .
 links.email.usanetwork.com CNAME .
 links.evault.history.com CNAME .
 links.fabletics.co.uk CNAME .

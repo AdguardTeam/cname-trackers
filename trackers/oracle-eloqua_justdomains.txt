@@ -7,13 +7,11 @@ eloqua-tracking.unity.com
 eloqua-tracking.unity3d.com
 info.lexisnexis.co.in
 info.lexisnexis.com.my
-info.lexisnexis.com.sg
 t.goduke.com
 t.goheels.com
 t.gotigersgo.com
 t.meangreensports.com
 t.nevadawolfpack.com
-t.nusports.com
 #
 # p03e.hs.eloqua.com disguised trackers
 #
@@ -48,9 +46,6 @@ elq.sonicwall.com
 activity.asce.org
 business.vodafone.com
 cz-mktg.vodafone.com
-elq.egi.co.uk
-elq.icis.com
-elqtrck.nanawall.com
 #
 # p06e.hs.eloqua.com disguised trackers
 #
@@ -61,13 +56,11 @@ carte.fleet-page.total.fr
 diamages.carte-gr.total.fr
 discover.stop-shop.com
 dlabiznesu.pracuj.pl
-stagezomation.carte-gr.total.fr
 #
 # p04.hs.eloqua.com disguised trackers
 #
 agentcomm.mercuryinsurance.com
 eloqua.liberty.edu
-elq.irobot.com
 #
 # p04d.hs.eloqua.com disguised trackers
 #
@@ -76,8 +69,6 @@ appointments.providence.org
 businessengage.comcast.com
 connect.news.evergreenhealth.com
 elqtracking.victorops.com
-tracker.providence.org
-tracker.swedish.org
 #
 # p04k.hs.eloqua.com disguised trackers
 #
@@ -118,23 +109,18 @@ dialogue.mazda.se
 dialogue.mazda.si
 dialogue.mazda.sk
 dialogue.nl.mazda.be
-elqtrck.motor.no
 #
 # p04h.hs.eloqua.com disguised trackers
 #
 amplify.strategic-i.com
 connectlp.keysight.com
 content.golfpride.com
-elq.keysight.com
-elq.keysight.com.cn
-st.azcardinals.com
 #
 # p01j.hs.eloqua.com disguised trackers
 #
 analytics.aba.com
 connect.zebra.com
 cookie.solutions.desertfinancial.com
-solutions.desertfinancial.com
 #
 # p06g.hs.eloqua.com disguised trackers
 #
@@ -147,10 +133,6 @@ connect.stihl.info
 curious.cognyte.com
 discover.clarivate.com
 elq-lantern.ruggedsolution.getac.com
-solutions.dbschenker.com
-stat.dbschenker.com
-track.postkodlotteriet.se
-tracking.atea.fi
 #
 # p04j.hs.eloqua.com disguised trackers
 #
@@ -169,8 +151,6 @@ campaigns.rockwellautomation.com
 de-go.experian.com
 elq.accuity.com
 elq.cirium.com
-elqtrk.cummins.com
-solutions2.risk.lexisnexis.com
 #
 # p06j.hs.eloqua.com disguised trackers
 #
@@ -188,9 +168,6 @@ app.ucirvinesports.com
 contact.dksh.com
 downpayment.fernsby.com
 ec.infosys.com
-elq.mouser.sk
-track.info.prweekus.com
-track.quad.com
 #
 # p04i.hs.eloqua.com disguised trackers
 #
@@ -199,22 +176,6 @@ app.go.bge.com
 app.thomsonreuters.com
 ask.legalsolutions.thomsonreuters.info
 comunicaciones.davivienda.com.pa
-engage.3m.com.hn
-engage.3m.com.hr
-engage.3m.com.kw
-engage.3m.com.lv
-engage.3m.com.mx
-engage.3m.com.my
-engage.3m.com.pa
-engage.3m.com.pe
-engage.3m.com.pk
-engage.3m.com.pt
-engage.3m.com.py
-engage.3m.com.qa
-engage.3m.com.ro
-engage.3m.com.sa
-engage.3m.com.sg
-engage.3m.com.sv
 #
 # p03g.hs.eloqua.com disguised trackers
 #
@@ -230,7 +191,6 @@ choose.nu.edu
 # p06.hs.eloqua.com disguised trackers
 #
 app.3d.ultimaker.com
-elqtracking1.tetrapak.com
 #
 # p03f.hs.eloqua.com disguised trackers
 #
@@ -246,7 +206,6 @@ eloqua.eft.com
 eloqua.ethicalcorp.com
 eloqua.eyeforpharma.com
 eloqua.newenergyupdate.com
-tracking.alphacard.com
 tracking.barcodesinc.com
 #
 # p03h.hs.eloqua.com disguised trackers
@@ -264,14 +223,6 @@ connect.intel.com
 education.seek.intel.com
 elqact.gartner.com
 elqtrack.kubotausa.com
-elqtrk.insight.tech
-elqtrk.intel.cn
-elqtrk.intel.co.il
-elqtrk.intel.co.jp
-elqtrk.intel.co.kr
-elqtrk.intel.co.uk
-elqtrk.intel.com
-tracking.about.bgov.com
 #
 # p04e.hs.eloqua.com disguised trackers
 #
@@ -279,9 +230,6 @@ app.bncontacto.fi.cr
 app.info.coopenae.fi.cr
 app.updates.digicert.com
 elq-trk.fullsail.edu
-elq.farmplan.co.uk
-elq.proagrica.com
-tracking.academicyear.org
 tracking.aupairinamerica.com
 #
 # p03d.hs.eloqua.com disguised trackers
@@ -347,10 +295,6 @@ eloqua.pearsonvue.com
 eloqua.pearsonvue.com.cn
 eloqua.pointcode.fr
 eloqua.undergraduateexam.in
-track.info.psychiatryadvisor.com
-track.info.pulmonologyadvisor.com
-track.info.renalandurologynews.com
-track.info.thecardiologyadvisor.com
 #
 # p04g.hs.eloqua.com disguised trackers
 #
@@ -371,9 +315,6 @@ elqapp.spectrum.com
 apply.bpost.be
 bewerben.bpost.be
 campaigns.grenke.com
-solliciteren.bpost.be
-stat.altalex.com
-stat.ipsoa.it
 #
 # p01c.hs.eloqua.com disguised trackers
 #
@@ -382,12 +323,6 @@ be.secure.sonosite.com
 cn.adpinfo.com
 contact-us.adp.ca
 de.secure.sonosite.com
-elq.forrester.com
-elq.macu.com
-solutions.refinitiv.com
-tracking.adp.ca
-tracking.adp.com
-tracking.adpri.org
 #
 # p04c.hs.eloqua.com disguised trackers
 #
@@ -424,7 +359,6 @@ eloq.fiducial.fr
 # p01b.hs.eloqua.com disguised trackers
 #
 campaign-fbsg.fujifilm.com
-campaigns.husky.ca
 campaigns.panasonic.eu
 #
 # p06a.hs.eloqua.com disguised trackers
@@ -438,8 +372,6 @@ eloqua.infobip.com
 eloqua.teknos.com
 elqjourney.pwc.com
 elqtracking.justadviser.com
-stat.guiasjuridicas.es
-tracking.atea.dk
 #
 # p06i.hs.eloqua.com disguised trackers
 #
@@ -459,15 +391,12 @@ efficiency.visma.se
 carreras.unisabana.edu.co
 connect.mycwt.com
 elqtracking.hitachienergy.com
-tracking-explore.agilent.com
-tracking.aapa.org
 #
 # p07j.hs.eloqua.com disguised trackers
 #
 cars.autopia.com.au
 cars.smartleasing.com.au
 connect.telstrawholesale.com
-tracking.apac.business.samsung.com
 #
 # p04b.hs.eloqua.com disguised trackers
 #
@@ -483,7 +412,6 @@ eloqua.onelogin.com
 eloqua.quadrotech-it.com
 eloqua.quest.com
 eloqua.syslog-ng.com
-solutions.westrock.com
 #
 # p01.hs.eloqua.com disguised trackers
 #
@@ -571,10 +499,6 @@ convocation.uwindsor.ca
 electronics.tradeshow.globalsources.com
 elq.artsfestival.org
 #
-# p07h.hs.eloqua.com disguised trackers
-#
-elq.hamamatsu.com
-#
 # p07b.hs.eloqua.com disguised trackers
 #
 elq.utas.edu.au
@@ -584,14 +508,7 @@ elq.utas.edu.au
 elqtracking.flexera.com
 elqtracking.revenera.com
 elqtracking.richardsonrfpd.com
-solutions.equifax.co.uk
-stat.bdc.ca
-#
-# p07a.hs.eloqua.com disguised trackers
-#
-track.manawa-mai.ac.nz
 #
 # p06c.hs.eloqua.com disguised trackers
 #
-tracking.arabiancentres.com
 tracking.athlon.com

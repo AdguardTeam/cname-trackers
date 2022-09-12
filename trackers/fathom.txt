@@ -172,6 +172,8 @@
 !
 ! deprecated-custom-domains.b-cdn.net disguised trackers
 !
+||1ywk8ynty.benediktkick.com^
+||9kz9cttz76.antonsten.com^
 ||aardvark.helpingpets.org.uk^
 ||aardvark.mission-austria.at^
 ||aardvark.revolana.rs^
@@ -244,6 +246,7 @@
 ||canid.peterakkies.net^
 ||capybara.civicsoftwarefoundation.org^
 ||cardinal.businessfirstonline.co.uk^
+||cardinal.ensembleblock.com^
 ||cardinal.iwgb.org.uk^
 ||caribou.color.io^
 ||carp.seniorsinjobs.com^
@@ -256,6 +259,7 @@
 ||cat.weddingsabroad.com^
 ||catfish.lucalabs.com^
 ||cattle.apisyouwonthate.com^
+||cattle.eprc.tools^
 ||cattle.mes-renovateurs.com^
 ||cattle.spiral11.com^
 ||cattle.weiss-bregenz.at^
@@ -281,6 +285,7 @@
 ||condor.stadttunnel-feldkirch.at^
 ||coyote.alboweb.nl^
 ||coyote.gnx.cloud^
+||coyote.nickgurney.com^
 ||crab.cachix.org^
 ||crane.thegardenroomguide.co.uk^
 ||crane.trescolori.cloud^
@@ -328,8 +333,10 @@
 ||emu.pin13.net^
 ||falcon.aniftyco.com^
 ||falcon.backgroundnoise.app^
+||falcon.rowanmanning.com^
 ||fancyrat.calebporzio.com^
 ||fancyrat.flatuicolors.com^
+||fancyrat.keurslager-goeminne.be^
 ||felidae.mysuperportal.com^
 ||felidae.theforeignarchitect.com^
 ||ferret.helpspace.com^
@@ -370,6 +377,7 @@
 ||guan.elfenkueche.at^
 ||guanaco.jden.me^
 ||guanaco.redpixelthemes.com^
+||guineapig.espressive.com^
 ||guppy.ausowned.com.au^
 ||haddock.affilimate.com^
 ||haddock.jeffreyknox.dev^
@@ -379,6 +387,7 @@
 ||hedgehog.fightforthefuture.org^
 ||hedgehog.impira.com^
 ||heron.joel.is^
+||heron.morphiq.digital^
 ||heron.notability.com^
 ||heron.oneaudiobooks.app^
 ||herring.panda.network^
@@ -394,6 +403,7 @@
 ||hoverfly.papercrowns.com^
 ||hyena.baseline.is^
 ||hyena.kitafund.com^
+||iguana.delbaoliveira.com^
 ||ijderu.tr.af^
 ||impala.misexpedientes.cloud^
 ||impala.vnv.nl^
@@ -401,6 +411,7 @@
 ||jackal.laravelpackage.com^
 ||jackal.thetie.io^
 ||jay.brauerei-egg.at^
+||jay.breakup.management^
 ||jcpjfyikk.dogbonemarket.com^
 ||jellyfish.therapieplatz-finden.de^
 ||kite.ibirthdayclub.com^
@@ -418,6 +429,7 @@
 ||leech.stargate-project.de^
 ||leopard.ui-snippets.dev^
 ||leopard.understandit.se^
+||leopon.originalmineral.com^
 ||limpet.coinponent.com^
 ||limpet.yago.dev^
 ||llama.eniston.io^
@@ -567,6 +579,7 @@
 ||silkworm.preventingsuicideinsussex.org^
 ||silverfish.trustduty.com^
 ||skink.madewithlove.com^
+||skunk.dwa.li^
 ||sloth.pricingforhackers.com^
 ||smelt.allenpike.com^
 ||smelt.waltrack.net^
@@ -591,6 +604,7 @@
 ||stingray.reform.app^
 ||stoat.death-to-ie11.com^
 ||swallow.axiom.co^
+||swallow.pelias.io^
 ||swan.groomsmart.app^
 ||swan.visualma.com^
 ||swift.jos.ht^
@@ -637,6 +651,7 @@
 ||warbler.nycmode.com^
 ||waterboa.midu.dev^
 ||weasel.accomplice.ai^
+||whitefish.kenku.fm^
 ||wildcat.fspy.io^
 ||wildfowl.minter.io^
 ||wombat.buildrtech.com^

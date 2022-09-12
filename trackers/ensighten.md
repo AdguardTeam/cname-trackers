@@ -188,6 +188,7 @@
 | analytics.synchronybusiness.com | edge-geo.nc0.co |
 | analytics.synchronycareers.com | edge-geo.nc0.co |
 | analytics.synchronyuniversity.com | edge-geo.nc0.co |
+| analytics.synchronyuniversity.com | edge-geo.nc0.co |
 | assets1.aainsurance.co.nz | edge-geo.nc0.co |
 | assets1.aainsurance.co.nz | edge-geo.nc0.co |
 | assets1.aami.com.au | edge-geo.nc0.co |
@@ -330,6 +331,7 @@
 | gst.pulse.toyota.com | edge-geo.nc0.co |
 | gst.pulse.toyota.com | edge-geo.nc0.co |
 | hub.talkdeskapp.com | edge-geo.nc0.co |
+| hub.talkdeskapp.com | edge-geo.nc0.co |
 | latimes.activate.ensighten.com | edge-geo.nc0.co |
 | maurices.activate.ensighten.com | edge-geo.nc0.co |
 | mcdonalds.activate.ensighten.com | edge-geo.nc0.co |
@@ -375,6 +377,7 @@
 | sst.dell.com | edge-geo.nc0.co |
 | sst.johnlewis.com | edge-geo.nc0.co |
 | sst.johnlewis.com | edge-geo.nc0.co |
+| sst.nab.com.au | edge-geo.nc0.co |
 | sst.nab.com.au | edge-geo.nc0.co |
 | t.janieandjack.com | edge-geo.nc0.co |
 | t.janieandjack.com | edge-geo.nc0.co |

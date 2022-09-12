@@ -141,6 +141,7 @@
 | c1hreap0cjyj.kvest.ee | smartproxy.dataunlocker.com |
 | cihnqp6p65.koinly.io | smartproxy.dataunlocker.com |
 | cpi1supdqcxk.tapmyback.com | smartproxy.dataunlocker.com |
+| cpi1supdqcxk.tapmyback.com | smartproxy.dataunlocker.com |
 | cqz6fn6aox.aporia.com | smartproxy.dataunlocker.com |
 | din1j0su0u99.artwallstreet.io | smartproxy.dataunlocker.com |
 | dsoxjxin5jji.controlconceptsusa.com | smartproxy.dataunlocker.com |
@@ -148,7 +149,6 @@
 | e62ndy5gz80q.bitdomain.biz | smartproxy.dataunlocker.com |
 | f0tiojboxnc1.bitdomain.biz | smartproxy.dataunlocker.com |
 | fq9vy0muyqi3.www.madrigalmaps.com | smartproxy.dataunlocker.com |
-| fvf3adsna5qc.www.earthclassmail.com | smartproxy.dataunlocker.com |
 | giy0v1igdqc1.crystalmathlabs.com | smartproxy.dataunlocker.com |
 | gl5g98t0vfjb.panprices.com | smartproxy.dataunlocker.com |
 | gomyjndc8v5t.www.nookgaming.com | smartproxy.dataunlocker.com |

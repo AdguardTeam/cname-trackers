@@ -50,7 +50,6 @@ e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
-fvf3adsna5qc.www.earthclassmail.com CNAME .
 giy0v1igdqc1.crystalmathlabs.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gomyjndc8v5t.www.nookgaming.com CNAME .

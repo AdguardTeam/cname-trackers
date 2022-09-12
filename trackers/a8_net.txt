@@ -327,7 +327,6 @@
 ||cv.h-docomo.com^
 ||cv.hoikushi-bosyu.com^
 ||cv.jidoumail.com^
-||cv.jimsuzuki.com^
 ||cv.masteraxis.com^
 ||cv.online.ysroad.co.jp^
 ||cv.ryoutuki-kyujin.com^

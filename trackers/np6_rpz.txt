@@ -14,7 +14,6 @@ tr.activeprospects.info CNAME .
 tr.actu-companeo.com CNAME .
 tr.actu.bricodepot.com CNAME .
 tr.actu.rmcbfmplay.com CNAME .
-tr.actualites.01net.com CNAME .
 tr.actualites.bfmtv.com CNAME .
 tr.actuentreprises.elior.fr CNAME .
 tr.actupremium.com CNAME .
@@ -22,7 +21,6 @@ tr.actus-fdj.fr CNAME .
 tr.allopneus.com CNAME .
 tr.animation.lexpress.fr CNAME .
 tr.animation.micromania.fr CNAME .
-tr.animations.01net.com CNAME .
 tr.animations.bfmtv.com CNAME .
 tr.apou032.espmp-agfr.net CNAME .
 tr.asp002q.espmp-aufr.net CNAME .
@@ -467,7 +465,6 @@ tr.offer-companeo.co.uk CNAME .
 tr.offerte.migliorifornitori.it CNAME .
 tr.offre-companeo.com CNAME .
 tr.offres-professionnelles.fr CNAME .
-tr.offres.01net.com CNAME .
 tr.offres.bfmtv.com CNAME .
 tr.offrevip.banque-casino.fr CNAME .
 tr.offrevip.floa.fr CNAME .

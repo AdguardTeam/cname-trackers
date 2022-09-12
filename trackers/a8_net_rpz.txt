@@ -327,7 +327,6 @@ cv.figure.toy-kaitoru.com CNAME .
 cv.h-docomo.com CNAME .
 cv.hoikushi-bosyu.com CNAME .
 cv.jidoumail.com CNAME .
-cv.jimsuzuki.com CNAME .
 cv.masteraxis.com CNAME .
 cv.online.ysroad.co.jp CNAME .
 cv.ryoutuki-kyujin.com CNAME .

@@ -283,7 +283,6 @@ www.ripe8book.com
 www.s3network1.com
 www.se-core-pipe.com
 www.shrfbdg004.com
-www.smart-business-intuition.com
 www.soma9vols.com
 www.sour1bare.com
 www.srv00infra.com
@@ -301,13 +300,9 @@ www.trksrv45.com
 www.tula9mari.com
 www.uhygtf1.com
 www.vane3alga.com
-www.wauk1care.com
-www.web-01-gbl.com
 www.web-cntr-07.com
-www.wild0army.com
 www.www-path.com
 www.ydwsjt-2.com
-www.zcbmn14.com
 #
 # v3-eu-appgwv2.uksouth.cloudapp.azure.com disguised trackers
 #
@@ -553,6 +548,7 @@ www.44-trk-srv.com
 www.44tele-infra.com
 www.55-trk-srv.com
 www.66infra-strat.com
+www.88infra-strat.com
 www.acor1sign.com
 www.adgjl13.com
 www.agiledata7.com
@@ -637,6 +633,7 @@ www.dtc-v6t.com
 www.dthvdr9.com
 www.dump4barn.com
 www.east2pony.com
+www.easy0bark.com
 www.ed-clr-01.com
 www.efvrgb12.com
 www.ela-3-tnk.com
@@ -715,6 +712,7 @@ www.lansrv050.com
 www.lansrv060.com
 www.lansrv070.com
 www.lansrv080.com
+www.lansrv090.com
 www.lazy8krti.com
 www.ldfr-cloud.net
 www.leads.goldenshovel.com
@@ -827,6 +825,7 @@ www.shrfbdg004.com
 www.skye6oner.com
 www.sl-ct5.com
 www.slim2disc.com
+www.smart-business-intuition.com
 www.snta0034.com
 www.softtrack08.com
 www.soil5hear.com
@@ -847,7 +846,9 @@ www.tghbn12.com
 www.tgvrfc4.com
 www.the-lead-tracker.com
 www.tire1soak.com
+www.tm1-001.com
 www.trackdiscovery.net
+www.trailbox.net
 www.trksrv45.com
 www.trksrv46.com
 www.tst16infra.com
@@ -856,6 +857,12 @@ www.uhygtf1.com
 www.vane3alga.com
 www.vcentury01.com
 www.wait8hurl.com
+www.wauk1care.com
+www.web-01-gbl.com
+www.web-cntr-07.com
+www.wild0army.com
+www.www-path.com
 www.ydwsjt-2.com
 www.yeld9auto.com
+www.zcbmn14.com
 www.zmxncb5.com

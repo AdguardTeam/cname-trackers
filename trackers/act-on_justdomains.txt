@@ -4,6 +4,7 @@
 # actonservice.com disguised trackers
 #
 3dm.3dimensional.com
+a.evergage.com
 absinfo.eagle.org
 act-on.ioactive.com
 act.lanap.com
@@ -418,7 +419,6 @@ yourhealth.cooperhealth.org
 3347.wolf-gordon.com
 3dm.3dimensional.com
 590.conviron.com
-a.evergage.com
 a10655.actonservice.com
 a10695.actonservice.com
 a10696.actonservice.com
@@ -1207,6 +1207,7 @@ flexibleplan.actonservice.com
 foodpackaging.kpfilms.com
 forms.accc-cancer.org
 forms.testoil.com
+foxitsoftware.actonsoftware.com
 fr.promo.skf.com
 fundraising.centuryresources.com
 geo.bluedot.io
