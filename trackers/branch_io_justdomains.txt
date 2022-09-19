@@ -84,10 +84,7 @@ ablink.hello.steadyapp.com
 ablink.help.innit.com
 ablink.help.sanvello.com
 ablink.help.shopwell.com
-ablink.info.beres.id
 ablink.info.felixmobile.com.au
-ablink.info.gawin.ph
-ablink.info.kaodim.com
 ablink.info.pressreader.com
 ablink.info.sofi.org
 ablink.info.themarket.nz

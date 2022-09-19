@@ -167,6 +167,7 @@
 | eloqua.pointcode.fr | p03a.hs.eloqua.com |
 | eloqua.undergraduateexam.in | p03a.hs.eloqua.com |
 | t.goduke.com | p03a.t.eloqua.com |
+| t.goduke.com | p03a.t.eloqua.com |
 | app.fairparkdallas.com | p03b.hs.eloqua.com |
 | app.scarletknights.com | p03b.hs.eloqua.com |
 | app.und.com | p03b.hs.eloqua.com |
@@ -199,6 +200,7 @@
 | business.samsungusa.com | p03e.hs.eloqua.com |
 | corporate.mattamyhomes.com | p03e.hs.eloqua.com |
 | t.gotigersgo.com | p03e.t.eloqua.com |
+| t.gotigersgo.com | p03e.t.eloqua.com |
 | app.arizonawildcats.com | p03f.hs.eloqua.com |
 | app.georgiadogs.com | p03f.hs.eloqua.com |
 | app.hokiesports.com | p03f.hs.eloqua.com |
@@ -213,7 +215,10 @@
 | eloqua.newenergyupdate.com | p03f.hs.eloqua.com |
 | tracking.barcodesinc.com | p03f.hs.eloqua.com |
 | info.lexisnexis.co.in | p03f.t.eloqua.com |
+| info.lexisnexis.co.in | p03f.t.eloqua.com |
 | info.lexisnexis.com.my | p03f.t.eloqua.com |
+| info.lexisnexis.com.my | p03f.t.eloqua.com |
+| t.meangreensports.com | p03f.t.eloqua.com |
 | t.meangreensports.com | p03f.t.eloqua.com |
 | app.12thman.com | p03g.hs.eloqua.com |
 | app.seminoles.com | p03g.hs.eloqua.com |
@@ -242,6 +247,7 @@
 | downpayment.fernsby.com | p03i.hs.eloqua.com |
 | ec.infosys.com | p03i.hs.eloqua.com |
 | t.nevadawolfpack.com | p03i.t.eloqua.com |
+| t.nevadawolfpack.com | p03i.t.eloqua.com |
 | app.uclabruins.com | p03j.hs.eloqua.com |
 | app.xlcenter.com | p03j.hs.eloqua.com |
 | elqapp.spectrum.com | p03j.hs.eloqua.com |
@@ -255,6 +261,7 @@
 | eloqua.radware.com | p03k.hs.eloqua.com |
 | elqtracking.capella.edu | p03k.hs.eloqua.com |
 | elqtracking.strayer.edu | p03k.hs.eloqua.com |
+| t.goheels.com | p03k.t.eloqua.com |
 | t.goheels.com | p03k.t.eloqua.com |
 | agentcomm.mercuryinsurance.com | p04.hs.eloqua.com |
 | eloqua.liberty.edu | p04.hs.eloqua.com |

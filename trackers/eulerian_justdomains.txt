@@ -279,7 +279,6 @@ pv.partenaires-verisure.fr
 qfo.eurotierce.be
 qpl9.destinia.dk
 qtj0.destinia.pl
-quk9.destinia.com.ar
 qyn6.ofertastelecable.es
 qzl8.destinia.fi
 r1ztni.oui.sncf

@@ -279,7 +279,6 @@ pv.partenaires-verisure.fr CNAME .
 qfo.eurotierce.be CNAME .
 qpl9.destinia.dk CNAME .
 qtj0.destinia.pl CNAME .
-quk9.destinia.com.ar CNAME .
 qyn6.ofertastelecable.es CNAME .
 qzl8.destinia.fi CNAME .
 r1ztni.oui.sncf CNAME .

@@ -4,7 +4,6 @@
 # actonservice.com disguised trackers
 #
 3dm.3dimensional.com
-a.evergage.com
 absinfo.eagle.org
 act-on.ioactive.com
 act.lanap.com
@@ -25,7 +24,6 @@ bcob.charlotte.edu
 bcob.uncc.edu
 biznews.oregon.gov
 bjc.hrm.healthgrades.com
-blog.trinityconsultants.com
 business.franchiseforsale.com
 business.franchiseopportunities.com
 buzz.logility.com
@@ -58,10 +56,8 @@ content.sffirecu.org
 corporate-marketing.hrs.com
 corporate.averydennison.com
 crm.casabaca.com
-cure.trueface.org
 dealercontent.homehardware.ca
 devotionalclicks.amazingfacts.org
-digitalmarketing.gogsg.com
 edeals.rbp.com
 elcaminohospital.hrm.healthgrades.com
 em-info2.thermofisher.com
@@ -75,8 +71,6 @@ fac.fanucamerica.com
 foodpackaging.kpfilms.com
 forms.accc-cancer.org
 foxitsoftware.actonsoftware.com
-gas-sensing.spec-sensors.com
-globalcommunications.sc.com
 go.carlisleft.com
 go.diagraph.com
 go.durst-group.com
@@ -87,7 +81,6 @@ go.gemapowdercoating.net
 go.gpcom.com
 go.lanair.com
 go.multi-conveyor.com
-go.northsidemedia.com
 go.pheasant.com
 go.phhlending.com
 go.quartzinvitations.com
@@ -178,7 +171,6 @@ insights.diamond-consultants.com
 insights.mckimcg.ca
 insights.partnerwithfacet.com
 insights.radiometer.com
-intouch.schlesingergroup.com
 it.conres.com
 jwpepper.actonsoftware.com
 kumed.hrm.healthgrades.com
@@ -419,6 +411,7 @@ yourhealth.cooperhealth.org
 3347.wolf-gordon.com
 3dm.3dimensional.com
 590.conviron.com
+a.evergage.com
 a10655.actonservice.com
 a10695.actonservice.com
 a10696.actonservice.com
@@ -1084,6 +1077,7 @@ beyondmeasure.rigoltech.com
 bg.promo.skf.com
 biznews.oregon.gov
 bjc.hrm.healthgrades.com
+blog.trinityconsultants.com
 bluemarblepayroll.actonservice.com
 br.promo.skf.com
 business.franchiseforsale.com
@@ -1136,7 +1130,6 @@ connect.tpgtelecom.com.au
 connect.uofuhealth.org
 connexuscu.actonservice.com
 contact.adaptavist.com
-contact.lendopolis.com
 contact.marathon-sports-ec.com
 content.bondbrothers.com
 content.brain-storm-email.com
@@ -1160,12 +1153,14 @@ corporate-marketing.hrs.com
 corporate.averydennison.com
 crm.casabaca.com
 cta.onguard.com
+cure.trueface.org
 dc.actonservice.com
 de.bca-news.com
 de.promo.skf.com
 dealercontent.homehardware.ca
 dev-tacticalma.actonservice.com
 devotionalclicks.amazingfacts.org
+digitalmarketing.gogsg.com
 digitalmarketing.smu.edu.sg
 direct.t-mobile.com
 discover.dignityhealth.org
@@ -1210,8 +1205,10 @@ forms.testoil.com
 foxitsoftware.actonsoftware.com
 fr.promo.skf.com
 fundraising.centuryresources.com
+gas-sensing.spec-sensors.com
 geo.bluedot.io
 gk.gkservices.com
+globalcommunications.sc.com
 go.acelisconnectedhealth.com
 go.carlisleft.com
 go.diagraph.com
@@ -1232,6 +1229,7 @@ go.mtasolutions.com
 go.multi-conveyor.com
 go.mvtec.com
 go.noregon.com
+go.northsidemedia.com
 go.ovsoftware.nl
 go.peppermarketing.com.au
 go.pgx.com
@@ -1390,12 +1388,14 @@ insights.mckimcg.ca
 insights.partnerwithfacet.com
 insights.radiometer.com
 interworks.cloud.actonservice.com
+intouch.schlesingergroup.com
 ishainsight.actonservice.com
 it.conres.com
 it.promo.skf.com
 it.sharpmarketing.eu
 jeffersonhealth.hrm.healthgrades.com
 jetlinx.actonservice.com
+jwpepper.actonsoftware.com
 knowledge.equitymethods.com
 kr.promo.skf.com
 kristechwire.actonservice.com

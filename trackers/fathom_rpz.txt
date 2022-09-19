@@ -178,14 +178,12 @@ aardvark.helpingpets.org.uk CNAME .
 aardvark.mission-austria.at CNAME .
 aardvark.revolana.rs CNAME .
 aardvark.tonicaudio.com CNAME .
-aardwolf.ass.com CNAME .
 aardwolf.keygen.sh CNAME .
 albatross.creacoon.com CNAME .
 albatross.mypromo.co CNAME .
 albatross.ohseesoftware.com CNAME .
 alligator.remotecyberwork.com CNAME .
 alpaca.reclaimthenet.org CNAME .
-alpaca.skillsnt.io CNAME .
 alpaca.thesocialmedwork.com CNAME .
 am2lma0ay.xrpmerchstore.com CNAME .
 amphibian.juergenhaller.at CNAME .
@@ -286,7 +284,6 @@ condor.stadttunnel-feldkirch.at CNAME .
 coyote.alboweb.nl CNAME .
 coyote.gnx.cloud CNAME .
 coyote.nickgurney.com CNAME .
-crab.cachix.org CNAME .
 crane.thegardenroomguide.co.uk CNAME .
 crane.trescolori.cloud CNAME .
 crawdad.craiga.id.au CNAME .

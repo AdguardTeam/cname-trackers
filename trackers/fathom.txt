@@ -178,14 +178,12 @@
 ||aardvark.mission-austria.at^
 ||aardvark.revolana.rs^
 ||aardvark.tonicaudio.com^
-||aardwolf.ass.com^
 ||aardwolf.keygen.sh^
 ||albatross.creacoon.com^
 ||albatross.mypromo.co^
 ||albatross.ohseesoftware.com^
 ||alligator.remotecyberwork.com^
 ||alpaca.reclaimthenet.org^
-||alpaca.skillsnt.io^
 ||alpaca.thesocialmedwork.com^
 ||am2lma0ay.xrpmerchstore.com^
 ||amphibian.juergenhaller.at^
@@ -286,7 +284,6 @@
 ||coyote.alboweb.nl^
 ||coyote.gnx.cloud^
 ||coyote.nickgurney.com^
-||crab.cachix.org^
 ||crane.thegardenroomguide.co.uk^
 ||crane.trescolori.cloud^
 ||crawdad.craiga.id.au^

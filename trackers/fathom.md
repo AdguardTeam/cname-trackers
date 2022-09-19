@@ -20,14 +20,12 @@
 | aardvark.mission-austria.at | deprecated-custom-domains.b-cdn.net |
 | aardvark.revolana.rs | deprecated-custom-domains.b-cdn.net |
 | aardvark.tonicaudio.com | deprecated-custom-domains.b-cdn.net |
-| aardwolf.ass.com | deprecated-custom-domains.b-cdn.net |
 | aardwolf.keygen.sh | deprecated-custom-domains.b-cdn.net |
 | albatross.creacoon.com | deprecated-custom-domains.b-cdn.net |
 | albatross.mypromo.co | deprecated-custom-domains.b-cdn.net |
 | albatross.ohseesoftware.com | deprecated-custom-domains.b-cdn.net |
 | alligator.remotecyberwork.com | deprecated-custom-domains.b-cdn.net |
 | alpaca.reclaimthenet.org | deprecated-custom-domains.b-cdn.net |
-| alpaca.skillsnt.io | deprecated-custom-domains.b-cdn.net |
 | alpaca.thesocialmedwork.com | deprecated-custom-domains.b-cdn.net |
 | am2lma0ay.xrpmerchstore.com | deprecated-custom-domains.b-cdn.net |
 | amphibian.juergenhaller.at | deprecated-custom-domains.b-cdn.net |
@@ -128,7 +126,6 @@
 | coyote.alboweb.nl | deprecated-custom-domains.b-cdn.net |
 | coyote.gnx.cloud | deprecated-custom-domains.b-cdn.net |
 | coyote.nickgurney.com | deprecated-custom-domains.b-cdn.net |
-| crab.cachix.org | deprecated-custom-domains.b-cdn.net |
 | crane.thegardenroomguide.co.uk | deprecated-custom-domains.b-cdn.net |
 | crane.trescolori.cloud | deprecated-custom-domains.b-cdn.net |
 | crawdad.craiga.id.au | deprecated-custom-domains.b-cdn.net |

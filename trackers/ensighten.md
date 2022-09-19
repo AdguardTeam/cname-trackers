@@ -352,6 +352,7 @@
 | nexus.virginholidays.co.uk | edge-geo.nc0.co |
 | p.pulse.buyatoyota.com | edge-geo.nc0.co |
 | p.pulse.lexus.com | edge-geo.nc0.co |
+| p.pulse.lexus.com | edge-geo.nc0.co |
 | p.pulse.toyota.com | edge-geo.nc0.co |
 | p.pulse.toyota.com | edge-geo.nc0.co |
 | pfa.levexis.com | edge-geo.nc0.co |

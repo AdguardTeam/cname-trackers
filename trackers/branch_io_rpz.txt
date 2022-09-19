@@ -84,10 +84,7 @@ ablink.hello.steadyapp.com CNAME .
 ablink.help.innit.com CNAME .
 ablink.help.sanvello.com CNAME .
 ablink.help.shopwell.com CNAME .
-ablink.info.beres.id CNAME .
 ablink.info.felixmobile.com.au CNAME .
-ablink.info.gawin.ph CNAME .
-ablink.info.kaodim.com CNAME .
 ablink.info.pressreader.com CNAME .
 ablink.info.sofi.org CNAME .
 ablink.info.themarket.nz CNAME .

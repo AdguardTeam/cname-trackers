@@ -356,7 +356,6 @@ subtitle.mom CNAME .
 sup.srvtax.com CNAME .
 support.streamjav.top CNAME .
 szj.boombay.xyz CNAME .
-t.rklmcdn.com CNAME .
 taoviep.mom CNAME .
 tb.turbocap.net CNAME .
 testcommon.soundrussian.com CNAME .
@@ -410,7 +409,6 @@ x1cdn.fin.ovh CNAME .
 x2sfa.javgg.eu CNAME .
 xau.pongping.mom CNAME .
 xxxlove.rooski.net CNAME .
-z.rklmcdn.com CNAME .
 z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .
 zeenite.online CNAME .

@@ -4,7 +4,6 @@
 ; actonservice.com disguised trackers
 ;
 3dm.3dimensional.com CNAME .
-a.evergage.com CNAME .
 absinfo.eagle.org CNAME .
 act-on.ioactive.com CNAME .
 act.lanap.com CNAME .
@@ -25,7 +24,6 @@ bcob.charlotte.edu CNAME .
 bcob.uncc.edu CNAME .
 biznews.oregon.gov CNAME .
 bjc.hrm.healthgrades.com CNAME .
-blog.trinityconsultants.com CNAME .
 business.franchiseforsale.com CNAME .
 business.franchiseopportunities.com CNAME .
 buzz.logility.com CNAME .
@@ -58,10 +56,8 @@ content.sffirecu.org CNAME .
 corporate-marketing.hrs.com CNAME .
 corporate.averydennison.com CNAME .
 crm.casabaca.com CNAME .
-cure.trueface.org CNAME .
 dealercontent.homehardware.ca CNAME .
 devotionalclicks.amazingfacts.org CNAME .
-digitalmarketing.gogsg.com CNAME .
 edeals.rbp.com CNAME .
 elcaminohospital.hrm.healthgrades.com CNAME .
 em-info2.thermofisher.com CNAME .
@@ -75,8 +71,6 @@ fac.fanucamerica.com CNAME .
 foodpackaging.kpfilms.com CNAME .
 forms.accc-cancer.org CNAME .
 foxitsoftware.actonsoftware.com CNAME .
-gas-sensing.spec-sensors.com CNAME .
-globalcommunications.sc.com CNAME .
 go.carlisleft.com CNAME .
 go.diagraph.com CNAME .
 go.durst-group.com CNAME .
@@ -87,7 +81,6 @@ go.gemapowdercoating.net CNAME .
 go.gpcom.com CNAME .
 go.lanair.com CNAME .
 go.multi-conveyor.com CNAME .
-go.northsidemedia.com CNAME .
 go.pheasant.com CNAME .
 go.phhlending.com CNAME .
 go.quartzinvitations.com CNAME .
@@ -178,7 +171,6 @@ insights.diamond-consultants.com CNAME .
 insights.mckimcg.ca CNAME .
 insights.partnerwithfacet.com CNAME .
 insights.radiometer.com CNAME .
-intouch.schlesingergroup.com CNAME .
 it.conres.com CNAME .
 jwpepper.actonsoftware.com CNAME .
 kumed.hrm.healthgrades.com CNAME .
@@ -419,6 +411,7 @@ yourhealth.cooperhealth.org CNAME .
 3347.wolf-gordon.com CNAME .
 3dm.3dimensional.com CNAME .
 590.conviron.com CNAME .
+a.evergage.com CNAME .
 a10655.actonservice.com CNAME .
 a10695.actonservice.com CNAME .
 a10696.actonservice.com CNAME .
@@ -1084,6 +1077,7 @@ beyondmeasure.rigoltech.com CNAME .
 bg.promo.skf.com CNAME .
 biznews.oregon.gov CNAME .
 bjc.hrm.healthgrades.com CNAME .
+blog.trinityconsultants.com CNAME .
 bluemarblepayroll.actonservice.com CNAME .
 br.promo.skf.com CNAME .
 business.franchiseforsale.com CNAME .
@@ -1136,7 +1130,6 @@ connect.tpgtelecom.com.au CNAME .
 connect.uofuhealth.org CNAME .
 connexuscu.actonservice.com CNAME .
 contact.adaptavist.com CNAME .
-contact.lendopolis.com CNAME .
 contact.marathon-sports-ec.com CNAME .
 content.bondbrothers.com CNAME .
 content.brain-storm-email.com CNAME .
@@ -1160,12 +1153,14 @@ corporate-marketing.hrs.com CNAME .
 corporate.averydennison.com CNAME .
 crm.casabaca.com CNAME .
 cta.onguard.com CNAME .
+cure.trueface.org CNAME .
 dc.actonservice.com CNAME .
 de.bca-news.com CNAME .
 de.promo.skf.com CNAME .
 dealercontent.homehardware.ca CNAME .
 dev-tacticalma.actonservice.com CNAME .
 devotionalclicks.amazingfacts.org CNAME .
+digitalmarketing.gogsg.com CNAME .
 digitalmarketing.smu.edu.sg CNAME .
 direct.t-mobile.com CNAME .
 discover.dignityhealth.org CNAME .
@@ -1210,8 +1205,10 @@ forms.testoil.com CNAME .
 foxitsoftware.actonsoftware.com CNAME .
 fr.promo.skf.com CNAME .
 fundraising.centuryresources.com CNAME .
+gas-sensing.spec-sensors.com CNAME .
 geo.bluedot.io CNAME .
 gk.gkservices.com CNAME .
+globalcommunications.sc.com CNAME .
 go.acelisconnectedhealth.com CNAME .
 go.carlisleft.com CNAME .
 go.diagraph.com CNAME .
@@ -1232,6 +1229,7 @@ go.mtasolutions.com CNAME .
 go.multi-conveyor.com CNAME .
 go.mvtec.com CNAME .
 go.noregon.com CNAME .
+go.northsidemedia.com CNAME .
 go.ovsoftware.nl CNAME .
 go.peppermarketing.com.au CNAME .
 go.pgx.com CNAME .
@@ -1390,12 +1388,14 @@ insights.mckimcg.ca CNAME .
 insights.partnerwithfacet.com CNAME .
 insights.radiometer.com CNAME .
 interworks.cloud.actonservice.com CNAME .
+intouch.schlesingergroup.com CNAME .
 ishainsight.actonservice.com CNAME .
 it.conres.com CNAME .
 it.promo.skf.com CNAME .
 it.sharpmarketing.eu CNAME .
 jeffersonhealth.hrm.healthgrades.com CNAME .
 jetlinx.actonservice.com CNAME .
+jwpepper.actonsoftware.com CNAME .
 knowledge.equitymethods.com CNAME .
 kr.promo.skf.com CNAME .
 kristechwire.actonservice.com CNAME .
