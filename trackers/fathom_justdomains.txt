@@ -211,7 +211,6 @@ badger.pager.app
 baldeagle.e-ma.re
 baldeagle.eternalmma.com
 bandicoot.mohit.dev
-basilisk.sigurdarson.is
 bass.kathryncallaghan.co.uk
 bass.kidneystonediet.com
 bear.datingrelationshipsadvice.com
@@ -415,7 +414,6 @@ kite.ibirthdayclub.com
 kite.ofenbau-voppichler.at
 kiwi.railway.app
 koala.readyfive.io
-koala.stopdesign.com
 koi.artsvp.co
 ks42zt.spec.fm
 ladybug.cargolabs.com
@@ -487,7 +485,6 @@ octopus.couragetrainingcentre.com
 octopus.evobend.com
 orangutan.equaliteam.com
 orangutan.renovare.org
-orangutan.userflow.com
 orca.weatherontheway.app
 ostrich.pergaudiaadastra.de
 otter.goetheanum.media
@@ -633,7 +630,6 @@ toucan.ateliermilky.com
 trout.travelmassive.com
 tuna.ajaymantri.com
 turkey.tella.tv
-turtle.anotec.com
 turtle.mushtache.com
 uktgg.dev-tester.com
 vampirebat.git-tower.com

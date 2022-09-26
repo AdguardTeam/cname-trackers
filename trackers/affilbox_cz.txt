@@ -130,7 +130,6 @@
 ||affiliate.diana-company.sk^
 ||affiliate.dmxgear.cz^
 ||affiliate.domoss.sk^
-||affiliate.drvet.cz^
 ||affiliate.easylingo.com^
 ||affiliate.easyproject.com^
 ||affiliate.easyredmine.com^

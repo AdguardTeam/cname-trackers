@@ -563,8 +563,6 @@ www.notifysrv.com
 #
 # cds.d6n9n7e2.hwcdn.net disguised trackers
 #
-a.addisplaynetwork.com
-a.etology.com
 a.exdynsrv.com
 a.exoclick.com
 a.exosrv.com
@@ -575,6 +573,5 @@ delivery.gettopple.com
 #
 # cds.v3j9t5q9.hwcdn.net disguised trackers
 #
-admin.adnation.com
 admin.etology.com
 admin.shafttraffic.com

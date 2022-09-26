@@ -30,7 +30,6 @@ a.andropps.us CNAME .
 a.antiadxxxspy.com CNAME .
 a.apyarvideo.xyz CNAME .
 a.artamkari.com CNAME .
-a.asgadblock.buzz CNAME .
 a.ax.xxx CNAME .
 a.bitporno.com CNAME .
 a.cashjma.com CNAME .
@@ -346,7 +345,6 @@ spy.bocvu.lol CNAME .
 spy.luvprn.com CNAME .
 spyglass.octanime.net CNAME .
 spyglass.reklamko.pro CNAME .
-srv.clinno.link CNAME .
 sshopee.beauty CNAME .
 statement.blauenseville.buzz CNAME .
 stbvip.co CNAME .

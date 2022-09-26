@@ -30,7 +30,6 @@
 ||box.bossdata.be^
 ||erp.qwic.nl^
 ||host11.traffic-builders.com^
-||s0.beyondonline.nl^
 ||s4.parkeren-amsterdam.com^
 ||s4.parkeren-haarlem.nl^
 ||s4.parkeren-utrecht.nl^

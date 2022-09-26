@@ -51,7 +51,6 @@
 * p01c.hs.eloqua.com
 * p04c.hs.eloqua.com
 * p06h.hs.eloqua.com
-* p07d.hs.eloqua.com
 * p07.hs.eloqua.com
 * p06b.hs.eloqua.com
 * p01b.hs.eloqua.com
@@ -420,7 +419,6 @@
 | cloud.aspiresys.com | p07.hs.eloqua.com |
 | discover.10play.com.au | p07.hs.eloqua.com |
 | elq.utas.edu.au | p07b.hs.eloqua.com |
-| belong.curtin.edu.au | p07d.hs.eloqua.com |
 | contact.lesmills.com | p07e.hs.eloqua.com |
 | contact.samsungsds.com | p07e.hs.eloqua.com |
 | education.bendigotafe.edu.au | p07e.hs.eloqua.com |

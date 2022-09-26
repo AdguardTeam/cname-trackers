@@ -4,6 +4,7 @@
 ; actonservice.com disguised trackers
 ;
 3dm.3dimensional.com CNAME .
+a.evergage.com CNAME .
 absinfo.eagle.org CNAME .
 act-on.ioactive.com CNAME .
 act.lanap.com CNAME .
@@ -411,7 +412,6 @@ yourhealth.cooperhealth.org CNAME .
 3347.wolf-gordon.com CNAME .
 3dm.3dimensional.com CNAME .
 590.conviron.com CNAME .
-a.evergage.com CNAME .
 a10655.actonservice.com CNAME .
 a10695.actonservice.com CNAME .
 a10696.actonservice.com CNAME .

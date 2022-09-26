@@ -36,7 +36,6 @@
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.apyarvideo.xyz | 0i0i0i0.com |
 | a.artamkari.com | 0i0i0i0.com |
-| a.asgadblock.buzz | 0i0i0i0.com |
 | a.ax.xxx | 0i0i0i0.com |
 | a.bitporno.com | 0i0i0i0.com |
 | a.cashjma.com | 0i0i0i0.com |
@@ -347,7 +346,6 @@
 | spy.luvprn.com | 0i0i0i0.com |
 | spyglass.octanime.net | 0i0i0i0.com |
 | spyglass.reklamko.pro | 0i0i0i0.com |
-| srv.clinno.link | 0i0i0i0.com |
 | sshopee.beauty | 0i0i0i0.com |
 | statement.blauenseville.buzz | 0i0i0i0.com |
 | stbvip.co | 0i0i0i0.com |

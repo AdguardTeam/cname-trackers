@@ -201,7 +201,6 @@ plausible.dev.sketch.com CNAME .
 plausible.doberman.co CNAME .
 plausible.doctave.com CNAME .
 plausible.edu-focus.org CNAME .
-plausible.ericgoebelbecker.com CNAME .
 plausible.essenheilt.de CNAME .
 plausible.eurostocks.nl CNAME .
 plausible.exploreandcreate.com CNAME .

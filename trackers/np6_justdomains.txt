@@ -284,7 +284,6 @@ tr.mail.vo3000.com
 tr.mail1.macif.fr
 tr.mailing.achatpublic.com
 tr.mailing.lvmhappening.com
-tr.mailing.r2e-humanis.fr
 tr.mailmp.macif.net
 tr.mailperformance.fr
 tr.maisonsdumonde.com

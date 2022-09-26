@@ -30,7 +30,6 @@ app1.maatwerkonline.nl CNAME .
 box.bossdata.be CNAME .
 erp.qwic.nl CNAME .
 host11.traffic-builders.com CNAME .
-s0.beyondonline.nl CNAME .
 s4.parkeren-amsterdam.com CNAME .
 s4.parkeren-haarlem.nl CNAME .
 s4.parkeren-utrecht.nl CNAME .

@@ -201,7 +201,6 @@
 ||plausible.doberman.co^
 ||plausible.doctave.com^
 ||plausible.edu-focus.org^
-||plausible.ericgoebelbecker.com^
 ||plausible.essenheilt.de^
 ||plausible.eurostocks.nl^
 ||plausible.exploreandcreate.com^

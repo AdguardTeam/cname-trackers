@@ -338,10 +338,6 @@ bancopostapremia.bancoposta.it
 eloquatracking.iqvia.com
 elqtracking.macegroup.com
 #
-# p07d.hs.eloqua.com disguised trackers
-#
-belong.curtin.edu.au
-#
 # p07.hs.eloqua.com disguised trackers
 #
 bigdata.aspiresys.com

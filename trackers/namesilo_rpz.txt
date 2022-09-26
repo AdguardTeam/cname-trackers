@@ -563,8 +563,6 @@ www.notifysrv.com CNAME .
 ;
 ; cds.d6n9n7e2.hwcdn.net disguised trackers
 ;
-a.addisplaynetwork.com CNAME .
-a.etology.com CNAME .
 a.exdynsrv.com CNAME .
 a.exoclick.com CNAME .
 a.exosrv.com CNAME .
@@ -575,6 +573,5 @@ delivery.gettopple.com CNAME .
 ;
 ; cds.v3j9t5q9.hwcdn.net disguised trackers
 ;
-admin.adnation.com CNAME .
 admin.etology.com CNAME .
 admin.shafttraffic.com CNAME .

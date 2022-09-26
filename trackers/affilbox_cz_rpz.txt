@@ -130,7 +130,6 @@ affiliate.diana-company.cz CNAME .
 affiliate.diana-company.sk CNAME .
 affiliate.dmxgear.cz CNAME .
 affiliate.domoss.sk CNAME .
-affiliate.drvet.cz CNAME .
 affiliate.easylingo.com CNAME .
 affiliate.easyproject.com CNAME .
 affiliate.easyredmine.com CNAME .

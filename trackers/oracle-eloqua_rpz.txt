@@ -338,10 +338,6 @@ bancopostapremia.bancoposta.it CNAME .
 eloquatracking.iqvia.com CNAME .
 elqtracking.macegroup.com CNAME .
 ;
-; p07d.hs.eloqua.com disguised trackers
-;
-belong.curtin.edu.au CNAME .
-;
 ; p07.hs.eloqua.com disguised trackers
 ;
 bigdata.aspiresys.com CNAME .

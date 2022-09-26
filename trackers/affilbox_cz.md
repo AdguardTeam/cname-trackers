@@ -135,7 +135,6 @@
 | affiliate.diana-company.sk | cz.affilbox.cz |
 | affiliate.dmxgear.cz | cz.affilbox.cz |
 | affiliate.domoss.sk | cz.affilbox.cz |
-| affiliate.drvet.cz | cz.affilbox.cz |
 | affiliate.easylingo.com | cz.affilbox.cz |
 | affiliate.easyproject.com | cz.affilbox.cz |
 | affiliate.easyredmine.com | cz.affilbox.cz |

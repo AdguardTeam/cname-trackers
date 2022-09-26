@@ -211,7 +211,6 @@ badger.pager.app CNAME .
 baldeagle.e-ma.re CNAME .
 baldeagle.eternalmma.com CNAME .
 bandicoot.mohit.dev CNAME .
-basilisk.sigurdarson.is CNAME .
 bass.kathryncallaghan.co.uk CNAME .
 bass.kidneystonediet.com CNAME .
 bear.datingrelationshipsadvice.com CNAME .
@@ -415,7 +414,6 @@ kite.ibirthdayclub.com CNAME .
 kite.ofenbau-voppichler.at CNAME .
 kiwi.railway.app CNAME .
 koala.readyfive.io CNAME .
-koala.stopdesign.com CNAME .
 koi.artsvp.co CNAME .
 ks42zt.spec.fm CNAME .
 ladybug.cargolabs.com CNAME .
@@ -487,7 +485,6 @@ octopus.couragetrainingcentre.com CNAME .
 octopus.evobend.com CNAME .
 orangutan.equaliteam.com CNAME .
 orangutan.renovare.org CNAME .
-orangutan.userflow.com CNAME .
 orca.weatherontheway.app CNAME .
 ostrich.pergaudiaadastra.de CNAME .
 otter.goetheanum.media CNAME .
@@ -633,7 +630,6 @@ toucan.ateliermilky.com CNAME .
 trout.travelmassive.com CNAME .
 tuna.ajaymantri.com CNAME .
 turkey.tella.tv CNAME .
-turtle.anotec.com CNAME .
 turtle.mushtache.com CNAME .
 uktgg.dev-tester.com CNAME .
 vampirebat.git-tower.com CNAME .

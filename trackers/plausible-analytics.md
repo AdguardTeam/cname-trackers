@@ -206,7 +206,6 @@
 | plausible.doberman.co | custom.plausible.io |
 | plausible.doctave.com | custom.plausible.io |
 | plausible.edu-focus.org | custom.plausible.io |
-| plausible.ericgoebelbecker.com | custom.plausible.io |
 | plausible.essenheilt.de | custom.plausible.io |
 | plausible.eurostocks.nl | custom.plausible.io |
 | plausible.exploreandcreate.com | custom.plausible.io |
