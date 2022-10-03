@@ -22,6 +22,7 @@
 ||analytics.betterplaces.nl^
 ||analytics.certifriedit.com^
 ||analytics.churchthemes.com^
+||analytics.churchwp.com^
 ||analytics.codeforscience.org^
 ||analytics.codeskulptor.org^
 ||analytics.dephibank.com^
@@ -218,6 +219,7 @@
 ||plausible.inflex.io^
 ||plausible.joinself.com^
 ||plausible.kabaret.no^
+||plausible.kdojang.com^
 ||plausible.kreya.app^
 ||plausible.langojango.com^
 ||plausible.lawdeeda.com^
@@ -308,6 +310,7 @@
 ||statistik.veronika-steiner.at^
 ||stats.4-camper.de^
 ||stats.45rpm.ch^
+||stats.69grad.de^
 ||stats.acadevor.com^
 ||stats.airtrafik.com^
 ||stats.aixbrain.de^
@@ -400,7 +403,6 @@
 ||stats.dreher-dreher.eu^
 ||stats.drewbolles.com^
 ||stats.drgomesp.dev^
-||stats.edkimo.com^
 ||stats.edovanroyen.com^
 ||stats.ekomenyong.com^
 ||stats.elementary.io^
@@ -455,6 +457,7 @@
 ||stats.huysmanbouw.be^
 ||stats.iamzero.dev^
 ||stats.ibuildings.net^
+||stats.igassmann.me^
 ||stats.igevia.com^
 ||stats.in-tuition.net^
 ||stats.indyhall.org^
@@ -463,6 +466,7 @@
 ||stats.instabudget.app^
 ||stats.interactjs.io^
 ||stats.intothebox.org^
+||stats.invoice.orballo.dev^
 ||stats.ipadhire.co.nz^
 ||stats.iscc-system.org^
 ||stats.ivankahl.com^
@@ -512,12 +516,15 @@
 ||stats.martyntaylor.com^
 ||stats.mashword.com^
 ||stats.mastermeup.com^
+||stats.masterybits.com^
 ||stats.matthiasloibl.com^
 ||stats.matthogg.fyi^
 ||stats.maurer-rides.de^
 ||stats.maximaconsulting.xyz^
+||stats.mehulgohil.com^
 ||stats.melvingeorge.me^
 ||stats.mesenvies.fr^
+||stats.micv.works^
 ||stats.missionrabies.com^
 ||stats.mmazzarolo.com^
 ||stats.motion-effect.com^
@@ -531,6 +538,7 @@
 ||stats.nytecomics.com^
 ||stats.onepagelove.com^
 ||stats.ordinarypuzzles.com^
+||stats.osteopathes.pro^
 ||stats.oursky.com^
 ||stats.oxygem.com^
 ||stats.pasteapp.io^
@@ -553,9 +561,11 @@
 ||stats.polekatfitness.com^
 ||stats.populang.com^
 ||stats.pri.org^
+||stats.pselookup.vrymel.com^
 ||stats.radreiseglueck.de^
 ||stats.raidprotect.org^
 ||stats.rasulkireev.com^
+||stats.ravivyas.com^
 ||stats.reactician.com^
 ||stats.redlabelsports.com^
 ||stats.reisemobil.pro^
@@ -607,6 +617,7 @@
 ||stats.threadstart.io^
 ||stats.timmyomahony.com^
 ||stats.tkg.codes^
+||stats.tms-development.de^
 ||stats.toiletmap.org.uk^
 ||stats.tomorrowacademy.org^
 ||stats.torontohhs.org^
@@ -616,6 +627,10 @@
 ||stats.tresor.one^
 ||stats.trimbles.ie^
 ||stats.trussed.dev^
+||stats.twirrl.co^
+||stats.vanityprojects.com^
+||stats.vdfu-news.de^
+||stats.whereisit5pmrightnow.com^
 ||stats.world.hey.com^
 ||stats.wvs.org.uk^
 ||thumos.fileside.app^
@@ -630,5 +645,10 @@
 ||triton.companyegg.com^
 ||views.emikajewelry.com^
 ||views.sikerproducts.com^
+||visitorcenter.srwild.com^
 ||visits.tommi.space^
+||vitals.cgddrd.me^
 ||vole.amplenote.com^
+||x.ppl.moe^
+||xn--mp8h.brandonzell.com^
+||yolo.philipbjorge.com^

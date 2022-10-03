@@ -14,6 +14,7 @@
 7mx.eider.com CNAME .
 8ezc.sfr.fr CNAME .
 a.perfumesclub.fr CNAME .
+a.perfumesclub.nl CNAME .
 a.weareknitters.se CNAME .
 a8ht.hipp.fr CNAME .
 ac.acadomia.fr CNAME .
@@ -44,6 +45,8 @@ csm.magnetintell.com CNAME .
 csv4.ebs-paris.fr CNAME .
 ct5m.citadium.com CNAME .
 ctp1.bforbank.com CNAME .
+d0f.le-dauphin.com CNAME .
+d2u.dauphinquebec.com CNAME .
 def1.optimhome-recrutement.com CNAME .
 deut1.fdj.fr CNAME .
 dko.vente-unique.nl CNAME .
@@ -59,6 +62,7 @@ ea.armandthiery.fr CNAME .
 ea.assuronline.com CNAME .
 ea.auchantelecom.fr CNAME .
 ea.audika.com CNAME .
+ea.bcassurance.fr CNAME .
 ea.bongo.nl CNAME .
 ea.carrefour.fr CNAME .
 ea.catimini.com CNAME .
@@ -135,6 +139,7 @@ ef.futuroscope.mobi CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
+erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 eule1.pmu.fr CNAME .
 eule3.pmu.fr CNAME .
@@ -178,6 +183,7 @@ g1be.swisslife-direct.fr CNAME .
 gdm1.toner.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
+gi7a.structube.com CNAME .
 guq9.vente-unique.it CNAME .
 gwtc.sfr.fr CNAME .
 h00c.sfr.fr CNAME .
@@ -208,11 +214,11 @@ lsv5.belambra.fr CNAME .
 ltm6.destinia.se CNAME .
 ly8c.caci-online.fr CNAME .
 lzuc.sfr.fr CNAME .
+m10.m1029.com CNAME .
 m3ds.subarumetropolitain.com CNAME .
 mfd.myfirstdressing.com CNAME .
 mgt7.madeindesign.it CNAME .
 mi.miliboo.be CNAME .
-mi.miliboo.ch CNAME .
 mi.miliboo.co.uk CNAME .
 mi.miliboo.com CNAME .
 mi.miliboo.de CNAME .
@@ -235,6 +241,7 @@ nmo1.orpi.com CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
+nym5c.bonlook.com CNAME .
 nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
@@ -277,6 +284,7 @@ pqn7.cheque-dejeuner.fr CNAME .
 prx6.destinia.ch CNAME .
 pv.partenaires-verisure.fr CNAME .
 qfo.eurotierce.be CNAME .
+qjg4.destinia.asia CNAME .
 qpl9.destinia.dk CNAME .
 qtj0.destinia.pl CNAME .
 qyn6.ofertastelecable.es CNAME .

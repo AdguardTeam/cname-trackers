@@ -14,6 +14,7 @@ a8.cocomeister.jp CNAME .
 a8.cotta.jp CNAME .
 a8.croaster-select.com CNAME .
 a8.cyclemarket.jp CNAME .
+a8.de-limmo.jp CNAME .
 a8.degicashop.com CNAME .
 a8.denki-koji.work CNAME .
 a8.denki-tatsujin.com CNAME .
@@ -42,6 +43,7 @@ a8.learning.agaroot.jp CNAME .
 a8.lens-labo.com CNAME .
 a8.looop-denki.com CNAME .
 a8.makeshop.jp CNAME .
+a8.mochu.jp CNAME .
 a8.mosh.jp CNAME .
 a8.n-pri.jp CNAME .
 a8.nanafu.tokyo CNAME .
@@ -61,6 +63,7 @@ a8.ringbell.co.jp CNAME .
 a8.route-roller.info CNAME .
 a8.sakuratravel.jp CNAME .
 a8.sennendo.jp CNAME .
+a8.shokubun.net CNAME .
 a8.shopserve.jp CNAME .
 a8.ssl.aispr.jp CNAME .
 a8.starseries.biz CNAME .
@@ -145,6 +148,7 @@ a8clk.petitjob.jp CNAME .
 a8clk.photorevo.info CNAME .
 a8clk.point-land.net CNAME .
 a8clk.rarejob.com CNAME .
+a8clk.rdlp.jp CNAME .
 a8clk.recycle-net.jp CNAME .
 a8clk.rental.geo-online.co.jp CNAME .
 a8clk.reserve.retty.me CNAME .
@@ -191,6 +195,7 @@ a8cv.brandeuse.jp CNAME .
 a8cv.brassiere-shorts.jp CNAME .
 a8cv.broadbandservice.jp CNAME .
 a8cv.busbookmark.jp CNAME .
+a8cv.catal.jp CNAME .
 a8cv.chillaxy.jp CNAME .
 a8cv.coopnet.or.jp CNAME .
 a8cv.danjiki-net.jp CNAME .
@@ -212,6 +217,7 @@ a8cv.grassbeaute.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
 a8cv.hotyoga-loive.com CNAME .
 a8cv.housingbazar.jp CNAME .
+a8cv.humming-water.com CNAME .
 a8cv.i-office1.net CNAME .
 a8cv.iikyujin.net CNAME .
 a8cv.interlink.or.jp CNAME .
@@ -231,6 +237,8 @@ a8cv.mens-life-clinic.com CNAME .
 a8cv.minana-jp.com CNAME .
 a8cv.minnano-eikaiwa.com CNAME .
 a8cv.modern-deco.jp CNAME .
+a8cv.momiji-tantei.com CNAME .
+a8cv.mustachejapan.com CNAME .
 a8cv.ogaland.com CNAME .
 a8cv.omni7.jp CNAME .
 a8cv.one-netbook.jp CNAME .
@@ -248,6 +256,7 @@ a8cv.shibarinashi-wifi.jp CNAME .
 a8cv.shinro.info CNAME .
 a8cv.shokubun.ec-design.co.jp CNAME .
 a8cv.shop.matsuo1956.jp CNAME .
+a8cv.shop.solve-grp.com CNAME .
 a8cv.signalift.com CNAME .
 a8cv.smart-shikaku.com CNAME .
 a8cv.smoola.jp CNAME .
@@ -267,11 +276,13 @@ a8cv.unico-fan.co.jp CNAME .
 a8cv.unito.life CNAME .
 a8cv.untenmenkyo-yi.com CNAME .
 a8cv.urocca.jp CNAME .
+a8cv.winkle.online CNAME .
 a8cv.workman.jp CNAME .
 a8cv.www.bedstyle.jp CNAME .
 a8cv.www.biyou-soushin.com CNAME .
 a8cv.www.biyou-wakiga.com CNAME .
 a8cv.www.chara-ani.com CNAME .
+a8cv.www.sofastyle.jp CNAME .
 a8cv.xn--1lqs71d2law9k8zbv08f.tokyo CNAME .
 a8cv.ya-man.com CNAME .
 a8cv.yamato-gp.net CNAME .
@@ -288,10 +299,12 @@ a8onlineshop.trendmicro.co.jp CNAME .
 a8redirect.cart.ec-sites.jp CNAME .
 a8sup.chapup.jp CNAME .
 a8trck.aisatsujo.jp CNAME .
+a8trck.j-sen.jp CNAME .
 a8trck.tolot.com CNAME .
 a8trck.worldone.to CNAME .
 a8trk.www.std-lab.jp CNAME .
 acv.cmf-hikari.net CNAME .
+acv.mc-doctor.net CNAME .
 ad.ichiban-boshi.com CNAME .
 ad.magokoro-care-shoku.com CNAME .
 ad.rejichoice.jp CNAME .
@@ -327,6 +340,7 @@ cv.figure.toy-kaitoru.com CNAME .
 cv.h-docomo.com CNAME .
 cv.hoikushi-bosyu.com CNAME .
 cv.jidoumail.com CNAME .
+cv.key-party.jp CNAME .
 cv.masteraxis.com CNAME .
 cv.online.ysroad.co.jp CNAME .
 cv.ryoutuki-kyujin.com CNAME .
@@ -339,15 +353,19 @@ cv.www.rokuzan.net CNAME .
 cv.xn--bcktcvdzde3c.biz CNAME .
 cv.xn--zbs202g.com CNAME .
 cv.zephylrin-w.com CNAME .
+cv.zephylrin-x.net CNAME .
 cv1.stefany.co.jp CNAME .
 kaden.netoff.co.jp CNAME .
+shop.anu-cosme.com CNAME .
 shopping.cellpure.co.jp CNAME .
 sokutei.car2828.jp CNAME .
 sub.booksdream-mypage.com CNAME .
 summary.bookoffonline.co.jp CNAME .
+test.shigoto-web.com CNAME .
 tracking.lead-plus.jp CNAME .
 trck.aeon.co.jp CNAME .
 trck.frutafrutashop.com CNAME .
 trck.rework-s.com CNAME .
 trcka8net.irobot-jp.com CNAME .
 web.life-cw.com CNAME .
+wnform.www.trecenti.com CNAME .

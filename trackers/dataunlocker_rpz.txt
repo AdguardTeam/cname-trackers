@@ -11,6 +11,7 @@
 1796kpkzuwj.www.hawpar.com CNAME .
 1a715b8q5m3j.www.logology.co CNAME .
 1amehwchx31.bloxdhop.io CNAME .
+1baq2nvd6n7.www.keevowallet.com CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
 1iy4gu0lpkp.my.gloryleague.basketball CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
@@ -19,13 +20,14 @@
 2829i2p88jx.www.csaladinet.hu CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .
 2e718yf5jypb.test.digitalsurge.io CNAME .
-2mammis9kbgg.datree.io CNAME .
 2qqfxz5kecr4.www.eldorado.gg CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
+2ydzwm1jh5fr.www.earthclassmail.com CNAME .
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
+6ow38okh3wwn.www.nookgaming.com CNAME .
 6w7kycvz47e0.www.earthclassmail.com CNAME .
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
@@ -38,7 +40,6 @@ ah2sjk1n75th.app.tapmyback.com CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
-bhhpo9xbgry3.www.cybernetman.com CNAME .
 bygr2ri20e4y.li.finance CNAME .
 cihnqp6p65.koinly.io CNAME .
 cpi1supdqcxk.tapmyback.com CNAME .
@@ -51,9 +52,7 @@ f0tiojboxnc1.bitdomain.biz CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
 giy0v1igdqc1.crystalmathlabs.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
-gomyjndc8v5t.www.nookgaming.com CNAME .
 hht8m6w8mnug.quine.sh CNAME .
-hk1oiaj5zpgo.www.enkeleksamen.no CNAME .
 hkhpnqciykaf.www.gamecamp.gg CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
@@ -77,6 +76,7 @@ pomeb69omwjj.www.earthclassmail.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
+s2whyufxmzam.chatpay.com.br CNAME .
 s4s51f00a3o7.www.eldorado.gg CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 ti3av8k3ikwm.resume.gerardbosch.xyz CNAME .

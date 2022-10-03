@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * tagcommander.com
+    * redirect142.tagcommander.com
     * redirect271.tagcommander.com
     * redirect28.tagcommander.com
     * redirect33.tagcommander.com
@@ -35,6 +36,7 @@
 | logger.yp.ca | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | sales.disneylandparis.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | tag.boulanger.fr | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
+| data.cofinoga.fr | redirect142.tagcommander.com |
 | data.decathlon.fr | redirect271.tagcommander.com |
 | tcdata.fnac.com | redirect28.tagcommander.com |
 | tag.boulanger.fr | redirect33.tagcommander.com |

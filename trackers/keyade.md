@@ -14,6 +14,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | clk.ubi.com | k.keyade.com |
+| k.brandalley.be | k.keyade.com |
 | k.brandalley.co.nl | k.keyade.com |
 | k.cocooncenter.be | k.keyade.com |
 | k.cocooncenter.co.uk | k.keyade.com |

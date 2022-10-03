@@ -5,6 +5,7 @@
 #
 abttss-ur.exolkkl6i2puvf.ru
 adsbid-ad-click.adsbid.ru
+adsbid-click-dir-sing.cau1aighae.com
 adsbid-sh-click.adghndou0sdh.ru
 adsbid-sh-click.sing.adghndou0sdh.ru
 adv.ads2.bid
@@ -13,13 +14,17 @@ arvb.6v7q4txztl.ru
 arvb.78bfjskxto.ru
 arvb.ewtcbedtmx.ru
 arvb.gamz48qlok.ru
+avb-co.cau1aighae.com
 avb-sing.13wynpuurt.ru
 avb-sing.ewtcbedtmx.ru
 avbr.13wynpuurt.ru
 dsp-image-resizer.3grg8dqjil.ru
+dsp-image-resizer.cau1aighae.com
 dsp-image-resizer.gamz48qlok.ru
 lk-api-beta.ads2.bid
 sing.3h1fpq39jb.ru
+sing.cau1aighae.com
+sing.iemieshohx.com
 sing.qkyb8htwd9.ru
 sing.r2j97oxqvr.ru
 sing.wcoeaykv78.ru

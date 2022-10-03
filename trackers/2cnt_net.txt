@@ -4,3 +4,462 @@
 ! pl02.prolitteris.2cnt.net disguised trackers
 !
 ||pl02.owen.prolitteris.ch^
+!
+! 1und1.vgwort-de.2cnt.net disguised trackers
+!
+||1und1.met.vgwort.de^
+!
+! slb-vgwort-de-pool03.vgwort-de.2cnt.net disguised trackers
+!
+||1und1.met.vgwort.de^
+||express.met.vgwort.de^
+||kr.met.vgwort.de^
+||ksta.met.vgwort.de^
+||merkur.met.vgwort.de^
+||ssl-focus.met.vgwort.de^
+||ssl-golem.met.vgwort.de^
+||ssl-handelsblatt.met.vgwort.de^
+||ssl-nwb.met.vgwort.de^
+||ssl-thieme.met.vgwort.de^
+||ssl-vg03.met.vgwort.de^
+||vg03.met.vgwort.de^
+||vg05.met.vgwort.de^
+||vg07.met.vgwort.de^
+||vg09.met.vgwort.de^
+||wiley.met.vgwort.de^
+||zeit.met.vgwort.de^
+!
+! berliner-kurier.vgwort-de.2cnt.net disguised trackers
+!
+||berliner-kurier.met.vgwort.de^
+!
+! slb-vgwort-de-pool02.vgwort-de.2cnt.net disguised trackers
+!
+||berliner-kurier.met.vgwort.de^
+||berliner-zeitung.met.vgwort.de^
+||brigitte.met.vgwort.de^
+||geo.met.vgwort.de^
+||heise.met.vgwort.de^
+||helpster.met.vgwort.de^
+||manager.met.vgwort.de^
+||spiegel.met.vgwort.de^
+||ssl-beck.met.vgwort.de^
+||ssl-berliner-kurier.met.vgwort.de^
+||ssl-heise.met.vgwort.de^
+||ssl-rp-online.met.vgwort.de^
+||ssl-spiegel.met.vgwort.de^
+||ssl-t-online.met.vgwort.de^
+||ssl-weka.met.vgwort.de^
+||sz.met.vgwort.de^
+||tagesspiegel.met.vgwort.de^
+||tz.met.vgwort.de^
+||vg01.met.vgwort.de^
+||vg02.met.vgwort.de^
+||vg04.met.vgwort.de^
+||vg06.met.vgwort.de^
+||vogel.met.vgwort.de^
+!
+! berliner-zeitung.vgwort-de.2cnt.net disguised trackers
+!
+||berliner-zeitung.met.vgwort.de^
+!
+! bild.vgwort-de.2cnt.net disguised trackers
+!
+||bild.met.vgwort.de^
+!
+! slb-vgwort-de-pool01.vgwort-de.2cnt.net disguised trackers
+!
+||bild.met.vgwort.de^
+||burda-forward.met.vgwort.de^
+||chip.met.vgwort.de^
+||degruyter.met.vgwort.de^
+||eltern.met.vgwort.de^
+||faz.met.vgwort.de^
+||fr-online.met.vgwort.de^
+||gala.met.vgwort.de^
+||n-tv.met.vgwort.de^
+||rtl.met.vgwort.de^
+||springer.met.vgwort.de^
+||ssl-econa.met.vgwort.de^
+||ssl-idgbusiness.met.vgwort.de^
+||ssl-idgmagazine.met.vgwort.de^
+||ssl-teltarif.met.vgwort.de^
+||ssl-welt.met.vgwort.de^
+||ssl-wolterskluwer.met.vgwort.de^
+||stern.met.vgwort.de^
+||taz.met.vgwort.de^
+||vg00.met.vgwort.de^
+||vg08.met.vgwort.de^
+||waz.met.vgwort.de^
+!
+! bm-eavis.tns-dk.2cnt.net disguised trackers
+!
+||bm-eavis.tns-gallup.dk^
+!
+! brigitte.vgwort-de.2cnt.net disguised trackers
+!
+||brigitte.met.vgwort.de^
+!
+! burda-forward.vgwort-de.2cnt.net disguised trackers
+!
+||burda-forward.met.vgwort.de^
+!
+! chip.vgwort-de.2cnt.net disguised trackers
+!
+||chip.met.vgwort.de^
+!
+! degruyter.vgwort-de.2cnt.net disguised trackers
+!
+||degruyter.met.vgwort.de^
+!
+! dplaystream.tns-dk.2cnt.net disguised trackers
+!
+||dplaystream.tns-gallup.dk^
+!
+! dplayteststream.tns-dk.2cnt.net disguised trackers
+!
+||dplayteststream.tns-gallup.dk^
+!
+! slb-tns-dk-pool07.tns-dk.2cnt.net disguised trackers
+!
+||dplayteststream.tns-gallup.dk^
+!
+! driosstream.tns-dk.2cnt.net disguised trackers
+!
+||driosstream.tns-gallup.dk^
+!
+! eltern.vgwort-de.2cnt.net disguised trackers
+!
+||eltern.met.vgwort.de^
+!
+! express.vgwort-de.2cnt.net disguised trackers
+!
+||express.met.vgwort.de^
+!
+! faz.vgwort-de.2cnt.net disguised trackers
+!
+||faz.met.vgwort.de^
+!
+! fr-online.vgwort-de.2cnt.net disguised trackers
+!
+||fr-online.met.vgwort.de^
+!
+! gala.vgwort-de.2cnt.net disguised trackers
+!
+||gala.met.vgwort.de^
+!
+! geo.vgwort-de.2cnt.net disguised trackers
+!
+||geo.met.vgwort.de^
+!
+! heise.vgwort-de.2cnt.net disguised trackers
+!
+||heise.met.vgwort.de^
+!
+! helpster.vgwort-de.2cnt.net disguised trackers
+!
+||helpster.met.vgwort.de^
+!
+! kr.vgwort-de.2cnt.net disguised trackers
+!
+||kr.met.vgwort.de^
+!
+! kristeligtdagblad.tns-dk.2cnt.net disguised trackers
+!
+||kristeligtdagblad.tns-gallup.dk^
+!
+! ksta.vgwort-de.2cnt.net disguised trackers
+!
+||ksta.met.vgwort.de^
+!
+! manager.vgwort-de.2cnt.net disguised trackers
+!
+||manager.met.vgwort.de^
+!
+! merkur.vgwort-de.2cnt.net disguised trackers
+!
+||merkur.met.vgwort.de^
+!
+! n-tv.vgwort-de.2cnt.net disguised trackers
+!
+||n-tv.met.vgwort.de^
+!
+! pl01.prolitteris.2cnt.net disguised trackers
+!
+||pl01.owen.prolitteris.ch^
+!
+! rejseplanen.tns-dk.2cnt.net disguised trackers
+!
+||rejseplanen.tns-gallup.dk^
+!
+! rtl.vgwort-de.2cnt.net disguised trackers
+!
+||rtl.met.vgwort.de^
+!
+! spiegel.vgwort-de.2cnt.net disguised trackers
+!
+||spiegel.met.vgwort.de^
+!
+! springer.vgwort-de.2cnt.net disguised trackers
+!
+||springer.met.vgwort.de^
+!
+! ssl-aktivtraening.tns-dk.2cnt.net disguised trackers
+!
+||ssl-aktivtraening.tns-gallup.dk^
+!
+! ssl-beck.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-beck.met.vgwort.de^
+!
+! ssl-berliner-kurier.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-berliner-kurier.met.vgwort.de^
+!
+! ssl-bilmagasinet.tns-dk.2cnt.net disguised trackers
+!
+||ssl-bilmagasinet.tns-gallup.dk^
+!
+! ssl-bm-eavis.tns-dk.2cnt.net disguised trackers
+!
+||ssl-bm-eavis.tns-gallup.dk^
+!
+! ssl-boligmagasinet.tns-dk.2cnt.net disguised trackers
+!
+||ssl-boligmagasinet.tns-gallup.dk^
+!
+! ssl-bureaubiz.tns-dk.2cnt.net disguised trackers
+!
+||ssl-bureaubiz.tns-gallup.dk^
+!
+! ssl-digitalfoto.tns-dk.2cnt.net disguised trackers
+!
+||ssl-digitalfoto.tns-gallup.dk^
+!
+! ssl-drhbbtv.tns-dk.2cnt.net disguised trackers
+!
+||ssl-drhbbtv.tns-gallup.dk^
+!
+! ssl-econa.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-econa.met.vgwort.de^
+!
+! slb-tns-dk-pool03.tns-dk.2cnt.net disguised trackers
+!
+||ssl-eurosportandroidstream.tns-gallup.dk^
+!
+! ssl-eurosportandroidstream.tns-dk.2cnt.net disguised trackers
+!
+||ssl-eurosportandroidstream.tns-gallup.dk^
+!
+! ssl-focus.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-focus.met.vgwort.de^
+!
+! ssl-golem.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-golem.met.vgwort.de^
+!
+! ssl-handelsblatt.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-handelsblatt.met.vgwort.de^
+!
+! ssl-heise.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-heise.met.vgwort.de^
+!
+! ssl-idgbusiness.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-idgbusiness.met.vgwort.de^
+!
+! ssl-idgmagazine.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-idgmagazine.met.vgwort.de^
+!
+! ssl-kino.tns-dk.2cnt.net disguised trackers
+!
+||ssl-kino.tns-gallup.dk^
+!
+! ssl-komforum.tns-dk.2cnt.net disguised trackers
+!
+||ssl-komforum.tns-gallup.dk^
+!
+! ssl-komputer.tns-dk.2cnt.net disguised trackers
+!
+||ssl-komputer.tns-gallup.dk^
+!
+! ssl-magasinetliv.tns-dk.2cnt.net disguised trackers
+!
+||ssl-magasinetliv.tns-gallup.dk^
+!
+! ssl-nwb.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-nwb.met.vgwort.de^
+!
+! ssl-rejseplanen.tns-dk.2cnt.net disguised trackers
+!
+||ssl-rejseplanen.tns-gallup.dk^
+!
+! ssl-rp-online.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-rp-online.met.vgwort.de^
+!
+! ssl-spiegel.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-spiegel.met.vgwort.de^
+!
+! ssl-t-online.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-t-online.met.vgwort.de^
+!
+! ssl-teltarif.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-teltarif.met.vgwort.de^
+!
+! ssl-thieme.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-thieme.met.vgwort.de^
+!
+! ssl-tv2iam.tns-dk.2cnt.net disguised trackers
+!
+||ssl-tv2iam.tns-gallup.dk^
+!
+! ssl-vg03.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-vg03.met.vgwort.de^
+!
+! slb-tns-dk-pool04.tns-dk.2cnt.net disguised trackers
+!
+||ssl-viaplaystream.tns-gallup.dk^
+!
+! ssl-viaplaystream.tns-dk.2cnt.net disguised trackers
+!
+||ssl-viaplaystream.tns-gallup.dk^
+!
+! ssl-weeka-eavis.tns-dk.2cnt.net disguised trackers
+!
+||ssl-weeka-eavis.tns-gallup.dk^
+!
+! ssl-weka.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-weka.met.vgwort.de^
+!
+! ssl-welt.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-welt.met.vgwort.de^
+!
+! ssl-wolterskluwer.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-wolterskluwer.met.vgwort.de^
+!
+! ssl-woman.tns-dk.2cnt.net disguised trackers
+!
+||ssl-woman.tns-gallup.dk^
+!
+! slb-tns-dk-pool06.tns-dk.2cnt.net disguised trackers
+!
+||ssl-youseestream.tns-gallup.dk^
+!
+! ssl-youseestream.tns-dk.2cnt.net disguised trackers
+!
+||ssl-youseestream.tns-gallup.dk^
+!
+! stern.vgwort-de.2cnt.net disguised trackers
+!
+||stern.met.vgwort.de^
+!
+! sz.vgwort-de.2cnt.net disguised trackers
+!
+||sz.met.vgwort.de^
+!
+! tagesspiegel.vgwort-de.2cnt.net disguised trackers
+!
+||tagesspiegel.met.vgwort.de^
+!
+! taz.vgwort-de.2cnt.net disguised trackers
+!
+||taz.met.vgwort.de^
+!
+! tv2androidstream.tns-dk.2cnt.net disguised trackers
+!
+||tv2androidstream.tns-gallup.dk^
+!
+! tz.vgwort-de.2cnt.net disguised trackers
+!
+||tz.met.vgwort.de^
+!
+! vg00.vgwort-de.2cnt.net disguised trackers
+!
+||vg00.met.vgwort.de^
+!
+! vg01.vgwort-de.2cnt.net disguised trackers
+!
+||vg01.met.vgwort.de^
+!
+! vg02.vgwort-de.2cnt.net disguised trackers
+!
+||vg02.met.vgwort.de^
+!
+! vg03.vgwort-de.2cnt.net disguised trackers
+!
+||vg03.met.vgwort.de^
+!
+! vg04.vgwort-de.2cnt.net disguised trackers
+!
+||vg04.met.vgwort.de^
+!
+! vg05.vgwort-de.2cnt.net disguised trackers
+!
+||vg05.met.vgwort.de^
+!
+! vg06.vgwort-de.2cnt.net disguised trackers
+!
+||vg06.met.vgwort.de^
+!
+! vg07.vgwort-de.2cnt.net disguised trackers
+!
+||vg07.met.vgwort.de^
+!
+! vg08.vgwort-de.2cnt.net disguised trackers
+!
+||vg08.met.vgwort.de^
+!
+! vg09.vgwort-de.2cnt.net disguised trackers
+!
+||vg09.met.vgwort.de^
+!
+! vogel.vgwort-de.2cnt.net disguised trackers
+!
+||vogel.met.vgwort.de^
+!
+! waz.vgwort-de.2cnt.net disguised trackers
+!
+||waz.met.vgwort.de^
+!
+! weeka-eavis.tns-dk.2cnt.net disguised trackers
+!
+||weeka-eavis.tns-gallup.dk^
+!
+! wiley.vgwort-de.2cnt.net disguised trackers
+!
+||wiley.met.vgwort.de^
+!
+! slb-tns-dk-pool08.tns-dk.2cnt.net disguised trackers
+!
+||youseeandroidstream.tns-gallup.dk^
+!
+! youseeandroidstream.tns-dk.2cnt.net disguised trackers
+!
+||youseeandroidstream.tns-gallup.dk^
+!
+! slb-tns-dk-pool02.tns-dk.2cnt.net disguised trackers
+!
+||youseeiosstream.tns-gallup.dk^
+!
+! youseeiosstream.tns-dk.2cnt.net disguised trackers
+!
+||youseeiosstream.tns-gallup.dk^
+!
+! zeit.vgwort-de.2cnt.net disguised trackers
+!
+||zeit.met.vgwort.de^

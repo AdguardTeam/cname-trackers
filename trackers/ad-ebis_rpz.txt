@@ -25,6 +25,7 @@ adebis-bkan.vbest.jp CNAME .
 adebis-morijuku.morijuku.com CNAME .
 adebis-rikon.vbest.jp CNAME .
 adebis-saimu.vbest.jp CNAME .
+adebis.38-8931.com CNAME .
 adebis.464981.com CNAME .
 adebis.afc-shop.com CNAME .
 adebis.angfa-store.jp CNAME .
@@ -140,6 +141,7 @@ ebis.care-tensyoku.com CNAME .
 ebis.ce-parfait.com CNAME .
 ebis.codecamp.jp CNAME .
 ebis.coyori.com CNAME .
+ebis.cp.claudia.co.jp CNAME .
 ebis.delis.co.jp CNAME .
 ebis.eiyoushi-tensyoku.com CNAME .
 ebis.forcas.com CNAME .
@@ -222,6 +224,7 @@ tracking.mysurance.co.jp CNAME .
 tracking.nokai.jp CNAME .
 tracking.wao-corp.com CNAME .
 tukuru.cotta.jp CNAME .
+ureruadebis.papawash.com CNAME .
 urerucname.manara.jp CNAME .
 ureruebis.nintama.co.jp CNAME .
 urr.kumamoto-food.com CNAME .

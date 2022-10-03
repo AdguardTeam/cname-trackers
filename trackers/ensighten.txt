@@ -136,6 +136,7 @@
 ||data.lincoln.com^
 ||data.privacy.ensighten.com^
 ||dc.darkhorsewine.com^
+||dc.directtv.com^
 ||dc.directv.com^
 ||dc.esterethyl.com^
 ||dc.gordonsjewelers.com^
@@ -197,6 +198,7 @@
 ||privacy.heishop.mx^
 ||pulse.delta.com^
 ||pulse.mcdonalds.com^
+||pulse.rac.co.uk^
 ||pulse.sleepnumber.com^
 ||pulse.synergy.net.au^
 ||secureanalytics.syf.com^
@@ -216,6 +218,7 @@
 ||tagman.transavia.com^
 ||tagman.virgin-atlantic.com^
 ||tagman.virginatlantic.com^
+||tagman.waitrose.com^
 ||tags.aljazeera.com^
 ||tags.aljazeera.net^
 ||tags.experian.co.uk^

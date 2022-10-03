@@ -35,6 +35,7 @@ tr.asp10cr.espmp-nifr.net CNAME .
 tr.asp10hi.espmp-cufr.net CNAME .
 tr.asp202u.espmp-cufr.net CNAME .
 tr.asp2032.espmp-aufr.net CNAME .
+tr.asp2035.espmp-nifr.net CNAME .
 tr.asp2045.espmp-nifr.net CNAME .
 tr.asp2063.espmp-nifr.net CNAME .
 tr.asp2075.espmp-nifr.net CNAME .
@@ -51,6 +52,7 @@ tr.bienvenue.envie-de-bien-manger.com CNAME .
 tr.bizzquotes.co.uk CNAME .
 tr.boletim.companeo.pt CNAME .
 tr.boletim.meu-orcamento.pt CNAME .
+tr.bonplan.mydesign.com CNAME .
 tr.btobquotes.com CNAME .
 tr.buenasofertas.pro CNAME .
 tr.bureauveritas.espmp-aufr.net CNAME .
@@ -90,6 +92,7 @@ tr.communautes-mediametrie.fr CNAME .
 tr.communication.b2b-actualites.com CNAME .
 tr.communication.boursorama.info CNAME .
 tr.communication.cgaaer.fr CNAME .
+tr.communication.enkiapp.io CNAME .
 tr.communication.harmonie-mutuelle.fr CNAME .
 tr.communication.jardindacclimatation.fr CNAME .
 tr.communication.lamaisondesstartups.com CNAME .
@@ -185,6 +188,7 @@ tr.fidal.pro CNAME .
 tr.fidalformation.pro CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
+tr.gap-fr.fr CNAME .
 tr.gdfsuez-globalenergy.info CNAME .
 tr.gen.espmp-agfr.net CNAME .
 tr.gestion.banque-casino.fr CNAME .
@@ -254,6 +258,7 @@ tr.infos.odalys-vacances.com CNAME .
 tr.inspiration.culture-data.fr CNAME .
 tr.interieur.cotemaison.fr CNAME .
 tr.interviews-mediametrie.fr CNAME .
+tr.invest.younited-credit.com CNAME .
 tr.invitation-mesdessous.fr CNAME .
 tr.italia.plimsoll.it CNAME .
 tr.jesuis.enformedelotus.com CNAME .
@@ -272,6 +277,7 @@ tr.lvmhappening.lvmh.fr CNAME .
 tr.m.cwisas.com CNAME .
 tr.mail-companeo.fr CNAME .
 tr.mail.banque-casino.fr CNAME .
+tr.mail.cdiscount.com.pa CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
 tr.mail.floa.fr CNAME .
 tr.mail.koregraf.com CNAME .
@@ -365,6 +371,7 @@ tr.news.hallobanden.nl CNAME .
 tr.news.heredis.com CNAME .
 tr.news.i24news.tv CNAME .
 tr.news.infopro-digital.com CNAME .
+tr.news.itancia.com CNAME .
 tr.news.jautomatise.com CNAME .
 tr.news.kpmgnet.fr CNAME .
 tr.news.kuhn.com CNAME .
@@ -429,10 +436,12 @@ tr.newsletter.lierac.com CNAME .
 tr.newsletter.location.boulanger.com CNAME .
 tr.newsletter.meilleurmobile.com CNAME .
 tr.newsletter.milleis.fr CNAME .
+tr.newsletter.np6.com CNAME .
 tr.newsletter.np6.fr CNAME .
 tr.newsletter.phyto.com CNAME .
 tr.newsletter.plurielmedia.com CNAME .
 tr.newsletter.roger-gallet.com CNAME .
+tr.newsletter.tiragephoto.fr CNAME .
 tr.newsletter.younited-credit.com CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
 tr.newsletters.youmeetings.com CNAME .
@@ -575,3 +584,10 @@ tr5.mailperf.com CNAME .
 tracking.allopneus.com CNAME .
 trpreviews.bp01.net CNAME .
 www.newsletter.banquepopulaire.fr CNAME .
+;
+; form.bp01.net disguised trackers
+;
+cotemaison.np6.com CNAME .
+f1.mailperformance.com CNAME .
+f1.np6.com CNAME .
+lbv5.mperf.com CNAME .

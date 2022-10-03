@@ -26,10 +26,8 @@ cc.pornorasskazy-xxx.com CNAME .
 cc.raccontierotici-club.com CNAME .
 cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
-cc.sex-stories-xxx.com CNAME .
 cc.sexgeschichten-klub.com CNAME .
 cc.sexgeschichten-kostenlos.com CNAME .
-cc.sexstories-all.com CNAME .
 cc.sexstories-hot.com CNAME .
 cc.sexverhalen-gratis.com CNAME .
 cdn24.playerxxl.xyz CNAME .
@@ -37,6 +35,7 @@ check.safelinkonly.top CNAME .
 ck.zzipps.com CNAME .
 cli.its2.net CNAME .
 clkn.apostle.onl CNAME .
+clkn2.apostle.onl CNAME .
 clknrtrg.pro CNAME .
 cln.willyporn.com CNAME .
 cn4.animehdl.net CNAME .

@@ -4,6 +4,7 @@
 # k.keyade.com disguised trackers
 #
 clk.ubi.com
+k.brandalley.be
 k.brandalley.co.nl
 k.cocooncenter.be
 k.cocooncenter.co.uk

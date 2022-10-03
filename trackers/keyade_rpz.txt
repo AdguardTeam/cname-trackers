@@ -4,6 +4,7 @@
 ; k.keyade.com disguised trackers
 ;
 clk.ubi.com CNAME .
+k.brandalley.be CNAME .
 k.brandalley.co.nl CNAME .
 k.cocooncenter.be CNAME .
 k.cocooncenter.co.uk CNAME .

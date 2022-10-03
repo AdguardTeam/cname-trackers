@@ -35,6 +35,7 @@
 ||tr.asp10hi.espmp-cufr.net^
 ||tr.asp202u.espmp-cufr.net^
 ||tr.asp2032.espmp-aufr.net^
+||tr.asp2035.espmp-nifr.net^
 ||tr.asp2045.espmp-nifr.net^
 ||tr.asp2063.espmp-nifr.net^
 ||tr.asp2075.espmp-nifr.net^
@@ -51,6 +52,7 @@
 ||tr.bizzquotes.co.uk^
 ||tr.boletim.companeo.pt^
 ||tr.boletim.meu-orcamento.pt^
+||tr.bonplan.mydesign.com^
 ||tr.btobquotes.com^
 ||tr.buenasofertas.pro^
 ||tr.bureauveritas.espmp-aufr.net^
@@ -90,6 +92,7 @@
 ||tr.communication.b2b-actualites.com^
 ||tr.communication.boursorama.info^
 ||tr.communication.cgaaer.fr^
+||tr.communication.enkiapp.io^
 ||tr.communication.harmonie-mutuelle.fr^
 ||tr.communication.jardindacclimatation.fr^
 ||tr.communication.lamaisondesstartups.com^
@@ -185,6 +188,7 @@
 ||tr.fidalformation.pro^
 ||tr.fr.pro.accor.com^
 ||tr.futurecommerce.moethennessy.com^
+||tr.gap-fr.fr^
 ||tr.gdfsuez-globalenergy.info^
 ||tr.gen.espmp-agfr.net^
 ||tr.gestion.banque-casino.fr^
@@ -254,6 +258,7 @@
 ||tr.inspiration.culture-data.fr^
 ||tr.interieur.cotemaison.fr^
 ||tr.interviews-mediametrie.fr^
+||tr.invest.younited-credit.com^
 ||tr.invitation-mesdessous.fr^
 ||tr.italia.plimsoll.it^
 ||tr.jesuis.enformedelotus.com^
@@ -272,6 +277,7 @@
 ||tr.m.cwisas.com^
 ||tr.mail-companeo.fr^
 ||tr.mail.banque-casino.fr^
+||tr.mail.cdiscount.com.pa^
 ||tr.mail.enviedebienmanger.fr^
 ||tr.mail.floa.fr^
 ||tr.mail.koregraf.com^
@@ -365,6 +371,7 @@
 ||tr.news.heredis.com^
 ||tr.news.i24news.tv^
 ||tr.news.infopro-digital.com^
+||tr.news.itancia.com^
 ||tr.news.jautomatise.com^
 ||tr.news.kpmgnet.fr^
 ||tr.news.kuhn.com^
@@ -429,10 +436,12 @@
 ||tr.newsletter.location.boulanger.com^
 ||tr.newsletter.meilleurmobile.com^
 ||tr.newsletter.milleis.fr^
+||tr.newsletter.np6.com^
 ||tr.newsletter.np6.fr^
 ||tr.newsletter.phyto.com^
 ||tr.newsletter.plurielmedia.com^
 ||tr.newsletter.roger-gallet.com^
+||tr.newsletter.tiragephoto.fr^
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletters.odalys-vacances.com^
 ||tr.newsletters.youmeetings.com^
@@ -575,3 +584,10 @@
 ||tracking.allopneus.com^
 ||trpreviews.bp01.net^
 ||www.newsletter.banquepopulaire.fr^
+!
+! form.bp01.net disguised trackers
+!
+||cotemaison.np6.com^
+||f1.mailperformance.com^
+||f1.np6.com^
+||lbv5.mperf.com^

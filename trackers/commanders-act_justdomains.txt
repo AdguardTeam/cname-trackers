@@ -3,6 +3,7 @@
 #
 # tagcommander.com disguised trackers
 #
+data.cofinoga.fr
 data.decathlon.co.uk
 data.decathlon.de
 data.decathlon.es

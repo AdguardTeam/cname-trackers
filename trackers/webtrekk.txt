@@ -82,12 +82,14 @@
 ||data.engelhorn.de^
 ||data.goertz.de^
 ||data.inbank.it^
+||data.janvanderstorm.de^
 ||data.leipzig.de^
 ||data.mainpost.de^
 ||data.mapp.com^
 ||data.mediaworld.it^
 ||data.pepephone.com^
 ||data.srf.ch^
+||data.vdi-wissensforum.de^
 ||data.volksfreund.de^
 ||data.westlotto.de^
 ||daten.union-investment.de^
@@ -120,6 +122,7 @@
 ||hbbtv-track.prosieben.de^
 ||hbbtv-track.prosiebensat1puls4.com^
 ||hulpmiddel.fvw.de^
+||img.foodspring.de^
 ||img.foodspring.dk^
 ||img.foodspring.se^
 ||intelligence.officialwesthamstore.com^
@@ -149,6 +152,7 @@
 ||pix.airbusgroup.com^
 ||pix.telekom.com^
 ||proditor.sparda.de^
+||prophet.heise-academy.de^
 ||scout.alpinetrek.co.uk^
 ||scout.alpiniste.fr^
 ||scout.berg-freunde.at^
@@ -203,6 +207,7 @@
 ||wbtrkk.teufelaudio.pl^
 ||web.autobodytoolmart.com^
 ||web.bankofscotland.de^
+||web.campaign.jaked.com^
 ||web.campaign.miriade.com^
 ||web.campaign.v73.it^
 ||web.collisionservices.com^
@@ -210,6 +215,7 @@
 ||web.diebayerische.de^
 ||web.e.aldermore.co.uk^
 ||web.email.farrow-ball.com^
+||web.email.pmtonline.co.uk^
 ||web.email.pragroup.co.uk^
 ||web.email.theindependentpharmacy.co.uk^
 ||web.emails.elc.co.uk^
@@ -247,6 +253,7 @@
 ||web.s.sasrx.com^
 ||web.sensilab.de^
 ||web.sensilab.ie^
+||web.sensilab.ro^
 ||web.sensilab.se^
 ||web.sensilab.si^
 ||web.sensilab.sk^

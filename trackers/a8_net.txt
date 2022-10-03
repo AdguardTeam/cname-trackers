@@ -14,6 +14,7 @@
 ||a8.cotta.jp^
 ||a8.croaster-select.com^
 ||a8.cyclemarket.jp^
+||a8.de-limmo.jp^
 ||a8.degicashop.com^
 ||a8.denki-koji.work^
 ||a8.denki-tatsujin.com^
@@ -42,6 +43,7 @@
 ||a8.lens-labo.com^
 ||a8.looop-denki.com^
 ||a8.makeshop.jp^
+||a8.mochu.jp^
 ||a8.mosh.jp^
 ||a8.n-pri.jp^
 ||a8.nanafu.tokyo^
@@ -61,6 +63,7 @@
 ||a8.route-roller.info^
 ||a8.sakuratravel.jp^
 ||a8.sennendo.jp^
+||a8.shokubun.net^
 ||a8.shopserve.jp^
 ||a8.ssl.aispr.jp^
 ||a8.starseries.biz^
@@ -145,6 +148,7 @@
 ||a8clk.photorevo.info^
 ||a8clk.point-land.net^
 ||a8clk.rarejob.com^
+||a8clk.rdlp.jp^
 ||a8clk.recycle-net.jp^
 ||a8clk.rental.geo-online.co.jp^
 ||a8clk.reserve.retty.me^
@@ -191,6 +195,7 @@
 ||a8cv.brassiere-shorts.jp^
 ||a8cv.broadbandservice.jp^
 ||a8cv.busbookmark.jp^
+||a8cv.catal.jp^
 ||a8cv.chillaxy.jp^
 ||a8cv.coopnet.or.jp^
 ||a8cv.danjiki-net.jp^
@@ -212,6 +217,7 @@
 ||a8cv.greed-island.ne.jp^
 ||a8cv.hotyoga-loive.com^
 ||a8cv.housingbazar.jp^
+||a8cv.humming-water.com^
 ||a8cv.i-office1.net^
 ||a8cv.iikyujin.net^
 ||a8cv.interlink.or.jp^
@@ -231,6 +237,8 @@
 ||a8cv.minana-jp.com^
 ||a8cv.minnano-eikaiwa.com^
 ||a8cv.modern-deco.jp^
+||a8cv.momiji-tantei.com^
+||a8cv.mustachejapan.com^
 ||a8cv.ogaland.com^
 ||a8cv.omni7.jp^
 ||a8cv.one-netbook.jp^
@@ -248,6 +256,7 @@
 ||a8cv.shinro.info^
 ||a8cv.shokubun.ec-design.co.jp^
 ||a8cv.shop.matsuo1956.jp^
+||a8cv.shop.solve-grp.com^
 ||a8cv.signalift.com^
 ||a8cv.smart-shikaku.com^
 ||a8cv.smoola.jp^
@@ -267,11 +276,13 @@
 ||a8cv.unito.life^
 ||a8cv.untenmenkyo-yi.com^
 ||a8cv.urocca.jp^
+||a8cv.winkle.online^
 ||a8cv.workman.jp^
 ||a8cv.www.bedstyle.jp^
 ||a8cv.www.biyou-soushin.com^
 ||a8cv.www.biyou-wakiga.com^
 ||a8cv.www.chara-ani.com^
+||a8cv.www.sofastyle.jp^
 ||a8cv.xn--1lqs71d2law9k8zbv08f.tokyo^
 ||a8cv.ya-man.com^
 ||a8cv.yamato-gp.net^
@@ -288,10 +299,12 @@
 ||a8redirect.cart.ec-sites.jp^
 ||a8sup.chapup.jp^
 ||a8trck.aisatsujo.jp^
+||a8trck.j-sen.jp^
 ||a8trck.tolot.com^
 ||a8trck.worldone.to^
 ||a8trk.www.std-lab.jp^
 ||acv.cmf-hikari.net^
+||acv.mc-doctor.net^
 ||ad.ichiban-boshi.com^
 ||ad.magokoro-care-shoku.com^
 ||ad.rejichoice.jp^
@@ -327,6 +340,7 @@
 ||cv.h-docomo.com^
 ||cv.hoikushi-bosyu.com^
 ||cv.jidoumail.com^
+||cv.key-party.jp^
 ||cv.masteraxis.com^
 ||cv.online.ysroad.co.jp^
 ||cv.ryoutuki-kyujin.com^
@@ -339,15 +353,19 @@
 ||cv.xn--bcktcvdzde3c.biz^
 ||cv.xn--zbs202g.com^
 ||cv.zephylrin-w.com^
+||cv.zephylrin-x.net^
 ||cv1.stefany.co.jp^
 ||kaden.netoff.co.jp^
+||shop.anu-cosme.com^
 ||shopping.cellpure.co.jp^
 ||sokutei.car2828.jp^
 ||sub.booksdream-mypage.com^
 ||summary.bookoffonline.co.jp^
+||test.shigoto-web.com^
 ||tracking.lead-plus.jp^
 ||trck.aeon.co.jp^
 ||trck.frutafrutashop.com^
 ||trck.rework-s.com^
 ||trcka8net.irobot-jp.com^
 ||web.life-cw.com^
+||wnform.www.trecenti.com^

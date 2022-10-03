@@ -82,12 +82,14 @@ data.engelhorn.com CNAME .
 data.engelhorn.de CNAME .
 data.goertz.de CNAME .
 data.inbank.it CNAME .
+data.janvanderstorm.de CNAME .
 data.leipzig.de CNAME .
 data.mainpost.de CNAME .
 data.mapp.com CNAME .
 data.mediaworld.it CNAME .
 data.pepephone.com CNAME .
 data.srf.ch CNAME .
+data.vdi-wissensforum.de CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
@@ -120,6 +122,7 @@ fiwinet.firmenwissen.de CNAME .
 hbbtv-track.prosieben.de CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
 hulpmiddel.fvw.de CNAME .
+img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
 img.foodspring.se CNAME .
 intelligence.officialwesthamstore.com CNAME .
@@ -149,6 +152,7 @@ ot.obi.sk CNAME .
 pix.airbusgroup.com CNAME .
 pix.telekom.com CNAME .
 proditor.sparda.de CNAME .
+prophet.heise-academy.de CNAME .
 scout.alpinetrek.co.uk CNAME .
 scout.alpiniste.fr CNAME .
 scout.berg-freunde.at CNAME .
@@ -203,6 +207,7 @@ wbtrkk.teufelaudio.nl CNAME .
 wbtrkk.teufelaudio.pl CNAME .
 web.autobodytoolmart.com CNAME .
 web.bankofscotland.de CNAME .
+web.campaign.jaked.com CNAME .
 web.campaign.miriade.com CNAME .
 web.campaign.v73.it CNAME .
 web.collisionservices.com CNAME .
@@ -210,6 +215,7 @@ web.comunicazioni.iol.it CNAME .
 web.diebayerische.de CNAME .
 web.e.aldermore.co.uk CNAME .
 web.email.farrow-ball.com CNAME .
+web.email.pmtonline.co.uk CNAME .
 web.email.pragroup.co.uk CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .
@@ -247,6 +253,7 @@ web.pages.lloydspharmacy.com CNAME .
 web.s.sasrx.com CNAME .
 web.sensilab.de CNAME .
 web.sensilab.ie CNAME .
+web.sensilab.ro CNAME .
 web.sensilab.se CNAME .
 web.sensilab.si CNAME .
 web.sensilab.sk CNAME .

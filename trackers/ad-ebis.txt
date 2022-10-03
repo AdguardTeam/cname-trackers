@@ -25,6 +25,7 @@
 ||adebis-morijuku.morijuku.com^
 ||adebis-rikon.vbest.jp^
 ||adebis-saimu.vbest.jp^
+||adebis.38-8931.com^
 ||adebis.464981.com^
 ||adebis.afc-shop.com^
 ||adebis.angfa-store.jp^
@@ -140,6 +141,7 @@
 ||ebis.ce-parfait.com^
 ||ebis.codecamp.jp^
 ||ebis.coyori.com^
+||ebis.cp.claudia.co.jp^
 ||ebis.delis.co.jp^
 ||ebis.eiyoushi-tensyoku.com^
 ||ebis.forcas.com^
@@ -222,6 +224,7 @@
 ||tracking.nokai.jp^
 ||tracking.wao-corp.com^
 ||tukuru.cotta.jp^
+||ureruadebis.papawash.com^
 ||urerucname.manara.jp^
 ||ureruebis.nintama.co.jp^
 ||urr.kumamoto-food.com^

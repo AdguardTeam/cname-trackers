@@ -4,10 +4,18 @@
 
 * tracking.bp01.net
 
+### Rarely active trackers
+
+* form.bp01.net
+
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| cotemaison.np6.com | form.bp01.net |
+| f1.mailperformance.com | form.bp01.net |
+| f1.np6.com | form.bp01.net |
+| lbv5.mperf.com | form.bp01.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | sms.gestion.cetelem.fr | tracking.bp01.net |
@@ -40,6 +48,7 @@
 | tr.asp10hi.espmp-cufr.net | tracking.bp01.net |
 | tr.asp202u.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2032.espmp-aufr.net | tracking.bp01.net |
+| tr.asp2035.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2045.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2063.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2075.espmp-nifr.net | tracking.bp01.net |
@@ -56,6 +65,7 @@
 | tr.bizzquotes.co.uk | tracking.bp01.net |
 | tr.boletim.companeo.pt | tracking.bp01.net |
 | tr.boletim.meu-orcamento.pt | tracking.bp01.net |
+| tr.bonplan.mydesign.com | tracking.bp01.net |
 | tr.btobquotes.com | tracking.bp01.net |
 | tr.buenasofertas.pro | tracking.bp01.net |
 | tr.bureauveritas.espmp-aufr.net | tracking.bp01.net |
@@ -95,6 +105,7 @@
 | tr.communication.b2b-actualites.com | tracking.bp01.net |
 | tr.communication.boursorama.info | tracking.bp01.net |
 | tr.communication.cgaaer.fr | tracking.bp01.net |
+| tr.communication.enkiapp.io | tracking.bp01.net |
 | tr.communication.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.communication.jardindacclimatation.fr | tracking.bp01.net |
 | tr.communication.lamaisondesstartups.com | tracking.bp01.net |
@@ -190,6 +201,7 @@
 | tr.fidalformation.pro | tracking.bp01.net |
 | tr.fr.pro.accor.com | tracking.bp01.net |
 | tr.futurecommerce.moethennessy.com | tracking.bp01.net |
+| tr.gap-fr.fr | tracking.bp01.net |
 | tr.gdfsuez-globalenergy.info | tracking.bp01.net |
 | tr.gen.espmp-agfr.net | tracking.bp01.net |
 | tr.gestion.banque-casino.fr | tracking.bp01.net |
@@ -259,6 +271,7 @@
 | tr.inspiration.culture-data.fr | tracking.bp01.net |
 | tr.interieur.cotemaison.fr | tracking.bp01.net |
 | tr.interviews-mediametrie.fr | tracking.bp01.net |
+| tr.invest.younited-credit.com | tracking.bp01.net |
 | tr.invitation-mesdessous.fr | tracking.bp01.net |
 | tr.italia.plimsoll.it | tracking.bp01.net |
 | tr.jesuis.enformedelotus.com | tracking.bp01.net |
@@ -277,6 +290,7 @@
 | tr.m.cwisas.com | tracking.bp01.net |
 | tr.mail-companeo.fr | tracking.bp01.net |
 | tr.mail.banque-casino.fr | tracking.bp01.net |
+| tr.mail.cdiscount.com.pa | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
 | tr.mail.floa.fr | tracking.bp01.net |
 | tr.mail.koregraf.com | tracking.bp01.net |
@@ -370,6 +384,7 @@
 | tr.news.heredis.com | tracking.bp01.net |
 | tr.news.i24news.tv | tracking.bp01.net |
 | tr.news.infopro-digital.com | tracking.bp01.net |
+| tr.news.itancia.com | tracking.bp01.net |
 | tr.news.jautomatise.com | tracking.bp01.net |
 | tr.news.kpmgnet.fr | tracking.bp01.net |
 | tr.news.kuhn.com | tracking.bp01.net |
@@ -434,10 +449,12 @@
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |
 | tr.newsletter.meilleurmobile.com | tracking.bp01.net |
 | tr.newsletter.milleis.fr | tracking.bp01.net |
+| tr.newsletter.np6.com | tracking.bp01.net |
 | tr.newsletter.np6.fr | tracking.bp01.net |
 | tr.newsletter.phyto.com | tracking.bp01.net |
 | tr.newsletter.plurielmedia.com | tracking.bp01.net |
 | tr.newsletter.roger-gallet.com | tracking.bp01.net |
+| tr.newsletter.tiragephoto.fr | tracking.bp01.net |
 | tr.newsletter.younited-credit.com | tracking.bp01.net |
 | tr.newsletters.odalys-vacances.com | tracking.bp01.net |
 | tr.newsletters.youmeetings.com | tracking.bp01.net |

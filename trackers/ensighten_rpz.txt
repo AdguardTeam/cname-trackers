@@ -136,6 +136,7 @@ data.ford.com CNAME .
 data.lincoln.com CNAME .
 data.privacy.ensighten.com CNAME .
 dc.darkhorsewine.com CNAME .
+dc.directtv.com CNAME .
 dc.directv.com CNAME .
 dc.esterethyl.com CNAME .
 dc.gordonsjewelers.com CNAME .
@@ -197,6 +198,7 @@ privacy.heineken.it CNAME .
 privacy.heishop.mx CNAME .
 pulse.delta.com CNAME .
 pulse.mcdonalds.com CNAME .
+pulse.rac.co.uk CNAME .
 pulse.sleepnumber.com CNAME .
 pulse.synergy.net.au CNAME .
 secureanalytics.syf.com CNAME .
@@ -216,6 +218,7 @@ tagman.heathrow.com CNAME .
 tagman.transavia.com CNAME .
 tagman.virgin-atlantic.com CNAME .
 tagman.virginatlantic.com CNAME .
+tagman.waitrose.com CNAME .
 tags.aljazeera.com CNAME .
 tags.aljazeera.net CNAME .
 tags.experian.co.uk CNAME .

@@ -6,12 +6,12 @@
     * ahs.extole.com
     * american-giant.extole.com
     * ancestrydna.extole.com
-    * aol.extole.com
     * clearme-ssl.extole.com
     * compexusa.extole.com
     * d.extole.com
     * discover.extole.com
     * divvybikes.extole.com
+    * dnj.extole.com
     * ebags.extole.com
     * framesdirect.extole.com
     * freshly.extole.com
@@ -25,6 +25,7 @@
     * keurig-ssl.extole.com
     * keurigca.extole.com
     * keurigfr.extole.com
+    * kipling-usa.extole.com
     * luckyvitamin.extole.com
     * moo.extole.com
     * myplant.extole.com
@@ -60,7 +61,6 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
-| refer.aol.com | aol.extole.com |
 | refer.clearme.com | clearme-ssl.extole.com |
 | refer.compexusa.com | compexusa.extole.com |
 | ilove.volusion.com | d.extole.com |
@@ -68,6 +68,7 @@
 | tellapal.web.com | d.extole.com |
 | refer.discover.com | discover.extole.com |
 | refer.divvybikes.com | divvybikes.extole.com |
+| refer.dnj.com | dnj.extole.com |
 | friend.ebags.com | ebags.extole.com |
 | refer.framesdirect.com | framesdirect.extole.com |
 | refer.freshly.com | freshly.extole.com |
@@ -81,6 +82,7 @@
 | friends.keurig.com | keurig-ssl.extole.com |
 | friends.keurig.ca | keurigca.extole.com |
 | amis.keurig.ca | keurigfr.extole.com |
+| refer.kipling-usa.com | kipling-usa.extole.com |
 | refer.luckyvitamin.com | luckyvitamin.extole.com |
 | refer.aol.com | media-router-aol1.prod.g03.yahoodns.net |
 | refer.moo.com | moo.extole.com |

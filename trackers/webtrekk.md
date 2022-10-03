@@ -42,9 +42,11 @@
     * 176652923057792.wt-eu02.net
     * 180629549208289.wt-eu02.net
     * 186015257614542.wt-eu02.net
+    * 198101699966051.wt-eu02.net
     * 208005830805862.wt-eu02.net
     * 215973748390194.wt-eu02.net
     * 227633596530844.wt-eu02.net
+    * 242612945948096.wt-eu02.net
     * 243341177383246.wt-eu02.net
     * 261826549347986.wt-eu02.net
     * 266905402333512.wt-eu02.net
@@ -116,6 +118,7 @@
     * 753960264605716.wt-eu02.net
     * 757421535252818.wt-eu02.net
     * 762510246968705.wt-eu02.net
+    * 792100555808051.wt-eu02.net
     * 802837842744167.wt-eu02.net
     * 807354460250799.wt-eu02.net
     * 818150559802317.wt-eu02.net
@@ -149,6 +152,7 @@
     * creditreform02.wt-eu02.net
     * data-inbank01.wt-eu02.net
     * data-leipzig.wt-eu02.net
+    * data-vdi-wissen01.wt-eu02.net
     * de-card01.wt-eu02.net
     * di.ifolor.wt-eu02.net
     * emp01.wt-eu02.net
@@ -162,6 +166,7 @@
     * ikk-classic-app03.wt-eu02.net
     * img-foodspring01.wt-eu02.net
     * img.bergfreunde.wt-eu02.net
+    * janvanderstorm-01.wt-eu02.net
     * madeleineprod01.wt-eu02.net
     * mainpost01.wt-eu02.net
     * medion01.wt-eu02.net
@@ -200,15 +205,18 @@
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | web.sensilab.de | 151836596491843.wt-eu02.net |
 | web.sensilab.ie | 151836596491843.wt-eu02.net |
+| web.sensilab.ro | 151836596491843.wt-eu02.net |
 | web.sensilab.se | 151836596491843.wt-eu02.net |
 | web.sensilab.si | 151836596491843.wt-eu02.net |
 | web.sensilab.sk | 151836596491843.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
 | web.solesource.com | 180629549208289.wt-eu02.net |
 | web.mapp.skousen.dk | 186015257614542.wt-eu02.net |
+| web.campaign.jaked.com | 198101699966051.wt-eu02.net |
 | census.misterspex.de | 208005830805862.wt-eu02.net |
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | web.collisionservices.com | 227633596530844.wt-eu02.net |
+| web.email.pmtonline.co.uk | 242612945948096.wt-eu02.net |
 | web.info.yeppon.it | 243341177383246.wt-eu02.net |
 | mit.postbank.de | 261826549347986.wt-eu02.net |
 | web.mapp.whiteaway.com | 266905402333512.wt-eu02.net |
@@ -296,6 +304,7 @@
 | census.misterspex.nl | 753960264605716.wt-eu02.net |
 | web.sidsavage.com | 757421535252818.wt-eu02.net |
 | is.lg.com | 762510246968705.wt-eu02.net |
+| prophet.heise-academy.de | 792100555808051.wt-eu02.net |
 | web.email.theindependentpharmacy.co.uk | 802837842744167.wt-eu02.net |
 | abc.fackelmann.de | 807354460250799.wt-eu02.net |
 | web.mapp.naturzeit.com | 818150559802317.wt-eu02.net |
@@ -346,6 +355,7 @@
 | webmet.creditreform.de | creditreform02.wt-eu02.net |
 | data.inbank.it | data-inbank01.wt-eu02.net |
 | data.leipzig.de | data-leipzig.wt-eu02.net |
+| data.vdi-wissensforum.de | data-vdi-wissen01.wt-eu02.net |
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
 | di.ifolor.ch | di.ifolor.wt-eu02.net |
 | di.ifolor.de | di.ifolor.wt-eu02.net |
@@ -393,6 +403,7 @@
 | da.hornbach.se | hornbach-02.wt-eu02.net |
 | da.hornbach.sk | hornbach-02.wt-eu02.net |
 | app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
+| img.foodspring.de | img-foodspring01.wt-eu02.net |
 | img.foodspring.dk | img-foodspring01.wt-eu02.net |
 | img.foodspring.se | img-foodspring01.wt-eu02.net |
 | scout.alpinetrek.co.uk | img.bergfreunde.wt-eu02.net |
@@ -408,6 +419,7 @@
 | scout.bergfreunde.nl | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.se | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
+| data.janvanderstorm.de | janvanderstorm-01.wt-eu02.net |
 | image.kfw-entwicklungsbank.de | kfw-07.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
 | track.kiomi.com | kiomi-com01.webtrekk.net |
