@@ -21,6 +21,7 @@ analytics.arunraghavan.net
 analytics.basistheory.com
 analytics.betterplaces.nl
 analytics.certifriedit.com
+analytics.chattarize.de
 analytics.churchthemes.com
 analytics.churchwp.com
 analytics.codeforscience.org
@@ -28,7 +29,6 @@ analytics.codeskulptor.org
 analytics.dephibank.com
 analytics.dogecoin.gg
 analytics.eikko.ai
-analytics.explained-from-first-principles.com
 analytics.fatalparadox.com
 analytics.gamedatacrunch.com
 analytics.geekyminds.net
@@ -40,7 +40,6 @@ analytics.kukla.club
 analytics.lifestyledemocracy.com
 analytics.lunge.de
 analytics.macklin.me
-analytics.mambaui.com
 analytics.mc500.info
 analytics.mhpod.gov.au
 analytics.mondoweiss.net
@@ -80,6 +79,7 @@ artistchristinacarmel.ericksonbuilt.com
 asclepius.nordenta.se
 assets.garron.blog
 assets.garron.me
+assets.mikeroulston.com
 assets.webmanufaktur.ch
 badwolf.open-election-compass.com
 bees.beesbeesbeesbees.com
@@ -93,7 +93,6 @@ cody-stats.coupa.engineering
 connect.adkhifi.com
 connect.astrobotanicals.com
 connect.ftpresents.com
-connect.virtuesofthevine.com
 counter.cropvid.com
 counter.proxycrawl.com
 counter.subtitlebee.com
@@ -115,7 +114,6 @@ hi.victorbaudot.com
 hola.xebel.co
 hurricane.tinybird.co
 hype.zlipa.com
-info.alvin.codes
 informatics.filamentcolors.xyz
 insights.affilimate.com
 insights.frenchtogether.com
@@ -140,6 +138,8 @@ p.classroombookings.com
 p.e-bot7.com
 p.fairspot.host
 p.ifvictr.com
+p.marqueplace.com
+p.meilentrio.de
 p.neil.gg
 p.nqueue.io
 p.ryanhalliday.com
@@ -198,6 +198,7 @@ plausible.brandonly.me
 plausible.conveyal.com
 plausible.corbettbarr.com
 plausible.deploymentfromscratch.com
+plausible.dev.logicboard.com
 plausible.dev.sketch.com
 plausible.doberman.co
 plausible.doctave.com
@@ -312,6 +313,7 @@ stats.4-camper.de
 stats.45rpm.ch
 stats.69grad.de
 stats.acadevor.com
+stats.achtsame-yonimassage.de
 stats.airtrafik.com
 stats.aixbrain.de
 stats.allaboutberlin.com
@@ -319,12 +321,12 @@ stats.alleaktien.de
 stats.am.ai
 stats.amiibo.life
 stats.arquido.com
-stats.artefact.space
 stats.auto-dombrowski.de
 stats.autofarm.network
 stats.baptistwomen.com
 stats.basecamp.com
 stats.bcdtravel.com
+stats.beausimensen.com
 stats.belic.si
 stats.benui.ca
 stats.bertwagner.com
@@ -387,11 +389,13 @@ stats.crewebo.de
 stats.cryptmail.io
 stats.ctor.io
 stats.curbnumberpro.com
+stats.cymbiant.co.uk
 stats.dailyposter.com
 stats.danielwolf.photography
 stats.danner-landschaftsbau.at
 stats.dashbit.co
 stats.davidlms.com
+stats.derekknight.tech
 stats.deva.guru
 stats.devenet.eu
 stats.devenet.info
@@ -472,6 +476,7 @@ stats.iscc-system.org
 stats.ivankahl.com
 stats.jackwhiting.co.uk
 stats.jamesevers.co.uk
+stats.jamesilesantiques.com
 stats.janlindblom.se
 stats.jansix.at
 stats.jawebb.se
@@ -502,6 +507,7 @@ stats.lestypesdefarine.fr
 stats.lik.fr
 stats.literacysomerset.org
 stats.livingedge.ngo
+stats.localmetravel.com
 stats.lord.io
 stats.lstfnd.de
 stats.ltdhunt.com
@@ -512,6 +518,7 @@ stats.macosicons.com
 stats.macroarraydx.com
 stats.madeit.io
 stats.maferland.com
+stats.malizen.com
 stats.martinbetz.eu
 stats.martyntaylor.com
 stats.mashword.com
@@ -525,6 +532,7 @@ stats.mehulgohil.com
 stats.melvingeorge.me
 stats.mesenvies.fr
 stats.micv.works
+stats.migrantworker.ca
 stats.missionrabies.com
 stats.mmazzarolo.com
 stats.motion-effect.com
@@ -533,6 +541,7 @@ stats.muchbetteradventures.com
 stats.mysideproject.rocks
 stats.nddmed.com
 stats.nerdbusiness.com
+stats.nice.kiwi
 stats.nicolabricot.com
 stats.nrcaknights.com
 stats.nytecomics.com
@@ -545,6 +554,7 @@ stats.pasteapp.io
 stats.paulbutler.org
 stats.paysagistes.pro
 stats.pebkac.io
+stats.pendleratlas.de
 stats.petr.codes
 stats.phelsumagrandis.de
 stats.phili.pe
@@ -556,11 +566,14 @@ stats.pitstone.co.uk
 stats.pizzapizza.io
 stats.plastbest.cz
 stats.plastbest.sk
+stats.plugins.run
 stats.poesieundgenuss.com
 stats.pointflottant.com
 stats.polekatfitness.com
 stats.populang.com
 stats.pri.org
+stats.pricewell.io
+stats.principedepaz.gt
 stats.pselookup.vrymel.com
 stats.radreiseglueck.de
 stats.raidprotect.org
@@ -572,6 +585,8 @@ stats.reisemobil.pro
 stats.remotebear.io
 stats.revit-content.com
 stats.rocketvalidator.com
+stats.ruhrfestspiele.de
+stats.saveirishpubs.ie
 stats.screen-play.app
 stats.screenwavemedia.com
 stats.sebastiangale.ca
@@ -611,6 +626,7 @@ stats.the18monthpianoproject.com
 stats.thechurchfactory.com
 stats.thedartmoorsoapco.co.uk
 stats.thegoodlineheight.com
+stats.thelandofar.be
 stats.thingsthatkeepmeupatnight.dev
 stats.thomasfroese.com
 stats.thomasvitale.com
@@ -630,6 +646,8 @@ stats.trussed.dev
 stats.twirrl.co
 stats.vanityprojects.com
 stats.vdfu-news.de
+stats.walkiees.co.uk
+stats.whenpigsflybbq.com
 stats.whereisit5pmrightnow.com
 stats.world.hey.com
 stats.wvs.org.uk
@@ -649,6 +667,7 @@ visitorcenter.srwild.com
 visits.tommi.space
 vitals.cgddrd.me
 vole.amplenote.com
+webstats.bijenpatel.com
 x.ppl.moe
 xn--mp8h.brandonzell.com
 yolo.philipbjorge.com

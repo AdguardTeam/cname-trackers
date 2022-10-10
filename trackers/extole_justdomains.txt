@@ -11,6 +11,7 @@ ilove.volusion.com
 refer.ahsfriends.com
 refer.american-giant.com
 refer.ancestry.com
+refer.basictalk.com
 refer.clearme.com
 refer.compexusa.com
 refer.discover.com
@@ -45,10 +46,12 @@ refer.volcom.com
 refer.vonage.com
 refer.xoom.com
 referral.hostgator.com
+share.catalogspree.com
 share.indochino.com
 share.na.sage.com
 share.qalo.com
 share.vimeo.com
+share.wimp.no
 tellapal.register.com
 tellapal.web.com
 #

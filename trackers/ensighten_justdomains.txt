@@ -25,6 +25,7 @@ activate.orlandosentinel.com
 activate.pacificsandiego.com
 activate.pbmonthly.net
 activate.platform.californiatimes.com
+activate.post-trib.com
 activate.ranchosantafereview.com
 activate.sandiegouniontribune.com
 activate.shopjustice.com
@@ -213,8 +214,9 @@ sst.johnlewis.com
 sst.nab.com.au
 t.janieandjack.com
 tagman.britishairways.com
+tagman.crystalsummer.co.uk
 tagman.fotolia.com
-tagman.heathrow.com
+tagman.intercall.com
 tagman.transavia.com
 tagman.virgin-atlantic.com
 tagman.virginatlantic.com

@@ -16,6 +16,7 @@
 | api2.clickaine.com | api.clickaine.com |
 | app.rtnews.pro | api.clickaine.com |
 | app.willalland.info | api.clickaine.com |
+| asg.animeyt.es | api.clickaine.com |
 | c2n.pornez.net | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
 | c4n.ijerk.club | api.clickaine.com |
@@ -35,6 +36,7 @@
 | cc.sexgeschichten-kostenlos.com | api.clickaine.com |
 | cc.sexstories-hot.com | api.clickaine.com |
 | cc.sexverhalen-gratis.com | api.clickaine.com |
+| cc2.camcaps.io | api.clickaine.com |
 | cdn24.playerxxl.xyz | api.clickaine.com |
 | check.safelinkonly.top | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |

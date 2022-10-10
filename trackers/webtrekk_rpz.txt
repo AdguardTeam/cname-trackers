@@ -95,6 +95,7 @@ data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
 di.ifolor.ch CNAME .
 di.ifolor.de CNAME .
+di.ifolor.dk CNAME .
 di.ifolor.fi CNAME .
 di.ifolor.net CNAME .
 dnsbl.test.wbtrkk.teufel.de CNAME .
@@ -121,9 +122,9 @@ fiwinet.firmenwissen.com CNAME .
 fiwinet.firmenwissen.de CNAME .
 hbbtv-track.prosieben.de CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
-hulpmiddel.fvw.de CNAME .
 img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
+img.foodspring.fr CNAME .
 img.foodspring.se CNAME .
 intelligence.officialwesthamstore.com CNAME .
 is.lg.com CNAME .
@@ -251,6 +252,7 @@ web.newsletter.viviennewestwood.com CNAME .
 web.online.monnalisa.com CNAME .
 web.pages.lloydspharmacy.com CNAME .
 web.s.sasrx.com CNAME .
+web.sensilab.com CNAME .
 web.sensilab.de CNAME .
 web.sensilab.ie CNAME .
 web.sensilab.ro CNAME .
@@ -265,6 +267,7 @@ web.slimjoy.se CNAME .
 web.slimjoy.sk CNAME .
 web.solesource.com CNAME .
 web.tummy-tox.com CNAME .
+web.tummytox.de CNAME .
 web.tummytox.pt CNAME .
 web.tummytox.sk CNAME .
 web.x.ilpost.it CNAME .

@@ -52,7 +52,6 @@
 | a.emwstore.xyz | 0i0i0i0.com |
 | a.epicgoo.com | 0i0i0i0.com |
 | a.fapcat.com | 0i0i0i0.com |
-| a.fapster.xxx | 0i0i0i0.com |
 | a.focusde.info | 0i0i0i0.com |
 | a.gofilms4u.pro | 0i0i0i0.com |
 | a.hentai369.com | 0i0i0i0.com |
@@ -64,7 +63,9 @@
 | a.letsjerk.tv | 0i0i0i0.com |
 | a.manga18.site | 0i0i0i0.com |
 | a.marketing.com.sd | 0i0i0i0.com |
+| a.milfpunish.com | 0i0i0i0.com |
 | a.neverbe.xyz | 0i0i0i0.com |
+| a.pinayviralsexx.com | 0i0i0i0.com |
 | a.pinoymoviepedia.ru | 0i0i0i0.com |
 | a.pornhex.com | 0i0i0i0.com |
 | a.pumpity.net | 0i0i0i0.com |
@@ -83,6 +84,7 @@
 | abee.yeeowl.xyz | 0i0i0i0.com |
 | ablade.beauty | 0i0i0i0.com |
 | abracadabrahub.com | 0i0i0i0.com |
+| account.javuncleak.buzz | 0i0i0i0.com |
 | acdn.uploads.mobi | 0i0i0i0.com |
 | ad.emule-island.eu | 0i0i0i0.com |
 | ad.ttstreaming.stream | 0i0i0i0.com |
@@ -136,7 +138,6 @@
 | asg.pornomoglie.com | 0i0i0i0.com |
 | asg.pornoplay.online | 0i0i0i0.com |
 | asg.pornx99.us | 0i0i0i0.com |
-| asg.pornx99.xyz | 0i0i0i0.com |
 | asg.retrosexporn.com | 0i0i0i0.com |
 | asg.sdtraff.com | 0i0i0i0.com |
 | asg.shudhdesiporn.com | 0i0i0i0.com |
@@ -248,9 +249,7 @@
 | js.manga9.co | 0i0i0i0.com |
 | js.mangapro.top | 0i0i0i0.com |
 | js.xemkqxs.com | 0i0i0i0.com |
-| ka.kakakakaka.xyz | 0i0i0i0.com |
 | kanhsky.mom | 0i0i0i0.com |
-| kante2.mom | 0i0i0i0.com |
 | khetlet.mom | 0i0i0i0.com |
 | khoa.jqk.lol | 0i0i0i0.com |
 | king.beov.lol | 0i0i0i0.com |
@@ -270,6 +269,7 @@
 | look.bookies.lol | 0i0i0i0.com |
 | m.x-power.info | 0i0i0i0.com |
 | m.xrum.info | 0i0i0i0.com |
+| maizour.mom | 0i0i0i0.com |
 | marcusdevs.ru | 0i0i0i0.com |
 | mediacdn.x1hub.com | 0i0i0i0.com |
 | member.javtvnow.xyz | 0i0i0i0.com |
@@ -301,6 +301,7 @@
 | oi.transhero.com | 0i0i0i0.com |
 | onetwohub.com | 0i0i0i0.com |
 | ontj.com | 0i0i0i0.com |
+| outallin.mom | 0i0i0i0.com |
 | p123p.com | 0i0i0i0.com |
 | pakeway.lol | 0i0i0i0.com |
 | pam.mongz.lol | 0i0i0i0.com |
@@ -327,6 +328,7 @@
 | profield.ddns.net | 0i0i0i0.com |
 | pub.donmam.skin | 0i0i0i0.com |
 | pubg.remiitano.xyz | 0i0i0i0.com |
+| q1.pornwex.tv | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
 | qoqv.com | 0i0i0i0.com |
 | quaz.viaoz.xyz | 0i0i0i0.com |
@@ -371,6 +373,7 @@
 | sup.srvtax.com | 0i0i0i0.com |
 | support.streamjav.top | 0i0i0i0.com |
 | szj.boombay.xyz | 0i0i0i0.com |
+| taboizo.mom | 0i0i0i0.com |
 | taoviep.mom | 0i0i0i0.com |
 | tb.turbocap.net | 0i0i0i0.com |
 | testcommon.soundrussian.com | 0i0i0i0.com |
@@ -417,7 +420,6 @@
 | www.u808i.com | 0i0i0i0.com |
 | www.upcdn.site | 0i0i0i0.com |
 | www.vkcdnservice.com | 0i0i0i0.com |
-| www.vspro.cc | 0i0i0i0.com |
 | www.w00t.us | 0i0i0i0.com |
 | www4.hentaigamecg.com | 0i0i0i0.com |
 | www6.freeanimesource.com | 0i0i0i0.com |

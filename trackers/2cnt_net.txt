@@ -42,6 +42,7 @@
 ||heise.met.vgwort.de^
 ||helpster.met.vgwort.de^
 ||manager.met.vgwort.de^
+||nomos.met.vgwort.de^
 ||spiegel.met.vgwort.de^
 ||ssl-beck.met.vgwort.de^
 ||ssl-berliner-kurier.met.vgwort.de^
@@ -91,6 +92,7 @@
 ||vg00.met.vgwort.de^
 ||vg08.met.vgwort.de^
 ||waz.met.vgwort.de^
+||wolterskluwer.met.vgwort.de^
 !
 ! bm-eavis.tns-dk.2cnt.net disguised trackers
 !
@@ -123,6 +125,21 @@
 ! slb-tns-dk-pool07.tns-dk.2cnt.net disguised trackers
 !
 ||dplayteststream.tns-gallup.dk^
+||drandroidstream.tns-gallup.dk^
+!
+! drandroidstream.tns-dk.2cnt.net disguised trackers
+!
+||drandroidstream.tns-gallup.dk^
+!
+! drandroidtvstream.tns-dk.2cnt.net disguised trackers
+!
+||drandroidtvstream.tns-gallup.dk^
+!
+! slb-tns-dk-pool06.tns-dk.2cnt.net disguised trackers
+!
+||drandroidtvstream.tns-gallup.dk^
+||ssl-drandroidtvstream.tns-gallup.dk^
+||ssl-youseestream.tns-gallup.dk^
 !
 ! driosstream.tns-dk.2cnt.net disguised trackers
 !
@@ -140,6 +157,10 @@
 !
 ||faz.met.vgwort.de^
 !
+! femina.tns-dk.2cnt.net disguised trackers
+!
+||femina.tns-gallup.dk^
+!
 ! fr-online.vgwort-de.2cnt.net disguised trackers
 !
 ||fr-online.met.vgwort.de^
@@ -151,10 +172,6 @@
 ! geo.vgwort-de.2cnt.net disguised trackers
 !
 ||geo.met.vgwort.de^
-!
-! heise.vgwort-de.2cnt.net disguised trackers
-!
-||heise.met.vgwort.de^
 !
 ! helpster.vgwort-de.2cnt.net disguised trackers
 !
@@ -184,6 +201,10 @@
 !
 ||n-tv.met.vgwort.de^
 !
+! nomos.vgwort-de.2cnt.net disguised trackers
+!
+||nomos.met.vgwort.de^
+!
 ! pl01.prolitteris.2cnt.net disguised trackers
 !
 ||pl01.owen.prolitteris.ch^
@@ -212,10 +233,6 @@
 !
 ||ssl-beck.met.vgwort.de^
 !
-! ssl-berliner-kurier.vgwort-de.2cnt.net disguised trackers
-!
-||ssl-berliner-kurier.met.vgwort.de^
-!
 ! ssl-bilmagasinet.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-bilmagasinet.tns-gallup.dk^
@@ -235,6 +252,14 @@
 ! ssl-digitalfoto.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-digitalfoto.tns-gallup.dk^
+!
+! ssl-dr.tns-dk.2cnt.net disguised trackers
+!
+||ssl-dr.tns-gallup.dk^
+!
+! ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
+!
+||ssl-drandroidtvstream.tns-gallup.dk^
 !
 ! ssl-drhbbtv.tns-dk.2cnt.net disguised trackers
 !
@@ -356,10 +381,6 @@
 !
 ||ssl-woman.tns-gallup.dk^
 !
-! slb-tns-dk-pool06.tns-dk.2cnt.net disguised trackers
-!
-||ssl-youseestream.tns-gallup.dk^
-!
 ! ssl-youseestream.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-youseestream.tns-gallup.dk^
@@ -443,6 +464,10 @@
 ! wiley.vgwort-de.2cnt.net disguised trackers
 !
 ||wiley.met.vgwort.de^
+!
+! wolterskluwer.vgwort-de.2cnt.net disguised trackers
+!
+||wolterskluwer.met.vgwort.de^
 !
 ! slb-tns-dk-pool08.tns-dk.2cnt.net disguised trackers
 !

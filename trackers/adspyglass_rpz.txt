@@ -42,7 +42,6 @@ a.eachporn.com CNAME .
 a.emwstore.xyz CNAME .
 a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
-a.fapster.xxx CNAME .
 a.focusde.info CNAME .
 a.gofilms4u.pro CNAME .
 a.hentai369.com CNAME .
@@ -54,7 +53,9 @@ a.letsjerk.to CNAME .
 a.letsjerk.tv CNAME .
 a.manga18.site CNAME .
 a.marketing.com.sd CNAME .
+a.milfpunish.com CNAME .
 a.neverbe.xyz CNAME .
+a.pinayviralsexx.com CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornhex.com CNAME .
 a.pumpity.net CNAME .
@@ -73,6 +74,7 @@ abc.comick.top CNAME .
 abee.yeeowl.xyz CNAME .
 ablade.beauty CNAME .
 abracadabrahub.com CNAME .
+account.javuncleak.buzz CNAME .
 acdn.uploads.mobi CNAME .
 ad.emule-island.eu CNAME .
 ad.ttstreaming.stream CNAME .
@@ -126,7 +128,6 @@ asg.phukienthoitranggiare.com CNAME .
 asg.pornomoglie.com CNAME .
 asg.pornoplay.online CNAME .
 asg.pornx99.us CNAME .
-asg.pornx99.xyz CNAME .
 asg.retrosexporn.com CNAME .
 asg.sdtraff.com CNAME .
 asg.shudhdesiporn.com CNAME .
@@ -240,9 +241,7 @@ jira.xsuffer.com CNAME .
 js.manga9.co CNAME .
 js.mangapro.top CNAME .
 js.xemkqxs.com CNAME .
-ka.kakakakaka.xyz CNAME .
 kanhsky.mom CNAME .
-kante2.mom CNAME .
 khetlet.mom CNAME .
 khoa.jqk.lol CNAME .
 king.beov.lol CNAME .
@@ -263,6 +262,7 @@ look.bookies.lol CNAME .
 lovelybingo.com CNAME .
 m.x-power.info CNAME .
 m.xrum.info CNAME .
+maizour.mom CNAME .
 makumva.all-usanomination.com CNAME .
 marcusdevs.ru CNAME .
 mediacdn.x1hub.com CNAME .
@@ -295,6 +295,7 @@ oi.lesbianbliss.com CNAME .
 oi.transhero.com CNAME .
 onetwohub.com CNAME .
 ontj.com CNAME .
+outallin.mom CNAME .
 p123p.com CNAME .
 pakeway.lol CNAME .
 pam.mongz.lol CNAME .
@@ -322,6 +323,7 @@ pre.myfuck.club CNAME .
 profield.ddns.net CNAME .
 pub.donmam.skin CNAME .
 pubg.remiitano.xyz CNAME .
+q1.pornwex.tv CNAME .
 qhip.com CNAME .
 qoqv.com CNAME .
 quaz.viaoz.xyz CNAME .
@@ -366,6 +368,7 @@ subtitle.mom CNAME .
 sup.srvtax.com CNAME .
 support.streamjav.top CNAME .
 szj.boombay.xyz CNAME .
+taboizo.mom CNAME .
 taoviep.mom CNAME .
 tb.turbocap.net CNAME .
 testcommon.soundrussian.com CNAME .
@@ -413,7 +416,6 @@ www.srnovelas.cc CNAME .
 www.u808i.com CNAME .
 www.upcdn.site CNAME .
 www.vkcdnservice.com CNAME .
-www.vspro.cc CNAME .
 www.w00t.us CNAME .
 www4.hentaigamecg.com CNAME .
 www6.freeanimesource.com CNAME .

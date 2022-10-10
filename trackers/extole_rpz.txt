@@ -11,6 +11,7 @@ ilove.volusion.com CNAME .
 refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.ancestry.com CNAME .
+refer.basictalk.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
 refer.discover.com CNAME .
@@ -45,10 +46,12 @@ refer.volcom.com CNAME .
 refer.vonage.com CNAME .
 refer.xoom.com CNAME .
 referral.hostgator.com CNAME .
+share.catalogspree.com CNAME .
 share.indochino.com CNAME .
 share.na.sage.com CNAME .
 share.qalo.com CNAME .
 share.vimeo.com CNAME .
+share.wimp.no CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
 ;

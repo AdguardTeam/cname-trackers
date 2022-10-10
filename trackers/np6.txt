@@ -5,6 +5,7 @@
 !
 ||emailing.casden.banquepopulaire.fr^
 ||epm.mailperformance.com^
+||shortener.np6.com^
 ||sms.gestion.cetelem.fr^
 ||t8.mailperformance.com^
 ||tr.3ou4xcb.cetelem.fr^
@@ -186,6 +187,7 @@
 ||tr.expresofferte.be^
 ||tr.fidal.pro^
 ||tr.fidalformation.pro^
+||tr.fr.ar24.services^
 ||tr.fr.pro.accor.com^
 ||tr.futurecommerce.moethennessy.com^
 ||tr.gap-fr.fr^
@@ -268,8 +270,10 @@
 ||tr.kommunikation.younited-credit.com^
 ||tr.kontakt.younited-credit.com^
 ||tr.kpyn.espmp-cufr.net^
+||tr.kpyn02f.espmp-cufr.net^
 ||tr.krus.espmp-agfr.net^
 ||tr.leads.direct^
+||tr.legrandjeu.boulanger.com^
 ||tr.lesmarques.envie-de-bien-manger.com^
 ||tr.lettre.dechets-infos.com^
 ||tr.louvre-boites.com^
@@ -379,6 +383,7 @@
 ||tr.news.la-meilleure-voyance.com^
 ||tr.news.labelleadresse.com^
 ||tr.news.lacollection-airfrance.be^
+||tr.news.lacollection-airfrance.ch^
 ||tr.news.lacollection-airfrance.fr^
 ||tr.news.lacollectionairfrance.be^
 ||tr.news.lacollectionairfrance.fr^
@@ -392,6 +397,8 @@
 ||tr.news.mdbp.fr^
 ||tr.news.meillandrichardier.com^
 ||tr.news.mi-oferta.es^
+||tr.news.mon-horoscope.info^
+||tr.news.mperformance.fr^
 ||tr.news.normandie.cci.fr^
 ||tr.news.onetoonemba.com^
 ||tr.news.ouestnormandie.cci.fr^
@@ -549,6 +556,7 @@
 ||tr.uk.icicibank.com^
 ||tr.urfk02v.espmp-cufr.net^
 ||tr.urfk03u.espmp-nifr.net^
+||tr.urfk044.espmp-nifr.net^
 ||tr.urfk057.espmp-aufr.net^
 ||tr.urfk05l.espmp-nifr.net^
 ||tr.urfk06h.espmp-nifr.net^

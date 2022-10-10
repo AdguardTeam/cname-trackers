@@ -25,6 +25,7 @@ activate.orlandosentinel.com CNAME .
 activate.pacificsandiego.com CNAME .
 activate.pbmonthly.net CNAME .
 activate.platform.californiatimes.com CNAME .
+activate.post-trib.com CNAME .
 activate.ranchosantafereview.com CNAME .
 activate.sandiegouniontribune.com CNAME .
 activate.shopjustice.com CNAME .
@@ -213,8 +214,9 @@ sst.johnlewis.com CNAME .
 sst.nab.com.au CNAME .
 t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
+tagman.crystalsummer.co.uk CNAME .
 tagman.fotolia.com CNAME .
-tagman.heathrow.com CNAME .
+tagman.intercall.com CNAME .
 tagman.transavia.com CNAME .
 tagman.virgin-atlantic.com CNAME .
 tagman.virginatlantic.com CNAME .

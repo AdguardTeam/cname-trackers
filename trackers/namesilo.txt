@@ -10,6 +10,7 @@
 ||3164603.notifysrv.com^
 ||3165703.notify6.com^
 ||3166309.notifysrv.com^
+||3168195.notify6.com^
 ||3169187.notify6.com^
 ||3169269.notifysrv.com^
 ||3171864.notifysrv.com^
@@ -71,6 +72,7 @@
 ||3300890.notifysrv.com^
 ||3300974.notify6.com^
 ||3300998.notify6.com^
+||3302396.notify6.com^
 ||3302404.notify6.com^
 ||3303294.notifysrv.com^
 ||3304350.notifysrv.com^
@@ -132,6 +134,7 @@
 ||3402191.notifysrv.com^
 ||3404041.notifysrv.com^
 ||3404165.notify6.com^
+||3405017.notify6.com^
 ||3405035.notifysrv.com^
 ||3405137.notifysrv.com^
 ||3405151.notifysrv.com^
@@ -407,6 +410,7 @@
 ||4004928.notify6.com^
 ||4018398.notify6.com^
 ||4021032.notify6.com^
+||4022504.notify6.com^
 ||4022684.notify6.com^
 ||4028412.notify6.com^
 ||4031264.notify6.com^
@@ -486,6 +490,7 @@
 ||4587228.notify6.com^
 ||4598410.notify6.com^
 ||4615884.notify6.com^
+||4621798.notify6.com^
 ||4623392.notify6.com^
 ||4623404.notify6.com^
 ||4636902.notify6.com^
@@ -494,10 +499,14 @@
 ||4680526.notify6.com^
 ||4682394.notify6.com^
 ||4735242.notify6.com^
+||4740420.notify6.com^
 ||4794988.notify6.com^
 ||4798638.notify6.com^
+||4799078.notify6.com^
 ||6146.notify.optimizesrv.com^
 ||6180.notify.optimizesrv.com^
+||a.addisplaynetwork.com^
+||a.adnflow.com^
 ||a.etology.com^
 ||api.adnation.com^
 ||delivery.gettopple.com^
@@ -513,6 +522,7 @@
 ||origin-ads.optimizesrv.com^
 ||origin-ads.realsrv.com^
 ||rtb.exoclick.com^
+||s.adnflow.com^
 ||s.eaalink.com^
 ||s.elink2b.com^
 ||s.elink2c.com^

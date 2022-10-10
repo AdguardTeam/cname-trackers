@@ -158,7 +158,6 @@
     * emp01.wt-eu02.net
     * endresshauser01.wt-eu02.net
     * flaconi-at.wt-eu02.net
-    * fvw-de01.wt-eu02.net
     * gedidigital.wt-eu02.net
     * goertz-01.wt-eu02.net
     * hbbtv-track.wt-eu02.net
@@ -203,6 +202,7 @@
 | intelligence.officialwesthamstore.com | 125611812418194.wt-eu02.net |
 | mapp.ewm.co.uk | 145003564476173.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
+| web.sensilab.com | 151836596491843.wt-eu02.net |
 | web.sensilab.de | 151836596491843.wt-eu02.net |
 | web.sensilab.ie | 151836596491843.wt-eu02.net |
 | web.sensilab.ro | 151836596491843.wt-eu02.net |
@@ -240,6 +240,7 @@
 | census.misterspex.fi | 346715981768881.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
 | web.tummy-tox.com | 366003812072969.wt-eu02.net |
+| web.tummytox.de | 366003812072969.wt-eu02.net |
 | web.tummytox.pt | 366003812072969.wt-eu02.net |
 | web.tummytox.sk | 366003812072969.wt-eu02.net |
 | data.mediaworld.it | 367128732629814.wt-eu02.net |
@@ -359,6 +360,7 @@
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
 | di.ifolor.ch | di.ifolor.wt-eu02.net |
 | di.ifolor.de | di.ifolor.wt-eu02.net |
+| di.ifolor.dk | di.ifolor.wt-eu02.net |
 | di.ifolor.fi | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
 | pix.eads.com | eads-com01.webtrekk.net |
@@ -388,7 +390,6 @@
 | w3.flatex.at | flatex-at01.webtrekk.net |
 | w3.flatex.nl | flatex-at01.webtrekk.net |
 | w3.flatex.de | flatex-de01.webtrekk.net |
-| hulpmiddel.fvw.de | fvw-de01.wt-eu02.net |
 | a.gedidigital.it | gedidigital.wt-eu02.net |
 | data.goertz.de | goertz-01.wt-eu02.net |
 | hbbtv-track.prosieben.de | hbbtv-track.wt-eu02.net |
@@ -405,6 +406,7 @@
 | app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
 | img.foodspring.de | img-foodspring01.wt-eu02.net |
 | img.foodspring.dk | img-foodspring01.wt-eu02.net |
+| img.foodspring.fr | img-foodspring01.wt-eu02.net |
 | img.foodspring.se | img-foodspring01.wt-eu02.net |
 | scout.alpinetrek.co.uk | img.bergfreunde.wt-eu02.net |
 | scout.alpiniste.fr | img.bergfreunde.wt-eu02.net |

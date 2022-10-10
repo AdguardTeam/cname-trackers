@@ -175,6 +175,7 @@
     * bcc4d612-qmmdzant.cname.ebis.ne.jp
     * bceaceed-neqq92z2.cname.ebis.ne.jp
     * bd4ef0f6-ywapzf2c.cname.ebis.ne.jp
+    * bdeec84a-bsczjign.cname.ebis.ne.jp
     * bebe7a28-6pusefyf.cname.ebis.ne.jp
     * bf6230ec-6pusefyf.cname.ebis.ne.jp
     * c054b113-ztaqjkmm.cname.ebis.ne.jp
@@ -408,6 +409,7 @@
 | adebis.shiseido.co.jp | bcc4d612-qmmdzant.cname.ebis.ne.jp |
 | admeasure.hh-online.jp | bceaceed-neqq92z2.cname.ebis.ne.jp |
 | cname.ebis.folio-sec.com | bd4ef0f6-ywapzf2c.cname.ebis.ne.jp |
+| ebis.u2yokohama.co.jp | bdeec84a-bsczjign.cname.ebis.ne.jp |
 | ebis-tracking.tcb-beauty.net | bebe7a28-6pusefyf.cname.ebis.ne.jp |
 | ebis-tracking.tcb-recruit.com | bf6230ec-6pusefyf.cname.ebis.ne.jp |
 | adebis.464981.com | c054b113-ztaqjkmm.cname.ebis.ne.jp |

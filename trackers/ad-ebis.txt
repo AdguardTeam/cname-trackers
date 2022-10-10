@@ -186,6 +186,7 @@
 ||ebis.studioindi.jp^
 ||ebis.sunstar-shop.jp^
 ||ebis.tokado.jp^
+||ebis.u2yokohama.co.jp^
 ||ebis01.zkai.co.jp^
 ||ebis2020.hoiku-job.net^
 ||ebis202001.joyfit.jp^

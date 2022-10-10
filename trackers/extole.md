@@ -6,6 +6,8 @@
     * ahs.extole.com
     * american-giant.extole.com
     * ancestrydna.extole.com
+    * basictalk-ssl.extole.com
+    * catalogspree-ssl.extole.com
     * clearme-ssl.extole.com
     * compexusa.extole.com
     * d.extole.com
@@ -47,6 +49,7 @@
     * vimeo.extole.com
     * volcom.extole.com
     * vonage.extole.com
+    * wimp.extole.com
 
 ### Rarely active trackers
 
@@ -61,6 +64,8 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
+| refer.basictalk.com | basictalk-ssl.extole.com |
+| share.catalogspree.com | catalogspree-ssl.extole.com |
 | refer.clearme.com | clearme-ssl.extole.com |
 | refer.compexusa.com | compexusa.extole.com |
 | ilove.volusion.com | d.extole.com |
@@ -105,3 +110,4 @@
 | share.vimeo.com | vimeo.extole.com |
 | refer.volcom.com | volcom.extole.com |
 | refer.vonage.com | vonage.extole.com |
+| share.wimp.no | wimp.extole.com |

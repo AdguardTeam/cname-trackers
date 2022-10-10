@@ -18,6 +18,7 @@
 | lbv5.mperf.com | form.bp01.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
+| shortener.np6.com | tracking.bp01.net |
 | sms.gestion.cetelem.fr | tracking.bp01.net |
 | t8.mailperformance.com | tracking.bp01.net |
 | tr.3ou4xcb.cetelem.fr | tracking.bp01.net |
@@ -199,6 +200,7 @@
 | tr.expresofferte.be | tracking.bp01.net |
 | tr.fidal.pro | tracking.bp01.net |
 | tr.fidalformation.pro | tracking.bp01.net |
+| tr.fr.ar24.services | tracking.bp01.net |
 | tr.fr.pro.accor.com | tracking.bp01.net |
 | tr.futurecommerce.moethennessy.com | tracking.bp01.net |
 | tr.gap-fr.fr | tracking.bp01.net |
@@ -281,8 +283,10 @@
 | tr.kommunikation.younited-credit.com | tracking.bp01.net |
 | tr.kontakt.younited-credit.com | tracking.bp01.net |
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
+| tr.kpyn02f.espmp-cufr.net | tracking.bp01.net |
 | tr.krus.espmp-agfr.net | tracking.bp01.net |
 | tr.leads.direct | tracking.bp01.net |
+| tr.legrandjeu.boulanger.com | tracking.bp01.net |
 | tr.lesmarques.envie-de-bien-manger.com | tracking.bp01.net |
 | tr.lettre.dechets-infos.com | tracking.bp01.net |
 | tr.louvre-boites.com | tracking.bp01.net |
@@ -392,6 +396,7 @@
 | tr.news.la-meilleure-voyance.com | tracking.bp01.net |
 | tr.news.labelleadresse.com | tracking.bp01.net |
 | tr.news.lacollection-airfrance.be | tracking.bp01.net |
+| tr.news.lacollection-airfrance.ch | tracking.bp01.net |
 | tr.news.lacollection-airfrance.fr | tracking.bp01.net |
 | tr.news.lacollectionairfrance.be | tracking.bp01.net |
 | tr.news.lacollectionairfrance.fr | tracking.bp01.net |
@@ -405,6 +410,8 @@
 | tr.news.mdbp.fr | tracking.bp01.net |
 | tr.news.meillandrichardier.com | tracking.bp01.net |
 | tr.news.mi-oferta.es | tracking.bp01.net |
+| tr.news.mon-horoscope.info | tracking.bp01.net |
+| tr.news.mperformance.fr | tracking.bp01.net |
 | tr.news.normandie.cci.fr | tracking.bp01.net |
 | tr.news.onetoonemba.com | tracking.bp01.net |
 | tr.news.ouestnormandie.cci.fr | tracking.bp01.net |
@@ -562,6 +569,7 @@
 | tr.uk.icicibank.com | tracking.bp01.net |
 | tr.urfk02v.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk03u.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk044.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk057.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk05l.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk06h.espmp-nifr.net | tracking.bp01.net |

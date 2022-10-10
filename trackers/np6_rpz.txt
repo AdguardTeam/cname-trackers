@@ -5,6 +5,7 @@
 ;
 emailing.casden.banquepopulaire.fr CNAME .
 epm.mailperformance.com CNAME .
+shortener.np6.com CNAME .
 sms.gestion.cetelem.fr CNAME .
 t8.mailperformance.com CNAME .
 tr.3ou4xcb.cetelem.fr CNAME .
@@ -186,6 +187,7 @@ tr.evenements.inpi.fr CNAME .
 tr.expresofferte.be CNAME .
 tr.fidal.pro CNAME .
 tr.fidalformation.pro CNAME .
+tr.fr.ar24.services CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
 tr.gap-fr.fr CNAME .
@@ -268,8 +270,10 @@ tr.klse.espmp-agfr.net CNAME .
 tr.kommunikation.younited-credit.com CNAME .
 tr.kontakt.younited-credit.com CNAME .
 tr.kpyn.espmp-cufr.net CNAME .
+tr.kpyn02f.espmp-cufr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
 tr.leads.direct CNAME .
+tr.legrandjeu.boulanger.com CNAME .
 tr.lesmarques.envie-de-bien-manger.com CNAME .
 tr.lettre.dechets-infos.com CNAME .
 tr.louvre-boites.com CNAME .
@@ -379,6 +383,7 @@ tr.news.la-collectionairfrance.fr CNAME .
 tr.news.la-meilleure-voyance.com CNAME .
 tr.news.labelleadresse.com CNAME .
 tr.news.lacollection-airfrance.be CNAME .
+tr.news.lacollection-airfrance.ch CNAME .
 tr.news.lacollection-airfrance.fr CNAME .
 tr.news.lacollectionairfrance.be CNAME .
 tr.news.lacollectionairfrance.fr CNAME .
@@ -392,6 +397,8 @@ tr.news.manufacturing.fr CNAME .
 tr.news.mdbp.fr CNAME .
 tr.news.meillandrichardier.com CNAME .
 tr.news.mi-oferta.es CNAME .
+tr.news.mon-horoscope.info CNAME .
+tr.news.mperformance.fr CNAME .
 tr.news.normandie.cci.fr CNAME .
 tr.news.onetoonemba.com CNAME .
 tr.news.ouestnormandie.cci.fr CNAME .
@@ -549,6 +556,7 @@ tr.ujsv.espmp-agfr.net CNAME .
 tr.uk.icicibank.com CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .
+tr.urfk044.espmp-nifr.net CNAME .
 tr.urfk057.espmp-aufr.net CNAME .
 tr.urfk05l.espmp-nifr.net CNAME .
 tr.urfk06h.espmp-nifr.net CNAME .

@@ -11,6 +11,7 @@ api.willalland.info CNAME .
 api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
 app.willalland.info CNAME .
+asg.animeyt.es CNAME .
 c2n.pornez.net CNAME .
 c4n.asianpinay.com CNAME .
 c4n.ijerk.club CNAME .
@@ -30,6 +31,7 @@ cc.sexgeschichten-klub.com CNAME .
 cc.sexgeschichten-kostenlos.com CNAME .
 cc.sexstories-hot.com CNAME .
 cc.sexverhalen-gratis.com CNAME .
+cc2.camcaps.io CNAME .
 cdn24.playerxxl.xyz CNAME .
 check.safelinkonly.top CNAME .
 ck.zzipps.com CNAME .

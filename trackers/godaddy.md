@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * ads.bid
+    * latam.lb.rtb.ads.bid
     * lb.rtb.ads.bid
     * sing.lb.rtb.ads.bid
 
@@ -10,6 +11,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| ac-dir-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | abttss-ur.exolkkl6i2puvf.ru | lb.rtb.ads.bid |
 | adsbid-ad-click.adsbid.ru | lb.rtb.ads.bid |
 | adsbid-sh-click.adghndou0sdh.ru | lb.rtb.ads.bid |
@@ -20,13 +22,15 @@
 | arvb.ewtcbedtmx.ru | lb.rtb.ads.bid |
 | arvb.gamz48qlok.ru | lb.rtb.ads.bid |
 | avb-co.cau1aighae.com | lb.rtb.ads.bid |
+| avb-co.iemieshohx.com | lb.rtb.ads.bid |
 | avbr.13wynpuurt.ru | lb.rtb.ads.bid |
+| di-res.cau1aighae.com | lb.rtb.ads.bid |
+| di-res.iemieshohx.com | lb.rtb.ads.bid |
 | dsp-image-resizer.3grg8dqjil.ru | lb.rtb.ads.bid |
-| dsp-image-resizer.cau1aighae.com | lb.rtb.ads.bid |
 | dsp-image-resizer.gamz48qlok.ru | lb.rtb.ads.bid |
 | lk-api-beta.ads2.bid | lb.rtb.ads.bid |
 | vitrina-ad-click.adghndou0sdh.ru | lb.rtb.ads.bid |
-| adsbid-click-dir-sing.cau1aighae.com | sing.lb.rtb.ads.bid |
+| ac-dir-sing.cau1aighae.com | sing.lb.rtb.ads.bid |
 | adsbid-sh-click.sing.adghndou0sdh.ru | sing.lb.rtb.ads.bid |
 | avb-sing.13wynpuurt.ru | sing.lb.rtb.ads.bid |
 | avb-sing.ewtcbedtmx.ru | sing.lb.rtb.ads.bid |

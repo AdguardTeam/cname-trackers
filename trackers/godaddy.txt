@@ -4,8 +4,9 @@
 ! ads.bid disguised trackers
 !
 ||abttss-ur.exolkkl6i2puvf.ru^
+||ac-dir-latam.cau1aighae.com^
+||ac-dir-sing.cau1aighae.com^
 ||adsbid-ad-click.adsbid.ru^
-||adsbid-click-dir-sing.cau1aighae.com^
 ||adsbid-sh-click.adghndou0sdh.ru^
 ||adsbid-sh-click.sing.adghndou0sdh.ru^
 ||adv.ads2.bid^
@@ -15,11 +16,13 @@
 ||arvb.ewtcbedtmx.ru^
 ||arvb.gamz48qlok.ru^
 ||avb-co.cau1aighae.com^
+||avb-co.iemieshohx.com^
 ||avb-sing.13wynpuurt.ru^
 ||avb-sing.ewtcbedtmx.ru^
 ||avbr.13wynpuurt.ru^
+||di-res.cau1aighae.com^
+||di-res.iemieshohx.com^
 ||dsp-image-resizer.3grg8dqjil.ru^
-||dsp-image-resizer.cau1aighae.com^
 ||dsp-image-resizer.gamz48qlok.ru^
 ||lk-api-beta.ads2.bid^
 ||sing.3h1fpq39jb.ru^

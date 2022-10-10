@@ -37,6 +37,7 @@
 9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 ah2sjk1n75th.app.tapmyback.com CNAME .
+am3s622gcd6m.tt.live CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
@@ -57,16 +58,17 @@ hkhpnqciykaf.www.gamecamp.gg CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
-jnzucsjc6eww.app.datree.io CNAME .
 k5ygj3bivnrp.uae.revent.store CNAME .
 kizpfrvi518a.www.crystalmathlabs.com CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 li3k4d70ig52.resourceya.com CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
+m4zoxtrcea1k.controlconceptsusa.com CNAME .
 m5yyur2au7l4.test.li.finance CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
 mteme7li1d6r.vertexmarketingagency.com CNAME .
+n4kb43cl2bsw.creatordrop.com CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
 ocjeg2ca9uh9.mailfloss.com CNAME .
 onuf69iegl2e.staging-lfg-app.alpacafinance.org CNAME .

@@ -12,4 +12,5 @@ al.germanpet.com CNAME .
 al.junior-onlineshop.jp CNAME .
 al.office-com.jp CNAME .
 al.pierrotshop.jp CNAME .
+al.shiffon-online.jp CNAME .
 al.tsukurupajama.jp CNAME .

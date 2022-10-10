@@ -4,8 +4,9 @@
 ; ads.bid disguised trackers
 ;
 abttss-ur.exolkkl6i2puvf.ru CNAME .
+ac-dir-latam.cau1aighae.com CNAME .
+ac-dir-sing.cau1aighae.com CNAME .
 adsbid-ad-click.adsbid.ru CNAME .
-adsbid-click-dir-sing.cau1aighae.com CNAME .
 adsbid-sh-click.adghndou0sdh.ru CNAME .
 adsbid-sh-click.sing.adghndou0sdh.ru CNAME .
 adv.ads2.bid CNAME .
@@ -15,11 +16,13 @@ arvb.78bfjskxto.ru CNAME .
 arvb.ewtcbedtmx.ru CNAME .
 arvb.gamz48qlok.ru CNAME .
 avb-co.cau1aighae.com CNAME .
+avb-co.iemieshohx.com CNAME .
 avb-sing.13wynpuurt.ru CNAME .
 avb-sing.ewtcbedtmx.ru CNAME .
 avbr.13wynpuurt.ru CNAME .
+di-res.cau1aighae.com CNAME .
+di-res.iemieshohx.com CNAME .
 dsp-image-resizer.3grg8dqjil.ru CNAME .
-dsp-image-resizer.cau1aighae.com CNAME .
 dsp-image-resizer.gamz48qlok.ru CNAME .
 lk-api-beta.ads2.bid CNAME .
 sing.3h1fpq39jb.ru CNAME .
