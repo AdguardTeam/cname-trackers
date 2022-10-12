@@ -211,6 +211,12 @@
         ]
     },
     {
+        "company_name": "RedTrack",
+        "domains": [
+            "rdtk.io"
+        ]
+    },
+    {
         "company_name": "TraceDock",
         "domains": [
             "a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com",
