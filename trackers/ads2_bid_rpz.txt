@@ -1,9 +1,10 @@
 ;
-; Company name: GoDaddy
+; Company name: ads2.bid
 ;
 ; ads.bid disguised trackers
 ;
 abttss-ur.exolkkl6i2puvf.ru CNAME .
+ac-dir-co.cau1aighae.com CNAME .
 ac-dir-latam.cau1aighae.com CNAME .
 ac-dir-sing.cau1aighae.com CNAME .
 adsbid-ad-click.adsbid.ru CNAME .

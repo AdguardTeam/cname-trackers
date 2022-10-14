@@ -1,4 +1,4 @@
-# Tracker: GoDaddy
+# Tracker: ads2.bid
 
 ## Disguised trackers list
 
@@ -13,6 +13,7 @@
 | ---- | ---- |
 | ac-dir-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | abttss-ur.exolkkl6i2puvf.ru | lb.rtb.ads.bid |
+| ac-dir-co.cau1aighae.com | lb.rtb.ads.bid |
 | adsbid-ad-click.adsbid.ru | lb.rtb.ads.bid |
 | adsbid-sh-click.adghndou0sdh.ru | lb.rtb.ads.bid |
 | adv.ads2.bid | lb.rtb.ads.bid |

@@ -36,6 +36,12 @@
         ]
     },
     {
+        "company_name": "ads2.bid",
+        "domains": [
+            "ads.bid"
+        ]
+    },
+    {
         "company_name": "AT Internet (formerly XiTi)",
         "domains": [
             "at-o.net"
@@ -124,12 +130,6 @@
         "company_name": "GMO Internet Group",
         "domains": [
             "ad-cloud.jp"
-        ]
-    },
-    {
-        "company_name": "GoDaddy",
-        "domains": [
-            "ads.bid"
         ]
     },
     {
