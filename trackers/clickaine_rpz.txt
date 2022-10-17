@@ -33,7 +33,6 @@ cc.sexstories-hot.com CNAME .
 cc.sexverhalen-gratis.com CNAME .
 cc2.camcaps.io CNAME .
 cdn24.playerxxl.xyz CNAME .
-check.safelinkonly.top CNAME .
 ck.zzipps.com CNAME .
 cli.its2.net CNAME .
 clkn.apostle.onl CNAME .
@@ -55,6 +54,7 @@ hruk.jjikk.top CNAME .
 hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
+mail.7porn.ru CNAME .
 more.alotporn.com CNAME .
 ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .

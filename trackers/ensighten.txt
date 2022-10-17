@@ -33,7 +33,6 @@
 ||activate.suncorp.com.au^
 ||activate.tacdn.com^
 ||activate.theactivetimes.com^
-||activate.thedailymeal.com^
 ||activate.united.com^
 ||activate1.fidelity.com^
 ||agility.cartoonnetwork.com^
@@ -195,6 +194,8 @@
 ||p.pulse.toyota.com^
 ||pfa.levexis.com^
 ||privacy.blade.app^
+||privacy.gemfinance.co.nz^
+||privacy.gomastercard.com.au^
 ||privacy.heineken.it^
 ||privacy.heishop.mx^
 ||pulse.delta.com^

@@ -132,6 +132,7 @@ tr.devis-professionnels.com CNAME .
 tr.devis.digital CNAME .
 tr.devize-companeo.ro CNAME .
 tr.dirigeants.harmonie-mutuelle.fr CNAME .
+tr.discover.perfectstay.com CNAME .
 tr.docapost-sirs.com CNAME .
 tr.donateur.afm-telethon.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
@@ -187,6 +188,8 @@ tr.evenements.inpi.fr CNAME .
 tr.expresofferte.be CNAME .
 tr.fidal.pro CNAME .
 tr.fidalformation.pro CNAME .
+tr.finance.moethennessy.com CNAME .
+tr.forum.veuveclicquot.fr CNAME .
 tr.fr.ar24.services CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
@@ -458,6 +461,7 @@ tr.nl.ardennes.cci.fr CNAME .
 tr.nl.mondo-shop.fr CNAME .
 tr.nl.services-sncf.com CNAME .
 tr.nl2.sncf-fidelite.com CNAME .
+tr.nmcm.espmp-cufr.net CNAME .
 tr.notification-gdpr.bnpparibas-personalfinance.fr CNAME .
 tr.notification-gdpr.bnpparibas-pf.fr CNAME .
 tr.notification-gdpr.cafineo.fr CNAME .
@@ -589,6 +593,7 @@ tr1.mailperf.com CNAME .
 tr1.mailperformance.com CNAME .
 tr1.peugeot-ipsos.com CNAME .
 tr5.mailperf.com CNAME .
+tr5.mperf.com CNAME .
 tracking.allopneus.com CNAME .
 trpreviews.bp01.net CNAME .
 www.newsletter.banquepopulaire.fr CNAME .

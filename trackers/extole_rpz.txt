@@ -52,6 +52,7 @@ share.na.sage.com CNAME .
 share.qalo.com CNAME .
 share.vimeo.com CNAME .
 share.wimp.no CNAME .
+sharethelove.teacollection.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
 ;

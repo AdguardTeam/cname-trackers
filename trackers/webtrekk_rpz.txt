@@ -97,6 +97,7 @@ di.ifolor.ch CNAME .
 di.ifolor.de CNAME .
 di.ifolor.dk CNAME .
 di.ifolor.fi CNAME .
+di.ifolor.it CNAME .
 di.ifolor.net CNAME .
 dnsbl.test.wbtrkk.teufel.de CNAME .
 ed.emp-online.ch CNAME .
@@ -213,6 +214,7 @@ web.campaign.miriade.com CNAME .
 web.campaign.v73.it CNAME .
 web.collisionservices.com CNAME .
 web.comunicazioni.iol.it CNAME .
+web.crm.beps.it CNAME .
 web.diebayerische.de CNAME .
 web.e.aldermore.co.uk CNAME .
 web.email.farrow-ball.com CNAME .

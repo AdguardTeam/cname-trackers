@@ -43,6 +43,7 @@
     * southernliving.extole.com
     * sperry.extole.com
     * talbots.extole.com
+    * teacollection.extole.com
     * timberland.extole.com
     * turbotax-ssl.extole.com
     * verabradley.extole.com
@@ -104,6 +105,7 @@
 | refer.southernliving.com | southernliving.extole.com |
 | refer.sperry.com | sperry.extole.com |
 | refer.talbots.com | talbots.extole.com |
+| sharethelove.teacollection.com | teacollection.extole.com |
 | refer.timberland.com | timberland.extole.com |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
 | refer.verabradley.com | verabradley.extole.com |

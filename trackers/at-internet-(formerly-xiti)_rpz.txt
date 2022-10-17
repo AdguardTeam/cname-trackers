@@ -33,6 +33,7 @@ collect.meilleurtaux.com CNAME .
 conimicutlighthouse.viessmann-us.com CNAME .
 crocetta.viessmann.it CNAME .
 culture.intermedes.com CNAME .
+d.doctipharma.fr CNAME .
 d.m-net.de CNAME .
 d.uni-medias.com CNAME .
 da.maif.fr CNAME .

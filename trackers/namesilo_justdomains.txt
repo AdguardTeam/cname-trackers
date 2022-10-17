@@ -486,6 +486,7 @@
 4454624.notify6.com
 4455804.notify6.com
 4470554.notify6.com
+4523610.notify6.com
 4539496.notify6.com
 4587228.notify6.com
 4598410.notify6.com
@@ -503,8 +504,12 @@
 4794988.notify6.com
 4798638.notify6.com
 4799078.notify6.com
+4809426.notify6.com
+4811620.notify6.com
+4815238.notify6.com
 6146.notify.optimizesrv.com
 6180.notify.optimizesrv.com
+7678.notify.optimizesrv.com
 a.addisplaynetwork.com
 a.adnflow.com
 a.etology.com
@@ -584,6 +589,7 @@ www.notifysrv.com
 # cds.d6n9n7e2.hwcdn.net disguised trackers
 #
 a.addisplaynetwork.com
+a.adnflow.com
 a.etology.com
 a.exdynsrv.com
 a.exoclick.com

@@ -35,4 +35,3 @@
 | tdep.mijnurgentie.nl | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |
 | tdep.sdim.nl | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |
 | tdep.teamnijhuis.com | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |
-| tdep.theofficeservice.com | afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com |

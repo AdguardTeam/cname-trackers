@@ -132,6 +132,7 @@
 ||tr.devis.digital^
 ||tr.devize-companeo.ro^
 ||tr.dirigeants.harmonie-mutuelle.fr^
+||tr.discover.perfectstay.com^
 ||tr.docapost-sirs.com^
 ||tr.donateur.afm-telethon.fr^
 ||tr.drh-holding.lvmh.fr^
@@ -187,6 +188,8 @@
 ||tr.expresofferte.be^
 ||tr.fidal.pro^
 ||tr.fidalformation.pro^
+||tr.finance.moethennessy.com^
+||tr.forum.veuveclicquot.fr^
 ||tr.fr.ar24.services^
 ||tr.fr.pro.accor.com^
 ||tr.futurecommerce.moethennessy.com^
@@ -458,6 +461,7 @@
 ||tr.nl.mondo-shop.fr^
 ||tr.nl.services-sncf.com^
 ||tr.nl2.sncf-fidelite.com^
+||tr.nmcm.espmp-cufr.net^
 ||tr.notification-gdpr.bnpparibas-personalfinance.fr^
 ||tr.notification-gdpr.bnpparibas-pf.fr^
 ||tr.notification-gdpr.cafineo.fr^
@@ -589,6 +593,7 @@
 ||tr1.mailperformance.com^
 ||tr1.peugeot-ipsos.com^
 ||tr5.mailperf.com^
+||tr5.mperf.com^
 ||tracking.allopneus.com^
 ||trpreviews.bp01.net^
 ||www.newsletter.banquepopulaire.fr^

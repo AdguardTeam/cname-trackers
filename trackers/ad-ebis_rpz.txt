@@ -44,13 +44,16 @@ adebis.hotstaff.co.jp CNAME .
 adebis.irobot-jp.com CNAME .
 adebis.jp.iface.com CNAME .
 adebis.juku.st CNAME .
+adebis.kamada.co.jp CNAME .
 adebis.kaonavi.jp CNAME .
+adebis.kirei-journal.jp CNAME .
 adebis.kirin.co.jp CNAME .
 adebis.kose.co.jp CNAME .
 adebis.koutsujiko.jp CNAME .
 adebis.leben-establish.jp CNAME .
 adebis.leben-style.jp CNAME .
 adebis.livable.co.jp CNAME .
+adebis.logoshome.jp CNAME .
 adebis.no.01.alo-organic.com CNAME .
 adebis.nursery.co.jp CNAME .
 adebis.piano-kaitoriyasan.com CNAME .

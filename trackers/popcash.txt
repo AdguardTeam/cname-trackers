@@ -42,6 +42,7 @@
 ! deprecated-custom-domains.b-cdn.net disguised trackers
 !
 ||7wrxo2xh.iriscreative.co^
+||aardwolf.chrisblackwell.me^
 ||albatross.ohseesoftware.com^
 ||alpaca.miidbaby.com^
 ||alpaca.thesocialmedwork.com^
@@ -49,6 +50,8 @@
 ||angelfish.grayscale.design^
 ||angelfish.owlbear.rodeo^
 ||anglerfish.tinydeskapp.com^
+||anteater.playuncovr.xyz^
+||anteater.stella-projects.de^
 ||ape.mfj.se^
 ||ape.nusii.com^
 ||armadillo.gothiacup.se^
@@ -56,7 +59,9 @@
 ||baldeagle.e-ma.re^
 ||baldeagle.eternalmma.com^
 ||bandicoot.mohit.dev^
+||bass.kidneystonediet.com^
 ||bird.brondby.com^
+||bison.streamclocks.com^
 ||bison.weitweit.at^
 ||blackbird.everythinginmoderation.co^
 ||blackbird.marcelgil.com^
@@ -108,6 +113,7 @@
 ||chickadee.mikebifulco.com^
 ||chicken.alpla.info^
 ||chicken.couleur.io^
+||chicken.tjsoler.dev^
 ||chimpanzee.designerdailyreport.com^
 ||chinchilla.68keys.io^
 ||chinchilla.ubclaunchpad.com^
@@ -119,6 +125,7 @@
 ||cod.fotis.xyz^
 ||cod.serverlesslaravelcourse.com^
 ||condor.stadttunnel-feldkirch.at^
+||cougar.wzulfikar.com^
 ||coyote.alboweb.nl^
 ||coyote.gnx.cloud^
 ||coyote.nickgurney.com^
@@ -151,12 +158,15 @@
 ||donkey.routinehub.co^
 ||dove.fullcalendar.io^
 ||dragon.codemakes.art^
+||dragon.sh2.com^
 ||dragonfly.codebar.ch^
 ||dragonfly.filmmakerfreedom.com^
 ||dragonfly.jala-one.com^
 ||eagle.joulescope.com^
 ||echidna.honeybadger.io^
 ||eel.beekeeperstudio.io^
+||egret.hispanicjobexchange.com^
+||egret.refreshed.domains^
 ||elephant.clerk.ai^
 ||elephant.stempelwiese.de^
 ||elephant.superdense.com^
@@ -189,6 +199,7 @@
 ||flea.artisan.school^
 ||fly.tailwindweekly.com^
 ||flyingfish.editorslab.de^
+||fowl.patt.me^
 ||fox.visionaudiovisual.com^
 ||frog.jamesbliss.com^
 ||gamefowl.emailforward.mx^
@@ -304,6 +315,7 @@
 ||meadowlark.bump.sh^
 ||meerkat.bigcrazylife.com^
 ||mink.faq-bregenzerwald.com^
+||minnow.clintwinter.me^
 ||minnow.mimosaagency.com^
 ||mockingbir.sgfunited.com^
 ||mole.dansksejlunion.dk^
@@ -349,7 +361,6 @@
 ||panther.thestocks.im^
 ||panther.tigil.rs^
 ||parrot.binarymoon.co.uk^
-||parrot.matcha.xyz^
 ||parrotfish.thenping.me^
 ||parrotfish.wilderworld.com^
 ||partridge.printcardinal.com^
@@ -390,6 +401,7 @@
 ||ptarmigan.q-free.com^
 ||puffin.geocode.earth^
 ||python.mux.com^
+||quail.efix.uk^
 ||quokka.bulkbuyhosting.com^
 ||reindeer.iainbroome.com^
 ||roadrunner.ausmv.com.au^
@@ -400,6 +412,7 @@
 ||sheep.pixair-survey.com^
 ||silkworm.energizergrouplegal.com^
 ||skink.madewithlove.com^
+||slug.sirenergies.com^
 ||smelt.allenpike.com^
 ||sole.pretto.fr^
 ||sole.riverwalkdental.com.au^
@@ -411,6 +424,7 @@
 ||starman.fathomdns.com^
 ||stingray.reform.app^
 ||swallow.axiom.co^
+||swan.visualma.com^
 ||swift.jos.ht^
 ||swordfish.holzschuhe.at^
 ||swordfish.hotcross.com^
@@ -421,24 +435,30 @@
 ||tarantula.wowwomenonwheels.co.uk^
 ||tick.pcrpriser.se^
 ||tigershark.moonpot.com^
+||tigershark.samwaymire.com^
 ||tiglon.beyondco.de^
 ||tiglon.orisdental.no^
 ||toad.ettiennevorster.co.za^
 ||tortoise.cult.st^
 ||tortoise.mdx.one^
 ||tortoise.transistor.fm^
+||toucan.lgbtjobsearch.com^
+||trout.travelmassive.com^
 ||turkey.docsy.cloud^
 ||turkey.tella.tv^
 ||turtle.geshem.space^
+||turtle.sid.scot^
 ||vampirebat.git-tower.com^
 ||vole.contemporaryartlibrary.org^
 ||vole.noteapps.info^
 ||wallaby.cron.help^
+||wallaby.legendkeeper.com^
 ||wallaby.short1.link^
 ||walrus.scalue.com^
 ||warbler.nycmode.com^
 ||waterboa.midu.dev^
 ||weasel.accomplice.ai^
+||whitefish.kenku.fm^
 ||wildcat.fspy.io^
 ||wildfowl.minter.io^
 ||worm.paulstamatiou.com^
@@ -459,16 +479,22 @@
 ||kitt.tucsonsentinel.com^
 ||partner.streetinteractive.com^
 ||partners.hourmediagroup.com^
+||partners.madisonminutes.com^
 ||saucon-sponsors.streetinteractive.com^
 ||sponsors-v2.automate.org^
 ||sponsors-v2.floorforce.com^
 ||sponsors-v2.locablepublishernetwork.com^
+||sponsors-v2.urbanistnetwork.com^
 ||sponsors.floorforce.com^
 ||sponsors.macaronikid.com^
 ||sponsors.salesforceben.com^
 ||sponsors.teethtalkgirl.com^
 ||sponsors.thebeat.asia^
 ||support-v2.sweetwaternow.com^
+!
+! bannieres.b-cdn.net disguised trackers
+!
+||assets.diagomics.com^
 !
 ! sublime-ads-cdn.b-cdn.net disguised trackers
 !

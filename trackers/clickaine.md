@@ -38,7 +38,6 @@
 | cc.sexverhalen-gratis.com | api.clickaine.com |
 | cc2.camcaps.io | api.clickaine.com |
 | cdn24.playerxxl.xyz | api.clickaine.com |
-| check.safelinkonly.top | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |
 | cli.its2.net | api.clickaine.com |
 | clkn.apostle.onl | api.clickaine.com |
@@ -60,6 +59,7 @@
 | hruk.prikupok.com | api.clickaine.com |
 | hruk.prikupok.icu | api.clickaine.com |
 | icn.brandnewapp.pro | api.clickaine.com |
+| mail.7porn.ru | api.clickaine.com |
 | more.alotporn.com | api.clickaine.com |
 | ps1.reallifecam.to | api.clickaine.com |
 | ps2.camcaps.to | api.clickaine.com |

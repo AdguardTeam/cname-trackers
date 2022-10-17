@@ -97,6 +97,7 @@
 ||di.ifolor.de^
 ||di.ifolor.dk^
 ||di.ifolor.fi^
+||di.ifolor.it^
 ||di.ifolor.net^
 ||dnsbl.test.wbtrkk.teufel.de^
 ||ed.emp-online.ch^
@@ -213,6 +214,7 @@
 ||web.campaign.v73.it^
 ||web.collisionservices.com^
 ||web.comunicazioni.iol.it^
+||web.crm.beps.it^
 ||web.diebayerische.de^
 ||web.e.aldermore.co.uk^
 ||web.email.farrow-ball.com^

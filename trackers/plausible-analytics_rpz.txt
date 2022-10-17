@@ -55,7 +55,6 @@ analytics.souazi.com CNAME .
 analytics.southjerseyquakers.org CNAME .
 analytics.ss88.us CNAME .
 analytics.surov.fi CNAME .
-analytics.sweep.net CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
@@ -153,7 +152,6 @@ pan.render.com CNAME .
 pine.nervecentral.com CNAME .
 ping.cavelab.dev CNAME .
 ping.naturadapt.com CNAME .
-ping.richardtaylor.dev CNAME .
 pio.wir-sehen-uns-im-juni.de CNAME .
 pl.1feed.app CNAME .
 pl.astro-akatemia.fi CNAME .
@@ -183,6 +181,7 @@ plau.germantechjobs.de CNAME .
 plau.swissdevjobs.ch CNAME .
 plauplauplau.app.budg.co CNAME .
 plauplauplau.budg.co CNAME .
+plaus.outpost.pub CNAME .
 plausdj2ajskljzx0ikwkiasible.ethics.info CNAME .
 plausible-stats.tangodelta.media CNAME .
 plausible.adreform.com CNAME .
@@ -245,7 +244,6 @@ plausible.redchamp.net CNAME .
 plausible.regex.help CNAME .
 plausible.riok.ch CNAME .
 plausible.simplelogin.io CNAME .
-plausible.slope.io CNAME .
 plausible.staging.sketch.com CNAME .
 plausible.starlegacyfoundation.org CNAME .
 plausible.strzibny.name CNAME .
@@ -328,6 +326,7 @@ stats.basecamp.com CNAME .
 stats.bcdtravel.com CNAME .
 stats.beausimensen.com CNAME .
 stats.belic.si CNAME .
+stats.bellflowerlactation.com CNAME .
 stats.benui.ca CNAME .
 stats.bertwagner.com CNAME .
 stats.bestservers.co CNAME .
@@ -395,6 +394,7 @@ stats.danielwolf.photography CNAME .
 stats.danner-landschaftsbau.at CNAME .
 stats.dashbit.co CNAME .
 stats.davidlms.com CNAME .
+stats.deja-lu.de CNAME .
 stats.derekknight.tech CNAME .
 stats.deva.guru CNAME .
 stats.devenet.eu CNAME .
@@ -473,6 +473,7 @@ stats.intothebox.org CNAME .
 stats.invoice.orballo.dev CNAME .
 stats.ipadhire.co.nz CNAME .
 stats.iscc-system.org CNAME .
+stats.isthispoisonivy.website CNAME .
 stats.ivankahl.com CNAME .
 stats.jackwhiting.co.uk CNAME .
 stats.jamesevers.co.uk CNAME .
@@ -547,6 +548,7 @@ stats.nrcaknights.com CNAME .
 stats.nytecomics.com CNAME .
 stats.onepagelove.com CNAME .
 stats.ordinarypuzzles.com CNAME .
+stats.ortussolutions.com CNAME .
 stats.osteopathes.pro CNAME .
 stats.oursky.com CNAME .
 stats.oxygem.com CNAME .
@@ -575,22 +577,28 @@ stats.pri.org CNAME .
 stats.pricewell.io CNAME .
 stats.principedepaz.gt CNAME .
 stats.pselookup.vrymel.com CNAME .
+stats.radicaldata.org CNAME .
 stats.radreiseglueck.de CNAME .
 stats.raidprotect.org CNAME .
 stats.rasulkireev.com CNAME .
 stats.ravivyas.com CNAME .
 stats.reactician.com CNAME .
+stats.reactshowcase.com CNAME .
 stats.redlabelsports.com CNAME .
 stats.reisemobil.pro CNAME .
 stats.remotebear.io CNAME .
 stats.revit-content.com CNAME .
+stats.revitfamily.app CNAME .
 stats.rocketvalidator.com CNAME .
 stats.ruhrfestspiele.de CNAME .
+stats.rushilperera.me CNAME .
 stats.saveirishpubs.ie CNAME .
 stats.screen-play.app CNAME .
+stats.screenagers.com CNAME .
 stats.screenwavemedia.com CNAME .
 stats.sebastiangale.ca CNAME .
 stats.servicedesignjobs.com CNAME .
+stats.sharetheirday.com CNAME .
 stats.shareup.app CNAME .
 stats.shoutout.so CNAME .
 stats.sirdata.com CNAME .
@@ -644,6 +652,7 @@ stats.tresor.one CNAME .
 stats.trimbles.ie CNAME .
 stats.trussed.dev CNAME .
 stats.twirrl.co CNAME .
+stats.urlaubsverwaltung.cloud CNAME .
 stats.vanityprojects.com CNAME .
 stats.vdfu-news.de CNAME .
 stats.walkiees.co.uk CNAME .

@@ -74,6 +74,7 @@
     * 451504046304293.wt-eu02.net
     * 467808562573270.wt-eu02.net
     * 470719744966924.wt-eu02.net
+    * 481394388917209.wt-eu02.net
     * 481977157370244.wt-eu02.net
     * 482221458407393.wt-eu02.net
     * 484879729086450.wt-eu02.net
@@ -255,6 +256,7 @@
 | webt.eleonto.com | 470719744966924.wt-eu02.net |
 | webt.eu.teac-audio.com | 470719744966924.wt-eu02.net |
 | webt.pure.com | 470719744966924.wt-eu02.net |
+| web.crm.beps.it | 481394388917209.wt-eu02.net |
 | web.marketing.elbenwald.de | 481977157370244.wt-eu02.net |
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
@@ -362,6 +364,7 @@
 | di.ifolor.de | di.ifolor.wt-eu02.net |
 | di.ifolor.dk | di.ifolor.wt-eu02.net |
 | di.ifolor.fi | di.ifolor.wt-eu02.net |
+| di.ifolor.it | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
 | pix.eads.com | eads-com01.webtrekk.net |
 | track.emeza.ch | emeza-ch01.webtrekk.net |

@@ -37,4 +37,3 @@ tdep.growwwdigital.com CNAME .
 tdep.mijnurgentie.nl CNAME .
 tdep.sdim.nl CNAME .
 tdep.teamnijhuis.com CNAME .
-tdep.theofficeservice.com CNAME .

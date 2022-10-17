@@ -40,6 +40,7 @@ affil.knihazenasnov.sk
 affil.kralovstvi-tiande.cz
 affil.lypo.cz
 affil.mydrinks.cz
+affil.nutriadapt.cz
 affil.plkshop.cz
 affil.reedog.cz
 affil.seduo.cz
@@ -168,6 +169,7 @@ affiliate.ladylab.sk
 affiliate.lasamba.cz
 affiliate.levnoshop.cz
 affiliate.lg-store.cz
+affiliate.luxusnipradlo.cz
 affiliate.manvel.cz
 affiliate.milagro.cz
 affiliate.montessorihracky.cz
@@ -229,6 +231,7 @@ my.11teamsports.pt
 my.11teamsports.ro
 my.11teamsports.si
 my.11teamsports.sk
+my.fr.top4running.be
 my.top4fitness.bg
 my.top4fitness.com
 my.top4fitness.cz
@@ -240,10 +243,13 @@ my.top4fitness.fr
 my.top4fitness.gr
 my.top4fitness.hr
 my.top4fitness.hu
+my.top4fitness.ie
 my.top4fitness.it
+my.top4fitness.nl
 my.top4fitness.pt
 my.top4fitness.ro
 my.top4fitness.se
+my.top4fitness.si
 my.top4fitness.sk
 my.top4football.com
 my.top4football.de
@@ -257,6 +263,7 @@ my.top4running.bg
 my.top4running.com
 my.top4running.cz
 my.top4running.de
+my.top4running.dk
 my.top4running.es
 my.top4running.fr
 my.top4running.gr
@@ -276,12 +283,15 @@ my.weplaybasketball.sk
 my.weplayhandball.cz
 my.weplayhandball.hu
 my.weplayhandball.sk
+my.weplayvolleyball.cz
 my.weplayvolleyball.sk
 partak.surfey.cz
 partner.2din.cz
 partner.affilbox.com
 partner.affiliateark.com
+partner.alesio.cz
 partner.amonitsro.sk
+partner.anabix.cz
 partner.artmasteracademy.cz
 partner.babysigns.cz
 partner.barnaby.cz
@@ -361,6 +371,7 @@ partner.pradoch.cz
 partner.pravopisne.cz
 partner.prosperk.cz
 partner.psidetektiv.cz
+partner.santao.cz
 partner.scilearn.cz
 partner.scootshop.cz
 partner.simplymix.com
@@ -395,6 +406,7 @@ partner.zombeek.cz
 partneri.adamfengshui.cz
 partneri.adrop.cz
 partneri.alchemistr.cz
+partneri.ameeraacademy.earth
 partneri.artisan.cz
 partneri.bazaroveregaly.cz
 partneri.bigon.sk
@@ -414,6 +426,7 @@ partneri.epiderma.cz
 partneri.fitstore.cz
 partneri.frcime.cz
 partneri.jakofenix.cz
+partneri.kerasek.cz
 partneri.levne-barvy-laky.cz
 partneri.mebline.cz
 partneri.minshop.cz

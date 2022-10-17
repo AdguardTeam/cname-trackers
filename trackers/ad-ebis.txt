@@ -44,13 +44,16 @@
 ||adebis.irobot-jp.com^
 ||adebis.jp.iface.com^
 ||adebis.juku.st^
+||adebis.kamada.co.jp^
 ||adebis.kaonavi.jp^
+||adebis.kirei-journal.jp^
 ||adebis.kirin.co.jp^
 ||adebis.kose.co.jp^
 ||adebis.koutsujiko.jp^
 ||adebis.leben-establish.jp^
 ||adebis.leben-style.jp^
 ||adebis.livable.co.jp^
+||adebis.logoshome.jp^
 ||adebis.no.01.alo-organic.com^
 ||adebis.nursery.co.jp^
 ||adebis.piano-kaitoriyasan.com^

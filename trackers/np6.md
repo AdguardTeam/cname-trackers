@@ -145,6 +145,7 @@
 | tr.devis.digital | tracking.bp01.net |
 | tr.devize-companeo.ro | tracking.bp01.net |
 | tr.dirigeants.harmonie-mutuelle.fr | tracking.bp01.net |
+| tr.discover.perfectstay.com | tracking.bp01.net |
 | tr.docapost-sirs.com | tracking.bp01.net |
 | tr.donateur.afm-telethon.fr | tracking.bp01.net |
 | tr.drh-holding.lvmh.fr | tracking.bp01.net |
@@ -200,6 +201,8 @@
 | tr.expresofferte.be | tracking.bp01.net |
 | tr.fidal.pro | tracking.bp01.net |
 | tr.fidalformation.pro | tracking.bp01.net |
+| tr.finance.moethennessy.com | tracking.bp01.net |
+| tr.forum.veuveclicquot.fr | tracking.bp01.net |
 | tr.fr.ar24.services | tracking.bp01.net |
 | tr.fr.pro.accor.com | tracking.bp01.net |
 | tr.futurecommerce.moethennessy.com | tracking.bp01.net |
@@ -471,6 +474,7 @@
 | tr.nl.mondo-shop.fr | tracking.bp01.net |
 | tr.nl.services-sncf.com | tracking.bp01.net |
 | tr.nl2.sncf-fidelite.com | tracking.bp01.net |
+| tr.nmcm.espmp-cufr.net | tracking.bp01.net |
 | tr.notification-gdpr.bnpparibas-personalfinance.fr | tracking.bp01.net |
 | tr.notification-gdpr.bnpparibas-pf.fr | tracking.bp01.net |
 | tr.notification-gdpr.cafineo.fr | tracking.bp01.net |
@@ -602,6 +606,7 @@
 | tr1.mailperformance.com | tracking.bp01.net |
 | tr1.peugeot-ipsos.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
+| tr5.mperf.com | tracking.bp01.net |
 | tracking.allopneus.com | tracking.bp01.net |
 | trpreviews.bp01.net | tracking.bp01.net |
 | www.newsletter.banquepopulaire.fr | tracking.bp01.net |

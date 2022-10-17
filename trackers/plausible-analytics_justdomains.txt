@@ -55,7 +55,6 @@ analytics.souazi.com
 analytics.southjerseyquakers.org
 analytics.ss88.us
 analytics.surov.fi
-analytics.sweep.net
 analytics.teamcovenant.com
 analytics.top10-charts.com
 analytics.trust.page
@@ -153,7 +152,6 @@ pan.render.com
 pine.nervecentral.com
 ping.cavelab.dev
 ping.naturadapt.com
-ping.richardtaylor.dev
 pio.wir-sehen-uns-im-juni.de
 pl.1feed.app
 pl.astro-akatemia.fi
@@ -183,6 +181,7 @@ plau.germantechjobs.de
 plau.swissdevjobs.ch
 plauplauplau.app.budg.co
 plauplauplau.budg.co
+plaus.outpost.pub
 plausdj2ajskljzx0ikwkiasible.ethics.info
 plausible-stats.tangodelta.media
 plausible.adreform.com
@@ -245,7 +244,6 @@ plausible.redchamp.net
 plausible.regex.help
 plausible.riok.ch
 plausible.simplelogin.io
-plausible.slope.io
 plausible.staging.sketch.com
 plausible.starlegacyfoundation.org
 plausible.strzibny.name
@@ -328,6 +326,7 @@ stats.basecamp.com
 stats.bcdtravel.com
 stats.beausimensen.com
 stats.belic.si
+stats.bellflowerlactation.com
 stats.benui.ca
 stats.bertwagner.com
 stats.bestservers.co
@@ -395,6 +394,7 @@ stats.danielwolf.photography
 stats.danner-landschaftsbau.at
 stats.dashbit.co
 stats.davidlms.com
+stats.deja-lu.de
 stats.derekknight.tech
 stats.deva.guru
 stats.devenet.eu
@@ -473,6 +473,7 @@ stats.intothebox.org
 stats.invoice.orballo.dev
 stats.ipadhire.co.nz
 stats.iscc-system.org
+stats.isthispoisonivy.website
 stats.ivankahl.com
 stats.jackwhiting.co.uk
 stats.jamesevers.co.uk
@@ -547,6 +548,7 @@ stats.nrcaknights.com
 stats.nytecomics.com
 stats.onepagelove.com
 stats.ordinarypuzzles.com
+stats.ortussolutions.com
 stats.osteopathes.pro
 stats.oursky.com
 stats.oxygem.com
@@ -575,22 +577,28 @@ stats.pri.org
 stats.pricewell.io
 stats.principedepaz.gt
 stats.pselookup.vrymel.com
+stats.radicaldata.org
 stats.radreiseglueck.de
 stats.raidprotect.org
 stats.rasulkireev.com
 stats.ravivyas.com
 stats.reactician.com
+stats.reactshowcase.com
 stats.redlabelsports.com
 stats.reisemobil.pro
 stats.remotebear.io
 stats.revit-content.com
+stats.revitfamily.app
 stats.rocketvalidator.com
 stats.ruhrfestspiele.de
+stats.rushilperera.me
 stats.saveirishpubs.ie
 stats.screen-play.app
+stats.screenagers.com
 stats.screenwavemedia.com
 stats.sebastiangale.ca
 stats.servicedesignjobs.com
+stats.sharetheirday.com
 stats.shareup.app
 stats.shoutout.so
 stats.sirdata.com
@@ -644,6 +652,7 @@ stats.tresor.one
 stats.trimbles.ie
 stats.trussed.dev
 stats.twirrl.co
+stats.urlaubsverwaltung.cloud
 stats.vanityprojects.com
 stats.vdfu-news.de
 stats.walkiees.co.uk

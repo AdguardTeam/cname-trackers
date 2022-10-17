@@ -40,6 +40,7 @@ affil.knihazenasnov.sk CNAME .
 affil.kralovstvi-tiande.cz CNAME .
 affil.lypo.cz CNAME .
 affil.mydrinks.cz CNAME .
+affil.nutriadapt.cz CNAME .
 affil.plkshop.cz CNAME .
 affil.reedog.cz CNAME .
 affil.seduo.cz CNAME .
@@ -168,6 +169,7 @@ affiliate.ladylab.sk CNAME .
 affiliate.lasamba.cz CNAME .
 affiliate.levnoshop.cz CNAME .
 affiliate.lg-store.cz CNAME .
+affiliate.luxusnipradlo.cz CNAME .
 affiliate.manvel.cz CNAME .
 affiliate.milagro.cz CNAME .
 affiliate.montessorihracky.cz CNAME .
@@ -229,6 +231,7 @@ my.11teamsports.pt CNAME .
 my.11teamsports.ro CNAME .
 my.11teamsports.si CNAME .
 my.11teamsports.sk CNAME .
+my.fr.top4running.be CNAME .
 my.top4fitness.bg CNAME .
 my.top4fitness.com CNAME .
 my.top4fitness.cz CNAME .
@@ -240,10 +243,13 @@ my.top4fitness.fr CNAME .
 my.top4fitness.gr CNAME .
 my.top4fitness.hr CNAME .
 my.top4fitness.hu CNAME .
+my.top4fitness.ie CNAME .
 my.top4fitness.it CNAME .
+my.top4fitness.nl CNAME .
 my.top4fitness.pt CNAME .
 my.top4fitness.ro CNAME .
 my.top4fitness.se CNAME .
+my.top4fitness.si CNAME .
 my.top4fitness.sk CNAME .
 my.top4football.com CNAME .
 my.top4football.de CNAME .
@@ -257,6 +263,7 @@ my.top4running.bg CNAME .
 my.top4running.com CNAME .
 my.top4running.cz CNAME .
 my.top4running.de CNAME .
+my.top4running.dk CNAME .
 my.top4running.es CNAME .
 my.top4running.fr CNAME .
 my.top4running.gr CNAME .
@@ -276,12 +283,15 @@ my.weplaybasketball.sk CNAME .
 my.weplayhandball.cz CNAME .
 my.weplayhandball.hu CNAME .
 my.weplayhandball.sk CNAME .
+my.weplayvolleyball.cz CNAME .
 my.weplayvolleyball.sk CNAME .
 partak.surfey.cz CNAME .
 partner.2din.cz CNAME .
 partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
+partner.alesio.cz CNAME .
 partner.amonitsro.sk CNAME .
+partner.anabix.cz CNAME .
 partner.artmasteracademy.cz CNAME .
 partner.babysigns.cz CNAME .
 partner.barnaby.cz CNAME .
@@ -361,6 +371,7 @@ partner.pradoch.cz CNAME .
 partner.pravopisne.cz CNAME .
 partner.prosperk.cz CNAME .
 partner.psidetektiv.cz CNAME .
+partner.santao.cz CNAME .
 partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
 partner.simplymix.com CNAME .
@@ -395,6 +406,7 @@ partner.zombeek.cz CNAME .
 partneri.adamfengshui.cz CNAME .
 partneri.adrop.cz CNAME .
 partneri.alchemistr.cz CNAME .
+partneri.ameeraacademy.earth CNAME .
 partneri.artisan.cz CNAME .
 partneri.bazaroveregaly.cz CNAME .
 partneri.bigon.sk CNAME .
@@ -414,6 +426,7 @@ partneri.epiderma.cz CNAME .
 partneri.fitstore.cz CNAME .
 partneri.frcime.cz CNAME .
 partneri.jakofenix.cz CNAME .
+partneri.kerasek.cz CNAME .
 partneri.levne-barvy-laky.cz CNAME .
 partneri.mebline.cz CNAME .
 partneri.minshop.cz CNAME .

@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2022-10-10T08:00:26+00:00
+! TimeUpdated: 2022-10-17T08:00:27+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 !
@@ -21,6 +21,9 @@
 !
 ! Company: AdSpyglass
 ||0i0i0i0.com^
+!
+! Company: ads2.bid
+||ads.bid^
 !
 ! Company: AT Internet (formerly XiTi)
 ||at-o.net^
@@ -71,8 +74,8 @@
 ! Company: GMO Internet Group
 ||ad-cloud.jp^
 !
-! Company: GoDaddy
-||ads.bid^
+! Company: INFOnline
+||iocnt.net^
 !
 ! Company: Ingenious Technologies
 ||affex.org^
@@ -82,6 +85,9 @@
 !
 ! Company: Lead Forensics
 ||ghochv3eng.trafficmanager.net^
+!
+! Company: LexisNexis Risk Solutions
+||online-metrix.net^
 !
 ! Company: Logly
 ||logly.co.jp^
@@ -109,6 +115,9 @@
 !
 ! Company: PopCash
 ||popcashjs.b-cdn.net^
+!
+! Company: RedTrack
+||rdtk.io^
 !
 ! Company: TraceDock
 ||a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com^

@@ -33,7 +33,6 @@ activate.sun-sentinel.com CNAME .
 activate.suncorp.com.au CNAME .
 activate.tacdn.com CNAME .
 activate.theactivetimes.com CNAME .
-activate.thedailymeal.com CNAME .
 activate.united.com CNAME .
 activate1.fidelity.com CNAME .
 agility.cartoonnetwork.com CNAME .
@@ -195,6 +194,8 @@ p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
 privacy.blade.app CNAME .
+privacy.gemfinance.co.nz CNAME .
+privacy.gomastercard.com.au CNAME .
 privacy.heineken.it CNAME .
 privacy.heishop.mx CNAME .
 pulse.delta.com CNAME .

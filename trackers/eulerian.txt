@@ -31,7 +31,7 @@
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
-||c0p.cepsum.umontreal.ca^
+||c0i.ckoi.com^
 ||c4dv.copinesdevoyage.com^
 ||ca.clubavantages.net^
 ||cc.conforama.es^
@@ -44,6 +44,7 @@
 ||csv4.ebs-paris.fr^
 ||ct5m.citadium.com^
 ||ctp1.bforbank.com^
+||d0f.le-dauphin.com^
 ||def1.optimhome-recrutement.com^
 ||deut1.fdj.fr^
 ||dko.vente-unique.nl^
@@ -210,6 +211,7 @@
 ||ltm6.destinia.se^
 ||ly8c.caci-online.fr^
 ||lzuc.sfr.fr^
+||m10.m1029.com^
 ||m3ds.subarumetropolitain.com^
 ||mfd.myfirstdressing.com^
 ||mgt7.madeindesign.it^
@@ -324,6 +326,7 @@
 ||tdf1.laredoute.fr^
 ||tdf1.vente-unique.pt^
 ||tmy8.madeindesign.ch^
+||tr.pmu.fr^
 ||tsj0.madeindesign.com^
 ||txv0.destinia.hu^
 ||udr9.livera.nl^
