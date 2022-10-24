@@ -41,7 +41,6 @@
 * manager.vgwort-de.2cnt.net
 * merkur.vgwort-de.2cnt.net
 * n-tv.vgwort-de.2cnt.net
-* nomos.vgwort-de.2cnt.net
 * pl01.prolitteris.2cnt.net
 * rejseplanen.tns-dk.2cnt.net
 * rtl.vgwort-de.2cnt.net
@@ -56,11 +55,13 @@
 * ssl-bureaubiz.tns-dk.2cnt.net
 * ssl-digitalfoto.tns-dk.2cnt.net
 * ssl-dr.tns-dk.2cnt.net
+* ssl-drandroidtvstream.tns-dk.2cnt.net
 * ssl-drhbbtv.tns-dk.2cnt.net
 * ssl-econa.vgwort-de.2cnt.net
 * slb-tns-dk-pool03.tns-dk.2cnt.net
-* ssl-eurosportandroidstream.tns-dk.2cnt.net
 * ssl-focus.vgwort-de.2cnt.net
+* slb-tns-dk-pool10.tns-dk.2cnt.net
+* ssl-gafiam.tns-dk.2cnt.net
 * ssl-golem.vgwort-de.2cnt.net
 * ssl-handelsblatt.vgwort-de.2cnt.net
 * ssl-heise.vgwort-de.2cnt.net
@@ -75,6 +76,7 @@
 * ssl-rp-online.vgwort-de.2cnt.net
 * ssl-spiegel.vgwort-de.2cnt.net
 * ssl-t-online.vgwort-de.2cnt.net
+* ssl-tagesspiegel.vgwort-de.2cnt.net
 * ssl-teltarif.vgwort-de.2cnt.net
 * ssl-thieme.vgwort-de.2cnt.net
 * ssl-tv2androidstream.tns-dk.2cnt.net
@@ -148,7 +150,6 @@
 | manager.met.vgwort.de | manager.vgwort-de.2cnt.net |
 | merkur.met.vgwort.de | merkur.vgwort-de.2cnt.net |
 | n-tv.met.vgwort.de | n-tv.vgwort-de.2cnt.net |
-| nomos.met.vgwort.de | nomos.vgwort-de.2cnt.net |
 | pl01.owen.prolitteris.ch | pl01.prolitteris.2cnt.net |
 | pl02.owen.prolitteris.ch | pl02.prolitteris.2cnt.net |
 | rejseplanen.tns-gallup.dk | rejseplanen.tns-dk.2cnt.net |
@@ -160,12 +161,14 @@
 | ssl-viaplaystream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
 | drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | ssl-drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
+| ssl-drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | ssl-youseestream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | dplayteststream.tns-gallup.dk | slb-tns-dk-pool07.tns-dk.2cnt.net |
 | dplayteststream.tns-gallup.dk | slb-tns-dk-pool07.tns-dk.2cnt.net |
 | drandroidstream.tns-gallup.dk | slb-tns-dk-pool07.tns-dk.2cnt.net |
 | youseeandroidstream.tns-gallup.dk | slb-tns-dk-pool08.tns-dk.2cnt.net |
 | youseeandroidstream.tns-gallup.dk | slb-tns-dk-pool08.tns-dk.2cnt.net |
+| ssl-gafiam.tns-gallup.dk | slb-tns-dk-pool10.tns-dk.2cnt.net |
 | bild.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | burda-forward.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | chip.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -209,7 +212,6 @@
 | manager.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | manager.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | nomos.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
-| nomos.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | spiegel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | spiegel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-beck.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -220,6 +222,7 @@
 | ssl-rp-online.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-spiegel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-t-online.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
+| ssl-tagesspiegel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-weka.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | sz.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | sz.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -269,10 +272,11 @@
 | ssl-bureaubiz.tns-gallup.dk | ssl-bureaubiz.tns-dk.2cnt.net |
 | ssl-digitalfoto.tns-gallup.dk | ssl-digitalfoto.tns-dk.2cnt.net |
 | ssl-dr.tns-gallup.dk | ssl-dr.tns-dk.2cnt.net |
+| ssl-drandroidtvstream.tns-gallup.dk | ssl-drandroidtvstream.tns-dk.2cnt.net |
 | ssl-drhbbtv.tns-gallup.dk | ssl-drhbbtv.tns-dk.2cnt.net |
 | ssl-econa.met.vgwort.de | ssl-econa.vgwort-de.2cnt.net |
-| ssl-eurosportandroidstream.tns-gallup.dk | ssl-eurosportandroidstream.tns-dk.2cnt.net |
 | ssl-focus.met.vgwort.de | ssl-focus.vgwort-de.2cnt.net |
+| ssl-gafiam.tns-gallup.dk | ssl-gafiam.tns-dk.2cnt.net |
 | ssl-golem.met.vgwort.de | ssl-golem.vgwort-de.2cnt.net |
 | ssl-handelsblatt.met.vgwort.de | ssl-handelsblatt.vgwort-de.2cnt.net |
 | ssl-heise.met.vgwort.de | ssl-heise.vgwort-de.2cnt.net |
@@ -287,6 +291,7 @@
 | ssl-rp-online.met.vgwort.de | ssl-rp-online.vgwort-de.2cnt.net |
 | ssl-spiegel.met.vgwort.de | ssl-spiegel.vgwort-de.2cnt.net |
 | ssl-t-online.met.vgwort.de | ssl-t-online.vgwort-de.2cnt.net |
+| ssl-tagesspiegel.met.vgwort.de | ssl-tagesspiegel.vgwort-de.2cnt.net |
 | ssl-teltarif.met.vgwort.de | ssl-teltarif.vgwort-de.2cnt.net |
 | ssl-thieme.met.vgwort.de | ssl-thieme.vgwort-de.2cnt.net |
 | ssl-tv2androidstream.tns-gallup.dk | ssl-tv2androidstream.tns-dk.2cnt.net |

@@ -253,6 +253,7 @@
 3584069.notifysrv.com CNAME .
 3584913.notifysrv.com CNAME .
 3585203.notifysrv.com CNAME .
+3585435.notify6.com CNAME .
 3587723.notifysrv.com CNAME .
 3587729.notifysrv.com CNAME .
 3587731.notify6.com CNAME .
@@ -501,12 +502,17 @@
 4682394.notify6.com CNAME .
 4735242.notify6.com CNAME .
 4740420.notify6.com CNAME .
+4743728.notify6.com CNAME .
 4794988.notify6.com CNAME .
+4795190.notify6.com CNAME .
+4795268.notify6.com CNAME .
+4795562.notify6.com CNAME .
 4798638.notify6.com CNAME .
 4799078.notify6.com CNAME .
 4809426.notify6.com CNAME .
 4811620.notify6.com CNAME .
 4815238.notify6.com CNAME .
+4819336.notify6.com CNAME .
 6146.notify.optimizesrv.com CNAME .
 6180.notify.optimizesrv.com CNAME .
 7678.notify.optimizesrv.com CNAME .
@@ -517,6 +523,7 @@ api.adnation.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 m.hsrve.com CNAME .
+m.optidigital.com CNAME .
 m.optnx.com CNAME .
 main.exdynsrv.com CNAME .
 main.exoclick.com CNAME .

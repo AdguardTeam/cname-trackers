@@ -299,7 +299,6 @@
 ||a8cv.t-bang.jp^
 ||a8cv.tfansite.jp^
 ||a8cv.treasure-f.com^
-||a8cv.try-fs.com^
 ||a8cv.udition.jp^
 ||a8cv.unico-fan.co.jp^
 ||a8cv.unito.life^

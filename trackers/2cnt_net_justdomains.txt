@@ -50,6 +50,7 @@ ssl-heise.met.vgwort.de
 ssl-rp-online.met.vgwort.de
 ssl-spiegel.met.vgwort.de
 ssl-t-online.met.vgwort.de
+ssl-tagesspiegel.met.vgwort.de
 ssl-weka.met.vgwort.de
 sz.met.vgwort.de
 tagesspiegel.met.vgwort.de
@@ -209,10 +210,6 @@ merkur.met.vgwort.de
 #
 n-tv.met.vgwort.de
 #
-# nomos.vgwort-de.2cnt.net disguised trackers
-#
-nomos.met.vgwort.de
-#
 # pl01.prolitteris.2cnt.net disguised trackers
 #
 pl01.owen.prolitteris.ch
@@ -269,6 +266,10 @@ ssl-digitalfoto.tns-gallup.dk
 #
 ssl-dr.tns-gallup.dk
 #
+# ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
+#
+ssl-drandroidtvstream.tns-gallup.dk
+#
 # ssl-drhbbtv.tns-dk.2cnt.net disguised trackers
 #
 ssl-drhbbtv.tns-gallup.dk
@@ -281,13 +282,17 @@ ssl-econa.met.vgwort.de
 #
 ssl-eurosportandroidstream.tns-gallup.dk
 #
-# ssl-eurosportandroidstream.tns-dk.2cnt.net disguised trackers
-#
-ssl-eurosportandroidstream.tns-gallup.dk
-#
 # ssl-focus.vgwort-de.2cnt.net disguised trackers
 #
 ssl-focus.met.vgwort.de
+#
+# slb-tns-dk-pool10.tns-dk.2cnt.net disguised trackers
+#
+ssl-gafiam.tns-gallup.dk
+#
+# ssl-gafiam.tns-dk.2cnt.net disguised trackers
+#
+ssl-gafiam.tns-gallup.dk
 #
 # ssl-golem.vgwort-de.2cnt.net disguised trackers
 #
@@ -344,6 +349,10 @@ ssl-spiegel.met.vgwort.de
 # ssl-t-online.vgwort-de.2cnt.net disguised trackers
 #
 ssl-t-online.met.vgwort.de
+#
+# ssl-tagesspiegel.vgwort-de.2cnt.net disguised trackers
+#
+ssl-tagesspiegel.met.vgwort.de
 #
 # ssl-teltarif.vgwort-de.2cnt.net disguised trackers
 #

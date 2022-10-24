@@ -253,6 +253,7 @@
 ||3584069.notifysrv.com^
 ||3584913.notifysrv.com^
 ||3585203.notifysrv.com^
+||3585435.notify6.com^
 ||3587723.notifysrv.com^
 ||3587729.notifysrv.com^
 ||3587731.notify6.com^
@@ -501,12 +502,17 @@
 ||4682394.notify6.com^
 ||4735242.notify6.com^
 ||4740420.notify6.com^
+||4743728.notify6.com^
 ||4794988.notify6.com^
+||4795190.notify6.com^
+||4795268.notify6.com^
+||4795562.notify6.com^
 ||4798638.notify6.com^
 ||4799078.notify6.com^
 ||4809426.notify6.com^
 ||4811620.notify6.com^
 ||4815238.notify6.com^
+||4819336.notify6.com^
 ||6146.notify.optimizesrv.com^
 ||6180.notify.optimizesrv.com^
 ||7678.notify.optimizesrv.com^
@@ -517,6 +523,7 @@
 ||delivery.gettopple.com^
 ||engine.gettopple.com^
 ||m.hsrve.com^
+||m.optidigital.com^
 ||m.optnx.com^
 ||main.exdynsrv.com^
 ||main.exoclick.com^

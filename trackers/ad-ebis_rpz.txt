@@ -105,7 +105,6 @@ cname.jf-d.jp CNAME .
 cname.kyusai.co.jp CNAME .
 cname.lions-mansion.jp CNAME .
 cname.mebiusseiyaku.co.jp CNAME .
-cname.ri-chel.com CNAME .
 cname1.shakenkan.co.jp CNAME .
 cname2.shaken-yoyaku.com CNAME .
 cnameebis.eizoshigoto.com CNAME .
@@ -152,6 +151,7 @@ ebis.funai-finance.com CNAME .
 ebis.funai-food-business.com CNAME .
 ebis.funai-ma.com CNAME .
 ebis.funaisoken.co.jp CNAME .
+ebis.glico-direct.jp CNAME .
 ebis.gokusen-ichiba.com CNAME .
 ebis.hokensoudannavi.jp CNAME .
 ebis.j-l-m.co.jp CNAME .

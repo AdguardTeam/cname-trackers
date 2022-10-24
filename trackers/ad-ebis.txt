@@ -105,7 +105,6 @@
 ||cname.kyusai.co.jp^
 ||cname.lions-mansion.jp^
 ||cname.mebiusseiyaku.co.jp^
-||cname.ri-chel.com^
 ||cname1.shakenkan.co.jp^
 ||cname2.shaken-yoyaku.com^
 ||cnameebis.eizoshigoto.com^
@@ -152,6 +151,7 @@
 ||ebis.funai-food-business.com^
 ||ebis.funai-ma.com^
 ||ebis.funaisoken.co.jp^
+||ebis.glico-direct.jp^
 ||ebis.gokusen-ichiba.com^
 ||ebis.hokensoudannavi.jp^
 ||ebis.j-l-m.co.jp^

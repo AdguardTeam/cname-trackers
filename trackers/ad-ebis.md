@@ -23,7 +23,6 @@
     * 11507dbe-dr9hla6g.cname.ebis.ne.jp
     * 1241cdd8-znrwzwlu.cname.ebis.ne.jp
     * 12e8d4f5-xjhet6w1.cname.ebis.ne.jp
-    * 13b34133-kldqnwyj.cname.ebis.ne.jp
     * 1590f1a6-xjhet6w1.cname.ebis.ne.jp
     * 174d53fc-qrjtuhuw.cname.ebis.ne.jp
     * 17a0a051-yhrqdvjf.cname.ebis.ne.jp
@@ -127,6 +126,7 @@
     * 89b01a4a-rgypc97e.cname.ebis.ne.jp
     * 8a79c862-uynsk4n4.cname.ebis.ne.jp
     * 8b44cc88-gaz6wmaw.cname.ebis.ne.jp
+    * 8debf8e3-jtmaxrx7.cname.ebis.ne.jp
     * 8ed0e67d-gy66xg6s.cname.ebis.ne.jp
     * 8f087789-nkcrsmeh.cname.ebis.ne.jp
     * 8f5032fb-baawdyfz.cname.ebis.ne.jp
@@ -260,7 +260,6 @@
 | ebis.coyori.com | 11507dbe-dr9hla6g.cname.ebis.ne.jp |
 | seo.tkc110.jp | 1241cdd8-znrwzwlu.cname.ebis.ne.jp |
 | adebis.toushi-up.com | 12e8d4f5-xjhet6w1.cname.ebis.ne.jp |
-| cname.ri-chel.com | 13b34133-kldqnwyj.cname.ebis.ne.jp |
 | adebis.gfs-official.com | 1590f1a6-xjhet6w1.cname.ebis.ne.jp |
 | adebis.furisode-ichikura.jp | 174d53fc-qrjtuhuw.cname.ebis.ne.jp |
 | ebis.nomu-silica.jp | 17a0a051-yhrqdvjf.cname.ebis.ne.jp |
@@ -364,6 +363,7 @@
 | ebis.as-1.co.jp | 89b01a4a-rgypc97e.cname.ebis.ne.jp |
 | ad.aucview.com | 8a79c862-uynsk4n4.cname.ebis.ne.jp |
 | cnebis.i-no-science.com | 8b44cc88-gaz6wmaw.cname.ebis.ne.jp |
+| ebis.glico-direct.jp | 8debf8e3-jtmaxrx7.cname.ebis.ne.jp |
 | os.beauty-health.today | 8ed0e67d-gy66xg6s.cname.ebis.ne.jp |
 | cname.finess.jp | 8f087789-nkcrsmeh.cname.ebis.ne.jp |
 | adebis.shinseibank.com | 8f5032fb-baawdyfz.cname.ebis.ne.jp |

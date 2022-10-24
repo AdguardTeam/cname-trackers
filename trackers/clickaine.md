@@ -11,6 +11,7 @@
 | a3.hotpornfile.org | api.clickaine.com |
 | ad.arabsex1.com | api.clickaine.com |
 | ad1.xero.porn | api.clickaine.com |
+| adx.arabsex1.com | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
 | api.willalland.info | api.clickaine.com |
 | api2.clickaine.com | api.clickaine.com |

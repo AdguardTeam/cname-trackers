@@ -5,12 +5,15 @@
 ;
 amis.keurig.ca CNAME .
 friend.ebags.com CNAME .
+friend.sharefile.com CNAME .
 friends.keurig.ca CNAME .
 friends.keurig.com CNAME .
 ilove.volusion.com CNAME .
+refer.accountants.intuit.com CNAME .
 refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.ancestry.com CNAME .
+refer.aol.com CNAME .
 refer.basictalk.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .

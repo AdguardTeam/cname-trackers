@@ -7,11 +7,13 @@
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
 123.manga1001.top CNAME .
+1d88r44d9t.nelasleaks.com CNAME .
 2022.hizetnet.xyz CNAME .
 2bx0h7o3zw.nelasleaks.com CNAME .
 58745.clicknplay.to CNAME .
 69741211.clicknplay.to CNAME .
 71213zhazha.com CNAME .
+7bd3d001ff6.clicknplay.to CNAME .
 7taobao.mom CNAME .
 893242.milfunsource.com CNAME .
 8lang.lol CNAME .
@@ -31,6 +33,7 @@ a.apyarvideo.xyz CNAME .
 a.artamkari.com CNAME .
 a.ax.xxx CNAME .
 a.bitporno.com CNAME .
+a.bitporno.to CNAME .
 a.cashjma.com CNAME .
 a.cdn1.pro CNAME .
 a.chastityvideos.com CNAME .
@@ -42,6 +45,7 @@ a.eachporn.com CNAME .
 a.emwstore.xyz CNAME .
 a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
+a.fapster.xxx CNAME .
 a.focusde.info CNAME .
 a.gofilms4u.pro CNAME .
 a.hentai369.com CNAME .
@@ -59,10 +63,12 @@ a.pinayviralsexx.com CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornhex.com CNAME .
 a.pumpity.net CNAME .
+a.reryn2ce.com CNAME .
 a.speedostream.com CNAME .
 a.streamoupload.xyz CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
+a.travelbdnews.xyz CNAME .
 a.viralnewsbd.xyz CNAME .
 a.warddogs.com CNAME .
 a.watchomovies.com CNAME .
@@ -74,13 +80,13 @@ abc.comick.top CNAME .
 abee.yeeowl.xyz CNAME .
 ablade.beauty CNAME .
 abracadabrahub.com CNAME .
-account.javuncleak.buzz CNAME .
 acdn.uploads.mobi CNAME .
 ad.emule-island.eu CNAME .
 ad.ttstreaming.stream CNAME .
 ad.wawacity.xyz CNAME .
 adds.al3ably.com CNAME .
 adilk.ilikecomix.com CNAME .
+ads.49inchporn.club CNAME .
 ads.al3ably.com CNAME .
 ads.poptwinks.com CNAME .
 ads.pornharlot.net CNAME .
@@ -96,7 +102,6 @@ ags.hobby.porn CNAME .
 amaz.emailon.top CNAME .
 amazingdomain.sbs CNAME .
 amazoni.lol CNAME .
-amf2lm1vbnn0zxi.myjav.fun CNAME .
 anti.nukedfans.com CNAME .
 antiadblock.info CNAME .
 aoutime.hair CNAME .
@@ -104,7 +109,9 @@ api.adultsclips.com CNAME .
 app.phimvu.app CNAME .
 apple.analnoe24.com CNAME .
 apple.arabtoons.net CNAME .
+as.ebacdn.com CNAME .
 as.ebalovo.adult CNAME .
+as.lencdn.com CNAME .
 as.lenkino.adult CNAME .
 as2.fasta.xyz CNAME .
 as2.movporvid.com CNAME .
@@ -122,6 +129,7 @@ asg.dormtapes.com CNAME .
 asg.faperoni.com CNAME .
 asg.i884.info CNAME .
 asg.japanxxxvideo.net CNAME .
+asg.laivue.com CNAME .
 asg.lustesthd.com CNAME .
 asg.page-x.com CNAME .
 asg.phukienthoitranggiare.com CNAME .
@@ -163,6 +171,7 @@ buzzset.pics CNAME .
 bx5.tubemaximum.com CNAME .
 bzcdn.fin.ovh CNAME .
 bzotoin.pics CNAME .
+c021b14e0782ad7ef6d74.clicknplay.to CNAME .
 c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
 cam.javboys.cam CNAME .
@@ -233,6 +242,7 @@ goallbest.com CNAME .
 goog.emailon.top CNAME .
 h-ay.com CNAME .
 hazicu.hothomefuck.com CNAME .
+hehe686.lol CNAME .
 hoabon4.lol CNAME .
 honda.lol CNAME .
 hq3x.com CNAME .
@@ -240,7 +250,6 @@ hsux.com CNAME .
 hub.bazboy.club CNAME .
 huckeyz.lol CNAME .
 i.hqvrporn.net CNAME .
-id.fc2-ppv.live CNAME .
 iez.jojome.xyz CNAME .
 in.fuckhardclips.com CNAME .
 io.fapnado.com CNAME .
@@ -266,6 +275,7 @@ livenews.autos CNAME .
 lixir.wargers.org CNAME .
 load.try-games.com CNAME .
 load.xxxdb.io CNAME .
+load2.xxxdb.io CNAME .
 loienlao.mom CNAME .
 lol.globlax.com CNAME .
 look.bookies.lol CNAME .
@@ -316,6 +326,7 @@ parkurl.com CNAME .
 pem.tamboys.pics CNAME .
 pengenanu.files.im CNAME .
 pep.s2online.xyz CNAME .
+pep929.mom CNAME .
 pepi.haillo.xyz CNAME .
 pepipost.autos CNAME .
 pharaon.mom CNAME .
@@ -334,6 +345,7 @@ pre.ebasos.club CNAME .
 pre.myfuck.club CNAME .
 profield.ddns.net CNAME .
 pub.donmam.skin CNAME .
+pub88.mom CNAME .
 pubg.remiitano.xyz CNAME .
 px9.nuderedtube.com CNAME .
 q1.pornwex.tv CNAME .
@@ -359,6 +371,7 @@ sda.seksohub.com CNAME .
 sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
 search.cdn1.pro CNAME .
+sexy.mrsexy.xyz CNAME .
 sg.xclick24.com CNAME .
 shemale.house CNAME .
 shemale.team CNAME .
@@ -437,10 +450,12 @@ www8.upload-pics.com CNAME .
 x1cdn.fin.ovh CNAME .
 x2sfa.javgg.eu CNAME .
 xau.pongping.mom CNAME .
+xserve.zapurl.cc CNAME .
 xxxlove.rooski.net CNAME .
 z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .
 zeenite.online CNAME .
+zone.stripcam.tv CNAME .
 zzz.pissrip.net CNAME .
 ;
 ; cdn66584302.blazingcdn.net disguised trackers

@@ -7,6 +7,7 @@
 
 ### Rarely active trackers
 
+* lt2.keyade.com
 * k.madmetrics.com
 
 ## Cloaking domains
@@ -33,4 +34,5 @@
 | market-keyade.macif.fr | k.keyade.com |
 | tck.photobox.com | k.keyade.com |
 | k.truffaut.com | k.madmetrics.com |
+| forum-pp.mac4ever.com | lt2.keyade.com |
 | ka.ilius.net | mt.k.keyade.com |

@@ -117,6 +117,7 @@
 ||affilbox.mutumutu.cz^
 ||affilbox.rondopartner.cz^
 ||affiliate.2gispraha.cz^
+||affiliate.4fresh.cz^
 ||affiliate.agatinsvet.cz^
 ||affiliate.alchymiezeny.cz^
 ||affiliate.altatrading.cz^
@@ -131,6 +132,7 @@
 ||affiliate.bitcoinzmenaren.sk^
 ||affiliate.canatura.com^
 ||affiliate.cbweed.cz^
+||affiliate.childhoodpotential.com^
 ||affiliate.ckslniecko.sk^
 ||affiliate.compik.cz^
 ||affiliate.coolcredit.cz^
@@ -142,6 +144,7 @@
 ||affiliate.domoss.sk^
 ||affiliate.easylingo.com^
 ||affiliate.easyproject.com^
+||affiliate.easyproject.cz^
 ||affiliate.easyredmine.com^
 ||affiliate.elektronickeobojkypropsy.cz^
 ||affiliate.elisdesign.cz^
@@ -160,6 +163,7 @@
 ||affiliate.growmarket.cz^
 ||affiliate.hanibal.cz^
 ||affiliate.horseandme.eu^
+||affiliate.ilin.cz^
 ||affiliate.jidlojevasen.cz^
 ||affiliate.jiristibor.cz^
 ||affiliate.kosateam.com^
@@ -255,6 +259,7 @@
 ||my.top4football.de^
 ||my.top4football.dk^
 ||my.top4football.fi^
+||my.top4football.ie^
 ||my.top4football.it^
 ||my.top4football.nl^
 ||my.top4football.se^
@@ -295,17 +300,18 @@
 ||partner.artmasteracademy.cz^
 ||partner.babysigns.cz^
 ||partner.barnaby.cz^
-||partner.bestcena.sk^
 ||partner.bilynabytek.cz^
 ||partner.bio-nehty.cz^
 ||partner.bioaromakosmetika.cz^
 ||partner.bonyplus.cz^
 ||partner.brawolife.cz^
 ||partner.brilianty.cz^
+||partner.brillbird.cz^
 ||partner.candy.cz^
 ||partner.cannacare.cz^
 ||partner.caskrmeni.cz^
 ||partner.cbdcko.cz^
+||partner.cbdstar.cz^
 ||partner.cebia.com^
 ||partner.ceskeghicko.cz^
 ||partner.chcivedet.com^
@@ -347,6 +353,7 @@
 ||partner.lidajirickova.cz^
 ||partner.marlen.cz^
 ||partner.massivo.cz^
+||partner.mbytshop.cz^
 ||partner.metagram.sk^
 ||partner.mhsexshop.com^
 ||partner.milujifoceni.cz^
@@ -371,6 +378,7 @@
 ||partner.pravopisne.cz^
 ||partner.prosperk.cz^
 ||partner.psidetektiv.cz^
+||partner.salibandy.shop^
 ||partner.santao.cz^
 ||partner.scilearn.cz^
 ||partner.scootshop.cz^
@@ -388,6 +396,7 @@
 ||partner.supervyhody.cz^
 ||partner.svatba.cz^
 ||partner.svatebni-diar.cz^
+||partner.svetruzi.cz^
 ||partner.swimmeez.cz^
 ||partner.top-obaly.cz^
 ||partner.tyano.cz^
@@ -406,12 +415,14 @@
 ||partneri.adamfengshui.cz^
 ||partneri.adrop.cz^
 ||partneri.alchemistr.cz^
+||partneri.alepiacz.cz^
 ||partneri.ameeraacademy.earth^
 ||partneri.artisan.cz^
 ||partneri.bazaroveregaly.cz^
 ||partneri.bigon.sk^
 ||partneri.biorganica.cz^
 ||partneri.bornature.cz^
+||partneri.cannor.cz^
 ||partneri.chytraopicka.cz^
 ||partneri.coffeeveronia.sk^
 ||partneri.dietavkrabicce.cz^

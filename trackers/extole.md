@@ -6,6 +6,7 @@
     * ahs.extole.com
     * american-giant.extole.com
     * ancestrydna.extole.com
+    * aol.extole.com
     * basictalk-ssl.extole.com
     * catalogspree-ssl.extole.com
     * clearme-ssl.extole.com
@@ -22,6 +23,7 @@
     * healthypaws.extole.com
     * hostgator.extole.com
     * indochino.extole.com
+    * intuit-accountants.extole.com
     * iop.extole.com
     * julep.extole.com
     * keurig-ssl.extole.com
@@ -39,6 +41,7 @@
     * referxoom.extole.com
     * sage-ssl.extole.com
     * sageca-ssl.extole.com
+    * sharefile-ssl.extole.com
     * shoesforcrews-ssl.extole.com
     * southernliving.extole.com
     * sperry.extole.com
@@ -65,6 +68,7 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
+| refer.aol.com | aol.extole.com |
 | refer.basictalk.com | basictalk-ssl.extole.com |
 | share.catalogspree.com | catalogspree-ssl.extole.com |
 | refer.clearme.com | clearme-ssl.extole.com |
@@ -83,6 +87,7 @@
 | refer.healthypawspetinsurance.com | healthypaws.extole.com |
 | referral.hostgator.com | hostgator.extole.com |
 | share.indochino.com | indochino.extole.com |
+| refer.accountants.intuit.com | intuit-accountants.extole.com |
 | refer.payroll.intuit.com | iop.extole.com |
 | refer.julep.com | julep.extole.com |
 | friends.keurig.com | keurig-ssl.extole.com |
@@ -101,6 +106,7 @@
 | refer.xoom.com | referxoom.extole.com |
 | refer.sage.com | sage-ssl.extole.com |
 | share.na.sage.com | sageca-ssl.extole.com |
+| friend.sharefile.com | sharefile-ssl.extole.com |
 | refer.shoesforcrews.com | shoesforcrews-ssl.extole.com |
 | refer.southernliving.com | southernliving.extole.com |
 | refer.sperry.com | sperry.extole.com |

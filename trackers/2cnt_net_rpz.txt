@@ -50,6 +50,7 @@ ssl-heise.met.vgwort.de CNAME .
 ssl-rp-online.met.vgwort.de CNAME .
 ssl-spiegel.met.vgwort.de CNAME .
 ssl-t-online.met.vgwort.de CNAME .
+ssl-tagesspiegel.met.vgwort.de CNAME .
 ssl-weka.met.vgwort.de CNAME .
 sz.met.vgwort.de CNAME .
 tagesspiegel.met.vgwort.de CNAME .
@@ -209,10 +210,6 @@ merkur.met.vgwort.de CNAME .
 ;
 n-tv.met.vgwort.de CNAME .
 ;
-; nomos.vgwort-de.2cnt.net disguised trackers
-;
-nomos.met.vgwort.de CNAME .
-;
 ; pl01.prolitteris.2cnt.net disguised trackers
 ;
 pl01.owen.prolitteris.ch CNAME .
@@ -269,6 +266,10 @@ ssl-digitalfoto.tns-gallup.dk CNAME .
 ;
 ssl-dr.tns-gallup.dk CNAME .
 ;
+; ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
+;
+ssl-drandroidtvstream.tns-gallup.dk CNAME .
+;
 ; ssl-drhbbtv.tns-dk.2cnt.net disguised trackers
 ;
 ssl-drhbbtv.tns-gallup.dk CNAME .
@@ -281,13 +282,17 @@ ssl-econa.met.vgwort.de CNAME .
 ;
 ssl-eurosportandroidstream.tns-gallup.dk CNAME .
 ;
-; ssl-eurosportandroidstream.tns-dk.2cnt.net disguised trackers
-;
-ssl-eurosportandroidstream.tns-gallup.dk CNAME .
-;
 ; ssl-focus.vgwort-de.2cnt.net disguised trackers
 ;
 ssl-focus.met.vgwort.de CNAME .
+;
+; slb-tns-dk-pool10.tns-dk.2cnt.net disguised trackers
+;
+ssl-gafiam.tns-gallup.dk CNAME .
+;
+; ssl-gafiam.tns-dk.2cnt.net disguised trackers
+;
+ssl-gafiam.tns-gallup.dk CNAME .
 ;
 ; ssl-golem.vgwort-de.2cnt.net disguised trackers
 ;
@@ -344,6 +349,10 @@ ssl-spiegel.met.vgwort.de CNAME .
 ; ssl-t-online.vgwort-de.2cnt.net disguised trackers
 ;
 ssl-t-online.met.vgwort.de CNAME .
+;
+; ssl-tagesspiegel.vgwort-de.2cnt.net disguised trackers
+;
+ssl-tagesspiegel.met.vgwort.de CNAME .
 ;
 ; ssl-teltarif.vgwort-de.2cnt.net disguised trackers
 ;

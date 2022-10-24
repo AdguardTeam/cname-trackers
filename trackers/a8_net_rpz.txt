@@ -299,7 +299,6 @@ a8cv.str.classicmusic.tokyo CNAME .
 a8cv.t-bang.jp CNAME .
 a8cv.tfansite.jp CNAME .
 a8cv.treasure-f.com CNAME .
-a8cv.try-fs.com CNAME .
 a8cv.udition.jp CNAME .
 a8cv.unico-fan.co.jp CNAME .
 a8cv.unito.life CNAME .

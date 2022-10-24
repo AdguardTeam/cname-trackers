@@ -24,6 +24,10 @@
 ||market-keyade.macif.fr^
 ||tck.photobox.com^
 !
+! lt2.keyade.com disguised trackers
+!
+||forum-pp.mac4ever.com^
+!
 ! k.madmetrics.com disguised trackers
 !
 ||k.truffaut.com^
