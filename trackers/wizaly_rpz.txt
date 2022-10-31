@@ -45,6 +45,7 @@ tk.bricoprive.com CNAME .
 tk.conforama.fr CNAME .
 tk.dietbon.fr CNAME .
 tk.domitys.fr CNAME .
+tk.dossier.co CNAME .
 tk.engie.fr CNAME .
 tk.etam.com CNAME .
 tk.healthwarehouse.com CNAME .

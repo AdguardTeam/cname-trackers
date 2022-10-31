@@ -14,10 +14,8 @@ ana.tv5unis.ca CNAME .
 arrietty.nrj.fr CNAME .
 at-cddc.actu-juridique.fr CNAME .
 at.badische-zeitung.de CNAME .
-at.pagesjaunes.fr CNAME .
 atconnect.npo.nl CNAME .
 ati-a1.946d001b783803c1.xhst.bbci.co.uk CNAME .
-atxqb.psychologies.com CNAME .
 avocado.laprovence.com CNAME .
 avp.labanquepostale.fr CNAME .
 blava.viessmann.sk CNAME .
@@ -35,6 +33,7 @@ crocetta.viessmann.it CNAME .
 culture.intermedes.com CNAME .
 d.doctipharma.fr CNAME .
 d.m-net.de CNAME .
+d.santemagazine.fr CNAME .
 d.uni-medias.com CNAME .
 da.maif.fr CNAME .
 dimensions.mappy.com CNAME .

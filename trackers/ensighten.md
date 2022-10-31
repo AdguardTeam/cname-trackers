@@ -31,6 +31,7 @@
     * ford.edge.nc0.co
     * fotolia.edge.nc0.co
     * gallo.edge.nc0.co
+    * gecapitalau.edge.nc0.co
     * gst.edge.nc0.co
     * hearst.edge.nc0.co
     * heineken-b2b.edge.nc0.co
@@ -389,6 +390,7 @@
 | p.pulse.toyota.com | edge-geo.nc0.co |
 | p.pulse.toyota.com | edge-geo.nc0.co |
 | pfa.levexis.com | edge-geo.nc0.co |
+| privacy.28degreescard.com.au | edge-geo.nc0.co |
 | privacy.blade.app | edge-geo.nc0.co |
 | privacy.gemfinance.co.nz | edge-geo.nc0.co |
 | privacy.gomastercard.com.au | edge-geo.nc0.co |
@@ -422,6 +424,7 @@
 | tagman.crystalsummer.co.uk | edge-geo.nc0.co |
 | tagman.fotolia.com | edge-geo.nc0.co |
 | tagman.intercall.com | edge-geo.nc0.co |
+| tagman.silversingles.com | edge-geo.nc0.co |
 | tagman.transavia.com | edge-geo.nc0.co |
 | tagman.virgin-atlantic.com | edge-geo.nc0.co |
 | tagman.virginatlantic.com | edge-geo.nc0.co |
@@ -471,6 +474,7 @@
 | data.lincoln.com | ford.edge.nc0.co |
 | tagman.fotolia.com | fotolia.edge.nc0.co |
 | dc.esterethyl.com | gallo.edge.nc0.co |
+| privacy.28degreescard.com.au | gecapitalau.edge.nc0.co |
 | gst.pulse.buyatoyota.com | gst.edge.nc0.co |
 | gst.pulse.toyota.com | gst.edge.nc0.co |
 | tm.hdmtools.com | hearst.edge.nc0.co |

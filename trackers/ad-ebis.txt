@@ -56,7 +56,6 @@
 ||adebis.logoshome.jp^
 ||adebis.no.01.alo-organic.com^
 ||adebis.nursery.co.jp^
-||adebis.piano-kaitoriyasan.com^
 ||adebis.qeee.jp^
 ||adebis.real-style.co.jp^
 ||adebis.report.clinic^
@@ -190,6 +189,7 @@
 ||ebis.sunstar-shop.jp^
 ||ebis.tokado.jp^
 ||ebis.u2yokohama.co.jp^
+||ebis.umulin-lab.com^
 ||ebis01.zkai.co.jp^
 ||ebis2020.hoiku-job.net^
 ||ebis202001.joyfit.jp^

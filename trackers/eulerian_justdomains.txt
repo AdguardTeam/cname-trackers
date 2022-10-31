@@ -78,7 +78,6 @@ ea.evaway.com
 ea.fleurancenature.com
 ea.fleurancenature.fr
 ea.francoisesaget.com
-ea.galerieslafayette.com
 ea.greenweez.com
 ea.greenweez.de
 ea.habitat.de
@@ -143,6 +142,7 @@ erb.tremblant.ca
 ert5.rmcsport.tv
 eule1.pmu.fr
 eule3.pmu.fr
+eule4.pmu.fr
 eule5.pmu.fr
 euler.pmu.fr
 eulerian.alinea.fr
@@ -219,6 +219,7 @@ m3ds.subarumetropolitain.com
 mfd.myfirstdressing.com
 mgt7.madeindesign.it
 mi.miliboo.be
+mi.miliboo.ch
 mi.miliboo.co.uk
 mi.miliboo.com
 mi.miliboo.de
@@ -282,11 +283,13 @@ pp.promocionesfarma.com
 ppp7.destinia.kr
 pqn7.cheque-dejeuner.fr
 prx6.destinia.ch
+ps.pmu.fr
 pv.partenaires-verisure.fr
 qfo.eurotierce.be
 qjg4.destinia.asia
 qpl9.destinia.dk
 qtj0.destinia.pl
+quk9.destinia.com.ar
 qyn6.ofertastelecable.es
 qzl8.destinia.fi
 r1ztni.oui.sncf

@@ -3,6 +3,7 @@
 ;
 ; cz.affilbox.cz disguised trackers
 ;
+abox.simpleshop.cz CNAME .
 aff.faircredit.cz CNAME .
 aff.pujckajonatan.cz CNAME .
 aff.teshop.cz CNAME .
@@ -263,6 +264,7 @@ my.top4football.ie CNAME .
 my.top4football.it CNAME .
 my.top4football.nl CNAME .
 my.top4football.se CNAME .
+my.top4running.at CNAME .
 my.top4running.be CNAME .
 my.top4running.bg CNAME .
 my.top4running.com CNAME .
@@ -270,6 +272,7 @@ my.top4running.cz CNAME .
 my.top4running.de CNAME .
 my.top4running.dk CNAME .
 my.top4running.es CNAME .
+my.top4running.fi CNAME .
 my.top4running.fr CNAME .
 my.top4running.gr CNAME .
 my.top4running.hr CNAME .
@@ -329,6 +332,7 @@ partner.doplnse.cz CNAME .
 partner.expresmenu.com CNAME .
 partner.expresmenu.cz CNAME .
 partner.expresmenu.sk CNAME .
+partner.fermato.cz CNAME .
 partner.forexrebel.net CNAME .
 partner.galsari.com CNAME .
 partner.gokids.cz CNAME .
@@ -400,6 +404,8 @@ partner.svetruzi.cz CNAME .
 partner.swimmeez.cz CNAME .
 partner.top-obaly.cz CNAME .
 partner.tyano.cz CNAME .
+partner.umio.sk CNAME .
+partner.unuo.de CNAME .
 partner.vataonline.cz CNAME .
 partner.vffoto.com CNAME .
 partner.vladimirekart.cz CNAME .
@@ -476,7 +482,6 @@ partners.oktagon.tv CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .
 partners.spiritradar.com CNAME .
-partners.ttsummit.cz CNAME .
 provize.3dfitness.cz CNAME .
 provize.dzumdzum.cz CNAME .
 provize.mimulo.cz CNAME .

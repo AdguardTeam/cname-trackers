@@ -27,9 +27,9 @@
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
-6blwi5s4yh1x.kvest.ee CNAME .
 6w7kycvz47e0.www.earthclassmail.com CNAME .
 76zvoxo5yx0l.www.eldorado.gg CNAME .
+771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 8ag8k205ppci.app.alpacafinance.org CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .

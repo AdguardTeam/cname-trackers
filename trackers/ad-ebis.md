@@ -131,6 +131,7 @@
     * 8f087789-nkcrsmeh.cname.ebis.ne.jp
     * 8f5032fb-baawdyfz.cname.ebis.ne.jp
     * 917e1794-a9hmqa9q.cname.ebis.ne.jp
+    * 92a7d885-sz3ynfbf.cname.ebis.ne.jp
     * 93269da3-jabnwha0.cname.ebis.ne.jp
     * 93c1009e-6pusefyf.cname.ebis.ne.jp
     * 9473cf8f-gaz6wmaw.cname.ebis.ne.jp
@@ -157,7 +158,6 @@
     * a6a5d774-vsrgbn9q.cname.ebis.ne.jp
     * a8ba4949-zsbmdhqh.cname.ebis.ne.jp
     * aa9c1a10-bxd3nsfc.cname.ebis.ne.jp
-    * abe2cae4-rycpokjr.cname.ebis.ne.jp
     * ac8dd399-7xybwgkv.cname.ebis.ne.jp
     * ad332265-3fbqyybv.cname.ebis.ne.jp
     * ae331b42-b3j1fwdu.cname.ebis.ne.jp
@@ -368,6 +368,7 @@
 | cname.finess.jp | 8f087789-nkcrsmeh.cname.ebis.ne.jp |
 | adebis.shinseibank.com | 8f5032fb-baawdyfz.cname.ebis.ne.jp |
 | ebis.shabon.com | 917e1794-a9hmqa9q.cname.ebis.ne.jp |
+| ebis.umulin-lab.com | 92a7d885-sz3ynfbf.cname.ebis.ne.jp |
 | adebis.kamada.co.jp | 93269da3-jabnwha0.cname.ebis.ne.jp |
 | ebis-tracking.hirakata-skin-clinic.com | 93c1009e-6pusefyf.cname.ebis.ne.jp |
 | cnebis.eisai.jp | 9473cf8f-gaz6wmaw.cname.ebis.ne.jp |
@@ -394,7 +395,6 @@
 | adebis.thd-web.jp | a6a5d774-vsrgbn9q.cname.ebis.ne.jp |
 | ebis.la-coco.com | a8ba4949-zsbmdhqh.cname.ebis.ne.jp |
 | nlp-japan.life-and-mind.com | aa9c1a10-bxd3nsfc.cname.ebis.ne.jp |
-| adebis.piano-kaitoriyasan.com | abe2cae4-rycpokjr.cname.ebis.ne.jp |
 | ebis.jobcan.ne.jp | ac8dd399-7xybwgkv.cname.ebis.ne.jp |
 | isebis.yutoriform.com | ad332265-3fbqyybv.cname.ebis.ne.jp |
 | beeline.beeline-tire.co.jp | ae331b42-b3j1fwdu.cname.ebis.ne.jp |

@@ -87,6 +87,7 @@
 ||3311320.notifysrv.com^
 ||3313174.notify6.com^
 ||3317882.notifysrv.com^
+||3317892.notify6.com^
 ||3319502.notifysrv.com^
 ||3321284.notifysrv.com^
 ||3323174.notifysrv.com^
@@ -100,6 +101,7 @@
 ||3329496.notifysrv.com^
 ||3329726.notifysrv.com^
 ||3335306.notifysrv.com^
+||3338444.notify6.com^
 ||3340606.notifysrv.com^
 ||3344944.notifysrv.com^
 ||3345712.notifysrv.com^
@@ -162,6 +164,7 @@
 ||3440403.notify6.com^
 ||3440403.notifysrv.com^
 ||3440411.notify6.com^
+||3442145.notifysrv.com^
 ||3456415.notifysrv.com^
 ||3457083.notifysrv.com^
 ||3457959.notify6.com^
@@ -222,6 +225,7 @@
 ||3556651.notifysrv.com^
 ||3557821.notifysrv.com^
 ||3562657.notifysrv.com^
+||3562665.notify6.com^
 ||3566697.notifysrv.com^
 ||3566839.notifysrv.com^
 ||3568955.notify6.com^
@@ -339,6 +343,7 @@
 ||3752469.notifysrv.com^
 ||3756889.notifysrv.com^
 ||3762001.notifysrv.com^
+||3765485.notifysrv.com^
 ||3768747.notify6.com^
 ||3768747.notifysrv.com^
 ||3775247.notifysrv.com^
@@ -401,6 +406,7 @@
 ||3959292.notify6.com^
 ||3960141.notify6.com^
 ||3961386.notify6.com^
+||3961406.notify6.com^
 ||3973252.notify6.com^
 ||3975710.notify6.com^
 ||3979160.notify6.com^
@@ -480,6 +486,7 @@
 ||4329302.notify6.com^
 ||4329306.notify6.com^
 ||4365744.notify6.com^
+||4367658.notify6.com^
 ||4421184.notify6.com^
 ||4429788.notify6.com^
 ||4443548.notify6.com^
@@ -504,14 +511,18 @@
 ||4740420.notify6.com^
 ||4743728.notify6.com^
 ||4794988.notify6.com^
+||4795030.notify6.com^
 ||4795190.notify6.com^
+||4795232.notify6.com^
 ||4795268.notify6.com^
 ||4795562.notify6.com^
+||4795570.notify6.com^
 ||4798638.notify6.com^
 ||4799078.notify6.com^
 ||4809426.notify6.com^
 ||4811620.notify6.com^
 ||4815238.notify6.com^
+||4815462.notify6.com^
 ||4819336.notify6.com^
 ||6146.notify.optimizesrv.com^
 ||6180.notify.optimizesrv.com^
@@ -595,16 +606,12 @@
 !
 ! cds.d6n9n7e2.hwcdn.net disguised trackers
 !
-||a.addisplaynetwork.com^
-||a.adnflow.com^
-||a.etology.com^
 ||a.exdynsrv.com^
 ||a.exoclick.com^
 ||a.exosrv.com^
 ||ads.exdynsrv.com^
 ||ads.exoclick.com^
 ||ads.exosrv.com^
-||delivery.gettopple.com^
 !
 ! cds.v3j9t5q9.hwcdn.net disguised trackers
 !

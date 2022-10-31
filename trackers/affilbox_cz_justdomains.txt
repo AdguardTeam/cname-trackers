@@ -3,6 +3,7 @@
 #
 # cz.affilbox.cz disguised trackers
 #
+abox.simpleshop.cz
 aff.faircredit.cz
 aff.pujckajonatan.cz
 aff.teshop.cz
@@ -263,6 +264,7 @@ my.top4football.ie
 my.top4football.it
 my.top4football.nl
 my.top4football.se
+my.top4running.at
 my.top4running.be
 my.top4running.bg
 my.top4running.com
@@ -270,6 +272,7 @@ my.top4running.cz
 my.top4running.de
 my.top4running.dk
 my.top4running.es
+my.top4running.fi
 my.top4running.fr
 my.top4running.gr
 my.top4running.hr
@@ -329,6 +332,7 @@ partner.doplnse.cz
 partner.expresmenu.com
 partner.expresmenu.cz
 partner.expresmenu.sk
+partner.fermato.cz
 partner.forexrebel.net
 partner.galsari.com
 partner.gokids.cz
@@ -400,6 +404,8 @@ partner.svetruzi.cz
 partner.swimmeez.cz
 partner.top-obaly.cz
 partner.tyano.cz
+partner.umio.sk
+partner.unuo.de
 partner.vataonline.cz
 partner.vffoto.com
 partner.vladimirekart.cz
@@ -476,7 +482,6 @@ partners.oktagon.tv
 partners.pocitarna.cz
 partners.puravidashop.cz
 partners.spiritradar.com
-partners.ttsummit.cz
 provize.3dfitness.cz
 provize.dzumdzum.cz
 provize.mimulo.cz

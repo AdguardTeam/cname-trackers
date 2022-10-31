@@ -79,6 +79,8 @@ eltern.met.vgwort.de
 faz.met.vgwort.de
 fr-online.met.vgwort.de
 gala.met.vgwort.de
+idgmagazine.met.vgwort.de
+juris.met.vgwort.de
 n-tv.met.vgwort.de
 rtl.met.vgwort.de
 springer.met.vgwort.de
@@ -182,6 +184,14 @@ geo.met.vgwort.de
 #
 helpster.met.vgwort.de
 #
+# idgmagazine.vgwort-de.2cnt.net disguised trackers
+#
+idgmagazine.met.vgwort.de
+#
+# juris.vgwort-de.2cnt.net disguised trackers
+#
+juris.met.vgwort.de
+#
 # kr.vgwort-de.2cnt.net disguised trackers
 #
 kr.met.vgwort.de
@@ -198,6 +208,10 @@ kristeligtdagblad.tns-gallup.dk
 #
 ksta.met.vgwort.de
 #
+# magacin.tns-dk.2cnt.net disguised trackers
+#
+magacin.tns-gallup.dk
+#
 # manager.vgwort-de.2cnt.net disguised trackers
 #
 manager.met.vgwort.de
@@ -209,6 +223,10 @@ merkur.met.vgwort.de
 # n-tv.vgwort-de.2cnt.net disguised trackers
 #
 n-tv.met.vgwort.de
+#
+# nomos.vgwort-de.2cnt.net disguised trackers
+#
+nomos.met.vgwort.de
 #
 # pl01.prolitteris.2cnt.net disguised trackers
 #
@@ -282,6 +300,10 @@ ssl-econa.met.vgwort.de
 #
 ssl-eurosportandroidstream.tns-gallup.dk
 #
+# ssl-eurosportandroidstream.tns-dk.2cnt.net disguised trackers
+#
+ssl-eurosportandroidstream.tns-gallup.dk
+#
 # ssl-focus.vgwort-de.2cnt.net disguised trackers
 #
 ssl-focus.met.vgwort.de
@@ -349,10 +371,6 @@ ssl-spiegel.met.vgwort.de
 # ssl-t-online.vgwort-de.2cnt.net disguised trackers
 #
 ssl-t-online.met.vgwort.de
-#
-# ssl-tagesspiegel.vgwort-de.2cnt.net disguised trackers
-#
-ssl-tagesspiegel.met.vgwort.de
 #
 # ssl-teltarif.vgwort-de.2cnt.net disguised trackers
 #

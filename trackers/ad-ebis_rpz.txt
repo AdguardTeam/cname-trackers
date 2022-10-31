@@ -56,7 +56,6 @@ adebis.livable.co.jp CNAME .
 adebis.logoshome.jp CNAME .
 adebis.no.01.alo-organic.com CNAME .
 adebis.nursery.co.jp CNAME .
-adebis.piano-kaitoriyasan.com CNAME .
 adebis.qeee.jp CNAME .
 adebis.real-style.co.jp CNAME .
 adebis.report.clinic CNAME .
@@ -190,6 +189,7 @@ ebis.studioindi.jp CNAME .
 ebis.sunstar-shop.jp CNAME .
 ebis.tokado.jp CNAME .
 ebis.u2yokohama.co.jp CNAME .
+ebis.umulin-lab.com CNAME .
 ebis01.zkai.co.jp CNAME .
 ebis2020.hoiku-job.net CNAME .
 ebis202001.joyfit.jp CNAME .

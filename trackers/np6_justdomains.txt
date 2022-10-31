@@ -19,12 +19,14 @@ tr.actualites.bfmtv.com
 tr.actuentreprises.elior.fr
 tr.actupremium.com
 tr.actus-fdj.fr
+tr.alex.espmp-agfr.net
 tr.allopneus.com
 tr.animation.lexpress.fr
 tr.animation.micromania.fr
 tr.animations.bfmtv.com
 tr.apou032.espmp-agfr.net
 tr.asp002q.espmp-aufr.net
+tr.asp00a6.espmp-nifr.net
 tr.asp1.espmp-agfr.net
 tr.asp103z.espmp-nifr.net
 tr.asp104p.espmp-aufr.net
@@ -32,6 +34,7 @@ tr.asp106d.espmp-cufr.net
 tr.asp106g.espmp-nifr.net
 tr.asp10ar.espmp-cufr.net
 tr.asp10bs.espmp-aufr.net
+tr.asp10ch.espmp-nifr.net
 tr.asp10cr.espmp-nifr.net
 tr.asp10hi.espmp-cufr.net
 tr.asp202u.espmp-cufr.net
@@ -225,7 +228,6 @@ tr.info.bessans.com
 tr.info.caissenationalegendarme.fr
 tr.info.capfun.com
 tr.info.casino-proximites.fr
-tr.info.comparadordeprestamos.es
 tr.info.easyviaggio.com
 tr.info.easyviajar.com
 tr.info.easyvoyage.co.uk

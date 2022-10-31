@@ -91,6 +91,7 @@
 ||bass.kathryncallaghan.co.uk^
 ||bass.kidneystonediet.com^
 ||bear.datingrelationshipsadvice.com^
+||beaver.livechatlabs.com^
 ||bedbug.bragi.com^
 ||bee.andreawhitmer.com^
 ||bird.brondby.com^
@@ -137,12 +138,14 @@
 ||caterpilla.ibon.live^
 ||catfish.lucalabs.com^
 ||catshark.spur.design^
+||cattle.ajyd.org.au^
 ||cattle.apisyouwonthate.com^
 ||cattle.eprc.tools^
 ||cattle.mes-renovateurs.com^
 ||cattle.spiral11.com^
 ||cattle.weiss-bregenz.at^
 ||centipede.buskersbern.ch^
+||centipede.nilcollegeathletes.com^
 ||centipede.roasted.dev^
 ||cephalopod.hometechnology.news^
 ||cephalopod.polymath.net^
@@ -168,10 +171,12 @@
 ||coyote.alboweb.nl^
 ||coyote.gnx.cloud^
 ||coyote.nickgurney.com^
+||crane.maggsgroup.com^
 ||crane.thegardenroomguide.co.uk^
 ||crane.trescolori.cloud^
 ||crawdad.craiga.id.au^
 ||crayfish.fansubbing.com^
+||crayfish.miamilo.com^
 ||crayfish.thingelstad.com^
 ||crocodile.brightonruby.com^
 ||cuckoo.clientrock.app^
@@ -191,6 +196,7 @@
 ||dolphin.sfelc.com^
 ||donkey.annieswinecottagepowell.com^
 ||donkey.bahr.dev^
+||donkey.briangershon.com^
 ||donkey.elegantmusicgroup.com^
 ||donkey.guggenbichler.co.at^
 ||donkey.hackoregon.org^
@@ -255,7 +261,9 @@
 ||goat.aicontentdojo.com^
 ||goat.codeofar.ms^
 ||goat.studiobruikbaar.nl^
+||goat.vrds.app^
 ||goldfish.boleary.dev^
+||goldfish.mergeedu.com^
 ||goldfish.shingle.fi^
 ||goose.pooltogether.com^
 ||gorilla.celcyon.com^
@@ -268,9 +276,12 @@
 ||guanaco.jden.me^
 ||guanaco.redpixelthemes.com^
 ||guineapig.espressive.com^
+||guineapig.recap.io^
 ||guppy.ausowned.com.au^
+||guppy.directlyapply.com^
 ||haddock.affilimate.com^
 ||haddock.jeffreyknox.dev^
+||halibut.codehooks.io^
 ||hamster.consentkit.io^
 ||hare.felix-schmid.de^
 ||hawk.makroskop.eu^
@@ -316,12 +327,15 @@
 ||ladybug.paulstovell.com^
 ||landfowl.typegang.com^
 ||landsnail.bindle.io^
+||landsnail.brownfield.dev^
 ||leech.privacycloud.com^
 ||leech.stargate-project.de^
 ||leopard.ui-snippets.dev^
 ||leopard.understandit.se^
+||leopon.luckycasts.com^
 ||leopon.originalmineral.com^
 ||limpet.coinponent.com^
+||limpet.eddiehinkle.com^
 ||limpet.yago.dev^
 ||lion.lastfrontiermagazine.com^
 ||llama.eniston.io^
@@ -357,6 +371,7 @@
 ||mink.faq-bregenzerwald.com^
 ||minnow.clintwinter.me^
 ||minnow.mimosaagency.com^
+||mite.cotinga.io^
 ||mockingbir.sgfunited.com^
 ||mole.dansksejlunion.dk^
 ||mole.energizer.eu^
@@ -377,7 +392,7 @@
 ||moth.underscoretw.com^
 ||mouse.voyagefuneralhomes.com^
 ||mule.caddyserver.com^
-||muskox.oddcamp.com^
+||newt.bayswater.cc^
 ||newt.javier.dev^
 ||ocelot.pixlwebs.nl^
 ||octopus.couragetrainingcentre.com^
@@ -472,6 +487,8 @@
 ||silkworm.boxmood.be^
 ||silkworm.energizergrouplegal.com^
 ||silkworm.preventingsuicideinsussex.org^
+||silkworm.westwoodmbc.org^
+||silverfish.djordjevanjek.com^
 ||silverfish.trustduty.com^
 ||skink.madewithlove.com^
 ||skunk.dwa.li^
@@ -483,6 +500,7 @@
 ||sole.pretto.fr^
 ||sole.riverwalkdental.com.au^
 ||sparrow.carol.gg^
+||sparrow.uitvaartzorg-vanraemdonck.be^
 ||sparrow.workingincontent.com^
 ||spermwhale.rowansimpson.com^
 ||spermwhale.thankbox.co^
@@ -519,6 +537,7 @@
 ||takin.cors.digital^
 ||takin.revolana.fr^
 ||tarantula.hashicorp.com^
+||tarantula.tuxedo.media^
 ||tarantula.wowwomenonwheels.co.uk^
 ||tarsier.emitremmus.com^
 ||termite.simplymixing.com^
@@ -549,7 +568,9 @@
 ||uktgg.dev-tester.com^
 ||vampirebat.git-tower.com^
 ||vicuna.casa-moebel.at^
+||vicuna.fortbinary.com^
 ||vicuna.joblicant.de^
+||vicuna.redwoodcity.bike^
 ||viper.sitesauce.app^
 ||vole.contemporaryartlibrary.org^
 ||vole.noteapps.info^
@@ -588,6 +609,7 @@
 ||partner.streetinteractive.com^
 ||partners.hourmediagroup.com^
 ||partners.madisonminutes.com^
+||partners.seetheworld.com^
 ||saucon-sponsors.streetinteractive.com^
 ||sponsors-v2.automate.org^
 ||sponsors-v2.floorforce.com^

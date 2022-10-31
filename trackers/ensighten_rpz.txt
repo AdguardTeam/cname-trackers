@@ -193,6 +193,7 @@ p.pulse.buyatoyota.com CNAME .
 p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
+privacy.28degreescard.com.au CNAME .
 privacy.blade.app CNAME .
 privacy.gemfinance.co.nz CNAME .
 privacy.gomastercard.com.au CNAME .
@@ -218,6 +219,7 @@ tagman.britishairways.com CNAME .
 tagman.crystalsummer.co.uk CNAME .
 tagman.fotolia.com CNAME .
 tagman.intercall.com CNAME .
+tagman.silversingles.com CNAME .
 tagman.transavia.com CNAME .
 tagman.virgin-atlantic.com CNAME .
 tagman.virginatlantic.com CNAME .

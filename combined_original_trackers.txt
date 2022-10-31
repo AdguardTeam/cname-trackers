@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2022-10-24T08:00:25+00:00
+! TimeUpdated: 2022-10-31T08:00:24+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 !
@@ -38,6 +38,9 @@
 ||sc.adobedc.net^
 ||sc.omtrdc.net^
 !
+! Company: ahacdn.me
+||cdn18685953.ahacdn.me^
+!
 ! Company: Branch.io
 ||thirdparty.bnc.lt^
 !
@@ -64,6 +67,7 @@
 !
 ! Company: Extole
 ||extole.com^
+||extole.io^
 !
 ! Company: Fathom
 ||fathomdns.com^

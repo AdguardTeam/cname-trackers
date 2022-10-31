@@ -19,12 +19,14 @@ tr.actualites.bfmtv.com CNAME .
 tr.actuentreprises.elior.fr CNAME .
 tr.actupremium.com CNAME .
 tr.actus-fdj.fr CNAME .
+tr.alex.espmp-agfr.net CNAME .
 tr.allopneus.com CNAME .
 tr.animation.lexpress.fr CNAME .
 tr.animation.micromania.fr CNAME .
 tr.animations.bfmtv.com CNAME .
 tr.apou032.espmp-agfr.net CNAME .
 tr.asp002q.espmp-aufr.net CNAME .
+tr.asp00a6.espmp-nifr.net CNAME .
 tr.asp1.espmp-agfr.net CNAME .
 tr.asp103z.espmp-nifr.net CNAME .
 tr.asp104p.espmp-aufr.net CNAME .
@@ -32,6 +34,7 @@ tr.asp106d.espmp-cufr.net CNAME .
 tr.asp106g.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
+tr.asp10ch.espmp-nifr.net CNAME .
 tr.asp10cr.espmp-nifr.net CNAME .
 tr.asp10hi.espmp-cufr.net CNAME .
 tr.asp202u.espmp-cufr.net CNAME .
@@ -225,7 +228,6 @@ tr.info.bessans.com CNAME .
 tr.info.caissenationalegendarme.fr CNAME .
 tr.info.capfun.com CNAME .
 tr.info.casino-proximites.fr CNAME .
-tr.info.comparadordeprestamos.es CNAME .
 tr.info.easyviaggio.com CNAME .
 tr.info.easyviajar.com CNAME .
 tr.info.easyvoyage.co.uk CNAME .

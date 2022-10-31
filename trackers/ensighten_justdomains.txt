@@ -193,6 +193,7 @@ p.pulse.buyatoyota.com
 p.pulse.lexus.com
 p.pulse.toyota.com
 pfa.levexis.com
+privacy.28degreescard.com.au
 privacy.blade.app
 privacy.gemfinance.co.nz
 privacy.gomastercard.com.au
@@ -218,6 +219,7 @@ tagman.britishairways.com
 tagman.crystalsummer.co.uk
 tagman.fotolia.com
 tagman.intercall.com
+tagman.silversingles.com
 tagman.transavia.com
 tagman.virgin-atlantic.com
 tagman.virginatlantic.com

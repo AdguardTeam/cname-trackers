@@ -41,6 +41,7 @@
     * 151836596491843.wt-eu02.net
     * 176652923057792.wt-eu02.net
     * 180629549208289.wt-eu02.net
+    * 184874202187158.wt-eu02.net
     * 186015257614542.wt-eu02.net
     * 198101699966051.wt-eu02.net
     * 208005830805862.wt-eu02.net
@@ -212,6 +213,7 @@
 | web.sensilab.sk | 151836596491843.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
 | web.solesource.com | 180629549208289.wt-eu02.net |
+| web.mapp.docpeter.it | 184874202187158.wt-eu02.net |
 | web.mapp.skousen.dk | 186015257614542.wt-eu02.net |
 | web.campaign.jaked.com | 198101699966051.wt-eu02.net |
 | census.misterspex.de | 208005830805862.wt-eu02.net |
@@ -281,6 +283,7 @@
 | web.news.pleasefashion.com | 637511691483562.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
+| web.slim-joy.de | 657801072187647.wt-eu02.net |
 | web.slimjoy.com | 657801072187647.wt-eu02.net |
 | web.slimjoy.dk | 657801072187647.wt-eu02.net |
 | web.slimjoy.ro | 657801072187647.wt-eu02.net |
@@ -344,6 +347,7 @@
 | w7.berlin.de | berlinonline-02.wt-eu02.net |
 | w7.weihnachteninberlin.de | berlinonline-02.wt-eu02.net |
 | aud.bild.de | bild01.webtrekk.net |
+| inhalt.bild.de | bild01.webtrekk.net |
 | spr.bild.de | bild01.webtrekk.net |
 | trk.blume2000.de | blume2000.wt-eu02.net |
 | text.mitarbeiterangebote.de | cbm02.webtrekk.net |

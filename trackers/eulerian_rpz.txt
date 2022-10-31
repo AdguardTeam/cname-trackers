@@ -78,7 +78,6 @@ ea.evaway.com CNAME .
 ea.fleurancenature.com CNAME .
 ea.fleurancenature.fr CNAME .
 ea.francoisesaget.com CNAME .
-ea.galerieslafayette.com CNAME .
 ea.greenweez.com CNAME .
 ea.greenweez.de CNAME .
 ea.habitat.de CNAME .
@@ -143,6 +142,7 @@ erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 eule1.pmu.fr CNAME .
 eule3.pmu.fr CNAME .
+eule4.pmu.fr CNAME .
 eule5.pmu.fr CNAME .
 euler.pmu.fr CNAME .
 eulerian.alinea.fr CNAME .
@@ -219,6 +219,7 @@ m3ds.subarumetropolitain.com CNAME .
 mfd.myfirstdressing.com CNAME .
 mgt7.madeindesign.it CNAME .
 mi.miliboo.be CNAME .
+mi.miliboo.ch CNAME .
 mi.miliboo.co.uk CNAME .
 mi.miliboo.com CNAME .
 mi.miliboo.de CNAME .
@@ -282,11 +283,13 @@ pp.promocionesfarma.com CNAME .
 ppp7.destinia.kr CNAME .
 pqn7.cheque-dejeuner.fr CNAME .
 prx6.destinia.ch CNAME .
+ps.pmu.fr CNAME .
 pv.partenaires-verisure.fr CNAME .
 qfo.eurotierce.be CNAME .
 qjg4.destinia.asia CNAME .
 qpl9.destinia.dk CNAME .
 qtj0.destinia.pl CNAME .
+quk9.destinia.com.ar CNAME .
 qyn6.ofertastelecable.es CNAME .
 qzl8.destinia.fi CNAME .
 r1ztni.oui.sncf CNAME .

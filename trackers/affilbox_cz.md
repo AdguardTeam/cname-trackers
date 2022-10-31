@@ -13,6 +13,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | affiliate.kulturistika.com | c4924.affilbox.cz |
+| abox.simpleshop.cz | cz.affilbox.cz |
 | aff.faircredit.cz | cz.affilbox.cz |
 | aff.pujckajonatan.cz | cz.affilbox.cz |
 | aff.teshop.cz | cz.affilbox.cz |
@@ -273,6 +274,7 @@
 | my.top4football.it | cz.affilbox.cz |
 | my.top4football.nl | cz.affilbox.cz |
 | my.top4football.se | cz.affilbox.cz |
+| my.top4running.at | cz.affilbox.cz |
 | my.top4running.be | cz.affilbox.cz |
 | my.top4running.bg | cz.affilbox.cz |
 | my.top4running.com | cz.affilbox.cz |
@@ -280,6 +282,7 @@
 | my.top4running.de | cz.affilbox.cz |
 | my.top4running.dk | cz.affilbox.cz |
 | my.top4running.es | cz.affilbox.cz |
+| my.top4running.fi | cz.affilbox.cz |
 | my.top4running.fr | cz.affilbox.cz |
 | my.top4running.gr | cz.affilbox.cz |
 | my.top4running.hr | cz.affilbox.cz |
@@ -339,6 +342,7 @@
 | partner.expresmenu.com | cz.affilbox.cz |
 | partner.expresmenu.cz | cz.affilbox.cz |
 | partner.expresmenu.sk | cz.affilbox.cz |
+| partner.fermato.cz | cz.affilbox.cz |
 | partner.forexrebel.net | cz.affilbox.cz |
 | partner.galsari.com | cz.affilbox.cz |
 | partner.gokids.cz | cz.affilbox.cz |
@@ -410,6 +414,8 @@
 | partner.swimmeez.cz | cz.affilbox.cz |
 | partner.top-obaly.cz | cz.affilbox.cz |
 | partner.tyano.cz | cz.affilbox.cz |
+| partner.umio.sk | cz.affilbox.cz |
+| partner.unuo.de | cz.affilbox.cz |
 | partner.vataonline.cz | cz.affilbox.cz |
 | partner.vffoto.com | cz.affilbox.cz |
 | partner.vladimirekart.cz | cz.affilbox.cz |
@@ -486,7 +492,6 @@
 | partners.pocitarna.cz | cz.affilbox.cz |
 | partners.puravidashop.cz | cz.affilbox.cz |
 | partners.spiritradar.com | cz.affilbox.cz |
-| partners.ttsummit.cz | cz.affilbox.cz |
 | provize.3dfitness.cz | cz.affilbox.cz |
 | provize.dzumdzum.cz | cz.affilbox.cz |
 | provize.mimulo.cz | cz.affilbox.cz |

@@ -7,6 +7,7 @@
 ||image.kfw-entwicklungsbank.de^
 ||image.kfw.de^
 ||images1.test.de^
+||inhalt.bild.de^
 ||mon.ingservices.nl^
 ||ot.obi.com^
 ||pix.eads.com^
@@ -230,6 +231,7 @@
 ||web.info.varelotteriet.dk^
 ||web.info.yeppon.it^
 ||web.mail.proximaati.com^
+||web.mapp.docpeter.it^
 ||web.mapp.edenred.it^
 ||web.mapp.ilgiardinodeilibri.it^
 ||web.mapp.naturzeit.com^
@@ -262,6 +264,7 @@
 ||web.sensilab.si^
 ||web.sensilab.sk^
 ||web.sidsavage.com^
+||web.slim-joy.de^
 ||web.slimjoy.com^
 ||web.slimjoy.dk^
 ||web.slimjoy.ro^

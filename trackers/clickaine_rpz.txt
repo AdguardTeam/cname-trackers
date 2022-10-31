@@ -4,6 +4,7 @@
 ; api.clickaine.com disguised trackers
 ;
 a3.hotpornfile.org CNAME .
+ad.aflamk1.net CNAME .
 ad.arabsex1.com CNAME .
 ad1.xero.porn CNAME .
 adx.arabsex1.com CNAME .
@@ -61,6 +62,7 @@ ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .
 snow.snowdayonline.xyz CNAME .
 sticky.vtube.to CNAME .
+thunder.vtube.to CNAME .
 wp.brandnewapp.pro CNAME .
 ww1.willalland.info CNAME .
 www.rtnews.pro CNAME .

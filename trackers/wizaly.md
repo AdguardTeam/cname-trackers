@@ -14,6 +14,7 @@
     * tk-conforama-fr.wizaly.com
     * tk-dietbon-fr.wizaly.com
     * tk-domitys-fr.wizaly.com
+    * tk-dossier-co.wizaly.com
     * tk-engie-com.wizaly.com
     * tk-etam-com.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
@@ -63,6 +64,7 @@
 | tk.conforama.fr | tk-conforama-fr.wizaly.com |
 | tk.dietbon.fr | tk-dietbon-fr.wizaly.com |
 | tk.domitys.fr | tk-domitys-fr.wizaly.com |
+| tk.dossier.co | tk-dossier-co.wizaly.com |
 | tk.engie.fr | tk-engie-com.wizaly.com |
 | tk.etam.com | tk-etam-com.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |

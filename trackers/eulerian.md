@@ -24,6 +24,7 @@
     * avatacar.eulerian.net
     * banque-casino.fr.eulerian.net
     * bca.eulerian.net
+    * bcassurance.eulerian.net
     * belambra-be.eulerian.net
     * belambra-com.eulerian.net
     * belambra-fr.eulerian.net
@@ -89,6 +90,7 @@
     * destinia-co-uk.eulerian.net
     * destinia-co-za.eulerian.net
     * destinia-co.eulerian.net
+    * destinia-com-ar.eulerian.net
     * destinia-com-au.eulerian.net
     * destinia-com-eg.eulerian.net
     * destinia-com-pa.eulerian.net
@@ -159,7 +161,6 @@
     * francoisesaget.eulerian.net
     * frn.eulerian.net
     * futuroscope.eulerian.net
-    * galerieslafayette.eulerian.net
     * gl.eulerian.net
     * greenweez-de.eulerian.net
     * greenweez.eulerian.net
@@ -217,6 +218,7 @@
     * melijoe.eulerian.net
     * mi.eulerian.net
     * miliboo-be.eulerian.net
+    * miliboo-ch.eulerian.net
     * miliboo-de.eulerian.net
     * miliboo-es.eulerian.net
     * miliboo-it.eulerian.net
@@ -435,6 +437,7 @@
 | s4e8.cascades.com | bca.eulerian.net |
 | t9h2.ricardocuisine.com | bca.eulerian.net |
 | t9h2.ricardocuisine.com | bca.eulerian.net |
+| ea.bcassurance.fr | bcassurance.eulerian.net |
 | eulerian.belambra.be | belambra-be.eulerian.net |
 | xjq5.belambra.be | belambra-be.eulerian.net |
 | am.belambra.com | belambra-com.eulerian.net |
@@ -513,6 +516,7 @@
 | oal2.destinia.co.uk | destinia-co-uk.eulerian.net |
 | gfv4.destinia.co.za | destinia-co-za.eulerian.net |
 | bch8.destinia.co | destinia-co.eulerian.net |
+| quk9.destinia.com.ar | destinia-com-ar.eulerian.net |
 | exd4.destinia.com.au | destinia-com-au.eulerian.net |
 | mud4.destinia.com.eg | destinia-com-eg.eulerian.net |
 | lio8.destinia.com.pa | destinia-com-pa.eulerian.net |
@@ -581,6 +585,7 @@
 | qpl9.destinia.dk | dsa.eulerian.net |
 | qtj0.destinia.pl | dsa.eulerian.net |
 | qtj0.destinia.pl | dsa.eulerian.net |
+| quk9.destinia.com.ar | dsa.eulerian.net |
 | qzl8.destinia.fi | dsa.eulerian.net |
 | rup5.destinia.ru | dsa.eulerian.net |
 | rup5.destinia.ru | dsa.eulerian.net |
@@ -815,6 +820,7 @@
 | hgf4.zanzicar.fr | et7.eulerian.net |
 | hgf4.zanzicar.fr | et7.eulerian.net |
 | mi.miliboo.be | et7.eulerian.net |
+| mi.miliboo.ch | et7.eulerian.net |
 | mi.miliboo.co.uk | et7.eulerian.net |
 | mi.miliboo.com | et7.eulerian.net |
 | mi.miliboo.de | et7.eulerian.net |
@@ -900,9 +906,7 @@
 | zkc5.fleurancenature.fr | frn.eulerian.net |
 | ef.futuroscope.com | futuroscope.eulerian.net |
 | ef.futuroscope.mobi | futuroscope.eulerian.net |
-| ea.galerieslafayette.com | galerieslafayette.eulerian.net |
 | du2k.bhv.fr | gl.eulerian.net |
-| ea.galerieslafayette.com | gl.eulerian.net |
 | ea.greenweez.de | greenweez-de.eulerian.net |
 | ea.greenweez.com | greenweez.eulerian.net |
 | ea.greenweez.de | greenweez.eulerian.net |
@@ -979,6 +983,7 @@
 | ea.melijoe.com | melijoe.eulerian.net |
 | mi.miliboo.com | mi.eulerian.net |
 | mi.miliboo.be | miliboo-be.eulerian.net |
+| mi.miliboo.ch | miliboo-ch.eulerian.net |
 | mi.miliboo.de | miliboo-de.eulerian.net |
 | mi.miliboo.es | miliboo-es.eulerian.net |
 | mi.miliboo.it | miliboo-it.eulerian.net |
@@ -1075,9 +1080,11 @@
 | euler.pmu.fr | pmu-rr.eulerian.net |
 | eule1.pmu.fr | pmu.eulerian.net |
 | eule3.pmu.fr | pmu.eulerian.net |
+| eule4.pmu.fr | pmu.eulerian.net |
 | eule5.pmu.fr | pmu.eulerian.net |
 | p.pmu.fr | pmu.eulerian.net |
 | pm.pmu.fr | pmu.eulerian.net |
+| ps.pmu.fr | pmu.eulerian.net |
 | qfo.eurotierce.be | pmu.eulerian.net |
 | qfo.eurotierce.be | pmu.eulerian.net |
 | t.pmu.fr | pmu.eulerian.net |

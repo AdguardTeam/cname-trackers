@@ -38,6 +38,7 @@ analytics.kerns.co CNAME .
 analytics.krieselreihe.com CNAME .
 analytics.kukla.club CNAME .
 analytics.lifestyledemocracy.com CNAME .
+analytics.littlekingdesigns.com CNAME .
 analytics.lunge.de CNAME .
 analytics.macklin.me CNAME .
 analytics.martin-fieber.de CNAME .
@@ -68,6 +69,7 @@ analytics.winter.ink CNAME .
 analytics.wittypen.com CNAME .
 analytics.wpsermons.com CNAME .
 analytics.xiloc.net CNAME .
+anneliese.scale.at CNAME .
 antitracking.owncast.online CNAME .
 ap.dt.gl CNAME .
 api.decentralize.today CNAME .
@@ -81,6 +83,7 @@ asclepius.nordenta.se CNAME .
 assets.garron.blog CNAME .
 assets.garron.me CNAME .
 assets.mikeroulston.com CNAME .
+assets.modeathletics.com CNAME .
 assets.webmanufaktur.ch CNAME .
 badwolf.open-election-compass.com CNAME .
 bees.beesbeesbeesbees.com CNAME .
@@ -304,6 +307,7 @@ sp.spaceomatic.fr CNAME .
 spock.dom.codes CNAME .
 spock.domjtalbot.codes CNAME .
 st.preciousamber.com CNAME .
+stat.bill.harding.blog CNAME .
 stat.landingpro.pl CNAME .
 stat.tomdebruijn.com CNAME .
 stat.umsu.de CNAME .
@@ -313,6 +317,7 @@ statistik.apartments-tirolerhaus.at CNAME .
 statistik.veronika-steiner.at CNAME .
 stats.4-camper.de CNAME .
 stats.45rpm.ch CNAME .
+stats.50x.ca CNAME .
 stats.69grad.de CNAME .
 stats.acadevor.com CNAME .
 stats.achtsame-yonimassage.de CNAME .
@@ -400,6 +405,7 @@ stats.dashbit.co CNAME .
 stats.davidlms.com CNAME .
 stats.deja-lu.de CNAME .
 stats.derekknight.tech CNAME .
+stats.designerpowerup.com CNAME .
 stats.deva.guru CNAME .
 stats.devenet.eu CNAME .
 stats.devenet.info CNAME .
@@ -408,10 +414,14 @@ stats.divemap.uk CNAME .
 stats.divyanshu013.dev CNAME .
 stats.dominikmayer.com CNAME .
 stats.doors.live CNAME .
+stats.dotnetos.org CNAME .
 stats.dreher-dreher.eu CNAME .
 stats.drewbolles.com CNAME .
 stats.drgomesp.dev CNAME .
+stats.dvy.io CNAME .
 stats.edovanroyen.com CNAME .
+stats.eightyfourrooms.com CNAME .
+stats.einsvieracht.de CNAME .
 stats.ekomenyong.com CNAME .
 stats.elementary.io CNAME .
 stats.elixir-lang.org CNAME .
@@ -535,7 +545,6 @@ stats.matthogg.fyi CNAME .
 stats.maurer-rides.de CNAME .
 stats.maximaconsulting.xyz CNAME .
 stats.mehulgohil.com CNAME .
-stats.melvingeorge.me CNAME .
 stats.mesenvies.fr CNAME .
 stats.micv.works CNAME .
 stats.migrantworker.ca CNAME .
@@ -632,6 +641,7 @@ stats.sublimesecurity.com CNAME .
 stats.suenicholls.com CNAME .
 stats.suf.one CNAME .
 stats.sunpeaksstables.com CNAME .
+stats.surveyhouse.app CNAME .
 stats.sushibyte.io CNAME .
 stats.svemir.co CNAME .
 stats.svenadolph.net CNAME .
@@ -659,6 +669,7 @@ stats.travelfodder.com CNAME .
 stats.tresor.one CNAME .
 stats.trimbles.ie CNAME .
 stats.trussed.dev CNAME .
+stats.twhl.xyz CNAME .
 stats.twirrl.co CNAME .
 stats.urlaubsverwaltung.cloud CNAME .
 stats.vanityprojects.com CNAME .
@@ -684,6 +695,7 @@ views.emikajewelry.com CNAME .
 views.sikerproducts.com CNAME .
 visitorcenter.srwild.com CNAME .
 visitors.asadis.net CNAME .
+visits.quitsocialmedia.club CNAME .
 visits.tommi.space CNAME .
 vitals.cgddrd.me CNAME .
 vole.amplenote.com CNAME .

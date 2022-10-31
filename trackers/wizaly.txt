@@ -45,6 +45,7 @@
 ||tk.conforama.fr^
 ||tk.dietbon.fr^
 ||tk.domitys.fr^
+||tk.dossier.co^
 ||tk.engie.fr^
 ||tk.etam.com^
 ||tk.healthwarehouse.com^

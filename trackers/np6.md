@@ -32,12 +32,14 @@
 | tr.actuentreprises.elior.fr | tracking.bp01.net |
 | tr.actupremium.com | tracking.bp01.net |
 | tr.actus-fdj.fr | tracking.bp01.net |
+| tr.alex.espmp-agfr.net | tracking.bp01.net |
 | tr.allopneus.com | tracking.bp01.net |
 | tr.animation.lexpress.fr | tracking.bp01.net |
 | tr.animation.micromania.fr | tracking.bp01.net |
 | tr.animations.bfmtv.com | tracking.bp01.net |
 | tr.apou032.espmp-agfr.net | tracking.bp01.net |
 | tr.asp002q.espmp-aufr.net | tracking.bp01.net |
+| tr.asp00a6.espmp-nifr.net | tracking.bp01.net |
 | tr.asp1.espmp-agfr.net | tracking.bp01.net |
 | tr.asp103z.espmp-nifr.net | tracking.bp01.net |
 | tr.asp104p.espmp-aufr.net | tracking.bp01.net |
@@ -45,6 +47,7 @@
 | tr.asp106g.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ar.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10bs.espmp-aufr.net | tracking.bp01.net |
+| tr.asp10ch.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10cr.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10hi.espmp-cufr.net | tracking.bp01.net |
 | tr.asp202u.espmp-cufr.net | tracking.bp01.net |
@@ -238,7 +241,6 @@
 | tr.info.caissenationalegendarme.fr | tracking.bp01.net |
 | tr.info.capfun.com | tracking.bp01.net |
 | tr.info.casino-proximites.fr | tracking.bp01.net |
-| tr.info.comparadordeprestamos.es | tracking.bp01.net |
 | tr.info.easyviaggio.com | tracking.bp01.net |
 | tr.info.easyviajar.com | tracking.bp01.net |
 | tr.info.easyvoyage.co.uk | tracking.bp01.net |

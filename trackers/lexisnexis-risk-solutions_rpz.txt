@@ -3,11 +3,14 @@
 ;
 ; online-metrix.net disguised trackers
 ;
+1bf86f4b.tictoc.ai CNAME .
 abc.pulsebet.com CNAME .
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 afd.bridgeapi.io CNAME .
 analytics.cheapcaribbean.com CNAME .
+analytics.funjet.com CNAME .
+analytics.triseptsolutions.com CNAME .
 api.v1.threatmetrix.space.ge CNAME .
 apicorporativops.portoseguro.com.br CNAME .
 app392.gerberlife.com CNAME .
@@ -62,10 +65,10 @@ cdntm.billpay.de CNAME .
 cdntm.firstdirect.com CNAME .
 cdntm.hangseng.com CNAME .
 cdntm.hsbc.co.uk CNAME .
-cdntm.hsbc.com.au CNAME .
 cdntm.hsbc.com.hk CNAME .
 cdntm.hsbc.com.mx CNAME .
 cdntm.hsbc.com.ph CNAME .
+cdntm.hsbc.com.sg CNAME .
 cdntm.hsbc.fr CNAME .
 cdntm.johnlewisfinance.com CNAME .
 cdntm.marksandspencer.com CNAME .
@@ -99,6 +102,7 @@ compliance.resortscasino.com CNAME .
 content.ageas.co.uk CNAME .
 content.allstate.com CNAME .
 content.alterna.ca CNAME .
+content.alternabank.ca CNAME .
 content.apruvd.com CNAME .
 content.asurion53.com CNAME .
 content.atmosphere.ca CNAME .
@@ -123,6 +127,7 @@ content.espace-client.hellobank.fr CNAME .
 content.etransfer.interac.ca CNAME .
 content.ezaem.ru CNAME .
 content.fisglobal.com CNAME .
+content.frs.fl.gov CNAME .
 content.gap.com CNAME .
 content.gapfactory.com CNAME .
 content.gaptechol.com CNAME .
@@ -131,6 +136,7 @@ content.hellobank.it CNAME .
 content.hellomobile.com CNAME .
 content.ibanking-services.com CNAME .
 content.ifpsoyyo.co CNAME .
+content.incredit.pl CNAME .
 content.interaconline.com CNAME .
 content.jackpotcitycasino.ca CNAME .
 content.koalafi.com CNAME .
@@ -149,6 +155,7 @@ content.mywisely.com CNAME .
 content.name.com CNAME .
 content.netcredit.pl CNAME .
 content.nubank.com.br CNAME .
+content.olympus.ao.com CNAME .
 content.online.adp.com CNAME .
 content.orixbank.co.jp CNAME .
 content.partycity.ca CNAME .
@@ -199,9 +206,11 @@ content22.retailservicescommercial.citi.com CNAME .
 content3.lexisnexisrisk.com CNAME .
 content4c.iberia.com CNAME .
 content9.lendingtree.com CNAME .
+contentfd.directcapital.com CNAME .
 contentimage.fretebras.com.br CNAME .
 contentinfo.tcdrs.org CNAME .
 contentmx.okcoin.com CNAME .
+contentservices.ascendloans.com CNAME .
 contentservices.brightlending.com CNAME .
 creditcheck.digitecgalaxus.ch CNAME .
 css.sportsbet.io CNAME .
@@ -217,6 +226,7 @@ ddc-test.worldpay.com CNAME .
 ddc.worldpay.com CNAME .
 de9c635aa0404558bd527220ef4e6b4b.betway.ca CNAME .
 debs.my100bank.com CNAME .
+dep.gambit3.gameassists.co.uk CNAME .
 deviceauth.dmv.ca.gov CNAME .
 devicecontent.icuracao.com CNAME .
 df.greenmangaming.com CNAME .
@@ -228,7 +238,9 @@ dii.bankaust.com.au CNAME .
 directinfo.ib.mizuhobank.co.jp CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
+dvc0271.play.jackpocket.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
+enligne.bnc.ca CNAME .
 event.evtm.53.com CNAME .
 faas.2dehands.be CNAME .
 faas.2ememain.be CNAME .
@@ -293,6 +305,7 @@ info.betway.bg CNAME .
 info.betway.co.za CNAME .
 info.betway.fr CNAME .
 intlsdpntrca.nitrocasino.ca CNAME .
+irmp.caa.com CNAME .
 jj203.equitablebank.ca CNAME .
 jytrnq.cm-cic.com CNAME .
 lab4.lloydsbank.com CNAME .
@@ -343,8 +356,10 @@ profiling.digitalbusiness.cibc.com CNAME .
 ptm.creditas.com CNAME .
 qrimages.qatarairways.com CNAME .
 qtbm.fundourselves.com CNAME .
+qtbm.welendus.com CNAME .
 query.capitalontap.com CNAME .
 r7s.scl.swisscom.ch CNAME .
+ranzg.rabobank.com.au CNAME .
 rauth.chubb.com CNAME .
 rba-screen.healthsafe-id.com CNAME .
 rba-screen.myuhc.com CNAME .
@@ -391,6 +406,7 @@ securecheckout.halloweencostumes.com CNAME .
 secured.netflix.com CNAME .
 sitehelper.optimizemoney.com CNAME .
 solstice.ibotta.com CNAME .
+sptbb.pilates.com CNAME .
 src.ebay-us.com CNAME .
 ssafp.samsclub.com CNAME .
 st10.sofi.com CNAME .
@@ -445,7 +461,9 @@ t1.tacdn.com CNAME .
 t1.welab.bank CNAME .
 t42rsn90.uplift.com CNAME .
 tag.findyourunclaimedproperty.com CNAME .
+tag.icash.illinoistreasurer.gov CNAME .
 tag.mycash.utah.gov CNAME .
+tags.api.openaccount.rbs.co.uk CNAME .
 tags.bankline.natwest.com CNAME .
 tags.dazn.com CNAME .
 tags.emirates.com CNAME .
@@ -511,6 +529,7 @@ tmcontent.imvu.com CNAME .
 tmcontent.motusbank.ca CNAME .
 tmetrix.my.chick-fil-a.com CNAME .
 tmfp.klarna.com CNAME .
+tmi.my529.org CNAME .
 tmln.caesarscasino.com CNAME .
 tmrpe.astrazeneca.com CNAME .
 tms.paysafe.com CNAME .
@@ -563,8 +582,10 @@ w3.nsbank.com CNAME .
 w3.vectrabank.com CNAME .
 w3.zionsbank.com CNAME .
 wp.kroger.com CNAME .
+ww3.marlincapitalsolutions.com CNAME .
 ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
 www7.raise.com CNAME .
 ydkwim.targobank.de CNAME .
 yfp.intuit.com CNAME .
+yr3ioxw.hoaresbank.co.uk CNAME .

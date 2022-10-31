@@ -9,6 +9,7 @@ a8.01cloud.jp
 a8.abemashopping.jp
 a8.aim-beauty-medicalclinic.com
 a8.biglobe.openplat.jp
+a8.bousui-pro.com
 a8.brandcosme.com
 a8.clubgets.com
 a8.cocomeister.jp
@@ -124,6 +125,7 @@ a8clk.cv.geechs-job.com
 a8clk.cv.mensfashion.cc
 a8clk.cv.onedenki.jp
 a8clk.cv.warau.jp
+a8clk.dfashion.docomo.ne.jp
 a8clk.digicafe.jp
 a8clk.doda.jp
 a8clk.dospara.co.jp
@@ -172,6 +174,7 @@ a8clk.rarejob.com
 a8clk.rdlp.jp
 a8clk.recycle-net.jp
 a8clk.rental.geo-online.co.jp
+a8clk.reserve.retty.me
 a8clk.rf28.com
 a8clk.risou.com
 a8clk.secure.jetboy.jp
@@ -210,6 +213,7 @@ a8cv.all-plan.co.jp
 a8cv.amiami.jp
 a8cv.anapnet.com
 a8cv.araiba.net
+a8cv.atami-box.com
 a8cv.b-concept.tokyo
 a8cv.be-slim-spbikyou.com
 a8cv.bettysbeauty.jp
@@ -222,6 +226,7 @@ a8cv.busbookmark.jp
 a8cv.catal.jp
 a8cv.chillaxy.jp
 a8cv.coopnet.or.jp
+a8cv.daini-agent.jp
 a8cv.danjiki-net.jp
 a8cv.direct-teleshop.jp
 a8cv.dokoyorimo.com
@@ -265,6 +270,7 @@ a8cv.minnano-eikaiwa.com
 a8cv.modern-deco.jp
 a8cv.momiji-tantei.com
 a8cv.mustachejapan.com
+a8cv.oceanprincess.jp
 a8cv.ogaland.com
 a8cv.omni7.jp
 a8cv.one-netbook.jp
@@ -393,6 +399,7 @@ cv.zephylrin-w.com
 cv.zephylrin-x.net
 cv1.stefany.co.jp
 kaden.netoff.co.jp
+rsv.dankore.jp
 shop.anu-cosme.com
 shopping.cellpure.co.jp
 sokutei.car2828.jp

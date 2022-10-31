@@ -14,9 +14,7 @@
     * arrietty-nrj-fr-cddc.at-o.net
     * at-badische-zeitung-de-cddc.at-o.net
     * at-cddc-actu-juridique-fr-cddc.at-o.net
-    * at-pagesjaunes-fr-cddc.at-o.net
     * atconnect-npo-nl-cddc.at-o.net
-    * atxqb-psychologies-com-cddc.at-o.net
     * avocado-laprovence-com-cddc.at-o.net
     * avp-labanquepostale-fr-cddc.at-o.net
     * blava-viessmann-sk-cddc.at-o.net
@@ -34,6 +32,7 @@
     * culture-intermedes-com-cddc.at-o.net
     * d-doctipharma-fr-cddc.at-o.net
     * d-m-net-de-cddc.at-o.net
+    * d-santemagazine-fr-cddc.at-o.net
     * d-uni-medias-com-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
     * dimensions-mappy-com-cddc.at-o.net
@@ -124,9 +123,7 @@
 | arrietty.nrj.fr | arrietty-nrj-fr-cddc.at-o.net |
 | at.badische-zeitung.de | at-badische-zeitung-de-cddc.at-o.net |
 | at-cddc.actu-juridique.fr | at-cddc-actu-juridique-fr-cddc.at-o.net |
-| at.pagesjaunes.fr | at-pagesjaunes-fr-cddc.at-o.net |
 | atconnect.npo.nl | atconnect-npo-nl-cddc.at-o.net |
-| atxqb.psychologies.com | atxqb-psychologies-com-cddc.at-o.net |
 | avocado.laprovence.com | avocado-laprovence-com-cddc.at-o.net |
 | avp.labanquepostale.fr | avp-labanquepostale-fr-cddc.at-o.net |
 | blava.viessmann.sk | blava-viessmann-sk-cddc.at-o.net |
@@ -144,6 +141,7 @@
 | culture.intermedes.com | culture-intermedes-com-cddc.at-o.net |
 | d.doctipharma.fr | d-doctipharma-fr-cddc.at-o.net |
 | d.m-net.de | d-m-net-de-cddc.at-o.net |
+| d.santemagazine.fr | d-santemagazine-fr-cddc.at-o.net |
 | d.uni-medias.com | d-uni-medias-com-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |
 | dimensions.mappy.com | dimensions-mappy-com-cddc.at-o.net |

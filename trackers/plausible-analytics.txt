@@ -38,6 +38,7 @@
 ||analytics.krieselreihe.com^
 ||analytics.kukla.club^
 ||analytics.lifestyledemocracy.com^
+||analytics.littlekingdesigns.com^
 ||analytics.lunge.de^
 ||analytics.macklin.me^
 ||analytics.martin-fieber.de^
@@ -68,6 +69,7 @@
 ||analytics.wittypen.com^
 ||analytics.wpsermons.com^
 ||analytics.xiloc.net^
+||anneliese.scale.at^
 ||antitracking.owncast.online^
 ||ap.dt.gl^
 ||api.decentralize.today^
@@ -81,6 +83,7 @@
 ||assets.garron.blog^
 ||assets.garron.me^
 ||assets.mikeroulston.com^
+||assets.modeathletics.com^
 ||assets.webmanufaktur.ch^
 ||badwolf.open-election-compass.com^
 ||bees.beesbeesbeesbees.com^
@@ -304,6 +307,7 @@
 ||spock.dom.codes^
 ||spock.domjtalbot.codes^
 ||st.preciousamber.com^
+||stat.bill.harding.blog^
 ||stat.landingpro.pl^
 ||stat.tomdebruijn.com^
 ||stat.umsu.de^
@@ -313,6 +317,7 @@
 ||statistik.veronika-steiner.at^
 ||stats.4-camper.de^
 ||stats.45rpm.ch^
+||stats.50x.ca^
 ||stats.69grad.de^
 ||stats.acadevor.com^
 ||stats.achtsame-yonimassage.de^
@@ -400,6 +405,7 @@
 ||stats.davidlms.com^
 ||stats.deja-lu.de^
 ||stats.derekknight.tech^
+||stats.designerpowerup.com^
 ||stats.deva.guru^
 ||stats.devenet.eu^
 ||stats.devenet.info^
@@ -408,10 +414,14 @@
 ||stats.divyanshu013.dev^
 ||stats.dominikmayer.com^
 ||stats.doors.live^
+||stats.dotnetos.org^
 ||stats.dreher-dreher.eu^
 ||stats.drewbolles.com^
 ||stats.drgomesp.dev^
+||stats.dvy.io^
 ||stats.edovanroyen.com^
+||stats.eightyfourrooms.com^
+||stats.einsvieracht.de^
 ||stats.ekomenyong.com^
 ||stats.elementary.io^
 ||stats.elixir-lang.org^
@@ -535,7 +545,6 @@
 ||stats.maurer-rides.de^
 ||stats.maximaconsulting.xyz^
 ||stats.mehulgohil.com^
-||stats.melvingeorge.me^
 ||stats.mesenvies.fr^
 ||stats.micv.works^
 ||stats.migrantworker.ca^
@@ -632,6 +641,7 @@
 ||stats.suenicholls.com^
 ||stats.suf.one^
 ||stats.sunpeaksstables.com^
+||stats.surveyhouse.app^
 ||stats.sushibyte.io^
 ||stats.svemir.co^
 ||stats.svenadolph.net^
@@ -659,6 +669,7 @@
 ||stats.tresor.one^
 ||stats.trimbles.ie^
 ||stats.trussed.dev^
+||stats.twhl.xyz^
 ||stats.twirrl.co^
 ||stats.urlaubsverwaltung.cloud^
 ||stats.vanityprojects.com^
@@ -684,6 +695,7 @@
 ||views.sikerproducts.com^
 ||visitorcenter.srwild.com^
 ||visitors.asadis.net^
+||visits.quitsocialmedia.club^
 ||visits.tommi.space^
 ||vitals.cgddrd.me^
 ||vole.amplenote.com^

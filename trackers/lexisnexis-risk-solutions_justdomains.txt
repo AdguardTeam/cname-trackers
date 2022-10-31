@@ -3,11 +3,14 @@
 #
 # online-metrix.net disguised trackers
 #
+1bf86f4b.tictoc.ai
 abc.pulsebet.com
 acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
 afd.bridgeapi.io
 analytics.cheapcaribbean.com
+analytics.funjet.com
+analytics.triseptsolutions.com
 api.v1.threatmetrix.space.ge
 apicorporativops.portoseguro.com.br
 app392.gerberlife.com
@@ -62,10 +65,10 @@ cdntm.billpay.de
 cdntm.firstdirect.com
 cdntm.hangseng.com
 cdntm.hsbc.co.uk
-cdntm.hsbc.com.au
 cdntm.hsbc.com.hk
 cdntm.hsbc.com.mx
 cdntm.hsbc.com.ph
+cdntm.hsbc.com.sg
 cdntm.hsbc.fr
 cdntm.johnlewisfinance.com
 cdntm.marksandspencer.com
@@ -99,6 +102,7 @@ compliance.resortscasino.com
 content.ageas.co.uk
 content.allstate.com
 content.alterna.ca
+content.alternabank.ca
 content.apruvd.com
 content.asurion53.com
 content.atmosphere.ca
@@ -123,6 +127,7 @@ content.espace-client.hellobank.fr
 content.etransfer.interac.ca
 content.ezaem.ru
 content.fisglobal.com
+content.frs.fl.gov
 content.gap.com
 content.gapfactory.com
 content.gaptechol.com
@@ -131,6 +136,7 @@ content.hellobank.it
 content.hellomobile.com
 content.ibanking-services.com
 content.ifpsoyyo.co
+content.incredit.pl
 content.interaconline.com
 content.jackpotcitycasino.ca
 content.koalafi.com
@@ -149,6 +155,7 @@ content.mywisely.com
 content.name.com
 content.netcredit.pl
 content.nubank.com.br
+content.olympus.ao.com
 content.online.adp.com
 content.orixbank.co.jp
 content.partycity.ca
@@ -199,9 +206,11 @@ content22.retailservicescommercial.citi.com
 content3.lexisnexisrisk.com
 content4c.iberia.com
 content9.lendingtree.com
+contentfd.directcapital.com
 contentimage.fretebras.com.br
 contentinfo.tcdrs.org
 contentmx.okcoin.com
+contentservices.ascendloans.com
 contentservices.brightlending.com
 creditcheck.digitecgalaxus.ch
 css.sportsbet.io
@@ -217,6 +226,7 @@ ddc-test.worldpay.com
 ddc.worldpay.com
 de9c635aa0404558bd527220ef4e6b4b.betway.ca
 debs.my100bank.com
+dep.gambit3.gameassists.co.uk
 deviceauth.dmv.ca.gov
 devicecontent.icuracao.com
 df.greenmangaming.com
@@ -228,7 +238,9 @@ dii.bankaust.com.au
 directinfo.ib.mizuhobank.co.jp
 dpf.authorize.net
 drfdisvc.walmart.com
+dvc0271.play.jackpocket.com
 ela1.bankofscotland.co.uk
+enligne.bnc.ca
 event.evtm.53.com
 faas.2dehands.be
 faas.2ememain.be
@@ -293,6 +305,7 @@ info.betway.bg
 info.betway.co.za
 info.betway.fr
 intlsdpntrca.nitrocasino.ca
+irmp.caa.com
 jj203.equitablebank.ca
 jytrnq.cm-cic.com
 lab4.lloydsbank.com
@@ -343,8 +356,10 @@ profiling.digitalbusiness.cibc.com
 ptm.creditas.com
 qrimages.qatarairways.com
 qtbm.fundourselves.com
+qtbm.welendus.com
 query.capitalontap.com
 r7s.scl.swisscom.ch
+ranzg.rabobank.com.au
 rauth.chubb.com
 rba-screen.healthsafe-id.com
 rba-screen.myuhc.com
@@ -391,6 +406,7 @@ securecheckout.halloweencostumes.com
 secured.netflix.com
 sitehelper.optimizemoney.com
 solstice.ibotta.com
+sptbb.pilates.com
 src.ebay-us.com
 ssafp.samsclub.com
 st10.sofi.com
@@ -445,7 +461,9 @@ t1.tacdn.com
 t1.welab.bank
 t42rsn90.uplift.com
 tag.findyourunclaimedproperty.com
+tag.icash.illinoistreasurer.gov
 tag.mycash.utah.gov
+tags.api.openaccount.rbs.co.uk
 tags.bankline.natwest.com
 tags.dazn.com
 tags.emirates.com
@@ -511,6 +529,7 @@ tmcontent.imvu.com
 tmcontent.motusbank.ca
 tmetrix.my.chick-fil-a.com
 tmfp.klarna.com
+tmi.my529.org
 tmln.caesarscasino.com
 tmrpe.astrazeneca.com
 tms.paysafe.com
@@ -563,8 +582,10 @@ w3.nsbank.com
 w3.vectrabank.com
 w3.zionsbank.com
 wp.kroger.com
+ww3.marlincapitalsolutions.com
 ww9.lloydsbank.com
 www.cdna.cofidis.be
 www7.raise.com
 ydkwim.targobank.de
 yfp.intuit.com
+yr3ioxw.hoaresbank.co.uk
