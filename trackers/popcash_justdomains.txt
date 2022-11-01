@@ -58,6 +58,7 @@ alligator.remotecyberwork.com
 alpaca.miidbaby.com
 alpaca.reclaimthenet.org
 alpaca.thesocialmedwork.com
+alpaca.wingmantracker.com
 am2lma0ay.xrpmerchstore.com
 amphibian.juergenhaller.at
 amphibian.pinestc.com
@@ -72,15 +73,18 @@ anteater.benborgers.com
 anteater.playuncovr.xyz
 anteater.stella-projects.de
 antelope.johndbeatty.com
+antelope.targetinternet.com
 antelope.u3a.com.au
 antlion.launch.fyi
 ape.maximzubarev.com
 ape.mfj.se
 ape.nusii.com
 ape.pytch.co.uk
+ape.smartplanschema.se
 armadillo.axeneo7.qc.ca
 armadillo.gothiacup.se
 armadillo.stacking.club
+asp.chop-shop.com.au
 azlej8cdm.pragmaticwebsecurity.com
 baboon.vacanti.com
 badger.bytesized.xyz
@@ -171,6 +175,7 @@ coyote.12gem.me
 coyote.alboweb.nl
 coyote.gnx.cloud
 coyote.nickgurney.com
+coyote.txet.ch
 crane.maggsgroup.com
 crane.thegardenroomguide.co.uk
 crane.trescolori.cloud
@@ -188,6 +193,7 @@ dakqbwpduu.coywolf.io
 deer.ray.io
 dingo.harmanly.com
 dog.christinamoore.us
+dog.franchisesocial.co.uk
 dog.ghvenue.com
 dog.justsketch.me
 dog.orbit.love
@@ -281,6 +287,7 @@ guppy.ausowned.com.au
 guppy.directlyapply.com
 haddock.affilimate.com
 haddock.jeffreyknox.dev
+haddock.simgenie.app
 halibut.codehooks.io
 hamster.consentkit.io
 hare.felix-schmid.de
@@ -328,6 +335,7 @@ ladybug.paulstovell.com
 landfowl.typegang.com
 landsnail.bindle.io
 landsnail.brownfield.dev
+leech.fuchsegg.at
 leech.privacycloud.com
 leech.stargate-project.de
 leopard.ui-snippets.dev
@@ -558,6 +566,7 @@ tortoise.mdx.one
 tortoise.transistor.fm
 toucan.ateliermilky.com
 toucan.lgbtjobsearch.com
+treefrog.socialmarketinggateway.co.uk
 trout.travelmassive.com
 tuna.ajaymantri.com
 turkey.docsy.cloud
@@ -648,12 +657,12 @@ cdn.admatic.com.tr
 #
 consent.cookiefirst.com
 #
-# qualdnt.b-cdn.net disguised trackers
-#
-dntcl.qualaroo.com
-#
 # b-cdn.net disguised trackers
 #
+contact-gloss-production.accelerator.net
+dntcl.qualaroo.com
 hp-laserjet.printer-repair-experts.net
 log.ads-m.net
 media.adstatic.com
+sp.gifthome.co.uk
+sp.pakibanks.com

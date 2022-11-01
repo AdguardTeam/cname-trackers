@@ -79,6 +79,7 @@ eltern.met.vgwort.de CNAME .
 faz.met.vgwort.de CNAME .
 fr-online.met.vgwort.de CNAME .
 gala.met.vgwort.de CNAME .
+idgentertain.met.vgwort.de CNAME .
 idgmagazine.met.vgwort.de CNAME .
 juris.met.vgwort.de CNAME .
 n-tv.met.vgwort.de CNAME .
@@ -95,6 +96,7 @@ taz.met.vgwort.de CNAME .
 vg00.met.vgwort.de CNAME .
 vg08.met.vgwort.de CNAME .
 waz.met.vgwort.de CNAME .
+welt.met.vgwort.de CNAME .
 wolterskluwer.met.vgwort.de CNAME .
 ;
 ; bm-eavis.tns-dk.2cnt.net disguised trackers
@@ -184,13 +186,9 @@ geo.met.vgwort.de CNAME .
 ;
 helpster.met.vgwort.de CNAME .
 ;
-; idgmagazine.vgwort-de.2cnt.net disguised trackers
+; idgentertain.vgwort-de.2cnt.net disguised trackers
 ;
-idgmagazine.met.vgwort.de CNAME .
-;
-; juris.vgwort-de.2cnt.net disguised trackers
-;
-juris.met.vgwort.de CNAME .
+idgentertain.met.vgwort.de CNAME .
 ;
 ; kr.vgwort-de.2cnt.net disguised trackers
 ;
@@ -223,10 +221,6 @@ merkur.met.vgwort.de CNAME .
 ; n-tv.vgwort-de.2cnt.net disguised trackers
 ;
 n-tv.met.vgwort.de CNAME .
-;
-; nomos.vgwort-de.2cnt.net disguised trackers
-;
-nomos.met.vgwort.de CNAME .
 ;
 ; pl01.prolitteris.2cnt.net disguised trackers
 ;
@@ -297,10 +291,6 @@ ssl-drhbbtv.tns-gallup.dk CNAME .
 ssl-econa.met.vgwort.de CNAME .
 ;
 ; slb-tns-dk-pool03.tns-dk.2cnt.net disguised trackers
-;
-ssl-eurosportandroidstream.tns-gallup.dk CNAME .
-;
-; ssl-eurosportandroidstream.tns-dk.2cnt.net disguised trackers
 ;
 ssl-eurosportandroidstream.tns-gallup.dk CNAME .
 ;
@@ -393,10 +383,6 @@ ssl-tv2iam.tns-gallup.dk CNAME .
 ssl-vg03.met.vgwort.de CNAME .
 ;
 ; slb-tns-dk-pool04.tns-dk.2cnt.net disguised trackers
-;
-ssl-viaplaystream.tns-gallup.dk CNAME .
-;
-; ssl-viaplaystream.tns-dk.2cnt.net disguised trackers
 ;
 ssl-viaplaystream.tns-gallup.dk CNAME .
 ;
@@ -500,15 +486,15 @@ waz.met.vgwort.de CNAME .
 ;
 weeka-eavis.tns-gallup.dk CNAME .
 ;
+; welt.vgwort-de.2cnt.net disguised trackers
+;
+welt.met.vgwort.de CNAME .
+;
 ; wiley.vgwort-de.2cnt.net disguised trackers
 ;
 wiley.met.vgwort.de CNAME .
 ;
 ; slb-tns-dk-pool08.tns-dk.2cnt.net disguised trackers
-;
-youseeandroidstream.tns-gallup.dk CNAME .
-;
-; youseeandroidstream.tns-dk.2cnt.net disguised trackers
 ;
 youseeandroidstream.tns-gallup.dk CNAME .
 ;

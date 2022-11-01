@@ -10,8 +10,11 @@
 ||afd.bridgeapi.io^
 ||analytics.cheapcaribbean.com^
 ||analytics.funjet.com^
+||analytics.nowresorts.com^
 ||analytics.triseptsolutions.com^
+||analytics.vaxvacationaccess.com^
 ||api.v1.threatmetrix.space.ge^
+||api1.sfcu.org^
 ||apicorporativops.portoseguro.com.br^
 ||app392.gerberlife.com^
 ||appschk.scotiabank.com^
@@ -26,8 +29,10 @@
 ||barnacle.tommybahama.com^
 ||black-cat.crypto.com^
 ||caveo.boost-my.com^
+||cbcdn.lloydsbank.com^
 ||ccf.prod.fedex.com^
 ||cda.thecardservicescenter.com^
+||cdn-east.purchase.goto.com^
 ||cdn-s.chumbacasino.com^
 ||cdn-s.dev.chumbacasino.com^
 ||cdn-s.dev.globalpoker.com^
@@ -117,6 +122,7 @@
 ||content.connexion-mabanque.bnpparibas^
 ||content.consumercardaccess.com^
 ||content.ctfs.com^
+||content.digital-credit.app^
 ||content.digital.citbank.com^
 ||content.discover.com^
 ||content.discovercard.com^
@@ -149,6 +155,7 @@
 ||content.marks.com^
 ||content.massmutual.com^
 ||content.maxconnector.com^
+||content.moneza.lv^
 ||content.moneza.ru^
 ||content.moni.com.ar^
 ||content.mywisely.com^
@@ -162,8 +169,10 @@
 ||content.personifyfinancial.com^
 ||content.pledg.co^
 ||content.pnbank.com.au^
+||content.qlinkwireless.com^
 ||content.qudosbank.com.au^
 ||content.quicken.com^
+||content.realquest.com^
 ||content.royalairmaroc.com^
 ||content.rubyfortune.ca^
 ||content.sheerid.com^
@@ -173,6 +182,7 @@
 ||content.tab.com.au^
 ||content.telusinternational.ai^
 ||content.usps.com^
+||content.washingtonnational.com^
 ||content.wizink.es^
 ||content1.reprisefinancial.com^
 ||content2.instacart.com^
@@ -227,6 +237,7 @@
 ||de9c635aa0404558bd527220ef4e6b4b.betway.ca^
 ||debs.my100bank.com^
 ||dep.gambit3.gameassists.co.uk^
+||dept.provantage.com^
 ||deviceauth.dmv.ca.gov^
 ||devicecontent.icuracao.com^
 ||df.greenmangaming.com^
@@ -297,6 +308,7 @@
 ||img3.paylesscar.com^
 ||img4.cargurus.com^
 ||img4.portal.citidirect.com^
+||img4.uscellular.com^
 ||img9.target.com^
 ||imgcdn.genworth.com^
 ||imgl2.hardrockcasino.com^
@@ -353,6 +365,7 @@
 ||portal-fp.threatmetrix.com^
 ||pov.spectrum.net^
 ||profiling.digitalbusiness.cibc.com^
+||profiling.qacitizensbankonline.com^
 ||ptm.creditas.com^
 ||qrimages.qatarairways.com^
 ||qtbm.fundourselves.com^
@@ -384,7 +397,11 @@
 ||scdn.missionlane.com^
 ||scontent.aquacard.co.uk^
 ||scontent.bip.credit^
+||scontent.fluid.co.uk^
+||scontent.marbles.com^
+||scontent.newdaycards.com^
 ||sec.hikaritv.net^
+||sec.lin101.mail.goo.ne.jp^
 ||sec.login.mail.goo.ne.jp^
 ||sec.login.ocn.ne.jp^
 ||sec.mypage.ocn.ne.jp^
@@ -444,6 +461,7 @@
 ||t.online.fortfinancial.org^
 ||t.online.jaxfcu.org^
 ||t.online.lafcu.org^
+||t.online.navigatorcu.org^
 ||t.online.oneazcreditunion.com^
 ||t.online.vsecu.com^
 ||t.online.westerlyccu.com^
@@ -463,10 +481,13 @@
 ||tag.findyourunclaimedproperty.com^
 ||tag.icash.illinoistreasurer.gov^
 ||tag.mycash.utah.gov^
+||tag.ucp.dor.wa.gov^
 ||tags.api.openaccount.rbs.co.uk^
 ||tags.bankline.natwest.com^
+||tags.bankline.rbs.com^
 ||tags.dazn.com^
 ||tags.emirates.com^
+||tags.eq.natwestinternational.com^
 ||tags.greenfeatheronline.com^
 ||tags.ipp-services.eu^
 ||tags.natwest.com^
@@ -502,6 +523,7 @@
 ||tm.betano.de^
 ||tm.cbd.ae^
 ||tm.cox.com^
+||tm.creditcheck.illion.com.au^
 ||tm.creditsimple.co.nz^
 ||tm.cybersource.com^
 ||tm.directly.com^
@@ -515,6 +537,7 @@
 ||tm.production.eu1.tmfp.klarna.net^
 ||tm.promotion-cdn.com^
 ||tm.regions.com^
+||tm.regionsqa.com^
 ||tm.solidgate.com^
 ||tm.stats.home24.de^
 ||tm.stoiximan.gr^
@@ -540,6 +563,7 @@
 ||tmx.efsllc.com^
 ||tmx.kijiji.ca^
 ||tmx.pampersrewards.com^
+||tmx.pat.td.com^
 ||tmx.td.com^
 ||tmx.tdbank.com^
 ||tmx.uptodate.com^
@@ -566,6 +590,7 @@
 ||v.sagasavings.co.uk^
 ||valcontent.securustech.net^
 ||validacionlx.agaval.com^
+||venus.chegg.com^
 ||verify.metlife.com^
 ||verify.philippineairlines.com^
 ||vir.purepoint.com^
@@ -582,6 +607,7 @@
 ||w3.vectrabank.com^
 ||w3.zionsbank.com^
 ||wp.kroger.com^
+||ww3.fundingstream.com^
 ||ww3.marlincapitalsolutions.com^
 ||ww9.lloydsbank.com^
 ||www.cdna.cofidis.be^

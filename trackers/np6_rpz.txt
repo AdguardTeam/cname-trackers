@@ -134,8 +134,10 @@ tr.devis-express.be CNAME .
 tr.devis-professionnels.com CNAME .
 tr.devis.digital CNAME .
 tr.devize-companeo.ro CNAME .
+tr.digitaldigest.lvmh.com CNAME .
 tr.dirigeants.harmonie-mutuelle.fr CNAME .
 tr.discover.perfectstay.com CNAME .
+tr.djay.espmp-agfr.net CNAME .
 tr.docapost-sirs.com CNAME .
 tr.donateur.afm-telethon.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
@@ -143,6 +145,7 @@ tr.e-mail.axa.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
 tr.e.trouver-un-logement-neuf.com CNAME .
 tr.easy-offertes.be CNAME .
+tr.ecologie-shop.espmp-agfr.net CNAME .
 tr.em.cdiscount-pro.com CNAME .
 tr.em.cdiscountpro.com CNAME .
 tr.email.aeroexpo.online CNAME .
@@ -350,6 +353,7 @@ tr.news.casinodrive.fr CNAME .
 tr.news.casinomax.fr CNAME .
 tr.news.cdiscount.com CNAME .
 tr.news.chapsvision.com CNAME .
+tr.news.chilican.com CNAME .
 tr.news.companeo.es CNAME .
 tr.news.corsicalinea.com CNAME .
 tr.news.cotemaison.fr CNAME .
@@ -468,6 +472,7 @@ tr.notification-gdpr.bnpparibas-personalfinance.fr CNAME .
 tr.notification-gdpr.bnpparibas-pf.fr CNAME .
 tr.notification-gdpr.cafineo.fr CNAME .
 tr.notification-gdpr.cofinoga.fr CNAME .
+tr.notification-gdpr.credit-moderne.fr CNAME .
 tr.notification-gdpr.domofinance.fr CNAME .
 tr.notification-gdpr.loisirs-finance.fr CNAME .
 tr.notification-gdpr.personal-finance-location.bnpparibas CNAME .
@@ -493,6 +498,7 @@ tr.orange-lease.fr CNAME .
 tr.orcamentos-companeo.pt CNAME .
 tr.oxatis.devisdirect.com CNAME .
 tr.panels-mediametrie.fr CNAME .
+tr.part.offres-cartegie.fr CNAME .
 tr.partenaire.manageo.info CNAME .
 tr.particuliers8.engie.com CNAME .
 tr.pole-emploi-services.com CNAME .
@@ -505,6 +511,7 @@ tr.preventivo.risparmiazienda.it CNAME .
 tr.pro.odalys-vacances.com CNAME .
 tr.projet.cotemaison.fr CNAME .
 tr.promotion.lexpress.fr CNAME .
+tr.publicisdrugstore.espmp-agfr.net CNAME .
 tr.qualitaetsumfrage.com CNAME .
 tr.qualitaveicolo.com CNAME .
 tr.qualite.groupebarriere.com CNAME .
@@ -524,6 +531,7 @@ tr.redaction.essentiel-sante-magazine.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .
 tr.relation.uneo.fr CNAME .
 tr.route-solutiondata.fr CNAME .
+tr.roxi02e.espmp-agfr.net CNAME .
 tr.sash.espmp-aufr.net CNAME .
 tr.satisfaction.alinea.com CNAME .
 tr.satisfaction.groupe-pv-cp.com CNAME .
@@ -561,12 +569,16 @@ tr.trafficnews.lyria.com CNAME .
 tr.ujsv.espmp-agfr.net CNAME .
 tr.uk.icicibank.com CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .
+tr.urfk03h.espmp-nifr.net CNAME .
+tr.urfk03q.espmp-nifr.net CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .
 tr.urfk044.espmp-nifr.net CNAME .
 tr.urfk057.espmp-aufr.net CNAME .
+tr.urfk05g.espmp-agfr.net CNAME .
 tr.urfk05l.espmp-nifr.net CNAME .
 tr.urfk06h.espmp-nifr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
+tr.urfk07j.espmp-nifr.net CNAME .
 tr.urfk07s.espmp-nifr.net CNAME .
 tr.videofutur.fr CNAME .
 tr.ville.bordeaux.fr CNAME .
@@ -603,6 +615,7 @@ www.newsletter.banquepopulaire.fr CNAME .
 ; form.bp01.net disguised trackers
 ;
 cotemaison.np6.com CNAME .
+f1.mailperf.com CNAME .
 f1.mailperformance.com CNAME .
 f1.np6.com CNAME .
 lbv5.mperf.com CNAME .

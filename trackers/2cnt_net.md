@@ -34,8 +34,7 @@
 * gala.vgwort-de.2cnt.net
 * geo.vgwort-de.2cnt.net
 * helpster.vgwort-de.2cnt.net
-* idgmagazine.vgwort-de.2cnt.net
-* juris.vgwort-de.2cnt.net
+* idgentertain.vgwort-de.2cnt.net
 * kr.vgwort-de.2cnt.net
 * krak.tns-dk.2cnt.net
 * kristeligtdagblad.tns-dk.2cnt.net
@@ -44,7 +43,6 @@
 * manager.vgwort-de.2cnt.net
 * merkur.vgwort-de.2cnt.net
 * n-tv.vgwort-de.2cnt.net
-* nomos.vgwort-de.2cnt.net
 * pl01.prolitteris.2cnt.net
 * rejseplanen.tns-dk.2cnt.net
 * rtl.vgwort-de.2cnt.net
@@ -63,7 +61,6 @@
 * ssl-drhbbtv.tns-dk.2cnt.net
 * ssl-econa.vgwort-de.2cnt.net
 * slb-tns-dk-pool03.tns-dk.2cnt.net
-* ssl-eurosportandroidstream.tns-dk.2cnt.net
 * ssl-focus.vgwort-de.2cnt.net
 * slb-tns-dk-pool10.tns-dk.2cnt.net
 * ssl-gafiam.tns-dk.2cnt.net
@@ -87,7 +84,6 @@
 * ssl-tv2iam.tns-dk.2cnt.net
 * ssl-vg03.vgwort-de.2cnt.net
 * slb-tns-dk-pool04.tns-dk.2cnt.net
-* ssl-viaplaystream.tns-dk.2cnt.net
 * ssl-weeka-eavis.tns-dk.2cnt.net
 * ssl-weka.vgwort-de.2cnt.net
 * ssl-welt.vgwort-de.2cnt.net
@@ -113,9 +109,9 @@
 * vogel.vgwort-de.2cnt.net
 * waz.vgwort-de.2cnt.net
 * weeka-eavis.tns-dk.2cnt.net
+* welt.vgwort-de.2cnt.net
 * wiley.vgwort-de.2cnt.net
 * slb-tns-dk-pool08.tns-dk.2cnt.net
-* youseeandroidstream.tns-dk.2cnt.net
 * slb-tns-dk-pool02.tns-dk.2cnt.net
 * youseeiosstream.tns-dk.2cnt.net
 * zeit.vgwort-de.2cnt.net
@@ -147,8 +143,7 @@
 | gala.met.vgwort.de | gala.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | geo.vgwort-de.2cnt.net |
 | helpster.met.vgwort.de | helpster.vgwort-de.2cnt.net |
-| idgmagazine.met.vgwort.de | idgmagazine.vgwort-de.2cnt.net |
-| juris.met.vgwort.de | juris.vgwort-de.2cnt.net |
+| idgentertain.met.vgwort.de | idgentertain.vgwort-de.2cnt.net |
 | kr.met.vgwort.de | kr.vgwort-de.2cnt.net |
 | krak.tns-gallup.dk | krak.tns-dk.2cnt.net |
 | kristeligtdagblad.tns-gallup.dk | kristeligtdagblad.tns-dk.2cnt.net |
@@ -157,7 +152,6 @@
 | manager.met.vgwort.de | manager.vgwort-de.2cnt.net |
 | merkur.met.vgwort.de | merkur.vgwort-de.2cnt.net |
 | n-tv.met.vgwort.de | n-tv.vgwort-de.2cnt.net |
-| nomos.met.vgwort.de | nomos.vgwort-de.2cnt.net |
 | pl01.owen.prolitteris.ch | pl01.prolitteris.2cnt.net |
 | pl02.owen.prolitteris.ch | pl02.prolitteris.2cnt.net |
 | rejseplanen.tns-gallup.dk | rejseplanen.tns-dk.2cnt.net |
@@ -166,7 +160,6 @@
 | youseeiosstream.tns-gallup.dk | slb-tns-dk-pool02.tns-dk.2cnt.net |
 | ssl-eurosportandroidstream.tns-gallup.dk | slb-tns-dk-pool03.tns-dk.2cnt.net |
 | ssl-viaplaystream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
-| ssl-viaplaystream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
 | drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | ssl-drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | ssl-drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
@@ -174,7 +167,6 @@
 | dplayteststream.tns-gallup.dk | slb-tns-dk-pool07.tns-dk.2cnt.net |
 | dplayteststream.tns-gallup.dk | slb-tns-dk-pool07.tns-dk.2cnt.net |
 | drandroidstream.tns-gallup.dk | slb-tns-dk-pool07.tns-dk.2cnt.net |
-| youseeandroidstream.tns-gallup.dk | slb-tns-dk-pool08.tns-dk.2cnt.net |
 | youseeandroidstream.tns-gallup.dk | slb-tns-dk-pool08.tns-dk.2cnt.net |
 | ssl-gafiam.tns-gallup.dk | slb-tns-dk-pool10.tns-dk.2cnt.net |
 | bild.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -189,6 +181,7 @@
 | fr-online.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | gala.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | gala.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
+| idgentertain.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | idgmagazine.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | n-tv.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -210,6 +203,7 @@
 | vg08.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | waz.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | waz.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
+| welt.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | wolterskluwer.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | berliner-kurier.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | berliner-zeitung.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -221,7 +215,6 @@
 | helpster.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | manager.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | manager.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
-| nomos.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | nomos.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | spiegel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | spiegel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -286,7 +279,6 @@
 | ssl-drandroidtvstream.tns-gallup.dk | ssl-drandroidtvstream.tns-dk.2cnt.net |
 | ssl-drhbbtv.tns-gallup.dk | ssl-drhbbtv.tns-dk.2cnt.net |
 | ssl-econa.met.vgwort.de | ssl-econa.vgwort-de.2cnt.net |
-| ssl-eurosportandroidstream.tns-gallup.dk | ssl-eurosportandroidstream.tns-dk.2cnt.net |
 | ssl-focus.met.vgwort.de | ssl-focus.vgwort-de.2cnt.net |
 | ssl-gafiam.tns-gallup.dk | ssl-gafiam.tns-dk.2cnt.net |
 | ssl-golem.met.vgwort.de | ssl-golem.vgwort-de.2cnt.net |
@@ -308,7 +300,6 @@
 | ssl-tv2androidstream.tns-gallup.dk | ssl-tv2androidstream.tns-dk.2cnt.net |
 | ssl-tv2iam.tns-gallup.dk | ssl-tv2iam.tns-dk.2cnt.net |
 | ssl-vg03.met.vgwort.de | ssl-vg03.vgwort-de.2cnt.net |
-| ssl-viaplaystream.tns-gallup.dk | ssl-viaplaystream.tns-dk.2cnt.net |
 | ssl-weeka-eavis.tns-gallup.dk | ssl-weeka-eavis.tns-dk.2cnt.net |
 | ssl-weka.met.vgwort.de | ssl-weka.vgwort-de.2cnt.net |
 | ssl-welt.met.vgwort.de | ssl-welt.vgwort-de.2cnt.net |
@@ -334,7 +325,7 @@
 | vogel.met.vgwort.de | vogel.vgwort-de.2cnt.net |
 | waz.met.vgwort.de | waz.vgwort-de.2cnt.net |
 | weeka-eavis.tns-gallup.dk | weeka-eavis.tns-dk.2cnt.net |
+| welt.met.vgwort.de | welt.vgwort-de.2cnt.net |
 | wiley.met.vgwort.de | wiley.vgwort-de.2cnt.net |
-| youseeandroidstream.tns-gallup.dk | youseeandroidstream.tns-dk.2cnt.net |
 | youseeiosstream.tns-gallup.dk | youseeiosstream.tns-dk.2cnt.net |
 | zeit.met.vgwort.de | zeit.vgwort-de.2cnt.net |

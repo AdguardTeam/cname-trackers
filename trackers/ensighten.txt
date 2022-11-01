@@ -62,6 +62,7 @@
 ||analytics.lumberliquidators.com^
 ||analytics.michiganlottery.com^
 ||analytics.mysynchrony.com^
+||analytics.northerntool.com^
 ||analytics.ovative.com^
 ||analytics.stuartweitzman.com^
 ||analytics.syf.com^
@@ -224,6 +225,7 @@
 ||tagman.virgin-atlantic.com^
 ||tagman.virginatlantic.com^
 ||tagman.waitrose.com^
+||tagmanager1.citi.com^
 ||tags.aljazeera.com^
 ||tags.aljazeera.net^
 ||tags.experian.co.uk^

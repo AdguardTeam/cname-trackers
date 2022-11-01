@@ -10,6 +10,7 @@
     * bhfoto.edge.nc0.co
     * caltimes.edge.nc0.co
     * capitalone.edge.nc0.co
+    * citi.edge.nc0.co
     * citizensbank.edge.nc0.co
     * co-operative.edge.nc0.co
     * coke.edge.nc0.co
@@ -31,7 +32,6 @@
     * ford.edge.nc0.co
     * fotolia.edge.nc0.co
     * gallo.edge.nc0.co
-    * gecapitalau.edge.nc0.co
     * gst.edge.nc0.co
     * hearst.edge.nc0.co
     * heineken-b2b.edge.nc0.co
@@ -102,6 +102,7 @@
 | ensighten.bhphoto.com | bhfoto.edge.nc0.co |
 | activate.platform.californiatimes.com | caltimes.edge.nc0.co |
 | tms.capitalone.com | capitalone.edge.nc0.co |
+| tagmanager1.citi.com | citi.edge.nc0.co |
 | agility.citizensbank.com | citizensbank.edge.nc0.co |
 | co-operative.activate.ensighten.com | co-operative.edge.nc0.co |
 | ensighten.coop.co.uk | co-operative.edge.nc0.co |
@@ -199,6 +200,7 @@
 | analytics.michiganlottery.com | edge-geo.nc0.co |
 | analytics.mysynchrony.com | edge-geo.nc0.co |
 | analytics.mysynchrony.com | edge-geo.nc0.co |
+| analytics.northerntool.com | edge-geo.nc0.co |
 | analytics.ovative.com | edge-geo.nc0.co |
 | analytics.stuartweitzman.com | edge-geo.nc0.co |
 | analytics.stuartweitzman.com | edge-geo.nc0.co |
@@ -429,6 +431,7 @@
 | tagman.virgin-atlantic.com | edge-geo.nc0.co |
 | tagman.virginatlantic.com | edge-geo.nc0.co |
 | tagman.waitrose.com | edge-geo.nc0.co |
+| tagmanager1.citi.com | edge-geo.nc0.co |
 | tags.aljazeera.com | edge-geo.nc0.co |
 | tags.aljazeera.com | edge-geo.nc0.co |
 | tags.aljazeera.net | edge-geo.nc0.co |
@@ -474,7 +477,6 @@
 | data.lincoln.com | ford.edge.nc0.co |
 | tagman.fotolia.com | fotolia.edge.nc0.co |
 | dc.esterethyl.com | gallo.edge.nc0.co |
-| privacy.28degreescard.com.au | gecapitalau.edge.nc0.co |
 | gst.pulse.buyatoyota.com | gst.edge.nc0.co |
 | gst.pulse.toyota.com | gst.edge.nc0.co |
 | tm.hdmtools.com | hearst.edge.nc0.co |
@@ -554,6 +556,7 @@
 | analytics.llflooring.com | ovative.edge.nc0.co |
 | analytics.lumberliquidators.com | ovative.edge.nc0.co |
 | analytics.michiganlottery.com | ovative.edge.nc0.co |
+| analytics.northerntool.com | ovative.edge.nc0.co |
 | analytics.stuartweitzman.com | ovative.edge.nc0.co |
 | ensighten.postoffice.co.uk | postoffice.edge.nc0.co |
 | cm.quest.com | questtms.edge.nc0.co |

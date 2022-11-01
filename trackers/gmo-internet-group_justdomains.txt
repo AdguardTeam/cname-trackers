@@ -35,7 +35,6 @@ j.image-ad.jp
 # site-113001687131.gslb7.sakura.ne.jp disguised trackers
 #
 manage.newssuite.sony.net
-www.akane-ad.com
 #
 # newssuite-sony-net.storage.googleapis.com disguised trackers
 #

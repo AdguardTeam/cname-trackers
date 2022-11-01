@@ -449,6 +449,7 @@
 4160112.notify6.com CNAME .
 4162254.notify6.com CNAME .
 4162256.notify6.com CNAME .
+4166040.notify6.com CNAME .
 4169920.notify6.com CNAME .
 4173044.notify6.com CNAME .
 4173050.notify6.com CNAME .
@@ -496,6 +497,7 @@
 4470554.notify6.com CNAME .
 4523610.notify6.com CNAME .
 4539496.notify6.com CNAME .
+4576708.notify6.com CNAME .
 4587228.notify6.com CNAME .
 4598410.notify6.com CNAME .
 4615884.notify6.com CNAME .
@@ -515,6 +517,7 @@
 4795190.notify6.com CNAME .
 4795232.notify6.com CNAME .
 4795268.notify6.com CNAME .
+4795274.notify6.com CNAME .
 4795562.notify6.com CNAME .
 4795570.notify6.com CNAME .
 4798638.notify6.com CNAME .
@@ -527,7 +530,6 @@
 6146.notify.optimizesrv.com CNAME .
 6180.notify.optimizesrv.com CNAME .
 7678.notify.optimizesrv.com CNAME .
-a.addisplaynetwork.com CNAME .
 a.adnflow.com CNAME .
 a.etology.com CNAME .
 api.adnation.com CNAME .
@@ -606,12 +608,16 @@ www.notifysrv.com CNAME .
 ;
 ; cds.d6n9n7e2.hwcdn.net disguised trackers
 ;
+a.addisplaynetwork.com CNAME .
+a.adnflow.com CNAME .
+a.etology.com CNAME .
 a.exdynsrv.com CNAME .
 a.exoclick.com CNAME .
 a.exosrv.com CNAME .
 ads.exdynsrv.com CNAME .
 ads.exoclick.com CNAME .
 ads.exosrv.com CNAME .
+delivery.gettopple.com CNAME .
 ;
 ; cds.v3j9t5q9.hwcdn.net disguised trackers
 ;

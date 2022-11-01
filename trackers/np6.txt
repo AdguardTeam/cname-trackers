@@ -134,8 +134,10 @@
 ||tr.devis-professionnels.com^
 ||tr.devis.digital^
 ||tr.devize-companeo.ro^
+||tr.digitaldigest.lvmh.com^
 ||tr.dirigeants.harmonie-mutuelle.fr^
 ||tr.discover.perfectstay.com^
+||tr.djay.espmp-agfr.net^
 ||tr.docapost-sirs.com^
 ||tr.donateur.afm-telethon.fr^
 ||tr.drh-holding.lvmh.fr^
@@ -143,6 +145,7 @@
 ||tr.e.entreprise-pm.net^
 ||tr.e.trouver-un-logement-neuf.com^
 ||tr.easy-offertes.be^
+||tr.ecologie-shop.espmp-agfr.net^
 ||tr.em.cdiscount-pro.com^
 ||tr.em.cdiscountpro.com^
 ||tr.email.aeroexpo.online^
@@ -350,6 +353,7 @@
 ||tr.news.casinomax.fr^
 ||tr.news.cdiscount.com^
 ||tr.news.chapsvision.com^
+||tr.news.chilican.com^
 ||tr.news.companeo.es^
 ||tr.news.corsicalinea.com^
 ||tr.news.cotemaison.fr^
@@ -468,6 +472,7 @@
 ||tr.notification-gdpr.bnpparibas-pf.fr^
 ||tr.notification-gdpr.cafineo.fr^
 ||tr.notification-gdpr.cofinoga.fr^
+||tr.notification-gdpr.credit-moderne.fr^
 ||tr.notification-gdpr.domofinance.fr^
 ||tr.notification-gdpr.loisirs-finance.fr^
 ||tr.notification-gdpr.personal-finance-location.bnpparibas^
@@ -493,6 +498,7 @@
 ||tr.orcamentos-companeo.pt^
 ||tr.oxatis.devisdirect.com^
 ||tr.panels-mediametrie.fr^
+||tr.part.offres-cartegie.fr^
 ||tr.partenaire.manageo.info^
 ||tr.particuliers8.engie.com^
 ||tr.pole-emploi-services.com^
@@ -505,6 +511,7 @@
 ||tr.pro.odalys-vacances.com^
 ||tr.projet.cotemaison.fr^
 ||tr.promotion.lexpress.fr^
+||tr.publicisdrugstore.espmp-agfr.net^
 ||tr.qualitaetsumfrage.com^
 ||tr.qualitaveicolo.com^
 ||tr.qualite.groupebarriere.com^
@@ -524,6 +531,7 @@
 ||tr.reglementaire.emailing.bnpparibas^
 ||tr.relation.uneo.fr^
 ||tr.route-solutiondata.fr^
+||tr.roxi02e.espmp-agfr.net^
 ||tr.sash.espmp-aufr.net^
 ||tr.satisfaction.alinea.com^
 ||tr.satisfaction.groupe-pv-cp.com^
@@ -561,12 +569,16 @@
 ||tr.ujsv.espmp-agfr.net^
 ||tr.uk.icicibank.com^
 ||tr.urfk02v.espmp-cufr.net^
+||tr.urfk03h.espmp-nifr.net^
+||tr.urfk03q.espmp-nifr.net^
 ||tr.urfk03u.espmp-nifr.net^
 ||tr.urfk044.espmp-nifr.net^
 ||tr.urfk057.espmp-aufr.net^
+||tr.urfk05g.espmp-agfr.net^
 ||tr.urfk05l.espmp-nifr.net^
 ||tr.urfk06h.espmp-nifr.net^
 ||tr.urfk06y.espmp-nifr.net^
+||tr.urfk07j.espmp-nifr.net^
 ||tr.urfk07s.espmp-nifr.net^
 ||tr.videofutur.fr^
 ||tr.ville.bordeaux.fr^
@@ -603,6 +615,7 @@
 ! form.bp01.net disguised trackers
 !
 ||cotemaison.np6.com^
+||f1.mailperf.com^
 ||f1.mailperformance.com^
 ||f1.np6.com^
 ||lbv5.mperf.com^

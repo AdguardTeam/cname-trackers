@@ -449,6 +449,7 @@
 ||4160112.notify6.com^
 ||4162254.notify6.com^
 ||4162256.notify6.com^
+||4166040.notify6.com^
 ||4169920.notify6.com^
 ||4173044.notify6.com^
 ||4173050.notify6.com^
@@ -496,6 +497,7 @@
 ||4470554.notify6.com^
 ||4523610.notify6.com^
 ||4539496.notify6.com^
+||4576708.notify6.com^
 ||4587228.notify6.com^
 ||4598410.notify6.com^
 ||4615884.notify6.com^
@@ -515,6 +517,7 @@
 ||4795190.notify6.com^
 ||4795232.notify6.com^
 ||4795268.notify6.com^
+||4795274.notify6.com^
 ||4795562.notify6.com^
 ||4795570.notify6.com^
 ||4798638.notify6.com^
@@ -527,7 +530,6 @@
 ||6146.notify.optimizesrv.com^
 ||6180.notify.optimizesrv.com^
 ||7678.notify.optimizesrv.com^
-||a.addisplaynetwork.com^
 ||a.adnflow.com^
 ||a.etology.com^
 ||api.adnation.com^
@@ -606,12 +608,16 @@
 !
 ! cds.d6n9n7e2.hwcdn.net disguised trackers
 !
+||a.addisplaynetwork.com^
+||a.adnflow.com^
+||a.etology.com^
 ||a.exdynsrv.com^
 ||a.exoclick.com^
 ||a.exosrv.com^
 ||ads.exdynsrv.com^
 ||ads.exoclick.com^
 ||ads.exosrv.com^
+||delivery.gettopple.com^
 !
 ! cds.v3j9t5q9.hwcdn.net disguised trackers
 !

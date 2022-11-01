@@ -79,6 +79,7 @@
 ||faz.met.vgwort.de^
 ||fr-online.met.vgwort.de^
 ||gala.met.vgwort.de^
+||idgentertain.met.vgwort.de^
 ||idgmagazine.met.vgwort.de^
 ||juris.met.vgwort.de^
 ||n-tv.met.vgwort.de^
@@ -95,6 +96,7 @@
 ||vg00.met.vgwort.de^
 ||vg08.met.vgwort.de^
 ||waz.met.vgwort.de^
+||welt.met.vgwort.de^
 ||wolterskluwer.met.vgwort.de^
 !
 ! bm-eavis.tns-dk.2cnt.net disguised trackers
@@ -184,13 +186,9 @@
 !
 ||helpster.met.vgwort.de^
 !
-! idgmagazine.vgwort-de.2cnt.net disguised trackers
+! idgentertain.vgwort-de.2cnt.net disguised trackers
 !
-||idgmagazine.met.vgwort.de^
-!
-! juris.vgwort-de.2cnt.net disguised trackers
-!
-||juris.met.vgwort.de^
+||idgentertain.met.vgwort.de^
 !
 ! kr.vgwort-de.2cnt.net disguised trackers
 !
@@ -223,10 +221,6 @@
 ! n-tv.vgwort-de.2cnt.net disguised trackers
 !
 ||n-tv.met.vgwort.de^
-!
-! nomos.vgwort-de.2cnt.net disguised trackers
-!
-||nomos.met.vgwort.de^
 !
 ! pl01.prolitteris.2cnt.net disguised trackers
 !
@@ -297,10 +291,6 @@
 ||ssl-econa.met.vgwort.de^
 !
 ! slb-tns-dk-pool03.tns-dk.2cnt.net disguised trackers
-!
-||ssl-eurosportandroidstream.tns-gallup.dk^
-!
-! ssl-eurosportandroidstream.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-eurosportandroidstream.tns-gallup.dk^
 !
@@ -393,10 +383,6 @@
 ||ssl-vg03.met.vgwort.de^
 !
 ! slb-tns-dk-pool04.tns-dk.2cnt.net disguised trackers
-!
-||ssl-viaplaystream.tns-gallup.dk^
-!
-! ssl-viaplaystream.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-viaplaystream.tns-gallup.dk^
 !
@@ -500,15 +486,15 @@
 !
 ||weeka-eavis.tns-gallup.dk^
 !
+! welt.vgwort-de.2cnt.net disguised trackers
+!
+||welt.met.vgwort.de^
+!
 ! wiley.vgwort-de.2cnt.net disguised trackers
 !
 ||wiley.met.vgwort.de^
 !
 ! slb-tns-dk-pool08.tns-dk.2cnt.net disguised trackers
-!
-||youseeandroidstream.tns-gallup.dk^
-!
-! youseeandroidstream.tns-dk.2cnt.net disguised trackers
 !
 ||youseeandroidstream.tns-gallup.dk^
 !

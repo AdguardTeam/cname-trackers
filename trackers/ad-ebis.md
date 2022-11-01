@@ -193,6 +193,7 @@
     * c5198769-zghgmece.cname.ebis.ne.jp
     * c7424645-h0sqxtcz.cname.ebis.ne.jp
     * c75154e7-t3ucd5yy.cname.ebis.ne.jp
+    * c802e58e-eth6amyu.cname.ebis.ne.jp
     * c990b46a-cy6kqhld.cname.ebis.ne.jp
     * c9b592e5-3ddhh4av.cname.ebis.ne.jp
     * caf7dafd-s02edfsx.cname.ebis.ne.jp
@@ -430,6 +431,7 @@
 | adebis.38-8931.com | c5198769-zghgmece.cname.ebis.ne.jp |
 | adtrack.loracle.jp | c7424645-h0sqxtcz.cname.ebis.ne.jp |
 | ebiscname.native-phrase.com | c75154e7-t3ucd5yy.cname.ebis.ne.jp |
+| ac-ebis.usen.biz | c802e58e-eth6amyu.cname.ebis.ne.jp |
 | ebisfracora.fracora.com | c990b46a-cy6kqhld.cname.ebis.ne.jp |
 | adebis.urban-research.jp | c9b592e5-3ddhh4av.cname.ebis.ne.jp |
 | ebis.tokado.jp | caf7dafd-s02edfsx.cname.ebis.ne.jp |

@@ -59,6 +59,7 @@ analytics.southjerseyquakers.org CNAME .
 analytics.ss88.us CNAME .
 analytics.surov.fi CNAME .
 analytics.teamcovenant.com CNAME .
+analytics.tilikum.io CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
@@ -137,6 +138,7 @@ momotaro.walkkumano.com CNAME .
 munnin.hicsuntdra.co CNAME .
 noushe.zevvle.com CNAME .
 numbers.triplejack.com CNAME .
+p.aj-foster.com CNAME .
 p.barrera.io CNAME .
 p.classroombookings.com CNAME .
 p.e-bot7.com CNAME .
@@ -315,6 +317,7 @@ statistics.csweapons.com CNAME .
 statistics.heatbeat.de CNAME .
 statistik.apartments-tirolerhaus.at CNAME .
 statistik.veronika-steiner.at CNAME .
+statistik.vf-coaching.com CNAME .
 stats.4-camper.de CNAME .
 stats.45rpm.ch CNAME .
 stats.50x.ca CNAME .
@@ -325,9 +328,11 @@ stats.airtrafik.com CNAME .
 stats.aixbrain.de CNAME .
 stats.allaboutberlin.com CNAME .
 stats.alleaktien.de CNAME .
+stats.alocreativa.com CNAME .
 stats.am.ai CNAME .
 stats.amiibo.life CNAME .
 stats.arquido.com CNAME .
+stats.athleteswith.com CNAME .
 stats.auto-dombrowski.de CNAME .
 stats.autofarm.network CNAME .
 stats.baptistwomen.com CNAME .
@@ -447,10 +452,12 @@ stats.frenlo.com CNAME .
 stats.fullofwishes.co.uk CNAME .
 stats.fundimmo.com CNAME .
 stats.galleriacortona.com CNAME .
+stats.gbc.uk CNAME .
 stats.geobox.app CNAME .
 stats.getdoks.org CNAME .
 stats.gethyas.com CNAME .
 stats.getpickaxe.com CNAME .
+stats.gigride.live CNAME .
 stats.glassmountains.co.uk CNAME .
 stats.glyphs.fyi CNAME .
 stats.goldsguide.com CNAME .
@@ -465,6 +472,7 @@ stats.hex.pm CNAME .
 stats.hexdocs.pm CNAME .
 stats.hey.com CNAME .
 stats.hey.science CNAME .
+stats.hhpro.net CNAME .
 stats.homeandgardenmakeover.com CNAME .
 stats.homerdixon.com CNAME .
 stats.homestow.com CNAME .
@@ -544,6 +552,7 @@ stats.matthiasloibl.com CNAME .
 stats.matthogg.fyi CNAME .
 stats.maurer-rides.de CNAME .
 stats.maximaconsulting.xyz CNAME .
+stats.meetnfly.com CNAME .
 stats.mehulgohil.com CNAME .
 stats.mesenvies.fr CNAME .
 stats.micv.works CNAME .
@@ -556,8 +565,11 @@ stats.muchbetteradventures.com CNAME .
 stats.mysideproject.rocks CNAME .
 stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
+stats.newslit.co CNAME .
 stats.nice.kiwi CNAME .
 stats.nicolabricot.com CNAME .
+stats.nomad.radio CNAME .
+stats.nothingbutnylon.com CNAME .
 stats.nrcaknights.com CNAME .
 stats.nytecomics.com CNAME .
 stats.onepagelove.com CNAME .
@@ -599,6 +611,7 @@ stats.ravivyas.com CNAME .
 stats.reactician.com CNAME .
 stats.reactshowcase.com CNAME .
 stats.redlabelsports.com CNAME .
+stats.referralhero.com CNAME .
 stats.reisemobil.pro CNAME .
 stats.remotebear.io CNAME .
 stats.revit-content.com CNAME .
@@ -613,6 +626,7 @@ stats.screenagers.com CNAME .
 stats.screenwavemedia.com CNAME .
 stats.sebastiangale.ca CNAME .
 stats.servicedesignjobs.com CNAME .
+stats.sexplore.app CNAME .
 stats.sharetheirday.com CNAME .
 stats.shareup.app CNAME .
 stats.shoutout.so CNAME .
@@ -662,6 +676,7 @@ stats.tkg.codes CNAME .
 stats.tms-development.de CNAME .
 stats.toiletmap.org.uk CNAME .
 stats.tomorrowacademy.org CNAME .
+stats.topstudyworld.com CNAME .
 stats.torontohhs.org CNAME .
 stats.trailblazercoffee.com CNAME .
 stats.training.fit CNAME .

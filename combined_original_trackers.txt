@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2022-10-31T08:00:24+00:00
+! TimeUpdated: 2022-11-01T16:33:48+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 !
@@ -98,6 +98,11 @@
 !
 ! Company: NameSilo
 ||ab1n.net^
+!
+! Company: Nativo
+||ntv.io^
+||ntvpforever.com^
+||postrelease.com^
 !
 ! Company: NP6
 ||tracking.bp01.net^

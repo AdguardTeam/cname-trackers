@@ -7,6 +7,7 @@
 ||aff.faircredit.cz^
 ||aff.pujckajonatan.cz^
 ||aff.teshop.cz^
+||affi.dobra-miska.cz^
 ||affi.veronikahronkova.cz^
 ||affil.11teamsports.bg^
 ||affil.11teamsports.cz^
@@ -23,7 +24,9 @@
 ||affil.atan.cz^
 ||affil.avenatura.sk^
 ||affil.bitdef.cz^
+||affil.bruderland.cz^
 ||affil.chlap20.sk^
+||affil.chocome.cz^
 ||affil.claimcloud.cz^
 ||affil.comamdelat.com^
 ||affil.danfil.cz^
@@ -42,6 +45,7 @@
 ||affil.lypo.cz^
 ||affil.mydrinks.cz^
 ||affil.nutriadapt.cz^
+||affil.peliskydog.cz^
 ||affil.plkshop.cz^
 ||affil.reedog.cz^
 ||affil.seduo.cz^
@@ -117,6 +121,7 @@
 ||affilbox.kvaskovanie.sk^
 ||affilbox.mutumutu.cz^
 ||affilbox.rondopartner.cz^
+||affilbox.stygremvkleci.cz^
 ||affiliate.2gispraha.cz^
 ||affiliate.4fresh.cz^
 ||affiliate.agatinsvet.cz^
@@ -183,6 +188,7 @@
 ||affiliate.nejfotopasti.cz^
 ||affiliate.nomind.cz^
 ||affiliate.notifikuj.cz^
+||affiliate.novakabelka.cz^
 ||affiliate.organikk.cz^
 ||affiliate.pasti.cz^
 ||affiliate.pestujzivotwebinar.cz^
@@ -191,6 +197,7 @@
 ||affiliate.portu.cz^
 ||affiliate.postel.cz^
 ||affiliate.pouziteiphony.cz^
+||affiliate.pravopropodnikatele.cz^
 ||affiliate.pt-shop.cz^
 ||affiliate.rajkratomu.cz^
 ||affiliate.reponio.cz^
@@ -222,6 +229,7 @@
 ||hcbox.tesla-electronics.eu^
 ||hcbox.tlamka.cz^
 ||isic.dentalweb.cz^
+||isic.kopirkaostrava.cz^
 ||isicpartner.mamechut.cz^
 ||login.affiliatesit.cz^
 ||money.mioweb.cz^
@@ -364,6 +372,7 @@
 ||partner.mooselife.cz^
 ||partner.motoobchod.cz^
 ||partner.nanolab.cz^
+||partner.naplne.cz^
 ||partner.natubea.cz^
 ||partner.nejlepsi-darecky.cz^
 ||partner.neviditelnepradlo.cz^
@@ -374,6 +383,7 @@
 ||partner.olivie.sk^
 ||partner.olivum.cz^
 ||partner.parfemy-parfumeur.cz^
+||partner.perfect-dress.eu^
 ||partner.plotshop.sk^
 ||partner.pneugumy.cz^
 ||partner.pod7kilo.cz^
@@ -395,6 +405,7 @@
 ||partner.sporthangar.cz^
 ||partner.stavario.com^
 ||partner.stickersmakers.com^
+||partner.stromkyonline.cz^
 ||partner.summermyles.cz^
 ||partner.superpotlac.sk^
 ||partner.supervyhody.cz^
@@ -409,6 +420,7 @@
 ||partner.vataonline.cz^
 ||partner.vffoto.com^
 ||partner.vladimirekart.cz^
+||partner.volne-reality.cz^
 ||partner.vykoupeno.cz^
 ||partner.webareal.cz^
 ||partner.webareal.sk^
@@ -416,6 +428,7 @@
 ||partner.wormup.com^
 ||partner.xm.cz^
 ||partner.yummy.sk^
+||partner.zdravi.online^
 ||partner.zkontrolujsiauto.cz^
 ||partner.zombeek.cz^
 ||partneri.adamfengshui.cz^
@@ -438,6 +451,7 @@
 ||partneri.dusansoucek.cz^
 ||partneri.easylingo.cz^
 ||partneri.ecstatic.cz^
+||partneri.edibles.eu^
 ||partneri.eduway.cz^
 ||partneri.epiderma.cz^
 ||partneri.fitstore.cz^
@@ -498,6 +512,7 @@
 ||vydelavejtesnami.pg.cz^
 ||www.affilo.cz^
 ||www.partner.hubatacernoska.cz^
+||www.partneri.zuzanaondrisova.sk^
 !
 ! c4924.affilbox.cz disguised trackers
 !

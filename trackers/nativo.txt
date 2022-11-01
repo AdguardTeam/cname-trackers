@@ -1,0 +1,43 @@
+!
+! Company name: Nativo
+!
+! ntv.io disguised trackers
+!
+||www.realworldsurvivor.com^
+!
+! ntvpforever.com disguised trackers
+!
+||0424b056e9.bfbcb7a235.com^
+||071cc548ff.78ab4874ae.com^
+||0b05878fdd.fddf7d58ea.com^
+||2efa46ca31.da03ab7249.com^
+||310fdbd5d8.a9e8387c9e.com^
+||3309734ae8.329a540736.com^
+||3cbf4c2cb3.cc77769ad8.com^
+||434d80d136.a07d30aaf0.com^
+||46fe7fa264.4d2a483049.com^
+||48c1f78392.31f4ea3b17.com^
+||4e6b62c568.4b31707500.com^
+||6788b5f0a5.07ab456fe8.com^
+||8654683419.6ab77a3dad.com^
+||8bf1e6c762.bcd7ad4271.com^
+||8dbd9f1b8c.b0b96fffc2.com^
+||95113b3bd8.9d36cf3402.com^
+||96b76b02f1.49af7cee19.com^
+||98028f4b73.c9b501fef3.com^
+||ab6de09242.441a8a5527.com^
+||ad517c8087.b2f227b09e.com^
+||b58c767c1d.0be2be6d31.com^
+||babcca7fba.dca8d1600b.com^
+||c353ac05ea.b0fea47e81.com^
+||cc76f2eeaa.0692e14e66.com^
+||cce1fcf4c7.cca57f4672.com^
+||f1c61224ea.edbc0469bd.com^
+||f33772ce13.749cad1027.com^
+||fa5248bea9.d7d38597d6.com^
+||fe8d4b33c2.8abf43d6ad.com^
+!
+! postrelease.com disguised trackers
+!
+||share.ntv.io^
+||shared.sponsoredcontent.com^

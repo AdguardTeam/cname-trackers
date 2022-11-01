@@ -63,6 +63,7 @@ a.pinayviralsexx.com CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornhex.com CNAME .
 a.pumpity.net CNAME .
+a.ratihbugil.online CNAME .
 a.reryn2ce.com CNAME .
 a.speedostream.com CNAME .
 a.streamoupload.xyz CNAME .
@@ -109,6 +110,7 @@ api.adultsclips.com CNAME .
 app.phimvu.app CNAME .
 apple.analnoe24.com CNAME .
 apple.arabtoons.net CNAME .
+arch.u2207i.art CNAME .
 as.ebacdn.com CNAME .
 as.ebalovo.adult CNAME .
 as.lencdn.com CNAME .
@@ -159,7 +161,6 @@ b.sonorousporn.com CNAME .
 b1.hentaibaka.one CNAME .
 bac221.skin CNAME .
 banana.emailon.top CNAME .
-baren.hejkaheel.xyz CNAME .
 bc6dc48b743dc5d01.clicknplay.to CNAME .
 best.gobiga.xyz CNAME .
 best.s5live.com CNAME .
@@ -178,6 +179,7 @@ cam.javboys.cam CNAME .
 canpibo.mom CNAME .
 cdc.teensnorest.com CNAME .
 cdfr.hot4k.org CNAME .
+cdn.linkbr.xyz CNAME .
 cdn.manga9.co CNAME .
 cdn.narutoon.com CNAME .
 cdn1.delii2.art CNAME .
@@ -279,6 +281,7 @@ libertys.beauty CNAME .
 linkpopu.mom CNAME .
 livenews.autos CNAME .
 lixir.wargers.org CNAME .
+load.jabx.net CNAME .
 load.try-games.com CNAME .
 load.xxxdb.io CNAME .
 load2.xxxdb.io CNAME .
@@ -326,6 +329,7 @@ oi.transhero.com CNAME .
 onetwohub.com CNAME .
 ontj.com CNAME .
 outallin.mom CNAME .
+p.focusde.info CNAME .
 p123p.com CNAME .
 pakeway.lol CNAME .
 pam.mongz.lol CNAME .
@@ -393,6 +397,7 @@ spy.luvprn.com CNAME .
 spyglass.octanime.net CNAME .
 spyglass.reklamko.pro CNAME .
 sshopee.beauty CNAME .
+ssltest.soundrussian.com CNAME .
 statement.blauenseville.buzz CNAME .
 stbvip.co CNAME .
 stbvip.mom CNAME .
@@ -461,6 +466,7 @@ x2sfa.javgg.eu CNAME .
 xau.pongping.mom CNAME .
 xserve.zapurl.cc CNAME .
 xxxlove.rooski.net CNAME .
+youzok.lol CNAME .
 z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .
 zeenite.online CNAME .

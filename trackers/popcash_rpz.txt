@@ -58,6 +58,7 @@ alligator.remotecyberwork.com CNAME .
 alpaca.miidbaby.com CNAME .
 alpaca.reclaimthenet.org CNAME .
 alpaca.thesocialmedwork.com CNAME .
+alpaca.wingmantracker.com CNAME .
 am2lma0ay.xrpmerchstore.com CNAME .
 amphibian.juergenhaller.at CNAME .
 amphibian.pinestc.com CNAME .
@@ -72,15 +73,18 @@ anteater.benborgers.com CNAME .
 anteater.playuncovr.xyz CNAME .
 anteater.stella-projects.de CNAME .
 antelope.johndbeatty.com CNAME .
+antelope.targetinternet.com CNAME .
 antelope.u3a.com.au CNAME .
 antlion.launch.fyi CNAME .
 ape.maximzubarev.com CNAME .
 ape.mfj.se CNAME .
 ape.nusii.com CNAME .
 ape.pytch.co.uk CNAME .
+ape.smartplanschema.se CNAME .
 armadillo.axeneo7.qc.ca CNAME .
 armadillo.gothiacup.se CNAME .
 armadillo.stacking.club CNAME .
+asp.chop-shop.com.au CNAME .
 azlej8cdm.pragmaticwebsecurity.com CNAME .
 baboon.vacanti.com CNAME .
 badger.bytesized.xyz CNAME .
@@ -171,6 +175,7 @@ coyote.12gem.me CNAME .
 coyote.alboweb.nl CNAME .
 coyote.gnx.cloud CNAME .
 coyote.nickgurney.com CNAME .
+coyote.txet.ch CNAME .
 crane.maggsgroup.com CNAME .
 crane.thegardenroomguide.co.uk CNAME .
 crane.trescolori.cloud CNAME .
@@ -188,6 +193,7 @@ dakqbwpduu.coywolf.io CNAME .
 deer.ray.io CNAME .
 dingo.harmanly.com CNAME .
 dog.christinamoore.us CNAME .
+dog.franchisesocial.co.uk CNAME .
 dog.ghvenue.com CNAME .
 dog.justsketch.me CNAME .
 dog.orbit.love CNAME .
@@ -281,6 +287,7 @@ guppy.ausowned.com.au CNAME .
 guppy.directlyapply.com CNAME .
 haddock.affilimate.com CNAME .
 haddock.jeffreyknox.dev CNAME .
+haddock.simgenie.app CNAME .
 halibut.codehooks.io CNAME .
 hamster.consentkit.io CNAME .
 hare.felix-schmid.de CNAME .
@@ -328,6 +335,7 @@ ladybug.paulstovell.com CNAME .
 landfowl.typegang.com CNAME .
 landsnail.bindle.io CNAME .
 landsnail.brownfield.dev CNAME .
+leech.fuchsegg.at CNAME .
 leech.privacycloud.com CNAME .
 leech.stargate-project.de CNAME .
 leopard.ui-snippets.dev CNAME .
@@ -558,6 +566,7 @@ tortoise.mdx.one CNAME .
 tortoise.transistor.fm CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.lgbtjobsearch.com CNAME .
+treefrog.socialmarketinggateway.co.uk CNAME .
 trout.travelmassive.com CNAME .
 tuna.ajaymantri.com CNAME .
 turkey.docsy.cloud CNAME .
@@ -648,12 +657,12 @@ cdn.admatic.com.tr CNAME .
 ;
 consent.cookiefirst.com CNAME .
 ;
-; qualdnt.b-cdn.net disguised trackers
-;
-dntcl.qualaroo.com CNAME .
-;
 ; b-cdn.net disguised trackers
 ;
+contact-gloss-production.accelerator.net CNAME .
+dntcl.qualaroo.com CNAME .
 hp-laserjet.printer-repair-experts.net CNAME .
 log.ads-m.net CNAME .
 media.adstatic.com CNAME .
+sp.gifthome.co.uk CNAME .
+sp.pakibanks.com CNAME .

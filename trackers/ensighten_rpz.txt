@@ -62,6 +62,7 @@ analytics.llflooring.com CNAME .
 analytics.lumberliquidators.com CNAME .
 analytics.michiganlottery.com CNAME .
 analytics.mysynchrony.com CNAME .
+analytics.northerntool.com CNAME .
 analytics.ovative.com CNAME .
 analytics.stuartweitzman.com CNAME .
 analytics.syf.com CNAME .
@@ -224,6 +225,7 @@ tagman.transavia.com CNAME .
 tagman.virgin-atlantic.com CNAME .
 tagman.virginatlantic.com CNAME .
 tagman.waitrose.com CNAME .
+tagmanager1.citi.com CNAME .
 tags.aljazeera.com CNAME .
 tags.aljazeera.net CNAME .
 tags.experian.co.uk CNAME .

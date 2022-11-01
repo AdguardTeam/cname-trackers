@@ -9,6 +9,7 @@
 1ctc.sfr.fr CNAME .
 2efj.up.coop CNAME .
 5fm.985fm.ca CNAME .
+66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 7lbd4.armandthiery.fr CNAME .
 7mx.eider.com CNAME .

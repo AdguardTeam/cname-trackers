@@ -64,6 +64,7 @@
 | analytics.ss88.us | custom.plausible.io |
 | analytics.surov.fi | custom.plausible.io |
 | analytics.teamcovenant.com | custom.plausible.io |
+| analytics.tilikum.io | custom.plausible.io |
 | analytics.top10-charts.com | custom.plausible.io |
 | analytics.trust.page | custom.plausible.io |
 | analytics.uxmetrics.com | custom.plausible.io |
@@ -142,6 +143,7 @@
 | munnin.hicsuntdra.co | custom.plausible.io |
 | noushe.zevvle.com | custom.plausible.io |
 | numbers.triplejack.com | custom.plausible.io |
+| p.aj-foster.com | custom.plausible.io |
 | p.barrera.io | custom.plausible.io |
 | p.classroombookings.com | custom.plausible.io |
 | p.e-bot7.com | custom.plausible.io |
@@ -320,6 +322,7 @@
 | statistics.heatbeat.de | custom.plausible.io |
 | statistik.apartments-tirolerhaus.at | custom.plausible.io |
 | statistik.veronika-steiner.at | custom.plausible.io |
+| statistik.vf-coaching.com | custom.plausible.io |
 | stats.4-camper.de | custom.plausible.io |
 | stats.45rpm.ch | custom.plausible.io |
 | stats.50x.ca | custom.plausible.io |
@@ -330,9 +333,11 @@
 | stats.aixbrain.de | custom.plausible.io |
 | stats.allaboutberlin.com | custom.plausible.io |
 | stats.alleaktien.de | custom.plausible.io |
+| stats.alocreativa.com | custom.plausible.io |
 | stats.am.ai | custom.plausible.io |
 | stats.amiibo.life | custom.plausible.io |
 | stats.arquido.com | custom.plausible.io |
+| stats.athleteswith.com | custom.plausible.io |
 | stats.auto-dombrowski.de | custom.plausible.io |
 | stats.autofarm.network | custom.plausible.io |
 | stats.baptistwomen.com | custom.plausible.io |
@@ -452,10 +457,12 @@
 | stats.fullofwishes.co.uk | custom.plausible.io |
 | stats.fundimmo.com | custom.plausible.io |
 | stats.galleriacortona.com | custom.plausible.io |
+| stats.gbc.uk | custom.plausible.io |
 | stats.geobox.app | custom.plausible.io |
 | stats.getdoks.org | custom.plausible.io |
 | stats.gethyas.com | custom.plausible.io |
 | stats.getpickaxe.com | custom.plausible.io |
+| stats.gigride.live | custom.plausible.io |
 | stats.glassmountains.co.uk | custom.plausible.io |
 | stats.glyphs.fyi | custom.plausible.io |
 | stats.goldsguide.com | custom.plausible.io |
@@ -470,6 +477,7 @@
 | stats.hexdocs.pm | custom.plausible.io |
 | stats.hey.com | custom.plausible.io |
 | stats.hey.science | custom.plausible.io |
+| stats.hhpro.net | custom.plausible.io |
 | stats.homeandgardenmakeover.com | custom.plausible.io |
 | stats.homerdixon.com | custom.plausible.io |
 | stats.homestow.com | custom.plausible.io |
@@ -549,6 +557,7 @@
 | stats.matthogg.fyi | custom.plausible.io |
 | stats.maurer-rides.de | custom.plausible.io |
 | stats.maximaconsulting.xyz | custom.plausible.io |
+| stats.meetnfly.com | custom.plausible.io |
 | stats.mehulgohil.com | custom.plausible.io |
 | stats.mesenvies.fr | custom.plausible.io |
 | stats.micv.works | custom.plausible.io |
@@ -561,8 +570,11 @@
 | stats.mysideproject.rocks | custom.plausible.io |
 | stats.nddmed.com | custom.plausible.io |
 | stats.nerdbusiness.com | custom.plausible.io |
+| stats.newslit.co | custom.plausible.io |
 | stats.nice.kiwi | custom.plausible.io |
 | stats.nicolabricot.com | custom.plausible.io |
+| stats.nomad.radio | custom.plausible.io |
+| stats.nothingbutnylon.com | custom.plausible.io |
 | stats.nrcaknights.com | custom.plausible.io |
 | stats.nytecomics.com | custom.plausible.io |
 | stats.onepagelove.com | custom.plausible.io |
@@ -604,6 +616,7 @@
 | stats.reactician.com | custom.plausible.io |
 | stats.reactshowcase.com | custom.plausible.io |
 | stats.redlabelsports.com | custom.plausible.io |
+| stats.referralhero.com | custom.plausible.io |
 | stats.reisemobil.pro | custom.plausible.io |
 | stats.remotebear.io | custom.plausible.io |
 | stats.revit-content.com | custom.plausible.io |
@@ -618,6 +631,7 @@
 | stats.screenwavemedia.com | custom.plausible.io |
 | stats.sebastiangale.ca | custom.plausible.io |
 | stats.servicedesignjobs.com | custom.plausible.io |
+| stats.sexplore.app | custom.plausible.io |
 | stats.sharetheirday.com | custom.plausible.io |
 | stats.shareup.app | custom.plausible.io |
 | stats.shoutout.so | custom.plausible.io |
@@ -667,6 +681,7 @@
 | stats.tms-development.de | custom.plausible.io |
 | stats.toiletmap.org.uk | custom.plausible.io |
 | stats.tomorrowacademy.org | custom.plausible.io |
+| stats.topstudyworld.com | custom.plausible.io |
 | stats.torontohhs.org | custom.plausible.io |
 | stats.trailblazercoffee.com | custom.plausible.io |
 | stats.training.fit | custom.plausible.io |
