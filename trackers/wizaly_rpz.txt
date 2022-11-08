@@ -3,6 +3,7 @@
 ;
 ; wizaly.com disguised trackers
 ;
+t-test.esvdigital.com CNAME .
 t.wiz.meilleurtaux.com CNAME .
 tk.abt.com CNAME .
 tk.aircaraibes.com CNAME .
@@ -17,6 +18,7 @@ tk.airfrance.co.kr CNAME .
 tk.airfrance.co.uk CNAME .
 tk.airfrance.cz CNAME .
 tk.airfrance.de CNAME .
+tk.airfrance.fi CNAME .
 tk.airfrance.fr CNAME .
 tk.airfrance.ga CNAME .
 tk.airfrance.gr CNAME .
@@ -24,6 +26,7 @@ tk.airfrance.hr CNAME .
 tk.airfrance.ht CNAME .
 tk.airfrance.ie CNAME .
 tk.airfrance.it CNAME .
+tk.airfrance.ma CNAME .
 tk.airfrance.mq CNAME .
 tk.airfrance.ng CNAME .
 tk.airfrance.pl CNAME .
@@ -75,6 +78,9 @@ tk.svsound.com CNAME .
 tk.transavia.com CNAME .
 tk.undiz.com CNAME .
 tk.viapresse.com CNAME .
+tracking-test.esearchvision.com CNAME .
+trackv-test.esearchvision.com CNAME .
+tv-test.esvdigital.com CNAME .
 twiz.wizaly.fr CNAME .
 wiz.ghostbed.com CNAME .
 wiz.sncf-connect.com CNAME .

@@ -32,7 +32,6 @@
 ||activate.sun-sentinel.com^
 ||activate.suncorp.com.au^
 ||activate.tacdn.com^
-||activate.theactivetimes.com^
 ||activate.united.com^
 ||activate1.fidelity.com^
 ||agility.cartoonnetwork.com^
@@ -71,6 +70,7 @@
 ||analytics.synchronybusiness.com^
 ||analytics.synchronycareers.com^
 ||analytics.synchronyuniversity.com^
+||analyticstest.amica.com^
 ||assets1.aainsurance.co.nz^
 ||assets1.aami.com.au^
 ||assets1.apia.com.au^
@@ -195,11 +195,13 @@
 ||p.pulse.toyota.com^
 ||pfa.levexis.com^
 ||privacy.28degreescard.com.au^
+||privacy.amadrinks.be^
 ||privacy.blade.app^
 ||privacy.gemfinance.co.nz^
 ||privacy.gomastercard.com.au^
 ||privacy.heineken.it^
 ||privacy.heishop.mx^
+||privacy.latitudefinancial.com^
 ||pulse.delta.com^
 ||pulse.mcdonalds.com^
 ||pulse.rac.co.uk^
@@ -215,6 +217,7 @@
 ||sst.dell.com^
 ||sst.johnlewis.com^
 ||sst.nab.com.au^
+||suncorp.activate.ensighten.com^
 ||t.janieandjack.com^
 ||tagman.britishairways.com^
 ||tagman.crystalsummer.co.uk^
@@ -238,6 +241,7 @@
 ||tms.americanexpress.com^
 ||tms.capitalone.com^
 ||tms.delta.com^
+||tms.experian.com^
 ||tms.kone.com^
 ||tms.marriott.com^
 ||tms.nab.com.au^

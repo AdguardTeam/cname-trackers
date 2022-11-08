@@ -8,6 +8,8 @@ ac-dir-co.cau1aighae.com CNAME .
 ac-dir-latam.cau1aighae.com CNAME .
 ac-dir-sing.cau1aighae.com CNAME .
 adsbid-ad-click.adsbid.ru CNAME .
+adsbid-buyout.adghndou0sdh.ru CNAME .
+adsbid-click.adsbid.ru CNAME .
 adsbid-sh-click.adghndou0sdh.ru CNAME .
 adsbid-sh-click.sing.adghndou0sdh.ru CNAME .
 adv.ads2.bid CNAME .

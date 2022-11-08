@@ -41,6 +41,7 @@
 ||analytics.littlekingdesigns.com^
 ||analytics.lunge.de^
 ||analytics.macklin.me^
+||analytics.mambaui.com^
 ||analytics.martin-fieber.de^
 ||analytics.mc500.info^
 ||analytics.mhpod.gov.au^
@@ -102,6 +103,7 @@
 ||counter.proxycrawl.com^
 ||counter.subtitlebee.com^
 ||counter.websitevoice.com^
+||data.aik.in^
 ||datum.appfleet.com^
 ||dragon.moneycoach.io^
 ||eliteclng.ericksonbuilt.com^
@@ -169,6 +171,7 @@
 ||pl.fashmoms.com^
 ||pl.getfamealy.com^
 ||pl.hackathon-makers.com^
+||pl.hitthefrontpage.com^
 ||pl.kanbanmail.app^
 ||pl.kis-nagy.art^
 ||pl.maya-astro.fi^
@@ -180,6 +183,7 @@
 ||pl.volunteerkapiti.org.nz^
 ||pl.volunteermarlborough.org.nz^
 ||pl.volunteersouth.org.nz^
+||pla.ierodiaconou.com^
 ||pla.wigglepixel.nl^
 ||plas.imfeld.dev^
 ||plau.devitjobs.uk^
@@ -190,6 +194,7 @@
 ||plauplauplau.app.budg.co^
 ||plauplauplau.budg.co^
 ||plaus.outpost.pub^
+||plaus.pentserv.com^
 ||plausdj2ajskljzx0ikwkiasible.ethics.info^
 ||plausible-stats.tangodelta.media^
 ||plausible.adreform.com^
@@ -216,6 +221,7 @@
 ||plausible.f1laps.com^
 ||plausible.factly.in^
 ||plausible.flowcv.io^
+||plausible.flowhr.io^
 ||plausible.food.game^
 ||plausible.golfbreaks.com^
 ||plausible.goose.game^
@@ -245,7 +251,9 @@
 ||plausible.prod.sketch.com^
 ||plausible.promlens.com^
 ||plausible.prufit.co^
+||plausible.quo.wtf^
 ||plausible.rachel.systems^
+||plausible.reabra.com.br^
 ||plausible.reactpreview.com^
 ||plausible.redchamp.net^
 ||plausible.regex.help^
@@ -326,6 +334,8 @@
 ||stats.achtsame-yonimassage.de^
 ||stats.airtrafik.com^
 ||stats.aixbrain.de^
+||stats.albert-kropp-gmbh.de^
+||stats.alexbh.dev^
 ||stats.allaboutberlin.com^
 ||stats.alleaktien.de^
 ||stats.alocreativa.com^
@@ -335,6 +345,8 @@
 ||stats.athleteswith.com^
 ||stats.auto-dombrowski.de^
 ||stats.autofarm.network^
+||stats.aynils.ca^
+||stats.bananatimer.com^
 ||stats.baptistwomen.com^
 ||stats.basecamp.com^
 ||stats.bcdtravel.com^
@@ -342,6 +354,7 @@
 ||stats.belic.si^
 ||stats.bellflowerlactation.com^
 ||stats.benui.ca^
+||stats.bernardobordadagua.com^
 ||stats.bertwagner.com^
 ||stats.bestservers.co^
 ||stats.bholmes.dev^
@@ -414,8 +427,8 @@
 ||stats.deva.guru^
 ||stats.devenet.eu^
 ||stats.devenet.info^
+||stats.devetkomentara.net^
 ||stats.digiexpert.store^
-||stats.divemap.uk^
 ||stats.divyanshu013.dev^
 ||stats.dominikmayer.com^
 ||stats.doors.live^
@@ -439,14 +452,18 @@
 ||stats.erlef.org^
 ||stats.executebig.org^
 ||stats.fabiofranchino.com^
+||stats.faluninfo.mk^
+||stats.faluninfo.si^
 ||stats.fantinel.dev^
 ||stats.farbenmeer.de^
+||stats.fastbackward.app^
 ||stats.feathercss.makerkits.co^
 ||stats.felipesere.com^
 ||stats.femtobill.com^
 ||stats.ff.ht^
 ||stats.filewatch.net^
 ||stats.flightsphere.com^
+||stats.florianfritz.net^
 ||stats.flowphantom.com^
 ||stats.frenlo.com^
 ||stats.fullofwishes.co.uk^
@@ -463,10 +480,12 @@
 ||stats.goldsguide.com^
 ||stats.granot.dev^
 ||stats.graphql-api.com^
+||stats.gravitaswins.com^
 ||stats.greatlakesdesign.co^
 ||stats.groovetrackers.com^
 ||stats.gslc.utah.edu^
 ||stats.guersanguillaume.com^
+||stats.guidingwallet.app^
 ||stats.headhunted.com.au^
 ||stats.hex.pm^
 ||stats.hexdocs.pm^
@@ -507,8 +526,10 @@
 ||stats.jdheyburn.co.uk^
 ||stats.jerickson.net^
 ||stats.johnmac.pro^
+||stats.juniperslab.com^
 ||stats.justinwilliams.ca^
 ||stats.kafarowski.com^
+||stats.kambr.io^
 ||stats.kejk.tech^
 ||stats.kensho.com^
 ||stats.kettlebellbundle.com^
@@ -602,6 +623,7 @@
 ||stats.pri.org^
 ||stats.pricewell.io^
 ||stats.principedepaz.gt^
+||stats.profilehunt.net^
 ||stats.pselookup.vrymel.com^
 ||stats.radicaldata.org^
 ||stats.radreiseglueck.de^
@@ -619,7 +641,7 @@
 ||stats.rocketvalidator.com^
 ||stats.ruhrfestspiele.de^
 ||stats.rushilperera.me^
-||stats.rwbville.com^
+||stats.rymawby.com^
 ||stats.saveirishpubs.ie^
 ||stats.screen-play.app^
 ||stats.screenagers.com^
@@ -629,6 +651,7 @@
 ||stats.sexplore.app^
 ||stats.sharetheirday.com^
 ||stats.shareup.app^
+||stats.shepherd.com^
 ||stats.shoutout.so^
 ||stats.sirdata.com^
 ||stats.ski.com^
@@ -700,7 +723,6 @@
 ||tics.techdirt.com^
 ||tipstats.onepagelove.com^
 ||tock.weg.plus^
-||tokei.upstract.com^
 ||track.pokestats.gg^
 ||track.slickinbox.com^
 ||traffic.hostedstatus.page^

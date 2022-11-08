@@ -26,6 +26,7 @@
     * tchibo03.webtrekk.net
     * tchibo06.webtrekk.net
     * tchibo07.webtrekk.net
+    * tchibo08.webtrekk.net
     * tchibo09.webtrekk.net
     * telekom01.webtrekk.net
     * telekom02.webtrekk.net
@@ -70,8 +71,10 @@
     * 368068733707725.wt-eu02.net
     * 368352020330673.wt-eu02.net
     * 371033713452477.wt-eu02.net
+    * 378118469332445.wt-eu02.net
     * 425587064188106.wt-eu02.net
     * 427813503923049.wt-eu02.net
+    * 444170171787319.wt-eu02.net
     * 451504046304293.wt-eu02.net
     * 467808562573270.wt-eu02.net
     * 470719744966924.wt-eu02.net
@@ -251,8 +254,10 @@
 | da.bodenhaus.de | 368068733707725.wt-eu02.net |
 | web.ideaautorepair.com | 368352020330673.wt-eu02.net |
 | web.emails.thetoyshop.com | 371033713452477.wt-eu02.net |
+| web.newsletter.koffer-to-go.de | 378118469332445.wt-eu02.net |
 | web.news.piquadro.com | 425587064188106.wt-eu02.net |
 | wbtrkk.teufelaudio.com | 427813503923049.wt-eu02.net |
+| mit.bhw.de | 444170171787319.wt-eu02.net |
 | wbtrkk.teufelaudio.it | 451504046304293.wt-eu02.net |
 | a.deutschehospitality.com | 467808562573270.wt-eu02.net |
 | webt.eleonto.com | 470719744966924.wt-eu02.net |
@@ -473,6 +478,7 @@
 | tracking.tchibo.de | tchibo03.webtrekk.net |
 | tracking.tchibo.cz | tchibo06.webtrekk.net |
 | tracking.tchibo.sk | tchibo07.webtrekk.net |
+| tracking.tchibo.hu | tchibo08.webtrekk.net |
 | tracking.tchibo.com.tr | tchibo09.webtrekk.net |
 | pix.telekom.de | telekom01.webtrekk.net |
 | pix.telekom-dienste.de | telekom02.webtrekk.net |

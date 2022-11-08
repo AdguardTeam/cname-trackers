@@ -8,6 +8,7 @@ ad.aflamk1.net CNAME .
 ad.arabsex1.com CNAME .
 ad1.xero.porn CNAME .
 adx.arabsex1.com CNAME .
+api.mgandzd.one CNAME .
 api.rtnews.pro CNAME .
 api.willalland.info CNAME .
 api2.clickaine.com CNAME .

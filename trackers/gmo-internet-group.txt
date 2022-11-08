@@ -12,7 +12,7 @@
 ||j.newssuite.sony.net^
 ||manage.newssuite.sony.net^
 ||newssuite.sony.net^
-||www.akane-ad.com^
+||video.sp.gmossp-sp.jp^
 !
 ! site-112900816347.gslb5.sakura.ne.jp disguised trackers
 !

@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * wizaly.com
+    * t-test.wizaly.com
     * t.wizaly.com
     * tk-abt-com.wizaly.com
     * tk-aircaraibes-com.wizaly.com
@@ -53,6 +54,10 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| t-test.esvdigital.com | t-test.wizaly.com |
+| tracking-test.esearchvision.com | t-test.wizaly.com |
+| trackv-test.esearchvision.com | t-test.wizaly.com |
+| tv-test.esvdigital.com | t-test.wizaly.com |
 | twiz.wizaly.fr | t.wizaly.com |
 | tk.abt.com | tk-abt-com.wizaly.com |
 | tk.aircaraibes.com | tk-aircaraibes-com.wizaly.com |
@@ -103,6 +108,7 @@
 | tk.airfrance.co.uk | tkairfrance.wizaly.com |
 | tk.airfrance.cz | tkairfrance.wizaly.com |
 | tk.airfrance.de | tkairfrance.wizaly.com |
+| tk.airfrance.fi | tkairfrance.wizaly.com |
 | tk.airfrance.fr | tkairfrance.wizaly.com |
 | tk.airfrance.ga | tkairfrance.wizaly.com |
 | tk.airfrance.gr | tkairfrance.wizaly.com |
@@ -110,6 +116,7 @@
 | tk.airfrance.ht | tkairfrance.wizaly.com |
 | tk.airfrance.ie | tkairfrance.wizaly.com |
 | tk.airfrance.it | tkairfrance.wizaly.com |
+| tk.airfrance.ma | tkairfrance.wizaly.com |
 | tk.airfrance.mq | tkairfrance.wizaly.com |
 | tk.airfrance.ng | tkairfrance.wizaly.com |
 | tk.airfrance.pl | tkairfrance.wizaly.com |

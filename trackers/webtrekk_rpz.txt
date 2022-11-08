@@ -28,6 +28,7 @@ tracking.tchibo.ch CNAME .
 tracking.tchibo.com.tr CNAME .
 tracking.tchibo.cz CNAME .
 tracking.tchibo.de CNAME .
+tracking.tchibo.hu CNAME .
 tracking.tchibo.sk CNAME .
 trk.nuernberger.de CNAME .
 w3.flatex.at CNAME .
@@ -134,6 +135,7 @@ mapp.ewm.co.uk CNAME .
 mapp.jysk.dk CNAME .
 mapp.jysk.nl CNAME .
 mapp.yesstyle.com CNAME .
+mit.bhw.de CNAME .
 mit.db.com CNAME .
 mit.deutsche-bank.de CNAME .
 mit.dws.com CNAME .
@@ -252,6 +254,7 @@ web.news.lancel.com CNAME .
 web.news.piquadro.com CNAME .
 web.news.pleasefashion.com CNAME .
 web.news.thebridge.it CNAME .
+web.newsletter.koffer-to-go.de CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.online.monnalisa.com CNAME .
 web.pages.lloydspharmacy.com CNAME .

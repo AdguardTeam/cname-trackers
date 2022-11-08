@@ -4,6 +4,7 @@
 
 * online-metrix.net
     * h-10kdwzzr.online-metrix.net
+    * h-11b6fun8-bl.online-metrix.net
     * h-11b6fun8-wn.online-metrix.net
     * h-15wc9fpp.online-metrix.net
     * h-16vzjy52.online-metrix.net
@@ -36,6 +37,7 @@
     * h-6rj18la4.online-metrix.net
     * h-6voqock8.online-metrix.net
     * h-6y7oe1nl.online-metrix.net
+    * h-7hs48cp7.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
     * h-7ij9mii1.online-metrix.net
     * h-7nwhwds3.online-metrix.net
@@ -48,6 +50,7 @@
     * h-8b6zz5ug.online-metrix.net
     * h-8cnnxbpx.online-metrix.net
     * h-8e0pj0s9.online-metrix.net
+    * h-8gmrc4yu.online-metrix.net
     * h-8m7u92ti.online-metrix.net
     * h-8om29r2u.online-metrix.net
     * h-8t63q4n4.online-metrix.net
@@ -58,6 +61,7 @@
     * h-a4nx1etl.online-metrix.net
     * h-a4s32zk0.online-metrix.net
     * h-accountonline.online-metrix.net
+    * h-accurint.online-metrix.net
     * h-adp.online-metrix.net
     * h-af1jjj0t.online-metrix.net
     * h-afterpay.online-metrix.net
@@ -102,10 +106,13 @@
     * h-bmoharris2.online-metrix.net
     * h-bnc.online-metrix.net
     * h-bnl.online-metrix.net
+    * h-bo72h7g2-4.online-metrix.net
     * h-bo72h7g2-5.online-metrix.net
+    * h-bos-soc.online-metrix.net
     * h-bos.online-metrix.net
     * h-bpsgameserver.online-metrix.net
     * h-brightlending.online-metrix.net
+    * h-bscelhtc.online-metrix.net
     * h-bt.online-metrix.net
     * h-btcmgcxc.online-metrix.net
     * h-buyfun.online-metrix.net
@@ -133,6 +140,7 @@
     * h-cdn.coastcapitalsavings.online-metrix.net
     * h-cdn2.intercambioexpress.online-metrix.net
     * h-ce5udwb7.online-metrix.net
+    * h-certifid.online-metrix.net
     * h-charter.online-metrix.net
     * h-chase.online-metrix.net
     * h-chegg.online-metrix.net
@@ -196,6 +204,7 @@
     * h-dailylook.online-metrix.net
     * h-dazn.online-metrix.net
     * h-dell.online-metrix.net
+    * h-delrebate.online-metrix.net
     * h-dghzbk34.online-metrix.net
     * h-dgzuja78.online-metrix.net
     * h-dhgate.online-metrix.net
@@ -212,6 +221,7 @@
     * h-drnycoos.online-metrix.net
     * h-dstssc.online-metrix.net
     * h-dszu15n8.online-metrix.net
+    * h-dwiy84jk.online-metrix.net
     * h-dxmw0w7i.online-metrix.net
     * h-dy06hdpq.online-metrix.net
     * h-dyj6k3h5.online-metrix.net
@@ -222,6 +232,7 @@
     * h-equitablebank.online-metrix.net
     * h-fairstone.online-metrix.net
     * h-fanduel.online-metrix.net
+    * h-fashionworld.online-metrix.net
     * h-fedex.online-metrix.net
     * h-fidelity.online-metrix.net
     * h-firstcitizensbank.online-metrix.net
@@ -235,10 +246,10 @@
     * h-fundingstream.online-metrix.net
     * h-gambling-malta.online-metrix.net
     * h-garmin.online-metrix.net
+    * h-gbophb.online-metrix.net
     * h-genworth.online-metrix.net
     * h-gerberlife.online-metrix.net
     * h-globalsources.online-metrix.net
-    * h-goinsuredaily.online-metrix.net
     * h-goldennugget.online-metrix.net
     * h-goldman-saga.online-metrix.net
     * h-goldman-uk.online-metrix.net
@@ -375,6 +386,7 @@
     * h-paysafecard2.online-metrix.net
     * h-pci51dt4.online-metrix.net
     * h-personifyfinancial.online-metrix.net
+    * h-phub.com.online-metrix.net
     * h-picpay.online-metrix.net
     * h-pnbank.online-metrix.net
     * h-pocketcard.online-metrix.net
@@ -384,6 +396,7 @@
     * h-pscu.online-metrix.net
     * h-psecu.online-metrix.net
     * h-purepoint.online-metrix.net
+    * h-qasantanderbank.online-metrix.net
     * h-qlinkwireless.online-metrix.net
     * h-qn4omaj3.online-metrix.net
     * h-qudosbank.online-metrix.net
@@ -434,15 +447,17 @@
     * h-thumbtack.online-metrix.net
     * h-tiaa-cref.online-metrix.net
     * h-tm.bdc-cdn.com.online-metrix.net
+    * h-tmrs.online-metrix.net
+    * h-tmx.gotobilling.online-metrix.net
     * h-tmx.sunrise.online-metrix.net
     * h-tmxportal.online-metrix.net
     * h-tommybahama.online-metrix.net
+    * h-tracesmart.online-metrix.net
     * h-tripadvisorcdn.online-metrix.net
     * h-trlx.online-metrix.net
     * h-tsb.online-metrix.net
     * h-twctexas.online-metrix.net
     * h-twino.online-metrix.net
-    * h-unicefusa.online-metrix.net
     * h-uplift.online-metrix.net
     * h-ups.online-metrix.net
     * h-uptodate.online-metrix.net
@@ -451,7 +466,9 @@
     * h-usps.online-metrix.net
     * h-v60nf4oj-2.online-metrix.net
     * h-v60nf4oj.online-metrix.net
+    * h-vacations.united.online-metrix.net
     * h-valcontent.online-metrix.net
+    * h-vedacheck.online-metrix.net
     * h-verizon.online-metrix.net
     * h-vinci-autoroutes.online-metrix.net
     * h-virtualgaming.online-metrix.net
@@ -474,6 +491,7 @@
     * h-ynap.biz.online-metrix.net
     * h-zhongantechnologies.online-metrix.net
     * h-zions.online-metrix.net
+    * h-zopa.online-metrix.net
     * h.online-metrix.net
 
 ## Cloaking domains
@@ -481,6 +499,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | h.truist.com | h-10kdwzzr.online-metrix.net |
+| content.bankerslife.com | h-11b6fun8-bl.online-metrix.net |
 | content.washingtonnational.com | h-11b6fun8-wn.online-metrix.net |
 | tmln.caesarscasino.com | h-15wc9fpp.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
@@ -525,8 +544,10 @@
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
 | content.telusinternational.ai | h-6voqock8.online-metrix.net |
 | content.pledg.co | h-6y7oe1nl.online-metrix.net |
+| ex.exnessstats.com | h-7hs48cp7.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.rubyfortune.ca | h-7ij9mii1-a.online-metrix.net |
+| content.spincasino.ca | h-7ij9mii1-a.online-metrix.net |
 | de9c635aa0404558bd527220ef4e6b4b.betway.ca | h-7ij9mii1.online-metrix.net |
 | telem.highlow.com | h-7nwhwds3.online-metrix.net |
 | rt.wisecartapp.com | h-7prfpfvh.online-metrix.net |
@@ -541,6 +562,7 @@
 | subcontent.galeria.de | h-8b6zz5ug.online-metrix.net |
 | afd.bridgeapi.io | h-8cnnxbpx.online-metrix.net |
 | 1bf86f4b.tictoc.ai | h-8e0pj0s9.online-metrix.net |
+| tools.workforcewv.org | h-8gmrc4yu.online-metrix.net |
 | ftd.quodxx.com.br | h-8m7u92ti.online-metrix.net |
 | piafapp.poste.it | h-8om29r2u.online-metrix.net |
 | rba.apata.io | h-8t63q4n4.online-metrix.net |
@@ -551,6 +573,7 @@
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
 | content.ageas.co.uk | h-a4s32zk0.online-metrix.net |
 | content22.accountonline.com | h-accountonline.online-metrix.net |
+| cdnfp.accurint.com | h-accurint.online-metrix.net |
 | image.online.adp.com | h-adp.online-metrix.net |
 | auth2.corelogic.asia | h-af1jjj0t.online-metrix.net |
 | rsx.afterpay.com | h-afterpay.online-metrix.net |
@@ -602,10 +625,13 @@
 | enligne.bnc.ca | h-bnc.online-metrix.net |
 | content.bnl.it | h-bnl.online-metrix.net |
 | content.hellobank.it | h-bnl.online-metrix.net |
+| css.slots.io | h-bo72h7g2-4.online-metrix.net |
 | css.sportsbet.io | h-bo72h7g2-5.online-metrix.net |
+| cbcdn.bankofscotland.co.uk | h-bos-soc.online-metrix.net |
 | check2.bankofscotland.co.uk | h-bos.online-metrix.net |
 | fpcn.bpsgameserver.com | h-bpsgameserver.online-metrix.net |
 | contentservices.brightlending.com | h-brightlending.online-metrix.net |
+| verification.ndtco.com | h-bscelhtc.online-metrix.net |
 | cdn1.thm.panoramainvestor.com.au | h-bt.online-metrix.net |
 | tags.s-dati.com | h-btcmgcxc.online-metrix.net |
 | securecheckout.halloweencostumes.com | h-buyfun.online-metrix.net |
@@ -647,6 +673,7 @@
 | cdn.coastcapitalsavings.com | h-cdn.coastcapitalsavings.online-metrix.net |
 | cdn2.intercambioexpress.com | h-cdn2.intercambioexpress.online-metrix.net |
 | cdnm.sts.pl | h-ce5udwb7.online-metrix.net |
+| content.certifid.com | h-certifid.online-metrix.net |
 | pov.spectrum.net | h-charter.online-metrix.net |
 | h.chase.co.uk | h-chase.online-metrix.net |
 | venus.chegg.com | h-chegg.online-metrix.net |
@@ -718,6 +745,7 @@
 | img.dailylook.com | h-dailylook.online-metrix.net |
 | tags.dazn.com | h-dazn.online-metrix.net |
 | stats.dell.com | h-dell.online-metrix.net |
+| rebatecontent.finance.delaware.gov | h-delrebate.online-metrix.net |
 | mobilecontent.networks.prod.p0.phx-infra.com | h-dghzbk34.online-metrix.net |
 | bank.bnpl.c24.de | h-dgzuja78.online-metrix.net |
 | cybs.dhgate.com | h-dhgate.online-metrix.net |
@@ -728,6 +756,7 @@
 | content.discovercard.com | h-discover.online-metrix.net |
 | fp.disney.go.com | h-disney.online-metrix.net |
 | tm.creditsimple.co.nz | h-dnb.online-metrix.net |
+| tm.creditsimple.com.au | h-dnb.online-metrix.net |
 | acsweb-3dr1.dnp-cdms.jp | h-dnp-cdms.online-metrix.net |
 | tmximg.draftkings.com | h-draftkings.online-metrix.net |
 | content.wizink.es | h-drav45kl.online-metrix.net |
@@ -735,6 +764,7 @@
 | mobile-content.pumb.ua | h-drnycoos.online-metrix.net |
 | content.ssctech.com | h-dstssc.online-metrix.net |
 | acdc.toolineo.de | h-dszu15n8.online-metrix.net |
+| servicesdp.luckydays.ca | h-dwiy84jk.online-metrix.net |
 | cdna.ecommerce.cofidis.it | h-dxmw0w7i.online-metrix.net |
 | content.orixbank.co.jp | h-dy06hdpq.online-metrix.net |
 | query.capitalontap.com | h-dyj6k3h5.online-metrix.net |
@@ -747,6 +777,7 @@
 | jj203.equitablebank.ca | h-equitablebank.online-metrix.net |
 | static.fairstone.ca | h-fairstone.online-metrix.net |
 | tm.fanduel.com | h-fanduel.online-metrix.net |
+| did.fashionworld.co.uk | h-fashionworld.online-metrix.net |
 | ccf.prod.fedex.com | h-fedex.online-metrix.net |
 | cfa.advisorchannel.com | h-fidelity.online-metrix.net |
 | cfa.fidelity.com | h-fidelity.online-metrix.net |
@@ -774,16 +805,17 @@
 | tm.betano.de | h-gambling-malta.online-metrix.net |
 | tm.stoiximan.gr | h-gambling-malta.online-metrix.net |
 | dfp.garmin.com | h-garmin.online-metrix.net |
+| content.benefitsaccess.org | h-gbophb.online-metrix.net |
 | imgcdn.genworth.com | h-genworth.online-metrix.net |
 | app392.gerberlife.com | h-gerberlife.online-metrix.net |
 | tmxapi.globalsources.com | h-globalsources.online-metrix.net |
-| muziwakk.goinsuredaily.co.uk | h-goinsuredaily.online-metrix.net |
 | tm.goldennuggetcasino.com | h-goldennugget.online-metrix.net |
 | v.sagasavings.co.uk | h-goldman-saga.online-metrix.net |
 | v.marcus.co.uk | h-goldman-uk.online-metrix.net |
 | v.ayco.com | h-goldmanimd.online-metrix.net |
 | v.goldman.com | h-goldmanimd.online-metrix.net |
 | v.gs.com | h-goldmanimd.online-metrix.net |
+| v.gsselect.com | h-goldmanimd.online-metrix.net |
 | v.marcus.com | h-goldmansachs2.online-metrix.net |
 | df.greenmangaming.com | h-greenmangaming.online-metrix.net |
 | cstm.gumtree.com | h-gumtree.online-metrix.net |
@@ -875,6 +907,7 @@
 | ww9.lloydsbank.com | h-lloydscorporate.online-metrix.net |
 | lab4.lloydsbank.com | h-lloydslink.online-metrix.net |
 | content3.lexisnexisrisk.com | h-lnrscoplogic.online-metrix.net |
+| content3.risk.lexisnexis.com | h-lnrscoplogic.online-metrix.net |
 | lsdp.lotto.com | h-lotto.online-metrix.net |
 | cdna.lottohelden.de | h-lottohelden.online-metrix.net |
 | d.mlcdn.com.br | h-magazineluiza.online-metrix.net |
@@ -915,6 +948,7 @@
 | sec.login.ocn.ne.jp | h-ocnid.online-metrix.net |
 | contentmx.okcoin.com | h-okcoin.online-metrix.net |
 | tm.okinushub.com | h-okinushub.online-metrix.net |
+| sitehelper.myengageft.com | h-onbudget.online-metrix.net |
 | sitehelper.optimizemoney.com | h-onbudget.online-metrix.net |
 | content22.online.citi.com | h-online.citi.online-metrix.net |
 | hint-tmdp.opendoor.com | h-opendoor.online-metrix.net |
@@ -932,6 +966,7 @@
 | tm.paysafecard.com | h-paysafecard2.online-metrix.net |
 | tm.promotion-cdn.com | h-pci51dt4.online-metrix.net |
 | content.personifyfinancial.com | h-personifyfinancial.online-metrix.net |
+| rba.phub-im.uhg.com | h-phub.com.online-metrix.net |
 | ts04358.picpay.com | h-picpay.online-metrix.net |
 | content.pnbank.com.au | h-pnbank.online-metrix.net |
 | rbawis.pocketcard.co.jp | h-pocketcard.online-metrix.net |
@@ -970,6 +1005,7 @@
 | t.secure.selco.org | h-pscu.online-metrix.net |
 | tracking.psecu.com | h-psecu.online-metrix.net |
 | vir.purepoint.com | h-purepoint.online-metrix.net |
+| digitalid-qa.santanderbank.com | h-qasantanderbank.online-metrix.net |
 | content.hellomobile.com | h-qlinkwireless.online-metrix.net |
 | content.qlinkwireless.com | h-qlinkwireless.online-metrix.net |
 | content.digital.citbank.com | h-qn4omaj3.online-metrix.net |
@@ -994,6 +1030,7 @@
 | tags.bankline.rbs.com | h-rbs-cpb.online-metrix.net |
 | tags.eq.natwestinternational.com | h-rbsint.online-metrix.net |
 | tm.regionsqa.com | h-regionsbank.online-metrix.net |
+| tm.regionstest.com | h-regionsbank.online-metrix.net |
 | tm.regions.com | h-regionsbank2.online-metrix.net |
 | svc2.sc.com | h-retail-sc.online-metrix.net |
 | content22.retailservicescommercial.citi.com | h-retailservicescommercial.citi.online-metrix.net |
@@ -1034,11 +1071,14 @@
 | check3.tiaa.org | h-tiaa-cref.online-metrix.net |
 | check3.tiaabank.com | h-tiaa-cref.online-metrix.net |
 | tm.bdc-cdn.com | h-tm.bdc-cdn.com.online-metrix.net |
+| img2.tmrs.com | h-tmrs.online-metrix.net |
+| tmx.gotobilling.com | h-tmx.gotobilling.online-metrix.net |
 | t.lebara.ch | h-tmx.sunrise.online-metrix.net |
 | t.sunrise.ch | h-tmx.sunrise.online-metrix.net |
 | t.yallo.ch | h-tmx.sunrise.online-metrix.net |
 | portal-fp.threatmetrix.com | h-tmxportal.online-metrix.net |
 | barnacle.tommybahama.com | h-tommybahama.online-metrix.net |
+| content.sso.tracesmart.co.uk | h-tracesmart.online-metrix.net |
 | t1.tacdn.com | h-tripadvisorcdn.online-metrix.net |
 | fp.corporatetravelmoney.com | h-trlx.online-metrix.net |
 | check2.tsb.co.uk | h-tsb.online-metrix.net |
@@ -1048,7 +1088,6 @@
 | content.moneza.lv | h-twino.online-metrix.net |
 | content.moneza.ru | h-twino.online-metrix.net |
 | content.netcredit.pl | h-twino.online-metrix.net |
-| tags.unicefusa.org | h-unicefusa.online-metrix.net |
 | t42rsn90.uplift.com | h-uplift.online-metrix.net |
 | fp.ups.com | h-ups.online-metrix.net |
 | tmx.uptodate.com | h-uptodate.online-metrix.net |
@@ -1059,7 +1098,9 @@
 | ifp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | yfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | frp.intuit.com | h-v60nf4oj.online-metrix.net |
+| analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | valcontent.securustech.net | h-valcontent.online-metrix.net |
+| auth.vedacheck.com.au | h-vedacheck.online-metrix.net |
 | tsaian.verizonwireless.com | h-verizon.online-metrix.net |
 | tmx.vinci-autoroutes.com | h-vinci-autoroutes.online-metrix.net |
 | cdn-s.chumbacasino.com | h-virtualgaming.online-metrix.net |
@@ -1075,6 +1116,7 @@
 | t1.welab.bank | h-welabbank.online-metrix.net |
 | t.wepay.com | h-wepay.online-metrix.net |
 | assets.werally.co | h-werally.online-metrix.net |
+| cdn1.thm.bankofmelbourne.com.au | h-westpac.online-metrix.net |
 | cdn1.thm.stgeorge.com.au | h-westpac.online-metrix.net |
 | cdn1.thm.westpac.com.au | h-westpac.online-metrix.net |
 | t.us.williamhill.com | h-williamhill.online-metrix.net |
@@ -1091,4 +1133,5 @@
 | w3.nsbank.com | h-zions.online-metrix.net |
 | w3.vectrabank.com | h-zions.online-metrix.net |
 | w3.zionsbank.com | h-zions.online-metrix.net |
+| cdna.zopa.com | h-zopa.online-metrix.net |
 | fraudcheck.walmart.ca | h.online-metrix.net |

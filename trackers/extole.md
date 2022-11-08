@@ -5,6 +5,7 @@
 * extole.com
     * ahs.extole.com
     * american-giant.extole.com
+    * americanexpress.extole.com
     * ancestrydna.extole.com
     * aol.extole.com
     * barenecessities.extole.com
@@ -72,19 +73,25 @@
     * alltrucu.extole.io
     * alphaindustries.extole.io
     * amerisleep.extole.io
+    * anatomie.extole.io
     * aplaceformom.extole.io
+    * artcom.extole.io
     * ashleyfurniturehomestore.extole.io
     * ashleyhomestore.extole.io
     * asics.extole.io
     * athleta.extole.io
+    * aveda-au.extole.io
     * aveda-ca.extole.io
     * aveda.extole.io
     * ballarddesigns.extole.io
     * bare-escentuals.extole.io
+    * baremineralsuk.extole.io
     * barnes-and-noble-college.extole.io
     * bates.extole.io
     * baxterofcalifornia.extole.io
+    * bbw.extole.io
     * beaspermdonor.extole.io
+    * boden-au.extole.io
     * boden-de.extole.io
     * boden-fr.extole.io
     * boden-uk.extole.io
@@ -95,6 +102,8 @@
     * brunette-the-label.extole.io
     * buttah-skin.extole.io
     * c-spire.extole.io
+    * caavo.extole.io
+    * calo.extole.io
     * calvinklein.extole.io
     * carpartscom.extole.io
     * catfootwear.extole.io
@@ -115,19 +124,24 @@
     * columbiacu.extole.io
     * comfortzoneskin.extole.io
     * conceiveabilities.extole.io
+    * cos-bar.extole.io
     * coupon-cabin.extole.io
     * creativelive.extole.io
     * creditninja.extole.io
     * cwbank.extole.io
+    * darphin.extole.io
     * davines.extole.io
+    * dermablend.extole.io
     * discover-bank.extole.io
     * discover-student-loan.extole.io
     * ds-laboratories.extole.io
     * dutch.extole.io
     * embrace-pet-insurance.extole.io
     * eset.extole.io
+    * esteelauder.extole.io
     * etrade.extole.io
     * everlywell.extole.io
+    * experian.extole.io
     * fetchpet.extole.io
     * figo-pet-insurance.extole.io
     * fingercheck.extole.io
@@ -143,12 +157,14 @@
     * giantfood.extole.io
     * giantfoodstores.extole.io
     * giorgioarmanibeauty-usa.extole.io
+    * glamglow.extole.io
     * gnc.extole.io
     * go2bank.extole.io
     * greenlightcard.extole.io
     * hair.extole.io
     * hanacure.extole.io
     * harryrosen.extole.io
+    * hicapitalize.extole.io
     * hill-city.extole.io
     * hollandamerica.extole.io
     * homedepot.extole.io
@@ -164,10 +180,12 @@
     * join1440.extole.io
     * juicepress.extole.io
     * keds.extole.io
+    * kerastase-usa.extole.io
     * key.extole.io
     * kfcu.extole.io
     * knixteen.extole.io
     * kotn.extole.io
+    * la-mariette.extole.io
     * la-roche-posay.extole.io
     * lab-series.extole.io
     * lane-bryant.extole.io
@@ -229,6 +247,7 @@
     * skinceuticals.extole.io
     * snagajob.extole.io
     * soma.extole.io
+    * spothero.extole.io
     * starbucks.extole.io
     * steadyapp.extole.io
     * stop-and-shop.extole.io
@@ -295,27 +314,34 @@
 | share.alltrucu.org | alltrucu.extole.io |
 | share.alphaindustries.com | alphaindustries.extole.io |
 | refer.american-giant.com | american-giant.extole.com |
+| refer.americanexpress.com | americanexpress.extole.com |
 | refer.amerisleep.com | amerisleep.extole.io |
+| share.anatomie.com | anatomie.extole.io |
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
 | refer.aol.com | aol.extole.com |
 | share.aplaceformom.com | aplaceformom.extole.io |
+| refer.art.com | artcom.extole.io |
 | refer.ashleyfurniture.com | ashleyfurniturehomestore.extole.io |
 | share.ashleyhomestore.ca | ashleyhomestore.extole.io |
 | share.asics.com | asics.extole.io |
 | refer.athleta.com | athleta.extole.io |
 | refer.athletawell.com | athleta.extole.io |
+| share.aveda.com.au | aveda-au.extole.io |
 | share.refer-aveda.ca | aveda-ca.extole.io |
 | share.refer-aveda.com | aveda.extole.io |
 | refer.ballarddesigns.com | ballarddesigns.extole.io |
 | refer.bareminerals.com | bare-escentuals.extole.io |
+| refer.bareminerals.uk | baremineralsuk.extole.io |
 | refer.barenecessities.com | barenecessities.extole.com |
 | share.bncollege.com | barnes-and-noble-college.extole.io |
 | refer.basictalk.com | basictalk-ssl.extole.com |
 | refer.batesfootwear.com | bates.extole.io |
 | refer.baxterofcalifornia.com | baxterofcalifornia.extole.io |
+| refer.bathandbodyworks.com | bbw.extole.io |
 | share.beaspermdonor.com | beaspermdonor.extole.io |
+| share.bodenclothing.com.au | boden-au.extole.io |
 | share.bodendirect.de | boden-de.extole.io |
 | share.boden.fr | boden-fr.extole.io |
 | share.boden.co.uk | boden-uk.extole.io |
@@ -332,6 +358,8 @@
 | share.brunettethelabel.com | brunette-the-label.extole.io |
 | share.buttahskin.com | buttah-skin.extole.io |
 | refer.cspire.com | c-spire.extole.io |
+| refer.caavo.com | caavo.extole.io |
+| refer.calo.app | calo.extole.io |
 | share.calvinklein.us | calvinklein.extole.io |
 | share.carparts.com | carpartscom.extole.io |
 | share.catalogspree.com | catalogspree-ssl.extole.com |
@@ -355,6 +383,7 @@
 | refer.comfortzoneskin.com | comfortzoneskin.extole.io |
 | refer.compexusa.com | compexusa.extole.com |
 | share.conceiveabilities.com | conceiveabilities.extole.io |
+| share.cosbar.com | cos-bar.extole.io |
 | share.couponcabin.com | coupon-cabin.extole.io |
 | refer.creativelive.com | creativelive.extole.io |
 | share.creditninja.com | creditninja.extole.io |
@@ -362,9 +391,12 @@
 | ilove.volusion.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
+| share.refer-darphin.com | darphin.extole.io |
 | refer.us.davines.com | davines.extole.io |
+| share.dermablend.com | dermablend.extole.io |
 | referafriend.discover.com | discover-bank.extole.io |
 | friend.discover.com | discover-student-loan.extole.io |
+| friend.discoverstudentloans.com | discover-student-loan.extole.io |
 | refer.discover.com | discover.extole.com |
 | refer.divvybikes.com | divvybikes.extole.com |
 | refer.dnj.com | dnj.extole.com |
@@ -373,8 +405,10 @@
 | friend.ebags.com | ebags.extole.com |
 | refer.embracepetinsurance.com | embrace-pet-insurance.extole.io |
 | refer.eset.com | eset.extole.io |
+| share.esteelauder.com.tw | esteelauder.extole.io |
 | refer.etrade.net | etrade.extole.io |
 | refer.everlywell.com | everlywell.extole.io |
+| refer1.experian.com | experian.extole.io |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.figopetinsurance.com | figo-pet-insurance.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |
@@ -392,6 +426,7 @@
 | refer.giantfood.com | giantfood.extole.io |
 | refer.giantfoodstores.com | giantfoodstores.extole.io |
 | share.giorgioarmanibeauty-usa.com | giorgioarmanibeauty-usa.extole.io |
+| refer.glamglow.com | glamglow.extole.io |
 | refer.gnc.com | gnc.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | share.greenlight.com | greenlightcard.extole.io |
@@ -402,6 +437,7 @@
 | refer.harimari.com | harimari.extole.com |
 | refer.harryrosen.com | harryrosen.extole.io |
 | refer.healthypawspetinsurance.com | healthypaws.extole.com |
+| share.hicapitalize.com | hicapitalize.extole.io |
 | refer.hillcity.gap.com | hill-city.extole.io |
 | refer.hollandamerica.com | hollandamerica.extole.io |
 | refer.homedepot.com | homedepot.extole.io |
@@ -422,6 +458,7 @@
 | refer.juicepress.com | juicepress.extole.io |
 | refer.julep.com | julep.extole.com |
 | refer.keds.com | keds.extole.io |
+| refer.kerastase-usa.com | kerastase-usa.extole.io |
 | friends.keurig.com | keurig-ssl.extole.com |
 | friends.keurig.ca | keurigca.extole.com |
 | amis.keurig.ca | keurigfr.extole.com |
@@ -431,6 +468,7 @@
 | refer.knixteen.ca | knixteen.extole.io |
 | refer.knixteen.com | knixteen.extole.io |
 | my.kotn.com | kotn.extole.io |
+| share.la-mariette.com | la-mariette.extole.io |
 | refer.laroche-posay.us | la-roche-posay.extole.io |
 | refer.labseries.com | lab-series.extole.io |
 | refer.cacique.com | lane-bryant.extole.io |
@@ -513,6 +551,7 @@
 | refer.snagajob.com | snagajob.extole.io |
 | refer.soma.com | soma.extole.io |
 | refer.sperry.com | sperry.extole.com |
+| refer.spothero.com | spothero.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |
 | refer.stopandshop.com | stop-and-shop.extole.io |

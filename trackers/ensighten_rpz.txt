@@ -32,7 +32,6 @@ activate.shopjustice.com CNAME .
 activate.sun-sentinel.com CNAME .
 activate.suncorp.com.au CNAME .
 activate.tacdn.com CNAME .
-activate.theactivetimes.com CNAME .
 activate.united.com CNAME .
 activate1.fidelity.com CNAME .
 agility.cartoonnetwork.com CNAME .
@@ -71,6 +70,7 @@ analytics.synchronybank.com CNAME .
 analytics.synchronybusiness.com CNAME .
 analytics.synchronycareers.com CNAME .
 analytics.synchronyuniversity.com CNAME .
+analyticstest.amica.com CNAME .
 assets1.aainsurance.co.nz CNAME .
 assets1.aami.com.au CNAME .
 assets1.apia.com.au CNAME .
@@ -195,11 +195,13 @@ p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
 privacy.28degreescard.com.au CNAME .
+privacy.amadrinks.be CNAME .
 privacy.blade.app CNAME .
 privacy.gemfinance.co.nz CNAME .
 privacy.gomastercard.com.au CNAME .
 privacy.heineken.it CNAME .
 privacy.heishop.mx CNAME .
+privacy.latitudefinancial.com CNAME .
 pulse.delta.com CNAME .
 pulse.mcdonalds.com CNAME .
 pulse.rac.co.uk CNAME .
@@ -215,6 +217,7 @@ smt.jcpenney.com CNAME .
 sst.dell.com CNAME .
 sst.johnlewis.com CNAME .
 sst.nab.com.au CNAME .
+suncorp.activate.ensighten.com CNAME .
 t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
 tagman.crystalsummer.co.uk CNAME .
@@ -238,6 +241,7 @@ tms-test.nab.com.au CNAME .
 tms.americanexpress.com CNAME .
 tms.capitalone.com CNAME .
 tms.delta.com CNAME .
+tms.experian.com CNAME .
 tms.kone.com CNAME .
 tms.marriott.com CNAME .
 tms.nab.com.au CNAME .

@@ -132,6 +132,7 @@ tr.devis-companeo.com CNAME .
 tr.devis-companeo.fr CNAME .
 tr.devis-express.be CNAME .
 tr.devis-professionnels.com CNAME .
+tr.devis-professionnels.fr CNAME .
 tr.devis.digital CNAME .
 tr.devize-companeo.ro CNAME .
 tr.digitaldigest.lvmh.com CNAME .
@@ -225,6 +226,7 @@ tr.info-btob-leaders.com CNAME .
 tr.info-companeo.be CNAME .
 tr.info.actionlogement.fr CNAME .
 tr.info.ag2rlamondiale.fr CNAME .
+tr.info.aliae.com CNAME .
 tr.info.aprr.fr CNAME .
 tr.info.arialcnp.fr CNAME .
 tr.info.bessans.com CNAME .
@@ -372,6 +374,7 @@ tr.news.economic-studies.fr CNAME .
 tr.news.editions-lva.fr CNAME .
 tr.news.enkiapp.io CNAME .
 tr.news.entreprise-pm.com CNAME .
+tr.news.epicery.com CNAME .
 tr.news.eureden.com CNAME .
 tr.news.exclu.fr CNAME .
 tr.news.flandrintechnologies.com CNAME .
@@ -395,12 +398,14 @@ tr.news.lacollection-airfrance.be CNAME .
 tr.news.lacollection-airfrance.ch CNAME .
 tr.news.lacollection-airfrance.fr CNAME .
 tr.news.lacollectionairfrance.be CNAME .
+tr.news.lacollectionairfrance.co.uk CNAME .
 tr.news.lacollectionairfrance.fr CNAME .
 tr.news.leclubtravel.fr CNAME .
 tr.news.lentreprise.lexpress.fr CNAME .
 tr.news.lexpansion.lexpress.fr CNAME .
 tr.news.lexpress.fr CNAME .
 tr.news.linxea.com CNAME .
+tr.news.lisez.com CNAME .
 tr.news.maisonfoody.com CNAME .
 tr.news.manufacturing.fr CNAME .
 tr.news.mdbp.fr CNAME .
@@ -491,6 +496,7 @@ tr.offer-companeo.co.uk CNAME .
 tr.offerte.migliorifornitori.it CNAME .
 tr.offre-companeo.com CNAME .
 tr.offres-professionnelles.fr CNAME .
+tr.offres.ap-regie.fr CNAME .
 tr.offres.bfmtv.com CNAME .
 tr.offrevip.banque-casino.fr CNAME .
 tr.offrevip.floa.fr CNAME .
@@ -540,9 +546,11 @@ tr.scienceshumaines.info CNAME .
 tr.scienceshumaines.pro CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
 tr.service-mail.carrefour.fr CNAME .
+tr.serviceclient.adagcaladoise.fr CNAME .
 tr.serviceclient.bf-depannage.fr CNAME .
 tr.serviceclient.depanchauffageservice.fr CNAME .
 tr.serviceclient.gazservicerapide.fr CNAME .
+tr.serviceclient.ochauffage.fr CNAME .
 tr.serviceclient.somgaz.fr CNAME .
 tr.serviceclient.younited-coach.com CNAME .
 tr.serviceclient.younited-credit.com CNAME .

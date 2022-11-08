@@ -132,6 +132,7 @@
 ||tr.devis-companeo.fr^
 ||tr.devis-express.be^
 ||tr.devis-professionnels.com^
+||tr.devis-professionnels.fr^
 ||tr.devis.digital^
 ||tr.devize-companeo.ro^
 ||tr.digitaldigest.lvmh.com^
@@ -225,6 +226,7 @@
 ||tr.info-companeo.be^
 ||tr.info.actionlogement.fr^
 ||tr.info.ag2rlamondiale.fr^
+||tr.info.aliae.com^
 ||tr.info.aprr.fr^
 ||tr.info.arialcnp.fr^
 ||tr.info.bessans.com^
@@ -372,6 +374,7 @@
 ||tr.news.editions-lva.fr^
 ||tr.news.enkiapp.io^
 ||tr.news.entreprise-pm.com^
+||tr.news.epicery.com^
 ||tr.news.eureden.com^
 ||tr.news.exclu.fr^
 ||tr.news.flandrintechnologies.com^
@@ -395,12 +398,14 @@
 ||tr.news.lacollection-airfrance.ch^
 ||tr.news.lacollection-airfrance.fr^
 ||tr.news.lacollectionairfrance.be^
+||tr.news.lacollectionairfrance.co.uk^
 ||tr.news.lacollectionairfrance.fr^
 ||tr.news.leclubtravel.fr^
 ||tr.news.lentreprise.lexpress.fr^
 ||tr.news.lexpansion.lexpress.fr^
 ||tr.news.lexpress.fr^
 ||tr.news.linxea.com^
+||tr.news.lisez.com^
 ||tr.news.maisonfoody.com^
 ||tr.news.manufacturing.fr^
 ||tr.news.mdbp.fr^
@@ -491,6 +496,7 @@
 ||tr.offerte.migliorifornitori.it^
 ||tr.offre-companeo.com^
 ||tr.offres-professionnelles.fr^
+||tr.offres.ap-regie.fr^
 ||tr.offres.bfmtv.com^
 ||tr.offrevip.banque-casino.fr^
 ||tr.offrevip.floa.fr^
@@ -540,9 +546,11 @@
 ||tr.scienceshumaines.pro^
 ||tr.secteurentreprises.harmonie-mutuelle.fr^
 ||tr.service-mail.carrefour.fr^
+||tr.serviceclient.adagcaladoise.fr^
 ||tr.serviceclient.bf-depannage.fr^
 ||tr.serviceclient.depanchauffageservice.fr^
 ||tr.serviceclient.gazservicerapide.fr^
+||tr.serviceclient.ochauffage.fr^
 ||tr.serviceclient.somgaz.fr^
 ||tr.serviceclient.younited-coach.com^
 ||tr.serviceclient.younited-credit.com^

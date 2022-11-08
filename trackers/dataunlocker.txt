@@ -8,7 +8,6 @@
 ||11b6n4ty2x3.taxliencode.com^
 ||13js1lbtbj3.sparkloop.app^
 ||16i6nuuc2ej.koelewijn.nl^
-||1796kpkzuwj.www.hawpar.com^
 ||1a715b8q5m3j.www.logology.co^
 ||1amehwchx31.bloxdhop.io^
 ||1baq2nvd6n7.www.keevowallet.com^
@@ -24,6 +23,7 @@
 ||2rid9fii9chx.www.atlaslane.com^
 ||2ydzwm1jh5fr.www.earthclassmail.com^
 ||2yqcaqbfnv.nextgen.shareablee.com^
+||3h100nlegmh4.www.cybernetman.com^
 ||3l0zszdzjhpw.www.comicleaks.com^
 ||3wn3w3skxpym.round.t3.gg^
 ||48z7wyjdsywu.www.revistaferramental.com.br^
@@ -39,6 +39,7 @@
 ||ah2sjk1n75th.app.tapmyback.com^
 ||am3s622gcd6m.tt.live^
 ||av6fm8zw2cvz.furucombo.app^
+||b1tow9h4erpw.anur.polymerdev.com^
 ||b20p6lt350nt.app.polymersearch.com^
 ||b536mpmxoqxa.www.themoneytizer.com^
 ||b5j6itccyluq.nofluffjobs.com^
@@ -79,24 +80,23 @@
 ||pomeb69omwjj.www.earthclassmail.com^
 ||qqeuq1cmoooq.accuretawealth.com^
 ||qt5jl7r111h7.allesvoormijnvakantie.nl^
-||qw2576y78zyu.kvest.ee^
 ||ros3d4dbs3px.salud-masculina.info^
-||rwma0q4y8lg7.app.datree.io^
 ||s2whyufxmzam.chatpay.com.br^
 ||sxwxswg8z1xe.www.arnowebtv.com^
 ||t7baxp1xmw00.boxoffice.adventuretix.com^
 ||ti3av8k3ikwm.resume.gerardbosch.xyz^
+||tnincvf1d1jl.de.themoneytizer.com^
 ||tos5dqejpd.www.freecodecamp.org^
 ||twn36gx4109r.loveisblank.com^
 ||u0crsrah75fy.camberlion.com^
 ||uhm26jyr11zv.www.freecodecamp.org^
 ||unl1zvy2zuyn.franchiseplus.nl^
-||uug9xxbr4zqo.karlnippoldt.com^
 ||vzal21mooz.hyperwrite.ai^
 ||w38ju82bano4.cv.gerardbosch.xyz^
 ||wiar9wff0ma9.ping.t3.gg^
 ||xlvvy4msxr.coolinastore.com^
 ||y4e04gql5o1b.www.nookgaming.com^
+||yfbtcjlsmpv1.app.mailfloss.com^
 ||zkmhhr1fr79z.dictionary.basabali.org^
 !
 ! monopoly-drain.ga disguised trackers

@@ -8,7 +8,6 @@
 11b6n4ty2x3.taxliencode.com CNAME .
 13js1lbtbj3.sparkloop.app CNAME .
 16i6nuuc2ej.koelewijn.nl CNAME .
-1796kpkzuwj.www.hawpar.com CNAME .
 1a715b8q5m3j.www.logology.co CNAME .
 1amehwchx31.bloxdhop.io CNAME .
 1baq2nvd6n7.www.keevowallet.com CNAME .
@@ -24,6 +23,7 @@
 2rid9fii9chx.www.atlaslane.com CNAME .
 2ydzwm1jh5fr.www.earthclassmail.com CNAME .
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
+3h100nlegmh4.www.cybernetman.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
@@ -39,6 +39,7 @@
 ah2sjk1n75th.app.tapmyback.com CNAME .
 am3s622gcd6m.tt.live CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
+b1tow9h4erpw.anur.polymerdev.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
@@ -79,24 +80,23 @@ p9jhxqlkmn.miniso.com.gr CNAME .
 pomeb69omwjj.www.earthclassmail.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
-qw2576y78zyu.kvest.ee CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
-rwma0q4y8lg7.app.datree.io CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
 sxwxswg8z1xe.www.arnowebtv.com CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 ti3av8k3ikwm.resume.gerardbosch.xyz CNAME .
+tnincvf1d1jl.de.themoneytizer.com CNAME .
 tos5dqejpd.www.freecodecamp.org CNAME .
 twn36gx4109r.loveisblank.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
-uug9xxbr4zqo.karlnippoldt.com CNAME .
 vzal21mooz.hyperwrite.ai CNAME .
 w38ju82bano4.cv.gerardbosch.xyz CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
+yfbtcjlsmpv1.app.mailfloss.com CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
 ;
 ; monopoly-drain.ga disguised trackers

@@ -28,6 +28,7 @@
 ||bch8.destinia.co^
 ||bdj5.terrassesmontecarlosbm.com^
 ||bft5.destinia.fr^
+||bja2.destinia.cz^
 ||bpe2.destinia.co.il^
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
@@ -36,6 +37,7 @@
 ||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||ca.clubavantages.net^
+||cbl6.destinia.gt^
 ||cc.conforama.es^
 ||ch.credithypo.com^
 ||ch0p.darty.com^
@@ -46,6 +48,7 @@
 ||csv4.ebs-paris.fr^
 ||ct5m.citadium.com^
 ||ctp1.bforbank.com^
+||cvi6.destinia.qa^
 ||d0f.le-dauphin.com^
 ||d2u.dauphinquebec.com^
 ||def1.optimhome-recrutement.com^
@@ -136,6 +139,7 @@
 ||ebc1.capifrance.fr^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
+||eit3.destinia.nl^
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
@@ -195,6 +199,8 @@
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^
+||iro.iperceptions.com^
+||irs.iperceptions.com^
 ||jcr3.onlyyouhotels.com^
 ||jelr1.dili.fr^
 ||jfp6.destinia.de^
@@ -230,6 +236,7 @@
 ||mm.melia.com^
 ||mn.mistermenuiserie.com^
 ||moh7.yoodoogood.com^
+||mre6.destinia.ma^
 ||msz3.destinia.cn^
 ||mud4.destinia.com.eg^
 ||mva1.maeva.com^
@@ -254,6 +261,7 @@
 ||ogb2.eauthermalejonzac.com^
 ||ogb2.leanatureboutique.com^
 ||ogb2.natessance.com^
+||oit4.destinia.com.br^
 ||ojm4.palladiumhotelgroup.com^
 ||oph7o.montecarlosbm-corporate.com^
 ||oqr4.destinia.in^
@@ -286,6 +294,7 @@
 ||prx6.destinia.ch^
 ||ps.pmu.fr^
 ||pv.partenaires-verisure.fr^
+||qal0.destinia.gr^
 ||qfo.eurotierce.be^
 ||qjg4.destinia.asia^
 ||qpl9.destinia.dk^
@@ -295,11 +304,15 @@
 ||qzl8.destinia.fi^
 ||r1ztni.oui.sncf^
 ||r4nds.absorba.com^
+||rce.iperceptions.com^
+||rjg2.destinia.ly^
+||rmp4.destinia.uy^
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
 ||ry0.rythmefm.com^
 ||s4e8.cascades.com^
+||sa.lesselectionsskoda.fr^
 ||sa.skodasuperb.fr^
 ||sby1.madeindesign.de^
 ||sd.securitasdirect.fr^
@@ -341,6 +354,7 @@
 ||ueb4.destinia.tw^
 ||ued8.destinia.sg^
 ||uhn9.up-france.fr^
+||ujq1.destinia.is^
 ||upz1.destinia.lt^
 ||uue2.destinia.ir^
 ||uwy4.aegon.es^

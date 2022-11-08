@@ -8,6 +8,7 @@
 ||a8.01cloud.jp^
 ||a8.abemashopping.jp^
 ||a8.aim-beauty-medicalclinic.com^
+||a8.benro.jp^
 ||a8.biglobe.openplat.jp^
 ||a8.bousui-pro.com^
 ||a8.brandcosme.com^
@@ -38,9 +39,11 @@
 ||a8.hemptouch.co.jp^
 ||a8.hikari-n.jp^
 ||a8.hitohana.tokyo^
+||a8.hokkaido-nb.jp^
 ||a8.i-netservice.net^
 ||a8.ippin-do.com^
 ||a8.kajitaku.com^
+||a8.kanbei.jp^
 ||a8.kimonomachi.co.jp^
 ||a8.kireiyu.com^
 ||a8.lavie-official.jp^
@@ -48,6 +51,7 @@
 ||a8.lens-labo.com^
 ||a8.looop-denki.com^
 ||a8.makeshop.jp^
+||a8.minion-wifi.com^
 ||a8.mm-digitalsales.academy^
 ||a8.mochu.jp^
 ||a8.mosh.jp^
@@ -107,6 +111,7 @@
 ||a8click.daini2.co.jp^
 ||a8click.you-up.com^
 ||a8click.young-mobile.net^
+||a8clk.1osechi.com^
 ||a8clk.app.offerbox.jp^
 ||a8clk.apply-shop.menu.inc^
 ||a8clk.asahi-net.or.jp^
@@ -155,6 +160,7 @@
 ||a8clk.life.bang.co.jp^
 ||a8clk.lolipop.jp^
 ||a8clk.low-ya.com^
+||a8clk.ma-platform.com^
 ||a8clk.macpaw.com^
 ||a8clk.manabiz.jp^
 ||a8clk.manage.conoha.jp^
@@ -182,6 +188,7 @@
 ||a8clk.rf28.com^
 ||a8clk.risou.com^
 ||a8clk.secure.jetboy.jp^
+||a8clk.shikaku-square.com^
 ||a8clk.shokutakubin.com^
 ||a8clk.shop.kitamura.jp^
 ||a8clk.shop.shareme.jp^
@@ -192,10 +199,12 @@
 ||a8clk.skynet-c.jp^
 ||a8clk.smile-zemi.jp^
 ||a8clk.stylestore.jp^
+||a8clk.takken-job.com^
 ||a8clk.tanp.jp^
 ||a8clk.teacon.jp^
 ||a8clk.titivate.jp^
 ||a8clk.toretoku.jp^
+||a8clk.tsuchiya-kaban.jp^
 ||a8clk.unlace.net^
 ||a8clk.ur-s.me^
 ||a8clk.voice-inc.co.jp^
@@ -205,6 +214,8 @@
 ||a8clk.www.autoway.jp^
 ||a8clk.www.cledepeau-beaute.com^
 ||a8clk.www.clip-studio.com^
+||a8clk.www.daiohs.com^
+||a8clk.www.jaf.or.jp^
 ||a8clk.www.ka-nabell.com^
 ||a8clk.www.nortonstore.jp^
 ||a8clk.xserver.ne.jp^
@@ -225,6 +236,7 @@
 ||a8cv.b-concept.tokyo^
 ||a8cv.be-slim-spbikyou.com^
 ||a8cv.bettysbeauty.jp^
+||a8cv.biken-mall.jp^
 ||a8cv.bizcomfort.jp^
 ||a8cv.bonaventura.shop^
 ||a8cv.brandeuse.jp^
@@ -300,6 +312,7 @@
 ||a8cv.santasan.net^
 ||a8cv.select-type.com^
 ||a8cv.shibarinashi-wifi.jp^
+||a8cv.shibuya-scramble-figure.com^
 ||a8cv.shinro.info^
 ||a8cv.shokubun.ec-design.co.jp^
 ||a8cv.shop.matsuo1956.jp^
@@ -360,6 +373,7 @@
 ||a8trk.www.std-lab.jp^
 ||acv.cmf-hikari.net^
 ||acv.mc-doctor.net^
+||acv.softbank-hikaricollabo.com^
 ||ad.ichiban-boshi.com^
 ||ad.magokoro-care-shoku.com^
 ||ad.rejichoice.jp^
@@ -421,6 +435,7 @@
 ||sokutei.car2828.jp^
 ||sub.booksdream-mypage.com^
 ||summary.bookoffonline.co.jp^
+||tag.minimaid.co.jp^
 ||test.shigoto-web.com^
 ||tracking.lead-plus.jp^
 ||trck.aeon.co.jp^

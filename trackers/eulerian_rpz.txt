@@ -28,6 +28,7 @@ b1n.carabins.umontreal.ca CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
 bft5.destinia.fr CNAME .
+bja2.destinia.cz CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
@@ -36,6 +37,7 @@ c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
+cbl6.destinia.gt CNAME .
 cc.conforama.es CNAME .
 ch.credithypo.com CNAME .
 ch0p.darty.com CNAME .
@@ -46,6 +48,7 @@ csm.magnetintell.com CNAME .
 csv4.ebs-paris.fr CNAME .
 ct5m.citadium.com CNAME .
 ctp1.bforbank.com CNAME .
+cvi6.destinia.qa CNAME .
 d0f.le-dauphin.com CNAME .
 d2u.dauphinquebec.com CNAME .
 def1.optimhome-recrutement.com CNAME .
@@ -136,6 +139,7 @@ eat9.thebeat925.ca CNAME .
 ebc1.capifrance.fr CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
+eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
@@ -195,6 +199,8 @@ hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
+iro.iperceptions.com CNAME .
+irs.iperceptions.com CNAME .
 jcr3.onlyyouhotels.com CNAME .
 jelr1.dili.fr CNAME .
 jfp6.destinia.de CNAME .
@@ -230,6 +236,7 @@ mi.miliboo.lu CNAME .
 mm.melia.com CNAME .
 mn.mistermenuiserie.com CNAME .
 moh7.yoodoogood.com CNAME .
+mre6.destinia.ma CNAME .
 msz3.destinia.cn CNAME .
 mud4.destinia.com.eg CNAME .
 mva1.maeva.com CNAME .
@@ -254,6 +261,7 @@ ogb2.biovie.com CNAME .
 ogb2.eauthermalejonzac.com CNAME .
 ogb2.leanatureboutique.com CNAME .
 ogb2.natessance.com CNAME .
+oit4.destinia.com.br CNAME .
 ojm4.palladiumhotelgroup.com CNAME .
 oph7o.montecarlosbm-corporate.com CNAME .
 oqr4.destinia.in CNAME .
@@ -286,6 +294,7 @@ pqn7.cheque-dejeuner.fr CNAME .
 prx6.destinia.ch CNAME .
 ps.pmu.fr CNAME .
 pv.partenaires-verisure.fr CNAME .
+qal0.destinia.gr CNAME .
 qfo.eurotierce.be CNAME .
 qjg4.destinia.asia CNAME .
 qpl9.destinia.dk CNAME .
@@ -295,11 +304,15 @@ qyn6.ofertastelecable.es CNAME .
 qzl8.destinia.fi CNAME .
 r1ztni.oui.sncf CNAME .
 r4nds.absorba.com CNAME .
+rce.iperceptions.com CNAME .
+rjg2.destinia.ly CNAME .
+rmp4.destinia.uy CNAME .
 rqz4.supdigital.fr CNAME .
 rup5.destinia.ru CNAME .
 rvz9.destinia.co.ro CNAME .
 ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
+sa.lesselectionsskoda.fr CNAME .
 sa.skodasuperb.fr CNAME .
 sby1.madeindesign.de CNAME .
 sd.securitasdirect.fr CNAME .
@@ -341,6 +354,7 @@ udr9.livera.nl CNAME .
 ueb4.destinia.tw CNAME .
 ued8.destinia.sg CNAME .
 uhn9.up-france.fr CNAME .
+ujq1.destinia.is CNAME .
 upz1.destinia.lt CNAME .
 uue2.destinia.ir CNAME .
 uwy4.aegon.es CNAME .

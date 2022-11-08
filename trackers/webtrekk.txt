@@ -28,6 +28,7 @@
 ||tracking.tchibo.com.tr^
 ||tracking.tchibo.cz^
 ||tracking.tchibo.de^
+||tracking.tchibo.hu^
 ||tracking.tchibo.sk^
 ||trk.nuernberger.de^
 ||w3.flatex.at^
@@ -134,6 +135,7 @@
 ||mapp.jysk.dk^
 ||mapp.jysk.nl^
 ||mapp.yesstyle.com^
+||mit.bhw.de^
 ||mit.db.com^
 ||mit.deutsche-bank.de^
 ||mit.dws.com^
@@ -252,6 +254,7 @@
 ||web.news.piquadro.com^
 ||web.news.pleasefashion.com^
 ||web.news.thebridge.it^
+||web.newsletter.koffer-to-go.de^
 ||web.newsletter.viviennewestwood.com^
 ||web.online.monnalisa.com^
 ||web.pages.lloydspharmacy.com^

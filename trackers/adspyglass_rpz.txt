@@ -36,9 +36,9 @@ a.ax.xxx CNAME .
 a.bitporno.com CNAME .
 a.bitporno.to CNAME .
 a.bloblohub.com CNAME .
+a.boyjackpot.com CNAME .
 a.cashjma.com CNAME .
 a.digitalgiftshopping.com CNAME .
-a.dirtyasmr.com CNAME .
 a.dorkim.club CNAME .
 a.dphunters.me CNAME .
 a.eachporn.com CNAME .
@@ -47,6 +47,7 @@ a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.focusde.info CNAME .
+a.fuckamouth.com CNAME .
 a.gofilms4u.pro CNAME .
 a.hentai369.com CNAME .
 a.hentaitube.icu CNAME .
@@ -59,9 +60,11 @@ a.manga18.site CNAME .
 a.marketing.com.sd CNAME .
 a.milfpunish.com CNAME .
 a.neverbe.xyz CNAME .
+a.p123p.com CNAME .
 a.pinayviralsexx.com CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornhex.com CNAME .
+a.prmovies.org CNAME .
 a.pumpity.net CNAME .
 a.ratihbugil.online CNAME .
 a.reryn2ce.com CNAME .
@@ -89,6 +92,7 @@ adds.al3ably.com CNAME .
 adilk.ilikecomix.com CNAME .
 ads.49inchporn.club CNAME .
 ads.al3ably.com CNAME .
+ads.free-to.download CNAME .
 ads.poptwinks.com CNAME .
 ads.pornharlot.net CNAME .
 ads.tabuflix.com CNAME .
@@ -152,6 +156,7 @@ atom.seotul.pics CNAME .
 audi.lol CNAME .
 av5.mofoshd.org CNAME .
 awrfds3.pornpapa.com CNAME .
+b.bloblohub.com CNAME .
 b.comihon.com CNAME .
 b.filexan.com CNAME .
 b.harehop.com CNAME .
@@ -199,6 +204,7 @@ coinzba.mom CNAME .
 comp.aniplay.it CNAME .
 cool.ah-me.com CNAME .
 costa.xsuffer.com CNAME .
+cowpaz.pics CNAME .
 cx6.lastxxxmovies.com CNAME .
 dam.tucsun.mom CNAME .
 dashboard.fc2ppv.buzz CNAME .
@@ -234,6 +240,7 @@ freememes.desiceleb.top CNAME .
 fresh.tuiz.pics CNAME .
 fx9.freepornoboss.com CNAME .
 g6j.cupidonmedia.com CNAME .
+gamestar.lol CNAME .
 gay0day.online CNAME .
 geovideo.name CNAME .
 gg.xszcdn.com CNAME .
@@ -249,6 +256,7 @@ hazicu.hothomefuck.com CNAME .
 hehe686.lol CNAME .
 help.fanza.cc CNAME .
 hi999.mom CNAME .
+hizgame.mom CNAME .
 hoabon4.lol CNAME .
 honda.lol CNAME .
 hq3x.com CNAME .
@@ -267,6 +275,7 @@ js.mangapro.top CNAME .
 js.xemkqxs.com CNAME .
 jx3.freepornobook.com CNAME .
 kanhsky.mom CNAME .
+kembuck.homes CNAME .
 ken9.lol CNAME .
 kena9.mom CNAME .
 khetlet.mom CNAME .
@@ -384,6 +393,7 @@ sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
 sexy.mrsexy.xyz CNAME .
 sg.xclick24.com CNAME .
+sgzhg.pornlovo.co CNAME .
 shemale.house CNAME .
 shemale.team CNAME .
 sin.chjnmi.xyz CNAME .
@@ -462,14 +472,17 @@ www6.freeanimesource.com CNAME .
 www6.hentai-zone.com CNAME .
 www8.upload-pics.com CNAME .
 x1cdn.fin.ovh CNAME .
+x2c1v4.hentaigold.net CNAME .
 x2sfa.javgg.eu CNAME .
 xau.pongping.mom CNAME .
 xserve.zapurl.cc CNAME .
 xxxlove.rooski.net CNAME .
+xzillame.com CNAME .
 youzok.lol CNAME .
 z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .
 zeenite.online CNAME .
+zone.stripcam.tv CNAME .
 zzz.pissrip.net CNAME .
 ;
 ; cdn66584302.blazingcdn.net disguised trackers

@@ -8,6 +8,8 @@
 ||ac-dir-latam.cau1aighae.com^
 ||ac-dir-sing.cau1aighae.com^
 ||adsbid-ad-click.adsbid.ru^
+||adsbid-buyout.adghndou0sdh.ru^
+||adsbid-click.adsbid.ru^
 ||adsbid-sh-click.adghndou0sdh.ru^
 ||adsbid-sh-click.sing.adghndou0sdh.ru^
 ||adv.ads2.bid^

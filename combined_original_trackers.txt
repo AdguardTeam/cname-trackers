@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2022-11-01T16:33:48+00:00
+! TimeUpdated: 2022-11-08T17:44:54+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 !
@@ -137,6 +137,9 @@
 ! Company: Webtrekk
 ||webtrekk.net^
 ||wt-eu02.net^
+!
+! Company: Webair
+||ak-is2.net^
 !
 ! Company: Wizaly
 ||wizaly.com^
