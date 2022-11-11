@@ -69,6 +69,7 @@
 ||analytics.synchronybank.com^
 ||analytics.synchronybusiness.com^
 ||analytics.synchronycareers.com^
+||analytics.synchronyfinancial.com^
 ||analytics.synchronyuniversity.com^
 ||analyticstest.amica.com^
 ||assets1.aainsurance.co.nz^

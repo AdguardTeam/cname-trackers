@@ -14,6 +14,7 @@ ad.aucfan.com CNAME .
 ad.aucview.com CNAME .
 ad.autorace.jp CNAME .
 ad.kddi-fs.com CNAME .
+ad.ordersuit.info CNAME .
 ad.takasu.co.jp CNAME .
 ad.tempstaff.co.jp CNAME .
 ad.theatreacademy.jp CNAME .
@@ -206,6 +207,7 @@ ebistoppan1.kyowahakko-bio-campaign-1.com CNAME .
 ebs.viosalon.com CNAME .
 emc.dr-stick.shop CNAME .
 greenjapan-cname.green-japan.com CNAME .
+hokkaidobank.rapi.jp CNAME .
 isebis.takamiclinic.or.jp CNAME .
 isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
@@ -224,6 +226,7 @@ seo.tkc110.jp CNAME .
 sep02.hinagiku-life.jp CNAME .
 sinceregarden.sincere-garden.jp CNAME .
 test-ad.lucia-c.com CNAME .
+tracking.axis.onl CNAME .
 tracking.mysurance.co.jp CNAME .
 tracking.nokai.jp CNAME .
 tracking.wao-corp.com CNAME .

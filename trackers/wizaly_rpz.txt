@@ -18,6 +18,7 @@ tk.airfrance.co.kr CNAME .
 tk.airfrance.co.uk CNAME .
 tk.airfrance.cz CNAME .
 tk.airfrance.de CNAME .
+tk.airfrance.dk CNAME .
 tk.airfrance.fi CNAME .
 tk.airfrance.fr CNAME .
 tk.airfrance.ga CNAME .
@@ -29,8 +30,11 @@ tk.airfrance.it CNAME .
 tk.airfrance.ma CNAME .
 tk.airfrance.mq CNAME .
 tk.airfrance.ng CNAME .
+tk.airfrance.pa CNAME .
+tk.airfrance.pf CNAME .
 tk.airfrance.pl CNAME .
 tk.airfrance.pt CNAME .
+tk.airfrance.re CNAME .
 tk.airfrance.ro CNAME .
 tk.airfrance.ru CNAME .
 tk.airfrance.se CNAME .

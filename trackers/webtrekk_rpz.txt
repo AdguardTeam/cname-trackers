@@ -262,6 +262,7 @@ web.s.sasrx.com CNAME .
 web.sensilab.com CNAME .
 web.sensilab.de CNAME .
 web.sensilab.ie CNAME .
+web.sensilab.it CNAME .
 web.sensilab.ro CNAME .
 web.sensilab.se CNAME .
 web.sensilab.si CNAME .

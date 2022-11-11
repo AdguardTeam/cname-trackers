@@ -30,12 +30,15 @@
     * h-4hq91r5k.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-5gi6k6h5.online-metrix.net
+    * h-5glaq71x.online-metrix.net
     * h-5pxao9h8.online-metrix.net
     * h-5wdrto0i.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
     * h-6jfhwoo3.online-metrix.net
     * h-6rj18la4.online-metrix.net
     * h-6voqock8.online-metrix.net
+    * h-6wp7e261.online-metrix.net
+    * h-6xl38gst.online-metrix.net
     * h-6y7oe1nl.online-metrix.net
     * h-7hs48cp7.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
@@ -77,6 +80,7 @@
     * h-apruvd.online-metrix.net
     * h-ascendloans.online-metrix.net
     * h-asjl0mko-2.online-metrix.net
+    * h-asjl0mko.online-metrix.net
     * h-astrazeneca.online-metrix.net
     * h-asurion.online-metrix.net
     * h-autoowners.online-metrix.net
@@ -141,6 +145,7 @@
     * h-cdn2.intercambioexpress.online-metrix.net
     * h-ce5udwb7.online-metrix.net
     * h-certifid.online-metrix.net
+    * h-ceurt9zj.online-metrix.net
     * h-charter.online-metrix.net
     * h-chase.online-metrix.net
     * h-chegg.online-metrix.net
@@ -207,6 +212,7 @@
     * h-delrebate.online-metrix.net
     * h-dghzbk34.online-metrix.net
     * h-dgzuja78.online-metrix.net
+    * h-dhbv8axx.online-metrix.net
     * h-dhgate.online-metrix.net
     * h-digitalcredit.online-metrix.net
     * h-digitecgalaxusag.online-metrix.net
@@ -221,6 +227,7 @@
     * h-drnycoos.online-metrix.net
     * h-dstssc.online-metrix.net
     * h-dszu15n8.online-metrix.net
+    * h-dwiy84jk-a.online-metrix.net
     * h-dwiy84jk.online-metrix.net
     * h-dxmw0w7i.online-metrix.net
     * h-dy06hdpq.online-metrix.net
@@ -228,6 +235,8 @@
     * h-e04kqxof.online-metrix.net
     * h-ebay-kleinanzeigen.online-metrix.net
     * h-ebay.online-metrix.net
+    * h-ecampus.online-metrix.net
+    * h-elsevier.online-metrix.net
     * h-emirates.online-metrix.net
     * h-equitablebank.online-metrix.net
     * h-fairstone.online-metrix.net
@@ -261,6 +270,7 @@
     * h-gumtree2.online-metrix.net
     * h-gusto.online-metrix.net
     * h-gyft.online-metrix.net
+    * h-halifax-co-uk.online-metrix.net
     * h-halifax.online-metrix.net
     * h-hardrock.online-metrix.net
     * h-hie95lph-duo.online-metrix.net
@@ -304,6 +314,8 @@
     * h-k8vif92e.sri3.online-metrix.net
     * h-kabbage.online-metrix.net
     * h-kelmar-il.online-metrix.net
+    * h-kelmar-ma.online-metrix.net
+    * h-kelmar-nj.online-metrix.net
     * h-kelmar-ut.online-metrix.net
     * h-kelmar-wa.online-metrix.net
     * h-kelmar.online-metrix.net
@@ -337,6 +349,7 @@
     * h-marktplaats.online-metrix.net
     * h-massmutual.online-metrix.net
     * h-mbna.online-metrix.net
+    * h-messa.online-metrix.net
     * h-metlife.online-metrix.net
     * h-metrobank.online-metrix.net
     * h-microsoft.online-metrix.net
@@ -371,6 +384,7 @@
     * h-okcoin.online-metrix.net
     * h-okinushub.online-metrix.net
     * h-onbudget.online-metrix.net
+    * h-onecall.online-metrix.net
     * h-online.citi.online-metrix.net
     * h-opendoor.online-metrix.net
     * h-optumid.online-metrix.net
@@ -409,6 +423,7 @@
     * h-rbsint.online-metrix.net
     * h-regionsbank.online-metrix.net
     * h-regionsbank2.online-metrix.net
+    * h-rentpath.online-metrix.net
     * h-retail-sc.online-metrix.net
     * h-retailservicescommercial.citi.online-metrix.net
     * h-royalairmaroc.online-metrix.net
@@ -445,6 +460,7 @@
     * h-thmep.zondaglobal.online-metrix.net
     * h-threatmetrix.online-metrix.net
     * h-thumbtack.online-metrix.net
+    * h-tiaa-cref-at-test.online-metrix.net
     * h-tiaa-cref.online-metrix.net
     * h-tm.bdc-cdn.com.online-metrix.net
     * h-tmrs.online-metrix.net
@@ -476,6 +492,7 @@
     * h-visa2.online-metrix.net
     * h-vodeno.online-metrix.net
     * h-voto-provident.online-metrix.net
+    * h-vrs.online-metrix.net
     * h-wallapop.online-metrix.net
     * h-walmart.online-metrix.net
     * h-welabbank.online-metrix.net
@@ -484,6 +501,7 @@
     * h-westpac.online-metrix.net
     * h-williamhill.online-metrix.net
     * h-wisconsindwd.online-metrix.net
+    * h-worldpay-ovhcloud.online-metrix.net
     * h-worldpay.ddcprod.online-metrix.net
     * h-worldpay.ddctest.online-metrix.net
     * h-worldremit.online-metrix.net
@@ -491,6 +509,7 @@
     * h-ynap.biz.online-metrix.net
     * h-zhongantechnologies.online-metrix.net
     * h-zions.online-metrix.net
+    * h-zootweb.online-metrix.net
     * h-zopa.online-metrix.net
     * h.online-metrix.net
 
@@ -527,8 +546,10 @@
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | content.ifpsoyyo.co | h-5gi6k6h5.online-metrix.net |
+| api.ext.evolution.protective.com | h-5glaq71x.online-metrix.net |
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.ke | h-5pxao9h8.online-metrix.net |
+| secure.jumia.co.za | h-5pxao9h8.online-metrix.net |
 | secure.jumia.com.eg | h-5pxao9h8.online-metrix.net |
 | secure.jumia.com.gh | h-5pxao9h8.online-metrix.net |
 | secure.jumia.com.ng | h-5pxao9h8.online-metrix.net |
@@ -543,6 +564,8 @@
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
 | content.telusinternational.ai | h-6voqock8.online-metrix.net |
+| contentservices.clearairlending.com | h-6wp7e261.online-metrix.net |
+| content.cofidis.pt | h-6xl38gst.online-metrix.net |
 | content.pledg.co | h-6y7oe1nl.online-metrix.net |
 | ex.exnessstats.com | h-7hs48cp7.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
@@ -586,6 +609,7 @@
 | analytics.cheapcaribbean.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.funjet.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.nowresorts.com | h-analytics.triseptsolutions.online-metrix.net |
+| analytics.southwestvacations.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.triseptsolutions.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.vaxvacationaccess.com | h-analytics.triseptsolutions.online-metrix.net |
 | static.sb-cdn.io | h-anfd5tjw-2.online-metrix.net |
@@ -594,6 +618,7 @@
 | content.apruvd.com | h-apruvd.online-metrix.net |
 | contentservices.ascendloans.com | h-ascendloans.online-metrix.net |
 | content.realquest.com | h-asjl0mko-2.online-metrix.net |
+| content.listsource.com | h-asjl0mko.online-metrix.net |
 | tmrpe.astrazeneca.com | h-astrazeneca.online-metrix.net |
 | content.asurion53.com | h-asurion.online-metrix.net |
 | customercenter-img04.auto-owners.com | h-autoowners.online-metrix.net |
@@ -674,6 +699,7 @@
 | cdn2.intercambioexpress.com | h-cdn2.intercambioexpress.online-metrix.net |
 | cdnm.sts.pl | h-ce5udwb7.online-metrix.net |
 | content.certifid.com | h-certifid.online-metrix.net |
+| device.invoice2go.com | h-ceurt9zj.online-metrix.net |
 | pov.spectrum.net | h-charter.online-metrix.net |
 | h.chase.co.uk | h-chase.online-metrix.net |
 | venus.chegg.com | h-chegg.online-metrix.net |
@@ -748,6 +774,7 @@
 | rebatecontent.finance.delaware.gov | h-delrebate.online-metrix.net |
 | mobilecontent.networks.prod.p0.phx-infra.com | h-dghzbk34.online-metrix.net |
 | bank.bnpl.c24.de | h-dgzuja78.online-metrix.net |
+| img.getkansasbenefits.gov | h-dhbv8axx.online-metrix.net |
 | cybs.dhgate.com | h-dhgate.online-metrix.net |
 | content.digital-credit.app | h-digitalcredit.online-metrix.net |
 | creditcheck.digitecgalaxus.ch | h-digitecgalaxusag.online-metrix.net |
@@ -764,6 +791,7 @@
 | mobile-content.pumb.ua | h-drnycoos.online-metrix.net |
 | content.ssctech.com | h-dstssc.online-metrix.net |
 | acdc.toolineo.de | h-dszu15n8.online-metrix.net |
+| servicesdp.spinaway.ca | h-dwiy84jk-a.online-metrix.net |
 | servicesdp.luckydays.ca | h-dwiy84jk.online-metrix.net |
 | cdna.ecommerce.cofidis.it | h-dxmw0w7i.online-metrix.net |
 | content.orixbank.co.jp | h-dy06hdpq.online-metrix.net |
@@ -773,6 +801,8 @@
 | content.gaptechol.com | h-e04kqxof.online-metrix.net |
 | fdts.ebay-kleinanzeigen.de | h-ebay-kleinanzeigen.online-metrix.net |
 | src.ebay-us.com | h-ebay.online-metrix.net |
+| content.ecampus.com | h-ecampus.online-metrix.net |
+| nav.sciencedirect.com | h-elsevier.online-metrix.net |
 | tags.emirates.com | h-emirates.online-metrix.net |
 | jj203.equitablebank.ca | h-equitablebank.online-metrix.net |
 | static.fairstone.ca | h-fairstone.online-metrix.net |
@@ -823,6 +853,7 @@
 | tm.gumtree.co.za | h-gumtree2.online-metrix.net |
 | cdn.gusto.com | h-gusto.online-metrix.net |
 | trust.gyft.com | h-gyft.online-metrix.net |
+| check2.halifax.co.uk | h-halifax-co-uk.online-metrix.net |
 | check2.halifax-online.co.uk | h-halifax.online-metrix.net |
 | imgl2.hardrockcasino.com | h-hardrock.online-metrix.net |
 | cdnt.duobank.com | h-hie95lph-duo.online-metrix.net |
@@ -835,6 +866,7 @@
 | cdntm.firstdirect.com | h-hsbcmx.online-metrix.net |
 | cdntm.hangseng.com | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.co.uk | h-hsbcmx.online-metrix.net |
+| cdntm.hsbc.com.au | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.hk | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.mx | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.ph | h-hsbcmx.online-metrix.net |
@@ -880,6 +912,8 @@
 | uldfp.srilankan.com | h-k8vif92e.sri3.online-metrix.net |
 | b177.kabbage.com | h-kabbage.online-metrix.net |
 | tag.icash.illinoistreasurer.gov | h-kelmar-il.online-metrix.net |
+| tag.findmassmoney.com | h-kelmar-ma.online-metrix.net |
+| tag.unclaimedfunds.nj.gov | h-kelmar-nj.online-metrix.net |
 | tag.mycash.utah.gov | h-kelmar-ut.online-metrix.net |
 | tag.ucp.dor.wa.gov | h-kelmar-wa.online-metrix.net |
 | tag.findyourunclaimedproperty.com | h-kelmar.online-metrix.net |
@@ -915,6 +949,7 @@
 | faas.marktplaats.nl | h-marktplaats.online-metrix.net |
 | content.massmutual.com | h-massmutual.online-metrix.net |
 | check2.mbna.co.uk | h-mbna.online-metrix.net |
+| device.messa.org | h-messa.online-metrix.net |
 | verify.metlife.com | h-metlife.online-metrix.net |
 | tulips.metrobankonline.co.uk | h-metrobank.online-metrix.net |
 | vlscppe.microsoft.com | h-microsoft.online-metrix.net |
@@ -950,6 +985,7 @@
 | tm.okinushub.com | h-okinushub.online-metrix.net |
 | sitehelper.myengageft.com | h-onbudget.online-metrix.net |
 | sitehelper.optimizemoney.com | h-onbudget.online-metrix.net |
+| cdn1.onecalldirect.co.uk | h-onecall.online-metrix.net |
 | content22.online.citi.com | h-online.citi.online-metrix.net |
 | hint-tmdp.opendoor.com | h-opendoor.online-metrix.net |
 | rba.onehealthcareid.com | h-optumid.online-metrix.net |
@@ -978,6 +1014,7 @@
 | t.digital.communityfirstcu.org | h-pscu.online-metrix.net |
 | t.digitalbanking.credithuman.com | h-pscu.online-metrix.net |
 | t.digitalbanking.langleyfcu.org | h-pscu.online-metrix.net |
+| t.digitalbanking.tronavalley.com | h-pscu.online-metrix.net |
 | t.digitalbanking.uoficreditunion.org | h-pscu.online-metrix.net |
 | t.ebank.mscu.net | h-pscu.online-metrix.net |
 | t.ebanking.apcifcu.org | h-pscu.online-metrix.net |
@@ -1021,6 +1058,7 @@
 | tags.onlinebanking.natwestinternational.com | h-rbs-bank.online-metrix.net |
 | tags.onlinebanking.natwestoffshore.com | h-rbs-bank.online-metrix.net |
 | tags.openaccount.natwest.com | h-rbs-bank.online-metrix.net |
+| tags.openaccount.rbs.co.uk | h-rbs-bank.online-metrix.net |
 | tags.rbs.co.uk | h-rbs-bank.online-metrix.net |
 | tags.rbsdigital.com | h-rbs-bank.online-metrix.net |
 | tags.ulsterbank.co.uk | h-rbs-bank.online-metrix.net |
@@ -1028,10 +1066,12 @@
 | tags.ulsterbankanytimebanking.ie | h-rbs-bank.online-metrix.net |
 | tags.bankline.natwest.com | h-rbs-cpb.online-metrix.net |
 | tags.bankline.rbs.com | h-rbs-cpb.online-metrix.net |
+| tags.bankline.ulsterbank.co.uk | h-rbs-cpb.online-metrix.net |
 | tags.eq.natwestinternational.com | h-rbsint.online-metrix.net |
 | tm.regionsqa.com | h-regionsbank.online-metrix.net |
 | tm.regionstest.com | h-regionsbank.online-metrix.net |
 | tm.regions.com | h-regionsbank2.online-metrix.net |
+| csource.rentals.com | h-rentpath.online-metrix.net |
 | svc2.sc.com | h-retail-sc.online-metrix.net |
 | content22.retailservicescommercial.citi.com | h-retailservicescommercial.citi.online-metrix.net |
 | content.royalairmaroc.com | h-royalairmaroc.online-metrix.net |
@@ -1068,6 +1108,7 @@
 | thmep.zondaglobal.com | h-thmep.zondaglobal.online-metrix.net |
 | h.threatmetrix.com | h-threatmetrix.online-metrix.net |
 | df.thumbtack.com | h-thumbtack.online-metrix.net |
+| public-check3-at.test.tiaa.org | h-tiaa-cref-at-test.online-metrix.net |
 | check3.tiaa.org | h-tiaa-cref.online-metrix.net |
 | check3.tiaabank.com | h-tiaa-cref.online-metrix.net |
 | tm.bdc-cdn.com | h-tm.bdc-cdn.com.online-metrix.net |
@@ -1094,6 +1135,7 @@
 | img4.uscellular.com | h-uscellular.online-metrix.net |
 | tm.uship.com | h-uship.online-metrix.net |
 | content.usps.com | h-usps.online-metrix.net |
+| gfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | hfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | ifp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | yfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
@@ -1111,6 +1153,7 @@
 | thm.visa.com | h-visa2.online-metrix.net |
 | fp.aion.be | h-vodeno.online-metrix.net |
 | voto.provident.pl | h-voto-provident.online-metrix.net |
+| content.varetire.org | h-vrs.online-metrix.net |
 | clear.wallapop.com | h-wallapop.online-metrix.net |
 | drfdisvc.walmart.com | h-walmart.online-metrix.net |
 | t1.welab.bank | h-welabbank.online-metrix.net |
@@ -1121,6 +1164,7 @@
 | cdn1.thm.westpac.com.au | h-westpac.online-metrix.net |
 | t.us.williamhill.com | h-williamhill.online-metrix.net |
 | content.dwd.wisconsin.gov | h-wisconsindwd.online-metrix.net |
+| metrix.us.ovhcloud.com | h-worldpay-ovhcloud.online-metrix.net |
 | ddc.worldpay.com | h-worldpay.ddcprod.online-metrix.net |
 | ddc-test.worldpay.com | h-worldpay.ddctest.online-metrix.net |
 | mobsessions.worldremit.com | h-worldremit.online-metrix.net |
@@ -1133,5 +1177,6 @@
 | w3.nsbank.com | h-zions.online-metrix.net |
 | w3.vectrabank.com | h-zions.online-metrix.net |
 | w3.zionsbank.com | h-zions.online-metrix.net |
+| img.zootweb.com | h-zootweb.online-metrix.net |
 | cdna.zopa.com | h-zopa.online-metrix.net |
 | fraudcheck.walmart.ca | h.online-metrix.net |

@@ -4,12 +4,14 @@
 
 * oghub.io
     * js.oghub.io
+    * sniffer.test-extern.oghub.io
     * te-ackermann-ch.oghub.io
     * te-ambria-de.oghub.io
     * te-baur-de.oghub.io
     * te-creation-l-de.oghub.io
     * te-frankonia-com.oghub.io
     * te-frankonia-de.oghub.io
+    * te-frankoniamoda-ch.oghub.io
     * te-heine-at.oghub.io
     * te-heine-ch.oghub.io
     * te-heine-de.oghub.io
@@ -106,12 +108,14 @@
 | tp.yomonda.de | js.oghub.io |
 | tp.your-look-for-less.se | js.oghub.io |
 | tp.your-look-for-less.se | js.oghub.io |
+| sniffer.nitro-test-extern.otto.boreus.de | sniffer.test-extern.oghub.io |
 | te.ackermann.ch | te-ackermann-ch.oghub.io |
 | te.ambria.de | te-ambria-de.oghub.io |
 | te.baur.de | te-baur-de.oghub.io |
 | te.creation-l.de | te-creation-l-de.oghub.io |
 | te.frankonia.com | te-frankonia-com.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
+| te.frankoniamoda.ch | te-frankoniamoda-ch.oghub.io |
 | te.heine.at | te-heine-at.oghub.io |
 | te.heine.ch | te-heine-ch.oghub.io |
 | te.heine.de | te-heine-de.oghub.io |
@@ -147,6 +151,7 @@
 | te.creation-l.de | te.oghub.io |
 | te.frankonia.com | te.oghub.io |
 | te.frankonia.de | te.oghub.io |
+| te.frankoniamoda.ch | te.oghub.io |
 | te.heine-shop.nl | te.oghub.io |
 | te.heine-shop.nl | te.oghub.io |
 | te.heine.at | te.oghub.io |

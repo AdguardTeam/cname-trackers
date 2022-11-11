@@ -262,6 +262,7 @@
 ||web.sensilab.com^
 ||web.sensilab.de^
 ||web.sensilab.ie^
+||web.sensilab.it^
 ||web.sensilab.ro^
 ||web.sensilab.se^
 ||web.sensilab.si^

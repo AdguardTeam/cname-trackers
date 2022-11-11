@@ -25,15 +25,16 @@
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
 3h100nlegmh4.www.cybernetman.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
+3wa4b4bx1tp8.app.tapmyback.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
+5hfp9go1zww7.www.cybernetman.com CNAME .
 6w7kycvz47e0.www.earthclassmail.com CNAME .
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 8ag8k205ppci.app.alpacafinance.org CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
-8p0kiyq5mq1d.flex.team CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 ah2sjk1n75th.app.tapmyback.com CNAME .
@@ -97,6 +98,7 @@ wiar9wff0ma9.ping.t3.gg CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
 yfbtcjlsmpv1.app.mailfloss.com CNAME .
+ysrrzgku6tar.us.themoneytizer.com CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
 ;
 ; monopoly-drain.ga disguised trackers

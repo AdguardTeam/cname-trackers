@@ -11,9 +11,11 @@ afd.bridgeapi.io
 analytics.cheapcaribbean.com
 analytics.funjet.com
 analytics.nowresorts.com
+analytics.southwestvacations.com
 analytics.triseptsolutions.com
 analytics.vacations.united.com
 analytics.vaxvacationaccess.com
+api.ext.evolution.protective.com
 api.v1.threatmetrix.space.ge
 api1.sfcu.org
 apicorporativops.portoseguro.com.br
@@ -44,6 +46,7 @@ cdn.bambusystems.com
 cdn.coastcapitalsavings.com
 cdn.gusto.com
 cdn1.f-cdn.com
+cdn1.onecalldirect.co.uk
 cdn1.skrill.com
 cdn1.svbconnect.com
 cdn1.thm.bankofmelbourne.com.au
@@ -76,6 +79,7 @@ cdntm.billpay.de
 cdntm.firstdirect.com
 cdntm.hangseng.com
 cdntm.hsbc.co.uk
+cdntm.hsbc.com.au
 cdntm.hsbc.com.hk
 cdntm.hsbc.com.mx
 cdntm.hsbc.com.ph
@@ -95,6 +99,7 @@ channel.rakbankonline.ae
 check.fashionid.de
 check2.bankofscotland.co.uk
 check2.halifax-online.co.uk
+check2.halifax.co.uk
 check2.lloydsbank.co.uk
 check2.mbna.co.uk
 check2.tsb.co.uk
@@ -128,6 +133,7 @@ content.citadele.lv
 content.citbankapp.cit.com
 content.citizensbankonline.com
 content.clubpremier.com
+content.cofidis.pt
 content.connexion-mabanque.bnpparibas
 content.consumercardaccess.com
 content.ctfs.com
@@ -138,6 +144,7 @@ content.discovercard.com
 content.dstv.com
 content.dwd.wisconsin.gov
 content.ebanking-services.com
+content.ecampus.com
 content.espace-client.hellobank.fr
 content.etransfer.interac.ca
 content.ezaem.ru
@@ -157,6 +164,7 @@ content.jackpotcitycasino.ca
 content.koalafi.com
 content.kylottery.com
 content.lequipeur.com
+content.listsource.com
 content.lyft.com
 content.mabanque.bnpparibas
 content.mabanqueprivee.bnpparibas
@@ -193,6 +201,7 @@ content.sso.tracesmart.co.uk
 content.tab.com.au
 content.telusinternational.ai
 content.usps.com
+content.varetire.org
 content.washingtonnational.com
 content.wizink.es
 content1.reprisefinancial.com
@@ -234,7 +243,9 @@ contentinfo.tcdrs.org
 contentmx.okcoin.com
 contentservices.ascendloans.com
 contentservices.brightlending.com
+contentservices.clearairlending.com
 creditcheck.digitecgalaxus.ch
+csource.rentals.com
 css.slots.io
 css.sportsbet.io
 cstm.gumtree.com
@@ -251,6 +262,8 @@ de9c635aa0404558bd527220ef4e6b4b.betway.ca
 debs.my100bank.com
 dep.gambit3.gameassists.co.uk
 dept.provantage.com
+device.invoice2go.com
+device.messa.org
 deviceauth.dmv.ca.gov
 devicecontent.icuracao.com
 df.greenmangaming.com
@@ -290,6 +303,7 @@ fpt.norton.com
 fraudcheck.walmart.ca
 frp.intuit.com
 ftd.quodxx.com.br
+gfp.intuit.com
 ghisa.subito.it
 go.citizensaccess.com
 h.chase.co.uk
@@ -309,9 +323,11 @@ imagesmx.cdscdn.com
 img.consumer.risk.lexisnexis.com
 img.dailylook.com
 img.fortunejack.com
+img.getkansasbenefits.gov
 img.lascana.nl
 img.neora.com
 img.remit.co.jp
+img.zootweb.com
 img2.avant.com
 img2.bog.ge
 img2.otto.nl
@@ -353,12 +369,14 @@ m.vnforapps.com
 meiodepagamento.campanhaporto.com.br
 membership-device.secured-igaming-services.com
 metrics.myfrs.com
+metrix.us.ovhcloud.com
 mnt.sbisec.co.jp
 mobile-content.pumb.ua
 mobile.du.ae
 mobilecontent.networks.prod.p0.phx-infra.com
 mobilecontent.projectdrgn.com
 mobsessions.worldremit.com
+nav.sciencedirect.com
 neo.fashionette.de
 ocs.ameriprise.com
 ola2.tdameritrade.com
@@ -383,6 +401,7 @@ pov.spectrum.net
 profiling.digitalbusiness.cibc.com
 profiling.qacitizensbankonline.com
 ptm.creditas.com
+public-check3-at.test.tiaa.org
 qrimages.qatarairways.com
 qtbm.fundourselves.com
 qtbm.welendus.com
@@ -427,6 +446,7 @@ sec.plala.or.jp
 secure-service.id.dbsdigibank.com
 secure.jumia.ci
 secure.jumia.co.ke
+secure.jumia.co.za
 secure.jumia.com.eg
 secure.jumia.com.gh
 secure.jumia.com.ng
@@ -440,6 +460,7 @@ secure3.segpay.com
 securecheckout.halloweencostumes.com
 secured.netflix.com
 servicesdp.luckydays.ca
+servicesdp.spinaway.ca
 sitehelper.myengageft.com
 sitehelper.optimizemoney.com
 solstice.ibotta.com
@@ -464,6 +485,7 @@ t.banking.njfcu.org
 t.digital.communityfirstcu.org
 t.digitalbanking.credithuman.com
 t.digitalbanking.langleyfcu.org
+t.digitalbanking.tronavalley.com
 t.digitalbanking.uoficreditunion.org
 t.ebank.mscu.net
 t.ebanking.apcifcu.org
@@ -498,13 +520,16 @@ t.yallo.ch
 t1.tacdn.com
 t1.welab.bank
 t42rsn90.uplift.com
+tag.findmassmoney.com
 tag.findyourunclaimedproperty.com
 tag.icash.illinoistreasurer.gov
 tag.mycash.utah.gov
 tag.ucp.dor.wa.gov
+tag.unclaimedfunds.nj.gov
 tags.api.openaccount.rbs.co.uk
 tags.bankline.natwest.com
 tags.bankline.rbs.com
+tags.bankline.ulsterbank.co.uk
 tags.dazn.com
 tags.emirates.com
 tags.eq.natwestinternational.com
@@ -516,6 +541,7 @@ tags.onlinebanking.iombank.com
 tags.onlinebanking.natwestinternational.com
 tags.onlinebanking.natwestoffshore.com
 tags.openaccount.natwest.com
+tags.openaccount.rbs.co.uk
 tags.rbs.co.uk
 tags.rbsdigital.com
 tags.s-dati.com

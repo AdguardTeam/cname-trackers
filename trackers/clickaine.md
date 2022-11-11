@@ -27,6 +27,7 @@
 | c4n.myteentgp.com | api.clickaine.com |
 | c4n.watchpornonline.xyz | api.clickaine.com |
 | c4n.xxx8.me | api.clickaine.com |
+| c8d.upde.cc | api.clickaine.com |
 | ca.infomix.best | api.clickaine.com |
 | cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
 | cc.opowiadaniaerotyczne-darmowo.com | api.clickaine.com |

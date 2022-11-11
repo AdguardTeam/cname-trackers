@@ -27,6 +27,7 @@ di-res.cau1aighae.com CNAME .
 di-res.iemieshohx.com CNAME .
 dsp-image-resizer.3grg8dqjil.ru CNAME .
 dsp-image-resizer.gamz48qlok.ru CNAME .
+latam.cau1aighae.com CNAME .
 lk-api-beta.ads2.bid CNAME .
 sing.3h1fpq39jb.ru CNAME .
 sing.cau1aighae.com CNAME .

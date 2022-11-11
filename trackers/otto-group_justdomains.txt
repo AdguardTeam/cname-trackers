@@ -3,12 +3,14 @@
 #
 # oghub.io disguised trackers
 #
+sniffer.nitro-test-extern.otto.boreus.de
 te.ackermann.ch
 te.ambria.de
 te.baur.de
 te.creation-l.de
 te.frankonia.com
 te.frankonia.de
+te.frankoniamoda.ch
 te.heine-shop.nl
 te.heine.at
 te.heine.ch

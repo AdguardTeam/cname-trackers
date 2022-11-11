@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2022-11-08T17:44:54+00:00
+! TimeUpdated: 2022-11-11T15:13:03+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 !
@@ -77,6 +77,9 @@
 !
 ! Company: GMO Internet Group
 ||ad-cloud.jp^
+!
+! Company: heleric.com
+||heleric.com^
 !
 ! Company: INFOnline
 ||iocnt.net^

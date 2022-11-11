@@ -234,7 +234,6 @@
 ||mi.miliboo.it^
 ||mi.miliboo.lu^
 ||mm.melia.com^
-||mn.mistermenuiserie.com^
 ||moh7.yoodoogood.com^
 ||mre6.destinia.ma^
 ||msz3.destinia.cn^
@@ -384,6 +383,7 @@
 ||xjq5.belambra.be^
 ||xoq.pmubrasil.com.br^
 ||xy33.smallable.com^
+||xya4.groupefsc.com^
 ||yf5.voyage-prive.at^
 ||yh6u.dealeusedevoyages.com^
 ||yoc.younited-credit.com^

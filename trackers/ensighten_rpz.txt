@@ -69,6 +69,7 @@ analytics.synchrony.com CNAME .
 analytics.synchronybank.com CNAME .
 analytics.synchronybusiness.com CNAME .
 analytics.synchronycareers.com CNAME .
+analytics.synchronyfinancial.com CNAME .
 analytics.synchronyuniversity.com CNAME .
 analyticstest.amica.com CNAME .
 assets1.aainsurance.co.nz CNAME .

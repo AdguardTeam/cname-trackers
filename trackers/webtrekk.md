@@ -210,6 +210,7 @@
 | web.sensilab.com | 151836596491843.wt-eu02.net |
 | web.sensilab.de | 151836596491843.wt-eu02.net |
 | web.sensilab.ie | 151836596491843.wt-eu02.net |
+| web.sensilab.it | 151836596491843.wt-eu02.net |
 | web.sensilab.ro | 151836596491843.wt-eu02.net |
 | web.sensilab.se | 151836596491843.wt-eu02.net |
 | web.sensilab.si | 151836596491843.wt-eu02.net |

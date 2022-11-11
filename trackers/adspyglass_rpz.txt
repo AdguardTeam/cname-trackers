@@ -12,6 +12,7 @@
 2bx0h7o3zw.nelasleaks.com CNAME .
 58745.clicknplay.to CNAME .
 69741211.clicknplay.to CNAME .
+6cf0e7801e8cd.clicknplay.to CNAME .
 71213zhazha.com CNAME .
 7bd3d001ff6.clicknplay.to CNAME .
 7taobao.mom CNAME .
@@ -28,7 +29,6 @@ a.6vids.space CNAME .
 a.888x.cyou CNAME .
 a.abismo-katheryne.top CNAME .
 a.allwedoisfuck.com CNAME .
-a.andropps.us CNAME .
 a.antiadxxxspy.com CNAME .
 a.apyarvideo.xyz CNAME .
 a.artamkari.com CNAME .
@@ -59,6 +59,7 @@ a.letsjerk.tv CNAME .
 a.manga18.site CNAME .
 a.marketing.com.sd CNAME .
 a.milfpunish.com CNAME .
+a.naturalhealthsource.club CNAME .
 a.neverbe.xyz CNAME .
 a.p123p.com CNAME .
 a.pinayviralsexx.com CNAME .
@@ -72,6 +73,8 @@ a.speedostream.com CNAME .
 a.streamoupload.xyz CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
+a.toongod.com CNAME .
+a.tortuko.club CNAME .
 a.travelbdnews.xyz CNAME .
 a.viralnewsbd.xyz CNAME .
 a.warddogs.com CNAME .
@@ -85,6 +88,7 @@ abee.yeeowl.xyz CNAME .
 ablade.beauty CNAME .
 abracadabrahub.com CNAME .
 acdn.uploads.mobi CNAME .
+ad.animeitaly.org CNAME .
 ad.emule-island.eu CNAME .
 ad.ttstreaming.stream CNAME .
 ad.wawacity.xyz CNAME .
@@ -239,6 +243,7 @@ free.stat.tk CNAME .
 freememes.desiceleb.top CNAME .
 fresh.tuiz.pics CNAME .
 fx9.freepornoboss.com CNAME .
+g4x.porngirl.eu CNAME .
 g6j.cupidonmedia.com CNAME .
 gamestar.lol CNAME .
 gay0day.online CNAME .
@@ -367,6 +372,7 @@ pre.myfuck.club CNAME .
 profield.ddns.net CNAME .
 pub.donmam.skin CNAME .
 pub88.mom CNAME .
+pubbucks.homes CNAME .
 pubg.remiitano.xyz CNAME .
 px9.nuderedtube.com CNAME .
 q1.pornwex.tv CNAME .
@@ -406,6 +412,7 @@ spy.bocvu.lol CNAME .
 spy.luvprn.com CNAME .
 spyglass.octanime.net CNAME .
 spyglass.reklamko.pro CNAME .
+srv.acervox.com CNAME .
 sshopee.beauty CNAME .
 ssltest.soundrussian.com CNAME .
 statement.blauenseville.buzz CNAME .
@@ -419,6 +426,7 @@ szj.boombay.xyz CNAME .
 taboizo.mom CNAME .
 taoviep.mom CNAME .
 tb.turbocap.net CNAME .
+test2.maxx.ddac.ru CNAME .
 testcommon.soundrussian.com CNAME .
 theporndude.com.1111supjavcom.xyz CNAME .
 thescript.javfinder.xyz CNAME .
@@ -444,6 +452,7 @@ v.focusde.info CNAME .
 v2pro.stbvip.net CNAME .
 vavsnhau.mom CNAME .
 vd.7vid.net CNAME .
+video.jokanime.online CNAME .
 vsx.hotpornfile.org CNAME .
 vuiaki.mom CNAME .
 vuvlog.lol CNAME .
@@ -462,7 +471,6 @@ www.letstry69.xyz CNAME .
 www.novelas360.cc CNAME .
 www.p123p.com CNAME .
 www.sex1.party CNAME .
-www.srnovelas.cc CNAME .
 www.u808i.com CNAME .
 www.upcdn.site CNAME .
 www.vkcdnservice.com CNAME .

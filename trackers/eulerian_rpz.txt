@@ -234,7 +234,6 @@ mi.miliboo.es CNAME .
 mi.miliboo.it CNAME .
 mi.miliboo.lu CNAME .
 mm.melia.com CNAME .
-mn.mistermenuiserie.com CNAME .
 moh7.yoodoogood.com CNAME .
 mre6.destinia.ma CNAME .
 msz3.destinia.cn CNAME .
@@ -384,6 +383,7 @@ xay5o.toscane-boutique.fr CNAME .
 xjq5.belambra.be CNAME .
 xoq.pmubrasil.com.br CNAME .
 xy33.smallable.com CNAME .
+xya4.groupefsc.com CNAME .
 yf5.voyage-prive.at CNAME .
 yh6u.dealeusedevoyages.com CNAME .
 yoc.younited-credit.com CNAME .

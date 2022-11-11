@@ -75,6 +75,8 @@
 ||anteater.benborgers.com^
 ||anteater.playuncovr.xyz^
 ||anteater.stella-projects.de^
+||anteater.ttbwsd.com^
+||anteater.webitize.com^
 ||antelope.johndbeatty.com^
 ||antelope.journeyofanurse.com^
 ||antelope.targetinternet.com^
@@ -108,6 +110,7 @@
 ||bass.taivo.ai^
 ||bat.heelix.be^
 ||bear.datingrelationshipsadvice.com^
+||beaver.bluebunnypaper.com^
 ||beaver.livechatlabs.com^
 ||bedbug.bragi.com^
 ||bee.andreawhitmer.com^
@@ -127,11 +130,13 @@
 ||bluejay.postmediagroup.com^
 ||bluejay.wearegray.com^
 ||boa.nolongerset.com^
+||boa.prostamped.com^
 ||boar.hopehollow.com^
 ||boar.indieweb.org^
 ||bobcat.pronounce.technology^
 ||bobcat.pushplay.nl^
 ||bobcat.snapshooter.io^
+||bobcat.wdng-fotograf.de^
 ||bobolink.itpeters.com^
 ||booby.deanyeong.com^
 ||boom.laravel.io^
@@ -161,6 +166,7 @@
 ||caribou.color.io^
 ||carp.seniorsinjobs.com^
 ||cat.acesandaros.org^
+||cat.beunitedinchrist.com^
 ||cat.doebankdesigns.com^
 ||cat.gfx.io^
 ||cat.laravel-news.com^
@@ -171,6 +177,7 @@
 ||caterpilla.ibon.live^
 ||catfish.cividi.space^
 ||catfish.lucalabs.com^
+||catfish.sofatido.ch^
 ||catshark.spur.design^
 ||cattle.ajyd.org.au^
 ||cattle.apisyouwonthate.com^
@@ -183,6 +190,7 @@
 ||centipede.buskersbern.ch^
 ||centipede.nilcollegeathletes.com^
 ||centipede.roasted.dev^
+||centipede.wildbit.com^
 ||centipede.yuv.al^
 ||cephalopod.hometechnology.news^
 ||cephalopod.polymath.net^
@@ -190,6 +198,7 @@
 ||chameleon.rndm.uk^
 ||cheetah.gaptry.com^
 ||cheetah.songrender.com^
+||chickadee.hispanicinjobs.com^
 ||chickadee.mikebifulco.com^
 ||chicken.alpla.info^
 ||chicken.couleur.io^
@@ -220,6 +229,7 @@
 ||coyote.12gem.me^
 ||coyote.alboweb.nl^
 ||coyote.gnx.cloud^
+||coyote.hopr.swiss^
 ||coyote.nickgurney.com^
 ||coyote.txet.ch^
 ||crab.dunkeldbutchers.co.uk^
@@ -240,11 +250,13 @@
 ||cxzp.pjrvs.com^
 ||dakqbwpduu.coywolf.io^
 ||damselfly.clk.click^
+||damselfly.jakekorth.com^
 ||damselfly.previously.today^
 ||deer.ray.io^
 ||dingo.harmanly.com^
 ||dingo.moehring.dev^
 ||dog.christinamoore.us^
+||dog.diversityinjobs.com^
 ||dog.franchisesocial.co.uk^
 ||dog.ghvenue.com^
 ||dog.justsketch.me^
@@ -292,6 +304,8 @@
 ||fancyrat.calebporzio.com^
 ||fancyrat.flatuicolors.com^
 ||fancyrat.keurslager-goeminne.be^
+||fancyrat.roecklin.com^
+||fancyrat.spacestation.news^
 ||felidae.mmm.page^
 ||felidae.mysuperportal.com^
 ||felidae.theforeignarchitect.com^
@@ -327,6 +341,7 @@
 ||gecko.withclarify.com^
 ||gerbil.buf.build^
 ||gibbon.ehubhealth.com^
+||giraffe.bkmhorten.no^
 ||giraffe.talktalent.com^
 ||giraffe.viatorci.com^
 ||goat.aicontentdojo.com^
@@ -351,6 +366,7 @@
 ||guanaco.redpixelthemes.com^
 ||guineapig.espressive.com^
 ||guineapig.recap.io^
+||guineapig.themenaffin.de^
 ||guppy.ausowned.com.au^
 ||guppy.directlyapply.com^
 ||guppy.ironmic.fm^
@@ -372,6 +388,7 @@
 ||heron.morphiq.digital^
 ||heron.notability.com^
 ||heron.oneaudiobooks.app^
+||heron.scarletnoir.co^
 ||herring.panda.network^
 ||hookworm.commanddot.com^
 ||hornet.jeffgable.com^
@@ -390,6 +407,7 @@
 ||hoverfly.cdengine.co.uk^
 ||hoverfly.dailyblocks.tv^
 ||hoverfly.papercrowns.com^
+||hoverfly.winchdesign.cn^
 ||hyena.baseline.is^
 ||hyena.kitafund.com^
 ||hyena.wearegray.co^
@@ -407,6 +425,7 @@
 ||jellyfish.therapieplatz-finden.de^
 ||kaxlfq.testingwithtestcafe.com^
 ||kingfisher.gedaly.com^
+||kingfisher.startupdemoday.live^
 ||kite.devin.website^
 ||kite.ibirthdayclub.com^
 ||kite.oakes.software^
@@ -446,6 +465,7 @@
 ||llama.growthinkers.nl^
 ||llama.mallardbay.com^
 ||llama.moodgym.com.au^
+||llama.vivriticapital.com^
 ||lobster.justunderwear.com^
 ||lobster.tonebleed.com^
 ||locust.ausrebellion.earth^
@@ -478,6 +498,7 @@
 ||marten.countertype.com^
 ||mastodon.thrustcarbon.com^
 ||meadowlark.bump.sh^
+||meadowlark.psynapse.no^
 ||meadowlark.tempus.im^
 ||meerkat.bigcrazylife.com^
 ||mink.faq-bregenzerwald.com^
@@ -497,9 +518,9 @@
 ||mollusk.saferingz.com^
 ||mollusk.working.actor^
 ||mongoose.jasonlbeggs.com^
-||mongoose.mlle-o.fr^
 ||mongoose.thechocolatelife.com^
 ||moose.octo.app^
+||mosquito.nooraldiyar.com^
 ||mosquito.zero.io^
 ||moth.artsmia.org^
 ||moth.jkundp.at^
@@ -548,6 +569,7 @@
 ||peafowl.ozspurs.com^
 ||peafowl.projectstrackt.dev^
 ||pelican.protomaps.com^
+||penguin.craftpeak.io^
 ||penguin.isvapp.com^
 ||penguin.sunny.app^
 ||perch.luckydiff.com^
@@ -559,6 +581,7 @@
 ||pinniped.gardenofficeguide.co.uk^
 ||pinniped.resist.bot^
 ||piranha.jsmobiledev.com^
+||piranha.mediumsuite.co.uk^
 ||piranha.minnmyatsoe.com^
 ||planarian.reverberate.org^
 ||planarian.sexcam-gutscheine.de^
@@ -604,6 +627,7 @@
 ||reindeer.iainbroome.com^
 ||reptile.o-lit.fr^
 ||reptile.wyattblogs.com^
+||rhinoceros.codeagain.com^
 ||rhinoceros.krieger.io^
 ||roadrunner.ausmv.com.au^
 ||rodent.beersport.com^
@@ -612,6 +636,7 @@
 ||rook.flowlens.com^
 ||rook.moodgym.de^
 ||rooster.ohqcloud.com^
+||sailfish.hoap.com^
 ||sailfish.kentcdodds.com^
 ||salamander.showandtelldata.com^
 ||salmon.thespiritualpsychologist.co.uk^
@@ -619,7 +644,10 @@
 ||sawfish.loqbooq.app^
 ||scallop.esolia.pro^
 ||scallop.vav.link^
+||scorpion.indexforwp.com^
+||scorpion.smskmail.com^
 ||seahorse.cognito.wiki^
+||seahorse.dexterityvisuals.com^
 ||seahorse.okse.no^
 ||shark.codeswitch.be^
 ||sheep.peterfowler.com^
@@ -636,9 +664,11 @@
 ||sloth.pricingforhackers.com^
 ||slug.sirenergies.com^
 ||smelt.allenpike.com^
+||smelt.ramonmunoz.mx^
 ||smelt.waltrack.net^
 ||snail.asianinjobs.com^
 ||snipe.mfaber.at^
+||snipe.mindrevolution.com^
 ||sole.pretto.fr^
 ||sole.riverwalkdental.com.au^
 ||sparrow.carol.gg^
@@ -714,6 +744,7 @@
 ||toucan.lgbtjobsearch.com^
 ||treefrog.kaffeknappen.no^
 ||treefrog.socialmarketinggateway.co.uk^
+||treefrog.walkingwithdaddy.com^
 ||trout.stocketa.com^
 ||trout.travelmassive.com^
 ||tuna.ajaymantri.com^
@@ -741,15 +772,18 @@
 ||wallaby.short1.link^
 ||walrus.5secondstoimpress.com^
 ||walrus.fetzcolor.at^
+||walrus.oscaroarevalo.com^
 ||walrus.scalue.com^
 ||warbler.nycmode.com^
 ||warbler.todoscout.com^
+||wasp.mattjennings.io^
 ||waterboa.brooks.page^
 ||waterboa.midu.dev^
 ||weasel.accomplice.ai^
 ||weasel.madebytune.be^
 ||whitefish.kenku.fm^
 ||wildcat.fspy.io^
+||wildcat.longviewforecasting.com^
 ||wildcat.vivritiamc.com^
 ||wildebeest.soft-spoken.dev^
 ||wildfowl.minter.io^
@@ -761,6 +795,7 @@
 ||woodpecker.ember.ly^
 ||woodpecker.seabits.com^
 ||worm.paulstamatiou.com^
+||wren.femi.io^
 ||yak.auclantis.com^
 ||yak.embeddedartistry.com^
 ||yak.giftme.today^
@@ -838,7 +873,4 @@
 !
 ! starman.fathomdns.com disguised trackers
 !
-||panda.moritz-petersen.de^
-||parrot.binarymoon.co.uk^
-||platypus.zwei-bags.ch^
 ||pony.ftm.cat^

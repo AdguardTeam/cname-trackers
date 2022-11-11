@@ -131,6 +131,7 @@
   "ssl-dr.tns-gallup.dk": "ssl-dr.tns-dk.2cnt.net",
   "ssl-drandroidtvstream.tns-gallup.dk": "slb-tns-dk-pool06.tns-dk.2cnt.net",
   "ssl-drhbbtv.tns-gallup.dk": "ssl-drhbbtv.tns-dk.2cnt.net",
+  "ssl-drtv-appletv.tns-gallup.dk": "slb-tns-dk-pool08.tns-dk.2cnt.net",
   "ssl-drtvosstream.tns-gallup.dk": "slb-tns-dk-pool04.tns-dk.2cnt.net",
   "ssl-ebiam.tns-gallup.dk": "ssl-ebiam.tns-dk.2cnt.net",
   "ssl-econa.met.vgwort.de": "slb-vgwort-de-pool01.vgwort-de.2cnt.net",

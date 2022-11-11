@@ -14,6 +14,7 @@
 ||ad.aucview.com^
 ||ad.autorace.jp^
 ||ad.kddi-fs.com^
+||ad.ordersuit.info^
 ||ad.takasu.co.jp^
 ||ad.tempstaff.co.jp^
 ||ad.theatreacademy.jp^
@@ -206,6 +207,7 @@
 ||ebs.viosalon.com^
 ||emc.dr-stick.shop^
 ||greenjapan-cname.green-japan.com^
+||hokkaidobank.rapi.jp^
 ||isebis.takamiclinic.or.jp^
 ||isebis.yutoriform.com^
 ||itp.phoebebeautyup.com^
@@ -224,6 +226,7 @@
 ||sep02.hinagiku-life.jp^
 ||sinceregarden.sincere-garden.jp^
 ||test-ad.lucia-c.com^
+||tracking.axis.onl^
 ||tracking.mysurance.co.jp^
 ||tracking.nokai.jp^
 ||tracking.wao-corp.com^

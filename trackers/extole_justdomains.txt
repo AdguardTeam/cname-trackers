@@ -10,6 +10,8 @@ friend.sharefile.com
 friends.keurig.ca
 friends.keurig.com
 ilove.volusion.com
+refer-a-friend.trivantis.com
+refer.aaas.org
 refer.accountants.intuit.com
 refer.ahsfriends.com
 refer.american-giant.com
@@ -37,6 +39,7 @@ refer.moo.com
 refer.myplant.com
 refer.nvidia.com
 refer.ofx.com
+refer.pageonce.com
 refer.payroll.intuit.com
 refer.personalcreations.com
 refer.purchasingpower.com
@@ -54,10 +57,12 @@ refer.volcom.com
 refer.vonage.com
 refer.xoom.com
 referral.hostgator.com
+referral.vistaprint.com
 share.catalogspree.com
 share.indochino.com
 share.na.sage.com
 share.qalo.com
+share.tenmarks.com
 share.vimeo.com
 share.wimp.no
 sharethelove.teacollection.com
@@ -84,6 +89,7 @@ refer.art.com
 refer.ashleyfurniture.com
 refer.athleta.com
 refer.athletawell.com
+refer.awscloud.com
 refer.ballarddesigns.com
 refer.bareminerals.com
 refer.bareminerals.uk
@@ -123,6 +129,7 @@ refer.garnethill.com
 refer.giantfood.com
 refer.giantfoodstores.com
 refer.glamglow.com
+refer.globalknowledge.com
 refer.gnc.com
 refer.gymboree.com
 refer.hair.com
@@ -135,6 +142,7 @@ refer.hushpuppies.com
 refer.indeed.com
 refer.issaonline.com
 refer.itcosmetics.com
+refer.jiffynewark.com
 refer.join1440.com
 refer.juicepress.com
 refer.keds.com
@@ -159,7 +167,9 @@ refer.mpgsport.com
 refer.narscosmetics.com
 refer.nfhsnetwork.com
 refer.ninjakitchen.com
+refer.olehenriksen.com
 refer.orbitz.com
+refer.ouidad.com
 refer.pacsafe.com
 refer.pimsleur.com
 refer.psecu.com
@@ -177,11 +187,13 @@ refer.skinceuticals.com
 refer.snagajob.com
 refer.soma.com
 refer.spothero.com
+refer.starfurniture.com
 refer.stopandshop.com
 refer.studentuniverse.com
 refer.studentuniverse.com.au
 refer.sugarandjade.com
 refer.swap.com
+refer.take5oilchange.com
 refer.tatcha.com
 refer.taxact.com
 refer.thecompanystore.com
@@ -218,6 +230,7 @@ share.aplaceformom.com
 share.ashleyhomestore.ca
 share.asics.com
 share.aveda.com.au
+share.azcentral.com
 share.beaspermdonor.com
 share.bncollege.com
 share.boden.co.uk
@@ -231,6 +244,7 @@ share.bountyhunterwine.com
 share.brava.com
 share.brunettethelabel.com
 share.buttahskin.com
+share.caller.com
 share.calvinklein.us
 share.carparts.com
 share.cefaly.com
@@ -246,12 +260,14 @@ share.dermablend.com
 share.docmorris.fr
 share.dslaboratories.com
 share.dutch.com
+share.esteelauder.com.au
 share.esteelauder.com.tw
 share.fetchpet.com
 share.figopetinsurance.com
 share.fingercheck.com
 share.firstleaf.com
 share.fullbay.com
+share.giftya.com
 share.giorgioarmanibeauty-usa.com
 share.go2bank.com
 share.greenlight.com
@@ -262,6 +278,7 @@ share.hotwire.com
 share.hydropeptide.com
 share.installamerica.com
 share.ipage.com
+share.iteach.net
 share.key.com
 share.la-mariette.com
 share.levi.com
@@ -275,6 +292,7 @@ share.myq.com
 share.newtonbaby.com
 share.obagi.com
 share.opploans.com
+share.origins.com
 share.partsvu.com
 share.paulmitchell.com
 share.petsbest.com
@@ -282,6 +300,7 @@ share.policygenius.com
 share.promofarma.com
 share.refer-aveda.ca
 share.refer-aveda.com
+share.refer-bumbleandbumble.com
 share.refer-darphin.com
 share.refer-maccosmetics.ca
 share.refer-maccosmetics.co.uk
@@ -292,6 +311,7 @@ share.refer-maccosmetics.it
 share.ross-simons.com
 share.rspure.com
 share.rvshare.com
+share.saintjanebeauty.com
 share.securityplusfcu.org
 share.shutterstock.com
 share.simonandschuster.com
@@ -306,6 +326,7 @@ share.tillys.com
 share.tommy.com
 share.trafalgar.com
 share.truckstop.com
+share.uk.theory.com
 share.veo.co
 share.veritycu.com
 share.vichyusa.com
