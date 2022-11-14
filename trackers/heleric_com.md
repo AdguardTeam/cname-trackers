@@ -16,7 +16,9 @@
 | du.jubhahbalize.com | heleric.com |
 | et.harmoutguereza.com | heleric.com |
 | fn.deulspoorn.com | heleric.com |
+| fo.irrisoranemone.com | heleric.com |
 | ia.bisetsoliped.com | heleric.com |
+| ir.avertinniello.com | heleric.com |
 | kl.osmoticchalah.com | heleric.com |
 | mp.ualisbaubles.com | heleric.com |
 | ok.ribworkstylus.com | heleric.com |
@@ -26,3 +28,4 @@
 | uo.tubaronunheler.com | heleric.com |
 | ur.meteredrato.com | heleric.com |
 | vd.scapemambu.com | heleric.com |
+| zd.plattedrattons.com | heleric.com |

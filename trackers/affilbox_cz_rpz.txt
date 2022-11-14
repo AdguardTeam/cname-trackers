@@ -37,6 +37,7 @@ affil.kralovstvi-tiande.cz CNAME .
 affil.lypo.cz CNAME .
 affil.moringamix.cz CNAME .
 affil.mydrinks.cz CNAME .
+affil.nanospace.cz CNAME .
 affil.nutriadapt.cz CNAME .
 affil.peliskydog.cz CNAME .
 affil.plkshop.cz CNAME .
@@ -83,6 +84,7 @@ affiliate.compik.cz CNAME .
 affiliate.coolcredit.cz CNAME .
 affiliate.cryptokingdom.cz CNAME .
 affiliate.designovynabytek.cz CNAME .
+affiliate.designshoes.cz CNAME .
 affiliate.diana-company.cz CNAME .
 affiliate.diana-company.sk CNAME .
 affiliate.dmxgear.cz CNAME .
@@ -153,16 +155,19 @@ affiliate.smarty.cz CNAME .
 affiliate.smsticket.cz CNAME .
 affiliate.snowbitch.cz CNAME .
 affiliate.svarecky-obchod.cz CNAME .
+affiliate.svetbot.cz CNAME .
 affiliate.terarijni-potreby.cz CNAME .
 affiliate.topol.io CNAME .
 affiliate.urbanstore.cz CNAME .
 affiliate.urbanstore.sk CNAME .
 affiliate.velebny.cz CNAME .
 affiliate.zdravykos.cz CNAME .
+affiliateold.firma20.cz CNAME .
 affiliates.adinternet.cz CNAME .
 affilo.crosta.cz CNAME .
 affilo.crosta.sk CNAME .
 affilo.damoda.cz CNAME .
+affilo.janie.cz CNAME .
 affilo.lingerio.cz CNAME .
 affilo.vivaboty.cz CNAME .
 affilpartner.descanti.com CNAME .
@@ -411,6 +416,7 @@ partneri.biorganica.cz CNAME .
 partneri.bornature.cz CNAME .
 partneri.cannor.cz CNAME .
 partneri.chytraopicka.cz CNAME .
+partneri.chytrykvetinac.cz CNAME .
 partneri.coffeeveronia.sk CNAME .
 partneri.dietavkrabicce.cz CNAME .
 partneri.dluhopisomat.cz CNAME .
@@ -451,6 +457,7 @@ partneri.radostkazdyden.cz CNAME .
 partneri.rondainvest.cz CNAME .
 partneri.rybitukylysi.cz CNAME .
 partneri.smartemailing.cz CNAME .
+partneri.smyslovy-pruzkumnik.cz CNAME .
 partneri.sportfotbal.cz CNAME .
 partneri.sviicka.cz CNAME .
 partneri.tradicne-feng-shui.sk CNAME .

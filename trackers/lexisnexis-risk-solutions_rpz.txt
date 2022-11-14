@@ -19,6 +19,7 @@ api.ext.evolution.protective.com CNAME .
 api.v1.threatmetrix.space.ge CNAME .
 api1.sfcu.org CNAME .
 apicorporativops.portoseguro.com.br CNAME .
+app.uob.com.sg CNAME .
 app392.gerberlife.com CNAME .
 appschk.scotiabank.com CNAME .
 appscore.credilike.me CNAME .
@@ -191,6 +192,7 @@ content.qudosbank.com.au CNAME .
 content.quicken.com CNAME .
 content.realquest.com CNAME .
 content.royalairmaroc.com CNAME .
+content.royalvegascasino.ca CNAME .
 content.rubyfortune.ca CNAME .
 content.sheerid.com CNAME .
 content.spincasino.ca CNAME .
@@ -363,6 +365,7 @@ log.open.investorsbank.com CNAME .
 login.eki-net.com CNAME .
 loyaltyprogram.latam.com CNAME .
 lsdp.lotto.com CNAME .
+lsprof.comeon.com CNAME .
 m-profiling.cibc.com CNAME .
 m-profiling.simplii.com CNAME .
 m.vnforapps.com CNAME .
@@ -392,6 +395,7 @@ payments-de.lidlplus.com CNAME .
 payments.direct.playstation.com CNAME .
 payments.hd-plus.de CNAME .
 pf.intuit.com CNAME .
+phyon.communipay.net CNAME .
 phyon.visit-x.net CNAME .
 piafapp.poste.it CNAME .
 plr.scb-payments.net CNAME .

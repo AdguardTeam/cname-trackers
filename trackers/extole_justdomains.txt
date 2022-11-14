@@ -125,6 +125,7 @@ refer.fahw.com
 refer.firstrepublic.com
 refer.frontgate.com
 refer.g2.com
+refer.gapcanada.ca
 refer.garnethill.com
 refer.giantfood.com
 refer.giantfoodstores.com
@@ -172,7 +173,9 @@ refer.orbitz.com
 refer.ouidad.com
 refer.pacsafe.com
 refer.pimsleur.com
+refer.prokeds.com
 refer.psecu.com
+refer.pureology.com
 refer.quickbooks.co.uk
 refer.reebok.com
 refer.reliasacademy.com

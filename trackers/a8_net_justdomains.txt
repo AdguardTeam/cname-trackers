@@ -67,6 +67,7 @@ a8.makeshop.jp
 a8.meon-by.gangnamdoll.jp
 a8.minion-wifi.com
 a8.mishii-list.com
+a8.misshajp.com
 a8.mm-digitalsales.academy
 a8.mochu.jp
 a8.mosh.jp
@@ -74,6 +75,7 @@ a8.n-pri.jp
 a8.nanafu.tokyo
 a8.narikiri.me
 a8.nengahonpo.com
+a8.nengajyo.co.jp
 a8.nitta-gelatin.jp
 a8.nosh.jp
 a8.o-tayori.com
@@ -94,6 +96,7 @@ a8.ringbell.co.jp
 a8.route-roller.info
 a8.runway-harmonia.co.jp
 a8.sakuratravel.jp
+a8.sara-uv.com
 a8.seifu-ac.jp
 a8.sennendo.jp
 a8.shikigaku.jp
@@ -114,6 +117,7 @@ a8.tour-sys.com
 a8.triple-m.jp
 a8.tscubic.com
 a8.unicoffee.tech
+a8.vector-park.jp
 a8.virus-gekitai.com
 a8.volstar.jp
 a8.watero.pet
@@ -135,6 +139,7 @@ a8click.daini2.co.jp
 a8click.you-up.com
 a8click.young-mobile.net
 a8clk.1osechi.com
+a8clk.account.matsui.co.jp
 a8clk.adventkk.co.jp
 a8clk.alljewelry.jp
 a8clk.ap.livede55.com
@@ -237,6 +242,7 @@ a8clk.shop.shareme.jp
 a8clk.shop.sunsorit.co.jp
 a8clk.shop.tanita.co.jp
 a8clk.siro.duskin-hozumi.co.jp
+a8clk.sixcore.ne.jp
 a8clk.skima.jp
 a8clk.skynet-c.jp
 a8clk.sma-ene.jp
@@ -264,6 +270,7 @@ a8clk.www.daiohs.com
 a8clk.www.jaf.or.jp
 a8clk.www.ka-nabell.com
 a8clk.www.nortonstore.jp
+a8clk.www.solarmonitorlp.energy-itsol.com
 a8clk.xserver.ne.jp
 a8clk.ykd.co.jp
 a8clk.yourmystar.jp
@@ -275,6 +282,7 @@ a8cv.550909.com
 a8cv.a-resort.jp
 a8cv.aiambeauty.jp
 a8cv.akihabara-x.jp
+a8cv.akippa.com
 a8cv.all-plan.co.jp
 a8cv.amiami.jp
 a8cv.anapnet.com
@@ -315,12 +323,15 @@ a8cv.factoringzero.jp
 a8cv.favorric.com
 a8cv.fc-osoujikakumei.jp
 a8cv.first-spoon.com
+a8cv.fitness-terrace.com
+a8cv.folli.jp
 a8cv.frecious.jp
 a8cv.gaikokujin-support.com
 a8cv.gakuen.omobic.com
 a8cv.genesis-nipt.com
 a8cv.grassbeaute.jp
 a8cv.greed-island.ne.jp
+a8cv.hello-people.jp
 a8cv.hotyoga-loive.com
 a8cv.housingbazar.jp
 a8cv.humming-water.com
@@ -342,6 +353,7 @@ a8cv.kuih.jp
 a8cv.kurashi-bears.com
 a8cv.kyotokimono-rental.com
 a8cv.lear-caree.com
+a8cv.lyprinol.jp
 a8cv.mashumaro-bra.com
 a8cv.mcc-lazer-hr.com
 a8cv.menina-joue.jp
@@ -352,10 +364,12 @@ a8cv.mobabiji.jp
 a8cv.modern-deco.jp
 a8cv.momiji-tantei.com
 a8cv.mova-creator-school.com
+a8cv.ms-toushiguide.jp
 a8cv.mustachejapan.com
 a8cv.naire-seisakusho.jp
 a8cv.nakamura-kaban.net
 a8cv.naradenryoku.co.jp
+a8cv.nijiun.com
 a8cv.norikae-cashback.com
 a8cv.o-juku.com
 a8cv.oceanprincess.jp
@@ -368,6 +382,7 @@ a8cv.orbis.co.jp
 a8cv.otakudathough.com
 a8cv.p-antiaging.com
 a8cv.paidy.com
+a8cv.pocket-sommelier.com
 a8cv.presence.jp
 a8cv.quattrocart.com
 a8cv.r-maid.com
@@ -405,6 +420,7 @@ a8cv.str.classicmusic.tokyo
 a8cv.surusuru.jp
 a8cv.t-bang.jp
 a8cv.taxi-qjin.com
+a8cv.techkidsschool.jp
 a8cv.tfansite.jp
 a8cv.toko-navi.com
 a8cv.tougyoku.com
@@ -454,9 +470,11 @@ acv.au-hikari-kddi.com
 acv.cmf-hikari.net
 acv.mc-doctor.net
 acv.softbank-hikaricollabo.com
+ad.belleeau.jp
 ad.ichiban-boshi.com
 ad.magokoro-care-shoku.com
 ad.rejichoice.jp
+af.total-marriage.com
 afcv.champ-shop.com
 afi.biyou.web-marketing.ai
 afi.school.web-marketing.ai
@@ -509,9 +527,12 @@ cv.xn--bcktcvdzde3c.biz
 cv.xn--zbs202g.com
 cv.zephylrin-w.com
 cv.zephylrin-x.net
+cv1.start-eo.jp
 cv1.stefany.co.jp
 kaden.netoff.co.jp
+kikoe.aisei.co.jp
 rsv.dankore.jp
+rsv.pairorder.jp
 shop.anu-cosme.com
 shopping.cellpure.co.jp
 sokutei.car2828.jp
@@ -522,6 +543,7 @@ test.shigoto-web.com
 tracking.lead-plus.jp
 trck.aeon.co.jp
 trck.frutafrutashop.com
+trck.moocres.com
 trck.naco-do.com
 trck.rework-s.com
 trck02.magaseek.com

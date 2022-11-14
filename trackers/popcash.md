@@ -17,7 +17,6 @@
 * affiliatable1.b-cdn.net
 * consent.b-cdn.net
 * b-cdn.net
-* starman.fathomdns.com
 
 ## Cloaking domains
 
@@ -243,6 +242,7 @@
 | coyote.gnx.cloud | deprecated-custom-domains.b-cdn.net |
 | coyote.hopr.swiss | deprecated-custom-domains.b-cdn.net |
 | coyote.nickgurney.com | deprecated-custom-domains.b-cdn.net |
+| coyote.titlerun.xyz | deprecated-custom-domains.b-cdn.net |
 | coyote.txet.ch | deprecated-custom-domains.b-cdn.net |
 | crab.dunkeldbutchers.co.uk | deprecated-custom-domains.b-cdn.net |
 | crab.goalcanvas.com | deprecated-custom-domains.b-cdn.net |
@@ -264,6 +264,7 @@
 | damselfly.clk.click | deprecated-custom-domains.b-cdn.net |
 | damselfly.jakekorth.com | deprecated-custom-domains.b-cdn.net |
 | damselfly.previously.today | deprecated-custom-domains.b-cdn.net |
+| deer.m1x.co | deprecated-custom-domains.b-cdn.net |
 | deer.ray.io | deprecated-custom-domains.b-cdn.net |
 | dingo.harmanly.com | deprecated-custom-domains.b-cdn.net |
 | dingo.moehring.dev | deprecated-custom-domains.b-cdn.net |
@@ -406,6 +407,7 @@
 | hornet.jeffgable.com | deprecated-custom-domains.b-cdn.net |
 | hornet.sigerr.dev | deprecated-custom-domains.b-cdn.net |
 | hornet.stechstudio.com | deprecated-custom-domains.b-cdn.net |
+| horse.cubitcreative.com | deprecated-custom-domains.b-cdn.net |
 | horse.deadmanssnitch.com | deprecated-custom-domains.b-cdn.net |
 | horse.erms.app | deprecated-custom-domains.b-cdn.net |
 | horse.hookrelay.dev | deprecated-custom-domains.b-cdn.net |
@@ -679,8 +681,10 @@
 | smelt.ramonmunoz.mx | deprecated-custom-domains.b-cdn.net |
 | smelt.waltrack.net | deprecated-custom-domains.b-cdn.net |
 | snail.asianinjobs.com | deprecated-custom-domains.b-cdn.net |
+| snake.kiramclean.com | deprecated-custom-domains.b-cdn.net |
 | snipe.mfaber.at | deprecated-custom-domains.b-cdn.net |
 | snipe.mindrevolution.com | deprecated-custom-domains.b-cdn.net |
+| sole.maraispatrimoine.com | deprecated-custom-domains.b-cdn.net |
 | sole.pretto.fr | deprecated-custom-domains.b-cdn.net |
 | sole.riverwalkdental.com.au | deprecated-custom-domains.b-cdn.net |
 | sparrow.carol.gg | deprecated-custom-domains.b-cdn.net |
@@ -854,7 +858,6 @@
 | dntcl.qualaroo.com | qualdnt.b-cdn.net |
 | sp.gifthome.co.uk | spixel.b-cdn.net |
 | sp.pakibanks.com | spixel.b-cdn.net |
-| pony.ftm.cat | starman.fathomdns.com |
 | assets.sublimeads.com | sublime-ads-cdn.b-cdn.net |
 | bunny.gluon.app | sublime-ads-cdn.b-cdn.net |
 | adserve.bongocdn.com | video-ad.b-cdn.net |

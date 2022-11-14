@@ -650,3 +650,7 @@ f1.mailperf.com
 f1.mailperformance.com
 f1.np6.com
 lbv5.mperf.com
+#
+# f1.mailperformance.com disguised trackers
+#
+lbv5.mperf.com

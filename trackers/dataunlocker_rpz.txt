@@ -23,7 +23,6 @@
 2rid9fii9chx.www.atlaslane.com CNAME .
 2ydzwm1jh5fr.www.earthclassmail.com CNAME .
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
-3h100nlegmh4.www.cybernetman.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wa4b4bx1tp8.app.tapmyback.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .

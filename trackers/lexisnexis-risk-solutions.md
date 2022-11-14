@@ -22,6 +22,7 @@
     * h-2ngdxgzm.online-metrix.net
     * h-2ql3c6py.online-metrix.net
     * h-2yf3c1v4.online-metrix.net
+    * h-30fpzt2y.online-metrix.net
     * h-39zuido3.online-metrix.net
     * h-3gk2er3j.online-metrix.net
     * h-3u2bmrkg.online-metrix.net
@@ -200,7 +201,9 @@
     * h-credit-reporting-agency.online-metrix.net
     * h-credit24.online-metrix.net
     * h-creditea.online-metrix.net
+    * h-crif.online-metrix.net
     * h-crssf8gn-m.online-metrix.net
+    * h-cw88rpnh.online-metrix.net
     * h-cybersource.online-metrix.net
     * h-d1kh7jfh.online-metrix.net
     * h-d3tracking.rbc.online-metrix.net
@@ -538,6 +541,7 @@
 | img.remit.co.jp | h-2ngdxgzm.online-metrix.net |
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
+| app.uob.com.sg | h-30fpzt2y.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
 | r7s.scl.swisscom.ch | h-3gk2er3j.online-metrix.net |
 | content.lyft.com | h-3u2bmrkg.online-metrix.net |
@@ -569,6 +573,7 @@
 | content.pledg.co | h-6y7oe1nl.online-metrix.net |
 | ex.exnessstats.com | h-7hs48cp7.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
+| content.royalvegascasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.rubyfortune.ca | h-7ij9mii1-a.online-metrix.net |
 | content.spincasino.ca | h-7ij9mii1-a.online-metrix.net |
 | de9c635aa0404558bd527220ef4e6b4b.betway.ca | h-7ij9mii1.online-metrix.net |
@@ -761,7 +766,9 @@
 | log.checkmyfile.com | h-credit-reporting-agency.online-metrix.net |
 | voto.credit24.com | h-credit24.online-metrix.net |
 | voto.creditea.com | h-creditea.online-metrix.net |
+| phyon.communipay.net | h-crif.online-metrix.net |
 | img2.bog.ge | h-crssf8gn-m.online-metrix.net |
+| lsprof.comeon.com | h-cw88rpnh.online-metrix.net |
 | tm.cybersource.com | h-cybersource.online-metrix.net |
 | content.sportscheck.com | h-d1kh7jfh.online-metrix.net |
 | d3tracking.rbc.com | h-d3tracking.rbc.online-metrix.net |

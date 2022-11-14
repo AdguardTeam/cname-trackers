@@ -650,3 +650,7 @@ f1.mailperf.com CNAME .
 f1.mailperformance.com CNAME .
 f1.np6.com CNAME .
 lbv5.mperf.com CNAME .
+;
+; f1.mailperformance.com disguised trackers
+;
+lbv5.mperf.com CNAME .

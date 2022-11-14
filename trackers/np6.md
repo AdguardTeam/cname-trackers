@@ -7,11 +7,13 @@
 ### Rarely active trackers
 
 * form.bp01.net
+* f1.mailperformance.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| lbv5.mperf.com | f1.mailperformance.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
 | f1.mailperformance.com | form.bp01.net |

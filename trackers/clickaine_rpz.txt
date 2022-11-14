@@ -15,6 +15,7 @@ api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
 app.willalland.info CNAME .
 asg.animeyt.es CNAME .
+asg.scanscloud.xyz CNAME .
 c2n.pornez.net CNAME .
 c4n.asianpinay.com CNAME .
 c4n.ijerk.club CNAME .

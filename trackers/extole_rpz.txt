@@ -125,6 +125,7 @@ refer.fahw.com CNAME .
 refer.firstrepublic.com CNAME .
 refer.frontgate.com CNAME .
 refer.g2.com CNAME .
+refer.gapcanada.ca CNAME .
 refer.garnethill.com CNAME .
 refer.giantfood.com CNAME .
 refer.giantfoodstores.com CNAME .
@@ -172,7 +173,9 @@ refer.orbitz.com CNAME .
 refer.ouidad.com CNAME .
 refer.pacsafe.com CNAME .
 refer.pimsleur.com CNAME .
+refer.prokeds.com CNAME .
 refer.psecu.com CNAME .
+refer.pureology.com CNAME .
 refer.quickbooks.co.uk CNAME .
 refer.reebok.com CNAME .
 refer.reliasacademy.com CNAME .

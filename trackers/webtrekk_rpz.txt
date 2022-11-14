@@ -9,6 +9,7 @@ image.kfw.de CNAME .
 images1.test.de CNAME .
 inhalt.bild.de CNAME .
 mon.ingservices.nl CNAME .
+now.peek-cloppenburg.de CNAME .
 ot.obi.com CNAME .
 pix.eads.com CNAME .
 pix.telekom-dienste.de CNAME .

@@ -11,7 +11,9 @@ ca.encurlergon.com CNAME .
 du.jubhahbalize.com CNAME .
 et.harmoutguereza.com CNAME .
 fn.deulspoorn.com CNAME .
+fo.irrisoranemone.com CNAME .
 ia.bisetsoliped.com CNAME .
+ir.avertinniello.com CNAME .
 kl.osmoticchalah.com CNAME .
 mp.ualisbaubles.com CNAME .
 ok.ribworkstylus.com CNAME .
@@ -21,3 +23,4 @@ tt.smirkydiff.com CNAME .
 uo.tubaronunheler.com CNAME .
 ur.meteredrato.com CNAME .
 vd.scapemambu.com CNAME .
+zd.plattedrattons.com CNAME .

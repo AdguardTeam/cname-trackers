@@ -196,6 +196,7 @@ p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
 privacy.28degreescard.com.au CNAME .
+privacy.acc2.heishop.com.br CNAME .
 privacy.amadrinks.be CNAME .
 privacy.blade.app CNAME .
 privacy.gemfinance.co.nz CNAME .

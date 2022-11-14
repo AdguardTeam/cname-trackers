@@ -11,6 +11,7 @@
     * eads-com01.webtrekk.net
     * emeza-ch01.webtrekk.net
     * emeza-com01.webtrekk.net
+    * fashionation01.webtrekk.net
     * flaconi02.webtrekk.net
     * flatex-at01.webtrekk.net
     * flatex-de01.webtrekk.net
@@ -398,6 +399,7 @@
 | ed.large.be | emp01.wt-eu02.net |
 | ed.large.nl | emp01.wt-eu02.net |
 | eht.endress.com | endresshauser01.wt-eu02.net |
+| now.peek-cloppenburg.de | fashionation01.webtrekk.net |
 | startrekk.flaconi.at | flaconi-at.wt-eu02.net |
 | startrekk.flaconi.de | flaconi02.webtrekk.net |
 | w3.flatex.at | flatex-at01.webtrekk.net |

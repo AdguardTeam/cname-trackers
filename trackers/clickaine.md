@@ -20,6 +20,7 @@
 | app.rtnews.pro | api.clickaine.com |
 | app.willalland.info | api.clickaine.com |
 | asg.animeyt.es | api.clickaine.com |
+| asg.scanscloud.xyz | api.clickaine.com |
 | c2n.pornez.net | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
 | c4n.ijerk.club | api.clickaine.com |

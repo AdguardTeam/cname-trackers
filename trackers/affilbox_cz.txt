@@ -37,6 +37,7 @@
 ||affil.lypo.cz^
 ||affil.moringamix.cz^
 ||affil.mydrinks.cz^
+||affil.nanospace.cz^
 ||affil.nutriadapt.cz^
 ||affil.peliskydog.cz^
 ||affil.plkshop.cz^
@@ -83,6 +84,7 @@
 ||affiliate.coolcredit.cz^
 ||affiliate.cryptokingdom.cz^
 ||affiliate.designovynabytek.cz^
+||affiliate.designshoes.cz^
 ||affiliate.diana-company.cz^
 ||affiliate.diana-company.sk^
 ||affiliate.dmxgear.cz^
@@ -153,16 +155,19 @@
 ||affiliate.smsticket.cz^
 ||affiliate.snowbitch.cz^
 ||affiliate.svarecky-obchod.cz^
+||affiliate.svetbot.cz^
 ||affiliate.terarijni-potreby.cz^
 ||affiliate.topol.io^
 ||affiliate.urbanstore.cz^
 ||affiliate.urbanstore.sk^
 ||affiliate.velebny.cz^
 ||affiliate.zdravykos.cz^
+||affiliateold.firma20.cz^
 ||affiliates.adinternet.cz^
 ||affilo.crosta.cz^
 ||affilo.crosta.sk^
 ||affilo.damoda.cz^
+||affilo.janie.cz^
 ||affilo.lingerio.cz^
 ||affilo.vivaboty.cz^
 ||affilpartner.descanti.com^
@@ -411,6 +416,7 @@
 ||partneri.bornature.cz^
 ||partneri.cannor.cz^
 ||partneri.chytraopicka.cz^
+||partneri.chytrykvetinac.cz^
 ||partneri.coffeeveronia.sk^
 ||partneri.dietavkrabicce.cz^
 ||partneri.dluhopisomat.cz^
@@ -451,6 +457,7 @@
 ||partneri.rondainvest.cz^
 ||partneri.rybitukylysi.cz^
 ||partneri.smartemailing.cz^
+||partneri.smyslovy-pruzkumnik.cz^
 ||partneri.sportfotbal.cz^
 ||partneri.sviicka.cz^
 ||partneri.tradicne-feng-shui.sk^

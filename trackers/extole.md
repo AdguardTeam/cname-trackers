@@ -160,6 +160,7 @@
     * fullbay.extole.io
     * g2.extole.io
     * gannett.extole.io
+    * gap-canada.extole.io
     * garnethill.extole.io
     * giant-martins.extole.io
     * giantfood.extole.io
@@ -234,9 +235,11 @@
     * petsbest.extole.io
     * pimsleur.extole.io
     * policygenius.extole.io
+    * prokeds.extole.io
     * promofarma.extole.io
     * propark.extole.io
     * psecu.extole.io
+    * pureology.extole.io
     * qbouk.extole.io
     * qvc.extole.io
     * reebok-raf.extole.io
@@ -446,6 +449,7 @@
 | refer.g2.com | g2.extole.io |
 | share.azcentral.com | gannett.extole.io |
 | share.caller.com | gannett.extole.io |
+| refer.gapcanada.ca | gap-canada.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
 | refer.martinsfoods.com | giant-martins.extole.io |
 | refer.giantfood.com | giantfood.extole.io |
@@ -544,11 +548,13 @@
 | share.petsbest.com | petsbest.extole.io |
 | refer.pimsleur.com | pimsleur.extole.io |
 | share.policygenius.com | policygenius.extole.io |
+| refer.prokeds.com | prokeds.extole.io |
 | share.docmorris.fr | promofarma.extole.io |
 | share.promofarma.com | promofarma.extole.io |
 | refer.jiffynewark.com | propark.extole.io |
 | refer.psecu.com | psecu.extole.io |
 | refer.purchasingpower.com | purchasingpower.extole.com |
+| refer.pureology.com | pureology.extole.io |
 | share.qalo.com | qalo.extole.com |
 | refer.quickbooks.co.uk | qbouk.extole.io |
 | q.share.qvcemail.com | qvc.extole.io |

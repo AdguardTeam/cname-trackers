@@ -231,6 +231,7 @@ coyote.alboweb.nl CNAME .
 coyote.gnx.cloud CNAME .
 coyote.hopr.swiss CNAME .
 coyote.nickgurney.com CNAME .
+coyote.titlerun.xyz CNAME .
 coyote.txet.ch CNAME .
 crab.dunkeldbutchers.co.uk CNAME .
 crab.goalcanvas.com CNAME .
@@ -252,6 +253,7 @@ dakqbwpduu.coywolf.io CNAME .
 damselfly.clk.click CNAME .
 damselfly.jakekorth.com CNAME .
 damselfly.previously.today CNAME .
+deer.m1x.co CNAME .
 deer.ray.io CNAME .
 dingo.harmanly.com CNAME .
 dingo.moehring.dev CNAME .
@@ -394,6 +396,7 @@ hookworm.commanddot.com CNAME .
 hornet.jeffgable.com CNAME .
 hornet.sigerr.dev CNAME .
 hornet.stechstudio.com CNAME .
+horse.cubitcreative.com CNAME .
 horse.deadmanssnitch.com CNAME .
 horse.erms.app CNAME .
 horse.hookrelay.dev CNAME .
@@ -667,8 +670,10 @@ smelt.allenpike.com CNAME .
 smelt.ramonmunoz.mx CNAME .
 smelt.waltrack.net CNAME .
 snail.asianinjobs.com CNAME .
+snake.kiramclean.com CNAME .
 snipe.mfaber.at CNAME .
 snipe.mindrevolution.com CNAME .
+sole.maraispatrimoine.com CNAME .
 sole.pretto.fr CNAME .
 sole.riverwalkdental.com.au CNAME .
 sparrow.carol.gg CNAME .
@@ -870,7 +875,3 @@ log.ads-m.net CNAME .
 media.adstatic.com CNAME .
 sp.gifthome.co.uk CNAME .
 sp.pakibanks.com CNAME .
-;
-; starman.fathomdns.com disguised trackers
-;
-pony.ftm.cat CNAME .

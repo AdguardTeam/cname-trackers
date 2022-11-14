@@ -16,11 +16,11 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| a135.wftv.com | jadserve.postrelease.com |
-| entrepreneur.share.ntv.io | jadserve.postrelease.com |
+| csoonline.share.ntv.io | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
 | a135.wftv.com | jadserve.postrelease.com.akadns.net |
+| entrepreneur.share.ntv.io | jadserve.postrelease.com.akadns.net |
 | share.ntv.io | jadserve.postrelease.com.akadns.net |
 | shared.sponsoredcontent.com | jadserve.postrelease.com.akadns.net |
 | 0424b056e9.bfbcb7a235.com | ntvpforever.com |
@@ -42,6 +42,7 @@
 | 38a29cb310.eea605742d.com | ntvpforever.com |
 | 38d086de2c.318387965a.com | ntvpforever.com |
 | 3cbf4c2cb3.cc77769ad8.com | ntvpforever.com |
+| 3d82e5c981.9633d48767.com | ntvpforever.com |
 | 41f8a60477.cd4fb281e1.com | ntvpforever.com |
 | 434d80d136.a07d30aaf0.com | ntvpforever.com |
 | 46fe7fa264.4d2a483049.com | ntvpforever.com |
@@ -74,6 +75,8 @@
 | 95113b3bd8.9d36cf3402.com | ntvpforever.com |
 | 96b76b02f1.49af7cee19.com | ntvpforever.com |
 | 98028f4b73.c9b501fef3.com | ntvpforever.com |
+| a108652c62.f78f9d3fc2.com | ntvpforever.com |
+| a2f288701d.a4334cc1ec.com | ntvpforever.com |
 | a6270385bc.560fe03925.com | ntvpforever.com |
 | ab6de09242.441a8a5527.com | ntvpforever.com |
 | acb5145d0c.8874d81f48.com | ntvpforever.com |
@@ -91,17 +94,20 @@
 | c5626f808b.36d1ef387c.com | ntvpforever.com |
 | c66ed6bbd0.866e69bc8e.com | ntvpforever.com |
 | cc76f2eeaa.0692e14e66.com | ntvpforever.com |
+| cca691f765.ca3362de0f.com | ntvpforever.com |
 | cce1fcf4c7.cca57f4672.com | ntvpforever.com |
 | ceb8265201.4eb28685b6.com | ntvpforever.com |
 | da2870069a.c9c2b6b980.com | ntvpforever.com |
 | df53ff2b97.bcb3da3ac8.com | ntvpforever.com |
 | e144c46b1f.ab910ac1aa.com | ntvpforever.com |
 | e8609911b3.c785e43db1.com | ntvpforever.com |
+| eb3d849a7c.e4dbf49f32.com | ntvpforever.com |
 | f1c61224ea.edbc0469bd.com | ntvpforever.com |
 | f24d473f74.60d4631eb3.com | ntvpforever.com |
 | f33772ce13.749cad1027.com | ntvpforever.com |
 | f43bb3465e.10eafd09d6.com | ntvpforever.com |
 | f4c85c5128.111d140e96.com | ntvpforever.com |
 | fa5248bea9.d7d38597d6.com | ntvpforever.com |
+| fb02e621c6.1c09d36b99.com | ntvpforever.com |
 | fe8d4b33c2.8abf43d6ad.com | ntvpforever.com |
 | www.realworldsurvivor.com | realworldsurvivor-com-prod.edgeserving.com |

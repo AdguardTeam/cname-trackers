@@ -12,6 +12,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | ac-dir-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
+| avb-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | abttss-ur.exolkkl6i2puvf.ru | lb.rtb.ads.bid |
 | ac-dir-co.cau1aighae.com | lb.rtb.ads.bid |
@@ -38,6 +39,7 @@
 | adsbid-sh-click.sing.adghndou0sdh.ru | sing.lb.rtb.ads.bid |
 | avb-sing.13wynpuurt.ru | sing.lb.rtb.ads.bid |
 | avb-sing.ewtcbedtmx.ru | sing.lb.rtb.ads.bid |
+| di-res-sing.cau1aighae.com | sing.lb.rtb.ads.bid |
 | sing.3h1fpq39jb.ru | sing.lb.rtb.ads.bid |
 | sing.cau1aighae.com | sing.lb.rtb.ads.bid |
 | sing.iemieshohx.com | sing.lb.rtb.ads.bid |

@@ -196,6 +196,7 @@ p.pulse.lexus.com
 p.pulse.toyota.com
 pfa.levexis.com
 privacy.28degreescard.com.au
+privacy.acc2.heishop.com.br
 privacy.amadrinks.be
 privacy.blade.app
 privacy.gemfinance.co.nz

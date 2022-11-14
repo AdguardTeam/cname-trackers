@@ -20,9 +20,11 @@ arvb.ewtcbedtmx.ru CNAME .
 arvb.gamz48qlok.ru CNAME .
 avb-co.cau1aighae.com CNAME .
 avb-co.iemieshohx.com CNAME .
+avb-latam.cau1aighae.com CNAME .
 avb-sing.13wynpuurt.ru CNAME .
 avb-sing.ewtcbedtmx.ru CNAME .
 avbr.13wynpuurt.ru CNAME .
+di-res-sing.cau1aighae.com CNAME .
 di-res.cau1aighae.com CNAME .
 di-res.iemieshohx.com CNAME .
 dsp-image-resizer.3grg8dqjil.ru CNAME .

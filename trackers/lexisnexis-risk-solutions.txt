@@ -19,6 +19,7 @@
 ||api.v1.threatmetrix.space.ge^
 ||api1.sfcu.org^
 ||apicorporativops.portoseguro.com.br^
+||app.uob.com.sg^
 ||app392.gerberlife.com^
 ||appschk.scotiabank.com^
 ||appscore.credilike.me^
@@ -191,6 +192,7 @@
 ||content.quicken.com^
 ||content.realquest.com^
 ||content.royalairmaroc.com^
+||content.royalvegascasino.ca^
 ||content.rubyfortune.ca^
 ||content.sheerid.com^
 ||content.spincasino.ca^
@@ -363,6 +365,7 @@
 ||login.eki-net.com^
 ||loyaltyprogram.latam.com^
 ||lsdp.lotto.com^
+||lsprof.comeon.com^
 ||m-profiling.cibc.com^
 ||m-profiling.simplii.com^
 ||m.vnforapps.com^
@@ -392,6 +395,7 @@
 ||payments.direct.playstation.com^
 ||payments.hd-plus.de^
 ||pf.intuit.com^
+||phyon.communipay.net^
 ||phyon.visit-x.net^
 ||piafapp.poste.it^
 ||plr.scb-payments.net^

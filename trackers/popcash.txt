@@ -231,6 +231,7 @@
 ||coyote.gnx.cloud^
 ||coyote.hopr.swiss^
 ||coyote.nickgurney.com^
+||coyote.titlerun.xyz^
 ||coyote.txet.ch^
 ||crab.dunkeldbutchers.co.uk^
 ||crab.goalcanvas.com^
@@ -252,6 +253,7 @@
 ||damselfly.clk.click^
 ||damselfly.jakekorth.com^
 ||damselfly.previously.today^
+||deer.m1x.co^
 ||deer.ray.io^
 ||dingo.harmanly.com^
 ||dingo.moehring.dev^
@@ -394,6 +396,7 @@
 ||hornet.jeffgable.com^
 ||hornet.sigerr.dev^
 ||hornet.stechstudio.com^
+||horse.cubitcreative.com^
 ||horse.deadmanssnitch.com^
 ||horse.erms.app^
 ||horse.hookrelay.dev^
@@ -667,8 +670,10 @@
 ||smelt.ramonmunoz.mx^
 ||smelt.waltrack.net^
 ||snail.asianinjobs.com^
+||snake.kiramclean.com^
 ||snipe.mfaber.at^
 ||snipe.mindrevolution.com^
+||sole.maraispatrimoine.com^
 ||sole.pretto.fr^
 ||sole.riverwalkdental.com.au^
 ||sparrow.carol.gg^
@@ -870,7 +875,3 @@
 ||media.adstatic.com^
 ||sp.gifthome.co.uk^
 ||sp.pakibanks.com^
-!
-! starman.fathomdns.com disguised trackers
-!
-||pony.ftm.cat^

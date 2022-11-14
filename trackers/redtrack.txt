@@ -87,6 +87,7 @@
 ||ehtrack.lifebrandsdigital.com^
 ||fbtrack.mensuas.com^
 ||follow.ciciunderwear.com^
+||follow.edmontonppc.ca^
 ||follow.koandigital.com^
 ||follow.megghanthompsoncoaching.com^
 ||ga.amgtrack.link^
@@ -118,6 +119,7 @@
 ||go.flyin.com^
 ||go.gomovepro.com^
 ||go.homeessentialstore.com^
+||go.hsrtrack.com^
 ||go.jogosbrasilhoje.com^
 ||go.kickstartclick.com^
 ||go.livehealthiertoday.net^
@@ -140,9 +142,11 @@
 ||go.techfinderclub.com^
 ||go.theautoconnectiononline.com^
 ||go.theeducationinformer.com^
+||go.themicroglow.com^
 ||go.thestudentvoiceonline.com^
 ||go.theswiftest.com^
 ||go.todeliverypage.com^
+||go.topbetsbr.net^
 ||go.trekdom.com^
 ||go.tryretrobros.com^
 ||go.vipcouponsdeals.com^
@@ -165,8 +169,10 @@
 ||kindlaundry.rdtrke.com^
 ||kingsofneon.espheredigital.com^
 ||kinky.tracked.one^
+||leads.getquadairdrone.org^
 ||life.smartfinancialinsider.com^
 ||link.health-today-news.com^
+||link.startscopestore.net^
 ||link.topdealspost.com^
 ||littlelilistore.rdtrke.com^
 ||loading.howtosave247.org^
@@ -189,7 +195,9 @@
 ||now.rthometoday.com^
 ||o.jim.expert^
 ||offer.buy.healthyhub24.com^
+||offer.buy.myjourney2022.com^
 ||offer.buy.wellness-europe.com^
+||offer.buy.wellness-quality.com^
 ||offer.gentleandrose.com^
 ||offer.kundenmanufaktur.com^
 ||offer.prosperdigital.ca^
@@ -242,6 +250,7 @@
 ||ro2.ro.trackrocasino.com^
 ||rt.compare24.net^
 ||rt.fastinsuranceservices.net^
+||rt.homeownersavingshub.com^
 ||rt.improvetechlife.com^
 ||rt.realitylovers.com^
 ||rt.roomhustlers.com^
@@ -251,6 +260,7 @@
 ||rtrack.my-smart-solar-247.com^
 ||rtrack.olderwiserseniors.com^
 ||rtrack.solarsavingsconnect.com^
+||rtrack.wiserseniors.org^
 ||sales.bestelectronic.de^
 ||secure.americansavingsjournal.com^
 ||secure.degreeresearchcenter.com^
@@ -273,6 +283,7 @@
 ||t.t-cy-spook.com^
 ||t.t-mb-spook.com^
 ||t.usa-benefits-guide.com^
+||t1.ask1.co^
 ||ticket.sirlottoclub.com^
 ||tk.saintandsofia.com^
 ||track.aayay.net^
@@ -297,10 +308,12 @@
 ||track.calmrise.co^
 ||track.camarasdeseguridadparausted.com^
 ||track.carloanagent.com^
+||track.cinderco.com^
 ||track.clasesdeeconomia.com^
 ||track.cleaningserviceworld.com^
 ||track.clickadtracking.com^
 ||track.cloudstoragebestworld.com^
+||track.colegiosmilitaresdelmundo.com^
 ||track.colegiosmilitaresespacio.com^
 ||track.comparyourquotes.live^
 ||track.consumerquote.org^
@@ -351,6 +364,7 @@
 ||track.hvacrentals.ca^
 ||track.icowhide.com^
 ||track.idclickscale.com^
+||track.illinor.se^
 ||track.imdeqzo.com^
 ||track.imgtrx.com^
 ||track.imgtrx2.com^
@@ -397,6 +411,7 @@
 ||track.projectmanagementworldforyou.com^
 ||track.purewine.store^
 ||track.quit.guru^
+||track.quize.tech^
 ||track.realtarget.pl^
 ||track.redtglenn.com^
 ||track.redtrack.link^
@@ -429,7 +444,6 @@
 ||track.thelimitedco.com^
 ||track.thelitlamps.com^
 ||track.themicroglow.com^
-||track.thepowerfulmarketing.com^
 ||track.togetherforeverwhere.com^
 ||track.topestateplanning.com^
 ||track.topzlots.com^
@@ -486,6 +500,7 @@
 ||trk.checkthesereviews.com^
 ||trk.cloud-bytes.net^
 ||trk.dailyeasydeals.com^
+||trk.dealtreats.com^
 ||trk.deliveryredirect.com^
 ||trk.disability-help-center.com^
 ||trk.electropig.shop^
@@ -522,7 +537,6 @@
 ||trk.yourmoneyguide.financial^
 ||tv.milkshow.live^
 ||two.eagermint.com^
-||vhth.silkroadtracker.com^
 ||vicky.tweaknology.org^
 ||video.animesilo.live^
 ||video.biganews.today^
@@ -538,13 +552,14 @@
 ||wcbnl.adultpages.nl^
 ||weiter.verifizierte-angebote.com^
 ||woof.petsylabs.com^
+||woof.petsylabs.de^
+||woof.petsylabs.fr^
 ||www.adultpages.nl^
 ||www.beaminghealth.org^
 ||www.casinochoix.xyz^
 ||www.casinonligne.xyz^
 ||www.funcasinoslots.one^
 ||www.healthyalwayss.com^
-||www.informationmoat.com^
 ||www.logicnobu.com^
 ||www.online-france.club^
 ||www.snapwellnessme.com^
@@ -552,9 +567,8 @@
 ||www.thehealthyyzone.com^
 ||www.therisewellness.com^
 ||www.toponlinecasinoer.club^
-||www.tryprofits.com^
 ||www.unitmal.xyz^
 ||www.wellnessjourneyy.com^
-||x.daily-health.org^
+||x.healthlabinstitute.com^
 ||x.neurofacts.org^
 ||xerotrk.com^
