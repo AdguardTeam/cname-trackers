@@ -182,11 +182,14 @@ refer.reliasacademy.com CNAME .
 refer.remit2india.com CNAME .
 refer.rockport.com CNAME .
 refer.rodo.com CNAME .
+refer.saatva.com CNAME .
+refer.saatvadreams.com CNAME .
 refer.saatvamattress.com CNAME .
 refer.samedelman.com CNAME .
 refer.saucony.com CNAME .
 refer.sharkclean.com CNAME .
 refer.skinceuticals.com CNAME .
+refer.skyone.org CNAME .
 refer.snagajob.com CNAME .
 refer.soma.com CNAME .
 refer.spothero.com CNAME .
@@ -322,6 +325,7 @@ share.starbucks.com CNAME .
 share.steadyapp.com CNAME .
 share.stridehealth.com CNAME .
 share.studiosashiko.com CNAME .
+share.sundaysfordogs.com CNAME .
 share.teachersfcu.org CNAME .
 share.theory.com CNAME .
 share.theoryoutlet.com CNAME .

@@ -69,6 +69,7 @@
     * h-adp.online-metrix.net
     * h-af1jjj0t.online-metrix.net
     * h-afterpay.online-metrix.net
+    * h-ag4c1wpy.online-metrix.net
     * h-agaval.online-metrix.net
     * h-allstate.online-metrix.net
     * h-alterna.online-metrix.net
@@ -390,6 +391,7 @@
     * h-onecall.online-metrix.net
     * h-online.citi.online-metrix.net
     * h-opendoor.online-metrix.net
+    * h-optum.online-metrix.net
     * h-optumid.online-metrix.net
     * h-optummahix.online-metrix.net
     * h-optus.online-metrix.net
@@ -402,6 +404,7 @@
     * h-paysafe.online-metrix.net
     * h-paysafecard2.online-metrix.net
     * h-pci51dt4.online-metrix.net
+    * h-pensionfund.online-metrix.net
     * h-personifyfinancial.online-metrix.net
     * h-phub.com.online-metrix.net
     * h-picpay.online-metrix.net
@@ -605,6 +608,7 @@
 | image.online.adp.com | h-adp.online-metrix.net |
 | auth2.corelogic.asia | h-af1jjj0t.online-metrix.net |
 | rsx.afterpay.com | h-afterpay.online-metrix.net |
+| lsr22.dzing.finance | h-ag4c1wpy.online-metrix.net |
 | validacionlx.agaval.com | h-agaval.online-metrix.net |
 | content.allstate.com | h-allstate.online-metrix.net |
 | content.alterna.ca | h-alterna.online-metrix.net |
@@ -995,6 +999,7 @@
 | cdn1.onecalldirect.co.uk | h-onecall.online-metrix.net |
 | content22.online.citi.com | h-online.citi.online-metrix.net |
 | hint-tmdp.opendoor.com | h-opendoor.online-metrix.net |
+| rba.login.agentmessagecenter.optum.com | h-optum.online-metrix.net |
 | rba.onehealthcareid.com | h-optumid.online-metrix.net |
 | rba.optumgovid.com | h-optumid.online-metrix.net |
 | rba.login.mahix.org | h-optummahix.online-metrix.net |
@@ -1008,6 +1013,7 @@
 | tms.paysafe.com | h-paysafe.online-metrix.net |
 | tm.paysafecard.com | h-paysafecard2.online-metrix.net |
 | tm.promotion-cdn.com | h-pci51dt4.online-metrix.net |
+| img02.pensionfund.org | h-pensionfund.online-metrix.net |
 | content.personifyfinancial.com | h-personifyfinancial.online-metrix.net |
 | rba.phub-im.uhg.com | h-phub.com.online-metrix.net |
 | ts04358.picpay.com | h-picpay.online-metrix.net |
@@ -1116,6 +1122,7 @@
 | h.threatmetrix.com | h-threatmetrix.online-metrix.net |
 | df.thumbtack.com | h-thumbtack.online-metrix.net |
 | public-check3-at.test.tiaa.org | h-tiaa-cref-at-test.online-metrix.net |
+| check3.tiaa-cref.org | h-tiaa-cref.online-metrix.net |
 | check3.tiaa.org | h-tiaa-cref.online-metrix.net |
 | check3.tiaabank.com | h-tiaa-cref.online-metrix.net |
 | tm.bdc-cdn.com | h-tm.bdc-cdn.com.online-metrix.net |

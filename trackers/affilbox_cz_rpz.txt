@@ -54,6 +54,7 @@ affil.unuo.sk CNAME .
 affil.upcr.cz CNAME .
 affil.vzdusin.cz CNAME .
 affil.webareal.cz CNAME .
+affil.xgdpr.cz CNAME .
 affil.zdravetricko.cz CNAME .
 affilbox.andreashop.sk CNAME .
 affilbox.gurufinance.cz CNAME .
@@ -65,6 +66,7 @@ affiliate.2gispraha.cz CNAME .
 affiliate.4fresh.cz CNAME .
 affiliate.agatinsvet.cz CNAME .
 affiliate.alchymiezeny.cz CNAME .
+affiliate.alexandrajohn.com CNAME .
 affiliate.altatrading.cz CNAME .
 affiliate.amarex.cz CNAME .
 affiliate.ambitv.cz CNAME .
@@ -276,6 +278,7 @@ partner.brillbird.cz CNAME .
 partner.cakemarket.eu CNAME .
 partner.candy.cz CNAME .
 partner.cannacare.cz CNAME .
+partner.carun.cz CNAME .
 partner.caskrmeni.cz CNAME .
 partner.cbdcko.cz CNAME .
 partner.cbdstar.cz CNAME .
@@ -284,6 +287,7 @@ partner.ceskeghicko.cz CNAME .
 partner.chcivedet.com CNAME .
 partner.chevronnutrition.cz CNAME .
 partner.chiashake.cz CNAME .
+partner.cocochocokeratin.cz CNAME .
 partner.cokoladovnajanek.cz CNAME .
 partner.comeflexoffice.cz CNAME .
 partner.cshop.sk CNAME .
@@ -378,6 +382,7 @@ partner.stromkyonline.cz CNAME .
 partner.summermyles.cz CNAME .
 partner.superpotlac.sk CNAME .
 partner.supervyhody.cz CNAME .
+partner.susenepochoutky.cz CNAME .
 partner.svatba.cz CNAME .
 partner.svatebni-diar.cz CNAME .
 partner.svetruzi.cz CNAME .
@@ -389,6 +394,7 @@ partner.umio.sk CNAME .
 partner.unuo.de CNAME .
 partner.vataonline.cz CNAME .
 partner.vffoto.com CNAME .
+partner.virulent.cz CNAME .
 partner.vladimirekart.cz CNAME .
 partner.volne-reality.cz CNAME .
 partner.vykoupeno.cz CNAME .
@@ -432,12 +438,14 @@ partneri.eshop.hankamokra.cz CNAME .
 partneri.fitstore.cz CNAME .
 partneri.frcime.cz CNAME .
 partneri.gigamat.cz CNAME .
+partneri.heavytamper.cz CNAME .
 partneri.jakofenix.cz CNAME .
 partneri.jazykovedarky.cz CNAME .
 partneri.kerasek.cz CNAME .
 partneri.kimgroup.cz CNAME .
 partneri.kuptorazdva.cz CNAME .
 partneri.levne-barvy-laky.cz CNAME .
+partneri.lucie-konigova.cz CNAME .
 partneri.maggion.cz CNAME .
 partneri.mebline.cz CNAME .
 partneri.minshop.cz CNAME .

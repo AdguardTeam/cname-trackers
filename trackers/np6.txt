@@ -403,6 +403,7 @@
 ||tr.news.i24news.tv^
 ||tr.news.ics.fr^
 ||tr.news.infopro-digital.com^
+||tr.news.interforum.fr^
 ||tr.news.itancia.com^
 ||tr.news.jautomatise.com^
 ||tr.news.kpmgnet.fr^
@@ -448,6 +449,7 @@
 ||tr.news.toocampmail.com^
 ||tr.news.toute-la-franchise.com^
 ||tr.news.triskalia.fr^
+||tr.news.videofutur.fr^
 ||tr.news.vip-diary.com^
 ||tr.news.vip-mag.co.uk^
 ||tr.news.vipmag.fr^
@@ -484,6 +486,7 @@
 ||tr.newsletter.roger-gallet.com^
 ||tr.newsletter.tiragephoto.fr^
 ||tr.newsletter.younited-credit.com^
+||tr.newsletterpagesjaunes.fr^
 ||tr.newsletters.odalys-vacances.com^
 ||tr.newsletters.youmeetings.com^
 ||tr.newsmarketing.allopneus.com^
@@ -537,6 +540,7 @@
 ||tr.preventivo.risparmiazienda.it^
 ||tr.pro.odalys-vacances.com^
 ||tr.projet.cotemaison.fr^
+||tr.promo.np6.fr^
 ||tr.promotion.lexpress.fr^
 ||tr.publicisdrugstore.espmp-agfr.net^
 ||tr.qualitaetsumfrage.com^
@@ -558,6 +562,7 @@
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^
 ||tr.relation.uneo.fr^
+||tr.renowizze.be^
 ||tr.route-solutiondata.fr^
 ||tr.roxi02e.espmp-agfr.net^
 ||tr.sash.espmp-aufr.net^
@@ -649,8 +654,4 @@
 ||f1.mailperf.com^
 ||f1.mailperformance.com^
 ||f1.np6.com^
-||lbv5.mperf.com^
-!
-! f1.mailperformance.com disguised trackers
-!
 ||lbv5.mperf.com^

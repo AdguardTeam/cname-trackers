@@ -8,7 +8,6 @@ adkfilter.mybestclick.net
 admin3.danarimedia.com
 ads.media-servers.net
 adserver.additionalmedia.com
-akcdn.nativeadsfeed.com
 akxml.nativeadsfeed.com
 c.cgmission.com
 calls.uptownleads.com
@@ -57,6 +56,7 @@ cpm.mobipromote.com
 cpm.onwardclick.com
 cpm.pubgenius.io
 cpm.pulsefintech.net
+cpm.pwr-ads.com
 cpm.revlift.io
 cpm.rtbanalytica.com
 cpm.rtbidhost.com
@@ -80,6 +80,7 @@ dsp.xapads.com
 exchange.adkernel.com
 exchange.nativeads.com
 filter-eu.adright.co
+filter-eu.ezmob.com
 filter-eu.plarimoplus.com
 filter-eu.qksrv.cc
 filter-eu.realtime-bid.com
@@ -111,6 +112,7 @@ filter.clixportal.com
 filter.clixvista.com
 filter.clixwells.com
 filter.ctrtraffic.com
+filter.dollopsdigital.com
 filter.drivecpx.co
 filter.dtxplatform.net
 filter.eximdigital.com
@@ -125,7 +127,9 @@ filter.globlemath.com
 filter.groovyadz.com
 filter.hetcash.com
 filter.highsea.fun
+filter.hotmaracas.com
 filter.hotmaracas.fun
+filter.howto5.io
 filter.hueadsxml.com
 filter.icyads.com
 filter.infinity-info.com
@@ -188,6 +192,7 @@ login.additionalmedia.com
 login.admozartppc.com
 login.adright.com
 login.adsimilate.com
+login.saturndynamic.pt
 mob.kaipirinhaloka.xyz
 mob.lowtid.fun
 mob.nemoatedory.club
@@ -230,6 +235,7 @@ rtb-eu.fmlabsonline.com
 rtb-eu.houseofpubs.com
 rtb-eu.media-servers.net
 rtb-eu.openrtb.in
+rtb-eu.pressize.com
 rtb-eu.rankortbdirect.com
 rtb-eu.rtbdemand.com
 rtb-eu.rtbplatform.net
@@ -257,6 +263,7 @@ rtb-useast.eximdigital.com
 rtb-useast.felixads.com
 rtb-useast.fmlabsonline.com
 rtb-useast.houseofpubs.com
+rtb-useast.hueadsortb.com
 rtb-useast.infinity-info.com
 rtb-useast.intellectscoop.com
 rtb-useast.kinesis-rtb.com
@@ -294,8 +301,10 @@ rtb2-useast.demandzoo.com
 rtb2-useast.e-volution.ai
 rtb2-useast.newchallenges-dsp.com
 rtb2-useast.programmatics.net
+rtb2-useast.t3dsp.com
 rtb2-useast.torchad.com
 rtb2-uswest.demandzoo.com
+rtb2-uswest.programmatics.net
 rtb2.vashoot.com
 search.anytheengmedia.com
 search.vokut.com
@@ -303,13 +312,12 @@ serv.bvsrv.com
 serve.datacygnal.io
 serve.paradisesummer.xyz
 static-analytics.nativeads.com
-static-rtb.engagesimply.com
+static-rtb.adksrv.com
 static-rtb2.catapultx.com
-static-rtb2.convergeselect.net
 static-rtb2.e-volution.ai
+static-rtb2.newchallenges-dsp.com
 static.1tag.ai
 static.ad-maven.com
-static.adcannyxml.com
 static.admeridianads.com
 static.admidainsight.com
 static.adop.co
@@ -322,14 +330,12 @@ static.directrankcl.com
 static.displayio.cloud
 static.ezmob.com
 static.fastdlr.com
-static.fastdlx.net
 static.fastdmr.com
 static.fastdxr.com
 static.fastmtn.com
+static.fastsearch.me
 static.foremedia.net
-static.houseofpubs.com
 static.hueadsxml.com
-static.icyads.com
 static.landingtrk.com
 static.openrtb.in
 static.pdn-1.com
@@ -337,9 +343,10 @@ static.pressize.com
 static.pushub.net
 static.qksrv.cc
 static.realtime-bid.com
-static.revrtb.com
 static.rtbserve.io
 static.rtbwire.com
+static.topsolutionsmedia.com
+static.webmedxml.com
 sub.adzgame.com
 sync.adkernel.com
 tag.adkernel.com
@@ -350,6 +357,7 @@ tq.adventurefeeds.com
 tq.craftviking.co
 tq.netload1.com
 traffic.adventurefeeds.com
+uixml.bidcampaign.com
 val.looksmart.com
 vid-cpm.xapads.com
 vid-rtb-eu.xapads.com
@@ -358,6 +366,7 @@ vid-rtb-sg.xapads.com
 vid-rtb-uswest.xapads.com
 vid-rtb.xapads.com
 vid-static.xapads.com
+win-rtb2-apac.newchallenges-dsp.com
 win-rtb2-apac.programmatics.net
 win-rtb2-apac.userwave.com
 win-rtb2-eu.e-volution.ai
@@ -367,6 +376,7 @@ win-rtb2-useast.adsync.global
 win-rtb2-useast.assemblyexchange.com
 win-rtb2-useast.programmatics.net
 win-rtb2-useast.userwave.com
+win-rtb2-uswest.programmatics.net
 win-rtb2-uswest.userwave.com
 xml-console.xapads.com
 xml-default.xapads.com
@@ -390,6 +400,7 @@ xml-eu.adxfactory.com
 xml-eu.bid-engine.com
 xml-eu.bidmyadz.com
 xml-eu.blueparrot.media
+xml-eu.craftviking.co
 xml-eu.ezmob.com
 xml-eu.fastdln.com
 xml-eu.fastdlr.com
@@ -400,6 +411,7 @@ xml-eu.pushub.net
 xml-eu.qksrv.cc
 xml-eu.realtime-bid.com
 xml-eu.topdealad.com
+xml-eu.webmedxml.com
 xml-rtb.xapads.com
 xml-v4.adflyer.media
 xml-v4.benrif-solutions.com
@@ -409,6 +421,7 @@ xml-v4.domains-traffic.com
 xml-v4.ezmob.com
 xml-v4.fastdmr.com
 xml-v4.hetcash.com
+xml-v4.klapads.com
 xml-v4.mobifly.net
 xml-v4.netload1.com
 xml-v4.netload2.com
@@ -443,6 +456,7 @@ xml.admozartxml.com
 xml.adokutcontextual.com
 xml.adop.co
 xml.adoperatorx.com
+xml.adoptim.com
 xml.adpalladium.com
 xml.adright.com
 xml.adsailor.com
@@ -468,11 +482,13 @@ xml.breatheads.com
 xml.cerineas.com
 xml.chameleostudios.com
 xml.clickmenia.com
+xml.clickmi.net
 xml.clixcrafts.com
 xml.clixforads.com
 xml.clixportal.com
 xml.clixvista.com
 xml.clixwells.com
+xml.convertise.io
 xml.craftviking.co
 xml.ctrtraffic.com
 xml.dollopsdigital.com
@@ -481,6 +497,7 @@ xml.dtxplatform.net
 xml.eureekkaa.com
 xml.eximdigital.com
 xml.expialidosius.com
+xml.explorads.com
 xml.expplatdirect.com
 xml.ezmob.com
 xml.fastdld.com
@@ -509,6 +526,7 @@ xml.mediacpc.com
 xml.mediaxchange.co
 xml.mobipromote.com
 xml.mobreach.com
+xml.mobuppsrtb.com
 xml.mymedia.club
 xml.netload1.com
 xml.netload2.com
@@ -573,6 +591,12 @@ xmlv4.chameleostudios.com
 xmlv4.mobuppsrtb.com
 xmlv6.aimkweb.com
 #
+# b8m5j6a5.stackpathcdn.com disguised trackers
+#
+akcdn.nativeadsfeed.com
+static-analytics.nativeads.com
+static.analytics.nativeads.com
+#
 # j4r2u9z7.stackpathcdn.com disguised trackers
 #
 data.bvsrv.com
@@ -581,14 +605,13 @@ data.bvsrv.com
 #
 dsp-static.nativeads.com
 #
-# b8m5j6a5.stackpathcdn.com disguised trackers
-#
-static-analytics.nativeads.com
-static.analytics.nativeads.com
-#
 # e5z5y6y7.stackpathcdn.com disguised trackers
 #
 static-rtb.adksrv.com
+#
+# g5v2e8v8.stackpathcdn.com disguised trackers
+#
+static-rtb.engagesimply.com
 #
 # y4p7g9a7.stackpathcdn.com disguised trackers
 #
@@ -719,9 +742,17 @@ static.fastmtn.com
 #
 static.foremedia.net
 #
+# d5e8u4w6.stackpathcdn.com disguised trackers
+#
+static.houseofpubs.com
+#
 # n7n8b7a3.stackpathcdn.com disguised trackers
 #
 static.hueadsxml.com
+#
+# g5g9f5a2.stackpathcdn.com disguised trackers
+#
+static.icyads.com
 #
 # a7r8b8b3.stackpathcdn.com disguised trackers
 #

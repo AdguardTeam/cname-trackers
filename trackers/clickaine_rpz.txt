@@ -5,9 +5,7 @@
 ;
 a3.hotpornfile.org CNAME .
 ad.aflamk1.net CNAME .
-ad.arabsex1.com CNAME .
 ad1.xero.porn CNAME .
-adx.arabsex1.com CNAME .
 api.mgandzd.one CNAME .
 api.rtnews.pro CNAME .
 api.willalland.info CNAME .
@@ -70,5 +68,6 @@ wp.brandnewapp.pro CNAME .
 ww1.willalland.info CNAME .
 www.rtnews.pro CNAME .
 xd3r.javgg.eu CNAME .
+xxx.arabsex1.com CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

@@ -7,9 +7,11 @@ ax.requotebatman.com CNAME .
 bh.twifoilperoxyl.com CNAME .
 bk.clinkedsphecid.com CNAME .
 bl.delbertgobans.com CNAME .
+bz.waveoffcrakes.com CNAME .
 ca.encurlergon.com CNAME .
 du.jubhahbalize.com CNAME .
 et.harmoutguereza.com CNAME .
+fm.ramouselong.com CNAME .
 fn.deulspoorn.com CNAME .
 fo.irrisoranemone.com CNAME .
 ia.bisetsoliped.com CNAME .
@@ -18,9 +20,14 @@ kl.osmoticchalah.com CNAME .
 mp.ualisbaubles.com CNAME .
 ok.ribworkstylus.com CNAME .
 qb.falsenalice.com CNAME .
+rs.tupigrousy.com CNAME .
+sc.achingpliant.com CNAME .
 th.micheryfrugal.com CNAME .
 tt.smirkydiff.com CNAME .
+um.sullageprancy.com CNAME .
 uo.tubaronunheler.com CNAME .
 ur.meteredrato.com CNAME .
 vd.scapemambu.com CNAME .
+vp.upswingmethyl.com CNAME .
+wx.squetanonym.com CNAME .
 zd.plattedrattons.com CNAME .

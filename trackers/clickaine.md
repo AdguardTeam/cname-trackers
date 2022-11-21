@@ -10,9 +10,7 @@
 | ---- | ---- |
 | a3.hotpornfile.org | api.clickaine.com |
 | ad.aflamk1.net | api.clickaine.com |
-| ad.arabsex1.com | api.clickaine.com |
 | ad1.xero.porn | api.clickaine.com |
-| adx.arabsex1.com | api.clickaine.com |
 | api.mgandzd.one | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
 | api.willalland.info | api.clickaine.com |
@@ -75,5 +73,6 @@
 | ww1.willalland.info | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
+| xxx.arabsex1.com | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

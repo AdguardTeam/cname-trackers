@@ -106,6 +106,7 @@
 3205143.notifysrv.com CNAME .
 3205513.notifysrv.com CNAME .
 3205733.notifysrv.com CNAME .
+3205919.notify6.com CNAME .
 3207479.notifysrv.com CNAME .
 3207573.notifysrv.com CNAME .
 3207695.notify6.com CNAME .
@@ -180,6 +181,7 @@
 3292164.notifysrv.com CNAME .
 3292172.notifysrv.com CNAME .
 3294260.notify6.com CNAME .
+3294260.notifysrv.com CNAME .
 3294264.notify6.com CNAME .
 3294264.notifysrv.com CNAME .
 3296892.notifysrv.com CNAME .
@@ -514,6 +516,7 @@
 4454624.notify6.com CNAME .
 4455804.notify6.com CNAME .
 4470554.notify6.com CNAME .
+4476670.notify6.com CNAME .
 4523610.notify6.com CNAME .
 4539496.notify6.com CNAME .
 4576708.notify6.com CNAME .
@@ -522,7 +525,10 @@
 4615884.notify6.com CNAME .
 4621798.notify6.com CNAME .
 4623392.notify6.com CNAME .
+4743728.notify6.com CNAME .
+4795030.notify6.com CNAME .
 4801186.notify6.com CNAME .
+4809878.notify6.com CNAME .
 4811620.notify6.com CNAME .
 4815238.notify6.com CNAME .
 4815462.notify6.com CNAME .
@@ -531,18 +537,13 @@
 4832912.notify6.com CNAME .
 4833608.notify6.com CNAME .
 4836762.notify6.com CNAME .
+4841896.notify6.com CNAME .
+4842686.notify6.com CNAME .
 535.notify.optimizesrv.com CNAME .
 5602.notify.optimizesrv.com CNAME .
 577.notify.optimizesrv.com CNAME .
 583.notify.optimizesrv.com CNAME .
-589.notify.optimizesrv.com CNAME .
-603.notify.optimizesrv.com CNAME .
-6146.notify.optimizesrv.com CNAME .
-6154.notify.optimizesrv.com CNAME .
-6180.notify.optimizesrv.com CNAME .
-639.notify.optimizesrv.com CNAME .
-649.notify.optimizesrv.com CNAME .
-663.notify.optimizesrv.com CNAME .
+a.addisplaynetwork.com CNAME .
 a.adnflow.com CNAME .
 a.etology.com CNAME .
 delivery.gettopple.com CNAME .
@@ -572,6 +573,7 @@ s.optnx.com CNAME .
 s.orbsrv.com CNAME .
 s.st1net.com CNAME .
 s.vlink6.com CNAME .
+s.wlink1.com CNAME .
 s.wlink2.com CNAME .
 s.zlink1.com CNAME .
 s.zlink2.com CNAME .
@@ -579,6 +581,7 @@ s.zlink4.com CNAME .
 s.zlink6.com CNAME .
 s.zlink8.com CNAME .
 s.zlink9.com CNAME .
+s.zlinkb.com CNAME .
 s.zlinkm.com CNAME .
 syndication.dynsrvtbg.com CNAME .
 syndication.dynsrvwer.com CNAME .
@@ -592,6 +595,8 @@ syndication.link5a.com CNAME .
 syndication.link5v.com CNAME .
 syndication.linkfryn.com CNAME .
 syndication.linkgett.com CNAME .
+syndication.linkwitt.com CNAME .
 syndication.optimizesrv.com CNAME .
 syndication.realsrv.com CNAME .
+syndication.whibd.com CNAME .
 syndication.whibp.com CNAME .

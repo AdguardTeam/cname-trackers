@@ -403,6 +403,7 @@ tr.news.heredis.com CNAME .
 tr.news.i24news.tv CNAME .
 tr.news.ics.fr CNAME .
 tr.news.infopro-digital.com CNAME .
+tr.news.interforum.fr CNAME .
 tr.news.itancia.com CNAME .
 tr.news.jautomatise.com CNAME .
 tr.news.kpmgnet.fr CNAME .
@@ -448,6 +449,7 @@ tr.news.tiptel.fr CNAME .
 tr.news.toocampmail.com CNAME .
 tr.news.toute-la-franchise.com CNAME .
 tr.news.triskalia.fr CNAME .
+tr.news.videofutur.fr CNAME .
 tr.news.vip-diary.com CNAME .
 tr.news.vip-mag.co.uk CNAME .
 tr.news.vipmag.fr CNAME .
@@ -484,6 +486,7 @@ tr.newsletter.plurielmedia.com CNAME .
 tr.newsletter.roger-gallet.com CNAME .
 tr.newsletter.tiragephoto.fr CNAME .
 tr.newsletter.younited-credit.com CNAME .
+tr.newsletterpagesjaunes.fr CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
 tr.newsletters.youmeetings.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .
@@ -537,6 +540,7 @@ tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro.odalys-vacances.com CNAME .
 tr.projet.cotemaison.fr CNAME .
+tr.promo.np6.fr CNAME .
 tr.promotion.lexpress.fr CNAME .
 tr.publicisdrugstore.espmp-agfr.net CNAME .
 tr.qualitaetsumfrage.com CNAME .
@@ -558,6 +562,7 @@ tr.recouvrement.younited-credit.com CNAME .
 tr.redaction.essentiel-sante-magazine.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .
 tr.relation.uneo.fr CNAME .
+tr.renowizze.be CNAME .
 tr.route-solutiondata.fr CNAME .
 tr.roxi02e.espmp-agfr.net CNAME .
 tr.sash.espmp-aufr.net CNAME .
@@ -649,8 +654,4 @@ cotemaison.np6.com CNAME .
 f1.mailperf.com CNAME .
 f1.mailperformance.com CNAME .
 f1.np6.com CNAME .
-lbv5.mperf.com CNAME .
-;
-; f1.mailperformance.com disguised trackers
-;
 lbv5.mperf.com CNAME .

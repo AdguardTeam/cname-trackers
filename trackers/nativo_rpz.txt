@@ -7,6 +7,7 @@
 ;
 ; ntvpforever.com disguised trackers
 ;
+034beb90c9.61b6eab774.com CNAME .
 0424b056e9.bfbcb7a235.com CNAME .
 0543f1c8c7.71aadba6c8.com CNAME .
 071cc548ff.78ab4874ae.com CNAME .
@@ -27,15 +28,18 @@
 38d086de2c.318387965a.com CNAME .
 3cbf4c2cb3.cc77769ad8.com CNAME .
 3d82e5c981.9633d48767.com CNAME .
+3eaaac4c0d.090a7ee361.com CNAME .
 41f8a60477.cd4fb281e1.com CNAME .
 434d80d136.a07d30aaf0.com CNAME .
 46fe7fa264.4d2a483049.com CNAME .
 48c1f78392.31f4ea3b17.com CNAME .
 497a1141f1.23d097de11.com CNAME .
 4e6b62c568.4b31707500.com CNAME .
+4fc89cba3d.e67df3f29d.com CNAME .
 53f90ea18c.ad64463ef9.com CNAME .
 5691f27b38.77176d9509.com CNAME .
 5ab3edc5c1.342c15527e.com CNAME .
+5ab760da26.bf34686748.com CNAME .
 6047f3c601.7ae9fc0b53.com CNAME .
 60e1c77a92.11838aaad0.com CNAME .
 61254102fd.92333cc277.com CNAME .
@@ -56,16 +60,20 @@
 8dbd9f1b8c.b0b96fffc2.com CNAME .
 92756fbe9c.3a57c13de7.com CNAME .
 92f28752df.840df00e08.com CNAME .
+93684a0a94.f57fbf2b51.com CNAME .
 95113b3bd8.9d36cf3402.com CNAME .
 96b76b02f1.49af7cee19.com CNAME .
 98028f4b73.c9b501fef3.com CNAME .
 a108652c62.f78f9d3fc2.com CNAME .
+a2ee316f2b.9c56fb6868.com CNAME .
 a2f288701d.a4334cc1ec.com CNAME .
 a6270385bc.560fe03925.com CNAME .
 ab6de09242.441a8a5527.com CNAME .
 acb5145d0c.8874d81f48.com CNAME .
 ad02b0144f.b06fcca6fd.com CNAME .
 ad517c8087.b2f227b09e.com CNAME .
+ad7a6fddf6.f37d6b16c3.com CNAME .
+adf189dcd8.14badb5195.com CNAME .
 aff9df76e7.5c8877b0af.com CNAME .
 b050e41b1a.3c92e2040f.com CNAME .
 b58c767c1d.0be2be6d31.com CNAME .
@@ -77,13 +85,17 @@ c4045fee5e.90cd7fb7ca.com CNAME .
 c504d3250f.52c9f48b14.com CNAME .
 c5626f808b.36d1ef387c.com CNAME .
 c66ed6bbd0.866e69bc8e.com CNAME .
+c7b79a8bf6.593cdd41e1.com CNAME .
 cc76f2eeaa.0692e14e66.com CNAME .
 cca691f765.ca3362de0f.com CNAME .
 cce1fcf4c7.cca57f4672.com CNAME .
 ceb8265201.4eb28685b6.com CNAME .
 da2870069a.c9c2b6b980.com CNAME .
+dc2f9c5622.55f9d6e755.com CNAME .
 df53ff2b97.bcb3da3ac8.com CNAME .
+dfc8514de8.1ca65f5f5b.com CNAME .
 e144c46b1f.ab910ac1aa.com CNAME .
+e1de143963.cc3f3eedbb.com CNAME .
 e8609911b3.c785e43db1.com CNAME .
 eb3d849a7c.e4dbf49f32.com CNAME .
 f1c61224ea.edbc0469bd.com CNAME .
@@ -93,17 +105,20 @@ f43bb3465e.10eafd09d6.com CNAME .
 f4c85c5128.111d140e96.com CNAME .
 fa5248bea9.d7d38597d6.com CNAME .
 fb02e621c6.1c09d36b99.com CNAME .
+fb43b02984.af5cdb3fe3.com CNAME .
 fe8d4b33c2.8abf43d6ad.com CNAME .
 ;
 ; postrelease.com disguised trackers
 ;
-csoonline.share.ntv.io CNAME .
+a135.wftv.com CNAME .
+a235.stamfordadvocate.com CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 ;
 ; jadserve.postrelease.com.akadns.net disguised trackers
 ;
 a135.wftv.com CNAME .
+csoonline.share.ntv.io CNAME .
 entrepreneur.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .

@@ -14,6 +14,7 @@
 ||7lbd4.armandthiery.fr^
 ||7mx.eider.com^
 ||8ezc.sfr.fr^
+||a.perfumesclub.com^
 ||a.perfumesclub.fr^
 ||a.perfumesclub.nl^
 ||a.weareknitters.se^
@@ -142,7 +143,6 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
-||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||eule1.pmu.fr^
 ||eule3.pmu.fr^

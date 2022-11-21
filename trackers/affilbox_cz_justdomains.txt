@@ -54,6 +54,7 @@ affil.unuo.sk
 affil.upcr.cz
 affil.vzdusin.cz
 affil.webareal.cz
+affil.xgdpr.cz
 affil.zdravetricko.cz
 affilbox.andreashop.sk
 affilbox.gurufinance.cz
@@ -65,6 +66,7 @@ affiliate.2gispraha.cz
 affiliate.4fresh.cz
 affiliate.agatinsvet.cz
 affiliate.alchymiezeny.cz
+affiliate.alexandrajohn.com
 affiliate.altatrading.cz
 affiliate.amarex.cz
 affiliate.ambitv.cz
@@ -276,6 +278,7 @@ partner.brillbird.cz
 partner.cakemarket.eu
 partner.candy.cz
 partner.cannacare.cz
+partner.carun.cz
 partner.caskrmeni.cz
 partner.cbdcko.cz
 partner.cbdstar.cz
@@ -284,6 +287,7 @@ partner.ceskeghicko.cz
 partner.chcivedet.com
 partner.chevronnutrition.cz
 partner.chiashake.cz
+partner.cocochocokeratin.cz
 partner.cokoladovnajanek.cz
 partner.comeflexoffice.cz
 partner.cshop.sk
@@ -378,6 +382,7 @@ partner.stromkyonline.cz
 partner.summermyles.cz
 partner.superpotlac.sk
 partner.supervyhody.cz
+partner.susenepochoutky.cz
 partner.svatba.cz
 partner.svatebni-diar.cz
 partner.svetruzi.cz
@@ -389,6 +394,7 @@ partner.umio.sk
 partner.unuo.de
 partner.vataonline.cz
 partner.vffoto.com
+partner.virulent.cz
 partner.vladimirekart.cz
 partner.volne-reality.cz
 partner.vykoupeno.cz
@@ -432,12 +438,14 @@ partneri.eshop.hankamokra.cz
 partneri.fitstore.cz
 partneri.frcime.cz
 partneri.gigamat.cz
+partneri.heavytamper.cz
 partneri.jakofenix.cz
 partneri.jazykovedarky.cz
 partneri.kerasek.cz
 partneri.kimgroup.cz
 partneri.kuptorazdva.cz
 partneri.levne-barvy-laky.cz
+partneri.lucie-konigova.cz
 partneri.maggion.cz
 partneri.mebline.cz
 partneri.minshop.cz

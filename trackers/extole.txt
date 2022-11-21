@@ -182,11 +182,14 @@
 ||refer.remit2india.com^
 ||refer.rockport.com^
 ||refer.rodo.com^
+||refer.saatva.com^
+||refer.saatvadreams.com^
 ||refer.saatvamattress.com^
 ||refer.samedelman.com^
 ||refer.saucony.com^
 ||refer.sharkclean.com^
 ||refer.skinceuticals.com^
+||refer.skyone.org^
 ||refer.snagajob.com^
 ||refer.soma.com^
 ||refer.spothero.com^
@@ -322,6 +325,7 @@
 ||share.steadyapp.com^
 ||share.stridehealth.com^
 ||share.studiosashiko.com^
+||share.sundaysfordogs.com^
 ||share.teachersfcu.org^
 ||share.theory.com^
 ||share.theoryoutlet.com^

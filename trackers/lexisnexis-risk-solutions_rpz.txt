@@ -104,6 +104,7 @@ check2.halifax.co.uk CNAME .
 check2.lloydsbank.co.uk CNAME .
 check2.mbna.co.uk CNAME .
 check2.tsb.co.uk CNAME .
+check3.tiaa-cref.org CNAME .
 check3.tiaa.org CNAME .
 check3.tiaabank.com CNAME .
 checkout-df.lululemon.com CNAME .
@@ -330,6 +331,7 @@ img.lascana.nl CNAME .
 img.neora.com CNAME .
 img.remit.co.jp CNAME .
 img.zootweb.com CNAME .
+img02.pensionfund.org CNAME .
 img2.avant.com CNAME .
 img2.bog.ge CNAME .
 img2.otto.nl CNAME .
@@ -366,6 +368,7 @@ login.eki-net.com CNAME .
 loyaltyprogram.latam.com CNAME .
 lsdp.lotto.com CNAME .
 lsprof.comeon.com CNAME .
+lsr22.dzing.finance CNAME .
 m-profiling.cibc.com CNAME .
 m-profiling.simplii.com CNAME .
 m.vnforapps.com CNAME .
@@ -418,6 +421,7 @@ rba-screen.myuhc.com CNAME .
 rba-screen.optum.com CNAME .
 rba-screen.optumbank.com CNAME .
 rba.apata.io CNAME .
+rba.login.agentmessagecenter.optum.com CNAME .
 rba.login.mahix.org CNAME .
 rba.onehealthcareid.com CNAME .
 rba.optumgovid.com CNAME .

@@ -264,6 +264,7 @@
     * simon-and-schuster.extole.io
     * sizigi.extole.io
     * skinceuticals.extole.io
+    * skyone-federal-credit-union.extole.io
     * snagajob.extole.io
     * soma.extole.io
     * spothero.extole.io
@@ -275,6 +276,7 @@
     * studentuniverse.extole.io
     * studiosashiko.extole.io
     * suncoastcreditunion.extole.io
+    * sundaysfordogs.extole.io
     * swap.extole.io
     * take5oilchange.extole.io
     * tatcha.extole.io
@@ -573,6 +575,8 @@
 | share.ross-simons.com | ross-simons.extole.io |
 | share.rspure.com | ross-simons.extole.io |
 | share.rvshare.com | rvshare.extole.io |
+| refer.saatva.com | saatvamattress.extole.io |
+| refer.saatvadreams.com | saatvamattress.extole.io |
 | refer.saatvamattress.com | saatvamattress.extole.io |
 | refer.sage.com | sage-ssl.extole.com |
 | share.na.sage.com | sageca-ssl.extole.com |
@@ -588,6 +592,7 @@
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
+| refer.skyone.org | skyone-federal-credit-union.extole.io |
 | refer.snagajob.com | snagajob.extole.io |
 | refer.soma.com | soma.extole.io |
 | refer.sperry.com | sperry.extole.com |
@@ -601,6 +606,7 @@
 | refer.studentuniverse.com.au | studentuniverse.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
+| share.sundaysfordogs.com | sundaysfordogs.extole.io |
 | refer.swap.com | swap.extole.io |
 | refer.take5oilchange.com | take5oilchange.extole.io |
 | refer.talbots.com | talbots.extole.com |

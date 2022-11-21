@@ -8,7 +8,6 @@ adkfilter.mybestclick.net CNAME .
 admin3.danarimedia.com CNAME .
 ads.media-servers.net CNAME .
 adserver.additionalmedia.com CNAME .
-akcdn.nativeadsfeed.com CNAME .
 akxml.nativeadsfeed.com CNAME .
 c.cgmission.com CNAME .
 calls.uptownleads.com CNAME .
@@ -57,6 +56,7 @@ cpm.mobipromote.com CNAME .
 cpm.onwardclick.com CNAME .
 cpm.pubgenius.io CNAME .
 cpm.pulsefintech.net CNAME .
+cpm.pwr-ads.com CNAME .
 cpm.revlift.io CNAME .
 cpm.rtbanalytica.com CNAME .
 cpm.rtbidhost.com CNAME .
@@ -80,6 +80,7 @@ dsp.xapads.com CNAME .
 exchange.adkernel.com CNAME .
 exchange.nativeads.com CNAME .
 filter-eu.adright.co CNAME .
+filter-eu.ezmob.com CNAME .
 filter-eu.plarimoplus.com CNAME .
 filter-eu.qksrv.cc CNAME .
 filter-eu.realtime-bid.com CNAME .
@@ -111,6 +112,7 @@ filter.clixportal.com CNAME .
 filter.clixvista.com CNAME .
 filter.clixwells.com CNAME .
 filter.ctrtraffic.com CNAME .
+filter.dollopsdigital.com CNAME .
 filter.drivecpx.co CNAME .
 filter.dtxplatform.net CNAME .
 filter.eximdigital.com CNAME .
@@ -125,7 +127,9 @@ filter.globlemath.com CNAME .
 filter.groovyadz.com CNAME .
 filter.hetcash.com CNAME .
 filter.highsea.fun CNAME .
+filter.hotmaracas.com CNAME .
 filter.hotmaracas.fun CNAME .
+filter.howto5.io CNAME .
 filter.hueadsxml.com CNAME .
 filter.icyads.com CNAME .
 filter.infinity-info.com CNAME .
@@ -188,6 +192,7 @@ login.additionalmedia.com CNAME .
 login.admozartppc.com CNAME .
 login.adright.com CNAME .
 login.adsimilate.com CNAME .
+login.saturndynamic.pt CNAME .
 mob.kaipirinhaloka.xyz CNAME .
 mob.lowtid.fun CNAME .
 mob.nemoatedory.club CNAME .
@@ -230,6 +235,7 @@ rtb-eu.fmlabsonline.com CNAME .
 rtb-eu.houseofpubs.com CNAME .
 rtb-eu.media-servers.net CNAME .
 rtb-eu.openrtb.in CNAME .
+rtb-eu.pressize.com CNAME .
 rtb-eu.rankortbdirect.com CNAME .
 rtb-eu.rtbdemand.com CNAME .
 rtb-eu.rtbplatform.net CNAME .
@@ -257,6 +263,7 @@ rtb-useast.eximdigital.com CNAME .
 rtb-useast.felixads.com CNAME .
 rtb-useast.fmlabsonline.com CNAME .
 rtb-useast.houseofpubs.com CNAME .
+rtb-useast.hueadsortb.com CNAME .
 rtb-useast.infinity-info.com CNAME .
 rtb-useast.intellectscoop.com CNAME .
 rtb-useast.kinesis-rtb.com CNAME .
@@ -294,8 +301,10 @@ rtb2-useast.demandzoo.com CNAME .
 rtb2-useast.e-volution.ai CNAME .
 rtb2-useast.newchallenges-dsp.com CNAME .
 rtb2-useast.programmatics.net CNAME .
+rtb2-useast.t3dsp.com CNAME .
 rtb2-useast.torchad.com CNAME .
 rtb2-uswest.demandzoo.com CNAME .
+rtb2-uswest.programmatics.net CNAME .
 rtb2.vashoot.com CNAME .
 search.anytheengmedia.com CNAME .
 search.vokut.com CNAME .
@@ -303,13 +312,12 @@ serv.bvsrv.com CNAME .
 serve.datacygnal.io CNAME .
 serve.paradisesummer.xyz CNAME .
 static-analytics.nativeads.com CNAME .
-static-rtb.engagesimply.com CNAME .
+static-rtb.adksrv.com CNAME .
 static-rtb2.catapultx.com CNAME .
-static-rtb2.convergeselect.net CNAME .
 static-rtb2.e-volution.ai CNAME .
+static-rtb2.newchallenges-dsp.com CNAME .
 static.1tag.ai CNAME .
 static.ad-maven.com CNAME .
-static.adcannyxml.com CNAME .
 static.admeridianads.com CNAME .
 static.admidainsight.com CNAME .
 static.adop.co CNAME .
@@ -322,14 +330,12 @@ static.directrankcl.com CNAME .
 static.displayio.cloud CNAME .
 static.ezmob.com CNAME .
 static.fastdlr.com CNAME .
-static.fastdlx.net CNAME .
 static.fastdmr.com CNAME .
 static.fastdxr.com CNAME .
 static.fastmtn.com CNAME .
+static.fastsearch.me CNAME .
 static.foremedia.net CNAME .
-static.houseofpubs.com CNAME .
 static.hueadsxml.com CNAME .
-static.icyads.com CNAME .
 static.landingtrk.com CNAME .
 static.openrtb.in CNAME .
 static.pdn-1.com CNAME .
@@ -337,9 +343,10 @@ static.pressize.com CNAME .
 static.pushub.net CNAME .
 static.qksrv.cc CNAME .
 static.realtime-bid.com CNAME .
-static.revrtb.com CNAME .
 static.rtbserve.io CNAME .
 static.rtbwire.com CNAME .
+static.topsolutionsmedia.com CNAME .
+static.webmedxml.com CNAME .
 sub.adzgame.com CNAME .
 sync.adkernel.com CNAME .
 tag.adkernel.com CNAME .
@@ -350,6 +357,7 @@ tq.adventurefeeds.com CNAME .
 tq.craftviking.co CNAME .
 tq.netload1.com CNAME .
 traffic.adventurefeeds.com CNAME .
+uixml.bidcampaign.com CNAME .
 val.looksmart.com CNAME .
 vid-cpm.xapads.com CNAME .
 vid-rtb-eu.xapads.com CNAME .
@@ -358,6 +366,7 @@ vid-rtb-sg.xapads.com CNAME .
 vid-rtb-uswest.xapads.com CNAME .
 vid-rtb.xapads.com CNAME .
 vid-static.xapads.com CNAME .
+win-rtb2-apac.newchallenges-dsp.com CNAME .
 win-rtb2-apac.programmatics.net CNAME .
 win-rtb2-apac.userwave.com CNAME .
 win-rtb2-eu.e-volution.ai CNAME .
@@ -367,6 +376,7 @@ win-rtb2-useast.adsync.global CNAME .
 win-rtb2-useast.assemblyexchange.com CNAME .
 win-rtb2-useast.programmatics.net CNAME .
 win-rtb2-useast.userwave.com CNAME .
+win-rtb2-uswest.programmatics.net CNAME .
 win-rtb2-uswest.userwave.com CNAME .
 xml-console.xapads.com CNAME .
 xml-default.xapads.com CNAME .
@@ -390,6 +400,7 @@ xml-eu.adxfactory.com CNAME .
 xml-eu.bid-engine.com CNAME .
 xml-eu.bidmyadz.com CNAME .
 xml-eu.blueparrot.media CNAME .
+xml-eu.craftviking.co CNAME .
 xml-eu.ezmob.com CNAME .
 xml-eu.fastdln.com CNAME .
 xml-eu.fastdlr.com CNAME .
@@ -400,6 +411,7 @@ xml-eu.pushub.net CNAME .
 xml-eu.qksrv.cc CNAME .
 xml-eu.realtime-bid.com CNAME .
 xml-eu.topdealad.com CNAME .
+xml-eu.webmedxml.com CNAME .
 xml-rtb.xapads.com CNAME .
 xml-v4.adflyer.media CNAME .
 xml-v4.benrif-solutions.com CNAME .
@@ -409,6 +421,7 @@ xml-v4.domains-traffic.com CNAME .
 xml-v4.ezmob.com CNAME .
 xml-v4.fastdmr.com CNAME .
 xml-v4.hetcash.com CNAME .
+xml-v4.klapads.com CNAME .
 xml-v4.mobifly.net CNAME .
 xml-v4.netload1.com CNAME .
 xml-v4.netload2.com CNAME .
@@ -443,6 +456,7 @@ xml.admozartxml.com CNAME .
 xml.adokutcontextual.com CNAME .
 xml.adop.co CNAME .
 xml.adoperatorx.com CNAME .
+xml.adoptim.com CNAME .
 xml.adpalladium.com CNAME .
 xml.adright.com CNAME .
 xml.adsailor.com CNAME .
@@ -468,11 +482,13 @@ xml.breatheads.com CNAME .
 xml.cerineas.com CNAME .
 xml.chameleostudios.com CNAME .
 xml.clickmenia.com CNAME .
+xml.clickmi.net CNAME .
 xml.clixcrafts.com CNAME .
 xml.clixforads.com CNAME .
 xml.clixportal.com CNAME .
 xml.clixvista.com CNAME .
 xml.clixwells.com CNAME .
+xml.convertise.io CNAME .
 xml.craftviking.co CNAME .
 xml.ctrtraffic.com CNAME .
 xml.dollopsdigital.com CNAME .
@@ -481,6 +497,7 @@ xml.dtxplatform.net CNAME .
 xml.eureekkaa.com CNAME .
 xml.eximdigital.com CNAME .
 xml.expialidosius.com CNAME .
+xml.explorads.com CNAME .
 xml.expplatdirect.com CNAME .
 xml.ezmob.com CNAME .
 xml.fastdld.com CNAME .
@@ -509,6 +526,7 @@ xml.mediacpc.com CNAME .
 xml.mediaxchange.co CNAME .
 xml.mobipromote.com CNAME .
 xml.mobreach.com CNAME .
+xml.mobuppsrtb.com CNAME .
 xml.mymedia.club CNAME .
 xml.netload1.com CNAME .
 xml.netload2.com CNAME .
@@ -573,6 +591,12 @@ xmlv4.chameleostudios.com CNAME .
 xmlv4.mobuppsrtb.com CNAME .
 xmlv6.aimkweb.com CNAME .
 ;
+; b8m5j6a5.stackpathcdn.com disguised trackers
+;
+akcdn.nativeadsfeed.com CNAME .
+static-analytics.nativeads.com CNAME .
+static.analytics.nativeads.com CNAME .
+;
 ; j4r2u9z7.stackpathcdn.com disguised trackers
 ;
 data.bvsrv.com CNAME .
@@ -581,14 +605,13 @@ data.bvsrv.com CNAME .
 ;
 dsp-static.nativeads.com CNAME .
 ;
-; b8m5j6a5.stackpathcdn.com disguised trackers
-;
-static-analytics.nativeads.com CNAME .
-static.analytics.nativeads.com CNAME .
-;
 ; e5z5y6y7.stackpathcdn.com disguised trackers
 ;
 static-rtb.adksrv.com CNAME .
+;
+; g5v2e8v8.stackpathcdn.com disguised trackers
+;
+static-rtb.engagesimply.com CNAME .
 ;
 ; y4p7g9a7.stackpathcdn.com disguised trackers
 ;
@@ -719,9 +742,17 @@ static.fastmtn.com CNAME .
 ;
 static.foremedia.net CNAME .
 ;
+; d5e8u4w6.stackpathcdn.com disguised trackers
+;
+static.houseofpubs.com CNAME .
+;
 ; n7n8b7a3.stackpathcdn.com disguised trackers
 ;
 static.hueadsxml.com CNAME .
+;
+; g5g9f5a2.stackpathcdn.com disguised trackers
+;
+static.icyads.com CNAME .
 ;
 ; a7r8b8b3.stackpathcdn.com disguised trackers
 ;

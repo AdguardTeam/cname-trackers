@@ -104,6 +104,7 @@
 ||check2.lloydsbank.co.uk^
 ||check2.mbna.co.uk^
 ||check2.tsb.co.uk^
+||check3.tiaa-cref.org^
 ||check3.tiaa.org^
 ||check3.tiaabank.com^
 ||checkout-df.lululemon.com^
@@ -330,6 +331,7 @@
 ||img.neora.com^
 ||img.remit.co.jp^
 ||img.zootweb.com^
+||img02.pensionfund.org^
 ||img2.avant.com^
 ||img2.bog.ge^
 ||img2.otto.nl^
@@ -366,6 +368,7 @@
 ||loyaltyprogram.latam.com^
 ||lsdp.lotto.com^
 ||lsprof.comeon.com^
+||lsr22.dzing.finance^
 ||m-profiling.cibc.com^
 ||m-profiling.simplii.com^
 ||m.vnforapps.com^
@@ -418,6 +421,7 @@
 ||rba-screen.optum.com^
 ||rba-screen.optumbank.com^
 ||rba.apata.io^
+||rba.login.agentmessagecenter.optum.com^
 ||rba.login.mahix.org^
 ||rba.onehealthcareid.com^
 ||rba.optumgovid.com^

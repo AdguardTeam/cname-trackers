@@ -7,13 +7,11 @@
 ### Rarely active trackers
 
 * form.bp01.net
-* f1.mailperformance.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| lbv5.mperf.com | f1.mailperformance.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
 | f1.mailperformance.com | form.bp01.net |
@@ -419,6 +417,7 @@
 | tr.news.i24news.tv | tracking.bp01.net |
 | tr.news.ics.fr | tracking.bp01.net |
 | tr.news.infopro-digital.com | tracking.bp01.net |
+| tr.news.interforum.fr | tracking.bp01.net |
 | tr.news.itancia.com | tracking.bp01.net |
 | tr.news.jautomatise.com | tracking.bp01.net |
 | tr.news.kpmgnet.fr | tracking.bp01.net |
@@ -464,6 +463,7 @@
 | tr.news.toocampmail.com | tracking.bp01.net |
 | tr.news.toute-la-franchise.com | tracking.bp01.net |
 | tr.news.triskalia.fr | tracking.bp01.net |
+| tr.news.videofutur.fr | tracking.bp01.net |
 | tr.news.vip-diary.com | tracking.bp01.net |
 | tr.news.vip-mag.co.uk | tracking.bp01.net |
 | tr.news.vipmag.fr | tracking.bp01.net |
@@ -500,6 +500,7 @@
 | tr.newsletter.roger-gallet.com | tracking.bp01.net |
 | tr.newsletter.tiragephoto.fr | tracking.bp01.net |
 | tr.newsletter.younited-credit.com | tracking.bp01.net |
+| tr.newsletterpagesjaunes.fr | tracking.bp01.net |
 | tr.newsletters.odalys-vacances.com | tracking.bp01.net |
 | tr.newsletters.youmeetings.com | tracking.bp01.net |
 | tr.newsmarketing.allopneus.com | tracking.bp01.net |
@@ -553,6 +554,7 @@
 | tr.preventivo.risparmiazienda.it | tracking.bp01.net |
 | tr.pro.odalys-vacances.com | tracking.bp01.net |
 | tr.projet.cotemaison.fr | tracking.bp01.net |
+| tr.promo.np6.fr | tracking.bp01.net |
 | tr.promotion.lexpress.fr | tracking.bp01.net |
 | tr.publicisdrugstore.espmp-agfr.net | tracking.bp01.net |
 | tr.qualitaetsumfrage.com | tracking.bp01.net |
@@ -574,6 +576,7 @@
 | tr.redaction.essentiel-sante-magazine.fr | tracking.bp01.net |
 | tr.reglementaire.emailing.bnpparibas | tracking.bp01.net |
 | tr.relation.uneo.fr | tracking.bp01.net |
+| tr.renowizze.be | tracking.bp01.net |
 | tr.route-solutiondata.fr | tracking.bp01.net |
 | tr.roxi02e.espmp-agfr.net | tracking.bp01.net |
 | tr.sash.espmp-aufr.net | tracking.bp01.net |

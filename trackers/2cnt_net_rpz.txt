@@ -245,6 +245,10 @@ ssl-stofateststream.tns-gallup.dk CNAME .
 ;
 dr.tns-gallup.dk CNAME .
 ;
+; drandroidstream.tns-dk.2cnt.net disguised trackers
+;
+drandroidstream.tns-gallup.dk CNAME .
+;
 ; drandroidtvstream.tns-dk.2cnt.net disguised trackers
 ;
 drandroidtvstream.tns-gallup.dk CNAME .
@@ -330,6 +334,10 @@ jubii.tns-gallup.dk CNAME .
 ;
 juicyplay.tns-gallup.dk CNAME .
 ;
+; juris.vgwort-de.2cnt.net disguised trackers
+;
+juris.met.vgwort.de CNAME .
+;
 ; krak.tns-dk.2cnt.net disguised trackers
 ;
 krak.tns-gallup.dk CNAME .
@@ -361,10 +369,6 @@ mineaviser.tns-gallup.dk CNAME .
 ; n-tv.vgwort-de.2cnt.net disguised trackers
 ;
 n-tv.met.vgwort.de CNAME .
-;
-; nomos.vgwort-de.2cnt.net disguised trackers
-;
-nomos.met.vgwort.de CNAME .
 ;
 ; nordjyske.tns-dk.2cnt.net disguised trackers
 ;
@@ -550,13 +554,13 @@ ssl-dplaystream.tns-gallup.dk CNAME .
 ;
 ssl-dr.tns-gallup.dk CNAME .
 ;
-; ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
-;
-ssl-drandroidtvstream.tns-gallup.dk CNAME .
-;
 ; ssl-drhbbtv.tns-dk.2cnt.net disguised trackers
 ;
 ssl-drhbbtv.tns-gallup.dk CNAME .
+;
+; ssl-drtv-appletv.tns-dk.2cnt.net disguised trackers
+;
+ssl-drtv-appletv.tns-gallup.dk CNAME .
 ;
 ; slb-tns-dk-pool04.tns-dk.2cnt.net disguised trackers
 ;
@@ -590,10 +594,6 @@ ssl-euroinvestor.tns-gallup.dk CNAME .
 ; ssl-euroman.tns-dk.2cnt.net disguised trackers
 ;
 ssl-euroman.tns-gallup.dk CNAME .
-;
-; ssl-eurosportandroidstream.tns-dk.2cnt.net disguised trackers
-;
-ssl-eurosportandroidstream.tns-gallup.dk CNAME .
 ;
 ; ssl-fdim.tns-dk.2cnt.net disguised trackers
 ;

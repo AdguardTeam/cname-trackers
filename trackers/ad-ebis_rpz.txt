@@ -6,6 +6,7 @@
 a9d8e7b6i5s.andgino.jp CNAME .
 ac-3.mix.tokyo CNAME .
 ac-ebis-stb.usen.com CNAME .
+ac-ebis-uhome.usen.com CNAME .
 ac-ebis.usen.biz CNAME .
 ad-ebis.bookpass.auone.jp CNAME .
 ad-ebis.mynavi-job20s.jp CNAME .

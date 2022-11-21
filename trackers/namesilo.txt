@@ -106,6 +106,7 @@
 ||3205143.notifysrv.com^
 ||3205513.notifysrv.com^
 ||3205733.notifysrv.com^
+||3205919.notify6.com^
 ||3207479.notifysrv.com^
 ||3207573.notifysrv.com^
 ||3207695.notify6.com^
@@ -180,6 +181,7 @@
 ||3292164.notifysrv.com^
 ||3292172.notifysrv.com^
 ||3294260.notify6.com^
+||3294260.notifysrv.com^
 ||3294264.notify6.com^
 ||3294264.notifysrv.com^
 ||3296892.notifysrv.com^
@@ -514,6 +516,7 @@
 ||4454624.notify6.com^
 ||4455804.notify6.com^
 ||4470554.notify6.com^
+||4476670.notify6.com^
 ||4523610.notify6.com^
 ||4539496.notify6.com^
 ||4576708.notify6.com^
@@ -522,7 +525,10 @@
 ||4615884.notify6.com^
 ||4621798.notify6.com^
 ||4623392.notify6.com^
+||4743728.notify6.com^
+||4795030.notify6.com^
 ||4801186.notify6.com^
+||4809878.notify6.com^
 ||4811620.notify6.com^
 ||4815238.notify6.com^
 ||4815462.notify6.com^
@@ -531,18 +537,13 @@
 ||4832912.notify6.com^
 ||4833608.notify6.com^
 ||4836762.notify6.com^
+||4841896.notify6.com^
+||4842686.notify6.com^
 ||535.notify.optimizesrv.com^
 ||5602.notify.optimizesrv.com^
 ||577.notify.optimizesrv.com^
 ||583.notify.optimizesrv.com^
-||589.notify.optimizesrv.com^
-||603.notify.optimizesrv.com^
-||6146.notify.optimizesrv.com^
-||6154.notify.optimizesrv.com^
-||6180.notify.optimizesrv.com^
-||639.notify.optimizesrv.com^
-||649.notify.optimizesrv.com^
-||663.notify.optimizesrv.com^
+||a.addisplaynetwork.com^
 ||a.adnflow.com^
 ||a.etology.com^
 ||delivery.gettopple.com^
@@ -572,6 +573,7 @@
 ||s.orbsrv.com^
 ||s.st1net.com^
 ||s.vlink6.com^
+||s.wlink1.com^
 ||s.wlink2.com^
 ||s.zlink1.com^
 ||s.zlink2.com^
@@ -579,6 +581,7 @@
 ||s.zlink6.com^
 ||s.zlink8.com^
 ||s.zlink9.com^
+||s.zlinkb.com^
 ||s.zlinkm.com^
 ||syndication.dynsrvtbg.com^
 ||syndication.dynsrvwer.com^
@@ -592,6 +595,8 @@
 ||syndication.link5v.com^
 ||syndication.linkfryn.com^
 ||syndication.linkgett.com^
+||syndication.linkwitt.com^
 ||syndication.optimizesrv.com^
 ||syndication.realsrv.com^
+||syndication.whibd.com^
 ||syndication.whibp.com^

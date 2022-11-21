@@ -14,6 +14,7 @@
 7lbd4.armandthiery.fr CNAME .
 7mx.eider.com CNAME .
 8ezc.sfr.fr CNAME .
+a.perfumesclub.com CNAME .
 a.perfumesclub.fr CNAME .
 a.perfumesclub.nl CNAME .
 a.weareknitters.se CNAME .
@@ -142,7 +143,6 @@ eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 eule1.pmu.fr CNAME .
 eule3.pmu.fr CNAME .
