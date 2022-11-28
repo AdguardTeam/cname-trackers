@@ -53,6 +53,7 @@
 3178572.notifysrv.com
 3178848.notifysrv.com
 3179416.notify6.com
+3179416.notifysrv.com
 3179552.notifysrv.com
 3180142.notifysrv.com
 3180144.notifysrv.com
@@ -89,6 +90,7 @@
 3192533.notifysrv.com
 3193381.notifysrv.com
 3193413.notifysrv.com
+3193551.notify6.com
 3194053.notify6.com
 3194053.notifysrv.com
 3194555.notifysrv.com
@@ -350,6 +352,7 @@
 3442145.notifysrv.com
 3447913.notifysrv.com
 3453873.notifysrv.com
+3454909.notifysrv.com
 3456415.notifysrv.com
 3457083.notifysrv.com
 3457323.notifysrv.com
@@ -465,6 +468,7 @@
 3572273.notifysrv.com
 3572277.notify6.com
 3572277.notifysrv.com
+3588587.notify6.com
 3653689.notify6.com
 3717105.notify6.com
 3878176.notify6.com
@@ -490,6 +494,8 @@
 3975710.notify6.com
 3979160.notify6.com
 4004928.notify6.com
+4093684.notify6.com
+4144426.notify6.com
 4243868.notify6.com
 4259086.notify6.com
 4260738.notify6.com
@@ -525,8 +531,10 @@
 4615884.notify6.com
 4621798.notify6.com
 4623392.notify6.com
+4680526.notify6.com
 4743728.notify6.com
 4795030.notify6.com
+4795268.notify6.com
 4801186.notify6.com
 4809878.notify6.com
 4811620.notify6.com
@@ -566,6 +574,7 @@ s.elnkp4.com
 s.etology.com
 s.exv6.com
 s.linkw2e.com
+s.linkw2g.com
 s.opoxv.com
 s.opti-digital.com
 s.optidigital.com
@@ -600,3 +609,10 @@ syndication.optimizesrv.com
 syndication.realsrv.com
 syndication.whibd.com
 syndication.whibp.com
+#
+# cds.d6n9n7e2.hwcdn.net disguised trackers
+#
+a.addisplaynetwork.com
+a.adnflow.com
+a.etology.com
+delivery.gettopple.com

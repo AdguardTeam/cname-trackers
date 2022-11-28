@@ -47,6 +47,7 @@
 ||a8.gigalee.com^
 ||a8.hakata-hisamatsu.net^
 ||a8.haptic.co.jp^
+||a8.heart-denpo.com^
 ||a8.hemptouch.co.jp^
 ||a8.hikari-n.jp^
 ||a8.hitohana.tokyo^
@@ -118,7 +119,6 @@
 ||a8.tour-sys.com^
 ||a8.triple-m.jp^
 ||a8.tscubic.com^
-||a8.unicoffee.tech^
 ||a8.vector-park.jp^
 ||a8.virus-gekitai.com^
 ||a8.volstar.jp^
@@ -149,6 +149,7 @@
 ||a8clk.app.offerbox.jp^
 ||a8clk.apply-shop.menu.inc^
 ||a8clk.asahi-net.or.jp^
+||a8clk.ashitarunrun.com^
 ||a8clk.asp.jcity.co.jp^
 ||a8clk.audiobook.jp^
 ||a8clk.autoc-one.jp^
@@ -275,6 +276,7 @@
 ||a8clk.www.ka-nabell.com^
 ||a8clk.www.nortonstore.jp^
 ||a8clk.www.solarmonitorlp.energy-itsol.com^
+||a8clk.xn--t8jx01hmvbgye566gd1f.com^
 ||a8clk.xserver.ne.jp^
 ||a8clk.ykd.co.jp^
 ||a8clk.yourmystar.jp^
@@ -333,10 +335,12 @@
 ||a8cv.frecious.jp^
 ||a8cv.gaikokujin-support.com^
 ||a8cv.gakuen.omobic.com^
+||a8cv.gb-chat.com^
 ||a8cv.genesis-nipt.com^
 ||a8cv.grace-grace.info^
 ||a8cv.grassbeaute.jp^
 ||a8cv.greed-island.ne.jp^
+||a8cv.hal-tanteisya.com^
 ||a8cv.hello-people.jp^
 ||a8cv.hotyoga-loive.com^
 ||a8cv.housingbazar.jp^
@@ -364,6 +368,7 @@
 ||a8cv.mcc-lazer-hr.com^
 ||a8cv.menina-joue.jp^
 ||a8cv.mens-life-clinic.com^
+||a8cv.mentors-lwc.com^
 ||a8cv.minana-jp.com^
 ||a8cv.minnano-eikaiwa.com^
 ||a8cv.mobabiji.jp^
@@ -551,6 +556,7 @@
 ||summary.bookoffonline.co.jp^
 ||tag.minimaid.co.jp^
 ||test.shigoto-web.com^
+||track.kiafudousan.com^
 ||tracking.lead-plus.jp^
 ||trck.aeon.co.jp^
 ||trck.frutafrutashop.com^
@@ -560,6 +566,7 @@
 ||trck02.magaseek.com^
 ||trcka8net.irobot-jp.com^
 ||web.hikari-ocn.com^
+||web.hikari-softbank.com^
 ||web.life-cw.com^
 ||wnform.www.trecenti.com^
 ||yoiku-sub.yoiku.support^

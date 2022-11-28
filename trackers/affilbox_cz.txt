@@ -25,6 +25,7 @@
 ||affil.dotykacka.cz^
 ||affil.econea.cz^
 ||affil.eshop-rychle.cz^
+||affil.exkluzivita.cz^
 ||affil.fit-pro.cz^
 ||affil.gamlery.cz^
 ||affil.gentleport.cz^
@@ -42,6 +43,7 @@
 ||affil.peliskydog.cz^
 ||affil.plkshop.cz^
 ||affil.reedog.cz^
+||affil.sedacky-nabytek.cz^
 ||affil.seduo.cz^
 ||affil.snadnejsizivot.cz^
 ||affil.somavedic.cz^
@@ -114,6 +116,7 @@
 ||affiliate.hanibal.cz^
 ||affiliate.horseandme.eu^
 ||affiliate.ilin.cz^
+||affiliate.jewstone.cz^
 ||affiliate.jidlojevasen.cz^
 ||affiliate.jiristibor.cz^
 ||affiliate.ketofit.sk^
@@ -400,6 +403,7 @@
 ||partner.vykoupeno.cz^
 ||partner.webareal.cz^
 ||partner.webareal.sk^
+||partner.webskicak.cz^
 ||partner.websusmevem.cz^
 ||partner.whoopdedoo.cz^
 ||partner.whoopdedoo.love^
@@ -464,6 +468,7 @@
 ||partneri.radostkazdyden.cz^
 ||partneri.rondainvest.cz^
 ||partneri.rybitukylysi.cz^
+||partneri.silaprozivot.com^
 ||partneri.smartemailing.cz^
 ||partneri.smyslovy-pruzkumnik.cz^
 ||partneri.sportfotbal.cz^

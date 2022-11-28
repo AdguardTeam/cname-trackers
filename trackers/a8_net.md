@@ -53,6 +53,7 @@
 | a8.gigalee.com | trck.a8.net |
 | a8.hakata-hisamatsu.net | trck.a8.net |
 | a8.haptic.co.jp | trck.a8.net |
+| a8.heart-denpo.com | trck.a8.net |
 | a8.hemptouch.co.jp | trck.a8.net |
 | a8.hikari-n.jp | trck.a8.net |
 | a8.hitohana.tokyo | trck.a8.net |
@@ -124,7 +125,6 @@
 | a8.tour-sys.com | trck.a8.net |
 | a8.triple-m.jp | trck.a8.net |
 | a8.tscubic.com | trck.a8.net |
-| a8.unicoffee.tech | trck.a8.net |
 | a8.vector-park.jp | trck.a8.net |
 | a8.virus-gekitai.com | trck.a8.net |
 | a8.volstar.jp | trck.a8.net |
@@ -155,6 +155,7 @@
 | a8clk.app.offerbox.jp | trck.a8.net |
 | a8clk.apply-shop.menu.inc | trck.a8.net |
 | a8clk.asahi-net.or.jp | trck.a8.net |
+| a8clk.ashitarunrun.com | trck.a8.net |
 | a8clk.asp.jcity.co.jp | trck.a8.net |
 | a8clk.audiobook.jp | trck.a8.net |
 | a8clk.autoc-one.jp | trck.a8.net |
@@ -281,6 +282,7 @@
 | a8clk.www.ka-nabell.com | trck.a8.net |
 | a8clk.www.nortonstore.jp | trck.a8.net |
 | a8clk.www.solarmonitorlp.energy-itsol.com | trck.a8.net |
+| a8clk.xn--t8jx01hmvbgye566gd1f.com | trck.a8.net |
 | a8clk.xserver.ne.jp | trck.a8.net |
 | a8clk.ykd.co.jp | trck.a8.net |
 | a8clk.yourmystar.jp | trck.a8.net |
@@ -339,10 +341,12 @@
 | a8cv.frecious.jp | trck.a8.net |
 | a8cv.gaikokujin-support.com | trck.a8.net |
 | a8cv.gakuen.omobic.com | trck.a8.net |
+| a8cv.gb-chat.com | trck.a8.net |
 | a8cv.genesis-nipt.com | trck.a8.net |
 | a8cv.grace-grace.info | trck.a8.net |
 | a8cv.grassbeaute.jp | trck.a8.net |
 | a8cv.greed-island.ne.jp | trck.a8.net |
+| a8cv.hal-tanteisya.com | trck.a8.net |
 | a8cv.hello-people.jp | trck.a8.net |
 | a8cv.hotyoga-loive.com | trck.a8.net |
 | a8cv.housingbazar.jp | trck.a8.net |
@@ -370,6 +374,7 @@
 | a8cv.mcc-lazer-hr.com | trck.a8.net |
 | a8cv.menina-joue.jp | trck.a8.net |
 | a8cv.mens-life-clinic.com | trck.a8.net |
+| a8cv.mentors-lwc.com | trck.a8.net |
 | a8cv.minana-jp.com | trck.a8.net |
 | a8cv.minnano-eikaiwa.com | trck.a8.net |
 | a8cv.mobabiji.jp | trck.a8.net |
@@ -557,6 +562,7 @@
 | summary.bookoffonline.co.jp | trck.a8.net |
 | tag.minimaid.co.jp | trck.a8.net |
 | test.shigoto-web.com | trck.a8.net |
+| track.kiafudousan.com | trck.a8.net |
 | tracking.lead-plus.jp | trck.a8.net |
 | trck.aeon.co.jp | trck.a8.net |
 | trck.frutafrutashop.com | trck.a8.net |
@@ -566,6 +572,7 @@
 | trck02.magaseek.com | trck.a8.net |
 | trcka8net.irobot-jp.com | trck.a8.net |
 | web.hikari-ocn.com | trck.a8.net |
+| web.hikari-softbank.com | trck.a8.net |
 | web.life-cw.com | trck.a8.net |
 | wnform.www.trecenti.com | trck.a8.net |
 | yoiku-sub.yoiku.support | trck.a8.net |

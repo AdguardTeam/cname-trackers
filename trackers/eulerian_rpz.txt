@@ -25,7 +25,6 @@ am.belambra.com CNAME .
 anz7.allianz-voyage.fr CNAME .
 ar.i-run.fr CNAME .
 azg1.emalu-store.com CNAME .
-b1n.carabins.umontreal.ca CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
 bft5.destinia.fr CNAME .
@@ -96,6 +95,7 @@ ea.kauf-unique.de CNAME .
 ea.kidiliz.com CNAME .
 ea.labelhabitation.com CNAME .
 ea.lafrancedunordausud.fr CNAME .
+ea.lepelican.fr CNAME .
 ea.leskidunordausud.fr CNAME .
 ea.lespagnedunordausud.fr CNAME .
 ea.megustaleer.com.pe CNAME .
@@ -143,6 +143,7 @@ eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
+erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 eule1.pmu.fr CNAME .
 eule3.pmu.fr CNAME .
@@ -162,6 +163,7 @@ eulerian.monoprix.fr CNAME .
 eulerian.motoblouz.com CNAME .
 eulerian.officiel-des-vacances.com CNAME .
 eulerian.sarenza.com CNAME .
+eulerian.siandso.com CNAME .
 eulerian.structube.com CNAME .
 eulerian.telechargement.fr CNAME .
 eulerian.thalasseo.com CNAME .
@@ -331,7 +333,6 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
-t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .

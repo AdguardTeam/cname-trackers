@@ -44,7 +44,6 @@ cdn.zxclan.com CNAME .
 ;
 1ywk8ynty.benediktkick.com CNAME .
 7wrxo2xh.iriscreative.co CNAME .
-9kz9cttz76.antonsten.com CNAME .
 aardvark.helpingpets.org.uk CNAME .
 aardvark.mission-austria.at CNAME .
 aardvark.revolana.rs CNAME .
@@ -55,36 +54,25 @@ aardwolf.relaycorp.tech CNAME .
 aj8md.johnhenry.ie CNAME .
 albatross.creacoon.com CNAME .
 albatross.mypromo.co CNAME .
-albatross.ohseesoftware.com CNAME .
-alligator.remotecyberwork.com CNAME .
 alpaca.miidbaby.com CNAME .
-alpaca.reclaimthenet.org CNAME .
 alpaca.thesocialmedwork.com CNAME .
-alpaca.wingmantracker.com CNAME .
 am2lma0ay.xrpmerchstore.com CNAME .
 amphibian.juergenhaller.at CNAME .
-amphibian.pinestc.com CNAME .
 amphibian.studionimbus.nl CNAME .
 amphibian.tboa.club CNAME .
 angelfish.grayscale.design CNAME .
 angelfish.owlbear.rodeo CNAME .
 angelfish.wpsocialrocket.com CNAME .
-anglerfish.pfolios.net CNAME .
 anglerfish.tinydeskapp.com CNAME .
-anteater.audioadventuregame.com CNAME .
 anteater.benborgers.com CNAME .
 anteater.playuncovr.xyz CNAME .
 anteater.stella-projects.de CNAME .
 anteater.ttbwsd.com CNAME .
 anteater.webitize.com CNAME .
-antelope.johndbeatty.com CNAME .
-antelope.journeyofanurse.com CNAME .
 antelope.targetinternet.com CNAME .
 antelope.u3a.com.au CNAME .
 antlion.codivores.com CNAME .
-antlion.hendrikhaack.de CNAME .
 antlion.launch.fyi CNAME .
-ape.maximzubarev.com CNAME .
 ape.mfj.se CNAME .
 ape.nusii.com CNAME .
 ape.pytch.co.uk CNAME .
@@ -92,25 +80,23 @@ ape.smartplanschema.se CNAME .
 armadillo.axeneo7.qc.ca CNAME .
 armadillo.caj.ms CNAME .
 armadillo.gothiacup.se CNAME .
-armadillo.stacking.club CNAME .
 asp.ashesashes.org CNAME .
 asp.chop-shop.com.au CNAME .
 asp.sepiasoft.eu CNAME .
 azlej8cdm.pragmaticwebsecurity.com CNAME .
 baboon.vacanti.com CNAME .
-badger.bytesized.xyz CNAME .
+badger.bdon.org CNAME .
 badger.pager.app CNAME .
 baldeagle.e-ma.re CNAME .
 baldeagle.eternalmma.com CNAME .
 bandicoot.mohit.dev CNAME .
-barracuda.ottsysteme.rs CNAME .
 basilisk.community-arts.net CNAME .
+basilisk.laosima.com CNAME .
 bass.kathryncallaghan.co.uk CNAME .
 bass.kidneystonediet.com CNAME .
 bass.slugnews.com CNAME .
-bass.taivo.ai CNAME .
-bat.heelix.be CNAME .
 bear.datingrelationshipsadvice.com CNAME .
+bear.jake.nyc CNAME .
 beaver.bluebunnypaper.com CNAME .
 beaver.livechatlabs.com CNAME .
 bedbug.bragi.com CNAME .
@@ -128,13 +114,12 @@ blackbird.everythinginmoderation.co CNAME .
 blackbird.marcelgil.com CNAME .
 blackbird.opensourcerails.org CNAME .
 blackbird.stickerclub.org CNAME .
-bluejay.postmediagroup.com CNAME .
 bluejay.wearegray.com CNAME .
+boa.karenwhooley.com CNAME .
 boa.nolongerset.com CNAME .
 boa.prostamped.com CNAME .
 boar.hopehollow.com CNAME .
 boar.indieweb.org CNAME .
-boar.kostholdsveilederen.no CNAME .
 bobcat.pronounce.technology CNAME .
 bobcat.pushplay.nl CNAME .
 bobcat.snapshooter.io CNAME .
@@ -165,6 +150,8 @@ cardinal.businessfirstonline.co.uk CNAME .
 cardinal.ensembleblock.com CNAME .
 cardinal.iwgb.org.uk CNAME .
 caribou.color.io CNAME .
+caribou.mcgregorpublishing.com CNAME .
+carp.pbncontent.com CNAME .
 carp.seniorsinjobs.com CNAME .
 cat.acesandaros.org CNAME .
 cat.beunitedinchrist.com CNAME .
@@ -313,7 +300,7 @@ fancyrat.roecklin.com CNAME .
 fancyrat.spacestation.news CNAME .
 felidae.mmm.page CNAME .
 felidae.mysuperportal.com CNAME .
-felidae.theforeignarchitect.com CNAME .
+felidae.vegamuze.be CNAME .
 ferret.ecvan.io CNAME .
 ferret.helpspace.com CNAME .
 ferret.linksoftwarellc.com CNAME .
@@ -374,7 +361,6 @@ guineapig.espressive.com CNAME .
 guineapig.recap.io CNAME .
 guineapig.themenaffin.de CNAME .
 guppy.ausowned.com.au CNAME .
-guppy.directlyapply.com CNAME .
 guppy.ironmic.fm CNAME .
 haddock.affilimate.com CNAME .
 haddock.jeffreyknox.dev CNAME .
@@ -439,6 +425,7 @@ kite.oakes.software CNAME .
 kite.ofenbau-voppichler.at CNAME .
 kiwi.emilkowal.ski CNAME .
 kiwi.railway.app CNAME .
+koala.moontells.com CNAME .
 koala.mynestbox.co.uk CNAME .
 koala.quantumfirelabs.com CNAME .
 koala.readyfive.io CNAME .
@@ -492,8 +479,8 @@ lynx.microl.ink CNAME .
 lynx.sbstjn.com CNAME .
 lynx.simpleparish.com CNAME .
 macaw.ianmitchell.dev CNAME .
+mackerel.getthenest.io CNAME .
 mammal.autoidle.com CNAME .
-mammal.haglund.dev CNAME .
 mammal.robholmes.app CNAME .
 manatee.creativepassport.net CNAME .
 mandrill.hamptonbeach.live CNAME .
@@ -558,6 +545,7 @@ otter.johnfoster.com CNAME .
 otter.preferredequineonline.com CNAME .
 owl.heidipay.com CNAME .
 owl.sentrydiscord.dev CNAME .
+ox.first-law.com CNAME .
 pa5xjc.m1guelpf.me CNAME .
 panda.moritz-petersen.de CNAME .
 panda.mvhphotoproject.org CNAME .
@@ -570,6 +558,7 @@ panther.hoprnet.org CNAME .
 panther.thestocks.im CNAME .
 panther.tigil.rs CNAME .
 parrot.binarymoon.co.uk CNAME .
+parrot.lovably.com CNAME .
 parrotfish.thenping.me CNAME .
 parrotfish.wilderworld.com CNAME .
 partridge.printcardinal.com CNAME .
@@ -663,6 +652,7 @@ sloth.vguerrerobosch.com CNAME .
 smelt.allenpike.com CNAME .
 sole.pretto.fr CNAME .
 sparrow.uitvaartzorg-vanraemdonck.be CNAME .
+spider.privacyone.io CNAME .
 spider.scottw.com CNAME .
 squid.adart.cc CNAME .
 squirrel.laravel-mix.com CNAME .
@@ -670,6 +660,8 @@ starman.fathomdns.com CNAME .
 stingray.reform.app CNAME .
 swallow.axiom.co CNAME .
 swallow.pelias.io CNAME .
+swift.avenue.so CNAME .
+swift.jos.ht CNAME .
 swordfish.holzschuhe.at CNAME .
 swordfish.hotcross.com CNAME .
 swordtail.thocstock.com CNAME .
@@ -682,8 +674,13 @@ tiglon.beyondco.de CNAME .
 tiglon.orisdental.no CNAME .
 tortoise.mdx.one CNAME .
 tortoise.transistor.fm CNAME .
+trout.travelmassive.com CNAME .
 turkey.tella.tv CNAME .
+uktgg.dev-tester.com CNAME .
 vampirebat.git-tower.com CNAME .
+vampirebat.swingnsail.com CNAME .
+vicuna.redwoodcity.bike CNAME .
+viper.sitesauce.app CNAME .
 vole.contemporaryartlibrary.org CNAME .
 vole.noteapps.info CNAME .
 wallaby.cron.help CNAME .
@@ -694,7 +691,6 @@ warbler.nycmode.com CNAME .
 warbler.todoscout.com CNAME .
 wasp.mattjennings.io CNAME .
 waterboa.brooks.page CNAME .
-waterboa.midu.dev CNAME .
 weasel.accomplice.ai CNAME .
 weasel.madebytune.be CNAME .
 whitefish.kenku.fm CNAME .
@@ -716,6 +712,35 @@ yak.auclantis.com CNAME .
 yak.embeddedartistry.com CNAME .
 yak.giftme.today CNAME .
 zebra.lasantisimagourmet.com CNAME .
+;
+; starman.fathomdns.com disguised trackers
+;
+9kz9cttz76.antonsten.com CNAME .
+albatross.ohseesoftware.com CNAME .
+alligator.remotecyberwork.com CNAME .
+alpaca.reclaimthenet.org CNAME .
+alpaca.wingmantracker.com CNAME .
+amphibian.pinestc.com CNAME .
+anglerfish.pfolios.net CNAME .
+anteater.audioadventuregame.com CNAME .
+antelope.johndbeatty.com CNAME .
+antelope.journeyofanurse.com CNAME .
+antlion.hendrikhaack.de CNAME .
+ape.maximzubarev.com CNAME .
+armadillo.stacking.club CNAME .
+badger.bytesized.xyz CNAME .
+barracuda.ottsysteme.rs CNAME .
+bass.taivo.ai CNAME .
+bat.heelix.be CNAME .
+bluejay.postmediagroup.com CNAME .
+boar.kostholdsveilederen.no CNAME .
+cat.laravel-news.com CNAME .
+cat.ticketshifu.com CNAME .
+felidae.theforeignarchitect.com CNAME .
+orca.weatherontheway.app CNAME .
+owl.heidipay.com CNAME .
+vampirebat.git-tower.com CNAME .
+waterboa.midu.dev CNAME .
 ;
 ; bs-adserver.b-cdn.net disguised trackers
 ;
@@ -763,7 +788,6 @@ bcdn.cpmstar.com CNAME .
 ; prebid.b-cdn.net disguised trackers
 ;
 cdn-b.notsy.io CNAME .
-cdn.membrana.media CNAME .
 ;
 ; admaticcdn.b-cdn.net disguised trackers
 ;
@@ -784,3 +808,5 @@ dntcl.qualaroo.com CNAME .
 hp-laserjet.printer-repair-experts.net CNAME .
 log.ads-m.net CNAME .
 media.adstatic.com CNAME .
+sp.pakibanks.com CNAME .
+zonaprotetta-ch.cdn.easymanager.ch CNAME .

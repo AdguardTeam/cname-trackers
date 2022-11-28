@@ -204,6 +204,7 @@ refer.tatcha.com
 refer.taxact.com
 refer.thecompanystore.com
 refer.thesculptsociety.com
+refer.twisthair.com
 refer.underarmour.co.uk
 refer.underarmour.de
 refer.underarmour.fr
@@ -220,6 +221,7 @@ refer1.experian.com
 referafriend.discover.com
 referral.cledepeaubeaute.com
 referral.shiseido.com
+referrals.visionsfcu.org
 rewards.zoom.us
 share-us.viktor-rolf.com
 share.100xequine.com
@@ -263,6 +265,7 @@ share.couponcabin.com
 share.creditninja.com
 share.cwbank.com
 share.dermablend.com
+share.detroitnews.com
 share.docmorris.fr
 share.dslaboratories.com
 share.dutch.com
@@ -286,6 +289,7 @@ share.installamerica.com
 share.ipage.com
 share.iteach.net
 share.key.com
+share.kumon.com
 share.la-mariette.com
 share.levi.com
 share.livongo.com
@@ -334,6 +338,7 @@ share.tommy.com
 share.trafalgar.com
 share.truckstop.com
 share.uk.theory.com
+share.usatoday.com
 share.veo.co
 share.veritycu.com
 share.vichyusa.com

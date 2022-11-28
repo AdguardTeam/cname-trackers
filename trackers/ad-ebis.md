@@ -18,6 +18,7 @@
     * 0cd5dd46-3fyehbqu.cname.ebis.ne.jp
     * 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp
     * 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp
+    * 0e0f7a7b-skczc9vy.cname.ebis.ne.jp
     * 0ecb3018-xpsz9xxb.cname.ebis.ne.jp
     * 112991d3-surmt4v9.cname.ebis.ne.jp
     * 11507dbe-dr9hla6g.cname.ebis.ne.jp
@@ -45,6 +46,7 @@
     * 2cc59598-pr6qwglj.cname.ebis.ne.jp
     * 2cf4b0df-n5mdheza.cname.ebis.ne.jp
     * 2effafae-p5xsryk6.cname.ebis.ne.jp
+    * 2f1d9b5c-skczc9vy.cname.ebis.ne.jp
     * 2f22dbfa-day5axk4.cname.ebis.ne.jp
     * 2feef04e-wnxavwja.cname.ebis.ne.jp
     * 30a5817d-lkhaegjw.cname.ebis.ne.jp
@@ -259,6 +261,7 @@
 | adebiscname.auone.jp | 0cd5dd46-3fyehbqu.cname.ebis.ne.jp |
 | ad-ebis.bookpass.auone.jp | 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp |
 | ebis-cname.mirai-japan.co.jp | 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp |
+| ac-ebis.usen-store.com | 0e0f7a7b-skczc9vy.cname.ebis.ne.jp |
 | adebis.satori.marketing | 0ecb3018-xpsz9xxb.cname.ebis.ne.jp |
 | partner.haru-shop.jp | 112991d3-surmt4v9.cname.ebis.ne.jp |
 | ebis.coyori.com | 11507dbe-dr9hla6g.cname.ebis.ne.jp |
@@ -286,6 +289,7 @@
 | ebis.lululun.com | 2cc59598-pr6qwglj.cname.ebis.ne.jp |
 | adebis.zenyaku-hbshop.com | 2cf4b0df-n5mdheza.cname.ebis.ne.jp |
 | isebis.takamiclinic.or.jp | 2effafae-p5xsryk6.cname.ebis.ne.jp |
+| ac-ebis.usen-service.com | 2f1d9b5c-skczc9vy.cname.ebis.ne.jp |
 | ebis.belta.co.jp | 2f22dbfa-day5axk4.cname.ebis.ne.jp |
 | ebis01.zkai.co.jp | 2feef04e-wnxavwja.cname.ebis.ne.jp |
 | adebis-morijuku.morijuku.com | 30a5817d-lkhaegjw.cname.ebis.ne.jp |

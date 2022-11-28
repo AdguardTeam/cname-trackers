@@ -8,10 +8,18 @@
     * tk6if76r.ab1n.net
     * w2u4v9e1.ab1n.net
 
+### Rarely active trackers
+
+* cds.d6n9n7e2.hwcdn.net
+
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| a.addisplaynetwork.com | cds.d6n9n7e2.hwcdn.net |
+| a.adnflow.com | cds.d6n9n7e2.hwcdn.net |
+| a.etology.com | cds.d6n9n7e2.hwcdn.net |
+| delivery.gettopple.com | cds.d6n9n7e2.hwcdn.net |
 | rtb.exoclick.com | ka8ing2z.ab1n.net |
 | 1109.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 2286.notify.optimizesrv.com | tk6if76q.ab1n.net |
@@ -63,6 +71,7 @@
 | 3178572.notifysrv.com | tk6if76q.ab1n.net |
 | 3178848.notifysrv.com | tk6if76q.ab1n.net |
 | 3179416.notify6.com | tk6if76q.ab1n.net |
+| 3179416.notifysrv.com | tk6if76q.ab1n.net |
 | 3179552.notifysrv.com | tk6if76q.ab1n.net |
 | 3180142.notifysrv.com | tk6if76q.ab1n.net |
 | 3180144.notifysrv.com | tk6if76q.ab1n.net |
@@ -99,6 +108,7 @@
 | 3192533.notifysrv.com | tk6if76q.ab1n.net |
 | 3193381.notifysrv.com | tk6if76q.ab1n.net |
 | 3193413.notifysrv.com | tk6if76q.ab1n.net |
+| 3193551.notify6.com | tk6if76q.ab1n.net |
 | 3194053.notify6.com | tk6if76q.ab1n.net |
 | 3194053.notifysrv.com | tk6if76q.ab1n.net |
 | 3194555.notifysrv.com | tk6if76q.ab1n.net |
@@ -360,6 +370,7 @@
 | 3442145.notifysrv.com | tk6if76q.ab1n.net |
 | 3447913.notifysrv.com | tk6if76q.ab1n.net |
 | 3453873.notifysrv.com | tk6if76q.ab1n.net |
+| 3454909.notifysrv.com | tk6if76q.ab1n.net |
 | 3456415.notifysrv.com | tk6if76q.ab1n.net |
 | 3457083.notifysrv.com | tk6if76q.ab1n.net |
 | 3457323.notifysrv.com | tk6if76q.ab1n.net |
@@ -475,6 +486,7 @@
 | 3572273.notifysrv.com | tk6if76q.ab1n.net |
 | 3572277.notify6.com | tk6if76q.ab1n.net |
 | 3572277.notifysrv.com | tk6if76q.ab1n.net |
+| 3588587.notify6.com | tk6if76q.ab1n.net |
 | 3653689.notify6.com | tk6if76q.ab1n.net |
 | 3717105.notify6.com | tk6if76q.ab1n.net |
 | 3878176.notify6.com | tk6if76q.ab1n.net |
@@ -500,6 +512,8 @@
 | 3975710.notify6.com | tk6if76q.ab1n.net |
 | 3979160.notify6.com | tk6if76q.ab1n.net |
 | 4004928.notify6.com | tk6if76q.ab1n.net |
+| 4093684.notify6.com | tk6if76q.ab1n.net |
+| 4144426.notify6.com | tk6if76q.ab1n.net |
 | 4243868.notify6.com | tk6if76q.ab1n.net |
 | 4259086.notify6.com | tk6if76q.ab1n.net |
 | 4260738.notify6.com | tk6if76q.ab1n.net |
@@ -535,8 +549,10 @@
 | 4615884.notify6.com | tk6if76q.ab1n.net |
 | 4621798.notify6.com | tk6if76q.ab1n.net |
 | 4623392.notify6.com | tk6if76q.ab1n.net |
+| 4680526.notify6.com | tk6if76q.ab1n.net |
 | 4743728.notify6.com | tk6if76q.ab1n.net |
 | 4795030.notify6.com | tk6if76q.ab1n.net |
+| 4795268.notify6.com | tk6if76q.ab1n.net |
 | 4801186.notify6.com | tk6if76q.ab1n.net |
 | 4809878.notify6.com | tk6if76q.ab1n.net |
 | 4811620.notify6.com | tk6if76q.ab1n.net |
@@ -570,6 +586,7 @@
 | s.elnkp4.com | tk6if76q.ab1n.net |
 | s.etology.com | tk6if76q.ab1n.net |
 | s.linkw2e.com | tk6if76q.ab1n.net |
+| s.linkw2g.com | tk6if76q.ab1n.net |
 | s.opoxv.com | tk6if76q.ab1n.net |
 | s.opti-digital.com | tk6if76q.ab1n.net |
 | s.optidigital.com | tk6if76q.ab1n.net |

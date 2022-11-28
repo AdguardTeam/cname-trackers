@@ -39,6 +39,7 @@ cbcdn.lloydsbank.com CNAME .
 ccf.prod.fedex.com CNAME .
 cda.thecardservicescenter.com CNAME .
 cdn-east.purchase.goto.com CNAME .
+cdn-ln.ozk.com CNAME .
 cdn-s.chumbacasino.com CNAME .
 cdn-s.dev.chumbacasino.com CNAME .
 cdn-s.dev.globalpoker.com CNAME .
@@ -68,6 +69,7 @@ cdna.lottohelden.de CNAME .
 cdna.paiement.cofidis.fr CNAME .
 cdna.paymentncb.cofidis.es CNAME .
 cdna.paymentncb.cofidis.fr CNAME .
+cdna.xotto.de CNAME .
 cdna.zopa.com CNAME .
 cdnb.cashcentral.com CNAME .
 cdncy.jmbullion.com CNAME .
@@ -150,6 +152,7 @@ content.ecampus.com CNAME .
 content.espace-client.hellobank.fr CNAME .
 content.etransfer.interac.ca CNAME .
 content.ezaem.ru CNAME .
+content.familyprepaiddebit.com CNAME .
 content.fisglobal.com CNAME .
 content.frs.fl.gov CNAME .
 content.gap.com CNAME .
@@ -160,6 +163,7 @@ content.hellobank.it CNAME .
 content.hellomobile.com CNAME .
 content.ibanking-services.com CNAME .
 content.ifpsoyyo.co CNAME .
+content.imagedepositgateway.com CNAME .
 content.incredit.pl CNAME .
 content.interaconline.com CNAME .
 content.jackpotcitycasino.ca CNAME .
@@ -181,6 +185,7 @@ content.mywisely.com CNAME .
 content.name.com CNAME .
 content.netcredit.pl CNAME .
 content.nubank.com.br CNAME .
+content.numobile.com.au CNAME .
 content.olympus.ao.com CNAME .
 content.online.adp.com CNAME .
 content.orixbank.co.jp CNAME .
@@ -234,6 +239,7 @@ content22.citibank.pl CNAME .
 content22.citibank.ru CNAME .
 content22.citibankonline.com CNAME .
 content22.citicards.com CNAME .
+content22.citiretailservices.com CNAME .
 content22.online.citi.com CNAME .
 content22.retailservicescommercial.citi.com CNAME .
 content3.lexisnexisrisk.com CNAME .
@@ -372,6 +378,7 @@ lsr22.dzing.finance CNAME .
 m-profiling.cibc.com CNAME .
 m-profiling.simplii.com CNAME .
 m.vnforapps.com CNAME .
+matrix.cpg.org CNAME .
 meiodepagamento.campanhaporto.com.br CNAME .
 membership-device.secured-igaming-services.com CNAME .
 metrics.myfrs.com CNAME .
@@ -417,6 +424,7 @@ r7s.scl.swisscom.ch CNAME .
 ranzg.rabobank.com.au CNAME .
 rauth.chubb.com CNAME .
 rba-screen.healthsafe-id.com CNAME .
+rba-screen.myhealthcareview.com CNAME .
 rba-screen.myuhc.com CNAME .
 rba-screen.optum.com CNAME .
 rba-screen.optumbank.com CNAME .
@@ -437,6 +445,7 @@ rm-3d84e791.payby.com CNAME .
 rmscheck.sbifxt.co.jp CNAME .
 rsx.afterpay.com CNAME .
 rt.wisecartapp.com CNAME .
+rvw.connection.com CNAME .
 s4.partner.yoomoney.ru CNAME .
 sc.liveme.com CNAME .
 scdn.missionlane.com CNAME .

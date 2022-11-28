@@ -61,6 +61,7 @@ tr.bonplan.mydesign.com
 tr.btobquotes.com
 tr.buenasofertas.pro
 tr.bureauveritas.espmp-aufr.net
+tr.business-deal.com.br
 tr.business-deal.nl
 tr.businessdev.younited-credit.es
 tr.cacf-acq.ipsos-surveys.com
@@ -92,6 +93,7 @@ tr.com-parc.sfr.fr
 tr.com-red.sfr.fr
 tr.com-web.sfr.fr
 tr.com.sfr.fr
+tr.combca.fr
 tr.commande.location.boulanger.com
 tr.communaute.caradisiac.com
 tr.communautes-mediametrie.fr
@@ -148,6 +150,7 @@ tr.donateur.afm-telethon.fr
 tr.drh-holding.lvmh.fr
 tr.e-mail.axa.fr
 tr.e.entreprise-pm.net
+tr.e.m-entreprise.fr
 tr.e.trouver-un-logement-neuf.com
 tr.easy-offertes.be
 tr.ecolab-france.fr
@@ -160,6 +163,7 @@ tr.email.contact-jaguar.fr
 tr.email.contact-landrover.fr
 tr.email.custom-campaign.com
 tr.email.directindustry.com
+tr.email.gap-france.fr
 tr.email.harmonie-mutuelle.fr
 tr.email.infocredit.orangebank.fr
 tr.email.investissement-residence-service.fr
@@ -296,12 +300,14 @@ tr.krus.espmp-agfr.net
 tr.leads.direct
 tr.legrandjeu.boulanger.com
 tr.lesmarques.envie-de-bien-manger.com
+tr.lesmarquesenviedebienmanger.fr
 tr.lettre.dechets-infos.com
 tr.louvre-boites.com
 tr.lvmhappening.lvmh.fr
 tr.m.cwisas.com
 tr.mail-companeo.fr
 tr.mail.banque-casino.fr
+tr.mail.cdiscount.com.ec
 tr.mail.cdiscount.com.pa
 tr.mail.enviedebienmanger.fr
 tr.mail.floa.fr
@@ -391,6 +397,7 @@ tr.news.enkiapp.io
 tr.news.entreprise-pm.com
 tr.news.epicery.com
 tr.news.eureden.com
+tr.news.eurodatatv.com
 tr.news.exclu.fr
 tr.news.flandrintechnologies.com
 tr.news.futuramedia.fr
@@ -406,6 +413,7 @@ tr.news.infopro-digital.com
 tr.news.interforum.fr
 tr.news.itancia.com
 tr.news.jautomatise.com
+tr.news.kalivet.com
 tr.news.kpmgnet.fr
 tr.news.kuhn.com
 tr.news.la-collectionairfrance.fr
@@ -437,6 +445,7 @@ tr.news.ouestnormandie.cci.fr
 tr.news.parisinfo.com
 tr.news.perfectstay.com
 tr.news.receiveyourquote.co.uk
+tr.news.retailglobalsolutions.com
 tr.news.seine-estuaire.cci.fr
 tr.news.smartdeals-transavia-fr.com
 tr.news.smartdealstransavia-fr.com
@@ -449,6 +458,7 @@ tr.news.tiptel.fr
 tr.news.toocampmail.com
 tr.news.toute-la-franchise.com
 tr.news.triskalia.fr
+tr.news.vetharmonie.fr
 tr.news.videofutur.fr
 tr.news.vip-diary.com
 tr.news.vip-mag.co.uk
@@ -469,6 +479,7 @@ tr.newsletter.astro-mail.com
 tr.newsletter.bassins-a-flot.fr
 tr.newsletter.bouygues-construction.com
 tr.newsletter.capdecision.fr
+tr.newsletter.ecig-privee.fr
 tr.newsletter.erenumerique.fr
 tr.newsletter.huilesdolive.fr
 tr.newsletter.jowae.com

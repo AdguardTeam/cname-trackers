@@ -13,7 +13,6 @@
     * redirect440.tagcommander.com
     * redirect476.tagcommander.com
     * redirect521.tagcommander.com
-    * redirect622.tagcommander.com
     * redirect660.tagcommander.com
     * redirect891.tagcommander.com
     * ypg.tagcommander.com
@@ -44,7 +43,6 @@
 | data.decathlon.de | redirect440.tagcommander.com |
 | sales.disneylandparis.com | redirect476.tagcommander.com |
 | tagcommander.laredoute.be | redirect521.tagcommander.com |
-| data.ubi.com | redirect622.tagcommander.com |
 | tagcommander.laredoute.co.uk | redirect660.tagcommander.com |
 | data.wptag.net | redirect891.tagcommander.com |
 | logger.yp.ca | ypg.tagcommander.com |

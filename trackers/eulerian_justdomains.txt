@@ -25,7 +25,6 @@ am.belambra.com
 anz7.allianz-voyage.fr
 ar.i-run.fr
 azg1.emalu-store.com
-b1n.carabins.umontreal.ca
 bch8.destinia.co
 bdj5.terrassesmontecarlosbm.com
 bft5.destinia.fr
@@ -96,6 +95,7 @@ ea.kauf-unique.de
 ea.kidiliz.com
 ea.labelhabitation.com
 ea.lafrancedunordausud.fr
+ea.lepelican.fr
 ea.leskidunordausud.fr
 ea.lespagnedunordausud.fr
 ea.megustaleer.com.pe
@@ -143,6 +143,7 @@ eit3.destinia.nl
 ek8.voyage-prive.com
 elc1.energies.leclerc
 elr.sfr.fr
+erb.tremblant.ca
 ert5.rmcsport.tv
 eule1.pmu.fr
 eule3.pmu.fr
@@ -162,6 +163,7 @@ eulerian.monoprix.fr
 eulerian.motoblouz.com
 eulerian.officiel-des-vacances.com
 eulerian.sarenza.com
+eulerian.siandso.com
 eulerian.structube.com
 eulerian.telechargement.fr
 eulerian.thalasseo.com
@@ -331,7 +333,6 @@ t.locasun.it
 t.locasun.nl
 t.pmu.fr
 t.voyages-sncf.com
-t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tdf1.easyviaggio.com

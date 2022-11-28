@@ -47,6 +47,7 @@ a8.geo-online.co.jp CNAME .
 a8.gigalee.com CNAME .
 a8.hakata-hisamatsu.net CNAME .
 a8.haptic.co.jp CNAME .
+a8.heart-denpo.com CNAME .
 a8.hemptouch.co.jp CNAME .
 a8.hikari-n.jp CNAME .
 a8.hitohana.tokyo CNAME .
@@ -118,7 +119,6 @@ a8.toraiz.jp CNAME .
 a8.tour-sys.com CNAME .
 a8.triple-m.jp CNAME .
 a8.tscubic.com CNAME .
-a8.unicoffee.tech CNAME .
 a8.vector-park.jp CNAME .
 a8.virus-gekitai.com CNAME .
 a8.volstar.jp CNAME .
@@ -149,6 +149,7 @@ a8clk.ap.livede55.com CNAME .
 a8clk.app.offerbox.jp CNAME .
 a8clk.apply-shop.menu.inc CNAME .
 a8clk.asahi-net.or.jp CNAME .
+a8clk.ashitarunrun.com CNAME .
 a8clk.asp.jcity.co.jp CNAME .
 a8clk.audiobook.jp CNAME .
 a8clk.autoc-one.jp CNAME .
@@ -275,6 +276,7 @@ a8clk.www.jaf.or.jp CNAME .
 a8clk.www.ka-nabell.com CNAME .
 a8clk.www.nortonstore.jp CNAME .
 a8clk.www.solarmonitorlp.energy-itsol.com CNAME .
+a8clk.xn--t8jx01hmvbgye566gd1f.com CNAME .
 a8clk.xserver.ne.jp CNAME .
 a8clk.ykd.co.jp CNAME .
 a8clk.yourmystar.jp CNAME .
@@ -333,10 +335,12 @@ a8cv.folli.jp CNAME .
 a8cv.frecious.jp CNAME .
 a8cv.gaikokujin-support.com CNAME .
 a8cv.gakuen.omobic.com CNAME .
+a8cv.gb-chat.com CNAME .
 a8cv.genesis-nipt.com CNAME .
 a8cv.grace-grace.info CNAME .
 a8cv.grassbeaute.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
+a8cv.hal-tanteisya.com CNAME .
 a8cv.hello-people.jp CNAME .
 a8cv.hotyoga-loive.com CNAME .
 a8cv.housingbazar.jp CNAME .
@@ -364,6 +368,7 @@ a8cv.mashumaro-bra.com CNAME .
 a8cv.mcc-lazer-hr.com CNAME .
 a8cv.menina-joue.jp CNAME .
 a8cv.mens-life-clinic.com CNAME .
+a8cv.mentors-lwc.com CNAME .
 a8cv.minana-jp.com CNAME .
 a8cv.minnano-eikaiwa.com CNAME .
 a8cv.mobabiji.jp CNAME .
@@ -551,6 +556,7 @@ sub.booksdream-mypage.com CNAME .
 summary.bookoffonline.co.jp CNAME .
 tag.minimaid.co.jp CNAME .
 test.shigoto-web.com CNAME .
+track.kiafudousan.com CNAME .
 tracking.lead-plus.jp CNAME .
 trck.aeon.co.jp CNAME .
 trck.frutafrutashop.com CNAME .
@@ -560,6 +566,7 @@ trck.rework-s.com CNAME .
 trck02.magaseek.com CNAME .
 trcka8net.irobot-jp.com CNAME .
 web.hikari-ocn.com CNAME .
+web.hikari-softbank.com CNAME .
 web.life-cw.com CNAME .
 wnform.www.trecenti.com CNAME .
 yoiku-sub.yoiku.support CNAME .

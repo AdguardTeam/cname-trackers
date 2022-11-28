@@ -141,7 +141,6 @@ asg.i884.info CNAME .
 asg.japanxxxvideo.net CNAME .
 asg.justthegays.com CNAME .
 asg.laivue.com CNAME .
-asg.lustesthd.com CNAME .
 asg.page-x.com CNAME .
 asg.phukienthoitranggiare.com CNAME .
 asg.pornomoglie.com CNAME .
@@ -203,7 +202,6 @@ cdn3.hentaihaven.fun CNAME .
 chartlon.skin CNAME .
 chen.pepelela.mom CNAME .
 chicipu.lol CNAME .
-choese.allgroups.online CNAME .
 chrome-loading.car-insurance-reviews.com CNAME .
 chvylonz.lol CNAME .
 client2009x25.xcdn.ovh CNAME .
@@ -215,6 +213,7 @@ cool.ah-me.com CNAME .
 costa.xsuffer.com CNAME .
 cowpaz.pics CNAME .
 cx6.lastxxxmovies.com CNAME .
+d.bloblohub.com CNAME .
 dam.tucsun.mom CNAME .
 dashboard.fc2ppv.buzz CNAME .
 data.bangtubevideos.com CNAME .
@@ -242,6 +241,8 @@ est.pornleech.ch CNAME .
 ex8.lostporntube.com CNAME .
 eyedssw.javvvvvv.xyz CNAME .
 fast.s5live.com CNAME .
+feedme.tube2.me CNAME .
+firnialint.xsuffer.com CNAME .
 forads.pro CNAME .
 fortran.icu CNAME .
 free.srcdn.xyz CNAME .
@@ -265,6 +266,7 @@ h-ay.com CNAME .
 hazicu.hothomefuck.com CNAME .
 hehe686.lol CNAME .
 help.fanza.cc CNAME .
+hens.hentaitimes.com CNAME .
 hi999.mom CNAME .
 hizgame.mom CNAME .
 hoabon4.lol CNAME .
@@ -285,6 +287,7 @@ js.manga9.co CNAME .
 js.mangapro.top CNAME .
 js.xemkqxs.com CNAME .
 jx3.freepornobook.com CNAME .
+kalinchuna.xsuffer.com CNAME .
 kanhsky.mom CNAME .
 kembuck.homes CNAME .
 ken9.lol CNAME .
@@ -401,6 +404,7 @@ s.speedostream.com CNAME .
 s2.everydaygayporn.com CNAME .
 s4.sb89347.com CNAME .
 saituo.mom CNAME .
+sameplace.lol CNAME .
 sanbox.mom CNAME .
 santafe.lol CNAME .
 sape.veriplan.xyz CNAME .
@@ -464,6 +468,7 @@ turbo.binande.xyz CNAME .
 tx01.socialchicks.net CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
+upset.xsuffer.com CNAME .
 uthbxvz.bestzba.com CNAME .
 v.focusde.info CNAME .
 v2pro.stbvip.net CNAME .
@@ -478,6 +483,7 @@ w00t.us CNAME .
 web.cinetux.nu CNAME .
 wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
+www.ajsports.tv CNAME .
 www.antiadblock.info CNAME .
 www.areliux.cc CNAME .
 www.bigboy.monster CNAME .
@@ -485,7 +491,6 @@ www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.lechoncito.one CNAME .
 www.letstry69.xyz CNAME .
-www.novelas360.cc CNAME .
 www.p123p.com CNAME .
 www.sex1.party CNAME .
 www.u808i.com CNAME .

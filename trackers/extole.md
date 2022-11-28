@@ -197,6 +197,7 @@
     * kfcu.extole.io
     * knixteen.extole.io
     * kotn.extole.io
+    * kumon.extole.io
     * la-mariette.extole.io
     * la-roche-posay.extole.io
     * lab-series.extole.io
@@ -290,6 +291,7 @@
     * tommy.extole.io
     * trafalgar.extole.io
     * truckstop.extole.io
+    * twisthair.extole.io
     * under-armour-1.extole.io
     * under-armour-2.extole.io
     * under-armour-3.extole.io
@@ -299,6 +301,7 @@
     * veritycu.extole.io
     * vichy.extole.io
     * viktor-rolf.extole.io
+    * visions.extole.io
     * vonagebusiness.extole.io
     * wecohospitality.extole.io
     * whistle.extole.io
@@ -451,6 +454,8 @@
 | refer.g2.com | g2.extole.io |
 | share.azcentral.com | gannett.extole.io |
 | share.caller.com | gannett.extole.io |
+| share.detroitnews.com | gannett.extole.io |
+| share.usatoday.com | gannett.extole.io |
 | refer.gapcanada.ca | gap-canada.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
 | refer.martinsfoods.com | giant-martins.extole.io |
@@ -502,6 +507,7 @@
 | refer.knixteen.ca | knixteen.extole.io |
 | refer.knixteen.com | knixteen.extole.io |
 | my.kotn.com | kotn.extole.io |
+| share.kumon.com | kumon.extole.io |
 | share.la-mariette.com | la-mariette.extole.io |
 | refer.laroche-posay.us | la-roche-posay.extole.io |
 | refer.labseries.com | lab-series.extole.io |
@@ -630,6 +636,7 @@
 | share.trafalgar.com | trafalgar.extole.io |
 | share.truckstop.com | truckstop.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
+| refer.twisthair.com | twisthair.extole.io |
 | refer.underarmour.co.uk | under-armour-1.extole.io |
 | refer.underarmour.nl | under-armour-2.extole.io |
 | refer.underarmour.de | under-armour-3.extole.io |
@@ -642,6 +649,7 @@
 | share.vichyusa.com | vichy.extole.io |
 | share-us.viktor-rolf.com | viktor-rolf.extole.io |
 | share.vimeo.com | vimeo.extole.com |
+| referrals.visionsfcu.org | visions.extole.io |
 | referral.vistaprint.com | vistaprint-ssl.extole.com |
 | refer.volcom.com | volcom.extole.com |
 | refer.vonage.com | vonage.extole.com |

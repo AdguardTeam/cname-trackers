@@ -11,6 +11,7 @@
     * h-1dwgke3d.online-metrix.net
     * h-1kcyydia.online-metrix.net
     * h-1lc506lh.online-metrix.net
+    * h-1qpcog32.online-metrix.net
     * h-1u7ubqzg.online-metrix.net
     * h-1vjjer2n.online-metrix.net
     * h-22vdduyk.online-metrix.net
@@ -94,6 +95,7 @@
     * h-banco.digio.online-metrix.net
     * h-bangkokbank.online-metrix.net
     * h-bankaustralia.online-metrix.net
+    * h-bankofozk.online-metrix.net
     * h-bankofthewest.online-metrix.net
     * h-banquecasino-cb4x.online-metrix.net
     * h-banquecasino.online-metrix.net
@@ -181,10 +183,12 @@
     * h-citibankonline.online-metrix.net
     * h-citicards.online-metrix.net
     * h-citidirect.online-metrix.net
+    * h-citiretailservices.online-metrix.net
     * h-citizensbank.online-metrix.net
     * h-citizensbankaccess.online-metrix.net
     * h-citizensbankonline.online-metrix.net
     * h-citizenscommercial.online-metrix.net
+    * h-cjvdt1o0.online-metrix.net
     * h-cjwi5pjh.online-metrix.net
     * h-cloudwalk.online-metrix.net
     * h-clubpremier.online-metrix.net
@@ -348,6 +352,7 @@
     * h-lnrscoplogic.online-metrix.net
     * h-lotto.online-metrix.net
     * h-lottohelden.online-metrix.net
+    * h-macquarie.online-metrix.net
     * h-magazineluiza.online-metrix.net
     * h-mandsbank.online-metrix.net
     * h-marktplaats.online-metrix.net
@@ -403,6 +408,7 @@
     * h-payby.online-metrix.net
     * h-paysafe.online-metrix.net
     * h-paysafecard2.online-metrix.net
+    * h-pcconnection.online-metrix.net
     * h-pci51dt4.online-metrix.net
     * h-pensionfund.online-metrix.net
     * h-personifyfinancial.online-metrix.net
@@ -531,6 +537,7 @@
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
+| matrix.cpg.org | h-1qpcog32.online-metrix.net |
 | cnt.goboo.com | h-1u7ubqzg.online-metrix.net |
 | ptm.creditas.com | h-1vjjer2n.online-metrix.net |
 | ghisa.subito.it | h-22vdduyk.online-metrix.net |
@@ -639,6 +646,7 @@
 | ln.meudigio.com.br | h-banco.digio.online-metrix.net |
 | svc.bangkokbank.com | h-bangkokbank.online-metrix.net |
 | dii.bankaust.com.au | h-bankaustralia.online-metrix.net |
+| cdn-ln.ozk.com | h-bankofozk.online-metrix.net |
 | fdbplnd.zootweb.com | h-bankofthewest.online-metrix.net |
 | paiement.cb4x.fr | h-banquecasino-cb4x.online-metrix.net |
 | banque.banque-casino.fr | h-banquecasino.online-metrix.net |
@@ -745,10 +753,12 @@
 | content22.citibankonline.com | h-citibankonline.online-metrix.net |
 | content22.citicards.com | h-citicards.online-metrix.net |
 | img4.portal.citidirect.com | h-citidirect.online-metrix.net |
+| content22.citiretailservices.com | h-citiretailservices.online-metrix.net |
 | profiling.qacitizensbankonline.com | h-citizensbank.online-metrix.net |
 | go.citizensaccess.com | h-citizensbankaccess.online-metrix.net |
 | content.citizensbankonline.com | h-citizensbankonline.online-metrix.net |
 | cdn17.citizensbank.com | h-citizenscommercial.online-metrix.net |
+| cdna.xotto.de | h-cjvdt1o0.online-metrix.net |
 | idhtm.bb.com.br | h-cjwi5pjh.online-metrix.net |
 | authorizer-data.infinitepay.io | h-cloudwalk.online-metrix.net |
 | content.clubpremier.com | h-clubpremier.online-metrix.net |
@@ -830,8 +840,10 @@
 | clovergo.june-testing.firstdata.com | h-firstdata.online-metrix.net |
 | content.consumercardaccess.com | h-fisglobal.online-metrix.net |
 | content.ebanking-services.com | h-fisglobal.online-metrix.net |
+| content.familyprepaiddebit.com | h-fisglobal.online-metrix.net |
 | content.fisglobal.com | h-fisglobal.online-metrix.net |
 | content.ibanking-services.com | h-fisglobal.online-metrix.net |
+| content.imagedepositgateway.com | h-fisglobal.online-metrix.net |
 | content.frs.fl.gov | h-floridadms.online-metrix.net |
 | img3.forte.net | h-fortenet.online-metrix.net |
 | img.fortunejack.com | h-fortunejack.online-metrix.net |
@@ -885,6 +897,7 @@
 | cdntm.hsbc.fr | h-hsbcmx.online-metrix.net |
 | cdntm.us.hsbc.com | h-hsbcmx.online-metrix.net |
 | rba-screen.healthsafe-id.com | h-hsid.online-metrix.net |
+| rba-screen.myhealthcareview.com | h-hsid.online-metrix.net |
 | rba-screen.myuhc.com | h-hsid.online-metrix.net |
 | rba-screen.optum.com | h-hsid.online-metrix.net |
 | rba-screen.optumbank.com | h-hsid.online-metrix.net |
@@ -955,6 +968,7 @@
 | content3.risk.lexisnexis.com | h-lnrscoplogic.online-metrix.net |
 | lsdp.lotto.com | h-lotto.online-metrix.net |
 | cdna.lottohelden.de | h-lottohelden.online-metrix.net |
+| content.numobile.com.au | h-macquarie.online-metrix.net |
 | d.mlcdn.com.br | h-magazineluiza.online-metrix.net |
 | cdntm.marksandspencer.com | h-mandsbank.online-metrix.net |
 | faas.marktplaats.nl | h-marktplaats.online-metrix.net |
@@ -1012,6 +1026,7 @@
 | rm-3d84e791.payby.com | h-payby.online-metrix.net |
 | tms.paysafe.com | h-paysafe.online-metrix.net |
 | tm.paysafecard.com | h-paysafecard2.online-metrix.net |
+| rvw.connection.com | h-pcconnection.online-metrix.net |
 | tm.promotion-cdn.com | h-pci51dt4.online-metrix.net |
 | img02.pensionfund.org | h-pensionfund.online-metrix.net |
 | content.personifyfinancial.com | h-personifyfinancial.online-metrix.net |

@@ -39,6 +39,7 @@
 ||ccf.prod.fedex.com^
 ||cda.thecardservicescenter.com^
 ||cdn-east.purchase.goto.com^
+||cdn-ln.ozk.com^
 ||cdn-s.chumbacasino.com^
 ||cdn-s.dev.chumbacasino.com^
 ||cdn-s.dev.globalpoker.com^
@@ -68,6 +69,7 @@
 ||cdna.paiement.cofidis.fr^
 ||cdna.paymentncb.cofidis.es^
 ||cdna.paymentncb.cofidis.fr^
+||cdna.xotto.de^
 ||cdna.zopa.com^
 ||cdnb.cashcentral.com^
 ||cdncy.jmbullion.com^
@@ -150,6 +152,7 @@
 ||content.espace-client.hellobank.fr^
 ||content.etransfer.interac.ca^
 ||content.ezaem.ru^
+||content.familyprepaiddebit.com^
 ||content.fisglobal.com^
 ||content.frs.fl.gov^
 ||content.gap.com^
@@ -160,6 +163,7 @@
 ||content.hellomobile.com^
 ||content.ibanking-services.com^
 ||content.ifpsoyyo.co^
+||content.imagedepositgateway.com^
 ||content.incredit.pl^
 ||content.interaconline.com^
 ||content.jackpotcitycasino.ca^
@@ -181,6 +185,7 @@
 ||content.name.com^
 ||content.netcredit.pl^
 ||content.nubank.com.br^
+||content.numobile.com.au^
 ||content.olympus.ao.com^
 ||content.online.adp.com^
 ||content.orixbank.co.jp^
@@ -234,6 +239,7 @@
 ||content22.citibank.ru^
 ||content22.citibankonline.com^
 ||content22.citicards.com^
+||content22.citiretailservices.com^
 ||content22.online.citi.com^
 ||content22.retailservicescommercial.citi.com^
 ||content3.lexisnexisrisk.com^
@@ -372,6 +378,7 @@
 ||m-profiling.cibc.com^
 ||m-profiling.simplii.com^
 ||m.vnforapps.com^
+||matrix.cpg.org^
 ||meiodepagamento.campanhaporto.com.br^
 ||membership-device.secured-igaming-services.com^
 ||metrics.myfrs.com^
@@ -417,6 +424,7 @@
 ||ranzg.rabobank.com.au^
 ||rauth.chubb.com^
 ||rba-screen.healthsafe-id.com^
+||rba-screen.myhealthcareview.com^
 ||rba-screen.myuhc.com^
 ||rba-screen.optum.com^
 ||rba-screen.optumbank.com^
@@ -437,6 +445,7 @@
 ||rmscheck.sbifxt.co.jp^
 ||rsx.afterpay.com^
 ||rt.wisecartapp.com^
+||rvw.connection.com^
 ||s4.partner.yoomoney.ru^
 ||sc.liveme.com^
 ||scdn.missionlane.com^

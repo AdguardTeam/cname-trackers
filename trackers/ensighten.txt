@@ -24,6 +24,7 @@
 ||activate.orlandosentinel.com^
 ||activate.pacificsandiego.com^
 ||activate.pbmonthly.net^
+||activate.pilotonline.com^
 ||activate.platform.californiatimes.com^
 ||activate.post-trib.com^
 ||activate.ranchosantafereview.com^
@@ -120,6 +121,7 @@
 ||cookies.jll.fi^
 ||cookies.jll.fr^
 ||cookies.jll.it^
+||cookies.jll.lu^
 ||cookies.jll.nl^
 ||cookies.jll.nz^
 ||cookies.jll.pe^
@@ -162,6 +164,7 @@
 ||ensighten.ccnag.com^
 ||ensighten.coop.co.uk^
 ||ensighten.davidyurman.com^
+||ensighten.heineken.co.za^
 ||ensighten.heishop.com.br^
 ||ensighten.heishop.mx^
 ||ensighten.huntingtonbank.com^

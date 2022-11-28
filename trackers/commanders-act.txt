@@ -9,7 +9,6 @@
 ||data.decathlon.fr^
 ||data.decathlon.pl^
 ||data.ouigo.com^
-||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^

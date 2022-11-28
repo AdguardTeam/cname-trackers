@@ -204,6 +204,7 @@ refer.tatcha.com CNAME .
 refer.taxact.com CNAME .
 refer.thecompanystore.com CNAME .
 refer.thesculptsociety.com CNAME .
+refer.twisthair.com CNAME .
 refer.underarmour.co.uk CNAME .
 refer.underarmour.de CNAME .
 refer.underarmour.fr CNAME .
@@ -220,6 +221,7 @@ refer1.experian.com CNAME .
 referafriend.discover.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.shiseido.com CNAME .
+referrals.visionsfcu.org CNAME .
 rewards.zoom.us CNAME .
 share-us.viktor-rolf.com CNAME .
 share.100xequine.com CNAME .
@@ -263,6 +265,7 @@ share.couponcabin.com CNAME .
 share.creditninja.com CNAME .
 share.cwbank.com CNAME .
 share.dermablend.com CNAME .
+share.detroitnews.com CNAME .
 share.docmorris.fr CNAME .
 share.dslaboratories.com CNAME .
 share.dutch.com CNAME .
@@ -286,6 +289,7 @@ share.installamerica.com CNAME .
 share.ipage.com CNAME .
 share.iteach.net CNAME .
 share.key.com CNAME .
+share.kumon.com CNAME .
 share.la-mariette.com CNAME .
 share.levi.com CNAME .
 share.livongo.com CNAME .
@@ -334,6 +338,7 @@ share.tommy.com CNAME .
 share.trafalgar.com CNAME .
 share.truckstop.com CNAME .
 share.uk.theory.com CNAME .
+share.usatoday.com CNAME .
 share.veo.co CNAME .
 share.veritycu.com CNAME .
 share.vichyusa.com CNAME .

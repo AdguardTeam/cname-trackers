@@ -75,6 +75,7 @@
 | tr.btobquotes.com | tracking.bp01.net |
 | tr.buenasofertas.pro | tracking.bp01.net |
 | tr.bureauveritas.espmp-aufr.net | tracking.bp01.net |
+| tr.business-deal.com.br | tracking.bp01.net |
 | tr.business-deal.nl | tracking.bp01.net |
 | tr.businessdev.younited-credit.es | tracking.bp01.net |
 | tr.cacf-acq.ipsos-surveys.com | tracking.bp01.net |
@@ -106,6 +107,7 @@
 | tr.com-red.sfr.fr | tracking.bp01.net |
 | tr.com-web.sfr.fr | tracking.bp01.net |
 | tr.com.sfr.fr | tracking.bp01.net |
+| tr.combca.fr | tracking.bp01.net |
 | tr.commande.location.boulanger.com | tracking.bp01.net |
 | tr.communaute.caradisiac.com | tracking.bp01.net |
 | tr.communautes-mediametrie.fr | tracking.bp01.net |
@@ -162,6 +164,7 @@
 | tr.drh-holding.lvmh.fr | tracking.bp01.net |
 | tr.e-mail.axa.fr | tracking.bp01.net |
 | tr.e.entreprise-pm.net | tracking.bp01.net |
+| tr.e.m-entreprise.fr | tracking.bp01.net |
 | tr.e.trouver-un-logement-neuf.com | tracking.bp01.net |
 | tr.easy-offertes.be | tracking.bp01.net |
 | tr.ecolab-france.fr | tracking.bp01.net |
@@ -174,6 +177,7 @@
 | tr.email.contact-landrover.fr | tracking.bp01.net |
 | tr.email.custom-campaign.com | tracking.bp01.net |
 | tr.email.directindustry.com | tracking.bp01.net |
+| tr.email.gap-france.fr | tracking.bp01.net |
 | tr.email.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.email.infocredit.orangebank.fr | tracking.bp01.net |
 | tr.email.investissement-residence-service.fr | tracking.bp01.net |
@@ -310,12 +314,14 @@
 | tr.leads.direct | tracking.bp01.net |
 | tr.legrandjeu.boulanger.com | tracking.bp01.net |
 | tr.lesmarques.envie-de-bien-manger.com | tracking.bp01.net |
+| tr.lesmarquesenviedebienmanger.fr | tracking.bp01.net |
 | tr.lettre.dechets-infos.com | tracking.bp01.net |
 | tr.louvre-boites.com | tracking.bp01.net |
 | tr.lvmhappening.lvmh.fr | tracking.bp01.net |
 | tr.m.cwisas.com | tracking.bp01.net |
 | tr.mail-companeo.fr | tracking.bp01.net |
 | tr.mail.banque-casino.fr | tracking.bp01.net |
+| tr.mail.cdiscount.com.ec | tracking.bp01.net |
 | tr.mail.cdiscount.com.pa | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
 | tr.mail.floa.fr | tracking.bp01.net |
@@ -405,6 +411,7 @@
 | tr.news.entreprise-pm.com | tracking.bp01.net |
 | tr.news.epicery.com | tracking.bp01.net |
 | tr.news.eureden.com | tracking.bp01.net |
+| tr.news.eurodatatv.com | tracking.bp01.net |
 | tr.news.exclu.fr | tracking.bp01.net |
 | tr.news.flandrintechnologies.com | tracking.bp01.net |
 | tr.news.futuramedia.fr | tracking.bp01.net |
@@ -420,6 +427,7 @@
 | tr.news.interforum.fr | tracking.bp01.net |
 | tr.news.itancia.com | tracking.bp01.net |
 | tr.news.jautomatise.com | tracking.bp01.net |
+| tr.news.kalivet.com | tracking.bp01.net |
 | tr.news.kpmgnet.fr | tracking.bp01.net |
 | tr.news.kuhn.com | tracking.bp01.net |
 | tr.news.la-collectionairfrance.fr | tracking.bp01.net |
@@ -451,6 +459,7 @@
 | tr.news.parisinfo.com | tracking.bp01.net |
 | tr.news.perfectstay.com | tracking.bp01.net |
 | tr.news.receiveyourquote.co.uk | tracking.bp01.net |
+| tr.news.retailglobalsolutions.com | tracking.bp01.net |
 | tr.news.seine-estuaire.cci.fr | tracking.bp01.net |
 | tr.news.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.news.smartdealstransavia-fr.com | tracking.bp01.net |
@@ -463,6 +472,7 @@
 | tr.news.toocampmail.com | tracking.bp01.net |
 | tr.news.toute-la-franchise.com | tracking.bp01.net |
 | tr.news.triskalia.fr | tracking.bp01.net |
+| tr.news.vetharmonie.fr | tracking.bp01.net |
 | tr.news.videofutur.fr | tracking.bp01.net |
 | tr.news.vip-diary.com | tracking.bp01.net |
 | tr.news.vip-mag.co.uk | tracking.bp01.net |
@@ -483,6 +493,7 @@
 | tr.newsletter.bassins-a-flot.fr | tracking.bp01.net |
 | tr.newsletter.bouygues-construction.com | tracking.bp01.net |
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
+| tr.newsletter.ecig-privee.fr | tracking.bp01.net |
 | tr.newsletter.erenumerique.fr | tracking.bp01.net |
 | tr.newsletter.huilesdolive.fr | tracking.bp01.net |
 | tr.newsletter.jowae.com | tracking.bp01.net |

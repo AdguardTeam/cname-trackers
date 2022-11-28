@@ -178,7 +178,6 @@
     * mytoys02.wt-eu02.net
     * netze-bw01.wt-eu02.net
     * obi-all.wt-eu02.net
-    * paydirekt-de01.wt-eu02.net
     * pepephonelive01.wt-eu02.net
     * prosiebensat1puls4.wt-eu02.net
     * sdkurier-de01.wt-eu02.net
@@ -216,6 +215,7 @@
 | web.sensilab.se | 151836596491843.wt-eu02.net |
 | web.sensilab.si | 151836596491843.wt-eu02.net |
 | web.sensilab.sk | 151836596491843.wt-eu02.net |
+| trk.krebsversicherung.de | 176652923057792.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
 | web.solesource.com | 180629549208289.wt-eu02.net |
 | web.mapp.docpeter.it | 184874202187158.wt-eu02.net |
@@ -469,7 +469,6 @@
 | ot.obi.si | obi-all.wt-eu02.net |
 | ot.obi.sk | obi-all.wt-eu02.net |
 | ot.obi.com | obi-com01.webtrekk.net |
-| t.paydirekt.de | paydirekt-de01.wt-eu02.net |
 | data.pepephone.com | pepephonelive01.wt-eu02.net |
 | hbbtv-track.prosiebensat1puls4.com | prosiebensat1puls4.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |

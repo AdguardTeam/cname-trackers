@@ -176,7 +176,6 @@
 ||startrekk.flaconi.fr^
 ||startrekk.flaconi.pl^
 ||statistics.tuv.com^
-||t.paydirekt.de^
 ||text.benefitsatwork.be^
 ||text.benefitsatwork.ch^
 ||text.convenzioniaziendali.it^
@@ -186,6 +185,7 @@
 ||tr.computeruniverse.net^
 ||tr.suedkurier.de^
 ||trk.blume2000.de^
+||trk.krebsversicherung.de^
 ||trk.nuernberger.digital^
 ||w3.aktionaersbank.de^
 ||w7.berlin.de^

@@ -24,6 +24,7 @@ activate.nydailynews.com CNAME .
 activate.orlandosentinel.com CNAME .
 activate.pacificsandiego.com CNAME .
 activate.pbmonthly.net CNAME .
+activate.pilotonline.com CNAME .
 activate.platform.californiatimes.com CNAME .
 activate.post-trib.com CNAME .
 activate.ranchosantafereview.com CNAME .
@@ -120,6 +121,7 @@ cookies.jll.es CNAME .
 cookies.jll.fi CNAME .
 cookies.jll.fr CNAME .
 cookies.jll.it CNAME .
+cookies.jll.lu CNAME .
 cookies.jll.nl CNAME .
 cookies.jll.nz CNAME .
 cookies.jll.pe CNAME .
@@ -162,6 +164,7 @@ ensighten.bhphoto.com CNAME .
 ensighten.ccnag.com CNAME .
 ensighten.coop.co.uk CNAME .
 ensighten.davidyurman.com CNAME .
+ensighten.heineken.co.za CNAME .
 ensighten.heishop.com.br CNAME .
 ensighten.heishop.mx CNAME .
 ensighten.huntingtonbank.com CNAME .

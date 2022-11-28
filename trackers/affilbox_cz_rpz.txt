@@ -25,6 +25,7 @@ affil.dobraprace.cz CNAME .
 affil.dotykacka.cz CNAME .
 affil.econea.cz CNAME .
 affil.eshop-rychle.cz CNAME .
+affil.exkluzivita.cz CNAME .
 affil.fit-pro.cz CNAME .
 affil.gamlery.cz CNAME .
 affil.gentleport.cz CNAME .
@@ -42,6 +43,7 @@ affil.nutriadapt.cz CNAME .
 affil.peliskydog.cz CNAME .
 affil.plkshop.cz CNAME .
 affil.reedog.cz CNAME .
+affil.sedacky-nabytek.cz CNAME .
 affil.seduo.cz CNAME .
 affil.snadnejsizivot.cz CNAME .
 affil.somavedic.cz CNAME .
@@ -114,6 +116,7 @@ affiliate.growmarket.cz CNAME .
 affiliate.hanibal.cz CNAME .
 affiliate.horseandme.eu CNAME .
 affiliate.ilin.cz CNAME .
+affiliate.jewstone.cz CNAME .
 affiliate.jidlojevasen.cz CNAME .
 affiliate.jiristibor.cz CNAME .
 affiliate.ketofit.sk CNAME .
@@ -400,6 +403,7 @@ partner.volne-reality.cz CNAME .
 partner.vykoupeno.cz CNAME .
 partner.webareal.cz CNAME .
 partner.webareal.sk CNAME .
+partner.webskicak.cz CNAME .
 partner.websusmevem.cz CNAME .
 partner.whoopdedoo.cz CNAME .
 partner.whoopdedoo.love CNAME .
@@ -464,6 +468,7 @@ partneri.proficredit.cz CNAME .
 partneri.radostkazdyden.cz CNAME .
 partneri.rondainvest.cz CNAME .
 partneri.rybitukylysi.cz CNAME .
+partneri.silaprozivot.com CNAME .
 partneri.smartemailing.cz CNAME .
 partneri.smyslovy-pruzkumnik.cz CNAME .
 partneri.sportfotbal.cz CNAME .

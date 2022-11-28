@@ -176,7 +176,6 @@ startrekk.flaconi.at CNAME .
 startrekk.flaconi.fr CNAME .
 startrekk.flaconi.pl CNAME .
 statistics.tuv.com CNAME .
-t.paydirekt.de CNAME .
 text.benefitsatwork.be CNAME .
 text.benefitsatwork.ch CNAME .
 text.convenzioniaziendali.it CNAME .
@@ -186,6 +185,7 @@ tippcom01.tipp24.com CNAME .
 tr.computeruniverse.net CNAME .
 tr.suedkurier.de CNAME .
 trk.blume2000.de CNAME .
+trk.krebsversicherung.de CNAME .
 trk.nuernberger.digital CNAME .
 w3.aktionaersbank.de CNAME .
 w7.berlin.de CNAME .

@@ -61,6 +61,7 @@ tr.bonplan.mydesign.com CNAME .
 tr.btobquotes.com CNAME .
 tr.buenasofertas.pro CNAME .
 tr.bureauveritas.espmp-aufr.net CNAME .
+tr.business-deal.com.br CNAME .
 tr.business-deal.nl CNAME .
 tr.businessdev.younited-credit.es CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
@@ -92,6 +93,7 @@ tr.com-parc.sfr.fr CNAME .
 tr.com-red.sfr.fr CNAME .
 tr.com-web.sfr.fr CNAME .
 tr.com.sfr.fr CNAME .
+tr.combca.fr CNAME .
 tr.commande.location.boulanger.com CNAME .
 tr.communaute.caradisiac.com CNAME .
 tr.communautes-mediametrie.fr CNAME .
@@ -148,6 +150,7 @@ tr.donateur.afm-telethon.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
 tr.e-mail.axa.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
+tr.e.m-entreprise.fr CNAME .
 tr.e.trouver-un-logement-neuf.com CNAME .
 tr.easy-offertes.be CNAME .
 tr.ecolab-france.fr CNAME .
@@ -160,6 +163,7 @@ tr.email.contact-jaguar.fr CNAME .
 tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
 tr.email.directindustry.com CNAME .
+tr.email.gap-france.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.infocredit.orangebank.fr CNAME .
 tr.email.investissement-residence-service.fr CNAME .
@@ -296,12 +300,14 @@ tr.krus.espmp-agfr.net CNAME .
 tr.leads.direct CNAME .
 tr.legrandjeu.boulanger.com CNAME .
 tr.lesmarques.envie-de-bien-manger.com CNAME .
+tr.lesmarquesenviedebienmanger.fr CNAME .
 tr.lettre.dechets-infos.com CNAME .
 tr.louvre-boites.com CNAME .
 tr.lvmhappening.lvmh.fr CNAME .
 tr.m.cwisas.com CNAME .
 tr.mail-companeo.fr CNAME .
 tr.mail.banque-casino.fr CNAME .
+tr.mail.cdiscount.com.ec CNAME .
 tr.mail.cdiscount.com.pa CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
 tr.mail.floa.fr CNAME .
@@ -391,6 +397,7 @@ tr.news.enkiapp.io CNAME .
 tr.news.entreprise-pm.com CNAME .
 tr.news.epicery.com CNAME .
 tr.news.eureden.com CNAME .
+tr.news.eurodatatv.com CNAME .
 tr.news.exclu.fr CNAME .
 tr.news.flandrintechnologies.com CNAME .
 tr.news.futuramedia.fr CNAME .
@@ -406,6 +413,7 @@ tr.news.infopro-digital.com CNAME .
 tr.news.interforum.fr CNAME .
 tr.news.itancia.com CNAME .
 tr.news.jautomatise.com CNAME .
+tr.news.kalivet.com CNAME .
 tr.news.kpmgnet.fr CNAME .
 tr.news.kuhn.com CNAME .
 tr.news.la-collectionairfrance.fr CNAME .
@@ -437,6 +445,7 @@ tr.news.ouestnormandie.cci.fr CNAME .
 tr.news.parisinfo.com CNAME .
 tr.news.perfectstay.com CNAME .
 tr.news.receiveyourquote.co.uk CNAME .
+tr.news.retailglobalsolutions.com CNAME .
 tr.news.seine-estuaire.cci.fr CNAME .
 tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
@@ -449,6 +458,7 @@ tr.news.tiptel.fr CNAME .
 tr.news.toocampmail.com CNAME .
 tr.news.toute-la-franchise.com CNAME .
 tr.news.triskalia.fr CNAME .
+tr.news.vetharmonie.fr CNAME .
 tr.news.videofutur.fr CNAME .
 tr.news.vip-diary.com CNAME .
 tr.news.vip-mag.co.uk CNAME .
@@ -469,6 +479,7 @@ tr.newsletter.astro-mail.com CNAME .
 tr.newsletter.bassins-a-flot.fr CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
+tr.newsletter.ecig-privee.fr CNAME .
 tr.newsletter.erenumerique.fr CNAME .
 tr.newsletter.huilesdolive.fr CNAME .
 tr.newsletter.jowae.com CNAME .
