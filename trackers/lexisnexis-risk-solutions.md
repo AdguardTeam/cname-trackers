@@ -227,6 +227,7 @@
     * h-directly.online-metrix.net
     * h-discover.online-metrix.net
     * h-disney.online-metrix.net
+    * h-dlp-unionbank.online-metrix.net
     * h-dnb.online-metrix.net
     * h-dnp-cdms.online-metrix.net
     * h-draftkings.online-metrix.net
@@ -282,6 +283,7 @@
     * h-halifax.online-metrix.net
     * h-hardrock.online-metrix.net
     * h-hie95lph-duo.online-metrix.net
+    * h-hie95lph-walrew.online-metrix.net
     * h-highlow.online-metrix.net
     * h-hoares.online-metrix.net
     * h-home24.online-metrix.net
@@ -436,6 +438,7 @@
     * h-regionsbank.online-metrix.net
     * h-regionsbank2.online-metrix.net
     * h-rentpath.online-metrix.net
+    * h-renttherunway.online-metrix.net
     * h-retail-sc.online-metrix.net
     * h-retailservicescommercial.citi.online-metrix.net
     * h-royalairmaroc.online-metrix.net
@@ -458,6 +461,7 @@
     * h-standardcharteredbank.online-metrix.net
     * h-stanfordfcu.online-metrix.net
     * h-suncoast.online-metrix.net
+    * h-surveysampling.online-metrix.net
     * h-svbconnect.online-metrix.net
     * h-tabcorp.online-metrix.net
     * h-target.online-metrix.net
@@ -469,6 +473,7 @@
     * h-telecharge.online-metrix.net
     * h-tesco.online-metrix.net
     * h-thecardservicescenter.online-metrix.net
+    * h-thefirstclub.online-metrix.net
     * h-thmep.zondaglobal.online-metrix.net
     * h-threatmetrix.online-metrix.net
     * h-thumbtack.online-metrix.net
@@ -622,9 +627,11 @@
 | content.alternabank.ca | h-alterna.online-metrix.net |
 | ocs.ameriprise.com | h-ameriprise.online-metrix.net |
 | im2.prod.amount.com | h-amount.online-metrix.net |
+| analytics.breathlessresorts.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.cheapcaribbean.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.funjet.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.nowresorts.com | h-analytics.triseptsolutions.online-metrix.net |
+| analytics.secretsresorts.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.southwestvacations.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.triseptsolutions.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.vaxvacationaccess.com | h-analytics.triseptsolutions.online-metrix.net |
@@ -803,6 +810,7 @@
 | content.discover.com | h-discover.online-metrix.net |
 | content.discovercard.com | h-discover.online-metrix.net |
 | fp.disney.go.com | h-disney.online-metrix.net |
+| lpo.unionbank.com | h-dlp-unionbank.online-metrix.net |
 | tm.creditsimple.co.nz | h-dnb.online-metrix.net |
 | tm.creditsimple.com.au | h-dnb.online-metrix.net |
 | acsweb-3dr1.dnp-cdms.jp | h-dnp-cdms.online-metrix.net |
@@ -851,6 +859,7 @@
 | s4.partner.yoomoney.ru | h-fsymclue.online-metrix.net |
 | ww3.fundingstream.com | h-fundingstream.online-metrix.net |
 | ww3.marlincapitalsolutions.com | h-fundingstream.online-metrix.net |
+| ww3.peacsolutions.com | h-fundingstream.online-metrix.net |
 | tm.betano.bg | h-gambling-malta.online-metrix.net |
 | tm.betano.ca | h-gambling-malta.online-metrix.net |
 | tm.betano.com | h-gambling-malta.online-metrix.net |
@@ -880,6 +889,7 @@
 | check2.halifax-online.co.uk | h-halifax.online-metrix.net |
 | imgl2.hardrockcasino.com | h-hardrock.online-metrix.net |
 | cdnt.duobank.com | h-hie95lph-duo.online-metrix.net |
+| cdnt.walmartrewards.ca | h-hie95lph-walrew.online-metrix.net |
 | telem.highlow.net | h-highlow.online-metrix.net |
 | yr3ioxw.hoaresbank.co.uk | h-hoares.online-metrix.net |
 | tm.stats.home24.de | h-home24.online-metrix.net |
@@ -1095,11 +1105,13 @@
 | tags.bankline.natwest.com | h-rbs-cpb.online-metrix.net |
 | tags.bankline.rbs.com | h-rbs-cpb.online-metrix.net |
 | tags.bankline.ulsterbank.co.uk | h-rbs-cpb.online-metrix.net |
+| tags.eq.iombank.com | h-rbsint.online-metrix.net |
 | tags.eq.natwestinternational.com | h-rbsint.online-metrix.net |
 | tm.regionsqa.com | h-regionsbank.online-metrix.net |
 | tm.regionstest.com | h-regionsbank.online-metrix.net |
 | tm.regions.com | h-regionsbank2.online-metrix.net |
 | csource.rentals.com | h-rentpath.online-metrix.net |
+| secure.rtrcdn.com | h-renttherunway.online-metrix.net |
 | svc2.sc.com | h-retail-sc.online-metrix.net |
 | content22.retailservicescommercial.citi.com | h-retailservicescommercial.citi.online-metrix.net |
 | content.royalairmaroc.com | h-royalairmaroc.online-metrix.net |
@@ -1122,6 +1134,7 @@
 | svc1.sc.com | h-standardcharteredbank.online-metrix.net |
 | api1.sfcu.org | h-stanfordfcu.online-metrix.net |
 | tx.suncoastcreditunion.com | h-suncoast.online-metrix.net |
+| mobile-tmx.ssisurveys.com | h-surveysampling.online-metrix.net |
 | cdn1.svbconnect.com | h-svbconnect.online-metrix.net |
 | content.tab.com.au | h-tabcorp.online-metrix.net |
 | img9.target.com | h-target.online-metrix.net |
@@ -1133,6 +1146,7 @@
 | tm.telecharge.com | h-telecharge.online-metrix.net |
 | tbp.tescobank.com | h-tesco.online-metrix.net |
 | cda.thecardservicescenter.com | h-thecardservicescenter.online-metrix.net |
+| assets2.thefirstclub.com | h-thefirstclub.online-metrix.net |
 | thmep.zondaglobal.com | h-thmep.zondaglobal.online-metrix.net |
 | h.threatmetrix.com | h-threatmetrix.online-metrix.net |
 | df.thumbtack.com | h-thumbtack.online-metrix.net |
@@ -1209,3 +1223,4 @@
 | img.zootweb.com | h-zootweb.online-metrix.net |
 | cdna.zopa.com | h-zopa.online-metrix.net |
 | fraudcheck.walmart.ca | h.online-metrix.net |
+| gateway.jmbullion.com | h.online-metrix.net |

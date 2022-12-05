@@ -38,6 +38,7 @@
 | ac-dir-sing.cau1aighae.com | sing.lb.rtb.ads.bid |
 | adsbid-sh-click.sing.adghndou0sdh.ru | sing.lb.rtb.ads.bid |
 | avb-sing.13wynpuurt.ru | sing.lb.rtb.ads.bid |
+| avb-sing.cau1aighae.com | sing.lb.rtb.ads.bid |
 | avb-sing.ewtcbedtmx.ru | sing.lb.rtb.ads.bid |
 | di-res-sing.cau1aighae.com | sing.lb.rtb.ads.bid |
 | sing.3h1fpq39jb.ru | sing.lb.rtb.ads.bid |

@@ -9,6 +9,7 @@ data.decathlon.es CNAME .
 data.decathlon.fr CNAME .
 data.decathlon.pl CNAME .
 data.ouigo.com CNAME .
+data.ubi.com CNAME .
 data.wptag.net CNAME .
 logger.yp.ca CNAME .
 sales.disneylandparis.com CNAME .

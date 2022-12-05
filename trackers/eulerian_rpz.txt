@@ -143,7 +143,6 @@ eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 eule1.pmu.fr CNAME .
 eule3.pmu.fr CNAME .
@@ -201,6 +200,7 @@ idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
 iro.iperceptions.com CNAME .
 irs.iperceptions.com CNAME .
+j2i0.mathon.fr CNAME .
 jcr3.onlyyouhotels.com CNAME .
 jelr1.dili.fr CNAME .
 jfp6.destinia.de CNAME .
@@ -221,7 +221,6 @@ lsv5.belambra.fr CNAME .
 ltm6.destinia.se CNAME .
 ly8c.caci-online.fr CNAME .
 lzuc.sfr.fr CNAME .
-m10.m1029.com CNAME .
 m3ds.subarumetropolitain.com CNAME .
 mfd.myfirstdressing.com CNAME .
 mgt7.madeindesign.it CNAME .
@@ -333,6 +332,7 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
+t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .

@@ -29,6 +29,7 @@ te.sheego.de CNAME .
 te.sieh-an.ch CNAME .
 te.sieh-an.de CNAME .
 te.universal.at CNAME .
+te.waeschepur.de CNAME .
 te.witt-international.cz CNAME .
 te.witt-international.nl CNAME .
 te.witt-international.sk CNAME .

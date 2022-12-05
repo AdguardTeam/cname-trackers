@@ -8,10 +8,10 @@
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
-    * aol.extole.com
     * barenecessities.extole.com
     * basictalk-ssl.extole.com
     * catalogspree-ssl.extole.com
+    * checkngo.extole.com
     * clearme-ssl.extole.com
     * compexusa.extole.com
     * d.extole.com
@@ -117,7 +117,6 @@
     * centier.extole.io
     * chacos.extole.io
     * chamberlain.extole.io
-    * chartway-federal-credit-union.extole.io
     * cheaper-than-dirt.extole.io
     * cheaptickets.extole.io
     * chewsidental.extole.io
@@ -126,6 +125,7 @@
     * cinemark.extole.io
     * cityfurniture.extole.io
     * cle-de-peau.extole.io
+    * clevelandgolf.extole.io
     * codecademy.extole.io
     * columbiacu.extole.io
     * comfortzoneskin.extole.io
@@ -149,6 +149,7 @@
     * etrade.extole.io
     * everlywell.extole.io
     * experian.extole.io
+    * extoleu.extole.io
     * fetchpet.extole.io
     * figo-pet-insurance.extole.io
     * fingercheck.extole.io
@@ -210,9 +211,11 @@
     * lightstream.extole.io
     * livongo.extole.io
     * lull.extole.io
+    * mac-cosmetics.extole.io
     * madison-reed.extole.io
     * mama-bear-legal-forms.extole.io
     * manscaped.extole.io
+    * marinerfinance.extole.io
     * medely.extole.io
     * meettally.extole.io
     * merrell.extole.io
@@ -266,7 +269,6 @@
     * sizigi.extole.io
     * skinceuticals.extole.io
     * skyone-federal-credit-union.extole.io
-    * snagajob.extole.io
     * soma.extole.io
     * spothero.extole.io
     * starbucks.extole.io
@@ -283,6 +285,7 @@
     * tatcha.extole.io
     * taxact.extole.io
     * teachersfcu.extole.io
+    * terijon.extole.io
     * the-childrens-place.extole.io
     * the-company-store.extole.io
     * theory.extole.io
@@ -348,7 +351,6 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
-| refer.aol.com | aol.extole.com |
 | share.aplaceformom.com | aplaceformom.extole.io |
 | refer.art.com | artcom.extole.io |
 | refer.ashleyfurniture.com | ashleyfurniturehomestore.extole.io |
@@ -397,9 +399,9 @@
 | refer.centier.com | centier.extole.io |
 | refer.chacos.com | chacos.extole.io |
 | share.myq.com | chamberlain.extole.io |
-| refer.chartway.com | chartway-federal-credit-union.extole.io |
 | share.cheaperthandirt.com | cheaper-than-dirt.extole.io |
 | refer.cheaptickets.com | cheaptickets.extole.io |
+| refer.checkngo.com | checkngo.extole.com |
 | share.chewsidental.com | chewsidental.extole.io |
 | refer.chicos.com | chicos.extole.io |
 | refer.chicosofftherack.com | chicosofftherack.extole.io |
@@ -407,6 +409,7 @@
 | share.cityfurniture.com | cityfurniture.extole.io |
 | referral.cledepeaubeaute.com | cle-de-peau.extole.io |
 | refer.clearme.com | clearme-ssl.extole.com |
+| share.dunlopsports.com | clevelandgolf.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
 | refer.comfortzoneskin.com | comfortzoneskin.extole.io |
@@ -440,6 +443,7 @@
 | refer.etrade.net | etrade.extole.io |
 | refer.everlywell.com | everlywell.extole.io |
 | refer1.experian.com | experian.extole.io |
+| jessica-test-numero-dos.extoleu.com | extoleu.extole.io |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.figopetinsurance.com | figo-pet-insurance.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |
@@ -522,9 +526,11 @@
 | share.livongo.com | livongo.extole.io |
 | refer.luckyvitamin.com | luckyvitamin.extole.com |
 | refer.lull.com | lull.extole.io |
+| share.maccosmetics.com.au | mac-cosmetics.extole.io |
 | refer.madison-reed.com | madison-reed.extole.io |
 | share.mamabearlegalforms.com | mama-bear-legal-forms.extole.io |
 | share.manscaped.com | manscaped.extole.io |
+| refer.marinerfinance.com | marinerfinance.extole.io |
 | share.medely.com | medely.extole.io |
 | refer.aol.com | media-router-aol1.prod.g03.yahoodns.net |
 | share.meettally.com | meettally.extole.io |
@@ -599,7 +605,6 @@
 | go.joinsizigi.com | sizigi.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | refer.skyone.org | skyone-federal-credit-union.extole.io |
-| refer.snagajob.com | snagajob.extole.io |
 | refer.soma.com | soma.extole.io |
 | refer.sperry.com | sperry.extole.com |
 | refer.spothero.com | spothero.extole.io |
@@ -621,6 +626,7 @@
 | share.teachersfcu.org | teachersfcu.extole.io |
 | sharethelove.teacollection.com | teacollection.extole.com |
 | share.tenmarks.com | tenmarks.extole.com |
+| refer.terijon.com | terijon.extole.io |
 | refer.childrensplace.com | the-childrens-place.extole.io |
 | refer.gymboree.com | the-childrens-place.extole.io |
 | refer.sugarandjade.com | the-childrens-place.extole.io |

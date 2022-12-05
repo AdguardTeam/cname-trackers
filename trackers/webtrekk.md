@@ -17,6 +17,7 @@
     * flatex-de01.webtrekk.net
     * heise02.webtrekk.net
     * ingnl04.webtrekk.net
+    * kfw-05.webtrekk.net
     * kfw-07.webtrekk.net
     * kfw04.webtrekk.net
     * kiomi-com01.webtrekk.net
@@ -62,6 +63,7 @@
     * 302631813489498.wt-eu02.net
     * 307902509027183.wt-eu02.net
     * 310695274957699.wt-eu02.net
+    * 318590743478915.wt-eu02.net
     * 329712103760415.wt-eu02.net
     * 341309604352055.wt-eu02.net
     * 346715981768881.wt-eu02.net
@@ -231,7 +233,10 @@
 | web.news.imperialfashion.com | 267062407301027.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
+| backup.data.srf.ch | 292330999892453.wt-eu02.net |
 | data.srf.ch | 292330999892453.wt-eu02.net |
+| nov.data.srf.ch | 292330999892453.wt-eu02.net |
+| s5.data.srf.ch | 292330999892453.wt-eu02.net |
 | data.mapp.com | 292595354576025.wt-eu02.net |
 | web.campaign.v73.it | 302571338326011.wt-eu02.net |
 | data.engelhorn.com | 302631813489498.wt-eu02.net |
@@ -243,6 +248,7 @@
 | a.steigenberger.com | 307902509027183.wt-eu02.net |
 | a.zleep.com | 307902509027183.wt-eu02.net |
 | web.mapp.whiteaway.no | 310695274957699.wt-eu02.net |
+| web.mailing.storz-bickel.com | 318590743478915.wt-eu02.net |
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
 | web.email.pragroup.co.uk | 341309604352055.wt-eu02.net |
 | census.misterspex.fi | 346715981768881.wt-eu02.net |
@@ -422,6 +428,7 @@
 | img.foodspring.de | img-foodspring01.wt-eu02.net |
 | img.foodspring.dk | img-foodspring01.wt-eu02.net |
 | img.foodspring.fr | img-foodspring01.wt-eu02.net |
+| img.foodspring.it | img-foodspring01.wt-eu02.net |
 | img.foodspring.se | img-foodspring01.wt-eu02.net |
 | scout.alpinetrek.co.uk | img.bergfreunde.wt-eu02.net |
 | scout.alpiniste.fr | img.bergfreunde.wt-eu02.net |
@@ -437,6 +444,7 @@
 | scout.bergfreunde.se | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | data.janvanderstorm.de | janvanderstorm-01.wt-eu02.net |
+| image.deginvest.de | kfw-05.webtrekk.net |
 | image.kfw-entwicklungsbank.de | kfw-07.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
 | track.kiomi.com | kiomi-com01.webtrekk.net |

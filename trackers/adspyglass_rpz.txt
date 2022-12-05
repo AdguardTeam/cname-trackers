@@ -28,7 +28,6 @@ a.44oo.icu CNAME .
 a.6vids.space CNAME .
 a.888x.cyou CNAME .
 a.abismo-katheryne.top CNAME .
-a.allwedoisfuck.com CNAME .
 a.antiadxxxspy.com CNAME .
 a.artamkari.com CNAME .
 a.ax.xxx CNAME .
@@ -79,6 +78,7 @@ a.viralnewsbd.xyz CNAME .
 a.warddogs.com CNAME .
 a.watchomovies.com CNAME .
 a.xmanga.online CNAME .
+a.ytbiru.xyz CNAME .
 a.zillastream.com CNAME .
 a5g.oves.biz CNAME .
 a9o.youlikeboys.com CNAME .
@@ -92,12 +92,13 @@ ad.animeitaly.org CNAME .
 ad.emule-island.eu CNAME .
 ad.ttstreaming.stream CNAME .
 ad.wawacity.xyz CNAME .
+adanald.icu CNAME .
 adds.al3ably.com CNAME .
+adhome.icu CNAME .
 adilk.ilikecomix.com CNAME .
 ads.49inchporn.club CNAME .
 ads.al3ably.com CNAME .
 ads.free-to.download CNAME .
-ads.poptwinks.com CNAME .
 ads.pornharlot.net CNAME .
 ads.tabuflix.com CNAME .
 ads.xmov.net CNAME .
@@ -107,6 +108,7 @@ adsnot.1supjav.xyz CNAME .
 adspy.javrank.com CNAME .
 adsrv.kamehameha.click CNAME .
 advpro.pro CNAME .
+adxhand.icu CNAME .
 ags.hobby.porn CNAME .
 all.shorterall.com CNAME .
 amaz.emailon.top CNAME .
@@ -124,6 +126,7 @@ as.ebacdn.com CNAME .
 as.ebalovo.adult CNAME .
 as.lencdn.com CNAME .
 as.lenkino.adult CNAME .
+as.pomcdn.com CNAME .
 as2.fasta.xyz CNAME .
 as2.movporvid.com CNAME .
 as2.o777i.com CNAME .
@@ -145,7 +148,6 @@ asg.page-x.com CNAME .
 asg.phukienthoitranggiare.com CNAME .
 asg.pornomoglie.com CNAME .
 asg.pornoplay.online CNAME .
-asg.pornx99.us CNAME .
 asg.sdtraff.com CNAME .
 asg.shudhdesiporn.com CNAME .
 asg.somecdn.bid CNAME .
@@ -186,6 +188,7 @@ c.bloblohub.com CNAME .
 c021b14e0782ad7ef6d74.clicknplay.to CNAME .
 c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
+cache.picxxxhub.com CNAME .
 cam.javboys.cam CNAME .
 canpibo.mom CNAME .
 cdc.teensnorest.com CNAME .
@@ -212,6 +215,7 @@ comp.aniplay.it CNAME .
 cool.ah-me.com CNAME .
 costa.xsuffer.com CNAME .
 cowpaz.pics CNAME .
+custom1.shorterall.com CNAME .
 cx6.lastxxxmovies.com CNAME .
 d.bloblohub.com CNAME .
 dam.tucsun.mom CNAME .
@@ -231,6 +235,7 @@ dontblock.jav1jav2.buzz CNAME .
 dontblock.javjav1.buzz CNAME .
 doom.xsuffer.com CNAME .
 dx7.sosporntube.com CNAME .
+e.bloblohub.com CNAME .
 ebays.beauty CNAME .
 ebd.cda-hd.cc CNAME .
 ebd.cda-hd.co CNAME .
@@ -356,6 +361,7 @@ oi.lesbianbliss.com CNAME .
 oi.transhero.com CNAME .
 onetwohub.com CNAME .
 ontj.com CNAME .
+orderz.lol CNAME .
 outallin.mom CNAME .
 p.focusde.info CNAME .
 p123p.com CNAME .
@@ -372,6 +378,7 @@ pepipost.autos CNAME .
 pharaon.mom CNAME .
 pics.movporvid.com CNAME .
 pihu.xxxpornhd.pro CNAME .
+pivo.tracked.one CNAME .
 plsdonblock.supjav.buzz CNAME .
 plutoclean.com CNAME .
 pop.dtoo1.space CNAME .
@@ -424,7 +431,6 @@ slave.kbjfree.com CNAME .
 solutions.playernetca.top CNAME .
 som.chartlon.skin CNAME .
 sor.pornxok.com CNAME .
-sp.testisfree.com CNAME .
 space.facebiz.xyz CNAME .
 spy.bocvu.lol CNAME .
 spy.luvprn.com CNAME .
@@ -443,6 +449,7 @@ support.streamjav.top CNAME .
 szj.boombay.xyz CNAME .
 t.nudeclap.com CNAME .
 taboizo.mom CNAME .
+talamk3.beauty CNAME .
 taoviep.mom CNAME .
 tb.turbocap.net CNAME .
 test2.maxx.ddac.ru CNAME .
@@ -466,8 +473,10 @@ tt.wl-cornholio.com CNAME .
 tuckbos.lol CNAME .
 turbo.binande.xyz CNAME .
 tx01.socialchicks.net CNAME .
+tx02.socialchicks.net CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
+ulezarern.xsuffer.com CNAME .
 upset.xsuffer.com CNAME .
 uthbxvz.bestzba.com CNAME .
 v.focusde.info CNAME .
@@ -483,7 +492,8 @@ w00t.us CNAME .
 web.cinetux.nu CNAME .
 wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
-www.ajsports.tv CNAME .
+www.adanald.icu CNAME .
+www.adxhand.icu CNAME .
 www.antiadblock.info CNAME .
 www.areliux.cc CNAME .
 www.bigboy.monster CNAME .

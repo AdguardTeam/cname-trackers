@@ -8,9 +8,11 @@ abc.pulsebet.com
 acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
 afd.bridgeapi.io
+analytics.breathlessresorts.com
 analytics.cheapcaribbean.com
 analytics.funjet.com
 analytics.nowresorts.com
+analytics.secretsresorts.com
 analytics.southwestvacations.com
 analytics.triseptsolutions.com
 analytics.vacations.united.com
@@ -25,6 +27,7 @@ appschk.scotiabank.com
 appscore.credilike.me
 assessment.nj.betmgm.com
 assets.werally.co
+assets2.thefirstclub.com
 auth.vedacheck.com.au
 auth2.corelogic.asia
 authorizer-data.infinitepay.io
@@ -78,6 +81,7 @@ cdnfp.accurint.com
 cdnm.sts.pl
 cdns.moneyplace.com.au
 cdnt.duobank.com
+cdnt.walmartrewards.ca
 cdntm.billpay.de
 cdntm.firstdirect.com
 cdntm.hangseng.com
@@ -312,6 +316,7 @@ fpt.norton.com
 fraudcheck.walmart.ca
 frp.intuit.com
 ftd.quodxx.com.br
+gateway.jmbullion.com
 gfp.intuit.com
 ghisa.subito.it
 go.citizensaccess.com
@@ -372,6 +377,7 @@ log.checkmyfile.com
 log.open.investorsbank.com
 login.eki-net.com
 loyaltyprogram.latam.com
+lpo.unionbank.com
 lsdp.lotto.com
 lsprof.comeon.com
 lsr22.dzing.finance
@@ -385,6 +391,7 @@ metrics.myfrs.com
 metrix.us.ovhcloud.com
 mnt.sbisec.co.jp
 mobile-content.pumb.ua
+mobile-tmx.ssisurveys.com
 mobile.du.ae
 mobilecontent.networks.prod.p0.phx-infra.com
 mobilecontent.projectdrgn.com
@@ -472,6 +479,7 @@ secure.jumia.dz
 secure.jumia.ma
 secure.jumia.sn
 secure.jumia.ug
+secure.rtrcdn.com
 secure.zando.co.za
 secure3.segpay.com
 securecheckout.halloweencostumes.com
@@ -549,6 +557,7 @@ tags.bankline.rbs.com
 tags.bankline.ulsterbank.co.uk
 tags.dazn.com
 tags.emirates.com
+tags.eq.iombank.com
 tags.eq.natwestinternational.com
 tags.greenfeatheronline.com
 tags.ipp-services.eu
@@ -677,6 +686,7 @@ w3.zionsbank.com
 wp.kroger.com
 ww3.fundingstream.com
 ww3.marlincapitalsolutions.com
+ww3.peacsolutions.com
 ww9.lloydsbank.com
 www.cdna.cofidis.be
 www7.raise.com

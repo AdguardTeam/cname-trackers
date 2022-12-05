@@ -4,6 +4,7 @@
 ; webtrekk.net disguised trackers
 ;
 aud.bild.de CNAME .
+image.deginvest.de CNAME .
 image.kfw-entwicklungsbank.de CNAME .
 image.kfw.de CNAME .
 images1.test.de CNAME .
@@ -53,6 +54,7 @@ abc.fackelmann.de CNAME .
 analytics.hermesworld.com CNAME .
 analytics.myhermes.de CNAME .
 app03.ikk-classic.de CNAME .
+backup.data.srf.ch CNAME .
 cdn7.baunetz.de CNAME .
 census.misterspex.at CNAME .
 census.misterspex.ch CNAME .
@@ -129,6 +131,7 @@ hbbtv-track.prosiebensat1puls4.com CNAME .
 img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
 img.foodspring.fr CNAME .
+img.foodspring.it CNAME .
 img.foodspring.se CNAME .
 intelligence.officialwesthamstore.com CNAME .
 is.lg.com CNAME .
@@ -145,6 +148,7 @@ mit.postbank.de CNAME .
 mit.researchlog.db.com CNAME .
 mit.researchlog.dbresearch.com CNAME .
 mit.researchlog.dbresearch.de CNAME .
+nov.data.srf.ch CNAME .
 ot.obi-italia.it CNAME .
 ot.obi.at CNAME .
 ot.obi.ba CNAME .
@@ -159,6 +163,7 @@ pix.airbusgroup.com CNAME .
 pix.telekom.com CNAME .
 proditor.sparda.de CNAME .
 prophet.heise-academy.de CNAME .
+s5.data.srf.ch CNAME .
 scout.alpinetrek.co.uk CNAME .
 scout.alpiniste.fr CNAME .
 scout.berg-freunde.at CNAME .
@@ -234,6 +239,7 @@ web.info.vantastic-foods.com CNAME .
 web.info.varelotteriet.dk CNAME .
 web.info.yeppon.it CNAME .
 web.mail.proximaati.com CNAME .
+web.mailing.storz-bickel.com CNAME .
 web.mapp.docpeter.it CNAME .
 web.mapp.edenred.it CNAME .
 web.mapp.ilgiardinodeilibri.it CNAME .

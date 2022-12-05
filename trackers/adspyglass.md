@@ -38,7 +38,6 @@
 | a.6vids.space | 0i0i0i0.com |
 | a.888x.cyou | 0i0i0i0.com |
 | a.abismo-katheryne.top | 0i0i0i0.com |
-| a.allwedoisfuck.com | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.artamkari.com | 0i0i0i0.com |
 | a.ax.xxx | 0i0i0i0.com |
@@ -89,6 +88,7 @@
 | a.warddogs.com | 0i0i0i0.com |
 | a.watchomovies.com | 0i0i0i0.com |
 | a.xmanga.online | 0i0i0i0.com |
+| a.ytbiru.xyz | 0i0i0i0.com |
 | a.zillastream.com | 0i0i0i0.com |
 | a5g.oves.biz | 0i0i0i0.com |
 | a9o.youlikeboys.com | 0i0i0i0.com |
@@ -102,12 +102,13 @@
 | ad.emule-island.eu | 0i0i0i0.com |
 | ad.ttstreaming.stream | 0i0i0i0.com |
 | ad.wawacity.xyz | 0i0i0i0.com |
+| adanald.icu | 0i0i0i0.com |
 | adds.al3ably.com | 0i0i0i0.com |
+| adhome.icu | 0i0i0i0.com |
 | adilk.ilikecomix.com | 0i0i0i0.com |
 | ads.49inchporn.club | 0i0i0i0.com |
 | ads.al3ably.com | 0i0i0i0.com |
 | ads.free-to.download | 0i0i0i0.com |
-| ads.poptwinks.com | 0i0i0i0.com |
 | ads.pornharlot.net | 0i0i0i0.com |
 | ads.tabuflix.com | 0i0i0i0.com |
 | ads.xmov.net | 0i0i0i0.com |
@@ -117,6 +118,7 @@
 | adspy.javrank.com | 0i0i0i0.com |
 | adsrv.kamehameha.click | 0i0i0i0.com |
 | advpro.pro | 0i0i0i0.com |
+| adxhand.icu | 0i0i0i0.com |
 | ags.hobby.porn | 0i0i0i0.com |
 | all.shorterall.com | 0i0i0i0.com |
 | amaz.emailon.top | 0i0i0i0.com |
@@ -134,6 +136,7 @@
 | as.ebalovo.adult | 0i0i0i0.com |
 | as.lencdn.com | 0i0i0i0.com |
 | as.lenkino.adult | 0i0i0i0.com |
+| as.pomcdn.com | 0i0i0i0.com |
 | as2.fasta.xyz | 0i0i0i0.com |
 | as2.movporvid.com | 0i0i0i0.com |
 | as2.o777i.com | 0i0i0i0.com |
@@ -155,7 +158,6 @@
 | asg.phukienthoitranggiare.com | 0i0i0i0.com |
 | asg.pornomoglie.com | 0i0i0i0.com |
 | asg.pornoplay.online | 0i0i0i0.com |
-| asg.pornx99.us | 0i0i0i0.com |
 | asg.sdtraff.com | 0i0i0i0.com |
 | asg.shudhdesiporn.com | 0i0i0i0.com |
 | asg.somecdn.bid | 0i0i0i0.com |
@@ -196,6 +198,7 @@
 | c021b14e0782ad7ef6d74.clicknplay.to | 0i0i0i0.com |
 | c22x1.xcdn.ovh | 0i0i0i0.com |
 | c3s.bionestraff.pro | 0i0i0i0.com |
+| cache.picxxxhub.com | 0i0i0i0.com |
 | cam.javboys.cam | 0i0i0i0.com |
 | canpibo.mom | 0i0i0i0.com |
 | cdc.teensnorest.com | 0i0i0i0.com |
@@ -222,6 +225,7 @@
 | cool.ah-me.com | 0i0i0i0.com |
 | costa.xsuffer.com | 0i0i0i0.com |
 | cowpaz.pics | 0i0i0i0.com |
+| custom1.shorterall.com | 0i0i0i0.com |
 | cx6.lastxxxmovies.com | 0i0i0i0.com |
 | d.bloblohub.com | 0i0i0i0.com |
 | dam.tucsun.mom | 0i0i0i0.com |
@@ -241,6 +245,7 @@
 | dontblock.javjav1.buzz | 0i0i0i0.com |
 | doom.xsuffer.com | 0i0i0i0.com |
 | dx7.sosporntube.com | 0i0i0i0.com |
+| e.bloblohub.com | 0i0i0i0.com |
 | ebays.beauty | 0i0i0i0.com |
 | ebd.cda-hd.cc | 0i0i0i0.com |
 | ebd.cda-hd.co | 0i0i0i0.com |
@@ -362,6 +367,7 @@
 | oi.transhero.com | 0i0i0i0.com |
 | onetwohub.com | 0i0i0i0.com |
 | ontj.com | 0i0i0i0.com |
+| orderz.lol | 0i0i0i0.com |
 | outallin.mom | 0i0i0i0.com |
 | p.focusde.info | 0i0i0i0.com |
 | p123p.com | 0i0i0i0.com |
@@ -378,6 +384,7 @@
 | pharaon.mom | 0i0i0i0.com |
 | pics.movporvid.com | 0i0i0i0.com |
 | pihu.xxxpornhd.pro | 0i0i0i0.com |
+| pivo.tracked.one | 0i0i0i0.com |
 | plsdonblock.supjav.buzz | 0i0i0i0.com |
 | pop.dtoo1.space | 0i0i0i0.com |
 | pornve.sexyadsrun.com | 0i0i0i0.com |
@@ -429,7 +436,6 @@
 | solutions.playernetca.top | 0i0i0i0.com |
 | som.chartlon.skin | 0i0i0i0.com |
 | sor.pornxok.com | 0i0i0i0.com |
-| sp.testisfree.com | 0i0i0i0.com |
 | space.facebiz.xyz | 0i0i0i0.com |
 | spy.bocvu.lol | 0i0i0i0.com |
 | spy.luvprn.com | 0i0i0i0.com |
@@ -448,6 +454,7 @@
 | szj.boombay.xyz | 0i0i0i0.com |
 | t.nudeclap.com | 0i0i0i0.com |
 | taboizo.mom | 0i0i0i0.com |
+| talamk3.beauty | 0i0i0i0.com |
 | taoviep.mom | 0i0i0i0.com |
 | tb.turbocap.net | 0i0i0i0.com |
 | test2.maxx.ddac.ru | 0i0i0i0.com |
@@ -471,8 +478,10 @@
 | tuckbos.lol | 0i0i0i0.com |
 | turbo.binande.xyz | 0i0i0i0.com |
 | tx01.socialchicks.net | 0i0i0i0.com |
+| tx02.socialchicks.net | 0i0i0i0.com |
 | ui.videojav.com | 0i0i0i0.com |
 | uk.boffinsoft.com | 0i0i0i0.com |
+| ulezarern.xsuffer.com | 0i0i0i0.com |
 | upset.xsuffer.com | 0i0i0i0.com |
 | uthbxvz.bestzba.com | 0i0i0i0.com |
 | v.focusde.info | 0i0i0i0.com |
@@ -488,7 +497,8 @@
 | web.cinetux.nu | 0i0i0i0.com |
 | wtfdontblock.theporndudes.xyz | 0i0i0i0.com |
 | ww.cvideos.stream | 0i0i0i0.com |
-| www.ajsports.tv | 0i0i0i0.com |
+| www.adanald.icu | 0i0i0i0.com |
+| www.adxhand.icu | 0i0i0i0.com |
 | www.antiadblock.info | 0i0i0i0.com |
 | www.areliux.cc | 0i0i0i0.com |
 | www.bigboy.monster | 0i0i0i0.com |

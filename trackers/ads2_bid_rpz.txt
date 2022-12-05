@@ -22,6 +22,7 @@ avb-co.cau1aighae.com CNAME .
 avb-co.iemieshohx.com CNAME .
 avb-latam.cau1aighae.com CNAME .
 avb-sing.13wynpuurt.ru CNAME .
+avb-sing.cau1aighae.com CNAME .
 avb-sing.ewtcbedtmx.ru CNAME .
 avbr.13wynpuurt.ru CNAME .
 di-res-sing.cau1aighae.com CNAME .

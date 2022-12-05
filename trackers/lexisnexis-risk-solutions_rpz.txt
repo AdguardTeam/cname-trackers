@@ -8,9 +8,11 @@ abc.pulsebet.com CNAME .
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 afd.bridgeapi.io CNAME .
+analytics.breathlessresorts.com CNAME .
 analytics.cheapcaribbean.com CNAME .
 analytics.funjet.com CNAME .
 analytics.nowresorts.com CNAME .
+analytics.secretsresorts.com CNAME .
 analytics.southwestvacations.com CNAME .
 analytics.triseptsolutions.com CNAME .
 analytics.vacations.united.com CNAME .
@@ -25,6 +27,7 @@ appschk.scotiabank.com CNAME .
 appscore.credilike.me CNAME .
 assessment.nj.betmgm.com CNAME .
 assets.werally.co CNAME .
+assets2.thefirstclub.com CNAME .
 auth.vedacheck.com.au CNAME .
 auth2.corelogic.asia CNAME .
 authorizer-data.infinitepay.io CNAME .
@@ -78,6 +81,7 @@ cdnfp.accurint.com CNAME .
 cdnm.sts.pl CNAME .
 cdns.moneyplace.com.au CNAME .
 cdnt.duobank.com CNAME .
+cdnt.walmartrewards.ca CNAME .
 cdntm.billpay.de CNAME .
 cdntm.firstdirect.com CNAME .
 cdntm.hangseng.com CNAME .
@@ -312,6 +316,7 @@ fpt.norton.com CNAME .
 fraudcheck.walmart.ca CNAME .
 frp.intuit.com CNAME .
 ftd.quodxx.com.br CNAME .
+gateway.jmbullion.com CNAME .
 gfp.intuit.com CNAME .
 ghisa.subito.it CNAME .
 go.citizensaccess.com CNAME .
@@ -372,6 +377,7 @@ log.checkmyfile.com CNAME .
 log.open.investorsbank.com CNAME .
 login.eki-net.com CNAME .
 loyaltyprogram.latam.com CNAME .
+lpo.unionbank.com CNAME .
 lsdp.lotto.com CNAME .
 lsprof.comeon.com CNAME .
 lsr22.dzing.finance CNAME .
@@ -385,6 +391,7 @@ metrics.myfrs.com CNAME .
 metrix.us.ovhcloud.com CNAME .
 mnt.sbisec.co.jp CNAME .
 mobile-content.pumb.ua CNAME .
+mobile-tmx.ssisurveys.com CNAME .
 mobile.du.ae CNAME .
 mobilecontent.networks.prod.p0.phx-infra.com CNAME .
 mobilecontent.projectdrgn.com CNAME .
@@ -472,6 +479,7 @@ secure.jumia.dz CNAME .
 secure.jumia.ma CNAME .
 secure.jumia.sn CNAME .
 secure.jumia.ug CNAME .
+secure.rtrcdn.com CNAME .
 secure.zando.co.za CNAME .
 secure3.segpay.com CNAME .
 securecheckout.halloweencostumes.com CNAME .
@@ -549,6 +557,7 @@ tags.bankline.rbs.com CNAME .
 tags.bankline.ulsterbank.co.uk CNAME .
 tags.dazn.com CNAME .
 tags.emirates.com CNAME .
+tags.eq.iombank.com CNAME .
 tags.eq.natwestinternational.com CNAME .
 tags.greenfeatheronline.com CNAME .
 tags.ipp-services.eu CNAME .
@@ -677,6 +686,7 @@ w3.zionsbank.com CNAME .
 wp.kroger.com CNAME .
 ww3.fundingstream.com CNAME .
 ww3.marlincapitalsolutions.com CNAME .
+ww3.peacsolutions.com CNAME .
 ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
 www7.raise.com CNAME .

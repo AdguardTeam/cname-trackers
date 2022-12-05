@@ -10,6 +10,7 @@ tk.aircaraibes.com
 tk.airfrance.ae
 tk.airfrance.at
 tk.airfrance.be
+tk.airfrance.bg
 tk.airfrance.bj
 tk.airfrance.ca
 tk.airfrance.ch
@@ -80,6 +81,7 @@ tk.rimowa.com
 tk.salomon.com
 tk.svsound.com
 tk.transavia.com
+tk.ultrapremiumdirect.com
 tk.undiz.com
 tk.viapresse.com
 tracking-test.esearchvision.com

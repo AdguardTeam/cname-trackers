@@ -17,9 +17,9 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
-refer.aol.com CNAME .
 refer.barenecessities.com CNAME .
 refer.basictalk.com CNAME .
+refer.checkngo.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
 refer.discover.com CNAME .
@@ -75,6 +75,7 @@ externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
 go.joinsizigi.com CNAME .
+jessica-test-numero-dos.extoleu.com CNAME .
 love.columbiacu.org CNAME .
 love.suncoastcreditunion.com CNAME .
 my.kotn.com CNAME .
@@ -107,7 +108,6 @@ refer.calo.app CNAME .
 refer.catfootwear.com CNAME .
 refer.centier.com CNAME .
 refer.chacos.com CNAME .
-refer.chartway.com CNAME .
 refer.cheaptickets.com CNAME .
 refer.chicos.com CNAME .
 refer.chicosofftherack.com CNAME .
@@ -161,6 +161,7 @@ refer.lenscrafters.com CNAME .
 refer.lightstream.com CNAME .
 refer.lull.com CNAME .
 refer.madison-reed.com CNAME .
+refer.marinerfinance.com CNAME .
 refer.martinsfoods.com CNAME .
 refer.merrell.com CNAME .
 refer.minted.com CNAME .
@@ -190,7 +191,6 @@ refer.saucony.com CNAME .
 refer.sharkclean.com CNAME .
 refer.skinceuticals.com CNAME .
 refer.skyone.org CNAME .
-refer.snagajob.com CNAME .
 refer.soma.com CNAME .
 refer.spothero.com CNAME .
 refer.starfurniture.com CNAME .
@@ -202,6 +202,7 @@ refer.swap.com CNAME .
 refer.take5oilchange.com CNAME .
 refer.tatcha.com CNAME .
 refer.taxact.com CNAME .
+refer.terijon.com CNAME .
 refer.thecompanystore.com CNAME .
 refer.thesculptsociety.com CNAME .
 refer.twisthair.com CNAME .
@@ -268,6 +269,7 @@ share.dermablend.com CNAME .
 share.detroitnews.com CNAME .
 share.docmorris.fr CNAME .
 share.dslaboratories.com CNAME .
+share.dunlopsports.com CNAME .
 share.dutch.com CNAME .
 share.esteelauder.com.au CNAME .
 share.esteelauder.com.tw CNAME .
@@ -293,6 +295,7 @@ share.kumon.com CNAME .
 share.la-mariette.com CNAME .
 share.levi.com CNAME .
 share.livongo.com CNAME .
+share.maccosmetics.com.au CNAME .
 share.mamabearlegalforms.com CNAME .
 share.manscaped.com CNAME .
 share.medely.com CNAME .

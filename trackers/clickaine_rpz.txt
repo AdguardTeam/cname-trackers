@@ -15,6 +15,7 @@ app.willalland.info CNAME .
 asg.animeyt.es CNAME .
 asg.scanscloud.xyz CNAME .
 c2n.pornez.net CNAME .
+c4n.21hub.com CNAME .
 c4n.asianpinay.com CNAME .
 c4n.ijerk.club CNAME .
 c4n.mypornovideos.com CNAME .
@@ -35,7 +36,6 @@ cc.sexgeschichten-kostenlos.com CNAME .
 cc.sexstories-hot.com CNAME .
 cc.sexverhalen-gratis.com CNAME .
 cc2.camcaps.io CNAME .
-cdn24.playerxxl.xyz CNAME .
 ck.zzipps.com CNAME .
 cli.its2.net CNAME .
 clkn.apostle.onl CNAME .
@@ -61,9 +61,11 @@ mail.7porn.ru CNAME .
 more.alotporn.com CNAME .
 ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .
+sda.arabsex1.com CNAME .
 snow.snowdayonline.xyz CNAME .
 sticky.vtube.to CNAME .
 thunder.vtube.to CNAME .
+uy.arabsex1.com CNAME .
 wp.brandnewapp.pro CNAME .
 ww1.willalland.info CNAME .
 www.bokep.su CNAME .

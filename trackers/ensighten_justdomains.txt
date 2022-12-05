@@ -148,6 +148,7 @@ dc.jared.com
 dc.kay.com
 dc.kayoutlet.com
 dc.sterlingjewelers.com
+dc.stokke.com
 dc.volkswagen.com
 dcf.espn.com
 dcfdata.espn.com
@@ -199,6 +200,7 @@ p.pulse.buyatoyota.com
 p.pulse.lexus.com
 p.pulse.toyota.com
 pfa.levexis.com
+privacy-digital.pru.co.uk
 privacy.28degreescard.com.au
 privacy.acc2.heishop.com.br
 privacy.amadrinks.be
@@ -234,6 +236,7 @@ tagman.transavia.com
 tagman.virgin-atlantic.com
 tagman.virginatlantic.com
 tagman.waitrose.com
+tagman.waitrosecellar.com
 tagmanager1.citi.com
 tags.aljazeera.com
 tags.aljazeera.net

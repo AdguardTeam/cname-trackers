@@ -193,7 +193,6 @@
     * c35cf548-urr.cname.ebis.ne.jp
     * c398a8b1-yfrcguru.cname.ebis.ne.jp
     * c3ef335b-in8gz9ss.cname.ebis.ne.jp
-    * c5198769-zghgmece.cname.ebis.ne.jp
     * c7424645-h0sqxtcz.cname.ebis.ne.jp
     * c75154e7-t3ucd5yy.cname.ebis.ne.jp
     * c802e1f3-kqwcfkqu.cname.ebis.ne.jp
@@ -240,6 +239,7 @@
     * f9aa3ceb-qaud3usr.cname.ebis.ne.jp
     * faaf3154-scxitlgt.cname.ebis.ne.jp
     * fc192e57-yfrcguru.cname.ebis.ne.jp
+    * fc83fd61-digitalgarage.cname.ebis.ne.jp
     * fe1d7165-mmpoiy89.cname.ebis.ne.jp
 
 ## Cloaking domains
@@ -436,7 +436,6 @@
 | ebiscname.urr.jp | c35cf548-urr.cname.ebis.ne.jp |
 | ebis.jinzai-business.com | c398a8b1-yfrcguru.cname.ebis.ne.jp |
 | analyse.hinemos.info | c3ef335b-in8gz9ss.cname.ebis.ne.jp |
-| adebis.38-8931.com | c5198769-zghgmece.cname.ebis.ne.jp |
 | adtrack.loracle.jp | c7424645-h0sqxtcz.cname.ebis.ne.jp |
 | ebiscname.native-phrase.com | c75154e7-t3ucd5yy.cname.ebis.ne.jp |
 | hokkaidobank.rapi.jp | c802e1f3-kqwcfkqu.cname.ebis.ne.jp |
@@ -483,4 +482,5 @@
 | ebis.kan54.jp | f9aa3ceb-qaud3usr.cname.ebis.ne.jp |
 | cs0113sbeda.convenient-smooth.net | faaf3154-scxitlgt.cname.ebis.ne.jp |
 | ebis.funai-finance.com | fc192e57-yfrcguru.cname.ebis.ne.jp |
+| adebis.lifestylemag.jp | fc83fd61-digitalgarage.cname.ebis.ne.jp |
 | axjfkc.kobayashi.co.jp | fe1d7165-mmpoiy89.cname.ebis.ne.jp |

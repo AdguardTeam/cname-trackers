@@ -30,7 +30,6 @@ adebis-bkan.vbest.jp CNAME .
 adebis-morijuku.morijuku.com CNAME .
 adebis-rikon.vbest.jp CNAME .
 adebis-saimu.vbest.jp CNAME .
-adebis.38-8931.com CNAME .
 adebis.464981.com CNAME .
 adebis.afc-shop.com CNAME .
 adebis.angfa-store.jp CNAME .
@@ -57,6 +56,7 @@ adebis.kose.co.jp CNAME .
 adebis.koutsujiko.jp CNAME .
 adebis.leben-establish.jp CNAME .
 adebis.leben-style.jp CNAME .
+adebis.lifestylemag.jp CNAME .
 adebis.livable.co.jp CNAME .
 adebis.logoshome.jp CNAME .
 adebis.no.01.alo-organic.com CNAME .

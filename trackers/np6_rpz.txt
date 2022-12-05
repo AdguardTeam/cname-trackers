@@ -118,6 +118,7 @@ tr.contact.astuceco.fr CNAME .
 tr.contact.canalplus.fr CNAME .
 tr.contact.cereps.fr CNAME .
 tr.contact.e-turf.fr CNAME .
+tr.contact.lead.eu.com CNAME .
 tr.contact.lvmh.fr CNAME .
 tr.contact.makemelead.info CNAME .
 tr.contact.mhl-publishing.fr CNAME .
@@ -140,6 +141,8 @@ tr.devis-express.be CNAME .
 tr.devis-professionnels.com CNAME .
 tr.devis-professionnels.fr CNAME .
 tr.devis.digital CNAME .
+tr.devisminute-alarme.com CNAME .
+tr.devisminute-geolocalisation.com CNAME .
 tr.devize-companeo.ro CNAME .
 tr.digitaldigest.lvmh.com CNAME .
 tr.dirigeants.harmonie-mutuelle.fr CNAME .
@@ -180,6 +183,7 @@ tr.email.toute-la-franchise.com CNAME .
 tr.email.virtual-expo.com CNAME .
 tr.email.voyagesleclerc.com CNAME .
 tr.emailatia.fr CNAME .
+tr.emailing.agencereference.com CNAME .
 tr.emailing.canalbox.com CNAME .
 tr.emailing.canalplus-afrique.com CNAME .
 tr.emailing.canalplus-caledonie.com CNAME .
@@ -208,7 +212,6 @@ tr.fidal.pro CNAME .
 tr.fidalformation.pro CNAME .
 tr.finance.moethennessy.com CNAME .
 tr.forum.veuveclicquot.fr CNAME .
-tr.fr.ar24.services CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
 tr.gap-fr.fr CNAME .
@@ -236,6 +239,7 @@ tr.hello.maisonfoody.com CNAME .
 tr.helloartisan.info CNAME .
 tr.info-btob-leaders.com CNAME .
 tr.info-companeo.be CNAME .
+tr.info-strategie.fr CNAME .
 tr.info.actionlogement.fr CNAME .
 tr.info.ag2rlamondiale.fr CNAME .
 tr.info.aliae.com CNAME .
@@ -244,6 +248,7 @@ tr.info.arialcnp.fr CNAME .
 tr.info.bessans.com CNAME .
 tr.info.caissenationalegendarme.fr CNAME .
 tr.info.capfun.com CNAME .
+tr.info.cartesaffaires.bnpparibas CNAME .
 tr.info.casino-proximites.fr CNAME .
 tr.info.comparadordeprestamos.es CNAME .
 tr.info.easyviaggio.com CNAME .
@@ -251,6 +256,7 @@ tr.info.easyviajar.com CNAME .
 tr.info.easyvoyage.co.uk CNAME .
 tr.info.easyvoyage.com CNAME .
 tr.info.ecole-de-savignac.com CNAME .
+tr.info.fulli.com CNAME .
 tr.info.harmonie-mutuelle.fr CNAME .
 tr.info.lacentrale.fr CNAME .
 tr.info.linxea.com CNAME .
@@ -321,6 +327,7 @@ tr.mail.vo3000.com CNAME .
 tr.mail1.macif.fr CNAME .
 tr.mailing.achatpublic.com CNAME .
 tr.mailing.lvmhappening.com CNAME .
+tr.mailingnp6.lavoirmoderne.com CNAME .
 tr.mailmp.macif.net CNAME .
 tr.mailperformance.fr CNAME .
 tr.maisonsdumonde.com CNAME .
@@ -425,6 +432,7 @@ tr.news.lacollection-airfrance.fr CNAME .
 tr.news.lacollectionairfrance.be CNAME .
 tr.news.lacollectionairfrance.co.uk CNAME .
 tr.news.lacollectionairfrance.fr CNAME .
+tr.news.lalettredelexpansion.com CNAME .
 tr.news.leclubtravel.fr CNAME .
 tr.news.lentreprise.lexpress.fr CNAME .
 tr.news.lexpansion.lexpress.fr CNAME .
@@ -566,6 +574,7 @@ tr.quotesforbusiness.co.uk CNAME .
 tr.ra.cofinoga.fr CNAME .
 tr.ratm.espmp-agfr.net CNAME .
 tr.raym.espmp-agfr.net CNAME .
+tr.reactivation.vertbaudet.fr CNAME .
 tr.read.glose.com CNAME .
 tr.recouvrement.finrec.com CNAME .
 tr.recouvrement.seeric.com CNAME .
@@ -653,6 +662,7 @@ tr1.citroen-ipsos.com CNAME .
 tr1.mailperf.com CNAME .
 tr1.mailperformance.com CNAME .
 tr1.peugeot-ipsos.com CNAME .
+tr1.psa-surveys.com CNAME .
 tr5.mailperf.com CNAME .
 tr5.mperf.com CNAME .
 tracking.allopneus.com CNAME .

@@ -8,6 +8,7 @@ www.realworldsurvivor.com CNAME .
 ;
 ; ntvpforever.com disguised trackers
 ;
+02f3427bf4.bac23cfb5b.com CNAME .
 034beb90c9.61b6eab774.com CNAME .
 0424b056e9.bfbcb7a235.com CNAME .
 0543f1c8c7.71aadba6c8.com CNAME .
@@ -16,6 +17,7 @@ www.realworldsurvivor.com CNAME .
 0acbf53d71.711f421280.com CNAME .
 0b05878fdd.fddf7d58ea.com CNAME .
 0b6ecb7f80.c986493e7d.com CNAME .
+0d9b072dfd.69c28fb7f4.com CNAME .
 0df76f9508.04cbf4193b.com CNAME .
 1723cba717.8592fb1c1d.com CNAME .
 1795105253.e02fe0d0c1.com CNAME .
@@ -28,6 +30,7 @@ www.realworldsurvivor.com CNAME .
 3309734ae8.329a540736.com CNAME .
 38a29cb310.eea605742d.com CNAME .
 38d086de2c.318387965a.com CNAME .
+395a631dfd.9b5c064e11.com CNAME .
 3cbf4c2cb3.cc77769ad8.com CNAME .
 3d82e5c981.9633d48767.com CNAME .
 3eaaac4c0d.090a7ee361.com CNAME .
@@ -47,6 +50,7 @@ www.realworldsurvivor.com CNAME .
 60e1c77a92.11838aaad0.com CNAME .
 61254102fd.92333cc277.com CNAME .
 616e2f6a4f.774e14a837.com CNAME .
+6183c729c7.f145627a09.com CNAME .
 65eb50053b.3cb004e947.com CNAME .
 66d7c2e32f.843acfbeb0.com CNAME .
 6788b5f0a5.07ab456fe8.com CNAME .
@@ -56,6 +60,7 @@ www.realworldsurvivor.com CNAME .
 6ef94a502b.64134c91b6.com CNAME .
 72ffc1edfd.f6d56854f2.com CNAME .
 780f961964.b3fb511da0.com CNAME .
+7b7a5435b5.5dd044e588.com CNAME .
 7ddfe7bb78.1eb76ce5b7.com CNAME .
 7fe465ee76.f21c8cd9a7.com CNAME .
 8654683419.6ab77a3dad.com CNAME .
@@ -66,12 +71,15 @@ www.realworldsurvivor.com CNAME .
 92f28752df.840df00e08.com CNAME .
 93684a0a94.f57fbf2b51.com CNAME .
 95113b3bd8.9d36cf3402.com CNAME .
+95797ef4d7.413dfe9f11.com CNAME .
 96b76b02f1.49af7cee19.com CNAME .
 98028f4b73.c9b501fef3.com CNAME .
+999a328fa0.86521e18d4.com CNAME .
 a108652c62.f78f9d3fc2.com CNAME .
 a2ee316f2b.9c56fb6868.com CNAME .
 a2f288701d.a4334cc1ec.com CNAME .
 a6270385bc.560fe03925.com CNAME .
+a80b9802f4.1aed915a81.com CNAME .
 ab6de09242.441a8a5527.com CNAME .
 acb5145d0c.8874d81f48.com CNAME .
 ad02b0144f.b06fcca6fd.com CNAME .
@@ -81,6 +89,7 @@ adf189dcd8.14badb5195.com CNAME .
 aff9df76e7.5c8877b0af.com CNAME .
 b050e41b1a.3c92e2040f.com CNAME .
 b58c767c1d.0be2be6d31.com CNAME .
+b6e9a8ce8a.85c0a6a0ea.com CNAME .
 b814e3570f.0fd94232df.com CNAME .
 babcca7fba.dca8d1600b.com CNAME .
 bcdb664dff.0d356de9ef.com CNAME .
@@ -109,6 +118,7 @@ e144c46b1f.ab910ac1aa.com CNAME .
 e1de143963.cc3f3eedbb.com CNAME .
 e341c11575.f63f3176ad.com CNAME .
 e8609911b3.c785e43db1.com CNAME .
+eb37b1d1a5.98a54df250.com CNAME .
 eb3d849a7c.e4dbf49f32.com CNAME .
 f1c61224ea.edbc0469bd.com CNAME .
 f24d473f74.60d4631eb3.com CNAME .
@@ -122,7 +132,7 @@ fe8d4b33c2.8abf43d6ad.com CNAME .
 ;
 ; postrelease.com disguised trackers
 ;
-a235.mrt.com CNAME .
+nj.finegardening.com CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 ;
@@ -136,7 +146,12 @@ shared.sponsoredcontent.com CNAME .
 ;
 ; unavailable.hearstnp.com disguised trackers
 ;
+a235.mrt.com CNAME .
 a235.stamfordadvocate.com CNAME .
+;
+; partners-time-com-prod.edgeserving.com disguised trackers
+;
+partners.time.com CNAME .
 ;
 ; realworldsurvivor-com-prod.edgeserving.com disguised trackers
 ;

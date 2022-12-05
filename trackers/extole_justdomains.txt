@@ -17,9 +17,9 @@ refer.ahsfriends.com
 refer.american-giant.com
 refer.americanexpress.com
 refer.ancestry.com
-refer.aol.com
 refer.barenecessities.com
 refer.basictalk.com
+refer.checkngo.com
 refer.clearme.com
 refer.compexusa.com
 refer.discover.com
@@ -75,6 +75,7 @@ externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
 go.joinsizigi.com
+jessica-test-numero-dos.extoleu.com
 love.columbiacu.org
 love.suncoastcreditunion.com
 my.kotn.com
@@ -107,7 +108,6 @@ refer.calo.app
 refer.catfootwear.com
 refer.centier.com
 refer.chacos.com
-refer.chartway.com
 refer.cheaptickets.com
 refer.chicos.com
 refer.chicosofftherack.com
@@ -161,6 +161,7 @@ refer.lenscrafters.com
 refer.lightstream.com
 refer.lull.com
 refer.madison-reed.com
+refer.marinerfinance.com
 refer.martinsfoods.com
 refer.merrell.com
 refer.minted.com
@@ -190,7 +191,6 @@ refer.saucony.com
 refer.sharkclean.com
 refer.skinceuticals.com
 refer.skyone.org
-refer.snagajob.com
 refer.soma.com
 refer.spothero.com
 refer.starfurniture.com
@@ -202,6 +202,7 @@ refer.swap.com
 refer.take5oilchange.com
 refer.tatcha.com
 refer.taxact.com
+refer.terijon.com
 refer.thecompanystore.com
 refer.thesculptsociety.com
 refer.twisthair.com
@@ -268,6 +269,7 @@ share.dermablend.com
 share.detroitnews.com
 share.docmorris.fr
 share.dslaboratories.com
+share.dunlopsports.com
 share.dutch.com
 share.esteelauder.com.au
 share.esteelauder.com.tw
@@ -293,6 +295,7 @@ share.kumon.com
 share.la-mariette.com
 share.levi.com
 share.livongo.com
+share.maccosmetics.com.au
 share.mamabearlegalforms.com
 share.manscaped.com
 share.medely.com

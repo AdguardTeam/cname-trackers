@@ -39,6 +39,7 @@
     * tk-salomon-com.wizaly.com
     * tk-sncf.wizaly.com
     * tk-svsound-com.wizaly.com
+    * tk-ultrapremiumdirect-com.wizaly.com
     * tk-undiz-com.wizaly.com
     * tk-viapresse-com.wizaly.com
     * tk_prismashop_fr.wizaly.com
@@ -93,6 +94,7 @@
 | tk.salomon.com | tk-salomon-com.wizaly.com |
 | wiz.sncf-connect.com | tk-sncf.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |
+| tk.ultrapremiumdirect.com | tk-ultrapremiumdirect-com.wizaly.com |
 | tk.undiz.com | tk-undiz-com.wizaly.com |
 | tk.viapresse.com | tk-viapresse-com.wizaly.com |
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |
@@ -100,6 +102,7 @@
 | tk.airfrance.ae | tkairfrance.wizaly.com |
 | tk.airfrance.at | tkairfrance.wizaly.com |
 | tk.airfrance.be | tkairfrance.wizaly.com |
+| tk.airfrance.bg | tkairfrance.wizaly.com |
 | tk.airfrance.bj | tkairfrance.wizaly.com |
 | tk.airfrance.ca | tkairfrance.wizaly.com |
 | tk.airfrance.ch | tkairfrance.wizaly.com |

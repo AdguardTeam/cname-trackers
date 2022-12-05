@@ -13,13 +13,14 @@
 
 * jadserve.postrelease.com.akadns.net
 * unavailable.hearstnp.com
+* partners-time-com-prod.edgeserving.com
 * realworldsurvivor-com-prod.edgeserving.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| a235.mrt.com | jadserve.postrelease.com |
+| nj.finegardening.com | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
 | a135.wftv.com | jadserve.postrelease.com.akadns.net |
@@ -27,6 +28,7 @@
 | entrepreneur.share.ntv.io | jadserve.postrelease.com.akadns.net |
 | share.ntv.io | jadserve.postrelease.com.akadns.net |
 | shared.sponsoredcontent.com | jadserve.postrelease.com.akadns.net |
+| 02f3427bf4.bac23cfb5b.com | ntvpforever.com |
 | 034beb90c9.61b6eab774.com | ntvpforever.com |
 | 0424b056e9.bfbcb7a235.com | ntvpforever.com |
 | 0543f1c8c7.71aadba6c8.com | ntvpforever.com |
@@ -35,6 +37,7 @@
 | 0acbf53d71.711f421280.com | ntvpforever.com |
 | 0b05878fdd.fddf7d58ea.com | ntvpforever.com |
 | 0b6ecb7f80.c986493e7d.com | ntvpforever.com |
+| 0d9b072dfd.69c28fb7f4.com | ntvpforever.com |
 | 0df76f9508.04cbf4193b.com | ntvpforever.com |
 | 1723cba717.8592fb1c1d.com | ntvpforever.com |
 | 1795105253.e02fe0d0c1.com | ntvpforever.com |
@@ -47,6 +50,7 @@
 | 3309734ae8.329a540736.com | ntvpforever.com |
 | 38a29cb310.eea605742d.com | ntvpforever.com |
 | 38d086de2c.318387965a.com | ntvpforever.com |
+| 395a631dfd.9b5c064e11.com | ntvpforever.com |
 | 3cbf4c2cb3.cc77769ad8.com | ntvpforever.com |
 | 3d82e5c981.9633d48767.com | ntvpforever.com |
 | 3eaaac4c0d.090a7ee361.com | ntvpforever.com |
@@ -66,6 +70,7 @@
 | 60e1c77a92.11838aaad0.com | ntvpforever.com |
 | 61254102fd.92333cc277.com | ntvpforever.com |
 | 616e2f6a4f.774e14a837.com | ntvpforever.com |
+| 6183c729c7.f145627a09.com | ntvpforever.com |
 | 65eb50053b.3cb004e947.com | ntvpforever.com |
 | 66d7c2e32f.843acfbeb0.com | ntvpforever.com |
 | 6788b5f0a5.07ab456fe8.com | ntvpforever.com |
@@ -75,6 +80,7 @@
 | 6ef94a502b.64134c91b6.com | ntvpforever.com |
 | 72ffc1edfd.f6d56854f2.com | ntvpforever.com |
 | 780f961964.b3fb511da0.com | ntvpforever.com |
+| 7b7a5435b5.5dd044e588.com | ntvpforever.com |
 | 7ddfe7bb78.1eb76ce5b7.com | ntvpforever.com |
 | 7fe465ee76.f21c8cd9a7.com | ntvpforever.com |
 | 8654683419.6ab77a3dad.com | ntvpforever.com |
@@ -85,12 +91,15 @@
 | 92f28752df.840df00e08.com | ntvpforever.com |
 | 93684a0a94.f57fbf2b51.com | ntvpforever.com |
 | 95113b3bd8.9d36cf3402.com | ntvpforever.com |
+| 95797ef4d7.413dfe9f11.com | ntvpforever.com |
 | 96b76b02f1.49af7cee19.com | ntvpforever.com |
 | 98028f4b73.c9b501fef3.com | ntvpforever.com |
+| 999a328fa0.86521e18d4.com | ntvpforever.com |
 | a108652c62.f78f9d3fc2.com | ntvpforever.com |
 | a2ee316f2b.9c56fb6868.com | ntvpforever.com |
 | a2f288701d.a4334cc1ec.com | ntvpforever.com |
 | a6270385bc.560fe03925.com | ntvpforever.com |
+| a80b9802f4.1aed915a81.com | ntvpforever.com |
 | ab6de09242.441a8a5527.com | ntvpforever.com |
 | acb5145d0c.8874d81f48.com | ntvpforever.com |
 | ad02b0144f.b06fcca6fd.com | ntvpforever.com |
@@ -100,6 +109,7 @@
 | aff9df76e7.5c8877b0af.com | ntvpforever.com |
 | b050e41b1a.3c92e2040f.com | ntvpforever.com |
 | b58c767c1d.0be2be6d31.com | ntvpforever.com |
+| b6e9a8ce8a.85c0a6a0ea.com | ntvpforever.com |
 | b814e3570f.0fd94232df.com | ntvpforever.com |
 | babcca7fba.dca8d1600b.com | ntvpforever.com |
 | bcdb664dff.0d356de9ef.com | ntvpforever.com |
@@ -128,6 +138,7 @@
 | e1de143963.cc3f3eedbb.com | ntvpforever.com |
 | e341c11575.f63f3176ad.com | ntvpforever.com |
 | e8609911b3.c785e43db1.com | ntvpforever.com |
+| eb37b1d1a5.98a54df250.com | ntvpforever.com |
 | eb3d849a7c.e4dbf49f32.com | ntvpforever.com |
 | f1c61224ea.edbc0469bd.com | ntvpforever.com |
 | f24d473f74.60d4631eb3.com | ntvpforever.com |
@@ -138,7 +149,9 @@
 | fb02e621c6.1c09d36b99.com | ntvpforever.com |
 | fb43b02984.af5cdb3fe3.com | ntvpforever.com |
 | fe8d4b33c2.8abf43d6ad.com | ntvpforever.com |
+| partners.time.com | partners-time-com-prod.edgeserving.com |
 | www.realworldsurvivor.com | realworldsurvivor-com-edge.ntv.io |
 | www.realworldsurvivor.com | realworldsurvivor-com-prod.edgeserving.com |
 | partners.time.com | time-com-edge.ntv.io |
+| a235.mrt.com | unavailable.hearstnp.com |
 | a235.stamfordadvocate.com | unavailable.hearstnp.com |

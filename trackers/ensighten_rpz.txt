@@ -148,6 +148,7 @@ dc.jared.com CNAME .
 dc.kay.com CNAME .
 dc.kayoutlet.com CNAME .
 dc.sterlingjewelers.com CNAME .
+dc.stokke.com CNAME .
 dc.volkswagen.com CNAME .
 dcf.espn.com CNAME .
 dcfdata.espn.com CNAME .
@@ -199,6 +200,7 @@ p.pulse.buyatoyota.com CNAME .
 p.pulse.lexus.com CNAME .
 p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
+privacy-digital.pru.co.uk CNAME .
 privacy.28degreescard.com.au CNAME .
 privacy.acc2.heishop.com.br CNAME .
 privacy.amadrinks.be CNAME .
@@ -234,6 +236,7 @@ tagman.transavia.com CNAME .
 tagman.virgin-atlantic.com CNAME .
 tagman.virginatlantic.com CNAME .
 tagman.waitrose.com CNAME .
+tagman.waitrosecellar.com CNAME .
 tagmanager1.citi.com CNAME .
 tags.aljazeera.com CNAME .
 tags.aljazeera.net CNAME .

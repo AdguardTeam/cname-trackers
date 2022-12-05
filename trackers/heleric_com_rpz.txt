@@ -19,12 +19,14 @@ fo.irrisoranemone.com CNAME .
 ia.bisetsoliped.com CNAME .
 ir.avertinniello.com CNAME .
 ir.mildlydoucely.com CNAME .
+jo.tictocswended.com CNAME .
 jv.curiousuraemia.com CNAME .
 kl.osmoticchalah.com CNAME .
 mp.ualisbaubles.com CNAME .
 np.incrustkantela.com CNAME .
 oj.daunnotes.com CNAME .
 ok.ribworkstylus.com CNAME .
+oz.lokaforky.com CNAME .
 qb.falsenalice.com CNAME .
 qd.loathesentour.com CNAME .
 qz.equalsenframe.com CNAME .

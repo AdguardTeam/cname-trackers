@@ -30,7 +30,6 @@
 ||adebis-morijuku.morijuku.com^
 ||adebis-rikon.vbest.jp^
 ||adebis-saimu.vbest.jp^
-||adebis.38-8931.com^
 ||adebis.464981.com^
 ||adebis.afc-shop.com^
 ||adebis.angfa-store.jp^
@@ -57,6 +56,7 @@
 ||adebis.koutsujiko.jp^
 ||adebis.leben-establish.jp^
 ||adebis.leben-style.jp^
+||adebis.lifestylemag.jp^
 ||adebis.livable.co.jp^
 ||adebis.logoshome.jp^
 ||adebis.no.01.alo-organic.com^

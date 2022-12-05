@@ -10,6 +10,7 @@ tk.aircaraibes.com CNAME .
 tk.airfrance.ae CNAME .
 tk.airfrance.at CNAME .
 tk.airfrance.be CNAME .
+tk.airfrance.bg CNAME .
 tk.airfrance.bj CNAME .
 tk.airfrance.ca CNAME .
 tk.airfrance.ch CNAME .
@@ -80,6 +81,7 @@ tk.rimowa.com CNAME .
 tk.salomon.com CNAME .
 tk.svsound.com CNAME .
 tk.transavia.com CNAME .
+tk.ultrapremiumdirect.com CNAME .
 tk.undiz.com CNAME .
 tk.viapresse.com CNAME .
 tracking-test.esearchvision.com CNAME .

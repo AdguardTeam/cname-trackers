@@ -33,6 +33,7 @@ affil.hifimarket.cz
 affil.hobbytec.cz
 affil.jobsik.cz
 affil.katalog-rebelky.cz
+affil.knihavyhod.cz
 affil.knihazenasnov.sk
 affil.kralovstvi-tiande.cz
 affil.lypo.cz
@@ -57,6 +58,7 @@ affil.upcr.cz
 affil.vzdusin.cz
 affil.webareal.cz
 affil.xgdpr.cz
+affil.zaslat.cz
 affil.zdravetricko.cz
 affilbox.andreashop.sk
 affilbox.gurufinance.cz
@@ -113,9 +115,11 @@ affiliate.gaymegastore.cz
 affiliate.gaymegastore.eu
 affiliate.golfplan.org
 affiliate.growmarket.cz
+affiliate.hamham.cz
 affiliate.hanibal.cz
 affiliate.horseandme.eu
 affiliate.ilin.cz
+affiliate.jasnaznacka.cz
 affiliate.jewstone.cz
 affiliate.jidlojevasen.cz
 affiliate.jiristibor.cz
@@ -156,9 +160,11 @@ affiliate.rustspolecne.cz
 affiliate.sexshop.cz
 affiliate.sexshop51.cz
 affiliate.sexshop51.sk
+affiliate.skolanavyku.cz
 affiliate.smarty.cz
 affiliate.smsticket.cz
 affiliate.snowbitch.cz
+affiliate.socialsprinters.cz
 affiliate.svarecky-obchod.cz
 affiliate.svetbot.cz
 affiliate.terarijni-potreby.cz
@@ -176,6 +182,7 @@ affilo.janie.cz
 affilo.lingerio.cz
 affilo.vivaboty.cz
 affilpartner.descanti.com
+ambasadorky.zenyzenam.cz
 brana.ritualyomlazeni.cz
 doporuc.hopsej.cz
 hcbox.fitness-zone.cz
@@ -264,6 +271,7 @@ partak.surfey.cz
 partner.2din.cz
 partner.affilbox.com
 partner.affiliateark.com
+partner.affilnet.cz
 partner.alesio.cz
 partner.amonitsro.sk
 partner.anabix.cz
@@ -281,7 +289,6 @@ partner.brillbird.cz
 partner.cakemarket.eu
 partner.candy.cz
 partner.cannacare.cz
-partner.carun.cz
 partner.caskrmeni.cz
 partner.cbdcko.cz
 partner.cbdstar.cz
@@ -298,12 +305,14 @@ partner.cukrarskaskola.cz
 partner.cukrarskyklub.cz
 partner.danfil.cz
 partner.denishenry.cz
+partner.directalpine.cz
 partner.domaci-pivoteka.cz
 partner.doplnse.cz
 partner.dr-nek.cz
 partner.dynamikabohatstvi.cz
 partner.epravo.cz
 partner.eshop-gyorsan.hu
+partner.evolutionhub.cz
 partner.expresmenu.com
 partner.expresmenu.cz
 partner.expresmenu.sk
@@ -323,6 +332,7 @@ partner.iodesign.cz
 partner.iodicanatural.cz
 partner.italier.cz
 partner.ivadekor.cz
+partner.izlato24.cz
 partner.jedlenadobi.cz
 partner.ketomix.cz
 partner.ketomix.hu
@@ -391,7 +401,6 @@ partner.svatebni-diar.cz
 partner.svetruzi.cz
 partner.swimmeez.cz
 partner.top-obaly.cz
-partner.traminal.cz
 partner.tyano.cz
 partner.umio.sk
 partner.unuo.de
@@ -414,6 +423,7 @@ partner.zdravi.online
 partner.zkontrolujsiauto.cz
 partner.zombeek.cz
 partner.zonky.cz
+partner.zv1.cz
 partneri.adamfengshui.cz
 partneri.adrop.cz
 partneri.alchemistr.cz
@@ -466,6 +476,7 @@ partneri.portske.cz
 partneri.prectime.cz
 partneri.proficredit.cz
 partneri.radostkazdyden.cz
+partneri.roklen.cz
 partneri.rondainvest.cz
 partneri.rybitukylysi.cz
 partneri.silaprozivot.com
@@ -486,6 +497,7 @@ partneri.vyzvaproimunitu.cz
 partneri.worldee.com
 partneri.yoggspiration.cz
 partneri.zdravykram.cz
+partneri.zkustenzvuk.cz
 partners.adventuremenu.com
 partners.almaf.cz
 partners.oktagon.tv
@@ -503,7 +515,9 @@ special.kvetinyexpres.cz
 spoluprace.blackkale.cz
 spoluprace.denikletusky.cz
 spoluprace.eroticstore.cz
+spoluprace.majka-shop.cz
 spoluprace.medicinashop.cz
+spoluprace.pohybovka.cz
 spoluprace.potravinyarax.cz
 spoluprace.terrapotheka.cz
 spoluprace.vcelarstvi-domovina.cz

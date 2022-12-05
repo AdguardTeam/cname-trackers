@@ -4,6 +4,7 @@
 ! webtrekk.net disguised trackers
 !
 ||aud.bild.de^
+||image.deginvest.de^
 ||image.kfw-entwicklungsbank.de^
 ||image.kfw.de^
 ||images1.test.de^
@@ -53,6 +54,7 @@
 ||analytics.hermesworld.com^
 ||analytics.myhermes.de^
 ||app03.ikk-classic.de^
+||backup.data.srf.ch^
 ||cdn7.baunetz.de^
 ||census.misterspex.at^
 ||census.misterspex.ch^
@@ -129,6 +131,7 @@
 ||img.foodspring.de^
 ||img.foodspring.dk^
 ||img.foodspring.fr^
+||img.foodspring.it^
 ||img.foodspring.se^
 ||intelligence.officialwesthamstore.com^
 ||is.lg.com^
@@ -145,6 +148,7 @@
 ||mit.researchlog.db.com^
 ||mit.researchlog.dbresearch.com^
 ||mit.researchlog.dbresearch.de^
+||nov.data.srf.ch^
 ||ot.obi-italia.it^
 ||ot.obi.at^
 ||ot.obi.ba^
@@ -159,6 +163,7 @@
 ||pix.telekom.com^
 ||proditor.sparda.de^
 ||prophet.heise-academy.de^
+||s5.data.srf.ch^
 ||scout.alpinetrek.co.uk^
 ||scout.alpiniste.fr^
 ||scout.berg-freunde.at^
@@ -234,6 +239,7 @@
 ||web.info.varelotteriet.dk^
 ||web.info.yeppon.it^
 ||web.mail.proximaati.com^
+||web.mailing.storz-bickel.com^
 ||web.mapp.docpeter.it^
 ||web.mapp.edenred.it^
 ||web.mapp.ilgiardinodeilibri.it^

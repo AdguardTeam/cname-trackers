@@ -118,6 +118,7 @@
 ||tr.contact.canalplus.fr^
 ||tr.contact.cereps.fr^
 ||tr.contact.e-turf.fr^
+||tr.contact.lead.eu.com^
 ||tr.contact.lvmh.fr^
 ||tr.contact.makemelead.info^
 ||tr.contact.mhl-publishing.fr^
@@ -140,6 +141,8 @@
 ||tr.devis-professionnels.com^
 ||tr.devis-professionnels.fr^
 ||tr.devis.digital^
+||tr.devisminute-alarme.com^
+||tr.devisminute-geolocalisation.com^
 ||tr.devize-companeo.ro^
 ||tr.digitaldigest.lvmh.com^
 ||tr.dirigeants.harmonie-mutuelle.fr^
@@ -180,6 +183,7 @@
 ||tr.email.virtual-expo.com^
 ||tr.email.voyagesleclerc.com^
 ||tr.emailatia.fr^
+||tr.emailing.agencereference.com^
 ||tr.emailing.canalbox.com^
 ||tr.emailing.canalplus-afrique.com^
 ||tr.emailing.canalplus-caledonie.com^
@@ -208,7 +212,6 @@
 ||tr.fidalformation.pro^
 ||tr.finance.moethennessy.com^
 ||tr.forum.veuveclicquot.fr^
-||tr.fr.ar24.services^
 ||tr.fr.pro.accor.com^
 ||tr.futurecommerce.moethennessy.com^
 ||tr.gap-fr.fr^
@@ -236,6 +239,7 @@
 ||tr.helloartisan.info^
 ||tr.info-btob-leaders.com^
 ||tr.info-companeo.be^
+||tr.info-strategie.fr^
 ||tr.info.actionlogement.fr^
 ||tr.info.ag2rlamondiale.fr^
 ||tr.info.aliae.com^
@@ -244,6 +248,7 @@
 ||tr.info.bessans.com^
 ||tr.info.caissenationalegendarme.fr^
 ||tr.info.capfun.com^
+||tr.info.cartesaffaires.bnpparibas^
 ||tr.info.casino-proximites.fr^
 ||tr.info.comparadordeprestamos.es^
 ||tr.info.easyviaggio.com^
@@ -251,6 +256,7 @@
 ||tr.info.easyvoyage.co.uk^
 ||tr.info.easyvoyage.com^
 ||tr.info.ecole-de-savignac.com^
+||tr.info.fulli.com^
 ||tr.info.harmonie-mutuelle.fr^
 ||tr.info.lacentrale.fr^
 ||tr.info.linxea.com^
@@ -321,6 +327,7 @@
 ||tr.mail1.macif.fr^
 ||tr.mailing.achatpublic.com^
 ||tr.mailing.lvmhappening.com^
+||tr.mailingnp6.lavoirmoderne.com^
 ||tr.mailmp.macif.net^
 ||tr.mailperformance.fr^
 ||tr.maisonsdumonde.com^
@@ -425,6 +432,7 @@
 ||tr.news.lacollectionairfrance.be^
 ||tr.news.lacollectionairfrance.co.uk^
 ||tr.news.lacollectionairfrance.fr^
+||tr.news.lalettredelexpansion.com^
 ||tr.news.leclubtravel.fr^
 ||tr.news.lentreprise.lexpress.fr^
 ||tr.news.lexpansion.lexpress.fr^
@@ -566,6 +574,7 @@
 ||tr.ra.cofinoga.fr^
 ||tr.ratm.espmp-agfr.net^
 ||tr.raym.espmp-agfr.net^
+||tr.reactivation.vertbaudet.fr^
 ||tr.read.glose.com^
 ||tr.recouvrement.finrec.com^
 ||tr.recouvrement.seeric.com^
@@ -653,6 +662,7 @@
 ||tr1.mailperf.com^
 ||tr1.mailperformance.com^
 ||tr1.peugeot-ipsos.com^
+||tr1.psa-surveys.com^
 ||tr5.mailperf.com^
 ||tr5.mperf.com^
 ||tracking.allopneus.com^
