@@ -8,7 +8,7 @@ const {
     stashInfoPairs,
 } = require('./src/helpers');
 const {
-    INFO_FILE_EXTENSION,
+    JSON_FILE_EXTENSION,
     RULES_FILE_EXTENSION,
     HOSTS_RULES_FILE_NAME_ENDING,
     RPZ_RULES_FILE_NAME_ENDING,
@@ -57,7 +57,7 @@ const main = async () => {
                 const stashedInfo = await stashInfoPairs(mergedDomainInfoPairs);
                 spinner.succeed(`${companyName} data successfully merged and stashed`);
                 await fs.writeFile(
-                    path.resolve(__dirname, TRACKERS_DIR, `${companyFileName}.${INFO_FILE_EXTENSION}`),
+                    path.resolve(__dirname, TRACKERS_DIR, `${companyFileName}.${JSON_FILE_EXTENSION}`),
                     JSON.stringify(stashedInfo, null, 2),
                 );
             } catch (e) {

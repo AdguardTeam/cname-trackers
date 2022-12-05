@@ -32,13 +32,13 @@ If you are absolutely sure you want to block all disguised trackers even if it b
 
 * `AdGuard CNAME original trackers list` - The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
     * [Adblock-style syntax](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style): https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_original_trackers.txt
-* `AdGuard CNAME disguised trackers list` - The list of trackers that disguise the real trackers by using CNAME records. Use in any traditional content blocker.
+* `AdGuard CNAME disguised trackers list` - The list of unique tracker domains that disguise the real trackers by using CNAME records. Use in any traditional content blocker.
     * [Adblock-style syntax](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style): https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
     * [Just domain names](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style): https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
 
 If you run your own DNS server which supports [Response Policy Zones](https://www.dnsrpz.info), use the data in RPZ format:
 
-* `AdGuard CNAME disguised trackers list` - The list of trackers that disguise the real trackers by using CNAME records. Use with a compatible DNS server implementation.
+* `AdGuard CNAME disguised trackers list` - The list of unique tracker domains that disguise the real trackers by using CNAME records. Use with a compatible DNS server implementation.
     * [Response Policy Zone (RPZ) format](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style): https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_rpz.txt
 
 You will need to prepend your own SOA and NS records.  Consult the documentation of your DNS server and/or the [IETF Draft](https://datatracker.ietf.org/doc/draft-vixie-dnsop-dns-rpz/) for more information.

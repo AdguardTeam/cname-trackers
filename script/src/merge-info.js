@@ -8,7 +8,7 @@ const {
     getValidPairsFromRemoved,
     getOrderedByDisguisePairs,
 } = require('./helpers');
-const { INFO_FILE_EXTENSION } = require('./constants');
+const { JSON_FILE_EXTENSION } = require('./constants');
 
 const TRACKERS_DIR_PATH = '../../trackers';
 
@@ -26,7 +26,7 @@ const TRACKERS_DIR_PATH = '../../trackers';
  * @returns {Pair[]} merged '{ disguise, tracker }' pairs
  */
 const mergeDomainsInfo = async (companyFileName, fetchedDomainsInfo) => {
-    const oldInfoFileName = `${companyFileName}.${INFO_FILE_EXTENSION}`;
+    const oldInfoFileName = `${companyFileName}.${JSON_FILE_EXTENSION}`;
     const oldInfoFilePath = path.resolve(__dirname, TRACKERS_DIR_PATH, oldInfoFileName);
 
     const isOldFileExisting = await isFileExisting(oldInfoFilePath);

@@ -1,3 +1,8 @@
+const {
+    createBaseRule,
+    createHostsRule,
+    createRpzRule,
+} = require('./helpers');
 const { CONST_DATA } = require('./constants');
 
 /**
@@ -32,11 +37,11 @@ const buildRulesByType = (trackersData, type) => {
             uniqDisguises.forEach((disguise) => {
                 let rule;
                 if (type === CONST_DATA.BASE.type) {
-                    rule = `||${disguise}^`;
+                    rule = createBaseRule(disguise);
                 } else if (type === CONST_DATA.HOSTS.type) {
-                    rule = disguise;
+                    rule = createHostsRule(disguise);
                 } else if (type === CONST_DATA.RPZ.type) {
-                    rule = `${disguise} CNAME .`;
+                    rule = createRpzRule(disguise);
                 }
                 rulesChunks.push(rule);
             });

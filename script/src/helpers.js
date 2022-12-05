@@ -1,5 +1,39 @@
-const dnsPromises = require('dns').promises;
+const { promises: dns } = require('dns');
 const { promises: fs } = require('fs');
+const path = require('path');
+
+const ROOT_DIR_PATH = '../../';
+
+/**
+ * Converts `domain` into adblocker-type basic blocking rule
+ * @param {string} domain
+ * @returns {string}
+ */
+const createBaseRule = (domain) => `||${domain}^`;
+
+/**
+ * Converts domain into hosts-type rule
+ * @param {string} domain
+ * @returns {string}
+ */
+const createHostsRule = (domain) => domain;
+
+/**
+ * Converts domain into RPZ rule
+ * @param {string} domain
+ * @returns {string}
+ */
+const createRpzRule = (domain) => `${domain} CNAME .`;
+
+/**
+ * Writes `fileContent` to `fileName` in library root directory
+ * @param {string} fileName property of CONST_DATA object for required file
+ * @param {object} fileContent writeable data
+ */
+const writeFile = async (fileName, fileContent) => fs.writeFile(
+    path.resolve(__dirname, ROOT_DIR_PATH, fileName),
+    fileContent,
+);
 
 const identity = (el) => el;
 
@@ -92,7 +126,7 @@ const getRemoved = (oldInfo, newInfo) => {
 const resolveCname = async (disguise) => {
     let res;
     try {
-        res = await dnsPromises.resolveCname(disguise);
+        res = await dns.resolveCname(disguise);
     } catch (e) {
         res = null;
     }
@@ -249,6 +283,10 @@ const stashInfoPairs = async (pairs) => {
 };
 
 module.exports = {
+    writeFile,
+    createBaseRule,
+    createHostsRule,
+    createRpzRule,
     identity,
     formatFilename,
     sleep,
