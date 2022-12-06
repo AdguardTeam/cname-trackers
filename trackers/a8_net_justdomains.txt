@@ -47,6 +47,7 @@ a8.fujiorganics.com
 a8.gaizyu-taiji.com
 a8.geo-online.co.jp
 a8.gigalee.com
+a8.global-mobility-service.com
 a8.hakata-hisamatsu.net
 a8.haptic.co.jp
 a8.heart-denpo.com
@@ -108,6 +109,7 @@ a8.shikigaku.jp
 a8.shizq.store
 a8.shokubun.net
 a8.shop.km-link.jp
+a8.shop.tsukijiwadatsumi.com
 a8.shopserve.jp
 a8.skill-crowd.com
 a8.smakids.com
@@ -146,6 +148,7 @@ a8clk.1osechi.com
 a8clk.account.matsui.co.jp
 a8clk.adventkk.co.jp
 a8clk.alljewelry.jp
+a8clk.amelia.ne.jp
 a8clk.ands-tech.com
 a8clk.ap.livede55.com
 a8clk.app.offerbox.jp
@@ -186,6 +189,7 @@ a8clk.fuku-chan.jp
 a8clk.grirose.jp
 a8clk.guruyaku.jp
 a8clk.hags-ec.com
+a8clk.hikakaku.com
 a8clk.hoken-minaoshi-lab.jp
 a8clk.hotman-onlineshop.com
 a8clk.hozon.sp-site.jp
@@ -283,6 +287,7 @@ a8clk.xn--t8jx01hmvbgye566gd1f.com
 a8clk.xserver.ne.jp
 a8clk.ykd.co.jp
 a8clk.yourmystar.jp
+a8clk.zigen-shop.com
 a8cllk.arahataen.com
 a8cname.nj-e.jp
 a8cv.1-class.jp
@@ -306,6 +311,7 @@ a8cv.biken-mall.jp
 a8cv.bizcomfort.jp
 a8cv.bonaventura.shop
 a8cv.brandeuse.jp
+a8cv.brandnet.info
 a8cv.brassiere-shorts.jp
 a8cv.broadbandservice.jp
 a8cv.busbookmark.jp
@@ -371,6 +377,8 @@ a8cv.kurashi-bears.com
 a8cv.kyotokimono-rental.com
 a8cv.lear-caree.com
 a8cv.lyprinol.jp
+a8cv.madoguchi.com
+a8cv.mansiontech.com
 a8cv.mashumaro-bra.com
 a8cv.mcc-lazer-hr.com
 a8cv.members.race.sanspo.com
@@ -401,6 +409,7 @@ a8cv.orbis.co.jp
 a8cv.otakudathough.com
 a8cv.p-antiaging.com
 a8cv.paidy.com
+a8cv.pilates-k.jp
 a8cv.pocket-sommelier.com
 a8cv.presence.jp
 a8cv.quattrocart.com
@@ -506,6 +515,7 @@ ad.rejichoice.jp
 ada8-2.ampleur.jp
 af.total-marriage.com
 afcv.champ-shop.com
+affiliate.petitwedding.com
 afi.biyou.web-marketing.ai
 afi.school.web-marketing.ai
 afi.sougou.web-marketing.ai
@@ -562,4 +572,5 @@ cv1.start-eo.jp
 cv1.stefany.co.jp
 kaden.netoff.co.jp
 track.craudia.com
+tracking.196189.com
 web.nuro-life.com

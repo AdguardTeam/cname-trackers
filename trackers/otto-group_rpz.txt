@@ -8,6 +8,7 @@ te.ackermann.ch CNAME .
 te.ambria.de CNAME .
 te.baur.de CNAME .
 te.creation-l.de CNAME .
+te.frankonia.at CNAME .
 te.frankonia.com CNAME .
 te.frankonia.de CNAME .
 te.frankoniamoda.ch CNAME .

@@ -127,6 +127,7 @@ tr.contact.thelist-emirates.fr CNAME .
 tr.contrat.location.boulanger.com CNAME .
 tr.contrats.cetelem.fr CNAME .
 tr.contrats.cofinoga.fr CNAME .
+tr.corporate.moethennessy.com CNAME .
 tr.courriel.mae.fr CNAME .
 tr.courriel.ouestnormandie.cci.fr CNAME .
 tr.courrier.charentelibre.fr CNAME .
@@ -266,6 +267,7 @@ tr.info.maxis-gbn.com CNAME .
 tr.info.mcgarrybowen.com CNAME .
 tr.info.mdbp.fr CNAME .
 tr.info.mobibam.com CNAME .
+tr.info.np6.fr CNAME .
 tr.info.offres-cartegie.fr CNAME .
 tr.info.onboarding.corporatecards.bnpparibas CNAME .
 tr.info.phsolidaire-bpifrance.fr CNAME .
@@ -329,6 +331,7 @@ tr.mailing.achatpublic.com CNAME .
 tr.mailing.lvmhappening.com CNAME .
 tr.mailingnp6.lavoirmoderne.com CNAME .
 tr.mailmp.macif.net CNAME .
+tr.mailperf.institut-de-la-protection-sociale.fr CNAME .
 tr.mailperformance.fr CNAME .
 tr.maisonsdumonde.com CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
@@ -445,6 +448,7 @@ tr.news.mdbp.fr CNAME .
 tr.news.meillandrichardier.com CNAME .
 tr.news.mi-oferta.es CNAME .
 tr.news.mon-horoscope.info CNAME .
+tr.news.monvoyant.fr CNAME .
 tr.news.mperformance.fr CNAME .
 tr.news.normandie.cci.fr CNAME .
 tr.news.ocs.fr CNAME .
@@ -462,6 +466,7 @@ tr.news.styles.lexpress.fr CNAME .
 tr.news.supercasino.fr CNAME .
 tr.news.teklifim.pro CNAME .
 tr.news.thelist-emirates.fr CNAME .
+tr.news.themedtechforum.eu CNAME .
 tr.news.tiptel.fr CNAME .
 tr.news.toocampmail.com CNAME .
 tr.news.toute-la-franchise.com CNAME .
@@ -489,6 +494,7 @@ tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
 tr.newsletter.ecig-privee.fr CNAME .
 tr.newsletter.erenumerique.fr CNAME .
+tr.newsletter.fotodiscount.com CNAME .
 tr.newsletter.huilesdolive.fr CNAME .
 tr.newsletter.jowae.com CNAME .
 tr.newsletter.lafabriqueaviva.fr CNAME .
@@ -506,6 +512,7 @@ tr.newsletter.roger-gallet.com CNAME .
 tr.newsletter.tiragephoto.fr CNAME .
 tr.newsletter.younited-credit.com CNAME .
 tr.newsletterpagesjaunes.fr CNAME .
+tr.newsletters-bonpoint.com CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
 tr.newsletters.youmeetings.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .
@@ -533,6 +540,7 @@ tr.notification.credit-moderne.fr CNAME .
 tr.notification.norrsken.fr CNAME .
 tr.np6.com CNAME .
 tr.np6.orange.fr CNAME .
+tr.observatoire.musee-orangerie.fr CNAME .
 tr.observatoire.musee-orsay.fr CNAME .
 tr.ofertas-companeo.es CNAME .
 tr.offer-companeo.co.uk CNAME .
@@ -596,6 +604,7 @@ tr.service-mail.carrefour.fr CNAME .
 tr.serviceclient.adagcaladoise.fr CNAME .
 tr.serviceclient.bf-depannage.fr CNAME .
 tr.serviceclient.depanchauffageservice.fr CNAME .
+tr.serviceclient.effica-service.fr CNAME .
 tr.serviceclient.gazservicerapide.fr CNAME .
 tr.serviceclient.ochauffage.fr CNAME .
 tr.serviceclient.somgaz.fr CNAME .
@@ -667,6 +676,7 @@ tr5.mailperf.com CNAME .
 tr5.mperf.com CNAME .
 tracking.allopneus.com CNAME .
 trpreviews.bp01.net CNAME .
+www.fodgfip.fr CNAME .
 www.newsletter.banquepopulaire.fr CNAME .
 ;
 ; form.bp01.net disguised trackers
@@ -675,4 +685,7 @@ cotemaison.np6.com CNAME .
 f1.mailperf.com CNAME .
 f1.mailperformance.com CNAME .
 f1.np6.com CNAME .
+;
+; f1.mailperformance.com disguised trackers
+;
 lbv5.mperf.com CNAME .

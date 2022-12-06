@@ -86,6 +86,7 @@ assets1.terrischeer.com.au CNAME .
 assets1.vanz.vero.co.nz CNAME .
 assets1.vero.co.nz CNAME .
 assets1.vero.com.au CNAME .
+attribution.grasshoppers.com CNAME .
 attribution.saucony.com CNAME .
 attribution.sperry.com CNAME .
 attribution.tescomobile.com CNAME .
@@ -194,6 +195,7 @@ mjt.lacoste.com CNAME .
 msft-frcmo.activate.ensighten.com CNAME .
 nexus.ensighten.tiaa.org CNAME .
 nexus.mbna.ca CNAME .
+nexus.td.com CNAME .
 nexus.toyota.com CNAME .
 nexus.virginholidays.co.uk CNAME .
 p.pulse.buyatoyota.com CNAME .

@@ -8,6 +8,7 @@
     * bild01.webtrekk.net
     * cbm02.webtrekk.net
     * cosmos01ssl.webtrekk.net
+    * distrelec-02.webtrekk.net
     * eads-com01.webtrekk.net
     * emeza-ch01.webtrekk.net
     * emeza-com01.webtrekk.net
@@ -235,6 +236,8 @@
 | mit.db.com | 286813086616891.wt-eu02.net |
 | backup.data.srf.ch | 292330999892453.wt-eu02.net |
 | data.srf.ch | 292330999892453.wt-eu02.net |
+| foro.data.srf.ch | 292330999892453.wt-eu02.net |
+| lax.data.srf.ch | 292330999892453.wt-eu02.net |
 | nov.data.srf.ch | 292330999892453.wt-eu02.net |
 | s5.data.srf.ch | 292330999892453.wt-eu02.net |
 | data.mapp.com | 292595354576025.wt-eu02.net |
@@ -268,6 +271,7 @@
 | mit.bhw.de | 444170171787319.wt-eu02.net |
 | wbtrkk.teufelaudio.it | 451504046304293.wt-eu02.net |
 | a.deutschehospitality.com | 467808562573270.wt-eu02.net |
+| webt.aqipa.com | 470719744966924.wt-eu02.net |
 | webt.eleonto.com | 470719744966924.wt-eu02.net |
 | webt.eu.teac-audio.com | 470719744966924.wt-eu02.net |
 | webt.pure.com | 470719744966924.wt-eu02.net |
@@ -383,6 +387,7 @@
 | di.ifolor.fi | di.ifolor.wt-eu02.net |
 | di.ifolor.it | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
+| wt.distrelec.com | distrelec-02.webtrekk.net |
 | pix.eads.com | eads-com01.webtrekk.net |
 | track.emeza.ch | emeza-ch01.webtrekk.net |
 | track.emeza.com | emeza-com01.webtrekk.net |

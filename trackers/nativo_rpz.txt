@@ -22,6 +22,7 @@ www.realworldsurvivor.com CNAME .
 1723cba717.8592fb1c1d.com CNAME .
 1795105253.e02fe0d0c1.com CNAME .
 19364edf69.b88f1c5cda.com CNAME .
+1ed960d6ad.fa479896c7.com CNAME .
 20cbc85129.fc455e7809.com CNAME .
 2c9ed85c0b.b2acafb3a3.com CNAME .
 2efa46ca31.da03ab7249.com CNAME .
@@ -38,10 +39,12 @@ www.realworldsurvivor.com CNAME .
 434d80d136.a07d30aaf0.com CNAME .
 46fe7fa264.4d2a483049.com CNAME .
 48c1f78392.31f4ea3b17.com CNAME .
+4909cc6acc.0fc32b5283.com CNAME .
 497a1141f1.23d097de11.com CNAME .
 4e6b62c568.4b31707500.com CNAME .
 4fc89cba3d.e67df3f29d.com CNAME .
 53f90ea18c.ad64463ef9.com CNAME .
+55bff2103f.f451b7f622.com CNAME .
 5691f27b38.77176d9509.com CNAME .
 597eb96e9c.299f70c6b2.com CNAME .
 5ab3edc5c1.342c15527e.com CNAME .
@@ -91,6 +94,7 @@ b050e41b1a.3c92e2040f.com CNAME .
 b58c767c1d.0be2be6d31.com CNAME .
 b6e9a8ce8a.85c0a6a0ea.com CNAME .
 b814e3570f.0fd94232df.com CNAME .
+b9aa96f359.c685ad29ce.com CNAME .
 babcca7fba.dca8d1600b.com CNAME .
 bcdb664dff.0d356de9ef.com CNAME .
 bd2bc05960.47daeb1eac.com CNAME .
@@ -132,7 +136,6 @@ fe8d4b33c2.8abf43d6ad.com CNAME .
 ;
 ; postrelease.com disguised trackers
 ;
-nj.finegardening.com CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 ;
@@ -141,6 +144,7 @@ shared.sponsoredcontent.com CNAME .
 a135.wftv.com CNAME .
 csoonline.share.ntv.io CNAME .
 entrepreneur.share.ntv.io CNAME .
+nj.finegardening.com CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 ;

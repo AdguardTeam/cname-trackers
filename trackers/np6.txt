@@ -127,6 +127,7 @@
 ||tr.contrat.location.boulanger.com^
 ||tr.contrats.cetelem.fr^
 ||tr.contrats.cofinoga.fr^
+||tr.corporate.moethennessy.com^
 ||tr.courriel.mae.fr^
 ||tr.courriel.ouestnormandie.cci.fr^
 ||tr.courrier.charentelibre.fr^
@@ -266,6 +267,7 @@
 ||tr.info.mcgarrybowen.com^
 ||tr.info.mdbp.fr^
 ||tr.info.mobibam.com^
+||tr.info.np6.fr^
 ||tr.info.offres-cartegie.fr^
 ||tr.info.onboarding.corporatecards.bnpparibas^
 ||tr.info.phsolidaire-bpifrance.fr^
@@ -329,6 +331,7 @@
 ||tr.mailing.lvmhappening.com^
 ||tr.mailingnp6.lavoirmoderne.com^
 ||tr.mailmp.macif.net^
+||tr.mailperf.institut-de-la-protection-sociale.fr^
 ||tr.mailperformance.fr^
 ||tr.maisonsdumonde.com^
 ||tr.marg02n.espmp-agfr.net^
@@ -445,6 +448,7 @@
 ||tr.news.meillandrichardier.com^
 ||tr.news.mi-oferta.es^
 ||tr.news.mon-horoscope.info^
+||tr.news.monvoyant.fr^
 ||tr.news.mperformance.fr^
 ||tr.news.normandie.cci.fr^
 ||tr.news.ocs.fr^
@@ -462,6 +466,7 @@
 ||tr.news.supercasino.fr^
 ||tr.news.teklifim.pro^
 ||tr.news.thelist-emirates.fr^
+||tr.news.themedtechforum.eu^
 ||tr.news.tiptel.fr^
 ||tr.news.toocampmail.com^
 ||tr.news.toute-la-franchise.com^
@@ -489,6 +494,7 @@
 ||tr.newsletter.capdecision.fr^
 ||tr.newsletter.ecig-privee.fr^
 ||tr.newsletter.erenumerique.fr^
+||tr.newsletter.fotodiscount.com^
 ||tr.newsletter.huilesdolive.fr^
 ||tr.newsletter.jowae.com^
 ||tr.newsletter.lafabriqueaviva.fr^
@@ -506,6 +512,7 @@
 ||tr.newsletter.tiragephoto.fr^
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletterpagesjaunes.fr^
+||tr.newsletters-bonpoint.com^
 ||tr.newsletters.odalys-vacances.com^
 ||tr.newsletters.youmeetings.com^
 ||tr.newsmarketing.allopneus.com^
@@ -533,6 +540,7 @@
 ||tr.notification.norrsken.fr^
 ||tr.np6.com^
 ||tr.np6.orange.fr^
+||tr.observatoire.musee-orangerie.fr^
 ||tr.observatoire.musee-orsay.fr^
 ||tr.ofertas-companeo.es^
 ||tr.offer-companeo.co.uk^
@@ -596,6 +604,7 @@
 ||tr.serviceclient.adagcaladoise.fr^
 ||tr.serviceclient.bf-depannage.fr^
 ||tr.serviceclient.depanchauffageservice.fr^
+||tr.serviceclient.effica-service.fr^
 ||tr.serviceclient.gazservicerapide.fr^
 ||tr.serviceclient.ochauffage.fr^
 ||tr.serviceclient.somgaz.fr^
@@ -667,6 +676,7 @@
 ||tr5.mperf.com^
 ||tracking.allopneus.com^
 ||trpreviews.bp01.net^
+||www.fodgfip.fr^
 ||www.newsletter.banquepopulaire.fr^
 !
 ! form.bp01.net disguised trackers
@@ -675,4 +685,7 @@
 ||f1.mailperf.com^
 ||f1.mailperformance.com^
 ||f1.np6.com^
+!
+! f1.mailperformance.com disguised trackers
+!
 ||lbv5.mperf.com^

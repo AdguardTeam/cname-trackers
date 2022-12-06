@@ -22,6 +22,7 @@
 ||1723cba717.8592fb1c1d.com^
 ||1795105253.e02fe0d0c1.com^
 ||19364edf69.b88f1c5cda.com^
+||1ed960d6ad.fa479896c7.com^
 ||20cbc85129.fc455e7809.com^
 ||2c9ed85c0b.b2acafb3a3.com^
 ||2efa46ca31.da03ab7249.com^
@@ -38,10 +39,12 @@
 ||434d80d136.a07d30aaf0.com^
 ||46fe7fa264.4d2a483049.com^
 ||48c1f78392.31f4ea3b17.com^
+||4909cc6acc.0fc32b5283.com^
 ||497a1141f1.23d097de11.com^
 ||4e6b62c568.4b31707500.com^
 ||4fc89cba3d.e67df3f29d.com^
 ||53f90ea18c.ad64463ef9.com^
+||55bff2103f.f451b7f622.com^
 ||5691f27b38.77176d9509.com^
 ||597eb96e9c.299f70c6b2.com^
 ||5ab3edc5c1.342c15527e.com^
@@ -91,6 +94,7 @@
 ||b58c767c1d.0be2be6d31.com^
 ||b6e9a8ce8a.85c0a6a0ea.com^
 ||b814e3570f.0fd94232df.com^
+||b9aa96f359.c685ad29ce.com^
 ||babcca7fba.dca8d1600b.com^
 ||bcdb664dff.0d356de9ef.com^
 ||bd2bc05960.47daeb1eac.com^
@@ -132,7 +136,6 @@
 !
 ! postrelease.com disguised trackers
 !
-||nj.finegardening.com^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 !
@@ -141,6 +144,7 @@
 ||a135.wftv.com^
 ||csoonline.share.ntv.io^
 ||entrepreneur.share.ntv.io^
+||nj.finegardening.com^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 !

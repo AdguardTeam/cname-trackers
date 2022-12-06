@@ -19,6 +19,7 @@
 | app.willalland.info | api.clickaine.com |
 | asg.animeyt.es | api.clickaine.com |
 | asg.scanscloud.xyz | api.clickaine.com |
+| c0n.snaggys.com | api.clickaine.com |
 | c2n.pornez.net | api.clickaine.com |
 | c4n.21hub.com | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |

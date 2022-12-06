@@ -12,6 +12,7 @@
 ||affi.veronikahronkova.cz^
 ||affil.alkohol.cz^
 ||affil.atan.cz^
+||affil.autonaklik.cz^
 ||affil.avenatura.sk^
 ||affil.bitdef.cz^
 ||affil.blaire.cz^
@@ -52,6 +53,7 @@
 ||affil.stronger-shop.cz^
 ||affil.svj-info.cz^
 ||affil.tadytuto.cz^
+||affil.triko4u.cz^
 ||affil.unuo.cz^
 ||affil.unuo.sk^
 ||affil.upcr.cz^
@@ -93,12 +95,14 @@
 ||affiliate.designshoes.cz^
 ||affiliate.diana-company.cz^
 ||affiliate.diana-company.sk^
+||affiliate.diatomplus.cz^
 ||affiliate.dmxgear.cz^
 ||affiliate.domoss.sk^
 ||affiliate.easylingo.com^
 ||affiliate.easyproject.com^
 ||affiliate.easyproject.cz^
 ||affiliate.easyredmine.com^
+||affiliate.ehotel.cz^
 ||affiliate.elektronickeobojkypropsy.cz^
 ||affiliate.elisdesign.cz^
 ||affiliate.epohledavky.cz^
@@ -139,6 +143,7 @@
 ||affiliate.montessorihracky.cz^
 ||affiliate.montessorikurz.cz^
 ||affiliate.nakladatelstvi-riva.cz^
+||affiliate.nalepime.cz^
 ||affiliate.nejfotopasti.cz^
 ||affiliate.nomind.cz^
 ||affiliate.notifikuj.cz^
@@ -165,6 +170,7 @@
 ||affiliate.smsticket.cz^
 ||affiliate.snowbitch.cz^
 ||affiliate.socialsprinters.cz^
+||affiliate.stips.cz^
 ||affiliate.svarecky-obchod.cz^
 ||affiliate.svetbot.cz^
 ||affiliate.terarijni-potreby.cz^
@@ -208,6 +214,7 @@
 ||my.11teamsports.sk^
 ||my.fr.top4fitness.be^
 ||my.fr.top4running.be^
+||my.top4fitness.at^
 ||my.top4fitness.be^
 ||my.top4fitness.bg^
 ||my.top4fitness.com^
@@ -279,6 +286,7 @@
 ||partner.babysigns.cz^
 ||partner.bandana.cz^
 ||partner.barnaby.cz^
+||partner.bebidas.cz^
 ||partner.bilynabytek.cz^
 ||partner.bio-nehty.cz^
 ||partner.bioaromakosmetika.cz^
@@ -294,6 +302,7 @@
 ||partner.cbdstar.cz^
 ||partner.cebia.com^
 ||partner.ceskeghicko.cz^
+||partner.cestakesnu.cz^
 ||partner.chcivedet.com^
 ||partner.chevronnutrition.cz^
 ||partner.chiashake.cz^
@@ -455,6 +464,7 @@
 ||partneri.heavytamper.cz^
 ||partneri.jakofenix.cz^
 ||partneri.jazykovedarky.cz^
+||partneri.jazykyodpiky.cz^
 ||partneri.kerasek.cz^
 ||partneri.kimgroup.cz^
 ||partneri.kuptorazdva.cz^
@@ -510,6 +520,7 @@
 ||provize.radynacestu.cz^
 ||provize.vybavenifitness.cz^
 ||provizia.mimulo.sk^
+||proviznisystem.kanclir.cz^
 ||rek.rybizak.cz^
 ||special.kvetinyexpres.cz^
 ||spoluprace.blackkale.cz^

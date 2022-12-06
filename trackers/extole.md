@@ -129,6 +129,7 @@
     * codecademy.extole.io
     * columbiacu.extole.io
     * comfortzoneskin.extole.io
+    * competitivecyclist.extole.io
     * conceiveabilities.extole.io
     * cos-bar.extole.io
     * coupon-cabin.extole.io
@@ -148,6 +149,7 @@
     * esteelauder.extole.io
     * etrade.extole.io
     * everlywell.extole.io
+    * evine.extole.io
     * experian.extole.io
     * extoleu.extole.io
     * fetchpet.extole.io
@@ -228,6 +230,7 @@
     * ninja-kitchen.extole.io
     * obagi.extole.io
     * olehenriksen.extole.io
+    * ollocard.extole.io
     * opploans.extole.io
     * orbitz.extole.io
     * origins.extole.io
@@ -239,6 +242,7 @@
     * petsbest.extole.io
     * pimsleur.extole.io
     * policygenius.extole.io
+    * popcorn-factory.extole.io
     * prokeds.extole.io
     * promofarma.extole.io
     * propark.extole.io
@@ -269,6 +273,7 @@
     * sizigi.extole.io
     * skinceuticals.extole.io
     * skyone-federal-credit-union.extole.io
+    * sleepnumber.extole.io
     * soma.extole.io
     * spothero.extole.io
     * starbucks.extole.io
@@ -300,6 +305,7 @@
     * under-armour-3.extole.io
     * under-armour-4.extole.io
     * uniqlo.extole.io
+    * vayasleep.extole.io
     * veo.extole.io
     * veritycu.extole.io
     * vichy.extole.io
@@ -413,6 +419,7 @@
 | refer.codecademy.com | codecademy.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
 | refer.comfortzoneskin.com | comfortzoneskin.extole.io |
+| refer.competitivecyclist.com | competitivecyclist.extole.io |
 | refer.compexusa.com | compexusa.extole.com |
 | share.conceiveabilities.com | conceiveabilities.extole.io |
 | share.cosbar.com | cos-bar.extole.io |
@@ -442,6 +449,7 @@
 | share.esteelauder.com.tw | esteelauder.extole.io |
 | refer.etrade.net | etrade.extole.io |
 | refer.everlywell.com | everlywell.extole.io |
+| share.evine.com | evine.extole.io |
 | refer1.experian.com | experian.extole.io |
 | jessica-test-numero-dos.extoleu.com | extoleu.extole.io |
 | share.fetchpet.com | fetchpet.extole.io |
@@ -547,6 +555,7 @@
 | refer.nvidia.com | nvidia-ssl.extole.com |
 | share.obagi.com | obagi.extole.io |
 | refer.olehenriksen.com | olehenriksen.extole.io |
+| share.ollocard.com | ollocard.extole.io |
 | share.opploans.com | opploans.extole.io |
 | refer.orbitz.com | orbitz.extole.io |
 | share.origins.com | origins.extole.io |
@@ -562,6 +571,7 @@
 | share.petsbest.com | petsbest.extole.io |
 | refer.pimsleur.com | pimsleur.extole.io |
 | share.policygenius.com | policygenius.extole.io |
+| refer.thepopcornfactory.com | popcorn-factory.extole.io |
 | refer.prokeds.com | prokeds.extole.io |
 | share.docmorris.fr | promofarma.extole.io |
 | share.promofarma.com | promofarma.extole.io |
@@ -590,6 +600,7 @@
 | refer.saatva.com | saatvamattress.extole.io |
 | refer.saatvadreams.com | saatvamattress.extole.io |
 | refer.saatvamattress.com | saatvamattress.extole.io |
+| refer.zenhaven.com | saatvamattress.extole.io |
 | refer.sage.com | sage-ssl.extole.com |
 | share.na.sage.com | sageca-ssl.extole.com |
 | share.saintjanebeauty.com | saintjanebeauty.extole.io |
@@ -605,6 +616,7 @@
 | go.joinsizigi.com | sizigi.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | refer.skyone.org | skyone-federal-credit-union.extole.io |
+| refer.sleepnumber.com | sleepnumber.extole.io |
 | refer.soma.com | soma.extole.io |
 | refer.sperry.com | sperry.extole.com |
 | refer.spothero.com | spothero.extole.io |
@@ -649,6 +661,7 @@
 | refer.underarmour.fr | under-armour-4.extole.io |
 | refer.unionplus.org | unionprivilege-ssl.extole.com |
 | refer-us.uniqlo.com | uniqlo.extole.io |
+| refer.vayasleep.com | vayasleep.extole.io |
 | share.veo.co | veo.extole.io |
 | refer.verabradley.com | verabradley.extole.com |
 | share.veritycu.com | veritycu.extole.io |

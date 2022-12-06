@@ -38,6 +38,7 @@ w3.flatex.de
 w3.flatex.nl
 w3.vitrade.de
 webts.adac.de
+wt.distrelec.com
 #
 # wt-eu02.net disguised trackers
 #
@@ -126,6 +127,7 @@ ed.large.nl
 eht.endress.com
 fiwinet.firmenwissen.com
 fiwinet.firmenwissen.de
+foro.data.srf.ch
 hbbtv-track.prosieben.de
 hbbtv-track.prosiebensat1puls4.com
 img.foodspring.de
@@ -135,6 +137,7 @@ img.foodspring.it
 img.foodspring.se
 intelligence.officialwesthamstore.com
 is.lg.com
+lax.data.srf.ch
 mapp.ewm.co.uk
 mapp.jysk.dk
 mapp.jysk.nl
@@ -289,6 +292,7 @@ web.tummytox.sk
 web.x.ilpost.it
 webmet.creditreform.de
 website-usage.knorr-bremse.com
+webt.aqipa.com
 webt.eleonto.com
 webt.eu.teac-audio.com
 webt.pure.com

@@ -48,6 +48,8 @@ cdn.zxclan.com
 aardvark.helpingpets.org.uk
 aardvark.mission-austria.at
 aardvark.revolana.rs
+aardvark.tonicaudio.com
+aardwolf.benbrignell.com
 aardwolf.chrisblackwell.me
 aardwolf.keygen.sh
 aardwolf.relaycorp.tech
@@ -59,6 +61,7 @@ alligator.remotecyberwork.com
 alpaca.miidbaby.com
 alpaca.reclaimthenet.org
 alpaca.thesocialmedwork.com
+alpaca.wingmantracker.com
 am2lma0ay.xrpmerchstore.com
 amphibian.juergenhaller.at
 amphibian.pinestc.com
@@ -105,13 +108,16 @@ bandicoot.mohit.dev
 barracuda.ottsysteme.rs
 basilisk.community-arts.net
 basilisk.laosima.com
+bass.alfrednerstu.com
 bass.kathryncallaghan.co.uk
 bass.kidneystonediet.com
 bass.slugnews.com
 bass.taivo.ai
 bat.heelix.be
+bear.big.dk
 bear.datingrelationshipsadvice.com
 bear.jake.nyc
+bear.modulr.design
 beaver.bluebunnypaper.com
 beaver.livechatlabs.com
 bedbug.bragi.com
@@ -206,10 +212,12 @@ cheetah.songrender.com
 chickadee.hispanicinjobs.com
 chickadee.mikebifulco.com
 chicken.alpla.info
+chicken.clerklabs.com
 chicken.couleur.io
 chicken.tjsoler.dev
 chicken.zwei.haus
 chimpanzee.designerdailyreport.com
+chimpanzee.ines-papert.com
 chinchilla.68keys.io
 chinchilla.christinefontaine.com
 chinchilla.ubclaunchpad.com
@@ -438,6 +446,7 @@ kingfisher.gedaly.com
 kingfisher.startupdemoday.live
 kite.devin.website
 kite.ibirthdayclub.com
+kite.launchcdn.com
 kite.oakes.software
 kite.ofenbau-voppichler.at
 kiwi.emilkowal.ski
@@ -447,6 +456,7 @@ koala.mynestbox.co.uk
 koala.quantumfirelabs.com
 koala.readyfive.io
 koi.artsvp.co
+koi.fftf.cat
 koi.lkae.dev
 koi.valleywestlandscapes.com
 ks42zt.spec.fm
@@ -498,6 +508,7 @@ lynx.microl.ink
 lynx.sbstjn.com
 lynx.simpleparish.com
 macaw.ianmitchell.dev
+mackerel.fathom.cat
 mackerel.getthenest.io
 mammal.autoidle.com
 mammal.robholmes.app
@@ -510,6 +521,7 @@ marmot.ivymayhem.io
 marmot.theshootingcentre.com
 marsupial.dbcontractingltd.ca
 marten.countertype.com
+marten.emperor-creative.com
 mastodon.internalnewsletters.co
 mastodon.thrustcarbon.com
 meadowlark.bump.sh
@@ -585,6 +597,7 @@ parrotfish.wilderworld.com
 partridge.printcardinal.com
 partridge.unfamiliar.land
 peacock.davidlevai.com
+peacock.tourismtuneup.com
 peafowl.ozspurs.com
 peafowl.projectstrackt.dev
 pelican.protomaps.com
@@ -640,6 +653,7 @@ quokka.joshuawood.net
 rabbit.llresearch.org
 rabbit.radicalxchange.org
 rabbit.upwardhomes.net
+raccoon.donateflow.com
 raccoon.jaronheard.com
 rat.gimlet.io
 raven.ido-data.fr
@@ -656,6 +670,7 @@ rook.behmann.at
 rook.flowlens.com
 rook.moodgym.de
 rooster.ohqcloud.com
+roundworm.womeninjobs.com
 sailfish.hoap.com
 sailfish.kentcdodds.com
 salamander.laboucheriebio.com
@@ -669,8 +684,10 @@ scallop.vav.link
 scorpion.indexforwp.com
 scorpion.smskmail.com
 seahorse.dexterityvisuals.com
+seahorse.okse.no
 silkworm.energizergrouplegal.com
 silkworm.westwoodmbc.org
+silverfish.trustduty.com
 skink.madewithlove.com
 sloth.vguerrerobosch.com
 smelt.allenpike.com
@@ -680,11 +697,13 @@ sparrow.uitvaartzorg-vanraemdonck.be
 sparrow.workingincontent.com
 spider.privacyone.io
 spider.scottw.com
+spoonbill.memberkit.com.br
 squid.adart.cc
 squirrel.laravel-mix.com
 starman.fathomdns.com
 stingray.reform.app
 stoat.death-to-ie11.com
+stork.ibite.company
 swallow.axiom.co
 swallow.pelias.io
 swift.avenue.so
@@ -692,6 +711,7 @@ swift.jos.ht
 swordfish.holzschuhe.at
 swordfish.hotcross.com
 swordtail.thocstock.com
+tahr.componentsui.com
 tahr.rasen.dev
 takin.revolana.fr
 tarantula.hashicorp.com
@@ -699,16 +719,19 @@ tarantula.tuxedo.media
 tick.pcrpriser.se
 tigershark.moonpot.com
 tiglon.beyondco.de
+tiglon.davidroessli.com
 tiglon.orisdental.no
+toad.frontendmentor.io
 tortoise.mdx.one
 tortoise.transistor.fm
 treefrog.kaffeknappen.no
+treefrog.tschmeisser.com
 trout.travelmassive.com
 turkey.tella.tv
 uktgg.dev-tester.com
 vampirebat.git-tower.com
-vampirebat.jake8n.com
 vampirebat.swingnsail.com
+vicuna.casa-moebel.at
 vicuna.redwoodcity.bike
 viper.sitesauce.app
 vole.contemporaryartlibrary.org
@@ -726,12 +749,14 @@ waterboa.brooks.page
 waterboa.midu.dev
 weasel.accomplice.ai
 weasel.madebytune.be
+whitefish.finanzritter.com
 whitefish.kenku.fm
 wildcat.fspy.io
 wildcat.longviewforecasting.com
 wildcat.vivritiamc.com
 wildebeest.soft-spoken.dev
 wildfowl.minter.io
+wolf.minecraftserverhosts.com
 wolf.samarasousa.com
 wolverine.barac.at
 wolverine.jhdierenklinieken.nl
@@ -746,13 +771,6 @@ yak.auclantis.com
 yak.embeddedartistry.com
 yak.giftme.today
 zebra.lasantisimagourmet.com
-#
-# starman.fathomdns.com disguised trackers
-#
-aardvark.tonicaudio.com
-alpaca.wingmantracker.com
-vampirebat.git-tower.com
-waterboa.midu.dev
 #
 # bs-adserver.b-cdn.net disguised trackers
 #
@@ -820,5 +838,10 @@ dntcl.qualaroo.com
 hp-laserjet.printer-repair-experts.net
 log.ads-m.net
 media.adstatic.com
+sp.hgscosmetics.com
 sp.pakibanks.com
 zonaprotetta-ch.cdn.easymanager.ch
+#
+# starman.fathomdns.com disguised trackers
+#
+waterboa.midu.dev

@@ -23,6 +23,7 @@
 3164763.notifysrv.com CNAME .
 3164793.notifysrv.com CNAME .
 3165183.notifysrv.com CNAME .
+3165353.notify6.com CNAME .
 3165353.notifysrv.com CNAME .
 3165403.notifysrv.com CNAME .
 3165463.notifysrv.com CNAME .
@@ -476,6 +477,7 @@
 3768747.notify6.com CNAME .
 3878176.notify6.com CNAME .
 3881818.notify6.com CNAME .
+3884584.notify6.com CNAME .
 3943940.notify6.com CNAME .
 3944044.notify6.com CNAME .
 3944974.notify6.com CNAME .
@@ -499,6 +501,7 @@
 4004928.notify6.com CNAME .
 4093684.notify6.com CNAME .
 4144426.notify6.com CNAME .
+4195738.notify6.com CNAME .
 4243868.notify6.com CNAME .
 4259086.notify6.com CNAME .
 4260738.notify6.com CNAME .
@@ -529,6 +532,7 @@
 4470554.notify6.com CNAME .
 4476670.notify6.com CNAME .
 4523610.notify6.com CNAME .
+4527824.notify6.com CNAME .
 4539496.notify6.com CNAME .
 4576708.notify6.com CNAME .
 4587228.notify6.com CNAME .
@@ -554,19 +558,11 @@
 4836762.notify6.com CNAME .
 4837950.notify6.com CNAME .
 4841896.notify6.com CNAME .
-4842686.notify6.com CNAME .
-4844530.notify6.com CNAME .
-4849836.notify6.com CNAME .
-535.notify.optimizesrv.com CNAME .
-5602.notify.optimizesrv.com CNAME .
-577.notify.optimizesrv.com CNAME .
-583.notify.optimizesrv.com CNAME .
-a.asvsm.com CNAME .
 a.etology.com CNAME .
+api.adnation.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 m.hsrve.com CNAME .
-m.optnx.com CNAME .
 main.exdynsrv.com CNAME .
 main.exoclick.com CNAME .
 main.exosrv.com CNAME .
@@ -575,16 +571,12 @@ origin-ads.exosrv.com CNAME .
 origin-ads.optimizesrv.com CNAME .
 origin-ads.realsrv.com CNAME .
 rtb.exoclick.com CNAME .
-s.adnflow.com CNAME .
-s.afxwa.com CNAME .
 s.eaalink.com CNAME .
 s.elnk4b.com CNAME .
-s.elnkp4.com CNAME .
 s.elns4a.com CNAME .
 s.etology.com CNAME .
 s.exv6.com CNAME .
 s.linkw2e.com CNAME .
-s.linkw2g.com CNAME .
 s.opoxv.com CNAME .
 s.opti-digital.com CNAME .
 s.optidigital.com CNAME .
@@ -592,11 +584,9 @@ s.optnx.com CNAME .
 s.orbsrv.com CNAME .
 s.st1net.com CNAME .
 s.vlink6.com CNAME .
-s.wlink1.com CNAME .
 s.wlink2.com CNAME .
 s.zlink1.com CNAME .
 s.zlink2.com CNAME .
-s.zlink4.com CNAME .
 s.zlink6.com CNAME .
 s.zlink8.com CNAME .
 s.zlink9.com CNAME .
@@ -610,19 +600,9 @@ syndication.epcmk.com CNAME .
 syndication.exdynsrv.com CNAME .
 syndication.exoclick.com CNAME .
 syndication.exosrv.com CNAME .
-syndication.link5a.com CNAME .
-syndication.link5v.com CNAME .
-syndication.linkfryn.com CNAME .
+syndication.link5c.com CNAME .
 syndication.linkgett.com CNAME .
 syndication.linkwitt.com CNAME .
 syndication.optimizesrv.com CNAME .
 syndication.realsrv.com CNAME .
-syndication.whibd.com CNAME .
 syndication.whibp.com CNAME .
-;
-; cds.d6n9n7e2.hwcdn.net disguised trackers
-;
-a.addisplaynetwork.com CNAME .
-a.adnflow.com CNAME .
-a.etology.com CNAME .
-delivery.gettopple.com CNAME .

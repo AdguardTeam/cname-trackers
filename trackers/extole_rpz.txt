@@ -115,6 +115,7 @@ refer.childrensplace.com CNAME .
 refer.cinemark.com CNAME .
 refer.codecademy.com CNAME .
 refer.comfortzoneskin.com CNAME .
+refer.competitivecyclist.com CNAME .
 refer.creativelive.com CNAME .
 refer.cspire.com CNAME .
 refer.embracepetinsurance.com CNAME .
@@ -191,6 +192,7 @@ refer.saucony.com CNAME .
 refer.sharkclean.com CNAME .
 refer.skinceuticals.com CNAME .
 refer.skyone.org CNAME .
+refer.sleepnumber.com CNAME .
 refer.soma.com CNAME .
 refer.spothero.com CNAME .
 refer.starfurniture.com CNAME .
@@ -204,6 +206,7 @@ refer.tatcha.com CNAME .
 refer.taxact.com CNAME .
 refer.terijon.com CNAME .
 refer.thecompanystore.com CNAME .
+refer.thepopcornfactory.com CNAME .
 refer.thesculptsociety.com CNAME .
 refer.twisthair.com CNAME .
 refer.underarmour.co.uk CNAME .
@@ -211,10 +214,12 @@ refer.underarmour.de CNAME .
 refer.underarmour.fr CNAME .
 refer.underarmour.nl CNAME .
 refer.us.davines.com CNAME .
+refer.vayasleep.com CNAME .
 refer.whitehouseblackmarket.com CNAME .
 refer.wine.com CNAME .
 refer.wolverine.com CNAME .
 refer.zazzlereferral.com CNAME .
+refer.zenhaven.com CNAME .
 refer.zipcar.ca CNAME .
 refer.zipcar.com CNAME .
 refer.zomasleep.com CNAME .
@@ -273,6 +278,7 @@ share.dunlopsports.com CNAME .
 share.dutch.com CNAME .
 share.esteelauder.com.au CNAME .
 share.esteelauder.com.tw CNAME .
+share.evine.com CNAME .
 share.fetchpet.com CNAME .
 share.figopetinsurance.com CNAME .
 share.fingercheck.com CNAME .
@@ -304,6 +310,7 @@ share.myollie.com CNAME .
 share.myq.com CNAME .
 share.newtonbaby.com CNAME .
 share.obagi.com CNAME .
+share.ollocard.com CNAME .
 share.opploans.com CNAME .
 share.origins.com CNAME .
 share.partsvu.com CNAME .

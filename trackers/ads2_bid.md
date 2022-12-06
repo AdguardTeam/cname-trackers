@@ -32,6 +32,7 @@
 | di-res.cau1aighae.com | lb.rtb.ads.bid |
 | di-res.iemieshohx.com | lb.rtb.ads.bid |
 | dsp-image-resizer.3grg8dqjil.ru | lb.rtb.ads.bid |
+| dsp-image-resizer.adsbid.ru | lb.rtb.ads.bid |
 | dsp-image-resizer.gamz48qlok.ru | lb.rtb.ads.bid |
 | lk-api-beta.ads2.bid | lb.rtb.ads.bid |
 | vitrina-ad-click.adghndou0sdh.ru | lb.rtb.ads.bid |

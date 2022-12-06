@@ -61,6 +61,7 @@
     * h-8t63q4n4.online-metrix.net
     * h-8uj1s5zr.online-metrix.net
     * h-96ch0zc2.online-metrix.net
+    * h-9bkavv7r.online-metrix.net
     * h-9yw99lm5.online-metrix.net
     * h-9zzsit89.online-metrix.net
     * h-a4nx1etl.online-metrix.net
@@ -72,6 +73,7 @@
     * h-afterpay.online-metrix.net
     * h-ag4c1wpy.online-metrix.net
     * h-agaval.online-metrix.net
+    * h-alliantcreditunion.online-metrix.net
     * h-allstate.online-metrix.net
     * h-alterna.online-metrix.net
     * h-ameriprise.online-metrix.net
@@ -208,6 +210,7 @@
     * h-creditea.online-metrix.net
     * h-crif.online-metrix.net
     * h-crssf8gn-m.online-metrix.net
+    * h-cvps2xwa.online-metrix.net
     * h-cw88rpnh.online-metrix.net
     * h-cybersource.online-metrix.net
     * h-d1kh7jfh.online-metrix.net
@@ -371,6 +374,7 @@
     * h-moneycorp.online-metrix.net
     * h-moneyplace.online-metrix.net
     * h-moni.online-metrix.net
+    * h-mosaic.online-metrix.net
     * h-motusbank.online-metrix.net
     * h-my100bank.online-metrix.net
     * h-my529.online-metrix.net
@@ -611,6 +615,7 @@
 | rba.apata.io | h-8t63q4n4.online-metrix.net |
 | req.secured-content.com | h-8uj1s5zr.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
+| fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
 | dvc0271.play.jackpocket.com | h-9yw99lm5.online-metrix.net |
 | tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
@@ -622,6 +627,7 @@
 | rsx.afterpay.com | h-afterpay.online-metrix.net |
 | lsr22.dzing.finance | h-ag4c1wpy.online-metrix.net |
 | validacionlx.agaval.com | h-agaval.online-metrix.net |
+| cdn.alliantcreditunion.com | h-alliantcreditunion.online-metrix.net |
 | content.allstate.com | h-allstate.online-metrix.net |
 | content.alterna.ca | h-alterna.online-metrix.net |
 | content.alternabank.ca | h-alterna.online-metrix.net |
@@ -789,6 +795,7 @@
 | voto.creditea.com | h-creditea.online-metrix.net |
 | phyon.communipay.net | h-crif.online-metrix.net |
 | img2.bog.ge | h-crssf8gn-m.online-metrix.net |
+| thrm-scrq-0001.crypterium.com | h-cvps2xwa.online-metrix.net |
 | lsprof.comeon.com | h-cw88rpnh.online-metrix.net |
 | tm.cybersource.com | h-cybersource.online-metrix.net |
 | content.sportscheck.com | h-d1kh7jfh.online-metrix.net |
@@ -898,6 +905,7 @@
 | tmt.houzz.com | h-houzz.online-metrix.net |
 | cdntm.firstdirect.com | h-hsbcmx.online-metrix.net |
 | cdntm.hangseng.com | h-hsbcmx.online-metrix.net |
+| cdntm.hsbc.co.in | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.co.uk | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.au | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.hk | h-hsbcmx.online-metrix.net |
@@ -995,6 +1003,7 @@
 | cdn2.moneycorp.com | h-moneycorp.online-metrix.net |
 | cdns.moneyplace.com.au | h-moneyplace.online-metrix.net |
 | content.moni.com.ar | h-moni.online-metrix.net |
+| safe.joinmosaic.com | h-mosaic.online-metrix.net |
 | tmcontent.motusbank.ca | h-motusbank.online-metrix.net |
 | debs.my100bank.com | h-my100bank.online-metrix.net |
 | tmi.my529.org | h-my529.online-metrix.net |
@@ -1105,8 +1114,10 @@
 | tags.bankline.natwest.com | h-rbs-cpb.online-metrix.net |
 | tags.bankline.rbs.com | h-rbs-cpb.online-metrix.net |
 | tags.bankline.ulsterbank.co.uk | h-rbs-cpb.online-metrix.net |
+| tags.bankline.ulsterbank.ie | h-rbs-cpb.online-metrix.net |
 | tags.eq.iombank.com | h-rbsint.online-metrix.net |
 | tags.eq.natwestinternational.com | h-rbsint.online-metrix.net |
+| tags.eq.rbsinternational.com | h-rbsint.online-metrix.net |
 | tm.regionsqa.com | h-regionsbank.online-metrix.net |
 | tm.regionstest.com | h-regionsbank.online-metrix.net |
 | tm.regions.com | h-regionsbank2.online-metrix.net |

@@ -47,6 +47,7 @@
 ||cdn-s.dev.chumbacasino.com^
 ||cdn-s.dev.globalpoker.com^
 ||cdn-s.globalpoker.com^
+||cdn.alliantcreditunion.com^
 ||cdn.bambusystems.com^
 ||cdn.coastcapitalsavings.com^
 ||cdn.gusto.com^
@@ -85,6 +86,7 @@
 ||cdntm.billpay.de^
 ||cdntm.firstdirect.com^
 ||cdntm.hangseng.com^
+||cdntm.hsbc.co.in^
 ||cdntm.hsbc.co.uk^
 ||cdntm.hsbc.com.au^
 ||cdntm.hsbc.com.hk^
@@ -300,6 +302,7 @@
 ||faas.marktplaats.nl^
 ||fdbplnd.zootweb.com^
 ||fdts.ebay-kleinanzeigen.de^
+||fnvma.milanuncios.com^
 ||fp.aion.be^
 ||fp.cdn-scripts.com^
 ||fp.corporatetravelmoney.com^
@@ -454,6 +457,7 @@
 ||rt.wisecartapp.com^
 ||rvw.connection.com^
 ||s4.partner.yoomoney.ru^
+||safe.joinmosaic.com^
 ||sc.liveme.com^
 ||scdn.missionlane.com^
 ||scontent.aquacard.co.uk^
@@ -555,10 +559,12 @@
 ||tags.bankline.natwest.com^
 ||tags.bankline.rbs.com^
 ||tags.bankline.ulsterbank.co.uk^
+||tags.bankline.ulsterbank.ie^
 ||tags.dazn.com^
 ||tags.emirates.com^
 ||tags.eq.iombank.com^
 ||tags.eq.natwestinternational.com^
+||tags.eq.rbsinternational.com^
 ||tags.greenfeatheronline.com^
 ||tags.ipp-services.eu^
 ||tags.natwest.com^
@@ -581,6 +587,7 @@
 ||thm.visa.com^
 ||thm12.visa.com^
 ||thmep.zondaglobal.com^
+||thrm-scrq-0001.crypterium.com^
 ||tm-analytics.bluevine.com^
 ||tm-out.cardinalcommerce.com^
 ||tm.barclays.co.uk^

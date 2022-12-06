@@ -20,12 +20,12 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| nj.finegardening.com | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
 | a135.wftv.com | jadserve.postrelease.com.akadns.net |
 | csoonline.share.ntv.io | jadserve.postrelease.com.akadns.net |
 | entrepreneur.share.ntv.io | jadserve.postrelease.com.akadns.net |
+| nj.finegardening.com | jadserve.postrelease.com.akadns.net |
 | share.ntv.io | jadserve.postrelease.com.akadns.net |
 | shared.sponsoredcontent.com | jadserve.postrelease.com.akadns.net |
 | 02f3427bf4.bac23cfb5b.com | ntvpforever.com |
@@ -42,6 +42,7 @@
 | 1723cba717.8592fb1c1d.com | ntvpforever.com |
 | 1795105253.e02fe0d0c1.com | ntvpforever.com |
 | 19364edf69.b88f1c5cda.com | ntvpforever.com |
+| 1ed960d6ad.fa479896c7.com | ntvpforever.com |
 | 20cbc85129.fc455e7809.com | ntvpforever.com |
 | 2c9ed85c0b.b2acafb3a3.com | ntvpforever.com |
 | 2efa46ca31.da03ab7249.com | ntvpforever.com |
@@ -58,10 +59,12 @@
 | 434d80d136.a07d30aaf0.com | ntvpforever.com |
 | 46fe7fa264.4d2a483049.com | ntvpforever.com |
 | 48c1f78392.31f4ea3b17.com | ntvpforever.com |
+| 4909cc6acc.0fc32b5283.com | ntvpforever.com |
 | 497a1141f1.23d097de11.com | ntvpforever.com |
 | 4e6b62c568.4b31707500.com | ntvpforever.com |
 | 4fc89cba3d.e67df3f29d.com | ntvpforever.com |
 | 53f90ea18c.ad64463ef9.com | ntvpforever.com |
+| 55bff2103f.f451b7f622.com | ntvpforever.com |
 | 5691f27b38.77176d9509.com | ntvpforever.com |
 | 597eb96e9c.299f70c6b2.com | ntvpforever.com |
 | 5ab3edc5c1.342c15527e.com | ntvpforever.com |
@@ -111,6 +114,7 @@
 | b58c767c1d.0be2be6d31.com | ntvpforever.com |
 | b6e9a8ce8a.85c0a6a0ea.com | ntvpforever.com |
 | b814e3570f.0fd94232df.com | ntvpforever.com |
+| b9aa96f359.c685ad29ce.com | ntvpforever.com |
 | babcca7fba.dca8d1600b.com | ntvpforever.com |
 | bcdb664dff.0d356de9ef.com | ntvpforever.com |
 | bd2bc05960.47daeb1eac.com | ntvpforever.com |

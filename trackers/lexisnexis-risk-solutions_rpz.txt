@@ -47,6 +47,7 @@ cdn-s.chumbacasino.com CNAME .
 cdn-s.dev.chumbacasino.com CNAME .
 cdn-s.dev.globalpoker.com CNAME .
 cdn-s.globalpoker.com CNAME .
+cdn.alliantcreditunion.com CNAME .
 cdn.bambusystems.com CNAME .
 cdn.coastcapitalsavings.com CNAME .
 cdn.gusto.com CNAME .
@@ -85,6 +86,7 @@ cdnt.walmartrewards.ca CNAME .
 cdntm.billpay.de CNAME .
 cdntm.firstdirect.com CNAME .
 cdntm.hangseng.com CNAME .
+cdntm.hsbc.co.in CNAME .
 cdntm.hsbc.co.uk CNAME .
 cdntm.hsbc.com.au CNAME .
 cdntm.hsbc.com.hk CNAME .
@@ -300,6 +302,7 @@ faas.2ememain.be CNAME .
 faas.marktplaats.nl CNAME .
 fdbplnd.zootweb.com CNAME .
 fdts.ebay-kleinanzeigen.de CNAME .
+fnvma.milanuncios.com CNAME .
 fp.aion.be CNAME .
 fp.cdn-scripts.com CNAME .
 fp.corporatetravelmoney.com CNAME .
@@ -454,6 +457,7 @@ rsx.afterpay.com CNAME .
 rt.wisecartapp.com CNAME .
 rvw.connection.com CNAME .
 s4.partner.yoomoney.ru CNAME .
+safe.joinmosaic.com CNAME .
 sc.liveme.com CNAME .
 scdn.missionlane.com CNAME .
 scontent.aquacard.co.uk CNAME .
@@ -555,10 +559,12 @@ tags.api.openaccount.rbs.co.uk CNAME .
 tags.bankline.natwest.com CNAME .
 tags.bankline.rbs.com CNAME .
 tags.bankline.ulsterbank.co.uk CNAME .
+tags.bankline.ulsterbank.ie CNAME .
 tags.dazn.com CNAME .
 tags.emirates.com CNAME .
 tags.eq.iombank.com CNAME .
 tags.eq.natwestinternational.com CNAME .
+tags.eq.rbsinternational.com CNAME .
 tags.greenfeatheronline.com CNAME .
 tags.ipp-services.eu CNAME .
 tags.natwest.com CNAME .
@@ -581,6 +587,7 @@ th.barclays.co.uk CNAME .
 thm.visa.com CNAME .
 thm12.visa.com CNAME .
 thmep.zondaglobal.com CNAME .
+thrm-scrq-0001.crypterium.com CNAME .
 tm-analytics.bluevine.com CNAME .
 tm-out.cardinalcommerce.com CNAME .
 tm.barclays.co.uk CNAME .

@@ -7,16 +7,17 @@
 ### Rarely active trackers
 
 * form.bp01.net
+* f1.mailperformance.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
+| lbv5.mperf.com | f1.mailperformance.com |
 | cotemaison.np6.com | form.bp01.net |
 | f1.mailperf.com | form.bp01.net |
 | f1.mailperformance.com | form.bp01.net |
 | f1.np6.com | form.bp01.net |
-| lbv5.mperf.com | form.bp01.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | shortener.np6.com | tracking.bp01.net |
@@ -141,6 +142,7 @@
 | tr.contrat.location.boulanger.com | tracking.bp01.net |
 | tr.contrats.cetelem.fr | tracking.bp01.net |
 | tr.contrats.cofinoga.fr | tracking.bp01.net |
+| tr.corporate.moethennessy.com | tracking.bp01.net |
 | tr.courriel.mae.fr | tracking.bp01.net |
 | tr.courriel.ouestnormandie.cci.fr | tracking.bp01.net |
 | tr.courrier.charentelibre.fr | tracking.bp01.net |
@@ -280,6 +282,7 @@
 | tr.info.mcgarrybowen.com | tracking.bp01.net |
 | tr.info.mdbp.fr | tracking.bp01.net |
 | tr.info.mobibam.com | tracking.bp01.net |
+| tr.info.np6.fr | tracking.bp01.net |
 | tr.info.offres-cartegie.fr | tracking.bp01.net |
 | tr.info.onboarding.corporatecards.bnpparibas | tracking.bp01.net |
 | tr.info.phsolidaire-bpifrance.fr | tracking.bp01.net |
@@ -343,6 +346,7 @@
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
 | tr.mailingnp6.lavoirmoderne.com | tracking.bp01.net |
 | tr.mailmp.macif.net | tracking.bp01.net |
+| tr.mailperf.institut-de-la-protection-sociale.fr | tracking.bp01.net |
 | tr.mailperformance.fr | tracking.bp01.net |
 | tr.maisonsdumonde.com | tracking.bp01.net |
 | tr.marg02n.espmp-agfr.net | tracking.bp01.net |
@@ -459,6 +463,7 @@
 | tr.news.meillandrichardier.com | tracking.bp01.net |
 | tr.news.mi-oferta.es | tracking.bp01.net |
 | tr.news.mon-horoscope.info | tracking.bp01.net |
+| tr.news.monvoyant.fr | tracking.bp01.net |
 | tr.news.mperformance.fr | tracking.bp01.net |
 | tr.news.normandie.cci.fr | tracking.bp01.net |
 | tr.news.ocs.fr | tracking.bp01.net |
@@ -476,6 +481,7 @@
 | tr.news.supercasino.fr | tracking.bp01.net |
 | tr.news.teklifim.pro | tracking.bp01.net |
 | tr.news.thelist-emirates.fr | tracking.bp01.net |
+| tr.news.themedtechforum.eu | tracking.bp01.net |
 | tr.news.tiptel.fr | tracking.bp01.net |
 | tr.news.toocampmail.com | tracking.bp01.net |
 | tr.news.toute-la-franchise.com | tracking.bp01.net |
@@ -503,6 +509,7 @@
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
 | tr.newsletter.ecig-privee.fr | tracking.bp01.net |
 | tr.newsletter.erenumerique.fr | tracking.bp01.net |
+| tr.newsletter.fotodiscount.com | tracking.bp01.net |
 | tr.newsletter.huilesdolive.fr | tracking.bp01.net |
 | tr.newsletter.jowae.com | tracking.bp01.net |
 | tr.newsletter.lafabriqueaviva.fr | tracking.bp01.net |
@@ -520,6 +527,7 @@
 | tr.newsletter.tiragephoto.fr | tracking.bp01.net |
 | tr.newsletter.younited-credit.com | tracking.bp01.net |
 | tr.newsletterpagesjaunes.fr | tracking.bp01.net |
+| tr.newsletters-bonpoint.com | tracking.bp01.net |
 | tr.newsletters.odalys-vacances.com | tracking.bp01.net |
 | tr.newsletters.youmeetings.com | tracking.bp01.net |
 | tr.newsmarketing.allopneus.com | tracking.bp01.net |
@@ -547,6 +555,7 @@
 | tr.notification.norrsken.fr | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |
 | tr.np6.orange.fr | tracking.bp01.net |
+| tr.observatoire.musee-orangerie.fr | tracking.bp01.net |
 | tr.observatoire.musee-orsay.fr | tracking.bp01.net |
 | tr.ofertas-companeo.es | tracking.bp01.net |
 | tr.offer-companeo.co.uk | tracking.bp01.net |
@@ -610,6 +619,7 @@
 | tr.serviceclient.adagcaladoise.fr | tracking.bp01.net |
 | tr.serviceclient.bf-depannage.fr | tracking.bp01.net |
 | tr.serviceclient.depanchauffageservice.fr | tracking.bp01.net |
+| tr.serviceclient.effica-service.fr | tracking.bp01.net |
 | tr.serviceclient.gazservicerapide.fr | tracking.bp01.net |
 | tr.serviceclient.ochauffage.fr | tracking.bp01.net |
 | tr.serviceclient.somgaz.fr | tracking.bp01.net |
@@ -681,4 +691,5 @@
 | tr5.mperf.com | tracking.bp01.net |
 | tracking.allopneus.com | tracking.bp01.net |
 | trpreviews.bp01.net | tracking.bp01.net |
+| www.fodgfip.fr | tracking.bp01.net |
 | www.newsletter.banquepopulaire.fr | tracking.bp01.net |

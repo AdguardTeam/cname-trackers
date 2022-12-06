@@ -115,6 +115,7 @@ refer.childrensplace.com
 refer.cinemark.com
 refer.codecademy.com
 refer.comfortzoneskin.com
+refer.competitivecyclist.com
 refer.creativelive.com
 refer.cspire.com
 refer.embracepetinsurance.com
@@ -191,6 +192,7 @@ refer.saucony.com
 refer.sharkclean.com
 refer.skinceuticals.com
 refer.skyone.org
+refer.sleepnumber.com
 refer.soma.com
 refer.spothero.com
 refer.starfurniture.com
@@ -204,6 +206,7 @@ refer.tatcha.com
 refer.taxact.com
 refer.terijon.com
 refer.thecompanystore.com
+refer.thepopcornfactory.com
 refer.thesculptsociety.com
 refer.twisthair.com
 refer.underarmour.co.uk
@@ -211,10 +214,12 @@ refer.underarmour.de
 refer.underarmour.fr
 refer.underarmour.nl
 refer.us.davines.com
+refer.vayasleep.com
 refer.whitehouseblackmarket.com
 refer.wine.com
 refer.wolverine.com
 refer.zazzlereferral.com
+refer.zenhaven.com
 refer.zipcar.ca
 refer.zipcar.com
 refer.zomasleep.com
@@ -273,6 +278,7 @@ share.dunlopsports.com
 share.dutch.com
 share.esteelauder.com.au
 share.esteelauder.com.tw
+share.evine.com
 share.fetchpet.com
 share.figopetinsurance.com
 share.fingercheck.com
@@ -304,6 +310,7 @@ share.myollie.com
 share.myq.com
 share.newtonbaby.com
 share.obagi.com
+share.ollocard.com
 share.opploans.com
 share.origins.com
 share.partsvu.com
