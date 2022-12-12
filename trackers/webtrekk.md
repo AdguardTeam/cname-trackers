@@ -76,6 +76,7 @@
     * 368352020330673.wt-eu02.net
     * 371033713452477.wt-eu02.net
     * 378118469332445.wt-eu02.net
+    * 390993738581837.wt-eu02.net
     * 425587064188106.wt-eu02.net
     * 427813503923049.wt-eu02.net
     * 444170171787319.wt-eu02.net
@@ -258,6 +259,7 @@
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
 | web.tummy-tox.com | 366003812072969.wt-eu02.net |
 | web.tummytox.de | 366003812072969.wt-eu02.net |
+| web.tummytox.it | 366003812072969.wt-eu02.net |
 | web.tummytox.pt | 366003812072969.wt-eu02.net |
 | web.tummytox.sk | 366003812072969.wt-eu02.net |
 | data.mediaworld.it | 367128732629814.wt-eu02.net |
@@ -266,6 +268,7 @@
 | web.ideaautorepair.com | 368352020330673.wt-eu02.net |
 | web.emails.thetoyshop.com | 371033713452477.wt-eu02.net |
 | web.newsletter.koffer-to-go.de | 378118469332445.wt-eu02.net |
+| website-usage.b2bendix.com | 390993738581837.wt-eu02.net |
 | web.news.piquadro.com | 425587064188106.wt-eu02.net |
 | wbtrkk.teufelaudio.com | 427813503923049.wt-eu02.net |
 | mit.bhw.de | 444170171787319.wt-eu02.net |
@@ -362,6 +365,7 @@
 | pixel.augsburger-allgemeine.de | augsburgerallgemeine01.webtrekk.net |
 | cdn7.baunetz.de | baunetzprod01.wt-eu02.net |
 | w7.berlin.de | berlinonline-02.wt-eu02.net |
+| w7.berliner-silvester.de | berlinonline-02.wt-eu02.net |
 | w7.weihnachteninberlin.de | berlinonline-02.wt-eu02.net |
 | aud.bild.de | bild01.webtrekk.net |
 | inhalt.bild.de | bild01.webtrekk.net |

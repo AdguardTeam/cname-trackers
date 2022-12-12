@@ -9,6 +9,7 @@
 ||sms.gestion.cetelem.fr^
 ||t8.mailperformance.com^
 ||tr.3ou4xcb.cetelem.fr^
+||tr.3xcb.cofinoga.fr^
 ||tr.abo.cotemaison.fr^
 ||tr.acd-comexpert.fr^
 ||tr.acq-pjms.fr^
@@ -24,6 +25,7 @@
 ||tr.allopneus.com^
 ||tr.animation.lexpress.fr^
 ||tr.animation.micromania.fr^
+||tr.animations.alticemedia.com^
 ||tr.animations.bfmtv.com^
 ||tr.apou032.espmp-agfr.net^
 ||tr.asp002q.espmp-aufr.net^
@@ -97,6 +99,7 @@
 ||tr.commande.location.boulanger.com^
 ||tr.communaute.caradisiac.com^
 ||tr.communautes-mediametrie.fr^
+||tr.communication.arthur-bonnet.com^
 ||tr.communication.b2b-actualites.com^
 ||tr.communication.boursorama.info^
 ||tr.communication.cgaaer.fr^
@@ -135,6 +138,7 @@
 ||tr.courrier.sudouest.fr^
 ||tr.credito.universo.pt^
 ||tr.crtl.espmp-aufr.net^
+||tr.cyprusparadiseestates.com^
 ||tr.devis-companeo.be^
 ||tr.devis-companeo.com^
 ||tr.devis-companeo.fr^
@@ -144,6 +148,7 @@
 ||tr.devis.digital^
 ||tr.devisminute-alarme.com^
 ||tr.devisminute-geolocalisation.com^
+||tr.devisminute-gestionpaie.com^
 ||tr.devize-companeo.ro^
 ||tr.digitaldigest.lvmh.com^
 ||tr.dirigeants.harmonie-mutuelle.fr^
@@ -270,6 +275,7 @@
 ||tr.info.np6.fr^
 ||tr.info.offres-cartegie.fr^
 ||tr.info.onboarding.corporatecards.bnpparibas^
+||tr.info.perl.fr^
 ||tr.info.phsolidaire-bpifrance.fr^
 ||tr.info.promoneuve.fr^
 ||tr.info.rouen.aeroport.fr^
@@ -282,6 +288,7 @@
 ||tr.infolettres.groupama.com^
 ||tr.information.fidalformations.fr^
 ||tr.information.lacollection-airfrance.fr^
+||tr.information.perfectstay.com^
 ||tr.information.thelist-emirates.fr^
 ||tr.informations.dila.gouv.fr^
 ||tr.informations.harmonie-mutuelle.fr^
@@ -336,6 +343,7 @@
 ||tr.maisonsdumonde.com^
 ||tr.marg02n.espmp-agfr.net^
 ||tr.marketing.bordeauxgironde.cci.fr^
+||tr.marketing.tennaxia.com^
 ||tr.marketing.younited-credit.com^
 ||tr.marketing.younited-credit.es^
 ||tr.marketing.younited-credit.pt^
@@ -364,6 +372,7 @@
 ||tr.n.info.cdgp.fr^
 ||tr.n.info.sygmabanque.fr^
 ||tr.n.kinder.fr^
+||tr.n.nutella.fr^
 ||tr.nespresso.com^
 ||tr.new.offres-cartegie.fr^
 ||tr.news-chocolat.com^
@@ -572,6 +581,7 @@
 ||tr.publicisdrugstore.espmp-agfr.net^
 ||tr.qualitaetsumfrage.com^
 ||tr.qualitaveicolo.com^
+||tr.qualite.groupama.com^
 ||tr.qualite.groupebarriere.com^
 ||tr.qualitevehicule.fr^
 ||tr.qualityvehiclesurvey.com^
@@ -623,6 +633,7 @@
 ||tr.souscription.banque-casino.fr^
 ||tr.souscription.floa.fr^
 ||tr.spain.plimsoll.es^
+||tr.stanford-news.fr^
 ||tr.strategie.gouv.fr^
 ||tr.tdgx.espmp-cufr.net^
 ||tr.thisiseurope.moethennessy.com^
@@ -632,6 +643,8 @@
 ||tr.trafficnews.lyria.com^
 ||tr.ujsv.espmp-agfr.net^
 ||tr.uk.icicibank.com^
+||tr.unaoffertaalgiorno.com^
+||tr.update.groupon.be^
 ||tr.urfk02v.espmp-cufr.net^
 ||tr.urfk03h.espmp-nifr.net^
 ||tr.urfk03q.espmp-nifr.net^
@@ -650,6 +663,7 @@
 ||tr.voixduclient.harmonie-mutuelle.fr^
 ||tr.votrealarme.securitasdirect.fr^
 ||tr.vous.hellobank.fr^
+||tr.wa.wordappeal.com^
 ||tr.welcome.easyviaggio.com^
 ||tr.welcome.easyviajar.com^
 ||tr.welcome.easyvoyage.co.uk^
@@ -666,18 +680,6 @@
 ||tr.win.moethennessy.com^
 ||tr.wuei.espmp-agfr.net^
 ||tr.wycena-companeo.pl^
-||tr.xleads.digital^
-||tr1.citroen-ipsos.com^
-||tr1.mailperf.com^
-||tr1.mailperformance.com^
-||tr1.peugeot-ipsos.com^
-||tr1.psa-surveys.com^
-||tr5.mailperf.com^
-||tr5.mperf.com^
-||tracking.allopneus.com^
-||trpreviews.bp01.net^
-||www.fodgfip.fr^
-||www.newsletter.banquepopulaire.fr^
 !
 ! form.bp01.net disguised trackers
 !
@@ -685,7 +687,4 @@
 ||f1.mailperf.com^
 ||f1.mailperformance.com^
 ||f1.np6.com^
-!
-! f1.mailperformance.com disguised trackers
-!
 ||lbv5.mperf.com^

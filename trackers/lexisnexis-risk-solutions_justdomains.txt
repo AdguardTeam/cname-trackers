@@ -27,6 +27,7 @@ appschk.scotiabank.com
 appscore.credilike.me
 assessment.nj.betmgm.com
 assets.werally.co
+assets2.ihg.com
 assets2.thefirstclub.com
 auth.vedacheck.com.au
 auth2.corelogic.asia
@@ -83,7 +84,6 @@ cdnm.sts.pl
 cdns.moneyplace.com.au
 cdnt.duobank.com
 cdnt.walmartrewards.ca
-cdntm.billpay.de
 cdntm.firstdirect.com
 cdntm.hangseng.com
 cdntm.hsbc.co.in
@@ -117,6 +117,7 @@ check3.tiaa.org
 check3.tiaabank.com
 checkout-df.lululemon.com
 cib.currency.lloydsbank.com
+claimant.vec.virginia.gov
 clear.wallapop.com
 clovergo.june-testing.firstdata.com
 cmprofile.cards.citidirect.com
@@ -134,6 +135,7 @@ content.asurion53.com
 content.atmosphere.ca
 content.bankerslife.com
 content.benefitsaccess.org
+content.billdomain.com
 content.bnl.it
 content.byabcd.com
 content.canadiantire.ca
@@ -155,6 +157,7 @@ content.dstv.com
 content.dwd.wisconsin.gov
 content.ebanking-services.com
 content.ecampus.com
+content.egyptair.com
 content.espace-client.hellobank.fr
 content.etransfer.interac.ca
 content.ezaem.ru
@@ -261,6 +264,7 @@ contentservices.brightlending.com
 contentservices.clearairlending.com
 creditcheck.digitecgalaxus.ch
 csource.rentals.com
+css.bitcasino.io
 css.slots.io
 css.sportsbet.io
 cstm.gumtree.com
@@ -380,6 +384,7 @@ log.checkmyfile.com
 log.open.investorsbank.com
 login.eki-net.com
 loyaltyprogram.latam.com
+loyaltyprogram.latamairlines.com
 lpo.unionbank.com
 lsdp.lotto.com
 lsprof.comeon.com
@@ -601,6 +606,7 @@ tm.betano.cz
 tm.betano.de
 tm.cbd.ae
 tm.cox.com
+tm.creditcheck.illion.co.nz
 tm.creditcheck.illion.com.au
 tm.creditsimple.co.nz
 tm.creditsimple.com.au
@@ -663,6 +669,7 @@ tx.suncoastcreditunion.com
 txcontent.iherb.cn
 txcontent.iherb.com
 uafms.ocbc.com
+ualaki-analytics.vacations.united.com
 uldfp.srilankan.com
 v.ayco.com
 v.goldman.com

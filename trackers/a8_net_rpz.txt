@@ -4,6 +4,7 @@
 ; a8.net disguised trackers
 ;
 1909a8.satofull.jp CNAME .
+a8-affiliate.kase3535.com CNAME .
 a8-hoiku.mama-9jin.com CNAME .
 a8-itp.qoo10.jp CNAME .
 a8-xshop.secure.xserver.ne.jp CNAME .
@@ -33,6 +34,7 @@ a8.degicashop.com CNAME .
 a8.denki-koji.work CNAME .
 a8.denki-tatsujin.com CNAME .
 a8.denwa-hikari.com CNAME .
+a8.denwa-kanyuken.com CNAME .
 a8.efax.co.jp CNAME .
 a8.emma-sleep-japan.com CNAME .
 a8.eonet.jp CNAME .
@@ -59,6 +61,7 @@ a8.i-netservice.net CNAME .
 a8.ippin-do.com CNAME .
 a8.kajitaku.com CNAME .
 a8.kanbei.jp CNAME .
+a8.kddi-hikari.com CNAME .
 a8.kimonomachi.co.jp CNAME .
 a8.kinkennet.jp CNAME .
 a8.kireiyu.com CNAME .
@@ -137,6 +140,7 @@ a8.xn--y8jd4aybzqd.jp CNAME .
 a8.yanoman.com CNAME .
 a8.yuzen-official.com CNAME .
 a8.zeroku.jp CNAME .
+a802.xn--38jf6c4pa86a1dv833cexrb.com CNAME .
 a8aspconv.itx-home-router.com CNAME .
 a8aspconv.ns-softbank-hikari.com CNAME .
 a8aspconv.xn--biglobe-kc9k.com CNAME .
@@ -169,6 +173,7 @@ a8clk.chat-wifi.site CNAME .
 a8clk.chuko-truck.com CNAME .
 a8clk.cleaneo.jp CNAME .
 a8clk.cp.favorina.com CNAME .
+a8clk.crefus.com CNAME .
 a8clk.crowdworks.jp CNAME .
 a8clk.cv.geechs-job.com CNAME .
 a8clk.cv.hanaravi.jp CNAME .
@@ -287,6 +292,7 @@ a8clk.xn--t8jx01hmvbgye566gd1f.com CNAME .
 a8clk.xserver.ne.jp CNAME .
 a8clk.ykd.co.jp CNAME .
 a8clk.yourmystar.jp CNAME .
+a8clk.yumeyakata.com CNAME .
 a8clk.zigen-shop.com CNAME .
 a8cllk.arahataen.com CNAME .
 a8cname.nj-e.jp CNAME .
@@ -305,6 +311,7 @@ a8cv.ans-ec.shop CNAME .
 a8cv.araiba.net CNAME .
 a8cv.atami-box.com CNAME .
 a8cv.b-concept.tokyo CNAME .
+a8cv.baiden-king.com CNAME .
 a8cv.be-slim-spbikyou.com CNAME .
 a8cv.bettysbeauty.jp CNAME .
 a8cv.biken-mall.jp CNAME .
@@ -362,6 +369,7 @@ a8cv.iikyujin.net CNAME .
 a8cv.ikapula.com CNAME .
 a8cv.interlink.or.jp CNAME .
 a8cv.ishibashi.co.jp CNAME .
+a8cv.ishibestcareer.com CNAME .
 a8cv.isslim.jp CNAME .
 a8cv.iwamizu.com CNAME .
 a8cv.japaden.jp CNAME .
@@ -558,13 +566,6 @@ cv.moena-eatstyle.net CNAME .
 cv.online.ysroad.co.jp CNAME .
 cv.re-shop.jp CNAME .
 cv.ryoutuki-kyujin.com CNAME .
-cv.shiryoku1.com CNAME .
-cv.subscription-store.com CNAME .
-cv.sumaho-hoken.jp CNAME .
-cv.tenjin.cc CNAME .
-cv.web-sana.com CNAME .
-cv.www.rokuzan.net CNAME .
-cv.xn--bcktcvdzde3c.biz CNAME .
 cv.xn--zbs202g.com CNAME .
 cv.zephylrin-w.com CNAME .
 cv.zephylrin-x.net CNAME .
@@ -573,4 +574,5 @@ cv1.stefany.co.jp CNAME .
 kaden.netoff.co.jp CNAME .
 track.craudia.com CNAME .
 tracking.196189.com CNAME .
+web.hikari-cmf.com CNAME .
 web.nuro-life.com CNAME .

@@ -13,6 +13,7 @@
 * altinget.tns-dk.2cnt.net
 * altomboern.tns-dk.2cnt.net
 * slb-vgwort-de-pool02.vgwort-de.2cnt.net
+* amtsavisen.tns-dk.2cnt.net
 * amwatch.tns-dk.2cnt.net
 * aok.tns-dk.2cnt.net
 * avisen.tns-dk.2cnt.net
@@ -46,16 +47,17 @@
 * drandroidtvstream.tns-dk.2cnt.net
 * slb-tns-dk-pool06.tns-dk.2cnt.net
 * driosstream.tns-dk.2cnt.net
-* drtv-appletv.tns-dk.2cnt.net
 * slb-tns-dk-pool08.tns-dk.2cnt.net
 * eltern.vgwort-de.2cnt.net
 * euroman.tns-dk.2cnt.net
 * express.vgwort-de.2cnt.net
 * faz.vgwort-de.2cnt.net
 * femina.tns-dk.2cnt.net
+* finans.tns-dk.2cnt.net
 * fr-online.vgwort-de.2cnt.net
 * gala.vgwort-de.2cnt.net
 * geo.vgwort-de.2cnt.net
+* halsa.tns-dk.2cnt.net
 * helpster.vgwort-de.2cnt.net
 * hsfo.tns-dk.2cnt.net
 * information.tns-dk.2cnt.net
@@ -67,6 +69,7 @@
 * juris.vgwort-de.2cnt.net
 * krak.tns-dk.2cnt.net
 * kristeligtdagblad.tns-dk.2cnt.net
+* ksta.vgwort-de.2cnt.net
 * kundeunivers.tns-dk.2cnt.net
 * lokalavisen.tns-dk.2cnt.net
 * magacin.tns-dk.2cnt.net
@@ -74,6 +77,7 @@
 * mariesideer.tns-dk.2cnt.net
 * merkur.vgwort-de.2cnt.net
 * mineaviser.tns-dk.2cnt.net
+* moreshop.tns-dk.2cnt.net
 * n-tv.vgwort-de.2cnt.net
 * newsb.tns-dk.2cnt.net
 * nomos.vgwort-de.2cnt.net
@@ -122,7 +126,6 @@
 * ssl-dmi.tns-dk.2cnt.net
 * ssl-dplaystream.tns-dk.2cnt.net
 * ssl-dr.tns-dk.2cnt.net
-* ssl-drandroidtvstream.tns-dk.2cnt.net
 * ssl-drhbbtv.tns-dk.2cnt.net
 * ssl-drtv-appletv.tns-dk.2cnt.net
 * slb-tns-dk-pool04.tns-dk.2cnt.net
@@ -143,7 +146,6 @@
 * ssl-fyens.tns-dk.2cnt.net
 * ssl-gaffa.tns-dk.2cnt.net
 * slb-tns-dk-pool10.tns-dk.2cnt.net
-* ssl-gafiam.tns-dk.2cnt.net
 * ssl-goerdetselv.tns-dk.2cnt.net
 * ssl-golem.vgwort-de.2cnt.net
 * ssl-golf.tns-dk.2cnt.net
@@ -260,6 +262,7 @@
 | alt.tns-gallup.dk | alt.tns-dk.2cnt.net |
 | altinget.tns-gallup.dk | altinget.tns-dk.2cnt.net |
 | altomboern.tns-gallup.dk | altomboern.tns-dk.2cnt.net |
+| amtsavisen.tns-gallup.dk | amtsavisen.tns-dk.2cnt.net |
 | amwatch.tns-gallup.dk | amwatch.tns-dk.2cnt.net |
 | aok.tns-gallup.dk | aok.tns-dk.2cnt.net |
 | avisen.tns-gallup.dk | avisen.tns-dk.2cnt.net |
@@ -290,15 +293,16 @@
 | drandroidstream.tns-gallup.dk | drandroidstream.tns-dk.2cnt.net |
 | drandroidtvstream.tns-gallup.dk | drandroidtvstream.tns-dk.2cnt.net |
 | driosstream.tns-gallup.dk | driosstream.tns-dk.2cnt.net |
-| drtv-appletv.tns-gallup.dk | drtv-appletv.tns-dk.2cnt.net |
 | eltern.met.vgwort.de | eltern.vgwort-de.2cnt.net |
 | euroman.tns-gallup.dk | euroman.tns-dk.2cnt.net |
 | express.met.vgwort.de | express.vgwort-de.2cnt.net |
 | faz.met.vgwort.de | faz.vgwort-de.2cnt.net |
 | femina.tns-gallup.dk | femina.tns-dk.2cnt.net |
+| finans.tns-gallup.dk | finans.tns-dk.2cnt.net |
 | fr-online.met.vgwort.de | fr-online.vgwort-de.2cnt.net |
 | gala.met.vgwort.de | gala.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | geo.vgwort-de.2cnt.net |
+| halsa.tns-gallup.dk | halsa.tns-dk.2cnt.net |
 | helpster.met.vgwort.de | helpster.vgwort-de.2cnt.net |
 | hsfo.tns-gallup.dk | hsfo.tns-dk.2cnt.net |
 | information.tns-gallup.dk | information.tns-dk.2cnt.net |
@@ -310,6 +314,7 @@
 | juris.met.vgwort.de | juris.vgwort-de.2cnt.net |
 | krak.tns-gallup.dk | krak.tns-dk.2cnt.net |
 | kristeligtdagblad.tns-gallup.dk | kristeligtdagblad.tns-dk.2cnt.net |
+| ksta.met.vgwort.de | ksta.vgwort-de.2cnt.net |
 | kundeunivers.tns-gallup.dk | kundeunivers.tns-dk.2cnt.net |
 | lokalavisen.tns-gallup.dk | lokalavisen.tns-dk.2cnt.net |
 | magacin.tns-gallup.dk | magacin.tns-dk.2cnt.net |
@@ -317,6 +322,7 @@
 | mariesideer.tns-gallup.dk | mariesideer.tns-dk.2cnt.net |
 | merkur.met.vgwort.de | merkur.vgwort-de.2cnt.net |
 | mineaviser.tns-gallup.dk | mineaviser.tns-dk.2cnt.net |
+| moreshop.tns-gallup.dk | moreshop.tns-dk.2cnt.net |
 | n-tv.met.vgwort.de | n-tv.vgwort-de.2cnt.net |
 | newsb.tns-gallup.dk | newsb.tns-dk.2cnt.net |
 | nomos.met.vgwort.de | nomos.vgwort-de.2cnt.net |
@@ -346,12 +352,10 @@
 | drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | ssl-dplayandroidstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | ssl-drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
-| ssl-drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | ssl-youseestream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | dplayteststream.tns-gallup.dk | slb-tns-dk-pool07.tns-dk.2cnt.net |
 | drandroidstream.tns-gallup.dk | slb-tns-dk-pool07.tns-dk.2cnt.net |
 | ssl-stofateststream.tns-gallup.dk | slb-tns-dk-pool07.tns-dk.2cnt.net |
-| drtv-appletv.tns-gallup.dk | slb-tns-dk-pool08.tns-dk.2cnt.net |
 | drtv-appletv.tns-gallup.dk | slb-tns-dk-pool08.tns-dk.2cnt.net |
 | ssl-drtv-appletv.tns-gallup.dk | slb-tns-dk-pool08.tns-dk.2cnt.net |
 | youseeandroidstream.tns-gallup.dk | slb-tns-dk-pool08.tns-dk.2cnt.net |
@@ -523,7 +527,6 @@
 | ssl-dmi.tns-gallup.dk | ssl-dmi.tns-dk.2cnt.net |
 | ssl-dplaystream.tns-gallup.dk | ssl-dplaystream.tns-dk.2cnt.net |
 | ssl-dr.tns-gallup.dk | ssl-dr.tns-dk.2cnt.net |
-| ssl-drandroidtvstream.tns-gallup.dk | ssl-drandroidtvstream.tns-dk.2cnt.net |
 | ssl-drhbbtv.tns-gallup.dk | ssl-drhbbtv.tns-dk.2cnt.net |
 | ssl-drtv-appletv.tns-gallup.dk | ssl-drtv-appletv.tns-dk.2cnt.net |
 | ssl-ebiam.tns-gallup.dk | ssl-ebiam.tns-dk.2cnt.net |
@@ -542,7 +545,6 @@
 | ssl-formatformat.tns-gallup.dk | ssl-formatformat.tns-dk.2cnt.net |
 | ssl-fyens.tns-gallup.dk | ssl-fyens.tns-dk.2cnt.net |
 | ssl-gaffa.tns-gallup.dk | ssl-gaffa.tns-dk.2cnt.net |
-| ssl-gafiam.tns-gallup.dk | ssl-gafiam.tns-dk.2cnt.net |
 | ssl-goerdetselv.tns-gallup.dk | ssl-goerdetselv.tns-dk.2cnt.net |
 | ssl-golem.met.vgwort.de | ssl-golem.vgwort-de.2cnt.net |
 | ssl-golf.tns-gallup.dk | ssl-golf.tns-dk.2cnt.net |

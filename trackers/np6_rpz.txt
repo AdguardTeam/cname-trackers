@@ -9,6 +9,7 @@ shortener.np6.com CNAME .
 sms.gestion.cetelem.fr CNAME .
 t8.mailperformance.com CNAME .
 tr.3ou4xcb.cetelem.fr CNAME .
+tr.3xcb.cofinoga.fr CNAME .
 tr.abo.cotemaison.fr CNAME .
 tr.acd-comexpert.fr CNAME .
 tr.acq-pjms.fr CNAME .
@@ -24,6 +25,7 @@ tr.alex.espmp-agfr.net CNAME .
 tr.allopneus.com CNAME .
 tr.animation.lexpress.fr CNAME .
 tr.animation.micromania.fr CNAME .
+tr.animations.alticemedia.com CNAME .
 tr.animations.bfmtv.com CNAME .
 tr.apou032.espmp-agfr.net CNAME .
 tr.asp002q.espmp-aufr.net CNAME .
@@ -97,6 +99,7 @@ tr.combca.fr CNAME .
 tr.commande.location.boulanger.com CNAME .
 tr.communaute.caradisiac.com CNAME .
 tr.communautes-mediametrie.fr CNAME .
+tr.communication.arthur-bonnet.com CNAME .
 tr.communication.b2b-actualites.com CNAME .
 tr.communication.boursorama.info CNAME .
 tr.communication.cgaaer.fr CNAME .
@@ -135,6 +138,7 @@ tr.courrier.larepubliquedespyrenees.fr CNAME .
 tr.courrier.sudouest.fr CNAME .
 tr.credito.universo.pt CNAME .
 tr.crtl.espmp-aufr.net CNAME .
+tr.cyprusparadiseestates.com CNAME .
 tr.devis-companeo.be CNAME .
 tr.devis-companeo.com CNAME .
 tr.devis-companeo.fr CNAME .
@@ -144,6 +148,7 @@ tr.devis-professionnels.fr CNAME .
 tr.devis.digital CNAME .
 tr.devisminute-alarme.com CNAME .
 tr.devisminute-geolocalisation.com CNAME .
+tr.devisminute-gestionpaie.com CNAME .
 tr.devize-companeo.ro CNAME .
 tr.digitaldigest.lvmh.com CNAME .
 tr.dirigeants.harmonie-mutuelle.fr CNAME .
@@ -270,6 +275,7 @@ tr.info.mobibam.com CNAME .
 tr.info.np6.fr CNAME .
 tr.info.offres-cartegie.fr CNAME .
 tr.info.onboarding.corporatecards.bnpparibas CNAME .
+tr.info.perl.fr CNAME .
 tr.info.phsolidaire-bpifrance.fr CNAME .
 tr.info.promoneuve.fr CNAME .
 tr.info.rouen.aeroport.fr CNAME .
@@ -282,6 +288,7 @@ tr.infolettre.securite-routiere.gouv.fr CNAME .
 tr.infolettres.groupama.com CNAME .
 tr.information.fidalformations.fr CNAME .
 tr.information.lacollection-airfrance.fr CNAME .
+tr.information.perfectstay.com CNAME .
 tr.information.thelist-emirates.fr CNAME .
 tr.informations.dila.gouv.fr CNAME .
 tr.informations.harmonie-mutuelle.fr CNAME .
@@ -336,6 +343,7 @@ tr.mailperformance.fr CNAME .
 tr.maisonsdumonde.com CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.bordeauxgironde.cci.fr CNAME .
+tr.marketing.tennaxia.com CNAME .
 tr.marketing.younited-credit.com CNAME .
 tr.marketing.younited-credit.es CNAME .
 tr.marketing.younited-credit.pt CNAME .
@@ -364,6 +372,7 @@ tr.n.ferrero.fr CNAME .
 tr.n.info.cdgp.fr CNAME .
 tr.n.info.sygmabanque.fr CNAME .
 tr.n.kinder.fr CNAME .
+tr.n.nutella.fr CNAME .
 tr.nespresso.com CNAME .
 tr.new.offres-cartegie.fr CNAME .
 tr.news-chocolat.com CNAME .
@@ -572,6 +581,7 @@ tr.promotion.lexpress.fr CNAME .
 tr.publicisdrugstore.espmp-agfr.net CNAME .
 tr.qualitaetsumfrage.com CNAME .
 tr.qualitaveicolo.com CNAME .
+tr.qualite.groupama.com CNAME .
 tr.qualite.groupebarriere.com CNAME .
 tr.qualitevehicule.fr CNAME .
 tr.qualityvehiclesurvey.com CNAME .
@@ -623,6 +633,7 @@ tr.solution.uneo.fr CNAME .
 tr.souscription.banque-casino.fr CNAME .
 tr.souscription.floa.fr CNAME .
 tr.spain.plimsoll.es CNAME .
+tr.stanford-news.fr CNAME .
 tr.strategie.gouv.fr CNAME .
 tr.tdgx.espmp-cufr.net CNAME .
 tr.thisiseurope.moethennessy.com CNAME .
@@ -632,6 +643,8 @@ tr.tonerservices.fr CNAME .
 tr.trafficnews.lyria.com CNAME .
 tr.ujsv.espmp-agfr.net CNAME .
 tr.uk.icicibank.com CNAME .
+tr.unaoffertaalgiorno.com CNAME .
+tr.update.groupon.be CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk03h.espmp-nifr.net CNAME .
 tr.urfk03q.espmp-nifr.net CNAME .
@@ -650,6 +663,7 @@ tr.voeux-wishes.ipsilon-ip.com CNAME .
 tr.voixduclient.harmonie-mutuelle.fr CNAME .
 tr.votrealarme.securitasdirect.fr CNAME .
 tr.vous.hellobank.fr CNAME .
+tr.wa.wordappeal.com CNAME .
 tr.welcome.easyviaggio.com CNAME .
 tr.welcome.easyviajar.com CNAME .
 tr.welcome.easyvoyage.co.uk CNAME .
@@ -666,18 +680,6 @@ tr.welcome.vipmag.fr CNAME .
 tr.win.moethennessy.com CNAME .
 tr.wuei.espmp-agfr.net CNAME .
 tr.wycena-companeo.pl CNAME .
-tr.xleads.digital CNAME .
-tr1.citroen-ipsos.com CNAME .
-tr1.mailperf.com CNAME .
-tr1.mailperformance.com CNAME .
-tr1.peugeot-ipsos.com CNAME .
-tr1.psa-surveys.com CNAME .
-tr5.mailperf.com CNAME .
-tr5.mperf.com CNAME .
-tracking.allopneus.com CNAME .
-trpreviews.bp01.net CNAME .
-www.fodgfip.fr CNAME .
-www.newsletter.banquepopulaire.fr CNAME .
 ;
 ; form.bp01.net disguised trackers
 ;
@@ -685,7 +687,4 @@ cotemaison.np6.com CNAME .
 f1.mailperf.com CNAME .
 f1.mailperformance.com CNAME .
 f1.np6.com CNAME .
-;
-; f1.mailperformance.com disguised trackers
-;
 lbv5.mperf.com CNAME .

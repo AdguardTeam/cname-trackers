@@ -94,6 +94,10 @@
 ||vogel.met.vgwort.de^
 ||weka.met.vgwort.de^
 !
+! amtsavisen.tns-dk.2cnt.net disguised trackers
+!
+||amtsavisen.tns-gallup.dk^
+!
 ! amwatch.tns-dk.2cnt.net disguised trackers
 !
 ||amwatch.tns-gallup.dk^
@@ -269,10 +273,6 @@
 !
 ||driosstream.tns-gallup.dk^
 !
-! drtv-appletv.tns-dk.2cnt.net disguised trackers
-!
-||drtv-appletv.tns-gallup.dk^
-!
 ! slb-tns-dk-pool08.tns-dk.2cnt.net disguised trackers
 !
 ||drtv-appletv.tns-gallup.dk^
@@ -299,6 +299,10 @@
 !
 ||femina.tns-gallup.dk^
 !
+! finans.tns-dk.2cnt.net disguised trackers
+!
+||finans.tns-gallup.dk^
+!
 ! fr-online.vgwort-de.2cnt.net disguised trackers
 !
 ||fr-online.met.vgwort.de^
@@ -310,6 +314,10 @@
 ! geo.vgwort-de.2cnt.net disguised trackers
 !
 ||geo.met.vgwort.de^
+!
+! halsa.tns-dk.2cnt.net disguised trackers
+!
+||halsa.tns-gallup.dk^
 !
 ! helpster.vgwort-de.2cnt.net disguised trackers
 !
@@ -355,6 +363,10 @@
 !
 ||kristeligtdagblad.tns-gallup.dk^
 !
+! ksta.vgwort-de.2cnt.net disguised trackers
+!
+||ksta.met.vgwort.de^
+!
 ! kundeunivers.tns-dk.2cnt.net disguised trackers
 !
 ||kundeunivers.tns-gallup.dk^
@@ -382,6 +394,10 @@
 ! mineaviser.tns-dk.2cnt.net disguised trackers
 !
 ||mineaviser.tns-gallup.dk^
+!
+! moreshop.tns-dk.2cnt.net disguised trackers
+!
+||moreshop.tns-gallup.dk^
 !
 ! n-tv.vgwort-de.2cnt.net disguised trackers
 !
@@ -579,10 +595,6 @@
 !
 ||ssl-dr.tns-gallup.dk^
 !
-! ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
-!
-||ssl-drandroidtvstream.tns-gallup.dk^
-!
 ! ssl-drhbbtv.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-drhbbtv.tns-gallup.dk^
@@ -664,10 +676,6 @@
 !
 ||ssl-gafiam.tns-gallup.dk^
 ||ssl-swpanel.tns-gallup.dk^
-!
-! ssl-gafiam.tns-dk.2cnt.net disguised trackers
-!
-||ssl-gafiam.tns-gallup.dk^
 !
 ! ssl-goerdetselv.tns-dk.2cnt.net disguised trackers
 !

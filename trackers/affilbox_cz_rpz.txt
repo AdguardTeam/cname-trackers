@@ -282,7 +282,9 @@ partner.affilnet.cz CNAME .
 partner.alesio.cz CNAME .
 partner.amonitsro.sk CNAME .
 partner.anabix.cz CNAME .
+partner.antihacker.cz CNAME .
 partner.artmasteracademy.cz CNAME .
+partner.astaxanthincz.cz CNAME .
 partner.babysigns.cz CNAME .
 partner.bandana.cz CNAME .
 partner.barnaby.cz CNAME .
@@ -335,6 +337,7 @@ partner.gokids.cz CNAME .
 partner.h2world.store CNAME .
 partner.hanamoneam.com CNAME .
 partner.hoska-tour.cz CNAME .
+partner.hothousecucumber.com CNAME .
 partner.imrnous.cz CNAME .
 partner.investinslovakia.eu CNAME .
 partner.iodesign.cz CNAME .
@@ -350,6 +353,7 @@ partner.kidtown.cz CNAME .
 partner.kokiskashop.cz CNAME .
 partner.kokiskashop.sk CNAME .
 partner.korenikralu.cz CNAME .
+partner.kurzysusmevem.cz CNAME .
 partner.kvcar.cz CNAME .
 partner.lascero.cz CNAME .
 partner.legalni-konopi.cz CNAME .
@@ -387,6 +391,7 @@ partner.pradoch.cz CNAME .
 partner.pravopisne.cz CNAME .
 partner.prosperk.cz CNAME .
 partner.psidetektiv.cz CNAME .
+partner.runningpro.cz CNAME .
 partner.salibandy.shop CNAME .
 partner.santao.cz CNAME .
 partner.scilearn.cz CNAME .
@@ -489,6 +494,7 @@ partneri.radostkazdyden.cz CNAME .
 partneri.roklen.cz CNAME .
 partneri.rondainvest.cz CNAME .
 partneri.rybitukylysi.cz CNAME .
+partneri.setrice.eu CNAME .
 partneri.silaprozivot.com CNAME .
 partneri.smartemailing.cz CNAME .
 partneri.smyslovy-pruzkumnik.cz CNAME .

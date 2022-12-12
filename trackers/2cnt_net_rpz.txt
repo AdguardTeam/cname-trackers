@@ -94,6 +94,10 @@ vg06.met.vgwort.de CNAME .
 vogel.met.vgwort.de CNAME .
 weka.met.vgwort.de CNAME .
 ;
+; amtsavisen.tns-dk.2cnt.net disguised trackers
+;
+amtsavisen.tns-gallup.dk CNAME .
+;
 ; amwatch.tns-dk.2cnt.net disguised trackers
 ;
 amwatch.tns-gallup.dk CNAME .
@@ -269,10 +273,6 @@ ssl-youseestream.tns-gallup.dk CNAME .
 ;
 driosstream.tns-gallup.dk CNAME .
 ;
-; drtv-appletv.tns-dk.2cnt.net disguised trackers
-;
-drtv-appletv.tns-gallup.dk CNAME .
-;
 ; slb-tns-dk-pool08.tns-dk.2cnt.net disguised trackers
 ;
 drtv-appletv.tns-gallup.dk CNAME .
@@ -299,6 +299,10 @@ faz.met.vgwort.de CNAME .
 ;
 femina.tns-gallup.dk CNAME .
 ;
+; finans.tns-dk.2cnt.net disguised trackers
+;
+finans.tns-gallup.dk CNAME .
+;
 ; fr-online.vgwort-de.2cnt.net disguised trackers
 ;
 fr-online.met.vgwort.de CNAME .
@@ -310,6 +314,10 @@ gala.met.vgwort.de CNAME .
 ; geo.vgwort-de.2cnt.net disguised trackers
 ;
 geo.met.vgwort.de CNAME .
+;
+; halsa.tns-dk.2cnt.net disguised trackers
+;
+halsa.tns-gallup.dk CNAME .
 ;
 ; helpster.vgwort-de.2cnt.net disguised trackers
 ;
@@ -355,6 +363,10 @@ krak.tns-gallup.dk CNAME .
 ;
 kristeligtdagblad.tns-gallup.dk CNAME .
 ;
+; ksta.vgwort-de.2cnt.net disguised trackers
+;
+ksta.met.vgwort.de CNAME .
+;
 ; kundeunivers.tns-dk.2cnt.net disguised trackers
 ;
 kundeunivers.tns-gallup.dk CNAME .
@@ -382,6 +394,10 @@ merkur.met.vgwort.de CNAME .
 ; mineaviser.tns-dk.2cnt.net disguised trackers
 ;
 mineaviser.tns-gallup.dk CNAME .
+;
+; moreshop.tns-dk.2cnt.net disguised trackers
+;
+moreshop.tns-gallup.dk CNAME .
 ;
 ; n-tv.vgwort-de.2cnt.net disguised trackers
 ;
@@ -579,10 +595,6 @@ ssl-dplaystream.tns-gallup.dk CNAME .
 ;
 ssl-dr.tns-gallup.dk CNAME .
 ;
-; ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
-;
-ssl-drandroidtvstream.tns-gallup.dk CNAME .
-;
 ; ssl-drhbbtv.tns-dk.2cnt.net disguised trackers
 ;
 ssl-drhbbtv.tns-gallup.dk CNAME .
@@ -664,10 +676,6 @@ ssl-gaffa.tns-gallup.dk CNAME .
 ;
 ssl-gafiam.tns-gallup.dk CNAME .
 ssl-swpanel.tns-gallup.dk CNAME .
-;
-; ssl-gafiam.tns-dk.2cnt.net disguised trackers
-;
-ssl-gafiam.tns-gallup.dk CNAME .
 ;
 ; ssl-goerdetselv.tns-dk.2cnt.net disguised trackers
 ;

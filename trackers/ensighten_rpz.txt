@@ -33,6 +33,7 @@ activate.shopjustice.com CNAME .
 activate.sun-sentinel.com CNAME .
 activate.suncorp.com.au CNAME .
 activate.tacdn.com CNAME .
+activate.tidewaterreview.com CNAME .
 activate.united.com CNAME .
 activate1.fidelity.com CNAME .
 agility.cartoonnetwork.com CNAME .
@@ -87,6 +88,7 @@ assets1.vanz.vero.co.nz CNAME .
 assets1.vero.co.nz CNAME .
 assets1.vero.com.au CNAME .
 attribution.grasshoppers.com CNAME .
+attribution.lebara.com CNAME .
 attribution.saucony.com CNAME .
 attribution.sperry.com CNAME .
 attribution.tescomobile.com CNAME .
@@ -185,6 +187,7 @@ gst.pulse.buyatoyota.com CNAME .
 gst.pulse.toyota.com CNAME .
 hub.talkdeskapp.com CNAME .
 latimes.activate.ensighten.com CNAME .
+letsencrypt.data.ensighten.com CNAME .
 maurices.activate.ensighten.com CNAME .
 mcdonalds.activate.ensighten.com CNAME .
 measure.ensighten.com CNAME .
@@ -234,14 +237,17 @@ tagman.crystalsummer.co.uk CNAME .
 tagman.fotolia.com CNAME .
 tagman.intercall.com CNAME .
 tagman.silversingles.com CNAME .
+tagman.thistle.com CNAME .
 tagman.transavia.com CNAME .
 tagman.virgin-atlantic.com CNAME .
 tagman.virginatlantic.com CNAME .
 tagman.waitrose.com CNAME .
 tagman.waitrosecellar.com CNAME .
 tagmanager1.citi.com CNAME .
+tagmanager1.citibankonline.com CNAME .
 tags.aljazeera.com CNAME .
 tags.aljazeera.net CNAME .
+tags.aumago.com CNAME .
 tags.experian.co.uk CNAME .
 tags.hickies.com CNAME .
 tags.kone.com CNAME .

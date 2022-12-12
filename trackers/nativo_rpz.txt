@@ -4,12 +4,12 @@
 ; ntv.io disguised trackers
 ;
 partners.time.com CNAME .
-www.realworldsurvivor.com CNAME .
 ;
 ; ntvpforever.com disguised trackers
 ;
 02f3427bf4.bac23cfb5b.com CNAME .
 034beb90c9.61b6eab774.com CNAME .
+042006961f.0c98edaa39.com CNAME .
 0424b056e9.bfbcb7a235.com CNAME .
 0543f1c8c7.71aadba6c8.com CNAME .
 071cc548ff.78ab4874ae.com CNAME .
@@ -23,6 +23,7 @@ www.realworldsurvivor.com CNAME .
 1795105253.e02fe0d0c1.com CNAME .
 19364edf69.b88f1c5cda.com CNAME .
 1ed960d6ad.fa479896c7.com CNAME .
+2093b71876.d2c273238b.com CNAME .
 20cbc85129.fc455e7809.com CNAME .
 2c9ed85c0b.b2acafb3a3.com CNAME .
 2efa46ca31.da03ab7249.com CNAME .
@@ -38,6 +39,7 @@ www.realworldsurvivor.com CNAME .
 41f8a60477.cd4fb281e1.com CNAME .
 434d80d136.a07d30aaf0.com CNAME .
 46fe7fa264.4d2a483049.com CNAME .
+48260aa935.f3a173b897.com CNAME .
 48c1f78392.31f4ea3b17.com CNAME .
 4909cc6acc.0fc32b5283.com CNAME .
 497a1141f1.23d097de11.com CNAME .
@@ -46,6 +48,7 @@ www.realworldsurvivor.com CNAME .
 53f90ea18c.ad64463ef9.com CNAME .
 55bff2103f.f451b7f622.com CNAME .
 5691f27b38.77176d9509.com CNAME .
+57a8023ce9.1aa3097b7b.com CNAME .
 597eb96e9c.299f70c6b2.com CNAME .
 5ab3edc5c1.342c15527e.com CNAME .
 5ab760da26.bf34686748.com CNAME .
@@ -67,6 +70,7 @@ www.realworldsurvivor.com CNAME .
 7ddfe7bb78.1eb76ce5b7.com CNAME .
 7fe465ee76.f21c8cd9a7.com CNAME .
 8654683419.6ab77a3dad.com CNAME .
+865a159ba5.d7739252ca.com CNAME .
 8bf1e6c762.bcd7ad4271.com CNAME .
 8dbd9f1b8c.b0b96fffc2.com CNAME .
 90f6d578cc.2725849b34.com CNAME .
@@ -81,6 +85,8 @@ www.realworldsurvivor.com CNAME .
 a108652c62.f78f9d3fc2.com CNAME .
 a2ee316f2b.9c56fb6868.com CNAME .
 a2f288701d.a4334cc1ec.com CNAME .
+a3f4ac548d.114f3eaf8b.com CNAME .
+a536a9d481.04fce94137.com CNAME .
 a6270385bc.560fe03925.com CNAME .
 a80b9802f4.1aed915a81.com CNAME .
 ab6de09242.441a8a5527.com CNAME .
@@ -113,8 +119,10 @@ cca691f765.ca3362de0f.com CNAME .
 cce1fcf4c7.cca57f4672.com CNAME .
 cd4a13a8dd.8f1a606535.com CNAME .
 ceb8265201.4eb28685b6.com CNAME .
+d6761fc561.f329cba40e.com CNAME .
 da2870069a.c9c2b6b980.com CNAME .
 dab23ae107.466b3b8e1d.com CNAME .
+db47f9c2ff.904b686f95.com CNAME .
 dc2f9c5622.55f9d6e755.com CNAME .
 df53ff2b97.bcb3da3ac8.com CNAME .
 dfc8514de8.1ca65f5f5b.com CNAME .

@@ -33,6 +33,7 @@ activate.shopjustice.com
 activate.sun-sentinel.com
 activate.suncorp.com.au
 activate.tacdn.com
+activate.tidewaterreview.com
 activate.united.com
 activate1.fidelity.com
 agility.cartoonnetwork.com
@@ -87,6 +88,7 @@ assets1.vanz.vero.co.nz
 assets1.vero.co.nz
 assets1.vero.com.au
 attribution.grasshoppers.com
+attribution.lebara.com
 attribution.saucony.com
 attribution.sperry.com
 attribution.tescomobile.com
@@ -185,6 +187,7 @@ gst.pulse.buyatoyota.com
 gst.pulse.toyota.com
 hub.talkdeskapp.com
 latimes.activate.ensighten.com
+letsencrypt.data.ensighten.com
 maurices.activate.ensighten.com
 mcdonalds.activate.ensighten.com
 measure.ensighten.com
@@ -234,14 +237,17 @@ tagman.crystalsummer.co.uk
 tagman.fotolia.com
 tagman.intercall.com
 tagman.silversingles.com
+tagman.thistle.com
 tagman.transavia.com
 tagman.virgin-atlantic.com
 tagman.virginatlantic.com
 tagman.waitrose.com
 tagman.waitrosecellar.com
 tagmanager1.citi.com
+tagmanager1.citibankonline.com
 tags.aljazeera.com
 tags.aljazeera.net
+tags.aumago.com
 tags.experian.co.uk
 tags.hickies.com
 tags.kone.com

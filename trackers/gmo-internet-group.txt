@@ -6,6 +6,7 @@
 ||d.image-ad.jp^
 ||d.newssuite.sony.net^
 ||favor1.fractal.jp^
+||i.image-ad.jp^
 ||i.newssuite.sony.net^
 ||j.image-ad.jp^
 ||j.newssuite.sony.net^

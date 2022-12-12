@@ -4,6 +4,7 @@
 ! a8.net disguised trackers
 !
 ||1909a8.satofull.jp^
+||a8-affiliate.kase3535.com^
 ||a8-hoiku.mama-9jin.com^
 ||a8-itp.qoo10.jp^
 ||a8-xshop.secure.xserver.ne.jp^
@@ -33,6 +34,7 @@
 ||a8.denki-koji.work^
 ||a8.denki-tatsujin.com^
 ||a8.denwa-hikari.com^
+||a8.denwa-kanyuken.com^
 ||a8.efax.co.jp^
 ||a8.emma-sleep-japan.com^
 ||a8.eonet.jp^
@@ -59,6 +61,7 @@
 ||a8.ippin-do.com^
 ||a8.kajitaku.com^
 ||a8.kanbei.jp^
+||a8.kddi-hikari.com^
 ||a8.kimonomachi.co.jp^
 ||a8.kinkennet.jp^
 ||a8.kireiyu.com^
@@ -137,6 +140,7 @@
 ||a8.yanoman.com^
 ||a8.yuzen-official.com^
 ||a8.zeroku.jp^
+||a802.xn--38jf6c4pa86a1dv833cexrb.com^
 ||a8aspconv.itx-home-router.com^
 ||a8aspconv.ns-softbank-hikari.com^
 ||a8aspconv.xn--biglobe-kc9k.com^
@@ -169,6 +173,7 @@
 ||a8clk.chuko-truck.com^
 ||a8clk.cleaneo.jp^
 ||a8clk.cp.favorina.com^
+||a8clk.crefus.com^
 ||a8clk.crowdworks.jp^
 ||a8clk.cv.geechs-job.com^
 ||a8clk.cv.hanaravi.jp^
@@ -287,6 +292,7 @@
 ||a8clk.xserver.ne.jp^
 ||a8clk.ykd.co.jp^
 ||a8clk.yourmystar.jp^
+||a8clk.yumeyakata.com^
 ||a8clk.zigen-shop.com^
 ||a8cllk.arahataen.com^
 ||a8cname.nj-e.jp^
@@ -305,6 +311,7 @@
 ||a8cv.araiba.net^
 ||a8cv.atami-box.com^
 ||a8cv.b-concept.tokyo^
+||a8cv.baiden-king.com^
 ||a8cv.be-slim-spbikyou.com^
 ||a8cv.bettysbeauty.jp^
 ||a8cv.biken-mall.jp^
@@ -362,6 +369,7 @@
 ||a8cv.ikapula.com^
 ||a8cv.interlink.or.jp^
 ||a8cv.ishibashi.co.jp^
+||a8cv.ishibestcareer.com^
 ||a8cv.isslim.jp^
 ||a8cv.iwamizu.com^
 ||a8cv.japaden.jp^
@@ -558,13 +566,6 @@
 ||cv.online.ysroad.co.jp^
 ||cv.re-shop.jp^
 ||cv.ryoutuki-kyujin.com^
-||cv.shiryoku1.com^
-||cv.subscription-store.com^
-||cv.sumaho-hoken.jp^
-||cv.tenjin.cc^
-||cv.web-sana.com^
-||cv.www.rokuzan.net^
-||cv.xn--bcktcvdzde3c.biz^
 ||cv.xn--zbs202g.com^
 ||cv.zephylrin-w.com^
 ||cv.zephylrin-x.net^
@@ -573,4 +574,5 @@
 ||kaden.netoff.co.jp^
 ||track.craudia.com^
 ||tracking.196189.com^
+||web.hikari-cmf.com^
 ||web.nuro-life.com^

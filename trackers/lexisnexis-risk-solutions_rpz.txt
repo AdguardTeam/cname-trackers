@@ -27,6 +27,7 @@ appschk.scotiabank.com CNAME .
 appscore.credilike.me CNAME .
 assessment.nj.betmgm.com CNAME .
 assets.werally.co CNAME .
+assets2.ihg.com CNAME .
 assets2.thefirstclub.com CNAME .
 auth.vedacheck.com.au CNAME .
 auth2.corelogic.asia CNAME .
@@ -83,7 +84,6 @@ cdnm.sts.pl CNAME .
 cdns.moneyplace.com.au CNAME .
 cdnt.duobank.com CNAME .
 cdnt.walmartrewards.ca CNAME .
-cdntm.billpay.de CNAME .
 cdntm.firstdirect.com CNAME .
 cdntm.hangseng.com CNAME .
 cdntm.hsbc.co.in CNAME .
@@ -117,6 +117,7 @@ check3.tiaa.org CNAME .
 check3.tiaabank.com CNAME .
 checkout-df.lululemon.com CNAME .
 cib.currency.lloydsbank.com CNAME .
+claimant.vec.virginia.gov CNAME .
 clear.wallapop.com CNAME .
 clovergo.june-testing.firstdata.com CNAME .
 cmprofile.cards.citidirect.com CNAME .
@@ -134,6 +135,7 @@ content.asurion53.com CNAME .
 content.atmosphere.ca CNAME .
 content.bankerslife.com CNAME .
 content.benefitsaccess.org CNAME .
+content.billdomain.com CNAME .
 content.bnl.it CNAME .
 content.byabcd.com CNAME .
 content.canadiantire.ca CNAME .
@@ -155,6 +157,7 @@ content.dstv.com CNAME .
 content.dwd.wisconsin.gov CNAME .
 content.ebanking-services.com CNAME .
 content.ecampus.com CNAME .
+content.egyptair.com CNAME .
 content.espace-client.hellobank.fr CNAME .
 content.etransfer.interac.ca CNAME .
 content.ezaem.ru CNAME .
@@ -261,6 +264,7 @@ contentservices.brightlending.com CNAME .
 contentservices.clearairlending.com CNAME .
 creditcheck.digitecgalaxus.ch CNAME .
 csource.rentals.com CNAME .
+css.bitcasino.io CNAME .
 css.slots.io CNAME .
 css.sportsbet.io CNAME .
 cstm.gumtree.com CNAME .
@@ -380,6 +384,7 @@ log.checkmyfile.com CNAME .
 log.open.investorsbank.com CNAME .
 login.eki-net.com CNAME .
 loyaltyprogram.latam.com CNAME .
+loyaltyprogram.latamairlines.com CNAME .
 lpo.unionbank.com CNAME .
 lsdp.lotto.com CNAME .
 lsprof.comeon.com CNAME .
@@ -601,6 +606,7 @@ tm.betano.cz CNAME .
 tm.betano.de CNAME .
 tm.cbd.ae CNAME .
 tm.cox.com CNAME .
+tm.creditcheck.illion.co.nz CNAME .
 tm.creditcheck.illion.com.au CNAME .
 tm.creditsimple.co.nz CNAME .
 tm.creditsimple.com.au CNAME .
@@ -663,6 +669,7 @@ tx.suncoastcreditunion.com CNAME .
 txcontent.iherb.cn CNAME .
 txcontent.iherb.com CNAME .
 uafms.ocbc.com CNAME .
+ualaki-analytics.vacations.united.com CNAME .
 uldfp.srilankan.com CNAME .
 v.ayco.com CNAME .
 v.goldman.com CNAME .

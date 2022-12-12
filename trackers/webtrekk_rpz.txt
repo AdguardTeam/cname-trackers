@@ -197,6 +197,7 @@ trk.krebsversicherung.de CNAME .
 trk.nuernberger.digital CNAME .
 w3.aktionaersbank.de CNAME .
 w7.berlin.de CNAME .
+w7.berliner-silvester.de CNAME .
 w7.weihnachteninberlin.de CNAME .
 wa.planet-wissen.de CNAME .
 wa.quarks.de CNAME .
@@ -287,10 +288,12 @@ web.slimjoy.sk CNAME .
 web.solesource.com CNAME .
 web.tummy-tox.com CNAME .
 web.tummytox.de CNAME .
+web.tummytox.it CNAME .
 web.tummytox.pt CNAME .
 web.tummytox.sk CNAME .
 web.x.ilpost.it CNAME .
 webmet.creditreform.de CNAME .
+website-usage.b2bendix.com CNAME .
 website-usage.knorr-bremse.com CNAME .
 webt.aqipa.com CNAME .
 webt.eleonto.com CNAME .

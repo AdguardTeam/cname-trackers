@@ -10,6 +10,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | 1909a8.satofull.jp | trck.a8.net |
+| a8-affiliate.kase3535.com | trck.a8.net |
 | a8-hoiku.mama-9jin.com | trck.a8.net |
 | a8-itp.qoo10.jp | trck.a8.net |
 | a8-xshop.secure.xserver.ne.jp | trck.a8.net |
@@ -39,6 +40,7 @@
 | a8.denki-koji.work | trck.a8.net |
 | a8.denki-tatsujin.com | trck.a8.net |
 | a8.denwa-hikari.com | trck.a8.net |
+| a8.denwa-kanyuken.com | trck.a8.net |
 | a8.efax.co.jp | trck.a8.net |
 | a8.emma-sleep-japan.com | trck.a8.net |
 | a8.eonet.jp | trck.a8.net |
@@ -65,6 +67,7 @@
 | a8.ippin-do.com | trck.a8.net |
 | a8.kajitaku.com | trck.a8.net |
 | a8.kanbei.jp | trck.a8.net |
+| a8.kddi-hikari.com | trck.a8.net |
 | a8.kimonomachi.co.jp | trck.a8.net |
 | a8.kinkennet.jp | trck.a8.net |
 | a8.kireiyu.com | trck.a8.net |
@@ -143,6 +146,7 @@
 | a8.yanoman.com | trck.a8.net |
 | a8.yuzen-official.com | trck.a8.net |
 | a8.zeroku.jp | trck.a8.net |
+| a802.xn--38jf6c4pa86a1dv833cexrb.com | trck.a8.net |
 | a8aspconv.itx-home-router.com | trck.a8.net |
 | a8aspconv.ns-softbank-hikari.com | trck.a8.net |
 | a8aspconv.xn--biglobe-kc9k.com | trck.a8.net |
@@ -175,6 +179,7 @@
 | a8clk.chuko-truck.com | trck.a8.net |
 | a8clk.cleaneo.jp | trck.a8.net |
 | a8clk.cp.favorina.com | trck.a8.net |
+| a8clk.crefus.com | trck.a8.net |
 | a8clk.crowdworks.jp | trck.a8.net |
 | a8clk.cv.geechs-job.com | trck.a8.net |
 | a8clk.cv.hanaravi.jp | trck.a8.net |
@@ -293,6 +298,7 @@
 | a8clk.xserver.ne.jp | trck.a8.net |
 | a8clk.ykd.co.jp | trck.a8.net |
 | a8clk.yourmystar.jp | trck.a8.net |
+| a8clk.yumeyakata.com | trck.a8.net |
 | a8clk.zigen-shop.com | trck.a8.net |
 | a8cllk.arahataen.com | trck.a8.net |
 | a8cname.nj-e.jp | trck.a8.net |
@@ -311,6 +317,7 @@
 | a8cv.araiba.net | trck.a8.net |
 | a8cv.atami-box.com | trck.a8.net |
 | a8cv.b-concept.tokyo | trck.a8.net |
+| a8cv.baiden-king.com | trck.a8.net |
 | a8cv.be-slim-spbikyou.com | trck.a8.net |
 | a8cv.bettysbeauty.jp | trck.a8.net |
 | a8cv.biken-mall.jp | trck.a8.net |
@@ -368,6 +375,7 @@
 | a8cv.ikapula.com | trck.a8.net |
 | a8cv.interlink.or.jp | trck.a8.net |
 | a8cv.ishibashi.co.jp | trck.a8.net |
+| a8cv.ishibestcareer.com | trck.a8.net |
 | a8cv.isslim.jp | trck.a8.net |
 | a8cv.iwamizu.com | trck.a8.net |
 | a8cv.japaden.jp | trck.a8.net |
@@ -564,13 +572,6 @@
 | cv.online.ysroad.co.jp | trck.a8.net |
 | cv.re-shop.jp | trck.a8.net |
 | cv.ryoutuki-kyujin.com | trck.a8.net |
-| cv.shiryoku1.com | trck.a8.net |
-| cv.subscription-store.com | trck.a8.net |
-| cv.sumaho-hoken.jp | trck.a8.net |
-| cv.tenjin.cc | trck.a8.net |
-| cv.web-sana.com | trck.a8.net |
-| cv.www.rokuzan.net | trck.a8.net |
-| cv.xn--bcktcvdzde3c.biz | trck.a8.net |
 | cv.xn--zbs202g.com | trck.a8.net |
 | cv.zephylrin-w.com | trck.a8.net |
 | cv.zephylrin-x.net | trck.a8.net |
@@ -579,4 +580,5 @@
 | kaden.netoff.co.jp | trck.a8.net |
 | track.craudia.com | trck.a8.net |
 | tracking.196189.com | trck.a8.net |
+| web.hikari-cmf.com | trck.a8.net |
 | web.nuro-life.com | trck.a8.net |

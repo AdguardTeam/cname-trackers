@@ -17,8 +17,10 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
+refer.aol.com CNAME .
 refer.barenecessities.com CNAME .
 refer.basictalk.com CNAME .
+refer.beautisol.com CNAME .
 refer.checkngo.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
@@ -32,6 +34,7 @@ refer.freshly.com CNAME .
 refer.hannaandersson.com CNAME .
 refer.harimari.com CNAME .
 refer.healthypawspetinsurance.com CNAME .
+refer.johnson.ca CNAME .
 refer.julep.com CNAME .
 refer.kipling-usa.com CNAME .
 refer.luckyvitamin.com CNAME .
@@ -71,6 +74,7 @@ tellapal.web.com CNAME .
 ;
 ; extole.io disguised trackers
 ;
+em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -116,9 +120,11 @@ refer.cinemark.com CNAME .
 refer.codecademy.com CNAME .
 refer.comfortzoneskin.com CNAME .
 refer.competitivecyclist.com CNAME .
+refer.contiki.com CNAME .
 refer.creativelive.com CNAME .
 refer.cspire.com CNAME .
 refer.embracepetinsurance.com CNAME .
+refer.ems.com CNAME .
 refer.eset.com CNAME .
 refer.etrade.net CNAME .
 refer.everlywell.com CNAME .
@@ -157,6 +163,7 @@ refer.laroche-posay.us CNAME .
 refer.lasenza.ca CNAME .
 refer.lasenza.com CNAME .
 refer.lauramercier.com CNAME .
+refer.laylasleep.com CNAME .
 refer.lendingclub.com CNAME .
 refer.lenscrafters.com CNAME .
 refer.lightstream.com CNAME .
@@ -178,10 +185,12 @@ refer.pimsleur.com CNAME .
 refer.prokeds.com CNAME .
 refer.psecu.com CNAME .
 refer.pureology.com CNAME .
+refer.pvdparking.com CNAME .
 refer.quickbooks.co.uk CNAME .
 refer.reebok.com CNAME .
 refer.reliasacademy.com CNAME .
 refer.remit2india.com CNAME .
+refer.rileyrose.com CNAME .
 refer.rockport.com CNAME .
 refer.rodo.com CNAME .
 refer.saatva.com CNAME .
@@ -193,6 +202,7 @@ refer.sharkclean.com CNAME .
 refer.skinceuticals.com CNAME .
 refer.skyone.org CNAME .
 refer.sleepnumber.com CNAME .
+refer.snapfinance.com CNAME .
 refer.soma.com CNAME .
 refer.spothero.com CNAME .
 refer.starfurniture.com CNAME .
@@ -208,6 +218,8 @@ refer.terijon.com CNAME .
 refer.thecompanystore.com CNAME .
 refer.thepopcornfactory.com CNAME .
 refer.thesculptsociety.com CNAME .
+refer.thewildest.com CNAME .
+refer.tous.com CNAME .
 refer.twisthair.com CNAME .
 refer.underarmour.co.uk CNAME .
 refer.underarmour.de CNAME .
@@ -311,6 +323,7 @@ share.myq.com CNAME .
 share.newtonbaby.com CNAME .
 share.obagi.com CNAME .
 share.ollocard.com CNAME .
+share.openenglish.com CNAME .
 share.opploans.com CNAME .
 share.origins.com CNAME .
 share.partsvu.com CNAME .
@@ -322,6 +335,7 @@ share.refer-aveda.ca CNAME .
 share.refer-aveda.com CNAME .
 share.refer-bumbleandbumble.com CNAME .
 share.refer-darphin.com CNAME .
+share.refer-darphin.fr CNAME .
 share.refer-maccosmetics.ca CNAME .
 share.refer-maccosmetics.co.uk CNAME .
 share.refer-maccosmetics.com CNAME .

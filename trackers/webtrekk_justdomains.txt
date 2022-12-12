@@ -197,6 +197,7 @@ trk.krebsversicherung.de
 trk.nuernberger.digital
 w3.aktionaersbank.de
 w7.berlin.de
+w7.berliner-silvester.de
 w7.weihnachteninberlin.de
 wa.planet-wissen.de
 wa.quarks.de
@@ -287,10 +288,12 @@ web.slimjoy.sk
 web.solesource.com
 web.tummy-tox.com
 web.tummytox.de
+web.tummytox.it
 web.tummytox.pt
 web.tummytox.sk
 web.x.ilpost.it
 webmet.creditreform.de
+website-usage.b2bendix.com
 website-usage.knorr-bremse.com
 webt.aqipa.com
 webt.eleonto.com

@@ -25,6 +25,7 @@
 ||avb-sing.cau1aighae.com^
 ||avb-sing.ewtcbedtmx.ru^
 ||avbr.13wynpuurt.ru^
+||di-res-latam.cau1aighae.com^
 ||di-res-sing.cau1aighae.com^
 ||di-res.cau1aighae.com^
 ||di-res.iemieshohx.com^

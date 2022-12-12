@@ -17,12 +17,14 @@ tk.airfrance.ch CNAME .
 tk.airfrance.co.jp CNAME .
 tk.airfrance.co.kr CNAME .
 tk.airfrance.co.uk CNAME .
+tk.airfrance.co.za CNAME .
 tk.airfrance.cz CNAME .
 tk.airfrance.de CNAME .
 tk.airfrance.dk CNAME .
 tk.airfrance.fi CNAME .
 tk.airfrance.fr CNAME .
 tk.airfrance.ga CNAME .
+tk.airfrance.gf CNAME .
 tk.airfrance.gr CNAME .
 tk.airfrance.hr CNAME .
 tk.airfrance.ht CNAME .
@@ -30,6 +32,7 @@ tk.airfrance.ie CNAME .
 tk.airfrance.it CNAME .
 tk.airfrance.ma CNAME .
 tk.airfrance.mq CNAME .
+tk.airfrance.mu CNAME .
 tk.airfrance.ng CNAME .
 tk.airfrance.pa CNAME .
 tk.airfrance.pf CNAME .

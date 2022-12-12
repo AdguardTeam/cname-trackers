@@ -17,8 +17,10 @@ refer.ahsfriends.com
 refer.american-giant.com
 refer.americanexpress.com
 refer.ancestry.com
+refer.aol.com
 refer.barenecessities.com
 refer.basictalk.com
+refer.beautisol.com
 refer.checkngo.com
 refer.clearme.com
 refer.compexusa.com
@@ -32,6 +34,7 @@ refer.freshly.com
 refer.hannaandersson.com
 refer.harimari.com
 refer.healthypawspetinsurance.com
+refer.johnson.ca
 refer.julep.com
 refer.kipling-usa.com
 refer.luckyvitamin.com
@@ -71,6 +74,7 @@ tellapal.web.com
 #
 # extole.io disguised trackers
 #
+em8561.go2bank.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -116,9 +120,11 @@ refer.cinemark.com
 refer.codecademy.com
 refer.comfortzoneskin.com
 refer.competitivecyclist.com
+refer.contiki.com
 refer.creativelive.com
 refer.cspire.com
 refer.embracepetinsurance.com
+refer.ems.com
 refer.eset.com
 refer.etrade.net
 refer.everlywell.com
@@ -157,6 +163,7 @@ refer.laroche-posay.us
 refer.lasenza.ca
 refer.lasenza.com
 refer.lauramercier.com
+refer.laylasleep.com
 refer.lendingclub.com
 refer.lenscrafters.com
 refer.lightstream.com
@@ -178,10 +185,12 @@ refer.pimsleur.com
 refer.prokeds.com
 refer.psecu.com
 refer.pureology.com
+refer.pvdparking.com
 refer.quickbooks.co.uk
 refer.reebok.com
 refer.reliasacademy.com
 refer.remit2india.com
+refer.rileyrose.com
 refer.rockport.com
 refer.rodo.com
 refer.saatva.com
@@ -193,6 +202,7 @@ refer.sharkclean.com
 refer.skinceuticals.com
 refer.skyone.org
 refer.sleepnumber.com
+refer.snapfinance.com
 refer.soma.com
 refer.spothero.com
 refer.starfurniture.com
@@ -208,6 +218,8 @@ refer.terijon.com
 refer.thecompanystore.com
 refer.thepopcornfactory.com
 refer.thesculptsociety.com
+refer.thewildest.com
+refer.tous.com
 refer.twisthair.com
 refer.underarmour.co.uk
 refer.underarmour.de
@@ -311,6 +323,7 @@ share.myq.com
 share.newtonbaby.com
 share.obagi.com
 share.ollocard.com
+share.openenglish.com
 share.opploans.com
 share.origins.com
 share.partsvu.com
@@ -322,6 +335,7 @@ share.refer-aveda.ca
 share.refer-aveda.com
 share.refer-bumbleandbumble.com
 share.refer-darphin.com
+share.refer-darphin.fr
 share.refer-maccosmetics.ca
 share.refer-maccosmetics.co.uk
 share.refer-maccosmetics.com

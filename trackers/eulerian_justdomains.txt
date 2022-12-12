@@ -26,7 +26,6 @@ anz7.allianz-voyage.fr
 aod4.societegenerale.fr
 ar.i-run.fr
 azg1.emalu-store.com
-b1n.carabins.umontreal.ca
 bch8.destinia.co
 bdj5.terrassesmontecarlosbm.com
 bft5.destinia.fr
@@ -36,6 +35,7 @@ bum7.bymycar.fr
 bvz5.destinia.com.tr
 bwj4.hrhibiza.com
 c0i.ckoi.com
+c0p.cepsum.umontreal.ca
 c4dv.copinesdevoyage.com
 ca.clubavantages.net
 cbl6.destinia.gt
@@ -183,6 +183,7 @@ fbu8.ticket-online.montecarlolive.com
 fkwc.sfr.fr
 fl5dpe.oui.sncf
 fpb8.esce.fr
+fsz1.francoisesaget.be
 fsz1.francoisesaget.com
 fzb5.laboratoire-giphar.fr
 fzu4.bysidecar.com
@@ -196,6 +197,7 @@ h00c.sfr.fr
 hbo5.concours-pass.com
 hby7.destinia.it
 hgf4.zanzicar.fr
+hk2d.tourismemauricie.com
 hkj8.evobanco.com
 idg1.idgarages.com
 inv3te.oui.sncf
@@ -361,7 +363,6 @@ v.oui.sncf
 vbe.voyage-prive.be
 vch.voyage-prive.ch
 vde1.voyage-prive.de
-vet0.carrefour-banque.fr
 vfo.voyage-prive.co.uk
 vgo.vegaoo.de
 vgo.vegaoo.es
@@ -381,6 +382,7 @@ wph2.destinia.us
 xay5o.toscane-boutique.fr
 xjq5.belambra.be
 xoq.pmubrasil.com.br
+xuc.monteleone.fr
 xy33.smallable.com
 xya4.groupefsc.com
 yf5.voyage-prive.at

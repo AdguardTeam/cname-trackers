@@ -10,6 +10,7 @@ bl.delbertgobans.com CNAME .
 bx.khedivaormond.com CNAME .
 bz.waveoffcrakes.com CNAME .
 ca.encurlergon.com CNAME .
+dd.zillahhayers.com CNAME .
 dg.durgahsursize.com CNAME .
 du.jubhahbalize.com CNAME .
 et.harmoutguereza.com CNAME .
@@ -23,7 +24,10 @@ ir.mildlydoucely.com CNAME .
 jo.tictocswended.com CNAME .
 jv.curiousuraemia.com CNAME .
 kl.osmoticchalah.com CNAME .
+lf.unvenomangst.com CNAME .
+lq.nullusposolo.com CNAME .
 mp.ualisbaubles.com CNAME .
+nc.nominaturfy.com CNAME .
 np.incrustkantela.com CNAME .
 oj.daunnotes.com CNAME .
 ok.ribworkstylus.com CNAME .

@@ -13,6 +13,7 @@
 | ---- | ---- |
 | ac-dir-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | avb-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
+| di-res-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | abttss-ur.exolkkl6i2puvf.ru | lb.rtb.ads.bid |
 | ac-dir-co.cau1aighae.com | lb.rtb.ads.bid |

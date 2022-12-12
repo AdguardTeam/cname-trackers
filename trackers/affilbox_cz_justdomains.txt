@@ -282,7 +282,9 @@ partner.affilnet.cz
 partner.alesio.cz
 partner.amonitsro.sk
 partner.anabix.cz
+partner.antihacker.cz
 partner.artmasteracademy.cz
+partner.astaxanthincz.cz
 partner.babysigns.cz
 partner.bandana.cz
 partner.barnaby.cz
@@ -335,6 +337,7 @@ partner.gokids.cz
 partner.h2world.store
 partner.hanamoneam.com
 partner.hoska-tour.cz
+partner.hothousecucumber.com
 partner.imrnous.cz
 partner.investinslovakia.eu
 partner.iodesign.cz
@@ -350,6 +353,7 @@ partner.kidtown.cz
 partner.kokiskashop.cz
 partner.kokiskashop.sk
 partner.korenikralu.cz
+partner.kurzysusmevem.cz
 partner.kvcar.cz
 partner.lascero.cz
 partner.legalni-konopi.cz
@@ -387,6 +391,7 @@ partner.pradoch.cz
 partner.pravopisne.cz
 partner.prosperk.cz
 partner.psidetektiv.cz
+partner.runningpro.cz
 partner.salibandy.shop
 partner.santao.cz
 partner.scilearn.cz
@@ -489,6 +494,7 @@ partneri.radostkazdyden.cz
 partneri.roklen.cz
 partneri.rondainvest.cz
 partneri.rybitukylysi.cz
+partneri.setrice.eu
 partneri.silaprozivot.com
 partneri.smartemailing.cz
 partneri.smyslovy-pruzkumnik.cz

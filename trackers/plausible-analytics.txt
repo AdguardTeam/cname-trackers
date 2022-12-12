@@ -104,6 +104,7 @@
 ||counter.websitevoice.com^
 ||data.aik.in^
 ||datum.appfleet.com^
+||ds.webprojectslab.com^
 ||eliteclng.ericksonbuilt.com^
 ||events.mikescerealshack.co^
 ||explore.bytelab.uk^
@@ -141,11 +142,13 @@
 ||munnin.hicsuntdra.co^
 ||noushe.zevvle.com^
 ||numbers.triplejack.com^
+||nums.upscale.app^
 ||p.aj-foster.com^
 ||p.barrera.io^
 ||p.classroombookings.com^
 ||p.e-bot7.com^
 ||p.fairspot.host^
+||p.ianmjones.com^
 ||p.ifvictr.com^
 ||p.marqueplace.com^
 ||p.meilentrio.de^
@@ -234,6 +237,7 @@
 ||plausible.flowcv.io^
 ||plausible.flowhr.io^
 ||plausible.food.game^
+||plausible.giveatip.io^
 ||plausible.golfbreaks.com^
 ||plausible.goose.game^
 ||plausible.gryka.net^
@@ -411,7 +415,6 @@
 ||stats.centralswindonnorth-pc.gov.uk^
 ||stats.cfcasts.com^
 ||stats.chadly.net^
-||stats.challengehub.app^
 ||stats.changelog.com^
 ||stats.chapterist.show^
 ||stats.chargemybike.de^
@@ -462,6 +465,7 @@
 ||stats.digiexpert.store^
 ||stats.divyanshu013.dev^
 ||stats.dmarcdigests.com^
+||stats.domhabersack.com^
 ||stats.dominikmayer.com^
 ||stats.doors.live^
 ||stats.dotnetfromthemountain.com^
@@ -483,6 +487,7 @@
 ||stats.engeldirekt.de^
 ||stats.engineering.freeagent.com^
 ||stats.englishadam.com^
+||stats.equium.io^
 ||stats.erbridge.co.uk^
 ||stats.erlef.org^
 ||stats.executebig.org^
@@ -496,6 +501,7 @@
 ||stats.felipesere.com^
 ||stats.femtobill.com^
 ||stats.ff.ht^
+||stats.filburg.co^
 ||stats.filewatch.net^
 ||stats.flightsphere.com^
 ||stats.florianfritz.net^
@@ -606,6 +612,7 @@
 ||stats.macosicons.com^
 ||stats.martinbetz.eu^
 ||stats.mastermeup.com^
+||stats.masterybits.com^
 ||stats.matthiasloibl.com^
 ||stats.mazlandscaping.com^
 ||stats.memberdrive.org^
@@ -622,6 +629,7 @@
 ||stats.newslit.co^
 ||stats.nodewood.com^
 ||stats.nothingbutnylon.com^
+||stats.nullsecure.com^
 ||stats.nytecomics.com^
 ||stats.onepagelove.com^
 ||stats.ortussolutions.com^
@@ -629,7 +637,9 @@
 ||stats.oxygem.com^
 ||stats.pasteapp.io^
 ||stats.paulbutler.org^
+||stats.paysagistes.pro^
 ||stats.pendleratlas.de^
+||stats.phelsumagrandis.de^
 ||stats.photovisionprints.com^
 ||stats.pianoplanet.app^
 ||stats.piranhas.co^
@@ -642,6 +652,8 @@
 ||stats.radreiseglueck.de^
 ||stats.raidprotect.org^
 ||stats.rasulkireev.com^
+||stats.ravivyas.com^
+||stats.reactshowcase.com^
 ||stats.reisemobil.pro^
 ||stats.remotebear.io^
 ||stats.revit-content.com^
@@ -680,8 +692,10 @@
 ||stats.svenadolph.net^
 ||stats.swicket.io^
 ||stats.tekin.co.uk^
+||stats.telositycompany.com^
 ||stats.textprotocol.org^
 ||stats.thingsthatkeepmeupatnight.dev^
+||stats.threadstart.io^
 ||stats.timmyomahony.com^
 ||stats.toiletmap.org.uk^
 ||stats.tomorrowacademy.org^
@@ -691,16 +705,22 @@
 ||stats.ubiwiz.com^
 ||stats.urlaubsverwaltung.cloud^
 ||stats.useeffect.dev^
+||stats.vinkkaa.fi^
+||stats.voltamediahouse.com^
+||stats.vrymel.com^
+||stats.wachstum.at^
 ||stats.walkiees.co.uk^
 ||stats.wavepointconsulting.ca^
 ||stats.whereisit5pmrightnow.com^
 ||stats.world.hey.com^
+||stats.wvs.org.uk^
 ||stats.zander.wtf^
 ||t.lastcast.fm^
 ||tics.seeker.gg^
 ||tipstats.onepagelove.com^
 ||tock.weg.plus^
 ||track.pokestats.gg^
+||track.slickinbox.com^
 ||visitors.asadis.net^
 ||vole.amplenote.com^
 ||we-love-privacy.humane.club^

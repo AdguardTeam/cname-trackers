@@ -21,6 +21,7 @@
     * h-2fiylyk1.online-metrix.net
     * h-2n067wr9.online-metrix.net
     * h-2ngdxgzm.online-metrix.net
+    * h-2qfdtlmr.online-metrix.net
     * h-2ql3c6py.online-metrix.net
     * h-2yf3c1v4.online-metrix.net
     * h-30fpzt2y.online-metrix.net
@@ -109,13 +110,13 @@
     * h-betmgm.online-metrix.net
     * h-beyondbank.online-metrix.net
     * h-bhs5fatf.online-metrix.net
-    * h-billpay.online-metrix.net
     * h-blueorangebank.online-metrix.net
     * h-bluevine.online-metrix.net
     * h-bmo.online-metrix.net
     * h-bmoharris2.online-metrix.net
     * h-bnc.online-metrix.net
     * h-bnl.online-metrix.net
+    * h-bo72h7g2-1.online-metrix.net
     * h-bo72h7g2-4.online-metrix.net
     * h-bo72h7g2-5.online-metrix.net
     * h-bos-soc.online-metrix.net
@@ -317,6 +318,7 @@
     * h-k8vif92e-2.online-metrix.net
     * h-k8vif92e-au.online-metrix.net
     * h-k8vif92e-av.online-metrix.net
+    * h-k8vif92e-egy.online-metrix.net
     * h-k8vif92e-jm.online-metrix.net
     * h-k8vif92e-lulu.online-metrix.net
     * h-k8vif92e-mo.online-metrix.net
@@ -477,6 +479,7 @@
     * h-telecharge.online-metrix.net
     * h-tesco.online-metrix.net
     * h-thecardservicescenter.online-metrix.net
+    * h-thefirstclub-ihg.online-metrix.net
     * h-thefirstclub.online-metrix.net
     * h-thmep.zondaglobal.online-metrix.net
     * h-threatmetrix.online-metrix.net
@@ -558,6 +561,7 @@
 | fp.jdwilliams.co.uk | h-2n067wr9.online-metrix.net |
 | fp.simplybe.co.uk | h-2n067wr9.online-metrix.net |
 | img.remit.co.jp | h-2ngdxgzm.online-metrix.net |
+| claimant.vec.virginia.gov | h-2qfdtlmr.online-metrix.net |
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
 | app.uob.com.sg | h-30fpzt2y.online-metrix.net |
@@ -671,7 +675,6 @@
 | assessment.nj.betmgm.com | h-betmgm.online-metrix.net |
 | tmx.beyondbank.com.au | h-beyondbank.online-metrix.net |
 | content.byabcd.com | h-bhs5fatf.online-metrix.net |
-| cdntm.billpay.de | h-billpay.online-metrix.net |
 | stat.blueorangebank.com | h-blueorangebank.online-metrix.net |
 | stat.bluorbank.lv | h-blueorangebank.online-metrix.net |
 | tm-analytics.bluevine.com | h-bluevine.online-metrix.net |
@@ -680,6 +683,7 @@
 | enligne.bnc.ca | h-bnc.online-metrix.net |
 | content.bnl.it | h-bnl.online-metrix.net |
 | content.hellobank.it | h-bnl.online-metrix.net |
+| css.bitcasino.io | h-bo72h7g2-1.online-metrix.net |
 | css.slots.io | h-bo72h7g2-4.online-metrix.net |
 | css.sportsbet.io | h-bo72h7g2-5.online-metrix.net |
 | cbcdn.bankofscotland.co.uk | h-bos-soc.online-metrix.net |
@@ -853,6 +857,7 @@
 | cfaxq2.fidelity.com | h-fidelity.online-metrix.net |
 | daotm.firstcitizens.com | h-firstcitizensbank.online-metrix.net |
 | clovergo.june-testing.firstdata.com | h-firstdata.online-metrix.net |
+| content.billdomain.com | h-fisglobal.online-metrix.net |
 | content.consumercardaccess.com | h-fisglobal.online-metrix.net |
 | content.ebanking-services.com | h-fisglobal.online-metrix.net |
 | content.familyprepaiddebit.com | h-fisglobal.online-metrix.net |
@@ -926,6 +931,7 @@
 | content.maxconnector.com | h-iddataweb.online-metrix.net |
 | txcontent.iherb.cn | h-iherb.online-metrix.net |
 | txcontent.iherb.com | h-iherb.online-metrix.net |
+| tm.creditcheck.illion.co.nz | h-illion.online-metrix.net |
 | tm.creditcheck.illion.com.au | h-illion.online-metrix.net |
 | tmcontent.imvu.com | h-imvucontent.online-metrix.net |
 | content2.instacart.com | h-instacart.online-metrix.net |
@@ -944,6 +950,7 @@
 | img3.avis.com | h-k8vif92e-av.online-metrix.net |
 | img3.budget.com | h-k8vif92e-av.online-metrix.net |
 | img3.paylesscar.com | h-k8vif92e-av.online-metrix.net |
+| content.egyptair.com | h-k8vif92e-egy.online-metrix.net |
 | cdncy.jmbullion.com | h-k8vif92e-jm.online-metrix.net |
 | checkout-df.lululemon.com | h-k8vif92e-lulu.online-metrix.net |
 | mobile.du.ae | h-k8vif92e-mo.online-metrix.net |
@@ -966,6 +973,7 @@
 | wp.kroger.com | h-kroger.online-metrix.net |
 | content.kylottery.com | h-kylottery.online-metrix.net |
 | loyaltyprogram.latam.com | h-latam.online-metrix.net |
+| loyaltyprogram.latamairlines.com | h-latam.online-metrix.net |
 | id.latitudefinancial.com | h-latitudefinancial.online-metrix.net |
 | content9.lendingtree.com | h-lendingtree.online-metrix.net |
 | cdn2.lfg.com | h-lfg.online-metrix.net |
@@ -1157,6 +1165,7 @@
 | tm.telecharge.com | h-telecharge.online-metrix.net |
 | tbp.tescobank.com | h-tesco.online-metrix.net |
 | cda.thecardservicescenter.com | h-thecardservicescenter.online-metrix.net |
+| assets2.ihg.com | h-thefirstclub-ihg.online-metrix.net |
 | assets2.thefirstclub.com | h-thefirstclub.online-metrix.net |
 | thmep.zondaglobal.com | h-thmep.zondaglobal.online-metrix.net |
 | h.threatmetrix.com | h-threatmetrix.online-metrix.net |
@@ -1195,6 +1204,7 @@
 | yfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | frp.intuit.com | h-v60nf4oj.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |
+| ualaki-analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | valcontent.securustech.net | h-valcontent.online-metrix.net |
 | auth.vedacheck.com.au | h-vedacheck.online-metrix.net |
 | tsaian.verizonwireless.com | h-verizon.online-metrix.net |

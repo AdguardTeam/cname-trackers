@@ -4,12 +4,12 @@
 ! ntv.io disguised trackers
 !
 ||partners.time.com^
-||www.realworldsurvivor.com^
 !
 ! ntvpforever.com disguised trackers
 !
 ||02f3427bf4.bac23cfb5b.com^
 ||034beb90c9.61b6eab774.com^
+||042006961f.0c98edaa39.com^
 ||0424b056e9.bfbcb7a235.com^
 ||0543f1c8c7.71aadba6c8.com^
 ||071cc548ff.78ab4874ae.com^
@@ -23,6 +23,7 @@
 ||1795105253.e02fe0d0c1.com^
 ||19364edf69.b88f1c5cda.com^
 ||1ed960d6ad.fa479896c7.com^
+||2093b71876.d2c273238b.com^
 ||20cbc85129.fc455e7809.com^
 ||2c9ed85c0b.b2acafb3a3.com^
 ||2efa46ca31.da03ab7249.com^
@@ -38,6 +39,7 @@
 ||41f8a60477.cd4fb281e1.com^
 ||434d80d136.a07d30aaf0.com^
 ||46fe7fa264.4d2a483049.com^
+||48260aa935.f3a173b897.com^
 ||48c1f78392.31f4ea3b17.com^
 ||4909cc6acc.0fc32b5283.com^
 ||497a1141f1.23d097de11.com^
@@ -46,6 +48,7 @@
 ||53f90ea18c.ad64463ef9.com^
 ||55bff2103f.f451b7f622.com^
 ||5691f27b38.77176d9509.com^
+||57a8023ce9.1aa3097b7b.com^
 ||597eb96e9c.299f70c6b2.com^
 ||5ab3edc5c1.342c15527e.com^
 ||5ab760da26.bf34686748.com^
@@ -67,6 +70,7 @@
 ||7ddfe7bb78.1eb76ce5b7.com^
 ||7fe465ee76.f21c8cd9a7.com^
 ||8654683419.6ab77a3dad.com^
+||865a159ba5.d7739252ca.com^
 ||8bf1e6c762.bcd7ad4271.com^
 ||8dbd9f1b8c.b0b96fffc2.com^
 ||90f6d578cc.2725849b34.com^
@@ -81,6 +85,8 @@
 ||a108652c62.f78f9d3fc2.com^
 ||a2ee316f2b.9c56fb6868.com^
 ||a2f288701d.a4334cc1ec.com^
+||a3f4ac548d.114f3eaf8b.com^
+||a536a9d481.04fce94137.com^
 ||a6270385bc.560fe03925.com^
 ||a80b9802f4.1aed915a81.com^
 ||ab6de09242.441a8a5527.com^
@@ -113,8 +119,10 @@
 ||cce1fcf4c7.cca57f4672.com^
 ||cd4a13a8dd.8f1a606535.com^
 ||ceb8265201.4eb28685b6.com^
+||d6761fc561.f329cba40e.com^
 ||da2870069a.c9c2b6b980.com^
 ||dab23ae107.466b3b8e1d.com^
+||db47f9c2ff.904b686f95.com^
 ||dc2f9c5622.55f9d6e755.com^
 ||df53ff2b97.bcb3da3ac8.com^
 ||dfc8514de8.1ca65f5f5b.com^
