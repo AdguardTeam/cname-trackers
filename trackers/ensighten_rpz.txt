@@ -6,14 +6,17 @@
 activate.aami.com.au CNAME .
 activate.academy.com CNAME .
 activate.anntaylor.com CNAME .
+activate.apia.com.au CNAME .
 activate.baltimoresun.com CNAME .
 activate.bingle.com.au CNAME .
+activate.cityandshore.com CNAME .
 activate.columbiaflier.com CNAME .
 activate.courant.com CNAME .
 activate.dailysouthtown.com CNAME .
 activate.delmartimes.net CNAME .
 activate.encinitasadvocate.com CNAME .
 activate.gio.com.au CNAME .
+activate.hoylosangeles.com CNAME .
 activate.lajollalight.com CNAME .
 activate.lanebryant.com CNAME .
 activate.latimes.com CNAME .
@@ -34,6 +37,7 @@ activate.sun-sentinel.com CNAME .
 activate.suncorp.com.au CNAME .
 activate.tacdn.com CNAME .
 activate.tidewaterreview.com CNAME .
+activate.tronc.com CNAME .
 activate.united.com CNAME .
 activate1.fidelity.com CNAME .
 agility.cartoonnetwork.com CNAME .
@@ -87,6 +91,7 @@ assets1.terrischeer.com.au CNAME .
 assets1.vanz.vero.co.nz CNAME .
 assets1.vero.co.nz CNAME .
 assets1.vero.com.au CNAME .
+attribution.batesfootwear.com CNAME .
 attribution.grasshoppers.com CNAME .
 attribution.lebara.com CNAME .
 attribution.saucony.com CNAME .
@@ -220,12 +225,14 @@ pulse.mcdonalds.com CNAME .
 pulse.rac.co.uk CNAME .
 pulse.sleepnumber.com CNAME .
 pulse.synergy.net.au CNAME .
+pulse.wyndhamhotels.com CNAME .
 secureanalytics.syf.com CNAME .
 secureanalytics.synchronycredit.com CNAME .
 secureanalytics.synchronyretail.com CNAME .
 securemetrics.mysynchrony.com CNAME .
 securemetrics.syf.com CNAME .
 securemetrics.synchronybusiness.com CNAME .
+service-ens.sueddeutsche.de CNAME .
 smt.jcpenney.com CNAME .
 sst.dell.com CNAME .
 sst.johnlewis.com CNAME .
@@ -264,6 +271,7 @@ tms.marriott.com CNAME .
 tms.nab.com.au CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .
+tog.fivebelow.com CNAME .
 tripadvisor.activate.ensighten.com CNAME .
 uat1-dc.pagoda.com CNAME .
 united.activate.ensighten.com CNAME .

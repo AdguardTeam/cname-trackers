@@ -3,6 +3,7 @@
 #
 # ntv.io disguised trackers
 #
+c333.macworld.co.uk
 partners.time.com
 #
 # ntvpforever.com disguised trackers
@@ -13,6 +14,7 @@ partners.time.com
 0424b056e9.bfbcb7a235.com
 0543f1c8c7.71aadba6c8.com
 071cc548ff.78ab4874ae.com
+088d98f687.7a3b147921.com
 0956a1534a.255925943c.com
 0acbf53d71.711f421280.com
 0b05878fdd.fddf7d58ea.com
@@ -25,6 +27,7 @@ partners.time.com
 1ed960d6ad.fa479896c7.com
 2093b71876.d2c273238b.com
 20cbc85129.fc455e7809.com
+26e33d5110.b91c577b4d.com
 2c9ed85c0b.b2acafb3a3.com
 2efa46ca31.da03ab7249.com
 310fdbd5d8.a9e8387c9e.com
@@ -33,13 +36,14 @@ partners.time.com
 38a29cb310.eea605742d.com
 38d086de2c.318387965a.com
 395a631dfd.9b5c064e11.com
+3b712d30b3.09e852b0f3.com
 3cbf4c2cb3.cc77769ad8.com
 3d82e5c981.9633d48767.com
 3eaaac4c0d.090a7ee361.com
+3fb830355c.9be814e81e.com
 41f8a60477.cd4fb281e1.com
 434d80d136.a07d30aaf0.com
 46fe7fa264.4d2a483049.com
-48260aa935.f3a173b897.com
 48c1f78392.31f4ea3b17.com
 4909cc6acc.0fc32b5283.com
 497a1141f1.23d097de11.com
@@ -57,20 +61,24 @@ partners.time.com
 61254102fd.92333cc277.com
 616e2f6a4f.774e14a837.com
 6183c729c7.f145627a09.com
+62b00ced28.39373b8701.com
 65eb50053b.3cb004e947.com
 66d7c2e32f.843acfbeb0.com
 6788b5f0a5.07ab456fe8.com
 68787fa2a4.0439c255ac.com
 699e46a3ca.e11c0ad270.com
 6ab791d164.d409401d80.com
+6e9ba1e2dd.14a5dfca9f.com
 6ef94a502b.64134c91b6.com
 72ffc1edfd.f6d56854f2.com
+7734af9d7a.854a08a35e.com
 780f961964.b3fb511da0.com
 7b7a5435b5.5dd044e588.com
 7ddfe7bb78.1eb76ce5b7.com
 7fe465ee76.f21c8cd9a7.com
 8654683419.6ab77a3dad.com
 865a159ba5.d7739252ca.com
+8a86cfec6c.db4a1656b5.com
 8bf1e6c762.bcd7ad4271.com
 8dbd9f1b8c.b0b96fffc2.com
 90f6d578cc.2725849b34.com
@@ -106,7 +114,9 @@ bcdb664dff.0d356de9ef.com
 bd2bc05960.47daeb1eac.com
 bfe70bbd52.23182b9851.com
 bfe8a1874d.bdced8843e.com
+c0b0be585f.581c933842.com
 c14f40b010.3574fd3373.com
+c1dfd30227.86c9ac4797.com
 c353ac05ea.b0fea47e81.com
 c4045fee5e.90cd7fb7ca.com
 c504d3250f.52c9f48b14.com
@@ -119,6 +129,7 @@ cca691f765.ca3362de0f.com
 cce1fcf4c7.cca57f4672.com
 cd4a13a8dd.8f1a606535.com
 ceb8265201.4eb28685b6.com
+d310a0f1fe.91c58a050f.com
 d6761fc561.f329cba40e.com
 da2870069a.c9c2b6b980.com
 dab23ae107.466b3b8e1d.com
@@ -140,10 +151,14 @@ f4c85c5128.111d140e96.com
 fa5248bea9.d7d38597d6.com
 fb02e621c6.1c09d36b99.com
 fb43b02984.af5cdb3fe3.com
+fc6150a639.f7e79a5f70.com
 fe8d4b33c2.8abf43d6ad.com
 #
 # postrelease.com disguised trackers
 #
+a235.newstimes.com
+a235.thehour.com
+nj.finegardening.com
 share.ntv.io
 shared.sponsoredcontent.com
 #

@@ -105,6 +105,7 @@
     * 63caa179-uynsk4n4.cname.ebis.ne.jp
     * 64642ff0-29kvavam.cname.ebis.ne.jp
     * 65583296-u9rwf5hz.cname.ebis.ne.jp
+    * 676de0ff-nntzjw5y.cname.ebis.ne.jp
     * 68408270-ysplpzur.cname.ebis.ne.jp
     * 68d30b5c-gxw6vfjd.cname.ebis.ne.jp
     * 6da9e1b5-pz2gtngp.cname.ebis.ne.jp
@@ -199,6 +200,7 @@
     * c802e58e-eth6amyu.cname.ebis.ne.jp
     * c990b46a-cy6kqhld.cname.ebis.ne.jp
     * c9b592e5-3ddhh4av.cname.ebis.ne.jp
+    * c9bc9065-hd5f4dhg.cname.ebis.ne.jp
     * caf7dafd-s02edfsx.cname.ebis.ne.jp
     * cb8eb280-2eexez7z.cname.ebis.ne.jp
     * ce122a7c-hgyagqzw.cname.ebis.ne.jp
@@ -348,6 +350,7 @@
 | ad.aucfan.com | 63caa179-uynsk4n4.cname.ebis.ne.jp |
 | ebis.onamae.com | 64642ff0-29kvavam.cname.ebis.ne.jp |
 | ebis.studio-alice.co.jp | 65583296-u9rwf5hz.cname.ebis.ne.jp |
+| cname.nikkei-cnbc.co.jp | 676de0ff-nntzjw5y.cname.ebis.ne.jp |
 | adebis.leben-style.jp | 68408270-ysplpzur.cname.ebis.ne.jp |
 | ebis.randstad.co.jp | 68d30b5c-gxw6vfjd.cname.ebis.ne.jp |
 | ebs.viosalon.com | 6da9e1b5-pz2gtngp.cname.ebis.ne.jp |
@@ -442,6 +445,7 @@
 | ac-ebis.usen.biz | c802e58e-eth6amyu.cname.ebis.ne.jp |
 | ebisfracora.fracora.com | c990b46a-cy6kqhld.cname.ebis.ne.jp |
 | adebis.urban-research.jp | c9b592e5-3ddhh4av.cname.ebis.ne.jp |
+| tracking.wao.ne.jp | c9bc9065-hd5f4dhg.cname.ebis.ne.jp |
 | ebis.tokado.jp | caf7dafd-s02edfsx.cname.ebis.ne.jp |
 | bbbb.goace.jp | cb8eb280-2eexez7z.cname.ebis.ne.jp |
 | ebis.kubara.jp | ce122a7c-hgyagqzw.cname.ebis.ne.jp |

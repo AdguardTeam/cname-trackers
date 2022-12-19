@@ -6,18 +6,15 @@
     * js.oghub.io
     * sniffer.test-extern.oghub.io
     * te-baur-de.oghub.io
-    * te-creation-l-de.oghub.io
-    * te-frankonia-com.oghub.io
     * te-frankonia-de.oghub.io
-    * te-heine-ch.oghub.io
     * te-heine-de.oghub.io
+    * te-imwalking-de.oghub.io
     * te-limango-de.oghub.io
     * te-mirapodo-de.oghub.io
     * te-mytoys-de.oghub.io
     * te-otto-de.oghub.io
     * te-ottoversand-at.oghub.io
-    * te-sheego-de.oghub.io
-    * te-witt-weiden-ch.oghub.io
+    * te-sieh-an-de.oghub.io
     * te-witt-weiden-de.oghub.io
     * te.oghub.io
     * tp-ackermann-ch.oghub.io
@@ -81,18 +78,15 @@
 | tp.your-look-for-less.se | js.oghub.io |
 | sniffer.nitro-test-extern.otto.boreus.de | sniffer.test-extern.oghub.io |
 | te.baur.de | te-baur-de.oghub.io |
-| te.creation-l.de | te-creation-l-de.oghub.io |
-| te.frankonia.com | te-frankonia-com.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
-| te.heine.ch | te-heine-ch.oghub.io |
 | te.heine.de | te-heine-de.oghub.io |
+| te.imwalking.de | te-imwalking-de.oghub.io |
 | te.limango.de | te-limango-de.oghub.io |
 | te.mirapodo.de | te-mirapodo-de.oghub.io |
 | te.mytoys.de | te-mytoys-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
 | te.ottoversand.at | te-ottoversand-at.oghub.io |
-| te.sheego.de | te-sheego-de.oghub.io |
-| te.witt-weiden.ch | te-witt-weiden-ch.oghub.io |
+| te.sieh-an.de | te-sieh-an-de.oghub.io |
 | te.witt-weiden.de | te-witt-weiden-de.oghub.io |
 | te.ackermann.ch | te.oghub.io |
 | te.ambria.de | te.oghub.io |
@@ -107,6 +101,7 @@
 | te.heine.ch | te.oghub.io |
 | te.heine.de | te.oghub.io |
 | te.heine.de | te.oghub.io |
+| te.imwalking.de | te.oghub.io |
 | te.imwalking.de | te.oghub.io |
 | te.jelmoli-shop.ch | te.oghub.io |
 | te.limango.de | te.oghub.io |

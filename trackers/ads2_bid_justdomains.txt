@@ -9,6 +9,7 @@ ac-dir-latam.cau1aighae.com
 ac-dir-sing.cau1aighae.com
 adsbid-ad-click.adsbid.ru
 adsbid-buyout.adghndou0sdh.ru
+adsbid-buyout.adsbid.ru
 adsbid-click.adsbid.ru
 adsbid-sh-click.adghndou0sdh.ru
 adsbid-sh-click.sing.adghndou0sdh.ru
@@ -25,6 +26,7 @@ avb-sing.13wynpuurt.ru
 avb-sing.cau1aighae.com
 avb-sing.ewtcbedtmx.ru
 avbr.13wynpuurt.ru
+avbr.c97eaqj38e.ru
 di-res-latam.cau1aighae.com
 di-res-sing.cau1aighae.com
 di-res.cau1aighae.com

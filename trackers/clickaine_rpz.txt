@@ -5,6 +5,7 @@
 ;
 a3.hotpornfile.org CNAME .
 ad.aflamk1.net CNAME .
+ad.arabxl.com CNAME .
 ad1.xero.porn CNAME .
 api.mgandzd.one CNAME .
 api.rtnews.pro CNAME .
@@ -58,9 +59,9 @@ hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
 mail.7porn.ru CNAME .
-more.alotporn.com CNAME .
 ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .
+s1.rtnews.pro CNAME .
 sda.arabsex1.com CNAME .
 snow.snowdayonline.xyz CNAME .
 sticky.vtube.to CNAME .

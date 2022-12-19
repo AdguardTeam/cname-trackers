@@ -26,7 +26,6 @@
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
-4jj2hto7gr6i.www.skaterooms.com CNAME .
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
@@ -41,6 +40,7 @@ b1tow9h4erpw.anur.polymerdev.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
+bdp5k3dflefr.www.ligglo.com CNAME .
 bygr2ri20e4y.li.finance CNAME .
 cihnqp6p65.koinly.io CNAME .
 cqz6fn6aox.aporia.com CNAME .

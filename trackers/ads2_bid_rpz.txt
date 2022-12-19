@@ -9,6 +9,7 @@ ac-dir-latam.cau1aighae.com CNAME .
 ac-dir-sing.cau1aighae.com CNAME .
 adsbid-ad-click.adsbid.ru CNAME .
 adsbid-buyout.adghndou0sdh.ru CNAME .
+adsbid-buyout.adsbid.ru CNAME .
 adsbid-click.adsbid.ru CNAME .
 adsbid-sh-click.adghndou0sdh.ru CNAME .
 adsbid-sh-click.sing.adghndou0sdh.ru CNAME .
@@ -25,6 +26,7 @@ avb-sing.13wynpuurt.ru CNAME .
 avb-sing.cau1aighae.com CNAME .
 avb-sing.ewtcbedtmx.ru CNAME .
 avbr.13wynpuurt.ru CNAME .
+avbr.c97eaqj38e.ru CNAME .
 di-res-latam.cau1aighae.com CNAME .
 di-res-sing.cau1aighae.com CNAME .
 di-res.cau1aighae.com CNAME .

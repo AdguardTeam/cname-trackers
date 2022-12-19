@@ -19,6 +19,7 @@
 | ac-dir-co.cau1aighae.com | lb.rtb.ads.bid |
 | adsbid-ad-click.adsbid.ru | lb.rtb.ads.bid |
 | adsbid-buyout.adghndou0sdh.ru | lb.rtb.ads.bid |
+| adsbid-buyout.adsbid.ru | lb.rtb.ads.bid |
 | adsbid-click.adsbid.ru | lb.rtb.ads.bid |
 | adsbid-sh-click.adghndou0sdh.ru | lb.rtb.ads.bid |
 | adv.ads2.bid | lb.rtb.ads.bid |
@@ -30,6 +31,7 @@
 | avb-co.cau1aighae.com | lb.rtb.ads.bid |
 | avb-co.iemieshohx.com | lb.rtb.ads.bid |
 | avbr.13wynpuurt.ru | lb.rtb.ads.bid |
+| avbr.c97eaqj38e.ru | lb.rtb.ads.bid |
 | di-res.cau1aighae.com | lb.rtb.ads.bid |
 | di-res.iemieshohx.com | lb.rtb.ads.bid |
 | dsp-image-resizer.3grg8dqjil.ru | lb.rtb.ads.bid |

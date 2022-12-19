@@ -303,6 +303,10 @@
 !
 ||finans.tns-gallup.dk^
 !
+! folketidende.tns-dk.2cnt.net disguised trackers
+!
+||folketidende.tns-gallup.dk^
+!
 ! fr-online.vgwort-de.2cnt.net disguised trackers
 !
 ||fr-online.met.vgwort.de^
@@ -315,17 +319,45 @@
 !
 ||geo.met.vgwort.de^
 !
+! golem.vgwort-de.2cnt.net disguised trackers
+!
+||golem.met.vgwort.de^
+!
 ! halsa.tns-dk.2cnt.net disguised trackers
 !
 ||halsa.tns-gallup.dk^
+!
+! handelsblatt.vgwort-de.2cnt.net disguised trackers
+!
+||handelsblatt.met.vgwort.de^
+!
+! heise.vgwort-de.2cnt.net disguised trackers
+!
+||heise.met.vgwort.de^
 !
 ! helpster.vgwort-de.2cnt.net disguised trackers
 !
 ||helpster.met.vgwort.de^
 !
+! hogrefe.vgwort-de.2cnt.net disguised trackers
+!
+||hogrefe.met.vgwort.de^
+!
 ! hsfo.tns-dk.2cnt.net disguised trackers
 !
 ||hsfo.tns-gallup.dk^
+!
+! huffpost.vgwort-de.2cnt.net disguised trackers
+!
+||huffpost.met.vgwort.de^
+!
+! idgentertain.vgwort-de.2cnt.net disguised trackers
+!
+||idgentertain.met.vgwort.de^
+!
+! idgmagazine.vgwort-de.2cnt.net disguised trackers
+!
+||idgmagazine.met.vgwort.de^
 !
 ! information.tns-dk.2cnt.net disguised trackers
 !
@@ -354,6 +386,10 @@
 ! juris.vgwort-de.2cnt.net disguised trackers
 !
 ||juris.met.vgwort.de^
+!
+! kr.vgwort-de.2cnt.net disguised trackers
+!
+||kr.met.vgwort.de^
 !
 ! krak.tns-dk.2cnt.net disguised trackers
 !
@@ -387,6 +423,10 @@
 !
 ||mariesideer.tns-gallup.dk^
 !
+! medwatch.tns-dk.2cnt.net disguised trackers
+!
+||medwatch.tns-gallup.dk^
+!
 ! merkur.vgwort-de.2cnt.net disguised trackers
 !
 ||merkur.met.vgwort.de^
@@ -395,9 +435,17 @@
 !
 ||mineaviser.tns-gallup.dk^
 !
+! mopo.vgwort-de.2cnt.net disguised trackers
+!
+||mopo.met.vgwort.de^
+!
 ! moreshop.tns-dk.2cnt.net disguised trackers
 !
 ||moreshop.tns-gallup.dk^
+!
+! mzweb.vgwort-de.2cnt.net disguised trackers
+!
+||mzweb.met.vgwort.de^
 !
 ! n-tv.vgwort-de.2cnt.net disguised trackers
 !
@@ -430,6 +478,10 @@
 ! rejseplanen.tns-dk.2cnt.net disguised trackers
 !
 ||rejseplanen.tns-gallup.dk^
+!
+! rp-online.vgwort-de.2cnt.net disguised trackers
+!
+||rp-online.met.vgwort.de^
 !
 ! rtl.vgwort-de.2cnt.net disguised trackers
 !
@@ -595,9 +647,21 @@
 !
 ||ssl-dr.tns-gallup.dk^
 !
+! ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
+!
+||ssl-drandroidtvstream.tns-gallup.dk^
+!
+! ssl-drhbbstream.tns-dk.2cnt.net disguised trackers
+!
+||ssl-drhbbstream.tns-gallup.dk^
+!
 ! ssl-drhbbtv.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-drhbbtv.tns-gallup.dk^
+!
+! ssl-driosstream.tns-dk.2cnt.net disguised trackers
+!
+||ssl-driosstream.tns-gallup.dk^
 !
 ! ssl-drtv-appletv.tns-dk.2cnt.net disguised trackers
 !
@@ -724,6 +788,10 @@
 ! ssl-ing.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-ing.tns-gallup.dk^
+!
+! ssl-itjobbank.tns-dk.2cnt.net disguised trackers
+!
+||ssl-itjobbank.tns-gallup.dk^
 !
 ! ssl-jobfinder.tns-dk.2cnt.net disguised trackers
 !
@@ -852,6 +920,10 @@
 ! ssl-rejseplanen.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-rejseplanen.tns-gallup.dk^
+!
+! ssl-roedovrelokalnyt.tns-dk.2cnt.net disguised trackers
+!
+||ssl-roedovrelokalnyt.tns-gallup.dk^
 !
 ! ssl-rp-online.vgwort-de.2cnt.net disguised trackers
 !
@@ -1074,6 +1146,10 @@
 ! vg09.vgwort-de.2cnt.net disguised trackers
 !
 ||vg09.met.vgwort.de^
+!
+! viunge.tns-dk.2cnt.net disguised trackers
+!
+||viunge.tns-gallup.dk^
 !
 ! vogel.vgwort-de.2cnt.net disguised trackers
 !

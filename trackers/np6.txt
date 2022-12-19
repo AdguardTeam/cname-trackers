@@ -72,6 +72,7 @@
 ||tr.cart02d.espmp-agfr.net^
 ||tr.carte.lcl.fr^
 ||tr.cartegie.fr^
+||tr.cashback.banque-casino.fr^
 ||tr.cashback.floa.fr^
 ||tr.cb4x.banque-casino.fr^
 ||tr.cb4x.floa.fr^
@@ -111,6 +112,7 @@
 ||tr.communication.lvmh.fr^
 ||tr.communication.lvmhdare.com^
 ||tr.communication.moethennessy.com^
+||tr.communication.moethennessydiageoconnect.com^
 ||tr.communication.np6.com^
 ||tr.communication.numericable.fr^
 ||tr.communication.offresb2b.fr^
@@ -146,6 +148,7 @@
 ||tr.devis-professionnels.com^
 ||tr.devis-professionnels.fr^
 ||tr.devis.digital^
+||tr.devisminute-affranchissement.com^
 ||tr.devisminute-alarme.com^
 ||tr.devisminute-geolocalisation.com^
 ||tr.devisminute-gestionpaie.com^
@@ -209,8 +212,10 @@
 ||tr.enews.customsolutions.fr^
 ||tr.engie-globalenergy.info^
 ||tr.enquete-cpf.ifop.com^
+||tr.enquetes.actionlogement.fr^
 ||tr.entreprise-pro.info^
 ||tr.envie-de-bien-manger.espmp-aufr.net^
+||tr.estatesandwines.moethennessy.com^
 ||tr.europa-organisation.com^
 ||tr.evenements.inpi.fr^
 ||tr.expresofferte.be^
@@ -271,6 +276,7 @@
 ||tr.info.maxis-gbn.com^
 ||tr.info.mcgarrybowen.com^
 ||tr.info.mdbp.fr^
+||tr.info.mercialys.com^
 ||tr.info.mobibam.com^
 ||tr.info.np6.fr^
 ||tr.info.offres-cartegie.fr^
@@ -306,6 +312,7 @@
 ||tr.jesuis.enformedelotus.com^
 ||tr.jevoteenligne.fr^
 ||tr.jkyg.espmp-cufr.net^
+||tr.kang.espmp-cufr.net^
 ||tr.klse.espmp-agfr.net^
 ||tr.kommunikation.younited-credit.com^
 ||tr.kontakt.younited-credit.com^
@@ -384,6 +391,7 @@
 ||tr.news.accessmbatour.com^
 ||tr.news.alibabuy.com^
 ||tr.news.alinea.com^
+||tr.news.alinea.fr^
 ||tr.news.allopneus.be^
 ||tr.news.allopneus.com^
 ||tr.news.assuragency.net^
@@ -522,6 +530,7 @@
 ||tr.newsletter.younited-credit.com^
 ||tr.newsletterpagesjaunes.fr^
 ||tr.newsletters-bonpoint.com^
+||tr.newsletters.alticemedia.com^
 ||tr.newsletters.odalys-vacances.com^
 ||tr.newsletters.youmeetings.com^
 ||tr.newsmarketing.allopneus.com^
@@ -547,6 +556,7 @@
 ||tr.notification.cetelem.fr^
 ||tr.notification.credit-moderne.fr^
 ||tr.notification.norrsken.fr^
+||tr.notification.np6.com^
 ||tr.np6.com^
 ||tr.np6.orange.fr^
 ||tr.observatoire.musee-orangerie.fr^
@@ -560,6 +570,7 @@
 ||tr.offres.bfmtv.com^
 ||tr.offrevip.banque-casino.fr^
 ||tr.offrevip.floa.fr^
+||tr.operations.butagaz.fr^
 ||tr.orange-lease.fr^
 ||tr.orcamentos-companeo.pt^
 ||tr.oxatis.devisdirect.com^
@@ -575,6 +586,7 @@
 ||tr.prevention.harmonie-mutuelle.fr^
 ||tr.preventivo.risparmiazienda.it^
 ||tr.pro.odalys-vacances.com^
+||tr.program.certinergy.com^
 ||tr.projet.cotemaison.fr^
 ||tr.promo.np6.fr^
 ||tr.promotion.lexpress.fr^
@@ -633,10 +645,12 @@
 ||tr.souscription.banque-casino.fr^
 ||tr.souscription.floa.fr^
 ||tr.spain.plimsoll.es^
+||tr.sportperf.np6.fr^
 ||tr.stanford-news.fr^
 ||tr.strategie.gouv.fr^
 ||tr.tdgx.espmp-cufr.net^
 ||tr.thisiseurope.moethennessy.com^
+||tr.tns.harmonie-mutuelle.fr^
 ||tr.toner-service.fr^
 ||tr.toner-services.fr^
 ||tr.tonerservices.fr^
@@ -649,6 +663,7 @@
 ||tr.urfk03h.espmp-nifr.net^
 ||tr.urfk03q.espmp-nifr.net^
 ||tr.urfk03u.espmp-nifr.net^
+||tr.urfk03x.espmp-agfr.net^
 ||tr.urfk044.espmp-nifr.net^
 ||tr.urfk057.espmp-aufr.net^
 ||tr.urfk05g.espmp-agfr.net^
@@ -680,6 +695,9 @@
 ||tr.win.moethennessy.com^
 ||tr.wuei.espmp-agfr.net^
 ||tr.wycena-companeo.pl^
+||tr1.lr003.net^
+||tr1.mailperf.com^
+||tr1.mailperformance.com^
 !
 ! form.bp01.net disguised trackers
 !
@@ -688,3 +706,4 @@
 ||f1.mailperformance.com^
 ||f1.np6.com^
 ||lbv5.mperf.com^
+||www.bfc-mp.caisse-epargne.fr^

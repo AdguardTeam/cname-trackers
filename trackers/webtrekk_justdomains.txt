@@ -6,6 +6,7 @@
 aud.bild.de
 image.deginvest.de
 image.kfw-entwicklungsbank.de
+image.kfw-ipex-bank.de
 image.kfw.de
 images1.test.de
 inhalt.bild.de
@@ -221,6 +222,7 @@ wbtrkk.teufelaudio.it
 wbtrkk.teufelaudio.nl
 wbtrkk.teufelaudio.pl
 web.autobodytoolmart.com
+web.b2bimperialfashion.com
 web.bankofscotland.de
 web.campaign.jaked.com
 web.campaign.miriade.com
@@ -302,6 +304,7 @@ webt.pure.com
 wetr.sportscheck.at
 wetr.sportscheck.ch
 wetr.sportscheck.com
+wt.ara.cat
 wt.dialog-versicherung.de
 wt.envivas.de
 wt.generali.de

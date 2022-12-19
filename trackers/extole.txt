@@ -37,6 +37,7 @@
 ||refer.johnson.ca^
 ||refer.julep.com^
 ||refer.kipling-usa.com^
+||refer.leadmd.com^
 ||refer.luckyvitamin.com^
 ||refer.moo.com^
 ||refer.myplant.com^
@@ -45,6 +46,7 @@
 ||refer.pageonce.com^
 ||refer.payroll.intuit.com^
 ||refer.personalcreations.com^
+||refer.petco.com^
 ||refer.purchasingpower.com^
 ||refer.sage.com^
 ||refer.shoesforcrews.com^
@@ -58,9 +60,11 @@
 ||refer.verabradley.com^
 ||refer.volcom.com^
 ||refer.vonage.com^
+||refer.wgu.edu^
 ||refer.xoom.com^
 ||referral.hostgator.com^
 ||referral.vistaprint.com^
+||s.audiopass.nfl.com^
 ||share.catalogspree.com^
 ||share.indochino.com^
 ||share.na.sage.com^
@@ -69,6 +73,7 @@
 ||share.vimeo.com^
 ||share.wimp.no^
 ||sharethelove.teacollection.com^
+||social.beautisol.com^
 ||tellapal.register.com^
 ||tellapal.web.com^
 !
@@ -79,6 +84,7 @@
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
 ||go.joinsizigi.com^
+||groomrefer.petco.com^
 ||jessica-test-numero-dos.extoleu.com^
 ||love.columbiacu.org^
 ||love.suncoastcreditunion.com^
@@ -98,6 +104,7 @@
 ||refer.ballarddesigns.com^
 ||refer.bareminerals.com^
 ||refer.bareminerals.uk^
+||refer.barnandwillow.com^
 ||refer.batesfootwear.com^
 ||refer.bathandbodyworks.com^
 ||refer.baxterofcalifornia.com^
@@ -122,7 +129,9 @@
 ||refer.competitivecyclist.com^
 ||refer.contiki.com^
 ||refer.creativelive.com^
+||refer.crocs.com^
 ||refer.cspire.com^
+||refer.ea.com^
 ||refer.embracepetinsurance.com^
 ||refer.ems.com^
 ||refer.eset.com^
@@ -134,14 +143,17 @@
 ||refer.g2.com^
 ||refer.gapcanada.ca^
 ||refer.garnethill.com^
+||refer.gcefcu.org^
 ||refer.giantfood.com^
 ||refer.giantfoodstores.com^
 ||refer.glamglow.com^
 ||refer.globalknowledge.com^
 ||refer.gnc.com^
+||refer.greatwesternbank.com^
 ||refer.gymboree.com^
 ||refer.hair.com^
 ||refer.harryrosen.com^
+||refer.henribendel.com^
 ||refer.hillcity.gap.com^
 ||refer.hollandamerica.com^
 ||refer.homedepot.com^
@@ -181,6 +193,7 @@
 ||refer.orbitz.com^
 ||refer.ouidad.com^
 ||refer.pacsafe.com^
+||refer.perriconemd.com^
 ||refer.pimsleur.com^
 ||refer.prokeds.com^
 ||refer.psecu.com^
@@ -354,6 +367,7 @@
 ||share.stridehealth.com^
 ||share.studiosashiko.com^
 ||share.sundaysfordogs.com^
+||share.tallahassee.com^
 ||share.teachersfcu.org^
 ||share.theory.com^
 ||share.theoryoutlet.com^
@@ -362,6 +376,7 @@
 ||share.trafalgar.com^
 ||share.truckstop.com^
 ||share.uk.theory.com^
+||share.unchartedsociety.com^
 ||share.usatoday.com^
 ||share.veo.co^
 ||share.veritycu.com^
@@ -373,6 +388,10 @@
 ||share.wombatinvest.com^
 ||share.zebit.com^
 ||share.zenbusiness.com^
+!
+! u82658.wl159.sendgrid.net disguised trackers
+!
+||em8561.go2bank.com^
 !
 ! media-router-aol1.prod.g03.yahoodns.net disguised trackers
 !

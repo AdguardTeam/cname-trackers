@@ -7,13 +7,15 @@
 ||abc.pulsebet.com^
 ||acdc.toolineo.de^
 ||acsweb-3dr1.dnp-cdms.jp^
-||afd.bridgeapi.io^
+||afp.intuit.com^
+||analytics.amrcollection.com^
 ||analytics.breathlessresorts.com^
 ||analytics.cheapcaribbean.com^
 ||analytics.funjet.com^
 ||analytics.nowresorts.com^
 ||analytics.secretsresorts.com^
 ||analytics.southwestvacations.com^
+||analytics.sunscaperesorts.com^
 ||analytics.triseptsolutions.com^
 ||analytics.vacations.united.com^
 ||analytics.vaxvacationaccess.com^
@@ -64,6 +66,7 @@
 ||cdn2.intercambioexpress.com^
 ||cdn2.lfg.com^
 ||cdn2.moneycorp.com^
+||cdn3.moneycorp.com^
 ||cdna.cofidis.es^
 ||cdna.cofidis.fr^
 ||cdna.cofidisonline.cofidis.es^
@@ -80,6 +83,7 @@
 ||cdncy.jmbullion.com^
 ||cdncy.providentmetals.com^
 ||cdnfp.accurint.com^
+||cdnfp.lexisnexisrisk.com^
 ||cdnm.sts.pl^
 ||cdns.moneyplace.com.au^
 ||cdnt.duobank.com^
@@ -102,6 +106,7 @@
 ||cfa.fidelity.com^
 ||cfa.mystreetscape.com^
 ||cfa.streetscape.com^
+||cfaxq.mystreetscape.com^
 ||cfaxq1.fidelity.com^
 ||cfaxq2.fidelity.com^
 ||channel.rakbankonline.ae^
@@ -136,6 +141,8 @@
 ||content.bankerslife.com^
 ||content.benefitsaccess.org^
 ||content.billdomain.com^
+||content.billscenter.paytrust.com^
+||content.billsupport.com^
 ||content.bnl.it^
 ||content.byabcd.com^
 ||content.canadiantire.ca^
@@ -190,6 +197,7 @@
 ||content.moneza.lv^
 ||content.moneza.ru^
 ||content.moni.com.ar^
+||content.myonlyid.com^
 ||content.mywisely.com^
 ||content.name.com^
 ||content.netcredit.pl^
@@ -205,6 +213,7 @@
 ||content.qlinkwireless.com^
 ||content.qudosbank.com.au^
 ||content.quicken.com^
+||content.readiness.consumercardaccess.com^
 ||content.realquest.com^
 ||content.royalairmaroc.com^
 ||content.royalvegascasino.ca^
@@ -270,6 +279,7 @@
 ||cstm.gumtree.com^
 ||customer.homedepot.com^
 ||customercenter-img04.auto-owners.com^
+||cybersource.shoplineapp.com^
 ||cybs.dhgate.com^
 ||d.mlcdn.com.br^
 ||d3tracking.rbc.com^
@@ -292,6 +302,7 @@
 ||did.koempf24.de^
 ||digitalid-qa.santanderbank.com^
 ||digitalid.santanderbank.com^
+||digitalidentity.compass.it^
 ||dii.bankaust.com.au^
 ||directinfo.ib.mizuhobank.co.jp^
 ||dpf.authorize.net^
@@ -340,6 +351,7 @@
 ||ifp.intuit.com^
 ||im2.prod.amount.com^
 ||image.online.adp.com^
+||images.wexinc.com^
 ||imagesmx.cdscdn.com^
 ||img.consumer.risk.lexisnexis.com^
 ||img.dailylook.com^
@@ -350,6 +362,7 @@
 ||img.remit.co.jp^
 ||img.zootweb.com^
 ||img02.pensionfund.org^
+||img1.bog.ge^
 ||img2.avant.com^
 ||img2.bog.ge^
 ||img2.otto.nl^
@@ -372,11 +385,13 @@
 ||info.betway.co.za^
 ||info.betway.fr^
 ||intlsdpntrca.nitrocasino.ca^
+||intm.amwager.com^
 ||irmp.caa.com^
 ||jj203.equitablebank.ca^
 ||jytrnq.cm-cic.com^
 ||lab4.lloydsbank.com^
 ||ln.meudigio.com.br^
+||lndata.labor.maryland.gov^
 ||lnths.twc.texas.gov^
 ||lnthxsvc.tsp.gov^
 ||log.betdaq.com^
@@ -407,9 +422,11 @@
 ||nav.sciencedirect.com^
 ||neo.fashionette.de^
 ||ocs.ameriprise.com^
+||offtest.fnfis.com^
 ||ola2.tdameritrade.com^
 ||olacontent.schwab.com^
 ||online-metrix.imars.cloud^
+||online.nbc.ca^
 ||onlineapplications.anz.com^
 ||onlinemetrix.liverpool.com.mx^
 ||optm.optus.com.au^
@@ -425,6 +442,7 @@
 ||piafapp.poste.it^
 ||plr.scb-payments.net^
 ||pn1927.coutts.com^
+||portal-fp-qaperf2.qa.threatmetrix.com^
 ||portal-fp.threatmetrix.com^
 ||pov.spectrum.net^
 ||profiling.digitalbusiness.cibc.com^
@@ -474,6 +492,7 @@
 ||sec.lin101.mail.goo.ne.jp^
 ||sec.login.mail.goo.ne.jp^
 ||sec.login.ocn.ne.jp^
+||sec.mypage.ntt.com^
 ||sec.mypage.ocn.ne.jp^
 ||sec.plala.or.jp^
 ||secure-service.id.dbsdigibank.com^
@@ -509,6 +528,7 @@
 ||static.sb-cdn.io^
 ||stats.badoostats.com^
 ||stats.dell.com^
+||sub-a.crossmeetz.com^
 ||subcontent.galeria.de^
 ||sunshine.lillypulitzer.com^
 ||svc.bangkokbank.com^
@@ -516,6 +536,7 @@
 ||svc2.sc.com^
 ||t.banking.blucurrent.org^
 ||t.banking.njfcu.org^
+||t.demo.lumindigital.com^
 ||t.digital.communityfirstcu.org^
 ||t.digitalbanking.credithuman.com^
 ||t.digitalbanking.langleyfcu.org^
@@ -560,6 +581,7 @@
 ||tag.mycash.utah.gov^
 ||tag.ucp.dor.wa.gov^
 ||tag.unclaimedfunds.nj.gov^
+||tag.unclaimedproperty.nd.gov^
 ||tags.api.openaccount.rbs.co.uk^
 ||tags.bankline.natwest.com^
 ||tags.bankline.rbs.com^

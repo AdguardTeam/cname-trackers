@@ -59,6 +59,7 @@
 ||affil.upcr.cz^
 ||affil.vzdusin.cz^
 ||affil.webareal.cz^
+||affil.wellspace.cz^
 ||affil.xgdpr.cz^
 ||affil.zaslat.cz^
 ||affil.zdravetricko.cz^
@@ -142,6 +143,7 @@
 ||affiliate.mojemincovna.cz^
 ||affiliate.montessorihracky.cz^
 ||affiliate.montessorikurz.cz^
+||affiliate.nabytek-forliveshop.cz^
 ||affiliate.nakladatelstvi-riva.cz^
 ||affiliate.nalepime.cz^
 ||affiliate.nejfotopasti.cz^
@@ -165,7 +167,6 @@
 ||affiliate.sexshop.cz^
 ||affiliate.sexshop51.cz^
 ||affiliate.sexshop51.sk^
-||affiliate.skolanavyku.cz^
 ||affiliate.smarty.cz^
 ||affiliate.smsticket.cz^
 ||affiliate.snowbitch.cz^
@@ -177,6 +178,7 @@
 ||affiliate.topol.io^
 ||affiliate.urbanstore.cz^
 ||affiliate.urbanstore.sk^
+||affiliate.vasecocky.cz^
 ||affiliate.velebny.cz^
 ||affiliate.zdravykos.cz^
 ||affiliateold.firma20.cz^
@@ -189,9 +191,11 @@
 ||affilo.vivaboty.cz^
 ||affilpartner.descanti.com^
 ||ambasadorky.zenyzenam.cz^
+||box.cryptokingdom.tech^
 ||brana.ritualyomlazeni.cz^
 ||doporuc.hopsej.cz^
 ||hcbox.fitness-zone.cz^
+||hcbox.mezamo.sk^
 ||hcbox.mironet.cz^
 ||hcbox.tesla-electronics.eu^
 ||hcbox.tlamka.cz^
@@ -316,6 +320,7 @@
 ||partner.cukrarskyklub.cz^
 ||partner.danfil.cz^
 ||partner.denishenry.cz^
+||partner.designturnaj.cz^
 ||partner.directalpine.cz^
 ||partner.domaci-pivoteka.cz^
 ||partner.doplnse.cz^
@@ -426,6 +431,7 @@
 ||partner.vykoupeno.cz^
 ||partner.webareal.cz^
 ||partner.webareal.sk^
+||partner.webrebel.sk^
 ||partner.webskicak.cz^
 ||partner.websusmevem.cz^
 ||partner.whoopdedoo.cz^
@@ -442,7 +448,7 @@
 ||partneri.adrop.cz^
 ||partneri.alchemistr.cz^
 ||partneri.alepiacz.cz^
-||partneri.ameeraacademy.earth^
+||partneri.apimedika.sk^
 ||partneri.artisan.cz^
 ||partneri.bazaroveregaly.cz^
 ||partneri.bigon.sk^
@@ -452,6 +458,7 @@
 ||partneri.chytraopicka.cz^
 ||partneri.chytrykvetinac.cz^
 ||partneri.coffeeveronia.sk^
+||partneri.danahanouskova.cz^
 ||partneri.dietavkrabicce.cz^
 ||partneri.dluhopisomat.cz^
 ||partneri.domaci-outlet.cz^

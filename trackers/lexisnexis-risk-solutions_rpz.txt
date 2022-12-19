@@ -7,13 +7,15 @@
 abc.pulsebet.com CNAME .
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
-afd.bridgeapi.io CNAME .
+afp.intuit.com CNAME .
+analytics.amrcollection.com CNAME .
 analytics.breathlessresorts.com CNAME .
 analytics.cheapcaribbean.com CNAME .
 analytics.funjet.com CNAME .
 analytics.nowresorts.com CNAME .
 analytics.secretsresorts.com CNAME .
 analytics.southwestvacations.com CNAME .
+analytics.sunscaperesorts.com CNAME .
 analytics.triseptsolutions.com CNAME .
 analytics.vacations.united.com CNAME .
 analytics.vaxvacationaccess.com CNAME .
@@ -64,6 +66,7 @@ cdn17.citizensbank.com CNAME .
 cdn2.intercambioexpress.com CNAME .
 cdn2.lfg.com CNAME .
 cdn2.moneycorp.com CNAME .
+cdn3.moneycorp.com CNAME .
 cdna.cofidis.es CNAME .
 cdna.cofidis.fr CNAME .
 cdna.cofidisonline.cofidis.es CNAME .
@@ -80,6 +83,7 @@ cdnb.cashcentral.com CNAME .
 cdncy.jmbullion.com CNAME .
 cdncy.providentmetals.com CNAME .
 cdnfp.accurint.com CNAME .
+cdnfp.lexisnexisrisk.com CNAME .
 cdnm.sts.pl CNAME .
 cdns.moneyplace.com.au CNAME .
 cdnt.duobank.com CNAME .
@@ -102,6 +106,7 @@ cfa.advisorchannel.com CNAME .
 cfa.fidelity.com CNAME .
 cfa.mystreetscape.com CNAME .
 cfa.streetscape.com CNAME .
+cfaxq.mystreetscape.com CNAME .
 cfaxq1.fidelity.com CNAME .
 cfaxq2.fidelity.com CNAME .
 channel.rakbankonline.ae CNAME .
@@ -136,6 +141,8 @@ content.atmosphere.ca CNAME .
 content.bankerslife.com CNAME .
 content.benefitsaccess.org CNAME .
 content.billdomain.com CNAME .
+content.billscenter.paytrust.com CNAME .
+content.billsupport.com CNAME .
 content.bnl.it CNAME .
 content.byabcd.com CNAME .
 content.canadiantire.ca CNAME .
@@ -190,6 +197,7 @@ content.maxconnector.com CNAME .
 content.moneza.lv CNAME .
 content.moneza.ru CNAME .
 content.moni.com.ar CNAME .
+content.myonlyid.com CNAME .
 content.mywisely.com CNAME .
 content.name.com CNAME .
 content.netcredit.pl CNAME .
@@ -205,6 +213,7 @@ content.pnbank.com.au CNAME .
 content.qlinkwireless.com CNAME .
 content.qudosbank.com.au CNAME .
 content.quicken.com CNAME .
+content.readiness.consumercardaccess.com CNAME .
 content.realquest.com CNAME .
 content.royalairmaroc.com CNAME .
 content.royalvegascasino.ca CNAME .
@@ -270,6 +279,7 @@ css.sportsbet.io CNAME .
 cstm.gumtree.com CNAME .
 customer.homedepot.com CNAME .
 customercenter-img04.auto-owners.com CNAME .
+cybersource.shoplineapp.com CNAME .
 cybs.dhgate.com CNAME .
 d.mlcdn.com.br CNAME .
 d3tracking.rbc.com CNAME .
@@ -292,6 +302,7 @@ did.fashionworld.co.uk CNAME .
 did.koempf24.de CNAME .
 digitalid-qa.santanderbank.com CNAME .
 digitalid.santanderbank.com CNAME .
+digitalidentity.compass.it CNAME .
 dii.bankaust.com.au CNAME .
 directinfo.ib.mizuhobank.co.jp CNAME .
 dpf.authorize.net CNAME .
@@ -340,6 +351,7 @@ idstatus.sky.com CNAME .
 ifp.intuit.com CNAME .
 im2.prod.amount.com CNAME .
 image.online.adp.com CNAME .
+images.wexinc.com CNAME .
 imagesmx.cdscdn.com CNAME .
 img.consumer.risk.lexisnexis.com CNAME .
 img.dailylook.com CNAME .
@@ -350,6 +362,7 @@ img.neora.com CNAME .
 img.remit.co.jp CNAME .
 img.zootweb.com CNAME .
 img02.pensionfund.org CNAME .
+img1.bog.ge CNAME .
 img2.avant.com CNAME .
 img2.bog.ge CNAME .
 img2.otto.nl CNAME .
@@ -372,11 +385,13 @@ info.betway.bg CNAME .
 info.betway.co.za CNAME .
 info.betway.fr CNAME .
 intlsdpntrca.nitrocasino.ca CNAME .
+intm.amwager.com CNAME .
 irmp.caa.com CNAME .
 jj203.equitablebank.ca CNAME .
 jytrnq.cm-cic.com CNAME .
 lab4.lloydsbank.com CNAME .
 ln.meudigio.com.br CNAME .
+lndata.labor.maryland.gov CNAME .
 lnths.twc.texas.gov CNAME .
 lnthxsvc.tsp.gov CNAME .
 log.betdaq.com CNAME .
@@ -407,9 +422,11 @@ mobsessions.worldremit.com CNAME .
 nav.sciencedirect.com CNAME .
 neo.fashionette.de CNAME .
 ocs.ameriprise.com CNAME .
+offtest.fnfis.com CNAME .
 ola2.tdameritrade.com CNAME .
 olacontent.schwab.com CNAME .
 online-metrix.imars.cloud CNAME .
+online.nbc.ca CNAME .
 onlineapplications.anz.com CNAME .
 onlinemetrix.liverpool.com.mx CNAME .
 optm.optus.com.au CNAME .
@@ -425,6 +442,7 @@ phyon.visit-x.net CNAME .
 piafapp.poste.it CNAME .
 plr.scb-payments.net CNAME .
 pn1927.coutts.com CNAME .
+portal-fp-qaperf2.qa.threatmetrix.com CNAME .
 portal-fp.threatmetrix.com CNAME .
 pov.spectrum.net CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
@@ -474,6 +492,7 @@ sec.hikaritv.net CNAME .
 sec.lin101.mail.goo.ne.jp CNAME .
 sec.login.mail.goo.ne.jp CNAME .
 sec.login.ocn.ne.jp CNAME .
+sec.mypage.ntt.com CNAME .
 sec.mypage.ocn.ne.jp CNAME .
 sec.plala.or.jp CNAME .
 secure-service.id.dbsdigibank.com CNAME .
@@ -509,6 +528,7 @@ static.fairstone.ca CNAME .
 static.sb-cdn.io CNAME .
 stats.badoostats.com CNAME .
 stats.dell.com CNAME .
+sub-a.crossmeetz.com CNAME .
 subcontent.galeria.de CNAME .
 sunshine.lillypulitzer.com CNAME .
 svc.bangkokbank.com CNAME .
@@ -516,6 +536,7 @@ svc1.sc.com CNAME .
 svc2.sc.com CNAME .
 t.banking.blucurrent.org CNAME .
 t.banking.njfcu.org CNAME .
+t.demo.lumindigital.com CNAME .
 t.digital.communityfirstcu.org CNAME .
 t.digitalbanking.credithuman.com CNAME .
 t.digitalbanking.langleyfcu.org CNAME .
@@ -560,6 +581,7 @@ tag.icash.illinoistreasurer.gov CNAME .
 tag.mycash.utah.gov CNAME .
 tag.ucp.dor.wa.gov CNAME .
 tag.unclaimedfunds.nj.gov CNAME .
+tag.unclaimedproperty.nd.gov CNAME .
 tags.api.openaccount.rbs.co.uk CNAME .
 tags.bankline.natwest.com CNAME .
 tags.bankline.rbs.com CNAME .

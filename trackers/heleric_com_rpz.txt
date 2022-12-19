@@ -38,6 +38,7 @@ qz.equalsenframe.com CNAME .
 rs.tupigrousy.com CNAME .
 sc.achingpliant.com CNAME .
 sf.zestfulpize.com CNAME .
+sw.pluckysups.com CNAME .
 th.micheryfrugal.com CNAME .
 tr.impoundiranism.com CNAME .
 tt.smirkydiff.com CNAME .
@@ -46,9 +47,12 @@ uo.tubaronunheler.com CNAME .
 ur.meteredrato.com CNAME .
 vd.scapemambu.com CNAME .
 vp.upswingmethyl.com CNAME .
+wq.stewyruttish.com CNAME .
 wx.squetanonym.com CNAME .
+xc.stupesinosine.com CNAME .
 xl.demosbattik.com CNAME .
 xx.hematinsquark.com CNAME .
+yh.coursgrimace.com CNAME .
 zd.plattedrattons.com CNAME .
 zi.kissbluest.com CNAME .
 zx.plaiceagonist.com CNAME .

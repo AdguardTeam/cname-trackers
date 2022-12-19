@@ -28,6 +28,7 @@ tk.airfrance.gf
 tk.airfrance.gr
 tk.airfrance.hr
 tk.airfrance.ht
+tk.airfrance.id
 tk.airfrance.ie
 tk.airfrance.it
 tk.airfrance.ma

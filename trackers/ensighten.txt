@@ -6,14 +6,17 @@
 ||activate.aami.com.au^
 ||activate.academy.com^
 ||activate.anntaylor.com^
+||activate.apia.com.au^
 ||activate.baltimoresun.com^
 ||activate.bingle.com.au^
+||activate.cityandshore.com^
 ||activate.columbiaflier.com^
 ||activate.courant.com^
 ||activate.dailysouthtown.com^
 ||activate.delmartimes.net^
 ||activate.encinitasadvocate.com^
 ||activate.gio.com.au^
+||activate.hoylosangeles.com^
 ||activate.lajollalight.com^
 ||activate.lanebryant.com^
 ||activate.latimes.com^
@@ -34,6 +37,7 @@
 ||activate.suncorp.com.au^
 ||activate.tacdn.com^
 ||activate.tidewaterreview.com^
+||activate.tronc.com^
 ||activate.united.com^
 ||activate1.fidelity.com^
 ||agility.cartoonnetwork.com^
@@ -87,6 +91,7 @@
 ||assets1.vanz.vero.co.nz^
 ||assets1.vero.co.nz^
 ||assets1.vero.com.au^
+||attribution.batesfootwear.com^
 ||attribution.grasshoppers.com^
 ||attribution.lebara.com^
 ||attribution.saucony.com^
@@ -220,12 +225,14 @@
 ||pulse.rac.co.uk^
 ||pulse.sleepnumber.com^
 ||pulse.synergy.net.au^
+||pulse.wyndhamhotels.com^
 ||secureanalytics.syf.com^
 ||secureanalytics.synchronycredit.com^
 ||secureanalytics.synchronyretail.com^
 ||securemetrics.mysynchrony.com^
 ||securemetrics.syf.com^
 ||securemetrics.synchronybusiness.com^
+||service-ens.sueddeutsche.de^
 ||smt.jcpenney.com^
 ||sst.dell.com^
 ||sst.johnlewis.com^
@@ -264,6 +271,7 @@
 ||tms.nab.com.au^
 ||tms.virginatlantic.com^
 ||tmsgi.lv.com^
+||tog.fivebelow.com^
 ||tripadvisor.activate.ensighten.com^
 ||uat1-dc.pagoda.com^
 ||united.activate.ensighten.com^

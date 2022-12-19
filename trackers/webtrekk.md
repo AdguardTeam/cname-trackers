@@ -19,6 +19,7 @@
     * heise02.webtrekk.net
     * ingnl04.webtrekk.net
     * kfw-05.webtrekk.net
+    * kfw-06.webtrekk.net
     * kfw-07.webtrekk.net
     * kfw04.webtrekk.net
     * kiomi-com01.webtrekk.net
@@ -195,6 +196,7 @@
     * volksfreund01.wt-eu02.net
     * wa-wdr.wt-eu02.net
     * welt-01.wt-eu02.net
+    * wt-ara.wt-eu02.net
     * wttd-douglas.wt-eu02.net
     * xxxlmoebelhaeuserde02.wt-eu02.net
 
@@ -232,6 +234,7 @@
 | web.info.yeppon.it | 243341177383246.wt-eu02.net |
 | mit.postbank.de | 261826549347986.wt-eu02.net |
 | web.mapp.whiteaway.com | 266905402333512.wt-eu02.net |
+| web.b2bimperialfashion.com | 267062407301027.wt-eu02.net |
 | web.news.imperialfashion.com | 267062407301027.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
@@ -454,6 +457,7 @@
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | data.janvanderstorm.de | janvanderstorm-01.wt-eu02.net |
 | image.deginvest.de | kfw-05.webtrekk.net |
+| image.kfw-ipex-bank.de | kfw-06.webtrekk.net |
 | image.kfw-entwicklungsbank.de | kfw-07.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
 | track.kiomi.com | kiomi-com01.webtrekk.net |
@@ -515,6 +519,7 @@
 | wa.wdrmaus.de | wa-wdr.wt-eu02.net |
 | images1.test.de | warentest-de01.webtrekk.net |
 | spr.welt.de | welt-01.wt-eu02.net |
+| wt.ara.cat | wt-ara.wt-eu02.net |
 | web.marketing.jellybelly.com | wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com |
 | wttd.douglas.at | wttd-douglas.wt-eu02.net |
 | wttd.douglas.ch | wttd-douglas.wt-eu02.net |

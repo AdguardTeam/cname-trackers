@@ -24,11 +24,9 @@
 ||analytics.certifriedit.com^
 ||analytics.chattarize.de^
 ||analytics.churchthemes.com^
-||analytics.churchwp.com^
 ||analytics.codeforscience.org^
 ||analytics.codeskulptor.org^
 ||analytics.dephibank.com^
-||analytics.dogecoin.gg^
 ||analytics.eikko.ai^
 ||analytics.fatalparadox.com^
 ||analytics.gamedatacrunch.com^
@@ -67,7 +65,6 @@
 ||analytics.whotargets.me^
 ||analytics.winter.ink^
 ||analytics.wittypen.com^
-||analytics.wpsermons.com^
 ||analytics.xiloc.net^
 ||anneliese.scale.at^
 ||antitracking.owncast.online^
@@ -252,7 +249,6 @@
 ||plausible.langojango.com^
 ||plausible.lawdeeda.com^
 ||plausible.lesbianromantic.com^
-||plausible.lovesdata.com^
 ||plausible.mattpruitt.com^
 ||plausible.mcj.co^
 ||plausible.moncefbelyamani.com^
@@ -321,6 +317,7 @@
 ||s.saucisson-rebellion.fr^
 ||s.somos-arts.org^
 ||s.sporks.space^
+||s.stgeorgeafc.com.au^
 ||s.useeffectbyexample.com^
 ||s.webkilde.dk^
 ||sa.flux.community^
@@ -338,6 +335,7 @@
 ||spock.dom.codes^
 ||spock.domjtalbot.codes^
 ||st.preciousamber.com^
+||starman.floorcleanse.co.uk^
 ||stat.bill.harding.blog^
 ||stat.landingpro.pl^
 ||stat.tomdebruijn.com^
@@ -447,6 +445,7 @@
 ||stats.curbnumberpro.com^
 ||stats.cymbiant.co.uk^
 ||stats.dailyposter.com^
+||stats.dailyposter.xyz^
 ||stats.danestevens.dev^
 ||stats.danielwolf.photography^
 ||stats.danner-landschaftsbau.at^
@@ -575,6 +574,7 @@
 ||stats.jerickson.net^
 ||stats.joaopedro.dev^
 ||stats.johnmac.pro^
+||stats.jonatanalvarsson.se^
 ||stats.jsbible.com^
 ||stats.juniperslab.com^
 ||stats.justinwilliams.ca^
@@ -619,7 +619,6 @@
 ||stats.mentorcore.biz^
 ||stats.mesenvies.fr^
 ||stats.missionrabies.com^
-||stats.mobilecitycoupons.com^
 ||stats.moco-comics.com^
 ||stats.motion-effect.com^
 ||stats.mtsknn.fi^
@@ -627,11 +626,13 @@
 ||stats.nddmed.com^
 ||stats.nerdbusiness.com^
 ||stats.newslit.co^
+||stats.niceshitforbitcoiners.com^
 ||stats.nodewood.com^
 ||stats.nothingbutnylon.com^
 ||stats.nullsecure.com^
 ||stats.nytecomics.com^
 ||stats.onepagelove.com^
+||stats.opengatechurch.ca^
 ||stats.ortussolutions.com^
 ||stats.oursky.com^
 ||stats.oxygem.com^
@@ -648,14 +649,14 @@
 ||stats.principal-it.eu^
 ||stats.print.work^
 ||stats.profilehunt.net^
-||stats.pselookup.vrymel.com^
+||stats.profitablesignpricing.com^
 ||stats.radreiseglueck.de^
 ||stats.raidprotect.org^
 ||stats.rasulkireev.com^
-||stats.ravivyas.com^
 ||stats.reactshowcase.com^
 ||stats.reisemobil.pro^
 ||stats.remotebear.io^
+||stats.reprage.com^
 ||stats.revit-content.com^
 ||stats.revitfamily.app^
 ||stats.rocketvalidator.com^
@@ -663,10 +664,14 @@
 ||stats.rushilperera.me^
 ||stats.rymawby.com^
 ||stats.saveirishpubs.ie^
+||stats.savethemothers.org^
 ||stats.screen-play.app^
 ||stats.screenwavemedia.com^
+||stats.seva.rocks^
+||stats.sexplore.app^
 ||stats.shareup.app^
 ||stats.shoutout.so^
+||stats.sirdata.com^
 ||stats.sixseven.at^
 ||stats.skacic.co.uk^
 ||stats.socialeurope.eu^
@@ -707,7 +712,6 @@
 ||stats.useeffect.dev^
 ||stats.vinkkaa.fi^
 ||stats.voltamediahouse.com^
-||stats.vrymel.com^
 ||stats.wachstum.at^
 ||stats.walkiees.co.uk^
 ||stats.wavepointconsulting.ca^
@@ -719,9 +723,10 @@
 ||tics.seeker.gg^
 ||tipstats.onepagelove.com^
 ||tock.weg.plus^
-||track.pokestats.gg^
 ||track.slickinbox.com^
+||triton.companyegg.com^
 ||visitors.asadis.net^
+||visits.quitsocialmedia.club^
 ||vole.amplenote.com^
 ||we-love-privacy.humane.club^
 ||whz9ruftvh4pxz8fc7vh.theochu.com^

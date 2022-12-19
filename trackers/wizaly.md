@@ -120,6 +120,7 @@
 | tk.airfrance.gr | tkairfrance.wizaly.com |
 | tk.airfrance.hr | tkairfrance.wizaly.com |
 | tk.airfrance.ht | tkairfrance.wizaly.com |
+| tk.airfrance.id | tkairfrance.wizaly.com |
 | tk.airfrance.ie | tkairfrance.wizaly.com |
 | tk.airfrance.it | tkairfrance.wizaly.com |
 | tk.airfrance.ma | tkairfrance.wizaly.com |

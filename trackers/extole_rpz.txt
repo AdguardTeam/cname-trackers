@@ -37,6 +37,7 @@ refer.healthypawspetinsurance.com CNAME .
 refer.johnson.ca CNAME .
 refer.julep.com CNAME .
 refer.kipling-usa.com CNAME .
+refer.leadmd.com CNAME .
 refer.luckyvitamin.com CNAME .
 refer.moo.com CNAME .
 refer.myplant.com CNAME .
@@ -45,6 +46,7 @@ refer.ofx.com CNAME .
 refer.pageonce.com CNAME .
 refer.payroll.intuit.com CNAME .
 refer.personalcreations.com CNAME .
+refer.petco.com CNAME .
 refer.purchasingpower.com CNAME .
 refer.sage.com CNAME .
 refer.shoesforcrews.com CNAME .
@@ -58,9 +60,11 @@ refer.usforex.com CNAME .
 refer.verabradley.com CNAME .
 refer.volcom.com CNAME .
 refer.vonage.com CNAME .
+refer.wgu.edu CNAME .
 refer.xoom.com CNAME .
 referral.hostgator.com CNAME .
 referral.vistaprint.com CNAME .
+s.audiopass.nfl.com CNAME .
 share.catalogspree.com CNAME .
 share.indochino.com CNAME .
 share.na.sage.com CNAME .
@@ -69,6 +73,7 @@ share.tenmarks.com CNAME .
 share.vimeo.com CNAME .
 share.wimp.no CNAME .
 sharethelove.teacollection.com CNAME .
+social.beautisol.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
 ;
@@ -79,6 +84,7 @@ externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
 go.joinsizigi.com CNAME .
+groomrefer.petco.com CNAME .
 jessica-test-numero-dos.extoleu.com CNAME .
 love.columbiacu.org CNAME .
 love.suncoastcreditunion.com CNAME .
@@ -98,6 +104,7 @@ refer.awscloud.com CNAME .
 refer.ballarddesigns.com CNAME .
 refer.bareminerals.com CNAME .
 refer.bareminerals.uk CNAME .
+refer.barnandwillow.com CNAME .
 refer.batesfootwear.com CNAME .
 refer.bathandbodyworks.com CNAME .
 refer.baxterofcalifornia.com CNAME .
@@ -122,7 +129,9 @@ refer.comfortzoneskin.com CNAME .
 refer.competitivecyclist.com CNAME .
 refer.contiki.com CNAME .
 refer.creativelive.com CNAME .
+refer.crocs.com CNAME .
 refer.cspire.com CNAME .
+refer.ea.com CNAME .
 refer.embracepetinsurance.com CNAME .
 refer.ems.com CNAME .
 refer.eset.com CNAME .
@@ -134,14 +143,17 @@ refer.frontgate.com CNAME .
 refer.g2.com CNAME .
 refer.gapcanada.ca CNAME .
 refer.garnethill.com CNAME .
+refer.gcefcu.org CNAME .
 refer.giantfood.com CNAME .
 refer.giantfoodstores.com CNAME .
 refer.glamglow.com CNAME .
 refer.globalknowledge.com CNAME .
 refer.gnc.com CNAME .
+refer.greatwesternbank.com CNAME .
 refer.gymboree.com CNAME .
 refer.hair.com CNAME .
 refer.harryrosen.com CNAME .
+refer.henribendel.com CNAME .
 refer.hillcity.gap.com CNAME .
 refer.hollandamerica.com CNAME .
 refer.homedepot.com CNAME .
@@ -181,6 +193,7 @@ refer.olehenriksen.com CNAME .
 refer.orbitz.com CNAME .
 refer.ouidad.com CNAME .
 refer.pacsafe.com CNAME .
+refer.perriconemd.com CNAME .
 refer.pimsleur.com CNAME .
 refer.prokeds.com CNAME .
 refer.psecu.com CNAME .
@@ -354,6 +367,7 @@ share.steadyapp.com CNAME .
 share.stridehealth.com CNAME .
 share.studiosashiko.com CNAME .
 share.sundaysfordogs.com CNAME .
+share.tallahassee.com CNAME .
 share.teachersfcu.org CNAME .
 share.theory.com CNAME .
 share.theoryoutlet.com CNAME .
@@ -362,6 +376,7 @@ share.tommy.com CNAME .
 share.trafalgar.com CNAME .
 share.truckstop.com CNAME .
 share.uk.theory.com CNAME .
+share.unchartedsociety.com CNAME .
 share.usatoday.com CNAME .
 share.veo.co CNAME .
 share.veritycu.com CNAME .
@@ -373,6 +388,10 @@ share.wisdompanel.com CNAME .
 share.wombatinvest.com CNAME .
 share.zebit.com CNAME .
 share.zenbusiness.com CNAME .
+;
+; u82658.wl159.sendgrid.net disguised trackers
+;
+em8561.go2bank.com CNAME .
 ;
 ; media-router-aol1.prod.g03.yahoodns.net disguised trackers
 ;

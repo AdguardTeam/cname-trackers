@@ -17,6 +17,7 @@
 | f1.mailperformance.com | form.bp01.net |
 | f1.np6.com | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
+| www.bfc-mp.caisse-epargne.fr | form.bp01.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
 | shortener.np6.com | tracking.bp01.net |
@@ -86,6 +87,7 @@
 | tr.cart02d.espmp-agfr.net | tracking.bp01.net |
 | tr.carte.lcl.fr | tracking.bp01.net |
 | tr.cartegie.fr | tracking.bp01.net |
+| tr.cashback.banque-casino.fr | tracking.bp01.net |
 | tr.cashback.floa.fr | tracking.bp01.net |
 | tr.cb4x.banque-casino.fr | tracking.bp01.net |
 | tr.cb4x.floa.fr | tracking.bp01.net |
@@ -125,6 +127,7 @@
 | tr.communication.lvmh.fr | tracking.bp01.net |
 | tr.communication.lvmhdare.com | tracking.bp01.net |
 | tr.communication.moethennessy.com | tracking.bp01.net |
+| tr.communication.moethennessydiageoconnect.com | tracking.bp01.net |
 | tr.communication.np6.com | tracking.bp01.net |
 | tr.communication.numericable.fr | tracking.bp01.net |
 | tr.communication.offresb2b.fr | tracking.bp01.net |
@@ -160,6 +163,7 @@
 | tr.devis-professionnels.com | tracking.bp01.net |
 | tr.devis-professionnels.fr | tracking.bp01.net |
 | tr.devis.digital | tracking.bp01.net |
+| tr.devisminute-affranchissement.com | tracking.bp01.net |
 | tr.devisminute-alarme.com | tracking.bp01.net |
 | tr.devisminute-geolocalisation.com | tracking.bp01.net |
 | tr.devisminute-gestionpaie.com | tracking.bp01.net |
@@ -223,8 +227,10 @@
 | tr.enews.customsolutions.fr | tracking.bp01.net |
 | tr.engie-globalenergy.info | tracking.bp01.net |
 | tr.enquete-cpf.ifop.com | tracking.bp01.net |
+| tr.enquetes.actionlogement.fr | tracking.bp01.net |
 | tr.entreprise-pro.info | tracking.bp01.net |
 | tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
+| tr.estatesandwines.moethennessy.com | tracking.bp01.net |
 | tr.europa-organisation.com | tracking.bp01.net |
 | tr.evenements.inpi.fr | tracking.bp01.net |
 | tr.expresofferte.be | tracking.bp01.net |
@@ -285,6 +291,7 @@
 | tr.info.maxis-gbn.com | tracking.bp01.net |
 | tr.info.mcgarrybowen.com | tracking.bp01.net |
 | tr.info.mdbp.fr | tracking.bp01.net |
+| tr.info.mercialys.com | tracking.bp01.net |
 | tr.info.mobibam.com | tracking.bp01.net |
 | tr.info.np6.fr | tracking.bp01.net |
 | tr.info.offres-cartegie.fr | tracking.bp01.net |
@@ -320,6 +327,7 @@
 | tr.jesuis.enformedelotus.com | tracking.bp01.net |
 | tr.jevoteenligne.fr | tracking.bp01.net |
 | tr.jkyg.espmp-cufr.net | tracking.bp01.net |
+| tr.kang.espmp-cufr.net | tracking.bp01.net |
 | tr.klse.espmp-agfr.net | tracking.bp01.net |
 | tr.kommunikation.younited-credit.com | tracking.bp01.net |
 | tr.kontakt.younited-credit.com | tracking.bp01.net |
@@ -398,6 +406,7 @@
 | tr.news.accessmbatour.com | tracking.bp01.net |
 | tr.news.alibabuy.com | tracking.bp01.net |
 | tr.news.alinea.com | tracking.bp01.net |
+| tr.news.alinea.fr | tracking.bp01.net |
 | tr.news.allopneus.be | tracking.bp01.net |
 | tr.news.allopneus.com | tracking.bp01.net |
 | tr.news.assuragency.net | tracking.bp01.net |
@@ -536,6 +545,7 @@
 | tr.newsletter.younited-credit.com | tracking.bp01.net |
 | tr.newsletterpagesjaunes.fr | tracking.bp01.net |
 | tr.newsletters-bonpoint.com | tracking.bp01.net |
+| tr.newsletters.alticemedia.com | tracking.bp01.net |
 | tr.newsletters.odalys-vacances.com | tracking.bp01.net |
 | tr.newsletters.youmeetings.com | tracking.bp01.net |
 | tr.newsmarketing.allopneus.com | tracking.bp01.net |
@@ -561,6 +571,7 @@
 | tr.notification.cetelem.fr | tracking.bp01.net |
 | tr.notification.credit-moderne.fr | tracking.bp01.net |
 | tr.notification.norrsken.fr | tracking.bp01.net |
+| tr.notification.np6.com | tracking.bp01.net |
 | tr.np6.com | tracking.bp01.net |
 | tr.np6.orange.fr | tracking.bp01.net |
 | tr.observatoire.musee-orangerie.fr | tracking.bp01.net |
@@ -574,6 +585,7 @@
 | tr.offres.bfmtv.com | tracking.bp01.net |
 | tr.offrevip.banque-casino.fr | tracking.bp01.net |
 | tr.offrevip.floa.fr | tracking.bp01.net |
+| tr.operations.butagaz.fr | tracking.bp01.net |
 | tr.orange-lease.fr | tracking.bp01.net |
 | tr.orcamentos-companeo.pt | tracking.bp01.net |
 | tr.oxatis.devisdirect.com | tracking.bp01.net |
@@ -589,6 +601,7 @@
 | tr.prevention.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.preventivo.risparmiazienda.it | tracking.bp01.net |
 | tr.pro.odalys-vacances.com | tracking.bp01.net |
+| tr.program.certinergy.com | tracking.bp01.net |
 | tr.projet.cotemaison.fr | tracking.bp01.net |
 | tr.promo.np6.fr | tracking.bp01.net |
 | tr.promotion.lexpress.fr | tracking.bp01.net |
@@ -647,10 +660,12 @@
 | tr.souscription.banque-casino.fr | tracking.bp01.net |
 | tr.souscription.floa.fr | tracking.bp01.net |
 | tr.spain.plimsoll.es | tracking.bp01.net |
+| tr.sportperf.np6.fr | tracking.bp01.net |
 | tr.stanford-news.fr | tracking.bp01.net |
 | tr.strategie.gouv.fr | tracking.bp01.net |
 | tr.tdgx.espmp-cufr.net | tracking.bp01.net |
 | tr.thisiseurope.moethennessy.com | tracking.bp01.net |
+| tr.tns.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.toner-service.fr | tracking.bp01.net |
 | tr.toner-services.fr | tracking.bp01.net |
 | tr.tonerservices.fr | tracking.bp01.net |
@@ -663,6 +678,7 @@
 | tr.urfk03h.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03q.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03u.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk03x.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk044.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk057.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk05g.espmp-agfr.net | tracking.bp01.net |
@@ -694,3 +710,6 @@
 | tr.win.moethennessy.com | tracking.bp01.net |
 | tr.wuei.espmp-agfr.net | tracking.bp01.net |
 | tr.wycena-companeo.pl | tracking.bp01.net |
+| tr1.lr003.net | tracking.bp01.net |
+| tr1.mailperf.com | tracking.bp01.net |
+| tr1.mailperformance.com | tracking.bp01.net |

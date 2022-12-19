@@ -109,6 +109,7 @@ cname.jf-d.jp CNAME .
 cname.kyusai.co.jp CNAME .
 cname.lions-mansion.jp CNAME .
 cname.mebiusseiyaku.co.jp CNAME .
+cname.nikkei-cnbc.co.jp CNAME .
 cname1.shakenkan.co.jp CNAME .
 cname2.shaken-yoyaku.com CNAME .
 cnameebis.eizoshigoto.com CNAME .
@@ -233,6 +234,7 @@ tracking.axis.onl CNAME .
 tracking.mysurance.co.jp CNAME .
 tracking.nokai.jp CNAME .
 tracking.wao-corp.com CNAME .
+tracking.wao.ne.jp CNAME .
 tukuru.cotta.jp CNAME .
 ureruadebis.papawash.com CNAME .
 urerucname.manara.jp CNAME .

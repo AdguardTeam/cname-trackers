@@ -6,6 +6,7 @@
 aud.bild.de CNAME .
 image.deginvest.de CNAME .
 image.kfw-entwicklungsbank.de CNAME .
+image.kfw-ipex-bank.de CNAME .
 image.kfw.de CNAME .
 images1.test.de CNAME .
 inhalt.bild.de CNAME .
@@ -221,6 +222,7 @@ wbtrkk.teufelaudio.it CNAME .
 wbtrkk.teufelaudio.nl CNAME .
 wbtrkk.teufelaudio.pl CNAME .
 web.autobodytoolmart.com CNAME .
+web.b2bimperialfashion.com CNAME .
 web.bankofscotland.de CNAME .
 web.campaign.jaked.com CNAME .
 web.campaign.miriade.com CNAME .
@@ -302,6 +304,7 @@ webt.pure.com CNAME .
 wetr.sportscheck.at CNAME .
 wetr.sportscheck.ch CNAME .
 wetr.sportscheck.com CNAME .
+wt.ara.cat CNAME .
 wt.dialog-versicherung.de CNAME .
 wt.envivas.de CNAME .
 wt.generali.de CNAME .
