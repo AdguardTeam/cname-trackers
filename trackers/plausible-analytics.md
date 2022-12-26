@@ -203,6 +203,7 @@
 | plau.devitjobs.us | custom.plausible.io |
 | plau.devjob.ro | custom.plausible.io |
 | plau.germantechjobs.de | custom.plausible.io |
+| plau.hmans.co | custom.plausible.io |
 | plau.swissdevjobs.ch | custom.plausible.io |
 | plauplauplau.app.budg.co | custom.plausible.io |
 | plauplauplau.budg.co | custom.plausible.io |
@@ -323,6 +324,7 @@
 | s.somos-arts.org | custom.plausible.io |
 | s.sporks.space | custom.plausible.io |
 | s.stgeorgeafc.com.au | custom.plausible.io |
+| s.tritoninfosec.com | custom.plausible.io |
 | s.useeffectbyexample.com | custom.plausible.io |
 | s.webkilde.dk | custom.plausible.io |
 | sa.flux.community | custom.plausible.io |
@@ -457,6 +459,7 @@
 | stats.dashbit.co | custom.plausible.io |
 | stats.davidlms.com | custom.plausible.io |
 | stats.davydepauw.be | custom.plausible.io |
+| stats.deescut.com | custom.plausible.io |
 | stats.deja-lu.de | custom.plausible.io |
 | stats.derekknight.tech | custom.plausible.io |
 | stats.designerpowerup.com | custom.plausible.io |
@@ -467,6 +470,7 @@
 | stats.devrain.io | custom.plausible.io |
 | stats.dflydev.com | custom.plausible.io |
 | stats.digiexpert.store | custom.plausible.io |
+| stats.dionoxford.com | custom.plausible.io |
 | stats.divyanshu013.dev | custom.plausible.io |
 | stats.dmarcdigests.com | custom.plausible.io |
 | stats.domhabersack.com | custom.plausible.io |
@@ -569,6 +573,7 @@
 | stats.iscc-system.org | custom.plausible.io |
 | stats.isthispoisonivy.website | custom.plausible.io |
 | stats.ivankahl.com | custom.plausible.io |
+| stats.ivs.rocks | custom.plausible.io |
 | stats.jackwhiting.co.uk | custom.plausible.io |
 | stats.jamesevers.co.uk | custom.plausible.io |
 | stats.jamesilesantiques.com | custom.plausible.io |
@@ -611,10 +616,12 @@
 | stats.livingedge.ngo | custom.plausible.io |
 | stats.localmetravel.com | custom.plausible.io |
 | stats.lord.io | custom.plausible.io |
+| stats.lorempdf.com | custom.plausible.io |
 | stats.lstfnd.de | custom.plausible.io |
 | stats.ltdhunt.com | custom.plausible.io |
 | stats.lumen-app.com | custom.plausible.io |
 | stats.macosicons.com | custom.plausible.io |
+| stats.macroarraydx.com | custom.plausible.io |
 | stats.martinbetz.eu | custom.plausible.io |
 | stats.mastermeup.com | custom.plausible.io |
 | stats.masterybits.com | custom.plausible.io |
@@ -636,6 +643,7 @@
 | stats.nothingbutnylon.com | custom.plausible.io |
 | stats.nullsecure.com | custom.plausible.io |
 | stats.nytecomics.com | custom.plausible.io |
+| stats.offthekerb.com | custom.plausible.io |
 | stats.onepagelove.com | custom.plausible.io |
 | stats.opengatechurch.ca | custom.plausible.io |
 | stats.ortussolutions.com | custom.plausible.io |
@@ -704,7 +712,9 @@
 | stats.tekin.co.uk | custom.plausible.io |
 | stats.telositycompany.com | custom.plausible.io |
 | stats.textprotocol.org | custom.plausible.io |
+| stats.thenewradiance.com | custom.plausible.io |
 | stats.thingsthatkeepmeupatnight.dev | custom.plausible.io |
+| stats.thomasfroese.com | custom.plausible.io |
 | stats.threadstart.io | custom.plausible.io |
 | stats.timmyomahony.com | custom.plausible.io |
 | stats.toiletmap.org.uk | custom.plausible.io |
@@ -720,12 +730,19 @@
 | stats.wachstum.at | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
 | stats.wavepointconsulting.ca | custom.plausible.io |
+| stats.wecodeni.com | custom.plausible.io |
+| stats.whenpigsflybbq.com | custom.plausible.io |
 | stats.whereisit5pmrightnow.com | custom.plausible.io |
 | stats.world.hey.com | custom.plausible.io |
 | stats.wvs.org.uk | custom.plausible.io |
+| stats.wvsindia.org | custom.plausible.io |
+| stats.yourdallashandyman.com | custom.plausible.io |
 | stats.zander.wtf | custom.plausible.io |
+| sts.papyrs.com | custom.plausible.io |
+| stts.sgab-srfp.ch | custom.plausible.io |
 | t.lastcast.fm | custom.plausible.io |
 | tics.seeker.gg | custom.plausible.io |
+| tics.techdirt.com | custom.plausible.io |
 | tipstats.onepagelove.com | custom.plausible.io |
 | tock.weg.plus | custom.plausible.io |
 | track.slickinbox.com | custom.plausible.io |

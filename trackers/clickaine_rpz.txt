@@ -50,7 +50,6 @@ dnsbl.test.ww1.willalland.info CNAME .
 faq.brandnewapp.pro CNAME .
 flare.vtube.to CNAME .
 get.xclick24.com CNAME .
-go.analsextuber.com CNAME .
 go.lize.bid CNAME .
 hruk.afguk.top CNAME .
 hruk.gumasi.top CNAME .
@@ -61,6 +60,7 @@ icn.brandnewapp.pro CNAME .
 mail.7porn.ru CNAME .
 ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .
+route69.watchporn.to CNAME .
 s1.rtnews.pro CNAME .
 sda.arabsex1.com CNAME .
 snow.snowdayonline.xyz CNAME .
@@ -70,6 +70,7 @@ uy.arabsex1.com CNAME .
 wp.brandnewapp.pro CNAME .
 ww1.willalland.info CNAME .
 www.bokep.su CNAME .
+www.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 xd3r.javgg.eu CNAME .
 xxx.arabsex1.com CNAME .

@@ -45,6 +45,7 @@ affil.nutriadapt.cz CNAME .
 affil.peliskydog.cz CNAME .
 affil.plkshop.cz CNAME .
 affil.reedog.cz CNAME .
+affil.rutan.cz CNAME .
 affil.sedacky-nabytek.cz CNAME .
 affil.seduo.cz CNAME .
 affil.snadnejsizivot.cz CNAME .
@@ -92,6 +93,7 @@ affiliate.cocowoods.cz CNAME .
 affiliate.compik.cz CNAME .
 affiliate.coolcredit.cz CNAME .
 affiliate.cryptokingdom.cz CNAME .
+affiliate.deltareisen.cz CNAME .
 affiliate.designovynabytek.cz CNAME .
 affiliate.designshoes.cz CNAME .
 affiliate.diana-company.cz CNAME .
@@ -137,6 +139,7 @@ affiliate.lasamba.cz CNAME .
 affiliate.lentiamo.se CNAME .
 affiliate.levnoshop.cz CNAME .
 affiliate.lg-store.cz CNAME .
+affiliate.loveo.cz CNAME .
 affiliate.luxusnipradlo.cz CNAME .
 affiliate.manvel.cz CNAME .
 affiliate.milagro.cz CNAME .
@@ -289,6 +292,7 @@ partner.anabix.cz CNAME .
 partner.antihacker.cz CNAME .
 partner.artmasteracademy.cz CNAME .
 partner.astaxanthincz.cz CNAME .
+partner.azada.cz CNAME .
 partner.babysigns.cz CNAME .
 partner.bandana.cz CNAME .
 partner.barnaby.cz CNAME .
@@ -333,6 +337,7 @@ partner.expresmenu.com CNAME .
 partner.expresmenu.cz CNAME .
 partner.expresmenu.sk CNAME .
 partner.fermato.cz CNAME .
+partner.ferratum.cz CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
 partner.forexrebel.net CNAME .
@@ -350,6 +355,7 @@ partner.iodicanatural.cz CNAME .
 partner.italier.cz CNAME .
 partner.ivadekor.cz CNAME .
 partner.izlato24.cz CNAME .
+partner.jak-na-bolava-zada.cz CNAME .
 partner.jedlenadobi.cz CNAME .
 partner.ketomix.cz CNAME .
 partner.ketomix.hu CNAME .
@@ -373,6 +379,7 @@ partner.mhsexshop.com CNAME .
 partner.milujifoceni.cz CNAME .
 partner.mooselife.cz CNAME .
 partner.motoobchod.cz CNAME .
+partner.mumijo.cz CNAME .
 partner.muzskykruh.cz CNAME .
 partner.nanolab.cz CNAME .
 partner.naplne.cz CNAME .
@@ -420,6 +427,7 @@ partner.svatebni-diar.cz CNAME .
 partner.svetruzi.cz CNAME .
 partner.swimmeez.cz CNAME .
 partner.top-obaly.cz CNAME .
+partner.totalniplavani.cz CNAME .
 partner.tyano.cz CNAME .
 partner.umio.sk CNAME .
 partner.unuo.de CNAME .
@@ -498,6 +506,7 @@ partneri.portske.cz CNAME .
 partneri.prectime.cz CNAME .
 partneri.proficredit.cz CNAME .
 partneri.radostkazdyden.cz CNAME .
+partneri.razdvapujcka.cz CNAME .
 partneri.roklen.cz CNAME .
 partneri.rondainvest.cz CNAME .
 partneri.rybitukylysi.cz CNAME .
@@ -506,6 +515,8 @@ partneri.silaprozivot.com CNAME .
 partneri.smartemailing.cz CNAME .
 partneri.smyslovy-pruzkumnik.cz CNAME .
 partneri.sportfotbal.cz CNAME .
+partneri.sportmentor.cz CNAME .
+partneri.supportbox.cz CNAME .
 partneri.sviicka.cz CNAME .
 partneri.tradicne-feng-shui.sk CNAME .
 partneri.trenink-vyjednavani.cz CNAME .

@@ -52,6 +52,7 @@
 ||adebis.kaonavi.jp^
 ||adebis.kirei-journal.jp^
 ||adebis.kirin.co.jp^
+||adebis.kodomohamigaki.com^
 ||adebis.kose.co.jp^
 ||adebis.koutsujiko.jp^
 ||adebis.leben-establish.jp^

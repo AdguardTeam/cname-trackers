@@ -5,3 +5,4 @@
 ;
 nt.compass-fit.jp CNAME .
 send.mad-infeed.jp CNAME .
+www.compass-fit.jp CNAME .

@@ -126,6 +126,7 @@ claimant.vec.virginia.gov CNAME .
 clear.wallapop.com CNAME .
 clovergo.june-testing.firstdata.com CNAME .
 cmprofile.cards.citidirect.com CNAME .
+cnt.didiglobal.com CNAME .
 cnt.goboo.com CNAME .
 cnt.patpat.com CNAME .
 cnt2.bank.za.group CNAME .
@@ -140,6 +141,7 @@ content.asurion53.com CNAME .
 content.atmosphere.ca CNAME .
 content.bankerslife.com CNAME .
 content.benefitsaccess.org CNAME .
+content.biggerbooks.com CNAME .
 content.billdomain.com CNAME .
 content.billscenter.paytrust.com CNAME .
 content.billsupport.com CNAME .
@@ -162,6 +164,7 @@ content.discover.com CNAME .
 content.discovercard.com CNAME .
 content.dstv.com CNAME .
 content.dwd.wisconsin.gov CNAME .
+content.ea.com CNAME .
 content.ebanking-services.com CNAME .
 content.ecampus.com CNAME .
 content.egyptair.com CNAME .
@@ -169,6 +172,7 @@ content.espace-client.hellobank.fr CNAME .
 content.etransfer.interac.ca CNAME .
 content.ezaem.ru CNAME .
 content.familyprepaiddebit.com CNAME .
+content.firstinterstatebank.com CNAME .
 content.fisglobal.com CNAME .
 content.frs.fl.gov CNAME .
 content.gap.com CNAME .
@@ -218,6 +222,7 @@ content.realquest.com CNAME .
 content.royalairmaroc.com CNAME .
 content.royalvegascasino.ca CNAME .
 content.rubyfortune.ca CNAME .
+content.sfbli.com CNAME .
 content.sheerid.com CNAME .
 content.spincasino.ca CNAME .
 content.sportchek.ca CNAME .
@@ -295,6 +300,7 @@ device.invoice2go.com CNAME .
 device.messa.org CNAME .
 deviceauth.dmv.ca.gov CNAME .
 devicecontent.icuracao.com CNAME .
+df.fragrancex.com CNAME .
 df.greenmangaming.com CNAME .
 df.thumbtack.com CNAME .
 dfp.garmin.com CNAME .
@@ -339,12 +345,12 @@ gfp.intuit.com CNAME .
 ghisa.subito.it CNAME .
 go.citizensaccess.com CNAME .
 h.chase.co.uk CNAME .
+h.greenmangaming.com CNAME .
 h.threatmetrix.com CNAME .
 h.truist.com CNAME .
 hfp.intuit.com CNAME .
 hint-tmdp.opendoor.com CNAME .
 hooru.regence.com CNAME .
-i6h.iryo.eu CNAME .
 id.latitudefinancial.com CNAME .
 idhtm.bb.com.br CNAME .
 idstatus.sky.com CNAME .
@@ -442,6 +448,8 @@ phyon.visit-x.net CNAME .
 piafapp.poste.it CNAME .
 plr.scb-payments.net CNAME .
 pn1927.coutts.com CNAME .
+portal-fp-qa1.qa.threatmetrix.com CNAME .
+portal-fp-qa2.qa.threatmetrix.com CNAME .
 portal-fp-qaperf2.qa.threatmetrix.com CNAME .
 portal-fp.threatmetrix.com CNAME .
 pov.spectrum.net CNAME .
@@ -514,6 +522,7 @@ securecheckout.halloweencostumes.com CNAME .
 secured.netflix.com CNAME .
 servicesdp.luckydays.ca CNAME .
 servicesdp.spinaway.ca CNAME .
+shield.boostbusiness.my CNAME .
 sitehelper.myengageft.com CNAME .
 sitehelper.optimizemoney.com CNAME .
 solstice.ibotta.com CNAME .

@@ -131,6 +131,7 @@
 3216263.notifysrv.com
 3217033.notifysrv.com
 3217213.notifysrv.com
+3220723.notify6.com
 3221653.notifysrv.com
 3221733.notifysrv.com
 3221983.notifysrv.com
@@ -473,6 +474,7 @@
 3572273.notifysrv.com
 3572277.notify6.com
 3572277.notifysrv.com
+3580393.notify6.com
 3588587.notify6.com
 3618939.notify6.com
 3629687.notify6.com
@@ -514,7 +516,9 @@
 4003022.notify6.com
 4003752.notify6.com
 4004928.notify6.com
+4018398.notify6.com
 4035234.notify6.com
+4050544.notify6.com
 4093684.notify6.com
 4097564.notify6.com
 4131834.notify6.com
@@ -541,12 +545,14 @@
 4815462.notify6.com
 4819336.notify6.com
 4832912.notify6.com
-a.adnflow.com
+7678.notify.optimizesrv.com
+a.addisplaynetwork.com
 a.etology.com
 delivery.gettopple.com
 engine.gettopple.com
 m.hsrve.com
 m.hss2x.com
+m.optnx.com
 main.exdynsrv.com
 main.exoclick.com
 main.exosrv.com
@@ -561,6 +567,7 @@ s.elink2c.com
 s.elnk4b.com
 s.elnkp4.com
 s.elns4a.com
+s.etology.com
 s.exv6.com
 s.linkw2e.com
 s.linkw2g.com
@@ -588,9 +595,17 @@ syndication.epcmk.com
 syndication.exdynsrv.com
 syndication.exoclick.com
 syndication.exosrv.com
+syndication.link5c.com
 syndication.link5v.com
+syndication.linkgett.com
 syndication.linkwitt.com
 syndication.optimizesrv.com
 syndication.realsrv.com
 syndication.whibd.com
 syndication.whibp.com
+#
+# cds.d6n9n7e2.hwcdn.net disguised trackers
+#
+a.adnflow.com
+a.etology.com
+delivery.gettopple.com

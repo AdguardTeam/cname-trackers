@@ -55,7 +55,6 @@
 | faq.brandnewapp.pro | api.clickaine.com |
 | flare.vtube.to | api.clickaine.com |
 | get.xclick24.com | api.clickaine.com |
-| go.analsextuber.com | api.clickaine.com |
 | go.lize.bid | api.clickaine.com |
 | hruk.afguk.top | api.clickaine.com |
 | hruk.gumasi.top | api.clickaine.com |
@@ -66,6 +65,7 @@
 | mail.7porn.ru | api.clickaine.com |
 | ps1.reallifecam.to | api.clickaine.com |
 | ps2.camcaps.to | api.clickaine.com |
+| route69.watchporn.to | api.clickaine.com |
 | s1.rtnews.pro | api.clickaine.com |
 | sda.arabsex1.com | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |
@@ -75,6 +75,7 @@
 | wp.brandnewapp.pro | api.clickaine.com |
 | ww1.willalland.info | api.clickaine.com |
 | www.bokep.su | api.clickaine.com |
+| www.brandnewapp.pro | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
 | xxx.arabsex1.com | api.clickaine.com |

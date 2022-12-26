@@ -288,6 +288,7 @@ web.slimjoy.ro CNAME .
 web.slimjoy.se CNAME .
 web.slimjoy.sk CNAME .
 web.solesource.com CNAME .
+web.tamaris.com CNAME .
 web.tummy-tox.com CNAME .
 web.tummytox.de CNAME .
 web.tummytox.it CNAME .

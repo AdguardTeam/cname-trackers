@@ -198,6 +198,7 @@ plau.devitjobs.uk
 plau.devitjobs.us
 plau.devjob.ro
 plau.germantechjobs.de
+plau.hmans.co
 plau.swissdevjobs.ch
 plauplauplau.app.budg.co
 plauplauplau.budg.co
@@ -318,6 +319,7 @@ s.saucisson-rebellion.fr
 s.somos-arts.org
 s.sporks.space
 s.stgeorgeafc.com.au
+s.tritoninfosec.com
 s.useeffectbyexample.com
 s.webkilde.dk
 sa.flux.community
@@ -452,6 +454,7 @@ stats.danner-landschaftsbau.at
 stats.dashbit.co
 stats.davidlms.com
 stats.davydepauw.be
+stats.deescut.com
 stats.deja-lu.de
 stats.derekknight.tech
 stats.designerpowerup.com
@@ -462,6 +465,7 @@ stats.devetkomentara.net
 stats.devrain.io
 stats.dflydev.com
 stats.digiexpert.store
+stats.dionoxford.com
 stats.divyanshu013.dev
 stats.dmarcdigests.com
 stats.domhabersack.com
@@ -564,6 +568,7 @@ stats.isabelsommerfeld.com
 stats.iscc-system.org
 stats.isthispoisonivy.website
 stats.ivankahl.com
+stats.ivs.rocks
 stats.jackwhiting.co.uk
 stats.jamesevers.co.uk
 stats.jamesilesantiques.com
@@ -606,10 +611,12 @@ stats.lik.fr
 stats.livingedge.ngo
 stats.localmetravel.com
 stats.lord.io
+stats.lorempdf.com
 stats.lstfnd.de
 stats.ltdhunt.com
 stats.lumen-app.com
 stats.macosicons.com
+stats.macroarraydx.com
 stats.martinbetz.eu
 stats.mastermeup.com
 stats.masterybits.com
@@ -631,6 +638,7 @@ stats.nodewood.com
 stats.nothingbutnylon.com
 stats.nullsecure.com
 stats.nytecomics.com
+stats.offthekerb.com
 stats.onepagelove.com
 stats.opengatechurch.ca
 stats.ortussolutions.com
@@ -699,7 +707,9 @@ stats.swicket.io
 stats.tekin.co.uk
 stats.telositycompany.com
 stats.textprotocol.org
+stats.thenewradiance.com
 stats.thingsthatkeepmeupatnight.dev
+stats.thomasfroese.com
 stats.threadstart.io
 stats.timmyomahony.com
 stats.toiletmap.org.uk
@@ -715,12 +725,19 @@ stats.voltamediahouse.com
 stats.wachstum.at
 stats.walkiees.co.uk
 stats.wavepointconsulting.ca
+stats.wecodeni.com
+stats.whenpigsflybbq.com
 stats.whereisit5pmrightnow.com
 stats.world.hey.com
 stats.wvs.org.uk
+stats.wvsindia.org
+stats.yourdallashandyman.com
 stats.zander.wtf
+sts.papyrs.com
+stts.sgab-srfp.ch
 t.lastcast.fm
 tics.seeker.gg
+tics.techdirt.com
 tipstats.onepagelove.com
 tock.weg.plus
 track.slickinbox.com

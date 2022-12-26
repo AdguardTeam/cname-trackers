@@ -45,6 +45,7 @@ affil.nutriadapt.cz
 affil.peliskydog.cz
 affil.plkshop.cz
 affil.reedog.cz
+affil.rutan.cz
 affil.sedacky-nabytek.cz
 affil.seduo.cz
 affil.snadnejsizivot.cz
@@ -92,6 +93,7 @@ affiliate.cocowoods.cz
 affiliate.compik.cz
 affiliate.coolcredit.cz
 affiliate.cryptokingdom.cz
+affiliate.deltareisen.cz
 affiliate.designovynabytek.cz
 affiliate.designshoes.cz
 affiliate.diana-company.cz
@@ -137,6 +139,7 @@ affiliate.lasamba.cz
 affiliate.lentiamo.se
 affiliate.levnoshop.cz
 affiliate.lg-store.cz
+affiliate.loveo.cz
 affiliate.luxusnipradlo.cz
 affiliate.manvel.cz
 affiliate.milagro.cz
@@ -289,6 +292,7 @@ partner.anabix.cz
 partner.antihacker.cz
 partner.artmasteracademy.cz
 partner.astaxanthincz.cz
+partner.azada.cz
 partner.babysigns.cz
 partner.bandana.cz
 partner.barnaby.cz
@@ -333,6 +337,7 @@ partner.expresmenu.com
 partner.expresmenu.cz
 partner.expresmenu.sk
 partner.fermato.cz
+partner.ferratum.cz
 partner.finstyle.cz
 partner.firmin.cz
 partner.forexrebel.net
@@ -350,6 +355,7 @@ partner.iodicanatural.cz
 partner.italier.cz
 partner.ivadekor.cz
 partner.izlato24.cz
+partner.jak-na-bolava-zada.cz
 partner.jedlenadobi.cz
 partner.ketomix.cz
 partner.ketomix.hu
@@ -373,6 +379,7 @@ partner.mhsexshop.com
 partner.milujifoceni.cz
 partner.mooselife.cz
 partner.motoobchod.cz
+partner.mumijo.cz
 partner.muzskykruh.cz
 partner.nanolab.cz
 partner.naplne.cz
@@ -420,6 +427,7 @@ partner.svatebni-diar.cz
 partner.svetruzi.cz
 partner.swimmeez.cz
 partner.top-obaly.cz
+partner.totalniplavani.cz
 partner.tyano.cz
 partner.umio.sk
 partner.unuo.de
@@ -498,6 +506,7 @@ partneri.portske.cz
 partneri.prectime.cz
 partneri.proficredit.cz
 partneri.radostkazdyden.cz
+partneri.razdvapujcka.cz
 partneri.roklen.cz
 partneri.rondainvest.cz
 partneri.rybitukylysi.cz
@@ -506,6 +515,8 @@ partneri.silaprozivot.com
 partneri.smartemailing.cz
 partneri.smyslovy-pruzkumnik.cz
 partneri.sportfotbal.cz
+partneri.sportmentor.cz
+partneri.supportbox.cz
 partneri.sviicka.cz
 partneri.tradicne-feng-shui.sk
 partneri.trenink-vyjednavani.cz

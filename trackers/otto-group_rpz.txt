@@ -3,6 +3,7 @@
 ;
 ; oghub.io disguised trackers
 ;
+prod.nitrosniffer.ottogroup.io CNAME .
 sniffer.nitro-test-extern.otto.boreus.de CNAME .
 te.ackermann.ch CNAME .
 te.ambria.de CNAME .

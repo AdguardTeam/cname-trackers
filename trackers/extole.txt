@@ -21,6 +21,7 @@
 ||refer.barenecessities.com^
 ||refer.basictalk.com^
 ||refer.beautisol.com^
+||refer.bookbyte.com^
 ||refer.checkngo.com^
 ||refer.clearme.com^
 ||refer.compexusa.com^
@@ -43,6 +44,7 @@
 ||refer.myplant.com^
 ||refer.nvidia.com^
 ||refer.ofx.com^
+||refer.opensky.com^
 ||refer.pageonce.com^
 ||refer.payroll.intuit.com^
 ||refer.personalcreations.com^
@@ -72,6 +74,7 @@
 ||share.tenmarks.com^
 ||share.vimeo.com^
 ||share.wimp.no^
+||share.worldmarket.com^
 ||sharethelove.teacollection.com^
 ||social.beautisol.com^
 ||tellapal.register.com^
@@ -103,6 +106,7 @@
 ||refer.awscloud.com^
 ||refer.ballarddesigns.com^
 ||refer.bareminerals.com^
+||refer.bareminerals.fr^
 ||refer.bareminerals.uk^
 ||refer.barnandwillow.com^
 ||refer.batesfootwear.com^
@@ -113,6 +117,7 @@
 ||refer.bose.com^
 ||refer.bose.de^
 ||refer.bose.fr^
+||refer.burtsbees.com^
 ||refer.caavo.com^
 ||refer.cacique.com^
 ||refer.calo.app^
@@ -149,6 +154,7 @@
 ||refer.glamglow.com^
 ||refer.globalknowledge.com^
 ||refer.gnc.com^
+||refer.gopetplan.ca^
 ||refer.greatwesternbank.com^
 ||refer.gymboree.com^
 ||refer.hair.com^
@@ -157,6 +163,7 @@
 ||refer.hillcity.gap.com^
 ||refer.hollandamerica.com^
 ||refer.homedepot.com^
+||refer.horizonfitness.marketing^
 ||refer.hsn.com^
 ||refer.hushpuppies.com^
 ||refer.indeed.com^
@@ -199,6 +206,7 @@
 ||refer.psecu.com^
 ||refer.pureology.com^
 ||refer.pvdparking.com^
+||refer.quickbooks.ca^
 ||refer.quickbooks.co.uk^
 ||refer.reebok.com^
 ||refer.reliasacademy.com^
@@ -293,6 +301,7 @@
 ||share.conceiveabilities.com^
 ||share.cosbar.com^
 ||share.couponcabin.com^
+||share.credible.com^
 ||share.creditninja.com^
 ||share.cwbank.com^
 ||share.dermablend.com^
@@ -301,6 +310,7 @@
 ||share.dslaboratories.com^
 ||share.dunlopsports.com^
 ||share.dutch.com^
+||share.enterprisenews.com^
 ||share.esteelauder.com.au^
 ||share.esteelauder.com.tw^
 ||share.evine.com^
@@ -360,6 +370,7 @@
 ||share.rvshare.com^
 ||share.saintjanebeauty.com^
 ||share.securityplusfcu.org^
+||share.shoptruespirit.com^
 ||share.shutterstock.com^
 ||share.simonandschuster.com^
 ||share.starbucks.com^

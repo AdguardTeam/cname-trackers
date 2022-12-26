@@ -152,6 +152,8 @@ tr.devisminute-affranchissement.com CNAME .
 tr.devisminute-alarme.com CNAME .
 tr.devisminute-geolocalisation.com CNAME .
 tr.devisminute-gestionpaie.com CNAME .
+tr.devisminute-operateur.com CNAME .
+tr.devisminute-siteecommerce.com CNAME .
 tr.devize-companeo.ro CNAME .
 tr.digitaldigest.lvmh.com CNAME .
 tr.dirigeants.harmonie-mutuelle.fr CNAME .
@@ -159,6 +161,7 @@ tr.discover.perfectstay.com CNAME .
 tr.djay.espmp-agfr.net CNAME .
 tr.docapost-sirs.com CNAME .
 tr.donateur.afm-telethon.fr CNAME .
+tr.dossier-assurance.maaf.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
 tr.e-mail.axa.fr CNAME .
 tr.e.entreprise-pm.net CNAME .
@@ -170,11 +173,13 @@ tr.ecologie-shop.espmp-agfr.net CNAME .
 tr.em.cdiscount-pro.com CNAME .
 tr.em.cdiscountpro.com CNAME .
 tr.email.aeroexpo.online CNAME .
+tr.email.aktuariat.fr CNAME .
 tr.email.archiexpo.com CNAME .
 tr.email.contact-jaguar.fr CNAME .
 tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
 tr.email.directindustry.com CNAME .
+tr.email.esprit-de-france.com CNAME .
 tr.email.gap-france.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.infocredit.orangebank.fr CNAME .
@@ -250,6 +255,7 @@ tr.hello.maisonfoody.com CNAME .
 tr.helloartisan.info CNAME .
 tr.info-btob-leaders.com CNAME .
 tr.info-companeo.be CNAME .
+tr.info-pro.promoneuve.fr CNAME .
 tr.info-strategie.fr CNAME .
 tr.info.actionlogement.fr CNAME .
 tr.info.ag2rlamondiale.fr CNAME .
@@ -346,6 +352,7 @@ tr.mailing.lvmhappening.com CNAME .
 tr.mailingnp6.lavoirmoderne.com CNAME .
 tr.mailmp.macif.net CNAME .
 tr.mailperf.institut-de-la-protection-sociale.fr CNAME .
+tr.mailperformance.com CNAME .
 tr.mailperformance.fr CNAME .
 tr.maisonsdumonde.com CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
@@ -585,11 +592,13 @@ tr.politicomarketing.eu CNAME .
 tr.portail.afpa.fr CNAME .
 tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
+tr.pro-renov.be CNAME .
 tr.pro.odalys-vacances.com CNAME .
 tr.program.certinergy.com CNAME .
 tr.projet.cotemaison.fr CNAME .
 tr.promo.np6.fr CNAME .
 tr.promotion.lexpress.fr CNAME .
+tr.prosfores-companeo.gr CNAME .
 tr.publicisdrugstore.espmp-agfr.net CNAME .
 tr.qualitaetsumfrage.com CNAME .
 tr.qualitaveicolo.com CNAME .
@@ -695,6 +704,8 @@ tr.welcome.vipmag.fr CNAME .
 tr.win.moethennessy.com CNAME .
 tr.wuei.espmp-agfr.net CNAME .
 tr.wycena-companeo.pl CNAME .
+tr.xleads.digital CNAME .
+tr1.citroen-ipsos.com CNAME .
 tr1.lr003.net CNAME .
 tr1.mailperf.com CNAME .
 tr1.mailperformance.com CNAME .

@@ -198,6 +198,7 @@ plau.devitjobs.uk CNAME .
 plau.devitjobs.us CNAME .
 plau.devjob.ro CNAME .
 plau.germantechjobs.de CNAME .
+plau.hmans.co CNAME .
 plau.swissdevjobs.ch CNAME .
 plauplauplau.app.budg.co CNAME .
 plauplauplau.budg.co CNAME .
@@ -318,6 +319,7 @@ s.saucisson-rebellion.fr CNAME .
 s.somos-arts.org CNAME .
 s.sporks.space CNAME .
 s.stgeorgeafc.com.au CNAME .
+s.tritoninfosec.com CNAME .
 s.useeffectbyexample.com CNAME .
 s.webkilde.dk CNAME .
 sa.flux.community CNAME .
@@ -452,6 +454,7 @@ stats.danner-landschaftsbau.at CNAME .
 stats.dashbit.co CNAME .
 stats.davidlms.com CNAME .
 stats.davydepauw.be CNAME .
+stats.deescut.com CNAME .
 stats.deja-lu.de CNAME .
 stats.derekknight.tech CNAME .
 stats.designerpowerup.com CNAME .
@@ -462,6 +465,7 @@ stats.devetkomentara.net CNAME .
 stats.devrain.io CNAME .
 stats.dflydev.com CNAME .
 stats.digiexpert.store CNAME .
+stats.dionoxford.com CNAME .
 stats.divyanshu013.dev CNAME .
 stats.dmarcdigests.com CNAME .
 stats.domhabersack.com CNAME .
@@ -564,6 +568,7 @@ stats.isabelsommerfeld.com CNAME .
 stats.iscc-system.org CNAME .
 stats.isthispoisonivy.website CNAME .
 stats.ivankahl.com CNAME .
+stats.ivs.rocks CNAME .
 stats.jackwhiting.co.uk CNAME .
 stats.jamesevers.co.uk CNAME .
 stats.jamesilesantiques.com CNAME .
@@ -606,10 +611,12 @@ stats.lik.fr CNAME .
 stats.livingedge.ngo CNAME .
 stats.localmetravel.com CNAME .
 stats.lord.io CNAME .
+stats.lorempdf.com CNAME .
 stats.lstfnd.de CNAME .
 stats.ltdhunt.com CNAME .
 stats.lumen-app.com CNAME .
 stats.macosicons.com CNAME .
+stats.macroarraydx.com CNAME .
 stats.martinbetz.eu CNAME .
 stats.mastermeup.com CNAME .
 stats.masterybits.com CNAME .
@@ -631,6 +638,7 @@ stats.nodewood.com CNAME .
 stats.nothingbutnylon.com CNAME .
 stats.nullsecure.com CNAME .
 stats.nytecomics.com CNAME .
+stats.offthekerb.com CNAME .
 stats.onepagelove.com CNAME .
 stats.opengatechurch.ca CNAME .
 stats.ortussolutions.com CNAME .
@@ -699,7 +707,9 @@ stats.swicket.io CNAME .
 stats.tekin.co.uk CNAME .
 stats.telositycompany.com CNAME .
 stats.textprotocol.org CNAME .
+stats.thenewradiance.com CNAME .
 stats.thingsthatkeepmeupatnight.dev CNAME .
+stats.thomasfroese.com CNAME .
 stats.threadstart.io CNAME .
 stats.timmyomahony.com CNAME .
 stats.toiletmap.org.uk CNAME .
@@ -715,12 +725,19 @@ stats.voltamediahouse.com CNAME .
 stats.wachstum.at CNAME .
 stats.walkiees.co.uk CNAME .
 stats.wavepointconsulting.ca CNAME .
+stats.wecodeni.com CNAME .
+stats.whenpigsflybbq.com CNAME .
 stats.whereisit5pmrightnow.com CNAME .
 stats.world.hey.com CNAME .
 stats.wvs.org.uk CNAME .
+stats.wvsindia.org CNAME .
+stats.yourdallashandyman.com CNAME .
 stats.zander.wtf CNAME .
+sts.papyrs.com CNAME .
+stts.sgab-srfp.ch CNAME .
 t.lastcast.fm CNAME .
 tics.seeker.gg CNAME .
+tics.techdirt.com CNAME .
 tipstats.onepagelove.com CNAME .
 tock.weg.plus CNAME .
 track.slickinbox.com CNAME .

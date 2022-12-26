@@ -24,7 +24,6 @@
 987656iuyyty.hotscopes.to CNAME .
 98tang.lol CNAME .
 a.123porner.com CNAME .
-a.2umovies.com CNAME .
 a.44oo.icu CNAME .
 a.6vids.space CNAME .
 a.888x.cyou CNAME .
@@ -63,12 +62,9 @@ a.p123p.com CNAME .
 a.pinayviralsexx.com CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornhex.com CNAME .
-a.prmovies.org CNAME .
 a.pumpity.net CNAME .
 a.ratihbugil.online CNAME .
 a.reryn2ce.com CNAME .
-a.speedostream.com CNAME .
-a.streamoupload.xyz CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
 a.toongod.com CNAME .
@@ -76,7 +72,6 @@ a.tortuko.club CNAME .
 a.travelbdnews.xyz CNAME .
 a.viralnewsbd.xyz CNAME .
 a.warddogs.com CNAME .
-a.watchomovies.com CNAME .
 a.xmanga.online CNAME .
 a.zillastream.com CNAME .
 a5g.oves.biz CNAME .
@@ -117,6 +112,7 @@ amazingdomain.sbs CNAME .
 amazoni.lol CNAME .
 analik.icu CNAME .
 anti.nukedfans.com CNAME .
+anti.uiiumovies.net CNAME .
 antiadblock.info CNAME .
 aoutime.hair CNAME .
 api.adultsclips.com CNAME .
@@ -265,6 +261,7 @@ free.stat.tk CNAME .
 freememes.desiceleb.top CNAME .
 fresh.tuiz.pics CNAME .
 fx9.freepornoboss.com CNAME .
+g0dy.site CNAME .
 g4x.porngirl.eu CNAME .
 g6j.cupidonmedia.com CNAME .
 gamestar.lol CNAME .
@@ -279,10 +276,12 @@ goallbest.com CNAME .
 goog.emailon.top CNAME .
 h-ay.com CNAME .
 hazicu.hothomefuck.com CNAME .
+hegdcrxavrtk.cdnvideo3.com CNAME .
 hehe686.lol CNAME .
 help.fanza.cc CNAME .
 hens.hentaitimes.com CNAME .
 hi999.mom CNAME .
+hitfuck.icu CNAME .
 hizgame.mom CNAME .
 hoabon4.lol CNAME .
 homemadeand.com CNAME .
@@ -295,9 +294,11 @@ hunjoinz.pics CNAME .
 i.anime22.net CNAME .
 i.hqvrporn.net CNAME .
 iez.jojome.xyz CNAME .
+imbdemfjjduu.cdnvideo3.com CNAME .
 in.fuckhardclips.com CNAME .
 io.fapnado.com CNAME .
 j45.webringporn.com CNAME .
+jikyjuu6.xsuffer.com CNAME .
 jira.xsuffer.com CNAME .
 jo.fapnado.xxx CNAME .
 js.manga9.co CNAME .
@@ -342,7 +343,6 @@ maxcdn.dmm-video.online CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 messic.lol CNAME .
-mewo.tube2.me CNAME .
 missgrand.beauty CNAME .
 missunow.lol CNAME .
 morezone.lol CNAME .
@@ -387,6 +387,7 @@ p123p.com CNAME .
 p1t.clipnuke.com CNAME .
 pakeway.lol CNAME .
 pam.mongz.lol CNAME .
+pampela.lol CNAME .
 paperezi.mom CNAME .
 parkurl.com CNAME .
 pem.tamboys.pics CNAME .
@@ -419,6 +420,7 @@ pubbucks.homes CNAME .
 pubg.remiitano.xyz CNAME .
 px9.nuderedtube.com CNAME .
 q1.pornwex.tv CNAME .
+qatak.beauty CNAME .
 qhip.com CNAME .
 qoqv.com CNAME .
 quaz.viaoz.xyz CNAME .
@@ -430,7 +432,6 @@ s.elitecdn.pl CNAME .
 s.freeporncave.com CNAME .
 s.oralblow.com CNAME .
 s.remonti.org CNAME .
-s.speedostream.com CNAME .
 s2.everydaygayporn.com CNAME .
 s4.sb89347.com CNAME .
 saituo.mom CNAME .
@@ -453,10 +454,10 @@ sin.chjnmi.xyz CNAME .
 slave.kbjfree.com CNAME .
 solutions.playernetca.top CNAME .
 som.chartlon.skin CNAME .
+someboay.lol CNAME .
 sor.pornxok.com CNAME .
 space.facebiz.xyz CNAME .
 spy.bocvu.lol CNAME .
-spy.luvprn.com CNAME .
 spyglass.octanime.net CNAME .
 spyglass.reklamko.pro CNAME .
 srv.acervox.com CNAME .
@@ -517,10 +518,12 @@ web.cinetux.nu CNAME .
 wtfdontblock.theporndudes.xyz CNAME .
 ww.cvideos.stream CNAME .
 www.adanald.icu CNAME .
+www.adhome.icu CNAME .
 www.adxhand.icu CNAME .
 www.antiadblock.info CNAME .
 www.areliux.cc CNAME .
 www.bigboy.monster CNAME .
+www.bloblohub.com CNAME .
 www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.lechoncito.one CNAME .

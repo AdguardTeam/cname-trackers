@@ -29,6 +29,7 @@
     * h-3gk2er3j.online-metrix.net
     * h-3u2bmrkg.online-metrix.net
     * h-3z5dc3wi.online-metrix.net
+    * h-3zlt5rop.online-metrix.net
     * h-47blm1l4.online-metrix.net
     * h-4hq91r5k.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
@@ -94,7 +95,6 @@
     * h-autoowners.online-metrix.net
     * h-avant.online-metrix.net
     * h-axiata.online-metrix.net
-    * h-b7zlgmu8.online-metrix.net
     * h-badoo.online-metrix.net
     * h-bambu.online-metrix.net
     * h-banco.digio.online-metrix.net
@@ -112,6 +112,7 @@
     * h-betmgm.online-metrix.net
     * h-beyondbank.online-metrix.net
     * h-bhs5fatf.online-metrix.net
+    * h-biggerbooks.online-metrix.net
     * h-blueorangebank.online-metrix.net
     * h-bluevine.online-metrix.net
     * h-bmo.online-metrix.net
@@ -263,6 +264,7 @@
     * h-fidelity.online-metrix.net
     * h-firstcitizensbank.online-metrix.net
     * h-firstdata.online-metrix.net
+    * h-firstinterstatebank.online-metrix.net
     * h-fisglobal.online-metrix.net
     * h-floridadms.online-metrix.net
     * h-fortenet.online-metrix.net
@@ -465,6 +467,7 @@
     * h-scdigitalsolutions.online-metrix.net
     * h-scotia.online-metrix.net
     * h-segpay.online-metrix.net
+    * h-sfbli.online-metrix.net
     * h-sheerid.online-metrix.net
     * h-signifyd.online-metrix.net
     * h-skrill.online-metrix.net
@@ -491,6 +494,7 @@
     * h-thefirstclub-ihg.online-metrix.net
     * h-thefirstclub.online-metrix.net
     * h-thmep.zondaglobal.online-metrix.net
+    * h-threatmetrix.ea.online-metrix.net
     * h-threatmetrix.online-metrix.net
     * h-thumbtack.online-metrix.net
     * h-tiaa-cref-at-test.online-metrix.net
@@ -545,6 +549,8 @@
     * h-zootweb.online-metrix.net
     * h-zopa.online-metrix.net
     * h.online-metrix.net
+    * qa1-h.online-metrix.net
+    * qa2-h.online-metrix.net
     * qaperf2-h.online-metrix.net
 
 ## Cloaking domains
@@ -579,6 +585,7 @@
 | r7s.scl.swisscom.ch | h-3gk2er3j.online-metrix.net |
 | content.lyft.com | h-3u2bmrkg.online-metrix.net |
 | event.evtm.53.com | h-3z5dc3wi.online-metrix.net |
+| shield.boostbusiness.my | h-3zlt5rop.online-metrix.net |
 | api.v1.threatmetrix.space.ge | h-47blm1l4.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
@@ -672,7 +679,6 @@
 | customercenter-img04.auto-owners.com | h-autoowners.online-metrix.net |
 | img2.avant.com | h-avant.online-metrix.net |
 | caveo.boost-my.com | h-axiata.online-metrix.net |
-| i6h.iryo.eu | h-b7zlgmu8.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
 | ln.meudigio.com.br | h-banco.digio.online-metrix.net |
@@ -690,6 +696,7 @@
 | assessment.nj.betmgm.com | h-betmgm.online-metrix.net |
 | tmx.beyondbank.com.au | h-beyondbank.online-metrix.net |
 | content.byabcd.com | h-bhs5fatf.online-metrix.net |
+| content.biggerbooks.com | h-biggerbooks.online-metrix.net |
 | stat.blueorangebank.com | h-blueorangebank.online-metrix.net |
 | stat.bluorbank.lv | h-blueorangebank.online-metrix.net |
 | tm-analytics.bluevine.com | h-bluevine.online-metrix.net |
@@ -876,6 +883,7 @@
 | cfaxq2.fidelity.com | h-fidelity.online-metrix.net |
 | daotm.firstcitizens.com | h-firstcitizensbank.online-metrix.net |
 | clovergo.june-testing.firstdata.com | h-firstdata.online-metrix.net |
+| content.firstinterstatebank.com | h-firstinterstatebank.online-metrix.net |
 | content.billdomain.com | h-fisglobal.online-metrix.net |
 | content.billsupport.com | h-fisglobal.online-metrix.net |
 | content.consumercardaccess.com | h-fisglobal.online-metrix.net |
@@ -1170,6 +1178,7 @@
 | mobilecontent.projectdrgn.com | h-scdigitalsolutions.online-metrix.net |
 | appschk.scotiabank.com | h-scotia.online-metrix.net |
 | secure3.segpay.com | h-segpay.online-metrix.net |
+| content.sfbli.com | h-sfbli.online-metrix.net |
 | content.sheerid.com | h-sheerid.online-metrix.net |
 | imgs.signifyd.com | h-signifyd.online-metrix.net |
 | cdn1.skrill.com | h-skrill.online-metrix.net |
@@ -1196,6 +1205,7 @@
 | assets2.ihg.com | h-thefirstclub-ihg.online-metrix.net |
 | assets2.thefirstclub.com | h-thefirstclub.online-metrix.net |
 | thmep.zondaglobal.com | h-thmep.zondaglobal.online-metrix.net |
+| content.ea.com | h-threatmetrix.ea.online-metrix.net |
 | h.threatmetrix.com | h-threatmetrix.online-metrix.net |
 | df.thumbtack.com | h-thumbtack.online-metrix.net |
 | public-check3-at.test.tiaa.org | h-tiaa-cref-at-test.online-metrix.net |
@@ -1273,7 +1283,12 @@
 | w3.zionsbank.com | h-zions.online-metrix.net |
 | img.zootweb.com | h-zootweb.online-metrix.net |
 | cdna.zopa.com | h-zopa.online-metrix.net |
+| cnt.didiglobal.com | h.online-metrix.net |
 | content.readiness.consumercardaccess.com | h.online-metrix.net |
+| df.fragrancex.com | h.online-metrix.net |
 | fraudcheck.walmart.ca | h.online-metrix.net |
 | gateway.jmbullion.com | h.online-metrix.net |
+| h.greenmangaming.com | h.online-metrix.net |
+| portal-fp-qa1.qa.threatmetrix.com | qa1-h.online-metrix.net |
+| portal-fp-qa2.qa.threatmetrix.com | qa2-h.online-metrix.net |
 | portal-fp-qaperf2.qa.threatmetrix.com | qaperf2-h.online-metrix.net |

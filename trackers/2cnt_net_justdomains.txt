@@ -319,45 +319,17 @@ gala.met.vgwort.de
 #
 geo.met.vgwort.de
 #
-# golem.vgwort-de.2cnt.net disguised trackers
-#
-golem.met.vgwort.de
-#
 # halsa.tns-dk.2cnt.net disguised trackers
 #
 halsa.tns-gallup.dk
-#
-# handelsblatt.vgwort-de.2cnt.net disguised trackers
-#
-handelsblatt.met.vgwort.de
-#
-# heise.vgwort-de.2cnt.net disguised trackers
-#
-heise.met.vgwort.de
 #
 # helpster.vgwort-de.2cnt.net disguised trackers
 #
 helpster.met.vgwort.de
 #
-# hogrefe.vgwort-de.2cnt.net disguised trackers
-#
-hogrefe.met.vgwort.de
-#
 # hsfo.tns-dk.2cnt.net disguised trackers
 #
 hsfo.tns-gallup.dk
-#
-# huffpost.vgwort-de.2cnt.net disguised trackers
-#
-huffpost.met.vgwort.de
-#
-# idgentertain.vgwort-de.2cnt.net disguised trackers
-#
-idgentertain.met.vgwort.de
-#
-# idgmagazine.vgwort-de.2cnt.net disguised trackers
-#
-idgmagazine.met.vgwort.de
 #
 # information.tns-dk.2cnt.net disguised trackers
 #
@@ -375,6 +347,10 @@ itjobindex.tns-gallup.dk
 #
 itwatch.tns-gallup.dk
 #
+# journalisten.tns-dk.2cnt.net disguised trackers
+#
+journalisten.tns-gallup.dk
+#
 # jubii.tns-dk.2cnt.net disguised trackers
 #
 jubii.tns-gallup.dk
@@ -383,14 +359,6 @@ jubii.tns-gallup.dk
 #
 juicyplay.tns-gallup.dk
 #
-# juris.vgwort-de.2cnt.net disguised trackers
-#
-juris.met.vgwort.de
-#
-# kr.vgwort-de.2cnt.net disguised trackers
-#
-kr.met.vgwort.de
-#
 # krak.tns-dk.2cnt.net disguised trackers
 #
 krak.tns-gallup.dk
@@ -398,10 +366,6 @@ krak.tns-gallup.dk
 # kristeligtdagblad.tns-dk.2cnt.net disguised trackers
 #
 kristeligtdagblad.tns-gallup.dk
-#
-# ksta.vgwort-de.2cnt.net disguised trackers
-#
-ksta.met.vgwort.de
 #
 # kundeunivers.tns-dk.2cnt.net disguised trackers
 #
@@ -507,6 +471,10 @@ spiegel.met.vgwort.de
 #
 springer.met.vgwort.de
 #
+# ssl-abendblatt.vgwort-de.2cnt.net disguised trackers
+#
+ssl-abendblatt.met.vgwort.de
+#
 # ssl-aktivtraening.tns-dk.2cnt.net disguised trackers
 #
 ssl-aktivtraening.tns-gallup.dk
@@ -545,6 +513,14 @@ ssl-avisen.tns-gallup.dk
 # ssl-beck.vgwort-de.2cnt.net disguised trackers
 #
 ssl-beck.met.vgwort.de
+#
+# ssl-berliner-kurier.vgwort-de.2cnt.net disguised trackers
+#
+ssl-berliner-kurier.met.vgwort.de
+#
+# ssl-berliner-zeitung.vgwort-de.2cnt.net disguised trackers
+#
+ssl-berliner-zeitung.met.vgwort.de
 #
 # ssl-berlingske.tns-dk.2cnt.net disguised trackers
 #
@@ -599,6 +575,10 @@ ssl-borseniam.tns-gallup.dk
 ssl-boxerstream.tns-gallup.dk
 ssl-stofastream.tns-gallup.dk
 #
+# ssl-brigitte.vgwort-de.2cnt.net disguised trackers
+#
+ssl-brigitte.met.vgwort.de
+#
 # ssl-bt-eavis.tns-dk.2cnt.net disguised trackers
 #
 ssl-bt-eavis.tns-gallup.dk
@@ -614,6 +594,10 @@ ssl-bureaubiz.tns-gallup.dk
 # ssl-business.tns-dk.2cnt.net disguised trackers
 #
 ssl-business.tns-gallup.dk
+#
+# ssl-chip.vgwort-de.2cnt.net disguised trackers
+#
+ssl-chip.met.vgwort.de
 #
 # ssl-computerworld.tns-dk.2cnt.net disguised trackers
 #
@@ -646,10 +630,6 @@ ssl-dplaystream.tns-gallup.dk
 # ssl-dr.tns-dk.2cnt.net disguised trackers
 #
 ssl-dr.tns-gallup.dk
-#
-# ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
-#
-ssl-drandroidtvstream.tns-gallup.dk
 #
 # ssl-drhbbstream.tns-dk.2cnt.net disguised trackers
 #
@@ -700,6 +680,10 @@ ssl-euroinvestor.tns-gallup.dk
 #
 ssl-euroman.tns-gallup.dk
 #
+# ssl-express.vgwort-de.2cnt.net disguised trackers
+#
+ssl-express.met.vgwort.de
+#
 # ssl-fdim.tns-dk.2cnt.net disguised trackers
 #
 ssl-fdim.tns-gallup.dk
@@ -740,6 +724,10 @@ ssl-gaffa.tns-gallup.dk
 #
 ssl-gafiam.tns-gallup.dk
 ssl-swpanel.tns-gallup.dk
+#
+# ssl-gala.vgwort-de.2cnt.net disguised trackers
+#
+ssl-gala.met.vgwort.de
 #
 # ssl-goerdetselv.tns-dk.2cnt.net disguised trackers
 #
@@ -833,6 +821,10 @@ ssl-komforum.tns-gallup.dk
 #
 ssl-komputer.tns-gallup.dk
 #
+# ssl-kr.vgwort-de.2cnt.net disguised trackers
+#
+ssl-kr.met.vgwort.de
+#
 # ssl-krak.tns-dk.2cnt.net disguised trackers
 #
 ssl-krak.tns-gallup.dk
@@ -840,6 +832,10 @@ ssl-krak.tns-gallup.dk
 # ssl-kristeligtdagblad.tns-dk.2cnt.net disguised trackers
 #
 ssl-kristeligtdagblad.tns-gallup.dk
+#
+# ssl-ksta.vgwort-de.2cnt.net disguised trackers
+#
+ssl-ksta.met.vgwort.de
 #
 # ssl-lokalavisen.tns-dk.2cnt.net disguised trackers
 #
@@ -865,6 +861,10 @@ ssl-mandagmorgen.tns-gallup.dk
 #
 ssl-mediajob.tns-gallup.dk
 #
+# ssl-merkur.vgwort-de.2cnt.net disguised trackers
+#
+ssl-merkur.met.vgwort.de
+#
 # ssl-minby.tns-dk.2cnt.net disguised trackers
 #
 ssl-minby.tns-gallup.dk
@@ -872,6 +872,14 @@ ssl-minby.tns-gallup.dk
 # ssl-mja.tns-dk.2cnt.net disguised trackers
 #
 ssl-mja.tns-gallup.dk
+#
+# ssl-mopo.vgwort-de.2cnt.net disguised trackers
+#
+ssl-mopo.met.vgwort.de
+#
+# ssl-n-tv.vgwort-de.2cnt.net disguised trackers
+#
+ssl-n-tv.met.vgwort.de
 #
 # ssl-news.tns-dk.2cnt.net disguised trackers
 #
@@ -961,9 +969,25 @@ ssl-spisbedre.tns-gallup.dk
 #
 ssl-spotdeal.tns-gallup.dk
 #
+# ssl-springer.vgwort-de.2cnt.net disguised trackers
+#
+ssl-springer.met.vgwort.de
+#
+# ssl-stern.vgwort-de.2cnt.net disguised trackers
+#
+ssl-stern.met.vgwort.de
+#
+# ssl-sz.vgwort-de.2cnt.net disguised trackers
+#
+ssl-sz.met.vgwort.de
+#
 # ssl-t-online.vgwort-de.2cnt.net disguised trackers
 #
 ssl-t-online.met.vgwort.de
+#
+# ssl-tagesspiegel.vgwort-de.2cnt.net disguised trackers
+#
+ssl-tagesspiegel.met.vgwort.de
 #
 # ssl-teltarif.vgwort-de.2cnt.net disguised trackers
 #
@@ -1010,6 +1034,10 @@ ssl-tv3play.tns-gallup.dk
 #
 ssl-tv3sport.tns-gallup.dk
 #
+# ssl-tz.vgwort-de.2cnt.net disguised trackers
+#
+ssl-tz.met.vgwort.de
+#
 # ssl-ugeavisen.tns-dk.2cnt.net disguised trackers
 #
 ssl-ugeavisen.tns-gallup.dk
@@ -1030,10 +1058,6 @@ ssl-vdonline.tns-gallup.dk
 #
 ssl-vg03.met.vgwort.de
 #
-# ssl-viaplaystream.tns-dk.2cnt.net disguised trackers
-#
-ssl-viaplaystream.tns-gallup.dk
-#
 # ssl-videnskab.tns-dk.2cnt.net disguised trackers
 #
 ssl-videnskab.tns-gallup.dk
@@ -1041,6 +1065,10 @@ ssl-videnskab.tns-gallup.dk
 # ssl-watchmedier.tns-dk.2cnt.net disguised trackers
 #
 ssl-watchmedier.tns-gallup.dk
+#
+# ssl-waz.vgwort-de.2cnt.net disguised trackers
+#
+ssl-waz.met.vgwort.de
 #
 # ssl-weeka-eavis.tns-dk.2cnt.net disguised trackers
 #
@@ -1071,6 +1099,10 @@ youseeiosstream.tns-gallup.dk
 #
 ssl-youseestream.tns-gallup.dk
 #
+# ssl-zeit.vgwort-de.2cnt.net disguised trackers
+#
+ssl-zeit.met.vgwort.de
+#
 # stern.vgwort-de.2cnt.net disguised trackers
 #
 stern.met.vgwort.de
@@ -1094,6 +1126,14 @@ tagesspiegel.met.vgwort.de
 # taz.vgwort-de.2cnt.net disguised trackers
 #
 taz.met.vgwort.de
+#
+# teltarif.vgwort-de.2cnt.net disguised trackers
+#
+teltarif.met.vgwort.de
+#
+# thieme.vgwort-de.2cnt.net disguised trackers
+#
+thieme.met.vgwort.de
 #
 # tv2androidstream.tns-dk.2cnt.net disguised trackers
 #
@@ -1147,6 +1187,14 @@ vg08.met.vgwort.de
 #
 vg09.met.vgwort.de
 #
+# viborgfolkeblad.tns-dk.2cnt.net disguised trackers
+#
+viborgfolkeblad.tns-gallup.dk
+#
+# vision.vgwort-de.2cnt.net disguised trackers
+#
+vision.met.vgwort.de
+#
 # viunge.tns-dk.2cnt.net disguised trackers
 #
 viunge.tns-gallup.dk
@@ -1163,13 +1211,21 @@ waz.met.vgwort.de
 #
 weeka-eavis.tns-gallup.dk
 #
+# weka.vgwort-de.2cnt.net disguised trackers
+#
+weka.met.vgwort.de
+#
+# welt.vgwort-de.2cnt.net disguised trackers
+#
+welt.met.vgwort.de
+#
 # wiley.vgwort-de.2cnt.net disguised trackers
 #
 wiley.met.vgwort.de
 #
-# youseeandroidstream.tns-dk.2cnt.net disguised trackers
+# wolterskluwer.vgwort-de.2cnt.net disguised trackers
 #
-youseeandroidstream.tns-gallup.dk
+wolterskluwer.met.vgwort.de
 #
 # youseeiosstream.tns-dk.2cnt.net disguised trackers
 #

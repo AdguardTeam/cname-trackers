@@ -152,6 +152,8 @@
 ||tr.devisminute-alarme.com^
 ||tr.devisminute-geolocalisation.com^
 ||tr.devisminute-gestionpaie.com^
+||tr.devisminute-operateur.com^
+||tr.devisminute-siteecommerce.com^
 ||tr.devize-companeo.ro^
 ||tr.digitaldigest.lvmh.com^
 ||tr.dirigeants.harmonie-mutuelle.fr^
@@ -159,6 +161,7 @@
 ||tr.djay.espmp-agfr.net^
 ||tr.docapost-sirs.com^
 ||tr.donateur.afm-telethon.fr^
+||tr.dossier-assurance.maaf.fr^
 ||tr.drh-holding.lvmh.fr^
 ||tr.e-mail.axa.fr^
 ||tr.e.entreprise-pm.net^
@@ -170,11 +173,13 @@
 ||tr.em.cdiscount-pro.com^
 ||tr.em.cdiscountpro.com^
 ||tr.email.aeroexpo.online^
+||tr.email.aktuariat.fr^
 ||tr.email.archiexpo.com^
 ||tr.email.contact-jaguar.fr^
 ||tr.email.contact-landrover.fr^
 ||tr.email.custom-campaign.com^
 ||tr.email.directindustry.com^
+||tr.email.esprit-de-france.com^
 ||tr.email.gap-france.fr^
 ||tr.email.harmonie-mutuelle.fr^
 ||tr.email.infocredit.orangebank.fr^
@@ -250,6 +255,7 @@
 ||tr.helloartisan.info^
 ||tr.info-btob-leaders.com^
 ||tr.info-companeo.be^
+||tr.info-pro.promoneuve.fr^
 ||tr.info-strategie.fr^
 ||tr.info.actionlogement.fr^
 ||tr.info.ag2rlamondiale.fr^
@@ -346,6 +352,7 @@
 ||tr.mailingnp6.lavoirmoderne.com^
 ||tr.mailmp.macif.net^
 ||tr.mailperf.institut-de-la-protection-sociale.fr^
+||tr.mailperformance.com^
 ||tr.mailperformance.fr^
 ||tr.maisonsdumonde.com^
 ||tr.marg02n.espmp-agfr.net^
@@ -585,11 +592,13 @@
 ||tr.portail.afpa.fr^
 ||tr.prevention.harmonie-mutuelle.fr^
 ||tr.preventivo.risparmiazienda.it^
+||tr.pro-renov.be^
 ||tr.pro.odalys-vacances.com^
 ||tr.program.certinergy.com^
 ||tr.projet.cotemaison.fr^
 ||tr.promo.np6.fr^
 ||tr.promotion.lexpress.fr^
+||tr.prosfores-companeo.gr^
 ||tr.publicisdrugstore.espmp-agfr.net^
 ||tr.qualitaetsumfrage.com^
 ||tr.qualitaveicolo.com^
@@ -695,6 +704,8 @@
 ||tr.win.moethennessy.com^
 ||tr.wuei.espmp-agfr.net^
 ||tr.wycena-companeo.pl^
+||tr.xleads.digital^
+||tr1.citroen-ipsos.com^
 ||tr1.lr003.net^
 ||tr1.mailperf.com^
 ||tr1.mailperformance.com^

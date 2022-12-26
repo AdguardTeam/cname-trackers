@@ -21,6 +21,7 @@ refer.aol.com CNAME .
 refer.barenecessities.com CNAME .
 refer.basictalk.com CNAME .
 refer.beautisol.com CNAME .
+refer.bookbyte.com CNAME .
 refer.checkngo.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
@@ -43,6 +44,7 @@ refer.moo.com CNAME .
 refer.myplant.com CNAME .
 refer.nvidia.com CNAME .
 refer.ofx.com CNAME .
+refer.opensky.com CNAME .
 refer.pageonce.com CNAME .
 refer.payroll.intuit.com CNAME .
 refer.personalcreations.com CNAME .
@@ -72,6 +74,7 @@ share.qalo.com CNAME .
 share.tenmarks.com CNAME .
 share.vimeo.com CNAME .
 share.wimp.no CNAME .
+share.worldmarket.com CNAME .
 sharethelove.teacollection.com CNAME .
 social.beautisol.com CNAME .
 tellapal.register.com CNAME .
@@ -103,6 +106,7 @@ refer.athletawell.com CNAME .
 refer.awscloud.com CNAME .
 refer.ballarddesigns.com CNAME .
 refer.bareminerals.com CNAME .
+refer.bareminerals.fr CNAME .
 refer.bareminerals.uk CNAME .
 refer.barnandwillow.com CNAME .
 refer.batesfootwear.com CNAME .
@@ -113,6 +117,7 @@ refer.bose.co.uk CNAME .
 refer.bose.com CNAME .
 refer.bose.de CNAME .
 refer.bose.fr CNAME .
+refer.burtsbees.com CNAME .
 refer.caavo.com CNAME .
 refer.cacique.com CNAME .
 refer.calo.app CNAME .
@@ -149,6 +154,7 @@ refer.giantfoodstores.com CNAME .
 refer.glamglow.com CNAME .
 refer.globalknowledge.com CNAME .
 refer.gnc.com CNAME .
+refer.gopetplan.ca CNAME .
 refer.greatwesternbank.com CNAME .
 refer.gymboree.com CNAME .
 refer.hair.com CNAME .
@@ -157,6 +163,7 @@ refer.henribendel.com CNAME .
 refer.hillcity.gap.com CNAME .
 refer.hollandamerica.com CNAME .
 refer.homedepot.com CNAME .
+refer.horizonfitness.marketing CNAME .
 refer.hsn.com CNAME .
 refer.hushpuppies.com CNAME .
 refer.indeed.com CNAME .
@@ -199,6 +206,7 @@ refer.prokeds.com CNAME .
 refer.psecu.com CNAME .
 refer.pureology.com CNAME .
 refer.pvdparking.com CNAME .
+refer.quickbooks.ca CNAME .
 refer.quickbooks.co.uk CNAME .
 refer.reebok.com CNAME .
 refer.reliasacademy.com CNAME .
@@ -293,6 +301,7 @@ share.cityfurniture.com CNAME .
 share.conceiveabilities.com CNAME .
 share.cosbar.com CNAME .
 share.couponcabin.com CNAME .
+share.credible.com CNAME .
 share.creditninja.com CNAME .
 share.cwbank.com CNAME .
 share.dermablend.com CNAME .
@@ -301,6 +310,7 @@ share.docmorris.fr CNAME .
 share.dslaboratories.com CNAME .
 share.dunlopsports.com CNAME .
 share.dutch.com CNAME .
+share.enterprisenews.com CNAME .
 share.esteelauder.com.au CNAME .
 share.esteelauder.com.tw CNAME .
 share.evine.com CNAME .
@@ -360,6 +370,7 @@ share.rspure.com CNAME .
 share.rvshare.com CNAME .
 share.saintjanebeauty.com CNAME .
 share.securityplusfcu.org CNAME .
+share.shoptruespirit.com CNAME .
 share.shutterstock.com CNAME .
 share.simonandschuster.com CNAME .
 share.starbucks.com CNAME .

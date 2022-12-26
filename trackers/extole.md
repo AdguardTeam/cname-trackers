@@ -12,6 +12,7 @@
     * barenecessities.extole.com
     * basictalk-ssl.extole.com
     * beautisol.extole.com
+    * bookbyte.extole.com
     * catalogspree-ssl.extole.com
     * checkngo.extole.com
     * clearme-ssl.extole.com
@@ -42,6 +43,7 @@
     * myplant.extole.com
     * nflaudiopass2.extole.com
     * nvidia-ssl.extole.com
+    * opensky.extole.com
     * ozforex-au.extole.com
     * ozforex-us.extole.com
     * pageonce.extole.com
@@ -71,6 +73,7 @@
     * vonagefr-ssl.extole.com
     * wgu.extole.com
     * wimp.extole.com
+    * worldmarket.extole.com
 * extole.io
     * 100xequine.extole.io
     * 2-10.extole.io
@@ -98,6 +101,7 @@
     * aveda.extole.io
     * ballarddesigns.extole.io
     * bare-escentuals.extole.io
+    * bareminerals-france.extole.io
     * baremineralsuk.extole.io
     * barnandwillow.extole.io
     * barnes-and-noble-college.extole.io
@@ -116,6 +120,7 @@
     * brook-furniture-rental.extole.io
     * brunette-the-label.extole.io
     * bumble-and-bumble.extole.io
+    * burts-bees.extole.io
     * buttah-skin.extole.io
     * c-spire.extole.io
     * caavo.extole.io
@@ -145,6 +150,7 @@
     * cos-bar.extole.io
     * coupon-cabin.extole.io
     * creativelive.extole.io
+    * credible.extole.io
     * creditninja.extole.io
     * crocs.extole.io
     * cwbank.extole.io
@@ -200,6 +206,7 @@
     * hill-city.extole.io
     * hollandamerica.extole.io
     * homedepot.extole.io
+    * horizonfitness.extole.io
     * hotwire.extole.io
     * hsn.extole.io
     * hush.extole.io
@@ -261,6 +268,7 @@
     * perriconemd.extole.io
     * petco-grooming.extole.io
     * petpartners.extole.io
+    * petplan.extole.io
     * petsbest.extole.io
     * pimsleur.extole.io
     * policygenius.extole.io
@@ -270,6 +278,7 @@
     * propark.extole.io
     * psecu.extole.io
     * pureology.extole.io
+    * qboca.extole.io
     * qbouk.extole.io
     * qvc.extole.io
     * reebok-raf.extole.io
@@ -398,10 +407,12 @@
 | share.refer-aveda.com | aveda.extole.io |
 | refer.ballarddesigns.com | ballarddesigns.extole.io |
 | refer.bareminerals.com | bare-escentuals.extole.io |
+| refer.bareminerals.fr | bareminerals-france.extole.io |
 | refer.bareminerals.uk | baremineralsuk.extole.io |
 | refer.barenecessities.com | barenecessities.extole.com |
 | refer.barnandwillow.com | barnandwillow.extole.io |
 | share.bncollege.com | barnes-and-noble-college.extole.io |
+| share.shoptruespirit.com | barnes-and-noble-college.extole.io |
 | refer.basictalk.com | basictalk-ssl.extole.com |
 | refer.batesfootwear.com | bates.extole.io |
 | refer.baxterofcalifornia.com | baxterofcalifornia.extole.io |
@@ -413,6 +424,7 @@
 | share.bodendirect.de | boden-de.extole.io |
 | share.boden.fr | boden-fr.extole.io |
 | share.boden.co.uk | boden-uk.extole.io |
+| refer.bookbyte.com | bookbyte.extole.com |
 | refer.bose.co.uk | bose.extole.io |
 | refer.bose.com | bose.extole.io |
 | refer.bose.de | bose.extole.io |
@@ -425,6 +437,7 @@
 | refer.bfr.com | brook-furniture-rental.extole.io |
 | share.brunettethelabel.com | brunette-the-label.extole.io |
 | share.refer-bumbleandbumble.com | bumble-and-bumble.extole.io |
+| refer.burtsbees.com | burts-bees.extole.io |
 | share.buttahskin.com | buttah-skin.extole.io |
 | refer.cspire.com | c-spire.extole.io |
 | refer.caavo.com | caavo.extole.io |
@@ -458,6 +471,7 @@
 | share.cosbar.com | cos-bar.extole.io |
 | share.couponcabin.com | coupon-cabin.extole.io |
 | refer.creativelive.com | creativelive.extole.io |
+| share.credible.com | credible.extole.io |
 | share.creditninja.com | creditninja.extole.io |
 | refer.crocs.com | crocs.extole.io |
 | share.cwbank.com | cwbank.extole.io |
@@ -503,6 +517,7 @@
 | share.azcentral.com | gannett.extole.io |
 | share.caller.com | gannett.extole.io |
 | share.detroitnews.com | gannett.extole.io |
+| share.enterprisenews.com | gannett.extole.io |
 | share.tallahassee.com | gannett.extole.io |
 | share.usatoday.com | gannett.extole.io |
 | refer.gapcanada.ca | gap-canada.extole.io |
@@ -532,6 +547,7 @@
 | refer.hillcity.gap.com | hill-city.extole.io |
 | refer.hollandamerica.com | hollandamerica.extole.io |
 | refer.homedepot.com | homedepot.extole.io |
+| refer.horizonfitness.marketing | horizonfitness.extole.io |
 | referral.hostgator.com | hostgator.extole.com |
 | share.hotwire.com | hotwire.extole.io |
 | refer.hsn.com | hsn.extole.io |
@@ -602,6 +618,7 @@
 | refer.olehenriksen.com | olehenriksen.extole.io |
 | share.ollocard.com | ollocard.extole.io |
 | share.openenglish.com | openenglish.extole.io |
+| refer.opensky.com | opensky.extole.com |
 | share.opploans.com | opploans.extole.io |
 | refer.orbitz.com | orbitz.extole.io |
 | share.origins.com | origins.extole.io |
@@ -617,6 +634,7 @@
 | groomrefer.petco.com | petco-grooming.extole.io |
 | refer.petco.com | petco.extole.com |
 | refer.akcpetinsurance.com | petpartners.extole.io |
+| refer.gopetplan.ca | petplan.extole.io |
 | share.petsbest.com | petsbest.extole.io |
 | refer.pimsleur.com | pimsleur.extole.io |
 | share.policygenius.com | policygenius.extole.io |
@@ -630,6 +648,7 @@
 | refer.purchasingpower.com | purchasingpower.extole.com |
 | refer.pureology.com | pureology.extole.io |
 | share.qalo.com | qalo.extole.com |
+| refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
 | q.share.qvcemail.com | qvc.extole.io |
 | refer.reebok.com | reebok-raf.extole.io |
@@ -740,6 +759,7 @@
 | share.wisdompanel.com | wisdompanel.extole.io |
 | refer.wolverine.com | wolverine.extole.io |
 | share.wombatinvest.com | wombat.extole.io |
+| share.worldmarket.com | worldmarket.extole.com |
 | refer.zazzlereferral.com | zazzle.extole.io |
 | share.zebit.com | zebit.extole.io |
 | share.zenbusiness.com | zenbusiness.extole.io |

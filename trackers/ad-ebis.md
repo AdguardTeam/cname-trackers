@@ -25,6 +25,7 @@
     * 1241cdd8-znrwzwlu.cname.ebis.ne.jp
     * 12e8d4f5-xjhet6w1.cname.ebis.ne.jp
     * 1590f1a6-xjhet6w1.cname.ebis.ne.jp
+    * 16df7011-m9x5lvqe.cname.ebis.ne.jp
     * 174d53fc-qrjtuhuw.cname.ebis.ne.jp
     * 17a0a051-yhrqdvjf.cname.ebis.ne.jp
     * 17db93a8-scxitlgt.cname.ebis.ne.jp
@@ -270,6 +271,7 @@
 | seo.tkc110.jp | 1241cdd8-znrwzwlu.cname.ebis.ne.jp |
 | adebis.toushi-up.com | 12e8d4f5-xjhet6w1.cname.ebis.ne.jp |
 | adebis.gfs-official.com | 1590f1a6-xjhet6w1.cname.ebis.ne.jp |
+| adebis.kodomohamigaki.com | 16df7011-m9x5lvqe.cname.ebis.ne.jp |
 | adebis.furisode-ichikura.jp | 174d53fc-qrjtuhuw.cname.ebis.ne.jp |
 | ebis.nomu-silica.jp | 17a0a051-yhrqdvjf.cname.ebis.ne.jp |
 | cs0010sbeda.theory-diet.com | 17db93a8-scxitlgt.cname.ebis.ne.jp |

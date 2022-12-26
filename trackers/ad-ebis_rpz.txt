@@ -52,6 +52,7 @@ adebis.kamada.co.jp CNAME .
 adebis.kaonavi.jp CNAME .
 adebis.kirei-journal.jp CNAME .
 adebis.kirin.co.jp CNAME .
+adebis.kodomohamigaki.com CNAME .
 adebis.kose.co.jp CNAME .
 adebis.koutsujiko.jp CNAME .
 adebis.leben-establish.jp CNAME .

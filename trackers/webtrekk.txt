@@ -288,6 +288,7 @@
 ||web.slimjoy.se^
 ||web.slimjoy.sk^
 ||web.solesource.com^
+||web.tamaris.com^
 ||web.tummy-tox.com^
 ||web.tummytox.de^
 ||web.tummytox.it^

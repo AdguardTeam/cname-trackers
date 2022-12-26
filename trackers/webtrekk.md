@@ -63,6 +63,7 @@
     * 292595354576025.wt-eu02.net
     * 302571338326011.wt-eu02.net
     * 302631813489498.wt-eu02.net
+    * 306539831205028.wt-eu02.net
     * 307902509027183.wt-eu02.net
     * 310695274957699.wt-eu02.net
     * 318590743478915.wt-eu02.net
@@ -248,6 +249,7 @@
 | web.campaign.v73.it | 302571338326011.wt-eu02.net |
 | data.engelhorn.com | 302631813489498.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
+| web.tamaris.com | 306539831205028.wt-eu02.net |
 | a.hrewards.com | 307902509027183.wt-eu02.net |
 | a.intercityhotel.com | 307902509027183.wt-eu02.net |
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |

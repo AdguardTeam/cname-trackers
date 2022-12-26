@@ -126,6 +126,7 @@ claimant.vec.virginia.gov
 clear.wallapop.com
 clovergo.june-testing.firstdata.com
 cmprofile.cards.citidirect.com
+cnt.didiglobal.com
 cnt.goboo.com
 cnt.patpat.com
 cnt2.bank.za.group
@@ -140,6 +141,7 @@ content.asurion53.com
 content.atmosphere.ca
 content.bankerslife.com
 content.benefitsaccess.org
+content.biggerbooks.com
 content.billdomain.com
 content.billscenter.paytrust.com
 content.billsupport.com
@@ -162,6 +164,7 @@ content.discover.com
 content.discovercard.com
 content.dstv.com
 content.dwd.wisconsin.gov
+content.ea.com
 content.ebanking-services.com
 content.ecampus.com
 content.egyptair.com
@@ -169,6 +172,7 @@ content.espace-client.hellobank.fr
 content.etransfer.interac.ca
 content.ezaem.ru
 content.familyprepaiddebit.com
+content.firstinterstatebank.com
 content.fisglobal.com
 content.frs.fl.gov
 content.gap.com
@@ -218,6 +222,7 @@ content.realquest.com
 content.royalairmaroc.com
 content.royalvegascasino.ca
 content.rubyfortune.ca
+content.sfbli.com
 content.sheerid.com
 content.spincasino.ca
 content.sportchek.ca
@@ -295,6 +300,7 @@ device.invoice2go.com
 device.messa.org
 deviceauth.dmv.ca.gov
 devicecontent.icuracao.com
+df.fragrancex.com
 df.greenmangaming.com
 df.thumbtack.com
 dfp.garmin.com
@@ -339,12 +345,12 @@ gfp.intuit.com
 ghisa.subito.it
 go.citizensaccess.com
 h.chase.co.uk
+h.greenmangaming.com
 h.threatmetrix.com
 h.truist.com
 hfp.intuit.com
 hint-tmdp.opendoor.com
 hooru.regence.com
-i6h.iryo.eu
 id.latitudefinancial.com
 idhtm.bb.com.br
 idstatus.sky.com
@@ -442,6 +448,8 @@ phyon.visit-x.net
 piafapp.poste.it
 plr.scb-payments.net
 pn1927.coutts.com
+portal-fp-qa1.qa.threatmetrix.com
+portal-fp-qa2.qa.threatmetrix.com
 portal-fp-qaperf2.qa.threatmetrix.com
 portal-fp.threatmetrix.com
 pov.spectrum.net
@@ -514,6 +522,7 @@ securecheckout.halloweencostumes.com
 secured.netflix.com
 servicesdp.luckydays.ca
 servicesdp.spinaway.ca
+shield.boostbusiness.my
 sitehelper.myengageft.com
 sitehelper.optimizemoney.com
 solstice.ibotta.com

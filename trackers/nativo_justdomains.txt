@@ -41,19 +41,23 @@ partners.time.com
 3d82e5c981.9633d48767.com
 3eaaac4c0d.090a7ee361.com
 3fb830355c.9be814e81e.com
+41e02b972b.9f101f07c7.com
 41f8a60477.cd4fb281e1.com
 434d80d136.a07d30aaf0.com
 46fe7fa264.4d2a483049.com
+48260aa935.f3a173b897.com
 48c1f78392.31f4ea3b17.com
 4909cc6acc.0fc32b5283.com
 497a1141f1.23d097de11.com
 4e6b62c568.4b31707500.com
+4e838acbab.d3f3abd25c.com
 4fc89cba3d.e67df3f29d.com
 53f90ea18c.ad64463ef9.com
 55bff2103f.f451b7f622.com
 5691f27b38.77176d9509.com
 57a8023ce9.1aa3097b7b.com
 597eb96e9c.299f70c6b2.com
+5a841fa92e.5ee782a4d9.com
 5ab3edc5c1.342c15527e.com
 5ab760da26.bf34686748.com
 6047f3c601.7ae9fc0b53.com
@@ -68,6 +72,7 @@ partners.time.com
 68787fa2a4.0439c255ac.com
 699e46a3ca.e11c0ad270.com
 6ab791d164.d409401d80.com
+6d39ef5c0b.7002fca3a7.com
 6e9ba1e2dd.14a5dfca9f.com
 6ef94a502b.64134c91b6.com
 72ffc1edfd.f6d56854f2.com
@@ -80,6 +85,7 @@ partners.time.com
 865a159ba5.d7739252ca.com
 8a86cfec6c.db4a1656b5.com
 8bf1e6c762.bcd7ad4271.com
+8dba8f6d76.3ce27e9b41.com
 8dbd9f1b8c.b0b96fffc2.com
 90f6d578cc.2725849b34.com
 92756fbe9c.3a57c13de7.com
@@ -143,11 +149,13 @@ e341c11575.f63f3176ad.com
 e8609911b3.c785e43db1.com
 eb37b1d1a5.98a54df250.com
 eb3d849a7c.e4dbf49f32.com
+f1763f2f87.f4f8fb91df.com
 f1c61224ea.edbc0469bd.com
 f24d473f74.60d4631eb3.com
 f33772ce13.749cad1027.com
 f43bb3465e.10eafd09d6.com
 f4c85c5128.111d140e96.com
+f9aa8dba65.2e14072eac.com
 fa5248bea9.d7d38597d6.com
 fb02e621c6.1c09d36b99.com
 fb43b02984.af5cdb3fe3.com
@@ -157,7 +165,6 @@ fe8d4b33c2.8abf43d6ad.com
 # postrelease.com disguised trackers
 #
 a235.newstimes.com
-a235.thehour.com
 nj.finegardening.com
 share.ntv.io
 shared.sponsoredcontent.com
@@ -174,7 +181,9 @@ shared.sponsoredcontent.com
 # unavailable.hearstnp.com disguised trackers
 #
 a235.mrt.com
+a235.newstimes.com
 a235.stamfordadvocate.com
+a235.thehour.com
 #
 # partners-time-com-prod.edgeserving.com disguised trackers
 #

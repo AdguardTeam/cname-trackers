@@ -24,6 +24,7 @@ buf.lemonde.fr CNAME .
 c0012.brsimg.com CNAME .
 checkpointcharlie.heizung.de CNAME .
 chihiro.nostalgie.fr CNAME .
+col.casa.it CNAME .
 col.idealista.com CNAME .
 col.idealista.it CNAME .
 col.idealista.pt CNAME .
