@@ -164,6 +164,7 @@
 ||data-1b8b21e54b.speedweek.com^
 ||data-1bc9d87af9.ahgz.de^
 ||data-1be5adcd69.apps.iocnt.de^
+||data-1c0a3d83e3.transfermarkt.ae^
 ||data-1c0a3d83e3.transfermarkt.at^
 ||data-1c0a3d83e3.transfermarkt.be^
 ||data-1c0a3d83e3.transfermarkt.ch^
@@ -175,6 +176,7 @@
 ||data-1c0a3d83e3.transfermarkt.com^
 ||data-1c0a3d83e3.transfermarkt.com.ar^
 ||data-1c0a3d83e3.transfermarkt.com.br^
+||data-1c0a3d83e3.transfermarkt.com.ng^
 ||data-1c0a3d83e3.transfermarkt.com.tr^
 ||data-1c0a3d83e3.transfermarkt.de^
 ||data-1c0a3d83e3.transfermarkt.es^
@@ -250,6 +252,7 @@
 ||data-2732fcab6f.aerokurier.de^
 ||data-2732fcab6f.flugrevue.de^
 ||data-2749d16d51.salue.de^
+||data-2749d16d51.spin.de^
 ||data-27819cfe72.bigdata-insider.de^
 ||data-27d15a0c8b.apps.iocnt.de^
 ||data-27f08504c8.capital.de^
@@ -415,11 +418,13 @@
 ||data-45d218b384.wochenblatt.de^
 ||data-460b866870.couchstyle.de^
 ||data-462f6badb7.lesering.de^
+||data-463860f007.addradio.de^
 ||data-463860f007.radiowestfalica.de^
 ||data-46b11f8fc4.apps.iocnt.de^
 ||data-4713ae37a2.apps.iocnt.de^
 ||data-4754325bf6.scinexx.de^
 ||data-47bb0d34fe.pharmazeutische-zeitung.de^
+||data-47e5acc9b9.tophotel.de^
 ||data-4892815f14.fitbook.de^
 ||data-48d3085f82.hildesheimer-allgemeine.de^
 ||data-48fd46a412.digitalphoto.de^
@@ -452,6 +457,7 @@
 ||data-4ca65a8bdb.gladbachlive.de^
 ||data-4ccf76e1ad.tagesspiegel.de^
 ||data-4cd3a663da.all-in.de^
+||data-4ce33a993b.addradio.de^
 ||data-4ce33a993b.radiohochstift.de^
 ||data-4cf02e3b23.schlager.de^
 ||data-4cf73e282f.fleischwirtschaft.de^
@@ -678,6 +684,7 @@
 ||data-70f37c510a.skol.de^
 ||data-70f37c510a.stellenanzeigen.de^
 ||data-70f37c510a.suedkurier.de^
+||data-70f3958feb.bauwelt.de^
 ||data-710a86ea68.apps.iocnt.de^
 ||data-71286c9319.nnn.de^
 ||data-71286c9319.svz.de^
@@ -723,6 +730,7 @@
 ||data-7e634b10b2.prosiebenmaxx.de^
 ||data-7e634b10b2.the-voice-of-germany.de^
 ||data-7e70b89caf.geb-info.de^
+||data-7f1c7ce24c.plastverarbeiter.de^
 ||data-7f59e1721b.planetoutdoor.de^
 ||data-7f6dde6aeb.spieletipps.de^
 ||data-7f9c14ceb6.telecom-handel.de^
@@ -796,6 +804,8 @@
 ||data-8abe5cc617.badische-zeitung.de^
 ||data-8abe5cc617.bz-ticket.de^
 ||data-8abe5cc617.bzflirt.de^
+||data-8abe5cc617.bztrauer.de^
+||data-8abe5cc617.wohnverdient.de^
 ||data-8b242b85ce.textilwirtschaft.de^
 ||data-8b242b85ce.twjobs.de^
 ||data-8b77a703e0.dasoertliche.de^
@@ -823,6 +833,8 @@
 ||data-908fd409d9.lifeline.de^
 ||data-908fd409d9.myself.de^
 ||data-908fd409d9.onmeda.de^
+||data-908fd409d9.scheidenpilz.com^
+||data-908fd409d9.special-harninkontinenz.de^
 ||data-908fd409d9.special-rueckenschmerz.de^
 ||data-9090cf2efa.impulse.de^
 ||data-90cb6242e4.fuersie.de^
@@ -843,6 +855,7 @@
 ||data-9336f0fb1d.news.de^
 ||data-938b06e91c.dev-insider.de^
 ||data-93d70fad98.apps.iocnt.de^
+||data-946ccd9713.apps.iocnt.de^
 ||data-948e8266cd.zuhausewohnen.de^
 ||data-94d154970c.boersenblatt.net^
 ||data-951da6b717.detail.de^
@@ -854,9 +867,11 @@
 ||data-96d64cb150.bztrauer.de^
 ||data-96d64cb150.fupa.net^
 ||data-96d64cb150.schnapp.de^
+||data-96d64cb150.wohnverdient.de^
 ||data-975521d9ad.horizont.net^
 ||data-97d159685e.szbz.de^
 ||data-98b5a11c9b.radiolippe.de^
+||data-992b9a20ea.competitionline.com^
 ||data-992bb00b0c.messen.de^
 ||data-99329e3cb2.musikexpress.de^
 ||data-99329e3cb2.rollingstone.de^
@@ -903,6 +918,7 @@
 ||data-a01a8a1ba4.allgemeine-zeitung.de^
 ||data-a01a8a1ba4.buerstaedter-zeitung.de^
 ||data-a01a8a1ba4.echo-online.de^
+||data-a01a8a1ba4.lauterbacher-anzeiger.de^
 ||data-a01a8a1ba4.main-spitze.de^
 ||data-a01a8a1ba4.mittelhessen.de^
 ||data-a01a8a1ba4.oberhessische-zeitung.de^
@@ -941,6 +957,7 @@
 ||data-a38e203a07.wolfenbuetteler-zeitung.de^
 ||data-a38e203a07.wolfsburger-nachrichten.de^
 ||data-a3a5ca8056.apps.iocnt.de^
+||data-a47d9423c7.esslingen.de^
 ||data-a486ca6d85.hamburg-magazin.de^
 ||data-a495acff56.airliners.de^
 ||data-a4e945dbeb.augusto-sachsen.de^
@@ -961,6 +978,7 @@
 ||data-a7a8261f38.apps.iocnt.de^
 ||data-a7c3ea71dc.ptaheute.de^
 ||data-a7deba18e8.evangelisch.de^
+||data-a7deba18e8.konfispruch.de^
 ||data-a7deba18e8.taufspruch.de^
 ||data-a8074561d8.apps.iocnt.de^
 ||data-a85b10211f.rnz.de^
@@ -971,9 +989,11 @@
 ||data-a9dcbfdd12.noz.de^
 ||data-aac883f83b.offiziellecharts.de^
 ||data-aae7bdcec6.autoscout24.bg^
+||data-aae7bdcec6.autoscout24.de^
 ||data-aae7bdcec6.autoscout24.ro^
 ||data-ab8e72b54c.einstieg.com^
 ||data-ab96b76d6a.wochenblatt.net^
+||data-ac3d45df06.jetzt.de^
 ||data-ac3d45df06.sueddeutsche.de^
 ||data-ace3993871.winario.de^
 ||data-ace571875f.petra.de^
@@ -1022,6 +1042,7 @@
 ||data-b7d0b4217b.autoscout24.com^
 ||data-b7d0b4217b.autoscout24.com.tr^
 ||data-b7d0b4217b.autoscout24.cz^
+||data-b7d0b4217b.autoscout24.de^
 ||data-b7d0b4217b.autoscout24.hr^
 ||data-b7d0b4217b.autoscout24.pl^
 ||data-b7d0b4217b.autoscout24.ro^
@@ -1032,9 +1053,11 @@
 ||data-b8520d61eb.apps.iocnt.de^
 ||data-b8587f1b76.stimme.de^
 ||data-b85ecb4160.faszination-fankurve.de^
+||data-b85ecb4160.sportplatzwelt.de^
 ||data-b85ecb4160.stadionwelt.de^
 ||data-b8625c5378.lz-trauer.de^
 ||data-b8625c5378.lz.de^
+||data-b8f9ef66dc.hogapage.at^
 ||data-b8f9ef66dc.hogapage.ch^
 ||data-b8f9ef66dc.hogapage.de^
 ||data-b944c1dba9.horizont.net^
@@ -1048,8 +1071,11 @@
 ||data-bae5a0a55a.apps.iocnt.de^
 ||data-bb21a2f11b.bild.de^
 ||data-bb4ada6163.travelbook.de^
+||data-bc153aec3e.radioguetersloh.de^
+||data-bc16fafbba.stadtbibliothek-reutlingen.de^
 ||data-bc58d40c93.nwzonline.de^
 ||data-bc9dbdd971.handwerk-magazin.de^
+||data-bd417eda50.bibliothek-gruenwald.de^
 ||data-be032ee936.christkindlesmarkt.de^
 ||data-be032ee936.nn.de^
 ||data-be032ee936.nordbayern.de^
@@ -1078,9 +1104,11 @@
 ||data-c32add6b67.vital.de^
 ||data-c3391a3eb3.braunschweiger-zeitung.de^
 ||data-c3391a3eb3.harzkurier.de^
+||data-c3391a3eb3.helmstedter-nachrichten.de^
 ||data-c3391a3eb3.konzertkasse.de^
 ||data-c3391a3eb3.news38.de^
 ||data-c3391a3eb3.peiner-nachrichten.de^
+||data-c3391a3eb3.salzgitter-zeitung.de^
 ||data-c3391a3eb3.wolfenbuetteler-zeitung.de^
 ||data-c3391a3eb3.wolfsburger-nachrichten.de^
 ||data-c33ac4a00e.tvnow.de^
@@ -1128,9 +1156,12 @@
 ||data-c7a4161550.apps.iocnt.de^
 ||data-c7fa2f50f1.photovoltaik.eu^
 ||data-c835a62a97.runnersworld.de^
+||data-c849cc593c.iz.de^
+||data-c854f15f64.eltern.de^
 ||data-c854f15f64.schwangerschaft.de^
 ||data-c854f15f64.urbia.de^
 ||data-c854f15f64.vorname.com^
+||data-c94cf2beab.physiotherapeuten.de^
 ||data-c958fdb0ad.sk-one.de^
 ||data-c9739b4017.lecker.de^
 ||data-c9f0280444.apps.iocnt.de^
@@ -1147,12 +1178,14 @@
 ||data-ce0e6fdeb3.apps.iocnt.de^
 ||data-ce326d00f8.aero.de^
 ||data-ce54b2d2bd.apps.iocnt.de^
+||data-ce904c6d42.metallbau-magazin.de^
 ||data-ce964ae059.guter-rat.de^
 ||data-cedbf1e823.apps.iocnt.de^
 ||data-cf56e4da9b.motorradonline.de^
 ||data-cfe819bed5.playboy.de^
 ||data-d03ddf25a3.wissenschaft.de^
 ||data-d0a45359d6.apps.iocnt.de^
+||data-d0d624845f.hcm-magazin.de^
 ||data-d14378f111.apps.iocnt.de^
 ||data-d167bd4c4e.regenbogen.de^
 ||data-d1cd281a03.myhomebook.de^
@@ -1181,11 +1214,14 @@
 ||data-d815104c6c.dastelefonbuch.de^
 ||data-d858e7585b.lokal26.de^
 ||data-d88bd5abf8.die-glocke.de^
+||data-d88ef4a44c.haller-kreisblatt.de^
 ||data-d8a16b307b.idowa.de^
 ||data-d9000a5626.apps.iocnt.de^
+||data-d946a9c4a1.meinanzeiger.de^
 ||data-d946a9c4a1.otz.de^
 ||data-d946a9c4a1.thueringen24.de^
 ||data-d946a9c4a1.thueringer-allgemeine.de^
+||data-d946a9c4a1.tlz.de^
 ||data-da1d9cc48a.osthessen-news.de^
 ||data-dae559c4b7.ejz.de^
 ||data-db3e9abc5d.muensterschezeitung.de^
@@ -1212,6 +1248,7 @@
 ||data-e095ec3c5c.apps.iocnt.de^
 ||data-e0c8f57796.selbst.de^
 ||data-e138bc4173.apps.iocnt.de^
+||data-e16817998e.apps.iocnt.de^
 ||data-e25e89b95d.it-daily.net^
 ||data-e34440d805.jolie.de^
 ||data-e363eeae09.apps.iocnt.de^
@@ -1267,6 +1304,7 @@
 ||data-ed1ee98a6c.portal-der-kinder.de^
 ||data-ed1ee98a6c.portal-der-maenner.de^
 ||data-ed1ee98a6c.portal-der-orthopaedie.de^
+||data-ed1ee98a6c.portal-der-psyche.de^
 ||data-ed1ee98a6c.portal-der-schoenheit.de^
 ||data-ed1ee98a6c.portal-der-zahnmedizin.de^
 ||data-ed1ee98a6c.schoenheit-und-medizin.de^
@@ -1321,6 +1359,7 @@
 ||data-f1e447fbcf.chiemgau24.de^
 ||data-f1e447fbcf.come-on.de^
 ||data-f1e447fbcf.costanachrichten.com^
+||data-f1e447fbcf.dasgelbeblatt.de^
 ||data-f1e447fbcf.deichstube.de^
 ||data-f1e447fbcf.einfach-tasty.de^
 ||data-f1e447fbcf.extratipp.com^
@@ -1332,6 +1371,7 @@
 ||data-f1e447fbcf.giessener-allgemeine.de^
 ||data-f1e447fbcf.giessener-anzeiger.de^
 ||data-f1e447fbcf.hallo-muenchen.de^
+||data-f1e447fbcf.hanauer.de^
 ||data-f1e447fbcf.heidelberg24.de^
 ||data-f1e447fbcf.hersfelder-zeitung.de^
 ||data-f1e447fbcf.hna.de^
@@ -1339,6 +1379,8 @@
 ||data-f1e447fbcf.ingame.de^
 ||data-f1e447fbcf.innsalzach24.de^
 ||data-f1e447fbcf.ippen.media^
+||data-f1e447fbcf.kreis-anzeiger.de^
+||data-f1e447fbcf.kreisbote.de^
 ||data-f1e447fbcf.kreiszeitung.de^
 ||data-f1e447fbcf.kurierverlag.de^
 ||data-f1e447fbcf.landtiere.de^
@@ -1414,9 +1456,11 @@
 ||data-f59db3288b.leinetal24.de^
 ||data-f59db3288b.lokalo24.de^
 ||data-f59db3288b.ludwigshafen24.de^
+||data-f59db3288b.mangfall24.de^
 ||data-f59db3288b.mannheim24.de^
 ||data-f59db3288b.meine-anzeigenzeitung.de^
 ||data-f59db3288b.merkur.de^
+||data-f59db3288b.oktoberfest.bayern^
 ||data-f59db3288b.op-online.de^
 ||data-f59db3288b.ovb-online.de^
 ||data-f59db3288b.rosenheim24.de^
@@ -1435,6 +1479,7 @@
 ||data-f5d00c1ea1.tageskarte.io^
 ||data-f5fd977e9d.getraenke-news.de^
 ||data-f62d7c5cdb.bergstraesser-anzeiger.de^
+||data-f62d7c5cdb.jobmorgen.de^
 ||data-f62d7c5cdb.mannheimer-morgen.de^
 ||data-f62d7c5cdb.schwetzinger-zeitung.de^
 ||data-f6d2ad6f1b.t3n.de^
@@ -1469,6 +1514,7 @@
 ||data-fcb7dbed1e.apps.iocnt.de^
 ||data-fd399543fe.elektroniknet.de^
 ||data-fd399543fe.medical-design.news^
+||data-fd399543fe.mut-job.de^
 ||data-fd53e9bda6.urlaubsguru.de^
 ||data-fd60c1cff9.ke-next.de^
 ||data-fd9ab41e47.bravo.de^
@@ -1480,6 +1526,7 @@
 ||data-fdf4690b14.derwesten.de^
 ||data-fdf4690b14.funkemediennrw.de^
 ||data-fdf4690b14.ikz-online.de^
+||data-fdf4690b14.jobmarkt-nrw.de^
 ||data-fdf4690b14.lokalkompass.de^
 ||data-fdf4690b14.nrz.de^
 ||data-fdf4690b14.radiobochum.de^
@@ -1487,6 +1534,7 @@
 ||data-fdf4690b14.radioemscherlippe.de^
 ||data-fdf4690b14.radioessen.de^
 ||data-fdf4690b14.radiohagen.de^
+||data-fdf4690b14.radioherne.de^
 ||data-fdf4690b14.radiokw.de^
 ||data-fdf4690b14.radiomuelheim.de^
 ||data-fdf4690b14.radiooberhausen.de^

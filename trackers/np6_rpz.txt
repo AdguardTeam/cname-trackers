@@ -219,6 +219,7 @@ tr.engie-globalenergy.info CNAME .
 tr.enquete-cpf.ifop.com CNAME .
 tr.enquetes.actionlogement.fr CNAME .
 tr.entreprise-pro.info CNAME .
+tr.entreprise.axa.fr CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net CNAME .
 tr.estatesandwines.moethennessy.com CNAME .
 tr.europa-organisation.com CNAME .
@@ -234,7 +235,6 @@ tr.gap-fr.fr CNAME .
 tr.gdfsuez-globalenergy.info CNAME .
 tr.gen.espmp-agfr.net CNAME .
 tr.gestion.banque-casino.fr CNAME .
-tr.gestion.banque-revillon.fr CNAME .
 tr.gestion.cafineo.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
 tr.gestion.coficabail.fr CNAME .
@@ -251,6 +251,7 @@ tr.group-hr.lvmh.fr CNAME .
 tr.groupama-gne.fr CNAME .
 tr.gtr.moethennessy.com CNAME .
 tr.haute-maurienne-vanoise.net CNAME .
+tr.hcahealthcare.co.uk CNAME .
 tr.hello.maisonfoody.com CNAME .
 tr.helloartisan.info CNAME .
 tr.info-btob-leaders.com CNAME .
@@ -469,6 +470,7 @@ tr.news.lisez.com CNAME .
 tr.news.maisonfoody.com CNAME .
 tr.news.manufacturing.fr CNAME .
 tr.news.mdbp.fr CNAME .
+tr.news.mediametrie.fr CNAME .
 tr.news.meillandrichardier.com CNAME .
 tr.news.mi-oferta.es CNAME .
 tr.news.mon-horoscope.info CNAME .
@@ -557,7 +559,6 @@ tr.notification-gdpr.loisirs-finance.fr CNAME .
 tr.notification-gdpr.norrsken.fr CNAME .
 tr.notification-gdpr.personal-finance-location.bnpparibas CNAME .
 tr.notification-gdpr.sygmabybnpparibas-pf.com CNAME .
-tr.notification.banque-revillon.fr CNAME .
 tr.notification.cafineo.fr CNAME .
 tr.notification.cdiscount.com CNAME .
 tr.notification.cetelem.fr CNAME .
@@ -604,6 +605,7 @@ tr.qualitaetsumfrage.com CNAME .
 tr.qualitaveicolo.com CNAME .
 tr.qualite.groupama.com CNAME .
 tr.qualite.groupebarriere.com CNAME .
+tr.qualite.viparis.com CNAME .
 tr.qualitevehicule.fr CNAME .
 tr.qualityvehiclesurvey.com CNAME .
 tr.quotes.digital CNAME .
@@ -666,6 +668,7 @@ tr.tonerservices.fr CNAME .
 tr.trafficnews.lyria.com CNAME .
 tr.ujsv.espmp-agfr.net CNAME .
 tr.uk.icicibank.com CNAME .
+tr.uk.katun.com CNAME .
 tr.unaoffertaalgiorno.com CNAME .
 tr.update.groupon.be CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .

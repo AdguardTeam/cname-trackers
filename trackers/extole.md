@@ -8,7 +8,6 @@
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
-    * aol.extole.com
     * barenecessities.extole.com
     * basictalk-ssl.extole.com
     * beautisol.extole.com
@@ -24,11 +23,13 @@
     * ebags.extole.com
     * framesdirect.extole.com
     * freshly.extole.com
+    * greenvilleonline.extole.com
     * hannaandersson.extole.com
     * harimari.extole.com
     * healthypaws.extole.com
     * hostgator.extole.com
     * indochino.extole.com
+    * integrativenutrition-ssl.extole.com
     * intuit-accountants.extole.com
     * iop.extole.com
     * johnson.extole.com
@@ -42,8 +43,11 @@
     * moo.extole.com
     * myplant.extole.com
     * nflaudiopass2.extole.com
+    * nflgamerewind.extole.com
     * nvidia-ssl.extole.com
+    * ooma-ssl.extole.com
     * opensky.extole.com
+    * oriental-trading.extole.com
     * ozforex-au.extole.com
     * ozforex-us.extole.com
     * pageonce.extole.com
@@ -63,7 +67,9 @@
     * tenmarks.extole.com
     * theleafchronicle.extole.com
     * timberland.extole.com
+    * transfast.extole.com
     * turbotax-ssl.extole.com
+    * ulta.extole.com
     * unionprivilege-ssl.extole.com
     * verabradley.extole.com
     * vimeo.extole.com
@@ -119,6 +125,7 @@
     * brava.extole.io
     * brook-furniture-rental.extole.io
     * brunette-the-label.extole.io
+    * bulova.extole.io
     * bumble-and-bumble.extole.io
     * burts-bees.extole.io
     * buttah-skin.extole.io
@@ -158,6 +165,8 @@
     * darphin.extole.io
     * davines.extole.io
     * dermablend.extole.io
+    * desert-financial.extole.io
+    * discountschoolsupply.extole.io
     * discover-bank.extole.io
     * discover-student-loan.extole.io
     * ds-laboratories.extole.io
@@ -186,6 +195,7 @@
     * gap-canada.extole.io
     * garnethill.extole.io
     * gcefcu.extole.io
+    * getsetup.extole.io
     * giant-martins.extole.io
     * giantfood.extole.io
     * giantfoodstores.extole.io
@@ -194,7 +204,6 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -271,8 +280,10 @@
     * petplan.extole.io
     * petsbest.extole.io
     * pimsleur.extole.io
+    * plush-beds.extole.io
     * policygenius.extole.io
     * popcorn-factory.extole.io
+    * princess.extole.io
     * prokeds.extole.io
     * promofarma.extole.io
     * propark.extole.io
@@ -289,6 +300,7 @@
     * reliasacademy.extole.io
     * remit2india.extole.io
     * riley-rose.extole.io
+    * rio-grande-credit-union.extole.io
     * rockport.extole.io
     * rodo.extole.io
     * ross-simons.extole.io
@@ -323,6 +335,7 @@
     * tatcha.extole.io
     * taxact.extole.io
     * teachersfcu.extole.io
+    * teladoc.extole.io
     * terijon.extole.io
     * the-childrens-place.extole.io
     * the-company-store.extole.io
@@ -394,7 +407,6 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
-| refer.aol.com | aol.extole.com |
 | share.aplaceformom.com | aplaceformom.extole.io |
 | refer.art.com | artcom.extole.io |
 | refer.ashleyfurniture.com | ashleyfurniturehomestore.extole.io |
@@ -436,6 +448,7 @@
 | share.brava.com | brava.extole.io |
 | refer.bfr.com | brook-furniture-rental.extole.io |
 | share.brunettethelabel.com | brunette-the-label.extole.io |
+| refer.bulova.com | bulova.extole.io |
 | share.refer-bumbleandbumble.com | bumble-and-bumble.extole.io |
 | refer.burtsbees.com | burts-bees.extole.io |
 | share.buttahskin.com | buttah-skin.extole.io |
@@ -483,6 +496,8 @@
 | share.refer-darphin.com | darphin.extole.io |
 | refer.us.davines.com | davines.extole.io |
 | share.dermablend.com | dermablend.extole.io |
+| share.desertfinancial.com | desert-financial.extole.io |
+| share.discountschoolsupply.com | discountschoolsupply.extole.io |
 | referafriend.discover.com | discover-bank.extole.io |
 | friend.discover.com | discover-student-loan.extole.io |
 | friend.discoverstudentloans.com | discover-student-loan.extole.io |
@@ -516,13 +531,16 @@
 | refer.g2.com | g2.extole.io |
 | share.azcentral.com | gannett.extole.io |
 | share.caller.com | gannett.extole.io |
+| share.delawareonline.com | gannett.extole.io |
 | share.detroitnews.com | gannett.extole.io |
 | share.enterprisenews.com | gannett.extole.io |
 | share.tallahassee.com | gannett.extole.io |
+| share.tcpalm.com | gannett.extole.io |
 | share.usatoday.com | gannett.extole.io |
 | refer.gapcanada.ca | gap-canada.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
 | refer.gcefcu.org | gcefcu.extole.io |
+| share.getsetup.io | getsetup.extole.io |
 | refer.martinsfoods.com | giant-martins.extole.io |
 | refer.giantfood.com | giantfood.extole.io |
 | refer.giantfoodstores.com | giantfoodstores.extole.io |
@@ -531,11 +549,11 @@
 | refer.glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.greatwesternbank.com | greatwesternbank.extole.io |
 | share.greenlight.com | greenlightcard.extole.io |
 | share.greenlightcard.com | greenlightcard.extole.io |
+| refer.greenvilleonline.com | greenvilleonline.extole.com |
 | refer.hair.com | hair.extole.io |
 | share.hanacure.com | hanacure.extole.io |
 | refer.hannaandersson.com | hannaandersson.extole.com |
@@ -556,6 +574,7 @@
 | refer.indeed.com | indeed.extole.io |
 | share.indochino.com | indochino.extole.com |
 | share.installamerica.com | installamerica.extole.io |
+| refer.integrativenutrition.com | integrativenutrition-ssl.extole.com |
 | refer.accountants.intuit.com | intuit-accountants.extole.com |
 | refer.payroll.intuit.com | iop.extole.com |
 | share.ipage.com | ipage.extole.io |
@@ -612,15 +631,18 @@
 | share.newtonbaby.com | newtonbaby.extole.io |
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | s.audiopass.nfl.com | nflaudiopass2.extole.com |
+| r.gamerewind.nfl.com | nflgamerewind.extole.com |
 | refer.ninjakitchen.com | ninja-kitchen.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
 | share.obagi.com | obagi.extole.io |
 | refer.olehenriksen.com | olehenriksen.extole.io |
 | share.ollocard.com | ollocard.extole.io |
+| refer.ooma.com | ooma-ssl.extole.com |
 | share.openenglish.com | openenglish.extole.io |
 | refer.opensky.com | opensky.extole.com |
 | share.opploans.com | opploans.extole.io |
 | refer.orbitz.com | orbitz.extole.io |
+| refer.orientaltrading.com | oriental-trading.extole.com |
 | share.origins.com | origins.extole.io |
 | refer.ouidad.com | ouidad.extole.io |
 | refer.ofx.com | ozforex-au.extole.com |
@@ -637,8 +659,10 @@
 | refer.gopetplan.ca | petplan.extole.io |
 | share.petsbest.com | petsbest.extole.io |
 | refer.pimsleur.com | pimsleur.extole.io |
+| refer.ecoterrabeds.com | plush-beds.extole.io |
 | share.policygenius.com | policygenius.extole.io |
 | refer.thepopcornfactory.com | popcorn-factory.extole.io |
+| share.princess.com | princess.extole.io |
 | refer.prokeds.com | prokeds.extole.io |
 | share.docmorris.fr | promofarma.extole.io |
 | share.promofarma.com | promofarma.extole.io |
@@ -662,6 +686,7 @@
 | refer.reliasacademy.com | reliasacademy.extole.io |
 | refer.remit2india.com | remit2india.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
+| share.riograndecu.org | rio-grande-credit-union.extole.io |
 | refer.rockport.com | rockport.extole.io |
 | refer.rodo.com | rodo.extole.io |
 | share.ross-simons.com | ross-simons.extole.io |
@@ -709,6 +734,7 @@
 | refer.taxact.com | taxact.extole.io |
 | share.teachersfcu.org | teachersfcu.extole.io |
 | sharethelove.teacollection.com | teacollection.extole.com |
+| refer.teladoc.com | teladoc.extole.io |
 | share.tenmarks.com | tenmarks.extole.com |
 | refer.terijon.com | terijon.extole.io |
 | refer.childrensplace.com | the-childrens-place.extole.io |
@@ -726,10 +752,12 @@
 | share.tommy.com | tommy.extole.io |
 | refer.tous.com | tous-jewelry.extole.io |
 | share.trafalgar.com | trafalgar.extole.io |
+| refer.transfast.com | transfast.extole.com |
 | share.truckstop.com | truckstop.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
 | refer.twisthair.com | twisthair.extole.io |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
+| refer.ulta.com | ulta.extole.com |
 | share.unchartedsociety.com | unchartedsociety.extole.io |
 | refer.underarmour.co.uk | under-armour-1.extole.io |
 | refer.underarmour.nl | under-armour-2.extole.io |

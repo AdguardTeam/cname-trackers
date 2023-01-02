@@ -52,6 +52,7 @@
     * 208005830805862.wt-eu02.net
     * 215973748390194.wt-eu02.net
     * 227633596530844.wt-eu02.net
+    * 229792913412288.wt-eu02.net
     * 242612945948096.wt-eu02.net
     * 243341177383246.wt-eu02.net
     * 261826549347986.wt-eu02.net
@@ -231,6 +232,7 @@
 | census.misterspex.de | 208005830805862.wt-eu02.net |
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | web.collisionservices.com | 227633596530844.wt-eu02.net |
+| web.web.tomasiauto.com | 229792913412288.wt-eu02.net |
 | web.email.pmtonline.co.uk | 242612945948096.wt-eu02.net |
 | web.info.yeppon.it | 243341177383246.wt-eu02.net |
 | mit.postbank.de | 261826549347986.wt-eu02.net |
@@ -310,6 +312,7 @@
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
 | web.slim-joy.de | 657801072187647.wt-eu02.net |
 | web.slimjoy.com | 657801072187647.wt-eu02.net |
+| web.slimjoy.cz | 657801072187647.wt-eu02.net |
 | web.slimjoy.dk | 657801072187647.wt-eu02.net |
 | web.slimjoy.ro | 657801072187647.wt-eu02.net |
 | web.slimjoy.se | 657801072187647.wt-eu02.net |

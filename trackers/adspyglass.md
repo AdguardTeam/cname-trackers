@@ -8,6 +8,7 @@
 ### Rarely active trackers
 
 * cdn66584302.blazingcdn.net
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -49,7 +50,6 @@
 | a.digitalgiftshopping.com | 0i0i0i0.com |
 | a.dorkim.club | 0i0i0i0.com |
 | a.dphunters.me | 0i0i0i0.com |
-| a.eachporn.com | 0i0i0i0.com |
 | a.emwstore.xyz | 0i0i0i0.com |
 | a.epicgoo.com | 0i0i0i0.com |
 | a.fapcat.com | 0i0i0i0.com |
@@ -59,6 +59,7 @@
 | a.gofilms4u.pro | 0i0i0i0.com |
 | a.hentai369.com | 0i0i0i0.com |
 | a.hentaitube.icu | 0i0i0i0.com |
+| a.hubhubhub.name | 0i0i0i0.com |
 | a.kagiti.club | 0i0i0i0.com |
 | a.katomu.club | 0i0i0i0.com |
 | a.letsjerk.org | 0i0i0i0.com |
@@ -104,10 +105,13 @@
 | ads.al3ably.com | 0i0i0i0.com |
 | ads.free-to.download | 0i0i0i0.com |
 | ads.hentaiheart.com | 0i0i0i0.com |
+| ads.onlyfanspornvideo.com | 0i0i0i0.com |
+| ads.pornharlot.com | 0i0i0i0.com |
 | ads.pornharlot.net | 0i0i0i0.com |
 | ads.saplacikardepo.xyz | 0i0i0i0.com |
 | ads.tabuflix.com | 0i0i0i0.com |
 | ads.xmov.net | 0i0i0i0.com |
+| ads.xn--mgbkt9eckr.net | 0i0i0i0.com |
 | ads.xxxleaks.cc | 0i0i0i0.com |
 | adsnot.1javguru.xyz | 0i0i0i0.com |
 | adsnot.1supjav.xyz | 0i0i0i0.com |
@@ -145,7 +149,6 @@
 | asg.animehdl.net | 0i0i0i0.com |
 | asg.aphex.me | 0i0i0i0.com |
 | asg.catraff.com | 0i0i0i0.com |
-| asg.collegesexvideo.net | 0i0i0i0.com |
 | asg.dormtapes.com | 0i0i0i0.com |
 | asg.faperoni.com | 0i0i0i0.com |
 | asg.i884.info | 0i0i0i0.com |
@@ -228,6 +231,7 @@
 | cool.ah-me.com | 0i0i0i0.com |
 | costa.xsuffer.com | 0i0i0i0.com |
 | cowpaz.pics | 0i0i0i0.com |
+| cuckoiz.lol | 0i0i0i0.com |
 | custom1.shorterall.com | 0i0i0i0.com |
 | cx6.lastxxxmovies.com | 0i0i0i0.com |
 | d.bloblohub.com | 0i0i0i0.com |
@@ -271,6 +275,7 @@
 | freememes.desiceleb.top | 0i0i0i0.com |
 | fresh.tuiz.pics | 0i0i0i0.com |
 | fx9.freepornoboss.com | 0i0i0i0.com |
+| g.bloblohub.com | 0i0i0i0.com |
 | g0dy.site | 0i0i0i0.com |
 | g4x.porngirl.eu | 0i0i0i0.com |
 | g6j.cupidonmedia.com | 0i0i0i0.com |
@@ -366,6 +371,7 @@
 | nice.tranny.one | 0i0i0i0.com |
 | nodawzua.mom | 0i0i0i0.com |
 | nonekvoi.skin | 0i0i0i0.com |
+| nope.xn--mgbkt9eckr.net | 0i0i0i0.com |
 | notads.111javguru.xyz | 0i0i0i0.com |
 | notads.111supjav.xyz | 0i0i0i0.com |
 | notads.111supjavcom.xyz | 0i0i0i0.com |
@@ -431,6 +437,7 @@
 | quaz.viaoz.xyz | 0i0i0i0.com |
 | ramosz.lol | 0i0i0i0.com |
 | redi.teengirl-pics.com | 0i0i0i0.com |
+| riya.stke.xyz | 0i0i0i0.com |
 | rosehome.lol | 0i0i0i0.com |
 | rst.pornyhd.com | 0i0i0i0.com |
 | s.elitecdn.pl | 0i0i0i0.com |
@@ -452,9 +459,11 @@
 | sdg.fwtrck.com | 0i0i0i0.com |
 | sg.xclick24.com | 0i0i0i0.com |
 | sgzhg.pornlovo.co | 0i0i0i0.com |
+| sharkbiz.lol | 0i0i0i0.com |
 | shemale.house | 0i0i0i0.com |
 | shemale.team | 0i0i0i0.com |
 | shengcu.mom | 0i0i0i0.com |
+| shukri.mwikace.com | 0i0i0i0.com |
 | sin.chjnmi.xyz | 0i0i0i0.com |
 | slave.kbjfree.com | 0i0i0i0.com |
 | solutions.playernetca.top | 0i0i0i0.com |
@@ -477,7 +486,6 @@
 | sup.srvtax.com | 0i0i0i0.com |
 | support.streamjav.top | 0i0i0i0.com |
 | szj.boombay.xyz | 0i0i0i0.com |
-| t.nudeclap.com | 0i0i0i0.com |
 | taboizo.mom | 0i0i0i0.com |
 | talamk3.beauty | 0i0i0i0.com |
 | taoviep.mom | 0i0i0i0.com |
@@ -566,3 +574,6 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| h-ay.com | u53.hypnorat.com |
+| ontj.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |

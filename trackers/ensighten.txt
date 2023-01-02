@@ -94,6 +94,7 @@
 ||attribution.batesfootwear.com^
 ||attribution.grasshoppers.com^
 ||attribution.lebara.com^
+||attribution.merrell.com^
 ||attribution.saucony.com^
 ||attribution.sperry.com^
 ||attribution.tescomobile.com^
@@ -222,11 +223,13 @@
 ||privacy.latitudefinancial.com^
 ||pulse.delta.com^
 ||pulse.mcdonalds.com^
+||pulse.quaero.com^
 ||pulse.rac.co.uk^
 ||pulse.sleepnumber.com^
 ||pulse.synergy.net.au^
 ||pulse.wyndhamhotels.com^
 ||secureanalytics.syf.com^
+||secureanalytics.synchrony.com^
 ||secureanalytics.synchronycredit.com^
 ||secureanalytics.synchronyretail.com^
 ||securemetrics.mysynchrony.com^
@@ -251,13 +254,16 @@
 ||tagman.waitrose.com^
 ||tagman.waitrosecellar.com^
 ||tagmanager1.citi.com^
+||tagmanager1.citibank.com^
 ||tagmanager1.citibankonline.com^
+||tagmanager1.citicards.com^
 ||tags.aljazeera.com^
 ||tags.aljazeera.net^
 ||tags.aumago.com^
 ||tags.experian.co.uk^
 ||tags.hickies.com^
 ||tags.kone.com^
+||tags.wyndhamhotels.com^
 ||tam.volkswagen.com^
 ||tdi.cartoonnetwork.com^
 ||tm.hdmtools.com^
@@ -274,4 +280,6 @@
 ||tog.fivebelow.com^
 ||tripadvisor.activate.ensighten.com^
 ||uat1-dc.pagoda.com^
+||uat1-dc.zales.com^
 ||united.activate.ensighten.com^
+||virginaustralia.activate.ensighten.com^

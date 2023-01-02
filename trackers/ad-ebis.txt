@@ -27,6 +27,7 @@
 ||ade.deskstyle.info^
 ||adebis-52667624.wowma.jp^
 ||adebis-bkan.vbest.jp^
+||adebis-dojyo.dojyo.jp^
 ||adebis-morijuku.morijuku.com^
 ||adebis-rikon.vbest.jp^
 ||adebis-saimu.vbest.jp^

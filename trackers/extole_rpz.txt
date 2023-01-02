@@ -10,6 +10,7 @@ friend.sharefile.com CNAME .
 friends.keurig.ca CNAME .
 friends.keurig.com CNAME .
 ilove.volusion.com CNAME .
+r.gamerewind.nfl.com CNAME .
 refer-a-friend.trivantis.com CNAME .
 refer.aaas.org CNAME .
 refer.accountants.intuit.com CNAME .
@@ -17,7 +18,6 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
-refer.aol.com CNAME .
 refer.barenecessities.com CNAME .
 refer.basictalk.com CNAME .
 refer.beautisol.com CNAME .
@@ -32,9 +32,11 @@ refer.dna.ancestry.com CNAME .
 refer.dnj.com CNAME .
 refer.framesdirect.com CNAME .
 refer.freshly.com CNAME .
+refer.greenvilleonline.com CNAME .
 refer.hannaandersson.com CNAME .
 refer.harimari.com CNAME .
 refer.healthypawspetinsurance.com CNAME .
+refer.integrativenutrition.com CNAME .
 refer.johnson.ca CNAME .
 refer.julep.com CNAME .
 refer.kipling-usa.com CNAME .
@@ -44,7 +46,9 @@ refer.moo.com CNAME .
 refer.myplant.com CNAME .
 refer.nvidia.com CNAME .
 refer.ofx.com CNAME .
+refer.ooma.com CNAME .
 refer.opensky.com CNAME .
+refer.orientaltrading.com CNAME .
 refer.pageonce.com CNAME .
 refer.payroll.intuit.com CNAME .
 refer.personalcreations.com CNAME .
@@ -56,7 +60,9 @@ refer.sperry.com CNAME .
 refer.talbots.com CNAME .
 refer.theleafchronicle.com CNAME .
 refer.timberland.com CNAME .
+refer.transfast.com CNAME .
 refer.turbotax.intuit.com CNAME .
+refer.ulta.com CNAME .
 refer.unionplus.org CNAME .
 refer.usforex.com CNAME .
 refer.verabradley.com CNAME .
@@ -82,7 +88,6 @@ tellapal.web.com CNAME .
 ;
 ; extole.io disguised trackers
 ;
-em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -117,6 +122,7 @@ refer.bose.co.uk CNAME .
 refer.bose.com CNAME .
 refer.bose.de CNAME .
 refer.bose.fr CNAME .
+refer.bulova.com CNAME .
 refer.burtsbees.com CNAME .
 refer.caavo.com CNAME .
 refer.cacique.com CNAME .
@@ -137,6 +143,7 @@ refer.creativelive.com CNAME .
 refer.crocs.com CNAME .
 refer.cspire.com CNAME .
 refer.ea.com CNAME .
+refer.ecoterrabeds.com CNAME .
 refer.embracepetinsurance.com CNAME .
 refer.ems.com CNAME .
 refer.eset.com CNAME .
@@ -235,6 +242,7 @@ refer.swap.com CNAME .
 refer.take5oilchange.com CNAME .
 refer.tatcha.com CNAME .
 refer.taxact.com CNAME .
+refer.teladoc.com CNAME .
 refer.terijon.com CNAME .
 refer.thecompanystore.com CNAME .
 refer.thepopcornfactory.com CNAME .
@@ -304,8 +312,11 @@ share.couponcabin.com CNAME .
 share.credible.com CNAME .
 share.creditninja.com CNAME .
 share.cwbank.com CNAME .
+share.delawareonline.com CNAME .
 share.dermablend.com CNAME .
+share.desertfinancial.com CNAME .
 share.detroitnews.com CNAME .
+share.discountschoolsupply.com CNAME .
 share.docmorris.fr CNAME .
 share.dslaboratories.com CNAME .
 share.dunlopsports.com CNAME .
@@ -319,6 +330,7 @@ share.figopetinsurance.com CNAME .
 share.fingercheck.com CNAME .
 share.firstleaf.com CNAME .
 share.fullbay.com CNAME .
+share.getsetup.io CNAME .
 share.giftya.com CNAME .
 share.giorgioarmanibeauty-usa.com CNAME .
 share.go2bank.com CNAME .
@@ -353,6 +365,7 @@ share.partsvu.com CNAME .
 share.paulmitchell.com CNAME .
 share.petsbest.com CNAME .
 share.policygenius.com CNAME .
+share.princess.com CNAME .
 share.promofarma.com CNAME .
 share.refer-aveda.ca CNAME .
 share.refer-aveda.com CNAME .
@@ -365,6 +378,7 @@ share.refer-maccosmetics.com CNAME .
 share.refer-maccosmetics.es CNAME .
 share.refer-maccosmetics.fr CNAME .
 share.refer-maccosmetics.it CNAME .
+share.riograndecu.org CNAME .
 share.ross-simons.com CNAME .
 share.rspure.com CNAME .
 share.rvshare.com CNAME .
@@ -379,6 +393,7 @@ share.stridehealth.com CNAME .
 share.studiosashiko.com CNAME .
 share.sundaysfordogs.com CNAME .
 share.tallahassee.com CNAME .
+share.tcpalm.com CNAME .
 share.teachersfcu.org CNAME .
 share.theory.com CNAME .
 share.theoryoutlet.com CNAME .

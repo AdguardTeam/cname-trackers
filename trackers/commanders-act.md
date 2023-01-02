@@ -8,6 +8,8 @@
     * redirect33.tagcommander.com
     * redirect341.tagcommander.com
     * redirect342.tagcommander.com
+    * redirect357.tagcommander.com
+    * redirect362.tagcommander.com
     * redirect398.tagcommander.com
     * redirect440.tagcommander.com
     * redirect476.tagcommander.com
@@ -38,6 +40,8 @@
 | tag.boulanger.fr | redirect33.tagcommander.com |
 | data.decathlon.es | redirect341.tagcommander.com |
 | data.decathlon.co.uk | redirect342.tagcommander.com |
+| tc.europcar.com | redirect357.tagcommander.com |
+| data.ouigo.com | redirect362.tagcommander.com |
 | data.decathlon.pl | redirect398.tagcommander.com |
 | data.decathlon.de | redirect440.tagcommander.com |
 | sales.disneylandparis.com | redirect476.tagcommander.com |

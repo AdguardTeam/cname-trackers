@@ -234,6 +234,7 @@
 | tr.enquete-cpf.ifop.com | tracking.bp01.net |
 | tr.enquetes.actionlogement.fr | tracking.bp01.net |
 | tr.entreprise-pro.info | tracking.bp01.net |
+| tr.entreprise.axa.fr | tracking.bp01.net |
 | tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
 | tr.estatesandwines.moethennessy.com | tracking.bp01.net |
 | tr.europa-organisation.com | tracking.bp01.net |
@@ -249,7 +250,6 @@
 | tr.gdfsuez-globalenergy.info | tracking.bp01.net |
 | tr.gen.espmp-agfr.net | tracking.bp01.net |
 | tr.gestion.banque-casino.fr | tracking.bp01.net |
-| tr.gestion.banque-revillon.fr | tracking.bp01.net |
 | tr.gestion.cafineo.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
 | tr.gestion.coficabail.fr | tracking.bp01.net |
@@ -266,6 +266,7 @@
 | tr.groupama-gne.fr | tracking.bp01.net |
 | tr.gtr.moethennessy.com | tracking.bp01.net |
 | tr.haute-maurienne-vanoise.net | tracking.bp01.net |
+| tr.hcahealthcare.co.uk | tracking.bp01.net |
 | tr.hello.maisonfoody.com | tracking.bp01.net |
 | tr.helloartisan.info | tracking.bp01.net |
 | tr.info-btob-leaders.com | tracking.bp01.net |
@@ -484,6 +485,7 @@
 | tr.news.maisonfoody.com | tracking.bp01.net |
 | tr.news.manufacturing.fr | tracking.bp01.net |
 | tr.news.mdbp.fr | tracking.bp01.net |
+| tr.news.mediametrie.fr | tracking.bp01.net |
 | tr.news.meillandrichardier.com | tracking.bp01.net |
 | tr.news.mi-oferta.es | tracking.bp01.net |
 | tr.news.mon-horoscope.info | tracking.bp01.net |
@@ -572,7 +574,6 @@
 | tr.notification-gdpr.norrsken.fr | tracking.bp01.net |
 | tr.notification-gdpr.personal-finance-location.bnpparibas | tracking.bp01.net |
 | tr.notification-gdpr.sygmabybnpparibas-pf.com | tracking.bp01.net |
-| tr.notification.banque-revillon.fr | tracking.bp01.net |
 | tr.notification.cafineo.fr | tracking.bp01.net |
 | tr.notification.cdiscount.com | tracking.bp01.net |
 | tr.notification.cetelem.fr | tracking.bp01.net |
@@ -619,6 +620,7 @@
 | tr.qualitaveicolo.com | tracking.bp01.net |
 | tr.qualite.groupama.com | tracking.bp01.net |
 | tr.qualite.groupebarriere.com | tracking.bp01.net |
+| tr.qualite.viparis.com | tracking.bp01.net |
 | tr.qualitevehicule.fr | tracking.bp01.net |
 | tr.qualityvehiclesurvey.com | tracking.bp01.net |
 | tr.quotes.digital | tracking.bp01.net |
@@ -681,6 +683,7 @@
 | tr.trafficnews.lyria.com | tracking.bp01.net |
 | tr.ujsv.espmp-agfr.net | tracking.bp01.net |
 | tr.uk.icicibank.com | tracking.bp01.net |
+| tr.uk.katun.com | tracking.bp01.net |
 | tr.unaoffertaalgiorno.com | tracking.bp01.net |
 | tr.update.groupon.be | tracking.bp01.net |
 | tr.urfk02v.espmp-cufr.net | tracking.bp01.net |

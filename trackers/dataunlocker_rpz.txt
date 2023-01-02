@@ -57,6 +57,7 @@ ilkk97e98lvg.www.sidsplumbing.ie CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
+k1v0eojrtekr.www.ligglo.com CNAME .
 k5ygj3bivnrp.uae.revent.store CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 li3k4d70ig52.resourceya.com CNAME .
@@ -72,6 +73,7 @@ nqyuel589fq5.esgrounding.com CNAME .
 ocjeg2ca9uh9.mailfloss.com CNAME .
 onuf69iegl2e.staging-lfg-app.alpacafinance.org CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
+p13vtlg7n362.clariti.app CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .

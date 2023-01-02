@@ -283,6 +283,7 @@ web.sensilab.sk CNAME .
 web.sidsavage.com CNAME .
 web.slim-joy.de CNAME .
 web.slimjoy.com CNAME .
+web.slimjoy.cz CNAME .
 web.slimjoy.dk CNAME .
 web.slimjoy.ro CNAME .
 web.slimjoy.se CNAME .
@@ -294,6 +295,7 @@ web.tummytox.de CNAME .
 web.tummytox.it CNAME .
 web.tummytox.pt CNAME .
 web.tummytox.sk CNAME .
+web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
 webmet.creditreform.de CNAME .
 website-usage.b2bendix.com CNAME .

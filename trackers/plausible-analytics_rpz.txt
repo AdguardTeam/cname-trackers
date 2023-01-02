@@ -28,7 +28,6 @@ analytics.codeforscience.org CNAME .
 analytics.codeskulptor.org CNAME .
 analytics.dephibank.com CNAME .
 analytics.eikko.ai CNAME .
-analytics.fatalparadox.com CNAME .
 analytics.gamedatacrunch.com CNAME .
 analytics.geekyminds.net CNAME .
 analytics.givealittle.co CNAME .
@@ -665,13 +664,14 @@ stats.reactshowcase.com CNAME .
 stats.reisemobil.pro CNAME .
 stats.remotebear.io CNAME .
 stats.reprage.com CNAME .
+stats.retro.cz CNAME .
 stats.revit-content.com CNAME .
 stats.revitfamily.app CNAME .
+stats.roast-my-code.com CNAME .
 stats.rocketvalidator.com CNAME .
 stats.ruhrfestspiele.de CNAME .
 stats.rushilperera.me CNAME .
 stats.rymawby.com CNAME .
-stats.saveirishpubs.ie CNAME .
 stats.savethemothers.org CNAME .
 stats.screen-play.app CNAME .
 stats.screenwavemedia.com CNAME .
@@ -692,7 +692,6 @@ stats.squaddy.se CNAME .
 stats.stack11.io CNAME .
 stats.stackingthebricks.com CNAME .
 stats.stacks.org CNAME .
-stats.stadiastats.gg CNAME .
 stats.steuer-soldaten.de CNAME .
 stats.stevenfwhite.academy CNAME .
 stats.stitchiq.com CNAME .
@@ -721,6 +720,7 @@ stats.ubiwiz.com CNAME .
 stats.urlaubsverwaltung.cloud CNAME .
 stats.useeffect.dev CNAME .
 stats.vinkkaa.fi CNAME .
+stats.visions.ch CNAME .
 stats.voltamediahouse.com CNAME .
 stats.wachstum.at CNAME .
 stats.walkiees.co.uk CNAME .

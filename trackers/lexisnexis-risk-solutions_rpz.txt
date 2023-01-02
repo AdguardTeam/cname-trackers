@@ -117,6 +117,8 @@ check2.halifax.co.uk CNAME .
 check2.lloydsbank.co.uk CNAME .
 check2.mbna.co.uk CNAME .
 check2.tsb.co.uk CNAME .
+check3-qa1.test.tiaabank.com CNAME .
+check3-qa2.test.tiaabank.com CNAME .
 check3.tiaa-cref.org CNAME .
 check3.tiaa.org CNAME .
 check3.tiaabank.com CNAME .
@@ -132,6 +134,7 @@ cnt.patpat.com CNAME .
 cnt2.bank.za.group CNAME .
 compliance.mohegansuncasino.com CNAME .
 compliance.resortscasino.com CNAME .
+content-uk.fundingcircle.com CNAME .
 content.ageas.co.uk CNAME .
 content.allstate.com CNAME .
 content.alterna.ca CNAME .
@@ -171,6 +174,7 @@ content.egyptair.com CNAME .
 content.espace-client.hellobank.fr CNAME .
 content.etransfer.interac.ca CNAME .
 content.ezaem.ru CNAME .
+content.ezbills.com CNAME .
 content.familyprepaiddebit.com CNAME .
 content.firstinterstatebank.com CNAME .
 content.fisglobal.com CNAME .
@@ -182,6 +186,7 @@ content.hellobank.fr CNAME .
 content.hellobank.it CNAME .
 content.hellomobile.com CNAME .
 content.ibanking-services.com CNAME .
+content.id.elsevier.com CNAME .
 content.ifpsoyyo.co CNAME .
 content.imagedepositgateway.com CNAME .
 content.incredit.pl CNAME .
@@ -214,6 +219,7 @@ content.partycity.ca CNAME .
 content.personifyfinancial.com CNAME .
 content.pledg.co CNAME .
 content.pnbank.com.au CNAME .
+content.presentment.com CNAME .
 content.qlinkwireless.com CNAME .
 content.qudosbank.com.au CNAME .
 content.quicken.com CNAME .
@@ -224,6 +230,8 @@ content.royalvegascasino.ca CNAME .
 content.rubyfortune.ca CNAME .
 content.sfbli.com CNAME .
 content.sheerid.com CNAME .
+content.smallbusiness.paytrust.com CNAME .
+content.solutions-corporate.com CNAME .
 content.spincasino.ca CNAME .
 content.sportchek.ca CNAME .
 content.sportscheck.com CNAME .
@@ -316,6 +324,7 @@ drfdisvc.walmart.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
 enligne.bnc.ca CNAME .
+ep.vystarcu.org CNAME .
 event.evtm.53.com CNAME .
 ex.exnessstats.com CNAME .
 faas.2dehands.be CNAME .
@@ -337,6 +346,7 @@ fp.ubagroup.com CNAME .
 fp.ups.com CNAME .
 fpcn.bpsgameserver.com CNAME .
 fpt.norton.com CNAME .
+fr.shopdisney.disney.co.jp CNAME .
 fraudcheck.walmart.ca CNAME .
 frp.intuit.com CNAME .
 ftd.quodxx.com.br CNAME .
@@ -376,6 +386,7 @@ img2.paywithmybank.com CNAME .
 img2.prosper.com CNAME .
 img2.tmrs.com CNAME .
 img2021.navyfederal.org CNAME .
+img24.rei.com CNAME .
 img3.avis.com CNAME .
 img3.budget.com CNAME .
 img3.forte.net CNAME .
@@ -427,6 +438,7 @@ mobilecontent.projectdrgn.com CNAME .
 mobsessions.worldremit.com CNAME .
 nav.sciencedirect.com CNAME .
 neo.fashionette.de CNAME .
+nexus-svc.sc.com CNAME .
 ocs.ameriprise.com CNAME .
 offtest.fnfis.com CNAME .
 ola2.tdameritrade.com CNAME .
@@ -496,6 +508,7 @@ scontent.bip.credit CNAME .
 scontent.fluid.co.uk CNAME .
 scontent.marbles.com CNAME .
 scontent.newdaycards.com CNAME .
+scuicss.dew.sc.gov CNAME .
 sec.hikaritv.net CNAME .
 sec.lin101.mail.goo.ne.jp CNAME .
 sec.login.mail.goo.ne.jp CNAME .
@@ -590,7 +603,9 @@ tag.icash.illinoistreasurer.gov CNAME .
 tag.mycash.utah.gov CNAME .
 tag.ucp.dor.wa.gov CNAME .
 tag.unclaimedfunds.nj.gov CNAME .
+tag.unclaimedproperty.alaska.gov CNAME .
 tag.unclaimedproperty.nd.gov CNAME .
+tags.api.openaccount.natwest.com CNAME .
 tags.api.openaccount.rbs.co.uk CNAME .
 tags.bankline.natwest.com CNAME .
 tags.bankline.rbs.com CNAME .
@@ -639,6 +654,7 @@ tm.cbd.ae CNAME .
 tm.cox.com CNAME .
 tm.creditcheck.illion.co.nz CNAME .
 tm.creditcheck.illion.com.au CNAME .
+tm.creditprotect.illion.com.au CNAME .
 tm.creditsimple.co.nz CNAME .
 tm.creditsimple.com.au CNAME .
 tm.cybersource.com CNAME .

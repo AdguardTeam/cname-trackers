@@ -39,7 +39,6 @@ a.cashjma.com CNAME .
 a.digitalgiftshopping.com CNAME .
 a.dorkim.club CNAME .
 a.dphunters.me CNAME .
-a.eachporn.com CNAME .
 a.emwstore.xyz CNAME .
 a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
@@ -49,6 +48,7 @@ a.fuckamouth.com CNAME .
 a.gofilms4u.pro CNAME .
 a.hentai369.com CNAME .
 a.hentaitube.icu CNAME .
+a.hubhubhub.name CNAME .
 a.kagiti.club CNAME .
 a.katomu.club CNAME .
 a.letsjerk.org CNAME .
@@ -94,10 +94,13 @@ ads.49inchporn.club CNAME .
 ads.al3ably.com CNAME .
 ads.free-to.download CNAME .
 ads.hentaiheart.com CNAME .
+ads.onlyfanspornvideo.com CNAME .
+ads.pornharlot.com CNAME .
 ads.pornharlot.net CNAME .
 ads.saplacikardepo.xyz CNAME .
 ads.tabuflix.com CNAME .
 ads.xmov.net CNAME .
+ads.xn--mgbkt9eckr.net CNAME .
 ads.xxxleaks.cc CNAME .
 adsnot.1javguru.xyz CNAME .
 adsnot.1supjav.xyz CNAME .
@@ -135,7 +138,6 @@ asg.allweb.click CNAME .
 asg.animehdl.net CNAME .
 asg.aphex.me CNAME .
 asg.catraff.com CNAME .
-asg.collegesexvideo.net CNAME .
 asg.dormtapes.com CNAME .
 asg.faperoni.com CNAME .
 asg.i884.info CNAME .
@@ -218,6 +220,7 @@ comp.aniplay.it CNAME .
 cool.ah-me.com CNAME .
 costa.xsuffer.com CNAME .
 cowpaz.pics CNAME .
+cuckoiz.lol CNAME .
 custom1.shorterall.com CNAME .
 cx6.lastxxxmovies.com CNAME .
 d.bloblohub.com CNAME .
@@ -261,6 +264,7 @@ free.stat.tk CNAME .
 freememes.desiceleb.top CNAME .
 fresh.tuiz.pics CNAME .
 fx9.freepornoboss.com CNAME .
+g.bloblohub.com CNAME .
 g0dy.site CNAME .
 g4x.porngirl.eu CNAME .
 g6j.cupidonmedia.com CNAME .
@@ -360,6 +364,7 @@ net.sexstories69.com CNAME .
 nice.tranny.one CNAME .
 nodawzua.mom CNAME .
 nonekvoi.skin CNAME .
+nope.xn--mgbkt9eckr.net CNAME .
 notads.111javguru.xyz CNAME .
 notads.111supjav.xyz CNAME .
 notads.111supjavcom.xyz CNAME .
@@ -426,6 +431,7 @@ qoqv.com CNAME .
 quaz.viaoz.xyz CNAME .
 ramosz.lol CNAME .
 redi.teengirl-pics.com CNAME .
+riya.stke.xyz CNAME .
 rosehome.lol CNAME .
 rst.pornyhd.com CNAME .
 s.elitecdn.pl CNAME .
@@ -447,9 +453,11 @@ sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
 sg.xclick24.com CNAME .
 sgzhg.pornlovo.co CNAME .
+sharkbiz.lol CNAME .
 shemale.house CNAME .
 shemale.team CNAME .
 shengcu.mom CNAME .
+shukri.mwikace.com CNAME .
 sin.chjnmi.xyz CNAME .
 slave.kbjfree.com CNAME .
 solutions.playernetca.top CNAME .
@@ -472,7 +480,6 @@ subtitle.mom CNAME .
 sup.srvtax.com CNAME .
 support.streamjav.top CNAME .
 szj.boombay.xyz CNAME .
-t.nudeclap.com CNAME .
 taboizo.mom CNAME .
 talamk3.beauty CNAME .
 taoviep.mom CNAME .
@@ -559,3 +566,9 @@ zzz.pissrip.net CNAME .
 ; cdn66584302.blazingcdn.net disguised trackers
 ;
 cdn.manhwadesu.me CNAME .
+;
+; u53.hypnorat.com disguised trackers
+;
+h-ay.com CNAME .
+ontj.com CNAME .
+qoqv.com CNAME .

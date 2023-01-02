@@ -9,11 +9,11 @@
 ||ad.duttak.com^
 ||ads.anese.co^
 ||ads.dreamjobcompany.com^
+||af.galaxykids.ai^
 ||aff.magneticjv.com^
 ||affiliate.excelsiortracking.com^
 ||afftrack.healthprimeplus.net^
 ||agro-alla.com^
-||ajmtt.com^
 ||ali.idkexipurenow.website^
 ||ambassador.godthefatherapparel.com^
 ||apply.catalystfitnessflorida.com^
@@ -150,12 +150,14 @@
 ||go.findspins.com^
 ||go.flirtu.io^
 ||go.flyin.com^
+||go.foxfrotarion.com^
 ||go.getergomax.com^
 ||go.gomovepro.com^
 ||go.healthywellnessfromwithin.com^
 ||go.homeessentialstore.com^
 ||go.hsrtrack.com^
 ||go.jogosbrasilhoje.com^
+||go.karajjaipur.com^
 ||go.kickstartclick.com^
 ||go.livehealthiertoday.net^
 ||go.livingnaturalway.com^
@@ -201,6 +203,7 @@
 ||health.powerinside-you.com^
 ||healthy.createhealthyhabit.com^
 ||healthy.freshhappyhealthy.com^
+||healthy.healthyinnovativepeople.com^
 ||hell.duttak.com^
 ||hi.zeri3a.click^
 ||i.thinkclearly.uk^
@@ -209,6 +212,7 @@
 ||kindlaundry.rdtrke.com^
 ||kingsofneon.espheredigital.com^
 ||kinky.tracked.one^
+||laidback.laidbacklondon.com^
 ||leads.getquadairdrone.org^
 ||life.smartfinancialinsider.com^
 ||link.health-today-news.com^
@@ -220,6 +224,7 @@
 ||loading.review4u.org^
 ||lofi.kylnk.com^
 ||lppt.gethandybox.com^
+||luv.wellnestclub.com^
 ||mail.crispydeal.in^
 ||maldini.trk.agency^
 ||marketing.brew-company.shop^
@@ -235,6 +240,7 @@
 ||nour.stockhoursllc.com^
 ||now.rthometoday.com^
 ||o.jim.expert^
+||offer.buy.consegnarapida.store^
 ||offer.buy.healthyhub24.com^
 ||offer.buy.myjourney2022.com^
 ||offer.buy.wellness-europe.com^
@@ -248,12 +254,14 @@
 ||pages.medpolicyfinder.com^
 ||path.lifesavingsinfo.com^
 ||path.secretsavingsusa.com^
+||path.thehappyamerican.com^
 ||peak.happy-healthy-lives.com^
 ||ping.dezzire.video^
 ||pompom-www.com^
 ||pop.jokanime.online^
 ||ppc.silkroadtracker.com^
 ||press.thebikecart.com^
+||pro.adrofx.com^
 ||promo.top20gadgetdeals.net^
 ||pupses.com^
 ||rd.casino777.lv^
@@ -291,8 +299,10 @@
 ||redtrack.olivia-avenue.co^
 ||redtrack.pawtree.com^
 ||redtrack.proteinfactory.com^
+||redtrack.storedelnutra.com^
 ||redtrack.thecapsula.ru^
 ||ro2.ro.trackrocasino.com^
+||rt.balletbeautiful.com^
 ||rt.compare24.net^
 ||rt.fastinsuranceservices.net^
 ||rt.homeownersavingshub.com^
@@ -339,6 +349,7 @@
 ||t.top-male-health.com^
 ||t.usa-benefits-guide.com^
 ||t1.ask1.co^
+||tdk.onlineworldoffer.com^
 ||ticket.sirlottoclub.com^
 ||tk.acsfinancial.com.au^
 ||tk.saintandsofia.com^
@@ -355,6 +366,7 @@
 ||track.appdesigncoursesonline.com^
 ||track.articture.com^
 ||track.assistance-live.com^
+||track.awynat.com^
 ||track.axilennstacks.com^
 ||track.bavlio.us^
 ||track.benefitsforu.org^
@@ -417,7 +429,9 @@
 ||track.factostat.com^
 ||track.fairesults.com^
 ||track.faith.fashion^
+||track.fastex.com^
 ||track.fastshare.cz^
+||track.fastshift.am^
 ||track.financedivisions.com^
 ||track.financeguide.shop^
 ||track.floatercampaigntrk.shop^
@@ -440,6 +454,7 @@
 ||track.healthprotectorscenter.com^
 ||track.healthylifeprotocol.com^
 ||track.highpeakco.com^
+||track.homeownerupgrade.com^
 ||track.homie.com.au^
 ||track.hoodeffect.com^
 ||track.hukitchen.com^
@@ -451,6 +466,7 @@
 ||track.imdeqzo.com^
 ||track.imgtrx.com^
 ||track.imgtrx2.com^
+||track.imperiumnetpromo.com^
 ||track.innovativefinds.shop^
 ||track.ivhu.art^
 ||track.jettokeninvest.com^
@@ -500,6 +516,7 @@
 ||track.peakmart.de^
 ||track.periodtimepublishing.com^
 ||track.pocketoption.asia^
+||track.polyglotaccent.com^
 ||track.popslotz.com^
 ||track.printery.ro^
 ||track.projectmanagementworldforyou.com^
@@ -516,6 +533,7 @@
 ||track.restauracioncapilarspro.com^
 ||track.restorationgrowth.com^
 ||track.resultslead.com^
+||track.riccardopagnussat.com^
 ||track.rooforzo.com^
 ||track.sales.network^
 ||track.scrooge.sbs^
@@ -554,6 +572,7 @@
 ||track.togetherforeverwhere.com^
 ||track.topestateplanning.com^
 ||track.topzlots.com^
+||track.trabajosdepinturacasas.com^
 ||track.transtraak.com^
 ||track.traviscompany.ro^
 ||track.trk.blogdellasalute.com^
@@ -623,6 +642,7 @@
 ||trk.dealtreats.com^
 ||trk.deliveryredirect.com^
 ||trk.disability-help-center.com^
+||trk.e-deals.xyz^
 ||trk.electropig.shop^
 ||trk.elenamurray.com^
 ||trk.enticedagency.com^
@@ -660,8 +680,8 @@
 ||trk.topofferglobal.com^
 ||trk.travelandwellnessblog.com^
 ||trk.trillionairenails.de^
-||trk.trk2k22.xyz^
 ||trk.trksms.com^
+||trk.viral-weekly.com^
 ||trk.wellnesshopping.com^
 ||trk.weshape.com^
 ||tv.milkshow.live^
@@ -692,5 +712,6 @@
 ||www.unitmal.xyz^
 ||www.wellnessdesignzone.com^
 ||x.daily-health.org^
+||x.health-sos.org^
 ||x.healthlabinstitute.com^
 ||x.neurofacts.org^

@@ -94,6 +94,7 @@ assets1.vero.com.au CNAME .
 attribution.batesfootwear.com CNAME .
 attribution.grasshoppers.com CNAME .
 attribution.lebara.com CNAME .
+attribution.merrell.com CNAME .
 attribution.saucony.com CNAME .
 attribution.sperry.com CNAME .
 attribution.tescomobile.com CNAME .
@@ -222,11 +223,13 @@ privacy.heishop.mx CNAME .
 privacy.latitudefinancial.com CNAME .
 pulse.delta.com CNAME .
 pulse.mcdonalds.com CNAME .
+pulse.quaero.com CNAME .
 pulse.rac.co.uk CNAME .
 pulse.sleepnumber.com CNAME .
 pulse.synergy.net.au CNAME .
 pulse.wyndhamhotels.com CNAME .
 secureanalytics.syf.com CNAME .
+secureanalytics.synchrony.com CNAME .
 secureanalytics.synchronycredit.com CNAME .
 secureanalytics.synchronyretail.com CNAME .
 securemetrics.mysynchrony.com CNAME .
@@ -251,13 +254,16 @@ tagman.virginatlantic.com CNAME .
 tagman.waitrose.com CNAME .
 tagman.waitrosecellar.com CNAME .
 tagmanager1.citi.com CNAME .
+tagmanager1.citibank.com CNAME .
 tagmanager1.citibankonline.com CNAME .
+tagmanager1.citicards.com CNAME .
 tags.aljazeera.com CNAME .
 tags.aljazeera.net CNAME .
 tags.aumago.com CNAME .
 tags.experian.co.uk CNAME .
 tags.hickies.com CNAME .
 tags.kone.com CNAME .
+tags.wyndhamhotels.com CNAME .
 tam.volkswagen.com CNAME .
 tdi.cartoonnetwork.com CNAME .
 tm.hdmtools.com CNAME .
@@ -274,4 +280,6 @@ tmsgi.lv.com CNAME .
 tog.fivebelow.com CNAME .
 tripadvisor.activate.ensighten.com CNAME .
 uat1-dc.pagoda.com CNAME .
+uat1-dc.zales.com CNAME .
 united.activate.ensighten.com CNAME .
+virginaustralia.activate.ensighten.com CNAME .

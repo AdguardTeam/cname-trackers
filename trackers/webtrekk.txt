@@ -283,6 +283,7 @@
 ||web.sidsavage.com^
 ||web.slim-joy.de^
 ||web.slimjoy.com^
+||web.slimjoy.cz^
 ||web.slimjoy.dk^
 ||web.slimjoy.ro^
 ||web.slimjoy.se^
@@ -294,6 +295,7 @@
 ||web.tummytox.it^
 ||web.tummytox.pt^
 ||web.tummytox.sk^
+||web.web.tomasiauto.com^
 ||web.x.ilpost.it^
 ||webmet.creditreform.de^
 ||website-usage.b2bendix.com^

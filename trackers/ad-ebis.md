@@ -109,6 +109,7 @@
     * 676de0ff-nntzjw5y.cname.ebis.ne.jp
     * 68408270-ysplpzur.cname.ebis.ne.jp
     * 68d30b5c-gxw6vfjd.cname.ebis.ne.jp
+    * 6a2b2ae7-ucdqzrin.cname.ebis.ne.jp
     * 6da9e1b5-pz2gtngp.cname.ebis.ne.jp
     * 6e0bad28-hd5f4dhg.cname.ebis.ne.jp
     * 6f2f31bc-6pusefyf.cname.ebis.ne.jp
@@ -355,6 +356,7 @@
 | cname.nikkei-cnbc.co.jp | 676de0ff-nntzjw5y.cname.ebis.ne.jp |
 | adebis.leben-style.jp | 68408270-ysplpzur.cname.ebis.ne.jp |
 | ebis.randstad.co.jp | 68d30b5c-gxw6vfjd.cname.ebis.ne.jp |
+| adebis-dojyo.dojyo.jp | 6a2b2ae7-ucdqzrin.cname.ebis.ne.jp |
 | ebs.viosalon.com | 6da9e1b5-pz2gtngp.cname.ebis.ne.jp |
 | tracking.axis.onl | 6e0bad28-hd5f4dhg.cname.ebis.ne.jp |
 | ebis-tracking.okinawa-keisei.com | 6f2f31bc-6pusefyf.cname.ebis.ne.jp |

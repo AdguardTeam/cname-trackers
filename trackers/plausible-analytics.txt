@@ -28,7 +28,6 @@
 ||analytics.codeskulptor.org^
 ||analytics.dephibank.com^
 ||analytics.eikko.ai^
-||analytics.fatalparadox.com^
 ||analytics.gamedatacrunch.com^
 ||analytics.geekyminds.net^
 ||analytics.givealittle.co^
@@ -665,13 +664,14 @@
 ||stats.reisemobil.pro^
 ||stats.remotebear.io^
 ||stats.reprage.com^
+||stats.retro.cz^
 ||stats.revit-content.com^
 ||stats.revitfamily.app^
+||stats.roast-my-code.com^
 ||stats.rocketvalidator.com^
 ||stats.ruhrfestspiele.de^
 ||stats.rushilperera.me^
 ||stats.rymawby.com^
-||stats.saveirishpubs.ie^
 ||stats.savethemothers.org^
 ||stats.screen-play.app^
 ||stats.screenwavemedia.com^
@@ -692,7 +692,6 @@
 ||stats.stack11.io^
 ||stats.stackingthebricks.com^
 ||stats.stacks.org^
-||stats.stadiastats.gg^
 ||stats.steuer-soldaten.de^
 ||stats.stevenfwhite.academy^
 ||stats.stitchiq.com^
@@ -721,6 +720,7 @@
 ||stats.urlaubsverwaltung.cloud^
 ||stats.useeffect.dev^
 ||stats.vinkkaa.fi^
+||stats.visions.ch^
 ||stats.voltamediahouse.com^
 ||stats.wachstum.at^
 ||stats.walkiees.co.uk^

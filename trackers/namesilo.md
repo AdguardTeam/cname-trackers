@@ -16,6 +16,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| a.addisplaynetwork.com | cds.d6n9n7e2.hwcdn.net |
 | a.adnflow.com | cds.d6n9n7e2.hwcdn.net |
 | a.etology.com | cds.d6n9n7e2.hwcdn.net |
 | delivery.gettopple.com | cds.d6n9n7e2.hwcdn.net |
@@ -576,6 +577,7 @@
 | origin-ads.realsrv.com | tk6if76q.ab1n.net |
 | s.adnflow.com | tk6if76q.ab1n.net |
 | s.eaalink.com | tk6if76q.ab1n.net |
+| s.elink2b.com | tk6if76q.ab1n.net |
 | s.elink2c.com | tk6if76q.ab1n.net |
 | s.elnk4b.com | tk6if76q.ab1n.net |
 | s.elnkp4.com | tk6if76q.ab1n.net |
@@ -616,6 +618,6 @@
 | syndication.whibd.com | tk6if76q.ab1n.net |
 | syndication.whibp.com | tk6if76q.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
-| a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
+| a.adnflow.com | w2u4v9e1.ab1n.net |
 | a.etology.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |

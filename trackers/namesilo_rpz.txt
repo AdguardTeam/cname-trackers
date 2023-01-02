@@ -546,7 +546,7 @@
 4819336.notify6.com CNAME .
 4832912.notify6.com CNAME .
 7678.notify.optimizesrv.com CNAME .
-a.addisplaynetwork.com CNAME .
+a.adnflow.com CNAME .
 a.etology.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
@@ -563,6 +563,7 @@ origin-ads.realsrv.com CNAME .
 rtb.exoclick.com CNAME .
 s.adnflow.com CNAME .
 s.eaalink.com CNAME .
+s.elink2b.com CNAME .
 s.elink2c.com CNAME .
 s.elnk4b.com CNAME .
 s.elnkp4.com CNAME .
@@ -606,6 +607,7 @@ syndication.whibp.com CNAME .
 ;
 ; cds.d6n9n7e2.hwcdn.net disguised trackers
 ;
+a.addisplaynetwork.com CNAME .
 a.adnflow.com CNAME .
 a.etology.com CNAME .
 delivery.gettopple.com CNAME .

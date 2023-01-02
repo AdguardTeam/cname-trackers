@@ -9,6 +9,7 @@
 ||a8-itp.qoo10.jp^
 ||a8-xshop.secure.xserver.ne.jp^
 ||a8.01cloud.jp^
+||a8.2ndstreet.jp^
 ||a8.abemashopping.jp^
 ||a8.aim-beauty-medicalclinic.com^
 ||a8.au-hikarinet.com^
@@ -30,6 +31,7 @@
 ||a8.croaster-select.com^
 ||a8.cucua.fun^
 ||a8.cyclemarket.jp^
+||a8.cypris-online.jp^
 ||a8.de-limmo.jp^
 ||a8.degicashop.com^
 ||a8.denki-koji.work^
@@ -197,6 +199,7 @@
 ||a8clk.ec.halmek.co.jp^
 ||a8clk.ectool.jp^
 ||a8clk.fastsim.jp^
+||a8clk.formal.cariru.jp^
 ||a8clk.francfranc.com^
 ||a8clk.fuku-chan.jp^
 ||a8clk.grirose.jp^
@@ -242,6 +245,7 @@
 ||a8clk.nenga.fumiiro.jp^
 ||a8clk.netowl.jp^
 ||a8clk.nikkoudou-kottou.com^
+||a8clk.nissen.co.jp^
 ||a8clk.nyandaful.jp^
 ||a8clk.okawa-god.jp^
 ||a8clk.onemile.jp^
@@ -421,7 +425,6 @@
 ||a8cv.momiji-tantei.com^
 ||a8cv.mova-creator-school.com^
 ||a8cv.ms-toushiguide.jp^
-||a8cv.mustachejapan.com^
 ||a8cv.naire-seisakusho.jp^
 ||a8cv.nakamura-kaban.net^
 ||a8cv.naradenryoku.co.jp^
@@ -440,6 +443,7 @@
 ||a8cv.quattrocart.com^
 ||a8cv.sanix.jp^
 ||a8cv.sharing-tech.jp^
+||a8cv.shop.matsuo1956.jp^
 ||a8cv.snkrdunk.com^
 ||a8cv.stg.moneybank.co.jp^
 ||a8cv.toko-navi.com^
@@ -493,6 +497,7 @@
 ||tracking.196189.com^
 ||trck.atnenga.com^
 ||trck.kenkiya.com^
+||trck02.magaseek.com^
 ||web.hikari-cmf.com^
 ||web.n-entry.com^
 ||web.nuro-life.com^

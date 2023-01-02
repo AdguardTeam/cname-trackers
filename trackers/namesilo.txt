@@ -546,7 +546,7 @@
 ||4819336.notify6.com^
 ||4832912.notify6.com^
 ||7678.notify.optimizesrv.com^
-||a.addisplaynetwork.com^
+||a.adnflow.com^
 ||a.etology.com^
 ||delivery.gettopple.com^
 ||engine.gettopple.com^
@@ -563,6 +563,7 @@
 ||rtb.exoclick.com^
 ||s.adnflow.com^
 ||s.eaalink.com^
+||s.elink2b.com^
 ||s.elink2c.com^
 ||s.elnk4b.com^
 ||s.elnkp4.com^
@@ -606,6 +607,7 @@
 !
 ! cds.d6n9n7e2.hwcdn.net disguised trackers
 !
+||a.addisplaynetwork.com^
 ||a.adnflow.com^
 ||a.etology.com^
 ||delivery.gettopple.com^

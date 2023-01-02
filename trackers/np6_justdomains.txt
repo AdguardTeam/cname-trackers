@@ -219,6 +219,7 @@ tr.engie-globalenergy.info
 tr.enquete-cpf.ifop.com
 tr.enquetes.actionlogement.fr
 tr.entreprise-pro.info
+tr.entreprise.axa.fr
 tr.envie-de-bien-manger.espmp-aufr.net
 tr.estatesandwines.moethennessy.com
 tr.europa-organisation.com
@@ -234,7 +235,6 @@ tr.gap-fr.fr
 tr.gdfsuez-globalenergy.info
 tr.gen.espmp-agfr.net
 tr.gestion.banque-casino.fr
-tr.gestion.banque-revillon.fr
 tr.gestion.cafineo.fr
 tr.gestion.cetelem.fr
 tr.gestion.coficabail.fr
@@ -251,6 +251,7 @@ tr.group-hr.lvmh.fr
 tr.groupama-gne.fr
 tr.gtr.moethennessy.com
 tr.haute-maurienne-vanoise.net
+tr.hcahealthcare.co.uk
 tr.hello.maisonfoody.com
 tr.helloartisan.info
 tr.info-btob-leaders.com
@@ -469,6 +470,7 @@ tr.news.lisez.com
 tr.news.maisonfoody.com
 tr.news.manufacturing.fr
 tr.news.mdbp.fr
+tr.news.mediametrie.fr
 tr.news.meillandrichardier.com
 tr.news.mi-oferta.es
 tr.news.mon-horoscope.info
@@ -557,7 +559,6 @@ tr.notification-gdpr.loisirs-finance.fr
 tr.notification-gdpr.norrsken.fr
 tr.notification-gdpr.personal-finance-location.bnpparibas
 tr.notification-gdpr.sygmabybnpparibas-pf.com
-tr.notification.banque-revillon.fr
 tr.notification.cafineo.fr
 tr.notification.cdiscount.com
 tr.notification.cetelem.fr
@@ -604,6 +605,7 @@ tr.qualitaetsumfrage.com
 tr.qualitaveicolo.com
 tr.qualite.groupama.com
 tr.qualite.groupebarriere.com
+tr.qualite.viparis.com
 tr.qualitevehicule.fr
 tr.qualityvehiclesurvey.com
 tr.quotes.digital
@@ -666,6 +668,7 @@ tr.tonerservices.fr
 tr.trafficnews.lyria.com
 tr.ujsv.espmp-agfr.net
 tr.uk.icicibank.com
+tr.uk.katun.com
 tr.unaoffertaalgiorno.com
 tr.update.groupon.be
 tr.urfk02v.espmp-cufr.net
