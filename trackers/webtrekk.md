@@ -49,7 +49,6 @@
     * 184874202187158.wt-eu02.net
     * 186015257614542.wt-eu02.net
     * 198101699966051.wt-eu02.net
-    * 208005830805862.wt-eu02.net
     * 215973748390194.wt-eu02.net
     * 227633596530844.wt-eu02.net
     * 229792913412288.wt-eu02.net
@@ -70,7 +69,6 @@
     * 318590743478915.wt-eu02.net
     * 329712103760415.wt-eu02.net
     * 341309604352055.wt-eu02.net
-    * 346715981768881.wt-eu02.net
     * 350258498646185.wt-eu02.net
     * 366003812072969.wt-eu02.net
     * 367128732629814.wt-eu02.net
@@ -103,9 +101,7 @@
     * 598189357306993.wt-eu02.net
     * 600483262075260.wt-eu02.net
     * 602849465568863.wt-eu02.net
-    * 611716061616237.wt-eu02.net
     * 625009642816718.wt-eu02.net
-    * 626892113650542.wt-eu02.net
     * 637394170883823.wt-eu02.net
     * 637511691483562.wt-eu02.net
     * 639871942536313.wt-eu02.net
@@ -128,7 +124,6 @@
     * 741723125859679.wt-eu02.net
     * 752542050590835.wt-eu02.net
     * 752828619977374.wt-eu02.net
-    * 753960264605716.wt-eu02.net
     * 757421535252818.wt-eu02.net
     * 762510246968705.wt-eu02.net
     * 792100555808051.wt-eu02.net
@@ -142,15 +137,12 @@
     * 849715076759606.wt-eu02.net
     * 865411762489824.wt-eu02.net
     * 893825625040746.wt-eu02.net
-    * 913854712272815.wt-eu02.net
-    * 915651380225350.wt-eu02.net
     * 927703597199732.wt-eu02.net
     * 949365393396887.wt-eu02.net
     * 958731023298385.wt-eu02.net
     * 964869656656022.wt-eu02.net
     * 965607891904117.wt-eu02.net
     * 969665527401678.wt-eu02.net
-    * 972067760041897.wt-eu02.net
     * 982429105360946.wt-eu02.net
     * 989502084988358.wt-eu02.net
     * 997311968670029.wt-eu02.net
@@ -171,7 +163,6 @@
     * emp01.wt-eu02.net
     * endresshauser01.wt-eu02.net
     * flaconi-at.wt-eu02.net
-    * gedidigital.wt-eu02.net
     * goertz-01.wt-eu02.net
     * hbbtv-track.wt-eu02.net
     * hornbach-02.wt-eu02.net
@@ -229,7 +220,6 @@
 | web.mapp.docpeter.it | 184874202187158.wt-eu02.net |
 | web.mapp.skousen.dk | 186015257614542.wt-eu02.net |
 | web.campaign.jaked.com | 198101699966051.wt-eu02.net |
-| census.misterspex.de | 208005830805862.wt-eu02.net |
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | web.collisionservices.com | 227633596530844.wt-eu02.net |
 | web.web.tomasiauto.com | 229792913412288.wt-eu02.net |
@@ -262,7 +252,6 @@
 | web.mailing.storz-bickel.com | 318590743478915.wt-eu02.net |
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
 | web.email.pragroup.co.uk | 341309604352055.wt-eu02.net |
-| census.misterspex.fi | 346715981768881.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
 | web.tummy-tox.com | 366003812072969.wt-eu02.net |
 | web.tummytox.de | 366003812072969.wt-eu02.net |
@@ -303,9 +292,7 @@
 | wbtrkk.teufelaudio.be | 598189357306993.wt-eu02.net |
 | web.mapp.tretti.se | 600483262075260.wt-eu02.net |
 | web.email.farrow-ball.com | 602849465568863.wt-eu02.net |
-| census.misterspex.es | 611716061616237.wt-eu02.net |
 | web.e.aldermore.co.uk | 625009642816718.wt-eu02.net |
-| census.misterspex.ch | 626892113650542.wt-eu02.net |
 | wbtrkk.teufelaudio.at | 637394170883823.wt-eu02.net |
 | web.news.pleasefashion.com | 637511691483562.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |
@@ -335,7 +322,6 @@
 | wt.dialog-versicherung.de | 752542050590835.wt-eu02.net |
 | wt.generalihealthsolutions.de | 752542050590835.wt-eu02.net |
 | wbtrkk.teufel.ch | 752828619977374.wt-eu02.net |
-| census.misterspex.nl | 753960264605716.wt-eu02.net |
 | web.sidsavage.com | 757421535252818.wt-eu02.net |
 | is.lg.com | 762510246968705.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
@@ -350,8 +336,6 @@
 | mit.deutsche-bank.de | 849715076759606.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
-| census.misterspex.fr | 913854712272815.wt-eu02.net |
-| census.misterspex.se | 915651380225350.wt-eu02.net |
 | count.bank99.at | 927703597199732.wt-eu02.net |
 | web.autobodytoolmart.com | 949365393396887.wt-eu02.net |
 | web.mapp.ilgiardinodeilibri.it | 958731023298385.wt-eu02.net |
@@ -360,7 +344,6 @@
 | mit.researchlog.dbresearch.com | 965607891904117.wt-eu02.net |
 | mit.researchlog.dbresearch.de | 965607891904117.wt-eu02.net |
 | abc.bayer04.de | 969665527401678.wt-eu02.net |
-| census.misterspex.co.uk | 972067760041897.wt-eu02.net |
 | dnsbl.test.wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
@@ -382,6 +365,7 @@
 | text.mitarbeiterangebote.de | cbm02.webtrekk.net |
 | text.benefitsatwork.be | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.ch | corporate-benefits.wt-eu02.net |
+| text.benefitsatwork.pt | corporate-benefits.wt-eu02.net |
 | text.convenzioniaziendali.it | corporate-benefits.wt-eu02.net |
 | text.mitarbeiterangebote.at | corporate-benefits.wt-eu02.net |
 | text.rahmenvereinbarungen.de | corporate-benefits.wt-eu02.net |
@@ -428,11 +412,11 @@
 | w3.flatex.at | flatex-at01.webtrekk.net |
 | w3.flatex.nl | flatex-at01.webtrekk.net |
 | w3.flatex.de | flatex-de01.webtrekk.net |
-| a.gedidigital.it | gedidigital.wt-eu02.net |
 | data.goertz.de | goertz-01.wt-eu02.net |
 | hbbtv-track.prosieben.de | hbbtv-track.wt-eu02.net |
 | prophet.heise.de | heise02.webtrekk.net |
 | da.hornbach.at | hornbach-02.wt-eu02.net |
+| da.hornbach.be | hornbach-02.wt-eu02.net |
 | da.hornbach.ch | hornbach-02.wt-eu02.net |
 | da.hornbach.cz | hornbach-02.wt-eu02.net |
 | da.hornbach.de | hornbach-02.wt-eu02.net |
@@ -442,6 +426,7 @@
 | da.hornbach.se | hornbach-02.wt-eu02.net |
 | da.hornbach.sk | hornbach-02.wt-eu02.net |
 | app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
+| img.foodspring.at | img-foodspring01.wt-eu02.net |
 | img.foodspring.de | img-foodspring01.wt-eu02.net |
 | img.foodspring.dk | img-foodspring01.wt-eu02.net |
 | img.foodspring.fr | img-foodspring01.wt-eu02.net |

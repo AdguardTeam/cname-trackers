@@ -153,6 +153,7 @@
     * 9ee2360d-hwfrjewf.cname.ebis.ne.jp
     * 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp
     * 9fc5109a-rgq6b9zp.cname.ebis.ne.jp
+    * a0550855-fbzwhcnp.cname.ebis.ne.jp
     * a0c6f4cd-wqcfddrl.cname.ebis.ne.jp
     * a0dd7a11-rrtv6uew.cname.ebis.ne.jp
     * a1f251c6-iksdytmu.cname.ebis.ne.jp
@@ -212,6 +213,7 @@
     * ced1998e-sj9u6ch7.cname.ebis.ne.jp
     * cf63b709-gczbzv7s.cname.ebis.ne.jp
     * d068b8a4-vcbmd5na.cname.ebis.ne.jp
+    * d0e14f0d-2tksbumw.cname.ebis.ne.jp
     * d15d1b36-j5hap6dz.cname.ebis.ne.jp
     * d1e4432d-tbf9k4fs.cname.ebis.ne.jp
     * d473741d-bagmsfc6.cname.ebis.ne.jp
@@ -400,6 +402,7 @@
 | ebis.aibashiro.jp | 9ee2360d-hwfrjewf.cname.ebis.ne.jp |
 | cname-adebis.nice2meet.us | 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp |
 | y8hxgv9m.kobetsu.co.jp | 9fc5109a-rgq6b9zp.cname.ebis.ne.jp |
+| cname-ade.shachihata.biz | a0550855-fbzwhcnp.cname.ebis.ne.jp |
 | ebis.hokensoudannavi.jp | a0c6f4cd-wqcfddrl.cname.ebis.ne.jp |
 | ebis.pasonatech.co.jp | a0dd7a11-rrtv6uew.cname.ebis.ne.jp |
 | test-ad.lucia-c.com | a1f251c6-iksdytmu.cname.ebis.ne.jp |
@@ -459,6 +462,7 @@
 | ad.tempstaff.co.jp | ced1998e-sj9u6ch7.cname.ebis.ne.jp |
 | ebis.macchialabel.com | cf63b709-gczbzv7s.cname.ebis.ne.jp |
 | ebis.delis.co.jp | d068b8a4-vcbmd5na.cname.ebis.ne.jp |
+| cname.mitsuihome.co.jp | d0e14f0d-2tksbumw.cname.ebis.ne.jp |
 | ebis.sunstar-shop.jp | d15d1b36-j5hap6dz.cname.ebis.ne.jp |
 | adebis.kaonavi.jp | d1e4432d-tbf9k4fs.cname.ebis.ne.jp |
 | adebis.real-style.co.jp | d473741d-bagmsfc6.cname.ebis.ne.jp |

@@ -36,21 +36,21 @@
 ||a.bloblohub.com^
 ||a.boyjackpot.com^
 ||a.cashjma.com^
+||a.descsau.ml^
 ||a.digitalgiftshopping.com^
 ||a.dorkim.club^
-||a.dphunters.me^
 ||a.emwstore.xyz^
 ||a.epicgoo.com^
 ||a.fapcat.com^
 ||a.fapster.xxx^
 ||a.focusde.info^
 ||a.fuckamouth.com^
-||a.gofilms4u.pro^
 ||a.hentai369.com^
 ||a.hentaitube.icu^
 ||a.hubhubhub.name^
 ||a.kagiti.club^
 ||a.katomu.club^
+||a.letsjerk.cc^
 ||a.letsjerk.org^
 ||a.letsjerk.to^
 ||a.letsjerk.tv^
@@ -100,7 +100,6 @@
 ||ads.saplacikardepo.xyz^
 ||ads.tabuflix.com^
 ||ads.xmov.net^
-||ads.xn--mgbkt9eckr.net^
 ||ads.xxxleaks.cc^
 ||adsnot.1javguru.xyz^
 ||adsnot.1supjav.xyz^
@@ -161,6 +160,7 @@
 ||audi.lol^
 ||av5.mofoshd.org^
 ||awrfds3.pornpapa.com^
+||ax4.xmoviesland.com^
 ||b.bloblohub.com^
 ||b.comihon.com^
 ||b.filexan.com^
@@ -295,12 +295,14 @@
 ||hub.bazboy.club^
 ||huckeyz.lol^
 ||hunjoinz.pics^
+||hx1.tubepornbase.com^
 ||i.anime22.net^
 ||i.hqvrporn.net^
 ||iez.jojome.xyz^
 ||imbdemfjjduu.cdnvideo3.com^
 ||in.fuckhardclips.com^
 ||io.fapnado.com^
+||ix2.deepsexvids.com^
 ||j45.webringporn.com^
 ||jikyjuu6.xsuffer.com^
 ||jira.xsuffer.com^
@@ -321,6 +323,7 @@
 ||kingtus.pics^
 ||kliqz.com^
 ||kuhdsysdas.indexsubtitle.com^
+||kx4.firstsexfilm.com^
 ||larasub.conxxx.pro^
 ||lc1982.lol^
 ||leefang.lol^
@@ -337,6 +340,7 @@
 ||lol.globlax.com^
 ||look.bookies.lol^
 ||lovelybingo.com^
+||lx5.homeporntuber.com^
 ||m.x-power.info^
 ||m.xrum.info^
 ||maizour.mom^
@@ -364,6 +368,8 @@
 ||nice.tranny.one^
 ||nodawzua.mom^
 ||nonekvoi.skin^
+||nope.addhentai.com^
+||nope.sexaoy.com^
 ||nope.xn--mgbkt9eckr.net^
 ||notads.111javguru.xyz^
 ||notads.111supjav.xyz^
@@ -387,6 +393,7 @@
 ||ontj.com^
 ||orderz.lol^
 ||outallin.mom^
+||ox8.topsexhdvideos.com^
 ||p.focusde.info^
 ||p123p.com^
 ||p1t.clipnuke.com^
@@ -429,6 +436,7 @@
 ||qhip.com^
 ||qoqv.com^
 ||quaz.viaoz.xyz^
+||qx0.xnxxtubevideos.com^
 ||ramosz.lol^
 ||redi.teengirl-pics.com^
 ||riya.stke.xyz^
@@ -484,6 +492,7 @@
 ||talamk3.beauty^
 ||taoviep.mom^
 ||tb.turbocap.net^
+||tempro.lol^
 ||test2.maxx.ddac.ru^
 ||testcommon.soundrussian.com^
 ||tetra.xsuffer.com^
@@ -517,6 +526,7 @@
 ||vd.7vid.net^
 ||video.jokanime.online^
 ||vsx.hotpornfile.org^
+||vtaov.lol^
 ||vuiaki.mom^
 ||vuvlog.lol^
 ||vz.7vid.net^
@@ -561,7 +571,6 @@
 ||zazu.vtube.to^
 ||zeenite.online^
 ||zone.stripcam.tv^
-||zzz.pissrip.net^
 !
 ! cdn66584302.blazingcdn.net disguised trackers
 !
@@ -569,6 +578,4 @@
 !
 ! u53.hypnorat.com disguised trackers
 !
-||h-ay.com^
 ||ontj.com^
-||qoqv.com^

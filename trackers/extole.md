@@ -8,10 +8,13 @@
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
+    * aol.extole.com
+    * backcountry.extole.com
     * barenecessities.extole.com
     * basictalk-ssl.extole.com
     * beautisol.extole.com
     * bookbyte.extole.com
+    * calstate-aaa.extole.com
     * catalogspree-ssl.extole.com
     * checkngo.extole.com
     * clearme-ssl.extole.com
@@ -72,7 +75,6 @@
     * ulta.extole.com
     * unionprivilege-ssl.extole.com
     * verabradley.extole.com
-    * vimeo.extole.com
     * vistaprint-ssl.extole.com
     * volcom.extole.com
     * vonage.extole.com
@@ -82,10 +84,13 @@
     * worldmarket.extole.com
 * extole.io
     * 100xequine.extole.io
+    * 1800contacts.extole.io
     * 2-10.extole.io
     * 2ndswing.extole.io
     * 4patriots.extole.io
     * 4wheelparts.extole.io
+    * abacusnext.extole.io
+    * acornonline.extole.io
     * acorns.extole.io
     * advanceamerica.extole.io
     * affinityfcu.extole.io
@@ -106,6 +111,7 @@
     * aveda-ca.extole.io
     * aveda.extole.io
     * ballarddesigns.extole.io
+    * banana-republic.extole.io
     * bare-escentuals.extole.io
     * bareminerals-france.extole.io
     * baremineralsuk.extole.io
@@ -126,6 +132,7 @@
     * brook-furniture-rental.extole.io
     * brunette-the-label.extole.io
     * bulova.extole.io
+    * bumble-and-bumble-uk.extole.io
     * bumble-and-bumble.extole.io
     * burts-bees.extole.io
     * buttah-skin.extole.io
@@ -173,6 +180,7 @@
     * dutch.extole.io
     * ea.extole.io
     * embrace-pet-insurance.extole.io
+    * empire-today.extole.io
     * eset.extole.io
     * esteelauder-au.extole.io
     * esteelauder.extole.io
@@ -204,11 +212,14 @@
     * glamglow.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
+    * guess.extole.io
     * hair.extole.io
     * hanacure.extole.io
+    * harley.extole.io
     * harryrosen.extole.io
     * henri-bendel.extole.io
     * hicapitalize.extole.io
@@ -239,6 +250,7 @@
     * la-roche-posay.extole.io
     * lab-series.extole.io
     * lane-bryant.extole.io
+    * lark-health.extole.io
     * lasenza.extole.io
     * laura-mercier.extole.io
     * layla-sleep.extole.io
@@ -284,6 +296,7 @@
     * policygenius.extole.io
     * popcorn-factory.extole.io
     * princess.extole.io
+    * princessuk.extole.io
     * prokeds.extole.io
     * promofarma.extole.io
     * propark.extole.io
@@ -339,6 +352,7 @@
     * terijon.extole.io
     * the-childrens-place.extole.io
     * the-company-store.extole.io
+    * the-inside.extole.io
     * theory.extole.io
     * thesculptsociety.extole.io
     * thewildest.extole.io
@@ -354,6 +368,7 @@
     * under-armour-3.extole.io
     * under-armour-4.extole.io
     * uniqlo.extole.io
+    * united.extole.io
     * vayasleep.extole.io
     * veo.extole.io
     * veritycu.extole.io
@@ -386,11 +401,14 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | share.100xequine.com | 100xequine.extole.io |
+| refer.1800contacts.com | 1800contacts.extole.io |
 | refer.2-10.com | 2-10.extole.io |
 | refer.2ndswing.com | 2ndswing.extole.io |
 | share.4patriots.com | 4patriots.extole.io |
 | share.4wheelparts.com | 4wheelparts.extole.io |
 | refer.aaas.org | aaas-ssl.extole.com |
+| refer.abacusnext.com | abacusnext.extole.io |
+| refer.acornonline.com | acornonline.extole.io |
 | share.acorns.com | acorns.extole.io |
 | share.advanceamerica.net | advanceamerica.extole.io |
 | share.affinityfcu.org | affinityfcu.extole.io |
@@ -407,6 +425,7 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
+| refer.aol.com | aol.extole.com |
 | share.aplaceformom.com | aplaceformom.extole.io |
 | refer.art.com | artcom.extole.io |
 | refer.ashleyfurniture.com | ashleyfurniturehomestore.extole.io |
@@ -417,7 +436,9 @@
 | share.aveda.com.au | aveda-au.extole.io |
 | share.refer-aveda.ca | aveda-ca.extole.io |
 | share.refer-aveda.com | aveda.extole.io |
+| refer.backcountry.com | backcountry.extole.com |
 | refer.ballarddesigns.com | ballarddesigns.extole.io |
+| refer.bananarepublic.com | banana-republic.extole.io |
 | refer.bareminerals.com | bare-escentuals.extole.io |
 | refer.bareminerals.fr | bareminerals-france.extole.io |
 | refer.bareminerals.uk | baremineralsuk.extole.io |
@@ -449,12 +470,14 @@
 | refer.bfr.com | brook-furniture-rental.extole.io |
 | share.brunettethelabel.com | brunette-the-label.extole.io |
 | refer.bulova.com | bulova.extole.io |
+| share.refer-bumbleandbumble.co.uk | bumble-and-bumble-uk.extole.io |
 | share.refer-bumbleandbumble.com | bumble-and-bumble.extole.io |
 | refer.burtsbees.com | burts-bees.extole.io |
 | share.buttahskin.com | buttah-skin.extole.io |
 | refer.cspire.com | c-spire.extole.io |
 | refer.caavo.com | caavo.extole.io |
 | refer.calo.app | calo.extole.io |
+| refer.calstate.aaa.com | calstate-aaa.extole.com |
 | share.calvinklein.us | calvinklein.extole.io |
 | share.carparts.com | carpartscom.extole.io |
 | share.catalogspree.com | catalogspree-ssl.extole.com |
@@ -509,6 +532,7 @@
 | refer.ea.com | ea.extole.io |
 | friend.ebags.com | ebags.extole.com |
 | refer.embracepetinsurance.com | embrace-pet-insurance.extole.io |
+| refer.empiretoday.com | empire-today.extole.io |
 | refer.eset.com | eset.extole.io |
 | share.esteelauder.com.au | esteelauder-au.extole.io |
 | share.esteelauder.com.tw | esteelauder.extole.io |
@@ -521,6 +545,7 @@
 | share.figopetinsurance.com | figo-pet-insurance.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |
 | refer.fahw.com | first-american-home-warranty.extole.io |
+| share.firstleaf.club | firstleaf.extole.io |
 | share.firstleaf.com | firstleaf.extole.io |
 | refer.firstrepublic.com | firstrepublic.extole.io |
 | refer.framesdirect.com | framesdirect.extole.com |
@@ -534,6 +559,7 @@
 | share.delawareonline.com | gannett.extole.io |
 | share.detroitnews.com | gannett.extole.io |
 | share.enterprisenews.com | gannett.extole.io |
+| share.poughkeepsiejournal.com | gannett.extole.io |
 | share.tallahassee.com | gannett.extole.io |
 | share.tcpalm.com | gannett.extole.io |
 | share.usatoday.com | gannett.extole.io |
@@ -549,15 +575,18 @@
 | refer.glamglow.com | glamglow.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.greatwesternbank.com | greatwesternbank.extole.io |
 | share.greenlight.com | greenlightcard.extole.io |
 | share.greenlightcard.com | greenlightcard.extole.io |
 | refer.greenvilleonline.com | greenvilleonline.extole.com |
+| referafriend.guess.com | guess.extole.io |
 | refer.hair.com | hair.extole.io |
 | share.hanacure.com | hanacure.extole.io |
 | refer.hannaandersson.com | hannaandersson.extole.com |
 | refer.harimari.com | harimari.extole.com |
+| refer.harley-davidsonfootwear.com | harley.extole.io |
 | refer.harryrosen.com | harryrosen.extole.io |
 | refer.healthypawspetinsurance.com | healthypaws.extole.com |
 | refer.henribendel.com | henri-bendel.extole.io |
@@ -601,6 +630,7 @@
 | refer.laroche-posay.us | la-roche-posay.extole.io |
 | refer.labseries.com | lab-series.extole.io |
 | refer.cacique.com | lane-bryant.extole.io |
+| share.lark.com | lark-health.extole.io |
 | refer.lasenza.ca | lasenza.extole.io |
 | refer.lasenza.com | lasenza.extole.io |
 | refer.lauramercier.com | laura-mercier.extole.io |
@@ -663,6 +693,7 @@
 | share.policygenius.com | policygenius.extole.io |
 | refer.thepopcornfactory.com | popcorn-factory.extole.io |
 | share.princess.com | princess.extole.io |
+| share-uk.princess.com | princessuk.extole.io |
 | refer.prokeds.com | prokeds.extole.io |
 | share.docmorris.fr | promofarma.extole.io |
 | share.promofarma.com | promofarma.extole.io |
@@ -741,6 +772,7 @@
 | refer.gymboree.com | the-childrens-place.extole.io |
 | refer.sugarandjade.com | the-childrens-place.extole.io |
 | refer.thecompanystore.com | the-company-store.extole.io |
+| refer.theinside.com | the-inside.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
@@ -765,13 +797,13 @@
 | refer.underarmour.fr | under-armour-4.extole.io |
 | refer.unionplus.org | unionprivilege-ssl.extole.com |
 | refer-us.uniqlo.com | uniqlo.extole.io |
+| share.united.net | united.extole.io |
 | refer.vayasleep.com | vayasleep.extole.io |
 | share.veo.co | veo.extole.io |
 | refer.verabradley.com | verabradley.extole.com |
 | share.veritycu.com | veritycu.extole.io |
 | share.vichyusa.com | vichy.extole.io |
 | share-us.viktor-rolf.com | viktor-rolf.extole.io |
-| share.vimeo.com | vimeo.extole.com |
 | referrals.visionsfcu.org | visions.extole.io |
 | referral.vistaprint.com | vistaprint-ssl.extole.com |
 | refer.volcom.com | volcom.extole.com |

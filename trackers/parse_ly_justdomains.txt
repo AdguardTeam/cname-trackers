@@ -15,3 +15,5 @@ fpa-events.blog.parse.ly
 fpa-events.decrypt.co
 fpa-events.parse.ly
 fpa-events.slate.com
+image.undsslearnin.org
+vo.ashgabat.fun

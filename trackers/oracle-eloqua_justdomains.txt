@@ -8,13 +8,18 @@ eloqua-tracking.unity.com
 eloqua-tracking.unity3d.com
 eloquatrack.kistler.com
 elq.xperthr.nl
-elqtrk.morningstar.hk
+elqview2.uclahealth.org
+form.newscatalanaoccidente.com
 fpc.acponline.org
+info.lexisnexis.com.sg
+prod.tracking.refinitiv.com
 stat.dbschenker.com
 t.goduke.com
-t.gogriz.com
 t.goheels.com
+t.gopoly.com
 t.gotigersgo.com
+t.griztix.umt.edu
+t.hawaiiathletics.com
 t.meangreensports.com
 t.nevadawolfpack.com
 t.nusports.com
@@ -23,34 +28,29 @@ track.intostudy.com
 tracking.lseg.com
 tracking.mathworks.com
 tracking.mjbizdaily.com
+trc.solution.resonac.com
 trk.arozone.com
 trk.becel.ca
 trk.becel.com
 trk.blueband.com
+trk.brummelandbrown.com
 trk.championairtech.com
-trk.contact.umpquabank.com
-trk.countrycrock.com
-trk.event.eset.com
 trk.flora.com
-trk.futureelectronics.cn
+trk.futureelectronics.com
 trk.gardnerdenver.com
-trk.go.fhlbny.com
-trk.haskel.com
-trk.hibon.com
-trk.icantbelieveitsnotbutter.com
 trk.ingersollrand.com
-trk.irco.com
 trk.miltonroy.com
 trk.pro-activ.com
+trk.seepex.com
 trk.solo.be
-trk.thomaspumps.com
 trk.wellsfargocenterphilly.com
-view.centria.com
+view.americanbuildings.com
 #
 # now.eloqua.com disguised trackers
 #
 10tips.astadia.com
 act.firstdata.com
+ahima.coniferhealth.com
 alerts.ironmountain.com
 alerts.wolterskluwerfs.com
 alternativetechnology.arrow.com
@@ -81,6 +81,7 @@ app.elqmailings.qnx.com
 app.email.fitchratings.com
 app.email.forrester.com
 app.enable.atmel.com
+app.engineering.sae.org
 app.go.bmc.com
 app.go.buccaneers.com
 app.go.emersonprocess.com
@@ -94,32 +95,42 @@ app.go.nitropdf.com
 app.go.sitel.com
 app.go.xo.com
 app.goto.dowjones.com
+app.green.omniture.com
+app.info.accelus.thomsonreuters.biz
 app.info.actuate.com
 app.info.americanpublicmediagroup.org
 app.info.aviationweek.com
 app.info.avid.com
+app.info.fidelity.com
 app.info.fishersci.com
 app.info.jdpa.com
 app.info.markit.com
+app.info.polycom.com
 app.info.quark.com
 app.info.standardandpoors.com
 app.info.tiaa-cref.org
+app.info.trinet.com
 app.info.truvenhealth.biz
 app.info.ubmchannel.com
 app.info3.thermoscientific.com
 app.inform.equifax.com
 app.insight.cision.com
 app.insight.thompson.com
+app.lacr.motorolasolutions.com
 app.leadership.kenblanchard.com
 app.learn.datafoundry.com
 app.learn.goldenfrog.com
+app.learn.mindjet.com
 app.learn.rasmussen.edu
 app.mail.mfg.macquarie.com
 app.mailings.erepublic.com
+app.merchant.bankofamerica.com
 app.message.asce.org
+app.messages.sonicwall.com
 app.mk.westernunion.com
 app.news.zend.com
 app.now.blackbox.com
+app.online.microfocus.com
 app.owners.hilton.com
 app.payments.53.com
 app.post.vertafore.com
@@ -127,13 +138,17 @@ app.qnasdaqomx.com
 app.ratingsinfo.standardandpoors.com
 app.recruit.caterermail.com
 app.resources.netiq.com
+app.respond.aonhewitt.com
 app.response.adobesystemsinc.com
 app.response.arkadin.com
 app.response.att-mail.com
 app.response.blackbaud.com
 app.response.cetera.com
 app.response.dell.com
-app.response.integratelecom.com
+app.response.intergraph.com
+app.response.jacksonhealthcare.com
+app.response.kroll.com
+app.response.markem-imaje.com
 app.response.ncr.com
 app.response.stratfor.com
 app.response.transplace.com
@@ -141,18 +156,23 @@ app.results.chronicle.com
 app.sbas.sage.com
 app.siemensplmevents.com
 app.snssecure.mcafee.com
+app.success.coniferhealth.com
 app.suse.com
 app.tableausoftware.com
 app.uk.partner.equifax.com
 app.update.vodafone.co.uk
 app.www-102.aig.com
+app.your.level3.com
 app.zmail.zionsbank.com
 application.rasmussen.edu
 application.taleo.com
+as.balluff.com
 awst.aviationweek.com
 bbbb.blackboard.com
 beyond.bluewolf.com
 blackbook.coniferhealth.com
+bnk.wolterskluwerfs.com
+bpm.global360.com
 campaign.rockwellautomation.com
 campaigns-de.opentext.com
 careers.coniferhealth.com
@@ -166,6 +186,7 @@ collaborate.blackboard.com
 collections.equifax.com
 commercial.equifax.com
 commercial.inform.equifax.com
+compliance.coniferhealth.com
 confirm.aon.com
 connect.compellent.com
 connect.xo.com
@@ -174,6 +195,7 @@ consumer.equifax.com
 consumer.inform.equifax.com
 contactecs.arrow.com
 content.bazaarvoice.com
+content.box.net
 content.convio.com
 content.nxp.com
 content.rackspace.co.uk
@@ -203,110 +225,98 @@ e.gettyimages.nl
 e.gettyimages.pt
 ebook.altudo.co
 elqforms.qnx.com
-email.softwareag.com
-encompassreport.elliemae.com
-engage.jboss.com
-erptruth.kronos.com
-etscampaign.motorola.com
-eu.ironmountain.com
-event.standardandpoors.com
-event2.thermoscientific.com
 events.centex.com
-events.coniferhealth.com
-events.elliemae.com
+events.verticurl.com
+experience.maritzmotivation.com
 featured.bradyid.com
-foodbrochure.advancedtech.com
-form.harvardbusiness.org
+fme.safe.com
 form.vocalink.com
 forms.bradyid.com
 forms.capitaliq.com
+forms.irdeto.com
 forms.nexsan.com
 forms.uplogix.com
+forms.verisigninc.com
 frostnsullivan.advancedtech.com
+future.coniferhealth.com
 futureofhealthcare.coniferhealth.com
 getconnected.infor.com
-go.mashery.com
-hptechnology.arrow.com
-i-ready.curriculumassociates.com
-ibmtechnology.arrow.com
-images.connect.mandiant.com
+go.cvmsolutions.com
+go.digitalinsurance.com
+images.qumu.com
+info.coade.com
+info.commvault.com
 info.compucom.com
-info.kace.com
+info.cornerstoneondemand.com
+info.elliemae.com
 info.lansa.com
-info.ohlogistics.com
-info.protiviti.com.sg
-info.scene7.com
-info.smartcommunications.com
-info.verint.com
-ins.wolterskluwerfs.com
-insight.velocify.com
-insights.att.com
-insurance.velocify.com
-isbworld.aon.com
-learn.blackboard.com
-marketing.adaptiveplanning.com
-marketresearch.jacksonhealthcare.com
-meet.intercall.com
+info.mdsol.com
+insight.aon.com
+interest.truvenhealth.com
+link.global.amd.com
+links.go.shoretel.com
+lp.swisspostsolutions.com
 mexico.balluff.com
 microsite.standardandpoors.com
-mobileexpo.ni.com
-mon.xactware.com
-mortgage.equifax.com
+mobile.vmware.com
+moodlerooms.blackboard.com
+mortgage.velocify.com
 ms1.morganstanley.com
-my.wisdomtree.com
 my.xactware.com
-mypreferences.ironmountain.com
-mysite.webroot.com
-networkingexchange.att.com
-networks.balluff.com
+ndi.nuance.com
+networkprotection.mcafee.com
 nidays.switzerland.ni.com
 now.ventyx.com
+oracletechnology.arrow.com
+outsource.sitel.com
 pages.conductor.com
+pci.aon.com
+profit.edc.ca
 programs.mellanox.com
+promotions.centex.com
+promotions.eq.pulte.com
 property.aon.com
-resources.ventyx.com
-resources.xo.com
-response.catererglobal.com
+resources.rockwellautomation.com
+resources.vovici.com
 response.marketone.com
-response.nxp.com
-response.operative.com
 response.polycom.com
-response.retailchoice.com
-rh.adp.ca
+response.reversepartner.genworth.com
 rims.aig.com
 sec.wolterskluwerfs.com
 sensors.balluff.com
 services.edc.ca
-solutions.redwingshoes.com
-solutions.stratus.com
-storagetechnology.arrow.com
-subscriptionsbnk.wolterskluwerfs.com
-survey.coniferhealth.com
+solutions.adp.ca
+subscriptions.bazaarvoice.com
+subscriptionssec.wolterskluwerfs.com
 tdbrochure.advancedtech.com
+testforms.fidelity.ca
 tips.astadia.com
 tlm.adp.ca
 training.thunderhead.com
+trust.astadia.com
+videos.adp.ca
 vip.granicus.com
 web.ness.com
+web3.perkinelmer.com
 web7.perkinelmer.com
 webcasts.zycus.com
 webinars.att.com
 webinars.blackboard.com
 webinars.elliemae.com
 webinars.monster.com
+whatif.it.adobe.com
+whitepapers.blackboard.com
 whitepapers.rockwellautomation.com
 workforce-optimization.insperity.com
 www-102.aig.com
 www-103.aig.com
 www-108.aig.com
-www.happyholidays.coniferhealth.com
-www.heatexperience.com
-www.hp.mediarolls.com
+www-110.aig.com
+www.conres2.com
+www.hasslefree.redwingshoes.com
 www.resources.att.com
 www.save.adp.ca
-www.subscriptions.nokiasiemensnetworks.com
 www.videos.adp.ca
-yield.coniferhealth.com
 #
 # p06g.hs.eloqua.com disguised trackers
 #
@@ -322,13 +332,19 @@ content.welovecinema.bnpparibas
 curious.cognyte.com
 discover.clarivate.com
 elq-lantern.ruggedsolution.getac.com
-events.glory-global.com
 go.century21.fr
+join.pharmapackeurope.com
+kampanjat.atea.fi
 logistics.dbschenker.com
-lp.svenskapostkodlotteriet.se
 medion.interamerican.gr
+myevents.thalesgroup.com
 myfeed.thalesgroup.com
+news.dbschenker.com
+solutions.dbschenker.com
+t.thalesgroup.com
+track.postkodlotteriet.se
 tracking.americas.business.samsung.com
+tracking.atea.fi
 tracking.businessdirect.bt.com
 tracking.clarivate.com
 tracking.service.cz.nl
@@ -339,11 +355,14 @@ tracking.stihl.fr
 tracking.stihl.lu
 tracking.stihl.nl
 tracking.stihl.pt
+www.b2bmarketing.swisscom.ch
 www.service.cz.nl
+www.zakelijk.cz.nl
 #
 # p01i.hs.eloqua.com disguised trackers
 #
 aarpannuity.newyorklife.com
+aarpfda.newyorklife.com
 aarpgfi.newyorklife.com
 amer.juniper.net
 apac.juniper.net
@@ -351,26 +370,26 @@ content.juniper.net
 dhlsupplychain.dhl.com
 discover.harvardbusiness.org
 elqtracking.medidata.com
-event3.thermofisher.com
-event3.thermoscientific.com
 info.cybersource.com
 info3.thermofisher.com
+ins.leavitt.com
 insights.harvardbusiness.org
 lfn.lfg.com
-marketing.dhlsupplychain.dhl.com
 partnersuccess.cisco.com
 partnersuccessmetrics.cisco.com
-resources-it.opentext.com
 resources.opentext.com
 resources.opentext.fr
-responsemp.civica.com
 secureforms.xperthr.com
 track.abrdn.com
+track.financialfairness.org.uk
 track.invtrusts.co.uk
-track.murray-intl.co.uk
-track.ukcpreit.com
-trk.specialevents.com
+trk.meetingsnet.com
 visit.hypertherm.com
+#
+# s983435340.hs.eloqua.com disguised trackers
+#
+aarpannuity.newyorklife.com
+aarpfda.newyorklife.com
 #
 # p03e.hs.eloqua.com disguised trackers
 #
@@ -388,35 +407,29 @@ atencion.banrural.com.gt
 business.samsungusa.com
 ca.mattamyhomes.com
 corporate.mattamyhomes.com
-email-em.jll.co.uk
-email-em.jll.com.br
-email-em.jll.de
-email-em.jll.fr
-email-em.joneslanglasalle.co.jp
 engage-emea.jll.com
-healthcare.oakstreethealth.com
+info.dfinsolutions.com
 info.edb.gov.sg
 info.invacare.co.nz
-info.metronetinc.com
 latam.thomsonreuters.com
 lp-eq.mitsuichemicals.com
-mkt.consultdss.com
-secure.fortinet.com
+mat.lgdisplay.com
+solutions.covance.com
 t.cincinnatiarts.org
 t.gohuskies.com
+t.gojacks.com
 t.miamihurricanes.com
 t.okstate.com
 t.rolltide.com
-t.ticketatlantic.com
+t.vucommodores.com
 track.info.mcknights.com
 track.info.mcknightsseniorliving.com
-tracking.dfinsolutions.com
+tracking.adtran.com
 tracking.edb.gov.sg
 tracking.graduateschool.edu
 tracking.learn.oakstreethealth.com
 trk.metronet.com
 trk.metronetbusiness.com
-visit.oakstreethealth.com
 #
 # p01a.hs.eloqua.com disguised trackers
 #
@@ -426,15 +439,20 @@ connect.acspubs.org
 devtracking.risk.lexisnexis.com
 education.moodybible.org
 eformsonboarding.globalbanking.wolterskluwer.com
+eloqua.emdmillipore.com
 eloqua.sigmaaldrich.com
 eloqua.talktalkbusiness.co.uk
 feedback.avigilon.com
 fpc.avigilon.com
+fpc.indigovision.com
+fpc.pelco.com
 globalbanking.wolterskluwer.com
 go.blackboard.com
-info.avigilon.com
 insurance.alliant.com
-learn.anthology.com
+markets.eclerx.com
+myfuture.futureelectronics.com
+pages.indigovision.com
+pages.pelco.com
 pubstr.acs.org
 pubstr.chemrxiv.org
 securecookies.dustin.dk
@@ -457,7 +475,10 @@ securecookiesdustininfo.dustinhome.fi
 securecookiesdustininfo.dustinhome.nl
 securecookiesdustininfo.dustinhome.no
 securecookiesdustininfo.dustinhome.se
+services.eclerx.com
 technology.informaengage.com
+tracking.blackboard.com
+trk.afcom.com
 trk.amperecomputing.com
 trk.channelfutures.com
 trk.datacenterknowledge.com
@@ -466,34 +487,33 @@ trk.iotworldtoday.com
 trk.itprotoday.com
 trk.wealthmanagement.com
 trk.webhostingtalk.com
-trk01.informaconnect.com
 #
 # p01d.hs.eloqua.com disguised trackers
 #
 access.sunpower.com
+cm.informaengage.com
 communications.embarcadero.com
 content.eaton.com
 cookietracking.eatonpowersource.com
-elqtrk.rsmcanada.com
-engage.marketone.com
+cyber.boozallen.com
+events.lexmark.com
 get.kronos.com
 get.ukg.ca
+get.ukg.com.au
 get.ukg.mx
+go.fhlbny.com
 go.l-com.com
 info.boozallen.com
-knowledge.bgrs.com
 lp.embarcadero.com
-sandboxeformsonboarding.globalbanking.wolterskluwer.com
+missions.boozallen.com
+pgs.farmprogress.com
 securetracking.eaton.com
-tracking.corelogic.com
-trk.americancityandcounty.com
+tracking.laurelsprings.com
 trk.beefmagazine.com
 trk.farmprogress.com
-trk.feedstuffs.com
-trk.huskerharvestdays.com
+trk.iwceexpo.com
 trk.nationalhogfarmer.com
-trk.urgentcomm.com
-www.scienceaaas.org
+www.get.ukg.com
 #
 # p01k.hs.eloqua.com disguised trackers
 #
@@ -504,16 +524,15 @@ acq-sg.americanexpress.com
 advantages.americanexpress.com
 agexpo.americanexpress.com
 alertsatwork.americanexpress.com
+app.innovation.nuance.com
 auforex.americanexpress.com
 business-cards.americanexpress.com
 businessaffiliate.americanexpress.com
 campaigns.engage.cebglobal.com
-channel.arubanetworks.com
 cm-in.americanexpress.com
 cm-sg.americanexpress.com
 comm.toro.com
 conf.optum.com
-connect.arkadin.com
 consult.americanexpress.com
 contactforms.53.com
 cookies.engage.russellinvestments.com
@@ -523,40 +542,33 @@ demandgen.ptc.com
 e.beckmancoulter.com
 elq.sonicwall.com
 elqtrk.cn.morningstar.com
+elqtrk.hk.morningstar.com
 elqtrk.morningstar.com
-elqtrk.morningstar.com.au
-elqtrk.sg.morningstar.com
+elqtrk.my.morningstar.com
 email-tw.americanexpress.com
+event.shl.com
 events.engage.cebglobal.com
-events.splunk.com
-fxipreferral.americanexpress.com
-get.docusign.com
 globaleloqua.americanexpress.com
-go.morningstar.com
-go2.kofax.com
-insight.optum.com
-internationalpayments.americanexpress.com
-mail.dolce-gusto.co.kr
+lewin.optum.com
+mail.dolce-gusto.cl
+mail.dolce-gusto.gr
 mail.dolce-gusto.pt
-message.sonicwall.com
+mail.dolce-gusto.ro
 metricsinfo.edc.ca
-mypa-in-prop.americanexpress.com
-mypa-sg-prop.americanexpress.com
 nbg.seagate.com
-news.swisspostsolutions.com
-optumcoding.optum.com
-owp-sg-prop.americanexpress.com
 pages.washingtoncaps.com
 response.splunk.com
 secureinfo.edc.ca
-simpletopay.americanexpress.com
+sgforex.americanexpress.com
 track.docusign.co.uk
 track.docusign.com
 track.docusign.com.br
 track.docusign.com.es
 track.docusign.de
 track.docusign.fr
+track.docusign.jp
 track.docusign.mx
+tracking.igloosoftware.com
 tracking.prophix.com
 tracking.ptc.com
 tracking.shl.com
@@ -565,7 +577,6 @@ trk.aircharterguide.com
 trk.aviationweek.com
 trk.food-management.com
 trk.nrn.com
-trk.optum.com
 trk.restaurant-hospitality.com
 trk.routesonline.com
 trk.supermarketnews.com
@@ -573,13 +584,9 @@ trk.supermarketnews.com
 # s1705637988.hs.eloqua.com disguised trackers
 #
 acq-hk.americanexpress.com
-acq-jp.americanexpress.com
-advantages.americanexpress.com
-agexpo.americanexpress.com
-fxipreferral.americanexpress.com
-internationalpayments.americanexpress.com
-mypa-in-prop.americanexpress.com
-owp-sg-prop.americanexpress.com
+corporateforms.americanexpress.com
+email-tw.americanexpress.com
+sgforex.americanexpress.com
 #
 # p01j.hs.eloqua.com disguised trackers
 #
@@ -590,23 +597,34 @@ connectfpc.zebra.com
 cookie.solutions.desertfinancial.com
 discover.aptly.de
 go.comcastspectacor.com
-info.rcgt.com
-my.verisk.com
-response.xactware.com
 secure.sw.broadcom.com
-shelter.dupont.com
-solutions.desertfinancial.com
-tracking.air-worldwide.com
 tracking.bradyid.com
 tracking.flukecal.com
 tracking.info.rcgt.com
-tracking.kubota.ca
 tracking.verisk.com
 trk.wardsauto.com
-w4.air-worldwide.com
+trust.zebra.com
+w3.air-worldwide.com
 www-105.aig.com
 www-107.aig.com
-www.safety.dupont.com
+#
+# p06c.hs.eloqua.com disguised trackers
+#
+actie.athlon.com
+autovista-fi.autovistagroup.com
+autovista-se.autovistagroup.com
+plbusiness.samsung.com
+service.athlon.com
+stat.liaisons-sociales.fr
+tracking.athlon.com
+tracking.europe.business.samsung.com
+yourporsche.nabooda-auto.com
+#
+# s376572143.hs.eloqua.com disguised trackers
+#
+actie.athlon.com
+service.athlon.com
+tracking.athlon.com
 #
 # p06i.hs.eloqua.com disguised trackers
 #
@@ -623,37 +641,97 @@ efficiency.visma.dk
 efficiency.visma.fi
 efficiency.visma.lv
 efficiency.visma.se
-event.dnvgl.com
-go.cf.labanquepostale.fr
 go.visma.com
-info.aldcarmarket.com
-links.commercialemails.lloydsbank.com
-lps-info.arval.com
-marketingpro.euromaster.fr
-register.dnv.com
+news.communications-rmngp.fr
+pages.visitdubai.com
 site.connect.mydrreddys.com
+subscribe.dnvgl.com
 suunta.visma.fi
 tracking.dataloen.dk
-tracking.digitalbooker.com
 tracking.drreddys.com
 tracking.exso.no
-tracking.particuliers.engie.fr
-tracking.teho.visma.fi
 tracking.visitdubai.com
 tracking.visma.com
-tracking.visma.net
+tracking.visma.dk
+tracking.visma.lv
 tracking.visma.no
 tracking.vismaraet.nl
-tracking2.cigna.com.tw
-tracks1.ferrari.com
 trk.cf.labanquepostale.fr
-visma.e-conomic.com
 visma.e-conomic.dk
-www.efficiency.visma.com
+webinar.dnvgl.com
 #
-# s3124590.hs.eloqua.com disguised trackers
+# p03h.hs.eloqua.com disguised trackers
 #
 activation.labcorp.com
+ap.quadient.com
+app.bceagles.com
+app.dawsoncreekeventscentre.com
+app.gopack.com
+app.goxavier.com
+app.soonersports.com
+app.texastech.com
+app.ticketleader.ca
+app.umterps.com
+app.usctrojans.com
+ar.quadient.com
+automation.pemco.com
+comms.hello.global.ntt
+connect.intel.com
+consulting.guidehouse.com
+dependable-s.hyster.com
+education.seek.intel.com
+elqact.gartner.com
+elqtrack.kubotausa.com
+elqtrk.insight.tech
+elqtrk.intel.cn
+elqtrk.intel.co.il
+elqtrk.intel.co.jp
+elqtrk.intel.co.kr
+elqtrk.intel.co.uk
+elqtrk.intel.com
+elqtrk.intel.com.au
+elqtrk.intel.com.br
+elqtrk.intel.com.tr
+elqtrk.intel.com.tw
+elqtrk.intel.de
+elqtrk.intel.es
+elqtrk.intel.fr
+elqtrk.intel.in
+elqtrk.intel.it
+elqtrk.intel.la
+elqtrk.intel.pl
+elqtrk.intel.ru
+elqtrk.intel.sg
+elqtrk.thailand.intel.com
+go.bloombergindustry.com
+go2.mathworks.com
+intelpartneralliance.intel.com
+offers.la-z-boy.com
+partners.seek.intel.com
+plan.seek.intel.com
+rc.precisely.com
+research.gartner.com
+software.seek.intel.com
+t.bceagles.com
+t.dawsoncreekeventscentre.com
+t.gopack.com
+t.goxavier.com
+t.hawkeyesports.com
+t.pbr.com
+t.soonersports.com
+t.texastech.com
+t.umterps.com
+t.usctrojans.com
+tracking.about.bgov.com
+tracking.bloombergindustry.com
+tracking.guidehouse.com
+tracking.navigant.com
+tracking.precisely.com
+tracking.pro.bloombergtax.com
+tracking.quadient.com
+tracking.sierrawireless.com
+us.ricoh-usa.com
+webinar.intel.com
 #
 # p06e.hs.eloqua.com disguised trackers
 #
@@ -679,16 +757,15 @@ easymonitoringnm.carte-gr.total.fr
 ebusinesssr.carte-gr.total.fr
 ehtel.endress.com
 go.bouygues-construction.com
-hello.ops.bpost.be
-lineside.networkrail.co.uk
 live.alljobs.co.il
 pages.ledger.com
 services.carte-gr.total.fr
 site.infosysbpm.com
+smtps.carte-gr.total.fr
+spaces.martela.com
 stat.starterre.fr
 t.festo.com
 wmpartnermail.carte-gr.total.fr
-www2.festo.com
 #
 # p01h.hs.eloqua.com disguised trackers
 #
@@ -698,14 +775,12 @@ cloudhosting-business.vodafone.com
 cz-mktg.vodafone.com
 elq.icis.com
 elqtrck.nanawall.com
-engage.dow.com
-es-business.vodafone.com
 go.emersonautomation.com
-hu-business.vodafone.com
 ideas.nanawall.com
+in-business.vodafone.com
+iot-mktg.vodafone.com
+it-mktg.vodafone.com
 learn.armaninollp.com
-marketing.business.vodafone.co.uk
-met.adaptiveinsights.com
 oiat.dow.com
 secure.info.domo.com
 tracking.vodafone.co.uk
@@ -714,212 +789,156 @@ tracking.vodafone.co.uk
 #
 activity.asce.org
 #
-# e74319.x.akamaiedge.net disguised trackers
-#
-activos.contacto.promerica.fi.cr
-alias.cloud-marketing.dimensiondata.com
-app.partner.fisglobal.com
-assets.comunicaciones.pymas.com.co
-cdn.experience.globalsources.com
-image.info.perkinelmer.com
-image.www1.kawasaki-motors.com
-imagenes.ubmmexico.com
-images.aepinfo.com
-images.assets.aapa.org
-images.biz.blackberry.com
-images.blackhat.com
-images.bncontacto.fi.cr
-images.c.clearlink.com
-images.cloud.travelport.com
-images.communication.carsales.com.au
-images.communication.maerskline.com
-images.communication.worldfirst.com
-images.communications.aldar.com
-images.communications.idera.com
-images.connect.becker.com
-images.connect.cebglobal.com
-images.connect.proact.eu
-images.connect2.cebglobal.com
-images.contact.medical.rossu.edu
-images.contact.regus.com
-images.contactvet.rossu.edu
-images.content.aces-int.com
-images.corp.berger-levrault.com
-images.createchange.uq.edu.au
-images.demand.awspls.com
-images.info.patheon.com
-images.info.pentontech.com
-images.info.resursbank.se
-images.info.rodekors.no
-images.info.siemensplmevents.com
-images.info.veritas.com
-images.info.zetes.com
-images.infofreddiemac.com
-images.informador.davivienda.com
-images.information.rossu.edu
-images.insight.intrado.com
-images.integrity.synopsys.com
-images.join.masaisrael.org
-images.learn.ctliensolutions.com
-images.learn.hmhco.com
-images.learn.pharmacyclics.com
-images.learn.queenslibrary.org
-images.learn.unisourceworldwide.com
-images.learning.strayeruniversity.edu
-images.link.pentonaviation.com
-images.mail.discover.clarivate.com
-images.mail.dolce-gusto.com
-images.mail.tena.de
-images.mailaway.homeaway.com
-images.mailaway.vrbo.com
-images.mailing.morningstar.com
-images.marketing.box.com
-images.marketing.bpp.com
-images.marketing.centerpointenergy.com
-images.marketing.comed.com
-images.marketing.invacare.com
-images.marketing.irobot.com
-images.marketing.netapp.com
-www.assets.dialogue.signify.com
-www.assets.newsletters.signify.com
-#
 # elqcdn.eloqua.com disguised trackers
 #
 activos.contacto.promerica.fi.cr
+app.partner.fisglobal.com
 elink.serasaexperian.com.br
-eloquaimages.e.abb.com
 files.info.posteitaliane.it
 image.www1.kawasaki-motors.com
+images.a.flukebiomedical.com
 images.aepinfo.com
+images.assets.aapa.org
 images.autonomyinfo.hp.com
+images.b.gogoair.com
+images.b2bmkt.samsung.com
 images.bb.pnc.com
 images.biz.blackberry.com
 images.bncontacto.fi.cr
 images.campaign.reedexpo.com
+images.campaign.reedexpo.de
 images.campaigns-qa.fidelity.com
+images.chbusiness.samsung.com
 images.chef-lavan.tnuva.co.il
+images.cmbinsight.hsbc.com
 images.com.bouygues-es.com
-images.connect.ais.arrow.com
+images.comms.cirium.com
+images.communication.carsales.com.au
+images.comunicaciones.prosegur.es
 images.connect.becker.com
 images.connect.globalservices.arrow.com
+images.connect.proact.eu
 images.connect2.cebglobal.com
-images.contact.cigna.com
 images.contact.regus.com
-images.corp.berger-levrault.com
-images.crazynews.crazyshirts.com
-images.demand.brainshark.com
-images.demand.nec.com
+images.cornerstonebuildingbrands.com
+images.demand.mcafee.com
+images.discover.emdeon.com
 images.discoveracademic.ptc.com
+images.e.act.com
+images.e.arizonacoyotes.com
 images.e.bengals.com
 images.e.bulls.com
 images.e.chiefs.com
-images.e.corenetglobal.org
 images.e.dallasstars.com
-images.e.gallup.com
+images.e.denverbroncos.com
+images.e.midmark.com
+images.e.mylanlabs.com
 images.e.royalmail.com
-images.e.seagate.com
 images.e.seahawksemail.com
 images.e.tcichemicals.com
 images.e.transunion.com
+images.e.tycois.com
 images.efficiency.nl.visma.com
+images.efficiency.visma.dk
+images.efficiency.visma.no
 images.em.email-prudential.com
-images.em.groupon.com
+images.em.thermofisher.com
+images.email.air-worldwide.com
 images.email.hockeytown.com
+images.email.wisdomtree.com
 images.emails.bokfinancial.com
 images.energysolutions.evergy.com
-images.engage.brunswickgroup.com
-images.engage.hp.com
 images.engage.hpe.com
-images.engage.mims.com
-images.eq.intuit.com
+images.engage.nexperia.com
 images.eq.tm.intuit.com
+images.fanservices.jaguars.com
 images.financial-risk-solutions.thomsonreuters.info
 images.get.kareo.com
 images.global.radware.com
-images.go.anixter.com
+images.go.alightsolutions.com
+images.go.bge.com
 images.go.bluejacketslink.com
-images.go.braintreepayments.com
-images.go.consumer.vsp.com
-images.go.dentsplysirona.com
+images.go.elementfleet.com
 images.go.fastweb.it
 images.go.mathworks.com
-images.go.senecacollege.ca
+images.go.siriusdecisions.com
 images.go.stlblues.com
-images.go.timewarnercable.com
-images.hq.scorecardrewards.com
+images.go.themarketingscience.com
+images.go.vertivco.com
+images.go.vsp.com
+images.go1.lapersonnelle.com
+images.guidance.choosemylo.com
+images.ihs.com
 images.images.compagniedesalpes.fr
-images.in.my1961.com
+images.info.alibabacloud.com
 images.info.centrum.pucp.edu.pe
 images.info.coopenae.fi.cr
 images.info.coopeservidores.fi.cr
-images.info.dell.com
 images.info.dfsco.com
 images.info.fticonsulting.com
 images.info.fullsail.edu
-images.info.innovateuk.org
-images.info.la-z-boy.com
 images.info.mercycare.org
 images.info.monumentalsports.com
-images.info.prophix.com
+images.info.patheon.com
 images.info.resursbank.se
-images.info.shinoken.com
-images.info.sick.com
-images.info.zetes.com
-images.information.rossu.edu
-images.it.business.samsung.com
+images.info.us.kpmg.com
+images.info.veritas.com
+images.inform.janssen.com
+images.informador.davivienda.com
+images.insights.thehackettgroup.com
+images.insurance.leavitt.com
+images.interact.jll.com
+images.investments.virtus.com
 images.join.masaisrael.org
-images.learn.hmhco.com
 images.learn.queenslibrary.org
-images.learn.unisourceworldwide.com
+images.learn.shredit.com
 images.learning.strayeruniversity.edu
-images.liqimg.com
-images.livecreative.creativecircle.com
 images.logisticsnews.dbschenker.com
-images.mail.coloplast.com
 images.mail.dolce-gusto.com
-images.mailaway.vrbo.com
-images.mailing.morningstar.com
-images.marketing.actuant.com
-images.marketing.odfl.com
-images.marketing.selligent.com
+images.mailaway.fewo-direkt.de
+images.marketing-de.sage.com
+images.marketing.bpp.com
+images.marketing.centerpointenergy.com
+images.marketing.comed.com
+images.marketing.invacare.com
+images.marketing.strategic-i.com
+images.marketing.uwmedicine.org
+images.marketing.yealink.com
 images.max.max-finance.co.il
-images.mdtinternal.com
 images.medlem.naf.no
-images.messages.seagate.com
+images.mkt.zoominfo.com
+images.mktgassets.symantec.com
 images.myhealthyfinances.com
+images.na.agcocorp.com
 images.news.auchan.lu
+images.news.panasonic.asia
 images.news.thunderinsider.com
-images.newsletter.larksuite.com
-images.newsletter.rewe-group.at
 images.noticias.clarin.com
 images.nwinsurance.pemco.com
 images.nyheder.danskespil.dk
 images.online.mt.com
+images.oracle.netsuite.com
 images.partner.fisglobal.com
-images.plan.intel.com
-images.promo.fiat.com
-images.promotions.bankofguam.com
-images.respond.macktrucks.com
+images.proftax.thomsonreuters.biz
+images.protect-us.eset.com
+images.quality.q-centrix.com
+images.read.aspiresys.com
+images.resources.cetera.com
 images.response.aba.com
-images.response.arcb.com
-images.response.architizer.com
-images.response.cisco.com
-images.response.cognex.com
-images.response.maserati.com
-images.response.playpower.com
+images.response.lexmark.com
 images.response.ricoh-europe.com
 images.response.stericycle.com
 images.response.wild.com
+images.rx.reedexpo.ae
+images.seemore.zebra.com
+images.siemens-energy.com
 images.smbdirect.lenovo.com
+images.sns.secure.mcafee.com
+images.solutions.halliburton.com
 images.studentlending.ca
-images.tr-mail.bsh-group.com
-images.uhealthsystem.miami.edu
-images.update.aciworldwide.com
-images.warranty.2-10.com
-images.web.pirelli.com
+images.v.cyberintel.verint.com
+img.e.sigsauer.com
 img.newsletter.mazda.co.jp
-img.response.digicert.com
-origin.www.images.2.forms.healthcare.philips.com
 www.assets.dialogue.signify.com
 www.assets.newsletters.signify.com
 #
@@ -930,8 +949,17 @@ cars.autopia.com.au
 cars.smartleasing.com.au
 connect.telstrawholesale.com
 connect.telstrawholesale.com.au
-seao.business.samsung.com
+save.salary.com.au
+save.smartsalary.com.au
 tracking.apac.business.samsung.com
+#
+# s127477.hs.eloqua.com disguised trackers
+#
+admin.smartgroup.com.au
+cars.autopia.com.au
+cars.smartleasing.com.au
+save.salary.com.au
+save.smartsalary.com.au
 #
 # p04k.hs.eloqua.com disguised trackers
 #
@@ -944,22 +972,22 @@ content.hydraulicsproducts.com
 discover.phenomenex.com
 etrack.ext.arubainstanton.com
 etrack.ext.arubanetworks.com
-grow.advisorgroup.com
-lead.blackrock.com
-response.turnkeyvr.com
-s.clientes.construrama.com
-tracking.care.salinasvalleyhealth.com
-tracking.continuingstudies.wisc.edu
-tracking.healthitsecurity.com
+evkeeza-e.regeneron.com
+tracking.agora.io
 tracking.insperity.com
-tracking.lfg.com
+tracking.online.wisc.edu
 tracking.pdc.wisc.edu
+tracking.precollege.wisc.edu
 tracking.summer.wisc.edu
 tracking.vertiv.com
+tracking.vertivco.com
 tracking.virtus.com
-trk.coteriefashionevents.com
-web.care.northoaks.org
+trk.magicfashionevents.com
 webtracking.bankwebinars.com
+#
+# s831949997.hs.eloqua.com disguised trackers
+#
+advise.gallup.com
 #
 # p04j.hs.eloqua.com disguised trackers
 #
@@ -973,24 +1001,24 @@ communications.adpinfo.com
 connect.nfd.hcahealthcare.com
 content.ferguson.com
 direct.colfondos.co
-engage.build.com
-engage.ferguson.com
 fpc.consumerportfolio.com
 fpc.gartner.com
-info.spurs.com
 memelq.acs.org
-response.idt.com
 tracking.build.com
-tracking.compactappliance.com
 tracking.faucet.com
 tracking.faucetdirect.com
 tracking.go.mge.com
+tracking.handlesets.com
+tracking.kegerator.com
 tracking.lightingdirect.com
-tracking.oceaneering.com
 tracking.pullsdirect.com
-trk.go.ingrammicrocloud.com
+tracking.ventingdirect.com
+tracking.winecoolerdirect.com
 web.novogene.com
-www2.info.renesas.cn
+#
+# s944935836.hs.eloqua.com disguised trackers
+#
+advisorservicesfpc.etradefinancial.com
 #
 # p01g.hs.eloqua.com disguised trackers
 #
@@ -1000,32 +1028,40 @@ analytics.flexpay.io
 app.business.westernunion.com
 app.noreply.cummins.com
 au-go.experian.com
+bg-go.experian.com
+bpsemea.hilton.com
 campaigns.rockwellautomation.com
 cn-go.experian.com
 de-go.experian.com
+elq.accuity.com
 elq.cirium.com
 elqtrk.cummins.com
+fr-go.experian.com
 go.deltek.com
+info.airborn.com
+info.fishersci.com
 info1.thermofisher.com
-info1.thermoscientific.com
+jp-go.experian.com
 map.rockwellautomation.com
 mec.hilton.com
-more.spglobal.com
-my-go.experian.com
-nl-go.experian.com
+now.cumminsfiltration.com
 profiling.ruukki.com
-ru-go.experian.com
+rsvp.cummins.com
 se-go.experian.com
-secure.arrow.com
-solutions2.risk.lexisnexis.com
+secureforms.accuity.com
+secureforms.flightglobal.com
+secureforms.nrs-inc.com
+th-go.experian.com
 tracking.stemcell.com
 trk.business.westernunion.at
+trk.business.westernunion.co.uk
 trk.business.westernunion.com
 trk.business.westernunion.com.au
 trk.convera.com
-trk.en.business.westernunion.fr
+trk.en-cz.business.westernunion.com
+trk.en.business.westernunion.ch
 trk.fr.business.westernunion.ch
-www.marketing.hilton.com
+us-go.experian.com
 #
 # p04f.hs.eloqua.com disguised trackers
 #
@@ -1039,31 +1075,26 @@ content.prophet.com
 cookies.siemens-energy.com
 dmkt.solutions.cas.org
 eloqua-uat.motorolasolutions.com
+elq-tracking.genomes.atcc.org
 elq.blackrock.com
-email-cm.jll.com.br
+events.georgiancollege.ca
 fpcsbulls.nba.com
 go.blackrock.com
-go.climate.emerson.com
 go.comres.emerson.com
-go.klauke.emerson.com
+go.proteam.emerson.com
+go.ridgid.emerson.com
 info.cc.myfortiva.com
 info.commercial.keurig.com
 lp1.dentsplysirona.com
 pages.contact.umpquabank.com
-response.fintechconnect.com
+pr.cision.com
+pr.prnewswire.com
 response.iqpc.com
 secureforms.xperthr.nl
-temails.productnotice.thomsonreuters.com
 track.go.comres.emerson.com
 tracking-explore-uat.agilent.com
 tracking.columbiabank.com
-tracking.go.atcc.org
 tracking.singlestore.com
-#
-# s517069690.hs.eloqua.com disguised trackers
-#
-afhleads.keurig.ca
-info.commercial.keurig.com
 #
 # p07i.hs.eloqua.com disguised trackers
 #
@@ -1071,26 +1102,29 @@ africa.edm.globalsources.com
 dm.smflc.co.jp
 electronics.edm.globalsources.com
 electronics.tradeshow.globalsources.com
+gslive.edm.globalsources.com
 gsmatch.edm.globalsources.com
-#
-# s418514676.hs.eloqua.com disguised trackers
-#
-africa.edm.globalsources.com
-gsmatch.edm.globalsources.com
+gsols.edm.globalsources.com
+lifestyle.tradeshow.globalsources.com
+mobile-electronics.edm.globalsources.com
+summit.edm.globalsources.com
+tradeshow.edm.globalsources.com
 #
 # p04.hs.eloqua.com disguised trackers
 #
 agentcomm.mercuryinsurance.com
-blog.bumpclubandbeyond.com
 comms.groupmarketing.dimensiondata.com
 contact.smart-fac.co.kr
 discover.onepeloton.com
 e.nicklauschildrens.org
+e.relacionamento.serasaexperian.com.br
 fpc.cebglobal.com
-learn.mvpindex.com
-s.mesosphere.com
-tracking.yealink.com.cn
-www.fovissstejaverags.com
+fpc.trimarkusa.com
+grow.national.biz
+info.sunsentinelmediagroup.com
+pcm.symantec.com
+tracking.nasdaq.com
+www.eventos-ins.com
 #
 # p04d.hs.eloqua.com disguised trackers
 #
@@ -1098,18 +1132,15 @@ ai.mist.com
 appointments.providence.org
 appointments.swedish.org
 businessengage.comcast.com
+care.stlukes-stl.com
+channelportal.netsuite.com
 connect.news.evergreenhealth.com
-elqtracking.victorops.com
-email-am.stage.ca.jll.com
+event.victorops.com
 go.ali-cle.org
-go.kx.com
+go.firstderivatives.com
 go.psentertainment.com
-info.medtronicdiabetes.com
-infopromerica.promerica.fi.cr
-marketing.psentertainment.com
-messages.blackhat.com
+mkto.bronto.com
 my.orhp.com
-s.latam.cemex.com
 tracker.providence.org
 tracker.swedish.org
 tracking.business.comcast.com
@@ -1118,13 +1149,17 @@ tracking.netsuite.com
 trackingmms.accenture.com
 web.northwestern.nm.org
 webtracking.medical.rossu.edu
+www.dheerajrealitydemo.com
+#
+# s1507516398.hs.eloqua.com disguised trackers
+#
+ai.mist.com
 #
 # p04c.hs.eloqua.com disguised trackers
 #
 ai.thermo.com
 ai.thermofisher.com
 allergy.thermofisher.com
-autoimmunity.thermofisher.com
 cascadion.thermofisher.com
 clinical.questdiagnostics.com
 connect.health.bjc.org
@@ -1135,50 +1170,35 @@ digital.att.com
 dx.thermofisher.com
 e.darpro-solutions.com
 eloqua.53.com
-eloquatracking.relayr.io
-email-am.jll-mena.com
-email-am.jll.ca
-email-am.jll.co.uk
-email-am.jll.com.au
-email-am.jll.pl
+email-am.jll.com.co
 email-am.us.jll.com
 explore.att.com
 fpc.acpinternist.org
 fpc.laerdal.com
-immunocap.thermofisher.com
+healthcare.questdiagnostics.com
+insights.53.com
 isac.thermofisher.com
-ixia-lp.keysight.com
-links.e.response.mayoclinic.org
+ixia-elq.keysight.com
 site.att.com
+subscriptionmanagement.53.com
+tracking.att.com
 tracking.health.bjc.org
 tracking.pennmedicine.princetonhcs.org
 tracking.questdiagnostics.com
-trk.admmontreal.com
-trk.admtoronto.com
-trk.designcon.com
 trk.designnews.com
+trk.mddionline.com
 trk.packagingdigest.com
 trk.plasticstoday.com
 trk.powderandbulksolids.com
+trk.thebatteryshow.eu
 trkime.informa.com
 webtracking.oncourselearning.com
-#
-# s1038638438.hs.eloqua.com disguised trackers
-#
-ai.thermofisher.com
-allergy.thermofisher.com
-immunocap.thermofisher.com
-isac.thermofisher.com
-#
-# s1065258072.hs.eloqua.com disguised trackers
-#
-aladdinupdate.blackrock.com
+www.acpprograms.org
 #
 # p06f.hs.eloqua.com disguised trackers
 #
 ald.aldautomotive.be
 alquiler.aldflex.es
-alquiler.carflex.es
 campaign.fr.mazda.be
 campaign.mazda.sk
 communications.parcours.fr
@@ -1217,18 +1237,47 @@ dialogue.mazda.si
 dialogue.mazda.sk
 dialogue.nl.mazda.be
 elqtrck.motor.no
-engageru2.3mrussia.ru
 gdg.gardnerdenver.com
 info.shavve.co.il
-marketing.naf.no
 renting.aldautomotive.es
+track-e.cypress.com
 track-e.infineon.com
 tracking.usj.es
-www.service.just.nl
+#
+# e74319.x.akamaiedge.net disguised trackers
+#
+alias.cloud-marketing.dimensiondata.com
+app.partner.fisglobal.com
+assets.comunicaciones.pymas.com.co
+cdn.experience.globalsources.com
+eloquaimages.e.abb.com
+image.info.perkinelmer.com
+imagenes.ubmmexico.com
+images.assets.aapa.org
+images.blackhat.com
+images.c.clearlink.com
+images.cloud.travelport.com
+images.communication.carsales.com.au
+images.createchange.uq.edu.au
+images.demand.awspls.com
+images.demand.brainshark.com
+images.demand.nec.com
+images.discoveracademic.ptc.com
+images.e.bengals.com
+images.e.bulls.com
+images.e.chiefs.com
+images.e.corenetglobal.org
+images.e.dallasstars.com
+images.e.gallup.com
+images.e.royalmail.com
+images.e.seagate.com
+images.e.seahawksemail.com
+www.assets.dialogue.signify.com
 #
 # s1109391453.hs.eloqua.com disguised trackers
 #
 alquiler.aldflex.es
+alquiler.carflex.es
 renting.aldautomotive.es
 #
 # p06d.hs.eloqua.com disguised trackers
@@ -1237,76 +1286,52 @@ altalex.wolterskluwer.com
 announcement.lyreco.com
 campaigns.grenke.com
 corporate.fctg.cloud
-go.testo.com
-hello.postuler.bpost.be
-hello.solliciteren.bpost.be
-info.wkf.fr
-landing-annotext.wolterskluwer.com
+landing-effacts.wolterskluwer.com
 landing-kleos.wolterskluwer.com
-landing-teamdocs.wolterskluwer.com
-landing-winra.wolterskluwer.com
-landing.wolterskluwer.hu
-lrfrance.wolterskluwer.com
-lrgermany.wolterskluwer.com
+landing-smartdocument.wolterskluwer.com
+lrbelgium.wolterskluwer.com
 lrnetherlands.wolterskluwer.com
 lrpoland.wolterskluwer.com
 lrportugal.wolterskluwer.com
-lrslovakia.wolterskluwer.com
-offer.lyreco.com
+promotion.sedo.com
+stat.ipsoa.it
+stat.lex.pl
 stat.prawo.pl
 stat.profinfo.pl
+stat.wki.it
 stat.wolterskluwer.com
 stat.wolterskluwer.pl
-subscription.grenke.co.uk
-subscription.grenke.de
 track.ferrari.com
 track.ferraridealers.com
-tracking.epredia.com
-www.service.czdirect.nl
+tracking.bonava.ru
 #
-# s1364398973.hs.eloqua.com disguised trackers
+# s1661434605.hs.eloqua.com disguised trackers
 #
-altalex.wolterskluwer.com
-landing-annotext.wolterskluwer.com
-landing-kleos.wolterskluwer.com
-landing-teamdocs.wolterskluwer.com
-landing-winra.wolterskluwer.com
-landing.wolterskluwer.hu
-lrfrance.wolterskluwer.com
-lrpoland.wolterskluwer.com
-lrportugal.wolterskluwer.com
-lrslovakia.wolterskluwer.com
-stat.prawo.pl
-stat.profinfo.pl
-stat.wolterskluwer.com
-stat.wolterskluwer.pl
-#
-# s1229.hs.eloqua.com disguised trackers
-#
-amer.juniper.net
-apac.juniper.net
+americasbrandperformancesupport.hilton.com
+bpsemea.hilton.com
+mec.hilton.com
 #
 # p04h.hs.eloqua.com disguised trackers
 #
 amplify.strategic-i.com
+connect.health.lexmed.com
 connect.memorialcare.org
 connectlp.keysight.com
 content.golfpride.com
+eloquamarketing.masterlock.com
 elq.keysight.com
-events.issmediasolutions.com
 forms.bmc.com
+fpc.pelican.com
+fpc.seahawks.com
+globalcustodian.strategic-i.com
 go.abcmetalroofing.com
-go.estoneworks.com
-go.mbci.com
-go.metaldepots.com
+go.blackducksoftware.com
 info.perkinelmer.com
-marketing.saintlukeskc.org
 phcbi-solution.phchd.com
+response.arizonacoyotes.com
 securetracking.golfpride.com
 st.azcardinals.com
-suppliersite.ferguson.com
-track.estoneworks.com
-track.simonton.com
+tracking.bv.com
 tracking.changehealthcare.com
 tracking.health.lexmed.com
 tracking.schneider.com
@@ -1324,36 +1349,44 @@ analytics.aba.com
 # s1766854304.hs.eloqua.com disguised trackers
 #
 analytics.cognyte.com
+curious.cognyte.com
 #
 # s1844742678.hs.eloqua.com disguised trackers
 #
 analytics.ferguson.com
-content.ferguson.com
 tracking.build.com
 tracking.faucet.com
 tracking.faucetdirect.com
+tracking.handlesets.com
+tracking.kegerator.com
 tracking.lightingdirect.com
+tracking.pullsdirect.com
+tracking.ventingdirect.com
+tracking.winecoolerdirect.com
 #
 # p06b.hs.eloqua.com disguised trackers
 #
 anmeldung.promatis.ch
 anmeldung.promatis.de
+comms.supplychain.nhs.uk
 eloq.fiducial.fr
-events.rewe-group.at
+events.oddo-bhf.com
 fpc.ciel.com
 fpc.sage.com
 gcn.tuv.com
+get.sage.com
 go.avon.cz
 go.avon.sk
 go.tuv.com
+lkr-trk.reply.com
 tracking1.tena.com
-visit.go.tuv.com
 www.armolipid.com.ru
 #
 # p04g.hs.eloqua.com disguised trackers
 #
 answers.teradata.ch
-answers.teradata.in
+answers.teradata.com
+answers.teradata.fr
 app.mktg.genesys.com
 connect.healthcare.northbay.org
 connect.senecacollege.ca
@@ -1366,22 +1399,25 @@ feedback.vegasgoldenknights.com
 fpcdallasstars.nhl.com
 info.go.lorainccc.edu
 lakerspreferences.gleague.nba.com
-m.enerpac.com
-marketing.pelotongroup.com
 marketing.royalalaskanmovers.com
 pop.dmglobal.com
-review.teradata.com
+preferences.la-lakers.com
 t.mktg.genesys.com
 tech.softchoice.com
 tkelq.genesys.com
 tracking.go.onshape.com
 tracking.mail.ti.com
+tracking.mail.ti.com.cn
 tracking.trinet.com
-tracking2.questdiagnostics.com
-trackinginternal.ti.com
 trials.questdiagnostics.com
 web.healthcare.northbay.org
 www.mkt.uvg.edu.gt
+#
+# s1770571578.hs.eloqua.com disguised trackers
+#
+answers.teradata.com
+answers.teradata.fr
+answers.teradata.in
 #
 # p06j.hs.eloqua.com disguised trackers
 #
@@ -1393,23 +1429,22 @@ connect.brunswickgroup.com
 contact.coface.com
 contents.pwc.com
 downloads.coface.com
+flavors.firmenich.com
 hello.bpost.be
-ingredients.firmenich.com
-intel-trk.informa.com
 investors.firmenich.com
-kampanjer.yxvisa.no
 pages.info.exclusive-networks.com
 pages.maritimeintelligence.informa.com
 pages.ovum.informa.com
 pages.pharmaintelligence.informa.com
 perfumery.firmenich.com
 secure-eugo.arrow.com
-success.coface.com
+subscription.coface.com
 tracking.max.co.il
-tracking.ssab.co
-tracking.ssab.com
-tracking.ssab.es
 webinars.coface.com
+#
+# s389462.hs.eloqua.com disguised trackers
+#
+ap.quadient.com
 #
 # p01c.hs.eloqua.com disguised trackers
 #
@@ -1431,33 +1466,38 @@ elq.macu.com
 elq.openshift.com
 elq.opensource.com
 elq.redhat.com
-engage.avalara.com
-es.adpinfo.com
 etrack.ext.hpe.com
+fr.secure.sonosite.com
 ghp.adp.ca
+hr.adp.ca
 info.adp.com
 info.reutersagency.com
 kr.secure.sonosite.com
-nationalaccounts.adp.com
-rethink.adp.com
+learn.relationshipone.com
+motm.adp.ca
+nas.adpinfo.com
+secure.adp.ca
 secure.sonosite.com
-smallbusiness.adpinfo.com
 solutions.refinitiv.com
 subscribe.adpinfo.com
-tracking.abrdn.com
+tracking.adp-iat.adp.ca
 tracking.adp.ca
 tracking.adp.com
+tracking.adpri.org
+tracking.au.adp.com
 tracking.events.adp.com
+tracking.fr.adp.com
+trk.advisory.com
 www.adpinfo.com
-www.ast-en.adp.ca
-www.pre-employmentservices.adp.com
-www.tracking.adp.co.uk
+www.domorewithless.adp.ca
+www.infos-experts.adp.com
 #
 # p03i.hs.eloqua.com disguised trackers
 #
 apac.info.mouser.com
 apac.zendesk.com
 app.arkansasrazorbacks.com
+app.arts.uci.edu
 app.chartwayarena.com
 app.iowawild.com
 app.ucirvinesports.com
@@ -1467,33 +1507,31 @@ ec.infosys.com
 elq.mouser.at
 elq.mouser.ca
 elq.mouser.com
+emea.info.mouser.com
 eqs.intuit.com
 go.zendesk.com
 info.dksh.com
-marketing.insead.edu
 secure.wiley.com
+sub.info.mouser.com
 t.arkansasrazorbacks.com
-t.southernmiss.com
+t.friars.com
 trace.insead.edu
+track.info.prweekus.com
+tracking.global-demand02.nec.com
 tracking.hcltech.com
-trk.protiviti.com
-#
-# s1742027581.hs.eloqua.com disguised trackers
-#
-apac.info.mouser.com
-elq.mouser.com
+tracking.insead.edu
 #
 # p01.hs.eloqua.com disguised trackers
 #
 apacenews.roche.com
 benelux2.secureforms.mcafee.com
+campaigns.netscout.com
 cbc.pnc.com
 channel.informaengage.com
 channelevents.partnermcafee.com
 connect-qa.netapp.com
 connect.abm.netapp.com
 connect.blog.netapp.com
-connect.cloud.netapp.com
 connect.content-hub.netapp.com
 connect.customers.netapp.com
 connect.netapp.co.il
@@ -1502,21 +1540,20 @@ connect.netapp.com.au
 connect.netapp.com.br
 connect.netapp.com.sg
 connect.netapp.com.tw
-connect.partner-connect.netapp.com
 connect2.secureforms.mcafee.com
 connectportal.netapp.com
 design.informabi.com
 eb.informabi.com
 eloqua.roche.com
 elq.analog.com
-endpoint2.secureforms.mcafee.com
+elq.lansa.com
 ets.ni.com
 forms.mdreducation.com
 getmore.enelx.com
-sns2.secureforms.mcafee.com
-tracking.construction.com
-tracking.level3.com
-tracking2.lenovo.com
+insights.ddiworld.com
+mfg.informabi.com
+tracking.info.servicenow.com
+tracking.lenovo.com
 #
 # p04i.hs.eloqua.com disguised trackers
 #
@@ -1527,17 +1564,13 @@ app.thomsonreuters.com
 ask.antalis.com
 ask.antalis.es
 ask.legalsolutions.thomsonreuters.info
-campaign.motorolasolutions.com
 campaigninfo.motorolasolutions.com
 campaignresources.motorolasolutions.com
 comunicaciones.davivienda.com.pa
 connect.caringcrowd.org
 connect.mid.hcahealthcare.com
 engage.3m.co.cr
-engage.3m.co.id
-engage.3m.co.ke
 engage.3m.co.kr
-engage.3m.co.rs
 engage.3m.co.th
 engage.3m.co.uk
 engage.3m.co.za
@@ -1548,23 +1581,18 @@ engage.3m.com.br
 engage.3m.com.cn
 engage.3m.com.co
 engage.3m.com.do
-engage.3m.com.dz
 engage.3m.com.ec
-engage.3m.com.ee
 engage.3m.com.es
 engage.3m.com.gt
 engage.3m.com.hk
-engage.3m.com.hn
 engage.3m.com.jm
+engage.3m.com.kw
 engage.3m.com.mx
 engage.3m.com.my
 engage.3m.com.ni
 engage.3m.com.pa
 engage.3m.com.pe
 engage.3m.com.pk
-engage.3m.com.pt
-engage.3m.com.py
-engage.3m.com.qa
 engage.3m.com.ro
 engage.3m.com.sa
 engage.3m.com.sg
@@ -1572,11 +1600,8 @@ engage.3m.com.sv
 engage.3m.com.tr
 engage.3m.com.tt
 engage.3m.com.tw
-engage.3m.com.ua
-engage.3m.com.vn
-engage.3mae.ae
+engage.3m.com.uy
 engage.3maustria.at
-engage.3mbelgie.be
 engage.3mbelgique.be
 engage.3mbulgaria.bg
 engage.3mcanada.ca
@@ -1604,19 +1629,33 @@ engage.3mslovensko.sk
 engage.3msuisse.ch
 engage.3msuomi.fi
 engage.3msverige.se
-eumeainfo.motorolasolutions.com
+experiencia.coopecaja.fi.cr
 info.christus.mx
 info.engage.3m.com
 info.scorecardrewards.com
 info.unis.edu.gt
-marketing-tracking.thomsonreuters.com
+lacinfo.motorolasolutions.com
 namrinfo.motorolasolutions.com
+pp.scorecardrewards.com
+preference.motorolasolutions.com
+secure.medtronicinteract.com
 tracking.cranepi.com
 tracking.motorolasolutions.com
+tracking.mwe.com
 trail.sweetandmaxwell.co.uk
 trail.thomsonreuters.ca
 trail.thomsonreuters.co.uk
 trail.thomsonreuters.com
+#
+# s1013191099.hs.eloqua.com disguised trackers
+#
+apcinfo.motorolasolutions.com
+campaign.motorolasolutions.com
+campaigninfo.motorolasolutions.com
+lacinfo.motorolasolutions.com
+namrinfo.motorolasolutions.com
+preference.motorolasolutions.com
+tracking.motorolasolutions.com
 #
 # p03g.hs.eloqua.com disguised trackers
 #
@@ -1630,13 +1669,12 @@ b2bmkt.lge.co.kr
 beuniquelyinsured.selective.com
 choose.nu.edu
 e.fdm.dk
+now.greenbuildexpo.com
 t.12thman.com
 t.ecupirates.com
 t.nhra.com
 t.seminoles.com
-t.uhcougars.com
 t.umassathletics.com
-tracking.fdm.dk
 tracking.info.sailpoint.com
 tracking.opentable.com
 tracking.selective.com
@@ -1647,11 +1685,7 @@ app.3d.ultimaker.com
 dnews.abarth.it
 dnews.fiat.it
 dseloqua.youbet.dk
-event.moore.be
-i.moneytransfer.travelex.com
-law.moore.be
-marketing.contribute.be
-www.service.hollandcasino.nl
+mkt-tracking.cloudmargin.com
 #
 # p03f.hs.eloqua.com disguised trackers
 #
@@ -1673,9 +1707,11 @@ discover.averydennison.com
 eloqua.incite-group.com
 go.air-electra.co.il
 gsasolutionssecure.gsa.gov
+information.lgcns.com
 pages.canon.com.au
 pages.protective.com
 situationalintelligence.cognyte.com
+support.labcorp.com
 t.arizonawildcats.com
 t.cubuffs.com
 t.hokiesports.com
@@ -1684,15 +1720,19 @@ t.ohiobobcats.com
 t.pittsburghpanthers.com
 t.playhousesquare.org
 t.utahstateaggies.com
+tablo.outsetmedical.com
 track.clubcar.com
 track.go.shokubai.co.jp
 tracking.alphacard.com
-tracking.barcodegiant.com
+tracking.averydennison.com
 tracking.barcodesinc.com
-tracking.digitalid.co.uk
 tracking.idwholesaler.com
 tracking.pella.com
 tracking.protective.com
+#
+# s1016221.hs.eloqua.com disguised trackers
+#
+app.arts.uci.edu
 #
 # p03a.hs.eloqua.com disguised trackers
 #
@@ -1703,7 +1743,7 @@ app.texassports.com
 app.ticketstaronline.com
 app.wsucougars.com
 application.ricoh.co.uk
-bps.ricoh.co.uk
+application.ricoh.co.za
 businessprocess.ricoh.de
 communication.ricoh.at
 communication.ricoh.ch
@@ -1725,32 +1765,31 @@ eloqua.pearsonvue.com.cn
 eloqua.pointcode.fr
 eloqua.undergraduateexam.in
 email-ap.jll.co.in
-email-ap.jll.com.au
-email-ap.jll.com.sg
-email-ap.joneslanglasalle.com.cn
-email-ap.joneslanglasalle.com.vn
-evenement.ricoh.fr
-info.barcoproducts.com
-info.saison.co.jp
-its.ricoh.fr
-lieudetravail.ricoh.fr
-t.augustaentertainmentcomplex.com
+email-ap.jll.pe
+go.provident.bank
+gocertiport.pearsonvue.com
+info.markmonitor.com
+itservices.ricoh.co.uk
+oci.dyn.com
+onlineshop.ricoh.co.uk
 t.foxtheatre.org
 t.olemisssports.com
 t.ramblinwreck.com
 t.sjsuspartans.com
-t.sjuhawks.com
 t.texassports.com
-t.tulanegreenwave.com
+t.ticketstaronline.com
 tools.ricoh.co.uk
 track.info.cancertherapyadvisor.com
 track.info.clinicaladvisor.com
 track.info.dermatologyadvisor.com
 track.info.empr.com
 track.info.endocrinologyadvisor.com
+track.info.gastroenterologyadvisor.com
 track.info.infectiousdiseaseadvisor.com
 track.info.neurologyadvisor.com
 track.info.oncologynurseadvisor.com
+track.info.ophthalmologyadvisor.com
+track.info.optometryadvisor.com
 track.info.psychiatryadvisor.com
 track.info.pulmonologyadvisor.com
 track.info.rarediseaseadvisor.com
@@ -1760,75 +1799,7 @@ track.info.thecardiologyadvisor.com
 tracking.go.provident.bank
 tracking.seakeeper.com
 trk.mktg.nec.com
-vertical.ricoh.fr
 workplace.ricoh.co.uk
-#
-# p03h.hs.eloqua.com disguised trackers
-#
-app.bceagles.com
-app.dawsoncreekeventscentre.com
-app.gopack.com
-app.goxavier.com
-app.pbr.com
-app.soonersports.com
-app.texastech.com
-app.ticketleader.ca
-app.umterps.com
-app.usctrojans.com
-ar.quadient.com
-automation.pemco.com
-comms.hello.global.ntt
-connect.intel.com
-dependable-s.hyster.com
-education.seek.intel.com
-elqact.gartner.com
-elqtrack.kubotausa.com
-elqtrk.insight.tech
-elqtrk.intel.cn
-elqtrk.intel.co.il
-elqtrk.intel.co.jp
-elqtrk.intel.co.kr
-elqtrk.intel.co.uk
-elqtrk.intel.com
-elqtrk.intel.com.au
-elqtrk.intel.com.br
-elqtrk.intel.com.tr
-elqtrk.intel.com.tw
-elqtrk.intel.de
-elqtrk.intel.es
-elqtrk.intel.fr
-elqtrk.intel.in
-elqtrk.intel.it
-elqtrk.intel.la
-elqtrk.intel.pl
-elqtrk.intel.ru
-elqtrk.intel.sg
-elqtrk.intelrealsense.com
-elqtrk.thailand.intel.com
-go.bloombergindustry.com
-info.volvotrucks.us
-intelpartneralliance.intel.com
-nci.navigant.com
-partners.seek.intel.com
-plan.seek.intel.com
-research.gartner.com
-t.gopack.com
-t.goxavier.com
-t.hawkeyesports.com
-t.pbr.com
-t.soonersports.com
-t.texastech.com
-t.umterps.com
-t.usctrojans.com
-techprovider.intel.com
-tracking.bloombergindustry.com
-tracking.guidehouse.com
-tracking.navigant.com
-tracking.precisely.com
-tracking.pro.bloombergtax.com
-tracking.quadient.com
-trk.thinkhdi.com
-webinar.intel.com
 #
 # p03k.hs.eloqua.com disguised trackers
 #
@@ -1852,18 +1823,17 @@ contact.tsr-net.co.jp
 eloqua.radware.com
 elqtracking.capella.edu
 elqtracking.strayer.edu
+gbl.radware.com
 lantern.fortinet.com
-marketing.cigna.com
 s.sick.com
-t.emueagles.com
 t.gophersports.com
 t.gopsusports.com
 t.hailstate.com
 t.jmusports.com
 t.libertyfirstcreditunionarena.com
 t.navysports.com
-t.tribeathletics.com
-tracking.blog.hibu.com
+talenteq.intuit.com
+tracking.analysis.hibu.com
 tracking.hibu.com
 tracking.info.ivanti.com
 tracking.oppd.com
@@ -1875,28 +1845,23 @@ app.bncontacto.fi.cr
 app.info.coopenae.fi.cr
 app.updates.digicert.com
 assets.spectrumhealthlakeland.org
+connect.ntx.hcahealthcare.com
 elq-trk.fullsail.edu
 elq.proagrica.com
-explore-dev.agilent.com
 getinfo.fullsail.edu
 go.econnect.dellmed.utexas.edu
 go.fuze.com
-info.neighborly.com
-sa.click.finning.com
-secureforms.proagrica.com
-tracking.academicyear.org
+go.info.verifi.com
+lp.connectedcare.wkhs.com
+satracking.finning.com
+tracking.aifsabroad.com
 tracking.aupairinamerica.com
-tracking.connectedcare.wkhs.com
 tracking.evanta.com
 tracking.myaupairinamerica.com
 tracking.oldnational.com
 tracking.prodesa.com
 trk.contentmarketinginstitute.com
 webtracking.aucmed.edu
-#
-# s1388037622.hs.eloqua.com disguised trackers
-#
-app.bncontacto.fi.cr
 #
 # p03d.hs.eloqua.com disguised trackers
 #
@@ -1914,37 +1879,29 @@ connect.cognex.com
 cookie.amerigas.com
 cookie.cynch.com
 cookie.myamerigas.com
-engagement.novelis.com
 events.avaya.com
-experienceplatform.avaya.com
+governmentcloud.avaya.com
 info.avaya.com
 landing.computershare.com
-landing.kccllc.com
 log.cognex.com
+pages.response.terex.com
 partners.avaya.com
+promotion.lginnotek.com
 simple.avaya.com
-stats.saverglass.com
 strikenurse.usnursing.com
-t.baylorbears.com
 t.budweisergardens.com
+t.fightingillini.com
 t.gomocs.com
 t.huskers.com
+t.krannertcenter.com
 t.msuspartans.com
 t.pplcenter.com
 t.unlvrebels.com
 ticketoffice.liberty.edu
 track.info.mmm-online.com
 track.inspirage.com
+tracking.response.terex.com
 tracking.rti-inc.com
-trk.novelis.com
-#
-# s930.hs.eloqua.com disguised trackers
-#
-app.business.westernunion.com
-trk.business.westernunion.com
-trk.business.westernunion.com.au
-trk.convera.com
-trk.en.business.westernunion.fr
 #
 # p03c.hs.eloqua.com disguised trackers
 #
@@ -1962,9 +1919,13 @@ engage2demand.cisco.com
 engagemetrics.cisco.com
 go.emeadatacenter.services.global.ntt
 info.macktrucks.com
+nordics.atradius.com
+posgrado.javeriana.edu.co
+pregrados.javeriana.edu.co
 t.auburntigers.com
 t.bucky.uwbadgers.com
 t.calbears.com
+t.goarmywestpoint.com
 t.gostanford.com
 t.villanova.com
 t.whartoncenter.com
@@ -1975,8 +1936,7 @@ tracking.reply.broadwayinhollywood.com
 tracking.reply.dpacnc.com
 tracking1.labcorp.com
 trk.emeadatacenter.services.global.ntt
-www.info.dunnhumby.com
-www.science.dunnhumby.com
+www.learn.dunnhumby.com
 #
 # p01f.hs.eloqua.com disguised trackers
 #
@@ -1991,19 +1951,28 @@ ctc.wolterskluwer.com
 discover.parker.com
 els298548211.medtronic.com
 forms.progress.com
+images.engage.richardsonrfpd.com
+info.authorize.net
 info.clarivate.com
+reg.informationweek.com
 secureoutreach.unisys.com
 tracking.direxion.com
-tracking.te.com
+tracking.ftitechnology.com
+tracking.go.toyobo.co.jp
 trk.darkreading.com
-trk.drdobbs.com
 trk.enterpriseconnect.com
 trk.gamedeveloper.com
 trk.gdconf.com
+trk.informatech.com
 trk.informationweek.com
 trk.networkcomputing.com
 www.medtronicsolutions.com
-www.newyorklifeinvestments.jp
+#
+# s600830862.hs.eloqua.com disguised trackers
+#
+app.engage.richardsonrfpd.com
+connection.arrow.com
+images.engage.richardsonrfpd.com
 #
 # p03b.hs.eloqua.com disguised trackers
 #
@@ -2015,9 +1984,9 @@ comunicacao.edpcomunicacao.com.br
 digital.dynatos.be
 discover.conversantmedia.com
 e1c.curtisswrightds.com
-go.kareo.com
+explore.epsilon.com
 go.oracle.com
-lp.edpcomunicacao.com.br
+info.fdbhealth.com
 m.premier.info.shutterstock.com
 pages.sailgp.com
 t.fairparkdallas.com
@@ -2026,18 +1995,25 @@ t.gofrogs.com
 t.mgoblue.com
 t.scarletknights.com
 t.und.com
-tracking.bankofalbuquerque.com
+track.connectwise.com
 tracking.bankofoklahoma.com
 tracking.bankoftexas.com
-tracking.bokfinancial.com
 tracking.epsilon.com
-tracking.fdbhealth.com
 tracking.petrelocation.com
 tracking.sailgp.com
+#
+# s296651.hs.eloqua.com disguised trackers
+#
+app.fightingillini.com
+t.fightingillini.com
 #
 # s215151.hs.eloqua.com disguised trackers
 #
 app.godeacs.com
+#
+# s1107655.hs.eloqua.com disguised trackers
+#
+app.goheels.com
 #
 # s1281471.hs.eloqua.com disguised trackers
 #
@@ -2068,10 +2044,9 @@ t.hokiesports.com
 #
 app.info.coopenae.fi.cr
 #
-# s2334089.hs.eloqua.com disguised trackers
+# s274.hs.eloqua.com disguised trackers
 #
-app.jmusports.com
-t.jmusports.com
+app.innovation.nuance.com
 #
 # p03j.hs.eloqua.com disguised trackers
 #
@@ -2084,18 +2059,17 @@ b.bloomberglp.com
 eloqua-tracking.kaiserpermanente.org
 elqapp.spectrum.com
 elqapp.timewarnercable.com
-experience.limelight.com
-go.enterprise.spectrum.com
-go.labcorp.com
+firstparty1.dentsplysirona.com
 inform.janssenpro.eu
 marketing.championhomes.com
 response.playpower.com
-response.playworld.com
+response.usa-shade.com
 t.kstatesports.com
+t.poconoraceway.com
 t.purduesports.com
 t.uclabruins.com
 t.xlcenter.com
-tracking.janssenmedicalcloud.com
+t.xtreamarena.com
 tracking.janssenmedicalcloud.de
 tracking.myregus.com
 tracking.regus.com
@@ -2103,6 +2077,17 @@ tracking.veritas.com
 tracking2.labcorp.com
 web.houstontexans.com
 web.houstontexansluxe.com
+web.lsse.net
+#
+# s347007.hs.eloqua.com disguised trackers
+#
+app.mgoblue.com
+t.mgoblue.com
+#
+# s808240.hs.eloqua.com disguised trackers
+#
+app.miamihurricanes.com
+t.miamihurricanes.com
 #
 # s1260946616.hs.eloqua.com disguised trackers
 #
@@ -2110,14 +2095,37 @@ app.mktg.genesys.com
 t.mktg.genesys.com
 tkelq.genesys.com
 #
-# s7610.hs.eloqua.com disguised trackers
+# s3690781.hs.eloqua.com disguised trackers
 #
-app.poconoraceway.com
+app.nhra.com
+t.nhra.com
+#
+# s1480.hs.eloqua.com disguised trackers
+#
+app.noreply.cummins.com
+elqtrk.cummins.com
+now.cumminsfiltration.com
+rsvp.cummins.com
+#
+# s1552085.hs.eloqua.com disguised trackers
+#
+app.pbr.com
+t.pbr.com
+#
+# s756589.hs.eloqua.com disguised trackers
+#
+app.purduesports.com
+t.purduesports.com
 #
 # s94142.hs.eloqua.com disguised trackers
 #
 app.rolltide.com
 t.rolltide.com
+#
+# s8100632.hs.eloqua.com disguised trackers
+#
+app.scarletknights.com
+t.scarletknights.com
 #
 # s1241071892.hs.eloqua.com disguised trackers
 #
@@ -2127,9 +2135,10 @@ cookies.siemens-energy.com
 # s1575097598.hs.eloqua.com disguised trackers
 #
 app.thomsonreuters.com
-marketing-tracking.thomsonreuters.com
+ask.legalsolutions.thomsonreuters.info
 trail.sweetandmaxwell.co.uk
 trail.thomsonreuters.ca
+trail.thomsonreuters.co.uk
 trail.thomsonreuters.com
 #
 # s1701211846.hs.eloqua.com disguised trackers
@@ -2141,12 +2150,18 @@ app.updates.digicert.com
 app.usctrojans.com
 t.usctrojans.com
 #
-# s1129361478.hs.eloqua.com disguised trackers
+# s2081649.hs.eloqua.com disguised trackers
 #
-appointments.providence.org
-tracker.kadlec.org
-tracker.providence.org
-tracker.swedish.org
+app.xlcenter.com
+t.xlcenter.com
+#
+# s1271891940.hs.eloqua.com disguised trackers
+#
+application.ricoh.co.za
+bps.ricoh.co.uk
+itservices.ricoh.co.uk
+onlineshop.ricoh.co.uk
+tools.ricoh.co.uk
 #
 # p01b.hs.eloqua.com disguised trackers
 #
@@ -2154,6 +2169,7 @@ asia.interface.com
 campaign-fbsg.fujifilm.com
 campaigns.panasonic.eu
 connect.flowroute.com
+connect.intercall.com
 connect.schoolmessenger.com
 contact.aon.com
 cookies.siemens-healthineers.com
@@ -2163,16 +2179,15 @@ digital-engineering.de
 events.interface.com
 globalsolutions.risk.lexisnexis.com
 ma.hmhco.com
-meet.westuc.com
-myprofile.panasonic.eu
-myprofile.technics.eu
+redwingforbusiness.redwingsafety.com
 s362693299.aon.com
 safety.west.com
-safety1.west.com
-solutions.risk.lexisnexis.com
+tracking-sandbox.vodafone.co.uk
 tracking.fticonsulting.com
 tracking.risk.lexisnexis.co.uk
 tracking.risk.lexisnexis.com
+tracking.risk.lexisnexis.com.br
+welcome.item24.cz
 #
 # p07e.hs.eloqua.com disguised trackers
 #
@@ -2181,98 +2196,47 @@ contact.lesmills.com
 contact.samsungsds.com
 education.bendigotafe.edu.au
 go5.global.toshiba
-lp.mkt-email.samsungsds.com
-secure.nikkol.co.jp
 track.lesmills.com
 tracking.mkt-email.samsungsds.com
 #
 # s937.hs.eloqua.com disguised trackers
 #
-ast-en.adp.ca
 ast-fr.adp.ca
-brand.adp.ca
 ghp.adp.ca
+hr.adp.ca
 info.adp.com
-nationalaccounts.adp.com
-rethink.adp.com
-smallbusiness.adpinfo.com
+motm.adp.ca
+nas.adpinfo.com
+secure.adp.ca
+subscribe.adpinfo.com
+tracking.adp-iat.adp.ca
 tracking.adp.ca
 tracking.adp.com
-www.adpinfo.com
-www.ast-en.adp.ca
-www.pre-employmentservices.adp.com
-www.tracking.adp.co.uk
+tracking.adpri.org
+tracking.au.adp.com
+tracking.events.adp.com
+tracking.fr.adp.com
+www.domorewithless.adp.ca
+www.infos-experts.adp.com
 #
-# s471376.hs.eloqua.com disguised trackers
+# s1038638438.hs.eloqua.com disguised trackers
 #
-atencion.banrural.com.gt
-#
-# s2448.hs.eloqua.com disguised trackers
-#
-au-go.experian.com
-cn-go.experian.com
-my-go.experian.com
-nl-go.experian.com
-ru-go.experian.com
-se-go.experian.com
+autoimmunity.thermofisher.com
+immunocap.thermofisher.com
+isac.thermofisher.com
 #
 # s883680860.hs.eloqua.com disguised trackers
 #
 automation.pemco.com
 #
-# p06c.hs.eloqua.com disguised trackers
-#
-autovista-fi.autovistagroup.com
-autovista-se.autovistagroup.com
-eu.business.samsung.com
-eurotax-cz.autovistagroup.com
-eurotax-hr.autovistagroup.com
-eurotax-hu.autovistagroup.com
-eurotax-si.autovistagroup.com
-eurotax-sk.autovistagroup.com
-event.ncp.gov.sa
-highlights-schwackenet.schwacke.de
-marketreports.autovistagroup.com
-service.athlon.com
-services.princes-trust.org.uk
-tr-ms.bosch-home.com
-tr-ms.profilo.com
-tr-ms.siemens-home.bsh-group.com
-tracking.athlon.com
-tracking.europe.business.samsung.com
-tracking.modelgroup.com
-yourporsche.nabooda-auto.com
-#
-# s1598735129.hs.eloqua.com disguised trackers
-#
-autovista-fi.autovistagroup.com
-eurotax-cz.autovistagroup.com
-eurotax-hr.autovistagroup.com
-eurotax-hu.autovistagroup.com
-highlights-schwackenet.schwacke.de
-marketreports.autovistagroup.com
-#
-# s1737033466.hs.eloqua.com disguised trackers
-#
-avaya-engage.avaya.com
-ccaas.avaya.com
-events.avaya.com
-experienceplatform.avaya.com
-info.avaya.com
-partners.avaya.com
-ucaas.avaya.com
-#
 # s522772699.hs.eloqua.com disguised trackers
 #
 b.bloomberglp.com
 #
-# s1583749854.hs.eloqua.com disguised trackers
-#
-b2binfo.canon-europe.com
-#
 # s182847396.hs.eloqua.com disguised trackers
 #
 b2bmarketing.swisscom.ch
+www.b2bmarketing.swisscom.ch
 #
 # p06h.hs.eloqua.com disguised trackers
 #
@@ -2282,50 +2246,50 @@ eloquatracking.iqvia.com
 elqtracking.macegroup.com
 france.alphabet.com
 info.hmisrael.co.il
-lp.marketing.engie-homeservices.fr
+making-future.afry.com
 newsletters.bancsabadell.com
-response.optimummedical.co.uk
+profiling.outokumpu.com
 secure.constellation.iqvia.com
+t.afry.com
 #
 # p03.hs.eloqua.com disguised trackers
 #
 bbk.pnc.com
 ccmd.coveredca.com
-highered.franklincovey.com
-info.legal-solutions.thomsonreuters.co.uk
+event.clubcorp.com
 secureod.odfl.com
 tracking.pgi.com
-ussolutions.equifax.com
-#
-# s1157.hs.eloqua.com disguised trackers
-#
-be.secure.sonosite.com
-kr.secure.sonosite.com
 #
 # p07d.hs.eloqua.com disguised trackers
 #
 belong.curtin.edu.au
-study.vu.edu.au
 #
 # s2115912527.hs.eloqua.com disguised trackers
 #
 belong.curtin.edu.au
 #
-# s1620527665.hs.eloqua.com disguised trackers
+# s1965211.hs.eloqua.com disguised trackers
 #
-beneficios.davivienda.hn
+beuniquelyinsured.selective.com
+tracking.selective.com
 #
-# p07.hs.eloqua.com disguised trackers
+# s2448.hs.eloqua.com disguised trackers
+#
+bg-go.experian.com
+fr-go.experian.com
+jp-go.experian.com
+se-go.experian.com
+th-go.experian.com
+us-go.experian.com
+#
+# s1425463959.hs.eloqua.com disguised trackers
 #
 bigdata.aspiresys.com
-campaign.hach.com.cn
-campaign.item-china.cn
-campaign.kanto-mazda.com
 cloud.aspiresys.com
-discover.10play.com.au
-enterpriseintegration.aspiresys.com
-info.mkt.global.dnp.co.jp
-marketing.income.com.sg
+#
+# s735616432.hs.eloqua.com disguised trackers
+#
+blog.bumpclubandbeyond.com
 #
 # s3856805.hs.eloqua.com disguised trackers
 #
@@ -2341,14 +2305,26 @@ business.vodafone.co.nz
 choose.adelaide.edu.au
 des.me.coact.org.au
 elq.utas.edu.au
+funding.go.apprenticeshipcommunity.com.au
 tracking.utas.edu.au
 visit.tafensw.edu.au
 #
 # s1525.hs.eloqua.com disguised trackers
 #
 business.vodafone.com
-cloudhosting-business.vodafone.com
+in-business.vodafone.com
+iot-mktg.vodafone.com
+it-mktg.vodafone.com
 tracking.vodafone.co.uk
+#
+# s1325.hs.eloqua.com disguised trackers
+#
+businessmaking.progress.com
+forms.progress.com
+#
+# s1019741931.hs.eloqua.com disguised trackers
+#
+ca.creditacceptance.com
 #
 # p06k.hs.eloqua.com disguised trackers
 #
@@ -2359,19 +2335,20 @@ communication.imechyperspectral.com
 communication.imecistart.com
 communication.proximus.be
 cookies.siemens.com
+digital.cloud.travelport.com
 eloqua-trackings.unity.com
 eloqua-trackings.unity3d.com
 enterprises.proximus.be
-info.kalevavakuutus.fi
-info.mandatumlife.ee
-marketing.cloud.travelport.com
+insight.business.hsbc.com
 page.thalesgroup.com
+tracking.bnppre.fr
 tracking.drivercenter.eu
 tracking.liwest.at
 tracking.pirelli.com
 tracking.scoresandodds.com
 tracking.smartbets.com
 tracking.wettfreunde.net
+www.enterprises.proximus.be
 #
 # s266319173.hs.eloqua.com disguised trackers
 #
@@ -2380,7 +2357,6 @@ campaign.amadeus.com
 # p06a.hs.eloqua.com disguised trackers
 #
 campaign.bbmbonnier.se
-campaign.onetrust.com
 campaign.vendorpedia.com
 campaigns.cm.be
 campaigns.mc.be
@@ -2388,42 +2364,94 @@ comunicaciones.paginasamarillas.es
 cookiejar.atea.no
 dummy.atea.com
 eloqua.infobip.com
-eloqua.teknos.com
-events.enigen.co.uk
+email.lottehotel.com
+fpc.onetrust.com
 global-mktg.transunion.com
 go.computacenter.com
-info.arp.com
 info.dataguidance.com
 info.houzz.com
 info.laley.es
 info.onetrust.com
-info.preferencechoice.com
 info.proedge.pwc.com
-info.vendorpedia.com
 lp.sophos.com
 secured.online.avon.com
+service.bechtle.com
 stat.guiasjuridicas.es
 stat.juridicas.com
 stat.laley.es
 stat.laleynext.es
 stat.wolterskluwer.es
-tracking.houzz.com
+stat.wolterskluwer.pt
 tracks3.ferrari.com
+web.wearejust.co.uk
+#
+# s355424421.hs.eloqua.com disguised trackers
+#
+campaign.bbmbonnier.se
+#
+# s477278796.hs.eloqua.com disguised trackers
+#
+campaign.fr.mazda.be
+dialogue.mazda.bg
+dialogue.mazda.gr
+dialogue.mazda.pl
+dialogue.mazda.rs
+#
+# s128650407.hs.eloqua.com disguised trackers
+#
+campaign.glory-global.com
+#
+# p07.hs.eloqua.com disguised trackers
+#
+campaign.hach.com.cn
+campaign.item-china.cn
+campaign.kanto-mazda.com
+cloud.aspiresys.com
+discover.10play.com.au
+#
+# s2025046056.hs.eloqua.com disguised trackers
+#
+campaign.onetrust.com
+fpc.onetrust.com
+info.onetrust.com
+#
+# s598301108.hs.eloqua.com disguised trackers
+#
+campaign.ssab.com
+#
+# s487768300.hs.eloqua.com disguised trackers
+#
+campaigns.amadeus.com
 #
 # s225147923.hs.eloqua.com disguised trackers
 #
 campaigns.cm.be
 campaigns.mc.be
 #
-# s1284661142.hs.eloqua.com disguised trackers
+# s1363.hs.eloqua.com disguised trackers
 #
-campaigns.rockwellautomation.com
-map.rockwellautomation.com
+campaigns.engage.cebglobal.com
+event.shl.com
+events.engage.cebglobal.com
+tracking.shl.com
+#
+# s1754.hs.eloqua.com disguised trackers
+#
+campaigns.netscout.com
+#
+# s1783.hs.eloqua.com disguised trackers
+#
+campaigns.panasonic.eu
+#
+# s1856564273.hs.eloqua.com disguised trackers
+#
+care.stlukes-stl.com
 #
 # p04a.hs.eloqua.com disguised trackers
 #
 carreras.unisabana.edu.co
 connect.chamberlain.edu
+connect.methodisthealthsystem.org
 connect.mycwt.com
 connected.technologies.jci.com
 educontinua.unisabana.edu.co
@@ -2431,17 +2459,16 @@ electronics-imaging.dupont.com
 elq.connect.jllt.com
 elq.nextens.nl
 elqtracking.hitachienergy.com
-eqtrack.americashomeplace.com
 explore.agilent.com
 fpc.broadway.com
+go.hitachienergy.com
 go.sgs.com
-hvac.solutions.jci.com
+hopeful.coh.org
 info.onemedical.com
 response.coh.org
 shows.broadwayacrossamerica.com
-sustainable.infrastructure.jci.com
+stats.sgs.com
 tracking.aapa.org
-tracking.chem-agilent.com
 tracking.connect.nicklaushealth.org
 tracking.health.bilh.org
 tracking.info.methodisthealthsystem.org
@@ -2449,21 +2476,18 @@ tracking.nissan-dubai.com
 tracking.pepsicopartners.com
 tracking.ti.com
 tracking.ti.com.cn
-tracking.tij.co.jp
 tracking.unisabana.edu.co
 trk01.iotworldtoday.com
 web.healthnews.thechristhospital.com
 webtracking.chamberlain.edu
-#
-# s127477.hs.eloqua.com disguised trackers
-#
-cars.smartleasing.com.au
+www.solutions.prudential.com
 #
 # p04b.hs.eloqua.com disguised trackers
 #
 catracking.finning.com
 comunicaciones.daviviendacorredores.com
 connect.acams.org
+connect.chapman.com
 connect.cont.hcahealthcare.com
 connect.fwd.hcahealthcare.com
 connect.info.halifaxhealthnews.org
@@ -2478,29 +2502,32 @@ eloqua.quadrotech-it.com
 eloqua.quest.com
 eloqua.syslog-ng.com
 eroar.lionsclubs.org
-lincolnfinancialgroup.lfg.com
+go.enautics.com
+learn.carlingtech.com
 lp.info.jeffersonhealth.org
-medicine.tgh.org
-microlearning.att.com
 mkt.compactaprint.com.br
+page.health.tmcaz.com
 response.emoneyadvisor.com
 solutions.westrock.com
-tracking-explore-ft.agilent.com
 tracking.dr-10.com
-tracking.dr-8.com
 tracking.eloqua.modernize.com
 tracking.emoneyadvisor.com
 tracking.health.tmcaz.com
+tracking.lincolnfinancialgroup.lfg.com
 trackingcareers.accenture.com
 web.care.sheppardpratt.org
 webtracking.acams.org
 webtracking.moneylaundering.com
 webtrackingvet.rossu.edu
-xvantage.ingrammicro.com
 #
-# s1513444615.hs.eloqua.com disguised trackers
+# s1737033466.hs.eloqua.com disguised trackers
 #
-catracking.finning.com
+ccaas.avaya.com
+events.avaya.com
+governmentcloud.avaya.com
+info.avaya.com
+partners.avaya.com
+simple.avaya.com
 #
 # s522558593.hs.eloqua.com disguised trackers
 #
@@ -2510,9 +2537,15 @@ ccmd.coveredca.com
 #
 channel.arubanetworks.com
 #
-# s1260004828.hs.eloqua.com disguised trackers
+# s1439730185.hs.eloqua.com disguised trackers
 #
-channelusa.samsung.com
+channelportal.netsuite.com
+mkto.bronto.com
+tracking.netsuite.com
+#
+# s740070409.hs.eloqua.com disguised trackers
+#
+choose.adelaide.edu.au
 #
 # s1015724034.hs.eloqua.com disguised trackers
 #
@@ -2525,50 +2558,37 @@ elqtracking.cengage.com
 elqtracking.flexera.com
 elqtracking.revenera.com
 elqtracking.richardsonrfpd.com
-engage.richardsonrfpd.com
-explore.flexera.com
 go.connect.vulcanmaterials.com
+info.brightcove.com
 info.cengage.com
 info.thermofisher.com
-info.thermoscientific.com
-meetings.gaylordhotels.com
+know.wolterskluwerlr.com
+secure.mycalcas.com
 services.bdc.ca
 stat.bdc.ca
 tracking.cengage.com
-trk.connect.vulcanmaterials.com
+trackinglrus.wolterskluwer.com
 updates.gaylordhotels.com
 #
 # s840.hs.eloqua.com disguised trackers
 #
 clicks.tableau.com
 #
-# s1425463959.hs.eloqua.com disguised trackers
+# s2104.hs.eloqua.com disguised trackers
 #
-cloud.aspiresys.com
-enterpriseintegration.aspiresys.com
+cm.informaengage.com
 #
-# s3800089.hs.eloqua.com disguised trackers
+# s1006495326.hs.eloqua.com disguised trackers
 #
-comms.hello.global.ntt
+comms.supplychain.nhs.uk
 #
 # s457207082.hs.eloqua.com disguised trackers
 #
 communicatie.vub.be
 #
-# s1271891940.hs.eloqua.com disguised trackers
+# s1372101543.hs.eloqua.com disguised trackers
 #
-communication.ricoh.fr
-evenement.ricoh.fr
-its.ricoh.fr
-lieudetravail.ricoh.fr
-tools.ricoh.co.uk
-vertical.ricoh.fr
-#
-# s992344473.hs.eloqua.com disguised trackers
-#
-communications.cigna.com
-conferences.cigna.com
-marketing.cigna.com
+communication.imechyperspectral.com
 #
 # s1217594584.hs.eloqua.com disguised trackers
 #
@@ -2578,36 +2598,515 @@ comunicaciones.davivienda.com.pa
 #
 comunicazioni.bancamediolanum.it
 #
+# s2650.hs.eloqua.com disguised trackers
+#
+conf.optum.com
+lewin.optum.com
+#
 # s1184.hs.eloqua.com disguised trackers
 #
 connect-qa.netapp.com
+connect.abm.netapp.com
+connect.cloud.netapp.com
+connect.content-hub.netapp.com
+connect.customers.netapp.com
+connect.partner-connect.netapp.com
 #
 # s1150279252.hs.eloqua.com disguised trackers
 #
 connect.acams.org
 webtracking.acams.org
+webtracking.moneylaundering.com
 #
-# s750511265.hs.eloqua.com disguised trackers
+# s2144.hs.eloqua.com disguised trackers
 #
-connect.brunswickgroup.com
+connect.arkadin.com
 #
-# s125869073.hs.eloqua.com disguised trackers
+# s1609254285.hs.eloqua.com disguised trackers
 #
-connect.chamberlain.edu
-webtracking.chamberlain.edu
+connect.chapman.com
 #
-# s7122732.hs.eloqua.com disguised trackers
+# s462232510.hs.eloqua.com disguised trackers
 #
-connect.cont.hcahealthcare.com
+connect.cognex.com
+log.cognex.com
+#
+# s2190102.hs.eloqua.com disguised trackers
+#
+connect.dimensiondata.com
+tracking.connect.services.global.ntt
+#
+# s703561.hs.eloqua.com disguised trackers
+#
+connect.fwd.hcahealthcare.com
+#
+# s57532.hs.eloqua.com disguised trackers
+#
+connect.health.bjc.org
+tracking.health.bjc.org
+#
+# s626391.hs.eloqua.com disguised trackers
+#
+connect.health.lexmed.com
+tracking.health.lexmed.com
 #
 # s4805455.hs.eloqua.com disguised trackers
 #
 connect.healthcare.northbay.org
 web.healthcare.northbay.org
 #
+# s1354.hs.eloqua.com disguised trackers
+#
+connect.intercall.com
+safety.west.com
+#
+# s722592.hs.eloqua.com disguised trackers
+#
+connect.labcorp.com
+tracking1.labcorp.com
+#
+# s619564847.hs.eloqua.com disguised trackers
+#
+connect.methodisthealthsystem.org
+tracking.info.methodisthealthsystem.org
+#
+# s978103.hs.eloqua.com disguised trackers
+#
+connect.ncd.hcahealthcare.com
+#
+# s2288812.hs.eloqua.com disguised trackers
+#
+connect.nfd.hcahealthcare.com
+#
+# s921859.hs.eloqua.com disguised trackers
+#
+connect.ntx.hcahealthcare.com
+#
+# s1485599638.hs.eloqua.com disguised trackers
+#
+connect.senecacollege.ca
+#
+# s3292856.hs.eloqua.com disguised trackers
+#
+connect.stihl.info
+tracking.stihl.be
+tracking.stihl.de
+tracking.stihl.es
+tracking.stihl.fr
+tracking.stihl.lu
+tracking.stihl.nl
+tracking.stihl.pt
+#
+# s1879417329.hs.eloqua.com disguised trackers
+#
+connect.zebra.com
+connectfpc.zebra.com
+trust.zebra.com
+#
+# s1236759688.hs.eloqua.com disguised trackers
+#
+connect2.secureforms.mcafee.com
+#
+# s609785623.hs.eloqua.com disguised trackers
+#
+connectlp.keysight.com
+elq.keysight.com
+#
+# s1533477511.hs.eloqua.com disguised trackers
+#
+connecttest.arubanetworks.com
+#
+# s2090192166.hs.eloqua.com disguised trackers
+#
+consulting.guidehouse.com
+tracking.guidehouse.com
+tracking.navigant.com
+#
+# s695499979.hs.eloqua.com disguised trackers
+#
+contact.coface.com
+subscription.coface.com
+#
+# p02g.hs.eloqua.com disguised trackers
+#
+contact.golder.com
+secure.immixgroup.com
+#
+# p07k.hs.eloqua.com disguised trackers
+#
+contact.kikusuiamerica.com
+eqclicks.movember.com
+experience.jcu.edu.au
+study.jcu.edu.au
+#
+# s1995000402.hs.eloqua.com disguised trackers
+#
+contact.tsr-net.co.jp
+#
+# s1165.hs.eloqua.com disguised trackers
+#
+contactforms.53.com
+#
+# s287749648.hs.eloqua.com disguised trackers
+#
+contacto.gtc.com.gt
+#
+# s1240377118.hs.eloqua.com disguised trackers
+#
+contactus.53.com
+eloqua.53.com
+insights.53.com
+subscriptionmanagement.53.com
+#
+# s1521.hs.eloqua.com disguised trackers
+#
+content.eaton.com
+securetracking.eaton.com
+#
+# s680149.hs.eloqua.com disguised trackers
+#
+content.tatatelebusiness.com
+#
+# s338644260.hs.eloqua.com disguised trackers
+#
+contents.pwc.com
+#
+# p02f.hs.eloqua.com disguised trackers
+#
+convocation.uwindsor.ca
+future.uwindsor.ca
+learn.uwindsor.ca
+tracking.uwindsor.ca
+#
+# s177345.hs.eloqua.com disguised trackers
+#
+cookie.amerigas.com
+cookie.cynch.com
+cookie.myamerigas.com
+#
+# s1280579067.hs.eloqua.com disguised trackers
+#
+cookie.solutions.desertfinancial.com
+#
+# s562186580.hs.eloqua.com disguised trackers
+#
+cookies.engage.russellinvestments.com
+#
+# s2033604275.hs.eloqua.com disguised trackers
+#
+cookies.siemens.com
+#
+# s220234876.hs.eloqua.com disguised trackers
+#
+corporate.mattamyhomes.com
+#
+# s1857354912.hs.eloqua.com disguised trackers
+#
+cs.coopeservidores.fi.cr
+#
+# s499517739.hs.eloqua.com disguised trackers
+#
+cs.hot.net.il
+cs.nexttv.co.il
+#
+# s676.hs.eloqua.com disguised trackers
+#
+ctc.wolterskluwer.com
+#
+# s1086385399.hs.eloqua.com disguised trackers
+#
+cyber-pages.att.com
+cyber-tracking.att.com
+#
+# s2082.hs.eloqua.com disguised trackers
+#
+cyber.boozallen.com
+info.boozallen.com
+missions.boozallen.com
+#
+# s2826.hs.eloqua.com disguised trackers
+#
+demandgen.ptc.com
+tracking.ptc.com
+#
+# s554290.hs.eloqua.com disguised trackers
+#
+dev.marketing.championhomes.com
+#
+# s1097967772.hs.eloqua.com disguised trackers
+#
+devtracking.risk.lexisnexis.com
+#
+# s1897772577.hs.eloqua.com disguised trackers
+#
+dhlsupplychain.dhl.com
+#
+# s1981585949.hs.eloqua.com disguised trackers
+#
+digital.att.com
+explore.att.com
+site.att.com
+tracking.att.com
+#
+# s1669161669.hs.eloqua.com disguised trackers
+#
+digital.cloud.travelport.com
+#
+# s833068.hs.eloqua.com disguised trackers
+#
+discover.averydennison.com
+tracking.averydennison.com
+#
+# s786780033.hs.eloqua.com disguised trackers
+#
+discover.clarivate.com
+tracking.clarivate.com
+#
+# s899.hs.eloqua.com disguised trackers
+#
+discover.harvardbusiness.org
+insights.harvardbusiness.org
+#
+# s1819831755.hs.eloqua.com disguised trackers
+#
+discover.parker.com
+#
+# s822460770.hs.eloqua.com disguised trackers
+#
+discover.phenomenex.com
+#
+# s1068922595.hs.eloqua.com disguised trackers
+#
+discover.stop-shop.com
+#
+# s840921098.hs.eloqua.com disguised trackers
+#
+e.relacionamento.serasaexperian.com.br
+#
+# s672742760.hs.eloqua.com disguised trackers
+#
+ec.infosys.com
+#
+# s1392964364.hs.eloqua.com disguised trackers
+#
+education.moodybible.org
+#
+# s1343588892.hs.eloqua.com disguised trackers
+#
+efficiency.nl.visma.com
+efficiency.visma.com
+efficiency.visma.lv
+efficiency.visma.se
+go.visma.com
+suunta.visma.fi
+tracking.dataloen.dk
+tracking.exso.no
+tracking.visma.com
+tracking.visma.dk
+tracking.visma.lv
+tracking.visma.no
+tracking.vismaraet.nl
+visma.e-conomic.dk
+#
+# s418514676.hs.eloqua.com disguised trackers
+#
+electronics.edm.globalsources.com
+electronics.tradeshow.globalsources.com
+gslive.edm.globalsources.com
+gsmatch.edm.globalsources.com
+gsols.edm.globalsources.com
+lifestyle.tradeshow.globalsources.com
+mobile-electronics.edm.globalsources.com
+summit.edm.globalsources.com
+tradeshow.edm.globalsources.com
+#
+# s936847217.hs.eloqua.com disguised trackers
+#
+eloqua-tracking.kaiserpermanente.org
+#
+# s795651218.hs.eloqua.com disguised trackers
+#
+eloqua-trackings.unity.com
+#
+# s359022900.hs.eloqua.com disguised trackers
+#
+eloqua-uat.motorolasolutions.com
+#
+# s832461399.hs.eloqua.com disguised trackers
+#
+eloqua.emdmillipore.com
+#
+# s1009272243.hs.eloqua.com disguised trackers
+#
+eloqua.erwin.com
+eloqua.oneidentity.com
+eloqua.onelogin.com
+eloqua.quest.com
+#
+# s436121246.hs.eloqua.com disguised trackers
+#
+eloqua.infobip.com
+#
+# s2049007180.hs.eloqua.com disguised trackers
+#
+eloqua.pearsonvue.com
+eloqua.undergraduateexam.in
+gocertiport.pearsonvue.com
+#
+# s978087.hs.eloqua.com disguised trackers
+#
+eloqua.teknos.com
+#
+# s351095147.hs.eloqua.com disguised trackers
+#
+eloquamarketing.masterlock.com
+#
+# s460529241.hs.eloqua.com disguised trackers
+#
+eloquatracking.iqvia.com
+secure.constellation.iqvia.com
+#
+# s155608312.hs.eloqua.com disguised trackers
+#
+eloquatracking.relayr.io
+#
+# s179956068.hs.eloqua.com disguised trackers
+#
+elq-lantern.ruggedsolution.getac.com
+#
+# s584437826.hs.eloqua.com disguised trackers
+#
+elq-tracking.genomes.atcc.org
+tracking.go.atcc.org
+#
+# s538756640.hs.eloqua.com disguised trackers
+#
+elq-trk.fullsail.edu
+getinfo.fullsail.edu
+#
+# s1535.hs.eloqua.com disguised trackers
+#
+elq.accuity.com
+secureforms.accuity.com
+#
+# s1548954099.hs.eloqua.com disguised trackers
+#
+elq.analog.com
+#
+# s1795.hs.eloqua.com disguised trackers
+#
+elq.ansible.com
+elq.enterprisersproject.com
+elq.openshift.com
+elq.opensource.com
+elq.redhat.com
+#
+# s161752090.hs.eloqua.com disguised trackers
+#
+elq.blackrock.com
+go.blackrock.com
+#
+# s1634.hs.eloqua.com disguised trackers
+#
+elq.cirium.com
+secureforms.flightglobal.com
+#
+# s332.hs.eloqua.com disguised trackers
+#
+elq.forrester.com
+#
+# p07h.hs.eloqua.com disguised trackers
+#
+elq.hamamatsu.com
+tracking.tdk.com
+#
+# s386319996.hs.eloqua.com disguised trackers
+#
+elq.hamamatsu.com
+#
+# s1371.hs.eloqua.com disguised trackers
+#
+elq.icis.com
+#
+# s1616.hs.eloqua.com disguised trackers
+#
+elq.lansa.com
+#
+# s2213.hs.eloqua.com disguised trackers
+#
+elq.macu.com
+#
+# s484374275.hs.eloqua.com disguised trackers
+#
+elq.nextens.nl
+#
+# s373.hs.eloqua.com disguised trackers
+#
+elq.sonicwall.com
+#
+# s301091484.hs.eloqua.com disguised trackers
+#
+elq.utas.edu.au
+tracking.utas.edu.au
+#
+# s1849907385.hs.eloqua.com disguised trackers
+#
+elqact.gartner.com
+research.gartner.com
+#
+# s1168626303.hs.eloqua.com disguised trackers
+#
+elqapp.spectrum.com
+elqapp.timewarnercable.com
+#
+# s1194310.hs.eloqua.com disguised trackers
+#
+elqtrack.kubotausa.com
+#
+# s1738732214.hs.eloqua.com disguised trackers
+#
+elqtracking.capella.edu
+elqtracking.strayer.edu
+#
+# s1555122525.hs.eloqua.com disguised trackers
+#
+elqtracking.hitachienergy.com
+go.hitachienergy.com
+#
+# s174746480.hs.eloqua.com disguised trackers
+#
+elqtracking.macegroup.com
+#
+# s230749692.hs.eloqua.com disguised trackers
+#
+elqtracking.medidata.com
+#
+# s2391.hs.eloqua.com disguised trackers
+#
+elqtracking.revenera.com
+#
+# s1250714985.hs.eloqua.com disguised trackers
+#
+elqtracking.victorops.com
+event.victorops.com
+#
+# s128040577.hs.eloqua.com disguised trackers
+#
+elqtrck.motor.no
+#
+# s1745.hs.eloqua.com disguised trackers
+#
+elqtrck.nanawall.com
+#
+# s1258972516.hs.eloqua.com disguised trackers
+#
+elqtrk.cn.morningstar.com
+elqtrk.hk.morningstar.com
+elqtrk.morningstar.com
+elqtrk.my.morningstar.com
+#
 # s334284386.hs.eloqua.com disguised trackers
 #
-connect.intel.com
 elqtrk.intel.cn
 elqtrk.intel.co.il
 elqtrk.intel.co.jp
@@ -2629,492 +3128,98 @@ elqtrk.intel.ru
 elqtrk.intel.sg
 elqtrk.thailand.intel.com
 intelpartneralliance.intel.com
-partners.seek.intel.com
 plan.seek.intel.com
+software.seek.intel.com
 techprovider.intel.com
-#
-# s134700568.hs.eloqua.com disguised trackers
-#
-connect.mhsystem.org
-#
-# s3198896.hs.eloqua.com disguised trackers
-#
-connect.mid.hcahealthcare.com
-#
-# s978103.hs.eloqua.com disguised trackers
-#
-connect.ncd.hcahealthcare.com
-#
-# s2288812.hs.eloqua.com disguised trackers
-#
-connect.nfd.hcahealthcare.com
-#
-# s1485599638.hs.eloqua.com disguised trackers
-#
-connect.senecacollege.ca
-#
-# s904576154.hs.eloqua.com disguised trackers
-#
-connect.telstrawholesale.com
-#
-# s1879417329.hs.eloqua.com disguised trackers
-#
-connect.zebra.com
-connectfpc.zebra.com
-trust.zebra.com
-#
-# s600830862.hs.eloqua.com disguised trackers
-#
-connection.arrow.com
-connection.verical.com
-#
-# s609785623.hs.eloqua.com disguised trackers
-#
-connectlp.keysight.com
-elq.keysight.com
-#
-# s1533477511.hs.eloqua.com disguised trackers
-#
-connecttest.arubanetworks.com
-#
-# s2090192166.hs.eloqua.com disguised trackers
-#
-consulting.guidehouse.com
-nci.navigant.com
-tracking.guidehouse.com
-#
-# p02g.hs.eloqua.com disguised trackers
-#
-contact.golder.com
-#
-# s542707028.hs.eloqua.com disguised trackers
-#
-contact.golder.com
-#
-# p07k.hs.eloqua.com disguised trackers
-#
-contact.kikusuiamerica.com
-eqclicks.movember.com
-experience.jcu.edu.au
-study.jcu.edu.au
-#
-# s1165.hs.eloqua.com disguised trackers
-#
-contactforms.53.com
-#
-# s287749648.hs.eloqua.com disguised trackers
-#
-contacto.gtc.com.gt
-#
-# s1240377118.hs.eloqua.com disguised trackers
-#
-contactus.53.com
-eloqua.53.com
-#
-# s6821353.hs.eloqua.com disguised trackers
-#
-content-datacenter.hello.global.ntt
-#
-# s423.hs.eloqua.com disguised trackers
-#
-content.verint.com
-#
-# p02f.hs.eloqua.com disguised trackers
-#
-convocation.uwindsor.ca
-future.uwindsor.ca
-learn.uwindsor.ca
-tracking.uwindsor.ca
-#
-# s177345.hs.eloqua.com disguised trackers
-#
-cookie.amerigas.com
-cookie.cynch.com
-cookie.myamerigas.com
-#
-# s1280579067.hs.eloqua.com disguised trackers
-#
-cookie.solutions.desertfinancial.com
-solutions.desertfinancial.com
-#
-# s62106858.hs.eloqua.com disguised trackers
-#
-cookiejar.atea.no
-#
-# s562186580.hs.eloqua.com disguised trackers
-#
-cookies.engage.russellinvestments.com
-#
-# s435786561.hs.eloqua.com disguised trackers
-#
-cookies.siemens-healthineers.com
-#
-# s2033604275.hs.eloqua.com disguised trackers
-#
-cookies.siemens.com
-#
-# s220234876.hs.eloqua.com disguised trackers
-#
-corporate.mattamyhomes.com
-us.mattamyhomes.com
-#
-# s1857354912.hs.eloqua.com disguised trackers
-#
-cs.coopeservidores.fi.cr
-#
-# s499517739.hs.eloqua.com disguised trackers
-#
-cs.hot.net.il
-cs.nexttv.co.il
-#
-# s676.hs.eloqua.com disguised trackers
-#
-ctc.wolterskluwer.com
-#
-# s1086385399.hs.eloqua.com disguised trackers
-#
-cyber-tracking.att.com
-#
-# s554290.hs.eloqua.com disguised trackers
-#
-dev.marketing.championhomes.com
-#
-# s1097967772.hs.eloqua.com disguised trackers
-#
-devtracking.risk.lexisnexis.com
-#
-# s1897772577.hs.eloqua.com disguised trackers
-#
-dhlsupplychain.dhl.com
-#
-# s477278796.hs.eloqua.com disguised trackers
-#
-dialogue.fr.mazda.be
-dialogue.fr.mazda.ch
-dialogue.mazda.bg
-dialogue.mazda.eu
-dialogue.mazda.fr
-dialogue.mazda.gr
-dialogue.mazda.it
-dialogue.mazda.ro
-dialogue.mazda.rs
-#
-# s899.hs.eloqua.com disguised trackers
-#
-discover.harvardbusiness.org
-insights.harvardbusiness.org
-#
-# s782535304.hs.eloqua.com disguised trackers
-#
-discover.onepeloton.com
-#
-# s1819831755.hs.eloqua.com disguised trackers
-#
-discover.parker.com
-#
-# s653096746.hs.eloqua.com disguised trackers
-#
-dmkt.solutions.cas.org
-#
-# s386478334.hs.eloqua.com disguised trackers
-#
-dnews.fiat.it
-#
-# s861531437.hs.eloqua.com disguised trackers
-#
-download.dnv.com
-event.dnvgl.com
-register.dnv.com
-#
-# s1204044225.hs.eloqua.com disguised trackers
-#
-e.beckmancoulter.com
-#
-# s672742760.hs.eloqua.com disguised trackers
-#
-ec.infosys.com
-#
-# s1392964364.hs.eloqua.com disguised trackers
-#
-education.moodybible.org
-#
-# s1207496928.hs.eloqua.com disguised trackers
-#
-educontinua.unisabana.edu.co
-tracking.unisabana.edu.co
-#
-# s1343588892.hs.eloqua.com disguised trackers
-#
-efficiency.visma.com
-go.visma.com
-suunta.visma.fi
-tracking.dataloen.dk
-tracking.teho.visma.fi
-tracking.visma.com
-tracking.visma.net
-visma.e-conomic.dk
-#
-# s616.hs.eloqua.com disguised trackers
-#
-eformsonboarding.globalbanking.wolterskluwer.com
-#
-# s441670442.hs.eloqua.com disguised trackers
-#
-ehtel.endress.com
-#
-# s602638917.hs.eloqua.com disguised trackers
-#
-eloq.fiducial.fr
-#
-# s795651218.hs.eloqua.com disguised trackers
-#
-eloqua-trackings.unity.com
-eloqua-trackings.unity3d.com
-#
-# s1009272243.hs.eloqua.com disguised trackers
-#
-eloqua.binarytree.com
-eloqua.erwin.com
-eloqua.oneidentity.com
-eloqua.onelogin.com
-eloqua.quest.com
-#
-# s443791045.hs.eloqua.com disguised trackers
-#
-eloqua.incite-group.com
-tracker.ethicalcorp.com
-#
-# s436121246.hs.eloqua.com disguised trackers
-#
-eloqua.infobip.com
-#
-# s2049007180.hs.eloqua.com disguised trackers
-#
-eloqua.pearsonvue.ae
-eloqua.pearsonvue.com
-eloqua.pearsonvue.com.cn
-eloqua.undergraduateexam.in
-#
-# s788658067.hs.eloqua.com disguised trackers
-#
-eloqua.radware.com
-#
-# s832461399.hs.eloqua.com disguised trackers
-#
-eloqua.sigmaaldrich.com
-#
-# s460529241.hs.eloqua.com disguised trackers
-#
-eloquatracking.iqvia.com
-secure.constellation.iqvia.com
-#
-# s179956068.hs.eloqua.com disguised trackers
-#
-elq-lantern.ruggedsolution.getac.com
-#
-# s538756640.hs.eloqua.com disguised trackers
-#
-elq-trk.fullsail.edu
-#
-# s1795.hs.eloqua.com disguised trackers
-#
-elq.ansible.com
-elq.enterprisersproject.com
-elq.openshift.com
-elq.opensource.com
-elq.redhat.com
-#
-# s161752090.hs.eloqua.com disguised trackers
-#
-elq.blackrock.com
-go.blackrock.com
-#
-# s332.hs.eloqua.com disguised trackers
-#
-elq.forrester.com
-#
-# p07h.hs.eloqua.com disguised trackers
-#
-elq.hamamatsu.com
-solution.resonac.com
-tracking.tdk.com
-tracking.tdk.com.cn
-#
-# s386319996.hs.eloqua.com disguised trackers
-#
-elq.hamamatsu.com
-#
-# s1371.hs.eloqua.com disguised trackers
-#
-elq.icis.com
-#
-# s2213.hs.eloqua.com disguised trackers
-#
-elq.macu.com
-#
-# s484374275.hs.eloqua.com disguised trackers
-#
-elq.nextens.nl
-#
-# s1135721635.hs.eloqua.com disguised trackers
-#
-elq.proagrica.com
-#
-# s373.hs.eloqua.com disguised trackers
-#
-elq.sonicwall.com
-message.sonicwall.com
-#
-# s1849907385.hs.eloqua.com disguised trackers
-#
-elqact.gartner.com
-research.gartner.com
-#
-# s1168626303.hs.eloqua.com disguised trackers
-#
-elqapp.spectrum.com
-elqapp.timewarnercable.com
-go.enterprise.spectrum.com
-#
-# s1194310.hs.eloqua.com disguised trackers
-#
-elqtrack.kubotausa.com
-#
-# s1738732214.hs.eloqua.com disguised trackers
-#
-elqtracking.capella.edu
-elqtracking.strayer.edu
-#
-# s2138.hs.eloqua.com disguised trackers
-#
-elqtracking.cengage.com
-tracking.cengage.com
-#
-# s2391.hs.eloqua.com disguised trackers
-#
-elqtracking.flexera.com
-elqtracking.revenera.com
-explore.flexera.com
-#
-# s1555122525.hs.eloqua.com disguised trackers
-#
-elqtracking.hitachienergy.com
-#
-# s230749692.hs.eloqua.com disguised trackers
-#
-elqtracking.medidata.com
-#
-# s1745312639.hs.eloqua.com disguised trackers
-#
-elqtracking.richardsonrfpd.com
-#
-# s1250714985.hs.eloqua.com disguised trackers
-#
-elqtracking.victorops.com
-#
-# s128040577.hs.eloqua.com disguised trackers
-#
-elqtrck.motor.no
-#
-# s1745.hs.eloqua.com disguised trackers
-#
-elqtrck.nanawall.com
-#
-# s1480.hs.eloqua.com disguised trackers
-#
-elqtrk.cummins.com
-#
-# s1258972516.hs.eloqua.com disguised trackers
-#
-elqtrk.morningstar.com
-elqtrk.morningstar.com.au
-elqtrk.sg.morningstar.com
-go.morningstar.com
+webinar.intel.com
 #
 # s298548211.hs.eloqua.com disguised trackers
 #
 els298548211.medtronic.com
+www.medtronicsolutions.com
 #
 # s65254455.hs.eloqua.com disguised trackers
 #
-email-am.jll.co.uk
+email-am.jll.com.co
 email-am.us.jll.com
-#
-# s62396084.hs.eloqua.com disguised trackers
-#
-email-am.stage.ca.jll.com
 #
 # s362000045.hs.eloqua.com disguised trackers
 #
 email-ap.jll.co.in
-email-ap.jll.com.sg
-email-ap.joneslanglasalle.com.vn
-#
-# s1600883366.hs.eloqua.com disguised trackers
-#
-email-cm.jll.com.br
-#
-# s290512336.hs.eloqua.com disguised trackers
-#
-email-em.jll.co.uk
-email-em.jll.com.br
-email-em.joneslanglasalle.co.jp
-engage-emea.jll.com
+email-ap.jll.pe
 #
 # s1365483532.hs.eloqua.com disguised trackers
 #
 email.hockeytown.com
 #
-# s1236759688.hs.eloqua.com disguised trackers
+# s616291841.hs.eloqua.com disguised trackers
 #
-endpoint2.secureforms.mcafee.com
-sns2.secureforms.mcafee.com
+email.lottehotel.com
+#
+# s1742027581.hs.eloqua.com disguised trackers
+#
+emea.info.mouser.com
+sub.info.mouser.com
+#
+# s290512336.hs.eloqua.com disguised trackers
+#
+engage-emea.jll.com
 #
 # s837031577.hs.eloqua.com disguised trackers
 #
-engage.3m.co.id
+engage.3m.co.cr
 engage.3m.co.kr
-engage.3m.co.rs
 engage.3m.co.th
 engage.3m.co.uk
 engage.3m.co.za
+engage.3m.com.ar
 engage.3m.com.au
 engage.3m.com.bo
 engage.3m.com.br
+engage.3m.com.cn
 engage.3m.com.co
+engage.3m.com.do
+engage.3m.com.ec
 engage.3m.com.es
 engage.3m.com.gt
 engage.3m.com.hk
-engage.3m.com.hn
+engage.3m.com.jm
+engage.3m.com.kw
 engage.3m.com.mx
 engage.3m.com.my
 engage.3m.com.ni
 engage.3m.com.pa
 engage.3m.com.pe
-engage.3m.com.pt
+engage.3m.com.pk
 engage.3m.com.ro
 engage.3m.com.sa
 engage.3m.com.sg
+engage.3m.com.sv
 engage.3m.com.tr
+engage.3m.com.tt
 engage.3m.com.tw
-engage.3mae.ae
+engage.3m.com.uy
+engage.3maustria.at
+engage.3mbulgaria.bg
+engage.3mcanada.ca
 engage.3mchile.cl
 engage.3mcompany.jp
 engage.3mdeutschland.de
+engage.3megypt.com.eg
 engage.3mfrance.fr
+engage.3mhellas.gr
 engage.3mindia.in
+engage.3misrael.co.il
 engage.3mitalia.it
+engage.3mmagyarorszag.hu
 engage.3mmaroc.ma
-engage.3mnorge.no
+engage.3mnederland.nl
 engage.3mnz.co.nz
 engage.3mphilippines.com.ph
 engage.3mpolska.pl
 engage.3msuomi.fi
-#
-# s279295639.hs.eloqua.com disguised trackers
-#
-engage.dow.com
-oiat.dow.com
+engage.3msverige.se
+info.engage.3m.com
 #
 # p07g.hs.eloqua.com disguised trackers
 #
@@ -3127,6 +3232,9 @@ engage.unisa.edu.au
 # p07c.hs.eloqua.com disguised trackers
 #
 engage.uq.edu.au
+experience.rsm.com.au
+explore.studyperth.com.au
+lp.yamane-m.co.jp
 metrics.mhi.com
 visit.donateblood.com.au
 visit.lifeblood.com.au
@@ -3135,18 +3243,15 @@ visit.lifeblood.com.au
 #
 engage.uq.edu.au
 #
-# s1796163405.hs.eloqua.com disguised trackers
-#
-engagement.novelis.com
-trk.novelis.com
-#
 # s177775138.hs.eloqua.com disguised trackers
 #
+engage2demand.cisco.com
 engagemetrics.cisco.com
 #
 # s1636063769.hs.eloqua.com disguised trackers
 #
 enterprises.proximus.be
+www.enterprises.proximus.be
 #
 # s479233787.hs.eloqua.com disguised trackers
 #
@@ -3155,10 +3260,6 @@ eqclicks.movember.com
 # s113755760.hs.eloqua.com disguised trackers
 #
 eqs.intuit.com
-#
-# s1778545560.hs.eloqua.com disguised trackers
-#
-eqtrack.americashomeplace.com
 #
 # s94443966.hs.eloqua.com disguised trackers
 #
@@ -3177,103 +3278,92 @@ etrack.ext.hpe.com
 #
 ets.ni.com
 #
-# s1013191099.hs.eloqua.com disguised trackers
+# s1236288378.hs.eloqua.com disguised trackers
 #
-eumeainfo.motorolasolutions.com
-tracking.motorolasolutions.com
+event.clubcorp.com
 #
-# s1474118247.hs.eloqua.com disguised trackers
+# s1791556376.hs.eloqua.com disguised trackers
 #
-event3.thermofisher.com
-event3.thermoscientific.com
-info3.thermofisher.com
-#
-# s1363.hs.eloqua.com disguised trackers
-#
-events.engage.cebglobal.com
-tracking.shl.com
-#
-# s155059993.hs.eloqua.com disguised trackers
-#
-events.enigen.co.uk
+events.georgiancollege.ca
 #
 # s672.hs.eloqua.com disguised trackers
 #
 events.interface.com
 #
-# s1232257445.hs.eloqua.com disguised trackers
+# s1411.hs.eloqua.com disguised trackers
 #
-events.rewe-group.at
+events.lexmark.com
 #
-# s1528.hs.eloqua.com disguised trackers
+# s477300880.hs.eloqua.com disguised trackers
 #
-events.splunk.com
+events.oddo-bhf.com
+#
+# s680451474.hs.eloqua.com disguised trackers
+#
+evkeeza-e.regeneron.com
 #
 # s1885735477.hs.eloqua.com disguised trackers
 #
 experience.jcu.edu.au
 study.jcu.edu.au
 #
-# s1560774587.hs.eloqua.com disguised trackers
+# s1775412872.hs.eloqua.com disguised trackers
 #
-experience.limelight.com
+experience.rsm.com.au
 #
-# s255750147.hs.eloqua.com disguised trackers
+# s1044706121.hs.eloqua.com disguised trackers
 #
-explore-dev.agilent.com
+experiencia.coopecaja.fi.cr
 #
 # s1107300821.hs.eloqua.com disguised trackers
 #
 explore.agilent.com
-tracking.chem-agilent.com
 #
-# s1981585949.hs.eloqua.com disguised trackers
+# s1658862228.hs.eloqua.com disguised trackers
 #
-explore.att.com
-tracking.att.com
+explore.epsilon.com
+tracking.epsilon.com
+#
+# s240978839.hs.eloqua.com disguised trackers
+#
+explore.studyperth.com.au
 #
 # s61088445.hs.eloqua.com disguised trackers
 #
 feedback.avigilon.com
 fpc.avigilon.com
+fpc.indigovision.com
+fpc.pelco.com
 info.avigilon.com
+pages.indigovision.com
+pages.pelco.com
 #
 # s1056287425.hs.eloqua.com disguised trackers
 #
 feedback.vegasgoldenknights.com
 #
+# s1746211102.hs.eloqua.com disguised trackers
+#
+firstparty1.dentsplysirona.com
+#
+# s1278131127.hs.eloqua.com disguised trackers
+#
+flavors.firmenich.com
+investors.firmenich.com
+#
 # s1251203807.hs.eloqua.com disguised trackers
 #
 forms.bmc.com
 #
-# s1137903935.hs.eloqua.com disguised trackers
-#
-forms.mdreducation.com
-#
-# s1325.hs.eloqua.com disguised trackers
-#
-forms.progress.com
-#
 # s698935272.hs.eloqua.com disguised trackers
 #
 fpc.acpinternist.org
+www.acpprograms.org
 #
 # s868742820.hs.eloqua.com disguised trackers
 #
 fpc.broadway.com
-#
-# s2048847999.hs.eloqua.com disguised trackers
-#
-fpc.cebglobal.com
-#
-# s1265708786.hs.eloqua.com disguised trackers
-#
-fpc.ciel.com
-fpc.sage.com
-#
-# s1488120951.hs.eloqua.com disguised trackers
-#
-fpc.consumerportfolio.com
+shows.broadwayacrossamerica.com
 #
 # s154878491.hs.eloqua.com disguised trackers
 #
@@ -3283,6 +3373,23 @@ fpc.gartner.com
 #
 fpc.laerdal.com
 #
+# s84780736.hs.eloqua.com disguised trackers
+#
+fpc.pelican.com
+#
+# s1265708786.hs.eloqua.com disguised trackers
+#
+fpc.sage.com
+get.sage.com
+#
+# s295390938.hs.eloqua.com disguised trackers
+#
+fpc.seahawks.com
+#
+# s652089797.hs.eloqua.com disguised trackers
+#
+fpc.trimarkusa.com
+#
 # s1929339847.hs.eloqua.com disguised trackers
 #
 fpcdallasstars.nhl.com
@@ -3291,9 +3398,15 @@ fpcdallasstars.nhl.com
 #
 fpcsbulls.nba.com
 #
-# s742696346.hs.eloqua.com disguised trackers
+# s1157.hs.eloqua.com disguised trackers
 #
-france.alphabet.com
+fr.secure.sonosite.com
+kr.secure.sonosite.com
+secure.sonosite.com
+#
+# s1709896.hs.eloqua.com disguised trackers
+#
+funding.go.apprenticeshipcommunity.com.au
 #
 # s127504789.hs.eloqua.com disguised trackers
 #
@@ -3301,60 +3414,75 @@ future.uwindsor.ca
 learn.uwindsor.ca
 tracking.uwindsor.ca
 #
+# p07a.hs.eloqua.com disguised trackers
+#
+gba.kwm.com
+pages.kwm.com
+track.auckland.ac.nz
+#
+# s7468769.hs.eloqua.com disguised trackers
+#
+gba.kwm.com
+pages.kwm.com
+#
+# s788658067.hs.eloqua.com disguised trackers
+#
+gbl.radware.com
+#
 # s1053984823.hs.eloqua.com disguised trackers
 #
 gcn.tuv.com
 go.tuv.com
-visit.go.tuv.com
 #
 # s804077455.hs.eloqua.com disguised trackers
 #
 gdg.gardnerdenver.com
 #
-# s566810826.hs.eloqua.com disguised trackers
-#
-get.docusign.com
-track.docusign.co.uk
-track.docusign.com
-track.docusign.com.br
-track.docusign.com.es
-track.docusign.de
-track.docusign.fr
-track.docusign.mx
-#
 # s1763.hs.eloqua.com disguised trackers
 #
 get.kronos.com
 get.ukg.ca
+get.ukg.com.au
+get.ukg.mx
+www.get.ukg.com
+#
+# s3104.hs.eloqua.com disguised trackers
+#
+getmore.enelx.com
 #
 # s335973.hs.eloqua.com disguised trackers
 #
 global-mktg.transunion.com
 #
+# s616.hs.eloqua.com disguised trackers
+#
+globalbanking.wolterskluwer.com
+#
+# s773611208.hs.eloqua.com disguised trackers
+#
+globalcustodian.strategic-i.com
+#
 # s903.hs.eloqua.com disguised trackers
 #
 globalsolutions.risk.lexisnexis.com
-solutions.risk.lexisnexis.com
-tracking.risk.lexisnexis.co.uk
 tracking.risk.lexisnexis.com
-#
-# s1843060897.hs.eloqua.com disguised trackers
-#
-go.abcmetalroofing.com
-go.estoneworks.com
-go.mbci.com
-go.metaldepots.com
-track.estoneworks.com
-track.simonton.com
-#
-# s90815893.hs.eloqua.com disguised trackers
-#
-go.ali-cle.org
+tracking.risk.lexisnexis.com.br
 #
 # s2376.hs.eloqua.com disguised trackers
 #
 go.blackboard.com
-learn.anthology.com
+tracking.blackboard.com
+#
+# s1061282284.hs.eloqua.com disguised trackers
+#
+go.blackducksoftware.com
+#
+# s1424104964.hs.eloqua.com disguised trackers
+#
+go.bloombergindustry.com
+tracking.about.bgov.com
+tracking.bloombergindustry.com
+tracking.pro.bloombergtax.com
 #
 # s1012247495.hs.eloqua.com disguised trackers
 #
@@ -3363,13 +3491,13 @@ go.century21.fr
 # s5448495.hs.eloqua.com disguised trackers
 #
 go.cf.labanquepostale.fr
-trk.cf.labanquepostale.fr
 #
 # s1409029440.hs.eloqua.com disguised trackers
 #
 go.climate.emerson.com
 go.comres.emerson.com
-go.klauke.emerson.com
+go.proteam.emerson.com
+go.ridgid.emerson.com
 track.go.comres.emerson.com
 #
 # s1983452.hs.eloqua.com disguised trackers
@@ -3396,38 +3524,47 @@ go.edmontonoilers.com
 #
 go.edmontonoilers.com
 #
+# s958641.hs.eloqua.com disguised trackers
+#
+go.emeadatacenter.services.global.ntt
+trk.emeadatacenter.services.global.ntt
+#
 # s367589339.hs.eloqua.com disguised trackers
 #
 go.emersonautomation.com
 #
-# secure.p06.eloqua.com disguised trackers
+# s1783419991.hs.eloqua.com disguised trackers
 #
-go.exactonline.nl
+go.enautics.com
+#
+# s1704464.hs.eloqua.com disguised trackers
+#
+go.fhlbny.com
+#
+# s634881558.hs.eloqua.com disguised trackers
+#
+go.firstderivatives.com
 #
 # s1068280789.hs.eloqua.com disguised trackers
 #
 go.fuze.com
 #
-# s1035727210.hs.eloqua.com disguised trackers
+# s5139842.hs.eloqua.com disguised trackers
 #
-go.kareo.com
-#
-# s634881558.hs.eloqua.com disguised trackers
-#
-go.kx.com
+go.info.verifi.com
 #
 # s638200148.hs.eloqua.com disguised trackers
 #
 go.l-com.com
 #
-# s1472843.hs.eloqua.com disguised trackers
-#
-go.labcorp.com
-tracking2.labcorp.com
-#
 # s1973398186.hs.eloqua.com disguised trackers
 #
 go.oracle.com
+#
+# s97097.hs.eloqua.com disguised trackers
+#
+go.provident.bank
+tracking.go.provident.bank
 #
 # s2118877368.hs.eloqua.com disguised trackers
 #
@@ -3436,62 +3573,48 @@ go.psentertainment.com
 # s1372514231.hs.eloqua.com disguised trackers
 #
 go.sgs.com
-#
-# s1200869431.hs.eloqua.com disguised trackers
-#
-go.testo.com
+stats.sgs.com
 #
 # s2136619493.hs.eloqua.com disguised trackers
 #
 go.zendesk.com
 #
-# s2023.hs.eloqua.com disguised trackers
+# s646005169.hs.eloqua.com disguised trackers
 #
-go2.kofax.com
+go2.mathworks.com
 #
 # s1594690046.hs.eloqua.com disguised trackers
 #
 go5.global.toshiba
 #
-# s204200226.hs.eloqua.com disguised trackers
+# s1865390481.hs.eloqua.com disguised trackers
 #
-grow.advisorgroup.com
+grow.national.biz
 #
 # s1311950425.hs.eloqua.com disguised trackers
 #
 gsasolutionssecure.gsa.gov
 #
-# s61956.hs.eloqua.com disguised trackers
+# s2108654627.hs.eloqua.com disguised trackers
 #
-healthcare.oakstreethealth.com
-tracking.learn.oakstreethealth.com
-visit.oakstreethealth.com
+healthcare.questdiagnostics.com
 #
 # s1833705806.hs.eloqua.com disguised trackers
 #
 hello.bpost.be
 #
-# s2105415040.hs.eloqua.com disguised trackers
+# s1399701292.hs.eloqua.com disguised trackers
 #
-hello.solliciteren.bpost.be
-#
-# s1236249806.hs.eloqua.com disguised trackers
-#
-hvac.solutions.jci.com
-info.johnsoncontrols.com
-security.solutions.jci.com
-#
-# s1979981877.hs.eloqua.com disguised trackers
-#
-i.moneytransfer.travelex.com
+hopeful.coh.org
+response.coh.org
 #
 # secure.p04.eloqua.com disguised trackers
 #
 ihub.dpworlduae.com
 #
-# sni-wildcard.en25.com.edgekey.net disguised trackers
+# s1792984.hs.eloqua.com disguised trackers
 #
-images.info.monumentalsports.com
+info.airborn.com
 #
 # s397286491.hs.eloqua.com disguised trackers
 #
@@ -3500,14 +3623,19 @@ info.aldcarmarket.com
 # s273075935.hs.eloqua.com disguised trackers
 #
 info.arp.com
+service.bechtle.com
+#
+# s986383348.hs.eloqua.com disguised trackers
+#
+info.authorize.net
 #
 # s1874466.hs.eloqua.com disguised trackers
 #
 info.barcoproducts.com
 #
-# s2082.hs.eloqua.com disguised trackers
+# s906.hs.eloqua.com disguised trackers
 #
-info.boozallen.com
+info.brightcove.com
 #
 # s769142976.hs.eloqua.com disguised trackers
 #
@@ -3517,19 +3645,22 @@ info.christus.mx
 #
 info.clarivate.com
 #
-# s2025046056.hs.eloqua.com disguised trackers
+# s517069690.hs.eloqua.com disguised trackers
 #
-info.dataguidance.com
-info.onetrust.com
+info.commercial.keurig.com
 #
-# s1315729181.hs.eloqua.com disguised trackers
+# s1054571203.hs.eloqua.com disguised trackers
 #
-info.dksh.com
+info.dfinsolutions.com
 #
-# s534595109.hs.eloqua.com disguised trackers
+# s1482233545.hs.eloqua.com disguised trackers
 #
-info.edb.gov.sg
-tracking.edb.gov.sg
+info.fdbhealth.com
+tracking.fdbhealth.com
+#
+# s839961370.hs.eloqua.com disguised trackers
+#
+info.fishersci.com
 #
 # s141717539.hs.eloqua.com disguised trackers
 #
@@ -3539,32 +3670,23 @@ info.hmisrael.co.il
 #
 info.houzz.com
 #
-# s1172116142.hs.eloqua.com disguised trackers
+# s4793349.hs.eloqua.com disguised trackers
 #
-info.kalevavakuutus.fi
-info.mandatumlife.ee
-#
-# s452605141.hs.eloqua.com disguised trackers
-#
-info.legal-solutions.thomsonreuters.co.uk
+info.laley.es
+stat.guiasjuridicas.es
+stat.juridicas.com
+stat.laley.es
+stat.laleynext.es
+stat.wolterskluwer.es
+stat.wolterskluwer.pt
 #
 # s1219509997.hs.eloqua.com disguised trackers
 #
 info.macktrucks.com
 #
-# s668595.hs.eloqua.com disguised trackers
+# s208914684.hs.eloqua.com disguised trackers
 #
-info.metronetinc.com
-trk.metronet.com
-trk.metronetbusiness.com
-#
-# s1007965240.hs.eloqua.com disguised trackers
-#
-info.mkt.global.dnp.co.jp
-#
-# s586980387.hs.eloqua.com disguised trackers
-#
-info.neighborly.com
+info.markmonitor.com
 #
 # s1492372420.hs.eloqua.com disguised trackers
 #
@@ -3582,60 +3704,103 @@ info.proedge.pwc.com
 #
 info.reutersagency.com
 #
+# s679701162.hs.eloqua.com disguised trackers
+#
+info.scorecardrewards.com
+pp.scorecardrewards.com
+#
 # s258238139.hs.eloqua.com disguised trackers
 #
 info.shavve.co.il
+#
+# s645819469.hs.eloqua.com disguised trackers
+#
+info.sunsentinelmediagroup.com
+#
+# s642.hs.eloqua.com disguised trackers
+#
+info.thermofisher.com
+#
+# s302289644.hs.eloqua.com disguised trackers
+#
+info.unis.edu.gt
 #
 # s1788.hs.eloqua.com disguised trackers
 #
 info1.thermofisher.com
 #
-# s919248531.hs.eloqua.com disguised trackers
+# s1474118247.hs.eloqua.com disguised trackers
 #
-infopromerica.promerica.fi.cr
+info3.thermofisher.com
 #
-# s2650.hs.eloqua.com disguised trackers
+# s1988571858.hs.eloqua.com disguised trackers
 #
-insight.optum.com
-optumcoding.optum.com
-trk.optum.com
+inform.janssenpro.eu
+tracking.janssenmedicalcloud.de
+#
+# s3243454.hs.eloqua.com disguised trackers
+#
+information.lgcns.com
+#
+# s741846630.hs.eloqua.com disguised trackers
+#
+ins.leavitt.com
+#
+# s1706134858.hs.eloqua.com disguised trackers
+#
+insight.business.hsbc.com
+#
+# s1178718692.hs.eloqua.com disguised trackers
+#
+insights.ddiworld.com
 #
 # s1503422690.hs.eloqua.com disguised trackers
 #
 insurance.alliant.com
 #
-# s383344069.hs.eloqua.com disguised trackers
-#
-intel-trk.informa.com
-pages.maritimeintelligence.informa.com
-pages.ovum.informa.com
-pages.pharmaintelligence.informa.com
-#
-# s1278131127.hs.eloqua.com disguised trackers
-#
-investors.firmenich.com
-perfumery.firmenich.com
-#
 # s1127287735.hs.eloqua.com disguised trackers
 #
-ixia-lp.keysight.com
+ixia-elq.keysight.com
 #
-# s1681848331.hs.eloqua.com disguised trackers
+# s2078548478.hs.eloqua.com disguised trackers
 #
-kampanjer.yxvisa.no
+join.pharmapackeurope.com
 #
-# s2137.hs.eloqua.com disguised trackers
+# s341504499.hs.eloqua.com disguised trackers
 #
-knowledge.bgrs.com
+kampanjat.atea.fi
+tracking.atea.fi
+#
+# s1654.hs.eloqua.com disguised trackers
+#
+know.wolterskluwerlr.com
+trackinglrus.wolterskluwer.com
 #
 # s839411425.hs.eloqua.com disguised trackers
 #
 lakerspreferences.gleague.nba.com
+preferences.la-lakers.com
+#
+# s1364398973.hs.eloqua.com disguised trackers
+#
+landing-effacts.wolterskluwer.com
+landing-kleos.wolterskluwer.com
+landing-smartdocument.wolterskluwer.com
+lrbelgium.wolterskluwer.com
+lrnetherlands.wolterskluwer.com
+lrpoland.wolterskluwer.com
+lrportugal.wolterskluwer.com
+stat.ipsoa.it
+stat.lex.pl
+stat.prawo.pl
+stat.profinfo.pl
+stat.wki.it
+stat.wolterskluwer.com
+stat.wolterskluwer.pl
 #
 # s508159127.hs.eloqua.com disguised trackers
 #
 landing.computershare.com
-landing.kccllc.com
 #
 # s3049749.hs.eloqua.com disguised trackers
 #
@@ -3645,61 +3810,43 @@ lantern.fortinet.com
 #
 latam.thomsonreuters.com
 #
-# s418338141.hs.eloqua.com disguised trackers
-#
-law.moore.be
-#
-# s591513.hs.eloqua.com disguised trackers
-#
-lead.blackrock.com
-#
 # s1433593509.hs.eloqua.com disguised trackers
 #
 learn.armaninollp.com
 #
-# s1037187806.hs.eloqua.com disguised trackers
+# s1133169544.hs.eloqua.com disguised trackers
 #
-learn.mvpindex.com
+learn.carlingtech.com
+#
+# s1025.hs.eloqua.com disguised trackers
+#
+learn.relationshipone.com
 #
 # s2417.hs.eloqua.com disguised trackers
 #
 lfn.lfg.com
 #
-# s1407994545.hs.eloqua.com disguised trackers
-#
-lincolnfinancialgroup.lfg.com
-#
-# s606665.hs.eloqua.com disguised trackers
-#
-lineside.networkrail.co.uk
-#
-# s1705133317.hs.eloqua.com disguised trackers
-#
-links.commercialemails.lloydsbank.com
-#
-# s74881809.hs.eloqua.com disguised trackers
-#
-links.e.response.mayoclinic.org
-#
 # s742824262.hs.eloqua.com disguised trackers
 #
 live.alljobs.co.il
 #
-# s462232510.hs.eloqua.com disguised trackers
+# s4558456.hs.eloqua.com disguised trackers
 #
-log.cognex.com
+lkr-trk.reply.com
 #
 # s804982657.hs.eloqua.com disguised trackers
 #
 logistics.dbschenker.com
+news.dbschenker.com
+solutions.dbschenker.com
 #
 # s1829601.hs.eloqua.com disguised trackers
 #
 lp-eq.mitsuichemicals.com
 #
-# s8812321.hs.eloqua.com disguised trackers
+# s1469681.hs.eloqua.com disguised trackers
 #
-lp.edpcomunicacao.com.br
+lp.connectedcare.wkhs.com
 #
 # s608.hs.eloqua.com disguised trackers
 #
@@ -3709,31 +3856,21 @@ lp.embarcadero.com
 #
 lp.info.jeffersonhealth.org
 #
-# s1135117188.hs.eloqua.com disguised trackers
-#
-lp.marketing.engie-homeservices.fr
-#
-# s73756918.hs.eloqua.com disguised trackers
-#
-lp.mkt-email.samsungsds.com
-tracking.mkt-email.samsungsds.com
-#
 # s1777052651.hs.eloqua.com disguised trackers
 #
 lp.sophos.com
 #
-# s1990706537.hs.eloqua.com disguised trackers
+# s1361878872.hs.eloqua.com disguised trackers
 #
-lp.svenskapostkodlotteriet.se
-track.postkodlotteriet.se
+lp.yamane-m.co.jp
 #
 # s1107114332.hs.eloqua.com disguised trackers
 #
 lp1.dentsplysirona.com
 #
-# s564771534.hs.eloqua.com disguised trackers
+# s1507378874.hs.eloqua.com disguised trackers
 #
-lps-info.arval.com
+m.premier.info.shutterstock.com
 #
 # s1145.hs.eloqua.com disguised trackers
 #
@@ -3741,212 +3878,236 @@ ma.hmhco.com
 #
 # s1660.hs.eloqua.com disguised trackers
 #
-mail.dolce-gusto.co.kr
-mail.dolce-gusto.com.sg
-mail.dolce-gusto.nl
+mail.dolce-gusto.cl
+mail.dolce-gusto.gr
 mail.dolce-gusto.pt
-mail.dolce-gusto.ru
-newsletter.dolce-gusto.ch
+mail.dolce-gusto.ro
 #
-# s1279892398.hs.eloqua.com disguised trackers
+# s748859613.hs.eloqua.com disguised trackers
 #
-mails.coloplast.com
+making-future.afry.com
+t.afry.com
 #
-# s4042109.hs.eloqua.com disguised trackers
+# s1284661142.hs.eloqua.com disguised trackers
 #
-marketing-ap.mitsubishi-copper.com
+map.rockwellautomation.com
 #
-# s688533.hs.eloqua.com disguised trackers
+# s55867.hs.eloqua.com disguised trackers
 #
-marketing.agora.io
-tracking.agora.io
+marketing.championhomes.com
 #
-# s1430050704.hs.eloqua.com disguised trackers
+# s1629121027.hs.eloqua.com disguised trackers
 #
-marketing.alkhaleej.com.sa
+marketing.royalalaskanmovers.com
 #
-# s1498573908.hs.eloqua.com disguised trackers
+# s1023994345.hs.eloqua.com disguised trackers
 #
-marketing.saintlukeskc.org
+markets.eclerx.com
+services.eclerx.com
+#
+# s640556.hs.eloqua.com disguised trackers
+#
+mat.lgdisplay.com
 #
 # s223222610.hs.eloqua.com disguised trackers
 #
 medion.interamerican.gr
 #
-# s2677.hs.eloqua.com disguised trackers
-#
-meetings.gaylordhotels.com
-updates.gaylordhotels.com
-#
 # s341921710.hs.eloqua.com disguised trackers
 #
 memelq.acs.org
-#
-# s689.hs.eloqua.com disguised trackers
-#
-met.adaptiveinsights.com
 #
 # s2894949.hs.eloqua.com disguised trackers
 #
 metrics.mhi.com
 #
+# s2126871889.hs.eloqua.com disguised trackers
+#
+metricsinfo.edc.ca
+secureinfo.edc.ca
+#
+# s893956921.hs.eloqua.com disguised trackers
+#
+mfg.informabi.com
+#
+# s50277215.hs.eloqua.com disguised trackers
+#
+mkt-tracking.cloudmargin.com
+#
+# s205422009.hs.eloqua.com disguised trackers
+#
+mkt.compactaprint.com.br
+#
 # s417558342.hs.eloqua.com disguised trackers
 #
 my.orhp.com
 #
-# s1120.hs.eloqua.com disguised trackers
-#
-my.verisk.com
-tracking.air-worldwide.com
-tracking.verisk.com
-w4.air-worldwide.com
-#
 # s1475040089.hs.eloqua.com disguised trackers
 #
+myevents.thalesgroup.com
 myfeed.thalesgroup.com
+t.thalesgroup.com
 #
-# s1783.hs.eloqua.com disguised trackers
+# s736472.hs.eloqua.com disguised trackers
 #
-myprofile.panasonic.eu
+myfuture.futureelectronics.com
 #
 # s43975733.hs.eloqua.com disguised trackers
 #
 nbg.seagate.com
 #
-# s1223172139.hs.eloqua.com disguised trackers
+# s1816717515.hs.eloqua.com disguised trackers
 #
-news.mopar.eu
-#
-# s2771.hs.eloqua.com disguised trackers
-#
-news.swisspostsolutions.com
+news.communications-rmngp.fr
 #
 # s645654258.hs.eloqua.com disguised trackers
 #
 newsletters.bancsabadell.com
 #
-# s1354.hs.eloqua.com disguised trackers
+# s23693100.hs.eloqua.com disguised trackers
 #
-notices.intrado.com
-safety.west.com
-safety1.west.com
+nordics.atradius.com
 #
-# s786665.hs.eloqua.com disguised trackers
+# s1758221812.hs.eloqua.com disguised trackers
 #
-notify.eset.com
-#
-# s1346786309.hs.eloqua.com disguised trackers
-#
-now.fintechfutures.com
-trk.fintechfutures.com
-trk.wealthmanagement.com
-#
-# s460363377.hs.eloqua.com disguised trackers
-#
-nzbusiness.vodafone.co.nz
+now.greenbuildexpo.com
 #
 # s244475.hs.eloqua.com disguised trackers
 #
 oci.dyn.com
 #
-# s695499979.hs.eloqua.com disguised trackers
+# s20103530.hs.eloqua.com disguised trackers
 #
-offer.coface.com
+offers.la-z-boy.com
 #
-# s281200032.hs.eloqua.com disguised trackers
+# s279295639.hs.eloqua.com disguised trackers
 #
-offer.lyreco.com
+oiat.dow.com
 #
-# secure.p03.eloqua.com disguised trackers
+# s1445544.hs.eloqua.com disguised trackers
 #
-p03.sc.origins.en25.com
-#
-# s583626383.hs.eloqua.com disguised trackers
-#
-page.thalesgroup.com
+page.health.tmcaz.com
+tracking.health.tmcaz.com
 #
 # s103126886.hs.eloqua.com disguised trackers
 #
 pages.canon.com.au
 #
-# s856856423.hs.eloqua.com disguised trackers
-#
-pages.contact.umpquabank.com
-tracking.columbiabank.com
-#
-# s1583091431.hs.eloqua.com disguised trackers
-#
-pages.info.exclusive-networks.com
-#
 # s1909208.hs.eloqua.com disguised trackers
 #
 pages.ledger.com
 #
-# s459519.hs.eloqua.com disguised trackers
+# s383344069.hs.eloqua.com disguised trackers
 #
-pages.protective.com
-tracking.protective.com
+pages.pharmaintelligence.informa.com
+#
+# s9445901.hs.eloqua.com disguised trackers
+#
+pages.response.terex.com
+tracking.response.terex.com
 #
 # s6148858.hs.eloqua.com disguised trackers
 #
 pages.sailgp.com
 tracking.sailgp.com
 #
-# s1374.hs.eloqua.com disguised trackers
+# s1625795586.hs.eloqua.com disguised trackers
 #
-pages.washingtoncaps.com
+pages.visitdubai.com
+tracking.visitdubai.com
 #
 # s983166544.hs.eloqua.com disguised trackers
 #
-partnersuccess.cisco.com
 partnersuccessmetrics.cisco.com
 #
-# s2111304400.hs.eloqua.com disguised trackers
+# s1887739738.hs.eloqua.com disguised trackers
 #
-phcbi-solution.phchd.com
+pcm.symantec.com
 #
-# s379887778.hs.eloqua.com disguised trackers
+# s46849916.hs.eloqua.com disguised trackers
 #
-pop.dmglobal.com
+pgs.farmprogress.com
+trk.beefmagazine.com
+trk.farmprogress.com
+trk.nationalhogfarmer.com
+#
+# s1734025471.hs.eloqua.com disguised trackers
+#
+plbusiness.samsung.com
+tracking.europe.business.samsung.com
+#
+# s1634886871.hs.eloqua.com disguised trackers
+#
+posgrado.javeriana.edu.co
+pregrados.javeriana.edu.co
+#
+# s1632284857.hs.eloqua.com disguised trackers
+#
+pr.cision.com
+pr.prnewswire.com
+#
+# s1630091360.hs.eloqua.com disguised trackers
+#
+profiling.outokumpu.com
 #
 # s2044960264.hs.eloqua.com disguised trackers
 #
 profiling.ruukki.com
+#
+# s1892927.hs.eloqua.com disguised trackers
+#
+promotion.lginnotek.com
+#
+# s59104477.hs.eloqua.com disguised trackers
+#
+promotion.sedo.com
 #
 # s1913652004.hs.eloqua.com disguised trackers
 #
 pubstr.acs.org
 pubstr.chemrxiv.org
 #
+# s1450716703.hs.eloqua.com disguised trackers
+#
+rc.precisely.com
+tracking.precisely.com
+#
+# s1233.hs.eloqua.com disguised trackers
+#
+redwingforbusiness.redwingsafety.com
+#
+# s2150.hs.eloqua.com disguised trackers
+#
+reg.informationweek.com
+trk.darkreading.com
+trk.enterpriseconnect.com
+trk.gamedeveloper.com
+trk.gdconf.com
+trk.informatech.com
+trk.informationweek.com
+trk.networkcomputing.com
+#
 # s459.hs.eloqua.com disguised trackers
 #
-resources-it.opentext.com
 resources.opentext.com
 resources.opentext.fr
-#
-# s1164411065.hs.eloqua.com disguised trackers
-#
-respassango.carte-gr.total.fr
 #
 # s779983035.hs.eloqua.com disguised trackers
 #
 response.arizonacoyotes.com
 #
-# s1399701292.hs.eloqua.com disguised trackers
-#
-response.coh.org
-#
 # p02j.hs.eloqua.com disguised trackers
+#
+response.desjardins.com
+#
+# s2006753802.hs.eloqua.com disguised trackers
 #
 response.desjardins.com
 #
 # s225884627.hs.eloqua.com disguised trackers
 #
 response.emoneyadvisor.com
-#
-# s2101555135.hs.eloqua.com disguised trackers
-#
-response.idt.com
+tracking.emoneyadvisor.com
 #
 # s893759278.hs.eloqua.com disguised trackers
 #
@@ -3955,15 +4116,11 @@ response.iqpc.com
 # s1042585190.hs.eloqua.com disguised trackers
 #
 response.playpower.com
-response.playworld.com
+response.usa-shade.com
 #
-# s3121.hs.eloqua.com disguised trackers
+# s1528.hs.eloqua.com disguised trackers
 #
-responsemp.civica.com
-#
-# s1770571578.hs.eloqua.com disguised trackers
-#
-review.teradata.com
+response.splunk.com
 #
 # s2116941023.hs.eloqua.com disguised trackers
 #
@@ -3975,36 +4132,23 @@ s362693299.aon.com
 #
 # s976772240.hs.eloqua.com disguised trackers
 #
-sa.click.finning.com
-#
-# s1982434765.hs.eloqua.com disguised trackers
-#
-sandboxeformsonboarding.globalbanking.wolterskluwer.com
-#
-# s1734073713.hs.eloqua.com disguised trackers
-#
-seao.business.samsung.com
-tracking.apac.business.samsung.com
+satracking.finning.com
 #
 # s159500889.hs.eloqua.com disguised trackers
 #
 secure-eugo.arrow.com
 #
-# s1304.hs.eloqua.com disguised trackers
+# s3086.hs.eloqua.com disguised trackers
 #
-secure.arrow.com
-#
-# s1953390366.hs.eloqua.com disguised trackers
-#
-secure.fortinet.com
+secure.immixgroup.com
 #
 # s2427.hs.eloqua.com disguised trackers
 #
 secure.info.domo.com
 #
-# p02.hs.eloqua.com disguised trackers
+# s380021914.hs.eloqua.com disguised trackers
 #
-secure.lapersonnelle.com
+secure.medtronicinteract.com
 #
 # s1744479642.hs.eloqua.com disguised trackers
 #
@@ -4017,18 +4161,6 @@ secure.sw.broadcom.com
 # s1133198723.hs.eloqua.com disguised trackers
 #
 secure.wiley.com
-#
-# p02k.hs.eloqua.com disguised trackers
-#
-secure1.desjardinsgeneralinsurance.com
-#
-# s281178611.hs.eloqua.com disguised trackers
-#
-secure1.desjardinsgeneralinsurance.com
-#
-# p02c.hs.eloqua.com disguised trackers
-#
-secure1.lapersonnelle.com
 #
 # s1368768478.hs.eloqua.com disguised trackers
 #
@@ -4056,22 +4188,33 @@ securecookiesdustininfo.dustinhome.nl
 securecookiesdustininfo.dustinhome.no
 securecookiesdustininfo.dustinhome.se
 #
+# s1782160512.hs.eloqua.com disguised trackers
+#
+secured.online.avon.com
+#
+# s2437.hs.eloqua.com disguised trackers
+#
+secureforms.nrs-inc.com
+#
 # s2085091463.hs.eloqua.com disguised trackers
 #
 secureforms.proagrica.com
+#
+# s2824.hs.eloqua.com disguised trackers
+#
+secureforms.xperthr.com
 #
 # s1505435838.hs.eloqua.com disguised trackers
 #
 secureforms.xperthr.nl
 #
-# s1521.hs.eloqua.com disguised trackers
+# s146977739.hs.eloqua.com disguised trackers
 #
-securetracking.eaton.com
+securetracking.golfpride.com
 #
-# s376572143.hs.eloqua.com disguised trackers
+# s1236249806.hs.eloqua.com disguised trackers
 #
-service.athlon.com
-tracking.athlon.com
+security.solutions.jci.com
 #
 # s1215213815.hs.eloqua.com disguised trackers
 #
@@ -4080,7 +4223,6 @@ services.princes-trust.org.uk
 # s911788392.hs.eloqua.com disguised trackers
 #
 shelter.dupont.com
-www.safety.dupont.com
 #
 # s394336720.hs.eloqua.com disguised trackers
 #
@@ -4095,9 +4237,13 @@ site.infosysbpm.com
 #
 situationalintelligence.cognyte.com
 #
-# s1198460215.hs.eloqua.com disguised trackers
+# s1164411065.hs.eloqua.com disguised trackers
 #
-solution.resonac.com
+smtps.carte-gr.total.fr
+#
+# s409256115.hs.eloqua.com disguised trackers
+#
+solutions.covance.com
 #
 # s530566577.hs.eloqua.com disguised trackers
 #
@@ -4107,9 +4253,9 @@ solutions.refinitiv.com
 #
 solutions.westrock.com
 #
-# s1535.hs.eloqua.com disguised trackers
+# s456196690.hs.eloqua.com disguised trackers
 #
-solutions2.risk.lexisnexis.com
+spaces.martela.com
 #
 # s244630019.hs.eloqua.com disguised trackers
 #
@@ -4119,13 +4265,9 @@ st.azcardinals.com
 #
 stat.bdc.ca
 #
-# s4793349.hs.eloqua.com disguised trackers
+# s1435678.hs.eloqua.com disguised trackers
 #
-stat.guiasjuridicas.es
-stat.juridicas.com
-stat.laley.es
-stat.laleynext.es
-stat.wolterskluwer.es
+stat.liaisons-sociales.fr
 #
 # s1896673673.hs.eloqua.com disguised trackers
 #
@@ -4135,9 +4277,14 @@ stat.starterre.fr
 #
 strikenurse.usnursing.com
 #
-# s756267526.hs.eloqua.com disguised trackers
+# s861531437.hs.eloqua.com disguised trackers
 #
-study.vu.edu.au
+subscribe.dnvgl.com
+webinar.dnvgl.com
+#
+# s2950557.hs.eloqua.com disguised trackers
+#
+support.labcorp.com
 #
 # s1460333.hs.eloqua.com disguised trackers
 #
@@ -4155,14 +4302,6 @@ t.arkansasrazorbacks.com
 #
 t.auburntigers.com
 #
-# s1000153.hs.eloqua.com disguised trackers
-#
-t.augustaentertainmentcomplex.com
-#
-# s26832.hs.eloqua.com disguised trackers
-#
-t.baylorbears.com
-#
 # s3978542.hs.eloqua.com disguised trackers
 #
 t.bceagles.com
@@ -4175,17 +4314,9 @@ t.bucky.uwbadgers.com
 #
 t.budweisergardens.com
 #
-# s2594519.hs.eloqua.com disguised trackers
-#
-t.byutickets.com
-#
 # s718390.hs.eloqua.com disguised trackers
 #
 t.calbears.com
-#
-# s407091.hs.eloqua.com disguised trackers
-#
-t.centreinthesquare.com
 #
 # s4041393.hs.eloqua.com disguised trackers
 #
@@ -4195,13 +4326,13 @@ t.cincinnatiarts.org
 #
 t.cubuffs.com
 #
+# s2336561.hs.eloqua.com disguised trackers
+#
+t.dawsoncreekeventscentre.com
+#
 # s2941439.hs.eloqua.com disguised trackers
 #
 t.ecupirates.com
-#
-# s1472250.hs.eloqua.com disguised trackers
-#
-t.emueagles.com
 #
 # s3953753.hs.eloqua.com disguised trackers
 #
@@ -4215,6 +4346,14 @@ t.festo.com
 #
 t.foxtheatre.org
 #
+# s77283.hs.eloqua.com disguised trackers
+#
+t.friars.com
+#
+# s717488.hs.eloqua.com disguised trackers
+#
+t.goarmywestpoint.com
+#
 # s2394888.hs.eloqua.com disguised trackers
 #
 t.gobearcats.com
@@ -4222,6 +4361,10 @@ t.gobearcats.com
 # s662344.hs.eloqua.com disguised trackers
 #
 t.gofrogs.com
+#
+# s4743215.hs.eloqua.com disguised trackers
+#
+t.gojacks.com
 #
 # s1173582.hs.eloqua.com disguised trackers
 #
@@ -4247,6 +4390,14 @@ t.hawkeyesports.com
 #
 t.huskers.com
 #
+# s2334089.hs.eloqua.com disguised trackers
+#
+t.jmusports.com
+#
+# s33828.hs.eloqua.com disguised trackers
+#
+t.krannertcenter.com
+#
 # s22009.hs.eloqua.com disguised trackers
 #
 t.kstatesports.com
@@ -4259,14 +4410,6 @@ t.libertyfirstcreditunionarena.com
 #
 t.lsusports.net
 #
-# s347007.hs.eloqua.com disguised trackers
-#
-t.mgoblue.com
-#
-# s808240.hs.eloqua.com disguised trackers
-#
-t.miamihurricanes.com
-#
 # s773600.hs.eloqua.com disguised trackers
 #
 t.msuspartans.com
@@ -4274,10 +4417,6 @@ t.msuspartans.com
 # s2234957.hs.eloqua.com disguised trackers
 #
 t.navysports.com
-#
-# s3690781.hs.eloqua.com disguised trackers
-#
-t.nhra.com
 #
 # s370925.hs.eloqua.com disguised trackers
 #
@@ -4291,10 +4430,6 @@ t.okstate.com
 #
 t.olemisssports.com
 #
-# s1552085.hs.eloqua.com disguised trackers
-#
-t.pbr.com
-#
 # s5520421.hs.eloqua.com disguised trackers
 #
 t.pittsburghpanthers.com
@@ -4303,21 +4438,17 @@ t.pittsburghpanthers.com
 #
 t.playhousesquare.org
 #
+# s7610.hs.eloqua.com disguised trackers
+#
+t.poconoraceway.com
+#
 # s2279082.hs.eloqua.com disguised trackers
 #
 t.pplcenter.com
 #
-# s756589.hs.eloqua.com disguised trackers
-#
-t.purduesports.com
-#
 # s2661780.hs.eloqua.com disguised trackers
 #
 t.ramblinwreck.com
-#
-# s8100632.hs.eloqua.com disguised trackers
-#
-t.scarletknights.com
 #
 # s3921539.hs.eloqua.com disguised trackers
 #
@@ -4327,17 +4458,9 @@ t.seminoles.com
 #
 t.sjsuspartans.com
 #
-# s2017763.hs.eloqua.com disguised trackers
-#
-t.sjuhawks.com
-#
 # s3327771.hs.eloqua.com disguised trackers
 #
 t.soonersports.com
-#
-# s384920.hs.eloqua.com disguised trackers
-#
-t.southernmiss.com
 #
 # s4239565.hs.eloqua.com disguised trackers
 #
@@ -4347,25 +4470,13 @@ t.texassports.com
 #
 t.texastech.com
 #
-# s2143640.hs.eloqua.com disguised trackers
+# s5183409.hs.eloqua.com disguised trackers
 #
-t.ticketatlantic.com
-#
-# s1638911.hs.eloqua.com disguised trackers
-#
-t.tribeathletics.com
-#
-# s4209711.hs.eloqua.com disguised trackers
-#
-t.tulanegreenwave.com
+t.ticketstaronline.com
 #
 # s2425245.hs.eloqua.com disguised trackers
 #
 t.uclabruins.com
-#
-# s697615.hs.eloqua.com disguised trackers
-#
-t.uhcougars.com
 #
 # s2019595.hs.eloqua.com disguised trackers
 #
@@ -4383,13 +4494,13 @@ t.und.com
 #
 t.unlvrebels.com
 #
-# s1787923.hs.eloqua.com disguised trackers
-#
-t.utahstateaggies.com
-#
 # s215943.hs.eloqua.com disguised trackers
 #
 t.villanova.com
+#
+# s1013753.hs.eloqua.com disguised trackers
+#
+t.vucommodores.com
 #
 # s790935.hs.eloqua.com disguised trackers
 #
@@ -4399,23 +4510,27 @@ t.whartoncenter.com
 #
 t.wvusports.com
 #
-# s2081649.hs.eloqua.com disguised trackers
+# s301200.hs.eloqua.com disguised trackers
 #
-t.xlcenter.com
+t.xtreamarena.com
 #
-# s1984576105.hs.eloqua.com disguised trackers
+# s706700.hs.eloqua.com disguised trackers
 #
-tech.softchoice.com
+tablo.outsetmedical.com
+#
+# s297511345.hs.eloqua.com disguised trackers
+#
+talenteq.intuit.com
 #
 # s1885539667.hs.eloqua.com disguised trackers
 #
 technology.informaengage.com
+trk.afcom.com
 trk.channelfutures.com
 trk.datacenterknowledge.com
 trk.iotworldtoday.com
 trk.itprotoday.com
 trk.webhostingtalk.com
-trk01.knect365.com
 #
 # s1836379484.hs.eloqua.com disguised trackers
 #
@@ -4434,20 +4549,17 @@ tr-ms.siemens-home.bsh-group.com
 # s19803528.hs.eloqua.com disguised trackers
 #
 trace.insead.edu
+tracking.insead.edu
 #
 # s1968580696.hs.eloqua.com disguised trackers
 #
+track-e.cypress.com
 track-e.infineon.com
 #
 # s2021.hs.eloqua.com disguised trackers
 #
 track.abrdn.com
-track.murray-intl.co.uk
-track.ukcpreit.com
-#
-# p07a.hs.eloqua.com disguised trackers
-#
-track.auckland.ac.nz
+track.financialfairness.org.uk
 #
 # s810866859.hs.eloqua.com disguised trackers
 #
@@ -4457,14 +4569,25 @@ track.auckland.ac.nz
 #
 track.clubcar.com
 #
+# s694841291.hs.eloqua.com disguised trackers
+#
+track.connectwise.com
+#
+# s566810826.hs.eloqua.com disguised trackers
+#
+track.docusign.co.uk
+track.docusign.com
+track.docusign.com.br
+track.docusign.com.es
+track.docusign.de
+track.docusign.fr
+track.docusign.jp
+track.docusign.mx
+#
 # s1990924103.hs.eloqua.com disguised trackers
 #
 track.ferrari.com
 track.ferraridealers.com
-#
-# s2600537.hs.eloqua.com disguised trackers
-#
-track.go.shokubai.co.jp
 #
 # s2255121.hs.eloqua.com disguised trackers
 #
@@ -4472,13 +4595,13 @@ track.info.cancertherapyadvisor.com
 track.info.clinicaladvisor.com
 track.info.dermatologyadvisor.com
 track.info.empr.com
-track.info.endocrinologyadvisor.com
+track.info.gastroenterologyadvisor.com
 track.info.infectiousdiseaseadvisor.com
 track.info.neurologyadvisor.com
 track.info.oncologynurseadvisor.com
+track.info.ophthalmologyadvisor.com
+track.info.optometryadvisor.com
 track.info.psychiatryadvisor.com
-track.info.pulmonologyadvisor.com
-track.info.rarediseaseadvisor.com
 track.info.renalandurologynews.com
 track.info.rheumatologyadvisor.com
 #
@@ -4491,17 +4614,26 @@ track.info.mcknightsseniorliving.com
 #
 track.info.mmm-online.com
 #
+# s3096123.hs.eloqua.com disguised trackers
+#
+track.info.prweekus.com
+#
+# s375943868.hs.eloqua.com disguised trackers
+#
+track.inspirage.com
+#
 # s19745433.hs.eloqua.com disguised trackers
 #
 track.lesmills.com
 #
-# s3277601.hs.eloqua.com disguised trackers
+# s1990706537.hs.eloqua.com disguised trackers
 #
-track.quad.com
+track.postkodlotteriet.se
 #
-# s1576029357.hs.eloqua.com disguised trackers
+# s1129361478.hs.eloqua.com disguised trackers
 #
-tracking-explore-ft.agilent.com
+tracker.providence.org
+tracker.swedish.org
 #
 # s45830372.hs.eloqua.com disguised trackers
 #
@@ -4511,39 +4643,28 @@ tracking-explore-uat.agilent.com
 #
 tracking-sandbox.vodafone.co.uk
 #
-# s955180079.hs.eloqua.com disguised trackers
-#
-tracking-uat.veritas.com
-#
 # s459453599.hs.eloqua.com disguised trackers
 #
 tracking.aapa.org
 #
-# s1424104964.hs.eloqua.com disguised trackers
+# s414407.hs.eloqua.com disguised trackers
 #
-tracking.about.bgov.com
-tracking.bloombergindustry.com
+tracking.adtran.com
 #
-# s474916.hs.eloqua.com disguised trackers
+# s688533.hs.eloqua.com disguised trackers
 #
-tracking.abrdn.com
+tracking.agora.io
 #
 # s882904488.hs.eloqua.com disguised trackers
 #
-tracking.academicyear.org
+tracking.aifsabroad.com
 tracking.aupairinamerica.com
 tracking.myaupairinamerica.com
-#
-# s342162.hs.eloqua.com disguised trackers
-#
-tracking.aconex.com
 #
 # s365128.hs.eloqua.com disguised trackers
 #
 tracking.alphacard.com
-tracking.barcodegiant.com
 tracking.barcodesinc.com
-tracking.digitalid.co.uk
 tracking.idwholesaler.com
 #
 # s1887074206.hs.eloqua.com disguised trackers
@@ -4553,31 +4674,16 @@ tracking.americas.business.samsung.com
 # s868446402.hs.eloqua.com disguised trackers
 #
 tracking.analysis.hibu.com
-tracking.blog.hibu.com
 tracking.hibu.com
 #
-# s1039926866.hs.eloqua.com disguised trackers
+# s1734073713.hs.eloqua.com disguised trackers
 #
-tracking.atea.dk
-#
-# s341504499.hs.eloqua.com disguised trackers
-#
-tracking.atea.fi
-#
-# s1751497201.hs.eloqua.com disguised trackers
-#
-tracking.attsavings.com
-#
-# s833068.hs.eloqua.com disguised trackers
-#
-tracking.averydennison.com
+tracking.apac.business.samsung.com
 #
 # s1444088438.hs.eloqua.com disguised trackers
 #
-tracking.bankofalbuquerque.com
 tracking.bankofoklahoma.com
 tracking.bankoftexas.com
-tracking.bokfinancial.com
 #
 # s1006266832.hs.eloqua.com disguised trackers
 #
@@ -4585,9 +4691,7 @@ tracking.bnppre.fr
 #
 # s1571500494.hs.eloqua.com disguised trackers
 #
-tracking.bonava.fi
 tracking.bonava.ru
-tracking.bonava.se
 #
 # s2132.hs.eloqua.com disguised trackers
 #
@@ -4605,50 +4709,25 @@ tracking.businessdirect.bt.com
 #
 tracking.bv.com
 #
-# s1684167.hs.eloqua.com disguised trackers
+# s2138.hs.eloqua.com disguised trackers
 #
-tracking.capitalbank.jo
-#
-# s80563.hs.eloqua.com disguised trackers
-#
-tracking.care.salinasvalleyhealth.com
+tracking.cengage.com
 #
 # s1647363395.hs.eloqua.com disguised trackers
 #
 tracking.changehealthcare.com
 #
-# s786780033.hs.eloqua.com disguised trackers
+# s856856423.hs.eloqua.com disguised trackers
 #
-tracking.clarivate.com
-#
-# s1396567887.hs.eloqua.com disguised trackers
-#
-tracking.coldspringusa.com
+tracking.columbiabank.com
 #
 # s6137615.hs.eloqua.com disguised trackers
 #
 tracking.connect.nicklaushealth.org
 #
-# s2190102.hs.eloqua.com disguised trackers
+# s252818013.hs.eloqua.com disguised trackers
 #
-tracking.connect.services.global.ntt
-#
-# s1469681.hs.eloqua.com disguised trackers
-#
-tracking.connectedcare.wkhs.com
-#
-# s1427524768.hs.eloqua.com disguised trackers
-#
-tracking.continuingstudies.wisc.edu
-tracking.pdc.wisc.edu
-#
-# s2676.hs.eloqua.com disguised trackers
-#
-tracking.corelogic.com
-#
-# s1054571203.hs.eloqua.com disguised trackers
-#
-tracking.dfinsolutions.com
+tracking.cranepi.com
 #
 # s1358.hs.eloqua.com disguised trackers
 #
@@ -4657,11 +4736,14 @@ tracking.direxion.com
 # s879985536.hs.eloqua.com disguised trackers
 #
 tracking.dr-10.com
-tracking.dr-8.com
 #
 # s1712683840.hs.eloqua.com disguised trackers
 #
 tracking.drivercenter.eu
+#
+# s534595109.hs.eloqua.com disguised trackers
+#
+tracking.edb.gov.sg
 #
 # s1672222.hs.eloqua.com disguised trackers
 #
@@ -4671,25 +4753,9 @@ tracking.eloq.soa.org
 #
 tracking.eloqua.modernize.com
 #
-# s304538.hs.eloqua.com disguised trackers
-#
-tracking.epredia.com
-#
-# s1658862228.hs.eloqua.com disguised trackers
-#
-tracking.epsilon.com
-#
-# s1734025471.hs.eloqua.com disguised trackers
-#
-tracking.europe.business.samsung.com
-#
 # s1739717246.hs.eloqua.com disguised trackers
 #
 tracking.evergy.com
-#
-# s1482233545.hs.eloqua.com disguised trackers
-#
-tracking.fdbhealth.com
 #
 # s275197016.hs.eloqua.com disguised trackers
 #
@@ -4703,9 +4769,13 @@ tracking.flukecal.com
 #
 tracking.fticonsulting.com
 #
-# s584437826.hs.eloqua.com disguised trackers
+# s544.hs.eloqua.com disguised trackers
 #
-tracking.go.atcc.org
+tracking.ftitechnology.com
+#
+# s8258.hs.eloqua.com disguised trackers
+#
+tracking.global-demand02.nec.com
 #
 # s192083571.hs.eloqua.com disguised trackers
 #
@@ -4715,29 +4785,21 @@ tracking.go.mge.com
 #
 tracking.go.onshape.com
 #
-# s97097.hs.eloqua.com disguised trackers
+# s8896332.hs.eloqua.com disguised trackers
 #
-tracking.go.provident.bank
+tracking.go.toyobo.co.jp
 #
 # s1253878073.hs.eloqua.com disguised trackers
 #
 tracking.hcltech.com
 #
-# s57532.hs.eloqua.com disguised trackers
+# s1022.hs.eloqua.com disguised trackers
 #
-tracking.health.bjc.org
-#
-# s1445544.hs.eloqua.com disguised trackers
-#
-tracking.health.tmcaz.com
+tracking.igloosoftware.com
 #
 # s1800677.hs.eloqua.com disguised trackers
 #
 tracking.info.ivanti.com
-#
-# s619564847.hs.eloqua.com disguised trackers
-#
-tracking.info.methodisthealthsystem.org
 #
 # s956780691.hs.eloqua.com disguised trackers
 #
@@ -4747,26 +4809,29 @@ tracking.info.rcgt.com
 #
 tracking.info.sailpoint.com
 #
+# s1133.hs.eloqua.com disguised trackers
+#
+tracking.info.servicenow.com
+#
 # s998125501.hs.eloqua.com disguised trackers
 #
 tracking.insperity.com
 #
-# s1988571858.hs.eloqua.com disguised trackers
+# s869025237.hs.eloqua.com disguised trackers
 #
-tracking.janssenmedicalcloud.com
-tracking.janssenmedicalcloud.de
+tracking.laurelsprings.com
 #
-# s1731913720.hs.eloqua.com disguised trackers
+# s61956.hs.eloqua.com disguised trackers
 #
-tracking.kubota.ca
+tracking.learn.oakstreethealth.com
 #
-# s2310.hs.eloqua.com disguised trackers
+# s1717.hs.eloqua.com disguised trackers
 #
-tracking.level3.com
+tracking.lenovo.com
 #
-# s1648533358.hs.eloqua.com disguised trackers
+# s1407994545.hs.eloqua.com disguised trackers
 #
-tracking.lfg.com
+tracking.lincolnfinancialgroup.lfg.com
 #
 # s732646936.hs.eloqua.com disguised trackers
 #
@@ -4775,35 +4840,43 @@ tracking.liwest.at
 # s881106.hs.eloqua.com disguised trackers
 #
 tracking.mail.ti.com
+tracking.mail.ti.com.cn
 #
 # s1011041821.hs.eloqua.com disguised trackers
 #
 tracking.max.co.il
 #
-# s1318145083.hs.eloqua.com disguised trackers
+# s73756918.hs.eloqua.com disguised trackers
 #
-tracking.modelgroup.com
+tracking.mkt-email.samsungsds.com
+#
+# s908331520.hs.eloqua.com disguised trackers
+#
+tracking.mwe.com
 #
 # s188399297.hs.eloqua.com disguised trackers
 #
 tracking.myregus.com
 tracking.regus.com
 #
-# s1439730185.hs.eloqua.com disguised trackers
+# s1981692173.hs.eloqua.com disguised trackers
 #
-tracking.netsuite.com
+tracking.nasdaq.com
 #
 # s2071357376.hs.eloqua.com disguised trackers
 #
 tracking.nissan-dubai.com
 #
-# s898424206.hs.eloqua.com disguised trackers
-#
-tracking.oceaneering.com
-#
 # s19892481.hs.eloqua.com disguised trackers
 #
 tracking.oldnational.com
+#
+# s1427524768.hs.eloqua.com disguised trackers
+#
+tracking.online.wisc.edu
+tracking.pdc.wisc.edu
+tracking.precollege.wisc.edu
+tracking.summer.wisc.edu
 #
 # s5020318.hs.eloqua.com disguised trackers
 #
@@ -4825,21 +4898,13 @@ tracking.pennmedicine.princetonhcs.org
 #
 tracking.pepsicopartners.com
 #
-# s1450716703.hs.eloqua.com disguised trackers
+# s2020524045.hs.eloqua.com disguised trackers
 #
-tracking.precisely.com
+tracking.petrelocation.com
 #
-# s2826.hs.eloqua.com disguised trackers
+# s459519.hs.eloqua.com disguised trackers
 #
-tracking.ptc.com
-#
-# s389462.hs.eloqua.com disguised trackers
-#
-tracking.quadient.com
-#
-# s2108654627.hs.eloqua.com disguised trackers
-#
-tracking.questdiagnostics.com
+tracking.protective.com
 #
 # s1505979.hs.eloqua.com disguised trackers
 #
@@ -4850,38 +4915,40 @@ tracking.reply.dpacnc.com
 #
 tracking.schneider.com
 #
+# s839047.hs.eloqua.com disguised trackers
+#
+tracking.seakeeper.com
+#
 # s576132794.hs.eloqua.com disguised trackers
 #
 tracking.service.cz.nl
 www.service.cz.nl
 #
-# s598301108.hs.eloqua.com disguised trackers
+# s1799992300.hs.eloqua.com disguised trackers
 #
-tracking.ssab.es
+tracking.sierrawireless.com
+#
+# s1387486446.hs.eloqua.com disguised trackers
+#
+tracking.singlestore.com
+#
+# s499344317.hs.eloqua.com disguised trackers
+#
+tracking.smartbets.com
+tracking.wettfreunde.net
 #
 # s1832.hs.eloqua.com disguised trackers
 #
 tracking.stemcell.com
 #
-# s3292856.hs.eloqua.com disguised trackers
-#
-tracking.stihl.be
-tracking.stihl.de
-tracking.stihl.es
-tracking.stihl.fr
-tracking.stihl.pt
-#
 # s1819762567.hs.eloqua.com disguised trackers
 #
 tracking.tdk.com
 #
-# s2070786569.hs.eloqua.com disguised trackers
-#
-tracking.te.com
-#
 # s441910513.hs.eloqua.com disguised trackers
 #
 tracking.ti.com
+tracking.ti.com.cn
 #
 # s1487871083.hs.eloqua.com disguised trackers
 #
@@ -4891,13 +4958,18 @@ tracking.trinet.com
 #
 tracking.umbrella.com
 #
+# s1207496928.hs.eloqua.com disguised trackers
+#
+tracking.unisabana.edu.co
+#
 # s1046939679.hs.eloqua.com disguised trackers
 #
 tracking.usj.es
 #
-# s301091484.hs.eloqua.com disguised trackers
+# s1120.hs.eloqua.com disguised trackers
 #
-tracking.utas.edu.au
+tracking.verisk.com
+w3.air-worldwide.com
 #
 # s1389013426.hs.eloqua.com disguised trackers
 #
@@ -4906,27 +4978,19 @@ tracking.veritas.com
 # s157200592.hs.eloqua.com disguised trackers
 #
 tracking.vertiv.com
+tracking.vertivco.com
 #
 # s1125168648.hs.eloqua.com disguised trackers
 #
 tracking.virtus.com
 #
-# s1625795586.hs.eloqua.com disguised trackers
-#
-tracking.visitdubai.com
-#
-# s1143965458.hs.eloqua.com disguised trackers
-#
-tracking.yealink.com.cn
-#
 # s345548666.hs.eloqua.com disguised trackers
 #
 tracking1.tena.com
 #
-# s468913550.hs.eloqua.com disguised trackers
+# s1472843.hs.eloqua.com disguised trackers
 #
-tracking2.questdiagnostics.com
-trials.questdiagnostics.com
+tracking2.labcorp.com
 #
 # s1234457786.hs.eloqua.com disguised trackers
 #
@@ -4944,6 +5008,10 @@ tracks1.ferrari.com
 #
 tracks3.ferrari.com
 #
+# s468913550.hs.eloqua.com disguised trackers
+#
+trials.questdiagnostics.com
+#
 # s966913078.hs.eloqua.com disguised trackers
 #
 trk.acukwik.com
@@ -4955,12 +5023,12 @@ trk.routesonline.com
 #
 trk.admmontreal.com
 trk.admtoronto.com
-trk.designcon.com
 trk.designnews.com
 trk.mddionline.com
 trk.packagingdigest.com
 trk.plasticstoday.com
 trk.powderandbulksolids.com
+trk.thebatteryshow.eu
 trkime.informa.com
 #
 # s230127911.hs.eloqua.com disguised trackers
@@ -4972,71 +5040,47 @@ trk.advisory.com
 trk.americancityandcounty.com
 trk.iwceexpo.com
 #
-# s46849916.hs.eloqua.com disguised trackers
+# s930.hs.eloqua.com disguised trackers
 #
-trk.beefmagazine.com
-trk.farmprogress.com
-trk.feedstuffs.com
-trk.nationalhogfarmer.com
-#
-# s348726.hs.eloqua.com disguised trackers
-#
-trk.connect.vulcanmaterials.com
+trk.business.westernunion.co.uk
+trk.business.westernunion.com
+trk.convera.com
+trk.en-cz.business.westernunion.com
+trk.en.business.westernunion.ch
+trk.fr.business.westernunion.ch
 #
 # s1252280979.hs.eloqua.com disguised trackers
 #
 trk.contentmarketinginstitute.com
 #
-# s2150.hs.eloqua.com disguised trackers
+# s1346786309.hs.eloqua.com disguised trackers
 #
-trk.darkreading.com
-trk.drdobbs.com
-trk.gamedeveloper.com
-trk.gdconf.com
-trk.informationweek.com
-trk.networkcomputing.com
-trk.nojitter.com
+trk.fintechfutures.com
+trk.wealthmanagement.com
 #
-# s958641.hs.eloqua.com disguised trackers
+# s1943367007.hs.eloqua.com disguised trackers
 #
-trk.emeadatacenter.services.global.ntt
+trk.food-management.com
+trk.nrn.com
+trk.restaurant-hospitality.com
+trk.supermarketnews.com
 #
-# s2044559064.hs.eloqua.com disguised trackers
+# s1931078500.hs.eloqua.com disguised trackers
 #
-trk.go.ingrammicrocloud.com
+trk.magicfashionevents.com
 #
-# s1507378874.hs.eloqua.com disguised trackers
+# s736811171.hs.eloqua.com disguised trackers
 #
-trk.info.shutterstock.com
+trk.meetingsnet.com
 #
-# s5139842.hs.eloqua.com disguised trackers
+# s668595.hs.eloqua.com disguised trackers
 #
-trk.info.verifi.com
+trk.metronet.com
+trk.metronetbusiness.com
 #
 # s1893331.hs.eloqua.com disguised trackers
 #
 trk.mktg.nec.com
-#
-# s928424.hs.eloqua.com disguised trackers
-#
-trk.ndtco.com
-#
-# s1943367007.hs.eloqua.com disguised trackers
-#
-trk.nrn.com
-trk.supermarketnews.com
-#
-# s1967927849.hs.eloqua.com disguised trackers
-#
-trk.protiviti.com
-#
-# s736811171.hs.eloqua.com disguised trackers
-#
-trk.specialevents.com
-#
-# s1860958887.hs.eloqua.com disguised trackers
-#
-trk.thinkhdi.com
 #
 # s434533438.hs.eloqua.com disguised trackers
 #
@@ -5046,21 +5090,13 @@ trk.wardsauto.com
 #
 trk01.iotworldtoday.com
 #
-# s30539076.hs.eloqua.com disguised trackers
+# s2677.hs.eloqua.com disguised trackers
 #
-updates.arcb.com
+updates.gaylordhotels.com
 #
 # s2073603363.hs.eloqua.com disguised trackers
 #
 us.ricoh-usa.com
-#
-# s499344317.hs.eloqua.com disguised trackers
-#
-user.pariurix.com
-#
-# s934807168.hs.eloqua.com disguised trackers
-#
-ussolutions.equifax.com
 #
 # s1824193043.hs.eloqua.com disguised trackers
 #
@@ -5091,22 +5127,29 @@ web.care.northoaks.org
 #
 web.care.sheppardpratt.org
 #
+# s124923.hs.eloqua.com disguised trackers
+#
+web.care.wakemed.org
+#
 # s2287589.hs.eloqua.com disguised trackers
 #
 web.health.childrenswi.org
 #
-# s708253975.hs.eloqua.com disguised trackers
+# s984275552.hs.eloqua.com disguised trackers
 #
-web.healthnews.thechristhospital.com
+web.health.memorialcare.org
 #
 # s5267799.hs.eloqua.com disguised trackers
 #
 web.houstontexans.com
-web.lsse.net
 #
 # s220745253.hs.eloqua.com disguised trackers
 #
 web.northwestern.nm.org
+#
+# s393074.hs.eloqua.com disguised trackers
+#
+web.wearejust.co.uk
 #
 # s1711294798.hs.eloqua.com disguised trackers
 #
@@ -5116,34 +5159,45 @@ webtracking.aucmed.edu
 #
 webtracking.becker.com
 #
+# s125869073.hs.eloqua.com disguised trackers
+#
+webtracking.chamberlain.edu
+#
 # s1349436993.hs.eloqua.com disguised trackers
 #
 webtracking.medical.rossu.edu
 #
-# s1109.hs.eloqua.com disguised trackers
+# s301572493.hs.eloqua.com disguised trackers
 #
-www-107.aig.com
+webtracking.oncourselearning.com
+#
+# s1173830714.hs.eloqua.com disguised trackers
+#
+welcome.item24.cz
+#
+# s418793455.hs.eloqua.com disguised trackers
+#
+www.dheerajrealitydemo.com
+#
+# s218036981.hs.eloqua.com disguised trackers
+#
+www.eventos-ins.com
 #
 # s1894139733.hs.eloqua.com disguised trackers
 #
-www.info.dunnhumby.com
-www.science.dunnhumby.com
+www.learn.dunnhumby.com
 #
 # s2090047988.hs.eloqua.com disguised trackers
 #
 www.mkt.uvg.edu.gt
 #
-# s2105547843.hs.eloqua.com disguised trackers
+# s1606748220.hs.eloqua.com disguised trackers
 #
-www.service.czdirect.nl
+www.solutions.prudential.com
 #
-# s1926260539.hs.eloqua.com disguised trackers
+# s84397462.hs.eloqua.com disguised trackers
 #
-www.service.just.nl
-#
-# s2744204.hs.eloqua.com disguised trackers
-#
-xvantage.ingrammicro.com
+www.zakelijk.cz.nl
 #
 # s1755874914.hs.eloqua.com disguised trackers
 #

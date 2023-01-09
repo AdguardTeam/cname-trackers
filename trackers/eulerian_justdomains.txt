@@ -20,8 +20,10 @@ a.oney.es
 a.perfumesclub.com
 a.perfumesclub.fr
 a.perfumesclub.nl
+a.weareknitters.dk
 a.weareknitters.se
 a8ht.hipp.fr
+ab.perfumesclub.com
 ac.acadomia.fr
 ali8.alinea.fr
 alp1.drimki.fr
@@ -30,6 +32,7 @@ anz7.allianz-voyage.fr
 aod4.societegenerale.fr
 ar.i-run.fr
 azg1.emalu-store.com
+b1n.carabins.umontreal.ca
 bch8.destinia.co
 bdj5.terrassesmontecarlosbm.com
 bft5.destinia.fr
@@ -39,6 +42,7 @@ bum7.bymycar.fr
 bvz5.destinia.com.tr
 bwj4.hrhibiza.com
 c0i.ckoi.com
+c0p.cepsum.umontreal.ca
 c4dv.copinesdevoyage.com
 ca.clubavantages.net
 cbl6.destinia.gt
@@ -152,6 +156,7 @@ elc1.energies.leclerc
 elr.sfr.fr
 erb.tremblant.ca
 ert5.rmcsport.tv
+et.swatch.com
 eule1.pmu.fr
 eule3.pmu.fr
 eule4.pmu.fr
@@ -199,6 +204,7 @@ gdm1.toner.fr
 gfn1.ugap.fr
 gfv4.destinia.co.za
 gif1.gifi.fr
+gsg9.carrefour-banque.fr
 guq9.vente-unique.it
 gwtc.sfr.fr
 h00c.sfr.fr
@@ -214,6 +220,7 @@ irs.iperceptions.com
 j2i0.mathon.fr
 jcr3.onlyyouhotels.com
 jelr1.dili.fr
+jfo0.societegenerale.fr
 jfp6.destinia.de
 jg0c.sfr.fr
 jhm3.ifgexecutive.com
@@ -347,7 +354,6 @@ t.locasun.it
 t.locasun.nl
 t.pmu.fr
 t.voyages-sncf.com
-t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tdf1.easyviaggio.com
@@ -377,6 +383,7 @@ vbe.voyage-prive.be
 vch.voyage-prive.ch
 vde1.voyage-prive.de
 vfo.voyage-prive.co.uk
+vfo4.carrefour-banque.fr
 vgo.vegaoo.de
 vgo.vegaoo.es
 vgo.vegaoo.it

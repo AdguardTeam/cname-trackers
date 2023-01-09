@@ -101,6 +101,7 @@
 ||cname-ade.gom-in.com^
 ||cname-ade.hankoya.com^
 ||cname-ade.original-calendar.com^
+||cname-ade.shachihata.biz^
 ||cname-adebis.nice2meet.us^
 ||cname-adebis.vcube.com^
 ||cname.crank-in.net^
@@ -111,6 +112,7 @@
 ||cname.kyusai.co.jp^
 ||cname.lions-mansion.jp^
 ||cname.mebiusseiyaku.co.jp^
+||cname.mitsuihome.co.jp^
 ||cname.nikkei-cnbc.co.jp^
 ||cname1.shakenkan.co.jp^
 ||cname2.shaken-yoyaku.com^

@@ -60,6 +60,7 @@
 ||tr.boletim.companeo.pt^
 ||tr.boletim.meu-orcamento.pt^
 ||tr.bonplan.mydesign.com^
+||tr.brand.labelleadresse.com^
 ||tr.btobquotes.com^
 ||tr.buenasofertas.pro^
 ||tr.bureauveritas.espmp-aufr.net^
@@ -156,6 +157,7 @@
 ||tr.devisminute-siteecommerce.com^
 ||tr.devize-companeo.ro^
 ||tr.digitaldigest.lvmh.com^
+||tr.directferries.com^
 ||tr.dirigeants.harmonie-mutuelle.fr^
 ||tr.discover.perfectstay.com^
 ||tr.djay.espmp-agfr.net^
@@ -343,6 +345,7 @@
 ||tr.mail.koregraf.com^
 ||tr.mail.mdbp.fr^
 ||tr.mail.moncoupdepouce.com^
+||tr.mail.primevere.com^
 ||tr.mail.satisfactory.fr^
 ||tr.mail.vip-mag.co.uk^
 ||tr.mail.vipmag.fr^
@@ -552,6 +555,7 @@
 ||tr.notification-gdpr.bnpparibas-personalfinance.fr^
 ||tr.notification-gdpr.bnpparibas-pf.fr^
 ||tr.notification-gdpr.cafineo.fr^
+||tr.notification-gdpr.cofica.fr^
 ||tr.notification-gdpr.cofinoga.fr^
 ||tr.notification-gdpr.credit-moderne.fr^
 ||tr.notification-gdpr.domofinance.fr^
@@ -569,6 +573,7 @@
 ||tr.np6.orange.fr^
 ||tr.observatoire.musee-orangerie.fr^
 ||tr.observatoire.musee-orsay.fr^
+||tr.oferta-firmy.pl^
 ||tr.ofertas-companeo.es^
 ||tr.offer-companeo.co.uk^
 ||tr.offerte.migliorifornitori.it^

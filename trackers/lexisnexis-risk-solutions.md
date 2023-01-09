@@ -59,6 +59,7 @@
     * h-8e0pj0s9.online-metrix.net
     * h-8gmrc4yu.online-metrix.net
     * h-8m7u92ti.online-metrix.net
+    * h-8ms1wsqq.online-metrix.net
     * h-8om29r2u-a.online-metrix.net
     * h-8om29r2u.online-metrix.net
     * h-8t63q4n4.online-metrix.net
@@ -94,6 +95,7 @@
     * h-astrazeneca.online-metrix.net
     * h-asurion.online-metrix.net
     * h-autoowners.online-metrix.net
+    * h-autozone.online-metrix.net
     * h-avant.online-metrix.net
     * h-axiata.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
@@ -108,6 +110,7 @@
     * h-banquecasino.online-metrix.net
     * h-barstoolsportsbook.online-metrix.net
     * h-beachbody.online-metrix.net
+    * h-benevity.online-metrix.net
     * h-bestbuy.online-metrix.net
     * h-betdaq.online-metrix.net
     * h-betfair.online-metrix.net
@@ -273,6 +276,7 @@
     * h-floridadms.online-metrix.net
     * h-fortenet.online-metrix.net
     * h-fortunejack.online-metrix.net
+    * h-franklintempleton.online-metrix.net
     * h-freelancer1.online-metrix.net
     * h-frshopdisney.online-metrix.net
     * h-fsymclue.online-metrix.net
@@ -381,6 +385,7 @@
     * h-marktplaats.online-metrix.net
     * h-massmutual.online-metrix.net
     * h-mbna.online-metrix.net
+    * h-meridian.online-metrix.net
     * h-messa.online-metrix.net
     * h-metlife.online-metrix.net
     * h-metrobank.online-metrix.net
@@ -454,6 +459,7 @@
     * h-qudosbank.online-metrix.net
     * h-quicken.online-metrix.net
     * h-rabobank.online-metrix.net
+    * h-rabobankuat.online-metrix.net
     * h-raise.online-metrix.net
     * h-rakbankonline.online-metrix.net
     * h-rbs-bank.online-metrix.net
@@ -461,7 +467,6 @@
     * h-rbsint.online-metrix.net
     * h-regionsbank.online-metrix.net
     * h-regionsbank2.online-metrix.net
-    * h-rei.online-metrix.net
     * h-rentpath.online-metrix.net
     * h-renttherunway.online-metrix.net
     * h-retail-sc.online-metrix.net
@@ -519,6 +524,7 @@
     * h-tsb.online-metrix.net
     * h-twctexas.online-metrix.net
     * h-twino.online-metrix.net
+    * h-udd8uxur.online-metrix.net
     * h-uplift.online-metrix.net
     * h-ups.online-metrix.net
     * h-uptodate.online-metrix.net
@@ -541,6 +547,7 @@
     * h-vystar.online-metrix.net
     * h-wallapop.online-metrix.net
     * h-walmart.online-metrix.net
+    * h-webftm.rbc.online-metrix.net
     * h-welabbank.online-metrix.net
     * h-wepay.online-metrix.net
     * h-werally.online-metrix.net
@@ -641,6 +648,7 @@
 | 1bf86f4b.tictoc.ai | h-8e0pj0s9.online-metrix.net |
 | tools.workforcewv.org | h-8gmrc4yu.online-metrix.net |
 | ftd.quodxx.com.br | h-8m7u92ti.online-metrix.net |
+| tmuat.kotak.com | h-8ms1wsqq.online-metrix.net |
 | digitalidentity.compass.it | h-8om29r2u-a.online-metrix.net |
 | piafapp.poste.it | h-8om29r2u.online-metrix.net |
 | rba.apata.io | h-8t63q4n4.online-metrix.net |
@@ -687,6 +695,7 @@
 | tmrpe.astrazeneca.com | h-astrazeneca.online-metrix.net |
 | content.asurion53.com | h-asurion.online-metrix.net |
 | customercenter-img04.auto-owners.com | h-autoowners.online-metrix.net |
+| mobile-content-f.autozone.com | h-autozone.online-metrix.net |
 | img2.avant.com | h-avant.online-metrix.net |
 | caveo.boost-my.com | h-axiata.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
@@ -701,6 +710,7 @@
 | banque.banque-casino.fr | h-banquecasino.online-metrix.net |
 | tm.barstoolsportsbook.com | h-barstoolsportsbook.online-metrix.net |
 | tm.beachbody.com | h-beachbody.online-metrix.net |
+| tm.benevity.org | h-benevity.online-metrix.net |
 | tmx.bestbuy.com | h-bestbuy.online-metrix.net |
 | log.betdaq.com | h-betdaq.online-metrix.net |
 | regstat.betfair.com | h-betfair.online-metrix.net |
@@ -821,6 +831,7 @@
 | cdna.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.paymentncb.cofidis.fr | h-cofidis-payment.online-metrix.net |
+| tst-cdna.paymentncb.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdnb.cashcentral.com | h-communityfinancial.online-metrix.net |
 | img.consumer.risk.lexisnexis.com | h-consumer-relx.online-metrix.net |
 | cdntm.rodanandfields.com | h-content.rodanandfields.online-metrix.net |
@@ -913,6 +924,7 @@
 | content.frs.fl.gov | h-floridadms.online-metrix.net |
 | img3.forte.net | h-fortenet.online-metrix.net |
 | img.fortunejack.com | h-fortunejack.online-metrix.net |
+| pages.fiduciarytrust.com | h-franklintempleton.online-metrix.net |
 | cdn1.f-cdn.com | h-freelancer1.online-metrix.net |
 | fr.shopdisney.disney.co.jp | h-frshopdisney.online-metrix.net |
 | s4.partner.yoomoney.ru | h-fsymclue.online-metrix.net |
@@ -976,6 +988,7 @@
 | content4c.iberia.com | h-iberia.online-metrix.net |
 | solstice.ibotta.com | h-ibotta.online-metrix.net |
 | devicecontent.icuracao.com | h-icuracao.online-metrix.net |
+| content.iddataweb.com | h-iddataweb.online-metrix.net |
 | content.maxconnector.com | h-iddataweb.online-metrix.net |
 | txcontent.iherb.cn | h-iherb.online-metrix.net |
 | txcontent.iherb.com | h-iherb.online-metrix.net |
@@ -1052,6 +1065,7 @@
 | faas.marktplaats.nl | h-marktplaats.online-metrix.net |
 | content.massmutual.com | h-massmutual.online-metrix.net |
 | check2.mbna.co.uk | h-mbna.online-metrix.net |
+| tmcontent.meridiancu.ca | h-meridian.online-metrix.net |
 | device.messa.org | h-messa.online-metrix.net |
 | verify.metlife.com | h-metlife.online-metrix.net |
 | tulips.metrobankonline.co.uk | h-metrobank.online-metrix.net |
@@ -1161,6 +1175,7 @@
 | content.qudosbank.com.au | h-qudosbank.online-metrix.net |
 | content.quicken.com | h-quicken.online-metrix.net |
 | ranzg.rabobank.com.au | h-rabobank.online-metrix.net |
+| ranzg.agribank.com.au | h-rabobankuat.online-metrix.net |
 | www7.raise.com | h-raise.online-metrix.net |
 | channel.rakbankonline.ae | h-rakbankonline.online-metrix.net |
 | tags.api.openaccount.natwest.com | h-rbs-bank.online-metrix.net |
@@ -1187,7 +1202,6 @@
 | tm.regionsqa.com | h-regionsbank.online-metrix.net |
 | tm.regionstest.com | h-regionsbank.online-metrix.net |
 | tm.regions.com | h-regionsbank2.online-metrix.net |
-| img24.rei.com | h-rei.online-metrix.net |
 | csource.rentals.com | h-rentpath.online-metrix.net |
 | secure.rtrcdn.com | h-renttherunway.online-metrix.net |
 | svc2.sc.com | h-retail-sc.online-metrix.net |
@@ -1255,6 +1269,7 @@
 | content.moneza.lv | h-twino.online-metrix.net |
 | content.moneza.ru | h-twino.online-metrix.net |
 | content.netcredit.pl | h-twino.online-metrix.net |
+| umst.mobile.de | h-udd8uxur.online-metrix.net |
 | t42rsn90.uplift.com | h-uplift.online-metrix.net |
 | fp.ups.com | h-ups.online-metrix.net |
 | tmx.uptodate.com | h-uptodate.online-metrix.net |
@@ -1285,6 +1300,7 @@
 | ep.vystarcu.org | h-vystar.online-metrix.net |
 | clear.wallapop.com | h-wallapop.online-metrix.net |
 | drfdisvc.walmart.com | h-walmart.online-metrix.net |
+| webftm.rbc.com | h-webftm.rbc.online-metrix.net |
 | t1.welab.bank | h-welabbank.online-metrix.net |
 | t.wepay.com | h-wepay.online-metrix.net |
 | assets.werally.co | h-werally.online-metrix.net |

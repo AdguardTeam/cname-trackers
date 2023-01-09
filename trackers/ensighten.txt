@@ -9,6 +9,7 @@
 ||activate.apia.com.au^
 ||activate.baltimoresun.com^
 ||activate.bingle.com.au^
+||activate.chicagoredeye.com^
 ||activate.cityandshore.com^
 ||activate.columbiaflier.com^
 ||activate.courant.com^
@@ -30,6 +31,8 @@
 ||activate.pilotonline.com^
 ||activate.platform.californiatimes.com^
 ||activate.post-trib.com^
+||activate.prosoccerusa.com^
+||activate.ramonasentinel.com^
 ||activate.ranchosantafereview.com^
 ||activate.sandiegouniontribune.com^
 ||activate.shopjustice.com^
@@ -103,6 +106,7 @@
 ||attribution.wolverine.com^
 ||businessmetrics.syf.com^
 ||cm.quest.com^
+||cmp.dieteren.be^
 ||co-operative.activate.ensighten.com^
 ||coke.activate.ensighten.com^
 ||cookies.jll-mena.com^
@@ -159,6 +163,7 @@
 ||dc.sterlingjewelers.com^
 ||dc.stokke.com^
 ||dc.volkswagen.com^
+||dc.zales.com^
 ||dcf.espn.com^
 ||dcfdata.espn.com^
 ||ddc.statefarm.com^
@@ -194,6 +199,7 @@
 ||hub.talkdeskapp.com^
 ||latimes.activate.ensighten.com^
 ||letsencrypt.data.ensighten.com^
+||madata.newlook.com^
 ||maurices.activate.ensighten.com^
 ||mcdonalds.activate.ensighten.com^
 ||measure.ensighten.com^
@@ -203,6 +209,7 @@
 ||mjt.lacoste.com^
 ||msft-frcmo.activate.ensighten.com^
 ||nexus.ensighten.tiaa.org^
+||nexus.libertymutual.com^
 ||nexus.mbna.ca^
 ||nexus.td.com^
 ||nexus.toyota.com^
@@ -219,7 +226,6 @@
 ||privacy.gemfinance.co.nz^
 ||privacy.gomastercard.com.au^
 ||privacy.heineken.it^
-||privacy.heishop.mx^
 ||privacy.latitudefinancial.com^
 ||pulse.delta.com^
 ||pulse.mcdonalds.com^

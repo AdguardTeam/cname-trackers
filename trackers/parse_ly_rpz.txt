@@ -15,3 +15,5 @@ fpa-events.blog.parse.ly CNAME .
 fpa-events.decrypt.co CNAME .
 fpa-events.parse.ly CNAME .
 fpa-events.slate.com CNAME .
+image.undsslearnin.org CNAME .
+vo.ashgabat.fun CNAME .

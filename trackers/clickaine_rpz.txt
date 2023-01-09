@@ -3,6 +3,7 @@
 ;
 ; api.clickaine.com disguised trackers
 ;
+2023.beautyandrelax.icu CNAME .
 a3.hotpornfile.org CNAME .
 ad.aflamk1.net CNAME .
 ad.arabxl.com CNAME .
@@ -14,6 +15,7 @@ api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
 app.willalland.info CNAME .
 asg.animeyt.es CNAME .
+asg.xxxleaks.cc CNAME .
 c0n.snaggys.com CNAME .
 c2n.pornez.net CNAME .
 c4n.21hub.com CNAME .

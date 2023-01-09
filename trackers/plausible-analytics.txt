@@ -16,6 +16,7 @@
 ||a.remy.world^
 ||a.visitefoz.com.br^
 ||also.greatsecuritydebate.net^
+||an.xavierrosee.com^
 ||analytics.adam.page^
 ||analytics.adonisjs.com^
 ||analytics.arunraghavan.net^
@@ -31,6 +32,7 @@
 ||analytics.gamedatacrunch.com^
 ||analytics.geekyminds.net^
 ||analytics.givealittle.co^
+||analytics.hambleden-capital.com^
 ||analytics.hiome.com^
 ||analytics.kerns.co^
 ||analytics.krieselreihe.com^
@@ -108,7 +110,6 @@
 ||extramilefloorcare.ericksonbuilt.com^
 ||f8phvntohv.tpetry.me^
 ||galop.leferacheval-saintcloud.com^
-||health.melly.de^
 ||hej.henriksommerfeld.se^
 ||hi.koalendar.com^
 ||hi.streetworkoutlist.com^
@@ -176,6 +177,7 @@
 ||pl.hitthefrontpage.com^
 ||pl.kanbanmail.app^
 ||pl.kis-nagy.art^
+||pl.mattlehrer.com^
 ||pl.maya-astro.fi^
 ||pl.terraintinker.com^
 ||pl.venusafe.com^
@@ -219,6 +221,7 @@
 ||plausible.billfox.co^
 ||plausible.bostad.shop^
 ||plausible.brandonly.me^
+||plausible.campwire.com^
 ||plausible.conveyal.com^
 ||plausible.corbettbarr.com^
 ||plausible.deploymentfromscratch.com^
@@ -356,6 +359,7 @@
 ||stats.aixbrain.de^
 ||stats.albert-kropp-gmbh.de^
 ||stats.alexbh.dev^
+||stats.alibhai.co^
 ||stats.allaboutberlin.com^
 ||stats.alleaktien.de^
 ||stats.alocreativa.com^
@@ -475,6 +479,7 @@
 ||stats.dreher-dreher.eu^
 ||stats.drgomesp.dev^
 ||stats.drivethrubethlehem.com^
+||stats.duetcode.io^
 ||stats.dvy.io^
 ||stats.eightyfourrooms.com^
 ||stats.einsvieracht.de^
@@ -531,6 +536,7 @@
 ||stats.greatlakesdesign.co^
 ||stats.groovetrackers.com^
 ||stats.gslc.utah.edu^
+||stats.gtnetworks.com^
 ||stats.guersanguillaume.com^
 ||stats.guidingwallet.app^
 ||stats.hackershare.dev^
@@ -580,6 +586,7 @@
 ||stats.johnmac.pro^
 ||stats.jonatanalvarsson.se^
 ||stats.jsbible.com^
+||stats.juneum.com^
 ||stats.juniperslab.com^
 ||stats.justinwilliams.ca^
 ||stats.kambr.io^
@@ -629,11 +636,13 @@
 ||stats.motion-effect.com^
 ||stats.mtsknn.fi^
 ||stats.muchbetteradventures.com^
+||stats.navedislam.com^
 ||stats.nddmed.com^
 ||stats.nerdbusiness.com^
 ||stats.newslit.co^
 ||stats.niceshitforbitcoiners.com^
 ||stats.nodewood.com^
+||stats.noeticflow.com^
 ||stats.nothingbutnylon.com^
 ||stats.nullsecure.com^
 ||stats.nytecomics.com^
@@ -651,12 +660,15 @@
 ||stats.photovisionprints.com^
 ||stats.pianoplanet.app^
 ||stats.piranhas.co^
+||stats.populang.com^
 ||stats.poweringpastcoal.org^
 ||stats.pri.org^
 ||stats.principal-it.eu^
 ||stats.print.work^
 ||stats.profilehunt.net^
 ||stats.profitablesignpricing.com^
+||stats.pubfind.io^
+||stats.quicksilvercre.com^
 ||stats.radreiseglueck.de^
 ||stats.raidprotect.org^
 ||stats.rasulkireev.com^
@@ -673,6 +685,7 @@
 ||stats.rushilperera.me^
 ||stats.rymawby.com^
 ||stats.savethemothers.org^
+||stats.scailable.net^
 ||stats.screen-play.app^
 ||stats.screenwavemedia.com^
 ||stats.seva.rocks^
@@ -687,6 +700,7 @@
 ||stats.soundbite.so^
 ||stats.southswindon-pc.gov.uk^
 ||stats.sparkloop.app^
+||stats.sprune.com^
 ||stats.sqlteam.com^
 ||stats.squaddy.se^
 ||stats.stack11.io^
@@ -694,7 +708,6 @@
 ||stats.stacks.org^
 ||stats.steuer-soldaten.de^
 ||stats.stevenfwhite.academy^
-||stats.stitchiq.com^
 ||stats.stopchikane.nu^
 ||stats.strawberry.rocks^
 ||stats.strikogkod.dk^
@@ -717,11 +730,13 @@
 ||stats.tresor.one^
 ||stats.tsas.ca^
 ||stats.ubiwiz.com^
+||stats.urbanfinn.com^
 ||stats.urlaubsverwaltung.cloud^
 ||stats.useeffect.dev^
 ||stats.vinkkaa.fi^
 ||stats.visions.ch^
 ||stats.voltamediahouse.com^
+||stats.wa.derivation.fr^
 ||stats.wachstum.at^
 ||stats.walkiees.co.uk^
 ||stats.wavepointconsulting.ca^

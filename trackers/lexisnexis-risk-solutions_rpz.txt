@@ -187,6 +187,7 @@ content.hellobank.it CNAME .
 content.hellomobile.com CNAME .
 content.ibanking-services.com CNAME .
 content.id.elsevier.com CNAME .
+content.iddataweb.com CNAME .
 content.ifpsoyyo.co CNAME .
 content.imagedepositgateway.com CNAME .
 content.incredit.pl CNAME .
@@ -386,7 +387,6 @@ img2.paywithmybank.com CNAME .
 img2.prosper.com CNAME .
 img2.tmrs.com CNAME .
 img2021.navyfederal.org CNAME .
-img24.rei.com CNAME .
 img3.avis.com CNAME .
 img3.budget.com CNAME .
 img3.forte.net CNAME .
@@ -430,6 +430,7 @@ membership-device.secured-igaming-services.com CNAME .
 metrics.myfrs.com CNAME .
 metrix.us.ovhcloud.com CNAME .
 mnt.sbisec.co.jp CNAME .
+mobile-content-f.autozone.com CNAME .
 mobile-content.pumb.ua CNAME .
 mobile-tmx.ssisurveys.com CNAME .
 mobile.du.ae CNAME .
@@ -450,6 +451,7 @@ onlinemetrix.liverpool.com.mx CNAME .
 optm.optus.com.au CNAME .
 osn-cirrus.cas.org CNAME .
 pafms.ocbc.com CNAME .
+pages.fiduciarytrust.com CNAME .
 paiement.cb4x.fr CNAME .
 payments-de.lidlplus.com CNAME .
 payments.direct.playstation.com CNAME .
@@ -474,6 +476,7 @@ qtbm.fundourselves.com CNAME .
 qtbm.welendus.com CNAME .
 query.capitalontap.com CNAME .
 r7s.scl.swisscom.ch CNAME .
+ranzg.agribank.com.au CNAME .
 ranzg.rabobank.com.au CNAME .
 rauth.chubb.com CNAME .
 rba-screen.healthsafe-id.com CNAME .
@@ -645,6 +648,7 @@ tm.barclays.co.uk CNAME .
 tm.barstoolsportsbook.com CNAME .
 tm.bdc-cdn.com CNAME .
 tm.beachbody.com CNAME .
+tm.benevity.org CNAME .
 tm.betano.bg CNAME .
 tm.betano.ca CNAME .
 tm.betano.com CNAME .
@@ -682,6 +686,7 @@ tma.caffeine.tv CNAME .
 tmcdn.homeaway.com CNAME .
 tmck.milestonegoldcard.com CNAME .
 tmcontent.imvu.com CNAME .
+tmcontent.meridiancu.ca CNAME .
 tmcontent.motusbank.ca CNAME .
 tmetrix.my.chick-fil-a.com CNAME .
 tmfp.klarna.com CNAME .
@@ -690,6 +695,7 @@ tmln.caesarscasino.com CNAME .
 tmrpe.astrazeneca.com CNAME .
 tms.paysafe.com CNAME .
 tmt.houzz.com CNAME .
+tmuat.kotak.com CNAME .
 tmx.bestbuy.com CNAME .
 tmx.beyondbank.com.au CNAME .
 tmx.carhistory.com.au CNAME .
@@ -710,6 +716,7 @@ tracking.psecu.com CNAME .
 trust.gyft.com CNAME .
 ts04358.picpay.com CNAME .
 tsaian.verizonwireless.com CNAME .
+tst-cdna.paymentncb.cofidis.fr CNAME .
 tulips.metrobankonline.co.uk CNAME .
 tx.n11.com CNAME .
 tx.suncoastcreditunion.com CNAME .
@@ -718,6 +725,7 @@ txcontent.iherb.com CNAME .
 uafms.ocbc.com CNAME .
 ualaki-analytics.vacations.united.com CNAME .
 uldfp.srilankan.com CNAME .
+umst.mobile.de CNAME .
 v.ayco.com CNAME .
 v.goldman.com CNAME .
 v.gs.com CNAME .
@@ -744,6 +752,7 @@ w3.nbarizona.com CNAME .
 w3.nsbank.com CNAME .
 w3.vectrabank.com CNAME .
 w3.zionsbank.com CNAME .
+webftm.rbc.com CNAME .
 wp.kroger.com CNAME .
 ww3.fundingstream.com CNAME .
 ww3.marlincapitalsolutions.com CNAME .

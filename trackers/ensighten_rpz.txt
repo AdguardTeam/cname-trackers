@@ -9,6 +9,7 @@ activate.anntaylor.com CNAME .
 activate.apia.com.au CNAME .
 activate.baltimoresun.com CNAME .
 activate.bingle.com.au CNAME .
+activate.chicagoredeye.com CNAME .
 activate.cityandshore.com CNAME .
 activate.columbiaflier.com CNAME .
 activate.courant.com CNAME .
@@ -30,6 +31,8 @@ activate.pbmonthly.net CNAME .
 activate.pilotonline.com CNAME .
 activate.platform.californiatimes.com CNAME .
 activate.post-trib.com CNAME .
+activate.prosoccerusa.com CNAME .
+activate.ramonasentinel.com CNAME .
 activate.ranchosantafereview.com CNAME .
 activate.sandiegouniontribune.com CNAME .
 activate.shopjustice.com CNAME .
@@ -103,6 +106,7 @@ attribution.tmlewin.com CNAME .
 attribution.wolverine.com CNAME .
 businessmetrics.syf.com CNAME .
 cm.quest.com CNAME .
+cmp.dieteren.be CNAME .
 co-operative.activate.ensighten.com CNAME .
 coke.activate.ensighten.com CNAME .
 cookies.jll-mena.com CNAME .
@@ -159,6 +163,7 @@ dc.kayoutlet.com CNAME .
 dc.sterlingjewelers.com CNAME .
 dc.stokke.com CNAME .
 dc.volkswagen.com CNAME .
+dc.zales.com CNAME .
 dcf.espn.com CNAME .
 dcfdata.espn.com CNAME .
 ddc.statefarm.com CNAME .
@@ -194,6 +199,7 @@ gst.pulse.toyota.com CNAME .
 hub.talkdeskapp.com CNAME .
 latimes.activate.ensighten.com CNAME .
 letsencrypt.data.ensighten.com CNAME .
+madata.newlook.com CNAME .
 maurices.activate.ensighten.com CNAME .
 mcdonalds.activate.ensighten.com CNAME .
 measure.ensighten.com CNAME .
@@ -203,6 +209,7 @@ metrics.synchronybusiness.com CNAME .
 mjt.lacoste.com CNAME .
 msft-frcmo.activate.ensighten.com CNAME .
 nexus.ensighten.tiaa.org CNAME .
+nexus.libertymutual.com CNAME .
 nexus.mbna.ca CNAME .
 nexus.td.com CNAME .
 nexus.toyota.com CNAME .
@@ -219,7 +226,6 @@ privacy.blade.app CNAME .
 privacy.gemfinance.co.nz CNAME .
 privacy.gomastercard.com.au CNAME .
 privacy.heineken.it CNAME .
-privacy.heishop.mx CNAME .
 privacy.latitudefinancial.com CNAME .
 pulse.delta.com CNAME .
 pulse.mcdonalds.com CNAME .

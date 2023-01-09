@@ -60,6 +60,7 @@ tr.bizzquotes.co.uk CNAME .
 tr.boletim.companeo.pt CNAME .
 tr.boletim.meu-orcamento.pt CNAME .
 tr.bonplan.mydesign.com CNAME .
+tr.brand.labelleadresse.com CNAME .
 tr.btobquotes.com CNAME .
 tr.buenasofertas.pro CNAME .
 tr.bureauveritas.espmp-aufr.net CNAME .
@@ -156,6 +157,7 @@ tr.devisminute-operateur.com CNAME .
 tr.devisminute-siteecommerce.com CNAME .
 tr.devize-companeo.ro CNAME .
 tr.digitaldigest.lvmh.com CNAME .
+tr.directferries.com CNAME .
 tr.dirigeants.harmonie-mutuelle.fr CNAME .
 tr.discover.perfectstay.com CNAME .
 tr.djay.espmp-agfr.net CNAME .
@@ -343,6 +345,7 @@ tr.mail.floa.fr CNAME .
 tr.mail.koregraf.com CNAME .
 tr.mail.mdbp.fr CNAME .
 tr.mail.moncoupdepouce.com CNAME .
+tr.mail.primevere.com CNAME .
 tr.mail.satisfactory.fr CNAME .
 tr.mail.vip-mag.co.uk CNAME .
 tr.mail.vipmag.fr CNAME .
@@ -552,6 +555,7 @@ tr.nmcm.espmp-cufr.net CNAME .
 tr.notification-gdpr.bnpparibas-personalfinance.fr CNAME .
 tr.notification-gdpr.bnpparibas-pf.fr CNAME .
 tr.notification-gdpr.cafineo.fr CNAME .
+tr.notification-gdpr.cofica.fr CNAME .
 tr.notification-gdpr.cofinoga.fr CNAME .
 tr.notification-gdpr.credit-moderne.fr CNAME .
 tr.notification-gdpr.domofinance.fr CNAME .
@@ -569,6 +573,7 @@ tr.np6.com CNAME .
 tr.np6.orange.fr CNAME .
 tr.observatoire.musee-orangerie.fr CNAME .
 tr.observatoire.musee-orsay.fr CNAME .
+tr.oferta-firmy.pl CNAME .
 tr.ofertas-companeo.es CNAME .
 tr.offer-companeo.co.uk CNAME .
 tr.offerte.migliorifornitori.it CNAME .

@@ -187,6 +187,7 @@
 ||content.hellomobile.com^
 ||content.ibanking-services.com^
 ||content.id.elsevier.com^
+||content.iddataweb.com^
 ||content.ifpsoyyo.co^
 ||content.imagedepositgateway.com^
 ||content.incredit.pl^
@@ -386,7 +387,6 @@
 ||img2.prosper.com^
 ||img2.tmrs.com^
 ||img2021.navyfederal.org^
-||img24.rei.com^
 ||img3.avis.com^
 ||img3.budget.com^
 ||img3.forte.net^
@@ -430,6 +430,7 @@
 ||metrics.myfrs.com^
 ||metrix.us.ovhcloud.com^
 ||mnt.sbisec.co.jp^
+||mobile-content-f.autozone.com^
 ||mobile-content.pumb.ua^
 ||mobile-tmx.ssisurveys.com^
 ||mobile.du.ae^
@@ -450,6 +451,7 @@
 ||optm.optus.com.au^
 ||osn-cirrus.cas.org^
 ||pafms.ocbc.com^
+||pages.fiduciarytrust.com^
 ||paiement.cb4x.fr^
 ||payments-de.lidlplus.com^
 ||payments.direct.playstation.com^
@@ -474,6 +476,7 @@
 ||qtbm.welendus.com^
 ||query.capitalontap.com^
 ||r7s.scl.swisscom.ch^
+||ranzg.agribank.com.au^
 ||ranzg.rabobank.com.au^
 ||rauth.chubb.com^
 ||rba-screen.healthsafe-id.com^
@@ -645,6 +648,7 @@
 ||tm.barstoolsportsbook.com^
 ||tm.bdc-cdn.com^
 ||tm.beachbody.com^
+||tm.benevity.org^
 ||tm.betano.bg^
 ||tm.betano.ca^
 ||tm.betano.com^
@@ -682,6 +686,7 @@
 ||tmcdn.homeaway.com^
 ||tmck.milestonegoldcard.com^
 ||tmcontent.imvu.com^
+||tmcontent.meridiancu.ca^
 ||tmcontent.motusbank.ca^
 ||tmetrix.my.chick-fil-a.com^
 ||tmfp.klarna.com^
@@ -690,6 +695,7 @@
 ||tmrpe.astrazeneca.com^
 ||tms.paysafe.com^
 ||tmt.houzz.com^
+||tmuat.kotak.com^
 ||tmx.bestbuy.com^
 ||tmx.beyondbank.com.au^
 ||tmx.carhistory.com.au^
@@ -710,6 +716,7 @@
 ||trust.gyft.com^
 ||ts04358.picpay.com^
 ||tsaian.verizonwireless.com^
+||tst-cdna.paymentncb.cofidis.fr^
 ||tulips.metrobankonline.co.uk^
 ||tx.n11.com^
 ||tx.suncoastcreditunion.com^
@@ -718,6 +725,7 @@
 ||uafms.ocbc.com^
 ||ualaki-analytics.vacations.united.com^
 ||uldfp.srilankan.com^
+||umst.mobile.de^
 ||v.ayco.com^
 ||v.goldman.com^
 ||v.gs.com^
@@ -744,6 +752,7 @@
 ||w3.nsbank.com^
 ||w3.vectrabank.com^
 ||w3.zionsbank.com^
+||webftm.rbc.com^
 ||wp.kroger.com^
 ||ww3.fundingstream.com^
 ||ww3.marlincapitalsolutions.com^

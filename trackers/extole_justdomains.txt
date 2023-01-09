@@ -18,10 +18,13 @@ refer.ahsfriends.com
 refer.american-giant.com
 refer.americanexpress.com
 refer.ancestry.com
+refer.aol.com
+refer.backcountry.com
 refer.barenecessities.com
 refer.basictalk.com
 refer.beautisol.com
 refer.bookbyte.com
+refer.calstate.aaa.com
 refer.checkngo.com
 refer.clearme.com
 refer.compexusa.com
@@ -78,7 +81,6 @@ share.indochino.com
 share.na.sage.com
 share.qalo.com
 share.tenmarks.com
-share.vimeo.com
 share.wimp.no
 share.worldmarket.com
 sharethelove.teacollection.com
@@ -88,6 +90,7 @@ tellapal.web.com
 #
 # extole.io disguised trackers
 #
+em8561.go2bank.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -99,8 +102,11 @@ love.suncoastcreditunion.com
 my.kotn.com
 q.share.qvcemail.com
 refer-us.uniqlo.com
+refer.1800contacts.com
 refer.2-10.com
 refer.2ndswing.com
+refer.abacusnext.com
+refer.acornonline.com
 refer.akcpetinsurance.com
 refer.algaecal.com
 refer.amerisleep.com
@@ -110,6 +116,7 @@ refer.athleta.com
 refer.athletawell.com
 refer.awscloud.com
 refer.ballarddesigns.com
+refer.bananarepublic.com
 refer.bareminerals.com
 refer.bareminerals.fr
 refer.bareminerals.uk
@@ -145,6 +152,7 @@ refer.cspire.com
 refer.ea.com
 refer.ecoterrabeds.com
 refer.embracepetinsurance.com
+refer.empiretoday.com
 refer.ems.com
 refer.eset.com
 refer.etrade.net
@@ -165,6 +173,7 @@ refer.gopetplan.ca
 refer.greatwesternbank.com
 refer.gymboree.com
 refer.hair.com
+refer.harley-davidsonfootwear.com
 refer.harryrosen.com
 refer.henribendel.com
 refer.hillcity.gap.com
@@ -245,6 +254,7 @@ refer.taxact.com
 refer.teladoc.com
 refer.terijon.com
 refer.thecompanystore.com
+refer.theinside.com
 refer.thepopcornfactory.com
 refer.thesculptsociety.com
 refer.thewildest.com
@@ -266,10 +276,12 @@ refer.zipcar.com
 refer.zomasleep.com
 refer1.experian.com
 referafriend.discover.com
+referafriend.guess.com
 referral.cledepeaubeaute.com
 referral.shiseido.com
 referrals.visionsfcu.org
 rewards.zoom.us
+share-uk.princess.com
 share-us.viktor-rolf.com
 share.100xequine.com
 share.4patriots.com
@@ -328,6 +340,7 @@ share.evine.com
 share.fetchpet.com
 share.figopetinsurance.com
 share.fingercheck.com
+share.firstleaf.club
 share.firstleaf.com
 share.fullbay.com
 share.getsetup.io
@@ -346,6 +359,7 @@ share.iteach.net
 share.key.com
 share.kumon.com
 share.la-mariette.com
+share.lark.com
 share.levi.com
 share.livongo.com
 share.maccosmetics.com.au
@@ -365,10 +379,12 @@ share.partsvu.com
 share.paulmitchell.com
 share.petsbest.com
 share.policygenius.com
+share.poughkeepsiejournal.com
 share.princess.com
 share.promofarma.com
 share.refer-aveda.ca
 share.refer-aveda.com
+share.refer-bumbleandbumble.co.uk
 share.refer-bumbleandbumble.com
 share.refer-darphin.com
 share.refer-darphin.fr
@@ -403,6 +419,7 @@ share.trafalgar.com
 share.truckstop.com
 share.uk.theory.com
 share.unchartedsociety.com
+share.united.net
 share.usatoday.com
 share.veo.co
 share.veritycu.com

@@ -8,6 +8,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| 2023.beautyandrelax.icu | api.clickaine.com |
 | a3.hotpornfile.org | api.clickaine.com |
 | ad.aflamk1.net | api.clickaine.com |
 | ad.arabxl.com | api.clickaine.com |
@@ -19,6 +20,7 @@
 | app.rtnews.pro | api.clickaine.com |
 | app.willalland.info | api.clickaine.com |
 | asg.animeyt.es | api.clickaine.com |
+| asg.xxxleaks.cc | api.clickaine.com |
 | c0n.snaggys.com | api.clickaine.com |
 | c2n.pornez.net | api.clickaine.com |
 | c4n.21hub.com | api.clickaine.com |

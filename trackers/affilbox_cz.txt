@@ -64,6 +64,7 @@
 ||affil.xgdpr.cz^
 ||affil.zaslat.cz^
 ||affil.zdravetricko.cz^
+||affilate.sklep38.cz^
 ||affilbox.andreashop.sk^
 ||affilbox.gurufinance.cz^
 ||affilbox.kvaskovanie.sk^
@@ -88,6 +89,7 @@
 ||affiliate.canatura.com^
 ||affiliate.cbweed.cz^
 ||affiliate.childhoodpotential.com^
+||affiliate.chytryhonza.cz^
 ||affiliate.ckslniecko.sk^
 ||affiliate.cocowoods.cz^
 ||affiliate.compik.cz^
@@ -195,6 +197,7 @@
 ||affilo.vivaboty.cz^
 ||affilpartner.descanti.com^
 ||ambasadorky.zenyzenam.cz^
+||benefit.genyprozivot.cz^
 ||box.cryptokingdom.tech^
 ||brana.ritualyomlazeni.cz^
 ||doporuc.hopsej.cz^
@@ -323,6 +326,7 @@
 ||partner.cshop.sk^
 ||partner.cukrarskaskola.cz^
 ||partner.cukrarskyklub.cz^
+||partner.dailymix.cz^
 ||partner.danfil.cz^
 ||partner.denishenry.cz^
 ||partner.designturnaj.cz^
@@ -397,6 +401,7 @@
 ||partner.olivum.cz^
 ||partner.parfemy-parfumeur.cz^
 ||partner.perfect-dress.eu^
+||partner.pletemesi.cz^
 ||partner.plotshop.sk^
 ||partner.pneugumy.cz^
 ||partner.pod7kilo.cz^
@@ -405,6 +410,7 @@
 ||partner.pravopisne.cz^
 ||partner.prosperk.cz^
 ||partner.psidetektiv.cz^
+||partner.root.cz^
 ||partner.runningpro.cz^
 ||partner.salibandy.shop^
 ||partner.santao.cz^
@@ -480,6 +486,7 @@
 ||partneri.eduway.cz^
 ||partneri.epiderma.cz^
 ||partneri.eshop.hankamokra.cz^
+||partneri.espressoenglish.cz^
 ||partneri.fitstore.cz^
 ||partneri.frcime.cz^
 ||partneri.gigamat.cz^
@@ -499,6 +506,7 @@
 ||partneri.mixano.cz^
 ||partneri.motmot.cz^
 ||partneri.mrblast.eu^
+||partneri.natu.cz^
 ||partneri.netfotbal.cz^
 ||partneri.nutricbistro.cz^
 ||partneri.onlinejazyky.cz^
@@ -513,6 +521,7 @@
 ||partneri.roklen.cz^
 ||partneri.rondainvest.cz^
 ||partneri.rybitukylysi.cz^
+||partneri.serafinbyliny.cz^
 ||partneri.setrice.eu^
 ||partneri.silaprozivot.com^
 ||partneri.smartemailing.cz^

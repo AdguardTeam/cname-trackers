@@ -44,7 +44,6 @@ wt.distrelec.com CNAME .
 ; wt-eu02.net disguised trackers
 ;
 a.deutschehospitality.com CNAME .
-a.gedidigital.it CNAME .
 a.hrewards.com CNAME .
 a.intercityhotel.com CNAME .
 a.jaz-hotel.com CNAME .
@@ -59,19 +58,12 @@ app03.ikk-classic.de CNAME .
 backup.data.srf.ch CNAME .
 cdn7.baunetz.de CNAME .
 census.misterspex.at CNAME .
-census.misterspex.ch CNAME .
-census.misterspex.co.uk CNAME .
-census.misterspex.de CNAME .
-census.misterspex.es CNAME .
-census.misterspex.fi CNAME .
-census.misterspex.fr CNAME .
-census.misterspex.nl CNAME .
 census.misterspex.no CNAME .
-census.misterspex.se CNAME .
 cijfers.tweakers.nl CNAME .
 count.bank99.at CNAME .
 da.bodenhaus.de CNAME .
 da.hornbach.at CNAME .
+da.hornbach.be CNAME .
 da.hornbach.ch CNAME .
 da.hornbach.cz CNAME .
 da.hornbach.de CNAME .
@@ -131,6 +123,7 @@ fiwinet.firmenwissen.de CNAME .
 foro.data.srf.ch CNAME .
 hbbtv-track.prosieben.de CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
+img.foodspring.at CNAME .
 img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
 img.foodspring.fr CNAME .
@@ -187,6 +180,7 @@ startrekk.flaconi.pl CNAME .
 statistics.tuv.com CNAME .
 text.benefitsatwork.be CNAME .
 text.benefitsatwork.ch CNAME .
+text.benefitsatwork.pt CNAME .
 text.convenzioniaziendali.it CNAME .
 text.mitarbeiterangebote.at CNAME .
 text.rahmenvereinbarungen.de CNAME .

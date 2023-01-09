@@ -15,6 +15,7 @@
 1kpv4njzilv.community.intersystems.com CNAME .
 1op1je6zs97.www.emanualonline.com CNAME .
 1uwcex4qf9z.test-115.dapp.ml CNAME .
+1xejnhs1zd1.staging.aporia.com CNAME .
 1y10lvb64mr.www.freecodecamp.dev CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
@@ -23,6 +24,7 @@
 2e7zgbpky6h.chinese.freecodecamp.org CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
+2zoh0ayaycjb.www.cybernetman.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
@@ -63,6 +65,7 @@ kn81kivjwwc7.www.logology.co CNAME .
 li3k4d70ig52.resourceya.com CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
 m4zoxtrcea1k.controlconceptsusa.com CNAME .
+m5yw219v6r.app.koinly.io CNAME .
 m5yyur2au7l4.test.li.finance CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .

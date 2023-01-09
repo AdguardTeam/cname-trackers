@@ -18,10 +18,13 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
+refer.aol.com CNAME .
+refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
 refer.basictalk.com CNAME .
 refer.beautisol.com CNAME .
 refer.bookbyte.com CNAME .
+refer.calstate.aaa.com CNAME .
 refer.checkngo.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
@@ -78,7 +81,6 @@ share.indochino.com CNAME .
 share.na.sage.com CNAME .
 share.qalo.com CNAME .
 share.tenmarks.com CNAME .
-share.vimeo.com CNAME .
 share.wimp.no CNAME .
 share.worldmarket.com CNAME .
 sharethelove.teacollection.com CNAME .
@@ -88,6 +90,7 @@ tellapal.web.com CNAME .
 ;
 ; extole.io disguised trackers
 ;
+em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -99,8 +102,11 @@ love.suncoastcreditunion.com CNAME .
 my.kotn.com CNAME .
 q.share.qvcemail.com CNAME .
 refer-us.uniqlo.com CNAME .
+refer.1800contacts.com CNAME .
 refer.2-10.com CNAME .
 refer.2ndswing.com CNAME .
+refer.abacusnext.com CNAME .
+refer.acornonline.com CNAME .
 refer.akcpetinsurance.com CNAME .
 refer.algaecal.com CNAME .
 refer.amerisleep.com CNAME .
@@ -110,6 +116,7 @@ refer.athleta.com CNAME .
 refer.athletawell.com CNAME .
 refer.awscloud.com CNAME .
 refer.ballarddesigns.com CNAME .
+refer.bananarepublic.com CNAME .
 refer.bareminerals.com CNAME .
 refer.bareminerals.fr CNAME .
 refer.bareminerals.uk CNAME .
@@ -145,6 +152,7 @@ refer.cspire.com CNAME .
 refer.ea.com CNAME .
 refer.ecoterrabeds.com CNAME .
 refer.embracepetinsurance.com CNAME .
+refer.empiretoday.com CNAME .
 refer.ems.com CNAME .
 refer.eset.com CNAME .
 refer.etrade.net CNAME .
@@ -165,6 +173,7 @@ refer.gopetplan.ca CNAME .
 refer.greatwesternbank.com CNAME .
 refer.gymboree.com CNAME .
 refer.hair.com CNAME .
+refer.harley-davidsonfootwear.com CNAME .
 refer.harryrosen.com CNAME .
 refer.henribendel.com CNAME .
 refer.hillcity.gap.com CNAME .
@@ -245,6 +254,7 @@ refer.taxact.com CNAME .
 refer.teladoc.com CNAME .
 refer.terijon.com CNAME .
 refer.thecompanystore.com CNAME .
+refer.theinside.com CNAME .
 refer.thepopcornfactory.com CNAME .
 refer.thesculptsociety.com CNAME .
 refer.thewildest.com CNAME .
@@ -266,10 +276,12 @@ refer.zipcar.com CNAME .
 refer.zomasleep.com CNAME .
 refer1.experian.com CNAME .
 referafriend.discover.com CNAME .
+referafriend.guess.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.shiseido.com CNAME .
 referrals.visionsfcu.org CNAME .
 rewards.zoom.us CNAME .
+share-uk.princess.com CNAME .
 share-us.viktor-rolf.com CNAME .
 share.100xequine.com CNAME .
 share.4patriots.com CNAME .
@@ -328,6 +340,7 @@ share.evine.com CNAME .
 share.fetchpet.com CNAME .
 share.figopetinsurance.com CNAME .
 share.fingercheck.com CNAME .
+share.firstleaf.club CNAME .
 share.firstleaf.com CNAME .
 share.fullbay.com CNAME .
 share.getsetup.io CNAME .
@@ -346,6 +359,7 @@ share.iteach.net CNAME .
 share.key.com CNAME .
 share.kumon.com CNAME .
 share.la-mariette.com CNAME .
+share.lark.com CNAME .
 share.levi.com CNAME .
 share.livongo.com CNAME .
 share.maccosmetics.com.au CNAME .
@@ -365,10 +379,12 @@ share.partsvu.com CNAME .
 share.paulmitchell.com CNAME .
 share.petsbest.com CNAME .
 share.policygenius.com CNAME .
+share.poughkeepsiejournal.com CNAME .
 share.princess.com CNAME .
 share.promofarma.com CNAME .
 share.refer-aveda.ca CNAME .
 share.refer-aveda.com CNAME .
+share.refer-bumbleandbumble.co.uk CNAME .
 share.refer-bumbleandbumble.com CNAME .
 share.refer-darphin.com CNAME .
 share.refer-darphin.fr CNAME .
@@ -403,6 +419,7 @@ share.trafalgar.com CNAME .
 share.truckstop.com CNAME .
 share.uk.theory.com CNAME .
 share.unchartedsociety.com CNAME .
+share.united.net CNAME .
 share.usatoday.com CNAME .
 share.veo.co CNAME .
 share.veritycu.com CNAME .

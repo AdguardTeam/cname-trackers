@@ -44,7 +44,6 @@
 ! wt-eu02.net disguised trackers
 !
 ||a.deutschehospitality.com^
-||a.gedidigital.it^
 ||a.hrewards.com^
 ||a.intercityhotel.com^
 ||a.jaz-hotel.com^
@@ -59,19 +58,12 @@
 ||backup.data.srf.ch^
 ||cdn7.baunetz.de^
 ||census.misterspex.at^
-||census.misterspex.ch^
-||census.misterspex.co.uk^
-||census.misterspex.de^
-||census.misterspex.es^
-||census.misterspex.fi^
-||census.misterspex.fr^
-||census.misterspex.nl^
 ||census.misterspex.no^
-||census.misterspex.se^
 ||cijfers.tweakers.nl^
 ||count.bank99.at^
 ||da.bodenhaus.de^
 ||da.hornbach.at^
+||da.hornbach.be^
 ||da.hornbach.ch^
 ||da.hornbach.cz^
 ||da.hornbach.de^
@@ -131,6 +123,7 @@
 ||foro.data.srf.ch^
 ||hbbtv-track.prosieben.de^
 ||hbbtv-track.prosiebensat1puls4.com^
+||img.foodspring.at^
 ||img.foodspring.de^
 ||img.foodspring.dk^
 ||img.foodspring.fr^
@@ -187,6 +180,7 @@
 ||statistics.tuv.com^
 ||text.benefitsatwork.be^
 ||text.benefitsatwork.ch^
+||text.benefitsatwork.pt^
 ||text.convenzioniaziendali.it^
 ||text.mitarbeiterangebote.at^
 ||text.rahmenvereinbarungen.de^

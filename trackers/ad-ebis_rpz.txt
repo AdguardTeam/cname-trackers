@@ -101,6 +101,7 @@ cmass.massmedian.co.jp CNAME .
 cname-ade.gom-in.com CNAME .
 cname-ade.hankoya.com CNAME .
 cname-ade.original-calendar.com CNAME .
+cname-ade.shachihata.biz CNAME .
 cname-adebis.nice2meet.us CNAME .
 cname-adebis.vcube.com CNAME .
 cname.crank-in.net CNAME .
@@ -111,6 +112,7 @@ cname.jf-d.jp CNAME .
 cname.kyusai.co.jp CNAME .
 cname.lions-mansion.jp CNAME .
 cname.mebiusseiyaku.co.jp CNAME .
+cname.mitsuihome.co.jp CNAME .
 cname.nikkei-cnbc.co.jp CNAME .
 cname1.shakenkan.co.jp CNAME .
 cname2.shaken-yoyaku.com CNAME .

@@ -20,8 +20,10 @@ a.oney.es CNAME .
 a.perfumesclub.com CNAME .
 a.perfumesclub.fr CNAME .
 a.perfumesclub.nl CNAME .
+a.weareknitters.dk CNAME .
 a.weareknitters.se CNAME .
 a8ht.hipp.fr CNAME .
+ab.perfumesclub.com CNAME .
 ac.acadomia.fr CNAME .
 ali8.alinea.fr CNAME .
 alp1.drimki.fr CNAME .
@@ -30,6 +32,7 @@ anz7.allianz-voyage.fr CNAME .
 aod4.societegenerale.fr CNAME .
 ar.i-run.fr CNAME .
 azg1.emalu-store.com CNAME .
+b1n.carabins.umontreal.ca CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
 bft5.destinia.fr CNAME .
@@ -39,6 +42,7 @@ bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
 c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
@@ -152,6 +156,7 @@ elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
 erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
+et.swatch.com CNAME .
 eule1.pmu.fr CNAME .
 eule3.pmu.fr CNAME .
 eule4.pmu.fr CNAME .
@@ -199,6 +204,7 @@ gdm1.toner.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
 gif1.gifi.fr CNAME .
+gsg9.carrefour-banque.fr CNAME .
 guq9.vente-unique.it CNAME .
 gwtc.sfr.fr CNAME .
 h00c.sfr.fr CNAME .
@@ -214,6 +220,7 @@ irs.iperceptions.com CNAME .
 j2i0.mathon.fr CNAME .
 jcr3.onlyyouhotels.com CNAME .
 jelr1.dili.fr CNAME .
+jfo0.societegenerale.fr CNAME .
 jfp6.destinia.de CNAME .
 jg0c.sfr.fr CNAME .
 jhm3.ifgexecutive.com CNAME .
@@ -347,7 +354,6 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
-t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .
@@ -377,6 +383,7 @@ vbe.voyage-prive.be CNAME .
 vch.voyage-prive.ch CNAME .
 vde1.voyage-prive.de CNAME .
 vfo.voyage-prive.co.uk CNAME .
+vfo4.carrefour-banque.fr CNAME .
 vgo.vegaoo.de CNAME .
 vgo.vegaoo.es CNAME .
 vgo.vegaoo.it CNAME .
