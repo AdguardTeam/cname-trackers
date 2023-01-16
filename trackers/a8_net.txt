@@ -18,6 +18,7 @@
 ||a8.biglobe.openplat.jp^
 ||a8.biz.ne.jp^
 ||a8.bobby-jp.com^
+||a8.boco.co.jp^
 ||a8.bousui-pro.com^
 ||a8.brandcosme.com^
 ||a8.bridal-hills.com^
@@ -108,6 +109,7 @@
 ||a8.rank-quest.jp^
 ||a8.remix-denki.com^
 ||a8.remobiz.jp^
+||a8.renkindo.com^
 ||a8.ringbell.co.jp^
 ||a8.route-roller.info^
 ||a8.runway-harmonia.co.jp^
@@ -147,6 +149,7 @@
 ||a8.www.melonbooks.co.jp^
 ||a8.xn--y8jd4aybzqd.jp^
 ||a8.yanoman.com^
+||a8.yayoi-kk.co.jp^
 ||a8.yuzen-official.com^
 ||a8.zeroku.jp^
 ||a802.xn--38jf6c4pa86a1dv833cexrb.com^
@@ -204,6 +207,7 @@
 ||a8clk.formal.cariru.jp^
 ||a8clk.francfranc.com^
 ||a8clk.fuku-chan.jp^
+||a8clk.grandg.com^
 ||a8clk.grirose.jp^
 ||a8clk.gurutas.jp^
 ||a8clk.guruyaku.jp^
@@ -218,6 +222,7 @@
 ||a8clk.justy-consul.com^
 ||a8clk.kaitori-beerecords.jp^
 ||a8clk.kaitori-do.com^
+||a8clk.kaitori-janiyard.jp^
 ||a8clk.kaitori-retrog.jp^
 ||a8clk.kaitori-toretoku.jp^
 ||a8clk.kaitori-yamatokukimono.jp^
@@ -302,6 +307,7 @@
 ||a8clk.voice-inc.co.jp^
 ||a8clk.waq-online.com^
 ||a8clk.wi-ho.net^
+||a8clk.works.sagooo.com^
 ||a8clk.www.access-jp.jp^
 ||a8clk.www.autoway.jp^
 ||a8clk.www.cledepeau-beaute.com^
@@ -373,6 +379,7 @@
 ||a8cv.dshu.jp^
 ||a8cv.e-d-v-j.co.jp^
 ||a8cv.e-stretch-diet.com^
+||a8cv.eakindo.com^
 ||a8cv.english-bootcamp.com^
 ||a8cv.entry.renet.jp^
 ||a8cv.factoringzero.jp^
@@ -380,10 +387,12 @@
 ||a8cv.fc-osoujikakumei.jp^
 ||a8cv.first-spoon.com^
 ||a8cv.fitness-terrace.com^
+||a8cv.folio-sec.com^
 ||a8cv.folli.jp^
 ||a8cv.forza-gran.com^
 ||a8cv.frecious.jp^
 ||a8cv.fukuoka-factoring.net^
+||a8cv.fxtrade.co.jp^
 ||a8cv.gaikokujin-support.com^
 ||a8cv.gakuen.omobic.com^
 ||a8cv.gb-chat.com^
@@ -393,6 +402,7 @@
 ||a8cv.greed-island.ne.jp^
 ||a8cv.hal-tanteisya.com^
 ||a8cv.handmade-ch.jp^
+||a8cv.hariocorp.co.jp^
 ||a8cv.hello-people.jp^
 ||a8cv.hotyoga-loive.com^
 ||a8cv.housingbazar.jp^
@@ -451,12 +461,14 @@
 ||a8cv.orbis.co.jp^
 ||a8cv.paidy.com^
 ||a8cv.quattrocart.com^
+||a8cv.risu-japan.com^
 ||a8cv.sanix.jp^
 ||a8cv.sharing-tech.jp^
 ||a8cv.shop.matsuo1956.jp^
 ||a8cv.snkrdunk.com^
 ||a8cv.soundfun.co.jp^
 ||a8cv.stg.moneybank.co.jp^
+||a8cv.store.alpen-group.jp^
 ||a8cv.toko-navi.com^
 ||a8cv.unias.jp^
 ||a8cv.wedding.mynavi.jp^
@@ -481,20 +493,24 @@
 ||a8sup.chapup.jp^
 ||a8tatoo.ike-sunshine.co.jp^
 ||a8track.aidmybank.com^
+||a8track.speakbuddy-personalcoaching.com^
 ||a8track.ulp.co.jp^
 ||a8trck.aisatsujo.jp^
 ||a8trck.j-sen.jp^
 ||a8trck.tolot.com^
 ||a8trck.worldone.to^
 ||a8trk.www.std-lab.jp^
+||ac.livelty.com^
 ||ad.ichiban-boshi.com^
 ||affi.best-hoiku.com^
 ||affiliate.couleur-labo.com^
 ||afi.school.web-marketing.ai^
+||ahachi.dietnavi.com^
 ||analytics.villagehouse.jp^
 ||asp.hachipp119.com^
 ||asp.taishokunext.com^
 ||aspa8.ozmall.co.jp^
+||clkcv.biglobehikari-kaisen.com^
 ||cv.b2b.subscription-store.com^
 ||cv.dc-khs.com^
 ||cv.drive-hikari.net^

@@ -17,6 +17,7 @@ activate.dailysouthtown.com
 activate.delmartimes.net
 activate.encinitasadvocate.com
 activate.gio.com.au
+activate.growthspotter.com
 activate.hoylosangeles.com
 activate.lajollalight.com
 activate.lanebryant.com
@@ -212,6 +213,8 @@ nexus.ensighten.tiaa.org
 nexus.libertymutual.com
 nexus.mbna.ca
 nexus.td.com
+nexus.tdbank.com
+nexus.tdinsurance.com
 nexus.toyota.com
 nexus.virginholidays.co.uk
 p.pulse.buyatoyota.com
@@ -234,6 +237,7 @@ pulse.rac.co.uk
 pulse.sleepnumber.com
 pulse.synergy.net.au
 pulse.wyndhamhotels.com
+secureanalytics.carecredit.com
 secureanalytics.syf.com
 secureanalytics.synchrony.com
 secureanalytics.synchronycredit.com

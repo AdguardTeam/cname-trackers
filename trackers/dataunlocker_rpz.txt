@@ -24,7 +24,6 @@
 2e7zgbpky6h.chinese.freecodecamp.org CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
-2zoh0ayaycjb.www.cybernetman.com CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
@@ -42,7 +41,6 @@ b1tow9h4erpw.anur.polymerdev.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
-bdp5k3dflefr.www.ligglo.com CNAME .
 bygr2ri20e4y.li.finance CNAME .
 cihnqp6p65.koinly.io CNAME .
 cqz6fn6aox.aporia.com CNAME .
@@ -59,7 +57,6 @@ ilkk97e98lvg.www.sidsplumbing.ie CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
-k1v0eojrtekr.www.ligglo.com CNAME .
 k5ygj3bivnrp.uae.revent.store CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 li3k4d70ig52.resourceya.com CNAME .
@@ -78,6 +75,7 @@ onuf69iegl2e.staging-lfg-app.alpacafinance.org CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
 p13vtlg7n362.clariti.app CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
+qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .

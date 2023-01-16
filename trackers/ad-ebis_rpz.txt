@@ -4,6 +4,7 @@
 ; ebis.ne.jp disguised trackers
 ;
 a9d8e7b6i5s.andgino.jp CNAME .
+aaaa.nocor.jp CNAME .
 ac-3.mix.tokyo CNAME .
 ac-ebis-stb.usen.com CNAME .
 ac-ebis-uhome.usen.com CNAME .
@@ -126,7 +127,6 @@ corporate.frontierconsul.net CNAME .
 cs0010sbeda.theory-clinic.com CNAME .
 cs0010sbeda.theory-diet.com CNAME .
 cs0010sbeda.theory-kumatarumi.com CNAME .
-cs0113sbeda.convenient-smooth.net CNAME .
 cs1863sbeda.glaucoma-arrest.net CNAME .
 cvs.kireimo.jp CNAME .
 d-kint.d-kintetsu.co.jp CNAME .

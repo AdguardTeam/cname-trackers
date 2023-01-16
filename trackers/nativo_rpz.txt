@@ -5,6 +5,7 @@
 ;
 c333.macworld.co.uk CNAME .
 partners.time.com CNAME .
+sponsor.syracuse.com CNAME .
 ;
 ; ntvpforever.com disguised trackers
 ;
@@ -29,9 +30,11 @@ partners.time.com CNAME .
 1ed960d6ad.fa479896c7.com CNAME .
 2093b71876.d2c273238b.com CNAME .
 20cbc85129.fc455e7809.com CNAME .
+22aa4458dc.c42f556ff8.com CNAME .
 2547cd401b.d8a452e2da.com CNAME .
 26e33d5110.b91c577b4d.com CNAME .
 2c9ed85c0b.b2acafb3a3.com CNAME .
+2d56aafb14.8767fbfa8b.com CNAME .
 2efa46ca31.da03ab7249.com CNAME .
 310fdbd5d8.a9e8387c9e.com CNAME .
 32b7b3da4e.a0e54ba172.com CNAME .
@@ -48,7 +51,6 @@ partners.time.com CNAME .
 41f8a60477.cd4fb281e1.com CNAME .
 434d80d136.a07d30aaf0.com CNAME .
 46fe7fa264.4d2a483049.com CNAME .
-48260aa935.f3a173b897.com CNAME .
 48c1f78392.31f4ea3b17.com CNAME .
 4909cc6acc.0fc32b5283.com CNAME .
 497a1141f1.23d097de11.com CNAME .
@@ -76,17 +78,21 @@ partners.time.com CNAME .
 68787fa2a4.0439c255ac.com CNAME .
 699e46a3ca.e11c0ad270.com CNAME .
 6ab791d164.d409401d80.com CNAME .
+6aca58cba6.106cdb2259.com CNAME .
 6d39ef5c0b.7002fca3a7.com CNAME .
 6df506d68b.1708f2b5f1.com CNAME .
 6e1d97d906.e3151012c3.com CNAME .
 6e9ba1e2dd.14a5dfca9f.com CNAME .
 6ef94a502b.64134c91b6.com CNAME .
 72ffc1edfd.f6d56854f2.com CNAME .
+735149c0f3.f5d46bef1b.com CNAME .
 740e3dd5cf.71a3fd0954.com CNAME .
 74ae08c95d.364a426c46.com CNAME .
 7734af9d7a.854a08a35e.com CNAME .
 780f961964.b3fb511da0.com CNAME .
+790d5944bd.7d1f2e00ed.com CNAME .
 79a0430857.7c56087863.com CNAME .
+7a8ba6e850.bc40aaccb7.com CNAME .
 7b7a5435b5.5dd044e588.com CNAME .
 7ddfe7bb78.1eb76ce5b7.com CNAME .
 7ee6aa4a84.102168588b.com CNAME .
@@ -95,6 +101,7 @@ partners.time.com CNAME .
 8654683419.6ab77a3dad.com CNAME .
 865a159ba5.d7739252ca.com CNAME .
 898dd5a858.a06e054b4c.com CNAME .
+8a7f64eb48.5a46c72f0e.com CNAME .
 8a86cfec6c.db4a1656b5.com CNAME .
 8bd9187370.468a044700.com CNAME .
 8bf1e6c762.bcd7ad4271.com CNAME .
@@ -106,6 +113,7 @@ partners.time.com CNAME .
 92f28752df.840df00e08.com CNAME .
 93684a0a94.f57fbf2b51.com CNAME .
 95113b3bd8.9d36cf3402.com CNAME .
+951dff5c64.8507feaa71.com CNAME .
 95797ef4d7.413dfe9f11.com CNAME .
 96b76b02f1.49af7cee19.com CNAME .
 98028f4b73.c9b501fef3.com CNAME .
@@ -135,12 +143,14 @@ b9aa96f359.c685ad29ce.com CNAME .
 babcca7fba.dca8d1600b.com CNAME .
 bcdb664dff.0d356de9ef.com CNAME .
 bd2bc05960.47daeb1eac.com CNAME .
+bd2ca6c82d.20e2b2c425.com CNAME .
 bfe70bbd52.23182b9851.com CNAME .
 bfe8a1874d.bdced8843e.com CNAME .
 c0b0be585f.581c933842.com CNAME .
 c0feed95eb.1b1c88d5e6.com CNAME .
 c14f40b010.3574fd3373.com CNAME .
 c1dfd30227.86c9ac4797.com CNAME .
+c338db0af4.92291944cd.com CNAME .
 c353ac05ea.b0fea47e81.com CNAME .
 c4045fee5e.90cd7fb7ca.com CNAME .
 c504d3250f.52c9f48b14.com CNAME .
@@ -168,6 +178,7 @@ e1de143963.cc3f3eedbb.com CNAME .
 e341c11575.f63f3176ad.com CNAME .
 e7cb682ade.7c3d7c5dec.com CNAME .
 e8609911b3.c785e43db1.com CNAME .
+e87b92329f.64eab1d337.com CNAME .
 ea6e4578d7.bdd16c6bbf.com CNAME .
 ead24c804a.5064389743.com CNAME .
 eb37b1d1a5.98a54df250.com CNAME .
@@ -188,9 +199,7 @@ fe8d4b33c2.8abf43d6ad.com CNAME .
 ;
 ; postrelease.com disguised trackers
 ;
-a235.chron.com CNAME .
-a235.sfgate.com CNAME .
-a235.timesunion.com CNAME .
+a235.newstimes.com CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 ;
@@ -205,11 +214,14 @@ shared.sponsoredcontent.com CNAME .
 ;
 ; unavailable.hearstnp.com disguised trackers
 ;
+a235.chron.com CNAME .
 a235.mrt.com CNAME .
 a235.newstimes.com CNAME .
 a235.registercitizen.com CNAME .
+a235.sfgate.com CNAME .
 a235.stamfordadvocate.com CNAME .
 a235.thehour.com CNAME .
+a235.timesunion.com CNAME .
 ;
 ; partners-time-com-prod.edgeserving.com disguised trackers
 ;

@@ -3,6 +3,7 @@
 ;
 ; heleric.com disguised trackers
 ;
+ae.craccaanybody.com CNAME .
 an.pintaentrep.com CNAME .
 ax.requotebatman.com CNAME .
 bh.twifoilperoxyl.com CNAME .
@@ -26,11 +27,14 @@ fm.ramouselong.com CNAME .
 fn.deulspoorn.com CNAME .
 fo.irrisoranemone.com CNAME .
 fy.uncheckluggies.com CNAME .
+go.jazygesunoared.com CNAME .
 ia.bisetsoliped.com CNAME .
 ie.facemanuptore.com CNAME .
 ie.repointderider.com CNAME .
+io.stoushgowds.com CNAME .
 ir.avertinniello.com CNAME .
 ir.mildlydoucely.com CNAME .
+je.guancheoutwait.com CNAME .
 je.sepiasfra.com CNAME .
 jk.baltisbockey.com CNAME .
 jo.tictocswended.com CNAME .
@@ -38,8 +42,10 @@ jv.curiousuraemia.com CNAME .
 kl.osmoticchalah.com CNAME .
 ld.stengskelped.com CNAME .
 lf.unvenomangst.com CNAME .
+lq.kuliposits.com CNAME .
 lq.nullusposolo.com CNAME .
 ly.koitapuanteing.com CNAME .
+mf.collopantony.com CNAME .
 mp.ualisbaubles.com CNAME .
 nc.nominaturfy.com CNAME .
 np.incrustkantela.com CNAME .
@@ -61,6 +67,7 @@ sf.zestfulpize.com CNAME .
 sw.pluckysups.com CNAME .
 sy.sartishmoop.com CNAME .
 th.micheryfrugal.com CNAME .
+tm.hacklesovary.com CNAME .
 tr.impoundiranism.com CNAME .
 tt.smirkydiff.com CNAME .
 um.sullageprancy.com CNAME .
@@ -69,6 +76,7 @@ uo.tubaronunheler.com CNAME .
 ur.meteredrato.com CNAME .
 ux.sapoaix.com CNAME .
 vd.scapemambu.com CNAME .
+vn.finisbur.com CNAME .
 vp.upswingmethyl.com CNAME .
 vv.habaerashiksas.com CNAME .
 wl.herbarspece.com CNAME .

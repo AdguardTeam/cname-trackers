@@ -8,14 +8,16 @@
     * sniffer.test-extern.oghub.io
     * te-baur-de.oghub.io
     * te-frankonia-de.oghub.io
-    * te-heine-de.oghub.io
+    * te-imwalking-de.oghub.io
     * te-limango-de.oghub.io
-    * te-mirapodo-de.oghub.io
     * te-mytoys-de.oghub.io
     * te-otto-de.oghub.io
     * te-ottoversand-at.oghub.io
-    * te-quelle-at.oghub.io
+    * te-quelle-de.oghub.io
     * te-sheego-de.oghub.io
+    * te-universal-at.oghub.io
+    * te-witt-weiden-de.oghub.io
+    * te-your-look-for-less-nl.oghub.io
     * te.oghub.io
     * tp-ackermann-ch.oghub.io
     * tp-baur-de.oghub.io
@@ -79,14 +81,16 @@
 | sniffer.nitro-test-extern.otto.boreus.de | sniffer.test-extern.oghub.io |
 | te.baur.de | te-baur-de.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
-| te.heine.de | te-heine-de.oghub.io |
+| te.imwalking.de | te-imwalking-de.oghub.io |
 | te.limango.de | te-limango-de.oghub.io |
-| te.mirapodo.de | te-mirapodo-de.oghub.io |
 | te.mytoys.de | te-mytoys-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
 | te.ottoversand.at | te-ottoversand-at.oghub.io |
-| te.quelle.at | te-quelle-at.oghub.io |
+| te.quelle.de | te-quelle-de.oghub.io |
 | te.sheego.de | te-sheego-de.oghub.io |
+| te.universal.at | te-universal-at.oghub.io |
+| te.witt-weiden.de | te-witt-weiden-de.oghub.io |
+| te.your-look-for-less.nl | te-your-look-for-less-nl.oghub.io |
 | te.ackermann.ch | te.oghub.io |
 | te.ambria.de | te.oghub.io |
 | te.baur.de | te.oghub.io |
@@ -99,16 +103,14 @@
 | te.heine.at | te.oghub.io |
 | te.heine.ch | te.oghub.io |
 | te.heine.de | te.oghub.io |
-| te.heine.de | te.oghub.io |
+| te.imwalking.de | te.oghub.io |
 | te.imwalking.de | te.oghub.io |
 | te.jelmoli-shop.ch | te.oghub.io |
 | te.limango.de | te.oghub.io |
 | te.mirapodo.de | te.oghub.io |
-| te.mirapodo.de | te.oghub.io |
 | te.mytoys.de | te.oghub.io |
 | te.otto.de | te.oghub.io |
 | te.ottoversand.at | te.oghub.io |
-| te.quelle.at | te.oghub.io |
 | te.quelle.at | te.oghub.io |
 | te.quelle.ch | te.oghub.io |
 | te.quelle.de | te.oghub.io |

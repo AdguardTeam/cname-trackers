@@ -4,12 +4,14 @@
 # extole.com disguised trackers
 #
 amis.keurig.ca
+chubclub.chubbiesshorts.com
 francais.refer.vonage.ca
 friend.ebags.com
 friend.sharefile.com
 friends.keurig.ca
 friends.keurig.com
 ilove.volusion.com
+invite.toughmudder.com
 r.gamerewind.nfl.com
 refer-a-friend.trivantis.com
 refer.aaas.org
@@ -48,6 +50,7 @@ refer.luckyvitamin.com
 refer.moo.com
 refer.myplant.com
 refer.nvidia.com
+refer.offset.com
 refer.ofx.com
 refer.ooma.com
 refer.opensky.com
@@ -59,6 +62,7 @@ refer.petco.com
 refer.purchasingpower.com
 refer.sage.com
 refer.shoesforcrews.com
+refer.silvercar.com
 refer.sperry.com
 refer.talbots.com
 refer.theleafchronicle.com
@@ -81,6 +85,7 @@ share.indochino.com
 share.na.sage.com
 share.qalo.com
 share.tenmarks.com
+share.vimeo.com
 share.wimp.no
 share.worldmarket.com
 sharethelove.teacollection.com
@@ -90,12 +95,14 @@ tellapal.web.com
 #
 # extole.io disguised trackers
 #
-em8561.go2bank.com
+amp.bfr.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
+get.lull.com
 go.joinsizigi.com
 groomrefer.petco.com
+internalreferral.freshworks.com
 jessica-test-numero-dos.extoleu.com
 love.columbiacu.org
 love.suncoastcreditunion.com
@@ -112,6 +119,7 @@ refer.algaecal.com
 refer.amerisleep.com
 refer.art.com
 refer.ashleyfurniture.com
+refer.ashleyfurniturehomestore.com
 refer.athleta.com
 refer.athletawell.com
 refer.awscloud.com
@@ -120,6 +128,7 @@ refer.bananarepublic.com
 refer.bareminerals.com
 refer.bareminerals.fr
 refer.bareminerals.uk
+refer.barharbor.bank
 refer.barnandwillow.com
 refer.batesfootwear.com
 refer.bathandbodyworks.com
@@ -134,6 +143,7 @@ refer.burtsbees.com
 refer.caavo.com
 refer.cacique.com
 refer.calo.app
+refer.canoos.com
 refer.catfootwear.com
 refer.centier.com
 refer.chacos.com
@@ -142,6 +152,7 @@ refer.chicos.com
 refer.chicosofftherack.com
 refer.childrensplace.com
 refer.cinemark.com
+refer.clarksusa.com
 refer.codecademy.com
 refer.comfortzoneskin.com
 refer.competitivecyclist.com
@@ -185,7 +196,6 @@ refer.hushpuppies.com
 refer.indeed.com
 refer.issaonline.com
 refer.itcosmetics.com
-refer.jiffynewark.com
 refer.join1440.com
 refer.juicepress.com
 refer.keds.com
@@ -218,6 +228,7 @@ refer.ouidad.com
 refer.pacsafe.com
 refer.perriconemd.com
 refer.pimsleur.com
+refer.princess.com
 refer.prokeds.com
 refer.psecu.com
 refer.pureology.com
@@ -235,6 +246,7 @@ refer.saatvadreams.com
 refer.saatvamattress.com
 refer.samedelman.com
 refer.saucony.com
+refer.scoresense.com
 refer.sharkclean.com
 refer.skinceuticals.com
 refer.skyone.org
@@ -252,20 +264,25 @@ refer.take5oilchange.com
 refer.tatcha.com
 refer.taxact.com
 refer.teladoc.com
+refer.teladochealth.com
 refer.terijon.com
 refer.thecompanystore.com
 refer.theinside.com
 refer.thepopcornfactory.com
 refer.thesculptsociety.com
 refer.thewildest.com
+refer.tomorrowsleep.com
 refer.tous.com
 refer.twisthair.com
 refer.underarmour.co.uk
 refer.underarmour.de
+refer.underarmour.es
 refer.underarmour.fr
+refer.underarmour.it
 refer.underarmour.nl
 refer.us.davines.com
 refer.vayasleep.com
+refer.vincecamuto.com
 refer.whitehouseblackmarket.com
 refer.wine.com
 refer.wolverine.com
@@ -353,6 +370,7 @@ share.hanacure.com
 share.hicapitalize.com
 share.hotwire.com
 share.hydropeptide.com
+share.inspirecleanenergy.com
 share.installamerica.com
 share.ipage.com
 share.iteach.net
@@ -367,8 +385,10 @@ share.mamabearlegalforms.com
 share.manscaped.com
 share.medely.com
 share.meettally.com
+share.mtntough.com
 share.myollie.com
 share.myq.com
+share.newarkadvocate.com
 share.newtonbaby.com
 share.obagi.com
 share.ollocard.com
@@ -421,6 +441,7 @@ share.uk.theory.com
 share.unchartedsociety.com
 share.united.net
 share.usatoday.com
+share.vcstar.com
 share.veo.co
 share.veritycu.com
 share.vichyusa.com

@@ -40,6 +40,7 @@
 ||affil.lypo.cz^
 ||affil.moringamix.cz^
 ||affil.mydrinks.cz^
+||affil.nanoshop.cz^
 ||affil.nanospace.cz^
 ||affil.nutriadapt.cz^
 ||affil.peliskydog.cz^
@@ -108,6 +109,7 @@
 ||affiliate.easyproject.cz^
 ||affiliate.easyredmine.com^
 ||affiliate.ehotel.cz^
+||affiliate.elektronicke-vycvikove-obojky.com^
 ||affiliate.elektronickeobojkypropsy.cz^
 ||affiliate.elisdesign.cz^
 ||affiliate.epohledavky.cz^
@@ -199,6 +201,7 @@
 ||ambasadorky.zenyzenam.cz^
 ||benefit.genyprozivot.cz^
 ||box.cryptokingdom.tech^
+||box.kryptotrejder.sk^
 ||brana.ritualyomlazeni.cz^
 ||doporuc.hopsej.cz^
 ||hcbox.fitness-zone.cz^
@@ -334,6 +337,7 @@
 ||partner.domaci-pivoteka.cz^
 ||partner.doplnse.cz^
 ||partner.dr-nek.cz^
+||partner.duverujsveintuici.cz^
 ||partner.dynamikabohatstvi.cz^
 ||partner.epravo.cz^
 ||partner.eshop-gyorsan.hu^
@@ -345,11 +349,11 @@
 ||partner.ferratum.cz^
 ||partner.finstyle.cz^
 ||partner.firmin.cz^
+||partner.fitnessrevolucia.sk^
 ||partner.forexrebel.net^
 ||partner.galsari.com^
 ||partner.giulieta.shop^
 ||partner.gokids.cz^
-||partner.h2world.store^
 ||partner.hanamoneam.com^
 ||partner.hoska-tour.cz^
 ||partner.hothousecucumber.com^
@@ -374,11 +378,13 @@
 ||partner.lascero.cz^
 ||partner.legalni-konopi.cz^
 ||partner.lehatkapropsy.cz^
+||partner.lemurak.cz^
 ||partner.lidajirickova.cz^
 ||partner.marlen.cz^
 ||partner.marspom.cz^
 ||partner.martinreznicek.cz^
 ||partner.massivo.cz^
+||partner.maxori.cz^
 ||partner.mbytshop.cz^
 ||partner.metagram.sk^
 ||partner.mhsexshop.com^
@@ -416,6 +422,7 @@
 ||partner.santao.cz^
 ||partner.scilearn.cz^
 ||partner.scootshop.cz^
+||partner.sculpturepainting.eu^
 ||partner.simplymix.com^
 ||partner.sladkemameni.com^
 ||partner.sladkyklub.cz^
@@ -473,7 +480,6 @@
 ||partneri.cannor.cz^
 ||partneri.chytraopicka.cz^
 ||partneri.chytrykvetinac.cz^
-||partneri.coffeeveronia.sk^
 ||partneri.danahanouskova.cz^
 ||partneri.dietavkrabicce.cz^
 ||partneri.dluhopisomat.cz^
@@ -518,6 +524,7 @@
 ||partneri.proficredit.cz^
 ||partneri.radostkazdyden.cz^
 ||partneri.razdvapujcka.cz^
+||partneri.richardstepan.cz^
 ||partneri.roklen.cz^
 ||partneri.rondainvest.cz^
 ||partneri.rybitukylysi.cz^
@@ -563,7 +570,6 @@
 ||spoluprace.denikletusky.cz^
 ||spoluprace.eroticstore.cz^
 ||spoluprace.majka-shop.cz^
-||spoluprace.medicinashop.cz^
 ||spoluprace.pohybovka.cz^
 ||spoluprace.potravinyarax.cz^
 ||spoluprace.terrapotheka.cz^

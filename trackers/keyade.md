@@ -21,6 +21,7 @@
 | k.cocooncenter.com | k.keyade.com |
 | k.cocooncenter.de | k.keyade.com |
 | k.cocooncenter.es | k.keyade.com |
+| k.flynas.com | k.keyade.com |
 | k.hofmann.es | k.keyade.com |
 | k.laredoute.es | k.keyade.com |
 | k.laredoute.pt | k.keyade.com |
@@ -30,6 +31,7 @@
 | k.voyageursdumonde.fr | k.keyade.com |
 | keyade.alltricks.fr | k.keyade.com |
 | keyade.ooreka.fr | k.keyade.com |
+| keyade.uniqlo.com | k.keyade.com |
 | market-keyade.macif.fr | k.keyade.com |
 | tck.photobox.com | k.keyade.com |
 | k.truffaut.com | k.madmetrics.com |

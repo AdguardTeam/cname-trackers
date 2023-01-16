@@ -4,6 +4,7 @@
 # ebis.ne.jp disguised trackers
 #
 a9d8e7b6i5s.andgino.jp
+aaaa.nocor.jp
 ac-3.mix.tokyo
 ac-ebis-stb.usen.com
 ac-ebis-uhome.usen.com
@@ -126,7 +127,6 @@ corporate.frontierconsul.net
 cs0010sbeda.theory-clinic.com
 cs0010sbeda.theory-diet.com
 cs0010sbeda.theory-kumatarumi.com
-cs0113sbeda.convenient-smooth.net
 cs1863sbeda.glaucoma-arrest.net
 cvs.kireimo.jp
 d-kint.d-kintetsu.co.jp

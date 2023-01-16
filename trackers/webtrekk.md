@@ -26,6 +26,7 @@
     * netcologne-01.webtrekk.net
     * nuernberger02.webtrekk.net
     * obi-com01.webtrekk.net
+    * springergmbh01.webtrekk.net
     * tchibo02.webtrekk.net
     * tchibo03.webtrekk.net
     * tchibo06.webtrekk.net
@@ -94,7 +95,6 @@
     * 524656123914087.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
-    * 554833903189763.wt-eu02.net
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
     * 590838755166551.wt-eu02.net
@@ -285,7 +285,6 @@
 | census.misterspex.no | 524656123914087.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
-| web.s.sasrx.com | 554833903189763.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
@@ -443,6 +442,7 @@
 | scout.bergfreunde.fi | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.it | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.nl | img.bergfreunde.wt-eu02.net |
+| scout.bergfreunde.no | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.se | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | data.janvanderstorm.de | janvanderstorm-01.wt-eu02.net |
@@ -487,6 +487,7 @@
 | wetr.sportscheck.at | sportscheckde01.wt-eu02.net |
 | wetr.sportscheck.ch | sportscheckde01.wt-eu02.net |
 | wetr.sportscheck.com | sportscheckde01.wt-eu02.net |
+| www7.springer.com | springergmbh01.webtrekk.net |
 | tracking.tchibo.ch | tchibo02.webtrekk.net |
 | tracking.tchibo.de | tchibo03.webtrekk.net |
 | tracking.tchibo.cz | tchibo06.webtrekk.net |

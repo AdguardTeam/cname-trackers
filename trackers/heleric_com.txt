@@ -3,6 +3,7 @@
 !
 ! heleric.com disguised trackers
 !
+||ae.craccaanybody.com^
 ||an.pintaentrep.com^
 ||ax.requotebatman.com^
 ||bh.twifoilperoxyl.com^
@@ -26,11 +27,14 @@
 ||fn.deulspoorn.com^
 ||fo.irrisoranemone.com^
 ||fy.uncheckluggies.com^
+||go.jazygesunoared.com^
 ||ia.bisetsoliped.com^
 ||ie.facemanuptore.com^
 ||ie.repointderider.com^
+||io.stoushgowds.com^
 ||ir.avertinniello.com^
 ||ir.mildlydoucely.com^
+||je.guancheoutwait.com^
 ||je.sepiasfra.com^
 ||jk.baltisbockey.com^
 ||jo.tictocswended.com^
@@ -38,8 +42,10 @@
 ||kl.osmoticchalah.com^
 ||ld.stengskelped.com^
 ||lf.unvenomangst.com^
+||lq.kuliposits.com^
 ||lq.nullusposolo.com^
 ||ly.koitapuanteing.com^
+||mf.collopantony.com^
 ||mp.ualisbaubles.com^
 ||nc.nominaturfy.com^
 ||np.incrustkantela.com^
@@ -61,6 +67,7 @@
 ||sw.pluckysups.com^
 ||sy.sartishmoop.com^
 ||th.micheryfrugal.com^
+||tm.hacklesovary.com^
 ||tr.impoundiranism.com^
 ||tt.smirkydiff.com^
 ||um.sullageprancy.com^
@@ -69,6 +76,7 @@
 ||ur.meteredrato.com^
 ||ux.sapoaix.com^
 ||vd.scapemambu.com^
+||vn.finisbur.com^
 ||vp.upswingmethyl.com^
 ||vv.habaerashiksas.com^
 ||wl.herbarspece.com^

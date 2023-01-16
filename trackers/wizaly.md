@@ -20,6 +20,7 @@
     * tk-etam-com.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
     * tk-hypnia-fr.wizaly.com
+    * tk-illicado-com.wizaly.com
     * tk-jeux-loro-ch.wizaly.com
     * tk-kidsaround-com.wizaly.com
     * tk-kitchendiet-fr.wizaly.com
@@ -39,6 +40,7 @@
     * tk-salomon-com.wizaly.com
     * tk-sncf.wizaly.com
     * tk-svsound-com.wizaly.com
+    * tk-tikamoon-com.wizaly.com
     * tk-ultrapremiumdirect-com.wizaly.com
     * tk-undiz-com.wizaly.com
     * tk-viapresse-com.wizaly.com
@@ -75,6 +77,7 @@
 | tk.etam.com | tk-etam-com.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |
 | tk.hypnia.fr | tk-hypnia-fr.wizaly.com |
+| tk.illicado.com | tk-illicado-com.wizaly.com |
 | tk.jeux.loro.ch | tk-jeux-loro-ch.wizaly.com |
 | tk.kidsaround.com | tk-kidsaround-com.wizaly.com |
 | tk.kitchendiet.fr | tk-kitchendiet-fr.wizaly.com |
@@ -94,6 +97,11 @@
 | tk.salomon.com | tk-salomon-com.wizaly.com |
 | wiz.sncf-connect.com | tk-sncf.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |
+| tk.tikamoon.co.uk | tk-tikamoon-com.wizaly.com |
+| tk.tikamoon.com | tk-tikamoon-com.wizaly.com |
+| tk.tikamoon.de | tk-tikamoon-com.wizaly.com |
+| tk.tikamoon.es | tk-tikamoon-com.wizaly.com |
+| tk.tikamoon.it | tk-tikamoon-com.wizaly.com |
 | tk.ultrapremiumdirect.com | tk-ultrapremiumdirect-com.wizaly.com |
 | tk.undiz.com | tk-undiz-com.wizaly.com |
 | tk.viapresse.com | tk-viapresse-com.wizaly.com |

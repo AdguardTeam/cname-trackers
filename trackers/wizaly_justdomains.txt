@@ -62,6 +62,7 @@ tk.engie.fr
 tk.etam.com
 tk.healthwarehouse.com
 tk.hypnia.fr
+tk.illicado.com
 tk.jeux.loro.ch
 tk.kidsaround.com
 tk.kitchendiet.fr
@@ -84,6 +85,11 @@ tk.rentacar.fr
 tk.rimowa.com
 tk.salomon.com
 tk.svsound.com
+tk.tikamoon.co.uk
+tk.tikamoon.com
+tk.tikamoon.de
+tk.tikamoon.es
+tk.tikamoon.it
 tk.transavia.com
 tk.ultrapremiumdirect.com
 tk.undiz.com

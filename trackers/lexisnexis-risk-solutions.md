@@ -70,6 +70,7 @@
     * h-9zzsit89.online-metrix.net
     * h-a4nx1etl.online-metrix.net
     * h-a4s32zk0.online-metrix.net
+    * h-abakos.online-metrix.net
     * h-accountonline.online-metrix.net
     * h-accurint.online-metrix.net
     * h-adp.online-metrix.net
@@ -144,6 +145,7 @@
     * h-caa.online-metrix.net
     * h-cadmv.online-metrix.net
     * h-caesars888.online-metrix.net
+    * h-cafa.online-metrix.net
     * h-caffeine.online-metrix.net
     * h-cambiahealth.online-metrix.net
     * h-canadiantire.online-metrix.net
@@ -237,6 +239,7 @@
     * h-dgzuja78.online-metrix.net
     * h-dhbv8axx.online-metrix.net
     * h-dhgate.online-metrix.net
+    * h-dhpay.online-metrix.net
     * h-digitalcredit.online-metrix.net
     * h-digitecgalaxusag.online-metrix.net
     * h-directly.online-metrix.net
@@ -348,6 +351,7 @@
     * h-kelmar-ak.online-metrix.net
     * h-kelmar-il.online-metrix.net
     * h-kelmar-ma.online-metrix.net
+    * h-kelmar-me.online-metrix.net
     * h-kelmar-nd.online-metrix.net
     * h-kelmar-nj.online-metrix.net
     * h-kelmar-ut.online-metrix.net
@@ -659,6 +663,7 @@
 | tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
 | content.ageas.co.uk | h-a4s32zk0.online-metrix.net |
+| content.abakos.cl | h-abakos.online-metrix.net |
 | content22.accountonline.com | h-accountonline.online-metrix.net |
 | cdnfp.accurint.com | h-accurint.online-metrix.net |
 | cdnfp.lexisnexisrisk.com | h-accurint.online-metrix.net |
@@ -750,6 +755,7 @@
 | irmp.caa.com | h-caa.online-metrix.net |
 | deviceauth.dmv.ca.gov | h-cadmv.online-metrix.net |
 | membership-device.secured-igaming-services.com | h-caesars888.online-metrix.net |
+| donor.cafamerica.org | h-cafa.online-metrix.net |
 | tma.caffeine.tv | h-caffeine.online-metrix.net |
 | hooru.regence.com | h-cambiahealth.online-metrix.net |
 | content.atmosphere.ca | h-canadiantire.online-metrix.net |
@@ -863,6 +869,7 @@
 | bank.bnpl.c24.de | h-dgzuja78.online-metrix.net |
 | img.getkansasbenefits.gov | h-dhbv8axx.online-metrix.net |
 | cybs.dhgate.com | h-dhgate.online-metrix.net |
+| cybs.dhpay.com | h-dhpay.online-metrix.net |
 | content.digital-credit.app | h-digitalcredit.online-metrix.net |
 | creditcheck.digitecgalaxus.ch | h-digitecgalaxusag.online-metrix.net |
 | tm.directly.com | h-directly.online-metrix.net |
@@ -925,6 +932,7 @@
 | img3.forte.net | h-fortenet.online-metrix.net |
 | img.fortunejack.com | h-fortunejack.online-metrix.net |
 | pages.fiduciarytrust.com | h-franklintempleton.online-metrix.net |
+| pages.franklintempleton.com | h-franklintempleton.online-metrix.net |
 | cdn1.f-cdn.com | h-freelancer1.online-metrix.net |
 | fr.shopdisney.disney.co.jp | h-frshopdisney.online-metrix.net |
 | s4.partner.yoomoney.ru | h-fsymclue.online-metrix.net |
@@ -1026,6 +1034,7 @@
 | tag.unclaimedproperty.alaska.gov | h-kelmar-ak.online-metrix.net |
 | tag.icash.illinoistreasurer.gov | h-kelmar-il.online-metrix.net |
 | tag.findmassmoney.com | h-kelmar-ma.online-metrix.net |
+| tag.maineunclaimedproperty.gov | h-kelmar-me.online-metrix.net |
 | tag.unclaimedproperty.nd.gov | h-kelmar-nd.online-metrix.net |
 | tag.unclaimedfunds.nj.gov | h-kelmar-nj.online-metrix.net |
 | tag.mycash.utah.gov | h-kelmar-ut.online-metrix.net |
@@ -1245,6 +1254,7 @@
 | content.ea.com | h-threatmetrix.ea.online-metrix.net |
 | h.threatmetrix.com | h-threatmetrix.online-metrix.net |
 | df.thumbtack.com | h-thumbtack.online-metrix.net |
+| check3-dev.test.tiaabank.com | h-tiaa-cref-at-test.online-metrix.net |
 | check3-qa1.test.tiaabank.com | h-tiaa-cref-at-test.online-metrix.net |
 | check3-qa2.test.tiaabank.com | h-tiaa-cref-at-test.online-metrix.net |
 | public-check3-at.test.tiaa.org | h-tiaa-cref-at-test.online-metrix.net |

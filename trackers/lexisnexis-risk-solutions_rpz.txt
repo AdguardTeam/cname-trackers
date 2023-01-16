@@ -117,6 +117,7 @@ check2.halifax.co.uk CNAME .
 check2.lloydsbank.co.uk CNAME .
 check2.mbna.co.uk CNAME .
 check2.tsb.co.uk CNAME .
+check3-dev.test.tiaabank.com CNAME .
 check3-qa1.test.tiaabank.com CNAME .
 check3-qa2.test.tiaabank.com CNAME .
 check3.tiaa-cref.org CNAME .
@@ -135,6 +136,7 @@ cnt2.bank.za.group CNAME .
 compliance.mohegansuncasino.com CNAME .
 compliance.resortscasino.com CNAME .
 content-uk.fundingcircle.com CNAME .
+content.abakos.cl CNAME .
 content.ageas.co.uk CNAME .
 content.allstate.com CNAME .
 content.alterna.ca CNAME .
@@ -295,6 +297,7 @@ customer.homedepot.com CNAME .
 customercenter-img04.auto-owners.com CNAME .
 cybersource.shoplineapp.com CNAME .
 cybs.dhgate.com CNAME .
+cybs.dhpay.com CNAME .
 d.mlcdn.com.br CNAME .
 d3tracking.rbc.com CNAME .
 daotm.firstcitizens.com CNAME .
@@ -320,6 +323,7 @@ digitalid.santanderbank.com CNAME .
 digitalidentity.compass.it CNAME .
 dii.bankaust.com.au CNAME .
 directinfo.ib.mizuhobank.co.jp CNAME .
+donor.cafamerica.org CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
@@ -452,6 +456,7 @@ optm.optus.com.au CNAME .
 osn-cirrus.cas.org CNAME .
 pafms.ocbc.com CNAME .
 pages.fiduciarytrust.com CNAME .
+pages.franklintempleton.com CNAME .
 paiement.cb4x.fr CNAME .
 payments-de.lidlplus.com CNAME .
 payments.direct.playstation.com CNAME .
@@ -603,6 +608,7 @@ t42rsn90.uplift.com CNAME .
 tag.findmassmoney.com CNAME .
 tag.findyourunclaimedproperty.com CNAME .
 tag.icash.illinoistreasurer.gov CNAME .
+tag.maineunclaimedproperty.gov CNAME .
 tag.mycash.utah.gov CNAME .
 tag.ucp.dor.wa.gov CNAME .
 tag.unclaimedfunds.nj.gov CNAME .

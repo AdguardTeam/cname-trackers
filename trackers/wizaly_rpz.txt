@@ -62,6 +62,7 @@ tk.engie.fr CNAME .
 tk.etam.com CNAME .
 tk.healthwarehouse.com CNAME .
 tk.hypnia.fr CNAME .
+tk.illicado.com CNAME .
 tk.jeux.loro.ch CNAME .
 tk.kidsaround.com CNAME .
 tk.kitchendiet.fr CNAME .
@@ -84,6 +85,11 @@ tk.rentacar.fr CNAME .
 tk.rimowa.com CNAME .
 tk.salomon.com CNAME .
 tk.svsound.com CNAME .
+tk.tikamoon.co.uk CNAME .
+tk.tikamoon.com CNAME .
+tk.tikamoon.de CNAME .
+tk.tikamoon.es CNAME .
+tk.tikamoon.it CNAME .
 tk.transavia.com CNAME .
 tk.ultrapremiumdirect.com CNAME .
 tk.undiz.com CNAME .

@@ -3,31 +3,37 @@
 ;
 ; t.eloqua.com disguised trackers
 ;
+buzz.vocus.com CNAME .
 click.vocus.com CNAME .
 eloqua-tracking.unity.com CNAME .
 eloqua-tracking.unity3d.com CNAME .
 eloquatrack.kistler.com CNAME .
 elq.xperthr.nl CNAME .
 elqview2.uclahealth.org CNAME .
-form.newscatalanaoccidente.com CNAME .
 fpc.acponline.org CNAME .
+fpc.ciel.com CNAME .
+fpc.sage.com CNAME .
 info.lexisnexis.com.sg CNAME .
 prod.tracking.refinitiv.com CNAME .
 stat.dbschenker.com CNAME .
 t.goduke.com CNAME .
+t.gogriz.com CNAME .
 t.goheels.com CNAME .
 t.gopoly.com CNAME .
 t.gotigersgo.com CNAME .
 t.griztix.umt.edu CNAME .
 t.hawaiiathletics.com CNAME .
 t.meangreensports.com CNAME .
-t.nevadawolfpack.com CNAME .
+t.nexity.fr CNAME .
 t.nusports.com CNAME .
 track.intoglobal.com CNAME .
 track.intostudy.com CNAME .
+tracking.changehealthcare.com CNAME .
 tracking.lseg.com CNAME .
 tracking.mathworks.com CNAME .
+tracking.mjbizconference.com CNAME .
 tracking.mjbizdaily.com CNAME .
+trail.thomsonreuters.in CNAME .
 trc.solution.resonac.com CNAME .
 trk.arozone.com CNAME .
 trk.becel.ca CNAME .
@@ -35,26 +41,30 @@ trk.becel.com CNAME .
 trk.blueband.com CNAME .
 trk.brummelandbrown.com CNAME .
 trk.championairtech.com CNAME .
+trk.contact.umpquabank.com CNAME .
+trk.countrycrock.com CNAME .
 trk.flora.com CNAME .
 trk.futureelectronics.com CNAME .
 trk.gardnerdenver.com CNAME .
+trk.icantbelieveitsnotbutter.com CNAME .
 trk.ingersollrand.com CNAME .
-trk.miltonroy.com CNAME .
 trk.pro-activ.com CNAME .
 trk.seepex.com CNAME .
 trk.solo.be CNAME .
+trk.thomaspumps.com CNAME .
 trk.wellsfargocenterphilly.com CNAME .
-view.americanbuildings.com CNAME .
 ;
 ; now.eloqua.com disguised trackers
 ;
 10tips.astadia.com CNAME .
 act.firstdata.com CNAME .
+adi.ni.com CNAME .
 ahima.coniferhealth.com CNAME .
 alerts.ironmountain.com CNAME .
 alerts.wolterskluwerfs.com CNAME .
 alternativetechnology.arrow.com CNAME .
 analytics.blackboard.com CNAME .
+angebote.plex.com CNAME .
 app.accelerate.zoominfo.com CNAME .
 app.advertisingsolutions.att-mail.com CNAME .
 app.campaign.trendmicro.com CNAME .
@@ -63,6 +73,7 @@ app.cimarketing.aig.com CNAME .
 app.comms.aon.com CNAME .
 app.communications.jdsu.com CNAME .
 app.compasslearning.biz CNAME .
+app.connect.cch.ca CNAME .
 app.connect.mandiant.com CNAME .
 app.connect.synopsys.com CNAME .
 app.connect.vmware.com CNAME .
@@ -75,13 +86,16 @@ app.customer.adaptiveinsights.com CNAME .
 app.customer.adaptiveplanning.com CNAME .
 app.demand.ni.com CNAME .
 app.e.dowjones.com CNAME .
+app.e.flukecal.com CNAME .
 app.e.gettyimages.com CNAME .
 app.e.intercall.com CNAME .
 app.elqmailings.qnx.com CNAME .
 app.email.fitchratings.com CNAME .
 app.email.forrester.com CNAME .
+app.emarketing.heat.com CNAME .
 app.enable.atmel.com CNAME .
 app.engineering.sae.org CNAME .
+app.gfwm.genworth.com CNAME .
 app.go.bmc.com CNAME .
 app.go.buccaneers.com CNAME .
 app.go.emersonprocess.com CNAME .
@@ -93,6 +107,7 @@ app.go.macu.com CNAME .
 app.go.nhaschools.com CNAME .
 app.go.nitropdf.com CNAME .
 app.go.sitel.com CNAME .
+app.go.wolterskluwerlb.com CNAME .
 app.go.xo.com CNAME .
 app.goto.dowjones.com CNAME .
 app.green.omniture.com CNAME .
@@ -116,12 +131,15 @@ app.info3.thermoscientific.com CNAME .
 app.inform.equifax.com CNAME .
 app.insight.cision.com CNAME .
 app.insight.thompson.com CNAME .
+app.knowhow.ceridian.com CNAME .
 app.lacr.motorolasolutions.com CNAME .
 app.leadership.kenblanchard.com CNAME .
 app.learn.datafoundry.com CNAME .
 app.learn.goldenfrog.com CNAME .
 app.learn.mindjet.com CNAME .
 app.learn.rasmussen.edu CNAME .
+app.m1.adsolutions.yp.com CNAME .
+app.machspeed.bluecoat.com CNAME .
 app.mail.mfg.macquarie.com CNAME .
 app.mailings.erepublic.com CNAME .
 app.merchant.bankofamerica.com CNAME .
@@ -130,6 +148,7 @@ app.messages.sonicwall.com CNAME .
 app.mk.westernunion.com CNAME .
 app.news.zend.com CNAME .
 app.now.blackbox.com CNAME .
+app.now.nowtv.com CNAME .
 app.online.microfocus.com CNAME .
 app.owners.hilton.com CNAME .
 app.payments.53.com CNAME .
@@ -145,7 +164,9 @@ app.response.att-mail.com CNAME .
 app.response.blackbaud.com CNAME .
 app.response.cetera.com CNAME .
 app.response.dell.com CNAME .
+app.response.hanover.com CNAME .
 app.response.intergraph.com CNAME .
+app.response.j2global.com CNAME .
 app.response.jacksonhealthcare.com CNAME .
 app.response.kroll.com CNAME .
 app.response.markem-imaje.com CNAME .
@@ -156,9 +177,11 @@ app.results.chronicle.com CNAME .
 app.sbas.sage.com CNAME .
 app.siemensplmevents.com CNAME .
 app.snssecure.mcafee.com CNAME .
+app.solveit.agilysys.com CNAME .
 app.success.coniferhealth.com CNAME .
 app.suse.com CNAME .
 app.tableausoftware.com CNAME .
+app.tech.pentontech.com CNAME .
 app.uk.partner.equifax.com CNAME .
 app.update.vodafone.co.uk CNAME .
 app.www-102.aig.com CNAME .
@@ -166,15 +189,21 @@ app.your.level3.com CNAME .
 app.zmail.zionsbank.com CNAME .
 application.rasmussen.edu CNAME .
 application.taleo.com CNAME .
+apps.go.hobsons.com CNAME .
+apps.info.convio.com CNAME .
 as.balluff.com CNAME .
 awst.aviationweek.com CNAME .
+backoffice.verintsystemsinc.com CNAME .
 bbbb.blackboard.com CNAME .
 beyond.bluewolf.com CNAME .
 blackbook.coniferhealth.com CNAME .
+blog.myomnipod.com CNAME .
 bnk.wolterskluwerfs.com CNAME .
 bpm.global360.com CNAME .
+calibration.ni.com CNAME .
 campaign.rockwellautomation.com CNAME .
 campaigns-de.opentext.com CNAME .
+campaigns-fr.opentext.com CNAME .
 careers.coniferhealth.com CNAME .
 cdrive.compellent.com CNAME .
 certified.dell.com CNAME .
@@ -187,6 +216,7 @@ collections.equifax.com CNAME .
 commercial.equifax.com CNAME .
 commercial.inform.equifax.com CNAME .
 compliance.coniferhealth.com CNAME .
+comtelitalia.alcatel-lucent.com CNAME .
 confirm.aon.com CNAME .
 connect.compellent.com CNAME .
 connect.xo.com CNAME .
@@ -199,12 +229,14 @@ content.box.net CNAME .
 content.convio.com CNAME .
 content.nxp.com CNAME .
 content.rackspace.co.uk CNAME .
+conversation-app.alcatel-lucent.com CNAME .
 coop.vmware.com CNAME .
 costefficiencies.ironmountain.com CNAME .
 cz.mywd.com CNAME .
 dc.bluecoat.com CNAME .
 de-de.siemensplmevents.com CNAME .
 de.mywd.com CNAME .
+delphi.ni.com CNAME .
 demand.dynamicscare.com CNAME .
 dialer.leads360.com CNAME .
 digital.aptaracorp.com CNAME .
@@ -224,99 +256,232 @@ e.gettyimages.in CNAME .
 e.gettyimages.nl CNAME .
 e.gettyimages.pt CNAME .
 ebook.altudo.co CNAME .
-elqforms.qnx.com CNAME .
+encompassreport.elliemae.com CNAME .
+events.accuity.com CNAME .
 events.centex.com CNAME .
+events.coniferhealth.com CNAME .
+events.elliemae.com CNAME .
 events.verticurl.com CNAME .
+executivebriefing.coniferhealth.com CNAME .
 experience.maritzmotivation.com CNAME .
 featured.bradyid.com CNAME .
-fme.safe.com CNAME .
-form.vocalink.com CNAME .
-forms.bradyid.com CNAME .
-forms.capitaliq.com CNAME .
-forms.irdeto.com CNAME .
-forms.nexsan.com CNAME .
+forms.cybersource.com CNAME .
+forms.erepublic.com CNAME .
+forms.lenovo.com CNAME .
 forms.uplogix.com CNAME .
-forms.verisigninc.com CNAME .
-frostnsullivan.advancedtech.com CNAME .
 future.coniferhealth.com CNAME .
-futureofhealthcare.coniferhealth.com CNAME .
-getconnected.infor.com CNAME .
-go.cvmsolutions.com CNAME .
-go.digitalinsurance.com CNAME .
+fvc.alcatel-lucent.com CNAME .
+home.loan-magic.com CNAME .
+i-ready.curriculumassociates.com CNAME .
+ibmtechnology.arrow.com CNAME .
 images.qumu.com CNAME .
+images.tableau.com CNAME .
+info.bizfilings.com CNAME .
 info.coade.com CNAME .
-info.commvault.com CNAME .
-info.compucom.com CNAME .
-info.cornerstoneondemand.com CNAME .
 info.elliemae.com CNAME .
+info.harte-hanks.com CNAME .
 info.lansa.com CNAME .
 info.mdsol.com CNAME .
+info.novell.com CNAME .
 insight.aon.com CNAME .
 interest.truvenhealth.com CNAME .
-link.global.amd.com CNAME .
-links.go.shoretel.com CNAME .
-lp.swisspostsolutions.com CNAME .
-mexico.balluff.com CNAME .
-microsite.standardandpoors.com CNAME .
-mobile.vmware.com CNAME .
-moodlerooms.blackboard.com CNAME .
-mortgage.velocify.com CNAME .
-ms1.morganstanley.com CNAME .
-my.xactware.com CNAME .
+isbworld.aon.com CNAME .
+iw.pentonmarketingsvcs.com CNAME .
+kunde.danskespil.dk CNAME .
+labs.relationshipone.com CNAME .
+marketing.adaptiveplanning.com CNAME .
+mim-survey.mfg.macquarie.com CNAME .
 ndi.nuance.com CNAME .
-networkprotection.mcafee.com CNAME .
-nidays.switzerland.ni.com CNAME .
-now.ventyx.com CNAME .
-oracletechnology.arrow.com CNAME .
-outsource.sitel.com CNAME .
-pages.conductor.com CNAME .
-pci.aon.com CNAME .
+networkingexchange.att.com CNAME .
+partner.global360.com CNAME .
 profit.edc.ca CNAME .
+programs.ironmountain.com CNAME .
 programs.mellanox.com CNAME .
 promotions.centex.com CNAME .
 promotions.eq.pulte.com CNAME .
 property.aon.com CNAME .
+ratings-events.standardandpoors.com CNAME .
+ready.curriculumassociates.com CNAME .
+register.markit.com CNAME .
+resources.l1id.com CNAME .
 resources.rockwellautomation.com CNAME .
 resources.vovici.com CNAME .
-response.marketone.com CNAME .
+response.accuitysolutions.com CNAME .
+response.careerstructure.com CNAME .
 response.polycom.com CNAME .
 response.reversepartner.genworth.com CNAME .
-rims.aig.com CNAME .
-sec.wolterskluwerfs.com CNAME .
 sensors.balluff.com CNAME .
 services.edc.ca CNAME .
-solutions.adp.ca CNAME .
-subscriptions.bazaarvoice.com CNAME .
-subscriptionssec.wolterskluwerfs.com CNAME .
+signup.pulte.com CNAME .
+solutions.saashr.com CNAME .
+solutions.stratus.com CNAME .
+subscriptionsbnk.wolterskluwerfs.com CNAME .
 tdbrochure.advancedtech.com CNAME .
 testforms.fidelity.ca CNAME .
 tips.astadia.com CNAME .
 tlm.adp.ca CNAME .
 training.thunderhead.com CNAME .
-trust.astadia.com CNAME .
-videos.adp.ca CNAME .
-vip.granicus.com CNAME .
-web.ness.com CNAME .
-web3.perkinelmer.com CNAME .
-web7.perkinelmer.com CNAME .
-webcasts.zycus.com CNAME .
+try.tableausoftware.com CNAME .
+view.aon.com CNAME .
+web8.perkinelmer.com CNAME .
+web9.perkinelmer.com CNAME .
 webinars.att.com CNAME .
-webinars.blackboard.com CNAME .
 webinars.elliemae.com CNAME .
-webinars.monster.com CNAME .
+welcome.coniferhealth.com CNAME .
 whatif.it.adobe.com CNAME .
 whitepapers.blackboard.com CNAME .
 whitepapers.rockwellautomation.com CNAME .
 workforce-optimization.insperity.com CNAME .
+workplacesolutions.equifax.com CNAME .
 www-102.aig.com CNAME .
 www-103.aig.com CNAME .
 www-108.aig.com CNAME .
+www-109.aig.com CNAME .
 www-110.aig.com CNAME .
 www.conres2.com CNAME .
-www.hasslefree.redwingshoes.com CNAME .
-www.resources.att.com CNAME .
-www.save.adp.ca CNAME .
-www.videos.adp.ca CNAME .
+zycus.relationshipone.com CNAME .
+;
+; p06e.hs.eloqua.com disguised trackers
+;
+a.mx.carte-gr.total.fr CNAME .
+active.sangfor.com CNAME .
+adminspace.carte-gr.total.fr CNAME .
+appinfosoryz.carte-gr.total.fr CNAME .
+appsecurezomation.carte-gr.total.fr CNAME .
+art.carte-gr.total.fr CNAME .
+authsmtp.carte-gr.total.fr CNAME .
+badirectoryz.carte-gr.total.fr CNAME .
+bapages.carte-gr.total.fr CNAME .
+barracuda.carte-gr.total.fr CNAME .
+box.carte-gr.total.fr CNAME .
+camagess.carte-gr.total.fr CNAME .
+cardexchanges.carte-gr.total.fr CNAME .
+carte.fleet-page.total.fr CNAME .
+challengeh.carte-gr.total.fr CNAME .
+com.carte-gr.total.fr CNAME .
+commanslabdpp.carte-gr.total.fr CNAME .
+correo.carte-gr.total.fr CNAME .
+cs.carte-gr.total.fr CNAME .
+diamages.carte-gr.total.fr CNAME .
+direct.carte-gr.total.fr CNAME .
+discover.immofinanz.com CNAME .
+discover.stop-shop.com CNAME .
+dlabiznesu.pracuj.pl CNAME .
+easymonitoringnm.carte-gr.total.fr CNAME .
+ebusinesssr.carte-gr.total.fr CNAME .
+ehtel.endress.com CNAME .
+eml.carte-gr.total.fr CNAME .
+go.bouygues-construction.com CNAME .
+home.carte-gr.total.fr CNAME .
+host.carte-gr.total.fr CNAME .
+imap.carte-gr.total.fr CNAME .
+internet.carte-gr.total.fr CNAME .
+ipe.carte-gr.total.fr CNAME .
+jubileo-ppb.carte-gr.total.fr CNAME .
+live.alljobs.co.il CNAME .
+m.carte-gr.total.fr CNAME .
+mail.comune.carte-gr.total.fr CNAME .
+mail02.carte-gr.total.fr CNAME .
+mail11.carte-gr.total.fr CNAME .
+mail4.carte-gr.total.fr CNAME .
+mail5.carte-gr.total.fr CNAME .
+mail6.carte-gr.total.fr CNAME .
+mailapp.carte-gr.total.fr CNAME .
+mailhost.carte-gr.total.fr CNAME .
+mailserver.carte-gr.total.fr CNAME .
+mailsrv.carte-gr.total.fr CNAME .
+mbox.carte-gr.total.fr CNAME .
+ms1.carte-gr.total.fr CNAME .
+mx0.carte-gr.total.fr CNAME .
+mx01.carte-gr.total.fr CNAME .
+mx2.carte-gr.total.fr CNAME .
+newmail.carte-gr.total.fr CNAME .
+ns1.carte-gr.total.fr CNAME .
+outmail.carte-gr.total.fr CNAME .
+owa.carte-gr.total.fr CNAME .
+podbooth.martela.se CNAME .
+pop.carte-gr.total.fr CNAME .
+posta.carte-gr.total.fr CNAME .
+postmaster.carte-gr.total.fr CNAME .
+profiling.eurofins.fi CNAME .
+relay1.carte-gr.total.fr CNAME .
+relay2.carte-gr.total.fr CNAME .
+remote.carte-gr.total.fr CNAME .
+server2.carte-gr.total.fr CNAME .
+site.infosysbpm.com CNAME .
+smtp.carte-gr.total.fr CNAME .
+smtp.comune.carte-gr.total.fr CNAME .
+smtp01.carte-gr.total.fr CNAME .
+smtp1.carte-gr.total.fr CNAME .
+spam.carte-gr.total.fr CNAME .
+srv.carte-gr.total.fr CNAME .
+ssl.carte-gr.total.fr CNAME .
+stat.starterre.fr CNAME .
+t.festo.com CNAME .
+thor.carte-gr.total.fr CNAME .
+tw.carte-gr.total.fr CNAME .
+webmail.carte-gr.total.fr CNAME .
+wmpartnermail.carte-gr.total.fr CNAME .
+www.carte-gr.total.fr CNAME .
+www.dlabiznesu.pracuj.pl CNAME .
+zmail.carte-gr.total.fr CNAME .
+;
+; s1164411065.hs.eloqua.com disguised trackers
+;
+a.mx.carte-gr.total.fr CNAME .
+art.carte-gr.total.fr CNAME .
+authsmtp.carte-gr.total.fr CNAME .
+barracuda.carte-gr.total.fr CNAME .
+box.carte-gr.total.fr CNAME .
+com.carte-gr.total.fr CNAME .
+correo.carte-gr.total.fr CNAME .
+direct.carte-gr.total.fr CNAME .
+eml.carte-gr.total.fr CNAME .
+home.carte-gr.total.fr CNAME .
+host.carte-gr.total.fr CNAME .
+imap.carte-gr.total.fr CNAME .
+internet.carte-gr.total.fr CNAME .
+ipe.carte-gr.total.fr CNAME .
+jubileo-ppb.carte-gr.total.fr CNAME .
+m.carte-gr.total.fr CNAME .
+mail.comune.carte-gr.total.fr CNAME .
+mail02.carte-gr.total.fr CNAME .
+mail11.carte-gr.total.fr CNAME .
+mail4.carte-gr.total.fr CNAME .
+mail5.carte-gr.total.fr CNAME .
+mail6.carte-gr.total.fr CNAME .
+mailapp.carte-gr.total.fr CNAME .
+mailhost.carte-gr.total.fr CNAME .
+mailserver.carte-gr.total.fr CNAME .
+mailsrv.carte-gr.total.fr CNAME .
+mbox.carte-gr.total.fr CNAME .
+ms1.carte-gr.total.fr CNAME .
+mx0.carte-gr.total.fr CNAME .
+mx01.carte-gr.total.fr CNAME .
+mx2.carte-gr.total.fr CNAME .
+newmail.carte-gr.total.fr CNAME .
+ns1.carte-gr.total.fr CNAME .
+outmail.carte-gr.total.fr CNAME .
+owa.carte-gr.total.fr CNAME .
+pop.carte-gr.total.fr CNAME .
+posta.carte-gr.total.fr CNAME .
+postmaster.carte-gr.total.fr CNAME .
+relay1.carte-gr.total.fr CNAME .
+relay2.carte-gr.total.fr CNAME .
+remote.carte-gr.total.fr CNAME .
+server2.carte-gr.total.fr CNAME .
+smtp.carte-gr.total.fr CNAME .
+smtp.comune.carte-gr.total.fr CNAME .
+smtp01.carte-gr.total.fr CNAME .
+smtp1.carte-gr.total.fr CNAME .
+spam.carte-gr.total.fr CNAME .
+srv.carte-gr.total.fr CNAME .
+ssl.carte-gr.total.fr CNAME .
+thor.carte-gr.total.fr CNAME .
+tw.carte-gr.total.fr CNAME .
+webmail.carte-gr.total.fr CNAME .
+www.carte-gr.total.fr CNAME .
+zmail.carte-gr.total.fr CNAME .
 ;
 ; p06g.hs.eloqua.com disguised trackers
 ;
@@ -327,26 +492,20 @@ b2bmarketing.swisscom.ch CNAME .
 b2bmarketingsb.swisscom.ch CNAME .
 b2bmarketingsb.swisscom.com CNAME .
 campaign.glory-global.com CNAME .
+campaigns.glory-global.com CNAME .
 connect.stihl.info CNAME .
 content.welovecinema.bnpparibas CNAME .
 curious.cognyte.com CNAME .
 discover.clarivate.com CNAME .
 elq-lantern.ruggedsolution.getac.com CNAME .
+events.glory-global.com CNAME .
 go.century21.fr CNAME .
 join.pharmapackeurope.com CNAME .
-kampanjat.atea.fi CNAME .
-logistics.dbschenker.com CNAME .
-medion.interamerican.gr CNAME .
-myevents.thalesgroup.com CNAME .
-myfeed.thalesgroup.com CNAME .
-news.dbschenker.com CNAME .
 solutions.dbschenker.com CNAME .
 t.thalesgroup.com CNAME .
-track.postkodlotteriet.se CNAME .
 tracking.americas.business.samsung.com CNAME .
 tracking.atea.fi CNAME .
 tracking.businessdirect.bt.com CNAME .
-tracking.clarivate.com CNAME .
 tracking.service.cz.nl CNAME .
 tracking.stihl.be CNAME .
 tracking.stihl.de CNAME .
@@ -357,29 +516,29 @@ tracking.stihl.nl CNAME .
 tracking.stihl.pt CNAME .
 www.b2bmarketing.swisscom.ch CNAME .
 www.service.cz.nl CNAME .
-www.zakelijk.cz.nl CNAME .
 ;
 ; p01i.hs.eloqua.com disguised trackers
 ;
 aarpannuity.newyorklife.com CNAME .
 aarpfda.newyorklife.com CNAME .
 aarpgfi.newyorklife.com CNAME .
+advisor.newyorklifeannuities.com CNAME .
 amer.juniper.net CNAME .
 apac.juniper.net CNAME .
 content.juniper.net CNAME .
 dhlsupplychain.dhl.com CNAME .
 discover.harvardbusiness.org CNAME .
 elqtracking.medidata.com CNAME .
-info.cybersource.com CNAME .
+info.forms.messe-muenchen.de CNAME .
 info3.thermofisher.com CNAME .
 ins.leavitt.com CNAME .
 insights.harvardbusiness.org CNAME .
-lfn.lfg.com CNAME .
+metrics-now.experian.com CNAME .
 partnersuccess.cisco.com CNAME .
 partnersuccessmetrics.cisco.com CNAME .
 resources.opentext.com CNAME .
-resources.opentext.fr CNAME .
-secureforms.xperthr.com CNAME .
+resources.opentext.es CNAME .
+responsemp.civica.com CNAME .
 track.abrdn.com CNAME .
 track.financialfairness.org.uk CNAME .
 track.invtrusts.co.uk CNAME .
@@ -389,7 +548,7 @@ visit.hypertherm.com CNAME .
 ; s983435340.hs.eloqua.com disguised trackers
 ;
 aarpannuity.newyorklife.com CNAME .
-aarpfda.newyorklife.com CNAME .
+advisor.newyorklifeannuities.com CNAME .
 ;
 ; p03e.hs.eloqua.com disguised trackers
 ;
@@ -407,14 +566,13 @@ atencion.banrural.com.gt CNAME .
 business.samsungusa.com CNAME .
 ca.mattamyhomes.com CNAME .
 corporate.mattamyhomes.com CNAME .
-engage-emea.jll.com CNAME .
-info.dfinsolutions.com CNAME .
+email-em.joneslanglasalle.com.cn CNAME .
 info.edb.gov.sg CNAME .
 info.invacare.co.nz CNAME .
 latam.thomsonreuters.com CNAME .
 lp-eq.mitsuichemicals.com CNAME .
-mat.lgdisplay.com CNAME .
-solutions.covance.com CNAME .
+spring.arbor.edu CNAME .
+t.byutickets.com CNAME .
 t.cincinnatiarts.org CNAME .
 t.gohuskies.com CNAME .
 t.gojacks.com CNAME .
@@ -440,48 +598,33 @@ devtracking.risk.lexisnexis.com CNAME .
 education.moodybible.org CNAME .
 eformsonboarding.globalbanking.wolterskluwer.com CNAME .
 eloqua.emdmillipore.com CNAME .
-eloqua.sigmaaldrich.com CNAME .
 eloqua.talktalkbusiness.co.uk CNAME .
-feedback.avigilon.com CNAME .
 fpc.avigilon.com CNAME .
-fpc.indigovision.com CNAME .
-fpc.pelco.com CNAME .
 globalbanking.wolterskluwer.com CNAME .
 go.blackboard.com CNAME .
 insurance.alliant.com CNAME .
-markets.eclerx.com CNAME .
-myfuture.futureelectronics.com CNAME .
 pages.indigovision.com CNAME .
-pages.pelco.com CNAME .
 pubstr.acs.org CNAME .
 pubstr.chemrxiv.org CNAME .
 securecookies.dustin.dk CNAME .
 securecookies.dustin.fi CNAME .
-securecookies.dustin.nl CNAME .
 securecookies.dustin.no CNAME .
 securecookies.dustin.se CNAME .
 securecookies.dustinhome.dk CNAME .
-securecookies.dustinhome.fi CNAME .
-securecookies.dustinhome.nl CNAME .
 securecookies.dustinhome.no CNAME .
 securecookies.dustinhome.se CNAME .
 securecookiesdustininfo.dustin.dk CNAME .
 securecookiesdustininfo.dustin.fi CNAME .
-securecookiesdustininfo.dustin.nl CNAME .
 securecookiesdustininfo.dustin.no CNAME .
 securecookiesdustininfo.dustin.se CNAME .
 securecookiesdustininfo.dustinhome.dk CNAME .
-securecookiesdustininfo.dustinhome.fi CNAME .
-securecookiesdustininfo.dustinhome.nl CNAME .
 securecookiesdustininfo.dustinhome.no CNAME .
 securecookiesdustininfo.dustinhome.se CNAME .
-services.eclerx.com CNAME .
 technology.informaengage.com CNAME .
-tracking.blackboard.com CNAME .
-trk.afcom.com CNAME .
 trk.amperecomputing.com CNAME .
 trk.channelfutures.com CNAME .
 trk.datacenterknowledge.com CNAME .
+trk.datacenterworld.com CNAME .
 trk.fintechfutures.com CNAME .
 trk.iotworldtoday.com CNAME .
 trk.itprotoday.com CNAME .
@@ -491,29 +634,31 @@ trk.webhostingtalk.com CNAME .
 ; p01d.hs.eloqua.com disguised trackers
 ;
 access.sunpower.com CNAME .
-cm.informaengage.com CNAME .
 communications.embarcadero.com CNAME .
 content.eaton.com CNAME .
 cookietracking.eatonpowersource.com CNAME .
 cyber.boozallen.com CNAME .
+elqtrk.rsmus.com CNAME .
+engage.marketone.com CNAME .
+events.bgrs.com CNAME .
 events.lexmark.com CNAME .
-get.kronos.com CNAME .
+events.mywd.com CNAME .
+forms.embarcadero.com CNAME .
 get.ukg.ca CNAME .
-get.ukg.com.au CNAME .
-get.ukg.mx CNAME .
+get.ukg.in CNAME .
+get.ukg.nl CNAME .
 go.fhlbny.com CNAME .
 go.l-com.com CNAME .
 info.boozallen.com CNAME .
-lp.embarcadero.com CNAME .
-missions.boozallen.com CNAME .
-pgs.farmprogress.com CNAME .
+preferences.marketone.com CNAME .
 securetracking.eaton.com CNAME .
 tracking.laurelsprings.com CNAME .
 trk.beefmagazine.com CNAME .
 trk.farmprogress.com CNAME .
+trk.feedstuffs.com CNAME .
 trk.iwceexpo.com CNAME .
 trk.nationalhogfarmer.com CNAME .
-www.get.ukg.com CNAME .
+trk.urgentcomm.com CNAME .
 ;
 ; p01k.hs.eloqua.com disguised trackers
 ;
@@ -523,43 +668,39 @@ acq-jp.americanexpress.com CNAME .
 acq-sg.americanexpress.com CNAME .
 advantages.americanexpress.com CNAME .
 agexpo.americanexpress.com CNAME .
-alertsatwork.americanexpress.com CNAME .
 app.innovation.nuance.com CNAME .
 auforex.americanexpress.com CNAME .
 business-cards.americanexpress.com CNAME .
 businessaffiliate.americanexpress.com CNAME .
 campaigns.engage.cebglobal.com CNAME .
+channel.arubanetworks.com CNAME .
 cm-in.americanexpress.com CNAME .
 cm-sg.americanexpress.com CNAME .
 comm.toro.com CNAME .
-conf.optum.com CNAME .
+connect.arkadin.com CNAME .
 consult.americanexpress.com CNAME .
 contactforms.53.com CNAME .
 cookies.engage.russellinvestments.com CNAME .
 corporate.americanexpress.com CNAME .
+corporatecards.americanexpress.com CNAME .
 corporateforms.americanexpress.com CNAME .
 demandgen.ptc.com CNAME .
 e.beckmancoulter.com CNAME .
 elq.sonicwall.com CNAME .
 elqtrk.cn.morningstar.com CNAME .
-elqtrk.hk.morningstar.com CNAME .
 elqtrk.morningstar.com CNAME .
-elqtrk.my.morningstar.com CNAME .
 email-tw.americanexpress.com CNAME .
 event.shl.com CNAME .
 events.engage.cebglobal.com CNAME .
+events.splunk.com CNAME .
+get.docusign.com CNAME .
 globaleloqua.americanexpress.com CNAME .
-lewin.optum.com CNAME .
-mail.dolce-gusto.cl CNAME .
-mail.dolce-gusto.gr CNAME .
-mail.dolce-gusto.pt CNAME .
-mail.dolce-gusto.ro CNAME .
+go.morningstar.com CNAME .
+go2.kofax.com CNAME .
 metricsinfo.edc.ca CNAME .
 nbg.seagate.com CNAME .
 pages.washingtoncaps.com CNAME .
-response.splunk.com CNAME .
-secureinfo.edc.ca CNAME .
-sgforex.americanexpress.com CNAME .
+picis.optum.com CNAME .
 track.docusign.co.uk CNAME .
 track.docusign.com CNAME .
 track.docusign.com.br CNAME .
@@ -568,6 +709,7 @@ track.docusign.de CNAME .
 track.docusign.fr CNAME .
 track.docusign.jp CNAME .
 track.docusign.mx CNAME .
+track.docusign.nl CNAME .
 tracking.igloosoftware.com CNAME .
 tracking.prophix.com CNAME .
 tracking.ptc.com CNAME .
@@ -577,16 +719,17 @@ trk.aircharterguide.com CNAME .
 trk.aviationweek.com CNAME .
 trk.food-management.com CNAME .
 trk.nrn.com CNAME .
-trk.restaurant-hospitality.com CNAME .
 trk.routesonline.com CNAME .
 trk.supermarketnews.com CNAME .
 ;
 ; s1705637988.hs.eloqua.com disguised trackers
 ;
 acq-hk.americanexpress.com CNAME .
+alertsatwork.americanexpress.com CNAME .
+corporatecards.americanexpress.com CNAME .
 corporateforms.americanexpress.com CNAME .
 email-tw.americanexpress.com CNAME .
-sgforex.americanexpress.com CNAME .
+globaleloqua.americanexpress.com CNAME .
 ;
 ; p01j.hs.eloqua.com disguised trackers
 ;
@@ -597,27 +740,38 @@ connectfpc.zebra.com CNAME .
 cookie.solutions.desertfinancial.com CNAME .
 discover.aptly.de CNAME .
 go.comcastspectacor.com CNAME .
+nl.aon.com CNAME .
+nyhed.danskespil.dk CNAME .
+response.xactware.com CNAME .
+secure.couch.associates CNAME .
 secure.sw.broadcom.com CNAME .
+sgsb.aba.com CNAME .
+solutions.desertfinancial.com CNAME .
 tracking.bradyid.com CNAME .
 tracking.flukecal.com CNAME .
 tracking.info.rcgt.com CNAME .
-tracking.verisk.com CNAME .
+tracking.kubota.ca CNAME .
 trk.wardsauto.com CNAME .
-trust.zebra.com CNAME .
-w3.air-worldwide.com CNAME .
 www-105.aig.com CNAME .
 www-107.aig.com CNAME .
+www.safety.dupont.com CNAME .
 ;
 ; p06c.hs.eloqua.com disguised trackers
 ;
 actie.athlon.com CNAME .
 autovista-fi.autovistagroup.com CNAME .
 autovista-se.autovistagroup.com CNAME .
+move.azets.se CNAME .
 plbusiness.samsung.com CNAME .
 service.athlon.com CNAME .
-stat.liaisons-sociales.fr CNAME .
+services.princes-trust.org.uk CNAME .
+t.cozone.com CNAME .
+tr-ms.bosch-home.com CNAME .
+tr-ms.profilo.com CNAME .
+tr-ms.siemens-home.bsh-group.com CNAME .
 tracking.athlon.com CNAME .
 tracking.europe.business.samsung.com CNAME .
+visitor.arabiancentres.com CNAME .
 yourporsche.nabooda-auto.com CNAME .
 ;
 ; s376572143.hs.eloqua.com disguised trackers
@@ -641,24 +795,31 @@ efficiency.visma.dk CNAME .
 efficiency.visma.fi CNAME .
 efficiency.visma.lv CNAME .
 efficiency.visma.se CNAME .
+energy.eneco.be CNAME .
+event.dnvgl.com CNAME .
+go.cf.labanquepostale.fr CNAME .
 go.visma.com CNAME .
-news.communications-rmngp.fr CNAME .
-pages.visitdubai.com CNAME .
-site.connect.mydrreddys.com CNAME .
-subscribe.dnvgl.com CNAME .
+kampanja.bhtelecom.ba CNAME .
+links.npsemails.mbna.co.uk CNAME .
+lp3.dentsplysirona.com CNAME .
+response.bapco.net CNAME .
 suunta.visma.fi CNAME .
-tracking.dataloen.dk CNAME .
+teefiksummin.visma.fi CNAME .
+teho.visma.fi CNAME .
 tracking.drreddys.com CNAME .
-tracking.exso.no CNAME .
+tracking.lonnogpersonalabc.visma.no CNAME .
+tracking.marketing.frequentis.com CNAME .
 tracking.visitdubai.com CNAME .
 tracking.visma.com CNAME .
 tracking.visma.dk CNAME .
+tracking.visma.fi CNAME .
 tracking.visma.lv CNAME .
 tracking.visma.no CNAME .
 tracking.vismaraet.nl CNAME .
+tracks1.ferrari.com CNAME .
 trk.cf.labanquepostale.fr CNAME .
 visma.e-conomic.dk CNAME .
-webinar.dnvgl.com CNAME .
+www.efficiency.visma.com CNAME .
 ;
 ; p03h.hs.eloqua.com disguised trackers
 ;
@@ -668,6 +829,7 @@ app.bceagles.com CNAME .
 app.dawsoncreekeventscentre.com CNAME .
 app.gopack.com CNAME .
 app.goxavier.com CNAME .
+app.pbr.com CNAME .
 app.soonersports.com CNAME .
 app.texastech.com CNAME .
 app.ticketleader.ca CNAME .
@@ -682,9 +844,7 @@ dependable-s.hyster.com CNAME .
 education.seek.intel.com CNAME .
 elqact.gartner.com CNAME .
 elqtrack.kubotausa.com CNAME .
-elqtrk.insight.tech CNAME .
 elqtrk.intel.cn CNAME .
-elqtrk.intel.co.il CNAME .
 elqtrk.intel.co.jp CNAME .
 elqtrk.intel.co.kr CNAME .
 elqtrk.intel.co.uk CNAME .
@@ -702,15 +862,16 @@ elqtrk.intel.la CNAME .
 elqtrk.intel.pl CNAME .
 elqtrk.intel.ru CNAME .
 elqtrk.intel.sg CNAME .
+elqtrk.intelrealsense.com CNAME .
 elqtrk.thailand.intel.com CNAME .
-go.bloombergindustry.com CNAME .
 go2.mathworks.com CNAME .
 intelpartneralliance.intel.com CNAME .
+learn.liensolutions.com CNAME .
 offers.la-z-boy.com CNAME .
-partners.seek.intel.com CNAME .
 plan.seek.intel.com CNAME .
 rc.precisely.com CNAME .
 research.gartner.com CNAME .
+secure.gartnerevents.com CNAME .
 software.seek.intel.com CNAME .
 t.bceagles.com CNAME .
 t.dawsoncreekeventscentre.com CNAME .
@@ -722,50 +883,18 @@ t.soonersports.com CNAME .
 t.texastech.com CNAME .
 t.umterps.com CNAME .
 t.usctrojans.com CNAME .
-tracking.about.bgov.com CNAME .
-tracking.bloombergindustry.com CNAME .
+techprovider.intel.com CNAME .
+tracking-qa.veritas.com CNAME .
 tracking.guidehouse.com CNAME .
-tracking.navigant.com CNAME .
 tracking.precisely.com CNAME .
-tracking.pro.bloombergtax.com CNAME .
 tracking.quadient.com CNAME .
 tracking.sierrawireless.com CNAME .
-us.ricoh-usa.com CNAME .
+trk.thinkhdi.com CNAME .
 webinar.intel.com CNAME .
 ;
-; p06e.hs.eloqua.com disguised trackers
+; s757079.hs.eloqua.com disguised trackers
 ;
 active.sangfor.com CNAME .
-adminspace.carte-gr.total.fr CNAME .
-appinfosoryz.carte-gr.total.fr CNAME .
-appsecurezomation.carte-gr.total.fr CNAME .
-badirectoryz.carte-gr.total.fr CNAME .
-bapages.carte-gr.total.fr CNAME .
-barracuda.carte-gr.total.fr CNAME .
-camagess.carte-gr.total.fr CNAME .
-cardexchanges.carte-gr.total.fr CNAME .
-carte.fleet-page.total.fr CNAME .
-challengeh.carte-gr.total.fr CNAME .
-commanslabdpp.carte-gr.total.fr CNAME .
-cs.carte-gr.total.fr CNAME .
-diamages.carte-gr.total.fr CNAME .
-direct.carte-gr.total.fr CNAME .
-discover.immofinanz.com CNAME .
-discover.stop-shop.com CNAME .
-dlabiznesu.pracuj.pl CNAME .
-easymonitoringnm.carte-gr.total.fr CNAME .
-ebusinesssr.carte-gr.total.fr CNAME .
-ehtel.endress.com CNAME .
-go.bouygues-construction.com CNAME .
-live.alljobs.co.il CNAME .
-pages.ledger.com CNAME .
-services.carte-gr.total.fr CNAME .
-site.infosysbpm.com CNAME .
-smtps.carte-gr.total.fr CNAME .
-spaces.martela.com CNAME .
-stat.starterre.fr CNAME .
-t.festo.com CNAME .
-wmpartnermail.carte-gr.total.fr CNAME .
 ;
 ; p01h.hs.eloqua.com disguised trackers
 ;
@@ -775,108 +904,51 @@ cloudhosting-business.vodafone.com CNAME .
 cz-mktg.vodafone.com CNAME .
 elq.icis.com CNAME .
 elqtrck.nanawall.com CNAME .
+engage.dow.com CNAME .
 go.emersonautomation.com CNAME .
-ideas.nanawall.com CNAME .
+go.ultimatesoftware.com CNAME .
 in-business.vodafone.com CNAME .
 iot-mktg.vodafone.com CNAME .
 it-mktg.vodafone.com CNAME .
 learn.armaninollp.com CNAME .
 oiat.dow.com CNAME .
+qago.qiagen.com CNAME .
 secure.info.domo.com CNAME .
 tracking.vodafone.co.uk CNAME .
+tracking.vodafone.com CNAME .
 ;
 ; s1360.hs.eloqua.com disguised trackers
 ;
 activity.asce.org CNAME .
 ;
-; elqcdn.eloqua.com disguised trackers
+; e74319.x.akamaiedge.net disguised trackers
 ;
 activos.contacto.promerica.fi.cr CNAME .
+alias.cloud-marketing.dimensiondata.com CNAME .
 app.partner.fisglobal.com CNAME .
-elink.serasaexperian.com.br CNAME .
-files.info.posteitaliane.it CNAME .
-image.www1.kawasaki-motors.com CNAME .
-images.a.flukebiomedical.com CNAME .
-images.aepinfo.com CNAME .
-images.assets.aapa.org CNAME .
-images.autonomyinfo.hp.com CNAME .
-images.b.gogoair.com CNAME .
-images.b2bmkt.samsung.com CNAME .
-images.bb.pnc.com CNAME .
-images.biz.blackberry.com CNAME .
-images.bncontacto.fi.cr CNAME .
-images.campaign.reedexpo.com CNAME .
-images.campaign.reedexpo.de CNAME .
+assets.comunicaciones.pymas.com.co CNAME .
+cdn.experience.globalsources.com CNAME .
+eloquaimages.e.abb.com CNAME .
 images.campaigns-qa.fidelity.com CNAME .
 images.chbusiness.samsung.com CNAME .
 images.chef-lavan.tnuva.co.il CNAME .
+images.cloud.travelport.com CNAME .
 images.cmbinsight.hsbc.com CNAME .
 images.com.bouygues-es.com CNAME .
 images.comms.cirium.com CNAME .
-images.communication.carsales.com.au CNAME .
-images.comunicaciones.prosegur.es CNAME .
-images.connect.becker.com CNAME .
-images.connect.globalservices.arrow.com CNAME .
 images.connect.proact.eu CNAME .
 images.connect2.cebglobal.com CNAME .
 images.contact.regus.com CNAME .
 images.cornerstonebuildingbrands.com CNAME .
-images.demand.mcafee.com CNAME .
-images.discover.emdeon.com CNAME .
-images.discoveracademic.ptc.com CNAME .
-images.e.act.com CNAME .
-images.e.arizonacoyotes.com CNAME .
-images.e.bengals.com CNAME .
-images.e.bulls.com CNAME .
-images.e.chiefs.com CNAME .
-images.e.dallasstars.com CNAME .
-images.e.denverbroncos.com CNAME .
-images.e.midmark.com CNAME .
-images.e.mylanlabs.com CNAME .
-images.e.royalmail.com CNAME .
-images.e.seahawksemail.com CNAME .
-images.e.tcichemicals.com CNAME .
-images.e.transunion.com CNAME .
-images.e.tycois.com CNAME .
-images.efficiency.nl.visma.com CNAME .
-images.efficiency.visma.dk CNAME .
-images.efficiency.visma.no CNAME .
-images.em.email-prudential.com CNAME .
-images.em.thermofisher.com CNAME .
-images.email.air-worldwide.com CNAME .
-images.email.hockeytown.com CNAME .
-images.email.wisdomtree.com CNAME .
-images.emails.bokfinancial.com CNAME .
-images.energysolutions.evergy.com CNAME .
-images.engage.hpe.com CNAME .
-images.engage.nexperia.com CNAME .
-images.eq.tm.intuit.com CNAME .
-images.fanservices.jaguars.com CNAME .
-images.financial-risk-solutions.thomsonreuters.info CNAME .
-images.get.kareo.com CNAME .
-images.global.radware.com CNAME .
-images.go.alightsolutions.com CNAME .
-images.go.bge.com CNAME .
-images.go.bluejacketslink.com CNAME .
-images.go.elementfleet.com CNAME .
-images.go.fastweb.it CNAME .
-images.go.mathworks.com CNAME .
-images.go.siriusdecisions.com CNAME .
-images.go.stlblues.com CNAME .
-images.go.themarketingscience.com CNAME .
-images.go.vertivco.com CNAME .
-images.go.vsp.com CNAME .
-images.go1.lapersonnelle.com CNAME .
-images.guidance.choosemylo.com CNAME .
-images.ihs.com CNAME .
-images.images.compagniedesalpes.fr CNAME .
-images.info.alibabacloud.com CNAME .
-images.info.centrum.pucp.edu.pe CNAME .
-images.info.coopenae.fi.cr CNAME .
+images.createchange.uq.edu.au CNAME .
+images.demand.awspls.com CNAME .
+images.demand.brainshark.com CNAME .
+images.e.corenetglobal.org CNAME .
+images.e.gallup.com CNAME .
+images.e.seagate.com CNAME .
 images.info.coopeservidores.fi.cr CNAME .
 images.info.dfsco.com CNAME .
 images.info.fticonsulting.com CNAME .
-images.info.fullsail.edu CNAME .
 images.info.mercycare.org CNAME .
 images.info.monumentalsports.com CNAME .
 images.info.patheon.com CNAME .
@@ -890,8 +962,6 @@ images.insurance.leavitt.com CNAME .
 images.interact.jll.com CNAME .
 images.investments.virtus.com CNAME .
 images.join.masaisrael.org CNAME .
-images.learn.queenslibrary.org CNAME .
-images.learn.shredit.com CNAME .
 images.learning.strayeruniversity.edu CNAME .
 images.logisticsnews.dbschenker.com CNAME .
 images.mail.dolce-gusto.com CNAME .
@@ -909,35 +979,163 @@ images.medlem.naf.no CNAME .
 images.mkt.zoominfo.com CNAME .
 images.mktgassets.symantec.com CNAME .
 images.myhealthyfinances.com CNAME .
-images.na.agcocorp.com CNAME .
-images.news.auchan.lu CNAME .
-images.news.panasonic.asia CNAME .
-images.news.thunderinsider.com CNAME .
+www.assets.newsletters.signify.com CNAME .
+;
+; elqcdn.eloqua.com disguised trackers
+;
+activos.contacto.promerica.fi.cr CNAME .
+elink.serasaexperian.com.br CNAME .
+eloquaimages.e.abb.com CNAME .
+files.info.posteitaliane.it CNAME .
+image.www1.kawasaki-motors.com CNAME .
+imagenes.ubmmexico.com CNAME .
+images.assets.aapa.org CNAME .
+images.bncontacto.fi.cr CNAME .
+images.campaign.reedexpo.com CNAME .
+images.care.ssmhealth.com CNAME .
+images.care.tgh.org CNAME .
+images.cloud.travelport.com CNAME .
+images.comms.cirium.com CNAME .
+images.communication.carsales.com.au CNAME .
+images.communications.aldar.com CNAME .
+images.comunicaciones.prosegur.es CNAME .
+images.connect.becker.com CNAME .
+images.connect.cebglobal.com CNAME .
+images.connect.globalservices.arrow.com CNAME .
+images.connect.hpe.com CNAME .
+images.connect2.cebglobal.com CNAME .
+images.contact.regus.com CNAME .
+images.contactcenter.icmi.com CNAME .
+images.content.aces-int.com CNAME .
+images.createchange.uq.edu.au CNAME .
+images.demand.mcafee.com CNAME .
+images.duffandphelps.com CNAME .
+images.e.bengals.com CNAME .
+images.e.bulls.com CNAME .
+images.e.dallasstars.com CNAME .
+images.e.denverbroncos.com CNAME .
+images.e.lexisnexis.com CNAME .
+images.e.midmark.com CNAME .
+images.e.mylanlabs.com CNAME .
+images.e.royalmail.com CNAME .
+images.e.seagate.com CNAME .
+images.e.seahawksemail.com CNAME .
+images.e.tcichemicals.com CNAME .
+images.e.transunion.com CNAME .
+images.e.turnkeyvr.com CNAME .
+images.e.tycois.com CNAME .
+images.e.unitedfcu.com CNAME .
+images.e2.aig.com CNAME .
+images.efficiency.nl.visma.com CNAME .
+images.efficiency.visma.dk CNAME .
+images.efficiency.visma.no CNAME .
+images.em.email-prudential.com CNAME .
+images.em.thermofisher.com CNAME .
+images.email.air-worldwide.com CNAME .
+images.email.hockeytown.com CNAME .
+images.email.leonhealth.com CNAME .
+images.email.wisdomtree.com CNAME .
+images.emails.bokfinancial.com CNAME .
+images.emarketing.hccs.edu CNAME .
+images.emarketing.heat.com CNAME .
+images.energysolutions.evergy.com CNAME .
+images.engage.brunswickgroup.com CNAME .
+images.engage.ubc.ca CNAME .
+images.enrollment.sunywcc.edu CNAME .
+images.eq.intuit.com CNAME .
+images.explore.behr.com CNAME .
+images.fanservices.jaguars.com CNAME .
+images.financial-risk-solutions.thomsonreuters.info CNAME .
+images.gc.georgiancollege.ca CNAME .
+images.get.kareo.com CNAME .
+images.global.radware.com CNAME .
+images.go.bluejacketslink.com CNAME .
+images.go.bouyguestelecom.fr CNAME .
+images.go.cummins.com CNAME .
+images.go.fastweb.it CNAME .
+images.go.firsttechfed.com CNAME .
+images.go.impinj.com CNAME .
+images.go.mathworks.com CNAME .
+images.go.stlblues.com CNAME .
+images.go.timewarnercable.com CNAME .
+images.go.vsp.com CNAME .
+images.guidance.choosemylo.com CNAME .
+images.i.mesosphere.com CNAME .
+images.ihs.com CNAME .
+images.info.alibabacloud.com CNAME .
+images.info.amexgbt.com CNAME .
+images.info.centrum.pucp.edu.pe CNAME .
+images.info.coopeservidores.fi.cr CNAME .
+images.info.dfsco.com CNAME .
+images.info.fticonsulting.com CNAME .
+images.info.la-z-boy.com CNAME .
+images.info.legalsolutions.thomsonreuters.co.uk CNAME .
+images.info.monumentalsports.com CNAME .
+images.info.prophix.com CNAME .
+images.info.pwc.com CNAME .
+images.info.resursbank.se CNAME .
+images.info.rodekors.no CNAME .
+images.info.rrd.com CNAME .
+images.info.sick.com CNAME .
+images.info.siemensplmevents.com CNAME .
+images.info.tupperware.at CNAME .
+images.info.westernalliancebank.com CNAME .
+images.informacion.bicevida.cl CNAME .
+images.insights.heidrick.com CNAME .
+images.internalcomms.ntt.com CNAME .
+images.join.masaisrael.org CNAME .
+images.lauthorities.com CNAME .
+images.learn.ctliensolutions.com CNAME .
+images.learn.hmhco.com CNAME .
+images.learn.queenslibrary.org CNAME .
+images.learning.strayeruniversity.edu CNAME .
+images.livecreative.creativecircle.com CNAME .
+images.loyalty.lindtusa.com CNAME .
+images.mail.coloplast.com CNAME .
+images.mail.dolce-gusto.com CNAME .
+images.mail.tena.de CNAME .
+images.mailaway.abritel.fr CNAME .
+images.mailing.morningstar.com CNAME .
+images.marketing-de.sage.com CNAME .
+images.marketing.centerpointenergy.com CNAME .
+images.marketing.invacare.com CNAME .
+images.marketing.uwmedicine.org CNAME .
+images.max.max-finance.co.il CNAME .
+images.mdtinternal.com CNAME .
+images.medlem.naf.no CNAME .
+images.mkt.zte.com.cn CNAME .
+images.myhealthyfinances.com CNAME .
+images.nasdaqtech.nasdaq.com CNAME .
+images.news.lavoro.gov.it CNAME .
 images.noticias.clarin.com CNAME .
-images.nwinsurance.pemco.com CNAME .
-images.nyheder.danskespil.dk CNAME .
+images.online.chancellors.co.uk CNAME .
 images.online.mt.com CNAME .
-images.oracle.netsuite.com CNAME .
-images.partner.fisglobal.com CNAME .
-images.proftax.thomsonreuters.biz CNAME .
+images.ops.mailbpost.be CNAME .
+images.pages.brightedge.com CNAME .
+images.plan.intel.com CNAME .
+images.privilege.stayfareast.com CNAME .
 images.protect-us.eset.com CNAME .
-images.quality.q-centrix.com CNAME .
-images.read.aspiresys.com CNAME .
+images.publicidad.cajalosandes.cl CNAME .
+images.publishing.wiley.com CNAME .
 images.resources.cetera.com CNAME .
-images.response.aba.com CNAME .
-images.response.lexmark.com CNAME .
-images.response.ricoh-europe.com CNAME .
-images.response.stericycle.com CNAME .
+images.response.cisco.com CNAME .
+images.response.covance.com CNAME .
+images.response.firmenich.com CNAME .
+images.response.maserati.com CNAME .
+images.response.reedexpo.com.cn CNAME .
+images.response.softchoice.com CNAME .
+images.response.wexinc.com CNAME .
 images.response.wild.com CNAME .
 images.rx.reedexpo.ae CNAME .
+images.sbs.americanexpress.com CNAME .
 images.seemore.zebra.com CNAME .
-images.siemens-energy.com CNAME .
-images.smbdirect.lenovo.com CNAME .
-images.sns.secure.mcafee.com CNAME .
-images.solutions.halliburton.com CNAME .
+images.serviceinfo.royalmail.com CNAME .
 images.studentlending.ca CNAME .
-images.v.cyberintel.verint.com CNAME .
-img.e.sigsauer.com CNAME .
+images.t1.terrapinn.com CNAME .
+images.uhealthsystem.miami.edu CNAME .
+images.update.aciworldwide.com CNAME .
+images.web.roberthalf.com CNAME .
+images.workforce.equifax.com CNAME .
 img.newsletter.mazda.co.jp CNAME .
 www.assets.dialogue.signify.com CNAME .
 www.assets.newsletters.signify.com CNAME .
@@ -949,17 +1147,56 @@ cars.autopia.com.au CNAME .
 cars.smartleasing.com.au CNAME .
 connect.telstrawholesale.com CNAME .
 connect.telstrawholesale.com.au CNAME .
-save.salary.com.au CNAME .
+engage.portqii.com CNAME .
 save.smartsalary.com.au CNAME .
 tracking.apac.business.samsung.com CNAME .
 ;
-; s127477.hs.eloqua.com disguised trackers
+; p01c.hs.eloqua.com disguised trackers
 ;
-admin.smartgroup.com.au CNAME .
-cars.autopia.com.au CNAME .
-cars.smartleasing.com.au CNAME .
-save.salary.com.au CNAME .
-save.smartsalary.com.au CNAME .
+adpia130611.adpinfo.com CNAME .
+apac.adpinfo.com CNAME .
+apps.imaginecommunications.com CNAME .
+ast-en.adp.ca CNAME .
+ast-fr.adp.ca CNAME .
+be.secure.sonosite.com CNAME .
+br.adpinfo.com CNAME .
+brand.adp.ca CNAME .
+cn.adpinfo.com CNAME .
+contact-us.adp.ca CNAME .
+de.secure.sonosite.com CNAME .
+domorewithless.adp.ca CNAME .
+elq.ansible.com CNAME .
+elq.enterprisersproject.com CNAME .
+elq.forrester.com CNAME .
+elq.macu.com CNAME .
+elq.openshift.com CNAME .
+elq.opensource.com CNAME .
+elq.redhat.com CNAME .
+etrack.ext.hpe.com CNAME .
+fun.relationshipone.com CNAME .
+in.secure.sonosite.com CNAME .
+info.adp.com CNAME .
+info.reutersagency.com CNAME .
+secure.sonosite.com CNAME .
+solutions.refinitiv.com CNAME .
+subscribe.adpinfo.com CNAME .
+tracking.adp.ca CNAME .
+tracking.adp.com CNAME .
+trk.advisory.com CNAME .
+www.adpinfo.com CNAME .
+;
+; s937.hs.eloqua.com disguised trackers
+;
+adpia130611.adpinfo.com CNAME .
+info.adp.com CNAME .
+subscribe.adpinfo.com CNAME .
+tracking.adp-iat.adp.ca CNAME .
+tracking.adp.ca CNAME .
+tracking.adp.com CNAME .
+tracking.adpri.org CNAME .
+tracking.au.adp.com CNAME .
+tracking.events.adp.com CNAME .
+tracking.fr.adp.com CNAME .
 ;
 ; p04k.hs.eloqua.com disguised trackers
 ;
@@ -973,17 +1210,22 @@ discover.phenomenex.com CNAME .
 etrack.ext.arubainstanton.com CNAME .
 etrack.ext.arubanetworks.com CNAME .
 evkeeza-e.regeneron.com CNAME .
+experience.phenomenex.com CNAME .
+go.vertiv.com CNAME .
+info.sagepointfinancial.com CNAME .
+lead.blackrock.com CNAME .
+platformsolutions.shutterstock.com CNAME .
+regmdr.pref.ims.dialog-direct.com CNAME .
+response.turnkeyvr.com CNAME .
 tracking.agora.io CNAME .
+tracking.continuingstudies.wisc.edu CNAME .
 tracking.insperity.com CNAME .
-tracking.online.wisc.edu CNAME .
 tracking.pdc.wisc.edu CNAME .
 tracking.precollege.wisc.edu CNAME .
 tracking.summer.wisc.edu CNAME .
 tracking.vertiv.com CNAME .
-tracking.vertivco.com CNAME .
-tracking.virtus.com CNAME .
-trk.magicfashionevents.com CNAME .
-webtracking.bankwebinars.com CNAME .
+web.care.mclaren.org CNAME .
+www.fordprotectplans.com CNAME .
 ;
 ; s831949997.hs.eloqua.com disguised trackers
 ;
@@ -1001,30 +1243,28 @@ communications.adpinfo.com CNAME .
 connect.nfd.hcahealthcare.com CNAME .
 content.ferguson.com CNAME .
 direct.colfondos.co CNAME .
-fpc.consumerportfolio.com CNAME .
 fpc.gartner.com CNAME .
+gbtracking.finning.com CNAME .
+go.mge.com CNAME .
 memelq.acs.org CNAME .
 tracking.build.com CNAME .
+tracking.compactappliance.com CNAME .
 tracking.faucet.com CNAME .
 tracking.faucetdirect.com CNAME .
 tracking.go.mge.com CNAME .
-tracking.handlesets.com CNAME .
 tracking.kegerator.com CNAME .
-tracking.lightingdirect.com CNAME .
+tracking.oceaneering.com CNAME .
 tracking.pullsdirect.com CNAME .
 tracking.ventingdirect.com CNAME .
+tracking.ventingpipe.com CNAME .
 tracking.winecoolerdirect.com CNAME .
-web.novogene.com CNAME .
-;
-; s944935836.hs.eloqua.com disguised trackers
-;
-advisorservicesfpc.etradefinancial.com CNAME .
+trk.go.ingrammicrocloud.com CNAME .
+www2.info.renesas.cn CNAME .
 ;
 ; p01g.hs.eloqua.com disguised trackers
 ;
 ae-go.experian.com CNAME .
 americasbrandperformancesupport.hilton.com CNAME .
-analytics.flexpay.io CNAME .
 app.business.westernunion.com CNAME .
 app.noreply.cummins.com CNAME .
 au-go.experian.com CNAME .
@@ -1036,51 +1276,54 @@ de-go.experian.com CNAME .
 elq.accuity.com CNAME .
 elq.cirium.com CNAME .
 elqtrk.cummins.com CNAME .
+event1.thermoscientific.com CNAME .
+forms.vaisala.com CNAME .
 fr-go.experian.com CNAME .
 go.deltek.com CNAME .
-info.airborn.com CNAME .
+id-go.experian.com CNAME .
 info.fishersci.com CNAME .
 info1.thermofisher.com CNAME .
-jp-go.experian.com CNAME .
 map.rockwellautomation.com CNAME .
 mec.hilton.com CNAME .
-now.cumminsfiltration.com CNAME .
+nz-go.experian.com CNAME .
+profiling.plannja.com CNAME .
 profiling.ruukki.com CNAME .
-rsvp.cummins.com CNAME .
-se-go.experian.com CNAME .
-secureforms.accuity.com CNAME .
-secureforms.flightglobal.com CNAME .
-secureforms.nrs-inc.com CNAME .
+resources.att.com CNAME .
+response2.buydomains.com CNAME .
+ru-go.experian.com CNAME .
+secure.arrow.com CNAME .
+secureforms.cirium.com CNAME .
+sg-go.experian.com CNAME .
+submit.vaisala.com CNAME .
 th-go.experian.com CNAME .
 tracking.stemcell.com CNAME .
 trk.business.westernunion.at CNAME .
-trk.business.westernunion.co.uk CNAME .
 trk.business.westernunion.com CNAME .
 trk.business.westernunion.com.au CNAME .
+trk.business.westernunion.de CNAME .
 trk.convera.com CNAME .
-trk.en-cz.business.westernunion.com CNAME .
-trk.en.business.westernunion.ch CNAME .
+trk.en.business.westernunion.pl CNAME .
 trk.fr.business.westernunion.ch CNAME .
-us-go.experian.com CNAME .
+tw-go.experian.com CNAME .
 ;
 ; p04f.hs.eloqua.com disguised trackers
 ;
 afhleads.keurig.ca CNAME .
 app.siemens-energy.com CNAME .
-comms.cision.com CNAME .
 connect.cwt.hcahealthcare.com CNAME .
 connect.ncd.hcahealthcare.com CNAME .
 connecttest.arubanetworks.com CNAME .
-content.prophet.com CNAME .
 cookies.siemens-energy.com CNAME .
 dmkt.solutions.cas.org CNAME .
 eloqua-uat.motorolasolutions.com CNAME .
 elq-tracking.genomes.atcc.org CNAME .
 elq.blackrock.com CNAME .
+email-cm.jll.co.in CNAME .
+engage.go.singlestore.com CNAME .
+etk.locusrobotics.com CNAME .
 events.georgiancollege.ca CNAME .
-fpcsbulls.nba.com CNAME .
-go.blackrock.com CNAME .
 go.comres.emerson.com CNAME .
+go.greenlee.emerson.com CNAME .
 go.proteam.emerson.com CNAME .
 go.ridgid.emerson.com CNAME .
 info.cc.myfortiva.com CNAME .
@@ -1089,11 +1332,12 @@ lp1.dentsplysirona.com CNAME .
 pages.contact.umpquabank.com CNAME .
 pr.cision.com CNAME .
 pr.prnewswire.com CNAME .
-response.iqpc.com CNAME .
 secureforms.xperthr.nl CNAME .
+temails.productnotice.thomsonreuters.com CNAME .
 track.go.comres.emerson.com CNAME .
-tracking-explore-uat.agilent.com CNAME .
 tracking.columbiabank.com CNAME .
+tracking.go.atcc.org CNAME .
+tracking.go.singlestore.com CNAME .
 tracking.singlestore.com CNAME .
 ;
 ; p07i.hs.eloqua.com disguised trackers
@@ -1103,53 +1347,39 @@ dm.smflc.co.jp CNAME .
 electronics.edm.globalsources.com CNAME .
 electronics.tradeshow.globalsources.com CNAME .
 gslive.edm.globalsources.com CNAME .
-gsmatch.edm.globalsources.com CNAME .
-gsols.edm.globalsources.com CNAME .
-lifestyle.tradeshow.globalsources.com CNAME .
-mobile-electronics.edm.globalsources.com CNAME .
-summit.edm.globalsources.com CNAME .
-tradeshow.edm.globalsources.com CNAME .
 ;
 ; p04.hs.eloqua.com disguised trackers
 ;
 agentcomm.mercuryinsurance.com CNAME .
-comms.groupmarketing.dimensiondata.com CNAME .
+blog.bumpclubandbeyond.com CNAME .
 contact.smart-fac.co.kr CNAME .
 discover.onepeloton.com CNAME .
 e.nicklauschildrens.org CNAME .
-e.relacionamento.serasaexperian.com.br CNAME .
+elq.irobot.com CNAME .
 fpc.cebglobal.com CNAME .
 fpc.trimarkusa.com CNAME .
+go.mercuryinsurance.com CNAME .
 grow.national.biz CNAME .
-info.sunsentinelmediagroup.com CNAME .
-pcm.symantec.com CNAME .
-tracking.nasdaq.com CNAME .
-www.eventos-ins.com CNAME .
+learn.mvpindex.com CNAME .
+news.arcb.com CNAME .
+solutions.arcb.com CNAME .
+tracking.yealink.com.cn CNAME .
 ;
-; p04d.hs.eloqua.com disguised trackers
+; p07.hs.eloqua.com disguised trackers
 ;
-ai.mist.com CNAME .
-appointments.providence.org CNAME .
-appointments.swedish.org CNAME .
-businessengage.comcast.com CNAME .
-care.stlukes-stl.com CNAME .
-channelportal.netsuite.com CNAME .
-connect.news.evergreenhealth.com CNAME .
-event.victorops.com CNAME .
-go.ali-cle.org CNAME .
-go.firstderivatives.com CNAME .
-go.psentertainment.com CNAME .
-mkto.bronto.com CNAME .
-my.orhp.com CNAME .
-tracker.providence.org CNAME .
-tracker.swedish.org CNAME .
-tracking.business.comcast.com CNAME .
-tracking.evergy.com CNAME .
-tracking.netsuite.com CNAME .
-trackingmms.accenture.com CNAME .
-web.northwestern.nm.org CNAME .
-webtracking.medical.rossu.edu CNAME .
-www.dheerajrealitydemo.com CNAME .
+ahhmkt.anhua.com.cn CNAME .
+bigdata.aspiresys.com CNAME .
+campaign.hach.com.cn CNAME .
+campaign.item-china.cn CNAME .
+campaign.kanto-mazda.com CNAME .
+cloud.aspiresys.com CNAME .
+discover.10play.com.au CNAME .
+marketing.income.com.sg CNAME .
+user.sensorsdata.cn CNAME .
+;
+; s314349806.hs.eloqua.com disguised trackers
+;
+ahhmkt.anhua.com.cn CNAME .
 ;
 ; s1507516398.hs.eloqua.com disguised trackers
 ;
@@ -1160,6 +1390,8 @@ ai.mist.com CNAME .
 ai.thermo.com CNAME .
 ai.thermofisher.com CNAME .
 allergy.thermofisher.com CNAME .
+autoimmunity.thermofisher.com CNAME .
+cascadion.thermo.com CNAME .
 cascadion.thermofisher.com CNAME .
 clinical.questdiagnostics.com CNAME .
 connect.health.bjc.org CNAME .
@@ -1170,28 +1402,30 @@ digital.att.com CNAME .
 dx.thermofisher.com CNAME .
 e.darpro-solutions.com CNAME .
 eloqua.53.com CNAME .
-email-am.jll.com.co CNAME .
+eloquatracking.relayr.io CNAME .
+email-am.jll.ca CNAME .
+email-am.jll.com.br CNAME .
 email-am.us.jll.com CNAME .
-explore.att.com CNAME .
-fpc.acpinternist.org CNAME .
 fpc.laerdal.com CNAME .
 healthcare.questdiagnostics.com CNAME .
+immunocap.thermo.com CNAME .
+immunocap.thermofisher.com CNAME .
 insights.53.com CNAME .
 isac.thermofisher.com CNAME .
 ixia-elq.keysight.com CNAME .
+pages.att.com CNAME .
+plans.questdiagnostics.com CNAME .
 site.att.com CNAME .
-subscriptionmanagement.53.com CNAME .
 tracking.att.com CNAME .
 tracking.health.bjc.org CNAME .
 tracking.pennmedicine.princetonhcs.org CNAME .
 tracking.questdiagnostics.com CNAME .
+trk.advancedmanufacturingminneapolis.com CNAME .
+trk.designcon.com CNAME .
 trk.designnews.com CNAME .
 trk.mddionline.com CNAME .
 trk.packagingdigest.com CNAME .
 trk.plasticstoday.com CNAME .
-trk.powderandbulksolids.com CNAME .
-trk.thebatteryshow.eu CNAME .
-trkime.informa.com CNAME .
 webtracking.oncourselearning.com CNAME .
 www.acpprograms.org CNAME .
 ;
@@ -1199,6 +1433,7 @@ www.acpprograms.org CNAME .
 ;
 ald.aldautomotive.be CNAME .
 alquiler.aldflex.es CNAME .
+alquiler.carflex.es CNAME .
 campaign.fr.mazda.be CNAME .
 campaign.mazda.sk CNAME .
 communications.parcours.fr CNAME .
@@ -1237,47 +1472,23 @@ dialogue.mazda.si CNAME .
 dialogue.mazda.sk CNAME .
 dialogue.nl.mazda.be CNAME .
 elqtrck.motor.no CNAME .
-gdg.gardnerdenver.com CNAME .
-info.shavve.co.il CNAME .
+info.histadrut.org CNAME .
 renting.aldautomotive.es CNAME .
 track-e.cypress.com CNAME .
 track-e.infineon.com CNAME .
-tracking.usj.es CNAME .
+track-e.infineoncommunity.com CNAME .
+www.info.shavve.co.il CNAME .
 ;
-; e74319.x.akamaiedge.net disguised trackers
+; s1038638438.hs.eloqua.com disguised trackers
 ;
-alias.cloud-marketing.dimensiondata.com CNAME .
-app.partner.fisglobal.com CNAME .
-assets.comunicaciones.pymas.com.co CNAME .
-cdn.experience.globalsources.com CNAME .
-eloquaimages.e.abb.com CNAME .
-image.info.perkinelmer.com CNAME .
-imagenes.ubmmexico.com CNAME .
-images.assets.aapa.org CNAME .
-images.blackhat.com CNAME .
-images.c.clearlink.com CNAME .
-images.cloud.travelport.com CNAME .
-images.communication.carsales.com.au CNAME .
-images.createchange.uq.edu.au CNAME .
-images.demand.awspls.com CNAME .
-images.demand.brainshark.com CNAME .
-images.demand.nec.com CNAME .
-images.discoveracademic.ptc.com CNAME .
-images.e.bengals.com CNAME .
-images.e.bulls.com CNAME .
-images.e.chiefs.com CNAME .
-images.e.corenetglobal.org CNAME .
-images.e.dallasstars.com CNAME .
-images.e.gallup.com CNAME .
-images.e.royalmail.com CNAME .
-images.e.seagate.com CNAME .
-images.e.seahawksemail.com CNAME .
-www.assets.dialogue.signify.com CNAME .
+allergy.thermofisher.com CNAME .
+cascadion.thermo.com CNAME .
+cascadion.thermofisher.com CNAME .
+immunocap.thermo.com CNAME .
 ;
 ; s1109391453.hs.eloqua.com disguised trackers
 ;
 alquiler.aldflex.es CNAME .
-alquiler.carflex.es CNAME .
 renting.aldautomotive.es CNAME .
 ;
 ; p06d.hs.eloqua.com disguised trackers
@@ -1285,25 +1496,35 @@ renting.aldautomotive.es CNAME .
 altalex.wolterskluwer.com CNAME .
 announcement.lyreco.com CNAME .
 campaigns.grenke.com CNAME .
+cookies.grenke.de CNAME .
 corporate.fctg.cloud CNAME .
+events.ferrari.com CNAME .
+info.schulverwaltung.de CNAME .
+info.wkf.fr CNAME .
+info.wolterskluwer.it CNAME .
 landing-effacts.wolterskluwer.com CNAME .
 landing-kleos.wolterskluwer.com CNAME .
 landing-smartdocument.wolterskluwer.com CNAME .
-lrbelgium.wolterskluwer.com CNAME .
-lrnetherlands.wolterskluwer.com CNAME .
+landing-teamdocs.wolterskluwer.com CNAME .
+landing-winra.wolterskluwer.com CNAME .
+lrhungary.wolterskluwer.com CNAME .
+lritaly.wolterskluwer.com CNAME .
 lrpoland.wolterskluwer.com CNAME .
-lrportugal.wolterskluwer.com CNAME .
+offer.lyreco.com CNAME .
 promotion.sedo.com CNAME .
 stat.ipsoa.it CNAME .
 stat.lex.pl CNAME .
 stat.prawo.pl CNAME .
+stat.praxys.hu CNAME .
 stat.profinfo.pl CNAME .
 stat.wki.it CNAME .
 stat.wolterskluwer.com CNAME .
 stat.wolterskluwer.pl CNAME .
 track.ferrari.com CNAME .
 track.ferraridealers.com CNAME .
-tracking.bonava.ru CNAME .
+tracking.bonava.no CNAME .
+ukri.innovateuk.org CNAME .
+www.events.ferrari.com CNAME .
 ;
 ; s1661434605.hs.eloqua.com disguised trackers
 ;
@@ -1320,21 +1541,23 @@ connectlp.keysight.com CNAME .
 content.golfpride.com CNAME .
 eloquamarketing.masterlock.com CNAME .
 elq.keysight.com CNAME .
+elq.keysight.com.cn CNAME .
 forms.bmc.com CNAME .
-fpc.pelican.com CNAME .
 fpc.seahawks.com CNAME .
-globalcustodian.strategic-i.com CNAME .
-go.abcmetalroofing.com CNAME .
 go.blackducksoftware.com CNAME .
+go.robertsonbuildings.com CNAME .
 info.perkinelmer.com CNAME .
+inspire.changehealthcare.com CNAME .
 phcbi-solution.phchd.com CNAME .
 response.arizonacoyotes.com CNAME .
 securetracking.golfpride.com CNAME .
 st.azcardinals.com CNAME .
+suppliersite.ferguson.com CNAME .
+track.simonton.com CNAME .
 tracking.bv.com CNAME .
-tracking.changehealthcare.com CNAME .
 tracking.health.lexmed.com CNAME .
 tracking.schneider.com CNAME .
+tracking1.cignaglobalhealth.com CNAME .
 web.care.eehealth.org CNAME .
 web.care.mhs.net CNAME .
 web.care.wakemed.org CNAME .
@@ -1342,41 +1565,39 @@ web.health.childrenswi.org CNAME .
 web.health.memorialcare.org CNAME .
 webtracking.becker.com CNAME .
 ;
+; cxapps-ams.eloqua.com disguised trackers
+;
+ams.oraclecloud.com CNAME .
+;
 ; s1527.hs.eloqua.com disguised trackers
 ;
 analytics.aba.com CNAME .
-;
-; s1766854304.hs.eloqua.com disguised trackers
-;
-analytics.cognyte.com CNAME .
-curious.cognyte.com CNAME .
+sgsb.aba.com CNAME .
 ;
 ; s1844742678.hs.eloqua.com disguised trackers
 ;
 analytics.ferguson.com CNAME .
 tracking.build.com CNAME .
+tracking.compactappliance.com CNAME .
 tracking.faucet.com CNAME .
 tracking.faucetdirect.com CNAME .
 tracking.handlesets.com CNAME .
-tracking.kegerator.com CNAME .
 tracking.lightingdirect.com CNAME .
 tracking.pullsdirect.com CNAME .
 tracking.ventingdirect.com CNAME .
-tracking.winecoolerdirect.com CNAME .
+tracking.ventingpipe.com CNAME .
+;
+; s8399903.hs.eloqua.com disguised trackers
+;
+analytics.flexpay.io CNAME .
 ;
 ; p06b.hs.eloqua.com disguised trackers
 ;
 anmeldung.promatis.ch CNAME .
 anmeldung.promatis.de CNAME .
-comms.supplychain.nhs.uk CNAME .
 eloq.fiducial.fr CNAME .
 events.oddo-bhf.com CNAME .
-fpc.ciel.com CNAME .
-fpc.sage.com CNAME .
-gcn.tuv.com CNAME .
 get.sage.com CNAME .
-go.avon.cz CNAME .
-go.avon.sk CNAME .
 go.tuv.com CNAME .
 lkr-trk.reply.com CNAME .
 tracking1.tena.com CNAME .
@@ -1387,6 +1608,7 @@ www.armolipid.com.ru CNAME .
 answers.teradata.ch CNAME .
 answers.teradata.com CNAME .
 answers.teradata.fr CNAME .
+answers.teradata.in CNAME .
 app.mktg.genesys.com CNAME .
 connect.healthcare.northbay.org CNAME .
 connect.senecacollege.ca CNAME .
@@ -1398,26 +1620,20 @@ email.hockeytown.com CNAME .
 feedback.vegasgoldenknights.com CNAME .
 fpcdallasstars.nhl.com CNAME .
 info.go.lorainccc.edu CNAME .
-lakerspreferences.gleague.nba.com CNAME .
+lakerspreferences.nba.com CNAME .
 marketing.royalalaskanmovers.com CNAME .
 pop.dmglobal.com CNAME .
+preferences.bowerswilkins.com CNAME .
 preferences.la-lakers.com CNAME .
 t.mktg.genesys.com CNAME .
 tech.softchoice.com CNAME .
 tkelq.genesys.com CNAME .
 tracking.go.onshape.com CNAME .
 tracking.mail.ti.com CNAME .
-tracking.mail.ti.com.cn CNAME .
 tracking.trinet.com CNAME .
-trials.questdiagnostics.com CNAME .
+trackinginternal.ti.com CNAME .
 web.healthcare.northbay.org CNAME .
 www.mkt.uvg.edu.gt CNAME .
-;
-; s1770571578.hs.eloqua.com disguised trackers
-;
-answers.teradata.com CNAME .
-answers.teradata.fr CNAME .
-answers.teradata.in CNAME .
 ;
 ; p06j.hs.eloqua.com disguised trackers
 ;
@@ -1430,71 +1646,31 @@ contact.coface.com CNAME .
 contents.pwc.com CNAME .
 downloads.coface.com CNAME .
 flavors.firmenich.com CNAME .
+go.hager.com CNAME .
 hello.bpost.be CNAME .
+intel-trk.informa.com CNAME .
+intel-trk.lloydslistintelligence.com CNAME .
 investors.firmenich.com CNAME .
 pages.info.exclusive-networks.com CNAME .
-pages.maritimeintelligence.informa.com CNAME .
-pages.ovum.informa.com CNAME .
+pages.intelligence.informa.com CNAME .
 pages.pharmaintelligence.informa.com CNAME .
-perfumery.firmenich.com CNAME .
 secure-eugo.arrow.com CNAME .
+spr.punainenristi.fi CNAME .
 subscription.coface.com CNAME .
+success.coface.com CNAME .
+sys.hager.com CNAME .
 tracking.max.co.il CNAME .
+tracking.ssab.com.br CNAME .
 webinars.coface.com CNAME .
 ;
-; s389462.hs.eloqua.com disguised trackers
+; s1742027581.hs.eloqua.com disguised trackers
 ;
-ap.quadient.com CNAME .
-;
-; p01c.hs.eloqua.com disguised trackers
-;
-apac.adpinfo.com CNAME .
-apps.imaginecommunications.com CNAME .
-ast-en.adp.ca CNAME .
-ast-fr.adp.ca CNAME .
-be.secure.sonosite.com CNAME .
-br.adpinfo.com CNAME .
-brand.adp.ca CNAME .
-cn.adpinfo.com CNAME .
-contact-us.adp.ca CNAME .
-de.secure.sonosite.com CNAME .
-domorewithless.adp.ca CNAME .
-elq.ansible.com CNAME .
-elq.enterprisersproject.com CNAME .
-elq.forrester.com CNAME .
-elq.macu.com CNAME .
-elq.openshift.com CNAME .
-elq.opensource.com CNAME .
-elq.redhat.com CNAME .
-etrack.ext.hpe.com CNAME .
-fr.secure.sonosite.com CNAME .
-ghp.adp.ca CNAME .
-hr.adp.ca CNAME .
-info.adp.com CNAME .
-info.reutersagency.com CNAME .
-kr.secure.sonosite.com CNAME .
-learn.relationshipone.com CNAME .
-motm.adp.ca CNAME .
-nas.adpinfo.com CNAME .
-secure.adp.ca CNAME .
-secure.sonosite.com CNAME .
-solutions.refinitiv.com CNAME .
-subscribe.adpinfo.com CNAME .
-tracking.adp-iat.adp.ca CNAME .
-tracking.adp.ca CNAME .
-tracking.adp.com CNAME .
-tracking.adpri.org CNAME .
-tracking.au.adp.com CNAME .
-tracking.events.adp.com CNAME .
-tracking.fr.adp.com CNAME .
-trk.advisory.com CNAME .
-www.adpinfo.com CNAME .
-www.domorewithless.adp.ca CNAME .
-www.infos-experts.adp.com CNAME .
+apac.info.mouser.com CNAME .
+elq.mouser.com CNAME .
+sub.info.mouser.com CNAME .
 ;
 ; p03i.hs.eloqua.com disguised trackers
 ;
-apac.info.mouser.com CNAME .
 apac.zendesk.com CNAME .
 app.arkansasrazorbacks.com CNAME .
 app.arts.uci.edu CNAME .
@@ -1504,19 +1680,21 @@ app.ucirvinesports.com CNAME .
 contact.dksh.com CNAME .
 downpayment.fernsby.com CNAME .
 ec.infosys.com CNAME .
-elq.mouser.at CNAME .
-elq.mouser.ca CNAME .
 elq.mouser.com CNAME .
-emea.info.mouser.com CNAME .
 eqs.intuit.com CNAME .
 go.zendesk.com CNAME .
 info.dksh.com CNAME .
+learnmore.protiviti.com CNAME .
+responses.ingrammicro.com CNAME .
 secure.wiley.com CNAME .
 sub.info.mouser.com CNAME .
 t.arkansasrazorbacks.com CNAME .
+t.arts.uci.edu CNAME .
 t.friars.com CNAME .
+t.southernmiss.com CNAME .
 trace.insead.edu CNAME .
 track.info.prweekus.com CNAME .
+track.quad.com CNAME .
 tracking.global-demand02.nec.com CNAME .
 tracking.hcltech.com CNAME .
 tracking.insead.edu CNAME .
@@ -1525,13 +1703,13 @@ tracking.insead.edu CNAME .
 ;
 apacenews.roche.com CNAME .
 benelux2.secureforms.mcafee.com CNAME .
+campaigns.mellanox.com CNAME .
 campaigns.netscout.com CNAME .
 cbc.pnc.com CNAME .
 channel.informaengage.com CNAME .
 channelevents.partnermcafee.com CNAME .
-connect-qa.netapp.com CNAME .
-connect.abm.netapp.com CNAME .
 connect.blog.netapp.com CNAME .
+connect.cloud.netapp.com CNAME .
 connect.content-hub.netapp.com CNAME .
 connect.customers.netapp.com CNAME .
 connect.netapp.co.il CNAME .
@@ -1540,6 +1718,7 @@ connect.netapp.com.au CNAME .
 connect.netapp.com.br CNAME .
 connect.netapp.com.sg CNAME .
 connect.netapp.com.tw CNAME .
+connect.partner-connect.netapp.com CNAME .
 connect2.secureforms.mcafee.com CNAME .
 connectportal.netapp.com CNAME .
 design.informabi.com CNAME .
@@ -1547,12 +1726,19 @@ eb.informabi.com CNAME .
 eloqua.roche.com CNAME .
 elq.analog.com CNAME .
 elq.lansa.com CNAME .
+enterprise2.secureforms.mcafee.com CNAME .
+entreprises.go.bouyguestelecom.fr CNAME .
 ets.ni.com CNAME .
-forms.mdreducation.com CNAME .
-getmore.enelx.com CNAME .
+go.ngahr.com CNAME .
+go.teledynemarine.com CNAME .
+go3.teledynemarine.com CNAME .
+grc2.secureforms.mcafee.com CNAME .
 insights.ddiworld.com CNAME .
-mfg.informabi.com CNAME .
+library.changepoint.com CNAME .
+ltam2.secureforms.mcafee.com CNAME .
+news2.secureforms.mcafee.com CNAME .
 tracking.info.servicenow.com CNAME .
+tracking.kenblanchard.com CNAME .
 tracking.lenovo.com CNAME .
 ;
 ; p04i.hs.eloqua.com disguised trackers
@@ -1564,45 +1750,45 @@ app.thomsonreuters.com CNAME .
 ask.antalis.com CNAME .
 ask.antalis.es CNAME .
 ask.legalsolutions.thomsonreuters.info CNAME .
+campaign.motorolasolutions.com CNAME .
 campaigninfo.motorolasolutions.com CNAME .
 campaignresources.motorolasolutions.com CNAME .
 comunicaciones.davivienda.com.pa CNAME .
-connect.caringcrowd.org CNAME .
 connect.mid.hcahealthcare.com CNAME .
+drugtest.questdiagnostics.com CNAME .
 engage.3m.co.cr CNAME .
+engage.3m.co.id CNAME .
+engage.3m.co.ke CNAME .
 engage.3m.co.kr CNAME .
-engage.3m.co.th CNAME .
 engage.3m.co.uk CNAME .
 engage.3m.co.za CNAME .
 engage.3m.com.ar CNAME .
-engage.3m.com.au CNAME .
 engage.3m.com.bo CNAME .
 engage.3m.com.br CNAME .
-engage.3m.com.cn CNAME .
-engage.3m.com.co CNAME .
-engage.3m.com.do CNAME .
 engage.3m.com.ec CNAME .
 engage.3m.com.es CNAME .
 engage.3m.com.gt CNAME .
 engage.3m.com.hk CNAME .
-engage.3m.com.jm CNAME .
 engage.3m.com.kw CNAME .
 engage.3m.com.mx CNAME .
 engage.3m.com.my CNAME .
 engage.3m.com.ni CNAME .
 engage.3m.com.pa CNAME .
 engage.3m.com.pe CNAME .
-engage.3m.com.pk CNAME .
+engage.3m.com.pt CNAME .
+engage.3m.com.qa CNAME .
 engage.3m.com.ro CNAME .
 engage.3m.com.sa CNAME .
 engage.3m.com.sg CNAME .
 engage.3m.com.sv CNAME .
+engage.3m.com.tn CNAME .
 engage.3m.com.tr CNAME .
 engage.3m.com.tt CNAME .
 engage.3m.com.tw CNAME .
-engage.3m.com.uy CNAME .
+engage.3m.com.ua CNAME .
+engage.3m.com.vn CNAME .
+engage.3mae.ae CNAME .
 engage.3maustria.at CNAME .
-engage.3mbelgique.be CNAME .
 engage.3mbulgaria.bg CNAME .
 engage.3mcanada.ca CNAME .
 engage.3mchile.cl CNAME .
@@ -1629,20 +1815,23 @@ engage.3mslovensko.sk CNAME .
 engage.3msuisse.ch CNAME .
 engage.3msuomi.fi CNAME .
 engage.3msverige.se CNAME .
+eumeainfo.motorolasolutions.com CNAME .
 experiencia.coopecaja.fi.cr CNAME .
+info.aacargo.com CNAME .
+info.banpronicaragua.com.ni CNAME .
 info.christus.mx CNAME .
 info.engage.3m.com CNAME .
-info.scorecardrewards.com CNAME .
 info.unis.edu.gt CNAME .
 lacinfo.motorolasolutions.com CNAME .
+marketing-tracking.thomsonreuters.com CNAME .
 namrinfo.motorolasolutions.com CNAME .
 pp.scorecardrewards.com CNAME .
 preference.motorolasolutions.com CNAME .
+publicidad.davivienda.com.pa CNAME .
 secure.medtronicinteract.com CNAME .
 tracking.cranepi.com CNAME .
 tracking.motorolasolutions.com CNAME .
 tracking.mwe.com CNAME .
-trail.sweetandmaxwell.co.uk CNAME .
 trail.thomsonreuters.ca CNAME .
 trail.thomsonreuters.co.uk CNAME .
 trail.thomsonreuters.com CNAME .
@@ -1650,11 +1839,9 @@ trail.thomsonreuters.com CNAME .
 ; s1013191099.hs.eloqua.com disguised trackers
 ;
 apcinfo.motorolasolutions.com CNAME .
-campaign.motorolasolutions.com CNAME .
-campaigninfo.motorolasolutions.com CNAME .
+eumeainfo.motorolasolutions.com CNAME .
 lacinfo.motorolasolutions.com CNAME .
 namrinfo.motorolasolutions.com CNAME .
-preference.motorolasolutions.com CNAME .
 tracking.motorolasolutions.com CNAME .
 ;
 ; p03g.hs.eloqua.com disguised trackers
@@ -1664,20 +1851,23 @@ app.nhra.com CNAME .
 app.seminoles.com CNAME .
 app.uabsports.com CNAME .
 app.uhcougars.com CNAME .
-app.umassathletics.com CNAME .
 b2bmkt.lge.co.kr CNAME .
 beuniquelyinsured.selective.com CNAME .
 choose.nu.edu CNAME .
 e.fdm.dk CNAME .
-now.greenbuildexpo.com CNAME .
 t.12thman.com CNAME .
 t.ecupirates.com CNAME .
 t.nhra.com CNAME .
 t.seminoles.com CNAME .
+t.uhcougars.com CNAME .
 t.umassathletics.com CNAME .
 tracking.info.sailpoint.com CNAME .
 tracking.opentable.com CNAME .
+tracking.sailpoint.com CNAME .
 tracking.selective.com CNAME .
+trk.catersource-cfp.com CNAME .
+trk.informaconnect.com CNAME .
+www.secure.rc-club.ricoh.co.jp CNAME .
 ;
 ; p06.hs.eloqua.com disguised trackers
 ;
@@ -1685,7 +1875,9 @@ app.3d.ultimaker.com CNAME .
 dnews.abarth.it CNAME .
 dnews.fiat.it CNAME .
 dseloqua.youbet.dk CNAME .
-mkt-tracking.cloudmargin.com CNAME .
+info.tupperware.es CNAME .
+marketing.clippergifts.com CNAME .
+www.send.hollandcasino.nl CNAME .
 ;
 ; p03f.hs.eloqua.com disguised trackers
 ;
@@ -1705,15 +1897,14 @@ channelusa.samsung.com CNAME .
 connect.lgcns.com CNAME .
 discover.averydennison.com CNAME .
 eloqua.incite-group.com CNAME .
-go.air-electra.co.il CNAME .
+forms.pella.com CNAME .
 gsasolutionssecure.gsa.gov CNAME .
 information.lgcns.com CNAME .
 pages.canon.com.au CNAME .
-pages.protective.com CNAME .
-situationalintelligence.cognyte.com CNAME .
 support.labcorp.com CNAME .
 t.arizonawildcats.com CNAME .
 t.cubuffs.com CNAME .
+t.georgiadogs.com CNAME .
 t.hokiesports.com CNAME .
 t.lsusports.net CNAME .
 t.ohiobobcats.com CNAME .
@@ -1724,15 +1915,12 @@ tablo.outsetmedical.com CNAME .
 track.clubcar.com CNAME .
 track.go.shokubai.co.jp CNAME .
 tracking.alphacard.com CNAME .
-tracking.averydennison.com CNAME .
+tracking.barcodegiant.com CNAME .
 tracking.barcodesinc.com CNAME .
+tracking.digitalid.co.uk CNAME .
 tracking.idwholesaler.com CNAME .
 tracking.pella.com CNAME .
 tracking.protective.com CNAME .
-;
-; s1016221.hs.eloqua.com disguised trackers
-;
-app.arts.uci.edu CNAME .
 ;
 ; p03a.hs.eloqua.com disguised trackers
 ;
@@ -1742,42 +1930,58 @@ app.olemisssports.com CNAME .
 app.texassports.com CNAME .
 app.ticketstaronline.com CNAME .
 app.wsucougars.com CNAME .
+applicatifs.ricoh.fr CNAME .
 application.ricoh.co.uk CNAME .
 application.ricoh.co.za CNAME .
+bps.ricoh.co.uk CNAME .
 businessprocess.ricoh.de CNAME .
 communication.ricoh.at CNAME .
 communication.ricoh.ch CNAME .
-communication.ricoh.co.uk CNAME .
-communication.ricoh.de CNAME .
 communication.ricoh.fr CNAME .
 consulting.icmi.com CNAME .
 content-datacenter.hello.global.ntt CNAME .
 cyber-pages.att.com CNAME .
 cyber-tracking.att.com CNAME .
 dev.marketing.championhomes.com CNAME .
+developpementdurable.ricoh.fr CNAME .
 digitalworkplace.ricoh.fr CNAME .
 discover.jll.com CNAME .
 eloqua.moschampionship.com CNAME .
 eloqua.pearsonvue.ae CNAME .
 eloqua.pearsonvue.co.jp CNAME .
+eloqua.pearsonvue.co.uk CNAME .
 eloqua.pearsonvue.com CNAME .
 eloqua.pearsonvue.com.cn CNAME .
 eloqua.pointcode.fr CNAME .
 eloqua.undergraduateexam.in CNAME .
 email-ap.jll.co.in CNAME .
-email-ap.jll.pe CNAME .
-go.provident.bank CNAME .
+email-ap.jll.com.au CNAME .
+email-ap.jll.com.sg CNAME .
+email-ap.jll.ie CNAME .
+email-ap.joneslanglasalle.co.jp CNAME .
+email-ap.joneslanglasalle.com.cn CNAME .
+evenement.ricoh.fr CNAME .
+events.ricoh.co.uk CNAME .
+events.ricoh.ie CNAME .
+go.pearsonvue.com CNAME .
 gocertiport.pearsonvue.com CNAME .
 info.markmonitor.com CNAME .
+its.ricoh.fr CNAME .
 itservices.ricoh.co.uk CNAME .
 oci.dyn.com CNAME .
-onlineshop.ricoh.co.uk CNAME .
+processusmetier.ricoh.fr CNAME .
+productionprinting.ricoh.co.uk CNAME .
+produits.ricoh.fr CNAME .
+produkte.ricoh.de CNAME .
+support.ricoh.de CNAME .
+t.cofcsports.com CNAME .
 t.foxtheatre.org CNAME .
 t.olemisssports.com CNAME .
 t.ramblinwreck.com CNAME .
 t.sjsuspartans.com CNAME .
 t.texassports.com CNAME .
 t.ticketstaronline.com CNAME .
+t.tulanegreenwave.com CNAME .
 tools.ricoh.co.uk CNAME .
 track.info.cancertherapyadvisor.com CNAME .
 track.info.clinicaladvisor.com CNAME .
@@ -1785,7 +1989,9 @@ track.info.dermatologyadvisor.com CNAME .
 track.info.empr.com CNAME .
 track.info.endocrinologyadvisor.com CNAME .
 track.info.gastroenterologyadvisor.com CNAME .
+track.info.hematologyadvisor.com CNAME .
 track.info.infectiousdiseaseadvisor.com CNAME .
+track.info.medicalbag.com CNAME .
 track.info.neurologyadvisor.com CNAME .
 track.info.oncologynurseadvisor.com CNAME .
 track.info.ophthalmologyadvisor.com CNAME .
@@ -1799,7 +2005,10 @@ track.info.thecardiologyadvisor.com CNAME .
 tracking.go.provident.bank CNAME .
 tracking.seakeeper.com CNAME .
 trk.mktg.nec.com CNAME .
+workplace.ricoh.be CNAME .
 workplace.ricoh.co.uk CNAME .
+workplace.ricoh.de CNAME .
+workplace.ricoh.ie CNAME .
 ;
 ; p03k.hs.eloqua.com disguised trackers
 ;
@@ -1820,22 +2029,24 @@ carepay.gaf.com CNAME .
 communications.cigna.com CNAME .
 conferences.cigna.com CNAME .
 contact.tsr-net.co.jp CNAME .
-eloqua.radware.com CNAME .
 elqtracking.capella.edu CNAME .
 elqtracking.strayer.edu CNAME .
-gbl.radware.com CNAME .
+info.americas.mizuhogroup.com CNAME .
 lantern.fortinet.com CNAME .
+lp.strayer.edu CNAME .
+marketing.cigna.com CNAME .
 s.sick.com CNAME .
+t.emueagles.com CNAME .
 t.gophersports.com CNAME .
 t.gopsusports.com CNAME .
 t.hailstate.com CNAME .
 t.jmusports.com CNAME .
-t.libertyfirstcreditunionarena.com CNAME .
 t.navysports.com CNAME .
 talenteq.intuit.com CNAME .
 tracking.analysis.hibu.com CNAME .
 tracking.hibu.com CNAME .
 tracking.info.ivanti.com CNAME .
+tracking.mizuhogroup.com CNAME .
 tracking.oppd.com CNAME .
 tracking.umbrella.com CNAME .
 ;
@@ -1847,21 +2058,27 @@ app.updates.digicert.com CNAME .
 assets.spectrumhealthlakeland.org CNAME .
 connect.ntx.hcahealthcare.com CNAME .
 elq-trk.fullsail.edu CNAME .
-elq.proagrica.com CNAME .
-getinfo.fullsail.edu CNAME .
 go.econnect.dellmed.utexas.edu CNAME .
 go.fuze.com CNAME .
 go.info.verifi.com CNAME .
-lp.connectedcare.wkhs.com CNAME .
+info.neighborly.com CNAME .
+learn.jacksonhewitt.com CNAME .
 satracking.finning.com CNAME .
+secureforms.adaptris.com CNAME .
+secureforms.proagrica.com CNAME .
 tracking.aifsabroad.com CNAME .
 tracking.aupairinamerica.com CNAME .
 tracking.evanta.com CNAME .
-tracking.myaupairinamerica.com CNAME .
 tracking.oldnational.com CNAME .
 tracking.prodesa.com CNAME .
 trk.contentmarketinginstitute.com CNAME .
+uxplora.davivienda.com CNAME .
+web.health.hannibalregional.org CNAME .
 webtracking.aucmed.edu CNAME .
+;
+; s1388037622.hs.eloqua.com disguised trackers
+;
+app.bncontacto.fi.cr CNAME .
 ;
 ; p03d.hs.eloqua.com disguised trackers
 ;
@@ -1880,26 +2097,29 @@ cookie.amerigas.com CNAME .
 cookie.cynch.com CNAME .
 cookie.myamerigas.com CNAME .
 events.avaya.com CNAME .
+experienceplatform.avaya.com CNAME .
+go.rohrer.com CNAME .
 governmentcloud.avaya.com CNAME .
 info.avaya.com CNAME .
+info.multiburo.com CNAME .
 landing.computershare.com CNAME .
 log.cognex.com CNAME .
+nurse.fastaff.com CNAME .
 pages.response.terex.com CNAME .
 partners.avaya.com CNAME .
 promotion.lginnotek.com CNAME .
-simple.avaya.com CNAME .
-strikenurse.usnursing.com CNAME .
+t.baylorbears.com CNAME .
 t.budweisergardens.com CNAME .
 t.fightingillini.com CNAME .
 t.gomocs.com CNAME .
 t.huskers.com CNAME .
-t.krannertcenter.com CNAME .
 t.msuspartans.com CNAME .
-t.pplcenter.com CNAME .
+t.treventscomplex.com CNAME .
 t.unlvrebels.com CNAME .
 ticketoffice.liberty.edu CNAME .
 track.info.mmm-online.com CNAME .
 track.inspirage.com CNAME .
+tracking.mattersurfaces.com CNAME .
 tracking.response.terex.com CNAME .
 tracking.rti-inc.com CNAME .
 ;
@@ -1919,7 +2139,6 @@ engage2demand.cisco.com CNAME .
 engagemetrics.cisco.com CNAME .
 go.emeadatacenter.services.global.ntt CNAME .
 info.macktrucks.com CNAME .
-nordics.atradius.com CNAME .
 posgrado.javeriana.edu.co CNAME .
 pregrados.javeriana.edu.co CNAME .
 t.auburntigers.com CNAME .
@@ -1927,16 +2146,63 @@ t.bucky.uwbadgers.com CNAME .
 t.calbears.com CNAME .
 t.goarmywestpoint.com CNAME .
 t.gostanford.com CNAME .
+t.tysoncenter.com CNAME .
 t.villanova.com CNAME .
 t.whartoncenter.com CNAME .
 t.wvusports.com CNAME .
 tracking.connect.services.global.ntt CNAME .
 tracking.eloq.soa.org CNAME .
+tracking.hello.global.ntt CNAME .
 tracking.reply.broadwayinhollywood.com CNAME .
 tracking.reply.dpacnc.com CNAME .
 tracking1.labcorp.com CNAME .
-trk.emeadatacenter.services.global.ntt CNAME .
-www.learn.dunnhumby.com CNAME .
+www.info.dunnhumby.com CNAME .
+www.science.dunnhumby.com CNAME .
+;
+; p04a.hs.eloqua.com disguised trackers
+;
+app.emkt.vitalitybrasil.com CNAME .
+carreras.unisabana.edu.co CNAME .
+connect.chamberlain.edu CNAME .
+connect.methodisthealthsystem.org CNAME .
+connect.mycwt.com CNAME .
+connected.technologies.jci.com CNAME .
+educontinua.unisabana.edu.co CNAME .
+electronics-imaging.dupont.com CNAME .
+elq.connect.jllt.com CNAME .
+elq.nextens.nl CNAME .
+elqtracking.hitachienergy.com CNAME .
+eqtrack.americashomeplace.com CNAME .
+explore.agilent.com CNAME .
+fire.solutions.jci.com CNAME .
+fpc.broadway.com CNAME .
+fpc.broadwayacrossamerica.com CNAME .
+go.hitachienergy.com CNAME .
+go.sgs.com CNAME .
+hvac.solutions.jci.com CNAME .
+info.onemedical.com CNAME .
+lp.healthinfo.thechristhospital.com CNAME .
+secure.medtronichealth.medtronic.com CNAME .
+secureforms.nextens.nl CNAME .
+shows.broadwayacrossamerica.com CNAME .
+stats.sgs.com CNAME .
+tracking.chem-agilent.com CNAME .
+tracking.coldspringusa.com CNAME .
+tracking.connect.nicklaushealth.org CNAME .
+tracking.health.bilh.org CNAME .
+tracking.info.methodisthealthsystem.org CNAME .
+tracking.nissan-dubai.com CNAME .
+tracking.pepsicopartners.com CNAME .
+tracking.ti.com CNAME .
+tracking.unisabana.edu.co CNAME .
+trk01.iotworldtoday.com CNAME .
+web.devry.edu CNAME .
+www.vitalitybrasil.com CNAME .
+;
+; s1183721.hs.eloqua.com disguised trackers
+;
+app.emkt.vitalitybrasil.com CNAME .
+www.vitalitybrasil.com CNAME .
 ;
 ; p01f.hs.eloqua.com disguised trackers
 ;
@@ -1951,43 +2217,31 @@ ctc.wolterskluwer.com CNAME .
 discover.parker.com CNAME .
 els298548211.medtronic.com CNAME .
 forms.progress.com CNAME .
-images.engage.richardsonrfpd.com CNAME .
-info.authorize.net CNAME .
-info.clarivate.com CNAME .
 reg.informationweek.com CNAME .
+response.economistevents.com CNAME .
 secureoutreach.unisys.com CNAME .
 tracking.direxion.com CNAME .
-tracking.ftitechnology.com CNAME .
 tracking.go.toyobo.co.jp CNAME .
 trk.darkreading.com CNAME .
-trk.enterpriseconnect.com CNAME .
 trk.gamedeveloper.com CNAME .
 trk.gdconf.com CNAME .
-trk.informatech.com CNAME .
 trk.informationweek.com CNAME .
+trk.interop.com CNAME .
 trk.networkcomputing.com CNAME .
-www.medtronicsolutions.com CNAME .
-;
-; s600830862.hs.eloqua.com disguised trackers
-;
-app.engage.richardsonrfpd.com CNAME .
-connection.arrow.com CNAME .
-images.engage.richardsonrfpd.com CNAME .
+trk.nojitter.com CNAME .
 ;
 ; p03b.hs.eloqua.com disguised trackers
 ;
 app.fairparkdallas.com CNAME .
+app.gobearcats.com CNAME .
 app.mgoblue.com CNAME .
 app.scarletknights.com CNAME .
 app.und.com CNAME .
 comunicacao.edpcomunicacao.com.br CNAME .
 digital.dynatos.be CNAME .
-discover.conversantmedia.com CNAME .
 e1c.curtisswrightds.com CNAME .
-explore.epsilon.com CNAME .
 go.oracle.com CNAME .
 info.fdbhealth.com CNAME .
-m.premier.info.shutterstock.com CNAME .
 pages.sailgp.com CNAME .
 t.fairparkdallas.com CNAME .
 t.gobearcats.com CNAME .
@@ -1998,6 +2252,7 @@ t.und.com CNAME .
 track.connectwise.com CNAME .
 tracking.bankofoklahoma.com CNAME .
 tracking.bankoftexas.com CNAME .
+tracking.bokfinancial.com CNAME .
 tracking.epsilon.com CNAME .
 tracking.petrelocation.com CNAME .
 tracking.sailgp.com CNAME .
@@ -2007,13 +2262,14 @@ tracking.sailgp.com CNAME .
 app.fightingillini.com CNAME .
 t.fightingillini.com CNAME .
 ;
+; s2394888.hs.eloqua.com disguised trackers
+;
+app.gobearcats.com CNAME .
+t.gobearcats.com CNAME .
+;
 ; s215151.hs.eloqua.com disguised trackers
 ;
 app.godeacs.com CNAME .
-;
-; s1107655.hs.eloqua.com disguised trackers
-;
-app.goheels.com CNAME .
 ;
 ; s1281471.hs.eloqua.com disguised trackers
 ;
@@ -2030,24 +2286,6 @@ t.gopack.com CNAME .
 app.gopsusports.com CNAME .
 t.gopsusports.com CNAME .
 ;
-; s42415.hs.eloqua.com disguised trackers
-;
-app.hailstate.com CNAME .
-t.hailstate.com CNAME .
-;
-; s2977661.hs.eloqua.com disguised trackers
-;
-app.hokiesports.com CNAME .
-t.hokiesports.com CNAME .
-;
-; s1550576449.hs.eloqua.com disguised trackers
-;
-app.info.coopenae.fi.cr CNAME .
-;
-; s274.hs.eloqua.com disguised trackers
-;
-app.innovation.nuance.com CNAME .
-;
 ; p03j.hs.eloqua.com disguised trackers
 ;
 app.kstatesports.com CNAME .
@@ -2058,12 +2296,11 @@ app.xlcenter.com CNAME .
 b.bloomberglp.com CNAME .
 eloqua-tracking.kaiserpermanente.org CNAME .
 elqapp.spectrum.com CNAME .
-elqapp.timewarnercable.com CNAME .
-firstparty1.dentsplysirona.com CNAME .
 inform.janssenpro.eu CNAME .
+lp-implants.dentsplysirona.com CNAME .
 marketing.championhomes.com CNAME .
-response.playpower.com CNAME .
-response.usa-shade.com CNAME .
+secure.dev-plan.intel.com CNAME .
+solutions.equifax.ca CNAME .
 t.kstatesports.com CNAME .
 t.poconoraceway.com CNAME .
 t.purduesports.com CNAME .
@@ -2071,23 +2308,18 @@ t.uclabruins.com CNAME .
 t.xlcenter.com CNAME .
 t.xtreamarena.com CNAME .
 tracking.janssenmedicalcloud.de CNAME .
+tracking.janssenmedicalcloud.nl CNAME .
 tracking.myregus.com CNAME .
 tracking.regus.com CNAME .
 tracking.veritas.com CNAME .
 tracking2.labcorp.com CNAME .
 web.houstontexans.com CNAME .
-web.houstontexansluxe.com CNAME .
-web.lsse.net CNAME .
+www.secondmicrosite.com CNAME .
 ;
 ; s347007.hs.eloqua.com disguised trackers
 ;
 app.mgoblue.com CNAME .
 t.mgoblue.com CNAME .
-;
-; s808240.hs.eloqua.com disguised trackers
-;
-app.miamihurricanes.com CNAME .
-t.miamihurricanes.com CNAME .
 ;
 ; s1260946616.hs.eloqua.com disguised trackers
 ;
@@ -2095,22 +2327,15 @@ app.mktg.genesys.com CNAME .
 t.mktg.genesys.com CNAME .
 tkelq.genesys.com CNAME .
 ;
-; s3690781.hs.eloqua.com disguised trackers
-;
-app.nhra.com CNAME .
-t.nhra.com CNAME .
-;
-; s1480.hs.eloqua.com disguised trackers
-;
-app.noreply.cummins.com CNAME .
-elqtrk.cummins.com CNAME .
-now.cumminsfiltration.com CNAME .
-rsvp.cummins.com CNAME .
-;
 ; s1552085.hs.eloqua.com disguised trackers
 ;
 app.pbr.com CNAME .
 t.pbr.com CNAME .
+;
+; s3192205.hs.eloqua.com disguised trackers
+;
+app.playhousesquare.org CNAME .
+t.playhousesquare.org CNAME .
 ;
 ; s756589.hs.eloqua.com disguised trackers
 ;
@@ -2127,19 +2352,29 @@ t.rolltide.com CNAME .
 app.scarletknights.com CNAME .
 t.scarletknights.com CNAME .
 ;
-; s1241071892.hs.eloqua.com disguised trackers
+; s3327771.hs.eloqua.com disguised trackers
 ;
-app.siemens-energy.com CNAME .
-cookies.siemens-energy.com CNAME .
+app.soonersports.com CNAME .
+t.soonersports.com CNAME .
 ;
 ; s1575097598.hs.eloqua.com disguised trackers
 ;
 app.thomsonreuters.com CNAME .
-ask.legalsolutions.thomsonreuters.info CNAME .
+marketing-tracking.thomsonreuters.com CNAME .
 trail.sweetandmaxwell.co.uk CNAME .
 trail.thomsonreuters.ca CNAME .
 trail.thomsonreuters.co.uk CNAME .
 trail.thomsonreuters.com CNAME .
+;
+; s2019595.hs.eloqua.com disguised trackers
+;
+app.umassathletics.com CNAME .
+t.umassathletics.com CNAME .
+;
+; s474024.hs.eloqua.com disguised trackers
+;
+app.und.com CNAME .
+t.und.com CNAME .
 ;
 ; s1701211846.hs.eloqua.com disguised trackers
 ;
@@ -2150,18 +2385,56 @@ app.updates.digicert.com CNAME .
 app.usctrojans.com CNAME .
 t.usctrojans.com CNAME .
 ;
-; s2081649.hs.eloqua.com disguised trackers
-;
-app.xlcenter.com CNAME .
-t.xlcenter.com CNAME .
-;
 ; s1271891940.hs.eloqua.com disguised trackers
 ;
-application.ricoh.co.za CNAME .
-bps.ricoh.co.uk CNAME .
-itservices.ricoh.co.uk CNAME .
-onlineshop.ricoh.co.uk CNAME .
-tools.ricoh.co.uk CNAME .
+applicatifs.ricoh.fr CNAME .
+communication.ricoh.co.uk CNAME .
+communication.ricoh.de CNAME .
+developpementdurable.ricoh.fr CNAME .
+evenement.ricoh.fr CNAME .
+events.ricoh.co.uk CNAME .
+events.ricoh.ie CNAME .
+its.ricoh.fr CNAME .
+processusmetier.ricoh.fr CNAME .
+productionprinting.ricoh.co.uk CNAME .
+produits.ricoh.fr CNAME .
+produkte.ricoh.de CNAME .
+support.ricoh.de CNAME .
+workplace.ricoh.be CNAME .
+workplace.ricoh.de CNAME .
+workplace.ricoh.ie CNAME .
+;
+; p04d.hs.eloqua.com disguised trackers
+;
+appointments.providence.org CNAME .
+appointments.swedish.org CNAME .
+businessengage.comcast.com CNAME .
+care.stlukes-stl.com CNAME .
+channelportal.netsuite.com CNAME .
+connect.news.evergreenhealth.com CNAME .
+contact.abc-companies.com CNAME .
+event.victorops.com CNAME .
+go.firstderivatives.com CNAME .
+go.psentertainment.com CNAME .
+infopromerica.promerica.fi.cr CNAME .
+live.victorops.com CNAME .
+lp.northwestern.nm.org CNAME .
+my.orhp.com CNAME .
+survey.qualfon.com CNAME .
+tandap.dupont.com CNAME .
+tracker.providence.org CNAME .
+tracker.swedish.org CNAME .
+tracking.business.comcast.com CNAME .
+tracking.evergy.com CNAME .
+tracking.netsuite.com CNAME .
+trackingmms.accenture.com CNAME .
+web.northwestern.nm.org CNAME .
+webtracking.medical.rossu.edu CNAME .
+www.dheerajrealitydemo.com CNAME .
+;
+; s1619.hs.eloqua.com disguised trackers
+;
+apps.imaginecommunications.com CNAME .
 ;
 ; p01b.hs.eloqua.com disguised trackers
 ;
@@ -2178,16 +2451,18 @@ data.aonunited.com CNAME .
 digital-engineering.de CNAME .
 events.interface.com CNAME .
 globalsolutions.risk.lexisnexis.com CNAME .
+go.west.com CNAME .
+learning.hmhco.com CNAME .
 ma.hmhco.com CNAME .
 redwingforbusiness.redwingsafety.com CNAME .
 s362693299.aon.com CNAME .
 safety.west.com CNAME .
-tracking-sandbox.vodafone.co.uk CNAME .
-tracking.fticonsulting.com CNAME .
+safety1.west.com CNAME .
+solutions.risk.lexisnexis.co.uk CNAME .
+solutions.risk.lexisnexis.com CNAME .
 tracking.risk.lexisnexis.co.uk CNAME .
 tracking.risk.lexisnexis.com CNAME .
 tracking.risk.lexisnexis.com.br CNAME .
-welcome.item24.cz CNAME .
 ;
 ; p07e.hs.eloqua.com disguised trackers
 ;
@@ -2195,35 +2470,29 @@ assessment.vetassess.com.au CNAME .
 contact.lesmills.com CNAME .
 contact.samsungsds.com CNAME .
 education.bendigotafe.edu.au CNAME .
+events.kangan.edu.au CNAME .
 go5.global.toshiba CNAME .
+lp.mkt-email.samsungsds.com CNAME .
+realeducation.kangan.edu.au CNAME .
 track.lesmills.com CNAME .
 tracking.mkt-email.samsungsds.com CNAME .
 ;
-; s937.hs.eloqua.com disguised trackers
+; s698365974.hs.eloqua.com disguised trackers
 ;
-ast-fr.adp.ca CNAME .
-ghp.adp.ca CNAME .
-hr.adp.ca CNAME .
-info.adp.com CNAME .
-motm.adp.ca CNAME .
-nas.adpinfo.com CNAME .
-secure.adp.ca CNAME .
-subscribe.adpinfo.com CNAME .
-tracking.adp-iat.adp.ca CNAME .
-tracking.adp.ca CNAME .
-tracking.adp.com CNAME .
-tracking.adpri.org CNAME .
-tracking.au.adp.com CNAME .
-tracking.events.adp.com CNAME .
-tracking.fr.adp.com CNAME .
-www.domorewithless.adp.ca CNAME .
-www.infos-experts.adp.com CNAME .
+assistancetrack.changehealthcare.com CNAME .
 ;
-; s1038638438.hs.eloqua.com disguised trackers
+; s471376.hs.eloqua.com disguised trackers
 ;
-autoimmunity.thermofisher.com CNAME .
-immunocap.thermofisher.com CNAME .
-isac.thermofisher.com CNAME .
+atencion.banrural.com.gt CNAME .
+;
+; s533626.hs.eloqua.com disguised trackers
+;
+athl.lsusports.net CNAME .
+t.lsusports.net CNAME .
+;
+; s1930125246.hs.eloqua.com disguised trackers
+;
+automate.opex.com CNAME .
 ;
 ; s883680860.hs.eloqua.com disguised trackers
 ;
@@ -2233,10 +2502,17 @@ automation.pemco.com CNAME .
 ;
 b.bloomberglp.com CNAME .
 ;
+; s1583749854.hs.eloqua.com disguised trackers
+;
+b2binfo.canon-europe.com CNAME .
+;
 ; s182847396.hs.eloqua.com disguised trackers
 ;
 b2bmarketing.swisscom.ch CNAME .
-www.b2bmarketing.swisscom.ch CNAME .
+;
+; s1542286774.hs.eloqua.com disguised trackers
+;
+b2bmarketingsb.swisscom.com CNAME .
 ;
 ; p06h.hs.eloqua.com disguised trackers
 ;
@@ -2246,54 +2522,33 @@ eloquatracking.iqvia.com CNAME .
 elqtracking.macegroup.com CNAME .
 france.alphabet.com CNAME .
 info.hmisrael.co.il CNAME .
-making-future.afry.com CNAME .
 newsletters.bancsabadell.com CNAME .
+pages.nuvias.com CNAME .
+preferenza.nposistemi.it CNAME .
+procurement.cipscomms.org CNAME .
 profiling.outokumpu.com CNAME .
 secure.constellation.iqvia.com CNAME .
-t.afry.com CNAME .
+vois.vodafone.com CNAME .
 ;
 ; p03.hs.eloqua.com disguised trackers
 ;
 bbk.pnc.com CNAME .
 ccmd.coveredca.com CNAME .
 event.clubcorp.com CNAME .
+highered.franklincovey.com CNAME .
+journey.cisco.com CNAME .
 secureod.odfl.com CNAME .
 tracking.pgi.com CNAME .
 ;
 ; p07d.hs.eloqua.com disguised trackers
 ;
 belong.curtin.edu.au CNAME .
+secure-anzgo.arrow.com CNAME .
+website-tracking.smartx.com CNAME .
 ;
 ; s2115912527.hs.eloqua.com disguised trackers
 ;
 belong.curtin.edu.au CNAME .
-;
-; s1965211.hs.eloqua.com disguised trackers
-;
-beuniquelyinsured.selective.com CNAME .
-tracking.selective.com CNAME .
-;
-; s2448.hs.eloqua.com disguised trackers
-;
-bg-go.experian.com CNAME .
-fr-go.experian.com CNAME .
-jp-go.experian.com CNAME .
-se-go.experian.com CNAME .
-th-go.experian.com CNAME .
-us-go.experian.com CNAME .
-;
-; s1425463959.hs.eloqua.com disguised trackers
-;
-bigdata.aspiresys.com CNAME .
-cloud.aspiresys.com CNAME .
-;
-; s735616432.hs.eloqua.com disguised trackers
-;
-blog.bumpclubandbeyond.com CNAME .
-;
-; s3856805.hs.eloqua.com disguised trackers
-;
-business-pages.edfenergy.com CNAME .
 ;
 ; s188599536.hs.eloqua.com disguised trackers
 ;
@@ -2304,23 +2559,61 @@ business.samsungusa.com CNAME .
 business.vodafone.co.nz CNAME .
 choose.adelaide.edu.au CNAME .
 des.me.coact.org.au CNAME .
-elq.utas.edu.au CNAME .
-funding.go.apprenticeshipcommunity.com.au CNAME .
+start.adelaide.edu.au CNAME .
 tracking.utas.edu.au CNAME .
 visit.tafensw.edu.au CNAME .
 ;
 ; s1525.hs.eloqua.com disguised trackers
 ;
 business.vodafone.com CNAME .
-in-business.vodafone.com CNAME .
-iot-mktg.vodafone.com CNAME .
-it-mktg.vodafone.com CNAME .
-tracking.vodafone.co.uk CNAME .
+tracking.vodafone.com CNAME .
 ;
-; s1325.hs.eloqua.com disguised trackers
+; s1887277791.hs.eloqua.com disguised trackers
 ;
-businessmaking.progress.com CNAME .
-forms.progress.com CNAME .
+businessengage.comcast.com CNAME .
+tracking.business.comcast.com CNAME .
+;
+; p04b.hs.eloqua.com disguised trackers
+;
+ca.connect.finning.com CNAME .
+catracking.finning.com CNAME .
+comunicaciones.daviviendacorredores.com CNAME .
+connect.chapman.com CNAME .
+connect.cont.hcahealthcare.com CNAME .
+connect.fwd.hcahealthcare.com CNAME .
+connect.info.halifaxhealthnews.org CNAME .
+connect.lionsclubs.org CNAME .
+dloeloqua.danskespil.dk CNAME .
+eloqua.binarytree.com CNAME .
+eloqua.brakepartsinc.com CNAME .
+eloqua.erwin.com CNAME .
+eloqua.oneidentity.com CNAME .
+eloqua.onelogin.com CNAME .
+eloqua.quadrotech-it.com CNAME .
+eloqua.quest.com CNAME .
+eloqua.syslog-ng.com CNAME .
+eroar.lionsclubs.org CNAME .
+events.gogoair.com CNAME .
+experience.stamfordhealth.org CNAME .
+go.enautics.com CNAME .
+lincolnfinancialgroup.lfg.com CNAME .
+lp.info.jeffersonhealth.org CNAME .
+mkt.compactaprint.com.br CNAME .
+solutions.westrock.com CNAME .
+tracking.dr-10.com CNAME .
+tracking.eloqua.modernize.com CNAME .
+tracking.emoneyadvisor.com CNAME .
+tracking.health.tmcaz.com CNAME .
+tracking.link.boone.health CNAME .
+trackingcareers.accenture.com CNAME .
+web.care.sheppardpratt.org CNAME .
+webtracking.acams.org CNAME .
+webtrackingvet.rossu.edu CNAME .
+;
+; s1513444615.hs.eloqua.com disguised trackers
+;
+ca.connect.finning.com CNAME .
+catracking.finning.com CNAME .
 ;
 ; s1019741931.hs.eloqua.com disguised trackers
 ;
@@ -2339,14 +2632,21 @@ digital.cloud.travelport.com CNAME .
 eloqua-trackings.unity.com CNAME .
 eloqua-trackings.unity3d.com CNAME .
 enterprises.proximus.be CNAME .
+forms.axa-im.com CNAME .
+ifi-trk.informa.com CNAME .
 insight.business.hsbc.com CNAME .
-page.thalesgroup.com CNAME .
-tracking.bnppre.fr CNAME .
+my.internationalsos.com CNAME .
+pages.financialintelligence.informa.com CNAME .
+pages.news.realestate.bnpparibas CNAME .
+pages.siemens-info.com CNAME .
+sites.siemens.com CNAME .
+subscriptions.axa-im.com CNAME .
 tracking.drivercenter.eu CNAME .
 tracking.liwest.at CNAME .
 tracking.pirelli.com CNAME .
 tracking.scoresandodds.com CNAME .
 tracking.smartbets.com CNAME .
+tracking.vegasinsider.com CNAME .
 tracking.wettfreunde.net CNAME .
 www.enterprises.proximus.be CNAME .
 ;
@@ -2357,6 +2657,7 @@ campaign.amadeus.com CNAME .
 ; p06a.hs.eloqua.com disguised trackers
 ;
 campaign.bbmbonnier.se CNAME .
+campaign.onetrust.com CNAME .
 campaign.vendorpedia.com CNAME .
 campaigns.cm.be CNAME .
 campaigns.mc.be CNAME .
@@ -2364,170 +2665,69 @@ comunicaciones.paginasamarillas.es CNAME .
 cookiejar.atea.no CNAME .
 dummy.atea.com CNAME .
 eloqua.infobip.com CNAME .
-email.lottehotel.com CNAME .
-fpc.onetrust.com CNAME .
-global-mktg.transunion.com CNAME .
-go.computacenter.com CNAME .
-info.dataguidance.com CNAME .
+eloqua.teknos.com CNAME .
+elqtracking.pensionbuddy.co.uk CNAME .
+info.checkin.pwc.com CNAME .
 info.houzz.com CNAME .
+info.insightsofficer.pwc.com CNAME .
 info.laley.es CNAME .
 info.onetrust.com CNAME .
-info.proedge.pwc.com CNAME .
+info.riskproducts.pwc.com CNAME .
 lp.sophos.com CNAME .
-secured.online.avon.com CNAME .
-service.bechtle.com CNAME .
+notify.eset.com CNAME .
 stat.guiasjuridicas.es CNAME .
 stat.juridicas.com CNAME .
 stat.laley.es CNAME .
 stat.laleynext.es CNAME .
 stat.wolterskluwer.es CNAME .
-stat.wolterskluwer.pt CNAME .
+tracking.atea.dk CNAME .
 tracks3.ferrari.com CNAME .
-web.wearejust.co.uk CNAME .
+web.hubfinancialsolutions.co.uk CNAME .
 ;
 ; s355424421.hs.eloqua.com disguised trackers
 ;
 campaign.bbmbonnier.se CNAME .
 ;
-; s477278796.hs.eloqua.com disguised trackers
+; s158287357.hs.eloqua.com disguised trackers
 ;
-campaign.fr.mazda.be CNAME .
-dialogue.mazda.bg CNAME .
-dialogue.mazda.gr CNAME .
-dialogue.mazda.pl CNAME .
-dialogue.mazda.rs CNAME .
-;
-; s128650407.hs.eloqua.com disguised trackers
-;
-campaign.glory-global.com CNAME .
-;
-; p07.hs.eloqua.com disguised trackers
-;
-campaign.hach.com.cn CNAME .
-campaign.item-china.cn CNAME .
-campaign.kanto-mazda.com CNAME .
-cloud.aspiresys.com CNAME .
-discover.10play.com.au CNAME .
-;
-; s2025046056.hs.eloqua.com disguised trackers
-;
-campaign.onetrust.com CNAME .
-fpc.onetrust.com CNAME .
-info.onetrust.com CNAME .
+campaign.kpmg.co.il CNAME .
 ;
 ; s598301108.hs.eloqua.com disguised trackers
 ;
 campaign.ssab.com CNAME .
-;
-; s487768300.hs.eloqua.com disguised trackers
-;
-campaigns.amadeus.com CNAME .
+tracking.ssab.com.br CNAME .
 ;
 ; s225147923.hs.eloqua.com disguised trackers
 ;
 campaigns.cm.be CNAME .
 campaigns.mc.be CNAME .
 ;
-; s1363.hs.eloqua.com disguised trackers
+; s128650407.hs.eloqua.com disguised trackers
 ;
-campaigns.engage.cebglobal.com CNAME .
-event.shl.com CNAME .
-events.engage.cebglobal.com CNAME .
-tracking.shl.com CNAME .
+campaigns.glory-global.com CNAME .
+events.glory-global.com CNAME .
 ;
-; s1754.hs.eloqua.com disguised trackers
+; s1415918069.hs.eloqua.com disguised trackers
 ;
-campaigns.netscout.com CNAME .
-;
-; s1783.hs.eloqua.com disguised trackers
-;
-campaigns.panasonic.eu CNAME .
+campaigns.mellanox.com CNAME .
 ;
 ; s1856564273.hs.eloqua.com disguised trackers
 ;
 care.stlukes-stl.com CNAME .
 ;
-; p04a.hs.eloqua.com disguised trackers
+; s127477.hs.eloqua.com disguised trackers
 ;
-carreras.unisabana.edu.co CNAME .
-connect.chamberlain.edu CNAME .
-connect.methodisthealthsystem.org CNAME .
-connect.mycwt.com CNAME .
-connected.technologies.jci.com CNAME .
-educontinua.unisabana.edu.co CNAME .
-electronics-imaging.dupont.com CNAME .
-elq.connect.jllt.com CNAME .
-elq.nextens.nl CNAME .
-elqtracking.hitachienergy.com CNAME .
-explore.agilent.com CNAME .
-fpc.broadway.com CNAME .
-go.hitachienergy.com CNAME .
-go.sgs.com CNAME .
-hopeful.coh.org CNAME .
-info.onemedical.com CNAME .
-response.coh.org CNAME .
-shows.broadwayacrossamerica.com CNAME .
-stats.sgs.com CNAME .
-tracking.aapa.org CNAME .
-tracking.connect.nicklaushealth.org CNAME .
-tracking.health.bilh.org CNAME .
-tracking.info.methodisthealthsystem.org CNAME .
-tracking.nissan-dubai.com CNAME .
-tracking.pepsicopartners.com CNAME .
-tracking.ti.com CNAME .
-tracking.ti.com.cn CNAME .
-tracking.unisabana.edu.co CNAME .
-trk01.iotworldtoday.com CNAME .
-web.healthnews.thechristhospital.com CNAME .
-webtracking.chamberlain.edu CNAME .
-www.solutions.prudential.com CNAME .
-;
-; p04b.hs.eloqua.com disguised trackers
-;
-catracking.finning.com CNAME .
-comunicaciones.daviviendacorredores.com CNAME .
-connect.acams.org CNAME .
-connect.chapman.com CNAME .
-connect.cont.hcahealthcare.com CNAME .
-connect.fwd.hcahealthcare.com CNAME .
-connect.info.halifaxhealthnews.org CNAME .
-connect.lionsclubs.org CNAME .
-dloeloqua.danskespil.dk CNAME .
-eloqua.binarytree.com CNAME .
-eloqua.brakepartsinc.com CNAME .
-eloqua.erwin.com CNAME .
-eloqua.oneidentity.com CNAME .
-eloqua.onelogin.com CNAME .
-eloqua.quadrotech-it.com CNAME .
-eloqua.quest.com CNAME .
-eloqua.syslog-ng.com CNAME .
-eroar.lionsclubs.org CNAME .
-go.enautics.com CNAME .
-learn.carlingtech.com CNAME .
-lp.info.jeffersonhealth.org CNAME .
-mkt.compactaprint.com.br CNAME .
-page.health.tmcaz.com CNAME .
-response.emoneyadvisor.com CNAME .
-solutions.westrock.com CNAME .
-tracking.dr-10.com CNAME .
-tracking.eloqua.modernize.com CNAME .
-tracking.emoneyadvisor.com CNAME .
-tracking.health.tmcaz.com CNAME .
-tracking.lincolnfinancialgroup.lfg.com CNAME .
-trackingcareers.accenture.com CNAME .
-web.care.sheppardpratt.org CNAME .
-webtracking.acams.org CNAME .
-webtracking.moneylaundering.com CNAME .
-webtrackingvet.rossu.edu CNAME .
+cars.autopia.com.au CNAME .
+cars.smartleasing.com.au CNAME .
+save.smartsalary.com.au CNAME .
 ;
 ; s1737033466.hs.eloqua.com disguised trackers
 ;
 ccaas.avaya.com CNAME .
 events.avaya.com CNAME .
-governmentcloud.avaya.com CNAME .
+experienceplatform.avaya.com CNAME .
 info.avaya.com CNAME .
 partners.avaya.com CNAME .
-simple.avaya.com CNAME .
 ;
 ; s522558593.hs.eloqua.com disguised trackers
 ;
@@ -2537,15 +2737,10 @@ ccmd.coveredca.com CNAME .
 ;
 channel.arubanetworks.com CNAME .
 ;
-; s1439730185.hs.eloqua.com disguised trackers
-;
-channelportal.netsuite.com CNAME .
-mkto.bronto.com CNAME .
-tracking.netsuite.com CNAME .
-;
 ; s740070409.hs.eloqua.com disguised trackers
 ;
 choose.adelaide.edu.au CNAME .
+start.adelaide.edu.au CNAME .
 ;
 ; s1015724034.hs.eloqua.com disguised trackers
 ;
@@ -2554,45 +2749,71 @@ choose.nu.edu CNAME .
 ; p01e.hs.eloqua.com disguised trackers
 ;
 clicks.tableau.com CNAME .
-elqtracking.cengage.com CNAME .
 elqtracking.flexera.com CNAME .
-elqtracking.revenera.com CNAME .
-elqtracking.richardsonrfpd.com CNAME .
+engage.richardsonrfpd.com CNAME .
+event.thermofisher.com CNAME .
+explore.flexera.com CNAME .
 go.connect.vulcanmaterials.com CNAME .
 info.brightcove.com CNAME .
 info.cengage.com CNAME .
-info.thermofisher.com CNAME .
+info.thermo.com CNAME .
 know.wolterskluwerlr.com CNAME .
+promotions.thermofisher.com CNAME .
+response.leadingauthorities.com CNAME .
 secure.mycalcas.com CNAME .
 services.bdc.ca CNAME .
 stat.bdc.ca CNAME .
 tracking.cengage.com CNAME .
+tracking.leadingauthorities.com CNAME .
 trackinglrus.wolterskluwer.com CNAME .
-updates.gaylordhotels.com CNAME .
+uk.partner.equifax.co.uk CNAME .
 ;
 ; s840.hs.eloqua.com disguised trackers
 ;
 clicks.tableau.com CNAME .
 ;
+; s2108654627.hs.eloqua.com disguised trackers
+;
+clinical.questdiagnostics.com CNAME .
+healthcare.questdiagnostics.com CNAME .
+plans.questdiagnostics.com CNAME .
+;
 ; s2104.hs.eloqua.com disguised trackers
 ;
 cm.informaengage.com CNAME .
+;
+; s117201930.hs.eloqua.com disguised trackers
+;
+comm.toro.com CNAME .
+;
+; s1325061471.hs.eloqua.com disguised trackers
+;
+comms.cigna.es CNAME .
+;
+; s1632284857.hs.eloqua.com disguised trackers
+;
+comms.cision.com CNAME .
+;
+; s965209372.hs.eloqua.com disguised trackers
+;
+comms.groupmarketing.dimensiondata.com CNAME .
 ;
 ; s1006495326.hs.eloqua.com disguised trackers
 ;
 comms.supplychain.nhs.uk CNAME .
 ;
-; s457207082.hs.eloqua.com disguised trackers
-;
-communicatie.vub.be CNAME .
-;
 ; s1372101543.hs.eloqua.com disguised trackers
 ;
-communication.imechyperspectral.com CNAME .
+communication.imec.be CNAME .
+;
+; s8812321.hs.eloqua.com disguised trackers
+;
+comunicacao.edpcomunicacao.com.br CNAME .
 ;
 ; s1217594584.hs.eloqua.com disguised trackers
 ;
 comunicaciones.davivienda.com.pa CNAME .
+publicidad.davivienda.com.pa CNAME .
 ;
 ; s490404737.hs.eloqua.com disguised trackers
 ;
@@ -2601,142 +2822,119 @@ comunicazioni.bancamediolanum.it CNAME .
 ; s2650.hs.eloqua.com disguised trackers
 ;
 conf.optum.com CNAME .
-lewin.optum.com CNAME .
+picis.optum.com CNAME .
 ;
 ; s1184.hs.eloqua.com disguised trackers
 ;
 connect-qa.netapp.com CNAME .
 connect.abm.netapp.com CNAME .
-connect.cloud.netapp.com CNAME .
 connect.content-hub.netapp.com CNAME .
-connect.customers.netapp.com CNAME .
-connect.partner-connect.netapp.com CNAME .
 ;
 ; s1150279252.hs.eloqua.com disguised trackers
 ;
 connect.acams.org CNAME .
 webtracking.acams.org CNAME .
-webtracking.moneylaundering.com CNAME .
+;
+; s1913652004.hs.eloqua.com disguised trackers
+;
+connect.acspubs.org CNAME .
+pubstr.acs.org CNAME .
 ;
 ; s2144.hs.eloqua.com disguised trackers
 ;
 connect.arkadin.com CNAME .
 ;
-; s1609254285.hs.eloqua.com disguised trackers
+; s1670470502.hs.eloqua.com disguised trackers
 ;
-connect.chapman.com CNAME .
+connect.caringcrowd.org CNAME .
 ;
 ; s462232510.hs.eloqua.com disguised trackers
 ;
 connect.cognex.com CNAME .
 log.cognex.com CNAME .
 ;
+; s7122732.hs.eloqua.com disguised trackers
+;
+connect.cont.hcahealthcare.com CNAME .
+;
 ; s2190102.hs.eloqua.com disguised trackers
 ;
 connect.dimensiondata.com CNAME .
 tracking.connect.services.global.ntt CNAME .
-;
-; s703561.hs.eloqua.com disguised trackers
-;
-connect.fwd.hcahealthcare.com CNAME .
+tracking.hello.global.ntt CNAME .
 ;
 ; s57532.hs.eloqua.com disguised trackers
 ;
 connect.health.bjc.org CNAME .
 tracking.health.bjc.org CNAME .
 ;
-; s626391.hs.eloqua.com disguised trackers
+; s3243454.hs.eloqua.com disguised trackers
 ;
-connect.health.lexmed.com CNAME .
-tracking.health.lexmed.com CNAME .
+connect.lgcns.com CNAME .
 ;
-; s4805455.hs.eloqua.com disguised trackers
+; s94443966.hs.eloqua.com disguised trackers
 ;
-connect.healthcare.northbay.org CNAME .
-web.healthcare.northbay.org CNAME .
+connect.lionsclubs.org CNAME .
+eroar.lionsclubs.org CNAME .
 ;
-; s1354.hs.eloqua.com disguised trackers
+; s984275552.hs.eloqua.com disguised trackers
 ;
-connect.intercall.com CNAME .
-safety.west.com CNAME .
+connect.memorialcare.org CNAME .
+web.health.memorialcare.org CNAME .
 ;
-; s722592.hs.eloqua.com disguised trackers
+; s6704250.hs.eloqua.com disguised trackers
 ;
-connect.labcorp.com CNAME .
-tracking1.labcorp.com CNAME .
-;
-; s619564847.hs.eloqua.com disguised trackers
-;
-connect.methodisthealthsystem.org CNAME .
-tracking.info.methodisthealthsystem.org CNAME .
-;
-; s978103.hs.eloqua.com disguised trackers
-;
-connect.ncd.hcahealthcare.com CNAME .
-;
-; s2288812.hs.eloqua.com disguised trackers
-;
-connect.nfd.hcahealthcare.com CNAME .
-;
-; s921859.hs.eloqua.com disguised trackers
-;
-connect.ntx.hcahealthcare.com CNAME .
+connect.news.evergreenhealth.com CNAME .
 ;
 ; s1485599638.hs.eloqua.com disguised trackers
 ;
 connect.senecacollege.ca CNAME .
 ;
-; s3292856.hs.eloqua.com disguised trackers
-;
-connect.stihl.info CNAME .
-tracking.stihl.be CNAME .
-tracking.stihl.de CNAME .
-tracking.stihl.es CNAME .
-tracking.stihl.fr CNAME .
-tracking.stihl.lu CNAME .
-tracking.stihl.nl CNAME .
-tracking.stihl.pt CNAME .
-;
 ; s1879417329.hs.eloqua.com disguised trackers
 ;
 connect.zebra.com CNAME .
 connectfpc.zebra.com CNAME .
-trust.zebra.com CNAME .
 ;
-; s1236759688.hs.eloqua.com disguised trackers
+; s600830862.hs.eloqua.com disguised trackers
 ;
-connect2.secureforms.mcafee.com CNAME .
+connection.arrow.com CNAME .
 ;
 ; s609785623.hs.eloqua.com disguised trackers
 ;
 connectlp.keysight.com CNAME .
 elq.keysight.com CNAME .
+elq.keysight.com.cn CNAME .
 ;
 ; s1533477511.hs.eloqua.com disguised trackers
 ;
 connecttest.arubanetworks.com CNAME .
 ;
-; s2090192166.hs.eloqua.com disguised trackers
+; s1693273879.hs.eloqua.com disguised trackers
 ;
-consulting.guidehouse.com CNAME .
-tracking.guidehouse.com CNAME .
-tracking.navigant.com CNAME .
+consulting.icmi.com CNAME .
+;
+; s1110633450.hs.eloqua.com disguised trackers
+;
+contact.abc-companies.com CNAME .
 ;
 ; s695499979.hs.eloqua.com disguised trackers
 ;
 contact.coface.com CNAME .
+downloads.coface.com CNAME .
 subscription.coface.com CNAME .
+success.coface.com CNAME .
+webinars.coface.com CNAME .
 ;
 ; p02g.hs.eloqua.com disguised trackers
 ;
 contact.golder.com CNAME .
-secure.immixgroup.com CNAME .
+pm.em.viatrisconnect.com CNAME .
 ;
 ; p07k.hs.eloqua.com disguised trackers
 ;
 contact.kikusuiamerica.com CNAME .
-eqclicks.movember.com CNAME .
 experience.jcu.edu.au CNAME .
+online.chinavending.com.cn CNAME .
 study.jcu.edu.au CNAME .
 ;
 ; s1995000402.hs.eloqua.com disguised trackers
@@ -2751,31 +2949,18 @@ contactforms.53.com CNAME .
 ;
 contacto.gtc.com.gt CNAME .
 ;
-; s1240377118.hs.eloqua.com disguised trackers
+; s1597073417.hs.eloqua.com disguised trackers
 ;
-contactus.53.com CNAME .
-eloqua.53.com CNAME .
-insights.53.com CNAME .
-subscriptionmanagement.53.com CNAME .
+content.prophet.com CNAME .
 ;
-; s1521.hs.eloqua.com disguised trackers
+; s423.hs.eloqua.com disguised trackers
 ;
-content.eaton.com CNAME .
-securetracking.eaton.com CNAME .
-;
-; s680149.hs.eloqua.com disguised trackers
-;
-content.tatatelebusiness.com CNAME .
-;
-; s338644260.hs.eloqua.com disguised trackers
-;
-contents.pwc.com CNAME .
+content.verint.com CNAME .
 ;
 ; p02f.hs.eloqua.com disguised trackers
 ;
 convocation.uwindsor.ca CNAME .
 future.uwindsor.ca CNAME .
-learn.uwindsor.ca CNAME .
 tracking.uwindsor.ca CNAME .
 ;
 ; s177345.hs.eloqua.com disguised trackers
@@ -2787,14 +2972,30 @@ cookie.myamerigas.com CNAME .
 ; s1280579067.hs.eloqua.com disguised trackers
 ;
 cookie.solutions.desertfinancial.com CNAME .
+solutions.desertfinancial.com CNAME .
 ;
-; s562186580.hs.eloqua.com disguised trackers
+; s1719886072.hs.eloqua.com disguised trackers
 ;
-cookies.engage.russellinvestments.com CNAME .
+cookies.grenke.de CNAME .
+;
+; s1241071892.hs.eloqua.com disguised trackers
+;
+cookies.siemens-energy.com CNAME .
+;
+; s435786561.hs.eloqua.com disguised trackers
+;
+cookies.siemens-healthineers.com CNAME .
 ;
 ; s2033604275.hs.eloqua.com disguised trackers
 ;
 cookies.siemens.com CNAME .
+pages.siemens-info.com CNAME .
+sites.siemens.com CNAME .
+;
+; s1521.hs.eloqua.com disguised trackers
+;
+cookietracking.eatonpowersource.com CNAME .
+securetracking.eaton.com CNAME .
 ;
 ; s220234876.hs.eloqua.com disguised trackers
 ;
@@ -2809,63 +3010,57 @@ cs.coopeservidores.fi.cr CNAME .
 cs.hot.net.il CNAME .
 cs.nexttv.co.il CNAME .
 ;
-; s676.hs.eloqua.com disguised trackers
-;
-ctc.wolterskluwer.com CNAME .
-;
 ; s1086385399.hs.eloqua.com disguised trackers
 ;
-cyber-pages.att.com CNAME .
 cyber-tracking.att.com CNAME .
 ;
-; s2082.hs.eloqua.com disguised trackers
+; s1157.hs.eloqua.com disguised trackers
 ;
-cyber.boozallen.com CNAME .
-info.boozallen.com CNAME .
-missions.boozallen.com CNAME .
+de.secure.sonosite.com CNAME .
+in.secure.sonosite.com CNAME .
+secure.sonosite.com CNAME .
 ;
-; s2826.hs.eloqua.com disguised trackers
+; s1709896.hs.eloqua.com disguised trackers
 ;
-demandgen.ptc.com CNAME .
-tracking.ptc.com CNAME .
+des.me.coact.org.au CNAME .
 ;
-; s554290.hs.eloqua.com disguised trackers
+; s804077455.hs.eloqua.com disguised trackers
 ;
-dev.marketing.championhomes.com CNAME .
-;
-; s1097967772.hs.eloqua.com disguised trackers
-;
-devtracking.risk.lexisnexis.com CNAME .
+dg.irco.com CNAME .
 ;
 ; s1897772577.hs.eloqua.com disguised trackers
 ;
 dhlsupplychain.dhl.com CNAME .
 ;
+; s477278796.hs.eloqua.com disguised trackers
+;
+dialogue.de.mazda.ch CNAME .
+dialogue.mazda.bg CNAME .
+dialogue.mazda.de CNAME .
+dialogue.mazda.gr CNAME .
+dialogue.mazda.ro CNAME .
+dialogue.nl.mazda.be CNAME .
+;
 ; s1981585949.hs.eloqua.com disguised trackers
 ;
 digital.att.com CNAME .
-explore.att.com CNAME .
+pages.att.com CNAME .
 site.att.com CNAME .
 tracking.att.com CNAME .
 ;
-; s1669161669.hs.eloqua.com disguised trackers
+; s190963309.hs.eloqua.com disguised trackers
 ;
-digital.cloud.travelport.com CNAME .
-;
-; s833068.hs.eloqua.com disguised trackers
-;
-discover.averydennison.com CNAME .
-tracking.averydennison.com CNAME .
+direct.colfondos.co CNAME .
 ;
 ; s786780033.hs.eloqua.com disguised trackers
 ;
 discover.clarivate.com CNAME .
 tracking.clarivate.com CNAME .
 ;
-; s899.hs.eloqua.com disguised trackers
+; s1658862228.hs.eloqua.com disguised trackers
 ;
-discover.harvardbusiness.org CNAME .
-insights.harvardbusiness.org CNAME .
+discover.conversantmedia.com CNAME .
+tracking.epsilon.com CNAME .
 ;
 ; s1819831755.hs.eloqua.com disguised trackers
 ;
@@ -2874,14 +3069,28 @@ discover.parker.com CNAME .
 ; s822460770.hs.eloqua.com disguised trackers
 ;
 discover.phenomenex.com CNAME .
+experience.phenomenex.com CNAME .
 ;
-; s1068922595.hs.eloqua.com disguised trackers
+; s294733649.hs.eloqua.com disguised trackers
 ;
-discover.stop-shop.com CNAME .
+dloeloqua.danskespil.dk CNAME .
 ;
-; s840921098.hs.eloqua.com disguised trackers
+; s653096746.hs.eloqua.com disguised trackers
 ;
-e.relacionamento.serasaexperian.com.br CNAME .
+dmkt.solutions.cas.org CNAME .
+;
+; s861531437.hs.eloqua.com disguised trackers
+;
+download.dnv.com CNAME .
+event.dnvgl.com CNAME .
+;
+; s303348306.hs.eloqua.com disguised trackers
+;
+drugtest.questdiagnostics.com CNAME .
+;
+; s1204044225.hs.eloqua.com disguised trackers
+;
+e.beckmancoulter.com CNAME .
 ;
 ; s672742760.hs.eloqua.com disguised trackers
 ;
@@ -2891,224 +3100,10 @@ ec.infosys.com CNAME .
 ;
 education.moodybible.org CNAME .
 ;
-; s1343588892.hs.eloqua.com disguised trackers
-;
-efficiency.nl.visma.com CNAME .
-efficiency.visma.com CNAME .
-efficiency.visma.lv CNAME .
-efficiency.visma.se CNAME .
-go.visma.com CNAME .
-suunta.visma.fi CNAME .
-tracking.dataloen.dk CNAME .
-tracking.exso.no CNAME .
-tracking.visma.com CNAME .
-tracking.visma.dk CNAME .
-tracking.visma.lv CNAME .
-tracking.visma.no CNAME .
-tracking.vismaraet.nl CNAME .
-visma.e-conomic.dk CNAME .
-;
-; s418514676.hs.eloqua.com disguised trackers
-;
-electronics.edm.globalsources.com CNAME .
-electronics.tradeshow.globalsources.com CNAME .
-gslive.edm.globalsources.com CNAME .
-gsmatch.edm.globalsources.com CNAME .
-gsols.edm.globalsources.com CNAME .
-lifestyle.tradeshow.globalsources.com CNAME .
-mobile-electronics.edm.globalsources.com CNAME .
-summit.edm.globalsources.com CNAME .
-tradeshow.edm.globalsources.com CNAME .
-;
-; s936847217.hs.eloqua.com disguised trackers
-;
-eloqua-tracking.kaiserpermanente.org CNAME .
-;
-; s795651218.hs.eloqua.com disguised trackers
-;
-eloqua-trackings.unity.com CNAME .
-;
-; s359022900.hs.eloqua.com disguised trackers
-;
-eloqua-uat.motorolasolutions.com CNAME .
-;
-; s832461399.hs.eloqua.com disguised trackers
-;
-eloqua.emdmillipore.com CNAME .
-;
-; s1009272243.hs.eloqua.com disguised trackers
-;
-eloqua.erwin.com CNAME .
-eloqua.oneidentity.com CNAME .
-eloqua.onelogin.com CNAME .
-eloqua.quest.com CNAME .
-;
-; s436121246.hs.eloqua.com disguised trackers
-;
-eloqua.infobip.com CNAME .
-;
-; s2049007180.hs.eloqua.com disguised trackers
-;
-eloqua.pearsonvue.com CNAME .
-eloqua.undergraduateexam.in CNAME .
-gocertiport.pearsonvue.com CNAME .
-;
-; s978087.hs.eloqua.com disguised trackers
-;
-eloqua.teknos.com CNAME .
-;
-; s351095147.hs.eloqua.com disguised trackers
-;
-eloquamarketing.masterlock.com CNAME .
-;
-; s460529241.hs.eloqua.com disguised trackers
-;
-eloquatracking.iqvia.com CNAME .
-secure.constellation.iqvia.com CNAME .
-;
-; s155608312.hs.eloqua.com disguised trackers
-;
-eloquatracking.relayr.io CNAME .
-;
-; s179956068.hs.eloqua.com disguised trackers
-;
-elq-lantern.ruggedsolution.getac.com CNAME .
-;
-; s584437826.hs.eloqua.com disguised trackers
-;
-elq-tracking.genomes.atcc.org CNAME .
-tracking.go.atcc.org CNAME .
-;
-; s538756640.hs.eloqua.com disguised trackers
-;
-elq-trk.fullsail.edu CNAME .
-getinfo.fullsail.edu CNAME .
-;
-; s1535.hs.eloqua.com disguised trackers
-;
-elq.accuity.com CNAME .
-secureforms.accuity.com CNAME .
-;
-; s1548954099.hs.eloqua.com disguised trackers
-;
-elq.analog.com CNAME .
-;
-; s1795.hs.eloqua.com disguised trackers
-;
-elq.ansible.com CNAME .
-elq.enterprisersproject.com CNAME .
-elq.openshift.com CNAME .
-elq.opensource.com CNAME .
-elq.redhat.com CNAME .
-;
-; s161752090.hs.eloqua.com disguised trackers
-;
-elq.blackrock.com CNAME .
-go.blackrock.com CNAME .
-;
-; s1634.hs.eloqua.com disguised trackers
-;
-elq.cirium.com CNAME .
-secureforms.flightglobal.com CNAME .
-;
-; s332.hs.eloqua.com disguised trackers
-;
-elq.forrester.com CNAME .
-;
-; p07h.hs.eloqua.com disguised trackers
-;
-elq.hamamatsu.com CNAME .
-tracking.tdk.com CNAME .
-;
-; s386319996.hs.eloqua.com disguised trackers
-;
-elq.hamamatsu.com CNAME .
-;
-; s1371.hs.eloqua.com disguised trackers
-;
-elq.icis.com CNAME .
-;
-; s1616.hs.eloqua.com disguised trackers
-;
-elq.lansa.com CNAME .
-;
-; s2213.hs.eloqua.com disguised trackers
-;
-elq.macu.com CNAME .
-;
-; s484374275.hs.eloqua.com disguised trackers
-;
-elq.nextens.nl CNAME .
-;
-; s373.hs.eloqua.com disguised trackers
-;
-elq.sonicwall.com CNAME .
-;
-; s301091484.hs.eloqua.com disguised trackers
-;
-elq.utas.edu.au CNAME .
-tracking.utas.edu.au CNAME .
-;
-; s1849907385.hs.eloqua.com disguised trackers
-;
-elqact.gartner.com CNAME .
-research.gartner.com CNAME .
-;
-; s1168626303.hs.eloqua.com disguised trackers
-;
-elqapp.spectrum.com CNAME .
-elqapp.timewarnercable.com CNAME .
-;
-; s1194310.hs.eloqua.com disguised trackers
-;
-elqtrack.kubotausa.com CNAME .
-;
-; s1738732214.hs.eloqua.com disguised trackers
-;
-elqtracking.capella.edu CNAME .
-elqtracking.strayer.edu CNAME .
-;
-; s1555122525.hs.eloqua.com disguised trackers
-;
-elqtracking.hitachienergy.com CNAME .
-go.hitachienergy.com CNAME .
-;
-; s174746480.hs.eloqua.com disguised trackers
-;
-elqtracking.macegroup.com CNAME .
-;
-; s230749692.hs.eloqua.com disguised trackers
-;
-elqtracking.medidata.com CNAME .
-;
-; s2391.hs.eloqua.com disguised trackers
-;
-elqtracking.revenera.com CNAME .
-;
-; s1250714985.hs.eloqua.com disguised trackers
-;
-elqtracking.victorops.com CNAME .
-event.victorops.com CNAME .
-;
-; s128040577.hs.eloqua.com disguised trackers
-;
-elqtrck.motor.no CNAME .
-;
-; s1745.hs.eloqua.com disguised trackers
-;
-elqtrck.nanawall.com CNAME .
-;
-; s1258972516.hs.eloqua.com disguised trackers
-;
-elqtrk.cn.morningstar.com CNAME .
-elqtrk.hk.morningstar.com CNAME .
-elqtrk.morningstar.com CNAME .
-elqtrk.my.morningstar.com CNAME .
-;
 ; s334284386.hs.eloqua.com disguised trackers
 ;
+education.seek.intel.com CNAME .
 elqtrk.intel.cn CNAME .
-elqtrk.intel.co.il CNAME .
 elqtrk.intel.co.jp CNAME .
 elqtrk.intel.co.kr CNAME .
 elqtrk.intel.co.uk CNAME .
@@ -3126,100 +3121,318 @@ elqtrk.intel.la CNAME .
 elqtrk.intel.pl CNAME .
 elqtrk.intel.ru CNAME .
 elqtrk.intel.sg CNAME .
+elqtrk.intelrealsense.com CNAME .
 elqtrk.thailand.intel.com CNAME .
 intelpartneralliance.intel.com CNAME .
 plan.seek.intel.com CNAME .
 software.seek.intel.com CNAME .
-techprovider.intel.com CNAME .
 webinar.intel.com CNAME .
+;
+; s1343588892.hs.eloqua.com disguised trackers
+;
+efficiency.visma.com CNAME .
+efficiency.visma.fi CNAME .
+suunta.visma.fi CNAME .
+teefiksummin.visma.fi CNAME .
+teho.visma.fi CNAME .
+tracking.dataloen.dk CNAME .
+tracking.exso.no CNAME .
+tracking.lonnogpersonalabc.visma.no CNAME .
+tracking.visma.com CNAME .
+tracking.visma.fi CNAME .
+visma.e-conomic.dk CNAME .
+www.efficiency.visma.com CNAME .
+;
+; s441670442.hs.eloqua.com disguised trackers
+;
+ehtel.endress.com CNAME .
+;
+; s936847217.hs.eloqua.com disguised trackers
+;
+eloqua-tracking.kaiserpermanente.org CNAME .
+;
+; s795651218.hs.eloqua.com disguised trackers
+;
+eloqua-trackings.unity.com CNAME .
+;
+; s1240377118.hs.eloqua.com disguised trackers
+;
+eloqua.53.com CNAME .
+;
+; s1163827391.hs.eloqua.com disguised trackers
+;
+eloqua.brakepartsinc.com CNAME .
+;
+; s1009272243.hs.eloqua.com disguised trackers
+;
+eloqua.erwin.com CNAME .
+eloqua.oneidentity.com CNAME .
+eloqua.onelogin.com CNAME .
+eloqua.quest.com CNAME .
+;
+; s443791045.hs.eloqua.com disguised trackers
+;
+eloqua.incite-group.com CNAME .
+;
+; s2049007180.hs.eloqua.com disguised trackers
+;
+eloqua.pearsonvue.ae CNAME .
+eloqua.pearsonvue.co.jp CNAME .
+eloqua.pearsonvue.co.uk CNAME .
+eloqua.pearsonvue.com CNAME .
+eloqua.pointcode.fr CNAME .
+eloqua.undergraduateexam.in CNAME .
+go.pearsonvue.com CNAME .
+gocertiport.pearsonvue.com CNAME .
+;
+; s788658067.hs.eloqua.com disguised trackers
+;
+eloqua.radware.com CNAME .
+;
+; s832461399.hs.eloqua.com disguised trackers
+;
+eloqua.sigmaaldrich.com CNAME .
+;
+; s460529241.hs.eloqua.com disguised trackers
+;
+eloquatracking.iqvia.com CNAME .
+secure.constellation.iqvia.com CNAME .
+;
+; s179956068.hs.eloqua.com disguised trackers
+;
+elq-lantern.ruggedsolution.getac.com CNAME .
+;
+; s538756640.hs.eloqua.com disguised trackers
+;
+elq-trk.fullsail.edu CNAME .
+;
+; s1795.hs.eloqua.com disguised trackers
+;
+elq.ansible.com CNAME .
+elq.enterprisersproject.com CNAME .
+elq.openshift.com CNAME .
+elq.opensource.com CNAME .
+elq.redhat.com CNAME .
+;
+; s161752090.hs.eloqua.com disguised trackers
+;
+elq.blackrock.com CNAME .
+;
+; s1634.hs.eloqua.com disguised trackers
+;
+elq.cirium.com CNAME .
+secureforms.cirium.com CNAME .
+secureforms.flightglobal.com CNAME .
+;
+; s332.hs.eloqua.com disguised trackers
+;
+elq.forrester.com CNAME .
+;
+; p07h.hs.eloqua.com disguised trackers
+;
+elq.hamamatsu.com CNAME .
+site.tdk.com CNAME .
+tracking.tdk.com CNAME .
+;
+; s1371.hs.eloqua.com disguised trackers
+;
+elq.icis.com CNAME .
+;
+; s665010475.hs.eloqua.com disguised trackers
+;
+elq.irobot.com CNAME .
+;
+; s2213.hs.eloqua.com disguised trackers
+;
+elq.macu.com CNAME .
+;
+; s484374275.hs.eloqua.com disguised trackers
+;
+elq.nextens.nl CNAME .
+secureforms.nextens.nl CNAME .
+;
+; s373.hs.eloqua.com disguised trackers
+;
+elq.sonicwall.com CNAME .
+;
+; s1849907385.hs.eloqua.com disguised trackers
+;
+elqact.gartner.com CNAME .
+secure.gartnerevents.com CNAME .
+;
+; s1168626303.hs.eloqua.com disguised trackers
+;
+elqapp.spectrum.com CNAME .
+;
+; s1194310.hs.eloqua.com disguised trackers
+;
+elqtrack.kubotausa.com CNAME .
+;
+; s1738732214.hs.eloqua.com disguised trackers
+;
+elqtracking.capella.edu CNAME .
+elqtracking.strayer.edu CNAME .
+lp.strayer.edu CNAME .
+;
+; s2391.hs.eloqua.com disguised trackers
+;
+elqtracking.flexera.com CNAME .
+explore.flexera.com CNAME .
+;
+; s1555122525.hs.eloqua.com disguised trackers
+;
+elqtracking.hitachienergy.com CNAME .
+go.hitachienergy.com CNAME .
+;
+; s174746480.hs.eloqua.com disguised trackers
+;
+elqtracking.macegroup.com CNAME .
+;
+; s230749692.hs.eloqua.com disguised trackers
+;
+elqtracking.medidata.com CNAME .
+;
+; s393074.hs.eloqua.com disguised trackers
+;
+elqtracking.pensionbuddy.co.uk CNAME .
+web.hubfinancialsolutions.co.uk CNAME .
+;
+; s128040577.hs.eloqua.com disguised trackers
+;
+elqtrck.motor.no CNAME .
+;
+; s1745.hs.eloqua.com disguised trackers
+;
+elqtrck.nanawall.com CNAME .
+;
+; s1258972516.hs.eloqua.com disguised trackers
+;
+elqtrk.cn.morningstar.com CNAME .
+elqtrk.morningstar.com CNAME .
+go.morningstar.com CNAME .
+;
+; s1480.hs.eloqua.com disguised trackers
+;
+elqtrk.cummins.com CNAME .
+;
+; s1081.hs.eloqua.com disguised trackers
+;
+elqtrk.rsmus.com CNAME .
 ;
 ; s298548211.hs.eloqua.com disguised trackers
 ;
 els298548211.medtronic.com CNAME .
-www.medtronicsolutions.com CNAME .
 ;
 ; s65254455.hs.eloqua.com disguised trackers
 ;
-email-am.jll.com.co CNAME .
+email-am.jll.ca CNAME .
+email-am.jll.com.br CNAME .
 email-am.us.jll.com CNAME .
 ;
 ; s362000045.hs.eloqua.com disguised trackers
 ;
 email-ap.jll.co.in CNAME .
-email-ap.jll.pe CNAME .
+email-ap.jll.com.au CNAME .
+email-ap.jll.com.sg CNAME .
+email-ap.jll.ie CNAME .
+email-ap.joneslanglasalle.co.jp CNAME .
+email-ap.joneslanglasalle.com.cn CNAME .
+;
+; s1600883366.hs.eloqua.com disguised trackers
+;
+email-cm.jll.co.in CNAME .
+;
+; s290512336.hs.eloqua.com disguised trackers
+;
+email-em.joneslanglasalle.com.cn CNAME .
 ;
 ; s1365483532.hs.eloqua.com disguised trackers
 ;
 email.hockeytown.com CNAME .
 ;
-; s616291841.hs.eloqua.com disguised trackers
+; s1659177242.hs.eloqua.com disguised trackers
 ;
-email.lottehotel.com CNAME .
-;
-; s1742027581.hs.eloqua.com disguised trackers
-;
-emea.info.mouser.com CNAME .
-sub.info.mouser.com CNAME .
-;
-; s290512336.hs.eloqua.com disguised trackers
-;
-engage-emea.jll.com CNAME .
+energy.eneco.be CNAME .
 ;
 ; s837031577.hs.eloqua.com disguised trackers
 ;
 engage.3m.co.cr CNAME .
+engage.3m.co.id CNAME .
+engage.3m.co.ke CNAME .
 engage.3m.co.kr CNAME .
-engage.3m.co.th CNAME .
 engage.3m.co.uk CNAME .
 engage.3m.co.za CNAME .
 engage.3m.com.ar CNAME .
-engage.3m.com.au CNAME .
 engage.3m.com.bo CNAME .
 engage.3m.com.br CNAME .
-engage.3m.com.cn CNAME .
-engage.3m.com.co CNAME .
-engage.3m.com.do CNAME .
 engage.3m.com.ec CNAME .
 engage.3m.com.es CNAME .
 engage.3m.com.gt CNAME .
 engage.3m.com.hk CNAME .
-engage.3m.com.jm CNAME .
 engage.3m.com.kw CNAME .
 engage.3m.com.mx CNAME .
 engage.3m.com.my CNAME .
 engage.3m.com.ni CNAME .
 engage.3m.com.pa CNAME .
 engage.3m.com.pe CNAME .
-engage.3m.com.pk CNAME .
+engage.3m.com.pt CNAME .
+engage.3m.com.qa CNAME .
 engage.3m.com.ro CNAME .
 engage.3m.com.sa CNAME .
 engage.3m.com.sg CNAME .
 engage.3m.com.sv CNAME .
+engage.3m.com.tn CNAME .
 engage.3m.com.tr CNAME .
 engage.3m.com.tt CNAME .
 engage.3m.com.tw CNAME .
-engage.3m.com.uy CNAME .
+engage.3m.com.ua CNAME .
+engage.3m.com.vn CNAME .
+engage.3mae.ae CNAME .
 engage.3maustria.at CNAME .
 engage.3mbulgaria.bg CNAME .
 engage.3mcanada.ca CNAME .
 engage.3mchile.cl CNAME .
 engage.3mcompany.jp CNAME .
+engage.3mdanmark.dk CNAME .
 engage.3mdeutschland.de CNAME .
-engage.3megypt.com.eg CNAME .
 engage.3mfrance.fr CNAME .
 engage.3mhellas.gr CNAME .
 engage.3mindia.in CNAME .
+engage.3mireland.ie CNAME .
 engage.3misrael.co.il CNAME .
 engage.3mitalia.it CNAME .
-engage.3mmagyarorszag.hu CNAME .
-engage.3mmaroc.ma CNAME .
 engage.3mnederland.nl CNAME .
+engage.3mnorge.no CNAME .
 engage.3mnz.co.nz CNAME .
-engage.3mphilippines.com.ph CNAME .
 engage.3mpolska.pl CNAME .
+engage.3mschweiz.ch CNAME .
+engage.3mslovensko.sk CNAME .
+engage.3msuisse.ch CNAME .
 engage.3msuomi.fi CNAME .
-engage.3msverige.se CNAME .
-info.engage.3m.com CNAME .
+;
+; s279295639.hs.eloqua.com disguised trackers
+;
+engage.dow.com CNAME .
+oiat.dow.com CNAME .
+;
+; s1387486446.hs.eloqua.com disguised trackers
+;
+engage.go.singlestore.com CNAME .
+tracking.go.singlestore.com CNAME .
+tracking.singlestore.com CNAME .
+;
+; s740.hs.eloqua.com disguised trackers
+;
+engage.marketone.com CNAME .
+preferences.marketone.com CNAME .
+;
+; s1953639587.hs.eloqua.com disguised trackers
+;
+engage.portqii.com CNAME .
+;
+; s1745312639.hs.eloqua.com disguised trackers
+;
+engage.richardsonrfpd.com CNAME .
 ;
 ; p07g.hs.eloqua.com disguised trackers
 ;
@@ -3233,9 +3446,10 @@ engage.unisa.edu.au CNAME .
 ;
 engage.uq.edu.au CNAME .
 experience.rsm.com.au CNAME .
-explore.studyperth.com.au CNAME .
-lp.yamane-m.co.jp CNAME .
+lp.go.mhi.com CNAME .
 metrics.mhi.com CNAME .
+our.sunshinecoast.qld.gov.au CNAME .
+pages.health365.com.au CNAME .
 visit.donateblood.com.au CNAME .
 visit.lifeblood.com.au CNAME .
 ;
@@ -3248,22 +3462,33 @@ engage.uq.edu.au CNAME .
 engage2demand.cisco.com CNAME .
 engagemetrics.cisco.com CNAME .
 ;
+; s1236759688.hs.eloqua.com disguised trackers
+;
+enterprise2.secureforms.mcafee.com CNAME .
+grc2.secureforms.mcafee.com CNAME .
+ltam2.secureforms.mcafee.com CNAME .
+news2.secureforms.mcafee.com CNAME .
+;
 ; s1636063769.hs.eloqua.com disguised trackers
 ;
 enterprises.proximus.be CNAME .
 www.enterprises.proximus.be CNAME .
 ;
-; s479233787.hs.eloqua.com disguised trackers
+; s1576212805.hs.eloqua.com disguised trackers
 ;
-eqclicks.movember.com CNAME .
+entreprises.go.bouyguestelecom.fr CNAME .
 ;
 ; s113755760.hs.eloqua.com disguised trackers
 ;
 eqs.intuit.com CNAME .
 ;
-; s94443966.hs.eloqua.com disguised trackers
+; s1778545560.hs.eloqua.com disguised trackers
 ;
-eroar.lionsclubs.org CNAME .
+eqtrack.americashomeplace.com CNAME .
+;
+; s1190127922.hs.eloqua.com disguised trackers
+;
+etk.locusrobotics.com CNAME .
 ;
 ; s704917861.hs.eloqua.com disguised trackers
 ;
@@ -3278,38 +3503,61 @@ etrack.ext.hpe.com CNAME .
 ;
 ets.ni.com CNAME .
 ;
-; s1236288378.hs.eloqua.com disguised trackers
+; s642.hs.eloqua.com disguised trackers
 ;
-event.clubcorp.com CNAME .
+event.thermofisher.com CNAME .
+info.thermo.com CNAME .
+info.thermofisher.com CNAME .
+promotions.thermofisher.com CNAME .
 ;
-; s1791556376.hs.eloqua.com disguised trackers
+; s1788.hs.eloqua.com disguised trackers
 ;
-events.georgiancollege.ca CNAME .
+event1.thermoscientific.com CNAME .
+;
+; s2137.hs.eloqua.com disguised trackers
+;
+events.bgrs.com CNAME .
+;
+; s1990924103.hs.eloqua.com disguised trackers
+;
+events.ferrari.com CNAME .
+track.ferrari.com CNAME .
+track.ferraridealers.com CNAME .
+www.events.ferrari.com CNAME .
+;
+; s2016470853.hs.eloqua.com disguised trackers
+;
+events.gogoair.com CNAME .
 ;
 ; s672.hs.eloqua.com disguised trackers
 ;
 events.interface.com CNAME .
 ;
+; s1986701457.hs.eloqua.com disguised trackers
+;
+events.kangan.edu.au CNAME .
+realeducation.kangan.edu.au CNAME .
+;
 ; s1411.hs.eloqua.com disguised trackers
 ;
 events.lexmark.com CNAME .
 ;
-; s477300880.hs.eloqua.com disguised trackers
+; s2401.hs.eloqua.com disguised trackers
 ;
-events.oddo-bhf.com CNAME .
+events.mywd.com CNAME .
 ;
-; s680451474.hs.eloqua.com disguised trackers
+; s1528.hs.eloqua.com disguised trackers
 ;
-evkeeza-e.regeneron.com CNAME .
+events.splunk.com CNAME .
 ;
 ; s1885735477.hs.eloqua.com disguised trackers
 ;
 experience.jcu.edu.au CNAME .
 study.jcu.edu.au CNAME .
 ;
-; s1775412872.hs.eloqua.com disguised trackers
+; s796730793.hs.eloqua.com disguised trackers
 ;
-experience.rsm.com.au CNAME .
+experience.stamfordhealth.org CNAME .
 ;
 ; s1044706121.hs.eloqua.com disguised trackers
 ;
@@ -3318,52 +3566,65 @@ experiencia.coopecaja.fi.cr CNAME .
 ; s1107300821.hs.eloqua.com disguised trackers
 ;
 explore.agilent.com CNAME .
-;
-; s1658862228.hs.eloqua.com disguised trackers
-;
-explore.epsilon.com CNAME .
-tracking.epsilon.com CNAME .
-;
-; s240978839.hs.eloqua.com disguised trackers
-;
-explore.studyperth.com.au CNAME .
-;
-; s61088445.hs.eloqua.com disguised trackers
-;
-feedback.avigilon.com CNAME .
-fpc.avigilon.com CNAME .
-fpc.indigovision.com CNAME .
-fpc.pelco.com CNAME .
-info.avigilon.com CNAME .
-pages.indigovision.com CNAME .
-pages.pelco.com CNAME .
+tracking.chem-agilent.com CNAME .
 ;
 ; s1056287425.hs.eloqua.com disguised trackers
 ;
 feedback.vegasgoldenknights.com CNAME .
 ;
-; s1746211102.hs.eloqua.com disguised trackers
+; s1236249806.hs.eloqua.com disguised trackers
 ;
-firstparty1.dentsplysirona.com CNAME .
+fire.solutions.jci.com CNAME .
+hvac.solutions.jci.com CNAME .
+security.solutions.jci.com CNAME .
 ;
 ; s1278131127.hs.eloqua.com disguised trackers
 ;
 flavors.firmenich.com CNAME .
 investors.firmenich.com CNAME .
 ;
+; s989708917.hs.eloqua.com disguised trackers
+;
+forms.axa-im.com CNAME .
+subscriptions.axa-im.com CNAME .
+;
 ; s1251203807.hs.eloqua.com disguised trackers
 ;
 forms.bmc.com CNAME .
 ;
-; s698935272.hs.eloqua.com disguised trackers
+; s608.hs.eloqua.com disguised trackers
 ;
-fpc.acpinternist.org CNAME .
-www.acpprograms.org CNAME .
+forms.embarcadero.com CNAME .
+;
+; s1920192983.hs.eloqua.com disguised trackers
+;
+forms.pella.com CNAME .
+tracking.pella.com CNAME .
+;
+; s1325.hs.eloqua.com disguised trackers
+;
+forms.progress.com CNAME .
+;
+; s1106.hs.eloqua.com disguised trackers
+;
+forms.vaisala.com CNAME .
+submit.vaisala.com CNAME .
+;
+; s61088445.hs.eloqua.com disguised trackers
+;
+fpc.avigilon.com CNAME .
+info.avigilon.com CNAME .
+pages.indigovision.com CNAME .
 ;
 ; s868742820.hs.eloqua.com disguised trackers
 ;
 fpc.broadway.com CNAME .
+fpc.broadwayacrossamerica.com CNAME .
 shows.broadwayacrossamerica.com CNAME .
+;
+; s2048847999.hs.eloqua.com disguised trackers
+;
+fpc.cebglobal.com CNAME .
 ;
 ; s154878491.hs.eloqua.com disguised trackers
 ;
@@ -3372,15 +3633,6 @@ fpc.gartner.com CNAME .
 ; s2008141379.hs.eloqua.com disguised trackers
 ;
 fpc.laerdal.com CNAME .
-;
-; s84780736.hs.eloqua.com disguised trackers
-;
-fpc.pelican.com CNAME .
-;
-; s1265708786.hs.eloqua.com disguised trackers
-;
-fpc.sage.com CNAME .
-get.sage.com CNAME .
 ;
 ; s295390938.hs.eloqua.com disguised trackers
 ;
@@ -3394,79 +3646,64 @@ fpc.trimarkusa.com CNAME .
 ;
 fpcdallasstars.nhl.com CNAME .
 ;
-; s944086489.hs.eloqua.com disguised trackers
+; s2448.hs.eloqua.com disguised trackers
 ;
-fpcsbulls.nba.com CNAME .
+fr-go.experian.com CNAME .
+id-go.experian.com CNAME .
+nz-go.experian.com CNAME .
+ru-go.experian.com CNAME .
+sg-go.experian.com CNAME .
+tw-go.experian.com CNAME .
 ;
-; s1157.hs.eloqua.com disguised trackers
+; s742696346.hs.eloqua.com disguised trackers
 ;
-fr.secure.sonosite.com CNAME .
-kr.secure.sonosite.com CNAME .
-secure.sonosite.com CNAME .
+france.alphabet.com CNAME .
 ;
-; s1709896.hs.eloqua.com disguised trackers
+; s1025.hs.eloqua.com disguised trackers
 ;
-funding.go.apprenticeshipcommunity.com.au CNAME .
+fun.relationshipone.com CNAME .
 ;
 ; s127504789.hs.eloqua.com disguised trackers
 ;
 future.uwindsor.ca CNAME .
-learn.uwindsor.ca CNAME .
 tracking.uwindsor.ca CNAME .
 ;
-; p07a.hs.eloqua.com disguised trackers
+; s264093377.hs.eloqua.com disguised trackers
 ;
-gba.kwm.com CNAME .
-pages.kwm.com CNAME .
-track.auckland.ac.nz CNAME .
+gbtracking.finning.com CNAME .
 ;
-; s7468769.hs.eloqua.com disguised trackers
+; s566810826.hs.eloqua.com disguised trackers
 ;
-gba.kwm.com CNAME .
-pages.kwm.com CNAME .
+get.docusign.com CNAME .
+track.docusign.co.uk CNAME .
+track.docusign.com CNAME .
+track.docusign.com.br CNAME .
+track.docusign.com.es CNAME .
+track.docusign.fr CNAME .
+track.docusign.jp CNAME .
+track.docusign.mx CNAME .
+track.docusign.nl CNAME .
 ;
-; s788658067.hs.eloqua.com disguised trackers
+; s1265708786.hs.eloqua.com disguised trackers
 ;
-gbl.radware.com CNAME .
-;
-; s1053984823.hs.eloqua.com disguised trackers
-;
-gcn.tuv.com CNAME .
-go.tuv.com CNAME .
-;
-; s804077455.hs.eloqua.com disguised trackers
-;
-gdg.gardnerdenver.com CNAME .
+get.sage.com CNAME .
 ;
 ; s1763.hs.eloqua.com disguised trackers
 ;
-get.kronos.com CNAME .
 get.ukg.ca CNAME .
-get.ukg.com.au CNAME .
-get.ukg.mx CNAME .
-www.get.ukg.com CNAME .
-;
-; s3104.hs.eloqua.com disguised trackers
-;
-getmore.enelx.com CNAME .
-;
-; s335973.hs.eloqua.com disguised trackers
-;
-global-mktg.transunion.com CNAME .
+get.ukg.in CNAME .
+get.ukg.nl CNAME .
 ;
 ; s616.hs.eloqua.com disguised trackers
 ;
 globalbanking.wolterskluwer.com CNAME .
 ;
-; s773611208.hs.eloqua.com disguised trackers
-;
-globalcustodian.strategic-i.com CNAME .
-;
 ; s903.hs.eloqua.com disguised trackers
 ;
 globalsolutions.risk.lexisnexis.com CNAME .
+solutions.risk.lexisnexis.co.uk CNAME .
+solutions.risk.lexisnexis.com CNAME .
 tracking.risk.lexisnexis.com CNAME .
-tracking.risk.lexisnexis.com.br CNAME .
 ;
 ; s2376.hs.eloqua.com disguised trackers
 ;
@@ -3477,12 +3714,9 @@ tracking.blackboard.com CNAME .
 ;
 go.blackducksoftware.com CNAME .
 ;
-; s1424104964.hs.eloqua.com disguised trackers
+; s1305818595.hs.eloqua.com disguised trackers
 ;
-go.bloombergindustry.com CNAME .
-tracking.about.bgov.com CNAME .
-tracking.bloombergindustry.com CNAME .
-tracking.pro.bloombergtax.com CNAME .
+go.bouygues-construction.com CNAME .
 ;
 ; s1012247495.hs.eloqua.com disguised trackers
 ;
@@ -3492,21 +3726,21 @@ go.century21.fr CNAME .
 ;
 go.cf.labanquepostale.fr CNAME .
 ;
-; s1409029440.hs.eloqua.com disguised trackers
-;
-go.climate.emerson.com CNAME .
-go.comres.emerson.com CNAME .
-go.proteam.emerson.com CNAME .
-go.ridgid.emerson.com CNAME .
-track.go.comres.emerson.com CNAME .
-;
 ; s1983452.hs.eloqua.com disguised trackers
 ;
 go.comcastspectacor.com CNAME .
 ;
-; s1739541848.hs.eloqua.com disguised trackers
+; s1409029440.hs.eloqua.com disguised trackers
 ;
-go.computacenter.com CNAME .
+go.comres.emerson.com CNAME .
+go.greenlee.emerson.com CNAME .
+go.proteam.emerson.com CNAME .
+go.ridgid.emerson.com CNAME .
+track.go.comres.emerson.com CNAME .
+;
+; s348726.hs.eloqua.com disguised trackers
+;
+go.connect.vulcanmaterials.com CNAME .
 ;
 ; s1161.hs.eloqua.com disguised trackers
 ;
@@ -3524,38 +3758,31 @@ go.edmontonoilers.com CNAME .
 ;
 go.edmontonoilers.com CNAME .
 ;
-; s958641.hs.eloqua.com disguised trackers
-;
-go.emeadatacenter.services.global.ntt CNAME .
-trk.emeadatacenter.services.global.ntt CNAME .
-;
 ; s367589339.hs.eloqua.com disguised trackers
 ;
 go.emersonautomation.com CNAME .
-;
-; s1783419991.hs.eloqua.com disguised trackers
-;
-go.enautics.com CNAME .
-;
-; s1704464.hs.eloqua.com disguised trackers
-;
-go.fhlbny.com CNAME .
-;
-; s634881558.hs.eloqua.com disguised trackers
-;
-go.firstderivatives.com CNAME .
 ;
 ; s1068280789.hs.eloqua.com disguised trackers
 ;
 go.fuze.com CNAME .
 ;
-; s5139842.hs.eloqua.com disguised trackers
+; s1535502769.hs.eloqua.com disguised trackers
 ;
-go.info.verifi.com CNAME .
+go.hager.com CNAME .
+sys.hager.com CNAME .
 ;
-; s638200148.hs.eloqua.com disguised trackers
+; s163540466.hs.eloqua.com disguised trackers
 ;
-go.l-com.com CNAME .
+go.mercuryinsurance.com CNAME .
+;
+; s192083571.hs.eloqua.com disguised trackers
+;
+go.mge.com CNAME .
+tracking.go.mge.com CNAME .
+;
+; s1836376575.hs.eloqua.com disguised trackers
+;
+go.ngahr.com CNAME .
 ;
 ; s1973398186.hs.eloqua.com disguised trackers
 ;
@@ -3566,26 +3793,52 @@ go.oracle.com CNAME .
 go.provident.bank CNAME .
 tracking.go.provident.bank CNAME .
 ;
-; s2118877368.hs.eloqua.com disguised trackers
+; s1843060897.hs.eloqua.com disguised trackers
 ;
-go.psentertainment.com CNAME .
+go.robertsonbuildings.com CNAME .
+track.simonton.com CNAME .
+;
+; s285093746.hs.eloqua.com disguised trackers
+;
+go.rohrer.com CNAME .
 ;
 ; s1372514231.hs.eloqua.com disguised trackers
 ;
 go.sgs.com CNAME .
 stats.sgs.com CNAME .
 ;
-; s2136619493.hs.eloqua.com disguised trackers
+; s570029139.hs.eloqua.com disguised trackers
 ;
-go.zendesk.com CNAME .
+go.teledynemarine.com CNAME .
+go3.teledynemarine.com CNAME .
+;
+; s1053984823.hs.eloqua.com disguised trackers
+;
+go.tuv.com CNAME .
+;
+; s1426.hs.eloqua.com disguised trackers
+;
+go.ultimatesoftware.com CNAME .
+;
+; s157200592.hs.eloqua.com disguised trackers
+;
+go.vertiv.com CNAME .
+tracking.vertiv.com CNAME .
+tracking.vertivco.com CNAME .
+;
+; s1354.hs.eloqua.com disguised trackers
+;
+go.west.com CNAME .
+safety.west.com CNAME .
+safety1.west.com CNAME .
+;
+; s2023.hs.eloqua.com disguised trackers
+;
+go2.kofax.com CNAME .
 ;
 ; s646005169.hs.eloqua.com disguised trackers
 ;
 go2.mathworks.com CNAME .
-;
-; s1594690046.hs.eloqua.com disguised trackers
-;
-go5.global.toshiba CNAME .
 ;
 ; s1865390481.hs.eloqua.com disguised trackers
 ;
@@ -3595,22 +3848,26 @@ grow.national.biz CNAME .
 ;
 gsasolutionssecure.gsa.gov CNAME .
 ;
-; s2108654627.hs.eloqua.com disguised trackers
-;
-healthcare.questdiagnostics.com CNAME .
-;
 ; s1833705806.hs.eloqua.com disguised trackers
 ;
 hello.bpost.be CNAME .
 ;
-; s1399701292.hs.eloqua.com disguised trackers
+; s795606753.hs.eloqua.com disguised trackers
 ;
-hopeful.coh.org CNAME .
-response.coh.org CNAME .
+highered.franklincovey.com CNAME .
+;
+; s990742620.hs.eloqua.com disguised trackers
+;
+ifi-trk.informa.com CNAME .
+pages.financialintelligence.informa.com CNAME .
 ;
 ; secure.p04.eloqua.com disguised trackers
 ;
 ihub.dpworlduae.com CNAME .
+;
+; s1178578728.hs.eloqua.com disguised trackers
+;
+info.aacargo.com CNAME .
 ;
 ; s1792984.hs.eloqua.com disguised trackers
 ;
@@ -3619,6 +3876,11 @@ info.airborn.com CNAME .
 ; s397286491.hs.eloqua.com disguised trackers
 ;
 info.aldcarmarket.com CNAME .
+;
+; s1718265.hs.eloqua.com disguised trackers
+;
+info.americas.mizuhogroup.com CNAME .
+tracking.mizuhogroup.com CNAME .
 ;
 ; s273075935.hs.eloqua.com disguised trackers
 ;
@@ -3629,13 +3891,28 @@ service.bechtle.com CNAME .
 ;
 info.authorize.net CNAME .
 ;
+; s1015653856.hs.eloqua.com disguised trackers
+;
+info.banpronicaragua.com.ni CNAME .
+;
 ; s1874466.hs.eloqua.com disguised trackers
 ;
 info.barcoproducts.com CNAME .
 ;
+; s2082.hs.eloqua.com disguised trackers
+;
+info.boozallen.com CNAME .
+;
 ; s906.hs.eloqua.com disguised trackers
 ;
 info.brightcove.com CNAME .
+;
+; s1017189481.hs.eloqua.com disguised trackers
+;
+info.checkin.pwc.com CNAME .
+info.insightsofficer.pwc.com CNAME .
+info.proedge.pwc.com CNAME .
+info.riskproducts.pwc.com CNAME .
 ;
 ; s769142976.hs.eloqua.com disguised trackers
 ;
@@ -3653,22 +3930,26 @@ info.commercial.keurig.com CNAME .
 ;
 info.dfinsolutions.com CNAME .
 ;
-; s1482233545.hs.eloqua.com disguised trackers
-;
-info.fdbhealth.com CNAME .
-tracking.fdbhealth.com CNAME .
-;
 ; s839961370.hs.eloqua.com disguised trackers
 ;
 info.fishersci.com CNAME .
 ;
+; s910.hs.eloqua.com disguised trackers
+;
+info.forms.messe-muenchen.de CNAME .
+;
+; s577764303.hs.eloqua.com disguised trackers
+;
+info.go.lorainccc.edu CNAME .
+;
+; s258238139.hs.eloqua.com disguised trackers
+;
+info.histadrut.org CNAME .
+www.info.shavve.co.il CNAME .
+;
 ; s141717539.hs.eloqua.com disguised trackers
 ;
 info.hmisrael.co.il CNAME .
-;
-; s1779773941.hs.eloqua.com disguised trackers
-;
-info.houzz.com CNAME .
 ;
 ; s4793349.hs.eloqua.com disguised trackers
 ;
@@ -3678,69 +3959,84 @@ stat.juridicas.com CNAME .
 stat.laley.es CNAME .
 stat.laleynext.es CNAME .
 stat.wolterskluwer.es CNAME .
-stat.wolterskluwer.pt CNAME .
-;
-; s1219509997.hs.eloqua.com disguised trackers
-;
-info.macktrucks.com CNAME .
 ;
 ; s208914684.hs.eloqua.com disguised trackers
 ;
 info.markmonitor.com CNAME .
 ;
+; s169260589.hs.eloqua.com disguised trackers
+;
+info.multiburo.com CNAME .
+;
+; s586980387.hs.eloqua.com disguised trackers
+;
+info.neighborly.com CNAME .
+;
 ; s1492372420.hs.eloqua.com disguised trackers
 ;
 info.onemedical.com CNAME .
+;
+; s2025046056.hs.eloqua.com disguised trackers
+;
+info.onetrust.com CNAME .
 ;
 ; s1674556495.hs.eloqua.com disguised trackers
 ;
 info.perkinelmer.com CNAME .
 ;
-; s1017189481.hs.eloqua.com disguised trackers
-;
-info.proedge.pwc.com CNAME .
-;
 ; s2124157686.hs.eloqua.com disguised trackers
 ;
 info.reutersagency.com CNAME .
 ;
+; s204200226.hs.eloqua.com disguised trackers
+;
+info.sagepointfinancial.com CNAME .
+;
+; s1364398973.hs.eloqua.com disguised trackers
+;
+info.schulverwaltung.de CNAME .
+info.wkf.fr CNAME .
+info.wolterskluwer.it CNAME .
+landing-effacts.wolterskluwer.com CNAME .
+landing-kleos.wolterskluwer.com CNAME .
+landing-smartdocument.wolterskluwer.com CNAME .
+landing-teamdocs.wolterskluwer.com CNAME .
+landing-winra.wolterskluwer.com CNAME .
+lrhungary.wolterskluwer.com CNAME .
+lritaly.wolterskluwer.com CNAME .
+lrpoland.wolterskluwer.com CNAME .
+stat.ipsoa.it CNAME .
+stat.lex.pl CNAME .
+stat.prawo.pl CNAME .
+stat.praxys.hu CNAME .
+stat.profinfo.pl CNAME .
+stat.wki.it CNAME .
+stat.wolterskluwer.com CNAME .
+stat.wolterskluwer.pl CNAME .
+;
 ; s679701162.hs.eloqua.com disguised trackers
 ;
 info.scorecardrewards.com CNAME .
-pp.scorecardrewards.com CNAME .
-;
-; s258238139.hs.eloqua.com disguised trackers
-;
-info.shavve.co.il CNAME .
 ;
 ; s645819469.hs.eloqua.com disguised trackers
 ;
 info.sunsentinelmediagroup.com CNAME .
 ;
-; s642.hs.eloqua.com disguised trackers
+; s110597772.hs.eloqua.com disguised trackers
 ;
-info.thermofisher.com CNAME .
+info.tupperware.es CNAME .
 ;
 ; s302289644.hs.eloqua.com disguised trackers
 ;
 info.unis.edu.gt CNAME .
 ;
-; s1788.hs.eloqua.com disguised trackers
-;
-info1.thermofisher.com CNAME .
-;
 ; s1474118247.hs.eloqua.com disguised trackers
 ;
 info3.thermofisher.com CNAME .
 ;
-; s1988571858.hs.eloqua.com disguised trackers
+; s919248531.hs.eloqua.com disguised trackers
 ;
-inform.janssenpro.eu CNAME .
-tracking.janssenmedicalcloud.de CNAME .
-;
-; s3243454.hs.eloqua.com disguised trackers
-;
-information.lgcns.com CNAME .
+infopromerica.promerica.fi.cr CNAME .
 ;
 ; s741846630.hs.eloqua.com disguised trackers
 ;
@@ -3750,53 +4046,33 @@ ins.leavitt.com CNAME .
 ;
 insight.business.hsbc.com CNAME .
 ;
-; s1178718692.hs.eloqua.com disguised trackers
+; s1647363395.hs.eloqua.com disguised trackers
 ;
-insights.ddiworld.com CNAME .
+inspire.changehealthcare.com CNAME .
 ;
-; s1503422690.hs.eloqua.com disguised trackers
+; s383344069.hs.eloqua.com disguised trackers
 ;
-insurance.alliant.com CNAME .
+intel-trk.informa.com CNAME .
+intel-trk.lloydslistintelligence.com CNAME .
+pages.intelligence.informa.com CNAME .
+pages.pharmaintelligence.informa.com CNAME .
 ;
-; s1127287735.hs.eloqua.com disguised trackers
+; s2026391005.hs.eloqua.com disguised trackers
 ;
-ixia-elq.keysight.com CNAME .
+journey.cisco.com CNAME .
 ;
-; s2078548478.hs.eloqua.com disguised trackers
+; s1663580278.hs.eloqua.com disguised trackers
 ;
-join.pharmapackeurope.com CNAME .
-;
-; s341504499.hs.eloqua.com disguised trackers
-;
-kampanjat.atea.fi CNAME .
-tracking.atea.fi CNAME .
+kampanja.bhtelecom.ba CNAME .
 ;
 ; s1654.hs.eloqua.com disguised trackers
 ;
 know.wolterskluwerlr.com CNAME .
-trackinglrus.wolterskluwer.com CNAME .
 ;
 ; s839411425.hs.eloqua.com disguised trackers
 ;
-lakerspreferences.gleague.nba.com CNAME .
+lakerspreferences.nba.com CNAME .
 preferences.la-lakers.com CNAME .
-;
-; s1364398973.hs.eloqua.com disguised trackers
-;
-landing-effacts.wolterskluwer.com CNAME .
-landing-kleos.wolterskluwer.com CNAME .
-landing-smartdocument.wolterskluwer.com CNAME .
-lrbelgium.wolterskluwer.com CNAME .
-lrnetherlands.wolterskluwer.com CNAME .
-lrpoland.wolterskluwer.com CNAME .
-lrportugal.wolterskluwer.com CNAME .
-stat.ipsoa.it CNAME .
-stat.lex.pl CNAME .
-stat.prawo.pl CNAME .
-stat.profinfo.pl CNAME .
-stat.wki.it CNAME .
-stat.wolterskluwer.com CNAME .
-stat.wolterskluwer.pl CNAME .
 ;
 ; s508159127.hs.eloqua.com disguised trackers
 ;
@@ -3810,83 +4086,102 @@ lantern.fortinet.com CNAME .
 ;
 latam.thomsonreuters.com CNAME .
 ;
+; s591513.hs.eloqua.com disguised trackers
+;
+lead.blackrock.com CNAME .
+;
 ; s1433593509.hs.eloqua.com disguised trackers
 ;
 learn.armaninollp.com CNAME .
 ;
-; s1133169544.hs.eloqua.com disguised trackers
+; s231862657.hs.eloqua.com disguised trackers
 ;
-learn.carlingtech.com CNAME .
+learn.jacksonhewitt.com CNAME .
 ;
-; s1025.hs.eloqua.com disguised trackers
+; s2017930735.hs.eloqua.com disguised trackers
 ;
-learn.relationshipone.com CNAME .
+learn.liensolutions.com CNAME .
 ;
-; s2417.hs.eloqua.com disguised trackers
+; s1037187806.hs.eloqua.com disguised trackers
 ;
-lfn.lfg.com CNAME .
+learn.mvpindex.com CNAME .
+;
+; s1145.hs.eloqua.com disguised trackers
+;
+learning.hmhco.com CNAME .
+ma.hmhco.com CNAME .
+;
+; s1967927849.hs.eloqua.com disguised trackers
+;
+learnmore.protiviti.com CNAME .
+;
+; s397.hs.eloqua.com disguised trackers
+;
+library.changepoint.com CNAME .
+;
+; s1407994545.hs.eloqua.com disguised trackers
+;
+lincolnfinancialgroup.lfg.com CNAME .
+tracking.lincolnfinancialgroup.lfg.com CNAME .
+;
+; s1705133317.hs.eloqua.com disguised trackers
+;
+links.npsemails.mbna.co.uk CNAME .
 ;
 ; s742824262.hs.eloqua.com disguised trackers
 ;
 live.alljobs.co.il CNAME .
 ;
+; s1250714985.hs.eloqua.com disguised trackers
+;
+live.victorops.com CNAME .
+;
 ; s4558456.hs.eloqua.com disguised trackers
 ;
 lkr-trk.reply.com CNAME .
-;
-; s804982657.hs.eloqua.com disguised trackers
-;
-logistics.dbschenker.com CNAME .
-news.dbschenker.com CNAME .
-solutions.dbschenker.com CNAME .
 ;
 ; s1829601.hs.eloqua.com disguised trackers
 ;
 lp-eq.mitsuichemicals.com CNAME .
 ;
-; s1469681.hs.eloqua.com disguised trackers
+; s1746211102.hs.eloqua.com disguised trackers
 ;
-lp.connectedcare.wkhs.com CNAME .
+lp-implants.dentsplysirona.com CNAME .
 ;
-; s608.hs.eloqua.com disguised trackers
+; s2894949.hs.eloqua.com disguised trackers
 ;
-lp.embarcadero.com CNAME .
+lp.go.mhi.com CNAME .
+metrics.mhi.com CNAME .
+;
+; s708253975.hs.eloqua.com disguised trackers
+;
+lp.healthinfo.thechristhospital.com CNAME .
 ;
 ; s857737.hs.eloqua.com disguised trackers
 ;
 lp.info.jeffersonhealth.org CNAME .
 ;
+; s73756918.hs.eloqua.com disguised trackers
+;
+lp.mkt-email.samsungsds.com CNAME .
+tracking.mkt-email.samsungsds.com CNAME .
+;
+; s220745253.hs.eloqua.com disguised trackers
+;
+lp.northwestern.nm.org CNAME .
+web.northwestern.nm.org CNAME .
+;
 ; s1777052651.hs.eloqua.com disguised trackers
 ;
 lp.sophos.com CNAME .
-;
-; s1361878872.hs.eloqua.com disguised trackers
-;
-lp.yamane-m.co.jp CNAME .
 ;
 ; s1107114332.hs.eloqua.com disguised trackers
 ;
 lp1.dentsplysirona.com CNAME .
 ;
-; s1507378874.hs.eloqua.com disguised trackers
+; s1773957039.hs.eloqua.com disguised trackers
 ;
-m.premier.info.shutterstock.com CNAME .
-;
-; s1145.hs.eloqua.com disguised trackers
-;
-ma.hmhco.com CNAME .
-;
-; s1660.hs.eloqua.com disguised trackers
-;
-mail.dolce-gusto.cl CNAME .
-mail.dolce-gusto.gr CNAME .
-mail.dolce-gusto.pt CNAME .
-mail.dolce-gusto.ro CNAME .
-;
-; s748859613.hs.eloqua.com disguised trackers
-;
-making-future.afry.com CNAME .
-t.afry.com CNAME .
+lp3.dentsplysirona.com CNAME .
 ;
 ; s1284661142.hs.eloqua.com disguised trackers
 ;
@@ -3896,110 +4191,139 @@ map.rockwellautomation.com CNAME .
 ;
 marketing.championhomes.com CNAME .
 ;
+; s992344473.hs.eloqua.com disguised trackers
+;
+marketing.cigna.com CNAME .
+;
+; s1626450524.hs.eloqua.com disguised trackers
+;
+marketing.clippergifts.com CNAME .
+;
+; s1650198108.hs.eloqua.com disguised trackers
+;
+marketing.income.com.sg CNAME .
+;
 ; s1629121027.hs.eloqua.com disguised trackers
 ;
 marketing.royalalaskanmovers.com CNAME .
-;
-; s1023994345.hs.eloqua.com disguised trackers
-;
-markets.eclerx.com CNAME .
-services.eclerx.com CNAME .
-;
-; s640556.hs.eloqua.com disguised trackers
-;
-mat.lgdisplay.com CNAME .
-;
-; s223222610.hs.eloqua.com disguised trackers
-;
-medion.interamerican.gr CNAME .
 ;
 ; s341921710.hs.eloqua.com disguised trackers
 ;
 memelq.acs.org CNAME .
 ;
-; s2894949.hs.eloqua.com disguised trackers
+; s476064971.hs.eloqua.com disguised trackers
 ;
-metrics.mhi.com CNAME .
+metrics-now.experian.com CNAME .
 ;
 ; s2126871889.hs.eloqua.com disguised trackers
 ;
 metricsinfo.edc.ca CNAME .
 secureinfo.edc.ca CNAME .
 ;
-; s893956921.hs.eloqua.com disguised trackers
-;
-mfg.informabi.com CNAME .
-;
-; s50277215.hs.eloqua.com disguised trackers
-;
-mkt-tracking.cloudmargin.com CNAME .
-;
 ; s205422009.hs.eloqua.com disguised trackers
 ;
 mkt.compactaprint.com.br CNAME .
+;
+; s1525761459.hs.eloqua.com disguised trackers
+;
+move.azets.se CNAME .
+t.cozone.com CNAME .
+;
+; s1158236727.hs.eloqua.com disguised trackers
+;
+my.internationalsos.com CNAME .
 ;
 ; s417558342.hs.eloqua.com disguised trackers
 ;
 my.orhp.com CNAME .
 ;
-; s1475040089.hs.eloqua.com disguised trackers
-;
-myevents.thalesgroup.com CNAME .
-myfeed.thalesgroup.com CNAME .
-t.thalesgroup.com CNAME .
-;
-; s736472.hs.eloqua.com disguised trackers
-;
-myfuture.futureelectronics.com CNAME .
-;
 ; s43975733.hs.eloqua.com disguised trackers
 ;
 nbg.seagate.com CNAME .
 ;
-; s1816717515.hs.eloqua.com disguised trackers
+; s30539076.hs.eloqua.com disguised trackers
 ;
-news.communications-rmngp.fr CNAME .
+news.arcb.com CNAME .
+solutions.arcb.com CNAME .
 ;
 ; s645654258.hs.eloqua.com disguised trackers
 ;
 newsletters.bancsabadell.com CNAME .
 ;
-; s23693100.hs.eloqua.com disguised trackers
+; s526.hs.eloqua.com disguised trackers
 ;
-nordics.atradius.com CNAME .
+nl.aon.com CNAME .
 ;
-; s1758221812.hs.eloqua.com disguised trackers
+; s786665.hs.eloqua.com disguised trackers
 ;
-now.greenbuildexpo.com CNAME .
+notify.eset.com CNAME .
+;
+; s1728163616.hs.eloqua.com disguised trackers
+;
+nurse.fastaff.com CNAME .
+;
+; s562703.hs.eloqua.com disguised trackers
+;
+nyhed.danskespil.dk CNAME .
 ;
 ; s244475.hs.eloqua.com disguised trackers
 ;
 oci.dyn.com CNAME .
 ;
+; s281200032.hs.eloqua.com disguised trackers
+;
+offer.lyreco.com CNAME .
+;
 ; s20103530.hs.eloqua.com disguised trackers
 ;
 offers.la-z-boy.com CNAME .
 ;
-; s279295639.hs.eloqua.com disguised trackers
+; s913615.hs.eloqua.com disguised trackers
 ;
-oiat.dow.com CNAME .
+online.chinavending.com.cn CNAME .
 ;
-; s1445544.hs.eloqua.com disguised trackers
+; s1838409817.hs.eloqua.com disguised trackers
 ;
-page.health.tmcaz.com CNAME .
-tracking.health.tmcaz.com CNAME .
+our.sunshinecoast.qld.gov.au CNAME .
+;
+; secure.p06.eloqua.com disguised trackers
+;
+p06.sc.origins.en25.com CNAME .
 ;
 ; s103126886.hs.eloqua.com disguised trackers
 ;
 pages.canon.com.au CNAME .
 ;
-; s1909208.hs.eloqua.com disguised trackers
+; s856856423.hs.eloqua.com disguised trackers
 ;
-pages.ledger.com CNAME .
+pages.contact.umpquabank.com CNAME .
+tracking.columbiabank.com CNAME .
 ;
-; s383344069.hs.eloqua.com disguised trackers
+; s143192590.hs.eloqua.com disguised trackers
 ;
-pages.pharmaintelligence.informa.com CNAME .
+pages.health365.com.au CNAME .
+;
+; s1583091431.hs.eloqua.com disguised trackers
+;
+pages.info.exclusive-networks.com CNAME .
+;
+; p07a.hs.eloqua.com disguised trackers
+;
+pages.kwm.com CNAME .
+track.auckland.ac.nz CNAME .
+;
+; s7468769.hs.eloqua.com disguised trackers
+;
+pages.kwm.com CNAME .
+;
+; s1006266832.hs.eloqua.com disguised trackers
+;
+pages.news.realestate.bnpparibas CNAME .
+tracking.bnppre.fr CNAME .
+;
+; s1827692357.hs.eloqua.com disguised trackers
+;
+pages.nuvias.com CNAME .
 ;
 ; s9445901.hs.eloqua.com disguised trackers
 ;
@@ -4011,98 +4335,89 @@ tracking.response.terex.com CNAME .
 pages.sailgp.com CNAME .
 tracking.sailgp.com CNAME .
 ;
-; s1625795586.hs.eloqua.com disguised trackers
+; s1374.hs.eloqua.com disguised trackers
 ;
-pages.visitdubai.com CNAME .
-tracking.visitdubai.com CNAME .
+pages.washingtoncaps.com CNAME .
 ;
 ; s983166544.hs.eloqua.com disguised trackers
 ;
+partnersuccess.cisco.com CNAME .
 partnersuccessmetrics.cisco.com CNAME .
 ;
-; s1887739738.hs.eloqua.com disguised trackers
+; s1045775785.hs.eloqua.com disguised trackers
 ;
-pcm.symantec.com CNAME .
+platformsolutions.shutterstock.com CNAME .
 ;
-; s46849916.hs.eloqua.com disguised trackers
+; s905186376.hs.eloqua.com disguised trackers
 ;
-pgs.farmprogress.com CNAME .
-trk.beefmagazine.com CNAME .
-trk.farmprogress.com CNAME .
-trk.nationalhogfarmer.com CNAME .
+pm.em.viatrisconnect.com CNAME .
 ;
-; s1734025471.hs.eloqua.com disguised trackers
+; s456196690.hs.eloqua.com disguised trackers
 ;
-plbusiness.samsung.com CNAME .
-tracking.europe.business.samsung.com CNAME .
+podbooth.martela.se CNAME .
 ;
-; s1634886871.hs.eloqua.com disguised trackers
+; s379887778.hs.eloqua.com disguised trackers
 ;
-posgrado.javeriana.edu.co CNAME .
-pregrados.javeriana.edu.co CNAME .
+preferences.bowerswilkins.com CNAME .
 ;
-; s1632284857.hs.eloqua.com disguised trackers
+; s152104.hs.eloqua.com disguised trackers
 ;
-pr.cision.com CNAME .
-pr.prnewswire.com CNAME .
+preferenza.nposistemi.it CNAME .
 ;
-; s1630091360.hs.eloqua.com disguised trackers
+; s1611153705.hs.eloqua.com disguised trackers
 ;
-profiling.outokumpu.com CNAME .
+procurement.cipscomms.org CNAME .
+;
+; s881162121.hs.eloqua.com disguised trackers
+;
+profiling.eurofins.fi CNAME .
 ;
 ; s2044960264.hs.eloqua.com disguised trackers
 ;
+profiling.plannja.com CNAME .
 profiling.ruukki.com CNAME .
 ;
-; s1892927.hs.eloqua.com disguised trackers
+; s600383648.hs.eloqua.com disguised trackers
 ;
-promotion.lginnotek.com CNAME .
-;
-; s59104477.hs.eloqua.com disguised trackers
-;
-promotion.sedo.com CNAME .
-;
-; s1913652004.hs.eloqua.com disguised trackers
-;
-pubstr.acs.org CNAME .
-pubstr.chemrxiv.org CNAME .
-;
-; s1450716703.hs.eloqua.com disguised trackers
-;
-rc.precisely.com CNAME .
-tracking.precisely.com CNAME .
+qago.qiagen.com CNAME .
 ;
 ; s1233.hs.eloqua.com disguised trackers
 ;
 redwingforbusiness.redwingsafety.com CNAME .
 ;
-; s2150.hs.eloqua.com disguised trackers
+; s680451474.hs.eloqua.com disguised trackers
 ;
-reg.informationweek.com CNAME .
-trk.darkreading.com CNAME .
-trk.enterpriseconnect.com CNAME .
-trk.gamedeveloper.com CNAME .
-trk.gdconf.com CNAME .
-trk.informatech.com CNAME .
-trk.informationweek.com CNAME .
-trk.networkcomputing.com CNAME .
+regmdr.pref.ims.dialog-direct.com CNAME .
+;
+; s2789.hs.eloqua.com disguised trackers
+;
+resources.att.com CNAME .
 ;
 ; s459.hs.eloqua.com disguised trackers
 ;
 resources.opentext.com CNAME .
+resources.opentext.es CNAME .
 resources.opentext.fr CNAME .
 ;
 ; s779983035.hs.eloqua.com disguised trackers
 ;
 response.arizonacoyotes.com CNAME .
 ;
-; p02j.hs.eloqua.com disguised trackers
+; s2964266.hs.eloqua.com disguised trackers
 ;
-response.desjardins.com CNAME .
+response.bapco.net CNAME .
+;
+; s1399701292.hs.eloqua.com disguised trackers
+;
+response.coh.org CNAME .
 ;
 ; s2006753802.hs.eloqua.com disguised trackers
 ;
 response.desjardins.com CNAME .
+;
+; s2689.hs.eloqua.com disguised trackers
+;
+response.economistevents.com CNAME .
 ;
 ; s225884627.hs.eloqua.com disguised trackers
 ;
@@ -4113,14 +4428,31 @@ tracking.emoneyadvisor.com CNAME .
 ;
 response.iqpc.com CNAME .
 ;
-; s1042585190.hs.eloqua.com disguised trackers
+; s2941.hs.eloqua.com disguised trackers
 ;
-response.playpower.com CNAME .
-response.usa-shade.com CNAME .
+response.leadingauthorities.com CNAME .
+tracking.leadingauthorities.com CNAME .
 ;
-; s1528.hs.eloqua.com disguised trackers
+; s662236409.hs.eloqua.com disguised trackers
 ;
-response.splunk.com CNAME .
+response.turnkeyvr.com CNAME .
+;
+; s1120.hs.eloqua.com disguised trackers
+;
+response.xactware.com CNAME .
+tracking.verisk.com CNAME .
+;
+; s1731649222.hs.eloqua.com disguised trackers
+;
+response2.buydomains.com CNAME .
+;
+; s3121.hs.eloqua.com disguised trackers
+;
+responsemp.civica.com CNAME .
+;
+; s1107560253.hs.eloqua.com disguised trackers
+;
+responses.ingrammicro.com CNAME .
 ;
 ; s2116941023.hs.eloqua.com disguised trackers
 ;
@@ -4134,17 +4466,33 @@ s362693299.aon.com CNAME .
 ;
 satracking.finning.com CNAME .
 ;
+; s660674.hs.eloqua.com disguised trackers
+;
+secure-anzgo.arrow.com CNAME .
+;
 ; s159500889.hs.eloqua.com disguised trackers
 ;
 secure-eugo.arrow.com CNAME .
 ;
-; s3086.hs.eloqua.com disguised trackers
+; s1304.hs.eloqua.com disguised trackers
 ;
-secure.immixgroup.com CNAME .
+secure.arrow.com CNAME .
+;
+; s625.hs.eloqua.com disguised trackers
+;
+secure.couch.associates CNAME .
+;
+; s1743629666.hs.eloqua.com disguised trackers
+;
+secure.dev-plan.intel.com CNAME .
 ;
 ; s2427.hs.eloqua.com disguised trackers
 ;
 secure.info.domo.com CNAME .
+;
+; s226669080.hs.eloqua.com disguised trackers
+;
+secure.medtronichealth.medtronic.com CNAME .
 ;
 ; s380021914.hs.eloqua.com disguised trackers
 ;
@@ -4162,16 +4510,23 @@ secure.sw.broadcom.com CNAME .
 ;
 secure.wiley.com CNAME .
 ;
+; p02k.hs.eloqua.com disguised trackers
+;
+secure1.desjardinsassurancesgenerales.com CNAME .
+secure1.desjardinsgeneralinsurance.com CNAME .
+;
+; s281178611.hs.eloqua.com disguised trackers
+;
+secure1.desjardinsassurancesgenerales.com CNAME .
+secure1.desjardinsgeneralinsurance.com CNAME .
+;
 ; s1368768478.hs.eloqua.com disguised trackers
 ;
 securecookies.dustin.dk CNAME .
 securecookies.dustin.fi CNAME .
-securecookies.dustin.nl CNAME .
 securecookies.dustin.no CNAME .
 securecookies.dustin.se CNAME .
 securecookies.dustinhome.dk CNAME .
-securecookies.dustinhome.fi CNAME .
-securecookies.dustinhome.nl CNAME .
 securecookies.dustinhome.no CNAME .
 securecookies.dustinhome.se CNAME .
 ;
@@ -4192,13 +4547,18 @@ securecookiesdustininfo.dustinhome.se CNAME .
 ;
 secured.online.avon.com CNAME .
 ;
-; s2437.hs.eloqua.com disguised trackers
+; s1535.hs.eloqua.com disguised trackers
 ;
-secureforms.nrs-inc.com CNAME .
+secureforms.accuity.com CNAME .
 ;
 ; s2085091463.hs.eloqua.com disguised trackers
 ;
+secureforms.adaptris.com CNAME .
 secureforms.proagrica.com CNAME .
+;
+; s2437.hs.eloqua.com disguised trackers
+;
+secureforms.nrs-inc.com CNAME .
 ;
 ; s2824.hs.eloqua.com disguised trackers
 ;
@@ -4208,42 +4568,39 @@ secureforms.xperthr.com CNAME .
 ;
 secureforms.xperthr.nl CNAME .
 ;
+; s2392.hs.eloqua.com disguised trackers
+;
+secureoutreach.unisys.com CNAME .
+;
 ; s146977739.hs.eloqua.com disguised trackers
 ;
 securetracking.golfpride.com CNAME .
 ;
-; s1236249806.hs.eloqua.com disguised trackers
+; s1896.hs.eloqua.com disguised trackers
 ;
-security.solutions.jci.com CNAME .
+services.bdc.ca CNAME .
+stat.bdc.ca CNAME .
 ;
 ; s1215213815.hs.eloqua.com disguised trackers
 ;
 services.princes-trust.org.uk CNAME .
 ;
-; s911788392.hs.eloqua.com disguised trackers
-;
-shelter.dupont.com CNAME .
-;
-; s394336720.hs.eloqua.com disguised trackers
-;
-site.connect.mydrreddys.com CNAME .
-tracking.drreddys.com CNAME .
-;
 ; s1447373.hs.eloqua.com disguised trackers
 ;
 site.infosysbpm.com CNAME .
 ;
-; s849425.hs.eloqua.com disguised trackers
+; s1819762567.hs.eloqua.com disguised trackers
 ;
-situationalintelligence.cognyte.com CNAME .
+site.tdk.com CNAME .
+tracking.tdk.com CNAME .
 ;
-; s1164411065.hs.eloqua.com disguised trackers
+; s804982657.hs.eloqua.com disguised trackers
 ;
-smtps.carte-gr.total.fr CNAME .
+solutions.dbschenker.com CNAME .
 ;
-; s409256115.hs.eloqua.com disguised trackers
+; s136591222.hs.eloqua.com disguised trackers
 ;
-solutions.covance.com CNAME .
+solutions.equifax.ca CNAME .
 ;
 ; s530566577.hs.eloqua.com disguised trackers
 ;
@@ -4253,38 +4610,33 @@ solutions.refinitiv.com CNAME .
 ;
 solutions.westrock.com CNAME .
 ;
-; s456196690.hs.eloqua.com disguised trackers
+; s606355352.hs.eloqua.com disguised trackers
 ;
-spaces.martela.com CNAME .
+spr.punainenristi.fi CNAME .
+;
+; s419808.hs.eloqua.com disguised trackers
+;
+spring.arbor.edu CNAME .
 ;
 ; s244630019.hs.eloqua.com disguised trackers
 ;
 st.azcardinals.com CNAME .
 ;
-; s1896.hs.eloqua.com disguised trackers
-;
-stat.bdc.ca CNAME .
-;
-; s1435678.hs.eloqua.com disguised trackers
-;
-stat.liaisons-sociales.fr CNAME .
-;
 ; s1896673673.hs.eloqua.com disguised trackers
 ;
 stat.starterre.fr CNAME .
 ;
-; s1728163616.hs.eloqua.com disguised trackers
+; s406875.hs.eloqua.com disguised trackers
 ;
-strikenurse.usnursing.com CNAME .
-;
-; s861531437.hs.eloqua.com disguised trackers
-;
-subscribe.dnvgl.com CNAME .
-webinar.dnvgl.com CNAME .
+suppliersite.ferguson.com CNAME .
 ;
 ; s2950557.hs.eloqua.com disguised trackers
 ;
 support.labcorp.com CNAME .
+;
+; s1330859907.hs.eloqua.com disguised trackers
+;
+survey.qualfon.com CNAME .
 ;
 ; s1460333.hs.eloqua.com disguised trackers
 ;
@@ -4298,9 +4650,17 @@ t.arizonawildcats.com CNAME .
 ;
 t.arkansasrazorbacks.com CNAME .
 ;
+; s1016221.hs.eloqua.com disguised trackers
+;
+t.arts.uci.edu CNAME .
+;
 ; s4647128.hs.eloqua.com disguised trackers
 ;
 t.auburntigers.com CNAME .
+;
+; s26832.hs.eloqua.com disguised trackers
+;
+t.baylorbears.com CNAME .
 ;
 ; s3978542.hs.eloqua.com disguised trackers
 ;
@@ -4314,6 +4674,10 @@ t.bucky.uwbadgers.com CNAME .
 ;
 t.budweisergardens.com CNAME .
 ;
+; s2594519.hs.eloqua.com disguised trackers
+;
+t.byutickets.com CNAME .
+;
 ; s718390.hs.eloqua.com disguised trackers
 ;
 t.calbears.com CNAME .
@@ -4322,21 +4686,21 @@ t.calbears.com CNAME .
 ;
 t.cincinnatiarts.org CNAME .
 ;
+; s95425.hs.eloqua.com disguised trackers
+;
+t.cofcsports.com CNAME .
+;
 ; s1674425.hs.eloqua.com disguised trackers
 ;
 t.cubuffs.com CNAME .
-;
-; s2336561.hs.eloqua.com disguised trackers
-;
-t.dawsoncreekeventscentre.com CNAME .
 ;
 ; s2941439.hs.eloqua.com disguised trackers
 ;
 t.ecupirates.com CNAME .
 ;
-; s3953753.hs.eloqua.com disguised trackers
+; s1472250.hs.eloqua.com disguised trackers
 ;
-t.fairparkdallas.com CNAME .
+t.emueagles.com CNAME .
 ;
 ; s5797642.hs.eloqua.com disguised trackers
 ;
@@ -4350,13 +4714,13 @@ t.foxtheatre.org CNAME .
 ;
 t.friars.com CNAME .
 ;
+; s716215.hs.eloqua.com disguised trackers
+;
+t.georgiadogs.com CNAME .
+;
 ; s717488.hs.eloqua.com disguised trackers
 ;
 t.goarmywestpoint.com CNAME .
-;
-; s2394888.hs.eloqua.com disguised trackers
-;
-t.gobearcats.com CNAME .
 ;
 ; s662344.hs.eloqua.com disguised trackers
 ;
@@ -4382,9 +4746,17 @@ t.gostanford.com CNAME .
 ;
 t.goxavier.com CNAME .
 ;
+; s42415.hs.eloqua.com disguised trackers
+;
+t.hailstate.com CNAME .
+;
 ; s1108752.hs.eloqua.com disguised trackers
 ;
 t.hawkeyesports.com CNAME .
+;
+; s2977661.hs.eloqua.com disguised trackers
+;
+t.hokiesports.com CNAME .
 ;
 ; s20342.hs.eloqua.com disguised trackers
 ;
@@ -4398,17 +4770,9 @@ t.jmusports.com CNAME .
 ;
 t.krannertcenter.com CNAME .
 ;
-; s22009.hs.eloqua.com disguised trackers
+; s808240.hs.eloqua.com disguised trackers
 ;
-t.kstatesports.com CNAME .
-;
-; s2342053.hs.eloqua.com disguised trackers
-;
-t.libertyfirstcreditunionarena.com CNAME .
-;
-; s533626.hs.eloqua.com disguised trackers
-;
-t.lsusports.net CNAME .
+t.miamihurricanes.com CNAME .
 ;
 ; s773600.hs.eloqua.com disguised trackers
 ;
@@ -4417,6 +4781,10 @@ t.msuspartans.com CNAME .
 ; s2234957.hs.eloqua.com disguised trackers
 ;
 t.navysports.com CNAME .
+;
+; s3690781.hs.eloqua.com disguised trackers
+;
+t.nhra.com CNAME .
 ;
 ; s370925.hs.eloqua.com disguised trackers
 ;
@@ -4434,17 +4802,9 @@ t.olemisssports.com CNAME .
 ;
 t.pittsburghpanthers.com CNAME .
 ;
-; s3192205.hs.eloqua.com disguised trackers
-;
-t.playhousesquare.org CNAME .
-;
 ; s7610.hs.eloqua.com disguised trackers
 ;
 t.poconoraceway.com CNAME .
-;
-; s2279082.hs.eloqua.com disguised trackers
-;
-t.pplcenter.com CNAME .
 ;
 ; s2661780.hs.eloqua.com disguised trackers
 ;
@@ -4458,9 +4818,9 @@ t.seminoles.com CNAME .
 ;
 t.sjsuspartans.com CNAME .
 ;
-; s3327771.hs.eloqua.com disguised trackers
+; s384920.hs.eloqua.com disguised trackers
 ;
-t.soonersports.com CNAME .
+t.southernmiss.com CNAME .
 ;
 ; s4239565.hs.eloqua.com disguised trackers
 ;
@@ -4470,29 +4830,37 @@ t.texassports.com CNAME .
 ;
 t.texastech.com CNAME .
 ;
-; s5183409.hs.eloqua.com disguised trackers
+; s11192690.hs.eloqua.com disguised trackers
 ;
-t.ticketstaronline.com CNAME .
+t.treventscomplex.com CNAME .
+;
+; s4209711.hs.eloqua.com disguised trackers
+;
+t.tulanegreenwave.com CNAME .
+;
+; s407442.hs.eloqua.com disguised trackers
+;
+t.tysoncenter.com CNAME .
 ;
 ; s2425245.hs.eloqua.com disguised trackers
 ;
 t.uclabruins.com CNAME .
 ;
-; s2019595.hs.eloqua.com disguised trackers
+; s697615.hs.eloqua.com disguised trackers
 ;
-t.umassathletics.com CNAME .
+t.uhcougars.com CNAME .
 ;
 ; s593281.hs.eloqua.com disguised trackers
 ;
 t.umterps.com CNAME .
 ;
-; s474024.hs.eloqua.com disguised trackers
-;
-t.und.com CNAME .
-;
 ; s5531012.hs.eloqua.com disguised trackers
 ;
 t.unlvrebels.com CNAME .
+;
+; s1787923.hs.eloqua.com disguised trackers
+;
+t.utahstateaggies.com CNAME .
 ;
 ; s215943.hs.eloqua.com disguised trackers
 ;
@@ -4514,13 +4882,17 @@ t.wvusports.com CNAME .
 ;
 t.xtreamarena.com CNAME .
 ;
-; s706700.hs.eloqua.com disguised trackers
-;
-tablo.outsetmedical.com CNAME .
-;
 ; s297511345.hs.eloqua.com disguised trackers
 ;
 talenteq.intuit.com CNAME .
+;
+; s561466590.hs.eloqua.com disguised trackers
+;
+tandap.dupont.com CNAME .
+;
+; s1984576105.hs.eloqua.com disguised trackers
+;
+tech.softchoice.com CNAME .
 ;
 ; s1885539667.hs.eloqua.com disguised trackers
 ;
@@ -4528,38 +4900,27 @@ technology.informaengage.com CNAME .
 trk.afcom.com CNAME .
 trk.channelfutures.com CNAME .
 trk.datacenterknowledge.com CNAME .
+trk.datacenterworld.com CNAME .
 trk.iotworldtoday.com CNAME .
 trk.itprotoday.com CNAME .
 trk.webhostingtalk.com CNAME .
-;
-; s1836379484.hs.eloqua.com disguised trackers
-;
-temails.productnotice.thomsonreuters.com CNAME .
 ;
 ; s3016511.hs.eloqua.com disguised trackers
 ;
 ticketoffice.liberty.edu CNAME .
 ;
-; s711385017.hs.eloqua.com disguised trackers
-;
-tr-ms.bosch-home.com CNAME .
-tr-ms.profilo.com CNAME .
-tr-ms.siemens-home.bsh-group.com CNAME .
-;
 ; s19803528.hs.eloqua.com disguised trackers
 ;
 trace.insead.edu CNAME .
-tracking.insead.edu CNAME .
 ;
 ; s1968580696.hs.eloqua.com disguised trackers
 ;
-track-e.cypress.com CNAME .
 track-e.infineon.com CNAME .
+track-e.infineoncommunity.com CNAME .
 ;
 ; s2021.hs.eloqua.com disguised trackers
 ;
 track.abrdn.com CNAME .
-track.financialfairness.org.uk CNAME .
 ;
 ; s810866859.hs.eloqua.com disguised trackers
 ;
@@ -4569,41 +4930,22 @@ track.auckland.ac.nz CNAME .
 ;
 track.clubcar.com CNAME .
 ;
-; s694841291.hs.eloqua.com disguised trackers
-;
-track.connectwise.com CNAME .
-;
-; s566810826.hs.eloqua.com disguised trackers
-;
-track.docusign.co.uk CNAME .
-track.docusign.com CNAME .
-track.docusign.com.br CNAME .
-track.docusign.com.es CNAME .
-track.docusign.de CNAME .
-track.docusign.fr CNAME .
-track.docusign.jp CNAME .
-track.docusign.mx CNAME .
-;
-; s1990924103.hs.eloqua.com disguised trackers
-;
-track.ferrari.com CNAME .
-track.ferraridealers.com CNAME .
-;
 ; s2255121.hs.eloqua.com disguised trackers
 ;
 track.info.cancertherapyadvisor.com CNAME .
 track.info.clinicaladvisor.com CNAME .
 track.info.dermatologyadvisor.com CNAME .
 track.info.empr.com CNAME .
-track.info.gastroenterologyadvisor.com CNAME .
+track.info.endocrinologyadvisor.com CNAME .
+track.info.hematologyadvisor.com CNAME .
 track.info.infectiousdiseaseadvisor.com CNAME .
-track.info.neurologyadvisor.com CNAME .
+track.info.medicalbag.com CNAME .
 track.info.oncologynurseadvisor.com CNAME .
-track.info.ophthalmologyadvisor.com CNAME .
-track.info.optometryadvisor.com CNAME .
 track.info.psychiatryadvisor.com CNAME .
+track.info.rarediseaseadvisor.com CNAME .
 track.info.renalandurologynews.com CNAME .
 track.info.rheumatologyadvisor.com CNAME .
+track.info.thecardiologyadvisor.com CNAME .
 ;
 ; s305496.hs.eloqua.com disguised trackers
 ;
@@ -4613,10 +4955,6 @@ track.info.mcknightsseniorliving.com CNAME .
 ; s2175572.hs.eloqua.com disguised trackers
 ;
 track.info.mmm-online.com CNAME .
-;
-; s3096123.hs.eloqua.com disguised trackers
-;
-track.info.prweekus.com CNAME .
 ;
 ; s375943868.hs.eloqua.com disguised trackers
 ;
@@ -4630,6 +4968,10 @@ track.lesmills.com CNAME .
 ;
 track.postkodlotteriet.se CNAME .
 ;
+; s3277601.hs.eloqua.com disguised trackers
+;
+track.quad.com CNAME .
+;
 ; s1129361478.hs.eloqua.com disguised trackers
 ;
 tracker.providence.org CNAME .
@@ -4639,6 +4981,10 @@ tracker.swedish.org CNAME .
 ;
 tracking-explore-uat.agilent.com CNAME .
 ;
+; s955180079.hs.eloqua.com disguised trackers
+;
+tracking-qa.veritas.com CNAME .
+;
 ; s1931362753.hs.eloqua.com disguised trackers
 ;
 tracking-sandbox.vodafone.co.uk CNAME .
@@ -4646,6 +4992,12 @@ tracking-sandbox.vodafone.co.uk CNAME .
 ; s459453599.hs.eloqua.com disguised trackers
 ;
 tracking.aapa.org CNAME .
+;
+; s1424104964.hs.eloqua.com disguised trackers
+;
+tracking.about.bgov.com CNAME .
+tracking.bloombergindustry.com CNAME .
+tracking.pro.bloombergtax.com CNAME .
 ;
 ; s414407.hs.eloqua.com disguised trackers
 ;
@@ -4664,7 +5016,9 @@ tracking.myaupairinamerica.com CNAME .
 ; s365128.hs.eloqua.com disguised trackers
 ;
 tracking.alphacard.com CNAME .
+tracking.barcodegiant.com CNAME .
 tracking.barcodesinc.com CNAME .
+tracking.digitalid.co.uk CNAME .
 tracking.idwholesaler.com CNAME .
 ;
 ; s1887074206.hs.eloqua.com disguised trackers
@@ -4680,26 +5034,32 @@ tracking.hibu.com CNAME .
 ;
 tracking.apac.business.samsung.com CNAME .
 ;
+; s1039926866.hs.eloqua.com disguised trackers
+;
+tracking.atea.dk CNAME .
+;
+; s341504499.hs.eloqua.com disguised trackers
+;
+tracking.atea.fi CNAME .
+;
+; s833068.hs.eloqua.com disguised trackers
+;
+tracking.averydennison.com CNAME .
+;
 ; s1444088438.hs.eloqua.com disguised trackers
 ;
 tracking.bankofoklahoma.com CNAME .
 tracking.bankoftexas.com CNAME .
-;
-; s1006266832.hs.eloqua.com disguised trackers
-;
-tracking.bnppre.fr CNAME .
+tracking.bokfinancial.com CNAME .
 ;
 ; s1571500494.hs.eloqua.com disguised trackers
 ;
+tracking.bonava.no CNAME .
 tracking.bonava.ru CNAME .
 ;
 ; s2132.hs.eloqua.com disguised trackers
 ;
 tracking.bradyid.com CNAME .
-;
-; s1887277791.hs.eloqua.com disguised trackers
-;
-tracking.business.comcast.com CNAME .
 ;
 ; s1253383126.hs.eloqua.com disguised trackers
 ;
@@ -4713,17 +5073,20 @@ tracking.bv.com CNAME .
 ;
 tracking.cengage.com CNAME .
 ;
-; s1647363395.hs.eloqua.com disguised trackers
+; s1396567887.hs.eloqua.com disguised trackers
 ;
-tracking.changehealthcare.com CNAME .
-;
-; s856856423.hs.eloqua.com disguised trackers
-;
-tracking.columbiabank.com CNAME .
+tracking.coldspringusa.com CNAME .
 ;
 ; s6137615.hs.eloqua.com disguised trackers
 ;
 tracking.connect.nicklaushealth.org CNAME .
+;
+; s1427524768.hs.eloqua.com disguised trackers
+;
+tracking.continuingstudies.wisc.edu CNAME .
+tracking.online.wisc.edu CNAME .
+tracking.pdc.wisc.edu CNAME .
+tracking.precollege.wisc.edu CNAME .
 ;
 ; s252818013.hs.eloqua.com disguised trackers
 ;
@@ -4741,6 +5104,10 @@ tracking.dr-10.com CNAME .
 ;
 tracking.drivercenter.eu CNAME .
 ;
+; s394336720.hs.eloqua.com disguised trackers
+;
+tracking.drreddys.com CNAME .
+;
 ; s534595109.hs.eloqua.com disguised trackers
 ;
 tracking.edb.gov.sg CNAME .
@@ -4753,9 +5120,17 @@ tracking.eloq.soa.org CNAME .
 ;
 tracking.eloqua.modernize.com CNAME .
 ;
+; s1734025471.hs.eloqua.com disguised trackers
+;
+tracking.europe.business.samsung.com CNAME .
+;
 ; s1739717246.hs.eloqua.com disguised trackers
 ;
 tracking.evergy.com CNAME .
+;
+; s1482233545.hs.eloqua.com disguised trackers
+;
+tracking.fdbhealth.com CNAME .
 ;
 ; s275197016.hs.eloqua.com disguised trackers
 ;
@@ -4777,9 +5152,9 @@ tracking.ftitechnology.com CNAME .
 ;
 tracking.global-demand02.nec.com CNAME .
 ;
-; s192083571.hs.eloqua.com disguised trackers
+; s584437826.hs.eloqua.com disguised trackers
 ;
-tracking.go.mge.com CNAME .
+tracking.go.atcc.org CNAME .
 ;
 ; s1069047711.hs.eloqua.com disguised trackers
 ;
@@ -4789,9 +5164,26 @@ tracking.go.onshape.com CNAME .
 ;
 tracking.go.toyobo.co.jp CNAME .
 ;
+; s2090192166.hs.eloqua.com disguised trackers
+;
+tracking.guidehouse.com CNAME .
+tracking.navigant.com CNAME .
+;
 ; s1253878073.hs.eloqua.com disguised trackers
 ;
 tracking.hcltech.com CNAME .
+;
+; s71984.hs.eloqua.com disguised trackers
+;
+tracking.health.bilh.org CNAME .
+;
+; s626391.hs.eloqua.com disguised trackers
+;
+tracking.health.lexmed.com CNAME .
+;
+; s1445544.hs.eloqua.com disguised trackers
+;
+tracking.health.tmcaz.com CNAME .
 ;
 ; s1022.hs.eloqua.com disguised trackers
 ;
@@ -4801,6 +5193,10 @@ tracking.igloosoftware.com CNAME .
 ;
 tracking.info.ivanti.com CNAME .
 ;
+; s619564847.hs.eloqua.com disguised trackers
+;
+tracking.info.methodisthealthsystem.org CNAME .
+;
 ; s956780691.hs.eloqua.com disguised trackers
 ;
 tracking.info.rcgt.com CNAME .
@@ -4808,14 +5204,23 @@ tracking.info.rcgt.com CNAME .
 ; s1733242902.hs.eloqua.com disguised trackers
 ;
 tracking.info.sailpoint.com CNAME .
-;
-; s1133.hs.eloqua.com disguised trackers
-;
-tracking.info.servicenow.com CNAME .
+tracking.sailpoint.com CNAME .
 ;
 ; s998125501.hs.eloqua.com disguised trackers
 ;
 tracking.insperity.com CNAME .
+;
+; s1988571858.hs.eloqua.com disguised trackers
+;
+tracking.janssenmedicalcloud.nl CNAME .
+;
+; s1836.hs.eloqua.com disguised trackers
+;
+tracking.kenblanchard.com CNAME .
+;
+; s1731913720.hs.eloqua.com disguised trackers
+;
+tracking.kubota.ca CNAME .
 ;
 ; s869025237.hs.eloqua.com disguised trackers
 ;
@@ -4825,13 +5230,9 @@ tracking.laurelsprings.com CNAME .
 ;
 tracking.learn.oakstreethealth.com CNAME .
 ;
-; s1717.hs.eloqua.com disguised trackers
+; s4561833.hs.eloqua.com disguised trackers
 ;
-tracking.lenovo.com CNAME .
-;
-; s1407994545.hs.eloqua.com disguised trackers
-;
-tracking.lincolnfinancialgroup.lfg.com CNAME .
+tracking.link.boone.health CNAME .
 ;
 ; s732646936.hs.eloqua.com disguised trackers
 ;
@@ -4842,13 +5243,17 @@ tracking.liwest.at CNAME .
 tracking.mail.ti.com CNAME .
 tracking.mail.ti.com.cn CNAME .
 ;
+; s669149.hs.eloqua.com disguised trackers
+;
+tracking.marketing.frequentis.com CNAME .
+;
+; s366083.hs.eloqua.com disguised trackers
+;
+tracking.mattersurfaces.com CNAME .
+;
 ; s1011041821.hs.eloqua.com disguised trackers
 ;
 tracking.max.co.il CNAME .
-;
-; s73756918.hs.eloqua.com disguised trackers
-;
-tracking.mkt-email.samsungsds.com CNAME .
 ;
 ; s908331520.hs.eloqua.com disguised trackers
 ;
@@ -4863,20 +5268,21 @@ tracking.regus.com CNAME .
 ;
 tracking.nasdaq.com CNAME .
 ;
+; s1439730185.hs.eloqua.com disguised trackers
+;
+tracking.netsuite.com CNAME .
+;
 ; s2071357376.hs.eloqua.com disguised trackers
 ;
 tracking.nissan-dubai.com CNAME .
 ;
+; s898424206.hs.eloqua.com disguised trackers
+;
+tracking.oceaneering.com CNAME .
+;
 ; s19892481.hs.eloqua.com disguised trackers
 ;
 tracking.oldnational.com CNAME .
-;
-; s1427524768.hs.eloqua.com disguised trackers
-;
-tracking.online.wisc.edu CNAME .
-tracking.pdc.wisc.edu CNAME .
-tracking.precollege.wisc.edu CNAME .
-tracking.summer.wisc.edu CNAME .
 ;
 ; s5020318.hs.eloqua.com disguised trackers
 ;
@@ -4885,10 +5291,6 @@ tracking.opentable.com CNAME .
 ; s242670.hs.eloqua.com disguised trackers
 ;
 tracking.oppd.com CNAME .
-;
-; s1920192983.hs.eloqua.com disguised trackers
-;
-tracking.pella.com CNAME .
 ;
 ; s459912.hs.eloqua.com disguised trackers
 ;
@@ -4902,9 +5304,25 @@ tracking.pepsicopartners.com CNAME .
 ;
 tracking.petrelocation.com CNAME .
 ;
+; s468810993.hs.eloqua.com disguised trackers
+;
+tracking.pgi.com CNAME .
+;
+; s1450716703.hs.eloqua.com disguised trackers
+;
+tracking.precisely.com CNAME .
+;
+; s1477570687.hs.eloqua.com disguised trackers
+;
+tracking.prophix.com CNAME .
+;
 ; s459519.hs.eloqua.com disguised trackers
 ;
 tracking.protective.com CNAME .
+;
+; s2826.hs.eloqua.com disguised trackers
+;
+tracking.ptc.com CNAME .
 ;
 ; s1505979.hs.eloqua.com disguised trackers
 ;
@@ -4915,35 +5333,27 @@ tracking.reply.dpacnc.com CNAME .
 ;
 tracking.schneider.com CNAME .
 ;
-; s839047.hs.eloqua.com disguised trackers
+; s1965211.hs.eloqua.com disguised trackers
 ;
-tracking.seakeeper.com CNAME .
+tracking.selective.com CNAME .
 ;
 ; s576132794.hs.eloqua.com disguised trackers
 ;
 tracking.service.cz.nl CNAME .
 www.service.cz.nl CNAME .
 ;
-; s1799992300.hs.eloqua.com disguised trackers
-;
-tracking.sierrawireless.com CNAME .
-;
-; s1387486446.hs.eloqua.com disguised trackers
-;
-tracking.singlestore.com CNAME .
-;
-; s499344317.hs.eloqua.com disguised trackers
-;
-tracking.smartbets.com CNAME .
-tracking.wettfreunde.net CNAME .
-;
 ; s1832.hs.eloqua.com disguised trackers
 ;
 tracking.stemcell.com CNAME .
 ;
-; s1819762567.hs.eloqua.com disguised trackers
+; s3292856.hs.eloqua.com disguised trackers
 ;
-tracking.tdk.com CNAME .
+tracking.stihl.be CNAME .
+tracking.stihl.de CNAME .
+tracking.stihl.es CNAME .
+tracking.stihl.fr CNAME .
+tracking.stihl.nl CNAME .
+tracking.stihl.pt CNAME .
 ;
 ; s441910513.hs.eloqua.com disguised trackers
 ;
@@ -4966,35 +5376,45 @@ tracking.unisabana.edu.co CNAME .
 ;
 tracking.usj.es CNAME .
 ;
-; s1120.hs.eloqua.com disguised trackers
+; s301091484.hs.eloqua.com disguised trackers
 ;
-tracking.verisk.com CNAME .
-w3.air-worldwide.com CNAME .
+tracking.utas.edu.au CNAME .
+;
+; s499344317.hs.eloqua.com disguised trackers
+;
+tracking.vegasinsider.com CNAME .
 ;
 ; s1389013426.hs.eloqua.com disguised trackers
 ;
 tracking.veritas.com CNAME .
 ;
-; s157200592.hs.eloqua.com disguised trackers
-;
-tracking.vertiv.com CNAME .
-tracking.vertivco.com CNAME .
-;
 ; s1125168648.hs.eloqua.com disguised trackers
 ;
 tracking.virtus.com CNAME .
+;
+; s1625795586.hs.eloqua.com disguised trackers
+;
+tracking.visitdubai.com CNAME .
+;
+; s1143965458.hs.eloqua.com disguised trackers
+;
+tracking.yealink.com.cn CNAME .
+;
+; s115328572.hs.eloqua.com disguised trackers
+;
+tracking1.cignaglobalhealth.com CNAME .
 ;
 ; s345548666.hs.eloqua.com disguised trackers
 ;
 tracking1.tena.com CNAME .
 ;
-; s1472843.hs.eloqua.com disguised trackers
-;
-tracking2.labcorp.com CNAME .
-;
 ; s1234457786.hs.eloqua.com disguised trackers
 ;
 trackingcareers.accenture.com CNAME .
+;
+; s1136099696.hs.eloqua.com disguised trackers
+;
+trackinginternal.ti.com CNAME .
 ;
 ; s1122776361.hs.eloqua.com disguised trackers
 ;
@@ -5007,6 +5427,10 @@ tracks1.ferrari.com CNAME .
 ; s171237132.hs.eloqua.com disguised trackers
 ;
 tracks3.ferrari.com CNAME .
+;
+; s418514676.hs.eloqua.com disguised trackers
+;
+tradeshow.edm.globalsources.com CNAME .
 ;
 ; s468913550.hs.eloqua.com disguised trackers
 ;
@@ -5023,13 +5447,12 @@ trk.routesonline.com CNAME .
 ;
 trk.admmontreal.com CNAME .
 trk.admtoronto.com CNAME .
+trk.advancedmanufacturingminneapolis.com CNAME .
+trk.designcon.com CNAME .
 trk.designnews.com CNAME .
 trk.mddionline.com CNAME .
 trk.packagingdigest.com CNAME .
 trk.plasticstoday.com CNAME .
-trk.powderandbulksolids.com CNAME .
-trk.thebatteryshow.eu CNAME .
-trkime.informa.com CNAME .
 ;
 ; s230127911.hs.eloqua.com disguised trackers
 ;
@@ -5039,35 +5462,57 @@ trk.advisory.com CNAME .
 ;
 trk.americancityandcounty.com CNAME .
 trk.iwceexpo.com CNAME .
+trk.urgentcomm.com CNAME .
+;
+; s46849916.hs.eloqua.com disguised trackers
+;
+trk.beefmagazine.com CNAME .
+trk.farmprogress.com CNAME .
+trk.feedstuffs.com CNAME .
+trk.nationalhogfarmer.com CNAME .
 ;
 ; s930.hs.eloqua.com disguised trackers
 ;
 trk.business.westernunion.co.uk CNAME .
 trk.business.westernunion.com CNAME .
+trk.business.westernunion.de CNAME .
 trk.convera.com CNAME .
 trk.en-cz.business.westernunion.com CNAME .
 trk.en.business.westernunion.ch CNAME .
-trk.fr.business.westernunion.ch CNAME .
+trk.en.business.westernunion.pl CNAME .
+;
+; s1758221812.hs.eloqua.com disguised trackers
+;
+trk.catersource-cfp.com CNAME .
+trk.informaconnect.com CNAME .
 ;
 ; s1252280979.hs.eloqua.com disguised trackers
 ;
 trk.contentmarketinginstitute.com CNAME .
+;
+; s2150.hs.eloqua.com disguised trackers
+;
+trk.darkreading.com CNAME .
+trk.enterpriseconnect.com CNAME .
+trk.gamedeveloper.com CNAME .
+trk.gdconf.com CNAME .
+trk.informationweek.com CNAME .
+trk.interop.com CNAME .
+trk.networkcomputing.com CNAME .
+trk.nojitter.com CNAME .
+;
+; s958641.hs.eloqua.com disguised trackers
+;
+trk.emeadatacenter.services.global.ntt CNAME .
 ;
 ; s1346786309.hs.eloqua.com disguised trackers
 ;
 trk.fintechfutures.com CNAME .
 trk.wealthmanagement.com CNAME .
 ;
-; s1943367007.hs.eloqua.com disguised trackers
+; s2044559064.hs.eloqua.com disguised trackers
 ;
-trk.food-management.com CNAME .
-trk.nrn.com CNAME .
-trk.restaurant-hospitality.com CNAME .
-trk.supermarketnews.com CNAME .
-;
-; s1931078500.hs.eloqua.com disguised trackers
-;
-trk.magicfashionevents.com CNAME .
+trk.go.ingrammicrocloud.com CNAME .
 ;
 ; s736811171.hs.eloqua.com disguised trackers
 ;
@@ -5082,6 +5527,15 @@ trk.metronetbusiness.com CNAME .
 ;
 trk.mktg.nec.com CNAME .
 ;
+; s1943367007.hs.eloqua.com disguised trackers
+;
+trk.nrn.com CNAME .
+trk.supermarketnews.com CNAME .
+;
+; s1860958887.hs.eloqua.com disguised trackers
+;
+trk.thinkhdi.com CNAME .
+;
 ; s434533438.hs.eloqua.com disguised trackers
 ;
 trk.wardsauto.com CNAME .
@@ -5090,13 +5544,21 @@ trk.wardsauto.com CNAME .
 ;
 trk01.iotworldtoday.com CNAME .
 ;
-; s2677.hs.eloqua.com disguised trackers
+; s2666.hs.eloqua.com disguised trackers
 ;
-updates.gaylordhotels.com CNAME .
+uk.partner.equifax.co.uk CNAME .
 ;
-; s2073603363.hs.eloqua.com disguised trackers
+; s604585655.hs.eloqua.com disguised trackers
 ;
-us.ricoh-usa.com CNAME .
+ukri.innovateuk.org CNAME .
+;
+; s727676569.hs.eloqua.com disguised trackers
+;
+user.sensorsdata.cn CNAME .
+;
+; s1404211527.hs.eloqua.com disguised trackers
+;
+uxplora.davivienda.com CNAME .
 ;
 ; s1824193043.hs.eloqua.com disguised trackers
 ;
@@ -5111,17 +5573,25 @@ visit.hypertherm.com CNAME .
 ;
 visit.tafensw.edu.au CNAME .
 ;
+; s1267532.hs.eloqua.com disguised trackers
+;
+visitor.arabiancentres.com CNAME .
+;
+; s1033755224.hs.eloqua.com disguised trackers
+;
+vois.vodafone.com CNAME .
+;
 ; s434397.hs.eloqua.com disguised trackers
 ;
 web.care.eehealth.org CNAME .
 ;
+; s2048513312.hs.eloqua.com disguised trackers
+;
+web.care.mclaren.org CNAME .
+;
 ; s4758959.hs.eloqua.com disguised trackers
 ;
 web.care.mhs.net CNAME .
-;
-; s2698233.hs.eloqua.com disguised trackers
-;
-web.care.northoaks.org CNAME .
 ;
 ; s1595272163.hs.eloqua.com disguised trackers
 ;
@@ -5131,25 +5601,29 @@ web.care.sheppardpratt.org CNAME .
 ;
 web.care.wakemed.org CNAME .
 ;
+; s796254624.hs.eloqua.com disguised trackers
+;
+web.devry.edu CNAME .
+;
 ; s2287589.hs.eloqua.com disguised trackers
 ;
 web.health.childrenswi.org CNAME .
 ;
-; s984275552.hs.eloqua.com disguised trackers
+; s1923607.hs.eloqua.com disguised trackers
 ;
-web.health.memorialcare.org CNAME .
+web.health.hannibalregional.org CNAME .
+;
+; s4805455.hs.eloqua.com disguised trackers
+;
+web.healthcare.northbay.org CNAME .
 ;
 ; s5267799.hs.eloqua.com disguised trackers
 ;
 web.houstontexans.com CNAME .
 ;
-; s220745253.hs.eloqua.com disguised trackers
+; s1510886.hs.eloqua.com disguised trackers
 ;
-web.northwestern.nm.org CNAME .
-;
-; s393074.hs.eloqua.com disguised trackers
-;
-web.wearejust.co.uk CNAME .
+website-tracking.smartx.com CNAME .
 ;
 ; s1711294798.hs.eloqua.com disguised trackers
 ;
@@ -5158,10 +5632,6 @@ webtracking.aucmed.edu CNAME .
 ; s1683655354.hs.eloqua.com disguised trackers
 ;
 webtracking.becker.com CNAME .
-;
-; s125869073.hs.eloqua.com disguised trackers
-;
-webtracking.chamberlain.edu CNAME .
 ;
 ; s1349436993.hs.eloqua.com disguised trackers
 ;
@@ -5175,29 +5645,51 @@ webtracking.oncourselearning.com CNAME .
 ;
 welcome.item24.cz CNAME .
 ;
-; s418793455.hs.eloqua.com disguised trackers
+; s1109.hs.eloqua.com disguised trackers
 ;
-www.dheerajrealitydemo.com CNAME .
+www-105.aig.com CNAME .
+www-107.aig.com CNAME .
 ;
-; s218036981.hs.eloqua.com disguised trackers
+; s698935272.hs.eloqua.com disguised trackers
 ;
-www.eventos-ins.com CNAME .
+www.acpprograms.org CNAME .
+;
+; s1988200405.hs.eloqua.com disguised trackers
+;
+www.dlabiznesu.pracuj.pl CNAME .
+;
+; s208085525.hs.eloqua.com disguised trackers
+;
+www.fordprotectplans.com CNAME .
 ;
 ; s1894139733.hs.eloqua.com disguised trackers
 ;
-www.learn.dunnhumby.com CNAME .
+www.info.dunnhumby.com CNAME .
+www.science.dunnhumby.com CNAME .
 ;
 ; s2090047988.hs.eloqua.com disguised trackers
 ;
 www.mkt.uvg.edu.gt CNAME .
 ;
-; s1606748220.hs.eloqua.com disguised trackers
+; s911788392.hs.eloqua.com disguised trackers
 ;
-www.solutions.prudential.com CNAME .
+www.safety.dupont.com CNAME .
 ;
-; s84397462.hs.eloqua.com disguised trackers
+; s925075083.hs.eloqua.com disguised trackers
 ;
-www.zakelijk.cz.nl CNAME .
+www.secondmicrosite.com CNAME .
+;
+; s1406731827.hs.eloqua.com disguised trackers
+;
+www.secure.rc-club.ricoh.co.jp CNAME .
+;
+; s1649212464.hs.eloqua.com disguised trackers
+;
+www.send.hollandcasino.nl CNAME .
+;
+; s2101555135.hs.eloqua.com disguised trackers
+;
+www2.info.renesas.cn CNAME .
 ;
 ; s1755874914.hs.eloqua.com disguised trackers
 ;

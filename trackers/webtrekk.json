@@ -143,6 +143,7 @@
   "scout.bergfreunde.fi": "img.bergfreunde.wt-eu02.net",
   "scout.bergfreunde.it": "img.bergfreunde.wt-eu02.net",
   "scout.bergfreunde.nl": "img.bergfreunde.wt-eu02.net",
+  "scout.bergfreunde.no": "img.bergfreunde.wt-eu02.net",
   "scout.bergfreunde.se": "img.bergfreunde.wt-eu02.net",
   "spr.bild.de": "bild01.webtrekk.net",
   "spr.welt.de": "welt-01.wt-eu02.net",
@@ -256,7 +257,6 @@
   "web.newsletter.viviennewestwood.com": "964869656656022.wt-eu02.net",
   "web.online.monnalisa.com": "819363623263983.wt-eu02.net",
   "web.pages.lloydspharmacy.com": "676623818960096.wt-eu02.net",
-  "web.s.sasrx.com": "554833903189763.wt-eu02.net",
   "web.sensilab.com": "151836596491843.wt-eu02.net",
   "web.sensilab.de": "151836596491843.wt-eu02.net",
   "web.sensilab.ie": "151836596491843.wt-eu02.net",
@@ -315,5 +315,6 @@
   "wttd.madeleine.com": "madeleineprod01.wt-eu02.net",
   "wttd.madeleine.de": "madeleineprod01.wt-eu02.net",
   "wttd.madeleine.fr": "madeleineprod01.wt-eu02.net",
-  "wttd.madeleine.gr": "madeleineprod01.wt-eu02.net"
+  "wttd.madeleine.gr": "madeleineprod01.wt-eu02.net",
+  "www7.springer.com": "springergmbh01.webtrekk.net"
 }

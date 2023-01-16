@@ -5,6 +5,7 @@
 !
 ||c333.macworld.co.uk^
 ||partners.time.com^
+||sponsor.syracuse.com^
 !
 ! ntvpforever.com disguised trackers
 !
@@ -29,9 +30,11 @@
 ||1ed960d6ad.fa479896c7.com^
 ||2093b71876.d2c273238b.com^
 ||20cbc85129.fc455e7809.com^
+||22aa4458dc.c42f556ff8.com^
 ||2547cd401b.d8a452e2da.com^
 ||26e33d5110.b91c577b4d.com^
 ||2c9ed85c0b.b2acafb3a3.com^
+||2d56aafb14.8767fbfa8b.com^
 ||2efa46ca31.da03ab7249.com^
 ||310fdbd5d8.a9e8387c9e.com^
 ||32b7b3da4e.a0e54ba172.com^
@@ -48,7 +51,6 @@
 ||41f8a60477.cd4fb281e1.com^
 ||434d80d136.a07d30aaf0.com^
 ||46fe7fa264.4d2a483049.com^
-||48260aa935.f3a173b897.com^
 ||48c1f78392.31f4ea3b17.com^
 ||4909cc6acc.0fc32b5283.com^
 ||497a1141f1.23d097de11.com^
@@ -76,17 +78,21 @@
 ||68787fa2a4.0439c255ac.com^
 ||699e46a3ca.e11c0ad270.com^
 ||6ab791d164.d409401d80.com^
+||6aca58cba6.106cdb2259.com^
 ||6d39ef5c0b.7002fca3a7.com^
 ||6df506d68b.1708f2b5f1.com^
 ||6e1d97d906.e3151012c3.com^
 ||6e9ba1e2dd.14a5dfca9f.com^
 ||6ef94a502b.64134c91b6.com^
 ||72ffc1edfd.f6d56854f2.com^
+||735149c0f3.f5d46bef1b.com^
 ||740e3dd5cf.71a3fd0954.com^
 ||74ae08c95d.364a426c46.com^
 ||7734af9d7a.854a08a35e.com^
 ||780f961964.b3fb511da0.com^
+||790d5944bd.7d1f2e00ed.com^
 ||79a0430857.7c56087863.com^
+||7a8ba6e850.bc40aaccb7.com^
 ||7b7a5435b5.5dd044e588.com^
 ||7ddfe7bb78.1eb76ce5b7.com^
 ||7ee6aa4a84.102168588b.com^
@@ -95,6 +101,7 @@
 ||8654683419.6ab77a3dad.com^
 ||865a159ba5.d7739252ca.com^
 ||898dd5a858.a06e054b4c.com^
+||8a7f64eb48.5a46c72f0e.com^
 ||8a86cfec6c.db4a1656b5.com^
 ||8bd9187370.468a044700.com^
 ||8bf1e6c762.bcd7ad4271.com^
@@ -106,6 +113,7 @@
 ||92f28752df.840df00e08.com^
 ||93684a0a94.f57fbf2b51.com^
 ||95113b3bd8.9d36cf3402.com^
+||951dff5c64.8507feaa71.com^
 ||95797ef4d7.413dfe9f11.com^
 ||96b76b02f1.49af7cee19.com^
 ||98028f4b73.c9b501fef3.com^
@@ -135,12 +143,14 @@
 ||babcca7fba.dca8d1600b.com^
 ||bcdb664dff.0d356de9ef.com^
 ||bd2bc05960.47daeb1eac.com^
+||bd2ca6c82d.20e2b2c425.com^
 ||bfe70bbd52.23182b9851.com^
 ||bfe8a1874d.bdced8843e.com^
 ||c0b0be585f.581c933842.com^
 ||c0feed95eb.1b1c88d5e6.com^
 ||c14f40b010.3574fd3373.com^
 ||c1dfd30227.86c9ac4797.com^
+||c338db0af4.92291944cd.com^
 ||c353ac05ea.b0fea47e81.com^
 ||c4045fee5e.90cd7fb7ca.com^
 ||c504d3250f.52c9f48b14.com^
@@ -168,6 +178,7 @@
 ||e341c11575.f63f3176ad.com^
 ||e7cb682ade.7c3d7c5dec.com^
 ||e8609911b3.c785e43db1.com^
+||e87b92329f.64eab1d337.com^
 ||ea6e4578d7.bdd16c6bbf.com^
 ||ead24c804a.5064389743.com^
 ||eb37b1d1a5.98a54df250.com^
@@ -188,9 +199,7 @@
 !
 ! postrelease.com disguised trackers
 !
-||a235.chron.com^
-||a235.sfgate.com^
-||a235.timesunion.com^
+||a235.newstimes.com^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 !
@@ -205,11 +214,14 @@
 !
 ! unavailable.hearstnp.com disguised trackers
 !
+||a235.chron.com^
 ||a235.mrt.com^
 ||a235.newstimes.com^
 ||a235.registercitizen.com^
+||a235.sfgate.com^
 ||a235.stamfordadvocate.com^
 ||a235.thehour.com^
+||a235.timesunion.com^
 !
 ! partners-time-com-prod.edgeserving.com disguised trackers
 !

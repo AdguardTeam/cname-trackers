@@ -4,12 +4,14 @@
 ; extole.com disguised trackers
 ;
 amis.keurig.ca CNAME .
+chubclub.chubbiesshorts.com CNAME .
 francais.refer.vonage.ca CNAME .
 friend.ebags.com CNAME .
 friend.sharefile.com CNAME .
 friends.keurig.ca CNAME .
 friends.keurig.com CNAME .
 ilove.volusion.com CNAME .
+invite.toughmudder.com CNAME .
 r.gamerewind.nfl.com CNAME .
 refer-a-friend.trivantis.com CNAME .
 refer.aaas.org CNAME .
@@ -48,6 +50,7 @@ refer.luckyvitamin.com CNAME .
 refer.moo.com CNAME .
 refer.myplant.com CNAME .
 refer.nvidia.com CNAME .
+refer.offset.com CNAME .
 refer.ofx.com CNAME .
 refer.ooma.com CNAME .
 refer.opensky.com CNAME .
@@ -59,6 +62,7 @@ refer.petco.com CNAME .
 refer.purchasingpower.com CNAME .
 refer.sage.com CNAME .
 refer.shoesforcrews.com CNAME .
+refer.silvercar.com CNAME .
 refer.sperry.com CNAME .
 refer.talbots.com CNAME .
 refer.theleafchronicle.com CNAME .
@@ -81,6 +85,7 @@ share.indochino.com CNAME .
 share.na.sage.com CNAME .
 share.qalo.com CNAME .
 share.tenmarks.com CNAME .
+share.vimeo.com CNAME .
 share.wimp.no CNAME .
 share.worldmarket.com CNAME .
 sharethelove.teacollection.com CNAME .
@@ -90,12 +95,14 @@ tellapal.web.com CNAME .
 ;
 ; extole.io disguised trackers
 ;
-em8561.go2bank.com CNAME .
+amp.bfr.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
+get.lull.com CNAME .
 go.joinsizigi.com CNAME .
 groomrefer.petco.com CNAME .
+internalreferral.freshworks.com CNAME .
 jessica-test-numero-dos.extoleu.com CNAME .
 love.columbiacu.org CNAME .
 love.suncoastcreditunion.com CNAME .
@@ -112,6 +119,7 @@ refer.algaecal.com CNAME .
 refer.amerisleep.com CNAME .
 refer.art.com CNAME .
 refer.ashleyfurniture.com CNAME .
+refer.ashleyfurniturehomestore.com CNAME .
 refer.athleta.com CNAME .
 refer.athletawell.com CNAME .
 refer.awscloud.com CNAME .
@@ -120,6 +128,7 @@ refer.bananarepublic.com CNAME .
 refer.bareminerals.com CNAME .
 refer.bareminerals.fr CNAME .
 refer.bareminerals.uk CNAME .
+refer.barharbor.bank CNAME .
 refer.barnandwillow.com CNAME .
 refer.batesfootwear.com CNAME .
 refer.bathandbodyworks.com CNAME .
@@ -134,6 +143,7 @@ refer.burtsbees.com CNAME .
 refer.caavo.com CNAME .
 refer.cacique.com CNAME .
 refer.calo.app CNAME .
+refer.canoos.com CNAME .
 refer.catfootwear.com CNAME .
 refer.centier.com CNAME .
 refer.chacos.com CNAME .
@@ -142,6 +152,7 @@ refer.chicos.com CNAME .
 refer.chicosofftherack.com CNAME .
 refer.childrensplace.com CNAME .
 refer.cinemark.com CNAME .
+refer.clarksusa.com CNAME .
 refer.codecademy.com CNAME .
 refer.comfortzoneskin.com CNAME .
 refer.competitivecyclist.com CNAME .
@@ -185,7 +196,6 @@ refer.hushpuppies.com CNAME .
 refer.indeed.com CNAME .
 refer.issaonline.com CNAME .
 refer.itcosmetics.com CNAME .
-refer.jiffynewark.com CNAME .
 refer.join1440.com CNAME .
 refer.juicepress.com CNAME .
 refer.keds.com CNAME .
@@ -218,6 +228,7 @@ refer.ouidad.com CNAME .
 refer.pacsafe.com CNAME .
 refer.perriconemd.com CNAME .
 refer.pimsleur.com CNAME .
+refer.princess.com CNAME .
 refer.prokeds.com CNAME .
 refer.psecu.com CNAME .
 refer.pureology.com CNAME .
@@ -235,6 +246,7 @@ refer.saatvadreams.com CNAME .
 refer.saatvamattress.com CNAME .
 refer.samedelman.com CNAME .
 refer.saucony.com CNAME .
+refer.scoresense.com CNAME .
 refer.sharkclean.com CNAME .
 refer.skinceuticals.com CNAME .
 refer.skyone.org CNAME .
@@ -252,20 +264,25 @@ refer.take5oilchange.com CNAME .
 refer.tatcha.com CNAME .
 refer.taxact.com CNAME .
 refer.teladoc.com CNAME .
+refer.teladochealth.com CNAME .
 refer.terijon.com CNAME .
 refer.thecompanystore.com CNAME .
 refer.theinside.com CNAME .
 refer.thepopcornfactory.com CNAME .
 refer.thesculptsociety.com CNAME .
 refer.thewildest.com CNAME .
+refer.tomorrowsleep.com CNAME .
 refer.tous.com CNAME .
 refer.twisthair.com CNAME .
 refer.underarmour.co.uk CNAME .
 refer.underarmour.de CNAME .
+refer.underarmour.es CNAME .
 refer.underarmour.fr CNAME .
+refer.underarmour.it CNAME .
 refer.underarmour.nl CNAME .
 refer.us.davines.com CNAME .
 refer.vayasleep.com CNAME .
+refer.vincecamuto.com CNAME .
 refer.whitehouseblackmarket.com CNAME .
 refer.wine.com CNAME .
 refer.wolverine.com CNAME .
@@ -353,6 +370,7 @@ share.hanacure.com CNAME .
 share.hicapitalize.com CNAME .
 share.hotwire.com CNAME .
 share.hydropeptide.com CNAME .
+share.inspirecleanenergy.com CNAME .
 share.installamerica.com CNAME .
 share.ipage.com CNAME .
 share.iteach.net CNAME .
@@ -367,8 +385,10 @@ share.mamabearlegalforms.com CNAME .
 share.manscaped.com CNAME .
 share.medely.com CNAME .
 share.meettally.com CNAME .
+share.mtntough.com CNAME .
 share.myollie.com CNAME .
 share.myq.com CNAME .
+share.newarkadvocate.com CNAME .
 share.newtonbaby.com CNAME .
 share.obagi.com CNAME .
 share.ollocard.com CNAME .
@@ -421,6 +441,7 @@ share.uk.theory.com CNAME .
 share.unchartedsociety.com CNAME .
 share.united.net CNAME .
 share.usatoday.com CNAME .
+share.vcstar.com CNAME .
 share.veo.co CNAME .
 share.veritycu.com CNAME .
 share.vichyusa.com CNAME .

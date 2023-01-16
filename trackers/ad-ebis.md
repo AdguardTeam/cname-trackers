@@ -137,6 +137,7 @@
     * 8ed0e67d-gy66xg6s.cname.ebis.ne.jp
     * 8f087789-nkcrsmeh.cname.ebis.ne.jp
     * 8f5032fb-baawdyfz.cname.ebis.ne.jp
+    * 91378a87-vpwtermg.cname.ebis.ne.jp
     * 917e1794-a9hmqa9q.cname.ebis.ne.jp
     * 92a7d885-sz3ynfbf.cname.ebis.ne.jp
     * 93269da3-jabnwha0.cname.ebis.ne.jp
@@ -243,7 +244,6 @@
     * f3054804-quxzshgd.cname.ebis.ne.jp
     * f923e064-jwm2vvcx.cname.ebis.ne.jp
     * f9aa3ceb-qaud3usr.cname.ebis.ne.jp
-    * faaf3154-scxitlgt.cname.ebis.ne.jp
     * fc192e57-yfrcguru.cname.ebis.ne.jp
     * fc83fd61-digitalgarage.cname.ebis.ne.jp
     * fe1d7165-mmpoiy89.cname.ebis.ne.jp
@@ -386,6 +386,7 @@
 | os.beauty-health.today | 8ed0e67d-gy66xg6s.cname.ebis.ne.jp |
 | cname.finess.jp | 8f087789-nkcrsmeh.cname.ebis.ne.jp |
 | adebis.shinseibank.com | 8f5032fb-baawdyfz.cname.ebis.ne.jp |
+| aaaa.nocor.jp | 91378a87-vpwtermg.cname.ebis.ne.jp |
 | ebis.shabon.com | 917e1794-a9hmqa9q.cname.ebis.ne.jp |
 | ebis.umulin-lab.com | 92a7d885-sz3ynfbf.cname.ebis.ne.jp |
 | adebis.kamada.co.jp | 93269da3-jabnwha0.cname.ebis.ne.jp |
@@ -492,7 +493,6 @@
 | ebis2020.hoiku-job.net | f3054804-quxzshgd.cname.ebis.ne.jp |
 | adebis.e-ohaka.com | f923e064-jwm2vvcx.cname.ebis.ne.jp |
 | ebis.kan54.jp | f9aa3ceb-qaud3usr.cname.ebis.ne.jp |
-| cs0113sbeda.convenient-smooth.net | faaf3154-scxitlgt.cname.ebis.ne.jp |
 | ebis.funai-finance.com | fc192e57-yfrcguru.cname.ebis.ne.jp |
 | adebis.lifestylemag.jp | fc83fd61-digitalgarage.cname.ebis.ne.jp |
 | axjfkc.kobayashi.co.jp | fe1d7165-mmpoiy89.cname.ebis.ne.jp |

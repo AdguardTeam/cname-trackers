@@ -15,6 +15,7 @@
 ||6swu.cpa-france.org^
 ||7lbd4.armandthiery.fr^
 ||7mx.eider.com^
+||7mx.eidershop.com^
 ||8ezc.sfr.fr^
 ||a.oney.es^
 ||a.perfumesclub.com^
@@ -57,6 +58,7 @@
 ||ct5m.citadium.com^
 ||ctp1.bforbank.com^
 ||cvi6.destinia.qa^
+||cyf9.destinia.cl^
 ||def1.optimhome-recrutement.com^
 ||deut1.fdj.fr^
 ||dko.vente-unique.nl^
@@ -154,7 +156,6 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
-||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||et.swatch.com^
 ||eule1.pmu.fr^
@@ -167,6 +168,7 @@
 ||eulerian.belambra.be^
 ||eulerian.belambra.fr^
 ||eulerian.canal-plus.com^
+||eulerian.eidershop.com^
 ||eulerian.look-voyages.fr^
 ||eulerian.madeindesign.com^
 ||eulerian.malakoffmederic.com^
@@ -200,6 +202,7 @@
 ||fzb5.laboratoire-giphar.fr^
 ||fzu4.bysidecar.com^
 ||g1be.swisslife-direct.fr^
+||gda1.coworkimmo.com^
 ||gdm1.toner.fr^
 ||gfn1.ugap.fr^
 ||gfv4.destinia.co.za^
@@ -239,7 +242,6 @@
 ||ltm6.destinia.se^
 ||ly8c.caci-online.fr^
 ||lzuc.sfr.fr^
-||m10.m1029.com^
 ||m3ds.subarumetropolitain.com^
 ||mfd.myfirstdressing.com^
 ||mgt7.madeindesign.it^
@@ -278,8 +280,10 @@
 ||ogb2.eauthermalejonzac.com^
 ||ogb2.leanatureboutique.com^
 ||ogb2.natessance.com^
+||ogb2.sobio-etic.com^
 ||oit4.destinia.com.br^
 ||ojm4.palladiumhotelgroup.com^
+||oo.ooshop.com^
 ||oph7o.montecarlosbm-corporate.com^
 ||oqr4.destinia.in^
 ||ouk7.grantalexander.com^
@@ -354,6 +358,7 @@
 ||t.locasun.nl^
 ||t.pmu.fr^
 ||t.voyages-sncf.com^
+||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tdf1.easyviaggio.com^
@@ -402,7 +407,6 @@
 ||wph2.destinia.us^
 ||xay5o.toscane-boutique.fr^
 ||xjq5.belambra.be^
-||xoq.pmubrasil.com.br^
 ||xuc.monteleone.fr^
 ||xy33.smallable.com^
 ||xya4.groupefsc.com^

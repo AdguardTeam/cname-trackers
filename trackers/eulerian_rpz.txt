@@ -15,6 +15,7 @@
 6swu.cpa-france.org CNAME .
 7lbd4.armandthiery.fr CNAME .
 7mx.eider.com CNAME .
+7mx.eidershop.com CNAME .
 8ezc.sfr.fr CNAME .
 a.oney.es CNAME .
 a.perfumesclub.com CNAME .
@@ -57,6 +58,7 @@ csv4.ebs-paris.fr CNAME .
 ct5m.citadium.com CNAME .
 ctp1.bforbank.com CNAME .
 cvi6.destinia.qa CNAME .
+cyf9.destinia.cl CNAME .
 def1.optimhome-recrutement.com CNAME .
 deut1.fdj.fr CNAME .
 dko.vente-unique.nl CNAME .
@@ -154,7 +156,6 @@ eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.swatch.com CNAME .
 eule1.pmu.fr CNAME .
@@ -167,6 +168,7 @@ eulerian.astro-way.com CNAME .
 eulerian.belambra.be CNAME .
 eulerian.belambra.fr CNAME .
 eulerian.canal-plus.com CNAME .
+eulerian.eidershop.com CNAME .
 eulerian.look-voyages.fr CNAME .
 eulerian.madeindesign.com CNAME .
 eulerian.malakoffmederic.com CNAME .
@@ -200,6 +202,7 @@ fsz1.francoisesaget.com CNAME .
 fzb5.laboratoire-giphar.fr CNAME .
 fzu4.bysidecar.com CNAME .
 g1be.swisslife-direct.fr CNAME .
+gda1.coworkimmo.com CNAME .
 gdm1.toner.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
@@ -239,7 +242,6 @@ lsv5.belambra.fr CNAME .
 ltm6.destinia.se CNAME .
 ly8c.caci-online.fr CNAME .
 lzuc.sfr.fr CNAME .
-m10.m1029.com CNAME .
 m3ds.subarumetropolitain.com CNAME .
 mfd.myfirstdressing.com CNAME .
 mgt7.madeindesign.it CNAME .
@@ -278,8 +280,10 @@ ogb2.biovie.com CNAME .
 ogb2.eauthermalejonzac.com CNAME .
 ogb2.leanatureboutique.com CNAME .
 ogb2.natessance.com CNAME .
+ogb2.sobio-etic.com CNAME .
 oit4.destinia.com.br CNAME .
 ojm4.palladiumhotelgroup.com CNAME .
+oo.ooshop.com CNAME .
 oph7o.montecarlosbm-corporate.com CNAME .
 oqr4.destinia.in CNAME .
 ouk7.grantalexander.com CNAME .
@@ -354,6 +358,7 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
+t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .
@@ -402,7 +407,6 @@ wlp3.aegon.es CNAME .
 wph2.destinia.us CNAME .
 xay5o.toscane-boutique.fr CNAME .
 xjq5.belambra.be CNAME .
-xoq.pmubrasil.com.br CNAME .
 xuc.monteleone.fr CNAME .
 xy33.smallable.com CNAME .
 xya4.groupefsc.com CNAME .

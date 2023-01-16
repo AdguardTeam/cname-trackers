@@ -11,6 +11,7 @@ k.cocooncenter.co.uk CNAME .
 k.cocooncenter.com CNAME .
 k.cocooncenter.de CNAME .
 k.cocooncenter.es CNAME .
+k.flynas.com CNAME .
 k.hofmann.es CNAME .
 k.laredoute.es CNAME .
 k.laredoute.pt CNAME .
@@ -21,6 +22,7 @@ k.voyageursdumonde.fr CNAME .
 ka.ilius.net CNAME .
 keyade.alltricks.fr CNAME .
 keyade.ooreka.fr CNAME .
+keyade.uniqlo.com CNAME .
 market-keyade.macif.fr CNAME .
 tck.photobox.com CNAME .
 ;

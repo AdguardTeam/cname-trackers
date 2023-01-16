@@ -65,7 +65,7 @@ albatross.mypromo.co
 albatross.ohseesoftware.com
 alligator.remotecyberwork.com
 alpaca.miidbaby.com
-alpaca.reclaimthenet.org
+alpaca.pkandc.com
 alpaca.thesocialmedwork.com
 alpaca.wingmantracker.com
 am2lma0ay.xrpmerchstore.com
@@ -77,7 +77,6 @@ angelfish.grayscale.design
 angelfish.owlbear.rodeo
 angelfish.wpsocialrocket.com
 anglerfish.pfolios.net
-anglerfish.tinydeskapp.com
 ant.prefinery.com
 anteater.audioadventuregame.com
 anteater.benborgers.com
@@ -107,7 +106,6 @@ asp.podlist.de
 asp.sepiasoft.eu
 azlej8cdm.pragmaticwebsecurity.com
 baboon.vacanti.com
-badger.bdon.org
 badger.bytesized.xyz
 badger.pager.app
 baldeagle.e-ma.re
@@ -136,12 +134,10 @@ bee.farmaciavdg.com
 bird.brondby.com
 bird.recruitkit.com.au
 bird.whopaystechnicalwriters.com
-bison.dublinofficeforrent.com
 bison.joshhanley.com.au
 bison.streamclocks.com
 bison.stuffmatic.com
 bison.weitweit.at
-blackbird.docstation.co
 blackbird.everythinginmoderation.co
 blackbird.marcelgil.com
 blackbird.stickerclub.org
@@ -212,7 +208,6 @@ cattle.spiral11.com
 cattle.weiss-bregenz.at
 centipede.buskersbern.ch
 centipede.davimug.com
-centipede.nilcollegeathletes.com
 centipede.roasted.dev
 centipede.wildbit.com
 centipede.yuv.al
@@ -432,7 +427,6 @@ heron.notability.com
 heron.oneaudiobooks.app
 heron.scarletnoir.co
 herring.panda.network
-hornet.jeffgable.com
 hornet.stechstudio.com
 horse.cubitcreative.com
 horse.deadmanssnitch.com
@@ -460,7 +454,6 @@ impala.vnv.nl
 jackal.jakerunzer.com
 jackal.laravelpackage.com
 jackal.thetie.io
-jay.brauerei-egg.at
 jay.breakup.management
 jcpjfyikk.dogbonemarket.com
 jellyfish.therapieplatz-finden.de
@@ -484,9 +477,10 @@ koi.fftf.cat
 koi.lkae.dev
 koi.omnimove.health
 koi.valleywestlandscapes.com
+koi.vyer.com
+krill.spoonrage.com
 ks42zt.spec.fm
 ladybug.cargolabs.com
-ladybug.dfour.space
 ladybug.ethanprintz.com
 ladybug.paulstovell.com
 landfowl.typegang.com
@@ -494,7 +488,7 @@ landsnail.bindle.io
 landsnail.brownfield.dev
 landsnail.garasjeport1.no
 lark.frugalweb.xyz
-leech.fuchsegg.at
+lark.pollie.dev
 leech.privacycloud.com
 leech.stargate-project.de
 lemming.nicolasmenard.com
@@ -517,15 +511,17 @@ locust.ausrebellion.earth
 loon.africanamericanjobsearch.com
 loon.analogjoe.com
 loon.ohmyfunds.com
+louse.16bit.it
 louse.messengo.com
 louse.seanconnolly.dev
 louse.sigle.io
 lungfish.datadividendproject.com
 lynx.bitefullbox.com
+lynx.inovo.io
 lynx.simpleparish.com
+macaw.myvaluefactory.com
 mackerel.fathom.cat
 mammal.autoidle.com
-manatee.creativepassport.net
 marlin.firstline.org
 marmoset.easycolour.app
 marmot.hippiemodernism.com
@@ -537,10 +533,8 @@ marten.emperor-creative.com
 marten.joqr.co.jp
 marten.supernero.app
 mastodon.internalnewsletters.co
-mastodon.thrustcarbon.com
 meadowlark.bump.sh
 meadowlark.psynapse.no
-meadowlark.tempus.im
 meerkat.bigcrazylife.com
 mink.faq-bregenzerwald.com
 minnow.clintwinter.me
@@ -592,6 +586,7 @@ panther.hoprnet.org
 panther.thestocks.im
 panther.tigil.rs
 parakeet.quotetweet.com
+parrot.binarymoon.co.uk
 parrotfish.wilderworld.com
 partridge.unfamiliar.land
 peacock.davidlevai.com
@@ -609,7 +604,6 @@ platypus.facet.net
 platypus.seniorstowork.com
 polarbear.codeday.org
 pony.ftm.cat
-pony.musicmixpro.co.uk
 porcupine.dvresolve.com
 porcupine.srhdesign.co.uk
 porpoise.fruittreecottage.com.au
@@ -617,19 +611,19 @@ prawn.fffuel.co
 prawn.samgarson.com
 primate.dmarcdigests.com
 ptarmigan.anthonyledonne.com
+ptarmigan.bridal-hair-and-accessories-now.com
 ptarmigan.q-free.com
 puffin.geocode.earth
 python.casuallyprivate.com
 python.mux.com
 quail.efix.uk
+quokka.bulkbuyhosting.com
 rabbit.radicalxchange.org
 rabbit.upwardhomes.net
-raccoon.donateflow.com
 rhinoceros.workforcreators.com
 roadrunner.ausmv.com.au
 rodent.beersport.com
 rook.behmann.at
-rook.deutz-fahramerica.com
 rook.moodgym.de
 roundworm.womeninjobs.com
 sailfish.kentcdodds.com
@@ -646,6 +640,7 @@ scorpion.indexforwp.com
 scorpion.smskmail.com
 seahorse.dexterityvisuals.com
 seahorse.okse.no
+shark.codeswitch.be
 sheep.vesperix.io
 silkworm.energizergrouplegal.com
 silkworm.westwoodmbc.org
@@ -653,6 +648,7 @@ silverfish.trustduty.com
 skink.asorman.io
 skink.madewithlove.com
 sloth.vguerrerobosch.com
+slug.sirenergies.com
 smelt.allenpike.com
 snipe.mizzuu.co
 sole.maraispatrimoine.com
@@ -660,8 +656,10 @@ sole.pretto.fr
 sparrow.collabwithpedal.com
 sparrow.uitvaartzorg-vanraemdonck.be
 sparrow.workingincontent.com
+spermwhale.floofarazzi.com
 spermwhale.thankbox.co
 spider.scottw.com
+spider.storiesofchang.com
 spoonbill.deknot.io
 spoonbill.memberkit.com.br
 squid.adart.cc
@@ -669,10 +667,12 @@ squid.antevo.com.au
 squid.dylancastillo.co
 squirrel.laravel-mix.com
 squirrel.malaynahocker.com
+starman-new.fathomdns.com
 starman.fathomdns.com
 starman.usefathom.com
 stingray.codecoolture.com
 stingray.reform.app
+stingray.tagedraussen-film.at
 stoat.death-to-ie11.com
 stork.ibite.company
 swallow.axiom.co
@@ -704,13 +704,13 @@ treefrog.kaffeknappen.no
 treefrog.mii-chi.app
 treefrog.tschmeisser.com
 treefrog.walkingwithdaddy.com
+trout.lgbtqinjobs.com
 trout.stocketa.com
-trout.travelmassive.com
+turkey.docsy.cloud
 turkey.tella.tv
 turtle.geshem.space
 uktgg.dev-tester.com
 vampirebat.datingmedellin.com
-vampirebat.git-tower.com
 vampirebat.sharpend.io
 vicuna.callisoma.com
 vicuna.casa-moebel.at
@@ -755,6 +755,7 @@ partners.madisonminutes.com
 partners.seetheworld.com
 saucon-sponsors.streetinteractive.com
 sponsor-v2.lebtown.com
+sponsors-v2.auctionzip.com
 sponsors-v2.automate.org
 sponsors-v2.floorforce.com
 sponsors-v2.locablepublishernetwork.com
@@ -770,13 +771,36 @@ support-v2.sweetwaternow.com
 #
 adserve.bongocdn.com
 #
+# starman.fathomdns.com disguised trackers
+#
+alpaca.reclaimthenet.org
+alpaca.thesocialmedwork.com
+anglerfish.tinydeskapp.com
+bison.dublinofficeforrent.com
+blackbird.docstation.co
+hornet.jeffgable.com
+jay.brauerei-egg.at
+jellyfish.therapieplatz-finden.de
+ladybug.dfour.space
+leech.fuchsegg.at
+lungfish.datadividendproject.com
+manatee.creativepassport.net
+marmot.theshootingcentre.com
+marten.emperor-creative.com
+mastodon.thrustcarbon.com
+meadowlark.bump.sh
+meadowlark.tempus.im
+raccoon.donateflow.com
+rook.deutz-fahramerica.com
+tortoise.transistor.fm
+treefrog.walkingwithdaddy.com
+trout.travelmassive.com
+turtle.geshem.space
+vampirebat.git-tower.com
+#
 # bannieres.b-cdn.net disguised trackers
 #
 assets.diagomics.com
-#
-# sublime-ads-cdn.b-cdn.net disguised trackers
-#
-assets.sublimeads.com
 #
 # cpmstar.b-cdn.net disguised trackers
 #

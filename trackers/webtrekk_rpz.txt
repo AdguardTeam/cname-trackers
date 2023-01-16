@@ -40,6 +40,7 @@ w3.flatex.nl CNAME .
 w3.vitrade.de CNAME .
 webts.adac.de CNAME .
 wt.distrelec.com CNAME .
+www7.springer.com CNAME .
 ;
 ; wt-eu02.net disguised trackers
 ;
@@ -172,6 +173,7 @@ scout.bergfreunde.eu CNAME .
 scout.bergfreunde.fi CNAME .
 scout.bergfreunde.it CNAME .
 scout.bergfreunde.nl CNAME .
+scout.bergfreunde.no CNAME .
 scout.bergfreunde.se CNAME .
 spr.welt.de CNAME .
 startrekk.flaconi.at CNAME .
@@ -265,7 +267,6 @@ web.newsletter.koffer-to-go.de CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.online.monnalisa.com CNAME .
 web.pages.lloydspharmacy.com CNAME .
-web.s.sasrx.com CNAME .
 web.sensilab.com CNAME .
 web.sensilab.de CNAME .
 web.sensilab.ie CNAME .

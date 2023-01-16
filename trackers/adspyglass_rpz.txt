@@ -11,6 +11,7 @@
 1d88r44d9t.nelasleaks.com CNAME .
 2022.hizetnet.xyz CNAME .
 2bx0h7o3zw.nelasleaks.com CNAME .
+5475feaab.clicknplay.to CNAME .
 58745.clicknplay.to CNAME .
 69741211.clicknplay.to CNAME .
 6cf0e7801e8cd.clicknplay.to CNAME .
@@ -65,6 +66,7 @@ a.pornhex.com CNAME .
 a.pumpity.net CNAME .
 a.ratihbugil.online CNAME .
 a.reryn2ce.com CNAME .
+a.streamoupload.xyz CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
 a.toongod.com CNAME .
@@ -155,10 +157,14 @@ asg.srvtax.com CNAME .
 asg.zzipps.com CNAME .
 asg1.xueserverhost.com CNAME .
 asg2.xueserverhost.com CNAME .
+asianporn.xyz.7mmtv.top CNAME .
+asianporn.xyz.jav-7mmtv.top CNAME .
 asp.hotfullvideos.com CNAME .
 atom.seotul.pics CNAME .
 audi.lol CNAME .
 av5.mofoshd.org CNAME .
+avgle.com.7mmtv.top CNAME .
+avgle.com.jav-7mmtv.top CNAME .
 awrfds3.pornpapa.com CNAME .
 ax4.xmoviesland.com CNAME .
 b.bloblohub.com CNAME .
@@ -171,6 +177,7 @@ b.sonorousporn.com CNAME .
 b1.hentaibaka.one CNAME .
 bac221.skin CNAME .
 backpub.mom CNAME .
+bambao.lol CNAME .
 banana.emailon.top CNAME .
 bc6dc48b743dc5d01.clicknplay.to CNAME .
 best.gobiga.xyz CNAME .
@@ -202,6 +209,7 @@ cdn1.delii2.art CNAME .
 cdn1.pop72i.art CNAME .
 cdn1.prroll2o.art CNAME .
 cdn3.cartoonporn.to CNAME .
+cdn3.feetjerk.com CNAME .
 cdn3.hentaihand.com CNAME .
 cdn3.hentaihaven.fun CNAME .
 cdn5.cartoonporn.to CNAME .
@@ -218,6 +226,7 @@ coinbaze.lol CNAME .
 coinzba.mom CNAME .
 comp.aniplay.it CNAME .
 cool.ah-me.com CNAME .
+cool.sunporno.com CNAME .
 costa.xsuffer.com CNAME .
 cowpaz.pics CNAME .
 cuckoiz.lol CNAME .
@@ -304,9 +313,18 @@ in.fuckhardclips.com CNAME .
 io.fapnado.com CNAME .
 ix2.deepsexvids.com CNAME .
 j45.webringporn.com CNAME .
+jav.guru.7mmtv.top CNAME .
+jav.guru.jav-7mmtv.top CNAME .
+javfinder.sb.7mmtv.top CNAME .
+javfinder.sb.jav-7mmtv.top CNAME .
+javgiga.com.7mmtv.top CNAME .
+javgiga.com.jav-7mmtv.top CNAME .
+javmost.cx.7mmtv.top CNAME .
+javmost.cx.jav-7mmtv.top CNAME .
 jikyjuu6.xsuffer.com CNAME .
 jira.xsuffer.com CNAME .
 jo.fapnado.xxx CNAME .
+js.j8jp.com CNAME .
 js.manga9.co CNAME .
 js.mangapro.top CNAME .
 js.xemkqxs.com CNAME .
@@ -321,6 +339,8 @@ khetlet.mom CNAME .
 khoa.jqk.lol CNAME .
 king.beov.lol CNAME .
 kingtus.pics CNAME .
+kissjav.li.7mmtv.top CNAME .
+kissjav.li.jav-7mmtv.top CNAME .
 kliqz.com CNAME .
 kuhdsysdas.indexsubtitle.com CNAME .
 kx4.firstsexfilm.com CNAME .
@@ -371,6 +391,8 @@ nonekvoi.skin CNAME .
 nope.addhentai.com CNAME .
 nope.sexaoy.com CNAME .
 nope.xn--mgbkt9eckr.net CNAME .
+nope.xn--ngbcrg3b.com CNAME .
+nope.xn--ygba1c.wtf CNAME .
 notads.111javguru.xyz CNAME .
 notads.111supjav.xyz CNAME .
 notads.111supjavcom.xyz CNAME .
@@ -389,6 +411,7 @@ oi.hqbang.com CNAME .
 oi.lesbianbliss.com CNAME .
 oi.transhero.com CNAME .
 oj.4wank.com CNAME .
+oj.fapnado.xxx CNAME .
 onetwohub.com CNAME .
 ontj.com CNAME .
 orderz.lol CNAME .
@@ -484,14 +507,19 @@ statement.blauenseville.buzz CNAME .
 stbvip.co CNAME .
 stbvip.mom CNAME .
 stuff.wikiporno.org CNAME .
+sub.empressleak.biz CNAME .
 subtitle.mom CNAME .
 sup.srvtax.com CNAME .
+super.koreanpornmovie.xyz CNAME .
+supjav.com.7mmtv.top CNAME .
+supjav.com.jav-7mmtv.top CNAME .
 support.streamjav.top CNAME .
 szj.boombay.xyz CNAME .
 taboizo.mom CNAME .
 talamk3.beauty CNAME .
 taoviep.mom CNAME .
 tb.turbocap.net CNAME .
+tech.moostream.top CNAME .
 tempro.lol CNAME .
 test2.maxx.ddac.ru CNAME .
 testcommon.soundrussian.com CNAME .
@@ -525,7 +553,10 @@ v2pro.stbvip.net CNAME .
 vavsnhau.mom CNAME .
 vd.7vid.net CNAME .
 video.jokanime.online CNAME .
+vjav.com.7mmtv.top CNAME .
+vjav.com.jav-7mmtv.top CNAME .
 vsx.hotpornfile.org CNAME .
+vtaos.xyz CNAME .
 vtaov.lol CNAME .
 vuiaki.mom CNAME .
 vuvlog.lol CNAME .
@@ -563,6 +594,7 @@ x2sfa.javgg.eu CNAME .
 xau.pongping.mom CNAME .
 xhandfuk.com CNAME .
 xn--q1a.bloblohub.com CNAME .
+xs213.javgg.club CNAME .
 xserve.zapurl.cc CNAME .
 xxxlove.rooski.net CNAME .
 xzillame.com CNAME .
@@ -575,7 +607,3 @@ zone.stripcam.tv CNAME .
 ; cdn66584302.blazingcdn.net disguised trackers
 ;
 cdn.manhwadesu.me CNAME .
-;
-; u53.hypnorat.com disguised trackers
-;
-ontj.com CNAME .

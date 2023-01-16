@@ -17,6 +17,7 @@ activate.dailysouthtown.com CNAME .
 activate.delmartimes.net CNAME .
 activate.encinitasadvocate.com CNAME .
 activate.gio.com.au CNAME .
+activate.growthspotter.com CNAME .
 activate.hoylosangeles.com CNAME .
 activate.lajollalight.com CNAME .
 activate.lanebryant.com CNAME .
@@ -212,6 +213,8 @@ nexus.ensighten.tiaa.org CNAME .
 nexus.libertymutual.com CNAME .
 nexus.mbna.ca CNAME .
 nexus.td.com CNAME .
+nexus.tdbank.com CNAME .
+nexus.tdinsurance.com CNAME .
 nexus.toyota.com CNAME .
 nexus.virginholidays.co.uk CNAME .
 p.pulse.buyatoyota.com CNAME .
@@ -234,6 +237,7 @@ pulse.rac.co.uk CNAME .
 pulse.sleepnumber.com CNAME .
 pulse.synergy.net.au CNAME .
 pulse.wyndhamhotels.com CNAME .
+secureanalytics.carecredit.com CNAME .
 secureanalytics.syf.com CNAME .
 secureanalytics.synchrony.com CNAME .
 secureanalytics.synchronycredit.com CNAME .
