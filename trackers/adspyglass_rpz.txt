@@ -25,7 +25,6 @@
 987656iuyyty.hotscopes.to CNAME .
 98tang.lol CNAME .
 a.123porner.com CNAME .
-a.44oo.icu CNAME .
 a.6vids.space CNAME .
 a.888x.cyou CNAME .
 a.abismo-katheryne.top CNAME .
@@ -44,7 +43,6 @@ a.emwstore.xyz CNAME .
 a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
-a.focusde.info CNAME .
 a.fuckamouth.com CNAME .
 a.hentai369.com CNAME .
 a.hentaitube.icu CNAME .
@@ -58,7 +56,6 @@ a.letsjerk.tv CNAME .
 a.manga18.site CNAME .
 a.marketing.com.sd CNAME .
 a.naturalhealthsource.club CNAME .
-a.neverbe.xyz CNAME .
 a.p123p.com CNAME .
 a.pinayviralsexx.com CNAME .
 a.pinoymoviepedia.ru CNAME .
@@ -96,6 +93,7 @@ ads.49inchporn.club CNAME .
 ads.al3ably.com CNAME .
 ads.free-to.download CNAME .
 ads.hentaiheart.com CNAME .
+ads.onetouchtv.me CNAME .
 ads.onlyfanspornvideo.com CNAME .
 ads.pornharlot.com CNAME .
 ads.pornharlot.net CNAME .
@@ -154,6 +152,7 @@ asg.shudhdesiporn.com CNAME .
 asg.somecdn.bid CNAME .
 asg.soundrussian.com CNAME .
 asg.srvtax.com CNAME .
+asg.titdumps.com CNAME .
 asg.zzipps.com CNAME .
 asg1.xueserverhost.com CNAME .
 asg2.xueserverhost.com CNAME .
@@ -178,6 +177,7 @@ b1.hentaibaka.one CNAME .
 bac221.skin CNAME .
 backpub.mom CNAME .
 bambao.lol CNAME .
+banana.arabtoons.net CNAME .
 banana.emailon.top CNAME .
 bc6dc48b743dc5d01.clicknplay.to CNAME .
 best.gobiga.xyz CNAME .
@@ -256,6 +256,7 @@ e.bloblohub.com CNAME .
 ebays.beauty CNAME .
 ebd.cda-hd.cc CNAME .
 ebd.cda-hd.co CNAME .
+ebod.7mmtv.top CNAME .
 eco.blendxxx.com CNAME .
 eep.pukachu.lol CNAME .
 eightlon.mom CNAME .
@@ -272,6 +273,7 @@ free.srcdn.xyz CNAME .
 free.stat.tk CNAME .
 freememes.desiceleb.top CNAME .
 fresh.tuiz.pics CNAME .
+fsdss.7mmtv.top CNAME .
 fx9.freepornoboss.com CNAME .
 g.bloblohub.com CNAME .
 g0dy.site CNAME .
@@ -281,6 +283,7 @@ gamestar.lol CNAME .
 gay0day.online CNAME .
 gg.xszcdn.com CNAME .
 ghtry.amateurswild.com CNAME .
+glass.vixfilmes.online CNAME .
 glokta.info CNAME .
 go.s5live.com CNAME .
 go.showmeyouradsnow.com CNAME .
@@ -311,6 +314,7 @@ iez.jojome.xyz CNAME .
 imbdemfjjduu.cdnvideo3.com CNAME .
 in.fuckhardclips.com CNAME .
 io.fapnado.com CNAME .
+ipx.7mmtv.top CNAME .
 ix2.deepsexvids.com CNAME .
 j45.webringporn.com CNAME .
 jav.guru.7mmtv.top CNAME .
@@ -371,6 +375,8 @@ maxcdn.dmm-video.online CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 messic.lol CNAME .
+meyd.7mmtv.top CNAME .
+mide.7mmtv.top CNAME .
 missgrand.beauty CNAME .
 missunow.lol CNAME .
 morezone.lol CNAME .
@@ -389,16 +395,12 @@ nice.tranny.one CNAME .
 nodawzua.mom CNAME .
 nonekvoi.skin CNAME .
 nope.addhentai.com CNAME .
+nope.arabxforum.com CNAME .
 nope.sexaoy.com CNAME .
 nope.xn--mgbkt9eckr.net CNAME .
 nope.xn--ngbcrg3b.com CNAME .
 nope.xn--ygba1c.wtf CNAME .
-notads.111javguru.xyz CNAME .
-notads.111supjav.xyz CNAME .
-notads.111supjavcom.xyz CNAME .
-notads.11javguru.xyz CNAME .
 notads.11supjav.xyz CNAME .
-notads.11supjavcom.xyz CNAME .
 notads.1gi3rir.xyz CNAME .
 nx7.hdxxxclips.com CNAME .
 o313o.com CNAME .
@@ -417,7 +419,6 @@ ontj.com CNAME .
 orderz.lol CNAME .
 outallin.mom CNAME .
 ox8.topsexhdvideos.com CNAME .
-p.focusde.info CNAME .
 p123p.com CNAME .
 p1t.clipnuke.com CNAME .
 pakeway.lol CNAME .
@@ -442,12 +443,14 @@ pop.dtoo1.space CNAME .
 pornve.sexyadsrun.com CNAME .
 pornvideos.casa CNAME .
 possibily.com CNAME .
+pppe.7mmtv.top CNAME .
 pre.03porno.com CNAME .
 pre.102porno.club CNAME .
 pre.102porno.net CNAME .
 pre.ebasos.club CNAME .
 pre.ebasos.org CNAME .
 pre.myfuck.club CNAME .
+pred.7mmtv.top CNAME .
 profield.ddns.net CNAME .
 pub.donmam.skin CNAME .
 pub88.mom CNAME .
@@ -502,6 +505,7 @@ spyglass.reklamko.pro CNAME .
 srv.acervox.com CNAME .
 srv1.bunnymediaserver.com CNAME .
 sshopee.beauty CNAME .
+ssis.7mmtv.top CNAME .
 ssltest.soundrussian.com CNAME .
 statement.blauenseville.buzz CNAME .
 stbvip.co CNAME .
@@ -524,7 +528,6 @@ tempro.lol CNAME .
 test2.maxx.ddac.ru CNAME .
 testcommon.soundrussian.com CNAME .
 tetra.xsuffer.com CNAME .
-theporndude.com.1111supjavcom.xyz CNAME .
 thescript.javfinder.xyz CNAME .
 thetranny.online CNAME .
 tik.boldtur.xyz CNAME .
@@ -548,7 +551,6 @@ uk.boffinsoft.com CNAME .
 ulezarern.xsuffer.com CNAME .
 upset.xsuffer.com CNAME .
 uthbxvz.bestzba.com CNAME .
-v.focusde.info CNAME .
 v2pro.stbvip.net CNAME .
 vavsnhau.mom CNAME .
 vd.7vid.net CNAME .
@@ -607,3 +609,8 @@ zone.stripcam.tv CNAME .
 ; cdn66584302.blazingcdn.net disguised trackers
 ;
 cdn.manhwadesu.me CNAME .
+;
+; u53.hypnorat.com disguised trackers
+;
+ontj.com CNAME .
+qhip.com CNAME .

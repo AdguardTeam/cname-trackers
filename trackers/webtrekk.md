@@ -380,6 +380,7 @@
 | di.ifolor.de | di.ifolor.wt-eu02.net |
 | di.ifolor.dk | di.ifolor.wt-eu02.net |
 | di.ifolor.fi | di.ifolor.wt-eu02.net |
+| di.ifolor.ie | di.ifolor.wt-eu02.net |
 | di.ifolor.it | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
 | wt.distrelec.com | distrelec-02.webtrekk.net |
@@ -462,6 +463,7 @@
 | wttd.madeleine.gr | madeleineprod01.wt-eu02.net |
 | data.mainpost.de | mainpost01.wt-eu02.net |
 | waaf.medion.com | medion01.wt-eu02.net |
+| waaf1.aldi-music.de | medion01.wt-eu02.net |
 | waaf1.aldilife.com | medion01.wt-eu02.net |
 | waaf1.alditalk.de | medion01.wt-eu02.net |
 | waaf1.hoferfotos.at | medion01.wt-eu02.net |

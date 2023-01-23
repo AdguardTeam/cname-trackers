@@ -8,6 +8,7 @@
 ### Rarely active trackers
 
 * cdn66584302.blazingcdn.net
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -35,7 +36,6 @@
 | 987656iuyyty.hotscopes.to | 0i0i0i0.com |
 | 98tang.lol | 0i0i0i0.com |
 | a.123porner.com | 0i0i0i0.com |
-| a.44oo.icu | 0i0i0i0.com |
 | a.6vids.space | 0i0i0i0.com |
 | a.888x.cyou | 0i0i0i0.com |
 | a.abismo-katheryne.top | 0i0i0i0.com |
@@ -54,7 +54,6 @@
 | a.epicgoo.com | 0i0i0i0.com |
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
-| a.focusde.info | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
 | a.hentai369.com | 0i0i0i0.com |
 | a.hentaitube.icu | 0i0i0i0.com |
@@ -68,7 +67,6 @@
 | a.manga18.site | 0i0i0i0.com |
 | a.marketing.com.sd | 0i0i0i0.com |
 | a.naturalhealthsource.club | 0i0i0i0.com |
-| a.neverbe.xyz | 0i0i0i0.com |
 | a.p123p.com | 0i0i0i0.com |
 | a.pinayviralsexx.com | 0i0i0i0.com |
 | a.pinoymoviepedia.ru | 0i0i0i0.com |
@@ -106,6 +104,7 @@
 | ads.al3ably.com | 0i0i0i0.com |
 | ads.free-to.download | 0i0i0i0.com |
 | ads.hentaiheart.com | 0i0i0i0.com |
+| ads.onetouchtv.me | 0i0i0i0.com |
 | ads.onlyfanspornvideo.com | 0i0i0i0.com |
 | ads.pornharlot.com | 0i0i0i0.com |
 | ads.pornharlot.net | 0i0i0i0.com |
@@ -164,6 +163,7 @@
 | asg.somecdn.bid | 0i0i0i0.com |
 | asg.soundrussian.com | 0i0i0i0.com |
 | asg.srvtax.com | 0i0i0i0.com |
+| asg.titdumps.com | 0i0i0i0.com |
 | asg.zzipps.com | 0i0i0i0.com |
 | asg1.xueserverhost.com | 0i0i0i0.com |
 | asg2.xueserverhost.com | 0i0i0i0.com |
@@ -188,6 +188,7 @@
 | bac221.skin | 0i0i0i0.com |
 | backpub.mom | 0i0i0i0.com |
 | bambao.lol | 0i0i0i0.com |
+| banana.arabtoons.net | 0i0i0i0.com |
 | banana.emailon.top | 0i0i0i0.com |
 | bc6dc48b743dc5d01.clicknplay.to | 0i0i0i0.com |
 | best.gobiga.xyz | 0i0i0i0.com |
@@ -266,6 +267,7 @@
 | ebays.beauty | 0i0i0i0.com |
 | ebd.cda-hd.cc | 0i0i0i0.com |
 | ebd.cda-hd.co | 0i0i0i0.com |
+| ebod.7mmtv.top | 0i0i0i0.com |
 | eco.blendxxx.com | 0i0i0i0.com |
 | eep.pukachu.lol | 0i0i0i0.com |
 | eightlon.mom | 0i0i0i0.com |
@@ -282,6 +284,7 @@
 | free.stat.tk | 0i0i0i0.com |
 | freememes.desiceleb.top | 0i0i0i0.com |
 | fresh.tuiz.pics | 0i0i0i0.com |
+| fsdss.7mmtv.top | 0i0i0i0.com |
 | fx9.freepornoboss.com | 0i0i0i0.com |
 | g.bloblohub.com | 0i0i0i0.com |
 | g0dy.site | 0i0i0i0.com |
@@ -291,6 +294,7 @@
 | gay0day.online | 0i0i0i0.com |
 | gg.xszcdn.com | 0i0i0i0.com |
 | ghtry.amateurswild.com | 0i0i0i0.com |
+| glass.vixfilmes.online | 0i0i0i0.com |
 | glokta.info | 0i0i0i0.com |
 | go.s5live.com | 0i0i0i0.com |
 | go.ss-n-30.com | 0i0i0i0.com |
@@ -319,6 +323,7 @@
 | imbdemfjjduu.cdnvideo3.com | 0i0i0i0.com |
 | in.fuckhardclips.com | 0i0i0i0.com |
 | io.fapnado.com | 0i0i0i0.com |
+| ipx.7mmtv.top | 0i0i0i0.com |
 | ix2.deepsexvids.com | 0i0i0i0.com |
 | j45.webringporn.com | 0i0i0i0.com |
 | jav.guru.7mmtv.top | 0i0i0i0.com |
@@ -377,6 +382,8 @@
 | mediacdn.x1hub.com | 0i0i0i0.com |
 | member.javtvnow.xyz | 0i0i0i0.com |
 | messic.lol | 0i0i0i0.com |
+| meyd.7mmtv.top | 0i0i0i0.com |
+| mide.7mmtv.top | 0i0i0i0.com |
 | missgrand.beauty | 0i0i0i0.com |
 | missunow.lol | 0i0i0i0.com |
 | morezone.lol | 0i0i0i0.com |
@@ -395,16 +402,12 @@
 | nodawzua.mom | 0i0i0i0.com |
 | nonekvoi.skin | 0i0i0i0.com |
 | nope.addhentai.com | 0i0i0i0.com |
+| nope.arabxforum.com | 0i0i0i0.com |
 | nope.sexaoy.com | 0i0i0i0.com |
 | nope.xn--mgbkt9eckr.net | 0i0i0i0.com |
 | nope.xn--ngbcrg3b.com | 0i0i0i0.com |
 | nope.xn--ygba1c.wtf | 0i0i0i0.com |
-| notads.111javguru.xyz | 0i0i0i0.com |
-| notads.111supjav.xyz | 0i0i0i0.com |
-| notads.111supjavcom.xyz | 0i0i0i0.com |
-| notads.11javguru.xyz | 0i0i0i0.com |
 | notads.11supjav.xyz | 0i0i0i0.com |
-| notads.11supjavcom.xyz | 0i0i0i0.com |
 | notads.1gi3rir.xyz | 0i0i0i0.com |
 | nx7.hdxxxclips.com | 0i0i0i0.com |
 | o313o.com | 0i0i0i0.com |
@@ -423,7 +426,6 @@
 | orderz.lol | 0i0i0i0.com |
 | outallin.mom | 0i0i0i0.com |
 | ox8.topsexhdvideos.com | 0i0i0i0.com |
-| p.focusde.info | 0i0i0i0.com |
 | p123p.com | 0i0i0i0.com |
 | p1t.clipnuke.com | 0i0i0i0.com |
 | pakeway.lol | 0i0i0i0.com |
@@ -447,12 +449,14 @@
 | pornve.sexyadsrun.com | 0i0i0i0.com |
 | pornvideos.casa | 0i0i0i0.com |
 | possibily.com | 0i0i0i0.com |
+| pppe.7mmtv.top | 0i0i0i0.com |
 | pre.03porno.com | 0i0i0i0.com |
 | pre.102porno.club | 0i0i0i0.com |
 | pre.102porno.net | 0i0i0i0.com |
 | pre.ebasos.club | 0i0i0i0.com |
 | pre.ebasos.org | 0i0i0i0.com |
 | pre.myfuck.club | 0i0i0i0.com |
+| pred.7mmtv.top | 0i0i0i0.com |
 | profield.ddns.net | 0i0i0i0.com |
 | pub.donmam.skin | 0i0i0i0.com |
 | pub88.mom | 0i0i0i0.com |
@@ -507,6 +511,7 @@
 | srv.acervox.com | 0i0i0i0.com |
 | srv1.bunnymediaserver.com | 0i0i0i0.com |
 | sshopee.beauty | 0i0i0i0.com |
+| ssis.7mmtv.top | 0i0i0i0.com |
 | ssltest.soundrussian.com | 0i0i0i0.com |
 | statement.blauenseville.buzz | 0i0i0i0.com |
 | stbvip.co | 0i0i0i0.com |
@@ -529,7 +534,6 @@
 | test2.maxx.ddac.ru | 0i0i0i0.com |
 | testcommon.soundrussian.com | 0i0i0i0.com |
 | tetra.xsuffer.com | 0i0i0i0.com |
-| theporndude.com.1111supjavcom.xyz | 0i0i0i0.com |
 | thescript.javfinder.xyz | 0i0i0i0.com |
 | thetranny.online | 0i0i0i0.com |
 | tik.boldtur.xyz | 0i0i0i0.com |
@@ -553,7 +557,6 @@
 | ulezarern.xsuffer.com | 0i0i0i0.com |
 | upset.xsuffer.com | 0i0i0i0.com |
 | uthbxvz.bestzba.com | 0i0i0i0.com |
-| v.focusde.info | 0i0i0i0.com |
 | v2pro.stbvip.net | 0i0i0i0.com |
 | vavsnhau.mom | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
@@ -614,3 +617,5 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| ontj.com | u53.hypnorat.com |
+| qhip.com | u53.hypnorat.com |

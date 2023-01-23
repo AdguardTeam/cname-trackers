@@ -67,7 +67,6 @@ analytics.duluthtrading.com CNAME .
 analytics.ensighten.com CNAME .
 analytics.gnc.com CNAME .
 analytics.katespade.com CNAME .
-analytics.llflooring.com CNAME .
 analytics.lumberliquidators.com CNAME .
 analytics.michiganlottery.com CNAME .
 analytics.mysynchrony.com CNAME .
@@ -97,6 +96,7 @@ assets1.vero.co.nz CNAME .
 assets1.vero.com.au CNAME .
 attribution.batesfootwear.com CNAME .
 attribution.grasshoppers.com CNAME .
+attribution.keds.com CNAME .
 attribution.lebara.com CNAME .
 attribution.merrell.com CNAME .
 attribution.saucony.com CNAME .
@@ -153,6 +153,7 @@ data.experianidentityservice.co.uk CNAME .
 data.ford.com CNAME .
 data.lincoln.com CNAME .
 data.privacy.ensighten.com CNAME .
+dc.apothic.com CNAME .
 dc.darkhorsewine.com CNAME .
 dc.directtv.com CNAME .
 dc.directv.com CNAME .
@@ -166,6 +167,7 @@ dc.stokke.com CNAME .
 dc.volkswagen.com CNAME .
 dc.zales.com CNAME .
 dcf.espn.com CNAME .
+dcf.espn.com.pe CNAME .
 dcfdata.espn.com CNAME .
 ddc.statefarm.com CNAME .
 dsg.activate.ensighten.com CNAME .
@@ -176,6 +178,7 @@ ens.luzernerzeitung.ch CNAME .
 ens.nzz.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.themarket.ch CNAME .
+ensighten.airnewzealand.co.uk CNAME .
 ensighten.bhphoto.com CNAME .
 ensighten.ccnag.com CNAME .
 ensighten.coop.co.uk CNAME .
@@ -213,6 +216,7 @@ nexus.ensighten.tiaa.org CNAME .
 nexus.libertymutual.com CNAME .
 nexus.mbna.ca CNAME .
 nexus.td.com CNAME .
+nexus.tdassurance.com CNAME .
 nexus.tdbank.com CNAME .
 nexus.tdinsurance.com CNAME .
 nexus.toyota.com CNAME .
@@ -226,6 +230,7 @@ privacy.28degreescard.com.au CNAME .
 privacy.acc2.heishop.com.br CNAME .
 privacy.amadrinks.be CNAME .
 privacy.blade.app CNAME .
+privacy.easyjet.com CNAME .
 privacy.gemfinance.co.nz CNAME .
 privacy.gomastercard.com.au CNAME .
 privacy.heineken.it CNAME .

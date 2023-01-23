@@ -16,6 +16,7 @@ k.hofmann.es CNAME .
 k.laredoute.es CNAME .
 k.laredoute.pt CNAME .
 k.laredoute.ru CNAME .
+k.voyageursdumonde.be CNAME .
 k.voyageursdumonde.ca CNAME .
 k.voyageursdumonde.ch CNAME .
 k.voyageursdumonde.fr CNAME .
@@ -25,6 +26,7 @@ keyade.ooreka.fr CNAME .
 keyade.uniqlo.com CNAME .
 market-keyade.macif.fr CNAME .
 tck.photobox.com CNAME .
+tck.wonderbox.fr CNAME .
 ;
 ; k.madmetrics.com disguised trackers
 ;

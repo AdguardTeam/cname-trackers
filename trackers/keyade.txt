@@ -16,6 +16,7 @@
 ||k.laredoute.es^
 ||k.laredoute.pt^
 ||k.laredoute.ru^
+||k.voyageursdumonde.be^
 ||k.voyageursdumonde.ca^
 ||k.voyageursdumonde.ch^
 ||k.voyageursdumonde.fr^
@@ -25,6 +26,7 @@
 ||keyade.uniqlo.com^
 ||market-keyade.macif.fr^
 ||tck.photobox.com^
+||tck.wonderbox.fr^
 !
 ! k.madmetrics.com disguised trackers
 !

@@ -264,10 +264,6 @@ ssl-stofateststream.tns-gallup.dk CNAME .
 ;
 dr.tns-gallup.dk CNAME .
 ;
-; drandroidstream.tns-dk.2cnt.net disguised trackers
-;
-drandroidstream.tns-gallup.dk CNAME .
-;
 ; drandroidtvstream.tns-dk.2cnt.net disguised trackers
 ;
 drandroidtvstream.tns-gallup.dk CNAME .
@@ -341,6 +337,10 @@ geo.met.vgwort.de CNAME .
 ;
 halsa.tns-gallup.dk CNAME .
 ;
+; handelsblatt.vgwort-de.2cnt.net disguised trackers
+;
+handelsblatt.met.vgwort.de CNAME .
+;
 ; heise.vgwort-de.2cnt.net disguised trackers
 ;
 heise.met.vgwort.de CNAME .
@@ -381,6 +381,10 @@ jubii.tns-gallup.dk CNAME .
 ;
 juicyplay.tns-gallup.dk CNAME .
 ;
+; kr.vgwort-de.2cnt.net disguised trackers
+;
+kr.met.vgwort.de CNAME .
+;
 ; krak.tns-dk.2cnt.net disguised trackers
 ;
 krak.tns-gallup.dk CNAME .
@@ -388,6 +392,10 @@ krak.tns-gallup.dk CNAME .
 ; kristeligtdagblad.tns-dk.2cnt.net disguised trackers
 ;
 kristeligtdagblad.tns-gallup.dk CNAME .
+;
+; ksta.vgwort-de.2cnt.net disguised trackers
+;
+ksta.met.vgwort.de CNAME .
 ;
 ; kundeunivers.tns-dk.2cnt.net disguised trackers
 ;
@@ -437,10 +445,6 @@ n-tv.met.vgwort.de CNAME .
 ;
 newsb.tns-gallup.dk CNAME .
 ;
-; nomos.vgwort-de.2cnt.net disguised trackers
-;
-nomos.met.vgwort.de CNAME .
-;
 ; nordjyske.tns-dk.2cnt.net disguised trackers
 ;
 nordjyske.tns-gallup.dk CNAME .
@@ -460,10 +464,6 @@ realityportalen.tns-gallup.dk CNAME .
 ; rejseplanen.tns-dk.2cnt.net disguised trackers
 ;
 rejseplanen.tns-gallup.dk CNAME .
-;
-; rp-online.vgwort-de.2cnt.net disguised trackers
-;
-rp-online.met.vgwort.de CNAME .
 ;
 ; rtl.vgwort-de.2cnt.net disguised trackers
 ;
@@ -629,10 +629,6 @@ ssl-dplaystream.tns-gallup.dk CNAME .
 ;
 ssl-dr.tns-gallup.dk CNAME .
 ;
-; ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
-;
-ssl-drandroidtvstream.tns-gallup.dk CNAME .
-;
 ; ssl-drhbbstream.tns-dk.2cnt.net disguised trackers
 ;
 ssl-drhbbstream.tns-gallup.dk CNAME .
@@ -718,10 +714,6 @@ ssl-gaffa.tns-gallup.dk CNAME .
 ;
 ssl-gafiam.tns-gallup.dk CNAME .
 ssl-swpanel.tns-gallup.dk CNAME .
-;
-; ssl-gala.vgwort-de.2cnt.net disguised trackers
-;
-ssl-gala.met.vgwort.de CNAME .
 ;
 ; ssl-goerdetselv.tns-dk.2cnt.net disguised trackers
 ;
@@ -863,10 +855,6 @@ ssl-mja.tns-gallup.dk CNAME .
 ;
 ssl-mxiam.tns-gallup.dk CNAME .
 ;
-; ssl-n-tv.vgwort-de.2cnt.net disguised trackers
-;
-ssl-n-tv.met.vgwort.de CNAME .
-;
 ; ssl-news.tns-dk.2cnt.net disguised trackers
 ;
 ssl-news.tns-gallup.dk CNAME .
@@ -1004,6 +992,10 @@ ssl-tv3play.tns-gallup.dk CNAME .
 ;
 ssl-tv3sport.tns-gallup.dk CNAME .
 ;
+; ssl-tz.vgwort-de.2cnt.net disguised trackers
+;
+ssl-tz.met.vgwort.de CNAME .
+;
 ; ssl-ugeavisen.tns-dk.2cnt.net disguised trackers
 ;
 ssl-ugeavisen.tns-gallup.dk CNAME .
@@ -1089,10 +1081,6 @@ tagesspiegel.met.vgwort.de CNAME .
 ;
 taz.met.vgwort.de CNAME .
 ;
-; thieme.vgwort-de.2cnt.net disguised trackers
-;
-thieme.met.vgwort.de CNAME .
-;
 ; tv2androidstream.tns-dk.2cnt.net disguised trackers
 ;
 tv2androidstream.tns-gallup.dk CNAME .
@@ -1152,10 +1140,6 @@ vg09.met.vgwort.de CNAME .
 ; viborgfolkeblad.tns-dk.2cnt.net disguised trackers
 ;
 viborgfolkeblad.tns-gallup.dk CNAME .
-;
-; vision.vgwort-de.2cnt.net disguised trackers
-;
-vision.met.vgwort.de CNAME .
 ;
 ; viunge.tns-dk.2cnt.net disguised trackers
 ;

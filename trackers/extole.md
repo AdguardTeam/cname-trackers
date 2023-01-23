@@ -3,12 +3,12 @@
 ## Disguised trackers list
 
 * extole.com
+    * aaamid-atlantic.extole.com
     * aaas-ssl.extole.com
     * ahs.extole.com
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
-    * aol.extole.com
     * backcountry.extole.com
     * barenecessities.extole.com
     * basictalk-ssl.extole.com
@@ -111,6 +111,7 @@
     * ashleyfurniturehomestore.extole.io
     * ashleyhomestore.extole.io
     * asics.extole.io
+    * at-a-glance.extole.io
     * athleta.extole.io
     * aveda-au.extole.io
     * aveda-ca.extole.io
@@ -197,6 +198,7 @@
     * evine.extole.io
     * experian.extole.io
     * extoleu.extole.io
+    * farniente.extole.io
     * fetchpet.extole.io
     * figo-pet-insurance.extole.io
     * fingercheck.extole.io
@@ -209,6 +211,7 @@
     * g2.extole.io
     * gannett.extole.io
     * gap-canada.extole.io
+    * gardenoflife.extole.io
     * garnethill.extole.io
     * gcefcu.extole.io
     * getsetup.extole.io
@@ -218,12 +221,12 @@
     * giftya.extole.io
     * giorgioarmanibeauty-usa.extole.io
     * glamglow.extole.io
+    * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
-    * guess.extole.io
     * hair.extole.io
     * hanacure.extole.io
     * harley.extole.io
@@ -347,6 +350,7 @@
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
+    * steelseries.extole.io
     * stop-and-shop.extole.io
     * stridehealth.extole.io
     * studentuniverse.extole.io
@@ -419,6 +423,7 @@
 | refer.2ndswing.com | 2ndswing.extole.io |
 | share.4patriots.com | 4patriots.extole.io |
 | share.4wheelparts.com | 4wheelparts.extole.io |
+| refer.midatlantic.aaa.com | aaamid-atlantic.extole.com |
 | refer.aaas.org | aaas-ssl.extole.com |
 | refer.abacusnext.com | abacusnext.extole.io |
 | refer.acornonline.com | acornonline.extole.io |
@@ -438,13 +443,13 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
-| refer.aol.com | aol.extole.com |
 | share.aplaceformom.com | aplaceformom.extole.io |
 | refer.art.com | artcom.extole.io |
 | refer.ashleyfurniture.com | ashleyfurniturehomestore.extole.io |
 | refer.ashleyfurniturehomestore.com | ashleyfurniturehomestore.extole.io |
 | share.ashleyhomestore.ca | ashleyhomestore.extole.io |
 | share.asics.com | asics.extole.io |
+| refer.ataglance.com | at-a-glance.extole.io |
 | refer.athleta.com | athleta.extole.io |
 | refer.athletawell.com | athleta.extole.io |
 | share.aveda.com.au | aveda-au.extole.io |
@@ -560,6 +565,7 @@
 | share.evine.com | evine.extole.io |
 | refer1.experian.com | experian.extole.io |
 | jessica-test-numero-dos.extoleu.com | extoleu.extole.io |
+| refer.farniente.com | farniente.extole.io |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.figopetinsurance.com | figo-pet-insurance.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |
@@ -586,6 +592,7 @@
 | share.usatoday.com | gannett.extole.io |
 | share.vcstar.com | gannett.extole.io |
 | refer.gapcanada.ca | gap-canada.extole.io |
+| refer.gardenoflife.com | gardenoflife.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
 | refer.gcefcu.org | gcefcu.extole.io |
 | share.getsetup.io | getsetup.extole.io |
@@ -595,6 +602,8 @@
 | share.giftya.com | giftya.extole.io |
 | share.giorgioarmanibeauty-usa.com | giorgioarmanibeauty-usa.extole.io |
 | refer.glamglow.com | glamglow.extole.io |
+| share.refer-glamglow.com | glamglow.extole.io |
+| refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
 | share.go2bank.com | go2bank.extole.io |
@@ -602,7 +611,6 @@
 | share.greenlight.com | greenlightcard.extole.io |
 | share.greenlightcard.com | greenlightcard.extole.io |
 | refer.greenvilleonline.com | greenvilleonline.extole.com |
-| referafriend.guess.com | guess.extole.io |
 | refer.hair.com | hair.extole.io |
 | share.hanacure.com | hanacure.extole.io |
 | refer.hannaandersson.com | hannaandersson.extole.com |
@@ -748,6 +756,7 @@
 | share.ross-simons.com | ross-simons.extole.io |
 | share.rspure.com | ross-simons.extole.io |
 | share.rvshare.com | rvshare.extole.io |
+| refer.loomandleaf.com | saatvamattress.extole.io |
 | refer.saatva.com | saatvamattress.extole.io |
 | refer.saatvadreams.com | saatvamattress.extole.io |
 | refer.saatvamattress.com | saatvamattress.extole.io |
@@ -778,6 +787,7 @@
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |
+| refer.steelseries.com | steelseries.extole.io |
 | refer.stopandshop.com | stop-and-shop.extole.io |
 | share.stridehealth.com | stridehealth.extole.io |
 | refer.studentuniverse.com | studentuniverse.extole.io |

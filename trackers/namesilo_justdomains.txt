@@ -13,6 +13,7 @@
 3115164.notifysrv.com
 3115166.notify6.com
 3164303.notifysrv.com
+3164315.notify6.com
 3164315.notifysrv.com
 3164401.notifysrv.com
 3164433.notifysrv.com
@@ -404,6 +405,7 @@
 3489365.notify6.com
 3491507.notifysrv.com
 3493753.notifysrv.com
+3496079.notify6.com
 3498171.notify6.com
 3501655.notify6.com
 3505119.notify6.com
@@ -593,6 +595,7 @@
 4819336.notify6.com
 4832912.notify6.com
 4841896.notify6.com
+4842686.notify6.com
 4872274.notify6.com
 4872816.notify6.com
 4882380.notify6.com
@@ -600,10 +603,7 @@
 603.notify.optimizesrv.com
 7678.notify.optimizesrv.com
 _sip._tcp.meet.3393147.notifysrv.com
-a.addisplaynetwork.com
-a.asvsm.com
 a.etology.com
-a.redpathmedia.com
 delivery.gettopple.com
 engine.gettopple.com
 m.hsrve.com
@@ -614,6 +614,7 @@ main.exdynsrv.com
 main.exoclick.com
 main.exosrv.com
 main.realsrv.com
+origin-ads.exdynsrv.com
 origin-ads.exosrv.com
 origin-ads.optimizesrv.com
 origin-ads.realsrv.com
@@ -636,6 +637,7 @@ s.optnx.com
 s.orbsrv.com
 s.st1net.com
 s.vlink6.com
+s.wlink1.com
 s.wlink2.com
 s.zlink1.com
 s.zlink2.com
@@ -648,6 +650,7 @@ s.zlinkm.com
 syndication.dynsrvtbg.com
 syndication.dynsrvwer.com
 syndication.elink12.com
+syndication.elink66.com
 syndication.elink77.com
 syndication.epcmk.com
 syndication.exdynsrv.com
@@ -656,12 +659,14 @@ syndication.exosrv.com
 syndication.jsadapi.com
 syndication.link5c.com
 syndication.link5v.com
+syndication.linkfryn.com
 syndication.linkgett.com
 syndication.linkwitt.com
 syndication.optimizesrv.com
 syndication.realsrv.com
 syndication.whibd.com
 syndication.whibp.com
+syndication0.exoclick.com
 #
 # cds.d6n9n7e2.hwcdn.net disguised trackers
 #

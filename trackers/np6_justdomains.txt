@@ -5,6 +5,7 @@
 #
 emailing.casden.banquepopulaire.fr
 epm.mailperformance.com
+newsletter.ticketac.com
 shortener.np6.com
 sms.gestion.cetelem.fr
 sms.news.allopneus.com
@@ -33,6 +34,7 @@ tr.animations.bfmtv.com
 tr.apou032.espmp-agfr.net
 tr.asp0018.espmp-aufr.net
 tr.asp002q.espmp-aufr.net
+tr.asp008y.espmp-nifr.net
 tr.asp00a6.espmp-nifr.net
 tr.asp1.espmp-agfr.net
 tr.asp103z.espmp-nifr.net
@@ -43,6 +45,7 @@ tr.asp10ar.espmp-cufr.net
 tr.asp10bs.espmp-aufr.net
 tr.asp10ch.espmp-nifr.net
 tr.asp10cr.espmp-nifr.net
+tr.asp10h2.espmp-nifr.net
 tr.asp10hi.espmp-cufr.net
 tr.asp202u.espmp-cufr.net
 tr.asp2032.espmp-aufr.net
@@ -67,6 +70,7 @@ tr.boletim.meu-orcamento.pt
 tr.bonplan.mydesign.com
 tr.brand.labelleadresse.com
 tr.btob-afaceri.ro
+tr.btob-deals.co.uk
 tr.btobquotes.com
 tr.buenasofertas.pro
 tr.bureauveritas.espmp-aufr.net
@@ -84,6 +88,7 @@ tr.cashback.banque-casino.fr
 tr.cashback.floa.fr
 tr.cb4x.banque-casino.fr
 tr.cb4x.floa.fr
+tr.cdiscount.3wregie.com
 tr.christmas.petit-bateau.com
 tr.cifa.espmp-nifr.net
 tr.cifa02k.espmp-aufr.net
@@ -128,6 +133,7 @@ tr.companeo-news.co.uk
 tr.compte.fca-capital-france.fr
 tr.comunicacao.younited-credit.com
 tr.contact.astuceco.fr
+tr.contact.canalplay.com
 tr.contact.canalplus.fr
 tr.contact.cereps.fr
 tr.contact.e-turf.fr
@@ -135,6 +141,7 @@ tr.contact.lead.eu.com
 tr.contact.lvmh.fr
 tr.contact.makemelead.info
 tr.contact.mhl-publishing.fr
+tr.contact.ruinart.com
 tr.contact.stof.fr
 tr.contact.thelist-emirates.fr
 tr.contrat.location.boulanger.com
@@ -160,6 +167,7 @@ tr.devisminute-affranchissement.com
 tr.devisminute-alarme.com
 tr.devisminute-geolocalisation.com
 tr.devisminute-gestionpaie.com
+tr.devisminute-mutuelle.com
 tr.devisminute-operateur.com
 tr.devisminute-siteecommerce.com
 tr.devisminute-weber.com
@@ -200,6 +208,8 @@ tr.email.land-rover-experience.fr
 tr.email.maisonfoody.com
 tr.email.medicalexpo.com
 tr.email.mnpaf.fr
+tr.email.nauticexpo.com
+tr.email.pointfranchise.co.uk
 tr.email.prochesdechezvous.fr
 tr.email.rs-fr.com
 tr.email.securite-routiere.gouv.fr
@@ -218,6 +228,7 @@ tr.emailing.canalplus-maurice.com
 tr.emailing.canalplus-reunion.com
 tr.emailing.canalplus.ch
 tr.emailing.canalplus.fr
+tr.emailing.canalpro.fr
 tr.emailing.cifea-mkg.com
 tr.emailing.cnam-paysdelaloire.fr
 tr.emailing.coe.int
@@ -234,6 +245,7 @@ tr.entreprise-pro.info
 tr.entreprise.axa.fr
 tr.envie-de-bien-manger.espmp-aufr.net
 tr.estatesandwines.moethennessy.com
+tr.etravauxpro.fr
 tr.eulerhermes.com
 tr.europa-organisation.com
 tr.evenements.inpi.fr
@@ -241,6 +253,7 @@ tr.expresofferte.be
 tr.fidal.pro
 tr.fidalformation.pro
 tr.finance.moethennessy.com
+tr.fleetmatics.vraaguwofferte.be
 tr.forum.veuveclicquot.fr
 tr.fr.pro.accor.com
 tr.futurecommerce.moethennessy.com
@@ -276,12 +289,14 @@ tr.info.ag2rlamondiale.fr
 tr.info.aliae.com
 tr.info.aprr.fr
 tr.info.arialcnp.fr
+tr.info.astermod.net
 tr.info.bessans.com
 tr.info.caissenationalegendarme.fr
 tr.info.capfun.com
 tr.info.cartesaffaires.bnpparibas
 tr.info.casino-proximites.fr
 tr.info.comparadordeprestamos.es
+tr.info.covid-resistance-bretagne.fr
 tr.info.easyviaggio.com
 tr.info.easyviajar.com
 tr.info.easyvoyage.co.uk
@@ -303,6 +318,7 @@ tr.info.np6.fr
 tr.info.offres-cartegie.fr
 tr.info.onboarding.corporatecards.bnpparibas
 tr.info.perl.fr
+tr.info.ph-bpifrance.fr
 tr.info.phsolidaire-bpifrance.fr
 tr.info.promoneuve.fr
 tr.info.rouen.aeroport.fr
@@ -310,7 +326,6 @@ tr.info.rouen.cci.fr
 tr.info.snpden.net
 tr.info.solidarm.fr
 tr.info.valcenis.com
-tr.info.vip-mag.co.uk
 tr.infolettre.securite-routiere.gouv.fr
 tr.infolettres.groupama.com
 tr.information.fidalformations.fr
@@ -345,7 +360,9 @@ tr.legrandjeu.boulanger.com
 tr.lesmarques.envie-de-bien-manger.com
 tr.lesmarquesenviedebienmanger.fr
 tr.lettre.dechets-infos.com
+tr.lettre.helianthal.fr
 tr.louvre-boites.com
+tr.ltbu.espmp-nifr.net
 tr.lvmhappening.lvmh.fr
 tr.m.cwisas.com
 tr.mail-companeo.fr
@@ -359,7 +376,6 @@ tr.mail.mdbp.fr
 tr.mail.moncoupdepouce.com
 tr.mail.primevere.com
 tr.mail.satisfactory.fr
-tr.mail.vip-mag.co.uk
 tr.mail.vipmag.fr
 tr.mail.vo3000.com
 tr.mail1.macif.fr
@@ -385,6 +401,7 @@ tr.mep.enkiapp.io
 tr.mes-prestataires.fr
 tr.message.maaf.fr
 tr.mh-connect.moethennessy.com
+tr.mhch.moet.hennessy.com
 tr.mhist.moethennessy.com
 tr.mijn-superaanbieding.be
 tr.mijnaanbieding.renowizz.be
@@ -410,6 +427,7 @@ tr.news-chocolat.com
 tr.news-companeo.cl
 tr.news-companeo.fr
 tr.news-companeo.mx
+tr.news-companeo.nl
 tr.news-companeo.pl
 tr.news.a-t.fr
 tr.news.accessmbatour.com
@@ -520,7 +538,6 @@ tr.news.triskalia.fr
 tr.news.vetharmonie.fr
 tr.news.videofutur.fr
 tr.news.vip-diary.com
-tr.news.vip-mag.co.uk
 tr.news.vipmag.fr
 tr.news.vivrecotesud.fr
 tr.news.votreargent.lexpress.fr
@@ -624,6 +641,7 @@ tr.projet.cotemaison.fr
 tr.promo.np6.fr
 tr.promotion.lexpress.fr
 tr.prosfores-companeo.gr
+tr.prosfores-etairias.gr
 tr.publicisdrugstore.espmp-agfr.net
 tr.qualitaetsumfrage.com
 tr.qualitaveicolo.com
@@ -635,6 +653,7 @@ tr.qualityvehiclesurvey.com
 tr.quotes.digital
 tr.quotes4business.com
 tr.quotes4business.info
+tr.quotesforbusiness.cl
 tr.quotesforbusiness.co.uk
 tr.ra.cofinoga.fr
 tr.ratm.espmp-agfr.net
@@ -721,6 +740,7 @@ tr.welcome.easyvoyage.co.uk
 tr.welcome.easyvoyage.com
 tr.welcome.easyvoyage.de
 tr.welcome.lacollection-airfrance.co.uk
+tr.welcome.lacollection-airfrance.de
 tr.welcome.lacollection-airfrance.fr
 tr.welcome.lexpress.fr
 tr.welcome.moncoupdepouce.com

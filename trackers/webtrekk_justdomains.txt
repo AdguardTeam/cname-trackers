@@ -97,6 +97,7 @@ di.ifolor.ch
 di.ifolor.de
 di.ifolor.dk
 di.ifolor.fi
+di.ifolor.ie
 di.ifolor.it
 di.ifolor.net
 dnsbl.test.wbtrkk.teufel.de
@@ -202,6 +203,7 @@ wa.sportschau.de
 wa.wdr.de
 wa.wdrmaus.de
 waaf.medion.com
+waaf1.aldi-music.de
 waaf1.aldilife.com
 waaf1.alditalk.de
 waaf1.hoferfotos.at

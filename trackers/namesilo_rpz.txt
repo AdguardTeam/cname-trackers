@@ -13,6 +13,7 @@
 3115164.notifysrv.com CNAME .
 3115166.notify6.com CNAME .
 3164303.notifysrv.com CNAME .
+3164315.notify6.com CNAME .
 3164315.notifysrv.com CNAME .
 3164401.notifysrv.com CNAME .
 3164433.notifysrv.com CNAME .
@@ -404,6 +405,7 @@
 3489365.notify6.com CNAME .
 3491507.notifysrv.com CNAME .
 3493753.notifysrv.com CNAME .
+3496079.notify6.com CNAME .
 3498171.notify6.com CNAME .
 3501655.notify6.com CNAME .
 3505119.notify6.com CNAME .
@@ -593,6 +595,7 @@
 4819336.notify6.com CNAME .
 4832912.notify6.com CNAME .
 4841896.notify6.com CNAME .
+4842686.notify6.com CNAME .
 4872274.notify6.com CNAME .
 4872816.notify6.com CNAME .
 4882380.notify6.com CNAME .
@@ -600,10 +603,7 @@
 603.notify.optimizesrv.com CNAME .
 7678.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
-a.addisplaynetwork.com CNAME .
-a.asvsm.com CNAME .
 a.etology.com CNAME .
-a.redpathmedia.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 m.hsrve.com CNAME .
@@ -614,6 +614,7 @@ main.exdynsrv.com CNAME .
 main.exoclick.com CNAME .
 main.exosrv.com CNAME .
 main.realsrv.com CNAME .
+origin-ads.exdynsrv.com CNAME .
 origin-ads.exosrv.com CNAME .
 origin-ads.optimizesrv.com CNAME .
 origin-ads.realsrv.com CNAME .
@@ -636,6 +637,7 @@ s.optnx.com CNAME .
 s.orbsrv.com CNAME .
 s.st1net.com CNAME .
 s.vlink6.com CNAME .
+s.wlink1.com CNAME .
 s.wlink2.com CNAME .
 s.zlink1.com CNAME .
 s.zlink2.com CNAME .
@@ -648,6 +650,7 @@ s.zlinkm.com CNAME .
 syndication.dynsrvtbg.com CNAME .
 syndication.dynsrvwer.com CNAME .
 syndication.elink12.com CNAME .
+syndication.elink66.com CNAME .
 syndication.elink77.com CNAME .
 syndication.epcmk.com CNAME .
 syndication.exdynsrv.com CNAME .
@@ -656,12 +659,14 @@ syndication.exosrv.com CNAME .
 syndication.jsadapi.com CNAME .
 syndication.link5c.com CNAME .
 syndication.link5v.com CNAME .
+syndication.linkfryn.com CNAME .
 syndication.linkgett.com CNAME .
 syndication.linkwitt.com CNAME .
 syndication.optimizesrv.com CNAME .
 syndication.realsrv.com CNAME .
 syndication.whibd.com CNAME .
 syndication.whibp.com CNAME .
+syndication0.exoclick.com CNAME .
 ;
 ; cds.d6n9n7e2.hwcdn.net disguised trackers
 ;

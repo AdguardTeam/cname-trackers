@@ -3,8 +3,10 @@
 ;
 ; heleric.com disguised trackers
 ;
+aa.samaniclucked.com CNAME .
 ae.craccaanybody.com CNAME .
 an.pintaentrep.com CNAME .
+ar.tankasphose.com CNAME .
 ax.requotebatman.com CNAME .
 bh.twifoilperoxyl.com CNAME .
 bk.clinkedsphecid.com CNAME .
@@ -22,11 +24,13 @@ et.harmoutguereza.com CNAME .
 eu.jerkytaste.com CNAME .
 ew.physciahat.com CNAME .
 ey.fifthsheet.com CNAME .
+fg.satraefreath.com CNAME .
 fh.termsixias.com CNAME .
 fm.ramouselong.com CNAME .
 fn.deulspoorn.com CNAME .
 fo.irrisoranemone.com CNAME .
 fy.uncheckluggies.com CNAME .
+ga.asseizeenl.com CNAME .
 go.jazygesunoared.com CNAME .
 ia.bisetsoliped.com CNAME .
 ie.facemanuptore.com CNAME .
@@ -34,14 +38,18 @@ ie.repointderider.com CNAME .
 io.stoushgowds.com CNAME .
 ir.avertinniello.com CNAME .
 ir.mildlydoucely.com CNAME .
+ir.turbotaedile.com CNAME .
 je.guancheoutwait.com CNAME .
 je.sepiasfra.com CNAME .
+ji.axingectal.com CNAME .
+jj.jaupsgrimes.com CNAME .
 jk.baltisbockey.com CNAME .
 jo.tictocswended.com CNAME .
 jv.curiousuraemia.com CNAME .
 kl.osmoticchalah.com CNAME .
 ld.stengskelped.com CNAME .
 lf.unvenomangst.com CNAME .
+lg.feoffortapetis.com CNAME .
 lq.kuliposits.com CNAME .
 lq.nullusposolo.com CNAME .
 ly.koitapuanteing.com CNAME .
@@ -53,6 +61,7 @@ oj.daunnotes.com CNAME .
 ok.ribworkstylus.com CNAME .
 oz.lokaforky.com CNAME .
 pk.axitessubclei.com CNAME .
+pr.hefterunmete.com CNAME .
 qb.falsenalice.com CNAME .
 qd.loathesentour.com CNAME .
 qo.dunganof.com CNAME .
@@ -62,7 +71,9 @@ rm.bauderylysines.com CNAME .
 rs.tupigrousy.com CNAME .
 ru.vibgyorvolte.com CNAME .
 rx.dewlesssnorted.com CNAME .
+sb.elfshippref.com CNAME .
 sc.achingpliant.com CNAME .
+sc.waapadaggled.com CNAME .
 sf.zestfulpize.com CNAME .
 sw.pluckysups.com CNAME .
 sy.sartishmoop.com CNAME .
@@ -79,6 +90,7 @@ vd.scapemambu.com CNAME .
 vn.finisbur.com CNAME .
 vp.upswingmethyl.com CNAME .
 vv.habaerashiksas.com CNAME .
+vx.azuresjukes.com CNAME .
 wl.herbarspece.com CNAME .
 wq.stewyruttish.com CNAME .
 wx.squetanonym.com CNAME .

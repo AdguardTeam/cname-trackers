@@ -20,7 +20,6 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
-refer.aol.com CNAME .
 refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
 refer.basictalk.com CNAME .
@@ -47,6 +46,7 @@ refer.julep.com CNAME .
 refer.kipling-usa.com CNAME .
 refer.leadmd.com CNAME .
 refer.luckyvitamin.com CNAME .
+refer.midatlantic.aaa.com CNAME .
 refer.moo.com CNAME .
 refer.myplant.com CNAME .
 refer.nvidia.com CNAME .
@@ -120,6 +120,7 @@ refer.amerisleep.com CNAME .
 refer.art.com CNAME .
 refer.ashleyfurniture.com CNAME .
 refer.ashleyfurniturehomestore.com CNAME .
+refer.ataglance.com CNAME .
 refer.athleta.com CNAME .
 refer.athletawell.com CNAME .
 refer.awscloud.com CNAME .
@@ -169,15 +170,18 @@ refer.eset.com CNAME .
 refer.etrade.net CNAME .
 refer.everlywell.com CNAME .
 refer.fahw.com CNAME .
+refer.farniente.com CNAME .
 refer.firstrepublic.com CNAME .
 refer.frontgate.com CNAME .
 refer.g2.com CNAME .
 refer.gapcanada.ca CNAME .
+refer.gardenoflife.com CNAME .
 refer.garnethill.com CNAME .
 refer.gcefcu.org CNAME .
 refer.giantfood.com CNAME .
 refer.giantfoodstores.com CNAME .
 refer.glamglow.com CNAME .
+refer.glasses.com CNAME .
 refer.globalknowledge.com CNAME .
 refer.gnc.com CNAME .
 refer.gopetplan.ca CNAME .
@@ -212,6 +216,7 @@ refer.laylasleep.com CNAME .
 refer.lendingclub.com CNAME .
 refer.lenscrafters.com CNAME .
 refer.lightstream.com CNAME .
+refer.loomandleaf.com CNAME .
 refer.lull.com CNAME .
 refer.madison-reed.com CNAME .
 refer.marinerfinance.com CNAME .
@@ -255,6 +260,7 @@ refer.snapfinance.com CNAME .
 refer.soma.com CNAME .
 refer.spothero.com CNAME .
 refer.starfurniture.com CNAME .
+refer.steelseries.com CNAME .
 refer.stopandshop.com CNAME .
 refer.studentuniverse.com CNAME .
 refer.studentuniverse.com.au CNAME .
@@ -293,7 +299,6 @@ refer.zipcar.com CNAME .
 refer.zomasleep.com CNAME .
 refer1.experian.com CNAME .
 referafriend.discover.com CNAME .
-referafriend.guess.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.shiseido.com CNAME .
 referrals.visionsfcu.org CNAME .
@@ -408,6 +413,7 @@ share.refer-bumbleandbumble.co.uk CNAME .
 share.refer-bumbleandbumble.com CNAME .
 share.refer-darphin.com CNAME .
 share.refer-darphin.fr CNAME .
+share.refer-glamglow.com CNAME .
 share.refer-maccosmetics.ca CNAME .
 share.refer-maccosmetics.co.uk CNAME .
 share.refer-maccosmetics.com CNAME .

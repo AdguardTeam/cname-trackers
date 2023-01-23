@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * ab1n.net
+    * a37zk9tr.ab1n.net
     * ka8ing2z.ab1n.net
     * tk6if76q.ab1n.net
     * tk6if76r.ab1n.net
@@ -17,6 +18,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| syndication0.exoclick.com | a37zk9tr.ab1n.net |
 | a.addisplaynetwork.com | cds.d6n9n7e2.hwcdn.net |
 | a.adnflow.com | cds.d6n9n7e2.hwcdn.net |
 | a.asvsm.com | cds.d6n9n7e2.hwcdn.net |
@@ -35,6 +37,7 @@
 | 3115164.notifysrv.com | tk6if76q.ab1n.net |
 | 3115166.notify6.com | tk6if76q.ab1n.net |
 | 3164303.notifysrv.com | tk6if76q.ab1n.net |
+| 3164315.notify6.com | tk6if76q.ab1n.net |
 | 3164315.notifysrv.com | tk6if76q.ab1n.net |
 | 3164401.notifysrv.com | tk6if76q.ab1n.net |
 | 3164433.notifysrv.com | tk6if76q.ab1n.net |
@@ -426,6 +429,7 @@
 | 3489365.notify6.com | tk6if76q.ab1n.net |
 | 3491507.notifysrv.com | tk6if76q.ab1n.net |
 | 3493753.notifysrv.com | tk6if76q.ab1n.net |
+| 3496079.notify6.com | tk6if76q.ab1n.net |
 | 3498171.notify6.com | tk6if76q.ab1n.net |
 | 3501655.notify6.com | tk6if76q.ab1n.net |
 | 3505119.notify6.com | tk6if76q.ab1n.net |
@@ -615,6 +619,7 @@
 | 4819336.notify6.com | tk6if76q.ab1n.net |
 | 4832912.notify6.com | tk6if76q.ab1n.net |
 | 4841896.notify6.com | tk6if76q.ab1n.net |
+| 4842686.notify6.com | tk6if76q.ab1n.net |
 | 4872274.notify6.com | tk6if76q.ab1n.net |
 | 4872816.notify6.com | tk6if76q.ab1n.net |
 | 4882380.notify6.com | tk6if76q.ab1n.net |
@@ -631,6 +636,7 @@
 | main.exoclick.com | tk6if76q.ab1n.net |
 | main.exosrv.com | tk6if76q.ab1n.net |
 | main.realsrv.com | tk6if76q.ab1n.net |
+| origin-ads.exdynsrv.com | tk6if76q.ab1n.net |
 | origin-ads.exosrv.com | tk6if76q.ab1n.net |
 | origin-ads.optimizesrv.com | tk6if76q.ab1n.net |
 | origin-ads.realsrv.com | tk6if76q.ab1n.net |
@@ -651,6 +657,7 @@
 | s.orbsrv.com | tk6if76q.ab1n.net |
 | s.st1net.com | tk6if76q.ab1n.net |
 | s.vlink6.com | tk6if76q.ab1n.net |
+| s.wlink1.com | tk6if76q.ab1n.net |
 | s.wlink2.com | tk6if76q.ab1n.net |
 | s.zlink1.com | tk6if76q.ab1n.net |
 | s.zlink2.com | tk6if76q.ab1n.net |
@@ -663,6 +670,7 @@
 | syndication.dynsrvtbg.com | tk6if76q.ab1n.net |
 | syndication.dynsrvwer.com | tk6if76q.ab1n.net |
 | syndication.elink12.com | tk6if76q.ab1n.net |
+| syndication.elink66.com | tk6if76q.ab1n.net |
 | syndication.elink77.com | tk6if76q.ab1n.net |
 | syndication.epcmk.com | tk6if76q.ab1n.net |
 | syndication.exdynsrv.com | tk6if76q.ab1n.net |
@@ -671,6 +679,7 @@
 | syndication.jsadapi.com | tk6if76q.ab1n.net |
 | syndication.link5c.com | tk6if76q.ab1n.net |
 | syndication.link5v.com | tk6if76q.ab1n.net |
+| syndication.linkfryn.com | tk6if76q.ab1n.net |
 | syndication.linkgett.com | tk6if76q.ab1n.net |
 | syndication.linkwitt.com | tk6if76q.ab1n.net |
 | syndication.optimizesrv.com | tk6if76q.ab1n.net |
@@ -678,8 +687,5 @@
 | syndication.whibd.com | tk6if76q.ab1n.net |
 | syndication.whibp.com | tk6if76q.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
-| a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
-| a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.etology.com | w2u4v9e1.ab1n.net |
-| a.redpathmedia.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |

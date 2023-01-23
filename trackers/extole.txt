@@ -20,7 +20,6 @@
 ||refer.american-giant.com^
 ||refer.americanexpress.com^
 ||refer.ancestry.com^
-||refer.aol.com^
 ||refer.backcountry.com^
 ||refer.barenecessities.com^
 ||refer.basictalk.com^
@@ -47,6 +46,7 @@
 ||refer.kipling-usa.com^
 ||refer.leadmd.com^
 ||refer.luckyvitamin.com^
+||refer.midatlantic.aaa.com^
 ||refer.moo.com^
 ||refer.myplant.com^
 ||refer.nvidia.com^
@@ -120,6 +120,7 @@
 ||refer.art.com^
 ||refer.ashleyfurniture.com^
 ||refer.ashleyfurniturehomestore.com^
+||refer.ataglance.com^
 ||refer.athleta.com^
 ||refer.athletawell.com^
 ||refer.awscloud.com^
@@ -169,15 +170,18 @@
 ||refer.etrade.net^
 ||refer.everlywell.com^
 ||refer.fahw.com^
+||refer.farniente.com^
 ||refer.firstrepublic.com^
 ||refer.frontgate.com^
 ||refer.g2.com^
 ||refer.gapcanada.ca^
+||refer.gardenoflife.com^
 ||refer.garnethill.com^
 ||refer.gcefcu.org^
 ||refer.giantfood.com^
 ||refer.giantfoodstores.com^
 ||refer.glamglow.com^
+||refer.glasses.com^
 ||refer.globalknowledge.com^
 ||refer.gnc.com^
 ||refer.gopetplan.ca^
@@ -212,6 +216,7 @@
 ||refer.lendingclub.com^
 ||refer.lenscrafters.com^
 ||refer.lightstream.com^
+||refer.loomandleaf.com^
 ||refer.lull.com^
 ||refer.madison-reed.com^
 ||refer.marinerfinance.com^
@@ -255,6 +260,7 @@
 ||refer.soma.com^
 ||refer.spothero.com^
 ||refer.starfurniture.com^
+||refer.steelseries.com^
 ||refer.stopandshop.com^
 ||refer.studentuniverse.com^
 ||refer.studentuniverse.com.au^
@@ -293,7 +299,6 @@
 ||refer.zomasleep.com^
 ||refer1.experian.com^
 ||referafriend.discover.com^
-||referafriend.guess.com^
 ||referral.cledepeaubeaute.com^
 ||referral.shiseido.com^
 ||referrals.visionsfcu.org^
@@ -408,6 +413,7 @@
 ||share.refer-bumbleandbumble.com^
 ||share.refer-darphin.com^
 ||share.refer-darphin.fr^
+||share.refer-glamglow.com^
 ||share.refer-maccosmetics.ca^
 ||share.refer-maccosmetics.co.uk^
 ||share.refer-maccosmetics.com^

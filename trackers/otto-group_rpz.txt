@@ -64,5 +64,6 @@ tp.sheego.de CNAME .
 tp.universal.at CNAME .
 tp.witt-international.cz CNAME .
 tp.witt-international.sk CNAME .
+tp.witt-weiden.de CNAME .
 tp.yomonda.de CNAME .
 tp.your-look-for-less.se CNAME .

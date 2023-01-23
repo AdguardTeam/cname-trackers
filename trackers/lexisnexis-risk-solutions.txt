@@ -38,6 +38,7 @@
 ||bank.bnpl.c24.de^
 ||banque.banque-casino.fr^
 ||barnacle.tommybahama.com^
+||bifpt.pepperfinance.es^
 ||black-cat.crypto.com^
 ||caveo.boost-my.com^
 ||cbcdn.bankofscotland.co.uk^
@@ -120,6 +121,8 @@
 ||check3-dev.test.tiaabank.com^
 ||check3-qa1.test.tiaabank.com^
 ||check3-qa2.test.tiaabank.com^
+||check3-stg.test.tiaabank.com^
+||check3.everbank.com^
 ||check3.tiaa-cref.org^
 ||check3.tiaa.org^
 ||check3.tiaabank.com^
@@ -308,6 +311,7 @@
 ||debs.my100bank.com^
 ||dep.gambit3.gameassists.co.uk^
 ||dept.provantage.com^
+||dev-rmscheck.sbifxt.co.jp^
 ||device.invoice2go.com^
 ||device.messa.org^
 ||deviceauth.dmv.ca.gov^
@@ -316,6 +320,7 @@
 ||df.greenmangaming.com^
 ||df.thumbtack.com^
 ||dfp.garmin.com^
+||dfp.telering.at^
 ||did.fashionworld.co.uk^
 ||did.koempf24.de^
 ||digitalid-qa.santanderbank.com^
@@ -372,6 +377,7 @@
 ||ifp.intuit.com^
 ||im2.prod.amount.com^
 ||image.online.adp.com^
+||images.exxonmobilfleetoffers.com^
 ||images.wexinc.com^
 ||imagesmx.cdscdn.com^
 ||img.consumer.risk.lexisnexis.com^
@@ -408,6 +414,7 @@
 ||intlsdpntrca.nitrocasino.ca^
 ||intm.amwager.com^
 ||irmp.caa.com^
+||jfp.intuit.com^
 ||jj203.equitablebank.ca^
 ||jytrnq.cm-cic.com^
 ||lab4.lloydsbank.com^
@@ -541,6 +548,7 @@
 ||secure3.segpay.com^
 ||securecheckout.halloweencostumes.com^
 ||secured.netflix.com^
+||service.riverscontent.com^
 ||servicesdp.luckydays.ca^
 ||servicesdp.spinaway.ca^
 ||shield.boostbusiness.my^
@@ -581,6 +589,7 @@
 ||t.my.service1.org^
 ||t.myaccounts.shellfcu.org^
 ||t.mydigital.jfcu.org^
+||t.olb.hawaiistatefcu.com^
 ||t.olb.interracu.com^
 ||t.online.acutx.org^
 ||t.online.bankingonyoucu.org^
@@ -613,6 +622,7 @@
 ||tag.ucp.dor.wa.gov^
 ||tag.unclaimedfunds.nj.gov^
 ||tag.unclaimedproperty.alaska.gov^
+||tag.unclaimedproperty.delaware.gov^
 ||tag.unclaimedproperty.nd.gov^
 ||tags.api.openaccount.natwest.com^
 ||tags.api.openaccount.rbs.co.uk^
@@ -710,6 +720,7 @@
 ||tmx.kijiji.ca^
 ||tmx.pampersrewards.com^
 ||tmx.pat.td.com^
+||tmx.tchek.com^
 ||tmx.td.com^
 ||tmx.tdbank.com^
 ||tmx.uptodate.com^
@@ -756,6 +767,7 @@
 ||w3.calbanktrust.com^
 ||w3.nbarizona.com^
 ||w3.nsbank.com^
+||w3.providerpay.com^
 ||w3.vectrabank.com^
 ||w3.zionsbank.com^
 ||webftm.rbc.com^

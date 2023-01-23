@@ -4,6 +4,7 @@
 ; mm.actionlink.jp disguised trackers
 ;
 actionlk.ozie.co.jp CNAME .
+al.ballon.jp CNAME .
 al.californiastreet.net CNAME .
 al.directishii.net CNAME .
 al.fulcloset.jp CNAME .

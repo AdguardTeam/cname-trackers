@@ -17,6 +17,7 @@
     * 0c693a00-fbzwhcnp.cname.ebis.ne.jp
     * 0cd5dd46-3fyehbqu.cname.ebis.ne.jp
     * 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp
+    * 0ce99b97-bpctqdpn.cname.ebis.ne.jp
     * 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp
     * 0e0f7a7b-skczc9vy.cname.ebis.ne.jp
     * 0ecb3018-xpsz9xxb.cname.ebis.ne.jp
@@ -168,6 +169,7 @@
     * aa9c1a10-bxd3nsfc.cname.ebis.ne.jp
     * ac8dd399-7xybwgkv.cname.ebis.ne.jp
     * ad332265-3fbqyybv.cname.ebis.ne.jp
+    * add991cb-t3ucd5yy.cname.ebis.ne.jp
     * ae331b42-b3j1fwdu.cname.ebis.ne.jp
     * aecb039e-comxtqbc.cname.ebis.ne.jp
     * af715239-g5riys9k.cname.ebis.ne.jp
@@ -228,6 +230,7 @@
     * de3e21a1-ta72utrp.cname.ebis.ne.jp
     * de8331b9-pmffblvq.cname.ebis.ne.jp
     * dfd1c48f-kdknv6tt.cname.ebis.ne.jp
+    * e050f08a-pc93j6qv.cname.ebis.ne.jp
     * e2d9b43b-hutbyrck.cname.ebis.ne.jp
     * e42672f4-rqq2zpub.cname.ebis.ne.jp
     * e50af33d-hd5f4dhg.cname.ebis.ne.jp
@@ -244,6 +247,7 @@
     * f3054804-quxzshgd.cname.ebis.ne.jp
     * f923e064-jwm2vvcx.cname.ebis.ne.jp
     * f9aa3ceb-qaud3usr.cname.ebis.ne.jp
+    * fad9ea2e-fgpe2gow.cname.ebis.ne.jp
     * fc192e57-yfrcguru.cname.ebis.ne.jp
     * fc83fd61-digitalgarage.cname.ebis.ne.jp
     * fe1d7165-mmpoiy89.cname.ebis.ne.jp
@@ -266,6 +270,7 @@
 | cname-ade.original-calendar.com | 0c693a00-fbzwhcnp.cname.ebis.ne.jp |
 | adebiscname.auone.jp | 0cd5dd46-3fyehbqu.cname.ebis.ne.jp |
 | ad-ebis.bookpass.auone.jp | 0cd5dd46-f9cqqk3h.cname.ebis.ne.jp |
+| adebis.crowdcredit.jp | 0ce99b97-bpctqdpn.cname.ebis.ne.jp |
 | ebis-cname.mirai-japan.co.jp | 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp |
 | ac-ebis.usen-store.com | 0e0f7a7b-skczc9vy.cname.ebis.ne.jp |
 | adebis.satori.marketing | 0ecb3018-xpsz9xxb.cname.ebis.ne.jp |
@@ -417,6 +422,7 @@
 | nlp-japan.life-and-mind.com | aa9c1a10-bxd3nsfc.cname.ebis.ne.jp |
 | ebis.jobcan.ne.jp | ac8dd399-7xybwgkv.cname.ebis.ne.jp |
 | isebis.yutoriform.com | ad332265-3fbqyybv.cname.ebis.ne.jp |
+| ebiscname.infofactory.jp | add991cb-t3ucd5yy.cname.ebis.ne.jp |
 | beeline.beeline-tire.co.jp | ae331b42-b3j1fwdu.cname.ebis.ne.jp |
 | eb.o-b-labo.com | aecb039e-comxtqbc.cname.ebis.ne.jp |
 | adebis.daiwahouse.co.jp | af715239-g5riys9k.cname.ebis.ne.jp |
@@ -477,6 +483,7 @@
 | ebis.cp.claudia.co.jp | de3e21a1-ta72utrp.cname.ebis.ne.jp |
 | adebis.hotstaff.co.jp | de8331b9-pmffblvq.cname.ebis.ne.jp |
 | cname1.shakenkan.co.jp | dfd1c48f-kdknv6tt.cname.ebis.ne.jp |
+| frontierconsul02.tsunagaru-office.com | e050f08a-pc93j6qv.cname.ebis.ne.jp |
 | ebis.sbismile.co.jp | e2d9b43b-hutbyrck.cname.ebis.ne.jp |
 | aesus.so-net.ne.jp | e42672f4-rqq2zpub.cname.ebis.ne.jp |
 | tracking.wao-corp.com | e50af33d-hd5f4dhg.cname.ebis.ne.jp |
@@ -493,6 +500,7 @@
 | ebis2020.hoiku-job.net | f3054804-quxzshgd.cname.ebis.ne.jp |
 | adebis.e-ohaka.com | f923e064-jwm2vvcx.cname.ebis.ne.jp |
 | ebis.kan54.jp | f9aa3ceb-qaud3usr.cname.ebis.ne.jp |
+| adex.kintetsu-re.co.jp | fad9ea2e-fgpe2gow.cname.ebis.ne.jp |
 | ebis.funai-finance.com | fc192e57-yfrcguru.cname.ebis.ne.jp |
 | adebis.lifestylemag.jp | fc83fd61-digitalgarage.cname.ebis.ne.jp |
 | axjfkc.kobayashi.co.jp | fe1d7165-mmpoiy89.cname.ebis.ne.jp |

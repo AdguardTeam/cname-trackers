@@ -37,6 +37,7 @@
 ||adebis.angfa-store.jp^
 ||adebis.bathclin.jp^
 ||adebis.chojyu.com^
+||adebis.crowdcredit.jp^
 ||adebis.daiwahouse.co.jp^
 ||adebis.demae-can.com^
 ||adebis.e-ohaka.com^
@@ -87,6 +88,7 @@
 ||adebiscname.auone.jp^
 ||adebiscname.sumirin-ht.co.jp^
 ||adebisu.wowow.co.jp^
+||adex.kintetsu-re.co.jp^
 ||adex.naruko333.jp^
 ||admeasure.hh-online.jp^
 ||adnl.bk.mufg.jp^
@@ -204,6 +206,7 @@
 ||ebis202001.joyfit.jp^
 ||ebisanalysis.mouse-jp.co.jp^
 ||ebiscname.clark.ed.jp^
+||ebiscname.infofactory.jp^
 ||ebiscname.j-esthe-yoyaku.com^
 ||ebiscname.j-esthe.com^
 ||ebiscname.native-phrase.com^
@@ -214,6 +217,7 @@
 ||ebistoppan1.kyowahakko-bio-campaign-1.com^
 ||ebs.viosalon.com^
 ||emc.dr-stick.shop^
+||frontierconsul02.tsunagaru-office.com^
 ||greenjapan-cname.green-japan.com^
 ||hokkaidobank.rapi.jp^
 ||isebis.takamiclinic.or.jp^

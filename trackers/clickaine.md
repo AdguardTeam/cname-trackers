@@ -21,6 +21,7 @@
 | app.willalland.info | api.clickaine.com |
 | asg.animeyt.es | api.clickaine.com |
 | asg.xxxleaks.cc | api.clickaine.com |
+| c.gotoxxxtube.com | api.clickaine.com |
 | c0n.snaggys.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c2n.pornez.net | api.clickaine.com |
@@ -51,6 +52,7 @@
 | cli.its2.net | api.clickaine.com |
 | clkn.apostle.onl | api.clickaine.com |
 | clkn2.apostle.onl | api.clickaine.com |
+| clkn3.apostle.onl | api.clickaine.com |
 | clknrtrg.pro | api.clickaine.com |
 | cln.willyporn.com | api.clickaine.com |
 | cn4.animehdl.net | api.clickaine.com |

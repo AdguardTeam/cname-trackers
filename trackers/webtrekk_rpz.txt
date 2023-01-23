@@ -97,6 +97,7 @@ di.ifolor.ch CNAME .
 di.ifolor.de CNAME .
 di.ifolor.dk CNAME .
 di.ifolor.fi CNAME .
+di.ifolor.ie CNAME .
 di.ifolor.it CNAME .
 di.ifolor.net CNAME .
 dnsbl.test.wbtrkk.teufel.de CNAME .
@@ -202,6 +203,7 @@ wa.sportschau.de CNAME .
 wa.wdr.de CNAME .
 wa.wdrmaus.de CNAME .
 waaf.medion.com CNAME .
+waaf1.aldi-music.de CNAME .
 waaf1.aldilife.com CNAME .
 waaf1.alditalk.de CNAME .
 waaf1.hoferfotos.at CNAME .

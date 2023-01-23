@@ -25,7 +25,6 @@
 ||987656iuyyty.hotscopes.to^
 ||98tang.lol^
 ||a.123porner.com^
-||a.44oo.icu^
 ||a.6vids.space^
 ||a.888x.cyou^
 ||a.abismo-katheryne.top^
@@ -44,7 +43,6 @@
 ||a.epicgoo.com^
 ||a.fapcat.com^
 ||a.fapster.xxx^
-||a.focusde.info^
 ||a.fuckamouth.com^
 ||a.hentai369.com^
 ||a.hentaitube.icu^
@@ -58,7 +56,6 @@
 ||a.manga18.site^
 ||a.marketing.com.sd^
 ||a.naturalhealthsource.club^
-||a.neverbe.xyz^
 ||a.p123p.com^
 ||a.pinayviralsexx.com^
 ||a.pinoymoviepedia.ru^
@@ -96,6 +93,7 @@
 ||ads.al3ably.com^
 ||ads.free-to.download^
 ||ads.hentaiheart.com^
+||ads.onetouchtv.me^
 ||ads.onlyfanspornvideo.com^
 ||ads.pornharlot.com^
 ||ads.pornharlot.net^
@@ -154,6 +152,7 @@
 ||asg.somecdn.bid^
 ||asg.soundrussian.com^
 ||asg.srvtax.com^
+||asg.titdumps.com^
 ||asg.zzipps.com^
 ||asg1.xueserverhost.com^
 ||asg2.xueserverhost.com^
@@ -178,6 +177,7 @@
 ||bac221.skin^
 ||backpub.mom^
 ||bambao.lol^
+||banana.arabtoons.net^
 ||banana.emailon.top^
 ||bc6dc48b743dc5d01.clicknplay.to^
 ||best.gobiga.xyz^
@@ -256,6 +256,7 @@
 ||ebays.beauty^
 ||ebd.cda-hd.cc^
 ||ebd.cda-hd.co^
+||ebod.7mmtv.top^
 ||eco.blendxxx.com^
 ||eep.pukachu.lol^
 ||eightlon.mom^
@@ -272,6 +273,7 @@
 ||free.stat.tk^
 ||freememes.desiceleb.top^
 ||fresh.tuiz.pics^
+||fsdss.7mmtv.top^
 ||fx9.freepornoboss.com^
 ||g.bloblohub.com^
 ||g0dy.site^
@@ -281,6 +283,7 @@
 ||gay0day.online^
 ||gg.xszcdn.com^
 ||ghtry.amateurswild.com^
+||glass.vixfilmes.online^
 ||glokta.info^
 ||go.s5live.com^
 ||go.showmeyouradsnow.com^
@@ -311,6 +314,7 @@
 ||imbdemfjjduu.cdnvideo3.com^
 ||in.fuckhardclips.com^
 ||io.fapnado.com^
+||ipx.7mmtv.top^
 ||ix2.deepsexvids.com^
 ||j45.webringporn.com^
 ||jav.guru.7mmtv.top^
@@ -371,6 +375,8 @@
 ||mediacdn.x1hub.com^
 ||member.javtvnow.xyz^
 ||messic.lol^
+||meyd.7mmtv.top^
+||mide.7mmtv.top^
 ||missgrand.beauty^
 ||missunow.lol^
 ||morezone.lol^
@@ -389,16 +395,12 @@
 ||nodawzua.mom^
 ||nonekvoi.skin^
 ||nope.addhentai.com^
+||nope.arabxforum.com^
 ||nope.sexaoy.com^
 ||nope.xn--mgbkt9eckr.net^
 ||nope.xn--ngbcrg3b.com^
 ||nope.xn--ygba1c.wtf^
-||notads.111javguru.xyz^
-||notads.111supjav.xyz^
-||notads.111supjavcom.xyz^
-||notads.11javguru.xyz^
 ||notads.11supjav.xyz^
-||notads.11supjavcom.xyz^
 ||notads.1gi3rir.xyz^
 ||nx7.hdxxxclips.com^
 ||o313o.com^
@@ -417,7 +419,6 @@
 ||orderz.lol^
 ||outallin.mom^
 ||ox8.topsexhdvideos.com^
-||p.focusde.info^
 ||p123p.com^
 ||p1t.clipnuke.com^
 ||pakeway.lol^
@@ -442,12 +443,14 @@
 ||pornve.sexyadsrun.com^
 ||pornvideos.casa^
 ||possibily.com^
+||pppe.7mmtv.top^
 ||pre.03porno.com^
 ||pre.102porno.club^
 ||pre.102porno.net^
 ||pre.ebasos.club^
 ||pre.ebasos.org^
 ||pre.myfuck.club^
+||pred.7mmtv.top^
 ||profield.ddns.net^
 ||pub.donmam.skin^
 ||pub88.mom^
@@ -502,6 +505,7 @@
 ||srv.acervox.com^
 ||srv1.bunnymediaserver.com^
 ||sshopee.beauty^
+||ssis.7mmtv.top^
 ||ssltest.soundrussian.com^
 ||statement.blauenseville.buzz^
 ||stbvip.co^
@@ -524,7 +528,6 @@
 ||test2.maxx.ddac.ru^
 ||testcommon.soundrussian.com^
 ||tetra.xsuffer.com^
-||theporndude.com.1111supjavcom.xyz^
 ||thescript.javfinder.xyz^
 ||thetranny.online^
 ||tik.boldtur.xyz^
@@ -548,7 +551,6 @@
 ||ulezarern.xsuffer.com^
 ||upset.xsuffer.com^
 ||uthbxvz.bestzba.com^
-||v.focusde.info^
 ||v2pro.stbvip.net^
 ||vavsnhau.mom^
 ||vd.7vid.net^
@@ -607,3 +609,8 @@
 ! cdn66584302.blazingcdn.net disguised trackers
 !
 ||cdn.manhwadesu.me^
+!
+! u53.hypnorat.com disguised trackers
+!
+||ontj.com^
+||qhip.com^
