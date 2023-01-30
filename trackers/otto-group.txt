@@ -28,6 +28,7 @@
 ||te.quelle.ch^
 ||te.quelle.de^
 ||te.sheego.de^
+||te.sieh-an.at^
 ||te.sieh-an.ch^
 ||te.sieh-an.de^
 ||te.universal.at^
@@ -42,6 +43,7 @@
 ||te.your-look-for-less.nl^
 ||te.your-look-for-less.se^
 ||tp.ackermann.ch^
+||tp.ambria.de^
 ||tp.baur.de^
 ||tp.frankonia.at^
 ||tp.frankonia.com^
@@ -63,6 +65,7 @@
 ||tp.sheego.de^
 ||tp.universal.at^
 ||tp.witt-international.cz^
+||tp.witt-international.nl^
 ||tp.witt-international.sk^
 ||tp.witt-weiden.de^
 ||tp.yomonda.de^

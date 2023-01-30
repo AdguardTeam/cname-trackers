@@ -39,6 +39,7 @@
 | tr.actuentreprises.elior.fr | tracking.bp01.net |
 | tr.actupremium.com | tracking.bp01.net |
 | tr.actus-fdj.fr | tracking.bp01.net |
+| tr.afpa.espmp-cufr.net | tracking.bp01.net |
 | tr.alex.espmp-agfr.net | tracking.bp01.net |
 | tr.allianz-trade.com | tracking.bp01.net |
 | tr.allopneus.com | tracking.bp01.net |
@@ -49,7 +50,9 @@
 | tr.apou032.espmp-agfr.net | tracking.bp01.net |
 | tr.asp0018.espmp-aufr.net | tracking.bp01.net |
 | tr.asp002q.espmp-aufr.net | tracking.bp01.net |
+| tr.asp0085.espmp-nifr.net | tracking.bp01.net |
 | tr.asp008y.espmp-nifr.net | tracking.bp01.net |
+| tr.asp00a1.espmp-agfr.net | tracking.bp01.net |
 | tr.asp00a6.espmp-nifr.net | tracking.bp01.net |
 | tr.asp1.espmp-agfr.net | tracking.bp01.net |
 | tr.asp103z.espmp-nifr.net | tracking.bp01.net |
@@ -58,13 +61,17 @@
 | tr.asp106g.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ar.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10bs.espmp-aufr.net | tracking.bp01.net |
+| tr.asp10cg.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ch.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10cr.espmp-nifr.net | tracking.bp01.net |
+| tr.asp10fa.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10h2.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10hi.espmp-cufr.net | tracking.bp01.net |
+| tr.asp2.espmp-agfr.net | tracking.bp01.net |
 | tr.asp202u.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2032.espmp-aufr.net | tracking.bp01.net |
 | tr.asp2035.espmp-nifr.net | tracking.bp01.net |
+| tr.asp203m.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2045.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2063.espmp-nifr.net | tracking.bp01.net |
 | tr.asp206k.espmp-agfr.net | tracking.bp01.net |
@@ -75,6 +82,7 @@
 | tr.b2d1.espmp-agfr.net | tracking.bp01.net |
 | tr.b2d1068.espmp-nifr.net | tracking.bp01.net |
 | tr.b2d106z.espmp-aufr.net | tracking.bp01.net |
+| tr.bati-partner.be | tracking.bp01.net |
 | tr.batirenover.info | tracking.bp01.net |
 | tr.batiweb.co | tracking.bp01.net |
 | tr.bgl.premium-benefits.lu | tracking.bp01.net |
@@ -85,6 +93,7 @@
 | tr.bonplan.mydesign.com | tracking.bp01.net |
 | tr.brand.labelleadresse.com | tracking.bp01.net |
 | tr.btob-afaceri.ro | tracking.bp01.net |
+| tr.btob-cwf.com | tracking.bp01.net |
 | tr.btob-deals.co.uk | tracking.bp01.net |
 | tr.btobquotes.com | tracking.bp01.net |
 | tr.buenasofertas.pro | tracking.bp01.net |
@@ -128,6 +137,7 @@
 | tr.commande.location.boulanger.com | tracking.bp01.net |
 | tr.communaute.caradisiac.com | tracking.bp01.net |
 | tr.communautes-mediametrie.fr | tracking.bp01.net |
+| tr.communication.ancv.com | tracking.bp01.net |
 | tr.communication.arthur-bonnet.com | tracking.bp01.net |
 | tr.communication.b2b-actualites.com | tracking.bp01.net |
 | tr.communication.boursorama.info | tracking.bp01.net |
@@ -182,8 +192,10 @@
 | tr.devisminute-alarme.com | tracking.bp01.net |
 | tr.devisminute-geolocalisation.com | tracking.bp01.net |
 | tr.devisminute-gestionpaie.com | tracking.bp01.net |
+| tr.devisminute-materieldestockage.com | tracking.bp01.net |
 | tr.devisminute-mutuelle.com | tracking.bp01.net |
 | tr.devisminute-operateur.com | tracking.bp01.net |
+| tr.devisminute-securiteb2b.com | tracking.bp01.net |
 | tr.devisminute-siteecommerce.com | tracking.bp01.net |
 | tr.devisminute-weber.com | tracking.bp01.net |
 | tr.devize-companeo.ro | tracking.bp01.net |
@@ -197,6 +209,7 @@
 | tr.dossier-assurance.maaf.fr | tracking.bp01.net |
 | tr.drh-holding.lvmh.fr | tracking.bp01.net |
 | tr.e-mail.axa.fr | tracking.bp01.net |
+| tr.e.entreprise-pm.fr | tracking.bp01.net |
 | tr.e.entreprise-pm.net | tracking.bp01.net |
 | tr.e.m-entreprise.fr | tracking.bp01.net |
 | tr.e.trouver-un-logement-neuf.com | tracking.bp01.net |
@@ -250,6 +263,7 @@
 | tr.emailing.detours.canal.fr | tracking.bp01.net |
 | tr.emailing.grassavoye.com | tracking.bp01.net |
 | tr.emailing.pogioclub.be | tracking.bp01.net |
+| tr.emailing.studiocanal.com | tracking.bp01.net |
 | tr.emailium.fr | tracking.bp01.net |
 | tr.enedis-infos.fr | tracking.bp01.net |
 | tr.enews.customsolutions.fr | tracking.bp01.net |
@@ -259,6 +273,7 @@
 | tr.entreprise-pro.info | tracking.bp01.net |
 | tr.entreprise.axa.fr | tracking.bp01.net |
 | tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
+| tr.ere.emailing.bnpparibas | tracking.bp01.net |
 | tr.estatesandwines.moethennessy.com | tracking.bp01.net |
 | tr.etravauxpro.fr | tracking.bp01.net |
 | tr.eulerhermes.com | tracking.bp01.net |
@@ -271,6 +286,7 @@
 | tr.fleetmatics.vraaguwofferte.be | tracking.bp01.net |
 | tr.forum.veuveclicquot.fr | tracking.bp01.net |
 | tr.fr.pro.accor.com | tracking.bp01.net |
+| tr.france.plimsoll.fr | tracking.bp01.net |
 | tr.futurecommerce.moethennessy.com | tracking.bp01.net |
 | tr.gap-fr.fr | tracking.bp01.net |
 | tr.gdfsuez-globalenergy.info | tracking.bp01.net |
@@ -295,6 +311,8 @@
 | tr.hcahealthcare.co.uk | tracking.bp01.net |
 | tr.hello.maisonfoody.com | tracking.bp01.net |
 | tr.helloartisan.info | tracking.bp01.net |
+| tr.hmut.espmp-agfr.net | tracking.bp01.net |
+| tr.impayes.filiassur.com | tracking.bp01.net |
 | tr.info-btob-leaders.com | tracking.bp01.net |
 | tr.info-companeo.be | tracking.bp01.net |
 | tr.info-pro.promoneuve.fr | tracking.bp01.net |
@@ -312,6 +330,7 @@
 | tr.info.casino-proximites.fr | tracking.bp01.net |
 | tr.info.comparadordeprestamos.es | tracking.bp01.net |
 | tr.info.covid-resistance-bretagne.fr | tracking.bp01.net |
+| tr.info.dentexelans.com | tracking.bp01.net |
 | tr.info.easyviaggio.com | tracking.bp01.net |
 | tr.info.easyviajar.com | tracking.bp01.net |
 | tr.info.easyvoyage.co.uk | tracking.bp01.net |
@@ -351,6 +370,7 @@
 | tr.informations.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.informations.lcl.fr | tracking.bp01.net |
 | tr.infos.afpa.fr | tracking.bp01.net |
+| tr.infos.fongecifcentre.com | tracking.bp01.net |
 | tr.infos.gazdebordeaux.fr | tracking.bp01.net |
 | tr.infos.mailrungis.com | tracking.bp01.net |
 | tr.infos.odalys-vacances.com | tracking.bp01.net |
@@ -359,7 +379,9 @@
 | tr.interviews-mediametrie.fr | tracking.bp01.net |
 | tr.invest.younited-credit.com | tracking.bp01.net |
 | tr.invitation-mesdessous.fr | tracking.bp01.net |
+| tr.invitation.perfectstay.com | tracking.bp01.net |
 | tr.italia.plimsoll.it | tracking.bp01.net |
+| tr.jend.espmp-pofr.net | tracking.bp01.net |
 | tr.jesuis.enformedelotus.com | tracking.bp01.net |
 | tr.jevoteenligne.fr | tracking.bp01.net |
 | tr.jkyg.espmp-cufr.net | tracking.bp01.net |
@@ -367,6 +389,7 @@
 | tr.klse.espmp-agfr.net | tracking.bp01.net |
 | tr.kommunikation.younited-credit.com | tracking.bp01.net |
 | tr.kontakt.younited-credit.com | tracking.bp01.net |
+| tr.kpfc.espmp-nifr.net | tracking.bp01.net |
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
 | tr.kpyn02f.espmp-cufr.net | tracking.bp01.net |
 | tr.krus.espmp-agfr.net | tracking.bp01.net |
@@ -376,6 +399,8 @@
 | tr.lesmarquesenviedebienmanger.fr | tracking.bp01.net |
 | tr.lettre.dechets-infos.com | tracking.bp01.net |
 | tr.lettre.helianthal.fr | tracking.bp01.net |
+| tr.lettre.lecho-circulaire.com | tracking.bp01.net |
+| tr.loreal.ifop.com | tracking.bp01.net |
 | tr.louvre-boites.com | tracking.bp01.net |
 | tr.ltbu.espmp-nifr.net | tracking.bp01.net |
 | tr.lvmhappening.lvmh.fr | tracking.bp01.net |
@@ -423,6 +448,7 @@
 | tr.mika.espmp-nifr.net | tracking.bp01.net |
 | tr.mm.infopro-digital.com | tracking.bp01.net |
 | tr.mnoc.espmp-nifr.net | tracking.bp01.net |
+| tr.moes.espmp-agfr.net | tracking.bp01.net |
 | tr.moja-wycena.pl | tracking.bp01.net |
 | tr.mondevis-pro.com | tracking.bp01.net |
 | tr.mp.aconclue-business.fr | tracking.bp01.net |
@@ -444,7 +470,9 @@
 | tr.news-companeo.mx | tracking.bp01.net |
 | tr.news-companeo.nl | tracking.bp01.net |
 | tr.news-companeo.pl | tracking.bp01.net |
+| tr.news-dfc.sciences-po.fr | tracking.bp01.net |
 | tr.news.a-t.fr | tracking.bp01.net |
+| tr.news.a2micile.com | tracking.bp01.net |
 | tr.news.accessmbatour.com | tracking.bp01.net |
 | tr.news.alibabuy.com | tracking.bp01.net |
 | tr.news.alinea.com | tracking.bp01.net |
@@ -460,6 +488,7 @@
 | tr.news.casinodrive.fr | tracking.bp01.net |
 | tr.news.casinomax.fr | tracking.bp01.net |
 | tr.news.cdiscount.com | tracking.bp01.net |
+| tr.news.cdiscountpro.com | tracking.bp01.net |
 | tr.news.chapsvision.com | tracking.bp01.net |
 | tr.news.chilican.com | tracking.bp01.net |
 | tr.news.companeo.es | tracking.bp01.net |
@@ -485,6 +514,7 @@
 | tr.news.eureden.com | tracking.bp01.net |
 | tr.news.eurodatatv.com | tracking.bp01.net |
 | tr.news.exclu.fr | tracking.bp01.net |
+| tr.news.externis.com | tracking.bp01.net |
 | tr.news.flandrintechnologies.com | tracking.bp01.net |
 | tr.news.futuramedia.fr | tracking.bp01.net |
 | tr.news.geantcasino.fr | tracking.bp01.net |
@@ -500,6 +530,7 @@
 | tr.news.itancia.com | tracking.bp01.net |
 | tr.news.jautomatise.com | tracking.bp01.net |
 | tr.news.kalivet.com | tracking.bp01.net |
+| tr.news.kpmg-avocats.fr | tracking.bp01.net |
 | tr.news.kpmgnet.fr | tracking.bp01.net |
 | tr.news.kuhn.com | tracking.bp01.net |
 | tr.news.la-collectionairfrance.fr | tracking.bp01.net |
@@ -507,6 +538,7 @@
 | tr.news.labelleadresse.com | tracking.bp01.net |
 | tr.news.lacollection-airfrance.be | tracking.bp01.net |
 | tr.news.lacollection-airfrance.ch | tracking.bp01.net |
+| tr.news.lacollection-airfrance.co.uk | tracking.bp01.net |
 | tr.news.lacollection-airfrance.fr | tracking.bp01.net |
 | tr.news.lacollectionairfrance.be | tracking.bp01.net |
 | tr.news.lacollectionairfrance.co.uk | tracking.bp01.net |
@@ -519,6 +551,7 @@
 | tr.news.linxea.com | tracking.bp01.net |
 | tr.news.lisez.com | tracking.bp01.net |
 | tr.news.maisonfoody.com | tracking.bp01.net |
+| tr.news.maisons-du-monde.com | tracking.bp01.net |
 | tr.news.manufacturing.fr | tracking.bp01.net |
 | tr.news.mdbp.fr | tracking.bp01.net |
 | tr.news.mediametrie.fr | tracking.bp01.net |
@@ -553,6 +586,7 @@
 | tr.news.vetharmonie.fr | tracking.bp01.net |
 | tr.news.videofutur.fr | tracking.bp01.net |
 | tr.news.vip-diary.com | tracking.bp01.net |
+| tr.news.vip-mag.co.uk | tracking.bp01.net |
 | tr.news.vipmag.fr | tracking.bp01.net |
 | tr.news.vivrecotesud.fr | tracking.bp01.net |
 | tr.news.votreargent.lexpress.fr | tracking.bp01.net |
@@ -573,6 +607,7 @@
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
 | tr.newsletter.ecig-privee.fr | tracking.bp01.net |
 | tr.newsletter.erenumerique.fr | tracking.bp01.net |
+| tr.newsletter.etoiledevenus.com | tracking.bp01.net |
 | tr.newsletter.fotodiscount.com | tracking.bp01.net |
 | tr.newsletter.huilesdolive.fr | tracking.bp01.net |
 | tr.newsletter.jowae.com | tracking.bp01.net |
@@ -582,6 +617,7 @@
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |
 | tr.newsletter.meilleurmobile.com | tracking.bp01.net |
 | tr.newsletter.milleis.fr | tracking.bp01.net |
+| tr.newsletter.monmedium.com | tracking.bp01.net |
 | tr.newsletter.np6.com | tracking.bp01.net |
 | tr.newsletter.np6.fr | tracking.bp01.net |
 | tr.newsletter.opcoep.fr | tracking.bp01.net |
@@ -629,9 +665,11 @@
 | tr.offer-companeo.co.uk | tracking.bp01.net |
 | tr.offerte.migliorifornitori.it | tracking.bp01.net |
 | tr.offre-companeo.com | tracking.bp01.net |
+| tr.offre.devisdirect.com | tracking.bp01.net |
 | tr.offres-professionnelles.fr | tracking.bp01.net |
 | tr.offres.ap-regie.fr | tracking.bp01.net |
 | tr.offres.bfmtv.com | tracking.bp01.net |
+| tr.offresbtoc.engie.fr | tracking.bp01.net |
 | tr.offrevip.banque-casino.fr | tracking.bp01.net |
 | tr.offrevip.floa.fr | tracking.bp01.net |
 | tr.operations.butagaz.fr | tracking.bp01.net |
@@ -642,11 +680,14 @@
 | tr.part.offres-cartegie.fr | tracking.bp01.net |
 | tr.partenaire.manageo.info | tracking.bp01.net |
 | tr.particuliers8.engie.com | tracking.bp01.net |
+| tr.partners.younited-credit.it | tracking.bp01.net |
+| tr.pixe.espmp-cufr.net | tracking.bp01.net |
 | tr.pole-emploi-services.com | tracking.bp01.net |
 | tr.policyexpert.info | tracking.bp01.net |
 | tr.politicolive.eu | tracking.bp01.net |
 | tr.politicomarketing.eu | tracking.bp01.net |
 | tr.portail.afpa.fr | tracking.bp01.net |
+| tr.premierembatour.com | tracking.bp01.net |
 | tr.prevention.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.preventivo.risparmiazienda.it | tracking.bp01.net |
 | tr.pro-renov.be | tracking.bp01.net |
@@ -657,6 +698,7 @@
 | tr.promotion.lexpress.fr | tracking.bp01.net |
 | tr.prosfores-companeo.gr | tracking.bp01.net |
 | tr.prosfores-etairias.gr | tracking.bp01.net |
+| tr.psaparts.com | tracking.bp01.net |
 | tr.publicisdrugstore.espmp-agfr.net | tracking.bp01.net |
 | tr.qualitaetsumfrage.com | tracking.bp01.net |
 | tr.qualitaveicolo.com | tracking.bp01.net |
@@ -682,6 +724,7 @@
 | tr.reglementaire.emailing.bnpparibas | tracking.bp01.net |
 | tr.relation.uneo.fr | tracking.bp01.net |
 | tr.renowizze.be | tracking.bp01.net |
+| tr.rh.auchan.com | tracking.bp01.net |
 | tr.route-solutiondata.fr | tracking.bp01.net |
 | tr.roxi02e.espmp-agfr.net | tracking.bp01.net |
 | tr.sash.espmp-aufr.net | tracking.bp01.net |
@@ -696,6 +739,7 @@
 | tr.serviceclient.bf-depannage.fr | tracking.bp01.net |
 | tr.serviceclient.depanchauffageservice.fr | tracking.bp01.net |
 | tr.serviceclient.effica-service.fr | tracking.bp01.net |
+| tr.serviceclient.explore.fr | tracking.bp01.net |
 | tr.serviceclient.gazservicerapide.fr | tracking.bp01.net |
 | tr.serviceclient.ochauffage.fr | tracking.bp01.net |
 | tr.serviceclient.somgaz.fr | tracking.bp01.net |
@@ -729,6 +773,7 @@
 | tr.uk.katun.com | tracking.bp01.net |
 | tr.unaoffertaalgiorno.com | tracking.bp01.net |
 | tr.update.groupon.be | tracking.bp01.net |
+| tr.urfk02r.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk02v.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk03h.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03q.espmp-nifr.net | tracking.bp01.net |
@@ -742,6 +787,8 @@
 | tr.urfk06y.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk07j.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk07s.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk080.espmp-agfr.net | tracking.bp01.net |
+| tr.vernede.huilesdolive.fr | tracking.bp01.net |
 | tr.videofutur.fr | tracking.bp01.net |
 | tr.ville.bordeaux.fr | tracking.bp01.net |
 | tr.voeux-wishes.ipsilon-ip.com | tracking.bp01.net |
@@ -771,5 +818,7 @@
 | tr1.lr003.net | tracking.bp01.net |
 | tr1.mailperf.com | tracking.bp01.net |
 | tr1.mailperformance.com | tracking.bp01.net |
+| tr1.mperf.com | tracking.bp01.net |
+| tr5.mailperf.com | tracking.bp01.net |
 | tracking.allopneus.com | tracking.bp01.net |
 | www.tr.bfc-mp.caisse-epargne.fr | tracking.bp01.net |

@@ -20,6 +20,7 @@ also.greatsecuritydebate.net
 an.xavierrosee.com
 analytics.adam.page
 analytics.adonisjs.com
+analytics.andrewsmith.com.au
 analytics.arunraghavan.net
 analytics.basistheory.com
 analytics.betterplaces.nl
@@ -68,6 +69,7 @@ analytics.whotargets.me
 analytics.winter.ink
 analytics.wittypen.com
 analytics.xiloc.net
+analytics.yeshou.run
 analytics.zevvle.com
 anneliese.scale.at
 antitracking.owncast.online
@@ -75,6 +77,7 @@ ap.dt.gl
 api.decentralize.today
 api.dt.gl
 api.elliehuxtable.com
+api.fuck.education
 api.ryanyao.design
 app-stats.supernotes.app
 ares.buyersclub.se
@@ -225,6 +228,7 @@ plausible.bernheisel.com
 plausible.billfox.co
 plausible.bostad.shop
 plausible.brandonly.me
+plausible.buildfirst.tech
 plausible.campwire.com
 plausible.conveyal.com
 plausible.corbettbarr.com
@@ -252,6 +256,7 @@ plausible.haltakov.net
 plausible.hellpancake.com
 plausible.help.exploreandcreate.com
 plausible.joinself.com
+plausible.k6sbw.net
 plausible.kabaret.no
 plausible.kdojang.com
 plausible.kreya.app
@@ -277,6 +282,7 @@ plausible.reactpreview.com
 plausible.redchamp.net
 plausible.regex.help
 plausible.riok.ch
+plausible.shadygrovepca.org
 plausible.simplelogin.io
 plausible.staging.sketch.com
 plausible.starlegacyfoundation.org
@@ -328,6 +334,7 @@ s.sporks.space
 s.stgeorgeafc.com.au
 s.tritoninfosec.com
 s.useeffectbyexample.com
+s.vucko.co
 s.webkilde.dk
 sa.flux.community
 sats.mailbrew.com
@@ -344,6 +351,7 @@ sp.spaceomatic.fr
 spock.dom.codes
 spock.domjtalbot.codes
 st.preciousamber.com
+st.websites.txk.me
 starman.floorcleanse.co.uk
 stat.bill.harding.blog
 stat.landingpro.pl
@@ -351,6 +359,7 @@ stat.tomdebruijn.com
 stat.umsu.de
 statistics.csweapons.com
 statistics.heatbeat.de
+statistics.vercadium.com
 statistik.apartments-tirolerhaus.at
 statistik.veronika-steiner.at
 stats-xavie.mirmon.co.uk
@@ -377,10 +386,12 @@ stats.arquido.com
 stats.artistchristinacarmel.com
 stats.ashleysheekey.co.uk
 stats.astrr.ru
+stats.asymptotic.io
 stats.athleteswith.com
 stats.auto-dombrowski.de
 stats.autofarm.network
-stats.aynils.ca
+stats.babymatras.net
+stats.balticgruppen.se
 stats.bananatimer.com
 stats.baptistwomen.com
 stats.basecamp.com
@@ -435,12 +446,14 @@ stats.chomp.haus
 stats.chronoslabs.net
 stats.cinqsecondes.fr
 stats.citizenos.com
+stats.clavisaurea.xyz
 stats.cleverdiabetic.com
 stats.cloud-backup-for-podio.com
 stats.coachingcourses.pro
 stats.code-it-studio.de
 stats.codeexposed.com
 stats.codinginfinity.me
+stats.codis.io
 stats.coditia.com
 stats.cohere.so
 stats.colabra.app
@@ -448,6 +461,7 @@ stats.coldbox.org
 stats.coloursoftware.com
 stats.consistum.com
 stats.contentwritingjobs.com
+stats.covid.vitordino.com
 stats.craftybase.com
 stats.creativeboom.com
 stats.creativinn.com
@@ -467,6 +481,7 @@ stats.danner-landschaftsbau.at
 stats.dashbit.co
 stats.davidlms.com
 stats.davydepauw.be
+stats.declanbyrd.co.uk
 stats.deescut.com
 stats.deja-lu.de
 stats.derekknight.tech
@@ -501,6 +516,7 @@ stats.elixir-lang.org
 stats.elixirstream.dev
 stats.emaillove.com
 stats.emailrep.io
+stats.emmah.net
 stats.emmas.site
 stats.engeldirekt.de
 stats.engineering.freeagent.com
@@ -534,11 +550,13 @@ stats.games.horse
 stats.gbc.uk
 stats.gearprices.io
 stats.geobox.app
+stats.gesund-vital-lebensfreude.com
 stats.getdoks.org
 stats.gethyas.com
 stats.getpickaxe.com
 stats.gigride.live
 stats.glassmountains.co.uk
+stats.glyde.com.br
 stats.glyphs.fyi
 stats.gnalt.de
 stats.goldsguide.com
@@ -553,6 +571,7 @@ stats.guersanguillaume.com
 stats.guidingwallet.app
 stats.hackershare.dev
 stats.headhunted.com.au
+stats.helenagwyn.com
 stats.hex.pm
 stats.hexdocs.pm
 stats.hey.com
@@ -580,6 +599,7 @@ stats.infoboard.de
 stats.innoq.com
 stats.instabudget.app
 stats.interactjs.io
+stats.interruptor.pt
 stats.intothebox.org
 stats.invoice.orballo.dev
 stats.ipadhire.co.nz
@@ -591,10 +611,12 @@ stats.ivs.rocks
 stats.jackwhiting.co.uk
 stats.jamesevers.co.uk
 stats.jamesilesantiques.com
+stats.jamhouse.app
 stats.jansix.at
 stats.jawebb.se
 stats.jdheyburn.co.uk
 stats.jerickson.net
+stats.jhsheridan.com
 stats.jjude.com
 stats.joaopedro.dev
 stats.johnmac.pro
@@ -618,6 +640,7 @@ stats.krauss.io
 stats.kruimel-dief.nl
 stats.kryptoslogic.com
 stats.kyushoku2050.org
+stats.laminext.dev
 stats.laptopsin.space
 stats.larsroettig.dev
 stats.lastfm.matthiasloibl.com
@@ -652,7 +675,10 @@ stats.memberdrive.org
 stats.mentorcore.biz
 stats.mesenvies.fr
 stats.michaeloliver.dev
+stats.migrantworker.ca
+stats.missionmet.com
 stats.missionrabies.com
+stats.mmazzarolo.com
 stats.moco-comics.com
 stats.motion-effect.com
 stats.mtsknn.fi
@@ -673,10 +699,14 @@ stats.onepagelove.com
 stats.opengatechurch.ca
 stats.orbitalhealth.co
 stats.ortussolutions.com
+stats.osteopathes.pro
+stats.otsohavanto.net
 stats.oursky.com
+stats.outpostdemo.com
 stats.oxygem.com
 stats.passwordyeti.com
 stats.pasteapp.io
+stats.pastorwagner.com
 stats.paulbutler.org
 stats.paysagistes.pro
 stats.pendleratlas.de
@@ -686,6 +716,8 @@ stats.phelsumagrandis.de
 stats.photographer.com.au
 stats.photovisionprints.com
 stats.pianoplanet.app
+stats.piersr.com
+stats.pilgrimway.ca
 stats.piranhas.co
 stats.pizzapizza.io
 stats.planxti.com
@@ -695,14 +727,17 @@ stats.poweringpastcoal.org
 stats.pri.org
 stats.principal-it.eu
 stats.print.work
+stats.profibojler.hu
 stats.profilehunt.net
 stats.profitablesignpricing.com
 stats.pubfind.io
+stats.querystash.com
 stats.quicksilvercre.com
 stats.radreiseglueck.de
 stats.raidprotect.org
 stats.rasulkireev.com
 stats.reactshowcase.com
+stats.referralhero.com
 stats.reisemobil.pro
 stats.remotebear.io
 stats.reprage.com
@@ -717,6 +752,7 @@ stats.rushilperera.me
 stats.ruthmontenegro.com
 stats.rymawby.com
 stats.sahpa.co.za
+stats.salonsuites.com
 stats.sapnininkas.com
 stats.savethemothers.org
 stats.sayla.io
@@ -730,6 +766,8 @@ stats.sexplore.app
 stats.shareup.app
 stats.sirdata.com
 stats.sixseven.at
+stats.ski.com
+stats.slicedthread.com
 stats.socialeurope.eu
 stats.sommselect.com
 stats.soundbite.so
@@ -753,6 +791,7 @@ stats.suenicholls.com
 stats.svemir.co
 stats.svenadolph.net
 stats.swicket.io
+stats.szwrc.co
 stats.tekin.co.uk
 stats.telositycompany.com
 stats.tempesteg.com
@@ -760,6 +799,7 @@ stats.textprotocol.org
 stats.thenewradiance.com
 stats.thingsthatkeepmeupatnight.dev
 stats.thomasfroese.com
+stats.thomasvitale.com
 stats.threadstart.io
 stats.timkhoury.com
 stats.timmyomahony.com
@@ -769,19 +809,25 @@ stats.tomorrowacademy.org
 stats.torontohhs.org
 stats.tresor.one
 stats.trimbles.ie
+stats.trypricelist.com
 stats.tsas.ca
 stats.twhl.xyz
 stats.ubiwiz.com
 stats.urbanfinn.com
 stats.urlaubsverwaltung.cloud
 stats.useeffect.dev
+stats.uxtools.co
+stats.vdsnow.ru
+stats.vertis.io
 stats.vinkkaa.fi
 stats.visions.ch
+stats.voetenzak.net
 stats.voltamediahouse.com
 stats.wa.derivation.fr
 stats.wachstum.at
 stats.walkiees.co.uk
 stats.wavepointconsulting.ca
+stats.websnap.app
 stats.wecodeni.com
 stats.whenpigsflybbq.com
 stats.whereisit5pmrightnow.com
@@ -791,6 +837,7 @@ stats.wvsindia.org
 stats.xn--drivation-b4a.fr
 stats.yourdallashandyman.com
 sts.papyrs.com
+stts.emplution.com
 stts.sgab-srfp.ch
 t.andarpersassi.it
 t.lastcast.fm

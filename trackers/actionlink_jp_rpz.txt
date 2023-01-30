@@ -11,6 +11,7 @@ al.fulcloset.jp CNAME .
 al.ganzo.ne.jp CNAME .
 al.germanpet.com CNAME .
 al.junior-onlineshop.jp CNAME .
+al.kbwine.com CNAME .
 al.kirario.jp CNAME .
 al.office-com.jp CNAME .
 al.pierrotshop.jp CNAME .

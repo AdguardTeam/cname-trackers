@@ -65,6 +65,7 @@
     * 302571338326011.wt-eu02.net
     * 302631813489498.wt-eu02.net
     * 306539831205028.wt-eu02.net
+    * 306840111891766.wt-eu02.net
     * 307902509027183.wt-eu02.net
     * 310695274957699.wt-eu02.net
     * 318590743478915.wt-eu02.net
@@ -242,6 +243,7 @@
 | data.engelhorn.com | 302631813489498.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
 | web.tamaris.com | 306539831205028.wt-eu02.net |
+| web.e.panmacmillan.com | 306840111891766.wt-eu02.net |
 | a.hrewards.com | 307902509027183.wt-eu02.net |
 | a.intercityhotel.com | 307902509027183.wt-eu02.net |
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |
@@ -383,6 +385,7 @@
 | di.ifolor.ie | di.ifolor.wt-eu02.net |
 | di.ifolor.it | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
+| di.spreadmorelove.ch | di.ifolor.wt-eu02.net |
 | wt.distrelec.com | distrelec-02.webtrekk.net |
 | pix.eads.com | eads-com01.webtrekk.net |
 | track.emeza.ch | emeza-ch01.webtrekk.net |
@@ -410,6 +413,7 @@
 | startrekk.flaconi.at | flaconi-at.wt-eu02.net |
 | startrekk.flaconi.de | flaconi02.webtrekk.net |
 | w3.flatex.at | flatex-at01.webtrekk.net |
+| w3.flatex.es | flatex-at01.webtrekk.net |
 | w3.flatex.nl | flatex-at01.webtrekk.net |
 | w3.flatex.de | flatex-de01.webtrekk.net |
 | data.goertz.de | goertz-01.wt-eu02.net |
@@ -512,6 +516,7 @@
 | wa.wdrmaus.de | wa-wdr.wt-eu02.net |
 | images1.test.de | warentest-de01.webtrekk.net |
 | spr.welt.de | welt-01.wt-eu02.net |
+| wt.ara.ad | wt-ara.wt-eu02.net |
 | wt.ara.cat | wt-ara.wt-eu02.net |
 | web.marketing.jellybelly.com | wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com |
 | wttd.douglas.at | wttd-douglas.wt-eu02.net |

@@ -17,10 +17,13 @@
 7mx.eider.com CNAME .
 7mx.eidershop.com CNAME .
 8ezc.sfr.fr CNAME .
+a.audi.fr CNAME .
 a.oney.es CNAME .
 a.perfumesclub.com CNAME .
 a.perfumesclub.fr CNAME .
 a.perfumesclub.nl CNAME .
+a.perfumesclub.pl CNAME .
+a.weareknitters.co.uk CNAME .
 a.weareknitters.dk CNAME .
 a.weareknitters.nl CNAME .
 a.weareknitters.se CNAME .
@@ -34,6 +37,7 @@ anz7.allianz-voyage.fr CNAME .
 aod4.societegenerale.fr CNAME .
 ar.i-run.fr CNAME .
 azg1.emalu-store.com CNAME .
+b1n.carabins.umontreal.ca CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
 bft5.destinia.fr CNAME .
@@ -49,6 +53,7 @@ c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
 cc.conforama.es CNAME .
+cf.campagnes-france.com CNAME .
 ch.credithypo.com CNAME .
 ch0p.darty.com CNAME .
 cls7.theushuaiaexperience.com CNAME .
@@ -86,6 +91,7 @@ ea.comprendrechoisir.com CNAME .
 ea.dcshoes-europe.com CNAME .
 ea.deguisetoi.fr CNAME .
 ea.diamant-unique.com CNAME .
+ea.easyvoyage.com CNAME .
 ea.ecotour.com CNAME .
 ea.elstarprevention.com CNAME .
 ea.evaway.com CNAME .
@@ -116,6 +122,7 @@ ea.millet-mountain.com CNAME .
 ea.millet-mountain.de CNAME .
 ea.millet.fr CNAME .
 ea.mistergatesdirect.com CNAME .
+ea.moncornerdeco.com CNAME .
 ea.mondial-assistance.fr CNAME .
 ea.natiloo.com CNAME .
 ea.netvox-assurances.com CNAME .
@@ -171,17 +178,20 @@ eulerian.belambra.be CNAME .
 eulerian.belambra.fr CNAME .
 eulerian.canal-plus.com CNAME .
 eulerian.eidershop.com CNAME .
+eulerian.eveiletjeux.com CNAME .
 eulerian.look-voyages.fr CNAME .
 eulerian.madeindesign.com CNAME .
 eulerian.malakoffmederic.com CNAME .
 eulerian.mathon.fr CNAME .
 eulerian.monoprix.fr CNAME .
 eulerian.motoblouz.com CNAME .
+eulerian.netbooster.com CNAME .
 eulerian.officiel-des-vacances.com CNAME .
 eulerian.sarenza.com CNAME .
 eulerian.siandso.com CNAME .
 eulerian.structube.com CNAME .
 eulerian.telechargement.fr CNAME .
+eulerian.tgv-europe.es CNAME .
 eulerian.thalasseo.com CNAME .
 eulerian.voyage-prive.com CNAME .
 eultech.fnac.com CNAME .
@@ -202,6 +212,7 @@ fpb8.esce.fr CNAME .
 fsz1.francoisesaget.be CNAME .
 fsz1.francoisesaget.com CNAME .
 fzb5.laboratoire-giphar.fr CNAME .
+fze8.carrefour-banque.fr CNAME .
 fzu4.bysidecar.com CNAME .
 g1be.swisslife-direct.fr CNAME .
 gda1.coworkimmo.com CNAME .
@@ -216,6 +227,7 @@ h00c.sfr.fr CNAME .
 hbo5.concours-pass.com CNAME .
 hby7.destinia.it CNAME .
 hgf4.zanzicar.fr CNAME .
+hk2d.tourismemauricie.com CNAME .
 hkj8.evobanco.com CNAME .
 idg1.idgarages.com CNAME .
 inv3te.oui.sncf CNAME .
@@ -239,10 +251,12 @@ leo1.leon-de-bruxelles.fr CNAME .
 let1.devialet.com CNAME .
 lio8.destinia.com.pa CNAME .
 ljb0.assuronline.com CNAME .
+lp.to-lipton.com CNAME .
 lsv5.belambra.fr CNAME .
 ltm6.destinia.se CNAME .
 ly8c.caci-online.fr CNAME .
 lzuc.sfr.fr CNAME .
+m10.m1029.com CNAME .
 m3ds.subarumetropolitain.com CNAME .
 mfd.myfirstdressing.com CNAME .
 mgt7.madeindesign.it CNAME .
@@ -271,6 +285,7 @@ nmo1.orpi.com CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
+nym5c.bonlook.com CNAME .
 nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
@@ -291,6 +306,7 @@ ouk7.grantalexander.com CNAME .
 p.pmu.fr CNAME .
 p8s.oxbowshop.com CNAME .
 pbox.no.photobox.com CNAME .
+pbox.photobox.at CNAME .
 pbox.photobox.be CNAME .
 pbox.photobox.ch CNAME .
 pbox.photobox.co.nz CNAME .
@@ -329,6 +345,7 @@ qzu5.carrefour-banque.fr CNAME .
 r1ztni.oui.sncf CNAME .
 r4nds.absorba.com CNAME .
 rce.iperceptions.com CNAME .
+rh1a.granions.fr CNAME .
 rjg2.destinia.ly CNAME .
 rmp4.destinia.uy CNAME .
 rqz4.supdigital.fr CNAME .
@@ -337,6 +354,7 @@ rvz9.destinia.co.ro CNAME .
 ry0.rythmefm.com CNAME .
 s4e8.cascades.com CNAME .
 sa.lesselectionsskoda.fr CNAME .
+sa.skoda.fr CNAME .
 sa.skodasuperb.fr CNAME .
 sby1.madeindesign.de CNAME .
 sd.securitasdirect.fr CNAME .
@@ -402,6 +420,7 @@ vpf4.euskaltelofertas.com CNAME .
 vpl.voyage-prive.pl CNAME .
 vqp3.madeindesign.co.uk CNAME .
 vry9.destinia.com CNAME .
+vs.verisure.fr CNAME .
 vtf2f.banque-casino.fr CNAME .
 why3.inseec.education CNAME .
 wlp3.aegon.es CNAME .

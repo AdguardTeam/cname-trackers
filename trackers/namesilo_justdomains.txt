@@ -329,6 +329,7 @@
 3414351.notifysrv.com
 3414369.notifysrv.com
 3416097.notifysrv.com
+3416107.notifysrv.com
 3416169.notifysrv.com
 3416183.notifysrv.com
 3416833.notifysrv.com
@@ -396,6 +397,7 @@
 3474937.notify6.com
 3474937.notifysrv.com
 3475333.notifysrv.com
+3475337.notifysrv.com
 3476453.notifysrv.com
 3478737.notifysrv.com
 3483067.notifysrv.com
@@ -467,6 +469,7 @@
 3557821.notifysrv.com
 3562657.notifysrv.com
 3562665.notify6.com
+3563551.notifysrv.com
 3563663.notifysrv.com
 3566697.notifysrv.com
 3566839.notifysrv.com
@@ -505,6 +508,7 @@
 3717105.notify6.com
 3724345.notify6.com
 3745197.notify6.com
+3767411.notify6.com
 3768747.notify6.com
 3789703.notifysrv.com
 3814695.notifysrv.com
@@ -512,6 +516,7 @@
 3869376.notify6.com
 3869462.notify6.com
 3869630.notify6.com
+3869630.notifysrv.com
 3869926.notify6.com
 3878176.notify6.com
 3881818.notify6.com
@@ -534,6 +539,8 @@
 3959292.notify6.com
 3960141.notify6.com
 3960145.notify6.com
+3961140.notify6.com
+3961144.notify6.com
 3961386.notify6.com
 3961402.notify6.com
 3961406.notify6.com
@@ -560,6 +567,7 @@
 4144426.notify6.com
 4149128.notify6.com
 4152328.notify6.com
+4162256.notify6.com
 4188246.notify6.com
 4189910.notify6.com
 4195738.notify6.com
@@ -603,12 +611,16 @@
 603.notify.optimizesrv.com
 7678.notify.optimizesrv.com
 _sip._tcp.meet.3393147.notifysrv.com
-a.etology.com
+a.addisplaynetwork.com
+a.asvsm.com
+admin.adnation.com
+api.adnation.com
 delivery.gettopple.com
 engine.gettopple.com
 m.hsrve.com
 m.hss2x.com
 m.hss2y.com
+m.hst2x.com
 m.optnx.com
 main.exdynsrv.com
 main.exoclick.com
@@ -623,9 +635,12 @@ s.adnflow.com
 s.eaalink.com
 s.elink2b.com
 s.elink2c.com
+s.elink3x.com
 s.elnk4b.com
 s.elnkp4.com
+s.elnl2a.com
 s.elns4a.com
+s.elns4c.com
 s.etology.com
 s.exv6.com
 s.linkw2e.com

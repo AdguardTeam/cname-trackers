@@ -3,11 +3,13 @@
 ## Disguised trackers list
 
 * ebis.ne.jp
+    * 0096bb59-mndzrztt.cname.ebis.ne.jp
     * 02a8f7d5-th1skucf.cname.ebis.ne.jp
     * 02ad2e8f-khesgceb.cname.ebis.ne.jp
     * 0422e718-orvgub9g.cname.ebis.ne.jp
     * 043aff42-optsirog.cname.ebis.ne.jp
     * 055b1f86-ycxd4a4u.cname.ebis.ne.jp
+    * 06f94fd3-7xybwgkv.cname.ebis.ne.jp
     * 06fb9eec-clhowtg1.cname.ebis.ne.jp
     * 07d020a3-crscrcp3.cname.ebis.ne.jp
     * 099c079b-bx6pznc9.cname.ebis.ne.jp
@@ -39,6 +41,7 @@
     * 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp
     * 23d55728-ssmshbez.cname.ebis.ne.jp
     * 26349a15-esqb2ypb.cname.ebis.ne.jp
+    * 267222ab-t3ucd5yy.cname.ebis.ne.jp
     * 272dd850-1tkscuog.cname.ebis.ne.jp
     * 27bc2a62-d23tnyeg.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
@@ -81,6 +84,7 @@
     * 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp
     * 4c291f26-leoqufvo.cname.ebis.ne.jp
     * 4c937bae-xvkp4hsy.cname.ebis.ne.jp
+    * 4cd0f380-sh2isfez.cname.ebis.ne.jp
     * 4d5e2130-zqngsxhf.cname.ebis.ne.jp
     * 4f9cdbe0-unrhytys.cname.ebis.ne.jp
     * 4ff9329a-digitalgarage.cname.ebis.ne.jp
@@ -134,10 +138,12 @@
     * 89b01a4a-rgypc97e.cname.ebis.ne.jp
     * 8a79c862-uynsk4n4.cname.ebis.ne.jp
     * 8b44cc88-gaz6wmaw.cname.ebis.ne.jp
+    * 8b8d4818-24xatymd.cname.ebis.ne.jp
     * 8debf8e3-jtmaxrx7.cname.ebis.ne.jp
     * 8ed0e67d-gy66xg6s.cname.ebis.ne.jp
     * 8f087789-nkcrsmeh.cname.ebis.ne.jp
     * 8f5032fb-baawdyfz.cname.ebis.ne.jp
+    * 8f7ab7df-baawdyfz.cname.ebis.ne.jp
     * 91378a87-vpwtermg.cname.ebis.ne.jp
     * 917e1794-a9hmqa9q.cname.ebis.ne.jp
     * 92a7d885-sz3ynfbf.cname.ebis.ne.jp
@@ -151,6 +157,7 @@
     * 98123393-x6zeryuc.cname.ebis.ne.jp
     * 98463bc9-scxitlgt.cname.ebis.ne.jp
     * 98d6d446-llbfadyx.cname.ebis.ne.jp
+    * 9b82c7fc-jpe7blqe.cname.ebis.ne.jp
     * 9d47ee5c-tkd4tdox.cname.ebis.ne.jp
     * 9ee2360d-hwfrjewf.cname.ebis.ne.jp
     * 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp
@@ -158,6 +165,7 @@
     * a0550855-fbzwhcnp.cname.ebis.ne.jp
     * a0c6f4cd-wqcfddrl.cname.ebis.ne.jp
     * a0dd7a11-rrtv6uew.cname.ebis.ne.jp
+    * a16fee0d-vwmnftsa.cname.ebis.ne.jp
     * a1f251c6-iksdytmu.cname.ebis.ne.jp
     * a210b17a-hwsehbyq.cname.ebis.ne.jp
     * a24bb2f5-q4vseaye.cname.ebis.ne.jp
@@ -180,6 +188,7 @@
     * b654b31b-gbehg577.cname.ebis.ne.jp
     * b69bfde6-esqb2ypb.cname.ebis.ne.jp
     * b773e430-snfbdnnq.cname.ebis.ne.jp
+    * b8c55ecd-zx8ipvjj.cname.ebis.ne.jp
     * b91cdac9-llbfadyx.cname.ebis.ne.jp
     * b9f16cb4-srrg93nh.cname.ebis.ne.jp
     * bae37929-ehtgvvgm.cname.ebis.ne.jp
@@ -190,6 +199,7 @@
     * bd4ef0f6-ywapzf2c.cname.ebis.ne.jp
     * bdeec84a-bsczjign.cname.ebis.ne.jp
     * bebe7a28-6pusefyf.cname.ebis.ne.jp
+    * bf14bf36-iksdytmu.cname.ebis.ne.jp
     * bf6230ec-6pusefyf.cname.ebis.ne.jp
     * c054b113-ztaqjkmm.cname.ebis.ne.jp
     * c07c2fd1-ccb9p988.cname.ebis.ne.jp
@@ -227,10 +237,12 @@
     * dae17865-vqh9uah6.cname.ebis.ne.jp
     * daf42dbf-vhmygeqr.cname.ebis.ne.jp
     * daf5d89e-yfrcguru.cname.ebis.ne.jp
+    * dd2184df-xuadt2hl.cname.ebis.ne.jp
     * de3e21a1-ta72utrp.cname.ebis.ne.jp
     * de8331b9-pmffblvq.cname.ebis.ne.jp
     * dfd1c48f-kdknv6tt.cname.ebis.ne.jp
     * e050f08a-pc93j6qv.cname.ebis.ne.jp
+    * e1e0a549-rq6mpz3n.cname.ebis.ne.jp
     * e2d9b43b-hutbyrck.cname.ebis.ne.jp
     * e42672f4-rqq2zpub.cname.ebis.ne.jp
     * e50af33d-hd5f4dhg.cname.ebis.ne.jp
@@ -238,6 +250,7 @@
     * e6ffde45-yp7fpvcr.cname.ebis.ne.jp
     * e889caf6-3qe9sa9a.cname.ebis.ne.jp
     * e8efa80d-fbzwhcnp.cname.ebis.ne.jp
+    * e93f1def-vhd4fq1g.cname.ebis.ne.jp
     * eceb7b9f-6a92yces.cname.ebis.ne.jp
     * ee0f8438-thlsfh6z.cname.ebis.ne.jp
     * f050c5b4-cnza2mjg.cname.ebis.ne.jp
@@ -256,11 +269,13 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| adebis.aij.co.jp | 0096bb59-mndzrztt.cname.ebis.ne.jp |
 | adebis.tokyuhotels.co.jp | 02a8f7d5-th1skucf.cname.ebis.ne.jp |
 | cs1863sbeda.glaucoma-arrest.net | 02ad2e8f-khesgceb.cname.ebis.ne.jp |
 | ebis.jukkou.com | 0422e718-orvgub9g.cname.ebis.ne.jp |
 | cname.crank-in.net | 043aff42-optsirog.cname.ebis.ne.jp |
 | ad.takasu.co.jp | 055b1f86-ycxd4a4u.cname.ebis.ne.jp |
+| ebis.jobcan.jp | 06f94fd3-7xybwgkv.cname.ebis.ne.jp |
 | adebis.tohshin.co.jp | 06fb9eec-clhowtg1.cname.ebis.ne.jp |
 | adebis.livable.co.jp | 07d020a3-crscrcp3.cname.ebis.ne.jp |
 | adebis-bkan.vbest.jp | 099c079b-bx6pznc9.cname.ebis.ne.jp |
@@ -292,6 +307,7 @@
 | marketing.biz.mynavi.jp | 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp |
 | ebis.c-3-esthe.com | 23d55728-ssmshbez.cname.ebis.ne.jp |
 | ebis.smakon.jp | 26349a15-esqb2ypb.cname.ebis.ne.jp |
+| ebiscname.english-native.net | 267222ab-t3ucd5yy.cname.ebis.ne.jp |
 | ad-ebis.mynavi-job20s.jp | 272dd850-1tkscuog.cname.ebis.ne.jp |
 | corporate.frontierconsul.net | 27bc2a62-d23tnyeg.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
@@ -334,6 +350,7 @@
 | ncc.nip-col.jp | 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp |
 | itp.phoebebeautyup.com | 4c291f26-leoqufvo.cname.ebis.ne.jp |
 | ureruadebis.papawash.com | 4c937bae-xvkp4hsy.cname.ebis.ne.jp |
+| adebis.sokamocka.com | 4cd0f380-sh2isfez.cname.ebis.ne.jp |
 | ebis.ayura.co.jp | 4d5e2130-zqngsxhf.cname.ebis.ne.jp |
 | ad-track.paravi.jp | 4f9cdbe0-unrhytys.cname.ebis.ne.jp |
 | adebis.kirei-journal.jp | 4ff9329a-digitalgarage.cname.ebis.ne.jp |
@@ -387,10 +404,12 @@
 | ebis.as-1.co.jp | 89b01a4a-rgypc97e.cname.ebis.ne.jp |
 | ad.aucview.com | 8a79c862-uynsk4n4.cname.ebis.ne.jp |
 | cnebis.i-no-science.com | 8b44cc88-gaz6wmaw.cname.ebis.ne.jp |
+| ebis.apo-mjob.com | 8b8d4818-24xatymd.cname.ebis.ne.jp |
 | ebis.glico-direct.jp | 8debf8e3-jtmaxrx7.cname.ebis.ne.jp |
 | os.beauty-health.today | 8ed0e67d-gy66xg6s.cname.ebis.ne.jp |
 | cname.finess.jp | 8f087789-nkcrsmeh.cname.ebis.ne.jp |
 | adebis.shinseibank.com | 8f5032fb-baawdyfz.cname.ebis.ne.jp |
+| adebis.sbishinseibank.co.jp | 8f7ab7df-baawdyfz.cname.ebis.ne.jp |
 | aaaa.nocor.jp | 91378a87-vpwtermg.cname.ebis.ne.jp |
 | ebis.shabon.com | 917e1794-a9hmqa9q.cname.ebis.ne.jp |
 | ebis.umulin-lab.com | 92a7d885-sz3ynfbf.cname.ebis.ne.jp |
@@ -404,6 +423,7 @@
 | cnameforitp.dermed.jp | 98123393-x6zeryuc.cname.ebis.ne.jp |
 | cs0010sbeda.theory-clinic.com | 98463bc9-scxitlgt.cname.ebis.ne.jp |
 | ebiscname.j-esthe.com | 98d6d446-llbfadyx.cname.ebis.ne.jp |
+| adebis.bbb-life.jp | 9b82c7fc-jpe7blqe.cname.ebis.ne.jp |
 | adebis.logoshome.jp | 9d47ee5c-tkd4tdox.cname.ebis.ne.jp |
 | ebis.aibashiro.jp | 9ee2360d-hwfrjewf.cname.ebis.ne.jp |
 | cname-adebis.nice2meet.us | 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp |
@@ -411,6 +431,7 @@
 | cname-ade.shachihata.biz | a0550855-fbzwhcnp.cname.ebis.ne.jp |
 | ebis.hokensoudannavi.jp | a0c6f4cd-wqcfddrl.cname.ebis.ne.jp |
 | ebis.pasonatech.co.jp | a0dd7a11-rrtv6uew.cname.ebis.ne.jp |
+| ebis.goldcrest.co.jp | a16fee0d-vwmnftsa.cname.ebis.ne.jp |
 | test-ad.lucia-c.com | a1f251c6-iksdytmu.cname.ebis.ne.jp |
 | ad.kddi-fs.com | a210b17a-hwsehbyq.cname.ebis.ne.jp |
 | ebis.radishbo-ya.co.jp | a24bb2f5-q4vseaye.cname.ebis.ne.jp |
@@ -433,6 +454,7 @@
 | www-ebis.384.co.jp | b654b31b-gbehg577.cname.ebis.ne.jp |
 | ebis.15jikai.com | b69bfde6-esqb2ypb.cname.ebis.ne.jp |
 | adebis.toitoitoi.clinic | b773e430-snfbdnnq.cname.ebis.ne.jp |
+| adebis.entetsu.co.jp | b8c55ecd-zx8ipvjj.cname.ebis.ne.jp |
 | ebiscname.j-esthe-yoyaku.com | b91cdac9-llbfadyx.cname.ebis.ne.jp |
 | greenjapan-cname.green-japan.com | b9f16cb4-srrg93nh.cname.ebis.ne.jp |
 | ad.theatreacademy.jp | bae37929-ehtgvvgm.cname.ebis.ne.jp |
@@ -443,6 +465,7 @@
 | cname.ebis.folio-sec.com | bd4ef0f6-ywapzf2c.cname.ebis.ne.jp |
 | ebis.u2yokohama.co.jp | bdeec84a-bsczjign.cname.ebis.ne.jp |
 | ebis-tracking.tcb-beauty.net | bebe7a28-6pusefyf.cname.ebis.ne.jp |
+| test-ad.mens-lucia.com | bf14bf36-iksdytmu.cname.ebis.ne.jp |
 | ebis-tracking.tcb-recruit.com | bf6230ec-6pusefyf.cname.ebis.ne.jp |
 | adebis.464981.com | c054b113-ztaqjkmm.cname.ebis.ne.jp |
 | tracking.mysurance.co.jp | c07c2fd1-ccb9p988.cname.ebis.ne.jp |
@@ -480,10 +503,12 @@
 | ebis.biyo-job.com | dae17865-vqh9uah6.cname.ebis.ne.jp |
 | adebis.gogin.co.jp | daf42dbf-vhmygeqr.cname.ebis.ne.jp |
 | ebis.funai-food-business.com | daf5d89e-yfrcguru.cname.ebis.ne.jp |
+| ebis.treasurenet.jp | dd2184df-xuadt2hl.cname.ebis.ne.jp |
 | ebis.cp.claudia.co.jp | de3e21a1-ta72utrp.cname.ebis.ne.jp |
 | adebis.hotstaff.co.jp | de8331b9-pmffblvq.cname.ebis.ne.jp |
 | cname1.shakenkan.co.jp | dfd1c48f-kdknv6tt.cname.ebis.ne.jp |
 | frontierconsul02.tsunagaru-office.com | e050f08a-pc93j6qv.cname.ebis.ne.jp |
+| adebis.ahjikan-shop.com | e1e0a549-rq6mpz3n.cname.ebis.ne.jp |
 | ebis.sbismile.co.jp | e2d9b43b-hutbyrck.cname.ebis.ne.jp |
 | aesus.so-net.ne.jp | e42672f4-rqq2zpub.cname.ebis.ne.jp |
 | tracking.wao-corp.com | e50af33d-hd5f4dhg.cname.ebis.ne.jp |
@@ -491,6 +516,7 @@
 | cname.lions-mansion.jp | e6ffde45-yp7fpvcr.cname.ebis.ne.jp |
 | adebis.sbpayment.jp | e889caf6-3qe9sa9a.cname.ebis.ne.jp |
 | cname-ade.gom-in.com | e8efa80d-fbzwhcnp.cname.ebis.ne.jp |
+| ad.aim-universe.co.jp | e93f1def-vhd4fq1g.cname.ebis.ne.jp |
 | adebisu.wowow.co.jp | eceb7b9f-6a92yces.cname.ebis.ne.jp |
 | itpebis03.recella3d.com | ee0f8438-thlsfh6z.cname.ebis.ne.jp |
 | ad.ordersuit.info | f050c5b4-cnza2mjg.cname.ebis.ne.jp |

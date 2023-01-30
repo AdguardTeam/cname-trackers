@@ -329,6 +329,7 @@
 3414351.notifysrv.com CNAME .
 3414369.notifysrv.com CNAME .
 3416097.notifysrv.com CNAME .
+3416107.notifysrv.com CNAME .
 3416169.notifysrv.com CNAME .
 3416183.notifysrv.com CNAME .
 3416833.notifysrv.com CNAME .
@@ -396,6 +397,7 @@
 3474937.notify6.com CNAME .
 3474937.notifysrv.com CNAME .
 3475333.notifysrv.com CNAME .
+3475337.notifysrv.com CNAME .
 3476453.notifysrv.com CNAME .
 3478737.notifysrv.com CNAME .
 3483067.notifysrv.com CNAME .
@@ -467,6 +469,7 @@
 3557821.notifysrv.com CNAME .
 3562657.notifysrv.com CNAME .
 3562665.notify6.com CNAME .
+3563551.notifysrv.com CNAME .
 3563663.notifysrv.com CNAME .
 3566697.notifysrv.com CNAME .
 3566839.notifysrv.com CNAME .
@@ -505,6 +508,7 @@
 3717105.notify6.com CNAME .
 3724345.notify6.com CNAME .
 3745197.notify6.com CNAME .
+3767411.notify6.com CNAME .
 3768747.notify6.com CNAME .
 3789703.notifysrv.com CNAME .
 3814695.notifysrv.com CNAME .
@@ -512,6 +516,7 @@
 3869376.notify6.com CNAME .
 3869462.notify6.com CNAME .
 3869630.notify6.com CNAME .
+3869630.notifysrv.com CNAME .
 3869926.notify6.com CNAME .
 3878176.notify6.com CNAME .
 3881818.notify6.com CNAME .
@@ -534,6 +539,8 @@
 3959292.notify6.com CNAME .
 3960141.notify6.com CNAME .
 3960145.notify6.com CNAME .
+3961140.notify6.com CNAME .
+3961144.notify6.com CNAME .
 3961386.notify6.com CNAME .
 3961402.notify6.com CNAME .
 3961406.notify6.com CNAME .
@@ -560,6 +567,7 @@
 4144426.notify6.com CNAME .
 4149128.notify6.com CNAME .
 4152328.notify6.com CNAME .
+4162256.notify6.com CNAME .
 4188246.notify6.com CNAME .
 4189910.notify6.com CNAME .
 4195738.notify6.com CNAME .
@@ -603,12 +611,16 @@
 603.notify.optimizesrv.com CNAME .
 7678.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
-a.etology.com CNAME .
+a.addisplaynetwork.com CNAME .
+a.asvsm.com CNAME .
+admin.adnation.com CNAME .
+api.adnation.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 m.hsrve.com CNAME .
 m.hss2x.com CNAME .
 m.hss2y.com CNAME .
+m.hst2x.com CNAME .
 m.optnx.com CNAME .
 main.exdynsrv.com CNAME .
 main.exoclick.com CNAME .
@@ -623,9 +635,12 @@ s.adnflow.com CNAME .
 s.eaalink.com CNAME .
 s.elink2b.com CNAME .
 s.elink2c.com CNAME .
+s.elink3x.com CNAME .
 s.elnk4b.com CNAME .
 s.elnkp4.com CNAME .
+s.elnl2a.com CNAME .
 s.elns4a.com CNAME .
+s.elns4c.com CNAME .
 s.etology.com CNAME .
 s.exv6.com CNAME .
 s.linkw2e.com CNAME .

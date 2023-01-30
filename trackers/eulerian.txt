@@ -17,10 +17,13 @@
 ||7mx.eider.com^
 ||7mx.eidershop.com^
 ||8ezc.sfr.fr^
+||a.audi.fr^
 ||a.oney.es^
 ||a.perfumesclub.com^
 ||a.perfumesclub.fr^
 ||a.perfumesclub.nl^
+||a.perfumesclub.pl^
+||a.weareknitters.co.uk^
 ||a.weareknitters.dk^
 ||a.weareknitters.nl^
 ||a.weareknitters.se^
@@ -34,6 +37,7 @@
 ||aod4.societegenerale.fr^
 ||ar.i-run.fr^
 ||azg1.emalu-store.com^
+||b1n.carabins.umontreal.ca^
 ||bch8.destinia.co^
 ||bdj5.terrassesmontecarlosbm.com^
 ||bft5.destinia.fr^
@@ -49,6 +53,7 @@
 ||ca.clubavantages.net^
 ||cbl6.destinia.gt^
 ||cc.conforama.es^
+||cf.campagnes-france.com^
 ||ch.credithypo.com^
 ||ch0p.darty.com^
 ||cls7.theushuaiaexperience.com^
@@ -86,6 +91,7 @@
 ||ea.dcshoes-europe.com^
 ||ea.deguisetoi.fr^
 ||ea.diamant-unique.com^
+||ea.easyvoyage.com^
 ||ea.ecotour.com^
 ||ea.elstarprevention.com^
 ||ea.evaway.com^
@@ -116,6 +122,7 @@
 ||ea.millet-mountain.de^
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
+||ea.moncornerdeco.com^
 ||ea.mondial-assistance.fr^
 ||ea.natiloo.com^
 ||ea.netvox-assurances.com^
@@ -171,17 +178,20 @@
 ||eulerian.belambra.fr^
 ||eulerian.canal-plus.com^
 ||eulerian.eidershop.com^
+||eulerian.eveiletjeux.com^
 ||eulerian.look-voyages.fr^
 ||eulerian.madeindesign.com^
 ||eulerian.malakoffmederic.com^
 ||eulerian.mathon.fr^
 ||eulerian.monoprix.fr^
 ||eulerian.motoblouz.com^
+||eulerian.netbooster.com^
 ||eulerian.officiel-des-vacances.com^
 ||eulerian.sarenza.com^
 ||eulerian.siandso.com^
 ||eulerian.structube.com^
 ||eulerian.telechargement.fr^
+||eulerian.tgv-europe.es^
 ||eulerian.thalasseo.com^
 ||eulerian.voyage-prive.com^
 ||eultech.fnac.com^
@@ -202,6 +212,7 @@
 ||fsz1.francoisesaget.be^
 ||fsz1.francoisesaget.com^
 ||fzb5.laboratoire-giphar.fr^
+||fze8.carrefour-banque.fr^
 ||fzu4.bysidecar.com^
 ||g1be.swisslife-direct.fr^
 ||gda1.coworkimmo.com^
@@ -216,6 +227,7 @@
 ||hbo5.concours-pass.com^
 ||hby7.destinia.it^
 ||hgf4.zanzicar.fr^
+||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||inv3te.oui.sncf^
@@ -239,10 +251,12 @@
 ||let1.devialet.com^
 ||lio8.destinia.com.pa^
 ||ljb0.assuronline.com^
+||lp.to-lipton.com^
 ||lsv5.belambra.fr^
 ||ltm6.destinia.se^
 ||ly8c.caci-online.fr^
 ||lzuc.sfr.fr^
+||m10.m1029.com^
 ||m3ds.subarumetropolitain.com^
 ||mfd.myfirstdressing.com^
 ||mgt7.madeindesign.it^
@@ -271,6 +285,7 @@
 ||nmu3.destinia.be^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
+||nym5c.bonlook.com^
 ||nym5c.laura.ca^
 ||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^
@@ -291,6 +306,7 @@
 ||p.pmu.fr^
 ||p8s.oxbowshop.com^
 ||pbox.no.photobox.com^
+||pbox.photobox.at^
 ||pbox.photobox.be^
 ||pbox.photobox.ch^
 ||pbox.photobox.co.nz^
@@ -329,6 +345,7 @@
 ||r1ztni.oui.sncf^
 ||r4nds.absorba.com^
 ||rce.iperceptions.com^
+||rh1a.granions.fr^
 ||rjg2.destinia.ly^
 ||rmp4.destinia.uy^
 ||rqz4.supdigital.fr^
@@ -337,6 +354,7 @@
 ||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sa.lesselectionsskoda.fr^
+||sa.skoda.fr^
 ||sa.skodasuperb.fr^
 ||sby1.madeindesign.de^
 ||sd.securitasdirect.fr^
@@ -402,6 +420,7 @@
 ||vpl.voyage-prive.pl^
 ||vqp3.madeindesign.co.uk^
 ||vry9.destinia.com^
+||vs.verisure.fr^
 ||vtf2f.banque-casino.fr^
 ||why3.inseec.education^
 ||wlp3.aegon.es^

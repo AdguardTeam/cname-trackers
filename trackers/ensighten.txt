@@ -10,12 +10,15 @@
 ||activate.baltimoresun.com^
 ||activate.bingle.com.au^
 ||activate.chicagoredeye.com^
+||activate.chicagotribune.com^
 ||activate.cityandshore.com^
 ||activate.columbiaflier.com^
 ||activate.courant.com^
+||activate.dailypress.com^
 ||activate.dailysouthtown.com^
 ||activate.delmartimes.net^
 ||activate.encinitasadvocate.com^
+||activate.ferguson.com^
 ||activate.gio.com.au^
 ||activate.growthspotter.com^
 ||activate.hoylosangeles.com^
@@ -25,6 +28,7 @@
 ||activate.loft.com^
 ||activate.maurices.com^
 ||activate.mcall.com^
+||activate.mdgazette.com^
 ||activate.nydailynews.com^
 ||activate.orlandosentinel.com^
 ||activate.pacificsandiego.com^
@@ -79,11 +83,13 @@
 ||analytics.synchronybusiness.com^
 ||analytics.synchronycareers.com^
 ||analytics.synchronyfinancial.com^
+||analytics.synchronyretail.com^
 ||analytics.synchronyuniversity.com^
 ||analyticstest.amica.com^
 ||assets1.aainsurance.co.nz^
 ||assets1.aami.com.au^
 ||assets1.apia.com.au^
+||assets1.asteronlife.co.nz^
 ||assets1.bingle.com.au^
 ||assets1.cilinsurance.com.au^
 ||assets1.gio.com.au^
@@ -175,6 +181,7 @@
 ||emetrics.eastwestbank.com^
 ||ens-orlet.activate.ensighten.com^
 ||ens.luzernerzeitung.ch^
+||ens.nidwaldnerzeitung.ch^
 ||ens.nzz.ch^
 ||ens.tagblatt.ch^
 ||ens.themarket.ch^
@@ -256,6 +263,7 @@
 ||sst.johnlewis.com^
 ||sst.nab.com.au^
 ||suncorp.activate.ensighten.com^
+||t.hagebau.de^
 ||t.janieandjack.com^
 ||tagman.britishairways.com^
 ||tagman.crystalsummer.co.uk^
@@ -281,9 +289,12 @@
 ||tags.wyndhamhotels.com^
 ||tam.volkswagen.com^
 ||tdi.cartoonnetwork.com^
+||test3-dc.jared.com^
+||test3-dc.sterlingjewelers.com^
 ||tm.hdmtools.com^
 ||tms-test.nab.com.au^
 ||tms.americanexpress.com^
+||tms.betway.com^
 ||tms.capitalone.com^
 ||tms.delta.com^
 ||tms.experian.com^

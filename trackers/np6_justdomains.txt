@@ -24,6 +24,7 @@ tr.actualites.bfmtv.com
 tr.actuentreprises.elior.fr
 tr.actupremium.com
 tr.actus-fdj.fr
+tr.afpa.espmp-cufr.net
 tr.alex.espmp-agfr.net
 tr.allianz-trade.com
 tr.allopneus.com
@@ -34,7 +35,9 @@ tr.animations.bfmtv.com
 tr.apou032.espmp-agfr.net
 tr.asp0018.espmp-aufr.net
 tr.asp002q.espmp-aufr.net
+tr.asp0085.espmp-nifr.net
 tr.asp008y.espmp-nifr.net
+tr.asp00a1.espmp-agfr.net
 tr.asp00a6.espmp-nifr.net
 tr.asp1.espmp-agfr.net
 tr.asp103z.espmp-nifr.net
@@ -43,13 +46,17 @@ tr.asp106d.espmp-cufr.net
 tr.asp106g.espmp-nifr.net
 tr.asp10ar.espmp-cufr.net
 tr.asp10bs.espmp-aufr.net
+tr.asp10cg.espmp-nifr.net
 tr.asp10ch.espmp-nifr.net
 tr.asp10cr.espmp-nifr.net
+tr.asp10fa.espmp-cufr.net
 tr.asp10h2.espmp-nifr.net
 tr.asp10hi.espmp-cufr.net
+tr.asp2.espmp-agfr.net
 tr.asp202u.espmp-cufr.net
 tr.asp2032.espmp-aufr.net
 tr.asp2035.espmp-nifr.net
+tr.asp203m.espmp-cufr.net
 tr.asp2045.espmp-nifr.net
 tr.asp2063.espmp-nifr.net
 tr.asp206k.espmp-agfr.net
@@ -60,6 +67,7 @@ tr.axa.espmp-aufr.net
 tr.b2d1.espmp-agfr.net
 tr.b2d1068.espmp-nifr.net
 tr.b2d106z.espmp-aufr.net
+tr.bati-partner.be
 tr.batirenover.info
 tr.batiweb.co
 tr.bgl.premium-benefits.lu
@@ -70,6 +78,7 @@ tr.boletim.meu-orcamento.pt
 tr.bonplan.mydesign.com
 tr.brand.labelleadresse.com
 tr.btob-afaceri.ro
+tr.btob-cwf.com
 tr.btob-deals.co.uk
 tr.btobquotes.com
 tr.buenasofertas.pro
@@ -113,6 +122,7 @@ tr.combca.fr
 tr.commande.location.boulanger.com
 tr.communaute.caradisiac.com
 tr.communautes-mediametrie.fr
+tr.communication.ancv.com
 tr.communication.arthur-bonnet.com
 tr.communication.b2b-actualites.com
 tr.communication.boursorama.info
@@ -167,8 +177,10 @@ tr.devisminute-affranchissement.com
 tr.devisminute-alarme.com
 tr.devisminute-geolocalisation.com
 tr.devisminute-gestionpaie.com
+tr.devisminute-materieldestockage.com
 tr.devisminute-mutuelle.com
 tr.devisminute-operateur.com
+tr.devisminute-securiteb2b.com
 tr.devisminute-siteecommerce.com
 tr.devisminute-weber.com
 tr.devize-companeo.ro
@@ -182,6 +194,7 @@ tr.donateur.afm-telethon.fr
 tr.dossier-assurance.maaf.fr
 tr.drh-holding.lvmh.fr
 tr.e-mail.axa.fr
+tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
 tr.e.m-entreprise.fr
 tr.e.trouver-un-logement-neuf.com
@@ -235,6 +248,7 @@ tr.emailing.coe.int
 tr.emailing.detours.canal.fr
 tr.emailing.grassavoye.com
 tr.emailing.pogioclub.be
+tr.emailing.studiocanal.com
 tr.emailium.fr
 tr.enedis-infos.fr
 tr.enews.customsolutions.fr
@@ -244,6 +258,7 @@ tr.enquetes.actionlogement.fr
 tr.entreprise-pro.info
 tr.entreprise.axa.fr
 tr.envie-de-bien-manger.espmp-aufr.net
+tr.ere.emailing.bnpparibas
 tr.estatesandwines.moethennessy.com
 tr.etravauxpro.fr
 tr.eulerhermes.com
@@ -256,6 +271,7 @@ tr.finance.moethennessy.com
 tr.fleetmatics.vraaguwofferte.be
 tr.forum.veuveclicquot.fr
 tr.fr.pro.accor.com
+tr.france.plimsoll.fr
 tr.futurecommerce.moethennessy.com
 tr.gap-fr.fr
 tr.gdfsuez-globalenergy.info
@@ -280,6 +296,8 @@ tr.haute-maurienne-vanoise.net
 tr.hcahealthcare.co.uk
 tr.hello.maisonfoody.com
 tr.helloartisan.info
+tr.hmut.espmp-agfr.net
+tr.impayes.filiassur.com
 tr.info-btob-leaders.com
 tr.info-companeo.be
 tr.info-pro.promoneuve.fr
@@ -297,6 +315,7 @@ tr.info.cartesaffaires.bnpparibas
 tr.info.casino-proximites.fr
 tr.info.comparadordeprestamos.es
 tr.info.covid-resistance-bretagne.fr
+tr.info.dentexelans.com
 tr.info.easyviaggio.com
 tr.info.easyviajar.com
 tr.info.easyvoyage.co.uk
@@ -336,6 +355,7 @@ tr.informations.dila.gouv.fr
 tr.informations.harmonie-mutuelle.fr
 tr.informations.lcl.fr
 tr.infos.afpa.fr
+tr.infos.fongecifcentre.com
 tr.infos.gazdebordeaux.fr
 tr.infos.mailrungis.com
 tr.infos.odalys-vacances.com
@@ -344,7 +364,9 @@ tr.interieur.cotemaison.fr
 tr.interviews-mediametrie.fr
 tr.invest.younited-credit.com
 tr.invitation-mesdessous.fr
+tr.invitation.perfectstay.com
 tr.italia.plimsoll.it
+tr.jend.espmp-pofr.net
 tr.jesuis.enformedelotus.com
 tr.jevoteenligne.fr
 tr.jkyg.espmp-cufr.net
@@ -352,6 +374,7 @@ tr.kang.espmp-cufr.net
 tr.klse.espmp-agfr.net
 tr.kommunikation.younited-credit.com
 tr.kontakt.younited-credit.com
+tr.kpfc.espmp-nifr.net
 tr.kpyn.espmp-cufr.net
 tr.kpyn02f.espmp-cufr.net
 tr.krus.espmp-agfr.net
@@ -361,6 +384,8 @@ tr.lesmarques.envie-de-bien-manger.com
 tr.lesmarquesenviedebienmanger.fr
 tr.lettre.dechets-infos.com
 tr.lettre.helianthal.fr
+tr.lettre.lecho-circulaire.com
+tr.loreal.ifop.com
 tr.louvre-boites.com
 tr.ltbu.espmp-nifr.net
 tr.lvmhappening.lvmh.fr
@@ -408,6 +433,7 @@ tr.mijnaanbieding.renowizz.be
 tr.mika.espmp-nifr.net
 tr.mm.infopro-digital.com
 tr.mnoc.espmp-nifr.net
+tr.moes.espmp-agfr.net
 tr.moja-wycena.pl
 tr.mondevis-pro.com
 tr.mp.aconclue-business.fr
@@ -429,7 +455,9 @@ tr.news-companeo.fr
 tr.news-companeo.mx
 tr.news-companeo.nl
 tr.news-companeo.pl
+tr.news-dfc.sciences-po.fr
 tr.news.a-t.fr
+tr.news.a2micile.com
 tr.news.accessmbatour.com
 tr.news.alibabuy.com
 tr.news.alinea.com
@@ -445,6 +473,7 @@ tr.news.casino.fr
 tr.news.casinodrive.fr
 tr.news.casinomax.fr
 tr.news.cdiscount.com
+tr.news.cdiscountpro.com
 tr.news.chapsvision.com
 tr.news.chilican.com
 tr.news.companeo.es
@@ -470,6 +499,7 @@ tr.news.epicery.com
 tr.news.eureden.com
 tr.news.eurodatatv.com
 tr.news.exclu.fr
+tr.news.externis.com
 tr.news.flandrintechnologies.com
 tr.news.futuramedia.fr
 tr.news.geantcasino.fr
@@ -485,6 +515,7 @@ tr.news.interforum.fr
 tr.news.itancia.com
 tr.news.jautomatise.com
 tr.news.kalivet.com
+tr.news.kpmg-avocats.fr
 tr.news.kpmgnet.fr
 tr.news.kuhn.com
 tr.news.la-collectionairfrance.fr
@@ -492,6 +523,7 @@ tr.news.la-meilleure-voyance.com
 tr.news.labelleadresse.com
 tr.news.lacollection-airfrance.be
 tr.news.lacollection-airfrance.ch
+tr.news.lacollection-airfrance.co.uk
 tr.news.lacollection-airfrance.fr
 tr.news.lacollectionairfrance.be
 tr.news.lacollectionairfrance.co.uk
@@ -504,6 +536,7 @@ tr.news.lexpress.fr
 tr.news.linxea.com
 tr.news.lisez.com
 tr.news.maisonfoody.com
+tr.news.maisons-du-monde.com
 tr.news.manufacturing.fr
 tr.news.mdbp.fr
 tr.news.mediametrie.fr
@@ -538,6 +571,7 @@ tr.news.triskalia.fr
 tr.news.vetharmonie.fr
 tr.news.videofutur.fr
 tr.news.vip-diary.com
+tr.news.vip-mag.co.uk
 tr.news.vipmag.fr
 tr.news.vivrecotesud.fr
 tr.news.votreargent.lexpress.fr
@@ -558,6 +592,7 @@ tr.newsletter.bouygues-construction.com
 tr.newsletter.capdecision.fr
 tr.newsletter.ecig-privee.fr
 tr.newsletter.erenumerique.fr
+tr.newsletter.etoiledevenus.com
 tr.newsletter.fotodiscount.com
 tr.newsletter.huilesdolive.fr
 tr.newsletter.jowae.com
@@ -567,6 +602,7 @@ tr.newsletter.lierac.com
 tr.newsletter.location.boulanger.com
 tr.newsletter.meilleurmobile.com
 tr.newsletter.milleis.fr
+tr.newsletter.monmedium.com
 tr.newsletter.np6.com
 tr.newsletter.np6.fr
 tr.newsletter.opcoep.fr
@@ -614,9 +650,11 @@ tr.ofertas-companeo.es
 tr.offer-companeo.co.uk
 tr.offerte.migliorifornitori.it
 tr.offre-companeo.com
+tr.offre.devisdirect.com
 tr.offres-professionnelles.fr
 tr.offres.ap-regie.fr
 tr.offres.bfmtv.com
+tr.offresbtoc.engie.fr
 tr.offrevip.banque-casino.fr
 tr.offrevip.floa.fr
 tr.operations.butagaz.fr
@@ -627,11 +665,14 @@ tr.panels-mediametrie.fr
 tr.part.offres-cartegie.fr
 tr.partenaire.manageo.info
 tr.particuliers8.engie.com
+tr.partners.younited-credit.it
+tr.pixe.espmp-cufr.net
 tr.pole-emploi-services.com
 tr.policyexpert.info
 tr.politicolive.eu
 tr.politicomarketing.eu
 tr.portail.afpa.fr
+tr.premierembatour.com
 tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
 tr.pro-renov.be
@@ -642,6 +683,7 @@ tr.promo.np6.fr
 tr.promotion.lexpress.fr
 tr.prosfores-companeo.gr
 tr.prosfores-etairias.gr
+tr.psaparts.com
 tr.publicisdrugstore.espmp-agfr.net
 tr.qualitaetsumfrage.com
 tr.qualitaveicolo.com
@@ -667,6 +709,7 @@ tr.redaction.essentiel-sante-magazine.fr
 tr.reglementaire.emailing.bnpparibas
 tr.relation.uneo.fr
 tr.renowizze.be
+tr.rh.auchan.com
 tr.route-solutiondata.fr
 tr.roxi02e.espmp-agfr.net
 tr.sash.espmp-aufr.net
@@ -681,6 +724,7 @@ tr.serviceclient.adagcaladoise.fr
 tr.serviceclient.bf-depannage.fr
 tr.serviceclient.depanchauffageservice.fr
 tr.serviceclient.effica-service.fr
+tr.serviceclient.explore.fr
 tr.serviceclient.gazservicerapide.fr
 tr.serviceclient.ochauffage.fr
 tr.serviceclient.somgaz.fr
@@ -714,6 +758,7 @@ tr.uk.icicibank.com
 tr.uk.katun.com
 tr.unaoffertaalgiorno.com
 tr.update.groupon.be
+tr.urfk02r.espmp-nifr.net
 tr.urfk02v.espmp-cufr.net
 tr.urfk03h.espmp-nifr.net
 tr.urfk03q.espmp-nifr.net
@@ -727,6 +772,8 @@ tr.urfk06h.espmp-nifr.net
 tr.urfk06y.espmp-nifr.net
 tr.urfk07j.espmp-nifr.net
 tr.urfk07s.espmp-nifr.net
+tr.urfk080.espmp-agfr.net
+tr.vernede.huilesdolive.fr
 tr.videofutur.fr
 tr.ville.bordeaux.fr
 tr.voeux-wishes.ipsilon-ip.com
@@ -756,6 +803,8 @@ tr1.citroen-ipsos.com
 tr1.lr003.net
 tr1.mailperf.com
 tr1.mailperformance.com
+tr1.mperf.com
+tr5.mailperf.com
 tracking.allopneus.com
 www.tr.bfc-mp.caisse-epargne.fr
 #

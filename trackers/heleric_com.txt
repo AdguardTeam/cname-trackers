@@ -15,8 +15,10 @@
 ||bx.khedivaormond.com^
 ||bz.waveoffcrakes.com^
 ||ca.encurlergon.com^
+||cb.rompercava.com^
 ||dd.zillahhayers.com^
 ||dg.durgahsursize.com^
+||dg.folksychapes.com^
 ||du.jubhahbalize.com^
 ||dv.citricesu.com^
 ||ej.basialforced.com^
@@ -29,6 +31,7 @@
 ||fm.ramouselong.com^
 ||fn.deulspoorn.com^
 ||fo.irrisoranemone.com^
+||fp.mailerstalons.com^
 ||fy.uncheckluggies.com^
 ||ga.asseizeenl.com^
 ||go.jazygesunoared.com^
@@ -47,6 +50,7 @@
 ||jo.tictocswended.com^
 ||jv.curiousuraemia.com^
 ||kl.osmoticchalah.com^
+||ku.eftesthalms.com^
 ||ld.stengskelped.com^
 ||lf.unvenomangst.com^
 ||lg.feoffortapetis.com^
@@ -75,6 +79,7 @@
 ||sc.achingpliant.com^
 ||sc.waapadaggled.com^
 ||sf.zestfulpize.com^
+||sl.frondewame.com^
 ||sw.pluckysups.com^
 ||sy.sartishmoop.com^
 ||th.micheryfrugal.com^
@@ -101,6 +106,7 @@
 ||xz.rapsseme.com^
 ||yc.flyblowfilippi.com^
 ||yh.coursgrimace.com^
+||yk.dissentsangir.com^
 ||zd.plattedrattons.com^
 ||zi.kissbluest.com^
 ||zx.plaiceagonist.com^

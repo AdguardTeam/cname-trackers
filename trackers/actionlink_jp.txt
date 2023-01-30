@@ -11,6 +11,7 @@
 ||al.ganzo.ne.jp^
 ||al.germanpet.com^
 ||al.junior-onlineshop.jp^
+||al.kbwine.com^
 ||al.kirario.jp^
 ||al.office-com.jp^
 ||al.pierrotshop.jp^

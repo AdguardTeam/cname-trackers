@@ -63,6 +63,7 @@ a.pornhex.com CNAME .
 a.pumpity.net CNAME .
 a.ratihbugil.online CNAME .
 a.reryn2ce.com CNAME .
+a.smut.cc CNAME .
 a.streamoupload.xyz CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
@@ -177,6 +178,7 @@ b1.hentaibaka.one CNAME .
 bac221.skin CNAME .
 backpub.mom CNAME .
 bambao.lol CNAME .
+bambao.xyz CNAME .
 banana.arabtoons.net CNAME .
 banana.emailon.top CNAME .
 bc6dc48b743dc5d01.clicknplay.to CNAME .
@@ -461,6 +463,7 @@ q1.pornwex.tv CNAME .
 qatak.beauty CNAME .
 qhip.com CNAME .
 qoqv.com CNAME .
+qsdr.mysunnylawn.com CNAME .
 quaz.viaoz.xyz CNAME .
 qx0.xnxxtubevideos.com CNAME .
 ramosz.lol CNAME .
@@ -609,8 +612,3 @@ zone.stripcam.tv CNAME .
 ; cdn66584302.blazingcdn.net disguised trackers
 ;
 cdn.manhwadesu.me CNAME .
-;
-; u53.hypnorat.com disguised trackers
-;
-ontj.com CNAME .
-qhip.com CNAME .

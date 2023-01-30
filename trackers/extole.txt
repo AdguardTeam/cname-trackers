@@ -13,6 +13,7 @@
 ||ilove.volusion.com^
 ||invite.toughmudder.com^
 ||r.gamerewind.nfl.com^
+||r.preseason.nfl.com^
 ||refer-a-friend.trivantis.com^
 ||refer.aaas.org^
 ||refer.accountants.intuit.com^
@@ -20,6 +21,7 @@
 ||refer.american-giant.com^
 ||refer.americanexpress.com^
 ||refer.ancestry.com^
+||refer.aol.com^
 ||refer.backcountry.com^
 ||refer.barenecessities.com^
 ||refer.basictalk.com^
@@ -36,17 +38,21 @@
 ||refer.dnj.com^
 ||refer.framesdirect.com^
 ||refer.freshly.com^
+||refer.gevalia.com^
+||refer.gotoassist.com^
 ||refer.greenvilleonline.com^
 ||refer.hannaandersson.com^
 ||refer.harimari.com^
 ||refer.healthypawspetinsurance.com^
 ||refer.integrativenutrition.com^
+||refer.jacksonsun.com^
 ||refer.johnson.ca^
 ||refer.julep.com^
 ||refer.kipling-usa.com^
 ||refer.leadmd.com^
 ||refer.luckyvitamin.com^
 ||refer.midatlantic.aaa.com^
+||refer.montgomeryadvertiser.com^
 ||refer.moo.com^
 ||refer.myplant.com^
 ||refer.nvidia.com^
@@ -77,9 +83,12 @@
 ||refer.vonage.com^
 ||refer.wgu.edu^
 ||refer.xoom.com^
+||refer.yankeecandle.com^
 ||referral.hostgator.com^
 ||referral.vistaprint.com^
 ||s.audiopass.nfl.com^
+||s.gamepass.nfl.com^
+||share.aeropostale.com^
 ||share.catalogspree.com^
 ||share.indochino.com^
 ||share.na.sage.com^
@@ -96,6 +105,8 @@
 ! extole.io disguised trackers
 !
 ||amp.bfr.com^
+||demo.extole.com^
+||earn-and-refer.extoleu.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -108,6 +119,8 @@
 ||love.suncoastcreditunion.com^
 ||my.kotn.com^
 ||q.share.qvcemail.com^
+||refer-photo.cvs.com^
+||refer-staging.freshly.com^
 ||refer-us.uniqlo.com^
 ||refer.1800contacts.com^
 ||refer.2-10.com^
@@ -135,6 +148,7 @@
 ||refer.bathandbodyworks.com^
 ||refer.baxterofcalifornia.com^
 ||refer.bfr.com^
+||refer.bioionic.com^
 ||refer.bose.co.uk^
 ||refer.bose.com^
 ||refer.bose.de^
@@ -161,8 +175,10 @@
 ||refer.creativelive.com^
 ||refer.crocs.com^
 ||refer.cspire.com^
+||refer.darphin.com^
 ||refer.ea.com^
 ||refer.ecoterrabeds.com^
+||refer.edelmanfinancial.com^
 ||refer.embracepetinsurance.com^
 ||refer.empiretoday.com^
 ||refer.ems.com^
@@ -170,7 +186,6 @@
 ||refer.etrade.net^
 ||refer.everlywell.com^
 ||refer.fahw.com^
-||refer.farniente.com^
 ||refer.firstrepublic.com^
 ||refer.frontgate.com^
 ||refer.g2.com^
@@ -195,6 +210,7 @@
 ||refer.hollandamerica.com^
 ||refer.homedepot.com^
 ||refer.horizonfitness.marketing^
+||refer.hpso.com^
 ||refer.hsn.com^
 ||refer.hushpuppies.com^
 ||refer.indeed.com^
@@ -240,6 +256,7 @@
 ||refer.pvdparking.com^
 ||refer.quickbooks.ca^
 ||refer.quickbooks.co.uk^
+||refer.quickstart.com^
 ||refer.reebok.com^
 ||refer.reliasacademy.com^
 ||refer.remit2india.com^
@@ -289,6 +306,7 @@
 ||refer.us.davines.com^
 ||refer.vayasleep.com^
 ||refer.vincecamuto.com^
+||refer.vitaminshoppe.com^
 ||refer.whitehouseblackmarket.com^
 ||refer.wine.com^
 ||refer.wolverine.com^
@@ -303,6 +321,7 @@
 ||referral.shiseido.com^
 ||referrals.visionsfcu.org^
 ||rewards.zoom.us^
+||sftp.extole.com^
 ||share-uk.princess.com^
 ||share-us.viktor-rolf.com^
 ||share.100xequine.com^
@@ -318,6 +337,7 @@
 ||share.aplaceformom.com^
 ||share.ashleyhomestore.ca^
 ||share.asics.com^
+||share.atlasbars.com^
 ||share.aveda.com.au^
 ||share.azcentral.com^
 ||share.beaspermdonor.com^
@@ -364,6 +384,7 @@
 ||share.fingercheck.com^
 ||share.firstleaf.club^
 ||share.firstleaf.com^
+||share.floridatoday.com^
 ||share.fullbay.com^
 ||share.getsetup.io^
 ||share.giftya.com^
@@ -396,6 +417,7 @@
 ||share.newarkadvocate.com^
 ||share.newtonbaby.com^
 ||share.obagi.com^
+||share.olivegarden.com^
 ||share.ollocard.com^
 ||share.openenglish.com^
 ||share.opploans.com^
@@ -452,6 +474,7 @@
 ||share.veritycu.com^
 ||share.vichyusa.com^
 ||share.vonage.com^
+||share.wagwalking.com^
 ||share.wecohospitality.com^
 ||share.whistle.com^
 ||share.wisdompanel.com^

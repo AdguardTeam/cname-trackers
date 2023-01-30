@@ -28,6 +28,7 @@ te.quelle.at CNAME .
 te.quelle.ch CNAME .
 te.quelle.de CNAME .
 te.sheego.de CNAME .
+te.sieh-an.at CNAME .
 te.sieh-an.ch CNAME .
 te.sieh-an.de CNAME .
 te.universal.at CNAME .
@@ -42,6 +43,7 @@ te.yomonda.de CNAME .
 te.your-look-for-less.nl CNAME .
 te.your-look-for-less.se CNAME .
 tp.ackermann.ch CNAME .
+tp.ambria.de CNAME .
 tp.baur.de CNAME .
 tp.frankonia.at CNAME .
 tp.frankonia.com CNAME .
@@ -63,6 +65,7 @@ tp.quelle.de CNAME .
 tp.sheego.de CNAME .
 tp.universal.at CNAME .
 tp.witt-international.cz CNAME .
+tp.witt-international.nl CNAME .
 tp.witt-international.sk CNAME .
 tp.witt-weiden.de CNAME .
 tp.yomonda.de CNAME .

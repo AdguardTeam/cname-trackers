@@ -4,7 +4,9 @@
 ; ntv.io disguised trackers
 ;
 c333.macworld.co.uk CNAME .
+partners.time.com CNAME .
 sponsor.syracuse.com CNAME .
+www.realworldsurvivor.com CNAME .
 ;
 ; ntvpforever.com disguised trackers
 ;
@@ -19,11 +21,14 @@ sponsor.syracuse.com CNAME .
 0acbf53d71.711f421280.com CNAME .
 0b05878fdd.fddf7d58ea.com CNAME .
 0b6ecb7f80.c986493e7d.com CNAME .
+0c25092667.19028a7caf.com CNAME .
+0d75eae134.2ae9461951.com CNAME .
 0d9b072dfd.69c28fb7f4.com CNAME .
 0df76f9508.04cbf4193b.com CNAME .
 110288ab35.d44a6fef5a.com CNAME .
 1228d4b021.f021d67770.com CNAME .
 1407343952.7805b363c7.com CNAME .
+1426bde9ff.4631b36f4f.com CNAME .
 1723cba717.8592fb1c1d.com CNAME .
 1795105253.e02fe0d0c1.com CNAME .
 19364edf69.b88f1c5cda.com CNAME .
@@ -84,11 +89,13 @@ sponsor.syracuse.com CNAME .
 6ab791d164.d409401d80.com CNAME .
 6aca58cba6.106cdb2259.com CNAME .
 6d39ef5c0b.7002fca3a7.com CNAME .
+6d6206ec1d.ee6ed602d3.com CNAME .
 6df506d68b.1708f2b5f1.com CNAME .
 6e1d97d906.e3151012c3.com CNAME .
 6e9ba1e2dd.14a5dfca9f.com CNAME .
 6ef94a502b.64134c91b6.com CNAME .
 705849fff6.a23e391b84.com CNAME .
+710434b975.6de8cd75aa.com CNAME .
 72ffc1edfd.f6d56854f2.com CNAME .
 735149c0f3.f5d46bef1b.com CNAME .
 740e3dd5cf.71a3fd0954.com CNAME .
@@ -101,6 +108,7 @@ sponsor.syracuse.com CNAME .
 7b7a5435b5.5dd044e588.com CNAME .
 7ddfe7bb78.1eb76ce5b7.com CNAME .
 7ee6aa4a84.102168588b.com CNAME .
+7f9e4f7383.b40c7bfff2.com CNAME .
 7fe465ee76.f21c8cd9a7.com CNAME .
 812748c48f.02f87a8089.com CNAME .
 8654683419.6ab77a3dad.com CNAME .
@@ -127,6 +135,7 @@ sponsor.syracuse.com CNAME .
 98028f4b73.c9b501fef3.com CNAME .
 991884fac3.ff206c9291.com CNAME .
 999a328fa0.86521e18d4.com CNAME .
+9cd589fd54.86b1722d8e.com CNAME .
 a108652c62.f78f9d3fc2.com CNAME .
 a2ee316f2b.9c56fb6868.com CNAME .
 a2f288701d.a4334cc1ec.com CNAME .
@@ -142,6 +151,7 @@ ad517c8087.b2f227b09e.com CNAME .
 ad7a6fddf6.f37d6b16c3.com CNAME .
 adf189dcd8.14badb5195.com CNAME .
 ae24dd5f87.e9c576b358.com CNAME .
+af158e4bd8.7b39be508c.com CNAME .
 aff9df76e7.5c8877b0af.com CNAME .
 b050e41b1a.3c92e2040f.com CNAME .
 b2bc795549.8b1f93b707.com CNAME .
@@ -154,6 +164,7 @@ babcca7fba.dca8d1600b.com CNAME .
 bcdb664dff.0d356de9ef.com CNAME .
 bd2bc05960.47daeb1eac.com CNAME .
 bd2ca6c82d.20e2b2c425.com CNAME .
+beb86406c2.680566accf.com CNAME .
 bfe70bbd52.23182b9851.com CNAME .
 bfe8a1874d.bdced8843e.com CNAME .
 c0b0be585f.581c933842.com CNAME .
@@ -166,6 +177,7 @@ c3dce92cb6.15ba8a8998.com CNAME .
 c4045fee5e.90cd7fb7ca.com CNAME .
 c504d3250f.52c9f48b14.com CNAME .
 c5626f808b.36d1ef387c.com CNAME .
+c6605baadd.2d6a7b9179.com CNAME .
 c6644ac158.2ae70a6814.com CNAME .
 c66ed6bbd0.866e69bc8e.com CNAME .
 c7b79a8bf6.593cdd41e1.com CNAME .
@@ -217,6 +229,10 @@ fe8d4b33c2.8abf43d6ad.com CNAME .
 ;
 ; postrelease.com disguised trackers
 ;
+a235.ctnews.com CNAME .
+a235.lmtonline.com CNAME .
+a235.seattlepi.com CNAME .
+a235.sfgate.com CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 ;

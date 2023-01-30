@@ -36,6 +36,7 @@ tracking.tchibo.sk
 trk.nuernberger.de
 w3.flatex.at
 w3.flatex.de
+w3.flatex.es
 w3.flatex.nl
 w3.vitrade.de
 webts.adac.de
@@ -100,6 +101,7 @@ di.ifolor.fi
 di.ifolor.ie
 di.ifolor.it
 di.ifolor.net
+di.spreadmorelove.ch
 dnsbl.test.wbtrkk.teufel.de
 ed.emp-online.ch
 ed.emp-online.com
@@ -230,6 +232,7 @@ web.comunicazioni.iol.it
 web.crm.beps.it
 web.diebayerische.de
 web.e.aldermore.co.uk
+web.e.panmacmillan.com
 web.email.farrow-ball.com
 web.email.pmtonline.co.uk
 web.email.pragroup.co.uk
@@ -304,6 +307,7 @@ webt.pure.com
 wetr.sportscheck.at
 wetr.sportscheck.ch
 wetr.sportscheck.com
+wt.ara.ad
 wt.ara.cat
 wt.dialog-versicherung.de
 wt.envivas.de

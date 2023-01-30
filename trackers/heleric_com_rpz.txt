@@ -15,8 +15,10 @@ bm.shamosmatic.com CNAME .
 bx.khedivaormond.com CNAME .
 bz.waveoffcrakes.com CNAME .
 ca.encurlergon.com CNAME .
+cb.rompercava.com CNAME .
 dd.zillahhayers.com CNAME .
 dg.durgahsursize.com CNAME .
+dg.folksychapes.com CNAME .
 du.jubhahbalize.com CNAME .
 dv.citricesu.com CNAME .
 ej.basialforced.com CNAME .
@@ -29,6 +31,7 @@ fh.termsixias.com CNAME .
 fm.ramouselong.com CNAME .
 fn.deulspoorn.com CNAME .
 fo.irrisoranemone.com CNAME .
+fp.mailerstalons.com CNAME .
 fy.uncheckluggies.com CNAME .
 ga.asseizeenl.com CNAME .
 go.jazygesunoared.com CNAME .
@@ -47,6 +50,7 @@ jk.baltisbockey.com CNAME .
 jo.tictocswended.com CNAME .
 jv.curiousuraemia.com CNAME .
 kl.osmoticchalah.com CNAME .
+ku.eftesthalms.com CNAME .
 ld.stengskelped.com CNAME .
 lf.unvenomangst.com CNAME .
 lg.feoffortapetis.com CNAME .
@@ -75,6 +79,7 @@ sb.elfshippref.com CNAME .
 sc.achingpliant.com CNAME .
 sc.waapadaggled.com CNAME .
 sf.zestfulpize.com CNAME .
+sl.frondewame.com CNAME .
 sw.pluckysups.com CNAME .
 sy.sartishmoop.com CNAME .
 th.micheryfrugal.com CNAME .
@@ -101,6 +106,7 @@ xx.hematinsquark.com CNAME .
 xz.rapsseme.com CNAME .
 yc.flyblowfilippi.com CNAME .
 yh.coursgrimace.com CNAME .
+yk.dissentsangir.com CNAME .
 zd.plattedrattons.com CNAME .
 zi.kissbluest.com CNAME .
 zx.plaiceagonist.com CNAME .

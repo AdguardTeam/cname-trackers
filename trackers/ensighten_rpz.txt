@@ -10,12 +10,15 @@ activate.apia.com.au CNAME .
 activate.baltimoresun.com CNAME .
 activate.bingle.com.au CNAME .
 activate.chicagoredeye.com CNAME .
+activate.chicagotribune.com CNAME .
 activate.cityandshore.com CNAME .
 activate.columbiaflier.com CNAME .
 activate.courant.com CNAME .
+activate.dailypress.com CNAME .
 activate.dailysouthtown.com CNAME .
 activate.delmartimes.net CNAME .
 activate.encinitasadvocate.com CNAME .
+activate.ferguson.com CNAME .
 activate.gio.com.au CNAME .
 activate.growthspotter.com CNAME .
 activate.hoylosangeles.com CNAME .
@@ -25,6 +28,7 @@ activate.latimes.com CNAME .
 activate.loft.com CNAME .
 activate.maurices.com CNAME .
 activate.mcall.com CNAME .
+activate.mdgazette.com CNAME .
 activate.nydailynews.com CNAME .
 activate.orlandosentinel.com CNAME .
 activate.pacificsandiego.com CNAME .
@@ -79,11 +83,13 @@ analytics.synchronybank.com CNAME .
 analytics.synchronybusiness.com CNAME .
 analytics.synchronycareers.com CNAME .
 analytics.synchronyfinancial.com CNAME .
+analytics.synchronyretail.com CNAME .
 analytics.synchronyuniversity.com CNAME .
 analyticstest.amica.com CNAME .
 assets1.aainsurance.co.nz CNAME .
 assets1.aami.com.au CNAME .
 assets1.apia.com.au CNAME .
+assets1.asteronlife.co.nz CNAME .
 assets1.bingle.com.au CNAME .
 assets1.cilinsurance.com.au CNAME .
 assets1.gio.com.au CNAME .
@@ -175,6 +181,7 @@ eb.trbas.com CNAME .
 emetrics.eastwestbank.com CNAME .
 ens-orlet.activate.ensighten.com CNAME .
 ens.luzernerzeitung.ch CNAME .
+ens.nidwaldnerzeitung.ch CNAME .
 ens.nzz.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.themarket.ch CNAME .
@@ -256,6 +263,7 @@ sst.dell.com CNAME .
 sst.johnlewis.com CNAME .
 sst.nab.com.au CNAME .
 suncorp.activate.ensighten.com CNAME .
+t.hagebau.de CNAME .
 t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
 tagman.crystalsummer.co.uk CNAME .
@@ -281,9 +289,12 @@ tags.kone.com CNAME .
 tags.wyndhamhotels.com CNAME .
 tam.volkswagen.com CNAME .
 tdi.cartoonnetwork.com CNAME .
+test3-dc.jared.com CNAME .
+test3-dc.sterlingjewelers.com CNAME .
 tm.hdmtools.com CNAME .
 tms-test.nab.com.au CNAME .
 tms.americanexpress.com CNAME .
+tms.betway.com CNAME .
 tms.capitalone.com CNAME .
 tms.delta.com CNAME .
 tms.experian.com CNAME .

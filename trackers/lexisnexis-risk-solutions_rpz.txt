@@ -83,6 +83,7 @@ cdna.zopa.com CNAME .
 cdnb.cashcentral.com CNAME .
 cdncy.jmbullion.com CNAME .
 cdncy.providentmetals.com CNAME .
+cdncy.silver.com CNAME .
 cdnfp.accurint.com CNAME .
 cdnfp.lexisnexisrisk.com CNAME .
 cdnm.sts.pl CNAME .
@@ -104,6 +105,7 @@ cdntm.marksandspencer.com CNAME .
 cdntm.rodanandfields.com CNAME .
 cdntm.us.hsbc.com CNAME .
 cfa.advisorchannel.com CNAME .
+cfa.febtest.com CNAME .
 cfa.fidelity.com CNAME .
 cfa.mystreetscape.com CNAME .
 cfa.streetscape.com CNAME .
@@ -198,6 +200,7 @@ content.imagedepositgateway.com CNAME .
 content.incredit.pl CNAME .
 content.interaconline.com CNAME .
 content.jackpotcitycasino.ca CNAME .
+content.knetbooks.com CNAME .
 content.koalafi.com CNAME .
 content.kylottery.com CNAME .
 content.lequipeur.com CNAME .
@@ -222,6 +225,8 @@ content.olympus.ao.com CNAME .
 content.online.adp.com CNAME .
 content.orixbank.co.jp CNAME .
 content.partycity.ca CNAME .
+content.paycardsolutions.com CNAME .
+content.paytrust.com CNAME .
 content.personifyfinancial.com CNAME .
 content.pledg.co CNAME .
 content.pnbank.com.au CNAME .
@@ -230,6 +235,7 @@ content.qlinkwireless.com CNAME .
 content.qudosbank.com.au CNAME .
 content.quicken.com CNAME .
 content.readiness.consumercardaccess.com CNAME .
+content.readiness.familyprepaiddebit.com CNAME .
 content.realquest.com CNAME .
 content.royalairmaroc.com CNAME .
 content.royalvegascasino.ca CNAME .
@@ -248,6 +254,7 @@ content.telusinternational.ai CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
 content.washingtonnational.com CNAME .
+content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
 content1.reprisefinancial.com CNAME .
 content2.instacart.com CNAME .
@@ -257,6 +264,7 @@ content22.bancanet.banamex.com CNAME .
 content22.bancanetempresarial.banamex.com.mx CNAME .
 content22.bmo.com CNAME .
 content22.bmoharris.com CNAME .
+content22.citi.com CNAME .
 content22.citi.eu CNAME .
 content22.citibank.ae CNAME .
 content22.citibank.co.id CNAME .
@@ -278,6 +286,7 @@ content22.citibankonline.com CNAME .
 content22.citicards.com CNAME .
 content22.citiretailservices.com CNAME .
 content22.online.citi.com CNAME .
+content22.online.citibank.com CNAME .
 content22.retailservicescommercial.citi.com CNAME .
 content3.lexisnexisrisk.com CNAME .
 content3.risk.lexisnexis.com CNAME .
@@ -328,6 +337,7 @@ digitalid.santanderbank.com CNAME .
 digitalidentity.compass.it CNAME .
 dii.bankaust.com.au CNAME .
 directinfo.ib.mizuhobank.co.jp CNAME .
+dol-reemployme-js01.maine.gov CNAME .
 donor.cafamerica.org CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
@@ -377,6 +387,7 @@ idstatus.sky.com CNAME .
 ifp.intuit.com CNAME .
 im2.prod.amount.com CNAME .
 image.online.adp.com CNAME .
+images.applyfleet.com CNAME .
 images.exxonmobilfleetoffers.com CNAME .
 images.wexinc.com CNAME .
 imagesmx.cdscdn.com CNAME .
@@ -407,6 +418,7 @@ img4.uscellular.com CNAME .
 img9.target.com CNAME .
 imgcdn.genworth.com CNAME .
 imgl2.hardrockcasino.com CNAME .
+imgs.cdn-btsg.com CNAME .
 imgs.signifyd.com CNAME .
 info.betway.bg CNAME .
 info.betway.co.za CNAME .
@@ -416,6 +428,7 @@ intm.amwager.com CNAME .
 irmp.caa.com CNAME .
 jfp.intuit.com CNAME .
 jj203.equitablebank.ca CNAME .
+jplspr.jackpot.com CNAME .
 jytrnq.cm-cic.com CNAME .
 lab4.lloydsbank.com CNAME .
 ln.meudigio.com.br CNAME .
@@ -456,6 +469,7 @@ offtest.fnfis.com CNAME .
 ola2.tdameritrade.com CNAME .
 olacontent.schwab.com CNAME .
 online-metrix.imars.cloud CNAME .
+online-security.unionbankph.com CNAME .
 online.nbc.ca CNAME .
 onlineapplications.anz.com CNAME .
 onlinemetrix.liverpool.com.mx CNAME .
@@ -487,6 +501,7 @@ qrimages.qatarairways.com CNAME .
 qtbm.fundourselves.com CNAME .
 qtbm.welendus.com CNAME .
 query.capitalontap.com CNAME .
+r.hokodo.co CNAME .
 r7s.scl.swisscom.ch CNAME .
 ranzg.agribank.com.au CNAME .
 ranzg.rabobank.com.au CNAME .
@@ -604,6 +619,7 @@ t.online.westerlyccu.com CNAME .
 t.onlinebanking.american1cu.org CNAME .
 t.onlinebanking.consumerscu.org CNAME .
 t.onlinebanking.firstmarkcu.org CNAME .
+t.prod-online.redwoodcu.org CNAME .
 t.safe.bcu.org CNAME .
 t.secure.ascend.org CNAME .
 t.secure.selco.org CNAME .
@@ -614,6 +630,7 @@ t.yallo.ch CNAME .
 t1.tacdn.com CNAME .
 t1.welab.bank CNAME .
 t42rsn90.uplift.com CNAME .
+tag-unclaimed.oregon.gov CNAME .
 tag.findmassmoney.com CNAME .
 tag.findyourunclaimedproperty.com CNAME .
 tag.icash.illinoistreasurer.gov CNAME .
@@ -671,6 +688,7 @@ tm.betano.com CNAME .
 tm.betano.cz CNAME .
 tm.betano.de CNAME .
 tm.cbd.ae CNAME .
+tm.clearcover.com CNAME .
 tm.cox.com CNAME .
 tm.creditcheck.illion.co.nz CNAME .
 tm.creditcheck.illion.com.au CNAME .
@@ -693,6 +711,7 @@ tm.regionsqa.com CNAME .
 tm.regionstest.com CNAME .
 tm.solidgate.com CNAME .
 tm.stats.home24.de CNAME .
+tm.stats.home24.it CNAME .
 tm.stoiximan.gr CNAME .
 tm.summit-services.ca CNAME .
 tm.tbcbank.uz CNAME .
@@ -712,6 +731,7 @@ tmrpe.astrazeneca.com CNAME .
 tms.paysafe.com CNAME .
 tmt.houzz.com CNAME .
 tmuat.kotak.com CNAME .
+tmx-fpt.credit-agricole.pl CNAME .
 tmx.bestbuy.com CNAME .
 tmx.beyondbank.com.au CNAME .
 tmx.carhistory.com.au CNAME .
@@ -720,6 +740,7 @@ tmx.gotobilling.com CNAME .
 tmx.kijiji.ca CNAME .
 tmx.pampersrewards.com CNAME .
 tmx.pat.td.com CNAME .
+tmx.rnd.gemaltodigitalbankingidcloud.com CNAME .
 tmx.tchek.com CNAME .
 tmx.td.com CNAME .
 tmx.tdbank.com CNAME .
@@ -744,6 +765,7 @@ ualaki-analytics.vacations.united.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .
 v.ayco.com CNAME .
+v.goldman.ch CNAME .
 v.goldman.com CNAME .
 v.gs.com CNAME .
 v.gsselect.com CNAME .
@@ -768,9 +790,11 @@ w3.calbanktrust.com CNAME .
 w3.nbarizona.com CNAME .
 w3.nsbank.com CNAME .
 w3.providerpay.com CNAME .
+w3.tcboregon.com CNAME .
 w3.vectrabank.com CNAME .
 w3.zionsbank.com CNAME .
 webftm.rbc.com CNAME .
+webftm.sterbc.com CNAME .
 wp.kroger.com CNAME .
 ww3.fundingstream.com CNAME .
 ww3.marlincapitalsolutions.com CNAME .

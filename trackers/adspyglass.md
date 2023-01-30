@@ -8,7 +8,6 @@
 ### Rarely active trackers
 
 * cdn66584302.blazingcdn.net
-* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -74,6 +73,7 @@
 | a.pumpity.net | 0i0i0i0.com |
 | a.ratihbugil.online | 0i0i0i0.com |
 | a.reryn2ce.com | 0i0i0i0.com |
+| a.smut.cc | 0i0i0i0.com |
 | a.streamoupload.xyz | 0i0i0i0.com |
 | a.suptube.com | 0i0i0i0.com |
 | a.teencfnm.com | 0i0i0i0.com |
@@ -188,6 +188,7 @@
 | bac221.skin | 0i0i0i0.com |
 | backpub.mom | 0i0i0i0.com |
 | bambao.lol | 0i0i0i0.com |
+| bambao.xyz | 0i0i0i0.com |
 | banana.arabtoons.net | 0i0i0i0.com |
 | banana.emailon.top | 0i0i0i0.com |
 | bc6dc48b743dc5d01.clicknplay.to | 0i0i0i0.com |
@@ -467,6 +468,7 @@
 | qatak.beauty | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
 | qoqv.com | 0i0i0i0.com |
+| qsdr.mysunnylawn.com | 0i0i0i0.com |
 | quaz.viaoz.xyz | 0i0i0i0.com |
 | qx0.xnxxtubevideos.com | 0i0i0i0.com |
 | ramosz.lol | 0i0i0i0.com |
@@ -617,5 +619,3 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| ontj.com | u53.hypnorat.com |
-| qhip.com | u53.hypnorat.com |
