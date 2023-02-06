@@ -504,6 +504,7 @@
 3662595.notifysrv.com CNAME .
 3662897.notifysrv.com CNAME .
 3668785.notifysrv.com CNAME .
+3670315.notify6.com CNAME .
 3710063.notifysrv.com CNAME .
 3717105.notify6.com CNAME .
 3724345.notify6.com CNAME .
@@ -608,12 +609,13 @@
 4872816.notify6.com CNAME .
 4882380.notify6.com CNAME .
 4888136.notify6.com CNAME .
+4902880.notify6.com CNAME .
 603.notify.optimizesrv.com CNAME .
 7678.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 a.addisplaynetwork.com CNAME .
-a.asvsm.com CNAME .
-admin.adnation.com CNAME .
+a.etology.com CNAME .
+admin.adxnow.com CNAME .
 api.adnation.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
@@ -662,6 +664,7 @@ s.zlink8.com CNAME .
 s.zlink9.com CNAME .
 s.zlinkb.com CNAME .
 s.zlinkm.com CNAME .
+syndication-adblock.exoclick.com CNAME .
 syndication.dynsrvtbg.com CNAME .
 syndication.dynsrvwer.com CNAME .
 syndication.elink12.com CNAME .

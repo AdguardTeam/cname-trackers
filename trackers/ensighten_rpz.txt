@@ -61,6 +61,7 @@ agility.tntdrama.com CNAME .
 agility.trutv.com CNAME .
 amex.activate.ensighten.com CNAME .
 analytics.amica.com CNAME .
+analytics.athome.com CNAME .
 analytics.belk.com CNAME .
 analytics.carecredit.com CNAME .
 analytics.carecreditlearning.com CNAME .
@@ -207,7 +208,6 @@ fctms.fidelitycharitable.org CNAME .
 fidelity.activate.ensighten.com CNAME .
 gst.pulse.buyatoyota.com CNAME .
 gst.pulse.toyota.com CNAME .
-hub.talkdeskapp.com CNAME .
 latimes.activate.ensighten.com CNAME .
 letsencrypt.data.ensighten.com CNAME .
 madata.newlook.com CNAME .
@@ -236,12 +236,15 @@ privacy-digital.pru.co.uk CNAME .
 privacy.28degreescard.com.au CNAME .
 privacy.acc2.heishop.com.br CNAME .
 privacy.amadrinks.be CNAME .
+privacy.amstel.nl CNAME .
 privacy.blade.app CNAME .
 privacy.easyjet.com CNAME .
 privacy.gemfinance.co.nz CNAME .
 privacy.gomastercard.com.au CNAME .
 privacy.heineken.it CNAME .
 privacy.latitudefinancial.com CNAME .
+privacy.latitudefinancial.com.au CNAME .
+privacy.latitudepay.com CNAME .
 pulse.delta.com CNAME .
 pulse.mcdonalds.com CNAME .
 pulse.quaero.com CNAME .

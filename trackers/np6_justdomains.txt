@@ -38,6 +38,7 @@ tr.asp002q.espmp-aufr.net
 tr.asp0085.espmp-nifr.net
 tr.asp008y.espmp-nifr.net
 tr.asp00a1.espmp-agfr.net
+tr.asp00a3.espmp-agfr.net
 tr.asp00a6.espmp-nifr.net
 tr.asp1.espmp-agfr.net
 tr.asp103z.espmp-nifr.net
@@ -148,6 +149,7 @@ tr.contact.canalplus.fr
 tr.contact.cereps.fr
 tr.contact.e-turf.fr
 tr.contact.lead.eu.com
+tr.contact.leadsonline.fr
 tr.contact.lvmh.fr
 tr.contact.makemelead.info
 tr.contact.mhl-publishing.fr
@@ -265,6 +267,7 @@ tr.eulerhermes.com
 tr.europa-organisation.com
 tr.evenements.inpi.fr
 tr.expresofferte.be
+tr.fg3p.espmp-cufr.net
 tr.fidal.pro
 tr.fidalformation.pro
 tr.finance.moethennessy.com
@@ -345,6 +348,7 @@ tr.info.rouen.cci.fr
 tr.info.snpden.net
 tr.info.solidarm.fr
 tr.info.valcenis.com
+tr.info.vip-mag.co.uk
 tr.infolettre.securite-routiere.gouv.fr
 tr.infolettres.groupama.com
 tr.information.fidalformations.fr
@@ -385,6 +389,7 @@ tr.lesmarquesenviedebienmanger.fr
 tr.lettre.dechets-infos.com
 tr.lettre.helianthal.fr
 tr.lettre.lecho-circulaire.com
+tr.leyravaud.devisdirect.com
 tr.loreal.ifop.com
 tr.louvre-boites.com
 tr.ltbu.espmp-nifr.net
@@ -407,6 +412,7 @@ tr.mail1.macif.fr
 tr.mailing.achatpublic.com
 tr.mailing.laredoute.fr
 tr.mailing.lvmhappening.com
+tr.mailing.promodeclic.fr
 tr.mailingnp6.lavoirmoderne.com
 tr.mailmp.macif.net
 tr.mailperf.institut-de-la-protection-sociale.fr
@@ -744,7 +750,6 @@ tr.souscription.banque-casino.fr
 tr.souscription.floa.fr
 tr.spain.plimsoll.es
 tr.sportperf.np6.fr
-tr.stanford-news.fr
 tr.strategie.gouv.fr
 tr.tdgx.espmp-cufr.net
 tr.thisiseurope.moethennessy.com
@@ -793,11 +798,6 @@ tr.welcome.lexpress.fr
 tr.welcome.moncoupdepouce.com
 tr.welcome.odalys-vacances.com
 tr.welcome.smartdeals-transavia-fr.com
-tr.welcome.thelist-emirates.fr
-tr.welcome.vipmag.fr
-tr.win.moethennessy.com
-tr.wuei.espmp-agfr.net
-tr.wycena-companeo.pl
 tr.xleads.digital
 tr1.citroen-ipsos.com
 tr1.lr003.net

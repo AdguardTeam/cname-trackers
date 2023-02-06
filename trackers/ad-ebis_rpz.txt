@@ -185,6 +185,7 @@ ebis.kubara.jp CNAME .
 ebis.kusunosetakeshi.com CNAME .
 ebis.lululun.com CNAME .
 ebis.macchialabel.com CNAME .
+ebis.mucuna.co.jp CNAME .
 ebis.n-pri.jp CNAME .
 ebis.nomu-silica.jp CNAME .
 ebis.okasan-online.co.jp CNAME .

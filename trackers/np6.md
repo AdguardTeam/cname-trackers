@@ -53,6 +53,7 @@
 | tr.asp0085.espmp-nifr.net | tracking.bp01.net |
 | tr.asp008y.espmp-nifr.net | tracking.bp01.net |
 | tr.asp00a1.espmp-agfr.net | tracking.bp01.net |
+| tr.asp00a3.espmp-agfr.net | tracking.bp01.net |
 | tr.asp00a6.espmp-nifr.net | tracking.bp01.net |
 | tr.asp1.espmp-agfr.net | tracking.bp01.net |
 | tr.asp103z.espmp-nifr.net | tracking.bp01.net |
@@ -163,6 +164,7 @@
 | tr.contact.cereps.fr | tracking.bp01.net |
 | tr.contact.e-turf.fr | tracking.bp01.net |
 | tr.contact.lead.eu.com | tracking.bp01.net |
+| tr.contact.leadsonline.fr | tracking.bp01.net |
 | tr.contact.lvmh.fr | tracking.bp01.net |
 | tr.contact.makemelead.info | tracking.bp01.net |
 | tr.contact.mhl-publishing.fr | tracking.bp01.net |
@@ -280,6 +282,7 @@
 | tr.europa-organisation.com | tracking.bp01.net |
 | tr.evenements.inpi.fr | tracking.bp01.net |
 | tr.expresofferte.be | tracking.bp01.net |
+| tr.fg3p.espmp-cufr.net | tracking.bp01.net |
 | tr.fidal.pro | tracking.bp01.net |
 | tr.fidalformation.pro | tracking.bp01.net |
 | tr.finance.moethennessy.com | tracking.bp01.net |
@@ -360,6 +363,7 @@
 | tr.info.snpden.net | tracking.bp01.net |
 | tr.info.solidarm.fr | tracking.bp01.net |
 | tr.info.valcenis.com | tracking.bp01.net |
+| tr.info.vip-mag.co.uk | tracking.bp01.net |
 | tr.infolettre.securite-routiere.gouv.fr | tracking.bp01.net |
 | tr.infolettres.groupama.com | tracking.bp01.net |
 | tr.information.fidalformations.fr | tracking.bp01.net |
@@ -400,6 +404,7 @@
 | tr.lettre.dechets-infos.com | tracking.bp01.net |
 | tr.lettre.helianthal.fr | tracking.bp01.net |
 | tr.lettre.lecho-circulaire.com | tracking.bp01.net |
+| tr.leyravaud.devisdirect.com | tracking.bp01.net |
 | tr.loreal.ifop.com | tracking.bp01.net |
 | tr.louvre-boites.com | tracking.bp01.net |
 | tr.ltbu.espmp-nifr.net | tracking.bp01.net |
@@ -422,6 +427,7 @@
 | tr.mailing.achatpublic.com | tracking.bp01.net |
 | tr.mailing.laredoute.fr | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
+| tr.mailing.promodeclic.fr | tracking.bp01.net |
 | tr.mailingnp6.lavoirmoderne.com | tracking.bp01.net |
 | tr.mailmp.macif.net | tracking.bp01.net |
 | tr.mailperf.institut-de-la-protection-sociale.fr | tracking.bp01.net |
@@ -759,7 +765,6 @@
 | tr.souscription.floa.fr | tracking.bp01.net |
 | tr.spain.plimsoll.es | tracking.bp01.net |
 | tr.sportperf.np6.fr | tracking.bp01.net |
-| tr.stanford-news.fr | tracking.bp01.net |
 | tr.strategie.gouv.fr | tracking.bp01.net |
 | tr.tdgx.espmp-cufr.net | tracking.bp01.net |
 | tr.thisiseurope.moethennessy.com | tracking.bp01.net |
@@ -808,11 +813,6 @@
 | tr.welcome.moncoupdepouce.com | tracking.bp01.net |
 | tr.welcome.odalys-vacances.com | tracking.bp01.net |
 | tr.welcome.smartdeals-transavia-fr.com | tracking.bp01.net |
-| tr.welcome.thelist-emirates.fr | tracking.bp01.net |
-| tr.welcome.vipmag.fr | tracking.bp01.net |
-| tr.win.moethennessy.com | tracking.bp01.net |
-| tr.wuei.espmp-agfr.net | tracking.bp01.net |
-| tr.wycena-companeo.pl | tracking.bp01.net |
 | tr.xleads.digital | tracking.bp01.net |
 | tr1.citroen-ipsos.com | tracking.bp01.net |
 | tr1.lr003.net | tracking.bp01.net |

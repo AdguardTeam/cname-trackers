@@ -60,6 +60,7 @@ cdn1.onecalldirect.co.uk CNAME .
 cdn1.skrill.com CNAME .
 cdn1.svbconnect.com CNAME .
 cdn1.thm.bankofmelbourne.com.au CNAME .
+cdn1.thm.banksa.com.au CNAME .
 cdn1.thm.panoramainvestor.com.au CNAME .
 cdn1.thm.stgeorge.com.au CNAME .
 cdn1.thm.westpac.com.au CNAME .
@@ -151,6 +152,7 @@ content.asurion53.com CNAME .
 content.atmosphere.ca CNAME .
 content.bankerslife.com CNAME .
 content.benefitsaccess.org CNAME .
+content.berluti.com CNAME .
 content.biggerbooks.com CNAME .
 content.billdomain.com CNAME .
 content.billscenter.paytrust.com CNAME .
@@ -748,6 +750,7 @@ tmx.uptodate.com CNAME .
 tmx.vinci-autoroutes.com CNAME .
 tmxapi.globalsources.com CNAME .
 tmximg.draftkings.com CNAME .
+tmxjs.tokyodisneyresort.jp CNAME .
 tooling.ynap.biz CNAME .
 tools.workforcewv.org CNAME .
 tracking.psecu.com CNAME .

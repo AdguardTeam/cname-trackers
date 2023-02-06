@@ -60,6 +60,7 @@ cdn1.onecalldirect.co.uk
 cdn1.skrill.com
 cdn1.svbconnect.com
 cdn1.thm.bankofmelbourne.com.au
+cdn1.thm.banksa.com.au
 cdn1.thm.panoramainvestor.com.au
 cdn1.thm.stgeorge.com.au
 cdn1.thm.westpac.com.au
@@ -151,6 +152,7 @@ content.asurion53.com
 content.atmosphere.ca
 content.bankerslife.com
 content.benefitsaccess.org
+content.berluti.com
 content.biggerbooks.com
 content.billdomain.com
 content.billscenter.paytrust.com
@@ -748,6 +750,7 @@ tmx.uptodate.com
 tmx.vinci-autoroutes.com
 tmxapi.globalsources.com
 tmximg.draftkings.com
+tmxjs.tokyodisneyresort.jp
 tooling.ynap.biz
 tools.workforcewv.org
 tracking.psecu.com

@@ -20,7 +20,6 @@
 | app.rtnews.pro | api.clickaine.com |
 | app.willalland.info | api.clickaine.com |
 | asg.animeyt.es | api.clickaine.com |
-| asg.xxxleaks.cc | api.clickaine.com |
 | axx.aflamk1.net | api.clickaine.com |
 | c.gotoxxxtube.com | api.clickaine.com |
 | c0n.snaggys.com | api.clickaine.com |
@@ -28,15 +27,18 @@
 | c2n.pornez.net | api.clickaine.com |
 | c4n.21hub.com | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
+| c4n.bigxxxsex.com | api.clickaine.com |
 | c4n.hotjavmovies.com | api.clickaine.com |
 | c4n.ijerk.club | api.clickaine.com |
 | c4n.mypornovideos.com | api.clickaine.com |
 | c4n.myteentgp.com | api.clickaine.com |
+| c4n.swift4claim.com | api.clickaine.com |
 | c4n.thefreejapaneseporn.com | api.clickaine.com |
 | c4n.watchpornonline.xyz | api.clickaine.com |
 | c4n.xxx8.me | api.clickaine.com |
 | c4s.bionestraff.pro | api.clickaine.com |
 | c8d.upde.cc | api.clickaine.com |
+| ca.findyourpussy.net | api.clickaine.com |
 | ca.infomix.best | api.clickaine.com |
 | cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
 | cc.opowiadaniaerotyczne-darmowo.com | api.clickaine.com |

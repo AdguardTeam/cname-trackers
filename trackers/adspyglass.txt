@@ -11,6 +11,7 @@
 ||1d88r44d9t.nelasleaks.com^
 ||2022.hizetnet.xyz^
 ||2bx0h7o3zw.nelasleaks.com^
+||3weg314.2conv.com^
 ||5475feaab.clicknplay.to^
 ||58745.clicknplay.to^
 ||69741211.clicknplay.to^
@@ -53,7 +54,6 @@
 ||a.letsjerk.org^
 ||a.letsjerk.to^
 ||a.letsjerk.tv^
-||a.manga18.site^
 ||a.marketing.com.sd^
 ||a.naturalhealthsource.club^
 ||a.p123p.com^
@@ -90,6 +90,7 @@
 ||adds.al3ably.com^
 ||adhome.icu^
 ||adilk.ilikecomix.com^
+||ads.2conv.com^
 ||ads.49inchporn.club^
 ||ads.al3ably.com^
 ||ads.free-to.download^
@@ -99,9 +100,9 @@
 ||ads.pornharlot.com^
 ||ads.pornharlot.net^
 ||ads.saplacikardepo.xyz^
+||ads.sturls.com^
 ||ads.tabuflix.com^
 ||ads.xmov.net^
-||ads.xxxleaks.cc^
 ||adsnot.1javguru.xyz^
 ||adsnot.1supjav.xyz^
 ||adspy.javrank.com^
@@ -110,6 +111,7 @@
 ||adxhand.icu^
 ||ags.hobby.porn^
 ||all.shorterall.com^
+||alt.fescity.com^
 ||amaz.emailon.top^
 ||amazingdomain.sbs^
 ||amazoni.lol^
@@ -189,6 +191,8 @@
 ||blog.andropps.com^
 ||blow.week1time.com^
 ||bob.bezucai.com^
+||btaoc.lol^
+||btaoc.xyz^
 ||bupupua4.xsuffer.com^
 ||buzzset.pics^
 ||bx5.tubemaximum.com^
@@ -211,7 +215,6 @@
 ||cdn1.pop72i.art^
 ||cdn1.prroll2o.art^
 ||cdn3.cartoonporn.to^
-||cdn3.feetjerk.com^
 ||cdn3.hentaihand.com^
 ||cdn3.hentaihaven.fun^
 ||cdn5.cartoonporn.to^
@@ -265,15 +268,12 @@
 ||essential.awmcash.com^
 ||est.pornleech.ch^
 ||ex8.lostporntube.com^
-||eyedssw.javvvvvv.xyz^
 ||f.bloblohub.com^
 ||fast.s5live.com^
 ||firnialint.xsuffer.com^
 ||forads.pro^
 ||fortran.icu^
 ||free.srcdn.xyz^
-||free.stat.tk^
-||freememes.desiceleb.top^
 ||fresh.tuiz.pics^
 ||fsdss.7mmtv.top^
 ||fx9.freepornoboss.com^
@@ -282,7 +282,6 @@
 ||g4x.porngirl.eu^
 ||g6j.cupidonmedia.com^
 ||gamestar.lol^
-||gay0day.online^
 ||gg.xszcdn.com^
 ||ghtry.amateurswild.com^
 ||glass.vixfilmes.online^
@@ -439,7 +438,6 @@
 ||pihu.xxxpornhd.pro^
 ||pivo.tracked.one^
 ||pizzazz.lol^
-||plsdonblock.supjav.buzz^
 ||plutoclean.com^
 ||pop.dtoo1.space^
 ||pornve.sexyadsrun.com^
@@ -531,8 +529,6 @@
 ||test2.maxx.ddac.ru^
 ||testcommon.soundrussian.com^
 ||tetra.xsuffer.com^
-||thescript.javfinder.xyz^
-||thetranny.online^
 ||tik.boldtur.xyz^
 ||tip.vipz.lol^
 ||titsandtits.com^
@@ -568,7 +564,6 @@
 ||vz.7vid.net^
 ||w00t.us^
 ||web.cinetux.nu^
-||wtfdontblock.theporndudes.xyz^
 ||ww.cvideos.stream^
 ||www.adanald.icu^
 ||www.adhome.icu^
@@ -579,7 +574,6 @@
 ||www.bloblohub.com^
 ||www.healmsuoguurd.eu^
 ||www.hq3x.com^
-||www.lechoncito.one^
 ||www.letstry69.xyz^
 ||www.myxozilla.icu^
 ||www.p123p.com^
@@ -606,9 +600,12 @@
 ||youzok.lol^
 ||z0000g.yvmads.com^
 ||zazu.vtube.to^
-||zeenite.online^
 ||zone.stripcam.tv^
 !
 ! cdn66584302.blazingcdn.net disguised trackers
 !
 ||cdn.manhwadesu.me^
+!
+! u53.hypnorat.com disguised trackers
+!
+||h-ay.com^

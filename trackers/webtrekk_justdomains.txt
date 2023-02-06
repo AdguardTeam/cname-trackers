@@ -143,6 +143,8 @@ mapp.yesstyle.com
 mit.bhw.de
 mit.db.com
 mit.deutsche-bank.de
+mit.deutschebank.be
+mit.deutschewealth.com
 mit.dws.com
 mit.dws.de
 mit.postbank.de
@@ -235,7 +237,6 @@ web.e.aldermore.co.uk
 web.e.panmacmillan.com
 web.email.farrow-ball.com
 web.email.pmtonline.co.uk
-web.email.pragroup.co.uk
 web.email.theindependentpharmacy.co.uk
 web.emails.elc.co.uk
 web.emails.thetoyshop.com

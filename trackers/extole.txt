@@ -38,6 +38,7 @@
 ||refer.dnj.com^
 ||refer.framesdirect.com^
 ||refer.freshly.com^
+||refer.fuzebox.com^
 ||refer.gevalia.com^
 ||refer.gotoassist.com^
 ||refer.greenvilleonline.com^
@@ -232,6 +233,7 @@
 ||refer.lendingclub.com^
 ||refer.lenscrafters.com^
 ||refer.lightstream.com^
+||refer.littlepassports.com^
 ||refer.loomandleaf.com^
 ||refer.lull.com^
 ||refer.madison-reed.com^
@@ -321,7 +323,6 @@
 ||referral.shiseido.com^
 ||referrals.visionsfcu.org^
 ||rewards.zoom.us^
-||sftp.extole.com^
 ||share-uk.princess.com^
 ||share-us.viktor-rolf.com^
 ||share.100xequine.com^
@@ -387,6 +388,7 @@
 ||share.floridatoday.com^
 ||share.fullbay.com^
 ||share.getsetup.io^
+||share.giftcardgranny.com^
 ||share.giftya.com^
 ||share.giorgioarmanibeauty-usa.com^
 ||share.go2bank.com^
@@ -400,6 +402,7 @@
 ||share.installamerica.com^
 ||share.ipage.com^
 ||share.iteach.net^
+||share.juvlabs.com^
 ||share.key.com^
 ||share.kumon.com^
 ||share.la-mariette.com^
@@ -451,6 +454,7 @@
 ||share.shoptruespirit.com^
 ||share.shutterstock.com^
 ||share.simonandschuster.com^
+||share.stagsleap.com^
 ||share.starbucks.com^
 ||share.steadyapp.com^
 ||share.stridehealth.com^
@@ -489,3 +493,7 @@
 ! media-router-aol1.prod.g03.yahoodns.net disguised trackers
 !
 ||refer.aol.com^
+!
+! s-ec30e63e423445779.server.transfer.us-east-1.amazonaws.com disguised trackers
+!
+||sftp.extole.com^

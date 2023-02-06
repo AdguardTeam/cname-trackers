@@ -8,6 +8,7 @@
 ### Rarely active trackers
 
 * cdn66584302.blazingcdn.net
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -21,6 +22,7 @@
 | 1d88r44d9t.nelasleaks.com | 0i0i0i0.com |
 | 2022.hizetnet.xyz | 0i0i0i0.com |
 | 2bx0h7o3zw.nelasleaks.com | 0i0i0i0.com |
+| 3weg314.2conv.com | 0i0i0i0.com |
 | 5475feaab.clicknplay.to | 0i0i0i0.com |
 | 58745.clicknplay.to | 0i0i0i0.com |
 | 69741211.clicknplay.to | 0i0i0i0.com |
@@ -63,7 +65,6 @@
 | a.letsjerk.org | 0i0i0i0.com |
 | a.letsjerk.to | 0i0i0i0.com |
 | a.letsjerk.tv | 0i0i0i0.com |
-| a.manga18.site | 0i0i0i0.com |
 | a.marketing.com.sd | 0i0i0i0.com |
 | a.naturalhealthsource.club | 0i0i0i0.com |
 | a.p123p.com | 0i0i0i0.com |
@@ -100,6 +101,7 @@
 | adds.al3ably.com | 0i0i0i0.com |
 | adhome.icu | 0i0i0i0.com |
 | adilk.ilikecomix.com | 0i0i0i0.com |
+| ads.2conv.com | 0i0i0i0.com |
 | ads.49inchporn.club | 0i0i0i0.com |
 | ads.al3ably.com | 0i0i0i0.com |
 | ads.free-to.download | 0i0i0i0.com |
@@ -109,9 +111,9 @@
 | ads.pornharlot.com | 0i0i0i0.com |
 | ads.pornharlot.net | 0i0i0i0.com |
 | ads.saplacikardepo.xyz | 0i0i0i0.com |
+| ads.sturls.com | 0i0i0i0.com |
 | ads.tabuflix.com | 0i0i0i0.com |
 | ads.xmov.net | 0i0i0i0.com |
-| ads.xxxleaks.cc | 0i0i0i0.com |
 | adsnot.1javguru.xyz | 0i0i0i0.com |
 | adsnot.1supjav.xyz | 0i0i0i0.com |
 | adspy.javrank.com | 0i0i0i0.com |
@@ -120,6 +122,7 @@
 | adxhand.icu | 0i0i0i0.com |
 | ags.hobby.porn | 0i0i0i0.com |
 | all.shorterall.com | 0i0i0i0.com |
+| alt.fescity.com | 0i0i0i0.com |
 | amaz.emailon.top | 0i0i0i0.com |
 | amazingdomain.sbs | 0i0i0i0.com |
 | amazoni.lol | 0i0i0i0.com |
@@ -199,6 +202,8 @@
 | blog.andropps.com | 0i0i0i0.com |
 | blow.week1time.com | 0i0i0i0.com |
 | bob.bezucai.com | 0i0i0i0.com |
+| btaoc.lol | 0i0i0i0.com |
+| btaoc.xyz | 0i0i0i0.com |
 | bupupua4.xsuffer.com | 0i0i0i0.com |
 | buzzset.pics | 0i0i0i0.com |
 | bx5.tubemaximum.com | 0i0i0i0.com |
@@ -221,7 +226,6 @@
 | cdn1.pop72i.art | 0i0i0i0.com |
 | cdn1.prroll2o.art | 0i0i0i0.com |
 | cdn3.cartoonporn.to | 0i0i0i0.com |
-| cdn3.feetjerk.com | 0i0i0i0.com |
 | cdn3.hentaihand.com | 0i0i0i0.com |
 | cdn3.hentaihaven.fun | 0i0i0i0.com |
 | cdn5.cartoonporn.to | 0i0i0i0.com |
@@ -275,15 +279,12 @@
 | essential.awmcash.com | 0i0i0i0.com |
 | est.pornleech.ch | 0i0i0i0.com |
 | ex8.lostporntube.com | 0i0i0i0.com |
-| eyedssw.javvvvvv.xyz | 0i0i0i0.com |
 | f.bloblohub.com | 0i0i0i0.com |
 | fast.s5live.com | 0i0i0i0.com |
 | firnialint.xsuffer.com | 0i0i0i0.com |
 | forads.pro | 0i0i0i0.com |
 | fortran.icu | 0i0i0i0.com |
 | free.srcdn.xyz | 0i0i0i0.com |
-| free.stat.tk | 0i0i0i0.com |
-| freememes.desiceleb.top | 0i0i0i0.com |
 | fresh.tuiz.pics | 0i0i0i0.com |
 | fsdss.7mmtv.top | 0i0i0i0.com |
 | fx9.freepornoboss.com | 0i0i0i0.com |
@@ -292,7 +293,6 @@
 | g4x.porngirl.eu | 0i0i0i0.com |
 | g6j.cupidonmedia.com | 0i0i0i0.com |
 | gamestar.lol | 0i0i0i0.com |
-| gay0day.online | 0i0i0i0.com |
 | gg.xszcdn.com | 0i0i0i0.com |
 | ghtry.amateurswild.com | 0i0i0i0.com |
 | glass.vixfilmes.online | 0i0i0i0.com |
@@ -445,7 +445,6 @@
 | pihu.xxxpornhd.pro | 0i0i0i0.com |
 | pivo.tracked.one | 0i0i0i0.com |
 | pizzazz.lol | 0i0i0i0.com |
-| plsdonblock.supjav.buzz | 0i0i0i0.com |
 | pop.dtoo1.space | 0i0i0i0.com |
 | pornve.sexyadsrun.com | 0i0i0i0.com |
 | pornvideos.casa | 0i0i0i0.com |
@@ -536,8 +535,6 @@
 | test2.maxx.ddac.ru | 0i0i0i0.com |
 | testcommon.soundrussian.com | 0i0i0i0.com |
 | tetra.xsuffer.com | 0i0i0i0.com |
-| thescript.javfinder.xyz | 0i0i0i0.com |
-| thetranny.online | 0i0i0i0.com |
 | tik.boldtur.xyz | 0i0i0i0.com |
 | tip.vipz.lol | 0i0i0i0.com |
 | titsandtits.com | 0i0i0i0.com |
@@ -573,7 +570,6 @@
 | vz.7vid.net | 0i0i0i0.com |
 | w00t.us | 0i0i0i0.com |
 | web.cinetux.nu | 0i0i0i0.com |
-| wtfdontblock.theporndudes.xyz | 0i0i0i0.com |
 | ww.cvideos.stream | 0i0i0i0.com |
 | www.adanald.icu | 0i0i0i0.com |
 | www.adhome.icu | 0i0i0i0.com |
@@ -583,7 +579,6 @@
 | www.bigboy.monster | 0i0i0i0.com |
 | www.bloblohub.com | 0i0i0i0.com |
 | www.healmsuoguurd.eu | 0i0i0i0.com |
-| www.lechoncito.one | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
 | www.myxozilla.icu | 0i0i0i0.com |
 | www.p123p.com | 0i0i0i0.com |
@@ -610,7 +605,6 @@
 | youzok.lol | 0i0i0i0.com |
 | z0000g.yvmads.com | 0i0i0i0.com |
 | zazu.vtube.to | 0i0i0i0.com |
-| zeenite.online | 0i0i0i0.com |
 | zone.stripcam.tv | 0i0i0i0.com |
 | cdn.manhwadesu.me | cdn66584302.blazingcdn.net |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
@@ -619,3 +613,4 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| h-ay.com | u53.hypnorat.com |

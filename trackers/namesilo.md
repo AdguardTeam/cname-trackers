@@ -7,7 +7,6 @@
     * ka8ing2z.ab1n.net
     * tk6if76q.ab1n.net
     * tk6if76r.ab1n.net
-    * v3j9t5q9.ab1n.net
     * w2u4v9e1.ab1n.net
     * x0xmrxm4.ab1n.net
 
@@ -530,6 +529,7 @@
 | 3662595.notifysrv.com | tk6if76q.ab1n.net |
 | 3662897.notifysrv.com | tk6if76q.ab1n.net |
 | 3668785.notifysrv.com | tk6if76q.ab1n.net |
+| 3670315.notify6.com | tk6if76q.ab1n.net |
 | 3710063.notifysrv.com | tk6if76q.ab1n.net |
 | 3717105.notify6.com | tk6if76q.ab1n.net |
 | 3724345.notify6.com | tk6if76q.ab1n.net |
@@ -634,6 +634,7 @@
 | 4872816.notify6.com | tk6if76q.ab1n.net |
 | 4882380.notify6.com | tk6if76q.ab1n.net |
 | 4888136.notify6.com | tk6if76q.ab1n.net |
+| 4902880.notify6.com | tk6if76q.ab1n.net |
 | 603.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 7678.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | _sip._tcp.meet.3393147.notifysrv.com | tk6if76q.ab1n.net |
@@ -681,6 +682,7 @@
 | s.zlink9.com | tk6if76q.ab1n.net |
 | s.zlinkb.com | tk6if76q.ab1n.net |
 | s.zlinkm.com | tk6if76q.ab1n.net |
+| syndication-adblock.exoclick.com | tk6if76q.ab1n.net |
 | syndication.dynsrvtbg.com | tk6if76q.ab1n.net |
 | syndication.dynsrvwer.com | tk6if76q.ab1n.net |
 | syndication.elink12.com | tk6if76q.ab1n.net |
@@ -701,8 +703,8 @@
 | syndication.whibd.com | tk6if76q.ab1n.net |
 | syndication.whibp.com | tk6if76q.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
-| admin.adnation.com | v3j9t5q9.ab1n.net |
 | a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
-| a.asvsm.com | w2u4v9e1.ab1n.net |
+| a.etology.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
+| admin.adxnow.com | x0xmrxm4.ab1n.net |
 | api.adnation.com | x0xmrxm4.ab1n.net |

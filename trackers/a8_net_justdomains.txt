@@ -71,6 +71,7 @@ a8.heart-denpo.com
 a8.hemptouch.co.jp
 a8.hikari-n.jp
 a8.hikari-softbank.jp
+a8.hikarimach.net
 a8.hikarix.net
 a8.hitohana.tokyo
 a8.hitoma-tuhan.com
@@ -139,6 +140,7 @@ a8.seifu-ac.jp
 a8.sennendo.jp
 a8.sharefull.com
 a8.shikigaku.jp
+a8.shitsukekun.com
 a8.shizq.store
 a8.shokubun.net
 a8.shop-jp.activ5.com
@@ -215,6 +217,7 @@ a8clk.carenessapp.lifekarte.com
 a8clk.cart.amahada.com
 a8clk.chapup.jp
 a8clk.chat-wifi.site
+a8clk.checkout.leafee.me
 a8clk.chuko-truck.com
 a8clk.cleaneo.jp
 a8clk.cocorotherapy.com
@@ -271,6 +274,7 @@ a8clk.kaitoriyasan.group
 a8clk.kake-barai.com
 a8clk.kenkoukazoku.co.jp
 a8clk.komochikon.jp
+a8clk.kyoto-health.co.jp
 a8clk.lasana.co.jp
 a8clk.lens-1.jp
 a8clk.life.bang.co.jp
@@ -407,9 +411,11 @@ a8cv.bonaventura.shop
 a8cv.brandeuse.jp
 a8cv.brandnet.info
 a8cv.brassiere-shorts.jp
+a8cv.bright-app.com
 a8cv.broadbandservice.jp
 a8cv.bulk.co.jp
 a8cv.busbookmark.jp
+a8cv.cacom.jp
 a8cv.career.medpeer.jp
 a8cv.careerpark-agent.jp
 a8cv.carryonmall.com
@@ -417,9 +423,11 @@ a8cv.catal.jp
 a8cv.chillaxy.jp
 a8cv.cinemage.shop
 a8cv.cloud-wi-fi.jp
+a8cv.coco-gourmet.com
 a8cv.coopnet.or.jp
 a8cv.cosmeonline.com
 a8cv.cprime-japan.com
+a8cv.crowdcredit.jp
 a8cv.daini-agent.jp
 a8cv.danipita.com
 a8cv.danjiki-net.jp
@@ -482,11 +490,13 @@ a8cv.isslim.jp
 a8cv.iwamizu.com
 a8cv.japaden.jp
 a8cv.jcom-cabletv.jp
+a8cv.jeansmate.co.jp
 a8cv.jokyonext.jp
 a8cv.jp-shop.kiwabi.com
 a8cv.k-ikiiki.jp
 a8cv.kagoya.jp
 a8cv.kaimonoform.com
+a8cv.kaitorisatei.info
 a8cv.king-makura.com
 a8cv.kosodatemoney.com
 a8cv.kstarselect.com
@@ -549,6 +559,7 @@ a8cv.store.tavenal.com
 a8cv.store.yslabo.net
 a8cv.str.classicmusic.tokyo
 a8cv.t-bang.jp
+a8cv.tamago-repeat.com
 a8cv.toko-navi.com
 a8cv.tokyogas.bocco.me
 a8cv.udition.jp
@@ -570,6 +581,7 @@ a8itp.bitoka-japan.com
 a8lp-tebiki.e-sogi.com
 a8n.radishbo-ya.co.jp
 a8net.augustberg.jp
+a8net.beyond-gym.com
 a8net.mellow-cbd.jp
 a8net.pg-learning.net
 a8net.sourcenext.com
@@ -603,6 +615,7 @@ afcv.champ-shop.com
 affi.best-hoiku.com
 affiliate.couleur-labo.com
 afi.school.web-marketing.ai
+afi.ssl.gmobb.jp
 ahachi.dietnavi.com
 analytics.villagehouse.jp
 asp.hachipp119.com
@@ -613,6 +626,7 @@ contact.kdg-yobi.com
 cosme.caseepo.jp
 cp.cp.twendee.jp
 cv.a-hikkoshi.com
+cv.atelier-shark.com
 cv.b2b.subscription-store.com
 cv.bc-force.com
 cv.bloomeelife.com
@@ -642,10 +656,12 @@ mvc.shopjapan.co.jp
 pages2.rizap.jp
 shop.anu-cosme.com
 smn.dankore.jp
+st-a8.tscubic.com
 sub.booksdream-mypage.com
 track.craudia.com
 track.xmarketech.com
 tracking.196189.com
+trck.aeon.co.jp
 trck.atnenga.com
 trck.kenkiya.com
 trck.rework-s.com

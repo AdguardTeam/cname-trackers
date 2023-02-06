@@ -19,6 +19,7 @@
 | aff.realwoman.sk | cz.affilbox.cz |
 | aff.teshop.cz | cz.affilbox.cz |
 | aff.winkey.cz | cz.affilbox.cz |
+| affi.cafemontana.cz | cz.affilbox.cz |
 | affi.dobra-miska.cz | cz.affilbox.cz |
 | affi.nostressmama.cz | cz.affilbox.cz |
 | affi.veronikahronkova.cz | cz.affilbox.cz |
@@ -31,6 +32,7 @@
 | affil.bruderland.cz | cz.affilbox.cz |
 | affil.chlap20.sk | cz.affilbox.cz |
 | affil.chocome.cz | cz.affilbox.cz |
+| affil.cityzenwear.cz | cz.affilbox.cz |
 | affil.claimcloud.cz | cz.affilbox.cz |
 | affil.comamdelat.com | cz.affilbox.cz |
 | affil.danfil.cz | cz.affilbox.cz |
@@ -79,6 +81,7 @@
 | affil.xgdpr.cz | cz.affilbox.cz |
 | affil.zaslat.cz | cz.affilbox.cz |
 | affil.zdravetricko.cz | cz.affilbox.cz |
+| affil.zenskecykly.cz | cz.affilbox.cz |
 | affilate.sklep38.cz | cz.affilbox.cz |
 | affilbox.aliveplatform.com | cz.affilbox.cz |
 | affilbox.andreashop.sk | cz.affilbox.cz |
@@ -159,6 +162,8 @@
 | affiliate.ladylab.sk | cz.affilbox.cz |
 | affiliate.lasamba.cz | cz.affilbox.cz |
 | affiliate.lasun.cz | cz.affilbox.cz |
+| affiliate.lentiamo.co.uk | cz.affilbox.cz |
+| affiliate.lentiamo.es | cz.affilbox.cz |
 | affiliate.lentiamo.fr | cz.affilbox.cz |
 | affiliate.lentiamo.se | cz.affilbox.cz |
 | affiliate.levnoshop.cz | cz.affilbox.cz |
@@ -167,6 +172,7 @@
 | affiliate.luxusnipradlo.cz | cz.affilbox.cz |
 | affiliate.manvel.cz | cz.affilbox.cz |
 | affiliate.milagro.cz | cz.affilbox.cz |
+| affiliate.mobilonline.sk | cz.affilbox.cz |
 | affiliate.mojemincovna.cz | cz.affilbox.cz |
 | affiliate.montessorihracky.cz | cz.affilbox.cz |
 | affiliate.montessorikurz.cz | cz.affilbox.cz |
@@ -363,6 +369,7 @@
 | partner.dailymix.cz | cz.affilbox.cz |
 | partner.danfil.cz | cz.affilbox.cz |
 | partner.denato.cz | cz.affilbox.cz |
+| partner.denato.fr | cz.affilbox.cz |
 | partner.denato.it | cz.affilbox.cz |
 | partner.denishenry.cz | cz.affilbox.cz |
 | partner.designturnaj.cz | cz.affilbox.cz |
@@ -415,6 +422,7 @@
 | partner.lehatkapropsy.cz | cz.affilbox.cz |
 | partner.lemurak.cz | cz.affilbox.cz |
 | partner.lidajirickova.cz | cz.affilbox.cz |
+| partner.lyzelyze.cz | cz.affilbox.cz |
 | partner.marlen.cz | cz.affilbox.cz |
 | partner.marspom.cz | cz.affilbox.cz |
 | partner.martinreznicek.cz | cz.affilbox.cz |
@@ -511,7 +519,6 @@
 | partner.zonky.cz | cz.affilbox.cz |
 | partner.zv1.cz | cz.affilbox.cz |
 | partneri.adamfengshui.cz | cz.affilbox.cz |
-| partneri.adrop.cz | cz.affilbox.cz |
 | partneri.affiliatevyzva.cz | cz.affilbox.cz |
 | partneri.alchemistr.cz | cz.affilbox.cz |
 | partneri.alepiacz.cz | cz.affilbox.cz |
@@ -528,7 +535,6 @@
 | partneri.dietavkrabicce.cz | cz.affilbox.cz |
 | partneri.dluhopisomat.cz | cz.affilbox.cz |
 | partneri.domaci-outlet.cz | cz.affilbox.cz |
-| partneri.dovychovat.cz | cz.affilbox.cz |
 | partneri.dusansoucek.cz | cz.affilbox.cz |
 | partneri.easyfocus.cz | cz.affilbox.cz |
 | partneri.easylingo.cz | cz.affilbox.cz |
@@ -610,6 +616,7 @@
 | partners.puravidashop.cz | cz.affilbox.cz |
 | partners.spiritradar.com | cz.affilbox.cz |
 | program.biocitia.eu | cz.affilbox.cz |
+| promo.smskouc.cz | cz.affilbox.cz |
 | provize.3dfitness.cz | cz.affilbox.cz |
 | provize.dzumdzum.cz | cz.affilbox.cz |
 | provize.mimulo.cz | cz.affilbox.cz |

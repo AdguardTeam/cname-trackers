@@ -185,6 +185,7 @@
 ||ebis.kusunosetakeshi.com^
 ||ebis.lululun.com^
 ||ebis.macchialabel.com^
+||ebis.mucuna.co.jp^
 ||ebis.n-pri.jp^
 ||ebis.nomu-silica.jp^
 ||ebis.okasan-online.co.jp^

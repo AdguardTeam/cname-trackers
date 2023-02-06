@@ -41,6 +41,7 @@
 * wt-eu02.net
     * 101230059950694.wt-eu02.net
     * 107006243521810.wt-eu02.net
+    * 117490221505998.wt-eu02.net
     * 125611812418194.wt-eu02.net
     * 145003564476173.wt-eu02.net
     * 148749046266446.wt-eu02.net
@@ -70,7 +71,6 @@
     * 310695274957699.wt-eu02.net
     * 318590743478915.wt-eu02.net
     * 329712103760415.wt-eu02.net
-    * 341309604352055.wt-eu02.net
     * 350258498646185.wt-eu02.net
     * 366003812072969.wt-eu02.net
     * 367128732629814.wt-eu02.net
@@ -137,6 +137,7 @@
     * 849036415619964.wt-eu02.net
     * 849715076759606.wt-eu02.net
     * 865411762489824.wt-eu02.net
+    * 877979016491790.wt-eu02.net
     * 893825625040746.wt-eu02.net
     * 927703597199732.wt-eu02.net
     * 949365393396887.wt-eu02.net
@@ -204,6 +205,7 @@
 | ---- | ---- |
 | web.news.creedfragrances.co.uk | 101230059950694.wt-eu02.net |
 | web.emails.elc.co.uk | 107006243521810.wt-eu02.net |
+| mit.deutschewealth.com | 117490221505998.wt-eu02.net |
 | intelligence.officialwesthamstore.com | 125611812418194.wt-eu02.net |
 | mapp.ewm.co.uk | 145003564476173.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
@@ -253,7 +255,6 @@
 | web.mapp.whiteaway.no | 310695274957699.wt-eu02.net |
 | web.mailing.storz-bickel.com | 318590743478915.wt-eu02.net |
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
-| web.email.pragroup.co.uk | 341309604352055.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
 | web.tummy-tox.com | 366003812072969.wt-eu02.net |
 | web.tummytox.de | 366003812072969.wt-eu02.net |
@@ -336,6 +337,7 @@
 | web.bankofscotland.de | 849036415619964.wt-eu02.net |
 | mit.deutsche-bank.de | 849715076759606.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
+| mit.deutschebank.be | 877979016491790.wt-eu02.net |
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
 | count.bank99.at | 927703597199732.wt-eu02.net |
 | web.autobodytoolmart.com | 949365393396887.wt-eu02.net |

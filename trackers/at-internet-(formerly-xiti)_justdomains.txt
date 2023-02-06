@@ -9,6 +9,7 @@ a.pourquoidocteur.fr
 a1.api.bbc.co.uk
 abncx.amv.fr
 ama.planet-wissen.de
+ama.quarks.de
 ama.wdr.de
 ana.tv5unis.ca
 arrietty.nrj.fr
@@ -16,6 +17,7 @@ at-cddc.actu-juridique.fr
 at.badische-zeitung.de
 atconnect.npo.nl
 ati-a1.946d001b783803c1.xhst.bbci.co.uk
+ati.sazka.cz
 avocado.laprovence.com
 avp.labanquepostale.fr
 blava.viessmann.sk

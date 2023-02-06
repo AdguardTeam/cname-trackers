@@ -9,6 +9,7 @@ aff.pujckajonatan.cz
 aff.realwoman.sk
 aff.teshop.cz
 aff.winkey.cz
+affi.cafemontana.cz
 affi.dobra-miska.cz
 affi.nostressmama.cz
 affi.veronikahronkova.cz
@@ -21,6 +22,7 @@ affil.blaire.cz
 affil.bruderland.cz
 affil.chlap20.sk
 affil.chocome.cz
+affil.cityzenwear.cz
 affil.claimcloud.cz
 affil.comamdelat.com
 affil.danfil.cz
@@ -69,6 +71,7 @@ affil.wellspace.cz
 affil.xgdpr.cz
 affil.zaslat.cz
 affil.zdravetricko.cz
+affil.zenskecykly.cz
 affilate.sklep38.cz
 affilbox.aliveplatform.com
 affilbox.andreashop.sk
@@ -149,6 +152,8 @@ affiliate.kutil.cz
 affiliate.ladylab.sk
 affiliate.lasamba.cz
 affiliate.lasun.cz
+affiliate.lentiamo.co.uk
+affiliate.lentiamo.es
 affiliate.lentiamo.fr
 affiliate.lentiamo.se
 affiliate.levnoshop.cz
@@ -157,6 +162,7 @@ affiliate.loveo.cz
 affiliate.luxusnipradlo.cz
 affiliate.manvel.cz
 affiliate.milagro.cz
+affiliate.mobilonline.sk
 affiliate.mojemincovna.cz
 affiliate.montessorihracky.cz
 affiliate.montessorikurz.cz
@@ -353,6 +359,7 @@ partner.cukrarskyklub.cz
 partner.dailymix.cz
 partner.danfil.cz
 partner.denato.cz
+partner.denato.fr
 partner.denato.it
 partner.denishenry.cz
 partner.designturnaj.cz
@@ -405,6 +412,7 @@ partner.legalni-konopi.cz
 partner.lehatkapropsy.cz
 partner.lemurak.cz
 partner.lidajirickova.cz
+partner.lyzelyze.cz
 partner.marlen.cz
 partner.marspom.cz
 partner.martinreznicek.cz
@@ -501,7 +509,6 @@ partner.zonercloud.sk
 partner.zonky.cz
 partner.zv1.cz
 partneri.adamfengshui.cz
-partneri.adrop.cz
 partneri.affiliatevyzva.cz
 partneri.alchemistr.cz
 partneri.alepiacz.cz
@@ -518,7 +525,6 @@ partneri.danahanouskova.cz
 partneri.dietavkrabicce.cz
 partneri.dluhopisomat.cz
 partneri.domaci-outlet.cz
-partneri.dovychovat.cz
 partneri.dusansoucek.cz
 partneri.easyfocus.cz
 partneri.easylingo.cz
@@ -600,6 +606,7 @@ partners.pocitarna.cz
 partners.puravidashop.cz
 partners.spiritradar.com
 program.biocitia.eu
+promo.smskouc.cz
 provize.3dfitness.cz
 provize.dzumdzum.cz
 provize.mimulo.cz

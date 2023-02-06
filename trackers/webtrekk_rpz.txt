@@ -143,6 +143,8 @@ mapp.yesstyle.com CNAME .
 mit.bhw.de CNAME .
 mit.db.com CNAME .
 mit.deutsche-bank.de CNAME .
+mit.deutschebank.be CNAME .
+mit.deutschewealth.com CNAME .
 mit.dws.com CNAME .
 mit.dws.de CNAME .
 mit.postbank.de CNAME .
@@ -235,7 +237,6 @@ web.e.aldermore.co.uk CNAME .
 web.e.panmacmillan.com CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.pmtonline.co.uk CNAME .
-web.email.pragroup.co.uk CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .

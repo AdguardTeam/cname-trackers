@@ -38,6 +38,7 @@ refer.dna.ancestry.com CNAME .
 refer.dnj.com CNAME .
 refer.framesdirect.com CNAME .
 refer.freshly.com CNAME .
+refer.fuzebox.com CNAME .
 refer.gevalia.com CNAME .
 refer.gotoassist.com CNAME .
 refer.greenvilleonline.com CNAME .
@@ -232,6 +233,7 @@ refer.laylasleep.com CNAME .
 refer.lendingclub.com CNAME .
 refer.lenscrafters.com CNAME .
 refer.lightstream.com CNAME .
+refer.littlepassports.com CNAME .
 refer.loomandleaf.com CNAME .
 refer.lull.com CNAME .
 refer.madison-reed.com CNAME .
@@ -321,7 +323,6 @@ referral.cledepeaubeaute.com CNAME .
 referral.shiseido.com CNAME .
 referrals.visionsfcu.org CNAME .
 rewards.zoom.us CNAME .
-sftp.extole.com CNAME .
 share-uk.princess.com CNAME .
 share-us.viktor-rolf.com CNAME .
 share.100xequine.com CNAME .
@@ -387,6 +388,7 @@ share.firstleaf.com CNAME .
 share.floridatoday.com CNAME .
 share.fullbay.com CNAME .
 share.getsetup.io CNAME .
+share.giftcardgranny.com CNAME .
 share.giftya.com CNAME .
 share.giorgioarmanibeauty-usa.com CNAME .
 share.go2bank.com CNAME .
@@ -400,6 +402,7 @@ share.inspirecleanenergy.com CNAME .
 share.installamerica.com CNAME .
 share.ipage.com CNAME .
 share.iteach.net CNAME .
+share.juvlabs.com CNAME .
 share.key.com CNAME .
 share.kumon.com CNAME .
 share.la-mariette.com CNAME .
@@ -451,6 +454,7 @@ share.securityplusfcu.org CNAME .
 share.shoptruespirit.com CNAME .
 share.shutterstock.com CNAME .
 share.simonandschuster.com CNAME .
+share.stagsleap.com CNAME .
 share.starbucks.com CNAME .
 share.steadyapp.com CNAME .
 share.stridehealth.com CNAME .
@@ -489,3 +493,7 @@ em8561.go2bank.com CNAME .
 ; media-router-aol1.prod.g03.yahoodns.net disguised trackers
 ;
 refer.aol.com CNAME .
+;
+; s-ec30e63e423445779.server.transfer.us-east-1.amazonaws.com disguised trackers
+;
+sftp.extole.com CNAME .

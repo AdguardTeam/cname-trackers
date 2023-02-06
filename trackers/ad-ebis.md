@@ -36,6 +36,7 @@
     * 19740a52-z3l0wqwm.cname.ebis.ne.jp
     * 19b07d2c-szarg4cw.cname.ebis.ne.jp
     * 1a549c8f-lxybwclf.cname.ebis.ne.jp
+    * 1c11b00c-sz3ynfbf.cname.ebis.ne.jp
     * 1c49adf8-5jfswxpe.cname.ebis.ne.jp
     * 1c49adf8-eth6amyu.cname.ebis.ne.jp
     * 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp
@@ -302,6 +303,7 @@
 | adebis.jp.iface.com | 19740a52-z3l0wqwm.cname.ebis.ne.jp |
 | urr.kumamoto-food.com | 19b07d2c-szarg4cw.cname.ebis.ne.jp |
 | ade.deskstyle.info | 1a549c8f-lxybwclf.cname.ebis.ne.jp |
+| ebis.mucuna.co.jp | 1c11b00c-sz3ynfbf.cname.ebis.ne.jp |
 | ac-ebis-stb.usen.com | 1c49adf8-5jfswxpe.cname.ebis.ne.jp |
 | ac-ebis-uhome.usen.com | 1c49adf8-eth6amyu.cname.ebis.ne.jp |
 | marketing.biz.mynavi.jp | 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp |

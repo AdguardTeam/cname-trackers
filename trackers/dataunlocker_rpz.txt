@@ -32,7 +32,6 @@
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
-8ag8k205ppci.app.alpacafinance.org CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
@@ -47,6 +46,7 @@ bygr2ri20e4y.li.finance CNAME .
 cihnqp6p65.koinly.io CNAME .
 cqz6fn6aox.aporia.com CNAME .
 din1j0su0u99.artwallstreet.io CNAME .
+dlziqh9bo7.boring.fm CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
@@ -74,9 +74,9 @@ mteme7li1d6r.vertexmarketingagency.com CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
 ocjeg2ca9uh9.mailfloss.com CNAME .
-onuf69iegl2e.staging-lfg-app.alpacafinance.org CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
 p13vtlg7n362.clariti.app CNAME .
+p7h1silo3f.app.cainthus.com CNAME .
 p9jhxqlkmn.miniso.com.gr CNAME .
 qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
@@ -93,7 +93,6 @@ twn36gx4109r.loveisblank.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
-vsxuu0t8okks.kvest.ee CNAME .
 vzal21mooz.hyperwrite.ai CNAME .
 w38ju82bano4.cv.gerardbosch.xyz CNAME .
 wayyaj8t094u.www.kodalia.com CNAME .

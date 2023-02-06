@@ -29,6 +29,7 @@
     * ebags.extole.com
     * framesdirect.extole.com
     * freshly.extole.com
+    * fuzebox-ssl.extole.com
     * gevalia.extole.com
     * gotoassist.extole.com
     * greenvilleonline.extole.com
@@ -232,6 +233,7 @@
     * giant-martins.extole.io
     * giantfood.extole.io
     * giantfoodstores.extole.io
+    * giftcardgranny.extole.io
     * giftya.extole.io
     * giorgioarmanibeauty-usa.extole.io
     * glamglow.extole.io
@@ -264,6 +266,7 @@
     * iteach.extole.io
     * join1440.extole.io
     * juicepress.extole.io
+    * juvlabs.extole.io
     * keds.extole.io
     * kerastase-usa.extole.io
     * key.extole.io
@@ -283,6 +286,7 @@
     * lenscrafters.extole.io
     * levi.extole.io
     * lightstream.extole.io
+    * little-passports.extole.io
     * livongo.extole.io
     * lull.extole.io
     * mac-cosmetics.extole.io
@@ -353,7 +357,6 @@
     * saucony.extole.io
     * scoresense.extole.io
     * securityplus.extole.io
-    * sftp.extole.io
     * shark-clean.extole.io
     * shiseido.extole.io
     * shutterstock.extole.io
@@ -395,6 +398,7 @@
     * tous-jewelry.extole.io
     * trafalgar.extole.io
     * truckstop.extole.io
+    * tweglobal.extole.io
     * twisthair.extole.io
     * unchartedsociety.extole.io
     * under-armour-1.extole.io
@@ -432,6 +436,7 @@
 
 * u82658.wl159.sendgrid.net
 * media-router-aol1.prod.g03.yahoodns.net
+* s-ec30e63e423445779.server.transfer.us-east-1.amazonaws.com
 
 ## Cloaking domains
 
@@ -608,6 +613,7 @@
 | internalreferral.freshworks.com | freshworks.extole.io |
 | refer.frontgate.com | frontgate.extole.io |
 | share.fullbay.com | fullbay.extole.io |
+| refer.fuzebox.com | fuzebox-ssl.extole.com |
 | refer.g2.com | g2.extole.io |
 | share.azcentral.com | gannett.extole.io |
 | share.caller.com | gannett.extole.io |
@@ -630,6 +636,7 @@
 | refer.martinsfoods.com | giant-martins.extole.io |
 | refer.giantfood.com | giantfood.extole.io |
 | refer.giantfoodstores.com | giantfoodstores.extole.io |
+| share.giftcardgranny.com | giftcardgranny.extole.io |
 | share.giftya.com | giftya.extole.io |
 | share.giorgioarmanibeauty-usa.com | giorgioarmanibeauty-usa.extole.io |
 | refer.glamglow.com | glamglow.extole.io |
@@ -677,6 +684,7 @@
 | refer.join1440.com | join1440.extole.io |
 | refer.juicepress.com | juicepress.extole.io |
 | refer.julep.com | julep.extole.com |
+| share.juvlabs.com | juvlabs.extole.io |
 | refer.keds.com | keds.extole.io |
 | refer.kerastase-usa.com | kerastase-usa.extole.io |
 | friends.keurig.com | keurig-ssl.extole.com |
@@ -703,6 +711,7 @@
 | refer.lenscrafters.com | lenscrafters.extole.io |
 | share.levi.com | levi.extole.io |
 | refer.lightstream.com | lightstream.extole.io |
+| refer.littlepassports.com | little-passports.extole.io |
 | share.livongo.com | livongo.extole.io |
 | refer.luckyvitamin.com | luckyvitamin.extole.com |
 | get.lull.com | lull.extole.io |
@@ -795,6 +804,7 @@
 | share.ross-simons.com | ross-simons.extole.io |
 | share.rspure.com | ross-simons.extole.io |
 | share.rvshare.com | rvshare.extole.io |
+| sftp.extole.com | s-ec30e63e423445779.server.transfer.us-east-1.amazonaws.com |
 | refer.loomandleaf.com | saatvamattress.extole.io |
 | refer.saatva.com | saatvamattress.extole.io |
 | refer.saatvadreams.com | saatvamattress.extole.io |
@@ -807,7 +817,6 @@
 | refer.saucony.com | saucony.extole.io |
 | refer.scoresense.com | scoresense.extole.io |
 | share.securityplusfcu.org | securityplus.extole.io |
-| sftp.extole.com | sftp.extole.io |
 | friend.sharefile.com | sharefile-ssl.extole.com |
 | refer.sharkclean.com | shark-clean.extole.io |
 | referral.shiseido.com | shiseido.extole.io |
@@ -868,6 +877,7 @@
 | refer.transfast.com | transfast.extole.com |
 | share.truckstop.com | truckstop.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
+| share.stagsleap.com | tweglobal.extole.io |
 | refer.twisthair.com | twisthair.extole.io |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
 | refer.ulta.com | ulta.extole.com |

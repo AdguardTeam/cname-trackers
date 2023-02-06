@@ -119,6 +119,7 @@
     * h-barstoolsportsbook.online-metrix.net
     * h-beachbody.online-metrix.net
     * h-benevity.online-metrix.net
+    * h-berluti.online-metrix.net
     * h-bestbuy.online-metrix.net
     * h-betdaq.online-metrix.net
     * h-betfair.online-metrix.net
@@ -145,6 +146,7 @@
     * h-btcmgcxc.online-metrix.net
     * h-buyfun.online-metrix.net
     * h-buzyvpj9.online-metrix.net
+    * h-bw1fkozp.online-metrix.net
     * h-c3xmpcvr.online-metrix.net
     * h-c70ghtsb.online-metrix.net
     * h-c7f45hl1-ao.online-metrix.net
@@ -741,6 +743,7 @@
 | tm.barstoolsportsbook.com | h-barstoolsportsbook.online-metrix.net |
 | tm.beachbody.com | h-beachbody.online-metrix.net |
 | tm.benevity.org | h-benevity.online-metrix.net |
+| content.berluti.com | h-berluti.online-metrix.net |
 | tmx.bestbuy.com | h-bestbuy.online-metrix.net |
 | log.betdaq.com | h-betdaq.online-metrix.net |
 | regstat.betfair.com | h-betfair.online-metrix.net |
@@ -770,6 +773,7 @@
 | tags.s-dati.com | h-btcmgcxc.online-metrix.net |
 | securecheckout.halloweencostumes.com | h-buyfun.online-metrix.net |
 | abc.pulsebet.com | h-buzyvpj9.online-metrix.net |
+| tmxjs.tokyodisneyresort.jp | h-bw1fkozp.online-metrix.net |
 | content.koalafi.com | h-c3xmpcvr.online-metrix.net |
 | lndata.labor.maryland.gov | h-c70ghtsb.online-metrix.net |
 | content.olympus.ao.com | h-c7f45hl1-ao.online-metrix.net |
@@ -1363,6 +1367,7 @@
 | assets.werally.co | h-werally.online-metrix.net |
 | content.westcreekfin.com | h-westcreek.online-metrix.net |
 | cdn1.thm.bankofmelbourne.com.au | h-westpac.online-metrix.net |
+| cdn1.thm.banksa.com.au | h-westpac.online-metrix.net |
 | cdn1.thm.stgeorge.com.au | h-westpac.online-metrix.net |
 | cdn1.thm.westpac.com.au | h-westpac.online-metrix.net |
 | t.us.williamhill.com | h-williamhill.online-metrix.net |

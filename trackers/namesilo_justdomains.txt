@@ -504,6 +504,7 @@
 3662595.notifysrv.com
 3662897.notifysrv.com
 3668785.notifysrv.com
+3670315.notify6.com
 3710063.notifysrv.com
 3717105.notify6.com
 3724345.notify6.com
@@ -608,12 +609,13 @@
 4872816.notify6.com
 4882380.notify6.com
 4888136.notify6.com
+4902880.notify6.com
 603.notify.optimizesrv.com
 7678.notify.optimizesrv.com
 _sip._tcp.meet.3393147.notifysrv.com
 a.addisplaynetwork.com
-a.asvsm.com
-admin.adnation.com
+a.etology.com
+admin.adxnow.com
 api.adnation.com
 delivery.gettopple.com
 engine.gettopple.com
@@ -662,6 +664,7 @@ s.zlink8.com
 s.zlink9.com
 s.zlinkb.com
 s.zlinkm.com
+syndication-adblock.exoclick.com
 syndication.dynsrvtbg.com
 syndication.dynsrvwer.com
 syndication.elink12.com

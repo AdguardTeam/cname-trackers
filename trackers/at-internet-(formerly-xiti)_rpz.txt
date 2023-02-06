@@ -9,6 +9,7 @@ a.pourquoidocteur.fr CNAME .
 a1.api.bbc.co.uk CNAME .
 abncx.amv.fr CNAME .
 ama.planet-wissen.de CNAME .
+ama.quarks.de CNAME .
 ama.wdr.de CNAME .
 ana.tv5unis.ca CNAME .
 arrietty.nrj.fr CNAME .
@@ -16,6 +17,7 @@ at-cddc.actu-juridique.fr CNAME .
 at.badische-zeitung.de CNAME .
 atconnect.npo.nl CNAME .
 ati-a1.946d001b783803c1.xhst.bbci.co.uk CNAME .
+ati.sazka.cz CNAME .
 avocado.laprovence.com CNAME .
 avp.labanquepostale.fr CNAME .
 blava.viessmann.sk CNAME .

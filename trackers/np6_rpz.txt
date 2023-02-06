@@ -38,6 +38,7 @@ tr.asp002q.espmp-aufr.net CNAME .
 tr.asp0085.espmp-nifr.net CNAME .
 tr.asp008y.espmp-nifr.net CNAME .
 tr.asp00a1.espmp-agfr.net CNAME .
+tr.asp00a3.espmp-agfr.net CNAME .
 tr.asp00a6.espmp-nifr.net CNAME .
 tr.asp1.espmp-agfr.net CNAME .
 tr.asp103z.espmp-nifr.net CNAME .
@@ -148,6 +149,7 @@ tr.contact.canalplus.fr CNAME .
 tr.contact.cereps.fr CNAME .
 tr.contact.e-turf.fr CNAME .
 tr.contact.lead.eu.com CNAME .
+tr.contact.leadsonline.fr CNAME .
 tr.contact.lvmh.fr CNAME .
 tr.contact.makemelead.info CNAME .
 tr.contact.mhl-publishing.fr CNAME .
@@ -265,6 +267,7 @@ tr.eulerhermes.com CNAME .
 tr.europa-organisation.com CNAME .
 tr.evenements.inpi.fr CNAME .
 tr.expresofferte.be CNAME .
+tr.fg3p.espmp-cufr.net CNAME .
 tr.fidal.pro CNAME .
 tr.fidalformation.pro CNAME .
 tr.finance.moethennessy.com CNAME .
@@ -345,6 +348,7 @@ tr.info.rouen.cci.fr CNAME .
 tr.info.snpden.net CNAME .
 tr.info.solidarm.fr CNAME .
 tr.info.valcenis.com CNAME .
+tr.info.vip-mag.co.uk CNAME .
 tr.infolettre.securite-routiere.gouv.fr CNAME .
 tr.infolettres.groupama.com CNAME .
 tr.information.fidalformations.fr CNAME .
@@ -385,6 +389,7 @@ tr.lesmarquesenviedebienmanger.fr CNAME .
 tr.lettre.dechets-infos.com CNAME .
 tr.lettre.helianthal.fr CNAME .
 tr.lettre.lecho-circulaire.com CNAME .
+tr.leyravaud.devisdirect.com CNAME .
 tr.loreal.ifop.com CNAME .
 tr.louvre-boites.com CNAME .
 tr.ltbu.espmp-nifr.net CNAME .
@@ -407,6 +412,7 @@ tr.mail1.macif.fr CNAME .
 tr.mailing.achatpublic.com CNAME .
 tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
+tr.mailing.promodeclic.fr CNAME .
 tr.mailingnp6.lavoirmoderne.com CNAME .
 tr.mailmp.macif.net CNAME .
 tr.mailperf.institut-de-la-protection-sociale.fr CNAME .
@@ -744,7 +750,6 @@ tr.souscription.banque-casino.fr CNAME .
 tr.souscription.floa.fr CNAME .
 tr.spain.plimsoll.es CNAME .
 tr.sportperf.np6.fr CNAME .
-tr.stanford-news.fr CNAME .
 tr.strategie.gouv.fr CNAME .
 tr.tdgx.espmp-cufr.net CNAME .
 tr.thisiseurope.moethennessy.com CNAME .
@@ -793,11 +798,6 @@ tr.welcome.lexpress.fr CNAME .
 tr.welcome.moncoupdepouce.com CNAME .
 tr.welcome.odalys-vacances.com CNAME .
 tr.welcome.smartdeals-transavia-fr.com CNAME .
-tr.welcome.thelist-emirates.fr CNAME .
-tr.welcome.vipmag.fr CNAME .
-tr.win.moethennessy.com CNAME .
-tr.wuei.espmp-agfr.net CNAME .
-tr.wycena-companeo.pl CNAME .
 tr.xleads.digital CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.lr003.net CNAME .
