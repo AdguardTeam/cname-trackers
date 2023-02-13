@@ -111,6 +111,7 @@ attribution.sperry.com CNAME .
 attribution.tescomobile.com CNAME .
 attribution.theworks.co.uk CNAME .
 attribution.tmlewin.com CNAME .
+attribution.tmlewinshirts.eu CNAME .
 attribution.wolverine.com CNAME .
 businessmetrics.syf.com CNAME .
 cm.quest.com CNAME .

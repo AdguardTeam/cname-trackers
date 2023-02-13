@@ -6,11 +6,14 @@
 1bf86f4b.tictoc.ai
 abc.pulsebet.com
 acdc.toolineo.de
+acsrt.cardnet-tds.com
 acsweb-3dr1.dnp-cdms.jp
 afp.intuit.com
 analytics.amrcollection.com
+analytics.beachbound.com
 analytics.breathlessresorts.com
 analytics.cheapcaribbean.com
+analytics.dreamsresorts.com
 analytics.funjet.com
 analytics.nowresorts.com
 analytics.secretsresorts.com
@@ -93,6 +96,7 @@ cdnt.duobank.com
 cdnt.walmartrewards.ca
 cdntm.firstdirect.com
 cdntm.hangseng.com
+cdntm.hsbc.ae
 cdntm.hsbc.co.in
 cdntm.hsbc.co.uk
 cdntm.hsbc.com.au
@@ -111,6 +115,7 @@ cfa.fidelity.com
 cfa.mystreetscape.com
 cfa.streetscape.com
 cfaxq.mystreetscape.com
+cfaxq.streetscape.com
 cfaxq1.fidelity.com
 cfaxq2.fidelity.com
 channel.rakbankonline.ae
@@ -158,6 +163,7 @@ content.billdomain.com
 content.billscenter.paytrust.com
 content.billsupport.com
 content.bnl.it
+content.bnpparibas.net
 content.byabcd.com
 content.canadiantire.ca
 content.canyon.com
@@ -233,6 +239,7 @@ content.personifyfinancial.com
 content.pledg.co
 content.pnbank.com.au
 content.presentment.com
+content.prev.connexion-mabanque.bnpparibas
 content.qlinkwireless.com
 content.qudosbank.com.au
 content.quicken.com
@@ -249,6 +256,7 @@ content.solutions-corporate.com
 content.spincasino.ca
 content.sportchek.ca
 content.sportscheck.com
+content.sportsexperts.ca
 content.ssctech.com
 content.sso.tracesmart.co.uk
 content.tab.com.au
@@ -301,6 +309,7 @@ contentmx.okcoin.com
 contentservices.ascendloans.com
 contentservices.brightlending.com
 contentservices.clearairlending.com
+contentservices.zurvita.com
 creditcheck.digitecgalaxus.ch
 csource.rentals.com
 css.bitcasino.io
@@ -331,6 +340,7 @@ df.fragrancex.com
 df.greenmangaming.com
 df.thumbtack.com
 dfp.garmin.com
+dfp.t-mobile.at
 dfp.telering.at
 did.fashionworld.co.uk
 did.koempf24.de
@@ -390,6 +400,7 @@ ifp.intuit.com
 im2.prod.amount.com
 image.online.adp.com
 images.applyfleet.com
+images.essofleetoffers.com
 images.exxonmobilfleetoffers.com
 images.wexinc.com
 imagesmx.cdscdn.com
@@ -399,6 +410,7 @@ img.fortunejack.com
 img.getkansasbenefits.gov
 img.lascana.nl
 img.neora.com
+img.oney.fr
 img.remit.co.jp
 img.zootweb.com
 img02.pensionfund.org
@@ -439,6 +451,7 @@ lnths.twc.texas.gov
 lnthxsvc.tsp.gov
 log.betdaq.com
 log.checkmyfile.com
+log.creditreport.co.uk
 log.open.investorsbank.com
 login.eki-net.com
 loyaltyprogram.latam.com
@@ -495,10 +508,12 @@ portal-fp-qa2.qa.threatmetrix.com
 portal-fp-qaperf2.qa.threatmetrix.com
 portal-fp.threatmetrix.com
 pov.spectrum.net
+prod-redwood.chaperone.lumindigitalhosting.com
 profiling.digitalbusiness.cibc.com
 profiling.qacitizensbankonline.com
 ptm.creditas.com
 public-check3-at.test.tiaa.org
+qa-check3.qa.everbank.com
 qrimages.qatarairways.com
 qtbm.fundourselves.com
 qtbm.welendus.com
@@ -531,6 +546,7 @@ rmscheck.sbifxt.co.jp
 rsx.afterpay.com
 rt.wisecartapp.com
 rvw.connection.com
+rvw.govconnection.com
 s4.partner.yoomoney.ru
 safe.joinmosaic.com
 sc.liveme.com
@@ -670,6 +686,9 @@ tags.ulsterbank.co.uk
 tags.ulsterbankanytimebanking.co.uk
 tags.ulsterbankanytimebanking.ie
 tbp.tescobank.com
+tcontent.auchantelecom.fr
+tcontent.cdiscountmobile.cdiscount.com
+tcontent.nrjmobile.fr
 telem.highlow.com
 telem.highlow.net
 th.barclays.co.uk

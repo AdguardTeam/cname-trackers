@@ -94,10 +94,12 @@ data.vdi-wissensforum.de
 data.volksfreund.de
 data.westlotto.de
 daten.union-investment.de
+di.ifolor.at
 di.ifolor.ch
 di.ifolor.de
 di.ifolor.dk
 di.ifolor.fi
+di.ifolor.fr
 di.ifolor.ie
 di.ifolor.it
 di.ifolor.net
@@ -128,6 +130,7 @@ foro.data.srf.ch
 hbbtv-track.prosieben.de
 hbbtv-track.prosiebensat1puls4.com
 img.foodspring.at
+img.foodspring.cz
 img.foodspring.de
 img.foodspring.dk
 img.foodspring.fr
@@ -152,6 +155,7 @@ mit.researchlog.db.com
 mit.researchlog.dbresearch.com
 mit.researchlog.dbresearch.de
 nov.data.srf.ch
+ot.obi-brico.ch
 ot.obi-italia.it
 ot.obi.at
 ot.obi.ba
@@ -237,6 +241,7 @@ web.e.aldermore.co.uk
 web.e.panmacmillan.com
 web.email.farrow-ball.com
 web.email.pmtonline.co.uk
+web.email.principality.co.uk
 web.email.theindependentpharmacy.co.uk
 web.emails.elc.co.uk
 web.emails.thetoyshop.com

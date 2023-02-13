@@ -6,6 +6,7 @@
 fpa-api.arstechnica.com
 fpa-cdn.adweek.com
 fpa-cdn.arstechnica.com
+fpa-cdn.blog.parse.ly
 fpa-cdn.decrypt.co
 fpa-cdn.parse.ly
 fpa-cdn.slate.com

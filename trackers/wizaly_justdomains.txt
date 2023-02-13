@@ -8,12 +8,14 @@ t.wiz.meilleurtaux.com
 tk.abt.com
 tk.aircaraibes.com
 tk.airfrance.ae
+tk.airfrance.am
 tk.airfrance.at
 tk.airfrance.be
 tk.airfrance.bg
 tk.airfrance.bj
 tk.airfrance.ca
 tk.airfrance.ch
+tk.airfrance.cm
 tk.airfrance.co.ao
 tk.airfrance.co.jp
 tk.airfrance.co.kr
@@ -96,6 +98,7 @@ tk.transavia.com
 tk.ultrapremiumdirect.com
 tk.undiz.com
 tk.viapresse.com
+tk.zenpark.com
 tracking-test.esearchvision.com
 trackv-test.esearchvision.com
 tv-test.esvdigital.com

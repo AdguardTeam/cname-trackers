@@ -6,11 +6,14 @@
 1bf86f4b.tictoc.ai CNAME .
 abc.pulsebet.com CNAME .
 acdc.toolineo.de CNAME .
+acsrt.cardnet-tds.com CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 afp.intuit.com CNAME .
 analytics.amrcollection.com CNAME .
+analytics.beachbound.com CNAME .
 analytics.breathlessresorts.com CNAME .
 analytics.cheapcaribbean.com CNAME .
+analytics.dreamsresorts.com CNAME .
 analytics.funjet.com CNAME .
 analytics.nowresorts.com CNAME .
 analytics.secretsresorts.com CNAME .
@@ -93,6 +96,7 @@ cdnt.duobank.com CNAME .
 cdnt.walmartrewards.ca CNAME .
 cdntm.firstdirect.com CNAME .
 cdntm.hangseng.com CNAME .
+cdntm.hsbc.ae CNAME .
 cdntm.hsbc.co.in CNAME .
 cdntm.hsbc.co.uk CNAME .
 cdntm.hsbc.com.au CNAME .
@@ -111,6 +115,7 @@ cfa.fidelity.com CNAME .
 cfa.mystreetscape.com CNAME .
 cfa.streetscape.com CNAME .
 cfaxq.mystreetscape.com CNAME .
+cfaxq.streetscape.com CNAME .
 cfaxq1.fidelity.com CNAME .
 cfaxq2.fidelity.com CNAME .
 channel.rakbankonline.ae CNAME .
@@ -158,6 +163,7 @@ content.billdomain.com CNAME .
 content.billscenter.paytrust.com CNAME .
 content.billsupport.com CNAME .
 content.bnl.it CNAME .
+content.bnpparibas.net CNAME .
 content.byabcd.com CNAME .
 content.canadiantire.ca CNAME .
 content.canyon.com CNAME .
@@ -233,6 +239,7 @@ content.personifyfinancial.com CNAME .
 content.pledg.co CNAME .
 content.pnbank.com.au CNAME .
 content.presentment.com CNAME .
+content.prev.connexion-mabanque.bnpparibas CNAME .
 content.qlinkwireless.com CNAME .
 content.qudosbank.com.au CNAME .
 content.quicken.com CNAME .
@@ -249,6 +256,7 @@ content.solutions-corporate.com CNAME .
 content.spincasino.ca CNAME .
 content.sportchek.ca CNAME .
 content.sportscheck.com CNAME .
+content.sportsexperts.ca CNAME .
 content.ssctech.com CNAME .
 content.sso.tracesmart.co.uk CNAME .
 content.tab.com.au CNAME .
@@ -301,6 +309,7 @@ contentmx.okcoin.com CNAME .
 contentservices.ascendloans.com CNAME .
 contentservices.brightlending.com CNAME .
 contentservices.clearairlending.com CNAME .
+contentservices.zurvita.com CNAME .
 creditcheck.digitecgalaxus.ch CNAME .
 csource.rentals.com CNAME .
 css.bitcasino.io CNAME .
@@ -331,6 +340,7 @@ df.fragrancex.com CNAME .
 df.greenmangaming.com CNAME .
 df.thumbtack.com CNAME .
 dfp.garmin.com CNAME .
+dfp.t-mobile.at CNAME .
 dfp.telering.at CNAME .
 did.fashionworld.co.uk CNAME .
 did.koempf24.de CNAME .
@@ -390,6 +400,7 @@ ifp.intuit.com CNAME .
 im2.prod.amount.com CNAME .
 image.online.adp.com CNAME .
 images.applyfleet.com CNAME .
+images.essofleetoffers.com CNAME .
 images.exxonmobilfleetoffers.com CNAME .
 images.wexinc.com CNAME .
 imagesmx.cdscdn.com CNAME .
@@ -399,6 +410,7 @@ img.fortunejack.com CNAME .
 img.getkansasbenefits.gov CNAME .
 img.lascana.nl CNAME .
 img.neora.com CNAME .
+img.oney.fr CNAME .
 img.remit.co.jp CNAME .
 img.zootweb.com CNAME .
 img02.pensionfund.org CNAME .
@@ -439,6 +451,7 @@ lnths.twc.texas.gov CNAME .
 lnthxsvc.tsp.gov CNAME .
 log.betdaq.com CNAME .
 log.checkmyfile.com CNAME .
+log.creditreport.co.uk CNAME .
 log.open.investorsbank.com CNAME .
 login.eki-net.com CNAME .
 loyaltyprogram.latam.com CNAME .
@@ -495,10 +508,12 @@ portal-fp-qa2.qa.threatmetrix.com CNAME .
 portal-fp-qaperf2.qa.threatmetrix.com CNAME .
 portal-fp.threatmetrix.com CNAME .
 pov.spectrum.net CNAME .
+prod-redwood.chaperone.lumindigitalhosting.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
 profiling.qacitizensbankonline.com CNAME .
 ptm.creditas.com CNAME .
 public-check3-at.test.tiaa.org CNAME .
+qa-check3.qa.everbank.com CNAME .
 qrimages.qatarairways.com CNAME .
 qtbm.fundourselves.com CNAME .
 qtbm.welendus.com CNAME .
@@ -531,6 +546,7 @@ rmscheck.sbifxt.co.jp CNAME .
 rsx.afterpay.com CNAME .
 rt.wisecartapp.com CNAME .
 rvw.connection.com CNAME .
+rvw.govconnection.com CNAME .
 s4.partner.yoomoney.ru CNAME .
 safe.joinmosaic.com CNAME .
 sc.liveme.com CNAME .
@@ -670,6 +686,9 @@ tags.ulsterbank.co.uk CNAME .
 tags.ulsterbankanytimebanking.co.uk CNAME .
 tags.ulsterbankanytimebanking.ie CNAME .
 tbp.tescobank.com CNAME .
+tcontent.auchantelecom.fr CNAME .
+tcontent.cdiscountmobile.cdiscount.com CNAME .
+tcontent.nrjmobile.fr CNAME .
 telem.highlow.com CNAME .
 telem.highlow.net CNAME .
 th.barclays.co.uk CNAME .

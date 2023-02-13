@@ -6,6 +6,7 @@
 fpa-api.arstechnica.com CNAME .
 fpa-cdn.adweek.com CNAME .
 fpa-cdn.arstechnica.com CNAME .
+fpa-cdn.blog.parse.ly CNAME .
 fpa-cdn.decrypt.co CNAME .
 fpa-cdn.parse.ly CNAME .
 fpa-cdn.slate.com CNAME .

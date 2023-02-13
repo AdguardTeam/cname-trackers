@@ -28,6 +28,7 @@ refer.basictalk.com
 refer.beautisol.com
 refer.bookbyte.com
 refer.calstate.aaa.com
+refer.carbonite.com
 refer.checkngo.com
 refer.clearme.com
 refer.compexusa.com
@@ -102,6 +103,7 @@ sharethelove.teacollection.com
 social.beautisol.com
 tellapal.register.com
 tellapal.web.com
+www.trevoce.com
 #
 # extole.io disguised trackers
 #
@@ -119,6 +121,8 @@ jessica-test-numero-dos.extoleu.com
 love.columbiacu.org
 love.suncoastcreditunion.com
 my.kotn.com
+pals.petco.com
+promos.zinli.com
 q.share.qvcemail.com
 refer-photo.cvs.com
 refer-staging.freshly.com
@@ -137,6 +141,7 @@ refer.ashleyfurniturehomestore.com
 refer.ataglance.com
 refer.athleta.com
 refer.athletawell.com
+refer.aveda.com
 refer.awscloud.com
 refer.ballarddesigns.com
 refer.bananarepublic.com
@@ -150,6 +155,7 @@ refer.bathandbodyworks.com
 refer.baxterofcalifornia.com
 refer.bfr.com
 refer.bioionic.com
+refer.bobstores.com
 refer.bose.co.uk
 refer.bose.com
 refer.bose.de
@@ -217,6 +223,8 @@ refer.hushpuppies.com
 refer.indeed.com
 refer.issaonline.com
 refer.itcosmetics.com
+refer.jewelersmutual.com
+refer.joann.com
 refer.join1440.com
 refer.juicepress.com
 refer.keds.com
@@ -249,8 +257,11 @@ refer.olehenriksen.com
 refer.orbitz.com
 refer.ouidad.com
 refer.pacsafe.com
+refer.panerabread.com
 refer.perriconemd.com
 refer.pimsleur.com
+refer.potterybarn.com
+refer.prettyballerinas.es
 refer.princess.com
 refer.prokeds.com
 refer.psecu.com
@@ -367,6 +378,7 @@ share.couponcabin.com
 share.credible.com
 share.creditninja.com
 share.cwbank.com
+share.dave.com
 share.delawareonline.com
 share.dermablend.com
 share.desertfinancial.com
@@ -423,6 +435,7 @@ share.obagi.com
 share.olivegarden.com
 share.ollocard.com
 share.openenglish.com
+share.openenglish.com.br
 share.opploans.com
 share.origins.com
 share.partsvu.com
@@ -445,6 +458,7 @@ share.refer-maccosmetics.com
 share.refer-maccosmetics.es
 share.refer-maccosmetics.fr
 share.refer-maccosmetics.it
+share.refer-smashbox.com
 share.riograndecu.org
 share.ross-simons.com
 share.rspure.com
@@ -485,6 +499,7 @@ share.wisdompanel.com
 share.wombatinvest.com
 share.zebit.com
 share.zenbusiness.com
+www.referquickbooks.com
 #
 # u82658.wl159.sendgrid.net disguised trackers
 #

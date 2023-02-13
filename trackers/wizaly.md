@@ -44,6 +44,7 @@
     * tk-ultrapremiumdirect-com.wizaly.com
     * tk-undiz-com.wizaly.com
     * tk-viapresse-com.wizaly.com
+    * tk-zenpark-com.wizaly.com
     * tk_prismashop_fr.wizaly.com
     * tk_transavia_com.wizaly.com
     * tkairfrance.wizaly.com
@@ -105,15 +106,18 @@
 | tk.ultrapremiumdirect.com | tk-ultrapremiumdirect-com.wizaly.com |
 | tk.undiz.com | tk-undiz-com.wizaly.com |
 | tk.viapresse.com | tk-viapresse-com.wizaly.com |
+| tk.zenpark.com | tk-zenpark-com.wizaly.com |
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |
 | tk.transavia.com | tk_transavia_com.wizaly.com |
 | tk.airfrance.ae | tkairfrance.wizaly.com |
+| tk.airfrance.am | tkairfrance.wizaly.com |
 | tk.airfrance.at | tkairfrance.wizaly.com |
 | tk.airfrance.be | tkairfrance.wizaly.com |
 | tk.airfrance.bg | tkairfrance.wizaly.com |
 | tk.airfrance.bj | tkairfrance.wizaly.com |
 | tk.airfrance.ca | tkairfrance.wizaly.com |
 | tk.airfrance.ch | tkairfrance.wizaly.com |
+| tk.airfrance.cm | tkairfrance.wizaly.com |
 | tk.airfrance.co.ao | tkairfrance.wizaly.com |
 | tk.airfrance.co.jp | tkairfrance.wizaly.com |
 | tk.airfrance.co.kr | tkairfrance.wizaly.com |

@@ -28,6 +28,7 @@ refer.basictalk.com CNAME .
 refer.beautisol.com CNAME .
 refer.bookbyte.com CNAME .
 refer.calstate.aaa.com CNAME .
+refer.carbonite.com CNAME .
 refer.checkngo.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
@@ -102,6 +103,7 @@ sharethelove.teacollection.com CNAME .
 social.beautisol.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
+www.trevoce.com CNAME .
 ;
 ; extole.io disguised trackers
 ;
@@ -119,6 +121,8 @@ jessica-test-numero-dos.extoleu.com CNAME .
 love.columbiacu.org CNAME .
 love.suncoastcreditunion.com CNAME .
 my.kotn.com CNAME .
+pals.petco.com CNAME .
+promos.zinli.com CNAME .
 q.share.qvcemail.com CNAME .
 refer-photo.cvs.com CNAME .
 refer-staging.freshly.com CNAME .
@@ -137,6 +141,7 @@ refer.ashleyfurniturehomestore.com CNAME .
 refer.ataglance.com CNAME .
 refer.athleta.com CNAME .
 refer.athletawell.com CNAME .
+refer.aveda.com CNAME .
 refer.awscloud.com CNAME .
 refer.ballarddesigns.com CNAME .
 refer.bananarepublic.com CNAME .
@@ -150,6 +155,7 @@ refer.bathandbodyworks.com CNAME .
 refer.baxterofcalifornia.com CNAME .
 refer.bfr.com CNAME .
 refer.bioionic.com CNAME .
+refer.bobstores.com CNAME .
 refer.bose.co.uk CNAME .
 refer.bose.com CNAME .
 refer.bose.de CNAME .
@@ -217,6 +223,8 @@ refer.hushpuppies.com CNAME .
 refer.indeed.com CNAME .
 refer.issaonline.com CNAME .
 refer.itcosmetics.com CNAME .
+refer.jewelersmutual.com CNAME .
+refer.joann.com CNAME .
 refer.join1440.com CNAME .
 refer.juicepress.com CNAME .
 refer.keds.com CNAME .
@@ -249,8 +257,11 @@ refer.olehenriksen.com CNAME .
 refer.orbitz.com CNAME .
 refer.ouidad.com CNAME .
 refer.pacsafe.com CNAME .
+refer.panerabread.com CNAME .
 refer.perriconemd.com CNAME .
 refer.pimsleur.com CNAME .
+refer.potterybarn.com CNAME .
+refer.prettyballerinas.es CNAME .
 refer.princess.com CNAME .
 refer.prokeds.com CNAME .
 refer.psecu.com CNAME .
@@ -367,6 +378,7 @@ share.couponcabin.com CNAME .
 share.credible.com CNAME .
 share.creditninja.com CNAME .
 share.cwbank.com CNAME .
+share.dave.com CNAME .
 share.delawareonline.com CNAME .
 share.dermablend.com CNAME .
 share.desertfinancial.com CNAME .
@@ -423,6 +435,7 @@ share.obagi.com CNAME .
 share.olivegarden.com CNAME .
 share.ollocard.com CNAME .
 share.openenglish.com CNAME .
+share.openenglish.com.br CNAME .
 share.opploans.com CNAME .
 share.origins.com CNAME .
 share.partsvu.com CNAME .
@@ -445,6 +458,7 @@ share.refer-maccosmetics.com CNAME .
 share.refer-maccosmetics.es CNAME .
 share.refer-maccosmetics.fr CNAME .
 share.refer-maccosmetics.it CNAME .
+share.refer-smashbox.com CNAME .
 share.riograndecu.org CNAME .
 share.ross-simons.com CNAME .
 share.rspure.com CNAME .
@@ -485,6 +499,7 @@ share.wisdompanel.com CNAME .
 share.wombatinvest.com CNAME .
 share.zebit.com CNAME .
 share.zenbusiness.com CNAME .
+www.referquickbooks.com CNAME .
 ;
 ; u82658.wl159.sendgrid.net disguised trackers
 ;

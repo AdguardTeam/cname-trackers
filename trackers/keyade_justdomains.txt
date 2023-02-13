@@ -6,6 +6,7 @@
 clk.ubi.com
 k.brandalley.be
 k.brandalley.co.nl
+k.brandalley.es
 k.cocooncenter.be
 k.cocooncenter.co.uk
 k.cocooncenter.com
@@ -31,3 +32,7 @@ tck.wonderbox.fr
 # k.madmetrics.com disguised trackers
 #
 k.truffaut.com
+#
+# www.keyade.com disguised trackers
+#
+www.keyad.fr

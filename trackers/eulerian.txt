@@ -19,12 +19,15 @@
 ||8ezc.sfr.fr^
 ||a.audi.fr^
 ||a.oney.es^
+||a.perfumesclub.co.uk^
 ||a.perfumesclub.com^
 ||a.perfumesclub.fr^
 ||a.perfumesclub.it^
 ||a.perfumesclub.nl^
 ||a.perfumesclub.pl^
+||a.perfumesclub.pt^
 ||a.weareknitters.co.uk^
+||a.weareknitters.com^
 ||a.weareknitters.dk^
 ||a.weareknitters.nl^
 ||a.weareknitters.se^
@@ -38,7 +41,6 @@
 ||aod4.societegenerale.fr^
 ||ar.i-run.fr^
 ||azg1.emalu-store.com^
-||b1n.carabins.umontreal.ca^
 ||bch8.destinia.co^
 ||bdj5.terrassesmontecarlosbm.com^
 ||bft5.destinia.fr^
@@ -81,6 +83,7 @@
 ||ea.assuronline.com^
 ||ea.auchantelecom.fr^
 ||ea.audika.com^
+||ea.auvergne-direct.fr^
 ||ea.bcassurance.fr^
 ||ea.bongo.nl^
 ||ea.camping-and-co.com^
@@ -99,6 +102,7 @@
 ||ea.evaway.com^
 ||ea.fleurancenature.com^
 ||ea.fleurancenature.fr^
+||ea.francoisesaget.com^
 ||ea.franziskasager.de^
 ||ea.greenweez.com^
 ||ea.greenweez.de^
@@ -123,8 +127,10 @@
 ||ea.millet-mountain.de^
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
+||ea.mnt.fr^
 ||ea.moncornerdeco.com^
 ||ea.mondial-assistance.fr^
+||ea.mydailyhotel.com^
 ||ea.natiloo.com^
 ||ea.netvox-assurances.com^
 ||ea.nextseguros.es^
@@ -157,6 +163,7 @@
 ||ea.voyage-prive.es^
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
+||ea.zgeneration.com^
 ||eat9.thebeat925.ca^
 ||ebc1.capifrance.fr^
 ||ef.futuroscope.com^
@@ -166,6 +173,7 @@
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
 ||ert5.rmcsport.tv^
+||et.sncf.com^
 ||et.swatch.com^
 ||eule1.pmu.fr^
 ||eule3.pmu.fr^
@@ -207,6 +215,7 @@
 ||fbu8.montecarloseasonalsale.com^
 ||fbu8.ticket-online.montecarlolive.com^
 ||fec1.optimhome.com^
+||fek1.fnactickets.com^
 ||fkwc.sfr.fr^
 ||fl5dpe.oui.sncf^
 ||fpb8.esce.fr^
@@ -230,9 +239,11 @@
 ||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
+||igc0.destinia.at^
 ||inv3te.oui.sncf^
 ||iro.iperceptions.com^
 ||irs.iperceptions.com^
+||iu6t.consobaby.it^
 ||j2i0.mathon.fr^
 ||jcr3.onlyyouhotels.com^
 ||jelr1.dili.fr^
@@ -256,6 +267,7 @@
 ||ltm6.destinia.se^
 ||ly8c.caci-online.fr^
 ||lzuc.sfr.fr^
+||m10.m1029.com^
 ||m3ds.subarumetropolitain.com^
 ||mfd.myfirstdressing.com^
 ||mgt7.madeindesign.it^
@@ -359,6 +371,7 @@
 ||sfp7.eco-conscient.com^
 ||sis8.premieremoisson.com^
 ||six9e.canal.fr^
+||sk0.monnierfreres.eu^
 ||ski1.skiset.com^
 ||sls2.loisirsencheres.com^
 ||sno1.snowrental.com^
@@ -423,6 +436,7 @@
 ||why3.inseec.education^
 ||wlp3.aegon.es^
 ||wph2.destinia.us^
+||www.fasttrack.fr^
 ||xay5o.toscane-boutique.fr^
 ||xjq5.belambra.be^
 ||xuc.monteleone.fr^
@@ -433,6 +447,7 @@
 ||yoc.younited-credit.com^
 ||yst4.torviajes.com^
 ||zcih.clotureantifugue.com^
+||zdx5.destinia.pe^
 ||zkc5.fleurancenature.fr^
 ||znq9.destinia.mx^
 ||zrw1.destinia.jp^

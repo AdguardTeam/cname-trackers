@@ -22,6 +22,7 @@
 ||te.limango.de^
 ||te.mirapodo.de^
 ||te.mytoys.de^
+||te.nitro-test-extern.otto.boreus.de^
 ||te.otto.de^
 ||te.ottoversand.at^
 ||te.quelle.at^

@@ -11,6 +11,7 @@ ac-ebis-uhome.usen.com CNAME .
 ac-ebis.usen-service.com CNAME .
 ac-ebis.usen-store.com CNAME .
 ac-ebis.usen.biz CNAME .
+ac.geechs-job.com CNAME .
 ad-ebis.bookpass.auone.jp CNAME .
 ad-ebis.mynavi-job20s.jp CNAME .
 ad-track.paravi.jp CNAME .
@@ -66,6 +67,7 @@ adebis.koutsujiko.jp CNAME .
 adebis.leben-establish.jp CNAME .
 adebis.leben-style.jp CNAME .
 adebis.lifestylemag.jp CNAME .
+adebis.litalico.co.jp CNAME .
 adebis.livable.co.jp CNAME .
 adebis.logoshome.jp CNAME .
 adebis.no.01.alo-organic.com CNAME .
@@ -95,6 +97,7 @@ adebiscname.au-sonpo.co.jp CNAME .
 adebiscname.auone.jp CNAME .
 adebiscname.sumirin-ht.co.jp CNAME .
 adebisu.wowow.co.jp CNAME .
+adex.jrwp-arimatsu34.com CNAME .
 adex.kintetsu-re.co.jp CNAME .
 adex.naruko333.jp CNAME .
 admeasure.hh-online.jp CNAME .
@@ -117,6 +120,7 @@ cname-adebis.vcube.com CNAME .
 cname.crank-in.net CNAME .
 cname.ebis.folio-sec.com CNAME .
 cname.finess.jp CNAME .
+cname.gladis.jp CNAME .
 cname.jaic-college.jp CNAME .
 cname.jf-d.jp CNAME .
 cname.kyusai.co.jp CNAME .
@@ -148,6 +152,7 @@ ebis-tracking.okinawa-keisei.com CNAME .
 ebis-tracking.shinyokohama-beauty.com CNAME .
 ebis-tracking.tcb-beauty.net CNAME .
 ebis-tracking.tcb-recruit.com CNAME .
+ebis-tracking.tcb-setagaya.com CNAME .
 ebis.15jikai.com CNAME .
 ebis.2jikaikun.com CNAME .
 ebis.aibashiro.jp CNAME .
@@ -240,8 +245,10 @@ itpebis03.recella3d.com CNAME .
 kyoufukudoucname.worldsmile.net CNAME .
 marketing.biz.mynavi.jp CNAME .
 marketing.zwei.com CNAME .
+matsubun.matsubun.com CNAME .
 maz.zba.jp CNAME .
 mcad.mods-clinic.com CNAME .
+mdm.hibinobi-mandom.jp CNAME .
 msr.p-antiaging.com CNAME .
 ncc.nip-col.jp CNAME .
 nlp-japan.life-and-mind.com CNAME .

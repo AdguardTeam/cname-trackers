@@ -6,6 +6,7 @@
 clk.ubi.com CNAME .
 k.brandalley.be CNAME .
 k.brandalley.co.nl CNAME .
+k.brandalley.es CNAME .
 k.cocooncenter.be CNAME .
 k.cocooncenter.co.uk CNAME .
 k.cocooncenter.com CNAME .
@@ -31,3 +32,7 @@ tck.wonderbox.fr CNAME .
 ; k.madmetrics.com disguised trackers
 ;
 k.truffaut.com CNAME .
+;
+; www.keyade.com disguised trackers
+;
+www.keyad.fr CNAME .

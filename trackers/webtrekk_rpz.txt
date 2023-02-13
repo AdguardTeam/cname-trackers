@@ -94,10 +94,12 @@ data.vdi-wissensforum.de CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
+di.ifolor.at CNAME .
 di.ifolor.ch CNAME .
 di.ifolor.de CNAME .
 di.ifolor.dk CNAME .
 di.ifolor.fi CNAME .
+di.ifolor.fr CNAME .
 di.ifolor.ie CNAME .
 di.ifolor.it CNAME .
 di.ifolor.net CNAME .
@@ -128,6 +130,7 @@ foro.data.srf.ch CNAME .
 hbbtv-track.prosieben.de CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
 img.foodspring.at CNAME .
+img.foodspring.cz CNAME .
 img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
 img.foodspring.fr CNAME .
@@ -152,6 +155,7 @@ mit.researchlog.db.com CNAME .
 mit.researchlog.dbresearch.com CNAME .
 mit.researchlog.dbresearch.de CNAME .
 nov.data.srf.ch CNAME .
+ot.obi-brico.ch CNAME .
 ot.obi-italia.it CNAME .
 ot.obi.at CNAME .
 ot.obi.ba CNAME .
@@ -237,6 +241,7 @@ web.e.aldermore.co.uk CNAME .
 web.e.panmacmillan.com CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.pmtonline.co.uk CNAME .
+web.email.principality.co.uk CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .

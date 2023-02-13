@@ -17,6 +17,7 @@
     * beautisol.extole.com
     * bookbyte.extole.com
     * calstate-aaa.extole.com
+    * carbonite-ssl.extole.com
     * catalogspree-ssl.extole.com
     * checkngo.extole.com
     * chubbies.extole.com
@@ -93,6 +94,7 @@
     * volcom.extole.com
     * vonage.extole.com
     * vonagefr-ssl.extole.com
+    * web-tool-qa.lb.extole.com
     * wgu.extole.com
     * wimp.extole.com
     * worldmarket.extole.com
@@ -193,6 +195,7 @@
     * cwbank.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
+    * dave.extole.io
     * davines.extole.io
     * dermablend.extole.io
     * desert-financial.extole.io
@@ -264,6 +267,8 @@
     * issaonline.extole.io
     * it-cosmetics.extole.io
     * iteach.extole.io
+    * jewelersmutual.extole.io
+    * joann.extole.io
     * join1440.extole.io
     * juicepress.extole.io
     * juvlabs.extole.io
@@ -294,6 +299,7 @@
     * mama-bear-legal-forms.extole.io
     * manscaped.extole.io
     * marinerfinance.extole.io
+    * mascaro.extole.io
     * medely.extole.io
     * meettally.extole.io
     * merrell.extole.io
@@ -315,6 +321,7 @@
     * origins.extole.io
     * ouidad.extole.io
     * pacsafe.extole.io
+    * panerabread.extole.io
     * partsvu.extole.io
     * paulmitchell.extole.io
     * perriconemd.extole.io
@@ -326,6 +333,7 @@
     * plush-beds.extole.io
     * policygenius.extole.io
     * popcorn-factory.extole.io
+    * pottery-barn.extole.io
     * princess.extole.io
     * princessuk.extole.io
     * prokeds.extole.io
@@ -335,6 +343,7 @@
     * pureology.extole.io
     * qboca.extole.io
     * qbouk.extole.io
+    * quickbooks.extole.io
     * quickstart.extole.io
     * qvc.extole.io
     * reebok-raf.extole.io
@@ -365,6 +374,7 @@
     * skinceuticals.extole.io
     * skyone-federal-credit-union.extole.io
     * sleepnumber.extole.io
+    * smashbox.extole.io
     * snap-finance.extole.io
     * soma.extole.io
     * spothero.extole.io
@@ -427,6 +437,7 @@
     * zazzle.extole.io
     * zebit.extole.io
     * zenbusiness.extole.io
+    * zinli.extole.io
     * zipcar-ca.extole.io
     * zipcar.extole.io
     * zomasleep.extole.io
@@ -483,6 +494,7 @@
 | share.atlasbars.com | atlasbars.extole.io |
 | share.aveda.com.au | aveda-au.extole.io |
 | share.refer-aveda.ca | aveda-ca.extole.io |
+| refer.aveda.com | aveda.extole.io |
 | share.refer-aveda.com | aveda.extole.io |
 | refer.backcountry.com | backcountry.extole.com |
 | refer.ballarddesigns.com | ballarddesigns.extole.io |
@@ -502,6 +514,7 @@
 | share.beaspermdonor.com | beaspermdonor.extole.io |
 | refer.beautisol.com | beautisol.extole.com |
 | refer.bioionic.com | bioionic.extole.io |
+| refer.bobstores.com | bobstores.extole.io |
 | refer.ems.com | bobstores.extole.io |
 | share.bodenclothing.com.au | boden-au.extole.io |
 | share.bodendirect.de | boden-de.extole.io |
@@ -531,6 +544,7 @@
 | refer.calstate.aaa.com | calstate-aaa.extole.com |
 | share.calvinklein.us | calvinklein.extole.io |
 | refer.canoos.com | canoos.extole.io |
+| refer.carbonite.com | carbonite-ssl.extole.com |
 | share.carparts.com | carpartscom.extole.io |
 | share.catalogspree.com | catalogspree-ssl.extole.com |
 | refer.catfootwear.com | catfootwear.extole.io |
@@ -573,6 +587,7 @@
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
 | share.refer-darphin.com | darphin.extole.io |
+| share.dave.com | dave.extole.io |
 | refer.us.davines.com | davines.extole.io |
 | share.dermablend.com | dermablend.extole.io |
 | share.desertfinancial.com | desert-financial.extole.io |
@@ -680,6 +695,8 @@
 | refer.itcosmetics.com | it-cosmetics.extole.io |
 | share.iteach.net | iteach.extole.io |
 | refer.jacksonsun.com | jacksonsun.extole.com |
+| refer.jewelersmutual.com | jewelersmutual.extole.io |
+| refer.joann.com | joann.extole.io |
 | refer.johnson.ca | johnson.extole.com |
 | refer.join1440.com | join1440.extole.io |
 | refer.juicepress.com | juicepress.extole.io |
@@ -721,6 +738,7 @@
 | share.mamabearlegalforms.com | mama-bear-legal-forms.extole.io |
 | share.manscaped.com | manscaped.extole.io |
 | refer.marinerfinance.com | marinerfinance.extole.io |
+| refer.prettyballerinas.es | mascaro.extole.io |
 | share.medely.com | medely.extole.io |
 | refer.aol.com | media-router-aol1.prod.g03.yahoodns.net |
 | share.meettally.com | meettally.extole.io |
@@ -748,6 +766,7 @@
 | share.ollocard.com | ollocard.extole.io |
 | refer.ooma.com | ooma-ssl.extole.com |
 | share.openenglish.com | openenglish.extole.io |
+| share.openenglish.com.br | openenglish.extole.io |
 | refer.opensky.com | opensky.extole.com |
 | share.opploans.com | opploans.extole.io |
 | refer.orbitz.com | orbitz.extole.io |
@@ -758,11 +777,13 @@
 | refer.usforex.com | ozforex-us.extole.com |
 | refer.pacsafe.com | pacsafe.extole.io |
 | refer.pageonce.com | pageonce.extole.com |
+| refer.panerabread.com | panerabread.extole.io |
 | share.partsvu.com | partsvu.extole.io |
 | share.paulmitchell.com | paulmitchell.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
 | groomrefer.petco.com | petco-grooming.extole.io |
+| pals.petco.com | petco-grooming.extole.io |
 | refer.petco.com | petco.extole.com |
 | refer.akcpetinsurance.com | petpartners.extole.io |
 | refer.gopetplan.ca | petplan.extole.io |
@@ -771,6 +792,7 @@
 | refer.ecoterrabeds.com | plush-beds.extole.io |
 | share.policygenius.com | policygenius.extole.io |
 | refer.thepopcornfactory.com | popcorn-factory.extole.io |
+| refer.potterybarn.com | pottery-barn.extole.io |
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
@@ -784,6 +806,7 @@
 | share.qalo.com | qalo.extole.com |
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
+| www.referquickbooks.com | quickbooks.extole.io |
 | refer.quickstart.com | quickstart.extole.io |
 | q.share.qvcemail.com | qvc.extole.io |
 | refer.reebok.com | reebok-raf.extole.io |
@@ -828,6 +851,7 @@
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | refer.skyone.org | skyone-federal-credit-union.extole.io |
 | refer.sleepnumber.com | sleepnumber.extole.io |
+| share.refer-smashbox.com | smashbox.extole.io |
 | refer.snapfinance.com | snap-finance.extole.io |
 | social.beautisol.com | social.extole.com |
 | refer.soma.com | soma.extole.io |
@@ -906,6 +930,7 @@
 | share.vonage.com | vonagebusiness.extole.io |
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
+| www.trevoce.com | web-tool-qa.lb.extole.com |
 | share.wecohospitality.com | wecohospitality.extole.io |
 | refer.wgu.edu | wgu.extole.com |
 | share.whistle.com | whistle.extole.io |
@@ -920,6 +945,7 @@
 | refer.zazzlereferral.com | zazzle.extole.io |
 | share.zebit.com | zebit.extole.io |
 | share.zenbusiness.com | zenbusiness.extole.io |
+| promos.zinli.com | zinli.extole.io |
 | refer.zipcar.ca | zipcar-ca.extole.io |
 | refer.zipcar.com | zipcar.extole.io |
 | refer.zomasleep.com | zomasleep.extole.io |

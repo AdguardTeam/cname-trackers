@@ -52,13 +52,16 @@ jo.tictocswended.com CNAME .
 jv.curiousuraemia.com CNAME .
 kl.osmoticchalah.com CNAME .
 ku.eftesthalms.com CNAME .
+kv.patenssabzi.com CNAME .
 ld.stengskelped.com CNAME .
 lf.unvenomangst.com CNAME .
 lg.feoffortapetis.com CNAME .
 lq.kuliposits.com CNAME .
 lq.nullusposolo.com CNAME .
 ly.koitapuanteing.com CNAME .
+mc.brewseryngo.com CNAME .
 mf.collopantony.com CNAME .
+mi.bettingbulbous.com CNAME .
 mp.ualisbaubles.com CNAME .
 nc.nominaturfy.com CNAME .
 np.incrustkantela.com CNAME .
@@ -66,6 +69,7 @@ oj.daunnotes.com CNAME .
 ok.ribworkstylus.com CNAME .
 oz.lokaforky.com CNAME .
 pk.axitessubclei.com CNAME .
+pq.carlingquerent.com CNAME .
 pr.hefterunmete.com CNAME .
 qb.falsenalice.com CNAME .
 qd.loathesentour.com CNAME .
@@ -94,6 +98,7 @@ um.sullageprancy.com CNAME .
 un.clobberkiliare.com CNAME .
 uo.tubaronunheler.com CNAME .
 ur.meteredrato.com CNAME .
+uv.elymimontauk.com CNAME .
 ux.sapoaix.com CNAME .
 vd.scapemambu.com CNAME .
 vn.finisbur.com CNAME .
@@ -101,6 +106,7 @@ vp.upswingmethyl.com CNAME .
 vt.alieneepunta.com CNAME .
 vv.habaerashiksas.com CNAME .
 vx.azuresjukes.com CNAME .
+wj.acrevenene.com CNAME .
 wl.herbarspece.com CNAME .
 wq.stewyruttish.com CNAME .
 ws.blondsdixie.com CNAME .

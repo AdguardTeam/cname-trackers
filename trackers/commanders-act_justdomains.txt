@@ -8,7 +8,6 @@ data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
 data.decathlon.pl
-data.ricaud.com
 data.ubi.com
 data.wptag.net
 logger.yp.ca
@@ -24,6 +23,7 @@ acquisition.klm.com
 data.cofinoga.fr
 data.decathlon.it
 data.ouigo.com
+data.ricaud.com
 data.ubi.com
 logger.yp.ca
 sales.disneylandparis.com

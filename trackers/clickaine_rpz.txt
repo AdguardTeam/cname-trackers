@@ -27,6 +27,7 @@ c4n.hotjavmovies.com CNAME .
 c4n.ijerk.club CNAME .
 c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
+c4n.perverzija.com CNAME .
 c4n.swift4claim.com CNAME .
 c4n.thefreejapaneseporn.com CNAME .
 c4n.watchpornonline.xyz CNAME .
@@ -85,6 +86,7 @@ snow.snowdayonline.xyz CNAME .
 sticky.vtube.to CNAME .
 thunder.vtube.to CNAME .
 uy.arabsex1.com CNAME .
+v040419.badjojo.com CNAME .
 wp.brandnewapp.pro CNAME .
 ww1.willalland.info CNAME .
 www.bokep.su CNAME .

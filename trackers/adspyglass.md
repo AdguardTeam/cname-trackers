@@ -25,6 +25,7 @@
 | 3weg314.2conv.com | 0i0i0i0.com |
 | 5475feaab.clicknplay.to | 0i0i0i0.com |
 | 58745.clicknplay.to | 0i0i0i0.com |
+| 6969.javher.com | 0i0i0i0.com |
 | 69741211.clicknplay.to | 0i0i0i0.com |
 | 6cf0e7801e8cd.clicknplay.to | 0i0i0i0.com |
 | 71213zhazha.com | 0i0i0i0.com |
@@ -47,7 +48,7 @@
 | a.bitporno.to | 0i0i0i0.com |
 | a.bloblohub.com | 0i0i0i0.com |
 | a.boyjackpot.com | 0i0i0i0.com |
-| a.cashjma.com | 0i0i0i0.com |
+| a.coinhub.wiki | 0i0i0i0.com |
 | a.descsau.ml | 0i0i0i0.com |
 | a.digitalgiftshopping.com | 0i0i0i0.com |
 | a.dorkim.club | 0i0i0i0.com |
@@ -78,7 +79,6 @@
 | a.streamoupload.xyz | 0i0i0i0.com |
 | a.suptube.com | 0i0i0i0.com |
 | a.teencfnm.com | 0i0i0i0.com |
-| a.toongod.com | 0i0i0i0.com |
 | a.tortuko.club | 0i0i0i0.com |
 | a.travelbdnews.xyz | 0i0i0i0.com |
 | a.viralnewsbd.xyz | 0i0i0i0.com |
@@ -110,12 +110,11 @@
 | ads.onlyfanspornvideo.com | 0i0i0i0.com |
 | ads.pornharlot.com | 0i0i0i0.com |
 | ads.pornharlot.net | 0i0i0i0.com |
+| ads.pornutopia.org | 0i0i0i0.com |
 | ads.saplacikardepo.xyz | 0i0i0i0.com |
 | ads.sturls.com | 0i0i0i0.com |
 | ads.tabuflix.com | 0i0i0i0.com |
 | ads.xmov.net | 0i0i0i0.com |
-| adsnot.1javguru.xyz | 0i0i0i0.com |
-| adsnot.1supjav.xyz | 0i0i0i0.com |
 | adspy.javrank.com | 0i0i0i0.com |
 | adsrv.kamehameha.click | 0i0i0i0.com |
 | advpro.pro | 0i0i0i0.com |
@@ -150,11 +149,11 @@
 | asg.allweb.click | 0i0i0i0.com |
 | asg.animehdl.net | 0i0i0i0.com |
 | asg.aphex.me | 0i0i0i0.com |
+| asg.asian-av.com | 0i0i0i0.com |
 | asg.catraff.com | 0i0i0i0.com |
 | asg.dormtapes.com | 0i0i0i0.com |
 | asg.faperoni.com | 0i0i0i0.com |
 | asg.i884.info | 0i0i0i0.com |
-| asg.japanxxxvideo.net | 0i0i0i0.com |
 | asg.justthegays.com | 0i0i0i0.com |
 | asg.laivue.com | 0i0i0i0.com |
 | asg.page-x.com | 0i0i0i0.com |
@@ -172,6 +171,7 @@
 | asg2.xueserverhost.com | 0i0i0i0.com |
 | asianporn.xyz.7mmtv.top | 0i0i0i0.com |
 | asianporn.xyz.jav-7mmtv.top | 0i0i0i0.com |
+| asn.banginterracial.com | 0i0i0i0.com |
 | asp.hotfullvideos.com | 0i0i0i0.com |
 | atom.seotul.pics | 0i0i0i0.com |
 | audi.lol | 0i0i0i0.com |
@@ -188,6 +188,7 @@
 | b.sexvids.cc | 0i0i0i0.com |
 | b.sonorousporn.com | 0i0i0i0.com |
 | b1.hentaibaka.one | 0i0i0i0.com |
+| b1.maturesexvideos.pro | 0i0i0i0.com |
 | bac221.skin | 0i0i0i0.com |
 | backpub.mom | 0i0i0i0.com |
 | bambao.lol | 0i0i0i0.com |
@@ -204,6 +205,7 @@
 | bob.bezucai.com | 0i0i0i0.com |
 | btaoc.lol | 0i0i0i0.com |
 | btaoc.xyz | 0i0i0i0.com |
+| btctrade.lol | 0i0i0i0.com |
 | bupupua4.xsuffer.com | 0i0i0i0.com |
 | buzzset.pics | 0i0i0i0.com |
 | bx5.tubemaximum.com | 0i0i0i0.com |
@@ -242,6 +244,7 @@
 | coinzba.mom | 0i0i0i0.com |
 | comp.aniplay.it | 0i0i0i0.com |
 | cool.ah-me.com | 0i0i0i0.com |
+| cool.gaygo.tv | 0i0i0i0.com |
 | cool.sunporno.com | 0i0i0i0.com |
 | costa.xsuffer.com | 0i0i0i0.com |
 | cowpaz.pics | 0i0i0i0.com |
@@ -376,6 +379,7 @@
 | lx5.homeporntuber.com | 0i0i0i0.com |
 | m.x-power.info | 0i0i0i0.com |
 | m.xrum.info | 0i0i0i0.com |
+| m9xp1.hentaigold.net | 0i0i0i0.com |
 | maizour.mom | 0i0i0i0.com |
 | mangaad.xyz | 0i0i0i0.com |
 | marcusdevs.ru | 0i0i0i0.com |
@@ -408,8 +412,6 @@
 | nope.xn--mgbkt9eckr.net | 0i0i0i0.com |
 | nope.xn--ngbcrg3b.com | 0i0i0i0.com |
 | nope.xn--ygba1c.wtf | 0i0i0i0.com |
-| notads.11supjav.xyz | 0i0i0i0.com |
-| notads.1gi3rir.xyz | 0i0i0i0.com |
 | nx7.hdxxxclips.com | 0i0i0i0.com |
 | o313o.com | 0i0i0i0.com |
 | obyeok.hair | 0i0i0i0.com |
@@ -549,8 +551,6 @@
 | tt.wl-cornholio.com | 0i0i0i0.com |
 | tuckbos.lol | 0i0i0i0.com |
 | turbo.binande.xyz | 0i0i0i0.com |
-| tx01.socialchicks.net | 0i0i0i0.com |
-| tx02.socialchicks.net | 0i0i0i0.com |
 | ui.videojav.com | 0i0i0i0.com |
 | uk.boffinsoft.com | 0i0i0i0.com |
 | ulezarern.xsuffer.com | 0i0i0i0.com |
@@ -582,7 +582,6 @@
 | www.letstry69.xyz | 0i0i0i0.com |
 | www.myxozilla.icu | 0i0i0i0.com |
 | www.p123p.com | 0i0i0i0.com |
-| www.sex1.party | 0i0i0i0.com |
 | www.u808i.com | 0i0i0i0.com |
 | www.upcdn.site | 0i0i0i0.com |
 | www.vkcdnservice.com | 0i0i0i0.com |
@@ -613,4 +612,6 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| h-ay.com | u53.hypnorat.com |
+| ontj.com | u53.hypnorat.com |
+| qhip.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |

@@ -111,6 +111,7 @@
 ||attribution.tescomobile.com^
 ||attribution.theworks.co.uk^
 ||attribution.tmlewin.com^
+||attribution.tmlewinshirts.eu^
 ||attribution.wolverine.com^
 ||businessmetrics.syf.com^
 ||cm.quest.com^

@@ -16,10 +16,13 @@
 1iy4gu0lpkp.my.gloryleague.basketball CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
 1op1je6zs97.www.emanualonline.com CNAME .
+1tb41yjaqmt.panpots.com CNAME .
 1uwcex4qf9z.test-115.dapp.ml CNAME .
 1xejnhs1zd1.staging.aporia.com CNAME .
 1y10lvb64mr.www.freecodecamp.dev CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
+2107wrlgff5.development.taxmachine.be CNAME .
+25ix8gm8ien.sandbox.panprices.com CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .
 2e718yf5jypb.test.digitalsurge.io CNAME .
@@ -34,6 +37,7 @@
 78rkcgj4i8c6.www.cefirates.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
+9nvbnjpr03jt.kvest.ee CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 ac9kpxbans1l.staging.unstoppabledomains.com CNAME .
 am3s622gcd6m.tt.live CNAME .

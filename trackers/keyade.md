@@ -8,6 +8,7 @@
 ### Rarely active trackers
 
 * k.madmetrics.com
+* www.keyade.com
 
 ## Cloaking domains
 
@@ -16,6 +17,7 @@
 | clk.ubi.com | k.keyade.com |
 | k.brandalley.be | k.keyade.com |
 | k.brandalley.co.nl | k.keyade.com |
+| k.brandalley.es | k.keyade.com |
 | k.cocooncenter.be | k.keyade.com |
 | k.cocooncenter.co.uk | k.keyade.com |
 | k.cocooncenter.com | k.keyade.com |
@@ -38,3 +40,4 @@
 | tck.wonderbox.fr | k.keyade.com |
 | k.truffaut.com | k.madmetrics.com |
 | ka.ilius.net | mt.k.keyade.com |
+| www.keyad.fr | www.keyade.com |

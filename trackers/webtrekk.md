@@ -108,6 +108,7 @@
     * 639871942536313.wt-eu02.net
     * 641523609775483.wt-eu02.net
     * 657801072187647.wt-eu02.net
+    * 658764551928548.wt-eu02.net
     * 666882163750646.wt-eu02.net
     * 667035493029158.wt-eu02.net
     * 669154114435717.wt-eu02.net
@@ -306,6 +307,7 @@
 | web.slimjoy.ro | 657801072187647.wt-eu02.net |
 | web.slimjoy.se | 657801072187647.wt-eu02.net |
 | web.slimjoy.sk | 657801072187647.wt-eu02.net |
+| web.email.principality.co.uk | 658764551928548.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
 | web.mapp.edenred.it | 667035493029158.wt-eu02.net |
 | data.adlermode.com | 669154114435717.wt-eu02.net |
@@ -380,10 +382,12 @@
 | data.leipzig.de | data-leipzig.wt-eu02.net |
 | data.vdi-wissensforum.de | data-vdi-wissen01.wt-eu02.net |
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
+| di.ifolor.at | di.ifolor.wt-eu02.net |
 | di.ifolor.ch | di.ifolor.wt-eu02.net |
 | di.ifolor.de | di.ifolor.wt-eu02.net |
 | di.ifolor.dk | di.ifolor.wt-eu02.net |
 | di.ifolor.fi | di.ifolor.wt-eu02.net |
+| di.ifolor.fr | di.ifolor.wt-eu02.net |
 | di.ifolor.ie | di.ifolor.wt-eu02.net |
 | di.ifolor.it | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
@@ -433,6 +437,7 @@
 | da.hornbach.sk | hornbach-02.wt-eu02.net |
 | app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
 | img.foodspring.at | img-foodspring01.wt-eu02.net |
+| img.foodspring.cz | img-foodspring01.wt-eu02.net |
 | img.foodspring.de | img-foodspring01.wt-eu02.net |
 | img.foodspring.dk | img-foodspring01.wt-eu02.net |
 | img.foodspring.fr | img-foodspring01.wt-eu02.net |
@@ -477,6 +482,7 @@
 | tracking.netcologne.de | netcologne-01.webtrekk.net |
 | wt.netze-bw.de | netze-bw01.wt-eu02.net |
 | trk.nuernberger.de | nuernberger02.webtrekk.net |
+| ot.obi-brico.ch | obi-all.wt-eu02.net |
 | ot.obi-italia.it | obi-all.wt-eu02.net |
 | ot.obi.at | obi-all.wt-eu02.net |
 | ot.obi.ba | obi-all.wt-eu02.net |
