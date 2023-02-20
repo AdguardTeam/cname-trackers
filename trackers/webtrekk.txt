@@ -95,6 +95,7 @@
 ||data.westlotto.de^
 ||daten.union-investment.de^
 ||di.ifolor.at^
+||di.ifolor.be^
 ||di.ifolor.ch^
 ||di.ifolor.de^
 ||di.ifolor.dk^
@@ -148,6 +149,7 @@
 ||mit.deutsche-bank.de^
 ||mit.deutschebank.be^
 ||mit.deutschewealth.com^
+||mit.dslbank.de^
 ||mit.dws.com^
 ||mit.dws.de^
 ||mit.postbank.de^

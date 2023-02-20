@@ -21,8 +21,8 @@
 1xejnhs1zd1.staging.aporia.com CNAME .
 1y10lvb64mr.www.freecodecamp.dev CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
-2107wrlgff5.development.taxmachine.be CNAME .
 25ix8gm8ien.sandbox.panprices.com CNAME .
+25wyma1mavl.my.staging.gloryleague.basketball CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .
 2e718yf5jypb.test.digitalsurge.io CNAME .
@@ -37,7 +37,6 @@
 78rkcgj4i8c6.www.cefirates.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
-9nvbnjpr03jt.kvest.ee CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 ac9kpxbans1l.staging.unstoppabledomains.com CNAME .
 am3s622gcd6m.tt.live CNAME .
@@ -48,6 +47,7 @@ b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
 bygr2ri20e4y.li.finance CNAME .
 cihnqp6p65.koinly.io CNAME .
+cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
 din1j0su0u99.artwallstreet.io CNAME .
 dlziqh9bo7.boring.fm CNAME .
@@ -97,6 +97,7 @@ twn36gx4109r.loveisblank.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
+vb9tl00evxca.www.academy.gen.tech CNAME .
 vzal21mooz.hyperwrite.ai CNAME .
 w38ju82bano4.cv.gerardbosch.xyz CNAME .
 wayyaj8t094u.www.kodalia.com CNAME .

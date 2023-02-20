@@ -75,6 +75,7 @@ adebis.nursery.co.jp
 adebis.qeee.jp
 adebis.real-style.co.jp
 adebis.report.clinic
+adebis.reruju.com
 adebis.satori.marketing
 adebis.sbishinseibank.co.jp
 adebis.sbpayment.jp
@@ -89,6 +90,7 @@ adebis.toitoitoi.clinic
 adebis.tokyuhotels.co.jp
 adebis.toushi-up.com
 adebis.urban-research.jp
+adebis.wii-clinic.jp
 adebis.zenyaku-hbshop.com
 adebis01.job-con.jp
 adebis02.juku.st
@@ -141,6 +143,7 @@ cs0010sbeda.theory-clinic.com
 cs0010sbeda.theory-diet.com
 cs0010sbeda.theory-kumatarumi.com
 cs1863sbeda.glaucoma-arrest.net
+cs2113sbeda.hokto-onlineshop.jp
 cvs.kireimo.jp
 d-kint.d-kintetsu.co.jp
 digital.anicom-sompo.co.jp

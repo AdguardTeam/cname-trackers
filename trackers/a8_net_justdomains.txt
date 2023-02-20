@@ -28,6 +28,7 @@ a8.bridal-hills.com
 a8.casie.jp
 a8.cbd-oil.jp
 a8.centarc.com
+a8.chiyo-moni.com
 a8.choomia.com
 a8.clubgets.com
 a8.cocomeister.jp
@@ -166,6 +167,7 @@ a8.starseries.biz
 a8.store.goo.ne.jp
 a8.strapya.com
 a8.suma-sapo.net
+a8.tapp-co.jp
 a8.the-session.jp
 a8.tokyo-hills-clinic.com
 a8.tone.ne.jp
@@ -270,6 +272,7 @@ a8clk.guruyaku.jp
 a8clk.hags-ec.com
 a8clk.hikakaku.com
 a8clk.hoken-minaoshi-lab.jp
+a8clk.hokennews.jp
 a8clk.hotman-onlineshop.com
 a8clk.hozon.sp-site.jp
 a8clk.hurugicom.jp
@@ -363,6 +366,7 @@ a8clk.smile-zemi.jp
 a8clk.solideajapan.com
 a8clk.staff.mynavi.jp
 a8clk.star-mall.net
+a8clk.starwifi.jp
 a8clk.store.healthcare.omron.co.jp
 a8clk.store.kadokawa.co.jp
 a8clk.store.mago-ch.com
@@ -396,12 +400,14 @@ a8clk.www.jaf.or.jp
 a8clk.www.ka-nabell.com
 a8clk.www.nortonstore.jp
 a8clk.www.solarmonitorlp.energy-itsol.com
+a8clk.www.zwei.com
 a8clk.xn--t8jx01hmvbgye566gd1f.com
 a8clk.xserver.ne.jp
 a8clk.ykd.co.jp
 a8clk.yourmystar.jp
 a8clk.yumeyakata.com
 a8clk.zigen-shop.com
+a8clk1.zkai.co.jp
 a8cllk.arahataen.com
 a8cname.nj-e.jp
 a8cnv.rmsbeauty.jp
@@ -486,6 +492,7 @@ a8cv.folio-sec.com
 a8cv.folli.jp
 a8cv.forza-gran.com
 a8cv.frecious.jp
+a8cv.freeks-japan.com
 a8cv.fukuoka-factoring.net
 a8cv.futurefinder.net
 a8cv.fxtrade.co.jp
@@ -539,6 +546,7 @@ a8cv.kurashi-bears.com
 a8cv.kyotokimono-rental.com
 a8cv.lalavie.jp
 a8cv.lear-caree.com
+a8cv.leasonable.com
 a8cv.lp.nalevi.mynavi.jp
 a8cv.lyprinol.jp
 a8cv.madoguchi.com
@@ -575,6 +583,7 @@ a8cv.one-netbook.jp
 a8cv.online.bell-road.com
 a8cv.online.d-school.co
 a8cv.orbis.co.jp
+a8cv.otakudathough.com
 a8cv.paidy.com
 a8cv.photojoy.jp
 a8cv.picksitter.com
@@ -584,6 +593,7 @@ a8cv.risu-japan.com
 a8cv.rita-style.co.jp
 a8cv.rohto.co.jp
 a8cv.sanix.jp
+a8cv.setagayarecords.co
 a8cv.sharing-tech.jp
 a8cv.shop.matsuo1956.jp
 a8cv.shop.solve-grp.com
@@ -613,6 +623,7 @@ a8cv.untenmenkyo-yi.com
 a8cv.usedfun.jp
 a8cv.w2solution.co.jp
 a8cv.wedding.mynavi.jp
+a8cv.worker.sukimaworks.app
 a8cv.workman.jp
 a8cv.www.covearth.co.jp
 a8cv.www.iropuri.com
@@ -623,6 +634,7 @@ a8cv.ygm-clinic.or.jp
 a8cv.yobybo-japan.com
 a8cv.yohodo.net
 a8cv.you-shoku.net
+a8cv.zeroen-denki.com
 a8cv.zerorenovation.com
 a8cv2.vapelog.jp
 a8dev.hikarinet-s.com
@@ -666,6 +678,7 @@ afcv.champ-shop.com
 affi.best-hoiku.com
 affiliate.couleur-labo.com
 affiliate.kgcshop.jp
+affiliate.petitwedding.com
 afi.school.web-marketing.ai
 afi.ssl.gmobb.jp
 ahachi.dietnavi.com
@@ -679,6 +692,7 @@ contact.kdg-yobi.com
 cosme.caseepo.jp
 cp.cp.twendee.jp
 cv.a-hikkoshi.com
+cv.ag.cybersecurity-jp.com
 cv.atelier-shark.com
 cv.b2b.subscription-store.com
 cv.bc-force.com
@@ -701,6 +715,7 @@ cv.re-shop.jp
 cv.shiryoku1.com
 cv.smakon.jp
 cv.subscription-store.com
+cv.xn--bcktcvdzde3c.biz
 cv.xn--zbs202g.com
 cv.zephylrin-x.net
 cv1.start-eo.jp
@@ -715,6 +730,7 @@ smn.dankore.jp
 sokutei.car2828.jp
 st-a8.tscubic.com
 sub.booksdream-mypage.com
+summary.bookoffonline.co.jp
 track.craudia.com
 track.xmarketech.com
 tracking.196189.com

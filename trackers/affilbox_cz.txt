@@ -173,6 +173,7 @@
 ||affiliate.mojemincovna.cz^
 ||affiliate.montessorihracky.cz^
 ||affiliate.montessorikurz.cz^
+||affiliate.montessoriparenting.org^
 ||affiliate.nabytek-forliveshop.cz^
 ||affiliate.nakladatelstvi-riva.cz^
 ||affiliate.nalepime.cz^
@@ -199,7 +200,6 @@
 ||affiliate.sexshop.cz^
 ||affiliate.sexshop51.cz^
 ||affiliate.sexshop51.sk^
-||affiliate.smart-zbozi.cz^
 ||affiliate.smarty.cz^
 ||affiliate.smsticket.cz^
 ||affiliate.snowbitch.cz^
@@ -219,6 +219,7 @@
 ||affiliate.vianio.com^
 ||affiliate.vox.cz^
 ||affiliate.wugi.cz^
+||affiliate.zdraviafitness.cz^
 ||affiliate.zdravykos.cz^
 ||affiliateold.firma20.cz^
 ||affiliates.adinternet.cz^
@@ -368,6 +369,7 @@
 ||partner.cukrarskaskola.cz^
 ||partner.cukrarskyklub.cz^
 ||partner.dailymix.cz^
+||partner.dancahajkova.com^
 ||partner.danfil.cz^
 ||partner.denato.cz^
 ||partner.denato.fr^
@@ -400,12 +402,14 @@
 ||partner.gokids.cz^
 ||partner.hanamoneam.com^
 ||partner.hemptor.cz^
+||partner.hodinarstvi.cz^
 ||partner.hoska-tour.cz^
 ||partner.hothousecucumber.com^
 ||partner.imrnous.cz^
 ||partner.investinslovakia.eu^
 ||partner.iodesign.cz^
 ||partner.iodicanatural.cz^
+||partner.isic.cz^
 ||partner.italier.cz^
 ||partner.ivadekor.cz^
 ||partner.izlato24.cz^
@@ -430,7 +434,6 @@
 ||partner.lemurak.cz^
 ||partner.lidajirickova.cz^
 ||partner.lyzelyze.cz^
-||partner.marlen.cz^
 ||partner.marspom.cz^
 ||partner.martinreznicek.cz^
 ||partner.massivo.cz^
@@ -458,6 +461,7 @@
 ||partner.olivie.cz^
 ||partner.olivie.sk^
 ||partner.olivum.cz^
+||partner.ozogan.cz^
 ||partner.parfemy-parfumeur.cz^
 ||partner.perfect-dress.eu^
 ||partner.pletemesi.cz^
@@ -494,12 +498,14 @@
 ||partner.superpotlac.sk^
 ||partner.supervyhody.cz^
 ||partner.susenepochoutky.cz^
+||partner.susmevem.com^
 ||partner.svatba.cz^
 ||partner.svatebni-diar.cz^
 ||partner.svetruzi.cz^
 ||partner.swimmeez.cz^
 ||partner.tahnabranu.cz^
 ||partner.tajemstvi-uspechu.cz^
+||partner.thechillidoctor.cz^
 ||partner.top-obaly.cz^
 ||partner.totalniplavani.cz^
 ||partner.tyano.cz^
@@ -536,6 +542,7 @@
 ||partneri.apimedika.sk^
 ||partneri.artisan.cz^
 ||partneri.bazaroveregaly.cz^
+||partneri.bestargroup.cz^
 ||partneri.bigon.sk^
 ||partneri.biorganica.cz^
 ||partneri.bornature.cz^
@@ -599,6 +606,7 @@
 ||partneri.richardstepan.cz^
 ||partneri.roklen.cz^
 ||partneri.rondainvest.cz^
+||partneri.samuelhornek.cz^
 ||partneri.serafinbyliny.cz^
 ||partneri.setrice.eu^
 ||partneri.silaprozivot.com^
@@ -648,6 +656,7 @@
 ||proviznisystem.kanclir.cz^
 ||rek.rybizak.cz^
 ||special.kvetinyexpres.cz^
+||spolu.kuskakaa.cz^
 ||spoluprace.blackkale.cz^
 ||spoluprace.denikletusky.cz^
 ||spoluprace.eroticstore.cz^
@@ -659,6 +668,7 @@
 ||spoluprace.potravinyarax.cz^
 ||spoluprace.terrapotheka.cz^
 ||spoluprace.vcelarstvi-domovina.cz^
+||test.autosedacky-online.cz^
 ||vydelavejtesnami.pg.cz^
 ||www.affilo.cz^
 ||www.partner.hubatacernoska.cz^

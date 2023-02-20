@@ -8,13 +8,16 @@ data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
 data.decathlon.pl
+data.ouigo.com
 data.ubi.com
 data.wptag.net
 logger.yp.ca
 sales.disneylandparis.com
 tag.boulanger.fr
 tagcommander.laredoute.be
+tagcommander.laredoute.ch
 tagcommander.laredoute.co.uk
+tc.camaieu.fr
 tcdata.fnac.com
 #
 # ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com disguised trackers

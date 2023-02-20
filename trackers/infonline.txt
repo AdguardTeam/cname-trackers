@@ -234,6 +234,7 @@
 ||data-1fbcf6d7f5.marbacher-zeitung.de^
 ||data-1fbcf6d7f5.np-coburg.de^
 ||data-1fbcf6d7f5.schwarzwaelder-bote.de^
+||data-1fbcf6d7f5.schwarzwald-flirt.de^
 ||data-1fbcf6d7f5.stuttgart-gedenkt.de^
 ||data-1fbcf6d7f5.stuttgarter-nachrichten.de^
 ||data-1fbcf6d7f5.stuttgarter-zeitung.de^
@@ -367,6 +368,7 @@
 ||data-39db8b138f.apps.iocnt.de^
 ||data-39f71aefaf.prisma.de^
 ||data-3adb48f023.apps.iocnt.de^
+||data-3b1647c072.entdeckertag.de^
 ||data-3b1647c072.hannover.de^
 ||data-3b1647c072.landheime.de^
 ||data-3b1647c072.visit-hannover.com^
@@ -395,6 +397,7 @@
 ||data-3eff3aac07.kino-zeit.de^
 ||data-3f0062caa0.elektro.net^
 ||data-3f37694eeb.esports.com^
+||data-40370dcf13.ev-online.de^
 ||data-40370dcf13.mv-online.de^
 ||data-40370dcf13.mv-wahlen.de^
 ||data-4071aa1e21.staz.de^
@@ -967,6 +970,7 @@
 ||data-9b57e703d3.zm-online.de^
 ||data-9b6c55490e.fleischwirtschaft.de^
 ||data-9b6d0bb310.print.de^
+||data-9b7927207a.outdoor-magazin.com^
 ||data-9bc4e9c585.deraktionaer.tv^
 ||data-9c12ed8b3c.echtemamas.de^
 ||data-9c90373be1.automobil-produktion.de^
@@ -989,6 +993,7 @@
 ||data-9e4ff1c91f.wz.de^
 ||data-9e925e9341.this-magazin.de^
 ||data-9ea3ac5fe9.food-service.de^
+||data-9f311cce4c.nofi-lauf.de^
 ||data-9f311cce4c.onetz.de^
 ||data-9f426096e1.wz-net.de^
 ||data-9f47bd3ec3.fupa.net^
@@ -1032,6 +1037,7 @@
 ||data-a379a2e240.petbook.de^
 ||data-a38e203a07.braunschweiger-zeitung.de^
 ||data-a38e203a07.harzkurier.de^
+||data-a38e203a07.harztrauer.de^
 ||data-a38e203a07.immo38.de^
 ||data-a38e203a07.job38.de^
 ||data-a38e203a07.konzertkasse.de^
@@ -1131,6 +1137,7 @@
 ||data-b35e28a5a5.springermedizin.de^
 ||data-b36bfba069.apps.iocnt.de^
 ||data-b389eff81a.business-punk.com^
+||data-b389eff81a.geo.de^
 ||data-b389eff81a.stern.de^
 ||data-b38a38e422.apps.iocnt.de^
 ||data-b43a87d00c.businessinsider.de^
@@ -1144,8 +1151,11 @@
 ||data-b640a0ce46.connect.de^
 ||data-b640a0ce46.wmp-dev.de^
 ||data-b784e2dbb0.echo24.de^
+||data-b7d0b4217b.autoscout24.bg^
 ||data-b7d0b4217b.autoscout24.com^
+||data-b7d0b4217b.autoscout24.com.tr^
 ||data-b7d0b4217b.autoscout24.com.ua^
+||data-b7d0b4217b.autoscout24.cz^
 ||data-b7d0b4217b.autoscout24.de^
 ||data-b7d0b4217b.autoscout24.pl^
 ||data-b7d0b4217b.autoscout24.se^
@@ -1156,6 +1166,7 @@
 ||data-b80f3dd5d8.rnz.de^
 ||data-b851447daf.praxisvita.de^
 ||data-b8520d61eb.apps.iocnt.de^
+||data-b8587f1b76.familien-glueck.de^
 ||data-b8587f1b76.stimme.de^
 ||data-b8587f1b76.trauerundgedenken.de^
 ||data-b85ecb4160.faszination-fankurve.de^
@@ -1163,6 +1174,7 @@
 ||data-b85ecb4160.stadionwelt.de^
 ||data-b8625c5378.lz-trauer.de^
 ||data-b8625c5378.lz.de^
+||data-b8f9ef66dc.hogapage.at^
 ||data-b8f9ef66dc.hogapage.ch^
 ||data-b8f9ef66dc.hogapage.de^
 ||data-b944c1dba9.horizont.net^
@@ -1203,6 +1215,7 @@
 ||data-c1195dc135.landundforst.de^
 ||data-c14a6b9c37.1000ps.de^
 ||data-c14a6b9c37.motorradonline.de^
+||data-c26a0f6abd.smarthouse-pro.de^
 ||data-c2b71254f2.finanzen100.de^
 ||data-c2b71254f2.focus.de^
 ||data-c2cfe04d43.formel1.de^
@@ -1293,6 +1306,7 @@
 ||data-cdc9d8aabf.dbz.de^
 ||data-ce0e6fdeb3.apps.iocnt.de^
 ||data-ce326d00f8.aero.de^
+||data-ce326d00f8.aerokurier.de^
 ||data-ce326d00f8.flugrevue.de^
 ||data-ce54b2d2bd.apps.iocnt.de^
 ||data-ce904c6d42.metallbau-magazin.de^
@@ -1302,6 +1316,7 @@
 ||data-cf8fd9b799.heizungsjournal.de^
 ||data-cf8fd9b799.integrale-planung.net^
 ||data-cf8fd9b799.sanitaerjournal.de^
+||data-cf8fd9b799.tga-contentbase.de^
 ||data-cfe819bed5.playboy.de^
 ||data-d03ddf25a3.wissenschaft.de^
 ||data-d0a45359d6.apps.iocnt.de^
@@ -1322,6 +1337,7 @@
 ||data-d4db30a18b.on-online.de^
 ||data-d4db30a18b.oz-online.de^
 ||data-d4db30a18b.zgo.de^
+||data-d4dfa4bc2c.weather.com^
 ||data-d4ecb517ab.cinema.de^
 ||data-d4ecb517ab.streampicker.de^
 ||data-d4ecb517ab.tvspielfilm.de^
@@ -1381,7 +1397,9 @@
 ||data-e0c8f57796.selbst.de^
 ||data-e0e7873b34.stadtbibliothek-schwerin.de^
 ||data-e138bc4173.apps.iocnt.de^
+||data-e159daf928.obermain.de^
 ||data-e16817998e.apps.iocnt.de^
+||data-e18f7c3e0e.bib.dormagen.de^
 ||data-e1f099aeb5.apps.iocnt.de^
 ||data-e25e89b95d.it-daily.net^
 ||data-e337e2a6a8.kuechenplaner-magazin.de^
@@ -1425,6 +1443,7 @@
 ||data-e94c0aee45.apps.iocnt.de^
 ||data-e9983e832a.boyens-medien.de^
 ||data-e9b64d37c6.bbv-net.de^
+||data-e9eee8419a.si-shk.de^
 ||data-ea06a9645c.bauhof-online.de^
 ||data-ea7328ad58.apps.iocnt.de^
 ||data-ea7d084cda.wz.de^
@@ -1610,6 +1629,7 @@
 ||data-f59db3288b.tz.de^
 ||data-f59db3288b.usinger-anzeiger.de^
 ||data-f59db3288b.wa.de^
+||data-f59db3288b.wasserburg24.de^
 ||data-f59db3288b.webnachrichten.de^
 ||data-f59db3288b.werra-rundschau.de^
 ||data-f59db3288b.wetterauer-zeitung.de^
@@ -1621,12 +1641,15 @@
 ||data-f62d7c5cdb.jobmorgen.de^
 ||data-f62d7c5cdb.mannheimer-morgen.de^
 ||data-f62d7c5cdb.schwetzinger-zeitung.de^
+||data-f690045316.sicht-sonnenschutz.com^
 ||data-f6d2ad6f1b.t3n.de^
 ||data-f722634d33.haller-kreisblatt.de^
 ||data-f7a0168660.versicherungsbote.de^
 ||data-f8f10caff9.apps.iocnt.de^
 ||data-f943e74ec9.bz-berlin.de^
 ||data-f9b542cb96.apps.iocnt.de^
+||data-fa2c5597f6.cavallo.de^
+||data-fa2c5597f6.elektrobike-online.com^
 ||data-fa2c5597f6.mountainbike-magazin.de^
 ||data-fa2d848059.aachener-zeitung.de^
 ||data-fa2d848059.fupa.net^
@@ -1642,11 +1665,11 @@
 ||data-fb37a1e7c3.stuttgarter-nachrichten.de^
 ||data-fb37a1e7c3.stuttgarter-zeitung.de^
 ||data-fb37a1e7c3.verlagshaus-jaumann.de^
-||data-fb6bd6ba7f.agrarzeitung.de^
 ||data-fb6dfd42e8.rationell-reinigen.de^
 ||data-fbb8842b89.mylife.de^
 ||data-fbb8842b89.netdoktor.de^
 ||data-fbef420c7e.apps.iocnt.de^
+||data-fc03a8828d.streampicker.de^
 ||data-fc03a8828d.tvspielfilm.de^
 ||data-fc03a8828d.tvtoday.de^
 ||data-fc6e3104c2.finanztreff.de^
@@ -1692,7 +1715,4 @@
 ||data-ff6ba35ab1.cash-online.de^
 ||data-ff95894520.apps.iocnt.de^
 ||data-nl.elektroniknet.de^
-||data-nl.funkschau.de^
-||data-nl.ict-channel.com^
-||data-nl.lanline.de^
 ||data-nl.tageskarte.io^

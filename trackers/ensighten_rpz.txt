@@ -29,6 +29,7 @@ activate.loft.com CNAME .
 activate.maurices.com CNAME .
 activate.mcall.com CNAME .
 activate.mdgazette.com CNAME .
+activate.napersun.com CNAME .
 activate.nydailynews.com CNAME .
 activate.orlandosentinel.com CNAME .
 activate.pacificsandiego.com CNAME .
@@ -192,6 +193,7 @@ ensighten.bhphoto.com CNAME .
 ensighten.ccnag.com CNAME .
 ensighten.coop.co.uk CNAME .
 ensighten.davidyurman.com CNAME .
+ensighten.filmstruck.com CNAME .
 ensighten.heineken.co.za CNAME .
 ensighten.heishop.com.br CNAME .
 ensighten.heishop.mx CNAME .

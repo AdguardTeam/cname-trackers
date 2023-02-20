@@ -283,6 +283,7 @@ plausible.play.date
 plausible.prod.sketch.com
 plausible.promlens.com
 plausible.prufit.co
+plausible.pumpkint.com
 plausible.quo.wtf
 plausible.rachel.systems
 plausible.reabra.com.br
@@ -326,6 +327,7 @@ s.aromapix.com
 s.cameratico.com
 s.crackedthecode.co
 s.cuoresportivo.no
+s.cybercompass.io
 s.ergotherapieblog.de
 s.fission.codes
 s.fraservotes.com
@@ -340,7 +342,6 @@ s.nerdfulmind.com
 s.onlineornot.com
 s.repguard.uk
 s.saucisson-rebellion.fr
-s.somos-arts.org
 s.sporks.space
 s.stgeorgeafc.com.au
 s.tritoninfosec.com
@@ -353,6 +354,7 @@ see.outbeyondthepines.com
 see.wasteorshare.com
 server.japanbyrivercruise.com
 server.olliehorn.com
+sherlock.nicolabigwood.uk
 simple.bootify.io
 site-stats.supernotes.app
 sp.gameomatic.fr
@@ -363,7 +365,6 @@ spock.dom.codes
 spock.domjtalbot.codes
 st.picshuffle.com
 st.preciousamber.com
-st.websites.txk.me
 starman.floorcleanse.co.uk
 stat.bill.harding.blog
 stat.landingpro.pl
@@ -412,6 +413,7 @@ stats.baptistwomen.com
 stats.basecamp.com
 stats.bcdtravel.com
 stats.beamd.io
+stats.beanr.coffee
 stats.beatricew.com
 stats.beausimensen.com
 stats.belic.si
@@ -523,7 +525,6 @@ stats.dotnetfromthemountain.com
 stats.dotnetos.org
 stats.dreher-dreher.eu
 stats.drgomesp.dev
-stats.drivethrubethlehem.com
 stats.drtdentist.ro
 stats.duetcode.io
 stats.dvy.io
@@ -554,7 +555,6 @@ stats.faluninfo.at
 stats.faluninfo.mk
 stats.faluninfo.si
 stats.fantinel.dev
-stats.farbenmeer.de
 stats.fastbackward.app
 stats.feathercss.makerkits.co
 stats.felipesere.com
@@ -683,7 +683,6 @@ stats.leaguestats.gg
 stats.learnlinux.tv
 stats.lefthoek.com
 stats.leoloso.com
-stats.lessimpact.org
 stats.lestypesdefarine.fr
 stats.liamdavis.dev
 stats.lica.at
@@ -706,6 +705,7 @@ stats.martinbetz.eu
 stats.mastermeup.com
 stats.masterybits.com
 stats.matthiasloibl.com
+stats.maximaconsulting.xyz
 stats.mazlandscaping.com
 stats.memberdrive.org
 stats.mentorcore.biz
@@ -735,6 +735,7 @@ stats.nothingbutnylon.com
 stats.nullsecure.com
 stats.nytecomics.com
 stats.offthekerb.com
+stats.oldtinroof.com
 stats.onepagelove.com
 stats.opengatechurch.ca
 stats.orbitalhealth.co
@@ -743,9 +744,9 @@ stats.ortussolutions.com
 stats.osteopathes.pro
 stats.otsohavanto.net
 stats.oursky.com
-stats.outpostdemo.com
 stats.oxygem.com
 stats.p42.ai
+stats.parentinterviews.co.nz
 stats.pascalafleur.com
 stats.passwordyeti.com
 stats.pasteapp.io
@@ -757,13 +758,16 @@ stats.pendleratlas.de
 stats.perpetual.pizza
 stats.petanode.com
 stats.phelsumagrandis.de
+stats.phili.pe
 stats.photovisionprints.com
 stats.piplette.co
 stats.piranhas.co
+stats.pise-notes.club
 stats.pixs.art
 stats.pizzapizza.io
 stats.preeventualist.org
 stats.pri.org
+stats.procumeni.cz
 stats.qovery.com
 stats.quicksilvercre.com
 stats.radreiseglueck.de
@@ -791,12 +795,14 @@ stats.rymawby.com
 stats.sahpa.co.za
 stats.salonsuites.com
 stats.sapnininkas.com
+stats.savethemothers.org
 stats.scalgo.com
 stats.screen-play.app
 stats.screenagers.com
 stats.screenwavemedia.com
 stats.sebastiandombrowski.de
 stats.sebastiangale.ca
+stats.servicedesignjobs.com
 stats.seva.rocks
 stats.shareup.app
 stats.shh.io
@@ -804,6 +810,9 @@ stats.shoppegram.com
 stats.sirdata.com
 stats.socialeurope.eu
 stats.sommselect.com
+stats.southswindon-pc.gov.uk
+stats.sparkloop.app
+stats.spreadtheworld.net
 stats.sprune.com
 stats.sqlteam.com
 stats.squaddy.se
@@ -819,6 +828,7 @@ stats.strikogkod.dk
 stats.studypages.com
 stats.sublimesecurity.com
 stats.suenicholls.com
+stats.suf.one
 stats.suggestedit.com
 stats.svemir.co
 stats.svenadolph.net
@@ -826,16 +836,20 @@ stats.swicket.io
 stats.szwrc.co
 stats.tekin.co.uk
 stats.tgoodell.com
+stats.thecapablecollective.com
 stats.thingsthatkeepmeupatnight.dev
 stats.timmyomahony.com
 stats.toiletmap.org.uk
 stats.torontohhs.org
+stats.training.fit
 stats.travelfodder.com
 stats.trenntoi.de
 stats.tresor.one
+stats.tsas.ca
 stats.twhl.xyz
 stats.two19.co
 stats.ubiwiz.com
+stats.urlaubsverwaltung.cloud
 stats.vancura.design
 stats.vdsnow.ru
 stats.vertis.io
@@ -844,6 +858,7 @@ stats.voltamediahouse.com
 stats.wachstum.at
 stats.wafflemeido.art
 stats.walkiees.co.uk
+stats.wecodeni.com
 stats.whereisit5pmrightnow.com
 stats.world.hey.com
 stats.wwdcscholars.com

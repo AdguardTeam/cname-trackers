@@ -26,6 +26,7 @@ tr.actuentreprises.elior.fr
 tr.actupremium.com
 tr.actus-fdj.fr
 tr.afpa.espmp-cufr.net
+tr.ag2rlamondiale.fr
 tr.alex.espmp-agfr.net
 tr.allianz-trade.com
 tr.allopneus.com
@@ -52,6 +53,7 @@ tr.asp10cg.espmp-nifr.net
 tr.asp10ch.espmp-nifr.net
 tr.asp10cr.espmp-nifr.net
 tr.asp10fa.espmp-cufr.net
+tr.asp10ge.espmp-nifr.net
 tr.asp10h2.espmp-nifr.net
 tr.asp10hi.espmp-cufr.net
 tr.asp10hj.espmp-pofr.net
@@ -84,6 +86,7 @@ tr.brand.labelleadresse.com
 tr.btob-afaceri.ro
 tr.btob-cwf.com
 tr.btob-deals.co.uk
+tr.btobquotes.be
 tr.btobquotes.com
 tr.btobquotes.mx
 tr.buenasofertas.pro
@@ -136,6 +139,7 @@ tr.communication.cgaaer.fr
 tr.communication.enkiapp.io
 tr.communication.harmonie-mutuelle.fr
 tr.communication.hennessy.com
+tr.communication.hybrigenics.com
 tr.communication.jardindacclimatation.fr
 tr.communication.lamaisondesstartups.com
 tr.communication.lvmh.fr
@@ -197,6 +201,7 @@ tr.devisminute-securiteb2b.com
 tr.devisminute-siteecommerce.com
 tr.devisminute-weber.com
 tr.devize-companeo.ro
+tr.digitalacademy.np6.com
 tr.digitaldigest.lvmh.com
 tr.directferries.com
 tr.dirigeants.harmonie-mutuelle.fr
@@ -336,6 +341,7 @@ tr.info.comparadordeprestamos.es
 tr.info.conexancemd.com
 tr.info.covid-resistance-bretagne.fr
 tr.info.dentexelans.com
+tr.info.e-leclerc.com
 tr.info.easyviaggio.com
 tr.info.easyviajar.com
 tr.info.easyvoyage.co.uk
@@ -414,6 +420,7 @@ tr.lettre.helianthal.fr
 tr.lettre.lecho-circulaire.com
 tr.leyravaud.devisdirect.com
 tr.loreal.ifop.com
+tr.louisvuittonmalletier.com
 tr.louvre-boites.com
 tr.ltbu.espmp-nifr.net
 tr.lvmhappening.lvmh.fr
@@ -433,6 +440,7 @@ tr.mail.vipmag.fr
 tr.mail.vo3000.com
 tr.mail1.macif.fr
 tr.mailing.achatpublic.com
+tr.mailing.heliades.fr
 tr.mailing.laredoute.fr
 tr.mailing.lvmhappening.com
 tr.mailing.promodeclic.fr
@@ -449,6 +457,7 @@ tr.marketing.younited-credit.com
 tr.marketing.younited-credit.es
 tr.marketing.younited-credit.pt
 tr.mart.espmp-agfr.net
+tr.mattressman.co.uk
 tr.melhores-propostas.pt
 tr.membres.boursorama.info
 tr.mep.enkiapp.io
@@ -462,6 +471,7 @@ tr.mhist.moethennessy.com
 tr.mijn-superaanbieding.be
 tr.mijnaanbieding.renowizz.be
 tr.mika.espmp-nifr.net
+tr.mktg.np6.com
 tr.mm.infopro-digital.com
 tr.mnoc.espmp-nifr.net
 tr.moes.espmp-agfr.net
@@ -480,6 +490,7 @@ tr.n.info.sygmabanque.fr
 tr.n.kinder.fr
 tr.n.nutella.fr
 tr.nespresso.com
+tr.nespresso.mailsservices.com
 tr.new.offres-cartegie.fr
 tr.news-chocolat.com
 tr.news-companeo.cl
@@ -500,6 +511,7 @@ tr.news.allopneus.be
 tr.news.allopneus.com
 tr.news.aramisauto.com
 tr.news.assuragency.net
+tr.news.business-deal.co.uk
 tr.news.c-media.fr
 tr.news.cad-magazine.com
 tr.news.capfun.com
@@ -542,6 +554,7 @@ tr.news.glance-mediametrie.com
 tr.news.groupe-armonia.com
 tr.news.hallobanden.be
 tr.news.hallobanden.nl
+tr.news.helvyre.fr
 tr.news.heredis.com
 tr.news.i24news.tv
 tr.news.ics.fr
@@ -610,6 +623,7 @@ tr.news.vip-diary.com
 tr.news.vip-mag.co.uk
 tr.news.vipmag.fr
 tr.news.vivrecotesud.fr
+tr.news.vo3000.com
 tr.news.votreargent.lexpress.fr
 tr.news.voyagesleclerc.com
 tr.news.vraaguwofferte.be
@@ -626,6 +640,7 @@ tr.newsletter.bassins-a-flot.fr
 tr.newsletter.bauermedia.fr
 tr.newsletter.bouygues-construction.com
 tr.newsletter.capdecision.fr
+tr.newsletter.cuisine-plus.tv
 tr.newsletter.ecig-privee.fr
 tr.newsletter.erenumerique.fr
 tr.newsletter.etoiledevenus.com
@@ -777,6 +792,7 @@ tr.sfr.espmp-aufr.net
 tr.sgjk.espmp-aufr.net
 tr.silvera-contact.fr
 tr.smtp1.email-mediapost.fr
+tr.solendi.com
 tr.solution.uneo.fr
 tr.sort.espmp-nifr.net
 tr.souscription.banque-casino.fr

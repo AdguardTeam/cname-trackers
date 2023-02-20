@@ -7,6 +7,7 @@ aa.samaniclucked.com CNAME .
 ae.craccaanybody.com CNAME .
 an.pintaentrep.com CNAME .
 ar.tankasphose.com CNAME .
+ax.mousmeetrike.com CNAME .
 ax.requotebatman.com CNAME .
 bh.twifoilperoxyl.com CNAME .
 bk.clinkedsphecid.com CNAME .
@@ -24,6 +25,7 @@ du.jubhahbalize.com CNAME .
 dv.citricesu.com CNAME .
 ej.basialforced.com CNAME .
 et.harmoutguereza.com CNAME .
+eu.balletsbeep.com CNAME .
 eu.jerkytaste.com CNAME .
 ew.physciahat.com CNAME .
 ey.fifthsheet.com CNAME .
@@ -35,7 +37,9 @@ fo.irrisoranemone.com CNAME .
 fp.mailerstalons.com CNAME .
 fy.uncheckluggies.com CNAME .
 ga.asseizeenl.com CNAME .
+gg.warmanmamelon.com CNAME .
 go.jazygesunoared.com CNAME .
+hx.relivesternar.com CNAME .
 ia.bisetsoliped.com CNAME .
 ie.facemanuptore.com CNAME .
 ie.repointderider.com CNAME .
@@ -50,6 +54,7 @@ jj.jaupsgrimes.com CNAME .
 jk.baltisbockey.com CNAME .
 jo.tictocswended.com CNAME .
 jv.curiousuraemia.com CNAME .
+jw.posiedcaridea.com CNAME .
 kl.osmoticchalah.com CNAME .
 ku.eftesthalms.com CNAME .
 kv.patenssabzi.com CNAME .
@@ -81,6 +86,7 @@ rm.bauderylysines.com CNAME .
 rp.tsuresoranges.com CNAME .
 rs.tupigrousy.com CNAME .
 ru.vibgyorvolte.com CNAME .
+rw.davielyedith.com CNAME .
 rx.dewlesssnorted.com CNAME .
 sb.elfshippref.com CNAME .
 sc.achingpliant.com CNAME .
@@ -88,6 +94,7 @@ sc.waapadaggled.com CNAME .
 sc.waybookmyceles.com CNAME .
 sf.zestfulpize.com CNAME .
 sl.frondewame.com CNAME .
+sv.werewaught.com CNAME .
 sw.pluckysups.com CNAME .
 sy.sartishmoop.com CNAME .
 th.micheryfrugal.com CNAME .
@@ -98,6 +105,7 @@ um.sullageprancy.com CNAME .
 un.clobberkiliare.com CNAME .
 uo.tubaronunheler.com CNAME .
 ur.meteredrato.com CNAME .
+us.aghaneefigurae.com CNAME .
 uv.elymimontauk.com CNAME .
 ux.sapoaix.com CNAME .
 vd.scapemambu.com CNAME .
@@ -121,4 +129,5 @@ yh.coursgrimace.com CNAME .
 yk.dissentsangir.com CNAME .
 zd.plattedrattons.com CNAME .
 zi.kissbluest.com CNAME .
+zp.mactraklutzes.com CNAME .
 zx.plaiceagonist.com CNAME .

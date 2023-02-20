@@ -166,6 +166,7 @@
     * carpartscom.extole.io
     * catfootwear.extole.io
     * cefaly.extole.io
+    * cellcom.extole.io
     * centier.extole.io
     * chacos.extole.io
     * chamberlain.extole.io
@@ -180,6 +181,7 @@
     * cle-de-peau.extole.io
     * clevelandgolf.extole.io
     * codecademy.extole.io
+    * coleman.extole.io
     * columbiacu.extole.io
     * comfortzoneskin.extole.io
     * competitivecyclist.extole.io
@@ -400,7 +402,9 @@
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
     * theory.extole.io
+    * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
+    * thewalkingcompany.extole.io
     * thewildest.extole.io
     * tillys.extole.io
     * tommy.extole.io
@@ -549,6 +553,7 @@
 | share.catalogspree.com | catalogspree-ssl.extole.com |
 | refer.catfootwear.com | catfootwear.extole.io |
 | share.cefaly.com | cefaly.extole.io |
+| share.cellcom.ca | cellcom.extole.io |
 | refer.centier.com | centier.extole.io |
 | refer.chacos.com | chacos.extole.io |
 | share.myq.com | chamberlain.extole.io |
@@ -566,6 +571,7 @@
 | refer.clearme.com | clearme-ssl.extole.com |
 | share.dunlopsports.com | clevelandgolf.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
+| refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
 | refer.comfortzoneskin.com | comfortzoneskin.extole.io |
 | refer.competitivecyclist.com | competitivecyclist.extole.io |
@@ -738,6 +744,7 @@
 | share.mamabearlegalforms.com | mama-bear-legal-forms.extole.io |
 | share.manscaped.com | manscaped.extole.io |
 | refer.marinerfinance.com | marinerfinance.extole.io |
+| refer.prettyballerinas.co.uk | mascaro.extole.io |
 | refer.prettyballerinas.es | mascaro.extole.io |
 | share.medely.com | medely.extole.io |
 | refer.aol.com | media-router-aol1.prod.g03.yahoodns.net |
@@ -889,7 +896,9 @@
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |
 | share.uk.theory.com | theory.extole.io |
+| share.theprisonerwinecompany.com | theprisonerwinecompany.extole.io |
 | refer.thesculptsociety.com | thesculptsociety.extole.io |
+| refer.thewalkingcompany.com | thewalkingcompany.extole.io |
 | refer.thewildest.com | thewildest.extole.io |
 | share.tillys.com | tillys.extole.io |
 | refer.timberland.com | timberland.extole.com |

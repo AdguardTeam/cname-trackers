@@ -15,6 +15,7 @@
   "sales.disneylandparis.com": "ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com",
   "tag.boulanger.fr": "ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com",
   "tagcommander.laredoute.be": "redirect521.tagcommander.com",
+  "tagcommander.laredoute.ch": "redirect495.tagcommander.com",
   "tagcommander.laredoute.co.uk": "redirect660.tagcommander.com",
   "tc.camaieu.fr": "ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com",
   "tc.europcar.com": "ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com",

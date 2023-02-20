@@ -87,6 +87,7 @@ ssl-tz.met.vgwort.de
 ssl-weka.met.vgwort.de
 suite101.met.vgwort.de
 sz.met.vgwort.de
+t-online.met.vgwort.de
 tagesspiegel.met.vgwort.de
 tz.met.vgwort.de
 vg01.met.vgwort.de
@@ -243,6 +244,10 @@ chip.met.vgwort.de
 #
 computerworld.tns-gallup.dk
 #
+# costume.tns-dk.2cnt.net disguised trackers
+#
+costume.tns-gallup.dk
+#
 # dagbladetholstebrostruer.tns-dk.2cnt.net disguised trackers
 #
 dagbladetholstebrostruer.tns-gallup.dk
@@ -266,6 +271,10 @@ dmi.tns-gallup.dk
 # dplaystream.tns-dk.2cnt.net disguised trackers
 #
 dplaystream.tns-gallup.dk
+#
+# dplayteststream.tns-dk.2cnt.net disguised trackers
+#
+dplayteststream.tns-gallup.dk
 #
 # slb-tns-dk-pool07.tns-dk.2cnt.net disguised trackers
 #
@@ -298,9 +307,9 @@ drtv-appletv.tns-gallup.dk
 ssl-drtv-appletv.tns-gallup.dk
 youseeandroidstream.tns-gallup.dk
 #
-# econa.vgwort-de.2cnt.net disguised trackers
+# ebiam.tns-dk.2cnt.net disguised trackers
 #
-econa.met.vgwort.de
+ebiam.tns-gallup.dk
 #
 # eltern.vgwort-de.2cnt.net disguised trackers
 #
@@ -370,6 +379,14 @@ helpster.met.vgwort.de
 #
 hsfo.tns-gallup.dk
 #
+# idgentertain.vgwort-de.2cnt.net disguised trackers
+#
+idgentertain.met.vgwort.de
+#
+# in.tns-dk.2cnt.net disguised trackers
+#
+in.tns-gallup.dk
+#
 # information.tns-dk.2cnt.net disguised trackers
 #
 information.tns-gallup.dk
@@ -401,6 +418,10 @@ jubii.tns-gallup.dk
 # juicyplay.tns-dk.2cnt.net disguised trackers
 #
 juicyplay.tns-gallup.dk
+#
+# juris.vgwort-de.2cnt.net disguised trackers
+#
+juris.met.vgwort.de
 #
 # komputer.tns-dk.2cnt.net disguised trackers
 #
@@ -506,6 +527,10 @@ rejseplanen.tns-gallup.dk
 #
 rtl.met.vgwort.de
 #
+# samvirke.tns-dk.2cnt.net disguised trackers
+#
+samvirke.tns-gallup.dk
+#
 # shippingwatch.tns-dk.2cnt.net disguised trackers
 #
 shippingwatch.tns-gallup.dk
@@ -540,6 +565,10 @@ ssl-altiboxstream.tns-gallup.dk
 ssl-eurosportandroidstream.tns-gallup.dk
 ssl-viafreeandroidstream.tns-gallup.dk
 ssl-viafreestream.tns-gallup.dk
+#
+# ssl-altiboxstream.tns-dk.2cnt.net disguised trackers
+#
+ssl-altiboxstream.tns-gallup.dk
 #
 # ssl-altinget.tns-dk.2cnt.net disguised trackers
 #
@@ -681,6 +710,10 @@ ssl-drhbbtv.tns-gallup.dk
 # ssl-driosstream.tns-dk.2cnt.net disguised trackers
 #
 ssl-driosstream.tns-gallup.dk
+#
+# ssl-drtv-appletv.tns-dk.2cnt.net disguised trackers
+#
+ssl-drtv-appletv.tns-gallup.dk
 #
 # slb-tns-dk-pool04.tns-dk.2cnt.net disguised trackers
 #
@@ -864,10 +897,6 @@ ssl-krak.tns-gallup.dk
 #
 ssl-kristeligtdagblad.tns-gallup.dk
 #
-# ssl-ksta.vgwort-de.2cnt.net disguised trackers
-#
-ssl-ksta.met.vgwort.de
-#
 # ssl-lokalavisen.tns-dk.2cnt.net disguised trackers
 #
 ssl-lokalavisen.tns-gallup.dk
@@ -1000,6 +1029,10 @@ ssl-stepstone.tns-gallup.dk
 #
 ssl-t-online.met.vgwort.de
 #
+# ssl-tagesspiegel.vgwort-de.2cnt.net disguised trackers
+#
+ssl-tagesspiegel.met.vgwort.de
+#
 # ssl-teltarif.vgwort-de.2cnt.net disguised trackers
 #
 ssl-teltarif.met.vgwort.de
@@ -1065,6 +1098,10 @@ ssl-vdonline.tns-gallup.dk
 #
 ssl-vg03.met.vgwort.de
 #
+# ssl-viaplaystream.tns-dk.2cnt.net disguised trackers
+#
+ssl-viaplaystream.tns-gallup.dk
+#
 # ssl-videnskab.tns-dk.2cnt.net disguised trackers
 #
 ssl-videnskab.tns-gallup.dk
@@ -1114,9 +1151,17 @@ stiften.tns-gallup.dk
 #
 storedk.tns-gallup.dk
 #
+# suite101.vgwort-de.2cnt.net disguised trackers
+#
+suite101.met.vgwort.de
+#
 # sz.vgwort-de.2cnt.net disguised trackers
 #
 sz.met.vgwort.de
+#
+# t-online.vgwort-de.2cnt.net disguised trackers
+#
+t-online.met.vgwort.de
 #
 # tagesspiegel.vgwort-de.2cnt.net disguised trackers
 #
@@ -1198,10 +1243,6 @@ viborgfolkeblad.tns-gallup.dk
 #
 videnskab.tns-gallup.dk
 #
-# vision.vgwort-de.2cnt.net disguised trackers
-#
-vision.met.vgwort.de
-#
 # viunge.tns-dk.2cnt.net disguised trackers
 #
 viunge.tns-gallup.dk
@@ -1218,13 +1259,13 @@ waz.met.vgwort.de
 #
 weeka-eavis.tns-gallup.dk
 #
+# weka.vgwort-de.2cnt.net disguised trackers
+#
+weka.met.vgwort.de
+#
 # wiley.vgwort-de.2cnt.net disguised trackers
 #
 wiley.met.vgwort.de
-#
-# wolterskluwer.vgwort-de.2cnt.net disguised trackers
-#
-wolterskluwer.met.vgwort.de
 #
 # youseeiosstream.tns-dk.2cnt.net disguised trackers
 #

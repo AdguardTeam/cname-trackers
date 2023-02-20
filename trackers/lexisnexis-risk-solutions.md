@@ -574,7 +574,6 @@
     * h-vodeno.online-metrix.net
     * h-voto-provident.online-metrix.net
     * h-vrs.online-metrix.net
-    * h-vystar.online-metrix.net
     * h-wallapop.online-metrix.net
     * h-walmart.online-metrix.net
     * h-webftm.rbc.online-metrix.net
@@ -718,6 +717,7 @@
 | im2.prod.amount.com | h-amount.online-metrix.net |
 | intm.amwager.com | h-amwager.online-metrix.net |
 | analytics.amrcollection.com | h-analytics.triseptsolutions.online-metrix.net |
+| analytics.applevacations.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.beachbound.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.breathlessresorts.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.cheapcaribbean.com | h-analytics.triseptsolutions.online-metrix.net |
@@ -1237,7 +1237,6 @@
 | t.onlinebanking.american1cu.org | h-pscu.online-metrix.net |
 | t.onlinebanking.consumerscu.org | h-pscu.online-metrix.net |
 | t.onlinebanking.firstmarkcu.org | h-pscu.online-metrix.net |
-| t.prod-online.redwoodcu.org | h-pscu.online-metrix.net |
 | t.safe.bcu.org | h-pscu.online-metrix.net |
 | t.secure.ascend.org | h-pscu.online-metrix.net |
 | t.secure.selco.org | h-pscu.online-metrix.net |
@@ -1366,6 +1365,7 @@
 | hfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | ifp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | jfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
+| kfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | yfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | frp.intuit.com | h-v60nf4oj.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |
@@ -1383,7 +1383,6 @@
 | fp.aion.be | h-vodeno.online-metrix.net |
 | voto.provident.pl | h-voto-provident.online-metrix.net |
 | content.varetire.org | h-vrs.online-metrix.net |
-| ep.vystarcu.org | h-vystar.online-metrix.net |
 | clear.wallapop.com | h-wallapop.online-metrix.net |
 | drfdisvc.walmart.com | h-walmart.online-metrix.net |
 | webftm.rbc.com | h-webftm.rbc.online-metrix.net |
@@ -1426,6 +1425,7 @@
 | fraudcheck.walmart.ca | h.online-metrix.net |
 | gateway.jmbullion.com | h.online-metrix.net |
 | h.greenmangaming.com | h.online-metrix.net |
+| ons.tickets.com | h.online-metrix.net |
 | portal-fp-qa1.qa.threatmetrix.com | qa1-h.online-metrix.net |
 | portal-fp-qa2.qa.threatmetrix.com | qa2-h.online-metrix.net |
 | portal-fp-qaperf2.qa.threatmetrix.com | qaperf2-h.online-metrix.net |

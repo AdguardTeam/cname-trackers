@@ -30,6 +30,7 @@ a.weareknitters.co.uk
 a.weareknitters.com
 a.weareknitters.dk
 a.weareknitters.nl
+a.weareknitters.pl
 a.weareknitters.se
 a8ht.hipp.fr
 ab.perfumesclub.com
@@ -39,6 +40,7 @@ alp1.drimki.fr
 am.belambra.com
 anz7.allianz-voyage.fr
 aod4.societegenerale.fr
+ar.allrun.fr
 ar.i-run.fr
 azg1.emalu-store.com
 bch8.destinia.co
@@ -106,6 +108,7 @@ ea.francoisesaget.com
 ea.franziskasager.de
 ea.greenweez.com
 ea.greenweez.de
+ea.greenweez.eu
 ea.habitat.de
 ea.habitat.fr
 ea.handsenderplus.com
@@ -127,7 +130,6 @@ ea.millet-mountain.com
 ea.millet-mountain.de
 ea.millet.fr
 ea.mistergatesdirect.com
-ea.mnt.fr
 ea.moncornerdeco.com
 ea.mondial-assistance.fr
 ea.mydailyhotel.com
@@ -172,6 +174,7 @@ eit3.destinia.nl
 ek8.voyage-prive.com
 elc1.energies.leclerc
 elr.sfr.fr
+erb.tremblant.ca
 ert5.rmcsport.tv
 et.sncf.com
 et.swatch.com
@@ -267,7 +270,6 @@ lsv5.belambra.fr
 ltm6.destinia.se
 ly8c.caci-online.fr
 lzuc.sfr.fr
-m10.m1029.com
 m3ds.subarumetropolitain.com
 mfd.myfirstdressing.com
 mgt7.madeindesign.it
@@ -426,6 +428,7 @@ vgo.vegaoo.nl
 vgo.vegaoo.pt
 vgo.vegaooparty.com
 vgo.vegaoopro.com
+vi.adviso.ca
 vnl1.voyage-prive.nl
 vpf4.euskaltelofertas.com
 vpl.voyage-prive.pl
@@ -435,6 +438,7 @@ vs.verisure.fr
 vtf2f.banque-casino.fr
 why3.inseec.education
 wlp3.aegon.es
+wnd2.destinia.cat
 wph2.destinia.us
 www.fasttrack.fr
 xay5o.toscane-boutique.fr
@@ -470,6 +474,10 @@ m10.m1029.com
 nym5c.bonlook.com
 ry0.rythmefm.com
 t0y.toyota.ca
+#
+# e.emailretargeting.com disguised trackers
+#
+ea.mnt.fr
 #
 # bca.ca-eulerian.net disguised trackers
 #

@@ -58,6 +58,7 @@
     * 30a5817d-lkhaegjw.cname.ebis.ne.jp
     * 3161a54f-5b4wkpdw.cname.ebis.ne.jp
     * 31e48120-fbzwhcnp.cname.ebis.ne.jp
+    * 32733dbb-an5megta.cname.ebis.ne.jp
     * 337c50cc-ztaqjkmm.cname.ebis.ne.jp
     * 34213ab6-xnj2xrq7.cname.ebis.ne.jp
     * 359e2360-u9necda2.cname.ebis.ne.jp
@@ -100,6 +101,7 @@
     * 538e5738-scxitlgt.cname.ebis.ne.jp
     * 54defe46-yfrcguru.cname.ebis.ne.jp
     * 56a8082e-yfrcguru.cname.ebis.ne.jp
+    * 5913445d-scxitlgt.cname.ebis.ne.jp
     * 5c4367ff-jngsetpd.cname.ebis.ne.jp
     * 5d577e49-9tqftzkm.cname.ebis.ne.jp
     * 5dec3cb3-day5axk4.cname.ebis.ne.jp
@@ -160,6 +162,7 @@
     * 95e65062-vpau4sdp.cname.ebis.ne.jp
     * 95e65062-y5awr3vc.cname.ebis.ne.jp
     * 98123393-x6zeryuc.cname.ebis.ne.jp
+    * 98433855-mndzrztt.cname.ebis.ne.jp
     * 98463bc9-scxitlgt.cname.ebis.ne.jp
     * 98d6d446-llbfadyx.cname.ebis.ne.jp
     * 9b82c7fc-jpe7blqe.cname.ebis.ne.jp
@@ -332,6 +335,7 @@
 | adebis-morijuku.morijuku.com | 30a5817d-lkhaegjw.cname.ebis.ne.jp |
 | ebis.kimonoichiba.com | 3161a54f-5b4wkpdw.cname.ebis.ne.jp |
 | cname-ade.hankoya.com | 31e48120-fbzwhcnp.cname.ebis.ne.jp |
+| adebis.wii-clinic.jp | 32733dbb-an5megta.cname.ebis.ne.jp |
 | adebis.afc-shop.com | 337c50cc-ztaqjkmm.cname.ebis.ne.jp |
 | adebis.report.clinic | 34213ab6-xnj2xrq7.cname.ebis.ne.jp |
 | adebis.tipness.co.jp | 359e2360-u9necda2.cname.ebis.ne.jp |
@@ -374,6 +378,7 @@
 | cs0010sbeda.theory-kumatarumi.com | 538e5738-scxitlgt.cname.ebis.ne.jp |
 | ebis.samurai271.com | 54defe46-yfrcguru.cname.ebis.ne.jp |
 | ebis.funai-ma.com | 56a8082e-yfrcguru.cname.ebis.ne.jp |
+| cs2113sbeda.hokto-onlineshop.jp | 5913445d-scxitlgt.cname.ebis.ne.jp |
 | cnameebis.eizoshigoto.com | 5c4367ff-jngsetpd.cname.ebis.ne.jp |
 | ebis.care-tensyoku.com | 5d577e49-9tqftzkm.cname.ebis.ne.jp |
 | ebis.re-shop.jp | 5dec3cb3-day5axk4.cname.ebis.ne.jp |
@@ -434,6 +439,7 @@
 | adebis.juku.st | 95e65062-vpau4sdp.cname.ebis.ne.jp |
 | adebis02.juku.st | 95e65062-y5awr3vc.cname.ebis.ne.jp |
 | cnameforitp.dermed.jp | 98123393-x6zeryuc.cname.ebis.ne.jp |
+| adebis.reruju.com | 98433855-mndzrztt.cname.ebis.ne.jp |
 | cs0010sbeda.theory-clinic.com | 98463bc9-scxitlgt.cname.ebis.ne.jp |
 | ebiscname.j-esthe.com | 98d6d446-llbfadyx.cname.ebis.ne.jp |
 | adebis.bbb-life.jp | 9b82c7fc-jpe7blqe.cname.ebis.ne.jp |

@@ -5,8 +5,10 @@
 ;
 abttss-ur.exolkkl6i2puvf.ru CNAME .
 ac-dir-co.cau1aighae.com CNAME .
+ac-dir-co.xw1fx50x35.com CNAME .
 ac-dir-latam.cau1aighae.com CNAME .
 ac-dir-sing.cau1aighae.com CNAME .
+ac-dir-sing.xw1fx50x35.com CNAME .
 adsbid-ad-click.adsbid.ru CNAME .
 adsbid-buyout.adghndou0sdh.ru CNAME .
 adsbid-buyout.adsbid.ru CNAME .
@@ -21,20 +23,27 @@ arvb.ewtcbedtmx.ru CNAME .
 arvb.gamz48qlok.ru CNAME .
 avb-co.cau1aighae.com CNAME .
 avb-co.iemieshohx.com CNAME .
+avb-co.xw1fx50x35.com CNAME .
 avb-latam.cau1aighae.com CNAME .
+avb-latam.xw1fx50x35.com CNAME .
 avb-sing.13wynpuurt.ru CNAME .
 avb-sing.cau1aighae.com CNAME .
 avb-sing.ewtcbedtmx.ru CNAME .
+avb-sing.xw1fx50x35.com CNAME .
 avbr.13wynpuurt.ru CNAME .
 avbr.c97eaqj38e.ru CNAME .
 di-res-latam.cau1aighae.com CNAME .
+di-res-latam.xw1fx50x35.com CNAME .
 di-res-sing.cau1aighae.com CNAME .
+di-res-sing.xw1fx50x35.com CNAME .
 di-res.cau1aighae.com CNAME .
 di-res.iemieshohx.com CNAME .
+di-res.xw1fx50x35.com CNAME .
 dsp-image-resizer.3grg8dqjil.ru CNAME .
 dsp-image-resizer.adsbid.ru CNAME .
 dsp-image-resizer.gamz48qlok.ru CNAME .
 latam.cau1aighae.com CNAME .
+latam.xw1fx50x35.com CNAME .
 lk-api-beta.ads2.bid CNAME .
 sing.3h1fpq39jb.ru CNAME .
 sing.cau1aighae.com CNAME .
@@ -42,5 +51,6 @@ sing.iemieshohx.com CNAME .
 sing.qkyb8htwd9.ru CNAME .
 sing.r2j97oxqvr.ru CNAME .
 sing.wcoeaykv78.ru CNAME .
+sing.xw1fx50x35.com CNAME .
 sing.zd4mfmk10b.ru CNAME .
 vitrina-ad-click.adghndou0sdh.ru CNAME .

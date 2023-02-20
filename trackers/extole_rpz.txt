@@ -176,6 +176,7 @@ refer.childrensplace.com CNAME .
 refer.cinemark.com CNAME .
 refer.clarksusa.com CNAME .
 refer.codecademy.com CNAME .
+refer.colemancanada.ca CNAME .
 refer.comfortzoneskin.com CNAME .
 refer.competitivecyclist.com CNAME .
 refer.contiki.com CNAME .
@@ -261,6 +262,7 @@ refer.panerabread.com CNAME .
 refer.perriconemd.com CNAME .
 refer.pimsleur.com CNAME .
 refer.potterybarn.com CNAME .
+refer.prettyballerinas.co.uk CNAME .
 refer.prettyballerinas.es CNAME .
 refer.princess.com CNAME .
 refer.prokeds.com CNAME .
@@ -306,6 +308,7 @@ refer.thecompanystore.com CNAME .
 refer.theinside.com CNAME .
 refer.thepopcornfactory.com CNAME .
 refer.thesculptsociety.com CNAME .
+refer.thewalkingcompany.com CNAME .
 refer.thewildest.com CNAME .
 refer.tomorrowsleep.com CNAME .
 refer.tous.com CNAME .
@@ -369,6 +372,7 @@ share.caller.com CNAME .
 share.calvinklein.us CNAME .
 share.carparts.com CNAME .
 share.cefaly.com CNAME .
+share.cellcom.ca CNAME .
 share.cheaperthandirt.com CNAME .
 share.chewsidental.com CNAME .
 share.cityfurniture.com CNAME .
@@ -479,6 +483,7 @@ share.tcpalm.com CNAME .
 share.teachersfcu.org CNAME .
 share.theory.com CNAME .
 share.theoryoutlet.com CNAME .
+share.theprisonerwinecompany.com CNAME .
 share.tillys.com CNAME .
 share.tommy.com CNAME .
 share.trafalgar.com CNAME .

@@ -18,6 +18,7 @@ at.badische-zeitung.de CNAME .
 atconnect.npo.nl CNAME .
 ati-a1.946d001b783803c1.xhst.bbci.co.uk CNAME .
 ati.sazka.cz CNAME .
+aud.banque-france.fr CNAME .
 avocado.laprovence.com CNAME .
 avp.labanquepostale.fr CNAME .
 blava.viessmann.sk CNAME .

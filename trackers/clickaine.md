@@ -13,6 +13,7 @@
 | ad.aflamk1.net | api.clickaine.com |
 | ad.arabxl.com | api.clickaine.com |
 | ad1.xero.porn | api.clickaine.com |
+| adb.xfilm.me | api.clickaine.com |
 | api.mgandzd.one | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
 | api.willalland.info | api.clickaine.com |
@@ -20,12 +21,12 @@
 | app.rtnews.pro | api.clickaine.com |
 | app.willalland.info | api.clickaine.com |
 | asg.animeyt.es | api.clickaine.com |
+| asg.torocomoroco.work | api.clickaine.com |
 | axx.aflamk1.net | api.clickaine.com |
 | c.gotoxxxtube.com | api.clickaine.com |
 | c0n.snaggys.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c2n.pornez.net | api.clickaine.com |
-| c4n.21hub.com | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
 | c4n.bigxxxsex.com | api.clickaine.com |
 | c4n.hotjavmovies.com | api.clickaine.com |
@@ -55,7 +56,6 @@
 | cc2.camcaps.io | api.clickaine.com |
 | cdm.uncensored-hentai.top | api.clickaine.com |
 | cdn1.memojav.com | api.clickaine.com |
-| cg3.ilovejav.club | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |
 | cli.its2.net | api.clickaine.com |
 | clickc4n.pornharlot.net | api.clickaine.com |
@@ -69,6 +69,7 @@
 | ddd.sexstories69.com | api.clickaine.com |
 | dnsbl.test.ww1.willalland.info | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
+| f4r.deutschepornos49.com | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flare.vtube.to | api.clickaine.com |
 | get.xclick24.com | api.clickaine.com |
@@ -81,7 +82,6 @@
 | icn.brandnewapp.pro | api.clickaine.com |
 | mail.7porn.ru | api.clickaine.com |
 | ps1.reallifecam.to | api.clickaine.com |
-| ps2.camcaps.to | api.clickaine.com |
 | reg.ancensored.com | api.clickaine.com |
 | route69.watchporn.to | api.clickaine.com |
 | s1.rtnews.pro | api.clickaine.com |

@@ -29,6 +29,7 @@ activate.loft.com
 activate.maurices.com
 activate.mcall.com
 activate.mdgazette.com
+activate.napersun.com
 activate.nydailynews.com
 activate.orlandosentinel.com
 activate.pacificsandiego.com
@@ -192,6 +193,7 @@ ensighten.bhphoto.com
 ensighten.ccnag.com
 ensighten.coop.co.uk
 ensighten.davidyurman.com
+ensighten.filmstruck.com
 ensighten.heineken.co.za
 ensighten.heishop.com.br
 ensighten.heishop.mx

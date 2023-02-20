@@ -21,8 +21,8 @@
 1xejnhs1zd1.staging.aporia.com
 1y10lvb64mr.www.freecodecamp.dev
 1zzs6w25i8n.tube.inflatevids.xyz
-2107wrlgff5.development.taxmachine.be
 25ix8gm8ien.sandbox.panprices.com
+25wyma1mavl.my.staging.gloryleague.basketball
 2829i2p88jx.www.csaladinet.hu
 2aa6f9qgrh9.acc.evservice.nl
 2e718yf5jypb.test.digitalsurge.io
@@ -37,7 +37,6 @@
 78rkcgj4i8c6.www.cefirates.com
 8ehhtsv9bo7i.monkeylearn.com
 9kkjfywjz50v.www.eventus.io
-9nvbnjpr03jt.kvest.ee
 9uim1pc4ej4n.ru.themoneytizer.com
 ac9kpxbans1l.staging.unstoppabledomains.com
 am3s622gcd6m.tt.live
@@ -48,6 +47,7 @@ b536mpmxoqxa.www.themoneytizer.com
 b5j6itccyluq.nofluffjobs.com
 bygr2ri20e4y.li.finance
 cihnqp6p65.koinly.io
+cqsecshf4rd9.www.tracktheta.com
 cqz6fn6aox.aporia.com
 din1j0su0u99.artwallstreet.io
 dlziqh9bo7.boring.fm
@@ -97,6 +97,7 @@ twn36gx4109r.loveisblank.com
 u0crsrah75fy.camberlion.com
 uhm26jyr11zv.www.freecodecamp.org
 unl1zvy2zuyn.franchiseplus.nl
+vb9tl00evxca.www.academy.gen.tech
 vzal21mooz.hyperwrite.ai
 w38ju82bano4.cv.gerardbosch.xyz
 wayyaj8t094u.www.kodalia.com

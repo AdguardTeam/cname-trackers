@@ -176,6 +176,7 @@
 ||refer.cinemark.com^
 ||refer.clarksusa.com^
 ||refer.codecademy.com^
+||refer.colemancanada.ca^
 ||refer.comfortzoneskin.com^
 ||refer.competitivecyclist.com^
 ||refer.contiki.com^
@@ -261,6 +262,7 @@
 ||refer.perriconemd.com^
 ||refer.pimsleur.com^
 ||refer.potterybarn.com^
+||refer.prettyballerinas.co.uk^
 ||refer.prettyballerinas.es^
 ||refer.princess.com^
 ||refer.prokeds.com^
@@ -306,6 +308,7 @@
 ||refer.theinside.com^
 ||refer.thepopcornfactory.com^
 ||refer.thesculptsociety.com^
+||refer.thewalkingcompany.com^
 ||refer.thewildest.com^
 ||refer.tomorrowsleep.com^
 ||refer.tous.com^
@@ -369,6 +372,7 @@
 ||share.calvinklein.us^
 ||share.carparts.com^
 ||share.cefaly.com^
+||share.cellcom.ca^
 ||share.cheaperthandirt.com^
 ||share.chewsidental.com^
 ||share.cityfurniture.com^
@@ -479,6 +483,7 @@
 ||share.teachersfcu.org^
 ||share.theory.com^
 ||share.theoryoutlet.com^
+||share.theprisonerwinecompany.com^
 ||share.tillys.com^
 ||share.tommy.com^
 ||share.trafalgar.com^

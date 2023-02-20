@@ -8,6 +8,7 @@ a3.hotpornfile.org CNAME .
 ad.aflamk1.net CNAME .
 ad.arabxl.com CNAME .
 ad1.xero.porn CNAME .
+adb.xfilm.me CNAME .
 api.mgandzd.one CNAME .
 api.rtnews.pro CNAME .
 api.willalland.info CNAME .
@@ -15,12 +16,12 @@ api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
 app.willalland.info CNAME .
 asg.animeyt.es CNAME .
+asg.torocomoroco.work CNAME .
 axx.aflamk1.net CNAME .
 c.gotoxxxtube.com CNAME .
 c0n.snaggys.com CNAME .
 c0n.tubestash.com CNAME .
 c2n.pornez.net CNAME .
-c4n.21hub.com CNAME .
 c4n.asianpinay.com CNAME .
 c4n.bigxxxsex.com CNAME .
 c4n.hotjavmovies.com CNAME .
@@ -50,7 +51,6 @@ cc.sexverhalen-gratis.com CNAME .
 cc2.camcaps.io CNAME .
 cdm.uncensored-hentai.top CNAME .
 cdn1.memojav.com CNAME .
-cg3.ilovejav.club CNAME .
 ck.zzipps.com CNAME .
 cli.its2.net CNAME .
 clickc4n.pornharlot.net CNAME .
@@ -64,6 +64,7 @@ ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dnsbl.test.ww1.willalland.info CNAME .
 drt.cliomovies.com CNAME .
+f4r.deutschepornos49.com CNAME .
 faq.brandnewapp.pro CNAME .
 flare.vtube.to CNAME .
 get.xclick24.com CNAME .
@@ -76,7 +77,6 @@ hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
 mail.7porn.ru CNAME .
 ps1.reallifecam.to CNAME .
-ps2.camcaps.to CNAME .
 reg.ancensored.com CNAME .
 route69.watchporn.to CNAME .
 s1.rtnews.pro CNAME .

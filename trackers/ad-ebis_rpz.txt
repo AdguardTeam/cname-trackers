@@ -75,6 +75,7 @@ adebis.nursery.co.jp CNAME .
 adebis.qeee.jp CNAME .
 adebis.real-style.co.jp CNAME .
 adebis.report.clinic CNAME .
+adebis.reruju.com CNAME .
 adebis.satori.marketing CNAME .
 adebis.sbishinseibank.co.jp CNAME .
 adebis.sbpayment.jp CNAME .
@@ -89,6 +90,7 @@ adebis.toitoitoi.clinic CNAME .
 adebis.tokyuhotels.co.jp CNAME .
 adebis.toushi-up.com CNAME .
 adebis.urban-research.jp CNAME .
+adebis.wii-clinic.jp CNAME .
 adebis.zenyaku-hbshop.com CNAME .
 adebis01.job-con.jp CNAME .
 adebis02.juku.st CNAME .
@@ -141,6 +143,7 @@ cs0010sbeda.theory-clinic.com CNAME .
 cs0010sbeda.theory-diet.com CNAME .
 cs0010sbeda.theory-kumatarumi.com CNAME .
 cs1863sbeda.glaucoma-arrest.net CNAME .
+cs2113sbeda.hokto-onlineshop.jp CNAME .
 cvs.kireimo.jp CNAME .
 d-kint.d-kintetsu.co.jp CNAME .
 digital.anicom-sompo.co.jp CNAME .

@@ -116,6 +116,7 @@
     * 671130969507772.wt-eu02.net
     * 676623818960096.wt-eu02.net
     * 693380235006292.wt-eu02.net
+    * 697968943875320.wt-eu02.net
     * 709114798683263.wt-eu02.net
     * 724547646438858.wt-eu02.net
     * 728252369996325.wt-eu02.net
@@ -315,6 +316,7 @@
 | mapp.jysk.nl | 671130969507772.wt-eu02.net |
 | web.pages.lloydspharmacy.com | 676623818960096.wt-eu02.net |
 | web.news.dixiefashion.com | 693380235006292.wt-eu02.net |
+| mit.dslbank.de | 697968943875320.wt-eu02.net |
 | web.info.bonprix.es | 709114798683263.wt-eu02.net |
 | web.campaign.miriade.com | 724547646438858.wt-eu02.net |
 | data.campaign.toyscenter.it | 728252369996325.wt-eu02.net |
@@ -383,6 +385,7 @@
 | data.vdi-wissensforum.de | data-vdi-wissen01.wt-eu02.net |
 | wbtrkk.deutschlandcard.de | de-card01.wt-eu02.net |
 | di.ifolor.at | di.ifolor.wt-eu02.net |
+| di.ifolor.be | di.ifolor.wt-eu02.net |
 | di.ifolor.ch | di.ifolor.wt-eu02.net |
 | di.ifolor.de | di.ifolor.wt-eu02.net |
 | di.ifolor.dk | di.ifolor.wt-eu02.net |

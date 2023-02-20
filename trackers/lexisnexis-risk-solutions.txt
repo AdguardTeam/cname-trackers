@@ -10,6 +10,7 @@
 ||acsweb-3dr1.dnp-cdms.jp^
 ||afp.intuit.com^
 ||analytics.amrcollection.com^
+||analytics.applevacations.com^
 ||analytics.beachbound.com^
 ||analytics.breathlessresorts.com^
 ||analytics.cheapcaribbean.com^
@@ -356,7 +357,6 @@
 ||dvc0271.play.jackpocket.com^
 ||ela1.bankofscotland.co.uk^
 ||enligne.bnc.ca^
-||ep.vystarcu.org^
 ||event.evtm.53.com^
 ||ex.exnessstats.com^
 ||faas.2dehands.be^
@@ -444,6 +444,7 @@
 ||jj203.equitablebank.ca^
 ||jplspr.jackpot.com^
 ||jytrnq.cm-cic.com^
+||kfp.intuit.com^
 ||lab4.lloydsbank.com^
 ||ln.meudigio.com.br^
 ||lndata.labor.maryland.gov^
@@ -488,6 +489,7 @@
 ||online.nbc.ca^
 ||onlineapplications.anz.com^
 ||onlinemetrix.liverpool.com.mx^
+||ons.tickets.com^
 ||optm.optus.com.au^
 ||osn-cirrus.cas.org^
 ||pafms.ocbc.com^
@@ -637,7 +639,6 @@
 ||t.onlinebanking.american1cu.org^
 ||t.onlinebanking.consumerscu.org^
 ||t.onlinebanking.firstmarkcu.org^
-||t.prod-online.redwoodcu.org^
 ||t.safe.bcu.org^
 ||t.secure.ascend.org^
 ||t.secure.selco.org^
