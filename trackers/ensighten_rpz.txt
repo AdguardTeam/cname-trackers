@@ -175,6 +175,7 @@ dc.sterlingjewelers.com CNAME .
 dc.stokke.com CNAME .
 dc.volkswagen.com CNAME .
 dc.zales.com CNAME .
+dc.zalesoutlet.com CNAME .
 dcf.espn.com CNAME .
 dcf.espn.com.pe CNAME .
 dcfdata.espn.com CNAME .
@@ -183,11 +184,13 @@ dsg.activate.ensighten.com CNAME .
 eb.trbas.com CNAME .
 emetrics.eastwestbank.com CNAME .
 ens-orlet.activate.ensighten.com CNAME .
+ens.bote.ch CNAME .
 ens.luzernerzeitung.ch CNAME .
 ens.nidwaldnerzeitung.ch CNAME .
 ens.nzz.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.themarket.ch CNAME .
+ens.urnerzeitung.ch CNAME .
 ensighten.airnewzealand.co.uk CNAME .
 ensighten.bhphoto.com CNAME .
 ensighten.ccnag.com CNAME .
@@ -296,6 +299,7 @@ tags.wyndhamhotels.com CNAME .
 tam.volkswagen.com CNAME .
 tdi.cartoonnetwork.com CNAME .
 test3-dc.jared.com CNAME .
+test3-dc.kayoutlet.com CNAME .
 test3-dc.sterlingjewelers.com CNAME .
 tm.hdmtools.com CNAME .
 tms-test.nab.com.au CNAME .

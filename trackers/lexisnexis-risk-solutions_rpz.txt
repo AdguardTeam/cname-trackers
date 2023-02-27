@@ -60,7 +60,6 @@ cdn.bambusystems.com CNAME .
 cdn.coastcapitalsavings.com CNAME .
 cdn.gusto.com CNAME .
 cdn1.f-cdn.com CNAME .
-cdn1.onecalldirect.co.uk CNAME .
 cdn1.skrill.com CNAME .
 cdn1.svbconnect.com CNAME .
 cdn1.thm.bankofmelbourne.com.au CNAME .
@@ -427,6 +426,7 @@ img3.budget.com CNAME .
 img3.forte.net CNAME .
 img3.paylesscar.com CNAME .
 img4.cargurus.com CNAME .
+img4.nbpa.com CNAME .
 img4.portal.citidirect.com CNAME .
 img4.uscellular.com CNAME .
 img9.target.com CNAME .
@@ -465,6 +465,7 @@ m-profiling.cibc.com CNAME .
 m-profiling.simplii.com CNAME .
 m.vnforapps.com CNAME .
 matrix.cpg.org CNAME .
+mbrstat.mywoodmen.org CNAME .
 meiodepagamento.campanhaporto.com.br CNAME .
 membership-device.secured-igaming-services.com CNAME .
 metrics.myfrs.com CNAME .
@@ -480,6 +481,7 @@ mobsessions.worldremit.com CNAME .
 nav.sciencedirect.com CNAME .
 neo.fashionette.de CNAME .
 nexus-svc.sc.com CNAME .
+nv-2.liveaction.com CNAME .
 ocs.ameriprise.com CNAME .
 offtest.fnfis.com CNAME .
 ola2.tdameritrade.com CNAME .
@@ -505,15 +507,18 @@ phyon.visit-x.net CNAME .
 piafapp.poste.it CNAME .
 plr.scb-payments.net CNAME .
 pn1927.coutts.com CNAME .
+pn1927.natwestplus.com CNAME .
 portal-fp-qa1.qa.threatmetrix.com CNAME .
 portal-fp-qa2.qa.threatmetrix.com CNAME .
 portal-fp-qaperf2.qa.threatmetrix.com CNAME .
 portal-fp.threatmetrix.com CNAME .
 pov.spectrum.net CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
+prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
 profiling.qacitizensbankonline.com CNAME .
 ptm.creditas.com CNAME .
+public-check3-at.test.tiaa-cref.org CNAME .
 public-check3-at.test.tiaa.org CNAME .
 qa-check3.qa.everbank.com CNAME .
 qrimages.qatarairways.com CNAME .
@@ -530,7 +535,9 @@ rba-screen.myhealthcareview.com CNAME .
 rba-screen.myuhc.com CNAME .
 rba-screen.optum.com CNAME .
 rba-screen.optumbank.com CNAME .
+rba-screen.optumfinancial.com CNAME .
 rba.apata.io CNAME .
+rba.infinitium.com CNAME .
 rba.login.agentmessagecenter.optum.com CNAME .
 rba.login.mahix.org CNAME .
 rba.onehealthcareid.com CNAME .
@@ -666,6 +673,7 @@ tags.bankline.natwest.com CNAME .
 tags.bankline.rbs.com CNAME .
 tags.bankline.ulsterbank.co.uk CNAME .
 tags.bankline.ulsterbank.ie CNAME .
+tags.currencypay.natwestmarkets.com CNAME .
 tags.dazn.com CNAME .
 tags.emirates.com CNAME .
 tags.eq.iombank.com CNAME .

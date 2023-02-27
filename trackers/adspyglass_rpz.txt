@@ -34,7 +34,6 @@ a.abismo-katheryne.top CNAME .
 a.acvx.host CNAME .
 a.antiadxxxspy.com CNAME .
 a.artamkari.com CNAME .
-a.ax.xxx CNAME .
 a.bitporno.com CNAME .
 a.bitporno.to CNAME .
 a.bloblohub.com CNAME .
@@ -54,7 +53,6 @@ a.hubhubhub.name CNAME .
 a.kagiti.club CNAME .
 a.katomu.club CNAME .
 a.letsjerk.org CNAME .
-a.letsjerk.to CNAME .
 a.letsjerk.tv CNAME .
 a.marketing.com.sd CNAME .
 a.naturalhealthsource.club CNAME .
@@ -75,6 +73,7 @@ a.travelbdnews.xyz CNAME .
 a.viralnewsbd.xyz CNAME .
 a.warddogs.com CNAME .
 a.xmanga.online CNAME .
+a.xxxrotator.com CNAME .
 a.zillastream.com CNAME .
 a5g.oves.biz CNAME .
 a9o.youlikeboys.com CNAME .
@@ -89,12 +88,10 @@ ad.emule-island.eu CNAME .
 ad.ttstreaming.stream CNAME .
 ad.wawacity.xyz CNAME .
 adanald.icu CNAME .
-adds.al3ably.com CNAME .
 adhome.icu CNAME .
 adilk.ilikecomix.com CNAME .
 ads.2conv.com CNAME .
 ads.49inchporn.club CNAME .
-ads.al3ably.com CNAME .
 ads.free-to.download CNAME .
 ads.hentaiheart.com CNAME .
 ads.onetouchtv.me CNAME .
@@ -115,7 +112,6 @@ ags.hobby.porn CNAME .
 all.shorterall.com CNAME .
 alt.fescity.com CNAME .
 amaz.emailon.top CNAME .
-amazingdomain.sbs CNAME .
 amazoni.lol CNAME .
 analik.icu CNAME .
 anti.nukedfans.com CNAME .
@@ -232,6 +228,7 @@ coco.rockdilla.com CNAME .
 coinbaze.lol CNAME .
 coinzba.mom CNAME .
 comp.aniplay.it CNAME .
+content.zbporn.com CNAME .
 cool.ah-me.com CNAME .
 cool.gaygo.tv CNAME .
 cool.sunporno.com CNAME .
@@ -243,7 +240,6 @@ d.bloblohub.com CNAME .
 dam.tucsun.mom CNAME .
 dashboard.fc2ppv.buzz CNAME .
 data.bangtubevideos.com CNAME .
-deliver.vkcdnservice.com CNAME .
 digiadzone.com CNAME .
 display.cdnbucket.com CNAME .
 dl.4kporn.xxx CNAME .
@@ -453,7 +449,6 @@ pub88.mom CNAME .
 pubbucks.homes CNAME .
 pubg.remiitano.xyz CNAME .
 px9.nuderedtube.com CNAME .
-q1.pornwex.tv CNAME .
 qatak.beauty CNAME .
 qhip.com CNAME .
 qoqv.com CNAME .
@@ -575,12 +570,12 @@ www.myxozilla.icu CNAME .
 www.p123p.com CNAME .
 www.u808i.com CNAME .
 www.upcdn.site CNAME .
-www.vkcdnservice.com CNAME .
 www.w00t.us CNAME .
 www.zqwe.ru CNAME .
 www4.hentaigamecg.com CNAME .
 www6.freeanimesource.com CNAME .
 www6.hentai-zone.com CNAME .
+www7.erogegames.com CNAME .
 www7.erogewiki.com CNAME .
 www8.upload-pics.com CNAME .
 www9.downloadani.me CNAME .
@@ -606,4 +601,4 @@ cdn.manhwadesu.me CNAME .
 ;
 ; u53.hypnorat.com disguised trackers
 ;
-qhip.com CNAME .
+h-ay.com CNAME .

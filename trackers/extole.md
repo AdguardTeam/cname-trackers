@@ -11,6 +11,7 @@
     * americanexpress.extole.com
     * ancestrydna.extole.com
     * aol.extole.com
+    * app.extole.com
     * backcountry.extole.com
     * barenecessities.extole.com
     * basictalk-ssl.extole.com
@@ -71,6 +72,7 @@
     * purchasingpower.extole.com
     * qalo.extole.com
     * referxoom.extole.com
+    * roadrunnersports-ssl.extole.com
     * sage-ssl.extole.com
     * sageca-ssl.extole.com
     * sharefile-ssl.extole.com
@@ -78,6 +80,7 @@
     * silvercar.extole.com
     * social.extole.com
     * sperry.extole.com
+    * staples.extole.com
     * talbots.extole.com
     * teacollection.extole.com
     * tenmarks.extole.com
@@ -130,6 +133,7 @@
     * aveda-au.extole.io
     * aveda-ca.extole.io
     * aveda.extole.io
+    * avocado-mattress.extole.io
     * ballarddesigns.extole.io
     * banana-republic.extole.io
     * bare-escentuals.extole.io
@@ -138,6 +142,7 @@
     * barharbor.extole.io
     * barnandwillow.extole.io
     * barnes-and-noble-college.extole.io
+    * basbleu.extole.io
     * bates.extole.io
     * baxterofcalifornia.extole.io
     * bbw.extole.io
@@ -216,12 +221,14 @@
     * etrade.extole.io
     * everlywell.extole.io
     * evine.extole.io
+    * evite.extole.io
     * experian.extole.io
     * extoleu.extole.io
     * fetchpet.extole.io
     * figo-pet-insurance.extole.io
     * fingercheck.extole.io
     * first-american-home-warranty.extole.io
+    * first-tech-federal.extole.io
     * firstleaf.extole.io
     * firstrepublic.extole.io
     * freshly-sandbox.extole.io
@@ -292,6 +299,7 @@
     * lending-club.extole.io
     * lenscrafters.extole.io
     * levi.extole.io
+    * lifedna.extole.io
     * lightstream.extole.io
     * little-passports.extole.io
     * livongo.extole.io
@@ -337,6 +345,7 @@
     * popcorn-factory.extole.io
     * pottery-barn.extole.io
     * princess.extole.io
+    * princesscruises.em.extole.io
     * princessuk.extole.io
     * prokeds.extole.io
     * promofarma.extole.io
@@ -373,6 +382,7 @@
     * shutterstock.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
+    * skillshare.extole.io
     * skinceuticals.extole.io
     * skyone-federal-credit-union.extole.io
     * sleepnumber.extole.io
@@ -380,6 +390,7 @@
     * snap-finance.extole.io
     * soma.extole.io
     * spothero.extole.io
+    * sstack.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -487,6 +498,7 @@
 | refer.aol.com | aol.extole.com |
 | refer.hpso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
+| refer.app.com | app.extole.com |
 | refer.art.com | artcom.extole.io |
 | refer.ashleyfurniture.com | ashleyfurniturehomestore.extole.io |
 | refer.ashleyfurniturehomestore.com | ashleyfurniturehomestore.extole.io |
@@ -500,6 +512,7 @@
 | share.refer-aveda.ca | aveda-ca.extole.io |
 | refer.aveda.com | aveda.extole.io |
 | share.refer-aveda.com | aveda.extole.io |
+| refer.avocadogreenmattress.com | avocado-mattress.extole.io |
 | refer.backcountry.com | backcountry.extole.com |
 | refer.ballarddesigns.com | ballarddesigns.extole.io |
 | refer.bananarepublic.com | banana-republic.extole.io |
@@ -511,6 +524,7 @@
 | refer.barnandwillow.com | barnandwillow.extole.io |
 | share.bncollege.com | barnes-and-noble-college.extole.io |
 | share.shoptruespirit.com | barnes-and-noble-college.extole.io |
+| refer.basbleu.com | basbleu.extole.io |
 | refer.basictalk.com | basictalk-ssl.extole.com |
 | refer.batesfootwear.com | bates.extole.io |
 | refer.baxterofcalifornia.com | baxterofcalifornia.extole.io |
@@ -617,13 +631,16 @@
 | refer.etrade.net | etrade.extole.io |
 | refer.everlywell.com | everlywell.extole.io |
 | share.evine.com | evine.extole.io |
+| refer.evite.com | evite.extole.io |
 | refer1.experian.com | experian.extole.io |
 | earn-and-refer.extoleu.com | extoleu.extole.io |
 | jessica-test-numero-dos.extoleu.com | extoleu.extole.io |
+| kenn.extoleu.com | extoleu.extole.io |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.figopetinsurance.com | figo-pet-insurance.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |
 | refer.fahw.com | first-american-home-warranty.extole.io |
+| refer.firsttechfed.com | first-tech-federal.extole.io |
 | share.firstleaf.club | firstleaf.extole.io |
 | share.firstleaf.com | firstleaf.extole.io |
 | refer.firstrepublic.com | firstrepublic.extole.io |
@@ -636,6 +653,7 @@
 | share.fullbay.com | fullbay.extole.io |
 | refer.fuzebox.com | fuzebox-ssl.extole.com |
 | refer.g2.com | g2.extole.io |
+| share.app.com | gannett.extole.io |
 | share.azcentral.com | gannett.extole.io |
 | share.caller.com | gannett.extole.io |
 | share.delawareonline.com | gannett.extole.io |
@@ -706,6 +724,7 @@
 | refer.johnson.ca | johnson.extole.com |
 | refer.join1440.com | join1440.extole.io |
 | refer.juicepress.com | juicepress.extole.io |
+| share.juicepress.com | juicepress.extole.io |
 | refer.julep.com | julep.extole.com |
 | share.juvlabs.com | juvlabs.extole.io |
 | refer.keds.com | keds.extole.io |
@@ -733,6 +752,7 @@
 | refer.lendingclub.com | lending-club.extole.io |
 | refer.lenscrafters.com | lenscrafters.extole.io |
 | share.levi.com | levi.extole.io |
+| share.lifedna.com | lifedna.extole.io |
 | refer.lightstream.com | lightstream.extole.io |
 | refer.littlepassports.com | little-passports.extole.io |
 | share.livongo.com | livongo.extole.io |
@@ -751,6 +771,7 @@
 | share.meettally.com | meettally.extole.io |
 | refer.merrell.com | merrell.extole.io |
 | refer.minted.com | minted.extole.io |
+| refer.mpgsport.ca | mondetta.extole.io |
 | refer.mpgsport.com | mondetta.extole.io |
 | refer.montgomeryadvertiser.com | montgomeryadvertiser.extole.com |
 | refer.moo.com | moo.extole.com |
@@ -802,6 +823,7 @@
 | refer.potterybarn.com | pottery-barn.extole.io |
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |
+| em1476.princesscruises.com | princesscruises.em.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
 | refer.prokeds.com | prokeds.extole.io |
 | share.docmorris.fr | promofarma.extole.io |
@@ -829,6 +851,7 @@
 | refer.remit2india.com | remit2india.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
 | share.riograndecu.org | rio-grande-credit-union.extole.io |
+| refer.roadrunnersports.com | roadrunnersports-ssl.extole.com |
 | refer.rockport.com | rockport.extole.io |
 | refer.rodo.com | rodo.extole.io |
 | share.ross-simons.com | ross-simons.extole.io |
@@ -855,6 +878,7 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
+| share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | refer.skyone.org | skyone-federal-credit-union.extole.io |
 | refer.sleepnumber.com | sleepnumber.extole.io |
@@ -864,6 +888,8 @@
 | refer.soma.com | soma.extole.io |
 | refer.sperry.com | sperry.extole.com |
 | refer.spothero.com | spothero.extole.io |
+| share.sstack.com | sstack.extole.io |
+| refer.staples.com | staples.extole.com |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |

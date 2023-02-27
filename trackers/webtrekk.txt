@@ -312,6 +312,7 @@
 ||webt.eleonto.com^
 ||webt.eu.teac-audio.com^
 ||webt.pure.com^
+||webt.store.okmilo.com^
 ||wetr.sportscheck.at^
 ||wetr.sportscheck.ch^
 ||wetr.sportscheck.com^

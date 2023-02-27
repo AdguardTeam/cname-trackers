@@ -53,13 +53,9 @@
 !
 ||4ke5b4ila.codedge.de^
 ||7wrxo2xh.iriscreative.co^
-||9kz9cttz76.antonsten.com^
 ||aardvark.helpingpets.org.uk^
-||aardvark.jimenezlinares.com^
 ||aardvark.mission-austria.at^
 ||aardvark.revolana.rs^
-||aardvark.steadybit.com^
-||aardvark.tonicaudio.com^
 ||aardvark.tracking.ovh^
 ||aardwolf.benbrignell.com^
 ||aardwolf.chrisblackwell.me^
@@ -68,11 +64,9 @@
 ||aj8md.johnhenry.ie^
 ||albatross.creacoon.com^
 ||albatross.ohseesoftware.com^
-||alpaca.miidbaby.com^
 ||alpaca.thesocialmedwork.com^
 ||alpaca.wingmantracker.com^
 ||amphibian.juergenhaller.at^
-||amphibian.pinestc.com^
 ||amphibian.studionimbus.nl^
 ||amphibian.tboa.club^
 ||anaconda.webitizeicts.com^
@@ -80,14 +74,11 @@
 ||angelfish.owlbear.rodeo^
 ||angelfish.shorehamlife.com^
 ||angelfish.wpsocialrocket.com^
-||anglerfish.luminfire.com^
-||anglerfish.pfolios.net^
 ||anglerfish.usdiversityjobsearch.com^
 ||ant.prefinery.com^
 ||anteater.audioadventuregame.com^
 ||anteater.slyvon.com^
 ||anteater.stella-projects.de^
-||anteater.webitize.com^
 ||antelope.gabriellaroche.dev^
 ||antelope.hoap.dev^
 ||antelope.itsluke.co.uk^
@@ -96,7 +87,6 @@
 ||antelope.u3a.com.au^
 ||antlion.codivores.com^
 ||antlion.hendrikhaack.de^
-||ape.mfj.se^
 ||ape.smartplanschema.se^
 ||aphid.thyself.me^
 ||armadillo.axeneo7.qc.ca^
@@ -133,6 +123,7 @@
 ||bee.andreawhitmer.com^
 ||bee.farmaciavdg.com^
 ||bee.jbkmobiledj.com^
+||bee.nfte.app^
 ||bird.brondby.com^
 ||bird.recruitkit.com.au^
 ||bird.webitizevoice.com^
@@ -209,7 +200,6 @@
 ||cat.tinylittlebusinesses.com^
 ||cat.weddingsabroad.com^
 ||caterpilla.ibon.live^
-||catfish.cividi.space^
 ||catfish.lucalabs.com^
 ||catfish.sofatido.ch^
 ||catshark.spur.design^
@@ -219,6 +209,7 @@
 ||cattle.driftbot.io^
 ||cattle.eprc.tools^
 ||cattle.kirkebaekke.dk^
+||cattle.kumo.at^
 ||cattle.mes-renovateurs.com^
 ||cattle.musikschule-bregenzerwald.at^
 ||cattle.spiral11.com^
@@ -309,6 +300,7 @@
 ||deer.ray.io^
 ||dingo.harmanly.com^
 ||dingo.moehring.dev^
+||dog.asianjobsearch.com^
 ||dog.christinamoore.us^
 ||dog.diversityinjobs.com^
 ||dog.franchisesocial.co.uk^
@@ -443,12 +435,14 @@
 ||grouse.ultimateballistics.com^
 ||guan.domainnamesanity.com^
 ||guan.elfenkueche.at^
+||guan.lathamcommunications.com^
 ||guanaco.jden.me^
 ||guanaco.redpixelthemes.com^
 ||guanaco.shelter.stream^
 ||guineapig.espressive.com^
 ||guineapig.recap.io^
 ||guineapig.themenaffin.de^
+||gull.abilitiesinjobs.com^
 ||gull.mayansmithgobat.com^
 ||guppy.ausowned.com.au^
 ||guppy.ironmic.fm^
@@ -474,7 +468,9 @@
 ||heron.notability.com^
 ||heron.oneaudiobooks.app^
 ||heron.scarletnoir.co^
+||herring.artemis.cloud^
 ||herring.panda.network^
+||hornet.energizer.co.za^
 ||hornet.jeffgable.com^
 ||hornet.newburycompanies.com^
 ||hornet.stechstudio.com^
@@ -502,10 +498,12 @@
 ||hyena.wearegray.co^
 ||i5ixiwch2f.themakersmob.com^
 ||iguana.delbaoliveira.com^
+||iguana.vivere.co^
 ||ijderu.tr.af^
 ||ijogkae.churchserviceplanner.co.uk^
 ||impala.misexpedientes.cloud^
 ||impala.vnv.nl^
+||ipgeaif.blairmacintyre.me^
 ||jackal.jakerunzer.com^
 ||jackal.laravelpackage.com^
 ||jackal.thetie.io^
@@ -597,6 +595,7 @@
 ||macaw.ianmitchell.dev^
 ||macaw.myvaluefactory.com^
 ||mackerel.fathom.cat^
+||magpie.onething.org^
 ||mammal.autoidle.com^
 ||manatee.biodom.bio^
 ||manatee.creativepassport.net^
@@ -605,7 +604,6 @@
 ||marlin.firstline.org^
 ||marmoset.easycolour.app^
 ||marmot.hippiemodernism.com^
-||marmot.ivymayhem.io^
 ||marmot.theshootingcentre.com^
 ||marsupial.dbcontractingltd.ca^
 ||marsupial.kymellis.co^
@@ -691,6 +689,7 @@
 ||partridge.unfamiliar.land^
 ||peacock.davidlevai.com^
 ||peacock.tourismtuneup.com^
+||penguin.mobiadroit.com^
 ||penguin.revolana.com^
 ||penguin.sunny.app^
 ||perch.luckydiff.com^
@@ -733,6 +732,7 @@
 ||python.jukejuke.app^
 ||python.mux.com^
 ||quail.efix.uk^
+||quelea.igotcha.de^
 ||quokka.bulkbuyhosting.com^
 ||quokka.joshuawood.net^
 ||rabbit.radicalxchange.org^
@@ -758,6 +758,7 @@
 ||sailfish.youracademycommunity.com^
 ||salamander.laboucheriebio.com^
 ||salamander.showandtelldata.com^
+||salmon.literallife.church^
 ||salmon.thespiritualpsychologist.co.uk^
 ||sawfish.johnbraun.blog^
 ||sawfish.loqbooq.app^
@@ -774,7 +775,6 @@
 ||shark.getplayback.com^
 ||shark.raochsendorf.de^
 ||sheep.pixair-survey.com^
-||sheep.vesperix.io^
 ||silkworm.energizergrouplegal.com^
 ||silkworm.preventingsuicideinsussex.org^
 ||silkworm.westwoodmbc.org^
@@ -861,6 +861,7 @@
 ||vole.contemporaryartlibrary.org^
 ||vole.noteapps.info^
 ||vole.tsttechnology.com^
+||wallaby.cron.help^
 ||wallaby.legendkeeper.com^
 ||wallaby.short1.link^
 ||walrus.oscaroarevalo.com^
@@ -888,7 +889,21 @@
 ||worm.paulstamatiou.com^
 ||wren.femi.io^
 ||yak.embeddedartistry.com^
+||yak.withlindy.com^
 ||zebra.helpspot.com^
+!
+! starman.fathomdns.com disguised trackers
+!
+||9kz9cttz76.antonsten.com^
+||aardvark.jimenezlinares.com^
+||aardvark.steadybit.com^
+||aardvark.tonicaudio.com^
+||alpaca.miidbaby.com^
+||amphibian.pinestc.com^
+||anglerfish.luminfire.com^
+||anglerfish.pfolios.net^
+||anteater.webitize.com^
+||ape.mfj.se^
 !
 ! bs-adserver.b-cdn.net disguised trackers
 !

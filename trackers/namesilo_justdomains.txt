@@ -342,6 +342,7 @@
 3420755.notifysrv.com
 3420763.notifysrv.com
 3420765.notifysrv.com
+3420767.notify6.com
 3420767.notifysrv.com
 3420777.notifysrv.com
 3420793.notifysrv.com
@@ -641,6 +642,7 @@
 4888136.notify6.com
 4897578.notify6.com
 4902880.notify6.com
+4917212.notify6.com
 535.notify.optimizesrv.com
 603.notify.optimizesrv.com
 6146.notify.optimizesrv.com
@@ -656,7 +658,10 @@ a.redpathmedia.com
 a.slice.exchange
 a.stuffserve.com
 admin.adxnow.com
+admin.gettopple.com
+admin.shafttraffic.com
 api.adnation.com
+api.adxnow.com
 delivery.gettopple.com
 engine.gettopple.com
 m.hsrve.com
@@ -740,7 +745,10 @@ a.addisplaynetwork.com
 a.adnflow.com
 a.asvsm.com
 a.etology.com
+a.paradoxgroup.uk
 a.redpathmedia.com
+a.slice.exchange
+a.stuffserve.com
 delivery.gettopple.com
 #
 # cds.v3j9t5q9.hwcdn.net disguised trackers

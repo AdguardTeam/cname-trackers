@@ -60,7 +60,6 @@
 ||cdn.coastcapitalsavings.com^
 ||cdn.gusto.com^
 ||cdn1.f-cdn.com^
-||cdn1.onecalldirect.co.uk^
 ||cdn1.skrill.com^
 ||cdn1.svbconnect.com^
 ||cdn1.thm.bankofmelbourne.com.au^
@@ -427,6 +426,7 @@
 ||img3.forte.net^
 ||img3.paylesscar.com^
 ||img4.cargurus.com^
+||img4.nbpa.com^
 ||img4.portal.citidirect.com^
 ||img4.uscellular.com^
 ||img9.target.com^
@@ -465,6 +465,7 @@
 ||m-profiling.simplii.com^
 ||m.vnforapps.com^
 ||matrix.cpg.org^
+||mbrstat.mywoodmen.org^
 ||meiodepagamento.campanhaporto.com.br^
 ||membership-device.secured-igaming-services.com^
 ||metrics.myfrs.com^
@@ -480,6 +481,7 @@
 ||nav.sciencedirect.com^
 ||neo.fashionette.de^
 ||nexus-svc.sc.com^
+||nv-2.liveaction.com^
 ||ocs.ameriprise.com^
 ||offtest.fnfis.com^
 ||ola2.tdameritrade.com^
@@ -505,15 +507,18 @@
 ||piafapp.poste.it^
 ||plr.scb-payments.net^
 ||pn1927.coutts.com^
+||pn1927.natwestplus.com^
 ||portal-fp-qa1.qa.threatmetrix.com^
 ||portal-fp-qa2.qa.threatmetrix.com^
 ||portal-fp-qaperf2.qa.threatmetrix.com^
 ||portal-fp.threatmetrix.com^
 ||pov.spectrum.net^
 ||prod-redwood.chaperone.lumindigitalhosting.com^
+||prod-sesloc.chaperone.lumindigitalhosting.com^
 ||profiling.digitalbusiness.cibc.com^
 ||profiling.qacitizensbankonline.com^
 ||ptm.creditas.com^
+||public-check3-at.test.tiaa-cref.org^
 ||public-check3-at.test.tiaa.org^
 ||qa-check3.qa.everbank.com^
 ||qrimages.qatarairways.com^
@@ -530,7 +535,9 @@
 ||rba-screen.myuhc.com^
 ||rba-screen.optum.com^
 ||rba-screen.optumbank.com^
+||rba-screen.optumfinancial.com^
 ||rba.apata.io^
+||rba.infinitium.com^
 ||rba.login.agentmessagecenter.optum.com^
 ||rba.login.mahix.org^
 ||rba.onehealthcareid.com^
@@ -666,6 +673,7 @@
 ||tags.bankline.rbs.com^
 ||tags.bankline.ulsterbank.co.uk^
 ||tags.bankline.ulsterbank.ie^
+||tags.currencypay.natwestmarkets.com^
 ||tags.dazn.com^
 ||tags.emirates.com^
 ||tags.eq.iombank.com^

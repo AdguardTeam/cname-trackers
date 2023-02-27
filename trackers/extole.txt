@@ -22,6 +22,7 @@
 ||refer.americanexpress.com^
 ||refer.ancestry.com^
 ||refer.aol.com^
+||refer.app.com^
 ||refer.backcountry.com^
 ||refer.barenecessities.com^
 ||refer.basictalk.com^
@@ -68,10 +69,12 @@
 ||refer.personalcreations.com^
 ||refer.petco.com^
 ||refer.purchasingpower.com^
+||refer.roadrunnersports.com^
 ||refer.sage.com^
 ||refer.shoesforcrews.com^
 ||refer.silvercar.com^
 ||refer.sperry.com^
+||refer.staples.com^
 ||refer.talbots.com^
 ||refer.theleafchronicle.com^
 ||refer.timberland.com^
@@ -110,6 +113,7 @@
 ||amp.bfr.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
+||em1476.princesscruises.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -118,6 +122,7 @@
 ||groomrefer.petco.com^
 ||internalreferral.freshworks.com^
 ||jessica-test-numero-dos.extoleu.com^
+||kenn.extoleu.com^
 ||love.columbiacu.org^
 ||love.suncoastcreditunion.com^
 ||my.kotn.com^
@@ -142,6 +147,7 @@
 ||refer.athleta.com^
 ||refer.athletawell.com^
 ||refer.aveda.com^
+||refer.avocadogreenmattress.com^
 ||refer.awscloud.com^
 ||refer.ballarddesigns.com^
 ||refer.bananarepublic.com^
@@ -150,6 +156,7 @@
 ||refer.bareminerals.uk^
 ||refer.barharbor.bank^
 ||refer.barnandwillow.com^
+||refer.basbleu.com^
 ||refer.batesfootwear.com^
 ||refer.bathandbodyworks.com^
 ||refer.baxterofcalifornia.com^
@@ -193,8 +200,10 @@
 ||refer.eset.com^
 ||refer.etrade.net^
 ||refer.everlywell.com^
+||refer.evite.com^
 ||refer.fahw.com^
 ||refer.firstrepublic.com^
+||refer.firsttechfed.com^
 ||refer.frontgate.com^
 ||refer.g2.com^
 ||refer.gapcanada.ca^
@@ -250,6 +259,7 @@
 ||refer.martinsfoods.com^
 ||refer.merrell.com^
 ||refer.minted.com^
+||refer.mpgsport.ca^
 ||refer.mpgsport.com^
 ||refer.narscosmetics.com^
 ||refer.nfhsnetwork.com^
@@ -350,6 +360,7 @@
 ||share.alphaindustries.com^
 ||share.anatomie.com^
 ||share.aplaceformom.com^
+||share.app.com^
 ||share.ashleyhomestore.ca^
 ||share.asics.com^
 ||share.atlasbars.com^
@@ -418,12 +429,14 @@
 ||share.installamerica.com^
 ||share.ipage.com^
 ||share.iteach.net^
+||share.juicepress.com^
 ||share.juvlabs.com^
 ||share.key.com^
 ||share.kumon.com^
 ||share.la-mariette.com^
 ||share.lark.com^
 ||share.levi.com^
+||share.lifedna.com^
 ||share.livongo.com^
 ||share.maccosmetics.com.au^
 ||share.mamabearlegalforms.com^
@@ -472,6 +485,8 @@
 ||share.shoptruespirit.com^
 ||share.shutterstock.com^
 ||share.simonandschuster.com^
+||share.skillshare.com^
+||share.sstack.com^
 ||share.stagsleap.com^
 ||share.starbucks.com^
 ||share.steadyapp.com^

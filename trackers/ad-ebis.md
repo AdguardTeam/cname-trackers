@@ -220,6 +220,7 @@
     * c38934c6-rrynabhe.cname.ebis.ne.jp
     * c398a8b1-yfrcguru.cname.ebis.ne.jp
     * c3ef335b-in8gz9ss.cname.ebis.ne.jp
+    * c6916a9c-b6wlj9k1.cname.ebis.ne.jp
     * c7424645-h0sqxtcz.cname.ebis.ne.jp
     * c75154e7-t3ucd5yy.cname.ebis.ne.jp
     * c7d741c1-ppn7hhsn.cname.ebis.ne.jp
@@ -497,6 +498,7 @@
 | adebis.litalico.co.jp | c38934c6-rrynabhe.cname.ebis.ne.jp |
 | ebis.jinzai-business.com | c398a8b1-yfrcguru.cname.ebis.ne.jp |
 | analyse.hinemos.info | c3ef335b-in8gz9ss.cname.ebis.ne.jp |
+| adebis.datumow.com | c6916a9c-b6wlj9k1.cname.ebis.ne.jp |
 | adtrack.loracle.jp | c7424645-h0sqxtcz.cname.ebis.ne.jp |
 | ebiscname.native-phrase.com | c75154e7-t3ucd5yy.cname.ebis.ne.jp |
 | cname.gladis.jp | c7d741c1-ppn7hhsn.cname.ebis.ne.jp |

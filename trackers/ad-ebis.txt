@@ -44,6 +44,7 @@
 ||adebis.chojyu.com^
 ||adebis.crowdcredit.jp^
 ||adebis.daiwahouse.co.jp^
+||adebis.datumow.com^
 ||adebis.demae-can.com^
 ||adebis.e-ohaka.com^
 ||adebis.entetsu.co.jp^

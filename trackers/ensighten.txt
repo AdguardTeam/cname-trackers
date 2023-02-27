@@ -175,6 +175,7 @@
 ||dc.stokke.com^
 ||dc.volkswagen.com^
 ||dc.zales.com^
+||dc.zalesoutlet.com^
 ||dcf.espn.com^
 ||dcf.espn.com.pe^
 ||dcfdata.espn.com^
@@ -183,11 +184,13 @@
 ||eb.trbas.com^
 ||emetrics.eastwestbank.com^
 ||ens-orlet.activate.ensighten.com^
+||ens.bote.ch^
 ||ens.luzernerzeitung.ch^
 ||ens.nidwaldnerzeitung.ch^
 ||ens.nzz.ch^
 ||ens.tagblatt.ch^
 ||ens.themarket.ch^
+||ens.urnerzeitung.ch^
 ||ensighten.airnewzealand.co.uk^
 ||ensighten.bhphoto.com^
 ||ensighten.ccnag.com^
@@ -296,6 +299,7 @@
 ||tam.volkswagen.com^
 ||tdi.cartoonnetwork.com^
 ||test3-dc.jared.com^
+||test3-dc.kayoutlet.com^
 ||test3-dc.sterlingjewelers.com^
 ||tm.hdmtools.com^
 ||tms-test.nab.com.au^

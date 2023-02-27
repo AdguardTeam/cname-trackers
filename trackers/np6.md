@@ -776,6 +776,7 @@
 | tr.redaction.essentiel-sante-magazine.fr | tracking.bp01.net |
 | tr.reglementaire.emailing.bnpparibas | tracking.bp01.net |
 | tr.relation.uneo.fr | tracking.bp01.net |
+| tr.remboursement.orange.fr | tracking.bp01.net |
 | tr.renowizze.be | tracking.bp01.net |
 | tr.rh.auchan.com | tracking.bp01.net |
 | tr.route-solutiondata.fr | tracking.bp01.net |
@@ -825,7 +826,6 @@
 | tr.tonerservices.fr | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |
 | tr.ujsv.espmp-agfr.net | tracking.bp01.net |
-| tr.uk.icicibank.com | tracking.bp01.net |
 | tr.uk.katun.com | tracking.bp01.net |
 | tr.unaoffertaalgiorno.com | tracking.bp01.net |
 | tr.update.groupon.be | tracking.bp01.net |

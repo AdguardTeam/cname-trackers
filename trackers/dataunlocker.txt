@@ -4,6 +4,7 @@
 ! dataunlocker.com disguised trackers
 !
 ||0d8is908gby1.www.terraform.com.ar^
+||10ro53kulyb.groove.so^
 ||11b6n4ty2x3.taxliencode.com^
 ||13js1lbtbj3.sparkloop.app^
 ||16i6nuuc2ej.koelewijn.nl^
@@ -13,7 +14,6 @@
 ||1bpmtrvkqkj.pettoonies.com^
 ||1bw7etm93lf.www.woodbrass.com^
 ||1hb4jkt1u2d.probemas.com^
-||1iy4gu0lpkp.my.gloryleague.basketball^
 ||1kpv4njzilv.community.intersystems.com^
 ||1op1je6zs97.www.emanualonline.com^
 ||1tb41yjaqmt.panpots.com^
@@ -21,8 +21,8 @@
 ||1xejnhs1zd1.staging.aporia.com^
 ||1y10lvb64mr.www.freecodecamp.dev^
 ||1zzs6w25i8n.tube.inflatevids.xyz^
+||2107wrlgff5.development.taxmachine.be^
 ||25ix8gm8ien.sandbox.panprices.com^
-||25wyma1mavl.my.staging.gloryleague.basketball^
 ||2829i2p88jx.www.csaladinet.hu^
 ||2aa6f9qgrh9.acc.evservice.nl^
 ||2e718yf5jypb.test.digitalsurge.io^

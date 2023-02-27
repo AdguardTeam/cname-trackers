@@ -44,6 +44,7 @@ adebis.bbb-life.jp CNAME .
 adebis.chojyu.com CNAME .
 adebis.crowdcredit.jp CNAME .
 adebis.daiwahouse.co.jp CNAME .
+adebis.datumow.com CNAME .
 adebis.demae-can.com CNAME .
 adebis.e-ohaka.com CNAME .
 adebis.entetsu.co.jp CNAME .

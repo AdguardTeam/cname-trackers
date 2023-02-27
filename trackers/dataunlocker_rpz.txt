@@ -4,6 +4,7 @@
 ; dataunlocker.com disguised trackers
 ;
 0d8is908gby1.www.terraform.com.ar CNAME .
+10ro53kulyb.groove.so CNAME .
 11b6n4ty2x3.taxliencode.com CNAME .
 13js1lbtbj3.sparkloop.app CNAME .
 16i6nuuc2ej.koelewijn.nl CNAME .
@@ -13,7 +14,6 @@
 1bpmtrvkqkj.pettoonies.com CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
 1hb4jkt1u2d.probemas.com CNAME .
-1iy4gu0lpkp.my.gloryleague.basketball CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
 1op1je6zs97.www.emanualonline.com CNAME .
 1tb41yjaqmt.panpots.com CNAME .
@@ -21,8 +21,8 @@
 1xejnhs1zd1.staging.aporia.com CNAME .
 1y10lvb64mr.www.freecodecamp.dev CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
+2107wrlgff5.development.taxmachine.be CNAME .
 25ix8gm8ien.sandbox.panprices.com CNAME .
-25wyma1mavl.my.staging.gloryleague.basketball CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .
 2e718yf5jypb.test.digitalsurge.io CNAME .

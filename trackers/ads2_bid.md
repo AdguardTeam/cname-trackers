@@ -12,10 +12,13 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | ac-dir-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
+| ac-dir-latam.xw1fx50x35.com | latam.lb.rtb.ads.bid |
 | avb-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | avb-latam.xw1fx50x35.com | latam.lb.rtb.ads.bid |
+| di-res-latam.8njhhs0ivx.com | latam.lb.rtb.ads.bid |
 | di-res-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | di-res-latam.xw1fx50x35.com | latam.lb.rtb.ads.bid |
+| latam.8njhhs0ivx.com | latam.lb.rtb.ads.bid |
 | latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | latam.xw1fx50x35.com | latam.lb.rtb.ads.bid |
 | abttss-ur.exolkkl6i2puvf.ru | lb.rtb.ads.bid |
@@ -37,6 +40,7 @@
 | avb-co.xw1fx50x35.com | lb.rtb.ads.bid |
 | avbr.13wynpuurt.ru | lb.rtb.ads.bid |
 | avbr.c97eaqj38e.ru | lb.rtb.ads.bid |
+| di-res.8njhhs0ivx.com | lb.rtb.ads.bid |
 | di-res.cau1aighae.com | lb.rtb.ads.bid |
 | di-res.iemieshohx.com | lb.rtb.ads.bid |
 | di-res.xw1fx50x35.com | lb.rtb.ads.bid |
@@ -52,9 +56,11 @@
 | avb-sing.cau1aighae.com | sing.lb.rtb.ads.bid |
 | avb-sing.ewtcbedtmx.ru | sing.lb.rtb.ads.bid |
 | avb-sing.xw1fx50x35.com | sing.lb.rtb.ads.bid |
+| di-res-sing.8njhhs0ivx.com | sing.lb.rtb.ads.bid |
 | di-res-sing.cau1aighae.com | sing.lb.rtb.ads.bid |
 | di-res-sing.xw1fx50x35.com | sing.lb.rtb.ads.bid |
 | sing.3h1fpq39jb.ru | sing.lb.rtb.ads.bid |
+| sing.8njhhs0ivx.com | sing.lb.rtb.ads.bid |
 | sing.cau1aighae.com | sing.lb.rtb.ads.bid |
 | sing.iemieshohx.com | sing.lb.rtb.ads.bid |
 | sing.qkyb8htwd9.ru | sing.lb.rtb.ads.bid |

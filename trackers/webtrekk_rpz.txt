@@ -312,6 +312,7 @@ webt.aqipa.com CNAME .
 webt.eleonto.com CNAME .
 webt.eu.teac-audio.com CNAME .
 webt.pure.com CNAME .
+webt.store.okmilo.com CNAME .
 wetr.sportscheck.at CNAME .
 wetr.sportscheck.ch CNAME .
 wetr.sportscheck.com CNAME .

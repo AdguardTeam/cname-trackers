@@ -7,12 +7,14 @@
 ### Rarely active trackers
 
 * c4924.affilbox.cz
+* c771.affilbox.cz
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
 | affiliate.kulturistika.com | c4924.affilbox.cz |
+| partner.janapekna.cz | c771.affilbox.cz |
 | abox.simpleshop.cz | cz.affilbox.cz |
 | aff.faircredit.cz | cz.affilbox.cz |
 | aff.pujckajonatan.cz | cz.affilbox.cz |
@@ -66,6 +68,7 @@
 | affil.sedacky-nabytek.cz | cz.affilbox.cz |
 | affil.seduo.cz | cz.affilbox.cz |
 | affil.seminarkyza1.cz | cz.affilbox.cz |
+| affil.skolaobjemu.eu | cz.affilbox.cz |
 | affil.smartings.cz | cz.affilbox.cz |
 | affil.snadnejsizivot.cz | cz.affilbox.cz |
 | affil.somavedic.cz | cz.affilbox.cz |
@@ -88,6 +91,7 @@
 | affilate.sklep38.cz | cz.affilbox.cz |
 | affilbox.aliveplatform.com | cz.affilbox.cz |
 | affilbox.andreashop.sk | cz.affilbox.cz |
+| affilbox.doglog.cz | cz.affilbox.cz |
 | affilbox.gurufinance.cz | cz.affilbox.cz |
 | affilbox.kvaskovanie.sk | cz.affilbox.cz |
 | affilbox.mutumutu.cz | cz.affilbox.cz |
@@ -221,6 +225,7 @@
 | affiliate.svetbot.cz | cz.affilbox.cz |
 | affiliate.terarijni-potreby.cz | cz.affilbox.cz |
 | affiliate.topol.io | cz.affilbox.cz |
+| affiliate.trikator.cz | cz.affilbox.cz |
 | affiliate.uncaria.cz | cz.affilbox.cz |
 | affiliate.urbanstore.cz | cz.affilbox.cz |
 | affiliate.urbanstore.sk | cz.affilbox.cz |
@@ -326,6 +331,7 @@
 | my.top4running.sk | cz.affilbox.cz |
 | my.weplaybasketball.cz | cz.affilbox.cz |
 | my.weplaybasketball.hu | cz.affilbox.cz |
+| my.weplaybasketball.ro | cz.affilbox.cz |
 | my.weplaybasketball.sk | cz.affilbox.cz |
 | my.weplayhandball.cz | cz.affilbox.cz |
 | my.weplayhandball.hu | cz.affilbox.cz |
@@ -350,6 +356,7 @@
 | partner.babysigns.cz | cz.affilbox.cz |
 | partner.bandana.cz | cz.affilbox.cz |
 | partner.barnaby.cz | cz.affilbox.cz |
+| partner.bazaroveregaly.cz | cz.affilbox.cz |
 | partner.bebidas.cz | cz.affilbox.cz |
 | partner.bilynabytek.cz | cz.affilbox.cz |
 | partner.bio-nehty.cz | cz.affilbox.cz |
@@ -386,6 +393,7 @@
 | partner.denato.it | cz.affilbox.cz |
 | partner.denishenry.cz | cz.affilbox.cz |
 | partner.designturnaj.cz | cz.affilbox.cz |
+| partner.detskyeshop.cz | cz.affilbox.cz |
 | partner.directalpine.cz | cz.affilbox.cz |
 | partner.domaci-pivoteka.cz | cz.affilbox.cz |
 | partner.domoveda.cz | cz.affilbox.cz |
@@ -442,7 +450,10 @@
 | partner.legalni-konopi.cz | cz.affilbox.cz |
 | partner.lehatkapropsy.cz | cz.affilbox.cz |
 | partner.lemurak.cz | cz.affilbox.cz |
+| partner.lenkahomeopatie.cz | cz.affilbox.cz |
+| partner.liberec-ubytovani.cz | cz.affilbox.cz |
 | partner.lidajirickova.cz | cz.affilbox.cz |
+| partner.ltx.cz | cz.affilbox.cz |
 | partner.lyzelyze.cz | cz.affilbox.cz |
 | partner.marspom.cz | cz.affilbox.cz |
 | partner.martinreznicek.cz | cz.affilbox.cz |
@@ -482,6 +493,7 @@
 | partner.pozitivnerozpravky.sk | cz.affilbox.cz |
 | partner.pradoch.cz | cz.affilbox.cz |
 | partner.pravopisne.cz | cz.affilbox.cz |
+| partner.pravopisne.sk | cz.affilbox.cz |
 | partner.prosperk.cz | cz.affilbox.cz |
 | partner.psidetektiv.cz | cz.affilbox.cz |
 | partner.root.cz | cz.affilbox.cz |
@@ -493,6 +505,7 @@
 | partner.scootshop.cz | cz.affilbox.cz |
 | partner.sculpturepainting.eu | cz.affilbox.cz |
 | partner.simplymix.com | cz.affilbox.cz |
+| partner.skolske-tasky.sk | cz.affilbox.cz |
 | partner.sladkemameni.com | cz.affilbox.cz |
 | partner.sladkyklub.cz | cz.affilbox.cz |
 | partner.slimpasta.cz | cz.affilbox.cz |
@@ -521,6 +534,7 @@
 | partner.tyano.cz | cz.affilbox.cz |
 | partner.umio.sk | cz.affilbox.cz |
 | partner.unuo.de | cz.affilbox.cz |
+| partner.vajacandle.cz | cz.affilbox.cz |
 | partner.vataonline.cz | cz.affilbox.cz |
 | partner.vffoto.com | cz.affilbox.cz |
 | partner.virulent.cz | cz.affilbox.cz |
@@ -547,9 +561,13 @@
 | partner.zv1.cz | cz.affilbox.cz |
 | partneri.affiliate-program.sk | cz.affilbox.cz |
 | partneri.affiliatevyzva.cz | cz.affilbox.cz |
+| partneri.akodlhsiezit.sk | cz.affilbox.cz |
 | partneri.alchemistr.cz | cz.affilbox.cz |
 | partneri.alepiacz.cz | cz.affilbox.cz |
+| partneri.anglictinarychlo.sk | cz.affilbox.cz |
 | partneri.apimedika.sk | cz.affilbox.cz |
+| partneri.appkee.cz | cz.affilbox.cz |
+| partneri.arouska.cz | cz.affilbox.cz |
 | partneri.artisan.cz | cz.affilbox.cz |
 | partneri.bazaroveregaly.cz | cz.affilbox.cz |
 | partneri.bestargroup.cz | cz.affilbox.cz |
@@ -576,6 +594,7 @@
 | partneri.fitstore.cz | cz.affilbox.cz |
 | partneri.frcime.cz | cz.affilbox.cz |
 | partneri.gigamat.cz | cz.affilbox.cz |
+| partneri.givt.cz | cz.affilbox.cz |
 | partneri.heavytamper.cz | cz.affilbox.cz |
 | partneri.incacollagen.eu | cz.affilbox.cz |
 | partneri.jakofenix.cz | cz.affilbox.cz |
@@ -603,11 +622,13 @@
 | partneri.netfotbal.cz | cz.affilbox.cz |
 | partneri.nutricbistro.cz | cz.affilbox.cz |
 | partneri.onlinejazyky.cz | cz.affilbox.cz |
+| partneri.oportskem.cz | cz.affilbox.cz |
 | partneri.palmknihy.cz | cz.affilbox.cz |
 | partneri.piercing.cz | cz.affilbox.cz |
 | partneri.piratecbd.cz | cz.affilbox.cz |
 | partneri.portske.cz | cz.affilbox.cz |
 | partneri.prectime.cz | cz.affilbox.cz |
+| partneri.professionail.sk | cz.affilbox.cz |
 | partneri.proficredit.cz | cz.affilbox.cz |
 | partneri.progresguru.cz | cz.affilbox.cz |
 | partneri.puravia.cz | cz.affilbox.cz |
@@ -644,6 +665,7 @@
 | partneri.zaprovizi.cz | cz.affilbox.cz |
 | partneri.zdravy-zivotny-styl.sk | cz.affilbox.cz |
 | partneri.zdravykram.cz | cz.affilbox.cz |
+| partneri.zijchytre.cz | cz.affilbox.cz |
 | partneri.zkustenzvuk.cz | cz.affilbox.cz |
 | partners.adventuremenu.com | cz.affilbox.cz |
 | partners.almaf.cz | cz.affilbox.cz |
@@ -656,6 +678,7 @@
 | promo.smskouc.cz | cz.affilbox.cz |
 | provize.3dfitness.cz | cz.affilbox.cz |
 | provize.dzumdzum.cz | cz.affilbox.cz |
+| provize.ftfc.cz | cz.affilbox.cz |
 | provize.mimulo.cz | cz.affilbox.cz |
 | provize.radynacestu.cz | cz.affilbox.cz |
 | provize.sperky.guru | cz.affilbox.cz |
@@ -680,6 +703,7 @@
 | spoluprace.vcelarstvi-domovina.cz | cz.affilbox.cz |
 | test.autosedacky-online.cz | cz.affilbox.cz |
 | vydelavejtesnami.pg.cz | cz.affilbox.cz |
+| www.affilbox.mironet.cz | cz.affilbox.cz |
 | www.affilo.cz | cz.affilbox.cz |
 | www.partner.hubatacernoska.cz | cz.affilbox.cz |
 | www.partneri.zuzanaondrisova.sk | cz.affilbox.cz |

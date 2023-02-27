@@ -22,6 +22,7 @@ refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
 refer.aol.com CNAME .
+refer.app.com CNAME .
 refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
 refer.basictalk.com CNAME .
@@ -68,10 +69,12 @@ refer.payroll.intuit.com CNAME .
 refer.personalcreations.com CNAME .
 refer.petco.com CNAME .
 refer.purchasingpower.com CNAME .
+refer.roadrunnersports.com CNAME .
 refer.sage.com CNAME .
 refer.shoesforcrews.com CNAME .
 refer.silvercar.com CNAME .
 refer.sperry.com CNAME .
+refer.staples.com CNAME .
 refer.talbots.com CNAME .
 refer.theleafchronicle.com CNAME .
 refer.timberland.com CNAME .
@@ -110,6 +113,7 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em1476.princesscruises.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -118,6 +122,7 @@ go.joinsizigi.com CNAME .
 groomrefer.petco.com CNAME .
 internalreferral.freshworks.com CNAME .
 jessica-test-numero-dos.extoleu.com CNAME .
+kenn.extoleu.com CNAME .
 love.columbiacu.org CNAME .
 love.suncoastcreditunion.com CNAME .
 my.kotn.com CNAME .
@@ -142,6 +147,7 @@ refer.ataglance.com CNAME .
 refer.athleta.com CNAME .
 refer.athletawell.com CNAME .
 refer.aveda.com CNAME .
+refer.avocadogreenmattress.com CNAME .
 refer.awscloud.com CNAME .
 refer.ballarddesigns.com CNAME .
 refer.bananarepublic.com CNAME .
@@ -150,6 +156,7 @@ refer.bareminerals.fr CNAME .
 refer.bareminerals.uk CNAME .
 refer.barharbor.bank CNAME .
 refer.barnandwillow.com CNAME .
+refer.basbleu.com CNAME .
 refer.batesfootwear.com CNAME .
 refer.bathandbodyworks.com CNAME .
 refer.baxterofcalifornia.com CNAME .
@@ -193,8 +200,10 @@ refer.ems.com CNAME .
 refer.eset.com CNAME .
 refer.etrade.net CNAME .
 refer.everlywell.com CNAME .
+refer.evite.com CNAME .
 refer.fahw.com CNAME .
 refer.firstrepublic.com CNAME .
+refer.firsttechfed.com CNAME .
 refer.frontgate.com CNAME .
 refer.g2.com CNAME .
 refer.gapcanada.ca CNAME .
@@ -250,6 +259,7 @@ refer.marinerfinance.com CNAME .
 refer.martinsfoods.com CNAME .
 refer.merrell.com CNAME .
 refer.minted.com CNAME .
+refer.mpgsport.ca CNAME .
 refer.mpgsport.com CNAME .
 refer.narscosmetics.com CNAME .
 refer.nfhsnetwork.com CNAME .
@@ -350,6 +360,7 @@ share.alltrucu.org CNAME .
 share.alphaindustries.com CNAME .
 share.anatomie.com CNAME .
 share.aplaceformom.com CNAME .
+share.app.com CNAME .
 share.ashleyhomestore.ca CNAME .
 share.asics.com CNAME .
 share.atlasbars.com CNAME .
@@ -418,12 +429,14 @@ share.inspirecleanenergy.com CNAME .
 share.installamerica.com CNAME .
 share.ipage.com CNAME .
 share.iteach.net CNAME .
+share.juicepress.com CNAME .
 share.juvlabs.com CNAME .
 share.key.com CNAME .
 share.kumon.com CNAME .
 share.la-mariette.com CNAME .
 share.lark.com CNAME .
 share.levi.com CNAME .
+share.lifedna.com CNAME .
 share.livongo.com CNAME .
 share.maccosmetics.com.au CNAME .
 share.mamabearlegalforms.com CNAME .
@@ -472,6 +485,8 @@ share.securityplusfcu.org CNAME .
 share.shoptruespirit.com CNAME .
 share.shutterstock.com CNAME .
 share.simonandschuster.com CNAME .
+share.skillshare.com CNAME .
+share.sstack.com CNAME .
 share.stagsleap.com CNAME .
 share.starbucks.com CNAME .
 share.steadyapp.com CNAME .

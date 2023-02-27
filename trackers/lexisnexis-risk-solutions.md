@@ -27,6 +27,7 @@
     * h-2ql3c6py.online-metrix.net
     * h-2yf3c1v4.online-metrix.net
     * h-30fpzt2y.online-metrix.net
+    * h-34mvnza6.online-metrix.net
     * h-39zuido3.online-metrix.net
     * h-3gk2er3j.online-metrix.net
     * h-3u2bmrkg.online-metrix.net
@@ -48,6 +49,7 @@
     * h-6wp7e261.online-metrix.net
     * h-6xl38gst.online-metrix.net
     * h-6y7oe1nl.online-metrix.net
+    * h-72wrr4p1.online-metrix.net
     * h-7bugohi5.online-metrix.net
     * h-7hs48cp7.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
@@ -58,6 +60,7 @@
     * h-7ubbkvkt.online-metrix.net
     * h-7v30y901.online-metrix.net
     * h-7xy7wvmp.online-metrix.net
+    * h-7yh412tv.online-metrix.net
     * h-859g1sil.online-metrix.net
     * h-87rxrdob.online-metrix.net
     * h-884tnrtj.online-metrix.net
@@ -73,6 +76,7 @@
     * h-8uj1s5zr.online-metrix.net
     * h-96ch0zc2.online-metrix.net
     * h-9bkavv7r.online-metrix.net
+    * h-9ivuwf8u.online-metrix.net
     * h-9yw99lm5.online-metrix.net
     * h-9zzsit89.online-metrix.net
     * h-a4nx1etl.online-metrix.net
@@ -427,6 +431,7 @@
     * h-mywisely.online-metrix.net
     * h-name.online-metrix.net
     * h-navyfederal.online-metrix.net
+    * h-nbpa.online-metrix.net
     * h-neo.fashionette.de.online-metrix.net
     * h-nerium.online-metrix.net
     * h-netflix.online-metrix.net
@@ -446,7 +451,6 @@
     * h-okcoin.online-metrix.net
     * h-okinushub.online-metrix.net
     * h-onbudget.online-metrix.net
-    * h-onecall.online-metrix.net
     * h-oney.online-metrix.net
     * h-online.citi.online-metrix.net
     * h-opendoor.online-metrix.net
@@ -584,6 +588,7 @@
     * h-westpac.online-metrix.net
     * h-williamhill.online-metrix.net
     * h-wisconsindwd.online-metrix.net
+    * h-woodmen.online-metrix.net
     * h-worldpay-ovhcloud.online-metrix.net
     * h-worldpay.ddcprod.online-metrix.net
     * h-worldpay.ddctest.online-metrix.net
@@ -614,6 +619,7 @@
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | matrix.cpg.org | h-1qpcog32.online-metrix.net |
 | cnt.goboo.com | h-1u7ubqzg.online-metrix.net |
 | ptm.creditas.com | h-1vjjer2n.online-metrix.net |
@@ -630,6 +636,7 @@
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
 | app.uob.com.sg | h-30fpzt2y.online-metrix.net |
+| nv-2.liveaction.com | h-34mvnza6.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
 | r7s.scl.swisscom.ch | h-3gk2er3j.online-metrix.net |
 | content.lyft.com | h-3u2bmrkg.online-metrix.net |
@@ -662,6 +669,7 @@
 | contentservices.clearairlending.com | h-6wp7e261.online-metrix.net |
 | content.cofidis.pt | h-6xl38gst.online-metrix.net |
 | content.pledg.co | h-6y7oe1nl.online-metrix.net |
+| rba.infinitium.com | h-72wrr4p1.online-metrix.net |
 | r.hokodo.co | h-7bugohi5.online-metrix.net |
 | ex.exnessstats.com | h-7hs48cp7.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
@@ -677,6 +685,7 @@
 | info.betway.co.za | h-7v30y901.online-metrix.net |
 | info.betway.fr | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
+| sec.mypage.ocn.ne.jp | h-7yh412tv.online-metrix.net |
 | cnt.didiglobal.com | h-859g1sil.online-metrix.net |
 | tm.production.eu1.tmfp.klarna.net | h-87rxrdob.online-metrix.net |
 | tmfp.klarna.com | h-87rxrdob.online-metrix.net |
@@ -693,6 +702,7 @@
 | req.secured-content.com | h-8uj1s5zr.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
+| pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
 | dvc0271.play.jackpocket.com | h-9yw99lm5.online-metrix.net |
 | tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
@@ -1048,6 +1058,7 @@
 | rba-screen.myuhc.com | h-hsid.online-metrix.net |
 | rba-screen.optum.com | h-hsid.online-metrix.net |
 | rba-screen.optumbank.com | h-hsid.online-metrix.net |
+| rba-screen.optumfinancial.com | h-hsid.online-metrix.net |
 | ddata.huntingtonbank.com | h-huntington.online-metrix.net |
 | content4c.iberia.com | h-iberia.online-metrix.net |
 | solstice.ibotta.com | h-ibotta.online-metrix.net |
@@ -1154,6 +1165,7 @@
 | content.mywisely.com | h-mywisely.online-metrix.net |
 | content.name.com | h-name.online-metrix.net |
 | img2021.navyfederal.org | h-navyfederal.online-metrix.net |
+| img4.nbpa.com | h-nbpa.online-metrix.net |
 | neo.fashionette.de | h-neo.fashionette.de.online-metrix.net |
 | img.neora.com | h-nerium.online-metrix.net |
 | secured.netflix.com | h-netflix.online-metrix.net |
@@ -1162,7 +1174,6 @@
 | sub-a.crossmeetz.com | h-nssolutions.online-metrix.net |
 | sec.hikaritv.net | h-ntthikaritv.online-metrix.net |
 | sec.mypage.ntt.com | h-nttocnmypage.online-metrix.net |
-| sec.mypage.ocn.ne.jp | h-nttocnmypage.online-metrix.net |
 | sec.plala.or.jp | h-nttplala.online-metrix.net |
 | sec.login.mail.goo.ne.jp | h-nttresonant.online-metrix.net |
 | sec.lin101.mail.goo.ne.jp | h-nttresonantstg.online-metrix.net |
@@ -1175,7 +1186,6 @@
 | tm.okinushub.com | h-okinushub.online-metrix.net |
 | sitehelper.myengageft.com | h-onbudget.online-metrix.net |
 | sitehelper.optimizemoney.com | h-onbudget.online-metrix.net |
-| cdn1.onecalldirect.co.uk | h-onecall.online-metrix.net |
 | img.oney.fr | h-oney.online-metrix.net |
 | content22.online.citi.com | h-online.citi.online-metrix.net |
 | hint-tmdp.opendoor.com | h-opendoor.online-metrix.net |
@@ -1255,6 +1265,7 @@
 | webftm.sterbc.com | h-rbc.online-metrix.net |
 | tags.api.openaccount.natwest.com | h-rbs-bank.online-metrix.net |
 | tags.api.openaccount.rbs.co.uk | h-rbs-bank.online-metrix.net |
+| tags.currencypay.natwestmarkets.com | h-rbs-bank.online-metrix.net |
 | tags.natwest.com | h-rbs-bank.online-metrix.net |
 | tags.nwolb.com | h-rbs-bank.online-metrix.net |
 | tags.onlinebanking.iombank.com | h-rbs-bank.online-metrix.net |
@@ -1329,6 +1340,7 @@
 | check3-qa1.test.tiaabank.com | h-tiaa-cref-at-test.online-metrix.net |
 | check3-qa2.test.tiaabank.com | h-tiaa-cref-at-test.online-metrix.net |
 | check3-stg.test.tiaabank.com | h-tiaa-cref-at-test.online-metrix.net |
+| public-check3-at.test.tiaa-cref.org | h-tiaa-cref-at-test.online-metrix.net |
 | public-check3-at.test.tiaa.org | h-tiaa-cref-at-test.online-metrix.net |
 | qa-check3.qa.everbank.com | h-tiaa-cref-at-test.online-metrix.net |
 | check3.everbank.com | h-tiaa-cref.online-metrix.net |
@@ -1396,6 +1408,7 @@
 | cdn1.thm.westpac.com.au | h-westpac.online-metrix.net |
 | t.us.williamhill.com | h-williamhill.online-metrix.net |
 | content.dwd.wisconsin.gov | h-wisconsindwd.online-metrix.net |
+| mbrstat.mywoodmen.org | h-woodmen.online-metrix.net |
 | metrix.us.ovhcloud.com | h-worldpay-ovhcloud.online-metrix.net |
 | ddc.worldpay.com | h-worldpay.ddcprod.online-metrix.net |
 | ddc-test.worldpay.com | h-worldpay.ddctest.online-metrix.net |

@@ -102,6 +102,7 @@ tk.zenpark.com CNAME .
 tracking-test.esearchvision.com CNAME .
 trackv-test.esearchvision.com CNAME .
 tv-test.esvdigital.com CNAME .
+twiz.wizaly.co.uk CNAME .
 twiz.wizaly.fr CNAME .
 wiz.ghostbed.com CNAME .
 wiz.sncf-connect.com CNAME .

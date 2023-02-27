@@ -45,7 +45,6 @@
 | a.acvx.host | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.artamkari.com | 0i0i0i0.com |
-| a.ax.xxx | 0i0i0i0.com |
 | a.bitporno.com | 0i0i0i0.com |
 | a.bitporno.to | 0i0i0i0.com |
 | a.bloblohub.com | 0i0i0i0.com |
@@ -65,7 +64,6 @@
 | a.kagiti.club | 0i0i0i0.com |
 | a.katomu.club | 0i0i0i0.com |
 | a.letsjerk.org | 0i0i0i0.com |
-| a.letsjerk.to | 0i0i0i0.com |
 | a.letsjerk.tv | 0i0i0i0.com |
 | a.marketing.com.sd | 0i0i0i0.com |
 | a.naturalhealthsource.club | 0i0i0i0.com |
@@ -86,6 +84,7 @@
 | a.viralnewsbd.xyz | 0i0i0i0.com |
 | a.warddogs.com | 0i0i0i0.com |
 | a.xmanga.online | 0i0i0i0.com |
+| a.xxxrotator.com | 0i0i0i0.com |
 | a.zillastream.com | 0i0i0i0.com |
 | a5g.oves.biz | 0i0i0i0.com |
 | a9o.youlikeboys.com | 0i0i0i0.com |
@@ -100,12 +99,10 @@
 | ad.ttstreaming.stream | 0i0i0i0.com |
 | ad.wawacity.xyz | 0i0i0i0.com |
 | adanald.icu | 0i0i0i0.com |
-| adds.al3ably.com | 0i0i0i0.com |
 | adhome.icu | 0i0i0i0.com |
 | adilk.ilikecomix.com | 0i0i0i0.com |
 | ads.2conv.com | 0i0i0i0.com |
 | ads.49inchporn.club | 0i0i0i0.com |
-| ads.al3ably.com | 0i0i0i0.com |
 | ads.free-to.download | 0i0i0i0.com |
 | ads.hentaiheart.com | 0i0i0i0.com |
 | ads.onetouchtv.me | 0i0i0i0.com |
@@ -126,7 +123,6 @@
 | all.shorterall.com | 0i0i0i0.com |
 | alt.fescity.com | 0i0i0i0.com |
 | amaz.emailon.top | 0i0i0i0.com |
-| amazingdomain.sbs | 0i0i0i0.com |
 | amazoni.lol | 0i0i0i0.com |
 | analik.icu | 0i0i0i0.com |
 | anti.nukedfans.com | 0i0i0i0.com |
@@ -243,6 +239,7 @@
 | coinbaze.lol | 0i0i0i0.com |
 | coinzba.mom | 0i0i0i0.com |
 | comp.aniplay.it | 0i0i0i0.com |
+| content.zbporn.com | 0i0i0i0.com |
 | cool.ah-me.com | 0i0i0i0.com |
 | cool.gaygo.tv | 0i0i0i0.com |
 | cool.sunporno.com | 0i0i0i0.com |
@@ -254,7 +251,6 @@
 | dam.tucsun.mom | 0i0i0i0.com |
 | dashboard.fc2ppv.buzz | 0i0i0i0.com |
 | data.bangtubevideos.com | 0i0i0i0.com |
-| deliver.vkcdnservice.com | 0i0i0i0.com |
 | digiadzone.com | 0i0i0i0.com |
 | display.cdnbucket.com | 0i0i0i0.com |
 | dl.4kporn.xxx | 0i0i0i0.com |
@@ -459,7 +455,6 @@
 | pubbucks.homes | 0i0i0i0.com |
 | pubg.remiitano.xyz | 0i0i0i0.com |
 | px9.nuderedtube.com | 0i0i0i0.com |
-| q1.pornwex.tv | 0i0i0i0.com |
 | qatak.beauty | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
 | qoqv.com | 0i0i0i0.com |
@@ -580,12 +575,12 @@
 | www.p123p.com | 0i0i0i0.com |
 | www.u808i.com | 0i0i0i0.com |
 | www.upcdn.site | 0i0i0i0.com |
-| www.vkcdnservice.com | 0i0i0i0.com |
 | www.w00t.us | 0i0i0i0.com |
 | www.zqwe.ru | 0i0i0i0.com |
 | www4.hentaigamecg.com | 0i0i0i0.com |
 | www6.freeanimesource.com | 0i0i0i0.com |
 | www6.hentai-zone.com | 0i0i0i0.com |
+| www7.erogegames.com | 0i0i0i0.com |
 | www7.erogewiki.com | 0i0i0i0.com |
 | www8.upload-pics.com | 0i0i0i0.com |
 | www9.downloadani.me | 0i0i0i0.com |
@@ -611,4 +606,4 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| qhip.com | u53.hypnorat.com |
+| h-ay.com | u53.hypnorat.com |

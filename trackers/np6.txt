@@ -760,6 +760,7 @@
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^
 ||tr.relation.uneo.fr^
+||tr.remboursement.orange.fr^
 ||tr.renowizze.be^
 ||tr.rh.auchan.com^
 ||tr.route-solutiondata.fr^
@@ -809,7 +810,6 @@
 ||tr.tonerservices.fr^
 ||tr.trafficnews.lyria.com^
 ||tr.ujsv.espmp-agfr.net^
-||tr.uk.icicibank.com^
 ||tr.uk.katun.com^
 ||tr.unaoffertaalgiorno.com^
 ||tr.update.groupon.be^

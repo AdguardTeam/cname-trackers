@@ -5,6 +5,7 @@
 ;
 aa.samaniclucked.com CNAME .
 ae.craccaanybody.com CNAME .
+al.neuraleisfahan.com CNAME .
 an.pintaentrep.com CNAME .
 ar.tankasphose.com CNAME .
 ax.mousmeetrike.com CNAME .
@@ -23,12 +24,14 @@ dg.durgahsursize.com CNAME .
 dg.folksychapes.com CNAME .
 du.jubhahbalize.com CNAME .
 dv.citricesu.com CNAME .
+ef.betosslingala.com CNAME .
 ej.basialforced.com CNAME .
 et.harmoutguereza.com CNAME .
 eu.balletsbeep.com CNAME .
 eu.jerkytaste.com CNAME .
 ew.physciahat.com CNAME .
 ey.fifthsheet.com CNAME .
+ff.guimpefesses.com CNAME .
 fg.satraefreath.com CNAME .
 fh.termsixias.com CNAME .
 fm.ramouselong.com CNAME .
@@ -38,12 +41,14 @@ fp.mailerstalons.com CNAME .
 fy.uncheckluggies.com CNAME .
 ga.asseizeenl.com CNAME .
 gg.warmanmamelon.com CNAME .
+gn.afootwitword.com CNAME .
 go.jazygesunoared.com CNAME .
 hx.relivesternar.com CNAME .
 ia.bisetsoliped.com CNAME .
 ie.facemanuptore.com CNAME .
 ie.repointderider.com CNAME .
 io.stoushgowds.com CNAME .
+ip.fazendatoxic.com CNAME .
 ir.avertinniello.com CNAME .
 ir.mildlydoucely.com CNAME .
 ir.turbotaedile.com CNAME .
@@ -56,6 +61,7 @@ jo.tictocswended.com CNAME .
 jv.curiousuraemia.com CNAME .
 jw.posiedcaridea.com CNAME .
 kl.osmoticchalah.com CNAME .
+ks.dagamemisdeed.com CNAME .
 ku.eftesthalms.com CNAME .
 kv.patenssabzi.com CNAME .
 ld.stengskelped.com CNAME .
@@ -72,6 +78,7 @@ nc.nominaturfy.com CNAME .
 np.incrustkantela.com CNAME .
 oj.daunnotes.com CNAME .
 ok.ribworkstylus.com CNAME .
+ou.laoosmesis.com CNAME .
 oz.lokaforky.com CNAME .
 pk.axitessubclei.com CNAME .
 pq.carlingquerent.com CNAME .
@@ -80,8 +87,10 @@ qb.falsenalice.com CNAME .
 qd.loathesentour.com CNAME .
 qo.dunganof.com CNAME .
 qu.oilsulva.com CNAME .
+qv.kempitepterin.com CNAME .
 qz.equalsenframe.com CNAME .
 ra.polyserbdom.com CNAME .
+rh.sirionehusky.com CNAME .
 rm.bauderylysines.com CNAME .
 rp.tsuresoranges.com CNAME .
 rs.tupigrousy.com CNAME .
@@ -108,6 +117,7 @@ ur.meteredrato.com CNAME .
 us.aghaneefigurae.com CNAME .
 uv.elymimontauk.com CNAME .
 ux.sapoaix.com CNAME .
+uy.mawseednoblest.com CNAME .
 vd.scapemambu.com CNAME .
 vn.finisbur.com CNAME .
 vp.upswingmethyl.com CNAME .

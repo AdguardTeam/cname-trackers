@@ -56,6 +56,7 @@ affil.rutan.cz
 affil.sedacky-nabytek.cz
 affil.seduo.cz
 affil.seminarkyza1.cz
+affil.skolaobjemu.eu
 affil.smartings.cz
 affil.snadnejsizivot.cz
 affil.somavedic.cz
@@ -78,6 +79,7 @@ affil.zenskecykly.cz
 affilate.sklep38.cz
 affilbox.aliveplatform.com
 affilbox.andreashop.sk
+affilbox.doglog.cz
 affilbox.gurufinance.cz
 affilbox.kvaskovanie.sk
 affilbox.mutumutu.cz
@@ -211,6 +213,7 @@ affiliate.svarecky-obchod.cz
 affiliate.svetbot.cz
 affiliate.terarijni-potreby.cz
 affiliate.topol.io
+affiliate.trikator.cz
 affiliate.uncaria.cz
 affiliate.urbanstore.cz
 affiliate.urbanstore.sk
@@ -316,6 +319,7 @@ my.top4running.si
 my.top4running.sk
 my.weplaybasketball.cz
 my.weplaybasketball.hu
+my.weplaybasketball.ro
 my.weplaybasketball.sk
 my.weplayhandball.cz
 my.weplayhandball.hu
@@ -340,6 +344,7 @@ partner.azada.cz
 partner.babysigns.cz
 partner.bandana.cz
 partner.barnaby.cz
+partner.bazaroveregaly.cz
 partner.bebidas.cz
 partner.bilynabytek.cz
 partner.bio-nehty.cz
@@ -376,6 +381,7 @@ partner.denato.fr
 partner.denato.it
 partner.denishenry.cz
 partner.designturnaj.cz
+partner.detskyeshop.cz
 partner.directalpine.cz
 partner.domaci-pivoteka.cz
 partner.domoveda.cz
@@ -432,7 +438,10 @@ partner.leadingtechnologies.cz
 partner.legalni-konopi.cz
 partner.lehatkapropsy.cz
 partner.lemurak.cz
+partner.lenkahomeopatie.cz
+partner.liberec-ubytovani.cz
 partner.lidajirickova.cz
+partner.ltx.cz
 partner.lyzelyze.cz
 partner.marspom.cz
 partner.martinreznicek.cz
@@ -472,6 +481,7 @@ partner.pod7kilo.cz
 partner.pozitivnerozpravky.sk
 partner.pradoch.cz
 partner.pravopisne.cz
+partner.pravopisne.sk
 partner.prosperk.cz
 partner.psidetektiv.cz
 partner.root.cz
@@ -483,6 +493,7 @@ partner.scilearn.cz
 partner.scootshop.cz
 partner.sculpturepainting.eu
 partner.simplymix.com
+partner.skolske-tasky.sk
 partner.sladkemameni.com
 partner.sladkyklub.cz
 partner.slimpasta.cz
@@ -511,6 +522,7 @@ partner.totalniplavani.cz
 partner.tyano.cz
 partner.umio.sk
 partner.unuo.de
+partner.vajacandle.cz
 partner.vataonline.cz
 partner.vffoto.com
 partner.virulent.cz
@@ -537,9 +549,13 @@ partner.zonky.cz
 partner.zv1.cz
 partneri.affiliate-program.sk
 partneri.affiliatevyzva.cz
+partneri.akodlhsiezit.sk
 partneri.alchemistr.cz
 partneri.alepiacz.cz
+partneri.anglictinarychlo.sk
 partneri.apimedika.sk
+partneri.appkee.cz
+partneri.arouska.cz
 partneri.artisan.cz
 partneri.bazaroveregaly.cz
 partneri.bestargroup.cz
@@ -566,6 +582,7 @@ partneri.espressoenglish.cz
 partneri.fitstore.cz
 partneri.frcime.cz
 partneri.gigamat.cz
+partneri.givt.cz
 partneri.heavytamper.cz
 partneri.incacollagen.eu
 partneri.jakofenix.cz
@@ -593,11 +610,13 @@ partneri.natu.cz
 partneri.netfotbal.cz
 partneri.nutricbistro.cz
 partneri.onlinejazyky.cz
+partneri.oportskem.cz
 partneri.palmknihy.cz
 partneri.piercing.cz
 partneri.piratecbd.cz
 partneri.portske.cz
 partneri.prectime.cz
+partneri.professionail.sk
 partneri.proficredit.cz
 partneri.progresguru.cz
 partneri.puravia.cz
@@ -634,6 +653,7 @@ partneri.yoggspiration.cz
 partneri.zaprovizi.cz
 partneri.zdravy-zivotny-styl.sk
 partneri.zdravykram.cz
+partneri.zijchytre.cz
 partneri.zkustenzvuk.cz
 partners.adventuremenu.com
 partners.almaf.cz
@@ -646,6 +666,7 @@ program.biocitia.eu
 promo.smskouc.cz
 provize.3dfitness.cz
 provize.dzumdzum.cz
+provize.ftfc.cz
 provize.mimulo.cz
 provize.radynacestu.cz
 provize.sperky.guru
@@ -670,6 +691,7 @@ spoluprace.terrapotheka.cz
 spoluprace.vcelarstvi-domovina.cz
 test.autosedacky-online.cz
 vydelavejtesnami.pg.cz
+www.affilbox.mironet.cz
 www.affilo.cz
 www.partner.hubatacernoska.cz
 www.partneri.zuzanaondrisova.sk
@@ -677,3 +699,7 @@ www.partneri.zuzanaondrisova.sk
 # c4924.affilbox.cz disguised trackers
 #
 affiliate.kulturistika.com
+#
+# c771.affilbox.cz disguised trackers
+#
+partner.janapekna.cz

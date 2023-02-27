@@ -760,6 +760,7 @@ tr.recouvrement.younited-credit.com CNAME .
 tr.redaction.essentiel-sante-magazine.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .
 tr.relation.uneo.fr CNAME .
+tr.remboursement.orange.fr CNAME .
 tr.renowizze.be CNAME .
 tr.rh.auchan.com CNAME .
 tr.route-solutiondata.fr CNAME .
@@ -809,7 +810,6 @@ tr.toner-services.fr CNAME .
 tr.tonerservices.fr CNAME .
 tr.trafficnews.lyria.com CNAME .
 tr.ujsv.espmp-agfr.net CNAME .
-tr.uk.icicibank.com CNAME .
 tr.uk.katun.com CNAME .
 tr.unaoffertaalgiorno.com CNAME .
 tr.update.groupon.be CNAME .
