@@ -4,10 +4,12 @@
 ; ads.bid disguised trackers
 ;
 abttss-ur.exolkkl6i2puvf.ru CNAME .
+ac-dir-co.8njhhs0ivx.com CNAME .
 ac-dir-co.cau1aighae.com CNAME .
 ac-dir-co.xw1fx50x35.com CNAME .
 ac-dir-latam.cau1aighae.com CNAME .
 ac-dir-latam.xw1fx50x35.com CNAME .
+ac-dir-sing.8njhhs0ivx.com CNAME .
 ac-dir-sing.cau1aighae.com CNAME .
 ac-dir-sing.xw1fx50x35.com CNAME .
 adsbid-ad-click.adsbid.ru CNAME .
@@ -20,16 +22,17 @@ adv.ads2.bid CNAME .
 arvb.3grg8dqjil.ru CNAME .
 arvb.6v7q4txztl.ru CNAME .
 arvb.78bfjskxto.ru CNAME .
-arvb.ewtcbedtmx.ru CNAME .
 arvb.gamz48qlok.ru CNAME .
+avb-co.8njhhs0ivx.com CNAME .
 avb-co.cau1aighae.com CNAME .
 avb-co.iemieshohx.com CNAME .
 avb-co.xw1fx50x35.com CNAME .
+avb-latam.8njhhs0ivx.com CNAME .
 avb-latam.cau1aighae.com CNAME .
 avb-latam.xw1fx50x35.com CNAME .
 avb-sing.13wynpuurt.ru CNAME .
+avb-sing.8njhhs0ivx.com CNAME .
 avb-sing.cau1aighae.com CNAME .
-avb-sing.ewtcbedtmx.ru CNAME .
 avb-sing.xw1fx50x35.com CNAME .
 avbr.13wynpuurt.ru CNAME .
 avbr.c97eaqj38e.ru CNAME .

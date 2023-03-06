@@ -192,6 +192,10 @@
 !
 ||billetlugen.tns-gallup.dk^
 !
+! bilmagasinet.tns-dk.2cnt.net disguised trackers
+!
+||bilmagasinet.tns-gallup.dk^
+!
 ! bm-eavis.tns-dk.2cnt.net disguised trackers
 !
 ||bm-eavis.tns-gallup.dk^
@@ -236,6 +240,10 @@
 !
 ||business.tns-gallup.dk^
 !
+! busjob.tns-dk.2cnt.net disguised trackers
+!
+||busjob.tns-gallup.dk^
+!
 ! chip.vgwort-de.2cnt.net disguised trackers
 !
 ||chip.met.vgwort.de^
@@ -267,10 +275,6 @@
 ! dmi.tns-dk.2cnt.net disguised trackers
 !
 ||dmi.tns-gallup.dk^
-!
-! dplayiosstream.tns-dk.2cnt.net disguised trackers
-!
-||dplayiosstream.tns-gallup.dk^
 !
 ! slb-tns-dk-pool04.tns-dk.2cnt.net disguised trackers
 !
@@ -376,6 +380,10 @@
 ! halsa.tns-dk.2cnt.net disguised trackers
 !
 ||halsa.tns-gallup.dk^
+!
+! hanser.vgwort-de.2cnt.net disguised trackers
+!
+||hanser.met.vgwort.de^
 !
 ! helpster.vgwort-de.2cnt.net disguised trackers
 !
@@ -512,6 +520,10 @@
 ! politiken.tns-dk.2cnt.net disguised trackers
 !
 ||politiken.tns-gallup.dk^
+!
+! pricerunner.tns-dk.2cnt.net disguised trackers
+!
+||pricerunner.tns-gallup.dk^
 !
 ! realityportalen.tns-dk.2cnt.net disguised trackers
 !
@@ -697,10 +709,6 @@
 !
 ||ssl-dr.tns-gallup.dk^
 !
-! ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
-!
-||ssl-drandroidtvstream.tns-gallup.dk^
-!
 ! ssl-drhbbstream.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-drhbbstream.tns-gallup.dk^
@@ -712,6 +720,10 @@
 ! ssl-driosstream.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-driosstream.tns-gallup.dk^
+!
+! ssl-drtv-appletv.tns-dk.2cnt.net disguised trackers
+!
+||ssl-drtv-appletv.tns-gallup.dk^
 !
 ! ssl-ebiam.tns-dk.2cnt.net disguised trackers
 !
@@ -1240,13 +1252,17 @@
 !
 ||weeka-eavis.tns-gallup.dk^
 !
-! weka.vgwort-de.2cnt.net disguised trackers
+! weekendavisen.tns-dk.2cnt.net disguised trackers
 !
-||weka.met.vgwort.de^
+||weekendavisen.tns-gallup.dk^
 !
 ! wiley.vgwort-de.2cnt.net disguised trackers
 !
 ||wiley.met.vgwort.de^
+!
+! woman.tns-dk.2cnt.net disguised trackers
+!
+||woman.tns-gallup.dk^
 !
 ! youseeiosstream.tns-dk.2cnt.net disguised trackers
 !

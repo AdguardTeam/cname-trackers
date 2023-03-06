@@ -28,6 +28,7 @@
 ||refer.basictalk.com^
 ||refer.beautisol.com^
 ||refer.bookbyte.com^
+||refer.bowflex.com^
 ||refer.calstate.aaa.com^
 ||refer.carbonite.com^
 ||refer.checkngo.com^
@@ -94,7 +95,6 @@
 ||s.audiopass.nfl.com^
 ||s.gamepass.nfl.com^
 ||share.aeropostale.com^
-||share.catalogspree.com^
 ||share.indochino.com^
 ||share.na.sage.com^
 ||share.qalo.com^
@@ -113,7 +113,6 @@
 ||amp.bfr.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em1476.princesscruises.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -477,6 +476,7 @@
 ||share.refer-maccosmetics.it^
 ||share.refer-smashbox.com^
 ||share.riograndecu.org^
+||share.robertmondaviwinery.com^
 ||share.ross-simons.com^
 ||share.rspure.com^
 ||share.rvshare.com^
@@ -489,6 +489,7 @@
 ||share.sstack.com^
 ||share.stagsleap.com^
 ||share.starbucks.com^
+||share.statesman.com^
 ||share.steadyapp.com^
 ||share.stridehealth.com^
 ||share.studiosashiko.com^
@@ -513,6 +514,7 @@
 ||share.vichyusa.com^
 ||share.vonage.com^
 ||share.wagwalking.com^
+||share.walmartmoneycard.com^
 ||share.wecohospitality.com^
 ||share.whistle.com^
 ||share.wisdompanel.com^
@@ -523,6 +525,7 @@
 !
 ! u82658.wl159.sendgrid.net disguised trackers
 !
+||em1476.princesscruises.com^
 ||em8561.go2bank.com^
 !
 ! media-router-aol1.prod.g03.yahoodns.net disguised trackers

@@ -192,6 +192,10 @@ billedbladet.tns-gallup.dk CNAME .
 ;
 billetlugen.tns-gallup.dk CNAME .
 ;
+; bilmagasinet.tns-dk.2cnt.net disguised trackers
+;
+bilmagasinet.tns-gallup.dk CNAME .
+;
 ; bm-eavis.tns-dk.2cnt.net disguised trackers
 ;
 bm-eavis.tns-gallup.dk CNAME .
@@ -236,6 +240,10 @@ bureaubiz.tns-gallup.dk CNAME .
 ;
 business.tns-gallup.dk CNAME .
 ;
+; busjob.tns-dk.2cnt.net disguised trackers
+;
+busjob.tns-gallup.dk CNAME .
+;
 ; chip.vgwort-de.2cnt.net disguised trackers
 ;
 chip.met.vgwort.de CNAME .
@@ -267,10 +275,6 @@ dgs.tns-gallup.dk CNAME .
 ; dmi.tns-dk.2cnt.net disguised trackers
 ;
 dmi.tns-gallup.dk CNAME .
-;
-; dplayiosstream.tns-dk.2cnt.net disguised trackers
-;
-dplayiosstream.tns-gallup.dk CNAME .
 ;
 ; slb-tns-dk-pool04.tns-dk.2cnt.net disguised trackers
 ;
@@ -376,6 +380,10 @@ gratisspil.tns-gallup.dk CNAME .
 ; halsa.tns-dk.2cnt.net disguised trackers
 ;
 halsa.tns-gallup.dk CNAME .
+;
+; hanser.vgwort-de.2cnt.net disguised trackers
+;
+hanser.met.vgwort.de CNAME .
 ;
 ; helpster.vgwort-de.2cnt.net disguised trackers
 ;
@@ -512,6 +520,10 @@ pl01.owen.prolitteris.ch CNAME .
 ; politiken.tns-dk.2cnt.net disguised trackers
 ;
 politiken.tns-gallup.dk CNAME .
+;
+; pricerunner.tns-dk.2cnt.net disguised trackers
+;
+pricerunner.tns-gallup.dk CNAME .
 ;
 ; realityportalen.tns-dk.2cnt.net disguised trackers
 ;
@@ -697,10 +709,6 @@ ssl-dplaystream.tns-gallup.dk CNAME .
 ;
 ssl-dr.tns-gallup.dk CNAME .
 ;
-; ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
-;
-ssl-drandroidtvstream.tns-gallup.dk CNAME .
-;
 ; ssl-drhbbstream.tns-dk.2cnt.net disguised trackers
 ;
 ssl-drhbbstream.tns-gallup.dk CNAME .
@@ -712,6 +720,10 @@ ssl-drhbbtv.tns-gallup.dk CNAME .
 ; ssl-driosstream.tns-dk.2cnt.net disguised trackers
 ;
 ssl-driosstream.tns-gallup.dk CNAME .
+;
+; ssl-drtv-appletv.tns-dk.2cnt.net disguised trackers
+;
+ssl-drtv-appletv.tns-gallup.dk CNAME .
 ;
 ; ssl-ebiam.tns-dk.2cnt.net disguised trackers
 ;
@@ -1240,13 +1252,17 @@ waz.met.vgwort.de CNAME .
 ;
 weeka-eavis.tns-gallup.dk CNAME .
 ;
-; weka.vgwort-de.2cnt.net disguised trackers
+; weekendavisen.tns-dk.2cnt.net disguised trackers
 ;
-weka.met.vgwort.de CNAME .
+weekendavisen.tns-gallup.dk CNAME .
 ;
 ; wiley.vgwort-de.2cnt.net disguised trackers
 ;
 wiley.met.vgwort.de CNAME .
+;
+; woman.tns-dk.2cnt.net disguised trackers
+;
+woman.tns-gallup.dk CNAME .
 ;
 ; youseeiosstream.tns-dk.2cnt.net disguised trackers
 ;

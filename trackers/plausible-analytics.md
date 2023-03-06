@@ -107,7 +107,6 @@
 | cody-stats.coupa.engineering | custom.plausible.io |
 | connect.adkhifi.com | custom.plausible.io |
 | connect.astrobotanicals.com | custom.plausible.io |
-| connect.ftpresents.com | custom.plausible.io |
 | connect.tommyroxmusic.com | custom.plausible.io |
 | count.gothaer-digital.de | custom.plausible.io |
 | counter.cropvid.com | custom.plausible.io |
@@ -162,7 +161,6 @@
 | numbers.triplejack.com | custom.plausible.io |
 | nums.upscale.app | custom.plausible.io |
 | p.aj-foster.com | custom.plausible.io |
-| p.barrera.io | custom.plausible.io |
 | p.classroombookings.com | custom.plausible.io |
 | p.e-bot7.com | custom.plausible.io |
 | p.ejs.dev | custom.plausible.io |
@@ -245,6 +243,7 @@
 | plausible.brandonly.me | custom.plausible.io |
 | plausible.buildfirst.tech | custom.plausible.io |
 | plausible.campwire.com | custom.plausible.io |
+| plausible.canpoi.com | custom.plausible.io |
 | plausible.conveyal.com | custom.plausible.io |
 | plausible.corbettbarr.com | custom.plausible.io |
 | plausible.deploymentfromscratch.com | custom.plausible.io |
@@ -310,6 +309,7 @@
 | plausible.uptime.dk | custom.plausible.io |
 | plausible.urbanekuensteruhr.de | custom.plausible.io |
 | plausible.vaughanesports.org | custom.plausible.io |
+| plausible.veszelovszki.com | custom.plausible.io |
 | plausible.visitu.com | custom.plausible.io |
 | plausible.viteshot.com | custom.plausible.io |
 | plausible.west.io | custom.plausible.io |
@@ -342,6 +342,7 @@
 | s.glimesh.tv | custom.plausible.io |
 | s.innoq.com | custom.plausible.io |
 | s.inspectelement.co | custom.plausible.io |
+| s.kidori.com | custom.plausible.io |
 | s.leolabs.org | custom.plausible.io |
 | s.mannes.tech | custom.plausible.io |
 | s.maxrozen.com | custom.plausible.io |
@@ -384,7 +385,6 @@
 | statistik.veronika-steiner.at | custom.plausible.io |
 | stats-xavie.mirmon.co.uk | custom.plausible.io |
 | stats.0x2142.com | custom.plausible.io |
-| stats.4-camper.de | custom.plausible.io |
 | stats.45rpm.ch | custom.plausible.io |
 | stats.50x.ca | custom.plausible.io |
 | stats.69grad.de | custom.plausible.io |
@@ -453,7 +453,6 @@
 | stats.broddin.be | custom.plausible.io |
 | stats.buddiy.net | custom.plausible.io |
 | stats.buildingtheelite.com | custom.plausible.io |
-| stats.bungeefit.co.uk | custom.plausible.io |
 | stats.buttondown.email | custom.plausible.io |
 | stats.byma.com.br | custom.plausible.io |
 | stats.cable.tech | custom.plausible.io |
@@ -489,6 +488,7 @@
 | stats.colabra.app | custom.plausible.io |
 | stats.coldbox.org | custom.plausible.io |
 | stats.coloursoftware.com | custom.plausible.io |
+| stats.common-place.art | custom.plausible.io |
 | stats.consistum.com | custom.plausible.io |
 | stats.contentwritingjobs.com | custom.plausible.io |
 | stats.covid.vitordino.com | custom.plausible.io |
@@ -502,7 +502,6 @@
 | stats.cryptmail.io | custom.plausible.io |
 | stats.ctor.io | custom.plausible.io |
 | stats.curbnumberpro.com | custom.plausible.io |
-| stats.cymbiant.co.uk | custom.plausible.io |
 | stats.dailyposter.com | custom.plausible.io |
 | stats.danestevens.dev | custom.plausible.io |
 | stats.danielwolf.photography | custom.plausible.io |
@@ -532,6 +531,7 @@
 | stats.doors.live | custom.plausible.io |
 | stats.dotnetos.org | custom.plausible.io |
 | stats.dreher-dreher.eu | custom.plausible.io |
+| stats.drewbolles.com | custom.plausible.io |
 | stats.drgomesp.dev | custom.plausible.io |
 | stats.drtdentist.ro | custom.plausible.io |
 | stats.dt-esthetique.ch | custom.plausible.io |
@@ -544,6 +544,7 @@
 | stats.ekomenyong.com | custom.plausible.io |
 | stats.elementary.io | custom.plausible.io |
 | stats.elishaterada.com | custom.plausible.io |
+| stats.eliteclng.com | custom.plausible.io |
 | stats.elixir-lang.org | custom.plausible.io |
 | stats.elixirstream.dev | custom.plausible.io |
 | stats.elysenewland.com | custom.plausible.io |
@@ -680,7 +681,6 @@
 | stats.kryptoslogic.com | custom.plausible.io |
 | stats.ks-labs.de | custom.plausible.io |
 | stats.kyushoku2050.org | custom.plausible.io |
-| stats.laminext.dev | custom.plausible.io |
 | stats.laptopsin.space | custom.plausible.io |
 | stats.larsroettig.dev | custom.plausible.io |
 | stats.lastfm.matthiasloibl.com | custom.plausible.io |
@@ -707,6 +707,7 @@
 | stats.macosicons.com | custom.plausible.io |
 | stats.macroarraydx.com | custom.plausible.io |
 | stats.madethis.gallery | custom.plausible.io |
+| stats.maferland.com | custom.plausible.io |
 | stats.makerr.market | custom.plausible.io |
 | stats.makingknown.xyz | custom.plausible.io |
 | stats.martinbetz.eu | custom.plausible.io |
@@ -726,7 +727,7 @@
 | stats.mmazzarolo.com | custom.plausible.io |
 | stats.moco-comics.com | custom.plausible.io |
 | stats.motion-effect.com | custom.plausible.io |
-| stats.mtl.travel | custom.plausible.io |
+| stats.motorcyclepartsireland.ie | custom.plausible.io |
 | stats.mtsknn.fi | custom.plausible.io |
 | stats.muchbetteradventures.com | custom.plausible.io |
 | stats.musicuniverse.education | custom.plausible.io |
@@ -767,6 +768,7 @@
 | stats.pendleratlas.de | custom.plausible.io |
 | stats.perpetual.pizza | custom.plausible.io |
 | stats.petanode.com | custom.plausible.io |
+| stats.petr.codes | custom.plausible.io |
 | stats.phelsumagrandis.de | custom.plausible.io |
 | stats.phili.pe | custom.plausible.io |
 | stats.photovisionprints.com | custom.plausible.io |
@@ -776,10 +778,12 @@
 | stats.pixs.art | custom.plausible.io |
 | stats.pizzapizza.io | custom.plausible.io |
 | stats.plainsending.com | custom.plausible.io |
+| stats.polekatfitness.com | custom.plausible.io |
 | stats.preeventualist.org | custom.plausible.io |
 | stats.pri.org | custom.plausible.io |
 | stats.processserver101.com | custom.plausible.io |
 | stats.procumeni.cz | custom.plausible.io |
+| stats.profilehunt.net | custom.plausible.io |
 | stats.qovery.com | custom.plausible.io |
 | stats.quicksilvercre.com | custom.plausible.io |
 | stats.radreiseglueck.de | custom.plausible.io |
@@ -818,6 +822,7 @@
 | stats.seva.rocks | custom.plausible.io |
 | stats.sexplore.app | custom.plausible.io |
 | stats.shareup.app | custom.plausible.io |
+| stats.shepherd.com | custom.plausible.io |
 | stats.shh.io | custom.plausible.io |
 | stats.shoppegram.com | custom.plausible.io |
 | stats.sirdata.com | custom.plausible.io |
@@ -851,15 +856,9 @@
 | stats.szwrc.co | custom.plausible.io |
 | stats.tekin.co.uk | custom.plausible.io |
 | stats.tgoodell.com | custom.plausible.io |
-| stats.thecapablecollective.com | custom.plausible.io |
-| stats.thingsthatkeepmeupatnight.dev | custom.plausible.io |
-| stats.thinkaheadcomix.com | custom.plausible.io |
-| stats.timmyomahony.com | custom.plausible.io |
+| stats.thedartmoorsoapco.co.uk | custom.plausible.io |
+| stats.thomasvitale.com | custom.plausible.io |
 | stats.toiletmap.org.uk | custom.plausible.io |
-| stats.torontohhs.org | custom.plausible.io |
-| stats.training.fit | custom.plausible.io |
-| stats.traphekje.net | custom.plausible.io |
-| stats.travelfodder.com | custom.plausible.io |
 | stats.trenntoi.de | custom.plausible.io |
 | stats.tresor.one | custom.plausible.io |
 | stats.tsas.ca | custom.plausible.io |
@@ -876,19 +875,15 @@
 | stats.wafflemeido.art | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
 | stats.wecodeni.com | custom.plausible.io |
+| stats.whenpigsflybbq.com | custom.plausible.io |
 | stats.whereisit5pmrightnow.com | custom.plausible.io |
 | stats.world.hey.com | custom.plausible.io |
 | stats.wvs.org.uk | custom.plausible.io |
 | stats.wwdcscholars.com | custom.plausible.io |
 | stats.xactcode.com | custom.plausible.io |
 | stats.xn--drivation-b4a.fr | custom.plausible.io |
-| stats.yourdallashandyman.com | custom.plausible.io |
-| sts.papyrs.com | custom.plausible.io |
-| stts.emplution.com | custom.plausible.io |
 | stts.sgab-srfp.ch | custom.plausible.io |
-| t.andarpersassi.it | custom.plausible.io |
-| t.lastcast.fm | custom.plausible.io |
-| t.pierreprinetti.com | custom.plausible.io |
+| thor.pureelectric.se | custom.plausible.io |
 | thumos.fileside.app | custom.plausible.io |
 | tics.seeker.gg | custom.plausible.io |
 | tics.techdirt.com | custom.plausible.io |

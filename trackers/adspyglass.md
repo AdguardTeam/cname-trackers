@@ -73,7 +73,6 @@
 | a.pinoymoviepedia.ru | 0i0i0i0.com |
 | a.pornhex.com | 0i0i0i0.com |
 | a.pumpity.net | 0i0i0i0.com |
-| a.ratihbugil.online | 0i0i0i0.com |
 | a.reryn2ce.com | 0i0i0i0.com |
 | a.smut.cc | 0i0i0i0.com |
 | a.streamoupload.xyz | 0i0i0i0.com |
@@ -96,6 +95,7 @@
 | acdn.uploads.mobi | 0i0i0i0.com |
 | ad.animeitaly.org | 0i0i0i0.com |
 | ad.emule-island.eu | 0i0i0i0.com |
+| ad.pornutopia.org | 0i0i0i0.com |
 | ad.ttstreaming.stream | 0i0i0i0.com |
 | ad.wawacity.xyz | 0i0i0i0.com |
 | adanald.icu | 0i0i0i0.com |
@@ -105,6 +105,7 @@
 | ads.49inchporn.club | 0i0i0i0.com |
 | ads.free-to.download | 0i0i0i0.com |
 | ads.hentaiheart.com | 0i0i0i0.com |
+| ads.javtit.com | 0i0i0i0.com |
 | ads.onetouchtv.me | 0i0i0i0.com |
 | ads.onlyfanspornvideo.com | 0i0i0i0.com |
 | ads.pornharlot.com | 0i0i0i0.com |
@@ -140,7 +141,6 @@
 | as.lenkino.adult | 0i0i0i0.com |
 | as.pomcdn.com | 0i0i0i0.com |
 | as2.fasta.xyz | 0i0i0i0.com |
-| as2.movporvid.com | 0i0i0i0.com |
 | as2.o777i.com | 0i0i0i0.com |
 | ascc.javquick.com | 0i0i0i0.com |
 | asdf.eldos.xyz | 0i0i0i0.com |
@@ -433,7 +433,6 @@
 | pepi.haillo.xyz | 0i0i0i0.com |
 | pepipost.autos | 0i0i0i0.com |
 | pharaon.mom | 0i0i0i0.com |
-| pics.movporvid.com | 0i0i0i0.com |
 | pihu.xxxpornhd.pro | 0i0i0i0.com |
 | pivo.tracked.one | 0i0i0i0.com |
 | pizzazz.lol | 0i0i0i0.com |
@@ -484,6 +483,7 @@
 | sda.seksohub.com | 0i0i0i0.com |
 | sdg.desihamster.pro | 0i0i0i0.com |
 | sdg.fwtrck.com | 0i0i0i0.com |
+| sex.moviesporn.eu | 0i0i0i0.com |
 | sg.xclick24.com | 0i0i0i0.com |
 | sgzhg.pornlovo.co | 0i0i0i0.com |
 | sharkbiz.lol | 0i0i0i0.com |
@@ -533,6 +533,7 @@
 | titsandtits.com | 0i0i0i0.com |
 | tlgt10.makeup | 0i0i0i0.com |
 | tlv.ui02.com | 0i0i0i0.com |
+| toaioi.lol | 0i0i0i0.com |
 | tom.beclin.xyz | 0i0i0i0.com |
 | tomboy.lol | 0i0i0i0.com |
 | toyota.lol | 0i0i0i0.com |
@@ -553,6 +554,7 @@
 | vjav.com.7mmtv.top | 0i0i0i0.com |
 | vjav.com.jav-7mmtv.top | 0i0i0i0.com |
 | vsx.hotpornfile.org | 0i0i0i0.com |
+| vtaos.lol | 0i0i0i0.com |
 | vtaos.xyz | 0i0i0i0.com |
 | vtaov.lol | 0i0i0i0.com |
 | vtaov.xyz | 0i0i0i0.com |
@@ -561,6 +563,7 @@
 | vz.7vid.net | 0i0i0i0.com |
 | w00t.us | 0i0i0i0.com |
 | web.cinetux.nu | 0i0i0i0.com |
+| will.putinho.net | 0i0i0i0.com |
 | ww.cvideos.stream | 0i0i0i0.com |
 | www.adanald.icu | 0i0i0i0.com |
 | www.adhome.icu | 0i0i0i0.com |
@@ -602,8 +605,7 @@
 | cdn.manhwadesu.me | cdn66584302.blazingcdn.net |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | hq3x.com | u50.0i0i0i0.com |
-| lovelybingo.com | u50.0i0i0i0.com |
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| h-ay.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |

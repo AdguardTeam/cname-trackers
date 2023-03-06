@@ -49,6 +49,7 @@ bygr2ri20e4y.li.finance CNAME .
 cihnqp6p65.koinly.io CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
+cs3gk62alxjl.my.gloryleague.basketball CNAME .
 din1j0su0u99.artwallstreet.io CNAME .
 dlziqh9bo7.boring.fm CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
@@ -81,7 +82,6 @@ ocjeg2ca9uh9.mailfloss.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
 p13vtlg7n362.clariti.app CNAME .
 p7h1silo3f.app.cainthus.com CNAME .
-p9jhxqlkmn.miniso.com.gr CNAME .
 qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qri2r94eeajr.innovationcast.com CNAME .
@@ -97,11 +97,12 @@ twn36gx4109r.loveisblank.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
-vb9tl00evxca.www.academy.gen.tech CNAME .
 vzal21mooz.hyperwrite.ai CNAME .
 w38ju82bano4.cv.gerardbosch.xyz CNAME .
 wayyaj8t094u.www.kodalia.com CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
+wk32b562m9fo.www.cybernetman.com CNAME .
+wplno98xkhaj.kvest.ee CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
 yfbtcjlsmpv1.app.mailfloss.com CNAME .

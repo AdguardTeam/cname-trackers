@@ -13,6 +13,7 @@
 ||a8.01cloud.jp^
 ||a8.2ndstreet.jp^
 ||a8.abemashopping.jp^
+||a8.aga-hakata.com^
 ||a8.aim-beauty-medicalclinic.com^
 ||a8.au-hikarinet.com^
 ||a8.avalon-works.com^
@@ -105,6 +106,7 @@
 ||a8.lavie-official.jp^
 ||a8.learning.agaroot.jp^
 ||a8.lens-labo.com^
+||a8.lens-ocean.com^
 ||a8.looop-denki.com^
 ||a8.makeshop.jp^
 ||a8.manara.jp^
@@ -232,7 +234,6 @@
 ||a8clk.biken-mall.com^
 ||a8clk.biomarche.jp^
 ||a8clk.biz-communication.jp^
-||a8clk.bstyle.store^
 ||a8clk.buy-master.com^
 ||a8clk.camerakaitori.jp^
 ||a8clk.campaigns.speed-kaitori.jp^
@@ -308,10 +309,12 @@
 ||a8clk.kihada.jp^
 ||a8clk.komochikon.jp^
 ||a8clk.kyoto-health.co.jp^
+||a8clk.kyoyu-mochibun.com^
 ||a8clk.lasana.co.jp^
 ||a8clk.lens-1.jp^
 ||a8clk.life.bang.co.jp^
 ||a8clk.lolipop.jp^
+||a8clk.loungemembers.com^
 ||a8clk.low-ya.com^
 ||a8clk.lp.yuyu-kenko.co.jp^
 ||a8clk.ma-platform.com^
@@ -501,7 +504,6 @@
 ||a8cv.english-bootcamp.com^
 ||a8cv.entry.renet.jp^
 ||a8cv.factoringzero.jp^
-||a8cv.fast-fi.net^
 ||a8cv.favorric.com^
 ||a8cv.fc-osoujikakumei.jp^
 ||a8cv.first-spoon.com^
@@ -734,6 +736,7 @@
 ||cv.figure.toy-kaitoru.com^
 ||cv.fire-bird.jp^
 ||cv.hikkoshizamurai.jp^
+||cv.hoikushi-bosyu.com^
 ||cv.hy-fi.jp^
 ||cv.ignis.coach^
 ||cv.japan-curtain.jp^
@@ -749,6 +752,7 @@
 ||cv.smakon.jp^
 ||cv.subscription-store.com^
 ||cv.tenjin.cc^
+||cv.theatreacademy.info^
 ||cv.wp-avenue.com^
 ||cv.xn--bcktcvdzde3c.biz^
 ||cv.xn--zbs202g.com^

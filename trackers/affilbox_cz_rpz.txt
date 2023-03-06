@@ -51,6 +51,7 @@ affil.nanospace.cz CNAME .
 affil.nutriadapt.cz CNAME .
 affil.peliskydog.cz CNAME .
 affil.plkshop.cz CNAME .
+affil.powerdays.eu CNAME .
 affil.reedog.cz CNAME .
 affil.rutan.cz CNAME .
 affil.sedacky-nabytek.cz CNAME .
@@ -241,6 +242,7 @@ box.kryptotrejder.sk CNAME .
 brana.ritualyomlazeni.cz CNAME .
 doporuc.hopsej.cz CNAME .
 hcbox.fitness-zone.cz CNAME .
+hcbox.itcomplet.sk CNAME .
 hcbox.mezamo.sk CNAME .
 hcbox.mironet.cz CNAME .
 hcbox.tesla-electronics.eu CNAME .
@@ -383,13 +385,16 @@ partner.denishenry.cz CNAME .
 partner.designturnaj.cz CNAME .
 partner.detskyeshop.cz CNAME .
 partner.directalpine.cz CNAME .
+partner.doleo.cz CNAME .
 partner.domaci-pivoteka.cz CNAME .
 partner.domoveda.cz CNAME .
 partner.doplnse.cz CNAME .
 partner.dr-nek.cz CNAME .
+partner.dripit.cz CNAME .
 partner.duverujsveintuici.cz CNAME .
 partner.dynamikabohatstvi.cz CNAME .
 partner.eandilek.cz CNAME .
+partner.econea.cz CNAME .
 partner.epravo.cz CNAME .
 partner.eshop-gyorsan.hu CNAME .
 partner.eshop-rodas.cz CNAME .
@@ -441,6 +446,7 @@ partner.lemurak.cz CNAME .
 partner.lenkahomeopatie.cz CNAME .
 partner.liberec-ubytovani.cz CNAME .
 partner.lidajirickova.cz CNAME .
+partner.lifetest.eu CNAME .
 partner.ltx.cz CNAME .
 partner.lyzelyze.cz CNAME .
 partner.marspom.cz CNAME .
@@ -493,6 +499,7 @@ partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
 partner.sculpturepainting.eu CNAME .
 partner.simplymix.com CNAME .
+partner.skinnygirls.cz CNAME .
 partner.skolske-tasky.sk CNAME .
 partner.sladkemameni.com CNAME .
 partner.sladkyklub.cz CNAME .
@@ -593,6 +600,7 @@ partneri.kerasek.cz CNAME .
 partneri.kimgroup.cz CNAME .
 partneri.kuptorazdva.cz CNAME .
 partneri.kurzeo.com CNAME .
+partneri.legalni-konopi.cz CNAME .
 partneri.levne-barvy-laky.cz CNAME .
 partneri.liborcinka.cz CNAME .
 partneri.lightway.cz CNAME .
@@ -655,7 +663,6 @@ partneri.zdravy-zivotny-styl.sk CNAME .
 partneri.zdravykram.cz CNAME .
 partneri.zijchytre.cz CNAME .
 partneri.zkustenzvuk.cz CNAME .
-partners.adventuremenu.com CNAME .
 partners.almaf.cz CNAME .
 partners.lawofattraction.cz CNAME .
 partners.oktagon.tv CNAME .

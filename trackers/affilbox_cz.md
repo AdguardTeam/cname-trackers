@@ -63,6 +63,7 @@
 | affil.nutriadapt.cz | cz.affilbox.cz |
 | affil.peliskydog.cz | cz.affilbox.cz |
 | affil.plkshop.cz | cz.affilbox.cz |
+| affil.powerdays.eu | cz.affilbox.cz |
 | affil.reedog.cz | cz.affilbox.cz |
 | affil.rutan.cz | cz.affilbox.cz |
 | affil.sedacky-nabytek.cz | cz.affilbox.cz |
@@ -253,6 +254,7 @@
 | brana.ritualyomlazeni.cz | cz.affilbox.cz |
 | doporuc.hopsej.cz | cz.affilbox.cz |
 | hcbox.fitness-zone.cz | cz.affilbox.cz |
+| hcbox.itcomplet.sk | cz.affilbox.cz |
 | hcbox.mezamo.sk | cz.affilbox.cz |
 | hcbox.mironet.cz | cz.affilbox.cz |
 | hcbox.tesla-electronics.eu | cz.affilbox.cz |
@@ -395,13 +397,16 @@
 | partner.designturnaj.cz | cz.affilbox.cz |
 | partner.detskyeshop.cz | cz.affilbox.cz |
 | partner.directalpine.cz | cz.affilbox.cz |
+| partner.doleo.cz | cz.affilbox.cz |
 | partner.domaci-pivoteka.cz | cz.affilbox.cz |
 | partner.domoveda.cz | cz.affilbox.cz |
 | partner.doplnse.cz | cz.affilbox.cz |
 | partner.dr-nek.cz | cz.affilbox.cz |
+| partner.dripit.cz | cz.affilbox.cz |
 | partner.duverujsveintuici.cz | cz.affilbox.cz |
 | partner.dynamikabohatstvi.cz | cz.affilbox.cz |
 | partner.eandilek.cz | cz.affilbox.cz |
+| partner.econea.cz | cz.affilbox.cz |
 | partner.epravo.cz | cz.affilbox.cz |
 | partner.eshop-gyorsan.hu | cz.affilbox.cz |
 | partner.eshop-rodas.cz | cz.affilbox.cz |
@@ -453,6 +458,7 @@
 | partner.lenkahomeopatie.cz | cz.affilbox.cz |
 | partner.liberec-ubytovani.cz | cz.affilbox.cz |
 | partner.lidajirickova.cz | cz.affilbox.cz |
+| partner.lifetest.eu | cz.affilbox.cz |
 | partner.ltx.cz | cz.affilbox.cz |
 | partner.lyzelyze.cz | cz.affilbox.cz |
 | partner.marspom.cz | cz.affilbox.cz |
@@ -505,6 +511,7 @@
 | partner.scootshop.cz | cz.affilbox.cz |
 | partner.sculpturepainting.eu | cz.affilbox.cz |
 | partner.simplymix.com | cz.affilbox.cz |
+| partner.skinnygirls.cz | cz.affilbox.cz |
 | partner.skolske-tasky.sk | cz.affilbox.cz |
 | partner.sladkemameni.com | cz.affilbox.cz |
 | partner.sladkyklub.cz | cz.affilbox.cz |
@@ -605,6 +612,7 @@
 | partneri.kimgroup.cz | cz.affilbox.cz |
 | partneri.kuptorazdva.cz | cz.affilbox.cz |
 | partneri.kurzeo.com | cz.affilbox.cz |
+| partneri.legalni-konopi.cz | cz.affilbox.cz |
 | partneri.levne-barvy-laky.cz | cz.affilbox.cz |
 | partneri.liborcinka.cz | cz.affilbox.cz |
 | partneri.lightway.cz | cz.affilbox.cz |
@@ -667,7 +675,6 @@
 | partneri.zdravykram.cz | cz.affilbox.cz |
 | partneri.zijchytre.cz | cz.affilbox.cz |
 | partneri.zkustenzvuk.cz | cz.affilbox.cz |
-| partners.adventuremenu.com | cz.affilbox.cz |
 | partners.almaf.cz | cz.affilbox.cz |
 | partners.lawofattraction.cz | cz.affilbox.cz |
 | partners.oktagon.tv | cz.affilbox.cz |

@@ -19,7 +19,6 @@
     * bookbyte.extole.com
     * calstate-aaa.extole.com
     * carbonite-ssl.extole.com
-    * catalogspree-ssl.extole.com
     * checkngo.extole.com
     * chubbies.extole.com
     * clearme-ssl.extole.com
@@ -55,6 +54,7 @@
     * montgomeryadvertiser.extole.com
     * moo.extole.com
     * myplant.extole.com
+    * nautilus.extole.com
     * nflaudiopass2.extole.com
     * nflgamepass.extole.com
     * nflgamerewind.extole.com
@@ -345,7 +345,6 @@
     * popcorn-factory.extole.io
     * pottery-barn.extole.io
     * princess.extole.io
-    * princesscruises.em.extole.io
     * princessuk.extole.io
     * prokeds.extole.io
     * promofarma.extole.io
@@ -367,6 +366,7 @@
     * remit2india.extole.io
     * riley-rose.extole.io
     * rio-grande-credit-union.extole.io
+    * robertmondaviwinery.extole.io
     * rockport.extole.io
     * rodo.extole.io
     * ross-simons.extole.io
@@ -442,6 +442,7 @@
     * visions.extole.io
     * vonagebusiness.extole.io
     * wagwalking.extole.io
+    * walmartmoneycard.extole.io
     * wecohospitality.extole.io
     * whistle.extole.io
     * whitehouseblackmarket.extole.io
@@ -564,7 +565,6 @@
 | refer.canoos.com | canoos.extole.io |
 | refer.carbonite.com | carbonite-ssl.extole.com |
 | share.carparts.com | carpartscom.extole.io |
-| share.catalogspree.com | catalogspree-ssl.extole.com |
 | refer.catfootwear.com | catfootwear.extole.io |
 | share.cefaly.com | cefaly.extole.io |
 | share.cellcom.ca | cellcom.extole.io |
@@ -662,6 +662,7 @@
 | share.floridatoday.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
 | share.poughkeepsiejournal.com | gannett.extole.io |
+| share.statesman.com | gannett.extole.io |
 | share.tallahassee.com | gannett.extole.io |
 | share.tcpalm.com | gannett.extole.io |
 | share.usatoday.com | gannett.extole.io |
@@ -779,6 +780,7 @@
 | share.myollie.com | myollie.extole.io |
 | refer.myplant.com | myplant.extole.com |
 | refer.narscosmetics.com | nars-cosmetics.extole.io |
+| refer.bowflex.com | nautilus.extole.com |
 | share.newtonbaby.com | newtonbaby.extole.io |
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | s.audiopass.nfl.com | nflaudiopass2.extole.com |
@@ -823,7 +825,6 @@
 | refer.potterybarn.com | pottery-barn.extole.io |
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |
-| em1476.princesscruises.com | princesscruises.em.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
 | refer.prokeds.com | prokeds.extole.io |
 | share.docmorris.fr | promofarma.extole.io |
@@ -852,6 +853,7 @@
 | refer.rileyrose.com | riley-rose.extole.io |
 | share.riograndecu.org | rio-grande-credit-union.extole.io |
 | refer.roadrunnersports.com | roadrunnersports-ssl.extole.com |
+| share.robertmondaviwinery.com | robertmondaviwinery.extole.io |
 | refer.rockport.com | rockport.extole.io |
 | refer.rodo.com | rodo.extole.io |
 | share.ross-simons.com | ross-simons.extole.io |
@@ -938,6 +940,7 @@
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
 | share.stagsleap.com | tweglobal.extole.io |
 | refer.twisthair.com | twisthair.extole.io |
+| em1476.princesscruises.com | u82658.wl159.sendgrid.net |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
 | refer.ulta.com | ulta.extole.com |
 | share.unchartedsociety.com | unchartedsociety.extole.io |
@@ -965,6 +968,7 @@
 | share.vonage.com | vonagebusiness.extole.io |
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
+| share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | www.trevoce.com | web-tool-qa.lb.extole.com |
 | share.wecohospitality.com | wecohospitality.extole.io |
 | refer.wgu.edu | wgu.extole.com |

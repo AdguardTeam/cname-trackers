@@ -51,6 +51,7 @@
 ||affil.nutriadapt.cz^
 ||affil.peliskydog.cz^
 ||affil.plkshop.cz^
+||affil.powerdays.eu^
 ||affil.reedog.cz^
 ||affil.rutan.cz^
 ||affil.sedacky-nabytek.cz^
@@ -241,6 +242,7 @@
 ||brana.ritualyomlazeni.cz^
 ||doporuc.hopsej.cz^
 ||hcbox.fitness-zone.cz^
+||hcbox.itcomplet.sk^
 ||hcbox.mezamo.sk^
 ||hcbox.mironet.cz^
 ||hcbox.tesla-electronics.eu^
@@ -383,13 +385,16 @@
 ||partner.designturnaj.cz^
 ||partner.detskyeshop.cz^
 ||partner.directalpine.cz^
+||partner.doleo.cz^
 ||partner.domaci-pivoteka.cz^
 ||partner.domoveda.cz^
 ||partner.doplnse.cz^
 ||partner.dr-nek.cz^
+||partner.dripit.cz^
 ||partner.duverujsveintuici.cz^
 ||partner.dynamikabohatstvi.cz^
 ||partner.eandilek.cz^
+||partner.econea.cz^
 ||partner.epravo.cz^
 ||partner.eshop-gyorsan.hu^
 ||partner.eshop-rodas.cz^
@@ -441,6 +446,7 @@
 ||partner.lenkahomeopatie.cz^
 ||partner.liberec-ubytovani.cz^
 ||partner.lidajirickova.cz^
+||partner.lifetest.eu^
 ||partner.ltx.cz^
 ||partner.lyzelyze.cz^
 ||partner.marspom.cz^
@@ -493,6 +499,7 @@
 ||partner.scootshop.cz^
 ||partner.sculpturepainting.eu^
 ||partner.simplymix.com^
+||partner.skinnygirls.cz^
 ||partner.skolske-tasky.sk^
 ||partner.sladkemameni.com^
 ||partner.sladkyklub.cz^
@@ -593,6 +600,7 @@
 ||partneri.kimgroup.cz^
 ||partneri.kuptorazdva.cz^
 ||partneri.kurzeo.com^
+||partneri.legalni-konopi.cz^
 ||partneri.levne-barvy-laky.cz^
 ||partneri.liborcinka.cz^
 ||partneri.lightway.cz^
@@ -655,7 +663,6 @@
 ||partneri.zdravykram.cz^
 ||partneri.zijchytre.cz^
 ||partneri.zkustenzvuk.cz^
-||partners.adventuremenu.com^
 ||partners.almaf.cz^
 ||partners.lawofattraction.cz^
 ||partners.oktagon.tv^

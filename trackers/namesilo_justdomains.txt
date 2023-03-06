@@ -491,8 +491,10 @@
 3572277.notify6.com
 3572277.notifysrv.com
 3572904.notifysrv.com
+3576907.notifysrv.com
 3580293.notifysrv.com
 3580393.notify6.com
+3580393.notifysrv.com
 3584069.notifysrv.com
 3588.notify.optimizesrv.com
 3588587.notify6.com
@@ -503,6 +505,7 @@
 3618939.notify6.com
 3629687.notify6.com
 3629693.notify6.com
+3629693.notifysrv.com
 3631057.notify6.com
 3653689.notify6.com
 3658633.notifysrv.com
@@ -511,6 +514,7 @@
 3662897.notifysrv.com
 3668785.notifysrv.com
 3668787.notifysrv.com
+3668791.notify6.com
 3670119.notifysrv.com
 3670315.notify6.com
 3710063.notifysrv.com
@@ -539,6 +543,7 @@
 3881818.notify6.com
 3884584.notify6.com
 3898244.notify6.com
+3917502.notify6.com
 3917542.notify6.com
 3943940.notify6.com
 3944044.notify6.com
@@ -567,6 +572,7 @@
 3975710.notify6.com
 3979160.notify6.com
 3982708.notify6.com
+3989692.notify6.com
 3997384.notify6.com
 4003022.notify6.com
 4003752.notify6.com
@@ -579,6 +585,7 @@
 4046272.notify6.com
 4048172.notify6.com
 4050544.notify6.com
+4061366.notify6.com
 4061378.notify6.com
 4062424.notify6.com
 4068856.notify6.com
@@ -591,10 +598,12 @@
 4143324.notify6.com
 4144426.notify6.com
 4149128.notify6.com
+4152268.notify6.com
 4152328.notify6.com
 4162256.notify6.com
 4188246.notify6.com
 4189910.notify6.com
+4189916.notify6.com
 4195738.notify6.com
 4212982.notify6.com
 4243868.notify6.com
@@ -612,6 +621,7 @@
 4407878.notify6.com
 4455804.notify6.com
 4470554.notify6.com
+4527824.notify6.com
 4576708.notify6.com
 4587228.notify6.com
 4598410.notify6.com
@@ -651,22 +661,17 @@
 769.notify.optimizesrv.com
 905.notify.optimizesrv.com
 _sip._tcp.meet.3393147.notifysrv.com
-a.addisplaynetwork.com
+a.a3ion.com
+a.asvsm.com
 a.etology.com
 a.paradoxgroup.uk
 a.redpathmedia.com
-a.slice.exchange
 a.stuffserve.com
 admin.adxnow.com
-admin.gettopple.com
-admin.shafttraffic.com
 api.adnation.com
 api.adxnow.com
 delivery.gettopple.com
 engine.gettopple.com
-m.hsrve.com
-m.hss2x.com
-m.hss2y.com
 m.hst2x.com
 m.optnx.com
 main.adxnow.com
@@ -680,6 +685,7 @@ origin-ads.exosrv.com
 origin-ads.optimizesrv.com
 origin-ads.realsrv.com
 rtb.exoclick.com
+s.a3ion.com
 s.adnflow.com
 s.eaalink.com
 s.elink2b.com
@@ -700,6 +706,7 @@ s.opti-digital.com
 s.optidigital.com
 s.optnx.com
 s.orbsrv.com
+s.paradoxgroup.uk
 s.redpathmedia.com
 s.slice.exchange
 s.st1net.com
@@ -754,3 +761,5 @@ delivery.gettopple.com
 # cds.v3j9t5q9.hwcdn.net disguised trackers
 #
 admin.adnation.com
+admin.gettopple.com
+admin.shafttraffic.com

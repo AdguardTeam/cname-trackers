@@ -356,6 +356,7 @@ drfdisvc.walmart.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
 enligne.bnc.ca CNAME .
+ep.vystarcu.org CNAME .
 event.evtm.53.com CNAME .
 ex.exnessstats.com CNAME .
 faas.2dehands.be CNAME .
@@ -402,6 +403,7 @@ images.applyfleet.com CNAME .
 images.essofleetoffers.com CNAME .
 images.exxonmobilfleetoffers.com CNAME .
 images.wexinc.com CNAME .
+imagesmx.cdiscountpro.com CNAME .
 imagesmx.cdscdn.com CNAME .
 img.consumer.risk.lexisnexis.com CNAME .
 img.dailylook.com CNAME .
@@ -513,6 +515,7 @@ portal-fp-qa2.qa.threatmetrix.com CNAME .
 portal-fp-qaperf2.qa.threatmetrix.com CNAME .
 portal-fp.threatmetrix.com CNAME .
 pov.spectrum.net CNAME .
+prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
@@ -593,6 +596,7 @@ secured.netflix.com CNAME .
 service.riverscontent.com CNAME .
 servicesdp.luckydays.ca CNAME .
 servicesdp.spinaway.ca CNAME .
+sg-payment.cydf.hoyoverse.com CNAME .
 shield.boostbusiness.my CNAME .
 sitehelper.myengageft.com CNAME .
 sitehelper.optimizemoney.com CNAME .
@@ -728,6 +732,7 @@ tm.creditsimple.com.au CNAME .
 tm.cybersource.com CNAME .
 tm.directly.com CNAME .
 tm.fanduel.com CNAME .
+tm.fidelity.co.uk CNAME .
 tm.goldennuggetcasino.com CNAME .
 tm.gumtree.co.za CNAME .
 tm.gumtree.com.au CNAME .
@@ -762,6 +767,7 @@ tms.paysafe.com CNAME .
 tmt.houzz.com CNAME .
 tmuat.kotak.com CNAME .
 tmx-fpt.credit-agricole.pl CNAME .
+tmx.additionfi.com CNAME .
 tmx.bestbuy.com CNAME .
 tmx.beyondbank.com.au CNAME .
 tmx.carhistory.com.au CNAME .
@@ -826,6 +832,7 @@ w3.vectrabank.com CNAME .
 w3.zionsbank.com CNAME .
 webftm.rbc.com CNAME .
 webftm.sterbc.com CNAME .
+wildcard.humm.ie CNAME .
 wp.kroger.com CNAME .
 ww3.fundingstream.com CNAME .
 ww3.marlincapitalsolutions.com CNAME .

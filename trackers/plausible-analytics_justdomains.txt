@@ -102,7 +102,6 @@ churro.noteapps.info
 cody-stats.coupa.engineering
 connect.adkhifi.com
 connect.astrobotanicals.com
-connect.ftpresents.com
 connect.tommyroxmusic.com
 count.gothaer-digital.de
 counter.cropvid.com
@@ -157,7 +156,6 @@ numbers.monthlyphotos.com
 numbers.triplejack.com
 nums.upscale.app
 p.aj-foster.com
-p.barrera.io
 p.classroombookings.com
 p.e-bot7.com
 p.ejs.dev
@@ -240,6 +238,7 @@ plausible.bostad.shop
 plausible.brandonly.me
 plausible.buildfirst.tech
 plausible.campwire.com
+plausible.canpoi.com
 plausible.conveyal.com
 plausible.corbettbarr.com
 plausible.deploymentfromscratch.com
@@ -305,6 +304,7 @@ plausible.test.sketch.com
 plausible.uptime.dk
 plausible.urbanekuensteruhr.de
 plausible.vaughanesports.org
+plausible.veszelovszki.com
 plausible.visitu.com
 plausible.viteshot.com
 plausible.west.io
@@ -337,6 +337,7 @@ s.freelanceratecalculator.com
 s.glimesh.tv
 s.innoq.com
 s.inspectelement.co
+s.kidori.com
 s.leolabs.org
 s.mannes.tech
 s.maxrozen.com
@@ -379,7 +380,6 @@ statistik.apartments-tirolerhaus.at
 statistik.veronika-steiner.at
 stats-xavie.mirmon.co.uk
 stats.0x2142.com
-stats.4-camper.de
 stats.45rpm.ch
 stats.50x.ca
 stats.69grad.de
@@ -448,7 +448,6 @@ stats.briskoda.net
 stats.broddin.be
 stats.buddiy.net
 stats.buildingtheelite.com
-stats.bungeefit.co.uk
 stats.buttondown.email
 stats.byma.com.br
 stats.cable.tech
@@ -484,6 +483,7 @@ stats.cohere.so
 stats.colabra.app
 stats.coldbox.org
 stats.coloursoftware.com
+stats.common-place.art
 stats.consistum.com
 stats.contentwritingjobs.com
 stats.covid.vitordino.com
@@ -497,7 +497,6 @@ stats.crewebo.de
 stats.cryptmail.io
 stats.ctor.io
 stats.curbnumberpro.com
-stats.cymbiant.co.uk
 stats.dailyposter.com
 stats.danestevens.dev
 stats.danielwolf.photography
@@ -527,6 +526,7 @@ stats.dominikmayer.com
 stats.doors.live
 stats.dotnetos.org
 stats.dreher-dreher.eu
+stats.drewbolles.com
 stats.drgomesp.dev
 stats.drtdentist.ro
 stats.dt-esthetique.ch
@@ -539,6 +539,7 @@ stats.einsvieracht.de
 stats.ekomenyong.com
 stats.elementary.io
 stats.elishaterada.com
+stats.eliteclng.com
 stats.elixir-lang.org
 stats.elixirstream.dev
 stats.elysenewland.com
@@ -675,7 +676,6 @@ stats.kruimel-dief.nl
 stats.kryptoslogic.com
 stats.ks-labs.de
 stats.kyushoku2050.org
-stats.laminext.dev
 stats.laptopsin.space
 stats.larsroettig.dev
 stats.lastfm.matthiasloibl.com
@@ -702,6 +702,7 @@ stats.lumen-app.com
 stats.macosicons.com
 stats.macroarraydx.com
 stats.madethis.gallery
+stats.maferland.com
 stats.makerr.market
 stats.makingknown.xyz
 stats.martinbetz.eu
@@ -721,7 +722,7 @@ stats.missionrabies.com
 stats.mmazzarolo.com
 stats.moco-comics.com
 stats.motion-effect.com
-stats.mtl.travel
+stats.motorcyclepartsireland.ie
 stats.mtsknn.fi
 stats.muchbetteradventures.com
 stats.musicuniverse.education
@@ -762,6 +763,7 @@ stats.paysagistes.pro
 stats.pendleratlas.de
 stats.perpetual.pizza
 stats.petanode.com
+stats.petr.codes
 stats.phelsumagrandis.de
 stats.phili.pe
 stats.photovisionprints.com
@@ -771,10 +773,12 @@ stats.pise-notes.club
 stats.pixs.art
 stats.pizzapizza.io
 stats.plainsending.com
+stats.polekatfitness.com
 stats.preeventualist.org
 stats.pri.org
 stats.processserver101.com
 stats.procumeni.cz
+stats.profilehunt.net
 stats.qovery.com
 stats.quicksilvercre.com
 stats.radreiseglueck.de
@@ -813,6 +817,7 @@ stats.servicedesignjobs.com
 stats.seva.rocks
 stats.sexplore.app
 stats.shareup.app
+stats.shepherd.com
 stats.shh.io
 stats.shoppegram.com
 stats.sirdata.com
@@ -846,15 +851,9 @@ stats.symbiofest.cz
 stats.szwrc.co
 stats.tekin.co.uk
 stats.tgoodell.com
-stats.thecapablecollective.com
-stats.thingsthatkeepmeupatnight.dev
-stats.thinkaheadcomix.com
-stats.timmyomahony.com
+stats.thedartmoorsoapco.co.uk
+stats.thomasvitale.com
 stats.toiletmap.org.uk
-stats.torontohhs.org
-stats.training.fit
-stats.traphekje.net
-stats.travelfodder.com
 stats.trenntoi.de
 stats.tresor.one
 stats.tsas.ca
@@ -871,19 +870,15 @@ stats.wachstum.at
 stats.wafflemeido.art
 stats.walkiees.co.uk
 stats.wecodeni.com
+stats.whenpigsflybbq.com
 stats.whereisit5pmrightnow.com
 stats.world.hey.com
 stats.wvs.org.uk
 stats.wwdcscholars.com
 stats.xactcode.com
 stats.xn--drivation-b4a.fr
-stats.yourdallashandyman.com
-sts.papyrs.com
-stts.emplution.com
 stts.sgab-srfp.ch
-t.andarpersassi.it
-t.lastcast.fm
-t.pierreprinetti.com
+thor.pureelectric.se
 thumos.fileside.app
 tics.seeker.gg
 tics.techdirt.com

@@ -74,6 +74,7 @@ tr.b2d1.espmp-agfr.net CNAME .
 tr.b2d1068.espmp-nifr.net CNAME .
 tr.b2d106z.espmp-aufr.net CNAME .
 tr.bati-partner.be CNAME .
+tr.bati-partners.be CNAME .
 tr.batirenover.info CNAME .
 tr.batiweb.co CNAME .
 tr.bgl.premium-benefits.lu CNAME .
@@ -91,6 +92,7 @@ tr.btobquotes.com CNAME .
 tr.btobquotes.mx CNAME .
 tr.buenasofertas.pro CNAME .
 tr.bureauveritas.espmp-aufr.net CNAME .
+tr.business-deal.cl CNAME .
 tr.business-deal.com.br CNAME .
 tr.business-deal.fr CNAME .
 tr.business-deal.nl CNAME .
@@ -366,6 +368,7 @@ tr.info.onboarding.corporatecards.bnpparibas CNAME .
 tr.info.perl.fr CNAME .
 tr.info.ph-bpifrance.fr CNAME .
 tr.info.phsolidaire-bpifrance.fr CNAME .
+tr.info.pret-participatif.fr CNAME .
 tr.info.promoneuve.fr CNAME .
 tr.info.reunica.com CNAME .
 tr.info.rouen.aeroport.fr CNAME .
@@ -376,6 +379,7 @@ tr.info.valcenis.com CNAME .
 tr.info.vip-mag.co.uk CNAME .
 tr.infolettre.securite-routiere.gouv.fr CNAME .
 tr.infolettres.groupama.com CNAME .
+tr.infomarche.hennessy.fr CNAME .
 tr.information.fidalformations.fr CNAME .
 tr.information.lacollection-airfrance.fr CNAME .
 tr.information.perfectstay.com CNAME .
@@ -425,6 +429,7 @@ tr.louvre-boites.com CNAME .
 tr.ltbu.espmp-nifr.net CNAME .
 tr.lvmhappening.lvmh.fr CNAME .
 tr.m.cwisas.com CNAME .
+tr.macarte.truffaut.com CNAME .
 tr.mail-companeo.fr CNAME .
 tr.mail.banque-casino.fr CNAME .
 tr.mail.cdiscount.com.ec CNAME .
@@ -639,6 +644,7 @@ tr.newsletter.astro-mail.com CNAME .
 tr.newsletter.bassins-a-flot.fr CNAME .
 tr.newsletter.bauermedia.fr CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
+tr.newsletter.bouygues.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
 tr.newsletter.cuisine-plus.tv CNAME .
 tr.newsletter.ecig-privee.fr CNAME .
@@ -810,6 +816,7 @@ tr.toner-services.fr CNAME .
 tr.tonerservices.fr CNAME .
 tr.trafficnews.lyria.com CNAME .
 tr.ujsv.espmp-agfr.net CNAME .
+tr.uk.icicibank.com CNAME .
 tr.uk.katun.com CNAME .
 tr.unaoffertaalgiorno.com CNAME .
 tr.update.groupon.be CNAME .

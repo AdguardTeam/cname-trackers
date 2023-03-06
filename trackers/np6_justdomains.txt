@@ -74,6 +74,7 @@ tr.b2d1.espmp-agfr.net
 tr.b2d1068.espmp-nifr.net
 tr.b2d106z.espmp-aufr.net
 tr.bati-partner.be
+tr.bati-partners.be
 tr.batirenover.info
 tr.batiweb.co
 tr.bgl.premium-benefits.lu
@@ -91,6 +92,7 @@ tr.btobquotes.com
 tr.btobquotes.mx
 tr.buenasofertas.pro
 tr.bureauveritas.espmp-aufr.net
+tr.business-deal.cl
 tr.business-deal.com.br
 tr.business-deal.fr
 tr.business-deal.nl
@@ -366,6 +368,7 @@ tr.info.onboarding.corporatecards.bnpparibas
 tr.info.perl.fr
 tr.info.ph-bpifrance.fr
 tr.info.phsolidaire-bpifrance.fr
+tr.info.pret-participatif.fr
 tr.info.promoneuve.fr
 tr.info.reunica.com
 tr.info.rouen.aeroport.fr
@@ -376,6 +379,7 @@ tr.info.valcenis.com
 tr.info.vip-mag.co.uk
 tr.infolettre.securite-routiere.gouv.fr
 tr.infolettres.groupama.com
+tr.infomarche.hennessy.fr
 tr.information.fidalformations.fr
 tr.information.lacollection-airfrance.fr
 tr.information.perfectstay.com
@@ -425,6 +429,7 @@ tr.louvre-boites.com
 tr.ltbu.espmp-nifr.net
 tr.lvmhappening.lvmh.fr
 tr.m.cwisas.com
+tr.macarte.truffaut.com
 tr.mail-companeo.fr
 tr.mail.banque-casino.fr
 tr.mail.cdiscount.com.ec
@@ -639,6 +644,7 @@ tr.newsletter.astro-mail.com
 tr.newsletter.bassins-a-flot.fr
 tr.newsletter.bauermedia.fr
 tr.newsletter.bouygues-construction.com
+tr.newsletter.bouygues.com
 tr.newsletter.capdecision.fr
 tr.newsletter.cuisine-plus.tv
 tr.newsletter.ecig-privee.fr
@@ -810,6 +816,7 @@ tr.toner-services.fr
 tr.tonerservices.fr
 tr.trafficnews.lyria.com
 tr.ujsv.espmp-agfr.net
+tr.uk.icicibank.com
 tr.uk.katun.com
 tr.unaoffertaalgiorno.com
 tr.update.groupon.be

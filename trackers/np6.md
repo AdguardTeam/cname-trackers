@@ -90,6 +90,7 @@
 | tr.b2d1068.espmp-nifr.net | tracking.bp01.net |
 | tr.b2d106z.espmp-aufr.net | tracking.bp01.net |
 | tr.bati-partner.be | tracking.bp01.net |
+| tr.bati-partners.be | tracking.bp01.net |
 | tr.batirenover.info | tracking.bp01.net |
 | tr.batiweb.co | tracking.bp01.net |
 | tr.bgl.premium-benefits.lu | tracking.bp01.net |
@@ -107,6 +108,7 @@
 | tr.btobquotes.mx | tracking.bp01.net |
 | tr.buenasofertas.pro | tracking.bp01.net |
 | tr.bureauveritas.espmp-aufr.net | tracking.bp01.net |
+| tr.business-deal.cl | tracking.bp01.net |
 | tr.business-deal.com.br | tracking.bp01.net |
 | tr.business-deal.fr | tracking.bp01.net |
 | tr.business-deal.nl | tracking.bp01.net |
@@ -382,6 +384,7 @@
 | tr.info.perl.fr | tracking.bp01.net |
 | tr.info.ph-bpifrance.fr | tracking.bp01.net |
 | tr.info.phsolidaire-bpifrance.fr | tracking.bp01.net |
+| tr.info.pret-participatif.fr | tracking.bp01.net |
 | tr.info.promoneuve.fr | tracking.bp01.net |
 | tr.info.reunica.com | tracking.bp01.net |
 | tr.info.rouen.aeroport.fr | tracking.bp01.net |
@@ -392,6 +395,7 @@
 | tr.info.vip-mag.co.uk | tracking.bp01.net |
 | tr.infolettre.securite-routiere.gouv.fr | tracking.bp01.net |
 | tr.infolettres.groupama.com | tracking.bp01.net |
+| tr.infomarche.hennessy.fr | tracking.bp01.net |
 | tr.information.fidalformations.fr | tracking.bp01.net |
 | tr.information.lacollection-airfrance.fr | tracking.bp01.net |
 | tr.information.perfectstay.com | tracking.bp01.net |
@@ -441,6 +445,7 @@
 | tr.ltbu.espmp-nifr.net | tracking.bp01.net |
 | tr.lvmhappening.lvmh.fr | tracking.bp01.net |
 | tr.m.cwisas.com | tracking.bp01.net |
+| tr.macarte.truffaut.com | tracking.bp01.net |
 | tr.mail-companeo.fr | tracking.bp01.net |
 | tr.mail.banque-casino.fr | tracking.bp01.net |
 | tr.mail.cdiscount.com.ec | tracking.bp01.net |
@@ -655,6 +660,7 @@
 | tr.newsletter.bassins-a-flot.fr | tracking.bp01.net |
 | tr.newsletter.bauermedia.fr | tracking.bp01.net |
 | tr.newsletter.bouygues-construction.com | tracking.bp01.net |
+| tr.newsletter.bouygues.com | tracking.bp01.net |
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
 | tr.newsletter.cuisine-plus.tv | tracking.bp01.net |
 | tr.newsletter.ecig-privee.fr | tracking.bp01.net |
@@ -826,6 +832,7 @@
 | tr.tonerservices.fr | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |
 | tr.ujsv.espmp-agfr.net | tracking.bp01.net |
+| tr.uk.icicibank.com | tracking.bp01.net |
 | tr.uk.katun.com | tracking.bp01.net |
 | tr.unaoffertaalgiorno.com | tracking.bp01.net |
 | tr.update.groupon.be | tracking.bp01.net |

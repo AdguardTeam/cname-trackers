@@ -13,7 +13,6 @@
 | ad.aflamk1.net | api.clickaine.com |
 | ad.arabxl.com | api.clickaine.com |
 | ad1.xero.porn | api.clickaine.com |
-| adb.xfilm.me | api.clickaine.com |
 | api.mgandzd.one | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
 | api.willalland.info | api.clickaine.com |
@@ -69,7 +68,6 @@
 | ddd.sexstories69.com | api.clickaine.com |
 | dnsbl.test.ww1.willalland.info | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
-| f4r.deutschepornos49.com | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flare.vtube.to | api.clickaine.com |
 | get.xclick24.com | api.clickaine.com |
@@ -81,9 +79,9 @@
 | hruk.prikupok.icu | api.clickaine.com |
 | icn.brandnewapp.pro | api.clickaine.com |
 | mail.7porn.ru | api.clickaine.com |
+| orange.arabtoons.net | api.clickaine.com |
 | ps1.reallifecam.to | api.clickaine.com |
 | reg.ancensored.com | api.clickaine.com |
-| route69.watchporn.to | api.clickaine.com |
 | s1.rtnews.pro | api.clickaine.com |
 | s1.wnacg.org | api.clickaine.com |
 | sda.arabsex1.com | api.clickaine.com |

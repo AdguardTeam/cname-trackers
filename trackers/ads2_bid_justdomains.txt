@@ -4,10 +4,12 @@
 # ads.bid disguised trackers
 #
 abttss-ur.exolkkl6i2puvf.ru
+ac-dir-co.8njhhs0ivx.com
 ac-dir-co.cau1aighae.com
 ac-dir-co.xw1fx50x35.com
 ac-dir-latam.cau1aighae.com
 ac-dir-latam.xw1fx50x35.com
+ac-dir-sing.8njhhs0ivx.com
 ac-dir-sing.cau1aighae.com
 ac-dir-sing.xw1fx50x35.com
 adsbid-ad-click.adsbid.ru
@@ -20,16 +22,17 @@ adv.ads2.bid
 arvb.3grg8dqjil.ru
 arvb.6v7q4txztl.ru
 arvb.78bfjskxto.ru
-arvb.ewtcbedtmx.ru
 arvb.gamz48qlok.ru
+avb-co.8njhhs0ivx.com
 avb-co.cau1aighae.com
 avb-co.iemieshohx.com
 avb-co.xw1fx50x35.com
+avb-latam.8njhhs0ivx.com
 avb-latam.cau1aighae.com
 avb-latam.xw1fx50x35.com
 avb-sing.13wynpuurt.ru
+avb-sing.8njhhs0ivx.com
 avb-sing.cau1aighae.com
-avb-sing.ewtcbedtmx.ru
 avb-sing.xw1fx50x35.com
 avbr.13wynpuurt.ru
 avbr.c97eaqj38e.ru

@@ -171,7 +171,6 @@
     * 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp
     * 9fc5109a-rgq6b9zp.cname.ebis.ne.jp
     * a0550855-fbzwhcnp.cname.ebis.ne.jp
-    * a0c6f4cd-wqcfddrl.cname.ebis.ne.jp
     * a0dd7a11-rrtv6uew.cname.ebis.ne.jp
     * a16fee0d-vwmnftsa.cname.ebis.ne.jp
     * a1f251c6-iksdytmu.cname.ebis.ne.jp
@@ -195,7 +194,6 @@
     * b5e8d6c4-bzcut99h.cname.ebis.ne.jp
     * b654b31b-gbehg577.cname.ebis.ne.jp
     * b69bfde6-esqb2ypb.cname.ebis.ne.jp
-    * b773e430-snfbdnnq.cname.ebis.ne.jp
     * b8c55ecd-zx8ipvjj.cname.ebis.ne.jp
     * b91cdac9-llbfadyx.cname.ebis.ne.jp
     * b9f16cb4-srrg93nh.cname.ebis.ne.jp
@@ -449,7 +447,6 @@
 | cname-adebis.nice2meet.us | 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp |
 | y8hxgv9m.kobetsu.co.jp | 9fc5109a-rgq6b9zp.cname.ebis.ne.jp |
 | cname-ade.shachihata.biz | a0550855-fbzwhcnp.cname.ebis.ne.jp |
-| ebis.hokensoudannavi.jp | a0c6f4cd-wqcfddrl.cname.ebis.ne.jp |
 | ebis.pasonatech.co.jp | a0dd7a11-rrtv6uew.cname.ebis.ne.jp |
 | ebis.goldcrest.co.jp | a16fee0d-vwmnftsa.cname.ebis.ne.jp |
 | test-ad.lucia-c.com | a1f251c6-iksdytmu.cname.ebis.ne.jp |
@@ -473,7 +470,6 @@
 | www2.hnavi.co.jp | b5e8d6c4-bzcut99h.cname.ebis.ne.jp |
 | www-ebis.384.co.jp | b654b31b-gbehg577.cname.ebis.ne.jp |
 | ebis.15jikai.com | b69bfde6-esqb2ypb.cname.ebis.ne.jp |
-| adebis.toitoitoi.clinic | b773e430-snfbdnnq.cname.ebis.ne.jp |
 | adebis.entetsu.co.jp | b8c55ecd-zx8ipvjj.cname.ebis.ne.jp |
 | ebiscname.j-esthe-yoyaku.com | b91cdac9-llbfadyx.cname.ebis.ne.jp |
 | greenjapan-cname.green-japan.com | b9f16cb4-srrg93nh.cname.ebis.ne.jp |

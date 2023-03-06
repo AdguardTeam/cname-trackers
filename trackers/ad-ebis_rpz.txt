@@ -87,7 +87,6 @@ adebis.thd-web.jp CNAME .
 adebis.theclinic.jp CNAME .
 adebis.tipness.co.jp CNAME .
 adebis.tohshin.co.jp CNAME .
-adebis.toitoitoi.clinic CNAME .
 adebis.tokyuhotels.co.jp CNAME .
 adebis.toushi-up.com CNAME .
 adebis.urban-research.jp CNAME .
@@ -182,7 +181,6 @@ ebis.funaisoken.co.jp CNAME .
 ebis.glico-direct.jp CNAME .
 ebis.gokusen-ichiba.com CNAME .
 ebis.goldcrest.co.jp CNAME .
-ebis.hokensoudannavi.jp CNAME .
 ebis.j-l-m.co.jp CNAME .
 ebis.jinzai-business.com CNAME .
 ebis.jobcan.jp CNAME .

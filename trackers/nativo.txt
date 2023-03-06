@@ -4,8 +4,8 @@
 ! ntv.io disguised trackers
 !
 ||c333.macworld.co.uk^
-||partners.time.com^
 ||sponsor.syracuse.com^
+||www.realworldsurvivor.com^
 !
 ! ntvpforever.com disguised trackers
 !
@@ -19,7 +19,6 @@
 ||071cc548ff.78ab4874ae.com^
 ||084cc7e11c.abc35a1d01.com^
 ||088d98f687.7a3b147921.com^
-||0956a1534a.255925943c.com^
 ||0acbf53d71.711f421280.com^
 ||0b05878fdd.fddf7d58ea.com^
 ||0b6ecb7f80.c986493e7d.com^
@@ -60,9 +59,12 @@
 ||3fb830355c.9be814e81e.com^
 ||41e02b972b.9f101f07c7.com^
 ||41f8a60477.cd4fb281e1.com^
+||41ff45a3db.03f128fb44.com^
+||42412d3534.32f36a4d79.com^
 ||428fcb314a.5ae63880d1.com^
 ||434d80d136.a07d30aaf0.com^
 ||46fe7fa264.4d2a483049.com^
+||48260aa935.f3a173b897.com^
 ||48c1f78392.31f4ea3b17.com^
 ||4909cc6acc.0fc32b5283.com^
 ||497a1141f1.23d097de11.com^
@@ -113,6 +115,7 @@
 ||790d5944bd.7d1f2e00ed.com^
 ||79a0430857.7c56087863.com^
 ||7a8ba6e850.bc40aaccb7.com^
+||7b4927c8f2.373c93bba1.com^
 ||7b7a5435b5.5dd044e588.com^
 ||7ddfe7bb78.1eb76ce5b7.com^
 ||7ee6aa4a84.102168588b.com^
@@ -149,12 +152,15 @@
 ||a108652c62.f78f9d3fc2.com^
 ||a2ee316f2b.9c56fb6868.com^
 ||a2f288701d.a4334cc1ec.com^
+||a390770006.41291ba668.com^
 ||a3f4ac548d.114f3eaf8b.com^
 ||a536a9d481.04fce94137.com^
 ||a6270385bc.560fe03925.com^
 ||a80b9802f4.1aed915a81.com^
+||a9c3a4315a.59e15e749d.com^
 ||aac03b1778.6374870abd.com^
 ||ab6de09242.441a8a5527.com^
+||ac8b9eaf81.db2f8e1acc.com^
 ||acb5145d0c.8874d81f48.com^
 ||ad02b0144f.b06fcca6fd.com^
 ||ad517c8087.b2f227b09e.com^
@@ -177,19 +183,21 @@
 ||bd2bc05960.47daeb1eac.com^
 ||bd2ca6c82d.20e2b2c425.com^
 ||beb86406c2.680566accf.com^
+||bee395bc6e.8413c95209.com^
 ||bfe70bbd52.23182b9851.com^
 ||bfe8a1874d.bdced8843e.com^
+||bff816ce07.2c9bc8255a.com^
 ||c0b0be585f.581c933842.com^
 ||c0feed95eb.1b1c88d5e6.com^
 ||c14f40b010.3574fd3373.com^
 ||c1dfd30227.86c9ac4797.com^
 ||c353ac05ea.b0fea47e81.com^
-||c3dce92cb6.15ba8a8998.com^
 ||c504d3250f.52c9f48b14.com^
 ||c5626f808b.36d1ef387c.com^
 ||c6605baadd.2d6a7b9179.com^
 ||c6644ac158.2ae70a6814.com^
 ||c7b79a8bf6.593cdd41e1.com^
+||c926b14548.d69b881dcc.com^
 ||cc76f2eeaa.0692e14e66.com^
 ||cc8ffe7ceb.da1a0e7bb3.com^
 ||cca691f765.ca3362de0f.com^
@@ -214,6 +222,7 @@
 ||e144c46b1f.ab910ac1aa.com^
 ||e1de143963.cc3f3eedbb.com^
 ||e341c11575.f63f3176ad.com^
+||e69a848f04.f9751fcbfb.com^
 ||e7cb682ade.7c3d7c5dec.com^
 ||e87b92329f.64eab1d337.com^
 ||e9dddfa444.07ad173c64.com^
@@ -233,21 +242,25 @@
 ||f4c85c5128.111d140e96.com^
 ||f9aa8dba65.2e14072eac.com^
 ||fa5248bea9.d7d38597d6.com^
+||fad362ad5f.2d70ed4cc1.com^
 ||fb02e621c6.1c09d36b99.com^
 ||fb43b02984.af5cdb3fe3.com^
 ||fc6150a639.f7e79a5f70.com^
 ||fe8d4b33c2.8abf43d6ad.com^
+||ffe405491d.28b67b8230.com^
 !
 ! postrelease.com disguised trackers
 !
-||a235.htvnativeadsolutions.com^
-||a614.pennlive.com^
+||a235.thehour.com^
+||a614.al.com^
+||a614.nj.com^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 !
 ! jadserve.postrelease.com.akadns.net disguised trackers
 !
 ||a135.wftv.com^
+||a614.pennlive.com^
 ||csoonline.share.ntv.io^
 ||entrepreneur.share.ntv.io^
 ||nj.finegardening.com^
@@ -259,6 +272,7 @@
 ||a235.chron.com^
 ||a235.ctnews.com^
 ||a235.gametimect.com^
+||a235.htvnativeadsolutions.com^
 ||a235.lmtonline.com^
 ||a235.mrt.com^
 ||a235.newstimes.com^

@@ -65,6 +65,8 @@ tk.dossier.co CNAME .
 tk.engie.fr CNAME .
 tk.etam.com CNAME .
 tk.healthwarehouse.com CNAME .
+tk.hypnia.co.uk CNAME .
+tk.hypnia.es CNAME .
 tk.hypnia.fr CNAME .
 tk.illicado.com CNAME .
 tk.jeux.loro.ch CNAME .

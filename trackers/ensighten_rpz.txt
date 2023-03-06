@@ -9,6 +9,7 @@ activate.anntaylor.com CNAME .
 activate.apia.com.au CNAME .
 activate.baltimoresun.com CNAME .
 activate.bingle.com.au CNAME .
+activate.capitalgazette.com CNAME .
 activate.chicagoredeye.com CNAME .
 activate.chicagotribune.com CNAME .
 activate.cityandshore.com CNAME .
@@ -279,6 +280,7 @@ tagman.crystalsummer.co.uk CNAME .
 tagman.fotolia.com CNAME .
 tagman.intercall.com CNAME .
 tagman.silversingles.com CNAME .
+tagman.surfstitch.com CNAME .
 tagman.thistle.com CNAME .
 tagman.transavia.com CNAME .
 tagman.virgin-atlantic.com CNAME .

@@ -11,6 +11,7 @@ ar.tankasphose.com CNAME .
 ax.mousmeetrike.com CNAME .
 ax.requotebatman.com CNAME .
 bh.twifoilperoxyl.com CNAME .
+bj.preideanested.com CNAME .
 bk.clinkedsphecid.com CNAME .
 bl.delbertgobans.com CNAME .
 bm.shamosmatic.com CNAME .
@@ -57,6 +58,7 @@ je.sepiasfra.com CNAME .
 ji.axingectal.com CNAME .
 jj.jaupsgrimes.com CNAME .
 jk.baltisbockey.com CNAME .
+jl.reckonpretax.com CNAME .
 jo.tictocswended.com CNAME .
 jv.curiousuraemia.com CNAME .
 jw.posiedcaridea.com CNAME .
@@ -119,6 +121,7 @@ uv.elymimontauk.com CNAME .
 ux.sapoaix.com CNAME .
 uy.mawseednoblest.com CNAME .
 vd.scapemambu.com CNAME .
+vi.spratstatters.com CNAME .
 vn.finisbur.com CNAME .
 vp.upswingmethyl.com CNAME .
 vt.alieneepunta.com CNAME .

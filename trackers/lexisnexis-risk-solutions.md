@@ -37,6 +37,7 @@
     * h-4hq91r5k.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-4ulk5mz4.online-metrix.net
+    * h-516jl8bt.online-metrix.net
     * h-5gi6k6h5.online-metrix.net
     * h-5glaq71x.online-metrix.net
     * h-5pxao9h8.online-metrix.net
@@ -48,6 +49,7 @@
     * h-6voqock8.online-metrix.net
     * h-6wp7e261.online-metrix.net
     * h-6xl38gst.online-metrix.net
+    * h-6y7fu8j2.online-metrix.net
     * h-6y7oe1nl.online-metrix.net
     * h-72wrr4p1.online-metrix.net
     * h-7bugohi5.online-metrix.net
@@ -113,6 +115,7 @@
     * h-avant.online-metrix.net
     * h-axiata.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
+    * h-b3m5a8st.online-metrix.net
     * h-badoo.online-metrix.net
     * h-bambu.online-metrix.net
     * h-banco.digio.online-metrix.net
@@ -356,6 +359,7 @@
     * h-k8vif92e-2.online-metrix.net
     * h-k8vif92e-au.online-metrix.net
     * h-k8vif92e-av.online-metrix.net
+    * h-k8vif92e-cogno.online-metrix.net
     * h-k8vif92e-egy.online-metrix.net
     * h-k8vif92e-jm.online-metrix.net
     * h-k8vif92e-lulu.online-metrix.net
@@ -578,6 +582,7 @@
     * h-vodeno.online-metrix.net
     * h-voto-provident.online-metrix.net
     * h-vrs.online-metrix.net
+    * h-vystar.online-metrix.net
     * h-wallapop.online-metrix.net
     * h-walmart.online-metrix.net
     * h-webftm.rbc.online-metrix.net
@@ -618,6 +623,7 @@
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
+| prod-cstonefcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | matrix.cpg.org | h-1qpcog32.online-metrix.net |
@@ -646,6 +652,7 @@
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | tmx-fpt.credit-agricole.pl | h-4ulk5mz4.online-metrix.net |
+| tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
 | content.ifpsoyyo.co | h-5gi6k6h5.online-metrix.net |
 | api.ext.evolution.protective.com | h-5glaq71x.online-metrix.net |
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
@@ -668,6 +675,7 @@
 | content.telusinternational.ai | h-6voqock8.online-metrix.net |
 | contentservices.clearairlending.com | h-6wp7e261.online-metrix.net |
 | content.cofidis.pt | h-6xl38gst.online-metrix.net |
+| wildcard.humm.ie | h-6y7fu8j2.online-metrix.net |
 | content.pledg.co | h-6y7oe1nl.online-metrix.net |
 | rba.infinitium.com | h-72wrr4p1.online-metrix.net |
 | r.hokodo.co | h-7bugohi5.online-metrix.net |
@@ -754,6 +762,7 @@
 | img2.avant.com | h-avant.online-metrix.net |
 | caveo.boost-my.com | h-axiata.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
+| tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
 | ln.meudigio.com.br | h-banco.digio.online-metrix.net |
@@ -835,6 +844,7 @@
 | content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | tcontent.cdiscountmobile.cdiscount.com | h-cdcmobile.online-metrix.net |
+| imagesmx.cdiscountpro.com | h-cdiscount.online-metrix.net |
 | imagesmx.cdscdn.com | h-cdiscount.online-metrix.net |
 | fp.cdn-scripts.com | h-cdn-scripts.online-metrix.net |
 | cdn.coastcapitalsavings.com | h-cdn.coastcapitalsavings.online-metrix.net |
@@ -1088,6 +1098,7 @@
 | img3.avis.com | h-k8vif92e-av.online-metrix.net |
 | img3.budget.com | h-k8vif92e-av.online-metrix.net |
 | img3.paylesscar.com | h-k8vif92e-av.online-metrix.net |
+| sg-payment.cydf.hoyoverse.com | h-k8vif92e-cogno.online-metrix.net |
 | content.egyptair.com | h-k8vif92e-egy.online-metrix.net |
 | cdncy.jmbullion.com | h-k8vif92e-jm.online-metrix.net |
 | checkout-df.lululemon.com | h-k8vif92e-lulu.online-metrix.net |
@@ -1395,6 +1406,7 @@
 | fp.aion.be | h-vodeno.online-metrix.net |
 | voto.provident.pl | h-voto-provident.online-metrix.net |
 | content.varetire.org | h-vrs.online-metrix.net |
+| ep.vystarcu.org | h-vystar.online-metrix.net |
 | clear.wallapop.com | h-wallapop.online-metrix.net |
 | drfdisvc.walmart.com | h-walmart.online-metrix.net |
 | webftm.rbc.com | h-webftm.rbc.online-metrix.net |

@@ -9,6 +9,7 @@
 ||activate.apia.com.au^
 ||activate.baltimoresun.com^
 ||activate.bingle.com.au^
+||activate.capitalgazette.com^
 ||activate.chicagoredeye.com^
 ||activate.chicagotribune.com^
 ||activate.cityandshore.com^
@@ -279,6 +280,7 @@
 ||tagman.fotolia.com^
 ||tagman.intercall.com^
 ||tagman.silversingles.com^
+||tagman.surfstitch.com^
 ||tagman.thistle.com^
 ||tagman.transavia.com^
 ||tagman.virgin-atlantic.com^

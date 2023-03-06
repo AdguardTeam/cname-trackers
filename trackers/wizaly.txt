@@ -65,6 +65,8 @@
 ||tk.engie.fr^
 ||tk.etam.com^
 ||tk.healthwarehouse.com^
+||tk.hypnia.co.uk^
+||tk.hypnia.es^
 ||tk.hypnia.fr^
 ||tk.illicado.com^
 ||tk.jeux.loro.ch^

@@ -62,7 +62,6 @@ a.pinayviralsexx.com CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornhex.com CNAME .
 a.pumpity.net CNAME .
-a.ratihbugil.online CNAME .
 a.reryn2ce.com CNAME .
 a.smut.cc CNAME .
 a.streamoupload.xyz CNAME .
@@ -85,6 +84,7 @@ abracadabrahub.com CNAME .
 acdn.uploads.mobi CNAME .
 ad.animeitaly.org CNAME .
 ad.emule-island.eu CNAME .
+ad.pornutopia.org CNAME .
 ad.ttstreaming.stream CNAME .
 ad.wawacity.xyz CNAME .
 adanald.icu CNAME .
@@ -94,6 +94,7 @@ ads.2conv.com CNAME .
 ads.49inchporn.club CNAME .
 ads.free-to.download CNAME .
 ads.hentaiheart.com CNAME .
+ads.javtit.com CNAME .
 ads.onetouchtv.me CNAME .
 ads.onlyfanspornvideo.com CNAME .
 ads.pornharlot.com CNAME .
@@ -129,7 +130,6 @@ as.lencdn.com CNAME .
 as.lenkino.adult CNAME .
 as.pomcdn.com CNAME .
 as2.fasta.xyz CNAME .
-as2.movporvid.com CNAME .
 as2.o777i.com CNAME .
 ascc.javquick.com CNAME .
 asdf.eldos.xyz CNAME .
@@ -356,7 +356,6 @@ load2.xxxdb.io CNAME .
 loienlao.mom CNAME .
 lol.globlax.com CNAME .
 look.bookies.lol CNAME .
-lovelybingo.com CNAME .
 lx5.homeporntuber.com CNAME .
 m.x-power.info CNAME .
 m.xrum.info CNAME .
@@ -426,7 +425,6 @@ pep929.mom CNAME .
 pepi.haillo.xyz CNAME .
 pepipost.autos CNAME .
 pharaon.mom CNAME .
-pics.movporvid.com CNAME .
 pihu.xxxpornhd.pro CNAME .
 pivo.tracked.one CNAME .
 pizzazz.lol CNAME .
@@ -478,6 +476,7 @@ scuoo.porneq.co CNAME .
 sda.seksohub.com CNAME .
 sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
+sex.moviesporn.eu CNAME .
 sg.xclick24.com CNAME .
 sgzhg.pornlovo.co CNAME .
 sharkbiz.lol CNAME .
@@ -527,6 +526,7 @@ tip.vipz.lol CNAME .
 titsandtits.com CNAME .
 tlgt10.makeup CNAME .
 tlv.ui02.com CNAME .
+toaioi.lol CNAME .
 tom.beclin.xyz CNAME .
 tomboy.lol CNAME .
 toyota.lol CNAME .
@@ -547,6 +547,7 @@ video.jokanime.online CNAME .
 vjav.com.7mmtv.top CNAME .
 vjav.com.jav-7mmtv.top CNAME .
 vsx.hotpornfile.org CNAME .
+vtaos.lol CNAME .
 vtaos.xyz CNAME .
 vtaov.lol CNAME .
 vtaov.xyz CNAME .
@@ -555,6 +556,7 @@ vuvlog.lol CNAME .
 vz.7vid.net CNAME .
 w00t.us CNAME .
 web.cinetux.nu CNAME .
+will.putinho.net CNAME .
 ww.cvideos.stream CNAME .
 www.adanald.icu CNAME .
 www.adhome.icu CNAME .
@@ -601,4 +603,4 @@ cdn.manhwadesu.me CNAME .
 ;
 ; u53.hypnorat.com disguised trackers
 ;
-h-ay.com CNAME .
+qoqv.com CNAME .

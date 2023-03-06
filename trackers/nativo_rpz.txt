@@ -4,8 +4,8 @@
 ; ntv.io disguised trackers
 ;
 c333.macworld.co.uk CNAME .
-partners.time.com CNAME .
 sponsor.syracuse.com CNAME .
+www.realworldsurvivor.com CNAME .
 ;
 ; ntvpforever.com disguised trackers
 ;
@@ -19,7 +19,6 @@ sponsor.syracuse.com CNAME .
 071cc548ff.78ab4874ae.com CNAME .
 084cc7e11c.abc35a1d01.com CNAME .
 088d98f687.7a3b147921.com CNAME .
-0956a1534a.255925943c.com CNAME .
 0acbf53d71.711f421280.com CNAME .
 0b05878fdd.fddf7d58ea.com CNAME .
 0b6ecb7f80.c986493e7d.com CNAME .
@@ -60,9 +59,12 @@ sponsor.syracuse.com CNAME .
 3fb830355c.9be814e81e.com CNAME .
 41e02b972b.9f101f07c7.com CNAME .
 41f8a60477.cd4fb281e1.com CNAME .
+41ff45a3db.03f128fb44.com CNAME .
+42412d3534.32f36a4d79.com CNAME .
 428fcb314a.5ae63880d1.com CNAME .
 434d80d136.a07d30aaf0.com CNAME .
 46fe7fa264.4d2a483049.com CNAME .
+48260aa935.f3a173b897.com CNAME .
 48c1f78392.31f4ea3b17.com CNAME .
 4909cc6acc.0fc32b5283.com CNAME .
 497a1141f1.23d097de11.com CNAME .
@@ -113,6 +115,7 @@ sponsor.syracuse.com CNAME .
 790d5944bd.7d1f2e00ed.com CNAME .
 79a0430857.7c56087863.com CNAME .
 7a8ba6e850.bc40aaccb7.com CNAME .
+7b4927c8f2.373c93bba1.com CNAME .
 7b7a5435b5.5dd044e588.com CNAME .
 7ddfe7bb78.1eb76ce5b7.com CNAME .
 7ee6aa4a84.102168588b.com CNAME .
@@ -149,12 +152,15 @@ sponsor.syracuse.com CNAME .
 a108652c62.f78f9d3fc2.com CNAME .
 a2ee316f2b.9c56fb6868.com CNAME .
 a2f288701d.a4334cc1ec.com CNAME .
+a390770006.41291ba668.com CNAME .
 a3f4ac548d.114f3eaf8b.com CNAME .
 a536a9d481.04fce94137.com CNAME .
 a6270385bc.560fe03925.com CNAME .
 a80b9802f4.1aed915a81.com CNAME .
+a9c3a4315a.59e15e749d.com CNAME .
 aac03b1778.6374870abd.com CNAME .
 ab6de09242.441a8a5527.com CNAME .
+ac8b9eaf81.db2f8e1acc.com CNAME .
 acb5145d0c.8874d81f48.com CNAME .
 ad02b0144f.b06fcca6fd.com CNAME .
 ad517c8087.b2f227b09e.com CNAME .
@@ -177,19 +183,21 @@ bcdb664dff.0d356de9ef.com CNAME .
 bd2bc05960.47daeb1eac.com CNAME .
 bd2ca6c82d.20e2b2c425.com CNAME .
 beb86406c2.680566accf.com CNAME .
+bee395bc6e.8413c95209.com CNAME .
 bfe70bbd52.23182b9851.com CNAME .
 bfe8a1874d.bdced8843e.com CNAME .
+bff816ce07.2c9bc8255a.com CNAME .
 c0b0be585f.581c933842.com CNAME .
 c0feed95eb.1b1c88d5e6.com CNAME .
 c14f40b010.3574fd3373.com CNAME .
 c1dfd30227.86c9ac4797.com CNAME .
 c353ac05ea.b0fea47e81.com CNAME .
-c3dce92cb6.15ba8a8998.com CNAME .
 c504d3250f.52c9f48b14.com CNAME .
 c5626f808b.36d1ef387c.com CNAME .
 c6605baadd.2d6a7b9179.com CNAME .
 c6644ac158.2ae70a6814.com CNAME .
 c7b79a8bf6.593cdd41e1.com CNAME .
+c926b14548.d69b881dcc.com CNAME .
 cc76f2eeaa.0692e14e66.com CNAME .
 cc8ffe7ceb.da1a0e7bb3.com CNAME .
 cca691f765.ca3362de0f.com CNAME .
@@ -214,6 +222,7 @@ dfc8514de8.1ca65f5f5b.com CNAME .
 e144c46b1f.ab910ac1aa.com CNAME .
 e1de143963.cc3f3eedbb.com CNAME .
 e341c11575.f63f3176ad.com CNAME .
+e69a848f04.f9751fcbfb.com CNAME .
 e7cb682ade.7c3d7c5dec.com CNAME .
 e87b92329f.64eab1d337.com CNAME .
 e9dddfa444.07ad173c64.com CNAME .
@@ -233,21 +242,25 @@ f43bb3465e.10eafd09d6.com CNAME .
 f4c85c5128.111d140e96.com CNAME .
 f9aa8dba65.2e14072eac.com CNAME .
 fa5248bea9.d7d38597d6.com CNAME .
+fad362ad5f.2d70ed4cc1.com CNAME .
 fb02e621c6.1c09d36b99.com CNAME .
 fb43b02984.af5cdb3fe3.com CNAME .
 fc6150a639.f7e79a5f70.com CNAME .
 fe8d4b33c2.8abf43d6ad.com CNAME .
+ffe405491d.28b67b8230.com CNAME .
 ;
 ; postrelease.com disguised trackers
 ;
-a235.htvnativeadsolutions.com CNAME .
-a614.pennlive.com CNAME .
+a235.thehour.com CNAME .
+a614.al.com CNAME .
+a614.nj.com CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 ;
 ; jadserve.postrelease.com.akadns.net disguised trackers
 ;
 a135.wftv.com CNAME .
+a614.pennlive.com CNAME .
 csoonline.share.ntv.io CNAME .
 entrepreneur.share.ntv.io CNAME .
 nj.finegardening.com CNAME .
@@ -259,6 +272,7 @@ shared.sponsoredcontent.com CNAME .
 a235.chron.com CNAME .
 a235.ctnews.com CNAME .
 a235.gametimect.com CNAME .
+a235.htvnativeadsolutions.com CNAME .
 a235.lmtonline.com CNAME .
 a235.mrt.com CNAME .
 a235.newstimes.com CNAME .

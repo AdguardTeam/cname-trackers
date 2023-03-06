@@ -28,6 +28,7 @@ refer.barenecessities.com CNAME .
 refer.basictalk.com CNAME .
 refer.beautisol.com CNAME .
 refer.bookbyte.com CNAME .
+refer.bowflex.com CNAME .
 refer.calstate.aaa.com CNAME .
 refer.carbonite.com CNAME .
 refer.checkngo.com CNAME .
@@ -94,7 +95,6 @@ referral.vistaprint.com CNAME .
 s.audiopass.nfl.com CNAME .
 s.gamepass.nfl.com CNAME .
 share.aeropostale.com CNAME .
-share.catalogspree.com CNAME .
 share.indochino.com CNAME .
 share.na.sage.com CNAME .
 share.qalo.com CNAME .
@@ -113,7 +113,6 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em1476.princesscruises.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -477,6 +476,7 @@ share.refer-maccosmetics.fr CNAME .
 share.refer-maccosmetics.it CNAME .
 share.refer-smashbox.com CNAME .
 share.riograndecu.org CNAME .
+share.robertmondaviwinery.com CNAME .
 share.ross-simons.com CNAME .
 share.rspure.com CNAME .
 share.rvshare.com CNAME .
@@ -489,6 +489,7 @@ share.skillshare.com CNAME .
 share.sstack.com CNAME .
 share.stagsleap.com CNAME .
 share.starbucks.com CNAME .
+share.statesman.com CNAME .
 share.steadyapp.com CNAME .
 share.stridehealth.com CNAME .
 share.studiosashiko.com CNAME .
@@ -513,6 +514,7 @@ share.veritycu.com CNAME .
 share.vichyusa.com CNAME .
 share.vonage.com CNAME .
 share.wagwalking.com CNAME .
+share.walmartmoneycard.com CNAME .
 share.wecohospitality.com CNAME .
 share.whistle.com CNAME .
 share.wisdompanel.com CNAME .
@@ -523,6 +525,7 @@ www.referquickbooks.com CNAME .
 ;
 ; u82658.wl159.sendgrid.net disguised trackers
 ;
+em1476.princesscruises.com CNAME .
 em8561.go2bank.com CNAME .
 ;
 ; media-router-aol1.prod.g03.yahoodns.net disguised trackers

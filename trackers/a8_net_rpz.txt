@@ -13,6 +13,7 @@ a8-xshop.secure.xserver.ne.jp CNAME .
 a8.01cloud.jp CNAME .
 a8.2ndstreet.jp CNAME .
 a8.abemashopping.jp CNAME .
+a8.aga-hakata.com CNAME .
 a8.aim-beauty-medicalclinic.com CNAME .
 a8.au-hikarinet.com CNAME .
 a8.avalon-works.com CNAME .
@@ -105,6 +106,7 @@ a8.lacitashop.com CNAME .
 a8.lavie-official.jp CNAME .
 a8.learning.agaroot.jp CNAME .
 a8.lens-labo.com CNAME .
+a8.lens-ocean.com CNAME .
 a8.looop-denki.com CNAME .
 a8.makeshop.jp CNAME .
 a8.manara.jp CNAME .
@@ -232,7 +234,6 @@ a8clk.bikeman.jp CNAME .
 a8clk.biken-mall.com CNAME .
 a8clk.biomarche.jp CNAME .
 a8clk.biz-communication.jp CNAME .
-a8clk.bstyle.store CNAME .
 a8clk.buy-master.com CNAME .
 a8clk.camerakaitori.jp CNAME .
 a8clk.campaigns.speed-kaitori.jp CNAME .
@@ -308,10 +309,12 @@ a8clk.kenkoukazoku.co.jp CNAME .
 a8clk.kihada.jp CNAME .
 a8clk.komochikon.jp CNAME .
 a8clk.kyoto-health.co.jp CNAME .
+a8clk.kyoyu-mochibun.com CNAME .
 a8clk.lasana.co.jp CNAME .
 a8clk.lens-1.jp CNAME .
 a8clk.life.bang.co.jp CNAME .
 a8clk.lolipop.jp CNAME .
+a8clk.loungemembers.com CNAME .
 a8clk.low-ya.com CNAME .
 a8clk.lp.yuyu-kenko.co.jp CNAME .
 a8clk.ma-platform.com CNAME .
@@ -501,7 +504,6 @@ a8cv.encounter2017.jp CNAME .
 a8cv.english-bootcamp.com CNAME .
 a8cv.entry.renet.jp CNAME .
 a8cv.factoringzero.jp CNAME .
-a8cv.fast-fi.net CNAME .
 a8cv.favorric.com CNAME .
 a8cv.fc-osoujikakumei.jp CNAME .
 a8cv.first-spoon.com CNAME .
@@ -734,6 +736,7 @@ cv.drive-hikari.net CNAME .
 cv.figure.toy-kaitoru.com CNAME .
 cv.fire-bird.jp CNAME .
 cv.hikkoshizamurai.jp CNAME .
+cv.hoikushi-bosyu.com CNAME .
 cv.hy-fi.jp CNAME .
 cv.ignis.coach CNAME .
 cv.japan-curtain.jp CNAME .
@@ -749,6 +752,7 @@ cv.shiryoku1.com CNAME .
 cv.smakon.jp CNAME .
 cv.subscription-store.com CNAME .
 cv.tenjin.cc CNAME .
+cv.theatreacademy.info CNAME .
 cv.wp-avenue.com CNAME .
 cv.xn--bcktcvdzde3c.biz CNAME .
 cv.xn--zbs202g.com CNAME .

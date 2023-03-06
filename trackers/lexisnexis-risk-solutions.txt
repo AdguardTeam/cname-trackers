@@ -356,6 +356,7 @@
 ||dvc0271.play.jackpocket.com^
 ||ela1.bankofscotland.co.uk^
 ||enligne.bnc.ca^
+||ep.vystarcu.org^
 ||event.evtm.53.com^
 ||ex.exnessstats.com^
 ||faas.2dehands.be^
@@ -402,6 +403,7 @@
 ||images.essofleetoffers.com^
 ||images.exxonmobilfleetoffers.com^
 ||images.wexinc.com^
+||imagesmx.cdiscountpro.com^
 ||imagesmx.cdscdn.com^
 ||img.consumer.risk.lexisnexis.com^
 ||img.dailylook.com^
@@ -513,6 +515,7 @@
 ||portal-fp-qaperf2.qa.threatmetrix.com^
 ||portal-fp.threatmetrix.com^
 ||pov.spectrum.net^
+||prod-cstonefcu.chaperone.lumindigitalhosting.com^
 ||prod-redwood.chaperone.lumindigitalhosting.com^
 ||prod-sesloc.chaperone.lumindigitalhosting.com^
 ||profiling.digitalbusiness.cibc.com^
@@ -593,6 +596,7 @@
 ||service.riverscontent.com^
 ||servicesdp.luckydays.ca^
 ||servicesdp.spinaway.ca^
+||sg-payment.cydf.hoyoverse.com^
 ||shield.boostbusiness.my^
 ||sitehelper.myengageft.com^
 ||sitehelper.optimizemoney.com^
@@ -728,6 +732,7 @@
 ||tm.cybersource.com^
 ||tm.directly.com^
 ||tm.fanduel.com^
+||tm.fidelity.co.uk^
 ||tm.goldennuggetcasino.com^
 ||tm.gumtree.co.za^
 ||tm.gumtree.com.au^
@@ -762,6 +767,7 @@
 ||tmt.houzz.com^
 ||tmuat.kotak.com^
 ||tmx-fpt.credit-agricole.pl^
+||tmx.additionfi.com^
 ||tmx.bestbuy.com^
 ||tmx.beyondbank.com.au^
 ||tmx.carhistory.com.au^
@@ -826,6 +832,7 @@
 ||w3.zionsbank.com^
 ||webftm.rbc.com^
 ||webftm.sterbc.com^
+||wildcard.humm.ie^
 ||wp.kroger.com^
 ||ww3.fundingstream.com^
 ||ww3.marlincapitalsolutions.com^
