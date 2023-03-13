@@ -15,6 +15,7 @@
 1bw7etm93lf.www.woodbrass.com CNAME .
 1hb4jkt1u2d.probemas.com CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
+1m639v56m9d.development.pit.taxmachine.be CNAME .
 1op1je6zs97.www.emanualonline.com CNAME .
 1tb41yjaqmt.panpots.com CNAME .
 1uwcex4qf9z.test-115.dapp.ml CNAME .
@@ -35,6 +36,7 @@
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
+7hdl8dlfjm4g.www.cybernetman.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
@@ -101,8 +103,6 @@ vzal21mooz.hyperwrite.ai CNAME .
 w38ju82bano4.cv.gerardbosch.xyz CNAME .
 wayyaj8t094u.www.kodalia.com CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
-wk32b562m9fo.www.cybernetman.com CNAME .
-wplno98xkhaj.kvest.ee CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
 yfbtcjlsmpv1.app.mailfloss.com CNAME .

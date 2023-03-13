@@ -15,6 +15,7 @@
 ||1bw7etm93lf.www.woodbrass.com^
 ||1hb4jkt1u2d.probemas.com^
 ||1kpv4njzilv.community.intersystems.com^
+||1m639v56m9d.development.pit.taxmachine.be^
 ||1op1je6zs97.www.emanualonline.com^
 ||1tb41yjaqmt.panpots.com^
 ||1uwcex4qf9z.test-115.dapp.ml^
@@ -35,6 +36,7 @@
 ||76zvoxo5yx0l.www.eldorado.gg^
 ||771fnypadw0j.pt.themoneytizer.com^
 ||78rkcgj4i8c6.www.cefirates.com^
+||7hdl8dlfjm4g.www.cybernetman.com^
 ||8ehhtsv9bo7i.monkeylearn.com^
 ||9kkjfywjz50v.www.eventus.io^
 ||9uim1pc4ej4n.ru.themoneytizer.com^
@@ -101,8 +103,6 @@
 ||w38ju82bano4.cv.gerardbosch.xyz^
 ||wayyaj8t094u.www.kodalia.com^
 ||wiar9wff0ma9.ping.t3.gg^
-||wk32b562m9fo.www.cybernetman.com^
-||wplno98xkhaj.kvest.ee^
 ||xlvvy4msxr.coolinastore.com^
 ||y4e04gql5o1b.www.nookgaming.com^
 ||yfbtcjlsmpv1.app.mailfloss.com^

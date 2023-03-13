@@ -276,6 +276,10 @@
 !
 ||dmi.tns-gallup.dk^
 !
+! dplayiosstream.tns-dk.2cnt.net disguised trackers
+!
+||dplayiosstream.tns-gallup.dk^
+!
 ! slb-tns-dk-pool04.tns-dk.2cnt.net disguised trackers
 !
 ||dplayiosstream.tns-gallup.dk^
@@ -381,13 +385,13 @@
 !
 ||halsa.tns-gallup.dk^
 !
-! hanser.vgwort-de.2cnt.net disguised trackers
-!
-||hanser.met.vgwort.de^
-!
 ! helpster.vgwort-de.2cnt.net disguised trackers
 !
 ||helpster.met.vgwort.de^
+!
+! hogrefe.vgwort-de.2cnt.net disguised trackers
+!
+||hogrefe.met.vgwort.de^
 !
 ! hsfo.tns-dk.2cnt.net disguised trackers
 !
@@ -1034,6 +1038,10 @@
 !
 ||ssl-t-online.met.vgwort.de^
 !
+! ssl-tagesspiegel.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-tagesspiegel.met.vgwort.de^
+!
 ! ssl-teltarif.vgwort-de.2cnt.net disguised trackers
 !
 ||ssl-teltarif.met.vgwort.de^
@@ -1255,6 +1263,10 @@
 ! weekendavisen.tns-dk.2cnt.net disguised trackers
 !
 ||weekendavisen.tns-gallup.dk^
+!
+! welt.vgwort-de.2cnt.net disguised trackers
+!
+||welt.met.vgwort.de^
 !
 ! wiley.vgwort-de.2cnt.net disguised trackers
 !

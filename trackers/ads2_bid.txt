@@ -7,6 +7,7 @@
 ||ac-dir-co.8njhhs0ivx.com^
 ||ac-dir-co.cau1aighae.com^
 ||ac-dir-co.xw1fx50x35.com^
+||ac-dir-latam.8njhhs0ivx.com^
 ||ac-dir-latam.cau1aighae.com^
 ||ac-dir-latam.xw1fx50x35.com^
 ||ac-dir-sing.8njhhs0ivx.com^

@@ -70,4 +70,5 @@ tp.witt-international.nl CNAME .
 tp.witt-international.sk CNAME .
 tp.witt-weiden.de CNAME .
 tp.yomonda.de CNAME .
+tp.your-look-for-less.nl CNAME .
 tp.your-look-for-less.se CNAME .

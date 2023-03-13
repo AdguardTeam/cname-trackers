@@ -79,6 +79,7 @@ analytics.michiganlottery.com
 analytics.mysynchrony.com
 analytics.northerntool.com
 analytics.ovative.com
+analytics.polaris.com
 analytics.stuartweitzman.com
 analytics.syf.com
 analytics.synchrony.com
@@ -164,6 +165,7 @@ data.ford.com
 data.lincoln.com
 data.privacy.ensighten.com
 dc.apothic.com
+dc.barefootwine.com
 dc.darkhorsewine.com
 dc.directtv.com
 dc.directv.com
@@ -313,6 +315,7 @@ tms.experian.com
 tms.kone.com
 tms.marriott.com
 tms.nab.com.au
+tms.rsa.com
 tms.virginatlantic.com
 tmsgi.lv.com
 tog.fivebelow.com

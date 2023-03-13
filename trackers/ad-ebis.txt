@@ -220,6 +220,7 @@
 ||ebis.treasurenet.jp^
 ||ebis.u2yokohama.co.jp^
 ||ebis.umulin-lab.com^
+||ebis01.vernal.co.jp^
 ||ebis01.zkai.co.jp^
 ||ebis2020.hoiku-job.net^
 ||ebis202001.joyfit.jp^
@@ -256,6 +257,7 @@
 ||nlp-japan.life-and-mind.com^
 ||os.beauty-health.today^
 ||partner.haru-shop.jp^
+||rank.xn--cosme-5c4djcw662edgyc.com^
 ||seo.tkc110.jp^
 ||sep02.hinagiku-life.jp^
 ||sinceregarden.sincere-garden.jp^

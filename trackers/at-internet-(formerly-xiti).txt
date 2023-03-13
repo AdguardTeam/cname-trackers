@@ -40,6 +40,7 @@
 ||d.santemagazine.fr^
 ||d.uni-medias.com^
 ||da.maif.fr^
+||dfr.deloitte.com^
 ||dimensions.mappy.com^
 ||donjigrad.viessmann.rs^
 ||drau.viessmann.si^

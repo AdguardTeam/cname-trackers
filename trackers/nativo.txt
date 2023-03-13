@@ -5,7 +5,6 @@
 !
 ||c333.macworld.co.uk^
 ||sponsor.syracuse.com^
-||www.realworldsurvivor.com^
 !
 ! ntvpforever.com disguised trackers
 !
@@ -31,9 +30,11 @@
 ||1327a0e03c.28473c6164.com^
 ||1407343952.7805b363c7.com^
 ||1426bde9ff.4631b36f4f.com^
+||15340eb8a6.da29f4a76d.com^
 ||1723cba717.8592fb1c1d.com^
 ||1795105253.e02fe0d0c1.com^
 ||19364edf69.b88f1c5cda.com^
+||1b6ab23d2c.255b9e74d2.com^
 ||1d36ac18b1.5424351d90.com^
 ||1d64fb6441.0ec78e0509.com^
 ||1ed960d6ad.fa479896c7.com^
@@ -42,6 +43,7 @@
 ||22aa4458dc.c42f556ff8.com^
 ||2547cd401b.d8a452e2da.com^
 ||26e33d5110.b91c577b4d.com^
+||2b93cd08b5.fd40cd3322.com^
 ||2c9ed85c0b.b2acafb3a3.com^
 ||2d56aafb14.8767fbfa8b.com^
 ||2efa46ca31.da03ab7249.com^
@@ -118,7 +120,9 @@
 ||7b4927c8f2.373c93bba1.com^
 ||7b7a5435b5.5dd044e588.com^
 ||7ddfe7bb78.1eb76ce5b7.com^
+||7defd8a46e.fc441dccf1.com^
 ||7ee6aa4a84.102168588b.com^
+||7f01e7f94e.1d022ca6a2.com^
 ||7f9e4f7383.b40c7bfff2.com^
 ||7fe465ee76.f21c8cd9a7.com^
 ||812748c48f.02f87a8089.com^
@@ -128,6 +132,7 @@
 ||898dd5a858.a06e054b4c.com^
 ||8a7f64eb48.5a46c72f0e.com^
 ||8a86cfec6c.db4a1656b5.com^
+||8bb3b7c35f.e93014ee07.com^
 ||8bd9187370.468a044700.com^
 ||8bf1e6c762.bcd7ad4271.com^
 ||8dba8f6d76.3ce27e9b41.com^
@@ -147,6 +152,7 @@
 ||991884fac3.ff206c9291.com^
 ||999a328fa0.86521e18d4.com^
 ||99aa05f0e1.bc9bdbb70b.com^
+||99eaf1c2b5.e4d3c228c4.com^
 ||9cd589fd54.86b1722d8e.com^
 ||9e4a8a6859.1f031f585b.com^
 ||a108652c62.f78f9d3fc2.com^
@@ -229,6 +235,7 @@
 ||ea414a7f0d.e0a77fefb7.com^
 ||ea6e4578d7.bdd16c6bbf.com^
 ||ead24c804a.5064389743.com^
+||eae4d894cf.d30581a94b.com^
 ||eb37b1d1a5.98a54df250.com^
 ||eb3d849a7c.e4dbf49f32.com^
 ||ee68acd3fc.87a8aa9251.com^
@@ -251,15 +258,20 @@
 !
 ! postrelease.com disguised trackers
 !
-||a235.thehour.com^
-||a614.al.com^
+||a235.middletownpress.com^
+||a235.myplainview.com^
+||a614.masslive.com^
 ||a614.nj.com^
+||mlive.share.ntv.io^
+||pressdemocrat.share.ntv.io^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 !
 ! jadserve.postrelease.com.akadns.net disguised trackers
 !
 ||a135.wftv.com^
+||a614.al.com^
+||a614.nj.com^
 ||a614.pennlive.com^
 ||csoonline.share.ntv.io^
 ||entrepreneur.share.ntv.io^

@@ -141,6 +141,7 @@ data-16d7ec9a30.zeitungsgruppe-muenster.de
 data-16d7ec9a30.zgm-auto.de
 data-1774ab3b64.fvw.de
 data-1774ab3b64.fvwjobs.de
+data-179369af40.connect-professional.de
 data-179369af40.funkschau.de
 data-17a9ad77d6.phonostar.de
 data-17c7ec5f16.fussballfieber.de
@@ -173,6 +174,7 @@ data-19e0ce8844.wieistmeineip.de
 data-19f62f6612.druckerchannel.de
 data-19f62f6612.druckkosten.de
 data-1a5bbc417e.tele5.de
+data-1a8175bc05.presseportal.de
 data-1a89577861.btc-echo.de
 data-1aec34a522.elle.de
 data-1b32532ce1.blick.de
@@ -362,6 +364,7 @@ data-39822b659f.mein-medizinportal.de
 data-39822b659f.meine-vrm.de
 data-39822b659f.mittelhessen.de
 data-39822b659f.oberhessische-zeitung.de
+data-39822b659f.vrm-immo.de
 data-39822b659f.vrm-trauer.de
 data-39822b659f.wiesbadener-kurier.de
 data-39822b659f.wormser-zeitung.de
@@ -378,6 +381,7 @@ data-3bbc3a9049.apps.iocnt.de
 data-3bd3168117.boerse.de
 data-3bf5bac5c5.radiohochstift.de
 data-3c5dd2a388.zuhausewohnen.de
+data-3c606bc05f.baumetall.de
 data-3c672b4f0d.rtlplus.de
 data-3c91d46d9d.smarterworld.de
 data-3c91d46d9d.weka-fachmedien.de
@@ -519,6 +523,7 @@ data-524af4397a.weltfussball.de
 data-524af4397a.worldfootball.net
 data-52a43bc433.gala.de
 data-53ba3c279a.apps.iocnt.de
+data-53ce61d695.bike-x.de
 data-5400382129.kunststoff-magazin.de
 data-5492b7d422.mz-jobs.de
 data-5492b7d422.rblive.de
@@ -752,6 +757,7 @@ data-7609d780e9.apps.iocnt.de
 data-770ef2669c.egovernment-computing.de
 data-7723a9baa7.internetworld.at
 data-7723a9baa7.internetworld.de
+data-774647f329.facility-management.de
 data-783123c24a.stadtselm.de
 data-78961379fe.donaukurier.de
 data-78961379fe.ingolstadt-today.de
@@ -811,6 +817,7 @@ data-83d91ea519.mannheimer-morgen.de
 data-83d91ea519.schwetzinger-zeitung.de
 data-83eff0f027.glaswelt.de
 data-8449537926.cz.de
+data-8459ce106e.bike-x.de
 data-849004cc69.regenbogen.de
 data-84a0f3455d.transfermarkt.at
 data-84a0f3455d.transfermarkt.be
@@ -943,6 +950,7 @@ data-96d64cb150.fupa.net
 data-96d64cb150.handwerkjobs-bw.de
 data-96d64cb150.schnapp.de
 data-96d64cb150.wohnverdient.de
+data-97304cc18d.medienzentrum-biberach.de
 data-975521d9ad.horizont.de
 data-975521d9ad.horizont.net
 data-97d159685e.szbz.de
@@ -997,6 +1005,7 @@ data-9f311cce4c.onetz.de
 data-9f426096e1.wz-net.de
 data-9f47bd3ec3.fupa.net
 data-9f47bd3ec3.volksstimme.de
+data-9f52ae32a2.sicht-sonnenschutz.com
 data-9f5f79a845.apps.iocnt.de
 data-9fa9a37f64.familie.de
 data-9fc27eb430.cineplex.de
@@ -1058,6 +1067,7 @@ data-a4e945dbeb.sz-jobs.de
 data-a4e945dbeb.sz-pinnwand.de
 data-a4e945dbeb.sz-trauer.de
 data-a5210336ab.mt.de
+data-a58f7aceaf.boden-wand-decke.de
 data-a59dd2af3b.wochenblatt-dlv.de
 data-a59ff4db12.bildderfrau.de
 data-a6a76566fd.apps.iocnt.de
@@ -1085,6 +1095,7 @@ data-a98482617b.holidaycheck.de
 data-a9dcbfdd12.dk-online.de
 data-a9dcbfdd12.noz.de
 data-aa4a1f6eab.apps.iocnt.de
+data-aa70fe4f08.jam.fm
 data-aac883f83b.offiziellecharts.de
 data-aae7bdcec6.autoscout24.bg
 data-aae7bdcec6.autoscout24.com
@@ -1130,6 +1141,7 @@ data-af9f3dfb33.e-fellows.net
 data-af9f3dfb33.weltkunst.de
 data-af9f3dfb33.zeit.de
 data-b0980db7ec.wiwo.de
+data-b0fd716f10.auto-medienportal.net
 data-b182afd830.it-times.de
 data-b19475ee82.focus.de
 data-b19475ee82.weather.com
@@ -1276,6 +1288,8 @@ data-c62d8895bb.n-tv.de
 data-c62d8895bb.teleboerse.de
 data-c63b112bf0.radiosiegen.de
 data-c63b992bb9.pc-magazin.de
+data-c642a98bf9.presseportal.ch
+data-c642a98bf9.presseportal.de
 data-c652705c3e.apps.iocnt.de
 data-c66a1ae096.chip.de
 data-c66a1ae096.efahrer.com
@@ -1293,7 +1307,6 @@ data-c854f15f64.schwangerschaft.de
 data-c854f15f64.urbia.de
 data-c854f15f64.vorname.com
 data-c94cf2beab.physiotherapeuten.de
-data-c958fdb0ad.sk-one.de
 data-c9739b4017.lecker.de
 data-c9f0280444.apps.iocnt.de
 data-ca858d8740.apps.iocnt.de
@@ -1301,16 +1314,13 @@ data-cb12c9ce6a.superillu.de
 data-cb2c174131.menshealth.de
 data-cb62759f4c.rpr1.de
 data-cb9b83f47f.t3n.de
-data-cc10b861be.winbiap.de
 data-cc21ca250f.apps.iocnt.de
 data-ccadb8b6f3.apps.iocnt.de
 data-ccea961373.dach-holzbau.de
 data-cd0b4bd19f.auto-motor-und-sport.de
 data-cd0b4bd19f.webauto.de
 data-cd3f2f9c0c.radiobielefeld.de
-data-cd863d9507.capital.de
 data-cd9a346bd6.vox.de
-data-cdc8773b0f.hcm-magazin.de
 data-cdc9d8aabf.dbz.de
 data-ce0e6fdeb3.apps.iocnt.de
 data-ce326d00f8.aero.de
@@ -1345,13 +1355,10 @@ data-d4db30a18b.ga-online.de
 data-d4db30a18b.on-online.de
 data-d4db30a18b.oz-online.de
 data-d4db30a18b.zgo.de
-data-d4dfa4bc2c.focus.de
-data-d4dfa4bc2c.weather.com
 data-d4ecb517ab.cinema.de
 data-d4ecb517ab.streampicker.de
 data-d4ecb517ab.tvspielfilm.de
 data-d4ecb517ab.tvtoday.de
-data-d5c733accc.infonline.de
 data-d5cb47d8e4.radiotop40.de
 data-d5d9e85944.textilwirtschaft.de
 data-d5efd1b9c0.dzonline.de
@@ -1384,16 +1391,12 @@ data-dbeb5d461a.fnweb.de
 data-dc11b32774.apps.iocnt.de
 data-dc35198c0c.chemietechnik.de
 data-dc874fa9ed.koeln.de
-data-dcab82fe16.gala.de
 data-dd2f77abdf.apps.iocnt.de
-data-dd659348c3.heimatsport.de
 data-dd659348c3.pnp.de
 data-ddcae4625b.apps.iocnt.de
 data-ddecebdea5.storage-insider.de
 data-de83895c33.apps.iocnt.de
 data-dea12ffb25.prisma.de
-data-deb04a4388.ezeitung2.info
-data-deb04a4388.owl-am-sonntag.de
 data-deb04a4388.wb-azubi.de
 data-deb04a4388.wb-jobs.de
 data-deb04a4388.wb-trauer.de
@@ -1408,6 +1411,7 @@ data-e0e7873b34.stadtbibliothek-schwerin.de
 data-e138bc4173.apps.iocnt.de
 data-e159daf928.obermain.de
 data-e16817998e.apps.iocnt.de
+data-e1f099aeb5.apps.iocnt.de
 data-e25e89b95d.it-daily.net
 data-e337e2a6a8.kuechenplaner-magazin.de
 data-e34440d805.jolie.de
@@ -1415,6 +1419,7 @@ data-e363eeae09.apps.iocnt.de
 data-e392d35d53.kino-zeit.de
 data-e3af19e759.apps.iocnt.de
 data-e3d4300b49.n-tv.de
+data-e47ac57521.lokal26.de
 data-e4997adf31.metal-hammer.de
 data-e4997adf31.welt.de
 data-e4cfccd10c.freundin.de
@@ -1453,9 +1458,7 @@ data-ea7328ad58.apps.iocnt.de
 data-ea7d084cda.wz.de
 data-ebb08b8040.bildderfrau.de
 data-ebf4df4b00.antennethueringen.de
-data-ec98eddf4a.fussballfieber.de
 data-ec98eddf4a.giga.de
-data-ec9f31ae75.apps.iocnt.de
 data-ecd887c1d0.weser-kurier.de
 data-ed1ee98a6c.arzt-atlas.de
 data-ed1ee98a6c.medpertise.de
@@ -1463,7 +1466,6 @@ data-ed1ee98a6c.miomedi.de
 data-ed1ee98a6c.portal-der-augenmedizin.de
 data-ed1ee98a6c.portal-der-haut.de
 data-ed1ee98a6c.portal-der-orthopaedie.de
-data-ed1ee98a6c.portal-der-psyche.de
 data-ed1ee98a6c.portal-der-schoenheit.de
 data-ed1ee98a6c.portal-der-zahnmedizin.de
 data-ed27128fae.apps.iocnt.de
@@ -1474,12 +1476,11 @@ data-ede3421766.caraworld.de
 data-ede3421766.promobil.de
 data-ee28b6fae3.industrial-production.de
 data-ee807be806.derwesten.de
-data-ee807be806.funkemediennrw.de
 data-ee807be806.ikz-online.de
 data-ee807be806.lokalkompass.de
 data-ee807be806.nrz.de
-data-ee807be806.radioessen.de
-data-ee807be806.radioherne.de
+data-ee807be806.radioemscherlippe.de
+data-ee807be806.radiooberhausen.de
 data-ee807be806.reviersport.de
 data-ee807be806.waz.de
 data-ee807be806.wp.de
@@ -1501,6 +1502,7 @@ data-f16abe2047.daskochrezept.de
 data-f1c47705fc.elite-magazin.de
 data-f1c47705fc.profi.de
 data-f1c47705fc.rimondo.com
+data-f1c47705fc.susonline.de
 data-f1c47705fc.topagrar.at
 data-f1c47705fc.topagrar.com
 data-f1c47705fc.wochenblatt.com
@@ -1511,17 +1513,20 @@ data-f1e447fbcf.24rhein.de
 data-f1e447fbcf.24vita.de
 data-f1e447fbcf.az-online.de
 data-f1e447fbcf.bgland24.de
+data-f1e447fbcf.buzzfeed.at
 data-f1e447fbcf.buzzfeed.de
 data-f1e447fbcf.bw24.de
 data-f1e447fbcf.chiemgau24.de
 data-f1e447fbcf.come-on.de
 data-f1e447fbcf.costanachrichten.com
+data-f1e447fbcf.dasgelbeblatt.de
 data-f1e447fbcf.deichstube.de
 data-f1e447fbcf.einfach-tasty.de
 data-f1e447fbcf.extratipp.com
 data-f1e447fbcf.fehmarn24.de
 data-f1e447fbcf.fnp.de
 data-f1e447fbcf.fr.de
+data-f1e447fbcf.fuldaerzeitung.de
 data-f1e447fbcf.giessener-allgemeine.de
 data-f1e447fbcf.hallo-muenchen.de
 data-f1e447fbcf.hanauer.de
@@ -1530,6 +1535,7 @@ data-f1e447fbcf.hersfelder-zeitung.de
 data-f1e447fbcf.hna.de
 data-f1e447fbcf.ingame.de
 data-f1e447fbcf.innsalzach24.de
+data-f1e447fbcf.ippen.media
 data-f1e447fbcf.kreisbote.de
 data-f1e447fbcf.kreiszeitung.de
 data-f1e447fbcf.landtiere.de
@@ -1548,7 +1554,9 @@ data-f1e447fbcf.sauerlandkurier.de
 data-f1e447fbcf.soester-anzeiger.de
 data-f1e447fbcf.trauer.nrw
 data-f1e447fbcf.tz.de
+data-f1e447fbcf.usinger-anzeiger.de
 data-f1e447fbcf.wa.de
+data-f1e447fbcf.wasserburg24.de
 data-f1e447fbcf.webnachrichten.de
 data-f1e447fbcf.werra-rundschau.de
 data-f1e447fbcf.wetterauer-zeitung.de
@@ -1557,7 +1565,6 @@ data-f23c020f78.apps.iocnt.de
 data-f23d588bea.hamburg.de
 data-f27acaf339.haustechnikdialog.de
 data-f3bb5f7732.infranken.de
-data-f3e82d7d70.apps.iocnt.de
 data-f3fe376ba8.allgaeuer-zeitung.de
 data-f41b8197e7.obermain.de
 data-f42d3c8446.apps.iocnt.de
@@ -1571,13 +1578,13 @@ data-f59db3288b.24royal.de
 data-f59db3288b.24vita.de
 data-f59db3288b.az-online.de
 data-f59db3288b.bgland24.de
-data-f59db3288b.brokser-heiratsmarkt.de
 data-f59db3288b.buzzfeed.at
 data-f59db3288b.buzzfeed.de
 data-f59db3288b.bw24.de
 data-f59db3288b.chiemgau24.de
 data-f59db3288b.come-on.de
 data-f59db3288b.costanachrichten.com
+data-f59db3288b.dasgelbeblatt.de
 data-f59db3288b.deichstube.de
 data-f59db3288b.einfach-tasty.de
 data-f59db3288b.extratipp.com
@@ -1591,6 +1598,7 @@ data-f59db3288b.giessener-anzeiger.de
 data-f59db3288b.hallo-muenchen.de
 data-f59db3288b.hanauer.de
 data-f59db3288b.heidelberg24.de
+data-f59db3288b.herbstfest-rosenheim.de
 data-f59db3288b.hersfelder-zeitung.de
 data-f59db3288b.hna.de
 data-f59db3288b.in-muenchen.de
@@ -1600,12 +1608,14 @@ data-f59db3288b.ippen.media
 data-f59db3288b.kreis-anzeiger.de
 data-f59db3288b.kreisbote.de
 data-f59db3288b.kreiszeitung.de
+data-f59db3288b.kurierverlag.de
 data-f59db3288b.landtiere.de
 data-f59db3288b.leinetal24.de
 data-f59db3288b.lokalo24.de
 data-f59db3288b.ludwigshafen24.de
 data-f59db3288b.mangfall24.de
 data-f59db3288b.mannheim24.de
+data-f59db3288b.meine-anzeigenzeitung.de
 data-f59db3288b.merkur.de
 data-f59db3288b.nextg.tv
 data-f59db3288b.op-online.de
@@ -1630,7 +1640,6 @@ data-f62d7c5cdb.fnweb.de
 data-f62d7c5cdb.jobmorgen.de
 data-f62d7c5cdb.mannheimer-morgen.de
 data-f62d7c5cdb.schwetzinger-zeitung.de
-data-f690045316.sicht-sonnenschutz.com
 data-f6d2ad6f1b.t3n.de
 data-f722634d33.haller-kreisblatt.de
 data-f7a0168660.versicherungsbote.de
@@ -1639,8 +1648,6 @@ data-f943e74ec9.bz-berlin.de
 data-f9b542cb96.apps.iocnt.de
 data-fa2c5597f6.cavallo.de
 data-fa2c5597f6.elektrobike-online.com
-data-fa2c5597f6.mountainbike-magazin.de
-data-fa2d848059.aachen-gedenkt.de
 data-fa2d848059.aachener-zeitung.de
 data-fa2d848059.fupa.net
 data-fa3432c50a.donaukurier.de
@@ -1655,19 +1662,15 @@ data-fb37a1e7c3.schwarzwaelder-bote.de
 data-fb37a1e7c3.stuttgarter-nachrichten.de
 data-fb37a1e7c3.stuttgarter-zeitung.de
 data-fb37a1e7c3.verlagshaus-jaumann.de
-data-fb6bd6ba7f.agrarzeitung.de
 data-fb6dfd42e8.rationell-reinigen.de
 data-fbb8842b89.mylife.de
 data-fbb8842b89.netdoktor.de
 data-fbef420c7e.apps.iocnt.de
-data-fc03a8828d.streampicker.de
 data-fc03a8828d.tvspielfilm.de
 data-fc03a8828d.tvtoday.de
 data-fc6e3104c2.finanztreff.de
 data-fcb7dbed1e.apps.iocnt.de
 data-fd399543fe.elektroniknet.de
-data-fd399543fe.medical-design.news
-data-fd399543fe.mut-job.de
 data-fd53e9bda6.urlaubsguru.de
 data-fd60c1cff9.ke-next.de
 data-fd9ab41e47.bravo.de
@@ -1683,6 +1686,7 @@ data-fdf4690b14.lokalkompass.de
 data-fdf4690b14.nrz.de
 data-fdf4690b14.radiobochum.de
 data-fdf4690b14.radioduisburg.de
+data-fdf4690b14.radioemscherlippe.de
 data-fdf4690b14.radioessen.de
 data-fdf4690b14.radiohagen.de
 data-fdf4690b14.radioherne.de
@@ -1694,6 +1698,7 @@ data-fdf4690b14.reviersport.de
 data-fdf4690b14.waz.de
 data-fdf4690b14.wp.de
 data-fdf4690b14.wr.de
+data-fe34715c33.zi-online.info
 data-fe452b2ed9.ok-magazin.de
 data-fe87994a5d.freenet.de
 data-febb5dffb0.bigfm.de
@@ -1705,4 +1710,5 @@ data-ff5b197ecc.traceparts.com
 data-ff6ba35ab1.cash-online.de
 data-ff95894520.apps.iocnt.de
 data-nl.elektroniknet.de
+data-nl.funkschau.de
 data-nl.tageskarte.io

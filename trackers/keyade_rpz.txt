@@ -36,3 +36,4 @@ k.truffaut.com CNAME .
 ; www.keyade.com disguised trackers
 ;
 www.keyad.fr CNAME .
+www.keyade.fr CNAME .

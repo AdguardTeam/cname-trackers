@@ -94,6 +94,7 @@
 ||ea.camping-and-co.com^
 ||ea.carrefour.com^
 ||ea.carrefour.fr^
+||ea.catimini-boutique.com^
 ||ea.catimini.com^
 ||ea.ciblo.net^
 ||ea.coffrefortplus.com^
@@ -133,7 +134,6 @@
 ||ea.millet-mountain.de^
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
-||ea.mnt.fr^
 ||ea.moncornerdeco.com^
 ||ea.mondial-assistance.fr^
 ||ea.mydailyhotel.com^
@@ -178,7 +178,6 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
-||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||et.sncf.com^
 ||et.swatch.com^
@@ -213,6 +212,7 @@
 ||eultech.fnac.com^
 ||exd4.destinia.com.au^
 ||f0nn.oney.fr^
+||fal2.carrefour-banque.fr^
 ||fbu8.hoteldeparismontecarlo.com^
 ||fbu8.hotelhermitagemontecarlo.com^
 ||fbu8.monte-carlo-beach.com^
@@ -359,7 +359,6 @@
 ||qsl1.refleximmo.com^
 ||qtj0.destinia.pl^
 ||quk9.destinia.com.ar^
-||qyn6.ofertastelecable.es^
 ||qzl8.destinia.fi^
 ||qzu5.carrefour-banque.fr^
 ||r1ztni.oui.sncf^
@@ -398,6 +397,7 @@
 ||t.locasun.nl^
 ||t.pmu.fr^
 ||t.voyages-sncf.com^
+||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tdf1.easyviaggio.com^
@@ -449,6 +449,7 @@
 ||wnd2.destinia.cat^
 ||wph2.destinia.us^
 ||www.fasttrack.fr^
+||www.mis.tourisme-montreal.org^
 ||xay5o.toscane-boutique.fr^
 ||xjq5.belambra.be^
 ||xuc.monteleone.fr^

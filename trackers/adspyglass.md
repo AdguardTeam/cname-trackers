@@ -35,7 +35,6 @@
 | 8afb7f9e2c1a7a9e.vtube.to | 0i0i0i0.com |
 | 8lang.lol | 0i0i0i0.com |
 | 8sptzne.mom | 0i0i0i0.com |
-| 987656iuyyty.hotscopes.to | 0i0i0i0.com |
 | 98tang.lol | 0i0i0i0.com |
 | a.123porner.com | 0i0i0i0.com |
 | a.6drole.com | 0i0i0i0.com |
@@ -50,6 +49,7 @@
 | a.bloblohub.com | 0i0i0i0.com |
 | a.boyjackpot.com | 0i0i0i0.com |
 | a.coinhub.wiki | 0i0i0i0.com |
+| a.craftbeerclub.com.ua | 0i0i0i0.com |
 | a.descsau.ml | 0i0i0i0.com |
 | a.digitalgiftshopping.com | 0i0i0i0.com |
 | a.dorkim.club | 0i0i0i0.com |
@@ -59,6 +59,7 @@
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
 | a.hentai369.com | 0i0i0i0.com |
+| a.hentaimotel.com | 0i0i0i0.com |
 | a.hentaitube.icu | 0i0i0i0.com |
 | a.hubhubhub.name | 0i0i0i0.com |
 | a.kagiti.club | 0i0i0i0.com |
@@ -134,6 +135,7 @@
 | app.phimvu.app | 0i0i0i0.com |
 | apple.analnoe24.com | 0i0i0i0.com |
 | apple.arabtoons.net | 0i0i0i0.com |
+| aps.celebfap.cyou | 0i0i0i0.com |
 | arch.u2207i.art | 0i0i0i0.com |
 | as.ebacdn.com | 0i0i0i0.com |
 | as.ebalovo.adult | 0i0i0i0.com |
@@ -141,7 +143,6 @@
 | as.lenkino.adult | 0i0i0i0.com |
 | as.pomcdn.com | 0i0i0i0.com |
 | as2.fasta.xyz | 0i0i0i0.com |
-| as2.o777i.com | 0i0i0i0.com |
 | ascc.javquick.com | 0i0i0i0.com |
 | asdf.eldos.xyz | 0i0i0i0.com |
 | asg.adumanag.xyz | 0i0i0i0.com |
@@ -389,10 +390,12 @@
 | mydomainbest.com | 0i0i0i0.com |
 | myxozilla.icu | 0i0i0i0.com |
 | n.reallifehentai.net | 0i0i0i0.com |
+| naiyoz.lol | 0i0i0i0.com |
 | nav.srcdn.xyz | 0i0i0i0.com |
 | net.contoseroticoscnn.com | 0i0i0i0.com |
 | net.sexstories69.com | 0i0i0i0.com |
 | nice.tranny.one | 0i0i0i0.com |
+| nice.tryboobs.com | 0i0i0i0.com |
 | nodawzua.mom | 0i0i0i0.com |
 | nonekvoi.skin | 0i0i0i0.com |
 | nope.addhentai.com | 0i0i0i0.com |
@@ -534,6 +537,7 @@
 | tlgt10.makeup | 0i0i0i0.com |
 | tlv.ui02.com | 0i0i0i0.com |
 | toaioi.lol | 0i0i0i0.com |
+| toaioi.xyz | 0i0i0i0.com |
 | tom.beclin.xyz | 0i0i0i0.com |
 | tomboy.lol | 0i0i0i0.com |
 | toyota.lol | 0i0i0i0.com |
@@ -547,7 +551,6 @@
 | uk.boffinsoft.com | 0i0i0i0.com |
 | umtpopxcsedc.cdnvideo3.com | 0i0i0i0.com |
 | uthbxvz.bestzba.com | 0i0i0i0.com |
-| v2pro.stbvip.net | 0i0i0i0.com |
 | vavsnhau.mom | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
 | video.jokanime.online | 0i0i0i0.com |
@@ -564,6 +567,7 @@
 | w00t.us | 0i0i0i0.com |
 | web.cinetux.nu | 0i0i0i0.com |
 | will.putinho.net | 0i0i0i0.com |
+| wp.zvideo.stream | 0i0i0i0.com |
 | ww.cvideos.stream | 0i0i0i0.com |
 | www.adanald.icu | 0i0i0i0.com |
 | www.adhome.icu | 0i0i0i0.com |
@@ -608,4 +612,6 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| qoqv.com | u53.hypnorat.com |
+| h-ay.com | u53.hypnorat.com |
+| ontj.com | u53.hypnorat.com |
+| qhip.com | u53.hypnorat.com |

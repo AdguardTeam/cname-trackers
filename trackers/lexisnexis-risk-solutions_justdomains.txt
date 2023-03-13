@@ -97,6 +97,7 @@ cdnt.walmartrewards.ca
 cdntm.firstdirect.com
 cdntm.hangseng.com
 cdntm.hsbc.ae
+cdntm.hsbc.ca
 cdntm.hsbc.co.in
 cdntm.hsbc.co.uk
 cdntm.hsbc.com.au
@@ -245,6 +246,7 @@ content.qudosbank.com.au
 content.quicken.com
 content.readiness.consumercardaccess.com
 content.readiness.familyprepaiddebit.com
+content.readiness.paycardsolutions.com
 content.realquest.com
 content.royalairmaroc.com
 content.royalvegascasino.ca
@@ -448,6 +450,7 @@ jplspr.jackpot.com
 jytrnq.cm-cic.com
 kfp.intuit.com
 lab4.lloydsbank.com
+lfp.intuit.com
 ln.meudigio.com.br
 lndata.labor.maryland.gov
 lnths.twc.texas.gov

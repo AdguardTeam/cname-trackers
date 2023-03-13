@@ -4,7 +4,6 @@
 
 * ntv.io
     * edge.ntv.io
-    * realworldsurvivor-com-edge.ntv.io
 * ntvpforever.com
 * postrelease.com
     * jadserve.postrelease.com
@@ -24,12 +23,17 @@
 | www1.cultivatedknowledge.com | cultivatedknowledge-com-www1.edgeserving.com |
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
-| a235.thehour.com | jadserve.postrelease.com |
-| a614.al.com | jadserve.postrelease.com |
+| a235.middletownpress.com | jadserve.postrelease.com |
+| a235.myplainview.com | jadserve.postrelease.com |
+| a614.masslive.com | jadserve.postrelease.com |
 | a614.nj.com | jadserve.postrelease.com |
+| mlive.share.ntv.io | jadserve.postrelease.com |
+| pressdemocrat.share.ntv.io | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
 | a135.wftv.com | jadserve.postrelease.com.akadns.net |
+| a614.al.com | jadserve.postrelease.com.akadns.net |
+| a614.nj.com | jadserve.postrelease.com.akadns.net |
 | a614.pennlive.com | jadserve.postrelease.com.akadns.net |
 | csoonline.share.ntv.io | jadserve.postrelease.com.akadns.net |
 | entrepreneur.share.ntv.io | jadserve.postrelease.com.akadns.net |
@@ -58,9 +62,11 @@
 | 1327a0e03c.28473c6164.com | ntvpforever.com |
 | 1407343952.7805b363c7.com | ntvpforever.com |
 | 1426bde9ff.4631b36f4f.com | ntvpforever.com |
+| 15340eb8a6.da29f4a76d.com | ntvpforever.com |
 | 1723cba717.8592fb1c1d.com | ntvpforever.com |
 | 1795105253.e02fe0d0c1.com | ntvpforever.com |
 | 19364edf69.b88f1c5cda.com | ntvpforever.com |
+| 1b6ab23d2c.255b9e74d2.com | ntvpforever.com |
 | 1d36ac18b1.5424351d90.com | ntvpforever.com |
 | 1d64fb6441.0ec78e0509.com | ntvpforever.com |
 | 1ed960d6ad.fa479896c7.com | ntvpforever.com |
@@ -69,6 +75,7 @@
 | 22aa4458dc.c42f556ff8.com | ntvpforever.com |
 | 2547cd401b.d8a452e2da.com | ntvpforever.com |
 | 26e33d5110.b91c577b4d.com | ntvpforever.com |
+| 2b93cd08b5.fd40cd3322.com | ntvpforever.com |
 | 2c9ed85c0b.b2acafb3a3.com | ntvpforever.com |
 | 2d56aafb14.8767fbfa8b.com | ntvpforever.com |
 | 2efa46ca31.da03ab7249.com | ntvpforever.com |
@@ -145,7 +152,9 @@
 | 7b4927c8f2.373c93bba1.com | ntvpforever.com |
 | 7b7a5435b5.5dd044e588.com | ntvpforever.com |
 | 7ddfe7bb78.1eb76ce5b7.com | ntvpforever.com |
+| 7defd8a46e.fc441dccf1.com | ntvpforever.com |
 | 7ee6aa4a84.102168588b.com | ntvpforever.com |
+| 7f01e7f94e.1d022ca6a2.com | ntvpforever.com |
 | 7f9e4f7383.b40c7bfff2.com | ntvpforever.com |
 | 7fe465ee76.f21c8cd9a7.com | ntvpforever.com |
 | 812748c48f.02f87a8089.com | ntvpforever.com |
@@ -155,6 +164,7 @@
 | 898dd5a858.a06e054b4c.com | ntvpforever.com |
 | 8a7f64eb48.5a46c72f0e.com | ntvpforever.com |
 | 8a86cfec6c.db4a1656b5.com | ntvpforever.com |
+| 8bb3b7c35f.e93014ee07.com | ntvpforever.com |
 | 8bd9187370.468a044700.com | ntvpforever.com |
 | 8bf1e6c762.bcd7ad4271.com | ntvpforever.com |
 | 8dba8f6d76.3ce27e9b41.com | ntvpforever.com |
@@ -174,6 +184,7 @@
 | 991884fac3.ff206c9291.com | ntvpforever.com |
 | 999a328fa0.86521e18d4.com | ntvpforever.com |
 | 99aa05f0e1.bc9bdbb70b.com | ntvpforever.com |
+| 99eaf1c2b5.e4d3c228c4.com | ntvpforever.com |
 | 9cd589fd54.86b1722d8e.com | ntvpforever.com |
 | 9e4a8a6859.1f031f585b.com | ntvpforever.com |
 | a108652c62.f78f9d3fc2.com | ntvpforever.com |
@@ -256,6 +267,7 @@
 | ea414a7f0d.e0a77fefb7.com | ntvpforever.com |
 | ea6e4578d7.bdd16c6bbf.com | ntvpforever.com |
 | ead24c804a.5064389743.com | ntvpforever.com |
+| eae4d894cf.d30581a94b.com | ntvpforever.com |
 | eb37b1d1a5.98a54df250.com | ntvpforever.com |
 | eb3d849a7c.e4dbf49f32.com | ntvpforever.com |
 | ee68acd3fc.87a8aa9251.com | ntvpforever.com |
@@ -276,7 +288,6 @@
 | fe8d4b33c2.8abf43d6ad.com | ntvpforever.com |
 | ffe405491d.28b67b8230.com | ntvpforever.com |
 | partners.time.com | partners-time-com-prod.edgeserving.com |
-| www.realworldsurvivor.com | realworldsurvivor-com-edge.ntv.io |
 | www.realworldsurvivor.com | realworldsurvivor-com-prod.edgeserving.com |
 | a235.chron.com | unavailable.hearstnp.com |
 | a235.ctnews.com | unavailable.hearstnp.com |

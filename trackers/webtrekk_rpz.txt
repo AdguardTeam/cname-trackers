@@ -26,6 +26,7 @@ track.emeza.ch CNAME .
 track.emeza.com CNAME .
 track.kiomi.com CNAME .
 track.yellostrom.de CNAME .
+tracking.eduscho.at CNAME .
 tracking.netcologne.de CNAME .
 tracking.tchibo.ch CNAME .
 tracking.tchibo.com.tr CNAME .
@@ -89,6 +90,7 @@ data.mainpost.de CNAME .
 data.mapp.com CNAME .
 data.mediaworld.it CNAME .
 data.pepephone.com CNAME .
+data.shirtmaster.com CNAME .
 data.srf.ch CNAME .
 data.vdi-wissensforum.de CNAME .
 data.volksfreund.de CNAME .
@@ -265,6 +267,7 @@ web.mapp.tretti.se CNAME .
 web.mapp.whiteaway.com CNAME .
 web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
+web.marcotozzi.com CNAME .
 web.marketing.elbenwald.de CNAME .
 web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
@@ -319,6 +322,7 @@ wetr.sportscheck.ch CNAME .
 wetr.sportscheck.com CNAME .
 wt.ara.ad CNAME .
 wt.ara.cat CNAME .
+wt.arabalears.cat CNAME .
 wt.dialog-versicherung.de CNAME .
 wt.envivas.de CNAME .
 wt.generali.de CNAME .

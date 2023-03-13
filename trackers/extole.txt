@@ -26,8 +26,8 @@
 ||refer.backcountry.com^
 ||refer.barenecessities.com^
 ||refer.basictalk.com^
-||refer.beautisol.com^
 ||refer.bookbyte.com^
+||refer.bostonglobe.com^
 ||refer.bowflex.com^
 ||refer.calstate.aaa.com^
 ||refer.carbonite.com^
@@ -44,6 +44,7 @@
 ||refer.fuzebox.com^
 ||refer.gevalia.com^
 ||refer.gotoassist.com^
+||refer.gotomeeting.com^
 ||refer.greenvilleonline.com^
 ||refer.hannaandersson.com^
 ||refer.harimari.com^
@@ -66,9 +67,11 @@
 ||refer.opensky.com^
 ||refer.orientaltrading.com^
 ||refer.pageonce.com^
+||refer.paramountsolar.com^
 ||refer.payroll.intuit.com^
 ||refer.personalcreations.com^
 ||refer.petco.com^
+||refer.proflowers.com^
 ||refer.purchasingpower.com^
 ||refer.roadrunnersports.com^
 ||refer.sage.com^
@@ -77,6 +80,7 @@
 ||refer.sperry.com^
 ||refer.staples.com^
 ||refer.talbots.com^
+||refer.tennessean.com^
 ||refer.theleafchronicle.com^
 ||refer.timberland.com^
 ||refer.transfast.com^
@@ -84,6 +88,7 @@
 ||refer.ulta.com^
 ||refer.unionplus.org^
 ||refer.usforex.com^
+||refer.vantagetravel.com^
 ||refer.verabradley.com^
 ||refer.volcom.com^
 ||refer.vonage.com^
@@ -103,7 +108,6 @@
 ||share.wimp.no^
 ||share.worldmarket.com^
 ||sharethelove.teacollection.com^
-||social.beautisol.com^
 ||tellapal.register.com^
 ||tellapal.web.com^
 ||www.trevoce.com^
@@ -216,6 +220,7 @@
 ||refer.globalknowledge.com^
 ||refer.gnc.com^
 ||refer.gopetplan.ca^
+||refer.gopetplan.com^
 ||refer.greatwesternbank.com^
 ||refer.gymboree.com^
 ||refer.hair.com^
@@ -225,6 +230,7 @@
 ||refer.hillcity.gap.com^
 ||refer.hollandamerica.com^
 ||refer.homedepot.com^
+||refer.honcker.com^
 ||refer.horizonfitness.marketing^
 ||refer.hpso.com^
 ||refer.hsn.com^
@@ -263,6 +269,7 @@
 ||refer.narscosmetics.com^
 ||refer.nfhsnetwork.com^
 ||refer.ninjakitchen.com^
+||refer.nso.com^
 ||refer.olehenriksen.com^
 ||refer.orbitz.com^
 ||refer.ouidad.com^
@@ -491,6 +498,7 @@
 ||share.starbucks.com^
 ||share.statesman.com^
 ||share.steadyapp.com^
+||share.stopagingnow.com^
 ||share.stridehealth.com^
 ||share.studiosashiko.com^
 ||share.sundaysfordogs.com^

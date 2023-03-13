@@ -29,6 +29,7 @@
     * springergmbh01.webtrekk.net
     * tchibo02.webtrekk.net
     * tchibo03.webtrekk.net
+    * tchibo04.webtrekk.net
     * tchibo06.webtrekk.net
     * tchibo07.webtrekk.net
     * tchibo08.webtrekk.net
@@ -247,6 +248,7 @@
 | web.campaign.v73.it | 302571338326011.wt-eu02.net |
 | data.engelhorn.com | 302631813489498.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
+| web.marcotozzi.com | 306539831205028.wt-eu02.net |
 | web.tamaris.com | 306539831205028.wt-eu02.net |
 | web.e.panmacmillan.com | 306840111891766.wt-eu02.net |
 | a.hrewards.com | 307902509027183.wt-eu02.net |
@@ -463,6 +465,7 @@
 | scout.bergfreunde.se | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | data.janvanderstorm.de | janvanderstorm-01.wt-eu02.net |
+| data.shirtmaster.com | janvanderstorm-01.wt-eu02.net |
 | image.deginvest.de | kfw-05.webtrekk.net |
 | image.kfw-ipex-bank.de | kfw-06.webtrekk.net |
 | image.kfw-entwicklungsbank.de | kfw-07.webtrekk.net |
@@ -509,6 +512,7 @@
 | www7.springer.com | springergmbh01.webtrekk.net |
 | tracking.tchibo.ch | tchibo02.webtrekk.net |
 | tracking.tchibo.de | tchibo03.webtrekk.net |
+| tracking.eduscho.at | tchibo04.webtrekk.net |
 | tracking.tchibo.cz | tchibo06.webtrekk.net |
 | tracking.tchibo.sk | tchibo07.webtrekk.net |
 | tracking.tchibo.hu | tchibo08.webtrekk.net |
@@ -531,6 +535,7 @@
 | spr.welt.de | welt-01.wt-eu02.net |
 | wt.ara.ad | wt-ara.wt-eu02.net |
 | wt.ara.cat | wt-ara.wt-eu02.net |
+| wt.arabalears.cat | wt-ara.wt-eu02.net |
 | web.marketing.jellybelly.com | wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com |
 | wttd.douglas.at | wttd-douglas.wt-eu02.net |
 | wttd.douglas.ch | wttd-douglas.wt-eu02.net |

@@ -7,6 +7,7 @@ aa.samaniclucked.com CNAME .
 ae.craccaanybody.com CNAME .
 al.neuraleisfahan.com CNAME .
 an.pintaentrep.com CNAME .
+aq.ferisonledger.com CNAME .
 ar.tankasphose.com CNAME .
 ax.mousmeetrike.com CNAME .
 ax.requotebatman.com CNAME .
@@ -53,6 +54,7 @@ ip.fazendatoxic.com CNAME .
 ir.avertinniello.com CNAME .
 ir.mildlydoucely.com CNAME .
 ir.turbotaedile.com CNAME .
+iy.secalinonyxis.com CNAME .
 je.guancheoutwait.com CNAME .
 je.sepiasfra.com CNAME .
 ji.axingectal.com CNAME .
@@ -76,6 +78,7 @@ mc.brewseryngo.com CNAME .
 mf.collopantony.com CNAME .
 mi.bettingbulbous.com CNAME .
 mp.ualisbaubles.com CNAME .
+my.ursstubs.com CNAME .
 nc.nominaturfy.com CNAME .
 np.incrustkantela.com CNAME .
 oj.daunnotes.com CNAME .
@@ -98,6 +101,7 @@ rp.tsuresoranges.com CNAME .
 rs.tupigrousy.com CNAME .
 ru.vibgyorvolte.com CNAME .
 rw.davielyedith.com CNAME .
+rw.gundogleaker.com CNAME .
 rx.dewlesssnorted.com CNAME .
 sb.elfshippref.com CNAME .
 sc.achingpliant.com CNAME .
@@ -105,9 +109,11 @@ sc.waapadaggled.com CNAME .
 sc.waybookmyceles.com CNAME .
 sf.zestfulpize.com CNAME .
 sl.frondewame.com CNAME .
+sq.volvellurol.com CNAME .
 sv.werewaught.com CNAME .
 sw.pluckysups.com CNAME .
 sy.sartishmoop.com CNAME .
+tc.puinavikytes.com CNAME .
 th.micheryfrugal.com CNAME .
 tm.hacklesovary.com CNAME .
 tr.impoundiranism.com CNAME .
@@ -120,6 +126,7 @@ us.aghaneefigurae.com CNAME .
 uv.elymimontauk.com CNAME .
 ux.sapoaix.com CNAME .
 uy.mawseednoblest.com CNAME .
+va.ungracebaited.com CNAME .
 vd.scapemambu.com CNAME .
 vi.spratstatters.com CNAME .
 vn.finisbur.com CNAME .

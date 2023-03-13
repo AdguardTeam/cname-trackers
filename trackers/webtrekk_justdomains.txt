@@ -26,6 +26,7 @@ track.emeza.ch
 track.emeza.com
 track.kiomi.com
 track.yellostrom.de
+tracking.eduscho.at
 tracking.netcologne.de
 tracking.tchibo.ch
 tracking.tchibo.com.tr
@@ -89,6 +90,7 @@ data.mainpost.de
 data.mapp.com
 data.mediaworld.it
 data.pepephone.com
+data.shirtmaster.com
 data.srf.ch
 data.vdi-wissensforum.de
 data.volksfreund.de
@@ -265,6 +267,7 @@ web.mapp.tretti.se
 web.mapp.whiteaway.com
 web.mapp.whiteaway.no
 web.mapp.whiteaway.se
+web.marcotozzi.com
 web.marketing.elbenwald.de
 web.marketing.jellybelly.com
 web.mytoys.de
@@ -319,6 +322,7 @@ wetr.sportscheck.ch
 wetr.sportscheck.com
 wt.ara.ad
 wt.ara.cat
+wt.arabalears.cat
 wt.dialog-versicherung.de
 wt.envivas.de
 wt.generali.de

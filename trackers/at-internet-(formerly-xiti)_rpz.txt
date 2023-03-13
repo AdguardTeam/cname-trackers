@@ -40,6 +40,7 @@ d.m-net.de CNAME .
 d.santemagazine.fr CNAME .
 d.uni-medias.com CNAME .
 da.maif.fr CNAME .
+dfr.deloitte.com CNAME .
 dimensions.mappy.com CNAME .
 donjigrad.viessmann.rs CNAME .
 drau.viessmann.si CNAME .

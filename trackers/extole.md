@@ -15,8 +15,8 @@
     * backcountry.extole.com
     * barenecessities.extole.com
     * basictalk-ssl.extole.com
-    * beautisol.extole.com
     * bookbyte.extole.com
+    * bostonglobe-ssl.extole.com
     * calstate-aaa.extole.com
     * carbonite-ssl.extole.com
     * checkngo.extole.com
@@ -33,6 +33,7 @@
     * fuzebox-ssl.extole.com
     * gevalia.extole.com
     * gotoassist.extole.com
+    * gotomeeting.extole.com
     * greenvilleonline.extole.com
     * hannaandersson.extole.com
     * harimari.extole.com
@@ -67,8 +68,10 @@
     * ozforex-au.extole.com
     * ozforex-us.extole.com
     * pageonce.extole.com
+    * paramountsolar.extole.com
     * personalcreations-ssl.extole.com
     * petco.extole.com
+    * proflowers-ssl.extole.com
     * purchasingpower.extole.com
     * qalo.extole.com
     * referxoom.extole.com
@@ -78,12 +81,12 @@
     * sharefile-ssl.extole.com
     * shoesforcrews-ssl.extole.com
     * silvercar.extole.com
-    * social.extole.com
     * sperry.extole.com
     * staples.extole.com
     * talbots.extole.com
     * teacollection.extole.com
     * tenmarks.extole.com
+    * tennessean.extole.com
     * theleafchronicle.extole.com
     * timberland.extole.com
     * toughmudder.extole.com
@@ -91,6 +94,7 @@
     * turbotax-ssl.extole.com
     * ulta.extole.com
     * unionprivilege-ssl.extole.com
+    * vantagetravel.extole.com
     * verabradley.extole.com
     * vimeo.extole.com
     * vistaprint-ssl.extole.com
@@ -264,6 +268,7 @@
     * hill-city.extole.io
     * hollandamerica.extole.io
     * homedepot.extole.io
+    * honcker.extole.io
     * horizonfitness.extole.io
     * hotwire.extole.io
     * hsn.extole.io
@@ -396,6 +401,7 @@
     * steadyapp.extole.io
     * steelseries.extole.io
     * stop-and-shop.extole.io
+    * stopagingnow.extole.io
     * stridehealth.extole.io
     * studentuniverse.extole.io
     * studiosashiko.extole.io
@@ -498,6 +504,7 @@
 | refer.dna.ancestry.com | ancestrydna.extole.com |
 | refer.aol.com | aol.extole.com |
 | refer.hpso.com | aon.extole.io |
+| refer.nso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
 | refer.app.com | app.extole.com |
 | refer.art.com | artcom.extole.io |
@@ -531,7 +538,6 @@
 | refer.baxterofcalifornia.com | baxterofcalifornia.extole.io |
 | refer.bathandbodyworks.com | bbw.extole.io |
 | share.beaspermdonor.com | beaspermdonor.extole.io |
-| refer.beautisol.com | beautisol.extole.com |
 | refer.bioionic.com | bioionic.extole.io |
 | refer.bobstores.com | bobstores.extole.io |
 | refer.ems.com | bobstores.extole.io |
@@ -547,6 +553,7 @@
 | share.bose.ca | bose.extole.io |
 | share.bose.co.nz | bose.extole.io |
 | share.bose.com.au | bose.extole.io |
+| refer.bostonglobe.com | bostonglobe-ssl.extole.com |
 | share.bountyhunterwine.com | bountyhunterwine.extole.io |
 | share.brava.com | brava.extole.io |
 | amp.bfr.com | brook-furniture-rental.extole.io |
@@ -686,6 +693,7 @@
 | refer.gnc.com | gnc.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
+| refer.gotomeeting.com | gotomeeting.extole.com |
 | refer.greatwesternbank.com | greatwesternbank.extole.io |
 | share.greenlight.com | greenlightcard.extole.io |
 | share.greenlightcard.com | greenlightcard.extole.io |
@@ -702,6 +710,7 @@
 | refer.hillcity.gap.com | hill-city.extole.io |
 | refer.hollandamerica.com | hollandamerica.extole.io |
 | refer.homedepot.com | homedepot.extole.io |
+| refer.honcker.com | honcker.extole.io |
 | refer.horizonfitness.marketing | horizonfitness.extole.io |
 | referral.hostgator.com | hostgator.extole.com |
 | share.hotwire.com | hotwire.extole.io |
@@ -808,6 +817,7 @@
 | refer.pacsafe.com | pacsafe.extole.io |
 | refer.pageonce.com | pageonce.extole.com |
 | refer.panerabread.com | panerabread.extole.io |
+| refer.paramountsolar.com | paramountsolar.extole.com |
 | share.partsvu.com | partsvu.extole.io |
 | share.paulmitchell.com | paulmitchell.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
@@ -817,6 +827,7 @@
 | refer.petco.com | petco.extole.com |
 | refer.akcpetinsurance.com | petpartners.extole.io |
 | refer.gopetplan.ca | petplan.extole.io |
+| refer.gopetplan.com | petplan.extole.io |
 | share.petsbest.com | petsbest.extole.io |
 | refer.pimsleur.com | pimsleur.extole.io |
 | refer.ecoterrabeds.com | plush-beds.extole.io |
@@ -826,6 +837,7 @@
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
+| refer.proflowers.com | proflowers-ssl.extole.com |
 | refer.prokeds.com | prokeds.extole.io |
 | share.docmorris.fr | promofarma.extole.io |
 | share.promofarma.com | promofarma.extole.io |
@@ -886,7 +898,6 @@
 | refer.sleepnumber.com | sleepnumber.extole.io |
 | share.refer-smashbox.com | smashbox.extole.io |
 | refer.snapfinance.com | snap-finance.extole.io |
-| social.beautisol.com | social.extole.com |
 | refer.soma.com | soma.extole.io |
 | refer.sperry.com | sperry.extole.com |
 | refer.spothero.com | spothero.extole.io |
@@ -897,6 +908,7 @@
 | share.steadyapp.com | steadyapp.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
 | refer.stopandshop.com | stop-and-shop.extole.io |
+| share.stopagingnow.com | stopagingnow.extole.io |
 | share.stridehealth.com | stridehealth.extole.io |
 | refer.studentuniverse.com | studentuniverse.extole.io |
 | refer.studentuniverse.com.au | studentuniverse.extole.io |
@@ -913,6 +925,7 @@
 | refer.teladoc.com | teladoc.extole.io |
 | refer.teladochealth.com | teladoc.extole.io |
 | share.tenmarks.com | tenmarks.extole.com |
+| refer.tennessean.com | tennessean.extole.com |
 | refer.terijon.com | terijon.extole.io |
 | refer.childrensplace.com | the-childrens-place.extole.io |
 | refer.gymboree.com | the-childrens-place.extole.io |
@@ -953,6 +966,7 @@
 | refer.unionplus.org | unionprivilege-ssl.extole.com |
 | refer-us.uniqlo.com | uniqlo.extole.io |
 | share.united.net | united.extole.io |
+| refer.vantagetravel.com | vantagetravel.extole.com |
 | refer.vayasleep.com | vayasleep.extole.io |
 | share.veo.co | veo.extole.io |
 | refer.verabradley.com | verabradley.extole.com |

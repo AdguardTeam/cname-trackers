@@ -1054,6 +1054,7 @@
 | cdntm.firstdirect.com | h-hsbcmx.online-metrix.net |
 | cdntm.hangseng.com | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.ae | h-hsbcmx.online-metrix.net |
+| cdntm.hsbc.ca | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.co.in | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.co.uk | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.au | h-hsbcmx.online-metrix.net |
@@ -1389,6 +1390,7 @@
 | ifp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | jfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | kfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
+| lfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | yfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | frp.intuit.com | h-v60nf4oj.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |
@@ -1446,6 +1448,7 @@
 | contentservices.zurvita.com | h-zurvita.online-metrix.net |
 | content.readiness.consumercardaccess.com | h.online-metrix.net |
 | content.readiness.familyprepaiddebit.com | h.online-metrix.net |
+| content.readiness.paycardsolutions.com | h.online-metrix.net |
 | df.fragrancex.com | h.online-metrix.net |
 | fraudcheck.walmart.ca | h.online-metrix.net |
 | gateway.jmbullion.com | h.online-metrix.net |

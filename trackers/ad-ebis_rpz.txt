@@ -220,6 +220,7 @@ ebis.tokado.jp CNAME .
 ebis.treasurenet.jp CNAME .
 ebis.u2yokohama.co.jp CNAME .
 ebis.umulin-lab.com CNAME .
+ebis01.vernal.co.jp CNAME .
 ebis01.zkai.co.jp CNAME .
 ebis2020.hoiku-job.net CNAME .
 ebis202001.joyfit.jp CNAME .
@@ -256,6 +257,7 @@ ncc.nip-col.jp CNAME .
 nlp-japan.life-and-mind.com CNAME .
 os.beauty-health.today CNAME .
 partner.haru-shop.jp CNAME .
+rank.xn--cosme-5c4djcw662edgyc.com CNAME .
 seo.tkc110.jp CNAME .
 sep02.hinagiku-life.jp CNAME .
 sinceregarden.sincere-garden.jp CNAME .

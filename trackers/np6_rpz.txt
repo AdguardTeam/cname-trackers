@@ -37,6 +37,7 @@ tr.animations.bfmtv.com CNAME .
 tr.apou032.espmp-agfr.net CNAME .
 tr.asp0018.espmp-aufr.net CNAME .
 tr.asp002q.espmp-aufr.net CNAME .
+tr.asp002x.espmp-cufr.net CNAME .
 tr.asp0085.espmp-nifr.net CNAME .
 tr.asp008y.espmp-nifr.net CNAME .
 tr.asp00a1.espmp-agfr.net CNAME .
@@ -49,6 +50,7 @@ tr.asp106d.espmp-cufr.net CNAME .
 tr.asp106g.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
+tr.asp10c8.espmp-agfr.net CNAME .
 tr.asp10cg.espmp-nifr.net CNAME .
 tr.asp10ch.espmp-nifr.net CNAME .
 tr.asp10cr.espmp-nifr.net CNAME .
@@ -96,6 +98,7 @@ tr.business-deal.cl CNAME .
 tr.business-deal.com.br CNAME .
 tr.business-deal.fr CNAME .
 tr.business-deal.nl CNAME .
+tr.business-quotes.co.uk CNAME .
 tr.businessdev.younited-credit.es CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.cacf.ipsos-surveys.com CNAME .
@@ -152,12 +155,14 @@ tr.communication.moethennessydiageoconnect.com CNAME .
 tr.communication.np6.com CNAME .
 tr.communication.numericable.fr CNAME .
 tr.communication.offresb2b.fr CNAME .
+tr.communication.top-office.com CNAME .
 tr.companeo-news.co.uk CNAME .
 tr.compte.fca-capital-france.fr CNAME .
 tr.comunicacao.younited-credit.com CNAME .
 tr.contact.astuceco.fr CNAME .
 tr.contact.canalplay.com CNAME .
 tr.contact.canalplus.fr CNAME .
+tr.contact.canalsat.fr CNAME .
 tr.contact.cerel.net CNAME .
 tr.contact.cereps.fr CNAME .
 tr.contact.e-turf.fr CNAME .
@@ -369,6 +374,7 @@ tr.info.perl.fr CNAME .
 tr.info.ph-bpifrance.fr CNAME .
 tr.info.phsolidaire-bpifrance.fr CNAME .
 tr.info.pret-participatif.fr CNAME .
+tr.info.projeo-finance.fr CNAME .
 tr.info.promoneuve.fr CNAME .
 tr.info.reunica.com CNAME .
 tr.info.rouen.aeroport.fr CNAME .
@@ -427,6 +433,7 @@ tr.loreal.ifop.com CNAME .
 tr.louisvuittonmalletier.com CNAME .
 tr.louvre-boites.com CNAME .
 tr.ltbu.espmp-nifr.net CNAME .
+tr.ltbu02o.espmp-agfr.net CNAME .
 tr.lvmhappening.lvmh.fr CNAME .
 tr.m.cwisas.com CNAME .
 tr.macarte.truffaut.com CNAME .
@@ -441,6 +448,7 @@ tr.mail.mdbp.fr CNAME .
 tr.mail.moncoupdepouce.com CNAME .
 tr.mail.primevere.com CNAME .
 tr.mail.satisfactory.fr CNAME .
+tr.mail.vip-mag.co.uk CNAME .
 tr.mail.vipmag.fr CNAME .
 tr.mail.vo3000.com CNAME .
 tr.mail1.macif.fr CNAME .
@@ -638,6 +646,7 @@ tr.news.younited-credit.com CNAME .
 tr.news2pjms.fr CNAME .
 tr.news5.cdiscount.com CNAME .
 tr.news6.cdiscount.com CNAME .
+tr.newsletter-stressless.com CNAME .
 tr.newsletter.afpa.fr CNAME .
 tr.newsletter.assuragency.net CNAME .
 tr.newsletter.astro-mail.com CNAME .
@@ -652,10 +661,8 @@ tr.newsletter.erenumerique.fr CNAME .
 tr.newsletter.etoiledevenus.com CNAME .
 tr.newsletter.fotodiscount.com CNAME .
 tr.newsletter.huilesdolive.fr CNAME .
-tr.newsletter.jowae.com CNAME .
 tr.newsletter.lafabriqueaviva.fr CNAME .
 tr.newsletter.leocare.eu CNAME .
-tr.newsletter.lierac.com CNAME .
 tr.newsletter.location.boulanger.com CNAME .
 tr.newsletter.meilleurmobile.com CNAME .
 tr.newsletter.milleis.fr CNAME .
@@ -665,7 +672,6 @@ tr.newsletter.np6.fr CNAME .
 tr.newsletter.opcoep.fr CNAME .
 tr.newsletter.phyto.com CNAME .
 tr.newsletter.plurielmedia.com CNAME .
-tr.newsletter.roger-gallet.com CNAME .
 tr.newsletter.tiragephoto.fr CNAME .
 tr.newsletter.younited-credit.com CNAME .
 tr.newsletterpagesjaunes.fr CNAME .
@@ -834,10 +840,12 @@ tr.urfk057.espmp-aufr.net CNAME .
 tr.urfk05g.espmp-agfr.net CNAME .
 tr.urfk05l.espmp-nifr.net CNAME .
 tr.urfk06h.espmp-nifr.net CNAME .
+tr.urfk06o.espmp-agfr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
 tr.urfk07j.espmp-nifr.net CNAME .
 tr.urfk07s.espmp-nifr.net CNAME .
 tr.urfk080.espmp-agfr.net CNAME .
+tr.urfk08c.espmp-cufr.net CNAME .
 tr.vernede.huilesdolive.fr CNAME .
 tr.videofutur.fr CNAME .
 tr.ville.bordeaux.fr CNAME .
@@ -858,6 +866,7 @@ tr.welcome.lexpress.fr CNAME .
 tr.welcome.moncoupdepouce.com CNAME .
 tr.welcome.odalys-vacances.com CNAME .
 tr.welcome.smartdeals-transavia-fr.com CNAME .
+tr.wuei.espmp-agfr.net CNAME .
 tr.xleads.digital CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.lr003.net CNAME .

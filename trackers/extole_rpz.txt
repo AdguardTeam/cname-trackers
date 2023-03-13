@@ -26,8 +26,8 @@ refer.app.com CNAME .
 refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
 refer.basictalk.com CNAME .
-refer.beautisol.com CNAME .
 refer.bookbyte.com CNAME .
+refer.bostonglobe.com CNAME .
 refer.bowflex.com CNAME .
 refer.calstate.aaa.com CNAME .
 refer.carbonite.com CNAME .
@@ -44,6 +44,7 @@ refer.freshly.com CNAME .
 refer.fuzebox.com CNAME .
 refer.gevalia.com CNAME .
 refer.gotoassist.com CNAME .
+refer.gotomeeting.com CNAME .
 refer.greenvilleonline.com CNAME .
 refer.hannaandersson.com CNAME .
 refer.harimari.com CNAME .
@@ -66,9 +67,11 @@ refer.ooma.com CNAME .
 refer.opensky.com CNAME .
 refer.orientaltrading.com CNAME .
 refer.pageonce.com CNAME .
+refer.paramountsolar.com CNAME .
 refer.payroll.intuit.com CNAME .
 refer.personalcreations.com CNAME .
 refer.petco.com CNAME .
+refer.proflowers.com CNAME .
 refer.purchasingpower.com CNAME .
 refer.roadrunnersports.com CNAME .
 refer.sage.com CNAME .
@@ -77,6 +80,7 @@ refer.silvercar.com CNAME .
 refer.sperry.com CNAME .
 refer.staples.com CNAME .
 refer.talbots.com CNAME .
+refer.tennessean.com CNAME .
 refer.theleafchronicle.com CNAME .
 refer.timberland.com CNAME .
 refer.transfast.com CNAME .
@@ -84,6 +88,7 @@ refer.turbotax.intuit.com CNAME .
 refer.ulta.com CNAME .
 refer.unionplus.org CNAME .
 refer.usforex.com CNAME .
+refer.vantagetravel.com CNAME .
 refer.verabradley.com CNAME .
 refer.volcom.com CNAME .
 refer.vonage.com CNAME .
@@ -103,7 +108,6 @@ share.vimeo.com CNAME .
 share.wimp.no CNAME .
 share.worldmarket.com CNAME .
 sharethelove.teacollection.com CNAME .
-social.beautisol.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
 www.trevoce.com CNAME .
@@ -216,6 +220,7 @@ refer.glasses.com CNAME .
 refer.globalknowledge.com CNAME .
 refer.gnc.com CNAME .
 refer.gopetplan.ca CNAME .
+refer.gopetplan.com CNAME .
 refer.greatwesternbank.com CNAME .
 refer.gymboree.com CNAME .
 refer.hair.com CNAME .
@@ -225,6 +230,7 @@ refer.henribendel.com CNAME .
 refer.hillcity.gap.com CNAME .
 refer.hollandamerica.com CNAME .
 refer.homedepot.com CNAME .
+refer.honcker.com CNAME .
 refer.horizonfitness.marketing CNAME .
 refer.hpso.com CNAME .
 refer.hsn.com CNAME .
@@ -263,6 +269,7 @@ refer.mpgsport.com CNAME .
 refer.narscosmetics.com CNAME .
 refer.nfhsnetwork.com CNAME .
 refer.ninjakitchen.com CNAME .
+refer.nso.com CNAME .
 refer.olehenriksen.com CNAME .
 refer.orbitz.com CNAME .
 refer.ouidad.com CNAME .
@@ -491,6 +498,7 @@ share.stagsleap.com CNAME .
 share.starbucks.com CNAME .
 share.statesman.com CNAME .
 share.steadyapp.com CNAME .
+share.stopagingnow.com CNAME .
 share.stridehealth.com CNAME .
 share.studiosashiko.com CNAME .
 share.sundaysfordogs.com CNAME .

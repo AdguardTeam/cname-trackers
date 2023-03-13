@@ -97,6 +97,7 @@ cdnt.walmartrewards.ca CNAME .
 cdntm.firstdirect.com CNAME .
 cdntm.hangseng.com CNAME .
 cdntm.hsbc.ae CNAME .
+cdntm.hsbc.ca CNAME .
 cdntm.hsbc.co.in CNAME .
 cdntm.hsbc.co.uk CNAME .
 cdntm.hsbc.com.au CNAME .
@@ -245,6 +246,7 @@ content.qudosbank.com.au CNAME .
 content.quicken.com CNAME .
 content.readiness.consumercardaccess.com CNAME .
 content.readiness.familyprepaiddebit.com CNAME .
+content.readiness.paycardsolutions.com CNAME .
 content.realquest.com CNAME .
 content.royalairmaroc.com CNAME .
 content.royalvegascasino.ca CNAME .
@@ -448,6 +450,7 @@ jplspr.jackpot.com CNAME .
 jytrnq.cm-cic.com CNAME .
 kfp.intuit.com CNAME .
 lab4.lloydsbank.com CNAME .
+lfp.intuit.com CNAME .
 ln.meudigio.com.br CNAME .
 lndata.labor.maryland.gov CNAME .
 lnths.twc.texas.gov CNAME .

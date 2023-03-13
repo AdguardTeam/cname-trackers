@@ -4,6 +4,7 @@
 ; api.clickaine.com disguised trackers
 ;
 2023.beautyandrelax.icu CNAME .
+a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
 ad.aflamk1.net CNAME .
 ad.arabxl.com CNAME .
@@ -18,7 +19,6 @@ asg.animeyt.es CNAME .
 asg.torocomoroco.work CNAME .
 axx.aflamk1.net CNAME .
 c.gotoxxxtube.com CNAME .
-c0n.snaggys.com CNAME .
 c0n.tubestash.com CNAME .
 c2n.pornez.net CNAME .
 c4n.asianpinay.com CNAME .
@@ -28,6 +28,7 @@ c4n.ijerk.club CNAME .
 c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
 c4n.perverzija.com CNAME .
+c4n.shudhdesiporn.com CNAME .
 c4n.swift4claim.com CNAME .
 c4n.thefreejapaneseporn.com CNAME .
 c4n.watchpornonline.xyz CNAME .
@@ -76,6 +77,7 @@ icn.brandnewapp.pro CNAME .
 mail.7porn.ru CNAME .
 orange.arabtoons.net CNAME .
 ps1.reallifecam.to CNAME .
+ps2.camcaps.to CNAME .
 reg.ancensored.com CNAME .
 s1.rtnews.pro CNAME .
 s1.wnacg.org CNAME .

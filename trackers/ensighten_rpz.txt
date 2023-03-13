@@ -79,6 +79,7 @@ analytics.michiganlottery.com CNAME .
 analytics.mysynchrony.com CNAME .
 analytics.northerntool.com CNAME .
 analytics.ovative.com CNAME .
+analytics.polaris.com CNAME .
 analytics.stuartweitzman.com CNAME .
 analytics.syf.com CNAME .
 analytics.synchrony.com CNAME .
@@ -164,6 +165,7 @@ data.ford.com CNAME .
 data.lincoln.com CNAME .
 data.privacy.ensighten.com CNAME .
 dc.apothic.com CNAME .
+dc.barefootwine.com CNAME .
 dc.darkhorsewine.com CNAME .
 dc.directtv.com CNAME .
 dc.directv.com CNAME .
@@ -313,6 +315,7 @@ tms.experian.com CNAME .
 tms.kone.com CNAME .
 tms.marriott.com CNAME .
 tms.nab.com.au CNAME .
+tms.rsa.com CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .
 tog.fivebelow.com CNAME .

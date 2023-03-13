@@ -276,6 +276,10 @@ dgs.tns-gallup.dk CNAME .
 ;
 dmi.tns-gallup.dk CNAME .
 ;
+; dplayiosstream.tns-dk.2cnt.net disguised trackers
+;
+dplayiosstream.tns-gallup.dk CNAME .
+;
 ; slb-tns-dk-pool04.tns-dk.2cnt.net disguised trackers
 ;
 dplayiosstream.tns-gallup.dk CNAME .
@@ -381,13 +385,13 @@ gratisspil.tns-gallup.dk CNAME .
 ;
 halsa.tns-gallup.dk CNAME .
 ;
-; hanser.vgwort-de.2cnt.net disguised trackers
-;
-hanser.met.vgwort.de CNAME .
-;
 ; helpster.vgwort-de.2cnt.net disguised trackers
 ;
 helpster.met.vgwort.de CNAME .
+;
+; hogrefe.vgwort-de.2cnt.net disguised trackers
+;
+hogrefe.met.vgwort.de CNAME .
 ;
 ; hsfo.tns-dk.2cnt.net disguised trackers
 ;
@@ -1034,6 +1038,10 @@ ssl-stepstone.tns-gallup.dk CNAME .
 ;
 ssl-t-online.met.vgwort.de CNAME .
 ;
+; ssl-tagesspiegel.vgwort-de.2cnt.net disguised trackers
+;
+ssl-tagesspiegel.met.vgwort.de CNAME .
+;
 ; ssl-teltarif.vgwort-de.2cnt.net disguised trackers
 ;
 ssl-teltarif.met.vgwort.de CNAME .
@@ -1255,6 +1263,10 @@ weeka-eavis.tns-gallup.dk CNAME .
 ; weekendavisen.tns-dk.2cnt.net disguised trackers
 ;
 weekendavisen.tns-gallup.dk CNAME .
+;
+; welt.vgwort-de.2cnt.net disguised trackers
+;
+welt.met.vgwort.de CNAME .
 ;
 ; wiley.vgwort-de.2cnt.net disguised trackers
 ;

@@ -63,6 +63,7 @@
 ||affil.somavedic.cz^
 ||affil.sportinator.cz^
 ||affil.spravnykrok.cz^
+||affil.stastnavovztahu.sk^
 ||affil.stronger-shop.cz^
 ||affil.svj-info.cz^
 ||affil.tadytuto.cz^
@@ -146,6 +147,7 @@
 ||affiliate.growmarket.cz^
 ||affiliate.hamham.cz^
 ||affiliate.hanibal.cz^
+||affiliate.hokr.eu^
 ||affiliate.horseandme.eu^
 ||affiliate.ihrelinsen.at^
 ||affiliate.ilin.cz^
@@ -184,6 +186,7 @@
 ||affiliate.nomind.cz^
 ||affiliate.notifikuj.cz^
 ||affiliate.novakabelka.cz^
+||affiliate.offroadsafari.cz^
 ||affiliate.organikk.cz^
 ||affiliate.pasti.cz^
 ||affiliate.pestujzivotwebinar.cz^
@@ -319,14 +322,22 @@
 ||my.top4running.se^
 ||my.top4running.si^
 ||my.top4running.sk^
+||my.top4sport.cz^
+||my.top4sport.hu^
+||my.top4sport.ro^
+||my.weplaybasketball.bg^
 ||my.weplaybasketball.cz^
 ||my.weplaybasketball.hu^
 ||my.weplaybasketball.ro^
 ||my.weplaybasketball.sk^
 ||my.weplayhandball.cz^
+||my.weplayhandball.gr^
 ||my.weplayhandball.hu^
+||my.weplayhandball.ro^
 ||my.weplayhandball.sk^
 ||my.weplayvolleyball.cz^
+||my.weplayvolleyball.ro^
+||my.weplayvolleyball.si^
 ||my.weplayvolleyball.sk^
 ||owayfamily.ecoorganicbeauty.cz^
 ||partak.surfey.cz^
@@ -448,7 +459,9 @@
 ||partner.lidajirickova.cz^
 ||partner.lifetest.eu^
 ||partner.ltx.cz^
+||partner.luckyalvin.cz^
 ||partner.lyzelyze.cz^
+||partner.malujpodlecisel.cz^
 ||partner.marspom.cz^
 ||partner.martinreznicek.cz^
 ||partner.massivo.cz^
@@ -488,6 +501,7 @@
 ||partner.pradoch.cz^
 ||partner.pravopisne.cz^
 ||partner.pravopisne.sk^
+||partner.premiove-matrace.cz^
 ||partner.prosperk.cz^
 ||partner.psidetektiv.cz^
 ||partner.root.cz^
@@ -570,6 +584,7 @@
 ||partneri.biorganica.cz^
 ||partneri.bornature.cz^
 ||partneri.cannor.cz^
+||partneri.cebadex.cz^
 ||partneri.cestovatelskyobchod.cz^
 ||partneri.chytraopicka.cz^
 ||partneri.chytrykvetinac.cz^
@@ -586,6 +601,7 @@
 ||partneri.epiderma.cz^
 ||partneri.eshop.hankamokra.cz^
 ||partneri.espressoenglish.cz^
+||partneri.fengshuiacademy.cz^
 ||partneri.fitstore.cz^
 ||partneri.frcime.cz^
 ||partneri.gigamat.cz^
@@ -614,6 +630,8 @@
 ||partneri.motmot.cz^
 ||partneri.mrblast.eu^
 ||partneri.muzeslepe.cz^
+||partneri.nabytek-natali.cz^
+||partneri.naenergie.cz^
 ||partneri.natu.cz^
 ||partneri.netfotbal.cz^
 ||partneri.nutricbistro.cz^
@@ -644,6 +662,7 @@
 ||partneri.supportbox.cz^
 ||partneri.sviicka.cz^
 ||partneri.systemhry.cz^
+||partneri.tentino.cz^
 ||partneri.tradicne-feng-shui.sk^
 ||partneri.trenink-vyjednavani.cz^
 ||partneri.trollbeads.cz^
@@ -656,6 +675,7 @@
 ||partneri.vyzvaproimunitu.cz^
 ||partneri.way4life.cz^
 ||partneri.webmeeting.cz^
+||partneri.webovac.sk^
 ||partneri.worldee.com^
 ||partneri.yoggspiration.cz^
 ||partneri.zaprovizi.cz^
@@ -668,6 +688,7 @@
 ||partners.oktagon.tv^
 ||partners.pocitarna.cz^
 ||partners.puravidashop.cz^
+||partners.quantexpo.com^
 ||partners.spiritradar.com^
 ||program.biocitia.eu^
 ||promo.smskouc.cz^
@@ -676,6 +697,7 @@
 ||provize.ftfc.cz^
 ||provize.mimulo.cz^
 ||provize.radynacestu.cz^
+||provize.rychle-pujcky-bez-registru.cz^
 ||provize.sperky.guru^
 ||provize.vybavenifitness.cz^
 ||provize.zazitkovelety.cz^

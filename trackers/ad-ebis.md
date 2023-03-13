@@ -62,6 +62,7 @@
     * 337c50cc-ztaqjkmm.cname.ebis.ne.jp
     * 34213ab6-xnj2xrq7.cname.ebis.ne.jp
     * 359e2360-u9necda2.cname.ebis.ne.jp
+    * 35c8c3aa-gy66xg6s.cname.ebis.ne.jp
     * 35e79adf-qjtkq0iz.cname.ebis.ne.jp
     * 3714e864-qge7cq9v.cname.ebis.ne.jp
     * 37fe71c4-kfga9uze.cname.ebis.ne.jp
@@ -152,6 +153,7 @@
     * 8f5032fb-baawdyfz.cname.ebis.ne.jp
     * 8f7ab7df-baawdyfz.cname.ebis.ne.jp
     * 91378a87-vpwtermg.cname.ebis.ne.jp
+    * 91637823-s2mywwuv.cname.ebis.ne.jp
     * 917e1794-a9hmqa9q.cname.ebis.ne.jp
     * 92a7d885-sz3ynfbf.cname.ebis.ne.jp
     * 93269da3-jabnwha0.cname.ebis.ne.jp
@@ -338,6 +340,7 @@
 | adebis.afc-shop.com | 337c50cc-ztaqjkmm.cname.ebis.ne.jp |
 | adebis.report.clinic | 34213ab6-xnj2xrq7.cname.ebis.ne.jp |
 | adebis.tipness.co.jp | 359e2360-u9necda2.cname.ebis.ne.jp |
+| rank.xn--cosme-5c4djcw662edgyc.com | 35c8c3aa-gy66xg6s.cname.ebis.ne.jp |
 | adebis.fenet.jp | 35e79adf-qjtkq0iz.cname.ebis.ne.jp |
 | msr.p-antiaging.com | 3714e864-qge7cq9v.cname.ebis.ne.jp |
 | eb.bewithyou.jp | 37fe71c4-kfga9uze.cname.ebis.ne.jp |
@@ -428,6 +431,7 @@
 | adebis.shinseibank.com | 8f5032fb-baawdyfz.cname.ebis.ne.jp |
 | adebis.sbishinseibank.co.jp | 8f7ab7df-baawdyfz.cname.ebis.ne.jp |
 | aaaa.nocor.jp | 91378a87-vpwtermg.cname.ebis.ne.jp |
+| ebis01.vernal.co.jp | 91637823-s2mywwuv.cname.ebis.ne.jp |
 | ebis.shabon.com | 917e1794-a9hmqa9q.cname.ebis.ne.jp |
 | ebis.umulin-lab.com | 92a7d885-sz3ynfbf.cname.ebis.ne.jp |
 | adebis.kamada.co.jp | 93269da3-jabnwha0.cname.ebis.ne.jp |

@@ -37,6 +37,7 @@ tr.animations.bfmtv.com
 tr.apou032.espmp-agfr.net
 tr.asp0018.espmp-aufr.net
 tr.asp002q.espmp-aufr.net
+tr.asp002x.espmp-cufr.net
 tr.asp0085.espmp-nifr.net
 tr.asp008y.espmp-nifr.net
 tr.asp00a1.espmp-agfr.net
@@ -49,6 +50,7 @@ tr.asp106d.espmp-cufr.net
 tr.asp106g.espmp-nifr.net
 tr.asp10ar.espmp-cufr.net
 tr.asp10bs.espmp-aufr.net
+tr.asp10c8.espmp-agfr.net
 tr.asp10cg.espmp-nifr.net
 tr.asp10ch.espmp-nifr.net
 tr.asp10cr.espmp-nifr.net
@@ -96,6 +98,7 @@ tr.business-deal.cl
 tr.business-deal.com.br
 tr.business-deal.fr
 tr.business-deal.nl
+tr.business-quotes.co.uk
 tr.businessdev.younited-credit.es
 tr.cacf-acq.ipsos-surveys.com
 tr.cacf.ipsos-surveys.com
@@ -152,12 +155,14 @@ tr.communication.moethennessydiageoconnect.com
 tr.communication.np6.com
 tr.communication.numericable.fr
 tr.communication.offresb2b.fr
+tr.communication.top-office.com
 tr.companeo-news.co.uk
 tr.compte.fca-capital-france.fr
 tr.comunicacao.younited-credit.com
 tr.contact.astuceco.fr
 tr.contact.canalplay.com
 tr.contact.canalplus.fr
+tr.contact.canalsat.fr
 tr.contact.cerel.net
 tr.contact.cereps.fr
 tr.contact.e-turf.fr
@@ -369,6 +374,7 @@ tr.info.perl.fr
 tr.info.ph-bpifrance.fr
 tr.info.phsolidaire-bpifrance.fr
 tr.info.pret-participatif.fr
+tr.info.projeo-finance.fr
 tr.info.promoneuve.fr
 tr.info.reunica.com
 tr.info.rouen.aeroport.fr
@@ -427,6 +433,7 @@ tr.loreal.ifop.com
 tr.louisvuittonmalletier.com
 tr.louvre-boites.com
 tr.ltbu.espmp-nifr.net
+tr.ltbu02o.espmp-agfr.net
 tr.lvmhappening.lvmh.fr
 tr.m.cwisas.com
 tr.macarte.truffaut.com
@@ -441,6 +448,7 @@ tr.mail.mdbp.fr
 tr.mail.moncoupdepouce.com
 tr.mail.primevere.com
 tr.mail.satisfactory.fr
+tr.mail.vip-mag.co.uk
 tr.mail.vipmag.fr
 tr.mail.vo3000.com
 tr.mail1.macif.fr
@@ -638,6 +646,7 @@ tr.news.younited-credit.com
 tr.news2pjms.fr
 tr.news5.cdiscount.com
 tr.news6.cdiscount.com
+tr.newsletter-stressless.com
 tr.newsletter.afpa.fr
 tr.newsletter.assuragency.net
 tr.newsletter.astro-mail.com
@@ -652,10 +661,8 @@ tr.newsletter.erenumerique.fr
 tr.newsletter.etoiledevenus.com
 tr.newsletter.fotodiscount.com
 tr.newsletter.huilesdolive.fr
-tr.newsletter.jowae.com
 tr.newsletter.lafabriqueaviva.fr
 tr.newsletter.leocare.eu
-tr.newsletter.lierac.com
 tr.newsletter.location.boulanger.com
 tr.newsletter.meilleurmobile.com
 tr.newsletter.milleis.fr
@@ -665,7 +672,6 @@ tr.newsletter.np6.fr
 tr.newsletter.opcoep.fr
 tr.newsletter.phyto.com
 tr.newsletter.plurielmedia.com
-tr.newsletter.roger-gallet.com
 tr.newsletter.tiragephoto.fr
 tr.newsletter.younited-credit.com
 tr.newsletterpagesjaunes.fr
@@ -834,10 +840,12 @@ tr.urfk057.espmp-aufr.net
 tr.urfk05g.espmp-agfr.net
 tr.urfk05l.espmp-nifr.net
 tr.urfk06h.espmp-nifr.net
+tr.urfk06o.espmp-agfr.net
 tr.urfk06y.espmp-nifr.net
 tr.urfk07j.espmp-nifr.net
 tr.urfk07s.espmp-nifr.net
 tr.urfk080.espmp-agfr.net
+tr.urfk08c.espmp-cufr.net
 tr.vernede.huilesdolive.fr
 tr.videofutur.fr
 tr.ville.bordeaux.fr
@@ -858,6 +866,7 @@ tr.welcome.lexpress.fr
 tr.welcome.moncoupdepouce.com
 tr.welcome.odalys-vacances.com
 tr.welcome.smartdeals-transavia-fr.com
+tr.wuei.espmp-agfr.net
 tr.xleads.digital
 tr1.citroen-ipsos.com
 tr1.lr003.net

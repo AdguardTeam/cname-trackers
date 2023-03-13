@@ -24,7 +24,6 @@
 8afb7f9e2c1a7a9e.vtube.to CNAME .
 8lang.lol CNAME .
 8sptzne.mom CNAME .
-987656iuyyty.hotscopes.to CNAME .
 98tang.lol CNAME .
 a.123porner.com CNAME .
 a.6drole.com CNAME .
@@ -39,6 +38,7 @@ a.bitporno.to CNAME .
 a.bloblohub.com CNAME .
 a.boyjackpot.com CNAME .
 a.coinhub.wiki CNAME .
+a.craftbeerclub.com.ua CNAME .
 a.descsau.ml CNAME .
 a.digitalgiftshopping.com CNAME .
 a.dorkim.club CNAME .
@@ -48,6 +48,7 @@ a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.fuckamouth.com CNAME .
 a.hentai369.com CNAME .
+a.hentaimotel.com CNAME .
 a.hentaitube.icu CNAME .
 a.hubhubhub.name CNAME .
 a.kagiti.club CNAME .
@@ -123,6 +124,7 @@ api.adultsclips.com CNAME .
 app.phimvu.app CNAME .
 apple.analnoe24.com CNAME .
 apple.arabtoons.net CNAME .
+aps.celebfap.cyou CNAME .
 arch.u2207i.art CNAME .
 as.ebacdn.com CNAME .
 as.ebalovo.adult CNAME .
@@ -130,7 +132,6 @@ as.lencdn.com CNAME .
 as.lenkino.adult CNAME .
 as.pomcdn.com CNAME .
 as2.fasta.xyz CNAME .
-as2.o777i.com CNAME .
 ascc.javquick.com CNAME .
 asdf.eldos.xyz CNAME .
 asg.adumanag.xyz CNAME .
@@ -381,10 +382,12 @@ myads.babakcp0002.cf CNAME .
 mydomainbest.com CNAME .
 myxozilla.icu CNAME .
 n.reallifehentai.net CNAME .
+naiyoz.lol CNAME .
 nav.srcdn.xyz CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
 nice.tranny.one CNAME .
+nice.tryboobs.com CNAME .
 nodawzua.mom CNAME .
 nonekvoi.skin CNAME .
 nope.addhentai.com CNAME .
@@ -527,6 +530,7 @@ titsandtits.com CNAME .
 tlgt10.makeup CNAME .
 tlv.ui02.com CNAME .
 toaioi.lol CNAME .
+toaioi.xyz CNAME .
 tom.beclin.xyz CNAME .
 tomboy.lol CNAME .
 toyota.lol CNAME .
@@ -540,7 +544,6 @@ ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
 umtpopxcsedc.cdnvideo3.com CNAME .
 uthbxvz.bestzba.com CNAME .
-v2pro.stbvip.net CNAME .
 vavsnhau.mom CNAME .
 vd.7vid.net CNAME .
 video.jokanime.online CNAME .
@@ -557,6 +560,7 @@ vz.7vid.net CNAME .
 w00t.us CNAME .
 web.cinetux.nu CNAME .
 will.putinho.net CNAME .
+wp.zvideo.stream CNAME .
 ww.cvideos.stream CNAME .
 www.adanald.icu CNAME .
 www.adhome.icu CNAME .
@@ -603,4 +607,6 @@ cdn.manhwadesu.me CNAME .
 ;
 ; u53.hypnorat.com disguised trackers
 ;
-qoqv.com CNAME .
+h-ay.com CNAME .
+ontj.com CNAME .
+qhip.com CNAME .

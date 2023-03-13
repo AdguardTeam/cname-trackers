@@ -10,7 +10,6 @@ i.image-ad.jp
 i.newssuite.sony.net
 j.image-ad.jp
 j.newssuite.sony.net
-manage.newssuite.sony.net
 #
 # site-112900816347.gslb5.sakura.ne.jp disguised trackers
 #
