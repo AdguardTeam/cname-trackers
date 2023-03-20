@@ -5,6 +5,7 @@
 ;
 emailing.casden.banquepopulaire.fr CNAME .
 epm.mailperformance.com CNAME .
+mp.pitchero.com CNAME .
 newsletter.ticketac.com CNAME .
 shortener.np6.com CNAME .
 sms.gestion.cetelem.fr CNAME .
@@ -69,6 +70,7 @@ tr.asp2063.espmp-nifr.net CNAME .
 tr.asp206k.espmp-agfr.net CNAME .
 tr.asp2075.espmp-nifr.net CNAME .
 tr.asp2076.espmp-pofr.net CNAME .
+tr.asp2078.espmp-nifr.net CNAME .
 tr.asp207e.espmp-nifr.net CNAME .
 tr.avisecheance.maaf.fr CNAME .
 tr.axa.espmp-aufr.net CNAME .
@@ -159,6 +161,7 @@ tr.communication.top-office.com CNAME .
 tr.companeo-news.co.uk CNAME .
 tr.compte.fca-capital-france.fr CNAME .
 tr.comunicacao.younited-credit.com CNAME .
+tr.comunicazione.younited-credit.com CNAME .
 tr.contact.astuceco.fr CNAME .
 tr.contact.canalplay.com CNAME .
 tr.contact.canalplus.fr CNAME .
@@ -344,6 +347,7 @@ tr.info.capfun.com CNAME .
 tr.info.cartesaffaires.bnpparibas CNAME .
 tr.info.casino-proximites.fr CNAME .
 tr.info.certypro.fr CNAME .
+tr.info.cnch.fr CNAME .
 tr.info.comparadordeprestamos.es CNAME .
 tr.info.conexancemd.com CNAME .
 tr.info.covid-resistance-bretagne.fr CNAME .
@@ -491,6 +495,7 @@ tr.moes.espmp-agfr.net CNAME .
 tr.moja-wycena.pl CNAME .
 tr.mondevis-b2b.com CNAME .
 tr.mondevis-pro.com CNAME .
+tr.moving.fr CNAME .
 tr.mp.aconclue-business.fr CNAME .
 tr.mp.aconclue-entreprise.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
@@ -747,6 +752,7 @@ tr.promo.np6.fr CNAME .
 tr.promotion.lexpress.fr CNAME .
 tr.prosfores-companeo.gr CNAME .
 tr.prosfores-etairias.gr CNAME .
+tr.ps.espmp-agfr.net CNAME .
 tr.psaparts.com CNAME .
 tr.publicisdrugstore.espmp-agfr.net CNAME .
 tr.qualitaetsumfrage.com CNAME .

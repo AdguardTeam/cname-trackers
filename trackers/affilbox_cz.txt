@@ -57,6 +57,7 @@
 ||affil.sedacky-nabytek.cz^
 ||affil.seduo.cz^
 ||affil.seminarkyza1.cz^
+||affil.sexshop1.cz^
 ||affil.skolaobjemu.eu^
 ||affil.smartings.cz^
 ||affil.snadnejsizivot.cz^
@@ -130,6 +131,7 @@
 ||affiliate.elektronicke-vycvikove-obojky.com^
 ||affiliate.elektronickeobojkypropsy.cz^
 ||affiliate.elisdesign.cz^
+||affiliate.elitemarketing.cz^
 ||affiliate.epohledavky.cz^
 ||affiliate.eros.sk^
 ||affiliate.escapehouse.sk^
@@ -192,6 +194,7 @@
 ||affiliate.pestujzivotwebinar.cz^
 ||affiliate.petr-zeman.cz^
 ||affiliate.ph7.cz^
+||affiliate.platanclinique.cz^
 ||affiliate.plutoscompany.sk^
 ||affiliate.polti.cz^
 ||affiliate.portu.cz^
@@ -218,6 +221,7 @@
 ||affiliate.terarijni-potreby.cz^
 ||affiliate.topol.io^
 ||affiliate.trikator.cz^
+||affiliate.ucetni-portal.cz^
 ||affiliate.uncaria.cz^
 ||affiliate.urbanstore.cz^
 ||affiliate.urbanstore.sk^
@@ -334,6 +338,7 @@
 ||my.weplayhandball.gr^
 ||my.weplayhandball.hu^
 ||my.weplayhandball.ro^
+||my.weplayhandball.si^
 ||my.weplayhandball.sk^
 ||my.weplayvolleyball.cz^
 ||my.weplayvolleyball.ro^
@@ -402,7 +407,6 @@
 ||partner.doplnse.cz^
 ||partner.dr-nek.cz^
 ||partner.dripit.cz^
-||partner.duverujsveintuici.cz^
 ||partner.dynamikabohatstvi.cz^
 ||partner.eandilek.cz^
 ||partner.econea.cz^
@@ -436,9 +440,11 @@
 ||partner.ivadekor.cz^
 ||partner.izlato24.cz^
 ||partner.jak-na-bolava-zada.cz^
+||partner.jakfotitsladke.cz^
 ||partner.jakserychlenaucit.cz^
 ||partner.jedlenadobi.cz^
 ||partner.jillylenau.cz^
+||partner.kanabigerol.cz^
 ||partner.ketomix.cz^
 ||partner.ketomix.hu^
 ||partner.ketomix.sk^
@@ -474,6 +480,7 @@
 ||partner.mooda.cz^
 ||partner.mooselife.cz^
 ||partner.motoobchod.cz^
+||partner.muffik.cz^
 ||partner.mumijo.cz^
 ||partner.muzskykruh.cz^
 ||partner.nanolab.cz^
@@ -558,14 +565,12 @@
 ||partner.websusmevem.cz^
 ||partner.whoopdedoo.cz^
 ||partner.whoopdedoo.love^
-||partner.wormup.com^
 ||partner.xbx.cz^
 ||partner.xm.cz^
 ||partner.yummy.sk^
 ||partner.zdravi.online^
 ||partner.zkontrolujsiauto.cz^
 ||partner.zombeek.cz^
-||partner.zonercloud.sk^
 ||partner.zonky.cz^
 ||partner.zv1.cz^
 ||partneri.affiliate-program.sk^
@@ -601,6 +606,7 @@
 ||partneri.epiderma.cz^
 ||partneri.eshop.hankamokra.cz^
 ||partneri.espressoenglish.cz^
+||partneri.evolveo.cz^
 ||partneri.fengshuiacademy.cz^
 ||partneri.fitstore.cz^
 ||partneri.frcime.cz^
@@ -661,8 +667,8 @@
 ||partneri.sportmentor.cz^
 ||partneri.supportbox.cz^
 ||partneri.sviicka.cz^
-||partneri.systemhry.cz^
 ||partneri.tentino.cz^
+||partneri.toothy.cz^
 ||partneri.tradicne-feng-shui.sk^
 ||partneri.trenink-vyjednavani.cz^
 ||partneri.trollbeads.cz^
@@ -696,6 +702,7 @@
 ||provize.dzumdzum.cz^
 ||provize.ftfc.cz^
 ||provize.mimulo.cz^
+||provize.pracenasobe.cz^
 ||provize.radynacestu.cz^
 ||provize.rychle-pujcky-bez-registru.cz^
 ||provize.sperky.guru^

@@ -71,6 +71,7 @@
 ||adebis.litalico.co.jp^
 ||adebis.livable.co.jp^
 ||adebis.logoshome.jp^
+||adebis.mizunomori.com^
 ||adebis.no.01.alo-organic.com^
 ||adebis.nursery.co.jp^
 ||adebis.qeee.jp^
@@ -89,6 +90,7 @@
 ||adebis.tohshin.co.jp^
 ||adebis.tokyuhotels.co.jp^
 ||adebis.toushi-up.com^
+||adebis.tspot.co.jp^
 ||adebis.urban-research.jp^
 ||adebis.wii-clinic.jp^
 ||adebis.zenyaku-hbshop.com^
@@ -112,6 +114,7 @@
 ||bbbb.goace.jp^
 ||beeline.beeline-tire.co.jp^
 ||campaign-direct.eisai.jp^
+||ccc.aqualink.tokyo^
 ||cmass.massmedian.co.jp^
 ||cname-ade.gom-in.com^
 ||cname-ade.hankoya.com^
@@ -217,6 +220,7 @@
 ||ebis.studioindi.jp^
 ||ebis.sunstar-shop.jp^
 ||ebis.tokado.jp^
+||ebis.touhan-navi.com^
 ||ebis.treasurenet.jp^
 ||ebis.u2yokohama.co.jp^
 ||ebis.umulin-lab.com^

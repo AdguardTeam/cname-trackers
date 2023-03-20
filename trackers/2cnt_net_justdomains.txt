@@ -385,6 +385,10 @@ gratisspil.tns-gallup.dk
 #
 halsa.tns-gallup.dk
 #
+# hanser.vgwort-de.2cnt.net disguised trackers
+#
+hanser.met.vgwort.de
+#
 # helpster.vgwort-de.2cnt.net disguised trackers
 #
 helpster.met.vgwort.de
@@ -489,6 +493,10 @@ merkur.met.vgwort.de
 #
 mineaviser.tns-gallup.dk
 #
+# minmave.tns-dk.2cnt.net disguised trackers
+#
+minmave.tns-gallup.dk
+#
 # mopo.vgwort-de.2cnt.net disguised trackers
 #
 mopo.met.vgwort.de
@@ -508,10 +516,6 @@ natgeo.tns-gallup.dk
 # newsb.tns-dk.2cnt.net disguised trackers
 #
 newsb.tns-gallup.dk
-#
-# nomos.vgwort-de.2cnt.net disguised trackers
-#
-nomos.met.vgwort.de
 #
 # nordjyske.tns-dk.2cnt.net disguised trackers
 #
@@ -724,10 +728,6 @@ ssl-drhbbtv.tns-gallup.dk
 # ssl-driosstream.tns-dk.2cnt.net disguised trackers
 #
 ssl-driosstream.tns-gallup.dk
-#
-# ssl-drtv-appletv.tns-dk.2cnt.net disguised trackers
-#
-ssl-drtv-appletv.tns-gallup.dk
 #
 # ssl-ebiam.tns-dk.2cnt.net disguised trackers
 #
@@ -1263,10 +1263,6 @@ weeka-eavis.tns-gallup.dk
 # weekendavisen.tns-dk.2cnt.net disguised trackers
 #
 weekendavisen.tns-gallup.dk
-#
-# welt.vgwort-de.2cnt.net disguised trackers
-#
-welt.met.vgwort.de
 #
 # wiley.vgwort-de.2cnt.net disguised trackers
 #

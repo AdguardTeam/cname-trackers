@@ -5,6 +5,7 @@
 #
 emailing.casden.banquepopulaire.fr
 epm.mailperformance.com
+mp.pitchero.com
 newsletter.ticketac.com
 shortener.np6.com
 sms.gestion.cetelem.fr
@@ -69,6 +70,7 @@ tr.asp2063.espmp-nifr.net
 tr.asp206k.espmp-agfr.net
 tr.asp2075.espmp-nifr.net
 tr.asp2076.espmp-pofr.net
+tr.asp2078.espmp-nifr.net
 tr.asp207e.espmp-nifr.net
 tr.avisecheance.maaf.fr
 tr.axa.espmp-aufr.net
@@ -159,6 +161,7 @@ tr.communication.top-office.com
 tr.companeo-news.co.uk
 tr.compte.fca-capital-france.fr
 tr.comunicacao.younited-credit.com
+tr.comunicazione.younited-credit.com
 tr.contact.astuceco.fr
 tr.contact.canalplay.com
 tr.contact.canalplus.fr
@@ -344,6 +347,7 @@ tr.info.capfun.com
 tr.info.cartesaffaires.bnpparibas
 tr.info.casino-proximites.fr
 tr.info.certypro.fr
+tr.info.cnch.fr
 tr.info.comparadordeprestamos.es
 tr.info.conexancemd.com
 tr.info.covid-resistance-bretagne.fr
@@ -491,6 +495,7 @@ tr.moes.espmp-agfr.net
 tr.moja-wycena.pl
 tr.mondevis-b2b.com
 tr.mondevis-pro.com
+tr.moving.fr
 tr.mp.aconclue-business.fr
 tr.mp.aconclue-entreprise.fr
 tr.mp.aconclue-pro.com
@@ -747,6 +752,7 @@ tr.promo.np6.fr
 tr.promotion.lexpress.fr
 tr.prosfores-companeo.gr
 tr.prosfores-etairias.gr
+tr.ps.espmp-agfr.net
 tr.psaparts.com
 tr.publicisdrugstore.espmp-agfr.net
 tr.qualitaetsumfrage.com

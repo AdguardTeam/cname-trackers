@@ -69,6 +69,7 @@
 | affil.sedacky-nabytek.cz | cz.affilbox.cz |
 | affil.seduo.cz | cz.affilbox.cz |
 | affil.seminarkyza1.cz | cz.affilbox.cz |
+| affil.sexshop1.cz | cz.affilbox.cz |
 | affil.skolaobjemu.eu | cz.affilbox.cz |
 | affil.smartings.cz | cz.affilbox.cz |
 | affil.snadnejsizivot.cz | cz.affilbox.cz |
@@ -142,6 +143,7 @@
 | affiliate.elektronicke-vycvikove-obojky.com | cz.affilbox.cz |
 | affiliate.elektronickeobojkypropsy.cz | cz.affilbox.cz |
 | affiliate.elisdesign.cz | cz.affilbox.cz |
+| affiliate.elitemarketing.cz | cz.affilbox.cz |
 | affiliate.epohledavky.cz | cz.affilbox.cz |
 | affiliate.eros.sk | cz.affilbox.cz |
 | affiliate.escapehouse.sk | cz.affilbox.cz |
@@ -204,6 +206,7 @@
 | affiliate.pestujzivotwebinar.cz | cz.affilbox.cz |
 | affiliate.petr-zeman.cz | cz.affilbox.cz |
 | affiliate.ph7.cz | cz.affilbox.cz |
+| affiliate.platanclinique.cz | cz.affilbox.cz |
 | affiliate.plutoscompany.sk | cz.affilbox.cz |
 | affiliate.polti.cz | cz.affilbox.cz |
 | affiliate.portu.cz | cz.affilbox.cz |
@@ -230,6 +233,7 @@
 | affiliate.terarijni-potreby.cz | cz.affilbox.cz |
 | affiliate.topol.io | cz.affilbox.cz |
 | affiliate.trikator.cz | cz.affilbox.cz |
+| affiliate.ucetni-portal.cz | cz.affilbox.cz |
 | affiliate.uncaria.cz | cz.affilbox.cz |
 | affiliate.urbanstore.cz | cz.affilbox.cz |
 | affiliate.urbanstore.sk | cz.affilbox.cz |
@@ -346,6 +350,7 @@
 | my.weplayhandball.gr | cz.affilbox.cz |
 | my.weplayhandball.hu | cz.affilbox.cz |
 | my.weplayhandball.ro | cz.affilbox.cz |
+| my.weplayhandball.si | cz.affilbox.cz |
 | my.weplayhandball.sk | cz.affilbox.cz |
 | my.weplayvolleyball.cz | cz.affilbox.cz |
 | my.weplayvolleyball.ro | cz.affilbox.cz |
@@ -414,7 +419,6 @@
 | partner.doplnse.cz | cz.affilbox.cz |
 | partner.dr-nek.cz | cz.affilbox.cz |
 | partner.dripit.cz | cz.affilbox.cz |
-| partner.duverujsveintuici.cz | cz.affilbox.cz |
 | partner.dynamikabohatstvi.cz | cz.affilbox.cz |
 | partner.eandilek.cz | cz.affilbox.cz |
 | partner.econea.cz | cz.affilbox.cz |
@@ -448,9 +452,11 @@
 | partner.ivadekor.cz | cz.affilbox.cz |
 | partner.izlato24.cz | cz.affilbox.cz |
 | partner.jak-na-bolava-zada.cz | cz.affilbox.cz |
+| partner.jakfotitsladke.cz | cz.affilbox.cz |
 | partner.jakserychlenaucit.cz | cz.affilbox.cz |
 | partner.jedlenadobi.cz | cz.affilbox.cz |
 | partner.jillylenau.cz | cz.affilbox.cz |
+| partner.kanabigerol.cz | cz.affilbox.cz |
 | partner.ketomix.cz | cz.affilbox.cz |
 | partner.ketomix.hu | cz.affilbox.cz |
 | partner.ketomix.sk | cz.affilbox.cz |
@@ -486,6 +492,7 @@
 | partner.mooda.cz | cz.affilbox.cz |
 | partner.mooselife.cz | cz.affilbox.cz |
 | partner.motoobchod.cz | cz.affilbox.cz |
+| partner.muffik.cz | cz.affilbox.cz |
 | partner.mumijo.cz | cz.affilbox.cz |
 | partner.muzskykruh.cz | cz.affilbox.cz |
 | partner.nanolab.cz | cz.affilbox.cz |
@@ -570,14 +577,12 @@
 | partner.websusmevem.cz | cz.affilbox.cz |
 | partner.whoopdedoo.cz | cz.affilbox.cz |
 | partner.whoopdedoo.love | cz.affilbox.cz |
-| partner.wormup.com | cz.affilbox.cz |
 | partner.xbx.cz | cz.affilbox.cz |
 | partner.xm.cz | cz.affilbox.cz |
 | partner.yummy.sk | cz.affilbox.cz |
 | partner.zdravi.online | cz.affilbox.cz |
 | partner.zkontrolujsiauto.cz | cz.affilbox.cz |
 | partner.zombeek.cz | cz.affilbox.cz |
-| partner.zonercloud.sk | cz.affilbox.cz |
 | partner.zonky.cz | cz.affilbox.cz |
 | partner.zv1.cz | cz.affilbox.cz |
 | partneri.affiliate-program.sk | cz.affilbox.cz |
@@ -613,6 +618,7 @@
 | partneri.epiderma.cz | cz.affilbox.cz |
 | partneri.eshop.hankamokra.cz | cz.affilbox.cz |
 | partneri.espressoenglish.cz | cz.affilbox.cz |
+| partneri.evolveo.cz | cz.affilbox.cz |
 | partneri.fengshuiacademy.cz | cz.affilbox.cz |
 | partneri.fitstore.cz | cz.affilbox.cz |
 | partneri.frcime.cz | cz.affilbox.cz |
@@ -673,8 +679,8 @@
 | partneri.sportmentor.cz | cz.affilbox.cz |
 | partneri.supportbox.cz | cz.affilbox.cz |
 | partneri.sviicka.cz | cz.affilbox.cz |
-| partneri.systemhry.cz | cz.affilbox.cz |
 | partneri.tentino.cz | cz.affilbox.cz |
+| partneri.toothy.cz | cz.affilbox.cz |
 | partneri.tradicne-feng-shui.sk | cz.affilbox.cz |
 | partneri.trenink-vyjednavani.cz | cz.affilbox.cz |
 | partneri.trollbeads.cz | cz.affilbox.cz |
@@ -708,6 +714,7 @@
 | provize.dzumdzum.cz | cz.affilbox.cz |
 | provize.ftfc.cz | cz.affilbox.cz |
 | provize.mimulo.cz | cz.affilbox.cz |
+| provize.pracenasobe.cz | cz.affilbox.cz |
 | provize.radynacestu.cz | cz.affilbox.cz |
 | provize.rychle-pujcky-bez-registru.cz | cz.affilbox.cz |
 | provize.sperky.guru | cz.affilbox.cz |

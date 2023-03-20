@@ -71,6 +71,7 @@ adebis.lifestylemag.jp CNAME .
 adebis.litalico.co.jp CNAME .
 adebis.livable.co.jp CNAME .
 adebis.logoshome.jp CNAME .
+adebis.mizunomori.com CNAME .
 adebis.no.01.alo-organic.com CNAME .
 adebis.nursery.co.jp CNAME .
 adebis.qeee.jp CNAME .
@@ -89,6 +90,7 @@ adebis.tipness.co.jp CNAME .
 adebis.tohshin.co.jp CNAME .
 adebis.tokyuhotels.co.jp CNAME .
 adebis.toushi-up.com CNAME .
+adebis.tspot.co.jp CNAME .
 adebis.urban-research.jp CNAME .
 adebis.wii-clinic.jp CNAME .
 adebis.zenyaku-hbshop.com CNAME .
@@ -112,6 +114,7 @@ axjfkc.kobayashi.co.jp CNAME .
 bbbb.goace.jp CNAME .
 beeline.beeline-tire.co.jp CNAME .
 campaign-direct.eisai.jp CNAME .
+ccc.aqualink.tokyo CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.gom-in.com CNAME .
 cname-ade.hankoya.com CNAME .
@@ -217,6 +220,7 @@ ebis.studioindi-yokohama.com CNAME .
 ebis.studioindi.jp CNAME .
 ebis.sunstar-shop.jp CNAME .
 ebis.tokado.jp CNAME .
+ebis.touhan-navi.com CNAME .
 ebis.treasurenet.jp CNAME .
 ebis.u2yokohama.co.jp CNAME .
 ebis.umulin-lab.com CNAME .

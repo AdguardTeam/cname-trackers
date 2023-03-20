@@ -38,6 +38,7 @@
     * h-4ruz3ugq.online-metrix.net
     * h-4ulk5mz4.online-metrix.net
     * h-516jl8bt.online-metrix.net
+    * h-5g3kt0kj.online-metrix.net
     * h-5gi6k6h5.online-metrix.net
     * h-5glaq71x.online-metrix.net
     * h-5pxao9h8.online-metrix.net
@@ -94,6 +95,7 @@
     * h-ag4c1wpy.online-metrix.net
     * h-agaval.online-metrix.net
     * h-alliantcreditunion.online-metrix.net
+    * h-allianz.online-metrix.net
     * h-allstate.online-metrix.net
     * h-alterna.online-metrix.net
     * h-ameriprise.online-metrix.net
@@ -275,6 +277,7 @@
     * h-drnycoos.online-metrix.net
     * h-dstssc.online-metrix.net
     * h-dszu15n8.online-metrix.net
+    * h-dux3ssmw.online-metrix.net
     * h-dwiy84jk-a.online-metrix.net
     * h-dwiy84jk.online-metrix.net
     * h-dxmw0w7i.online-metrix.net
@@ -653,6 +656,7 @@
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | tmx-fpt.credit-agricole.pl | h-4ulk5mz4.online-metrix.net |
 | tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
+| page-format.chase.com | h-5g3kt0kj.online-metrix.net |
 | content.ifpsoyyo.co | h-5gi6k6h5.online-metrix.net |
 | api.ext.evolution.protective.com | h-5glaq71x.online-metrix.net |
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
@@ -728,6 +732,7 @@
 | lsr22.dzing.finance | h-ag4c1wpy.online-metrix.net |
 | validacionlx.agaval.com | h-agaval.online-metrix.net |
 | cdn.alliantcreditunion.com | h-alliantcreditunion.online-metrix.net |
+| txn.allianzlife.com | h-allianz.online-metrix.net |
 | content.allstate.com | h-allstate.online-metrix.net |
 | content.alterna.ca | h-alterna.online-metrix.net |
 | content.alternabank.ca | h-alterna.online-metrix.net |
@@ -956,6 +961,7 @@
 | mobile-content.pumb.ua | h-drnycoos.online-metrix.net |
 | content.ssctech.com | h-dstssc.online-metrix.net |
 | acdc.toolineo.de | h-dszu15n8.online-metrix.net |
+| client.online.sandyspringbank.com | h-dux3ssmw.online-metrix.net |
 | servicesdp.spinaway.ca | h-dwiy84jk-a.online-metrix.net |
 | servicesdp.luckydays.ca | h-dwiy84jk.online-metrix.net |
 | cdna.ecommerce.cofidis.it | h-dxmw0w7i.online-metrix.net |
@@ -1455,5 +1461,6 @@
 | h.greenmangaming.com | h.online-metrix.net |
 | ons.tickets.com | h.online-metrix.net |
 | portal-fp-qa1.qa.threatmetrix.com | qa1-h.online-metrix.net |
+| invalid-qa2.threatmetrix.com | qa2-h.online-metrix.net |
 | portal-fp-qa2.qa.threatmetrix.com | qa2-h.online-metrix.net |
 | portal-fp-qaperf2.qa.threatmetrix.com | qaperf2-h.online-metrix.net |

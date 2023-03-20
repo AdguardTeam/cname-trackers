@@ -7,6 +7,7 @@ clk.ubi.com CNAME .
 k.brandalley.be CNAME .
 k.brandalley.co.nl CNAME .
 k.brandalley.es CNAME .
+k.brandalley.fr CNAME .
 k.cocooncenter.be CNAME .
 k.cocooncenter.co.uk CNAME .
 k.cocooncenter.com CNAME .

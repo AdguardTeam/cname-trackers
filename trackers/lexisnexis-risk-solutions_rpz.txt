@@ -139,6 +139,7 @@ checkout-df.lululemon.com CNAME .
 cib.currency.lloydsbank.com CNAME .
 claimant.vec.virginia.gov CNAME .
 clear.wallapop.com CNAME .
+client.online.sandyspringbank.com CNAME .
 clovergo.june-testing.firstdata.com CNAME .
 cmprofile.cards.citidirect.com CNAME .
 cnt.didiglobal.com CNAME .
@@ -443,6 +444,7 @@ info.betway.co.za CNAME .
 info.betway.fr CNAME .
 intlsdpntrca.nitrocasino.ca CNAME .
 intm.amwager.com CNAME .
+invalid-qa2.threatmetrix.com CNAME .
 irmp.caa.com CNAME .
 jfp.intuit.com CNAME .
 jj203.equitablebank.ca CNAME .
@@ -500,6 +502,7 @@ ons.tickets.com CNAME .
 optm.optus.com.au CNAME .
 osn-cirrus.cas.org CNAME .
 pafms.ocbc.com CNAME .
+page-format.chase.com CNAME .
 pages.fiduciarytrust.com CNAME .
 pages.franklintempleton.com CNAME .
 paiement.cb4x.fr CNAME .
@@ -800,6 +803,7 @@ tx.n11.com CNAME .
 tx.suncoastcreditunion.com CNAME .
 txcontent.iherb.cn CNAME .
 txcontent.iherb.com CNAME .
+txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
 ualaki-analytics.vacations.united.com CNAME .
 uldfp.srilankan.com CNAME .

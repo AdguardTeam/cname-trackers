@@ -385,6 +385,10 @@ gratisspil.tns-gallup.dk CNAME .
 ;
 halsa.tns-gallup.dk CNAME .
 ;
+; hanser.vgwort-de.2cnt.net disguised trackers
+;
+hanser.met.vgwort.de CNAME .
+;
 ; helpster.vgwort-de.2cnt.net disguised trackers
 ;
 helpster.met.vgwort.de CNAME .
@@ -489,6 +493,10 @@ merkur.met.vgwort.de CNAME .
 ;
 mineaviser.tns-gallup.dk CNAME .
 ;
+; minmave.tns-dk.2cnt.net disguised trackers
+;
+minmave.tns-gallup.dk CNAME .
+;
 ; mopo.vgwort-de.2cnt.net disguised trackers
 ;
 mopo.met.vgwort.de CNAME .
@@ -508,10 +516,6 @@ natgeo.tns-gallup.dk CNAME .
 ; newsb.tns-dk.2cnt.net disguised trackers
 ;
 newsb.tns-gallup.dk CNAME .
-;
-; nomos.vgwort-de.2cnt.net disguised trackers
-;
-nomos.met.vgwort.de CNAME .
 ;
 ; nordjyske.tns-dk.2cnt.net disguised trackers
 ;
@@ -724,10 +728,6 @@ ssl-drhbbtv.tns-gallup.dk CNAME .
 ; ssl-driosstream.tns-dk.2cnt.net disguised trackers
 ;
 ssl-driosstream.tns-gallup.dk CNAME .
-;
-; ssl-drtv-appletv.tns-dk.2cnt.net disguised trackers
-;
-ssl-drtv-appletv.tns-gallup.dk CNAME .
 ;
 ; ssl-ebiam.tns-dk.2cnt.net disguised trackers
 ;
@@ -1263,10 +1263,6 @@ weeka-eavis.tns-gallup.dk CNAME .
 ; weekendavisen.tns-dk.2cnt.net disguised trackers
 ;
 weekendavisen.tns-gallup.dk CNAME .
-;
-; welt.vgwort-de.2cnt.net disguised trackers
-;
-welt.met.vgwort.de CNAME .
 ;
 ; wiley.vgwort-de.2cnt.net disguised trackers
 ;

@@ -34,6 +34,7 @@
 ||refer.checkngo.com^
 ||refer.clearme.com^
 ||refer.compexusa.com^
+||refer.criquetshirts.com^
 ||refer.discover.com^
 ||refer.divvybikes.com^
 ||refer.dna.ancestry.co.uk^
@@ -212,6 +213,7 @@
 ||refer.gapcanada.ca^
 ||refer.gardenoflife.com^
 ||refer.garnethill.com^
+||refer.gbyguess.com^
 ||refer.gcefcu.org^
 ||refer.giantfood.com^
 ||refer.giantfoodstores.com^
@@ -304,6 +306,7 @@
 ||refer.skinceuticals.com^
 ||refer.skyone.org^
 ||refer.sleepnumber.com^
+||refer.smashbox.com^
 ||refer.snapfinance.com^
 ||refer.soma.com^
 ||refer.spothero.com^
@@ -464,6 +467,7 @@
 ||share.partsvu.com^
 ||share.paulmitchell.com^
 ||share.petsbest.com^
+||share.pilotcoffeeroasters.com^
 ||share.policygenius.com^
 ||share.poughkeepsiejournal.com^
 ||share.princess.com^

@@ -34,6 +34,7 @@ refer.carbonite.com CNAME .
 refer.checkngo.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
+refer.criquetshirts.com CNAME .
 refer.discover.com CNAME .
 refer.divvybikes.com CNAME .
 refer.dna.ancestry.co.uk CNAME .
@@ -212,6 +213,7 @@ refer.g2.com CNAME .
 refer.gapcanada.ca CNAME .
 refer.gardenoflife.com CNAME .
 refer.garnethill.com CNAME .
+refer.gbyguess.com CNAME .
 refer.gcefcu.org CNAME .
 refer.giantfood.com CNAME .
 refer.giantfoodstores.com CNAME .
@@ -304,6 +306,7 @@ refer.sharkclean.com CNAME .
 refer.skinceuticals.com CNAME .
 refer.skyone.org CNAME .
 refer.sleepnumber.com CNAME .
+refer.smashbox.com CNAME .
 refer.snapfinance.com CNAME .
 refer.soma.com CNAME .
 refer.spothero.com CNAME .
@@ -464,6 +467,7 @@ share.origins.com CNAME .
 share.partsvu.com CNAME .
 share.paulmitchell.com CNAME .
 share.petsbest.com CNAME .
+share.pilotcoffeeroasters.com CNAME .
 share.policygenius.com CNAME .
 share.poughkeepsiejournal.com CNAME .
 share.princess.com CNAME .

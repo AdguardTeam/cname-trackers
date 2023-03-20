@@ -86,6 +86,7 @@
 ||data.inbank.it^
 ||data.janvanderstorm.de^
 ||data.leipzig.de^
+||data.main-ding.de^
 ||data.mainpost.de^
 ||data.mapp.com^
 ||data.mediaworld.it^
@@ -133,6 +134,7 @@
 ||hbbtv-track.prosieben.de^
 ||hbbtv-track.prosiebensat1puls4.com^
 ||img.foodspring.at^
+||img.foodspring.ch^
 ||img.foodspring.cz^
 ||img.foodspring.de^
 ||img.foodspring.dk^
@@ -146,6 +148,7 @@
 ||mapp.jysk.dk^
 ||mapp.jysk.nl^
 ||mapp.yesstyle.com^
+||mff.messefrankfurt.com^
 ||mit.bhw.de^
 ||mit.db.com^
 ||mit.deutsche-bank.de^

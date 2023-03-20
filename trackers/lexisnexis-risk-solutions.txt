@@ -139,6 +139,7 @@
 ||cib.currency.lloydsbank.com^
 ||claimant.vec.virginia.gov^
 ||clear.wallapop.com^
+||client.online.sandyspringbank.com^
 ||clovergo.june-testing.firstdata.com^
 ||cmprofile.cards.citidirect.com^
 ||cnt.didiglobal.com^
@@ -443,6 +444,7 @@
 ||info.betway.fr^
 ||intlsdpntrca.nitrocasino.ca^
 ||intm.amwager.com^
+||invalid-qa2.threatmetrix.com^
 ||irmp.caa.com^
 ||jfp.intuit.com^
 ||jj203.equitablebank.ca^
@@ -500,6 +502,7 @@
 ||optm.optus.com.au^
 ||osn-cirrus.cas.org^
 ||pafms.ocbc.com^
+||page-format.chase.com^
 ||pages.fiduciarytrust.com^
 ||pages.franklintempleton.com^
 ||paiement.cb4x.fr^
@@ -800,6 +803,7 @@
 ||tx.suncoastcreditunion.com^
 ||txcontent.iherb.cn^
 ||txcontent.iherb.com^
+||txn.allianzlife.com^
 ||uafms.ocbc.com^
 ||ualaki-analytics.vacations.united.com^
 ||uldfp.srilankan.com^

@@ -37,6 +37,7 @@
 771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 7hdl8dlfjm4g.www.cybernetman.com CNAME .
+7vtdnufefvz3.kvest.ee CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .

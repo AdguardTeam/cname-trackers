@@ -23,6 +23,7 @@
     * chubbies.extole.com
     * clearme-ssl.extole.com
     * compexusa.extole.com
+    * criquetshirts.extole.com
     * d.extole.com
     * discover.extole.com
     * divvybikes.extole.com
@@ -244,6 +245,7 @@
     * gap-canada.extole.io
     * gardenoflife.extole.io
     * garnethill.extole.io
+    * gbyguess.extole.io
     * gcefcu.extole.io
     * getsetup.extole.io
     * giant-martins.extole.io
@@ -344,6 +346,7 @@
     * petpartners.extole.io
     * petplan.extole.io
     * petsbest.extole.io
+    * pilotcoffeeroasters.extole.io
     * pimsleur.extole.io
     * plush-beds.extole.io
     * policygenius.extole.io
@@ -604,6 +607,7 @@
 | refer.creativelive.com | creativelive.extole.io |
 | share.credible.com | credible.extole.io |
 | share.creditninja.com | creditninja.extole.io |
+| refer.criquetshirts.com | criquetshirts.extole.com |
 | refer.crocs.com | crocs.extole.io |
 | refer-photo.cvs.com | cvs.extole.io |
 | share.cwbank.com | cwbank.extole.io |
@@ -677,6 +681,7 @@
 | refer.gapcanada.ca | gap-canada.extole.io |
 | refer.gardenoflife.com | gardenoflife.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
+| refer.gbyguess.com | gbyguess.extole.io |
 | refer.gcefcu.org | gcefcu.extole.io |
 | share.getsetup.io | getsetup.extole.io |
 | refer.gevalia.com | gevalia.extole.com |
@@ -829,6 +834,7 @@
 | refer.gopetplan.ca | petplan.extole.io |
 | refer.gopetplan.com | petplan.extole.io |
 | share.petsbest.com | petsbest.extole.io |
+| share.pilotcoffeeroasters.com | pilotcoffeeroasters.extole.io |
 | refer.pimsleur.com | pimsleur.extole.io |
 | refer.ecoterrabeds.com | plush-beds.extole.io |
 | share.policygenius.com | policygenius.extole.io |
@@ -896,6 +902,7 @@
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | refer.skyone.org | skyone-federal-credit-union.extole.io |
 | refer.sleepnumber.com | sleepnumber.extole.io |
+| refer.smashbox.com | smashbox.extole.io |
 | share.refer-smashbox.com | smashbox.extole.io |
 | refer.snapfinance.com | snap-finance.extole.io |
 | refer.soma.com | soma.extole.io |

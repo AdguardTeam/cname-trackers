@@ -86,6 +86,7 @@ data.goertz.de CNAME .
 data.inbank.it CNAME .
 data.janvanderstorm.de CNAME .
 data.leipzig.de CNAME .
+data.main-ding.de CNAME .
 data.mainpost.de CNAME .
 data.mapp.com CNAME .
 data.mediaworld.it CNAME .
@@ -133,6 +134,7 @@ foro.data.srf.ch CNAME .
 hbbtv-track.prosieben.de CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
 img.foodspring.at CNAME .
+img.foodspring.ch CNAME .
 img.foodspring.cz CNAME .
 img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
@@ -146,6 +148,7 @@ mapp.ewm.co.uk CNAME .
 mapp.jysk.dk CNAME .
 mapp.jysk.nl CNAME .
 mapp.yesstyle.com CNAME .
+mff.messefrankfurt.com CNAME .
 mit.bhw.de CNAME .
 mit.db.com CNAME .
 mit.deutsche-bank.de CNAME .

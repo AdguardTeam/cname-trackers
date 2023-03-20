@@ -39,10 +39,12 @@
     * 1c11b00c-sz3ynfbf.cname.ebis.ne.jp
     * 1c49adf8-5jfswxpe.cname.ebis.ne.jp
     * 1c49adf8-eth6amyu.cname.ebis.ne.jp
+    * 1d120bac-wlvncyr6.cname.ebis.ne.jp
     * 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp
     * 23d55728-ssmshbez.cname.ebis.ne.jp
     * 26349a15-esqb2ypb.cname.ebis.ne.jp
     * 267222ab-t3ucd5yy.cname.ebis.ne.jp
+    * 26ee0459-cb9pban5.cname.ebis.ne.jp
     * 272dd850-1tkscuog.cname.ebis.ne.jp
     * 27bc2a62-d23tnyeg.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
@@ -210,6 +212,7 @@
     * bebe7a28-6pusefyf.cname.ebis.ne.jp
     * bf14bf36-iksdytmu.cname.ebis.ne.jp
     * bf6230ec-6pusefyf.cname.ebis.ne.jp
+    * bf9a6318-sfkvsvst.cname.ebis.ne.jp
     * c054b113-ztaqjkmm.cname.ebis.ne.jp
     * c07c2fd1-ccb9p988.cname.ebis.ne.jp
     * c0ea9e75-yfrcguru.cname.ebis.ne.jp
@@ -276,6 +279,7 @@
     * fc192e57-yfrcguru.cname.ebis.ne.jp
     * fc83fd61-digitalgarage.cname.ebis.ne.jp
     * fe1d7165-mmpoiy89.cname.ebis.ne.jp
+    * fff23fcf-xwlqprjb.cname.ebis.ne.jp
 
 ## Cloaking domains
 
@@ -317,10 +321,12 @@
 | ebis.mucuna.co.jp | 1c11b00c-sz3ynfbf.cname.ebis.ne.jp |
 | ac-ebis-stb.usen.com | 1c49adf8-5jfswxpe.cname.ebis.ne.jp |
 | ac-ebis-uhome.usen.com | 1c49adf8-eth6amyu.cname.ebis.ne.jp |
+| adebis.tspot.co.jp | 1d120bac-wlvncyr6.cname.ebis.ne.jp |
 | marketing.biz.mynavi.jp | 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp |
 | ebis.c-3-esthe.com | 23d55728-ssmshbez.cname.ebis.ne.jp |
 | ebis.smakon.jp | 26349a15-esqb2ypb.cname.ebis.ne.jp |
 | ebiscname.english-native.net | 267222ab-t3ucd5yy.cname.ebis.ne.jp |
+| ccc.aqualink.tokyo | 26ee0459-cb9pban5.cname.ebis.ne.jp |
 | ad-ebis.mynavi-job20s.jp | 272dd850-1tkscuog.cname.ebis.ne.jp |
 | corporate.frontierconsul.net | 27bc2a62-d23tnyeg.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
@@ -488,6 +494,7 @@
 | ebis-tracking.tcb-beauty.net | bebe7a28-6pusefyf.cname.ebis.ne.jp |
 | test-ad.mens-lucia.com | bf14bf36-iksdytmu.cname.ebis.ne.jp |
 | ebis-tracking.tcb-recruit.com | bf6230ec-6pusefyf.cname.ebis.ne.jp |
+| adebis.mizunomori.com | bf9a6318-sfkvsvst.cname.ebis.ne.jp |
 | adebis.464981.com | c054b113-ztaqjkmm.cname.ebis.ne.jp |
 | tracking.mysurance.co.jp | c07c2fd1-ccb9p988.cname.ebis.ne.jp |
 | ebis.funaisoken.co.jp | c0ea9e75-yfrcguru.cname.ebis.ne.jp |
@@ -554,3 +561,4 @@
 | ebis.funai-finance.com | fc192e57-yfrcguru.cname.ebis.ne.jp |
 | adebis.lifestylemag.jp | fc83fd61-digitalgarage.cname.ebis.ne.jp |
 | axjfkc.kobayashi.co.jp | fe1d7165-mmpoiy89.cname.ebis.ne.jp |
+| ebis.touhan-navi.com | fff23fcf-xwlqprjb.cname.ebis.ne.jp |

@@ -117,6 +117,7 @@ attribution.tmlewin.com CNAME .
 attribution.tmlewinshirts.eu CNAME .
 attribution.wolverine.com CNAME .
 businessmetrics.syf.com CNAME .
+cm.oneidentity.com CNAME .
 cm.quest.com CNAME .
 cmp.dieteren.be CNAME .
 co-operative.activate.ensighten.com CNAME .

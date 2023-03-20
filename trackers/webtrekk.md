@@ -81,6 +81,7 @@
     * 371033713452477.wt-eu02.net
     * 378118469332445.wt-eu02.net
     * 390993738581837.wt-eu02.net
+    * 412666916963576.wt-eu02.net
     * 425587064188106.wt-eu02.net
     * 427813503923049.wt-eu02.net
     * 444170171787319.wt-eu02.net
@@ -273,6 +274,7 @@
 | web.emails.thetoyshop.com | 371033713452477.wt-eu02.net |
 | web.newsletter.koffer-to-go.de | 378118469332445.wt-eu02.net |
 | website-usage.b2bendix.com | 390993738581837.wt-eu02.net |
+| mff.messefrankfurt.com | 412666916963576.wt-eu02.net |
 | web.news.piquadro.com | 425587064188106.wt-eu02.net |
 | wbtrkk.teufelaudio.com | 427813503923049.wt-eu02.net |
 | mit.bhw.de | 444170171787319.wt-eu02.net |
@@ -444,6 +446,7 @@
 | da.hornbach.sk | hornbach-02.wt-eu02.net |
 | app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
 | img.foodspring.at | img-foodspring01.wt-eu02.net |
+| img.foodspring.ch | img-foodspring01.wt-eu02.net |
 | img.foodspring.cz | img-foodspring01.wt-eu02.net |
 | img.foodspring.de | img-foodspring01.wt-eu02.net |
 | img.foodspring.dk | img-foodspring01.wt-eu02.net |
@@ -480,6 +483,7 @@
 | wttd.madeleine.de | madeleineprod01.wt-eu02.net |
 | wttd.madeleine.fr | madeleineprod01.wt-eu02.net |
 | wttd.madeleine.gr | madeleineprod01.wt-eu02.net |
+| data.main-ding.de | mainpost01.wt-eu02.net |
 | data.mainpost.de | mainpost01.wt-eu02.net |
 | waaf.medion.com | medion01.wt-eu02.net |
 | waaf1.aldi-music.de | medion01.wt-eu02.net |

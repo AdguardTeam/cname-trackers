@@ -9,8 +9,10 @@ al.neuraleisfahan.com CNAME .
 an.pintaentrep.com CNAME .
 aq.ferisonledger.com CNAME .
 ar.tankasphose.com CNAME .
+au.bolloxcyclism.com CNAME .
 ax.mousmeetrike.com CNAME .
 ax.requotebatman.com CNAME .
+bg.unbarbpoured.com CNAME .
 bh.twifoilperoxyl.com CNAME .
 bj.preideanested.com CNAME .
 bk.clinkedsphecid.com CNAME .
@@ -147,6 +149,7 @@ xz.rapsseme.com CNAME .
 yc.flyblowfilippi.com CNAME .
 yh.coursgrimace.com CNAME .
 yk.dissentsangir.com CNAME .
+yp.tronkparsed.com CNAME .
 zd.plattedrattons.com CNAME .
 zi.kissbluest.com CNAME .
 zp.mactraklutzes.com CNAME .

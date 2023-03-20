@@ -73,6 +73,7 @@
 * geo.vgwort-de.2cnt.net
 * gratisspil.tns-dk.2cnt.net
 * halsa.tns-dk.2cnt.net
+* hanser.vgwort-de.2cnt.net
 * helpster.vgwort-de.2cnt.net
 * hogrefe.vgwort-de.2cnt.net
 * hsfo.tns-dk.2cnt.net
@@ -99,12 +100,12 @@
 * medwatch.tns-dk.2cnt.net
 * merkur.vgwort-de.2cnt.net
 * mineaviser.tns-dk.2cnt.net
+* minmave.tns-dk.2cnt.net
 * mopo.vgwort-de.2cnt.net
 * moreshop.tns-dk.2cnt.net
 * n-tv.vgwort-de.2cnt.net
 * natgeo.tns-dk.2cnt.net
 * newsb.tns-dk.2cnt.net
-* nomos.vgwort-de.2cnt.net
 * nordjyske.tns-dk.2cnt.net
 * pl01.prolitteris.2cnt.net
 * politiken.tns-dk.2cnt.net
@@ -157,7 +158,6 @@
 * ssl-drhbbstream.tns-dk.2cnt.net
 * ssl-drhbbtv.tns-dk.2cnt.net
 * ssl-driosstream.tns-dk.2cnt.net
-* ssl-drtv-appletv.tns-dk.2cnt.net
 * ssl-ebiam.tns-dk.2cnt.net
 * ssl-econa.vgwort-de.2cnt.net
 * ssl-edc.tns-dk.2cnt.net
@@ -291,7 +291,6 @@
 * waz.vgwort-de.2cnt.net
 * weeka-eavis.tns-dk.2cnt.net
 * weekendavisen.tns-dk.2cnt.net
-* welt.vgwort-de.2cnt.net
 * wiley.vgwort-de.2cnt.net
 * woman.tns-dk.2cnt.net
 * youseeiosstream.tns-dk.2cnt.net
@@ -361,6 +360,7 @@
 | geo.met.vgwort.de | geo.vgwort-de.2cnt.net |
 | gratisspil.tns-gallup.dk | gratisspil.tns-dk.2cnt.net |
 | halsa.tns-gallup.dk | halsa.tns-dk.2cnt.net |
+| hanser.met.vgwort.de | hanser.vgwort-de.2cnt.net |
 | helpster.met.vgwort.de | helpster.vgwort-de.2cnt.net |
 | hogrefe.met.vgwort.de | hogrefe.vgwort-de.2cnt.net |
 | hsfo.tns-gallup.dk | hsfo.tns-dk.2cnt.net |
@@ -387,12 +387,12 @@
 | medwatch.tns-gallup.dk | medwatch.tns-dk.2cnt.net |
 | merkur.met.vgwort.de | merkur.vgwort-de.2cnt.net |
 | mineaviser.tns-gallup.dk | mineaviser.tns-dk.2cnt.net |
+| minmave.tns-gallup.dk | minmave.tns-dk.2cnt.net |
 | mopo.met.vgwort.de | mopo.vgwort-de.2cnt.net |
 | moreshop.tns-gallup.dk | moreshop.tns-dk.2cnt.net |
 | n-tv.met.vgwort.de | n-tv.vgwort-de.2cnt.net |
 | natgeo.tns-gallup.dk | natgeo.tns-dk.2cnt.net |
 | newsb.tns-gallup.dk | newsb.tns-dk.2cnt.net |
-| nomos.met.vgwort.de | nomos.vgwort-de.2cnt.net |
 | nordjyske.tns-gallup.dk | nordjyske.tns-dk.2cnt.net |
 | pl01.owen.prolitteris.ch | pl01.prolitteris.2cnt.net |
 | pl02.owen.prolitteris.ch | pl02.prolitteris.2cnt.net |
@@ -490,6 +490,7 @@
 | brigitte.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | hanser.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
+| hanser.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | heise.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | helpster.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | hogrefe.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -497,7 +498,6 @@
 | manager.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | manager.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | mzweb.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
-| nomos.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | nomos.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | rp-online.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | spiegel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -606,7 +606,6 @@
 | ssl-drhbbstream.tns-gallup.dk | ssl-drhbbstream.tns-dk.2cnt.net |
 | ssl-drhbbtv.tns-gallup.dk | ssl-drhbbtv.tns-dk.2cnt.net |
 | ssl-driosstream.tns-gallup.dk | ssl-driosstream.tns-dk.2cnt.net |
-| ssl-drtv-appletv.tns-gallup.dk | ssl-drtv-appletv.tns-dk.2cnt.net |
 | ssl-ebiam.tns-gallup.dk | ssl-ebiam.tns-dk.2cnt.net |
 | ssl-econa.met.vgwort.de | ssl-econa.vgwort-de.2cnt.net |
 | ssl-edc.tns-gallup.dk | ssl-edc.tns-dk.2cnt.net |
@@ -737,7 +736,6 @@
 | waz.met.vgwort.de | waz.vgwort-de.2cnt.net |
 | weeka-eavis.tns-gallup.dk | weeka-eavis.tns-dk.2cnt.net |
 | weekendavisen.tns-gallup.dk | weekendavisen.tns-dk.2cnt.net |
-| welt.met.vgwort.de | welt.vgwort-de.2cnt.net |
 | wiley.met.vgwort.de | wiley.vgwort-de.2cnt.net |
 | woman.tns-gallup.dk | woman.tns-dk.2cnt.net |
 | youseeiosstream.tns-gallup.dk | youseeiosstream.tns-dk.2cnt.net |

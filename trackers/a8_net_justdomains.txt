@@ -77,6 +77,7 @@ a8.gigalee.com
 a8.global-mobility-service.com
 a8.gme.co.jp
 a8.golfland.co.jp
+a8.goodappeal.site
 a8.hakata-hisamatsu.net
 a8.haptic.co.jp
 a8.healthyolive.com
@@ -93,6 +94,7 @@ a8.hoken-connect.com
 a8.hokengarden.com
 a8.hokkaido-nb.jp
 a8.i-netservice.net
+a8.idiy.biz
 a8.iisakafuji.online
 a8.ippin-do.com
 a8.kajitaku.com
@@ -178,6 +180,7 @@ a8.smp.shanon.co.jp
 a8.soelu.com
 a8.sommelier.gift
 a8.ssl.aispr.jp
+a8.st.oddspark.com
 a8.starseries.biz
 a8.store.goo.ne.jp
 a8.strapya.com
@@ -215,6 +218,7 @@ a8.yuzen-official.com
 a8.zeroku.jp
 a802.xn--38jf6c4pa86a1dv833cexrb.com
 a8aspconv.itx-home-router.com
+a8aspconv.nn-com.co.jp
 a8aspconv.ns-air.net
 a8aspconv.ns-softbank-hikari.com
 a8aspconv.xn--biglobe-kc9k.com
@@ -243,6 +247,7 @@ a8clk.bikeman.jp
 a8clk.biken-mall.com
 a8clk.biomarche.jp
 a8clk.biz-communication.jp
+a8clk.bstyle.store
 a8clk.buy-master.com
 a8clk.camerakaitori.jp
 a8clk.campaigns.speed-kaitori.jp
@@ -257,6 +262,7 @@ a8clk.checkout.leafee.me
 a8clk.chuko-truck.com
 a8clk.cleaneo.jp
 a8clk.cocorotherapy.com
+a8clk.colone.cc
 a8clk.comeitto.com
 a8clk.cp.favorina.com
 a8clk.crefus.com
@@ -347,6 +353,7 @@ a8clk.minnadeooyasan.com
 a8clk.mirrorball-recurit.emanon-sharesalon.com
 a8clk.miselclinic.com
 a8clk.mobile-norikae.com
+a8clk.mop.duskin-hozumi.co.jp
 a8clk.mouse-jp.co.jp
 a8clk.muumuu-domain.com
 a8clk.mynavi-creator.jp
@@ -396,6 +403,7 @@ a8clk.siro.duskin-hozumi.co.jp
 a8clk.sixcore.ne.jp
 a8clk.skima.jp
 a8clk.skynet-c.jp
+a8clk.skyoffice.info
 a8clk.sma-ene.jp
 a8clk.smile-zemi.jp
 a8clk.solideajapan.com
@@ -470,6 +478,7 @@ a8cv.ans-ec.shop
 a8cv.aquasilver.co.jp
 a8cv.araiba.net
 a8cv.atami-box.com
+a8cv.atgp.jp
 a8cv.b-concept.tokyo
 a8cv.baiden-king.com
 a8cv.bb-internet-qsyu.net
@@ -522,6 +531,7 @@ a8cv.dreamchance.net
 a8cv.dsc-nightstore.com
 a8cv.dshu.jp
 a8cv.e-d-v-j.co.jp
+a8cv.e-earphone.jp
 a8cv.e-stretch-diet.com
 a8cv.eakindo.com
 a8cv.encounter2017.jp
@@ -546,6 +556,7 @@ a8cv.gakuen.omobic.com
 a8cv.gb-chat.com
 a8cv.genesis-nipt.com
 a8cv.gimuiko.com
+a8cv.global-link-seminar.com
 a8cv.goodlucknail.com
 a8cv.grace-grace.info
 a8cv.grassbeaute.jp
@@ -581,6 +592,7 @@ a8cv.jp-shop.kiwabi.com
 a8cv.k-ikiiki.jp
 a8cv.kagoya.jp
 a8cv.kaimonoform.com
+a8cv.kaitori-okoku.jp
 a8cv.kaitorisatei.info
 a8cv.kajier.jp
 a8cv.king-makura.com
@@ -592,6 +604,7 @@ a8cv.kyotokimono-rental.com
 a8cv.lalavie.jp
 a8cv.lear-caree.com
 a8cv.leasonable.com
+a8cv.leoandlea.com
 a8cv.lp.nalevi.mynavi.jp
 a8cv.lyprinol.jp
 a8cv.madoguchi.com
@@ -599,6 +612,7 @@ a8cv.magniflexk.com
 a8cv.mansiontech.com
 a8cv.mashumaro-bra.com
 a8cv.mcc-lazer-hr.com
+a8cv.meetsmore.com
 a8cv.members.race.sanspo.com
 a8cv.menina-joue.jp
 a8cv.mens-life-clinic.com
@@ -641,6 +655,7 @@ a8cv.picksitter.com
 a8cv.pilates-k.jp
 a8cv.player.iam-ist.jp
 a8cv.pocket-sommelier.com
+a8cv.premium.aidemy.net
 a8cv.presence.jp
 a8cv.pro.omobic.com
 a8cv.quattrocart.com
@@ -658,6 +673,7 @@ a8cv.saraschool.net
 a8cv.se-navi.jp
 a8cv.secure.sakura.ad.jp
 a8cv.select-type.com
+a8cv.selkalabo.com
 a8cv.setagayarecords.co
 a8cv.sharing-tech.jp
 a8cv.shimomoto-cl.co.jp
@@ -665,6 +681,7 @@ a8cv.shokunosoyokaze.com
 a8cv.shop.matsuo1956.jp
 a8cv.shop.solve-grp.com
 a8cv.signalift.com
+a8cv.sl-creations.store
 a8cv.snkrdunk.com
 a8cv.soundfun.co.jp
 a8cv.stg.moneybank.co.jp
@@ -685,6 +702,7 @@ a8cv.tfansite.jp
 a8cv.tokei-syuri.jp
 a8cv.toko-navi.com
 a8cv.tokyogas.bocco.me
+a8cv.toybox-mnr.com
 a8cv.udition.jp
 a8cv.unias.jp
 a8cv.untenmenkyo-yi.com
@@ -698,6 +716,7 @@ a8cv.www.iropuri.com
 a8cv.www.pascaljp.com
 a8cv.y-osohshiki.com
 a8cv.ya-man.com
+a8cv.yakuzaishi.yakumatch.com
 a8cv.yamasa-suppon.com
 a8cv.ygm-clinic.or.jp
 a8cv.yobybo-japan.com
@@ -710,6 +729,7 @@ a8cv.zerorenovation.com
 a8cv2.hoken-choice.com
 a8cv2.vapelog.jp
 a8cventry.uqwimax.jp
+a8cvtrack.tokai.jp
 a8dev.hikarinet-s.com
 a8itp.bitoka-japan.com
 a8lp-tebiki.e-sogi.com
@@ -748,13 +768,16 @@ acv.mc-nurse.net
 acv.next-air-wifi.com
 acv.xn--dckf5a1e821s9i7b.com
 ad.ichiban-boshi.com
+ad.ichiru.net
 ad.jibunde-esute.com
 ad.kirara-support.jp
+ad.magokoro-care-shoku.com
 ad.rejichoice.jp
 ada8.ampleur.jp
 af.shozankan-shop.com
 afcv.champ-shop.com
 affi.best-hoiku.com
+afficv.lettuce.co.jp
 affiliate.couleur-labo.com
 affiliate.htb-energy.co.jp
 affiliate.k-uno.co.jp
@@ -812,6 +835,7 @@ cv.zephylrin-x.net
 cv1.start-eo.jp
 cv1.stefany.co.jp
 cvtk01.gmo-agree.com
+ems-a8net-tracking.easy-myshop.jp
 itp.yaku-job.com
 kaden.netoff.co.jp
 kcecv.doctork.jp
@@ -823,6 +847,7 @@ shop.anu-cosme.com
 smn.dankore.jp
 sokutei.car2828.jp
 st-a8.tscubic.com
+storea8tracking.alc.co.jp
 sub.booksdream-mypage.com
 summary.bookoffonline.co.jp
 track.craudia.com
@@ -832,4 +857,6 @@ trck.aeon.co.jp
 trck.atnenga.com
 trck.kenkiya.com
 trck.rework-s.com
+trcka8.ryugaku.merise.asia
+trcka8net.irobot-jp.com
 web.nuro-life.com

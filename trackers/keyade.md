@@ -18,6 +18,7 @@
 | k.brandalley.be | k.keyade.com |
 | k.brandalley.co.nl | k.keyade.com |
 | k.brandalley.es | k.keyade.com |
+| k.brandalley.fr | k.keyade.com |
 | k.cocooncenter.be | k.keyade.com |
 | k.cocooncenter.co.uk | k.keyade.com |
 | k.cocooncenter.com | k.keyade.com |

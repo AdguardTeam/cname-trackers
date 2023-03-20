@@ -83,6 +83,7 @@
 | a8.global-mobility-service.com | trck.a8.net |
 | a8.gme.co.jp | trck.a8.net |
 | a8.golfland.co.jp | trck.a8.net |
+| a8.goodappeal.site | trck.a8.net |
 | a8.hakata-hisamatsu.net | trck.a8.net |
 | a8.haptic.co.jp | trck.a8.net |
 | a8.healthyolive.com | trck.a8.net |
@@ -99,6 +100,7 @@
 | a8.hokengarden.com | trck.a8.net |
 | a8.hokkaido-nb.jp | trck.a8.net |
 | a8.i-netservice.net | trck.a8.net |
+| a8.idiy.biz | trck.a8.net |
 | a8.iisakafuji.online | trck.a8.net |
 | a8.ippin-do.com | trck.a8.net |
 | a8.kajitaku.com | trck.a8.net |
@@ -184,6 +186,7 @@
 | a8.soelu.com | trck.a8.net |
 | a8.sommelier.gift | trck.a8.net |
 | a8.ssl.aispr.jp | trck.a8.net |
+| a8.st.oddspark.com | trck.a8.net |
 | a8.starseries.biz | trck.a8.net |
 | a8.store.goo.ne.jp | trck.a8.net |
 | a8.strapya.com | trck.a8.net |
@@ -221,6 +224,7 @@
 | a8.zeroku.jp | trck.a8.net |
 | a802.xn--38jf6c4pa86a1dv833cexrb.com | trck.a8.net |
 | a8aspconv.itx-home-router.com | trck.a8.net |
+| a8aspconv.nn-com.co.jp | trck.a8.net |
 | a8aspconv.ns-air.net | trck.a8.net |
 | a8aspconv.ns-softbank-hikari.com | trck.a8.net |
 | a8aspconv.xn--biglobe-kc9k.com | trck.a8.net |
@@ -249,6 +253,7 @@
 | a8clk.biken-mall.com | trck.a8.net |
 | a8clk.biomarche.jp | trck.a8.net |
 | a8clk.biz-communication.jp | trck.a8.net |
+| a8clk.bstyle.store | trck.a8.net |
 | a8clk.buy-master.com | trck.a8.net |
 | a8clk.camerakaitori.jp | trck.a8.net |
 | a8clk.campaigns.speed-kaitori.jp | trck.a8.net |
@@ -263,6 +268,7 @@
 | a8clk.chuko-truck.com | trck.a8.net |
 | a8clk.cleaneo.jp | trck.a8.net |
 | a8clk.cocorotherapy.com | trck.a8.net |
+| a8clk.colone.cc | trck.a8.net |
 | a8clk.comeitto.com | trck.a8.net |
 | a8clk.cp.favorina.com | trck.a8.net |
 | a8clk.crefus.com | trck.a8.net |
@@ -353,6 +359,7 @@
 | a8clk.mirrorball-recurit.emanon-sharesalon.com | trck.a8.net |
 | a8clk.miselclinic.com | trck.a8.net |
 | a8clk.mobile-norikae.com | trck.a8.net |
+| a8clk.mop.duskin-hozumi.co.jp | trck.a8.net |
 | a8clk.mouse-jp.co.jp | trck.a8.net |
 | a8clk.muumuu-domain.com | trck.a8.net |
 | a8clk.mynavi-creator.jp | trck.a8.net |
@@ -402,6 +409,7 @@
 | a8clk.sixcore.ne.jp | trck.a8.net |
 | a8clk.skima.jp | trck.a8.net |
 | a8clk.skynet-c.jp | trck.a8.net |
+| a8clk.skyoffice.info | trck.a8.net |
 | a8clk.sma-ene.jp | trck.a8.net |
 | a8clk.smile-zemi.jp | trck.a8.net |
 | a8clk.solideajapan.com | trck.a8.net |
@@ -476,6 +484,7 @@
 | a8cv.aquasilver.co.jp | trck.a8.net |
 | a8cv.araiba.net | trck.a8.net |
 | a8cv.atami-box.com | trck.a8.net |
+| a8cv.atgp.jp | trck.a8.net |
 | a8cv.b-concept.tokyo | trck.a8.net |
 | a8cv.baiden-king.com | trck.a8.net |
 | a8cv.bb-internet-qsyu.net | trck.a8.net |
@@ -528,6 +537,7 @@
 | a8cv.dsc-nightstore.com | trck.a8.net |
 | a8cv.dshu.jp | trck.a8.net |
 | a8cv.e-d-v-j.co.jp | trck.a8.net |
+| a8cv.e-earphone.jp | trck.a8.net |
 | a8cv.e-stretch-diet.com | trck.a8.net |
 | a8cv.eakindo.com | trck.a8.net |
 | a8cv.encounter2017.jp | trck.a8.net |
@@ -552,6 +562,7 @@
 | a8cv.gb-chat.com | trck.a8.net |
 | a8cv.genesis-nipt.com | trck.a8.net |
 | a8cv.gimuiko.com | trck.a8.net |
+| a8cv.global-link-seminar.com | trck.a8.net |
 | a8cv.goodlucknail.com | trck.a8.net |
 | a8cv.grace-grace.info | trck.a8.net |
 | a8cv.grassbeaute.jp | trck.a8.net |
@@ -587,6 +598,7 @@
 | a8cv.k-ikiiki.jp | trck.a8.net |
 | a8cv.kagoya.jp | trck.a8.net |
 | a8cv.kaimonoform.com | trck.a8.net |
+| a8cv.kaitori-okoku.jp | trck.a8.net |
 | a8cv.kaitorisatei.info | trck.a8.net |
 | a8cv.kajier.jp | trck.a8.net |
 | a8cv.king-makura.com | trck.a8.net |
@@ -598,6 +610,7 @@
 | a8cv.lalavie.jp | trck.a8.net |
 | a8cv.lear-caree.com | trck.a8.net |
 | a8cv.leasonable.com | trck.a8.net |
+| a8cv.leoandlea.com | trck.a8.net |
 | a8cv.lp.nalevi.mynavi.jp | trck.a8.net |
 | a8cv.lyprinol.jp | trck.a8.net |
 | a8cv.madoguchi.com | trck.a8.net |
@@ -605,6 +618,7 @@
 | a8cv.mansiontech.com | trck.a8.net |
 | a8cv.mashumaro-bra.com | trck.a8.net |
 | a8cv.mcc-lazer-hr.com | trck.a8.net |
+| a8cv.meetsmore.com | trck.a8.net |
 | a8cv.members.race.sanspo.com | trck.a8.net |
 | a8cv.menina-joue.jp | trck.a8.net |
 | a8cv.mens-life-clinic.com | trck.a8.net |
@@ -647,6 +661,7 @@
 | a8cv.pilates-k.jp | trck.a8.net |
 | a8cv.player.iam-ist.jp | trck.a8.net |
 | a8cv.pocket-sommelier.com | trck.a8.net |
+| a8cv.premium.aidemy.net | trck.a8.net |
 | a8cv.presence.jp | trck.a8.net |
 | a8cv.pro.omobic.com | trck.a8.net |
 | a8cv.quattrocart.com | trck.a8.net |
@@ -664,6 +679,7 @@
 | a8cv.se-navi.jp | trck.a8.net |
 | a8cv.secure.sakura.ad.jp | trck.a8.net |
 | a8cv.select-type.com | trck.a8.net |
+| a8cv.selkalabo.com | trck.a8.net |
 | a8cv.setagayarecords.co | trck.a8.net |
 | a8cv.sharing-tech.jp | trck.a8.net |
 | a8cv.shimomoto-cl.co.jp | trck.a8.net |
@@ -671,6 +687,7 @@
 | a8cv.shop.matsuo1956.jp | trck.a8.net |
 | a8cv.shop.solve-grp.com | trck.a8.net |
 | a8cv.signalift.com | trck.a8.net |
+| a8cv.sl-creations.store | trck.a8.net |
 | a8cv.snkrdunk.com | trck.a8.net |
 | a8cv.soundfun.co.jp | trck.a8.net |
 | a8cv.stg.moneybank.co.jp | trck.a8.net |
@@ -691,6 +708,7 @@
 | a8cv.tokei-syuri.jp | trck.a8.net |
 | a8cv.toko-navi.com | trck.a8.net |
 | a8cv.tokyogas.bocco.me | trck.a8.net |
+| a8cv.toybox-mnr.com | trck.a8.net |
 | a8cv.udition.jp | trck.a8.net |
 | a8cv.unias.jp | trck.a8.net |
 | a8cv.untenmenkyo-yi.com | trck.a8.net |
@@ -704,6 +722,7 @@
 | a8cv.www.pascaljp.com | trck.a8.net |
 | a8cv.y-osohshiki.com | trck.a8.net |
 | a8cv.ya-man.com | trck.a8.net |
+| a8cv.yakuzaishi.yakumatch.com | trck.a8.net |
 | a8cv.yamasa-suppon.com | trck.a8.net |
 | a8cv.ygm-clinic.or.jp | trck.a8.net |
 | a8cv.yobybo-japan.com | trck.a8.net |
@@ -716,6 +735,7 @@
 | a8cv2.hoken-choice.com | trck.a8.net |
 | a8cv2.vapelog.jp | trck.a8.net |
 | a8cventry.uqwimax.jp | trck.a8.net |
+| a8cvtrack.tokai.jp | trck.a8.net |
 | a8dev.hikarinet-s.com | trck.a8.net |
 | a8itp.bitoka-japan.com | trck.a8.net |
 | a8lp-tebiki.e-sogi.com | trck.a8.net |
@@ -754,13 +774,16 @@
 | acv.next-air-wifi.com | trck.a8.net |
 | acv.xn--dckf5a1e821s9i7b.com | trck.a8.net |
 | ad.ichiban-boshi.com | trck.a8.net |
+| ad.ichiru.net | trck.a8.net |
 | ad.jibunde-esute.com | trck.a8.net |
 | ad.kirara-support.jp | trck.a8.net |
+| ad.magokoro-care-shoku.com | trck.a8.net |
 | ad.rejichoice.jp | trck.a8.net |
 | ada8.ampleur.jp | trck.a8.net |
 | af.shozankan-shop.com | trck.a8.net |
 | afcv.champ-shop.com | trck.a8.net |
 | affi.best-hoiku.com | trck.a8.net |
+| afficv.lettuce.co.jp | trck.a8.net |
 | affiliate.couleur-labo.com | trck.a8.net |
 | affiliate.htb-energy.co.jp | trck.a8.net |
 | affiliate.k-uno.co.jp | trck.a8.net |
@@ -818,6 +841,7 @@
 | cv1.start-eo.jp | trck.a8.net |
 | cv1.stefany.co.jp | trck.a8.net |
 | cvtk01.gmo-agree.com | trck.a8.net |
+| ems-a8net-tracking.easy-myshop.jp | trck.a8.net |
 | itp.yaku-job.com | trck.a8.net |
 | kaden.netoff.co.jp | trck.a8.net |
 | kcecv.doctork.jp | trck.a8.net |
@@ -829,6 +853,7 @@
 | smn.dankore.jp | trck.a8.net |
 | sokutei.car2828.jp | trck.a8.net |
 | st-a8.tscubic.com | trck.a8.net |
+| storea8tracking.alc.co.jp | trck.a8.net |
 | sub.booksdream-mypage.com | trck.a8.net |
 | summary.bookoffonline.co.jp | trck.a8.net |
 | track.craudia.com | trck.a8.net |
@@ -838,4 +863,6 @@
 | trck.atnenga.com | trck.a8.net |
 | trck.kenkiya.com | trck.a8.net |
 | trck.rework-s.com | trck.a8.net |
+| trcka8.ryugaku.merise.asia | trck.a8.net |
+| trcka8net.irobot-jp.com | trck.a8.net |
 | web.nuro-life.com | trck.a8.net |

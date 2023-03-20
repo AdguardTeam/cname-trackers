@@ -21,6 +21,7 @@
 | www.bfc-mp.caisse-epargne.fr | form.bp01.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
 | epm.mailperformance.com | tracking.bp01.net |
+| mp.pitchero.com | tracking.bp01.net |
 | newsletter.ticketac.com | tracking.bp01.net |
 | shortener.np6.com | tracking.bp01.net |
 | sms.gestion.cetelem.fr | tracking.bp01.net |
@@ -85,6 +86,7 @@
 | tr.asp206k.espmp-agfr.net | tracking.bp01.net |
 | tr.asp2075.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2076.espmp-pofr.net | tracking.bp01.net |
+| tr.asp2078.espmp-nifr.net | tracking.bp01.net |
 | tr.asp207e.espmp-nifr.net | tracking.bp01.net |
 | tr.avisecheance.maaf.fr | tracking.bp01.net |
 | tr.axa.espmp-aufr.net | tracking.bp01.net |
@@ -175,6 +177,7 @@
 | tr.companeo-news.co.uk | tracking.bp01.net |
 | tr.compte.fca-capital-france.fr | tracking.bp01.net |
 | tr.comunicacao.younited-credit.com | tracking.bp01.net |
+| tr.comunicazione.younited-credit.com | tracking.bp01.net |
 | tr.contact.astuceco.fr | tracking.bp01.net |
 | tr.contact.canalplay.com | tracking.bp01.net |
 | tr.contact.canalplus.fr | tracking.bp01.net |
@@ -360,6 +363,7 @@
 | tr.info.cartesaffaires.bnpparibas | tracking.bp01.net |
 | tr.info.casino-proximites.fr | tracking.bp01.net |
 | tr.info.certypro.fr | tracking.bp01.net |
+| tr.info.cnch.fr | tracking.bp01.net |
 | tr.info.comparadordeprestamos.es | tracking.bp01.net |
 | tr.info.conexancemd.com | tracking.bp01.net |
 | tr.info.covid-resistance-bretagne.fr | tracking.bp01.net |
@@ -507,6 +511,7 @@
 | tr.moja-wycena.pl | tracking.bp01.net |
 | tr.mondevis-b2b.com | tracking.bp01.net |
 | tr.mondevis-pro.com | tracking.bp01.net |
+| tr.moving.fr | tracking.bp01.net |
 | tr.mp.aconclue-business.fr | tracking.bp01.net |
 | tr.mp.aconclue-entreprise.fr | tracking.bp01.net |
 | tr.mp.aconclue-pro.com | tracking.bp01.net |
@@ -763,6 +768,7 @@
 | tr.promotion.lexpress.fr | tracking.bp01.net |
 | tr.prosfores-companeo.gr | tracking.bp01.net |
 | tr.prosfores-etairias.gr | tracking.bp01.net |
+| tr.ps.espmp-agfr.net | tracking.bp01.net |
 | tr.psaparts.com | tracking.bp01.net |
 | tr.publicisdrugstore.espmp-agfr.net | tracking.bp01.net |
 | tr.qualitaetsumfrage.com | tracking.bp01.net |
