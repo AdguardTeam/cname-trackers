@@ -8,6 +8,7 @@ al.ballon.jp CNAME .
 al.caetus.jp CNAME .
 al.californiastreet.net CNAME .
 al.directishii.net CNAME .
+al.epoi-jp.com CNAME .
 al.fulcloset.jp CNAME .
 al.ganzo.ne.jp CNAME .
 al.germanpet.com CNAME .

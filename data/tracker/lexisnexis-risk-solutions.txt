@@ -190,6 +190,7 @@
 ||content.egyptair.com^
 ||content.espace-client.hellobank.fr^
 ||content.etransfer.interac.ca^
+||content.evisa.mofa.go.jp^
 ||content.ezaem.ru^
 ||content.ezbills.com^
 ||content.familyprepaiddebit.com^
@@ -266,7 +267,6 @@
 ||content.telusinternational.ai^
 ||content.usps.com^
 ||content.varetire.org^
-||content.washingtonnational.com^
 ||content.westcreekfin.com^
 ||content.wizink.es^
 ||content1.reprisefinancial.com^
@@ -399,6 +399,7 @@
 ||id.latitudefinancial.com^
 ||idhtm.bb.com.br^
 ||idstatus.sky.com^
+||idstatus.sky.it^
 ||ifp.intuit.com^
 ||im2.prod.amount.com^
 ||image.online.adp.com^
@@ -441,6 +442,7 @@
 ||imgs.signifyd.com^
 ||info.betway.bg^
 ||info.betway.co.za^
+||info.betway.co.zm^
 ||info.betway.fr^
 ||intlsdpntrca.nitrocasino.ca^
 ||intm.amwager.com^
@@ -477,9 +479,9 @@
 ||membership-device.secured-igaming-services.com^
 ||metrics.myfrs.com^
 ||metrix.us.ovhcloud.com^
+||mfp.intuit.com^
 ||mnt.sbisec.co.jp^
 ||mobile-content-f.autozone.com^
-||mobile-content.pumb.ua^
 ||mobile-tmx.ssisurveys.com^
 ||mobile.du.ae^
 ||mobilecontent.networks.prod.p0.phx-infra.com^
@@ -656,6 +658,7 @@
 ||t.onlinebanking.american1cu.org^
 ||t.onlinebanking.consumerscu.org^
 ||t.onlinebanking.firstmarkcu.org^
+||t.onlinebanking.sesloc.org^
 ||t.safe.bcu.org^
 ||t.secure.ascend.org^
 ||t.secure.selco.org^

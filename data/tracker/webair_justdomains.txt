@@ -14,9 +14,9 @@ adserver.additionalmedia.com
 adserver.catapultx.com
 advertise.admetix.com
 ak-tracker.com
+akcdn.nativeadsfeed.com
 akxml.nativeadsfeed.com
 app.torchad.com
-apple-val.looksmart.com
 beta.ad-maven.com
 beta.adkernel.com
 c.cgmission.com
@@ -32,6 +32,7 @@ click-eu.plarimoplus.com
 click-rtb2-apac.newchallenges-dsp.com
 click-rtb2-apac.onenativeads.com
 click-rtb2-apac.t3dsp.com
+click-rtb2-apac.xaprio.net
 click-rtb2-eu.convergeselect.net
 click-rtb2-eu.e-volution.ai
 click-rtb2-eu.waardex.com
@@ -76,6 +77,7 @@ clk.marketjar.net
 clk.pdn-eu.com
 clkv4-eu.extyoneplus-3.com
 clkv4.extyoneplus-3.com
+clkv4.extyoneplus-4.com
 console.flairads.com
 cpm.adbite.com
 cpm.adjux.com
@@ -96,12 +98,14 @@ cpm.ezmob.com
 cpm.fastmtn.com
 cpm.fmlabsonline.com
 cpm.foremedia.net
+cpm.fw.tv
 cpm.mediahubserver.com
 cpm.mobipromote.com
 cpm.pubgenius.io
 cpm.pulsefintech.net
 cpm.pwr-ads.com
 cpm.qksrv.cc
+cpm.reachableads.com
 cpm.revlift.io
 cpm.rtbanalytica.com
 cpm.rtbidhost.com
@@ -136,6 +140,7 @@ dsp.adcountymedia.com
 dsp.adhunter.media
 dsp.anytheengmedia.com
 dsp.catapultx.com
+dsp.e-volution.ai
 dsp.foremedia.net
 dsp.nativeads.com
 dsp.pushub.net
@@ -145,7 +150,9 @@ exchange.adkernel.com
 exchange.nativeads.com
 feed.clickmenia.com
 feed.seodollars.com
+filter-eu.adoperatorx.com
 filter-eu.adright.co
+filter-eu.bid-engine.com
 filter-eu.bidmyadz.com
 filter-eu.chameleostudios.com
 filter-eu.expialidosius.com
@@ -240,8 +247,10 @@ filter.leoback.com
 filter.leoyard.com
 filter.looksmartppc.com
 filter.mediacpc.com
+filter.mediashakers.com
 filter.mediastinct.com
 filter.mediaxchange.co
+filter.mobagent.com
 filter.mobifly.net
 filter.mobipromote.com
 filter.mobuppsrtb.com
@@ -318,6 +327,7 @@ live.pushub.net
 login.152media.com
 login.acertb.com
 login.additionalmedia.com
+login.adjux.com
 login.admanmedia.com
 login.admozartppc.com
 login.adright.com
@@ -362,6 +372,7 @@ partner.80xmedia.com
 ph-query-1.looksmart.com
 platform.adright.com
 platform.artilleryads.com
+platform.kraigcontent.com
 platform.showcasead.com
 platform.trafficmoose.com
 push.admidainsight.com
@@ -380,6 +391,7 @@ push.revrtb.com
 push.rocoads.com
 push.trafficmoose.com
 push.userwave.com
+push.webmedxml.com
 pushpop.nativeads.com
 redir.flowwiththetide.xyz
 redir.hightid.xyz
@@ -420,6 +432,7 @@ rtb-eu.adxfactory.com
 rtb-eu.adzgame.com
 rtb-eu.andbeyond.media
 rtb-eu.bidmyqps.xyz
+rtb-eu.blueparrot.media
 rtb-eu.convergeselect.net
 rtb-eu.creativedot.net
 rtb-eu.displayio.cloud
@@ -432,6 +445,7 @@ rtb-eu.houseofpubs.com
 rtb-eu.hueadsortb.com
 rtb-eu.infinity-info.com
 rtb-eu.media-servers.net
+rtb-eu.mobipromote.com
 rtb-eu.mobuppsrtb.com
 rtb-eu.nativeads.com
 rtb-eu.openrtb.in
@@ -491,6 +505,7 @@ rtb-useast.eximdigital.com
 rtb-useast.ezmob.com
 rtb-useast.felixads.com
 rtb-useast.fmlabsonline.com
+rtb-useast.foremedia.net
 rtb-useast.gorillapush.com
 rtb-useast.griffindigitalmedia.com
 rtb-useast.houseofpubs.com
@@ -509,6 +524,7 @@ rtb-useast.motionspots.com
 rtb-useast.mybiddertop.xyz
 rtb-useast.nativeadshb.com
 rtb-useast.openrtb.in
+rtb-useast.pareto21.com
 rtb-useast.pressize.com
 rtb-useast.pwr-ads.com
 rtb-useast.rankortbdirect.com
@@ -543,6 +559,7 @@ rtb-uswest.boffoadsapi.com
 rtb-uswest.catapultx.com
 rtb-uswest.clixforads.com
 rtb-uswest.creativedot.net
+rtb-uswest.denakop.com
 rtb-uswest.displayio.cloud
 rtb-uswest.kremsondigital.com
 rtb-uswest.nativeadshb.com
@@ -554,6 +571,7 @@ rtb-uswest.rtbplatform.net
 rtb-uswest.rtbserve.io
 rtb-uswest.showcasead.com
 rtb.adjux.com
+rtb.adventurefeeds.com
 rtb.bliss91.com
 rtb.clixportal.com
 rtb.clixwells.com
@@ -617,36 +635,46 @@ search.vokut.com
 selfservice.adoptim.com
 serv.bvsrv.com
 serve.datacygnal.io
+static-analytics.nativeads.com
 static-rtb.adksrv.com
 static-rtb2.afkwa.com
 static-rtb2.catapultx.com
 static-rtb2.demandzoo.com
 static-rtb2.e-volution.ai
+static-rtb2.marketiq.com
 static-rtb2.newchallenges-dsp.com
 static-rtb2.xaprio.net
+static.ad-maven.com
 static.adbite.com
-static.additionaldisplay.com
+static.adcannyxml.com
 static.adflydsp.com
 static.admeridianads.com
 static.admidainsight.com
+static.adop.co
+static.adoptim.com
 static.adright.co
-static.adsolut.in
 static.adwooo.com
+static.analytics.nativeads.com
 static.app-shake.com
 static.bid-engine.com
-static.denakop.com
+static.catapultx.com
+static.creativedot.net
+static.directrankcl.com
 static.displayio.cloud
+static.eureekkaa.com
 static.ezmob.com
+static.fastdlr.com
 static.foremedia.net
-static.houseofpubs.com
-static.hueadsxml.com
+static.fstsrv1.com
+static.goodgamer.gg
+static.hetcash.com
+static.jadspro.live
 static.openrtb.in
 static.outpush.net
 static.pdn-1.com
 static.pressize.com
 static.pulsefintech.net
 static.pushub.net
-static.pwr-ads.com
 static.qksrv.biz
 static.qksrv.cc
 static.qksrv1.com
@@ -654,16 +682,22 @@ static.realtime-bid.com
 static.rocoads.com
 static.rtbserve.io
 static.rtbwire.com
+static.saturndynamic.pt
+static.showcasead.com
 static.theardent.group
+static.topdealad.com
+static.topsolutionsmedia.com
 static.webmedxml.com
 sub.adzgame.com
 sv-pval.looksmart.com
+sv-query.looksmart.com
 sync.adkernel.com
 tag.adkernel.com
 tag.musiciansaudience.com
 tq-eu.craftviking-2.co
 tq-eu.craftviking.co
 tq-eu.frdjs-1.co
+tq-eu.frdjs-2.co
 tq-eu.gipostart-1.co
 tq-eu.netload1.com
 tq-eu.xonedart-1.live
@@ -726,6 +760,7 @@ win-rtb2-uswest.webtradingspot.com
 www.ads.mediastinct.com
 www.bliss91.com
 www.displaystorm.com
+www.looksmartppc.com
 www.online-adnetwork.com
 www.popxml.com
 www.vashoot.com
@@ -740,6 +775,7 @@ xml-eu-v4.craftviking-2.co
 xml-eu-v4.craftviking.co
 xml-eu-v4.ezmob.com
 xml-eu-v4.frdjs-1.co
+xml-eu-v4.frdjs-2.co
 xml-eu-v4.gipostart-1.co
 xml-eu-v4.gipostart-2.co
 xml-eu-v4.netload1.com
@@ -763,6 +799,7 @@ xml-eu.admidainsight.com
 xml-eu.admozartxml.com
 xml-eu.adokutcontextual.com
 xml-eu.adoperatorx.com
+xml-eu.adright.co
 xml-eu.adxfactory.com
 xml-eu.adzestocp.com
 xml-eu.bid-engine.com
@@ -820,6 +857,8 @@ xml-v4.domains-traffic.com
 xml-v4.ezmob.com
 xml-v4.fmlabsonline.com
 xml-v4.frdjs-1.co
+xml-v4.frdjs-2.co
+xml-v4.fstsrv1.com
 xml-v4.gipostart-1.co
 xml-v4.gipostart-2.co
 xml-v4.hetcash.com
@@ -867,6 +906,7 @@ xml.adjux.com
 xml.adkmbc.com
 xml.adkrivmedia.com
 xml.admeridianads.com
+xml.admetix.com
 xml.admidainsight.com
 xml.admozartppc.com
 xml.admozartxml.com
@@ -934,17 +974,21 @@ xml.fastdlr.com
 xml.fastdlx.info
 xml.fastdlx.net
 xml.fastmtn.com
+xml.finevisit.com
 xml.flairads.com
 xml.flairadscpc.com
 xml.flurryad.com
 xml.flyerblaze.com
 xml.foremedia.net
 xml.frdjs-1.co
+xml.frdjs-2.co
+xml.fstsrv1.com
 xml.gipostart-2.co
 xml.gorillapush.com
 xml.groovyadz.com
 xml.hangfly.net
 xml.hetcash.com
+xml.hotmaracas.com
 xml.hueadsxml.com
 xml.infinity-info.com
 xml.junplatdirect.com
@@ -962,6 +1006,7 @@ xml.mobipromote.com
 xml.mobuppsrtb.com
 xml.mymedia.club
 xml.nativexml.com
+xml.newbluetrue.xyz
 xml.pdn-1.com
 xml.pdn-2.com
 xml.plarimoplus.com
@@ -976,6 +1021,8 @@ xml.push-sense.com
 xml.pushmobo.com
 xml.pushub.net
 xml.pwr-ads.com
+xml.pxfindone.com
+xml.pxfindtwo.com
 xml.q32167.com
 xml.qksrv.biz
 xml.qksrv.cc
@@ -1038,15 +1085,26 @@ xmlv4.chameleostudios.com
 xmlv4.mobuppsrtb.com
 xmlv4.reklama.network
 #
-# b8m5j6a5.stackpathcdn.com disguised trackers
+# sv-pval.looksmart.com disguised trackers
 #
-akcdn.nativeadsfeed.com
-static-analytics.nativeads.com
-static.analytics.nativeads.com
+apple-val.looksmart.com
+#
+# j4r2u9z7.stackpathcdn.com disguised trackers
+#
+data.bvsrv.com
+#
+# val.looksmart.com disguised trackers
+#
+dbs-val.looksmart.com
 #
 # s7n9n2u9.stackpathcdn.com disguised trackers
 #
 dsp-static.nativeads.com
+#
+# b8m5j6a5.stackpathcdn.com disguised trackers
+#
+static-analytics.nativeads.com
+static.analytics.nativeads.com
 #
 # u7v5x3m3.stackpathcdn.com disguised trackers
 #
@@ -1332,6 +1390,10 @@ static.online-adnetwork.com
 #
 static.openrtb.in
 vid-static.xapads.com
+#
+# y5s4r3r4.stackpathcdn.com disguised trackers
+#
+static.outpush.net
 #
 # e8a3x2f9.stackpathcdn.com disguised trackers
 #

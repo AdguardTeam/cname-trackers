@@ -26,12 +26,14 @@ refer.app.com
 refer.backcountry.com
 refer.barenecessities.com
 refer.basictalk.com
+refer.betterbraces.com
 refer.bookbyte.com
 refer.bostonglobe.com
 refer.bowflex.com
 refer.calstate.aaa.com
 refer.carbonite.com
 refer.checkngo.com
+refer.clarionledger.com
 refer.clearme.com
 refer.compexusa.com
 refer.criquetshirts.com
@@ -50,6 +52,7 @@ refer.greenvilleonline.com
 refer.hannaandersson.com
 refer.harimari.com
 refer.healthypawspetinsurance.com
+refer.icracked.com
 refer.integrativenutrition.com
 refer.jacksonsun.com
 refer.johnson.ca
@@ -412,6 +415,7 @@ share.docmorris.fr
 share.dslaboratories.com
 share.dunlopsports.com
 share.dutch.com
+share.elpasotimes.com
 share.enterprisenews.com
 share.esteelauder.com.au
 share.esteelauder.com.tw
@@ -509,6 +513,7 @@ share.sundaysfordogs.com
 share.tallahassee.com
 share.tcpalm.com
 share.teachersfcu.org
+share.thenorthwestern.com
 share.theory.com
 share.theoryoutlet.com
 share.theprisonerwinecompany.com

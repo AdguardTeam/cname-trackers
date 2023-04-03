@@ -28,6 +28,7 @@ ad.udition.jp CNAME .
 ad1.tone.ne.jp CNAME .
 adbq.bk.mufg.jp CNAME .
 ade.deskstyle.info CNAME .
+ade.hirose-fx.co.jp CNAME .
 adebis-52667624.wowma.jp CNAME .
 adebis-bkan.vbest.jp CNAME .
 adebis-dojyo.dojyo.jp CNAME .
@@ -100,6 +101,7 @@ adebis8628.matsui.co.jp CNAME .
 adebiscname.au-sonpo.co.jp CNAME .
 adebiscname.auone.jp CNAME .
 adebiscname.sumirin-ht.co.jp CNAME .
+adebisu.fairy-contact.jp CNAME .
 adebisu.wowow.co.jp CNAME .
 adex.jrwp-arimatsu34.com CNAME .
 adex.kintetsu-re.co.jp CNAME .

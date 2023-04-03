@@ -81,6 +81,7 @@
 | tk.hypnia.co.uk | tk-hypnia-fr.wizaly.com |
 | tk.hypnia.es | tk-hypnia-fr.wizaly.com |
 | tk.hypnia.fr | tk-hypnia-fr.wizaly.com |
+| tk.hypnia.nl | tk-hypnia-fr.wizaly.com |
 | tk.illicado.com | tk-illicado-com.wizaly.com |
 | tk.jeux.loro.ch | tk-jeux-loro-ch.wizaly.com |
 | tk.kidsaround.com | tk-kidsaround-com.wizaly.com |

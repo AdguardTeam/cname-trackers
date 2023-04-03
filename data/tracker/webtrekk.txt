@@ -218,8 +218,10 @@
 ||wa.wdr.de^
 ||wa.wdrmaus.de^
 ||waaf.medion.com^
+||waaf1.aldi-gaming.de^
 ||waaf1.aldi-music.de^
 ||waaf1.aldilife.com^
+||waaf1.aldiphotos.co.uk^
 ||waaf1.alditalk.de^
 ||waaf1.hoferfotos.at^
 ||watg.xxxlutz.com^

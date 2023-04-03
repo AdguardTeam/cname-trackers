@@ -29,6 +29,7 @@
 ||a8.bousui-pro.com^
 ||a8.brandcosme.com^
 ||a8.bridal-hills.com^
+||a8.buvlabo.com^
 ||a8.casie.jp^
 ||a8.cbd-oil.jp^
 ||a8.cbiz.io^
@@ -54,9 +55,9 @@
 ||a8.dolcibolle.com^
 ||a8.dymtech.jp^
 ||a8.efax.co.jp^
+||a8.elife.clinic^
 ||a8.emeao.jp^
 ||a8.emma-sleep-japan.com^
-||a8.energy-ecohome.com^
 ||a8.engineer-shukatu.jp^
 ||a8.eonet.jp^
 ||a8.eonet.ne.jp^
@@ -78,6 +79,7 @@
 ||a8.gme.co.jp^
 ||a8.golfland.co.jp^
 ||a8.goodappeal.site^
+||a8.h-daiya.co.jp^
 ||a8.hakata-hisamatsu.net^
 ||a8.haptic.co.jp^
 ||a8.healthyolive.com^
@@ -175,7 +177,6 @@
 ||a8.shopserve.jp^
 ||a8.simple-hoiku.com^
 ||a8.skill-crowd.com^
-||a8.smakids.com^
 ||a8.smp.shanon.co.jp^
 ||a8.soelu.com^
 ||a8.sommelier.gift^
@@ -247,6 +248,7 @@
 ||a8clk.biken-mall.com^
 ||a8clk.biomarche.jp^
 ||a8clk.biz-communication.jp^
+||a8clk.booking.jetfi.jp^
 ||a8clk.bstyle.store^
 ||a8clk.buy-master.com^
 ||a8clk.camerakaitori.jp^
@@ -357,6 +359,7 @@
 ||a8clk.mouse-jp.co.jp^
 ||a8clk.muumuu-domain.com^
 ||a8clk.mynavi-creator.jp^
+||a8clk.mynavi-job20s.jp^
 ||a8clk.nenga-kazoku.com^
 ||a8clk.nenga.fumiiro.jp^
 ||a8clk.netowl.jp^
@@ -416,6 +419,7 @@
 ||a8clk.stylestore.jp^
 ||a8clk.sumafuri.jp^
 ||a8clk.support-hoiku.com^
+||a8clk.sure-i.co.jp^
 ||a8clk.t-fic.co.jp^
 ||a8clk.takken-job.com^
 ||a8clk.tanp.jp^
@@ -458,8 +462,10 @@
 ||a8cllk.arahataen.com^
 ||a8cname.nj-e.jp^
 ||a8cnv.rmsbeauty.jp^
+||a8cv.012grp.co.jp^
 ||a8cv.1-class.jp^
 ||a8cv.464981.com^
+||a8cv.489pro.com^
 ||a8cv.550909.com^
 ||a8cv.a-resort.jp^
 ||a8cv.a-satei.com^
@@ -534,10 +540,12 @@
 ||a8cv.e-earphone.jp^
 ||a8cv.e-stretch-diet.com^
 ||a8cv.eakindo.com^
+||a8cv.egmkt.co.jp^
 ||a8cv.encounter2017.jp^
 ||a8cv.english-bootcamp.com^
 ||a8cv.entry.renet.jp^
 ||a8cv.factoringzero.jp^
+||a8cv.fafa-shop.com^
 ||a8cv.favorric.com^
 ||a8cv.fc-osoujikakumei.jp^
 ||a8cv.first-spoon.com^
@@ -734,7 +742,6 @@
 ||a8itp.bitoka-japan.com^
 ||a8lp-tebiki.e-sogi.com^
 ||a8n.radishbo-ya.co.jp^
-||a8net.augustberg.jp^
 ||a8net.beyond-gym.com^
 ||a8net.gset.co.jp^
 ||a8net.mellow-cbd.jp^
@@ -857,6 +864,7 @@
 ||trck.atnenga.com^
 ||trck.kenkiya.com^
 ||trck.rework-s.com^
+||trck02.magaseek.com^
 ||trcka8.ryugaku.merise.asia^
 ||trcka8net.irobot-jp.com^
 ||web.nuro-life.com^

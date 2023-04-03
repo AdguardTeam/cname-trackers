@@ -248,6 +248,8 @@ box.cryptokingdom.tech
 box.kryptotrejder.sk
 brana.ritualyomlazeni.cz
 doporuc.hopsej.cz
+hcaffil.mironet.cz
+hcbox.boomshop.sk
 hcbox.fitness-zone.cz
 hcbox.itcomplet.sk
 hcbox.mezamo.sk
@@ -426,6 +428,7 @@ partner.forexrebel.net
 partner.galsari.com
 partner.giulieta.shop
 partner.gokids.cz
+partner.granule-eshop.cz
 partner.hanamoneam.com
 partner.hemptor.cz
 partner.hodinarstvi.cz
@@ -690,6 +693,7 @@ partneri.zdravykram.cz
 partneri.zijchytre.cz
 partneri.zkustenzvuk.cz
 partners.almaf.cz
+partners.duckferries.com
 partners.lawofattraction.cz
 partners.oktagon.tv
 partners.pocitarna.cz

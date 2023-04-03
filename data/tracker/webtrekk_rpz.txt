@@ -218,8 +218,10 @@ wa.sportschau.de CNAME .
 wa.wdr.de CNAME .
 wa.wdrmaus.de CNAME .
 waaf.medion.com CNAME .
+waaf1.aldi-gaming.de CNAME .
 waaf1.aldi-music.de CNAME .
 waaf1.aldilife.com CNAME .
+waaf1.aldiphotos.co.uk CNAME .
 waaf1.alditalk.de CNAME .
 waaf1.hoferfotos.at CNAME .
 watg.xxxlutz.com CNAME .

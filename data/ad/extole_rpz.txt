@@ -26,12 +26,14 @@ refer.app.com CNAME .
 refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
 refer.basictalk.com CNAME .
+refer.betterbraces.com CNAME .
 refer.bookbyte.com CNAME .
 refer.bostonglobe.com CNAME .
 refer.bowflex.com CNAME .
 refer.calstate.aaa.com CNAME .
 refer.carbonite.com CNAME .
 refer.checkngo.com CNAME .
+refer.clarionledger.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
 refer.criquetshirts.com CNAME .
@@ -50,6 +52,7 @@ refer.greenvilleonline.com CNAME .
 refer.hannaandersson.com CNAME .
 refer.harimari.com CNAME .
 refer.healthypawspetinsurance.com CNAME .
+refer.icracked.com CNAME .
 refer.integrativenutrition.com CNAME .
 refer.jacksonsun.com CNAME .
 refer.johnson.ca CNAME .
@@ -412,6 +415,7 @@ share.docmorris.fr CNAME .
 share.dslaboratories.com CNAME .
 share.dunlopsports.com CNAME .
 share.dutch.com CNAME .
+share.elpasotimes.com CNAME .
 share.enterprisenews.com CNAME .
 share.esteelauder.com.au CNAME .
 share.esteelauder.com.tw CNAME .
@@ -509,6 +513,7 @@ share.sundaysfordogs.com CNAME .
 share.tallahassee.com CNAME .
 share.tcpalm.com CNAME .
 share.teachersfcu.org CNAME .
+share.thenorthwestern.com CNAME .
 share.theory.com CNAME .
 share.theoryoutlet.com CNAME .
 share.theprisonerwinecompany.com CNAME .

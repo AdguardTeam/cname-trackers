@@ -17,7 +17,6 @@
 1kpv4njzilv.community.intersystems.com CNAME .
 1m639v56m9d.development.pit.taxmachine.be CNAME .
 1op1je6zs97.www.emanualonline.com CNAME .
-1tb41yjaqmt.panpots.com CNAME .
 1uwcex4qf9z.test-115.dapp.ml CNAME .
 1xejnhs1zd1.staging.aporia.com CNAME .
 1y10lvb64mr.www.freecodecamp.dev CNAME .
@@ -37,9 +36,9 @@
 771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 7hdl8dlfjm4g.www.cybernetman.com CNAME .
-7vtdnufefvz3.kvest.ee CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
+9r0ptx5k38hk.hollowayremovals.com.au CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 ac9kpxbans1l.staging.unstoppabledomains.com CNAME .
 am3s622gcd6m.tt.live CNAME .
@@ -97,6 +96,7 @@ ti3av8k3ikwm.resume.gerardbosch.xyz CNAME .
 tnincvf1d1jl.de.themoneytizer.com CNAME .
 tos5dqejpd.www.freecodecamp.org CNAME .
 twn36gx4109r.loveisblank.com CNAME .
+tzgurwizule3.app.cardahealth.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
 uhm26jyr11zv.www.freecodecamp.org CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .

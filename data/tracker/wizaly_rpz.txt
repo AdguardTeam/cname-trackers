@@ -68,6 +68,7 @@ tk.healthwarehouse.com CNAME .
 tk.hypnia.co.uk CNAME .
 tk.hypnia.es CNAME .
 tk.hypnia.fr CNAME .
+tk.hypnia.nl CNAME .
 tk.illicado.com CNAME .
 tk.jeux.loro.ch CNAME .
 tk.kidsaround.com CNAME .

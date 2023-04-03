@@ -15,12 +15,14 @@
     * backcountry.extole.com
     * barenecessities.extole.com
     * basictalk-ssl.extole.com
+    * betterbraces.extole.com
     * bookbyte.extole.com
     * bostonglobe-ssl.extole.com
     * calstate-aaa.extole.com
     * carbonite-ssl.extole.com
     * checkngo.extole.com
     * chubbies.extole.com
+    * clarionledger.extole.com
     * clearme-ssl.extole.com
     * compexusa.extole.com
     * criquetshirts.extole.com
@@ -40,6 +42,7 @@
     * harimari.extole.com
     * healthypaws.extole.com
     * hostgator.extole.com
+    * icracked.extole.com
     * indochino.extole.com
     * integrativenutrition-ssl.extole.com
     * intuit-accountants.extole.com
@@ -541,6 +544,7 @@
 | refer.baxterofcalifornia.com | baxterofcalifornia.extole.io |
 | refer.bathandbodyworks.com | bbw.extole.io |
 | share.beaspermdonor.com | beaspermdonor.extole.io |
+| refer.betterbraces.com | betterbraces.extole.com |
 | refer.bioionic.com | bioionic.extole.io |
 | refer.bobstores.com | bobstores.extole.io |
 | refer.ems.com | bobstores.extole.io |
@@ -590,6 +594,7 @@
 | chubclub.chubbiesshorts.com | chubbies.extole.com |
 | refer.cinemark.com | cinemark.extole.io |
 | share.cityfurniture.com | cityfurniture.extole.io |
+| refer.clarionledger.com | clarionledger.extole.com |
 | refer.clarksusa.com | clarksusa.extole.io |
 | referral.cledepeaubeaute.com | cle-de-peau.extole.io |
 | refer.clearme.com | clearme-ssl.extole.com |
@@ -669,6 +674,7 @@
 | share.caller.com | gannett.extole.io |
 | share.delawareonline.com | gannett.extole.io |
 | share.detroitnews.com | gannett.extole.io |
+| share.elpasotimes.com | gannett.extole.io |
 | share.enterprisenews.com | gannett.extole.io |
 | share.floridatoday.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
@@ -676,6 +682,7 @@
 | share.statesman.com | gannett.extole.io |
 | share.tallahassee.com | gannett.extole.io |
 | share.tcpalm.com | gannett.extole.io |
+| share.thenorthwestern.com | gannett.extole.io |
 | share.usatoday.com | gannett.extole.io |
 | share.vcstar.com | gannett.extole.io |
 | refer.gapcanada.ca | gap-canada.extole.io |
@@ -722,6 +729,7 @@
 | refer.hsn.com | hsn.extole.io |
 | refer.hushpuppies.com | hush.extole.io |
 | share.hydropeptide.com | hydropeptide.extole.io |
+| refer.icracked.com | icracked.extole.com |
 | refer.indeed.com | indeed.extole.io |
 | share.indochino.com | indochino.extole.com |
 | share.inspirecleanenergy.com | inspire-clean-energy.extole.io |

@@ -248,6 +248,8 @@ box.cryptokingdom.tech CNAME .
 box.kryptotrejder.sk CNAME .
 brana.ritualyomlazeni.cz CNAME .
 doporuc.hopsej.cz CNAME .
+hcaffil.mironet.cz CNAME .
+hcbox.boomshop.sk CNAME .
 hcbox.fitness-zone.cz CNAME .
 hcbox.itcomplet.sk CNAME .
 hcbox.mezamo.sk CNAME .
@@ -426,6 +428,7 @@ partner.forexrebel.net CNAME .
 partner.galsari.com CNAME .
 partner.giulieta.shop CNAME .
 partner.gokids.cz CNAME .
+partner.granule-eshop.cz CNAME .
 partner.hanamoneam.com CNAME .
 partner.hemptor.cz CNAME .
 partner.hodinarstvi.cz CNAME .
@@ -690,6 +693,7 @@ partneri.zdravykram.cz CNAME .
 partneri.zijchytre.cz CNAME .
 partneri.zkustenzvuk.cz CNAME .
 partners.almaf.cz CNAME .
+partners.duckferries.com CNAME .
 partners.lawofattraction.cz CNAME .
 partners.oktagon.tv CNAME .
 partners.pocitarna.cz CNAME .

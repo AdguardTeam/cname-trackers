@@ -17,7 +17,6 @@
 ||1kpv4njzilv.community.intersystems.com^
 ||1m639v56m9d.development.pit.taxmachine.be^
 ||1op1je6zs97.www.emanualonline.com^
-||1tb41yjaqmt.panpots.com^
 ||1uwcex4qf9z.test-115.dapp.ml^
 ||1xejnhs1zd1.staging.aporia.com^
 ||1y10lvb64mr.www.freecodecamp.dev^
@@ -37,9 +36,9 @@
 ||771fnypadw0j.pt.themoneytizer.com^
 ||78rkcgj4i8c6.www.cefirates.com^
 ||7hdl8dlfjm4g.www.cybernetman.com^
-||7vtdnufefvz3.kvest.ee^
 ||8ehhtsv9bo7i.monkeylearn.com^
 ||9kkjfywjz50v.www.eventus.io^
+||9r0ptx5k38hk.hollowayremovals.com.au^
 ||9uim1pc4ej4n.ru.themoneytizer.com^
 ||ac9kpxbans1l.staging.unstoppabledomains.com^
 ||am3s622gcd6m.tt.live^
@@ -97,6 +96,7 @@
 ||tnincvf1d1jl.de.themoneytizer.com^
 ||tos5dqejpd.www.freecodecamp.org^
 ||twn36gx4109r.loveisblank.com^
+||tzgurwizule3.app.cardahealth.com^
 ||u0crsrah75fy.camberlion.com^
 ||uhm26jyr11zv.www.freecodecamp.org^
 ||unl1zvy2zuyn.franchiseplus.nl^

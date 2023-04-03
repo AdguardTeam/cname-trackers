@@ -6,7 +6,6 @@
     * citi.online-metrix.net
     * h-10kdwzzr.online-metrix.net
     * h-11b6fun8-bl.online-metrix.net
-    * h-11b6fun8-wn.online-metrix.net
     * h-15wc9fpp.online-metrix.net
     * h-16vzjy52.online-metrix.net
     * h-1dwgke3d.online-metrix.net
@@ -274,7 +273,6 @@
     * h-draftkings.online-metrix.net
     * h-drav45kl.online-metrix.net
     * h-drbo60la.online-metrix.net
-    * h-drnycoos.online-metrix.net
     * h-dstssc.online-metrix.net
     * h-dszu15n8.online-metrix.net
     * h-dux3ssmw.online-metrix.net
@@ -427,6 +425,7 @@
     * h-milestonegoldcard.online-metrix.net
     * h-missionlane.online-metrix.net
     * h-mizuhobank.online-metrix.net
+    * h-mofa.online-metrix.net
     * h-momentumventures.online-metrix.net
     * h-moneycorp.online-metrix.net
     * h-moneyplace.online-metrix.net
@@ -620,7 +619,6 @@
 | content22.citi.com | citi.online-metrix.net |
 | h.truist.com | h-10kdwzzr.online-metrix.net |
 | content.bankerslife.com | h-11b6fun8-bl.online-metrix.net |
-| content.washingtonnational.com | h-11b6fun8-wn.online-metrix.net |
 | tmln.caesarscasino.com | h-15wc9fpp.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
@@ -695,6 +693,7 @@
 | contentimage.fretebras.com.br | h-7ubbkvkt.online-metrix.net |
 | info.betway.bg | h-7v30y901.online-metrix.net |
 | info.betway.co.za | h-7v30y901.online-metrix.net |
+| info.betway.co.zm | h-7v30y901.online-metrix.net |
 | info.betway.fr | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
 | sec.mypage.ocn.ne.jp | h-7yh412tv.online-metrix.net |
@@ -958,7 +957,6 @@
 | tmximg.draftkings.com | h-draftkings.online-metrix.net |
 | content.wizink.es | h-drav45kl.online-metrix.net |
 | payments.hd-plus.de | h-drbo60la.online-metrix.net |
-| mobile-content.pumb.ua | h-drnycoos.online-metrix.net |
 | content.ssctech.com | h-dstssc.online-metrix.net |
 | acdc.toolineo.de | h-dszu15n8.online-metrix.net |
 | client.online.sandyspringbank.com | h-dux3ssmw.online-metrix.net |
@@ -1172,6 +1170,7 @@
 | tmck.milestonegoldcard.com | h-milestonegoldcard.online-metrix.net |
 | scdn.missionlane.com | h-missionlane.online-metrix.net |
 | directinfo.ib.mizuhobank.co.jp | h-mizuhobank.online-metrix.net |
+| content.evisa.mofa.go.jp | h-mofa.online-metrix.net |
 | tm.summit-services.ca | h-momentumventures.online-metrix.net |
 | cdn2.moneycorp.com | h-moneycorp.online-metrix.net |
 | cdns.moneyplace.com.au | h-moneyplace.online-metrix.net |
@@ -1265,6 +1264,7 @@
 | t.onlinebanking.american1cu.org | h-pscu.online-metrix.net |
 | t.onlinebanking.consumerscu.org | h-pscu.online-metrix.net |
 | t.onlinebanking.firstmarkcu.org | h-pscu.online-metrix.net |
+| t.onlinebanking.sesloc.org | h-pscu.online-metrix.net |
 | t.safe.bcu.org | h-pscu.online-metrix.net |
 | t.secure.ascend.org | h-pscu.online-metrix.net |
 | t.secure.selco.org | h-pscu.online-metrix.net |
@@ -1326,6 +1326,7 @@
 | imgs.signifyd.com | h-signifyd.online-metrix.net |
 | cdn1.skrill.com | h-skrill.online-metrix.net |
 | idstatus.sky.com | h-skyuk.online-metrix.net |
+| idstatus.sky.it | h-skyuk.online-metrix.net |
 | content21.snapfinance.com | h-snapfinance.online-metrix.net |
 | st10.sofi.com | h-sofi.online-metrix.net |
 | payments.direct.playstation.com | h-sonyie.online-metrix.net |
@@ -1397,6 +1398,7 @@
 | jfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | kfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | lfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
+| mfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | yfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | frp.intuit.com | h-v60nf4oj.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |

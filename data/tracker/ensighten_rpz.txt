@@ -54,7 +54,6 @@ agility.cartoonnetwork.com CNAME .
 agility.citizensbank.com CNAME .
 agility.cnn.com CNAME .
 agility.cnvrm.com CNAME .
-agility.eleague.com CNAME .
 agility.nba.com CNAME .
 agility.ncaa.com CNAME .
 agility.tbs.com CNAME .
@@ -64,23 +63,15 @@ agility.trutv.com CNAME .
 amex.activate.ensighten.com CNAME .
 analytics.amica.com CNAME .
 analytics.athome.com CNAME .
-analytics.belk.com CNAME .
 analytics.carecredit.com CNAME .
 analytics.carecreditlearning.com CNAME .
 analytics.carecreditprovidercenter.com CNAME .
-analytics.coach.com CNAME .
-analytics.coachoutlet.com CNAME .
-analytics.duluthtrading.com CNAME .
 analytics.ensighten.com CNAME .
-analytics.gnc.com CNAME .
-analytics.katespade.com CNAME .
 analytics.lumberliquidators.com CNAME .
 analytics.michiganlottery.com CNAME .
 analytics.mysynchrony.com CNAME .
-analytics.northerntool.com CNAME .
 analytics.ovative.com CNAME .
 analytics.polaris.com CNAME .
-analytics.stuartweitzman.com CNAME .
 analytics.syf.com CNAME .
 analytics.synchrony.com CNAME .
 analytics.synchronybank.com CNAME .
@@ -122,6 +113,7 @@ cm.quest.com CNAME .
 cmp.dieteren.be CNAME .
 co-operative.activate.ensighten.com CNAME .
 coke.activate.ensighten.com CNAME .
+consent.irvinecompany.com CNAME .
 cookies.jll-mena.com CNAME .
 cookies.jll.ca CNAME .
 cookies.jll.ch CNAME .
@@ -304,6 +296,7 @@ tags.wyndhamhotels.com CNAME .
 tam.volkswagen.com CNAME .
 tdi.cartoonnetwork.com CNAME .
 test3-dc.jared.com CNAME .
+test3-dc.kay.com CNAME .
 test3-dc.kayoutlet.com CNAME .
 test3-dc.sterlingjewelers.com CNAME .
 tm.hdmtools.com CNAME .
@@ -319,7 +312,6 @@ tms.nab.com.au CNAME .
 tms.rsa.com CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .
-tog.fivebelow.com CNAME .
 tripadvisor.activate.ensighten.com CNAME .
 uat1-dc.pagoda.com CNAME .
 uat1-dc.zales.com CNAME .

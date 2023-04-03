@@ -54,7 +54,6 @@ agility.cartoonnetwork.com
 agility.citizensbank.com
 agility.cnn.com
 agility.cnvrm.com
-agility.eleague.com
 agility.nba.com
 agility.ncaa.com
 agility.tbs.com
@@ -64,23 +63,15 @@ agility.trutv.com
 amex.activate.ensighten.com
 analytics.amica.com
 analytics.athome.com
-analytics.belk.com
 analytics.carecredit.com
 analytics.carecreditlearning.com
 analytics.carecreditprovidercenter.com
-analytics.coach.com
-analytics.coachoutlet.com
-analytics.duluthtrading.com
 analytics.ensighten.com
-analytics.gnc.com
-analytics.katespade.com
 analytics.lumberliquidators.com
 analytics.michiganlottery.com
 analytics.mysynchrony.com
-analytics.northerntool.com
 analytics.ovative.com
 analytics.polaris.com
-analytics.stuartweitzman.com
 analytics.syf.com
 analytics.synchrony.com
 analytics.synchronybank.com
@@ -122,6 +113,7 @@ cm.quest.com
 cmp.dieteren.be
 co-operative.activate.ensighten.com
 coke.activate.ensighten.com
+consent.irvinecompany.com
 cookies.jll-mena.com
 cookies.jll.ca
 cookies.jll.ch
@@ -304,6 +296,7 @@ tags.wyndhamhotels.com
 tam.volkswagen.com
 tdi.cartoonnetwork.com
 test3-dc.jared.com
+test3-dc.kay.com
 test3-dc.kayoutlet.com
 test3-dc.sterlingjewelers.com
 tm.hdmtools.com
@@ -319,7 +312,6 @@ tms.nab.com.au
 tms.rsa.com
 tms.virginatlantic.com
 tmsgi.lv.com
-tog.fivebelow.com
 tripadvisor.activate.ensighten.com
 uat1-dc.pagoda.com
 uat1-dc.zales.com

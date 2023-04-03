@@ -35,6 +35,7 @@ collect.meilleurtaux.com
 conimicutlighthouse.viessmann-us.com
 crocetta.viessmann.it
 culture.intermedes.com
+d.deloitte.fr
 d.doctipharma.fr
 d.m-net.de
 d.santemagazine.fr

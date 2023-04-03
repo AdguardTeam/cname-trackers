@@ -486,8 +486,10 @@
 | data.main-ding.de | mainpost01.wt-eu02.net |
 | data.mainpost.de | mainpost01.wt-eu02.net |
 | waaf.medion.com | medion01.wt-eu02.net |
+| waaf1.aldi-gaming.de | medion01.wt-eu02.net |
 | waaf1.aldi-music.de | medion01.wt-eu02.net |
 | waaf1.aldilife.com | medion01.wt-eu02.net |
+| waaf1.aldiphotos.co.uk | medion01.wt-eu02.net |
 | waaf1.alditalk.de | medion01.wt-eu02.net |
 | waaf1.hoferfotos.at | medion01.wt-eu02.net |
 | web.mytoys.de | mytoys02.wt-eu02.net |

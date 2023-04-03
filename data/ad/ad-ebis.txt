@@ -28,6 +28,7 @@
 ||ad1.tone.ne.jp^
 ||adbq.bk.mufg.jp^
 ||ade.deskstyle.info^
+||ade.hirose-fx.co.jp^
 ||adebis-52667624.wowma.jp^
 ||adebis-bkan.vbest.jp^
 ||adebis-dojyo.dojyo.jp^
@@ -100,6 +101,7 @@
 ||adebiscname.au-sonpo.co.jp^
 ||adebiscname.auone.jp^
 ||adebiscname.sumirin-ht.co.jp^
+||adebisu.fairy-contact.jp^
 ||adebisu.wowow.co.jp^
 ||adex.jrwp-arimatsu34.com^
 ||adex.kintetsu-re.co.jp^

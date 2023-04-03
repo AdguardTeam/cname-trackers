@@ -190,6 +190,7 @@ content.ecampus.com CNAME .
 content.egyptair.com CNAME .
 content.espace-client.hellobank.fr CNAME .
 content.etransfer.interac.ca CNAME .
+content.evisa.mofa.go.jp CNAME .
 content.ezaem.ru CNAME .
 content.ezbills.com CNAME .
 content.familyprepaiddebit.com CNAME .
@@ -266,7 +267,6 @@ content.tab.com.au CNAME .
 content.telusinternational.ai CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
-content.washingtonnational.com CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
 content1.reprisefinancial.com CNAME .
@@ -399,6 +399,7 @@ hooru.regence.com CNAME .
 id.latitudefinancial.com CNAME .
 idhtm.bb.com.br CNAME .
 idstatus.sky.com CNAME .
+idstatus.sky.it CNAME .
 ifp.intuit.com CNAME .
 im2.prod.amount.com CNAME .
 image.online.adp.com CNAME .
@@ -441,6 +442,7 @@ imgs.cdn-btsg.com CNAME .
 imgs.signifyd.com CNAME .
 info.betway.bg CNAME .
 info.betway.co.za CNAME .
+info.betway.co.zm CNAME .
 info.betway.fr CNAME .
 intlsdpntrca.nitrocasino.ca CNAME .
 intm.amwager.com CNAME .
@@ -477,9 +479,9 @@ meiodepagamento.campanhaporto.com.br CNAME .
 membership-device.secured-igaming-services.com CNAME .
 metrics.myfrs.com CNAME .
 metrix.us.ovhcloud.com CNAME .
+mfp.intuit.com CNAME .
 mnt.sbisec.co.jp CNAME .
 mobile-content-f.autozone.com CNAME .
-mobile-content.pumb.ua CNAME .
 mobile-tmx.ssisurveys.com CNAME .
 mobile.du.ae CNAME .
 mobilecontent.networks.prod.p0.phx-infra.com CNAME .
@@ -656,6 +658,7 @@ t.online.westerlyccu.com CNAME .
 t.onlinebanking.american1cu.org CNAME .
 t.onlinebanking.consumerscu.org CNAME .
 t.onlinebanking.firstmarkcu.org CNAME .
+t.onlinebanking.sesloc.org CNAME .
 t.safe.bcu.org CNAME .
 t.secure.ascend.org CNAME .
 t.secure.selco.org CNAME .

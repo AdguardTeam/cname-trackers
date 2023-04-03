@@ -54,6 +54,10 @@
 !
 ||altomboern.tns-gallup.dk^
 !
+! amica.vgwort-de.2cnt.net disguised trackers
+!
+||amica.met.vgwort.de^
+!
 ! slb-vgwort-de-pool02.vgwort-de.2cnt.net disguised trackers
 !
 ||amica.met.vgwort.de^
@@ -300,9 +304,9 @@
 !
 ||dr.tns-gallup.dk^
 !
-! drandroidtvstream.tns-dk.2cnt.net disguised trackers
+! drandroidstream.tns-dk.2cnt.net disguised trackers
 !
-||drandroidtvstream.tns-gallup.dk^
+||drandroidstream.tns-gallup.dk^
 !
 ! slb-tns-dk-pool06.tns-dk.2cnt.net disguised trackers
 !
@@ -385,10 +389,6 @@
 !
 ||halsa.tns-gallup.dk^
 !
-! hanser.vgwort-de.2cnt.net disguised trackers
-!
-||hanser.met.vgwort.de^
-!
 ! helpster.vgwort-de.2cnt.net disguised trackers
 !
 ||helpster.met.vgwort.de^
@@ -400,6 +400,10 @@
 ! hsfo.tns-dk.2cnt.net disguised trackers
 !
 ||hsfo.tns-gallup.dk^
+!
+! idgentertain.vgwort-de.2cnt.net disguised trackers
+!
+||idgentertain.met.vgwort.de^
 !
 ! in.tns-dk.2cnt.net disguised trackers
 !
@@ -517,6 +521,10 @@
 !
 ||newsb.tns-gallup.dk^
 !
+! nomos.vgwort-de.2cnt.net disguised trackers
+!
+||nomos.met.vgwort.de^
+!
 ! nordjyske.tns-dk.2cnt.net disguised trackers
 !
 ||nordjyske.tns-gallup.dk^
@@ -540,6 +548,10 @@
 ! rejseplanen.tns-dk.2cnt.net disguised trackers
 !
 ||rejseplanen.tns-gallup.dk^
+!
+! rp-online.vgwort-de.2cnt.net disguised trackers
+!
+||rp-online.met.vgwort.de^
 !
 ! rtl.vgwort-de.2cnt.net disguised trackers
 !
@@ -588,6 +600,10 @@
 ||ssl-viafreeandroidstream.tns-gallup.dk^
 ||ssl-viafreestream.tns-gallup.dk^
 !
+! ssl-altiboxstream.tns-dk.2cnt.net disguised trackers
+!
+||ssl-altiboxstream.tns-gallup.dk^
+!
 ! ssl-altinget.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-altinget.tns-gallup.dk^
@@ -611,10 +627,6 @@
 ! ssl-avisen.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-avisen.tns-gallup.dk^
-!
-! ssl-beck.vgwort-de.2cnt.net disguised trackers
-!
-||ssl-beck.met.vgwort.de^
 !
 ! ssl-berlingske.tns-dk.2cnt.net disguised trackers
 !
@@ -717,6 +729,10 @@
 !
 ||ssl-dr.tns-gallup.dk^
 !
+! ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
+!
+||ssl-drandroidtvstream.tns-gallup.dk^
+!
 ! ssl-drhbbstream.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-drhbbstream.tns-gallup.dk^
@@ -728,6 +744,10 @@
 ! ssl-driosstream.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-driosstream.tns-gallup.dk^
+!
+! ssl-drtv-appletv.tns-dk.2cnt.net disguised trackers
+!
+||ssl-drtv-appletv.tns-gallup.dk^
 !
 ! ssl-ebiam.tns-dk.2cnt.net disguised trackers
 !
@@ -756,6 +776,10 @@
 ! ssl-euroman.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-euroman.tns-gallup.dk^
+!
+! ssl-express.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-express.met.vgwort.de^
 !
 ! ssl-fdim.tns-dk.2cnt.net disguised trackers
 !
@@ -941,6 +965,10 @@
 ! ssl-mxiam.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-mxiam.tns-gallup.dk^
+!
+! ssl-n-tv.vgwort-de.2cnt.net disguised trackers
+!
+||ssl-n-tv.met.vgwort.de^
 !
 ! ssl-news.tns-dk.2cnt.net disguised trackers
 !
@@ -1172,6 +1200,10 @@
 !
 ||taz.met.vgwort.de^
 !
+! teltarif.vgwort-de.2cnt.net disguised trackers
+!
+||teltarif.met.vgwort.de^
+!
 ! thistedp.tns-dk.2cnt.net disguised trackers
 !
 ||thistedp.tns-gallup.dk^
@@ -1183,6 +1215,10 @@
 ! tv2stream.tns-dk.2cnt.net disguised trackers
 !
 ||tv2stream.tns-gallup.dk^
+!
+! tv3.tns-dk.2cnt.net disguised trackers
+!
+||tv3.tns-gallup.dk^
 !
 ! tz.vgwort-de.2cnt.net disguised trackers
 !

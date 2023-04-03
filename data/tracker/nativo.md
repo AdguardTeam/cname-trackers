@@ -4,8 +4,6 @@
 
 * ntv.io
     * edge.ntv.io
-    * realworldsurvivor-com-edge.ntv.io
-    * time-com-edge.ntv.io
 * ntvpforever.com
 * postrelease.com
     * jadserve.postrelease.com
@@ -25,9 +23,15 @@
 | www1.cultivatedknowledge.com | cultivatedknowledge-com-www1.edgeserving.com |
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
-| mlive.share.ntv.io | jadserve.postrelease.com |
+| a135.fox23.com | jadserve.postrelease.com |
+| a135.wsbtv.com | jadserve.postrelease.com |
+| a235.middletownpress.com | jadserve.postrelease.com |
+| ajc.share.ntv.io | jadserve.postrelease.com |
+| cricketwireless.share.ntv.io | jadserve.postrelease.com |
+| fortune.share.ntv.io | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
+| wvtm13.share.ntv.io | jadserve.postrelease.com |
 | a135.wftv.com | jadserve.postrelease.com.akadns.net |
 | a614.al.com | jadserve.postrelease.com.akadns.net |
 | a614.masslive.com | jadserve.postrelease.com.akadns.net |
@@ -75,6 +79,7 @@
 | 2093b71876.d2c273238b.com | ntvpforever.com |
 | 20cbc85129.fc455e7809.com | ntvpforever.com |
 | 22aa4458dc.c42f556ff8.com | ntvpforever.com |
+| 234e54cf56.e9f1af32f6.com | ntvpforever.com |
 | 2547cd401b.d8a452e2da.com | ntvpforever.com |
 | 26e33d5110.b91c577b4d.com | ntvpforever.com |
 | 2b93cd08b5.fd40cd3322.com | ntvpforever.com |
@@ -91,6 +96,7 @@
 | 3b712d30b3.09e852b0f3.com | ntvpforever.com |
 | 3cbf4c2cb3.cc77769ad8.com | ntvpforever.com |
 | 3d82e5c981.9633d48767.com | ntvpforever.com |
+| 3e0bef2039.6e5181a4e4.com | ntvpforever.com |
 | 3eaaac4c0d.090a7ee361.com | ntvpforever.com |
 | 3fb830355c.9be814e81e.com | ntvpforever.com |
 | 41e02b972b.9f101f07c7.com | ntvpforever.com |
@@ -130,6 +136,7 @@
 | 6539a7f33f.2a83afe612.com | ntvpforever.com |
 | 65eb50053b.3cb004e947.com | ntvpforever.com |
 | 66d7c2e32f.843acfbeb0.com | ntvpforever.com |
+| 67116813c6.89504d460b.com | ntvpforever.com |
 | 6788b5f0a5.07ab456fe8.com | ntvpforever.com |
 | 68787fa2a4.0439c255ac.com | ntvpforever.com |
 | 699e46a3ca.e11c0ad270.com | ntvpforever.com |
@@ -146,6 +153,7 @@
 | 72ffc1edfd.f6d56854f2.com | ntvpforever.com |
 | 735149c0f3.f5d46bef1b.com | ntvpforever.com |
 | 740e3dd5cf.71a3fd0954.com | ntvpforever.com |
+| 749e473277.b6deee8a5f.com | ntvpforever.com |
 | 74ae08c95d.364a426c46.com | ntvpforever.com |
 | 7734af9d7a.854a08a35e.com | ntvpforever.com |
 | 790d5944bd.7d1f2e00ed.com | ntvpforever.com |
@@ -164,16 +172,19 @@
 | 7fe465ee76.f21c8cd9a7.com | ntvpforever.com |
 | 812748c48f.02f87a8089.com | ntvpforever.com |
 | 81882ef64b.34ad8df175.com | ntvpforever.com |
+| 85ee48afef.479d86c670.com | ntvpforever.com |
 | 8654683419.6ab77a3dad.com | ntvpforever.com |
 | 865a159ba5.d7739252ca.com | ntvpforever.com |
 | 898dd5a858.a06e054b4c.com | ntvpforever.com |
 | 8a7f64eb48.5a46c72f0e.com | ntvpforever.com |
 | 8a86cfec6c.db4a1656b5.com | ntvpforever.com |
+| 8ac8c6d855.17c12b43a7.com | ntvpforever.com |
 | 8bb3b7c35f.e93014ee07.com | ntvpforever.com |
 | 8bd9187370.468a044700.com | ntvpforever.com |
 | 8bf1e6c762.bcd7ad4271.com | ntvpforever.com |
 | 8dba8f6d76.3ce27e9b41.com | ntvpforever.com |
 | 8dbd9f1b8c.b0b96fffc2.com | ntvpforever.com |
+| 8ef71a6605.5115924dd3.com | ntvpforever.com |
 | 9028b77447.a5acd46254.com | ntvpforever.com |
 | 90f6d578cc.2725849b34.com | ntvpforever.com |
 | 914ceb3906.7d4a41c596.com | ntvpforever.com |
@@ -183,6 +194,7 @@
 | 95113b3bd8.9d36cf3402.com | ntvpforever.com |
 | 951dff5c64.8507feaa71.com | ntvpforever.com |
 | 95797ef4d7.413dfe9f11.com | ntvpforever.com |
+| 95bb3314e7.66efeb9730.com | ntvpforever.com |
 | 96b76b02f1.49af7cee19.com | ntvpforever.com |
 | 9757fdc45b.92b501c719.com | ntvpforever.com |
 | 97b9d5e7ec.14165563f4.com | ntvpforever.com |
@@ -195,6 +207,7 @@
 | 9e4a8a6859.1f031f585b.com | ntvpforever.com |
 | a0a2b9b1fd.b2e2b89cc1.com | ntvpforever.com |
 | a108652c62.f78f9d3fc2.com | ntvpforever.com |
+| a10b5740ba.239333b133.com | ntvpforever.com |
 | a2ee316f2b.9c56fb6868.com | ntvpforever.com |
 | a2f288701d.a4334cc1ec.com | ntvpforever.com |
 | a390770006.41291ba668.com | ntvpforever.com |
@@ -227,6 +240,7 @@
 | bcdb664dff.0d356de9ef.com | ntvpforever.com |
 | bd2bc05960.47daeb1eac.com | ntvpforever.com |
 | bd2ca6c82d.20e2b2c425.com | ntvpforever.com |
+| bdecfb7de6.e2ff92bcf8.com | ntvpforever.com |
 | beb86406c2.680566accf.com | ntvpforever.com |
 | bee395bc6e.8413c95209.com | ntvpforever.com |
 | bfe70bbd52.23182b9851.com | ntvpforever.com |
@@ -239,6 +253,7 @@
 | c353ac05ea.b0fea47e81.com | ntvpforever.com |
 | c504d3250f.52c9f48b14.com | ntvpforever.com |
 | c5626f808b.36d1ef387c.com | ntvpforever.com |
+| c580712027.ffcc2964d9.com | ntvpforever.com |
 | c6605baadd.2d6a7b9179.com | ntvpforever.com |
 | c6644ac158.2ae70a6814.com | ntvpforever.com |
 | c7b79a8bf6.593cdd41e1.com | ntvpforever.com |
@@ -258,6 +273,7 @@
 | d6761fc561.f329cba40e.com | ntvpforever.com |
 | d8317a4051.643e108d3f.com | ntvpforever.com |
 | d8761c8727.28b5c12f7e.com | ntvpforever.com |
+| d93a7f2b7e.9c03f2208e.com | ntvpforever.com |
 | da7a33716c.92be9e6be2.com | ntvpforever.com |
 | dab23ae107.466b3b8e1d.com | ntvpforever.com |
 | db47f9c2ff.904b686f95.com | ntvpforever.com |
@@ -295,11 +311,10 @@
 | fb43b02984.af5cdb3fe3.com | ntvpforever.com |
 | fc6150a639.f7e79a5f70.com | ntvpforever.com |
 | fe8d4b33c2.8abf43d6ad.com | ntvpforever.com |
+| ff04a1538a.ced4d66e2d.com | ntvpforever.com |
 | ffe405491d.28b67b8230.com | ntvpforever.com |
 | partners.time.com | partners-time-com-prod.edgeserving.com |
-| www.realworldsurvivor.com | realworldsurvivor-com-edge.ntv.io |
 | www.realworldsurvivor.com | realworldsurvivor-com-prod.edgeserving.com |
-| partners.time.com | time-com-edge.ntv.io |
 | a235.chron.com | unavailable.hearstnp.com |
 | a235.ctnews.com | unavailable.hearstnp.com |
 | a235.gametimect.com | unavailable.hearstnp.com |

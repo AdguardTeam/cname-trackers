@@ -9,6 +9,7 @@ data.decathlon.es CNAME .
 data.decathlon.fr CNAME .
 data.decathlon.pl CNAME .
 data.ouigo.com CNAME .
+data.ubi.com CNAME .
 data.wptag.net CNAME .
 logger.yp.ca CNAME .
 sales.disneylandparis.com CNAME .
@@ -16,7 +17,6 @@ tag.boulanger.fr CNAME .
 tagcommander.laredoute.be CNAME .
 tagcommander.laredoute.ch CNAME .
 tagcommander.laredoute.co.uk CNAME .
-tc.camaieu.fr CNAME .
 tcdata.fnac.com CNAME .
 ;
 ; ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com disguised trackers
@@ -30,5 +30,4 @@ data.ubi.com CNAME .
 logger.yp.ca CNAME .
 sales.disneylandparis.com CNAME .
 tag.boulanger.fr CNAME .
-tc.camaieu.fr CNAME .
 tc.europcar.com CNAME .
