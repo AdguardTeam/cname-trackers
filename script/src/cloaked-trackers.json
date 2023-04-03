@@ -1,35 +1,35 @@
 [
     {
         "company_name": "affilbox.cz",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "cz.affilbox.cz"
         ]
     },
     {
         "company_name": "2cnt.net",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "pl02.prolitteris.2cnt.net"
         ]
     },
     {
         "company_name": "A8.net",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "a8.net"
         ]
     },
     {
         "company_name": "Actionlink.jp",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "mm.actionlink.jp"
         ]
     },
     {
         "company_name": "AD EBiS",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "ebis.ne.jp"
         ]
@@ -57,7 +57,7 @@
     },
     {
         "company_name": "Act-On",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "actonservice.com",
             "actonsoftware.com"
@@ -65,7 +65,7 @@
     },
     {
         "company_name": "Adobe Experience Cloud (formerly Omniture)",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "2o7.net",
             "data.adobedc.net",
@@ -89,7 +89,7 @@
     },
     {
         "company_name": "Clickaine",
-        "type": "tracker",
+        "type": "ad",
         "domains": [
             "api.clickaine.com"
         ]
@@ -134,7 +134,7 @@
     },
     {
         "company_name": "Extole",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "extole.com",
             "extole.io"
@@ -149,14 +149,14 @@
     },
     {
         "company_name": "GENIEE",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "genieespv.jp"
         ]
     },
     {
         "company_name": "GMO Internet Group",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "ad-cloud.jp"
         ]
@@ -177,14 +177,14 @@
     },
     {
         "company_name": "Ingenious Technologies",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "affex.org"
         ]
     },
     {
         "company_name": "Keyade",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "k.keyade.com"
         ]
@@ -212,7 +212,7 @@
     },
     {
         "company_name": "NameSilo",
-        "type": "tracker",
+        "type": "ad",
         "domains": [
             "ab1n.net"
         ]
@@ -242,14 +242,14 @@
     },
     {
         "company_name": "Otto Group",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "oghub.io"
         ]
     },
     {
         "company_name": "Pardot",
-        "type": "ad",
+        "type": "tracker",
         "domains": [
             "go.pardot.com"
         ]
@@ -302,7 +302,7 @@
     },
     {
         "company_name": "Webair",
-        "type": "tracker",
+        "type": "ad",
         "domains": [
             "ak-is2.net"
         ]
