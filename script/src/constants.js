@@ -5,22 +5,21 @@ const HOSTS_RULE_COMMENT_MARKER = '#';
 const RPZ_RULE_COMMENT_MARKER = ';';
 
 const COMBINED_DISGUISES_HEADER_TITLE = 'Title: AdGuard CNAME disguised trackers list';
+// eslint-disable-next-line max-len
 const COMBINED_DISGUISES_HEADER_DESC = 'Description: The list of unique tracker domains that disguise the real trackers by using CNAME records.';
 const COMBINED_ORIGINAL_TRACKERS_HEADER_TITLE = 'Title: AdGuard CNAME original trackers list';
+// eslint-disable-next-line max-len
 const COMBINED_ORIGINAL_TRACKERS_HEADER_DESC = 'Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.';
 const COMBINED_FILTER_LIST_HEADER_HOMEPAGE = 'Homepage: https://github.com/AdguardTeam/cname-trackers';
 
 const JSON_FILE_EXTENSION = 'json';
 const RULES_FILE_EXTENSION = 'txt';
 
-const COMBINED_RULES_FILE_NAME_BASE = 'combined_disguised_trackers';
+const COMBINED_RULES_FILE_NAME_BASE = 'combined_disguised';
 const HOSTS_RULES_FILE_NAME_ENDING = '_justdomains';
 const RPZ_RULES_FILE_NAME_ENDING = '_rpz';
 const COMBINED_ORIGINALS_FILE_NAME_BASE = 'combined_original_trackers';
 
-const COMBINED_BASE_RULES_FILE_NAME = `${COMBINED_RULES_FILE_NAME_BASE}.${RULES_FILE_EXTENSION}`;
-const COMBINED_HOSTS_RULES_FILE_NAME = `${COMBINED_RULES_FILE_NAME_BASE}${HOSTS_RULES_FILE_NAME_ENDING}.${RULES_FILE_EXTENSION}`;
-const COMBINED_RPZ_RULES_FILE_NAME = `${COMBINED_RULES_FILE_NAME_BASE}${RPZ_RULES_FILE_NAME_ENDING}.${RULES_FILE_EXTENSION}`;
 const COMBINED_ORIGINALS_FILE_NAME = `${COMBINED_ORIGINALS_FILE_NAME_BASE}.${RULES_FILE_EXTENSION}`;
 const COMBINED_JSON_FILE_NAME = `${COMBINED_RULES_FILE_NAME_BASE}.${JSON_FILE_EXTENSION}`;
 
@@ -69,19 +68,16 @@ const CONST_DATA = {
         type: BASE_RULES_TYPE,
         commentMarker: BASE_RULE_COMMENT_MARKER,
         combinedHeader: baseRulesCombinedHeader,
-        combinedFileName: COMBINED_BASE_RULES_FILE_NAME,
     },
     [HOSTS_RULES_TYPE]: {
         type: HOSTS_RULES_TYPE,
         commentMarker: HOSTS_RULE_COMMENT_MARKER,
         combinedHeader: hostsRulesCombinedHeader,
-        combinedFileName: COMBINED_HOSTS_RULES_FILE_NAME,
     },
     [RPZ_RULES_TYPE]: {
         type: RPZ_RULES_TYPE,
         commentMarker: RPZ_RULE_COMMENT_MARKER,
         combinedHeader: rpzRulesCombinedHeader,
-        combinedFileName: COMBINED_RPZ_RULES_FILE_NAME,
     },
     ORIGINALS: {
         commentMarker: BASE_RULE_COMMENT_MARKER,
@@ -91,6 +87,7 @@ const CONST_DATA = {
 };
 
 module.exports = {
+    COMBINED_RULES_FILE_NAME_BASE,
     BASE_RULE_COMMENT_MARKER,
     HOSTS_RULE_COMMENT_MARKER,
     RPZ_RULE_COMMENT_MARKER,

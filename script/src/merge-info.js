@@ -1,16 +1,10 @@
-const { promises: fs } = require('fs');
-const path = require('path');
 const {
     identity,
-    isFileExisting,
     pairsToEntries,
     getRemoved,
     getValidPairsFromRemoved,
     getOrderedByDisguisePairs,
 } = require('./helpers');
-const { JSON_FILE_EXTENSION } = require('./constants');
-
-const TRACKERS_DIR_PATH = '../../trackers';
 
 /**
  * @typedef { import('./fetch-trackers').FetchedDomainInfo } FetchedDomainInfo
@@ -25,20 +19,13 @@ const TRACKERS_DIR_PATH = '../../trackers';
  * @param {FetchedDomainInfo[]} fetchedDomainsInfo
  * @returns {Pair[]} merged '{ disguise, tracker }' pairs
  */
-const mergeDomainsInfo = async (companyFileName, fetchedDomainsInfo) => {
-    const oldInfoFileName = `${companyFileName}.${JSON_FILE_EXTENSION}`;
-    const oldInfoFilePath = path.resolve(__dirname, TRACKERS_DIR_PATH, oldInfoFileName);
 
-    const isOldFileExisting = await isFileExisting(oldInfoFilePath);
-
-    let oldInfo = {};
-    if (isOldFileExisting) {
-        const oldInfoContent = await fs.readFile(oldInfoFilePath);
-        oldInfo = JSON.parse(oldInfoContent);
-    }
-
+const mergeDomainsInfo = async (oldInfo, fetchedDomainsInfo) => {
+    // create an array with new pairs
     const newInfoPairs = fetchedDomainsInfo
+        // flattening the cloakedTrackers by one level
         .flatMap(({ cloaked_trackers: cloakedTrackers }) => cloakedTrackers)
+        // filter nulls
         .filter(identity)
         // convert all domain names to lowercase
         .map(({ disguise: rawDisguise, tracker: rawTracker }) => {
@@ -46,6 +33,8 @@ const mergeDomainsInfo = async (companyFileName, fetchedDomainsInfo) => {
             const tracker = rawTracker.toLowerCase();
             return { disguise, tracker };
         });
+
+    // transforms a list of key-value pairs form array into an object with pairs
     const newInfo = Object.fromEntries(pairsToEntries(newInfoPairs));
 
     const removedDiff = getRemoved(oldInfo, newInfo);

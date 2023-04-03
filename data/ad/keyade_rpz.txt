@@ -1,0 +1,40 @@
+;
+; Company name: Keyade
+;
+; k.keyade.com disguised trackers
+;
+clk.ubi.com CNAME .
+k.brandalley.be CNAME .
+k.brandalley.co.nl CNAME .
+k.brandalley.es CNAME .
+k.brandalley.fr CNAME .
+k.cocooncenter.be CNAME .
+k.cocooncenter.co.uk CNAME .
+k.cocooncenter.com CNAME .
+k.cocooncenter.de CNAME .
+k.cocooncenter.es CNAME .
+k.flynas.com CNAME .
+k.hofmann.es CNAME .
+k.laredoute.es CNAME .
+k.laredoute.pt CNAME .
+k.laredoute.ru CNAME .
+k.voyageursdumonde.be CNAME .
+k.voyageursdumonde.ca CNAME .
+k.voyageursdumonde.ch CNAME .
+k.voyageursdumonde.fr CNAME .
+ka.ilius.net CNAME .
+keyade.alltricks.fr CNAME .
+keyade.ooreka.fr CNAME .
+keyade.uniqlo.com CNAME .
+market-keyade.macif.fr CNAME .
+tck.photobox.com CNAME .
+tck.wonderbox.fr CNAME .
+;
+; k.madmetrics.com disguised trackers
+;
+k.truffaut.com CNAME .
+;
+; www.keyade.com disguised trackers
+;
+www.keyad.fr CNAME .
+www.keyade.fr CNAME .

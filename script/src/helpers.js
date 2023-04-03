@@ -1,8 +1,21 @@
 const { promises: dns } = require('dns');
-const { promises: fs } = require('fs');
+const fs = require('fs-extra');
 const path = require('path');
 
+const { COMBINED_RULES_FILE_NAME_BASE } = require('./constants');
+
 const ROOT_DIR_PATH = '../../';
+
+/**
+ * Creates name for combined disguised files
+ * @param {string} type
+ * @param {string} fileExtension
+ * @param {string} [suffix=''] 'justdomains' or 'rpz' or '' for adblock syntax
+ * @returns {string}
+ */
+const createCombinedFileName = (type, fileExtension, suffix = '') => (
+    `${COMBINED_RULES_FILE_NAME_BASE}_${type}${suffix}.${fileExtension}`
+);
 
 /**
  * Converts `domain` into adblocker-type basic blocking rule
@@ -35,6 +48,11 @@ const writeFile = async (fileName, fileContent) => fs.writeFile(
     fileContent,
 );
 
+/**
+ * Returns its input value, uses as a predicate to filter nullable values
+ * @param {*} el value
+ * @returns {*} same value
+ */
 const identity = (el) => el;
 
 const replace = (str, replaceable, replacement) => str
@@ -43,6 +61,11 @@ const replace = (str, replaceable, replacement) => str
     .filter(identity)
     .join(replacement);
 
+/**
+ * Changes the company name to the correct format for file naming
+ * @param {string} companyName property of CONST_DATA object for required file
+ * @returns {string}
+ */
 const formatFilename = (companyName) => {
     const lowerCased = companyName.toLowerCase();
     const dashed = replace(lowerCased, ' ', '-');
@@ -283,6 +306,7 @@ const stashInfoPairs = async (pairs) => {
 };
 
 module.exports = {
+    createCombinedFileName,
     writeFile,
     createBaseRule,
     createHostsRule,

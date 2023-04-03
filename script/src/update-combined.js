@@ -1,3 +1,4 @@
+/* eslint-disable guard-for-in */
 const { promises: fs } = require('fs');
 const path = require('path');
 
@@ -6,15 +7,17 @@ const {
     createHostsRule,
     createRpzRule,
     writeFile,
+    createCombinedFileName,
 } = require('./helpers');
 
 const {
     JSON_FILE_EXTENSION,
-    COMBINED_JSON_FILE_NAME,
+    RULES_FILE_EXTENSION,
+    HOSTS_RULES_FILE_NAME_ENDING,
+    RPZ_RULES_FILE_NAME_ENDING,
     CONST_DATA,
 } = require('./constants');
 
-const TRACKERS_DIR_PATH = '../../trackers';
 const ORIGINALS_FILE_NAME = './cloaked-trackers.json';
 
 /**
@@ -48,63 +51,65 @@ const updateCombinedOriginals = async () => {
 };
 
 /**
- * Сollects data from jsons and writes the sorted information to files by rule type.
+ * Generates combined disguises files by type
  * @returns {Promise<void>}
 */
-const updateCombinedDisguises = async () => {
-    const allTrackersFileNames = await fs.readdir(path.resolve(__dirname, TRACKERS_DIR_PATH));
+const updateCombinedDisguises = async (rawCombinedData) => {
+    // convert object into array with sorted by key key-value pairs
+    const combinedData = Object.entries(rawCombinedData);
 
-    // get file names of json files from trackers directory
-    const jsonFileNames = allTrackersFileNames
-        .filter((filename) => path.extname(filename) === `.${JSON_FILE_EXTENSION}`);
-
-    // get trackers jsons data
-    const jsonDataObjects = await Promise.all(jsonFileNames
-        .map(async (fileName) => {
-            const jsonFileContent = await fs.readFile(path.resolve(__dirname, TRACKERS_DIR_PATH, fileName));
-            return JSON.parse(jsonFileContent);
-        }));
-
-    // remove all duplicates
-    const uniqueDisguiseCombinedData = Object.assign(...jsonDataObjects);
-
-    // sort all unique trackers by key
-    const sortedDisguiseTrackers = Object.keys(uniqueDisguiseCombinedData).sort();
-
-    // add values to sorted keys
-    const sortedDisguiseJsonData = sortedDisguiseTrackers
-        .reduce((acc, key) => {
-            acc[key] = uniqueDisguiseCombinedData[key];
+    await Promise.all(combinedData.map(async ([type, jsonDataObject]) => {
+        // sort keys in jsonDataObject
+        const sortedDisguiseTrackers = Object.keys(jsonDataObject).sort();
+        // add values to sorted keys
+        const sortedDisguiseJsonData = sortedDisguiseTrackers.reduce((acc, key) => {
+            acc[key] = jsonDataObject[key];
             return acc;
         }, {});
 
-    // write combined_disguised_trackers.json
-    await writeFile(COMBINED_JSON_FILE_NAME, JSON.stringify(sortedDisguiseJsonData, null, 2));
+        // write combined_disguised_companyType.json
+        await writeFile(
+            createCombinedFileName(type, JSON_FILE_EXTENSION),
+            JSON.stringify(sortedDisguiseJsonData, null, 2),
+        );
 
-    // add headers to base, hosts, rpz files
-    let baseCombinedContent = `${CONST_DATA.BASE.combinedHeader}\n`;
-    let hostsCombinedContent = `${CONST_DATA.HOSTS.combinedHeader}\n`;
-    let rpzCombinedContent = `${CONST_DATA.RPZ.combinedHeader}\n`;
+        // add headers to base, hosts, rpz files
+        let baseCombinedContent = `${CONST_DATA.BASE.combinedHeader}\n`;
+        let hostsCombinedContent = `${CONST_DATA.HOSTS.combinedHeader}\n`;
+        let rpzCombinedContent = `${CONST_DATA.RPZ.combinedHeader}\n`;
 
-    // add content to base, hosts, rpz files from sorted keys combined_disguised_trackers.json
-    sortedDisguiseTrackers.forEach((disguise) => {
-        baseCombinedContent += `${createBaseRule(disguise)}\n`;
-        hostsCombinedContent += `${createHostsRule(disguise)}\n`;
-        rpzCombinedContent += `${createRpzRule(disguise)}\n`;
-    });
+        // add content to base, hosts, rpz files from sorted keys combined_disguised_companyType.json
+        sortedDisguiseTrackers.forEach((disguise) => {
+            baseCombinedContent += `${createBaseRule(disguise)}\n`;
+            hostsCombinedContent += `${createHostsRule(disguise)}\n`;
+            rpzCombinedContent += `${createRpzRule(disguise)}\n`;
+        });
 
-    // write content to base, hosts, rpz files
-    await Promise.all([
-        writeFile(CONST_DATA.BASE.combinedFileName, baseCombinedContent),
-        writeFile(CONST_DATA.HOSTS.combinedFileName, hostsCombinedContent),
-        writeFile(CONST_DATA.RPZ.combinedFileName, rpzCombinedContent),
-    ]);
+        // write content to base, hosts, rpz files
+        await Promise.all([
+            writeFile(
+                createCombinedFileName(type, RULES_FILE_EXTENSION),
+                baseCombinedContent,
+            ),
+            writeFile(
+                createCombinedFileName(type, RULES_FILE_EXTENSION, HOSTS_RULES_FILE_NAME_ENDING),
+                hostsCombinedContent,
+            ),
+            writeFile(
+                createCombinedFileName(type, RULES_FILE_EXTENSION, RPZ_RULES_FILE_NAME_ENDING),
+                rpzCombinedContent,
+            ),
+        ]);
+    }));
 };
 
 /**
  * Updates `combined_`-files in repo root directory
  * @returns {Promise<void>}
  */
-const updateCombined = async () => Promise.all([updateCombinedOriginals(), updateCombinedDisguises()]);
+const updateCombined = async (rawCombinedData) => Promise.all([
+    updateCombinedOriginals(),
+    updateCombinedDisguises(rawCombinedData),
+]);
 
 module.exports = { updateCombined };

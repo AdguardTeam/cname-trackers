@@ -1,54 +1,63 @@
 [
     {
         "company_name": "affilbox.cz",
+        "type": "ad",
         "domains": [
             "cz.affilbox.cz"
         ]
     },
     {
         "company_name": "2cnt.net",
+        "type": "ad",
         "domains": [
             "pl02.prolitteris.2cnt.net"
         ]
     },
     {
         "company_name": "A8.net",
+        "type": "ad",
         "domains": [
             "a8.net"
         ]
     },
     {
         "company_name": "Actionlink.jp",
+        "type": "ad",
         "domains": [
             "mm.actionlink.jp"
         ]
     },
     {
         "company_name": "AD EBiS",
+        "type": "ad",
         "domains": [
             "ebis.ne.jp"
         ]
     },
     {
         "company_name": "AdSpyglass",
+        "type": "ad",
         "domains": [
             "0i0i0i0.com"
         ]
     },
     {
         "company_name": "ads2.bid",
+        "type": "ad",
         "domains": [
             "ads.bid"
         ]
     },
     {
         "company_name": "AT Internet (formerly XiTi)",
+        "type": "tracker",
         "domains": [
             "at-o.net"
         ]
     },
     {
         "company_name": "Act-On",
+        "type": "ad",
         "domains": [
             "actonservice.com",
             "actonsoftware.com"
@@ -56,6 +65,7 @@
     },
     {
         "company_name": "Adobe Experience Cloud (formerly Omniture)",
+        "type": "ad",
         "domains": [
             "2o7.net",
             "data.adobedc.net",
@@ -65,30 +75,35 @@
     },
     {
         "company_name": "ahacdn.me",
+        "type": "ad",
         "domains": [
             "cdn18685953.ahacdn.me"
         ]
     },
     {
         "company_name": "Branch.io",
+        "type": "tracker",
         "domains": [
             "thirdparty.bnc.lt"
         ]
     },
     {
         "company_name": "Clickaine",
+        "type": "tracker",
         "domains": [
             "api.clickaine.com"
         ]
     },
     {
         "company_name": "Commanders Act",
+        "type": "tracker",
         "domains": [
             "tagcommander.com"
         ]
     },
     {
         "company_name": "Criteo",
+        "type": "tracker",
         "domains": [
             "dnsdelegation.io",
             "storetail.io"
@@ -96,6 +111,7 @@
     },
     {
         "company_name": "DataUnlocker",
+        "type": "tracker",
         "domains": [
             "dataunlocker.com",
             "monopoly-drain.ga",
@@ -104,18 +120,21 @@
     },
     {
         "company_name": "Ensighten",
+        "type": "tracker",
         "domains": [
             "nc0.co"
         ]
     },
     {
         "company_name": "Eulerian",
+        "type": "tracker",
         "domains": [
             "eulerian.net"
         ]
     },
     {
         "company_name": "Extole",
+        "type": "ad",
         "domains": [
             "extole.com",
             "extole.io"
@@ -123,72 +142,84 @@
     },
     {
         "company_name": "Fathom",
+        "type": "tracker",
         "domains": [
             "fathomdns.com"
         ]
     },
     {
         "company_name": "GENIEE",
+        "type": "ad",
         "domains": [
             "genieespv.jp"
         ]
     },
     {
         "company_name": "GMO Internet Group",
+        "type": "ad",
         "domains": [
             "ad-cloud.jp"
         ]
     },
     {
         "company_name": "heleric.com",
+        "type": "ad",
         "domains": [
             "heleric.com"
         ]
     },
     {
         "company_name": "INFOnline",
+        "type": "tracker",
         "domains": [
             "iocnt.net"
         ]
     },
     {
         "company_name": "Ingenious Technologies",
+        "type": "ad",
         "domains": [
             "affex.org"
         ]
     },
     {
         "company_name": "Keyade",
+        "type": "ad",
         "domains": [
             "k.keyade.com"
         ]
     },
     {
         "company_name": "Lead Forensics",
+        "type": "tracker",
         "domains": [
             "ghochv3eng.trafficmanager.net"
         ]
     },
     {
         "company_name": "LexisNexis Risk Solutions",
+        "type": "tracker",
         "domains": [
             "online-metrix.net"
         ]
     },
     {
         "company_name": "Logly",
+        "type": "tracker",
         "domains": [
             "logly.co.jp"
         ]
     },
     {
         "company_name": "NameSilo",
+        "type": "tracker",
         "domains": [
             "ab1n.net"
         ]
     },
     {
         "company_name": "Nativo",
+        "type": "tracker",
         "domains": [
             "ntv.io",
             "ntvpforever.com",
@@ -197,54 +228,63 @@
     },
     {
         "company_name": "NP6",
+        "type": "tracker",
         "domains": [
             "tracking.bp01.net"
         ]
     },
     {
         "company_name": "Oracle Eloqua",
+        "type": "tracker",
         "domains": [
             "t.eloqua.com"
         ]
     },
     {
         "company_name": "Otto Group",
+        "type": "ad",
         "domains": [
             "oghub.io"
         ]
     },
     {
         "company_name": "Pardot",
+        "type": "ad",
         "domains": [
             "go.pardot.com"
         ]
     },
     {
         "company_name": "Parse.ly",
+        "type": "tracker",
         "domains": [
             "parsely.com"
         ]
     },
     {
         "company_name": "Plausible Analytics",
+        "type": "tracker",
         "domains": [
             "custom.plausible.io"
         ]
     },
     {
         "company_name": "PopCash",
+        "type": "ad",
         "domains": [
             "popcashjs.b-cdn.net"
         ]
     },
     {
         "company_name": "RedTrack",
+        "type": "tracker",
         "domains": [
             "rdtk.io"
         ]
     },
     {
         "company_name": "TraceDock",
+        "type": "tracker",
         "domains": [
             "a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com",
             "a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com",
@@ -254,6 +294,7 @@
     },
     {
         "company_name": "Webtrekk",
+        "type": "tracker",
         "domains": [
             "webtrekk.net",
             "wt-eu02.net"
@@ -261,12 +302,14 @@
     },
     {
         "company_name": "Webair",
+        "type": "tracker",
         "domains": [
             "ak-is2.net"
         ]
     },
     {
         "company_name": "Wizaly",
+        "type": "tracker",
         "domains": [
             "wizaly.com"
         ]
