@@ -1,0 +1,40 @@
+#
+# Company name: GMO Internet Group
+#
+# ad-cloud.jp disguised trackers
+#
+d.image-ad.jp
+d.newssuite.sony.net
+favor1.fractal.jp
+i.newssuite.sony.net
+j.image-ad.jp
+j.newssuite.sony.net
+manage.newssuite.sony.net
+newssuite.sony.net
+#
+# site-112900816347.gslb5.sakura.ne.jp disguised trackers
+#
+d.image-ad.jp
+d.newssuite.sony.net
+#
+# e10217.g.akamaiedge.net disguised trackers
+#
+i.image-ad.jp
+video.sp.gmossp-sp.jp
+#
+# e26817.f.akamaiedge.net disguised trackers
+#
+i.newssuite.sony.net
+j.newssuite.sony.net
+#
+# e10217.f.akamaiedge.net disguised trackers
+#
+j.image-ad.jp
+#
+# site-113001687131.gslb7.sakura.ne.jp disguised trackers
+#
+manage.newssuite.sony.net
+#
+# newssuite-sony-net.storage.googleapis.com disguised trackers
+#
+newssuite.sony.net

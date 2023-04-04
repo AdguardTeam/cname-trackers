@@ -10,6 +10,7 @@
 123.manga1001.top CNAME .
 1d88r44d9t.nelasleaks.com CNAME .
 2bx0h7o3zw.nelasleaks.com CNAME .
+3.premihub.xyz CNAME .
 3weg314.2conv.com CNAME .
 5475feaab.clicknplay.to CNAME .
 58745.clicknplay.to CNAME .
@@ -72,6 +73,7 @@ a.travelbdnews.xyz CNAME .
 a.unblock2303.xyz CNAME .
 a.viralnewsbd.xyz CNAME .
 a.warddogs.com CNAME .
+a.worldporncomix.com CNAME .
 a.xmanga.online CNAME .
 a.xxxrotator.com CNAME .
 a.zillastream.com CNAME .
@@ -115,6 +117,7 @@ amaz.emailon.top CNAME .
 amazoni.lol CNAME .
 analdinall.com CNAME .
 analik.icu CNAME .
+anti.347movie.com CNAME .
 anti.nukedfans.com CNAME .
 anti.uiiumovies.net CNAME .
 antiadblock.info CNAME .
@@ -144,6 +147,7 @@ asg.faperoni.com CNAME .
 asg.justthegays.com CNAME .
 asg.laivue.com CNAME .
 asg.mrporn.online CNAME .
+asg.nude-famous-people.com CNAME .
 asg.page-x.com CNAME .
 asg.phukienthoitranggiare.com CNAME .
 asg.pornomoglie.com CNAME .
@@ -225,6 +229,7 @@ chartlon.skin CNAME .
 chen.pepelela.mom CNAME .
 chicipu.lol CNAME .
 chvylonz.lol CNAME .
+click.fastupload.io CNAME .
 client2009x25.xcdn.ovh CNAME .
 cobuaz.lol CNAME .
 coco.rockdilla.com CNAME .
@@ -316,6 +321,7 @@ iez.jojome.xyz CNAME .
 imbdemfjjduu.cdnvideo3.com CNAME .
 in.fuckhardclips.com CNAME .
 io.fapnado.com CNAME .
+io.fapnado.xxx CNAME .
 io.fapnow.xxx CNAME .
 ipx.7mmtv.top CNAME .
 ix2.deepsexvids.com CNAME .
@@ -328,6 +334,7 @@ javgiga.com.7mmtv.top CNAME .
 javgiga.com.jav-7mmtv.top CNAME .
 javmost.cx.7mmtv.top CNAME .
 javmost.cx.jav-7mmtv.top CNAME .
+jo.429men.com CNAME .
 jo.fapnado.xxx CNAME .
 jo.fapnow.xxx CNAME .
 js.j8jp.com CNAME .
@@ -416,6 +423,7 @@ oi.lesbianbliss.com CNAME .
 oi.transhero.com CNAME .
 oj.4wank.com CNAME .
 oj.fapnado.xxx CNAME .
+oj.fapnow.xxx CNAME .
 onetwohub.com CNAME .
 ontj.com CNAME .
 opus.sexyxxx.biz CNAME .
@@ -488,6 +496,7 @@ scuoo.porneq.co CNAME .
 sda.seksohub.com CNAME .
 sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
+serve.bdsmstreak.com CNAME .
 sex.moviesporn.eu CNAME .
 sg.xclick24.com CNAME .
 sgzhg.pornlovo.co CNAME .
@@ -574,13 +583,16 @@ www.areliux.cc CNAME .
 www.bigboy.monster CNAME .
 www.bloblohub.com CNAME .
 www.hq3x.com CNAME .
+www.javtvnow.xyz CNAME .
 www.letstry69.xyz CNAME .
 www.myxozilla.icu CNAME .
 www.p123p.com CNAME .
+www.shemale.team CNAME .
 www.u808i.com CNAME .
 www.upcdn.site CNAME .
 www.w00t.us CNAME .
 www.zqwe.ru CNAME .
+www4.hentai-rpg.com CNAME .
 www4.hentaigamecg.com CNAME .
 www6.freeanimesource.com CNAME .
 www6.hentai-zone.com CNAME .
@@ -612,5 +624,4 @@ cdn.manhwadesu.me CNAME .
 ;
 ; u53.hypnorat.com disguised trackers
 ;
-ontj.com CNAME .
-qhip.com CNAME .
+h-ay.com CNAME .

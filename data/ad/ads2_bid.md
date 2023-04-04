@@ -79,6 +79,7 @@
 | avb-sing.xw1fx50x35.com | sing.lb.rtb.ads.bid |
 | di-res-sing.8njhhs0ivx.com | sing.lb.rtb.ads.bid |
 | di-res-sing.cau1aighae.com | sing.lb.rtb.ads.bid |
+| di-res-sing.jsgbmmcapc.com | sing.lb.rtb.ads.bid |
 | di-res-sing.t4ergzwf7r.com | sing.lb.rtb.ads.bid |
 | di-res-sing.xw1fx50x35.com | sing.lb.rtb.ads.bid |
 | sing.3h1fpq39jb.ru | sing.lb.rtb.ads.bid |

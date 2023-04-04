@@ -83,6 +83,7 @@ sponsor.syracuse.com CNAME .
 53f90ea18c.ad64463ef9.com CNAME .
 55bff2103f.f451b7f622.com CNAME .
 5691f27b38.77176d9509.com CNAME .
+56a7ca381c.a4de9aca80.com CNAME .
 57a8023ce9.1aa3097b7b.com CNAME .
 58ac5dbcb6.34946d7678.com CNAME .
 597eb96e9c.299f70c6b2.com CNAME .
@@ -245,6 +246,7 @@ dc2f9c5622.55f9d6e755.com CNAME .
 df3e591f6c.5d8f7f3a02.com CNAME .
 df53ff2b97.bcb3da3ac8.com CNAME .
 dfc8514de8.1ca65f5f5b.com CNAME .
+e099af5046.08dc0b0152.com CNAME .
 e144c46b1f.ab910ac1aa.com CNAME .
 e1de143963.cc3f3eedbb.com CNAME .
 e341c11575.f63f3176ad.com CNAME .
@@ -280,30 +282,33 @@ ffe405491d.28b67b8230.com CNAME .
 ;
 ; postrelease.com disguised trackers
 ;
-a135.fox23.com CNAME .
-a135.wsbtv.com CNAME .
-a235.middletownpress.com CNAME .
-ajc.share.ntv.io CNAME .
-cricketwireless.share.ntv.io CNAME .
-fortune.share.ntv.io CNAME .
+a135.htvnativeadsolutions.com CNAME .
+a135.wftv.com CNAME .
+a235.htvnativeadsolutions.com CNAME .
+northbaybusinessjournal.share.ntv.io CNAME .
 share.ntv.io CNAME .
-shared.sponsoredcontent.com CNAME .
-wvtm13.share.ntv.io CNAME .
+smosh.share.ntv.io CNAME .
 ;
 ; jadserve.postrelease.com.akadns.net disguised trackers
 ;
+a135.fox23.com CNAME .
 a135.wftv.com CNAME .
+a135.wsbtv.com CNAME .
 a614.al.com CNAME .
 a614.masslive.com CNAME .
 a614.nj.com CNAME .
 a614.pennlive.com CNAME .
+ajc.share.ntv.io CNAME .
+cricketwireless.share.ntv.io CNAME .
 csoonline.share.ntv.io CNAME .
 entrepreneur.share.ntv.io CNAME .
+fortune.share.ntv.io CNAME .
 mlive.share.ntv.io CNAME .
 nj.finegardening.com CNAME .
 pressdemocrat.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
+wvtm13.share.ntv.io CNAME .
 ;
 ; unavailable.hearstnp.com disguised trackers
 ;

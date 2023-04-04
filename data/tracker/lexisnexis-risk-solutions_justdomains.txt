@@ -267,6 +267,7 @@ content.tab.com.au
 content.telusinternational.ai
 content.usps.com
 content.varetire.org
+content.washingtonnational.com
 content.westcreekfin.com
 content.wizink.es
 content1.reprisefinancial.com
@@ -343,6 +344,7 @@ df.fragrancex.com
 df.greenmangaming.com
 df.thumbtack.com
 dfp.garmin.com
+dfp.s-budget-mobile.at
 dfp.t-mobile.at
 dfp.telering.at
 did.fashionworld.co.uk

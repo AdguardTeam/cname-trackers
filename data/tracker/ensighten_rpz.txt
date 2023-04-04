@@ -111,6 +111,7 @@ businessmetrics.syf.com CNAME .
 cm.oneidentity.com CNAME .
 cm.quest.com CNAME .
 cmp.dieteren.be CNAME .
+cmp.seat.be CNAME .
 co-operative.activate.ensighten.com CNAME .
 coke.activate.ensighten.com CNAME .
 consent.irvinecompany.com CNAME .
@@ -138,6 +139,7 @@ cookies.jll.de CNAME .
 cookies.jll.es CNAME .
 cookies.jll.fi CNAME .
 cookies.jll.fr CNAME .
+cookies.jll.hu CNAME .
 cookies.jll.it CNAME .
 cookies.jll.lu CNAME .
 cookies.jll.nl CNAME .

@@ -83,6 +83,7 @@ sponsor.syracuse.com
 53f90ea18c.ad64463ef9.com
 55bff2103f.f451b7f622.com
 5691f27b38.77176d9509.com
+56a7ca381c.a4de9aca80.com
 57a8023ce9.1aa3097b7b.com
 58ac5dbcb6.34946d7678.com
 597eb96e9c.299f70c6b2.com
@@ -245,6 +246,7 @@ dc2f9c5622.55f9d6e755.com
 df3e591f6c.5d8f7f3a02.com
 df53ff2b97.bcb3da3ac8.com
 dfc8514de8.1ca65f5f5b.com
+e099af5046.08dc0b0152.com
 e144c46b1f.ab910ac1aa.com
 e1de143963.cc3f3eedbb.com
 e341c11575.f63f3176ad.com
@@ -280,30 +282,33 @@ ffe405491d.28b67b8230.com
 #
 # postrelease.com disguised trackers
 #
-a135.fox23.com
-a135.wsbtv.com
-a235.middletownpress.com
-ajc.share.ntv.io
-cricketwireless.share.ntv.io
-fortune.share.ntv.io
+a135.htvnativeadsolutions.com
+a135.wftv.com
+a235.htvnativeadsolutions.com
+northbaybusinessjournal.share.ntv.io
 share.ntv.io
-shared.sponsoredcontent.com
-wvtm13.share.ntv.io
+smosh.share.ntv.io
 #
 # jadserve.postrelease.com.akadns.net disguised trackers
 #
+a135.fox23.com
 a135.wftv.com
+a135.wsbtv.com
 a614.al.com
 a614.masslive.com
 a614.nj.com
 a614.pennlive.com
+ajc.share.ntv.io
+cricketwireless.share.ntv.io
 csoonline.share.ntv.io
 entrepreneur.share.ntv.io
+fortune.share.ntv.io
 mlive.share.ntv.io
 nj.finegardening.com
 pressdemocrat.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
+wvtm13.share.ntv.io
 #
 # unavailable.hearstnp.com disguised trackers
 #

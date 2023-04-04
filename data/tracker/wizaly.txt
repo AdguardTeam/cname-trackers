@@ -6,6 +6,7 @@
 ||t-test.esvdigital.com^
 ||t.wiz.meilleurtaux.com^
 ||tk.abt.com^
+||tk.agrizone.net^
 ||tk.aircaraibes.com^
 ||tk.airfrance.ae^
 ||tk.airfrance.am^

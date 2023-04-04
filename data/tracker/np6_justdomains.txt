@@ -5,6 +5,7 @@
 #
 emailing.casden.banquepopulaire.fr
 epm.mailperformance.com
+mailtracking.tf1.com
 mp.pitchero.com
 newsletter.ticketac.com
 shortener.np6.com
@@ -58,6 +59,7 @@ tr.asp10cr.espmp-nifr.net
 tr.asp10fa.espmp-cufr.net
 tr.asp10ge.espmp-nifr.net
 tr.asp10h2.espmp-nifr.net
+tr.asp10hc.espmp-aufr.net
 tr.asp10hi.espmp-cufr.net
 tr.asp10hj.espmp-pofr.net
 tr.asp2.espmp-agfr.net
@@ -189,6 +191,7 @@ tr.courrier.sudouest.fr
 tr.credito.universo.pt
 tr.crtl.espmp-aufr.net
 tr.cyprusparadiseestates.com
+tr.cypruspremiervacations.com
 tr.datacom.espmp-pofr.net
 tr.devis-companeo.be
 tr.devis-companeo.com
@@ -385,6 +388,7 @@ tr.info.rouen.aeroport.fr
 tr.info.rouen.cci.fr
 tr.info.snpden.net
 tr.info.solidarm.fr
+tr.info.svp.com
 tr.info.valcenis.com
 tr.info.vip-mag.co.uk
 tr.infolettre.securite-routiere.gouv.fr
@@ -485,6 +489,7 @@ tr.mh-connect.moethennessy.com
 tr.mhch.moet.hennessy.com
 tr.mhdconnect.mhdfrance.fr
 tr.mhist.moethennessy.com
+tr.mhusa-trade-engagement.moethennessy.com
 tr.mijn-superaanbieding.be
 tr.mijnaanbieding.renowizz.be
 tr.mika.espmp-nifr.net
@@ -565,6 +570,7 @@ tr.news.eurodatatv.com
 tr.news.exclu.fr
 tr.news.externis.com
 tr.news.flandrintechnologies.com
+tr.news.frame.fr
 tr.news.futuramedia.fr
 tr.news.geantcasino.fr
 tr.news.geomag.fr
@@ -591,6 +597,7 @@ tr.news.lacollection-airfrance.be
 tr.news.lacollection-airfrance.ch
 tr.news.lacollection-airfrance.co.uk
 tr.news.lacollection-airfrance.fr
+tr.news.lacollectionair-france.fr
 tr.news.lacollectionairfrance.be
 tr.news.lacollectionairfrance.co.uk
 tr.news.lacollectionairfrance.de
@@ -619,6 +626,7 @@ tr.news.onetoonemba.com
 tr.news.ouestnormandie.cci.fr
 tr.news.parisinfo.com
 tr.news.perfectstay.com
+tr.news.perl.fr
 tr.news.receiveyourquote.co.uk
 tr.news.retailglobalsolutions.com
 tr.news.roadzila.com
@@ -666,7 +674,6 @@ tr.newsletter.erenumerique.fr
 tr.newsletter.etoiledevenus.com
 tr.newsletter.fotodiscount.com
 tr.newsletter.huilesdolive.fr
-tr.newsletter.lafabriqueaviva.fr
 tr.newsletter.leocare.eu
 tr.newsletter.location.boulanger.com
 tr.newsletter.meilleurmobile.com
@@ -732,6 +739,7 @@ tr.orcamentos-companeo.pt
 tr.oxatis.devisdirect.com
 tr.panels-mediametrie.fr
 tr.part.offres-cartegie.fr
+tr.partenaire.groupe-vyv.fr
 tr.partenaire.manageo.info
 tr.particuliers8.engie.com
 tr.partners.younited-credit.it
@@ -826,11 +834,13 @@ tr.tns.harmonie-mutuelle.fr
 tr.toner-service.fr
 tr.toner-services.fr
 tr.tonerservices.fr
+tr.tourisme.visit-lanarbonnaise.com
 tr.trafficnews.lyria.com
 tr.ujsv.espmp-agfr.net
 tr.uk.icicibank.com
 tr.uk.katun.com
 tr.unaoffertaalgiorno.com
+tr.unimy-beyond.com
 tr.update.groupon.be
 tr.urfk02r.espmp-nifr.net
 tr.urfk02v.espmp-cufr.net
@@ -874,6 +884,7 @@ tr.welcome.odalys-vacances.com
 tr.welcome.smartdeals-transavia-fr.com
 tr.wuei.espmp-agfr.net
 tr.xleads.digital
+tr1.bp06.net
 tr1.citroen-ipsos.com
 tr1.lr003.net
 tr1.mailperf.com

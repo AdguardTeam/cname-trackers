@@ -45,12 +45,12 @@ aod4.societegenerale.fr
 ar.allrun.fr
 ar.i-run.fr
 azg1.emalu-store.com
-b1n.carabins.umontreal.ca
 bch8.destinia.co
 bdj5.terrassesmontecarlosbm.com
 bft5.destinia.fr
 bja2.destinia.cz
 bk.brookeo.fr
+bn.voyage-prive.com
 bpe2.destinia.co.il
 bum7.bymycar.fr
 bvz5.destinia.com.tr
@@ -214,6 +214,7 @@ eulerian.voyage-prive.com
 eultech.fnac.com
 exd4.destinia.com.au
 f0nn.oney.fr
+f2.voyage-prive.com
 fal2.carrefour-banque.fr
 fbu8.hoteldeparismontecarlo.com
 fbu8.hotelhermitagemontecarlo.com
@@ -227,6 +228,7 @@ fec1.optimhome.com
 fek1.fnactickets.com
 fkwc.sfr.fr
 fl5dpe.oui.sncf
+fma7.aegon.es
 fpb8.esce.fr
 fsz1.francoisesaget.com
 fzb5.laboratoire-giphar.fr
@@ -277,7 +279,6 @@ lsv5.belambra.fr
 ltm6.destinia.se
 ly8c.caci-online.fr
 lzuc.sfr.fr
-m10.m1029.com
 m3ds.subarumetropolitain.com
 mfd.myfirstdressing.com
 mgt7.madeindesign.it
@@ -320,6 +321,7 @@ ogb2.natessance.com
 ogb2.sobio-etic.com
 oit4.destinia.com.br
 ojm4.palladiumhotelgroup.com
+one2.onestep.fr
 oo.ooshop.com
 oph7o.montecarlosbm-corporate.com
 oqr4.destinia.in
@@ -468,6 +470,7 @@ zdx5.destinia.pe
 zkc5.fleurancenature.fr
 znq9.destinia.mx
 zrw1.destinia.jp
+zs.voyage-prive.com
 zsi7.destinia.do
 zum7cc.oui.sncf
 zyq2.destinia.sk
@@ -478,8 +481,6 @@ zyq2.destinia.sk
 b1n.carabins.umontreal.ca
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
-d0f.le-dauphin.com
-d2u.dauphinquebec.com
 eat9.thebeat925.ca
 erb.tremblant.ca
 hk2d.tourismemauricie.com

@@ -6,6 +6,7 @@
     * citi.online-metrix.net
     * h-10kdwzzr.online-metrix.net
     * h-11b6fun8-bl.online-metrix.net
+    * h-11b6fun8-wn.online-metrix.net
     * h-15wc9fpp.online-metrix.net
     * h-16vzjy52.online-metrix.net
     * h-1dwgke3d.online-metrix.net
@@ -154,6 +155,7 @@
     * h-bscelhtc.online-metrix.net
     * h-bt.online-metrix.net
     * h-btcmgcxc.online-metrix.net
+    * h-budget-mobile.online-metrix.net
     * h-buyfun.online-metrix.net
     * h-buzyvpj9.online-metrix.net
     * h-bw1fkozp.online-metrix.net
@@ -619,6 +621,7 @@
 | content22.citi.com | citi.online-metrix.net |
 | h.truist.com | h-10kdwzzr.online-metrix.net |
 | content.bankerslife.com | h-11b6fun8-bl.online-metrix.net |
+| content.washingtonnational.com | h-11b6fun8-wn.online-metrix.net |
 | tmln.caesarscasino.com | h-15wc9fpp.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
@@ -807,6 +810,7 @@
 | verification.ndtco.com | h-bscelhtc.online-metrix.net |
 | cdn1.thm.panoramainvestor.com.au | h-bt.online-metrix.net |
 | tags.s-dati.com | h-btcmgcxc.online-metrix.net |
+| dfp.s-budget-mobile.at | h-budget-mobile.online-metrix.net |
 | securecheckout.halloweencostumes.com | h-buyfun.online-metrix.net |
 | abc.pulsebet.com | h-buzyvpj9.online-metrix.net |
 | tmxjs.tokyodisneyresort.jp | h-bw1fkozp.online-metrix.net |

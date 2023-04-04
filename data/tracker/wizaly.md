@@ -6,6 +6,7 @@
     * t-test.wizaly.com
     * t.wizaly.com
     * tk-abt-com.wizaly.com
+    * tk-agrizone-net.wizaly.com
     * tk-aircaraibes-com.wizaly.com
     * tk-alexandermcqueen-com.wizaly.com
     * tk-apprentis-auteuil-com.wizaly.com
@@ -65,6 +66,7 @@
 | twiz.wizaly.co.uk | t.wizaly.com |
 | twiz.wizaly.fr | t.wizaly.com |
 | tk.abt.com | tk-abt-com.wizaly.com |
+| tk.agrizone.net | tk-agrizone-net.wizaly.com |
 | tk.aircaraibes.com | tk-aircaraibes-com.wizaly.com |
 | tk.alexandermcqueen.com | tk-alexandermcqueen-com.wizaly.com |
 | tk.apprentis-auteuil.org | tk-apprentis-auteuil-com.wizaly.com |

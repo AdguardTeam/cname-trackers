@@ -27,10 +27,12 @@ ca.encurlergon.com CNAME .
 cb.rompercava.com CNAME .
 ck.abdalpaces.com CNAME .
 cu.fullssmirker.com CNAME .
+dc.swartlybeebee.com CNAME .
 dd.zillahhayers.com CNAME .
 dg.durgahsursize.com CNAME .
 dg.folksychapes.com CNAME .
 dl.fatimacapos.com CNAME .
+do.chimblyconyger.com CNAME .
 du.jubhahbalize.com CNAME .
 dv.citricesu.com CNAME .
 ef.betosslingala.com CNAME .
@@ -82,6 +84,7 @@ ks.dagamemisdeed.com CNAME .
 ku.eftesthalms.com CNAME .
 kv.patenssabzi.com CNAME .
 ld.stengskelped.com CNAME .
+lf.minyascannat.com CNAME .
 lf.unvenomangst.com CNAME .
 lg.feoffortapetis.com CNAME .
 lq.kuliposits.com CNAME .
@@ -106,6 +109,7 @@ oz.lokaforky.com CNAME .
 pk.axitessubclei.com CNAME .
 pq.carlingquerent.com CNAME .
 pr.hefterunmete.com CNAME .
+pv.wiglessoctaves.com CNAME .
 qb.falsenalice.com CNAME .
 qd.loathesentour.com CNAME .
 qo.dunganof.com CNAME .

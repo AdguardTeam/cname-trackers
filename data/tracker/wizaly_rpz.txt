@@ -6,6 +6,7 @@
 t-test.esvdigital.com CNAME .
 t.wiz.meilleurtaux.com CNAME .
 tk.abt.com CNAME .
+tk.agrizone.net CNAME .
 tk.aircaraibes.com CNAME .
 tk.airfrance.ae CNAME .
 tk.airfrance.am CNAME .

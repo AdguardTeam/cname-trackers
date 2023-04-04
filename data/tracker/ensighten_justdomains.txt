@@ -111,6 +111,7 @@ businessmetrics.syf.com
 cm.oneidentity.com
 cm.quest.com
 cmp.dieteren.be
+cmp.seat.be
 co-operative.activate.ensighten.com
 coke.activate.ensighten.com
 consent.irvinecompany.com
@@ -138,6 +139,7 @@ cookies.jll.de
 cookies.jll.es
 cookies.jll.fi
 cookies.jll.fr
+cookies.jll.hu
 cookies.jll.it
 cookies.jll.lu
 cookies.jll.nl

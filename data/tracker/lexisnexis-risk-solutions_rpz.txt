@@ -267,6 +267,7 @@ content.tab.com.au CNAME .
 content.telusinternational.ai CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
+content.washingtonnational.com CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
 content1.reprisefinancial.com CNAME .
@@ -343,6 +344,7 @@ df.fragrancex.com CNAME .
 df.greenmangaming.com CNAME .
 df.thumbtack.com CNAME .
 dfp.garmin.com CNAME .
+dfp.s-budget-mobile.at CNAME .
 dfp.t-mobile.at CNAME .
 dfp.telering.at CNAME .
 did.fashionworld.co.uk CNAME .
