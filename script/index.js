@@ -63,8 +63,14 @@ const main = async () => {
         // deconstruct the object into company name, domains, type and assign
         const { company_name: companyName, domains, type: companyType } = cloakingTrackers[i];
 
+        // plural form of company type for folder name and combined tracker file names
+        // in cloaked-trackers.json - "type: ad"
+        // in the data directory - folder "ads"
+        // combined tracker file name - "combined_disguised_ads.txt"
+        const companyTypePlural = `${companyType}s`;
+
         // path for directory with companyType name
-        const dirPath = path.resolve(__dirname, DATA_DIR, companyType);
+        const dirPath = path.resolve(__dirname, DATA_DIR, companyTypePlural);
 
         console.log(`Fetching for tracker: ${companyName}`);
 
@@ -109,14 +115,14 @@ const main = async () => {
 
                 // create json file
                 await fs.writeFile(
-                    path.resolve(__dirname, DATA_DIR, companyType, `${companyFileName}.${JSON_FILE_EXTENSION}`),
+                    path.resolve(__dirname, DATA_DIR, companyTypePlural, `${companyFileName}.${JSON_FILE_EXTENSION}`),
                     JSON.stringify(stashedInfo, null, 2),
                 );
 
                 // save stashed data to combined data object to save it later.
                 // note: `companyType` here is an actual type from the config
-                rawCombinedData[companyType] = {
-                    ...rawCombinedData[companyType],
+                rawCombinedData[companyTypePlural] = {
+                    ...rawCombinedData[companyTypePlural],
                     ...stashedInfo,
                 };
             } catch (e) {
@@ -133,7 +139,13 @@ const main = async () => {
             const descString = await buildDesc(trackersData, domains);
 
             // create md file
-            await fs.writeFile(path.resolve(__dirname, DATA_DIR, companyType, `${companyFileName}.md`), descString);
+            await fs.writeFile(path.resolve(
+                __dirname,
+                DATA_DIR,
+                companyTypePlural,
+                `${companyFileName}.md`,
+            ),
+            descString);
 
             // create strings in other formats
             const {
@@ -145,7 +157,7 @@ const main = async () => {
                 path.resolve(
                     __dirname,
                     DATA_DIR,
-                    companyType,
+                    companyTypePlural,
                     `${companyFileName}.${RULES_FILE_EXTENSION}`,
                 ),
                 baseRulesString,
@@ -154,7 +166,7 @@ const main = async () => {
                 path.resolve(
                     __dirname,
                     DATA_DIR,
-                    companyType,
+                    companyTypePlural,
                     `${companyFileName}${HOSTS_RULES_FILE_NAME_ENDING}.${RULES_FILE_EXTENSION}`,
                 ),
                 hostsRulesString,
@@ -163,7 +175,7 @@ const main = async () => {
                 path.resolve(
                     __dirname,
                     DATA_DIR,
-                    companyType,
+                    companyTypePlural,
                     `${companyFileName}${RPZ_RULES_FILE_NAME_ENDING}.${RULES_FILE_EXTENSION}`,
                 ),
                 rpzRulesString,

@@ -57,10 +57,12 @@ that disguise the real trackers by using CNAME records. Use in any traditional c
     * [Adblock-style syntax](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style):
         ```
         https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_ads.txt
         ```
     * [Just domain names](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#domains-only-syntax):
         ```
         https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_ads_justdomains.txt
         ```
 
 If you run your own DNS server which supports [Response Policy Zones (RPZ)](https://www.dnsrpz.info),
@@ -71,6 +73,7 @@ that disguise the real trackers by using CNAME records. Use with a compatible DN
     * RPZ format:
         ```
         https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_rpz.txt
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_ads_rpz.txt
         ```
 
 You will need to prepend your own SOA and NS records. Consult the documentation of your DNS server
