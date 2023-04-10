@@ -3,12 +3,12 @@
 !
 ! tagcommander.com disguised trackers
 !
-||acquisition.klm.com^
 ||data.decathlon.co.uk^
 ||data.decathlon.de^
 ||data.decathlon.es^
 ||data.decathlon.fr^
 ||data.decathlon.pl^
+||data.ouigo.com^
 ||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^

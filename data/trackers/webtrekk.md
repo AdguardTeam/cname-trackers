@@ -98,6 +98,7 @@
     * 524656123914087.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
+    * 554833903189763.wt-eu02.net
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
     * 590838755166551.wt-eu02.net
@@ -150,6 +151,7 @@
     * 965607891904117.wt-eu02.net
     * 969665527401678.wt-eu02.net
     * 982429105360946.wt-eu02.net
+    * 987593120374077.wt-eu02.net
     * 989502084988358.wt-eu02.net
     * 997311968670029.wt-eu02.net
     * airbusgroup-de01.wt-eu02.net
@@ -296,6 +298,7 @@
 | census.misterspex.no | 524656123914087.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
+| web.s.sasrx.com | 554833903189763.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
@@ -359,6 +362,7 @@
 | abc.bayer04.de | 969665527401678.wt-eu02.net |
 | dnsbl.test.wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
+| web.info.teamwarrior.com | 987593120374077.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
 | wbtrkk.teufelaudio.pl | 997311968670029.wt-eu02.net |
 | webts.adac.de | adac02.webtrekk.net |
@@ -450,6 +454,7 @@
 | img.foodspring.cz | img-foodspring01.wt-eu02.net |
 | img.foodspring.de | img-foodspring01.wt-eu02.net |
 | img.foodspring.dk | img-foodspring01.wt-eu02.net |
+| img.foodspring.es | img-foodspring01.wt-eu02.net |
 | img.foodspring.fr | img-foodspring01.wt-eu02.net |
 | img.foodspring.it | img-foodspring01.wt-eu02.net |
 | img.foodspring.se | img-foodspring01.wt-eu02.net |
@@ -534,7 +539,6 @@
 | data.volksfreund.de | volksfreund01.wt-eu02.net |
 | wa.planet-wissen.de | wa-wdr.wt-eu02.net |
 | wa.quarks.de | wa-wdr.wt-eu02.net |
-| wa.sportschau.de | wa-wdr.wt-eu02.net |
 | wa.wdr.de | wa-wdr.wt-eu02.net |
 | wa.wdrmaus.de | wa-wdr.wt-eu02.net |
 | images1.test.de | warentest-de01.webtrekk.net |

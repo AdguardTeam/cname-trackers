@@ -14,7 +14,6 @@ ilove.volusion.com CNAME .
 invite.toughmudder.com CNAME .
 r.gamerewind.nfl.com CNAME .
 r.preseason.nfl.com CNAME .
-refer-a-friend.trivantis.com CNAME .
 refer.aaas.org CNAME .
 refer.accountants.intuit.com CNAME .
 refer.ahsfriends.com CNAME .
@@ -48,6 +47,7 @@ refer.fuzebox.com CNAME .
 refer.gevalia.com CNAME .
 refer.gotoassist.com CNAME .
 refer.gotomeeting.com CNAME .
+refer.gotowebinar.com CNAME .
 refer.greenvilleonline.com CNAME .
 refer.hannaandersson.com CNAME .
 refer.harimari.com CNAME .
@@ -91,6 +91,7 @@ refer.transfast.com CNAME .
 refer.turbotax.intuit.com CNAME .
 refer.ulta.com CNAME .
 refer.unionplus.org CNAME .
+refer.urbandaddy.com CNAME .
 refer.usforex.com CNAME .
 refer.vantagetravel.com CNAME .
 refer.verabradley.com CNAME .
@@ -121,6 +122,7 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -321,7 +323,6 @@ refer.studentuniverse.com CNAME .
 refer.studentuniverse.com.au CNAME .
 refer.sugarandjade.com CNAME .
 refer.swansonvitamins.com CNAME .
-refer.swap.com CNAME .
 refer.take5oilchange.com CNAME .
 refer.tatcha.com CNAME .
 refer.taxact.com CNAME .
@@ -350,6 +351,7 @@ refer.vitaminshoppe.com CNAME .
 refer.whitehouseblackmarket.com CNAME .
 refer.wine.com CNAME .
 refer.wolverine.com CNAME .
+refer.xpressmoneyonline.com CNAME .
 refer.zazzlereferral.com CNAME .
 refer.zenhaven.com CNAME .
 refer.zipcar.ca CNAME .
@@ -450,6 +452,7 @@ share.iteach.net CNAME .
 share.juicepress.com CNAME .
 share.juvlabs.com CNAME .
 share.key.com CNAME .
+share.knoxnews.com CNAME .
 share.kumon.com CNAME .
 share.la-mariette.com CNAME .
 share.lark.com CNAME .
@@ -462,6 +465,7 @@ share.manscaped.com CNAME .
 share.medely.com CNAME .
 share.meettally.com CNAME .
 share.mtntough.com CNAME .
+share.mycarpe.com CNAME .
 share.myollie.com CNAME .
 share.myq.com CNAME .
 share.newarkadvocate.com CNAME .

@@ -20,11 +20,11 @@
 | app.rtnews.pro | api.clickaine.com |
 | app.willalland.info | api.clickaine.com |
 | asg.animeyt.es | api.clickaine.com |
+| asg.javhoho.com | api.clickaine.com |
 | asg.torocomoroco.work | api.clickaine.com |
 | asg.uzporn.com | api.clickaine.com |
 | axx.arabsex1.com | api.clickaine.com |
 | c.gotoxxxtube.com | api.clickaine.com |
-| c0n.tubestash.com | api.clickaine.com |
 | c2n.pornez.net | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
 | c4n.bigxxxsex.com | api.clickaine.com |

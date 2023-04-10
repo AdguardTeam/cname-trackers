@@ -86,6 +86,7 @@ abracadabrahub.com CNAME .
 acdn.uploads.mobi CNAME .
 ad.animeitaly.org CNAME .
 ad.emule-island.eu CNAME .
+ad.pornutopia.org CNAME .
 ad.ttstreaming.stream CNAME .
 ad.wawacity.xyz CNAME .
 adanald.icu CNAME .
@@ -101,6 +102,7 @@ ads.onetouchtv.me CNAME .
 ads.onlyfanspornvideo.com CNAME .
 ads.pornharlot.com CNAME .
 ads.pornharlot.net CNAME .
+ads.pornutopia.org CNAME .
 ads.saplacikardepo.xyz CNAME .
 ads.sturls.com CNAME .
 ads.tabuflix.com CNAME .
@@ -337,6 +339,7 @@ javmost.cx.jav-7mmtv.top CNAME .
 jo.429men.com CNAME .
 jo.fapnado.xxx CNAME .
 jo.fapnow.xxx CNAME .
+jo.hqbang.com CNAME .
 js.j8jp.com CNAME .
 js.manga9.co CNAME .
 js.mangapro.top CNAME .
@@ -354,6 +357,7 @@ kingtus.pics CNAME .
 kissjav.li.7mmtv.top CNAME .
 kissjav.li.jav-7mmtv.top CNAME .
 kliqz.com CNAME .
+krplss.click CNAME .
 kuhdsysdas.indexsubtitle.com CNAME .
 kx4.firstsexfilm.com CNAME .
 l9zkm.pleasedonotblockme.com CNAME .
@@ -383,6 +387,7 @@ marcusdevs.ru CNAME .
 maxcdn.dmm-video.online CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
+meoem.lol CNAME .
 messic.lol CNAME .
 meyd.7mmtv.top CNAME .
 mide.7mmtv.top CNAME .
@@ -480,10 +485,10 @@ rrree.baijav.com CNAME .
 rst.pornyhd.com CNAME .
 rtgy3r5.jav-7mmtv.top CNAME .
 rxxx.baijav.com CNAME .
-s.elitecdn.pl CNAME .
 s.freeporncave.com CNAME .
 s.oralblow.com CNAME .
 s.remonti.org CNAME .
+s1sentablya.teenfuckhd.com CNAME .
 s2.everydaygayporn.com CNAME .
 s4.sb89347.com CNAME .
 saituo.mom CNAME .
@@ -555,6 +560,7 @@ travkeoa.mom CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 tuckbos.lol CNAME .
+uacabilqlgpw.cdnvideo3.com CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
 umtpopxcsedc.cdnvideo3.com CNAME .
@@ -572,6 +578,7 @@ vuiaki.mom CNAME .
 vuvlog.lol CNAME .
 vz.7vid.net CNAME .
 w00t.us CNAME .
+waihoz.xyz CNAME .
 web.cinetux.nu CNAME .
 wp.zvideo.stream CNAME .
 ww.cvideos.stream CNAME .
@@ -582,6 +589,7 @@ www.antiadblock.info CNAME .
 www.areliux.cc CNAME .
 www.bigboy.monster CNAME .
 www.bloblohub.com CNAME .
+www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.javtvnow.xyz CNAME .
 www.letstry69.xyz CNAME .
@@ -615,7 +623,6 @@ yhu5tw3mn64.jav-7mmtv.top CNAME .
 youzok.lol CNAME .
 z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .
-zone.stripcam.tv CNAME .
 zzzzaaa.baijav.com CNAME .
 ;
 ; cdn66584302.blazingcdn.net disguised trackers
@@ -625,3 +632,4 @@ cdn.manhwadesu.me CNAME .
 ; u53.hypnorat.com disguised trackers
 ;
 h-ay.com CNAME .
+qhip.com CNAME .

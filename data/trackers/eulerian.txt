@@ -66,6 +66,7 @@
 ||ch0p.darty.com^
 ||cls7.theushuaiaexperience.com^
 ||cpgo.avatacar.com^
+||cph.credit-pret-hypothecaire.com^
 ||cse3.chausport.com^
 ||csm.magnetintell.com^
 ||csv4.ebs-paris.fr^
@@ -180,6 +181,7 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
+||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||et.sncf.com^
 ||et.swatch.com^

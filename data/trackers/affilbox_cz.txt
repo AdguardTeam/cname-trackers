@@ -25,6 +25,7 @@
 ||affil.cityzenwear.cz^
 ||affil.claimcloud.cz^
 ||affil.comamdelat.com^
+||affil.coolcocky.cz^
 ||affil.danfil.cz^
 ||affil.dobraprace.cz^
 ||affil.dotykacka.cz^
@@ -66,8 +67,10 @@
 ||affil.spravnykrok.cz^
 ||affil.stastnavovztahu.sk^
 ||affil.stronger-shop.cz^
+||affil.supervykon.cz^
 ||affil.svj-info.cz^
 ||affil.tadytuto.cz^
+||affil.trikator.cz^
 ||affil.triko4u.cz^
 ||affil.unuo.cz^
 ||affil.unuo.sk^
@@ -114,6 +117,7 @@
 ||affiliate.cocowoods.cz^
 ||affiliate.compik.cz^
 ||affiliate.coolcredit.cz^
+||affiliate.craftholsters.com^
 ||affiliate.cryptokingdom.cz^
 ||affiliate.deltareisen.cz^
 ||affiliate.designovynabytek.cz^
@@ -192,6 +196,7 @@
 ||affiliate.organikk.cz^
 ||affiliate.pasti.cz^
 ||affiliate.pestujzivotwebinar.cz^
+||affiliate.pesvbyte.cz^
 ||affiliate.petr-zeman.cz^
 ||affiliate.ph7.cz^
 ||affiliate.platanclinique.cz^
@@ -229,6 +234,7 @@
 ||affiliate.velebny.cz^
 ||affiliate.vianio.com^
 ||affiliate.vox.cz^
+||affiliate.warriorfactory.cz^
 ||affiliate.wugi.cz^
 ||affiliate.zdraviafitness.cz^
 ||affiliate.zdravykos.cz^
@@ -335,6 +341,7 @@
 ||my.weplaybasketball.cz^
 ||my.weplaybasketball.hu^
 ||my.weplaybasketball.ro^
+||my.weplaybasketball.si^
 ||my.weplaybasketball.sk^
 ||my.weplayhandball.cz^
 ||my.weplayhandball.gr^
@@ -387,6 +394,7 @@
 ||partner.chcivedet.com^
 ||partner.chevronnutrition.cz^
 ||partner.chiashake.cz^
+||partner.chilimarket.cz^
 ||partner.cocochocokeratin.cz^
 ||partner.cokoladovnajanek.cz^
 ||partner.colway.cz^
@@ -432,6 +440,7 @@
 ||partner.giulieta.shop^
 ||partner.gokids.cz^
 ||partner.granule-eshop.cz^
+||partner.gurufinance.cz^
 ||partner.hanamoneam.com^
 ||partner.hemptor.cz^
 ||partner.hodinarstvi.cz^
@@ -556,6 +565,7 @@
 ||partner.totalniplavani.cz^
 ||partner.tyano.cz^
 ||partner.umio.sk^
+||partner.uniquefit.sk^
 ||partner.unuo.de^
 ||partner.vajacandle.cz^
 ||partner.vataonline.cz^
@@ -640,6 +650,7 @@
 ||partneri.minshop.cz^
 ||partneri.minus-age.cz^
 ||partneri.mixano.cz^
+||partneri.monikakorinkova.cz^
 ||partneri.motmot.cz^
 ||partneri.mrblast.eu^
 ||partneri.muzeslepe.cz^
@@ -704,6 +715,7 @@
 ||partners.puravidashop.cz^
 ||partners.quantexpo.com^
 ||partners.spiritradar.com^
+||plus.mameradivlasy.cz^
 ||program.biocitia.eu^
 ||promo.smskouc.cz^
 ||provize.3dfitness.cz^

@@ -138,6 +138,7 @@ img.foodspring.ch CNAME .
 img.foodspring.cz CNAME .
 img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
+img.foodspring.es CNAME .
 img.foodspring.fr CNAME .
 img.foodspring.it CNAME .
 img.foodspring.se CNAME .
@@ -214,7 +215,6 @@ w7.berliner-silvester.de CNAME .
 w7.weihnachteninberlin.de CNAME .
 wa.planet-wissen.de CNAME .
 wa.quarks.de CNAME .
-wa.sportschau.de CNAME .
 wa.wdr.de CNAME .
 wa.wdrmaus.de CNAME .
 waaf.medion.com CNAME .
@@ -257,6 +257,7 @@ web.emails.thetoyshop.com CNAME .
 web.friends.ellaskitchen.co.uk CNAME .
 web.ideaautorepair.com CNAME .
 web.info.bonprix.es CNAME .
+web.info.teamwarrior.com CNAME .
 web.info.vantastic-foods.com CNAME .
 web.info.varelotteriet.dk CNAME .
 web.info.yeppon.it CNAME .
@@ -288,6 +289,7 @@ web.newsletter.koffer-to-go.de CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.online.monnalisa.com CNAME .
 web.pages.lloydspharmacy.com CNAME .
+web.s.sasrx.com CNAME .
 web.sensilab.com CNAME .
 web.sensilab.de CNAME .
 web.sensilab.ie CNAME .

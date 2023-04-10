@@ -138,6 +138,7 @@
 ||img.foodspring.cz^
 ||img.foodspring.de^
 ||img.foodspring.dk^
+||img.foodspring.es^
 ||img.foodspring.fr^
 ||img.foodspring.it^
 ||img.foodspring.se^
@@ -214,7 +215,6 @@
 ||w7.weihnachteninberlin.de^
 ||wa.planet-wissen.de^
 ||wa.quarks.de^
-||wa.sportschau.de^
 ||wa.wdr.de^
 ||wa.wdrmaus.de^
 ||waaf.medion.com^
@@ -257,6 +257,7 @@
 ||web.friends.ellaskitchen.co.uk^
 ||web.ideaautorepair.com^
 ||web.info.bonprix.es^
+||web.info.teamwarrior.com^
 ||web.info.vantastic-foods.com^
 ||web.info.varelotteriet.dk^
 ||web.info.yeppon.it^
@@ -288,6 +289,7 @@
 ||web.newsletter.viviennewestwood.com^
 ||web.online.monnalisa.com^
 ||web.pages.lloydspharmacy.com^
+||web.s.sasrx.com^
 ||web.sensilab.com^
 ||web.sensilab.de^
 ||web.sensilab.ie^

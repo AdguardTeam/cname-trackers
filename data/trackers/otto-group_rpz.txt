@@ -17,6 +17,7 @@ te.heine-shop.nl CNAME .
 te.heine.at CNAME .
 te.heine.ch CNAME .
 te.heine.de CNAME .
+te.helline.fr CNAME .
 te.imwalking.de CNAME .
 te.jelmoli-shop.ch CNAME .
 te.limango.de CNAME .

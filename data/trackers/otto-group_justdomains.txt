@@ -17,6 +17,7 @@ te.heine-shop.nl
 te.heine.at
 te.heine.ch
 te.heine.de
+te.helline.fr
 te.imwalking.de
 te.jelmoli-shop.ch
 te.limango.de

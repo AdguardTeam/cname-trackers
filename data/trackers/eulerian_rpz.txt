@@ -66,6 +66,7 @@ ch.credithypo.com CNAME .
 ch0p.darty.com CNAME .
 cls7.theushuaiaexperience.com CNAME .
 cpgo.avatacar.com CNAME .
+cph.credit-pret-hypothecaire.com CNAME .
 cse3.chausport.com CNAME .
 csm.magnetintell.com CNAME .
 csv4.ebs-paris.fr CNAME .
@@ -180,6 +181,7 @@ eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
+erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 et.swatch.com CNAME .

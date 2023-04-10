@@ -72,6 +72,7 @@ cdn2.intercambioexpress.com CNAME .
 cdn2.lfg.com CNAME .
 cdn2.moneycorp.com CNAME .
 cdn3.moneycorp.com CNAME .
+cdna-paymentncb.cofidis.be CNAME .
 cdna.cofidis.es CNAME .
 cdna.cofidis.fr CNAME .
 cdna.cofidisonline.cofidis.es CNAME .
@@ -90,6 +91,7 @@ cdncy.providentmetals.com CNAME .
 cdncy.silver.com CNAME .
 cdnfp.accurint.com CNAME .
 cdnfp.lexisnexisrisk.com CNAME .
+cdnfp.lexisnexisrisk.eu CNAME .
 cdnm.sts.pl CNAME .
 cdns.moneyplace.com.au CNAME .
 cdnt.duobank.com CNAME .
@@ -335,6 +337,7 @@ de9c635aa0404558bd527220ef4e6b4b.betway.ca CNAME .
 debs.my100bank.com CNAME .
 dep.gambit3.gameassists.co.uk CNAME .
 dept.provantage.com CNAME .
+dev-check3.dev.everbank.com CNAME .
 dev-rmscheck.sbifxt.co.jp CNAME .
 device.invoice2go.com CNAME .
 device.messa.org CNAME .

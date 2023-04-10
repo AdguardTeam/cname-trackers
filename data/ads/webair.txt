@@ -13,13 +13,14 @@
 ||adserver.additionalmedia.com^
 ||adserver.catapultx.com^
 ||advertise.admetix.com^
+||advertisers.peakadx.com^
 ||ak-tracker.com^
-||akcdn.nativeadsfeed.com^
 ||akxml.nativeadsfeed.com^
 ||app.torchad.com^
 ||apple-val.looksmart.com^
 ||beta.ad-maven.com^
 ||beta.adkernel.com^
+||beta.looksmartppc.com^
 ||c.cgmission.com^
 ||calls.uptownleads.com^
 ||click-dsp-east.nativeads.com^
@@ -48,6 +49,7 @@
 ||click-v4.expdiremdia.com^
 ||click-v4.expilaclkdir.com^
 ||click-v4.expmdiadi.com^
+||click-v4.expoclknw.com^
 ||click-v4.globlemath.com^
 ||click-v4.jadspro.live^
 ||click-v4.junexclkmid.com^
@@ -138,9 +140,9 @@
 ||demand.peakadx.com^
 ||display.additionalmedia.com^
 ||display.online-adnetwork.com^
+||display.rtb-serve.com^
 ||dsp-east.nativeads.com^
 ||dsp-eu.nativeads.com^
-||dsp-static.nativeads.com^
 ||dsp-west.nativeads.com^
 ||dsp.adcountymedia.com^
 ||dsp.adhunter.media^
@@ -174,6 +176,7 @@
 ||filter-eu.saturndynamic.pt^
 ||filter-eu.topdealad.com^
 ||filter-eu.topsolutionsmedia.com^
+||filter-eu.trafficmoose.com^
 ||filter.80xmedia.com^
 ||filter.acertb.com^
 ||filter.adcannyxml.com^
@@ -231,6 +234,7 @@
 ||filter.dollopsdigital.com^
 ||filter.domains-traffic.com^
 ||filter.dtxplatform.net^
+||filter.eclk.club^
 ||filter.engageadx.com^
 ||filter.eximdigital.com^
 ||filter.expialidosius.com^
@@ -241,6 +245,7 @@
 ||filter.flairadscpc.com^
 ||filter.flurryad.com^
 ||filter.globlemath.com^
+||filter.goclickz.net^
 ||filter.groovyadz.com^
 ||filter.hangfly.net^
 ||filter.hetcash.com^
@@ -342,6 +347,7 @@
 ||login.admanmedia.com^
 ||login.admozartppc.com^
 ||login.admozartxml.com^
+||login.adopt.media^
 ||login.adright.com^
 ||login.adsbuyclick.com^
 ||login.adsimilate.com^
@@ -372,8 +378,10 @@
 ||login.saturndynamic.pt^
 ||login.topclickpick.com^
 ||login.topdealad.com^
+||login.trafficmoose.com^
 ||login.vespymedia.com^
 ||login.waardex.com^
+||login.xmlppc.net^
 ||login.yeesshh.com^
 ||members.adoptim.com^
 ||mob.lowtid.fun^
@@ -408,6 +416,7 @@
 ||push.userwave.com^
 ||push.webmedxml.com^
 ||pushpop.nativeads.com^
+||redir.bluesandals.xyz^
 ||redir.flowwiththetide.xyz^
 ||redir.hightid.xyz^
 ||redir.lowtid.xyz^
@@ -487,7 +496,7 @@
 ||rtb-useast-v4.datadrives.ai^
 ||rtb-useast-v4.ezmob.com^
 ||rtb-useast-v4.mobipromote.com^
-||rtb-useast-v4.salsglobe.com^
+||rtb-useast-v4.sahrel-server.com^
 ||rtb-useast-v4.vuukle.net^
 ||rtb-useast.152media.com^
 ||rtb-useast.80xmedia.com^
@@ -508,6 +517,7 @@
 ||rtb-useast.arbigo.com^
 ||rtb-useast.audience.media^
 ||rtb-useast.bidmyadz.com^
+||rtb-useast.bidmyqps.xyz^
 ||rtb-useast.blueparrot.media^
 ||rtb-useast.boffoadsapi.com^
 ||rtb-useast.catapultx.com^
@@ -667,57 +677,48 @@
 ||static-rtb2.demandzoo.com^
 ||static-rtb2.e-volution.ai^
 ||static-rtb2.newchallenges-dsp.com^
+||static-rtb2.programmatics.net^
 ||static-rtb2.xaprio.net^
 ||static.adcannyxml.com^
-||static.additionaldisplay.com^
-||static.adfclick1.com^
 ||static.adflydsp.com^
 ||static.admeridianads.com^
 ||static.admidainsight.com^
 ||static.admozartppc.com^
-||static.adqva.com^
 ||static.adright.co^
 ||static.adwooo.com^
-||static.africonverse.com^
 ||static.app-shake.com^
 ||static.bid-engine.com^
-||static.clickmenia.com^
-||static.denakop.com^
+||static.bliss91.com^
+||static.danarimedia.com^
 ||static.displayio.cloud^
-||static.explorads.com^
 ||static.ezmob.com^
-||static.fastmtn.com^
+||static.fastdlr.com^
 ||static.foremedia.net^
 ||static.fstsrv1.com^
-||static.houseofpubs.com^
 ||static.hueadsxml.com^
-||static.icyads.com^
-||static.mediastinct.com^
-||static.mobipromote.com^
+||static.melozen.com^
 ||static.openrtb.in^
 ||static.outpush.net^
 ||static.pdn-1.com^
 ||static.pressize.com^
-||static.pressizeteam.com^
+||static.push-sense.com^
 ||static.pushub.net^
 ||static.qksrv.biz^
 ||static.qksrv.cc^
 ||static.qksrv1.com^
 ||static.realtime-bid.com^
 ||static.reklama.network^
-||static.revrtb.com^
 ||static.rocoads.com^
-||static.rtb-serve.com^
-||static.rtbidhost.com^
+||static.rtbdemand.com^
 ||static.rtbserve.io^
 ||static.rtbwire.com^
 ||static.theardent.group^
-||static.trafficmoose.com^
 ||static.webmedxml.com^
 ||static.xmlppc.net^
 ||sub.adzgame.com^
 ||sv-pval.looksmart.com^
 ||sv-query.looksmart.com^
+||sw.looksmart.com^
 ||sync.adkernel.com^
 ||tag.adkernel.com^
 ||tag.musiciansaudience.com^
@@ -855,6 +856,7 @@
 ||xml-eu.pushub.net^
 ||xml-eu.qksrv.cc^
 ||xml-eu.realtime-bid.com^
+||xml-eu.rocoads.com^
 ||xml-eu.rtbfactory.com^
 ||xml-eu.saturndynamic.pt^
 ||xml-eu.topdealad.com^
@@ -890,6 +892,7 @@
 ||xml-v4.fstsrv1.com^
 ||xml-v4.gipostart-1.co^
 ||xml-v4.gipostart-2.co^
+||xml-v4.goclickz.net^
 ||xml-v4.hetcash.com^
 ||xml-v4.klapads.com^
 ||xml-v4.kunvertads.com^
@@ -946,6 +949,7 @@
 ||xml.adoperatorx.com^
 ||xml.adoptim.com^
 ||xml.adpalladium.com^
+||xml.adright.co^
 ||xml.adright.com^
 ||xml.adsailor.com^
 ||xml.adsbuyclick.com^
@@ -1034,12 +1038,9 @@
 ||xml.leoyard.com^
 ||xml.looksmartppc.com^
 ||xml.mediacpc.com^
-||xml.mediashakers.com^
 ||xml.mediaxchange.co^
 ||xml.mobipromote.com^
-||xml.mobuppsrtb.com^
 ||xml.mymedia.club^
-||xml.nativexml.com^
 ||xml.netload2.com^
 ||xml.newbluetrue.xyz^
 ||xml.octov8.com^
@@ -1082,21 +1083,16 @@
 ||xml.skinkexchange.com^
 ||xml.sodamedia.co^
 ||xml.sweetides.xyz^
-||xml.sweetwaves.xyz^
 ||xml.themediaad.com^
 ||xml.thenetwork18.com^
-||xml.thetargetmachine.com^
 ||xml.thetrafficbid.com^
 ||xml.thetrafficboss.com^
 ||xml.topclickpick.com^
 ||xml.topdealad.com^
-||xml.topsolutionsmedia.com^
 ||xml.trafficmoose.com^
 ||xml.tri.media^
-||xml.ultrads.net^
 ||xml.uptowntraction.com^
 ||xml.userwave.com^
-||xml.valueklicks.com^
 ||xml.vespymedia.com^
 ||xml.vtads.co.in^
 ||xml.webmedxml.com^
@@ -1111,6 +1107,7 @@
 ||xml.zaimads.com^
 ||xml.zeusadx.com^
 ||xml1-eu-v4.admeridianads.com^
+||xml1-eu.admeridianads.com^
 ||xml1-v4.admeridianads.com^
 ||xml1.admeridianads.com^
 ||xml1.adsimilate.com^
@@ -1149,6 +1146,10 @@
 ! g5v2e8v8.stackpathcdn.com disguised trackers
 !
 ||static-rtb.engagesimply.com^
+!
+! n3r3w7j3.stackpathcdn.com disguised trackers
+!
+||static-rtb2.adpix.online^
 !
 ! y9y7w5v9.stackpathcdn.com disguised trackers
 !
@@ -1463,6 +1464,10 @@
 ! r2z5g8w6.stackpathcdn.com disguised trackers
 !
 ||static.realtime-bid.com^
+!
+! i6j7g5n9.stackpathcdn.com disguised trackers
+!
+||static.reklama.network^
 !
 ! j8a2p4g7.stackpathcdn.com disguised trackers
 !

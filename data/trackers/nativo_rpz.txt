@@ -4,7 +4,10 @@
 ; ntv.io disguised trackers
 ;
 c333.macworld.co.uk CNAME .
+partners.time.com CNAME .
 sponsor.syracuse.com CNAME .
+www.realworldsurvivor.com CNAME .
+www1.cultivatedknowledge.com CNAME .
 ;
 ; ntvpforever.com disguised trackers
 ;
@@ -69,6 +72,7 @@ sponsor.syracuse.com CNAME .
 42412d3534.32f36a4d79.com CNAME .
 428fcb314a.5ae63880d1.com CNAME .
 434d80d136.a07d30aaf0.com CNAME .
+45f71a1f62.912644c528.com CNAME .
 46bdd45622.48b1378f08.com CNAME .
 46fe7fa264.4d2a483049.com CNAME .
 48c1f78392.31f4ea3b17.com CNAME .
@@ -91,6 +95,7 @@ sponsor.syracuse.com CNAME .
 5ab3edc5c1.342c15527e.com CNAME .
 5ab760da26.bf34686748.com CNAME .
 5d4e559c09.4250665e93.com CNAME .
+5e90a3a3f8.85d9d90c71.com CNAME .
 5febec09c5.6d3ee1a24b.com CNAME .
 6047f3c601.7ae9fc0b53.com CNAME .
 60e1c77a92.11838aaad0.com CNAME .
@@ -98,6 +103,7 @@ sponsor.syracuse.com CNAME .
 616e2f6a4f.774e14a837.com CNAME .
 6183c729c7.f145627a09.com CNAME .
 62b00ced28.39373b8701.com CNAME .
+62ffd2f212.cfe8fd831d.com CNAME .
 6539a7f33f.2a83afe612.com CNAME .
 65eb50053b.3cb004e947.com CNAME .
 66d7c2e32f.843acfbeb0.com CNAME .
@@ -137,6 +143,7 @@ sponsor.syracuse.com CNAME .
 7fe465ee76.f21c8cd9a7.com CNAME .
 812748c48f.02f87a8089.com CNAME .
 81882ef64b.34ad8df175.com CNAME .
+8577616b81.2045683976.com CNAME .
 85ee48afef.479d86c670.com CNAME .
 8654683419.6ab77a3dad.com CNAME .
 865a159ba5.d7739252ca.com CNAME .
@@ -225,10 +232,12 @@ c7b79a8bf6.593cdd41e1.com CNAME .
 c926b14548.d69b881dcc.com CNAME .
 cc76f2eeaa.0692e14e66.com CNAME .
 cc8ffe7ceb.da1a0e7bb3.com CNAME .
+cc9246f1b6.4bf340a7f1.com CNAME .
 cca691f765.ca3362de0f.com CNAME .
 cce1fcf4c7.cca57f4672.com CNAME .
 cd4a13a8dd.8f1a606535.com CNAME .
 ceb8265201.4eb28685b6.com CNAME .
+cf6eefecd9.76362b26c3.com CNAME .
 d2777cf1df.76842c6a2a.com CNAME .
 d2a62a8a22.6b34f18ccd.com CNAME .
 d310a0f1fe.91c58a050f.com CNAME .
@@ -282,12 +291,9 @@ ffe405491d.28b67b8230.com CNAME .
 ;
 ; postrelease.com disguised trackers
 ;
-a135.htvnativeadsolutions.com CNAME .
-a135.wftv.com CNAME .
-a235.htvnativeadsolutions.com CNAME .
-northbaybusinessjournal.share.ntv.io CNAME .
+a235.nhregister.com CNAME .
 share.ntv.io CNAME .
-smosh.share.ntv.io CNAME .
+shared.sponsoredcontent.com CNAME .
 ;
 ; jadserve.postrelease.com.akadns.net disguised trackers
 ;
@@ -305,13 +311,16 @@ entrepreneur.share.ntv.io CNAME .
 fortune.share.ntv.io CNAME .
 mlive.share.ntv.io CNAME .
 nj.finegardening.com CNAME .
+northbaybusinessjournal.share.ntv.io CNAME .
 pressdemocrat.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
+smosh.share.ntv.io CNAME .
 wvtm13.share.ntv.io CNAME .
 ;
 ; unavailable.hearstnp.com disguised trackers
 ;
+a135.htvnativeadsolutions.com CNAME .
 a235.chron.com CNAME .
 a235.ctnews.com CNAME .
 a235.gametimect.com CNAME .

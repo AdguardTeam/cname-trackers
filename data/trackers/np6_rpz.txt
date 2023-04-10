@@ -89,10 +89,12 @@ tr.bizzquotes.co.uk CNAME .
 tr.boletim.companeo.pt CNAME .
 tr.boletim.meu-orcamento.pt CNAME .
 tr.bonplan.mydesign.com CNAME .
+tr.bouyguestelecom.espmp-aufr.net CNAME .
 tr.brand.labelleadresse.com CNAME .
 tr.btob-afaceri.ro CNAME .
 tr.btob-cwf.com CNAME .
 tr.btob-deals.co.uk CNAME .
+tr.btob.mhdfrance.fr CNAME .
 tr.btobquotes.be CNAME .
 tr.btobquotes.com CNAME .
 tr.btobquotes.mx CNAME .
@@ -255,7 +257,6 @@ tr.email.medicalexpo.com CNAME .
 tr.email.mnpaf.fr CNAME .
 tr.email.nauticexpo.com CNAME .
 tr.email.pointfranchise.co.uk CNAME .
-tr.email.prochesdechezvous.fr CNAME .
 tr.email.rs-fr.com CNAME .
 tr.email.securite-routiere.gouv.fr CNAME .
 tr.email.solocal.com CNAME .
@@ -345,6 +346,7 @@ tr.info.arialcnp.fr CNAME .
 tr.info.astermod.net CNAME .
 tr.info.bessans.com CNAME .
 tr.info.bonneval-sur-arc.com CNAME .
+tr.info.businesscreditcards.bnpparibasfortis.be CNAME .
 tr.info.caissenationalegendarme.fr CNAME .
 tr.info.capfun.com CNAME .
 tr.info.cartesaffaires.bnpparibas CNAME .
@@ -395,6 +397,7 @@ tr.infolettre.securite-routiere.gouv.fr CNAME .
 tr.infolettres.groupama.com CNAME .
 tr.infomarche.hennessy.fr CNAME .
 tr.information.fidalformations.fr CNAME .
+tr.information.lacollection-airfrance.be CNAME .
 tr.information.lacollection-airfrance.fr CNAME .
 tr.information.perfectstay.com CNAME .
 tr.information.thelist-emirates.fr CNAME .
@@ -515,6 +518,7 @@ tr.n.nutella.fr CNAME .
 tr.nespresso.com CNAME .
 tr.nespresso.mailsservices.com CNAME .
 tr.new.offres-cartegie.fr CNAME .
+tr.news-abweb.com CNAME .
 tr.news-chocolat.com CNAME .
 tr.news-companeo.cl CNAME .
 tr.news-companeo.fr CNAME .
@@ -527,6 +531,7 @@ tr.news.a-t.fr CNAME .
 tr.news.a2micile.com CNAME .
 tr.news.accessmastertour.com CNAME .
 tr.news.accessmbatour.com CNAME .
+tr.news.actu-man.com CNAME .
 tr.news.alibabuy.com CNAME .
 tr.news.alinea.com CNAME .
 tr.news.alinea.fr CNAME .
@@ -754,7 +759,6 @@ tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro-renov.be CNAME .
 tr.pro.odalys-vacances.com CNAME .
-tr.program.certinergy.com CNAME .
 tr.projet.cotemaison.fr CNAME .
 tr.promo.np6.fr CNAME .
 tr.promotion.lexpress.fr CNAME .
@@ -791,6 +795,7 @@ tr.renowizze.be CNAME .
 tr.rh.auchan.com CNAME .
 tr.route-solutiondata.fr CNAME .
 tr.roxi02e.espmp-agfr.net CNAME .
+tr.safrancom-esp.net CNAME .
 tr.sash.espmp-aufr.net CNAME .
 tr.satisfaction.alinea.com CNAME .
 tr.satisfaction.groupe-pv-cp.com CNAME .

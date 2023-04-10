@@ -8,6 +8,7 @@
 ||ac-3.mix.tokyo^
 ||ac-ebis-stb.usen.com^
 ||ac-ebis-uhome.usen.com^
+||ac-ebis.usen-pos.com^
 ||ac-ebis.usen-service.com^
 ||ac-ebis.usen-store.com^
 ||ac-ebis.usen.biz^
@@ -98,6 +99,7 @@
 ||adebis.zenyaku-hbshop.com^
 ||adebis01.job-con.jp^
 ||adebis02.juku.st^
+||adebis0508.brain-sleep.com^
 ||adebis8628.matsui.co.jp^
 ||adebiscname.au-sonpo.co.jp^
 ||adebiscname.auone.jp^
@@ -107,6 +109,7 @@
 ||adex.jrwp-arimatsu34.com^
 ||adex.kintetsu-re.co.jp^
 ||adex.naruko333.jp^
+||adex.predear.com^
 ||admeasure.hh-online.jp^
 ||adnl.bk.mufg.jp^
 ||adpromo.peppynet.com^

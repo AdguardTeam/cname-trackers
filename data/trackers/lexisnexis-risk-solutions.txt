@@ -72,6 +72,7 @@
 ||cdn2.lfg.com^
 ||cdn2.moneycorp.com^
 ||cdn3.moneycorp.com^
+||cdna-paymentncb.cofidis.be^
 ||cdna.cofidis.es^
 ||cdna.cofidis.fr^
 ||cdna.cofidisonline.cofidis.es^
@@ -90,6 +91,7 @@
 ||cdncy.silver.com^
 ||cdnfp.accurint.com^
 ||cdnfp.lexisnexisrisk.com^
+||cdnfp.lexisnexisrisk.eu^
 ||cdnm.sts.pl^
 ||cdns.moneyplace.com.au^
 ||cdnt.duobank.com^
@@ -335,6 +337,7 @@
 ||debs.my100bank.com^
 ||dep.gambit3.gameassists.co.uk^
 ||dept.provantage.com^
+||dev-check3.dev.everbank.com^
 ||dev-rmscheck.sbifxt.co.jp^
 ||device.invoice2go.com^
 ||device.messa.org^

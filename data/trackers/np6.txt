@@ -89,10 +89,12 @@
 ||tr.boletim.companeo.pt^
 ||tr.boletim.meu-orcamento.pt^
 ||tr.bonplan.mydesign.com^
+||tr.bouyguestelecom.espmp-aufr.net^
 ||tr.brand.labelleadresse.com^
 ||tr.btob-afaceri.ro^
 ||tr.btob-cwf.com^
 ||tr.btob-deals.co.uk^
+||tr.btob.mhdfrance.fr^
 ||tr.btobquotes.be^
 ||tr.btobquotes.com^
 ||tr.btobquotes.mx^
@@ -255,7 +257,6 @@
 ||tr.email.mnpaf.fr^
 ||tr.email.nauticexpo.com^
 ||tr.email.pointfranchise.co.uk^
-||tr.email.prochesdechezvous.fr^
 ||tr.email.rs-fr.com^
 ||tr.email.securite-routiere.gouv.fr^
 ||tr.email.solocal.com^
@@ -345,6 +346,7 @@
 ||tr.info.astermod.net^
 ||tr.info.bessans.com^
 ||tr.info.bonneval-sur-arc.com^
+||tr.info.businesscreditcards.bnpparibasfortis.be^
 ||tr.info.caissenationalegendarme.fr^
 ||tr.info.capfun.com^
 ||tr.info.cartesaffaires.bnpparibas^
@@ -395,6 +397,7 @@
 ||tr.infolettres.groupama.com^
 ||tr.infomarche.hennessy.fr^
 ||tr.information.fidalformations.fr^
+||tr.information.lacollection-airfrance.be^
 ||tr.information.lacollection-airfrance.fr^
 ||tr.information.perfectstay.com^
 ||tr.information.thelist-emirates.fr^
@@ -515,6 +518,7 @@
 ||tr.nespresso.com^
 ||tr.nespresso.mailsservices.com^
 ||tr.new.offres-cartegie.fr^
+||tr.news-abweb.com^
 ||tr.news-chocolat.com^
 ||tr.news-companeo.cl^
 ||tr.news-companeo.fr^
@@ -527,6 +531,7 @@
 ||tr.news.a2micile.com^
 ||tr.news.accessmastertour.com^
 ||tr.news.accessmbatour.com^
+||tr.news.actu-man.com^
 ||tr.news.alibabuy.com^
 ||tr.news.alinea.com^
 ||tr.news.alinea.fr^
@@ -754,7 +759,6 @@
 ||tr.preventivo.risparmiazienda.it^
 ||tr.pro-renov.be^
 ||tr.pro.odalys-vacances.com^
-||tr.program.certinergy.com^
 ||tr.projet.cotemaison.fr^
 ||tr.promo.np6.fr^
 ||tr.promotion.lexpress.fr^
@@ -791,6 +795,7 @@
 ||tr.rh.auchan.com^
 ||tr.route-solutiondata.fr^
 ||tr.roxi02e.espmp-agfr.net^
+||tr.safrancom-esp.net^
 ||tr.sash.espmp-aufr.net^
 ||tr.satisfaction.alinea.com^
 ||tr.satisfaction.groupe-pv-cp.com^

@@ -37,6 +37,7 @@
     * gevalia.extole.com
     * gotoassist.extole.com
     * gotomeeting.extole.com
+    * gotowebinar.extole.com
     * greenvilleonline.extole.com
     * hannaandersson.extole.com
     * harimari.extole.com
@@ -98,6 +99,7 @@
     * turbotax-ssl.extole.com
     * ulta.extole.com
     * unionprivilege-ssl.extole.com
+    * urbandaddyperks.extole.com
     * vantagetravel.extole.com
     * verabradley.extole.com
     * vimeo.extole.com
@@ -265,6 +267,7 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -331,6 +334,7 @@
     * minted.extole.io
     * mondetta.extole.io
     * mtntough.extole.io
+    * mycarpe.extole.io
     * myollie.extole.io
     * nars-cosmetics.extole.io
     * newtonbaby.extole.io
@@ -420,7 +424,6 @@
     * suncoastcreditunion.extole.io
     * sundaysfordogs.extole.io
     * swansonvitamins.extole.io
-    * swap.extole.io
     * take5oilchange.extole.io
     * tatcha.extole.io
     * taxact.extole.io
@@ -444,6 +447,7 @@
     * truckstop.extole.io
     * tweglobal.extole.io
     * twisthair.extole.io
+    * uae-exchange.extole.io
     * unchartedsociety.extole.io
     * under-armour-1.extole.io
     * under-armour-2.extole.io
@@ -626,7 +630,6 @@
 | refer-photo.cvs.com | cvs.extole.io |
 | share.cwbank.com | cwbank.extole.io |
 | ilove.volusion.com | d.extole.com |
-| refer-a-friend.trivantis.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
 | share.refer-darphin.fr | darphin-fr.extole.io |
@@ -688,6 +691,7 @@
 | share.elpasotimes.com | gannett.extole.io |
 | share.enterprisenews.com | gannett.extole.io |
 | share.floridatoday.com | gannett.extole.io |
+| share.knoxnews.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
 | share.poughkeepsiejournal.com | gannett.extole.io |
 | share.statesman.com | gannett.extole.io |
@@ -714,9 +718,11 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
+| refer.gotowebinar.com | gotowebinar.extole.com |
 | refer.greatwesternbank.com | greatwesternbank.extole.io |
 | share.greenlight.com | greenlightcard.extole.io |
 | share.greenlightcard.com | greenlightcard.extole.io |
@@ -811,6 +817,7 @@
 | refer.montgomeryadvertiser.com | montgomeryadvertiser.extole.com |
 | refer.moo.com | moo.extole.com |
 | share.mtntough.com | mtntough.extole.io |
+| share.mycarpe.com | mycarpe.extole.io |
 | share.myollie.com | myollie.extole.io |
 | refer.myplant.com | myplant.extole.com |
 | refer.narscosmetics.com | nars-cosmetics.extole.io |
@@ -944,7 +951,6 @@
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
 | refer.swansonvitamins.com | swansonvitamins.extole.io |
-| refer.swap.com | swap.extole.io |
 | refer.take5oilchange.com | take5oilchange.extole.io |
 | refer.talbots.com | talbots.extole.com |
 | refer.tatcha.com | tatcha.extole.io |
@@ -984,6 +990,7 @@
 | refer.twisthair.com | twisthair.extole.io |
 | em1476.princesscruises.com | u82658.wl159.sendgrid.net |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
+| refer.xpressmoneyonline.com | uae-exchange.extole.io |
 | refer.ulta.com | ulta.extole.com |
 | share.unchartedsociety.com | unchartedsociety.extole.io |
 | refer.underarmour.co.uk | under-armour-1.extole.io |
@@ -995,6 +1002,7 @@
 | refer.unionplus.org | unionprivilege-ssl.extole.com |
 | refer-us.uniqlo.com | uniqlo.extole.io |
 | share.united.net | united.extole.io |
+| refer.urbandaddy.com | urbandaddyperks.extole.com |
 | refer.vantagetravel.com | vantagetravel.extole.com |
 | refer.vayasleep.com | vayasleep.extole.io |
 | share.veo.co | veo.extole.io |

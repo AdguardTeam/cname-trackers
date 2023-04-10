@@ -22,6 +22,7 @@
 1y10lvb64mr.www.freecodecamp.dev CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 2107wrlgff5.development.taxmachine.be CNAME .
+21fhq0t574p.talentkit.io CNAME .
 25ix8gm8ien.sandbox.panprices.com CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .

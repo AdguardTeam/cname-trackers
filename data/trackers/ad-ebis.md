@@ -6,6 +6,7 @@
     * 0096bb59-mndzrztt.cname.ebis.ne.jp
     * 02a8f7d5-th1skucf.cname.ebis.ne.jp
     * 02ad2e8f-khesgceb.cname.ebis.ne.jp
+    * 039afeac-2tqso4al.cname.ebis.ne.jp
     * 0422e718-orvgub9g.cname.ebis.ne.jp
     * 043aff42-optsirog.cname.ebis.ne.jp
     * 055b1f86-ycxd4a4u.cname.ebis.ne.jp
@@ -105,6 +106,7 @@
     * 54defe46-yfrcguru.cname.ebis.ne.jp
     * 56a8082e-yfrcguru.cname.ebis.ne.jp
     * 5913445d-scxitlgt.cname.ebis.ne.jp
+    * 5affe8ce-skczc9vy.cname.ebis.ne.jp
     * 5c4367ff-jngsetpd.cname.ebis.ne.jp
     * 5d577e49-9tqftzkm.cname.ebis.ne.jp
     * 5dec3cb3-day5axk4.cname.ebis.ne.jp
@@ -257,6 +259,7 @@
     * dd2184df-xuadt2hl.cname.ebis.ne.jp
     * de3e21a1-ta72utrp.cname.ebis.ne.jp
     * de8331b9-pmffblvq.cname.ebis.ne.jp
+    * de8820de-fgpe2gow.cname.ebis.ne.jp
     * dfd1c48f-kdknv6tt.cname.ebis.ne.jp
     * e050f08a-pc93j6qv.cname.ebis.ne.jp
     * e1e0a549-rq6mpz3n.cname.ebis.ne.jp
@@ -291,6 +294,7 @@
 | adebis.aij.co.jp | 0096bb59-mndzrztt.cname.ebis.ne.jp |
 | adebis.tokyuhotels.co.jp | 02a8f7d5-th1skucf.cname.ebis.ne.jp |
 | cs1863sbeda.glaucoma-arrest.net | 02ad2e8f-khesgceb.cname.ebis.ne.jp |
+| adebis0508.brain-sleep.com | 039afeac-2tqso4al.cname.ebis.ne.jp |
 | ebis.jukkou.com | 0422e718-orvgub9g.cname.ebis.ne.jp |
 | cname.crank-in.net | 043aff42-optsirog.cname.ebis.ne.jp |
 | ad.takasu.co.jp | 055b1f86-ycxd4a4u.cname.ebis.ne.jp |
@@ -390,6 +394,7 @@
 | ebis.samurai271.com | 54defe46-yfrcguru.cname.ebis.ne.jp |
 | ebis.funai-ma.com | 56a8082e-yfrcguru.cname.ebis.ne.jp |
 | cs2113sbeda.hokto-onlineshop.jp | 5913445d-scxitlgt.cname.ebis.ne.jp |
+| ac-ebis.usen-pos.com | 5affe8ce-skczc9vy.cname.ebis.ne.jp |
 | cnameebis.eizoshigoto.com | 5c4367ff-jngsetpd.cname.ebis.ne.jp |
 | ebis.care-tensyoku.com | 5d577e49-9tqftzkm.cname.ebis.ne.jp |
 | ebis.re-shop.jp | 5dec3cb3-day5axk4.cname.ebis.ne.jp |
@@ -542,6 +547,7 @@
 | ebis.treasurenet.jp | dd2184df-xuadt2hl.cname.ebis.ne.jp |
 | ebis.cp.claudia.co.jp | de3e21a1-ta72utrp.cname.ebis.ne.jp |
 | adebis.hotstaff.co.jp | de8331b9-pmffblvq.cname.ebis.ne.jp |
+| adex.predear.com | de8820de-fgpe2gow.cname.ebis.ne.jp |
 | cname1.shakenkan.co.jp | dfd1c48f-kdknv6tt.cname.ebis.ne.jp |
 | frontierconsul02.tsunagaru-office.com | e050f08a-pc93j6qv.cname.ebis.ne.jp |
 | adebis.ahjikan-shop.com | e1e0a549-rq6mpz3n.cname.ebis.ne.jp |

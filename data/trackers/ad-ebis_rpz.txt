@@ -8,6 +8,7 @@ aaaa.nocor.jp CNAME .
 ac-3.mix.tokyo CNAME .
 ac-ebis-stb.usen.com CNAME .
 ac-ebis-uhome.usen.com CNAME .
+ac-ebis.usen-pos.com CNAME .
 ac-ebis.usen-service.com CNAME .
 ac-ebis.usen-store.com CNAME .
 ac-ebis.usen.biz CNAME .
@@ -98,6 +99,7 @@ adebis.wii-clinic.jp CNAME .
 adebis.zenyaku-hbshop.com CNAME .
 adebis01.job-con.jp CNAME .
 adebis02.juku.st CNAME .
+adebis0508.brain-sleep.com CNAME .
 adebis8628.matsui.co.jp CNAME .
 adebiscname.au-sonpo.co.jp CNAME .
 adebiscname.auone.jp CNAME .
@@ -107,6 +109,7 @@ adebisu.wowow.co.jp CNAME .
 adex.jrwp-arimatsu34.com CNAME .
 adex.kintetsu-re.co.jp CNAME .
 adex.naruko333.jp CNAME .
+adex.predear.com CNAME .
 admeasure.hh-online.jp CNAME .
 adnl.bk.mufg.jp CNAME .
 adpromo.peppynet.com CNAME .

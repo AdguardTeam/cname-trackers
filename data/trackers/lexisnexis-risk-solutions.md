@@ -727,6 +727,7 @@
 | content22.accountonline.com | h-accountonline.online-metrix.net |
 | cdnfp.accurint.com | h-accurint.online-metrix.net |
 | cdnfp.lexisnexisrisk.com | h-accurint.online-metrix.net |
+| cdnfp.lexisnexisrisk.eu | h-accurint.online-metrix.net |
 | bifpt.pepperfinance.es | h-ad2y6kcr.online-metrix.net |
 | image.online.adp.com | h-adp.online-metrix.net |
 | auth2.corelogic.asia | h-af1jjj0t.online-metrix.net |
@@ -907,6 +908,7 @@
 | tm.clearcover.com | h-clearcover.online-metrix.net |
 | authorizer-data.infinitepay.io | h-cloudwalk.online-metrix.net |
 | content.clubpremier.com | h-clubpremier.online-metrix.net |
+| cdna-paymentncb.cofidis.be | h-cofidis-be.online-metrix.net |
 | www.cdna.cofidis.be | h-cofidis-be.online-metrix.net |
 | cdna.cofidis.es | h-cofidis-es.online-metrix.net |
 | cdna.cofidisonline.cofidis.es | h-cofidis-es.online-metrix.net |
@@ -1363,6 +1365,7 @@
 | check3-qa1.test.tiaabank.com | h-tiaa-cref-at-test.online-metrix.net |
 | check3-qa2.test.tiaabank.com | h-tiaa-cref-at-test.online-metrix.net |
 | check3-stg.test.tiaabank.com | h-tiaa-cref-at-test.online-metrix.net |
+| dev-check3.dev.everbank.com | h-tiaa-cref-at-test.online-metrix.net |
 | public-check3-at.test.tiaa-cref.org | h-tiaa-cref-at-test.online-metrix.net |
 | public-check3-at.test.tiaa.org | h-tiaa-cref-at-test.online-metrix.net |
 | qa-check3.qa.everbank.com | h-tiaa-cref-at-test.online-metrix.net |

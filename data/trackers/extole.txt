@@ -14,7 +14,6 @@
 ||invite.toughmudder.com^
 ||r.gamerewind.nfl.com^
 ||r.preseason.nfl.com^
-||refer-a-friend.trivantis.com^
 ||refer.aaas.org^
 ||refer.accountants.intuit.com^
 ||refer.ahsfriends.com^
@@ -48,6 +47,7 @@
 ||refer.gevalia.com^
 ||refer.gotoassist.com^
 ||refer.gotomeeting.com^
+||refer.gotowebinar.com^
 ||refer.greenvilleonline.com^
 ||refer.hannaandersson.com^
 ||refer.harimari.com^
@@ -91,6 +91,7 @@
 ||refer.turbotax.intuit.com^
 ||refer.ulta.com^
 ||refer.unionplus.org^
+||refer.urbandaddy.com^
 ||refer.usforex.com^
 ||refer.vantagetravel.com^
 ||refer.verabradley.com^
@@ -121,6 +122,7 @@
 ||amp.bfr.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
+||em8561.go2bank.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -321,7 +323,6 @@
 ||refer.studentuniverse.com.au^
 ||refer.sugarandjade.com^
 ||refer.swansonvitamins.com^
-||refer.swap.com^
 ||refer.take5oilchange.com^
 ||refer.tatcha.com^
 ||refer.taxact.com^
@@ -350,6 +351,7 @@
 ||refer.whitehouseblackmarket.com^
 ||refer.wine.com^
 ||refer.wolverine.com^
+||refer.xpressmoneyonline.com^
 ||refer.zazzlereferral.com^
 ||refer.zenhaven.com^
 ||refer.zipcar.ca^
@@ -450,6 +452,7 @@
 ||share.juicepress.com^
 ||share.juvlabs.com^
 ||share.key.com^
+||share.knoxnews.com^
 ||share.kumon.com^
 ||share.la-mariette.com^
 ||share.lark.com^
@@ -462,6 +465,7 @@
 ||share.medely.com^
 ||share.meettally.com^
 ||share.mtntough.com^
+||share.mycarpe.com^
 ||share.myollie.com^
 ||share.myq.com^
 ||share.newarkadvocate.com^

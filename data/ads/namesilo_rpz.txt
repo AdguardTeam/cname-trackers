@@ -581,6 +581,7 @@
 3832097.notifysrv.com CNAME .
 3837365.notifysrv.com CNAME .
 3843075.notifysrv.com CNAME .
+3849719.notify6.com CNAME .
 3869256.notifysrv.com CNAME .
 3869316.notify6.com CNAME .
 3869376.notify6.com CNAME .
@@ -598,6 +599,7 @@
 3887544.notify6.com CNAME .
 3898244.notify6.com CNAME .
 3903164.notify6.com CNAME .
+3911078.notify6.com CNAME .
 3917502.notify6.com CNAME .
 3917534.notify6.com CNAME .
 3917542.notify6.com CNAME .
@@ -773,13 +775,12 @@
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.a3ion.com CNAME .
-a.adnflow.com CNAME .
-a.asvsm.com CNAME .
-a.bizonads-ssp.com CNAME .
+a.ad.guru CNAME .
 a.etology.com CNAME .
 a.paradoxgroup.uk CNAME .
 a.redpathmedia.com CNAME .
 a.stuffserve.com CNAME .
+admin.adnation.com CNAME .
 admin.adxnow.com CNAME .
 admin.gettopple.com CNAME .
 admin.shafttraffic.com CNAME .

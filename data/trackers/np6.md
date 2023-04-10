@@ -105,10 +105,12 @@
 | tr.boletim.companeo.pt | tracking.bp01.net |
 | tr.boletim.meu-orcamento.pt | tracking.bp01.net |
 | tr.bonplan.mydesign.com | tracking.bp01.net |
+| tr.bouyguestelecom.espmp-aufr.net | tracking.bp01.net |
 | tr.brand.labelleadresse.com | tracking.bp01.net |
 | tr.btob-afaceri.ro | tracking.bp01.net |
 | tr.btob-cwf.com | tracking.bp01.net |
 | tr.btob-deals.co.uk | tracking.bp01.net |
+| tr.btob.mhdfrance.fr | tracking.bp01.net |
 | tr.btobquotes.be | tracking.bp01.net |
 | tr.btobquotes.com | tracking.bp01.net |
 | tr.btobquotes.mx | tracking.bp01.net |
@@ -271,7 +273,6 @@
 | tr.email.mnpaf.fr | tracking.bp01.net |
 | tr.email.nauticexpo.com | tracking.bp01.net |
 | tr.email.pointfranchise.co.uk | tracking.bp01.net |
-| tr.email.prochesdechezvous.fr | tracking.bp01.net |
 | tr.email.rs-fr.com | tracking.bp01.net |
 | tr.email.securite-routiere.gouv.fr | tracking.bp01.net |
 | tr.email.solocal.com | tracking.bp01.net |
@@ -361,6 +362,7 @@
 | tr.info.astermod.net | tracking.bp01.net |
 | tr.info.bessans.com | tracking.bp01.net |
 | tr.info.bonneval-sur-arc.com | tracking.bp01.net |
+| tr.info.businesscreditcards.bnpparibasfortis.be | tracking.bp01.net |
 | tr.info.caissenationalegendarme.fr | tracking.bp01.net |
 | tr.info.capfun.com | tracking.bp01.net |
 | tr.info.cartesaffaires.bnpparibas | tracking.bp01.net |
@@ -411,6 +413,7 @@
 | tr.infolettres.groupama.com | tracking.bp01.net |
 | tr.infomarche.hennessy.fr | tracking.bp01.net |
 | tr.information.fidalformations.fr | tracking.bp01.net |
+| tr.information.lacollection-airfrance.be | tracking.bp01.net |
 | tr.information.lacollection-airfrance.fr | tracking.bp01.net |
 | tr.information.perfectstay.com | tracking.bp01.net |
 | tr.information.thelist-emirates.fr | tracking.bp01.net |
@@ -531,6 +534,7 @@
 | tr.nespresso.com | tracking.bp01.net |
 | tr.nespresso.mailsservices.com | tracking.bp01.net |
 | tr.new.offres-cartegie.fr | tracking.bp01.net |
+| tr.news-abweb.com | tracking.bp01.net |
 | tr.news-chocolat.com | tracking.bp01.net |
 | tr.news-companeo.cl | tracking.bp01.net |
 | tr.news-companeo.fr | tracking.bp01.net |
@@ -543,6 +547,7 @@
 | tr.news.a2micile.com | tracking.bp01.net |
 | tr.news.accessmastertour.com | tracking.bp01.net |
 | tr.news.accessmbatour.com | tracking.bp01.net |
+| tr.news.actu-man.com | tracking.bp01.net |
 | tr.news.alibabuy.com | tracking.bp01.net |
 | tr.news.alinea.com | tracking.bp01.net |
 | tr.news.alinea.fr | tracking.bp01.net |
@@ -770,7 +775,6 @@
 | tr.preventivo.risparmiazienda.it | tracking.bp01.net |
 | tr.pro-renov.be | tracking.bp01.net |
 | tr.pro.odalys-vacances.com | tracking.bp01.net |
-| tr.program.certinergy.com | tracking.bp01.net |
 | tr.projet.cotemaison.fr | tracking.bp01.net |
 | tr.promo.np6.fr | tracking.bp01.net |
 | tr.promotion.lexpress.fr | tracking.bp01.net |
@@ -807,6 +811,7 @@
 | tr.rh.auchan.com | tracking.bp01.net |
 | tr.route-solutiondata.fr | tracking.bp01.net |
 | tr.roxi02e.espmp-agfr.net | tracking.bp01.net |
+| tr.safrancom-esp.net | tracking.bp01.net |
 | tr.sash.espmp-aufr.net | tracking.bp01.net |
 | tr.satisfaction.alinea.com | tracking.bp01.net |
 | tr.satisfaction.groupe-pv-cp.com | tracking.bp01.net |

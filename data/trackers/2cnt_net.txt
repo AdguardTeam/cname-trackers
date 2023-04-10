@@ -125,10 +125,6 @@
 !
 ||bazoom.tns-gallup.dk^
 !
-! beck.vgwort-de.2cnt.net disguised trackers
-!
-||beck.met.vgwort.de^
-!
 ! berliner-kurier.vgwort-de.2cnt.net disguised trackers
 !
 ||berliner-kurier.met.vgwort.de^
@@ -207,10 +203,6 @@
 ! bm-eavis.tns-dk.2cnt.net disguised trackers
 !
 ||bm-eavis.tns-gallup.dk^
-!
-! bm.vgwort-de.2cnt.net disguised trackers
-!
-||bm.met.vgwort.de^
 !
 ! bobedre.tns-dk.2cnt.net disguised trackers
 !
@@ -303,10 +295,6 @@
 !
 ||dplaystream.tns-gallup.dk^
 !
-! dplayteststream.tns-dk.2cnt.net disguised trackers
-!
-||dplayteststream.tns-gallup.dk^
-!
 ! slb-tns-dk-pool07.tns-dk.2cnt.net disguised trackers
 !
 ||dplayteststream.tns-gallup.dk^
@@ -337,10 +325,6 @@
 !
 ||driosstream.tns-gallup.dk^
 !
-! drplaystationstream.tns-dk.2cnt.net disguised trackers
-!
-||drplaystationstream.tns-gallup.dk^
-!
 ! slb-tns-dk-pool02.tns-dk.2cnt.net disguised trackers
 !
 ||drplaystationstream.tns-gallup.dk^
@@ -356,10 +340,6 @@
 ! ebiam.tns-dk.2cnt.net disguised trackers
 !
 ||ebiam.tns-gallup.dk^
-!
-! econa.vgwort-de.2cnt.net disguised trackers
-!
-||econa.met.vgwort.de^
 !
 ! edc.tns-dk.2cnt.net disguised trackers
 !
@@ -401,10 +381,6 @@
 !
 ||finanswatch.tns-gallup.dk^
 !
-! focus.vgwort-de.2cnt.net disguised trackers
-!
-||focus.met.vgwort.de^
-!
 ! folketidende.tns-dk.2cnt.net disguised trackers
 !
 ||folketidende.tns-gallup.dk^
@@ -437,14 +413,6 @@
 !
 ||halsa.tns-gallup.dk^
 !
-! hanser.vgwort-de.2cnt.net disguised trackers
-!
-||hanser.met.vgwort.de^
-!
-! heise.vgwort-de.2cnt.net disguised trackers
-!
-||heise.met.vgwort.de^
-!
 ! helpster.vgwort-de.2cnt.net disguised trackers
 !
 ||helpster.met.vgwort.de^
@@ -461,13 +429,17 @@
 !
 ||hsfo.tns-gallup.dk^
 !
-! idgmagazine.vgwort-de.2cnt.net disguised trackers
+! idenytiam.tns-dk.2cnt.net disguised trackers
 !
-||idgmagazine.met.vgwort.de^
+||idenytiam.tns-gallup.dk^
 !
 ! iform.tns-dk.2cnt.net disguised trackers
 !
 ||iform.tns-gallup.dk^
+!
+! illvid.tns-dk.2cnt.net disguised trackers
+!
+||illvid.tns-gallup.dk^
 !
 ! in.tns-dk.2cnt.net disguised trackers
 !
@@ -564,6 +536,10 @@
 ! minmave.tns-dk.2cnt.net disguised trackers
 !
 ||minmave.tns-gallup.dk^
+!
+! mja.tns-dk.2cnt.net disguised trackers
+!
+||mja.tns-gallup.dk^
 !
 ! mopo.vgwort-de.2cnt.net disguised trackers
 !
@@ -757,10 +733,6 @@
 ||ssl-boxerstream.tns-gallup.dk^
 ||ssl-stofastream.tns-gallup.dk^
 !
-! ssl-brigitte.vgwort-de.2cnt.net disguised trackers
-!
-||ssl-brigitte.met.vgwort.de^
-!
 ! ssl-bt-eavis.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-bt-eavis.tns-gallup.dk^
@@ -776,10 +748,6 @@
 ! ssl-business.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-business.tns-gallup.dk^
-!
-! ssl-chip.vgwort-de.2cnt.net disguised trackers
-!
-||ssl-chip.met.vgwort.de^
 !
 ! ssl-computerworld.tns-dk.2cnt.net disguised trackers
 !
@@ -813,6 +781,10 @@
 !
 ||ssl-dr.tns-gallup.dk^
 !
+! ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
+!
+||ssl-drandroidtvstream.tns-gallup.dk^
+!
 ! ssl-drhbbstream.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-drhbbstream.tns-gallup.dk^
@@ -828,10 +800,6 @@
 ! ssl-drtv-appletv.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-drtv-appletv.tns-gallup.dk^
-!
-! ssl-drtvosstream.tns-dk.2cnt.net disguised trackers
-!
-||ssl-drtvosstream.tns-gallup.dk^
 !
 ! ssl-ebiam.tns-dk.2cnt.net disguised trackers
 !
@@ -901,10 +869,6 @@
 !
 ||ssl-gafiam.tns-gallup.dk^
 ||ssl-swpanel.tns-gallup.dk^
-!
-! ssl-glentenandroidstream.tns-dk.2cnt.net disguised trackers
-!
-||ssl-glentenandroidstream.tns-gallup.dk^
 !
 ! ssl-goerdetselv.tns-dk.2cnt.net disguised trackers
 !
@@ -1038,10 +1002,6 @@
 !
 ||ssl-mediajob.tns-gallup.dk^
 !
-! ssl-merkur.vgwort-de.2cnt.net disguised trackers
-!
-||ssl-merkur.met.vgwort.de^
-!
 ! ssl-minby.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-minby.tns-gallup.dk^
@@ -1050,10 +1010,6 @@
 !
 ||ssl-mja.tns-gallup.dk^
 !
-! ssl-mopo.vgwort-de.2cnt.net disguised trackers
-!
-||ssl-mopo.met.vgwort.de^
-!
 ! ssl-mxiam.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-mxiam.tns-gallup.dk^
@@ -1061,10 +1017,6 @@
 ! ssl-news.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-news.tns-gallup.dk^
-!
-! ssl-nwb.vgwort-de.2cnt.net disguised trackers
-!
-||ssl-nwb.met.vgwort.de^
 !
 ! ssl-nybolig.tns-dk.2cnt.net disguised trackers
 !
@@ -1150,18 +1102,6 @@
 !
 ||ssl-stepstone.tns-gallup.dk^
 !
-! ssl-stern.vgwort-de.2cnt.net disguised trackers
-!
-||ssl-stern.met.vgwort.de^
-!
-! ssl-stofateststream.tns-dk.2cnt.net disguised trackers
-!
-||ssl-stofateststream.tns-gallup.dk^
-!
-! ssl-swpanel.tns-dk.2cnt.net disguised trackers
-!
-||ssl-swpanel.tns-gallup.dk^
-!
 ! ssl-t-online.vgwort-de.2cnt.net disguised trackers
 !
 ||ssl-t-online.met.vgwort.de^
@@ -1231,10 +1171,6 @@
 !
 ||ssl-vg03.met.vgwort.de^
 !
-! ssl-viafreestream.tns-dk.2cnt.net disguised trackers
-!
-||ssl-viafreestream.tns-gallup.dk^
-!
 ! ssl-viaplaystream.tns-dk.2cnt.net disguised trackers
 !
 ||ssl-viaplaystream.tns-gallup.dk^
@@ -1267,9 +1203,9 @@
 !
 ||ssl-woman.tns-gallup.dk^
 !
-! ssl-youseeteststream.tns-dk.2cnt.net disguised trackers
+! ssl-youseestream.tns-dk.2cnt.net disguised trackers
 !
-||ssl-youseeteststream.tns-gallup.dk^
+||ssl-youseestream.tns-gallup.dk^
 !
 ! stern.vgwort-de.2cnt.net disguised trackers
 !
@@ -1287,10 +1223,6 @@
 !
 ||sz.met.vgwort.de^
 !
-! t-online.vgwort-de.2cnt.net disguised trackers
-!
-||t-online.met.vgwort.de^
-!
 ! tagesspiegel.vgwort-de.2cnt.net disguised trackers
 !
 ||tagesspiegel.met.vgwort.de^
@@ -1298,10 +1230,6 @@
 ! taz.vgwort-de.2cnt.net disguised trackers
 !
 ||taz.met.vgwort.de^
-!
-! teltarif.vgwort-de.2cnt.net disguised trackers
-!
-||teltarif.met.vgwort.de^
 !
 ! thistedp.tns-dk.2cnt.net disguised trackers
 !
@@ -1403,17 +1331,9 @@
 !
 ||weekendavisen.tns-gallup.dk^
 !
-! welt.vgwort-de.2cnt.net disguised trackers
-!
-||welt.met.vgwort.de^
-!
 ! wiley.vgwort-de.2cnt.net disguised trackers
 !
 ||wiley.met.vgwort.de^
-!
-! wolterskluwer.vgwort-de.2cnt.net disguised trackers
-!
-||wolterskluwer.met.vgwort.de^
 !
 ! woman.tns-dk.2cnt.net disguised trackers
 !
