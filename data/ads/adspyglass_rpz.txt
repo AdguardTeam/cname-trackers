@@ -10,7 +10,6 @@
 123.manga1001.top CNAME .
 1d88r44d9t.nelasleaks.com CNAME .
 2bx0h7o3zw.nelasleaks.com CNAME .
-3.premihub.xyz CNAME .
 3weg314.2conv.com CNAME .
 5475feaab.clicknplay.to CNAME .
 58745.clicknplay.to CNAME .
@@ -33,6 +32,7 @@ a.abismo-katheryne.top CNAME .
 a.acvx.host CNAME .
 a.adult-videos.org CNAME .
 a.antiadxxxspy.com CNAME .
+a.artamkari.com CNAME .
 a.bitporno.com CNAME .
 a.bitporno.to CNAME .
 a.bloblohub.com CNAME .
@@ -52,6 +52,7 @@ a.hentaimotel.com CNAME .
 a.hentaitube.icu CNAME .
 a.hubhubhub.name CNAME .
 a.kagiti.club CNAME .
+a.kantotin.net CNAME .
 a.katomu.club CNAME .
 a.letsjerk.org CNAME .
 a.letsjerk.tv CNAME .
@@ -63,6 +64,7 @@ a.pinayviralsexx.com CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.pornhex.com CNAME .
 a.pumpity.net CNAME .
+a.redhairporn.com CNAME .
 a.reryn2ce.com CNAME .
 a.smut.cc CNAME .
 a.streamoupload.xyz CNAME .
@@ -90,6 +92,7 @@ ad.pornutopia.org CNAME .
 ad.ttstreaming.stream CNAME .
 ad.wawacity.xyz CNAME .
 adanald.icu CNAME .
+adblock.vidomo.xyz CNAME .
 adddddd.javmilk.org CNAME .
 adhome.icu CNAME .
 adilk.ilikecomix.com CNAME .
@@ -125,6 +128,7 @@ anti.uiiumovies.net CNAME .
 antiadblock.info CNAME .
 aoutime.hair CNAME .
 api.adultsclips.com CNAME .
+apiemb.xyz CNAME .
 app.phimvu.app CNAME .
 apple.analnoe24.com CNAME .
 apple.arabtoons.net CNAME .
@@ -251,6 +255,7 @@ dam.tucsun.mom CNAME .
 dashboard.fc2ppv.buzz CNAME .
 data.bangtubevideos.com CNAME .
 ddddd.javmilk.org CNAME .
+deliver.vkcdnservice.com CNAME .
 digiadzone.com CNAME .
 display.cdnbucket.com CNAME .
 dl.4kporn.xxx CNAME .
@@ -341,6 +346,7 @@ jo.fapnado.xxx CNAME .
 jo.fapnow.xxx CNAME .
 jo.hqbang.com CNAME .
 js.j8jp.com CNAME .
+js.manga1000.top CNAME .
 js.manga9.co CNAME .
 js.mangapro.top CNAME .
 js.xemkqxs.com CNAME .
@@ -385,11 +391,13 @@ makumva.all-usanomination.com CNAME .
 mangaad.xyz CNAME .
 marcusdevs.ru CNAME .
 maxcdn.dmm-video.online CNAME .
+maxhold.xyz CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 meoem.lol CNAME .
 messic.lol CNAME .
 meyd.7mmtv.top CNAME .
+mficlyxgvfsp.cdnvideo3.com CNAME .
 mide.7mmtv.top CNAME .
 missgrand.beauty CNAME .
 missunow.lol CNAME .
@@ -431,6 +439,7 @@ oj.fapnado.xxx CNAME .
 oj.fapnow.xxx CNAME .
 onetwohub.com CNAME .
 ontj.com CNAME .
+open.oksrv.com CNAME .
 opus.sexyxxx.biz CNAME .
 orderz.lol CNAME .
 outallin.mom CNAME .
@@ -452,6 +461,7 @@ pihu.xxxpornhd.pro CNAME .
 pivo.tracked.one CNAME .
 pizzazz.lol CNAME .
 plutoclean.com CNAME .
+pnpjceawvmeu.cdnvideo3.com CNAME .
 pop.dtoo1.space CNAME .
 pornve.sexyadsrun.com CNAME .
 pornvideos.casa CNAME .
@@ -509,6 +519,7 @@ sharkbiz.lol CNAME .
 shemale.house CNAME .
 shemale.team CNAME .
 shengcu.mom CNAME .
+shmeia.xyz CNAME .
 shukri.mwikace.com CNAME .
 sin.chjnmi.xyz CNAME .
 slave.kbjfree.com CNAME .
@@ -631,5 +642,4 @@ cdn.manhwadesu.me CNAME .
 ;
 ; u53.hypnorat.com disguised trackers
 ;
-h-ay.com CNAME .
 qhip.com CNAME .

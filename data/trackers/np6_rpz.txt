@@ -42,6 +42,7 @@ tr.asp002q.espmp-aufr.net CNAME .
 tr.asp002x.espmp-cufr.net CNAME .
 tr.asp0085.espmp-nifr.net CNAME .
 tr.asp008y.espmp-nifr.net CNAME .
+tr.asp00a0.espmp-cufr.net CNAME .
 tr.asp00a1.espmp-agfr.net CNAME .
 tr.asp00a3.espmp-agfr.net CNAME .
 tr.asp00a6.espmp-nifr.net CNAME .
@@ -50,6 +51,7 @@ tr.asp103z.espmp-nifr.net CNAME .
 tr.asp104p.espmp-aufr.net CNAME .
 tr.asp106d.espmp-cufr.net CNAME .
 tr.asp106g.espmp-nifr.net CNAME .
+tr.asp1098.espmp-cufr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
 tr.asp10c8.espmp-agfr.net CNAME .
@@ -74,6 +76,7 @@ tr.asp2075.espmp-nifr.net CNAME .
 tr.asp2076.espmp-pofr.net CNAME .
 tr.asp2078.espmp-nifr.net CNAME .
 tr.asp207e.espmp-nifr.net CNAME .
+tr.assoc.cfsr-retine.com CNAME .
 tr.avisecheance.maaf.fr CNAME .
 tr.axa.espmp-aufr.net CNAME .
 tr.b2d1.espmp-agfr.net CNAME .
@@ -86,6 +89,7 @@ tr.batiweb.co CNAME .
 tr.bgl.premium-benefits.lu CNAME .
 tr.bienvenue.envie-de-bien-manger.com CNAME .
 tr.bizzquotes.co.uk CNAME .
+tr.bodet.devisdirect.com CNAME .
 tr.boletim.companeo.pt CNAME .
 tr.boletim.meu-orcamento.pt CNAME .
 tr.bonplan.mydesign.com CNAME .
@@ -109,6 +113,7 @@ tr.businessdev.younited-credit.es CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.cacf.ipsos-surveys.com CNAME .
 tr.camara.eu.com CNAME .
+tr.carl.espmp-cufr.net CNAME .
 tr.cart02d.espmp-agfr.net CNAME .
 tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
@@ -117,8 +122,10 @@ tr.cashback.floa.fr CNAME .
 tr.cb4x.banque-casino.fr CNAME .
 tr.cb4x.floa.fr CNAME .
 tr.cdiscount.3wregie.com CNAME .
+tr.ceeregion.moethennessy.com CNAME .
 tr.christmas.petit-bateau.com CNAME .
 tr.cifa.espmp-nifr.net CNAME .
+tr.cifa02b.espmp-aufr.net CNAME .
 tr.cifa02k.espmp-aufr.net CNAME .
 tr.citiesforlifeparis.latribune.fr CNAME .
 tr.cj.bordeaux-metropole.fr CNAME .
@@ -140,9 +147,11 @@ tr.com-web.sfr.fr CNAME .
 tr.com.sfr.fr CNAME .
 tr.combca.fr CNAME .
 tr.commande.location.boulanger.com CNAME .
+tr.commint.groupe.chapsvision.com CNAME .
 tr.communaute.caradisiac.com CNAME .
 tr.communautes-mediametrie.fr CNAME .
 tr.communication.ancv.com CNAME .
+tr.communication.armatis-lc.com CNAME .
 tr.communication.arthur-bonnet.com CNAME .
 tr.communication.b2b-actualites.com CNAME .
 tr.communication.boursorama.info CNAME .
@@ -176,6 +185,7 @@ tr.contact.e-turf.fr CNAME .
 tr.contact.lead.eu.com CNAME .
 tr.contact.leadsonline.fr CNAME .
 tr.contact.lvmh.fr CNAME .
+tr.contact.makemelead.com CNAME .
 tr.contact.makemelead.info CNAME .
 tr.contact.mhl-publishing.fr CNAME .
 tr.contact.ruinart.com CNAME .
@@ -243,6 +253,7 @@ tr.email.archiexpo.com CNAME .
 tr.email.contact-jaguar.fr CNAME .
 tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
+tr.email.d17.tv CNAME .
 tr.email.directindustry.com CNAME .
 tr.email.distributor-expo.com CNAME .
 tr.email.esprit-de-france.com CNAME .
@@ -352,6 +363,7 @@ tr.info.capfun.com CNAME .
 tr.info.cartesaffaires.bnpparibas CNAME .
 tr.info.casino-proximites.fr CNAME .
 tr.info.certypro.fr CNAME .
+tr.info.clicochic.com CNAME .
 tr.info.cnch.fr CNAME .
 tr.info.comparadordeprestamos.es CNAME .
 tr.info.conexancemd.com CNAME .
@@ -369,6 +381,7 @@ tr.info.harmonie-mutuelle.fr CNAME .
 tr.info.lacentrale.fr CNAME .
 tr.info.linxea.com CNAME .
 tr.info.mango-mobilites.fr CNAME .
+tr.info.mango-mobilitesbyaprr.fr CNAME .
 tr.info.mavoiturecash.fr CNAME .
 tr.info.maxis-gbn.com CNAME .
 tr.info.mcgarrybowen.com CNAME .
@@ -408,6 +421,7 @@ tr.infos.afpa.fr CNAME .
 tr.infos.fongecifcentre.com CNAME .
 tr.infos.gazdebordeaux.fr CNAME .
 tr.infos.lacarte.demenagez-moi.com CNAME .
+tr.infos.lettre-resiliation.com CNAME .
 tr.infos.mailrungis.com CNAME .
 tr.infos.odalys-vacances.com CNAME .
 tr.inspiration.culture-data.fr CNAME .
@@ -454,6 +468,7 @@ tr.mail.cdiscount.com.ec CNAME .
 tr.mail.cdiscount.com.pa CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
 tr.mail.floa.fr CNAME .
+tr.mail.hagerservices.fr CNAME .
 tr.mail.koregraf.com CNAME .
 tr.mail.mdbp.fr CNAME .
 tr.mail.moncoupdepouce.com CNAME .
@@ -480,6 +495,7 @@ tr.marketing.tennaxia.com CNAME .
 tr.marketing.younited-credit.com CNAME .
 tr.marketing.younited-credit.es CNAME .
 tr.marketing.younited-credit.pt CNAME .
+tr.marketingdisruption.co.uk CNAME .
 tr.mart.espmp-agfr.net CNAME .
 tr.mattressman.co.uk CNAME .
 tr.melhores-propostas.pt CNAME .
@@ -608,6 +624,7 @@ tr.news.lacollectionairfrance.co.uk CNAME .
 tr.news.lacollectionairfrance.de CNAME .
 tr.news.lacollectionairfrance.fr CNAME .
 tr.news.lalettredelexpansion.com CNAME .
+tr.news.latribunebordeaux.fr CNAME .
 tr.news.leclubtravel.fr CNAME .
 tr.news.lentreprise.lexpress.fr CNAME .
 tr.news.lexpansion.lexpress.fr CNAME .
@@ -695,6 +712,7 @@ tr.newsletterpagesjaunes.fr CNAME .
 tr.newsletters-bonpoint.com CNAME .
 tr.newsletters.alticemedia.com CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
+tr.newsletters.qapa-interim.fr CNAME .
 tr.newsletters.youmeetings.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .
 tr.nl.2wls.net CNAME .
@@ -749,6 +767,7 @@ tr.partenaire.manageo.info CNAME .
 tr.particuliers8.engie.com CNAME .
 tr.partners.younited-credit.it CNAME .
 tr.pixe.espmp-cufr.net CNAME .
+tr.pm.pelhammedia.com CNAME .
 tr.pole-emploi-services.com CNAME .
 tr.policyexpert.info CNAME .
 tr.politicolive.eu CNAME .
@@ -789,6 +808,7 @@ tr.recouvrement.seeric.com CNAME .
 tr.recouvrement.younited-credit.com CNAME .
 tr.redaction.essentiel-sante-magazine.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .
+tr.relation-mediametrie.fr CNAME .
 tr.relation.uneo.fr CNAME .
 tr.remboursement.orange.fr CNAME .
 tr.renowizze.be CNAME .
@@ -895,6 +915,7 @@ tr1.lr003.net CNAME .
 tr1.mailperf.com CNAME .
 tr1.mailperformance.com CNAME .
 tr1.mperf.com CNAME .
+tr1.psa-surveys.com CNAME .
 tr5.mailperf.com CNAME .
 tracking.allopneus.com CNAME .
 www.tr.bfc-mp.caisse-epargne.fr CNAME .

@@ -33,6 +33,7 @@
 ||tracking.tchibo.cz^
 ||tracking.tchibo.de^
 ||tracking.tchibo.hu^
+||tracking.tchibo.pl^
 ||tracking.tchibo.sk^
 ||trk.nuernberger.de^
 ||w3.flatex.at^
@@ -42,6 +43,7 @@
 ||w3.vitrade.de^
 ||webts.adac.de^
 ||wt.distrelec.com^
+||wtm.interhyp.de^
 ||www7.springer.com^
 !
 ! wt-eu02.net disguised trackers
@@ -106,6 +108,7 @@
 ||di.ifolor.fr^
 ||di.ifolor.ie^
 ||di.ifolor.it^
+||di.ifolor.lu^
 ||di.ifolor.net^
 ||di.spreadmorelove.ch^
 ||dnsbl.test.wbtrkk.teufel.de^
@@ -131,6 +134,7 @@
 ||fiwinet.firmenwissen.com^
 ||fiwinet.firmenwissen.de^
 ||foro.data.srf.ch^
+||google.data.srf.ch^
 ||hbbtv-track.prosieben.de^
 ||hbbtv-track.prosiebensat1puls4.com^
 ||img.foodspring.at^
@@ -140,6 +144,7 @@
 ||img.foodspring.dk^
 ||img.foodspring.es^
 ||img.foodspring.fr^
+||img.foodspring.hr^
 ||img.foodspring.it^
 ||img.foodspring.se^
 ||intelligence.officialwesthamstore.com^
@@ -163,6 +168,7 @@
 ||mit.researchlog.dbresearch.com^
 ||mit.researchlog.dbresearch.de^
 ||nov.data.srf.ch^
+||ot.obi-baumarkt.ch^
 ||ot.obi-brico.ch^
 ||ot.obi-italia.it^
 ||ot.obi.at^
@@ -193,6 +199,7 @@
 ||scout.bergfreunde.no^
 ||scout.bergfreunde.se^
 ||spr.welt.de^
+||stage.www.data.srf.ch^
 ||startrekk.flaconi.at^
 ||startrekk.flaconi.fr^
 ||startrekk.flaconi.pl^
@@ -311,6 +318,7 @@
 ||web.tamaris.com^
 ||web.tummy-tox.com^
 ||web.tummytox.de^
+||web.tummytox.fr^
 ||web.tummytox.it^
 ||web.tummytox.pt^
 ||web.tummytox.sk^

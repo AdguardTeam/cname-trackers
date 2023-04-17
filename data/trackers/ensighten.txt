@@ -4,7 +4,6 @@
 ! nc0.co disguised trackers
 !
 ||activate.aami.com.au^
-||activate.academy.com^
 ||activate.anntaylor.com^
 ||activate.apia.com.au^
 ||activate.baltimoresun.com^
@@ -27,7 +26,6 @@
 ||activate.lanebryant.com^
 ||activate.latimes.com^
 ||activate.loft.com^
-||activate.maurices.com^
 ||activate.mcall.com^
 ||activate.mdgazette.com^
 ||activate.napersun.com^
@@ -68,7 +66,6 @@
 ||analytics.carecreditprovidercenter.com^
 ||analytics.ensighten.com^
 ||analytics.lumberliquidators.com^
-||analytics.michiganlottery.com^
 ||analytics.mysynchrony.com^
 ||analytics.ovative.com^
 ||analytics.polaris.com^
@@ -110,8 +107,11 @@
 ||businessmetrics.syf.com^
 ||cm.oneidentity.com^
 ||cm.quest.com^
+||cmp.cupra.be^
 ||cmp.dieteren.be^
 ||cmp.seat.be^
+||cmp.skoda.be^
+||cmp.volkswagen.be^
 ||co-operative.activate.ensighten.com^
 ||coke.activate.ensighten.com^
 ||consent.irvinecompany.com^
@@ -140,6 +140,7 @@
 ||cookies.jll.fi^
 ||cookies.jll.fr^
 ||cookies.jll.hu^
+||cookies.jll.ie^
 ||cookies.jll.it^
 ||cookies.jll.lu^
 ||cookies.jll.nl^
@@ -159,11 +160,6 @@
 ||data.ford.com^
 ||data.lincoln.com^
 ||data.privacy.ensighten.com^
-||dc.apothic.com^
-||dc.barefootwine.com^
-||dc.darkhorsewine.com^
-||dc.directtv.com^
-||dc.directv.com^
 ||dc.esterethyl.com^
 ||dc.gordonsjewelers.com^
 ||dc.jared.com^
@@ -181,7 +177,6 @@
 ||dsg.activate.ensighten.com^
 ||eb.trbas.com^
 ||emetrics.eastwestbank.com^
-||ens-orlet.activate.ensighten.com^
 ||ens.bote.ch^
 ||ens.luzernerzeitung.ch^
 ||ens.nidwaldnerzeitung.ch^
@@ -214,8 +209,6 @@
 ||gst.pulse.toyota.com^
 ||latimes.activate.ensighten.com^
 ||letsencrypt.data.ensighten.com^
-||madata.newlook.com^
-||maurices.activate.ensighten.com^
 ||mcdonalds.activate.ensighten.com^
 ||measure.ensighten.com^
 ||metrics.mysynchrony.com^
@@ -224,7 +217,6 @@
 ||mjt.lacoste.com^
 ||msft-frcmo.activate.ensighten.com^
 ||nexus.ensighten.tiaa.org^
-||nexus.libertymutual.com^
 ||nexus.mbna.ca^
 ||nexus.td.com^
 ||nexus.tdassurance.com^
@@ -254,7 +246,6 @@
 ||pulse.quaero.com^
 ||pulse.rac.co.uk^
 ||pulse.sleepnumber.com^
-||pulse.synergy.net.au^
 ||pulse.wyndhamhotels.com^
 ||secureanalytics.carecredit.com^
 ||secureanalytics.syf.com^
@@ -274,8 +265,6 @@
 ||t.janieandjack.com^
 ||tagman.britishairways.com^
 ||tagman.crystalsummer.co.uk^
-||tagman.fotolia.com^
-||tagman.intercall.com^
 ||tagman.silversingles.com^
 ||tagman.surfstitch.com^
 ||tagman.thistle.com^
@@ -297,6 +286,7 @@
 ||tags.wyndhamhotels.com^
 ||tam.volkswagen.com^
 ||tdi.cartoonnetwork.com^
+||tea.tescobank.com^
 ||test3-dc.jared.com^
 ||test3-dc.kay.com^
 ||test3-dc.kayoutlet.com^

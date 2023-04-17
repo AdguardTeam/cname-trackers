@@ -18,6 +18,7 @@
 ||tk.airfrance.ch^
 ||tk.airfrance.cm^
 ||tk.airfrance.co.ao^
+||tk.airfrance.co.il^
 ||tk.airfrance.co.jp^
 ||tk.airfrance.co.kr^
 ||tk.airfrance.co.uk^
@@ -37,6 +38,7 @@
 ||tk.airfrance.in^
 ||tk.airfrance.it^
 ||tk.airfrance.ma^
+||tk.airfrance.mg^
 ||tk.airfrance.mq^
 ||tk.airfrance.mu^
 ||tk.airfrance.ng^
@@ -46,6 +48,7 @@
 ||tk.airfrance.pt^
 ||tk.airfrance.re^
 ||tk.airfrance.ro^
+||tk.airfrance.rs^
 ||tk.airfrance.ru^
 ||tk.airfrance.se^
 ||tk.airfrance.sg^
@@ -76,6 +79,7 @@
 ||tk.kitchendiet.fr^
 ||tk.klm.com^
 ||tk.kusmitea.com^
+||tk.lacoste.com^
 ||tk.lamaisonduchocolat.com^
 ||tk.lcl.fr^
 ||tk.little-big-change.com^

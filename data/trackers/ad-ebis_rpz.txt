@@ -80,6 +80,7 @@ adebis.qeee.jp CNAME .
 adebis.real-style.co.jp CNAME .
 adebis.report.clinic CNAME .
 adebis.reruju.com CNAME .
+adebis.saison-pocket.com CNAME .
 adebis.satori.marketing CNAME .
 adebis.sbishinseibank.co.jp CNAME .
 adebis.sbpayment.jp CNAME .
@@ -230,6 +231,7 @@ ebis.touhan-navi.com CNAME .
 ebis.treasurenet.jp CNAME .
 ebis.u2yokohama.co.jp CNAME .
 ebis.umulin-lab.com CNAME .
+ebis.yumeyakata.com CNAME .
 ebis01.vernal.co.jp CNAME .
 ebis01.zkai.co.jp CNAME .
 ebis2020.hoiku-job.net CNAME .

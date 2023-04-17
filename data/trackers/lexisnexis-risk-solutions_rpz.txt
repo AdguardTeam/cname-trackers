@@ -272,6 +272,7 @@ content.varetire.org CNAME .
 content.washingtonnational.com CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
+content1.esdiacapi.com CNAME .
 content1.reprisefinancial.com CNAME .
 content2.instacart.com CNAME .
 content21.snapfinance.com CNAME .
@@ -411,6 +412,7 @@ image.online.adp.com CNAME .
 images.applyfleet.com CNAME .
 images.essofleetoffers.com CNAME .
 images.exxonmobilfleetoffers.com CNAME .
+images.sunocofleetcards.com CNAME .
 images.wexinc.com CNAME .
 imagesmx.cdiscountpro.com CNAME .
 imagesmx.cdscdn.com CNAME .
@@ -421,7 +423,6 @@ img.getkansasbenefits.gov CNAME .
 img.lascana.nl CNAME .
 img.neora.com CNAME .
 img.oney.fr CNAME .
-img.remit.co.jp CNAME .
 img.zootweb.com CNAME .
 img02.pensionfund.org CNAME .
 img1.bog.ge CNAME .
@@ -458,6 +459,7 @@ jj203.equitablebank.ca CNAME .
 jplspr.jackpot.com CNAME .
 jytrnq.cm-cic.com CNAME .
 kfp.intuit.com CNAME .
+kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
 lfp.intuit.com CNAME .
 ln.meudigio.com.br CNAME .
@@ -498,6 +500,8 @@ nexus-svc.sc.com CNAME .
 nv-2.liveaction.com CNAME .
 ocs.ameriprise.com CNAME .
 offtest.fnfis.com CNAME .
+ofxmryjd.seller.walmart.com CNAME .
+ofxmryjd.walmart.com CNAME .
 ola2.tdameritrade.com CNAME .
 olacontent.schwab.com CNAME .
 online-metrix.imars.cloud CNAME .
@@ -528,6 +532,7 @@ portal-fp-qa2.qa.threatmetrix.com CNAME .
 portal-fp-qaperf2.qa.threatmetrix.com CNAME .
 portal-fp.threatmetrix.com CNAME .
 pov.spectrum.net CNAME .
+prod-ascuaz.chaperone.lumindigitalhosting.com CNAME .
 prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
@@ -616,6 +621,7 @@ sitehelper.optimizemoney.com CNAME .
 solstice.ibotta.com CNAME .
 sptbb.pilates.com CNAME .
 src.ebay-us.com CNAME .
+src0.myvoffice.com CNAME .
 ssafp.samsclub.com CNAME .
 st10.sofi.com CNAME .
 stat.blueorangebank.com CNAME .
@@ -675,6 +681,7 @@ t1.tacdn.com CNAME .
 t1.welab.bank CNAME .
 t42rsn90.uplift.com CNAME .
 tag-unclaimed.oregon.gov CNAME .
+tag.claimitar.com CNAME .
 tag.findmassmoney.com CNAME .
 tag.findyourunclaimedproperty.com CNAME .
 tag.icash.illinoistreasurer.gov CNAME .
@@ -712,6 +719,7 @@ tags.s-dati.com CNAME .
 tags.ulsterbank.co.uk CNAME .
 tags.ulsterbankanytimebanking.co.uk CNAME .
 tags.ulsterbankanytimebanking.ie CNAME .
+tblsdp.tonybet.ca CNAME .
 tbp.tescobank.com CNAME .
 tcontent.auchantelecom.fr CNAME .
 tcontent.cdiscountmobile.cdiscount.com CNAME .
@@ -724,6 +732,7 @@ thm12.visa.com CNAME .
 thmep.zondaglobal.com CNAME .
 thrm-scrq-0001.crypterium.com CNAME .
 tm-analytics.bluevine.com CNAME .
+tm-eps.neutrino.nu CNAME .
 tm-out.cardinalcommerce.com CNAME .
 tm.barclays.co.uk CNAME .
 tm.barstoolsportsbook.com CNAME .

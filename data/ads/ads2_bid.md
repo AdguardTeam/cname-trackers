@@ -68,6 +68,7 @@
 | ac-dir-sing.8njhhs0ivx.com | sing.lb.rtb.ads.bid |
 | ac-dir-sing.cau1aighae.com | sing.lb.rtb.ads.bid |
 | ac-dir-sing.jsgbmmcapc.com | sing.lb.rtb.ads.bid |
+| ac-dir-sing.nask2sowrz.com | sing.lb.rtb.ads.bid |
 | ac-dir-sing.t4ergzwf7r.com | sing.lb.rtb.ads.bid |
 | ac-dir-sing.xw1fx50x35.com | sing.lb.rtb.ads.bid |
 | adsbid-sh-click.sing.adghndou0sdh.ru | sing.lb.rtb.ads.bid |
@@ -82,6 +83,7 @@
 | di-res-sing.jsgbmmcapc.com | sing.lb.rtb.ads.bid |
 | di-res-sing.t4ergzwf7r.com | sing.lb.rtb.ads.bid |
 | di-res-sing.xw1fx50x35.com | sing.lb.rtb.ads.bid |
+| dsp-image-resizer-sing.adsbid.ru | sing.lb.rtb.ads.bid |
 | sing.3h1fpq39jb.ru | sing.lb.rtb.ads.bid |
 | sing.8njhhs0ivx.com | sing.lb.rtb.ads.bid |
 | sing.cau1aighae.com | sing.lb.rtb.ads.bid |

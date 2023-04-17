@@ -6,8 +6,6 @@
 c333.macworld.co.uk
 partners.time.com
 sponsor.syracuse.com
-www.realworldsurvivor.com
-www1.cultivatedknowledge.com
 #
 # ntvpforever.com disguised trackers
 #
@@ -37,6 +35,7 @@ www1.cultivatedknowledge.com
 157d5e4847.7b094dba79.com
 1723cba717.8592fb1c1d.com
 1795105253.e02fe0d0c1.com
+184d6c5595.dff2c5fc33.com
 19364edf69.b88f1c5cda.com
 196af26667.9072b44d3e.com
 1b6ab23d2c.255b9e74d2.com
@@ -49,10 +48,12 @@ www1.cultivatedknowledge.com
 234e54cf56.e9f1af32f6.com
 2547cd401b.d8a452e2da.com
 26e33d5110.b91c577b4d.com
+2a98a4b811.a2a2fd6dd1.com
 2b93cd08b5.fd40cd3322.com
 2c9ed85c0b.b2acafb3a3.com
 2d56aafb14.8767fbfa8b.com
 2efa46ca31.da03ab7249.com
+2fa1db4c6a.6effce3135.com
 310fdbd5d8.a9e8387c9e.com
 32b7b3da4e.a0e54ba172.com
 3309734ae8.329a540736.com
@@ -73,6 +74,7 @@ www1.cultivatedknowledge.com
 428fcb314a.5ae63880d1.com
 434d80d136.a07d30aaf0.com
 45f71a1f62.912644c528.com
+463c285fde.66dbf809af.com
 46bdd45622.48b1378f08.com
 46fe7fa264.4d2a483049.com
 48c1f78392.31f4ea3b17.com
@@ -127,6 +129,7 @@ www1.cultivatedknowledge.com
 749e473277.b6deee8a5f.com
 74ae08c95d.364a426c46.com
 7734af9d7a.854a08a35e.com
+77998a50f4.d9e6fb9edb.com
 790d5944bd.7d1f2e00ed.com
 79a0430857.7c56087863.com
 7a8ba6e850.bc40aaccb7.com
@@ -150,6 +153,7 @@ www1.cultivatedknowledge.com
 898dd5a858.a06e054b4c.com
 8a7f64eb48.5a46c72f0e.com
 8a86cfec6c.db4a1656b5.com
+8aa53eb242.136287d626.com
 8ac8c6d855.17c12b43a7.com
 8bb3b7c35f.e93014ee07.com
 8bd9187370.468a044700.com
@@ -169,7 +173,6 @@ www1.cultivatedknowledge.com
 95bb3314e7.66efeb9730.com
 96b76b02f1.49af7cee19.com
 9757fdc45b.92b501c719.com
-97b9d5e7ec.14165563f4.com
 98028f4b73.c9b501fef3.com
 991884fac3.ff206c9291.com
 999a328fa0.86521e18d4.com
@@ -238,6 +241,7 @@ cce1fcf4c7.cca57f4672.com
 cd4a13a8dd.8f1a606535.com
 ceb8265201.4eb28685b6.com
 cf6eefecd9.76362b26c3.com
+d04674bbdd.e02b15bc59.com
 d2777cf1df.76842c6a2a.com
 d2a62a8a22.6b34f18ccd.com
 d310a0f1fe.91c58a050f.com
@@ -273,7 +277,6 @@ ee68acd3fc.87a8aa9251.com
 f1763f2f87.f4f8fb91df.com
 f1ab40b1ac.91a3c37128.com
 f1c61224ea.edbc0469bd.com
-f24d473f74.60d4631eb3.com
 f2ce8cf738.110938bbb2.com
 f33772ce13.749cad1027.com
 f43060abfc.1527bf2da3.com
@@ -291,7 +294,23 @@ ffe405491d.28b67b8230.com
 #
 # postrelease.com disguised trackers
 #
-a235.nhregister.com
+a135.wpxi.com
+a135.wsoctv.com
+a235.lmtonline.com
+a235.newstimes.com
+a235.seattlepi.com
+a235.stamfordadvocate.com
+a235.thetelegraph.com
+ajc.share.ntv.io
+al.share.ntv.io
+cricketwireless.share.ntv.io
+fortune.share.ntv.io
+gva.share.ntv.io
+ksn.share.ntv.io
+mlive.share.ntv.io
+mortgagesolutions.share.ntv.io
+northbaybusinessjournal.share.ntv.io
+pcworld.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
 #
@@ -330,6 +349,7 @@ a235.middletownpress.com
 a235.mrt.com
 a235.myplainview.com
 a235.newstimes.com
+a235.nhregister.com
 a235.registercitizen.com
 a235.seattlepi.com
 a235.sfgate.com
@@ -340,10 +360,6 @@ a235.timesunion.com
 # partners-time-com-prod.edgeserving.com disguised trackers
 #
 partners.time.com
-#
-# realworldsurvivor-com-prod.edgeserving.com disguised trackers
-#
-www.realworldsurvivor.com
 #
 # cultivatedknowledge-com-www1.edgeserving.com disguised trackers
 #

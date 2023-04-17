@@ -18,6 +18,7 @@
     * flatex-de01.webtrekk.net
     * heise02.webtrekk.net
     * ingnl04.webtrekk.net
+    * interhyp02.webtrekk.net
     * kfw-05.webtrekk.net
     * kfw-06.webtrekk.net
     * kfw-07.webtrekk.net
@@ -30,6 +31,7 @@
     * tchibo02.webtrekk.net
     * tchibo03.webtrekk.net
     * tchibo04.webtrekk.net
+    * tchibo05.webtrekk.net
     * tchibo06.webtrekk.net
     * tchibo07.webtrekk.net
     * tchibo08.webtrekk.net
@@ -244,9 +246,11 @@
 | backup.data.srf.ch | 292330999892453.wt-eu02.net |
 | data.srf.ch | 292330999892453.wt-eu02.net |
 | foro.data.srf.ch | 292330999892453.wt-eu02.net |
+| google.data.srf.ch | 292330999892453.wt-eu02.net |
 | lax.data.srf.ch | 292330999892453.wt-eu02.net |
 | nov.data.srf.ch | 292330999892453.wt-eu02.net |
 | s5.data.srf.ch | 292330999892453.wt-eu02.net |
+| stage.www.data.srf.ch | 292330999892453.wt-eu02.net |
 | data.mapp.com | 292595354576025.wt-eu02.net |
 | web.campaign.v73.it | 302571338326011.wt-eu02.net |
 | data.engelhorn.com | 302631813489498.wt-eu02.net |
@@ -266,6 +270,7 @@
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
 | web.tummy-tox.com | 366003812072969.wt-eu02.net |
 | web.tummytox.de | 366003812072969.wt-eu02.net |
+| web.tummytox.fr | 366003812072969.wt-eu02.net |
 | web.tummytox.it | 366003812072969.wt-eu02.net |
 | web.tummytox.pt | 366003812072969.wt-eu02.net |
 | web.tummytox.sk | 366003812072969.wt-eu02.net |
@@ -403,6 +408,7 @@
 | di.ifolor.fr | di.ifolor.wt-eu02.net |
 | di.ifolor.ie | di.ifolor.wt-eu02.net |
 | di.ifolor.it | di.ifolor.wt-eu02.net |
+| di.ifolor.lu | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
 | di.spreadmorelove.ch | di.ifolor.wt-eu02.net |
 | wt.distrelec.com | distrelec-02.webtrekk.net |
@@ -456,6 +462,7 @@
 | img.foodspring.dk | img-foodspring01.wt-eu02.net |
 | img.foodspring.es | img-foodspring01.wt-eu02.net |
 | img.foodspring.fr | img-foodspring01.wt-eu02.net |
+| img.foodspring.hr | img-foodspring01.wt-eu02.net |
 | img.foodspring.it | img-foodspring01.wt-eu02.net |
 | img.foodspring.se | img-foodspring01.wt-eu02.net |
 | scout.alpinetrek.co.uk | img.bergfreunde.wt-eu02.net |
@@ -472,6 +479,7 @@
 | scout.bergfreunde.no | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.se | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
+| wtm.interhyp.de | interhyp02.webtrekk.net |
 | data.janvanderstorm.de | janvanderstorm-01.wt-eu02.net |
 | data.shirtmaster.com | janvanderstorm-01.wt-eu02.net |
 | image.deginvest.de | kfw-05.webtrekk.net |
@@ -501,6 +509,7 @@
 | tracking.netcologne.de | netcologne-01.webtrekk.net |
 | wt.netze-bw.de | netze-bw01.wt-eu02.net |
 | trk.nuernberger.de | nuernberger02.webtrekk.net |
+| ot.obi-baumarkt.ch | obi-all.wt-eu02.net |
 | ot.obi-brico.ch | obi-all.wt-eu02.net |
 | ot.obi-italia.it | obi-all.wt-eu02.net |
 | ot.obi.at | obi-all.wt-eu02.net |
@@ -524,6 +533,7 @@
 | tracking.tchibo.ch | tchibo02.webtrekk.net |
 | tracking.tchibo.de | tchibo03.webtrekk.net |
 | tracking.eduscho.at | tchibo04.webtrekk.net |
+| tracking.tchibo.pl | tchibo05.webtrekk.net |
 | tracking.tchibo.cz | tchibo06.webtrekk.net |
 | tracking.tchibo.sk | tchibo07.webtrekk.net |
 | tracking.tchibo.hu | tchibo08.webtrekk.net |

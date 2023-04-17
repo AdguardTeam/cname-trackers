@@ -80,6 +80,7 @@
 ||adebis.real-style.co.jp^
 ||adebis.report.clinic^
 ||adebis.reruju.com^
+||adebis.saison-pocket.com^
 ||adebis.satori.marketing^
 ||adebis.sbishinseibank.co.jp^
 ||adebis.sbpayment.jp^
@@ -230,6 +231,7 @@
 ||ebis.treasurenet.jp^
 ||ebis.u2yokohama.co.jp^
 ||ebis.umulin-lab.com^
+||ebis.yumeyakata.com^
 ||ebis01.vernal.co.jp^
 ||ebis01.zkai.co.jp^
 ||ebis2020.hoiku-job.net^

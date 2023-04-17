@@ -3,12 +3,10 @@
 ;
 ; api.clickaine.com disguised trackers
 ;
-2023.beautyandrelax.icu CNAME .
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
 ad.arabxl.com CNAME .
 ad1.xero.porn CNAME .
-api.mgandzd.one CNAME .
 api.rtnews.pro CNAME .
 api.willalland.info CNAME .
 api2.clickaine.com CNAME .
@@ -32,6 +30,7 @@ c4n.shudhdesiporn.com CNAME .
 c4n.swift4claim.com CNAME .
 c4n.thefreejapaneseporn.com CNAME .
 c4n.watchpornonline.xyz CNAME .
+c4n.xporn.to CNAME .
 c4n.xxx8.me CNAME .
 c4s.bionestraff.pro CNAME .
 c8d.upde.cc CNAME .
@@ -53,6 +52,7 @@ cdm.uncensored-hentai.top CNAME .
 cdn1.memojav.com CNAME .
 ck.zzipps.com CNAME .
 cli.its2.net CNAME .
+clickc4n.pornharlot.com CNAME .
 clickc4n.pornharlot.net CNAME .
 clkn.apostle.onl CNAME .
 clkn2.apostle.onl CNAME .
@@ -74,6 +74,7 @@ hruk.jjikk.top CNAME .
 hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
+jpnj.hotpornfile.org CNAME .
 mail.7porn.ru CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .

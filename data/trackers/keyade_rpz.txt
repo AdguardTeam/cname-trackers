@@ -15,6 +15,7 @@ k.cocooncenter.de CNAME .
 k.cocooncenter.es CNAME .
 k.flynas.com CNAME .
 k.hofmann.es CNAME .
+k.laredoute.com CNAME .
 k.laredoute.es CNAME .
 k.laredoute.pt CNAME .
 k.laredoute.ru CNAME .

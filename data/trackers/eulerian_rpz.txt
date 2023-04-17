@@ -137,9 +137,11 @@ ea.millet-mountain.com CNAME .
 ea.millet-mountain.de CNAME .
 ea.millet.fr CNAME .
 ea.mistergatesdirect.com CNAME .
+ea.mnt.fr CNAME .
 ea.moncornerdeco.com CNAME .
 ea.mondial-assistance.fr CNAME .
 ea.mydailyhotel.com CNAME .
+ea.mywarner.warnerbros.fr CNAME .
 ea.natiloo.com CNAME .
 ea.netvox-assurances.com CNAME .
 ea.nextseguros.es CNAME .
@@ -158,9 +160,11 @@ ea.reunica.com CNAME .
 ea.roxy.eu CNAME .
 ea.smallable.com CNAME .
 ea.smartbox.com CNAME .
+ea.sport2000.fr CNAME .
 ea.telecommandeonline.com CNAME .
 ea.tool-fitness.com CNAME .
 ea.topsante.com CNAME .
+ea.venta-del-diablo.com CNAME .
 ea.venta-unica.com CNAME .
 ea.vente-unique.be CNAME .
 ea.vente-unique.ch CNAME .
@@ -457,6 +461,7 @@ wlp3.aegon.es CNAME .
 wnd2.destinia.cat CNAME .
 wph2.destinia.us CNAME .
 www.fasttrack.fr CNAME .
+www.fasttracker.fr CNAME .
 xay5o.toscane-boutique.fr CNAME .
 xjq5.belambra.be CNAME .
 xuc.monteleone.fr CNAME .

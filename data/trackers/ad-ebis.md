@@ -83,6 +83,7 @@
     * 435017b6-hcwlnnyg.cname.ebis.ne.jp
     * 44f2417e-guakxgpf.cname.ebis.ne.jp
     * 454c6615-hd5f4dhg.cname.ebis.ne.jp
+    * 458694f3-6pwt4nrz.cname.ebis.ne.jp
     * 4625f83e-ua37naea.cname.ebis.ne.jp
     * 48254442-xrsdfw7h.cname.ebis.ne.jp
     * 49bd8542-0a5i81lv.cname.ebis.ne.jp
@@ -131,6 +132,7 @@
     * 70e4a629-y6ciip1f.cname.ebis.ne.jp
     * 728d5fcc-6hbgpszs.cname.ebis.ne.jp
     * 730fac49-ezdvkv2x.cname.ebis.ne.jp
+    * 74583186-mvysh92x.cname.ebis.ne.jp
     * 748da21f-kuqpafku.cname.ebis.ne.jp
     * 77898d5b-lkppvk2g.cname.ebis.ne.jp
     * 7955b170-gaz6wmaw.cname.ebis.ne.jp
@@ -371,6 +373,7 @@
 | adebis.kose.co.jp | 435017b6-hcwlnnyg.cname.ebis.ne.jp |
 | adebis.theclinic.jp | 44f2417e-guakxgpf.cname.ebis.ne.jp |
 | tracking.nokai.jp | 454c6615-hd5f4dhg.cname.ebis.ne.jp |
+| ebis.yumeyakata.com | 458694f3-6pwt4nrz.cname.ebis.ne.jp |
 | cmass.massmedian.co.jp | 4625f83e-ua37naea.cname.ebis.ne.jp |
 | a9d8e7b6i5s.andgino.jp | 48254442-xrsdfw7h.cname.ebis.ne.jp |
 | ebiscosme.tamagokichi.com | 49bd8542-0a5i81lv.cname.ebis.ne.jp |
@@ -419,6 +422,7 @@
 | adebiscname.au-sonpo.co.jp | 70e4a629-y6ciip1f.cname.ebis.ne.jp |
 | ebis.sekisuihouse.com | 728d5fcc-6hbgpszs.cname.ebis.ne.jp |
 | ebis.bulk.co.jp | 730fac49-ezdvkv2x.cname.ebis.ne.jp |
+| adebis.saison-pocket.com | 74583186-mvysh92x.cname.ebis.ne.jp |
 | adebis.demae-can.com | 748da21f-kuqpafku.cname.ebis.ne.jp |
 | adebis.harutaka.jp | 77898d5b-lkppvk2g.cname.ebis.ne.jp |
 | cnebis.chocola.com | 7955b170-gaz6wmaw.cname.ebis.ne.jp |

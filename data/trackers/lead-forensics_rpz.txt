@@ -3,7 +3,6 @@
 ;
 ; ghochv3eng.trafficmanager.net disguised trackers
 ;
-capture.norm0care.com CNAME .
 secure.acor1sign.com CNAME .
 secure.agile-company-247.com CNAME .
 secure.agile-company-365.com CNAME .
@@ -14,23 +13,27 @@ secure.aiea6gaza.com CNAME .
 secure.alda1mure.com CNAME .
 secure.alea6badb.com CNAME .
 secure.alga9frog.com CNAME .
+secure.aran9midi.com CNAME .
 secure.badb5refl.com CNAME .
 secure.bait4role.com CNAME .
 secure.bali6nora.com CNAME .
 secure.bank8line.com CNAME .
 secure.barn5bake.com CNAME .
 secure.bass2poll.com CNAME .
+secure.benn8bord.com CNAME .
 secure.bike6debt.com CNAME .
+secure.blue2fund.com CNAME .
 secure.boat3deer.com CNAME .
 secure.bolt8snap.com CNAME .
 secure.bred4tula.com CNAME .
-secure.burn5tilt.com CNAME .
+secure.brie5jiff.com CNAME .
 secure.businessintuition247.com CNAME .
 secure.cage6west.com CNAME .
 secure.care5alea.com CNAME .
 secure.cart8draw.com CNAME .
 secure.cast9half.com CNAME .
 secure.cavy9soho.com CNAME .
+secure.ches5sort.com CNAME .
 secure.chip2gift.com CNAME .
 secure.chop8live.com CNAME .
 secure.cloud-ingenuity.com CNAME .
@@ -45,6 +48,7 @@ secure.dana8herb.com CNAME .
 secure.data-ingenuity.com CNAME .
 secure.data-insight365.com CNAME .
 secure.dawn3host.com CNAME .
+secure.dens1raec.com CNAME .
 secure.diet3dart.com CNAME .
 secure.doll8tune.com CNAME .
 secure.doll9jiva.com CNAME .
@@ -53,7 +57,6 @@ secure.east2pony.com CNAME .
 secure.easy0bark.com CNAME .
 secure.emeu0circ.com CNAME .
 secure.enterpriseforesight247.com CNAME .
-secure.etym6cero.com CNAME .
 secure.fear7calk.com CNAME .
 secure.feed5baby.com CNAME .
 secure.feed5mown.com CNAME .
@@ -99,15 +102,20 @@ secure.intelligentcloudforesight.com CNAME .
 secure.intelligentdataintuition.com CNAME .
 secure.iron0walk.com CNAME .
 secure.jaup0lake.com CNAME .
+secure.jody0sora.com CNAME .
 secure.josh7cuba.com CNAME .
+secure.keep0bury.com CNAME .
 secure.keet1liod.com CNAME .
 secure.kick1pore.com CNAME .
 secure.kilo6alga.com CNAME .
 secure.kota3chat.com CNAME .
+secure.kpr2exp21.com CNAME .
 secure.lack4skip.com CNAME .
 secure.lane5down.com CNAME .
 secure.late6year.com CNAME .
 secure.late8chew.com CNAME .
+secure.lave6loki.com CNAME .
+secure.lazy8krti.com CNAME .
 secure.lead5beat.com CNAME .
 secure.left5lock.com CNAME .
 secure.link5view.com CNAME .
@@ -128,8 +136,8 @@ secure.meet3monk.com CNAME .
 secure.mews2ruck.com CNAME .
 secure.mile0tire.com CNAME .
 secure.mill8grip.com CNAME .
-secure.misc1bulk.com CNAME .
 secure.moat4shot.com CNAME .
+secure.mon-com-01.com CNAME .
 secure.mown5gaze.com CNAME .
 secure.navy9gear.com CNAME .
 secure.neck6bake.com CNAME .
@@ -147,6 +155,7 @@ secure.page9awry.com CNAME .
 secure.pair1tune.com CNAME .
 secure.pass8heal.com CNAME .
 secure.path5wall.com CNAME .
+secure.pdxor02.com CNAME .
 secure.peak2poem.com CNAME .
 secure.peep1alea.com CNAME .
 secure.perk0mean.com CNAME .
@@ -159,6 +168,7 @@ secure.rate2self.com CNAME .
 secure.rate8deny.com CNAME .
 secure.rear9axis.com CNAME .
 secure.redd7liod.com CNAME .
+secure.refl3alea.com CNAME .
 secure.rigi9bury.com CNAME .
 secure.rime8lope.com CNAME .
 secure.ripe8book.com CNAME .
@@ -170,6 +180,7 @@ secure.ruth8badb.com CNAME .
 secure.ryke4peep.com CNAME .
 secure.said3page.com CNAME .
 secure.sale0home.com CNAME .
+secure.saon6harz.com CNAME .
 secure.scan6show.com CNAME .
 secure.seat6worn.com CNAME .
 secure.shoo5woop.com CNAME .
@@ -192,7 +203,8 @@ secure.soma9vols.com CNAME .
 secure.sour1bare.com CNAME .
 secure.sour7will.com CNAME .
 secure.spit0stge.com CNAME .
-secure.svr007phz.com CNAME .
+secure.sugh8yami.com CNAME .
+secure.swat8toot.com CNAME .
 secure.tank3pull.com CNAME .
 secure.team8save.com CNAME .
 secure.tent0mown.com CNAME .
@@ -205,6 +217,7 @@ secure.tray0bury.com CNAME .
 secure.tube6sour.com CNAME .
 secure.tula9mari.com CNAME .
 secure.vane3alga.com CNAME .
+secure.vick6duty.com CNAME .
 secure.visionary-business-52.com CNAME .
 secure.visionary-business-ingenuity.com CNAME .
 secure.visionary-company-ingenuity.com CNAME .
@@ -220,101 +233,149 @@ secure.wait8hurl.com CNAME .
 secure.wake4tidy.com CNAME .
 secure.want7feed.com CNAME .
 secure.wauk1care.com CNAME .
+secure.weed6tape.com CNAME .
 secure.wild0army.com CNAME .
 secure.wild8prey.com CNAME .
 secure.wine9bond.com CNAME .
 secure.wivo2gaza.com CNAME .
+secure.yeld9auto.com CNAME .
 secure.yirr5frog.com CNAME .
 www.1-cl0ud.com CNAME .
-www.1-creative-1.com CNAME .
-www.143nchrtl3.com CNAME .
+www.200-rockergod.com CNAME .
 www.33-trk-srv.com CNAME .
 www.44-trk-srv.com CNAME .
 www.44tele-infra.com CNAME .
 www.55-trk-srv.com CNAME .
-www.66infra-strat.com CNAME .
-www.adgjl13.com CNAME .
-www.alskd34.com CNAME .
 www.angorch-cdr7.com CNAME .
 www.ape78cn2.com CNAME .
 www.aqedsw4.com CNAME .
-www.aran9midi.com CNAME .
-www.atl-6-ga.com CNAME .
+www.asdfg23.com CNAME .
+www.azera-s014.com CNAME .
 www.badb5refl.com CNAME .
 www.bait4role.com CNAME .
+www.bali6nora.com CNAME .
+www.berg-6-82.com CNAME .
+www.blocwhite7.com CNAME .
+www.bolt8snap.com CNAME .
 www.bosctrl32.com CNAME .
-www.bux1le001.com CNAME .
-www.cable-cen-01.com CNAME .
-www.care5alea.com CNAME .
+www.bred4tula.com CNAME .
+www.cben9a9s1.com CNAME .
+www.cdert34.com CNAME .
+www.central-core-7.com CNAME .
+www.cloud-trail.com CNAME .
 www.cnej4912jks.com CNAME .
 www.cnt-tm-1.com CNAME .
 www.coax7nice.com CNAME .
-www.connct-9.com CNAME .
-www.core-cen-54.com CNAME .
 www.cten10010.com CNAME .
-www.dens1raec.com CNAME .
+www.cuba7tilt.com CNAME .
+www.cube-78.com CNAME .
 www.dhenr54m.com CNAME .
+www.direct-azr-78.com CNAME .
+www.djkeun1bal.com CNAME .
+www.dkjn1bal2.com CNAME .
+www.dtc-330d.com CNAME .
 www.dthvdr9.com CNAME .
 www.efvrgb12.com CNAME .
-www.eventcapture03.com CNAME .
+www.emeu0circ.com CNAME .
+www.eue21east.com CNAME .
+www.eventcapture06.com CNAME .
 www.ever-track-51.com CNAME .
+www.explore-123.com CNAME .
 www.feed5baby.com CNAME .
-www.final-azr-01.com CNAME .
-www.gard4mass.com CNAME .
+www.file3size.com CNAME .
+www.final-aws-01.com CNAME .
+www.frog9alea.com CNAME .
 www.gblwebcen.com CNAME .
-www.glb12pkgr.com CNAME .
-www.grow1maid.com CNAME .
+www.golp4elik.com CNAME .
 www.gw100-10.com CNAME .
 www.half1hell.com CNAME .
+www.herb2warn.com CNAME .
+www.hero6bell.com CNAME .
 www.hrb1tng0.com CNAME .
 www.incline9edge.com CNAME .
 www.jenxsw21lb.com CNAME .
-www.jody0sora.com CNAME .
 www.josh7cuba.com CNAME .
+www.jsnzoe301m.com CNAME .
 www.keet1liod.com CNAME .
+www.kilo6alga.com CNAME .
 www.kpr2exp21.com CNAME .
 www.kprbexp21.com CNAME .
-www.laksjd4.com CNAME .
+www.lansrv030.com CNAME .
 www.lansrv050.com CNAME .
-www.letterbox-path.com CNAME .
-www.link5view.com CNAME .
-www.mass1soma.com CNAME .
+www.lansrv060.com CNAME .
+www.lansrv070.com CNAME .
+www.lansrv080.com CNAME .
+www.lansrv090.com CNAME .
+www.lazy8krti.com CNAME .
+www.line6agar.com CNAME .
+www.m1ll1c4n0.com CNAME .
+www.mack7oyes.com CNAME .
+www.mari4norm.com CNAME .
 www.mbljpu9.com CNAME .
+www.mediaedge-info.com CNAME .
+www.mialbj6.com CNAME .
 www.mile0tire.com CNAME .
+www.mnbvc34.com CNAME .
 www.mown5gaze.com CNAME .
 www.nora7nice.com CNAME .
+www.nw-rail-03.com CNAME .
 www.nyctrl32.com CNAME .
+www.oboe3broo.com CNAME .
+www.okc-5190.com CNAME .
+www.otto5loki.com CNAME .
 www.pdxor02.com CNAME .
-www.plokij1.com CNAME .
+www.peak2poem.com CNAME .
+www.poqwo3.com CNAME .
+www.prt-or-067.com CNAME .
 www.qlzn6i1l.com CNAME .
 www.qpwoei2.com CNAME .
-www.r45j15.com CNAME .
-www.rdeswa1.com CNAME .
+www.raab3frog.com CNAME .
+www.rear9axis.com CNAME .
 www.rep0pkgr.com CNAME .
 www.req12pkgb.com CNAME .
-www.rigi9bury.com CNAME .
 www.ripe8book.com CNAME .
 www.rote8mino.com CNAME .
-www.saon6harz.com CNAME .
+www.s3network1.com CNAME .
+www.saas-eue-1.com CNAME .
 www.shrfbdg004.com CNAME .
+www.sl-ct5.com CNAME .
 www.smart-business-365.com CNAME .
+www.smart-business-foresight.com CNAME .
+www.smart-business-intuition.com CNAME .
+www.smart-company-365.com CNAME .
 www.soil5hear.com CNAME .
+www.soma9vols.com CNAME .
+www.srv00infra.com CNAME .
 www.srv1010elan.com CNAME .
 www.srv2020real.com CNAME .
 www.srvtrkxx2.com CNAME .
-www.sugh8yami.com CNAME .
+www.sw-rail-7.com CNAME .
+www.tank3pull.com CNAME .
+www.tgvrfc4.com CNAME .
+www.tire1soak.com CNAME .
+www.tm1-001.com CNAME .
 www.trace-2000.com CNAME .
+www.trackdiscovery.net CNAME .
 www.trail-route.com CNAME .
 www.trksrv45.com CNAME .
+www.trksrv46.com CNAME .
 www.tst14netreal.com CNAME .
+www.tst16infra.com CNAME .
 www.tula9mari.com CNAME .
+www.uhygtf1.com CNAME .
+www.ult-blk-cbl.com CNAME .
 www.vane3alga.com CNAME .
 www.vick6duty.com CNAME .
 www.visionarybusiness7.com CNAME .
 www.vols7feed.com CNAME .
+www.wait8hurl.com CNAME .
+www.web-01-gbl.com CNAME .
+www.wild8prey.com CNAME .
 www.yami8alea.com CNAME .
 www.ydwsjt-2.com CNAME .
+www.yirr5frog.com CNAME .
 www.zcbmn14.com CNAME .
+www.zxcvb23.com CNAME .
 ;
 ; xsp-mvp.trafficmanager.net disguised trackers
 ;
@@ -765,6 +826,10 @@ d9dda22cc43c4fad8b38c70107d31d09.fp.measure.office.com CNAME .
 195dd43099c5ffe7ccf90f7159c64c9c.clo.footprintdns.com CNAME .
 d9edf932850107974bfb68f8c1a04f0d.clo.footprintdns.com CNAME .
 ;
+; ab7079e95d7114f7e9d07b84bc4e3e1f-707203514.us-east-1.elb.amazonaws.com disguised trackers
+;
+android-analytics-prodhome1.mysoluto.com CNAME .
+;
 ; analytics-listener.trafficmanager.net disguised trackers
 ;
 android-analytics-prodhome1.mysoluto.com CNAME .
@@ -779,24 +844,9 @@ utm.semilab.hu CNAME .
 ;
 c.cintnetworks.com CNAME .
 ;
-; waws-prod-osl-001.cloudapp.net disguised trackers
-;
-c.cintnetworks.com CNAME .
-;
-; webtrack.trafficmanager.net disguised trackers
-;
-cloud.webtrack.online CNAME .
-;
-; o365diagtelemetry.trafficmanager.net disguised trackers
-;
-data.diagnostics.office.com CNAME .
-;
-; ods-logging-prod.japaneast.cloudapp.azure.com disguised trackers
-;
-data.diagnostics.office.com CNAME .
-;
 ; v3-eu-appgwv2.uksouth.cloudapp.azure.com disguised trackers
 ;
+capture.norm0care.com CNAME .
 f5.track-mv-01.com CNAME .
 secure.1-cl0ud.com CNAME .
 secure.acor1sign.com CNAME .
@@ -899,6 +949,7 @@ secure.insightful-enterprise-247.com CNAME .
 secure.insightfulbusinesswisdom.com CNAME .
 secure.insightfulcloudintuition.com CNAME .
 secure.insightfulcompanyinsight.com CNAME .
+secure.intelligent-business-wisdom.com CNAME .
 secure.intelligent-company-365.com CNAME .
 secure.intelligent-data-247.com CNAME .
 secure.intelligentcloudforesight.com CNAME .
@@ -911,6 +962,7 @@ secure.josh7cuba.com CNAME .
 secure.keep0bury.com CNAME .
 secure.keet1liod.com CNAME .
 secure.kick1pore.com CNAME .
+secure.kilo6alga.com CNAME .
 secure.kota3chat.com CNAME .
 secure.kpr2exp21.com CNAME .
 secure.lack4skip.com CNAME .
@@ -1035,6 +1087,7 @@ secure.visionary-enterprise-wisdom.com CNAME .
 secure.visionary365enterprise.com CNAME .
 secure.visionarybusiness7.com CNAME .
 secure.visionarybusinessacumen.com CNAME .
+secure.visionarycloudvision.com CNAME .
 secure.visionarycompany52.com CNAME .
 secure.vols7feed.com CNAME .
 secure.wait8hurl.com CNAME .
@@ -1052,20 +1105,40 @@ secure.yirr5frog.com CNAME .
 www.1-cl0ud.com CNAME .
 www.1-creative-1.com CNAME .
 www.123-tracker.com CNAME .
+www.143nchrtl3.com CNAME .
+www.33-trk-srv.com CNAME .
+www.44-trk-srv.com CNAME .
+www.44tele-infra.com CNAME .
+www.55-trk-srv.com CNAME .
+www.66infra-strat.com CNAME .
+www.adgjl13.com CNAME .
+www.alskd34.com CNAME .
+www.angorch-cdr7.com CNAME .
+www.ape78cn2.com CNAME .
+www.aqedsw4.com CNAME .
+www.aran9midi.com CNAME .
+www.atl-6-ga.com CNAME .
+www.badb5refl.com CNAME .
+www.bait4role.com CNAME .
 www.bali6nora.com CNAME .
 www.blue2fund.com CNAME .
 www.blzsnd02.com CNAME .
 www.bosctrl32.com CNAME .
 www.brie5jiff.com CNAME .
 www.bux1le001.com CNAME .
+www.cable-cen-01.com CNAME .
+www.care5alea.com CNAME .
 www.cben9a9s1.com CNAME .
 www.central-core-7.com CNAME .
 www.ches5sort.com CNAME .
 www.cnej4912jks.com CNAME .
 www.cnt-tm-1.com CNAME .
 www.coax7nice.com CNAME .
+www.connct-9.com CNAME .
 www.copy9loom.com CNAME .
+www.core-cen-54.com CNAME .
 www.cten10010.com CNAME .
+www.dens1raec.com CNAME .
 www.dhenr54m.com CNAME .
 www.direct-aws-a1.com CNAME .
 www.discovertrail.net CNAME .
@@ -1081,16 +1154,22 @@ www.eventcapture06.com CNAME .
 www.ever-track-51.com CNAME .
 www.feed5baby.com CNAME .
 www.final-aws-01.com CNAME .
+www.final-azr-01.com CNAME .
 www.frog9alea.com CNAME .
 www.gard4mass.com CNAME .
 www.gblwebcen.com CNAME .
+www.glb12pkgr.com CNAME .
+www.grow1maid.com CNAME .
 www.gw100-10.com CNAME .
+www.half1hell.com CNAME .
 www.head3high.com CNAME .
 www.hear8crew.com CNAME .
 www.hrb1tng0.com CNAME .
 www.incline9edge.com CNAME .
 www.jaup0lake.com CNAME .
 www.jenxsw21lb.com CNAME .
+www.jody0sora.com CNAME .
+www.josh7cuba.com CNAME .
 www.jsnzoe301m.com CNAME .
 www.keet1liod.com CNAME .
 www.kpr2exp21.com CNAME .
@@ -1103,7 +1182,9 @@ www.lansrv070.com CNAME .
 www.lazy8krti.com CNAME .
 www.lead-123.com CNAME .
 www.left5lock.com CNAME .
+www.letterbox-path.com CNAME .
 www.letterboxtrail.com CNAME .
+www.link5view.com CNAME .
 www.list1holp.com CNAME .
 www.loom3otto.com CNAME .
 www.lope4refl.com CNAME .
@@ -1113,7 +1194,15 @@ www.mali4blat.com CNAME .
 www.marx7loki.com CNAME .
 www.mass1soma.com CNAME .
 www.mbljpu9.com CNAME .
+www.mile0tire.com CNAME .
+www.mown5gaze.com CNAME .
+www.nora7nice.com CNAME .
+www.nyctrl32.com CNAME .
+www.pdxor02.com CNAME .
+www.plokij1.com CNAME .
+www.qlzn6i1l.com CNAME .
 www.qpwoei2.com CNAME .
+www.r45j15.com CNAME .
 www.raab3frog.com CNAME .
 www.rdeswa1.com CNAME .
 www.redd7liod.com CNAME .
@@ -1129,6 +1218,7 @@ www.ryke4peep.com CNAME .
 www.s3network1.com CNAME .
 www.saas-eue-1.com CNAME .
 www.san-spr-01.net CNAME .
+www.saon6harz.com CNAME .
 www.sas15k01.com CNAME .
 www.shrfbdg004.com CNAME .
 www.sl-ct5.com CNAME .
@@ -1137,7 +1227,9 @@ www.soil5hear.com CNAME .
 www.soma9vols.com CNAME .
 www.srv1010elan.com CNAME .
 www.srv2020real.com CNAME .
+www.srvtrkxx2.com CNAME .
 www.star-cntr-5.com CNAME .
+www.sugh8yami.com CNAME .
 www.text6film.com CNAME .
 www.tghbn12.com CNAME .
 www.tire1soak.com CNAME .
@@ -1157,6 +1249,14 @@ www.ydwsjt-2.com CNAME .
 www.zcbmn14.com CNAME .
 www.zmxncb5.com CNAME .
 www.zxcvb23.com CNAME .
+;
+; webtrack.trafficmanager.net disguised trackers
+;
+cloud.webtrack.online CNAME .
+;
+; ods-logging-prod.japaneast.cloudapp.azure.com disguised trackers
+;
+data.diagnostics.office.com CNAME .
 ;
 ; utm.trafficmanager.net disguised trackers
 ;

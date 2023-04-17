@@ -3,10 +3,12 @@
 !
 ! tagcommander.com disguised trackers
 !
+||acquisition.klm.com^
 ||data.decathlon.co.uk^
 ||data.decathlon.de^
 ||data.decathlon.es^
 ||data.decathlon.fr^
+||data.decathlon.it^
 ||data.decathlon.pl^
 ||data.ouigo.com^
 ||data.ubi.com^
@@ -17,6 +19,7 @@
 ||tagcommander.laredoute.be^
 ||tagcommander.laredoute.ch^
 ||tagcommander.laredoute.co.uk^
+||tc.europcar.com.au^
 ||tcdata.fnac.com^
 !
 ! ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com disguised trackers

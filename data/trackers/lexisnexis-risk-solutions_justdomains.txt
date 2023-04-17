@@ -272,6 +272,7 @@ content.varetire.org
 content.washingtonnational.com
 content.westcreekfin.com
 content.wizink.es
+content1.esdiacapi.com
 content1.reprisefinancial.com
 content2.instacart.com
 content21.snapfinance.com
@@ -411,6 +412,7 @@ image.online.adp.com
 images.applyfleet.com
 images.essofleetoffers.com
 images.exxonmobilfleetoffers.com
+images.sunocofleetcards.com
 images.wexinc.com
 imagesmx.cdiscountpro.com
 imagesmx.cdscdn.com
@@ -421,7 +423,6 @@ img.getkansasbenefits.gov
 img.lascana.nl
 img.neora.com
 img.oney.fr
-img.remit.co.jp
 img.zootweb.com
 img02.pensionfund.org
 img1.bog.ge
@@ -458,6 +459,7 @@ jj203.equitablebank.ca
 jplspr.jackpot.com
 jytrnq.cm-cic.com
 kfp.intuit.com
+kyc.usend.com
 lab4.lloydsbank.com
 lfp.intuit.com
 ln.meudigio.com.br
@@ -498,6 +500,8 @@ nexus-svc.sc.com
 nv-2.liveaction.com
 ocs.ameriprise.com
 offtest.fnfis.com
+ofxmryjd.seller.walmart.com
+ofxmryjd.walmart.com
 ola2.tdameritrade.com
 olacontent.schwab.com
 online-metrix.imars.cloud
@@ -528,6 +532,7 @@ portal-fp-qa2.qa.threatmetrix.com
 portal-fp-qaperf2.qa.threatmetrix.com
 portal-fp.threatmetrix.com
 pov.spectrum.net
+prod-ascuaz.chaperone.lumindigitalhosting.com
 prod-cstonefcu.chaperone.lumindigitalhosting.com
 prod-redwood.chaperone.lumindigitalhosting.com
 prod-sesloc.chaperone.lumindigitalhosting.com
@@ -616,6 +621,7 @@ sitehelper.optimizemoney.com
 solstice.ibotta.com
 sptbb.pilates.com
 src.ebay-us.com
+src0.myvoffice.com
 ssafp.samsclub.com
 st10.sofi.com
 stat.blueorangebank.com
@@ -675,6 +681,7 @@ t1.tacdn.com
 t1.welab.bank
 t42rsn90.uplift.com
 tag-unclaimed.oregon.gov
+tag.claimitar.com
 tag.findmassmoney.com
 tag.findyourunclaimedproperty.com
 tag.icash.illinoistreasurer.gov
@@ -712,6 +719,7 @@ tags.s-dati.com
 tags.ulsterbank.co.uk
 tags.ulsterbankanytimebanking.co.uk
 tags.ulsterbankanytimebanking.ie
+tblsdp.tonybet.ca
 tbp.tescobank.com
 tcontent.auchantelecom.fr
 tcontent.cdiscountmobile.cdiscount.com
@@ -724,6 +732,7 @@ thm12.visa.com
 thmep.zondaglobal.com
 thrm-scrq-0001.crypterium.com
 tm-analytics.bluevine.com
+tm-eps.neutrino.nu
 tm-out.cardinalcommerce.com
 tm.barclays.co.uk
 tm.barstoolsportsbook.com

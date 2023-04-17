@@ -33,6 +33,7 @@ tracking.tchibo.com.tr CNAME .
 tracking.tchibo.cz CNAME .
 tracking.tchibo.de CNAME .
 tracking.tchibo.hu CNAME .
+tracking.tchibo.pl CNAME .
 tracking.tchibo.sk CNAME .
 trk.nuernberger.de CNAME .
 w3.flatex.at CNAME .
@@ -42,6 +43,7 @@ w3.flatex.nl CNAME .
 w3.vitrade.de CNAME .
 webts.adac.de CNAME .
 wt.distrelec.com CNAME .
+wtm.interhyp.de CNAME .
 www7.springer.com CNAME .
 ;
 ; wt-eu02.net disguised trackers
@@ -106,6 +108,7 @@ di.ifolor.fi CNAME .
 di.ifolor.fr CNAME .
 di.ifolor.ie CNAME .
 di.ifolor.it CNAME .
+di.ifolor.lu CNAME .
 di.ifolor.net CNAME .
 di.spreadmorelove.ch CNAME .
 dnsbl.test.wbtrkk.teufel.de CNAME .
@@ -131,6 +134,7 @@ eht.endress.com CNAME .
 fiwinet.firmenwissen.com CNAME .
 fiwinet.firmenwissen.de CNAME .
 foro.data.srf.ch CNAME .
+google.data.srf.ch CNAME .
 hbbtv-track.prosieben.de CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
 img.foodspring.at CNAME .
@@ -140,6 +144,7 @@ img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
 img.foodspring.es CNAME .
 img.foodspring.fr CNAME .
+img.foodspring.hr CNAME .
 img.foodspring.it CNAME .
 img.foodspring.se CNAME .
 intelligence.officialwesthamstore.com CNAME .
@@ -163,6 +168,7 @@ mit.researchlog.db.com CNAME .
 mit.researchlog.dbresearch.com CNAME .
 mit.researchlog.dbresearch.de CNAME .
 nov.data.srf.ch CNAME .
+ot.obi-baumarkt.ch CNAME .
 ot.obi-brico.ch CNAME .
 ot.obi-italia.it CNAME .
 ot.obi.at CNAME .
@@ -193,6 +199,7 @@ scout.bergfreunde.nl CNAME .
 scout.bergfreunde.no CNAME .
 scout.bergfreunde.se CNAME .
 spr.welt.de CNAME .
+stage.www.data.srf.ch CNAME .
 startrekk.flaconi.at CNAME .
 startrekk.flaconi.fr CNAME .
 startrekk.flaconi.pl CNAME .
@@ -311,6 +318,7 @@ web.solesource.com CNAME .
 web.tamaris.com CNAME .
 web.tummy-tox.com CNAME .
 web.tummytox.de CNAME .
+web.tummytox.fr CNAME .
 web.tummytox.it CNAME .
 web.tummytox.pt CNAME .
 web.tummytox.sk CNAME .

@@ -30,6 +30,7 @@
 ||2e7zgbpky6h.chinese.freecodecamp.org^
 ||2rid9fii9chx.www.atlaslane.com^
 ||2yqcaqbfnv.nextgen.shareablee.com^
+||36a7wmjdcmso.my.gloryleague.basketball^
 ||3l0zszdzjhpw.www.comicleaks.com^
 ||3wn3w3skxpym.round.t3.gg^
 ||48z7wyjdsywu.www.revistaferramental.com.br^
@@ -52,7 +53,7 @@
 ||cihnqp6p65.koinly.io^
 ||cqsecshf4rd9.www.tracktheta.com^
 ||cqz6fn6aox.aporia.com^
-||cs3gk62alxjl.my.gloryleague.basketball^
+||cy98g9wuwn0n.angularjs.poc.glenigan.com^
 ||din1j0su0u99.artwallstreet.io^
 ||dlziqh9bo7.boring.fm^
 ||dsoxjxin5jji.controlconceptsusa.com^
@@ -82,9 +83,11 @@
 ||n4kb43cl2bsw.creatordrop.com^
 ||nqyuel589fq5.esgrounding.com^
 ||ocjeg2ca9uh9.mailfloss.com^
+||otx23nu6rzon.prep.toppers.com^
 ||ouc82i67pytg.www.emanualonline.com^
 ||p13vtlg7n362.clariti.app^
 ||p7h1silo3f.app.cainthus.com^
+||q3xly8i4oz.app.taxmachine.be^
 ||qnlbs2m0uoto.www.videoath.com^
 ||qqeuq1cmoooq.accuretawealth.com^
 ||qri2r94eeajr.innovationcast.com^
@@ -105,10 +108,12 @@
 ||w38ju82bano4.cv.gerardbosch.xyz^
 ||wayyaj8t094u.www.kodalia.com^
 ||wiar9wff0ma9.ping.t3.gg^
+||x2l5lsn8rvsq.li.finance^
+||x7u1lw3t1g30.animevsub.ga^
 ||xlvvy4msxr.coolinastore.com^
 ||y4e04gql5o1b.www.nookgaming.com^
-||yfbtcjlsmpv1.app.mailfloss.com^
 ||ysrrzgku6tar.us.themoneytizer.com^
+||yxbh3a53nv.adaptive.marketing^
 ||zkmhhr1fr79z.dictionary.basabali.org^
 !
 ! monopoly-drain.ga disguised trackers

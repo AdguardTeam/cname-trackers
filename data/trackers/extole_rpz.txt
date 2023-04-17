@@ -244,6 +244,7 @@ refer.hsn.com CNAME .
 refer.hushpuppies.com CNAME .
 refer.indeed.com CNAME .
 refer.issaonline.com CNAME .
+refer.itbed.com CNAME .
 refer.itcosmetics.com CNAME .
 refer.jewelersmutual.com CNAME .
 refer.joann.com CNAME .
@@ -274,6 +275,7 @@ refer.minted.com CNAME .
 refer.mpgsport.ca CNAME .
 refer.mpgsport.com CNAME .
 refer.narscosmetics.com CNAME .
+refer.newbalance.ca CNAME .
 refer.nfhsnetwork.com CNAME .
 refer.ninjakitchen.com CNAME .
 refer.nso.com CNAME .
@@ -281,6 +283,7 @@ refer.olehenriksen.com CNAME .
 refer.orbitz.com CNAME .
 refer.ouidad.com CNAME .
 refer.pacsafe.com CNAME .
+refer.pacu.com CNAME .
 refer.panerabread.com CNAME .
 refer.perriconemd.com CNAME .
 refer.pimsleur.com CNAME .
@@ -319,6 +322,7 @@ refer.spothero.com CNAME .
 refer.starfurniture.com CNAME .
 refer.steelseries.com CNAME .
 refer.stopandshop.com CNAME .
+refer.striderite.com CNAME .
 refer.studentuniverse.com CNAME .
 refer.studentuniverse.com.au CNAME .
 refer.sugarandjade.com CNAME .
@@ -331,6 +335,7 @@ refer.teladochealth.com CNAME .
 refer.terijon.com CNAME .
 refer.thecompanystore.com CNAME .
 refer.theinside.com CNAME .
+refer.themvpkc.com CNAME .
 refer.thepopcornfactory.com CNAME .
 refer.thesculptsociety.com CNAME .
 refer.thewalkingcompany.com CNAME .
@@ -403,9 +408,11 @@ share.cellcom.ca CNAME .
 share.cheaperthandirt.com CNAME .
 share.chewsidental.com CNAME .
 share.cityfurniture.com CNAME .
+share.commercialappeal.com CNAME .
 share.conceiveabilities.com CNAME .
 share.cosbar.com CNAME .
 share.couponcabin.com CNAME .
+share.courierpostonline.com CNAME .
 share.credible.com CNAME .
 share.creditninja.com CNAME .
 share.cwbank.com CNAME .
@@ -420,6 +427,7 @@ share.dslaboratories.com CNAME .
 share.dunlopsports.com CNAME .
 share.dutch.com CNAME .
 share.elpasotimes.com CNAME .
+share.empathywines.com CNAME .
 share.enterprisenews.com CNAME .
 share.esteelauder.co.kr CNAME .
 share.esteelauder.com.au CNAME .
@@ -431,6 +439,7 @@ share.fingercheck.com CNAME .
 share.firstleaf.club CNAME .
 share.firstleaf.com CNAME .
 share.floridatoday.com CNAME .
+share.freep.com CNAME .
 share.fullbay.com CNAME .
 share.galagala.com CNAME .
 share.getsetup.io CNAME .
@@ -462,6 +471,7 @@ share.livongo.com CNAME .
 share.maccosmetics.com.au CNAME .
 share.mamabearlegalforms.com CNAME .
 share.manscaped.com CNAME .
+share.mansfieldnewsjournal.com CNAME .
 share.medely.com CNAME .
 share.meettally.com CNAME .
 share.mtntough.com CNAME .
@@ -478,6 +488,7 @@ share.openenglish.com.br CNAME .
 share.opploans.com CNAME .
 share.origins.com CNAME .
 share.partsvu.com CNAME .
+share.patriotledger.com CNAME .
 share.paulmitchell.com CNAME .
 share.petsbest.com CNAME .
 share.pilotcoffeeroasters.com CNAME .
@@ -485,6 +496,7 @@ share.policygenius.com CNAME .
 share.poughkeepsiejournal.com CNAME .
 share.princess.com CNAME .
 share.promofarma.com CNAME .
+share.redding.com CNAME .
 share.refer-aveda.ca CNAME .
 share.refer-aveda.co.uk CNAME .
 share.refer-aveda.com CNAME .
@@ -500,6 +512,8 @@ share.refer-maccosmetics.es CNAME .
 share.refer-maccosmetics.fr CNAME .
 share.refer-maccosmetics.it CNAME .
 share.refer-smashbox.com CNAME .
+share.reporternews.com CNAME .
+share.rgj.com CNAME .
 share.riograndecu.org CNAME .
 share.robertmondaviwinery.com CNAME .
 share.ross-simons.com CNAME .
@@ -522,6 +536,7 @@ share.stridehealth.com CNAME .
 share.studiosashiko.com CNAME .
 share.sundaysfordogs.com CNAME .
 share.tallahassee.com CNAME .
+share.tauntongazette.com CNAME .
 share.tcpalm.com CNAME .
 share.teachersfcu.org CNAME .
 share.thenorthwestern.com CNAME .

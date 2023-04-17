@@ -8,6 +8,7 @@
 ||aff.pujckajonatan.cz^
 ||aff.realwoman.sk^
 ||aff.teshop.cz^
+||aff.teticka.cz^
 ||aff.winkey.cz^
 ||affi.cafemontana.cz^
 ||affi.dobra-miska.cz^
@@ -28,6 +29,7 @@
 ||affil.coolcocky.cz^
 ||affil.danfil.cz^
 ||affil.dobraprace.cz^
+||affil.domio.cz^
 ||affil.dotykacka.cz^
 ||affil.econea.cz^
 ||affil.eshop-rychle.cz^
@@ -119,6 +121,7 @@
 ||affiliate.coolcredit.cz^
 ||affiliate.craftholsters.com^
 ||affiliate.cryptokingdom.cz^
+||affiliate.dekovacka.cz^
 ||affiliate.deltareisen.cz^
 ||affiliate.designovynabytek.cz^
 ||affiliate.designshoes.cz^
@@ -136,6 +139,7 @@
 ||affiliate.elektronickeobojkypropsy.cz^
 ||affiliate.elisdesign.cz^
 ||affiliate.elitemarketing.cz^
+||affiliate.ellex.cz^
 ||affiliate.epohledavky.cz^
 ||affiliate.eros.sk^
 ||affiliate.escapehouse.sk^
@@ -153,6 +157,7 @@
 ||affiliate.growmarket.cz^
 ||affiliate.hamham.cz^
 ||affiliate.hanibal.cz^
+||affiliate.herbadent.cz^
 ||affiliate.hokr.eu^
 ||affiliate.horseandme.eu^
 ||affiliate.ihrelinsen.at^
@@ -199,6 +204,7 @@
 ||affiliate.pesvbyte.cz^
 ||affiliate.petr-zeman.cz^
 ||affiliate.ph7.cz^
+||affiliate.pietro-filipi.com^
 ||affiliate.platanclinique.cz^
 ||affiliate.plutoscompany.sk^
 ||affiliate.polti.cz^
@@ -213,6 +219,7 @@
 ||affiliate.rustspolecne.cz^
 ||affiliate.sexshop.cz^
 ||affiliate.sexshop51.cz^
+||affiliate.sexshop51.eu^
 ||affiliate.sexshop51.sk^
 ||affiliate.smarty.cz^
 ||affiliate.smsticket.cz^
@@ -253,6 +260,7 @@
 ||box.cryptokingdom.tech^
 ||box.kryptotrejder.sk^
 ||brana.ritualyomlazeni.cz^
+||dekovacka.hezkres.cz^
 ||doporuc.hopsej.cz^
 ||hcaffil.mironet.cz^
 ||hcbox.boomshop.sk^
@@ -339,6 +347,7 @@
 ||my.top4sport.ro^
 ||my.weplaybasketball.bg^
 ||my.weplaybasketball.cz^
+||my.weplaybasketball.gr^
 ||my.weplaybasketball.hu^
 ||my.weplaybasketball.ro^
 ||my.weplaybasketball.si^
@@ -349,11 +358,13 @@
 ||my.weplayhandball.ro^
 ||my.weplayhandball.si^
 ||my.weplayhandball.sk^
+||my.weplayvolleyball.bg^
 ||my.weplayvolleyball.cz^
 ||my.weplayvolleyball.gr^
 ||my.weplayvolleyball.ro^
 ||my.weplayvolleyball.si^
 ||my.weplayvolleyball.sk^
+||online.pdfknihovna.cz^
 ||owayfamily.ecoorganicbeauty.cz^
 ||partak.surfey.cz^
 ||partner.2din.cz^
@@ -379,6 +390,7 @@
 ||partner.bioaromakosmetika.cz^
 ||partner.bonyplus.cz^
 ||partner.brawolife.cz^
+||partner.breakout.cz^
 ||partner.brilianty.cz^
 ||partner.brillbird.cz^
 ||partner.cakemarket.eu^
@@ -525,16 +537,19 @@
 ||partner.pravopisne.cz^
 ||partner.pravopisne.sk^
 ||partner.premiove-matrace.cz^
+||partner.prosperity-vision.com^
 ||partner.prosperk.cz^
 ||partner.psidetektiv.cz^
 ||partner.root.cz^
 ||partner.royalfashion.cz^
 ||partner.runningpro.cz^
+||partner.safelab.sk^
 ||partner.salibandy.shop^
 ||partner.santao.cz^
 ||partner.scilearn.cz^
 ||partner.scootshop.cz^
 ||partner.sculpturepainting.eu^
+||partner.shopeek.cz^
 ||partner.simplymix.com^
 ||partner.skinnygirls.cz^
 ||partner.skolske-tasky.sk^
@@ -606,6 +621,7 @@
 ||partneri.biorganica.cz^
 ||partneri.bornature.cz^
 ||partneri.cannor.cz^
+||partneri.cbdkonopi.cz^
 ||partneri.cebadex.cz^
 ||partneri.cestovatelskyobchod.cz^
 ||partneri.chytraopicka.cz^
@@ -645,8 +661,8 @@
 ||partneri.lightway.cz^
 ||partneri.londonstore.cz^
 ||partneri.lucie-konigova.cz^
-||partneri.maggion.cz^
 ||partneri.mebline.cz^
+||partneri.metodajih.cz^
 ||partneri.minshop.cz^
 ||partneri.minus-age.cz^
 ||partneri.mixano.cz^
@@ -675,6 +691,7 @@
 ||partneri.richardstepan.cz^
 ||partneri.roklen.cz^
 ||partneri.rondainvest.cz^
+||partneri.salente.cz^
 ||partneri.samuelhornek.cz^
 ||partneri.serafinbyliny.cz^
 ||partneri.setrice.eu^
@@ -685,6 +702,7 @@
 ||partneri.sportmentor.cz^
 ||partneri.supportbox.cz^
 ||partneri.sviicka.cz^
+||partneri.tanahavlickova.cz^
 ||partneri.tentino.cz^
 ||partneri.toothy.cz^
 ||partneri.tradicne-feng-shui.sk^
@@ -719,6 +737,7 @@
 ||program.biocitia.eu^
 ||promo.smskouc.cz^
 ||provize.3dfitness.cz^
+||provize.brilas.cz^
 ||provize.dzumdzum.cz^
 ||provize.ftfc.cz^
 ||provize.mimulo.cz^
@@ -739,6 +758,7 @@
 ||spoluprace.eroticstore.cz^
 ||spoluprace.h2world.store^
 ||spoluprace.interbohemia.cz^
+||spoluprace.janitaurbanova.cz^
 ||spoluprace.majka-shop.cz^
 ||spoluprace.obchod-setrilek.cz^
 ||spoluprace.pohybovka.cz^

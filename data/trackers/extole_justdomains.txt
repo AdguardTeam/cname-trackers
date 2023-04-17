@@ -244,6 +244,7 @@ refer.hsn.com
 refer.hushpuppies.com
 refer.indeed.com
 refer.issaonline.com
+refer.itbed.com
 refer.itcosmetics.com
 refer.jewelersmutual.com
 refer.joann.com
@@ -274,6 +275,7 @@ refer.minted.com
 refer.mpgsport.ca
 refer.mpgsport.com
 refer.narscosmetics.com
+refer.newbalance.ca
 refer.nfhsnetwork.com
 refer.ninjakitchen.com
 refer.nso.com
@@ -281,6 +283,7 @@ refer.olehenriksen.com
 refer.orbitz.com
 refer.ouidad.com
 refer.pacsafe.com
+refer.pacu.com
 refer.panerabread.com
 refer.perriconemd.com
 refer.pimsleur.com
@@ -319,6 +322,7 @@ refer.spothero.com
 refer.starfurniture.com
 refer.steelseries.com
 refer.stopandshop.com
+refer.striderite.com
 refer.studentuniverse.com
 refer.studentuniverse.com.au
 refer.sugarandjade.com
@@ -331,6 +335,7 @@ refer.teladochealth.com
 refer.terijon.com
 refer.thecompanystore.com
 refer.theinside.com
+refer.themvpkc.com
 refer.thepopcornfactory.com
 refer.thesculptsociety.com
 refer.thewalkingcompany.com
@@ -403,9 +408,11 @@ share.cellcom.ca
 share.cheaperthandirt.com
 share.chewsidental.com
 share.cityfurniture.com
+share.commercialappeal.com
 share.conceiveabilities.com
 share.cosbar.com
 share.couponcabin.com
+share.courierpostonline.com
 share.credible.com
 share.creditninja.com
 share.cwbank.com
@@ -420,6 +427,7 @@ share.dslaboratories.com
 share.dunlopsports.com
 share.dutch.com
 share.elpasotimes.com
+share.empathywines.com
 share.enterprisenews.com
 share.esteelauder.co.kr
 share.esteelauder.com.au
@@ -431,6 +439,7 @@ share.fingercheck.com
 share.firstleaf.club
 share.firstleaf.com
 share.floridatoday.com
+share.freep.com
 share.fullbay.com
 share.galagala.com
 share.getsetup.io
@@ -462,6 +471,7 @@ share.livongo.com
 share.maccosmetics.com.au
 share.mamabearlegalforms.com
 share.manscaped.com
+share.mansfieldnewsjournal.com
 share.medely.com
 share.meettally.com
 share.mtntough.com
@@ -478,6 +488,7 @@ share.openenglish.com.br
 share.opploans.com
 share.origins.com
 share.partsvu.com
+share.patriotledger.com
 share.paulmitchell.com
 share.petsbest.com
 share.pilotcoffeeroasters.com
@@ -485,6 +496,7 @@ share.policygenius.com
 share.poughkeepsiejournal.com
 share.princess.com
 share.promofarma.com
+share.redding.com
 share.refer-aveda.ca
 share.refer-aveda.co.uk
 share.refer-aveda.com
@@ -500,6 +512,8 @@ share.refer-maccosmetics.es
 share.refer-maccosmetics.fr
 share.refer-maccosmetics.it
 share.refer-smashbox.com
+share.reporternews.com
+share.rgj.com
 share.riograndecu.org
 share.robertmondaviwinery.com
 share.ross-simons.com
@@ -522,6 +536,7 @@ share.stridehealth.com
 share.studiosashiko.com
 share.sundaysfordogs.com
 share.tallahassee.com
+share.tauntongazette.com
 share.tcpalm.com
 share.teachersfcu.org
 share.thenorthwestern.com

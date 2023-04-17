@@ -22,7 +22,6 @@
     * h-2ememain.online-metrix.net
     * h-2fiylyk1.online-metrix.net
     * h-2n067wr9.online-metrix.net
-    * h-2ngdxgzm.online-metrix.net
     * h-2qfdtlmr.online-metrix.net
     * h-2ql3c6py.online-metrix.net
     * h-2yf3c1v4.online-metrix.net
@@ -46,6 +45,7 @@
     * h-6a6y6kka.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
     * h-6jfhwoo3.online-metrix.net
+    * h-6mlhprq2.online-metrix.net
     * h-6rj18la4.online-metrix.net
     * h-6voqock8.online-metrix.net
     * h-6wp7e261.online-metrix.net
@@ -287,10 +287,12 @@
     * h-ebay-kleinanzeigen.online-metrix.net
     * h-ebay.online-metrix.net
     * h-ecampus.online-metrix.net
+    * h-egs.online-metrix.net
     * h-elsevier-fame.online-metrix.net
     * h-elsevier.online-metrix.net
     * h-emirates.online-metrix.net
     * h-equitablebank.online-metrix.net
+    * h-f2utl8kz.online-metrix.net
     * h-fairstone.online-metrix.net
     * h-fanduel.online-metrix.net
     * h-fashionworld.online-metrix.net
@@ -329,6 +331,7 @@
     * h-halifax-co-uk.online-metrix.net
     * h-halifax.online-metrix.net
     * h-hardrock.online-metrix.net
+    * h-hgy2n0ks-seller.online-metrix.net
     * h-hie95lph-duo.online-metrix.net
     * h-hie95lph-walrew.online-metrix.net
     * h-highlow.online-metrix.net
@@ -376,6 +379,7 @@
     * h-k8vif92e.sri3.online-metrix.net
     * h-kabbage.online-metrix.net
     * h-kelmar-ak.online-metrix.net
+    * h-kelmar-ar.online-metrix.net
     * h-kelmar-de.online-metrix.net
     * h-kelmar-il.online-metrix.net
     * h-kelmar-ma.online-metrix.net
@@ -392,6 +396,7 @@
     * h-kotak.online-metrix.net
     * h-kpers.online-metrix.net
     * h-kroger.online-metrix.net
+    * h-kyc.usend.com.online-metrix.net
     * h-kylottery.online-metrix.net
     * h-latam.online-metrix.net
     * h-latamairlines.online-metrix.net
@@ -528,6 +533,7 @@
     * h-sofi.online-metrix.net
     * h-sonyie.online-metrix.net
     * h-sptbbpilates.online-metrix.net
+    * h-src0.mydoterra.online-metrix.net
     * h-standardcharteredbank.online-metrix.net
     * h-stanfordfcu.online-metrix.net
     * h-suncoast.online-metrix.net
@@ -627,6 +633,7 @@
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
+| prod-ascuaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cstonefcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -641,7 +648,6 @@
 | fp.jacamo.co.uk | h-2n067wr9.online-metrix.net |
 | fp.jdwilliams.co.uk | h-2n067wr9.online-metrix.net |
 | fp.simplybe.co.uk | h-2n067wr9.online-metrix.net |
-| img.remit.co.jp | h-2ngdxgzm.online-metrix.net |
 | claimant.vec.virginia.gov | h-2qfdtlmr.online-metrix.net |
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
@@ -676,6 +682,7 @@
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
+| tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
 | content.telusinternational.ai | h-6voqock8.online-metrix.net |
 | contentservices.clearairlending.com | h-6wp7e261.online-metrix.net |
@@ -977,10 +984,12 @@
 | fdts.ebay-kleinanzeigen.de | h-ebay-kleinanzeigen.online-metrix.net |
 | src.ebay-us.com | h-ebay.online-metrix.net |
 | content.ecampus.com | h-ecampus.online-metrix.net |
+| content1.esdiacapi.com | h-egs.online-metrix.net |
 | content.id.elsevier.com | h-elsevier-fame.online-metrix.net |
 | nav.sciencedirect.com | h-elsevier.online-metrix.net |
 | tags.emirates.com | h-emirates.online-metrix.net |
 | jj203.equitablebank.ca | h-equitablebank.online-metrix.net |
+| tm-eps.neutrino.nu | h-f2utl8kz.online-metrix.net |
 | static.fairstone.ca | h-fairstone.online-metrix.net |
 | tm.fanduel.com | h-fanduel.online-metrix.net |
 | did.fashionworld.co.uk | h-fashionworld.online-metrix.net |
@@ -1052,6 +1061,8 @@
 | check2.halifax.co.uk | h-halifax-co-uk.online-metrix.net |
 | check2.halifax-online.co.uk | h-halifax.online-metrix.net |
 | imgl2.hardrockcasino.com | h-hardrock.online-metrix.net |
+| ofxmryjd.seller.walmart.com | h-hgy2n0ks-seller.online-metrix.net |
+| ofxmryjd.walmart.com | h-hgy2n0ks-seller.online-metrix.net |
 | cdnt.duobank.com | h-hie95lph-duo.online-metrix.net |
 | cdnt.walmartrewards.ca | h-hie95lph-walrew.online-metrix.net |
 | telem.highlow.net | h-highlow.online-metrix.net |
@@ -1123,6 +1134,7 @@
 | uldfp.srilankan.com | h-k8vif92e.sri3.online-metrix.net |
 | b177.kabbage.com | h-kabbage.online-metrix.net |
 | tag.unclaimedproperty.alaska.gov | h-kelmar-ak.online-metrix.net |
+| tag.claimitar.com | h-kelmar-ar.online-metrix.net |
 | tag.unclaimedproperty.delaware.gov | h-kelmar-de.online-metrix.net |
 | tag.icash.illinoistreasurer.gov | h-kelmar-il.online-metrix.net |
 | tag.findmassmoney.com | h-kelmar-ma.online-metrix.net |
@@ -1139,6 +1151,7 @@
 | tm.kotak.com | h-kotak.online-metrix.net |
 | cdna.kpers.org | h-kpers.online-metrix.net |
 | wp.kroger.com | h-kroger.online-metrix.net |
+| kyc.usend.com | h-kyc.usend.com.online-metrix.net |
 | content.kylottery.com | h-kylottery.online-metrix.net |
 | loyaltyprogram.latam.com | h-latam.online-metrix.net |
 | loyaltyprogram.latamairlines.com | h-latamairlines.online-metrix.net |
@@ -1337,6 +1350,7 @@
 | st10.sofi.com | h-sofi.online-metrix.net |
 | payments.direct.playstation.com | h-sonyie.online-metrix.net |
 | sptbb.pilates.com | h-sptbbpilates.online-metrix.net |
+| src0.myvoffice.com | h-src0.mydoterra.online-metrix.net |
 | svc1.sc.com | h-standardcharteredbank.online-metrix.net |
 | api1.sfcu.org | h-stanfordfcu.online-metrix.net |
 | tx.suncoastcreditunion.com | h-suncoast.online-metrix.net |
@@ -1445,6 +1459,7 @@
 | images.applyfleet.com | h-wrightexpress.online-metrix.net |
 | images.essofleetoffers.com | h-wrightexpress.online-metrix.net |
 | images.exxonmobilfleetoffers.com | h-wrightexpress.online-metrix.net |
+| images.sunocofleetcards.com | h-wrightexpress.online-metrix.net |
 | images.wexinc.com | h-wrightexpress.online-metrix.net |
 | tmx.efsllc.com | h-wrightexpress.online-metrix.net |
 | tmx.tchek.com | h-wrightexpress.online-metrix.net |

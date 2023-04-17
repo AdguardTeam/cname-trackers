@@ -26,6 +26,7 @@
     * tk-kidsaround-com.wizaly.com
     * tk-kitchendiet-fr.wizaly.com
     * tk-kusmitea-com.wizaly.com
+    * tk-lacoste-com.wizaly.com
     * tk-lamaisonduchocolat-com.wizaly.com
     * tk-lcl-fr.wizaly.com
     * tk-little-big-change-com.wizaly.com
@@ -89,6 +90,7 @@
 | tk.kidsaround.com | tk-kidsaround-com.wizaly.com |
 | tk.kitchendiet.fr | tk-kitchendiet-fr.wizaly.com |
 | tk.kusmitea.com | tk-kusmitea-com.wizaly.com |
+| tk.lacoste.com | tk-lacoste-com.wizaly.com |
 | tk.lamaisonduchocolat.com | tk-lamaisonduchocolat-com.wizaly.com |
 | tk.lcl.fr | tk-lcl-fr.wizaly.com |
 | tk.little-big-change.com | tk-little-big-change-com.wizaly.com |
@@ -125,6 +127,7 @@
 | tk.airfrance.ch | tkairfrance.wizaly.com |
 | tk.airfrance.cm | tkairfrance.wizaly.com |
 | tk.airfrance.co.ao | tkairfrance.wizaly.com |
+| tk.airfrance.co.il | tkairfrance.wizaly.com |
 | tk.airfrance.co.jp | tkairfrance.wizaly.com |
 | tk.airfrance.co.kr | tkairfrance.wizaly.com |
 | tk.airfrance.co.uk | tkairfrance.wizaly.com |
@@ -144,6 +147,7 @@
 | tk.airfrance.in | tkairfrance.wizaly.com |
 | tk.airfrance.it | tkairfrance.wizaly.com |
 | tk.airfrance.ma | tkairfrance.wizaly.com |
+| tk.airfrance.mg | tkairfrance.wizaly.com |
 | tk.airfrance.mq | tkairfrance.wizaly.com |
 | tk.airfrance.mu | tkairfrance.wizaly.com |
 | tk.airfrance.ng | tkairfrance.wizaly.com |
@@ -153,6 +157,7 @@
 | tk.airfrance.pt | tkairfrance.wizaly.com |
 | tk.airfrance.re | tkairfrance.wizaly.com |
 | tk.airfrance.ro | tkairfrance.wizaly.com |
+| tk.airfrance.rs | tkairfrance.wizaly.com |
 | tk.airfrance.ru | tkairfrance.wizaly.com |
 | tk.airfrance.se | tkairfrance.wizaly.com |
 | tk.airfrance.sg | tkairfrance.wizaly.com |

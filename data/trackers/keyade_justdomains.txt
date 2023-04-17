@@ -15,6 +15,7 @@ k.cocooncenter.de
 k.cocooncenter.es
 k.flynas.com
 k.hofmann.es
+k.laredoute.com
 k.laredoute.es
 k.laredoute.pt
 k.laredoute.ru

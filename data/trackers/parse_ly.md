@@ -7,6 +7,7 @@
     * fpa-api-adweek-com.parsely.com
     * fpa-api-arstechnica-com.parsely.com
     * fpa-cdn-adweek-com.parsely.com
+    * fpa-cdn-amontalenti-com.parsely.com
     * fpa-cdn-arstechnica-com.parsely.com
     * fpa-cdn-blog-parse-ly.parsely.com
     * fpa-cdn-decrypt-co.parsely.com
@@ -28,6 +29,7 @@
 | fpa-api.adweek.com | fpa-api-adweek-com.parsely.com |
 | fpa-api.arstechnica.com | fpa-api-arstechnica-com.parsely.com |
 | fpa-cdn.adweek.com | fpa-cdn-adweek-com.parsely.com |
+| fpa-cdn.amontalenti.com | fpa-cdn-amontalenti-com.parsely.com |
 | fpa-cdn.arstechnica.com | fpa-cdn-arstechnica-com.parsely.com |
 | fpa-cdn.blog.parse.ly | fpa-cdn-blog-parse-ly.parsely.com |
 | fpa-cdn.decrypt.co | fpa-cdn-decrypt-co.parsely.com |

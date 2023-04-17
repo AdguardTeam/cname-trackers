@@ -18,6 +18,7 @@ tk.airfrance.ca CNAME .
 tk.airfrance.ch CNAME .
 tk.airfrance.cm CNAME .
 tk.airfrance.co.ao CNAME .
+tk.airfrance.co.il CNAME .
 tk.airfrance.co.jp CNAME .
 tk.airfrance.co.kr CNAME .
 tk.airfrance.co.uk CNAME .
@@ -37,6 +38,7 @@ tk.airfrance.ie CNAME .
 tk.airfrance.in CNAME .
 tk.airfrance.it CNAME .
 tk.airfrance.ma CNAME .
+tk.airfrance.mg CNAME .
 tk.airfrance.mq CNAME .
 tk.airfrance.mu CNAME .
 tk.airfrance.ng CNAME .
@@ -46,6 +48,7 @@ tk.airfrance.pl CNAME .
 tk.airfrance.pt CNAME .
 tk.airfrance.re CNAME .
 tk.airfrance.ro CNAME .
+tk.airfrance.rs CNAME .
 tk.airfrance.ru CNAME .
 tk.airfrance.se CNAME .
 tk.airfrance.sg CNAME .
@@ -76,6 +79,7 @@ tk.kidsaround.com CNAME .
 tk.kitchendiet.fr CNAME .
 tk.klm.com CNAME .
 tk.kusmitea.com CNAME .
+tk.lacoste.com CNAME .
 tk.lamaisonduchocolat.com CNAME .
 tk.lcl.fr CNAME .
 tk.little-big-change.com CNAME .

@@ -1,5 +1,6 @@
 {
   "prod.nitrosniffer.ottogroup.io": "sniffer.oghub.io",
+  "sniffer.nitro-production.otto.boreus.de": "sniffer.oghub.io",
   "sniffer.nitro-test-extern.otto.boreus.de": "sniffer.test-extern.oghub.io",
   "te.ackermann.ch": "te.oghub.io",
   "te.ambria.de": "te.oghub.io",

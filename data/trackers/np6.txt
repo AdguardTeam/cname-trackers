@@ -42,6 +42,7 @@
 ||tr.asp002x.espmp-cufr.net^
 ||tr.asp0085.espmp-nifr.net^
 ||tr.asp008y.espmp-nifr.net^
+||tr.asp00a0.espmp-cufr.net^
 ||tr.asp00a1.espmp-agfr.net^
 ||tr.asp00a3.espmp-agfr.net^
 ||tr.asp00a6.espmp-nifr.net^
@@ -50,6 +51,7 @@
 ||tr.asp104p.espmp-aufr.net^
 ||tr.asp106d.espmp-cufr.net^
 ||tr.asp106g.espmp-nifr.net^
+||tr.asp1098.espmp-cufr.net^
 ||tr.asp10ar.espmp-cufr.net^
 ||tr.asp10bs.espmp-aufr.net^
 ||tr.asp10c8.espmp-agfr.net^
@@ -74,6 +76,7 @@
 ||tr.asp2076.espmp-pofr.net^
 ||tr.asp2078.espmp-nifr.net^
 ||tr.asp207e.espmp-nifr.net^
+||tr.assoc.cfsr-retine.com^
 ||tr.avisecheance.maaf.fr^
 ||tr.axa.espmp-aufr.net^
 ||tr.b2d1.espmp-agfr.net^
@@ -86,6 +89,7 @@
 ||tr.bgl.premium-benefits.lu^
 ||tr.bienvenue.envie-de-bien-manger.com^
 ||tr.bizzquotes.co.uk^
+||tr.bodet.devisdirect.com^
 ||tr.boletim.companeo.pt^
 ||tr.boletim.meu-orcamento.pt^
 ||tr.bonplan.mydesign.com^
@@ -109,6 +113,7 @@
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.cacf.ipsos-surveys.com^
 ||tr.camara.eu.com^
+||tr.carl.espmp-cufr.net^
 ||tr.cart02d.espmp-agfr.net^
 ||tr.carte.lcl.fr^
 ||tr.cartegie.fr^
@@ -117,8 +122,10 @@
 ||tr.cb4x.banque-casino.fr^
 ||tr.cb4x.floa.fr^
 ||tr.cdiscount.3wregie.com^
+||tr.ceeregion.moethennessy.com^
 ||tr.christmas.petit-bateau.com^
 ||tr.cifa.espmp-nifr.net^
+||tr.cifa02b.espmp-aufr.net^
 ||tr.cifa02k.espmp-aufr.net^
 ||tr.citiesforlifeparis.latribune.fr^
 ||tr.cj.bordeaux-metropole.fr^
@@ -140,9 +147,11 @@
 ||tr.com.sfr.fr^
 ||tr.combca.fr^
 ||tr.commande.location.boulanger.com^
+||tr.commint.groupe.chapsvision.com^
 ||tr.communaute.caradisiac.com^
 ||tr.communautes-mediametrie.fr^
 ||tr.communication.ancv.com^
+||tr.communication.armatis-lc.com^
 ||tr.communication.arthur-bonnet.com^
 ||tr.communication.b2b-actualites.com^
 ||tr.communication.boursorama.info^
@@ -176,6 +185,7 @@
 ||tr.contact.lead.eu.com^
 ||tr.contact.leadsonline.fr^
 ||tr.contact.lvmh.fr^
+||tr.contact.makemelead.com^
 ||tr.contact.makemelead.info^
 ||tr.contact.mhl-publishing.fr^
 ||tr.contact.ruinart.com^
@@ -243,6 +253,7 @@
 ||tr.email.contact-jaguar.fr^
 ||tr.email.contact-landrover.fr^
 ||tr.email.custom-campaign.com^
+||tr.email.d17.tv^
 ||tr.email.directindustry.com^
 ||tr.email.distributor-expo.com^
 ||tr.email.esprit-de-france.com^
@@ -352,6 +363,7 @@
 ||tr.info.cartesaffaires.bnpparibas^
 ||tr.info.casino-proximites.fr^
 ||tr.info.certypro.fr^
+||tr.info.clicochic.com^
 ||tr.info.cnch.fr^
 ||tr.info.comparadordeprestamos.es^
 ||tr.info.conexancemd.com^
@@ -369,6 +381,7 @@
 ||tr.info.lacentrale.fr^
 ||tr.info.linxea.com^
 ||tr.info.mango-mobilites.fr^
+||tr.info.mango-mobilitesbyaprr.fr^
 ||tr.info.mavoiturecash.fr^
 ||tr.info.maxis-gbn.com^
 ||tr.info.mcgarrybowen.com^
@@ -408,6 +421,7 @@
 ||tr.infos.fongecifcentre.com^
 ||tr.infos.gazdebordeaux.fr^
 ||tr.infos.lacarte.demenagez-moi.com^
+||tr.infos.lettre-resiliation.com^
 ||tr.infos.mailrungis.com^
 ||tr.infos.odalys-vacances.com^
 ||tr.inspiration.culture-data.fr^
@@ -454,6 +468,7 @@
 ||tr.mail.cdiscount.com.pa^
 ||tr.mail.enviedebienmanger.fr^
 ||tr.mail.floa.fr^
+||tr.mail.hagerservices.fr^
 ||tr.mail.koregraf.com^
 ||tr.mail.mdbp.fr^
 ||tr.mail.moncoupdepouce.com^
@@ -480,6 +495,7 @@
 ||tr.marketing.younited-credit.com^
 ||tr.marketing.younited-credit.es^
 ||tr.marketing.younited-credit.pt^
+||tr.marketingdisruption.co.uk^
 ||tr.mart.espmp-agfr.net^
 ||tr.mattressman.co.uk^
 ||tr.melhores-propostas.pt^
@@ -608,6 +624,7 @@
 ||tr.news.lacollectionairfrance.de^
 ||tr.news.lacollectionairfrance.fr^
 ||tr.news.lalettredelexpansion.com^
+||tr.news.latribunebordeaux.fr^
 ||tr.news.leclubtravel.fr^
 ||tr.news.lentreprise.lexpress.fr^
 ||tr.news.lexpansion.lexpress.fr^
@@ -695,6 +712,7 @@
 ||tr.newsletters-bonpoint.com^
 ||tr.newsletters.alticemedia.com^
 ||tr.newsletters.odalys-vacances.com^
+||tr.newsletters.qapa-interim.fr^
 ||tr.newsletters.youmeetings.com^
 ||tr.newsmarketing.allopneus.com^
 ||tr.nl.2wls.net^
@@ -749,6 +767,7 @@
 ||tr.particuliers8.engie.com^
 ||tr.partners.younited-credit.it^
 ||tr.pixe.espmp-cufr.net^
+||tr.pm.pelhammedia.com^
 ||tr.pole-emploi-services.com^
 ||tr.policyexpert.info^
 ||tr.politicolive.eu^
@@ -789,6 +808,7 @@
 ||tr.recouvrement.younited-credit.com^
 ||tr.redaction.essentiel-sante-magazine.fr^
 ||tr.reglementaire.emailing.bnpparibas^
+||tr.relation-mediametrie.fr^
 ||tr.relation.uneo.fr^
 ||tr.remboursement.orange.fr^
 ||tr.renowizze.be^
@@ -895,6 +915,7 @@
 ||tr1.mailperf.com^
 ||tr1.mailperformance.com^
 ||tr1.mperf.com^
+||tr1.psa-surveys.com^
 ||tr5.mailperf.com^
 ||tracking.allopneus.com^
 ||www.tr.bfc-mp.caisse-epargne.fr^

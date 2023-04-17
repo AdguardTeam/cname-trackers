@@ -30,6 +30,7 @@
 2e7zgbpky6h.chinese.freecodecamp.org CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
+36a7wmjdcmso.my.gloryleague.basketball CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
@@ -52,7 +53,7 @@ bygr2ri20e4y.li.finance CNAME .
 cihnqp6p65.koinly.io CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
-cs3gk62alxjl.my.gloryleague.basketball CNAME .
+cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
 din1j0su0u99.artwallstreet.io CNAME .
 dlziqh9bo7.boring.fm CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
@@ -82,9 +83,11 @@ mteme7li1d6r.vertexmarketingagency.com CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
 ocjeg2ca9uh9.mailfloss.com CNAME .
+otx23nu6rzon.prep.toppers.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
 p13vtlg7n362.clariti.app CNAME .
 p7h1silo3f.app.cainthus.com CNAME .
+q3xly8i4oz.app.taxmachine.be CNAME .
 qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qri2r94eeajr.innovationcast.com CNAME .
@@ -105,10 +108,12 @@ vzal21mooz.hyperwrite.ai CNAME .
 w38ju82bano4.cv.gerardbosch.xyz CNAME .
 wayyaj8t094u.www.kodalia.com CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
+x2l5lsn8rvsq.li.finance CNAME .
+x7u1lw3t1g30.animevsub.ga CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
-yfbtcjlsmpv1.app.mailfloss.com CNAME .
 ysrrzgku6tar.us.themoneytizer.com CNAME .
+yxbh3a53nv.adaptive.marketing CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
 ;
 ; monopoly-drain.ga disguised trackers

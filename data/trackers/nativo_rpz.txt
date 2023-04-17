@@ -6,8 +6,6 @@
 c333.macworld.co.uk CNAME .
 partners.time.com CNAME .
 sponsor.syracuse.com CNAME .
-www.realworldsurvivor.com CNAME .
-www1.cultivatedknowledge.com CNAME .
 ;
 ; ntvpforever.com disguised trackers
 ;
@@ -37,6 +35,7 @@ www1.cultivatedknowledge.com CNAME .
 157d5e4847.7b094dba79.com CNAME .
 1723cba717.8592fb1c1d.com CNAME .
 1795105253.e02fe0d0c1.com CNAME .
+184d6c5595.dff2c5fc33.com CNAME .
 19364edf69.b88f1c5cda.com CNAME .
 196af26667.9072b44d3e.com CNAME .
 1b6ab23d2c.255b9e74d2.com CNAME .
@@ -49,10 +48,12 @@ www1.cultivatedknowledge.com CNAME .
 234e54cf56.e9f1af32f6.com CNAME .
 2547cd401b.d8a452e2da.com CNAME .
 26e33d5110.b91c577b4d.com CNAME .
+2a98a4b811.a2a2fd6dd1.com CNAME .
 2b93cd08b5.fd40cd3322.com CNAME .
 2c9ed85c0b.b2acafb3a3.com CNAME .
 2d56aafb14.8767fbfa8b.com CNAME .
 2efa46ca31.da03ab7249.com CNAME .
+2fa1db4c6a.6effce3135.com CNAME .
 310fdbd5d8.a9e8387c9e.com CNAME .
 32b7b3da4e.a0e54ba172.com CNAME .
 3309734ae8.329a540736.com CNAME .
@@ -73,6 +74,7 @@ www1.cultivatedknowledge.com CNAME .
 428fcb314a.5ae63880d1.com CNAME .
 434d80d136.a07d30aaf0.com CNAME .
 45f71a1f62.912644c528.com CNAME .
+463c285fde.66dbf809af.com CNAME .
 46bdd45622.48b1378f08.com CNAME .
 46fe7fa264.4d2a483049.com CNAME .
 48c1f78392.31f4ea3b17.com CNAME .
@@ -127,6 +129,7 @@ www1.cultivatedknowledge.com CNAME .
 749e473277.b6deee8a5f.com CNAME .
 74ae08c95d.364a426c46.com CNAME .
 7734af9d7a.854a08a35e.com CNAME .
+77998a50f4.d9e6fb9edb.com CNAME .
 790d5944bd.7d1f2e00ed.com CNAME .
 79a0430857.7c56087863.com CNAME .
 7a8ba6e850.bc40aaccb7.com CNAME .
@@ -150,6 +153,7 @@ www1.cultivatedknowledge.com CNAME .
 898dd5a858.a06e054b4c.com CNAME .
 8a7f64eb48.5a46c72f0e.com CNAME .
 8a86cfec6c.db4a1656b5.com CNAME .
+8aa53eb242.136287d626.com CNAME .
 8ac8c6d855.17c12b43a7.com CNAME .
 8bb3b7c35f.e93014ee07.com CNAME .
 8bd9187370.468a044700.com CNAME .
@@ -169,7 +173,6 @@ www1.cultivatedknowledge.com CNAME .
 95bb3314e7.66efeb9730.com CNAME .
 96b76b02f1.49af7cee19.com CNAME .
 9757fdc45b.92b501c719.com CNAME .
-97b9d5e7ec.14165563f4.com CNAME .
 98028f4b73.c9b501fef3.com CNAME .
 991884fac3.ff206c9291.com CNAME .
 999a328fa0.86521e18d4.com CNAME .
@@ -238,6 +241,7 @@ cce1fcf4c7.cca57f4672.com CNAME .
 cd4a13a8dd.8f1a606535.com CNAME .
 ceb8265201.4eb28685b6.com CNAME .
 cf6eefecd9.76362b26c3.com CNAME .
+d04674bbdd.e02b15bc59.com CNAME .
 d2777cf1df.76842c6a2a.com CNAME .
 d2a62a8a22.6b34f18ccd.com CNAME .
 d310a0f1fe.91c58a050f.com CNAME .
@@ -273,7 +277,6 @@ ee68acd3fc.87a8aa9251.com CNAME .
 f1763f2f87.f4f8fb91df.com CNAME .
 f1ab40b1ac.91a3c37128.com CNAME .
 f1c61224ea.edbc0469bd.com CNAME .
-f24d473f74.60d4631eb3.com CNAME .
 f2ce8cf738.110938bbb2.com CNAME .
 f33772ce13.749cad1027.com CNAME .
 f43060abfc.1527bf2da3.com CNAME .
@@ -291,7 +294,23 @@ ffe405491d.28b67b8230.com CNAME .
 ;
 ; postrelease.com disguised trackers
 ;
-a235.nhregister.com CNAME .
+a135.wpxi.com CNAME .
+a135.wsoctv.com CNAME .
+a235.lmtonline.com CNAME .
+a235.newstimes.com CNAME .
+a235.seattlepi.com CNAME .
+a235.stamfordadvocate.com CNAME .
+a235.thetelegraph.com CNAME .
+ajc.share.ntv.io CNAME .
+al.share.ntv.io CNAME .
+cricketwireless.share.ntv.io CNAME .
+fortune.share.ntv.io CNAME .
+gva.share.ntv.io CNAME .
+ksn.share.ntv.io CNAME .
+mlive.share.ntv.io CNAME .
+mortgagesolutions.share.ntv.io CNAME .
+northbaybusinessjournal.share.ntv.io CNAME .
+pcworld.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 ;
@@ -330,6 +349,7 @@ a235.middletownpress.com CNAME .
 a235.mrt.com CNAME .
 a235.myplainview.com CNAME .
 a235.newstimes.com CNAME .
+a235.nhregister.com CNAME .
 a235.registercitizen.com CNAME .
 a235.seattlepi.com CNAME .
 a235.sfgate.com CNAME .
@@ -340,10 +360,6 @@ a235.timesunion.com CNAME .
 ; partners-time-com-prod.edgeserving.com disguised trackers
 ;
 partners.time.com CNAME .
-;
-; realworldsurvivor-com-prod.edgeserving.com disguised trackers
-;
-www.realworldsurvivor.com CNAME .
 ;
 ; cultivatedknowledge-com-www1.edgeserving.com disguised trackers
 ;

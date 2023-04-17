@@ -4,7 +4,6 @@
 ; nc0.co disguised trackers
 ;
 activate.aami.com.au CNAME .
-activate.academy.com CNAME .
 activate.anntaylor.com CNAME .
 activate.apia.com.au CNAME .
 activate.baltimoresun.com CNAME .
@@ -27,7 +26,6 @@ activate.lajollalight.com CNAME .
 activate.lanebryant.com CNAME .
 activate.latimes.com CNAME .
 activate.loft.com CNAME .
-activate.maurices.com CNAME .
 activate.mcall.com CNAME .
 activate.mdgazette.com CNAME .
 activate.napersun.com CNAME .
@@ -68,7 +66,6 @@ analytics.carecreditlearning.com CNAME .
 analytics.carecreditprovidercenter.com CNAME .
 analytics.ensighten.com CNAME .
 analytics.lumberliquidators.com CNAME .
-analytics.michiganlottery.com CNAME .
 analytics.mysynchrony.com CNAME .
 analytics.ovative.com CNAME .
 analytics.polaris.com CNAME .
@@ -110,8 +107,11 @@ attribution.wolverine.com CNAME .
 businessmetrics.syf.com CNAME .
 cm.oneidentity.com CNAME .
 cm.quest.com CNAME .
+cmp.cupra.be CNAME .
 cmp.dieteren.be CNAME .
 cmp.seat.be CNAME .
+cmp.skoda.be CNAME .
+cmp.volkswagen.be CNAME .
 co-operative.activate.ensighten.com CNAME .
 coke.activate.ensighten.com CNAME .
 consent.irvinecompany.com CNAME .
@@ -140,6 +140,7 @@ cookies.jll.es CNAME .
 cookies.jll.fi CNAME .
 cookies.jll.fr CNAME .
 cookies.jll.hu CNAME .
+cookies.jll.ie CNAME .
 cookies.jll.it CNAME .
 cookies.jll.lu CNAME .
 cookies.jll.nl CNAME .
@@ -159,11 +160,6 @@ data.experianidentityservice.co.uk CNAME .
 data.ford.com CNAME .
 data.lincoln.com CNAME .
 data.privacy.ensighten.com CNAME .
-dc.apothic.com CNAME .
-dc.barefootwine.com CNAME .
-dc.darkhorsewine.com CNAME .
-dc.directtv.com CNAME .
-dc.directv.com CNAME .
 dc.esterethyl.com CNAME .
 dc.gordonsjewelers.com CNAME .
 dc.jared.com CNAME .
@@ -181,7 +177,6 @@ ddc.statefarm.com CNAME .
 dsg.activate.ensighten.com CNAME .
 eb.trbas.com CNAME .
 emetrics.eastwestbank.com CNAME .
-ens-orlet.activate.ensighten.com CNAME .
 ens.bote.ch CNAME .
 ens.luzernerzeitung.ch CNAME .
 ens.nidwaldnerzeitung.ch CNAME .
@@ -214,8 +209,6 @@ gst.pulse.buyatoyota.com CNAME .
 gst.pulse.toyota.com CNAME .
 latimes.activate.ensighten.com CNAME .
 letsencrypt.data.ensighten.com CNAME .
-madata.newlook.com CNAME .
-maurices.activate.ensighten.com CNAME .
 mcdonalds.activate.ensighten.com CNAME .
 measure.ensighten.com CNAME .
 metrics.mysynchrony.com CNAME .
@@ -224,7 +217,6 @@ metrics.synchronybusiness.com CNAME .
 mjt.lacoste.com CNAME .
 msft-frcmo.activate.ensighten.com CNAME .
 nexus.ensighten.tiaa.org CNAME .
-nexus.libertymutual.com CNAME .
 nexus.mbna.ca CNAME .
 nexus.td.com CNAME .
 nexus.tdassurance.com CNAME .
@@ -254,7 +246,6 @@ pulse.mcdonalds.com CNAME .
 pulse.quaero.com CNAME .
 pulse.rac.co.uk CNAME .
 pulse.sleepnumber.com CNAME .
-pulse.synergy.net.au CNAME .
 pulse.wyndhamhotels.com CNAME .
 secureanalytics.carecredit.com CNAME .
 secureanalytics.syf.com CNAME .
@@ -274,8 +265,6 @@ t.hagebau.de CNAME .
 t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
 tagman.crystalsummer.co.uk CNAME .
-tagman.fotolia.com CNAME .
-tagman.intercall.com CNAME .
 tagman.silversingles.com CNAME .
 tagman.surfstitch.com CNAME .
 tagman.thistle.com CNAME .
@@ -297,6 +286,7 @@ tags.kone.com CNAME .
 tags.wyndhamhotels.com CNAME .
 tam.volkswagen.com CNAME .
 tdi.cartoonnetwork.com CNAME .
+tea.tescobank.com CNAME .
 test3-dc.jared.com CNAME .
 test3-dc.kay.com CNAME .
 test3-dc.kayoutlet.com CNAME .

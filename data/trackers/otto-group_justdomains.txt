@@ -4,6 +4,7 @@
 # oghub.io disguised trackers
 #
 prod.nitrosniffer.ottogroup.io
+sniffer.nitro-production.otto.boreus.de
 sniffer.nitro-test-extern.otto.boreus.de
 te.ackermann.ch
 te.ambria.de

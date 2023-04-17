@@ -226,6 +226,7 @@
     * ea.extole.io
     * edelmanfinancial.extole.io
     * embrace-pet-insurance.extole.io
+    * empathywines.extole.io
     * empire-today.extole.io
     * eset.extole.io
     * esteelauder-au.extole.io
@@ -293,6 +294,7 @@
     * ipage.extole.io
     * issaonline.extole.io
     * it-cosmetics.extole.io
+    * itbed.extole.io
     * iteach.extole.io
     * jewelersmutual.extole.io
     * joann.extole.io
@@ -337,6 +339,7 @@
     * mycarpe.extole.io
     * myollie.extole.io
     * nars-cosmetics.extole.io
+    * new-balance-ca.extole.io
     * newtonbaby.extole.io
     * nfhs-network.extole.io
     * ninja-kitchen.extole.io
@@ -350,6 +353,7 @@
     * origins.extole.io
     * ouidad.extole.io
     * pacsafe.extole.io
+    * pacu.extole.io
     * panerabread.extole.io
     * partsvu.extole.io
     * paulmitchell.extole.io
@@ -418,6 +422,7 @@
     * steelseries.extole.io
     * stop-and-shop.extole.io
     * stopagingnow.extole.io
+    * stride-rite.extole.io
     * stridehealth.extole.io
     * studentuniverse.extole.io
     * studiosashiko.extole.io
@@ -466,6 +471,7 @@
     * vonagebusiness.extole.io
     * wagwalking.extole.io
     * walmartmoneycard.extole.io
+    * wearesouthwind.extole.io
     * wecohospitality.extole.io
     * whistle.extole.io
     * whitehouseblackmarket.extole.io
@@ -652,6 +658,7 @@
 | friend.ebags.com | ebags.extole.com |
 | refer.edelmanfinancial.com | edelmanfinancial.extole.io |
 | refer.embracepetinsurance.com | embrace-pet-insurance.extole.io |
+| share.empathywines.com | empathywines.extole.io |
 | refer.empiretoday.com | empire-today.extole.io |
 | refer.eset.com | eset.extole.io |
 | share.esteelauder.com.au | esteelauder-au.extole.io |
@@ -686,16 +693,25 @@
 | share.app.com | gannett.extole.io |
 | share.azcentral.com | gannett.extole.io |
 | share.caller.com | gannett.extole.io |
+| share.commercialappeal.com | gannett.extole.io |
+| share.courierpostonline.com | gannett.extole.io |
 | share.delawareonline.com | gannett.extole.io |
 | share.detroitnews.com | gannett.extole.io |
 | share.elpasotimes.com | gannett.extole.io |
 | share.enterprisenews.com | gannett.extole.io |
 | share.floridatoday.com | gannett.extole.io |
+| share.freep.com | gannett.extole.io |
 | share.knoxnews.com | gannett.extole.io |
+| share.mansfieldnewsjournal.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
+| share.patriotledger.com | gannett.extole.io |
 | share.poughkeepsiejournal.com | gannett.extole.io |
+| share.redding.com | gannett.extole.io |
+| share.reporternews.com | gannett.extole.io |
+| share.rgj.com | gannett.extole.io |
 | share.statesman.com | gannett.extole.io |
 | share.tallahassee.com | gannett.extole.io |
+| share.tauntongazette.com | gannett.extole.io |
 | share.tcpalm.com | gannett.extole.io |
 | share.thenorthwestern.com | gannett.extole.io |
 | share.usatoday.com | gannett.extole.io |
@@ -758,6 +774,7 @@
 | share.ipage.com | ipage.extole.io |
 | refer.issaonline.com | issaonline.extole.io |
 | refer.itcosmetics.com | it-cosmetics.extole.io |
+| refer.itbed.com | itbed.extole.io |
 | share.iteach.net | iteach.extole.io |
 | refer.jacksonsun.com | jacksonsun.extole.com |
 | refer.jewelersmutual.com | jewelersmutual.extole.io |
@@ -822,6 +839,7 @@
 | refer.myplant.com | myplant.extole.com |
 | refer.narscosmetics.com | nars-cosmetics.extole.io |
 | refer.bowflex.com | nautilus.extole.com |
+| refer.newbalance.ca | new-balance-ca.extole.io |
 | share.newtonbaby.com | newtonbaby.extole.io |
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | s.audiopass.nfl.com | nflaudiopass2.extole.com |
@@ -847,6 +865,7 @@
 | refer.ofx.com | ozforex-au.extole.com |
 | refer.usforex.com | ozforex-us.extole.com |
 | refer.pacsafe.com | pacsafe.extole.io |
+| refer.pacu.com | pacu.extole.io |
 | refer.pageonce.com | pageonce.extole.com |
 | refer.panerabread.com | panerabread.extole.io |
 | refer.paramountsolar.com | paramountsolar.extole.com |
@@ -944,6 +963,7 @@
 | refer.steelseries.com | steelseries.extole.io |
 | refer.stopandshop.com | stop-and-shop.extole.io |
 | share.stopagingnow.com | stopagingnow.extole.io |
+| refer.striderite.com | stride-rite.extole.io |
 | share.stridehealth.com | stridehealth.extole.io |
 | refer.studentuniverse.com | studentuniverse.extole.io |
 | refer.studentuniverse.com.au | studentuniverse.extole.io |
@@ -1020,6 +1040,7 @@
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
+| refer.themvpkc.com | wearesouthwind.extole.io |
 | www.trevoce.com | web-tool-qa.lb.extole.com |
 | share.wecohospitality.com | wecohospitality.extole.io |
 | refer.wgu.edu | wgu.extole.com |

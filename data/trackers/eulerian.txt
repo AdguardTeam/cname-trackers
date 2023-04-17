@@ -137,9 +137,11 @@
 ||ea.millet-mountain.de^
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
+||ea.mnt.fr^
 ||ea.moncornerdeco.com^
 ||ea.mondial-assistance.fr^
 ||ea.mydailyhotel.com^
+||ea.mywarner.warnerbros.fr^
 ||ea.natiloo.com^
 ||ea.netvox-assurances.com^
 ||ea.nextseguros.es^
@@ -158,9 +160,11 @@
 ||ea.roxy.eu^
 ||ea.smallable.com^
 ||ea.smartbox.com^
+||ea.sport2000.fr^
 ||ea.telecommandeonline.com^
 ||ea.tool-fitness.com^
 ||ea.topsante.com^
+||ea.venta-del-diablo.com^
 ||ea.venta-unica.com^
 ||ea.vente-unique.be^
 ||ea.vente-unique.ch^
@@ -457,6 +461,7 @@
 ||wnd2.destinia.cat^
 ||wph2.destinia.us^
 ||www.fasttrack.fr^
+||www.fasttracker.fr^
 ||xay5o.toscane-boutique.fr^
 ||xjq5.belambra.be^
 ||xuc.monteleone.fr^
