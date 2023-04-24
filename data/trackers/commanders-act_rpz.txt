@@ -3,12 +3,10 @@
 ;
 ; tagcommander.com disguised trackers
 ;
-acquisition.klm.com CNAME .
 data.decathlon.co.uk CNAME .
 data.decathlon.de CNAME .
 data.decathlon.es CNAME .
 data.decathlon.fr CNAME .
-data.decathlon.it CNAME .
 data.decathlon.pl CNAME .
 data.ouigo.com CNAME .
 data.ubi.com CNAME .
@@ -19,7 +17,6 @@ tag.boulanger.fr CNAME .
 tagcommander.laredoute.be CNAME .
 tagcommander.laredoute.ch CNAME .
 tagcommander.laredoute.co.uk CNAME .
-tc.europcar.com.au CNAME .
 tcdata.fnac.com CNAME .
 ;
 ; ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com disguised trackers
@@ -34,3 +31,4 @@ logger.yp.ca CNAME .
 sales.disneylandparis.com CNAME .
 tag.boulanger.fr CNAME .
 tc.europcar.com CNAME .
+tc.europcar.com.au CNAME .

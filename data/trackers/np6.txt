@@ -7,6 +7,7 @@
 ||epm.mailperformance.com^
 ||mailtracking.tf1.com^
 ||mp.pitchero.com^
+||news.mailperformance.com^
 ||newsletter.ticketac.com^
 ||shortener.np6.com^
 ||sms.gestion.cetelem.fr^
@@ -58,6 +59,7 @@
 ||tr.asp10cg.espmp-nifr.net^
 ||tr.asp10ch.espmp-nifr.net^
 ||tr.asp10cr.espmp-nifr.net^
+||tr.asp10dx.espmp-nifr.net^
 ||tr.asp10fa.espmp-cufr.net^
 ||tr.asp10ge.espmp-nifr.net^
 ||tr.asp10h2.espmp-nifr.net^
@@ -486,6 +488,7 @@
 ||tr.mailingnp6.lavoirmoderne.com^
 ||tr.mailmp.macif.net^
 ||tr.mailperf.institut-de-la-protection-sociale.fr^
+||tr.mailperf.ngt-services.com^
 ||tr.mailperformance.com^
 ||tr.mailperformance.fr^
 ||tr.maisonsdumonde.com^
@@ -642,6 +645,7 @@
 ||tr.news.mon-horoscope.info^
 ||tr.news.monvoyant.fr^
 ||tr.news.mperformance.fr^
+||tr.news.mydesign.com^
 ||tr.news.normandie.cci.fr^
 ||tr.news.ocs.fr^
 ||tr.news.onetoonemba.com^
@@ -769,6 +773,7 @@
 ||tr.pixe.espmp-cufr.net^
 ||tr.pm.pelhammedia.com^
 ||tr.pole-emploi-services.com^
+||tr.pole-emploi.info^
 ||tr.policyexpert.info^
 ||tr.politicolive.eu^
 ||tr.politicomarketing.eu^
@@ -860,6 +865,7 @@
 ||tr.toner-services.fr^
 ||tr.tonerservices.fr^
 ||tr.tourisme.visit-lanarbonnaise.com^
+||tr.tpe.harmonie-mutuelle.fr^
 ||tr.trafficnews.lyria.com^
 ||tr.ujsv.espmp-agfr.net^
 ||tr.uk.icicibank.com^

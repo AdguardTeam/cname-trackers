@@ -91,6 +91,7 @@ ji.axingectal.com CNAME .
 jj.jaupsgrimes.com CNAME .
 jk.baltisbockey.com CNAME .
 jl.reckonpretax.com CNAME .
+jo.dinahmirv.com CNAME .
 jo.maraewid.com CNAME .
 jo.tictocswended.com CNAME .
 ju.kittlesoceania.com CNAME .
@@ -125,6 +126,7 @@ mp.ualisbaubles.com CNAME .
 mu.laplingskevish.com CNAME .
 my.ursstubs.com CNAME .
 nc.nominaturfy.com CNAME .
+nj.molliefidac.com CNAME .
 np.brackenclomped.com CNAME .
 np.incrustkantela.com CNAME .
 nr.celaenomash.com CNAME .
@@ -204,16 +206,20 @@ vt.alieneepunta.com CNAME .
 vv.habaerashiksas.com CNAME .
 vx.azuresjukes.com CNAME .
 wd.towmonterses.com CNAME .
+we.noonsderider.com CNAME .
 wi.cohereseugene.com CNAME .
 wj.acrevenene.com CNAME .
 wl.herbarspece.com CNAME .
+wm.findalwaglike.com CNAME .
 wq.stewyruttish.com CNAME .
 ws.blondsdixie.com CNAME .
 wx.squetanonym.com CNAME .
+wz.bergallgenion.com CNAME .
 xc.stupesinosine.com CNAME .
 xd.meritedyaws.com CNAME .
 xl.demosbattik.com CNAME .
 xm.tinlikeil.com CNAME .
+xx.foetorsnudisms.com CNAME .
 xx.hematinsquark.com CNAME .
 xz.rapsseme.com CNAME .
 yc.flyblowfilippi.com CNAME .
@@ -225,8 +231,10 @@ yp.tronkparsed.com CNAME .
 yx.minimalmodulet.com CNAME .
 yy.bourockmights.com CNAME .
 zd.plattedrattons.com CNAME .
+zf.perseuschoose.com CNAME .
 zg.butaneailment.com CNAME .
 zi.kissbluest.com CNAME .
 zn.glucinasileni.com CNAME .
 zp.mactraklutzes.com CNAME .
 zx.plaiceagonist.com CNAME .
+zz.cuissenbisque.com CNAME .

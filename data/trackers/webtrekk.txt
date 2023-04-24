@@ -102,6 +102,7 @@
 ||di.ifolor.at^
 ||di.ifolor.be^
 ||di.ifolor.ch^
+||di.ifolor.com^
 ||di.ifolor.de^
 ||di.ifolor.dk^
 ||di.ifolor.fi^
@@ -296,7 +297,6 @@
 ||web.newsletter.viviennewestwood.com^
 ||web.online.monnalisa.com^
 ||web.pages.lloydspharmacy.com^
-||web.s.sasrx.com^
 ||web.sensilab.com^
 ||web.sensilab.de^
 ||web.sensilab.ie^

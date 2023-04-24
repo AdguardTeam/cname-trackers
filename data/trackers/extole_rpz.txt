@@ -20,7 +20,6 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
-refer.aol.com CNAME .
 refer.app.com CNAME .
 refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
@@ -259,6 +258,7 @@ refer.labseries.com CNAME .
 refer.laroche-posay.us CNAME .
 refer.lasenza.ca CNAME .
 refer.lasenza.com CNAME .
+refer.last-stitch.com CNAME .
 refer.lauramercier.com CNAME .
 refer.laylasleep.com CNAME .
 refer.lendingclub.com CNAME .
@@ -274,6 +274,7 @@ refer.merrell.com CNAME .
 refer.minted.com CNAME .
 refer.mpgsport.ca CNAME .
 refer.mpgsport.com CNAME .
+refer.myheritagedna.com CNAME .
 refer.narscosmetics.com CNAME .
 refer.newbalance.ca CNAME .
 refer.nfhsnetwork.com CNAME .
@@ -311,6 +312,7 @@ refer.samedelman.com CNAME .
 refer.saucony.com CNAME .
 refer.scoresense.com CNAME .
 refer.seabourn.com CNAME .
+refer.sharetodoist.com CNAME .
 refer.sharkclean.com CNAME .
 refer.skinceuticals.com CNAME .
 refer.skyone.org CNAME .
@@ -332,7 +334,6 @@ refer.tatcha.com CNAME .
 refer.taxact.com CNAME .
 refer.teladoc.com CNAME .
 refer.teladochealth.com CNAME .
-refer.terijon.com CNAME .
 refer.thecompanystore.com CNAME .
 refer.theinside.com CNAME .
 refer.themvpkc.com CNAME .
@@ -352,6 +353,7 @@ refer.underarmour.nl CNAME .
 refer.us.davines.com CNAME .
 refer.vayasleep.com CNAME .
 refer.vincecamuto.com CNAME .
+refer.vitaminpacks.com CNAME .
 refer.vitaminshoppe.com CNAME .
 refer.whitehouseblackmarket.com CNAME .
 refer.wine.com CNAME .
@@ -382,6 +384,7 @@ share.alphaindustries.com CNAME .
 share.anatomie.com CNAME .
 share.aplaceformom.com CNAME .
 share.app.com CNAME .
+share.applemontessorischools.com CNAME .
 share.ashleyhomestore.ca CNAME .
 share.asics.com CNAME .
 share.atlasbars.com CNAME .
@@ -456,7 +459,6 @@ share.hydropeptide.com CNAME .
 share.imagemarket.com CNAME .
 share.inspirecleanenergy.com CNAME .
 share.installamerica.com CNAME .
-share.ipage.com CNAME .
 share.iteach.net CNAME .
 share.juicepress.com CNAME .
 share.juvlabs.com CNAME .
@@ -492,6 +494,7 @@ share.patriotledger.com CNAME .
 share.paulmitchell.com CNAME .
 share.petsbest.com CNAME .
 share.pilotcoffeeroasters.com CNAME .
+share.pnj.com CNAME .
 share.policygenius.com CNAME .
 share.poughkeepsiejournal.com CNAME .
 share.princess.com CNAME .

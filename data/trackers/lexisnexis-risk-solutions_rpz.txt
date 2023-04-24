@@ -497,6 +497,7 @@ mobsessions.worldremit.com CNAME .
 nav.sciencedirect.com CNAME .
 neo.fashionette.de CNAME .
 nexus-svc.sc.com CNAME .
+nfp.intuit.com CNAME .
 nv-2.liveaction.com CNAME .
 ocs.ameriprise.com CNAME .
 offtest.fnfis.com CNAME .
@@ -525,6 +526,7 @@ phyon.communipay.net CNAME .
 phyon.visit-x.net CNAME .
 piafapp.poste.it CNAME .
 plr.scb-payments.net CNAME .
+pn1927.adambank.com CNAME .
 pn1927.coutts.com CNAME .
 pn1927.natwestplus.com CNAME .
 portal-fp-qa1.qa.threatmetrix.com CNAME .
@@ -536,6 +538,8 @@ prod-ascuaz.chaperone.lumindigitalhosting.com CNAME .
 prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
+prod-uecupa.chaperone.lumindigitalhosting.com CNAME .
+profiling.cmo.cibc.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
 profiling.qacitizensbankonline.com CNAME .
 ptm.creditas.com CNAME .
@@ -679,6 +683,7 @@ t.wepay.com CNAME .
 t.yallo.ch CNAME .
 t1.tacdn.com CNAME .
 t1.welab.bank CNAME .
+t11.identity.aikyam.com CNAME .
 t42rsn90.uplift.com CNAME .
 tag-unclaimed.oregon.gov CNAME .
 tag.claimitar.com CNAME .
@@ -768,6 +773,7 @@ tm.regions.com CNAME .
 tm.regionsqa.com CNAME .
 tm.regionstest.com CNAME .
 tm.solidgate.com CNAME .
+tm.stats.home24.at CNAME .
 tm.stats.home24.de CNAME .
 tm.stats.home24.it CNAME .
 tm.stoiximan.gr CNAME .

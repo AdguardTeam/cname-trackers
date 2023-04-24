@@ -801,22 +801,17 @@
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.a3ion.com CNAME .
-a.addisplaynetwork.com CNAME .
-a.bizonads-ssp.com CNAME .
-a.etology.com CNAME .
+a.ad.guru CNAME .
 a.paradoxgroup.uk CNAME .
 a.redpathmedia.com CNAME .
-a.slice.exchange CNAME .
 a.stuffserve.com CNAME .
-admin.adstuff.io CNAME .
-admin.adxnow.com CNAME .
-admin.etology.com CNAME .
+admin.ad.guru CNAME .
+admin.shafttraffic.com CNAME .
 api.adnation.com CNAME .
-api.adxnow.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
-m.hst2x.com CNAME .
 m.hst2y.com CNAME .
+m.hue2a.com CNAME .
 m.optnx.com CNAME .
 main.adxnow.com CNAME .
 main.exdynsrv.com CNAME .
@@ -824,19 +819,20 @@ main.exoclick.com CNAME .
 main.exosrv.com CNAME .
 main.optimizesrv.com CNAME .
 main.realsrv.com CNAME .
-management.adxnow.com CNAME .
 origin-ads.exdynsrv.com CNAME .
 origin-ads.exosrv.com CNAME .
 origin-ads.optimizesrv.com CNAME .
 origin-ads.realsrv.com CNAME .
 rtb.exoclick.com CNAME .
 s.a3ion.com CNAME .
+s.ad.guru CNAME .
 s.adnflow.com CNAME .
 s.bizonads-ssp.com CNAME .
 s.eaalink.com CNAME .
 s.elink2b.com CNAME .
 s.elink2c.com CNAME .
 s.elink3x.com CNAME .
+s.elna1w.com CNAME .
 s.elnk4b.com CNAME .
 s.elnk92.com CNAME .
 s.elnk93.com CNAME .
@@ -853,6 +849,7 @@ s.opoxv.com CNAME .
 s.opti-digital.com CNAME .
 s.optidigital.com CNAME .
 s.optnx.com CNAME .
+s.optzsrv.com CNAME .
 s.orbsrv.com CNAME .
 s.paradoxgroup.uk CNAME .
 s.redpathmedia.com CNAME .
@@ -870,10 +867,10 @@ s.zlink6.com CNAME .
 s.zlink8.com CNAME .
 s.zlink9.com CNAME .
 s.zlinkb.com CNAME .
+s.zlinkc.com CNAME .
 s.zlinkm.com CNAME .
 syndication-adblock.exoclick.com CNAME .
 syndication-json.exoclick.com CNAME .
-syndication.adxnow.com CNAME .
 syndication.dynsrvtbg.com CNAME .
 syndication.dynsrvwer.com CNAME .
 syndication.elink12.com CNAME .
@@ -885,6 +882,7 @@ syndication.exdynsrv.com CNAME .
 syndication.exoclick.com CNAME .
 syndication.exosrv.com CNAME .
 syndication.jsadapi.com CNAME .
+syndication.link2zz.com CNAME .
 syndication.link5c.com CNAME .
 syndication.link5v.com CNAME .
 syndication.linkfryn.com CNAME .
@@ -914,5 +912,7 @@ delivery.gettopple.com CNAME .
 ; cds.v3j9t5q9.hwcdn.net disguised trackers
 ;
 admin.adnation.com CNAME .
+admin.adstuff.io CNAME .
+admin.etology.com CNAME .
 admin.gettopple.com CNAME .
 admin.shafttraffic.com CNAME .

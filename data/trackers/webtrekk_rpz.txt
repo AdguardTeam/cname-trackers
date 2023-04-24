@@ -102,6 +102,7 @@ daten.union-investment.de CNAME .
 di.ifolor.at CNAME .
 di.ifolor.be CNAME .
 di.ifolor.ch CNAME .
+di.ifolor.com CNAME .
 di.ifolor.de CNAME .
 di.ifolor.dk CNAME .
 di.ifolor.fi CNAME .
@@ -296,7 +297,6 @@ web.newsletter.koffer-to-go.de CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.online.monnalisa.com CNAME .
 web.pages.lloydspharmacy.com CNAME .
-web.s.sasrx.com CNAME .
 web.sensilab.com CNAME .
 web.sensilab.de CNAME .
 web.sensilab.ie CNAME .

@@ -12,6 +12,7 @@
 | a3.hotpornfile.org | api.clickaine.com |
 | ad.arabxl.com | api.clickaine.com |
 | ad1.xero.porn | api.clickaine.com |
+| api.kekw.website | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
 | api.willalland.info | api.clickaine.com |
 | api2.clickaine.com | api.clickaine.com |
@@ -55,6 +56,7 @@
 | cc2.camcaps.io | api.clickaine.com |
 | cdm.uncensored-hentai.top | api.clickaine.com |
 | cdn1.memojav.com | api.clickaine.com |
+| cdn2.picyield.com | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |
 | cli.its2.net | api.clickaine.com |
 | clickc4n.pornharlot.com | api.clickaine.com |
@@ -80,6 +82,7 @@
 | hruk.prikupok.icu | api.clickaine.com |
 | icn.brandnewapp.pro | api.clickaine.com |
 | jpnj.hotpornfile.org | api.clickaine.com |
+| k8.usefto.com | api.clickaine.com |
 | mail.7porn.ru | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |
 | orange.arabtoons.net | api.clickaine.com |
@@ -88,10 +91,11 @@
 | reg.ancensored.com | api.clickaine.com |
 | s1.rtnews.pro | api.clickaine.com |
 | s1.wnacg.org | api.clickaine.com |
+| s5.rtnews.pro | api.clickaine.com |
 | sda.arabsex1.com | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |
 | sticky.vtube.to | api.clickaine.com |
-| thunder.vtube.to | api.clickaine.com |
+| thunder1.vtube.to | api.clickaine.com |
 | uy.arabsex1.com | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
 | wp.brandnewapp.pro | api.clickaine.com |

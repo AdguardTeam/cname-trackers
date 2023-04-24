@@ -89,6 +89,7 @@
     * h-accountonline.online-metrix.net
     * h-accurint.online-metrix.net
     * h-ad2y6kcr.online-metrix.net
+    * h-adambank.online-metrix.net
     * h-adp.online-metrix.net
     * h-af1jjj0t.online-metrix.net
     * h-afterpay.online-metrix.net
@@ -637,6 +638,7 @@
 | prod-cstonefcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-uecupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | matrix.cpg.org | h-1qpcog32.online-metrix.net |
 | cnt.goboo.com | h-1u7ubqzg.online-metrix.net |
 | ptm.creditas.com | h-1vjjer2n.online-metrix.net |
@@ -736,6 +738,7 @@
 | cdnfp.lexisnexisrisk.com | h-accurint.online-metrix.net |
 | cdnfp.lexisnexisrisk.eu | h-accurint.online-metrix.net |
 | bifpt.pepperfinance.es | h-ad2y6kcr.online-metrix.net |
+| pn1927.adambank.com | h-adambank.online-metrix.net |
 | image.online.adp.com | h-adp.online-metrix.net |
 | auth2.corelogic.asia | h-af1jjj0t.online-metrix.net |
 | rsx.afterpay.com | h-afterpay.online-metrix.net |
@@ -877,6 +880,7 @@
 | m-profiling.simplii.com | h-cibc.online-metrix.net |
 | w-profiling.cibc.com | h-cibc.online-metrix.net |
 | w-profiling.simplii.com | h-cibc.online-metrix.net |
+| profiling.cmo.cibc.com | h-cibcom.online-metrix.net |
 | profiling.digitalbusiness.cibc.com | h-cibcom.online-metrix.net |
 | compliance.mohegansuncasino.com | h-cigsl5rh-2.online-metrix.net |
 | compliance.resortscasino.com | h-cigsl5rh.online-metrix.net |
@@ -1067,6 +1071,7 @@
 | cdnt.walmartrewards.ca | h-hie95lph-walrew.online-metrix.net |
 | telem.highlow.net | h-highlow.online-metrix.net |
 | yr3ioxw.hoaresbank.co.uk | h-hoares.online-metrix.net |
+| tm.stats.home24.at | h-home24.online-metrix.net |
 | tm.stats.home24.de | h-home24.online-metrix.net |
 | tm.stats.home24.it | h-home24.online-metrix.net |
 | tmcdn.homeaway.com | h-homeaway2.online-metrix.net |
@@ -1228,6 +1233,7 @@
 | rba.login.agentmessagecenter.optum.com | h-optum.online-metrix.net |
 | rba.onehealthcareid.com | h-optumid.online-metrix.net |
 | rba.optumgovid.com | h-optumid.online-metrix.net |
+| t11.identity.aikyam.com | h-optumid.online-metrix.net |
 | rba.login.mahix.org | h-optummahix.online-metrix.net |
 | optm.optus.com.au | h-optus.online-metrix.net |
 | img2.otto.nl | h-ottobv.online-metrix.net |
@@ -1420,6 +1426,7 @@
 | kfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | lfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | mfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
+| nfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | yfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | frp.intuit.com | h-v60nf4oj.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |

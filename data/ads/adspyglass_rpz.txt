@@ -94,6 +94,7 @@ ad.wawacity.xyz CNAME .
 adanald.icu CNAME .
 adblock.vidomo.xyz CNAME .
 adddddd.javmilk.org CNAME .
+addin.icu CNAME .
 adhome.icu CNAME .
 adilk.ilikecomix.com CNAME .
 ads.2conv.com CNAME .
@@ -116,6 +117,7 @@ adsrv.kamehameha.click CNAME .
 advpro.pro CNAME .
 adxhand.icu CNAME .
 ags.hobby.porn CNAME .
+ags.justthegays.com CNAME .
 all.shorterall.com CNAME .
 alt.fescity.com CNAME .
 amaz.emailon.top CNAME .
@@ -195,7 +197,6 @@ banana.arabtoons.net CNAME .
 banana.emailon.top CNAME .
 bc6dc48b743dc5d01.clicknplay.to CNAME .
 bddd.javmilk.org CNAME .
-best.s5live.com CNAME .
 biakico.mom CNAME .
 blablahub.com CNAME .
 blog.andropps.com CNAME .
@@ -279,7 +280,6 @@ essential.awmcash.com CNAME .
 est.pornleech.ch CNAME .
 ex8.lostporntube.com CNAME .
 f.bloblohub.com CNAME .
-fast.s5live.com CNAME .
 fddddddd.javmilk.org CNAME .
 fgy3tg.jav-7mmtv.top CNAME .
 forads.pro CNAME .
@@ -299,10 +299,10 @@ ggg2fd.jav-7mmtv.top CNAME .
 ghtry.amateurswild.com CNAME .
 glass.vixfilmes.online CNAME .
 glokta.info CNAME .
-go.s5live.com CNAME .
 go.showmeyouradsnow.com CNAME .
 go.ss-n-30.com CNAME .
 goallbest.com CNAME .
+godhame.xyz CNAME .
 goog.emailon.top CNAME .
 h-ay.com CNAME .
 hazicu.hothomefuck.com CNAME .
@@ -446,6 +446,7 @@ outallin.mom CNAME .
 ox8.topsexhdvideos.com CNAME .
 p123p.com CNAME .
 p1t.clipnuke.com CNAME .
+pakenta.xyz CNAME .
 pakeway.lol CNAME .
 pam.mongz.lol CNAME .
 pampela.lol CNAME .
@@ -597,7 +598,6 @@ www.adanald.icu CNAME .
 www.adhome.icu CNAME .
 www.adxhand.icu CNAME .
 www.antiadblock.info CNAME .
-www.areliux.cc CNAME .
 www.bigboy.monster CNAME .
 www.bloblohub.com CNAME .
 www.healmsuoguurd.eu CNAME .
@@ -609,6 +609,7 @@ www.p123p.com CNAME .
 www.shemale.team CNAME .
 www.u808i.com CNAME .
 www.upcdn.site CNAME .
+www.valornutricional.cc CNAME .
 www.w00t.us CNAME .
 www.zqwe.ru CNAME .
 www4.hentai-rpg.com CNAME .
@@ -642,4 +643,4 @@ cdn.manhwadesu.me CNAME .
 ;
 ; u53.hypnorat.com disguised trackers
 ;
-qhip.com CNAME .
+h-ay.com CNAME .

@@ -68,6 +68,10 @@ tk.domitys.fr CNAME .
 tk.dossier.co CNAME .
 tk.engie.fr CNAME .
 tk.etam.com CNAME .
+tk.evaneos.de CNAME .
+tk.evaneos.es CNAME .
+tk.evaneos.fr CNAME .
+tk.evaneos.it CNAME .
 tk.healthwarehouse.com CNAME .
 tk.hypnia.co.uk CNAME .
 tk.hypnia.es CNAME .

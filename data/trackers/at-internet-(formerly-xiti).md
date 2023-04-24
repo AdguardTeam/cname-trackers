@@ -11,6 +11,7 @@
     * ama-planet-wissen-de-cddc.at-o.net
     * ama-quarks-de-cddc.at-o.net
     * ama-wdr-de-cddc.at-o.net
+    * ama-wdrmaus-de-cddc.at-o.net
     * ana-tv5unis-ca-cddc.at-o.net
     * arrietty-nrj-fr-cddc.at-o.net
     * at-badische-zeitung-de-cddc.at-o.net
@@ -134,6 +135,7 @@
 | ama.planet-wissen.de | ama-planet-wissen-de-cddc.at-o.net |
 | ama.quarks.de | ama-quarks-de-cddc.at-o.net |
 | ama.wdr.de | ama-wdr-de-cddc.at-o.net |
+| ama.wdrmaus.de | ama-wdrmaus-de-cddc.at-o.net |
 | ana.tv5unis.ca | ana-tv5unis-ca-cddc.at-o.net |
 | arrietty.nrj.fr | arrietty-nrj-fr-cddc.at-o.net |
 | at.badische-zeitung.de | at-badische-zeitung-de-cddc.at-o.net |

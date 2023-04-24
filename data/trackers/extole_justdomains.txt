@@ -20,7 +20,6 @@ refer.ahsfriends.com
 refer.american-giant.com
 refer.americanexpress.com
 refer.ancestry.com
-refer.aol.com
 refer.app.com
 refer.backcountry.com
 refer.barenecessities.com
@@ -259,6 +258,7 @@ refer.labseries.com
 refer.laroche-posay.us
 refer.lasenza.ca
 refer.lasenza.com
+refer.last-stitch.com
 refer.lauramercier.com
 refer.laylasleep.com
 refer.lendingclub.com
@@ -274,6 +274,7 @@ refer.merrell.com
 refer.minted.com
 refer.mpgsport.ca
 refer.mpgsport.com
+refer.myheritagedna.com
 refer.narscosmetics.com
 refer.newbalance.ca
 refer.nfhsnetwork.com
@@ -311,6 +312,7 @@ refer.samedelman.com
 refer.saucony.com
 refer.scoresense.com
 refer.seabourn.com
+refer.sharetodoist.com
 refer.sharkclean.com
 refer.skinceuticals.com
 refer.skyone.org
@@ -332,7 +334,6 @@ refer.tatcha.com
 refer.taxact.com
 refer.teladoc.com
 refer.teladochealth.com
-refer.terijon.com
 refer.thecompanystore.com
 refer.theinside.com
 refer.themvpkc.com
@@ -352,6 +353,7 @@ refer.underarmour.nl
 refer.us.davines.com
 refer.vayasleep.com
 refer.vincecamuto.com
+refer.vitaminpacks.com
 refer.vitaminshoppe.com
 refer.whitehouseblackmarket.com
 refer.wine.com
@@ -382,6 +384,7 @@ share.alphaindustries.com
 share.anatomie.com
 share.aplaceformom.com
 share.app.com
+share.applemontessorischools.com
 share.ashleyhomestore.ca
 share.asics.com
 share.atlasbars.com
@@ -456,7 +459,6 @@ share.hydropeptide.com
 share.imagemarket.com
 share.inspirecleanenergy.com
 share.installamerica.com
-share.ipage.com
 share.iteach.net
 share.juicepress.com
 share.juvlabs.com
@@ -492,6 +494,7 @@ share.patriotledger.com
 share.paulmitchell.com
 share.petsbest.com
 share.pilotcoffeeroasters.com
+share.pnj.com
 share.policygenius.com
 share.poughkeepsiejournal.com
 share.princess.com

@@ -28,6 +28,7 @@ cdn.gocolow.com
 cdn.hqwa.xyz
 cdn.iople.com
 cdn.jandaqwe.com
+cdn.jeckear.com
 cdn.jhoncj.com
 cdn.jwalf.com
 cdn.karpatzi.com
@@ -72,8 +73,10 @@ aj8md.johnhenry.ie
 albatross.ohseesoftware.com
 alpaca.miidbaby.com
 alpaca.thesocialmedwork.com
+alpaca.wingmantracker.com
 amphibian.foodfamily.app
 amphibian.juergenhaller.at
+amphibian.pinestc.com
 amphibian.studionimbus.nl
 amphibian.tboa.club
 anaconda.webitizeicts.com
@@ -83,6 +86,7 @@ angelfish.owlbear.rodeo
 angelfish.wpsocialrocket.com
 anglerfish.luminfire.com
 anglerfish.pfolios.net
+anteater.audioadventuregame.com
 anteater.stella-projects.de
 anteater.ttbwsd.com
 anteater.webitize.com
@@ -99,6 +103,7 @@ armadillo.gothiacup.se
 armadillo.stacking.club
 armadillo.superpeak.dk
 asp.ashesashes.org
+asp.chop-shop.com.au
 asp.sepiasoft.eu
 azlej8cdm.pragmaticwebsecurity.com
 baboon.vacanti.com
@@ -108,6 +113,7 @@ baldeagle.e-ma.re
 baldeagle.eternalmma.com
 bandicoot.mohit.dev
 bandicoot.sigerr.org
+barnacle.big-in-japan.com
 barnacle.viewsource.io
 barracuda.ottsysteme.rs
 barracuda.saraos.tech
@@ -137,6 +143,7 @@ bison.stuffmatic.com
 bison.weitweit.at
 blackbird.docstation.co
 blackbird.everythinginmoderation.co
+blackbird.stickerclub.org
 bluejay.edgesoftware.cloud
 bluejay.postmediagroup.com
 bluejay.schreinerei-virnich.de
@@ -153,7 +160,6 @@ bobcat.pronounce.technology
 bobcat.pushplay.nl
 bobcat.snapshooter.io
 bobcat.wdng-fotograf.de
-bobolink.itpeters.com
 bobolink.veteranjobcenter.com
 booby.deanyeong.com
 boom.laravel.io
@@ -220,6 +226,7 @@ cattle.mes-renovateurs.com
 cattle.musikschule-bregenzerwald.at
 cattle.spiral11.com
 cattle.weiss-bregenz.at
+cattle.yourdallashandyman.com
 centipede.buskersbern.ch
 centipede.davimug.com
 centipede.wildbit.com
@@ -248,7 +255,6 @@ chimpanzee.designerdailyreport.com
 chimpanzee.ines-papert.com
 chinchilla.68keys.io
 chinchilla.christinefontaine.com
-chinchilla.twayapp.com
 chinchilla.ubclaunchpad.com
 chipmunk.brandy.is
 chipmunk.pixelko.de
@@ -344,6 +350,7 @@ earthworm.creatifmediagroup.com
 earthworm.elenabirkenwald.com
 earthworm.lidi.today
 earthworm.ohmydeck.com
+earthworm.robbevanpetegem.be
 earwig.architecturesofhiding.com
 echidna.eyalgantz.me
 echidna.honeybadger.io
@@ -432,7 +439,6 @@ goldfish.shingle.fi
 goldfish.untitledspreadsheet.com
 goose.markerchase.com
 goose.pooltogether.com
-gopher.benlatz.com
 gopher.mina.ca
 gorilla.celcyon.com
 gorilla.hakai.org
@@ -464,8 +470,10 @@ halibut.phytype.com
 hamster.consentkit.io
 hamster.darstellendekuenste.de
 hare.felix-schmid.de
+harrier.jasonsantamaria.com
 hawk.affio.co.uk
 hawk.makroskop.eu
+hawk.mjsarfatti.com
 hedgehog.fightforthefuture.org
 hedgehog.impira.com
 heron.joel.is
@@ -483,10 +491,12 @@ hornet.stechstudio.com
 horse.cubitcreative.com
 horse.deadmanssnitch.com
 horse.erms.app
+horse.hookrelay.dev
 horse.mynorthstarapp.com
 horse.ohseemedia.com
 horse.playbookedge.com
 horse.purely.lol
+horse.rmrk.app
 horse.uhaveto.click
 horse.usemiso.com
 horse.vesuvius-publishing.com
@@ -572,6 +582,7 @@ limpet.coinponent.com
 limpet.eddiehinkle.com
 limpet.pioneerlandscapingllc.com
 limpet.yago.dev
+lion.lastfrontiermagazine.com
 llama.eniston.io
 llama.growthinkers.nl
 llama.mallardbay.com
@@ -610,6 +621,7 @@ marlin.mecv.xyz
 marlin.plumerai.com
 marmoset.easycolour.app
 marmot.hippiemodernism.com
+marmot.jfontana.fr
 marmot.theshootingcentre.com
 marsupial.dbcontractingltd.ca
 marsupial.kymellis.co
@@ -694,6 +706,7 @@ panther.activelink.ie
 panther.atgonlinecoaching.com
 panther.codyhatfield.me
 panther.dividesignservice.com
+panther.essentialwellnessyoga.com.au
 panther.hoprnet.org
 panther.thestocks.im
 panther.tigil.rs
@@ -764,6 +777,7 @@ raccoon.donateflow.com
 rat.gimlet.io
 raven.konquadrat.de
 reindeer.pablomaceda.com
+reptile.o-lit.fr
 reptile.wyattblogs.com
 rhinoceros.cocotec.io
 rhinoceros.codeagain.com
@@ -828,6 +842,7 @@ sparrow.collabwithpedal.com
 sparrow.uitvaartzorg-vanraemdonck.be
 sparrow.workingincontent.com
 spermwhale.floofarazzi.com
+spermwhale.rowansimpson.com
 spermwhale.thankbox.co
 spider.capricciocolumbus.org
 spider.scottw.com
@@ -869,6 +884,7 @@ tahr.happydev.fm
 takin.bottlebeagle.com
 takin.dripmacetas.com
 takin.revolana.fr
+tarantula.emotionalbaking.com
 tarantula.hashicorp.com
 tarsier.eyal.codes
 tarsier.kriterie.se
@@ -876,12 +892,14 @@ tick.pcrpriser.se
 tick.sculch.app
 tigershark.advaya.co
 tigershark.garethtdavies.com
+tigershark.paavanmagic.com
 tigershark.vandevliet.me
 tiglon.beyondco.de
 tiglon.orisdental.no
 tortoise.transistor.fm
 toucan.ateliermilky.com
 toucan.lgbtjobsearch.com
+treefrog.kaffeknappen.no
 treefrog.tschmeisser.com
 trout.lgbtqinjobs.com
 trout.travelmassive.com
@@ -897,6 +915,7 @@ vampirebat.datingmedellin.com
 vampirebat.git-tower.com
 vampirebat.sharpend.io
 vampirebat.stiftung-palliativ-zuhause.de
+vampirebat.tinamrak.com
 vicuna.casa-moebel.at
 vicuna.redwoodcity.bike
 viper.sitesauce.app
@@ -926,34 +945,6 @@ woodpecker.ember.ly
 woodpecker.seabits.com
 worm.paulstamatiou.com
 yak.embeddedartistry.com
-#
-# starman.fathomdns.com disguised trackers
-#
-aardwolf.keygen.sh
-alpaca.wingmantracker.com
-amphibian.pinestc.com
-anglerfish.luminfire.com
-anteater.audioadventuregame.com
-armadillo.stacking.club
-asp.chop-shop.com.au
-bandicoot.mohit.dev
-bison.streamclocks.com
-blackbird.stickerclub.org
-cattle.yourdallashandyman.com
-crane.trescolori.cloud
-crawdad.dillonerhardt.com
-felidae.mmm.page
-harrier.jasonsantamaria.com
-hawk.mjsarfatti.com
-heron.notability.com
-horse.hookrelay.dev
-horse.ohseemedia.com
-horse.rmrk.app
-iguana.delbaoliveira.com
-leopon.originalmineral.com
-lion.lastfrontiermagazine.com
-panther.essentialwellnessyoga.com.au
-spermwhale.rowansimpson.com
 #
 # bs-adserver.b-cdn.net disguised trackers
 #

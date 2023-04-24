@@ -84,6 +84,7 @@ a8.golfland.co.jp
 a8.goodappeal.site
 a8.h-daiya.co.jp
 a8.hakata-hisamatsu.net
+a8.happy-card.jp
 a8.haptic.co.jp
 a8.healthyolive.com
 a8.heart-denpo.com
@@ -157,6 +158,7 @@ a8.pcwrap.com
 a8.pearlizumi.co.jp
 a8.petfood.mtflat.co.jp
 a8.polyglots.net
+a8.princess-jp.com
 a8.print-netsquare.com
 a8.push.capsules.jp
 a8.rank-quest.jp
@@ -255,6 +257,7 @@ a8clk.9factor.com
 a8clk.account.matsui.co.jp
 a8clk.adeliv.treasure-f.com
 a8clk.adventkk.co.jp
+a8clk.afi1.emanon-sharesalon.com
 a8clk.alljewelry.jp
 a8clk.amelia.ne.jp
 a8clk.ancar.jp
@@ -295,6 +298,7 @@ a8clk.cocorotherapy.com
 a8clk.colone.cc
 a8clk.comeitto.com
 a8clk.cp.favorina.com
+a8clk.cp.formalklein.com
 a8clk.crefus.com
 a8clk.crowdworks.jp
 a8clk.cs.machi-ene.jp
@@ -323,6 +327,7 @@ a8clk.ex-wifi.jp
 a8clk.excellence-aoyama.com
 a8clk.fastsim.jp
 a8clk.fc-mado.com
+a8clk.firadis.net
 a8clk.formal.cariru.jp
 a8clk.formasp.jp
 a8clk.francfranc.com
@@ -710,6 +715,7 @@ a8cv.nakashimahihuka.com
 a8cv.naradenryoku.co.jp
 a8cv.natulahonpo.com
 a8cv.nichirei.co.jp
+a8cv.nifty.com
 a8cv.nijiun.com
 a8cv.nittei-group-alliance.com
 a8cv.norikae-cashback.com
@@ -855,12 +861,14 @@ a8trck.aisatsujo.jp
 a8trck.helloactivity.com
 a8trck.j-sen.jp
 a8trck.tolot.com
+a8trk.www.std-lab.jp
 acv.aun-n-hikari.com
 acv.biglobe-hikari.net
 acv.crea-lp.com
 acv.hikarisoftbank.com
 acv.mc-nurse.net
 acv.next-air-wifi.com
+acv.softbank-hikaricollabo.com
 acv.xn--dckf5a1e821s9i7b.com
 ad.ichiban-boshi.com
 ad.ichiru.net
@@ -885,6 +893,7 @@ afi.school.web-marketing.ai
 afi.ssl.gmobb.jp
 ahachi.dietnavi.com
 analytics.villagehouse.jp
+aspa8.ozmall.co.jp
 cv.atelier-shark.com
 cv.colleize.com
 cv.drive-hikari.net
@@ -922,11 +931,15 @@ storea8tracking.alc.co.jp
 sub.booksdream-mypage.com
 summary.bookoffonline.co.jp
 thanks.tsubaki-musicschool.com
+track-v4.ipadpresence.com
 track.craudia.com
 tracking.196189.com
 trck.aeon.co.jp
 trck.repesta.com
 trck.rework-s.com
+trck02.magaseek.com
+trcka8.orobianco-jp.com
 web.hikari-biglobe.com
 web.hikari-softbank.com
 web.life-cw.com
+www.a8clk.kanagawa-zero.com

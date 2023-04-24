@@ -30,7 +30,6 @@
 ||analytics.churchthemes.com^
 ||analytics.codeforscience.org^
 ||analytics.codeskulptor.org^
-||analytics.dephibank.com^
 ||analytics.eikko.ai^
 ||analytics.ericafischerphotography.com^
 ||analytics.gamedatacrunch.com^
@@ -72,7 +71,6 @@
 ||analytics.winter.ink^
 ||analytics.wittypen.com^
 ||analytics.xiloc.net^
-||analytics.yeshou.run^
 ||analytics.zevvle.com^
 ||anneliese.scale.at^
 ||antitracking.owncast.online^
@@ -397,7 +395,6 @@
 ||stats.acadevor.com^
 ||stats.achtsame-yonimassage.de^
 ||stats.activityvault.io^
-||stats.adliance.net^
 ||stats.adlperformance.es^
 ||stats.airtrafik.com^
 ||stats.aixbrain.de^
@@ -474,7 +471,6 @@
 ||stats.cascadeinstitute.org^
 ||stats.caseydunham.com^
 ||stats.cassidyjames.com^
-||stats.castingdepot.com^
 ||stats.catholicluv.com^
 ||stats.centerforvalues.international^
 ||stats.centralswindonnorth-pc.gov.uk^
@@ -569,7 +565,6 @@
 ||stats.elixir-lang.org^
 ||stats.elixirstream.dev^
 ||stats.elysenewland.com^
-||stats.emaillove.com^
 ||stats.emailrep.io^
 ||stats.emmah.net^
 ||stats.emmas.site^
@@ -640,7 +635,6 @@
 ||stats.hammertime.me^
 ||stats.hauke.me^
 ||stats.headhunted.com.au^
-||stats.helenagwyn.com^
 ||stats.hex.pm^
 ||stats.hexdocs.pm^
 ||stats.hey.com^
@@ -703,6 +697,7 @@
 ||stats.kalkulatordniroboczych.pl^
 ||stats.kambr.io^
 ||stats.karenstiller.com^
+||stats.katharinascheitz.com^
 ||stats.keirwhitaker.com^
 ||stats.kejk.tech^
 ||stats.kensho.com^
@@ -768,6 +763,7 @@
 ||stats.nexagon.dk^
 ||stats.nicolabricot.com^
 ||stats.nodewood.com^
+||stats.nomad.radio^
 ||stats.nothingbutnylon.com^
 ||stats.nullsecure.com^
 ||stats.nytecomics.com^
@@ -781,6 +777,7 @@
 ||stats.orbitalhealth.co^
 ||stats.ordinarypuzzles.com^
 ||stats.ortussolutions.com^
+||stats.osiemsiedem.com^
 ||stats.otsohavanto.net^
 ||stats.outpostdemo.com^
 ||stats.ownpath.xyz^
@@ -795,6 +792,7 @@
 ||stats.patout.dev^
 ||stats.paulbutler.org^
 ||stats.paulronge.se^
+||stats.paypresto.co^
 ||stats.paysagistes.pro^
 ||stats.pendleratlas.de^
 ||stats.perpetual.pizza^
@@ -862,6 +860,7 @@
 ||stats.screenwavemedia.com^
 ||stats.sebastiandombrowski.de^
 ||stats.sebastiangale.ca^
+||stats.selectam.io^
 ||stats.sendngnt.com^
 ||stats.servicedesignjobs.com^
 ||stats.seva.rocks^
@@ -899,6 +898,7 @@
 ||stats.tms-development.de^
 ||stats.toiletmap.org.uk^
 ||stats.torontohhs.org^
+||stats.trailblazercoffee.com^
 ||stats.training.fit^
 ||stats.trenntoi.de^
 ||stats.tsas.ca^
@@ -906,6 +906,7 @@
 ||stats.twhl.xyz^
 ||stats.unusualtourist.com^
 ||stats.urlaubsverwaltung.cloud^
+||stats.useeffect.dev^
 ||stats.vdsnow.ru^
 ||stats.vertis.io^
 ||stats.voltamediahouse.com^
@@ -929,15 +930,19 @@
 ||stats.zimri.net^
 ||sts.authramp.com^
 ||sts.tour-europe.org^
+||thumos.fileside.app^
 ||tics.seeker.gg^
 ||tipstats.onepagelove.com^
 ||tock.weg.plus^
 ||track.slickinbox.com^
 ||traffic.hostedstatus.page^
 ||traffic.taktikal.is^
+||triton.companyegg.com^
+||visitorcenter.srwild.com^
 ||visitors.gigianddavid.com^
 ||vole.amplenote.com^
 ||we-love-privacy.humane.club^
+||www2.azimuthpsych.com^
 ||xyz.bestool.pl^
 ||yolo.philipbjorge.com^
 ||yolo.phpliveregex.com^

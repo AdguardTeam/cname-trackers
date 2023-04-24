@@ -497,6 +497,7 @@
 ||nav.sciencedirect.com^
 ||neo.fashionette.de^
 ||nexus-svc.sc.com^
+||nfp.intuit.com^
 ||nv-2.liveaction.com^
 ||ocs.ameriprise.com^
 ||offtest.fnfis.com^
@@ -525,6 +526,7 @@
 ||phyon.visit-x.net^
 ||piafapp.poste.it^
 ||plr.scb-payments.net^
+||pn1927.adambank.com^
 ||pn1927.coutts.com^
 ||pn1927.natwestplus.com^
 ||portal-fp-qa1.qa.threatmetrix.com^
@@ -536,6 +538,8 @@
 ||prod-cstonefcu.chaperone.lumindigitalhosting.com^
 ||prod-redwood.chaperone.lumindigitalhosting.com^
 ||prod-sesloc.chaperone.lumindigitalhosting.com^
+||prod-uecupa.chaperone.lumindigitalhosting.com^
+||profiling.cmo.cibc.com^
 ||profiling.digitalbusiness.cibc.com^
 ||profiling.qacitizensbankonline.com^
 ||ptm.creditas.com^
@@ -679,6 +683,7 @@
 ||t.yallo.ch^
 ||t1.tacdn.com^
 ||t1.welab.bank^
+||t11.identity.aikyam.com^
 ||t42rsn90.uplift.com^
 ||tag-unclaimed.oregon.gov^
 ||tag.claimitar.com^
@@ -768,6 +773,7 @@
 ||tm.regionsqa.com^
 ||tm.regionstest.com^
 ||tm.solidgate.com^
+||tm.stats.home24.at^
 ||tm.stats.home24.de^
 ||tm.stats.home24.it^
 ||tm.stoiximan.gr^

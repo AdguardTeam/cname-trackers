@@ -23,6 +23,7 @@
 | epm.mailperformance.com | tracking.bp01.net |
 | mailtracking.tf1.com | tracking.bp01.net |
 | mp.pitchero.com | tracking.bp01.net |
+| news.mailperformance.com | tracking.bp01.net |
 | newsletter.ticketac.com | tracking.bp01.net |
 | shortener.np6.com | tracking.bp01.net |
 | sms.gestion.cetelem.fr | tracking.bp01.net |
@@ -74,6 +75,7 @@
 | tr.asp10cg.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ch.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10cr.espmp-nifr.net | tracking.bp01.net |
+| tr.asp10dx.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10fa.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10ge.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10h2.espmp-nifr.net | tracking.bp01.net |
@@ -502,6 +504,7 @@
 | tr.mailingnp6.lavoirmoderne.com | tracking.bp01.net |
 | tr.mailmp.macif.net | tracking.bp01.net |
 | tr.mailperf.institut-de-la-protection-sociale.fr | tracking.bp01.net |
+| tr.mailperf.ngt-services.com | tracking.bp01.net |
 | tr.mailperformance.com | tracking.bp01.net |
 | tr.mailperformance.fr | tracking.bp01.net |
 | tr.maisonsdumonde.com | tracking.bp01.net |
@@ -658,6 +661,7 @@
 | tr.news.mon-horoscope.info | tracking.bp01.net |
 | tr.news.monvoyant.fr | tracking.bp01.net |
 | tr.news.mperformance.fr | tracking.bp01.net |
+| tr.news.mydesign.com | tracking.bp01.net |
 | tr.news.normandie.cci.fr | tracking.bp01.net |
 | tr.news.ocs.fr | tracking.bp01.net |
 | tr.news.onetoonemba.com | tracking.bp01.net |
@@ -785,6 +789,7 @@
 | tr.pixe.espmp-cufr.net | tracking.bp01.net |
 | tr.pm.pelhammedia.com | tracking.bp01.net |
 | tr.pole-emploi-services.com | tracking.bp01.net |
+| tr.pole-emploi.info | tracking.bp01.net |
 | tr.policyexpert.info | tracking.bp01.net |
 | tr.politicolive.eu | tracking.bp01.net |
 | tr.politicomarketing.eu | tracking.bp01.net |
@@ -876,6 +881,7 @@
 | tr.toner-services.fr | tracking.bp01.net |
 | tr.tonerservices.fr | tracking.bp01.net |
 | tr.tourisme.visit-lanarbonnaise.com | tracking.bp01.net |
+| tr.tpe.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |
 | tr.ujsv.espmp-agfr.net | tracking.bp01.net |
 | tr.uk.icicibank.com | tracking.bp01.net |

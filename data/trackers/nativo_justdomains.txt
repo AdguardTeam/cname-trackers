@@ -4,7 +4,6 @@
 # ntv.io disguised trackers
 #
 c333.macworld.co.uk
-partners.time.com
 sponsor.syracuse.com
 #
 # ntvpforever.com disguised trackers
@@ -15,12 +14,13 @@ sponsor.syracuse.com
 034beb90c9.61b6eab774.com
 042006961f.0c98edaa39.com
 0424b056e9.bfbcb7a235.com
+052d3c5276.875413cfaf.com
 0543f1c8c7.71aadba6c8.com
 071cc548ff.78ab4874ae.com
 084cc7e11c.abc35a1d01.com
 088d98f687.7a3b147921.com
-0acbf53d71.711f421280.com
 0b05878fdd.fddf7d58ea.com
+0b07b901e2.42de2de7b1.com
 0b6ecb7f80.c986493e7d.com
 0c25092667.19028a7caf.com
 0d75eae134.2ae9461951.com
@@ -44,6 +44,7 @@ sponsor.syracuse.com
 1ed960d6ad.fa479896c7.com
 2093b71876.d2c273238b.com
 20cbc85129.fc455e7809.com
+20ddfbe344.7179c5492e.com
 22aa4458dc.c42f556ff8.com
 234e54cf56.e9f1af32f6.com
 2547cd401b.d8a452e2da.com
@@ -51,6 +52,7 @@ sponsor.syracuse.com
 2a98a4b811.a2a2fd6dd1.com
 2b93cd08b5.fd40cd3322.com
 2c9ed85c0b.b2acafb3a3.com
+2cb68fec4a.4fde20c235.com
 2d56aafb14.8767fbfa8b.com
 2efa46ca31.da03ab7249.com
 2fa1db4c6a.6effce3135.com
@@ -79,7 +81,6 @@ sponsor.syracuse.com
 46fe7fa264.4d2a483049.com
 48c1f78392.31f4ea3b17.com
 4909cc6acc.0fc32b5283.com
-497a1141f1.23d097de11.com
 4b09093915.259576970f.com
 4e6b62c568.4b31707500.com
 4e838acbab.d3f3abd25c.com
@@ -92,17 +93,13 @@ sponsor.syracuse.com
 56a7ca381c.a4de9aca80.com
 57a8023ce9.1aa3097b7b.com
 58ac5dbcb6.34946d7678.com
-597eb96e9c.299f70c6b2.com
 5a841fa92e.5ee782a4d9.com
-5ab3edc5c1.342c15527e.com
 5ab760da26.bf34686748.com
 5d4e559c09.4250665e93.com
 5e90a3a3f8.85d9d90c71.com
 5febec09c5.6d3ee1a24b.com
 6047f3c601.7ae9fc0b53.com
 60e1c77a92.11838aaad0.com
-61254102fd.92333cc277.com
-616e2f6a4f.774e14a837.com
 6183c729c7.f145627a09.com
 62b00ced28.39373b8701.com
 62ffd2f212.cfe8fd831d.com
@@ -111,7 +108,6 @@ sponsor.syracuse.com
 66d7c2e32f.843acfbeb0.com
 67116813c6.89504d460b.com
 6788b5f0a5.07ab456fe8.com
-68787fa2a4.0439c255ac.com
 699e46a3ca.e11c0ad270.com
 6ab791d164.d409401d80.com
 6aca58cba6.106cdb2259.com
@@ -123,11 +119,9 @@ sponsor.syracuse.com
 6ef94a502b.64134c91b6.com
 70832e4e42.1c8a98da68.com
 710434b975.6de8cd75aa.com
-72ffc1edfd.f6d56854f2.com
 735149c0f3.f5d46bef1b.com
 740e3dd5cf.71a3fd0954.com
 749e473277.b6deee8a5f.com
-74ae08c95d.364a426c46.com
 7734af9d7a.854a08a35e.com
 77998a50f4.d9e6fb9edb.com
 790d5944bd.7d1f2e00ed.com
@@ -144,6 +138,7 @@ sponsor.syracuse.com
 7f01e7f94e.1d022ca6a2.com
 7f9e4f7383.b40c7bfff2.com
 7fe465ee76.f21c8cd9a7.com
+80d1a27de4.7776bf141c.com
 812748c48f.02f87a8089.com
 81882ef64b.34ad8df175.com
 8577616b81.2045683976.com
@@ -152,12 +147,11 @@ sponsor.syracuse.com
 865a159ba5.d7739252ca.com
 898dd5a858.a06e054b4c.com
 8a7f64eb48.5a46c72f0e.com
-8a86cfec6c.db4a1656b5.com
 8aa53eb242.136287d626.com
 8ac8c6d855.17c12b43a7.com
 8bb3b7c35f.e93014ee07.com
-8bd9187370.468a044700.com
 8bf1e6c762.bcd7ad4271.com
+8c3f7091b1.ea8816ca93.com
 8dba8f6d76.3ce27e9b41.com
 8dbd9f1b8c.b0b96fffc2.com
 8ef71a6605.5115924dd3.com
@@ -174,7 +168,6 @@ sponsor.syracuse.com
 96b76b02f1.49af7cee19.com
 9757fdc45b.92b501c719.com
 98028f4b73.c9b501fef3.com
-991884fac3.ff206c9291.com
 999a328fa0.86521e18d4.com
 99aa05f0e1.bc9bdbb70b.com
 99eaf1c2b5.e4d3c228c4.com
@@ -189,9 +182,7 @@ a390770006.41291ba668.com
 a3f4ac548d.114f3eaf8b.com
 a536a9d481.04fce94137.com
 a6270385bc.560fe03925.com
-a80b9802f4.1aed915a81.com
 a9c3a4315a.59e15e749d.com
-aac03b1778.6374870abd.com
 ab6de09242.441a8a5527.com
 ac8b9eaf81.db2f8e1acc.com
 acb5145d0c.8874d81f48.com
@@ -253,8 +244,6 @@ d8317a4051.643e108d3f.com
 d8761c8727.28b5c12f7e.com
 d93a7f2b7e.9c03f2208e.com
 da7a33716c.92be9e6be2.com
-dab23ae107.466b3b8e1d.com
-db47f9c2ff.904b686f95.com
 dc2f9c5622.55f9d6e755.com
 df3e591f6c.5d8f7f3a02.com
 df53ff2b97.bcb3da3ac8.com
@@ -274,6 +263,7 @@ eae4d894cf.d30581a94b.com
 eb37b1d1a5.98a54df250.com
 eb3d849a7c.e4dbf49f32.com
 ee68acd3fc.87a8aa9251.com
+eea687acd7.3f6e286046.com
 f1763f2f87.f4f8fb91df.com
 f1ab40b1ac.91a3c37128.com
 f1c61224ea.edbc0469bd.com
@@ -282,6 +272,7 @@ f33772ce13.749cad1027.com
 f43060abfc.1527bf2da3.com
 f43bb3465e.10eafd09d6.com
 f4c85c5128.111d140e96.com
+f9630bc2e3.6afd255116.com
 f9aa8dba65.2e14072eac.com
 fa5248bea9.d7d38597d6.com
 fad362ad5f.2d70ed4cc1.com
@@ -294,23 +285,8 @@ ffe405491d.28b67b8230.com
 #
 # postrelease.com disguised trackers
 #
-a135.wpxi.com
-a135.wsoctv.com
-a235.lmtonline.com
-a235.newstimes.com
-a235.seattlepi.com
-a235.stamfordadvocate.com
-a235.thetelegraph.com
-ajc.share.ntv.io
-al.share.ntv.io
-cricketwireless.share.ntv.io
-fortune.share.ntv.io
-gva.share.ntv.io
-ksn.share.ntv.io
-mlive.share.ntv.io
-mortgagesolutions.share.ntv.io
-northbaybusinessjournal.share.ntv.io
-pcworld.share.ntv.io
+ballisticmag.share.ntv.io
+bicycling.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
 #
@@ -318,19 +294,26 @@ shared.sponsoredcontent.com
 #
 a135.fox23.com
 a135.wftv.com
+a135.wpxi.com
 a135.wsbtv.com
+a135.wsoctv.com
 a614.al.com
 a614.masslive.com
 a614.nj.com
 a614.pennlive.com
 ajc.share.ntv.io
+al.share.ntv.io
 cricketwireless.share.ntv.io
 csoonline.share.ntv.io
 entrepreneur.share.ntv.io
 fortune.share.ntv.io
+gva.share.ntv.io
+ksn.share.ntv.io
 mlive.share.ntv.io
+mortgagesolutions.share.ntv.io
 nj.finegardening.com
 northbaybusinessjournal.share.ntv.io
+pcworld.share.ntv.io
 pressdemocrat.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
@@ -355,6 +338,7 @@ a235.seattlepi.com
 a235.sfgate.com
 a235.stamfordadvocate.com
 a235.thehour.com
+a235.thetelegraph.com
 a235.timesunion.com
 #
 # partners-time-com-prod.edgeserving.com disguised trackers

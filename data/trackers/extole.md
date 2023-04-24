@@ -10,7 +10,6 @@
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
-    * aol.extole.com
     * app.extole.com
     * backcountry.extole.com
     * barenecessities.extole.com
@@ -134,6 +133,7 @@
     * anatomie.extole.io
     * aon.extole.io
     * aplaceformom.extole.io
+    * applemontessorischools.extole.io
     * artcom.extole.io
     * ashleyfurniturehomestore.extole.io
     * ashleyhomestore.extole.io
@@ -291,7 +291,6 @@
     * indeed.extole.io
     * inspire-clean-energy.extole.io
     * installamerica.extole.io
-    * ipage.extole.io
     * issaonline.extole.io
     * it-cosmetics.extole.io
     * itbed.extole.io
@@ -314,6 +313,7 @@
     * lane-bryant.extole.io
     * lark-health.extole.io
     * lasenza.extole.io
+    * last-stitch.extole.io
     * laura-mercier.extole.io
     * layla-sleep.extole.io
     * lending-club.extole.io
@@ -337,6 +337,7 @@
     * mondetta.extole.io
     * mtntough.extole.io
     * mycarpe.extole.io
+    * myheritage.extole.io
     * myollie.extole.io
     * nars-cosmetics.extole.io
     * new-balance-ca.extole.io
@@ -434,7 +435,6 @@
     * taxact.extole.io
     * teachersfcu.extole.io
     * teladoc.extole.io
-    * terijon.extole.io
     * the-childrens-place.extole.io
     * the-company-store.extole.io
     * the-inside.extole.io
@@ -445,6 +445,7 @@
     * thewalkingcompany.extole.io
     * thewildest.extole.io
     * tillys.extole.io
+    * todoist.extole.io
     * tommy.extole.io
     * tomorrowsleep.extole.io
     * tous-jewelry.extole.io
@@ -468,6 +469,7 @@
     * viktor-rolf.extole.io
     * vincecamuto.extole.io
     * visions.extole.io
+    * vitaminpacks.extole.io
     * vonagebusiness.extole.io
     * wagwalking.extole.io
     * walmartmoneycard.extole.io
@@ -526,11 +528,11 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
-| refer.aol.com | aol.extole.com |
 | refer.hpso.com | aon.extole.io |
 | refer.nso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
 | refer.app.com | app.extole.com |
+| share.applemontessorischools.com | applemontessorischools.extole.io |
 | refer.art.com | artcom.extole.io |
 | refer.ashleyfurniture.com | ashleyfurniturehomestore.extole.io |
 | refer.ashleyfurniturehomestore.com | ashleyfurniturehomestore.extole.io |
@@ -705,6 +707,7 @@
 | share.mansfieldnewsjournal.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
 | share.patriotledger.com | gannett.extole.io |
+| share.pnj.com | gannett.extole.io |
 | share.poughkeepsiejournal.com | gannett.extole.io |
 | share.redding.com | gannett.extole.io |
 | share.reporternews.com | gannett.extole.io |
@@ -771,7 +774,6 @@
 | refer.integrativenutrition.com | integrativenutrition-ssl.extole.com |
 | refer.accountants.intuit.com | intuit-accountants.extole.com |
 | refer.payroll.intuit.com | iop.extole.com |
-| share.ipage.com | ipage.extole.io |
 | refer.issaonline.com | issaonline.extole.io |
 | refer.itcosmetics.com | it-cosmetics.extole.io |
 | refer.itbed.com | itbed.extole.io |
@@ -804,6 +806,7 @@
 | share.lark.com | lark-health.extole.io |
 | refer.lasenza.ca | lasenza.extole.io |
 | refer.lasenza.com | lasenza.extole.io |
+| refer.last-stitch.com | last-stitch.extole.io |
 | refer.lauramercier.com | laura-mercier.extole.io |
 | refer.laylasleep.com | layla-sleep.extole.io |
 | refer.leadmd.com | leadmd.extole.com |
@@ -835,6 +838,7 @@
 | refer.moo.com | moo.extole.com |
 | share.mtntough.com | mtntough.extole.io |
 | share.mycarpe.com | mycarpe.extole.io |
+| refer.myheritagedna.com | myheritage.extole.io |
 | share.myollie.com | myollie.extole.io |
 | refer.myplant.com | myplant.extole.com |
 | refer.narscosmetics.com | nars-cosmetics.extole.io |
@@ -981,7 +985,6 @@
 | refer.teladochealth.com | teladoc.extole.io |
 | share.tenmarks.com | tenmarks.extole.com |
 | refer.tennessean.com | tennessean.extole.com |
-| refer.terijon.com | terijon.extole.io |
 | refer.childrensplace.com | the-childrens-place.extole.io |
 | refer.gymboree.com | the-childrens-place.extole.io |
 | refer.sugarandjade.com | the-childrens-place.extole.io |
@@ -998,6 +1001,7 @@
 | refer.thewildest.com | thewildest.extole.io |
 | share.tillys.com | tillys.extole.io |
 | refer.timberland.com | timberland.extole.com |
+| refer.sharetodoist.com | todoist.extole.io |
 | share.tommy.com | tommy.extole.io |
 | refer.tomorrowsleep.com | tomorrowsleep.extole.io |
 | invite.toughmudder.com | toughmudder.extole.com |
@@ -1034,6 +1038,7 @@
 | refer.vincecamuto.com | vincecamuto.extole.io |
 | referrals.visionsfcu.org | visions.extole.io |
 | referral.vistaprint.com | vistaprint-ssl.extole.com |
+| refer.vitaminpacks.com | vitaminpacks.extole.io |
 | refer.volcom.com | volcom.extole.com |
 | refer.vonage.com | vonage.extole.com |
 | share.vonage.com | vonagebusiness.extole.io |

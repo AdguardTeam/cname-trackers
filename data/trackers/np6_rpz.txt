@@ -7,6 +7,7 @@ emailing.casden.banquepopulaire.fr CNAME .
 epm.mailperformance.com CNAME .
 mailtracking.tf1.com CNAME .
 mp.pitchero.com CNAME .
+news.mailperformance.com CNAME .
 newsletter.ticketac.com CNAME .
 shortener.np6.com CNAME .
 sms.gestion.cetelem.fr CNAME .
@@ -58,6 +59,7 @@ tr.asp10c8.espmp-agfr.net CNAME .
 tr.asp10cg.espmp-nifr.net CNAME .
 tr.asp10ch.espmp-nifr.net CNAME .
 tr.asp10cr.espmp-nifr.net CNAME .
+tr.asp10dx.espmp-nifr.net CNAME .
 tr.asp10fa.espmp-cufr.net CNAME .
 tr.asp10ge.espmp-nifr.net CNAME .
 tr.asp10h2.espmp-nifr.net CNAME .
@@ -486,6 +488,7 @@ tr.mailing.promodeclic.fr CNAME .
 tr.mailingnp6.lavoirmoderne.com CNAME .
 tr.mailmp.macif.net CNAME .
 tr.mailperf.institut-de-la-protection-sociale.fr CNAME .
+tr.mailperf.ngt-services.com CNAME .
 tr.mailperformance.com CNAME .
 tr.mailperformance.fr CNAME .
 tr.maisonsdumonde.com CNAME .
@@ -642,6 +645,7 @@ tr.news.moethennessy.com CNAME .
 tr.news.mon-horoscope.info CNAME .
 tr.news.monvoyant.fr CNAME .
 tr.news.mperformance.fr CNAME .
+tr.news.mydesign.com CNAME .
 tr.news.normandie.cci.fr CNAME .
 tr.news.ocs.fr CNAME .
 tr.news.onetoonemba.com CNAME .
@@ -769,6 +773,7 @@ tr.partners.younited-credit.it CNAME .
 tr.pixe.espmp-cufr.net CNAME .
 tr.pm.pelhammedia.com CNAME .
 tr.pole-emploi-services.com CNAME .
+tr.pole-emploi.info CNAME .
 tr.policyexpert.info CNAME .
 tr.politicolive.eu CNAME .
 tr.politicomarketing.eu CNAME .
@@ -860,6 +865,7 @@ tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .
 tr.tonerservices.fr CNAME .
 tr.tourisme.visit-lanarbonnaise.com CNAME .
+tr.tpe.harmonie-mutuelle.fr CNAME .
 tr.trafficnews.lyria.com CNAME .
 tr.ujsv.espmp-agfr.net CNAME .
 tr.uk.icicibank.com CNAME .

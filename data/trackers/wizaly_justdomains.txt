@@ -68,6 +68,10 @@ tk.domitys.fr
 tk.dossier.co
 tk.engie.fr
 tk.etam.com
+tk.evaneos.de
+tk.evaneos.es
+tk.evaneos.fr
+tk.evaneos.it
 tk.healthwarehouse.com
 tk.hypnia.co.uk
 tk.hypnia.es

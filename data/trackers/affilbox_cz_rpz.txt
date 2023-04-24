@@ -198,6 +198,7 @@ affiliate.nomind.cz CNAME .
 affiliate.notifikuj.cz CNAME .
 affiliate.novakabelka.cz CNAME .
 affiliate.offroadsafari.cz CNAME .
+affiliate.onlinepsiskola.cz CNAME .
 affiliate.organikk.cz CNAME .
 affiliate.pasti.cz CNAME .
 affiliate.pestujzivotwebinar.cz CNAME .
@@ -435,6 +436,7 @@ partner.dripit.cz CNAME .
 partner.dynamikabohatstvi.cz CNAME .
 partner.eandilek.cz CNAME .
 partner.econea.cz CNAME .
+partner.edutu.cz CNAME .
 partner.epravo.cz CNAME .
 partner.eshop-gyorsan.hu CNAME .
 partner.eshop-rodas.cz CNAME .
@@ -462,6 +464,7 @@ partner.imrnous.cz CNAME .
 partner.investinslovakia.eu CNAME .
 partner.iodesign.cz CNAME .
 partner.iodicanatural.cz CNAME .
+partner.ioznameni.cz CNAME .
 partner.isic.cz CNAME .
 partner.italier.cz CNAME .
 partner.ivadekor.cz CNAME .
@@ -506,6 +509,7 @@ partner.milujifoceni.cz CNAME .
 partner.mojetonery.sk CNAME .
 partner.mooda.cz CNAME .
 partner.mooselife.cz CNAME .
+partner.moringacaribbean.eu CNAME .
 partner.motoobchod.cz CNAME .
 partner.muffik.cz CNAME .
 partner.mumijo.cz CNAME .
@@ -549,7 +553,6 @@ partner.santao.cz CNAME .
 partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
 partner.sculpturepainting.eu CNAME .
-partner.shopeek.cz CNAME .
 partner.simplymix.com CNAME .
 partner.skinnygirls.cz CNAME .
 partner.skolske-tasky.sk CNAME .
@@ -694,7 +697,6 @@ partneri.rondainvest.cz CNAME .
 partneri.salente.cz CNAME .
 partneri.samuelhornek.cz CNAME .
 partneri.serafinbyliny.cz CNAME .
-partneri.setrice.eu CNAME .
 partneri.silaprozivot.com CNAME .
 partneri.smartemailing.cz CNAME .
 partneri.smyslovy-pruzkumnik.cz CNAME .
@@ -760,6 +762,7 @@ spoluprace.h2world.store CNAME .
 spoluprace.interbohemia.cz CNAME .
 spoluprace.janitaurbanova.cz CNAME .
 spoluprace.majka-shop.cz CNAME .
+spoluprace.mentorkalucie.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .
 spoluprace.pohybovka.cz CNAME .
 spoluprace.potravinyarax.cz CNAME .

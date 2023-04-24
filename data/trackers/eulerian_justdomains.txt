@@ -18,6 +18,7 @@
 7mx.eidershop.com
 8ezc.sfr.fr
 a.audi.fr
+a.audifrance.fr
 a.oney.es
 a.perfumesclub.co.uk
 a.perfumesclub.com
@@ -45,6 +46,7 @@ aod4.societegenerale.fr
 ar.allrun.fr
 ar.i-run.fr
 azg1.emalu-store.com
+b1n.carabins.umontreal.ca
 bch8.destinia.co
 bdj5.terrassesmontecarlosbm.com
 bft5.destinia.fr
@@ -137,7 +139,6 @@ ea.millet-mountain.com
 ea.millet-mountain.de
 ea.millet.fr
 ea.mistergatesdirect.com
-ea.mnt.fr
 ea.moncornerdeco.com
 ea.mondial-assistance.fr
 ea.mydailyhotel.com
@@ -153,6 +154,7 @@ ea.online.carrefour.fr
 ea.peugeot-assurance.fr
 ea.placedestendances.com
 ea.poeleaboismaison.com
+ea.promovacances.com
 ea.quiksilver.eu
 ea.radiateurplus.com
 ea.rentacar.fr
@@ -185,7 +187,6 @@ eit3.destinia.nl
 ek8.voyage-prive.com
 elc1.energies.leclerc
 elr.sfr.fr
-erb.tremblant.ca
 ert5.rmcsport.tv
 et.sncf.com
 et.swatch.com
@@ -281,10 +282,12 @@ let1.devialet.com
 lio8.destinia.com.pa
 ljb0.assuronline.com
 lp.to-lipton.com
+lrp7.carrefour-banque.fr
 lsv5.belambra.fr
 ltm6.destinia.se
 ly8c.caci-online.fr
 lzuc.sfr.fr
+m10.m1029.com
 m3ds.subarumetropolitain.com
 mfd.myfirstdressing.com
 mgt7.madeindesign.it

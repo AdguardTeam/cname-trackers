@@ -100,7 +100,6 @@
     * 524656123914087.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
-    * 554833903189763.wt-eu02.net
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
     * 590838755166551.wt-eu02.net
@@ -303,7 +302,6 @@
 | census.misterspex.no | 524656123914087.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
-| web.s.sasrx.com | 554833903189763.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
@@ -402,6 +400,7 @@
 | di.ifolor.at | di.ifolor.wt-eu02.net |
 | di.ifolor.be | di.ifolor.wt-eu02.net |
 | di.ifolor.ch | di.ifolor.wt-eu02.net |
+| di.ifolor.com | di.ifolor.wt-eu02.net |
 | di.ifolor.de | di.ifolor.wt-eu02.net |
 | di.ifolor.dk | di.ifolor.wt-eu02.net |
 | di.ifolor.fi | di.ifolor.wt-eu02.net |

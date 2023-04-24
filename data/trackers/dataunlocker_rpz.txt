@@ -44,6 +44,7 @@
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 ac9kpxbans1l.staging.unstoppabledomains.com CNAME .
 am3s622gcd6m.tt.live CNAME .
+amdiosrjrzp3.kvest.ee CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
 b1tow9h4erpw.anur.polymerdev.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
@@ -82,7 +83,6 @@ mh9qqwotr890.koelewijn.nl CNAME .
 mteme7li1d6r.vertexmarketingagency.com CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
-ocjeg2ca9uh9.mailfloss.com CNAME .
 otx23nu6rzon.prep.toppers.com CNAME .
 ouc82i67pytg.www.emanualonline.com CNAME .
 p13vtlg7n362.clariti.app CNAME .

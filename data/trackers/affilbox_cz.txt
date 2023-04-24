@@ -198,6 +198,7 @@
 ||affiliate.notifikuj.cz^
 ||affiliate.novakabelka.cz^
 ||affiliate.offroadsafari.cz^
+||affiliate.onlinepsiskola.cz^
 ||affiliate.organikk.cz^
 ||affiliate.pasti.cz^
 ||affiliate.pestujzivotwebinar.cz^
@@ -435,6 +436,7 @@
 ||partner.dynamikabohatstvi.cz^
 ||partner.eandilek.cz^
 ||partner.econea.cz^
+||partner.edutu.cz^
 ||partner.epravo.cz^
 ||partner.eshop-gyorsan.hu^
 ||partner.eshop-rodas.cz^
@@ -462,6 +464,7 @@
 ||partner.investinslovakia.eu^
 ||partner.iodesign.cz^
 ||partner.iodicanatural.cz^
+||partner.ioznameni.cz^
 ||partner.isic.cz^
 ||partner.italier.cz^
 ||partner.ivadekor.cz^
@@ -506,6 +509,7 @@
 ||partner.mojetonery.sk^
 ||partner.mooda.cz^
 ||partner.mooselife.cz^
+||partner.moringacaribbean.eu^
 ||partner.motoobchod.cz^
 ||partner.muffik.cz^
 ||partner.mumijo.cz^
@@ -549,7 +553,6 @@
 ||partner.scilearn.cz^
 ||partner.scootshop.cz^
 ||partner.sculpturepainting.eu^
-||partner.shopeek.cz^
 ||partner.simplymix.com^
 ||partner.skinnygirls.cz^
 ||partner.skolske-tasky.sk^
@@ -694,7 +697,6 @@
 ||partneri.salente.cz^
 ||partneri.samuelhornek.cz^
 ||partneri.serafinbyliny.cz^
-||partneri.setrice.eu^
 ||partneri.silaprozivot.com^
 ||partneri.smartemailing.cz^
 ||partneri.smyslovy-pruzkumnik.cz^
@@ -760,6 +762,7 @@
 ||spoluprace.interbohemia.cz^
 ||spoluprace.janitaurbanova.cz^
 ||spoluprace.majka-shop.cz^
+||spoluprace.mentorkalucie.cz^
 ||spoluprace.obchod-setrilek.cz^
 ||spoluprace.pohybovka.cz^
 ||spoluprace.potravinyarax.cz^
