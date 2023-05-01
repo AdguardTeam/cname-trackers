@@ -83,7 +83,6 @@ api.fuck.education CNAME .
 api.ryanyao.design CNAME .
 apis.4bn.xyz CNAME .
 app-stats.supernotes.app CNAME .
-ares.buyersclub.se CNAME .
 artistchristinacarmel.ericksonbuilt.com CNAME .
 assets.garron.blog CNAME .
 assets.garron.me CNAME .
@@ -246,7 +245,6 @@ plausible.corbettbarr.com CNAME .
 plausible.dailytics.com CNAME .
 plausible.deploymentfromscratch.com CNAME .
 plausible.dev.logicboard.com CNAME .
-plausible.dev.sketch.com CNAME .
 plausible.doberman.co CNAME .
 plausible.doctave.com CNAME .
 plausible.edu-focus.org CNAME .
@@ -284,6 +282,7 @@ plausible.nova.app CNAME .
 plausible.nubemia.com CNAME .
 plausible.nuqu.org CNAME .
 plausible.panic.com CNAME .
+plausible.phuctm97.com CNAME .
 plausible.play.date CNAME .
 plausible.prod.sketch.com CNAME .
 plausible.promlens.com CNAME .
@@ -300,14 +299,13 @@ plausible.riok.ch CNAME .
 plausible.sbw.org CNAME .
 plausible.shadygrovepca.org CNAME .
 plausible.simplelogin.io CNAME .
-plausible.staging.sketch.com CNAME .
 plausible.starlegacyfoundation.org CNAME .
 plausible.strzibny.name CNAME .
 plausible.sysloun.cz CNAME .
 plausible.tac.dappstar.io CNAME .
 plausible.tasteslikeme.ca CNAME .
-plausible.test.sketch.com CNAME .
 plausible.treelightsoftware.com CNAME .
+plausible.umbrellaanalytics.net CNAME .
 plausible.uptime.dk CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.vaughanesports.org CNAME .
@@ -368,7 +366,6 @@ see.wasteorshare.com CNAME .
 server.japanbyrivercruise.com CNAME .
 server.olliehorn.com CNAME .
 sherlock.nicolabigwood.uk CNAME .
-simple.bootify.io CNAME .
 site-stats.supernotes.app CNAME .
 sp.gameomatic.fr CNAME .
 sp.jrklein.com CNAME .
@@ -385,6 +382,7 @@ starman.floorcleanse.co.uk CNAME .
 stat.bill.harding.blog CNAME .
 stat.landingpro.pl CNAME .
 stat.umsu.de CNAME .
+static.osalta.eu CNAME .
 statistic.jac-systeme.de CNAME .
 statistics.heatbeat.de CNAME .
 statistik.apartments-tirolerhaus.at CNAME .
@@ -590,7 +588,6 @@ stats.fcalan.org CNAME .
 stats.feathercss.makerkits.co CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
-stats.feuilledetemps.ca CNAME .
 stats.filburg.co CNAME .
 stats.filewatch.net CNAME .
 stats.flightsphere.com CNAME .
@@ -655,7 +652,6 @@ stats.ibuildings.net CNAME .
 stats.iefg.org CNAME .
 stats.ifiwasgame.com CNAME .
 stats.igassmann.me CNAME .
-stats.igevia.com CNAME .
 stats.igor4stir.com CNAME .
 stats.in-tuition.net CNAME .
 stats.increasinglyfunctional.com CNAME .
@@ -742,7 +738,6 @@ stats.ltdhunt.com CNAME .
 stats.luieremmer.net CNAME .
 stats.lussoveloce.com CNAME .
 stats.macosicons.com CNAME .
-stats.macroarraydx.com CNAME .
 stats.madeit.io CNAME .
 stats.madethis.gallery CNAME .
 stats.maferland.com CNAME .
@@ -758,7 +753,9 @@ stats.mesenvies.fr CNAME .
 stats.migrantworker.ca CNAME .
 stats.mmazzarolo.com CNAME .
 stats.motion-effect.com CNAME .
+stats.motorcyclepartsireland.ie CNAME .
 stats.muchbetteradventures.com CNAME .
+stats.multiply.cloud CNAME .
 stats.nddmed.com CNAME .
 stats.nexagon.dk CNAME .
 stats.nicolabricot.com CNAME .
@@ -882,6 +879,7 @@ stats.stackingthebricks.com CNAME .
 stats.stacks.org CNAME .
 stats.staging.hex.pm CNAME .
 stats.studypages.com CNAME .
+stats.sublimesecurity.com CNAME .
 stats.suenicholls.com CNAME .
 stats.suniboy.com CNAME .
 stats.sushibyte.io CNAME .
@@ -938,6 +936,7 @@ track.slickinbox.com CNAME .
 traffic.hostedstatus.page CNAME .
 traffic.taktikal.is CNAME .
 triton.companyegg.com CNAME .
+views.sikerproducts.com CNAME .
 visitorcenter.srwild.com CNAME .
 visitors.gigianddavid.com CNAME .
 vole.amplenote.com CNAME .

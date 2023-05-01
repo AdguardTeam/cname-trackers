@@ -284,10 +284,6 @@ dgs.tns-gallup.dk CNAME .
 ;
 dmi.tns-gallup.dk CNAME .
 ;
-; dplayiosstream.tns-dk.2cnt.net disguised trackers
-;
-dplayiosstream.tns-gallup.dk CNAME .
-;
 ; slb-tns-dk-pool04.tns-dk.2cnt.net disguised trackers
 ;
 dplayiosstream.tns-gallup.dk CNAME .
@@ -741,10 +737,6 @@ ssl-borseniam.tns-gallup.dk CNAME .
 ssl-boxerstream.tns-gallup.dk CNAME .
 ssl-stofastream.tns-gallup.dk CNAME .
 ;
-; ssl-brigitte.vgwort-de.2cnt.net disguised trackers
-;
-ssl-brigitte.met.vgwort.de CNAME .
-;
 ; ssl-bt-eavis.tns-dk.2cnt.net disguised trackers
 ;
 ssl-bt-eavis.tns-gallup.dk CNAME .
@@ -760,10 +752,6 @@ ssl-bureaubiz.tns-gallup.dk CNAME .
 ; ssl-business.tns-dk.2cnt.net disguised trackers
 ;
 ssl-business.tns-gallup.dk CNAME .
-;
-; ssl-chip.vgwort-de.2cnt.net disguised trackers
-;
-ssl-chip.met.vgwort.de CNAME .
 ;
 ; ssl-computerworld.tns-dk.2cnt.net disguised trackers
 ;

@@ -6,7 +6,6 @@
     * ka8ing2z.ab1n.net
     * tk6if76q.ab1n.net
     * tk6if76r.ab1n.net
-    * v3j9t5q9.ab1n.net
     * w2u4v9e1.ab1n.net
     * x0xmrxm4.ab1n.net
 
@@ -31,6 +30,7 @@
 | a.slice.exchange | cds.d6n9n7e2.hwcdn.net |
 | a.stuffserve.com | cds.d6n9n7e2.hwcdn.net |
 | delivery.gettopple.com | cds.d6n9n7e2.hwcdn.net |
+| admin.ad.guru | cds.v3j9t5q9.hwcdn.net |
 | admin.adnation.com | cds.v3j9t5q9.hwcdn.net |
 | admin.adstuff.io | cds.v3j9t5q9.hwcdn.net |
 | admin.etology.com | cds.v3j9t5q9.hwcdn.net |
@@ -540,6 +540,7 @@
 | 3572293.notifysrv.com | tk6if76q.ab1n.net |
 | 3572904.notifysrv.com | tk6if76q.ab1n.net |
 | 3576907.notifysrv.com | tk6if76q.ab1n.net |
+| 3578239.notify6.com | tk6if76q.ab1n.net |
 | 3578253.notifysrv.com | tk6if76q.ab1n.net |
 | 3580293.notifysrv.com | tk6if76q.ab1n.net |
 | 3580393.notify6.com | tk6if76q.ab1n.net |
@@ -750,6 +751,7 @@
 | 4270618.notify6.com | tk6if76q.ab1n.net |
 | 4274618.notify6.com | tk6if76q.ab1n.net |
 | 4290976.notify6.com | tk6if76q.ab1n.net |
+| 4292982.notify6.com | tk6if76q.ab1n.net |
 | 4298194.notify6.com | tk6if76q.ab1n.net |
 | 4300970.notify6.com | tk6if76q.ab1n.net |
 | 4305094.notify6.com | tk6if76q.ab1n.net |
@@ -792,6 +794,7 @@
 | 4795268.notify6.com | tk6if76q.ab1n.net |
 | 4795272.notify6.com | tk6if76q.ab1n.net |
 | 4795280.notify6.com | tk6if76q.ab1n.net |
+| 4795320.notify6.com | tk6if76q.ab1n.net |
 | 4795534.notify6.com | tk6if76q.ab1n.net |
 | 4798638.notify6.com | tk6if76q.ab1n.net |
 | 4799078.notify6.com | tk6if76q.ab1n.net |
@@ -817,6 +820,7 @@
 | 4897578.notify6.com | tk6if76q.ab1n.net |
 | 4902880.notify6.com | tk6if76q.ab1n.net |
 | 4917212.notify6.com | tk6if76q.ab1n.net |
+| 4960922.notify6.com | tk6if76q.ab1n.net |
 | 535.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 5602.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 583.notify.optimizesrv.com | tk6if76q.ab1n.net |
@@ -856,8 +860,10 @@
 | s.elink2b.com | tk6if76q.ab1n.net |
 | s.elink2c.com | tk6if76q.ab1n.net |
 | s.elink3x.com | tk6if76q.ab1n.net |
+| s.elna1v.com | tk6if76q.ab1n.net |
 | s.elna1w.com | tk6if76q.ab1n.net |
 | s.elnk4b.com | tk6if76q.ab1n.net |
+| s.elnk90.com | tk6if76q.ab1n.net |
 | s.elnk92.com | tk6if76q.ab1n.net |
 | s.elnk93.com | tk6if76q.ab1n.net |
 | s.elnkp4.com | tk6if76q.ab1n.net |
@@ -917,10 +923,9 @@
 | syndication.whibd.com | tk6if76q.ab1n.net |
 | syndication.whibp.com | tk6if76q.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
-| admin.ad.guru | v3j9t5q9.ab1n.net |
-| admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | a.a3ion.com | w2u4v9e1.ab1n.net |
 | a.ad.guru | w2u4v9e1.ab1n.net |
+| a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
 | a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |
 | a.stuffserve.com | w2u4v9e1.ab1n.net |

@@ -10,7 +10,6 @@
 | ---- | ---- |
 | a2.hotpornfile.org | api.clickaine.com |
 | a3.hotpornfile.org | api.clickaine.com |
-| ad.arabxl.com | api.clickaine.com |
 | ad1.xero.porn | api.clickaine.com |
 | api.kekw.website | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
@@ -67,9 +66,11 @@
 | clknrtrg.pro | api.clickaine.com |
 | cln.willyporn.com | api.clickaine.com |
 | cn4.animehdl.net | api.clickaine.com |
+| cvk.supklik.com | api.clickaine.com |
 | ddd.contoseroticoscnn.com | api.clickaine.com |
 | ddd.sexstories69.com | api.clickaine.com |
 | dnsbl.test.ww1.willalland.info | api.clickaine.com |
+| dr1.piczlabs.com | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flare.vtube.to | api.clickaine.com |

@@ -506,6 +506,7 @@
 3572293.notifysrv.com CNAME .
 3572904.notifysrv.com CNAME .
 3576907.notifysrv.com CNAME .
+3578239.notify6.com CNAME .
 3578253.notifysrv.com CNAME .
 3580293.notifysrv.com CNAME .
 3580393.notify6.com CNAME .
@@ -716,6 +717,7 @@
 4270618.notify6.com CNAME .
 4274618.notify6.com CNAME .
 4290976.notify6.com CNAME .
+4292982.notify6.com CNAME .
 4298194.notify6.com CNAME .
 4300970.notify6.com CNAME .
 4305094.notify6.com CNAME .
@@ -758,6 +760,7 @@
 4795268.notify6.com CNAME .
 4795272.notify6.com CNAME .
 4795280.notify6.com CNAME .
+4795320.notify6.com CNAME .
 4795534.notify6.com CNAME .
 4798638.notify6.com CNAME .
 4799078.notify6.com CNAME .
@@ -783,6 +786,7 @@
 4897578.notify6.com CNAME .
 4902880.notify6.com CNAME .
 4917212.notify6.com CNAME .
+4960922.notify6.com CNAME .
 535.notify.optimizesrv.com CNAME .
 5602.notify.optimizesrv.com CNAME .
 583.notify.optimizesrv.com CNAME .
@@ -802,11 +806,10 @@ _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.a3ion.com CNAME .
 a.ad.guru CNAME .
+a.addisplaynetwork.com CNAME .
 a.paradoxgroup.uk CNAME .
 a.redpathmedia.com CNAME .
 a.stuffserve.com CNAME .
-admin.ad.guru CNAME .
-admin.shafttraffic.com CNAME .
 api.adnation.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
@@ -832,8 +835,10 @@ s.eaalink.com CNAME .
 s.elink2b.com CNAME .
 s.elink2c.com CNAME .
 s.elink3x.com CNAME .
+s.elna1v.com CNAME .
 s.elna1w.com CNAME .
 s.elnk4b.com CNAME .
+s.elnk90.com CNAME .
 s.elnk92.com CNAME .
 s.elnk93.com CNAME .
 s.elnkp4.com CNAME .
@@ -911,6 +916,7 @@ delivery.gettopple.com CNAME .
 ;
 ; cds.v3j9t5q9.hwcdn.net disguised trackers
 ;
+admin.ad.guru CNAME .
 admin.adnation.com CNAME .
 admin.adstuff.io CNAME .
 admin.etology.com CNAME .

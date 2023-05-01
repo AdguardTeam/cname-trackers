@@ -20,6 +20,7 @@
 ||refer.american-giant.com^
 ||refer.americanexpress.com^
 ||refer.ancestry.com^
+||refer.aol.com^
 ||refer.app.com^
 ||refer.backcountry.com^
 ||refer.barenecessities.com^
@@ -121,7 +122,6 @@
 ||amp.bfr.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em8561.go2bank.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -147,6 +147,7 @@
 ||refer.acornonline.com^
 ||refer.akcpetinsurance.com^
 ||refer.algaecal.com^
+||refer.americanmusical.com^
 ||refer.amerisleep.com^
 ||refer.art.com^
 ||refer.ashleyfurniture.com^
@@ -470,6 +471,7 @@
 ||share.levi.com^
 ||share.lifedna.com^
 ||share.livongo.com^
+||share.lovesac.com^
 ||share.maccosmetics.com.au^
 ||share.mamabearlegalforms.com^
 ||share.manscaped.com^

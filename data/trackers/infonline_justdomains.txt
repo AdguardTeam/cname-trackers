@@ -11,6 +11,7 @@ ackrly.chip.de
 acksrc.chip.de
 acsam-relay.agof.de
 c4b720ded1.apps.iocnt.de
+data-00460c60fa.eurotransport.de
 data-007f9d19c8.sbz-monteur.de
 data-00c4a5bd11.rockland.fm
 data-0142dcfbcf.yacht.de
@@ -144,6 +145,7 @@ data-16d7ec9a30.wn-jobs.de
 data-16d7ec9a30.wn.de
 data-16d7ec9a30.zeitungsgruppe-muenster.de
 data-16d7ec9a30.zgm-auto.de
+data-1774ab3b64.connected-events.de
 data-1774ab3b64.fvw.de
 data-1774ab3b64.fvwjobs.de
 data-179369af40.connect-professional.de
@@ -271,7 +273,6 @@ data-232059cb53.vip.de
 data-2340ac25bb.apps.iocnt.de
 data-236c420b67.glamour.de
 data-23c20dac87.tophotel.de
-data-24d3602ae0.freenet.de
 data-24d7667a6a.apps.iocnt.de
 data-24fe804269.datacenter-insider.de
 data-2527e6d775.sportdeutschland.tv
@@ -538,6 +539,7 @@ data-47ee1b0882.kultiplex.de
 data-47ee1b0882.lichtburg-langen.de
 data-47ee1b0882.lichtspiele-grosshabersdorf.de
 data-47ee1b0882.liliservicekino.de
+data-47ee1b0882.lindenkino-wusterhausen.de
 data-47ee1b0882.movie-kino.de
 data-47ee1b0882.movieplexx.de
 data-47ee1b0882.movietown-eichsfeld.de
@@ -758,6 +760,7 @@ data-639ebd97e3.transport-online.de
 data-63bbe3ec45.wuv.de
 data-6416365902.sbz-online.de
 data-6463194ae5.fitbook.de
+data-64f191ee43.eurotransport.de
 data-650d8068ef.ka-news.de
 data-6590696975.wunderweib.de
 data-65a220e458.diekaelte.de
@@ -1327,6 +1330,8 @@ data-bc58d40c93.nwzonline.de
 data-bc9dbdd971.handwerk-magazin.de
 data-bcaa25791f.apps.iocnt.de
 data-bd417eda50.bibliothek-gruenwald.de
+data-bdeff1b2b2.firmenauto.de
+data-be032ee936.christkindlesmarkt.de
 data-be032ee936.nn.de
 data-be032ee936.nordbayern.de
 data-be34c4ee2c.apps.iocnt.de
@@ -1444,6 +1449,7 @@ data-ce54b2d2bd.apps.iocnt.de
 data-ce904c6d42.metallbau-magazin.de
 data-ce964ae059.guter-rat.de
 data-cedbf1e823.apps.iocnt.de
+data-cf521b4223.op-marburg.de
 data-cf56e4da9b.motorradonline.de
 data-cf8fd9b799.heizungsjournal.de
 data-cf8fd9b799.integrale-planung.net
@@ -1462,6 +1468,7 @@ data-d1cf1ee90a.bike-magazin.de
 data-d29d7a3de4.apps.iocnt.de
 data-d2a8aec266.autohaus.de
 data-d31fa5daa8.apps.iocnt.de
+data-d3ad057ab7.firmenauto.de
 data-d3b795e73c.instyle.de
 data-d3b7b07de5.apps.iocnt.de
 data-d47b934372.regionalheute.de
@@ -1602,9 +1609,11 @@ data-ee807be806.ikz-online.de
 data-ee807be806.lokalkompass.de
 data-ee807be806.nrz.de
 data-ee807be806.radiobochum.de
+data-ee807be806.radioduisburg.de
 data-ee807be806.radioemscherlippe.de
 data-ee807be806.radioessen.de
 data-ee807be806.radiooberhausen.de
+data-ee807be806.radiosauerland.de
 data-ee807be806.reviersport.de
 data-ee807be806.waz.de
 data-ee807be806.wp.de
@@ -1659,6 +1668,7 @@ data-f1e447fbcf.hanauer.de
 data-f1e447fbcf.heidelberg24.de
 data-f1e447fbcf.hersfelder-zeitung.de
 data-f1e447fbcf.hna.de
+data-f1e447fbcf.in-muenchen.de
 data-f1e447fbcf.ingame.de
 data-f1e447fbcf.innsalzach24.de
 data-f1e447fbcf.ippen.media
@@ -1761,6 +1771,7 @@ data-f59db3288b.tz.de
 data-f59db3288b.usinger-anzeiger.de
 data-f59db3288b.wa.de
 data-f59db3288b.wasserburg24.de
+data-f59db3288b.webnachrichten.de
 data-f59db3288b.werra-rundschau.de
 data-f59db3288b.wetterauer-zeitung.de
 data-f59db3288b.wlz-online.de

@@ -12,7 +12,6 @@
 
 * jadserve.postrelease.com.akadns.net
 * unavailable.hearstnp.com
-* partners-time-com-prod.edgeserving.com
 * cultivatedknowledge-com-www1.edgeserving.com
 
 ## Cloaking domains
@@ -22,8 +21,8 @@
 | www1.cultivatedknowledge.com | cultivatedknowledge-com-www1.edgeserving.com |
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
-| ballisticmag.share.ntv.io | jadserve.postrelease.com |
-| bicycling.share.ntv.io | jadserve.postrelease.com |
+| a614.mlive.com | jadserve.postrelease.com |
+| mlive.share.ntv.io | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
 | a135.fox23.com | jadserve.postrelease.com.akadns.net |
@@ -37,6 +36,8 @@
 | a614.pennlive.com | jadserve.postrelease.com.akadns.net |
 | ajc.share.ntv.io | jadserve.postrelease.com.akadns.net |
 | al.share.ntv.io | jadserve.postrelease.com.akadns.net |
+| ballisticmag.share.ntv.io | jadserve.postrelease.com.akadns.net |
+| bicycling.share.ntv.io | jadserve.postrelease.com.akadns.net |
 | cricketwireless.share.ntv.io | jadserve.postrelease.com.akadns.net |
 | csoonline.share.ntv.io | jadserve.postrelease.com.akadns.net |
 | entrepreneur.share.ntv.io | jadserve.postrelease.com.akadns.net |
@@ -64,9 +65,9 @@
 | 071cc548ff.78ab4874ae.com | ntvpforever.com |
 | 084cc7e11c.abc35a1d01.com | ntvpforever.com |
 | 088d98f687.7a3b147921.com | ntvpforever.com |
+| 0a6dd928ef.4e16adfea5.com | ntvpforever.com |
 | 0b05878fdd.fddf7d58ea.com | ntvpforever.com |
 | 0b07b901e2.42de2de7b1.com | ntvpforever.com |
-| 0b6ecb7f80.c986493e7d.com | ntvpforever.com |
 | 0c25092667.19028a7caf.com | ntvpforever.com |
 | 0d75eae134.2ae9461951.com | ntvpforever.com |
 | 0d9b072dfd.69c28fb7f4.com | ntvpforever.com |
@@ -104,6 +105,7 @@
 | 310fdbd5d8.a9e8387c9e.com | ntvpforever.com |
 | 32b7b3da4e.a0e54ba172.com | ntvpforever.com |
 | 3309734ae8.329a540736.com | ntvpforever.com |
+| 34ee212f2c.350886f6c8.com | ntvpforever.com |
 | 37a37e5db9.1fb99d15c4.com | ntvpforever.com |
 | 38a29cb310.eea605742d.com | ntvpforever.com |
 | 38d086de2c.318387965a.com | ntvpforever.com |
@@ -154,6 +156,7 @@
 | 67116813c6.89504d460b.com | ntvpforever.com |
 | 6788b5f0a5.07ab456fe8.com | ntvpforever.com |
 | 699e46a3ca.e11c0ad270.com | ntvpforever.com |
+| 69c691ce9c.f3d77f61ec.com | ntvpforever.com |
 | 6ab791d164.d409401d80.com | ntvpforever.com |
 | 6aca58cba6.106cdb2259.com | ntvpforever.com |
 | 6d39ef5c0b.7002fca3a7.com | ntvpforever.com |
@@ -164,7 +167,6 @@
 | 6ef94a502b.64134c91b6.com | ntvpforever.com |
 | 70832e4e42.1c8a98da68.com | ntvpforever.com |
 | 710434b975.6de8cd75aa.com | ntvpforever.com |
-| 735149c0f3.f5d46bef1b.com | ntvpforever.com |
 | 740e3dd5cf.71a3fd0954.com | ntvpforever.com |
 | 749e473277.b6deee8a5f.com | ntvpforever.com |
 | 7734af9d7a.854a08a35e.com | ntvpforever.com |
@@ -182,7 +184,6 @@
 | 7ee6aa4a84.102168588b.com | ntvpforever.com |
 | 7f01e7f94e.1d022ca6a2.com | ntvpforever.com |
 | 7f9e4f7383.b40c7bfff2.com | ntvpforever.com |
-| 7fe465ee76.f21c8cd9a7.com | ntvpforever.com |
 | 80d1a27de4.7776bf141c.com | ntvpforever.com |
 | 812748c48f.02f87a8089.com | ntvpforever.com |
 | 81882ef64b.34ad8df175.com | ntvpforever.com |
@@ -191,6 +192,7 @@
 | 8654683419.6ab77a3dad.com | ntvpforever.com |
 | 865a159ba5.d7739252ca.com | ntvpforever.com |
 | 898dd5a858.a06e054b4c.com | ntvpforever.com |
+| 8a68d01b69.11a8e92218.com | ntvpforever.com |
 | 8a7f64eb48.5a46c72f0e.com | ntvpforever.com |
 | 8aa53eb242.136287d626.com | ntvpforever.com |
 | 8ac8c6d855.17c12b43a7.com | ntvpforever.com |
@@ -198,7 +200,6 @@
 | 8bf1e6c762.bcd7ad4271.com | ntvpforever.com |
 | 8c3f7091b1.ea8816ca93.com | ntvpforever.com |
 | 8dba8f6d76.3ce27e9b41.com | ntvpforever.com |
-| 8dbd9f1b8c.b0b96fffc2.com | ntvpforever.com |
 | 8ef71a6605.5115924dd3.com | ntvpforever.com |
 | 9028b77447.a5acd46254.com | ntvpforever.com |
 | 90f6d578cc.2725849b34.com | ntvpforever.com |
@@ -252,6 +253,7 @@
 | bd2bc05960.47daeb1eac.com | ntvpforever.com |
 | bd2ca6c82d.20e2b2c425.com | ntvpforever.com |
 | bdecfb7de6.e2ff92bcf8.com | ntvpforever.com |
+| be14c45da0.3301886f9e.com | ntvpforever.com |
 | beb86406c2.680566accf.com | ntvpforever.com |
 | bee395bc6e.8413c95209.com | ntvpforever.com |
 | bfe70bbd52.23182b9851.com | ntvpforever.com |
@@ -267,7 +269,6 @@
 | c580712027.ffcc2964d9.com | ntvpforever.com |
 | c6605baadd.2d6a7b9179.com | ntvpforever.com |
 | c6644ac158.2ae70a6814.com | ntvpforever.com |
-| c7b79a8bf6.593cdd41e1.com | ntvpforever.com |
 | c926b14548.d69b881dcc.com | ntvpforever.com |
 | cc76f2eeaa.0692e14e66.com | ntvpforever.com |
 | cc8ffe7ceb.da1a0e7bb3.com | ntvpforever.com |
@@ -289,6 +290,7 @@
 | d8761c8727.28b5c12f7e.com | ntvpforever.com |
 | d93a7f2b7e.9c03f2208e.com | ntvpforever.com |
 | da7a33716c.92be9e6be2.com | ntvpforever.com |
+| db06a54c9c.abb357b8cc.com | ntvpforever.com |
 | dc2f9c5622.55f9d6e755.com | ntvpforever.com |
 | df3e591f6c.5d8f7f3a02.com | ntvpforever.com |
 | df53ff2b97.bcb3da3ac8.com | ntvpforever.com |
@@ -327,7 +329,6 @@
 | fe8d4b33c2.8abf43d6ad.com | ntvpforever.com |
 | ff04a1538a.ced4d66e2d.com | ntvpforever.com |
 | ffe405491d.28b67b8230.com | ntvpforever.com |
-| partners.time.com | partners-time-com-prod.edgeserving.com |
 | a135.htvnativeadsolutions.com | unavailable.hearstnp.com |
 | a235.chron.com | unavailable.hearstnp.com |
 | a235.ctnews.com | unavailable.hearstnp.com |

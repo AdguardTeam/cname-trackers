@@ -318,7 +318,6 @@ dog.asianjobsearch.com CNAME .
 dog.christinamoore.us CNAME .
 dog.diversityinjobs.com CNAME .
 dog.franchisesocial.co.uk CNAME .
-dog.ghvenue.com CNAME .
 dog.goldcanvas.com CNAME .
 dog.justsketch.me CNAME .
 dog.orbit.love CNAME .
@@ -394,7 +393,6 @@ ferret.tailgraph.com CNAME .
 finch.koronasporing.no CNAME .
 finch.market.xyz CNAME .
 fish.canyouexplain.me CNAME .
-fish.eventpay.be CNAME .
 fish.hyperfine.io CNAME .
 fish.muted.io CNAME .
 fish.whitney.org CNAME .
@@ -480,7 +478,6 @@ heron.joel.is CNAME .
 heron.morphiq.digital CNAME .
 heron.notability.com CNAME .
 heron.oneaudiobooks.app CNAME .
-heron.scarletnoir.co CNAME .
 herring.artemis.cloud CNAME .
 herring.panda.network CNAME .
 hookworm.campaignzee.com CNAME .
@@ -717,7 +714,6 @@ parrotfish.wilderworld.com CNAME .
 parrotfish.wus.immo CNAME .
 partridge.unfamiliar.land CNAME .
 peacock.davidlevai.com CNAME .
-peacock.tourismtuneup.com CNAME .
 peafowl.projectstrackt.dev CNAME .
 penguin.mobiadroit.com CNAME .
 penguin.revolana.com CNAME .
@@ -776,6 +772,7 @@ rabbit.upwardhomes.net CNAME .
 raccoon.donateflow.com CNAME .
 rat.gimlet.io CNAME .
 raven.konquadrat.de CNAME .
+reindeer.iainbroome.com CNAME .
 reindeer.pablomaceda.com CNAME .
 reptile.o-lit.fr CNAME .
 reptile.wyattblogs.com CNAME .
@@ -860,6 +857,7 @@ starman-new.fathomdns.com CNAME .
 starman.fathomdns.com CNAME .
 starman.usefathom.com CNAME .
 stingray.codecoolture.com CNAME .
+stingray.communityally.org CNAME .
 stingray.cryptovoxels.com CNAME .
 stingray.danielzoller.com CNAME .
 stingray.reform.app CNAME .
@@ -886,6 +884,7 @@ takin.dripmacetas.com CNAME .
 takin.revolana.fr CNAME .
 tarantula.emotionalbaking.com CNAME .
 tarantula.hashicorp.com CNAME .
+tarantula.tuxedo.media CNAME .
 tarsier.eyal.codes CNAME .
 tarsier.kriterie.se CNAME .
 tick.pcrpriser.se CNAME .
@@ -906,7 +905,6 @@ trout.travelmassive.com CNAME .
 trout.unicornplatform.com CNAME .
 tuna.peterfarms.com CNAME .
 turkey.tella.tv CNAME .
-turtle.fiercebyte.com CNAME .
 turtle.geshem.space CNAME .
 turtle.hackstock.net CNAME .
 turtle.olivier.cx CNAME .

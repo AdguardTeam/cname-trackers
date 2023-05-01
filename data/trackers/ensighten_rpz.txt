@@ -109,6 +109,8 @@ cm.oneidentity.com CNAME .
 cm.quest.com CNAME .
 cmp.cupra.be CNAME .
 cmp.dieteren.be CNAME .
+cmp.myway.be CNAME .
+cmp.porsche.be CNAME .
 cmp.seat.be CNAME .
 cmp.skoda.be CNAME .
 cmp.volkswagen.be CNAME .
@@ -241,6 +243,7 @@ privacy.heineken.it CNAME .
 privacy.latitudefinancial.com CNAME .
 privacy.latitudefinancial.com.au CNAME .
 privacy.latitudepay.com CNAME .
+privacy.uwm.com CNAME .
 pulse.delta.com CNAME .
 pulse.mcdonalds.com CNAME .
 pulse.quaero.com CNAME .
@@ -250,6 +253,8 @@ pulse.wyndhamhotels.com CNAME .
 secureanalytics.carecredit.com CNAME .
 secureanalytics.syf.com CNAME .
 secureanalytics.synchrony.com CNAME .
+secureanalytics.synchronybank.com CNAME .
+secureanalytics.synchronycarecredit.com CNAME .
 secureanalytics.synchronycredit.com CNAME .
 secureanalytics.synchronyretail.com CNAME .
 securemetrics.mysynchrony.com CNAME .

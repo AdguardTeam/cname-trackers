@@ -68,10 +68,12 @@ tk.domitys.fr
 tk.dossier.co
 tk.engie.fr
 tk.etam.com
+tk.evaneos.ch
 tk.evaneos.de
 tk.evaneos.es
 tk.evaneos.fr
 tk.evaneos.it
+tk.evaneos.nl
 tk.healthwarehouse.com
 tk.hypnia.co.uk
 tk.hypnia.es
@@ -100,6 +102,7 @@ tk.qare.fr
 tk.rentacar.fr
 tk.rimowa.com
 tk.salomon.com
+tk.speedway.fr
 tk.svsound.com
 tk.tikamoon.co.uk
 tk.tikamoon.com

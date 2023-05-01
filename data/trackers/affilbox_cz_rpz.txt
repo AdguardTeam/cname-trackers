@@ -271,6 +271,7 @@ hcbox.mezamo.sk CNAME .
 hcbox.mironet.cz CNAME .
 hcbox.tesla-electronics.eu CNAME .
 hcbox.tlamka.cz CNAME .
+hcbox.verapostele.sk CNAME .
 isic.dentalweb.cz CNAME .
 isic.kopirkaostrava.cz CNAME .
 isicpartner.mamechut.cz CNAME .
@@ -280,10 +281,12 @@ money.mioweb.cz CNAME .
 my.11teamsports.bg CNAME .
 my.11teamsports.cz CNAME .
 my.11teamsports.es CNAME .
+my.11teamsports.fi CNAME .
 my.11teamsports.fr CNAME .
 my.11teamsports.gr CNAME .
 my.11teamsports.hr CNAME .
 my.11teamsports.hu CNAME .
+my.11teamsports.ie CNAME .
 my.11teamsports.pl CNAME .
 my.11teamsports.pt CNAME .
 my.11teamsports.ro CNAME .
@@ -389,6 +392,7 @@ partner.bebidas.cz CNAME .
 partner.bilynabytek.cz CNAME .
 partner.bio-nehty.cz CNAME .
 partner.bioaromakosmetika.cz CNAME .
+partner.bontonck.cz CNAME .
 partner.bonyplus.cz CNAME .
 partner.brawolife.cz CNAME .
 partner.breakout.cz CNAME .

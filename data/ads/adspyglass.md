@@ -54,7 +54,6 @@
 | a.digitalgiftshopping.com | 0i0i0i0.com |
 | a.dorkim.club | 0i0i0i0.com |
 | a.emwstore.xyz | 0i0i0i0.com |
-| a.epicgoo.com | 0i0i0i0.com |
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
@@ -62,6 +61,7 @@
 | a.hentaimotel.com | 0i0i0i0.com |
 | a.hentaitube.icu | 0i0i0i0.com |
 | a.hubhubhub.name | 0i0i0i0.com |
+| a.jhfhdkhkh.site | 0i0i0i0.com |
 | a.kagiti.club | 0i0i0i0.com |
 | a.kantotin.net | 0i0i0i0.com |
 | a.katomu.club | 0i0i0i0.com |
@@ -78,7 +78,6 @@
 | a.redhairporn.com | 0i0i0i0.com |
 | a.reryn2ce.com | 0i0i0i0.com |
 | a.smut.cc | 0i0i0i0.com |
-| a.streamoupload.xyz | 0i0i0i0.com |
 | a.suptube.com | 0i0i0i0.com |
 | a.teencfnm.com | 0i0i0i0.com |
 | a.tortuko.club | 0i0i0i0.com |
@@ -119,6 +118,7 @@
 | ads.pornharlot.net | 0i0i0i0.com |
 | ads.pornutopia.org | 0i0i0i0.com |
 | ads.saplacikardepo.xyz | 0i0i0i0.com |
+| ads.sexybfvideos.com | 0i0i0i0.com |
 | ads.sturls.com | 0i0i0i0.com |
 | ads.tabuflix.com | 0i0i0i0.com |
 | ads.wetpussy.sexy | 0i0i0i0.com |
@@ -233,7 +233,6 @@
 | cdfr.hot4k.org | 0i0i0i0.com |
 | cdn.linkbr.xyz | 0i0i0i0.com |
 | cdn.manga9.co | 0i0i0i0.com |
-| cdn.narutoon.com | 0i0i0i0.com |
 | cdn.sdtraff.com | 0i0i0i0.com |
 | cdn1.delii2.art | 0i0i0i0.com |
 | cdn1.pop72i.art | 0i0i0i0.com |
@@ -314,6 +313,7 @@
 | goallbest.com | 0i0i0i0.com |
 | godhame.xyz | 0i0i0i0.com |
 | goog.emailon.top | 0i0i0i0.com |
+| gulto.xyz | 0i0i0i0.com |
 | h-ay.com | 0i0i0i0.com |
 | hazicu.hothomefuck.com | 0i0i0i0.com |
 | hegdcrxavrtk.cdnvideo3.com | 0i0i0i0.com |
@@ -470,7 +470,6 @@
 | pivo.tracked.one | 0i0i0i0.com |
 | pizzazz.lol | 0i0i0i0.com |
 | pnpjceawvmeu.cdnvideo3.com | 0i0i0i0.com |
-| pop.dtoo1.space | 0i0i0i0.com |
 | pornve.sexyadsrun.com | 0i0i0i0.com |
 | pornvideos.casa | 0i0i0i0.com |
 | possibily.com | 0i0i0i0.com |
@@ -538,7 +537,6 @@
 | spy.bocvu.lol | 0i0i0i0.com |
 | spyglass.octanime.net | 0i0i0i0.com |
 | spyglass.reklamko.pro | 0i0i0i0.com |
-| srv.acervox.com | 0i0i0i0.com |
 | srv1.bunnymediaserver.com | 0i0i0i0.com |
 | sshopee.beauty | 0i0i0i0.com |
 | ssis.7mmtv.top | 0i0i0i0.com |
@@ -584,6 +582,7 @@
 | uk.boffinsoft.com | 0i0i0i0.com |
 | umtpopxcsedc.cdnvideo3.com | 0i0i0i0.com |
 | uthbxvz.bestzba.com | 0i0i0i0.com |
+| v.vidghjlgkuyfk.site | 0i0i0i0.com |
 | vavsnhau.mom | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
 | vjav.com.7mmtv.top | 0i0i0i0.com |
@@ -607,13 +606,11 @@
 | www.antiadblock.info | 0i0i0i0.com |
 | www.bigboy.monster | 0i0i0i0.com |
 | www.bloblohub.com | 0i0i0i0.com |
-| www.healmsuoguurd.eu | 0i0i0i0.com |
 | www.javtvnow.xyz | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
 | www.myxozilla.icu | 0i0i0i0.com |
 | www.p123p.com | 0i0i0i0.com |
 | www.shemale.team | 0i0i0i0.com |
-| www.u808i.com | 0i0i0i0.com |
 | www.upcdn.site | 0i0i0i0.com |
 | www.valornutricional.cc | 0i0i0i0.com |
 | www.w00t.us | 0i0i0i0.com |
@@ -648,4 +645,4 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| h-ay.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |

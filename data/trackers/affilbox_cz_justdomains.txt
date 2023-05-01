@@ -271,6 +271,7 @@ hcbox.mezamo.sk
 hcbox.mironet.cz
 hcbox.tesla-electronics.eu
 hcbox.tlamka.cz
+hcbox.verapostele.sk
 isic.dentalweb.cz
 isic.kopirkaostrava.cz
 isicpartner.mamechut.cz
@@ -280,10 +281,12 @@ money.mioweb.cz
 my.11teamsports.bg
 my.11teamsports.cz
 my.11teamsports.es
+my.11teamsports.fi
 my.11teamsports.fr
 my.11teamsports.gr
 my.11teamsports.hr
 my.11teamsports.hu
+my.11teamsports.ie
 my.11teamsports.pl
 my.11teamsports.pt
 my.11teamsports.ro
@@ -389,6 +392,7 @@ partner.bebidas.cz
 partner.bilynabytek.cz
 partner.bio-nehty.cz
 partner.bioaromakosmetika.cz
+partner.bontonck.cz
 partner.bonyplus.cz
 partner.brawolife.cz
 partner.breakout.cz

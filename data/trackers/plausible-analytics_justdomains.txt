@@ -83,7 +83,6 @@ api.fuck.education
 api.ryanyao.design
 apis.4bn.xyz
 app-stats.supernotes.app
-ares.buyersclub.se
 artistchristinacarmel.ericksonbuilt.com
 assets.garron.blog
 assets.garron.me
@@ -246,7 +245,6 @@ plausible.corbettbarr.com
 plausible.dailytics.com
 plausible.deploymentfromscratch.com
 plausible.dev.logicboard.com
-plausible.dev.sketch.com
 plausible.doberman.co
 plausible.doctave.com
 plausible.edu-focus.org
@@ -284,6 +282,7 @@ plausible.nova.app
 plausible.nubemia.com
 plausible.nuqu.org
 plausible.panic.com
+plausible.phuctm97.com
 plausible.play.date
 plausible.prod.sketch.com
 plausible.promlens.com
@@ -300,14 +299,13 @@ plausible.riok.ch
 plausible.sbw.org
 plausible.shadygrovepca.org
 plausible.simplelogin.io
-plausible.staging.sketch.com
 plausible.starlegacyfoundation.org
 plausible.strzibny.name
 plausible.sysloun.cz
 plausible.tac.dappstar.io
 plausible.tasteslikeme.ca
-plausible.test.sketch.com
 plausible.treelightsoftware.com
+plausible.umbrellaanalytics.net
 plausible.uptime.dk
 plausible.urbanekuensteruhr.de
 plausible.vaughanesports.org
@@ -368,7 +366,6 @@ see.wasteorshare.com
 server.japanbyrivercruise.com
 server.olliehorn.com
 sherlock.nicolabigwood.uk
-simple.bootify.io
 site-stats.supernotes.app
 sp.gameomatic.fr
 sp.jrklein.com
@@ -385,6 +382,7 @@ starman.floorcleanse.co.uk
 stat.bill.harding.blog
 stat.landingpro.pl
 stat.umsu.de
+static.osalta.eu
 statistic.jac-systeme.de
 statistics.heatbeat.de
 statistik.apartments-tirolerhaus.at
@@ -590,7 +588,6 @@ stats.fcalan.org
 stats.feathercss.makerkits.co
 stats.felipesere.com
 stats.femtobill.com
-stats.feuilledetemps.ca
 stats.filburg.co
 stats.filewatch.net
 stats.flightsphere.com
@@ -655,7 +652,6 @@ stats.ibuildings.net
 stats.iefg.org
 stats.ifiwasgame.com
 stats.igassmann.me
-stats.igevia.com
 stats.igor4stir.com
 stats.in-tuition.net
 stats.increasinglyfunctional.com
@@ -742,7 +738,6 @@ stats.ltdhunt.com
 stats.luieremmer.net
 stats.lussoveloce.com
 stats.macosicons.com
-stats.macroarraydx.com
 stats.madeit.io
 stats.madethis.gallery
 stats.maferland.com
@@ -758,7 +753,9 @@ stats.mesenvies.fr
 stats.migrantworker.ca
 stats.mmazzarolo.com
 stats.motion-effect.com
+stats.motorcyclepartsireland.ie
 stats.muchbetteradventures.com
+stats.multiply.cloud
 stats.nddmed.com
 stats.nexagon.dk
 stats.nicolabricot.com
@@ -882,6 +879,7 @@ stats.stackingthebricks.com
 stats.stacks.org
 stats.staging.hex.pm
 stats.studypages.com
+stats.sublimesecurity.com
 stats.suenicholls.com
 stats.suniboy.com
 stats.sushibyte.io
@@ -938,6 +936,7 @@ track.slickinbox.com
 traffic.hostedstatus.page
 traffic.taktikal.is
 triton.companyegg.com
+views.sikerproducts.com
 visitorcenter.srwild.com
 visitors.gigianddavid.com
 vole.amplenote.com

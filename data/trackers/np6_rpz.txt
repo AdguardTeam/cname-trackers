@@ -338,6 +338,7 @@ tr.gestion.liberation.fr CNAME .
 tr.gestion.norrsken.fr CNAME .
 tr.gestion.sygmabnpparibas-pf.com CNAME .
 tr.grez.espmp-nifr.net CNAME .
+tr.group-appointments.lvmh.fr CNAME .
 tr.group-hr.lvmh.fr CNAME .
 tr.groupama-gne.fr CNAME .
 tr.gtr.moethennessy.com CNAME .
@@ -361,6 +362,7 @@ tr.info.bessans.com CNAME .
 tr.info.bonneval-sur-arc.com CNAME .
 tr.info.businesscreditcards.bnpparibasfortis.be CNAME .
 tr.info.caissenationalegendarme.fr CNAME .
+tr.info.camping-vagues-oceanes.com CNAME .
 tr.info.capfun.com CNAME .
 tr.info.cartesaffaires.bnpparibas CNAME .
 tr.info.casino-proximites.fr CNAME .

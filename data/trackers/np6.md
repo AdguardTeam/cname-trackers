@@ -354,6 +354,7 @@
 | tr.gestion.norrsken.fr | tracking.bp01.net |
 | tr.gestion.sygmabnpparibas-pf.com | tracking.bp01.net |
 | tr.grez.espmp-nifr.net | tracking.bp01.net |
+| tr.group-appointments.lvmh.fr | tracking.bp01.net |
 | tr.group-hr.lvmh.fr | tracking.bp01.net |
 | tr.groupama-gne.fr | tracking.bp01.net |
 | tr.gtr.moethennessy.com | tracking.bp01.net |
@@ -377,6 +378,7 @@
 | tr.info.bonneval-sur-arc.com | tracking.bp01.net |
 | tr.info.businesscreditcards.bnpparibasfortis.be | tracking.bp01.net |
 | tr.info.caissenationalegendarme.fr | tracking.bp01.net |
+| tr.info.camping-vagues-oceanes.com | tracking.bp01.net |
 | tr.info.capfun.com | tracking.bp01.net |
 | tr.info.cartesaffaires.bnpparibas | tracking.bp01.net |
 | tr.info.casino-proximites.fr | tracking.bp01.net |

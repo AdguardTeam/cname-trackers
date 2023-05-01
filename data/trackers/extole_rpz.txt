@@ -20,6 +20,7 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
+refer.aol.com CNAME .
 refer.app.com CNAME .
 refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
@@ -121,7 +122,6 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -147,6 +147,7 @@ refer.abacusnext.com CNAME .
 refer.acornonline.com CNAME .
 refer.akcpetinsurance.com CNAME .
 refer.algaecal.com CNAME .
+refer.americanmusical.com CNAME .
 refer.amerisleep.com CNAME .
 refer.art.com CNAME .
 refer.ashleyfurniture.com CNAME .
@@ -470,6 +471,7 @@ share.lark.com CNAME .
 share.levi.com CNAME .
 share.lifedna.com CNAME .
 share.livongo.com CNAME .
+share.lovesac.com CNAME .
 share.maccosmetics.com.au CNAME .
 share.mamabearlegalforms.com CNAME .
 share.manscaped.com CNAME .

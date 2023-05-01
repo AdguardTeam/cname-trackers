@@ -43,6 +43,7 @@
 ||click-rtb2-useast.afkwa.com^
 ||click-rtb2-useast.africonverse.com^
 ||click-rtb2-useast.catapultx.com^
+||click-rtb2-useast.demandzoo.com^
 ||click-rtb2-useast.e-volution.ai^
 ||click-rtb2-useast.xaprio.net^
 ||click-rtb2-uswest.afkwa.com^
@@ -142,6 +143,7 @@
 ||display.rtb-serve.com^
 ||dsp-east.nativeads.com^
 ||dsp-eu.nativeads.com^
+||dsp-static.nativeads.com^
 ||dsp-west.nativeads.com^
 ||dsp.adcountymedia.com^
 ||dsp.adhunter.media^
@@ -258,6 +260,7 @@
 ||filter.jadspro.live^
 ||filter.jotterads.com^
 ||filter.kinesis-doo.com^
+||filter.kunvertads.com^
 ||filter.laheatads.com^
 ||filter.leoback.com^
 ||filter.leoyard.com^
@@ -551,7 +554,6 @@
 ||rtb-useast.felixads.com^
 ||rtb-useast.fmlabsonline.com^
 ||rtb-useast.foremedia.net^
-||rtb-useast.gorillapush.com^
 ||rtb-useast.greedygame.com^
 ||rtb-useast.griffindigitalmedia.com^
 ||rtb-useast.houseofpubs.com^
@@ -635,6 +637,7 @@
 ||rtb.vokut.com^
 ||rtb2-apac.catapultx.com^
 ||rtb2-apac.convergeselect.net^
+||rtb2-apac.demandzoo.com^
 ||rtb2-apac.e-volution.ai^
 ||rtb2-apac.newchallenges-dsp.com^
 ||rtb2-apac.onenativeads.com^
@@ -694,16 +697,16 @@
 ||serve.datacygnal.io^
 ||static-analytics.nativeads.com^
 ||static-rtb.adksrv.com^
-||static-rtb.waardex.com^
 ||static-rtb2.afkwa.com^
 ||static-rtb2.catapultx.com^
 ||static-rtb2.convergeselect.net^
 ||static-rtb2.e-volution.ai^
 ||static-rtb2.newchallenges-dsp.com^
-||static-rtb2.torchad.com^
+||static-rtb2.programmatics.net^
 ||static-rtb2.xaprio.net^
-||static.adbite.com^
+||static.100conversions.com^
 ||static.adcannyxml.com^
+||static.adcy.net^
 ||static.adflydsp.com^
 ||static.admeridianads.com^
 ||static.admidainsight.com^
@@ -712,11 +715,12 @@
 ||static.adwooo.com^
 ||static.app-shake.com^
 ||static.bid-engine.com^
+||static.denakop.com^
 ||static.displayio.cloud^
-||static.e-volution.ai^
 ||static.ezmob.com^
 ||static.foremedia.net^
 ||static.fstsrv1.com^
+||static.hueadsxml.com^
 ||static.openrtb.in^
 ||static.outpush.net^
 ||static.pdn-1.com^
@@ -731,8 +735,6 @@
 ||static.rtbserve.io^
 ||static.rtbwire.com^
 ||static.theardent.group^
-||static.trafficmoose.com^
-||static.userwave.com^
 ||static.webmedxml.com^
 ||sub.adzgame.com^
 ||sv-pval.looksmart.com^
@@ -788,6 +790,7 @@
 ||win-rtb2-apac.newchallenges-dsp.com^
 ||win-rtb2-apac.programmatics.net^
 ||win-rtb2-apac.userwave.com^
+||win-rtb2-apac.xaprio.net^
 ||win-rtb2-eu.e-volution.ai^
 ||win-rtb2-eu.programmatics.net^
 ||win-rtb2-eu.torchad.com^
@@ -803,6 +806,7 @@
 ||win-rtb2-useast.userwave.com^
 ||win-rtb2-useast.waardex.com^
 ||win-rtb2-useast.webithr.com^
+||win-rtb2-useast.xaprio.net^
 ||win-rtb2-uswest.afkwa.com^
 ||win-rtb2-uswest.e-volution.ai^
 ||win-rtb2-uswest.programmatics.net^
@@ -857,6 +861,7 @@
 ||xml-eu.adxfactory.com^
 ||xml-eu.adzestocp.com^
 ||xml-eu.bid-engine.com^
+||xml-eu.bidforclicks.com^
 ||xml-eu.bidmyadz.com^
 ||xml-eu.blueparrot.media^
 ||xml-eu.craftviking-2.co^
@@ -912,6 +917,7 @@
 ||xml-v4.frdjs-1.co^
 ||xml-v4.frdjs-2.co^
 ||xml-v4.fstsrv1.com^
+||xml-v4.fstsrv2.com^
 ||xml-v4.gipostart-1.co^
 ||xml-v4.gipostart-2.co^
 ||xml-v4.goclickz.net^
@@ -951,7 +957,6 @@
 ||xml.adcannyxml.com^
 ||xml.adcy.net^
 ||xml.additionalmedia.com^
-||xml.adfclick1.com^
 ||xml.adflores.com^
 ||xml.adflydsp.com^
 ||xml.adflyer.media^
@@ -1042,7 +1047,6 @@
 ||xml.frdjs-2.co^
 ||xml.fstsrv1.com^
 ||xml.gipostart-2.co^
-||xml.gorillapush.com^
 ||xml.groovyadz.com^
 ||xml.hangfly.net^
 ||xml.hetcash.com^
@@ -1050,6 +1054,7 @@
 ||xml.howto5.io^
 ||xml.hueads.com^
 ||xml.hueadsxml.com^
+||xml.icyads.com^
 ||xml.infinity-info.com^
 ||xml.junplatdirect.com^
 ||xml.kinesis-doo.com^
@@ -1066,6 +1071,7 @@
 ||xml.mobreach.com^
 ||xml.mobuppsrtb.com^
 ||xml.mymedia.club^
+||xml.netload1.com^
 ||xml.netload2.com^
 ||xml.newbluetrue.xyz^
 ||xml.octov8.com^
@@ -1118,6 +1124,7 @@
 ||xml.thetrafficboss.com^
 ||xml.topclickpick.com^
 ||xml.topdealad.com^
+||xml.topsolutionsmedia.com^
 ||xml.trafficmoose.com^
 ||xml.tri.media^
 ||xml.ultrads.net^
@@ -1178,6 +1185,10 @@
 !
 ||static-rtb.engagesimply.com^
 !
+! s8i6i5v3.stackpathcdn.com disguised trackers
+!
+||static-rtb.waardex.com^
+!
 ! n3r3w7j3.stackpathcdn.com disguised trackers
 !
 ||static-rtb2.adpix.online^
@@ -1234,6 +1245,10 @@
 !
 ||static-rtb2.t3dsp.com^
 !
+! y4f3q6b3.stackpathcdn.com disguised trackers
+!
+||static-rtb2.torchad.com^
+!
 ! u5v2k5q2.stackpathcdn.com disguised trackers
 !
 ||static-rtb2.xaprio.net^
@@ -1260,10 +1275,6 @@
 ! h7i7k5w4.stackpathcdn.com disguised trackers
 !
 ||static.additionaldisplay.com^
-!
-! g7p5h6w7.stackpathcdn.com disguised trackers
-!
-||static.adfclick1.com^
 !
 ! y7m3s9g6.stackpathcdn.com disguised trackers
 !
@@ -1393,6 +1404,10 @@
 ! q3m6y4u3.stackpathcdn.com disguised trackers
 !
 ||static.displayio.cloud^
+!
+! u8y4i3q8.stackpathcdn.com disguised trackers
+!
+||static.e-volution.ai^
 !
 ! u5i5h2g2.stackpathcdn.com disguised trackers
 !

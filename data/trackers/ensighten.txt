@@ -109,6 +109,8 @@
 ||cm.quest.com^
 ||cmp.cupra.be^
 ||cmp.dieteren.be^
+||cmp.myway.be^
+||cmp.porsche.be^
 ||cmp.seat.be^
 ||cmp.skoda.be^
 ||cmp.volkswagen.be^
@@ -241,6 +243,7 @@
 ||privacy.latitudefinancial.com^
 ||privacy.latitudefinancial.com.au^
 ||privacy.latitudepay.com^
+||privacy.uwm.com^
 ||pulse.delta.com^
 ||pulse.mcdonalds.com^
 ||pulse.quaero.com^
@@ -250,6 +253,8 @@
 ||secureanalytics.carecredit.com^
 ||secureanalytics.syf.com^
 ||secureanalytics.synchrony.com^
+||secureanalytics.synchronybank.com^
+||secureanalytics.synchronycarecredit.com^
 ||secureanalytics.synchronycredit.com^
 ||secureanalytics.synchronyretail.com^
 ||securemetrics.mysynchrony.com^

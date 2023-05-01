@@ -330,6 +330,7 @@
 ||webt.aqipa.com^
 ||webt.eleonto.com^
 ||webt.eu.teac-audio.com^
+||webt.pure-audio.com^
 ||webt.pure.com^
 ||webt.store.okmilo.com^
 ||wetr.sportscheck.at^

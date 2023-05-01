@@ -5,7 +5,6 @@
 ;
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
-ad.arabxl.com CNAME .
 ad1.xero.porn CNAME .
 api.kekw.website CNAME .
 api.rtnews.pro CNAME .
@@ -62,9 +61,11 @@ clkn3.apostle.onl CNAME .
 clknrtrg.pro CNAME .
 cln.willyporn.com CNAME .
 cn4.animehdl.net CNAME .
+cvk.supklik.com CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dnsbl.test.ww1.willalland.info CNAME .
+dr1.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
 faq.brandnewapp.pro CNAME .
 flare.vtube.to CNAME .

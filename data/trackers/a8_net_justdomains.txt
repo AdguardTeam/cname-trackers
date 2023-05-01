@@ -17,9 +17,11 @@ a8.abemashopping.jp
 a8.aga-hakata.com
 a8.aim-beauty-medicalclinic.com
 a8.andethic.com
+a8.asdf.co.jp
 a8.au-hikarinet.com
 a8.avalon-works.com
 a8.b-cafe.net
+a8.bandel.jp
 a8.banninkun.com
 a8.bc-hikari.com
 a8.benro.jp
@@ -135,6 +137,7 @@ a8.mochu.jp
 a8.mogurun.com
 a8.moku.info
 a8.mosh.jp
+a8.musbell.co.jp
 a8.n-pri.jp
 a8.nanafu.tokyo
 a8.narikiri.me
@@ -348,6 +351,7 @@ a8clk.hom.adebtt.info
 a8clk.hotman-onlineshop.com
 a8clk.hozon.sp-site.jp
 a8clk.hurugicom.jp
+a8clk.ias.il24.net
 a8clk.jaf.or.jp
 a8clk.janiking.jp
 a8clk.jobspring.jp
@@ -492,6 +496,7 @@ a8clk.www.duskin-hozumi.co.jp
 a8clk.www.gaihekitosou-partners.jp
 a8clk.www.green-dog.com
 a8clk.www.jaf.or.jp
+a8clk.www.just-size.net
 a8clk.www.ka-nabell.com
 a8clk.www.netage.ne.jp
 a8clk.www.nortonstore.jp
@@ -614,7 +619,6 @@ a8cv.fc-osoujikakumei.jp
 a8cv.first-spoon.com
 a8cv.fitness-terrace.com
 a8cv.folio-sec.com
-a8cv.folli.jp
 a8cv.forza-gran.com
 a8cv.frecious.jp
 a8cv.freeks-japan.com
@@ -703,6 +707,7 @@ a8cv.mobabiji.jp
 a8cv.mobile-peace.com
 a8cv.modern-deco.jp
 a8cv.mogans.jp
+a8cv.mogecheck.jp
 a8cv.momiji-tantei.com
 a8cv.mova-creator-school.com
 a8cv.ms-toushiguide.jp
@@ -714,6 +719,7 @@ a8cv.nakamura-kaban.net
 a8cv.nakashimahihuka.com
 a8cv.naradenryoku.co.jp
 a8cv.natulahonpo.com
+a8cv.naturecan-fitness.jp
 a8cv.nichirei.co.jp
 a8cv.nifty.com
 a8cv.nijiun.com
@@ -742,11 +748,13 @@ a8cv.picksitter.com
 a8cv.pilates-k.jp
 a8cv.player.iam-ist.jp
 a8cv.pocket-sommelier.com
+a8cv.postcoffee.co
 a8cv.premium.aidemy.net
 a8cv.presence.jp
 a8cv.pro.omobic.com
 a8cv.quattrocart.com
 a8cv.r-maid.com
+a8cv.rakumizu.jp
 a8cv.rawfood-lohas.com
 a8cv.rehome-navi.com
 a8cv.repitte.jp
@@ -764,6 +772,7 @@ a8cv.secure.sakura.ad.jp
 a8cv.select-type.com
 a8cv.selkalabo.com
 a8cv.setagayarecords.co
+a8cv.sharing-tech.co.jp
 a8cv.sharing-tech.jp
 a8cv.shibuya-scramble-figure.com
 a8cv.shimomoto-cl.co.jp
@@ -772,6 +781,7 @@ a8cv.shokunosoyokaze.com
 a8cv.shop.matsuo1956.jp
 a8cv.shop.solve-grp.com
 a8cv.shopmonono.com
+a8cv.sibody.co.jp
 a8cv.signalift.com
 a8cv.sl-creations.store
 a8cv.snkrdunk.com
@@ -939,6 +949,7 @@ trck.repesta.com
 trck.rework-s.com
 trck02.magaseek.com
 trcka8.orobianco-jp.com
+trcka8net.irobot-jp.com
 web.hikari-biglobe.com
 web.hikari-softbank.com
 web.life-cw.com

@@ -43,7 +43,6 @@ a.descsau.ml CNAME .
 a.digitalgiftshopping.com CNAME .
 a.dorkim.club CNAME .
 a.emwstore.xyz CNAME .
-a.epicgoo.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.fuckamouth.com CNAME .
@@ -51,6 +50,7 @@ a.hentai369.com CNAME .
 a.hentaimotel.com CNAME .
 a.hentaitube.icu CNAME .
 a.hubhubhub.name CNAME .
+a.jhfhdkhkh.site CNAME .
 a.kagiti.club CNAME .
 a.kantotin.net CNAME .
 a.katomu.club CNAME .
@@ -67,7 +67,6 @@ a.pumpity.net CNAME .
 a.redhairporn.com CNAME .
 a.reryn2ce.com CNAME .
 a.smut.cc CNAME .
-a.streamoupload.xyz CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
 a.tortuko.club CNAME .
@@ -108,6 +107,7 @@ ads.pornharlot.com CNAME .
 ads.pornharlot.net CNAME .
 ads.pornutopia.org CNAME .
 ads.saplacikardepo.xyz CNAME .
+ads.sexybfvideos.com CNAME .
 ads.sturls.com CNAME .
 ads.tabuflix.com CNAME .
 ads.wetpussy.sexy CNAME .
@@ -222,7 +222,6 @@ cdddd.javmilk.org CNAME .
 cdfr.hot4k.org CNAME .
 cdn.linkbr.xyz CNAME .
 cdn.manga9.co CNAME .
-cdn.narutoon.com CNAME .
 cdn.sdtraff.com CNAME .
 cdn1.delii2.art CNAME .
 cdn1.pop72i.art CNAME .
@@ -304,6 +303,7 @@ go.ss-n-30.com CNAME .
 goallbest.com CNAME .
 godhame.xyz CNAME .
 goog.emailon.top CNAME .
+gulto.xyz CNAME .
 h-ay.com CNAME .
 hazicu.hothomefuck.com CNAME .
 hegdcrxavrtk.cdnvideo3.com CNAME .
@@ -463,7 +463,6 @@ pivo.tracked.one CNAME .
 pizzazz.lol CNAME .
 plutoclean.com CNAME .
 pnpjceawvmeu.cdnvideo3.com CNAME .
-pop.dtoo1.space CNAME .
 pornve.sexyadsrun.com CNAME .
 pornvideos.casa CNAME .
 possibily.com CNAME .
@@ -531,7 +530,6 @@ sor.pornxok.com CNAME .
 spy.bocvu.lol CNAME .
 spyglass.octanime.net CNAME .
 spyglass.reklamko.pro CNAME .
-srv.acervox.com CNAME .
 srv1.bunnymediaserver.com CNAME .
 sshopee.beauty CNAME .
 ssis.7mmtv.top CNAME .
@@ -577,6 +575,7 @@ ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
 umtpopxcsedc.cdnvideo3.com CNAME .
 uthbxvz.bestzba.com CNAME .
+v.vidghjlgkuyfk.site CNAME .
 vavsnhau.mom CNAME .
 vd.7vid.net CNAME .
 vjav.com.7mmtv.top CNAME .
@@ -600,14 +599,12 @@ www.adxhand.icu CNAME .
 www.antiadblock.info CNAME .
 www.bigboy.monster CNAME .
 www.bloblohub.com CNAME .
-www.healmsuoguurd.eu CNAME .
 www.hq3x.com CNAME .
 www.javtvnow.xyz CNAME .
 www.letstry69.xyz CNAME .
 www.myxozilla.icu CNAME .
 www.p123p.com CNAME .
 www.shemale.team CNAME .
-www.u808i.com CNAME .
 www.upcdn.site CNAME .
 www.valornutricional.cc CNAME .
 www.w00t.us CNAME .
@@ -643,4 +640,4 @@ cdn.manhwadesu.me CNAME .
 ;
 ; u53.hypnorat.com disguised trackers
 ;
-h-ay.com CNAME .
+qoqv.com CNAME .

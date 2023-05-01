@@ -338,6 +338,7 @@
 ||tr.gestion.norrsken.fr^
 ||tr.gestion.sygmabnpparibas-pf.com^
 ||tr.grez.espmp-nifr.net^
+||tr.group-appointments.lvmh.fr^
 ||tr.group-hr.lvmh.fr^
 ||tr.groupama-gne.fr^
 ||tr.gtr.moethennessy.com^
@@ -361,6 +362,7 @@
 ||tr.info.bonneval-sur-arc.com^
 ||tr.info.businesscreditcards.bnpparibasfortis.be^
 ||tr.info.caissenationalegendarme.fr^
+||tr.info.camping-vagues-oceanes.com^
 ||tr.info.capfun.com^
 ||tr.info.cartesaffaires.bnpparibas^
 ||tr.info.casino-proximites.fr^

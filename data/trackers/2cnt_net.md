@@ -50,7 +50,6 @@
 * degruyter.vgwort-de.2cnt.net
 * dgs.tns-dk.2cnt.net
 * dmi.tns-dk.2cnt.net
-* dplayiosstream.tns-dk.2cnt.net
 * slb-tns-dk-pool04.tns-dk.2cnt.net
 * dplaystream.tns-dk.2cnt.net
 * slb-tns-dk-pool07.tns-dk.2cnt.net
@@ -160,12 +159,10 @@
 * ssl-bornibyen.tns-dk.2cnt.net
 * ssl-borseniam.tns-dk.2cnt.net
 * slb-tns-dk-pool05.tns-dk.2cnt.net
-* ssl-brigitte.vgwort-de.2cnt.net
 * ssl-bt-eavis.tns-dk.2cnt.net
 * ssl-bt.tns-dk.2cnt.net
 * ssl-bureaubiz.tns-dk.2cnt.net
 * ssl-business.tns-dk.2cnt.net
-* ssl-chip.vgwort-de.2cnt.net
 * ssl-computerworld.tns-dk.2cnt.net
 * ssl-costume.tns-dk.2cnt.net
 * ssl-danskemedier.tns-dk.2cnt.net
@@ -363,7 +360,6 @@
 | degruyter.met.vgwort.de | degruyter.vgwort-de.2cnt.net |
 | dgs.tns-gallup.dk | dgs.tns-dk.2cnt.net |
 | dmi.tns-gallup.dk | dmi.tns-dk.2cnt.net |
-| dplayiosstream.tns-gallup.dk | dplayiosstream.tns-dk.2cnt.net |
 | dplaystream.tns-gallup.dk | dplaystream.tns-dk.2cnt.net |
 | dr.tns-gallup.dk | dr.tns-dk.2cnt.net |
 | drandroidtvstream.tns-gallup.dk | drandroidtvstream.tns-dk.2cnt.net |
@@ -548,7 +544,6 @@
 | ssl-berliner-kurier.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-berliner-zeitung.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-brigitte.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
-| ssl-brigitte.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-heise.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-rp-online.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-rp-online.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -633,12 +628,10 @@
 | ssl-bootstrapping.tns-gallup.dk | ssl-bootstrapping.tns-dk.2cnt.net |
 | ssl-bornibyen.tns-gallup.dk | ssl-bornibyen.tns-dk.2cnt.net |
 | ssl-borseniam.tns-gallup.dk | ssl-borseniam.tns-dk.2cnt.net |
-| ssl-brigitte.met.vgwort.de | ssl-brigitte.vgwort-de.2cnt.net |
 | ssl-bt-eavis.tns-gallup.dk | ssl-bt-eavis.tns-dk.2cnt.net |
 | ssl-bt.tns-gallup.dk | ssl-bt.tns-dk.2cnt.net |
 | ssl-bureaubiz.tns-gallup.dk | ssl-bureaubiz.tns-dk.2cnt.net |
 | ssl-business.tns-gallup.dk | ssl-business.tns-dk.2cnt.net |
-| ssl-chip.met.vgwort.de | ssl-chip.vgwort-de.2cnt.net |
 | ssl-computerworld.tns-gallup.dk | ssl-computerworld.tns-dk.2cnt.net |
 | ssl-costume.tns-gallup.dk | ssl-costume.tns-dk.2cnt.net |
 | ssl-danskemedier.tns-gallup.dk | ssl-danskemedier.tns-dk.2cnt.net |

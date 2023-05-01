@@ -68,10 +68,12 @@ tk.domitys.fr CNAME .
 tk.dossier.co CNAME .
 tk.engie.fr CNAME .
 tk.etam.com CNAME .
+tk.evaneos.ch CNAME .
 tk.evaneos.de CNAME .
 tk.evaneos.es CNAME .
 tk.evaneos.fr CNAME .
 tk.evaneos.it CNAME .
+tk.evaneos.nl CNAME .
 tk.healthwarehouse.com CNAME .
 tk.hypnia.co.uk CNAME .
 tk.hypnia.es CNAME .
@@ -100,6 +102,7 @@ tk.qare.fr CNAME .
 tk.rentacar.fr CNAME .
 tk.rimowa.com CNAME .
 tk.salomon.com CNAME .
+tk.speedway.fr CNAME .
 tk.svsound.com CNAME .
 tk.tikamoon.co.uk CNAME .
 tk.tikamoon.com CNAME .

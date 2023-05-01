@@ -143,6 +143,7 @@ cp.deltadentalwa.com CNAME .
 data.avid.com CNAME .
 data.connectingthreads.com CNAME .
 data.craftsamericana.com CNAME .
+data0.sympatico.ca CNAME .
 datag.polo.com CNAME .
 datas.connectingthreads.com CNAME .
 dcs.plussizetech.com CNAME .
@@ -163,6 +164,7 @@ home.usg.com CNAME .
 ig.nadex.com CNAME .
 img.biospace.com CNAME .
 img.hcareers.com CNAME .
+img.hfma.org CNAME .
 img.interhome.ch CNAME .
 img.yemeksepeti.com CNAME .
 info.penrithpanthers.com.au CNAME .
@@ -225,12 +227,14 @@ mdws.tpcu.on.ca CNAME .
 mdws.ukrainiancu.com CNAME .
 mdws.vermilioncreditunion.com CNAME .
 med.aerochambervhc.com CNAME .
+med.androderm.com CNAME .
 med.asacolhd.com CNAME .
 med.cerexa.com CNAME .
 med.fetzima.com CNAME .
 med.frx.com CNAME .
 med.lilettahcp.com CNAME .
 med.linzesshcp.com CNAME .
+med.namenda.com CNAME .
 med.namzaric.com CNAME .
 med.savella.com CNAME .
 med.savellahcp.com CNAME .
@@ -242,12 +246,14 @@ meds.fetzima.com CNAME .
 meds.rapaflo.com CNAME .
 metric.angieslist.com CNAME .
 metric.armstrong.com CNAME .
+metric.aruplab.com CNAME .
 metric.atlanta.net CNAME .
 metric.billmelater.com CNAME .
 metric.bostonscientific.com CNAME .
 metric.ch.nissan.co.jp CNAME .
 metric.foodbusinessnews.net CNAME .
 metric.genesis.es CNAME .
+metric.guidancesoftware.com CNAME .
 metric.jeppesen.com CNAME .
 metric.marthastewart.com CNAME .
 metric.meatpoultry.com CNAME .
@@ -273,6 +279,7 @@ metrics.adt.com CNAME .
 metrics.allaboutyou.com CNAME .
 metrics.amd.com CNAME .
 metrics.angieslist.com CNAME .
+metrics.apartmentfinder.com CNAME .
 metrics.apartments.com CNAME .
 metrics.apple.com CNAME .
 metrics.armstrong.com CNAME .
@@ -309,6 +316,7 @@ metrics.cvs.com CNAME .
 metrics.dailystrength.org CNAME .
 metrics.damart.fr CNAME .
 metrics.datapipe.com CNAME .
+metrics.dcshoes.com CNAME .
 metrics.delwebb.com CNAME .
 metrics.diy.com CNAME .
 metrics.dollar.com CNAME .
@@ -393,17 +401,21 @@ metrics.pebblebeach.com CNAME .
 metrics.people.com CNAME .
 metrics.peoplescourt.warnerbros.com CNAME .
 metrics.pepboys.com CNAME .
+metrics.performgroup.com CNAME .
+metrics.petchow.net CNAME .
 metrics.petsmart.com CNAME .
 metrics.planadviser.com CNAME .
 metrics.politicopro.com CNAME .
 metrics.post-gazette.com CNAME .
 metrics.psoriasisuncovered.com CNAME .
+metrics.purina.ca CNAME .
 metrics.purina.com CNAME .
 metrics.quickmanufacturingnews.com CNAME .
 metrics.quiksilver.com CNAME .
 metrics.rapidadvance.com CNAME .
 metrics.regal.es CNAME .
 metrics.restockit.com CNAME .
+metrics.roche.de CNAME .
 metrics.rotorooter.com CNAME .
 metrics.rottentomatoes.com CNAME .
 metrics.roxy.com CNAME .
@@ -420,6 +432,7 @@ metrics.splol.com CNAME .
 metrics.store.irobot.com CNAME .
 metrics.sun.com CNAME .
 metrics.tbs.com CNAME .
+metrics.teachforamerica.org CNAME .
 metrics.telenor.se CNAME .
 metrics.tescobank.com CNAME .
 metrics.tgw.com CNAME .
@@ -441,6 +454,7 @@ metrics.turner.com CNAME .
 metrics.tyrashow.warnerbros.com CNAME .
 metrics.us.levi.com CNAME .
 metrics.us.playstation.com CNAME .
+metrics.usana.com CNAME .
 metrics.vademecum.es CNAME .
 metrics.virginmedia.com CNAME .
 metrics.volusion.com CNAME .
@@ -450,6 +464,7 @@ metrics.walmart.com CNAME .
 metrics.walmartmoneycard.com CNAME .
 metrics.washingtonpost.com CNAME .
 metrics.westmarine.com CNAME .
+metrics.when.com CNAME .
 metrics.wm.com CNAME .
 metrics.wnba.com CNAME .
 metrics.womansday.com CNAME .
@@ -464,6 +479,7 @@ mtrcs.shopzilla.com CNAME .
 my.iheartradio.com CNAME .
 myhome.usg.com CNAME .
 n.netquote.com CNAME .
+nmetrics.samsungmobile.com CNAME .
 nomsc.kpn.com CNAME .
 nossl.aafp.org CNAME .
 nossl.basco.com CNAME .
@@ -474,6 +490,7 @@ o.evite.com CNAME .
 o.medallia.com CNAME .
 o.opentable.com CNAME .
 o.xbox.com CNAME .
+om.a1vacations.com CNAME .
 om.abritel.fr CNAME .
 om.cyberrentals.com CNAME .
 om.escapehomes.com CNAME .
@@ -510,6 +527,7 @@ omniture443.partycity.com CNAME .
 omnituretrack.local.com CNAME .
 oms.goarmy.com CNAME .
 omsc.kpn.com CNAME .
+omtrns.sstats.q8.dk CNAME .
 os.evoice.com CNAME .
 os.evoicereceptionist.com CNAME .
 osc.venetian.com CNAME .
@@ -526,6 +544,7 @@ p2.danskebank.se CNAME .
 p2.p2.danskebank.dk CNAME .
 p3.p2.danskebank.dk CNAME .
 pc.personalcreations.com CNAME .
+peaks.patagonia.com CNAME .
 petal.calyxflowers.com CNAME .
 plansponsor.com.102.122.207.net CNAME .
 puritysts.purityproducts.com CNAME .
@@ -650,6 +669,7 @@ smetrics.cbc.ca CNAME .
 smetrics.claires.com CNAME .
 smetrics.clubreservations.com CNAME .
 smetrics.cnn.com CNAME .
+smetrics.coach.com CNAME .
 smetrics.columbia.com CNAME .
 smetrics.combinedinsurance.com CNAME .
 smetrics.condodirect.com CNAME .
@@ -661,12 +681,16 @@ smetrics.crocs.eu CNAME .
 smetrics.crocs.fi CNAME .
 smetrics.ctm.uhc.com CNAME .
 smetrics.ctv.ca CNAME .
+smetrics.customersvc.com CNAME .
 smetrics.cvs.com CNAME .
 smetrics.daysinn.com CNAME .
+smetrics.dcshoes.com CNAME .
 smetrics.diy.com CNAME .
 smetrics.dollar.com CNAME .
 smetrics.doorsteps.com CNAME .
 smetrics.dreamvacationweek.com CNAME .
+smetrics.easyspace.com CNAME .
+smetrics.ecmweb.com CNAME .
 smetrics.efirstbank.com CNAME .
 smetrics.ensure.ca CNAME .
 smetrics.ensure.com CNAME .
@@ -693,7 +717,9 @@ smetrics.ha.com CNAME .
 smetrics.harley-davidson.com CNAME .
 smetrics.hbogo.com CNAME .
 smetrics.hctra.org CNAME .
+smetrics.health.com CNAME .
 smetrics.hm.com CNAME .
+smetrics.hmhco.com CNAME .
 smetrics.ikea.com CNAME .
 smetrics.intervalworld.com CNAME .
 smetrics.intralinks.com CNAME .
@@ -752,6 +778,7 @@ smetrics.pedialyte.com CNAME .
 smetrics.pediasure.com CNAME .
 smetrics.pediasure.com.my CNAME .
 smetrics.peoplepets.com CNAME .
+smetrics.performgroup.com CNAME .
 smetrics.petcentric.com CNAME .
 smetrics.petsupplies.com CNAME .
 smetrics.planadviser.com CNAME .
@@ -766,9 +793,7 @@ smetrics.roche.de CNAME .
 smetrics.roxy.com CNAME .
 smetrics.ryanhomes.com CNAME .
 smetrics.sce.com CNAME .
-smetrics.scjbrands.com CNAME .
 smetrics.secure.ehc.com CNAME .
-smetrics.sfchronicle.com CNAME .
 smetrics.sharecare.com CNAME .
 smetrics.shinseibank.com CNAME .
 smetrics.siblu.com CNAME .
@@ -803,7 +828,6 @@ smetrics.timberland.it CNAME .
 smetrics.timeinc.net CNAME .
 smetrics.toptenreviews.com CNAME .
 smetrics.turner.com CNAME .
-smetrics.ulsterbank.com CNAME .
 smetrics.us.playstation.com CNAME .
 smetrics.vermontcountrystore.com CNAME .
 smetrics.visitphoenix.com CNAME .
@@ -856,12 +880,12 @@ somni.deloittenet.deloitte.com CNAME .
 somni.delraycc.com CNAME .
 somni.dexknows.com CNAME .
 somni.dispatch.com CNAME .
-somni.farmplan.com CNAME .
 somni.favorfavor.com CNAME .
 somni.kolo.com CNAME .
 somni.ninemsn.com.au CNAME .
 somni.pemco.com CNAME .
 somni.petro-canada.ca CNAME .
+somni.powrplan.com CNAME .
 somni.vikingrivercruises.com CNAME .
 somni.yellowpages.com CNAME .
 somniture.artschool.com CNAME .
@@ -921,6 +945,7 @@ sstats.rssc.com CNAME .
 sstats.shaneco.com CNAME .
 sstats.swissotel.com CNAME .
 sstats.tena.ca CNAME .
+sstats.tena.us CNAME .
 sstats.thermofisher.com CNAME .
 sstats.thermoscientific.cn CNAME .
 sstats.uachef.com CNAME .
@@ -938,11 +963,11 @@ stat-ssl.tasclap.jp CNAME .
 stat.3pagen.de CNAME .
 stat.canal-plus.com CNAME .
 stat.cruisingpower.com CNAME .
+stat.his-j.com CNAME .
 stat.jetsetter.com CNAME .
 stat.magazines.com CNAME .
 stat.outrigger.com CNAME .
 stat.thegeneral.com CNAME .
-states.neweggbusiness.com CNAME .
 stats.4travel.jp CNAME .
 stats.aatbs.com CNAME .
 stats.adultswim.com CNAME .
@@ -969,7 +994,9 @@ stats.iata.org CNAME .
 stats.kiwibank.co.nz CNAME .
 stats.leasy.dk CNAME .
 stats.mint.ca CNAME .
+stats.modernaforsakringar.se CNAME .
 stats.myfidm.fidm.edu CNAME .
+stats.nikkei.com CNAME .
 stats.nortonhealthcare.com CNAME .
 stats.nutritiondata.com CNAME .
 stats.onetime.com CNAME .
@@ -1046,38 +1073,30 @@ value.register.com CNAME .
 visitors.winecountrygiftbaskets.com CNAME .
 vs.asianave.com CNAME .
 w319.nordnet.se CNAME .
-w88.qam.disney.go.com CNAME .
 wa.and.co.uk CNAME .
-wa.autoanything.com CNAME .
-wa.baltimoreravens.com CNAME .
-wa.consumentenbond.nl CNAME .
 wa.epson.com CNAME .
 wa.lgdj.fr CNAME .
 wa1.otto.de CNAME .
 was.epson.com CNAME .
 webmetrics.avaya.com CNAME .
-webmetrics.perkinelmer.com CNAME .
-webstat.vodafone.com CNAME .
-webstats.vfsco.com CNAME .
 webstats.vodafone.com CNAME .
-ww0.tui.com CNAME .
-ww0s.1-2-fly.com CNAME .
+www1.autopartsdeal.com CNAME .
+www1.autotruckmirror.com CNAME .
+www1.nationwidebodyparts.com CNAME .
+www1.rushcarparts.com CNAME .
 www15.jtv.com CNAME .
-www16.jtv.com CNAME .
 www2.automd.com CNAME .
-www2.autopartswarehouse.com CNAME .
+www2.autopartscorner.com CNAME .
+www2.autopartsdeal.com CNAME .
+www2.canadapartsonline.com CNAME .
+www2.discountairintake.com CNAME .
 www2s.automd.com CNAME .
-www2s.autopartsworld.com CNAME .
-www2s.discountbodyparts.com CNAME .
-www2s.discountfuelsystems.com CNAME .
-www2s.local.com CNAME .
-www2s.storage.com CNAME .
-www3s.bimmerpartswholesale.com CNAME .
 zmetrics.msn.com CNAME .
 ;
 ; data.adobedc.net disguised trackers
 ;
 3m.tt.omtrdc.net CNAME .
+a-visiotouteur.bcv.tt.omtrdc.net CNAME .
 a.ipoque.com CNAME .
 aa.athome.com CNAME .
 aa.bathandbodyworks.com CNAME .
@@ -1096,6 +1115,7 @@ abcam.tt.omtrdc.net CNAME .
 abcnews.tt.omtrdc.net CNAME .
 abercrombie.tt.omtrdc.net CNAME .
 abt.nike.com CNAME .
+acadpartnershipsllc.tt.omtrdc.net CNAME .
 accenture.tt.omtrdc.net CNAME .
 accstandardbank.tt.omtrdc.net CNAME .
 activecampaign.tt.omtrdc.net CNAME .
@@ -1118,6 +1138,7 @@ adobe.tt.omtrdc.net CNAME .
 adobeanalytics.serveone.co.kr CNAME .
 adobeedge.my.gov.au CNAME .
 adobeinternalmobiles.tt.omtrdc.net CNAME .
+adobeinternalmobilesmboxedge32-alb02.tt.omtrdc.net CNAME .
 adobemarketingcloud.tt.omtrdc.net CNAME .
 adtarget.fcbarcelona.com CNAME .
 adtarget.fcbarcelona.es CNAME .
@@ -1128,27 +1149,32 @@ adtd.douglas.de CNAME .
 adtd.douglas.it CNAME .
 adtd.douglas.nl CNAME .
 adtd.douglas.pl CNAME .
+aeht.tt.omtrdc.net CNAME .
 aep-target.credit-suisse.com CNAME .
-aeroviasdelcontinent.tt.omtrdc.net CNAME .
 aetna.tt.omtrdc.net CNAME .
 aetv.tt.omtrdc.net CNAME .
 agilenttechnologies.tt.omtrdc.net CNAME .
-aida.tt.omtrdc.net CNAME .
+aglenergy.tt.omtrdc.net CNAME .
+aicpa.tt.omtrdc.net CNAME .
+aigcom.tt.omtrdc.net CNAME .
 aircanada.tt.omtrdc.net CNAME .
 ais.tt.omtrdc.net CNAME .
+akadent.tt.omtrdc.net CNAME .
 akamai.tt.omtrdc.net CNAME .
-aldisued.tt.omtrdc.net CNAME .
+akatoi.tt.omtrdc.net CNAME .
+alberto4medford.tt.omtrdc.net CNAME .
 alexadev.tt.omtrdc.net CNAME .
+alliancebernstein.tt.omtrdc.net CNAME .
 allstate.tt.omtrdc.net CNAME .
+ally.tt.omtrdc.net CNAME .
 amazonservicesllc.tt.omtrdc.net CNAME .
 amazonwebservicesinc.tt.omtrdc.net CNAME .
 americanairlines.tt.omtrdc.net CNAME .
-americaninternationa.tt.omtrdc.net CNAME .
 americansocietyofcli.tt.omtrdc.net CNAME .
 amersports.tt.omtrdc.net CNAME .
 ametrics.lumen.com CNAME .
-amica.tt.omtrdc.net CNAME .
 amplifongroup.tt.omtrdc.net CNAME .
+amsurg.tt.omtrdc.net CNAME .
 amtrakdigital.tt.omtrdc.net CNAME .
 analytics-lgs.corebridgefinancial.com CNAME .
 analytics.architectum.com CNAME .
@@ -1243,27 +1269,28 @@ analyticsresults.datev-karriereblog.de CNAME .
 analyticsresults.datev-magazin.de CNAME .
 analyticsresults.datev.de CNAME .
 analyticsresults.trialog-magazin.de CNAME .
-anaplan.tt.omtrdc.net CNAME .
 angieslist.tt.omtrdc.net CNAME .
-anntaylorinc.tt.omtrdc.net CNAME .
+annual-report-2017-2019.tt.omtrdc.net CNAME .
+anrmaps.tt.omtrdc.net CNAME .
 aol.tt.omtrdc.net CNAME .
 apollomunich.tt.omtrdc.net CNAME .
-appiancorp.tt.omtrdc.net CNAME .
-arcelikas.tt.omtrdc.net CNAME .
+appliedmaterialsinc.tt.omtrdc.net CNAME .
 arm.tt.omtrdc.net CNAME .
 as.businessinsider.de CNAME .
 as.petbook.de CNAME .
 as.wieistmeineip.de CNAME .
+asadventure.tt.omtrdc.net CNAME .
 asbbankltd.tt.omtrdc.net CNAME .
-asiainspectionltd.tt.omtrdc.net CNAME .
 asianpaints.tt.omtrdc.net CNAME .
+asurasung.tt.omtrdc.net CNAME .
 asustekcomputerinc.tt.omtrdc.net CNAME .
 at.mclaren.com CNAME .
 at.neom.com CNAME .
-at.swisscom.ch CNAME .
 atarget.adelaide.edu.au CNAME .
 atarget.harley-davidson.com CNAME .
 athenahealth.tt.omtrdc.net CNAME .
+athome.tt.omtrdc.net CNAME .
+atlantichealth.tt.omtrdc.net CNAME .
 atlascopco.tt.omtrdc.net CNAME .
 attservicesinc.tt.omtrdc.net CNAME .
 aubank.tt.omtrdc.net CNAME .
@@ -1273,110 +1300,131 @@ audience.standardchartered.com.tw CNAME .
 australianewzealandb.tt.omtrdc.net CNAME .
 autodesk.tt.omtrdc.net CNAME .
 avalara.tt.omtrdc.net CNAME .
-avanade.tt.omtrdc.net CNAME .
-aveva.tt.omtrdc.net CNAME .
+avisbudgetgroup.tt.omtrdc.net CNAME .
 avivauk.tt.omtrdc.net CNAME .
 avnet.tt.omtrdc.net CNAME .
 axisbank.tt.omtrdc.net CNAME .
-axsgroup.tt.omtrdc.net CNAME .
+azuregateway-8f2b0034-3278-4826-8cec-86da73458454-8e2e108f6a73.tt.omtrdc.net CNAME .
+azuregateway-f40e0069-801d-40d3-b794-22b078f7fa61-1c06b450e04c.tt.omtrdc.net CNAME .
 ba.tt.omtrdc.net CNAME .
+bagnatoimm-86296.tt.omtrdc.net CNAME .
 bajajallianz.tt.omtrdc.net CNAME .
 bajajfinance.tt.omtrdc.net CNAME .
 bajajfinserv.tt.omtrdc.net CNAME .
 bamtech.tt.omtrdc.net CNAME .
+bancoazteca.tt.omtrdc.net CNAME .
 bankofamerica.tt.omtrdc.net CNAME .
 bankofmontreal.tt.omtrdc.net CNAME .
+bankofqueenslandlimi.tt.omtrdc.net CNAME .
 barcalicensing.tt.omtrdc.net CNAME .
+barclaycardus.tt.omtrdc.net CNAME .
 barclaysbankplc.tt.omtrdc.net CNAME .
-bathandbody.tt.omtrdc.net CNAME .
+basfcorp.tt.omtrdc.net CNAME .
+basvuru.tt.omtrdc.net CNAME .
+bbraunmelsungenag.tt.omtrdc.net CNAME .
+bbvaargentina.tt.omtrdc.net CNAME .
 beatselectronicsllc.tt.omtrdc.net CNAME .
+bellcanada.tt.omtrdc.net CNAME .
 bennetts.tt.omtrdc.net CNAME .
 bestbuycanada.tt.omtrdc.net CNAME .
 bestwesterninternati.tt.omtrdc.net CNAME .
+bi.tt.omtrdc.net CNAME .
 biorad.tt.omtrdc.net CNAME .
 blackberrylimited.tt.omtrdc.net CNAME .
 blackrock.tt.omtrdc.net CNAME .
+blackwoods.tt.omtrdc.net CNAME .
+blueeyes.tt.omtrdc.net CNAME .
 bmwag.tt.omtrdc.net CNAME .
 bmwmini.tt.omtrdc.net CNAME .
 bmwofnorthamericallc.tt.omtrdc.net CNAME .
 bnymellon.tt.omtrdc.net CNAME .
 boardriders.tt.omtrdc.net CNAME .
+boostmobile.tt.omtrdc.net CNAME .
 bootsuk.tt.omtrdc.net CNAME .
+boozallenhamilton.tt.omtrdc.net CNAME .
 boxinc.tt.omtrdc.net CNAME .
 bridgestonetargeting.tt.omtrdc.net CNAME .
 britishskybroadcasti.tt.omtrdc.net CNAME .
-brotherinternational.tt.omtrdc.net CNAME .
 brukerbiospin.tt.omtrdc.net CNAME .
+brunswickcorporation.tt.omtrdc.net CNAME .
+bst-12a20476-5b6e-4aff-adcc-e852b1a6e1e7.tt.omtrdc.net CNAME .
+bst-6df70a3b-8f84-4cae-9d13-f9cf2ee4dfc0-0.tt.omtrdc.net CNAME .
+bst-92dc31c2-c477-42d1-9ee3-94244908d92c-0.tt.omtrdc.net CNAME .
+bst-f8c3518b-e5ee-4856-9e39-c23d6f2be4a4-1.tt.omtrdc.net CNAME .
 bt.tt.omtrdc.net CNAME .
 btbusiness.tt.omtrdc.net CNAME .
 buhlerag.tt.omtrdc.net CNAME .
-builddirect.tt.omtrdc.net CNAME .
 bupa.tt.omtrdc.net CNAME .
+bv-uat.tt.omtrdc.net CNAME .
+cablapouillehaz.tt.omtrdc.net CNAME .
 cadence.tt.omtrdc.net CNAME .
 canada.tt.omtrdc.net CNAME .
 canadapost.tt.omtrdc.net CNAME .
 canadianimperialbank.tt.omtrdc.net CNAME .
 canadiantire.tt.omtrdc.net CNAME .
 canarahsbclife.tt.omtrdc.net CNAME .
+capellauniversity.tt.omtrdc.net CNAME .
 capitalgroupcompanie.tt.omtrdc.net CNAME .
 capitaloneservices.tt.omtrdc.net CNAME .
-cardinalhealthinc.tt.omtrdc.net CNAME .
 carmax.tt.omtrdc.net CNAME .
 carnivalbrands.tt.omtrdc.net CNAME .
+carphonewarehouselim.tt.omtrdc.net CNAME .
 casiocomputer.tt.omtrdc.net CNAME .
+caterpillarsigns.tt.omtrdc.net CNAME .
 cdp.cifinancial.com CNAME .
 ceat.tt.omtrdc.net CNAME .
 cedarssinaihealthsys.tt.omtrdc.net CNAME .
 censusbureau.tt.omtrdc.net CNAME .
-centricaplc.tt.omtrdc.net CNAME .
 centurylink.tt.omtrdc.net CNAME .
+ceridianhcm.tt.omtrdc.net CNAME .
 changiairport.tt.omtrdc.net CNAME .
-charmingshoppesinter.tt.omtrdc.net CNAME .
-chartercorecable.tt.omtrdc.net CNAME .
 charteredaccountants.tt.omtrdc.net CNAME .
 choicehotels.tt.omtrdc.net CNAME .
 christianscience.tt.omtrdc.net CNAME .
 christiesinc.tt.omtrdc.net CNAME .
-chrobinson.tt.omtrdc.net CNAME .
 ciena.tt.omtrdc.net CNAME .
-cimbinvestmentbankbe.tt.omtrdc.net CNAME .
 ciscolearningnetwork.tt.omtrdc.net CNAME .
+citiaebhplgb.tt.omtrdc.net CNAME .
 citiapac.tt.omtrdc.net CNAME .
+citicorpcreditservic.tt.omtrdc.net CNAME .
+citihktw.tt.omtrdc.net CNAME .
 citiin.tt.omtrdc.net CNAME .
 citisgsgipbmy.tt.omtrdc.net CNAME .
-citizensbank.tt.omtrdc.net CNAME .
+claritydemo.manpower.com.tt.omtrdc.net CNAME .
+clickpool.tt.omtrdc.net CNAME .
 cloudera.tt.omtrdc.net CNAME .
-cocacolaco.tt.omtrdc.net CNAME .
 cognizanttarget.tt.omtrdc.net CNAME .
+coherent.tt.omtrdc.net CNAME .
 colessupermarketspty.tt.omtrdc.net CNAME .
 collect.electrix.swiss CNAME .
 collect.helsana.ch CNAME .
 collect.vans.com.cn CNAME .
-collegeboard.tt.omtrdc.net CNAME .
+colruytbusinessservi.tt.omtrdc.net CNAME .
 comcastresidentialservices.tt.omtrdc.net CNAME .
 comenityservicing.tt.omtrdc.net CNAME .
+comeresaprensasl.tt.omtrdc.net CNAME .
 commonspirit.tt.omtrdc.net CNAME .
-comparenetworks2.tt.omtrdc.net CNAME .
+commsec.tt.omtrdc.net CNAME .
+comp.terminals.narkive.com.tt.omtrdc.net CNAME .
 concurtechnologies.tt.omtrdc.net CNAME .
 constellation.tt.omtrdc.net CNAME .
 consumerinfo.tt.omtrdc.net CNAME .
 converse.tt.omtrdc.net CNAME .
 coopbank.tt.omtrdc.net CNAME .
+correos.tt.omtrdc.net CNAME .
 costco.tt.omtrdc.net CNAME .
-councilbbb.tt.omtrdc.net CNAME .
-cpf.tt.omtrdc.net CNAME .
+cpcalendars.qari.mp3quran.net.tt.omtrdc.net CNAME .
 craommunications.tt.omtrdc.net CNAME .
 creditone.tt.omtrdc.net CNAME .
+creditsafebusinessso.tt.omtrdc.net CNAME .
 cromaretail.tt.omtrdc.net CNAME .
-cssversicherung.tt.omtrdc.net CNAME .
 ctshirts.tt.omtrdc.net CNAME .
 ctwofo.tt.omtrdc.net CNAME .
 customerservice.tt.omtrdc.net CNAME .
-cvshealth.tt.omtrdc.net CNAME .
 cyberark.tt.omtrdc.net CNAME .
+d4c8006d-1865-482c-968c-5e15d4207c4c.tt.omtrdc.net CNAME .
 daimlerde.tt.omtrdc.net CNAME .
-danoneuk.tt.omtrdc.net CNAME .
-dardenrestaurants.tt.omtrdc.net CNAME .
+darktrace.tt.omtrdc.net CNAME .
 data-ssl.pnet.co.za CNAME .
 data-ssl.stepstone.be CNAME .
 data-ssl.stepstone.fr CNAME .
@@ -1420,6 +1468,7 @@ data.eca.nespresso.com CNAME .
 data.ech.nespresso.com CNAME .
 data.edm.chowtaifook.com CNAME .
 data.edm.heartsonfire.com CNAME .
+data.education.aware.com.au CNAME .
 data.efr.nespresso.com CNAME .
 data.em.ringcentral.com CNAME .
 data.em2.cloudflare.com CNAME .
@@ -1498,6 +1547,7 @@ datacom.tt.omtrdc.net CNAME .
 dayintegrationintern.tt.omtrdc.net CNAME .
 dbs.tt.omtrdc.net CNAME .
 dbsgsmc.tt.omtrdc.net CNAME .
+dbsystelentities.tt.omtrdc.net CNAME .
 dc.madridistas.com CNAME .
 dc.realmadrid.com CNAME .
 dc.realmadridnext.com CNAME .
@@ -1520,137 +1570,165 @@ dcs.esprit.hk CNAME .
 dcs.esprit.ph CNAME .
 dcs.esprit.sg CNAME .
 dcs.esprit.tw CNAME .
+ded922.hostwindsdns.com.tt.omtrdc.net CNAME .
 deere.tt.omtrdc.net CNAME .
+deka-stg.tt.omtrdc.net CNAME .
 delivery.lululemon.com CNAME .
 dellinc.tt.omtrdc.net CNAME .
 deloittetouchetohmat.tt.omtrdc.net CNAME .
 deltaairlines.tt.omtrdc.net CNAME .
 deltadentalca.tt.omtrdc.net CNAME .
+deluxecorporation.tt.omtrdc.net CNAME .
 dentsplysirona.tt.omtrdc.net CNAME .
+dev-admin-api-piemonte.tt.omtrdc.net CNAME .
 dictionarycomllc.tt.omtrdc.net CNAME .
 digicert.tt.omtrdc.net CNAME .
 directtv.tt.omtrdc.net CNAME .
 discounttireofameric.tt.omtrdc.net CNAME .
 discover.tt.omtrdc.net CNAME .
 disney.tt.omtrdc.net CNAME .
-divcom.tt.omtrdc.net CNAME .
+djoglobalinc.tt.omtrdc.net CNAME .
 dm-target.fishersci.com CNAME .
-douglasgmbh.tt.omtrdc.net CNAME .
+docker-registry-browser-prod.tt.omtrdc.net CNAME .
 dpagco.tt.omtrdc.net CNAME .
 dpcomdhl.tt.omtrdc.net CNAME .
 dpcomepost.tt.omtrdc.net CNAME .
+dpmalias.tt.omtrdc.net CNAME .
+dr1867277.tt.omtrdc.net CNAME .
+dreyers.tt.omtrdc.net CNAME .
 dropboxinc.tt.omtrdc.net CNAME .
 druva.tt.omtrdc.net CNAME .
 dsg.tt.omtrdc.net CNAME .
 dsgretaillimited.tt.omtrdc.net CNAME .
 dsmbusinessservices.tt.omtrdc.net CNAME .
-dta.tt.omtrdc.net CNAME .
 dufryinternationalag.tt.omtrdc.net CNAME .
 dupont.tt.omtrdc.net CNAME .
 dxaop.bcbsla.com CNAME .
-dxceedptrsd.tt.omtrdc.net CNAME .
-dxctechnology.tt.omtrdc.net CNAME .
 dyson.tt.omtrdc.net CNAME .
-eatonvanceinvestment.tt.omtrdc.net CNAME .
+ec.smrj.tt.omtrdc.net CNAME .
+ecstatic-goldwasser.tt.omtrdc.net CNAME .
+edb.tt.omtrdc.net CNAME .
 edelweisstokio.tt.omtrdc.net CNAME .
 edge.bigbrothercanada.ca CNAME .
+edge.hgtv.ca CNAME .
 edge.stacktv.ca CNAME .
+edge.teletoonplus.ca CNAME .
 edge.truist.com CNAME .
 edgedc.falabella.com CNAME .
 ehealthinsurance.tt.omtrdc.net CNAME .
+elal.tt.omtrdc.net CNAME .
 elsevierlimited.tt.omtrdc.net CNAME .
-empiretodayllc.tt.omtrdc.net CNAME .
 enelglobal.tt.omtrdc.net CNAME .
 enterpriseholdingsin.tt.omtrdc.net CNAME .
 environmentals.tt.omtrdc.net CNAME .
 eonline.tt.omtrdc.net CNAME .
 epson.tt.omtrdc.net CNAME .
 epsonukltd.tt.omtrdc.net CNAME .
-equinoxfitnessclubs.tt.omtrdc.net CNAME .
+ergode.tt.omtrdc.net CNAME .
 escorts.tt.omtrdc.net CNAME .
 eset.tt.omtrdc.net CNAME .
+esit2.tt.omtrdc.net CNAME .
 espndotcom.tt.omtrdc.net CNAME .
 etihadairways.tt.omtrdc.net CNAME .
+eurowingsaviationgmb.tt.omtrdc.net CNAME .
+exportdevelopmentcan.tt.omtrdc.net CNAME .
 expressllc.tt.omtrdc.net CNAME .
 f5networks.tt.omtrdc.net CNAME .
 fairfaxnz.tt.omtrdc.net CNAME .
+fairstone.tt.omtrdc.net CNAME .
+faixavermelhaapi.tt.omtrdc.net CNAME .
 fandango.tt.omtrdc.net CNAME .
 fcaemea.tt.omtrdc.net CNAME .
-fcanafta.tt.omtrdc.net CNAME .
+fe156c9c4838d832fdc7397eecbeb71c.tt.omtrdc.net CNAME .
 fedex.tt.omtrdc.net CNAME .
+feedintake.tt.omtrdc.net CNAME .
+ff562fc199c5425e942d40f686a1f320.tt.omtrdc.net CNAME .
 fgh.tt.omtrdc.net CNAME .
 fifththirdbank.tt.omtrdc.net CNAME .
-finanzen.tt.omtrdc.net CNAME .
-firstdatacorporation.tt.omtrdc.net CNAME .
+firstcitizens.tt.omtrdc.net CNAME .
+firstnationalbankofo.tt.omtrdc.net CNAME .
+firstrepublicbank.tt.omtrdc.net CNAME .
+fiservsolution.tt.omtrdc.net CNAME .
 fitbitinc.tt.omtrdc.net CNAME .
 flindersuniversity.tt.omtrdc.net CNAME .
+fmc-stj.tt.omtrdc.net CNAME .
 fmrcorp.tt.omtrdc.net CNAME .
-footlocker.tt.omtrdc.net CNAME .
+fondazionemedana.tt.omtrdc.net CNAME .
 ford.tt.omtrdc.net CNAME .
 fordapa.tt.omtrdc.net CNAME .
 fortinet.tt.omtrdc.net CNAME .
 foxnews.tt.omtrdc.net CNAME .
-foxsports.tt.omtrdc.net CNAME .
 foxtel.tt.omtrdc.net CNAME .
+frankemanagement.tt.omtrdc.net CNAME .
+freedom2.medicalguardian.tt.omtrdc.net CNAME .
 frontiercomm.tt.omtrdc.net CNAME .
-fss.tt.omtrdc.net CNAME .
 futbolclubbarcelona.tt.omtrdc.net CNAME .
 futuregenerali.tt.omtrdc.net CNAME .
-geico.tt.omtrdc.net CNAME .
+gai-vpn-1.tt.omtrdc.net CNAME .
+ganamas.tt.omtrdc.net CNAME .
+gatherinfospa-test.tt.omtrdc.net CNAME .
+gedigital.tt.omtrdc.net CNAME .
 generalgrowth.tt.omtrdc.net CNAME .
 generalmotorscorpora.tt.omtrdc.net CNAME .
-genuinepartscompany.tt.omtrdc.net CNAME .
 gepowerandwater.tt.omtrdc.net CNAME .
-gigamon.tt.omtrdc.net CNAME .
+ggnetmain.tt.omtrdc.net CNAME .
 glaxosmithklinebeech.tt.omtrdc.net CNAME .
-globetelecom.tt.omtrdc.net CNAME .
 godrejhf.tt.omtrdc.net CNAME .
+gpspreprod.tt.omtrdc.net CNAME .
+gracena.tt.omtrdc.net CNAME .
 grafana.tt.omtrdc.net CNAME .
+greatwestlife.tt.omtrdc.net CNAME .
 greendot.tt.omtrdc.net CNAME .
-grpr.tt.omtrdc.net CNAME .
+greenserver.tt.omtrdc.net CNAME .
 grundfosholdingas.tt.omtrdc.net CNAME .
-grupoboticario.tt.omtrdc.net CNAME .
-gsmosaic.tt.omtrdc.net CNAME .
+gsp48-ms12-kittyhawk-ssl.tt.omtrdc.net CNAME .
 gujarattourism.tt.omtrdc.net CNAME .
+gutterdogs.tt.omtrdc.net CNAME .
 halliburtonenergyser.tt.omtrdc.net CNAME .
 hallmarkcom.tt.omtrdc.net CNAME .
-hargreaveslansdownpl.tt.omtrdc.net CNAME .
 harrahs.tt.omtrdc.net CNAME .
 harvardbusinessrevie.tt.omtrdc.net CNAME .
+hawaiianairlines.tt.omtrdc.net CNAME .
+haylimited.tt.omtrdc.net CNAME .
 hcf.tt.omtrdc.net CNAME .
+hcsc.tt.omtrdc.net CNAME .
 hdfcbank.tt.omtrdc.net CNAME .
 hdfcfund.tt.omtrdc.net CNAME .
 hdfclife.tt.omtrdc.net CNAME .
-hdsupply.tt.omtrdc.net CNAME .
-healthengine.tt.omtrdc.net CNAME .
 heathrow.tt.omtrdc.net CNAME .
 henkel.tt.omtrdc.net CNAME .
 herbalife.tt.omtrdc.net CNAME .
-hindalco.tt.omtrdc.net CNAME .
+his.internet.users.narkive.com.tt.omtrdc.net CNAME .
 hitachi.tt.omtrdc.net CNAME .
-hkdisneyland.tt.omtrdc.net CNAME .
 homedepot.tt.omtrdc.net CNAME .
 homedepotcanada.tt.omtrdc.net CNAME .
+homedepotmx.tt.omtrdc.net CNAME .
 honeywellinternation.tt.omtrdc.net CNAME .
 housingdevelopment.tt.omtrdc.net CNAME .
 hpe.tt.omtrdc.net CNAME .
 hpww.tt.omtrdc.net CNAME .
 hrblock.tt.omtrdc.net CNAME .
+hsbcglobalcmb.tt.omtrdc.net CNAME .
 hsbcglobalcommon.tt.omtrdc.net CNAME .
-hsfaffiliatesllc.tt.omtrdc.net CNAME .
+hsbcglobalgbm.tt.omtrdc.net CNAME .
+http-inputs-ack-amplifon.tt.omtrdc.net CNAME .
 hudsonbaycompany.tt.omtrdc.net CNAME .
 hyattcorporation.tt.omtrdc.net CNAME .
 hyundaimotorcompany.tt.omtrdc.net CNAME .
+ibergest.tt.omtrdc.net CNAME .
 icicihomefinance.tt.omtrdc.net CNAME .
 iciciprulife.tt.omtrdc.net CNAME .
+iciciprulifecollegeboard.tt.omtrdc.net CNAME .
 icicisecurities.tt.omtrdc.net CNAME .
 idealindustries.tt.omtrdc.net CNAME .
 idfc.tt.omtrdc.net CNAME .
 ifb.tt.omtrdc.net CNAME .
 ihgsixcontinentshote.tt.omtrdc.net CNAME .
 iirexhibitionslimite.tt.omtrdc.net CNAME .
+illinoisdepartmentof.tt.omtrdc.net CNAME .
 illuminainc.tt.omtrdc.net CNAME .
-ilotteryillinois.tt.omtrdc.net CNAME .
+image-service-cdn.tt.omtrdc.net CNAME .
+imgorder.kfc.com.cn.tt.omtrdc.net CNAME .
 incredibleindia.tt.omtrdc.net CNAME .
 indigoaviation.tt.omtrdc.net CNAME .
 indigobooksandmusic.tt.omtrdc.net CNAME .
@@ -1660,19 +1738,26 @@ informatie.mail.nn.nl CNAME .
 infos.anzsmartchoice.com.au CNAME .
 infosyslimited.tt.omtrdc.net CNAME .
 ingrammicro.tt.omtrdc.net CNAME .
+ingspain.tt.omtrdc.net CNAME .
 insightenterprises.tt.omtrdc.net CNAME .
 insights.academy.com CNAME .
+interface.tt.omtrdc.net CNAME .
+interlinebrands.tt.omtrdc.net CNAME .
 invescogroup.tt.omtrdc.net CNAME .
 investorsbusinessdai.tt.omtrdc.net CNAME .
-itaspa.tt.omtrdc.net CNAME .
+invitrogen.tt.omtrdc.net CNAME .
+ip-172-31-12-227.tt.omtrdc.net CNAME .
+iqmetrics.handelsblatt.com CNAME .
+iseatz.tt.omtrdc.net CNAME .
+ismail-leghari.tt.omtrdc.net CNAME .
 itlicensing.tt.omtrdc.net CNAME .
 izotope.tt.omtrdc.net CNAME .
 jaguar.tt.omtrdc.net CNAME .
 japanairlinescoltd.tt.omtrdc.net CNAME .
+jcpenney.tt.omtrdc.net CNAME .
 jefferson.tt.omtrdc.net CNAME .
 jinair.sc.jinair.com CNAME .
 jll.tt.omtrdc.net CNAME .
-johnsonjohnsonconsum.tt.omtrdc.net CNAME .
 jpmcam.tt.omtrdc.net CNAME .
 jpmorganchase.tt.omtrdc.net CNAME .
 jublfood.tt.omtrdc.net CNAME .
@@ -1680,6 +1765,8 @@ junipernetworks.tt.omtrdc.net CNAME .
 jvckenwoodcorporatio.tt.omtrdc.net CNAME .
 k12.tt.omtrdc.net CNAME .
 kaiser.tt.omtrdc.net CNAME .
+kangan.tt.omtrdc.net CNAME .
+kaufland.tt.omtrdc.net CNAME .
 kdc.tt.omtrdc.net CNAME .
 kellogg.tt.omtrdc.net CNAME .
 kiamotors.tt.omtrdc.net CNAME .
@@ -1693,36 +1780,40 @@ landolakes.tt.omtrdc.net CNAME .
 landsend.tt.omtrdc.net CNAME .
 latrobe.tt.omtrdc.net CNAME .
 ldschurch.tt.omtrdc.net CNAME .
+ldtkv4l73q2r0x9z.tt.omtrdc.net CNAME .
 lebara.tt.omtrdc.net CNAME .
-lendio.tt.omtrdc.net CNAME .
+legalandgeneral.tt.omtrdc.net CNAME .
 lenovo.tt.omtrdc.net CNAME .
 levis.tt.omtrdc.net CNAME .
 lgadamericas.tt.omtrdc.net CNAME .
 lgelectronics.tt.omtrdc.net CNAME .
 lifetech.tt.omtrdc.net CNAME .
-lifetimefitness.tt.omtrdc.net CNAME .
 lifewaychristianreso.tt.omtrdc.net CNAME .
+lionbridge.tt.omtrdc.net CNAME .
+litterarium.uni-bonn.tt.omtrdc.net CNAME .
 lloydsbankinggroup.tt.omtrdc.net CNAME .
 lnkd.tt.omtrdc.net CNAME .
 loblawsinc.tt.omtrdc.net CNAME .
 logitech.tt.omtrdc.net CNAME .
 lot.tt.omtrdc.net CNAME .
-lotteshopping.tt.omtrdc.net CNAME .
 lp.b2bmail.adobe.com CNAME .
-lplfinancialllc.tt.omtrdc.net CNAME .
 lululemonusa.tt.omtrdc.net CNAME .
 macys.tt.omtrdc.net CNAME .
+makeawish.tt.omtrdc.net CNAME .
 makemytrip.tt.omtrdc.net CNAME .
 malaysiaairlines.tt.omtrdc.net CNAME .
-mammothmountainskiar.tt.omtrdc.net CNAME .
+manulifefinancial.tt.omtrdc.net CNAME .
 manyavar.tt.omtrdc.net CNAME .
 maplesoftinc.tt.omtrdc.net CNAME .
+markiso.tt.omtrdc.net CNAME .
 marksandspencer.tt.omtrdc.net CNAME .
 marriottinternationa.tt.omtrdc.net CNAME .
 marvel.tt.omtrdc.net CNAME .
 mastercard.tt.omtrdc.net CNAME .
 mazdamotorofamerica.tt.omtrdc.net CNAME .
 mboxedge.tt.omtrdc.net CNAME .
+mboxedge23centerpointenergy.tt.omtrdc.net CNAME .
+mboxedge31-alb-feedback.tt.omtrdc.net CNAME .
 mboxedge31.tt.omtrdc.net CNAME .
 mcafee12.tt.omtrdc.net CNAME .
 mcdmetrics.aaa.com CNAME .
@@ -1730,19 +1821,19 @@ mcgladrey.tt.omtrdc.net CNAME .
 mcgrawhill.tt.omtrdc.net CNAME .
 mckinseyknow.tt.omtrdc.net CNAME .
 mdanderson.tt.omtrdc.net CNAME .
-mediacorppteltd.tt.omtrdc.net CNAME .
-medtronicinc.tt.omtrdc.net CNAME .
-merative.tt.omtrdc.net CNAME .
+medibankltdau.tt.omtrdc.net CNAME .
+members.abunawaf.com.tt.omtrdc.net CNAME .
 mercedezbenzusallc.tt.omtrdc.net CNAME .
 mercer.tt.omtrdc.net CNAME .
 mercolaconsultingser.tt.omtrdc.net CNAME .
-mercyhealth.tt.omtrdc.net CNAME .
+meridianenergy.tt.omtrdc.net CNAME .
 merklemarketing.tt.omtrdc.net CNAME .
-merrillcorporation.tt.omtrdc.net CNAME .
+metdist-ltd-rdtkjwmcbr.tt.omtrdc.net CNAME .
 metlifeglobal.tt.omtrdc.net CNAME .
 metricas.agzero.com.br CNAME .
 metricas.safra.com.br CNAME .
 metricas.safrafinanceira.com.br CNAME .
+metrics-target.siriusxm.com CNAME .
 metrics.active.com.tt.omtrdc.net CNAME .
 metrics.baitoru-id.com CNAME .
 metrics.baitorupro.com CNAME .
@@ -1781,6 +1872,7 @@ metrics.egencia.nl CNAME .
 metrics.egencia.no CNAME .
 metrics.egencia.se CNAME .
 metrics.enspryng-hcp.com CNAME .
+metrics.enspryng.com CNAME .
 metrics.evrysdi.com CNAME .
 metrics.farmshopanddelishow.co.uk CNAME .
 metrics.feednavigator.com CNAME .
@@ -1788,6 +1880,7 @@ metrics.foodanddrinkexpo.co.uk CNAME .
 metrics.foodex.co.uk CNAME .
 metrics.foodmanufacture.co.uk CNAME .
 metrics.foodnavigator-asia.com CNAME .
+metrics.foodnavigator-latam.com CNAME .
 metrics.foodnavigator-usa.com CNAME .
 metrics.foodnavigator.com CNAME .
 metrics.forecourttrader.co.uk CNAME .
@@ -1840,51 +1933,68 @@ microsoftmscompoc.tt.omtrdc.net CNAME .
 milesandmore.tt.omtrdc.net CNAME .
 minitab.tt.omtrdc.net CNAME .
 mlbadvancedmedialp.tt.omtrdc.net CNAME .
-moneypensions.tt.omtrdc.net CNAME .
+molex.tt.omtrdc.net CNAME .
+mon-bks-03.tt.omtrdc.net CNAME .
 monsanto.tt.omtrdc.net CNAME .
 morganstanleyandco.tt.omtrdc.net CNAME .
 mphasislimited.tt.omtrdc.net CNAME .
 mpptarget.tt.omtrdc.net CNAME .
 ms.topschooljobs.org CNAME .
 mscdirect.tt.omtrdc.net CNAME .
+mtb.tt.omtrdc.net CNAME .
 mtvnetworks.tt.omtrdc.net CNAME .
+music.tt.omtrdc.net CNAME .
 mw.tt.omtrdc.net CNAME .
 myfamilycominc.tt.omtrdc.net CNAME .
 myglamm.tt.omtrdc.net CNAME .
+nationalbankofcanada.tt.omtrdc.net CNAME .
 navitas.tt.omtrdc.net CNAME .
 navitastarget.tt.omtrdc.net CNAME .
+navyfederalcu.tt.omtrdc.net CNAME .
 nbaprop.tt.omtrdc.net CNAME .
 ncrcorporation.tt.omtrdc.net CNAME .
 neom.tt.omtrdc.net CNAME .
 neoviafinancial.tt.omtrdc.net CNAME .
+netcentricag.tt.omtrdc.net CNAME .
+netsdenmarkas.tt.omtrdc.net CNAME .
 netspendcorp.tt.omtrdc.net CNAME .
 netsuite.tt.omtrdc.net CNAME .
+new.webmail.tt.omtrdc.net CNAME .
+newco.tt.omtrdc.net CNAME .
+newusonlyservice.tt.omtrdc.net CNAME .
 newyorklifeinsurance.tt.omtrdc.net CNAME .
 nflenterprises.tt.omtrdc.net CNAME .
 nhkworld.tt.omtrdc.net CNAME .
 ni.tt.omtrdc.net CNAME .
+nike-grace.tt.omtrdc.net CNAME .
 nintendoofamerica.tt.omtrdc.net CNAME .
 nissanheliosami.tt.omtrdc.net CNAME .
 nissanheliosjao.tt.omtrdc.net CNAME .
 nissanheliosna.tt.omtrdc.net CNAME .
+norautoshop.tt.omtrdc.net CNAME .
+northerntool.tt.omtrdc.net CNAME .
 northerntrust.tt.omtrdc.net CNAME .
-novonordisk.tt.omtrdc.net CNAME .
+nucor-convdatb8bbc4d836163f08devret.tt.omtrdc.net CNAME .
 nvidia.tt.omtrdc.net CNAME .
-octarget.tt.omtrdc.net CNAME .
+nypd8-bci.tt.omtrdc.net CNAME .
+octannerco.tt.omtrdc.net CNAME .
 odishatourismgov.tt.omtrdc.net CNAME .
-officeworks.tt.omtrdc.net CNAME .
+okrc.tt.omtrdc.net CNAME .
+olaminformation.tt.omtrdc.net CNAME .
 olamnet.tt.omtrdc.net CNAME .
 omron.tt.omtrdc.net CNAME .
 onemarketingazeu.tt.omtrdc.net CNAME .
+onemarketingazeucommonwealthbankofau.tt.omtrdc.net CNAME .
 optimisation.data.lloydsbankinggroup.com CNAME .
+optimum.tt.omtrdc.net CNAME .
 orangetheory.tt.omtrdc.net CNAME .
 origin-smetrics.go365.com CNAME .
-orvis.tt.omtrdc.net CNAME .
 osimg.discoveruniversal.com CNAME .
 osimg.halloweenhorrornights.com CNAME .
 osimg.universalorlando.com CNAME .
 osimg.universalorlandovacations.com CNAME .
 osimg.universalstudioshollywood.com CNAME .
+osimg.windsurfercrs.com CNAME .
 otb.tt.omtrdc.net CNAME .
 otr.kaspersky.ca CNAME .
 otr.kaspersky.co.jp CNAME .
@@ -1901,67 +2011,72 @@ otr.kaspersky.it CNAME .
 otr.kaspersky.nl CNAME .
 otr.kaspersky.pt CNAME .
 otr.kaspersky.se CNAME .
+overseachinesebankin.tt.omtrdc.net CNAME .
 paloaltonetworks.tt.omtrdc.net CNAME .
 panasoniccorporation.tt.omtrdc.net CNAME .
 pandasecurity.tt.omtrdc.net CNAME .
-panera.tt.omtrdc.net CNAME .
-parkerhannifin.tt.omtrdc.net CNAME .
+pbs-nets-global-prod.tt.omtrdc.net CNAME .
 pdmsmrt.buick.ca CNAME .
 pdmsmrt.cadillaccanada.ca CNAME .
 pdmsmrt.chevrolet.ca CNAME .
 pdmsmrt.gmccanada.ca CNAME .
 pentairmanagementcom.tt.omtrdc.net CNAME .
-peppermoneyltd.tt.omtrdc.net CNAME .
 philipselectronicsne.tt.omtrdc.net CNAME .
 philipslighting.tt.omtrdc.net CNAME .
-pitneybowesinc.tt.omtrdc.net CNAME .
 plantronics.tt.omtrdc.net CNAME .
+pluralsight-tr.tt.omtrdc.net CNAME .
 pluralsight.tt.omtrdc.net CNAME .
 pncnationalbank.tt.omtrdc.net CNAME .
+polaroid-grid.tt.omtrdc.net CNAME .
 potterybarn.tt.omtrdc.net CNAME .
 pradaspa.tt.omtrdc.net CNAME .
+presskit-qa.com.tt.omtrdc.net CNAME .
 prisacom.tt.omtrdc.net CNAME .
+prisma.hw.tt.omtrdc.net CNAME .
 private.roche.com CNAME .
 procore.tt.omtrdc.net CNAME .
 produban.tt.omtrdc.net CNAME .
 progrexionasginc.tt.omtrdc.net CNAME .
-proximusnv.tt.omtrdc.net CNAME .
-psbutler.tt.omtrdc.net CNAME .
+pronovias.tt.omtrdc.net CNAME .
+prudential.tt.omtrdc.net CNAME .
 purestorage.tt.omtrdc.net CNAME .
 pvhnorthamerica.tt.omtrdc.net CNAME .
 pwc.tt.omtrdc.net CNAME .
 pwcglsc.tt.omtrdc.net CNAME .
+pwcglscakamai.tt.omtrdc.net CNAME .
+qa2-aloc.tt.omtrdc.net CNAME .
 qantasairways.tt.omtrdc.net CNAME .
 qatarairways.tt.omtrdc.net CNAME .
 qualcomm.tt.omtrdc.net CNAME .
 quickenloans.tt.omtrdc.net CNAME .
 qvc.tt.omtrdc.net CNAME .
-radissonhotels.tt.omtrdc.net CNAME .
+radleyandco.tt.omtrdc.net CNAME .
 rcci.tt.omtrdc.net CNAME .
+rdpsrv-33.tt.omtrdc.net CNAME .
 recreationalequipmen.tt.omtrdc.net CNAME .
 redhat.tt.omtrdc.net CNAME .
+redtag.tt.omtrdc.net CNAME .
 reedexhibitions.tt.omtrdc.net CNAME .
 refinitiv.tt.omtrdc.net CNAME .
 registercom.tt.omtrdc.net CNAME .
 reliancecapitalasset.tt.omtrdc.net CNAME .
 reliancecorporateit.tt.omtrdc.net CNAME .
 reliantenergyretails.tt.omtrdc.net CNAME .
-reliasllc.tt.omtrdc.net CNAME .
-repsol.tt.omtrdc.net CNAME .
+renyuan.tt.omtrdc.net CNAME .
+rhpds-128188-532659cb131855d2258f0ef4990949a7-0000.tt.omtrdc.net CNAME .
 rhus.tt.omtrdc.net CNAME .
-rics.tt.omtrdc.net CNAME .
 ringcentral.tt.omtrdc.net CNAME .
 rmit.tt.omtrdc.net CNAME .
 roadrunner.tt.omtrdc.net CNAME .
 roche.tt.omtrdc.net CNAME .
-rocketsoftware.tt.omtrdc.net CNAME .
 rockwellautomation.tt.omtrdc.net CNAME .
 rogerscommunicaitonp.tt.omtrdc.net CNAME .
+rogerscommunications.tt.omtrdc.net CNAME .
 royalmailgroupltd.tt.omtrdc.net CNAME .
 royalsundaram.tt.omtrdc.net CNAME .
-rscomponentsltd.tt.omtrdc.net CNAME .
 rubrikinc.tt.omtrdc.net CNAME .
-rwhg.tt.omtrdc.net CNAME .
+runtimecollective.tt.omtrdc.net CNAME .
+ruppinerkliniken.tt.omtrdc.net CNAME .
 s.bramptonguardian.com CNAME .
 s.caledonenterprise.com CNAME .
 s.cambridgetimes.ca CNAME .
@@ -2045,11 +2160,11 @@ sadobemetrics.la-z-boy.com CNAME .
 saec-metrics.base.be CNAME .
 saec-metrics.telenet.be CNAME .
 safaricom.tt.omtrdc.net CNAME .
+safewayinc.tt.omtrdc.net CNAME .
 sagagrouplimitedsaga.tt.omtrdc.net CNAME .
 samc.frankly.ch CNAME .
 samc.swisscanto.com CNAME .
 samc.zuerilaufcup.ch CNAME .
-samsonitechina.tt.omtrdc.net CNAME .
 samsungafrica.tt.omtrdc.net CNAME .
 samsungbenelux.tt.omtrdc.net CNAME .
 samsungcanada.tt.omtrdc.net CNAME .
@@ -2084,6 +2199,7 @@ sanalytics.ksta.de CNAME .
 sanalytics.latamwbd.com CNAME .
 sanalytics.mopo.de CNAME .
 sanalytics.rundschau-online.de CNAME .
+sanalytics.safestepskids.com CNAME .
 sanalytics.smart.mercedes-benz.com CNAME .
 sanalytics.sydney.edu.au CNAME .
 sanalytics.sydneyuniversity.cn CNAME .
@@ -2111,6 +2227,7 @@ sanl.sidestepstore.de CNAME .
 sanl.sidestepstore.nl CNAME .
 sapglobalmarketingin.tt.omtrdc.net CNAME .
 sappmetrics.sprint.com CNAME .
+satarget.csu.edu.au CNAME .
 satgt.grafana.com CNAME .
 sats.spiegel.de CNAME .
 saudicommissionforto.tt.omtrdc.net CNAME .
@@ -2120,13 +2237,15 @@ sbicardspaymentservi.tt.omtrdc.net CNAME .
 sc.lombard.ie CNAME .
 scadobe.paybooc.co.kr CNAME .
 scadobe.vpay.co.kr CNAME .
-scentsy.tt.omtrdc.net CNAME .
+scanner02.tt.omtrdc.net CNAME .
+scanorama-lt.tt.omtrdc.net CNAME .
 schindler.tt.omtrdc.net CNAME .
 scholasticinc.tt.omtrdc.net CNAME .
+schwanshomeservice.tt.omtrdc.net CNAME .
+schweizerischesbb.tt.omtrdc.net CNAME .
 scmetrics.shell.com CNAME .
 scotiabank.tt.omtrdc.net CNAME .
 scottsmiraclegro.tt.omtrdc.net CNAME .
-scripps.tt.omtrdc.net CNAME .
 scsmetrics.ho-mobile.it CNAME .
 sdata.sealedair.com CNAME .
 sdata.wiley.com CNAME .
@@ -2141,6 +2260,7 @@ securedata.cru.be CNAME .
 securedata.dats24.be CNAME .
 securedata.retailpartnerscolruytgroup.be CNAME .
 securemetrics.athletawell.com CNAME .
+securemetrics.gpsuniforms.com CNAME .
 securetags.esri-portugal.pt CNAME .
 securetags.esri.ro CNAME .
 securetags.geotecnologias.com CNAME .
@@ -2153,15 +2273,18 @@ sephora.tt.omtrdc.net CNAME .
 servicenowinc.tt.omtrdc.net CNAME .
 sfirstparty.here.com CNAME .
 sfpc.changehealthcare.com CNAME .
+sharepoint.gru.tt.omtrdc.net CNAME .
 shell.tt.omtrdc.net CNAME .
 shopclues.tt.omtrdc.net CNAME .
-shopperschoice.tt.omtrdc.net CNAME .
 shqmetrics.sony.com CNAME .
 shutterflycom.tt.omtrdc.net CNAME .
-siemens.tt.omtrdc.net CNAME .
+sibconf.zd.tt.omtrdc.net CNAME .
+sicas.ikea.net CNAME .
 siliconlabs.tt.omtrdc.net CNAME .
+simpliifinancial.tt.omtrdc.net CNAME .
 sjourney.aarp.org CNAME .
-sjourney.penfed.org CNAME .
+skillsfuturesingapor.tt.omtrdc.net CNAME .
+skype.centerpointenergy.tt.omtrdc.net CNAME .
 slaunch.spectrumtherapeutics.com CNAME .
 smatning.volkswagen.se CNAME .
 smetric.efgonlineplus.de CNAME .
@@ -2219,6 +2342,7 @@ smetrics.atecsports.com CNAME .
 smetrics.atlantic.caa.ca CNAME .
 smetrics.atresmedia.com CNAME .
 smetrics.atresplayer.com CNAME .
+smetrics.audifinancialservices.nl CNAME .
 smetrics.australiancurriculum.edu.au CNAME .
 smetrics.automobilwoche.de CNAME .
 smetrics.bakerbrothersplumbing.com CNAME .
@@ -2235,6 +2359,7 @@ smetrics.bayer.com.br CNAME .
 smetrics.bayer.com.mx CNAME .
 smetrics.bayer.com.tr CNAME .
 smetrics.bayer.dz CNAME .
+smetrics.bayer.ec CNAME .
 smetrics.bayer.ma CNAME .
 smetrics.bayer.pe CNAME .
 smetrics.bayer.us CNAME .
@@ -2270,6 +2395,8 @@ smetrics.calia.com CNAME .
 smetrics.camzyos.com CNAME .
 smetrics.canosan.de CNAME .
 smetrics.caracol.com.co CNAME .
+smetrics.careaboutcushings.co.uk CNAME .
+smetrics.carrieres.pwc.fr CNAME .
 smetrics.cartoonnetwork.ca CNAME .
 smetrics.catxpert.dk CNAME .
 smetrics.ccma.cat CNAME .
@@ -2313,10 +2440,12 @@ smetrics.cultura.com CNAME .
 smetrics.cytivalifesciences.co.jp CNAME .
 smetrics.dashandstars.com CNAME .
 smetrics.davidclulow.com CNAME .
+smetrics.dcu.org CNAME .
 smetrics.dekalb.com.co CNAME .
 smetrics.dekalb.com.mx CNAME .
 smetrics.dekalbasgrowdeltapine.com CNAME .
 smetrics.dfo.com.au CNAME .
+smetrics.dha.com CNAME .
 smetrics.digicert.com CNAME .
 smetrics.discounttire.com CNAME .
 smetrics.dishwireless.com CNAME .
@@ -2332,6 +2461,7 @@ smetrics.einsure.com.au CNAME .
 smetrics.elgallomasgallo.com.gt CNAME .
 smetrics.elgallomasgallo.com.hn CNAME .
 smetrics.elgallomasgallo.com.ni CNAME .
+smetrics.eliquis.com CNAME .
 smetrics.elpais.com CNAME .
 smetrics.energia.ie CNAME .
 smetrics.energytoday.biz CNAME .
@@ -2371,6 +2501,7 @@ smetrics.francosarto.com CNAME .
 smetrics.franke.com CNAME .
 smetrics.fraport-galaxy.de CNAME .
 smetrics.fraport.com CNAME .
+smetrics.front-line.nl CNAME .
 smetrics.future.smart.com CNAME .
 smetrics.futuro.cl CNAME .
 smetrics.gaes.es CNAME .
@@ -2382,6 +2513,7 @@ smetrics.globalmedcomms.com CNAME .
 smetrics.globalnews.ca CNAME .
 smetrics.goibibo.com CNAME .
 smetrics.goindigo.in CNAME .
+smetrics.goinggoing.com CNAME .
 smetrics.goinggoinggone.com CNAME .
 smetrics.greatsouthernbank.com.au CNAME .
 smetrics.groundsguys.ca CNAME .
@@ -2399,6 +2531,7 @@ smetrics.hebprepaid.com CNAME .
 smetrics.hemapedia.jp CNAME .
 smetrics.hemlibra.com CNAME .
 smetrics.heromotocorp.com CNAME .
+smetrics.herzstolpern.de CNAME .
 smetrics.hitachi-hightech.com CNAME .
 smetrics.hks-power.co.jp CNAME .
 smetrics.homegoods.com CNAME .
@@ -2430,6 +2563,7 @@ smetrics.kioxia.com.cn CNAME .
 smetrics.kowa-h.com CNAME .
 smetrics.kpmg.com CNAME .
 smetrics.krugerseed.com CNAME .
+smetrics.kyndryl.com CNAME .
 smetrics.lakewoodchev.com CNAME .
 smetrics.landa.com CNAME .
 smetrics.landrover.com CNAME .
@@ -2461,6 +2595,7 @@ smetrics.marketing.lighting.philips.ch CNAME .
 smetrics.marketing.lighting.philips.cl CNAME .
 smetrics.marketing.lighting.philips.co.id CNAME .
 smetrics.marketing.lighting.philips.co.in CNAME .
+smetrics.marketing.lighting.philips.co.jp CNAME .
 smetrics.marketing.lighting.philips.co.kr CNAME .
 smetrics.marketing.lighting.philips.co.nz CNAME .
 smetrics.marketing.lighting.philips.co.th CNAME .
@@ -2520,6 +2655,7 @@ smetrics.minsteronline.co.uk CNAME .
 smetrics.miracle-ear.com CNAME .
 smetrics.mitrelinen.co.uk CNAME .
 smetrics.modernatx.com CNAME .
+smetrics.monaco.pwc.fr CNAME .
 smetrics.moncoeurmavie.ca CNAME .
 smetrics.mosquitojoe.com CNAME .
 smetrics.mounjaro.com CNAME .
@@ -2533,6 +2669,7 @@ smetrics.mrplumberatlanta.com CNAME .
 smetrics.mrrooter.ca CNAME .
 smetrics.mutua.es CNAME .
 smetrics.mutuactivos.com CNAME .
+smetrics.mutuateayuda.es CNAME .
 smetrics.mycontrolcard.com CNAME .
 smetrics.mydccu.com CNAME .
 smetrics.mymatrixx.com CNAME .
@@ -2648,15 +2785,18 @@ smetrics.siapnge.com CNAME .
 smetrics.sierra.com CNAME .
 smetrics.singlife.com CNAME .
 smetrics.sivasdescalzo.com CNAME .
+smetrics.skechers.co.nz CNAME .
 smetrics.skechers.com.au CNAME .
 smetrics.sky.de CNAME .
 smetrics.skyhighsecurity.com CNAME .
 smetrics.slugger.com CNAME .
 smetrics.smartcommerce.amazon.in CNAME .
 smetrics.smtb.jp CNAME .
+smetrics.societyofvaluedminds.org CNAME .
 smetrics.softwareag.com CNAME .
 smetrics.solidigm.com CNAME .
 smetrics.solidigm.de CNAME .
+smetrics.solidigmtechnology.cn CNAME .
 smetrics.solidigmtechnology.jp CNAME .
 smetrics.solidigmtechnology.kr CNAME .
 smetrics.sotyktu.com CNAME .
@@ -2710,6 +2850,7 @@ smetrics.viabcp.com CNAME .
 smetrics.viega.at CNAME .
 smetrics.viega.be CNAME .
 smetrics.viega.com CNAME .
+smetrics.viega.cz CNAME .
 smetrics.viega.de CNAME .
 smetrics.viega.it CNAME .
 smetrics.viega.lt CNAME .
@@ -2768,6 +2909,7 @@ snalytics.allianz-reiseversicherung.de CNAME .
 snalytics.allianz-travel.ch CNAME .
 snalytics.allianz-travel.com.hk CNAME .
 snalytics.allianz-voyage.fr CNAME .
+snalytics.allyz.com CNAME .
 snalytics.travelinsurance.ca CNAME .
 so.blue.ch CNAME .
 so.bluecinema.ch CNAME .
@@ -2775,6 +2917,7 @@ so.bluenews.ch CNAME .
 so.blueplus.ch CNAME .
 so.bluewin.ch CNAME .
 so.sunrise.ch CNAME .
+softwareag.tt.omtrdc.net CNAME .
 solarwinds.tt.omtrdc.net CNAME .
 somni.bell.ca CNAME .
 somni.bluebird.com CNAME .
@@ -2796,6 +2939,7 @@ somni.rocketloans.com CNAME .
 somni.rocketmoney.com CNAME .
 somni.rocketmortgage.ca CNAME .
 somni.rocketprotpo.com CNAME .
+somni.rocketsolar.com CNAME .
 somni.serve.com CNAME .
 somni.syf.com CNAME .
 somni.synchrony.com CNAME .
@@ -2805,9 +2949,9 @@ sonycorporationofame.tt.omtrdc.net CNAME .
 sonymobcomm.tt.omtrdc.net CNAME .
 soptimize.southwest.com CNAME .
 southerncaliforniaed.tt.omtrdc.net CNAME .
-southwestairlines.tt.omtrdc.net CNAME .
-spectrumenterprise.tt.omtrdc.net CNAME .
+sparknewzealandtradi.tt.omtrdc.net CNAME .
 spicejetltd.tt.omtrdc.net CNAME .
+spptpdmsalazar.tt.omtrdc.net CNAME .
 sprint.tt.omtrdc.net CNAME .
 ssa.discoveryplus.com CNAME .
 ssa.eurosport.co.uk CNAME .
@@ -2962,52 +3106,59 @@ sstats.regionalacceptance.com CNAME .
 sstats.sanmar.com CNAME .
 sstats.sheffieldfinancial.com CNAME .
 sstats.sumitomo-pharma.jp CNAME .
+sstats.truistleadershipinstitute.com CNAME .
 sstatstest.adobe.com CNAME .
 st.bahnhof.de CNAME .
 st.der-kleine-ice.de CNAME .
 st.discover-bavaria.com CNAME .
+st.entdecke-deutschland-bahn.de CNAME .
 st.fahrkartenshop2-bahn.de CNAME .
 st.iceportal.de CNAME .
 st.img-bahn.de CNAME .
 st.kielius-onlinebuchung.de CNAME .
 st.s-bahn-muenchen-magazin.de CNAME .
 st.wir-entdecken-bayern.de CNAME .
-stampscom.tt.omtrdc.net CNAME .
+stag.yves.tt.omtrdc.net CNAME .
 stanchartafrica.tt.omtrdc.net CNAME .
 stanchartindia.tt.omtrdc.net CNAME .
 stanchartsingapore.tt.omtrdc.net CNAME .
-stancharttw.tt.omtrdc.net CNAME .
+standchartbank.tt.omtrdc.net CNAME .
 staples.tt.omtrdc.net CNAME .
 starget.aircanada.com CNAME .
 starget.bitdefender.com CNAME .
 starget.collegeboard.org CNAME .
+starget.intel.co.uk CNAME .
 starget.intel.com CNAME .
 starget.intel.in CNAME .
-starget.ladbrokes.be CNAME .
 starget.mathworks.com CNAME .
 starget.morganstanley.com CNAME .
+starget.ticketsatwork.com CNAME .
+starget.westjet.com CNAME .
 starhubltd.tt.omtrdc.net CNAME .
 stat-ssl.idaten.ne.jp CNAME .
+stateofil.tt.omtrdc.net CNAME .
 stats.radley.co.uk CNAME .
 stats.radleylondon.com CNAME .
 stats.refurbished-handys.de CNAME .
 stbg.standardbank.co.za CNAME .
 stbg.standardbank.com CNAME .
 stepstone.tt.omtrdc.net CNAME .
+stericycle.tt.omtrdc.net CNAME .
 stjude.tt.omtrdc.net CNAME .
 stmicroelectronics.tt.omtrdc.net CNAME .
 strack.allianz.at CNAME .
 strack.apps.allianzworldwidecare.com CNAME .
 strack.www.allianzcare.com CNAME .
 stt.bupa.com.au CNAME .
-stt.cpaaustralia.com.au CNAME .
 stt.deakin.edu.au CNAME .
 stt.dell.com CNAME .
-stt.nvidia.com CNAME .
 stt.pluralsight.com CNAME .
 subaruofamerica.tt.omtrdc.net CNAME .
 subway2016.tt.omtrdc.net CNAME .
-suntrust.tt.omtrdc.net CNAME .
+subzeroandwolf.tt.omtrdc.net CNAME .
+suga.tt.omtrdc.net CNAME .
+suncorpmetwayltd.tt.omtrdc.net CNAME .
+sunrise.tt.omtrdc.net CNAME .
 sw88.24kitchen.bg CNAME .
 sw88.24kitchen.com.hr CNAME .
 sw88.24kitchen.com.tr CNAME .
@@ -3015,6 +3166,7 @@ sw88.24kitchen.nl CNAME .
 sw88.24kitchen.pt CNAME .
 sw88.24kitchen.rs CNAME .
 sw88.24kitchen.si CNAME .
+sw88.cinemapp.com CNAME .
 sw88.disney.com.tr CNAME .
 sw88.disneyoutlet.co.uk CNAME .
 sw88.disneytickets.co.uk CNAME .
@@ -3041,6 +3193,7 @@ sw88.nationalgeographicla.com CNAME .
 sw88.shopdisney.asia CNAME .
 swasc.thecompanystore.com CNAME .
 swebmetrics.oklahoma.gov CNAME .
+swedis.tt.omtrdc.net CNAME .
 sydneyuni.tt.omtrdc.net CNAME .
 symantec.tt.omtrdc.net CNAME .
 t.10er-tagesticket.de CNAME .
@@ -3050,44 +3203,52 @@ t.ic-ec-aufpreise-bahn.de CNAME .
 t.msz-bahn.de CNAME .
 t.rail-and-drive.de CNAME .
 t.veranstaltungsticket-bahn.de CNAME .
+t0k2.tt.omtrdc.net CNAME .
+t13.pinkvilla.tt.omtrdc.net CNAME .
+tafequeensland.tt.omtrdc.net CNAME .
 taitra.tt.omtrdc.net CNAME .
+takedapharmaceutical.tt.omtrdc.net CNAME .
 talic.tt.omtrdc.net CNAME .
-tallinksiljaoy.tt.omtrdc.net CNAME .
 target-us.samsung.com CNAME .
 target.accenture.com CNAME .
+target.alfaromeousa.com CNAME .
 target.ansys.com CNAME .
 target.auspost.com.au CNAME .
 target.bankofamerica.com CNAME .
-target.base.be CNAME .
 target.bose.com CNAME .
 target.champssports.com CNAME .
+target.changehealthcare.com CNAME .
 target.chase.com CNAME .
 target.chrysler.com CNAME .
 target.cisco.com CNAME .
+target.comdata.com CNAME .
 target.cox.com CNAME .
 target.css.ch CNAME .
 target.dodge.com CNAME .
 target.element14.com CNAME .
 target.ey.com CNAME .
+target.farnell.com CNAME .
+target.fiatusa.com CNAME .
 target.footlocker.com CNAME .
-target.footlocker.com.au CNAME .
 target.healthengine.com.au CNAME .
 target.hsn.com CNAME .
 target.jeep.com CNAME .
 target.jwatch.org CNAME .
+target.key.com CNAME .
+target.maxxia.com.au CNAME .
 target.microsoft.com CNAME .
 target.nationwide.com CNAME .
 target.nejm.org CNAME .
 target.netapp.com CNAME .
+target.nrma.com.au CNAME .
 target.pandasecurity.com CNAME .
-target.premierinn.com CNAME .
 target.publicissapient.com CNAME .
 target.ramtrucks.com CNAME .
 target.swinburne.edu.au CNAME .
 target.visitsingapore.com CNAME .
 target.walgreens.com CNAME .
-target.zeiss.com CNAME .
 targetlr.adobe.com CNAME .
+targetsecure.kohler.com CNAME .
 tataaig.tt.omtrdc.net CNAME .
 tatacapital.tt.omtrdc.net CNAME .
 tatadigital.tt.omtrdc.net CNAME .
@@ -3095,75 +3256,87 @@ tatadigitial.tt.omtrdc.net CNAME .
 tatasiaairlinesltd.tt.omtrdc.net CNAME .
 tatasteelltd.tt.omtrdc.net CNAME .
 tataunistore.tt.omtrdc.net CNAME .
-taylorsuni.tt.omtrdc.net CNAME .
 tcs.tt.omtrdc.net CNAME .
+tcsamericaspartnersa.tt.omtrdc.net CNAME .
 tdameritrade.tt.omtrdc.net CNAME .
 tdbankfinancialgroup.tt.omtrdc.net CNAME .
+teamviewergmbh.tt.omtrdc.net CNAME .
 telecomitalia.tt.omtrdc.net CNAME .
-telefonicauklimited.tt.omtrdc.net CNAME .
-telefonicavivo.tt.omtrdc.net CNAME .
 telegraphmediagroupl.tt.omtrdc.net CNAME .
 telemetry.chrobinson.com CNAME .
 telemetry.goodlifefitness.com CNAME .
 telemetry.moveworks.com CNAME .
 telemetry.navispherecarrier.com CNAME .
 telemetry.stryker.com CNAME .
+telkomsel.tt.omtrdc.net CNAME .
 telstracorporationlt.tt.omtrdc.net CNAME .
 telus.tt.omtrdc.net CNAME .
+temasekpolytechnic.tt.omtrdc.net CNAME .
+tescomobile.tt.omtrdc.net CNAME .
 tgt.maep.ibm.com CNAME .
 theamericannationalr.tt.omtrdc.net CNAME .
-thecontainerstore.tt.omtrdc.net CNAME .
+thedomain.tt.omtrdc.net CNAME .
 thedowchemicalcompan.tt.omtrdc.net CNAME .
 themathworksinc.tt.omtrdc.net CNAME .
 therandomhousegroupl.tt.omtrdc.net CNAME .
 thermofisherscientif.tt.omtrdc.net CNAME .
+thermofisherscientifweb.tt.omtrdc.net CNAME .
+thesalvationarmy.tt.omtrdc.net CNAME .
 theteachingcompanysa.tt.omtrdc.net CNAME .
 thetjxcompaniesinc.tt.omtrdc.net CNAME .
 thevanguardgroup.tt.omtrdc.net CNAME .
+thewhitecompany.tt.omtrdc.net CNAME .
 three.tt.omtrdc.net CNAME .
 tiffanyandcompany.tt.omtrdc.net CNAME .
-timeout.tt.omtrdc.net CNAME .
+tirerack.tt.omtrdc.net CNAME .
 titan.tt.omtrdc.net CNAME .
 tlcrelationshipmanag.tt.omtrdc.net CNAME .
 tmbi.tt.omtrdc.net CNAME .
 tmetrics.hdfcbank.com CNAME .
 tmetrics.webex.com CNAME .
 tmobile.tt.omtrdc.net CNAME .
+tommybahamagroupinc.tt.omtrdc.net CNAME .
 totalwine.tt.omtrdc.net CNAME .
 tourismaustralia.tt.omtrdc.net CNAME .
 tourismnz.tt.omtrdc.net CNAME .
 toyota.tt.omtrdc.net CNAME .
 toyotaeurope.tt.omtrdc.net CNAME .
+tracfonewireless.tt.omtrdc.net CNAME .
 trackingaa.hitachienergy.com CNAME .
 transunion.tt.omtrdc.net CNAME .
-transurban.tt.omtrdc.net CNAME .
 trellix.tt.omtrdc.net CNAME .
-tsbuk.tt.omtrdc.net CNAME .
-tt.rbs.co.uk CNAME .
+trex.tt.omtrdc.net CNAME .
+tst3-policyhosting.westpac.tt.omtrdc.net CNAME .
+tt.natwest.com CNAME .
 ttmetrics.jcpenney.com CNAME .
 tuiukltd.tt.omtrdc.net CNAME .
 twcroadrunner.tt.omtrdc.net CNAME .
+twentyfourhour.tt.omtrdc.net CNAME .
+twijtvliet.tt.omtrdc.net CNAME .
 twitterinc.tt.omtrdc.net CNAME .
 ubm.tt.omtrdc.net CNAME .
+uclfantasy.uefa.com.tt.omtrdc.net CNAME .
 ufsat.tt.omtrdc.net CNAME .
 ultratechcementlimit.tt.omtrdc.net CNAME .
+umrbts.biz.tt.omtrdc.net CNAME .
+umuc.tt.omtrdc.net CNAME .
 underarmour.tt.omtrdc.net CNAME .
+unicreditgroup.tt.omtrdc.net CNAME .
 unilever.tt.omtrdc.net CNAME .
 unileverapac.tt.omtrdc.net CNAME .
-unileverlatam.tt.omtrdc.net CNAME .
 unileverna.tt.omtrdc.net CNAME .
 united.tt.omtrdc.net CNAME .
 unitedhealthcareserv.tt.omtrdc.net CNAME .
 unitedhealthgroup.tt.omtrdc.net CNAME .
-unitedsuperptyltd.tt.omtrdc.net CNAME .
-universityofcanberra.tt.omtrdc.net CNAME .
 universityofnewsouth.tt.omtrdc.net CNAME .
 ups.tt.omtrdc.net CNAME .
 usbank.tt.omtrdc.net CNAME .
-uscellular.tt.omtrdc.net CNAME .
+usermboxedge36-alb02.tt.omtrdc.net CNAME .
 usertesting.tt.omtrdc.net CNAME .
 ustglobal.tt.omtrdc.net CNAME .
 valentino.tt.omtrdc.net CNAME .
+ventotrans.tt.omtrdc.net CNAME .
+venturermisuat.thehartford.tt.omtrdc.net CNAME .
 verily.tt.omtrdc.net CNAME .
 veritastechnologiesl.tt.omtrdc.net CNAME .
 verizonenterprisesol.tt.omtrdc.net CNAME .
@@ -3171,26 +3344,28 @@ verizontelecom.tt.omtrdc.net CNAME .
 verizonwireless.tt.omtrdc.net CNAME .
 versacespa.tt.omtrdc.net CNAME .
 vestas.tt.omtrdc.net CNAME .
-vineyardvines.tt.omtrdc.net CNAME .
+viasat.tt.omtrdc.net CNAME .
+virginaustralia.tt.omtrdc.net CNAME .
 virginmobilecanada.tt.omtrdc.net CNAME .
 virtualintruments.tt.omtrdc.net CNAME .
 virtusacorp.tt.omtrdc.net CNAME .
+virtusflow.tt.omtrdc.net CNAME .
 visitqatar.tt.omtrdc.net CNAME .
-vizio.tt.omtrdc.net CNAME .
 vmware.tt.omtrdc.net CNAME .
 vodafonegreece.tt.omtrdc.net CNAME .
+vodafonehu.tt.omtrdc.net CNAME .
 vodafoneirl.tt.omtrdc.net CNAME .
 vodafoneqa.tt.omtrdc.net CNAME .
 vodafoneuk.tt.omtrdc.net CNAME .
 volkswagenag.tt.omtrdc.net CNAME .
 volvo.tt.omtrdc.net CNAME .
 vonagemarketingllc.tt.omtrdc.net CNAME .
-vudu.tt.omtrdc.net CNAME .
 wa.ncr.com CNAME .
 wa.nxp.com CNAME .
 walgreenco.tt.omtrdc.net CNAME .
 walmartisd.tt.omtrdc.net CNAME .
 wass.spglobal.com CNAME .
+waterscorporation.tt.omtrdc.net CNAME .
 wbg.tt.omtrdc.net CNAME .
 webanalytics.astrogaming.com CNAME .
 webanalytics.logicool.co.jp CNAME .
@@ -3199,36 +3374,46 @@ webanalytics.logitech.com.cn CNAME .
 webanalytics.logitechg.com CNAME .
 webanalytics.logitechg.com.cn CNAME .
 webmdcom.tt.omtrdc.net CNAME .
+webmotors.tt.omtrdc.net CNAME .
+webook.tt.omtrdc.net CNAME .
 webtarget.logitech.com CNAME .
 webtarget.logitechg.com CNAME .
+wellpoint.tt.omtrdc.net CNAME .
 westerndigital.tt.omtrdc.net CNAME .
 westernsydneyuni.tt.omtrdc.net CNAME .
-westgateresorts.tt.omtrdc.net CNAME .
-westjet.tt.omtrdc.net CNAME .
+westjet-board.tt.omtrdc.net CNAME .
 westpacnewzealand.tt.omtrdc.net CNAME .
 westservicesfindlaw.tt.omtrdc.net CNAME .
 westservicesinc.tt.omtrdc.net CNAME .
 wgu.tt.omtrdc.net CNAME .
-wheelpros.tt.omtrdc.net CNAME .
 whirlpool.tt.omtrdc.net CNAME .
 whirlpoolindia.tt.omtrdc.net CNAME .
+wienerbergerag.tt.omtrdc.net CNAME .
 wildlifereservessing.tt.omtrdc.net CNAME .
 wileypublishing.tt.omtrdc.net CNAME .
+wipcseworker.tt.omtrdc.net CNAME .
 wiprolimited.tt.omtrdc.net CNAME .
+wmo8m77pyov8k5l6.tt.omtrdc.net CNAME .
+wolterskluwermedical.tt.omtrdc.net CNAME .
+woolworthsfoodgroup.tt.omtrdc.net CNAME .
 workday.tt.omtrdc.net CNAME .
 worldbank.tt.omtrdc.net CNAME .
+worldlinesa.tt.omtrdc.net CNAME .
 worldmtcs.nhk.jp CNAME .
-wowcherlimited.tt.omtrdc.net CNAME .
 wrenchgroup.tt.omtrdc.net CNAME .
 wwgraingerinc.tt.omtrdc.net CNAME .
 wwservices.tt.omtrdc.net CNAME .
-www15.jedora.com CNAME .
+www-srv04.hcmr.tt.omtrdc.net CNAME .
+www-staging.tt.omtrdc.net CNAME .
+www-svn-mimosa.tt.omtrdc.net CNAME .
+www.dsbricklaying.tt.omtrdc.net CNAME .
+www.inventarier.tt.omtrdc.net CNAME .
+www.iri.uni.tt.omtrdc.net CNAME .
+www.loanforall.tt.omtrdc.net CNAME .
 wyndhamhotelgroup.tt.omtrdc.net CNAME .
 xerolimited.tt.omtrdc.net CNAME .
 yesbank.tt.omtrdc.net CNAME .
-yonseiuniversity.tt.omtrdc.net CNAME .
-yorkshirebuildingsoc.tt.omtrdc.net CNAME .
-zooplus.tt.omtrdc.net CNAME .
+zimmerbiomet.tt.omtrdc.net CNAME .
 zsassociatesindiapvt.tt.omtrdc.net CNAME .
 zurichversicherungs.tt.omtrdc.net CNAME .
 ;
@@ -3305,6 +3490,7 @@ aa.neom.com CNAME .
 aa.paramountplus.com CNAME .
 aa.reebok.com CNAME .
 aa.sparebank1.no CNAME .
+aa.tallink.com CNAME .
 aa.tescomobile.com CNAME .
 aa.thedoctorstv.com CNAME .
 aa.tv.com CNAME .
@@ -3748,6 +3934,7 @@ hub.firestonecompleteautocare.com CNAME .
 hubmetric.samsclub.com CNAME .
 hubmetrics.samsclub.com CNAME .
 i.americanblinds.com CNAME .
+icas.ikea.com CNAME .
 icas.ikea.net CNAME .
 ig.ig.com CNAME .
 ig.ig.ig.com CNAME .
@@ -3770,6 +3957,7 @@ infos.vodafone.com.au CNAME .
 jpaatr.astellas.jp CNAME .
 lewis.gct.com CNAME .
 lp.demo2.demoamericas275.adobe.com CNAME .
+lp.demo9.demoamericas275.adobe.com CNAME .
 lp.dmillersb.journeyusshared.adobe.com CNAME .
 lp.go2.ringcentral.com CNAME .
 lp.hol8.demoamericas275.adobe.com CNAME .
@@ -3786,6 +3974,7 @@ mdws.belgianalliancecu.mb.ca CNAME .
 mdws.estoniancu.com CNAME .
 mdws.hmecu.com CNAME .
 mdws.kindredcu.com CNAME .
+mdws.leroycu.ca CNAME .
 mdws.mcccu.com CNAME .
 mdws.noventis.ca CNAME .
 mdws.portagecu.mb.ca CNAME .
@@ -3839,6 +4028,7 @@ metrics.abbott CNAME .
 metrics.abercrombie.com CNAME .
 metrics.acbj.com CNAME .
 metrics.actemra.com CNAME .
+metrics.activecommunities.com CNAME .
 metrics.adacreisen.de CNAME .
 metrics.adage.com CNAME .
 metrics.adelaidenow.com.au CNAME .
@@ -3914,10 +4104,12 @@ metrics.cdiscount.com CNAME .
 metrics.cellcept.com CNAME .
 metrics.chapters.indigo.ca CNAME .
 metrics.charter.com CNAME .
+metrics.christies.com CNAME .
 metrics.chrysler.com CNAME .
 metrics.coalesse.com CNAME .
 metrics.comcast.com CNAME .
 metrics.comenity.net CNAME .
+metrics.commonclaimsmistakesvideo.com CNAME .
 metrics.comparethemarket.com CNAME .
 metrics.concierto.cl CNAME .
 metrics.consumerreports.org CNAME .
@@ -3974,6 +4166,7 @@ metrics.fcbarcelona.co.de CNAME .
 metrics.fedex.com CNAME .
 metrics.feedstuffs.com CNAME .
 metrics.fifa.com CNAME .
+metrics.filemaker.com CNAME .
 metrics.finn.no CNAME .
 metrics.fnac.pt CNAME .
 metrics.folksam.se CNAME .
@@ -3987,9 +4180,11 @@ metrics.fressnapf.at CNAME .
 metrics.fressnapf.de CNAME .
 metrics.futuro.cl CNAME .
 metrics.gap.eu CNAME .
+metrics.gapcanada.ca CNAME .
 metrics.gazyva.com CNAME .
 metrics.gcimetrics.com CNAME .
 metrics.geelongadvertiser.com.au CNAME .
+metrics.genentech-forum.com CNAME .
 metrics.genoapay.com CNAME .
 metrics.gio.com.au CNAME .
 metrics.global.nba.com CNAME .
@@ -4001,12 +4196,14 @@ metrics.gq.com.au CNAME .
 metrics.groupama.fr CNAME .
 metrics.hatarako.net CNAME .
 metrics.hbr.org CNAME .
+metrics.hbs.edu CNAME .
 metrics.helvetia.com CNAME .
 metrics.her2treatment.com CNAME .
 metrics.heraldsun.com.au CNAME .
 metrics.herbalife.com CNAME .
 metrics.herceptin.com CNAME .
 metrics.herceptinhylecta.com CNAME .
+metrics.hfma.org CNAME .
 metrics.hollisterco.cn CNAME .
 metrics.hollisterco.com CNAME .
 metrics.homes.com CNAME .
@@ -4054,6 +4251,7 @@ metrics.latitudefinancial.com CNAME .
 metrics.lexus.com CNAME .
 metrics.lifetime.life CNAME .
 metrics.lolesports.com CNAME .
+metrics.lucentis.com CNAME .
 metrics.lululemon.co.uk CNAME .
 metrics.lululemon.com CNAME .
 metrics.lululemon.com.au CNAME .
@@ -4062,12 +4260,14 @@ metrics.macquarie.com.au CNAME .
 metrics.makemytrip.com CNAME .
 metrics.manheim.com CNAME .
 metrics.marksandspencer.com CNAME .
+metrics.marksandspencer.eu CNAME .
 metrics.marriott.com CNAME .
 metrics.matchesfashion.com CNAME .
 metrics.mathworks.com CNAME .
 metrics.matlab.com CNAME .
 metrics.maxizoo.pl CNAME .
 metrics.mcafee.com CNAME .
+metrics.medical.roche.de CNAME .
 metrics.mei.co.jp CNAME .
 metrics.meiers-weltreisen.de CNAME .
 metrics.mein-dertour.de CNAME .
@@ -4100,6 +4300,7 @@ metrics.newscorpaustralia.com CNAME .
 metrics.nexmo.com CNAME .
 metrics.nfl.com CNAME .
 metrics.nfm.com CNAME .
+metrics.nfpa.org CNAME .
 metrics.nissan-uefa-champions-league.com CNAME .
 metrics.nissan.es CNAME .
 metrics.nissan.lt CNAME .
@@ -4114,8 +4315,10 @@ metrics.nyandcompany.com CNAME .
 metrics.nykredit.dk CNAME .
 metrics.o2online.de CNAME .
 metrics.octanner.com CNAME .
+metrics.opensource.com CNAME .
 metrics.optum.com CNAME .
 metrics.ovid.com CNAME .
+metrics.panasonic.jp CNAME .
 metrics.parcelforce.com CNAME .
 metrics.penny-reisen.de CNAME .
 metrics.pennymacusa.com CNAME .
@@ -4150,12 +4353,15 @@ metrics.rewe-reisen.de CNAME .
 metrics.rewe.de CNAME .
 metrics.ripleys.com CNAME .
 metrics.rituxan.com CNAME .
+metrics.rituxanforgpampa-hcp.com CNAME .
 metrics.rituxanforra.com CNAME .
+metrics.robeco.com CNAME .
 metrics.rockandpop.cl CNAME .
 metrics.rolex.com CNAME .
 metrics.roxypalace.com CNAME .
 metrics.royalcaribbean.com CNAME .
 metrics.royalmail.com CNAME .
+metrics.rozlytrek.com CNAME .
 metrics.samsclub.com CNAME .
 metrics.sasktel.com CNAME .
 metrics.sbs.com.au CNAME .
@@ -4181,8 +4387,10 @@ metrics.staplesadvantage.com CNAME .
 metrics.statefarm.com CNAME .
 metrics.statnews.com CNAME .
 metrics.steelcase.com CNAME .
+metrics.strokeawareness.com CNAME .
 metrics.sunlife.com CNAME .
 metrics.supercuts.com CNAME .
+metrics.superiorhealthplan.com CNAME .
 metrics.suunto.com CNAME .
 metrics.svd.se CNAME .
 metrics.swinburne.edu.au CNAME .
@@ -4211,6 +4419,7 @@ metrics.thinkgeek.com CNAME .
 metrics.three.co.uk CNAME .
 metrics.three.ie CNAME .
 metrics.thrivent.com CNAME .
+metrics.tiaa-cref.org CNAME .
 metrics.tiaa.org CNAME .
 metrics.tienda.telcel.com CNAME .
 metrics.tim.it CNAME .
@@ -4227,6 +4436,7 @@ metrics.traderonline.com CNAME .
 metrics.trailer-bodybuilders.com CNAME .
 metrics.travelmoneyonline.co.uk CNAME .
 metrics.trellix.com CNAME .
+metrics.trendmicro.com CNAME .
 metrics.trendyol.com CNAME .
 metrics.tv2.dk CNAME .
 metrics.tyson.com CNAME .
@@ -4283,15 +4493,19 @@ mtrs.fluor.com CNAME .
 mtx.godo.com.au CNAME .
 mtx.lastminute.com.au CNAME .
 mtx.travel.com.au CNAME .
+my.iheart.com CNAME .
 n.stcatharinesstandard.ca CNAME .
+n.toyotafinancial.com CNAME .
 nats.xing.com CNAME .
 natsp.xing.com CNAME .
 nmetrics.samsung.com CNAME .
 nom.lds.org CNAME .
+nossl.bobcat.com CNAME .
 nsc.adambank.com CNAME .
 nsc.coutts.com CNAME .
 nsc.natwest.com CNAME .
 nsc.natwestgroupremembers.com CNAME .
+nscmetrics.shell.com CNAME .
 nsm.dell.com CNAME .
 nsmetrics.ni.com CNAME .
 nsswmetrics.omanair.com CNAME .
@@ -4340,12 +4554,14 @@ omni.rei.com CNAME .
 omni.serve.com CNAME .
 omni.sky.de CNAME .
 omni.superonline.net CNAME .
+omni.synchronybank.com CNAME .
 omni.tourisminvestment.com.au CNAME .
 omnifpcs.devry.edu CNAME .
 omnis.basspro.com CNAME .
 omnistats.jetblue.com CNAME .
 omniture-dc-sec.cadence.com CNAME .
 omniture-ssl.direct.asda.com CNAME .
+omniture-ssl.groceries.asda.com CNAME .
 omniture-ssl.kia.com CNAME .
 omniture-ssl.wal-mart.com CNAME .
 omniture-ssl.walmart.ca CNAME .
@@ -4400,6 +4616,8 @@ oms1.sportsnet.ca CNAME .
 omt.honda.com CNAME .
 omtr1.partners.salesforce.com CNAME .
 omtr2.partners.salesforce.com CNAME .
+omtrdc.jobsdb.com CNAME .
+omtrdc.jobstreet.com CNAME .
 os.fandango.com CNAME .
 os.shutterfly.com CNAME .
 osimg.nbcuni.com CNAME .
@@ -4458,6 +4676,7 @@ sa.asianfoodnetwork.com CNAME .
 sa.discovery.com CNAME .
 sa.diynetwork.com CNAME .
 sa.dyson.no CNAME .
+sa.eurosport.com CNAME .
 sa.foodnetwork.com CNAME .
 sa.hgtv.com CNAME .
 sa.scrippsnetworksinteractive.com CNAME .
@@ -4542,6 +4761,7 @@ sadbmetrics.eldiariomontanes.es CNAME .
 sadbmetrics.elnervion.com CNAME .
 sadbmetrics.elnortedecastilla.es CNAME .
 sadbmetrics.estiloydecoracion.es CNAME .
+sadbmetrics.gipuzkoademoda.com CNAME .
 sadbmetrics.granadablogs.com CNAME .
 sadbmetrics.habitatsoft.com CNAME .
 sadbmetrics.hoy.es CNAME .
@@ -4606,6 +4826,7 @@ sams.manager-magazin.de CNAME .
 sams.spiegel.de CNAME .
 sanalytics.bakerfurniture.com CNAME .
 sanalytics.boing.es CNAME .
+sanalytics.boingtv.fr CNAME .
 sanalytics.boingtv.it CNAME .
 sanalytics.boomerang-tv.hu CNAME .
 sanalytics.boomerang-tv.ro CNAME .
@@ -4827,12 +5048,14 @@ securemetrics.nbnco.com.au CNAME .
 securetags.aeroterra.com CNAME .
 securetags.esri.ca CNAME .
 securetags.esri.ch CNAME .
+securetags.esri.cl CNAME .
 securetags.esri.co CNAME .
 securetags.esri.com CNAME .
 securetags.esri.com.tr CNAME .
 securetags.esri.de CNAME .
 securetags.esri.in CNAME .
 securetags.esri.nl CNAME .
+securetags.esri.se CNAME .
 securetags.esriuk.com CNAME .
 securetags.img.com.br CNAME .
 securetags.sigsa.info CNAME .
@@ -4901,6 +5124,7 @@ smetrics-ieeexplore.ieee.org CNAME .
 smetrics.1005freshradio.ca CNAME .
 smetrics.1011bigfm.com CNAME .
 smetrics.1031freshradio.ca CNAME .
+smetrics.1043freshradio.ca CNAME .
 smetrics.1075daverocks.com CNAME .
 smetrics.10play.com.au CNAME .
 smetrics.1800contacts.com CNAME .
@@ -4968,6 +5192,7 @@ smetrics.americanagriculturist.com CNAME .
 smetrics.americanairlines.cl CNAME .
 smetrics.americanairlines.co.cr CNAME .
 smetrics.americancentury.com CNAME .
+smetrics.americancityandcounty.com CNAME .
 smetrics.amfam.com CNAME .
 smetrics.amgfunds.com CNAME .
 smetrics.amica.com CNAME .
@@ -4985,6 +5210,7 @@ smetrics.anwagolf.com CNAME .
 smetrics.apps.ge.com CNAME .
 smetrics.arcobusinesssolutions.com CNAME .
 smetrics.argenta.be CNAME .
+smetrics.argenta.eu CNAME .
 smetrics.argos.co.uk CNAME .
 smetrics.argos.ie CNAME .
 smetrics.arhealthwellness.com CNAME .
@@ -5115,6 +5341,7 @@ smetrics.casio.com CNAME .
 smetrics.casio.com.tw CNAME .
 smetrics.casio.info CNAME .
 smetrics.casio.jp CNAME .
+smetrics.cast.r-agent.com CNAME .
 smetrics.catalog.usmint.gov CNAME .
 smetrics.cathflo.com CNAME .
 smetrics.cbn.com CNAME .
@@ -5252,6 +5479,7 @@ smetrics.enterprisersproject.com CNAME .
 smetrics.enterprisesurveys.org CNAME .
 smetrics.equipmentwatch.com CNAME .
 smetrics.equitable.com CNAME .
+smetrics.ernestjones.co.uk CNAME .
 smetrics.etcanada.com CNAME .
 smetrics.etihad.com CNAME .
 smetrics.etihadaviationgroup.com CNAME .
@@ -5280,6 +5508,7 @@ smetrics.fcbarcelona.com CNAME .
 smetrics.fcbarcelona.es CNAME .
 smetrics.fcbarcelona.fr CNAME .
 smetrics.fcbarcelona.jp CNAME .
+smetrics.fcbrookies.cat CNAME .
 smetrics.fedex.com CNAME .
 smetrics.fieldandstreamshop.com CNAME .
 smetrics.fifa.com CNAME .
@@ -5317,6 +5546,7 @@ smetrics.gcimetrics.com CNAME .
 smetrics.gehealthcare.com CNAME .
 smetrics.gemfinance.co.nz CNAME .
 smetrics.gemvisa.com.au CNAME .
+smetrics.genentech-access.com CNAME .
 smetrics.genoapay.com CNAME .
 smetrics.getauto.com CNAME .
 smetrics.gettington.com CNAME .
@@ -5335,6 +5565,7 @@ smetrics.greenflag.com CNAME .
 smetrics.grosvenorcasinos.com CNAME .
 smetrics.grundfos.com CNAME .
 smetrics.gsfresh.com CNAME .
+smetrics.gshock.com CNAME .
 smetrics.gsretail.com CNAME .
 smetrics.guess.eu CNAME .
 smetrics.guhl.com CNAME .
@@ -5357,12 +5588,14 @@ smetrics.helvetia.com CNAME .
 smetrics.henkivakuutuskuntoon.fi CNAME .
 smetrics.herbalife.com CNAME .
 smetrics.herceptinhylecta.com CNAME .
+smetrics.hfma.org CNAME .
 smetrics.hibiyakadan.com CNAME .
 smetrics.higheroneaccount.com CNAME .
 smetrics.history.ca CNAME .
 smetrics.hitachivantara.com CNAME .
 smetrics.hoken.zexy.net CNAME .
 smetrics.hollandamerica.com CNAME .
+smetrics.hollisterco.cn CNAME .
 smetrics.hollisterco.com CNAME .
 smetrics.home.kpmg CNAME .
 smetrics.homeadvisor.com CNAME .
@@ -5396,6 +5629,7 @@ smetrics.insight.com CNAME .
 smetrics.insurancesaver.com CNAME .
 smetrics.insuremyride.com.au CNAME .
 smetrics.insurewithaudi.co.uk CNAME .
+smetrics.insurewithseat.co.uk CNAME .
 smetrics.insurewithskoda.co.uk CNAME .
 smetrics.insurewithvolkswagen.co.uk CNAME .
 smetrics.intact.ca CNAME .
@@ -5458,6 +5692,7 @@ smetrics.kenwood.com CNAME .
 smetrics.keysight.com CNAME .
 smetrics.klikklan.no CNAME .
 smetrics.kmshair.com CNAME .
+smetrics.kone.ae CNAME .
 smetrics.kone.bg CNAME .
 smetrics.kone.co.id CNAME .
 smetrics.kone.com CNAME .
@@ -5602,6 +5837,7 @@ smetrics.nascar.com CNAME .
 smetrics.nationalhogfarmer.com CNAME .
 smetrics.nationaltrust.org.uk CNAME .
 smetrics.nationwide.co.uk CNAME .
+smetrics.nebraskatotalcare.com CNAME .
 smetrics.nesn.com CNAME .
 smetrics.nestle.fr CNAME .
 smetrics.newark.com CNAME .
@@ -5644,6 +5880,7 @@ smetrics.orlandofuntickets.com CNAME .
 smetrics.oxfam.org.uk CNAME .
 smetrics.packersproshop.com CNAME .
 smetrics.pacsun.com CNAME .
+smetrics.panasonic.biz CNAME .
 smetrics.panasonic.jp CNAME .
 smetrics.panasonic.net CNAME .
 smetrics.pandora.net CNAME .
@@ -5694,6 +5931,7 @@ smetrics.provigo.ca CNAME .
 smetrics.provincial.com CNAME .
 smetrics.proximus.be CNAME .
 smetrics.pshpgeorgia.com CNAME .
+smetrics.pulmozyme.com CNAME .
 smetrics.pulte.com CNAME .
 smetrics.puma.com CNAME .
 smetrics.purchase.vwdriveeasy.com CNAME .
@@ -5736,6 +5974,8 @@ smetrics.resortdeveloper.com CNAME .
 smetrics.restaurant.com CNAME .
 smetrics.rimac.com CNAME .
 smetrics.riteaid.com CNAME .
+smetrics.rituxanforgpampa-hcp.com CNAME .
+smetrics.rituxanforpv.com CNAME .
 smetrics.rituxanhycela.com CNAME .
 smetrics.rlicorp.com CNAME .
 smetrics.robeco.com CNAME .
@@ -5754,13 +5994,16 @@ smetrics.rtl.nl CNAME .
 smetrics.rubbernews.com CNAME .
 smetrics.runbabyrun.fr CNAME .
 smetrics.sainsburysbank.co.uk CNAME .
+smetrics.saks.com CNAME .
 smetrics.saksoff5th.com CNAME .
 smetrics.salliemae.com CNAME .
 smetrics.salomon.com CNAME .
 smetrics.samsung.com CNAME .
+smetrics.samsunglife.com CNAME .
 smetrics.sandbox.ford.com CNAME .
 smetrics.santander.co.uk CNAME .
 smetrics.sap.com CNAME .
+smetrics.saseurobonusmastercard.dk CNAME .
 smetrics.saseurobonusmastercard.no CNAME .
 smetrics.saseurobonusmastercard.se CNAME .
 smetrics.sasktel.com CNAME .
@@ -5787,6 +6030,7 @@ smetrics.seat.co.uk CNAME .
 smetrics.seat.com CNAME .
 smetrics.seat.de CNAME .
 smetrics.seat.es CNAME .
+smetrics.seat.fi CNAME .
 smetrics.seat.fr CNAME .
 smetrics.seat.ie CNAME .
 smetrics.seat.mx CNAME .
@@ -5827,6 +6071,7 @@ smetrics.siriusxm.ca CNAME .
 smetrics.siriusxm.com CNAME .
 smetrics.sisal.it CNAME .
 smetrics.sj.se CNAME .
+smetrics.skandia.se CNAME .
 smetrics.skiphop.com CNAME .
 smetrics.skipton.co.uk CNAME .
 smetrics.sky.com CNAME .
@@ -5867,6 +6112,7 @@ smetrics.spdt.r-agent.com CNAME .
 smetrics.speedousa.com CNAME .
 smetrics.spela.svenskaspel.se CNAME .
 smetrics.spendwise.no CNAME .
+smetrics.spendwise.se CNAME .
 smetrics.srpnet.com CNAME .
 smetrics.staples.com CNAME .
 smetrics.staplesadvantage.com CNAME .
@@ -5894,6 +6140,7 @@ smetrics.sunlifeglobalinvestments.com CNAME .
 smetrics.sunshinehealth.com CNAME .
 smetrics.superiorhealthplan.com CNAME .
 smetrics.suppliesguys.com CNAME .
+smetrics.sustainableplastics.com CNAME .
 smetrics.suunto.com CNAME .
 smetrics.swinburne.edu.au CNAME .
 smetrics.sympany.ch CNAME .
@@ -5913,6 +6160,7 @@ smetrics.taylormadegolf.com CNAME .
 smetrics.tcs.com CNAME .
 smetrics.tdworld.com CNAME .
 smetrics.te.com CNAME .
+smetrics.tecentriq.com CNAME .
 smetrics.tecoloco.com CNAME .
 smetrics.tedbaker.com CNAME .
 smetrics.telegraph.co.uk CNAME .
@@ -5935,6 +6183,7 @@ smetrics.thewhitecompany.com CNAME .
 smetrics.thewolf.ca CNAME .
 smetrics.thingspeak.com CNAME .
 smetrics.thinkgeek.com CNAME .
+smetrics.thorn.no CNAME .
 smetrics.thorn.se CNAME .
 smetrics.three.co.uk CNAME .
 smetrics.three.ie CNAME .
@@ -6004,6 +6253,7 @@ smetrics.vero.com.au CNAME .
 smetrics.viasat.com CNAME .
 smetrics.viceroyhotelsandresorts.com CNAME .
 smetrics.viewtabi.jp CNAME .
+smetrics.viigalan.se CNAME .
 smetrics.virginatlantic.com CNAME .
 smetrics.virginaustralia.com CNAME .
 smetrics.virginmediabusiness.co.uk CNAME .
@@ -6057,6 +6307,7 @@ smetrics.winfieldunited.com CNAME .
 smetrics.wmg.com CNAME .
 smetrics.wnetwork.com CNAME .
 smetrics.womensecret.com CNAME .
+smetrics.workfront.com CNAME .
 smetrics.workingadvantage.com CNAME .
 smetrics.worldbank.org CNAME .
 smetrics.worldbankgroup.org CNAME .
@@ -6148,6 +6399,7 @@ somni.playdium.com CNAME .
 somni.quickenloans.com CNAME .
 somni.rei.com CNAME .
 somni.rockethomes.com CNAME .
+somni.rockethq.com CNAME .
 somni.rocketmortgage.com CNAME .
 somni.sbicard.com CNAME .
 somni.sbimobility.com CNAME .
@@ -6226,8 +6478,10 @@ srepdata.muskego-newberlinnow.com CNAME .
 srepdata.newarkadvocate.com CNAME .
 srepdata.news-leader.com CNAME .
 srepdata.news-press.com CNAME .
+srepdata.news-star.com CNAME .
 srepdata.portclintonnewsherald.com CNAME .
 srepdata.pressconnects.com CNAME .
+srepdata.redding.com CNAME .
 srepdata.reporternews.com CNAME .
 srepdata.sctimes.com CNAME .
 srepdata.sheboyganpress.com CNAME .
@@ -6447,13 +6701,12 @@ stat-ssl.kakakumag.com CNAME .
 stat-ssl.kinarino-mall.jp CNAME .
 stat-ssl.kyujinbox.com CNAME .
 stat-ssl.osorezone.com CNAME .
+stat-ssl.screeningmaster.jp CNAME .
 stat-ssl.tabelog-takeout.com CNAME .
 stat-ssl.teamroom.jp CNAME .
 stat-ssl.tour-list.com CNAME .
 stat-ssl.webcg.net CNAME .
 stat-ssl.xn--pckua2a7gp15o89zb.com CNAME .
-states.newegg.ca CNAME .
-states.newegg.com CNAME .
 stats-ssl.mdanderson.org CNAME .
 stats.adobe.com CNAME .
 stats.agl.com.au CNAME .
@@ -6557,6 +6810,7 @@ sw88.disney.fr CNAME .
 sw88.disney.hu CNAME .
 sw88.disney.it CNAME .
 sw88.disney.nl CNAME .
+sw88.disney.pl CNAME .
 sw88.disney.pt CNAME .
 sw88.disney.se CNAME .
 sw88.disneymagicmoments.de CNAME .
@@ -6635,6 +6889,7 @@ tracking.lg.com CNAME .
 tracking.m.mercedes-benz.com.sg CNAME .
 tracking.redbutton.de CNAME .
 tracking.whattoexpect.com CNAME .
+trackingssl.agemployeebenefits.be CNAME .
 trackingssl.aginsurance.be CNAME .
 trackingssl.homeras.be CNAME .
 trk.chegg.com CNAME .
@@ -6643,18 +6898,14 @@ unsubscribe.email.verizon.com CNAME .
 ut.dailyfx.com CNAME .
 visit.asb.co.nz CNAME .
 w.smobile.wotif.com CNAME .
-w88.abc.com CNAME .
-w88.disneynow.com CNAME .
 w88.espn.com CNAME .
 w88.go.com CNAME .
-w88.m.espn.go.com CNAME .
 w88.natgeotv.com CNAME .
-w88.nationalgeographic.com CNAME .
 wa.bol.com CNAME .
 wa.devolksbank.nl CNAME .
-wa.eonline.com CNAME .
 wa.gifts.com CNAME .
 wa.personalcreations.com CNAME .
+wa.postnl.nl CNAME .
 wa.proflowers.com CNAME .
 wa.spring-gds.com CNAME .
 wa.st.com CNAME .
@@ -6667,21 +6918,15 @@ was.vodafone.nl CNAME .
 wasc.kaufland.ro CNAME .
 wass.ihsmarkit.com CNAME .
 wat.gogoinflight.com CNAME .
+webanalytics.acs.org CNAME .
 webanalyticsssl.websense.com CNAME .
-webmetrics.zebra.com CNAME .
-webstat.channel4.com CNAME .
-webstat.garanti.com.tr CNAME .
 webstats.americanbar.org CNAME .
 webstats.channel4.com CNAME .
 webstats.garanti.com.tr CNAME .
-webtraffic.mastercontrol.com CNAME .
 ww8.kohls.com CNAME .
 www-172.aig.com CNAME .
 www-sadobe.384.co.jp CNAME .
-www-sadobe.anabuki.co.jp CNAME .
 www-smt.daiichisankyo-hc.co.jp CNAME .
-www.sstats.hellobank.be CNAME .
-www2s.extraspace.com CNAME .
 www3s.ing.be CNAME .
 www90.intel.com CNAME .
 www91.intel.co.jp CNAME .
@@ -6879,6 +7124,7 @@ brukerbiospin.tt.omtrdc.net CNAME .
 bt.tt.omtrdc.net CNAME .
 btbusiness.tt.omtrdc.net CNAME .
 buhlerag.tt.omtrdc.net CNAME .
+builddirect.tt.omtrdc.net CNAME .
 bupa.tt.omtrdc.net CNAME .
 cadence.tt.omtrdc.net CNAME .
 calgary.tt.omtrdc.net CNAME .
@@ -6886,6 +7132,7 @@ canada.tt.omtrdc.net CNAME .
 canadadrives.tt.omtrdc.net CNAME .
 canadapost.tt.omtrdc.net CNAME .
 canadianimperialbank.tt.omtrdc.net CNAME .
+canadiantire.tt.omtrdc.net CNAME .
 canarahsbclife.tt.omtrdc.net CNAME .
 capitalgroupcompanie.tt.omtrdc.net CNAME .
 capitaloneservices.tt.omtrdc.net CNAME .
@@ -6905,6 +7152,7 @@ centurylink.tt.omtrdc.net CNAME .
 ceridianhcm.tt.omtrdc.net CNAME .
 changiairport.tt.omtrdc.net CNAME .
 charmingshoppesinter.tt.omtrdc.net CNAME .
+chartercorecable.tt.omtrdc.net CNAME .
 charteredaccountants.tt.omtrdc.net CNAME .
 chevronlubricants.tt.omtrdc.net CNAME .
 choicehotels.tt.omtrdc.net CNAME .
@@ -6913,6 +7161,7 @@ christiesinc.tt.omtrdc.net CNAME .
 chrobinson.tt.omtrdc.net CNAME .
 chubb.tt.omtrdc.net CNAME .
 ciena.tt.omtrdc.net CNAME .
+cimbinvestmentbankbe.tt.omtrdc.net CNAME .
 ciscolearningnetwork.tt.omtrdc.net CNAME .
 citiaebhplgb.tt.omtrdc.net CNAME .
 citiapac.tt.omtrdc.net CNAME .
@@ -6920,7 +7169,9 @@ citihktw.tt.omtrdc.net CNAME .
 citiin.tt.omtrdc.net CNAME .
 citisgsgipbmy.tt.omtrdc.net CNAME .
 citithidvn.tt.omtrdc.net CNAME .
+citizensbank.tt.omtrdc.net CNAME .
 cloudera.tt.omtrdc.net CNAME .
+cocacolaco.tt.omtrdc.net CNAME .
 cognizanttarget.tt.omtrdc.net CNAME .
 colessupermarketspty.tt.omtrdc.net CNAME .
 comcastresidentialservices.tt.omtrdc.net CNAME .
@@ -6942,16 +7193,21 @@ councilbbb.tt.omtrdc.net CNAME .
 cpf.tt.omtrdc.net CNAME .
 craommunications.tt.omtrdc.net CNAME .
 creditkarmainc.tt.omtrdc.net CNAME .
+creditone.tt.omtrdc.net CNAME .
 creditsafebusinessso.tt.omtrdc.net CNAME .
 cromaretail.tt.omtrdc.net CNAME .
+cssversicherung.tt.omtrdc.net CNAME .
 ctshirts.tt.omtrdc.net CNAME .
 ctwofo.tt.omtrdc.net CNAME .
 cubesmart.tt.omtrdc.net CNAME .
 customerservice.tt.omtrdc.net CNAME .
+cvshealth.tt.omtrdc.net CNAME .
 cyberark.tt.omtrdc.net CNAME .
 daimlerde.tt.omtrdc.net CNAME .
 danoneuk.tt.omtrdc.net CNAME .
+dardenrestaurants.tt.omtrdc.net CNAME .
 darktrace.tt.omtrdc.net CNAME .
+datacom.tt.omtrdc.net CNAME .
 dayintegrationintern.tt.omtrdc.net CNAME .
 dbs.tt.omtrdc.net CNAME .
 dbsgsmc.tt.omtrdc.net CNAME .
@@ -6972,6 +7228,7 @@ disney.tt.omtrdc.net CNAME .
 divcom.tt.omtrdc.net CNAME .
 djoglobalinc.tt.omtrdc.net CNAME .
 dollargeneral.tt.omtrdc.net CNAME .
+douglasgmbh.tt.omtrdc.net CNAME .
 dovercorp.tt.omtrdc.net CNAME .
 dpagco.tt.omtrdc.net CNAME .
 dpcomdhl.tt.omtrdc.net CNAME .
@@ -6990,10 +7247,12 @@ dxceedptrsd.tt.omtrdc.net CNAME .
 dxctechnology.tt.omtrdc.net CNAME .
 dyson.tt.omtrdc.net CNAME .
 eastman.tt.omtrdc.net CNAME .
+eatonvanceinvestment.tt.omtrdc.net CNAME .
 edelweisstokio.tt.omtrdc.net CNAME .
 ehealthinsurance.tt.omtrdc.net CNAME .
 elal.tt.omtrdc.net CNAME .
 elsevierlimited.tt.omtrdc.net CNAME .
+empiretodayllc.tt.omtrdc.net CNAME .
 eneldhgpg.tt.omtrdc.net CNAME .
 enelglobal.tt.omtrdc.net CNAME .
 enterpriseholdingsin.tt.omtrdc.net CNAME .
@@ -7036,9 +7295,11 @@ fordapa.tt.omtrdc.net CNAME .
 fordeu.tt.omtrdc.net CNAME .
 fortinet.tt.omtrdc.net CNAME .
 foxnews.tt.omtrdc.net CNAME .
+foxsports.tt.omtrdc.net CNAME .
 foxtel.tt.omtrdc.net CNAME .
 frankemanagement.tt.omtrdc.net CNAME .
 frontiercomm.tt.omtrdc.net CNAME .
+fss.tt.omtrdc.net CNAME .
 ftdcom.tt.omtrdc.net CNAME .
 futbolclubbarcelona.tt.omtrdc.net CNAME .
 futuregenerali.tt.omtrdc.net CNAME .
@@ -7060,6 +7321,8 @@ greateasternlife.tt.omtrdc.net CNAME .
 greendot.tt.omtrdc.net CNAME .
 grpr.tt.omtrdc.net CNAME .
 grundfosholdingas.tt.omtrdc.net CNAME .
+grupoboticario.tt.omtrdc.net CNAME .
+gsmosaic.tt.omtrdc.net CNAME .
 guitarcenter.tt.omtrdc.net CNAME .
 gujarattourism.tt.omtrdc.net CNAME .
 hagerty.tt.omtrdc.net CNAME .
@@ -7127,6 +7390,7 @@ invitrogen.tt.omtrdc.net CNAME .
 iseatz.tt.omtrdc.net CNAME .
 iselect.tt.omtrdc.net CNAME .
 itaspa.tt.omtrdc.net CNAME .
+itlicensing.tt.omtrdc.net CNAME .
 izotope.tt.omtrdc.net CNAME .
 jacksonnationallifei.tt.omtrdc.net CNAME .
 jacuzzi.tt.omtrdc.net CNAME .
@@ -7135,6 +7399,7 @@ japanairlinescoltd.tt.omtrdc.net CNAME .
 jefferson.tt.omtrdc.net CNAME .
 jll.tt.omtrdc.net CNAME .
 johnsonjohnsonconsum.tt.omtrdc.net CNAME .
+jpmcam.tt.omtrdc.net CNAME .
 jpmorganchase.tt.omtrdc.net CNAME .
 jublfood.tt.omtrdc.net CNAME .
 junipernetworks.tt.omtrdc.net CNAME .
@@ -7161,11 +7426,13 @@ lch.tt.omtrdc.net CNAME .
 ldschurch.tt.omtrdc.net CNAME .
 lebara.tt.omtrdc.net CNAME .
 legalandgeneral.tt.omtrdc.net CNAME .
+lendio.tt.omtrdc.net CNAME .
 lenovo.tt.omtrdc.net CNAME .
 levis.tt.omtrdc.net CNAME .
 lgadamericas.tt.omtrdc.net CNAME .
 lgelectronics.tt.omtrdc.net CNAME .
 libertyglobalpaneu.tt.omtrdc.net CNAME .
+lifetimefitness.tt.omtrdc.net CNAME .
 lifetimeproducts.tt.omtrdc.net CNAME .
 lifewaychristianreso.tt.omtrdc.net CNAME .
 lionbridge.tt.omtrdc.net CNAME .
@@ -7182,6 +7449,7 @@ lundbeck.tt.omtrdc.net CNAME .
 macys.tt.omtrdc.net CNAME .
 makemytrip.tt.omtrdc.net CNAME .
 malaysiaairlines.tt.omtrdc.net CNAME .
+mammothmountainskiar.tt.omtrdc.net CNAME .
 manulifefinancial.tt.omtrdc.net CNAME .
 manyavar.tt.omtrdc.net CNAME .
 maplesoftinc.tt.omtrdc.net CNAME .
@@ -7199,6 +7467,7 @@ mbox3e.offermatica.com CNAME .
 mbox4.offermatica.com CNAME .
 mbox4e.offermatica.com CNAME .
 mbox5.offermatica.com CNAME .
+mbox5e.offermatica.com CNAME .
 mbox9.offermatica.com CNAME .
 mbox9e.offermatica.com CNAME .
 mboxedge.tt.omtrdc.net CNAME .
@@ -7208,6 +7477,7 @@ mcgladrey.tt.omtrdc.net CNAME .
 mcgrawhill.tt.omtrdc.net CNAME .
 mckinseyknow.tt.omtrdc.net CNAME .
 mdanderson.tt.omtrdc.net CNAME .
+mediacorppteltd.tt.omtrdc.net CNAME .
 medibankltdau.tt.omtrdc.net CNAME .
 medtronicinc.tt.omtrdc.net CNAME .
 meijer.tt.omtrdc.net CNAME .
@@ -7216,6 +7486,7 @@ mercedezbenzusallc.tt.omtrdc.net CNAME .
 mercer.tt.omtrdc.net CNAME .
 mercyhealth.tt.omtrdc.net CNAME .
 merklemarketing.tt.omtrdc.net CNAME .
+merrillcorporation.tt.omtrdc.net CNAME .
 metlifeglobal.tt.omtrdc.net CNAME .
 metrics-target.siriusxm.com CNAME .
 metrics.active.com.tt.omtrdc.net CNAME .
@@ -7280,6 +7551,7 @@ optimisation.data.lloydsbankinggroup.com CNAME .
 optimum.tt.omtrdc.net CNAME .
 orangetheory.tt.omtrdc.net CNAME .
 originenergyservices.tt.omtrdc.net CNAME .
+orvis.tt.omtrdc.net CNAME .
 otb.tt.omtrdc.net CNAME .
 overseachinesebankin.tt.omtrdc.net CNAME .
 pallcorp.tt.omtrdc.net CNAME .
@@ -7287,6 +7559,7 @@ paloaltonetworks.tt.omtrdc.net CNAME .
 panasoniccorporation.tt.omtrdc.net CNAME .
 pandasecurity.tt.omtrdc.net CNAME .
 panera.tt.omtrdc.net CNAME .
+parkerhannifin.tt.omtrdc.net CNAME .
 pentairmanagementcom.tt.omtrdc.net CNAME .
 pepboys.tt.omtrdc.net CNAME .
 peppermoneyltd.tt.omtrdc.net CNAME .
@@ -7301,9 +7574,12 @@ pncnationalbank.tt.omtrdc.net CNAME .
 potterybarn.tt.omtrdc.net CNAME .
 pradaspa.tt.omtrdc.net CNAME .
 prisacom.tt.omtrdc.net CNAME .
+procore.tt.omtrdc.net CNAME .
 produban.tt.omtrdc.net CNAME .
 progrexionasginc.tt.omtrdc.net CNAME .
 providentpersonalcre.tt.omtrdc.net CNAME .
+proximusnv.tt.omtrdc.net CNAME .
+psbutler.tt.omtrdc.net CNAME .
 purestorage.tt.omtrdc.net CNAME .
 purpose.fressnapf.at CNAME .
 purpose.fressnapf.de CNAME .
@@ -7315,6 +7591,8 @@ pwc.tt.omtrdc.net CNAME .
 qantasairways.tt.omtrdc.net CNAME .
 qatarairways.tt.omtrdc.net CNAME .
 qualcomm.tt.omtrdc.net CNAME .
+quickenloans.tt.omtrdc.net CNAME .
+radissonhotels.tt.omtrdc.net CNAME .
 rcci.tt.omtrdc.net CNAME .
 rcg.tt.omtrdc.net CNAME .
 recreationalequipmen.tt.omtrdc.net CNAME .
@@ -7342,6 +7620,7 @@ rockwellautomation.tt.omtrdc.net CNAME .
 rogerscommunicaitonp.tt.omtrdc.net CNAME .
 royalmailgroupltd.tt.omtrdc.net CNAME .
 royalsundaram.tt.omtrdc.net CNAME .
+rscomponentsltd.tt.omtrdc.net CNAME .
 rtldisneyfernsehengm.tt.omtrdc.net CNAME .
 rubrikinc.tt.omtrdc.net CNAME .
 runtimecollective.tt.omtrdc.net CNAME .
@@ -7351,6 +7630,7 @@ safaricom.tt.omtrdc.net CNAME .
 safewayinc.tt.omtrdc.net CNAME .
 sagagrouplimitedsaga.tt.omtrdc.net CNAME .
 salliemae.tt.omtrdc.net CNAME .
+samsonitechina.tt.omtrdc.net CNAME .
 samsungafrica.tt.omtrdc.net CNAME .
 samsungbenelux.tt.omtrdc.net CNAME .
 samsungcanada.tt.omtrdc.net CNAME .
@@ -7381,7 +7661,9 @@ scholasticinc.tt.omtrdc.net CNAME .
 schweizerischesbb.tt.omtrdc.net CNAME .
 scotiabank.tt.omtrdc.net CNAME .
 scottsmiraclegro.tt.omtrdc.net CNAME .
+scripps.tt.omtrdc.net CNAME .
 searsholdings.tt.omtrdc.net CNAME .
+seatsa.tt.omtrdc.net CNAME .
 securemvt.apple.com CNAME .
 securemvt.apple.com.cn CNAME .
 seek.tt.omtrdc.net CNAME .
@@ -7389,6 +7671,7 @@ sephora.tt.omtrdc.net CNAME .
 servicenowinc.tt.omtrdc.net CNAME .
 shell.tt.omtrdc.net CNAME .
 shopclues.tt.omtrdc.net CNAME .
+shopperschoice.tt.omtrdc.net CNAME .
 shutterflycom.tt.omtrdc.net CNAME .
 siamcommercialbank.tt.omtrdc.net CNAME .
 siemens.tt.omtrdc.net CNAME .
@@ -7412,6 +7695,8 @@ soptimize.southwest.com CNAME .
 southerncaliforniaed.tt.omtrdc.net CNAME .
 southwestairlines.tt.omtrdc.net CNAME .
 sparknewzealandtradi.tt.omtrdc.net CNAME .
+spectrumenterprise.tt.omtrdc.net CNAME .
+spersonalization.groundsguys.ca CNAME .
 spersonalization.mosquitojoe.com CNAME .
 spersonalization.mrhandyman.com CNAME .
 spersonalization.realpropertymgt.com CNAME .
@@ -7496,6 +7781,8 @@ target.aia.co.kr CNAME .
 target.alfaromeousa.com CNAME .
 target.allianz.ch CNAME .
 target.ansys.com CNAME .
+target.arcobusinesssolutions.com CNAME .
+target.audifinancialservices.nl CNAME .
 target.auspost.com.au CNAME .
 target.bankofamerica.com CNAME .
 target.bankwest.com.au CNAME .
@@ -7520,6 +7807,7 @@ target.eon.de CNAME .
 target.ey.com CNAME .
 target.farnell.com CNAME .
 target.fiatusa.com CNAME .
+target.fleetcardsusa.com CNAME .
 target.footlocker.at CNAME .
 target.footlocker.be CNAME .
 target.footlocker.ca CNAME .
@@ -7544,6 +7832,7 @@ target.fuelman.com CNAME .
 target.groupama.fr CNAME .
 target.healthengine.com.au CNAME .
 target.huskypro.ca CNAME .
+target.hyundaiusa.com CNAME .
 target.intact.ca CNAME .
 target.intactinsurance.com CNAME .
 target.jeep.com CNAME .
@@ -7574,6 +7863,7 @@ target.swinburne.edu.au CNAME .
 target.synergy.net.au CNAME .
 target.telenet.be CNAME .
 target.thetruth.com CNAME .
+target.toyota.com CNAME .
 target.visitsingapore.com CNAME .
 target.vwfs.com CNAME .
 target.vwfs.cz CNAME .
@@ -7596,12 +7886,14 @@ tatadigitial.tt.omtrdc.net CNAME .
 tatasiaairlinesltd.tt.omtrdc.net CNAME .
 tatasteelltd.tt.omtrdc.net CNAME .
 tataunistore.tt.omtrdc.net CNAME .
+taylorsuni.tt.omtrdc.net CNAME .
 tcs.tt.omtrdc.net CNAME .
 tdameritrade.tt.omtrdc.net CNAME .
 tdbankfinancialgroup.tt.omtrdc.net CNAME .
 teamviewergmbh.tt.omtrdc.net CNAME .
 telecomitalia.tt.omtrdc.net CNAME .
 telefonicauklimited.tt.omtrdc.net CNAME .
+telefonicavivo.tt.omtrdc.net CNAME .
 telegraphmediagroupl.tt.omtrdc.net CNAME .
 telkomsel.tt.omtrdc.net CNAME .
 telstracorporationlt.tt.omtrdc.net CNAME .
@@ -7610,6 +7902,7 @@ temasekpolytechnic.tt.omtrdc.net CNAME .
 tgt.maep.ibm.com CNAME .
 theamericannationalr.tt.omtrdc.net CNAME .
 theboeingcompany.tt.omtrdc.net CNAME .
+thecontainerstore.tt.omtrdc.net CNAME .
 thedowchemicalcompan.tt.omtrdc.net CNAME .
 themathworksinc.tt.omtrdc.net CNAME .
 therandomhousegroupl.tt.omtrdc.net CNAME .
@@ -7621,6 +7914,7 @@ thoughtworks.tt.omtrdc.net CNAME .
 three.tt.omtrdc.net CNAME .
 tiaacref.tt.omtrdc.net CNAME .
 tiffanyandcompany.tt.omtrdc.net CNAME .
+timeout.tt.omtrdc.net CNAME .
 tirerack.tt.omtrdc.net CNAME .
 titan.tt.omtrdc.net CNAME .
 tlcrelationshipmanag.tt.omtrdc.net CNAME .
@@ -7642,6 +7936,7 @@ transurban.tt.omtrdc.net CNAME .
 trellix.tt.omtrdc.net CNAME .
 trex.tt.omtrdc.net CNAME .
 troweprice.tt.omtrdc.net CNAME .
+tsbuk.tt.omtrdc.net CNAME .
 tt.natwest.com CNAME .
 tt.rbs.co.uk CNAME .
 tt.sj.se CNAME .
@@ -7649,6 +7944,7 @@ tt.ubs.com CNAME .
 tt.ulsterbank.co.uk CNAME .
 tt.ulsterbank.ie CNAME .
 ttmetrics.jcpenney.com CNAME .
+tuiukltd.tt.omtrdc.net CNAME .
 twcroadrunner.tt.omtrdc.net CNAME .
 twentyfourhour.tt.omtrdc.net CNAME .
 twilio.tt.omtrdc.net CNAME .
@@ -7665,17 +7961,20 @@ unileverna.tt.omtrdc.net CNAME .
 united.tt.omtrdc.net CNAME .
 unitedhealthcareserv.tt.omtrdc.net CNAME .
 unitedhealthgroup.tt.omtrdc.net CNAME .
+unitedsuperptyltd.tt.omtrdc.net CNAME .
 universalcitydevelop.tt.omtrdc.net CNAME .
 universityofcanberra.tt.omtrdc.net CNAME .
 universityofnewsouth.tt.omtrdc.net CNAME .
 uob.tt.omtrdc.net CNAME .
 ups.tt.omtrdc.net CNAME .
 usbank.tt.omtrdc.net CNAME .
+uscellular.tt.omtrdc.net CNAME .
 usertesting.tt.omtrdc.net CNAME .
 usgt.tt.omtrdc.net CNAME .
 ustglobal.tt.omtrdc.net CNAME .
 vailresorts.tt.omtrdc.net CNAME .
 valentino.tt.omtrdc.net CNAME .
+verily.tt.omtrdc.net CNAME .
 veritastechnologiesl.tt.omtrdc.net CNAME .
 verizonenterprisesol.tt.omtrdc.net CNAME .
 verizontelecom.tt.omtrdc.net CNAME .
@@ -7695,6 +7994,7 @@ vmware.tt.omtrdc.net CNAME .
 vodacom.tt.omtrdc.net CNAME .
 vodacomdls.tt.omtrdc.net CNAME .
 vodafonecz.tt.omtrdc.net CNAME .
+vodafonegreece.tt.omtrdc.net CNAME .
 vodafonegroupservice.tt.omtrdc.net CNAME .
 vodafoneirl.tt.omtrdc.net CNAME .
 vodafoneitaly.tt.omtrdc.net CNAME .
@@ -7706,6 +8006,7 @@ vodafoneuk.tt.omtrdc.net CNAME .
 volkswagenag.tt.omtrdc.net CNAME .
 volvo.tt.omtrdc.net CNAME .
 vonagemarketingllc.tt.omtrdc.net CNAME .
+vudu.tt.omtrdc.net CNAME .
 vue.tt.omtrdc.net CNAME .
 walgreenco.tt.omtrdc.net CNAME .
 walmartisd.tt.omtrdc.net CNAME .
@@ -7714,13 +8015,13 @@ waterscorporation.tt.omtrdc.net CNAME .
 wbg.tt.omtrdc.net CNAME .
 webanalyticsdemystif.tt.omtrdc.net CNAME .
 webmdcom.tt.omtrdc.net CNAME .
-wellpoint.tt.omtrdc.net CNAME .
-westerndigital.tt.omtrdc.net CNAME .
 westernsydneyuni.tt.omtrdc.net CNAME .
 westgateresorts.tt.omtrdc.net CNAME .
+westpacnewzealand.tt.omtrdc.net CNAME .
 westservicesfindlaw.tt.omtrdc.net CNAME .
 westservicesinc.tt.omtrdc.net CNAME .
 wgu.tt.omtrdc.net CNAME .
+wheelpros.tt.omtrdc.net CNAME .
 whirlpool.tt.omtrdc.net CNAME .
 whirlpoolindia.tt.omtrdc.net CNAME .
 whitbreadgroup.tt.omtrdc.net CNAME .
@@ -7730,13 +8031,6 @@ wintrustfinancialcor.tt.omtrdc.net CNAME .
 wiprolimited.tt.omtrdc.net CNAME .
 wolterskluwermedical.tt.omtrdc.net CNAME .
 woolworthsfoodgroup.tt.omtrdc.net CNAME .
-workday.tt.omtrdc.net CNAME .
-worldbank.tt.omtrdc.net CNAME .
-worldlinesa.tt.omtrdc.net CNAME .
-wowcherlimited.tt.omtrdc.net CNAME .
-wrenchgroup.tt.omtrdc.net CNAME .
-wwgraingerinc.tt.omtrdc.net CNAME .
-wwservices.tt.omtrdc.net CNAME .
 www4s.ing.be CNAME .
 wyndhamhotelgroup.tt.omtrdc.net CNAME .
 wyndhamvacationrenta.tt.omtrdc.net CNAME .
@@ -7745,6 +8039,7 @@ xps.huk.de CNAME .
 xps.huk24.de CNAME .
 yesbank.tt.omtrdc.net CNAME .
 yonseiuniversity.tt.omtrdc.net CNAME .
+yorkshirebuildingsoc.tt.omtrdc.net CNAME .
 yrcworldwide.tt.omtrdc.net CNAME .
 zegna.tt.omtrdc.net CNAME .
 zimmerbiomet.tt.omtrdc.net CNAME .
@@ -7755,6 +8050,44 @@ zurichversicherungs.tt.omtrdc.net CNAME .
 ; domainwww1.customer.ne.jp disguised trackers
 ;
 aa-metrics.hpbcosme.com CNAME .
+;
+; intelcorporation-2.tt.omtrdc.net disguised trackers
+;
+aa.diyer.intel-social.com CNAME .
+;
+; mboxedge32-02.tt.omtrdc.net disguised trackers
+;
+aa.diyer.intel-social.com CNAME .
+abt.nike.com CNAME .
+satgt.grafana.com CNAME .
+starget.collegeboard.org CNAME .
+starget.westjet.com CNAME .
+stt.pluralsight.com CNAME .
+target.sivasdescalzo.com CNAME .
+targetlr.adobe.com CNAME .
+ttarget.eastwestbank.com CNAME .
+ttmetrics.faz.net CNAME .
+webtarget.astrogaming.com CNAME .
+webtarget.logicool.co.jp CNAME .
+webtarget.logitech.com CNAME .
+webtarget.logitechg.com CNAME .
+;
+; mboxedge32-alb02.tt.omtrdc.net disguised trackers
+;
+aa.diyer.intel-social.com CNAME .
+abt.nike.com CNAME .
+satgt.grafana.com CNAME .
+starget.collegeboard.org CNAME .
+starget.westjet.com CNAME .
+stt.pluralsight.com CNAME .
+target.sivasdescalzo.com CNAME .
+targetlr.adobe.com CNAME .
+ttarget.eastwestbank.com CNAME .
+ttmetrics.faz.net CNAME .
+webtarget.astrogaming.com CNAME .
+webtarget.logicool.co.jp CNAME .
+webtarget.logitech.com CNAME .
+webtarget.logitechg.com CNAME .
 ;
 ; mboxedge37-alb02.tt.omtrdc.net disguised trackers
 ;
@@ -7862,26 +8195,28 @@ dii3.zooplus.nl CNAME .
 dm-target.fishersci.com CNAME .
 optimisation.coop.co.uk CNAME .
 purpose.maxizoo.ie CNAME .
-samt.swisscanto.com CNAME .
+samt.frankly.ch CNAME .
 samt.zkb.ch CNAME .
 satgt.grafana.com CNAME .
-starget.airmiles.ca CNAME .
 starget.collegeboard.org CNAME .
 starget.vodafone.es CNAME .
 starget.westjet.com CNAME .
+stmetrics.grupobbva.pe CNAME .
 stt.cpaaustralia.com.au CNAME .
+stt.grace.com CNAME .
 stt.pluralsight.com CNAME .
 sxp.allianz.de CNAME .
 target-omtrdc.deka.de CNAME .
+target.centerpointenergy.com CNAME .
+target.firestonebpco.com CNAME .
+target.footlocker.com.au CNAME .
 target.hsn.com CNAME .
 target.key.com CNAME .
-target.nxp.com CNAME .
 target.questdiagnostics.com CNAME .
 target.sivasdescalzo.com CNAME .
 target.sportsmansguide.com CNAME .
 target.thegrocer.co.uk CNAME .
 target.veeam.com CNAME .
-target.vwfs.ie CNAME .
 targetlr.adobe.com CNAME .
 ttmetrics.faz.net CNAME .
 webtarget.astrogaming.com CNAME .
@@ -7889,99 +8224,18 @@ webtarget.logicool.co.jp CNAME .
 webtarget.logitech.com CNAME .
 webtarget.logitech.com.cn CNAME .
 webtarget.logitechg.com CNAME .
+webtarget.logitechg.com.cn CNAME .
 xp.allianz.de CNAME .
-;
-; mboxedge38-02.tt.omtrdc.net disguised trackers
-;
-abt.bauhaus.info CNAME .
-abt.nike.com CNAME .
-aec-target.base.be CNAME .
-optimisation.coop.co.uk CNAME .
-purpose.maxizoo.ie CNAME .
-samt.swisscanto.com CNAME .
-satgt.grafana.com CNAME .
-starget.airmiles.ca CNAME .
-starget.collegeboard.org CNAME .
-stt.cpaaustralia.com.au CNAME .
-stt.pluralsight.com CNAME .
-sxp.allianz.de CNAME .
-target.footlocker.com.au CNAME .
-target.key.com CNAME .
-target.sivasdescalzo.com CNAME .
-target.thegrocer.co.uk CNAME .
-targetlr.adobe.com CNAME .
-ttarget.eastwestbank.com CNAME .
-ttmetrics.faz.net CNAME .
-webtarget.logicool.co.jp CNAME .
-webtarget.logitech.com CNAME .
-webtarget.logitech.com.cn CNAME .
-webtarget.logitechg.com CNAME .
-xp.allianz.de CNAME .
-;
-; mboxedge38-alb02.tt.omtrdc.net disguised trackers
-;
-abt.bauhaus.info CNAME .
-abt.nike.com CNAME .
-aec-target.base.be CNAME .
-optimisation.coop.co.uk CNAME .
-purpose.maxizoo.ie CNAME .
-samt.swisscanto.com CNAME .
-satgt.grafana.com CNAME .
-starget.airmiles.ca CNAME .
-starget.collegeboard.org CNAME .
-stt.cpaaustralia.com.au CNAME .
-stt.pluralsight.com CNAME .
-sxp.allianz.de CNAME .
-target.footlocker.com.au CNAME .
-target.key.com CNAME .
-target.sivasdescalzo.com CNAME .
-target.thegrocer.co.uk CNAME .
-targetlr.adobe.com CNAME .
-ttarget.eastwestbank.com CNAME .
-ttmetrics.faz.net CNAME .
-webtarget.logicool.co.jp CNAME .
-webtarget.logitech.com CNAME .
-webtarget.logitech.com.cn CNAME .
-webtarget.logitechg.com CNAME .
-xp.allianz.de CNAME .
-;
-; mboxedge32-02.tt.omtrdc.net disguised trackers
-;
-abt.nike.com CNAME .
-dm-target.fishersci.com CNAME .
-satgt.grafana.com CNAME .
-starget.collegeboard.org CNAME .
-target.sivasdescalzo.com CNAME .
-targetlr.adobe.com CNAME .
-ttarget.eastwestbank.com CNAME .
-webtarget.logicool.co.jp CNAME .
-webtarget.logitech.com CNAME .
-webtarget.logitech.com.cn CNAME .
-webtarget.logitechg.com CNAME .
-;
-; mboxedge32-alb02.tt.omtrdc.net disguised trackers
-;
-abt.nike.com CNAME .
-dm-target.fishersci.com CNAME .
-satgt.grafana.com CNAME .
-starget.collegeboard.org CNAME .
-target.sivasdescalzo.com CNAME .
-targetlr.adobe.com CNAME .
-ttarget.eastwestbank.com CNAME .
-webtarget.logicool.co.jp CNAME .
-webtarget.logitech.com CNAME .
-webtarget.logitech.com.cn CNAME .
-webtarget.logitechg.com CNAME .
 ;
 ; mboxedge34-02.tt.omtrdc.net disguised trackers
 ;
 abt.nike.com CNAME .
-dii3.zooplus.nl CNAME .
 dm-target.fishersci.com CNAME .
-samt.zkb.ch CNAME .
+purpose.maxizoo.ie CNAME .
 satgt.grafana.com CNAME .
 starget.airmiles.ca CNAME .
 starget.collegeboard.org CNAME .
+starget.vodafone.es CNAME .
 starget.westjet.com CNAME .
 stmetrics.grupobbva.pe CNAME .
 stt.pluralsight.com CNAME .
@@ -7989,10 +8243,13 @@ target.centerpointenergy.com CNAME .
 target.champssports.ca CNAME .
 target.hsn.com CNAME .
 target.key.com CNAME .
+target.letsgofrance.pwc.fr CNAME .
 target.questdiagnostics.com CNAME .
+target.sgproof.com CNAME .
 target.sivasdescalzo.com CNAME .
 target.sportsmansguide.com CNAME .
 target.sunlife.com CNAME .
+target.sunlifeglobalinvestments.com CNAME .
 target.veeam.com CNAME .
 targetlr.adobe.com CNAME .
 ttarget.eastwestbank.com CNAME .
@@ -8004,12 +8261,12 @@ webtarget.logitechg.com CNAME .
 ; mboxedge34-alb02.tt.omtrdc.net disguised trackers
 ;
 abt.nike.com CNAME .
-dii3.zooplus.nl CNAME .
 dm-target.fishersci.com CNAME .
-samt.zkb.ch CNAME .
+purpose.maxizoo.ie CNAME .
 satgt.grafana.com CNAME .
 starget.airmiles.ca CNAME .
 starget.collegeboard.org CNAME .
+starget.vodafone.es CNAME .
 starget.westjet.com CNAME .
 stmetrics.grupobbva.pe CNAME .
 stt.pluralsight.com CNAME .
@@ -8017,10 +8274,13 @@ target.centerpointenergy.com CNAME .
 target.champssports.ca CNAME .
 target.hsn.com CNAME .
 target.key.com CNAME .
+target.letsgofrance.pwc.fr CNAME .
 target.questdiagnostics.com CNAME .
+target.sgproof.com CNAME .
 target.sivasdescalzo.com CNAME .
 target.sportsmansguide.com CNAME .
 target.sunlife.com CNAME .
+target.sunlifeglobalinvestments.com CNAME .
 target.veeam.com CNAME .
 targetlr.adobe.com CNAME .
 ttarget.eastwestbank.com CNAME .
@@ -8037,21 +8297,19 @@ aec-target.telenet.be CNAME .
 dii3.zooplus.nl CNAME .
 dm-target.fishersci.com CNAME .
 satgt.grafana.com CNAME .
+starget.airmiles.ca CNAME .
 starget.collegeboard.org CNAME .
 starget.westjet.com CNAME .
-stt.cpaaustralia.com.au CNAME .
-stt.grace.com CNAME .
 stt.pluralsight.com CNAME .
+sxp.allianz.de CNAME .
 target.centerpointenergy.com CNAME .
-target.firestonebpco.com CNAME .
-target.footlocker.com.au CNAME .
 target.hsn.com CNAME .
 target.key.com CNAME .
 target.questdiagnostics.com CNAME .
+target.sgproof.com CNAME .
 target.sivasdescalzo.com CNAME .
 target.sportsmansguide.com CNAME .
 target.sunlife.com CNAME .
-target.thegrocer.co.uk CNAME .
 target.veeam.com CNAME .
 targetlr.adobe.com CNAME .
 ttarget.eastwestbank.com CNAME .
@@ -8059,6 +8317,7 @@ ttmetrics.faz.net CNAME .
 webtarget.astrogaming.com CNAME .
 webtarget.logitech.com CNAME .
 webtarget.logitechg.com CNAME .
+xp.allianz.de CNAME .
 ;
 ; mboxedge35-alb02.tt.omtrdc.net disguised trackers
 ;
@@ -8068,21 +8327,19 @@ aec-target.telenet.be CNAME .
 dii3.zooplus.nl CNAME .
 dm-target.fishersci.com CNAME .
 satgt.grafana.com CNAME .
+starget.airmiles.ca CNAME .
 starget.collegeboard.org CNAME .
 starget.westjet.com CNAME .
-stt.cpaaustralia.com.au CNAME .
-stt.grace.com CNAME .
 stt.pluralsight.com CNAME .
+sxp.allianz.de CNAME .
 target.centerpointenergy.com CNAME .
-target.firestonebpco.com CNAME .
-target.footlocker.com.au CNAME .
 target.hsn.com CNAME .
 target.key.com CNAME .
 target.questdiagnostics.com CNAME .
+target.sgproof.com CNAME .
 target.sivasdescalzo.com CNAME .
 target.sportsmansguide.com CNAME .
 target.sunlife.com CNAME .
-target.thegrocer.co.uk CNAME .
 target.veeam.com CNAME .
 targetlr.adobe.com CNAME .
 ttarget.eastwestbank.com CNAME .
@@ -8090,21 +8347,19 @@ ttmetrics.faz.net CNAME .
 webtarget.astrogaming.com CNAME .
 webtarget.logitech.com CNAME .
 webtarget.logitechg.com CNAME .
+xp.allianz.de CNAME .
 ;
 ; mboxedge36-02.tt.omtrdc.net disguised trackers
 ;
 abt.nike.com CNAME .
 satgt.grafana.com CNAME .
 starget.collegeboard.org CNAME .
-starget.westjet.com CNAME .
 stt.cpaaustralia.com.au CNAME .
 stt.pluralsight.com CNAME .
 target.footlocker.com.au CNAME .
-target.sivasdescalzo.com CNAME .
+target.hsn.com CNAME .
 target.thegrocer.co.uk CNAME .
-target.veeam.com CNAME .
 targetlr.adobe.com CNAME .
-ttmetrics.faz.net CNAME .
 webtarget.astrogaming.com CNAME .
 webtarget.logitech.com CNAME .
 webtarget.logitechg.com CNAME .
@@ -8114,17 +8369,70 @@ webtarget.logitechg.com CNAME .
 abt.nike.com CNAME .
 satgt.grafana.com CNAME .
 starget.collegeboard.org CNAME .
-starget.westjet.com CNAME .
 stt.cpaaustralia.com.au CNAME .
 stt.pluralsight.com CNAME .
 target.footlocker.com.au CNAME .
-target.sivasdescalzo.com CNAME .
+target.hsn.com CNAME .
 target.thegrocer.co.uk CNAME .
-target.veeam.com CNAME .
 targetlr.adobe.com CNAME .
-ttmetrics.faz.net CNAME .
 webtarget.astrogaming.com CNAME .
 webtarget.logitech.com CNAME .
+webtarget.logitechg.com CNAME .
+;
+; mboxedge38-02.tt.omtrdc.net disguised trackers
+;
+abt.nike.com CNAME .
+aec-target.base.be CNAME .
+dii3.zooplus.nl CNAME .
+dm-target.fishersci.com CNAME .
+samt.zkb.ch CNAME .
+satgt.grafana.com CNAME .
+starget.collegeboard.org CNAME .
+starget.vodafone.es CNAME .
+starget.westjet.com CNAME .
+stt.cpaaustralia.com.au CNAME .
+stt.pluralsight.com CNAME .
+sxp.allianz.de CNAME .
+target.champssports.ca CNAME .
+target.footlocker.com.au CNAME .
+target.sivasdescalzo.com CNAME .
+target.sportsmansguide.com CNAME .
+target.sunlife.com CNAME .
+target.thegrocer.co.uk CNAME .
+targetlr.adobe.com CNAME .
+ttarget.eastwestbank.com CNAME .
+ttmetrics.faz.net CNAME .
+webtarget.logicool.co.jp CNAME .
+webtarget.logitech.com CNAME .
+webtarget.logitech.com.cn CNAME .
+webtarget.logitechg.com CNAME .
+;
+; mboxedge38-alb02.tt.omtrdc.net disguised trackers
+;
+abt.nike.com CNAME .
+aec-target.base.be CNAME .
+dii3.zooplus.nl CNAME .
+dm-target.fishersci.com CNAME .
+samt.zkb.ch CNAME .
+satgt.grafana.com CNAME .
+starget.collegeboard.org CNAME .
+starget.vodafone.es CNAME .
+starget.westjet.com CNAME .
+stt.cpaaustralia.com.au CNAME .
+stt.pluralsight.com CNAME .
+sxp.allianz.de CNAME .
+target.champssports.ca CNAME .
+target.footlocker.com.au CNAME .
+target.sivasdescalzo.com CNAME .
+target.sportsmansguide.com CNAME .
+target.sunlife.com CNAME .
+target.thegrocer.co.uk CNAME .
+targetlr.adobe.com CNAME .
+ttarget.eastwestbank.com CNAME .
+ttmetrics.faz.net CNAME .
+webtarget.logicool.co.jp CNAME .
+webtarget.logitech.com CNAME .
+webtarget.logitech.com.cn CNAME .
 webtarget.logitechg.com CNAME .
 ;
 ; nike.tt.omtrdc.net disguised trackers
@@ -8135,421 +8443,22 @@ abt.nike.com CNAME .
 ;
 adtarget.barcainnovationhub.com CNAME .
 adtarget.fcbarcelona.cat CNAME .
-adtarget.fcbarcelona.co.it CNAME .
 adtarget.fcbarcelona.com CNAME .
 adtarget.fcbarcelona.es CNAME .
 adtarget.fcbarcelona.fr CNAME .
-;
-; mboxedge34-alb.tt.omtrdc.net disguised trackers
-;
-adtarget.barcainnovationhub.com CNAME .
-adtarget.fcbarcelona.cat CNAME .
-adtarget.fcbarcelona.com CNAME .
-adtarget.fcbarcelona.es CNAME .
-adtarget.fcbarcelona.fr CNAME .
-aep-target.credit-suisse.com CNAME .
-at.mclaren.com CNAME .
-at.swisscom.ch CNAME .
-at.vodafone.de CNAME .
-atarget.harley-davidson.com CNAME .
-experiences.cibc.com CNAME .
-mbox.wegmans.com CNAME .
-mcdmetrics2.aaa.com CNAME .
-metrics-target.siriusxm.com CNAME .
-purpose.fressnapf.de CNAME .
-sats.spiegel.de CNAME .
-securemvt.apple.com CNAME .
-sjourney.aarp.org CNAME .
-sjourney.penfed.org CNAME .
-somni.bell.ca CNAME .
-soptimize.southwest.com CNAME .
-starget.aircanada.com CNAME .
-starget.bitdefender.com CNAME .
-starget.intel.cn CNAME .
-starget.intel.co.jp CNAME .
-starget.intel.co.uk CNAME .
-starget.intel.com CNAME .
-starget.intel.com.au CNAME .
-starget.intel.com.br CNAME .
-starget.intel.com.tr CNAME .
-starget.intel.es CNAME .
-starget.intel.fr CNAME .
-starget.intel.in CNAME .
-starget.intel.la CNAME .
-starget.intel.ru CNAME .
-starget.mathworks.com CNAME .
-starget.morganstanley.com CNAME .
-starget.panerabread.com CNAME .
-starget.ticketsatwork.com CNAME .
-starget.workingadvantage.com CNAME .
-stt.dell.com CNAME .
-stt.nvidia.com CNAME .
-t.nordea.fi CNAME .
-target-us.samsung.com CNAME .
-target.accenture.com CNAME .
-target.alfaromeousa.com CNAME .
-target.ansys.com CNAME .
-target.auspost.com.au CNAME .
-target.bankofamerica.com CNAME .
-target.belairdirect.com CNAME .
-target.bose.com CNAME .
-target.caixabank.es CNAME .
-target.champssports.com CNAME .
-target.chase.com CNAME .
-target.chrysler.com CNAME .
-target.cisco.com CNAME .
-target.cox.com CNAME .
-target.css.ch CNAME .
-target.dodge.com CNAME .
-target.element14.com CNAME .
-target.ey.com CNAME .
-target.fiatusa.com CNAME .
-target.footlocker.ca CNAME .
-target.footlocker.co.uk CNAME .
-target.footlocker.com CNAME .
-target.footlocker.de CNAME .
-target.footlocker.es CNAME .
-target.footlocker.fr CNAME .
-target.footlocker.it CNAME .
-target.footlocker.nl CNAME .
-target.footlocker.se CNAME .
-target.healthengine.com.au CNAME .
-target.intact.ca CNAME .
-target.intactinsurance.com CNAME .
-target.jeep.com CNAME .
-target.jwatch.org CNAME .
-target.kidsfootlocker.com CNAME .
-target.microsoft.com CNAME .
-target.nationwide.com CNAME .
-target.nejm.org CNAME .
-target.netapp.com CNAME .
-target.nfm.com CNAME .
-target.pandasecurity.com CNAME .
-target.premierinn.com CNAME .
-target.ramtrucks.com CNAME .
-target.sunlife.ca CNAME .
-target.thetruth.com CNAME .
-target.visitsingapore.com CNAME .
-target.walgreens.com CNAME .
-target.zeiss.com CNAME .
-targetsecure.kohler.com CNAME .
-tgt.maep.ibm.com CNAME .
-tmetrics.hdfcbank.com CNAME .
-tmetrics.webex.com CNAME .
-tt.natwest.com CNAME .
-tt.rbs.co.uk CNAME .
-ttmetrics.jcpenney.com CNAME .
-xps.huk24.de CNAME .
-;
-; mboxedge34.tt.omtrdc.net disguised trackers
-;
-adtarget.barcainnovationhub.com CNAME .
-adtarget.fcbarcelona.cat CNAME .
-adtarget.fcbarcelona.com CNAME .
-adtarget.fcbarcelona.es CNAME .
-adtarget.fcbarcelona.fr CNAME .
-aep-target.credit-suisse.com CNAME .
-at.mclaren.com CNAME .
-at.swisscom.ch CNAME .
-at.vodafone.de CNAME .
-atarget.harley-davidson.com CNAME .
-experiences.cibc.com CNAME .
-mbox.wegmans.com CNAME .
-mcdmetrics2.aaa.com CNAME .
-metrics-target.siriusxm.com CNAME .
-purpose.fressnapf.de CNAME .
-sats.spiegel.de CNAME .
-securemvt.apple.com CNAME .
-sjourney.aarp.org CNAME .
-sjourney.penfed.org CNAME .
-somni.bell.ca CNAME .
-soptimize.southwest.com CNAME .
-starget.aircanada.com CNAME .
-starget.bitdefender.com CNAME .
-starget.intel.cn CNAME .
-starget.intel.co.jp CNAME .
-starget.intel.co.uk CNAME .
-starget.intel.com CNAME .
-starget.intel.com.au CNAME .
-starget.intel.com.br CNAME .
-starget.intel.com.tr CNAME .
-starget.intel.es CNAME .
-starget.intel.fr CNAME .
-starget.intel.in CNAME .
-starget.intel.la CNAME .
-starget.intel.ru CNAME .
-starget.mathworks.com CNAME .
-starget.morganstanley.com CNAME .
-starget.panerabread.com CNAME .
-starget.ticketsatwork.com CNAME .
-starget.workingadvantage.com CNAME .
-stt.dell.com CNAME .
-stt.nvidia.com CNAME .
-t.nordea.fi CNAME .
-target-us.samsung.com CNAME .
-target.accenture.com CNAME .
-target.alfaromeousa.com CNAME .
-target.ansys.com CNAME .
-target.auspost.com.au CNAME .
-target.bankofamerica.com CNAME .
-target.belairdirect.com CNAME .
-target.bose.com CNAME .
-target.caixabank.es CNAME .
-target.champssports.com CNAME .
-target.chase.com CNAME .
-target.chrysler.com CNAME .
-target.cisco.com CNAME .
-target.cox.com CNAME .
-target.css.ch CNAME .
-target.dodge.com CNAME .
-target.element14.com CNAME .
-target.ey.com CNAME .
-target.fiatusa.com CNAME .
-target.footlocker.ca CNAME .
-target.footlocker.co.uk CNAME .
-target.footlocker.com CNAME .
-target.footlocker.de CNAME .
-target.footlocker.es CNAME .
-target.footlocker.fr CNAME .
-target.footlocker.it CNAME .
-target.footlocker.nl CNAME .
-target.footlocker.se CNAME .
-target.healthengine.com.au CNAME .
-target.intact.ca CNAME .
-target.intactinsurance.com CNAME .
-target.jeep.com CNAME .
-target.jwatch.org CNAME .
-target.kidsfootlocker.com CNAME .
-target.microsoft.com CNAME .
-target.nationwide.com CNAME .
-target.nejm.org CNAME .
-target.netapp.com CNAME .
-target.nfm.com CNAME .
-target.pandasecurity.com CNAME .
-target.premierinn.com CNAME .
-target.ramtrucks.com CNAME .
-target.sunlife.ca CNAME .
-target.thetruth.com CNAME .
-target.visitsingapore.com CNAME .
-target.walgreens.com CNAME .
-target.zeiss.com CNAME .
-targetsecure.kohler.com CNAME .
-tgt.maep.ibm.com CNAME .
-tmetrics.hdfcbank.com CNAME .
-tmetrics.webex.com CNAME .
-tt.natwest.com CNAME .
-tt.rbs.co.uk CNAME .
-ttmetrics.jcpenney.com CNAME .
-xps.huk24.de CNAME .
-;
-; mboxedge35-alb.tt.omtrdc.net disguised trackers
-;
-adtarget.barcainnovationhub.com CNAME .
-adtarget.fcbarcelona.cat CNAME .
-adtarget.fcbarcelona.com CNAME .
-adtarget.fcbarcelona.es CNAME .
-at.mclaren.com CNAME .
-at.neom.com CNAME .
-at.swisscom.ch CNAME .
-at.vodafone.de CNAME .
-atarget.harley-davidson.com CNAME .
-mbox.wegmans.com CNAME .
-mbox5e.offermatica.com CNAME .
-mcdmetrics2.aaa.com CNAME .
-metrics-target.siriusxm.com CNAME .
-optimisation.data.lloydsbankinggroup.com CNAME .
-purpose.fressnapf.de CNAME .
-purpose.maxizoo.be CNAME .
-sats.spiegel.de CNAME .
-securemvt.apple.com CNAME .
-sjourney.aarp.org CNAME .
-sjourney.penfed.org CNAME .
-soptimize.southwest.com CNAME .
-spersonalization.groundsguys.ca CNAME .
-starget.aircanada.com CNAME .
-starget.bitdefender.com CNAME .
-starget.intel.cn CNAME .
-starget.intel.com CNAME .
-starget.intel.com.au CNAME .
-starget.intel.es CNAME .
-starget.intel.in CNAME .
-starget.intel.la CNAME .
-starget.intel.ru CNAME .
-starget.ladbrokes.be CNAME .
-starget.mathworks.com CNAME .
-starget.morganstanley.com CNAME .
-starget.panerabread.com CNAME .
-starget.plumbenefits.com CNAME .
-starget.ticketsatwork.com CNAME .
-starget.workingadvantage.com CNAME .
-stt.bupa.com.au CNAME .
-stt.deakin.edu.au CNAME .
-stt.dell.com CNAME .
-stt.keno.com.au CNAME .
-stt.nvidia.com CNAME .
-stt.tab.com.au CNAME .
-stt.thelott.com CNAME .
-target-us.samsung.com CNAME .
-target.accenture.com CNAME .
-target.alfaromeousa.com CNAME .
-target.ansys.com CNAME .
-target.arcobusinesssolutions.com CNAME .
-target.auspost.com.au CNAME .
-target.bankofamerica.com CNAME .
-target.base.be CNAME .
-target.belairdirect.com CNAME .
-target.bose.com CNAME .
-target.caseys.com CNAME .
-target.champssports.com CNAME .
-target.chase.com CNAME .
-target.chrysler.com CNAME .
-target.cisco.com CNAME .
-target.cox.com CNAME .
-target.dodge.com CNAME .
-target.ey.com CNAME .
-target.farnell.com CNAME .
-target.fiatusa.com CNAME .
-target.footlocker.com CNAME .
-target.footlocker.nl CNAME .
-target.fuelman.com CNAME .
-target.healthengine.com.au CNAME .
-target.intact.ca CNAME .
-target.jeep.com CNAME .
-target.jwatch.org CNAME .
-target.kidsfootlocker.com CNAME .
-target.microsoft.com CNAME .
-target.nationwide.com CNAME .
-target.nejm.org CNAME .
-target.netapp.com CNAME .
-target.newark.com CNAME .
-target.nfm.com CNAME .
-target.pandasecurity.com CNAME .
-target.premierinn.com CNAME .
-target.ramtrucks.com CNAME .
-target.sunlife.ca CNAME .
-target.swinburne.edu.au CNAME .
-target.thetruth.com CNAME .
-target.visitsingapore.com CNAME .
-target.vwfs.mx CNAME .
-target.walgreens.com CNAME .
-targetsecure.kohler.com CNAME .
-tgt.maep.ibm.com CNAME .
-tmetrics.hdfcbank.com CNAME .
-tmetrics.webex.com CNAME .
-tt.natwest.com CNAME .
-ttmetrics.jcpenney.com CNAME .
-;
-; mboxedge35.tt.omtrdc.net disguised trackers
-;
-adtarget.barcainnovationhub.com CNAME .
-adtarget.fcbarcelona.cat CNAME .
-adtarget.fcbarcelona.com CNAME .
-adtarget.fcbarcelona.es CNAME .
-at.mclaren.com CNAME .
-at.neom.com CNAME .
-at.swisscom.ch CNAME .
-at.vodafone.de CNAME .
-atarget.harley-davidson.com CNAME .
-mbox.wegmans.com CNAME .
-mbox5e.offermatica.com CNAME .
-mcdmetrics2.aaa.com CNAME .
-metrics-target.siriusxm.com CNAME .
-optimisation.data.lloydsbankinggroup.com CNAME .
-purpose.fressnapf.de CNAME .
-purpose.maxizoo.be CNAME .
-sats.spiegel.de CNAME .
-securemvt.apple.com CNAME .
-sjourney.aarp.org CNAME .
-sjourney.penfed.org CNAME .
-soptimize.southwest.com CNAME .
-spersonalization.groundsguys.ca CNAME .
-starget.aircanada.com CNAME .
-starget.bitdefender.com CNAME .
-starget.intel.cn CNAME .
-starget.intel.com CNAME .
-starget.intel.com.au CNAME .
-starget.intel.es CNAME .
-starget.intel.in CNAME .
-starget.intel.la CNAME .
-starget.intel.ru CNAME .
-starget.ladbrokes.be CNAME .
-starget.mathworks.com CNAME .
-starget.morganstanley.com CNAME .
-starget.panerabread.com CNAME .
-starget.plumbenefits.com CNAME .
-starget.ticketsatwork.com CNAME .
-starget.workingadvantage.com CNAME .
-stt.bupa.com.au CNAME .
-stt.deakin.edu.au CNAME .
-stt.dell.com CNAME .
-stt.keno.com.au CNAME .
-stt.nvidia.com CNAME .
-stt.tab.com.au CNAME .
-stt.thelott.com CNAME .
-target-us.samsung.com CNAME .
-target.accenture.com CNAME .
-target.alfaromeousa.com CNAME .
-target.ansys.com CNAME .
-target.arcobusinesssolutions.com CNAME .
-target.auspost.com.au CNAME .
-target.bankofamerica.com CNAME .
-target.base.be CNAME .
-target.belairdirect.com CNAME .
-target.bose.com CNAME .
-target.caseys.com CNAME .
-target.champssports.com CNAME .
-target.chase.com CNAME .
-target.chrysler.com CNAME .
-target.cisco.com CNAME .
-target.cox.com CNAME .
-target.dodge.com CNAME .
-target.ey.com CNAME .
-target.farnell.com CNAME .
-target.fiatusa.com CNAME .
-target.footlocker.com CNAME .
-target.footlocker.nl CNAME .
-target.fuelman.com CNAME .
-target.healthengine.com.au CNAME .
-target.intact.ca CNAME .
-target.jeep.com CNAME .
-target.jwatch.org CNAME .
-target.kidsfootlocker.com CNAME .
-target.microsoft.com CNAME .
-target.nationwide.com CNAME .
-target.nejm.org CNAME .
-target.netapp.com CNAME .
-target.newark.com CNAME .
-target.nfm.com CNAME .
-target.pandasecurity.com CNAME .
-target.premierinn.com CNAME .
-target.ramtrucks.com CNAME .
-target.sunlife.ca CNAME .
-target.swinburne.edu.au CNAME .
-target.thetruth.com CNAME .
-target.visitsingapore.com CNAME .
-target.vwfs.mx CNAME .
-target.walgreens.com CNAME .
-targetsecure.kohler.com CNAME .
-tgt.maep.ibm.com CNAME .
-tmetrics.hdfcbank.com CNAME .
-tmetrics.webex.com CNAME .
-tt.natwest.com CNAME .
-ttmetrics.jcpenney.com CNAME .
+adtarget.fcbarcelona.jp CNAME .
+adtarget.fcbrookies.cat CNAME .
 ;
 ; mboxedge37.tt.omtrdc.net disguised trackers
 ;
 adtarget.barcainnovationhub.com CNAME .
 adtarget.fcbarcelona.cat CNAME .
-adtarget.fcbarcelona.co.it CNAME .
 adtarget.fcbarcelona.com CNAME .
 adtarget.fcbarcelona.es CNAME .
 adtarget.fcbarcelona.fr CNAME .
+adtarget.fcbrookies.cat CNAME .
 aep-target.credit-suisse.com CNAME .
-assets2.aami.com.au CNAME .
-at.bhw.de CNAME .
-at.db-finanzberatung.de CNAME .
 at.deutsche-bank.de CNAME .
-at.maxblue.de CNAME .
 at.mclaren.com CNAME .
 at.neom.com CNAME .
 at.norisbank.de CNAME .
@@ -8558,6 +8467,7 @@ at.swisscom.ch CNAME .
 at.vodafone.de CNAME .
 atarget.adelaide.edu.au CNAME .
 atarget.harley-davidson.com CNAME .
+contoso-my.sharepoint.com CNAME .
 mbox.wegmans.com CNAME .
 mcdmetrics2.aaa.com CNAME .
 metrics-target.siriusxm.com CNAME .
@@ -8567,21 +8477,19 @@ purpose.fressnapf.de CNAME .
 purpose.maxizoo.be CNAME .
 purpose.maxizoo.fr CNAME .
 purpose.maxizoo.pl CNAME .
+satarget.csu.edu.au CNAME .
 satarget.npubank.com.au CNAME .
 sats.manager-magazin.de CNAME .
 sats.spiegel.de CNAME .
 securemvt.apple.com CNAME .
-securemvt.apple.com.cn CNAME .
 sjourney.aarp.org CNAME .
 sjourney.penfed.org CNAME .
 somni.bell.ca CNAME .
 soptimize.southwest.com CNAME .
 starget.aircanada.com CNAME .
 starget.bitdefender.com CNAME .
-starget.huntington.com CNAME .
 starget.intel.cn CNAME .
 starget.intel.co.jp CNAME .
-starget.intel.co.kr CNAME .
 starget.intel.co.uk CNAME .
 starget.intel.com CNAME .
 starget.intel.com.au CNAME .
@@ -8598,7 +8506,6 @@ starget.intel.ru CNAME .
 starget.ladbrokes.be CNAME .
 starget.mathworks.com CNAME .
 starget.morganstanley.com CNAME .
-starget.nabtrade.com.au CNAME .
 starget.panerabread.com CNAME .
 starget.tv2.dk CNAME .
 stnt.sky.at CNAME .
@@ -8608,7 +8515,6 @@ stt.deakin.edu.au CNAME .
 stt.dell.com CNAME .
 stt.keno.com.au CNAME .
 stt.nvidia.com CNAME .
-stt.thelott.com CNAME .
 t.nordea.dk CNAME .
 t.nordea.fi CNAME .
 t.nordea.no CNAME .
@@ -8619,10 +8525,10 @@ target.accenture.com CNAME .
 target.alfaromeousa.com CNAME .
 target.allianz.ch CNAME .
 target.ansys.com CNAME .
+target.audifinancialservices.nl CNAME .
 target.auspost.com.au CNAME .
 target.bankofamerica.com CNAME .
 target.base.be CNAME .
-target.belairdirect.com CNAME .
 target.bose.com CNAME .
 target.caixabank.es CNAME .
 target.cap.ch CNAME .
@@ -8635,11 +8541,11 @@ target.cox.com CNAME .
 target.css.ch CNAME .
 target.dodge.com CNAME .
 target.element14.com CNAME .
-target.elvia.ch CNAME .
 target.eon.de CNAME .
 target.ey.com CNAME .
 target.farnell.com CNAME .
 target.fiatusa.com CNAME .
+target.fleetcardsusa.com CNAME .
 target.footlocker.at CNAME .
 target.footlocker.be CNAME .
 target.footlocker.ca CNAME .
@@ -8654,6 +8560,7 @@ target.footlocker.gr CNAME .
 target.footlocker.hu CNAME .
 target.footlocker.ie CNAME .
 target.footlocker.it CNAME .
+target.footlocker.lu CNAME .
 target.footlocker.nl CNAME .
 target.footlocker.no CNAME .
 target.footlocker.pl CNAME .
@@ -8661,31 +8568,31 @@ target.footlocker.pt CNAME .
 target.footlocker.se CNAME .
 target.groupama.fr CNAME .
 target.healthengine.com.au CNAME .
+target.hyundaiusa.com CNAME .
 target.jeep.com CNAME .
 target.jwatch.org CNAME .
-target.kidsfootlocker.com CNAME .
 target.microsoft.com CNAME .
 target.nationwide.com CNAME .
 target.nejm.org CNAME .
 target.netapp.com CNAME .
 target.newark.com CNAME .
 target.nfm.com CNAME .
-target.nrma.com.au CNAME .
 target.pandasecurity.com CNAME .
 target.prd.base.be CNAME .
+target.prd.telenet.be CNAME .
 target.premierinn.com CNAME .
 target.publicissapient.com CNAME .
 target.ramtrucks.com CNAME .
 target.sunlife.ca CNAME .
 target.sunlife.com.ph CNAME .
 target.swinburne.edu.au CNAME .
-target.telenet.be CNAME .
-target.thetruth.com CNAME .
+target.toyota.com CNAME .
 target.visitsingapore.com CNAME .
 target.vwfs.com CNAME .
 target.vwfs.cz CNAME .
 target.vwfs.de CNAME .
 target.vwfs.es CNAME .
+target.vwfs.fr CNAME .
 target.vwfs.it CNAME .
 target.walgreens.com CNAME .
 target.xfinity.com CNAME .
@@ -8699,15 +8606,15 @@ tt.rbs.co.uk CNAME .
 tt.sj.se CNAME .
 tt.ubs.com CNAME .
 tt.ulsterbank.co.uk CNAME .
-tt.ulsterbank.ie CNAME .
 ttmetrics.jcpenney.com CNAME .
 xps.huk.de CNAME .
 xps.huk24.de CNAME .
 ;
-; mboxedge38-alb.tt.omtrdc.net disguised trackers
+; mboxedge34-alb.tt.omtrdc.net disguised trackers
 ;
 adtarget.fcbarcelona.cat CNAME .
 adtarget.fcbarcelona.com CNAME .
+adtarget.fcbarcelona.es CNAME .
 adtarget.fcbarcelona.fr CNAME .
 aep-target.credit-suisse.com CNAME .
 at.deutsche-bank.de CNAME .
@@ -8720,92 +8627,92 @@ atarget.adelaide.edu.au CNAME .
 atarget.harley-davidson.com CNAME .
 experience.asb.co.nz CNAME .
 mbox.wegmans.com CNAME .
+mcdmetrics2.aaa.com CNAME .
 metrics-target.siriusxm.com CNAME .
 optimisation.data.lloydsbankinggroup.com CNAME .
-purpose.maxizoo.fr CNAME .
-sats.manager-magazin.de CNAME .
 sats.spiegel.de CNAME .
+securemvt.apple.com CNAME .
 sjourney.aarp.org CNAME .
 sjourney.penfed.org CNAME .
 somni.bell.ca CNAME .
 soptimize.southwest.com CNAME .
+spersonalization.fivestarpainting.com CNAME .
 starget.aircanada.com CNAME .
 starget.bitdefender.com CNAME .
-starget.intel.cn CNAME .
-starget.intel.co.jp CNAME .
-starget.intel.co.kr CNAME .
+starget.intel.co.uk CNAME .
 starget.intel.com CNAME .
-starget.intel.com.tr CNAME .
-starget.intel.com.tw CNAME .
+starget.intel.com.br CNAME .
+starget.intel.es CNAME .
+starget.intel.in CNAME .
 starget.intel.la CNAME .
 starget.intel.ru CNAME .
-starget.ladbrokes.be CNAME .
 starget.mathworks.com CNAME .
 starget.morganstanley.com CNAME .
-starget.nabtrade.com.au CNAME .
-starget.tv2.dk CNAME .
-stnt.sky.de CNAME .
+starget.panerabread.com CNAME .
+starget.plumbenefits.com CNAME .
+starget.ticketsatwork.com CNAME .
+starget.workingadvantage.com CNAME .
 stt.bupa.com.au CNAME .
 stt.deakin.edu.au CNAME .
 stt.dell.com CNAME .
 stt.nvidia.com CNAME .
 stt.tab.com.au CNAME .
-t.nordea.dk CNAME .
 t.nordea.fi CNAME .
-t.nordea.se CNAME .
 target-us.samsung.com CNAME .
 target.accenture.com CNAME .
 target.alfaromeousa.com CNAME .
 target.ansys.com CNAME .
 target.auspost.com.au CNAME .
 target.bankofamerica.com CNAME .
-target.bankwest.com.au CNAME .
+target.belairdirect.com CNAME .
 target.bose.com CNAME .
+target.caixabank.es CNAME .
 target.champssports.com CNAME .
 target.chase.com CNAME .
 target.chrysler.com CNAME .
 target.cisco.com CNAME .
 target.cox.com CNAME .
 target.dodge.com CNAME .
-target.element14.com CNAME .
-target.eon.de CNAME .
 target.ey.com CNAME .
-target.farnell.com CNAME .
-target.fiatusa.com CNAME .
 target.footlocker.ca CNAME .
-target.footlocker.co.uk CNAME .
 target.footlocker.com CNAME .
-target.footlocker.de CNAME .
+target.footlocker.es CNAME .
+target.footlocker.fr CNAME .
 target.healthengine.com.au CNAME .
+target.intact.ca CNAME .
+target.intactinsurance.com CNAME .
 target.jeep.com CNAME .
 target.jwatch.org CNAME .
+target.kidsfootlocker.com CNAME .
 target.microsoft.com CNAME .
 target.nationwide.com CNAME .
 target.nejm.org CNAME .
 target.netapp.com CNAME .
-target.nrma.com.au CNAME .
+target.newark.com CNAME .
+target.nfm.com CNAME .
 target.pandasecurity.com CNAME .
+target.premierinn.com CNAME .
 target.publicissapient.com CNAME .
 target.ramtrucks.com CNAME .
 target.sunlife.ca CNAME .
-target.sunlife.co.id CNAME .
-target.sunlife.com.hk CNAME .
-target.sunlife.com.ph CNAME .
-target.swinburne.edu.au CNAME .
+target.thetruth.com CNAME .
 target.visitsingapore.com CNAME .
+target.vwfs.co.uk CNAME .
 target.walgreens.com CNAME .
 target.zeiss.com CNAME .
+targetsecure.kohler.com CNAME .
 tgt.maep.ibm.com CNAME .
 tmetrics.hdfcbank.com CNAME .
 tmetrics.webex.com CNAME .
-tt.natwest.com CNAME .
 tt.ubs.com CNAME .
 ttmetrics.jcpenney.com CNAME .
+xps.huk24.de CNAME .
 ;
-; mboxedge38.tt.omtrdc.net disguised trackers
+; mboxedge34.tt.omtrdc.net disguised trackers
 ;
 adtarget.fcbarcelona.cat CNAME .
 adtarget.fcbarcelona.com CNAME .
+adtarget.fcbarcelona.es CNAME .
 adtarget.fcbarcelona.fr CNAME .
 aep-target.credit-suisse.com CNAME .
 at.deutsche-bank.de CNAME .
@@ -8818,10 +8725,106 @@ atarget.adelaide.edu.au CNAME .
 atarget.harley-davidson.com CNAME .
 experience.asb.co.nz CNAME .
 mbox.wegmans.com CNAME .
+mcdmetrics2.aaa.com CNAME .
 metrics-target.siriusxm.com CNAME .
 optimisation.data.lloydsbankinggroup.com CNAME .
+sats.spiegel.de CNAME .
+securemvt.apple.com CNAME .
+sjourney.aarp.org CNAME .
+sjourney.penfed.org CNAME .
+somni.bell.ca CNAME .
+soptimize.southwest.com CNAME .
+spersonalization.fivestarpainting.com CNAME .
+starget.aircanada.com CNAME .
+starget.bitdefender.com CNAME .
+starget.intel.co.uk CNAME .
+starget.intel.com CNAME .
+starget.intel.com.br CNAME .
+starget.intel.es CNAME .
+starget.intel.in CNAME .
+starget.intel.la CNAME .
+starget.intel.ru CNAME .
+starget.mathworks.com CNAME .
+starget.morganstanley.com CNAME .
+starget.panerabread.com CNAME .
+starget.plumbenefits.com CNAME .
+starget.ticketsatwork.com CNAME .
+starget.workingadvantage.com CNAME .
+stt.bupa.com.au CNAME .
+stt.deakin.edu.au CNAME .
+stt.dell.com CNAME .
+stt.nvidia.com CNAME .
+stt.tab.com.au CNAME .
+t.nordea.fi CNAME .
+target-us.samsung.com CNAME .
+target.accenture.com CNAME .
+target.alfaromeousa.com CNAME .
+target.ansys.com CNAME .
+target.auspost.com.au CNAME .
+target.bankofamerica.com CNAME .
+target.belairdirect.com CNAME .
+target.bose.com CNAME .
+target.caixabank.es CNAME .
+target.champssports.com CNAME .
+target.chase.com CNAME .
+target.chrysler.com CNAME .
+target.cisco.com CNAME .
+target.cox.com CNAME .
+target.dodge.com CNAME .
+target.ey.com CNAME .
+target.footlocker.ca CNAME .
+target.footlocker.com CNAME .
+target.footlocker.es CNAME .
+target.footlocker.fr CNAME .
+target.healthengine.com.au CNAME .
+target.intact.ca CNAME .
+target.intactinsurance.com CNAME .
+target.jeep.com CNAME .
+target.jwatch.org CNAME .
+target.kidsfootlocker.com CNAME .
+target.microsoft.com CNAME .
+target.nationwide.com CNAME .
+target.nejm.org CNAME .
+target.netapp.com CNAME .
+target.newark.com CNAME .
+target.nfm.com CNAME .
+target.pandasecurity.com CNAME .
+target.premierinn.com CNAME .
+target.publicissapient.com CNAME .
+target.ramtrucks.com CNAME .
+target.sunlife.ca CNAME .
+target.thetruth.com CNAME .
+target.visitsingapore.com CNAME .
+target.vwfs.co.uk CNAME .
+target.walgreens.com CNAME .
+target.zeiss.com CNAME .
+targetsecure.kohler.com CNAME .
+tgt.maep.ibm.com CNAME .
+tmetrics.hdfcbank.com CNAME .
+tmetrics.webex.com CNAME .
+tt.ubs.com CNAME .
+ttmetrics.jcpenney.com CNAME .
+xps.huk24.de CNAME .
+;
+; mboxedge35-alb.tt.omtrdc.net disguised trackers
+;
+adtarget.fcbarcelona.cat CNAME .
+adtarget.fcbarcelona.com CNAME .
+adtarget.fcbarcelona.es CNAME .
+at.deutsche-bank.de CNAME .
+at.mclaren.com CNAME .
+at.swisscom.ch CNAME .
+at.vodafone.de CNAME .
+atarget.adelaide.edu.au CNAME .
+atarget.harley-davidson.com CNAME .
+mbox.wegmans.com CNAME .
+mcdmetrics2.aaa.com CNAME .
+metrics-target.siriusxm.com CNAME .
+optimisation.data.lloydsbankinggroup.com CNAME .
+purpose.fressnapf.de CNAME .
+purpose.maxizoo.be CNAME .
 purpose.maxizoo.fr CNAME .
-sats.manager-magazin.de CNAME .
+satarget.csu.edu.au CNAME .
 sats.spiegel.de CNAME .
 sjourney.aarp.org CNAME .
 sjourney.penfed.org CNAME .
@@ -8830,27 +8833,24 @@ soptimize.southwest.com CNAME .
 starget.aircanada.com CNAME .
 starget.bitdefender.com CNAME .
 starget.intel.cn CNAME .
-starget.intel.co.jp CNAME .
-starget.intel.co.kr CNAME .
 starget.intel.com CNAME .
-starget.intel.com.tr CNAME .
-starget.intel.com.tw CNAME .
+starget.intel.de CNAME .
+starget.intel.es CNAME .
+starget.intel.in CNAME .
 starget.intel.la CNAME .
 starget.intel.ru CNAME .
 starget.ladbrokes.be CNAME .
 starget.mathworks.com CNAME .
 starget.morganstanley.com CNAME .
-starget.nabtrade.com.au CNAME .
-starget.tv2.dk CNAME .
-stnt.sky.de CNAME .
+starget.panerabread.com CNAME .
+starget.plumbenefits.com CNAME .
+starget.ticketsatwork.com CNAME .
+starget.workingadvantage.com CNAME .
 stt.bupa.com.au CNAME .
 stt.deakin.edu.au CNAME .
 stt.dell.com CNAME .
 stt.nvidia.com CNAME .
-stt.tab.com.au CNAME .
-t.nordea.dk CNAME .
-t.nordea.fi CNAME .
-t.nordea.se CNAME .
+stt.thelott.com CNAME .
 target-us.samsung.com CNAME .
 target.accenture.com CNAME .
 target.alfaromeousa.com CNAME .
@@ -8858,56 +8858,146 @@ target.ansys.com CNAME .
 target.auspost.com.au CNAME .
 target.bankofamerica.com CNAME .
 target.bankwest.com.au CNAME .
+target.base.be CNAME .
+target.bcbsnd.com CNAME .
+target.belairdirect.com CNAME .
 target.bose.com CNAME .
 target.champssports.com CNAME .
 target.chase.com CNAME .
 target.chrysler.com CNAME .
 target.cisco.com CNAME .
+target.comdata.com CNAME .
+target.corpayone.com CNAME .
 target.cox.com CNAME .
 target.dodge.com CNAME .
-target.element14.com CNAME .
-target.eon.de CNAME .
 target.ey.com CNAME .
-target.farnell.com CNAME .
 target.fiatusa.com CNAME .
-target.footlocker.ca CNAME .
 target.footlocker.co.uk CNAME .
 target.footlocker.com CNAME .
-target.footlocker.de CNAME .
-target.healthengine.com.au CNAME .
 target.jeep.com CNAME .
-target.jwatch.org CNAME .
+target.kidsfootlocker.com CNAME .
 target.microsoft.com CNAME .
 target.nationwide.com CNAME .
 target.nejm.org CNAME .
 target.netapp.com CNAME .
-target.nrma.com.au CNAME .
+target.newark.com CNAME .
+target.nfm.com CNAME .
 target.pandasecurity.com CNAME .
+target.premierinn.com CNAME .
 target.publicissapient.com CNAME .
 target.ramtrucks.com CNAME .
-target.sunlife.ca CNAME .
-target.sunlife.co.id CNAME .
-target.sunlife.com.hk CNAME .
-target.sunlife.com.ph CNAME .
-target.swinburne.edu.au CNAME .
+target.thetruth.com CNAME .
 target.visitsingapore.com CNAME .
+target.vwfs.mx CNAME .
 target.walgreens.com CNAME .
-target.zeiss.com CNAME .
+targetsecure.kohler.com CNAME .
 tgt.maep.ibm.com CNAME .
 tmetrics.hdfcbank.com CNAME .
 tmetrics.webex.com CNAME .
 tt.natwest.com CNAME .
-tt.ubs.com CNAME .
+ttmetrics.jcpenney.com CNAME .
+;
+; mboxedge35.tt.omtrdc.net disguised trackers
+;
+adtarget.fcbarcelona.cat CNAME .
+adtarget.fcbarcelona.com CNAME .
+adtarget.fcbarcelona.es CNAME .
+at.deutsche-bank.de CNAME .
+at.mclaren.com CNAME .
+at.swisscom.ch CNAME .
+at.vodafone.de CNAME .
+atarget.adelaide.edu.au CNAME .
+atarget.harley-davidson.com CNAME .
+mbox.wegmans.com CNAME .
+mcdmetrics2.aaa.com CNAME .
+metrics-target.siriusxm.com CNAME .
+optimisation.data.lloydsbankinggroup.com CNAME .
+purpose.fressnapf.de CNAME .
+purpose.maxizoo.be CNAME .
+purpose.maxizoo.fr CNAME .
+satarget.csu.edu.au CNAME .
+sats.spiegel.de CNAME .
+sjourney.aarp.org CNAME .
+sjourney.penfed.org CNAME .
+somni.bell.ca CNAME .
+soptimize.southwest.com CNAME .
+starget.aircanada.com CNAME .
+starget.bitdefender.com CNAME .
+starget.intel.cn CNAME .
+starget.intel.com CNAME .
+starget.intel.de CNAME .
+starget.intel.es CNAME .
+starget.intel.in CNAME .
+starget.intel.la CNAME .
+starget.intel.ru CNAME .
+starget.ladbrokes.be CNAME .
+starget.mathworks.com CNAME .
+starget.morganstanley.com CNAME .
+starget.panerabread.com CNAME .
+starget.plumbenefits.com CNAME .
+starget.ticketsatwork.com CNAME .
+starget.workingadvantage.com CNAME .
+stt.bupa.com.au CNAME .
+stt.deakin.edu.au CNAME .
+stt.dell.com CNAME .
+stt.nvidia.com CNAME .
+stt.thelott.com CNAME .
+target-us.samsung.com CNAME .
+target.accenture.com CNAME .
+target.alfaromeousa.com CNAME .
+target.ansys.com CNAME .
+target.auspost.com.au CNAME .
+target.bankofamerica.com CNAME .
+target.bankwest.com.au CNAME .
+target.base.be CNAME .
+target.bcbsnd.com CNAME .
+target.belairdirect.com CNAME .
+target.bose.com CNAME .
+target.champssports.com CNAME .
+target.chase.com CNAME .
+target.chrysler.com CNAME .
+target.cisco.com CNAME .
+target.comdata.com CNAME .
+target.corpayone.com CNAME .
+target.cox.com CNAME .
+target.dodge.com CNAME .
+target.ey.com CNAME .
+target.fiatusa.com CNAME .
+target.footlocker.co.uk CNAME .
+target.footlocker.com CNAME .
+target.jeep.com CNAME .
+target.kidsfootlocker.com CNAME .
+target.microsoft.com CNAME .
+target.nationwide.com CNAME .
+target.nejm.org CNAME .
+target.netapp.com CNAME .
+target.newark.com CNAME .
+target.nfm.com CNAME .
+target.pandasecurity.com CNAME .
+target.premierinn.com CNAME .
+target.publicissapient.com CNAME .
+target.ramtrucks.com CNAME .
+target.thetruth.com CNAME .
+target.visitsingapore.com CNAME .
+target.vwfs.mx CNAME .
+target.walgreens.com CNAME .
+targetsecure.kohler.com CNAME .
+tgt.maep.ibm.com CNAME .
+tmetrics.hdfcbank.com CNAME .
+tmetrics.webex.com CNAME .
+tt.natwest.com CNAME .
 ttmetrics.jcpenney.com CNAME .
 ;
 ; mboxedge32-alb.tt.omtrdc.net disguised trackers
 ;
 adtarget.fcbarcelona.com CNAME .
+adtarget.fcbarcelona.jp CNAME .
 at.mclaren.com CNAME .
 at.swisscom.ch CNAME .
 atarget.harley-davidson.com CNAME .
-metrics-target.siriusxm.com CNAME .
+jptgtr.astellas.jp CNAME .
 sats.spiegel.de CNAME .
+sjourney.aarp.org CNAME .
 soptimize.southwest.com CNAME .
 starget.aircanada.com CNAME .
 starget.bitdefender.com CNAME .
@@ -8920,6 +9010,7 @@ starget.mathworks.com CNAME .
 starget.morganstanley.com CNAME .
 stt.dell.com CNAME .
 stt.nvidia.com CNAME .
+t.nordea.no CNAME .
 target-us.samsung.com CNAME .
 target.accenture.com CNAME .
 target.aia.co.kr CNAME .
@@ -8927,32 +9018,37 @@ target.ansys.com CNAME .
 target.auspost.com.au CNAME .
 target.bankofamerica.com CNAME .
 target.bose.com CNAME .
+target.champssports.com CNAME .
 target.chase.com CNAME .
 target.cisco.com CNAME .
+target.dodge.com CNAME .
 target.element14.com CNAME .
-target.footlocker.ca CNAME .
+target.ey.com CNAME .
+target.footlocker.com CNAME .
+target.footlocker.es CNAME .
+target.jeep.com CNAME .
 target.microsoft.com CNAME .
 target.nejm.org CNAME .
 target.netapp.com CNAME .
-target.newark.com CNAME .
-target.sunlife.com.ph CNAME .
+target.pandasecurity.com CNAME .
+target.premierinn.com CNAME .
+target.swinburne.edu.au CNAME .
 target.visitsingapore.com CNAME .
 target.walgreens.com CNAME .
-targetsecure.kohler.com CNAME .
 tgt.maep.ibm.com CNAME .
 tmetrics.hdfcbank.com CNAME .
 tmetrics.webex.com CNAME .
-ttmetrics.jcpenney.com CNAME .
-xps.huk24.de CNAME .
 ;
 ; mboxedge32.tt.omtrdc.net disguised trackers
 ;
 adtarget.fcbarcelona.com CNAME .
+adtarget.fcbarcelona.jp CNAME .
 at.mclaren.com CNAME .
 at.swisscom.ch CNAME .
 atarget.harley-davidson.com CNAME .
-metrics-target.siriusxm.com CNAME .
+jptgtr.astellas.jp CNAME .
 sats.spiegel.de CNAME .
+sjourney.aarp.org CNAME .
 soptimize.southwest.com CNAME .
 starget.aircanada.com CNAME .
 starget.bitdefender.com CNAME .
@@ -8965,6 +9061,7 @@ starget.mathworks.com CNAME .
 starget.morganstanley.com CNAME .
 stt.dell.com CNAME .
 stt.nvidia.com CNAME .
+t.nordea.no CNAME .
 target-us.samsung.com CNAME .
 target.accenture.com CNAME .
 target.aia.co.kr CNAME .
@@ -8972,23 +9069,208 @@ target.ansys.com CNAME .
 target.auspost.com.au CNAME .
 target.bankofamerica.com CNAME .
 target.bose.com CNAME .
+target.champssports.com CNAME .
 target.chase.com CNAME .
 target.cisco.com CNAME .
+target.dodge.com CNAME .
 target.element14.com CNAME .
-target.footlocker.ca CNAME .
+target.ey.com CNAME .
+target.footlocker.com CNAME .
+target.footlocker.es CNAME .
+target.jeep.com CNAME .
 target.microsoft.com CNAME .
 target.nejm.org CNAME .
 target.netapp.com CNAME .
-target.newark.com CNAME .
-target.sunlife.com.ph CNAME .
+target.pandasecurity.com CNAME .
+target.premierinn.com CNAME .
+target.swinburne.edu.au CNAME .
 target.visitsingapore.com CNAME .
 target.walgreens.com CNAME .
+tgt.maep.ibm.com CNAME .
+tmetrics.hdfcbank.com CNAME .
+tmetrics.webex.com CNAME .
+;
+; mboxedge38-alb.tt.omtrdc.net disguised trackers
+;
+adtarget.fcbarcelona.com CNAME .
+adtarget.fcbarcelona.es CNAME .
+at.mclaren.com CNAME .
+at.neom.com CNAME .
+at.norisbank.de CNAME .
+at.swisscom.ch CNAME .
+at.vodafone.de CNAME .
+atarget.adelaide.edu.au CNAME .
+atarget.harley-davidson.com CNAME .
+experience.asb.co.nz CNAME .
+mbox.wegmans.com CNAME .
+metrics-target.siriusxm.com CNAME .
+optimisation.data.lloydsbankinggroup.com CNAME .
+purpose.fressnapf.de CNAME .
+satarget.csu.edu.au CNAME .
+sats.spiegel.de CNAME .
+sjourney.aarp.org CNAME .
+sjourney.penfed.org CNAME .
+somni.bell.ca CNAME .
+soptimize.southwest.com CNAME .
+starget.aircanada.com CNAME .
+starget.bitdefender.com CNAME .
+starget.intel.cn CNAME .
+starget.intel.co.jp CNAME .
+starget.intel.co.uk CNAME .
+starget.intel.com CNAME .
+starget.intel.com.br CNAME .
+starget.intel.com.tr CNAME .
+starget.intel.com.tw CNAME .
+starget.intel.es CNAME .
+starget.intel.in CNAME .
+starget.intel.ru CNAME .
+starget.ladbrokes.be CNAME .
+starget.mathworks.com CNAME .
+starget.morganstanley.com CNAME .
+starget.plumbenefits.com CNAME .
+starget.ticketsatwork.com CNAME .
+starget.tv2.dk CNAME .
+stt.deakin.edu.au CNAME .
+stt.dell.com CNAME .
+stt.nvidia.com CNAME .
+stt.tab.com.au CNAME .
+t.nordea.dk CNAME .
+target-us.samsung.com CNAME .
+target.accenture.com CNAME .
+target.ansys.com CNAME .
+target.auspost.com.au CNAME .
+target.bankofamerica.com CNAME .
+target.base.be CNAME .
+target.bose.com CNAME .
+target.caixabank.es CNAME .
+target.chase.com CNAME .
+target.chrysler.com CNAME .
+target.cisco.com CNAME .
+target.css.ch CNAME .
+target.dodge.com CNAME .
+target.element14.com CNAME .
+target.ey.com CNAME .
+target.farnell.com CNAME .
+target.fiatusa.com CNAME .
+target.footlocker.ca CNAME .
+target.footlocker.com CNAME .
+target.footlocker.de CNAME .
+target.groupama.fr CNAME .
+target.healthengine.com.au CNAME .
+target.jeep.com CNAME .
+target.jwatch.org CNAME .
+target.microsoft.com CNAME .
+target.nationwide.com CNAME .
+target.nejm.org CNAME .
+target.newark.com CNAME .
+target.nrma.com.au CNAME .
+target.pandasecurity.com CNAME .
+target.premierinn.com CNAME .
+target.publicissapient.com CNAME .
+target.ramtrucks.com CNAME .
+target.sunlife.ca CNAME .
+target.sunlife.com.hk CNAME .
+target.sunlife.com.ph CNAME .
+target.swinburne.edu.au CNAME .
+target.visitsingapore.com CNAME .
+target.walgreens.com CNAME .
+target.zeiss.com CNAME .
 targetsecure.kohler.com CNAME .
 tgt.maep.ibm.com CNAME .
 tmetrics.hdfcbank.com CNAME .
 tmetrics.webex.com CNAME .
-ttmetrics.jcpenney.com CNAME .
-xps.huk24.de CNAME .
+tt.ubs.com CNAME .
+;
+; mboxedge38.tt.omtrdc.net disguised trackers
+;
+adtarget.fcbarcelona.com CNAME .
+adtarget.fcbarcelona.es CNAME .
+at.mclaren.com CNAME .
+at.neom.com CNAME .
+at.norisbank.de CNAME .
+at.swisscom.ch CNAME .
+at.vodafone.de CNAME .
+atarget.adelaide.edu.au CNAME .
+atarget.harley-davidson.com CNAME .
+experience.asb.co.nz CNAME .
+mbox.wegmans.com CNAME .
+metrics-target.siriusxm.com CNAME .
+optimisation.data.lloydsbankinggroup.com CNAME .
+purpose.fressnapf.de CNAME .
+satarget.csu.edu.au CNAME .
+sats.spiegel.de CNAME .
+sjourney.aarp.org CNAME .
+sjourney.penfed.org CNAME .
+somni.bell.ca CNAME .
+soptimize.southwest.com CNAME .
+starget.aircanada.com CNAME .
+starget.bitdefender.com CNAME .
+starget.intel.cn CNAME .
+starget.intel.co.jp CNAME .
+starget.intel.co.uk CNAME .
+starget.intel.com CNAME .
+starget.intel.com.br CNAME .
+starget.intel.com.tr CNAME .
+starget.intel.com.tw CNAME .
+starget.intel.es CNAME .
+starget.intel.in CNAME .
+starget.intel.ru CNAME .
+starget.ladbrokes.be CNAME .
+starget.mathworks.com CNAME .
+starget.morganstanley.com CNAME .
+starget.plumbenefits.com CNAME .
+starget.ticketsatwork.com CNAME .
+starget.tv2.dk CNAME .
+stt.deakin.edu.au CNAME .
+stt.dell.com CNAME .
+stt.nvidia.com CNAME .
+stt.tab.com.au CNAME .
+t.nordea.dk CNAME .
+target-us.samsung.com CNAME .
+target.accenture.com CNAME .
+target.ansys.com CNAME .
+target.auspost.com.au CNAME .
+target.bankofamerica.com CNAME .
+target.base.be CNAME .
+target.bose.com CNAME .
+target.caixabank.es CNAME .
+target.chase.com CNAME .
+target.chrysler.com CNAME .
+target.cisco.com CNAME .
+target.css.ch CNAME .
+target.dodge.com CNAME .
+target.element14.com CNAME .
+target.ey.com CNAME .
+target.farnell.com CNAME .
+target.fiatusa.com CNAME .
+target.footlocker.ca CNAME .
+target.footlocker.com CNAME .
+target.footlocker.de CNAME .
+target.groupama.fr CNAME .
+target.healthengine.com.au CNAME .
+target.jeep.com CNAME .
+target.jwatch.org CNAME .
+target.microsoft.com CNAME .
+target.nationwide.com CNAME .
+target.nejm.org CNAME .
+target.newark.com CNAME .
+target.nrma.com.au CNAME .
+target.pandasecurity.com CNAME .
+target.premierinn.com CNAME .
+target.publicissapient.com CNAME .
+target.ramtrucks.com CNAME .
+target.sunlife.ca CNAME .
+target.sunlife.com.hk CNAME .
+target.sunlife.com.ph CNAME .
+target.swinburne.edu.au CNAME .
+target.visitsingapore.com CNAME .
+target.walgreens.com CNAME .
+target.zeiss.com CNAME .
+targetsecure.kohler.com CNAME .
+tgt.maep.ibm.com CNAME .
+tmetrics.hdfcbank.com CNAME .
+tmetrics.webex.com CNAME .
+tt.ubs.com CNAME .
 ;
 ; telenetgroup.tt.omtrdc.net disguised trackers
 ;
@@ -9002,124 +9284,114 @@ aep-target.credit-suisse.com CNAME .
 ; mboxedge36-alb.tt.omtrdc.net disguised trackers
 ;
 assets2.aainsurance.co.nz CNAME .
-assets2.gio.com.au CNAME .
 assets2.suncorp.com.au CNAME .
-at.mclaren.com CNAME .
 atarget.adelaide.edu.au CNAME .
 atarget.harley-davidson.com CNAME .
 experience.asb.co.nz CNAME .
+mbox.wegmans.com CNAME .
+optimisation.data.lloydsbankinggroup.com CNAME .
 satarget.csu.edu.au CNAME .
 sats.spiegel.de CNAME .
 sjourney.aarp.org CNAME .
+somni.bell.ca CNAME .
 starget.aircanada.com CNAME .
 starget.bitdefender.com CNAME .
-starget.intel.cn CNAME .
 starget.intel.com CNAME .
 starget.intel.com.au CNAME .
 starget.intel.com.tw CNAME .
-starget.intel.in CNAME .
+starget.intel.fr CNAME .
 starget.mathworks.com CNAME .
 starget.morganstanley.com CNAME .
 stt.bupa.com.au CNAME .
 stt.deakin.edu.au CNAME .
 stt.dell.com CNAME .
 stt.keno.com.au CNAME .
-stt.nvidia.com CNAME .
 stt.tab.com.au CNAME .
 stt.thelott.com CNAME .
-t.nordea.fi CNAME .
+stt.tyro.com CNAME .
 target-us.samsung.com CNAME .
-target.accenture.com CNAME .
-target.aia.co.kr CNAME .
 target.auspost.com.au CNAME .
 target.bankofamerica.com CNAME .
 target.bankwest.com.au CNAME .
 target.bose.com CNAME .
 target.chase.com CNAME .
 target.cisco.com CNAME .
-target.dodge.com CNAME .
 target.element14.com CNAME .
-target.ey.com CNAME .
 target.footlocker.com CNAME .
 target.healthengine.com.au CNAME .
 target.jeep.com CNAME .
+target.kidsfootlocker.com CNAME .
 target.maxxia.com.au CNAME .
 target.microsoft.com CNAME .
 target.nejm.org CNAME .
 target.nrma.com.au CNAME .
 target.pandasecurity.com CNAME .
 target.premierinn.com CNAME .
-target.ramtrucks.com CNAME .
+target.securemaxxia.com.au CNAME .
+target.sunlife.ca CNAME .
 target.swinburne.edu.au CNAME .
 target.visitsingapore.com CNAME .
 target.walgreens.com CNAME .
 tgt.maep.ibm.com CNAME .
-tmetrics.hdfcbank.com CNAME .
 tmetrics.webex.com CNAME .
 ;
 ; mboxedge36.tt.omtrdc.net disguised trackers
 ;
 assets2.aainsurance.co.nz CNAME .
-assets2.gio.com.au CNAME .
 assets2.suncorp.com.au CNAME .
-at.mclaren.com CNAME .
 atarget.adelaide.edu.au CNAME .
 atarget.harley-davidson.com CNAME .
 experience.asb.co.nz CNAME .
+mbox.wegmans.com CNAME .
+optimisation.data.lloydsbankinggroup.com CNAME .
 satarget.csu.edu.au CNAME .
 sats.spiegel.de CNAME .
 sjourney.aarp.org CNAME .
+somni.bell.ca CNAME .
 starget.aircanada.com CNAME .
 starget.bitdefender.com CNAME .
-starget.intel.cn CNAME .
 starget.intel.com CNAME .
 starget.intel.com.au CNAME .
 starget.intel.com.tw CNAME .
-starget.intel.in CNAME .
+starget.intel.fr CNAME .
 starget.mathworks.com CNAME .
 starget.morganstanley.com CNAME .
 stt.bupa.com.au CNAME .
 stt.deakin.edu.au CNAME .
 stt.dell.com CNAME .
 stt.keno.com.au CNAME .
-stt.nvidia.com CNAME .
 stt.tab.com.au CNAME .
 stt.thelott.com CNAME .
-t.nordea.fi CNAME .
+stt.tyro.com CNAME .
 target-us.samsung.com CNAME .
-target.accenture.com CNAME .
-target.aia.co.kr CNAME .
 target.auspost.com.au CNAME .
 target.bankofamerica.com CNAME .
 target.bankwest.com.au CNAME .
 target.bose.com CNAME .
 target.chase.com CNAME .
 target.cisco.com CNAME .
-target.dodge.com CNAME .
 target.element14.com CNAME .
-target.ey.com CNAME .
 target.footlocker.com CNAME .
 target.healthengine.com.au CNAME .
 target.jeep.com CNAME .
+target.kidsfootlocker.com CNAME .
 target.maxxia.com.au CNAME .
 target.microsoft.com CNAME .
 target.nejm.org CNAME .
 target.nrma.com.au CNAME .
 target.pandasecurity.com CNAME .
 target.premierinn.com CNAME .
-target.ramtrucks.com CNAME .
+target.securemaxxia.com.au CNAME .
+target.sunlife.ca CNAME .
 target.swinburne.edu.au CNAME .
 target.visitsingapore.com CNAME .
 target.walgreens.com CNAME .
 tgt.maep.ibm.com CNAME .
-tmetrics.hdfcbank.com CNAME .
 tmetrics.webex.com CNAME .
 ;
 ; suncorpmetwayltd.tt.omtrdc.net disguised trackers
 ;
 assets2.aainsurance.co.nz CNAME .
-assets2.aami.com.au CNAME .
-assets2.gio.com.au CNAME .
 assets2.suncorp.com.au CNAME .
 ;
 ; duerzc3hf5let.cloudfront.net disguised trackers
@@ -9128,10 +9400,7 @@ at-cdn.swisscom.ch CNAME .
 ;
 ; deutschebankag.tt.omtrdc.net disguised trackers
 ;
-at.bhw.de CNAME .
-at.db-finanzberatung.de CNAME .
 at.deutsche-bank.de CNAME .
-at.maxblue.de CNAME .
 at.norisbank.de CNAME .
 at.postbank.de CNAME .
 ;
@@ -9158,6 +9427,11 @@ atarget.adelaide.edu.au CNAME .
 ; harleydavidson.tt.omtrdc.net disguised trackers
 ;
 atarget.harley-davidson.com CNAME .
+;
+; microsoftmscompoc.tt.omtrdc.net disguised trackers
+;
+contoso-my.sharepoint.com CNAME .
+target.microsoft.com CNAME .
 ;
 ; harrisbank.com.insight.omtrdc.net disguised trackers
 ;
@@ -9223,17 +9497,13 @@ dm-target.fishersci.com CNAME .
 ;
 experience.asb.co.nz CNAME .
 ;
-; canadianimperialbank.tt.omtrdc.net disguised trackers
+; astellas.tt.omtrdc.net disguised trackers
 ;
-experiences.cibc.com CNAME .
+jptgtr.astellas.jp CNAME .
 ;
 ; wegmans.tt.omtrdc.net disguised trackers
 ;
 mbox.wegmans.com CNAME .
-;
-; offermatica.tt.omtrdc.net disguised trackers
-;
-mbox5e.offermatica.com CNAME .
 ;
 ; aaanortheast.tt.omtrdc.net disguised trackers
 ;
@@ -9252,6 +9522,7 @@ metrics.cartoonnetworkla.com CNAME .
 metrics.lmtonline.com CNAME .
 metrics.sfchronicle.com CNAME .
 smetrics.lmtonline.com CNAME .
+smetrics.sfchronicle.com CNAME .
 smetrics.yourconroenews.com CNAME .
 ;
 ; cooperativegroup.tt.omtrdc.net disguised trackers
@@ -9276,7 +9547,7 @@ purpose.maxizoo.ie CNAME .
 ;
 ; zurcherkantonalbank.tt.omtrdc.net disguised trackers
 ;
-samt.swisscanto.com CNAME .
+samt.frankly.ch CNAME .
 samt.zkb.ch CNAME .
 ;
 ; csu.tt.omtrdc.net disguised trackers
@@ -9299,7 +9570,6 @@ sats.spiegel.de CNAME .
 ; apple.tt.omtrdc.net disguised trackers
 ;
 securemvt.apple.com CNAME .
-securemvt.apple.com.cn CNAME .
 ;
 ; aarp.tt.omtrdc.net disguised trackers
 ;
@@ -9319,7 +9589,7 @@ soptimize.southwest.com CNAME .
 ;
 ; nbly.tt.omtrdc.net disguised trackers
 ;
-spersonalization.groundsguys.ca CNAME .
+spersonalization.fivestarpainting.com CNAME .
 ;
 ; aircanada.tt.omtrdc.net disguised trackers
 ;
@@ -9336,10 +9606,6 @@ starget.bitdefender.com CNAME .
 ; collegeboard.tt.omtrdc.net disguised trackers
 ;
 starget.collegeboard.org CNAME .
-;
-; huntingtonbank.tt.omtrdc.net disguised trackers
-;
-starget.huntington.com CNAME .
 ;
 ; intelcorporation.tt.omtrdc.net disguised trackers
 ;
@@ -9372,10 +9638,6 @@ starget.mathworks.com CNAME .
 ; morganstanleyandco.tt.omtrdc.net disguised trackers
 ;
 starget.morganstanley.com CNAME .
-;
-; nabtrade.tt.omtrdc.net disguised trackers
-;
-starget.nabtrade.com.au CNAME .
 ;
 ; panera.tt.omtrdc.net disguised trackers
 ;
@@ -9448,6 +9710,10 @@ stt.tab.com.au CNAME .
 ;
 stt.thelott.com CNAME .
 ;
+; tyro.tt.omtrdc.net disguised trackers
+;
+stt.tyro.com CNAME .
+;
 ; onemarketingazd.tt.omtrdc.net disguised trackers
 ;
 sxp.allianz.de CNAME .
@@ -9493,17 +9759,22 @@ target.ramtrucks.com CNAME .
 ;
 target.allianz.ch CNAME .
 target.cap.ch CNAME .
-target.elvia.ch CNAME .
 ;
 ; ansysinc.tt.omtrdc.net disguised trackers
 ;
 target.ansys.com CNAME .
 ;
-; fleetcortechnologies.tt.omtrdc.net disguised trackers
+; volkswagenfinancials.tt.omtrdc.net disguised trackers
 ;
-target.arcobusinesssolutions.com CNAME .
-target.caseys.com CNAME .
-target.fuelman.com CNAME .
+target.audifinancialservices.nl CNAME .
+target.vwfs.co.uk CNAME .
+target.vwfs.com CNAME .
+target.vwfs.cz CNAME .
+target.vwfs.de CNAME .
+target.vwfs.es CNAME .
+target.vwfs.fr CNAME .
+target.vwfs.it CNAME .
+target.vwfs.mx CNAME .
 ;
 ; australiapost.tt.omtrdc.net disguised trackers
 ;
@@ -9521,7 +9792,11 @@ target.bankwest.com.au CNAME .
 ;
 target.base.be CNAME .
 target.prd.base.be CNAME .
-target.telenet.be CNAME .
+target.prd.telenet.be CNAME .
+;
+; bcbsnd.tt.omtrdc.net disguised trackers
+;
+target.bcbsnd.com CNAME .
 ;
 ; intactfinancialcorpo.tt.omtrdc.net disguised trackers
 ;
@@ -9536,6 +9811,13 @@ target.bose.com CNAME .
 ; lacaixa.tt.omtrdc.net disguised trackers
 ;
 target.caixabank.es CNAME .
+;
+; fleetcortechnologies.tt.omtrdc.net disguised trackers
+;
+target.caseys.com CNAME .
+target.comdata.com CNAME .
+target.corpayone.com CNAME .
+target.fleetcardsusa.com CNAME .
 ;
 ; centerpointenergy.tt.omtrdc.net disguised trackers
 ;
@@ -9562,12 +9844,17 @@ target.footlocker.gr CNAME .
 target.footlocker.hu CNAME .
 target.footlocker.ie CNAME .
 target.footlocker.it CNAME .
+target.footlocker.lu CNAME .
 target.footlocker.nl CNAME .
 target.footlocker.no CNAME .
 target.footlocker.pl CNAME .
 target.footlocker.pt CNAME .
 target.footlocker.se CNAME .
 target.kidsfootlocker.com CNAME .
+;
+; changehealthcare.tt.omtrdc.net disguised trackers
+;
+target.changehealthcare.com CNAME .
 ;
 ; jpmcbankna.tt.omtrdc.net disguised trackers
 ;
@@ -9619,6 +9906,10 @@ target.healthengine.com.au CNAME .
 ;
 target.hsn.com CNAME .
 ;
+; hyundaimotorcompany.tt.omtrdc.net disguised trackers
+;
+target.hyundaiusa.com CNAME .
+;
 ; mmsngaa.tt.omtrdc.net disguised trackers
 ;
 target.jwatch.org CNAME .
@@ -9628,13 +9919,14 @@ target.nejm.org CNAME .
 ;
 target.key.com CNAME .
 ;
+; pwcglsc.tt.omtrdc.net disguised trackers
+;
+target.letsgofrance.pwc.fr CNAME .
+;
 ; mcmillanshakespeare.tt.omtrdc.net disguised trackers
 ;
 target.maxxia.com.au CNAME .
-;
-; microsoftmscompoc.tt.omtrdc.net disguised trackers
-;
-target.microsoft.com CNAME .
+target.securemaxxia.com.au CNAME .
 ;
 ; nationwideinsurance.tt.omtrdc.net disguised trackers
 ;
@@ -9652,10 +9944,6 @@ target.nfm.com CNAME .
 ;
 target.nrma.com.au CNAME .
 ;
-; freescalesemiconduct.tt.omtrdc.net disguised trackers
-;
-target.nxp.com CNAME .
-;
 ; pandasecurity.tt.omtrdc.net disguised trackers
 ;
 target.pandasecurity.com CNAME .
@@ -9672,6 +9960,10 @@ target.publicissapient.com CNAME .
 ;
 target.questdiagnostics.com CNAME .
 ;
+; southernwine.tt.omtrdc.net disguised trackers
+;
+target.sgproof.com CNAME .
+;
 ; sivasdescalzo.tt.omtrdc.net disguised trackers
 ;
 target.sivasdescalzo.com CNAME .
@@ -9683,13 +9975,13 @@ target.sportsmansguide.com CNAME .
 ; sunlifeassurance.tt.omtrdc.net disguised trackers
 ;
 target.sunlife.ca CNAME .
-target.sunlife.co.id CNAME .
 target.sunlife.com.hk CNAME .
 target.sunlife.com.ph CNAME .
 ;
 ; sunlifeassurance-2.tt.omtrdc.net disguised trackers
 ;
 target.sunlife.com CNAME .
+target.sunlifeglobalinvestments.com CNAME .
 ;
 ; swinburne.tt.omtrdc.net disguised trackers
 ;
@@ -9703,6 +9995,10 @@ target.thegrocer.co.uk CNAME .
 ;
 target.thetruth.com CNAME .
 ;
+; toyota.tt.omtrdc.net disguised trackers
+;
+target.toyota.com CNAME .
+;
 ; veeam.tt.omtrdc.net disguised trackers
 ;
 target.veeam.com CNAME .
@@ -9710,19 +10006,6 @@ target.veeam.com CNAME .
 ; singaporetourismboar.tt.omtrdc.net disguised trackers
 ;
 target.visitsingapore.com CNAME .
-;
-; volkswagenfinancials.tt.omtrdc.net disguised trackers
-;
-target.vwfs.com CNAME .
-target.vwfs.cz CNAME .
-target.vwfs.de CNAME .
-target.vwfs.es CNAME .
-target.vwfs.it CNAME .
-target.vwfs.mx CNAME .
-;
-; volkswagenfinancials-2.tt.omtrdc.net disguised trackers
-;
-target.vwfs.ie CNAME .
 ;
 ; walgreenco.tt.omtrdc.net disguised trackers
 ;
@@ -9761,7 +10044,6 @@ tmetrics.webex.com CNAME .
 tt.natwest.com CNAME .
 tt.rbs.co.uk CNAME .
 tt.ulsterbank.co.uk CNAME .
-tt.ulsterbank.ie CNAME .
 ;
 ; sjab.tt.omtrdc.net disguised trackers
 ;
@@ -9794,6 +10076,7 @@ webtarget.logicool.co.jp CNAME .
 webtarget.logitech.com CNAME .
 webtarget.logitech.com.cn CNAME .
 webtarget.logitechg.com CNAME .
+webtarget.logitechg.com.cn CNAME .
 ;
 ; ingbelgium.tt.omtrdc.net disguised trackers
 ;

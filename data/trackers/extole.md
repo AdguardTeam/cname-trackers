@@ -10,6 +10,7 @@
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
+    * aol.extole.com
     * app.extole.com
     * backcountry.extole.com
     * barenecessities.extole.com
@@ -129,6 +130,7 @@
     * alltrucu.extole.io
     * alphaindustries.extole.io
     * amazon-web-services.extole.io
+    * americanmusical.extole.io
     * amerisleep.extole.io
     * anatomie.extole.io
     * aon.extole.io
@@ -268,7 +270,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -323,6 +324,7 @@
     * lightstream.extole.io
     * little-passports.extole.io
     * livongo.extole.io
+    * lovesac.extole.io
     * lull.extole.io
     * mac-cosmetics.extole.io
     * madison-reed.extole.io
@@ -523,11 +525,13 @@
 | refer.awscloud.com | amazon-web-services.extole.io |
 | refer.american-giant.com | american-giant.extole.com |
 | refer.americanexpress.com | americanexpress.extole.com |
+| refer.americanmusical.com | americanmusical.extole.io |
 | refer.amerisleep.com | amerisleep.extole.io |
 | share.anatomie.com | anatomie.extole.io |
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
+| refer.aol.com | aol.extole.com |
 | refer.hpso.com | aon.extole.io |
 | refer.nso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
@@ -737,7 +741,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -817,6 +820,7 @@
 | refer.lightstream.com | lightstream.extole.io |
 | refer.littlepassports.com | little-passports.extole.io |
 | share.livongo.com | livongo.extole.io |
+| share.lovesac.com | lovesac.extole.io |
 | refer.luckyvitamin.com | luckyvitamin.extole.com |
 | get.lull.com | lull.extole.io |
 | refer.lull.com | lull.extole.io |

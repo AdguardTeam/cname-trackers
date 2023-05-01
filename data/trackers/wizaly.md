@@ -42,6 +42,7 @@
     * tk-rimowa-com.wizaly.com
     * tk-salomon-com.wizaly.com
     * tk-sncf.wizaly.com
+    * tk-speedway-fr.wizaly.com
     * tk-svsound-com.wizaly.com
     * tk-tikamoon-com.wizaly.com
     * tk-ultrapremiumdirect-com.wizaly.com
@@ -81,10 +82,12 @@
 | tk.dossier.co | tk-dossier-co.wizaly.com |
 | tk.engie.fr | tk-engie-com.wizaly.com |
 | tk.etam.com | tk-etam-com.wizaly.com |
+| tk.evaneos.ch | tk-evaneos-fr.wizaly.com |
 | tk.evaneos.de | tk-evaneos-fr.wizaly.com |
 | tk.evaneos.es | tk-evaneos-fr.wizaly.com |
 | tk.evaneos.fr | tk-evaneos-fr.wizaly.com |
 | tk.evaneos.it | tk-evaneos-fr.wizaly.com |
+| tk.evaneos.nl | tk-evaneos-fr.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |
 | tk.hypnia.co.uk | tk-hypnia-fr.wizaly.com |
 | tk.hypnia.es | tk-hypnia-fr.wizaly.com |
@@ -110,6 +113,7 @@
 | tk.rimowa.com | tk-rimowa-com.wizaly.com |
 | tk.salomon.com | tk-salomon-com.wizaly.com |
 | wiz.sncf-connect.com | tk-sncf.wizaly.com |
+| tk.speedway.fr | tk-speedway-fr.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |
 | tk.tikamoon.co.uk | tk-tikamoon-com.wizaly.com |
 | tk.tikamoon.com | tk-tikamoon-com.wizaly.com |

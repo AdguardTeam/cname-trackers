@@ -283,6 +283,7 @@
 | hcbox.mironet.cz | cz.affilbox.cz |
 | hcbox.tesla-electronics.eu | cz.affilbox.cz |
 | hcbox.tlamka.cz | cz.affilbox.cz |
+| hcbox.verapostele.sk | cz.affilbox.cz |
 | isic.dentalweb.cz | cz.affilbox.cz |
 | isic.kopirkaostrava.cz | cz.affilbox.cz |
 | isicpartner.mamechut.cz | cz.affilbox.cz |
@@ -292,10 +293,12 @@
 | my.11teamsports.bg | cz.affilbox.cz |
 | my.11teamsports.cz | cz.affilbox.cz |
 | my.11teamsports.es | cz.affilbox.cz |
+| my.11teamsports.fi | cz.affilbox.cz |
 | my.11teamsports.fr | cz.affilbox.cz |
 | my.11teamsports.gr | cz.affilbox.cz |
 | my.11teamsports.hr | cz.affilbox.cz |
 | my.11teamsports.hu | cz.affilbox.cz |
+| my.11teamsports.ie | cz.affilbox.cz |
 | my.11teamsports.pl | cz.affilbox.cz |
 | my.11teamsports.pt | cz.affilbox.cz |
 | my.11teamsports.ro | cz.affilbox.cz |
@@ -401,6 +404,7 @@
 | partner.bilynabytek.cz | cz.affilbox.cz |
 | partner.bio-nehty.cz | cz.affilbox.cz |
 | partner.bioaromakosmetika.cz | cz.affilbox.cz |
+| partner.bontonck.cz | cz.affilbox.cz |
 | partner.bonyplus.cz | cz.affilbox.cz |
 | partner.brawolife.cz | cz.affilbox.cz |
 | partner.breakout.cz | cz.affilbox.cz |

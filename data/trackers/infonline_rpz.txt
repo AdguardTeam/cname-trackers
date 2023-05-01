@@ -11,6 +11,7 @@ ackrly.chip.de CNAME .
 acksrc.chip.de CNAME .
 acsam-relay.agof.de CNAME .
 c4b720ded1.apps.iocnt.de CNAME .
+data-00460c60fa.eurotransport.de CNAME .
 data-007f9d19c8.sbz-monteur.de CNAME .
 data-00c4a5bd11.rockland.fm CNAME .
 data-0142dcfbcf.yacht.de CNAME .
@@ -144,6 +145,7 @@ data-16d7ec9a30.wn-jobs.de CNAME .
 data-16d7ec9a30.wn.de CNAME .
 data-16d7ec9a30.zeitungsgruppe-muenster.de CNAME .
 data-16d7ec9a30.zgm-auto.de CNAME .
+data-1774ab3b64.connected-events.de CNAME .
 data-1774ab3b64.fvw.de CNAME .
 data-1774ab3b64.fvwjobs.de CNAME .
 data-179369af40.connect-professional.de CNAME .
@@ -271,7 +273,6 @@ data-232059cb53.vip.de CNAME .
 data-2340ac25bb.apps.iocnt.de CNAME .
 data-236c420b67.glamour.de CNAME .
 data-23c20dac87.tophotel.de CNAME .
-data-24d3602ae0.freenet.de CNAME .
 data-24d7667a6a.apps.iocnt.de CNAME .
 data-24fe804269.datacenter-insider.de CNAME .
 data-2527e6d775.sportdeutschland.tv CNAME .
@@ -538,6 +539,7 @@ data-47ee1b0882.kultiplex.de CNAME .
 data-47ee1b0882.lichtburg-langen.de CNAME .
 data-47ee1b0882.lichtspiele-grosshabersdorf.de CNAME .
 data-47ee1b0882.liliservicekino.de CNAME .
+data-47ee1b0882.lindenkino-wusterhausen.de CNAME .
 data-47ee1b0882.movie-kino.de CNAME .
 data-47ee1b0882.movieplexx.de CNAME .
 data-47ee1b0882.movietown-eichsfeld.de CNAME .
@@ -758,6 +760,7 @@ data-639ebd97e3.transport-online.de CNAME .
 data-63bbe3ec45.wuv.de CNAME .
 data-6416365902.sbz-online.de CNAME .
 data-6463194ae5.fitbook.de CNAME .
+data-64f191ee43.eurotransport.de CNAME .
 data-650d8068ef.ka-news.de CNAME .
 data-6590696975.wunderweib.de CNAME .
 data-65a220e458.diekaelte.de CNAME .
@@ -1327,6 +1330,8 @@ data-bc58d40c93.nwzonline.de CNAME .
 data-bc9dbdd971.handwerk-magazin.de CNAME .
 data-bcaa25791f.apps.iocnt.de CNAME .
 data-bd417eda50.bibliothek-gruenwald.de CNAME .
+data-bdeff1b2b2.firmenauto.de CNAME .
+data-be032ee936.christkindlesmarkt.de CNAME .
 data-be032ee936.nn.de CNAME .
 data-be032ee936.nordbayern.de CNAME .
 data-be34c4ee2c.apps.iocnt.de CNAME .
@@ -1444,6 +1449,7 @@ data-ce54b2d2bd.apps.iocnt.de CNAME .
 data-ce904c6d42.metallbau-magazin.de CNAME .
 data-ce964ae059.guter-rat.de CNAME .
 data-cedbf1e823.apps.iocnt.de CNAME .
+data-cf521b4223.op-marburg.de CNAME .
 data-cf56e4da9b.motorradonline.de CNAME .
 data-cf8fd9b799.heizungsjournal.de CNAME .
 data-cf8fd9b799.integrale-planung.net CNAME .
@@ -1462,6 +1468,7 @@ data-d1cf1ee90a.bike-magazin.de CNAME .
 data-d29d7a3de4.apps.iocnt.de CNAME .
 data-d2a8aec266.autohaus.de CNAME .
 data-d31fa5daa8.apps.iocnt.de CNAME .
+data-d3ad057ab7.firmenauto.de CNAME .
 data-d3b795e73c.instyle.de CNAME .
 data-d3b7b07de5.apps.iocnt.de CNAME .
 data-d47b934372.regionalheute.de CNAME .
@@ -1602,9 +1609,11 @@ data-ee807be806.ikz-online.de CNAME .
 data-ee807be806.lokalkompass.de CNAME .
 data-ee807be806.nrz.de CNAME .
 data-ee807be806.radiobochum.de CNAME .
+data-ee807be806.radioduisburg.de CNAME .
 data-ee807be806.radioemscherlippe.de CNAME .
 data-ee807be806.radioessen.de CNAME .
 data-ee807be806.radiooberhausen.de CNAME .
+data-ee807be806.radiosauerland.de CNAME .
 data-ee807be806.reviersport.de CNAME .
 data-ee807be806.waz.de CNAME .
 data-ee807be806.wp.de CNAME .
@@ -1659,6 +1668,7 @@ data-f1e447fbcf.hanauer.de CNAME .
 data-f1e447fbcf.heidelberg24.de CNAME .
 data-f1e447fbcf.hersfelder-zeitung.de CNAME .
 data-f1e447fbcf.hna.de CNAME .
+data-f1e447fbcf.in-muenchen.de CNAME .
 data-f1e447fbcf.ingame.de CNAME .
 data-f1e447fbcf.innsalzach24.de CNAME .
 data-f1e447fbcf.ippen.media CNAME .
@@ -1761,6 +1771,7 @@ data-f59db3288b.tz.de CNAME .
 data-f59db3288b.usinger-anzeiger.de CNAME .
 data-f59db3288b.wa.de CNAME .
 data-f59db3288b.wasserburg24.de CNAME .
+data-f59db3288b.webnachrichten.de CNAME .
 data-f59db3288b.werra-rundschau.de CNAME .
 data-f59db3288b.wetterauer-zeitung.de CNAME .
 data-f59db3288b.wlz-online.de CNAME .

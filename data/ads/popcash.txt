@@ -318,7 +318,6 @@
 ||dog.christinamoore.us^
 ||dog.diversityinjobs.com^
 ||dog.franchisesocial.co.uk^
-||dog.ghvenue.com^
 ||dog.goldcanvas.com^
 ||dog.justsketch.me^
 ||dog.orbit.love^
@@ -394,7 +393,6 @@
 ||finch.koronasporing.no^
 ||finch.market.xyz^
 ||fish.canyouexplain.me^
-||fish.eventpay.be^
 ||fish.hyperfine.io^
 ||fish.muted.io^
 ||fish.whitney.org^
@@ -480,7 +478,6 @@
 ||heron.morphiq.digital^
 ||heron.notability.com^
 ||heron.oneaudiobooks.app^
-||heron.scarletnoir.co^
 ||herring.artemis.cloud^
 ||herring.panda.network^
 ||hookworm.campaignzee.com^
@@ -717,7 +714,6 @@
 ||parrotfish.wus.immo^
 ||partridge.unfamiliar.land^
 ||peacock.davidlevai.com^
-||peacock.tourismtuneup.com^
 ||peafowl.projectstrackt.dev^
 ||penguin.mobiadroit.com^
 ||penguin.revolana.com^
@@ -776,6 +772,7 @@
 ||raccoon.donateflow.com^
 ||rat.gimlet.io^
 ||raven.konquadrat.de^
+||reindeer.iainbroome.com^
 ||reindeer.pablomaceda.com^
 ||reptile.o-lit.fr^
 ||reptile.wyattblogs.com^
@@ -860,6 +857,7 @@
 ||starman.fathomdns.com^
 ||starman.usefathom.com^
 ||stingray.codecoolture.com^
+||stingray.communityally.org^
 ||stingray.cryptovoxels.com^
 ||stingray.danielzoller.com^
 ||stingray.reform.app^
@@ -886,6 +884,7 @@
 ||takin.revolana.fr^
 ||tarantula.emotionalbaking.com^
 ||tarantula.hashicorp.com^
+||tarantula.tuxedo.media^
 ||tarsier.eyal.codes^
 ||tarsier.kriterie.se^
 ||tick.pcrpriser.se^
@@ -906,7 +905,6 @@
 ||trout.unicornplatform.com^
 ||tuna.peterfarms.com^
 ||turkey.tella.tv^
-||turtle.fiercebyte.com^
 ||turtle.geshem.space^
 ||turtle.hackstock.net^
 ||turtle.olivier.cx^
