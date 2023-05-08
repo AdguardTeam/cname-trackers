@@ -219,6 +219,7 @@ tr.devisminute-alarme.com CNAME .
 tr.devisminute-caisseenregistreuse.com CNAME .
 tr.devisminute-fontainereseau.com CNAME .
 tr.devisminute-geolocalisation.com CNAME .
+tr.devisminute-gestiondepatrimoine.com CNAME .
 tr.devisminute-gestiondutemps.com CNAME .
 tr.devisminute-gestionpaie.com CNAME .
 tr.devisminute-materieldestockage.com CNAME .
@@ -280,6 +281,7 @@ tr.email.voyagesleclerc.com CNAME .
 tr.emailatia.fr CNAME .
 tr.emailing.agencereference.com CNAME .
 tr.emailing.canalbox.com CNAME .
+tr.emailing.canalplay.com CNAME .
 tr.emailing.canalplus-afrique.com CNAME .
 tr.emailing.canalplus-caledonie.com CNAME .
 tr.emailing.canalplus-caraibes.com CNAME .
@@ -349,6 +351,7 @@ tr.helloartisan.info CNAME .
 tr.hmut.espmp-agfr.net CNAME .
 tr.impayes.filiassur.com CNAME .
 tr.info-btob-leaders.com CNAME .
+tr.info-carte.fr CNAME .
 tr.info-companeo.be CNAME .
 tr.info-pro.promoneuve.fr CNAME .
 tr.info-strategie.fr CNAME .
@@ -859,6 +862,7 @@ tr.souscription.floa.fr CNAME .
 tr.spain.plimsoll.es CNAME .
 tr.sportperf.np6.fr CNAME .
 tr.strategie.gouv.fr CNAME .
+tr.suivi-client-edf.com CNAME .
 tr.tdgx.espmp-cufr.net CNAME .
 tr.think.lvmh.fr CNAME .
 tr.thisiseurope.moethennessy.com CNAME .

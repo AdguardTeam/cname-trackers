@@ -7,6 +7,7 @@
 ||a.20minutes.fr^
 ||a.pourquoidocteur.fr^
 ||a1.api.bbc.co.uk^
+||a1.api.bbc.com^
 ||abncx.amv.fr^
 ||ama.planet-wissen.de^
 ||ama.quarks.de^

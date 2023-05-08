@@ -219,6 +219,7 @@ tr.devisminute-alarme.com
 tr.devisminute-caisseenregistreuse.com
 tr.devisminute-fontainereseau.com
 tr.devisminute-geolocalisation.com
+tr.devisminute-gestiondepatrimoine.com
 tr.devisminute-gestiondutemps.com
 tr.devisminute-gestionpaie.com
 tr.devisminute-materieldestockage.com
@@ -280,6 +281,7 @@ tr.email.voyagesleclerc.com
 tr.emailatia.fr
 tr.emailing.agencereference.com
 tr.emailing.canalbox.com
+tr.emailing.canalplay.com
 tr.emailing.canalplus-afrique.com
 tr.emailing.canalplus-caledonie.com
 tr.emailing.canalplus-caraibes.com
@@ -349,6 +351,7 @@ tr.helloartisan.info
 tr.hmut.espmp-agfr.net
 tr.impayes.filiassur.com
 tr.info-btob-leaders.com
+tr.info-carte.fr
 tr.info-companeo.be
 tr.info-pro.promoneuve.fr
 tr.info-strategie.fr
@@ -859,6 +862,7 @@ tr.souscription.floa.fr
 tr.spain.plimsoll.es
 tr.sportperf.np6.fr
 tr.strategie.gouv.fr
+tr.suivi-client-edf.com
 tr.tdgx.espmp-cufr.net
 tr.think.lvmh.fr
 tr.thisiseurope.moethennessy.com

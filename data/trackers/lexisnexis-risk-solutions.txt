@@ -96,6 +96,7 @@
 ||cdns.moneyplace.com.au^
 ||cdnt.duobank.com^
 ||cdnt.walmartrewards.ca^
+||cdntm.expat.hsbc.com^
 ||cdntm.firstdirect.com^
 ||cdntm.hangseng.com^
 ||cdntm.hsbc.ae^
@@ -375,6 +376,7 @@
 ||fdts.ebay-kleinanzeigen.de^
 ||fnvma.milanuncios.com^
 ||fp.aion.be^
+||fp.avatrade.com^
 ||fp.cdn-scripts.com^
 ||fp.corporatetravelmoney.com^
 ||fp.dior.com^

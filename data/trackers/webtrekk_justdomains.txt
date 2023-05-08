@@ -36,11 +36,8 @@ tracking.tchibo.hu
 tracking.tchibo.pl
 tracking.tchibo.sk
 trk.nuernberger.de
-w3.flatex.at
-w3.flatex.de
 w3.flatex.es
 w3.flatex.nl
-w3.vitrade.de
 webts.adac.de
 wt.distrelec.com
 wtm.interhyp.de
@@ -144,6 +141,7 @@ img.foodspring.cz
 img.foodspring.de
 img.foodspring.dk
 img.foodspring.es
+img.foodspring.fi
 img.foodspring.fr
 img.foodspring.hr
 img.foodspring.it

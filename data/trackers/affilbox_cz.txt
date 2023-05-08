@@ -168,7 +168,6 @@
 ||affiliate.jidlojevasen.cz^
 ||affiliate.jiristibor.cz^
 ||affiliate.ketofit.sk^
-||affiliate.kosateam.com^
 ||affiliate.kurzy-liecenia.sk^
 ||affiliate.kutil.cz^
 ||affiliate.ladylab.sk^
@@ -182,7 +181,6 @@
 ||affiliate.levnoshop.cz^
 ||affiliate.lg-store.cz^
 ||affiliate.loveo.cz^
-||affiliate.luxusnipradlo.cz^
 ||affiliate.manvel.cz^
 ||affiliate.milagro.cz^
 ||affiliate.mobilonline.sk^
@@ -243,6 +241,7 @@
 ||affiliate.vianio.com^
 ||affiliate.vox.cz^
 ||affiliate.warriorfactory.cz^
+||affiliate.webium.cz^
 ||affiliate.wugi.cz^
 ||affiliate.zdraviafitness.cz^
 ||affiliate.zdravykos.cz^
@@ -257,6 +256,7 @@
 ||affilpartner.descanti.com^
 ||afill.e-potisk.cz^
 ||ambasadorky.zenyzenam.cz^
+||ambassador.notsofunnyany.com^
 ||benefit.genyprozivot.cz^
 ||box.cryptokingdom.tech^
 ||box.kryptotrejder.sk^
@@ -356,6 +356,7 @@
 ||my.weplaybasketball.ro^
 ||my.weplaybasketball.si^
 ||my.weplaybasketball.sk^
+||my.weplayhandball.bg^
 ||my.weplayhandball.cz^
 ||my.weplayhandball.gr^
 ||my.weplayhandball.hu^
@@ -738,6 +739,7 @@
 ||partners.pocitarna.cz^
 ||partners.puravidashop.cz^
 ||partners.quantexpo.com^
+||partners.rebelsfunding.com^
 ||partners.spiritradar.com^
 ||plus.mameradivlasy.cz^
 ||program.biocitia.eu^
@@ -765,6 +767,7 @@
 ||spoluprace.h2world.store^
 ||spoluprace.interbohemia.cz^
 ||spoluprace.janitaurbanova.cz^
+||spoluprace.luxusnipradlo.cz^
 ||spoluprace.majka-shop.cz^
 ||spoluprace.mentorkalucie.cz^
 ||spoluprace.obchod-setrilek.cz^

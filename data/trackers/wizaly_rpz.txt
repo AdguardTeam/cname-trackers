@@ -96,6 +96,12 @@ tk.moveyourfit.com CNAME .
 tk.msccruises.com CNAME .
 tk.nhlottery.com CNAME .
 tk.ornikar.com CNAME .
+tk.petit-bateau.be CNAME .
+tk.petit-bateau.co.uk CNAME .
+tk.petit-bateau.de CNAME .
+tk.petit-bateau.es CNAME .
+tk.petit-bateau.fr CNAME .
+tk.petit-bateau.it CNAME .
 tk.planete-oui.fr CNAME .
 tk.prismashop.fr CNAME .
 tk.qare.fr CNAME .

@@ -7,15 +7,17 @@
     * sniffer.oghub.io
     * sniffer.test-extern.oghub.io
     * te-baur-de.oghub.io
+    * te-creation-l-de.oghub.io
     * te-frankonia-de.oghub.io
+    * te-heine-de.oghub.io
     * te-limango-de.oghub.io
     * te-mirapodo-de.oghub.io
     * te-mytoys-de.oghub.io
     * te-otto-de.oghub.io
     * te-quelle-de.oghub.io
     * te-sheego-de.oghub.io
-    * te-witt-international-nl.oghub.io
     * te-witt-weiden-de.oghub.io
+    * te-your-look-for-less-nl.oghub.io
     * te.oghub.io
     * te.test-extern.oghub.io
     * tp-ackermann-ch.oghub.io
@@ -82,15 +84,17 @@
 | sniffer.nitro-production.otto.boreus.de | sniffer.oghub.io |
 | sniffer.nitro-test-extern.otto.boreus.de | sniffer.test-extern.oghub.io |
 | te.baur.de | te-baur-de.oghub.io |
+| te.creation-l.de | te-creation-l-de.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
+| te.heine.de | te-heine-de.oghub.io |
 | te.limango.de | te-limango-de.oghub.io |
 | te.mirapodo.de | te-mirapodo-de.oghub.io |
 | te.mytoys.de | te-mytoys-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
 | te.quelle.de | te-quelle-de.oghub.io |
 | te.sheego.de | te-sheego-de.oghub.io |
-| te.witt-international.nl | te-witt-international-nl.oghub.io |
 | te.witt-weiden.de | te-witt-weiden-de.oghub.io |
+| te.your-look-for-less.nl | te-your-look-for-less-nl.oghub.io |
 | te.ackermann.ch | te.oghub.io |
 | te.ambria.de | te.oghub.io |
 | te.baur.de | te.oghub.io |
@@ -102,6 +106,7 @@
 | te.heine-shop.nl | te.oghub.io |
 | te.heine.at | te.oghub.io |
 | te.heine.ch | te.oghub.io |
+| te.heine.de | te.oghub.io |
 | te.heine.de | te.oghub.io |
 | te.helline.fr | te.oghub.io |
 | te.imwalking.de | te.oghub.io |
@@ -122,7 +127,6 @@
 | te.universal.at | te.oghub.io |
 | te.waeschepur.de | te.oghub.io |
 | te.witt-international.cz | te.oghub.io |
-| te.witt-international.nl | te.oghub.io |
 | te.witt-international.nl | te.oghub.io |
 | te.witt-international.sk | te.oghub.io |
 | te.witt-weiden.at | te.oghub.io |

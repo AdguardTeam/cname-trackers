@@ -113,6 +113,7 @@
 ||cmp.porsche.be^
 ||cmp.seat.be^
 ||cmp.skoda.be^
+||cmp.vdfin.be^
 ||cmp.volkswagen.be^
 ||co-operative.activate.ensighten.com^
 ||coke.activate.ensighten.com^

@@ -86,7 +86,6 @@ ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .
 reg.ancensored.com CNAME .
 s1.rtnews.pro CNAME .
-s1.wnacg.org CNAME .
 s5.rtnews.pro CNAME .
 sda.arabsex1.com CNAME .
 snow.snowdayonline.xyz CNAME .

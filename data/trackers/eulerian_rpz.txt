@@ -287,7 +287,6 @@ ltm6.destinia.se CNAME .
 lwh1.carrefour-banque.fr CNAME .
 ly8c.caci-online.fr CNAME .
 lzuc.sfr.fr CNAME .
-m10.m1029.com CNAME .
 m3ds.subarumetropolitain.com CNAME .
 mfd.myfirstdressing.com CNAME .
 mgt7.madeindesign.it CNAME .

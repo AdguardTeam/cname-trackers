@@ -202,7 +202,6 @@ refer.cspire.com CNAME .
 refer.darphin.com CNAME .
 refer.ea.com CNAME .
 refer.ecoterrabeds.com CNAME .
-refer.edelmanfinancial.com CNAME .
 refer.embracepetinsurance.com CNAME .
 refer.empiretoday.com CNAME .
 refer.ems.com CNAME .
@@ -277,6 +276,7 @@ refer.mpgsport.ca CNAME .
 refer.mpgsport.com CNAME .
 refer.myheritagedna.com CNAME .
 refer.narscosmetics.com CNAME .
+refer.netrinc.com CNAME .
 refer.newbalance.ca CNAME .
 refer.nfhsnetwork.com CNAME .
 refer.ninjakitchen.com CNAME .
@@ -365,6 +365,7 @@ refer.zenhaven.com CNAME .
 refer.zipcar.ca CNAME .
 refer.zipcar.com CNAME .
 refer.zomasleep.com CNAME .
+refer1.dollskill.com CNAME .
 refer1.experian.com CNAME .
 referafriend.discover.com CNAME .
 referral.cledepeaubeaute.com CNAME .
@@ -392,6 +393,7 @@ share.atlasbars.com CNAME .
 share.aveda.com.au CNAME .
 share.azcentral.com CNAME .
 share.beaspermdonor.com CNAME .
+share.biblejourney.com CNAME .
 share.bncollege.com CNAME .
 share.boden.co.uk CNAME .
 share.boden.fr CNAME .
@@ -484,6 +486,7 @@ share.myollie.com CNAME .
 share.myq.com CNAME .
 share.newarkadvocate.com CNAME .
 share.newtonbaby.com CNAME .
+share.ngfcu.us CNAME .
 share.obagi.com CNAME .
 share.olivegarden.com CNAME .
 share.ollocard.com CNAME .
@@ -534,6 +537,7 @@ share.sstack.com CNAME .
 share.staging.acorns.io CNAME .
 share.stagsleap.com CNAME .
 share.starbucks.com CNAME .
+share.stargazette.com CNAME .
 share.statesman.com CNAME .
 share.steadyapp.com CNAME .
 share.stopagingnow.com CNAME .

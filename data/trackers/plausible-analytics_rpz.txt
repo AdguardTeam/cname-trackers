@@ -75,7 +75,6 @@ analytics.zevvle.com CNAME .
 anneliese.scale.at CNAME .
 antitracking.owncast.online CNAME .
 ap.dt.gl CNAME .
-api.decentralize.today CNAME .
 api.digitalpiloten.org CNAME .
 api.dt.gl CNAME .
 api.elliehuxtable.com CNAME .
@@ -134,6 +133,7 @@ insights.growwithless.com CNAME .
 joy.ochronus.online CNAME .
 kaladyaudiology.ericksonbuilt.com CNAME .
 kekw.givetip.to CNAME .
+kingsandqueens.splowser.com CNAME .
 kon.mediaplatform.group CNAME .
 ks.walkq.com CNAME .
 l.lilyzhou.com CNAME .
@@ -397,7 +397,6 @@ stats.adlperformance.es CNAME .
 stats.airtrafik.com CNAME .
 stats.aixbrain.de CNAME .
 stats.albert-kropp-gmbh.de CNAME .
-stats.alexbh.dev CNAME .
 stats.alibhai.co CNAME .
 stats.aligncoaching.ca CNAME .
 stats.allaboutberlin.com CNAME .
@@ -939,7 +938,6 @@ triton.companyegg.com CNAME .
 views.sikerproducts.com CNAME .
 visitorcenter.srwild.com CNAME .
 visitors.gigianddavid.com CNAME .
-vole.amplenote.com CNAME .
 we-love-privacy.humane.club CNAME .
 www2.azimuthpsych.com CNAME .
 xyz.bestool.pl CNAME .

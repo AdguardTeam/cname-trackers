@@ -34,6 +34,7 @@
 ||a8.brandcosme.com^
 ||a8.bridal-hills.com^
 ||a8.buvlabo.com^
+||a8.careecen-shukatsu-agent.com^
 ||a8.career.rexit.co.jp^
 ||a8.casie.jp^
 ||a8.cbd-oil.jp^
@@ -109,6 +110,7 @@
 ||a8.kami2323.com^
 ||a8.kanbei.jp^
 ||a8.kddi-hikari.com^
+||a8.kekkon.kuraveil.jp^
 ||a8.kimonomachi.co.jp^
 ||a8.kinkennet.jp^
 ||a8.kireiyu.com^
@@ -151,6 +153,7 @@
 ||a8.okamotogroup.com^
 ||a8.olightstore.jp^
 ||a8.onamae.com^
+||a8.onecoinenglish.com^
 ||a8.otonayaki.com^
 ||a8.outline-gym.com^
 ||a8.papapa.baby^
@@ -520,6 +523,7 @@
 ||a8cnv.rmsbeauty.jp^
 ||a8cv.012grp.co.jp^
 ||a8cv.1-class.jp^
+||a8cv.1sbc.com^
 ||a8cv.464981.com^
 ||a8cv.489pro.com^
 ||a8cv.550909.com^
@@ -548,6 +552,7 @@
 ||a8cv.bb-internet-qsyu.net^
 ||a8cv.bbt757.com^
 ||a8cv.be-slim-spbikyou.com^
+||a8cv.bellcosme.com^
 ||a8cv.bellevie-inc.co.jp^
 ||a8cv.bettysbeauty.jp^
 ||a8cv.biken-mall.jp^
@@ -589,6 +594,7 @@
 ||a8cv.danipita.com^
 ||a8cv.danjiki-net.jp^
 ||a8cv.delis.co.jp^
+||a8cv.designlearn.co.jp^
 ||a8cv.direct-teleshop.jp^
 ||a8cv.direct.shark.co.jp^
 ||a8cv.diyfactory.jp^
@@ -610,6 +616,7 @@
 ||a8cv.elife-shihou.com^
 ||a8cv.encounter2017.jp^
 ||a8cv.english-bootcamp.com^
+||a8cv.entre-salon.com^
 ||a8cv.entry.renet.jp^
 ||a8cv.eys-musicschool.com^
 ||a8cv.factoringzero.jp^
@@ -659,8 +666,10 @@
 ||a8cv.interlink.or.jp^
 ||a8cv.investment.mogecheck.jp^
 ||a8cv.ioo-sofa.net^
+||a8cv.irodas.com^
 ||a8cv.ishibashi.co.jp^
 ||a8cv.ishibestcareer.com^
+||a8cv.ishizawa-lab.co.jp^
 ||a8cv.isslim.jp^
 ||a8cv.isuzu-rinji.com^
 ||a8cv.iwamizu.com^
@@ -690,6 +699,7 @@
 ||a8cv.lp.nalevi.mynavi.jp^
 ||a8cv.lyprinol.jp^
 ||a8cv.machi-ene.jp^
+||a8cv.machicon.jp^
 ||a8cv.madoguchi.com^
 ||a8cv.maenomery.jp^
 ||a8cv.magniflexk.com^
@@ -722,6 +732,7 @@
 ||a8cv.naturecan-fitness.jp^
 ||a8cv.nichirei.co.jp^
 ||a8cv.nifty.com^
+||a8cv.nigaoe.graphics.vc^
 ||a8cv.nijiun.com^
 ||a8cv.nittei-group-alliance.com^
 ||a8cv.norikae-cashback.com^
@@ -799,6 +810,7 @@
 ||a8cv.studycompass.net^
 ||a8cv.sumai-surfin.com^
 ||a8cv.sunmillion-ikiiki.jp^
+||a8cv.suzette-shop.jp^
 ||a8cv.sweets-paradise-shop.com^
 ||a8cv.t-bang.jp^
 ||a8cv.t-gaia.co.jp^
@@ -817,6 +829,7 @@
 ||a8cv.untenmenkyo-yi.com^
 ||a8cv.urocca.jp^
 ||a8cv.usedfun.jp^
+||a8cv.vieon.co.jp^
 ||a8cv.w2solution.co.jp^
 ||a8cv.waterenergy.co.jp^
 ||a8cv.wedding.mynavi.jp^
@@ -878,6 +891,7 @@
 ||acv.hikarisoftbank.com^
 ||acv.mc-nurse.net^
 ||acv.next-air-wifi.com^
+||acv.pikarahikari.net^
 ||acv.softbank-hikaricollabo.com^
 ||acv.xn--dckf5a1e821s9i7b.com^
 ||ad.ichiban-boshi.com^
@@ -945,6 +959,7 @@
 ||track.craudia.com^
 ||tracking.196189.com^
 ||trck.aeon.co.jp^
+||trck.naco-do.com^
 ||trck.repesta.com^
 ||trck.rework-s.com^
 ||trck02.magaseek.com^

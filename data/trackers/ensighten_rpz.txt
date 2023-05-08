@@ -113,6 +113,7 @@ cmp.myway.be CNAME .
 cmp.porsche.be CNAME .
 cmp.seat.be CNAME .
 cmp.skoda.be CNAME .
+cmp.vdfin.be CNAME .
 cmp.volkswagen.be CNAME .
 co-operative.activate.ensighten.com CNAME .
 coke.activate.ensighten.com CNAME .

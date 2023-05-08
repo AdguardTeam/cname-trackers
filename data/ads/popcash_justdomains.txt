@@ -4,6 +4,7 @@
 # popcashjs.b-cdn.net disguised trackers
 #
 cdn.afwpc.com
+cdn.almacz.com
 cdn.alota.xyz
 cdn.asce.xyz
 cdn.asdb.xyz
@@ -48,6 +49,7 @@ cdn.rgrd.xyz
 cdn.shakre.com
 cdn.spnut.com
 cdn.srxy.xyz
+cdn.viowrel.com
 cdn.wwfx.xyz
 cdn.xawlop.com
 cdn.xbcpcn.com
@@ -86,6 +88,7 @@ angelfish.owlbear.rodeo
 angelfish.wpsocialrocket.com
 anglerfish.luminfire.com
 anglerfish.pfolios.net
+ant.september.digital
 anteater.audioadventuregame.com
 anteater.stella-projects.de
 anteater.ttbwsd.com
@@ -99,11 +102,11 @@ ape.mfj.se
 ape.smartplanschema.se
 aphid.thyself.me
 armadillo.axeneo7.qc.ca
-armadillo.gothiacup.se
 armadillo.stacking.club
 armadillo.superpeak.dk
 asp.ashesashes.org
 asp.chop-shop.com.au
+asp.podlist.de
 asp.sepiasoft.eu
 azlej8cdm.pragmaticwebsecurity.com
 baboon.vacanti.com
@@ -233,7 +236,6 @@ centipede.wildbit.com
 centipede.yuv.al
 cephalopod.hometechnology.news
 cephalopod.nucleus.us
-cephalopod.polymath.net
 cephalopod.revelio.io
 cephalopod.staff.design
 chameleon.rndm.uk
@@ -274,7 +276,6 @@ condor.oskarthoren.com
 condor.stadttunnel-feldkirch.at
 coral.bladestudy.net
 coral.defygravity.co
-cougar.arenahq.io
 cougar.augmentedmindapp.com
 cougar.companymoneyworries.co.uk
 cougar.wzulfikar.com
@@ -409,7 +410,6 @@ fox.domainr.com
 fox.visionaudiovisual.com
 frog.jamesbliss.com
 frog.resavma.com
-gamefowl.alexpriest.com
 gamefowl.emailforward.mx
 gamefowl.karlsutt.com
 gayal.guter-plan.at
@@ -533,9 +533,11 @@ kingfisher.startupdemoday.live
 kingfisher.wishloom.com
 kite.devin.website
 kite.ibirthdayclub.com
+kite.kochie.io
 kite.launchcdn.com
 kite.oakes.software
 kite.ofenbau-voppichler.at
+kiwi.coreyodonnell.tech
 kiwi.emilkowal.ski
 kiwi.mcan.sh
 kiwi.railway.app
@@ -652,6 +654,7 @@ mollusk.saferingz.com
 mollusk.working.actor
 mongoose.jasonlbeggs.com
 mongoose.scrumgenius.com
+mongoose.thechocolatelife.com
 monkey.colinjohnston.com
 moose.cloverlearning.com
 mosquito.iamamandaperez.com
@@ -891,10 +894,10 @@ tick.pcrpriser.se
 tick.sculch.app
 tigershark.advaya.co
 tigershark.garethtdavies.com
+tigershark.moonpot.com
 tigershark.paavanmagic.com
 tigershark.vandevliet.me
 tiglon.beyondco.de
-tiglon.orisdental.no
 tortoise.transistor.fm
 toucan.ateliermilky.com
 toucan.lgbtjobsearch.com
@@ -994,6 +997,10 @@ cdn.admatic.com.tr
 # affiliatable1.b-cdn.net disguised trackers
 #
 cdn.affiliatable.io
+#
+# track-dark-bz.b-cdn.net disguised trackers
+#
+cdn.track.dark.bz
 #
 # consent.b-cdn.net disguised trackers
 #

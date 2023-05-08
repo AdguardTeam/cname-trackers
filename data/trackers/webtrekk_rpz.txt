@@ -36,11 +36,8 @@ tracking.tchibo.hu CNAME .
 tracking.tchibo.pl CNAME .
 tracking.tchibo.sk CNAME .
 trk.nuernberger.de CNAME .
-w3.flatex.at CNAME .
-w3.flatex.de CNAME .
 w3.flatex.es CNAME .
 w3.flatex.nl CNAME .
-w3.vitrade.de CNAME .
 webts.adac.de CNAME .
 wt.distrelec.com CNAME .
 wtm.interhyp.de CNAME .
@@ -144,6 +141,7 @@ img.foodspring.cz CNAME .
 img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
 img.foodspring.es CNAME .
+img.foodspring.fi CNAME .
 img.foodspring.fr CNAME .
 img.foodspring.hr CNAME .
 img.foodspring.it CNAME .

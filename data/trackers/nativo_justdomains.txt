@@ -9,6 +9,7 @@ sponsor.syracuse.com
 # ntvpforever.com disguised trackers
 #
 00c0a62f0c.de65e1286b.com
+00f62a6f1c.8f0f3b8464.com
 01b8624b69.d821929e2d.com
 02f3427bf4.bac23cfb5b.com
 034beb90c9.61b6eab774.com
@@ -27,6 +28,7 @@ sponsor.syracuse.com
 0d9b072dfd.69c28fb7f4.com
 0df76f9508.04cbf4193b.com
 0f6e7d3222.ba33938e50.com
+107a0e458a.93bc17bf29.com
 1228d4b021.f021d67770.com
 1327a0e03c.28473c6164.com
 1407343952.7805b363c7.com
@@ -47,9 +49,11 @@ sponsor.syracuse.com
 20ddfbe344.7179c5492e.com
 22aa4458dc.c42f556ff8.com
 234e54cf56.e9f1af32f6.com
+24dbfd6c10.cebee32295.com
 2547cd401b.d8a452e2da.com
 26e33d5110.b91c577b4d.com
 2a98a4b811.a2a2fd6dd1.com
+2abf7576ac.4fbe7621b8.com
 2b93cd08b5.fd40cd3322.com
 2c9ed85c0b.b2acafb3a3.com
 2cb68fec4a.4fde20c235.com
@@ -70,6 +74,7 @@ sponsor.syracuse.com
 3e0bef2039.6e5181a4e4.com
 3eaaac4c0d.090a7ee361.com
 3fb830355c.9be814e81e.com
+3ff30ad38a.9714ddef1d.com
 41e02b972b.9f101f07c7.com
 41f8a60477.cd4fb281e1.com
 41ff45a3db.03f128fb44.com
@@ -88,10 +93,12 @@ sponsor.syracuse.com
 4ee283d2af.9f8695e9a4.com
 4fc89cba3d.e67df3f29d.com
 52292b9db4.e4cd7bbad2.com
+5366c7a4fb.a74242f89f.com
 53f90ea18c.ad64463ef9.com
 55bff2103f.f451b7f622.com
 5691f27b38.77176d9509.com
 56a7ca381c.a4de9aca80.com
+572a92f793.210f3810db.com
 57a8023ce9.1aa3097b7b.com
 58ac5dbcb6.34946d7678.com
 5a841fa92e.5ee782a4d9.com
@@ -103,6 +110,7 @@ sponsor.syracuse.com
 60e1c77a92.11838aaad0.com
 6183c729c7.f145627a09.com
 62b00ced28.39373b8701.com
+62eddc0f6a.f984e0d579.com
 62ffd2f212.cfe8fd831d.com
 6539a7f33f.2a83afe612.com
 65eb50053b.3cb004e947.com
@@ -147,7 +155,6 @@ sponsor.syracuse.com
 865a159ba5.d7739252ca.com
 898dd5a858.a06e054b4c.com
 8a68d01b69.11a8e92218.com
-8a7f64eb48.5a46c72f0e.com
 8aa53eb242.136287d626.com
 8ac8c6d855.17c12b43a7.com
 8bb3b7c35f.e93014ee07.com
@@ -161,6 +168,7 @@ sponsor.syracuse.com
 91d0933ded.fd4ac79d49.com
 93684a0a94.f57fbf2b51.com
 938496c742.497de0e5b3.com
+93cbb96d0d.75d1222852.com
 95113b3bd8.9d36cf3402.com
 951dff5c64.8507feaa71.com
 95797ef4d7.413dfe9f11.com
@@ -198,7 +206,6 @@ b050e41b1a.3c92e2040f.com
 b46ccb8d87.3829e58bb1.com
 b58c767c1d.0be2be6d31.com
 b6e9a8ce8a.85c0a6a0ea.com
-b814e3570f.0fd94232df.com
 b9aa96f359.c685ad29ce.com
 ba182692bb.0c1d501ba1.com
 babcca7fba.dca8d1600b.com
@@ -286,8 +293,7 @@ ffe405491d.28b67b8230.com
 #
 # postrelease.com disguised trackers
 #
-a614.mlive.com
-mlive.share.ntv.io
+a235.chron.com
 share.ntv.io
 shared.sponsoredcontent.com
 #
@@ -300,6 +306,7 @@ a135.wsbtv.com
 a135.wsoctv.com
 a614.al.com
 a614.masslive.com
+a614.mlive.com
 a614.nj.com
 a614.pennlive.com
 ajc.share.ntv.io

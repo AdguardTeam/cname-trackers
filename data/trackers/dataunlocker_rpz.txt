@@ -44,13 +44,11 @@
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 ac9kpxbans1l.staging.unstoppabledomains.com CNAME .
 am3s622gcd6m.tt.live CNAME .
-amdiosrjrzp3.kvest.ee CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
 b1tow9h4erpw.anur.polymerdev.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
-bygr2ri20e4y.li.finance CNAME .
 cihnqp6p65.koinly.io CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
@@ -78,7 +76,6 @@ li3k4d70ig52.resourceya.com CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
 m4zoxtrcea1k.controlconceptsusa.com CNAME .
 m5yw219v6r.app.koinly.io CNAME .
-m5yyur2au7l4.test.li.finance CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
 mteme7li1d6r.vertexmarketingagency.com CNAME .

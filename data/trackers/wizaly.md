@@ -36,6 +36,7 @@
     * tk-moveyourfit-com.wizaly.com
     * tk-nhlottery-com.wizaly.com
     * tk-ornikar-com.wizaly.com
+    * tk-petit-bateau.wizaly.com
     * tk-planete-oui-fr.wizaly.com
     * tk-qare-fr.wizaly.com
     * tk-rentacar-fr.wizaly.com
@@ -107,6 +108,12 @@
 | tk.moveyourfit.com | tk-moveyourfit-com.wizaly.com |
 | tk.nhlottery.com | tk-nhlottery-com.wizaly.com |
 | tk.ornikar.com | tk-ornikar-com.wizaly.com |
+| tk.petit-bateau.be | tk-petit-bateau.wizaly.com |
+| tk.petit-bateau.co.uk | tk-petit-bateau.wizaly.com |
+| tk.petit-bateau.de | tk-petit-bateau.wizaly.com |
+| tk.petit-bateau.es | tk-petit-bateau.wizaly.com |
+| tk.petit-bateau.fr | tk-petit-bateau.wizaly.com |
+| tk.petit-bateau.it | tk-petit-bateau.wizaly.com |
 | tk.planete-oui.fr | tk-planete-oui-fr.wizaly.com |
 | tk.qare.fr | tk-qare-fr.wizaly.com |
 | tk.rentacar.fr | tk-rentacar-fr.wizaly.com |

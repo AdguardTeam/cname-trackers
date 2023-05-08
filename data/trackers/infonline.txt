@@ -273,6 +273,7 @@
 ||data-2340ac25bb.apps.iocnt.de^
 ||data-236c420b67.glamour.de^
 ||data-23c20dac87.tophotel.de^
+||data-24d3602ae0.freenet.de^
 ||data-24d7667a6a.apps.iocnt.de^
 ||data-24fe804269.datacenter-insider.de^
 ||data-2527e6d775.sportdeutschland.tv^
@@ -402,6 +403,7 @@
 ||data-3c91d46d9d.smarterworld.de^
 ||data-3c91d46d9d.weka-fachmedien.de^
 ||data-3cb5515026.harpersbazaar.de^
+||data-3cce760e0e.menoftheyear.de^
 ||data-3cd8fb3825.kicker.de^
 ||data-3d30b366ad.cavallo.de^
 ||data-3d30b366ad.elektrobike-online.com^
@@ -1182,6 +1184,7 @@
 ||data-a486ca6d85.hamburg-magazin.de^
 ||data-a495acff56.airliners.de^
 ||data-a4e945dbeb.augusto-sachsen.de^
+||data-a4e945dbeb.dawo-dresden.de^
 ||data-a4e945dbeb.saechsische.de^
 ||data-a4e945dbeb.sz-auktion.de^
 ||data-a4e945dbeb.sz-fahrradfest.de^
@@ -1592,6 +1595,7 @@
 ||data-ed1ee98a6c.portal-der-frauen.de^
 ||data-ed1ee98a6c.portal-der-haut.de^
 ||data-ed1ee98a6c.portal-der-kinder.de^
+||data-ed1ee98a6c.portal-der-maenner.de^
 ||data-ed1ee98a6c.portal-der-orthopaedie.de^
 ||data-ed1ee98a6c.portal-der-psyche.de^
 ||data-ed1ee98a6c.portal-der-schoenheit.de^
@@ -1624,6 +1628,7 @@
 ||data-ef805f6034.apps.iocnt.de^
 ||data-ef8760a9b2.fraenkische-rezepte.de^
 ||data-ef8760a9b2.infranken.de^
+||data-effb03adae.apps.iocnt.de^
 ||data-f00aa2a607.dienews.net^
 ||data-f03c9f2339.jolie.de^
 ||data-f06c8efc81.fitforfun.de^
@@ -1636,6 +1641,7 @@
 ||data-f1c47705fc.elite-magazin.de^
 ||data-f1c47705fc.profi.de^
 ||data-f1c47705fc.rimondo.com^
+||data-f1c47705fc.susonline.de^
 ||data-f1c47705fc.topagrar.com^
 ||data-f1c47705fc.tygodnik-rolniczy.pl^
 ||data-f1c47705fc.wochenblatt.com^
@@ -1654,6 +1660,7 @@
 ||data-f1e447fbcf.chiemgau24.de^
 ||data-f1e447fbcf.come-on.de^
 ||data-f1e447fbcf.costanachrichten.com^
+||data-f1e447fbcf.dasgelbeblatt.de^
 ||data-f1e447fbcf.deichstube.de^
 ||data-f1e447fbcf.einfach-tasty.de^
 ||data-f1e447fbcf.extratipp.com^
@@ -1661,6 +1668,7 @@
 ||data-f1e447fbcf.fnp.de^
 ||data-f1e447fbcf.fr.de^
 ||data-f1e447fbcf.fuldaerzeitung.de^
+||data-f1e447fbcf.fupa.net^
 ||data-f1e447fbcf.giessener-allgemeine.de^
 ||data-f1e447fbcf.giessener-anzeiger.de^
 ||data-f1e447fbcf.hallo-muenchen.de^
@@ -1672,13 +1680,16 @@
 ||data-f1e447fbcf.ingame.de^
 ||data-f1e447fbcf.innsalzach24.de^
 ||data-f1e447fbcf.ippen.media^
+||data-f1e447fbcf.kreis-anzeiger.de^
 ||data-f1e447fbcf.kreisbote.de^
 ||data-f1e447fbcf.kreiszeitung.de^
 ||data-f1e447fbcf.landtiere.de^
+||data-f1e447fbcf.leinetal24.de^
 ||data-f1e447fbcf.lokalo24.de^
 ||data-f1e447fbcf.ludwigshafen24.de^
 ||data-f1e447fbcf.mangfall24.de^
 ||data-f1e447fbcf.mannheim24.de^
+||data-f1e447fbcf.meine-anzeigenzeitung.de^
 ||data-f1e447fbcf.merkur.de^
 ||data-f1e447fbcf.merkurtz.de^
 ||data-f1e447fbcf.oktoberfest.bayern^
@@ -1817,6 +1828,7 @@
 ||data-fcb7dbed1e.apps.iocnt.de^
 ||data-fd399543fe.elektroniknet.de^
 ||data-fd399543fe.medical-design.news^
+||data-fd399543fe.mut-job.de^
 ||data-fd53e9bda6.holidayguru.es^
 ||data-fd53e9bda6.urlaubsguru.de^
 ||data-fd60c1cff9.ke-next.de^

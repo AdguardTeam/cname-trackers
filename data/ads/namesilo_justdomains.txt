@@ -65,6 +65,7 @@
 3180146.notifysrv.com
 3180154.notifysrv.com
 3180172.notifysrv.com
+3180616.notify6.com
 3180622.notifysrv.com
 3180624.notifysrv.com
 3180632.notifysrv.com
@@ -750,6 +751,7 @@
 4623392.notify6.com
 4623404.notify6.com
 4636902.notify6.com
+4648982.notify6.com
 4656576.notify6.com
 4680526.notify6.com
 4682394.notify6.com
@@ -807,9 +809,12 @@ _sips._tcp.3323174.notifysrv.com
 a.a3ion.com
 a.ad.guru
 a.addisplaynetwork.com
+a.etology.com
 a.paradoxgroup.uk
 a.redpathmedia.com
+a.santabrowser.com
 a.stuffserve.com
+admin.shafttraffic.com
 api.adnation.com
 delivery.gettopple.com
 engine.gettopple.com

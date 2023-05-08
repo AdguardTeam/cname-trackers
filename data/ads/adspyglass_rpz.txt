@@ -8,8 +8,6 @@
 0i.sh-cdn.com CNAME .
 0i.simply-hentai.com CNAME .
 123.manga1001.top CNAME .
-1d88r44d9t.nelasleaks.com CNAME .
-2bx0h7o3zw.nelasleaks.com CNAME .
 3weg314.2conv.com CNAME .
 5475feaab.clicknplay.to CNAME .
 58745.clicknplay.to CNAME .
@@ -84,6 +82,7 @@ aa.zerg.pro CNAME .
 abc.comick.top CNAME .
 ablade.beauty CNAME .
 abracadabrahub.com CNAME .
+abutok.xyz CNAME .
 acdn.uploads.mobi CNAME .
 ad.animeitaly.org CNAME .
 ad.emule-island.eu CNAME .
@@ -97,7 +96,6 @@ addin.icu CNAME .
 adhome.icu CNAME .
 adilk.ilikecomix.com CNAME .
 ads.2conv.com CNAME .
-ads.49inchporn.club CNAME .
 ads.free-to.download CNAME .
 ads.hentaiheart.com CNAME .
 ads.javtit.com CNAME .
@@ -396,6 +394,7 @@ mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 meoem.lol CNAME .
 messic.lol CNAME .
+metabuz.xyz CNAME .
 meyd.7mmtv.top CNAME .
 mficlyxgvfsp.cdnvideo3.com CNAME .
 mide.7mmtv.top CNAME .
@@ -455,7 +454,6 @@ parkurl.com CNAME .
 pem.tamboys.pics CNAME .
 pengenanu.files.im CNAME .
 pep929.mom CNAME .
-pepi.haillo.xyz CNAME .
 pepipost.autos CNAME .
 pharaon.mom CNAME .
 pihu.xxxpornhd.pro CNAME .
@@ -534,7 +532,6 @@ srv1.bunnymediaserver.com CNAME .
 sshopee.beauty CNAME .
 ssis.7mmtv.top CNAME .
 ssltest.soundrussian.com CNAME .
-statement.blauenseville.buzz CNAME .
 stbvip.co CNAME .
 stbvip.mom CNAME .
 stepfantasy.art CNAME .
@@ -640,4 +637,6 @@ cdn.manhwadesu.me CNAME .
 ;
 ; u53.hypnorat.com disguised trackers
 ;
+h-ay.com CNAME .
+ontj.com CNAME .
 qoqv.com CNAME .

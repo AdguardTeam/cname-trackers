@@ -6,6 +6,7 @@
 aa.samaniclucked.com CNAME .
 ae.craccaanybody.com CNAME .
 ae.rackmanbehind.com CNAME .
+ae.riataspardahs.com CNAME .
 al.neuraleisfahan.com CNAME .
 an.pintaentrep.com CNAME .
 aq.ferisonledger.com CNAME .
@@ -14,6 +15,7 @@ at.laundawaits.com CNAME .
 au.bolloxcyclism.com CNAME .
 ax.mousmeetrike.com CNAME .
 ax.requotebatman.com CNAME .
+bb.vanhonker.com CNAME .
 bf.shodeoaters.com CNAME .
 bg.unbarbpoured.com CNAME .
 bh.twifoilperoxyl.com CNAME .
@@ -45,6 +47,7 @@ do.chimblyconyger.com CNAME .
 du.jubhahbalize.com CNAME .
 dv.citricesu.com CNAME .
 dw.organaamnions.com CNAME .
+dy.fitrootmisterm.com CNAME .
 ef.betosslingala.com CNAME .
 ej.basialforced.com CNAME .
 et.harmoutguereza.com CNAME .
@@ -101,15 +104,18 @@ jo.dinahmirv.com CNAME .
 jo.maraewid.com CNAME .
 jo.tictocswended.com CNAME .
 ju.kittlesoceania.com CNAME .
+ju.veganswingbow.com CNAME .
 jv.curiousuraemia.com CNAME .
 jw.posiedcaridea.com CNAME .
 jx.yonnersekere.com CNAME .
 kl.osmoticchalah.com CNAME .
+kp.stingeantonia.com CNAME .
 ks.dagamemisdeed.com CNAME .
 ku.arbacindiplex.com CNAME .
 ku.eftesthalms.com CNAME .
 kv.patenssabzi.com CNAME .
 kz.rebakeassets.com CNAME .
+la.lamdensnip.com CNAME .
 lb.hyratesethic.com CNAME .
 ld.stengskelped.com CNAME .
 le.wellsmessy.com CNAME .
@@ -164,6 +170,7 @@ qz.equalsenframe.com CNAME .
 ra.polyserbdom.com CNAME .
 rg.canesbilker.com CNAME .
 rh.sirionehusky.com CNAME .
+rj.unhaveabobra.com CNAME .
 rm.bauderylysines.com CNAME .
 rp.tsuresoranges.com CNAME .
 rr.giggertji.com CNAME .
@@ -180,6 +187,7 @@ sc.waybookmyceles.com CNAME .
 se.aspireetopee.com CNAME .
 sf.dirhamsleered.com CNAME .
 sf.zestfulpize.com CNAME .
+sl.elinvarpayola.com CNAME .
 sl.frondewame.com CNAME .
 sq.volvellurol.com CNAME .
 sr.awkwardpurfles.com CNAME .
@@ -215,6 +223,7 @@ vp.upswingmethyl.com CNAME .
 vt.alieneepunta.com CNAME .
 vv.habaerashiksas.com CNAME .
 vx.azuresjukes.com CNAME .
+wb.aliensplitch.com CNAME .
 wd.towmonterses.com CNAME .
 we.noonsderider.com CNAME .
 wi.cohereseugene.com CNAME .
@@ -236,6 +245,7 @@ xx.hematinsquark.com CNAME .
 xz.rapsseme.com CNAME .
 yc.flyblowfilippi.com CNAME .
 yg.coehornjobbet.com CNAME .
+yg.slantedsecno.com CNAME .
 yh.coursgrimace.com CNAME .
 yk.dissentsangir.com CNAME .
 yl.calumetjowing.com CNAME .

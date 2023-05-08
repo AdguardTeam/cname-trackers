@@ -1077,6 +1077,7 @@
 | tmcdn.homeaway.com | h-homeaway2.online-metrix.net |
 | customer.homedepot.com | h-homedepot.online-metrix.net |
 | tmt.houzz.com | h-houzz.online-metrix.net |
+| cdntm.expat.hsbc.com | h-hsbcmx.online-metrix.net |
 | cdntm.firstdirect.com | h-hsbcmx.online-metrix.net |
 | cdntm.hangseng.com | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.ae | h-hsbcmx.online-metrix.net |
@@ -1487,6 +1488,7 @@
 | content.readiness.familyprepaiddebit.com | h.online-metrix.net |
 | content.readiness.paycardsolutions.com | h.online-metrix.net |
 | df.fragrancex.com | h.online-metrix.net |
+| fp.avatrade.com | h.online-metrix.net |
 | fraudcheck.walmart.ca | h.online-metrix.net |
 | gateway.jmbullion.com | h.online-metrix.net |
 | h.greenmangaming.com | h.online-metrix.net |

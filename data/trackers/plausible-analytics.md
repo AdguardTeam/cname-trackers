@@ -80,7 +80,6 @@
 | anneliese.scale.at | custom.plausible.io |
 | antitracking.owncast.online | custom.plausible.io |
 | ap.dt.gl | custom.plausible.io |
-| api.decentralize.today | custom.plausible.io |
 | api.digitalpiloten.org | custom.plausible.io |
 | api.dt.gl | custom.plausible.io |
 | api.elliehuxtable.com | custom.plausible.io |
@@ -139,6 +138,7 @@
 | joy.ochronus.online | custom.plausible.io |
 | kaladyaudiology.ericksonbuilt.com | custom.plausible.io |
 | kekw.givetip.to | custom.plausible.io |
+| kingsandqueens.splowser.com | custom.plausible.io |
 | kon.mediaplatform.group | custom.plausible.io |
 | ks.walkq.com | custom.plausible.io |
 | l.lilyzhou.com | custom.plausible.io |
@@ -402,7 +402,6 @@
 | stats.airtrafik.com | custom.plausible.io |
 | stats.aixbrain.de | custom.plausible.io |
 | stats.albert-kropp-gmbh.de | custom.plausible.io |
-| stats.alexbh.dev | custom.plausible.io |
 | stats.alibhai.co | custom.plausible.io |
 | stats.aligncoaching.ca | custom.plausible.io |
 | stats.allaboutberlin.com | custom.plausible.io |
@@ -944,7 +943,6 @@
 | views.sikerproducts.com | custom.plausible.io |
 | visitorcenter.srwild.com | custom.plausible.io |
 | visitors.gigianddavid.com | custom.plausible.io |
-| vole.amplenote.com | custom.plausible.io |
 | we-love-privacy.humane.club | custom.plausible.io |
 | www2.azimuthpsych.com | custom.plausible.io |
 | xyz.bestool.pl | custom.plausible.io |

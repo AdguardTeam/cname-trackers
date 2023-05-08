@@ -15,7 +15,6 @@
     * fashionation01.webtrekk.net
     * flaconi02.webtrekk.net
     * flatex-at01.webtrekk.net
-    * flatex-de01.webtrekk.net
     * heise02.webtrekk.net
     * ingnl04.webtrekk.net
     * interhyp02.webtrekk.net
@@ -38,7 +37,6 @@
     * tchibo09.webtrekk.net
     * telekom01.webtrekk.net
     * telekom02.webtrekk.net
-    * vitrade02.webtrekk.net
     * warentest-de01.webtrekk.net
     * yello-de01.webtrekk.net
 * wt-eu02.net
@@ -437,10 +435,8 @@
 | now.peek-cloppenburg.de | fashionation01.webtrekk.net |
 | startrekk.flaconi.at | flaconi-at.wt-eu02.net |
 | startrekk.flaconi.de | flaconi02.webtrekk.net |
-| w3.flatex.at | flatex-at01.webtrekk.net |
 | w3.flatex.es | flatex-at01.webtrekk.net |
 | w3.flatex.nl | flatex-at01.webtrekk.net |
-| w3.flatex.de | flatex-de01.webtrekk.net |
 | data.goertz.de | goertz-01.wt-eu02.net |
 | hbbtv-track.prosieben.de | hbbtv-track.wt-eu02.net |
 | prophet.heise.de | heise02.webtrekk.net |
@@ -461,6 +457,7 @@
 | img.foodspring.de | img-foodspring01.wt-eu02.net |
 | img.foodspring.dk | img-foodspring01.wt-eu02.net |
 | img.foodspring.es | img-foodspring01.wt-eu02.net |
+| img.foodspring.fi | img-foodspring01.wt-eu02.net |
 | img.foodspring.fr | img-foodspring01.wt-eu02.net |
 | img.foodspring.hr | img-foodspring01.wt-eu02.net |
 | img.foodspring.it | img-foodspring01.wt-eu02.net |
@@ -545,7 +542,6 @@
 | cijfers.tweakers.nl | tweakersnl01.wt-eu02.net |
 | daten.union-investment.de | unioninvestment-de01.wt-eu02.net |
 | wt.vhb.de | vhb-01.wt-eu02.net |
-| w3.vitrade.de | vitrade02.webtrekk.net |
 | data.volksfreund.de | volksfreund01.wt-eu02.net |
 | wa.planet-wissen.de | wa-wdr.wt-eu02.net |
 | wa.quarks.de | wa-wdr.wt-eu02.net |

@@ -161,6 +161,7 @@
     * baxterofcalifornia.extole.io
     * bbw.extole.io
     * beaspermdonor.extole.io
+    * biblejourney.extole.io
     * bioionic.extole.io
     * bobstores.extole.io
     * boden-au.extole.io
@@ -223,10 +224,10 @@
     * discountschoolsupply.extole.io
     * discover-bank.extole.io
     * discover-student-loan.extole.io
+    * dolls-kill.extole.io
     * ds-laboratories.extole.io
     * dutch.extole.io
     * ea.extole.io
-    * edelmanfinancial.extole.io
     * embrace-pet-insurance.extole.io
     * empathywines.extole.io
     * empire-today.extole.io
@@ -299,6 +300,7 @@
     * jewelersmutual.extole.io
     * joann.extole.io
     * join1440.extole.io
+    * jonesservices.extole.io
     * juicepress.extole.io
     * juvlabs.extole.io
     * keds.extole.io
@@ -345,6 +347,7 @@
     * new-balance-ca.extole.io
     * newtonbaby.extole.io
     * nfhs-network.extole.io
+    * ngfcu.extole.io
     * ninja-kitchen.extole.io
     * obagi.extole.io
     * olehenriksen.extole.io
@@ -570,6 +573,7 @@
 | refer.bathandbodyworks.com | bbw.extole.io |
 | share.beaspermdonor.com | beaspermdonor.extole.io |
 | refer.betterbraces.com | betterbraces.extole.com |
+| share.biblejourney.com | biblejourney.extole.io |
 | refer.bioionic.com | bioionic.extole.io |
 | refer.bobstores.com | bobstores.extole.io |
 | refer.ems.com | bobstores.extole.io |
@@ -658,11 +662,11 @@
 | refer.discover.com | discover.extole.com |
 | refer.divvybikes.com | divvybikes.extole.com |
 | refer.dnj.com | dnj.extole.com |
+| refer1.dollskill.com | dolls-kill.extole.io |
 | share.dslaboratories.com | ds-laboratories.extole.io |
 | share.dutch.com | dutch.extole.io |
 | refer.ea.com | ea.extole.io |
 | friend.ebags.com | ebags.extole.com |
-| refer.edelmanfinancial.com | edelmanfinancial.extole.io |
 | refer.embracepetinsurance.com | embrace-pet-insurance.extole.io |
 | share.empathywines.com | empathywines.extole.io |
 | refer.empiretoday.com | empire-today.extole.io |
@@ -716,6 +720,7 @@
 | share.redding.com | gannett.extole.io |
 | share.reporternews.com | gannett.extole.io |
 | share.rgj.com | gannett.extole.io |
+| share.stargazette.com | gannett.extole.io |
 | share.statesman.com | gannett.extole.io |
 | share.tallahassee.com | gannett.extole.io |
 | share.tauntongazette.com | gannett.extole.io |
@@ -786,6 +791,7 @@
 | refer.joann.com | joann.extole.io |
 | refer.johnson.ca | johnson.extole.com |
 | refer.join1440.com | join1440.extole.io |
+| refer.netrinc.com | jonesservices.extole.io |
 | refer.juicepress.com | juicepress.extole.io |
 | share.juicepress.com | juicepress.extole.io |
 | refer.julep.com | julep.extole.com |
@@ -854,6 +860,7 @@
 | s.gamepass.nfl.com | nflgamepass.extole.com |
 | r.gamerewind.nfl.com | nflgamerewind.extole.com |
 | r.preseason.nfl.com | nflpreseasonlive.extole.com |
+| share.ngfcu.us | ngfcu.extole.io |
 | refer.ninjakitchen.com | ninja-kitchen.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
 | share.obagi.com | obagi.extole.io |

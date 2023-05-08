@@ -7,6 +7,7 @@
 a.20minutes.fr CNAME .
 a.pourquoidocteur.fr CNAME .
 a1.api.bbc.co.uk CNAME .
+a1.api.bbc.com CNAME .
 abncx.amv.fr CNAME .
 ama.planet-wissen.de CNAME .
 ama.quarks.de CNAME .

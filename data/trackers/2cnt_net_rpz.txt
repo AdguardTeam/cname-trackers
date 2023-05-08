@@ -306,9 +306,9 @@ ssl-youseeteststream.tns-gallup.dk CNAME .
 ;
 dr.tns-gallup.dk CNAME .
 ;
-; drandroidtvstream.tns-dk.2cnt.net disguised trackers
+; drandroidstream.tns-dk.2cnt.net disguised trackers
 ;
-drandroidtvstream.tns-gallup.dk CNAME .
+drandroidstream.tns-gallup.dk CNAME .
 ;
 ; slb-tns-dk-pool06.tns-dk.2cnt.net disguised trackers
 ;
@@ -409,6 +409,10 @@ gratisspil.tns-gallup.dk CNAME .
 ;
 halsa.tns-gallup.dk CNAME .
 ;
+; hanser.vgwort-de.2cnt.net disguised trackers
+;
+hanser.met.vgwort.de CNAME .
+;
 ; helpster.vgwort-de.2cnt.net disguised trackers
 ;
 helpster.met.vgwort.de CNAME .
@@ -472,10 +476,6 @@ jubii.tns-gallup.dk CNAME .
 ; juicyplay.tns-dk.2cnt.net disguised trackers
 ;
 juicyplay.tns-gallup.dk CNAME .
-;
-; juris.vgwort-de.2cnt.net disguised trackers
-;
-juris.met.vgwort.de CNAME .
 ;
 ; komputer.tns-dk.2cnt.net disguised trackers
 ;
@@ -568,6 +568,10 @@ nembillet.tns-gallup.dk CNAME .
 ; newsb.tns-dk.2cnt.net disguised trackers
 ;
 newsb.tns-gallup.dk CNAME .
+;
+; nomos.vgwort-de.2cnt.net disguised trackers
+;
+nomos.met.vgwort.de CNAME .
 ;
 ; nordjyske.tns-dk.2cnt.net disguised trackers
 ;
@@ -789,10 +793,6 @@ ssl-dplaystream.tns-gallup.dk CNAME .
 ;
 ssl-dr.tns-gallup.dk CNAME .
 ;
-; ssl-drandroidtvstream.tns-dk.2cnt.net disguised trackers
-;
-ssl-drandroidtvstream.tns-gallup.dk CNAME .
-;
 ; ssl-drhbbstream.tns-dk.2cnt.net disguised trackers
 ;
 ssl-drhbbstream.tns-gallup.dk CNAME .
@@ -804,10 +804,6 @@ ssl-drhbbtv.tns-gallup.dk CNAME .
 ; ssl-driosstream.tns-dk.2cnt.net disguised trackers
 ;
 ssl-driosstream.tns-gallup.dk CNAME .
-;
-; ssl-drtv-appletv.tns-dk.2cnt.net disguised trackers
-;
-ssl-drtv-appletv.tns-gallup.dk CNAME .
 ;
 ; ssl-ebiam.tns-dk.2cnt.net disguised trackers
 ;

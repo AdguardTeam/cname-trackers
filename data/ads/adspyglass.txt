@@ -8,8 +8,6 @@
 ||0i.sh-cdn.com^
 ||0i.simply-hentai.com^
 ||123.manga1001.top^
-||1d88r44d9t.nelasleaks.com^
-||2bx0h7o3zw.nelasleaks.com^
 ||3weg314.2conv.com^
 ||5475feaab.clicknplay.to^
 ||58745.clicknplay.to^
@@ -84,6 +82,7 @@
 ||abc.comick.top^
 ||ablade.beauty^
 ||abracadabrahub.com^
+||abutok.xyz^
 ||acdn.uploads.mobi^
 ||ad.animeitaly.org^
 ||ad.emule-island.eu^
@@ -97,7 +96,6 @@
 ||adhome.icu^
 ||adilk.ilikecomix.com^
 ||ads.2conv.com^
-||ads.49inchporn.club^
 ||ads.free-to.download^
 ||ads.hentaiheart.com^
 ||ads.javtit.com^
@@ -396,6 +394,7 @@
 ||member.javtvnow.xyz^
 ||meoem.lol^
 ||messic.lol^
+||metabuz.xyz^
 ||meyd.7mmtv.top^
 ||mficlyxgvfsp.cdnvideo3.com^
 ||mide.7mmtv.top^
@@ -455,7 +454,6 @@
 ||pem.tamboys.pics^
 ||pengenanu.files.im^
 ||pep929.mom^
-||pepi.haillo.xyz^
 ||pepipost.autos^
 ||pharaon.mom^
 ||pihu.xxxpornhd.pro^
@@ -534,7 +532,6 @@
 ||sshopee.beauty^
 ||ssis.7mmtv.top^
 ||ssltest.soundrussian.com^
-||statement.blauenseville.buzz^
 ||stbvip.co^
 ||stbvip.mom^
 ||stepfantasy.art^
@@ -640,4 +637,6 @@
 !
 ! u53.hypnorat.com disguised trackers
 !
+||h-ay.com^
+||ontj.com^
 ||qoqv.com^

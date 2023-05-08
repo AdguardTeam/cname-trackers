@@ -75,7 +75,6 @@ analytics.zevvle.com
 anneliese.scale.at
 antitracking.owncast.online
 ap.dt.gl
-api.decentralize.today
 api.digitalpiloten.org
 api.dt.gl
 api.elliehuxtable.com
@@ -134,6 +133,7 @@ insights.growwithless.com
 joy.ochronus.online
 kaladyaudiology.ericksonbuilt.com
 kekw.givetip.to
+kingsandqueens.splowser.com
 kon.mediaplatform.group
 ks.walkq.com
 l.lilyzhou.com
@@ -397,7 +397,6 @@ stats.adlperformance.es
 stats.airtrafik.com
 stats.aixbrain.de
 stats.albert-kropp-gmbh.de
-stats.alexbh.dev
 stats.alibhai.co
 stats.aligncoaching.ca
 stats.allaboutberlin.com
@@ -939,7 +938,6 @@ triton.companyegg.com
 views.sikerproducts.com
 visitorcenter.srwild.com
 visitors.gigianddavid.com
-vole.amplenote.com
 we-love-privacy.humane.club
 www2.azimuthpsych.com
 xyz.bestool.pl

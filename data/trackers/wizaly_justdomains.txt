@@ -96,6 +96,12 @@ tk.moveyourfit.com
 tk.msccruises.com
 tk.nhlottery.com
 tk.ornikar.com
+tk.petit-bateau.be
+tk.petit-bateau.co.uk
+tk.petit-bateau.de
+tk.petit-bateau.es
+tk.petit-bateau.fr
+tk.petit-bateau.it
 tk.planete-oui.fr
 tk.prismashop.fr
 tk.qare.fr

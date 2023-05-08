@@ -4,6 +4,7 @@
 ; popcashjs.b-cdn.net disguised trackers
 ;
 cdn.afwpc.com CNAME .
+cdn.almacz.com CNAME .
 cdn.alota.xyz CNAME .
 cdn.asce.xyz CNAME .
 cdn.asdb.xyz CNAME .
@@ -48,6 +49,7 @@ cdn.rgrd.xyz CNAME .
 cdn.shakre.com CNAME .
 cdn.spnut.com CNAME .
 cdn.srxy.xyz CNAME .
+cdn.viowrel.com CNAME .
 cdn.wwfx.xyz CNAME .
 cdn.xawlop.com CNAME .
 cdn.xbcpcn.com CNAME .
@@ -86,6 +88,7 @@ angelfish.owlbear.rodeo CNAME .
 angelfish.wpsocialrocket.com CNAME .
 anglerfish.luminfire.com CNAME .
 anglerfish.pfolios.net CNAME .
+ant.september.digital CNAME .
 anteater.audioadventuregame.com CNAME .
 anteater.stella-projects.de CNAME .
 anteater.ttbwsd.com CNAME .
@@ -99,11 +102,11 @@ ape.mfj.se CNAME .
 ape.smartplanschema.se CNAME .
 aphid.thyself.me CNAME .
 armadillo.axeneo7.qc.ca CNAME .
-armadillo.gothiacup.se CNAME .
 armadillo.stacking.club CNAME .
 armadillo.superpeak.dk CNAME .
 asp.ashesashes.org CNAME .
 asp.chop-shop.com.au CNAME .
+asp.podlist.de CNAME .
 asp.sepiasoft.eu CNAME .
 azlej8cdm.pragmaticwebsecurity.com CNAME .
 baboon.vacanti.com CNAME .
@@ -233,7 +236,6 @@ centipede.wildbit.com CNAME .
 centipede.yuv.al CNAME .
 cephalopod.hometechnology.news CNAME .
 cephalopod.nucleus.us CNAME .
-cephalopod.polymath.net CNAME .
 cephalopod.revelio.io CNAME .
 cephalopod.staff.design CNAME .
 chameleon.rndm.uk CNAME .
@@ -274,7 +276,6 @@ condor.oskarthoren.com CNAME .
 condor.stadttunnel-feldkirch.at CNAME .
 coral.bladestudy.net CNAME .
 coral.defygravity.co CNAME .
-cougar.arenahq.io CNAME .
 cougar.augmentedmindapp.com CNAME .
 cougar.companymoneyworries.co.uk CNAME .
 cougar.wzulfikar.com CNAME .
@@ -409,7 +410,6 @@ fox.domainr.com CNAME .
 fox.visionaudiovisual.com CNAME .
 frog.jamesbliss.com CNAME .
 frog.resavma.com CNAME .
-gamefowl.alexpriest.com CNAME .
 gamefowl.emailforward.mx CNAME .
 gamefowl.karlsutt.com CNAME .
 gayal.guter-plan.at CNAME .
@@ -533,9 +533,11 @@ kingfisher.startupdemoday.live CNAME .
 kingfisher.wishloom.com CNAME .
 kite.devin.website CNAME .
 kite.ibirthdayclub.com CNAME .
+kite.kochie.io CNAME .
 kite.launchcdn.com CNAME .
 kite.oakes.software CNAME .
 kite.ofenbau-voppichler.at CNAME .
+kiwi.coreyodonnell.tech CNAME .
 kiwi.emilkowal.ski CNAME .
 kiwi.mcan.sh CNAME .
 kiwi.railway.app CNAME .
@@ -652,6 +654,7 @@ mollusk.saferingz.com CNAME .
 mollusk.working.actor CNAME .
 mongoose.jasonlbeggs.com CNAME .
 mongoose.scrumgenius.com CNAME .
+mongoose.thechocolatelife.com CNAME .
 monkey.colinjohnston.com CNAME .
 moose.cloverlearning.com CNAME .
 mosquito.iamamandaperez.com CNAME .
@@ -891,10 +894,10 @@ tick.pcrpriser.se CNAME .
 tick.sculch.app CNAME .
 tigershark.advaya.co CNAME .
 tigershark.garethtdavies.com CNAME .
+tigershark.moonpot.com CNAME .
 tigershark.paavanmagic.com CNAME .
 tigershark.vandevliet.me CNAME .
 tiglon.beyondco.de CNAME .
-tiglon.orisdental.no CNAME .
 tortoise.transistor.fm CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.lgbtjobsearch.com CNAME .
@@ -994,6 +997,10 @@ cdn.admatic.com.tr CNAME .
 ; affiliatable1.b-cdn.net disguised trackers
 ;
 cdn.affiliatable.io CNAME .
+;
+; track-dark-bz.b-cdn.net disguised trackers
+;
+cdn.track.dark.bz CNAME .
 ;
 ; consent.b-cdn.net disguised trackers
 ;

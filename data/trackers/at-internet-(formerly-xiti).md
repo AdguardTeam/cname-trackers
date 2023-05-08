@@ -130,6 +130,7 @@
 | a.20minutes.fr | a-20minutes-fr-cddc.at-o.net |
 | a.pourquoidocteur.fr | a-pourquoidocteur-fr-cddc.at-o.net |
 | a1.api.bbc.co.uk | a1-api-bbc-co-uk-cddc.at-o.net |
+| a1.api.bbc.com | a1-api-bbc-co-uk-cddc.at-o.net |
 | ati-a1.946d001b783803c1.xhst.bbci.co.uk | a1-api-bbc-co-uk-cddc.at-o.net |
 | abncx.amv.fr | abncx-amv-fr-cddc.at-o.net |
 | ama.planet-wissen.de | ama-planet-wissen-de-cddc.at-o.net |

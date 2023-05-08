@@ -202,7 +202,6 @@
 ||refer.darphin.com^
 ||refer.ea.com^
 ||refer.ecoterrabeds.com^
-||refer.edelmanfinancial.com^
 ||refer.embracepetinsurance.com^
 ||refer.empiretoday.com^
 ||refer.ems.com^
@@ -277,6 +276,7 @@
 ||refer.mpgsport.com^
 ||refer.myheritagedna.com^
 ||refer.narscosmetics.com^
+||refer.netrinc.com^
 ||refer.newbalance.ca^
 ||refer.nfhsnetwork.com^
 ||refer.ninjakitchen.com^
@@ -365,6 +365,7 @@
 ||refer.zipcar.ca^
 ||refer.zipcar.com^
 ||refer.zomasleep.com^
+||refer1.dollskill.com^
 ||refer1.experian.com^
 ||referafriend.discover.com^
 ||referral.cledepeaubeaute.com^
@@ -392,6 +393,7 @@
 ||share.aveda.com.au^
 ||share.azcentral.com^
 ||share.beaspermdonor.com^
+||share.biblejourney.com^
 ||share.bncollege.com^
 ||share.boden.co.uk^
 ||share.boden.fr^
@@ -484,6 +486,7 @@
 ||share.myq.com^
 ||share.newarkadvocate.com^
 ||share.newtonbaby.com^
+||share.ngfcu.us^
 ||share.obagi.com^
 ||share.olivegarden.com^
 ||share.ollocard.com^
@@ -534,6 +537,7 @@
 ||share.staging.acorns.io^
 ||share.stagsleap.com^
 ||share.starbucks.com^
+||share.stargazette.com^
 ||share.statesman.com^
 ||share.steadyapp.com^
 ||share.stopagingnow.com^

@@ -9,6 +9,7 @@ sponsor.syracuse.com CNAME .
 ; ntvpforever.com disguised trackers
 ;
 00c0a62f0c.de65e1286b.com CNAME .
+00f62a6f1c.8f0f3b8464.com CNAME .
 01b8624b69.d821929e2d.com CNAME .
 02f3427bf4.bac23cfb5b.com CNAME .
 034beb90c9.61b6eab774.com CNAME .
@@ -27,6 +28,7 @@ sponsor.syracuse.com CNAME .
 0d9b072dfd.69c28fb7f4.com CNAME .
 0df76f9508.04cbf4193b.com CNAME .
 0f6e7d3222.ba33938e50.com CNAME .
+107a0e458a.93bc17bf29.com CNAME .
 1228d4b021.f021d67770.com CNAME .
 1327a0e03c.28473c6164.com CNAME .
 1407343952.7805b363c7.com CNAME .
@@ -47,9 +49,11 @@ sponsor.syracuse.com CNAME .
 20ddfbe344.7179c5492e.com CNAME .
 22aa4458dc.c42f556ff8.com CNAME .
 234e54cf56.e9f1af32f6.com CNAME .
+24dbfd6c10.cebee32295.com CNAME .
 2547cd401b.d8a452e2da.com CNAME .
 26e33d5110.b91c577b4d.com CNAME .
 2a98a4b811.a2a2fd6dd1.com CNAME .
+2abf7576ac.4fbe7621b8.com CNAME .
 2b93cd08b5.fd40cd3322.com CNAME .
 2c9ed85c0b.b2acafb3a3.com CNAME .
 2cb68fec4a.4fde20c235.com CNAME .
@@ -70,6 +74,7 @@ sponsor.syracuse.com CNAME .
 3e0bef2039.6e5181a4e4.com CNAME .
 3eaaac4c0d.090a7ee361.com CNAME .
 3fb830355c.9be814e81e.com CNAME .
+3ff30ad38a.9714ddef1d.com CNAME .
 41e02b972b.9f101f07c7.com CNAME .
 41f8a60477.cd4fb281e1.com CNAME .
 41ff45a3db.03f128fb44.com CNAME .
@@ -88,10 +93,12 @@ sponsor.syracuse.com CNAME .
 4ee283d2af.9f8695e9a4.com CNAME .
 4fc89cba3d.e67df3f29d.com CNAME .
 52292b9db4.e4cd7bbad2.com CNAME .
+5366c7a4fb.a74242f89f.com CNAME .
 53f90ea18c.ad64463ef9.com CNAME .
 55bff2103f.f451b7f622.com CNAME .
 5691f27b38.77176d9509.com CNAME .
 56a7ca381c.a4de9aca80.com CNAME .
+572a92f793.210f3810db.com CNAME .
 57a8023ce9.1aa3097b7b.com CNAME .
 58ac5dbcb6.34946d7678.com CNAME .
 5a841fa92e.5ee782a4d9.com CNAME .
@@ -103,6 +110,7 @@ sponsor.syracuse.com CNAME .
 60e1c77a92.11838aaad0.com CNAME .
 6183c729c7.f145627a09.com CNAME .
 62b00ced28.39373b8701.com CNAME .
+62eddc0f6a.f984e0d579.com CNAME .
 62ffd2f212.cfe8fd831d.com CNAME .
 6539a7f33f.2a83afe612.com CNAME .
 65eb50053b.3cb004e947.com CNAME .
@@ -147,7 +155,6 @@ sponsor.syracuse.com CNAME .
 865a159ba5.d7739252ca.com CNAME .
 898dd5a858.a06e054b4c.com CNAME .
 8a68d01b69.11a8e92218.com CNAME .
-8a7f64eb48.5a46c72f0e.com CNAME .
 8aa53eb242.136287d626.com CNAME .
 8ac8c6d855.17c12b43a7.com CNAME .
 8bb3b7c35f.e93014ee07.com CNAME .
@@ -161,6 +168,7 @@ sponsor.syracuse.com CNAME .
 91d0933ded.fd4ac79d49.com CNAME .
 93684a0a94.f57fbf2b51.com CNAME .
 938496c742.497de0e5b3.com CNAME .
+93cbb96d0d.75d1222852.com CNAME .
 95113b3bd8.9d36cf3402.com CNAME .
 951dff5c64.8507feaa71.com CNAME .
 95797ef4d7.413dfe9f11.com CNAME .
@@ -198,7 +206,6 @@ b050e41b1a.3c92e2040f.com CNAME .
 b46ccb8d87.3829e58bb1.com CNAME .
 b58c767c1d.0be2be6d31.com CNAME .
 b6e9a8ce8a.85c0a6a0ea.com CNAME .
-b814e3570f.0fd94232df.com CNAME .
 b9aa96f359.c685ad29ce.com CNAME .
 ba182692bb.0c1d501ba1.com CNAME .
 babcca7fba.dca8d1600b.com CNAME .
@@ -286,8 +293,7 @@ ffe405491d.28b67b8230.com CNAME .
 ;
 ; postrelease.com disguised trackers
 ;
-a614.mlive.com CNAME .
-mlive.share.ntv.io CNAME .
+a235.chron.com CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 ;
@@ -300,6 +306,7 @@ a135.wsbtv.com CNAME .
 a135.wsoctv.com CNAME .
 a614.al.com CNAME .
 a614.masslive.com CNAME .
+a614.mlive.com CNAME .
 a614.nj.com CNAME .
 a614.pennlive.com CNAME .
 ajc.share.ntv.io CNAME .

@@ -168,7 +168,6 @@ affiliate.jewstone.cz CNAME .
 affiliate.jidlojevasen.cz CNAME .
 affiliate.jiristibor.cz CNAME .
 affiliate.ketofit.sk CNAME .
-affiliate.kosateam.com CNAME .
 affiliate.kurzy-liecenia.sk CNAME .
 affiliate.kutil.cz CNAME .
 affiliate.ladylab.sk CNAME .
@@ -182,7 +181,6 @@ affiliate.lentiamo.se CNAME .
 affiliate.levnoshop.cz CNAME .
 affiliate.lg-store.cz CNAME .
 affiliate.loveo.cz CNAME .
-affiliate.luxusnipradlo.cz CNAME .
 affiliate.manvel.cz CNAME .
 affiliate.milagro.cz CNAME .
 affiliate.mobilonline.sk CNAME .
@@ -243,6 +241,7 @@ affiliate.velebny.cz CNAME .
 affiliate.vianio.com CNAME .
 affiliate.vox.cz CNAME .
 affiliate.warriorfactory.cz CNAME .
+affiliate.webium.cz CNAME .
 affiliate.wugi.cz CNAME .
 affiliate.zdraviafitness.cz CNAME .
 affiliate.zdravykos.cz CNAME .
@@ -257,6 +256,7 @@ affilo.vivaboty.cz CNAME .
 affilpartner.descanti.com CNAME .
 afill.e-potisk.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
+ambassador.notsofunnyany.com CNAME .
 benefit.genyprozivot.cz CNAME .
 box.cryptokingdom.tech CNAME .
 box.kryptotrejder.sk CNAME .
@@ -356,6 +356,7 @@ my.weplaybasketball.hu CNAME .
 my.weplaybasketball.ro CNAME .
 my.weplaybasketball.si CNAME .
 my.weplaybasketball.sk CNAME .
+my.weplayhandball.bg CNAME .
 my.weplayhandball.cz CNAME .
 my.weplayhandball.gr CNAME .
 my.weplayhandball.hu CNAME .
@@ -738,6 +739,7 @@ partners.oktagon.tv CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .
 partners.quantexpo.com CNAME .
+partners.rebelsfunding.com CNAME .
 partners.spiritradar.com CNAME .
 plus.mameradivlasy.cz CNAME .
 program.biocitia.eu CNAME .
@@ -765,6 +767,7 @@ spoluprace.eroticstore.cz CNAME .
 spoluprace.h2world.store CNAME .
 spoluprace.interbohemia.cz CNAME .
 spoluprace.janitaurbanova.cz CNAME .
+spoluprace.luxusnipradlo.cz CNAME .
 spoluprace.majka-shop.cz CNAME .
 spoluprace.mentorkalucie.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .
