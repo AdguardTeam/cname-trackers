@@ -55245,7 +55245,6 @@ wiz.sncf-connect.com CNAME .
 wjtekf.vidaxl.bg CNAME .
 wklwyt.springer.com CNAME .
 wkympu.agnesb.co.jp CNAME .
-wl.spotify.com CNAME .
 wlan-switch.net.daraz.com CNAME .
 wlan.01-01-car23-web-wwww11node-webappc-f8.net.daraz.com CNAME .
 wlan00d30040000z4uceak.net.daraz.com CNAME .

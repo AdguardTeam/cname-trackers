@@ -2184,4 +2184,3 @@
 | url3788.blazepizza.com | thirdparty.bnc.lt |
 | url8196.mindrise.app | thirdparty.bnc.lt |
 | url9609.account.experience-muse.com | thirdparty.bnc.lt |
-| wl.spotify.com | thirdparty.bnc.lt |

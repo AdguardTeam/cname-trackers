@@ -2650,4 +2650,3 @@
 | url3630.newsletter.experience-muse.com | thirdparty.bnc.lt |
 | url3788.blazepizza.com | thirdparty.bnc.lt |
 | url7542.fluz.app | thirdparty.bnc.lt |
-| wl.spotify.com | thirdparty.bnc.lt |

@@ -633,7 +633,6 @@ url2987.affirm.com
 url3630.newsletter.experience-muse.com
 url3788.blazepizza.com
 url7542.fluz.app
-wl.spotify.com
 #
 # custom.bnc.lt disguised trackers
 #

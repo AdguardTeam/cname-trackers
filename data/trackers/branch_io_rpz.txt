@@ -633,7 +633,6 @@ url2987.affirm.com CNAME .
 url3630.newsletter.experience-muse.com CNAME .
 url3788.blazepizza.com CNAME .
 url7542.fluz.app CNAME .
-wl.spotify.com CNAME .
 ;
 ; custom.bnc.lt disguised trackers
 ;
