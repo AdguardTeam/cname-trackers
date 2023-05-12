@@ -1,14 +1,12 @@
 !
 ! Company name: Ensighten
-!
-! nc0.co disguised trackers
-!
 ||activate.aami.com.au^
 ||activate.anntaylor.com^
 ||activate.apia.com.au^
 ||activate.baltimoresun.com^
 ||activate.bingle.com.au^
 ||activate.capitalgazette.com^
+||activate.carrollcountytimes.com^
 ||activate.chicagoredeye.com^
 ||activate.chicagotribune.com^
 ||activate.cityandshore.com^
@@ -101,12 +99,12 @@
 ||attribution.sperry.com^
 ||attribution.tescomobile.com^
 ||attribution.theworks.co.uk^
-||attribution.tmlewin.com^
 ||attribution.tmlewinshirts.eu^
 ||attribution.wolverine.com^
 ||businessmetrics.syf.com^
 ||cm.oneidentity.com^
 ||cm.quest.com^
+||cmp.audi.be^
 ||cmp.cupra.be^
 ||cmp.dieteren.be^
 ||cmp.myway.be^

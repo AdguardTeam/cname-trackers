@@ -1,8 +1,5 @@
 ;
 ; Company name: AT Internet (formerly XiTi)
-;
-; at-o.net disguised trackers
-;
 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr CNAME .
 a.20minutes.fr CNAME .
 a.pourquoidocteur.fr CNAME .

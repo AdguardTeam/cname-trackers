@@ -1,8 +1,5 @@
 !
 ! Company name: DataUnlocker
-!
-! dataunlocker.com disguised trackers
-!
 ||0d8is908gby1.www.terraform.com.ar^
 ||10ro53kulyb.groove.so^
 ||11b6n4ty2x3.taxliencode.com^
@@ -15,7 +12,6 @@
 ||1bw7etm93lf.www.woodbrass.com^
 ||1hb4jkt1u2d.probemas.com^
 ||1kpv4njzilv.community.intersystems.com^
-||1m639v56m9d.development.pit.taxmachine.be^
 ||1op1je6zs97.www.emanualonline.com^
 ||1uwcex4qf9z.test-115.dapp.ml^
 ||1xejnhs1zd1.staging.aporia.com^
@@ -49,6 +45,7 @@
 ||b20p6lt350nt.app.polymersearch.com^
 ||b536mpmxoqxa.www.themoneytizer.com^
 ||b5j6itccyluq.nofluffjobs.com^
+||bigbtmbvdzda.freelancer.taxmachine.be^
 ||cihnqp6p65.koinly.io^
 ||cqsecshf4rd9.www.tracktheta.com^
 ||cqz6fn6aox.aporia.com^
@@ -114,11 +111,3 @@
 ||ysrrzgku6tar.us.themoneytizer.com^
 ||yxbh3a53nv.adaptive.marketing^
 ||zkmhhr1fr79z.dictionary.basabali.org^
-!
-! monopoly-drain.ga disguised trackers
-!
-! no domains found for monopoly-drain.ga
-!
-! friendly-community.tk disguised trackers
-!
-! no domains found for friendly-community.tk

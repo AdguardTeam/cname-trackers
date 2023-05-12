@@ -1,8 +1,5 @@
 !
 ! Company name: LexisNexis Risk Solutions
-!
-! online-metrix.net disguised trackers
-!
 ||1bf86f4b.tictoc.ai^
 ||abc.pulsebet.com^
 ||acdc.toolineo.de^
@@ -139,6 +136,7 @@
 ||check3.tiaa.org^
 ||check3.tiaabank.com^
 ||checkout-df.lululemon.com^
+||checkout.walz.de^
 ||cib.currency.lloydsbank.com^
 ||claimant.vec.virginia.gov^
 ||clear.wallapop.com^
@@ -503,6 +501,7 @@
 ||nv-2.liveaction.com^
 ||ocs.ameriprise.com^
 ||offtest.fnfis.com^
+||ofp.intuit.com^
 ||ofxmryjd.seller.walmart.com^
 ||ofxmryjd.walmart.com^
 ||ola2.tdameritrade.com^
@@ -520,6 +519,7 @@
 ||pages.fiduciarytrust.com^
 ||pages.franklintempleton.com^
 ||paiement.cb4x.fr^
+||payment.rewards.sony.com^
 ||payments-de.lidlplus.com^
 ||payments.direct.playstation.com^
 ||payments.hd-plus.de^
@@ -683,6 +683,7 @@
 ||t.us.williamhill.com^
 ||t.wepay.com^
 ||t.yallo.ch^
+||t.zinia.com^
 ||t1.tacdn.com^
 ||t1.welab.bank^
 ||t11.identity.aikyam.com^

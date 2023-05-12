@@ -1,8 +1,5 @@
 !
 ! Company name: Webtrekk
-!
-! webtrekk.net disguised trackers
-!
 ||aud.bild.de^
 ||image.deginvest.de^
 ||image.kfw-entwicklungsbank.de^
@@ -42,9 +39,6 @@
 ||wt.distrelec.com^
 ||wtm.interhyp.de^
 ||www7.springer.com^
-!
-! wt-eu02.net disguised trackers
-!
 ||a.deutschehospitality.com^
 ||a.hrewards.com^
 ||a.intercityhotel.com^
@@ -170,6 +164,7 @@
 ||ot.obi-baumarkt.ch^
 ||ot.obi-brico.ch^
 ||ot.obi-italia.it^
+||ot.obi-ticino.ch^
 ||ot.obi.at^
 ||ot.obi.ba^
 ||ot.obi.ch^
@@ -358,7 +353,3 @@
 ||wttd.madeleine.de^
 ||wttd.madeleine.fr^
 ||wttd.madeleine.gr^
-!
-! wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com disguised trackers
-!
-||web.marketing.jellybelly.com^

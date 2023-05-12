@@ -1,8 +1,5 @@
 ;
 ; Company name: AdSpyglass
-;
-; 0i0i0i0.com disguised trackers
-;
 0.oldgyhogola.com CNAME .
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
@@ -83,7 +80,6 @@ abc.comick.top CNAME .
 ablade.beauty CNAME .
 abracadabrahub.com CNAME .
 abutok.xyz CNAME .
-acdn.uploads.mobi CNAME .
 ad.animeitaly.org CNAME .
 ad.emule-island.eu CNAME .
 ad.pornutopia.org CNAME .
@@ -193,6 +189,7 @@ bambao.lol CNAME .
 bambao.xyz CNAME .
 banana.arabtoons.net CNAME .
 banana.emailon.top CNAME .
+bangute.xyz CNAME .
 bc6dc48b743dc5d01.clicknplay.to CNAME .
 bddd.javmilk.org CNAME .
 biakico.mom CNAME .
@@ -252,6 +249,7 @@ d.bloblohub.com CNAME .
 dam.tucsun.mom CNAME .
 dashboard.fc2ppv.buzz CNAME .
 data.bangtubevideos.com CNAME .
+data.streamtape.com CNAME .
 ddddd.javmilk.org CNAME .
 deliver.vkcdnservice.com CNAME .
 digiadzone.com CNAME .
@@ -387,6 +385,7 @@ m9xp1.hentaigold.net CNAME .
 maizour.mom CNAME .
 makumva.all-usanomination.com CNAME .
 mangaad.xyz CNAME .
+mangoga.xyz CNAME .
 marcusdevs.ru CNAME .
 maxcdn.dmm-video.online CNAME .
 maxhold.xyz CNAME .
@@ -483,7 +482,6 @@ qhip.com CNAME .
 qoqv.com CNAME .
 qoutec.shop CNAME .
 qsdr.mysunnylawn.com CNAME .
-quaz.viaoz.xyz CNAME .
 qx0.xnxxtubevideos.com CNAME .
 ramosz.lol CNAME .
 redi.teengirl-pics.com CNAME .
@@ -622,6 +620,7 @@ xhandfuk.com CNAME .
 xn--q1a.bloblohub.com CNAME .
 xs213.javgg.club CNAME .
 xserve.zapurl.cc CNAME .
+xxx.sdtraff.com CNAME .
 xxxddd.baijav.com CNAME .
 xxxlove.rooski.net CNAME .
 xzillame.com CNAME .
@@ -630,13 +629,4 @@ youzok.lol CNAME .
 z0000g.yvmads.com CNAME .
 zazu.vtube.to CNAME .
 zzzzaaa.baijav.com CNAME .
-;
-; cdn66584302.blazingcdn.net disguised trackers
-;
 cdn.manhwadesu.me CNAME .
-;
-; u53.hypnorat.com disguised trackers
-;
-h-ay.com CNAME .
-ontj.com CNAME .
-qoqv.com CNAME .

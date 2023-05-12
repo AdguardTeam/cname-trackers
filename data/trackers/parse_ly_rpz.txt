@@ -1,8 +1,5 @@
 ;
 ; Company name: Parse.ly
-;
-; parsely.com disguised trackers
-;
 fpa-api.adweek.com CNAME .
 fpa-api.arstechnica.com CNAME .
 fpa-cdn.adweek.com CNAME .

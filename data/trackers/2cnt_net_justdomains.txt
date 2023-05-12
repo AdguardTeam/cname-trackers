@@ -1,16 +1,6 @@
 #
 # Company name: 2cnt.net
-#
-# pl02.prolitteris.2cnt.net disguised trackers
-#
 pl02.owen.prolitteris.ch
-#
-# 1und1.vgwort-de.2cnt.net disguised trackers
-#
-1und1.met.vgwort.de
-#
-# slb-vgwort-de-pool03.vgwort-de.2cnt.net disguised trackers
-#
 1und1.met.vgwort.de
 express.met.vgwort.de
 focus.met.vgwort.de
@@ -37,29 +27,11 @@ vg07.met.vgwort.de
 vg09.met.vgwort.de
 wiley.met.vgwort.de
 zeit.met.vgwort.de
-#
-# aktienyt.tns-dk.2cnt.net disguised trackers
-#
 aktienyt.tns-gallup.dk
-#
-# aktivtraening.tns-dk.2cnt.net disguised trackers
-#
 aktivtraening.tns-gallup.dk
-#
-# alt.tns-dk.2cnt.net disguised trackers
-#
 alt.tns-gallup.dk
-#
-# altinget.tns-dk.2cnt.net disguised trackers
-#
 altinget.tns-gallup.dk
-#
-# altomboern.tns-dk.2cnt.net disguised trackers
-#
 altomboern.tns-gallup.dk
-#
-# slb-vgwort-de-pool02.vgwort-de.2cnt.net disguised trackers
-#
 amica.met.vgwort.de
 beck.met.vgwort.de
 berliner-kurier.met.vgwort.de
@@ -100,57 +72,14 @@ vg04.met.vgwort.de
 vg06.met.vgwort.de
 vogel.met.vgwort.de
 weka.met.vgwort.de
-#
-# amtsavisen.tns-dk.2cnt.net disguised trackers
-#
 amtsavisen.tns-gallup.dk
-#
-# amwatch.tns-dk.2cnt.net disguised trackers
-#
 amwatch.tns-gallup.dk
-#
-# aok.tns-dk.2cnt.net disguised trackers
-#
 aok.tns-gallup.dk
-#
-# avisen.tns-dk.2cnt.net disguised trackers
-#
 avisen.tns-gallup.dk
-#
-# ballerupb.tns-dk.2cnt.net disguised trackers
-#
 ballerupb.tns-gallup.dk
-#
-# bazoom.tns-dk.2cnt.net disguised trackers
-#
 bazoom.tns-gallup.dk
-#
-# beck.vgwort-de.2cnt.net disguised trackers
-#
-beck.met.vgwort.de
-#
-# berliner-kurier.vgwort-de.2cnt.net disguised trackers
-#
-berliner-kurier.met.vgwort.de
-#
-# berliner-zeitung.vgwort-de.2cnt.net disguised trackers
-#
-berliner-zeitung.met.vgwort.de
-#
-# berlingske.tns-dk.2cnt.net disguised trackers
-#
 berlingske.tns-gallup.dk
-#
-# bilbasen.tns-dk.2cnt.net disguised trackers
-#
 bilbasen.tns-gallup.dk
-#
-# bild.vgwort-de.2cnt.net disguised trackers
-#
-bild.met.vgwort.de
-#
-# slb-vgwort-de-pool01.vgwort-de.2cnt.net disguised trackers
-#
 bild.met.vgwort.de
 bm.met.vgwort.de
 burda-forward.met.vgwort.de
@@ -191,1166 +120,245 @@ vision.met.vgwort.de
 waz.met.vgwort.de
 welt.met.vgwort.de
 wolterskluwer.met.vgwort.de
-#
-# billedbladet.tns-dk.2cnt.net disguised trackers
-#
 billedbladet.tns-gallup.dk
-#
-# billetlugen.tns-dk.2cnt.net disguised trackers
-#
 billetlugen.tns-gallup.dk
-#
-# bilmagasinet.tns-dk.2cnt.net disguised trackers
-#
 bilmagasinet.tns-gallup.dk
-#
-# bm-eavis.tns-dk.2cnt.net disguised trackers
-#
 bm-eavis.tns-gallup.dk
-#
-# bobedre.tns-dk.2cnt.net disguised trackers
-#
 bobedre.tns-gallup.dk
-#
-# boligmagasinet.tns-dk.2cnt.net disguised trackers
-#
 boligmagasinet.tns-gallup.dk
-#
-# boligportal.tns-dk.2cnt.net disguised trackers
-#
 boligportal.tns-gallup.dk
-#
-# bonniershop.tns-dk.2cnt.net disguised trackers
-#
 bonniershop.tns-gallup.dk
-#
-# borseniam.tns-dk.2cnt.net disguised trackers
-#
 borseniam.tns-gallup.dk
-#
-# brigitte.vgwort-de.2cnt.net disguised trackers
-#
-brigitte.met.vgwort.de
-#
-# bt.tns-dk.2cnt.net disguised trackers
-#
 bt.tns-gallup.dk
-#
-# burda-forward.vgwort-de.2cnt.net disguised trackers
-#
-burda-forward.met.vgwort.de
-#
-# bureaubiz.tns-dk.2cnt.net disguised trackers
-#
 bureaubiz.tns-gallup.dk
-#
-# business.tns-dk.2cnt.net disguised trackers
-#
 business.tns-gallup.dk
-#
-# busjob.tns-dk.2cnt.net disguised trackers
-#
 busjob.tns-gallup.dk
-#
-# chip.vgwort-de.2cnt.net disguised trackers
-#
-chip.met.vgwort.de
-#
-# computerworld.tns-dk.2cnt.net disguised trackers
-#
 computerworld.tns-gallup.dk
-#
-# costume.tns-dk.2cnt.net disguised trackers
-#
 costume.tns-gallup.dk
-#
-# dagbladetholstebrostruer.tns-dk.2cnt.net disguised trackers
-#
 dagbladetholstebrostruer.tns-gallup.dk
-#
-# dbstruer-eavis.tns-dk.2cnt.net disguised trackers
-#
 dbstruer-eavis.tns-gallup.dk
-#
-# degruyter.vgwort-de.2cnt.net disguised trackers
-#
-degruyter.met.vgwort.de
-#
-# dgs.tns-dk.2cnt.net disguised trackers
-#
 dgs.tns-gallup.dk
-#
-# dmi.tns-dk.2cnt.net disguised trackers
-#
 dmi.tns-gallup.dk
-#
-# slb-tns-dk-pool04.tns-dk.2cnt.net disguised trackers
-#
 dplayiosstream.tns-gallup.dk
 ssl-drtvosstream.tns-gallup.dk
 ssl-glentenandroidstream.tns-gallup.dk
 ssl-viaplaystream.tns-gallup.dk
-#
-# dplaystream.tns-dk.2cnt.net disguised trackers
-#
 dplaystream.tns-gallup.dk
-#
-# slb-tns-dk-pool07.tns-dk.2cnt.net disguised trackers
-#
 dplayteststream.tns-gallup.dk
 drandroidstream.tns-gallup.dk
 ssl-stofateststream.tns-gallup.dk
 ssl-youseeteststream.tns-gallup.dk
-#
-# dr.tns-dk.2cnt.net disguised trackers
-#
 dr.tns-gallup.dk
-#
-# drandroidstream.tns-dk.2cnt.net disguised trackers
-#
-drandroidstream.tns-gallup.dk
-#
-# slb-tns-dk-pool06.tns-dk.2cnt.net disguised trackers
-#
 drandroidtvstream.tns-gallup.dk
 ssl-dplayandroidstream.tns-gallup.dk
 ssl-drandroidtvstream.tns-gallup.dk
 ssl-youseestream.tns-gallup.dk
-#
-# driosstream.tns-dk.2cnt.net disguised trackers
-#
 driosstream.tns-gallup.dk
-#
-# slb-tns-dk-pool02.tns-dk.2cnt.net disguised trackers
-#
 drplaystationstream.tns-gallup.dk
 ssl-youseeiosstream.tns-gallup.dk
 youseeiosstream.tns-gallup.dk
-#
-# slb-tns-dk-pool08.tns-dk.2cnt.net disguised trackers
-#
 drtv-appletv.tns-gallup.dk
 ssl-drtv-appletv.tns-gallup.dk
 youseeandroidstream.tns-gallup.dk
-#
-# ebiam.tns-dk.2cnt.net disguised trackers
-#
 ebiam.tns-gallup.dk
-#
-# edc.tns-dk.2cnt.net disguised trackers
-#
 edc.tns-gallup.dk
-#
-# elle.tns-dk.2cnt.net disguised trackers
-#
 elle.tns-gallup.dk
-#
-# eltern.vgwort-de.2cnt.net disguised trackers
-#
-eltern.met.vgwort.de
-#
-# energiwatch.tns-dk.2cnt.net disguised trackers
-#
 energiwatch.tns-gallup.dk
-#
-# euroman.tns-dk.2cnt.net disguised trackers
-#
 euroman.tns-gallup.dk
-#
-# express.vgwort-de.2cnt.net disguised trackers
-#
-express.met.vgwort.de
-#
-# faz.vgwort-de.2cnt.net disguised trackers
-#
-faz.met.vgwort.de
-#
-# femina.tns-dk.2cnt.net disguised trackers
-#
 femina.tns-gallup.dk
-#
-# finans.tns-dk.2cnt.net disguised trackers
-#
 finans.tns-gallup.dk
-#
-# finanswatch.tns-dk.2cnt.net disguised trackers
-#
 finanswatch.tns-gallup.dk
-#
-# folketidende.tns-dk.2cnt.net disguised trackers
-#
 folketidende.tns-gallup.dk
-#
-# fr-online.vgwort-de.2cnt.net disguised trackers
-#
-fr-online.met.vgwort.de
-#
-# fyens.tns-dk.2cnt.net disguised trackers
-#
 fyens.tns-gallup.dk
-#
-# gaffa.tns-dk.2cnt.net disguised trackers
-#
 gaffa.tns-gallup.dk
-#
-# gala.vgwort-de.2cnt.net disguised trackers
-#
-gala.met.vgwort.de
-#
-# geo.vgwort-de.2cnt.net disguised trackers
-#
-geo.met.vgwort.de
-#
-# gratisspil.tns-dk.2cnt.net disguised trackers
-#
 gratisspil.tns-gallup.dk
-#
-# halsa.tns-dk.2cnt.net disguised trackers
-#
 halsa.tns-gallup.dk
-#
-# hanser.vgwort-de.2cnt.net disguised trackers
-#
-hanser.met.vgwort.de
-#
-# helpster.vgwort-de.2cnt.net disguised trackers
-#
-helpster.met.vgwort.de
-#
-# historienet.tns-dk.2cnt.net disguised trackers
-#
 historienet.tns-gallup.dk
-#
-# hogrefe.vgwort-de.2cnt.net disguised trackers
-#
-hogrefe.met.vgwort.de
-#
-# hsfo.tns-dk.2cnt.net disguised trackers
-#
 hsfo.tns-gallup.dk
-#
-# idenytiam.tns-dk.2cnt.net disguised trackers
-#
 idenytiam.tns-gallup.dk
-#
-# iform.tns-dk.2cnt.net disguised trackers
-#
 iform.tns-gallup.dk
-#
-# illvid.tns-dk.2cnt.net disguised trackers
-#
 illvid.tns-gallup.dk
-#
-# in.tns-dk.2cnt.net disguised trackers
-#
 in.tns-gallup.dk
-#
-# information.tns-dk.2cnt.net disguised trackers
-#
 information.tns-gallup.dk
-#
-# ing.tns-dk.2cnt.net disguised trackers
-#
 ing.tns-gallup.dk
-#
-# itjobindex.tns-dk.2cnt.net disguised trackers
-#
 itjobindex.tns-gallup.dk
-#
-# itwatch.tns-dk.2cnt.net disguised trackers
-#
 itwatch.tns-gallup.dk
-#
-# jobbank.tns-dk.2cnt.net disguised trackers
-#
 jobbank.tns-gallup.dk
-#
-# journalisten.tns-dk.2cnt.net disguised trackers
-#
 journalisten.tns-gallup.dk
-#
-# jubii.tns-dk.2cnt.net disguised trackers
-#
 jubii.tns-gallup.dk
-#
-# juicyplay.tns-dk.2cnt.net disguised trackers
-#
 juicyplay.tns-gallup.dk
-#
-# komputer.tns-dk.2cnt.net disguised trackers
-#
 komputer.tns-gallup.dk
-#
-# kr.vgwort-de.2cnt.net disguised trackers
-#
-kr.met.vgwort.de
-#
-# krak.tns-dk.2cnt.net disguised trackers
-#
 krak.tns-gallup.dk
-#
-# kristeligtdagblad.tns-dk.2cnt.net disguised trackers
-#
 kristeligtdagblad.tns-gallup.dk
-#
-# ksta.vgwort-de.2cnt.net disguised trackers
-#
-ksta.met.vgwort.de
-#
-# kundeunivers.tns-dk.2cnt.net disguised trackers
-#
 kundeunivers.tns-gallup.dk
-#
-# lokalavisen.tns-dk.2cnt.net disguised trackers
-#
 lokalavisen.tns-gallup.dk
-#
-# magacin.tns-dk.2cnt.net disguised trackers
-#
 magacin.tns-gallup.dk
-#
-# manager.vgwort-de.2cnt.net disguised trackers
-#
-manager.met.vgwort.de
-#
-# mariesideer.tns-dk.2cnt.net disguised trackers
-#
+mainlifestyle.tns-gallup.dk
 mariesideer.tns-gallup.dk
-#
-# mediawatch.tns-dk.2cnt.net disguised trackers
-#
 mediawatch.tns-gallup.dk
-#
-# medwatch.tns-dk.2cnt.net disguised trackers
-#
 medwatch.tns-gallup.dk
-#
-# merkur.vgwort-de.2cnt.net disguised trackers
-#
-merkur.met.vgwort.de
-#
-# mineaviser.tns-dk.2cnt.net disguised trackers
-#
 mineaviser.tns-gallup.dk
-#
-# minmave.tns-dk.2cnt.net disguised trackers
-#
 minmave.tns-gallup.dk
-#
-# mja.tns-dk.2cnt.net disguised trackers
-#
 mja.tns-gallup.dk
-#
-# mopo.vgwort-de.2cnt.net disguised trackers
-#
-mopo.met.vgwort.de
-#
-# moreshop.tns-dk.2cnt.net disguised trackers
-#
 moreshop.tns-gallup.dk
-#
-# mxiam.tns-dk.2cnt.net disguised trackers
-#
 mxiam.tns-gallup.dk
-#
-# n-tv.vgwort-de.2cnt.net disguised trackers
-#
-n-tv.met.vgwort.de
-#
-# natgeo.tns-dk.2cnt.net disguised trackers
-#
 natgeo.tns-gallup.dk
-#
-# nembillet.tns-dk.2cnt.net disguised trackers
-#
 nembillet.tns-gallup.dk
-#
-# newsb.tns-dk.2cnt.net disguised trackers
-#
 newsb.tns-gallup.dk
-#
-# nomos.vgwort-de.2cnt.net disguised trackers
-#
-nomos.met.vgwort.de
-#
-# nordjyske.tns-dk.2cnt.net disguised trackers
-#
 nordjyske.tns-gallup.dk
-#
-# pl01.prolitteris.2cnt.net disguised trackers
-#
 pl01.owen.prolitteris.ch
-#
-# pleasure.tns-dk.2cnt.net disguised trackers
-#
 pleasure.tns-gallup.dk
-#
-# politiken.tns-dk.2cnt.net disguised trackers
-#
 politiken.tns-gallup.dk
-#
-# pricerunner.tns-dk.2cnt.net disguised trackers
-#
 pricerunner.tns-gallup.dk
-#
-# realityportalen.tns-dk.2cnt.net disguised trackers
-#
 realityportalen.tns-gallup.dk
-#
-# rejseplanen.tns-dk.2cnt.net disguised trackers
-#
 rejseplanen.tns-gallup.dk
-#
-# rtl.vgwort-de.2cnt.net disguised trackers
-#
-rtl.met.vgwort.de
-#
-# samvirke.tns-dk.2cnt.net disguised trackers
-#
 samvirke.tns-gallup.dk
-#
-# shippingwatch.tns-dk.2cnt.net disguised trackers
-#
 shippingwatch.tns-gallup.dk
-#
-# sindala.tns-dk.2cnt.net disguised trackers
-#
 sindala.tns-gallup.dk
-#
-# sjovforborn.tns-dk.2cnt.net disguised trackers
-#
 sjovforborn.tns-gallup.dk
-#
-# skalafm.tns-dk.2cnt.net disguised trackers
-#
 skalafm.tns-gallup.dk
-#
-# soendag.tns-dk.2cnt.net disguised trackers
-#
 soendag.tns-gallup.dk
-#
-# soundvenue.tns-dk.2cnt.net disguised trackers
-#
 soundvenue.tns-gallup.dk
-#
-# spiegel.vgwort-de.2cnt.net disguised trackers
-#
-spiegel.met.vgwort.de
-#
-# spisbedre.tns-dk.2cnt.net disguised trackers
-#
 spisbedre.tns-gallup.dk
-#
-# springer.vgwort-de.2cnt.net disguised trackers
-#
-springer.met.vgwort.de
-#
-# ssl-aktivtraening.tns-dk.2cnt.net disguised trackers
-#
 ssl-aktivtraening.tns-gallup.dk
-#
-# ssl-alt.tns-dk.2cnt.net disguised trackers
-#
 ssl-alt.tns-gallup.dk
-#
-# slb-tns-dk-pool03.tns-dk.2cnt.net disguised trackers
-#
 ssl-altiboxstream.tns-gallup.dk
 ssl-eurosportandroidstream.tns-gallup.dk
 ssl-viafreeandroidstream.tns-gallup.dk
 ssl-viafreestream.tns-gallup.dk
-#
-# ssl-altinget.tns-dk.2cnt.net disguised trackers
-#
 ssl-altinget.tns-gallup.dk
-#
-# ssl-altomboern.tns-dk.2cnt.net disguised trackers
-#
 ssl-altomboern.tns-gallup.dk
-#
-# ssl-altomdata.tns-dk.2cnt.net disguised trackers
-#
 ssl-altomdata.tns-gallup.dk
-#
-# ssl-amtsavisen.tns-dk.2cnt.net disguised trackers
-#
 ssl-amtsavisen.tns-gallup.dk
-#
-# ssl-aoh.tns-dk.2cnt.net disguised trackers
-#
 ssl-aoh.tns-gallup.dk
-#
-# ssl-avisen.tns-dk.2cnt.net disguised trackers
-#
 ssl-avisen.tns-gallup.dk
-#
-# ssl-beck.vgwort-de.2cnt.net disguised trackers
-#
-ssl-beck.met.vgwort.de
-#
-# ssl-berlingske.tns-dk.2cnt.net disguised trackers
-#
 ssl-berlingske.tns-gallup.dk
-#
-# ssl-berlingskemedia.tns-dk.2cnt.net disguised trackers
-#
 ssl-berlingskemedia.tns-gallup.dk
-#
-# ssl-bilbasen.tns-dk.2cnt.net disguised trackers
-#
 ssl-bilbasen.tns-gallup.dk
-#
-# ssl-bilmagasinet.tns-dk.2cnt.net disguised trackers
-#
 ssl-bilmagasinet.tns-gallup.dk
-#
-# ssl-bm-eavis.tns-dk.2cnt.net disguised trackers
-#
 ssl-bm-eavis.tns-gallup.dk
-#
-# ssl-bobedre.tns-dk.2cnt.net disguised trackers
-#
 ssl-bobedre.tns-gallup.dk
-#
-# ssl-boligmagasinet.tns-dk.2cnt.net disguised trackers
-#
 ssl-boligmagasinet.tns-gallup.dk
-#
-# ssl-boligportal.tns-dk.2cnt.net disguised trackers
-#
 ssl-boligportal.tns-gallup.dk
-#
-# ssl-bolius.tns-dk.2cnt.net disguised trackers
-#
 ssl-bolius.tns-gallup.dk
-#
-# ssl-bootstrapping.tns-dk.2cnt.net disguised trackers
-#
 ssl-bootstrapping.tns-gallup.dk
-#
-# ssl-bornibyen.tns-dk.2cnt.net disguised trackers
-#
 ssl-bornibyen.tns-gallup.dk
-#
-# ssl-borseniam.tns-dk.2cnt.net disguised trackers
-#
 ssl-borseniam.tns-gallup.dk
-#
-# slb-tns-dk-pool05.tns-dk.2cnt.net disguised trackers
-#
 ssl-boxerstream.tns-gallup.dk
 ssl-stofastream.tns-gallup.dk
-#
-# ssl-bt-eavis.tns-dk.2cnt.net disguised trackers
-#
 ssl-bt-eavis.tns-gallup.dk
-#
-# ssl-bt.tns-dk.2cnt.net disguised trackers
-#
 ssl-bt.tns-gallup.dk
-#
-# ssl-bureaubiz.tns-dk.2cnt.net disguised trackers
-#
 ssl-bureaubiz.tns-gallup.dk
-#
-# ssl-business.tns-dk.2cnt.net disguised trackers
-#
 ssl-business.tns-gallup.dk
-#
-# ssl-computerworld.tns-dk.2cnt.net disguised trackers
-#
 ssl-computerworld.tns-gallup.dk
-#
-# ssl-costume.tns-dk.2cnt.net disguised trackers
-#
 ssl-costume.tns-gallup.dk
-#
-# ssl-danskemedier.tns-dk.2cnt.net disguised trackers
-#
 ssl-danskemedier.tns-gallup.dk
-#
-# ssl-dba.tns-dk.2cnt.net disguised trackers
-#
 ssl-dba.tns-gallup.dk
-#
-# ssl-dhblad.tns-dk.2cnt.net disguised trackers
-#
 ssl-dhblad.tns-gallup.dk
-#
-# ssl-digitalfoto.tns-dk.2cnt.net disguised trackers
-#
 ssl-digitalfoto.tns-gallup.dk
-#
-# ssl-dmi.tns-dk.2cnt.net disguised trackers
-#
 ssl-dmi.tns-gallup.dk
-#
-# ssl-dplaystream.tns-dk.2cnt.net disguised trackers
-#
 ssl-dplaystream.tns-gallup.dk
-#
-# ssl-dr.tns-dk.2cnt.net disguised trackers
-#
 ssl-dr.tns-gallup.dk
-#
-# ssl-drhbbstream.tns-dk.2cnt.net disguised trackers
-#
 ssl-drhbbstream.tns-gallup.dk
-#
-# ssl-drhbbtv.tns-dk.2cnt.net disguised trackers
-#
 ssl-drhbbtv.tns-gallup.dk
-#
-# ssl-driosstream.tns-dk.2cnt.net disguised trackers
-#
 ssl-driosstream.tns-gallup.dk
-#
-# ssl-ebiam.tns-dk.2cnt.net disguised trackers
-#
 ssl-ebiam.tns-gallup.dk
-#
-# ssl-econa.vgwort-de.2cnt.net disguised trackers
-#
-ssl-econa.met.vgwort.de
-#
-# ssl-edc.tns-dk.2cnt.net disguised trackers
-#
 ssl-edc.tns-gallup.dk
-#
-# ssl-elle.tns-dk.2cnt.net disguised trackers
-#
 ssl-elle.tns-gallup.dk
-#
-# ssl-energywatch.tns-dk.2cnt.net disguised trackers
-#
 ssl-energywatch.tns-gallup.dk
-#
-# ssl-euroinvestor.tns-dk.2cnt.net disguised trackers
-#
 ssl-euroinvestor.tns-gallup.dk
-#
-# ssl-euroman.tns-dk.2cnt.net disguised trackers
-#
 ssl-euroman.tns-gallup.dk
-#
-# ssl-fdim.tns-dk.2cnt.net disguised trackers
-#
 ssl-fdim.tns-gallup.dk
-#
-# ssl-fdm.tns-dk.2cnt.net disguised trackers
-#
 ssl-fdm.tns-gallup.dk
-#
-# ssl-femina.tns-dk.2cnt.net disguised trackers
-#
 ssl-femina.tns-gallup.dk
-#
-# ssl-finans.tns-dk.2cnt.net disguised trackers
-#
 ssl-finans.tns-gallup.dk
-#
-# ssl-finanswatch.tns-dk.2cnt.net disguised trackers
-#
 ssl-finanswatch.tns-gallup.dk
-#
-# ssl-focus.vgwort-de.2cnt.net disguised trackers
-#
-ssl-focus.met.vgwort.de
-#
-# ssl-formatformat.tns-dk.2cnt.net disguised trackers
-#
 ssl-formatformat.tns-gallup.dk
-#
-# ssl-fyens.tns-dk.2cnt.net disguised trackers
-#
 ssl-fyens.tns-gallup.dk
-#
-# ssl-gaffa.tns-dk.2cnt.net disguised trackers
-#
 ssl-gaffa.tns-gallup.dk
-#
-# slb-tns-dk-pool10.tns-dk.2cnt.net disguised trackers
-#
 ssl-gafiam.tns-gallup.dk
 ssl-swpanel.tns-gallup.dk
-#
-# ssl-goerdetselv.tns-dk.2cnt.net disguised trackers
-#
 ssl-goerdetselv.tns-gallup.dk
-#
-# ssl-golem.vgwort-de.2cnt.net disguised trackers
-#
-ssl-golem.met.vgwort.de
-#
-# ssl-golf.tns-dk.2cnt.net disguised trackers
-#
 ssl-golf.tns-gallup.dk
-#
-# ssl-guloggratis.tns-dk.2cnt.net disguised trackers
-#
 ssl-guloggratis.tns-gallup.dk
-#
-# ssl-handelsblatt.vgwort-de.2cnt.net disguised trackers
-#
-ssl-handelsblatt.met.vgwort.de
-#
-# ssl-heise.vgwort-de.2cnt.net disguised trackers
-#
-ssl-heise.met.vgwort.de
-#
-# ssl-historienet.tns-dk.2cnt.net disguised trackers
-#
 ssl-historienet.tns-gallup.dk
-#
-# ssl-ida.tns-dk.2cnt.net disguised trackers
-#
 ssl-ida.tns-gallup.dk
-#
-# ssl-idgbusiness.vgwort-de.2cnt.net disguised trackers
-#
-ssl-idgbusiness.met.vgwort.de
-#
-# ssl-idgmagazine.vgwort-de.2cnt.net disguised trackers
-#
-ssl-idgmagazine.met.vgwort.de
-#
-# ssl-illvid.tns-dk.2cnt.net disguised trackers
-#
 ssl-illvid.tns-gallup.dk
-#
-# ssl-information.tns-dk.2cnt.net disguised trackers
-#
 ssl-information.tns-gallup.dk
-#
-# ssl-ing.tns-dk.2cnt.net disguised trackers
-#
 ssl-ing.tns-gallup.dk
-#
-# ssl-itjobbank.tns-dk.2cnt.net disguised trackers
-#
 ssl-itjobbank.tns-gallup.dk
-#
-# ssl-jobfinder.tns-dk.2cnt.net disguised trackers
-#
 ssl-jobfinder.tns-gallup.dk
-#
-# ssl-jobindex.tns-dk.2cnt.net disguised trackers
-#
 ssl-jobindex.tns-gallup.dk
-#
-# ssl-journalisten.tns-dk.2cnt.net disguised trackers
-#
 ssl-journalisten.tns-gallup.dk
-#
-# ssl-jpiam.tns-dk.2cnt.net disguised trackers
-#
 ssl-jpiam.tns-gallup.dk
-#
-# ssl-jubii.tns-dk.2cnt.net disguised trackers
-#
 ssl-jubii.tns-gallup.dk
-#
-# ssl-jv.tns-dk.2cnt.net disguised trackers
-#
 ssl-jv.tns-gallup.dk
-#
-# ssl-kaerehjem.tns-dk.2cnt.net disguised trackers
-#
 ssl-kaerehjem.tns-gallup.dk
-#
-# ssl-karrierelink.tns-dk.2cnt.net disguised trackers
-#
 ssl-karrierelink.tns-gallup.dk
-#
-# ssl-kino.tns-dk.2cnt.net disguised trackers
-#
 ssl-kino.tns-gallup.dk
-#
-# ssl-komforum.tns-dk.2cnt.net disguised trackers
-#
 ssl-komforum.tns-gallup.dk
-#
-# ssl-komputer.tns-dk.2cnt.net disguised trackers
-#
 ssl-komputer.tns-gallup.dk
-#
-# ssl-krak.tns-dk.2cnt.net disguised trackers
-#
 ssl-krak.tns-gallup.dk
-#
-# ssl-kristeligtdagblad.tns-dk.2cnt.net disguised trackers
-#
 ssl-kristeligtdagblad.tns-gallup.dk
-#
-# ssl-lokalavisen.tns-dk.2cnt.net disguised trackers
-#
 ssl-lokalavisen.tns-gallup.dk
-#
-# ssl-magacin.tns-dk.2cnt.net disguised trackers
-#
 ssl-magacin.tns-gallup.dk
-#
-# ssl-magasinetliv.tns-dk.2cnt.net disguised trackers
-#
 ssl-magasinetliv.tns-gallup.dk
-#
-# ssl-mainlifestyle.tns-dk.2cnt.net disguised trackers
-#
 ssl-mainlifestyle.tns-gallup.dk
-#
-# ssl-mandagmorgen.tns-dk.2cnt.net disguised trackers
-#
 ssl-mandagmorgen.tns-gallup.dk
-#
-# ssl-mediajob.tns-dk.2cnt.net disguised trackers
-#
 ssl-mediajob.tns-gallup.dk
-#
-# ssl-minby.tns-dk.2cnt.net disguised trackers
-#
 ssl-minby.tns-gallup.dk
-#
-# ssl-mja.tns-dk.2cnt.net disguised trackers
-#
 ssl-mja.tns-gallup.dk
-#
-# ssl-mxiam.tns-dk.2cnt.net disguised trackers
-#
 ssl-mxiam.tns-gallup.dk
-#
-# ssl-news.tns-dk.2cnt.net disguised trackers
-#
 ssl-news.tns-gallup.dk
-#
-# ssl-nwb.vgwort-de.2cnt.net disguised trackers
-#
-ssl-nwb.met.vgwort.de
-#
-# ssl-nybolig.tns-dk.2cnt.net disguised trackers
-#
 ssl-nybolig.tns-gallup.dk
-#
-# ssl-nyhedskiosken.tns-dk.2cnt.net disguised trackers
-#
 ssl-nyhedskiosken.tns-gallup.dk
-#
-# ssl-penge.tns-dk.2cnt.net disguised trackers
-#
 ssl-penge.tns-gallup.dk
-#
-# ssl-playborsen.tns-dk.2cnt.net disguised trackers
-#
 ssl-playborsen.tns-gallup.dk
-#
-# ssl-pleasure.tns-dk.2cnt.net disguised trackers
-#
 ssl-pleasure.tns-gallup.dk
-#
-# ssl-policywatch.tns-dk.2cnt.net disguised trackers
-#
 ssl-policywatch.tns-gallup.dk
-#
-# ssl-politiken.tns-dk.2cnt.net disguised trackers
-#
 ssl-politiken.tns-gallup.dk
-#
-# ssl-proff.tns-dk.2cnt.net disguised trackers
-#
 ssl-proff.tns-gallup.dk
-#
-# ssl-realityportalen.tns-dk.2cnt.net disguised trackers
-#
 ssl-realityportalen.tns-gallup.dk
-#
-# ssl-rejseplanen.tns-dk.2cnt.net disguised trackers
-#
 ssl-rejseplanen.tns-gallup.dk
-#
-# ssl-roedovrelokalnyt.tns-dk.2cnt.net disguised trackers
-#
 ssl-roedovrelokalnyt.tns-gallup.dk
-#
-# ssl-rp-online.vgwort-de.2cnt.net disguised trackers
-#
-ssl-rp-online.met.vgwort.de
-#
-# ssl-samvirke.tns-dk.2cnt.net disguised trackers
-#
 ssl-samvirke.tns-gallup.dk
-#
-# ssl-seoghoer.tns-dk.2cnt.net disguised trackers
-#
 ssl-seoghoer.tns-gallup.dk
-#
-# ssl-shippingwatch.tns-dk.2cnt.net disguised trackers
-#
 ssl-shippingwatch.tns-gallup.dk
-#
-# ssl-sn.tns-dk.2cnt.net disguised trackers
-#
 ssl-sn.tns-gallup.dk
-#
-# ssl-sondagsavisen.tns-dk.2cnt.net disguised trackers
-#
 ssl-sondagsavisen.tns-gallup.dk
-#
-# ssl-spiegel.vgwort-de.2cnt.net disguised trackers
-#
-ssl-spiegel.met.vgwort.de
-#
-# ssl-spisbedre.tns-dk.2cnt.net disguised trackers
-#
 ssl-spisbedre.tns-gallup.dk
-#
-# ssl-spotdeal.tns-dk.2cnt.net disguised trackers
-#
 ssl-spotdeal.tns-gallup.dk
-#
-# ssl-stepstone.tns-dk.2cnt.net disguised trackers
-#
 ssl-stepstone.tns-gallup.dk
-#
-# ssl-t-online.vgwort-de.2cnt.net disguised trackers
-#
-ssl-t-online.met.vgwort.de
-#
-# ssl-teltarif.vgwort-de.2cnt.net disguised trackers
-#
-ssl-teltarif.met.vgwort.de
-#
-# sl-demo-de-pool01.2cnt.net disguised trackers
-#
 ssl-test.spring-tns.net
 test.spring-tns.net
-#
-# ssl-testuni.tns-dk.2cnt.net disguised trackers
-#
 ssl-testuni.tns-gallup.dk
-#
-# ssl-thieme.vgwort-de.2cnt.net disguised trackers
-#
-ssl-thieme.met.vgwort.de
-#
-# ssl-tv2androidstream.tns-dk.2cnt.net disguised trackers
-#
 ssl-tv2androidstream.tns-gallup.dk
-#
-# ssl-tv2iam.tns-dk.2cnt.net disguised trackers
-#
 ssl-tv2iam.tns-gallup.dk
-#
-# ssl-tv2iosstream.tns-dk.2cnt.net disguised trackers
-#
 ssl-tv2iosstream.tns-gallup.dk
-#
-# ssl-tv2stream.tns-dk.2cnt.net disguised trackers
-#
 ssl-tv2stream.tns-gallup.dk
-#
-# ssl-tv2tvosstream.tns-dk.2cnt.net disguised trackers
-#
 ssl-tv2tvosstream.tns-gallup.dk
-#
-# ssl-tv3play.tns-dk.2cnt.net disguised trackers
-#
 ssl-tv3play.tns-gallup.dk
-#
-# ssl-tv3sport.tns-dk.2cnt.net disguised trackers
-#
 ssl-tv3sport.tns-gallup.dk
-#
-# ssl-ugeavisen.tns-dk.2cnt.net disguised trackers
-#
 ssl-ugeavisen.tns-gallup.dk
-#
-# ssl-vafo.tns-dk.2cnt.net disguised trackers
-#
 ssl-vafo.tns-gallup.dk
-#
-# ssl-valutakurser.tns-dk.2cnt.net disguised trackers
-#
 ssl-valutakurser.tns-gallup.dk
-#
-# ssl-vdonline.tns-dk.2cnt.net disguised trackers
-#
 ssl-vdonline.tns-gallup.dk
-#
-# ssl-vg03.vgwort-de.2cnt.net disguised trackers
-#
-ssl-vg03.met.vgwort.de
-#
-# ssl-viaplaystream.tns-dk.2cnt.net disguised trackers
-#
-ssl-viaplaystream.tns-gallup.dk
-#
-# ssl-videnskab.tns-dk.2cnt.net disguised trackers
-#
 ssl-videnskab.tns-gallup.dk
-#
-# ssl-watchmedier.tns-dk.2cnt.net disguised trackers
-#
 ssl-watchmedier.tns-gallup.dk
-#
-# ssl-weeka-eavis.tns-dk.2cnt.net disguised trackers
-#
 ssl-weeka-eavis.tns-gallup.dk
-#
-# ssl-weka.vgwort-de.2cnt.net disguised trackers
-#
-ssl-weka.met.vgwort.de
-#
-# ssl-welt.vgwort-de.2cnt.net disguised trackers
-#
-ssl-welt.met.vgwort.de
-#
-# ssl-wolterskluwer.vgwort-de.2cnt.net disguised trackers
-#
-ssl-wolterskluwer.met.vgwort.de
-#
-# ssl-woman.tns-dk.2cnt.net disguised trackers
-#
 ssl-woman.tns-gallup.dk
-#
-# ssl-youseestream.tns-dk.2cnt.net disguised trackers
-#
-ssl-youseestream.tns-gallup.dk
-#
-# stern.vgwort-de.2cnt.net disguised trackers
-#
-stern.met.vgwort.de
-#
-# stiften.tns-dk.2cnt.net disguised trackers
-#
 stiften.tns-gallup.dk
-#
-# storedk.tns-dk.2cnt.net disguised trackers
-#
 storedk.tns-gallup.dk
-#
-# sz.vgwort-de.2cnt.net disguised trackers
-#
-sz.met.vgwort.de
-#
-# tagesspiegel.vgwort-de.2cnt.net disguised trackers
-#
-tagesspiegel.met.vgwort.de
-#
-# taz.vgwort-de.2cnt.net disguised trackers
-#
-taz.met.vgwort.de
-#
-# thistedp.tns-dk.2cnt.net disguised trackers
-#
 thistedp.tns-gallup.dk
-#
-# tv2androidstream.tns-dk.2cnt.net disguised trackers
-#
 tv2androidstream.tns-gallup.dk
-#
-# tv2stream.tns-dk.2cnt.net disguised trackers
-#
 tv2stream.tns-gallup.dk
-#
-# tv3.tns-dk.2cnt.net disguised trackers
-#
 tv3.tns-gallup.dk
-#
-# tv3play.tns-dk.2cnt.net disguised trackers
-#
 tv3play.tns-gallup.dk
-#
-# tz.vgwort-de.2cnt.net disguised trackers
-#
-tz.met.vgwort.de
-#
-# ugeavisen.tns-dk.2cnt.net disguised trackers
-#
 ugeavisen.tns-gallup.dk
-#
-# vafo.tns-dk.2cnt.net disguised trackers
-#
 vafo.tns-gallup.dk
-#
-# vg00.vgwort-de.2cnt.net disguised trackers
-#
-vg00.met.vgwort.de
-#
-# vg01.vgwort-de.2cnt.net disguised trackers
-#
-vg01.met.vgwort.de
-#
-# vg02.vgwort-de.2cnt.net disguised trackers
-#
-vg02.met.vgwort.de
-#
-# vg03.vgwort-de.2cnt.net disguised trackers
-#
-vg03.met.vgwort.de
-#
-# vg04.vgwort-de.2cnt.net disguised trackers
-#
-vg04.met.vgwort.de
-#
-# vg05.vgwort-de.2cnt.net disguised trackers
-#
-vg05.met.vgwort.de
-#
-# vg06.vgwort-de.2cnt.net disguised trackers
-#
-vg06.met.vgwort.de
-#
-# vg07.vgwort-de.2cnt.net disguised trackers
-#
-vg07.met.vgwort.de
-#
-# vg08.vgwort-de.2cnt.net disguised trackers
-#
-vg08.met.vgwort.de
-#
-# vg09.vgwort-de.2cnt.net disguised trackers
-#
-vg09.met.vgwort.de
-#
-# viborgfolkeblad.tns-dk.2cnt.net disguised trackers
-#
 viborgfolkeblad.tns-gallup.dk
-#
-# videnskab.tns-dk.2cnt.net disguised trackers
-#
 videnskab.tns-gallup.dk
-#
-# viunge.tns-dk.2cnt.net disguised trackers
-#
 viunge.tns-gallup.dk
-#
-# vogel.vgwort-de.2cnt.net disguised trackers
-#
-vogel.met.vgwort.de
-#
-# waz.vgwort-de.2cnt.net disguised trackers
-#
-waz.met.vgwort.de
-#
-# weeka-eavis.tns-dk.2cnt.net disguised trackers
-#
 weeka-eavis.tns-gallup.dk
-#
-# weekendavisen.tns-dk.2cnt.net disguised trackers
-#
 weekendavisen.tns-gallup.dk
-#
-# wiley.vgwort-de.2cnt.net disguised trackers
-#
-wiley.met.vgwort.de
-#
-# woman.tns-dk.2cnt.net disguised trackers
-#
 woman.tns-gallup.dk
-#
-# youseeiosstream.tns-dk.2cnt.net disguised trackers
-#
-youseeiosstream.tns-gallup.dk
-#
-# zeit.vgwort-de.2cnt.net disguised trackers
-#
-zeit.met.vgwort.de

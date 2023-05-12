@@ -1,8 +1,5 @@
 ;
 ; Company name: Wizaly
-;
-; wizaly.com disguised trackers
-;
 t-test.esvdigital.com CNAME .
 t.wiz.meilleurtaux.com CNAME .
 tk.abt.com CNAME .

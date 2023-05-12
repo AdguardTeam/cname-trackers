@@ -1,8 +1,5 @@
 !
 ! Company name: Webair
-!
-! ak-is2.net disguised trackers
-!
 ||5stars.yeesshh.com^
 ||adk.nativeadsfeed.com^
 ||adkfilter.mybestclick.net^
@@ -40,6 +37,7 @@
 ||click-rtb2-eu.e-volution.ai^
 ||click-rtb2-eu.torchad.com^
 ||click-rtb2-eu.waardex.com^
+||click-rtb2-eu.xaprio.net^
 ||click-rtb2-useast.adsync.global^
 ||click-rtb2-useast.afkwa.com^
 ||click-rtb2-useast.africonverse.com^
@@ -74,6 +72,7 @@
 ||click.mediacpc.com^
 ||click.pclk.name^
 ||click.plarimocl.com^
+||click.plarimoexocli.com^
 ||click.plarimoplus.com^
 ||click.precmd.com^
 ||click.pyrrhicmechntech.com^
@@ -87,6 +86,7 @@
 ||console.flairads.com^
 ||cpm.adbite.com^
 ||cpm.adjux.com^
+||cpm.adlive.io^
 ||cpm.adsolut.in^
 ||cpm.africonverse.com^
 ||cpm.andbeyond.media^
@@ -169,6 +169,7 @@
 ||filter-eu.ezmob.com^
 ||filter-eu.flairadscpc.com^
 ||filter-eu.globlemath.com^
+||filter-eu.hueadsxml.com^
 ||filter-eu.mobipromote.com^
 ||filter-eu.outpush.net^
 ||filter-eu.plarimoplus.com^
@@ -693,6 +694,7 @@
 ||rtb2.vashoot.com^
 ||search.adokutcontextual.com^
 ||search.adxfactory.com^
+||search.adzgame.com^
 ||search.anytheengmedia.com^
 ||search.boffoads.com^
 ||search.flairads.com^
@@ -702,28 +704,30 @@
 ||selfservice.adoptim.com^
 ||serv.bvsrv.com^
 ||serve.datacygnal.io^
-||static-analytics.nativeads.com^
+||sm-rtb-useast.zmdvideo.com^
 ||static-rtb.adksrv.com^
 ||static-rtb2.afkwa.com^
-||static-rtb2.convergeselect.net^
+||static-rtb2.catapultx.com^
+||static-rtb2.demandzoo.com^
 ||static-rtb2.e-volution.ai^
 ||static-rtb2.jambojar.com^
 ||static-rtb2.newchallenges-dsp.com^
 ||static-rtb2.xaprio.net^
 ||static.100conversions.com^
-||static.adcannyxml.com^
-||static.additionaldisplay.com^
+||static.adflyer.media^
 ||static.admeridianads.com^
 ||static.admidainsight.com^
 ||static.adright.co^
+||static.adsolut.in^
 ||static.advlistings.com^
 ||static.adwooo.com^
+||static.app-shake.com^
 ||static.bid-engine.com^
 ||static.displayio.cloud^
 ||static.ezmob.com^
 ||static.foremedia.net^
 ||static.fstsrv1.com^
-||static.hueadsxml.com^
+||static.fstsrv2.com^
 ||static.openrtb.in^
 ||static.outpush.net^
 ||static.pdn-1.com^
@@ -738,6 +742,7 @@
 ||static.rtbserve.io^
 ||static.rtbwire.com^
 ||static.theardent.group^
+||static.trafficmoose.com^
 ||static.webmedxml.com^
 ||sub.adzgame.com^
 ||sv-pval.looksmart.com^
@@ -839,8 +844,10 @@
 ||xml-eu-v4.frdjs-2.co^
 ||xml-eu-v4.gipostart-1.co^
 ||xml-eu-v4.gipostart-2.co^
+||xml-eu-v4.goclickz.net^
 ||xml-eu-v4.netload1.com^
 ||xml-eu-v4.netload2.com^
+||xml-eu-v4.nxthost-1.info^
 ||xml-eu-v4.outpush.net^
 ||xml-eu-v4.pushub.net^
 ||xml-eu-v4.pxfind3.com^
@@ -1080,6 +1087,7 @@
 ||xml.netload1.com^
 ||xml.netload2.com^
 ||xml.newbluetrue.xyz^
+||xml.nxthost-1.info^
 ||xml.octov8.com^
 ||xml.online-adnetwork.com^
 ||xml.pdn-1.com^
@@ -1164,483 +1172,93 @@
 ||xmlv4.chameleostudios.com^
 ||xmlv4.mobuppsrtb.com^
 ||xmlv4.reklama.network^
-!
-! b8m5j6a5.stackpathcdn.com disguised trackers
-!
 ||akcdn.nativeadsfeed.com^
 ||static-analytics.nativeads.com^
 ||static.analytics.nativeads.com^
-!
-! j4r2u9z7.stackpathcdn.com disguised trackers
-!
-||data.bvsrv.com^
-!
-! s7n9n2u9.stackpathcdn.com disguised trackers
-!
 ||dsp-static.nativeads.com^
-!
-! u7v5x3m3.stackpathcdn.com disguised trackers
-!
 ||static-rtb.adhunter.media^
-!
-! e5z5y6y7.stackpathcdn.com disguised trackers
-!
-||static-rtb.adksrv.com^
-!
-! g5v2e8v8.stackpathcdn.com disguised trackers
-!
 ||static-rtb.engagesimply.com^
-!
-! s8i6i5v3.stackpathcdn.com disguised trackers
-!
 ||static-rtb.waardex.com^
-!
-! n3r3w7j3.stackpathcdn.com disguised trackers
-!
 ||static-rtb2.adpix.online^
-!
-! y9y7w5v9.stackpathcdn.com disguised trackers
-!
-||static-rtb2.afkwa.com^
-!
-! m5v2w4d4.stackpathcdn.com disguised trackers
-!
 ||static-rtb2.africonverse.com^
-!
-! y4p7g9a7.stackpathcdn.com disguised trackers
-!
 ||static-rtb2.assemblyexchange.com^
-!
-! d6g5i6p5.stackpathcdn.com disguised trackers
-!
-||static-rtb2.catapultx.com^
-!
-! x7u2w2v6.stackpathcdn.com disguised trackers
-!
 ||static-rtb2.convergeselect.net^
-!
-! c5q9u9a6.stackpathcdn.com disguised trackers
-!
-||static-rtb2.demandzoo.com^
-!
-! i4q9a6t8.stackpathcdn.com disguised trackers
-!
-||static-rtb2.e-volution.ai^
-!
-! c2f7b8s9.stackpathcdn.com disguised trackers
-!
-||static-rtb2.jambojar.com^
-!
-! u4v4m6r6.stackpathcdn.com disguised trackers
-!
 ||static-rtb2.marketiq.com^
-!
-! e2e7q2c9.stackpathcdn.com disguised trackers
-!
-||static-rtb2.newchallenges-dsp.com^
-!
-! n8p3d2k6.stackpathcdn.com disguised trackers
-!
 ||static-rtb2.onenativeads.com^
-!
-! b9y3q8r7.stackpathcdn.com disguised trackers
-!
 ||static-rtb2.programmatics.net^
-!
-! m4d4v7b4.stackpathcdn.com disguised trackers
-!
 ||static-rtb2.t3dsp.com^
-!
-! y4f3q6b3.stackpathcdn.com disguised trackers
-!
 ||static-rtb2.torchad.com^
-!
-! u5v2k5q2.stackpathcdn.com disguised trackers
-!
-||static-rtb2.xaprio.net^
-!
-! j9t6h4h8.stackpathcdn.com disguised trackers
-!
-||static.100conversions.com^
-!
-! g3d3j7p5.stackpathcdn.com disguised trackers
-!
 ||static.ad-maven.com^
-||static.bid-engine.com^
 ||static.bidderleader.com^
 ||static.win-bidding.com^
-!
-! u4n3c5k8.stackpathcdn.com disguised trackers
-!
 ||static.adbite.com^
-!
-! p9p7a6v5.stackpathcdn.com disguised trackers
-!
 ||static.adcannyxml.com^
-!
-! e6v7t8h7.stackpathcdn.com disguised trackers
-!
 ||static.adcy.net^
-!
-! h7i7k5w4.stackpathcdn.com disguised trackers
-!
 ||static.additionaldisplay.com^
-!
-! y7m3s9g6.stackpathcdn.com disguised trackers
-!
 ||static.adflydsp.com^
-!
-! r6n4g4h8.stackpathcdn.com disguised trackers
-!
 ||static.adhunter.media^
-!
-! e8q4s6r9.stackpathcdn.com disguised trackers
-!
 ||static.adjux.com^
-!
-! n6n2x9n6.stackpathcdn.com disguised trackers
-!
-||static.admeridianads.com^
-!
-! d2z7r9u9.stackpathcdn.com disguised trackers
-!
 ||static.admidadsp.com^
-!
-! k8q8a4s8.stackpathcdn.com disguised trackers
-!
-||static.admidainsight.com^
-!
-! m3y8r7u4.stackpathcdn.com disguised trackers
-!
 ||static.admozartppc.com^
-!
-! i4c7n4g6.stackpathcdn.com disguised trackers
-!
 ||static.admozartxml.com^
-!
-! q6d4g2n6.stackpathcdn.com disguised trackers
-!
 ||static.adokutcontextual.com^
-!
-! c7e2z2i9.stackpathcdn.com disguised trackers
-!
 ||static.adop.co^
 ||static.adoperatorx.com^
-!
-! i4i4k8k3.stackpathcdn.com disguised trackers
-!
 ||static.adoptim.com^
-!
-! h7c5r7u3.stackpathcdn.com disguised trackers
-!
 ||static.adqva.com^
-!
-! n3e6p9m4.stackpathcdn.com disguised trackers
-!
-||static.adright.co^
-||static.fstsrv1.com^
-||static.qksrv.biz^
-||static.qksrv.cc^
-||static.qksrv1.com^
-!
-! n9s9r9x5.stackpathcdn.com disguised trackers
-!
 ||static.adsfloow.net^
-!
-! g6g2i3u8.stackpathcdn.com disguised trackers
-!
-||static.adsolut.in^
-!
-! x6j6c8t7.stackpathcdn.com disguised trackers
-!
-||static.advlistings.com^
-!
-! j4y7z6r3.stackpathcdn.com disguised trackers
-!
-||static.adwooo.com^
-!
-! i8y9r6y7.stackpathcdn.com disguised trackers
-!
 ||static.adzestocp.com^
-!
-! m8g2x5q7.stackpathcdn.com disguised trackers
-!
 ||static.africonverse.com^
-!
-! g9j2v9e5.stackpathcdn.com disguised trackers
-!
 ||static.anytheengmedia.com^
-!
-! x5v4f2c5.stackpathcdn.com disguised trackers
-!
-||static.app-shake.com^
-!
-! y6t5m5p3.stackpathcdn.com disguised trackers
-!
 ||static.arbigo.com^
-!
-! x4z6t7q2.stackpathcdn.com disguised trackers
-!
 ||static.audiencesignal.com^
-!
-! j5x2q3e4.stackpathcdn.com disguised trackers
-!
 ||static.bliss91.com^
-!
-! g6u8i4c9.stackpathcdn.com disguised trackers
-!
 ||static.catapultx.com^
-!
-! v6g8y9f2.stackpathcdn.com disguised trackers
-!
 ||static.clickmenia.com^
-!
-! r6j9t3s6.stackpathcdn.com disguised trackers
-!
 ||static.creativedot.net^
-!
-! m2m5y6j2.stackpathcdn.com disguised trackers
-!
 ||static.danarimedia.com^
-!
-! f9u8j3t7.stackpathcdn.com disguised trackers
-!
 ||static.denakop.com^
-!
-! x6p2k9g8.stackpathcdn.com disguised trackers
-!
 ||static.directrankcl.com^
-!
-! q3m6y4u3.stackpathcdn.com disguised trackers
-!
-||static.displayio.cloud^
-!
-! u8y4i3q8.stackpathcdn.com disguised trackers
-!
 ||static.e-volution.ai^
-!
-! u5i5h2g2.stackpathcdn.com disguised trackers
-!
 ||static.epeex.com^
-!
-! k5i5g6v8.stackpathcdn.com disguised trackers
-!
 ||static.eureekkaa.com^
-!
-! i3c5f8q2.stackpathcdn.com disguised trackers
-!
 ||static.explorads.com^
-!
-! h6a7c5e8.stackpathcdn.com disguised trackers
-!
-||static.ezmob.com^
-!
-! b6m4d4d7.stackpathcdn.com disguised trackers
-!
 ||static.fastdlx.net^
-!
-! m3h8a2t5.stackpathcdn.com disguised trackers
-!
 ||static.fastmtn.com^
-!
-! y6a2y4r9.stackpathcdn.com disguised trackers
-!
 ||static.fastsearch.me^
-!
-! b4w2x7w7.stackpathcdn.com disguised trackers
-!
-||static.foremedia.net^
-!
-! t7y9t2v6.stackpathcdn.com disguised trackers
-!
 ||static.goodgamer.gg^
-!
-! y8t7v8c9.stackpathcdn.com disguised trackers
-!
 ||static.hetcash.com^
-!
-! d5e8u4w6.stackpathcdn.com disguised trackers
-!
 ||static.houseofpubs.com^
-!
-! h9r8x4c9.stackpathcdn.com disguised trackers
-!
 ||static.hueads.com^
-!
-! n7n8b7a3.stackpathcdn.com disguised trackers
-!
 ||static.hueadsxml.com^
-!
-! g5g9f5a2.stackpathcdn.com disguised trackers
-!
 ||static.icyads.com^
-!
-! d5d7m5z4.stackpathcdn.com disguised trackers
-!
 ||static.jadspro.live^
-!
-! x9d8m2s8.stackpathcdn.com disguised trackers
-!
 ||static.kraigcontent.com^
-!
-! b8w2r6x5.stackpathcdn.com disguised trackers
-!
 ||static.krlouis.com^
-!
-! a7r8b8b3.stackpathcdn.com disguised trackers
-!
 ||static.landingtrk.com^
-!
-! x7p2p2f9.stackpathcdn.com disguised trackers
-!
 ||static.looksmartppc.com^
-!
-! x5p6w6v5.stackpathcdn.com disguised trackers
-!
 ||static.mediahubserver.com^
-!
-! m9q4r6w5.stackpathcdn.com disguised trackers
-!
 ||static.mediastinct.com^
-!
-! u6x7m2y4.stackpathcdn.com disguised trackers
-!
 ||static.melozen.com^
-!
-! b6y6q2j7.stackpathcdn.com disguised trackers
-!
 ||static.mobipromote.com^
-!
-! e5z9m7h5.stackpathcdn.com disguised trackers
-!
 ||static.online-adnetwork.com^
-!
-! n5a2s6k3.stackpathcdn.com disguised trackers
-!
-||static.openrtb.in^
-||vid-static.xapads.com^
-!
-! y5s4r3r4.stackpathcdn.com disguised trackers
-!
-||static.outpush.net^
-!
-! e8a3x2f9.stackpathcdn.com disguised trackers
-!
-||static.pdn-1.com^
-!
-! y4b7y2r4.stackpathcdn.com disguised trackers
-!
 ||static.plarimoplus.com^
-!
-! s9j4y4p2.stackpathcdn.com disguised trackers
-!
-||static.pressize.com^
 ||static.pressizeteam.com^
-!
-! y6i3i7x3.stackpathcdn.com disguised trackers
-!
 ||static.pulsefintech.net^
-!
-! g8c3h9t9.stackpathcdn.com disguised trackers
-!
 ||static.push-sense.com^
-!
-! w3f8e7g7.stackpathcdn.com disguised trackers
-!
-||static.pushub.net^
-!
-! a2e7h6t7.stackpathcdn.com disguised trackers
-!
 ||static.pwr-ads.com^
-!
-! v7g6a9x9.stackpathcdn.com disguised trackers
-!
 ||static.readywind.media^
-!
-! r2z5g8w6.stackpathcdn.com disguised trackers
-!
-||static.realtime-bid.com^
-!
-! i6j7g5n9.stackpathcdn.com disguised trackers
-!
-||static.reklama.network^
-!
-! j8a2p4g7.stackpathcdn.com disguised trackers
-!
 ||static.revrtb.com^
-!
-! r5s4b7m4.stackpathcdn.com disguised trackers
-!
-||static.rocoads.com^
-!
-! 1.xs.wowcon.net disguised trackers
-!
 ||static.rtb-serve.com^
-!
-! m8b5z5w9.stackpathcdn.com disguised trackers
-!
 ||static.rtbdemand.com^
-!
-! j8g2x4v5.stackpathcdn.com disguised trackers
-!
 ||static.rtbidhost.com^
-!
-! b5k5s6n5.stackpathcdn.com disguised trackers
-!
-||static.rtbserve.io^
-!
-! h3k9i4i9.stackpathcdn.com disguised trackers
-!
-||static.rtbwire.com^
-!
-! t3n9k9p5.stackpathcdn.com disguised trackers
-!
 ||static.saturndynamic.pt^
-!
-! b2q5j5v3.stackpathcdn.com disguised trackers
-!
 ||static.serverhost1.com^
-!
-! x6v7j7j3.stackpathcdn.com disguised trackers
-!
 ||static.showcasead.com^
-!
-! f9b9u9i8.stackpathcdn.com disguised trackers
-!
-||static.theardent.group^
-!
-! q7c3t4h4.stackpathcdn.com disguised trackers
-!
 ||static.topdealad.com^
-!
-! n2e7m3k9.stackpathcdn.com disguised trackers
-!
 ||static.topsolutionsmedia.com^
-!
-! c9s7v2j2.stackpathcdn.com disguised trackers
-!
-||static.trafficmoose.com^
-!
-! e2g8m2r2.stackpathcdn.com disguised trackers
-!
 ||static.tris.com^
-!
-! q9r5z9j6.stackpathcdn.com disguised trackers
-!
 ||static.userwave.com^
-!
-! i9q6n9g6.stackpathcdn.com disguised trackers
-!
-||static.webmedxml.com^
-!
-! k5k8v5j4.stackpathcdn.com disguised trackers
-!
 ||static.xmlppc.net^
-!
-! v8b2f9m6.stackpathcdn.com disguised trackers
-!
 ||static.zeusadx.com^
-!
-! n3r4p9t5.stackpathcdn.com disguised trackers
-!
 ||static.zmdvideo.com^

@@ -1,8 +1,5 @@
 ;
 ; Company name: Eulerian
-;
-; eulerian.net disguised trackers
-;
 0sbm.consobaby.co.uk CNAME .
 16ao.mathon.fr CNAME .
 1bva.societegenerale.fr CNAME .
@@ -134,6 +131,7 @@ ea.leskidunordausud.fr CNAME .
 ea.lespagnedunordausud.fr CNAME .
 ea.megustaleer.com.pe CNAME .
 ea.melijoe.com CNAME .
+ea.millet-mountain.ch CNAME .
 ea.millet-mountain.com CNAME .
 ea.millet-mountain.de CNAME .
 ea.millet.fr CNAME .
@@ -186,6 +184,7 @@ eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
+erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 et.swatch.com CNAME .
@@ -368,6 +367,7 @@ pv.partenaires-verisure.fr CNAME .
 qal0.destinia.gr CNAME .
 qfo.eurotierce.be CNAME .
 qjg4.destinia.asia CNAME .
+qpc4.visilab.ch CNAME .
 qpl9.destinia.dk CNAME .
 qsl1.refleximmo.com CNAME .
 qtj0.destinia.pl CNAME .
@@ -483,28 +483,10 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
-;
-; aca.ca-eulerian.net disguised trackers
-;
-5fm.985fm.ca CNAME .
 b1n.carabins.umontreal.ca CNAME .
-c0i.ckoi.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
-eat9.thebeat925.ca CNAME .
-erb.tremblant.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 m10.m1029.com CNAME .
 nym5c.bonlook.com CNAME .
-ry0.rythmefm.com CNAME .
-t0y.toyota.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
-;
-; e.emailretargeting.com disguised trackers
-;
 ea.mnt.fr CNAME .
-;
-; bca.ca-eulerian.net disguised trackers
-;
 gi7a.structube.com CNAME .
-nym5c.laura.ca CNAME .
-pk1u.melanielyne.com CNAME .

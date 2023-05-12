@@ -1,8 +1,5 @@
 ;
 ; Company name: Otto Group
-;
-; oghub.io disguised trackers
-;
 prod.nitrosniffer.ottogroup.io CNAME .
 sniffer.nitro-production.otto.boreus.de CNAME .
 sniffer.nitro-test-extern.otto.boreus.de CNAME .

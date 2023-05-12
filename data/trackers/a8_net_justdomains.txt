@@ -1,8 +1,5 @@
 #
 # Company name: A8.net
-#
-# a8.net disguised trackers
-#
 1909a8.satofull.jp
 a8-22.hana-yume.net
 a8-affiliate.kase3535.com
@@ -10,6 +7,7 @@ a8-hoiku.mama-9jin.com
 a8-itp.qoo10.jp
 a8-mamacareer.mama-9jin.com
 a8-wpxblog.secure.wpx.ne.jp
+a8-wpxshin.secure.wpx.ne.jp
 a8-xshop.secure.xserver.ne.jp
 a8.01cloud.jp
 a8.2ndstreet.jp
@@ -85,6 +83,7 @@ a8.global-mobility-service.com
 a8.gme.co.jp
 a8.golfland.co.jp
 a8.goodappeal.site
+a8.guardian-mp.aerial-p.com
 a8.h-daiya.co.jp
 a8.hakata-hisamatsu.net
 a8.happy-card.jp
@@ -225,6 +224,7 @@ a8.track.entry.dokoyorimo.com
 a8.triple-m.jp
 a8.tscubic.com
 a8.uluwatutiger.com
+a8.unicoffee.tech
 a8.uridoki.net
 a8.vector-park.jp
 a8.virus-gekitai.com
@@ -232,6 +232,7 @@ a8.volstar.jp
 a8.vtuber.sexy
 a8.watero.pet
 a8.web-hikari.net
+a8.webdeki.com
 a8.webist-cri.com
 a8.wemotion.co.jp
 a8.wifi-fami.com
@@ -426,6 +427,7 @@ a8clk.petelect.jp
 a8clk.petitjob.jp
 a8clk.photorevo.info
 a8clk.point-land.net
+a8clk.point-museum.com
 a8clk.point-stadium.com
 a8clk.psd.jp
 a8clk.radianne.jp
@@ -470,6 +472,7 @@ a8clk.support-hoiku.com
 a8clk.sure-i.co.jp
 a8clk.t-fic.co.jp
 a8clk.takken-job.com
+a8clk.tamiyashop.jp
 a8clk.tanp.jp
 a8clk.tastytable-food.com
 a8clk.teacon.jp
@@ -546,6 +549,7 @@ a8cv.aquasilver.co.jp
 a8cv.araiba.net
 a8cv.atami-box.com
 a8cv.atgp.jp
+a8cv.auhikari-bykddi.com
 a8cv.b-concept.tokyo
 a8cv.b-mobilerental.com
 a8cv.baiden-king.com
@@ -574,6 +578,7 @@ a8cv.carryonmall.com
 a8cv.cart.bi-su.jp
 a8cv.cast-er.com
 a8cv.catal.jp
+a8cv.celbest.urr.jp
 a8cv.chefbox.jp
 a8cv.chillaxy.jp
 a8cv.chuoms.com
@@ -600,7 +605,6 @@ a8cv.direct.shark.co.jp
 a8cv.diyfactory.jp
 a8cv.doctor-agent.com
 a8cv.dokoyorimo.com
-a8cv.dotpro.tokyo
 a8cv.downjacket.pro
 a8cv.dreambeer.jp
 a8cv.dreamchance.net
@@ -647,6 +651,7 @@ a8cv.greed-island.ne.jp
 a8cv.haka.craht.jp
 a8cv.hal-tanteisya.com
 a8cv.handmade-ch.jp
+a8cv.harasawa.co.jp
 a8cv.hariocorp.co.jp
 a8cv.hello-people.jp
 a8cv.heybit.io
@@ -787,7 +792,6 @@ a8cv.sharing-tech.co.jp
 a8cv.sharing-tech.jp
 a8cv.shibuya-scramble-figure.com
 a8cv.shimomoto-cl.co.jp
-a8cv.shinro.info
 a8cv.shokunosoyokaze.com
 a8cv.shop.matsuo1956.jp
 a8cv.shop.solve-grp.com
@@ -860,6 +864,7 @@ a8cventry.uqwimax.jp
 a8cvtrack.tokai.jp
 a8dev.hikarinet-s.com
 a8itp.bitoka-japan.com
+a8live-vote.eventos.work
 a8lp-tebiki.e-sogi.com
 a8n.radishbo-ya.co.jp
 a8net.beyond-gym.com
@@ -918,7 +923,9 @@ afi.ssl.gmobb.jp
 ahachi.dietnavi.com
 analytics.villagehouse.jp
 aspa8.ozmall.co.jp
+car-a8.tabirai.net
 cv.atelier-shark.com
+cv.belta-shop.jp
 cv.colleize.com
 cv.drive-hikari.net
 cv.figure.toy-kaitoru.com
@@ -944,6 +951,7 @@ cv.stella-s.com
 cv.subscription-store.com
 cv.tenjin.cc
 cv.theatreacademy.info
+cv.ui-chiho.clinic
 cv.wp-avenue.com
 ems-a8net-tracking.easy-myshop.jp
 ja-jp-a8.etudehouse.com
@@ -954,6 +962,7 @@ onenet.gakujutsu.com
 storea8tracking.alc.co.jp
 sub.booksdream-mypage.com
 summary.bookoffonline.co.jp
+thanks.olivesitter.com
 thanks.tsubaki-musicschool.com
 track-v4.ipadpresence.com
 track.craudia.com

@@ -1,8 +1,5 @@
 #
 # Company name: PopCash
-#
-# popcashjs.b-cdn.net disguised trackers
-#
 cdn.afwpc.com
 cdn.almacz.com
 cdn.alota.xyz
@@ -55,9 +52,6 @@ cdn.xawlop.com
 cdn.xbcpcn.com
 cdn.yopard.com
 cdn.zxclan.com
-#
-# deprecated-custom-domains.b-cdn.net disguised trackers
-#
 4ke5b4ila.codedge.de
 7wrxo2xh.iriscreative.co
 9kz9cttz76.antonsten.com
@@ -93,6 +87,7 @@ anteater.audioadventuregame.com
 anteater.stella-projects.de
 anteater.ttbwsd.com
 anteater.webitize.com
+antelope.gabriellaroche.dev
 antelope.journeyofanurse.com
 antelope.kinn.be
 antelope.u3a.com.au
@@ -109,6 +104,7 @@ asp.chop-shop.com.au
 asp.podlist.de
 asp.sepiasoft.eu
 azlej8cdm.pragmaticwebsecurity.com
+baboon.naxon.dev
 baboon.vacanti.com
 badger.bytesized.xyz
 badger.pager.app
@@ -157,13 +153,11 @@ boa.nolongerset.com
 boa.prostamped.com
 boar.hopehollow.com
 boar.indieweb.org
-boar.jreviews.com
 boar.kostholdsveilederen.no
 bobcat.pronounce.technology
 bobcat.pushplay.nl
 bobcat.snapshooter.io
 bobcat.wdng-fotograf.de
-bobolink.veteranjobcenter.com
 booby.deanyeong.com
 boom.laravel.io
 bovid.arshaw.com
@@ -183,7 +177,6 @@ camel.gastro-plan.app
 camel.nonpopularopinion.com
 camel.warvik.no
 canid.20inchlabs.com
-canid.disabledjobseekers.com
 canid.innovatingchildrensservices.org
 canid.mestamaster.fi
 canid.peterakkies.net
@@ -199,7 +192,6 @@ caribou.reiterstolz.com
 carp.acda.app
 carp.amespacios.com
 carp.pbncontent.com
-carp.seniorsinjobs.com
 carp.spotonevent.no
 cat.acesandaros.org
 cat.beunitedinchrist.com
@@ -230,7 +222,6 @@ cattle.musikschule-bregenzerwald.at
 cattle.spiral11.com
 cattle.weiss-bregenz.at
 cattle.yourdallashandyman.com
-centipede.buskersbern.ch
 centipede.davimug.com
 centipede.wildbit.com
 centipede.yuv.al
@@ -243,7 +234,6 @@ cheetah.gaptry.com
 cheetah.songrender.com
 cheetah.zeh.co.il
 chickadee.e-seller.news
-chickadee.hispanicinjobs.com
 chickadee.laravel.tips
 chickadee.mikebifulco.com
 chickadee.och.dev
@@ -298,7 +288,6 @@ crayfish.miamilo.com
 crayfish.portbanecottagelochtay.co.uk
 crayfish.thecatherinewheel.co
 crayfish.thingelstad.com
-crocodile.brightonruby.com
 crow.claudiakeil.de
 crow.voracious.dev
 cuckoo.clientrock.app
@@ -313,11 +302,9 @@ damselfly.creativeclick.com.au
 damselfly.previously.today
 deer.m1x.co
 deer.ray.io
-dingo.harmanly.com
 dingo.moehring.dev
-dog.asianjobsearch.com
+dog.airfieldhub.com
 dog.christinamoore.us
-dog.diversityinjobs.com
 dog.franchisesocial.co.uk
 dog.goldcanvas.com
 dog.justsketch.me
@@ -344,7 +331,6 @@ dragon.sh2.com
 dragonfly.codebar.ch
 dragonfly.filmmakerfreedom.com
 dragonfly.jala-one.com
-eagle.joulescope.com
 eagle.mbcharbonneau.com
 earthworm.creatifmediagroup.com
 earthworm.elenabirkenwald.com
@@ -359,7 +345,6 @@ eel.beekeeperstudio.io
 eel.cuabuilders.com
 egret.brothers.studio
 egret.friendships.me
-egret.hispanicjobexchange.com
 elephant.stempelwiese.de
 elephant.superdense.com
 elk.andrewfomera.com
@@ -399,6 +384,7 @@ fish.muted.io
 fish.whitney.org
 fjikgr.dennmart.com
 flamingo.abihome.de
+flamingo.apatonsrompus.com
 flamingo.stacking-club.com
 flea.artisan.school
 flea.elbertsnaturalfoods.com
@@ -454,7 +440,6 @@ guanaco.shelter.stream
 guineapig.espressive.com
 guineapig.recap.io
 guineapig.themenaffin.de
-gull.abilitiesinjobs.com
 gull.mayansmithgobat.com
 guppy.ausowned.com.au
 guppy.ironmic.fm
@@ -485,7 +470,6 @@ hornet.energizer.co.za
 hornet.jeffgable.com
 hornet.newburycompanies.com
 hornet.stechstudio.com
-horse.cubitcreative.com
 horse.deadmanssnitch.com
 horse.erms.app
 horse.hookrelay.dev
@@ -528,7 +512,6 @@ kangaroo.kraenk.de
 kangaroo.triplightfantastic.com
 kaxlfq.testingwithtestcafe.com
 kingfisher.gedaly.com
-kingfisher.niklashugo.com
 kingfisher.startupdemoday.live
 kingfisher.wishloom.com
 kite.devin.website
@@ -541,15 +524,18 @@ kiwi.coreyodonnell.tech
 kiwi.emilkowal.ski
 kiwi.mcan.sh
 kiwi.railway.app
+koala.getslopes.com
 koala.moontells.com
 koala.mynestbox.co.uk
 koala.quantumfirelabs.com
 koala.readyfive.io
 koi.artsvp.co
 koi.fftf.cat
+koi.henrydennis.dev
 koi.lkae.dev
 koi.madebykind.com
 koi.omnimove.health
+koi.project-tampah.com
 koi.valleywestlandscapes.com
 koi.vyer.com
 krill.spoonrage.com
@@ -592,7 +578,6 @@ lobster.justunderwear.com
 lobster.tonebleed.com
 locust.ausrebellion.earth
 locust.michiel-gerritsen.com
-loon.africanamericanjobsearch.com
 loon.ohmyfunds.com
 louse.16bit.it
 louse.messengo.com
@@ -616,7 +601,6 @@ manatee.creativepassport.net
 mandrill.peoplegroove.com
 mandrill.phiilu.com
 marlin.firstline.org
-marlin.mecv.xyz
 marlin.plumerai.com
 marmoset.easycolour.app
 marmot.hippiemodernism.com
@@ -691,7 +675,6 @@ ostrich.getschools.org
 ostrich.hegic-tokenizer.co
 ostrich.pergaudiaadastra.de
 otter.emdegmbh.com
-otter.johnfoster.com
 otter.preferredequineonline.com
 owl.gregwolanski.com
 owl.heidipay.com
@@ -738,7 +721,6 @@ planarian.reverberate.org
 planarian.sexcam-gutscheine.de
 platypus.colly.com
 platypus.facet.net
-platypus.seniorstowork.com
 platypus.zwei-bags.ch
 polarbear.codeday.org
 polarbear.wpnow.dev
@@ -792,11 +774,11 @@ rook.flowlens.com
 rook.grithix.com
 rook.moodgym.de
 rooster.coombaaquatic.club
-roundworm.womeninjobs.com
 sailfish.hoap.com
 sailfish.kentcdodds.com
 sailfish.lifelines-film.com
 sailfish.mastercw.com
+sailfish.the-psychedelicatessen.com
 sailfish.youracademycommunity.com
 salamander.laboucheriebio.com
 salamander.showandtelldata.com
@@ -814,8 +796,9 @@ seahorse.dexterityvisuals.com
 seahorse.okse.no
 shark.codeswitch.be
 shark.getplayback.com
-shark.raochsendorf.de
+sheep.littleboat.digital
 sheep.pixair-survey.com
+silkworm.boxmood.be
 silkworm.energizergrouplegal.com
 silkworm.preventingsuicideinsussex.org
 silkworm.westwoodmbc.org
@@ -831,12 +814,10 @@ slug.sirenergies.com
 smelt.allenpike.com
 smelt.gautrowski.com
 smelt.waltrack.net
-snail.asianinjobs.com
 snail.evergrace.co
 snake.kiramclean.com
 snipe.mfaber.at
 snipe.mizzuu.co
-sole.maraispatrimoine.com
 sole.pretto.fr
 sparrow.collabwithpedal.com
 sparrow.uitvaartzorg-vanraemdonck.be
@@ -851,7 +832,6 @@ spoonbill.deknot.io
 spoonbill.memberkit.com.br
 squid.adart.cc
 squid.antevo.com.au
-squid.dylancastillo.co
 squirrel.cividi.ch
 squirrel.laravel-mix.com
 squirrel.malaynahocker.com
@@ -900,13 +880,13 @@ tigershark.vandevliet.me
 tiglon.beyondco.de
 tortoise.transistor.fm
 toucan.ateliermilky.com
-toucan.lgbtjobsearch.com
 treefrog.kaffeknappen.no
+treefrog.socialmarketinggateway.co.uk
 treefrog.tschmeisser.com
-trout.lgbtqinjobs.com
 trout.travelmassive.com
 trout.unicornplatform.com
 tuna.peterfarms.com
+turkey.docsy.cloud
 turkey.tella.tv
 turtle.geshem.space
 turtle.hackstock.net
@@ -930,10 +910,12 @@ wasp.dyrynda.dev
 wasp.mattjennings.io
 waterboa.midu.dev
 weasel.accomplice.ai
+whippet.madebywil.co
 whitefish.antonopoulos-stores.gr
 whitefish.finanzritter.com
 whitefish.kenku.fm
 wildcat.fspy.io
+wildebeest.quarva.dev
 wildebeest.theheritagelodge.com
 wildebeest.trigo.dev
 wildfowl.minter.io
@@ -946,9 +928,6 @@ woodpecker.ember.ly
 woodpecker.seabits.com
 worm.paulstamatiou.com
 yak.embeddedartistry.com
-#
-# bs-adserver.b-cdn.net disguised trackers
-#
 ads.djc.com
 assets-v2.boisedev.com
 assets-v2.invaluable.com
@@ -973,41 +952,14 @@ sponsors.macaronikid.com
 sponsors.salesforceben.com
 sponsors.teethtalkgirl.com
 sponsors.thebeat.asia
-#
-# video-ad.b-cdn.net disguised trackers
-#
 adserve.bongocdn.com
-#
-# bannieres.b-cdn.net disguised trackers
-#
 assets.diagomics.com
-#
-# cpmstar.b-cdn.net disguised trackers
-#
 bcdn.cpmstar.com
-#
-# prebid.b-cdn.net disguised trackers
-#
 cdn-b.notsy.io
-#
-# admaticcdn.b-cdn.net disguised trackers
-#
 cdn.admatic.com.tr
-#
-# affiliatable1.b-cdn.net disguised trackers
-#
 cdn.affiliatable.io
-#
-# track-dark-bz.b-cdn.net disguised trackers
-#
 cdn.track.dark.bz
-#
-# consent.b-cdn.net disguised trackers
-#
 consent.cookiefirst.com
-#
-# b-cdn.net disguised trackers
-#
 contact-gloss-production.accelerator.net
 dntcl.qualaroo.com
 live-tag.creatopy.net

@@ -1,8 +1,5 @@
 ;
 ; Company name: AD EBiS
-;
-; ebis.ne.jp disguised trackers
-;
 a9d8e7b6i5s.andgino.jp CNAME .
 aaaa.nocor.jp CNAME .
 ac-3.mix.tokyo CNAME .
@@ -107,7 +104,6 @@ adebiscname.auone.jp CNAME .
 adebiscname.sumirin-ht.co.jp CNAME .
 adebisu.fairy-contact.jp CNAME .
 adebisu.wowow.co.jp CNAME .
-adex.jrwp-arimatsu34.com CNAME .
 adex.kintetsu-re.co.jp CNAME .
 adex.naruko333.jp CNAME .
 adex.predear.com CNAME .

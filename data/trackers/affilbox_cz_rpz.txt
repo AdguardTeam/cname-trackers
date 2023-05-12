@@ -1,8 +1,5 @@
 ;
 ; Company name: affilbox.cz
-;
-; cz.affilbox.cz disguised trackers
-;
 abox.simpleshop.cz CNAME .
 aff.faircredit.cz CNAME .
 aff.pujckajonatan.cz CNAME .
@@ -182,6 +179,7 @@ affiliate.levnoshop.cz CNAME .
 affiliate.lg-store.cz CNAME .
 affiliate.loveo.cz CNAME .
 affiliate.manvel.cz CNAME .
+affiliate.martinreznicek.cz CNAME .
 affiliate.milagro.cz CNAME .
 affiliate.mobilonline.sk CNAME .
 affiliate.mojemincovna.cz CNAME .
@@ -290,6 +288,7 @@ my.11teamsports.ie CNAME .
 my.11teamsports.pl CNAME .
 my.11teamsports.pt CNAME .
 my.11teamsports.ro CNAME .
+my.11teamsports.se CNAME .
 my.11teamsports.si CNAME .
 my.11teamsports.sk CNAME .
 my.fr.top4fitness.be CNAME .
@@ -602,7 +601,6 @@ partner.webareal.cz CNAME .
 partner.webareal.sk CNAME .
 partner.webrebel.sk CNAME .
 partner.webskicak.cz CNAME .
-partner.websusmevem.cz CNAME .
 partner.whoopdedoo.cz CNAME .
 partner.whoopdedoo.love CNAME .
 partner.xbx.cz CNAME .
@@ -721,6 +719,7 @@ partneri.umenijazyku.cz CNAME .
 partneri.vashop.cz CNAME .
 partneri.viadelicia.cz CNAME .
 partneri.vitaon.cz CNAME .
+partneri.volny-termin.cz CNAME .
 partneri.vyzvaproimunitu.cz CNAME .
 partneri.way4life.cz CNAME .
 partneri.webmeeting.cz CNAME .
@@ -734,6 +733,7 @@ partneri.zijchytre.cz CNAME .
 partneri.zkustenzvuk.cz CNAME .
 partners.almaf.cz CNAME .
 partners.duckferries.com CNAME .
+partners.elitecoaching.cz CNAME .
 partners.lawofattraction.cz CNAME .
 partners.oktagon.tv CNAME .
 partners.pocitarna.cz CNAME .
@@ -759,6 +759,7 @@ provizia.mimulo.sk CNAME .
 provizia.vitalitypradlo.sk CNAME .
 proviznisystem.kanclir.cz CNAME .
 rek.rybizak.cz CNAME .
+royalfamily.royalchaga.sk CNAME .
 special.kvetinyexpres.cz CNAME .
 spolu.kuskakaa.cz CNAME .
 spoluprace.blackkale.cz CNAME .
@@ -771,7 +772,6 @@ spoluprace.luxusnipradlo.cz CNAME .
 spoluprace.majka-shop.cz CNAME .
 spoluprace.mentorkalucie.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .
-spoluprace.pohybovka.cz CNAME .
 spoluprace.potravinyarax.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .
@@ -781,11 +781,5 @@ www.affilbox.mironet.cz CNAME .
 www.affilo.cz CNAME .
 www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .
-;
-; c4924.affilbox.cz disguised trackers
-;
 affiliate.kulturistika.com CNAME .
-;
-; c771.affilbox.cz disguised trackers
-;
 partner.janapekna.cz CNAME .

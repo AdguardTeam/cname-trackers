@@ -1,8 +1,5 @@
 ;
 ; Company name: NP6
-;
-; tracking.bp01.net disguised trackers
-;
 emailing.casden.banquepopulaire.fr CNAME .
 epm.mailperformance.com CNAME .
 mailtracking.tf1.com CNAME .
@@ -137,6 +134,7 @@ tr.clienti.younited-credit.com CNAME .
 tr.clienti.younited-credit.it CNAME .
 tr.clients-mediametrie.fr CNAME .
 tr.clients.boursorama.info CNAME .
+tr.clients.europrogres.fr CNAME .
 tr.clients.gemy.fr CNAME .
 tr.clients.idaia.group CNAME .
 tr.cnaf.espmp-nifr.net CNAME .
@@ -323,6 +321,7 @@ tr.fleetmatics.vraaguwofferte.be CNAME .
 tr.forum.veuveclicquot.fr CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.france.plimsoll.fr CNAME .
+tr.french-tax-compliance-booking.com CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
 tr.gap-fr.fr CNAME .
 tr.gdfsuez-globalenergy.info CNAME .
@@ -353,6 +352,7 @@ tr.impayes.filiassur.com CNAME .
 tr.info-btob-leaders.com CNAME .
 tr.info-carte.fr CNAME .
 tr.info-companeo.be CNAME .
+tr.info-fr.assurant.com CNAME .
 tr.info-pro.promoneuve.fr CNAME .
 tr.info-strategie.fr CNAME .
 tr.info.actionlogement.fr CNAME .
@@ -617,6 +617,7 @@ tr.news.itancia.com CNAME .
 tr.news.jautomatise.com CNAME .
 tr.news.kalivet.com CNAME .
 tr.news.kpmg-avocats.fr CNAME .
+tr.news.kpmgacademy.fr CNAME .
 tr.news.kpmgnet.fr CNAME .
 tr.news.kuhn.com CNAME .
 tr.news.la-collectionairfrance.fr CNAME .
@@ -690,7 +691,9 @@ tr.news.younited-credit.com CNAME .
 tr.news2pjms.fr CNAME .
 tr.news5.cdiscount.com CNAME .
 tr.news6.cdiscount.com CNAME .
+tr.newsletter-habitat.com CNAME .
 tr.newsletter-stressless.com CNAME .
+tr.newsletter.actalians.fr CNAME .
 tr.newsletter.afpa.fr CNAME .
 tr.newsletter.assuragency.net CNAME .
 tr.newsletter.astro-mail.com CNAME .
@@ -867,9 +870,6 @@ tr.tdgx.espmp-cufr.net CNAME .
 tr.think.lvmh.fr CNAME .
 tr.thisiseurope.moethennessy.com CNAME .
 tr.tns.harmonie-mutuelle.fr CNAME .
-tr.toner-service.fr CNAME .
-tr.toner-services.fr CNAME .
-tr.tonerservices.fr CNAME .
 tr.tourisme.visit-lanarbonnaise.com CNAME .
 tr.tpe.harmonie-mutuelle.fr CNAME .
 tr.trafficnews.lyria.com CNAME .
@@ -931,9 +931,6 @@ tr1.psa-surveys.com CNAME .
 tr5.mailperf.com CNAME .
 tracking.allopneus.com CNAME .
 www.tr.bfc-mp.caisse-epargne.fr CNAME .
-;
-; form.bp01.net disguised trackers
-;
 cotemaison.np6.com CNAME .
 f1.demo.np6.com CNAME .
 f1.mailperf.com CNAME .

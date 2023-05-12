@@ -1,8 +1,5 @@
 ;
 ; Company name: LexisNexis Risk Solutions
-;
-; online-metrix.net disguised trackers
-;
 1bf86f4b.tictoc.ai CNAME .
 abc.pulsebet.com CNAME .
 acdc.toolineo.de CNAME .
@@ -139,6 +136,7 @@ check3.tiaa-cref.org CNAME .
 check3.tiaa.org CNAME .
 check3.tiaabank.com CNAME .
 checkout-df.lululemon.com CNAME .
+checkout.walz.de CNAME .
 cib.currency.lloydsbank.com CNAME .
 claimant.vec.virginia.gov CNAME .
 clear.wallapop.com CNAME .
@@ -503,6 +501,7 @@ nfp.intuit.com CNAME .
 nv-2.liveaction.com CNAME .
 ocs.ameriprise.com CNAME .
 offtest.fnfis.com CNAME .
+ofp.intuit.com CNAME .
 ofxmryjd.seller.walmart.com CNAME .
 ofxmryjd.walmart.com CNAME .
 ola2.tdameritrade.com CNAME .
@@ -520,6 +519,7 @@ page-format.chase.com CNAME .
 pages.fiduciarytrust.com CNAME .
 pages.franklintempleton.com CNAME .
 paiement.cb4x.fr CNAME .
+payment.rewards.sony.com CNAME .
 payments-de.lidlplus.com CNAME .
 payments.direct.playstation.com CNAME .
 payments.hd-plus.de CNAME .
@@ -683,6 +683,7 @@ t.sunrise.ch CNAME .
 t.us.williamhill.com CNAME .
 t.wepay.com CNAME .
 t.yallo.ch CNAME .
+t.zinia.com CNAME .
 t1.tacdn.com CNAME .
 t1.welab.bank CNAME .
 t11.identity.aikyam.com CNAME .

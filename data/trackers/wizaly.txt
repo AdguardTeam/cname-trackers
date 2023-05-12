@@ -1,8 +1,5 @@
 !
 ! Company name: Wizaly
-!
-! wizaly.com disguised trackers
-!
 ||t-test.esvdigital.com^
 ||t.wiz.meilleurtaux.com^
 ||tk.abt.com^

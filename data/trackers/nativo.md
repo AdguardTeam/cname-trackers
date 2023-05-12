@@ -12,16 +12,14 @@
 
 * jadserve.postrelease.com.akadns.net
 * unavailable.hearstnp.com
-* cultivatedknowledge-com-www1.edgeserving.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| www1.cultivatedknowledge.com | cultivatedknowledge-com-www1.edgeserving.com |
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
-| a235.chron.com | jadserve.postrelease.com |
+| a235.greenwichtime.com | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
 | a135.fox23.com | jadserve.postrelease.com.akadns.net |
@@ -121,6 +119,7 @@
 | 3eaaac4c0d.090a7ee361.com | ntvpforever.com |
 | 3fb830355c.9be814e81e.com | ntvpforever.com |
 | 3ff30ad38a.9714ddef1d.com | ntvpforever.com |
+| 40cdf9d2a9.9fee754633.com | ntvpforever.com |
 | 41e02b972b.9f101f07c7.com | ntvpforever.com |
 | 41f8a60477.cd4fb281e1.com | ntvpforever.com |
 | 41ff45a3db.03f128fb44.com | ntvpforever.com |
@@ -139,11 +138,13 @@
 | 4ee283d2af.9f8695e9a4.com | ntvpforever.com |
 | 4fc89cba3d.e67df3f29d.com | ntvpforever.com |
 | 52292b9db4.e4cd7bbad2.com | ntvpforever.com |
+| 531a51d349.0d55d13cf1.com | ntvpforever.com |
 | 5366c7a4fb.a74242f89f.com | ntvpforever.com |
 | 53f90ea18c.ad64463ef9.com | ntvpforever.com |
 | 55bff2103f.f451b7f622.com | ntvpforever.com |
 | 5691f27b38.77176d9509.com | ntvpforever.com |
 | 56a7ca381c.a4de9aca80.com | ntvpforever.com |
+| 570bfb615e.f3de94ee1e.com | ntvpforever.com |
 | 572a92f793.210f3810db.com | ntvpforever.com |
 | 57a8023ce9.1aa3097b7b.com | ntvpforever.com |
 | 58ac5dbcb6.34946d7678.com | ntvpforever.com |
@@ -191,7 +192,6 @@
 | 7e94be3add.84a196ebc5.com | ntvpforever.com |
 | 7ee6aa4a84.102168588b.com | ntvpforever.com |
 | 7f01e7f94e.1d022ca6a2.com | ntvpforever.com |
-| 7f9e4f7383.b40c7bfff2.com | ntvpforever.com |
 | 80d1a27de4.7776bf141c.com | ntvpforever.com |
 | 812748c48f.02f87a8089.com | ntvpforever.com |
 | 81882ef64b.34ad8df175.com | ntvpforever.com |
@@ -282,7 +282,6 @@
 | cc9246f1b6.4bf340a7f1.com | ntvpforever.com |
 | cca691f765.ca3362de0f.com | ntvpforever.com |
 | cce1fcf4c7.cca57f4672.com | ntvpforever.com |
-| cd4a13a8dd.8f1a606535.com | ntvpforever.com |
 | ceb8265201.4eb28685b6.com | ntvpforever.com |
 | cf6eefecd9.76362b26c3.com | ntvpforever.com |
 | d04674bbdd.e02b15bc59.com | ntvpforever.com |

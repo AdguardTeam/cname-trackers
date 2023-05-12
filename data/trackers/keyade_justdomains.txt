@@ -1,8 +1,5 @@
 #
 # Company name: Keyade
-#
-# k.keyade.com disguised trackers
-#
 clk.ubi.com
 k.brandalley.be
 k.brandalley.co.nl
@@ -30,12 +27,6 @@ keyade.uniqlo.com
 market-keyade.macif.fr
 tck.photobox.com
 tck.wonderbox.fr
-#
-# k.madmetrics.com disguised trackers
-#
 k.truffaut.com
-#
-# www.keyade.com disguised trackers
-#
 www.keyad.fr
 www.keyade.fr

@@ -14,6 +14,7 @@
 | ac-dir-latam.8njhhs0ivx.com | latam.lb.rtb.ads.bid |
 | ac-dir-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | ac-dir-latam.jsgbmmcapc.com | latam.lb.rtb.ads.bid |
+| ac-dir-latam.kwzdbbkpre.com | latam.lb.rtb.ads.bid |
 | ac-dir-latam.xw1fx50x35.com | latam.lb.rtb.ads.bid |
 | avb-latam.8njhhs0ivx.com | latam.lb.rtb.ads.bid |
 | avb-latam.cau1aighae.com | latam.lb.rtb.ads.bid |

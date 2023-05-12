@@ -1,14 +1,12 @@
 ;
 ; Company name: Ensighten
-;
-; nc0.co disguised trackers
-;
 activate.aami.com.au CNAME .
 activate.anntaylor.com CNAME .
 activate.apia.com.au CNAME .
 activate.baltimoresun.com CNAME .
 activate.bingle.com.au CNAME .
 activate.capitalgazette.com CNAME .
+activate.carrollcountytimes.com CNAME .
 activate.chicagoredeye.com CNAME .
 activate.chicagotribune.com CNAME .
 activate.cityandshore.com CNAME .
@@ -101,12 +99,12 @@ attribution.saucony.com CNAME .
 attribution.sperry.com CNAME .
 attribution.tescomobile.com CNAME .
 attribution.theworks.co.uk CNAME .
-attribution.tmlewin.com CNAME .
 attribution.tmlewinshirts.eu CNAME .
 attribution.wolverine.com CNAME .
 businessmetrics.syf.com CNAME .
 cm.oneidentity.com CNAME .
 cm.quest.com CNAME .
+cmp.audi.be CNAME .
 cmp.cupra.be CNAME .
 cmp.dieteren.be CNAME .
 cmp.myway.be CNAME .

@@ -1,8 +1,5 @@
 ;
 ; Company name: ads2.bid
-;
-; ads.bid disguised trackers
-;
 abttss-ur.exolkkl6i2puvf.ru CNAME .
 ac-dir-co.8njhhs0ivx.com CNAME .
 ac-dir-co.cau1aighae.com CNAME .
@@ -14,6 +11,7 @@ ac-dir-co.xw1fx50x35.com CNAME .
 ac-dir-latam.8njhhs0ivx.com CNAME .
 ac-dir-latam.cau1aighae.com CNAME .
 ac-dir-latam.jsgbmmcapc.com CNAME .
+ac-dir-latam.kwzdbbkpre.com CNAME .
 ac-dir-latam.xw1fx50x35.com CNAME .
 ac-dir-sing.8njhhs0ivx.com CNAME .
 ac-dir-sing.cau1aighae.com CNAME .

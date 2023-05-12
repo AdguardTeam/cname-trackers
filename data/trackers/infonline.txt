@@ -1,8 +1,5 @@
 !
 ! Company name: INFOnline
-!
-! iocnt.net disguised trackers
-!
 ||0186141170.apps.iocnt.de^
 ||39db8b138f.apps.iocnt.de^
 ||5bf0fdacd2.apps.iocnt.de^
@@ -129,6 +126,7 @@
 ||data-13d258638d.freiepresse.de^
 ||data-13e75de547.labo.de^
 ||data-143ac31e30.brocken.de^
+||data-143ac31e30.radio-brocken.com^
 ||data-143ac31e30.radiobrocken.com^
 ||data-143ac31e30.radiobrocken.de^
 ||data-151922e62d.euskirchen.de^
@@ -614,6 +612,7 @@
 ||data-4f2efe538c.einfachbacken.de^
 ||data-4f77096dc0.brocken.de^
 ||data-4f77096dc0.radio-brocken.de^
+||data-4f77096dc0.radiobrocken.com^
 ||data-4fa18eb5e3.zvw.de^
 ||data-4fec147c37.agrarheute.com^
 ||data-501446ac98.einfachtierisch.de^
@@ -1032,6 +1031,7 @@
 ||data-908fd409d9.special-harninkontinenz.de^
 ||data-908fd409d9.special-rueckenschmerz.de^
 ||data-9090cf2efa.impulse.de^
+||data-90b8b64b92.omnibusrevue.de^
 ||data-90cb6242e4.fuersie.de^
 ||data-90cb6242e4.idee-fuer-mich.de^
 ||data-9118f4b584.apps.iocnt.de^
@@ -1292,6 +1292,7 @@
 ||data-b622eb90d0.apps.iocnt.de^
 ||data-b629679828.apps.iocnt.de^
 ||data-b640a0ce46.connect.de^
+||data-b7311f797c.fnweb.de^
 ||data-b784e2dbb0.echo24.de^
 ||data-b7d0b4217b.autoscout24.bg^
 ||data-b7d0b4217b.autoscout24.com^
@@ -1315,6 +1316,7 @@
 ||data-b8625c5378.lz-trauer.de^
 ||data-b8625c5378.lz.de^
 ||data-b8f9ef66dc.hogapage.at^
+||data-b8f9ef66dc.hogapage.ch^
 ||data-b8f9ef66dc.hogapage.de^
 ||data-b944c1dba9.horizont.net^
 ||data-b9680e0592.deutschesapothekenportal.de^
@@ -1446,6 +1448,7 @@
 ||data-cdc9d8aabf.dbz.de^
 ||data-ce0e6fdeb3.apps.iocnt.de^
 ||data-ce326d00f8.aero.de^
+||data-ce326d00f8.aerokurier-markt.de^
 ||data-ce326d00f8.aerokurier.de^
 ||data-ce326d00f8.flugrevue.de^
 ||data-ce54b2d2bd.apps.iocnt.de^
@@ -1713,6 +1716,7 @@
 ||data-f23c020f78.apps.iocnt.de^
 ||data-f23d588bea.hamburg.de^
 ||data-f27acaf339.haustechnikdialog.de^
+||data-f2fef0ab45.rhoenundstreubote.de^
 ||data-f3bb5f7732.infranken.de^
 ||data-f3fe376ba8.allgaeuer-zeitung.de^
 ||data-f41b8197e7.obermain.de^
@@ -1870,6 +1874,8 @@
 ||data-ff5b197ecc.traceparts.com^
 ||data-ff6ba35ab1.cash-online.de^
 ||data-ff95894520.apps.iocnt.de^
+||data-nl.computer-automation.de^
+||data-nl.connect-channel.de^
 ||data-nl.connect-professional.de^
 ||data-nl.elektroniknet.de^
 ||data-nl.tageskarte.io^

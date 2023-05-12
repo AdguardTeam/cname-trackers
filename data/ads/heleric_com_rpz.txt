@@ -1,8 +1,5 @@
 ;
 ; Company name: heleric.com
-;
-; heleric.com disguised trackers
-;
 aa.samaniclucked.com CNAME .
 ae.craccaanybody.com CNAME .
 ae.rackmanbehind.com CNAME .
@@ -16,6 +13,7 @@ au.bolloxcyclism.com CNAME .
 ax.mousmeetrike.com CNAME .
 ax.requotebatman.com CNAME .
 bb.vanhonker.com CNAME .
+bf.buffersling.com CNAME .
 bf.shodeoaters.com CNAME .
 bg.unbarbpoured.com CNAME .
 bh.twifoilperoxyl.com CNAME .
@@ -114,6 +112,7 @@ ks.dagamemisdeed.com CNAME .
 ku.arbacindiplex.com CNAME .
 ku.eftesthalms.com CNAME .
 kv.patenssabzi.com CNAME .
+kx.ragerystenchy.com CNAME .
 kz.rebakeassets.com CNAME .
 la.lamdensnip.com CNAME .
 lb.hyratesethic.com CNAME .
@@ -151,8 +150,10 @@ ok.ribworkstylus.com CNAME .
 or.alpieutieboy.com CNAME .
 ot.myotomyarkab.com CNAME .
 ou.laoosmesis.com CNAME .
+ou.samogonmarvy.com CNAME .
 oz.lokaforky.com CNAME .
 pb.shaledpaidle.com CNAME .
+pg.maftirkolo.com CNAME .
 pk.axitessubclei.com CNAME .
 pq.carlingquerent.com CNAME .
 pr.hefterunmete.com CNAME .
@@ -203,6 +204,7 @@ tm.hacklesovary.com CNAME .
 tm.tangasulfide.com CNAME .
 tp.parcbegulf.com CNAME .
 tr.impoundiranism.com CNAME .
+ts.toccatamotific.com CNAME .
 tt.smirkydiff.com CNAME .
 ul.sokesbarling.com CNAME .
 ul.spatingaegina.com CNAME .
@@ -210,6 +212,7 @@ um.sullageprancy.com CNAME .
 un.clobberkiliare.com CNAME .
 uo.tubaronunheler.com CNAME .
 ur.meteredrato.com CNAME .
+ur.olivetkneel.com CNAME .
 us.aghaneefigurae.com CNAME .
 uv.elymimontauk.com CNAME .
 ux.sapoaix.com CNAME .
@@ -236,8 +239,10 @@ ws.blondsdixie.com CNAME .
 wx.squetanonym.com CNAME .
 wz.bergallgenion.com CNAME .
 xb.subtextslypes.com CNAME .
+xb.sungzionism.com CNAME .
 xc.stupesinosine.com CNAME .
 xd.meritedyaws.com CNAME .
+xe.ioniumentomic.com CNAME .
 xl.demosbattik.com CNAME .
 xm.tinlikeil.com CNAME .
 xx.foetorsnudisms.com CNAME .

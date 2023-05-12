@@ -94,7 +94,6 @@
 | ablade.beauty | 0i0i0i0.com |
 | abracadabrahub.com | 0i0i0i0.com |
 | abutok.xyz | 0i0i0i0.com |
-| acdn.uploads.mobi | 0i0i0i0.com |
 | ad.animeitaly.org | 0i0i0i0.com |
 | ad.emule-island.eu | 0i0i0i0.com |
 | ad.pornutopia.org | 0i0i0i0.com |
@@ -204,6 +203,7 @@
 | bambao.xyz | 0i0i0i0.com |
 | banana.arabtoons.net | 0i0i0i0.com |
 | banana.emailon.top | 0i0i0i0.com |
+| bangute.xyz | 0i0i0i0.com |
 | bc6dc48b743dc5d01.clicknplay.to | 0i0i0i0.com |
 | bddd.javmilk.org | 0i0i0i0.com |
 | biakico.mom | 0i0i0i0.com |
@@ -263,6 +263,7 @@
 | dam.tucsun.mom | 0i0i0i0.com |
 | dashboard.fc2ppv.buzz | 0i0i0i0.com |
 | data.bangtubevideos.com | 0i0i0i0.com |
+| data.streamtape.com | 0i0i0i0.com |
 | ddddd.javmilk.org | 0i0i0i0.com |
 | deliver.vkcdnservice.com | 0i0i0i0.com |
 | digiadzone.com | 0i0i0i0.com |
@@ -395,6 +396,7 @@
 | m9xp1.hentaigold.net | 0i0i0i0.com |
 | maizour.mom | 0i0i0i0.com |
 | mangaad.xyz | 0i0i0i0.com |
+| mangoga.xyz | 0i0i0i0.com |
 | marcusdevs.ru | 0i0i0i0.com |
 | maxcdn.dmm-video.online | 0i0i0i0.com |
 | maxhold.xyz | 0i0i0i0.com |
@@ -490,7 +492,6 @@
 | qoqv.com | 0i0i0i0.com |
 | qoutec.shop | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
-| quaz.viaoz.xyz | 0i0i0i0.com |
 | qx0.xnxxtubevideos.com | 0i0i0i0.com |
 | ramosz.lol | 0i0i0i0.com |
 | redi.teengirl-pics.com | 0i0i0i0.com |
@@ -628,6 +629,7 @@
 | xn--q1a.bloblohub.com | 0i0i0i0.com |
 | xs213.javgg.club | 0i0i0i0.com |
 | xserve.zapurl.cc | 0i0i0i0.com |
+| xxx.sdtraff.com | 0i0i0i0.com |
 | xxxddd.baijav.com | 0i0i0i0.com |
 | xxxlove.rooski.net | 0i0i0i0.com |
 | xzillame.com | 0i0i0i0.com |
@@ -642,6 +644,4 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| h-ay.com | u53.hypnorat.com |
-| ontj.com | u53.hypnorat.com |
 | qoqv.com | u53.hypnorat.com |

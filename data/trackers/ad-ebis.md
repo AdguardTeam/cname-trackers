@@ -139,7 +139,6 @@
     * 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp
     * 7af5d4ff-q4vseaye.cname.ebis.ne.jp
     * 7d014781-4z4kfqrd.cname.ebis.ne.jp
-    * 7e8d4dd2-fgpe2gow.cname.ebis.ne.jp
     * 7f2d566c-fwvdyp7a.cname.ebis.ne.jp
     * 8084b5d3-mqxnlcy4.cname.ebis.ne.jp
     * 80ad1e32-pvfpecyh.cname.ebis.ne.jp
@@ -429,7 +428,6 @@
 | cname-adebis.vcube.com | 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp |
 | ebis.radish-pocket.com | 7af5d4ff-q4vseaye.cname.ebis.ne.jp |
 | mcad.mods-clinic.com | 7d014781-4z4kfqrd.cname.ebis.ne.jp |
-| adex.jrwp-arimatsu34.com | 7e8d4dd2-fgpe2gow.cname.ebis.ne.jp |
 | matsubun.matsubun.com | 7f2d566c-fwvdyp7a.cname.ebis.ne.jp |
 | cname.mebiusseiyaku.co.jp | 8084b5d3-mqxnlcy4.cname.ebis.ne.jp |
 | adebis.qeee.jp | 80ad1e32-pvfpecyh.cname.ebis.ne.jp |

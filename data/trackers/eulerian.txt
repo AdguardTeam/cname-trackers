@@ -1,8 +1,5 @@
 !
 ! Company name: Eulerian
-!
-! eulerian.net disguised trackers
-!
 ||0sbm.consobaby.co.uk^
 ||16ao.mathon.fr^
 ||1bva.societegenerale.fr^
@@ -134,6 +131,7 @@
 ||ea.lespagnedunordausud.fr^
 ||ea.megustaleer.com.pe^
 ||ea.melijoe.com^
+||ea.millet-mountain.ch^
 ||ea.millet-mountain.com^
 ||ea.millet-mountain.de^
 ||ea.millet.fr^
@@ -186,6 +184,7 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
+||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||et.sncf.com^
 ||et.swatch.com^
@@ -368,6 +367,7 @@
 ||qal0.destinia.gr^
 ||qfo.eurotierce.be^
 ||qjg4.destinia.asia^
+||qpc4.visilab.ch^
 ||qpl9.destinia.dk^
 ||qsl1.refleximmo.com^
 ||qtj0.destinia.pl^
@@ -483,28 +483,10 @@
 ||zsi7.destinia.do^
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
-!
-! aca.ca-eulerian.net disguised trackers
-!
-||5fm.985fm.ca^
 ||b1n.carabins.umontreal.ca^
-||c0i.ckoi.com^
-||c0p.cepsum.umontreal.ca^
-||eat9.thebeat925.ca^
-||erb.tremblant.ca^
 ||hk2d.tourismemauricie.com^
 ||m10.m1029.com^
 ||nym5c.bonlook.com^
-||ry0.rythmefm.com^
-||t0y.toyota.ca^
 ||www.mis.tourisme-montreal.org^
-!
-! e.emailretargeting.com disguised trackers
-!
 ||ea.mnt.fr^
-!
-! bca.ca-eulerian.net disguised trackers
-!
 ||gi7a.structube.com^
-||nym5c.laura.ca^
-||pk1u.melanielyne.com^

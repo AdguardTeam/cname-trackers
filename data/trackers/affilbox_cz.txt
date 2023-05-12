@@ -1,8 +1,5 @@
 !
 ! Company name: affilbox.cz
-!
-! cz.affilbox.cz disguised trackers
-!
 ||abox.simpleshop.cz^
 ||aff.faircredit.cz^
 ||aff.pujckajonatan.cz^
@@ -182,6 +179,7 @@
 ||affiliate.lg-store.cz^
 ||affiliate.loveo.cz^
 ||affiliate.manvel.cz^
+||affiliate.martinreznicek.cz^
 ||affiliate.milagro.cz^
 ||affiliate.mobilonline.sk^
 ||affiliate.mojemincovna.cz^
@@ -290,6 +288,7 @@
 ||my.11teamsports.pl^
 ||my.11teamsports.pt^
 ||my.11teamsports.ro^
+||my.11teamsports.se^
 ||my.11teamsports.si^
 ||my.11teamsports.sk^
 ||my.fr.top4fitness.be^
@@ -602,7 +601,6 @@
 ||partner.webareal.sk^
 ||partner.webrebel.sk^
 ||partner.webskicak.cz^
-||partner.websusmevem.cz^
 ||partner.whoopdedoo.cz^
 ||partner.whoopdedoo.love^
 ||partner.xbx.cz^
@@ -721,6 +719,7 @@
 ||partneri.vashop.cz^
 ||partneri.viadelicia.cz^
 ||partneri.vitaon.cz^
+||partneri.volny-termin.cz^
 ||partneri.vyzvaproimunitu.cz^
 ||partneri.way4life.cz^
 ||partneri.webmeeting.cz^
@@ -734,6 +733,7 @@
 ||partneri.zkustenzvuk.cz^
 ||partners.almaf.cz^
 ||partners.duckferries.com^
+||partners.elitecoaching.cz^
 ||partners.lawofattraction.cz^
 ||partners.oktagon.tv^
 ||partners.pocitarna.cz^
@@ -759,6 +759,7 @@
 ||provizia.vitalitypradlo.sk^
 ||proviznisystem.kanclir.cz^
 ||rek.rybizak.cz^
+||royalfamily.royalchaga.sk^
 ||special.kvetinyexpres.cz^
 ||spolu.kuskakaa.cz^
 ||spoluprace.blackkale.cz^
@@ -771,7 +772,6 @@
 ||spoluprace.majka-shop.cz^
 ||spoluprace.mentorkalucie.cz^
 ||spoluprace.obchod-setrilek.cz^
-||spoluprace.pohybovka.cz^
 ||spoluprace.potravinyarax.cz^
 ||spoluprace.terrapotheka.cz^
 ||spoluprace.vcelarstvi-domovina.cz^
@@ -781,11 +781,5 @@
 ||www.affilo.cz^
 ||www.partner.hubatacernoska.cz^
 ||www.partneri.zuzanaondrisova.sk^
-!
-! c4924.affilbox.cz disguised trackers
-!
 ||affiliate.kulturistika.com^
-!
-! c771.affilbox.cz disguised trackers
-!
 ||partner.janapekna.cz^

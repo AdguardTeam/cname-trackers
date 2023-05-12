@@ -1,8 +1,5 @@
 ;
 ; Company name: Clickaine
-;
-; api.clickaine.com disguised trackers
-;
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
 ad1.xero.porn CNAME .
@@ -69,6 +66,7 @@ dr1.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
 faq.brandnewapp.pro CNAME .
 flare.vtube.to CNAME .
+ge6.getfto.com CNAME .
 get.xclick24.com CNAME .
 go.lize.bid CNAME .
 hruk.afguk.top CNAME .

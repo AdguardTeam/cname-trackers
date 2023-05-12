@@ -1,8 +1,5 @@
 !
 ! Company name: Parse.ly
-!
-! parsely.com disguised trackers
-!
 ||fpa-api.adweek.com^
 ||fpa-api.arstechnica.com^
 ||fpa-cdn.adweek.com^

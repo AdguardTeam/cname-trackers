@@ -1,8 +1,5 @@
 !
 ! Company name: NameSilo
-!
-! ab1n.net disguised trackers
-!
 ||10.notify.bizonads-ssp.com^
 ||1109.notify.optimizesrv.com^
 ||12.notify.bizonads-ssp.com^
@@ -64,6 +61,7 @@
 ||3180144.notifysrv.com^
 ||3180146.notifysrv.com^
 ||3180154.notifysrv.com^
+||3180164.notifysrv.com^
 ||3180172.notifysrv.com^
 ||3180616.notify6.com^
 ||3180622.notifysrv.com^
@@ -163,6 +161,7 @@
 ||3246524.notifysrv.com^
 ||3249470.notifysrv.com^
 ||3249648.notify6.com^
+||3250420.notify6.com^
 ||3258452.notifysrv.com^
 ||3260930.notifysrv.com^
 ||3263912.notifysrv.com^
@@ -547,6 +546,7 @@
 ||3648599.notifysrv.com^
 ||3653689.notify6.com^
 ||3658633.notifysrv.com^
+||3661193.notify6.com^
 ||3662555.notifysrv.com^
 ||3662557.notifysrv.com^
 ||3662563.notifysrv.com^
@@ -764,6 +764,7 @@
 ||4795280.notify6.com^
 ||4795320.notify6.com^
 ||4795534.notify6.com^
+||4795570.notify6.com^
 ||4798638.notify6.com^
 ||4799078.notify6.com^
 ||4801186.notify6.com^
@@ -808,17 +809,15 @@
 ||_sips._tcp.3323174.notifysrv.com^
 ||a.a3ion.com^
 ||a.ad.guru^
-||a.addisplaynetwork.com^
 ||a.etology.com^
 ||a.paradoxgroup.uk^
 ||a.redpathmedia.com^
-||a.santabrowser.com^
 ||a.stuffserve.com^
+||admin.adnation.com^
 ||admin.shafttraffic.com^
 ||api.adnation.com^
 ||delivery.gettopple.com^
 ||engine.gettopple.com^
-||m.hst2y.com^
 ||m.hue2a.com^
 ||m.optnx.com^
 ||main.adxnow.com^
@@ -885,7 +884,6 @@
 ||syndication.dynsrvwer.com^
 ||syndication.elink12.com^
 ||syndication.elink66.com^
-||syndication.elink77.com^
 ||syndication.epcmh.com^
 ||syndication.epcmk.com^
 ||syndication.exdynsrv.com^
@@ -894,7 +892,6 @@
 ||syndication.jsadapi.com^
 ||syndication.link2zz.com^
 ||syndication.link5c.com^
-||syndication.link5v.com^
 ||syndication.linkfryn.com^
 ||syndication.linkgett.com^
 ||syndication.linkwitt.com^
@@ -903,27 +900,13 @@
 ||syndication.realsrv.com^
 ||syndication.whibd.com^
 ||syndication.whibp.com^
-!
-! cds.d6n9n7e2.hwcdn.net disguised trackers
-!
-||a.a3ion.com^
-||a.ad.guru^
 ||a.addisplaynetwork.com^
 ||a.adnflow.com^
 ||a.asvsm.com^
 ||a.bizonads-ssp.com^
-||a.etology.com^
-||a.paradoxgroup.uk^
-||a.redpathmedia.com^
+||a.santabrowser.com^
 ||a.slice.exchange^
-||a.stuffserve.com^
-||delivery.gettopple.com^
-!
-! cds.v3j9t5q9.hwcdn.net disguised trackers
-!
 ||admin.ad.guru^
-||admin.adnation.com^
 ||admin.adstuff.io^
 ||admin.etology.com^
 ||admin.gettopple.com^
-||admin.shafttraffic.com^

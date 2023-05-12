@@ -1,8 +1,5 @@
 ;
 ; Company name: TraceDock
-;
-; a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com disguised trackers
-;
 2tty.overstappen.nl CNAME .
 bc.semwerkt.nl CNAME .
 cms.hardloopaanbiedingen.nl CNAME .
@@ -10,22 +7,12 @@ ee.impactextend.dk CNAME .
 en.johnhardy.com CNAME .
 o2.ikontwerpflyers.nl CNAME .
 s1.carnext.com CNAME .
-;
-; a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com disguised trackers
-;
-; no domains found for a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
-;
-; a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com disguised trackers
-;
 api.bunzlaucastle.com CNAME .
 tdep.bunzlonline.nl CNAME .
 tdep.suncamp.be CNAME .
 tdep.suncamp.de CNAME .
 tdep.suncamp.nl CNAME .
 tdep.suncamp.pl CNAME .
-;
-; afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com disguised trackers
-;
 app1.maatwerkonline.nl CNAME .
 box.bossdata.be CNAME .
 erp.qwic.nl CNAME .

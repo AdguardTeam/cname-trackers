@@ -10,7 +10,6 @@
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
-    * aol.extole.com
     * app.extole.com
     * backcountry.extole.com
     * barenecessities.extole.com
@@ -232,6 +231,7 @@
     * empathywines.extole.io
     * empire-today.extole.io
     * eset.extole.io
+    * estee-lauder-ca.extole.io
     * esteelauder-au.extole.io
     * esteelauder-kr.extole.io
     * esteelauder.extole.io
@@ -534,7 +534,6 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
-| refer.aol.com | aol.extole.com |
 | refer.hpso.com | aon.extole.io |
 | refer.nso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
@@ -671,6 +670,7 @@
 | share.empathywines.com | empathywines.extole.io |
 | refer.empiretoday.com | empire-today.extole.io |
 | refer.eset.com | eset.extole.io |
+| share.refer-esteelauder.ca | estee-lauder-ca.extole.io |
 | share.esteelauder.com.au | esteelauder-au.extole.io |
 | share.esteelauder.co.kr | esteelauder-kr.extole.io |
 | share.esteelauder.com.tw | esteelauder.extole.io |
@@ -711,6 +711,7 @@
 | share.enterprisenews.com | gannett.extole.io |
 | share.floridatoday.com | gannett.extole.io |
 | share.freep.com | gannett.extole.io |
+| share.independentmail.com | gannett.extole.io |
 | share.knoxnews.com | gannett.extole.io |
 | share.mansfieldnewsjournal.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
@@ -725,6 +726,7 @@
 | share.tallahassee.com | gannett.extole.io |
 | share.tauntongazette.com | gannett.extole.io |
 | share.tcpalm.com | gannett.extole.io |
+| share.telegram.com | gannett.extole.io |
 | share.thenorthwestern.com | gannett.extole.io |
 | share.usatoday.com | gannett.extole.io |
 | share.vcstar.com | gannett.extole.io |

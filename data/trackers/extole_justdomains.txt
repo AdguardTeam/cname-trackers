@@ -1,8 +1,5 @@
 #
 # Company name: Extole
-#
-# extole.com disguised trackers
-#
 amis.keurig.ca
 chubclub.chubbiesshorts.com
 francais.refer.vonage.ca
@@ -20,7 +17,6 @@ refer.ahsfriends.com
 refer.american-giant.com
 refer.americanexpress.com
 refer.ancestry.com
-refer.aol.com
 refer.app.com
 refer.backcountry.com
 refer.barenecessities.com
@@ -116,9 +112,6 @@ sharethelove.teacollection.com
 tellapal.register.com
 tellapal.web.com
 www.trevoce.com
-#
-# extole.io disguised trackers
-#
 amp.bfr.com
 demo.extole.com
 earn-and-refer.extoleu.com
@@ -460,6 +453,7 @@ share.hicapitalize.com
 share.hotwire.com
 share.hydropeptide.com
 share.imagemarket.com
+share.independentmail.com
 share.inspirecleanenergy.com
 share.installamerica.com
 share.iteach.net
@@ -512,6 +506,7 @@ share.refer-bumbleandbumble.co.uk
 share.refer-bumbleandbumble.com
 share.refer-darphin.com
 share.refer-darphin.fr
+share.refer-esteelauder.ca
 share.refer-glamglow.com
 share.refer-maccosmetics.ca
 share.refer-maccosmetics.co.uk
@@ -548,6 +543,7 @@ share.tallahassee.com
 share.tauntongazette.com
 share.tcpalm.com
 share.teachersfcu.org
+share.telegram.com
 share.thenorthwestern.com
 share.theory.com
 share.theoryoutlet.com
@@ -574,16 +570,7 @@ share.wombatinvest.com
 share.zebit.com
 share.zenbusiness.com
 www.referquickbooks.com
-#
-# u82658.wl159.sendgrid.net disguised trackers
-#
 em1476.princesscruises.com
 em8561.go2bank.com
-#
-# media-router-aol1.prod.g03.yahoodns.net disguised trackers
-#
 refer.aol.com
-#
-# s-ec30e63e423445779.server.transfer.us-east-1.amazonaws.com disguised trackers
-#
 sftp.extole.com

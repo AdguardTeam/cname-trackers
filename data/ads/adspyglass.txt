@@ -1,8 +1,5 @@
 !
 ! Company name: AdSpyglass
-!
-! 0i0i0i0.com disguised trackers
-!
 ||0.oldgyhogola.com^
 ||0i.iqostaiwan.com^
 ||0i.sh-cdn.com^
@@ -83,7 +80,6 @@
 ||ablade.beauty^
 ||abracadabrahub.com^
 ||abutok.xyz^
-||acdn.uploads.mobi^
 ||ad.animeitaly.org^
 ||ad.emule-island.eu^
 ||ad.pornutopia.org^
@@ -193,6 +189,7 @@
 ||bambao.xyz^
 ||banana.arabtoons.net^
 ||banana.emailon.top^
+||bangute.xyz^
 ||bc6dc48b743dc5d01.clicknplay.to^
 ||bddd.javmilk.org^
 ||biakico.mom^
@@ -252,6 +249,7 @@
 ||dam.tucsun.mom^
 ||dashboard.fc2ppv.buzz^
 ||data.bangtubevideos.com^
+||data.streamtape.com^
 ||ddddd.javmilk.org^
 ||deliver.vkcdnservice.com^
 ||digiadzone.com^
@@ -387,6 +385,7 @@
 ||maizour.mom^
 ||makumva.all-usanomination.com^
 ||mangaad.xyz^
+||mangoga.xyz^
 ||marcusdevs.ru^
 ||maxcdn.dmm-video.online^
 ||maxhold.xyz^
@@ -483,7 +482,6 @@
 ||qoqv.com^
 ||qoutec.shop^
 ||qsdr.mysunnylawn.com^
-||quaz.viaoz.xyz^
 ||qx0.xnxxtubevideos.com^
 ||ramosz.lol^
 ||redi.teengirl-pics.com^
@@ -622,6 +620,7 @@
 ||xn--q1a.bloblohub.com^
 ||xs213.javgg.club^
 ||xserve.zapurl.cc^
+||xxx.sdtraff.com^
 ||xxxddd.baijav.com^
 ||xxxlove.rooski.net^
 ||xzillame.com^
@@ -630,13 +629,4 @@
 ||z0000g.yvmads.com^
 ||zazu.vtube.to^
 ||zzzzaaa.baijav.com^
-!
-! cdn66584302.blazingcdn.net disguised trackers
-!
 ||cdn.manhwadesu.me^
-!
-! u53.hypnorat.com disguised trackers
-!
-||h-ay.com^
-||ontj.com^
-||qoqv.com^

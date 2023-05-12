@@ -1,8 +1,5 @@
 !
 ! Company name: NP6
-!
-! tracking.bp01.net disguised trackers
-!
 ||emailing.casden.banquepopulaire.fr^
 ||epm.mailperformance.com^
 ||mailtracking.tf1.com^
@@ -137,6 +134,7 @@
 ||tr.clienti.younited-credit.it^
 ||tr.clients-mediametrie.fr^
 ||tr.clients.boursorama.info^
+||tr.clients.europrogres.fr^
 ||tr.clients.gemy.fr^
 ||tr.clients.idaia.group^
 ||tr.cnaf.espmp-nifr.net^
@@ -323,6 +321,7 @@
 ||tr.forum.veuveclicquot.fr^
 ||tr.fr.pro.accor.com^
 ||tr.france.plimsoll.fr^
+||tr.french-tax-compliance-booking.com^
 ||tr.futurecommerce.moethennessy.com^
 ||tr.gap-fr.fr^
 ||tr.gdfsuez-globalenergy.info^
@@ -353,6 +352,7 @@
 ||tr.info-btob-leaders.com^
 ||tr.info-carte.fr^
 ||tr.info-companeo.be^
+||tr.info-fr.assurant.com^
 ||tr.info-pro.promoneuve.fr^
 ||tr.info-strategie.fr^
 ||tr.info.actionlogement.fr^
@@ -617,6 +617,7 @@
 ||tr.news.jautomatise.com^
 ||tr.news.kalivet.com^
 ||tr.news.kpmg-avocats.fr^
+||tr.news.kpmgacademy.fr^
 ||tr.news.kpmgnet.fr^
 ||tr.news.kuhn.com^
 ||tr.news.la-collectionairfrance.fr^
@@ -690,7 +691,9 @@
 ||tr.news2pjms.fr^
 ||tr.news5.cdiscount.com^
 ||tr.news6.cdiscount.com^
+||tr.newsletter-habitat.com^
 ||tr.newsletter-stressless.com^
+||tr.newsletter.actalians.fr^
 ||tr.newsletter.afpa.fr^
 ||tr.newsletter.assuragency.net^
 ||tr.newsletter.astro-mail.com^
@@ -867,9 +870,6 @@
 ||tr.think.lvmh.fr^
 ||tr.thisiseurope.moethennessy.com^
 ||tr.tns.harmonie-mutuelle.fr^
-||tr.toner-service.fr^
-||tr.toner-services.fr^
-||tr.tonerservices.fr^
 ||tr.tourisme.visit-lanarbonnaise.com^
 ||tr.tpe.harmonie-mutuelle.fr^
 ||tr.trafficnews.lyria.com^
@@ -931,9 +931,6 @@
 ||tr5.mailperf.com^
 ||tracking.allopneus.com^
 ||www.tr.bfc-mp.caisse-epargne.fr^
-!
-! form.bp01.net disguised trackers
-!
 ||cotemaison.np6.com^
 ||f1.demo.np6.com^
 ||f1.mailperf.com^

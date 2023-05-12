@@ -1,8 +1,5 @@
 #
 # Company name: Plausible Analytics
-#
-# custom.plausible.io disguised trackers
-#
 a-api.skz.dev
 a.aawp.de
 a.ctd.ai
@@ -60,13 +57,13 @@ analytics.southjerseyquakers.org
 analytics.ss88.us
 analytics.surov.fi
 analytics.teamcovenant.com
-analytics.tilikum.io
 analytics.top10-charts.com
 analytics.trust.page
 analytics.uxmetrics.com
 analytics.valheimgamer.com
 analytics.vanilla-project.guide
 analytics.wayland.app
+analytics.wetfish.com.au
 analytics.whotargets.me
 analytics.winter.ink
 analytics.wittypen.com
@@ -128,7 +125,6 @@ hurricane.tinybird.co
 hype.zlipa.com
 informatics.filamentcolors.xyz
 insights.affilimate.com
-insights.frenchtogether.com
 insights.growwithless.com
 joy.ochronus.online
 kaladyaudiology.ericksonbuilt.com
@@ -257,6 +253,7 @@ plausible.flowcv.io
 plausible.flowhr.io
 plausible.food.game
 plausible.getawaywarrior.com
+plausible.getlean.digital
 plausible.giveatip.io
 plausible.goldanger.de
 plausible.golfbreaks.com
@@ -284,7 +281,6 @@ plausible.nuqu.org
 plausible.panic.com
 plausible.phuctm97.com
 plausible.play.date
-plausible.prod.sketch.com
 plausible.promlens.com
 plausible.prufit.co
 plausible.pumpkint.com
@@ -479,7 +475,6 @@ stats.chomp.haus
 stats.chronoslabs.net
 stats.cinqsecondes.fr
 stats.citizenos.com
-stats.clarizent.com
 stats.clavisaurea.xyz
 stats.cleverdiabetic.com
 stats.cloud-backup-for-podio.com
@@ -628,6 +623,7 @@ stats.gtnetworks.com
 stats.guersanguillaume.com
 stats.guidingwallet.app
 stats.hackershare.dev
+stats.halcyon.hr
 stats.hammertime.me
 stats.hauke.me
 stats.headhunted.com.au
@@ -689,6 +685,7 @@ stats.jtrees.io
 stats.juneum.com
 stats.juniperslab.com
 stats.justinwilliams.ca
+stats.kaladyaudiology.com
 stats.kalkulatordniroboczych.pl
 stats.kambr.io
 stats.karenstiller.com
@@ -924,6 +921,7 @@ stats.www.agirpourlenvironnement.org
 stats.wymanmobilenotary.com
 stats.xactcode.com
 stats.xn--drivation-b4a.fr
+stats.yourdallashandyman.com
 stats.zimri.net
 sts.authramp.com
 sts.tour-europe.org

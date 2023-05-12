@@ -153,6 +153,7 @@
 | tr.clienti.younited-credit.it | tracking.bp01.net |
 | tr.clients-mediametrie.fr | tracking.bp01.net |
 | tr.clients.boursorama.info | tracking.bp01.net |
+| tr.clients.europrogres.fr | tracking.bp01.net |
 | tr.clients.gemy.fr | tracking.bp01.net |
 | tr.clients.idaia.group | tracking.bp01.net |
 | tr.cnaf.espmp-nifr.net | tracking.bp01.net |
@@ -339,6 +340,7 @@
 | tr.forum.veuveclicquot.fr | tracking.bp01.net |
 | tr.fr.pro.accor.com | tracking.bp01.net |
 | tr.france.plimsoll.fr | tracking.bp01.net |
+| tr.french-tax-compliance-booking.com | tracking.bp01.net |
 | tr.futurecommerce.moethennessy.com | tracking.bp01.net |
 | tr.gap-fr.fr | tracking.bp01.net |
 | tr.gdfsuez-globalenergy.info | tracking.bp01.net |
@@ -369,6 +371,7 @@
 | tr.info-btob-leaders.com | tracking.bp01.net |
 | tr.info-carte.fr | tracking.bp01.net |
 | tr.info-companeo.be | tracking.bp01.net |
+| tr.info-fr.assurant.com | tracking.bp01.net |
 | tr.info-pro.promoneuve.fr | tracking.bp01.net |
 | tr.info-strategie.fr | tracking.bp01.net |
 | tr.info.actionlogement.fr | tracking.bp01.net |
@@ -633,6 +636,7 @@
 | tr.news.jautomatise.com | tracking.bp01.net |
 | tr.news.kalivet.com | tracking.bp01.net |
 | tr.news.kpmg-avocats.fr | tracking.bp01.net |
+| tr.news.kpmgacademy.fr | tracking.bp01.net |
 | tr.news.kpmgnet.fr | tracking.bp01.net |
 | tr.news.kuhn.com | tracking.bp01.net |
 | tr.news.la-collectionairfrance.fr | tracking.bp01.net |
@@ -706,7 +710,9 @@
 | tr.news2pjms.fr | tracking.bp01.net |
 | tr.news5.cdiscount.com | tracking.bp01.net |
 | tr.news6.cdiscount.com | tracking.bp01.net |
+| tr.newsletter-habitat.com | tracking.bp01.net |
 | tr.newsletter-stressless.com | tracking.bp01.net |
+| tr.newsletter.actalians.fr | tracking.bp01.net |
 | tr.newsletter.afpa.fr | tracking.bp01.net |
 | tr.newsletter.assuragency.net | tracking.bp01.net |
 | tr.newsletter.astro-mail.com | tracking.bp01.net |
@@ -883,9 +889,6 @@
 | tr.think.lvmh.fr | tracking.bp01.net |
 | tr.thisiseurope.moethennessy.com | tracking.bp01.net |
 | tr.tns.harmonie-mutuelle.fr | tracking.bp01.net |
-| tr.toner-service.fr | tracking.bp01.net |
-| tr.toner-services.fr | tracking.bp01.net |
-| tr.tonerservices.fr | tracking.bp01.net |
 | tr.tourisme.visit-lanarbonnaise.com | tracking.bp01.net |
 | tr.tpe.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |

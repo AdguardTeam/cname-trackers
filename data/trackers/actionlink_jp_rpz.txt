@@ -1,8 +1,5 @@
 ;
 ; Company name: Actionlink.jp
-;
-; mm.actionlink.jp disguised trackers
-;
 actionlk.ozie.co.jp CNAME .
 al.ballon.jp CNAME .
 al.caetus.jp CNAME .
@@ -13,6 +10,7 @@ al.fulcloset.jp CNAME .
 al.ganzo.ne.jp CNAME .
 al.germanpet.com CNAME .
 al.junior-onlineshop.jp CNAME .
+al.kagukuro.com CNAME .
 al.kbwine.com CNAME .
 al.kirario.jp CNAME .
 al.mitsubachi-note.com CNAME .

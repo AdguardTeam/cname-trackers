@@ -1,8 +1,5 @@
 ;
 ; Company name: Plausible Analytics
-;
-; custom.plausible.io disguised trackers
-;
 a-api.skz.dev CNAME .
 a.aawp.de CNAME .
 a.ctd.ai CNAME .
@@ -60,13 +57,13 @@ analytics.southjerseyquakers.org CNAME .
 analytics.ss88.us CNAME .
 analytics.surov.fi CNAME .
 analytics.teamcovenant.com CNAME .
-analytics.tilikum.io CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
 analytics.valheimgamer.com CNAME .
 analytics.vanilla-project.guide CNAME .
 analytics.wayland.app CNAME .
+analytics.wetfish.com.au CNAME .
 analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
 analytics.wittypen.com CNAME .
@@ -128,7 +125,6 @@ hurricane.tinybird.co CNAME .
 hype.zlipa.com CNAME .
 informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
-insights.frenchtogether.com CNAME .
 insights.growwithless.com CNAME .
 joy.ochronus.online CNAME .
 kaladyaudiology.ericksonbuilt.com CNAME .
@@ -257,6 +253,7 @@ plausible.flowcv.io CNAME .
 plausible.flowhr.io CNAME .
 plausible.food.game CNAME .
 plausible.getawaywarrior.com CNAME .
+plausible.getlean.digital CNAME .
 plausible.giveatip.io CNAME .
 plausible.goldanger.de CNAME .
 plausible.golfbreaks.com CNAME .
@@ -284,7 +281,6 @@ plausible.nuqu.org CNAME .
 plausible.panic.com CNAME .
 plausible.phuctm97.com CNAME .
 plausible.play.date CNAME .
-plausible.prod.sketch.com CNAME .
 plausible.promlens.com CNAME .
 plausible.prufit.co CNAME .
 plausible.pumpkint.com CNAME .
@@ -479,7 +475,6 @@ stats.chomp.haus CNAME .
 stats.chronoslabs.net CNAME .
 stats.cinqsecondes.fr CNAME .
 stats.citizenos.com CNAME .
-stats.clarizent.com CNAME .
 stats.clavisaurea.xyz CNAME .
 stats.cleverdiabetic.com CNAME .
 stats.cloud-backup-for-podio.com CNAME .
@@ -628,6 +623,7 @@ stats.gtnetworks.com CNAME .
 stats.guersanguillaume.com CNAME .
 stats.guidingwallet.app CNAME .
 stats.hackershare.dev CNAME .
+stats.halcyon.hr CNAME .
 stats.hammertime.me CNAME .
 stats.hauke.me CNAME .
 stats.headhunted.com.au CNAME .
@@ -689,6 +685,7 @@ stats.jtrees.io CNAME .
 stats.juneum.com CNAME .
 stats.juniperslab.com CNAME .
 stats.justinwilliams.ca CNAME .
+stats.kaladyaudiology.com CNAME .
 stats.kalkulatordniroboczych.pl CNAME .
 stats.kambr.io CNAME .
 stats.karenstiller.com CNAME .
@@ -924,6 +921,7 @@ stats.www.agirpourlenvironnement.org CNAME .
 stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .
 stats.xn--drivation-b4a.fr CNAME .
+stats.yourdallashandyman.com CNAME .
 stats.zimri.net CNAME .
 sts.authramp.com CNAME .
 sts.tour-europe.org CNAME .

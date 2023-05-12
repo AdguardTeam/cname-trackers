@@ -12,6 +12,7 @@
     * h-1dwgke3d.online-metrix.net
     * h-1kcyydia.online-metrix.net
     * h-1lc506lh.online-metrix.net
+    * h-1ngztxrl.online-metrix.net
     * h-1qeo60mk.online-metrix.net
     * h-1qpcog32.online-metrix.net
     * h-1u7ubqzg.online-metrix.net
@@ -140,6 +141,7 @@
     * h-bfiiada3-a.online-metrix.net
     * h-bhs5fatf.online-metrix.net
     * h-biggerbooks.online-metrix.net
+    * h-blp4gupl.online-metrix.net
     * h-blueorangebank.online-metrix.net
     * h-bluevine.online-metrix.net
     * h-bmo.online-metrix.net
@@ -374,6 +376,7 @@
     * h-k8vif92e-pa.online-metrix.net
     * h-k8vif92e-pr.online-metrix.net
     * h-k8vif92e-si.online-metrix.net
+    * h-k8vif92e-sony2.online-metrix.net
     * h-k8vif92e.goto.online-metrix.net
     * h-k8vif92e.online-metrix.net
     * h-k8vif92e.qat.online-metrix.net
@@ -634,6 +637,7 @@
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
+| t.zinia.com | h-1ngztxrl.online-metrix.net |
 | prod-ascuaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cstonefcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -802,6 +806,7 @@
 | jplspr.jackpot.com | h-bfiiada3-a.online-metrix.net |
 | content.byabcd.com | h-bhs5fatf.online-metrix.net |
 | content.biggerbooks.com | h-biggerbooks.online-metrix.net |
+| checkout.walz.de | h-blp4gupl.online-metrix.net |
 | stat.blueorangebank.com | h-blueorangebank.online-metrix.net |
 | stat.bluorbank.lv | h-blueorangebank.online-metrix.net |
 | tm-analytics.bluevine.com | h-bluevine.online-metrix.net |
@@ -1134,6 +1139,7 @@
 | verify.philippineairlines.com | h-k8vif92e-pa.online-metrix.net |
 | cdncy.providentmetals.com | h-k8vif92e-pr.online-metrix.net |
 | cdncy.silver.com | h-k8vif92e-si.online-metrix.net |
+| payment.rewards.sony.com | h-k8vif92e-sony2.online-metrix.net |
 | cdn-east.purchase.goto.com | h-k8vif92e.goto.online-metrix.net |
 | cybersource.shoplineapp.com | h-k8vif92e.online-metrix.net |
 | qrimages.qatarairways.com | h-k8vif92e.qat.online-metrix.net |
@@ -1428,6 +1434,7 @@
 | lfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | mfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | nfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
+| ofp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | yfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | frp.intuit.com | h-v60nf4oj.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |
