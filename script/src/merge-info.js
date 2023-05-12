@@ -34,7 +34,7 @@ const mergeDomainsInfo = async (oldInfo, fetchedDomainsInfo) => {
             return { disguise, tracker };
         });
 
-    // transforms a list of key-value pairs form array into an object with pairs
+    // transforms a list of key-value pairs from array into an object with pairs
     const newInfo = Object.fromEntries(pairsToEntries(newInfoPairs));
 
     const removedDiff = getRemoved(oldInfo, newInfo);

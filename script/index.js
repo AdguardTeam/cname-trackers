@@ -42,7 +42,12 @@ const main = async () => {
     const oldRawData = await getOldData(allDataDirNames);
 
     // move the data directory to the temp directory
-    await fs.move(dataDir, backupDir);
+    // but first check if the temp directory exists
+    const doesBackupDirExist = await fs.pathExists(backupDir);
+    if (doesBackupDirExist) {
+        await fs.remove(backupDir);
+    }
+    fs.move(dataDir, backupDir);
 
     // read the config JSON file with trackers description
     const cloakingTrackersContent = await fs.readFile(

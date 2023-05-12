@@ -2,7 +2,9 @@ const {
     createBaseRule,
     createHostsRule,
     createRpzRule,
+    identity,
 } = require('./helpers');
+
 const { CONST_DATA } = require('./constants');
 
 /**
@@ -26,28 +28,23 @@ const buildRulesByType = (trackersData, type) => {
         `${CONST_DATA[type].commentMarker} Company name: ${companyName}`,
     ];
 
-    trackersInfoItems.forEach(({ domain_name: domainName, disguises }) => {
-        rulesChunks.push(CONST_DATA[type].commentMarker);
-        rulesChunks.push(`${CONST_DATA[type].commentMarker} ${domainName} disguised trackers`);
-        rulesChunks.push(CONST_DATA[type].commentMarker);
+    // get only disguised trackers items in array
+    // flattering and filter nullable values
+    const flattedDisguisedTrackers = trackersInfoItems
+        .flatMap((trackersItem) => trackersItem.disguises)
+        .filter(identity);
 
-        if (disguises && disguises.length > 0) {
-            // remove duplicates and order alphabetically
-            const uniqDisguises = [...new Set(disguises)].sort();
-            uniqDisguises.forEach((disguise) => {
-                let rule;
-                if (type === CONST_DATA.BASE.type) {
-                    rule = createBaseRule(disguise);
-                } else if (type === CONST_DATA.HOSTS.type) {
-                    rule = createHostsRule(disguise);
-                } else if (type === CONST_DATA.RPZ.type) {
-                    rule = createRpzRule(disguise);
-                }
-                rulesChunks.push(rule);
-            });
-        } else {
-            rulesChunks.push(`${CONST_DATA[type].commentMarker} no domains found for ${domainName}`);
+    // make rule chunks by type
+    new Set(flattedDisguisedTrackers).forEach((disguise) => {
+        let rule;
+        if (type === CONST_DATA.BASE.type) {
+            rule = createBaseRule(disguise);
+        } else if (type === CONST_DATA.HOSTS.type) {
+            rule = createHostsRule(disguise);
+        } else if (type === CONST_DATA.RPZ.type) {
+            rule = createRpzRule(disguise);
         }
+        rulesChunks.push(rule);
     });
 
     /* Ensure there is a newline at the end of RPZ files. */
