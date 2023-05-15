@@ -92,6 +92,7 @@ data-0d9eff53aa.kuhn-fachmedien.de
 data-0dc128409f.watchtime.net
 data-0de2e36f03.nitro-tv.de
 data-0e1ca78ad4.rw-textilservice.de
+data-0e6bbb5192.bibkat.de
 data-0e6bbb5192.eopac.net
 data-0e6bbb5192.lmscloud.net
 data-0e974e9c43.mt.de
@@ -554,6 +555,7 @@ data-47ee1b0882.osnabrueck.hall-of-fame.online
 data-47ee1b0882.ostseekino-kuehlungsborn.de
 data-47ee1b0882.roxy-kino.de
 data-47ee1b0882.saarfilm.net
+data-47ee1b0882.schanzenkino.de
 data-47ee1b0882.sg.das-lumen.de
 data-47ee1b0882.spreekino.de
 data-47ee1b0882.stadtsaal-kinos.de
@@ -582,6 +584,7 @@ data-497ecca600.wuppertaler-rundschau.de
 data-497f575d82.businessinsider.de
 data-49877903fc.apps.iocnt.de
 data-49a8877855.apps.iocnt.de
+data-49aef6b58e.shapeup-business.de
 data-49bb023f99.finanznachrichten.de
 data-49dc40e643.onvista.de
 data-4a575dad18.abendblatt.de
@@ -711,6 +714,7 @@ data-60d896f23d.dnn.de
 data-60d896f23d.gnz.de
 data-60d896f23d.goettinger-tageblatt.de
 data-60d896f23d.haz.de
+data-60d896f23d.kieler-nachrichten.de
 data-60d896f23d.kn-online.de
 data-60d896f23d.landeszeitung.de
 data-60d896f23d.ln-online.de
@@ -1159,6 +1163,7 @@ data-a06056e0a7.lz-trauer.de
 data-a06056e0a7.lz.de
 data-a06fecb5b2.apps.iocnt.de
 data-a0b1f67d32.gaeubote.de
+data-a0f0ae1310.gelbeseiten-schluesseldienst.de
 data-a0f0ae1310.gelbeseiten.de
 data-a0f0ae1310.goyellow.de
 data-a113f4b41d.trucker.de
@@ -1174,6 +1179,7 @@ data-a379a2e240.petbook.de
 data-a38e203a07.braunschweiger-zeitung.de
 data-a38e203a07.harzkurier.de
 data-a38e203a07.harztrauer.de
+data-a38e203a07.immo38.de
 data-a38e203a07.job38.de
 data-a38e203a07.konzertkasse.de
 data-a38e203a07.news38.de
@@ -1219,6 +1225,7 @@ data-a938ff636c.radioguetersloh.de
 data-a98482617b.holidaycheck.at
 data-a98482617b.holidaycheck.ch
 data-a98482617b.holidaycheck.de
+data-a9dcbfdd12.dk-online.de
 data-a9dcbfdd12.noz.de
 data-aa4a1f6eab.apps.iocnt.de
 data-aa70fe4f08.jam.fm
@@ -1483,10 +1490,12 @@ data-d4db30a18b.ga-online.de
 data-d4db30a18b.on-online.de
 data-d4db30a18b.oz-online.de
 data-d4dfa4bc2c.focus.de
+data-d4dfa4bc2c.weather.com
 data-d4ecb517ab.cinema.de
 data-d4ecb517ab.streampicker.de
 data-d4ecb517ab.tvspielfilm.de
 data-d4ecb517ab.tvtoday.de
+data-d5c733accc.infonline.de
 data-d5cb47d8e4.radiotop40.de
 data-d5d9e85944.textilwirtschaft.de
 data-d5efd1b9c0.dzonline.de
@@ -1527,6 +1536,7 @@ data-ddcae4625b.apps.iocnt.de
 data-ddecebdea5.storage-insider.de
 data-de83895c33.apps.iocnt.de
 data-dea12ffb25.prisma.de
+data-deb04a4388.wb-immo.de
 data-deb04a4388.wb-trauer.de
 data-deb04a4388.westfalen-blatt.de
 data-ded8e2c5ce.tga-fachplaner.de
@@ -1619,6 +1629,7 @@ data-ee807be806.radiobochum.de
 data-ee807be806.radioduisburg.de
 data-ee807be806.radioemscherlippe.de
 data-ee807be806.radioessen.de
+data-ee807be806.radiokw.de
 data-ee807be806.radiooberhausen.de
 data-ee807be806.radiosauerland.de
 data-ee807be806.reviersport.de
@@ -1754,6 +1765,7 @@ data-f59db3288b.giessener-anzeiger.de
 data-f59db3288b.hallo-muenchen.de
 data-f59db3288b.hanauer.de
 data-f59db3288b.heidelberg24.de
+data-f59db3288b.herbstfest-rosenheim.de
 data-f59db3288b.hersfelder-zeitung.de
 data-f59db3288b.hna.de
 data-f59db3288b.in-muenchen.de
@@ -1784,6 +1796,7 @@ data-f59db3288b.soester-anzeiger.de
 data-f59db3288b.torgranate.de
 data-f59db3288b.tz.de
 data-f59db3288b.usinger-anzeiger.de
+data-f59db3288b.volksfest-freising.de
 data-f59db3288b.wa.de
 data-f59db3288b.wasserburg24.de
 data-f59db3288b.webnachrichten.de

@@ -116,6 +116,7 @@ cmp.volkswagen.be CNAME .
 co-operative.activate.ensighten.com CNAME .
 coke.activate.ensighten.com CNAME .
 consent.irvinecompany.com CNAME .
+consent.irvinecompany.com.cdn.cloudflare.net CNAME .
 cookies.jll-mena.com CNAME .
 cookies.jll.ca CNAME .
 cookies.jll.ch CNAME .

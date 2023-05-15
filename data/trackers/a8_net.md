@@ -52,6 +52,7 @@
 | a8.chiyo-moni.com | trck.a8.net |
 | a8.choomia.com | trck.a8.net |
 | a8.clarah.jp | trck.a8.net |
+| a8.classicalelf.shop | trck.a8.net |
 | a8.clubgets.com | trck.a8.net |
 | a8.cocomeister.jp | trck.a8.net |
 | a8.coloria.jp | trck.a8.net |
@@ -138,6 +139,7 @@
 | a8.looop-denki.com | trck.a8.net |
 | a8.machino-housecleaning.com | trck.a8.net |
 | a8.makeshop.jp | trck.a8.net |
+| a8.mamaworks.jp | trck.a8.net |
 | a8.manara.jp | trck.a8.net |
 | a8.meon-by.gangnamdoll.jp | trck.a8.net |
 | a8.minion-wifi.com | trck.a8.net |
@@ -167,6 +169,7 @@
 | a8.otonayaki.com | trck.a8.net |
 | a8.outline-gym.com | trck.a8.net |
 | a8.papapa.baby | trck.a8.net |
+| a8.parcys.com | trck.a8.net |
 | a8.pb.dreampages.jp | trck.a8.net |
 | a8.pcnext.shop | trck.a8.net |
 | a8.pcrjapan.clinicnearme.jp | trck.a8.net |
@@ -350,6 +353,7 @@
 | a8clk.formasp.jp | trck.a8.net |
 | a8clk.francfranc.com | trck.a8.net |
 | a8clk.fromcocoro.com | trck.a8.net |
+| a8clk.fujisan.co.jp | trck.a8.net |
 | a8clk.fuku-chan.jp | trck.a8.net |
 | a8clk.funds.jp | trck.a8.net |
 | a8clk.geo-arekore.jp | trck.a8.net |
@@ -415,6 +419,7 @@
 | a8clk.mop.duskin-hozumi.co.jp | trck.a8.net |
 | a8clk.mouse-jp.co.jp | trck.a8.net |
 | a8clk.moving.a-tm.co.jp | trck.a8.net |
+| a8clk.mutukistyle.com | trck.a8.net |
 | a8clk.muumuu-domain.com | trck.a8.net |
 | a8clk.mynavi-creator.jp | trck.a8.net |
 | a8clk.mynavi-job20s.jp | trck.a8.net |
@@ -483,6 +488,7 @@
 | a8clk.sure-i.co.jp | trck.a8.net |
 | a8clk.t-fic.co.jp | trck.a8.net |
 | a8clk.takken-job.com | trck.a8.net |
+| a8clk.takuhai.daichi-m.co.jp | trck.a8.net |
 | a8clk.tamiyashop.jp | trck.a8.net |
 | a8clk.tanp.jp | trck.a8.net |
 | a8clk.tastytable-food.com | trck.a8.net |
@@ -917,6 +923,7 @@
 | ad.magokoro-care-shoku.com | trck.a8.net |
 | ad.rejichoice.jp | trck.a8.net |
 | ada8.ampleur.jp | trck.a8.net |
+| ads.dandelionchocolate.jp | trck.a8.net |
 | af.shozankan-shop.com | trck.a8.net |
 | afcv.champ-shop.com | trck.a8.net |
 | affa8.hikkoshi-master.com | trck.a8.net |

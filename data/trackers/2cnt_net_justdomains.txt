@@ -159,6 +159,7 @@ ssl-youseeiosstream.tns-gallup.dk
 youseeiosstream.tns-gallup.dk
 drtv-appletv.tns-gallup.dk
 ssl-drtv-appletv.tns-gallup.dk
+ssl-youseeandroidstream.tns-gallup.dk
 youseeandroidstream.tns-gallup.dk
 ebiam.tns-gallup.dk
 edc.tns-gallup.dk

@@ -219,6 +219,7 @@
 ||ux.withinshobbist.com^
 ||uy.mawseednoblest.com^
 ||va.ungracebaited.com^
+||vd.clipserelock.com^
 ||vd.scapemambu.com^
 ||vi.spratstatters.com^
 ||vn.finisbur.com^

@@ -41,6 +41,7 @@ a8.centarc.com CNAME .
 a8.chiyo-moni.com CNAME .
 a8.choomia.com CNAME .
 a8.clarah.jp CNAME .
+a8.classicalelf.shop CNAME .
 a8.clubgets.com CNAME .
 a8.cocomeister.jp CNAME .
 a8.coloria.jp CNAME .
@@ -127,6 +128,7 @@ a8.lens-ocean.com CNAME .
 a8.looop-denki.com CNAME .
 a8.machino-housecleaning.com CNAME .
 a8.makeshop.jp CNAME .
+a8.mamaworks.jp CNAME .
 a8.manara.jp CNAME .
 a8.meon-by.gangnamdoll.jp CNAME .
 a8.minion-wifi.com CNAME .
@@ -156,6 +158,7 @@ a8.onecoinenglish.com CNAME .
 a8.otonayaki.com CNAME .
 a8.outline-gym.com CNAME .
 a8.papapa.baby CNAME .
+a8.parcys.com CNAME .
 a8.pb.dreampages.jp CNAME .
 a8.pcnext.shop CNAME .
 a8.pcrjapan.clinicnearme.jp CNAME .
@@ -339,6 +342,7 @@ a8clk.formal.cariru.jp CNAME .
 a8clk.formasp.jp CNAME .
 a8clk.francfranc.com CNAME .
 a8clk.fromcocoro.com CNAME .
+a8clk.fujisan.co.jp CNAME .
 a8clk.fuku-chan.jp CNAME .
 a8clk.funds.jp CNAME .
 a8clk.geo-arekore.jp CNAME .
@@ -404,6 +408,7 @@ a8clk.mobile-norikae.com CNAME .
 a8clk.mop.duskin-hozumi.co.jp CNAME .
 a8clk.mouse-jp.co.jp CNAME .
 a8clk.moving.a-tm.co.jp CNAME .
+a8clk.mutukistyle.com CNAME .
 a8clk.muumuu-domain.com CNAME .
 a8clk.mynavi-creator.jp CNAME .
 a8clk.mynavi-job20s.jp CNAME .
@@ -472,6 +477,7 @@ a8clk.support-hoiku.com CNAME .
 a8clk.sure-i.co.jp CNAME .
 a8clk.t-fic.co.jp CNAME .
 a8clk.takken-job.com CNAME .
+a8clk.takuhai.daichi-m.co.jp CNAME .
 a8clk.tamiyashop.jp CNAME .
 a8clk.tanp.jp CNAME .
 a8clk.tastytable-food.com CNAME .
@@ -906,6 +912,7 @@ ad.kirara-support.jp CNAME .
 ad.magokoro-care-shoku.com CNAME .
 ad.rejichoice.jp CNAME .
 ada8.ampleur.jp CNAME .
+ads.dandelionchocolate.jp CNAME .
 af.shozankan-shop.com CNAME .
 afcv.champ-shop.com CNAME .
 affa8.hikkoshi-master.com CNAME .

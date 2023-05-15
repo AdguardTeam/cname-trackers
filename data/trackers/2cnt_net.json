@@ -312,6 +312,7 @@
   "ssl-welt.met.vgwort.de": "slb-vgwort-de-pool01.vgwort-de.2cnt.net",
   "ssl-wolterskluwer.met.vgwort.de": "slb-vgwort-de-pool01.vgwort-de.2cnt.net",
   "ssl-woman.tns-gallup.dk": "ssl-woman.tns-dk.2cnt.net",
+  "ssl-youseeandroidstream.tns-gallup.dk": "slb-tns-dk-pool08.tns-dk.2cnt.net",
   "ssl-youseeiosstream.tns-gallup.dk": "slb-tns-dk-pool02.tns-dk.2cnt.net",
   "ssl-youseestream.tns-gallup.dk": "slb-tns-dk-pool06.tns-dk.2cnt.net",
   "ssl-youseeteststream.tns-gallup.dk": "slb-tns-dk-pool07.tns-dk.2cnt.net",

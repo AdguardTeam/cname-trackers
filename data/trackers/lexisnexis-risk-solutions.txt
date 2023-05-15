@@ -159,6 +159,7 @@
 ||content.asurion53.com^
 ||content.atmosphere.ca^
 ||content.bankerslife.com^
+||content.bankoncit.com^
 ||content.benefitsaccess.org^
 ||content.berluti.com^
 ||content.biggerbooks.com^
@@ -464,6 +465,7 @@
 ||lfp.intuit.com^
 ||ln.meudigio.com.br^
 ||lndata.labor.maryland.gov^
+||lndata.labor.md.gov^
 ||lnths.twc.texas.gov^
 ||lnthxsvc.tsp.gov^
 ||log.betdaq.com^
@@ -541,6 +543,7 @@
 ||prod-redwood.chaperone.lumindigitalhosting.com^
 ||prod-sesloc.chaperone.lumindigitalhosting.com^
 ||prod-uecupa.chaperone.lumindigitalhosting.com^
+||prod-utenn.chaperone.lumindigitalhosting.com^
 ||profiling.cmo.cibc.com^
 ||profiling.digitalbusiness.cibc.com^
 ||profiling.qacitizensbankonline.com^

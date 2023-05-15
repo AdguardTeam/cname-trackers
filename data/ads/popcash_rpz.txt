@@ -13,8 +13,6 @@ cdn.barlo.xyz CNAME .
 cdn.buram.xyz CNAME .
 cdn.colarak.com CNAME .
 cdn.decpo.xyz CNAME .
-cdn.drawx.xyz CNAME .
-cdn.eecd.xyz CNAME .
 cdn.eeco.xyz CNAME .
 cdn.faspox.com CNAME .
 cdn.fedsy.xyz CNAME .
@@ -22,7 +20,6 @@ cdn.fedykr.com CNAME .
 cdn.fegivja.com CNAME .
 cdn.ftwpcn.com CNAME .
 cdn.gecl.xyz CNAME .
-cdn.gocolow.com CNAME .
 cdn.hqwa.xyz CNAME .
 cdn.iople.com CNAME .
 cdn.jandaqwe.com CNAME .
@@ -34,12 +31,10 @@ cdn.kolanx.com CNAME .
 cdn.luxope.com CNAME .
 cdn.mtinsqq.com CNAME .
 cdn.namol.xyz CNAME .
-cdn.nlop.xyz CNAME .
 cdn.noptog.com CNAME .
 cdn.norymo.com CNAME .
 cdn.nuqwe.com CNAME .
 cdn.olep.xyz CNAME .
-cdn.pctv.xyz CNAME .
 cdn.posawaj.com CNAME .
 cdn.rapolok.com CNAME .
 cdn.rgrd.xyz CNAME .
@@ -116,6 +111,7 @@ barnacle.big-in-japan.com CNAME .
 barnacle.viewsource.io CNAME .
 barracuda.ottsysteme.rs CNAME .
 barracuda.saraos.tech CNAME .
+basilisk.kite.pub CNAME .
 bass.alfrednerstu.com CNAME .
 bass.kidneystonediet.com CNAME .
 bass.siterig.io CNAME .
@@ -169,7 +165,6 @@ bug.aestheticpixels.io CNAME .
 bug.onlinedating.de CNAME .
 butterfly.coverworld.com.au CNAME .
 butterfly.dharsh.dev CNAME .
-butterfly.ecouch.com.au CNAME .
 butterfly.rfortherestofus.com CNAME .
 buzzard.donotresearch.net CNAME .
 buzzard.nimble.team CNAME .
@@ -376,6 +371,7 @@ ferret.jesper.hk CNAME .
 ferret.linksoftwarellc.com CNAME .
 ferret.siloam.ch CNAME .
 ferret.tailgraph.com CNAME .
+finch.eyal.rocks CNAME .
 finch.koronasporing.no CNAME .
 finch.market.xyz CNAME .
 fish.canyouexplain.me CNAME .
@@ -409,7 +405,6 @@ gecko.withclarify.com CNAME .
 gerbil.buf.build CNAME .
 gerbil.clapsaddleart.com CNAME .
 gerbil.recipe-ipsum.com CNAME .
-gibbon.ehubhealth.com CNAME .
 giraffe.talktalent.com CNAME .
 giraffe.viatorci.com CNAME .
 goat.aicontentdojo.com CNAME .
@@ -571,7 +566,6 @@ lion.lastfrontiermagazine.com CNAME .
 llama.eniston.io CNAME .
 llama.growthinkers.nl CNAME .
 llama.mallardbay.com CNAME .
-llama.moodgym.com.au CNAME .
 llama.vivriticapital.com CNAME .
 lobster.jusibe.com CNAME .
 lobster.justunderwear.com CNAME .
@@ -584,7 +578,6 @@ louse.messengo.com CNAME .
 louse.seanconnolly.dev CNAME .
 louse.sigle.io CNAME .
 lungfish.datadividendproject.com CNAME .
-lynx.bitefullbox.com CNAME .
 lynx.inovo.io CNAME .
 lynx.microl.ink CNAME .
 lynx.pascivite.com CNAME .
@@ -643,6 +636,7 @@ monkey.colinjohnston.com CNAME .
 moose.cloverlearning.com CNAME .
 mosquito.iamamandaperez.com CNAME .
 moth.artsmia.org CNAME .
+moth.jkundp.at CNAME .
 moth.treeferral.com CNAME .
 mouse.andrewstiefel.com CNAME .
 mouse.anthony-noel.com CNAME .
@@ -958,6 +952,7 @@ bcdn.cpmstar.com CNAME .
 cdn-b.notsy.io CNAME .
 cdn.admatic.com.tr CNAME .
 cdn.affiliatable.io CNAME .
+cdn.shrtfly.vip CNAME .
 cdn.track.dark.bz CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .

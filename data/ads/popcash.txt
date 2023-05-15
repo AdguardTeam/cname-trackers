@@ -13,8 +13,6 @@
 ||cdn.buram.xyz^
 ||cdn.colarak.com^
 ||cdn.decpo.xyz^
-||cdn.drawx.xyz^
-||cdn.eecd.xyz^
 ||cdn.eeco.xyz^
 ||cdn.faspox.com^
 ||cdn.fedsy.xyz^
@@ -22,7 +20,6 @@
 ||cdn.fegivja.com^
 ||cdn.ftwpcn.com^
 ||cdn.gecl.xyz^
-||cdn.gocolow.com^
 ||cdn.hqwa.xyz^
 ||cdn.iople.com^
 ||cdn.jandaqwe.com^
@@ -34,12 +31,10 @@
 ||cdn.luxope.com^
 ||cdn.mtinsqq.com^
 ||cdn.namol.xyz^
-||cdn.nlop.xyz^
 ||cdn.noptog.com^
 ||cdn.norymo.com^
 ||cdn.nuqwe.com^
 ||cdn.olep.xyz^
-||cdn.pctv.xyz^
 ||cdn.posawaj.com^
 ||cdn.rapolok.com^
 ||cdn.rgrd.xyz^
@@ -116,6 +111,7 @@
 ||barnacle.viewsource.io^
 ||barracuda.ottsysteme.rs^
 ||barracuda.saraos.tech^
+||basilisk.kite.pub^
 ||bass.alfrednerstu.com^
 ||bass.kidneystonediet.com^
 ||bass.siterig.io^
@@ -169,7 +165,6 @@
 ||bug.onlinedating.de^
 ||butterfly.coverworld.com.au^
 ||butterfly.dharsh.dev^
-||butterfly.ecouch.com.au^
 ||butterfly.rfortherestofus.com^
 ||buzzard.donotresearch.net^
 ||buzzard.nimble.team^
@@ -376,6 +371,7 @@
 ||ferret.linksoftwarellc.com^
 ||ferret.siloam.ch^
 ||ferret.tailgraph.com^
+||finch.eyal.rocks^
 ||finch.koronasporing.no^
 ||finch.market.xyz^
 ||fish.canyouexplain.me^
@@ -409,7 +405,6 @@
 ||gerbil.buf.build^
 ||gerbil.clapsaddleart.com^
 ||gerbil.recipe-ipsum.com^
-||gibbon.ehubhealth.com^
 ||giraffe.talktalent.com^
 ||giraffe.viatorci.com^
 ||goat.aicontentdojo.com^
@@ -571,7 +566,6 @@
 ||llama.eniston.io^
 ||llama.growthinkers.nl^
 ||llama.mallardbay.com^
-||llama.moodgym.com.au^
 ||llama.vivriticapital.com^
 ||lobster.jusibe.com^
 ||lobster.justunderwear.com^
@@ -584,7 +578,6 @@
 ||louse.seanconnolly.dev^
 ||louse.sigle.io^
 ||lungfish.datadividendproject.com^
-||lynx.bitefullbox.com^
 ||lynx.inovo.io^
 ||lynx.microl.ink^
 ||lynx.pascivite.com^
@@ -643,6 +636,7 @@
 ||moose.cloverlearning.com^
 ||mosquito.iamamandaperez.com^
 ||moth.artsmia.org^
+||moth.jkundp.at^
 ||moth.treeferral.com^
 ||mouse.andrewstiefel.com^
 ||mouse.anthony-noel.com^
@@ -958,6 +952,7 @@
 ||cdn-b.notsy.io^
 ||cdn.admatic.com.tr^
 ||cdn.affiliatable.io^
+||cdn.shrtfly.vip^
 ||cdn.track.dark.bz^
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^

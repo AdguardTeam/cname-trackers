@@ -219,6 +219,7 @@ ux.sapoaix.com CNAME .
 ux.withinshobbist.com CNAME .
 uy.mawseednoblest.com CNAME .
 va.ungracebaited.com CNAME .
+vd.clipserelock.com CNAME .
 vd.scapemambu.com CNAME .
 vi.spratstatters.com CNAME .
 vn.finisbur.com CNAME .

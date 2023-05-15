@@ -22,11 +22,13 @@ tr.actu.bricodepot.com
 tr.actu.reunica.com
 tr.actu.rmcbfmplay.com
 tr.actualites.bfmtv.com
+tr.actualites.reseau-lcd.org
 tr.actuentreprises.elior.fr
 tr.actupremium.com
 tr.actus-fdj.fr
 tr.afpa.espmp-cufr.net
 tr.ag2rlamondiale.fr
+tr.agefiseminaires.com
 tr.alex.espmp-agfr.net
 tr.allianz-trade.com
 tr.allopneus.com
@@ -57,6 +59,7 @@ tr.asp10cg.espmp-nifr.net
 tr.asp10ch.espmp-nifr.net
 tr.asp10cr.espmp-nifr.net
 tr.asp10dx.espmp-nifr.net
+tr.asp10ea.espmp-nifr.net
 tr.asp10fa.espmp-cufr.net
 tr.asp10ge.espmp-nifr.net
 tr.asp10h2.espmp-nifr.net
@@ -870,6 +873,7 @@ tr.tdgx.espmp-cufr.net
 tr.think.lvmh.fr
 tr.thisiseurope.moethennessy.com
 tr.tns.harmonie-mutuelle.fr
+tr.toner-service.fr
 tr.tourisme.visit-lanarbonnaise.com
 tr.tpe.harmonie-mutuelle.fr
 tr.trafficnews.lyria.com
@@ -930,6 +934,7 @@ tr1.mperf.com
 tr1.psa-surveys.com
 tr5.mailperf.com
 tracking.allopneus.com
+www.np6.eu
 www.tr.bfc-mp.caisse-epargne.fr
 cotemaison.np6.com
 f1.demo.np6.com

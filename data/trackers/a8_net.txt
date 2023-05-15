@@ -41,6 +41,7 @@
 ||a8.chiyo-moni.com^
 ||a8.choomia.com^
 ||a8.clarah.jp^
+||a8.classicalelf.shop^
 ||a8.clubgets.com^
 ||a8.cocomeister.jp^
 ||a8.coloria.jp^
@@ -127,6 +128,7 @@
 ||a8.looop-denki.com^
 ||a8.machino-housecleaning.com^
 ||a8.makeshop.jp^
+||a8.mamaworks.jp^
 ||a8.manara.jp^
 ||a8.meon-by.gangnamdoll.jp^
 ||a8.minion-wifi.com^
@@ -156,6 +158,7 @@
 ||a8.otonayaki.com^
 ||a8.outline-gym.com^
 ||a8.papapa.baby^
+||a8.parcys.com^
 ||a8.pb.dreampages.jp^
 ||a8.pcnext.shop^
 ||a8.pcrjapan.clinicnearme.jp^
@@ -339,6 +342,7 @@
 ||a8clk.formasp.jp^
 ||a8clk.francfranc.com^
 ||a8clk.fromcocoro.com^
+||a8clk.fujisan.co.jp^
 ||a8clk.fuku-chan.jp^
 ||a8clk.funds.jp^
 ||a8clk.geo-arekore.jp^
@@ -404,6 +408,7 @@
 ||a8clk.mop.duskin-hozumi.co.jp^
 ||a8clk.mouse-jp.co.jp^
 ||a8clk.moving.a-tm.co.jp^
+||a8clk.mutukistyle.com^
 ||a8clk.muumuu-domain.com^
 ||a8clk.mynavi-creator.jp^
 ||a8clk.mynavi-job20s.jp^
@@ -472,6 +477,7 @@
 ||a8clk.sure-i.co.jp^
 ||a8clk.t-fic.co.jp^
 ||a8clk.takken-job.com^
+||a8clk.takuhai.daichi-m.co.jp^
 ||a8clk.tamiyashop.jp^
 ||a8clk.tanp.jp^
 ||a8clk.tastytable-food.com^
@@ -906,6 +912,7 @@
 ||ad.magokoro-care-shoku.com^
 ||ad.rejichoice.jp^
 ||ada8.ampleur.jp^
+||ads.dandelionchocolate.jp^
 ||af.shozankan-shop.com^
 ||afcv.champ-shop.com^
 ||affa8.hikkoshi-master.com^

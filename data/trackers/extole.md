@@ -10,6 +10,7 @@
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
+    * aol.extole.com
     * app.extole.com
     * backcountry.extole.com
     * barenecessities.extole.com
@@ -534,6 +535,7 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
+| refer.aol.com | aol.extole.com |
 | refer.hpso.com | aon.extole.io |
 | refer.nso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
@@ -793,6 +795,7 @@
 | refer.joann.com | joann.extole.io |
 | refer.johnson.ca | johnson.extole.com |
 | refer.join1440.com | join1440.extole.io |
+| refer.jonesservices.com | jonesservices.extole.io |
 | refer.netrinc.com | jonesservices.extole.io |
 | refer.juicepress.com | juicepress.extole.io |
 | share.juicepress.com | juicepress.extole.io |
@@ -990,6 +993,7 @@
 | refer.swansonvitamins.com | swansonvitamins.extole.io |
 | refer.take5oilchange.com | take5oilchange.extole.io |
 | refer.talbots.com | talbots.extole.com |
+| refer.tatcha.co.uk | tatcha.extole.io |
 | refer.tatcha.com | tatcha.extole.io |
 | refer.taxact.com | taxact.extole.io |
 | share.teachersfcu.org | teachersfcu.extole.io |

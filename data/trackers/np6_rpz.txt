@@ -22,11 +22,13 @@ tr.actu.bricodepot.com CNAME .
 tr.actu.reunica.com CNAME .
 tr.actu.rmcbfmplay.com CNAME .
 tr.actualites.bfmtv.com CNAME .
+tr.actualites.reseau-lcd.org CNAME .
 tr.actuentreprises.elior.fr CNAME .
 tr.actupremium.com CNAME .
 tr.actus-fdj.fr CNAME .
 tr.afpa.espmp-cufr.net CNAME .
 tr.ag2rlamondiale.fr CNAME .
+tr.agefiseminaires.com CNAME .
 tr.alex.espmp-agfr.net CNAME .
 tr.allianz-trade.com CNAME .
 tr.allopneus.com CNAME .
@@ -57,6 +59,7 @@ tr.asp10cg.espmp-nifr.net CNAME .
 tr.asp10ch.espmp-nifr.net CNAME .
 tr.asp10cr.espmp-nifr.net CNAME .
 tr.asp10dx.espmp-nifr.net CNAME .
+tr.asp10ea.espmp-nifr.net CNAME .
 tr.asp10fa.espmp-cufr.net CNAME .
 tr.asp10ge.espmp-nifr.net CNAME .
 tr.asp10h2.espmp-nifr.net CNAME .
@@ -870,6 +873,7 @@ tr.tdgx.espmp-cufr.net CNAME .
 tr.think.lvmh.fr CNAME .
 tr.thisiseurope.moethennessy.com CNAME .
 tr.tns.harmonie-mutuelle.fr CNAME .
+tr.toner-service.fr CNAME .
 tr.tourisme.visit-lanarbonnaise.com CNAME .
 tr.tpe.harmonie-mutuelle.fr CNAME .
 tr.trafficnews.lyria.com CNAME .
@@ -930,6 +934,7 @@ tr1.mperf.com CNAME .
 tr1.psa-surveys.com CNAME .
 tr5.mailperf.com CNAME .
 tracking.allopneus.com CNAME .
+www.np6.eu CNAME .
 www.tr.bfc-mp.caisse-epargne.fr CNAME .
 cotemaison.np6.com CNAME .
 f1.demo.np6.com CNAME .

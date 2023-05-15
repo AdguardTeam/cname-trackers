@@ -375,6 +375,7 @@
 ||login.clixforads.com^
 ||login.clixwells.com^
 ||login.convertise.io^
+||login.crowdegic.com^
 ||login.explorads.com^
 ||login.exploradsteam.com^
 ||login.exploradstech.com^
@@ -525,7 +526,6 @@
 ||rtb-useast-v4.vuukle.net^
 ||rtb-useast.152media.com^
 ||rtb-useast.80xmedia.com^
-||rtb-useast.adapace.com^
 ||rtb-useast.adbite.com^
 ||rtb-useast.adcannyads.com^
 ||rtb-useast.adhunter.media^
@@ -566,7 +566,6 @@
 ||rtb-useast.hueadsortb.com^
 ||rtb-useast.iavatarz.com^
 ||rtb-useast.infinity-info.com^
-||rtb-useast.intellectscoop.com^
 ||rtb-useast.kinesis-rtb.com^
 ||rtb-useast.kubient.com^
 ||rtb-useast.mars.video^
@@ -602,7 +601,6 @@
 ||rtb-uswest-v4.afkwa.com^
 ||rtb-uswest.152media.com^
 ||rtb-uswest.ad-maven.com^
-||rtb-uswest.adapace.com^
 ||rtb-uswest.adjux.com^
 ||rtb-uswest.adokutrtb.com^
 ||rtb-uswest.adsolut.in^
@@ -705,16 +703,15 @@
 ||serv.bvsrv.com^
 ||serve.datacygnal.io^
 ||sm-rtb-useast.zmdvideo.com^
+||static-analytics.nativeads.com^
 ||static-rtb.adksrv.com^
 ||static-rtb2.afkwa.com^
-||static-rtb2.catapultx.com^
-||static-rtb2.demandzoo.com^
+||static-rtb2.convergeselect.net^
 ||static-rtb2.e-volution.ai^
 ||static-rtb2.jambojar.com^
 ||static-rtb2.newchallenges-dsp.com^
 ||static-rtb2.xaprio.net^
 ||static.100conversions.com^
-||static.adflyer.media^
 ||static.admeridianads.com^
 ||static.admidainsight.com^
 ||static.adright.co^
@@ -728,6 +725,7 @@
 ||static.foremedia.net^
 ||static.fstsrv1.com^
 ||static.fstsrv2.com^
+||static.hueadsxml.com^
 ||static.openrtb.in^
 ||static.outpush.net^
 ||static.pdn-1.com^
@@ -890,8 +888,10 @@
 ||xml-eu.mobuppsrtb.com^
 ||xml-eu.netload1.com^
 ||xml-eu.netload2.com^
+||xml-eu.nxthost-1.info^
 ||xml-eu.outpush.net^
 ||xml-eu.pushub.net^
+||xml-eu.pwr-ads.com^
 ||xml-eu.qksrv.cc^
 ||xml-eu.realtime-bid.com^
 ||xml-eu.rocoads.com^
@@ -964,7 +964,6 @@
 ||xml.9dotsmedia.com^
 ||xml.acertb.com^
 ||xml.ad-maven.com^
-||xml.adapace.com^
 ||xml.adcannybid.com^
 ||xml.adcannyxml.com^
 ||xml.adcy.net^
@@ -1059,6 +1058,7 @@
 ||xml.frdjs-1.co^
 ||xml.frdjs-2.co^
 ||xml.fstsrv1.com^
+||xml.fstsrv2.com^
 ||xml.gipostart-2.co^
 ||xml.groovyadz.com^
 ||xml.hangfly.net^
@@ -1173,7 +1173,6 @@
 ||xmlv4.mobuppsrtb.com^
 ||xmlv4.reklama.network^
 ||akcdn.nativeadsfeed.com^
-||static-analytics.nativeads.com^
 ||static.analytics.nativeads.com^
 ||dsp-static.nativeads.com^
 ||static-rtb.adhunter.media^
@@ -1182,7 +1181,8 @@
 ||static-rtb2.adpix.online^
 ||static-rtb2.africonverse.com^
 ||static-rtb2.assemblyexchange.com^
-||static-rtb2.convergeselect.net^
+||static-rtb2.catapultx.com^
+||static-rtb2.demandzoo.com^
 ||static-rtb2.marketiq.com^
 ||static-rtb2.onenativeads.com^
 ||static-rtb2.programmatics.net^
@@ -1196,6 +1196,7 @@
 ||static.adcy.net^
 ||static.additionaldisplay.com^
 ||static.adflydsp.com^
+||static.adflyer.media^
 ||static.adhunter.media^
 ||static.adjux.com^
 ||static.admidadsp.com^
@@ -1230,7 +1231,6 @@
 ||static.hetcash.com^
 ||static.houseofpubs.com^
 ||static.hueads.com^
-||static.hueadsxml.com^
 ||static.icyads.com^
 ||static.jadspro.live^
 ||static.kraigcontent.com^

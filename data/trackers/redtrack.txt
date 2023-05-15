@@ -71,6 +71,7 @@
 ||cdn.attkdmg.xyz^
 ||cdn.sppoints.xyz^
 ||chengren.2022p.com^
+||cl.gotravelhubs.com^
 ||click.activehealthworks.org^
 ||click.alejandratv.tv^
 ||click.americasaving.com^
@@ -129,6 +130,7 @@
 ||clk.savingscenter.club^
 ||clk.smartamericanclub.com^
 ||clk.smartamericanpeople.com^
+||clk.summergadgets.org^
 ||clk.theamericanenthusiasm.com^
 ||clk.thegreatamericanservices.com^
 ||clk.thehealthyarmy.com^
@@ -141,6 +143,7 @@
 ||clk.wesaveallday.com^
 ||clk.wholeamericansociety.com^
 ||clk.wiseamericancommunity.com^
+||clk.yourwellbeingtips.org^
 ||clks.trackthisclicks.com^
 ||clooc.poinuei1.fun^
 ||cold.dailynox.com^
@@ -167,11 +170,11 @@
 ||dsfsdfsadfsdfeeeeewwwww.hopjuu.fun^
 ||dsgdfsgerg.popoppopoopp.space^
 ||ecceivetrk.com^
+||ecologi.link^
 ||eeedzfsdfssssssaaaa.hopjuu.fun^
 ||efwf.popoppopoopp.space^
 ||ehtrack.lifebrandsdigital.com^
 ||enigwatch-redtrack.enigwatch.com^
-||esvul.healtynourish.com^
 ||fbtrack.mensuas.com^
 ||find.mysearches.online^
 ||fku.track.cash-pusher.com^
@@ -186,6 +189,7 @@
 ||follow.socialhub.center^
 ||follow.thechelsealaboratory.com^
 ||fra.jouer.click^
+||ftd.grotomarketing.com^
 ||fw.onbrams.com^
 ||ga.amgtrack.link^
 ||gelityastrk.com^
@@ -251,6 +255,7 @@
 ||go.hsrtrack.com^
 ||go.jbihairtrk.com^
 ||go.joinnutri.com^
+||go.jupiterlabs.news^
 ||go.karajjaipur.com^
 ||go.kickstartclick.com^
 ||go.legalinjuryadvocates.com^
@@ -310,6 +315,7 @@
 ||go.ztrack.top^
 ||go2.getmobapp.com^
 ||goodthings.sweepp.online^
+||google.trk.oeremil.com^
 ||goto.webtrk.com^
 ||gte.gaintheedgeofficial.com^
 ||ha.besthealthawareness.com^
@@ -343,6 +349,7 @@
 ||info-www.com^
 ||italyy.ca.italycapsdjnr.com^
 ||join.mia-x-official.com^
+||k.topdatetr.com^
 ||kindlaundry.rdtrke.com^
 ||kingsofneon.espheredigital.com^
 ||kinky.tracked.one^
@@ -350,6 +357,7 @@
 ||lab.sensilia.com^
 ||laidback.laidbacklondon.com^
 ||lbjso.leanbellyjuicestore.online^
+||lead.bestgadgetstrends.com^
 ||leads.get-heatwell.com^
 ||leads.getquadairdrone.org^
 ||lgm.lifetrack.club^
@@ -427,24 +435,21 @@
 ||offer.buy.easy-slimfit.com^
 ||offer.buy.fastfit2023.com^
 ||offer.buy.fitwellz.com^
-||offer.buy.health-todaynews.com^
-||offer.buy.healthyhub24.com^
 ||offer.buy.myjourney2022.com^
-||offer.buy.pharmaworld24.com^
 ||offer.buy.shapebodyfast.com^
 ||offer.buy.solution-wellness.com^
 ||offer.buy.weightloss-2023.com^
 ||offer.buy.weightlosstoday.store^
-||offer.buy.wellness-europe.com^
-||offer.buy.wellness-quality.com^
-||offer.buy.wellnesstoday24.com^
 ||offer.gentleandrose.com^
 ||offer.getilluminate.co.uk^
+||offer.jupiterlabsnutrition.com^
 ||offer.kundenmanufaktur.com^
 ||offer.paintlyshopnow.com^
 ||offer2.autopolicysaver.com^
 ||offers.top10us.com^
 ||official-www.com^
+||oficial.enriquecendoonline.com^
+||oficial.informacionimportanteoficial.com^
 ||ok.starclick.site^
 ||oracle.healthtalkdaily.club^
 ||oracle.topdentaltips.com^
@@ -460,10 +465,12 @@
 ||path.happyfinancestoday.com^
 ||path.happyhomesavings.com^
 ||path.homeownerhacks2023.com^
+||path.homeownerstart.com^
 ||path.homeupgradeplus.com^
 ||path.insightsonlines.com^
 ||path.insureprosamerica.com^
 ||path.lifesavingsinfo.com^
+||path.myhomediscounts.com^
 ||path.newreleaseadvisor.com^
 ||path.newreleaseupdate.com^
 ||path.noticiasdedeuda.com^
@@ -481,6 +488,7 @@
 ||path.yourcoveredhome.com^
 ||peak.emmasgreatsavings.com^
 ||peak.happy-healthy-lives.com^
+||peak.wishing-upon-a-star.com^
 ||pixel.top10gadgets.shop^
 ||plus.chocobabe.live^
 ||pompom-www.com^
@@ -490,7 +498,6 @@
 ||press.thebikecart.com^
 ||pro.adrofx.com^
 ||pro.health-prot.com^
-||profesion.nuevoexito.online^
 ||promo.top20gadgetdeals.net^
 ||pupses.com^
 ||rd.autoservicesdomain.com^
@@ -551,7 +558,6 @@
 ||redtrack.smoothskinsolutions.co^
 ||redtrack.smoothskintopia.co.uk^
 ||redtrack.smoothskintopia.com^
-||redtrack.storedelnutra.com^
 ||redtrack.thebraintumourcharity.org^
 ||redtrack.thecapsula.ru^
 ||redtrack.track.nuevomecanismo.website^
@@ -600,6 +606,7 @@
 ||sdfsdfs.ooowpqoooowee222.fun^
 ||secure.americansavingsjournal.com^
 ||secure.bamsocks.com^
+||secure.check.beautypro365.com^
 ||secure.dailypatriotusa.com^
 ||secure.degreeresearchcenter.com^
 ||secure.physique-building.com^
@@ -619,6 +626,7 @@
 ||start.cutbackcoach.com^
 ||stat.liteforex.eu^
 ||su-offers.com^
+||super.lamoula.ncredaf.com^
 ||t.abettersavingsguide.com^
 ||t.activeflowprogram.com^
 ||t.americanshelpedtoday.com^
@@ -635,7 +643,6 @@
 ||t.kttfinancial.com^
 ||t.likedosh.co.uk^
 ||t.mowmore.com^
-||t.myclinic.com^
 ||t.mynewgiftcard.com^
 ||t.neatkarigais.lv^
 ||t.penguinflip.com^
@@ -697,6 +704,7 @@
 ||track.asistireltrabajodecuidado.com^
 ||track.assistance-live.com^
 ||track.atenciondirectapro.com^
+||track.autoloanupdates.com^
 ||track.avidata.de^
 ||track.awynat.com^
 ||track.bavlio.us^
@@ -809,6 +817,7 @@
 ||track.enjoythewood.com^
 ||track.ertha.io^
 ||track.espaciodemarketingdigitalparausted.com^
+||track.expressions.com.sg^
 ||track.ezsolutionsx.com^
 ||track.factostat.com^
 ||track.fairesults.com^
@@ -927,9 +936,11 @@
 ||track.mealjoyous.com^
 ||track.meirako.com^
 ||track.menexpressions.sg^
+||track.moldsolutionspro.com^
 ||track.monsters.cl^
 ||track.morethanjusthappy.com^
 ||track.mrgugu.com^
+||track.mybenefitsexplorer.com^
 ||track.mybioherb.com^
 ||track.mycointainer.com^
 ||track.mynursesjewel.com^
@@ -941,10 +952,10 @@
 ||track.nextgtrack.com^
 ||track.nicetrendygiftsviral.shop^
 ||track.nomadsvertise.com^
+||track.nutrition-first.net^
 ||track.odinenergynv.com^
 ||track.odinenergytx.com^
 ||track.odinenergyut.com^
-||track.offer.alwayswellbeing24.com^
 ||track.officialflexup.com^
 ||track.ogrowthlabs.com^
 ||track.onlineappdesigncourses.com^
@@ -964,6 +975,7 @@
 ||track.polyglotaccent.com^
 ||track.popslotz.com^
 ||track.printery.ro^
+||track.proaspectdental.com^
 ||track.proautoexcellence.com^
 ||track.productosdelimpiezahoy.com^
 ||track.progreenedge.com^
@@ -1000,6 +1012,7 @@
 ||track.rooforzo.com^
 ||track.routes.name^
 ||track.rt-link-out.com^
+||track.safestreetpro.com^
 ||track.sampleprodeals.co^
 ||track.savingforsenior.com^
 ||track.savingsguideonline.com^
@@ -1041,6 +1054,7 @@
 ||track.trackmate888.com^
 ||track.trglm.com^
 ||track.trkbtga.com^
+||track.trustyprosolution.com^
 ||track.trxcmp.xyz^
 ||track.upsidedown.solutions^
 ||track.usasjbtracking.com^
@@ -1059,6 +1073,8 @@
 ||track.virtuemap.com^
 ||track.vivaro.tv^
 ||track.weldingpromote.com^
+||track.wellnesskkblog.online^
+||track.whiteteethspace.com^
 ||track.winedoor.com^
 ||track.workingsprout.com^
 ||track.yourcolorfulspace.com^
@@ -1081,6 +1097,7 @@
 ||track.yoursmilebrighttoday.com^
 ||track.yoursupermovers.com^
 ||track.yourteamkindness.com^
+||track.yourtootharmor.com^
 ||track.yourwindowsworld.com^
 ||track.yourwisechoicetoday.com^
 ||track.yourwisethinking.com^
@@ -1116,6 +1133,7 @@
 ||trk.advanced-tracker.com^
 ||trk.advancedtrkr.com^
 ||trk.ahcsavings.com^
+||trk.amazinghealthnews23.com^
 ||trk.americandailysavingshubs.com^
 ||trk.americanhealthylivingadvice.com^
 ||trk.anabolichealth.com^
@@ -1193,7 +1211,6 @@
 ||trk.wax.insure^
 ||trk.wellnesshopping24.com^
 ||trk.wellnessmein.com^
-||trk.wellnessofcenter.com^
 ||trk.weshape.com^
 ||trrk10.pointpointiklo.pro^
 ||trrk8.pointpointiklo.pro^
@@ -1263,6 +1280,7 @@
 ||www.online-france.club^
 ||www.optimalhealthyday.com^
 ||www.revivewellnesslife.com^
+||www.sagawellnesslife.com^
 ||www.truhealthychoices.com^
 ||www.trumindbody.com^
 ||www.tryprofits.com^

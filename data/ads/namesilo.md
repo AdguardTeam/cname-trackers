@@ -637,6 +637,7 @@
 | 3843075.notifysrv.com | tk6if76q.ab1n.net |
 | 3849719.notify6.com | tk6if76q.ab1n.net |
 | 3853333.notify6.com | tk6if76q.ab1n.net |
+| 3858841.notify6.com | tk6if76q.ab1n.net |
 | 3869256.notifysrv.com | tk6if76q.ab1n.net |
 | 3869316.notify6.com | tk6if76q.ab1n.net |
 | 3869376.notify6.com | tk6if76q.ab1n.net |
@@ -801,6 +802,7 @@
 | 4795268.notify6.com | tk6if76q.ab1n.net |
 | 4795272.notify6.com | tk6if76q.ab1n.net |
 | 4795280.notify6.com | tk6if76q.ab1n.net |
+| 4795286.notify6.com | tk6if76q.ab1n.net |
 | 4795320.notify6.com | tk6if76q.ab1n.net |
 | 4795534.notify6.com | tk6if76q.ab1n.net |
 | 4795570.notify6.com | tk6if76q.ab1n.net |
@@ -932,7 +934,6 @@
 | admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | a.a3ion.com | w2u4v9e1.ab1n.net |
 | a.ad.guru | w2u4v9e1.ab1n.net |
-| a.etology.com | w2u4v9e1.ab1n.net |
 | a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |
 | a.stuffserve.com | w2u4v9e1.ab1n.net |

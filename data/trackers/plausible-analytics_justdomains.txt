@@ -104,7 +104,6 @@ counter.proxycrawl.com
 counter.subtitlebee.com
 counter.websitevoice.com
 cp.phiilu.com
-data.aik.in
 data.blog.swicket.io
 datum.appfleet.com
 ds.webprojectslab.com
@@ -752,6 +751,7 @@ stats.motion-effect.com
 stats.motorcyclepartsireland.ie
 stats.muchbetteradventures.com
 stats.multiply.cloud
+stats.mysideproject.rocks
 stats.nddmed.com
 stats.nexagon.dk
 stats.nicolabricot.com

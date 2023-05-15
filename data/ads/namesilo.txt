@@ -598,6 +598,7 @@
 ||3843075.notifysrv.com^
 ||3849719.notify6.com^
 ||3853333.notify6.com^
+||3858841.notify6.com^
 ||3869256.notifysrv.com^
 ||3869316.notify6.com^
 ||3869376.notify6.com^
@@ -762,6 +763,7 @@
 ||4795268.notify6.com^
 ||4795272.notify6.com^
 ||4795280.notify6.com^
+||4795286.notify6.com^
 ||4795320.notify6.com^
 ||4795534.notify6.com^
 ||4795570.notify6.com^
@@ -809,7 +811,6 @@
 ||_sips._tcp.3323174.notifysrv.com^
 ||a.a3ion.com^
 ||a.ad.guru^
-||a.etology.com^
 ||a.paradoxgroup.uk^
 ||a.redpathmedia.com^
 ||a.stuffserve.com^
@@ -904,6 +905,7 @@
 ||a.adnflow.com^
 ||a.asvsm.com^
 ||a.bizonads-ssp.com^
+||a.etology.com^
 ||a.santabrowser.com^
 ||a.slice.exchange^
 ||admin.ad.guru^

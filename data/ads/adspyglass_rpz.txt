@@ -20,6 +20,7 @@
 8sptzne.mom CNAME .
 98tang.lol CNAME .
 a.123porner.com CNAME .
+a.1film.to CNAME .
 a.6drole.com CNAME .
 a.6vids.space CNAME .
 a.888x.cyou CNAME .
@@ -112,7 +113,6 @@ advpro.pro CNAME .
 adxhand.icu CNAME .
 ags.hobby.porn CNAME .
 ags.justthegays.com CNAME .
-all.shorterall.com CNAME .
 alt.fescity.com CNAME .
 amaz.emailon.top CNAME .
 amazoni.lol CNAME .
@@ -384,7 +384,6 @@ m.xrum.info CNAME .
 m9xp1.hentaigold.net CNAME .
 maizour.mom CNAME .
 makumva.all-usanomination.com CNAME .
-mangaad.xyz CNAME .
 mangoga.xyz CNAME .
 marcusdevs.ru CNAME .
 maxcdn.dmm-video.online CNAME .
@@ -435,6 +434,7 @@ oi.transhero.com CNAME .
 oj.4wank.com CNAME .
 oj.fapnado.xxx CNAME .
 oj.fapnow.xxx CNAME .
+ok.fapnow.xxx CNAME .
 onetwohub.com CNAME .
 ontj.com CNAME .
 open.oksrv.com CNAME .

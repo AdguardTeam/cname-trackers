@@ -159,6 +159,7 @@ ssl-youseeiosstream.tns-gallup.dk CNAME .
 youseeiosstream.tns-gallup.dk CNAME .
 drtv-appletv.tns-gallup.dk CNAME .
 ssl-drtv-appletv.tns-gallup.dk CNAME .
+ssl-youseeandroidstream.tns-gallup.dk CNAME .
 youseeandroidstream.tns-gallup.dk CNAME .
 ebiam.tns-gallup.dk CNAME .
 edc.tns-gallup.dk CNAME .

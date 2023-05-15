@@ -118,6 +118,7 @@ affiliate.compik.cz CNAME .
 affiliate.coolcredit.cz CNAME .
 affiliate.craftholsters.com CNAME .
 affiliate.cryptokingdom.cz CNAME .
+affiliate.czc.cz CNAME .
 affiliate.dekovacka.cz CNAME .
 affiliate.deltareisen.cz CNAME .
 affiliate.designovynabytek.cz CNAME .
@@ -165,6 +166,7 @@ affiliate.jewstone.cz CNAME .
 affiliate.jidlojevasen.cz CNAME .
 affiliate.jiristibor.cz CNAME .
 affiliate.ketofit.sk CNAME .
+affiliate.krmivopropsy.cz CNAME .
 affiliate.kurzy-liecenia.sk CNAME .
 affiliate.kutil.cz CNAME .
 affiliate.ladylab.sk CNAME .
@@ -252,6 +254,7 @@ affilo.janie.cz CNAME .
 affilo.lingerio.cz CNAME .
 affilo.vivaboty.cz CNAME .
 affilpartner.descanti.com CNAME .
+affilpartneri.affilbusiness.cz CNAME .
 afill.e-potisk.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassador.notsofunnyany.com CNAME .
@@ -262,6 +265,7 @@ brana.ritualyomlazeni.cz CNAME .
 dekovacka.hezkres.cz CNAME .
 doporuc.hopsej.cz CNAME .
 hcaffil.mironet.cz CNAME .
+hcbox.bikemax.cz CNAME .
 hcbox.boomshop.sk CNAME .
 hcbox.fitness-zone.cz CNAME .
 hcbox.itcomplet.sk CNAME .
@@ -464,6 +468,7 @@ partner.hemptor.cz CNAME .
 partner.hodinarstvi.cz CNAME .
 partner.hoska-tour.cz CNAME .
 partner.hothousecucumber.com CNAME .
+partner.hubnu.online CNAME .
 partner.imrnous.cz CNAME .
 partner.investinslovakia.eu CNAME .
 partner.iodesign.cz CNAME .
@@ -586,6 +591,7 @@ partner.thechillidoctor.cz CNAME .
 partner.top-obaly.cz CNAME .
 partner.totalniplavani.cz CNAME .
 partner.tyano.cz CNAME .
+partner.umio.eu CNAME .
 partner.umio.sk CNAME .
 partner.uniquefit.sk CNAME .
 partner.unuo.de CNAME .

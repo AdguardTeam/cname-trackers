@@ -104,7 +104,6 @@ counter.proxycrawl.com CNAME .
 counter.subtitlebee.com CNAME .
 counter.websitevoice.com CNAME .
 cp.phiilu.com CNAME .
-data.aik.in CNAME .
 data.blog.swicket.io CNAME .
 datum.appfleet.com CNAME .
 ds.webprojectslab.com CNAME .
@@ -752,6 +751,7 @@ stats.motion-effect.com CNAME .
 stats.motorcyclepartsireland.ie CNAME .
 stats.muchbetteradventures.com CNAME .
 stats.multiply.cloud CNAME .
+stats.mysideproject.rocks CNAME .
 stats.nddmed.com CNAME .
 stats.nexagon.dk CNAME .
 stats.nicolabricot.com CNAME .

@@ -118,6 +118,7 @@ affiliate.compik.cz
 affiliate.coolcredit.cz
 affiliate.craftholsters.com
 affiliate.cryptokingdom.cz
+affiliate.czc.cz
 affiliate.dekovacka.cz
 affiliate.deltareisen.cz
 affiliate.designovynabytek.cz
@@ -165,6 +166,7 @@ affiliate.jewstone.cz
 affiliate.jidlojevasen.cz
 affiliate.jiristibor.cz
 affiliate.ketofit.sk
+affiliate.krmivopropsy.cz
 affiliate.kurzy-liecenia.sk
 affiliate.kutil.cz
 affiliate.ladylab.sk
@@ -252,6 +254,7 @@ affilo.janie.cz
 affilo.lingerio.cz
 affilo.vivaboty.cz
 affilpartner.descanti.com
+affilpartneri.affilbusiness.cz
 afill.e-potisk.cz
 ambasadorky.zenyzenam.cz
 ambassador.notsofunnyany.com
@@ -262,6 +265,7 @@ brana.ritualyomlazeni.cz
 dekovacka.hezkres.cz
 doporuc.hopsej.cz
 hcaffil.mironet.cz
+hcbox.bikemax.cz
 hcbox.boomshop.sk
 hcbox.fitness-zone.cz
 hcbox.itcomplet.sk
@@ -464,6 +468,7 @@ partner.hemptor.cz
 partner.hodinarstvi.cz
 partner.hoska-tour.cz
 partner.hothousecucumber.com
+partner.hubnu.online
 partner.imrnous.cz
 partner.investinslovakia.eu
 partner.iodesign.cz
@@ -586,6 +591,7 @@ partner.thechillidoctor.cz
 partner.top-obaly.cz
 partner.totalniplavani.cz
 partner.tyano.cz
+partner.umio.eu
 partner.umio.sk
 partner.uniquefit.sk
 partner.unuo.de

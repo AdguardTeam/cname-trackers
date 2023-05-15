@@ -159,6 +159,7 @@ content.apruvd.com CNAME .
 content.asurion53.com CNAME .
 content.atmosphere.ca CNAME .
 content.bankerslife.com CNAME .
+content.bankoncit.com CNAME .
 content.benefitsaccess.org CNAME .
 content.berluti.com CNAME .
 content.biggerbooks.com CNAME .
@@ -464,6 +465,7 @@ lab4.lloydsbank.com CNAME .
 lfp.intuit.com CNAME .
 ln.meudigio.com.br CNAME .
 lndata.labor.maryland.gov CNAME .
+lndata.labor.md.gov CNAME .
 lnths.twc.texas.gov CNAME .
 lnthxsvc.tsp.gov CNAME .
 log.betdaq.com CNAME .
@@ -541,6 +543,7 @@ prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
 prod-uecupa.chaperone.lumindigitalhosting.com CNAME .
+prod-utenn.chaperone.lumindigitalhosting.com CNAME .
 profiling.cmo.cibc.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
 profiling.qacitizensbankonline.com CNAME .

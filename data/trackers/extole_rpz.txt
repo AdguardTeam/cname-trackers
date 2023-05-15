@@ -17,6 +17,7 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
+refer.aol.com CNAME .
 refer.app.com CNAME .
 refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
@@ -241,6 +242,7 @@ refer.itcosmetics.com CNAME .
 refer.jewelersmutual.com CNAME .
 refer.joann.com CNAME .
 refer.join1440.com CNAME .
+refer.jonesservices.com CNAME .
 refer.juicepress.com CNAME .
 refer.keds.com CNAME .
 refer.kerastase-usa.com CNAME .
@@ -324,6 +326,7 @@ refer.studentuniverse.com.au CNAME .
 refer.sugarandjade.com CNAME .
 refer.swansonvitamins.com CNAME .
 refer.take5oilchange.com CNAME .
+refer.tatcha.co.uk CNAME .
 refer.tatcha.com CNAME .
 refer.taxact.com CNAME .
 refer.teladoc.com CNAME .
@@ -572,5 +575,4 @@ share.zenbusiness.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em8561.go2bank.com CNAME .
-refer.aol.com CNAME .
 sftp.extole.com CNAME .

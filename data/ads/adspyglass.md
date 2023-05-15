@@ -8,7 +8,6 @@
 ### Rarely active trackers
 
 * cdn66584302.blazingcdn.net
-* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -34,6 +33,7 @@
 | 8sptzne.mom | 0i0i0i0.com |
 | 98tang.lol | 0i0i0i0.com |
 | a.123porner.com | 0i0i0i0.com |
+| a.1film.to | 0i0i0i0.com |
 | a.6drole.com | 0i0i0i0.com |
 | a.6vids.space | 0i0i0i0.com |
 | a.888x.cyou | 0i0i0i0.com |
@@ -126,7 +126,6 @@
 | adxhand.icu | 0i0i0i0.com |
 | ags.hobby.porn | 0i0i0i0.com |
 | ags.justthegays.com | 0i0i0i0.com |
-| all.shorterall.com | 0i0i0i0.com |
 | alt.fescity.com | 0i0i0i0.com |
 | amaz.emailon.top | 0i0i0i0.com |
 | amazoni.lol | 0i0i0i0.com |
@@ -395,7 +394,6 @@
 | m.xrum.info | 0i0i0i0.com |
 | m9xp1.hentaigold.net | 0i0i0i0.com |
 | maizour.mom | 0i0i0i0.com |
-| mangaad.xyz | 0i0i0i0.com |
 | mangoga.xyz | 0i0i0i0.com |
 | marcusdevs.ru | 0i0i0i0.com |
 | maxcdn.dmm-video.online | 0i0i0i0.com |
@@ -446,6 +444,7 @@
 | oj.4wank.com | 0i0i0i0.com |
 | oj.fapnado.xxx | 0i0i0i0.com |
 | oj.fapnow.xxx | 0i0i0i0.com |
+| ok.fapnow.xxx | 0i0i0i0.com |
 | onetwohub.com | 0i0i0i0.com |
 | ontj.com | 0i0i0i0.com |
 | open.oksrv.com | 0i0i0i0.com |
@@ -644,4 +643,3 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| qoqv.com | u53.hypnorat.com |

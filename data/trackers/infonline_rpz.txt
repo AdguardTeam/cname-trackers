@@ -92,6 +92,7 @@ data-0d9eff53aa.kuhn-fachmedien.de CNAME .
 data-0dc128409f.watchtime.net CNAME .
 data-0de2e36f03.nitro-tv.de CNAME .
 data-0e1ca78ad4.rw-textilservice.de CNAME .
+data-0e6bbb5192.bibkat.de CNAME .
 data-0e6bbb5192.eopac.net CNAME .
 data-0e6bbb5192.lmscloud.net CNAME .
 data-0e974e9c43.mt.de CNAME .
@@ -554,6 +555,7 @@ data-47ee1b0882.osnabrueck.hall-of-fame.online CNAME .
 data-47ee1b0882.ostseekino-kuehlungsborn.de CNAME .
 data-47ee1b0882.roxy-kino.de CNAME .
 data-47ee1b0882.saarfilm.net CNAME .
+data-47ee1b0882.schanzenkino.de CNAME .
 data-47ee1b0882.sg.das-lumen.de CNAME .
 data-47ee1b0882.spreekino.de CNAME .
 data-47ee1b0882.stadtsaal-kinos.de CNAME .
@@ -582,6 +584,7 @@ data-497ecca600.wuppertaler-rundschau.de CNAME .
 data-497f575d82.businessinsider.de CNAME .
 data-49877903fc.apps.iocnt.de CNAME .
 data-49a8877855.apps.iocnt.de CNAME .
+data-49aef6b58e.shapeup-business.de CNAME .
 data-49bb023f99.finanznachrichten.de CNAME .
 data-49dc40e643.onvista.de CNAME .
 data-4a575dad18.abendblatt.de CNAME .
@@ -711,6 +714,7 @@ data-60d896f23d.dnn.de CNAME .
 data-60d896f23d.gnz.de CNAME .
 data-60d896f23d.goettinger-tageblatt.de CNAME .
 data-60d896f23d.haz.de CNAME .
+data-60d896f23d.kieler-nachrichten.de CNAME .
 data-60d896f23d.kn-online.de CNAME .
 data-60d896f23d.landeszeitung.de CNAME .
 data-60d896f23d.ln-online.de CNAME .
@@ -1159,6 +1163,7 @@ data-a06056e0a7.lz-trauer.de CNAME .
 data-a06056e0a7.lz.de CNAME .
 data-a06fecb5b2.apps.iocnt.de CNAME .
 data-a0b1f67d32.gaeubote.de CNAME .
+data-a0f0ae1310.gelbeseiten-schluesseldienst.de CNAME .
 data-a0f0ae1310.gelbeseiten.de CNAME .
 data-a0f0ae1310.goyellow.de CNAME .
 data-a113f4b41d.trucker.de CNAME .
@@ -1174,6 +1179,7 @@ data-a379a2e240.petbook.de CNAME .
 data-a38e203a07.braunschweiger-zeitung.de CNAME .
 data-a38e203a07.harzkurier.de CNAME .
 data-a38e203a07.harztrauer.de CNAME .
+data-a38e203a07.immo38.de CNAME .
 data-a38e203a07.job38.de CNAME .
 data-a38e203a07.konzertkasse.de CNAME .
 data-a38e203a07.news38.de CNAME .
@@ -1219,6 +1225,7 @@ data-a938ff636c.radioguetersloh.de CNAME .
 data-a98482617b.holidaycheck.at CNAME .
 data-a98482617b.holidaycheck.ch CNAME .
 data-a98482617b.holidaycheck.de CNAME .
+data-a9dcbfdd12.dk-online.de CNAME .
 data-a9dcbfdd12.noz.de CNAME .
 data-aa4a1f6eab.apps.iocnt.de CNAME .
 data-aa70fe4f08.jam.fm CNAME .
@@ -1483,10 +1490,12 @@ data-d4db30a18b.ga-online.de CNAME .
 data-d4db30a18b.on-online.de CNAME .
 data-d4db30a18b.oz-online.de CNAME .
 data-d4dfa4bc2c.focus.de CNAME .
+data-d4dfa4bc2c.weather.com CNAME .
 data-d4ecb517ab.cinema.de CNAME .
 data-d4ecb517ab.streampicker.de CNAME .
 data-d4ecb517ab.tvspielfilm.de CNAME .
 data-d4ecb517ab.tvtoday.de CNAME .
+data-d5c733accc.infonline.de CNAME .
 data-d5cb47d8e4.radiotop40.de CNAME .
 data-d5d9e85944.textilwirtschaft.de CNAME .
 data-d5efd1b9c0.dzonline.de CNAME .
@@ -1527,6 +1536,7 @@ data-ddcae4625b.apps.iocnt.de CNAME .
 data-ddecebdea5.storage-insider.de CNAME .
 data-de83895c33.apps.iocnt.de CNAME .
 data-dea12ffb25.prisma.de CNAME .
+data-deb04a4388.wb-immo.de CNAME .
 data-deb04a4388.wb-trauer.de CNAME .
 data-deb04a4388.westfalen-blatt.de CNAME .
 data-ded8e2c5ce.tga-fachplaner.de CNAME .
@@ -1619,6 +1629,7 @@ data-ee807be806.radiobochum.de CNAME .
 data-ee807be806.radioduisburg.de CNAME .
 data-ee807be806.radioemscherlippe.de CNAME .
 data-ee807be806.radioessen.de CNAME .
+data-ee807be806.radiokw.de CNAME .
 data-ee807be806.radiooberhausen.de CNAME .
 data-ee807be806.radiosauerland.de CNAME .
 data-ee807be806.reviersport.de CNAME .
@@ -1754,6 +1765,7 @@ data-f59db3288b.giessener-anzeiger.de CNAME .
 data-f59db3288b.hallo-muenchen.de CNAME .
 data-f59db3288b.hanauer.de CNAME .
 data-f59db3288b.heidelberg24.de CNAME .
+data-f59db3288b.herbstfest-rosenheim.de CNAME .
 data-f59db3288b.hersfelder-zeitung.de CNAME .
 data-f59db3288b.hna.de CNAME .
 data-f59db3288b.in-muenchen.de CNAME .
@@ -1784,6 +1796,7 @@ data-f59db3288b.soester-anzeiger.de CNAME .
 data-f59db3288b.torgranate.de CNAME .
 data-f59db3288b.tz.de CNAME .
 data-f59db3288b.usinger-anzeiger.de CNAME .
+data-f59db3288b.volksfest-freising.de CNAME .
 data-f59db3288b.wa.de CNAME .
 data-f59db3288b.wasserburg24.de CNAME .
 data-f59db3288b.webnachrichten.de CNAME .

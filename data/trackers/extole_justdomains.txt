@@ -17,6 +17,7 @@ refer.ahsfriends.com
 refer.american-giant.com
 refer.americanexpress.com
 refer.ancestry.com
+refer.aol.com
 refer.app.com
 refer.backcountry.com
 refer.barenecessities.com
@@ -241,6 +242,7 @@ refer.itcosmetics.com
 refer.jewelersmutual.com
 refer.joann.com
 refer.join1440.com
+refer.jonesservices.com
 refer.juicepress.com
 refer.keds.com
 refer.kerastase-usa.com
@@ -324,6 +326,7 @@ refer.studentuniverse.com.au
 refer.sugarandjade.com
 refer.swansonvitamins.com
 refer.take5oilchange.com
+refer.tatcha.co.uk
 refer.tatcha.com
 refer.taxact.com
 refer.teladoc.com
@@ -572,5 +575,4 @@ share.zenbusiness.com
 www.referquickbooks.com
 em1476.princesscruises.com
 em8561.go2bank.com
-refer.aol.com
 sftp.extole.com
