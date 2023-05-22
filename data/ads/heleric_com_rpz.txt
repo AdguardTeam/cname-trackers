@@ -42,6 +42,7 @@ dg.durgahsursize.com CNAME .
 dg.folksychapes.com CNAME .
 dl.fatimacapos.com CNAME .
 do.chimblyconyger.com CNAME .
+do.felidaeabasing.com CNAME .
 du.jubhahbalize.com CNAME .
 dv.citricesu.com CNAME .
 dw.organaamnions.com CNAME .
@@ -55,6 +56,7 @@ ew.physciahat.com CNAME .
 ey.fifthsheet.com CNAME .
 ey.hiedflashed.com CNAME .
 ez.cannelcaimito.com CNAME .
+fd.peguanmistone.com CNAME .
 ff.guimpefesses.com CNAME .
 fg.satraefreath.com CNAME .
 fh.termsixias.com CNAME .
@@ -76,6 +78,7 @@ gp.splodgydossing.com CNAME .
 gs.profrebecca.com CNAME .
 ha.reaffixteaey.com CNAME .
 hg.barwaltanha.com CNAME .
+hg.scallsoogloea.com CNAME .
 hi.oglesmulsify.com CNAME .
 hl.jinchaovetoer.com CNAME .
 hw.testulebottega.com CNAME .
@@ -101,11 +104,14 @@ jl.reckonpretax.com CNAME .
 jo.dinahmirv.com CNAME .
 jo.maraewid.com CNAME .
 jo.tictocswended.com CNAME .
+jr.guestschewy.com CNAME .
+js.gussiesarkosic.com CNAME .
 ju.kittlesoceania.com CNAME .
 ju.veganswingbow.com CNAME .
 jv.curiousuraemia.com CNAME .
 jw.posiedcaridea.com CNAME .
 jx.yonnersekere.com CNAME .
+ke.kabalagarsil.com CNAME .
 kl.osmoticchalah.com CNAME .
 kp.stingeantonia.com CNAME .
 ks.dagamemisdeed.com CNAME .
@@ -127,6 +133,7 @@ lq.nullusposolo.com CNAME .
 ls.hongaries.com CNAME .
 lv.mandatscrate.com CNAME .
 ly.koitapuanteing.com CNAME .
+lz.geasefloria.com CNAME .
 ma.preensosiery.com CNAME .
 mc.brewseryngo.com CNAME .
 md.unsizedreaward.com CNAME .
@@ -138,6 +145,8 @@ mp.ualisbaubles.com CNAME .
 mu.laplingskevish.com CNAME .
 my.ursstubs.com CNAME .
 nc.nominaturfy.com CNAME .
+ne.galenicnidana.com CNAME .
+ne.jarringerns.com CNAME .
 nj.molliefidac.com CNAME .
 np.brackenclomped.com CNAME .
 np.incrustkantela.com CNAME .
@@ -145,6 +154,7 @@ nr.celaenomash.com CNAME .
 ns.gyreneverist.com CNAME .
 oa.skancehobo.com CNAME .
 ob.freyrclogs.com CNAME .
+og.cejainlike.com CNAME .
 oj.daunnotes.com CNAME .
 ok.ribworkstylus.com CNAME .
 or.alpieutieboy.com CNAME .
@@ -162,11 +172,14 @@ px.owdunpiled.com CNAME .
 qb.falsenalice.com CNAME .
 qd.gibbarwaiting.com CNAME .
 qd.loathesentour.com CNAME .
+qg.mangerydewrot.com CNAME .
+qk.eyrarbuggers.com CNAME .
 qo.dunganof.com CNAME .
 qs.levooutlast.com CNAME .
 qu.oilsulva.com CNAME .
 qv.kempitepterin.com CNAME .
 qv.snaprosery.com CNAME .
+qw.garpikewoodbox.com CNAME .
 qz.equalsenframe.com CNAME .
 ra.polyserbdom.com CNAME .
 rg.canesbilker.com CNAME .
@@ -181,6 +194,7 @@ rw.davielyedith.com CNAME .
 rw.gundogleaker.com CNAME .
 rx.dewlesssnorted.com CNAME .
 rx.ominateamt.com CNAME .
+sa.resailsgyse.com CNAME .
 sb.elfshippref.com CNAME .
 sc.achingpliant.com CNAME .
 sc.waapadaggled.com CNAME .
@@ -190,6 +204,7 @@ sf.dirhamsleered.com CNAME .
 sf.zestfulpize.com CNAME .
 sl.elinvarpayola.com CNAME .
 sl.frondewame.com CNAME .
+sn.weirmelamin.com CNAME .
 sq.volvellurol.com CNAME .
 sr.awkwardpurfles.com CNAME .
 sv.werewaught.com CNAME .
@@ -206,10 +221,12 @@ tp.parcbegulf.com CNAME .
 tr.impoundiranism.com CNAME .
 ts.toccatamotific.com CNAME .
 tt.smirkydiff.com CNAME .
+tw.canjacvinum.com CNAME .
 ul.sokesbarling.com CNAME .
 ul.spatingaegina.com CNAME .
 um.sullageprancy.com CNAME .
 un.clobberkiliare.com CNAME .
+un.ginnleunshift.com CNAME .
 uo.tubaronunheler.com CNAME .
 ur.meteredrato.com CNAME .
 ur.olivetkneel.com CNAME .

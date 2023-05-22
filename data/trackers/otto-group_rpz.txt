@@ -67,6 +67,7 @@ tp.universal.at CNAME .
 tp.witt-international.cz CNAME .
 tp.witt-international.nl CNAME .
 tp.witt-international.sk CNAME .
+tp.witt-weiden.at CNAME .
 tp.witt-weiden.de CNAME .
 tp.yomonda.de CNAME .
 tp.your-look-for-less.nl CNAME .

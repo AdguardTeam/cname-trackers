@@ -67,6 +67,7 @@
 ||tp.witt-international.cz^
 ||tp.witt-international.nl^
 ||tp.witt-international.sk^
+||tp.witt-weiden.at^
 ||tp.witt-weiden.de^
 ||tp.yomonda.de^
 ||tp.your-look-for-less.nl^

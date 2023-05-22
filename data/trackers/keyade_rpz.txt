@@ -25,6 +25,7 @@ keyade.alltricks.fr CNAME .
 keyade.ooreka.fr CNAME .
 keyade.uniqlo.com CNAME .
 market-keyade.macif.fr CNAME .
+tck.fr.transavia.com CNAME .
 tck.photobox.com CNAME .
 tck.wonderbox.fr CNAME .
 k.truffaut.com CNAME .

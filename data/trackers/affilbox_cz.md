@@ -51,13 +51,11 @@
 | affil.gentleport.cz | cz.affilbox.cz |
 | affil.hifimarket.cz | cz.affilbox.cz |
 | affil.hobbytec.cz | cz.affilbox.cz |
-| affil.home-max.cz | cz.affilbox.cz |
 | affil.jobsik.cz | cz.affilbox.cz |
 | affil.katalog-rebelky.cz | cz.affilbox.cz |
 | affil.knihavyhod.cz | cz.affilbox.cz |
 | affil.knihazenasnov.sk | cz.affilbox.cz |
 | affil.kralovstvi-tiande.cz | cz.affilbox.cz |
-| affil.lidespete.cz | cz.affilbox.cz |
 | affil.litinove-nadobi.cz | cz.affilbox.cz |
 | affil.moringamix.cz | cz.affilbox.cz |
 | affil.mydrinks.cz | cz.affilbox.cz |
@@ -74,7 +72,6 @@
 | affil.seminarkyza1.cz | cz.affilbox.cz |
 | affil.sexshop1.cz | cz.affilbox.cz |
 | affil.skolaobjemu.eu | cz.affilbox.cz |
-| affil.smartings.cz | cz.affilbox.cz |
 | affil.snadnejsizivot.cz | cz.affilbox.cz |
 | affil.somavedic.cz | cz.affilbox.cz |
 | affil.sportinator.cz | cz.affilbox.cz |
@@ -116,7 +113,6 @@
 | affiliate.appleking.cz | cz.affilbox.cz |
 | affiliate.applemix.cz | cz.affilbox.cz |
 | affiliate.batteryshop.cz | cz.affilbox.cz |
-| affiliate.baushop.cz | cz.affilbox.cz |
 | affiliate.bestdrink.cz | cz.affilbox.cz |
 | affiliate.bezvatriko.cz | cz.affilbox.cz |
 | affiliate.bezvatriko.sk | cz.affilbox.cz |
@@ -466,6 +462,7 @@
 | partner.evolutionhub.cz | cz.affilbox.cz |
 | partner.expresmenu.com | cz.affilbox.cz |
 | partner.expresmenu.cz | cz.affilbox.cz |
+| partner.expresmenu.pl | cz.affilbox.cz |
 | partner.expresmenu.sk | cz.affilbox.cz |
 | partner.fermato.cz | cz.affilbox.cz |
 | partner.ferratum.cz | cz.affilbox.cz |
@@ -479,6 +476,7 @@
 | partner.granule-eshop.cz | cz.affilbox.cz |
 | partner.gurufinance.cz | cz.affilbox.cz |
 | partner.hanamoneam.com | cz.affilbox.cz |
+| partner.hegesztok-bolt.hu | cz.affilbox.cz |
 | partner.hemptor.cz | cz.affilbox.cz |
 | partner.hodinarstvi.cz | cz.affilbox.cz |
 | partner.hoska-tour.cz | cz.affilbox.cz |
@@ -632,6 +630,7 @@
 | partner.zombeek.cz | cz.affilbox.cz |
 | partner.zonky.cz | cz.affilbox.cz |
 | partner.zv1.cz | cz.affilbox.cz |
+| partner.zvaracky-obchod.sk | cz.affilbox.cz |
 | partneri.affiliate-program.sk | cz.affilbox.cz |
 | partneri.affiliatevyzva.cz | cz.affilbox.cz |
 | partneri.akodlhsiezit.sk | cz.affilbox.cz |
@@ -783,6 +782,7 @@
 | royalfamily.royalchaga.sk | cz.affilbox.cz |
 | special.kvetinyexpres.cz | cz.affilbox.cz |
 | spolu.kuskakaa.cz | cz.affilbox.cz |
+| spoluprace.bafoo.cz | cz.affilbox.cz |
 | spoluprace.blackkale.cz | cz.affilbox.cz |
 | spoluprace.denikletusky.cz | cz.affilbox.cz |
 | spoluprace.eroticstore.cz | cz.affilbox.cz |

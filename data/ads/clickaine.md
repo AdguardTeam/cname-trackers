@@ -17,7 +17,6 @@
 | api2.clickaine.com | api.clickaine.com |
 | app.rtnews.pro | api.clickaine.com |
 | app.willalland.info | api.clickaine.com |
-| asg.animeyt.es | api.clickaine.com |
 | asg.javhoho.com | api.clickaine.com |
 | asg.torocomoroco.work | api.clickaine.com |
 | asg.uzporn.com | api.clickaine.com |
@@ -60,6 +59,7 @@
 | cli.its2.net | api.clickaine.com |
 | clickc4n.pornharlot.com | api.clickaine.com |
 | clickc4n.pornharlot.net | api.clickaine.com |
+| clk.slutcam.org | api.clickaine.com |
 | clkn.apostle.onl | api.clickaine.com |
 | clkn2.apostle.onl | api.clickaine.com |
 | clkn3.apostle.onl | api.clickaine.com |

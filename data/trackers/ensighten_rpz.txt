@@ -94,6 +94,7 @@ attribution.batesfootwear.com CNAME .
 attribution.grasshoppers.com CNAME .
 attribution.keds.com CNAME .
 attribution.lebara.com CNAME .
+attribution.lendopolis.com CNAME .
 attribution.merrell.com CNAME .
 attribution.saucony.com CNAME .
 attribution.sperry.com CNAME .

@@ -36,13 +36,11 @@ affil.gamlery.cz CNAME .
 affil.gentleport.cz CNAME .
 affil.hifimarket.cz CNAME .
 affil.hobbytec.cz CNAME .
-affil.home-max.cz CNAME .
 affil.jobsik.cz CNAME .
 affil.katalog-rebelky.cz CNAME .
 affil.knihavyhod.cz CNAME .
 affil.knihazenasnov.sk CNAME .
 affil.kralovstvi-tiande.cz CNAME .
-affil.lidespete.cz CNAME .
 affil.litinove-nadobi.cz CNAME .
 affil.moringamix.cz CNAME .
 affil.mydrinks.cz CNAME .
@@ -59,7 +57,6 @@ affil.seduo.cz CNAME .
 affil.seminarkyza1.cz CNAME .
 affil.sexshop1.cz CNAME .
 affil.skolaobjemu.eu CNAME .
-affil.smartings.cz CNAME .
 affil.snadnejsizivot.cz CNAME .
 affil.somavedic.cz CNAME .
 affil.sportinator.cz CNAME .
@@ -101,7 +98,6 @@ affiliate.ambitv.cz CNAME .
 affiliate.appleking.cz CNAME .
 affiliate.applemix.cz CNAME .
 affiliate.batteryshop.cz CNAME .
-affiliate.baushop.cz CNAME .
 affiliate.bestdrink.cz CNAME .
 affiliate.bezvatriko.cz CNAME .
 affiliate.bezvatriko.sk CNAME .
@@ -451,6 +447,7 @@ partner.eshop-rodas.cz CNAME .
 partner.evolutionhub.cz CNAME .
 partner.expresmenu.com CNAME .
 partner.expresmenu.cz CNAME .
+partner.expresmenu.pl CNAME .
 partner.expresmenu.sk CNAME .
 partner.fermato.cz CNAME .
 partner.ferratum.cz CNAME .
@@ -464,6 +461,7 @@ partner.gokids.cz CNAME .
 partner.granule-eshop.cz CNAME .
 partner.gurufinance.cz CNAME .
 partner.hanamoneam.com CNAME .
+partner.hegesztok-bolt.hu CNAME .
 partner.hemptor.cz CNAME .
 partner.hodinarstvi.cz CNAME .
 partner.hoska-tour.cz CNAME .
@@ -617,6 +615,7 @@ partner.zkontrolujsiauto.cz CNAME .
 partner.zombeek.cz CNAME .
 partner.zonky.cz CNAME .
 partner.zv1.cz CNAME .
+partner.zvaracky-obchod.sk CNAME .
 partneri.affiliate-program.sk CNAME .
 partneri.affiliatevyzva.cz CNAME .
 partneri.akodlhsiezit.sk CNAME .
@@ -768,6 +767,7 @@ rek.rybizak.cz CNAME .
 royalfamily.royalchaga.sk CNAME .
 special.kvetinyexpres.cz CNAME .
 spolu.kuskakaa.cz CNAME .
+spoluprace.bafoo.cz CNAME .
 spoluprace.blackkale.cz CNAME .
 spoluprace.denikletusky.cz CNAME .
 spoluprace.eroticstore.cz CNAME .

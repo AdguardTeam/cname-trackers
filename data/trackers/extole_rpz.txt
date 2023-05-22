@@ -23,7 +23,6 @@ refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
 refer.basictalk.com CNAME .
 refer.betterbraces.com CNAME .
-refer.bookbyte.com CNAME .
 refer.bostonglobe.com CNAME .
 refer.bowflex.com CNAME .
 refer.calstate.aaa.com CNAME .
@@ -175,7 +174,6 @@ refer.burtsbees.com CNAME .
 refer.caavo.com CNAME .
 refer.cacique.com CNAME .
 refer.calo.app CNAME .
-refer.canoos.com CNAME .
 refer.catfootwear.com CNAME .
 refer.centier.com CNAME .
 refer.chacos.com CNAME .
@@ -443,6 +441,7 @@ share.firstleaf.com CNAME .
 share.floridatoday.com CNAME .
 share.freep.com CNAME .
 share.fullbay.com CNAME .
+share.fundrive.savers.com CNAME .
 share.galagala.com CNAME .
 share.getsetup.io CNAME .
 share.giftcardgranny.com CNAME .

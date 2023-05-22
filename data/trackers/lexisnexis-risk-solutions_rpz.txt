@@ -337,7 +337,6 @@ ddc.worldpay.com CNAME .
 de9c635aa0404558bd527220ef4e6b4b.betway.ca CNAME .
 debs.my100bank.com CNAME .
 dep.gambit3.gameassists.co.uk CNAME .
-dept.provantage.com CNAME .
 dev-check3.dev.everbank.com CNAME .
 dev-rmscheck.sbifxt.co.jp CNAME .
 device.invoice2go.com CNAME .
@@ -544,6 +543,7 @@ prod-redwood.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
 prod-uecupa.chaperone.lumindigitalhosting.com CNAME .
 prod-utenn.chaperone.lumindigitalhosting.com CNAME .
+prod-vantage.chaperone.lumindigitalhosting.com CNAME .
 profiling.cmo.cibc.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
 profiling.qacitizensbankonline.com CNAME .
@@ -633,7 +633,6 @@ src.ebay-us.com CNAME .
 src0.myvoffice.com CNAME .
 ssafp.samsclub.com CNAME .
 st10.sofi.com CNAME .
-stat.blueorangebank.com CNAME .
 stat.bluorbank.lv CNAME .
 static.bc-cdn.io CNAME .
 static.fairstone.ca CNAME .
@@ -702,6 +701,7 @@ tag.ucp.dor.wa.gov CNAME .
 tag.unclaimedfunds.nj.gov CNAME .
 tag.unclaimedproperty.alaska.gov CNAME .
 tag.unclaimedproperty.delaware.gov CNAME .
+tag.unclaimedproperty.ks.gov CNAME .
 tag.unclaimedproperty.nd.gov CNAME .
 tags.api.openaccount.natwest.com CNAME .
 tags.api.openaccount.rbs.co.uk CNAME .

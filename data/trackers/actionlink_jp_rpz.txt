@@ -18,5 +18,6 @@ al.office-com.jp CNAME .
 al.pierrotshop.jp CNAME .
 al.shiffon-online.jp CNAME .
 al.shopyamatoya-jp.com CNAME .
+al.talex.co.jp CNAME .
 al.tanabesports.com CNAME .
 al.tsukurupajama.jp CNAME .

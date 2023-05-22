@@ -55,7 +55,6 @@
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
 ||c0i.ckoi.com^
-||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||ca.clubavantages.net^
 ||cbl6.destinia.gt^
@@ -176,6 +175,7 @@
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
 ||ea.zgeneration.com^
+||eat9.thebeat925.ca^
 ||ebc1.capifrance.fr^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
@@ -183,6 +183,7 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
+||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||et.sncf.com^
 ||et.swatch.com^
@@ -284,7 +285,6 @@
 ||lwh1.carrefour-banque.fr^
 ||ly8c.caci-online.fr^
 ||lzuc.sfr.fr^
-||m10.m1029.com^
 ||m3ds.subarumetropolitain.com^
 ||mfd.myfirstdressing.com^
 ||mgt7.madeindesign.it^
@@ -483,9 +483,9 @@
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
 ||b1n.carabins.umontreal.ca^
-||eat9.thebeat925.ca^
-||erb.tremblant.ca^
+||c0p.cepsum.umontreal.ca^
 ||hk2d.tourismemauricie.com^
+||m10.m1029.com^
 ||nym5c.bonlook.com^
 ||www.mis.tourisme-montreal.org^
 ||ea.mnt.fr^

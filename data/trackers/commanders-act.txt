@@ -4,9 +4,9 @@
 ||data.decathlon.de^
 ||data.decathlon.es^
 ||data.decathlon.fr^
+||data.decathlon.it^
 ||data.decathlon.pl^
 ||data.ouigo.com^
-||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^
@@ -17,7 +17,7 @@
 ||tcdata.fnac.com^
 ||acquisition.klm.com^
 ||data.cofinoga.fr^
-||data.decathlon.it^
 ||data.ricaud.com^
+||data.ubi.com^
 ||tc.europcar.com^
 ||tc.europcar.com.au^

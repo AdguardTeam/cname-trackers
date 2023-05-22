@@ -107,6 +107,7 @@
 | tr.bati-partners.be | tracking.bp01.net |
 | tr.batirenover.info | tracking.bp01.net |
 | tr.batiweb.co | tracking.bp01.net |
+| tr.bern.espmp-nifr.net | tracking.bp01.net |
 | tr.bgl.premium-benefits.lu | tracking.bp01.net |
 | tr.bienvenue.envie-de-bien-manger.com | tracking.bp01.net |
 | tr.bizzquotes.co.uk | tracking.bp01.net |
@@ -424,6 +425,7 @@
 | tr.info.perl.fr | tracking.bp01.net |
 | tr.info.ph-bpifrance.fr | tracking.bp01.net |
 | tr.info.phsolidaire-bpifrance.fr | tracking.bp01.net |
+| tr.info.pret-bpifrance.fr | tracking.bp01.net |
 | tr.info.pret-participatif.fr | tracking.bp01.net |
 | tr.info.projeo-finance.fr | tracking.bp01.net |
 | tr.info.promoneuve.fr | tracking.bp01.net |
@@ -443,7 +445,6 @@
 | tr.information.lacollection-airfrance.fr | tracking.bp01.net |
 | tr.information.perfectstay.com | tracking.bp01.net |
 | tr.information.thelist-emirates.fr | tracking.bp01.net |
-| tr.informations.dila.gouv.fr | tracking.bp01.net |
 | tr.informations.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.informations.lcl.fr | tracking.bp01.net |
 | tr.infos.afpa.fr | tracking.bp01.net |
@@ -893,6 +894,7 @@
 | tr.thisiseurope.moethennessy.com | tracking.bp01.net |
 | tr.tns.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.toner-service.fr | tracking.bp01.net |
+| tr.toner-services.fr | tracking.bp01.net |
 | tr.tourisme.visit-lanarbonnaise.com | tracking.bp01.net |
 | tr.tpe.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |
@@ -953,5 +955,6 @@
 | tr1.psa-surveys.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
 | tracking.allopneus.com | tracking.bp01.net |
+| www.newsletter.banquepopulaire.fr | tracking.bp01.net |
 | www.np6.eu | tracking.bp01.net |
 | www.tr.bfc-mp.caisse-epargne.fr | tracking.bp01.net |

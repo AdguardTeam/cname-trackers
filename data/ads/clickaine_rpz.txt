@@ -9,7 +9,6 @@ api.willalland.info CNAME .
 api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
 app.willalland.info CNAME .
-asg.animeyt.es CNAME .
 asg.javhoho.com CNAME .
 asg.torocomoroco.work CNAME .
 asg.uzporn.com CNAME .
@@ -52,6 +51,7 @@ ck.zzipps.com CNAME .
 cli.its2.net CNAME .
 clickc4n.pornharlot.com CNAME .
 clickc4n.pornharlot.net CNAME .
+clk.slutcam.org CNAME .
 clkn.apostle.onl CNAME .
 clkn2.apostle.onl CNAME .
 clkn3.apostle.onl CNAME .

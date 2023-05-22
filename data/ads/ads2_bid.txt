@@ -4,6 +4,7 @@
 ||ac-dir-co.8njhhs0ivx.com^
 ||ac-dir-co.cau1aighae.com^
 ||ac-dir-co.iiltsdqcsb.com^
+||ac-dir-co.iroebhuszq.com^
 ||ac-dir-co.jsgbmmcapc.com^
 ||ac-dir-co.kwzdbbkpre.com^
 ||ac-dir-co.t4ergzwf7r.com^
@@ -16,6 +17,7 @@
 ||ac-dir-sing.8njhhs0ivx.com^
 ||ac-dir-sing.cau1aighae.com^
 ||ac-dir-sing.iiltsdqcsb.com^
+||ac-dir-sing.iroebhuszq.com^
 ||ac-dir-sing.jsgbmmcapc.com^
 ||ac-dir-sing.kwzdbbkpre.com^
 ||ac-dir-sing.nask2sowrz.com^
@@ -36,12 +38,14 @@
 ||avb-co.cau1aighae.com^
 ||avb-co.iemieshohx.com^
 ||avb-co.iiltsdqcsb.com^
+||avb-co.iroebhuszq.com^
 ||avb-co.jsgbmmcapc.com^
 ||avb-co.kwzdbbkpre.com^
 ||avb-co.t4ergzwf7r.com^
 ||avb-co.xw1fx50x35.com^
 ||avb-latam.8njhhs0ivx.com^
 ||avb-latam.cau1aighae.com^
+||avb-latam.iroebhuszq.com^
 ||avb-latam.jsgbmmcapc.com^
 ||avb-latam.kwzdbbkpre.com^
 ||avb-latam.t4ergzwf7r.com^
@@ -49,6 +53,7 @@
 ||avb-sing.13wynpuurt.ru^
 ||avb-sing.8njhhs0ivx.com^
 ||avb-sing.cau1aighae.com^
+||avb-sing.iroebhuszq.com^
 ||avb-sing.jsgbmmcapc.com^
 ||avb-sing.kwzdbbkpre.com^
 ||avb-sing.t4ergzwf7r.com^
@@ -63,6 +68,7 @@
 ||di-res-latam.xw1fx50x35.com^
 ||di-res-sing.8njhhs0ivx.com^
 ||di-res-sing.cau1aighae.com^
+||di-res-sing.iroebhuszq.com^
 ||di-res-sing.jsgbmmcapc.com^
 ||di-res-sing.kwzdbbkpre.com^
 ||di-res-sing.t4ergzwf7r.com^
@@ -70,6 +76,7 @@
 ||di-res.8njhhs0ivx.com^
 ||di-res.cau1aighae.com^
 ||di-res.iemieshohx.com^
+||di-res.iroebhuszq.com^
 ||di-res.jsgbmmcapc.com^
 ||di-res.kwzdbbkpre.com^
 ||di-res.t4ergzwf7r.com^
@@ -80,6 +87,7 @@
 ||dsp-image-resizer.gamz48qlok.ru^
 ||latam.8njhhs0ivx.com^
 ||latam.cau1aighae.com^
+||latam.iroebhuszq.com^
 ||latam.jsgbmmcapc.com^
 ||latam.kwzdbbkpre.com^
 ||latam.t4ergzwf7r.com^
@@ -90,6 +98,7 @@
 ||sing.cau1aighae.com^
 ||sing.iemieshohx.com^
 ||sing.iiltsdqcsb.com^
+||sing.iroebhuszq.com^
 ||sing.jsgbmmcapc.com^
 ||sing.kwzdbbkpre.com^
 ||sing.qkyb8htwd9.ru^

@@ -36,13 +36,11 @@ affil.gamlery.cz
 affil.gentleport.cz
 affil.hifimarket.cz
 affil.hobbytec.cz
-affil.home-max.cz
 affil.jobsik.cz
 affil.katalog-rebelky.cz
 affil.knihavyhod.cz
 affil.knihazenasnov.sk
 affil.kralovstvi-tiande.cz
-affil.lidespete.cz
 affil.litinove-nadobi.cz
 affil.moringamix.cz
 affil.mydrinks.cz
@@ -59,7 +57,6 @@ affil.seduo.cz
 affil.seminarkyza1.cz
 affil.sexshop1.cz
 affil.skolaobjemu.eu
-affil.smartings.cz
 affil.snadnejsizivot.cz
 affil.somavedic.cz
 affil.sportinator.cz
@@ -101,7 +98,6 @@ affiliate.ambitv.cz
 affiliate.appleking.cz
 affiliate.applemix.cz
 affiliate.batteryshop.cz
-affiliate.baushop.cz
 affiliate.bestdrink.cz
 affiliate.bezvatriko.cz
 affiliate.bezvatriko.sk
@@ -451,6 +447,7 @@ partner.eshop-rodas.cz
 partner.evolutionhub.cz
 partner.expresmenu.com
 partner.expresmenu.cz
+partner.expresmenu.pl
 partner.expresmenu.sk
 partner.fermato.cz
 partner.ferratum.cz
@@ -464,6 +461,7 @@ partner.gokids.cz
 partner.granule-eshop.cz
 partner.gurufinance.cz
 partner.hanamoneam.com
+partner.hegesztok-bolt.hu
 partner.hemptor.cz
 partner.hodinarstvi.cz
 partner.hoska-tour.cz
@@ -617,6 +615,7 @@ partner.zkontrolujsiauto.cz
 partner.zombeek.cz
 partner.zonky.cz
 partner.zv1.cz
+partner.zvaracky-obchod.sk
 partneri.affiliate-program.sk
 partneri.affiliatevyzva.cz
 partneri.akodlhsiezit.sk
@@ -768,6 +767,7 @@ rek.rybizak.cz
 royalfamily.royalchaga.sk
 special.kvetinyexpres.cz
 spolu.kuskakaa.cz
+spoluprace.bafoo.cz
 spoluprace.blackkale.cz
 spoluprace.denikletusky.cz
 spoluprace.eroticstore.cz

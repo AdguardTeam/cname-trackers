@@ -11,8 +11,8 @@
 ||cdn.asrop.xyz^
 ||cdn.barlo.xyz^
 ||cdn.buram.xyz^
-||cdn.colarak.com^
 ||cdn.decpo.xyz^
+||cdn.drawx.xyz^
 ||cdn.eeco.xyz^
 ||cdn.faspox.com^
 ||cdn.fedsy.xyz^
@@ -27,14 +27,13 @@
 ||cdn.jhoncj.com^
 ||cdn.jwalf.com^
 ||cdn.karpatzi.com^
-||cdn.kolanx.com^
 ||cdn.luxope.com^
 ||cdn.mtinsqq.com^
 ||cdn.namol.xyz^
-||cdn.noptog.com^
 ||cdn.norymo.com^
 ||cdn.nuqwe.com^
 ||cdn.olep.xyz^
+||cdn.pctv.xyz^
 ||cdn.posawaj.com^
 ||cdn.rapolok.com^
 ||cdn.rgrd.xyz^
@@ -43,12 +42,11 @@
 ||cdn.srxy.xyz^
 ||cdn.viowrel.com^
 ||cdn.wwfx.xyz^
-||cdn.xawlop.com^
 ||cdn.xbcpcn.com^
-||cdn.yopard.com^
 ||cdn.zxclan.com^
 ||4ke5b4ila.codedge.de^
 ||7wrxo2xh.iriscreative.co^
+||8inhjmd.usefathom.com^
 ||9kz9cttz76.antonsten.com^
 ||aardvark.helpingpets.org.uk^
 ||aardvark.revolana.rs^
@@ -106,6 +104,7 @@
 ||baldeagle.e-ma.re^
 ||baldeagle.eternalmma.com^
 ||bandicoot.mohit.dev^
+||bandicoot.p0.design^
 ||bandicoot.sigerr.org^
 ||barnacle.big-in-japan.com^
 ||barnacle.viewsource.io^
@@ -179,6 +178,7 @@
 ||capybara.civicsoftwarefoundation.org^
 ||cardinal.businessfirstonline.co.uk^
 ||cardinal.ensembleblock.com^
+||cardinal.genx.be^
 ||cardinal.iwgb.org.uk^
 ||cardinal.zenting.app^
 ||caribou.color.io^
@@ -224,7 +224,6 @@
 ||cephalopod.nucleus.us^
 ||cephalopod.revelio.io^
 ||cephalopod.staff.design^
-||chameleon.rndm.uk^
 ||cheetah.gaptry.com^
 ||cheetah.songrender.com^
 ||cheetah.zeh.co.il^
@@ -265,7 +264,6 @@
 ||cougar.companymoneyworries.co.uk^
 ||cougar.wzulfikar.com^
 ||coyote.12gem.me^
-||coyote.alboweb.nl^
 ||coyote.gnx.cloud^
 ||coyote.hopr.swiss^
 ||coyote.nickgurney.com^
@@ -394,6 +392,7 @@
 ||frog.resavma.com^
 ||gamefowl.emailforward.mx^
 ||gamefowl.karlsutt.com^
+||gamefowl.nonprofit.foundation^
 ||gayal.guter-plan.at^
 ||gayal.maxmasnick.com^
 ||gayal.stockshouse.co^
@@ -546,7 +545,6 @@
 ||landsnail.garasjeport1.no^
 ||landsnail.motin.eu^
 ||lark.pollie.dev^
-||leech.bouma.dev^
 ||leech.fuchsegg.at^
 ||leech.privacycloud.com^
 ||leech.stargate-project.de^
@@ -609,7 +607,6 @@
 ||mastodon.thrustcarbon.com^
 ||meadowlark.bump.sh^
 ||meadowlark.psynapse.no^
-||meadowlark.tempus.im^
 ||meerkat.bigcrazylife.com^
 ||meerkat.inprivy.io^
 ||meerkat.nilsmielke.me^
@@ -622,6 +619,7 @@
 ||mite.tetrameros.com^
 ||mockingbir.sgfunited.com^
 ||mole.bteam.co^
+||mole.bubblefoundation.org.uk^
 ||mole.dansksejlunion.dk^
 ||mole.energizer.eu^
 ||mole.gostartupco.com^
@@ -656,6 +654,7 @@
 ||ocelot.goinpaces.com^
 ||ocelot.pixlwebs.nl^
 ||octopus.couragetrainingcentre.com^
+||octopus.evobend.com^
 ||octopus.hans-hornberger.de^
 ||opossum.roleup.com^
 ||opossum.stephanieharari.com^
@@ -766,7 +765,6 @@
 ||rook.clarify.io^
 ||rook.flowlens.com^
 ||rook.grithix.com^
-||rook.moodgym.de^
 ||rooster.coombaaquatic.club^
 ||sailfish.hoap.com^
 ||sailfish.kentcdodds.com^
@@ -783,7 +781,6 @@
 ||scallop.productionrails.com^
 ||scallop.vav.link^
 ||scorpion.clare.ink^
-||scorpion.smskmail.com^
 ||sdegwynml.bmaci.me^
 ||seahorse.brightwayhealth.org^
 ||seahorse.dexterityvisuals.com^
@@ -851,6 +848,7 @@
 ||swordfish.elvietanny.com^
 ||swordfish.holzschuhe.at^
 ||swordfish.hotcross.com^
+||swordfish.lorem.industries^
 ||swordfish.mattpreston.io^
 ||swordtail.rockface.io^
 ||swordtail.thocstock.com^
@@ -917,11 +915,10 @@
 ||wolverine.barac.at^
 ||wolverine.jhdierenklinieken.nl^
 ||wombat.buildrtech.com^
-||woodpecker.eatfresh.tech^
 ||woodpecker.ember.ly^
 ||woodpecker.seabits.com^
 ||worm.paulstamatiou.com^
-||yak.embeddedartistry.com^
+||yak.auclantis.com^
 ||ads.djc.com^
 ||assets-v2.boisedev.com^
 ||assets-v2.invaluable.com^

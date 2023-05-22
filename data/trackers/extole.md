@@ -16,7 +16,6 @@
     * barenecessities.extole.com
     * basictalk-ssl.extole.com
     * betterbraces.extole.com
-    * bookbyte.extole.com
     * bostonglobe-ssl.extole.com
     * calstate-aaa.extole.com
     * carbonite-ssl.extole.com
@@ -182,7 +181,6 @@
     * caavo.extole.io
     * calo.extole.io
     * calvinklein.extole.io
-    * canoos.extole.io
     * carpartscom.extole.io
     * catfootwear.extole.io
     * cefaly.extole.io
@@ -406,6 +404,7 @@
     * saintjanebeauty.extole.io
     * samedelman.extole.io
     * saucony.extole.io
+    * savers.extole.io
     * scoresense.extole.io
     * seabourn.extole.io
     * securityplus.extole.io
@@ -582,7 +581,6 @@
 | share.bodendirect.de | boden-de.extole.io |
 | share.boden.fr | boden-fr.extole.io |
 | share.boden.co.uk | boden-uk.extole.io |
-| refer.bookbyte.com | bookbyte.extole.com |
 | refer.bose.co.uk | bose.extole.io |
 | refer.bose.com | bose.extole.io |
 | refer.bose.de | bose.extole.io |
@@ -606,7 +604,6 @@
 | refer.calo.app | calo.extole.io |
 | refer.calstate.aaa.com | calstate-aaa.extole.com |
 | share.calvinklein.us | calvinklein.extole.io |
-| refer.canoos.com | canoos.extole.io |
 | refer.carbonite.com | carbonite-ssl.extole.com |
 | share.carparts.com | carpartscom.extole.io |
 | refer.catfootwear.com | catfootwear.extole.io |
@@ -954,6 +951,7 @@
 | share.saintjanebeauty.com | saintjanebeauty.extole.io |
 | refer.samedelman.com | samedelman.extole.io |
 | refer.saucony.com | saucony.extole.io |
+| share.fundrive.savers.com | savers.extole.io |
 | refer.scoresense.com | scoresense.extole.io |
 | refer.seabourn.com | seabourn.extole.io |
 | share.securityplusfcu.org | securityplus.extole.io |

@@ -88,6 +88,7 @@
 ||tr.bati-partners.be^
 ||tr.batirenover.info^
 ||tr.batiweb.co^
+||tr.bern.espmp-nifr.net^
 ||tr.bgl.premium-benefits.lu^
 ||tr.bienvenue.envie-de-bien-manger.com^
 ||tr.bizzquotes.co.uk^
@@ -405,6 +406,7 @@
 ||tr.info.perl.fr^
 ||tr.info.ph-bpifrance.fr^
 ||tr.info.phsolidaire-bpifrance.fr^
+||tr.info.pret-bpifrance.fr^
 ||tr.info.pret-participatif.fr^
 ||tr.info.projeo-finance.fr^
 ||tr.info.promoneuve.fr^
@@ -424,7 +426,6 @@
 ||tr.information.lacollection-airfrance.fr^
 ||tr.information.perfectstay.com^
 ||tr.information.thelist-emirates.fr^
-||tr.informations.dila.gouv.fr^
 ||tr.informations.harmonie-mutuelle.fr^
 ||tr.informations.lcl.fr^
 ||tr.infos.afpa.fr^
@@ -874,6 +875,7 @@
 ||tr.thisiseurope.moethennessy.com^
 ||tr.tns.harmonie-mutuelle.fr^
 ||tr.toner-service.fr^
+||tr.toner-services.fr^
 ||tr.tourisme.visit-lanarbonnaise.com^
 ||tr.tpe.harmonie-mutuelle.fr^
 ||tr.trafficnews.lyria.com^
@@ -934,6 +936,7 @@
 ||tr1.psa-surveys.com^
 ||tr5.mailperf.com^
 ||tracking.allopneus.com^
+||www.newsletter.banquepopulaire.fr^
 ||www.np6.eu^
 ||www.tr.bfc-mp.caisse-epargne.fr^
 ||cotemaison.np6.com^

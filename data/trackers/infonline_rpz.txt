@@ -567,6 +567,7 @@ data-47ee1b0882.zuckerfabrik.de CNAME .
 data-4892815f14.fitbook.de CNAME .
 data-48d3085f82.hildesheimer-allgemeine.de CNAME .
 data-48fd46a412.digitalphoto.de CNAME .
+data-493270df85.laendle24.de CNAME .
 data-494b3b236f.goslarsche.de CNAME .
 data-497ecca600.erft-kurier.de CNAME .
 data-497ecca600.fupa.net CNAME .
@@ -1377,6 +1378,7 @@ data-c3391a3eb3.braunschweiger-zeitung.de CNAME .
 data-c3391a3eb3.harzkurier.de CNAME .
 data-c3391a3eb3.konzertkasse.de CNAME .
 data-c3391a3eb3.news38.de CNAME .
+data-c3391a3eb3.radio38.de CNAME .
 data-c3391a3eb3.trauer38.de CNAME .
 data-c33ac4a00e.tvnow.de CNAME .
 data-c48adafa24.teckbote.de CNAME .
@@ -1461,6 +1463,7 @@ data-ce326d00f8.flugrevue.de CNAME .
 data-ce54b2d2bd.apps.iocnt.de CNAME .
 data-ce904c6d42.metallbau-magazin.de CNAME .
 data-ce964ae059.guter-rat.de CNAME .
+data-ce964ae059.guterrat.de CNAME .
 data-cedbf1e823.apps.iocnt.de CNAME .
 data-cf521b4223.op-marburg.de CNAME .
 data-cf56e4da9b.motorradonline.de CNAME .

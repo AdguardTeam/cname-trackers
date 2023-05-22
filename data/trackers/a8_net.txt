@@ -66,6 +66,7 @@
 ||a8.engineer-shukatu.jp^
 ||a8.eonet.jp^
 ||a8.eonet.ne.jp^
+||a8.epo.info^
 ||a8.erasutamo.onlinestaff.jp^
 ||a8.everest.ac^
 ||a8.evertrust-inc.com^
@@ -218,6 +219,7 @@
 ||a8.tecpartners.jp^
 ||a8.teddyworks.co.jp^
 ||a8.the-session.jp^
+||a8.thg.co.jp^
 ||a8.tokyo-hills-clinic.com^
 ||a8.tone.ne.jp^
 ||a8.toraiz.jp^
@@ -234,6 +236,7 @@
 ||a8.volstar.jp^
 ||a8.vtuber.sexy^
 ||a8.watero.pet^
+||a8.waterstand.jp^
 ||a8.web-hikari.net^
 ||a8.webdeki.com^
 ||a8.webist-cri.com^
@@ -272,6 +275,7 @@
 ||a8clk.amelia.ne.jp^
 ||a8clk.ancar.jp^
 ||a8clk.ands-tech.com^
+||a8clk.angeliebe.co.jp^
 ||a8clk.aoki-style.com^
 ||a8clk.ap.livede55.com^
 ||a8clk.app.offerbox.jp^
@@ -365,6 +369,7 @@
 ||a8clk.jobspring.jp^
 ||a8clk.joggo.me^
 ||a8clk.joppy.jp^
+||a8clk.just-buy.jp^
 ||a8clk.justy-consul.com^
 ||a8clk.ka-shimo.com^
 ||a8clk.kaitori-beerecords.jp^
@@ -468,7 +473,6 @@
 ||a8clk.staff.mynavi.jp^
 ||a8clk.star-mall.net^
 ||a8clk.starwifi.jp^
-||a8clk.store.healthcare.omron.co.jp^
 ||a8clk.store.kadokawa.co.jp^
 ||a8clk.store.mago-ch.com^
 ||a8clk.stylestore.jp^
@@ -683,6 +687,7 @@
 ||a8cv.ishizawa-lab.co.jp^
 ||a8cv.isslim.jp^
 ||a8cv.isuzu-rinji.com^
+||a8cv.itscoco.shop^
 ||a8cv.iwamizu.com^
 ||a8cv.japaden.jp^
 ||a8cv.jcom-cabletv.jp^
@@ -696,6 +701,7 @@
 ||a8cv.kaitori-okoku.jp^
 ||a8cv.kaitorisatei.info^
 ||a8cv.kajier.jp^
+||a8cv.kikubari-bento.com^
 ||a8cv.king-makura.com^
 ||a8cv.kn-waterserver.com^
 ||a8cv.kosodatemoney.com^
@@ -898,6 +904,7 @@
 ||a8trk.www.std-lab.jp^
 ||acv.aun-n-hikari.com^
 ||acv.biglobe-hikari.net^
+||acv.cmf-hikari.net^
 ||acv.crea-lp.com^
 ||acv.hikarisoftbank.com^
 ||acv.mc-nurse.net^

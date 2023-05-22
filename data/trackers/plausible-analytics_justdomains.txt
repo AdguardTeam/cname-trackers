@@ -221,6 +221,7 @@ plausible.affluentjay.com
 plausible.alexandar.me
 plausible.alpaga.io
 plausible.app.kdojang.com
+plausible.app.tlschedule.com
 plausible.as207960.net
 plausible.bablab.com
 plausible.banovo.de
@@ -523,6 +524,7 @@ stats.devenet.eu
 stats.devenet.info
 stats.devetkomentara.net
 stats.devrain.io
+stats.devskills.co
 stats.dflydev.com
 stats.diarmuidsexton.com
 stats.digiexpert.store
@@ -538,7 +540,6 @@ stats.dotnetos.org
 stats.doublejones.com
 stats.dreher-dreher.eu
 stats.drewbolles.com
-stats.drgomesp.dev
 stats.drsaavedra.mx
 stats.drtdentist.ro
 stats.dt-esthetique.ch
@@ -681,7 +682,6 @@ stats.jonatanalvarsson.se
 stats.jpc.dev
 stats.jsbible.com
 stats.jtrees.io
-stats.juneum.com
 stats.juniperslab.com
 stats.justinwilliams.ca
 stats.kaladyaudiology.com
@@ -752,6 +752,7 @@ stats.motorcyclepartsireland.ie
 stats.muchbetteradventures.com
 stats.multiply.cloud
 stats.mysideproject.rocks
+stats.navedislam.com
 stats.nddmed.com
 stats.nexagon.dk
 stats.nicolabricot.com
@@ -777,7 +778,6 @@ stats.ownpath.xyz
 stats.owre.se
 stats.oxygem.com
 stats.p42.ai
-stats.parentinterviews.co.nz
 stats.pascalafleur.com
 stats.passwordyeti.com
 stats.pasteapp.io
@@ -835,7 +835,6 @@ stats.rocketvalidator.com
 stats.roderickduenas.com
 stats.ruhrfestspiele.de
 stats.rushilperera.me
-stats.ruthmontenegro.com
 stats.rymawby.com
 stats.s-zt.at
 stats.sahpa.co.za
@@ -922,6 +921,7 @@ stats.wymanmobilenotary.com
 stats.xactcode.com
 stats.xn--drivation-b4a.fr
 stats.yourdallashandyman.com
+stats.zehta.me
 stats.zimri.net
 sts.authramp.com
 sts.tour-europe.org
@@ -938,7 +938,6 @@ visitorcenter.srwild.com
 visitors.gigianddavid.com
 we-love-privacy.humane.club
 www2.azimuthpsych.com
-xyz.bestool.pl
 yolo.philipbjorge.com
 yolo.phpliveregex.com
 zahlen.olereissmann.de

@@ -567,6 +567,7 @@ data-47ee1b0882.zuckerfabrik.de
 data-4892815f14.fitbook.de
 data-48d3085f82.hildesheimer-allgemeine.de
 data-48fd46a412.digitalphoto.de
+data-493270df85.laendle24.de
 data-494b3b236f.goslarsche.de
 data-497ecca600.erft-kurier.de
 data-497ecca600.fupa.net
@@ -1377,6 +1378,7 @@ data-c3391a3eb3.braunschweiger-zeitung.de
 data-c3391a3eb3.harzkurier.de
 data-c3391a3eb3.konzertkasse.de
 data-c3391a3eb3.news38.de
+data-c3391a3eb3.radio38.de
 data-c3391a3eb3.trauer38.de
 data-c33ac4a00e.tvnow.de
 data-c48adafa24.teckbote.de
@@ -1461,6 +1463,7 @@ data-ce326d00f8.flugrevue.de
 data-ce54b2d2bd.apps.iocnt.de
 data-ce904c6d42.metallbau-magazin.de
 data-ce964ae059.guter-rat.de
+data-ce964ae059.guterrat.de
 data-cedbf1e823.apps.iocnt.de
 data-cf521b4223.op-marburg.de
 data-cf56e4da9b.motorradonline.de

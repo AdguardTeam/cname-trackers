@@ -386,6 +386,7 @@
     * h-kelmar-ar.online-metrix.net
     * h-kelmar-de.online-metrix.net
     * h-kelmar-il.online-metrix.net
+    * h-kelmar-ks.online-metrix.net
     * h-kelmar-ma.online-metrix.net
     * h-kelmar-me.online-metrix.net
     * h-kelmar-nd.online-metrix.net
@@ -495,7 +496,6 @@
     * h-pocketcard.online-metrix.net
     * h-portoseguro.online-metrix.net
     * h-prosper.online-metrix.net
-    * h-provantage.online-metrix.net
     * h-pscu.online-metrix.net
     * h-psecu.online-metrix.net
     * h-purepoint.online-metrix.net
@@ -644,6 +644,7 @@
 | prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-uecupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-utenn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-vantage.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | matrix.cpg.org | h-1qpcog32.online-metrix.net |
 | cnt.goboo.com | h-1u7ubqzg.online-metrix.net |
 | ptm.creditas.com | h-1vjjer2n.online-metrix.net |
@@ -808,7 +809,6 @@
 | content.byabcd.com | h-bhs5fatf.online-metrix.net |
 | content.biggerbooks.com | h-biggerbooks.online-metrix.net |
 | checkout.walz.de | h-blp4gupl.online-metrix.net |
-| stat.blueorangebank.com | h-blueorangebank.online-metrix.net |
 | stat.bluorbank.lv | h-blueorangebank.online-metrix.net |
 | tm-analytics.bluevine.com | h-bluevine.online-metrix.net |
 | content22.bmo.com | h-bmo.online-metrix.net |
@@ -1152,6 +1152,7 @@
 | tag.claimitar.com | h-kelmar-ar.online-metrix.net |
 | tag.unclaimedproperty.delaware.gov | h-kelmar-de.online-metrix.net |
 | tag.icash.illinoistreasurer.gov | h-kelmar-il.online-metrix.net |
+| tag.unclaimedproperty.ks.gov | h-kelmar-ks.online-metrix.net |
 | tag.findmassmoney.com | h-kelmar-ma.online-metrix.net |
 | tag.maineunclaimedproperty.gov | h-kelmar-me.online-metrix.net |
 | tag.unclaimedproperty.nd.gov | h-kelmar-nd.online-metrix.net |
@@ -1268,7 +1269,6 @@
 | rbawis.pocketcard.co.jp | h-pocketcard.online-metrix.net |
 | meiodepagamento.campanhaporto.com.br | h-portoseguro.online-metrix.net |
 | img2.prosper.com | h-prosper.online-metrix.net |
-| dept.provantage.com | h-provantage.online-metrix.net |
 | t.banking.blucurrent.org | h-pscu.online-metrix.net |
 | t.banking.njfcu.org | h-pscu.online-metrix.net |
 | t.demo.lumindigital.com | h-pscu.online-metrix.net |

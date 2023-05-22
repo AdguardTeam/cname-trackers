@@ -337,7 +337,6 @@ ddc.worldpay.com
 de9c635aa0404558bd527220ef4e6b4b.betway.ca
 debs.my100bank.com
 dep.gambit3.gameassists.co.uk
-dept.provantage.com
 dev-check3.dev.everbank.com
 dev-rmscheck.sbifxt.co.jp
 device.invoice2go.com
@@ -544,6 +543,7 @@ prod-redwood.chaperone.lumindigitalhosting.com
 prod-sesloc.chaperone.lumindigitalhosting.com
 prod-uecupa.chaperone.lumindigitalhosting.com
 prod-utenn.chaperone.lumindigitalhosting.com
+prod-vantage.chaperone.lumindigitalhosting.com
 profiling.cmo.cibc.com
 profiling.digitalbusiness.cibc.com
 profiling.qacitizensbankonline.com
@@ -633,7 +633,6 @@ src.ebay-us.com
 src0.myvoffice.com
 ssafp.samsclub.com
 st10.sofi.com
-stat.blueorangebank.com
 stat.bluorbank.lv
 static.bc-cdn.io
 static.fairstone.ca
@@ -702,6 +701,7 @@ tag.ucp.dor.wa.gov
 tag.unclaimedfunds.nj.gov
 tag.unclaimedproperty.alaska.gov
 tag.unclaimedproperty.delaware.gov
+tag.unclaimedproperty.ks.gov
 tag.unclaimedproperty.nd.gov
 tags.api.openaccount.natwest.com
 tags.api.openaccount.rbs.co.uk

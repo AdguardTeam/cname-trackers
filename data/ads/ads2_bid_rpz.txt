@@ -4,6 +4,7 @@ abttss-ur.exolkkl6i2puvf.ru CNAME .
 ac-dir-co.8njhhs0ivx.com CNAME .
 ac-dir-co.cau1aighae.com CNAME .
 ac-dir-co.iiltsdqcsb.com CNAME .
+ac-dir-co.iroebhuszq.com CNAME .
 ac-dir-co.jsgbmmcapc.com CNAME .
 ac-dir-co.kwzdbbkpre.com CNAME .
 ac-dir-co.t4ergzwf7r.com CNAME .
@@ -16,6 +17,7 @@ ac-dir-latam.xw1fx50x35.com CNAME .
 ac-dir-sing.8njhhs0ivx.com CNAME .
 ac-dir-sing.cau1aighae.com CNAME .
 ac-dir-sing.iiltsdqcsb.com CNAME .
+ac-dir-sing.iroebhuszq.com CNAME .
 ac-dir-sing.jsgbmmcapc.com CNAME .
 ac-dir-sing.kwzdbbkpre.com CNAME .
 ac-dir-sing.nask2sowrz.com CNAME .
@@ -36,12 +38,14 @@ avb-co.8njhhs0ivx.com CNAME .
 avb-co.cau1aighae.com CNAME .
 avb-co.iemieshohx.com CNAME .
 avb-co.iiltsdqcsb.com CNAME .
+avb-co.iroebhuszq.com CNAME .
 avb-co.jsgbmmcapc.com CNAME .
 avb-co.kwzdbbkpre.com CNAME .
 avb-co.t4ergzwf7r.com CNAME .
 avb-co.xw1fx50x35.com CNAME .
 avb-latam.8njhhs0ivx.com CNAME .
 avb-latam.cau1aighae.com CNAME .
+avb-latam.iroebhuszq.com CNAME .
 avb-latam.jsgbmmcapc.com CNAME .
 avb-latam.kwzdbbkpre.com CNAME .
 avb-latam.t4ergzwf7r.com CNAME .
@@ -49,6 +53,7 @@ avb-latam.xw1fx50x35.com CNAME .
 avb-sing.13wynpuurt.ru CNAME .
 avb-sing.8njhhs0ivx.com CNAME .
 avb-sing.cau1aighae.com CNAME .
+avb-sing.iroebhuszq.com CNAME .
 avb-sing.jsgbmmcapc.com CNAME .
 avb-sing.kwzdbbkpre.com CNAME .
 avb-sing.t4ergzwf7r.com CNAME .
@@ -63,6 +68,7 @@ di-res-latam.t4ergzwf7r.com CNAME .
 di-res-latam.xw1fx50x35.com CNAME .
 di-res-sing.8njhhs0ivx.com CNAME .
 di-res-sing.cau1aighae.com CNAME .
+di-res-sing.iroebhuszq.com CNAME .
 di-res-sing.jsgbmmcapc.com CNAME .
 di-res-sing.kwzdbbkpre.com CNAME .
 di-res-sing.t4ergzwf7r.com CNAME .
@@ -70,6 +76,7 @@ di-res-sing.xw1fx50x35.com CNAME .
 di-res.8njhhs0ivx.com CNAME .
 di-res.cau1aighae.com CNAME .
 di-res.iemieshohx.com CNAME .
+di-res.iroebhuszq.com CNAME .
 di-res.jsgbmmcapc.com CNAME .
 di-res.kwzdbbkpre.com CNAME .
 di-res.t4ergzwf7r.com CNAME .
@@ -80,6 +87,7 @@ dsp-image-resizer.adsbid.ru CNAME .
 dsp-image-resizer.gamz48qlok.ru CNAME .
 latam.8njhhs0ivx.com CNAME .
 latam.cau1aighae.com CNAME .
+latam.iroebhuszq.com CNAME .
 latam.jsgbmmcapc.com CNAME .
 latam.kwzdbbkpre.com CNAME .
 latam.t4ergzwf7r.com CNAME .
@@ -90,6 +98,7 @@ sing.8njhhs0ivx.com CNAME .
 sing.cau1aighae.com CNAME .
 sing.iemieshohx.com CNAME .
 sing.iiltsdqcsb.com CNAME .
+sing.iroebhuszq.com CNAME .
 sing.jsgbmmcapc.com CNAME .
 sing.kwzdbbkpre.com CNAME .
 sing.qkyb8htwd9.ru CNAME .

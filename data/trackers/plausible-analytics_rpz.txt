@@ -221,6 +221,7 @@ plausible.affluentjay.com CNAME .
 plausible.alexandar.me CNAME .
 plausible.alpaga.io CNAME .
 plausible.app.kdojang.com CNAME .
+plausible.app.tlschedule.com CNAME .
 plausible.as207960.net CNAME .
 plausible.bablab.com CNAME .
 plausible.banovo.de CNAME .
@@ -523,6 +524,7 @@ stats.devenet.eu CNAME .
 stats.devenet.info CNAME .
 stats.devetkomentara.net CNAME .
 stats.devrain.io CNAME .
+stats.devskills.co CNAME .
 stats.dflydev.com CNAME .
 stats.diarmuidsexton.com CNAME .
 stats.digiexpert.store CNAME .
@@ -538,7 +540,6 @@ stats.dotnetos.org CNAME .
 stats.doublejones.com CNAME .
 stats.dreher-dreher.eu CNAME .
 stats.drewbolles.com CNAME .
-stats.drgomesp.dev CNAME .
 stats.drsaavedra.mx CNAME .
 stats.drtdentist.ro CNAME .
 stats.dt-esthetique.ch CNAME .
@@ -681,7 +682,6 @@ stats.jonatanalvarsson.se CNAME .
 stats.jpc.dev CNAME .
 stats.jsbible.com CNAME .
 stats.jtrees.io CNAME .
-stats.juneum.com CNAME .
 stats.juniperslab.com CNAME .
 stats.justinwilliams.ca CNAME .
 stats.kaladyaudiology.com CNAME .
@@ -752,6 +752,7 @@ stats.motorcyclepartsireland.ie CNAME .
 stats.muchbetteradventures.com CNAME .
 stats.multiply.cloud CNAME .
 stats.mysideproject.rocks CNAME .
+stats.navedislam.com CNAME .
 stats.nddmed.com CNAME .
 stats.nexagon.dk CNAME .
 stats.nicolabricot.com CNAME .
@@ -777,7 +778,6 @@ stats.ownpath.xyz CNAME .
 stats.owre.se CNAME .
 stats.oxygem.com CNAME .
 stats.p42.ai CNAME .
-stats.parentinterviews.co.nz CNAME .
 stats.pascalafleur.com CNAME .
 stats.passwordyeti.com CNAME .
 stats.pasteapp.io CNAME .
@@ -835,7 +835,6 @@ stats.rocketvalidator.com CNAME .
 stats.roderickduenas.com CNAME .
 stats.ruhrfestspiele.de CNAME .
 stats.rushilperera.me CNAME .
-stats.ruthmontenegro.com CNAME .
 stats.rymawby.com CNAME .
 stats.s-zt.at CNAME .
 stats.sahpa.co.za CNAME .
@@ -922,6 +921,7 @@ stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .
 stats.xn--drivation-b4a.fr CNAME .
 stats.yourdallashandyman.com CNAME .
+stats.zehta.me CNAME .
 stats.zimri.net CNAME .
 sts.authramp.com CNAME .
 sts.tour-europe.org CNAME .
@@ -938,7 +938,6 @@ visitorcenter.srwild.com CNAME .
 visitors.gigianddavid.com CNAME .
 we-love-privacy.humane.club CNAME .
 www2.azimuthpsych.com CNAME .
-xyz.bestool.pl CNAME .
 yolo.philipbjorge.com CNAME .
 yolo.phpliveregex.com CNAME .
 zahlen.olereissmann.de CNAME .

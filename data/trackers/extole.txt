@@ -23,7 +23,6 @@
 ||refer.barenecessities.com^
 ||refer.basictalk.com^
 ||refer.betterbraces.com^
-||refer.bookbyte.com^
 ||refer.bostonglobe.com^
 ||refer.bowflex.com^
 ||refer.calstate.aaa.com^
@@ -175,7 +174,6 @@
 ||refer.caavo.com^
 ||refer.cacique.com^
 ||refer.calo.app^
-||refer.canoos.com^
 ||refer.catfootwear.com^
 ||refer.centier.com^
 ||refer.chacos.com^
@@ -443,6 +441,7 @@
 ||share.floridatoday.com^
 ||share.freep.com^
 ||share.fullbay.com^
+||share.fundrive.savers.com^
 ||share.galagala.com^
 ||share.getsetup.io^
 ||share.giftcardgranny.com^

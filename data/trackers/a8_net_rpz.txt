@@ -66,6 +66,7 @@ a8.emma-sleep-japan.com CNAME .
 a8.engineer-shukatu.jp CNAME .
 a8.eonet.jp CNAME .
 a8.eonet.ne.jp CNAME .
+a8.epo.info CNAME .
 a8.erasutamo.onlinestaff.jp CNAME .
 a8.everest.ac CNAME .
 a8.evertrust-inc.com CNAME .
@@ -218,6 +219,7 @@ a8.tapp-co.jp CNAME .
 a8.tecpartners.jp CNAME .
 a8.teddyworks.co.jp CNAME .
 a8.the-session.jp CNAME .
+a8.thg.co.jp CNAME .
 a8.tokyo-hills-clinic.com CNAME .
 a8.tone.ne.jp CNAME .
 a8.toraiz.jp CNAME .
@@ -234,6 +236,7 @@ a8.virus-gekitai.com CNAME .
 a8.volstar.jp CNAME .
 a8.vtuber.sexy CNAME .
 a8.watero.pet CNAME .
+a8.waterstand.jp CNAME .
 a8.web-hikari.net CNAME .
 a8.webdeki.com CNAME .
 a8.webist-cri.com CNAME .
@@ -272,6 +275,7 @@ a8clk.alljewelry.jp CNAME .
 a8clk.amelia.ne.jp CNAME .
 a8clk.ancar.jp CNAME .
 a8clk.ands-tech.com CNAME .
+a8clk.angeliebe.co.jp CNAME .
 a8clk.aoki-style.com CNAME .
 a8clk.ap.livede55.com CNAME .
 a8clk.app.offerbox.jp CNAME .
@@ -365,6 +369,7 @@ a8clk.janiking.jp CNAME .
 a8clk.jobspring.jp CNAME .
 a8clk.joggo.me CNAME .
 a8clk.joppy.jp CNAME .
+a8clk.just-buy.jp CNAME .
 a8clk.justy-consul.com CNAME .
 a8clk.ka-shimo.com CNAME .
 a8clk.kaitori-beerecords.jp CNAME .
@@ -468,7 +473,6 @@ a8clk.solideajapan.com CNAME .
 a8clk.staff.mynavi.jp CNAME .
 a8clk.star-mall.net CNAME .
 a8clk.starwifi.jp CNAME .
-a8clk.store.healthcare.omron.co.jp CNAME .
 a8clk.store.kadokawa.co.jp CNAME .
 a8clk.store.mago-ch.com CNAME .
 a8clk.stylestore.jp CNAME .
@@ -683,6 +687,7 @@ a8cv.ishibestcareer.com CNAME .
 a8cv.ishizawa-lab.co.jp CNAME .
 a8cv.isslim.jp CNAME .
 a8cv.isuzu-rinji.com CNAME .
+a8cv.itscoco.shop CNAME .
 a8cv.iwamizu.com CNAME .
 a8cv.japaden.jp CNAME .
 a8cv.jcom-cabletv.jp CNAME .
@@ -696,6 +701,7 @@ a8cv.kaimonoform.com CNAME .
 a8cv.kaitori-okoku.jp CNAME .
 a8cv.kaitorisatei.info CNAME .
 a8cv.kajier.jp CNAME .
+a8cv.kikubari-bento.com CNAME .
 a8cv.king-makura.com CNAME .
 a8cv.kn-waterserver.com CNAME .
 a8cv.kosodatemoney.com CNAME .
@@ -898,6 +904,7 @@ a8trck.tolot.com CNAME .
 a8trk.www.std-lab.jp CNAME .
 acv.aun-n-hikari.com CNAME .
 acv.biglobe-hikari.net CNAME .
+acv.cmf-hikari.net CNAME .
 acv.crea-lp.com CNAME .
 acv.hikarisoftbank.com CNAME .
 acv.mc-nurse.net CNAME .

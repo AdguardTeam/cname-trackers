@@ -8,6 +8,7 @@
 ### Rarely active trackers
 
 * cdn66584302.blazingcdn.net
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -51,7 +52,6 @@
 | a.descsau.ml | 0i0i0i0.com |
 | a.digitalgiftshopping.com | 0i0i0i0.com |
 | a.dorkim.club | 0i0i0i0.com |
-| a.emwstore.xyz | 0i0i0i0.com |
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
@@ -61,6 +61,7 @@
 | a.hubhubhub.name | 0i0i0i0.com |
 | a.jhfhdkhkh.site | 0i0i0i0.com |
 | a.kagiti.club | 0i0i0i0.com |
+| a.kambistory.ml | 0i0i0i0.com |
 | a.kantotin.net | 0i0i0i0.com |
 | a.katomu.club | 0i0i0i0.com |
 | a.letsjerk.org | 0i0i0i0.com |
@@ -81,6 +82,7 @@
 | a.tortuko.club | 0i0i0i0.com |
 | a.travelbdnews.xyz | 0i0i0i0.com |
 | a.unblock2303.xyz | 0i0i0i0.com |
+| a.unblock2304.xyz | 0i0i0i0.com |
 | a.viralnewsbd.xyz | 0i0i0i0.com |
 | a.warddogs.com | 0i0i0i0.com |
 | a.worldporncomix.com | 0i0i0i0.com |
@@ -122,7 +124,6 @@
 | ads.xmov.net | 0i0i0i0.com |
 | adspy.javrank.com | 0i0i0i0.com |
 | adsrv.kamehameha.click | 0i0i0i0.com |
-| advpro.pro | 0i0i0i0.com |
 | adxhand.icu | 0i0i0i0.com |
 | ags.hobby.porn | 0i0i0i0.com |
 | ags.justthegays.com | 0i0i0i0.com |
@@ -143,6 +144,7 @@
 | apple.arabtoons.net | 0i0i0i0.com |
 | aps.celebfap.cyou | 0i0i0i0.com |
 | arch.u2207i.art | 0i0i0i0.com |
+| ars.comicarab.com | 0i0i0i0.com |
 | as.ebacdn.com | 0i0i0i0.com |
 | as.ebalovo.adult | 0i0i0i0.com |
 | as.lencdn.com | 0i0i0i0.com |
@@ -180,6 +182,7 @@
 | asianporn.xyz.7mmtv.top | 0i0i0i0.com |
 | asianporn.xyz.jav-7mmtv.top | 0i0i0i0.com |
 | asn.banginterracial.com | 0i0i0i0.com |
+| asp.reputate.org | 0i0i0i0.com |
 | atom.seotul.pics | 0i0i0i0.com |
 | audi.lol | 0i0i0i0.com |
 | av5.mofoshd.org | 0i0i0i0.com |
@@ -209,6 +212,7 @@
 | blablahub.com | 0i0i0i0.com |
 | blog.andropps.com | 0i0i0i0.com |
 | blow.week1time.com | 0i0i0i0.com |
+| bltkm.spinna.store | 0i0i0i0.com |
 | bolz.lol | 0i0i0i0.com |
 | bomboms.lol | 0i0i0i0.com |
 | btaoc.lol | 0i0i0i0.com |
@@ -225,6 +229,7 @@
 | cache.picxxxhub.com | 0i0i0i0.com |
 | cam.javboys.cam | 0i0i0i0.com |
 | canpibo.mom | 0i0i0i0.com |
+| cckum.spinna.store | 0i0i0i0.com |
 | cdc.teensnorest.com | 0i0i0i0.com |
 | cdddd.javmilk.org | 0i0i0i0.com |
 | cdfr.hot4k.org | 0i0i0i0.com |
@@ -239,6 +244,7 @@
 | cdn3.hentaihaven.fun | 0i0i0i0.com |
 | cdn5.cartoonporn.to | 0i0i0i0.com |
 | cdn5.hentaihaven.fun | 0i0i0i0.com |
+| cesbr.spinna.store | 0i0i0i0.com |
 | chartlon.skin | 0i0i0i0.com |
 | chen.pepelela.mom | 0i0i0i0.com |
 | chicipu.lol | 0i0i0i0.com |
@@ -288,6 +294,7 @@
 | est.pornleech.ch | 0i0i0i0.com |
 | ex8.lostporntube.com | 0i0i0i0.com |
 | f.bloblohub.com | 0i0i0i0.com |
+| f92or5.spinna.shop | 0i0i0i0.com |
 | fddddddd.javmilk.org | 0i0i0i0.com |
 | fgy3tg.jav-7mmtv.top | 0i0i0i0.com |
 | forads.pro | 0i0i0i0.com |
@@ -318,6 +325,7 @@
 | hehe686.lol | 0i0i0i0.com |
 | help.fanza.cc | 0i0i0i0.com |
 | hens.hentaitimes.com | 0i0i0i0.com |
+| heyyou.spinna.shop | 0i0i0i0.com |
 | hi999.mom | 0i0i0i0.com |
 | hitfuck.icu | 0i0i0i0.com |
 | hizgame.mom | 0i0i0i0.com |
@@ -348,6 +356,7 @@
 | javgiga.com.jav-7mmtv.top | 0i0i0i0.com |
 | javmost.cx.7mmtv.top | 0i0i0i0.com |
 | javmost.cx.jav-7mmtv.top | 0i0i0i0.com |
+| jfhnh.spinna.store | 0i0i0i0.com |
 | jo.429men.com | 0i0i0i0.com |
 | jo.fapnado.xxx | 0i0i0i0.com |
 | jo.fapnow.xxx | 0i0i0i0.com |
@@ -362,6 +371,7 @@
 | kembuck.homes | 0i0i0i0.com |
 | ken9.lol | 0i0i0i0.com |
 | kena9.mom | 0i0i0i0.com |
+| kfioeld.spinna.shop | 0i0i0i0.com |
 | khetlet.mom | 0i0i0i0.com |
 | khoa.jqk.lol | 0i0i0i0.com |
 | khoilive.xyz | 0i0i0i0.com |
@@ -418,6 +428,7 @@
 | myxozilla.icu | 0i0i0i0.com |
 | n.reallifehentai.net | 0i0i0i0.com |
 | naiyoz.lol | 0i0i0i0.com |
+| nanbody.spinna.shop | 0i0i0i0.com |
 | nav.srcdn.xyz | 0i0i0i0.com |
 | net.contoseroticoscnn.com | 0i0i0i0.com |
 | net.sexstories69.com | 0i0i0i0.com |
@@ -445,11 +456,11 @@
 | oj.fapnado.xxx | 0i0i0i0.com |
 | oj.fapnow.xxx | 0i0i0i0.com |
 | ok.fapnow.xxx | 0i0i0i0.com |
-| onetwohub.com | 0i0i0i0.com |
 | ontj.com | 0i0i0i0.com |
 | open.oksrv.com | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | orderz.lol | 0i0i0i0.com |
+| orznp.spinna.store | 0i0i0i0.com |
 | outallin.mom | 0i0i0i0.com |
 | ox8.topsexhdvideos.com | 0i0i0i0.com |
 | p123p.com | 0i0i0i0.com |
@@ -458,6 +469,7 @@
 | pakeway.lol | 0i0i0i0.com |
 | pam.mongz.lol | 0i0i0i0.com |
 | pampela.lol | 0i0i0i0.com |
+| pangoha.xyz | 0i0i0i0.com |
 | paperezi.mom | 0i0i0i0.com |
 | parkurl.com | 0i0i0i0.com |
 | pem.tamboys.pics | 0i0i0i0.com |
@@ -512,6 +524,7 @@
 | santafe.lol | 0i0i0i0.com |
 | sas.arabshentai.com | 0i0i0i0.com |
 | satmon.neekstore.com | 0i0i0i0.com |
+| sbbb.spinna.xyz | 0i0i0i0.com |
 | scuoo.porneq.co | 0i0i0i0.com |
 | sda.seksohub.com | 0i0i0i0.com |
 | sdg.desihamster.pro | 0i0i0i0.com |
@@ -542,6 +555,7 @@
 | stbvip.co | 0i0i0i0.com |
 | stbvip.mom | 0i0i0i0.com |
 | stepfantasy.art | 0i0i0i0.com |
+| stkk.spinna.shop | 0i0i0i0.com |
 | stuff.wikiporno.org | 0i0i0i0.com |
 | sub.empressleak.biz | 0i0i0i0.com |
 | subtitle.mom | 0i0i0i0.com |
@@ -643,3 +657,4 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| qoqv.com | u53.hypnorat.com |

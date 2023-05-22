@@ -94,6 +94,7 @@
 ||attribution.grasshoppers.com^
 ||attribution.keds.com^
 ||attribution.lebara.com^
+||attribution.lendopolis.com^
 ||attribution.merrell.com^
 ||attribution.saucony.com^
 ||attribution.sperry.com^
