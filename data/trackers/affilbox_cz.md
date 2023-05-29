@@ -237,6 +237,7 @@
 | affiliate.socialsprinters.cz | cz.affilbox.cz |
 | affiliate.sportinator.cz | cz.affilbox.cz |
 | affiliate.stanislavamrazkova.cz | cz.affilbox.cz |
+| affiliate.stibio.cz | cz.affilbox.cz |
 | affiliate.stips.cz | cz.affilbox.cz |
 | affiliate.svarecky-obchod.cz | cz.affilbox.cz |
 | affiliate.svetbot.cz | cz.affilbox.cz |
@@ -395,6 +396,7 @@
 | partner.amonitsro.sk | cz.affilbox.cz |
 | partner.anabix.cz | cz.affilbox.cz |
 | partner.antihacker.cz | cz.affilbox.cz |
+| partner.artmaster.com | cz.affilbox.cz |
 | partner.artmasteracademy.cz | cz.affilbox.cz |
 | partner.astaxanthincz.cz | cz.affilbox.cz |
 | partner.avetour.cz | cz.affilbox.cz |
@@ -470,7 +472,7 @@
 | partner.firmin.cz | cz.affilbox.cz |
 | partner.fitnessrevolucia.sk | cz.affilbox.cz |
 | partner.forexrebel.net | cz.affilbox.cz |
-| partner.galsari.com | cz.affilbox.cz |
+| partner.generatorvodiku.cz | cz.affilbox.cz |
 | partner.giulieta.shop | cz.affilbox.cz |
 | partner.gokids.cz | cz.affilbox.cz |
 | partner.granule-eshop.cz | cz.affilbox.cz |
@@ -597,7 +599,6 @@
 | partner.svatba.cz | cz.affilbox.cz |
 | partner.svatebni-diar.cz | cz.affilbox.cz |
 | partner.svetruzi.cz | cz.affilbox.cz |
-| partner.swimmeez.cz | cz.affilbox.cz |
 | partner.tahnabranu.cz | cz.affilbox.cz |
 | partner.tajemstvi-uspechu.cz | cz.affilbox.cz |
 | partner.thechillidoctor.cz | cz.affilbox.cz |
@@ -747,6 +748,7 @@
 | partneri.worldee.com | cz.affilbox.cz |
 | partneri.yoggspiration.cz | cz.affilbox.cz |
 | partneri.zaprovizi.cz | cz.affilbox.cz |
+| partneri.zdrave-sladkosti.sk | cz.affilbox.cz |
 | partneri.zdravy-zivotny-styl.sk | cz.affilbox.cz |
 | partneri.zdravykram.cz | cz.affilbox.cz |
 | partneri.zijchytre.cz | cz.affilbox.cz |

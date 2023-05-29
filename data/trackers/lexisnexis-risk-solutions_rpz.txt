@@ -538,6 +538,7 @@ portal-fp-qaperf2.qa.threatmetrix.com CNAME .
 portal-fp.threatmetrix.com CNAME .
 pov.spectrum.net CNAME .
 prod-ascuaz.chaperone.lumindigitalhosting.com CNAME .
+prod-citadel.chaperone.lumindigitalhosting.com CNAME .
 prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
@@ -649,7 +650,6 @@ t.banking.blucurrent.org CNAME .
 t.banking.njfcu.org CNAME .
 t.demo.lumindigital.com CNAME .
 t.digital.communityfirstcu.org CNAME .
-t.digitalbanking.credithuman.com CNAME .
 t.digitalbanking.langleyfcu.org CNAME .
 t.digitalbanking.tronavalley.com CNAME .
 t.digitalbanking.uoficreditunion.org CNAME .
@@ -668,7 +668,6 @@ t.online.acutx.org CNAME .
 t.online.bankingonyoucu.org CNAME .
 t.online.firstsouth.com CNAME .
 t.online.fortfinancial.org CNAME .
-t.online.jaxfcu.org CNAME .
 t.online.lafcu.org CNAME .
 t.online.navigatorcu.org CNAME .
 t.online.oneazcreditunion.com CNAME .

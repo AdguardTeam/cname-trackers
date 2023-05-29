@@ -239,6 +239,7 @@
 ||privacy.blade.app^
 ||privacy.easyjet.com^
 ||privacy.gemfinance.co.nz^
+||privacy.genoapay.com^
 ||privacy.gomastercard.com.au^
 ||privacy.heineken.it^
 ||privacy.latitudefinancial.com^

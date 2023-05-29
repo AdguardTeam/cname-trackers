@@ -239,6 +239,7 @@ privacy.amstel.nl CNAME .
 privacy.blade.app CNAME .
 privacy.easyjet.com CNAME .
 privacy.gemfinance.co.nz CNAME .
+privacy.genoapay.com CNAME .
 privacy.gomastercard.com.au CNAME .
 privacy.heineken.it CNAME .
 privacy.latitudefinancial.com CNAME .

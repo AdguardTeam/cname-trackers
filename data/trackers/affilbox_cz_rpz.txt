@@ -222,6 +222,7 @@ affiliate.snowbitch.cz CNAME .
 affiliate.socialsprinters.cz CNAME .
 affiliate.sportinator.cz CNAME .
 affiliate.stanislavamrazkova.cz CNAME .
+affiliate.stibio.cz CNAME .
 affiliate.stips.cz CNAME .
 affiliate.svarecky-obchod.cz CNAME .
 affiliate.svetbot.cz CNAME .
@@ -380,6 +381,7 @@ partner.alesio.cz CNAME .
 partner.amonitsro.sk CNAME .
 partner.anabix.cz CNAME .
 partner.antihacker.cz CNAME .
+partner.artmaster.com CNAME .
 partner.artmasteracademy.cz CNAME .
 partner.astaxanthincz.cz CNAME .
 partner.avetour.cz CNAME .
@@ -455,7 +457,7 @@ partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
 partner.fitnessrevolucia.sk CNAME .
 partner.forexrebel.net CNAME .
-partner.galsari.com CNAME .
+partner.generatorvodiku.cz CNAME .
 partner.giulieta.shop CNAME .
 partner.gokids.cz CNAME .
 partner.granule-eshop.cz CNAME .
@@ -582,7 +584,6 @@ partner.susmevem.com CNAME .
 partner.svatba.cz CNAME .
 partner.svatebni-diar.cz CNAME .
 partner.svetruzi.cz CNAME .
-partner.swimmeez.cz CNAME .
 partner.tahnabranu.cz CNAME .
 partner.tajemstvi-uspechu.cz CNAME .
 partner.thechillidoctor.cz CNAME .
@@ -732,6 +733,7 @@ partneri.webovac.sk CNAME .
 partneri.worldee.com CNAME .
 partneri.yoggspiration.cz CNAME .
 partneri.zaprovizi.cz CNAME .
+partneri.zdrave-sladkosti.sk CNAME .
 partneri.zdravy-zivotny-styl.sk CNAME .
 partneri.zdravykram.cz CNAME .
 partneri.zijchytre.cz CNAME .

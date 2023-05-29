@@ -538,6 +538,7 @@
 ||portal-fp.threatmetrix.com^
 ||pov.spectrum.net^
 ||prod-ascuaz.chaperone.lumindigitalhosting.com^
+||prod-citadel.chaperone.lumindigitalhosting.com^
 ||prod-cstonefcu.chaperone.lumindigitalhosting.com^
 ||prod-redwood.chaperone.lumindigitalhosting.com^
 ||prod-sesloc.chaperone.lumindigitalhosting.com^
@@ -649,7 +650,6 @@
 ||t.banking.njfcu.org^
 ||t.demo.lumindigital.com^
 ||t.digital.communityfirstcu.org^
-||t.digitalbanking.credithuman.com^
 ||t.digitalbanking.langleyfcu.org^
 ||t.digitalbanking.tronavalley.com^
 ||t.digitalbanking.uoficreditunion.org^
@@ -668,7 +668,6 @@
 ||t.online.bankingonyoucu.org^
 ||t.online.firstsouth.com^
 ||t.online.fortfinancial.org^
-||t.online.jaxfcu.org^
 ||t.online.lafcu.org^
 ||t.online.navigatorcu.org^
 ||t.online.oneazcreditunion.com^

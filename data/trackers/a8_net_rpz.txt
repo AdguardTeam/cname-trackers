@@ -12,6 +12,7 @@ a8-xshop.secure.xserver.ne.jp CNAME .
 a8.01cloud.jp CNAME .
 a8.2ndstreet.jp CNAME .
 a8.abemashopping.jp CNAME .
+a8.ablenet.jp CNAME .
 a8.aga-hakata.com CNAME .
 a8.aim-beauty-medicalclinic.com CNAME .
 a8.andethic.com CNAME .
@@ -509,6 +510,7 @@ a8clk.www.clip-studio.com CNAME .
 a8clk.www.daiohs.com CNAME .
 a8clk.www.doicoffee.com CNAME .
 a8clk.www.duskin-hozumi.co.jp CNAME .
+a8clk.www.e87.com CNAME .
 a8clk.www.gaihekitosou-partners.jp CNAME .
 a8clk.www.green-dog.com CNAME .
 a8clk.www.jaf.or.jp CNAME .
@@ -562,7 +564,6 @@ a8cv.atgp.jp CNAME .
 a8cv.auhikari-bykddi.com CNAME .
 a8cv.b-concept.tokyo CNAME .
 a8cv.b-mobilerental.com CNAME .
-a8cv.baiden-king.com CNAME .
 a8cv.bb-internet-qsyu.net CNAME .
 a8cv.bbt757.com CNAME .
 a8cv.be-slim-spbikyou.com CNAME .
@@ -640,6 +641,7 @@ a8cv.fc-osoujikakumei.jp CNAME .
 a8cv.first-spoon.com CNAME .
 a8cv.fitness-terrace.com CNAME .
 a8cv.folio-sec.com CNAME .
+a8cv.foresight.jp CNAME .
 a8cv.forza-gran.com CNAME .
 a8cv.frecious.jp CNAME .
 a8cv.freeks-japan.com CNAME .
@@ -674,6 +676,7 @@ a8cv.houjin-keitai.com CNAME .
 a8cv.housingbazar.jp CNAME .
 a8cv.humming-water.com CNAME .
 a8cv.i-office1.net CNAME .
+a8cv.icoi.style CNAME .
 a8cv.iekoma.com CNAME .
 a8cv.iikyujin.net CNAME .
 a8cv.ikapula.com CNAME .
@@ -868,6 +871,7 @@ a8cv.yohodo.net CNAME .
 a8cv.yoriso.com CNAME .
 a8cv.you-shoku.net CNAME .
 a8cv.yuyu-tei.jp CNAME .
+a8cv.zacc.jp CNAME .
 a8cv.zeroen-denki.com CNAME .
 a8cv.zerorenovation.com CNAME .
 a8cv2.hoken-choice.com CNAME .
@@ -882,6 +886,7 @@ a8n.radishbo-ya.co.jp CNAME .
 a8net.beyond-gym.com CNAME .
 a8net.gset.co.jp CNAME .
 a8net.hassyadai.com CNAME .
+a8net.kitamura-print.com CNAME .
 a8net.mellow-cbd.jp CNAME .
 a8net.pg-learning.net CNAME .
 a8net.sourcenext.com CNAME .
@@ -968,6 +973,7 @@ cv.theatreacademy.info CNAME .
 cv.ui-chiho.clinic CNAME .
 cv.wp-avenue.com CNAME .
 ems-a8net-tracking.easy-myshop.jp CNAME .
+herpes2.pa-ruit.jp CNAME .
 ja-jp-a8.etudehouse.com CNAME .
 kaden.netoff.co.jp CNAME .
 listing-a8-itp.hello-storage.com CNAME .

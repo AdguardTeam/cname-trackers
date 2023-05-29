@@ -21,6 +21,7 @@
     * kfw-05.webtrekk.net
     * kfw-06.webtrekk.net
     * kfw-07.webtrekk.net
+    * kfw03.webtrekk.net
     * kfw04.webtrekk.net
     * kiomi-com01.webtrekk.net
     * netcologne-01.webtrekk.net
@@ -70,6 +71,7 @@
     * 306840111891766.wt-eu02.net
     * 307902509027183.wt-eu02.net
     * 310695274957699.wt-eu02.net
+    * 312310057961150.wt-eu02.net
     * 318590743478915.wt-eu02.net
     * 329712103760415.wt-eu02.net
     * 350258498646185.wt-eu02.net
@@ -252,6 +254,7 @@
 | web.campaign.v73.it | 302571338326011.wt-eu02.net |
 | data.engelhorn.com | 302631813489498.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
+| web.jana-shoes.com | 306539831205028.wt-eu02.net |
 | web.marcotozzi.com | 306539831205028.wt-eu02.net |
 | web.tamaris.com | 306539831205028.wt-eu02.net |
 | web.e.panmacmillan.com | 306840111891766.wt-eu02.net |
@@ -262,6 +265,7 @@
 | a.steigenberger.com | 307902509027183.wt-eu02.net |
 | a.zleep.com | 307902509027183.wt-eu02.net |
 | web.mapp.whiteaway.no | 310695274957699.wt-eu02.net |
+| web.mail.parmalat.it | 312310057961150.wt-eu02.net |
 | web.mailing.storz-bickel.com | 318590743478915.wt-eu02.net |
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
@@ -481,6 +485,7 @@
 | image.deginvest.de | kfw-05.webtrekk.net |
 | image.kfw-ipex-bank.de | kfw-06.webtrekk.net |
 | image.kfw-entwicklungsbank.de | kfw-07.webtrekk.net |
+| image.kfw-formularsammlung.de | kfw03.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
 | track.kiomi.com | kiomi-com01.webtrekk.net |
 | wttd.madeleine-fashion.be | madeleineprod01.wt-eu02.net |

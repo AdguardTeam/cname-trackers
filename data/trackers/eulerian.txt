@@ -49,12 +49,14 @@
 ||bft5.destinia.fr^
 ||bja2.destinia.cz^
 ||bk.brookeo.fr^
+||blog.tagcentral.fr^
 ||bn.voyage-prive.com^
 ||bpe2.destinia.co.il^
 ||bum7.bymycar.fr^
 ||bvz5.destinia.com.tr^
 ||bwj4.hrhibiza.com^
 ||c0i.ckoi.com^
+||c0p.cepsum.umontreal.ca^
 ||c4dv.copinesdevoyage.com^
 ||ca.clubavantages.net^
 ||cbl6.destinia.gt^
@@ -78,7 +80,6 @@
 ||deut3.fdj.fr^
 ||dko.vente-unique.nl^
 ||dqs3.darjeeling.fr^
-||du2k.bhv.fr^
 ||dv59b.montecarlomeeting.com^
 ||dw0c.sfr.fr^
 ||dw7u.hotelsbarriere.com^
@@ -483,7 +484,6 @@
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
 ||b1n.carabins.umontreal.ca^
-||c0p.cepsum.umontreal.ca^
 ||hk2d.tourismemauricie.com^
 ||m10.m1029.com^
 ||nym5c.bonlook.com^

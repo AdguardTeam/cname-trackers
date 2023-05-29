@@ -124,6 +124,7 @@ tr.cashback.banque-casino.fr
 tr.cashback.floa.fr
 tr.cb4x.banque-casino.fr
 tr.cb4x.floa.fr
+tr.cclx.espmp-agfr.net
 tr.cdiscount.3wregie.com
 tr.ceeregion.moethennessy.com
 tr.christmas.petit-bateau.com
@@ -567,6 +568,7 @@ tr.news.allopneus.be
 tr.news.allopneus.com
 tr.news.aramisauto.com
 tr.news.assuragency.net
+tr.news.bruneau.fr
 tr.news.business-deal.co.uk
 tr.news.c-media.fr
 tr.news.cad-magazine.com
@@ -576,6 +578,7 @@ tr.news.casinodrive.fr
 tr.news.casinomax.fr
 tr.news.cdiscount.com
 tr.news.cdiscountpro.com
+tr.news.cenpac.fr
 tr.news.chapsvision.com
 tr.news.chilican.com
 tr.news.companeo.es

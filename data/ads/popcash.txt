@@ -30,6 +30,7 @@
 ||cdn.luxope.com^
 ||cdn.mtinsqq.com^
 ||cdn.namol.xyz^
+||cdn.nlop.xyz^
 ||cdn.norymo.com^
 ||cdn.nuqwe.com^
 ||cdn.olep.xyz^
@@ -71,6 +72,7 @@
 ||anaconda.webitizeicts.com^
 ||anaconda.zephyrus.gg^
 ||angelfish.dpya.com^
+||angelfish.grayscale.design^
 ||angelfish.owlbear.rodeo^
 ||angelfish.wpsocialrocket.com^
 ||anglerfish.luminfire.com^
@@ -167,6 +169,7 @@
 ||butterfly.rfortherestofus.com^
 ||buzzard.donotresearch.net^
 ||buzzard.nimble.team^
+||camel.chrischiles.com^
 ||camel.gastro-plan.app^
 ||camel.nonpopularopinion.com^
 ||camel.warvik.no^
@@ -267,7 +270,6 @@
 ||coyote.gnx.cloud^
 ||coyote.hopr.swiss^
 ||coyote.nickgurney.com^
-||coyote.titlerun.xyz^
 ||coyote.txet.ch^
 ||crab.dunkeldbutchers.co.uk^
 ||crab.goalcanvas.com^
@@ -693,6 +695,7 @@
 ||parrotfish.wus.immo^
 ||partridge.unfamiliar.land^
 ||peacock.davidlevai.com^
+||peacock.psych.help^
 ||peafowl.projectstrackt.dev^
 ||penguin.mobiadroit.com^
 ||penguin.revolana.com^
@@ -717,6 +720,7 @@
 ||platypus.zwei-bags.ch^
 ||polarbear.codeday.org^
 ||polarbear.wpnow.dev^
+||pony.bylt.co^
 ||pony.ftm.cat^
 ||porcupine.dvresolve.com^
 ||porcupine.simpleprax.de^
@@ -743,6 +747,7 @@
 ||quail.efix.uk^
 ||quelea.igotcha.de^
 ||quokka.bulkbuyhosting.com^
+||quokka.curbnumberpro.com^
 ||quokka.joshuawood.net^
 ||rabbit.ekstelu.info^
 ||rabbit.radicalxchange.org^
@@ -794,7 +799,6 @@
 ||silkworm.preventingsuicideinsussex.org^
 ||silkworm.westwoodmbc.org^
 ||silverfish.dailybuilds.com^
-||silverfish.trustduty.com^
 ||skink.asorman.io^
 ||skink.madewithlove.com^
 ||skunk.sebastiandedeyne.com^

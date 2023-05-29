@@ -168,6 +168,7 @@
     * 9545ff72-f16cbhzj.cname.ebis.ne.jp
     * 95e65062-vpau4sdp.cname.ebis.ne.jp
     * 95e65062-y5awr3vc.cname.ebis.ne.jp
+    * 95e7c514-cb9pban5.cname.ebis.ne.jp
     * 98123393-x6zeryuc.cname.ebis.ne.jp
     * 98433855-mndzrztt.cname.ebis.ne.jp
     * 98463bc9-scxitlgt.cname.ebis.ne.jp
@@ -457,6 +458,7 @@
 | ebis.j-l-m.co.jp | 9545ff72-f16cbhzj.cname.ebis.ne.jp |
 | adebis.juku.st | 95e65062-vpau4sdp.cname.ebis.ne.jp |
 | adebis02.juku.st | 95e65062-y5awr3vc.cname.ebis.ne.jp |
+| aaa.aqualink.tv | 95e7c514-cb9pban5.cname.ebis.ne.jp |
 | cnameforitp.dermed.jp | 98123393-x6zeryuc.cname.ebis.ne.jp |
 | adebis.reruju.com | 98433855-mndzrztt.cname.ebis.ne.jp |
 | cs0010sbeda.theory-clinic.com | 98463bc9-scxitlgt.cname.ebis.ne.jp |

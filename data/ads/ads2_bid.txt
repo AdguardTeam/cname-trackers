@@ -11,6 +11,7 @@
 ||ac-dir-co.xw1fx50x35.com^
 ||ac-dir-latam.8njhhs0ivx.com^
 ||ac-dir-latam.cau1aighae.com^
+||ac-dir-latam.iroebhuszq.com^
 ||ac-dir-latam.jsgbmmcapc.com^
 ||ac-dir-latam.kwzdbbkpre.com^
 ||ac-dir-latam.xw1fx50x35.com^
@@ -62,6 +63,7 @@
 ||avbr.c97eaqj38e.ru^
 ||di-res-latam.8njhhs0ivx.com^
 ||di-res-latam.cau1aighae.com^
+||di-res-latam.iroebhuszq.com^
 ||di-res-latam.jsgbmmcapc.com^
 ||di-res-latam.kwzdbbkpre.com^
 ||di-res-latam.t4ergzwf7r.com^

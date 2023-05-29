@@ -129,6 +129,7 @@
 3211473.notifysrv.com
 3212867.notifysrv.com
 3214413.notifysrv.com
+3214729.notify6.com
 3214733.notifysrv.com
 3215023.notifysrv.com
 3215685.notify6.com
@@ -138,6 +139,7 @@
 3217213.notifysrv.com
 3220723.notify6.com
 3221653.notifysrv.com
+3221733.notify6.com
 3221733.notifysrv.com
 3221983.notifysrv.com
 3225557.notify6.com
@@ -524,6 +526,7 @@
 3585435.notify6.com
 3587723.notifysrv.com
 3587729.notifysrv.com
+3587799.notifysrv.com
 3588.notify.optimizesrv.com
 3588135.notifysrv.com
 3588587.notify6.com
@@ -773,6 +776,7 @@
 4795286.notify6.com
 4795320.notify6.com
 4795534.notify6.com
+4795556.notify6.com
 4795570.notify6.com
 4798638.notify6.com
 4799078.notify6.com
@@ -821,11 +825,13 @@ a.ad.guru
 a.paradoxgroup.uk
 a.redpathmedia.com
 a.stuffserve.com
+admin.ad.guru
 admin.shafttraffic.com
 api.adnation.com
 delivery.gettopple.com
 engine.gettopple.com
 m.hue2a.com
+m.hue3a.com
 m.optnx.com
 main.adxnow.com
 main.exdynsrv.com
@@ -841,6 +847,7 @@ rtb.exoclick.com
 s.a3ion.com
 s.ad.guru
 s.adnflow.com
+s.advertrek.com
 s.bizonads-ssp.com
 s.eaalink.com
 s.elink2b.com
@@ -885,6 +892,7 @@ s.zlink8.com
 s.zlink9.com
 s.zlinkb.com
 s.zlinkc.com
+s.zlinkd.com
 s.zlinkm.com
 syndication-adblock.exoclick.com
 syndication-json.exoclick.com
@@ -898,6 +906,7 @@ syndication.exdynsrv.com
 syndication.exoclick.com
 syndication.exosrv.com
 syndication.jsadapi.com
+syndication.link2nx.com
 syndication.link2zz.com
 syndication.link5c.com
 syndication.linkfryn.com
@@ -914,7 +923,6 @@ a.bizonads-ssp.com
 a.etology.com
 a.santabrowser.com
 a.slice.exchange
-admin.ad.guru
 admin.adnation.com
 admin.adstuff.io
 admin.etology.com

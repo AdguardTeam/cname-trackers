@@ -255,7 +255,6 @@
     * galagala.extole.io
     * gannett.extole.io
     * gap-canada.extole.io
-    * gardenoflife.extole.io
     * garnethill.extole.io
     * gbyguess.extole.io
     * gcefcu.extole.io
@@ -330,7 +329,6 @@
     * mac-cosmetics.extole.io
     * madison-reed.extole.io
     * mama-bear-legal-forms.extole.io
-    * manscaped.extole.io
     * marinerfinance.extole.io
     * mascaro.extole.io
     * medely.extole.io
@@ -383,6 +381,7 @@
     * qboca.extole.io
     * qbouk.extole.io
     * quickbooks.extole.io
+    * quickbooksintuituk.extole.io
     * quickstart.extole.io
     * qvc.extole.io
     * reebok-raf.extole.io
@@ -726,11 +725,11 @@
 | share.tauntongazette.com | gannett.extole.io |
 | share.tcpalm.com | gannett.extole.io |
 | share.telegram.com | gannett.extole.io |
+| share.theledger.com | gannett.extole.io |
 | share.thenorthwestern.com | gannett.extole.io |
 | share.usatoday.com | gannett.extole.io |
 | share.vcstar.com | gannett.extole.io |
 | refer.gapcanada.ca | gap-canada.extole.io |
-| refer.gardenoflife.com | gardenoflife.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
 | refer.gbyguess.com | gbyguess.extole.io |
 | refer.gcefcu.org | gcefcu.extole.io |
@@ -835,7 +834,6 @@
 | share.maccosmetics.com.au | mac-cosmetics.extole.io |
 | refer.madison-reed.com | madison-reed.extole.io |
 | share.mamabearlegalforms.com | mama-bear-legal-forms.extole.io |
-| share.manscaped.com | manscaped.extole.io |
 | refer.marinerfinance.com | marinerfinance.extole.io |
 | refer.prettyballerinas.co.uk | mascaro.extole.io |
 | refer.prettyballerinas.es | mascaro.extole.io |
@@ -918,6 +916,7 @@
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
 | www.referquickbooks.com | quickbooks.extole.io |
+| referacct.quickbooks.intuit.co.uk | quickbooksintuituk.extole.io |
 | refer.quickstart.com | quickstart.extole.io |
 | q.share.qvcemail.com | qvc.extole.io |
 | refer.reebok.com | reebok-raf.extole.io |

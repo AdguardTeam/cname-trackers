@@ -40,11 +40,9 @@ analytics.lifestyledemocracy.com CNAME .
 analytics.littlekingdesigns.com CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
-analytics.manen.me CNAME .
 analytics.martin-fieber.de CNAME .
 analytics.mc500.info CNAME .
 analytics.mhpod.gov.au CNAME .
-analytics.mondoweiss.net CNAME .
 analytics.mycater.fr CNAME .
 analytics.naturequant.com CNAME .
 analytics.qualityquestions.co CNAME .
@@ -487,7 +485,6 @@ stats.codis.io CNAME .
 stats.coditia.com CNAME .
 stats.cohere.so CNAME .
 stats.coldbox.org CNAME .
-stats.coloursoftware.com CNAME .
 stats.common-place.art CNAME .
 stats.consistum.com CNAME .
 stats.contentwritingjobs.com CNAME .
@@ -583,7 +580,6 @@ stats.feathercss.makerkits.co CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
 stats.filburg.co CNAME .
-stats.filewatch.net CNAME .
 stats.flightsphere.com CNAME .
 stats.florianfritz.net CNAME .
 stats.flowphantom.com CNAME .
@@ -751,7 +747,6 @@ stats.motion-effect.com CNAME .
 stats.motorcyclepartsireland.ie CNAME .
 stats.muchbetteradventures.com CNAME .
 stats.multiply.cloud CNAME .
-stats.mysideproject.rocks CNAME .
 stats.navedislam.com CNAME .
 stats.nddmed.com CNAME .
 stats.nexagon.dk CNAME .
@@ -829,7 +824,6 @@ stats.retro.cz CNAME .
 stats.revit-content.com CNAME .
 stats.revitfamily.app CNAME .
 stats.rightourhistoryhawaii.com CNAME .
-stats.roast-my-code.com CNAME .
 stats.robhope.com CNAME .
 stats.rocketvalidator.com CNAME .
 stats.roderickduenas.com CNAME .
@@ -937,7 +931,5 @@ views.sikerproducts.com CNAME .
 visitorcenter.srwild.com CNAME .
 visitors.gigianddavid.com CNAME .
 we-love-privacy.humane.club CNAME .
-www2.azimuthpsych.com CNAME .
 yolo.philipbjorge.com CNAME .
-yolo.phpliveregex.com CNAME .
 zahlen.olereissmann.de CNAME .

@@ -15,11 +15,11 @@
 7bd3d001ff6.clicknplay.to CNAME .
 7taobao.mom CNAME .
 893242.milfunsource.com CNAME .
-8afb7f9e2c1a7a9e.vtube.to CNAME .
 8lang.lol CNAME .
 8sptzne.mom CNAME .
 98tang.lol CNAME .
 a.123porner.com CNAME .
+a.123porner.net CNAME .
 a.1film.to CNAME .
 a.6drole.com CNAME .
 a.6vids.space CNAME .
@@ -35,6 +35,7 @@ a.bloblohub.com CNAME .
 a.boyjackpot.com CNAME .
 a.coinhub.wiki CNAME .
 a.craftbeerclub.com.ua CNAME .
+a.dajex.club CNAME .
 a.descsau.ml CNAME .
 a.digitalgiftshopping.com CNAME .
 a.dorkim.club CNAME .
@@ -45,6 +46,7 @@ a.hentai369.com CNAME .
 a.hentaimotel.com CNAME .
 a.hentaitube.icu CNAME .
 a.hubhubhub.name CNAME .
+a.jerkdevice.tv CNAME .
 a.jhfhdkhkh.site CNAME .
 a.kagiti.club CNAME .
 a.kambistory.ml CNAME .
@@ -393,12 +395,14 @@ m.xrum.info CNAME .
 m9xp1.hentaigold.net CNAME .
 maizour.mom CNAME .
 makumva.all-usanomination.com CNAME .
+mamamia.vintageporno.stream CNAME .
 mangoga.xyz CNAME .
 marcusdevs.ru CNAME .
 maxcdn.dmm-video.online CNAME .
 maxhold.xyz CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
+menguzi.xyz CNAME .
 meoem.lol CNAME .
 messic.lol CNAME .
 metabuz.xyz CNAME .
@@ -425,7 +429,6 @@ nice.tranny.one CNAME .
 nice.tryboobs.com CNAME .
 nodawzua.mom CNAME .
 nonekvoi.skin CNAME .
-nope.addhentai.com CNAME .
 nope.arabxforum.com CNAME .
 nope.sexaoy.com CNAME .
 nope.xn--mgbkt9eckr.net CNAME .
@@ -554,6 +557,7 @@ super.koreanpornmovie.xyz CNAME .
 supjav.com.7mmtv.top CNAME .
 supjav.com.jav-7mmtv.top CNAME .
 support.streamjav.top CNAME .
+suzuhen.xyz CNAME .
 swqw.jav-7mmtv.top CNAME .
 taboizo.mom CNAME .
 talamk3.beauty CNAME .
@@ -640,6 +644,5 @@ xzillame.com CNAME .
 yhu5tw3mn64.jav-7mmtv.top CNAME .
 youzok.lol CNAME .
 z0000g.yvmads.com CNAME .
-zazu.vtube.to CNAME .
 zzzzaaa.baijav.com CNAME .
 cdn.manhwadesu.me CNAME .

@@ -3,6 +3,7 @@
 aud.bild.de CNAME .
 image.deginvest.de CNAME .
 image.kfw-entwicklungsbank.de CNAME .
+image.kfw-formularsammlung.de CNAME .
 image.kfw-ipex-bank.de CNAME .
 image.kfw.de CNAME .
 images1.test.de CNAME .
@@ -262,6 +263,8 @@ web.info.teamwarrior.com CNAME .
 web.info.vantastic-foods.com CNAME .
 web.info.varelotteriet.dk CNAME .
 web.info.yeppon.it CNAME .
+web.jana-shoes.com CNAME .
+web.mail.parmalat.it CNAME .
 web.mail.proximaati.com CNAME .
 web.mailing.storz-bickel.com CNAME .
 web.mapp.docpeter.it CNAME .

@@ -8,7 +8,6 @@
 ### Rarely active trackers
 
 * cdn66584302.blazingcdn.net
-* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -29,11 +28,11 @@
 | 7bd3d001ff6.clicknplay.to | 0i0i0i0.com |
 | 7taobao.mom | 0i0i0i0.com |
 | 893242.milfunsource.com | 0i0i0i0.com |
-| 8afb7f9e2c1a7a9e.vtube.to | 0i0i0i0.com |
 | 8lang.lol | 0i0i0i0.com |
 | 8sptzne.mom | 0i0i0i0.com |
 | 98tang.lol | 0i0i0i0.com |
 | a.123porner.com | 0i0i0i0.com |
+| a.123porner.net | 0i0i0i0.com |
 | a.1film.to | 0i0i0i0.com |
 | a.6drole.com | 0i0i0i0.com |
 | a.6vids.space | 0i0i0i0.com |
@@ -49,6 +48,7 @@
 | a.boyjackpot.com | 0i0i0i0.com |
 | a.coinhub.wiki | 0i0i0i0.com |
 | a.craftbeerclub.com.ua | 0i0i0i0.com |
+| a.dajex.club | 0i0i0i0.com |
 | a.descsau.ml | 0i0i0i0.com |
 | a.digitalgiftshopping.com | 0i0i0i0.com |
 | a.dorkim.club | 0i0i0i0.com |
@@ -59,6 +59,7 @@
 | a.hentaimotel.com | 0i0i0i0.com |
 | a.hentaitube.icu | 0i0i0i0.com |
 | a.hubhubhub.name | 0i0i0i0.com |
+| a.jerkdevice.tv | 0i0i0i0.com |
 | a.jhfhdkhkh.site | 0i0i0i0.com |
 | a.kagiti.club | 0i0i0i0.com |
 | a.kambistory.ml | 0i0i0i0.com |
@@ -404,12 +405,14 @@
 | m.xrum.info | 0i0i0i0.com |
 | m9xp1.hentaigold.net | 0i0i0i0.com |
 | maizour.mom | 0i0i0i0.com |
+| mamamia.vintageporno.stream | 0i0i0i0.com |
 | mangoga.xyz | 0i0i0i0.com |
 | marcusdevs.ru | 0i0i0i0.com |
 | maxcdn.dmm-video.online | 0i0i0i0.com |
 | maxhold.xyz | 0i0i0i0.com |
 | mediacdn.x1hub.com | 0i0i0i0.com |
 | member.javtvnow.xyz | 0i0i0i0.com |
+| menguzi.xyz | 0i0i0i0.com |
 | meoem.lol | 0i0i0i0.com |
 | messic.lol | 0i0i0i0.com |
 | metabuz.xyz | 0i0i0i0.com |
@@ -436,7 +439,6 @@
 | nice.tryboobs.com | 0i0i0i0.com |
 | nodawzua.mom | 0i0i0i0.com |
 | nonekvoi.skin | 0i0i0i0.com |
-| nope.addhentai.com | 0i0i0i0.com |
 | nope.arabxforum.com | 0i0i0i0.com |
 | nope.sexaoy.com | 0i0i0i0.com |
 | nope.xn--mgbkt9eckr.net | 0i0i0i0.com |
@@ -564,6 +566,7 @@
 | supjav.com.7mmtv.top | 0i0i0i0.com |
 | supjav.com.jav-7mmtv.top | 0i0i0i0.com |
 | support.streamjav.top | 0i0i0i0.com |
+| suzuhen.xyz | 0i0i0i0.com |
 | swqw.jav-7mmtv.top | 0i0i0i0.com |
 | taboizo.mom | 0i0i0i0.com |
 | talamk3.beauty | 0i0i0i0.com |
@@ -649,7 +652,6 @@
 | yhu5tw3mn64.jav-7mmtv.top | 0i0i0i0.com |
 | youzok.lol | 0i0i0i0.com |
 | z0000g.yvmads.com | 0i0i0i0.com |
-| zazu.vtube.to | 0i0i0i0.com |
 | zzzzaaa.baijav.com | 0i0i0i0.com |
 | cdn.manhwadesu.me | cdn66584302.blazingcdn.net |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
@@ -657,4 +659,3 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| qoqv.com | u53.hypnorat.com |

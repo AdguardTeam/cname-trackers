@@ -207,7 +207,6 @@ refer.firsttechfed.com CNAME .
 refer.frontgate.com CNAME .
 refer.g2.com CNAME .
 refer.gapcanada.ca CNAME .
-refer.gardenoflife.com CNAME .
 refer.garnethill.com CNAME .
 refer.gbyguess.com CNAME .
 refer.gcefcu.org CNAME .
@@ -361,6 +360,7 @@ refer.zipcar.com CNAME .
 refer.zomasleep.com CNAME .
 refer1.dollskill.com CNAME .
 refer1.experian.com CNAME .
+referacct.quickbooks.intuit.co.uk CNAME .
 referafriend.discover.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.shiseido.com CNAME .
@@ -472,7 +472,6 @@ share.livongo.com CNAME .
 share.lovesac.com CNAME .
 share.maccosmetics.com.au CNAME .
 share.mamabearlegalforms.com CNAME .
-share.manscaped.com CNAME .
 share.mansfieldnewsjournal.com CNAME .
 share.medely.com CNAME .
 share.meettally.com CNAME .
@@ -546,6 +545,7 @@ share.tauntongazette.com CNAME .
 share.tcpalm.com CNAME .
 share.teachersfcu.org CNAME .
 share.telegram.com CNAME .
+share.theledger.com CNAME .
 share.thenorthwestern.com CNAME .
 share.theory.com CNAME .
 share.theoryoutlet.com CNAME .

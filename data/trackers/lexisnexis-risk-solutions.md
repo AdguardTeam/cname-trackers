@@ -639,6 +639,7 @@
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
 | t.zinia.com | h-1ngztxrl.online-metrix.net |
 | prod-ascuaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-citadel.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cstonefcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -1273,7 +1274,6 @@
 | t.banking.njfcu.org | h-pscu.online-metrix.net |
 | t.demo.lumindigital.com | h-pscu.online-metrix.net |
 | t.digital.communityfirstcu.org | h-pscu.online-metrix.net |
-| t.digitalbanking.credithuman.com | h-pscu.online-metrix.net |
 | t.digitalbanking.langleyfcu.org | h-pscu.online-metrix.net |
 | t.digitalbanking.tronavalley.com | h-pscu.online-metrix.net |
 | t.digitalbanking.uoficreditunion.org | h-pscu.online-metrix.net |
@@ -1290,7 +1290,6 @@
 | t.online.bankingonyoucu.org | h-pscu.online-metrix.net |
 | t.online.firstsouth.com | h-pscu.online-metrix.net |
 | t.online.fortfinancial.org | h-pscu.online-metrix.net |
-| t.online.jaxfcu.org | h-pscu.online-metrix.net |
 | t.online.lafcu.org | h-pscu.online-metrix.net |
 | t.online.navigatorcu.org | h-pscu.online-metrix.net |
 | t.online.oneazcreditunion.com | h-pscu.online-metrix.net |

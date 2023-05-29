@@ -30,6 +30,7 @@ cdn.karpatzi.com CNAME .
 cdn.luxope.com CNAME .
 cdn.mtinsqq.com CNAME .
 cdn.namol.xyz CNAME .
+cdn.nlop.xyz CNAME .
 cdn.norymo.com CNAME .
 cdn.nuqwe.com CNAME .
 cdn.olep.xyz CNAME .
@@ -71,6 +72,7 @@ amphibian.tboa.club CNAME .
 anaconda.webitizeicts.com CNAME .
 anaconda.zephyrus.gg CNAME .
 angelfish.dpya.com CNAME .
+angelfish.grayscale.design CNAME .
 angelfish.owlbear.rodeo CNAME .
 angelfish.wpsocialrocket.com CNAME .
 anglerfish.luminfire.com CNAME .
@@ -167,6 +169,7 @@ butterfly.dharsh.dev CNAME .
 butterfly.rfortherestofus.com CNAME .
 buzzard.donotresearch.net CNAME .
 buzzard.nimble.team CNAME .
+camel.chrischiles.com CNAME .
 camel.gastro-plan.app CNAME .
 camel.nonpopularopinion.com CNAME .
 camel.warvik.no CNAME .
@@ -267,7 +270,6 @@ coyote.12gem.me CNAME .
 coyote.gnx.cloud CNAME .
 coyote.hopr.swiss CNAME .
 coyote.nickgurney.com CNAME .
-coyote.titlerun.xyz CNAME .
 coyote.txet.ch CNAME .
 crab.dunkeldbutchers.co.uk CNAME .
 crab.goalcanvas.com CNAME .
@@ -693,6 +695,7 @@ parrotfish.wilderworld.com CNAME .
 parrotfish.wus.immo CNAME .
 partridge.unfamiliar.land CNAME .
 peacock.davidlevai.com CNAME .
+peacock.psych.help CNAME .
 peafowl.projectstrackt.dev CNAME .
 penguin.mobiadroit.com CNAME .
 penguin.revolana.com CNAME .
@@ -717,6 +720,7 @@ platypus.facet.net CNAME .
 platypus.zwei-bags.ch CNAME .
 polarbear.codeday.org CNAME .
 polarbear.wpnow.dev CNAME .
+pony.bylt.co CNAME .
 pony.ftm.cat CNAME .
 porcupine.dvresolve.com CNAME .
 porcupine.simpleprax.de CNAME .
@@ -743,6 +747,7 @@ python.mux.com CNAME .
 quail.efix.uk CNAME .
 quelea.igotcha.de CNAME .
 quokka.bulkbuyhosting.com CNAME .
+quokka.curbnumberpro.com CNAME .
 quokka.joshuawood.net CNAME .
 rabbit.ekstelu.info CNAME .
 rabbit.radicalxchange.org CNAME .
@@ -794,7 +799,6 @@ silkworm.energizergrouplegal.com CNAME .
 silkworm.preventingsuicideinsussex.org CNAME .
 silkworm.westwoodmbc.org CNAME .
 silverfish.dailybuilds.com CNAME .
-silverfish.trustduty.com CNAME .
 skink.asorman.io CNAME .
 skink.madewithlove.com CNAME .
 skunk.sebastiandedeyne.com CNAME .

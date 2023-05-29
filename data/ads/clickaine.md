@@ -12,6 +12,7 @@
 | a3.hotpornfile.org | api.clickaine.com |
 | ad1.xero.porn | api.clickaine.com |
 | api.kekw.website | api.clickaine.com |
+| api.kekw.world | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
 | api.willalland.info | api.clickaine.com |
 | api2.clickaine.com | api.clickaine.com |
@@ -26,7 +27,6 @@
 | c4n.asianpinay.com | api.clickaine.com |
 | c4n.bigxxxsex.com | api.clickaine.com |
 | c4n.hotjavmovies.com | api.clickaine.com |
-| c4n.ijerk.club | api.clickaine.com |
 | c4n.mypornovideos.com | api.clickaine.com |
 | c4n.myteentgp.com | api.clickaine.com |
 | c4n.perverzija.com | api.clickaine.com |
@@ -69,11 +69,9 @@
 | cvk.supklik.com | api.clickaine.com |
 | ddd.contoseroticoscnn.com | api.clickaine.com |
 | ddd.sexstories69.com | api.clickaine.com |
-| dnsbl.test.ww1.willalland.info | api.clickaine.com |
 | dr1.piczlabs.com | api.clickaine.com |
 | drt.cliomovies.com | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
-| flare.vtube.to | api.clickaine.com |
 | ge6.getfto.com | api.clickaine.com |
 | get.xclick24.com | api.clickaine.com |
 | go.lize.bid | api.clickaine.com |
@@ -83,6 +81,7 @@
 | hruk.prikupok.com | api.clickaine.com |
 | hruk.prikupok.icu | api.clickaine.com |
 | icn.brandnewapp.pro | api.clickaine.com |
+| jg1.trypicz.com | api.clickaine.com |
 | jpnj.hotpornfile.org | api.clickaine.com |
 | k8.usefto.com | api.clickaine.com |
 | mail.7porn.ru | api.clickaine.com |
@@ -95,8 +94,6 @@
 | s5.rtnews.pro | api.clickaine.com |
 | sda.arabsex1.com | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |
-| sticky.vtube.to | api.clickaine.com |
-| thunder1.vtube.to | api.clickaine.com |
 | uy.arabsex1.com | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
 | wp.brandnewapp.pro | api.clickaine.com |

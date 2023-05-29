@@ -92,7 +92,6 @@ tk.maison123.com CNAME .
 tk.moveyourfit.com CNAME .
 tk.msccruises.com CNAME .
 tk.nhlottery.com CNAME .
-tk.ornikar.com CNAME .
 tk.petit-bateau.be CNAME .
 tk.petit-bateau.co.uk CNAME .
 tk.petit-bateau.de CNAME .

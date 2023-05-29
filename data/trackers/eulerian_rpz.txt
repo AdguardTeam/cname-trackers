@@ -49,12 +49,14 @@ bdj5.terrassesmontecarlosbm.com CNAME .
 bft5.destinia.fr CNAME .
 bja2.destinia.cz CNAME .
 bk.brookeo.fr CNAME .
+blog.tagcentral.fr CNAME .
 bn.voyage-prive.com CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
 c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
@@ -78,7 +80,6 @@ deut2.fdj.fr CNAME .
 deut3.fdj.fr CNAME .
 dko.vente-unique.nl CNAME .
 dqs3.darjeeling.fr CNAME .
-du2k.bhv.fr CNAME .
 dv59b.montecarlomeeting.com CNAME .
 dw0c.sfr.fr CNAME .
 dw7u.hotelsbarriere.com CNAME .
@@ -483,7 +484,6 @@ zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 b1n.carabins.umontreal.ca CNAME .
-c0p.cepsum.umontreal.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 m10.m1029.com CNAME .
 nym5c.bonlook.com CNAME .

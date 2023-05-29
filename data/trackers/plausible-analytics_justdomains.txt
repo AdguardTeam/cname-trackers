@@ -40,11 +40,9 @@ analytics.lifestyledemocracy.com
 analytics.littlekingdesigns.com
 analytics.lunge.de
 analytics.mambaui.com
-analytics.manen.me
 analytics.martin-fieber.de
 analytics.mc500.info
 analytics.mhpod.gov.au
-analytics.mondoweiss.net
 analytics.mycater.fr
 analytics.naturequant.com
 analytics.qualityquestions.co
@@ -487,7 +485,6 @@ stats.codis.io
 stats.coditia.com
 stats.cohere.so
 stats.coldbox.org
-stats.coloursoftware.com
 stats.common-place.art
 stats.consistum.com
 stats.contentwritingjobs.com
@@ -583,7 +580,6 @@ stats.feathercss.makerkits.co
 stats.felipesere.com
 stats.femtobill.com
 stats.filburg.co
-stats.filewatch.net
 stats.flightsphere.com
 stats.florianfritz.net
 stats.flowphantom.com
@@ -751,7 +747,6 @@ stats.motion-effect.com
 stats.motorcyclepartsireland.ie
 stats.muchbetteradventures.com
 stats.multiply.cloud
-stats.mysideproject.rocks
 stats.navedislam.com
 stats.nddmed.com
 stats.nexagon.dk
@@ -829,7 +824,6 @@ stats.retro.cz
 stats.revit-content.com
 stats.revitfamily.app
 stats.rightourhistoryhawaii.com
-stats.roast-my-code.com
 stats.robhope.com
 stats.rocketvalidator.com
 stats.roderickduenas.com
@@ -937,7 +931,5 @@ views.sikerproducts.com
 visitorcenter.srwild.com
 visitors.gigianddavid.com
 we-love-privacy.humane.club
-www2.azimuthpsych.com
 yolo.philipbjorge.com
-yolo.phpliveregex.com
 zahlen.olereissmann.de

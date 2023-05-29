@@ -30,6 +30,7 @@
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
 5mc92su06suu.www.abhijith.page CNAME .
+704g8xh7qfzx.www.intercity.technology CNAME .
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .

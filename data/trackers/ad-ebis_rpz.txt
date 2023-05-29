@@ -1,6 +1,7 @@
 ;
 ; Company name: AD EBiS
 a9d8e7b6i5s.andgino.jp CNAME .
+aaa.aqualink.tv CNAME .
 aaaa.nocor.jp CNAME .
 ac-3.mix.tokyo CNAME .
 ac-ebis-stb.usen.com CNAME .

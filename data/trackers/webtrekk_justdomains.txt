@@ -3,6 +3,7 @@
 aud.bild.de
 image.deginvest.de
 image.kfw-entwicklungsbank.de
+image.kfw-formularsammlung.de
 image.kfw-ipex-bank.de
 image.kfw.de
 images1.test.de
@@ -262,6 +263,8 @@ web.info.teamwarrior.com
 web.info.vantastic-foods.com
 web.info.varelotteriet.dk
 web.info.yeppon.it
+web.jana-shoes.com
+web.mail.parmalat.it
 web.mail.proximaati.com
 web.mailing.storz-bickel.com
 web.mapp.docpeter.it

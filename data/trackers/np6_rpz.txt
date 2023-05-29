@@ -124,6 +124,7 @@ tr.cashback.banque-casino.fr CNAME .
 tr.cashback.floa.fr CNAME .
 tr.cb4x.banque-casino.fr CNAME .
 tr.cb4x.floa.fr CNAME .
+tr.cclx.espmp-agfr.net CNAME .
 tr.cdiscount.3wregie.com CNAME .
 tr.ceeregion.moethennessy.com CNAME .
 tr.christmas.petit-bateau.com CNAME .
@@ -567,6 +568,7 @@ tr.news.allopneus.be CNAME .
 tr.news.allopneus.com CNAME .
 tr.news.aramisauto.com CNAME .
 tr.news.assuragency.net CNAME .
+tr.news.bruneau.fr CNAME .
 tr.news.business-deal.co.uk CNAME .
 tr.news.c-media.fr CNAME .
 tr.news.cad-magazine.com CNAME .
@@ -576,6 +578,7 @@ tr.news.casinodrive.fr CNAME .
 tr.news.casinomax.fr CNAME .
 tr.news.cdiscount.com CNAME .
 tr.news.cdiscountpro.com CNAME .
+tr.news.cenpac.fr CNAME .
 tr.news.chapsvision.com CNAME .
 tr.news.chilican.com CNAME .
 tr.news.companeo.es CNAME .

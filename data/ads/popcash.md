@@ -82,6 +82,7 @@
 | anaconda.webitizeicts.com | deprecated-custom-domains.b-cdn.net |
 | anaconda.zephyrus.gg | deprecated-custom-domains.b-cdn.net |
 | angelfish.dpya.com | deprecated-custom-domains.b-cdn.net |
+| angelfish.grayscale.design | deprecated-custom-domains.b-cdn.net |
 | angelfish.owlbear.rodeo | deprecated-custom-domains.b-cdn.net |
 | angelfish.wpsocialrocket.com | deprecated-custom-domains.b-cdn.net |
 | anglerfish.luminfire.com | deprecated-custom-domains.b-cdn.net |
@@ -178,6 +179,7 @@
 | butterfly.rfortherestofus.com | deprecated-custom-domains.b-cdn.net |
 | buzzard.donotresearch.net | deprecated-custom-domains.b-cdn.net |
 | buzzard.nimble.team | deprecated-custom-domains.b-cdn.net |
+| camel.chrischiles.com | deprecated-custom-domains.b-cdn.net |
 | camel.gastro-plan.app | deprecated-custom-domains.b-cdn.net |
 | camel.nonpopularopinion.com | deprecated-custom-domains.b-cdn.net |
 | camel.warvik.no | deprecated-custom-domains.b-cdn.net |
@@ -278,7 +280,6 @@
 | coyote.gnx.cloud | deprecated-custom-domains.b-cdn.net |
 | coyote.hopr.swiss | deprecated-custom-domains.b-cdn.net |
 | coyote.nickgurney.com | deprecated-custom-domains.b-cdn.net |
-| coyote.titlerun.xyz | deprecated-custom-domains.b-cdn.net |
 | coyote.txet.ch | deprecated-custom-domains.b-cdn.net |
 | crab.dunkeldbutchers.co.uk | deprecated-custom-domains.b-cdn.net |
 | crab.goalcanvas.com | deprecated-custom-domains.b-cdn.net |
@@ -704,6 +705,7 @@
 | parrotfish.wus.immo | deprecated-custom-domains.b-cdn.net |
 | partridge.unfamiliar.land | deprecated-custom-domains.b-cdn.net |
 | peacock.davidlevai.com | deprecated-custom-domains.b-cdn.net |
+| peacock.psych.help | deprecated-custom-domains.b-cdn.net |
 | peafowl.projectstrackt.dev | deprecated-custom-domains.b-cdn.net |
 | penguin.mobiadroit.com | deprecated-custom-domains.b-cdn.net |
 | penguin.revolana.com | deprecated-custom-domains.b-cdn.net |
@@ -728,6 +730,7 @@
 | platypus.zwei-bags.ch | deprecated-custom-domains.b-cdn.net |
 | polarbear.codeday.org | deprecated-custom-domains.b-cdn.net |
 | polarbear.wpnow.dev | deprecated-custom-domains.b-cdn.net |
+| pony.bylt.co | deprecated-custom-domains.b-cdn.net |
 | pony.ftm.cat | deprecated-custom-domains.b-cdn.net |
 | porcupine.dvresolve.com | deprecated-custom-domains.b-cdn.net |
 | porcupine.simpleprax.de | deprecated-custom-domains.b-cdn.net |
@@ -754,6 +757,7 @@
 | quail.efix.uk | deprecated-custom-domains.b-cdn.net |
 | quelea.igotcha.de | deprecated-custom-domains.b-cdn.net |
 | quokka.bulkbuyhosting.com | deprecated-custom-domains.b-cdn.net |
+| quokka.curbnumberpro.com | deprecated-custom-domains.b-cdn.net |
 | quokka.joshuawood.net | deprecated-custom-domains.b-cdn.net |
 | rabbit.ekstelu.info | deprecated-custom-domains.b-cdn.net |
 | rabbit.radicalxchange.org | deprecated-custom-domains.b-cdn.net |
@@ -805,7 +809,6 @@
 | silkworm.preventingsuicideinsussex.org | deprecated-custom-domains.b-cdn.net |
 | silkworm.westwoodmbc.org | deprecated-custom-domains.b-cdn.net |
 | silverfish.dailybuilds.com | deprecated-custom-domains.b-cdn.net |
-| silverfish.trustduty.com | deprecated-custom-domains.b-cdn.net |
 | skink.asorman.io | deprecated-custom-domains.b-cdn.net |
 | skink.madewithlove.com | deprecated-custom-domains.b-cdn.net |
 | skunk.sebastiandedeyne.com | deprecated-custom-domains.b-cdn.net |
@@ -961,6 +964,7 @@
 | cdn.luxope.com | popcashjs.b-cdn.net |
 | cdn.mtinsqq.com | popcashjs.b-cdn.net |
 | cdn.namol.xyz | popcashjs.b-cdn.net |
+| cdn.nlop.xyz | popcashjs.b-cdn.net |
 | cdn.norymo.com | popcashjs.b-cdn.net |
 | cdn.nuqwe.com | popcashjs.b-cdn.net |
 | cdn.olep.xyz | popcashjs.b-cdn.net |

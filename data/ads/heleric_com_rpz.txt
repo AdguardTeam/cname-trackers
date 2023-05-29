@@ -10,6 +10,7 @@ aq.ferisonledger.com CNAME .
 ar.tankasphose.com CNAME .
 at.laundawaits.com CNAME .
 au.bolloxcyclism.com CNAME .
+aw.omandersingly.com CNAME .
 ax.mousmeetrike.com CNAME .
 ax.requotebatman.com CNAME .
 bb.vanhonker.com CNAME .
@@ -36,11 +37,13 @@ cq.stoundisocrat.com CNAME .
 cs.cowmankai.com CNAME .
 ct.eanlingtumfie.com CNAME .
 cu.fullssmirker.com CNAME .
+db.relandsnouts.com CNAME .
 dc.swartlybeebee.com CNAME .
 dd.zillahhayers.com CNAME .
 dg.durgahsursize.com CNAME .
 dg.folksychapes.com CNAME .
 dl.fatimacapos.com CNAME .
+dl.reqdleucine.com CNAME .
 do.chimblyconyger.com CNAME .
 do.felidaeabasing.com CNAME .
 du.jubhahbalize.com CNAME .
@@ -61,10 +64,12 @@ ff.guimpefesses.com CNAME .
 fg.satraefreath.com CNAME .
 fh.termsixias.com CNAME .
 fi.creeguilds.com CNAME .
+fk.oaklikespiers.com CNAME .
 fm.ramouselong.com CNAME .
 fn.deulspoorn.com CNAME .
 fo.irrisoranemone.com CNAME .
 fp.mailerstalons.com CNAME .
+fs.fogramokayed.com CNAME .
 fs.velellabudded.com CNAME .
 fx.muntiglesia.com CNAME .
 fy.uncheckluggies.com CNAME .
@@ -76,6 +81,7 @@ go.jazygesunoared.com CNAME .
 go.loorydewdrop.com CNAME .
 gp.splodgydossing.com CNAME .
 gs.profrebecca.com CNAME .
+gw.glassbogey.com CNAME .
 ha.reaffixteaey.com CNAME .
 hg.barwaltanha.com CNAME .
 hg.scallsoogloea.com CNAME .
@@ -86,6 +92,7 @@ hx.relivesternar.com CNAME .
 ia.bisetsoliped.com CNAME .
 ie.facemanuptore.com CNAME .
 ie.repointderider.com CNAME .
+ii.tiptoesstbd.com CNAME .
 ik.nuraghireels.com CNAME .
 in.becamechorist.com CNAME .
 io.stoushgowds.com CNAME .
@@ -95,6 +102,7 @@ ir.mildlydoucely.com CNAME .
 ir.turbotaedile.com CNAME .
 iy.secalinonyxis.com CNAME .
 je.guancheoutwait.com CNAME .
+je.mammeysterrae.com CNAME .
 je.sepiasfra.com CNAME .
 jg.devaultautit.com CNAME .
 ji.axingectal.com CNAME .
@@ -109,6 +117,7 @@ js.gussiesarkosic.com CNAME .
 ju.kittlesoceania.com CNAME .
 ju.veganswingbow.com CNAME .
 jv.curiousuraemia.com CNAME .
+jv.sugaryestrone.com CNAME .
 jw.posiedcaridea.com CNAME .
 jx.yonnersekere.com CNAME .
 ke.kabalagarsil.com CNAME .
@@ -167,6 +176,7 @@ pg.maftirkolo.com CNAME .
 pk.axitessubclei.com CNAME .
 pq.carlingquerent.com CNAME .
 pr.hefterunmete.com CNAME .
+ps.lanzontuareg.com CNAME .
 pv.wiglessoctaves.com CNAME .
 px.owdunpiled.com CNAME .
 qb.falsenalice.com CNAME .
@@ -186,6 +196,8 @@ rg.canesbilker.com CNAME .
 rh.sirionehusky.com CNAME .
 rj.unhaveabobra.com CNAME .
 rm.bauderylysines.com CNAME .
+rp.bumblesisobase.com CNAME .
+rp.splentstoatoa.com CNAME .
 rp.tsuresoranges.com CNAME .
 rr.giggertji.com CNAME .
 rs.tupigrousy.com CNAME .
@@ -245,6 +257,7 @@ vt.alieneepunta.com CNAME .
 vv.habaerashiksas.com CNAME .
 vx.azuresjukes.com CNAME .
 wb.aliensplitch.com CNAME .
+wb.uncannyuneaths.com CNAME .
 wd.towmonterses.com CNAME .
 we.noonsderider.com CNAME .
 wi.cohereseugene.com CNAME .

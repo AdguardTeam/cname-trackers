@@ -129,6 +129,7 @@
 3211473.notifysrv.com CNAME .
 3212867.notifysrv.com CNAME .
 3214413.notifysrv.com CNAME .
+3214729.notify6.com CNAME .
 3214733.notifysrv.com CNAME .
 3215023.notifysrv.com CNAME .
 3215685.notify6.com CNAME .
@@ -138,6 +139,7 @@
 3217213.notifysrv.com CNAME .
 3220723.notify6.com CNAME .
 3221653.notifysrv.com CNAME .
+3221733.notify6.com CNAME .
 3221733.notifysrv.com CNAME .
 3221983.notifysrv.com CNAME .
 3225557.notify6.com CNAME .
@@ -524,6 +526,7 @@
 3585435.notify6.com CNAME .
 3587723.notifysrv.com CNAME .
 3587729.notifysrv.com CNAME .
+3587799.notifysrv.com CNAME .
 3588.notify.optimizesrv.com CNAME .
 3588135.notifysrv.com CNAME .
 3588587.notify6.com CNAME .
@@ -773,6 +776,7 @@
 4795286.notify6.com CNAME .
 4795320.notify6.com CNAME .
 4795534.notify6.com CNAME .
+4795556.notify6.com CNAME .
 4795570.notify6.com CNAME .
 4798638.notify6.com CNAME .
 4799078.notify6.com CNAME .
@@ -821,11 +825,13 @@ a.ad.guru CNAME .
 a.paradoxgroup.uk CNAME .
 a.redpathmedia.com CNAME .
 a.stuffserve.com CNAME .
+admin.ad.guru CNAME .
 admin.shafttraffic.com CNAME .
 api.adnation.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 m.hue2a.com CNAME .
+m.hue3a.com CNAME .
 m.optnx.com CNAME .
 main.adxnow.com CNAME .
 main.exdynsrv.com CNAME .
@@ -841,6 +847,7 @@ rtb.exoclick.com CNAME .
 s.a3ion.com CNAME .
 s.ad.guru CNAME .
 s.adnflow.com CNAME .
+s.advertrek.com CNAME .
 s.bizonads-ssp.com CNAME .
 s.eaalink.com CNAME .
 s.elink2b.com CNAME .
@@ -885,6 +892,7 @@ s.zlink8.com CNAME .
 s.zlink9.com CNAME .
 s.zlinkb.com CNAME .
 s.zlinkc.com CNAME .
+s.zlinkd.com CNAME .
 s.zlinkm.com CNAME .
 syndication-adblock.exoclick.com CNAME .
 syndication-json.exoclick.com CNAME .
@@ -898,6 +906,7 @@ syndication.exdynsrv.com CNAME .
 syndication.exoclick.com CNAME .
 syndication.exosrv.com CNAME .
 syndication.jsadapi.com CNAME .
+syndication.link2nx.com CNAME .
 syndication.link2zz.com CNAME .
 syndication.link5c.com CNAME .
 syndication.linkfryn.com CNAME .
@@ -914,7 +923,6 @@ a.bizonads-ssp.com CNAME .
 a.etology.com CNAME .
 a.santabrowser.com CNAME .
 a.slice.exchange CNAME .
-admin.ad.guru CNAME .
 admin.adnation.com CNAME .
 admin.adstuff.io CNAME .
 admin.etology.com CNAME .

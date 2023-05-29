@@ -207,7 +207,6 @@ refer.firsttechfed.com
 refer.frontgate.com
 refer.g2.com
 refer.gapcanada.ca
-refer.gardenoflife.com
 refer.garnethill.com
 refer.gbyguess.com
 refer.gcefcu.org
@@ -361,6 +360,7 @@ refer.zipcar.com
 refer.zomasleep.com
 refer1.dollskill.com
 refer1.experian.com
+referacct.quickbooks.intuit.co.uk
 referafriend.discover.com
 referral.cledepeaubeaute.com
 referral.shiseido.com
@@ -472,7 +472,6 @@ share.livongo.com
 share.lovesac.com
 share.maccosmetics.com.au
 share.mamabearlegalforms.com
-share.manscaped.com
 share.mansfieldnewsjournal.com
 share.medely.com
 share.meettally.com
@@ -546,6 +545,7 @@ share.tauntongazette.com
 share.tcpalm.com
 share.teachersfcu.org
 share.telegram.com
+share.theledger.com
 share.thenorthwestern.com
 share.theory.com
 share.theoryoutlet.com

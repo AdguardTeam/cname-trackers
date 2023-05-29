@@ -143,6 +143,7 @@
 | tr.cashback.floa.fr | tracking.bp01.net |
 | tr.cb4x.banque-casino.fr | tracking.bp01.net |
 | tr.cb4x.floa.fr | tracking.bp01.net |
+| tr.cclx.espmp-agfr.net | tracking.bp01.net |
 | tr.cdiscount.3wregie.com | tracking.bp01.net |
 | tr.ceeregion.moethennessy.com | tracking.bp01.net |
 | tr.christmas.petit-bateau.com | tracking.bp01.net |
@@ -586,6 +587,7 @@
 | tr.news.allopneus.com | tracking.bp01.net |
 | tr.news.aramisauto.com | tracking.bp01.net |
 | tr.news.assuragency.net | tracking.bp01.net |
+| tr.news.bruneau.fr | tracking.bp01.net |
 | tr.news.business-deal.co.uk | tracking.bp01.net |
 | tr.news.c-media.fr | tracking.bp01.net |
 | tr.news.cad-magazine.com | tracking.bp01.net |
@@ -595,6 +597,7 @@
 | tr.news.casinomax.fr | tracking.bp01.net |
 | tr.news.cdiscount.com | tracking.bp01.net |
 | tr.news.cdiscountpro.com | tracking.bp01.net |
+| tr.news.cenpac.fr | tracking.bp01.net |
 | tr.news.chapsvision.com | tracking.bp01.net |
 | tr.news.chilican.com | tracking.bp01.net |
 | tr.news.companeo.es | tracking.bp01.net |

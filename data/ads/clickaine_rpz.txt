@@ -4,6 +4,7 @@ a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
 ad1.xero.porn CNAME .
 api.kekw.website CNAME .
+api.kekw.world CNAME .
 api.rtnews.pro CNAME .
 api.willalland.info CNAME .
 api2.clickaine.com CNAME .
@@ -18,7 +19,6 @@ c2n.pornez.net CNAME .
 c4n.asianpinay.com CNAME .
 c4n.bigxxxsex.com CNAME .
 c4n.hotjavmovies.com CNAME .
-c4n.ijerk.club CNAME .
 c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
 c4n.perverzija.com CNAME .
@@ -61,11 +61,9 @@ cn4.animehdl.net CNAME .
 cvk.supklik.com CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
-dnsbl.test.ww1.willalland.info CNAME .
 dr1.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
 faq.brandnewapp.pro CNAME .
-flare.vtube.to CNAME .
 ge6.getfto.com CNAME .
 get.xclick24.com CNAME .
 go.lize.bid CNAME .
@@ -75,6 +73,7 @@ hruk.jjikk.top CNAME .
 hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
+jg1.trypicz.com CNAME .
 jpnj.hotpornfile.org CNAME .
 k8.usefto.com CNAME .
 mail.7porn.ru CNAME .
@@ -87,8 +86,6 @@ s1.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
 sda.arabsex1.com CNAME .
 snow.snowdayonline.xyz CNAME .
-sticky.vtube.to CNAME .
-thunder1.vtube.to CNAME .
 uy.arabsex1.com CNAME .
 v040419.badjojo.com CNAME .
 wp.brandnewapp.pro CNAME .

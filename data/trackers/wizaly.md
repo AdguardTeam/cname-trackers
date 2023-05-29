@@ -35,7 +35,6 @@
     * tk-maison123-com.wizaly.com
     * tk-moveyourfit-com.wizaly.com
     * tk-nhlottery-com.wizaly.com
-    * tk-ornikar-com.wizaly.com
     * tk-petit-bateau.wizaly.com
     * tk-planete-oui-fr.wizaly.com
     * tk-qare-fr.wizaly.com
@@ -107,7 +106,6 @@
 | tk.maison123.com | tk-maison123-com.wizaly.com |
 | tk.moveyourfit.com | tk-moveyourfit-com.wizaly.com |
 | tk.nhlottery.com | tk-nhlottery-com.wizaly.com |
-| tk.ornikar.com | tk-ornikar-com.wizaly.com |
 | tk.petit-bateau.be | tk-petit-bateau.wizaly.com |
 | tk.petit-bateau.co.uk | tk-petit-bateau.wizaly.com |
 | tk.petit-bateau.de | tk-petit-bateau.wizaly.com |

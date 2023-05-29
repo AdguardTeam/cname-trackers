@@ -222,6 +222,7 @@
 ||affiliate.socialsprinters.cz^
 ||affiliate.sportinator.cz^
 ||affiliate.stanislavamrazkova.cz^
+||affiliate.stibio.cz^
 ||affiliate.stips.cz^
 ||affiliate.svarecky-obchod.cz^
 ||affiliate.svetbot.cz^
@@ -380,6 +381,7 @@
 ||partner.amonitsro.sk^
 ||partner.anabix.cz^
 ||partner.antihacker.cz^
+||partner.artmaster.com^
 ||partner.artmasteracademy.cz^
 ||partner.astaxanthincz.cz^
 ||partner.avetour.cz^
@@ -455,7 +457,7 @@
 ||partner.firmin.cz^
 ||partner.fitnessrevolucia.sk^
 ||partner.forexrebel.net^
-||partner.galsari.com^
+||partner.generatorvodiku.cz^
 ||partner.giulieta.shop^
 ||partner.gokids.cz^
 ||partner.granule-eshop.cz^
@@ -582,7 +584,6 @@
 ||partner.svatba.cz^
 ||partner.svatebni-diar.cz^
 ||partner.svetruzi.cz^
-||partner.swimmeez.cz^
 ||partner.tahnabranu.cz^
 ||partner.tajemstvi-uspechu.cz^
 ||partner.thechillidoctor.cz^
@@ -732,6 +733,7 @@
 ||partneri.worldee.com^
 ||partneri.yoggspiration.cz^
 ||partneri.zaprovizi.cz^
+||partneri.zdrave-sladkosti.sk^
 ||partneri.zdravy-zivotny-styl.sk^
 ||partneri.zdravykram.cz^
 ||partneri.zijchytre.cz^
