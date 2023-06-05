@@ -204,6 +204,7 @@ ebis.n-pri.jp
 ebis.nomu-silica.jp
 ebis.okasan-online.co.jp
 ebis.onamae.com
+ebis.palclair.jp
 ebis.pasonatech.co.jp
 ebis.rabo.cat
 ebis.radish-pocket.com

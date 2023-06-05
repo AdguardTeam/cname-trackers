@@ -16,6 +16,7 @@ k.laredoute.com CNAME .
 k.laredoute.es CNAME .
 k.laredoute.pt CNAME .
 k.laredoute.ru CNAME .
+k.laredoute.se CNAME .
 k.voyageursdumonde.be CNAME .
 k.voyageursdumonde.ca CNAME .
 k.voyageursdumonde.ch CNAME .

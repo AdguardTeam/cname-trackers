@@ -2,6 +2,7 @@
 ! Company name: AT Internet (formerly XiTi)
 ||71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr^
 ||a.20minutes.fr^
+||a.hellowork.com^
 ||a.pourquoidocteur.fr^
 ||a1.api.bbc.co.uk^
 ||a1.api.bbc.com^

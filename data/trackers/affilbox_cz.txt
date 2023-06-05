@@ -79,6 +79,7 @@
 ||affil.zdravetricko.cz^
 ||affil.zenskecykly.cz^
 ||affilate.sklep38.cz^
+||affilbox.25hodin.cz^
 ||affilbox.aliveplatform.com^
 ||affilbox.andreashop.sk^
 ||affilbox.doglog.cz^
@@ -261,6 +262,7 @@
 ||brana.ritualyomlazeni.cz^
 ||dekovacka.hezkres.cz^
 ||doporuc.hopsej.cz^
+||equilist.raj-ohlavek.cz^
 ||hcaffil.mironet.cz^
 ||hcbox.bikemax.cz^
 ||hcbox.boomshop.sk^
@@ -521,6 +523,7 @@
 ||partner.moringacaribbean.eu^
 ||partner.motoobchod.cz^
 ||partner.muffik.cz^
+||partner.muffik.eu^
 ||partner.mumijo.cz^
 ||partner.muzskykruh.cz^
 ||partner.nanolab.cz^
@@ -577,7 +580,6 @@
 ||partner.stickersmakers.com^
 ||partner.stromkyonline.cz^
 ||partner.summermyles.cz^
-||partner.superpotlac.sk^
 ||partner.supervyhody.cz^
 ||partner.susenepochoutky.cz^
 ||partner.susmevem.com^
@@ -700,6 +702,7 @@
 ||partneri.puravia.cz^
 ||partneri.radostkazdyden.cz^
 ||partneri.razdvapujcka.cz^
+||partneri.realitnishaker.cz^
 ||partneri.richardstepan.cz^
 ||partneri.roklen.cz^
 ||partneri.rondainvest.cz^
@@ -719,7 +722,6 @@
 ||partneri.tradicne-feng-shui.sk^
 ||partneri.trenink-vyjednavani.cz^
 ||partneri.trollbeads.cz^
-||partneri.trollbeadscz.com^
 ||partneri.tvojemamka.cz^
 ||partneri.umenijazyku.cz^
 ||partneri.vashop.cz^
@@ -749,12 +751,12 @@
 ||partners.rebelsfunding.com^
 ||partners.spiritradar.com^
 ||plus.mameradivlasy.cz^
-||program.biocitia.eu^
 ||promo.smskouc.cz^
 ||provize.3dfitness.cz^
 ||provize.brilas.cz^
 ||provize.dzumdzum.cz^
 ||provize.ftfc.cz^
+||provize.hopsej.cz^
 ||provize.mimulo.cz^
 ||provize.pracenasobe.cz^
 ||provize.radynacestu.cz^
@@ -769,6 +771,7 @@
 ||royalfamily.royalchaga.sk^
 ||special.kvetinyexpres.cz^
 ||spolu.kuskakaa.cz^
+||spoluprace.aretacni-pripravky.cz^
 ||spoluprace.bafoo.cz^
 ||spoluprace.blackkale.cz^
 ||spoluprace.denikletusky.cz^

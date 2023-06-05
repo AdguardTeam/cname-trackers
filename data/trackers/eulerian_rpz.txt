@@ -74,6 +74,8 @@ ct5m.citadium.com CNAME .
 ctp1.bforbank.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
+d0f.le-dauphin.com CNAME .
+deb1.refleximmo-recrutement.com CNAME .
 def1.optimhome-recrutement.com CNAME .
 deut1.fdj.fr CNAME .
 deut2.fdj.fr CNAME .
@@ -91,7 +93,6 @@ ea.auchantelecom.fr CNAME .
 ea.audika.com CNAME .
 ea.auvergne-direct.fr CNAME .
 ea.bcassurance.fr CNAME .
-ea.bongo.nl CNAME .
 ea.camping-and-co.com CNAME .
 ea.carrefour.com CNAME .
 ea.carrefour.fr CNAME .
@@ -158,7 +159,6 @@ ea.rentacar.fr CNAME .
 ea.reunica.com CNAME .
 ea.roxy.eu CNAME .
 ea.smallable.com CNAME .
-ea.smartbox.com CNAME .
 ea.sport2000.fr CNAME .
 ea.telecommandeonline.com CNAME .
 ea.tool-fitness.com CNAME .
@@ -176,7 +176,6 @@ ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
 ea.zgeneration.com CNAME .
-eat9.thebeat925.ca CNAME .
 ebc1.capifrance.fr CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
@@ -184,7 +183,6 @@ eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 et.swatch.com CNAME .
@@ -443,6 +441,7 @@ vch.voyage-prive.ch CNAME .
 vde1.voyage-prive.de CNAME .
 vfo.voyage-prive.co.uk CNAME .
 vfo4.carrefour-banque.fr CNAME .
+vgo.vegaoo.com CNAME .
 vgo.vegaoo.de CNAME .
 vgo.vegaoo.es CNAME .
 vgo.vegaoo.it CNAME .
@@ -464,9 +463,11 @@ wnd2.destinia.cat CNAME .
 wph2.destinia.us CNAME .
 www.fasttrack.fr CNAME .
 www.fasttracker.fr CNAME .
+www.mis.tourisme-montreal.org CNAME .
 xay5o.toscane-boutique.fr CNAME .
 xjq5.belambra.be CNAME .
 xuc.monteleone.fr CNAME .
+xvu.monnierfreres.co.uk CNAME .
 xy33.smallable.com CNAME .
 xya4.groupefsc.com CNAME .
 yf5.voyage-prive.at CNAME .
@@ -477,6 +478,7 @@ yyi7.consobaby.de CNAME .
 zcih.clotureantifugue.com CNAME .
 zdx5.destinia.pe CNAME .
 zkc5.fleurancenature.fr CNAME .
+zlm2.ecetech.fr CNAME .
 znq9.destinia.mx CNAME .
 zrw1.destinia.jp CNAME .
 zs.voyage-prive.com CNAME .
@@ -484,9 +486,10 @@ zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 b1n.carabins.umontreal.ca CNAME .
+eat9.thebeat925.ca CNAME .
+erb.tremblant.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 m10.m1029.com CNAME .
 nym5c.bonlook.com CNAME .
-www.mis.tourisme-montreal.org CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .

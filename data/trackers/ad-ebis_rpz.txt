@@ -204,6 +204,7 @@ ebis.n-pri.jp CNAME .
 ebis.nomu-silica.jp CNAME .
 ebis.okasan-online.co.jp CNAME .
 ebis.onamae.com CNAME .
+ebis.palclair.jp CNAME .
 ebis.pasonatech.co.jp CNAME .
 ebis.rabo.cat CNAME .
 ebis.radish-pocket.com CNAME .

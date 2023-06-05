@@ -41,6 +41,7 @@ analytics.littlekingdesigns.com CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
 analytics.martin-fieber.de CNAME .
+analytics.mattmcadams.com CNAME .
 analytics.mc500.info CNAME .
 analytics.mhpod.gov.au CNAME .
 analytics.mycater.fr CNAME .
@@ -222,6 +223,7 @@ plausible.app.kdojang.com CNAME .
 plausible.app.tlschedule.com CNAME .
 plausible.as207960.net CNAME .
 plausible.bablab.com CNAME .
+plausible.bacanalia.net CNAME .
 plausible.banovo.de CNAME .
 plausible.baychi.org CNAME .
 plausible.beanti.me CNAME .
@@ -277,7 +279,6 @@ plausible.nova.app CNAME .
 plausible.nubemia.com CNAME .
 plausible.nuqu.org CNAME .
 plausible.panic.com CNAME .
-plausible.phuctm97.com CNAME .
 plausible.play.date CNAME .
 plausible.promlens.com CNAME .
 plausible.prufit.co CNAME .
@@ -371,6 +372,7 @@ spock.domjtalbot.codes CNAME .
 st.anastasija.lt CNAME .
 st.picshuffle.com CNAME .
 st.preciousamber.com CNAME .
+st.sheebamagazine.com CNAME .
 st.tulastudio.se CNAME .
 starman.floorcleanse.co.uk CNAME .
 stat.bill.harding.blog CNAME .
@@ -732,6 +734,7 @@ stats.macosicons.com CNAME .
 stats.madeit.io CNAME .
 stats.madethis.gallery CNAME .
 stats.maferland.com CNAME .
+stats.magarantie5ans.fr CNAME .
 stats.makerr.market CNAME .
 stats.makingknown.xyz CNAME .
 stats.malte-bartels.de CNAME .
@@ -751,11 +754,13 @@ stats.navedislam.com CNAME .
 stats.nddmed.com CNAME .
 stats.nexagon.dk CNAME .
 stats.nicolabricot.com CNAME .
+stats.nicolaskempf.fr CNAME .
 stats.nodewood.com CNAME .
 stats.nomad.radio CNAME .
 stats.nothingbutnylon.com CNAME .
 stats.nullsecure.com CNAME .
 stats.nytecomics.com CNAME .
+stats.obscura-magazine.com CNAME .
 stats.odysseeseine.org CNAME .
 stats.officefoosball.com CNAME .
 stats.offthekerb.com CNAME .
@@ -856,6 +861,7 @@ stats.shareup.app CNAME .
 stats.shepherd.com CNAME .
 stats.shiftx.com CNAME .
 stats.sirdata.com CNAME .
+stats.sixseven.at CNAME .
 stats.slicedthread.com CNAME .
 stats.socialeurope.eu CNAME .
 stats.sommselect.com CNAME .
@@ -906,6 +912,7 @@ stats.wecodeni.com CNAME .
 stats.westswindon-pc.gov.uk CNAME .
 stats.whenpigsflybbq.com CNAME .
 stats.whereisit5pmrightnow.com CNAME .
+stats.wisebox.co CNAME .
 stats.world.hey.com CNAME .
 stats.wvs.org.uk CNAME .
 stats.wvsindia.org CNAME .
@@ -919,13 +926,14 @@ stats.zehta.me CNAME .
 stats.zimri.net CNAME .
 sts.authramp.com CNAME .
 sts.tour-europe.org CNAME .
+t.lastcast.fm CNAME .
 thumos.fileside.app CNAME .
 tics.seeker.gg CNAME .
 tipstats.onepagelove.com CNAME .
 tock.weg.plus CNAME .
 track.slickinbox.com CNAME .
-traffic.hostedstatus.page CNAME .
 traffic.taktikal.is CNAME .
+tree.indot.nl CNAME .
 triton.companyegg.com CNAME .
 views.sikerproducts.com CNAME .
 visitorcenter.srwild.com CNAME .

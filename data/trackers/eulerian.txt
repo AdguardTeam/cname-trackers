@@ -74,6 +74,8 @@
 ||ctp1.bforbank.com^
 ||cvi6.destinia.qa^
 ||cyf9.destinia.cl^
+||d0f.le-dauphin.com^
+||deb1.refleximmo-recrutement.com^
 ||def1.optimhome-recrutement.com^
 ||deut1.fdj.fr^
 ||deut2.fdj.fr^
@@ -91,7 +93,6 @@
 ||ea.audika.com^
 ||ea.auvergne-direct.fr^
 ||ea.bcassurance.fr^
-||ea.bongo.nl^
 ||ea.camping-and-co.com^
 ||ea.carrefour.com^
 ||ea.carrefour.fr^
@@ -158,7 +159,6 @@
 ||ea.reunica.com^
 ||ea.roxy.eu^
 ||ea.smallable.com^
-||ea.smartbox.com^
 ||ea.sport2000.fr^
 ||ea.telecommandeonline.com^
 ||ea.tool-fitness.com^
@@ -176,7 +176,6 @@
 ||ea.voyage-prive.it^
 ||ea.warnerbros.fr^
 ||ea.zgeneration.com^
-||eat9.thebeat925.ca^
 ||ebc1.capifrance.fr^
 ||ef.futuroscope.com^
 ||ef.futuroscope.mobi^
@@ -184,7 +183,6 @@
 ||ek8.voyage-prive.com^
 ||elc1.energies.leclerc^
 ||elr.sfr.fr^
-||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||et.sncf.com^
 ||et.swatch.com^
@@ -443,6 +441,7 @@
 ||vde1.voyage-prive.de^
 ||vfo.voyage-prive.co.uk^
 ||vfo4.carrefour-banque.fr^
+||vgo.vegaoo.com^
 ||vgo.vegaoo.de^
 ||vgo.vegaoo.es^
 ||vgo.vegaoo.it^
@@ -464,9 +463,11 @@
 ||wph2.destinia.us^
 ||www.fasttrack.fr^
 ||www.fasttracker.fr^
+||www.mis.tourisme-montreal.org^
 ||xay5o.toscane-boutique.fr^
 ||xjq5.belambra.be^
 ||xuc.monteleone.fr^
+||xvu.monnierfreres.co.uk^
 ||xy33.smallable.com^
 ||xya4.groupefsc.com^
 ||yf5.voyage-prive.at^
@@ -477,6 +478,7 @@
 ||zcih.clotureantifugue.com^
 ||zdx5.destinia.pe^
 ||zkc5.fleurancenature.fr^
+||zlm2.ecetech.fr^
 ||znq9.destinia.mx^
 ||zrw1.destinia.jp^
 ||zs.voyage-prive.com^
@@ -484,9 +486,10 @@
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
 ||b1n.carabins.umontreal.ca^
+||eat9.thebeat925.ca^
+||erb.tremblant.ca^
 ||hk2d.tourismemauricie.com^
 ||m10.m1029.com^
 ||nym5c.bonlook.com^
-||www.mis.tourisme-montreal.org^
 ||ea.mnt.fr^
 ||gi7a.structube.com^

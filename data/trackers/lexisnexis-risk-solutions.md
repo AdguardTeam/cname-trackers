@@ -50,6 +50,7 @@
     * h-6rj18la4.online-metrix.net
     * h-6voqock8.online-metrix.net
     * h-6wp7e261.online-metrix.net
+    * h-6wvzx05q.online-metrix.net
     * h-6xl38gst.online-metrix.net
     * h-6y7fu8j2.online-metrix.net
     * h-6y7oe1nl.online-metrix.net
@@ -695,6 +696,7 @@
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
 | content.telusinternational.ai | h-6voqock8.online-metrix.net |
 | contentservices.clearairlending.com | h-6wp7e261.online-metrix.net |
+| pic.bankonline.ge | h-6wvzx05q.online-metrix.net |
 | content.cofidis.pt | h-6xl38gst.online-metrix.net |
 | wildcard.humm.ie | h-6y7fu8j2.online-metrix.net |
 | content.pledg.co | h-6y7oe1nl.online-metrix.net |
@@ -1274,6 +1276,7 @@
 | t.banking.njfcu.org | h-pscu.online-metrix.net |
 | t.demo.lumindigital.com | h-pscu.online-metrix.net |
 | t.digital.communityfirstcu.org | h-pscu.online-metrix.net |
+| t.digitalbanking.credithuman.com | h-pscu.online-metrix.net |
 | t.digitalbanking.langleyfcu.org | h-pscu.online-metrix.net |
 | t.digitalbanking.tronavalley.com | h-pscu.online-metrix.net |
 | t.digitalbanking.uoficreditunion.org | h-pscu.online-metrix.net |

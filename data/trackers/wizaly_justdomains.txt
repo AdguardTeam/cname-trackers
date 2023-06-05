@@ -25,7 +25,6 @@ tk.airfrance.de
 tk.airfrance.dk
 tk.airfrance.fi
 tk.airfrance.fr
-tk.airfrance.ga
 tk.airfrance.gf
 tk.airfrance.gr
 tk.airfrance.hr
@@ -88,6 +87,7 @@ tk.lcl.fr
 tk.little-big-change.com
 tk.lolivier.fr
 tk.lulli-sur-la-toile.com
+tk.m6boutique.com
 tk.maison123.com
 tk.moveyourfit.com
 tk.msccruises.com
@@ -106,6 +106,7 @@ tk.rimowa.com
 tk.salomon.com
 tk.speedway.fr
 tk.svsound.com
+tk.teleshopping.fr
 tk.tikamoon.co.uk
 tk.tikamoon.com
 tk.tikamoon.de

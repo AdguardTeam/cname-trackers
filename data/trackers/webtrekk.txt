@@ -7,6 +7,7 @@
 ||image.kfw-ipex-bank.de^
 ||image.kfw.de^
 ||images1.test.de^
+||img.buch.ch^
 ||inhalt.bild.de^
 ||mon.ingservices.nl^
 ||now.peek-cloppenburg.de^
@@ -103,6 +104,7 @@
 ||di.ifolor.it^
 ||di.ifolor.lu^
 ||di.ifolor.net^
+||di.ifolor.se^
 ||di.spreadmorelove.ch^
 ||dnsbl.test.wbtrkk.teufel.de^
 ||ed.emp-online.ch^
@@ -132,6 +134,7 @@
 ||hbbtv-track.prosiebensat1puls4.com^
 ||img.foodspring.at^
 ||img.foodspring.ch^
+||img.foodspring.co.uk^
 ||img.foodspring.cz^
 ||img.foodspring.de^
 ||img.foodspring.dk^
@@ -141,6 +144,7 @@
 ||img.foodspring.hr^
 ||img.foodspring.it^
 ||img.foodspring.se^
+||info.klett-sprachen.de^
 ||intelligence.officialwesthamstore.com^
 ||is.lg.com^
 ||lax.data.srf.ch^

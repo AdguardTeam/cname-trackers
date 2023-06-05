@@ -45,6 +45,7 @@ activate.tacdn.com
 activate.tidewaterreview.com
 activate.tronc.com
 activate.united.com
+activate.vivelohoy.com
 activate1.fidelity.com
 agility.cartoonnetwork.com
 agility.citizensbank.com
@@ -108,6 +109,7 @@ cm.quest.com
 cmp.audi.be
 cmp.cupra.be
 cmp.dieteren.be
+cmp.dieterengroup.com
 cmp.myway.be
 cmp.porsche.be
 cmp.seat.be
@@ -123,6 +125,7 @@ cookies.jll.ca
 cookies.jll.ch
 cookies.jll.cl
 cookies.jll.co.id
+cookies.jll.co.il
 cookies.jll.co.in
 cookies.jll.co.kr
 cookies.jll.co.uk
@@ -153,6 +156,7 @@ cookies.jll.pl
 cookies.jll.pt
 cookies.jll.ru
 cookies.jll.sk
+cookies.jllsweden.se
 cookies.joneslanglasalle.co.jp
 cookies.joneslanglasalle.com.cn
 cookies.joneslanglasalle.com.vn

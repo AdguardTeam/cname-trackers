@@ -79,6 +79,7 @@ affil.zaslat.cz CNAME .
 affil.zdravetricko.cz CNAME .
 affil.zenskecykly.cz CNAME .
 affilate.sklep38.cz CNAME .
+affilbox.25hodin.cz CNAME .
 affilbox.aliveplatform.com CNAME .
 affilbox.andreashop.sk CNAME .
 affilbox.doglog.cz CNAME .
@@ -261,6 +262,7 @@ box.kryptotrejder.sk CNAME .
 brana.ritualyomlazeni.cz CNAME .
 dekovacka.hezkres.cz CNAME .
 doporuc.hopsej.cz CNAME .
+equilist.raj-ohlavek.cz CNAME .
 hcaffil.mironet.cz CNAME .
 hcbox.bikemax.cz CNAME .
 hcbox.boomshop.sk CNAME .
@@ -521,6 +523,7 @@ partner.mooselife.cz CNAME .
 partner.moringacaribbean.eu CNAME .
 partner.motoobchod.cz CNAME .
 partner.muffik.cz CNAME .
+partner.muffik.eu CNAME .
 partner.mumijo.cz CNAME .
 partner.muzskykruh.cz CNAME .
 partner.nanolab.cz CNAME .
@@ -577,7 +580,6 @@ partner.stavario.com CNAME .
 partner.stickersmakers.com CNAME .
 partner.stromkyonline.cz CNAME .
 partner.summermyles.cz CNAME .
-partner.superpotlac.sk CNAME .
 partner.supervyhody.cz CNAME .
 partner.susenepochoutky.cz CNAME .
 partner.susmevem.com CNAME .
@@ -700,6 +702,7 @@ partneri.progresguru.cz CNAME .
 partneri.puravia.cz CNAME .
 partneri.radostkazdyden.cz CNAME .
 partneri.razdvapujcka.cz CNAME .
+partneri.realitnishaker.cz CNAME .
 partneri.richardstepan.cz CNAME .
 partneri.roklen.cz CNAME .
 partneri.rondainvest.cz CNAME .
@@ -719,7 +722,6 @@ partneri.toothy.cz CNAME .
 partneri.tradicne-feng-shui.sk CNAME .
 partneri.trenink-vyjednavani.cz CNAME .
 partneri.trollbeads.cz CNAME .
-partneri.trollbeadscz.com CNAME .
 partneri.tvojemamka.cz CNAME .
 partneri.umenijazyku.cz CNAME .
 partneri.vashop.cz CNAME .
@@ -749,12 +751,12 @@ partners.quantexpo.com CNAME .
 partners.rebelsfunding.com CNAME .
 partners.spiritradar.com CNAME .
 plus.mameradivlasy.cz CNAME .
-program.biocitia.eu CNAME .
 promo.smskouc.cz CNAME .
 provize.3dfitness.cz CNAME .
 provize.brilas.cz CNAME .
 provize.dzumdzum.cz CNAME .
 provize.ftfc.cz CNAME .
+provize.hopsej.cz CNAME .
 provize.mimulo.cz CNAME .
 provize.pracenasobe.cz CNAME .
 provize.radynacestu.cz CNAME .
@@ -769,6 +771,7 @@ rek.rybizak.cz CNAME .
 royalfamily.royalchaga.sk CNAME .
 special.kvetinyexpres.cz CNAME .
 spolu.kuskakaa.cz CNAME .
+spoluprace.aretacni-pripravky.cz CNAME .
 spoluprace.bafoo.cz CNAME .
 spoluprace.blackkale.cz CNAME .
 spoluprace.denikletusky.cz CNAME .

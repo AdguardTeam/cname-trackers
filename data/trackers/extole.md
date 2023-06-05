@@ -19,12 +19,14 @@
     * bostonglobe-ssl.extole.com
     * calstate-aaa.extole.com
     * carbonite-ssl.extole.com
+    * centier.extole.com
     * checkngo.extole.com
     * chubbies.extole.com
     * clarionledger.extole.com
     * clearme-ssl.extole.com
     * compexusa.extole.com
     * criquetshirts.extole.com
+    * crystallight-ssl.extole.com
     * d.extole.com
     * discover.extole.com
     * divvybikes.extole.com
@@ -269,9 +271,11 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
+    * gxvebeauty.extole.io
     * hair.extole.io
     * hanacure.extole.io
     * harley.extole.io
@@ -315,6 +319,7 @@
     * lark-health.extole.io
     * lasenza.extole.io
     * last-stitch.extole.io
+    * lastcall.extole.io
     * laura-mercier.extole.io
     * layla-sleep.extole.io
     * lending-club.extole.io
@@ -397,6 +402,7 @@
     * robertmondaviwinery.extole.io
     * rockport.extole.io
     * rodo.extole.io
+    * roots.extole.io
     * ross-simons.extole.io
     * rvshare.extole.io
     * saatvamattress.extole.io
@@ -522,6 +528,7 @@
 | share.ahs.com | ahs-proconnect.extole.io |
 | refer.ahsfriends.com | ahs.extole.com |
 | refer.algaecal.com | algaecal.extole.io |
+| share.algaecal.com | algaecal.extole.io |
 | share.alltrucu.org | alltrucu.extole.io |
 | share.alphaindustries.com | alphaindustries.extole.io |
 | refer.awscloud.com | amazon-web-services.extole.io |
@@ -608,6 +615,7 @@
 | refer.catfootwear.com | catfootwear.extole.io |
 | share.cefaly.com | cefaly.extole.io |
 | share.cellcom.ca | cellcom.extole.io |
+| www.refercentier.com | centier.extole.com |
 | refer.centier.com | centier.extole.io |
 | refer.chacos.com | chacos.extole.io |
 | share.myq.com | chamberlain.extole.io |
@@ -640,6 +648,7 @@
 | share.creditninja.com | creditninja.extole.io |
 | refer.criquetshirts.com | criquetshirts.extole.com |
 | refer.crocs.com | crocs.extole.io |
+| refer.crystallight.com | crystallight-ssl.extole.com |
 | refer-photo.cvs.com | cvs.extole.io |
 | share.cwbank.com | cwbank.extole.io |
 | ilove.volusion.com | d.extole.com |
@@ -700,6 +709,7 @@
 | share.galagala.com | galagala.extole.io |
 | share.app.com | gannett.extole.io |
 | share.azcentral.com | gannett.extole.io |
+| share.battlecreekenquirer.com | gannett.extole.io |
 | share.caller.com | gannett.extole.io |
 | share.commercialappeal.com | gannett.extole.io |
 | share.courierpostonline.com | gannett.extole.io |
@@ -746,6 +756,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -754,6 +765,7 @@
 | share.greenlight.com | greenlightcard.extole.io |
 | share.greenlightcard.com | greenlightcard.extole.io |
 | refer.greenvilleonline.com | greenvilleonline.extole.com |
+| share.gxvebeauty.com | gxvebeauty.extole.io |
 | refer.hair.com | hair.extole.io |
 | share.hanacure.com | hanacure.extole.io |
 | refer.hannaandersson.com | hannaandersson.extole.com |
@@ -817,6 +829,7 @@
 | refer.lasenza.ca | lasenza.extole.io |
 | refer.lasenza.com | lasenza.extole.io |
 | refer.last-stitch.com | last-stitch.extole.io |
+| refer.lastcall.com | lastcall.extole.io |
 | refer.lauramercier.com | laura-mercier.extole.io |
 | refer.laylasleep.com | layla-sleep.extole.io |
 | refer.leadmd.com | leadmd.extole.com |
@@ -908,6 +921,7 @@
 | refer.prokeds.com | prokeds.extole.io |
 | share.docmorris.fr | promofarma.extole.io |
 | share.promofarma.com | promofarma.extole.io |
+| refer.jiffynewark.com | propark.extole.io |
 | refer.pvdparking.com | propark.extole.io |
 | refer.psecu.com | psecu.extole.io |
 | refer.purchasingpower.com | purchasingpower.extole.com |
@@ -936,6 +950,7 @@
 | share.robertmondaviwinery.com | robertmondaviwinery.extole.io |
 | refer.rockport.com | rockport.extole.io |
 | refer.rodo.com | rodo.extole.io |
+| share.roots.com | roots.extole.io |
 | share.ross-simons.com | ross-simons.extole.io |
 | share.rspure.com | ross-simons.extole.io |
 | share.rvshare.com | rvshare.extole.io |

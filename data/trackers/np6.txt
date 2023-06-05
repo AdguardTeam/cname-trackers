@@ -52,6 +52,7 @@
 ||tr.asp106d.espmp-cufr.net^
 ||tr.asp106g.espmp-nifr.net^
 ||tr.asp1098.espmp-cufr.net^
+||tr.asp10ai.espmp-nifr.net^
 ||tr.asp10ar.espmp-cufr.net^
 ||tr.asp10bs.espmp-aufr.net^
 ||tr.asp10c8.espmp-agfr.net^
@@ -61,6 +62,7 @@
 ||tr.asp10dx.espmp-nifr.net^
 ||tr.asp10ea.espmp-nifr.net^
 ||tr.asp10fa.espmp-cufr.net^
+||tr.asp10fp.espmp-nifr.net^
 ||tr.asp10ge.espmp-nifr.net^
 ||tr.asp10h2.espmp-nifr.net^
 ||tr.asp10hc.espmp-aufr.net^
@@ -239,6 +241,7 @@
 ||tr.discover.perfectstay.com^
 ||tr.djay.espmp-agfr.net^
 ||tr.docapost-sirs.com^
+||tr.dogstrust.org.uk^
 ||tr.donateur.afm-telethon.fr^
 ||tr.dossier-assurance.maaf.fr^
 ||tr.drh-holding.lvmh.fr^
@@ -269,6 +272,7 @@
 ||tr.email.investissement-residence-service.fr^
 ||tr.email.janedeboy.com^
 ||tr.email.land-rover-experience.fr^
+||tr.email.landrover-approved.fr^
 ||tr.email.maisonfoody.com^
 ||tr.email.medicalexpo.com^
 ||tr.email.mnpaf.fr^
@@ -426,6 +430,7 @@
 ||tr.information.lacollection-airfrance.be^
 ||tr.information.lacollection-airfrance.fr^
 ||tr.information.perfectstay.com^
+||tr.information.smartdeals-transavia-fr.com^
 ||tr.information.thelist-emirates.fr^
 ||tr.informations.harmonie-mutuelle.fr^
 ||tr.informations.lcl.fr^
@@ -624,6 +629,7 @@
 ||tr.news.jautomatise.com^
 ||tr.news.kalivet.com^
 ||tr.news.kpmg-avocats.fr^
+||tr.news.kpmg.fr^
 ||tr.news.kpmgacademy.fr^
 ||tr.news.kpmgnet.fr^
 ||tr.news.kuhn.com^
@@ -647,6 +653,7 @@
 ||tr.news.lexpress.fr^
 ||tr.news.linxea.com^
 ||tr.news.lisez.com^
+||tr.news.lokapimail.com^
 ||tr.news.maisonfoody.com^
 ||tr.news.maisons-du-monde.com^
 ||tr.news.manufacturing.fr^
@@ -737,6 +744,7 @@
 ||tr.nl.2wls.net^
 ||tr.nl.ardennes.cci.fr^
 ||tr.nl.mondo-shop.fr^
+||tr.nl.myvipmag.fr^
 ||tr.nl.services-sncf.com^
 ||tr.nl2.sncf-fidelite.com^
 ||tr.nmcm.espmp-cufr.net^
@@ -863,6 +871,7 @@
 ||tr.sfr.espmp-aufr.net^
 ||tr.sgjk.espmp-aufr.net^
 ||tr.silvera-contact.fr^
+||tr.skin.espmp-agfr.net^
 ||tr.smtp1.email-mediapost.fr^
 ||tr.solendi.com^
 ||tr.solution.uneo.fr^
@@ -938,6 +947,7 @@
 ||tr1.mperf.com^
 ||tr1.psa-surveys.com^
 ||tr5.mailperf.com^
+||tr6.mperf.com^
 ||tracking.allopneus.com^
 ||www.newsletter.banquepopulaire.fr^
 ||www.np6.eu^

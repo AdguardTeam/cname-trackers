@@ -528,6 +528,7 @@ pf.intuit.com CNAME .
 phyon.communipay.net CNAME .
 phyon.visit-x.net CNAME .
 piafapp.poste.it CNAME .
+pic.bankonline.ge CNAME .
 plr.scb-payments.net CNAME .
 pn1927.adambank.com CNAME .
 pn1927.coutts.com CNAME .
@@ -650,6 +651,7 @@ t.banking.blucurrent.org CNAME .
 t.banking.njfcu.org CNAME .
 t.demo.lumindigital.com CNAME .
 t.digital.communityfirstcu.org CNAME .
+t.digitalbanking.credithuman.com CNAME .
 t.digitalbanking.langleyfcu.org CNAME .
 t.digitalbanking.tronavalley.com CNAME .
 t.digitalbanking.uoficreditunion.org CNAME .

@@ -32,6 +32,7 @@
     * tk-lcl-fr.wizaly.com
     * tk-little-big-change-com.wizaly.com
     * tk-lulli-sur-la-toile-com.wizaly.com
+    * tk-m6boutique-com.wizaly.com
     * tk-maison123-com.wizaly.com
     * tk-moveyourfit-com.wizaly.com
     * tk-nhlottery-com.wizaly.com
@@ -44,6 +45,7 @@
     * tk-sncf.wizaly.com
     * tk-speedway-fr.wizaly.com
     * tk-svsound-com.wizaly.com
+    * tk-teleshopping-fr.wizaly.com
     * tk-tikamoon-com.wizaly.com
     * tk-ultrapremiumdirect-com.wizaly.com
     * tk-undiz-com.wizaly.com
@@ -103,6 +105,7 @@
 | tk.lcl.fr | tk-lcl-fr.wizaly.com |
 | tk.little-big-change.com | tk-little-big-change-com.wizaly.com |
 | tk.lulli-sur-la-toile.com | tk-lulli-sur-la-toile-com.wizaly.com |
+| tk.m6boutique.com | tk-m6boutique-com.wizaly.com |
 | tk.maison123.com | tk-maison123-com.wizaly.com |
 | tk.moveyourfit.com | tk-moveyourfit-com.wizaly.com |
 | tk.nhlottery.com | tk-nhlottery-com.wizaly.com |
@@ -120,6 +123,7 @@
 | wiz.sncf-connect.com | tk-sncf.wizaly.com |
 | tk.speedway.fr | tk-speedway-fr.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |
+| tk.teleshopping.fr | tk-teleshopping-fr.wizaly.com |
 | tk.tikamoon.co.uk | tk-tikamoon-com.wizaly.com |
 | tk.tikamoon.com | tk-tikamoon-com.wizaly.com |
 | tk.tikamoon.de | tk-tikamoon-com.wizaly.com |
@@ -151,7 +155,6 @@
 | tk.airfrance.dk | tkairfrance.wizaly.com |
 | tk.airfrance.fi | tkairfrance.wizaly.com |
 | tk.airfrance.fr | tkairfrance.wizaly.com |
-| tk.airfrance.ga | tkairfrance.wizaly.com |
 | tk.airfrance.gf | tkairfrance.wizaly.com |
 | tk.airfrance.gr | tkairfrance.wizaly.com |
 | tk.airfrance.hr | tkairfrance.wizaly.com |

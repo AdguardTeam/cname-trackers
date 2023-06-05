@@ -7,6 +7,7 @@ image.kfw-formularsammlung.de CNAME .
 image.kfw-ipex-bank.de CNAME .
 image.kfw.de CNAME .
 images1.test.de CNAME .
+img.buch.ch CNAME .
 inhalt.bild.de CNAME .
 mon.ingservices.nl CNAME .
 now.peek-cloppenburg.de CNAME .
@@ -103,6 +104,7 @@ di.ifolor.ie CNAME .
 di.ifolor.it CNAME .
 di.ifolor.lu CNAME .
 di.ifolor.net CNAME .
+di.ifolor.se CNAME .
 di.spreadmorelove.ch CNAME .
 dnsbl.test.wbtrkk.teufel.de CNAME .
 ed.emp-online.ch CNAME .
@@ -132,6 +134,7 @@ hbbtv-track.prosieben.de CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
 img.foodspring.at CNAME .
 img.foodspring.ch CNAME .
+img.foodspring.co.uk CNAME .
 img.foodspring.cz CNAME .
 img.foodspring.de CNAME .
 img.foodspring.dk CNAME .
@@ -141,6 +144,7 @@ img.foodspring.fr CNAME .
 img.foodspring.hr CNAME .
 img.foodspring.it CNAME .
 img.foodspring.se CNAME .
+info.klett-sprachen.de CNAME .
 intelligence.officialwesthamstore.com CNAME .
 is.lg.com CNAME .
 lax.data.srf.ch CNAME .

@@ -16,6 +16,7 @@
 ||k.laredoute.es^
 ||k.laredoute.pt^
 ||k.laredoute.ru^
+||k.laredoute.se^
 ||k.voyageursdumonde.be^
 ||k.voyageursdumonde.ca^
 ||k.voyageursdumonde.ch^

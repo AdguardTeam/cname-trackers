@@ -6,6 +6,7 @@
     * adac02.webtrekk.net
     * augsburgerallgemeine01.webtrekk.net
     * bild01.webtrekk.net
+    * buchch02.webtrekk.net
     * cbm02.webtrekk.net
     * cosmos01ssl.webtrekk.net
     * distrelec-02.webtrekk.net
@@ -121,6 +122,7 @@
     * 676623818960096.wt-eu02.net
     * 693380235006292.wt-eu02.net
     * 697968943875320.wt-eu02.net
+    * 709031981525642.wt-eu02.net
     * 709114798683263.wt-eu02.net
     * 724547646438858.wt-eu02.net
     * 728252369996325.wt-eu02.net
@@ -331,6 +333,7 @@
 | web.pages.lloydspharmacy.com | 676623818960096.wt-eu02.net |
 | web.news.dixiefashion.com | 693380235006292.wt-eu02.net |
 | mit.dslbank.de | 697968943875320.wt-eu02.net |
+| info.klett-sprachen.de | 709031981525642.wt-eu02.net |
 | web.info.bonprix.es | 709114798683263.wt-eu02.net |
 | web.campaign.miriade.com | 724547646438858.wt-eu02.net |
 | data.campaign.toyscenter.it | 728252369996325.wt-eu02.net |
@@ -384,6 +387,7 @@
 | inhalt.bild.de | bild01.webtrekk.net |
 | spr.bild.de | bild01.webtrekk.net |
 | trk.blume2000.de | blume2000.wt-eu02.net |
+| img.buch.ch | buchch02.webtrekk.net |
 | text.mitarbeiterangebote.de | cbm02.webtrekk.net |
 | text.benefitsatwork.be | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.ch | corporate-benefits.wt-eu02.net |
@@ -411,6 +415,7 @@
 | di.ifolor.it | di.ifolor.wt-eu02.net |
 | di.ifolor.lu | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
+| di.ifolor.se | di.ifolor.wt-eu02.net |
 | di.spreadmorelove.ch | di.ifolor.wt-eu02.net |
 | wt.distrelec.com | distrelec-02.webtrekk.net |
 | pix.eads.com | eads-com01.webtrekk.net |
@@ -456,6 +461,7 @@
 | app03.ikk-classic.de | ikk-classic-app03.wt-eu02.net |
 | img.foodspring.at | img-foodspring01.wt-eu02.net |
 | img.foodspring.ch | img-foodspring01.wt-eu02.net |
+| img.foodspring.co.uk | img-foodspring01.wt-eu02.net |
 | img.foodspring.cz | img-foodspring01.wt-eu02.net |
 | img.foodspring.de | img-foodspring01.wt-eu02.net |
 | img.foodspring.dk | img-foodspring01.wt-eu02.net |

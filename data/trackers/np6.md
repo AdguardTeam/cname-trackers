@@ -71,6 +71,7 @@
 | tr.asp106d.espmp-cufr.net | tracking.bp01.net |
 | tr.asp106g.espmp-nifr.net | tracking.bp01.net |
 | tr.asp1098.espmp-cufr.net | tracking.bp01.net |
+| tr.asp10ai.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ar.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10bs.espmp-aufr.net | tracking.bp01.net |
 | tr.asp10c8.espmp-agfr.net | tracking.bp01.net |
@@ -80,6 +81,7 @@
 | tr.asp10dx.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ea.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10fa.espmp-cufr.net | tracking.bp01.net |
+| tr.asp10fp.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ge.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10h2.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10hc.espmp-aufr.net | tracking.bp01.net |
@@ -258,6 +260,7 @@
 | tr.discover.perfectstay.com | tracking.bp01.net |
 | tr.djay.espmp-agfr.net | tracking.bp01.net |
 | tr.docapost-sirs.com | tracking.bp01.net |
+| tr.dogstrust.org.uk | tracking.bp01.net |
 | tr.donateur.afm-telethon.fr | tracking.bp01.net |
 | tr.dossier-assurance.maaf.fr | tracking.bp01.net |
 | tr.drh-holding.lvmh.fr | tracking.bp01.net |
@@ -288,6 +291,7 @@
 | tr.email.investissement-residence-service.fr | tracking.bp01.net |
 | tr.email.janedeboy.com | tracking.bp01.net |
 | tr.email.land-rover-experience.fr | tracking.bp01.net |
+| tr.email.landrover-approved.fr | tracking.bp01.net |
 | tr.email.maisonfoody.com | tracking.bp01.net |
 | tr.email.medicalexpo.com | tracking.bp01.net |
 | tr.email.mnpaf.fr | tracking.bp01.net |
@@ -445,6 +449,7 @@
 | tr.information.lacollection-airfrance.be | tracking.bp01.net |
 | tr.information.lacollection-airfrance.fr | tracking.bp01.net |
 | tr.information.perfectstay.com | tracking.bp01.net |
+| tr.information.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.information.thelist-emirates.fr | tracking.bp01.net |
 | tr.informations.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.informations.lcl.fr | tracking.bp01.net |
@@ -643,6 +648,7 @@
 | tr.news.jautomatise.com | tracking.bp01.net |
 | tr.news.kalivet.com | tracking.bp01.net |
 | tr.news.kpmg-avocats.fr | tracking.bp01.net |
+| tr.news.kpmg.fr | tracking.bp01.net |
 | tr.news.kpmgacademy.fr | tracking.bp01.net |
 | tr.news.kpmgnet.fr | tracking.bp01.net |
 | tr.news.kuhn.com | tracking.bp01.net |
@@ -666,6 +672,7 @@
 | tr.news.lexpress.fr | tracking.bp01.net |
 | tr.news.linxea.com | tracking.bp01.net |
 | tr.news.lisez.com | tracking.bp01.net |
+| tr.news.lokapimail.com | tracking.bp01.net |
 | tr.news.maisonfoody.com | tracking.bp01.net |
 | tr.news.maisons-du-monde.com | tracking.bp01.net |
 | tr.news.manufacturing.fr | tracking.bp01.net |
@@ -756,6 +763,7 @@
 | tr.nl.2wls.net | tracking.bp01.net |
 | tr.nl.ardennes.cci.fr | tracking.bp01.net |
 | tr.nl.mondo-shop.fr | tracking.bp01.net |
+| tr.nl.myvipmag.fr | tracking.bp01.net |
 | tr.nl.services-sncf.com | tracking.bp01.net |
 | tr.nl2.sncf-fidelite.com | tracking.bp01.net |
 | tr.nmcm.espmp-cufr.net | tracking.bp01.net |
@@ -882,6 +890,7 @@
 | tr.sfr.espmp-aufr.net | tracking.bp01.net |
 | tr.sgjk.espmp-aufr.net | tracking.bp01.net |
 | tr.silvera-contact.fr | tracking.bp01.net |
+| tr.skin.espmp-agfr.net | tracking.bp01.net |
 | tr.smtp1.email-mediapost.fr | tracking.bp01.net |
 | tr.solendi.com | tracking.bp01.net |
 | tr.solution.uneo.fr | tracking.bp01.net |
@@ -957,6 +966,7 @@
 | tr1.mperf.com | tracking.bp01.net |
 | tr1.psa-surveys.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
+| tr6.mperf.com | tracking.bp01.net |
 | tracking.allopneus.com | tracking.bp01.net |
 | www.newsletter.banquepopulaire.fr | tracking.bp01.net |
 | www.np6.eu | tracking.bp01.net |

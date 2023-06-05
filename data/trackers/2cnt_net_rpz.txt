@@ -32,6 +32,7 @@ aktivtraening.tns-gallup.dk CNAME .
 alt.tns-gallup.dk CNAME .
 altinget.tns-gallup.dk CNAME .
 altomboern.tns-gallup.dk CNAME .
+altomhistorie.tns-gallup.dk CNAME .
 amica.met.vgwort.de CNAME .
 beck.met.vgwort.de CNAME .
 berliner-kurier.met.vgwort.de CNAME .
@@ -140,6 +141,7 @@ dbstruer-eavis.tns-gallup.dk CNAME .
 dgs.tns-gallup.dk CNAME .
 dmi.tns-gallup.dk CNAME .
 dplayiosstream.tns-gallup.dk CNAME .
+ssl-boxerandroidstream.tns-gallup.dk CNAME .
 ssl-drtvosstream.tns-gallup.dk CNAME .
 ssl-glentenandroidstream.tns-gallup.dk CNAME .
 ssl-viaplaystream.tns-gallup.dk CNAME .
@@ -169,6 +171,7 @@ euroman.tns-gallup.dk CNAME .
 femina.tns-gallup.dk CNAME .
 finans.tns-gallup.dk CNAME .
 finanswatch.tns-gallup.dk CNAME .
+fodevarewatch.tns-gallup.dk CNAME .
 folketidende.tns-gallup.dk CNAME .
 fyens.tns-gallup.dk CNAME .
 gaffa.tns-gallup.dk CNAME .
@@ -194,6 +197,7 @@ kristeligtdagblad.tns-gallup.dk CNAME .
 kundeunivers.tns-gallup.dk CNAME .
 lokalavisen.tns-gallup.dk CNAME .
 magacin.tns-gallup.dk CNAME .
+magasingave.tns-gallup.dk CNAME .
 mainlifestyle.tns-gallup.dk CNAME .
 mariesideer.tns-gallup.dk CNAME .
 mediawatch.tns-gallup.dk CNAME .
@@ -306,6 +310,7 @@ ssl-magacin.tns-gallup.dk CNAME .
 ssl-magasinetliv.tns-gallup.dk CNAME .
 ssl-mainlifestyle.tns-gallup.dk CNAME .
 ssl-mandagmorgen.tns-gallup.dk CNAME .
+ssl-markedsforing.tns-gallup.dk CNAME .
 ssl-mediajob.tns-gallup.dk CNAME .
 ssl-minby.tns-gallup.dk CNAME .
 ssl-mja.tns-gallup.dk CNAME .
@@ -357,6 +362,7 @@ tv3.tns-gallup.dk CNAME .
 tv3play.tns-gallup.dk CNAME .
 ugeavisen.tns-gallup.dk CNAME .
 vafo.tns-gallup.dk CNAME .
+vendelbop.tns-gallup.dk CNAME .
 viborgfolkeblad.tns-gallup.dk CNAME .
 videnskab.tns-gallup.dk CNAME .
 viunge.tns-gallup.dk CNAME .

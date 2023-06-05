@@ -52,6 +52,7 @@ tr.asp104p.espmp-aufr.net CNAME .
 tr.asp106d.espmp-cufr.net CNAME .
 tr.asp106g.espmp-nifr.net CNAME .
 tr.asp1098.espmp-cufr.net CNAME .
+tr.asp10ai.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
 tr.asp10c8.espmp-agfr.net CNAME .
@@ -61,6 +62,7 @@ tr.asp10cr.espmp-nifr.net CNAME .
 tr.asp10dx.espmp-nifr.net CNAME .
 tr.asp10ea.espmp-nifr.net CNAME .
 tr.asp10fa.espmp-cufr.net CNAME .
+tr.asp10fp.espmp-nifr.net CNAME .
 tr.asp10ge.espmp-nifr.net CNAME .
 tr.asp10h2.espmp-nifr.net CNAME .
 tr.asp10hc.espmp-aufr.net CNAME .
@@ -239,6 +241,7 @@ tr.dirigeants.harmonie-mutuelle.fr CNAME .
 tr.discover.perfectstay.com CNAME .
 tr.djay.espmp-agfr.net CNAME .
 tr.docapost-sirs.com CNAME .
+tr.dogstrust.org.uk CNAME .
 tr.donateur.afm-telethon.fr CNAME .
 tr.dossier-assurance.maaf.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
@@ -269,6 +272,7 @@ tr.email.infocredit.orangebank.fr CNAME .
 tr.email.investissement-residence-service.fr CNAME .
 tr.email.janedeboy.com CNAME .
 tr.email.land-rover-experience.fr CNAME .
+tr.email.landrover-approved.fr CNAME .
 tr.email.maisonfoody.com CNAME .
 tr.email.medicalexpo.com CNAME .
 tr.email.mnpaf.fr CNAME .
@@ -426,6 +430,7 @@ tr.information.fidalformations.fr CNAME .
 tr.information.lacollection-airfrance.be CNAME .
 tr.information.lacollection-airfrance.fr CNAME .
 tr.information.perfectstay.com CNAME .
+tr.information.smartdeals-transavia-fr.com CNAME .
 tr.information.thelist-emirates.fr CNAME .
 tr.informations.harmonie-mutuelle.fr CNAME .
 tr.informations.lcl.fr CNAME .
@@ -624,6 +629,7 @@ tr.news.itancia.com CNAME .
 tr.news.jautomatise.com CNAME .
 tr.news.kalivet.com CNAME .
 tr.news.kpmg-avocats.fr CNAME .
+tr.news.kpmg.fr CNAME .
 tr.news.kpmgacademy.fr CNAME .
 tr.news.kpmgnet.fr CNAME .
 tr.news.kuhn.com CNAME .
@@ -647,6 +653,7 @@ tr.news.lexpansion.lexpress.fr CNAME .
 tr.news.lexpress.fr CNAME .
 tr.news.linxea.com CNAME .
 tr.news.lisez.com CNAME .
+tr.news.lokapimail.com CNAME .
 tr.news.maisonfoody.com CNAME .
 tr.news.maisons-du-monde.com CNAME .
 tr.news.manufacturing.fr CNAME .
@@ -737,6 +744,7 @@ tr.newsmarketing.allopneus.com CNAME .
 tr.nl.2wls.net CNAME .
 tr.nl.ardennes.cci.fr CNAME .
 tr.nl.mondo-shop.fr CNAME .
+tr.nl.myvipmag.fr CNAME .
 tr.nl.services-sncf.com CNAME .
 tr.nl2.sncf-fidelite.com CNAME .
 tr.nmcm.espmp-cufr.net CNAME .
@@ -863,6 +871,7 @@ tr.servicoaocliente.younited-credit.com CNAME .
 tr.sfr.espmp-aufr.net CNAME .
 tr.sgjk.espmp-aufr.net CNAME .
 tr.silvera-contact.fr CNAME .
+tr.skin.espmp-agfr.net CNAME .
 tr.smtp1.email-mediapost.fr CNAME .
 tr.solendi.com CNAME .
 tr.solution.uneo.fr CNAME .
@@ -938,6 +947,7 @@ tr1.mailperformance.com CNAME .
 tr1.mperf.com CNAME .
 tr1.psa-surveys.com CNAME .
 tr5.mailperf.com CNAME .
+tr6.mperf.com CNAME .
 tracking.allopneus.com CNAME .
 www.newsletter.banquepopulaire.fr CNAME .
 www.np6.eu CNAME .

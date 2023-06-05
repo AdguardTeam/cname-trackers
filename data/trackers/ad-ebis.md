@@ -248,6 +248,7 @@
     * cf63c23c-ra2ftqzp.cname.ebis.ne.jp
     * d068b8a4-vcbmd5na.cname.ebis.ne.jp
     * d0e14f0d-2tksbumw.cname.ebis.ne.jp
+    * d1377022-day5axk4.cname.ebis.ne.jp
     * d15d1b36-j5hap6dz.cname.ebis.ne.jp
     * d1e4432d-tbf9k4fs.cname.ebis.ne.jp
     * d473741d-bagmsfc6.cname.ebis.ne.jp
@@ -538,6 +539,7 @@
 | ade.hirose-fx.co.jp | cf63c23c-ra2ftqzp.cname.ebis.ne.jp |
 | ebis.delis.co.jp | d068b8a4-vcbmd5na.cname.ebis.ne.jp |
 | cname.mitsuihome.co.jp | d0e14f0d-2tksbumw.cname.ebis.ne.jp |
+| ebis.palclair.jp | d1377022-day5axk4.cname.ebis.ne.jp |
 | ebis.sunstar-shop.jp | d15d1b36-j5hap6dz.cname.ebis.ne.jp |
 | adebis.kaonavi.jp | d1e4432d-tbf9k4fs.cname.ebis.ne.jp |
 | adebis.real-style.co.jp | d473741d-bagmsfc6.cname.ebis.ne.jp |

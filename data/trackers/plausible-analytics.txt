@@ -41,6 +41,7 @@
 ||analytics.lunge.de^
 ||analytics.mambaui.com^
 ||analytics.martin-fieber.de^
+||analytics.mattmcadams.com^
 ||analytics.mc500.info^
 ||analytics.mhpod.gov.au^
 ||analytics.mycater.fr^
@@ -222,6 +223,7 @@
 ||plausible.app.tlschedule.com^
 ||plausible.as207960.net^
 ||plausible.bablab.com^
+||plausible.bacanalia.net^
 ||plausible.banovo.de^
 ||plausible.baychi.org^
 ||plausible.beanti.me^
@@ -277,7 +279,6 @@
 ||plausible.nubemia.com^
 ||plausible.nuqu.org^
 ||plausible.panic.com^
-||plausible.phuctm97.com^
 ||plausible.play.date^
 ||plausible.promlens.com^
 ||plausible.prufit.co^
@@ -371,6 +372,7 @@
 ||st.anastasija.lt^
 ||st.picshuffle.com^
 ||st.preciousamber.com^
+||st.sheebamagazine.com^
 ||st.tulastudio.se^
 ||starman.floorcleanse.co.uk^
 ||stat.bill.harding.blog^
@@ -732,6 +734,7 @@
 ||stats.madeit.io^
 ||stats.madethis.gallery^
 ||stats.maferland.com^
+||stats.magarantie5ans.fr^
 ||stats.makerr.market^
 ||stats.makingknown.xyz^
 ||stats.malte-bartels.de^
@@ -751,11 +754,13 @@
 ||stats.nddmed.com^
 ||stats.nexagon.dk^
 ||stats.nicolabricot.com^
+||stats.nicolaskempf.fr^
 ||stats.nodewood.com^
 ||stats.nomad.radio^
 ||stats.nothingbutnylon.com^
 ||stats.nullsecure.com^
 ||stats.nytecomics.com^
+||stats.obscura-magazine.com^
 ||stats.odysseeseine.org^
 ||stats.officefoosball.com^
 ||stats.offthekerb.com^
@@ -856,6 +861,7 @@
 ||stats.shepherd.com^
 ||stats.shiftx.com^
 ||stats.sirdata.com^
+||stats.sixseven.at^
 ||stats.slicedthread.com^
 ||stats.socialeurope.eu^
 ||stats.sommselect.com^
@@ -906,6 +912,7 @@
 ||stats.westswindon-pc.gov.uk^
 ||stats.whenpigsflybbq.com^
 ||stats.whereisit5pmrightnow.com^
+||stats.wisebox.co^
 ||stats.world.hey.com^
 ||stats.wvs.org.uk^
 ||stats.wvsindia.org^
@@ -919,13 +926,14 @@
 ||stats.zimri.net^
 ||sts.authramp.com^
 ||sts.tour-europe.org^
+||t.lastcast.fm^
 ||thumos.fileside.app^
 ||tics.seeker.gg^
 ||tipstats.onepagelove.com^
 ||tock.weg.plus^
 ||track.slickinbox.com^
-||traffic.hostedstatus.page^
 ||traffic.taktikal.is^
+||tree.indot.nl^
 ||triton.companyegg.com^
 ||views.sikerproducts.com^
 ||visitorcenter.srwild.com^

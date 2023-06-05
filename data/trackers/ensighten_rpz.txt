@@ -45,6 +45,7 @@ activate.tacdn.com CNAME .
 activate.tidewaterreview.com CNAME .
 activate.tronc.com CNAME .
 activate.united.com CNAME .
+activate.vivelohoy.com CNAME .
 activate1.fidelity.com CNAME .
 agility.cartoonnetwork.com CNAME .
 agility.citizensbank.com CNAME .
@@ -108,6 +109,7 @@ cm.quest.com CNAME .
 cmp.audi.be CNAME .
 cmp.cupra.be CNAME .
 cmp.dieteren.be CNAME .
+cmp.dieterengroup.com CNAME .
 cmp.myway.be CNAME .
 cmp.porsche.be CNAME .
 cmp.seat.be CNAME .
@@ -123,6 +125,7 @@ cookies.jll.ca CNAME .
 cookies.jll.ch CNAME .
 cookies.jll.cl CNAME .
 cookies.jll.co.id CNAME .
+cookies.jll.co.il CNAME .
 cookies.jll.co.in CNAME .
 cookies.jll.co.kr CNAME .
 cookies.jll.co.uk CNAME .
@@ -153,6 +156,7 @@ cookies.jll.pl CNAME .
 cookies.jll.pt CNAME .
 cookies.jll.ru CNAME .
 cookies.jll.sk CNAME .
+cookies.jllsweden.se CNAME .
 cookies.joneslanglasalle.co.jp CNAME .
 cookies.joneslanglasalle.com.cn CNAME .
 cookies.joneslanglasalle.com.vn CNAME .

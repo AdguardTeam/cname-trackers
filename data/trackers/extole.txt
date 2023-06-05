@@ -32,6 +32,7 @@
 ||refer.clearme.com^
 ||refer.compexusa.com^
 ||refer.criquetshirts.com^
+||refer.crystallight.com^
 ||refer.discover.com^
 ||refer.divvybikes.com^
 ||refer.dna.ancestry.co.uk^
@@ -111,10 +112,12 @@
 ||sharethelove.teacollection.com^
 ||tellapal.register.com^
 ||tellapal.web.com^
+||www.refercentier.com^
 ||www.trevoce.com^
 ||amp.bfr.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
+||em8561.go2bank.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -237,6 +240,7 @@
 ||refer.itbed.com^
 ||refer.itcosmetics.com^
 ||refer.jewelersmutual.com^
+||refer.jiffynewark.com^
 ||refer.joann.com^
 ||refer.join1440.com^
 ||refer.jonesservices.com^
@@ -251,6 +255,7 @@
 ||refer.lasenza.ca^
 ||refer.lasenza.com^
 ||refer.last-stitch.com^
+||refer.lastcall.com^
 ||refer.lauramercier.com^
 ||refer.laylasleep.com^
 ||refer.lendingclub.com^
@@ -375,6 +380,7 @@
 ||share.advanceamerica.net^
 ||share.affinityfcu.org^
 ||share.ahs.com^
+||share.algaecal.com^
 ||share.alltrucu.org^
 ||share.alphaindustries.com^
 ||share.anatomie.com^
@@ -386,6 +392,7 @@
 ||share.atlasbars.com^
 ||share.aveda.com.au^
 ||share.azcentral.com^
+||share.battlecreekenquirer.com^
 ||share.beaspermdonor.com^
 ||share.biblejourney.com^
 ||share.bncollege.com^
@@ -450,6 +457,7 @@
 ||share.go2bank.com^
 ||share.greenlight.com^
 ||share.greenlightcard.com^
+||share.gxvebeauty.com^
 ||share.hanacure.com^
 ||share.hicapitalize.com^
 ||share.hotwire.com^
@@ -520,6 +528,7 @@
 ||share.rgj.com^
 ||share.riograndecu.org^
 ||share.robertmondaviwinery.com^
+||share.roots.com^
 ||share.ross-simons.com^
 ||share.rspure.com^
 ||share.rvshare.com^
@@ -573,5 +582,4 @@
 ||share.zenbusiness.com^
 ||www.referquickbooks.com^
 ||em1476.princesscruises.com^
-||em8561.go2bank.com^
 ||sftp.extole.com^

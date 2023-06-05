@@ -52,6 +52,7 @@
 ||a8.cucua.fun^
 ||a8.cyclemarket.jp^
 ||a8.cypris-online.jp^
+||a8.daredemomobile.com^
 ||a8.de-limmo.jp^
 ||a8.degicashop.com^
 ||a8.denki-koji.work^
@@ -60,6 +61,7 @@
 ||a8.denwa-kanyuken.com^
 ||a8.dolcibolle.com^
 ||a8.dymtech.jp^
+||a8.earthwater-cayenne.com^
 ||a8.efax.co.jp^
 ||a8.elife.clinic^
 ||a8.emeao.jp^
@@ -128,6 +130,7 @@
 ||a8.lens-labo.com^
 ||a8.lens-ocean.com^
 ||a8.looop-denki.com^
+||a8.lwa-coating.com^
 ||a8.machino-housecleaning.com^
 ||a8.makeshop.jp^
 ||a8.mamaworks.jp^
@@ -187,6 +190,7 @@
 ||a8.sara-uv.com^
 ||a8.sawadamarche.com^
 ||a8.seifu-ac.jp^
+||a8.seminarshelf.com^
 ||a8.sennendo.jp^
 ||a8.sharefull.com^
 ||a8.shikaketegami.com^
@@ -201,7 +205,6 @@
 ||a8.shop.tsukijiwadatsumi.com^
 ||a8.shopserve.jp^
 ||a8.simple-hoiku.com^
-||a8.skill-crowd.com^
 ||a8.smp.shanon.co.jp^
 ||a8.snapmaker.jp^
 ||a8.soelu.com^
@@ -217,6 +220,8 @@
 ||a8.sumilena.co.jp^
 ||a8.tailorenglish.jp^
 ||a8.tapp-co.jp^
+||a8.tea-lab.co.jp^
+||a8.tech-base.net^
 ||a8.tecpartners.jp^
 ||a8.teddyworks.co.jp^
 ||a8.the-session.jp^
@@ -479,6 +484,7 @@
 ||a8clk.stylestore.jp^
 ||a8clk.sumafuri.jp^
 ||a8clk.support-hoiku.com^
+||a8clk.supreme-noi.jp^
 ||a8clk.sure-i.co.jp^
 ||a8clk.t-fic.co.jp^
 ||a8clk.takken-job.com^
@@ -502,6 +508,7 @@
 ||a8clk.wi-ho.net^
 ||a8clk.works.sagooo.com^
 ||a8clk.world-family.co.jp^
+||a8clk.wpx.ne.jp^
 ||a8clk.www.access-jp.jp^
 ||a8clk.www.autoway.jp^
 ||a8clk.www.big-m-one.com^
@@ -513,6 +520,7 @@
 ||a8clk.www.e87.com^
 ||a8clk.www.gaihekitosou-partners.jp^
 ||a8clk.www.green-dog.com^
+||a8clk.www.italki.com^
 ||a8clk.www.jaf.or.jp^
 ||a8clk.www.just-size.net^
 ||a8clk.www.ka-nabell.com^
@@ -583,6 +591,7 @@
 ||a8cv.busbookmark.jp^
 ||a8cv.ca-rent.jp^
 ||a8cv.cacom.jp^
+||a8cv.calotore.com^
 ||a8cv.career.medpeer.jp^
 ||a8cv.careerpark-agent.jp^
 ||a8cv.carryonmall.com^
@@ -597,6 +606,7 @@
 ||a8cv.clickjob.jp^
 ||a8cv.cloud-wi-fi.jp^
 ||a8cv.coco-gourmet.com^
+||a8cv.codmon.com^
 ||a8cv.control.cloudphotobook.com^
 ||a8cv.coopnet.or.jp^
 ||a8cv.cosmeonline.com^
@@ -621,6 +631,7 @@
 ||a8cv.dreamchance.net^
 ||a8cv.dsc-nightstore.com^
 ||a8cv.dshu.jp^
+||a8cv.e-3shop.com^
 ||a8cv.e-d-v-j.co.jp^
 ||a8cv.e-earphone.jp^
 ||a8cv.e-stretch-diet.com^
@@ -643,6 +654,7 @@
 ||a8cv.folio-sec.com^
 ||a8cv.foresight.jp^
 ||a8cv.forza-gran.com^
+||a8cv.fots.jp^
 ||a8cv.frecious.jp^
 ||a8cv.freeks-japan.com^
 ||a8cv.fujiplus.jp^
@@ -696,6 +708,7 @@
 ||a8cv.jcom-cabletv.jp^
 ||a8cv.jcom.co.jp^
 ||a8cv.jeansmate.co.jp^
+||a8cv.join-tech.jp^
 ||a8cv.jokyonext.jp^
 ||a8cv.jp-shop.kiwabi.com^
 ||a8cv.k-ikiiki.jp^
@@ -720,6 +733,7 @@
 ||a8cv.lyprinol.jp^
 ||a8cv.machi-ene.jp^
 ||a8cv.machicon.jp^
+||a8cv.macloud.jp^
 ||a8cv.madoguchi.com^
 ||a8cv.maenomery.jp^
 ||a8cv.magniflexk.com^
@@ -733,6 +747,7 @@
 ||a8cv.mentors-lwc.com^
 ||a8cv.minana-jp.com^
 ||a8cv.minnano-eikaiwa.com^
+||a8cv.mitaina.tokyo^
 ||a8cv.mobabiji.jp^
 ||a8cv.mobile-peace.com^
 ||a8cv.modern-deco.jp^
@@ -793,6 +808,7 @@
 ||a8cv.risu-japan.com^
 ||a8cv.rita-style.co.jp^
 ||a8cv.rohto.co.jp^
+||a8cv.s-darts.com^
 ||a8cv.safetycart.jp^
 ||a8cv.sakura-forest.com^
 ||a8cv.sanix.jp^
@@ -805,6 +821,7 @@
 ||a8cv.setagayarecords.co^
 ||a8cv.sharing-tech.co.jp^
 ||a8cv.sharing-tech.jp^
+||a8cv.shibarinashi-wifi.jp^
 ||a8cv.shibuya-scramble-figure.com^
 ||a8cv.shimomoto-cl.co.jp^
 ||a8cv.shokunosoyokaze.com^
@@ -820,8 +837,10 @@
 ||a8cv.starpeg-music.com^
 ||a8cv.stg.moneybank.co.jp^
 ||a8cv.store.alpen-group.jp^
+||a8cv.store.ion-e-air.jp^
 ||a8cv.store.saneibd.com^
 ||a8cv.store.tavenal.com^
+||a8cv.store.tiger-corporation.com^
 ||a8cv.store.wiredbeans.jp^
 ||a8cv.store.yslabo.net^
 ||a8cv.str.classicmusic.tokyo^
@@ -840,6 +859,8 @@
 ||a8cv.tmix.jp^
 ||a8cv.tokei-syuri.jp^
 ||a8cv.toko-navi.com^
+||a8cv.tokutoku-battery.com^
+||a8cv.tokyo-indoorgolf.com^
 ||a8cv.tokyogas.bocco.me^
 ||a8cv.toybox-mnr.com^
 ||a8cv.udition.jp^
@@ -853,12 +874,16 @@
 ||a8cv.waterenergy.co.jp^
 ||a8cv.wedding.mynavi.jp^
 ||a8cv.womanmoney.net^
+||a8cv.wordman.jp^
 ||a8cv.worker.sukimaworks.app^
 ||a8cv.workman.jp^
+||a8cv.www.bitlock.jp^
 ||a8cv.www.chara-ani.com^
 ||a8cv.www.covearth.co.jp^
 ||a8cv.www.iropuri.com^
+||a8cv.www.monologue.watch^
 ||a8cv.www.pascaljp.com^
+||a8cv.xn--1lqs71d2law9k8zbv08f.tokyo^
 ||a8cv.y-osohshiki.com^
 ||a8cv.ya-man.com^
 ||a8cv.yakuzaishi.yakumatch.com^
@@ -907,6 +932,7 @@
 ||a8trck.j-sen.jp^
 ||a8trck.tolot.com^
 ||a8trk.www.std-lab.jp^
+||a8x.piece-kaitori.jp^
 ||acv.aun-n-hikari.com^
 ||acv.biglobe-hikari.net^
 ||acv.cmf-hikari.net^
@@ -936,6 +962,7 @@
 ||affiliate.k-uno.co.jp^
 ||affiliate.kgcshop.jp^
 ||affiliate.petitwedding.com^
+||affiliate.taihoshop.jp^
 ||affiliate.tripact.jp^
 ||afi.school.web-marketing.ai^
 ||afi.ssl.gmobb.jp^
@@ -943,6 +970,7 @@
 ||analytics.villagehouse.jp^
 ||aspa8.ozmall.co.jp^
 ||car-a8.tabirai.net^
+||cv.2jikaikun.com^
 ||cv.atelier-shark.com^
 ||cv.belta-shop.jp^
 ||cv.colleize.com^
@@ -972,6 +1000,8 @@
 ||cv.theatreacademy.info^
 ||cv.ui-chiho.clinic^
 ||cv.wp-avenue.com^
+||cv.www.jobcareer.jp^
+||dwuzxuvwlq.winticket.jp^
 ||ems-a8net-tracking.easy-myshop.jp^
 ||herpes2.pa-ruit.jp^
 ||ja-jp-a8.etudehouse.com^
@@ -979,8 +1009,11 @@
 ||listing-a8-itp.hello-storage.com^
 ||mvc.shopjapan.co.jp^
 ||onenet.gakujutsu.com^
+||p004.raffi-hair.com^
+||salto.freeto.jp^
 ||storea8tracking.alc.co.jp^
 ||sub.booksdream-mypage.com^
+||sub.ecd.bookoffonline.co.jp^
 ||summary.bookoffonline.co.jp^
 ||thanks.olivesitter.com^
 ||thanks.tsubaki-musicschool.com^

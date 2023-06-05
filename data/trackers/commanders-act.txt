@@ -5,11 +5,11 @@
 ||data.decathlon.es^
 ||data.decathlon.fr^
 ||data.decathlon.pl^
+||data.ouigo.com^
 ||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^
-||tag.boulanger.fr^
 ||tagcommander.laredoute.be^
 ||tagcommander.laredoute.ch^
 ||tagcommander.laredoute.co.uk^
@@ -17,7 +17,7 @@
 ||acquisition.klm.com^
 ||data.cofinoga.fr^
 ||data.decathlon.it^
-||data.ouigo.com^
 ||data.ricaud.com^
+||tag.boulanger.fr^
 ||tc.europcar.com^
 ||tc.europcar.com.au^

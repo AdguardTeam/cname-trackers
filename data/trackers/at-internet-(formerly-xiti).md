@@ -5,6 +5,7 @@
 * at-o.net
     * 71efe2183b8663ad5bf9d7a9320aeb48-leboncoin-fr-cddc.at-o.net
     * a-20minutes-fr-cddc.at-o.net
+    * a-hellowork-com-cddc.at-o.net
     * a-pourquoidocteur-fr-cddc.at-o.net
     * a1-api-bbc-co-uk-cddc.at-o.net
     * a1-api-bbc-com-cddc.at-o.net
@@ -129,6 +130,7 @@
 | ---- | ---- |
 | 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr | 71efe2183b8663ad5bf9d7a9320aeb48-leboncoin-fr-cddc.at-o.net |
 | a.20minutes.fr | a-20minutes-fr-cddc.at-o.net |
+| a.hellowork.com | a-hellowork-com-cddc.at-o.net |
 | a.pourquoidocteur.fr | a-pourquoidocteur-fr-cddc.at-o.net |
 | a1.api.bbc.co.uk | a1-api-bbc-co-uk-cddc.at-o.net |
 | ati-a1.946d001b783803c1.xhst.bbci.co.uk | a1-api-bbc-co-uk-cddc.at-o.net |

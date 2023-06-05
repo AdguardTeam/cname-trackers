@@ -32,6 +32,7 @@ aktivtraening.tns-gallup.dk
 alt.tns-gallup.dk
 altinget.tns-gallup.dk
 altomboern.tns-gallup.dk
+altomhistorie.tns-gallup.dk
 amica.met.vgwort.de
 beck.met.vgwort.de
 berliner-kurier.met.vgwort.de
@@ -140,6 +141,7 @@ dbstruer-eavis.tns-gallup.dk
 dgs.tns-gallup.dk
 dmi.tns-gallup.dk
 dplayiosstream.tns-gallup.dk
+ssl-boxerandroidstream.tns-gallup.dk
 ssl-drtvosstream.tns-gallup.dk
 ssl-glentenandroidstream.tns-gallup.dk
 ssl-viaplaystream.tns-gallup.dk
@@ -169,6 +171,7 @@ euroman.tns-gallup.dk
 femina.tns-gallup.dk
 finans.tns-gallup.dk
 finanswatch.tns-gallup.dk
+fodevarewatch.tns-gallup.dk
 folketidende.tns-gallup.dk
 fyens.tns-gallup.dk
 gaffa.tns-gallup.dk
@@ -194,6 +197,7 @@ kristeligtdagblad.tns-gallup.dk
 kundeunivers.tns-gallup.dk
 lokalavisen.tns-gallup.dk
 magacin.tns-gallup.dk
+magasingave.tns-gallup.dk
 mainlifestyle.tns-gallup.dk
 mariesideer.tns-gallup.dk
 mediawatch.tns-gallup.dk
@@ -306,6 +310,7 @@ ssl-magacin.tns-gallup.dk
 ssl-magasinetliv.tns-gallup.dk
 ssl-mainlifestyle.tns-gallup.dk
 ssl-mandagmorgen.tns-gallup.dk
+ssl-markedsforing.tns-gallup.dk
 ssl-mediajob.tns-gallup.dk
 ssl-minby.tns-gallup.dk
 ssl-mja.tns-gallup.dk
@@ -357,6 +362,7 @@ tv3.tns-gallup.dk
 tv3play.tns-gallup.dk
 ugeavisen.tns-gallup.dk
 vafo.tns-gallup.dk
+vendelbop.tns-gallup.dk
 viborgfolkeblad.tns-gallup.dk
 videnskab.tns-gallup.dk
 viunge.tns-gallup.dk

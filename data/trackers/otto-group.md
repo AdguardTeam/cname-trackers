@@ -6,22 +6,19 @@
     * js.oghub.io
     * sniffer.oghub.io
     * sniffer.test-extern.oghub.io
-    * te-ackermann-ch.oghub.io
-    * te-creation-l-de.oghub.io
+    * te-ambria-de.oghub.io
+    * te-baur-de.oghub.io
     * te-frankonia-de.oghub.io
-    * te-heine-at.oghub.io
-    * te-heine-ch.oghub.io
     * te-heine-de.oghub.io
     * te-imwalking-de.oghub.io
     * te-limango-de.oghub.io
     * te-mirapodo-de.oghub.io
     * te-mytoys-de.oghub.io
     * te-otto-de.oghub.io
-    * te-quelle-de.oghub.io
     * te-sheego-de.oghub.io
     * te-sieh-an-de.oghub.io
-    * te-witt-weiden-de.oghub.io
-    * te-your-look-for-less-nl.oghub.io
+    * te-witt-international-cz.oghub.io
+    * te-witt-international-sk.oghub.io
     * te.oghub.io
     * te.test-extern.oghub.io
     * tp-ackermann-ch.oghub.io
@@ -36,10 +33,10 @@
     * tp-mytoys-de.oghub.io
     * tp-otto-de.oghub.io
     * tp-ottoversand-at.oghub.io
-    * tp-quelle-at.oghub.io
     * tp-quelle-de.oghub.io
     * tp-sheego-de.oghub.io
     * tp-universal-at.oghub.io
+    * tp-yomonda-de.oghub.io
 
 ## Cloaking domains
 
@@ -70,7 +67,6 @@
 | tp.ottoversand.at | js.oghub.io |
 | tp.ottoversand.at | js.oghub.io |
 | tp.quelle.at | js.oghub.io |
-| tp.quelle.at | js.oghub.io |
 | tp.quelle.ch | js.oghub.io |
 | tp.quelle.de | js.oghub.io |
 | tp.sheego.de | js.oghub.io |
@@ -88,24 +84,21 @@
 | prod.nitrosniffer.ottogroup.io | sniffer.oghub.io |
 | sniffer.nitro-production.otto.boreus.de | sniffer.oghub.io |
 | sniffer.nitro-test-extern.otto.boreus.de | sniffer.test-extern.oghub.io |
-| te.ackermann.ch | te-ackermann-ch.oghub.io |
-| te.creation-l.de | te-creation-l-de.oghub.io |
+| te.ambria.de | te-ambria-de.oghub.io |
+| te.baur.de | te-baur-de.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
-| te.heine.at | te-heine-at.oghub.io |
-| te.heine.ch | te-heine-ch.oghub.io |
 | te.heine.de | te-heine-de.oghub.io |
 | te.imwalking.de | te-imwalking-de.oghub.io |
 | te.limango.de | te-limango-de.oghub.io |
 | te.mirapodo.de | te-mirapodo-de.oghub.io |
 | te.mytoys.de | te-mytoys-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
-| te.quelle.de | te-quelle-de.oghub.io |
 | te.sheego.de | te-sheego-de.oghub.io |
 | te.sieh-an.de | te-sieh-an-de.oghub.io |
-| te.witt-weiden.de | te-witt-weiden-de.oghub.io |
-| te.your-look-for-less.nl | te-your-look-for-less-nl.oghub.io |
+| te.witt-international.cz | te-witt-international-cz.oghub.io |
+| te.witt-international.sk | te-witt-international-sk.oghub.io |
 | te.ackermann.ch | te.oghub.io |
-| te.ackermann.ch | te.oghub.io |
+| te.ambria.de | te.oghub.io |
 | te.ambria.de | te.oghub.io |
 | te.baur.de | te.oghub.io |
 | te.creation-l.de | te.oghub.io |
@@ -159,7 +152,7 @@
 | tp.mytoys.de | tp-mytoys-de.oghub.io |
 | tp.otto.de | tp-otto-de.oghub.io |
 | tp.ottoversand.at | tp-ottoversand-at.oghub.io |
-| tp.quelle.at | tp-quelle-at.oghub.io |
 | tp.quelle.de | tp-quelle-de.oghub.io |
 | tp.sheego.de | tp-sheego-de.oghub.io |
 | tp.universal.at | tp-universal-at.oghub.io |
+| tp.yomonda.de | tp-yomonda-de.oghub.io |

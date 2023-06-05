@@ -25,7 +25,6 @@ tk.airfrance.de CNAME .
 tk.airfrance.dk CNAME .
 tk.airfrance.fi CNAME .
 tk.airfrance.fr CNAME .
-tk.airfrance.ga CNAME .
 tk.airfrance.gf CNAME .
 tk.airfrance.gr CNAME .
 tk.airfrance.hr CNAME .
@@ -88,6 +87,7 @@ tk.lcl.fr CNAME .
 tk.little-big-change.com CNAME .
 tk.lolivier.fr CNAME .
 tk.lulli-sur-la-toile.com CNAME .
+tk.m6boutique.com CNAME .
 tk.maison123.com CNAME .
 tk.moveyourfit.com CNAME .
 tk.msccruises.com CNAME .
@@ -106,6 +106,7 @@ tk.rimowa.com CNAME .
 tk.salomon.com CNAME .
 tk.speedway.fr CNAME .
 tk.svsound.com CNAME .
+tk.teleshopping.fr CNAME .
 tk.tikamoon.co.uk CNAME .
 tk.tikamoon.com CNAME .
 tk.tikamoon.de CNAME .

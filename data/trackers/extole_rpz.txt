@@ -32,6 +32,7 @@ refer.clarionledger.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
 refer.criquetshirts.com CNAME .
+refer.crystallight.com CNAME .
 refer.discover.com CNAME .
 refer.divvybikes.com CNAME .
 refer.dna.ancestry.co.uk CNAME .
@@ -111,10 +112,12 @@ share.worldmarket.com CNAME .
 sharethelove.teacollection.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
+www.refercentier.com CNAME .
 www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -237,6 +240,7 @@ refer.issaonline.com CNAME .
 refer.itbed.com CNAME .
 refer.itcosmetics.com CNAME .
 refer.jewelersmutual.com CNAME .
+refer.jiffynewark.com CNAME .
 refer.joann.com CNAME .
 refer.join1440.com CNAME .
 refer.jonesservices.com CNAME .
@@ -251,6 +255,7 @@ refer.laroche-posay.us CNAME .
 refer.lasenza.ca CNAME .
 refer.lasenza.com CNAME .
 refer.last-stitch.com CNAME .
+refer.lastcall.com CNAME .
 refer.lauramercier.com CNAME .
 refer.laylasleep.com CNAME .
 refer.lendingclub.com CNAME .
@@ -375,6 +380,7 @@ share.acorns.com CNAME .
 share.advanceamerica.net CNAME .
 share.affinityfcu.org CNAME .
 share.ahs.com CNAME .
+share.algaecal.com CNAME .
 share.alltrucu.org CNAME .
 share.alphaindustries.com CNAME .
 share.anatomie.com CNAME .
@@ -386,6 +392,7 @@ share.asics.com CNAME .
 share.atlasbars.com CNAME .
 share.aveda.com.au CNAME .
 share.azcentral.com CNAME .
+share.battlecreekenquirer.com CNAME .
 share.beaspermdonor.com CNAME .
 share.biblejourney.com CNAME .
 share.bncollege.com CNAME .
@@ -450,6 +457,7 @@ share.giorgioarmanibeauty-usa.com CNAME .
 share.go2bank.com CNAME .
 share.greenlight.com CNAME .
 share.greenlightcard.com CNAME .
+share.gxvebeauty.com CNAME .
 share.hanacure.com CNAME .
 share.hicapitalize.com CNAME .
 share.hotwire.com CNAME .
@@ -520,6 +528,7 @@ share.reporternews.com CNAME .
 share.rgj.com CNAME .
 share.riograndecu.org CNAME .
 share.robertmondaviwinery.com CNAME .
+share.roots.com CNAME .
 share.ross-simons.com CNAME .
 share.rspure.com CNAME .
 share.rvshare.com CNAME .
@@ -573,5 +582,4 @@ share.zebit.com CNAME .
 share.zenbusiness.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
-em8561.go2bank.com CNAME .
 sftp.extole.com CNAME .

@@ -528,6 +528,7 @@ pf.intuit.com
 phyon.communipay.net
 phyon.visit-x.net
 piafapp.poste.it
+pic.bankonline.ge
 plr.scb-payments.net
 pn1927.adambank.com
 pn1927.coutts.com
@@ -650,6 +651,7 @@ t.banking.blucurrent.org
 t.banking.njfcu.org
 t.demo.lumindigital.com
 t.digital.communityfirstcu.org
+t.digitalbanking.credithuman.com
 t.digitalbanking.langleyfcu.org
 t.digitalbanking.tronavalley.com
 t.digitalbanking.uoficreditunion.org
