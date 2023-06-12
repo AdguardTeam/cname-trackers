@@ -43,6 +43,7 @@ dc.swartlybeebee.com CNAME .
 dd.zillahhayers.com CNAME .
 dg.durgahsursize.com CNAME .
 dg.folksychapes.com CNAME .
+di.allonymgranula.com CNAME .
 dl.fatimacapos.com CNAME .
 dl.reqdleucine.com CNAME .
 do.chimblyconyger.com CNAME .
@@ -143,6 +144,7 @@ lg.feoffortapetis.com CNAME .
 lm.rinserbefore.com CNAME .
 lq.kuliposits.com CNAME .
 lq.nullusposolo.com CNAME .
+lr.coehornliebig.com CNAME .
 ls.hongaries.com CNAME .
 lv.mandatscrate.com CNAME .
 ly.koitapuanteing.com CNAME .
@@ -201,6 +203,7 @@ rg.canesbilker.com CNAME .
 rh.sirionehusky.com CNAME .
 rj.unhaveabobra.com CNAME .
 rm.bauderylysines.com CNAME .
+ro.vacuomedogeys.com CNAME .
 rp.bumblesisobase.com CNAME .
 rp.splentstoatoa.com CNAME .
 rp.tsuresoranges.com CNAME .
@@ -239,6 +242,7 @@ tr.impoundiranism.com CNAME .
 ts.toccatamotific.com CNAME .
 tt.smirkydiff.com CNAME .
 tw.canjacvinum.com CNAME .
+ui.warmthsmasseur.com CNAME .
 ul.sokesbarling.com CNAME .
 ul.spatingaegina.com CNAME .
 um.sullageprancy.com CNAME .

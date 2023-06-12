@@ -53,6 +53,7 @@ hal.courrierinternational.com
 hd.pe.fr
 hmg.handelsblatt.com
 hmg.wiwo.de
+hrbitov.viessmann.cz
 image.ard.de
 image.mdr.de
 images.kika.de

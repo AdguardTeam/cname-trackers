@@ -586,6 +586,7 @@
 | 3607715.notify6.com | tk6if76q.ab1n.net |
 | 3607715.notifysrv.com | tk6if76q.ab1n.net |
 | 3613299.notifysrv.com | tk6if76q.ab1n.net |
+| 3617853.notify6.com | tk6if76q.ab1n.net |
 | 3618939.notify6.com | tk6if76q.ab1n.net |
 | 3618945.notify6.com | tk6if76q.ab1n.net |
 | 3619313.notify6.com | tk6if76q.ab1n.net |
@@ -641,6 +642,7 @@
 | 3768747.notify6.com | tk6if76q.ab1n.net |
 | 3768747.notifysrv.com | tk6if76q.ab1n.net |
 | 3775247.notifysrv.com | tk6if76q.ab1n.net |
+| 3783121.notify6.com | tk6if76q.ab1n.net |
 | 3783123.notifysrv.com | tk6if76q.ab1n.net |
 | 3783125.notifysrv.com | tk6if76q.ab1n.net |
 | 3789703.notifysrv.com | tk6if76q.ab1n.net |
@@ -746,6 +748,7 @@
 | 4069896.notify6.com | tk6if76q.ab1n.net |
 | 4069900.notify6.com | tk6if76q.ab1n.net |
 | 4093684.notify6.com | tk6if76q.ab1n.net |
+| 4093704.notify6.com | tk6if76q.ab1n.net |
 | 4096386.notify6.com | tk6if76q.ab1n.net |
 | 4097564.notify6.com | tk6if76q.ab1n.net |
 | 4097566.notify6.com | tk6if76q.ab1n.net |
@@ -965,7 +968,6 @@
 | admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | a.a3ion.com | w2u4v9e1.ab1n.net |
 | a.ad.guru | w2u4v9e1.ab1n.net |
-| a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
 | a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |
 | a.stuffserve.com | w2u4v9e1.ab1n.net |

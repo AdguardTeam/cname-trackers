@@ -10,7 +10,6 @@
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
-    * aol.extole.com
     * app.extole.com
     * backcountry.extole.com
     * barenecessities.extole.com
@@ -22,6 +21,7 @@
     * centier.extole.com
     * checkngo.extole.com
     * chubbies.extole.com
+    * citizen-times.extole.com
     * clarionledger.extole.com
     * clearme-ssl.extole.com
     * compexusa.extole.com
@@ -128,6 +128,7 @@
     * affinityfcu.extole.io
     * ahs-proconnect.extole.io
     * algaecal.extole.io
+    * allenedmonds.extole.io
     * alltrucu.extole.io
     * alphaindustries.extole.io
     * amazon-web-services.extole.io
@@ -215,6 +216,7 @@
     * crocs.extole.io
     * cvs.extole.io
     * cwbank.extole.io
+    * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
     * dave.extole.io
@@ -228,6 +230,7 @@
     * ds-laboratories.extole.io
     * dutch.extole.io
     * ea.extole.io
+    * elysiumhealth.extole.io
     * embrace-pet-insurance.extole.io
     * empathywines.extole.io
     * empire-today.extole.io
@@ -271,7 +274,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -346,6 +348,7 @@
     * myheritage.extole.io
     * myollie.extole.io
     * nars-cosmetics.extole.io
+    * naturalizer.extole.io
     * new-balance-ca.extole.io
     * newtonbaby.extole.io
     * nfhs-network.extole.io
@@ -487,6 +490,7 @@
     * wecohospitality.extole.io
     * whistle.extole.io
     * whitehouseblackmarket.extole.io
+    * windsor.extole.io
     * wine.extole.io
     * wisdompanel.extole.io
     * wolverine.extole.io
@@ -529,6 +533,7 @@
 | refer.ahsfriends.com | ahs.extole.com |
 | refer.algaecal.com | algaecal.extole.io |
 | share.algaecal.com | algaecal.extole.io |
+| refer.allenedmonds.com | allenedmonds.extole.io |
 | share.alltrucu.org | alltrucu.extole.io |
 | share.alphaindustries.com | alphaindustries.extole.io |
 | refer.awscloud.com | amazon-web-services.extole.io |
@@ -540,7 +545,6 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
-| refer.aol.com | aol.extole.com |
 | refer.hpso.com | aon.extole.io |
 | refer.nso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
@@ -627,6 +631,7 @@
 | refer.chicosofftherack.com | chicosofftherack.extole.io |
 | chubclub.chubbiesshorts.com | chubbies.extole.com |
 | refer.cinemark.com | cinemark.extole.io |
+| refer.citizen-times.com | citizen-times.extole.com |
 | share.cityfurniture.com | cityfurniture.extole.io |
 | refer.clarionledger.com | clarionledger.extole.com |
 | refer.clarksusa.com | clarksusa.extole.io |
@@ -654,6 +659,7 @@
 | ilove.volusion.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
+| share.dailypay.com | dailypay.extole.io |
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
 | share.refer-darphin.com | darphin.extole.io |
@@ -673,6 +679,7 @@
 | share.dutch.com | dutch.extole.io |
 | refer.ea.com | ea.extole.io |
 | friend.ebags.com | ebags.extole.com |
+| share.elysiumhealth.com | elysiumhealth.extole.io |
 | refer.embracepetinsurance.com | embrace-pet-insurance.extole.io |
 | share.empathywines.com | empathywines.extole.io |
 | refer.empiretoday.com | empire-today.extole.io |
@@ -756,7 +763,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -836,6 +842,7 @@
 | refer.lendingclub.com | lending-club.extole.io |
 | refer.lenscrafters.com | lenscrafters.extole.io |
 | share.levi.com | levi.extole.io |
+| share.s4.levi-site.com | levi.extole.io |
 | share.lifedna.com | lifedna.extole.io |
 | refer.lightstream.com | lightstream.extole.io |
 | refer.littlepassports.com | little-passports.extole.io |
@@ -865,6 +872,7 @@
 | share.myollie.com | myollie.extole.io |
 | refer.myplant.com | myplant.extole.com |
 | refer.narscosmetics.com | nars-cosmetics.extole.io |
+| refer.naturalizer.com | naturalizer.extole.io |
 | refer.bowflex.com | nautilus.extole.com |
 | refer.newbalance.ca | new-balance-ca.extole.io |
 | share.newtonbaby.com | newtonbaby.extole.io |
@@ -927,6 +935,7 @@
 | refer.purchasingpower.com | purchasingpower.extole.com |
 | refer.pureology.com | pureology.extole.io |
 | share.qalo.com | qalo.extole.com |
+| recommander.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.ca | qboca.extole.io |
 | refer.quickbooks.co.uk | qbouk.extole.io |
 | www.referquickbooks.com | quickbooks.extole.io |
@@ -1081,6 +1090,7 @@
 | share.whistle.com | whistle.extole.io |
 | refer.whitehouseblackmarket.com | whitehouseblackmarket.extole.io |
 | share.wimp.no | wimp.extole.com |
+| refer.windsorstore.com | windsor.extole.io |
 | refer.wine.com | wine.extole.io |
 | share.wisdompanel.com | wisdompanel.extole.io |
 | refer.wolverine.com | wolverine.extole.io |

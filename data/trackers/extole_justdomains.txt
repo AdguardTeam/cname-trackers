@@ -17,7 +17,6 @@ refer.ahsfriends.com
 refer.american-giant.com
 refer.americanexpress.com
 refer.ancestry.com
-refer.aol.com
 refer.app.com
 refer.backcountry.com
 refer.barenecessities.com
@@ -28,6 +27,7 @@ refer.bowflex.com
 refer.calstate.aaa.com
 refer.carbonite.com
 refer.checkngo.com
+refer.citizen-times.com
 refer.clarionledger.com
 refer.clearme.com
 refer.compexusa.com
@@ -117,7 +117,6 @@ www.trevoce.com
 amp.bfr.com
 demo.extole.com
 earn-and-refer.extoleu.com
-em8561.go2bank.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -133,6 +132,7 @@ my.kotn.com
 pals.petco.com
 promos.zinli.com
 q.share.qvcemail.com
+recommander.quickbooks.ca
 refer-photo.cvs.com
 refer-staging.freshly.com
 refer-us.uniqlo.com
@@ -143,6 +143,7 @@ refer.abacusnext.com
 refer.acornonline.com
 refer.akcpetinsurance.com
 refer.algaecal.com
+refer.allenedmonds.com
 refer.americanmusical.com
 refer.amerisleep.com
 refer.art.com
@@ -273,6 +274,7 @@ refer.mpgsport.ca
 refer.mpgsport.com
 refer.myheritagedna.com
 refer.narscosmetics.com
+refer.naturalizer.com
 refer.netrinc.com
 refer.newbalance.ca
 refer.nfhsnetwork.com
@@ -355,6 +357,7 @@ refer.vincecamuto.com
 refer.vitaminpacks.com
 refer.vitaminshoppe.com
 refer.whitehouseblackmarket.com
+refer.windsorstore.com
 refer.wine.com
 refer.wolverine.com
 refer.xpressmoneyonline.com
@@ -423,6 +426,7 @@ share.courierpostonline.com
 share.credible.com
 share.creditninja.com
 share.cwbank.com
+share.dailypay.com
 share.dave.com
 share.delawareonline.com
 share.dermablend.com
@@ -434,6 +438,7 @@ share.dslaboratories.com
 share.dunlopsports.com
 share.dutch.com
 share.elpasotimes.com
+share.elysiumhealth.com
 share.empathywines.com
 share.enterprisenews.com
 share.esteelauder.co.kr
@@ -532,6 +537,7 @@ share.roots.com
 share.ross-simons.com
 share.rspure.com
 share.rvshare.com
+share.s4.levi-site.com
 share.saintjanebeauty.com
 share.securityplusfcu.org
 share.shoptruespirit.com
@@ -582,4 +588,6 @@ share.zebit.com
 share.zenbusiness.com
 www.referquickbooks.com
 em1476.princesscruises.com
+em8561.go2bank.com
+refer.aol.com
 sftp.extole.com

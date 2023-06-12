@@ -31,6 +31,7 @@
 ||affil.econea.cz^
 ||affil.eshop-rychle.cz^
 ||affil.exkluzivita.cz^
+||affil.fingood.cz^
 ||affil.fit-pro.cz^
 ||affil.gamlery.cz^
 ||affil.gentleport.cz^
@@ -65,6 +66,7 @@
 ||affil.stronger-shop.cz^
 ||affil.supervykon.cz^
 ||affil.svj-info.cz^
+||affil.swisstoner.cz^
 ||affil.tadytuto.cz^
 ||affil.trikator.cz^
 ||affil.triko4u.cz^
@@ -103,6 +105,7 @@
 ||affiliate.bezvatriko.cz^
 ||affiliate.bezvatriko.sk^
 ||affiliate.bikeplan.org^
+||affiliate.biooo.cz^
 ||affiliate.bitcoinzmenaren.sk^
 ||affiliate.canatura.com^
 ||affiliate.cannyapp.cz^
@@ -170,12 +173,15 @@
 ||affiliate.lasamba.cz^
 ||affiliate.lasun.cz^
 ||affiliate.lentiamo.bg^
+||affiliate.lentiamo.ch^
 ||affiliate.lentiamo.co.uk^
 ||affiliate.lentiamo.es^
 ||affiliate.lentiamo.fr^
 ||affiliate.lentiamo.se^
 ||affiliate.levnoshop.cz^
+||affiliate.levsalonu.cz^
 ||affiliate.lg-store.cz^
+||affiliate.licit.cz^
 ||affiliate.loveo.cz^
 ||affiliate.manvel.cz^
 ||affiliate.martinreznicek.cz^
@@ -208,6 +214,7 @@
 ||affiliate.postel.cz^
 ||affiliate.pouziteiphony.cz^
 ||affiliate.pravopropodnikatele.cz^
+||affiliate.prodietix.cz^
 ||affiliate.pt-shop.cz^
 ||affiliate.rajkratomu.cz^
 ||affiliate.reponio.cz^
@@ -221,6 +228,7 @@
 ||affiliate.smsticket.cz^
 ||affiliate.snowbitch.cz^
 ||affiliate.socialsprinters.cz^
+||affiliate.soscredit.cz^
 ||affiliate.sportinator.cz^
 ||affiliate.stanislavamrazkova.cz^
 ||affiliate.stibio.cz^
@@ -416,6 +424,7 @@
 ||partner.chevronnutrition.cz^
 ||partner.chiashake.cz^
 ||partner.chilimarket.cz^
+||partner.chytrydopravce.cz^
 ||partner.cocochocokeratin.cz^
 ||partner.cokoladovnajanek.cz^
 ||partner.colway.cz^
@@ -443,6 +452,7 @@
 ||partner.dripit.cz^
 ||partner.dynamikabohatstvi.cz^
 ||partner.eandilek.cz^
+||partner.ecomail.cz^
 ||partner.econea.cz^
 ||partner.edutu.cz^
 ||partner.epravo.cz^
@@ -509,6 +519,7 @@
 ||partner.luckyalvin.cz^
 ||partner.lyzelyze.cz^
 ||partner.malujpodlecisel.cz^
+||partner.marandy.cz^
 ||partner.marspom.cz^
 ||partner.martinreznicek.cz^
 ||partner.massivo.cz^
@@ -540,6 +551,7 @@
 ||partner.olivie.cz^
 ||partner.olivie.sk^
 ||partner.olivum.cz^
+||partner.onlinepriznanie.sk^
 ||partner.ozogan.cz^
 ||partner.parfemy-parfumeur.cz^
 ||partner.perfect-dress.eu^
@@ -714,6 +726,7 @@
 ||partneri.smyslovy-pruzkumnik.cz^
 ||partneri.sportfotbal.cz^
 ||partneri.sportmentor.cz^
+||partneri.sterixretro.cz^
 ||partneri.supportbox.cz^
 ||partneri.sviicka.cz^
 ||partneri.tanahavlickova.cz^

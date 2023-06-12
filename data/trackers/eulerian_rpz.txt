@@ -74,7 +74,8 @@ ct5m.citadium.com CNAME .
 ctp1.bforbank.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
-d0f.le-dauphin.com CNAME .
+d2u.dauphinquebec.com CNAME .
+dbj.quebecregion.com CNAME .
 deb1.refleximmo-recrutement.com CNAME .
 def1.optimhome-recrutement.com CNAME .
 deut1.fdj.fr CNAME .
@@ -176,12 +177,12 @@ ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
 ea.zgeneration.com CNAME .
+eat9.thebeat925.ca CNAME .
 ebc1.capifrance.fr CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
-elc1.energies.leclerc CNAME .
 elr.sfr.fr CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
@@ -212,6 +213,7 @@ eulerian.structube.com CNAME .
 eulerian.telechargement.fr CNAME .
 eulerian.tgv-europe.be CNAME .
 eulerian.tgv-europe.es CNAME .
+eulerian.tgv-europe.lu CNAME .
 eulerian.thalasseo.com CNAME .
 eulerian.voyage-prive.com CNAME .
 eultech.fnac.com CNAME .
@@ -238,7 +240,6 @@ fzb5.laboratoire-giphar.fr CNAME .
 fze8.carrefour-banque.fr CNAME .
 fzu4.bysidecar.com CNAME .
 g1be.swisslife-direct.fr CNAME .
-gda1.coworkimmo.com CNAME .
 gdm1.toner.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
@@ -284,6 +285,7 @@ ltm6.destinia.se CNAME .
 lwh1.carrefour-banque.fr CNAME .
 ly8c.caci-online.fr CNAME .
 lzuc.sfr.fr CNAME .
+m10.m1029.com CNAME .
 m3ds.subarumetropolitain.com CNAME .
 mfd.myfirstdressing.com CNAME .
 mgt7.madeindesign.it CNAME .
@@ -351,6 +353,7 @@ pbox.photobox.nl CNAME .
 pbox.photobox.se CNAME .
 pcnphysio-com.ca-eulerian.net CNAME .
 pgt1.voyage-prive.es CNAME .
+piq4.inseec.education CNAME .
 pjh7.us.chantelle.com CNAME .
 pk1u.melanielyne.com CNAME .
 pkc5.hardrockhoteltenerife.com CNAME .
@@ -359,7 +362,6 @@ po.ponant.com CNAME .
 pol3.cheque-domicile.fr CNAME .
 pp.promocionesfarma.com CNAME .
 ppp7.destinia.kr CNAME .
-pqn7.cheque-dejeuner.fr CNAME .
 prx6.destinia.ch CNAME .
 ps.pmu.fr CNAME .
 pv.partenaires-verisure.fr CNAME .
@@ -398,6 +400,7 @@ sno1.snowrental.com CNAME .
 snr4.canalplus.com CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
+su1.les-suites.ca CNAME .
 sykc.madeindesign.ch CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
@@ -463,16 +466,15 @@ wnd2.destinia.cat CNAME .
 wph2.destinia.us CNAME .
 www.fasttrack.fr CNAME .
 www.fasttracker.fr CNAME .
-www.mis.tourisme-montreal.org CNAME .
 xay5o.toscane-boutique.fr CNAME .
 xjq5.belambra.be CNAME .
 xuc.monteleone.fr CNAME .
-xvu.monnierfreres.co.uk CNAME .
 xy33.smallable.com CNAME .
 xya4.groupefsc.com CNAME .
 yf5.voyage-prive.at CNAME .
 yh6u.dealeusedevoyages.com CNAME .
 yoc.younited-credit.com CNAME .
+yst4.muchoviaje.com CNAME .
 yst4.torviajes.com CNAME .
 yyi7.consobaby.de CNAME .
 zcih.clotureantifugue.com CNAME .
@@ -486,10 +488,10 @@ zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 b1n.carabins.umontreal.ca CNAME .
-eat9.thebeat925.ca CNAME .
+d0f.le-dauphin.com CNAME .
 erb.tremblant.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
-m10.m1029.com CNAME .
 nym5c.bonlook.com CNAME .
+www.mis.tourisme-montreal.org CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .

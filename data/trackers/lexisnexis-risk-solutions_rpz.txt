@@ -231,6 +231,7 @@ content.moni.com.ar CNAME .
 content.myonlyid.com CNAME .
 content.mywisely.com CNAME .
 content.name.com CNAME .
+content.nebraska.gov CNAME .
 content.netcredit.pl CNAME .
 content.nubank.com.br CNAME .
 content.numobile.com.au CNAME .
@@ -463,7 +464,6 @@ kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
 lfp.intuit.com CNAME .
 ln.meudigio.com.br CNAME .
-lndata.labor.maryland.gov CNAME .
 lndata.labor.md.gov CNAME .
 lnths.twc.texas.gov CNAME .
 lnthxsvc.tsp.gov CNAME .
@@ -532,6 +532,7 @@ pic.bankonline.ge CNAME .
 plr.scb-payments.net CNAME .
 pn1927.adambank.com CNAME .
 pn1927.coutts.com CNAME .
+pn1927.couttscrowndependencies.com CNAME .
 pn1927.natwestplus.com CNAME .
 portal-fp-qa1.qa.threatmetrix.com CNAME .
 portal-fp-qa2.qa.threatmetrix.com CNAME .
@@ -544,6 +545,7 @@ prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
 prod-uecupa.chaperone.lumindigitalhosting.com CNAME .
+prod-university.chaperone.lumindigitalhosting.com CNAME .
 prod-utenn.chaperone.lumindigitalhosting.com CNAME .
 prod-vantage.chaperone.lumindigitalhosting.com CNAME .
 profiling.cmo.cibc.com CNAME .
@@ -639,6 +641,7 @@ stat.bluorbank.lv CNAME .
 static.bc-cdn.io CNAME .
 static.fairstone.ca CNAME .
 static.sb-cdn.io CNAME .
+static.yg-cdn.io CNAME .
 stats.badoostats.com CNAME .
 stats.dell.com CNAME .
 sub-a.crossmeetz.com CNAME .
@@ -763,7 +766,6 @@ tm.creditcheck.illion.co.nz CNAME .
 tm.creditcheck.illion.com.au CNAME .
 tm.creditprotect.illion.com.au CNAME .
 tm.creditsimple.co.nz CNAME .
-tm.creditsimple.com.au CNAME .
 tm.cybersource.com CNAME .
 tm.directly.com CNAME .
 tm.fanduel.com CNAME .
@@ -783,9 +785,11 @@ tm.solidgate.com CNAME .
 tm.stats.home24.at CNAME .
 tm.stats.home24.de CNAME .
 tm.stats.home24.it CNAME .
+tm.stats.home24.nl CNAME .
 tm.stoiximan.gr CNAME .
 tm.summit-services.ca CNAME .
 tm.tbcbank.uz CNAME .
+tm.teambeachbody.com CNAME .
 tm.telecharge.com CNAME .
 tm.uship.com CNAME .
 tma.caffeine.tv CNAME .

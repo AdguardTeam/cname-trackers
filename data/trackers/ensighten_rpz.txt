@@ -15,10 +15,12 @@ activate.courant.com CNAME .
 activate.dailypress.com CNAME .
 activate.dailysouthtown.com CNAME .
 activate.delmartimes.net CNAME .
+activate.elgincouriernews.com CNAME .
 activate.encinitasadvocate.com CNAME .
 activate.ferguson.com CNAME .
 activate.gio.com.au CNAME .
 activate.growthspotter.com CNAME .
+activate.howardcountytimes.com CNAME .
 activate.hoylosangeles.com CNAME .
 activate.lajollalight.com CNAME .
 activate.lanebryant.com CNAME .
@@ -190,7 +192,9 @@ ens.nidwaldnerzeitung.ch CNAME .
 ens.nzz.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.themarket.ch CNAME .
+ens.trauerportal-ostschweiz.ch CNAME .
 ens.urnerzeitung.ch CNAME .
+ens.zugerzeitung.ch CNAME .
 ensighten.airnewzealand.co.uk CNAME .
 ensighten.bhphoto.com CNAME .
 ensighten.ccnag.com CNAME .
@@ -246,6 +250,7 @@ privacy.gemfinance.co.nz CNAME .
 privacy.genoapay.com CNAME .
 privacy.gomastercard.com.au CNAME .
 privacy.heineken.it CNAME .
+privacy.heishop.com.br CNAME .
 privacy.latitudefinancial.com CNAME .
 privacy.latitudefinancial.com.au CNAME .
 privacy.latitudepay.com CNAME .
@@ -293,6 +298,7 @@ tags.aljazeera.net CNAME .
 tags.aumago.com CNAME .
 tags.experian.co.uk CNAME .
 tags.hickies.com CNAME .
+tags.hickies.eu CNAME .
 tags.kone.com CNAME .
 tags.wyndhamhotels.com CNAME .
 tam.volkswagen.com CNAME .

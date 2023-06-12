@@ -122,6 +122,7 @@ trackv-test.esearchvision.com CNAME .
 tv-test.esvdigital.com CNAME .
 twiz.wizaly.co.uk CNAME .
 twiz.wizaly.fr CNAME .
+wiz.empowerhearing.com CNAME .
 wiz.ghostbed.com CNAME .
 wiz.sncf-connect.com CNAME .
 wz.allianz.fr CNAME .

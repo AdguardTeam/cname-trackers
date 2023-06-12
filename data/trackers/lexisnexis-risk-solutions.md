@@ -191,6 +191,7 @@
     * h-ce5udwb7.online-metrix.net
     * h-certifid.online-metrix.net
     * h-ceurt9zj.online-metrix.net
+    * h-cgfjrfto.online-metrix.net
     * h-charter.online-metrix.net
     * h-chase.online-metrix.net
     * h-chegg.online-metrix.net
@@ -242,6 +243,7 @@
     * h-content.rodanandfields.online-metrix.net
     * h-coombeus1.online-metrix.net
     * h-coutts.online-metrix.net
+    * h-couttscrowndependencies.online-metrix.net
     * h-cox.online-metrix.net
     * h-cpuoahbo.online-metrix.net
     * h-credilikeme.online-metrix.net
@@ -645,6 +647,7 @@
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-uecupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-university.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-utenn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-vantage.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | matrix.cpg.org | h-1qpcog32.online-metrix.net |
@@ -776,6 +779,7 @@
 | analytics.vaxvacationaccess.com | h-analytics.triseptsolutions.online-metrix.net |
 | static.sb-cdn.io | h-anfd5tjw-2.online-metrix.net |
 | static.bc-cdn.io | h-anfd5tjw-3.online-metrix.net |
+| static.yg-cdn.io | h-anfd5tjw-3.online-metrix.net |
 | onlineapplications.anz.com | h-anzonlineapps.online-metrix.net |
 | cdn3.moneycorp.com | h-api-sb.online-metrix.net |
 | content.apruvd.com | h-apruvd.online-metrix.net |
@@ -801,6 +805,7 @@
 | banque.banque-casino.fr | h-banquecasino.online-metrix.net |
 | tm.barstoolsportsbook.com | h-barstoolsportsbook.online-metrix.net |
 | tm.beachbody.com | h-beachbody.online-metrix.net |
+| tm.teambeachbody.com | h-beachbody.online-metrix.net |
 | tm.benevity.org | h-benevity.online-metrix.net |
 | content.berluti.com | h-berluti.online-metrix.net |
 | tmx.bestbuy.com | h-bestbuy.online-metrix.net |
@@ -835,7 +840,6 @@
 | abc.pulsebet.com | h-buzyvpj9.online-metrix.net |
 | tmxjs.tokyodisneyresort.jp | h-bw1fkozp.online-metrix.net |
 | content.koalafi.com | h-c3xmpcvr.online-metrix.net |
-| lndata.labor.maryland.gov | h-c70ghtsb.online-metrix.net |
 | lndata.labor.md.gov | h-c70ghtsb.online-metrix.net |
 | content.olympus.ao.com | h-c7f45hl1-ao.online-metrix.net |
 | scontent.fluid.co.uk | h-c7f45hl1-fluid.online-metrix.net |
@@ -881,6 +885,7 @@
 | cdnm.sts.pl | h-ce5udwb7.online-metrix.net |
 | content.certifid.com | h-certifid.online-metrix.net |
 | device.invoice2go.com | h-ceurt9zj.online-metrix.net |
+| content.nebraska.gov | h-cgfjrfto.online-metrix.net |
 | pov.spectrum.net | h-charter.online-metrix.net |
 | h.chase.co.uk | h-chase.online-metrix.net |
 | venus.chegg.com | h-chegg.online-metrix.net |
@@ -944,6 +949,7 @@
 | cdntm.rodanandfields.com | h-content.rodanandfields.online-metrix.net |
 | img.lascana.nl | h-coombeus1.online-metrix.net |
 | pn1927.coutts.com | h-coutts.online-metrix.net |
+| pn1927.couttscrowndependencies.com | h-couttscrowndependencies.online-metrix.net |
 | tm.cox.com | h-cox.online-metrix.net |
 | rhino.gocardless.com | h-cpuoahbo.online-metrix.net |
 | appscore.credilike.me | h-credilikeme.online-metrix.net |
@@ -980,7 +986,6 @@
 | fp.disney.go.com | h-disney.online-metrix.net |
 | lpo.unionbank.com | h-dlp-unionbank.online-metrix.net |
 | tm.creditsimple.co.nz | h-dnb.online-metrix.net |
-| tm.creditsimple.com.au | h-dnb.online-metrix.net |
 | acsweb-3dr1.dnp-cdms.jp | h-dnp-cdms.online-metrix.net |
 | tmximg.draftkings.com | h-draftkings.online-metrix.net |
 | content.wizink.es | h-drav45kl.online-metrix.net |
@@ -1085,6 +1090,7 @@
 | tm.stats.home24.at | h-home24.online-metrix.net |
 | tm.stats.home24.de | h-home24.online-metrix.net |
 | tm.stats.home24.it | h-home24.online-metrix.net |
+| tm.stats.home24.nl | h-home24.online-metrix.net |
 | tmcdn.homeaway.com | h-homeaway2.online-metrix.net |
 | customer.homedepot.com | h-homedepot.online-metrix.net |
 | tmt.houzz.com | h-houzz.online-metrix.net |

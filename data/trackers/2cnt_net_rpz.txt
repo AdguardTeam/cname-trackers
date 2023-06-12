@@ -27,6 +27,7 @@ vg07.met.vgwort.de CNAME .
 vg09.met.vgwort.de CNAME .
 wiley.met.vgwort.de CNAME .
 zeit.met.vgwort.de CNAME .
+aabybrop.tns-gallup.dk CNAME .
 aktienyt.tns-gallup.dk CNAME .
 aktivtraening.tns-gallup.dk CNAME .
 alt.tns-gallup.dk CNAME .
@@ -188,6 +189,7 @@ ing.tns-gallup.dk CNAME .
 itjobindex.tns-gallup.dk CNAME .
 itwatch.tns-gallup.dk CNAME .
 jobbank.tns-gallup.dk CNAME .
+jobindex.tns-gallup.dk CNAME .
 journalisten.tns-gallup.dk CNAME .
 jubii.tns-gallup.dk CNAME .
 juicyplay.tns-gallup.dk CNAME .
@@ -218,6 +220,7 @@ pricerunner.tns-gallup.dk CNAME .
 realityportalen.tns-gallup.dk CNAME .
 rejseplanen.tns-gallup.dk CNAME .
 samvirke.tns-gallup.dk CNAME .
+seoghoer.tns-gallup.dk CNAME .
 shippingwatch.tns-gallup.dk CNAME .
 sindala.tns-gallup.dk CNAME .
 sjovforborn.tns-gallup.dk CNAME .

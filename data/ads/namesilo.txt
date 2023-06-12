@@ -547,6 +547,7 @@
 ||3607715.notify6.com^
 ||3607715.notifysrv.com^
 ||3613299.notifysrv.com^
+||3617853.notify6.com^
 ||3618939.notify6.com^
 ||3618945.notify6.com^
 ||3619313.notify6.com^
@@ -602,6 +603,7 @@
 ||3768747.notify6.com^
 ||3768747.notifysrv.com^
 ||3775247.notifysrv.com^
+||3783121.notify6.com^
 ||3783123.notifysrv.com^
 ||3783125.notifysrv.com^
 ||3789703.notifysrv.com^
@@ -707,6 +709,7 @@
 ||4069896.notify6.com^
 ||4069900.notify6.com^
 ||4093684.notify6.com^
+||4093704.notify6.com^
 ||4096386.notify6.com^
 ||4097564.notify6.com^
 ||4097566.notify6.com^
@@ -838,7 +841,6 @@
 ||_sips._tcp.3323174.notifysrv.com^
 ||a.a3ion.com^
 ||a.ad.guru^
-||a.addisplaynetwork.com^
 ||a.paradoxgroup.uk^
 ||a.redpathmedia.com^
 ||a.stuffserve.com^
@@ -933,6 +935,7 @@
 ||syndication.realsrv.com^
 ||syndication.whibd.com^
 ||syndication.whibp.com^
+||a.addisplaynetwork.com^
 ||a.adnflow.com^
 ||a.asvsm.com^
 ||a.bizonads-ssp.com^

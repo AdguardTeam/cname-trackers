@@ -31,6 +31,7 @@ affil.dotykacka.cz CNAME .
 affil.econea.cz CNAME .
 affil.eshop-rychle.cz CNAME .
 affil.exkluzivita.cz CNAME .
+affil.fingood.cz CNAME .
 affil.fit-pro.cz CNAME .
 affil.gamlery.cz CNAME .
 affil.gentleport.cz CNAME .
@@ -65,6 +66,7 @@ affil.stastnavovztahu.sk CNAME .
 affil.stronger-shop.cz CNAME .
 affil.supervykon.cz CNAME .
 affil.svj-info.cz CNAME .
+affil.swisstoner.cz CNAME .
 affil.tadytuto.cz CNAME .
 affil.trikator.cz CNAME .
 affil.triko4u.cz CNAME .
@@ -103,6 +105,7 @@ affiliate.bestdrink.cz CNAME .
 affiliate.bezvatriko.cz CNAME .
 affiliate.bezvatriko.sk CNAME .
 affiliate.bikeplan.org CNAME .
+affiliate.biooo.cz CNAME .
 affiliate.bitcoinzmenaren.sk CNAME .
 affiliate.canatura.com CNAME .
 affiliate.cannyapp.cz CNAME .
@@ -170,12 +173,15 @@ affiliate.ladylab.sk CNAME .
 affiliate.lasamba.cz CNAME .
 affiliate.lasun.cz CNAME .
 affiliate.lentiamo.bg CNAME .
+affiliate.lentiamo.ch CNAME .
 affiliate.lentiamo.co.uk CNAME .
 affiliate.lentiamo.es CNAME .
 affiliate.lentiamo.fr CNAME .
 affiliate.lentiamo.se CNAME .
 affiliate.levnoshop.cz CNAME .
+affiliate.levsalonu.cz CNAME .
 affiliate.lg-store.cz CNAME .
+affiliate.licit.cz CNAME .
 affiliate.loveo.cz CNAME .
 affiliate.manvel.cz CNAME .
 affiliate.martinreznicek.cz CNAME .
@@ -208,6 +214,7 @@ affiliate.portu.cz CNAME .
 affiliate.postel.cz CNAME .
 affiliate.pouziteiphony.cz CNAME .
 affiliate.pravopropodnikatele.cz CNAME .
+affiliate.prodietix.cz CNAME .
 affiliate.pt-shop.cz CNAME .
 affiliate.rajkratomu.cz CNAME .
 affiliate.reponio.cz CNAME .
@@ -221,6 +228,7 @@ affiliate.smarty.cz CNAME .
 affiliate.smsticket.cz CNAME .
 affiliate.snowbitch.cz CNAME .
 affiliate.socialsprinters.cz CNAME .
+affiliate.soscredit.cz CNAME .
 affiliate.sportinator.cz CNAME .
 affiliate.stanislavamrazkova.cz CNAME .
 affiliate.stibio.cz CNAME .
@@ -416,6 +424,7 @@ partner.chcivedet.com CNAME .
 partner.chevronnutrition.cz CNAME .
 partner.chiashake.cz CNAME .
 partner.chilimarket.cz CNAME .
+partner.chytrydopravce.cz CNAME .
 partner.cocochocokeratin.cz CNAME .
 partner.cokoladovnajanek.cz CNAME .
 partner.colway.cz CNAME .
@@ -443,6 +452,7 @@ partner.dr-nek.cz CNAME .
 partner.dripit.cz CNAME .
 partner.dynamikabohatstvi.cz CNAME .
 partner.eandilek.cz CNAME .
+partner.ecomail.cz CNAME .
 partner.econea.cz CNAME .
 partner.edutu.cz CNAME .
 partner.epravo.cz CNAME .
@@ -509,6 +519,7 @@ partner.ltx.cz CNAME .
 partner.luckyalvin.cz CNAME .
 partner.lyzelyze.cz CNAME .
 partner.malujpodlecisel.cz CNAME .
+partner.marandy.cz CNAME .
 partner.marspom.cz CNAME .
 partner.martinreznicek.cz CNAME .
 partner.massivo.cz CNAME .
@@ -540,6 +551,7 @@ partner.ocuway.cz CNAME .
 partner.olivie.cz CNAME .
 partner.olivie.sk CNAME .
 partner.olivum.cz CNAME .
+partner.onlinepriznanie.sk CNAME .
 partner.ozogan.cz CNAME .
 partner.parfemy-parfumeur.cz CNAME .
 partner.perfect-dress.eu CNAME .
@@ -714,6 +726,7 @@ partneri.smartemailing.cz CNAME .
 partneri.smyslovy-pruzkumnik.cz CNAME .
 partneri.sportfotbal.cz CNAME .
 partneri.sportmentor.cz CNAME .
+partneri.sterixretro.cz CNAME .
 partneri.supportbox.cz CNAME .
 partneri.sviicka.cz CNAME .
 partneri.tanahavlickova.cz CNAME .

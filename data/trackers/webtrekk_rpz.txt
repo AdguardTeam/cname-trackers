@@ -258,6 +258,7 @@ web.email.farrow-ball.com CNAME .
 web.email.pmtonline.co.uk CNAME .
 web.email.principality.co.uk CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
+web.email.zone3.com CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .
 web.friends.ellaskitchen.co.uk CNAME .
@@ -298,6 +299,7 @@ web.newsletter.viviennewestwood.com CNAME .
 web.online.monnalisa.com CNAME .
 web.pages.lloydspharmacy.com CNAME .
 web.sensilab.com CNAME .
+web.sensilab.cz CNAME .
 web.sensilab.de CNAME .
 web.sensilab.ie CNAME .
 web.sensilab.it CNAME .

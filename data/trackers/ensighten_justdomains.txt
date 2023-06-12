@@ -15,10 +15,12 @@ activate.courant.com
 activate.dailypress.com
 activate.dailysouthtown.com
 activate.delmartimes.net
+activate.elgincouriernews.com
 activate.encinitasadvocate.com
 activate.ferguson.com
 activate.gio.com.au
 activate.growthspotter.com
+activate.howardcountytimes.com
 activate.hoylosangeles.com
 activate.lajollalight.com
 activate.lanebryant.com
@@ -190,7 +192,9 @@ ens.nidwaldnerzeitung.ch
 ens.nzz.ch
 ens.tagblatt.ch
 ens.themarket.ch
+ens.trauerportal-ostschweiz.ch
 ens.urnerzeitung.ch
+ens.zugerzeitung.ch
 ensighten.airnewzealand.co.uk
 ensighten.bhphoto.com
 ensighten.ccnag.com
@@ -246,6 +250,7 @@ privacy.gemfinance.co.nz
 privacy.genoapay.com
 privacy.gomastercard.com.au
 privacy.heineken.it
+privacy.heishop.com.br
 privacy.latitudefinancial.com
 privacy.latitudefinancial.com.au
 privacy.latitudepay.com
@@ -293,6 +298,7 @@ tags.aljazeera.net
 tags.aumago.com
 tags.experian.co.uk
 tags.hickies.com
+tags.hickies.eu
 tags.kone.com
 tags.wyndhamhotels.com
 tam.volkswagen.com

@@ -17,7 +17,6 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
-refer.aol.com CNAME .
 refer.app.com CNAME .
 refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
@@ -28,6 +27,7 @@ refer.bowflex.com CNAME .
 refer.calstate.aaa.com CNAME .
 refer.carbonite.com CNAME .
 refer.checkngo.com CNAME .
+refer.citizen-times.com CNAME .
 refer.clarionledger.com CNAME .
 refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
@@ -117,7 +117,6 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -133,6 +132,7 @@ my.kotn.com CNAME .
 pals.petco.com CNAME .
 promos.zinli.com CNAME .
 q.share.qvcemail.com CNAME .
+recommander.quickbooks.ca CNAME .
 refer-photo.cvs.com CNAME .
 refer-staging.freshly.com CNAME .
 refer-us.uniqlo.com CNAME .
@@ -143,6 +143,7 @@ refer.abacusnext.com CNAME .
 refer.acornonline.com CNAME .
 refer.akcpetinsurance.com CNAME .
 refer.algaecal.com CNAME .
+refer.allenedmonds.com CNAME .
 refer.americanmusical.com CNAME .
 refer.amerisleep.com CNAME .
 refer.art.com CNAME .
@@ -273,6 +274,7 @@ refer.mpgsport.ca CNAME .
 refer.mpgsport.com CNAME .
 refer.myheritagedna.com CNAME .
 refer.narscosmetics.com CNAME .
+refer.naturalizer.com CNAME .
 refer.netrinc.com CNAME .
 refer.newbalance.ca CNAME .
 refer.nfhsnetwork.com CNAME .
@@ -355,6 +357,7 @@ refer.vincecamuto.com CNAME .
 refer.vitaminpacks.com CNAME .
 refer.vitaminshoppe.com CNAME .
 refer.whitehouseblackmarket.com CNAME .
+refer.windsorstore.com CNAME .
 refer.wine.com CNAME .
 refer.wolverine.com CNAME .
 refer.xpressmoneyonline.com CNAME .
@@ -423,6 +426,7 @@ share.courierpostonline.com CNAME .
 share.credible.com CNAME .
 share.creditninja.com CNAME .
 share.cwbank.com CNAME .
+share.dailypay.com CNAME .
 share.dave.com CNAME .
 share.delawareonline.com CNAME .
 share.dermablend.com CNAME .
@@ -434,6 +438,7 @@ share.dslaboratories.com CNAME .
 share.dunlopsports.com CNAME .
 share.dutch.com CNAME .
 share.elpasotimes.com CNAME .
+share.elysiumhealth.com CNAME .
 share.empathywines.com CNAME .
 share.enterprisenews.com CNAME .
 share.esteelauder.co.kr CNAME .
@@ -532,6 +537,7 @@ share.roots.com CNAME .
 share.ross-simons.com CNAME .
 share.rspure.com CNAME .
 share.rvshare.com CNAME .
+share.s4.levi-site.com CNAME .
 share.saintjanebeauty.com CNAME .
 share.securityplusfcu.org CNAME .
 share.shoptruespirit.com CNAME .
@@ -582,4 +588,6 @@ share.zebit.com CNAME .
 share.zenbusiness.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
+em8561.go2bank.com CNAME .
+refer.aol.com CNAME .
 sftp.extole.com CNAME .

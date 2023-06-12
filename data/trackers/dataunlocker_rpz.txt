@@ -50,6 +50,7 @@ bigbtmbvdzda.freelancer.taxmachine.be CNAME .
 cihnqp6p65.koinly.io CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
+csd5ykvyf5v2.kvest.ee CNAME .
 cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
 din1j0su0u99.artwallstreet.io CNAME .
 dlziqh9bo7.boring.fm CNAME .
@@ -61,6 +62,7 @@ f0tiojboxnc1.bitdomain.biz CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
 fyznhp8inq9x.jaywilsonwebsolutions.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
+gvmomuqjv1.swyftx.com CNAME .
 hht8m6w8mnug.quine.sh CNAME .
 i0e6asb0fj5y.www.emanualonline.com CNAME .
 ilkk97e98lvg.www.sidsplumbing.ie CNAME .

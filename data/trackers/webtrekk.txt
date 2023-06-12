@@ -258,6 +258,7 @@
 ||web.email.pmtonline.co.uk^
 ||web.email.principality.co.uk^
 ||web.email.theindependentpharmacy.co.uk^
+||web.email.zone3.com^
 ||web.emails.elc.co.uk^
 ||web.emails.thetoyshop.com^
 ||web.friends.ellaskitchen.co.uk^
@@ -298,6 +299,7 @@
 ||web.online.monnalisa.com^
 ||web.pages.lloydspharmacy.com^
 ||web.sensilab.com^
+||web.sensilab.cz^
 ||web.sensilab.de^
 ||web.sensilab.ie^
 ||web.sensilab.it^

@@ -46,6 +46,7 @@ tr.asp00a0.espmp-cufr.net CNAME .
 tr.asp00a1.espmp-agfr.net CNAME .
 tr.asp00a3.espmp-agfr.net CNAME .
 tr.asp00a6.espmp-nifr.net CNAME .
+tr.asp00ah.espmp-nifr.net CNAME .
 tr.asp1.espmp-agfr.net CNAME .
 tr.asp103z.espmp-nifr.net CNAME .
 tr.asp104p.espmp-aufr.net CNAME .
@@ -66,6 +67,7 @@ tr.asp10fp.espmp-nifr.net CNAME .
 tr.asp10ge.espmp-nifr.net CNAME .
 tr.asp10h2.espmp-nifr.net CNAME .
 tr.asp10hc.espmp-aufr.net CNAME .
+tr.asp10hg.espmp-cufr.net CNAME .
 tr.asp10hi.espmp-cufr.net CNAME .
 tr.asp10hj.espmp-pofr.net CNAME .
 tr.asp2.espmp-agfr.net CNAME .
@@ -94,6 +96,7 @@ tr.bern.espmp-nifr.net CNAME .
 tr.bgl.premium-benefits.lu CNAME .
 tr.bienvenue.envie-de-bien-manger.com CNAME .
 tr.bizzquotes.co.uk CNAME .
+tr.bobo.espmp-cufr.net CNAME .
 tr.bodet.devisdirect.com CNAME .
 tr.boletim.companeo.pt CNAME .
 tr.boletim.meu-orcamento.pt CNAME .
@@ -212,6 +215,7 @@ tr.crtl.espmp-aufr.net CNAME .
 tr.cyprusparadiseestates.com CNAME .
 tr.cypruspremiervacations.com CNAME .
 tr.datacom.espmp-pofr.net CNAME .
+tr.demo.np6.com CNAME .
 tr.devis-companeo.be CNAME .
 tr.devis-companeo.com CNAME .
 tr.devis-companeo.fr CNAME .
@@ -240,6 +244,7 @@ tr.directferries.com CNAME .
 tr.dirigeants.harmonie-mutuelle.fr CNAME .
 tr.discover.perfectstay.com CNAME .
 tr.djay.espmp-agfr.net CNAME .
+tr.dnapresse.fr CNAME .
 tr.docapost-sirs.com CNAME .
 tr.dogstrust.org.uk CNAME .
 tr.donateur.afm-telethon.fr CNAME .
@@ -357,6 +362,7 @@ tr.hcahealthcare.co.uk CNAME .
 tr.hello.maisonfoody.com CNAME .
 tr.helloartisan.info CNAME .
 tr.hmut.espmp-agfr.net CNAME .
+tr.holidaycottages.co.uk CNAME .
 tr.impayes.filiassur.com CNAME .
 tr.info-btob-leaders.com CNAME .
 tr.info-carte.fr CNAME .
@@ -365,11 +371,13 @@ tr.info-fr.assurant.com CNAME .
 tr.info-pro.promoneuve.fr CNAME .
 tr.info-strategie.fr CNAME .
 tr.info.actionlogement.fr CNAME .
+tr.info.aeroportdeauville.com CNAME .
 tr.info.ag2rlamondiale.fr CNAME .
 tr.info.aliae.com CNAME .
 tr.info.aprr.fr CNAME .
 tr.info.arialcnp.fr CNAME .
 tr.info.astermod.net CNAME .
+tr.info.aussois.com CNAME .
 tr.info.bessans.com CNAME .
 tr.info.bonneval-sur-arc.com CNAME .
 tr.info.businesscreditcards.bnpparibasfortis.be CNAME .
@@ -423,6 +431,7 @@ tr.info.solidarm.fr CNAME .
 tr.info.svp.com CNAME .
 tr.info.valcenis.com CNAME .
 tr.info.vip-mag.co.uk CNAME .
+tr.info.webikeo.fr CNAME .
 tr.infolettre.securite-routiere.gouv.fr CNAME .
 tr.infolettres.groupama.com CNAME .
 tr.infomarche.hennessy.fr CNAME .
@@ -460,6 +469,7 @@ tr.kommunikation.younited-credit.com CNAME .
 tr.kontakt.younited-credit.com CNAME .
 tr.kpfc.espmp-nifr.net CNAME .
 tr.kpyn.espmp-cufr.net CNAME .
+tr.kpyn02a.espmp-cufr.net CNAME .
 tr.kpyn02f.espmp-cufr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
 tr.laprairie.ifop.com CNAME .
@@ -471,6 +481,7 @@ tr.lettre.dechets-infos.com CNAME .
 tr.lettre.helianthal.fr CNAME .
 tr.lettre.lecho-circulaire.com CNAME .
 tr.leyravaud.devisdirect.com CNAME .
+tr.liberation.espmp-aufr.net CNAME .
 tr.loreal.ifop.com CNAME .
 tr.louisvuittonmalletier.com CNAME .
 tr.louvre-boites.com CNAME .
@@ -542,6 +553,7 @@ tr.mp.aconclue-business.fr CNAME .
 tr.mp.aconclue-entreprise.fr CNAME .
 tr.mp.aconclue-pro.com CNAME .
 tr.mp.actu-pm.fr CNAME .
+tr.mp.infomanageo.fr CNAME .
 tr.mp.ld-man.fr CNAME .
 tr.mydevisentreprise.com CNAME .
 tr.n.ferrero.fr CNAME .
@@ -549,6 +561,7 @@ tr.n.info.cdgp.fr CNAME .
 tr.n.info.sygmabanque.fr CNAME .
 tr.n.kinder.fr CNAME .
 tr.n.nutella.fr CNAME .
+tr.n.tic-tac.fr CNAME .
 tr.nespresso.com CNAME .
 tr.nespresso.mailsservices.com CNAME .
 tr.new.offres-cartegie.fr CNAME .
@@ -556,6 +569,7 @@ tr.news-abweb.com CNAME .
 tr.news-chocolat.com CNAME .
 tr.news-companeo.cl CNAME .
 tr.news-companeo.fr CNAME .
+tr.news-companeo.gr CNAME .
 tr.news-companeo.mx CNAME .
 tr.news-companeo.nl CNAME .
 tr.news-companeo.pl CNAME .
@@ -882,6 +896,7 @@ tr.spain.plimsoll.es CNAME .
 tr.sportperf.np6.fr CNAME .
 tr.strategie.gouv.fr CNAME .
 tr.suivi-client-edf.com CNAME .
+tr.surveys.np6.com CNAME .
 tr.tdgx.espmp-cufr.net CNAME .
 tr.think.lvmh.fr CNAME .
 tr.thisiseurope.moethennessy.com CNAME .
@@ -939,8 +954,10 @@ tr.welcome.odalys-vacances.com CNAME .
 tr.welcome.smartdeals-transavia-fr.com CNAME .
 tr.wuei.espmp-agfr.net CNAME .
 tr.xleads.digital CNAME .
+tr.zojh.espmp-aluk.net CNAME .
 tr1.bp06.net CNAME .
 tr1.citroen-ipsos.com CNAME .
+tr1.easy-v01.net CNAME .
 tr1.lr003.net CNAME .
 tr1.mailperf.com CNAME .
 tr1.mailperformance.com CNAME .

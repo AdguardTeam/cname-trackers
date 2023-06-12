@@ -547,6 +547,7 @@
 3607715.notify6.com CNAME .
 3607715.notifysrv.com CNAME .
 3613299.notifysrv.com CNAME .
+3617853.notify6.com CNAME .
 3618939.notify6.com CNAME .
 3618945.notify6.com CNAME .
 3619313.notify6.com CNAME .
@@ -602,6 +603,7 @@
 3768747.notify6.com CNAME .
 3768747.notifysrv.com CNAME .
 3775247.notifysrv.com CNAME .
+3783121.notify6.com CNAME .
 3783123.notifysrv.com CNAME .
 3783125.notifysrv.com CNAME .
 3789703.notifysrv.com CNAME .
@@ -707,6 +709,7 @@
 4069896.notify6.com CNAME .
 4069900.notify6.com CNAME .
 4093684.notify6.com CNAME .
+4093704.notify6.com CNAME .
 4096386.notify6.com CNAME .
 4097564.notify6.com CNAME .
 4097566.notify6.com CNAME .
@@ -838,7 +841,6 @@ _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.a3ion.com CNAME .
 a.ad.guru CNAME .
-a.addisplaynetwork.com CNAME .
 a.paradoxgroup.uk CNAME .
 a.redpathmedia.com CNAME .
 a.stuffserve.com CNAME .
@@ -933,6 +935,7 @@ syndication.ouzads.com CNAME .
 syndication.realsrv.com CNAME .
 syndication.whibd.com CNAME .
 syndication.whibp.com CNAME .
+a.addisplaynetwork.com CNAME .
 a.adnflow.com CNAME .
 a.asvsm.com CNAME .
 a.bizonads-ssp.com CNAME .

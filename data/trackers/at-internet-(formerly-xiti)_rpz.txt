@@ -53,6 +53,7 @@ hal.courrierinternational.com CNAME .
 hd.pe.fr CNAME .
 hmg.handelsblatt.com CNAME .
 hmg.wiwo.de CNAME .
+hrbitov.viessmann.cz CNAME .
 image.ard.de CNAME .
 image.mdr.de CNAME .
 images.kika.de CNAME .

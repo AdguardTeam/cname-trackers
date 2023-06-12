@@ -2,7 +2,6 @@
 ; Company name: Nativo
 c333.macworld.co.uk CNAME .
 sponsor.syracuse.com CNAME .
-www1.cultivatedknowledge.com CNAME .
 00c0a62f0c.de65e1286b.com CNAME .
 00f62a6f1c.8f0f3b8464.com CNAME .
 01b8624b69.d821929e2d.com CNAME .
@@ -43,6 +42,7 @@ www1.cultivatedknowledge.com CNAME .
 1b6ab23d2c.255b9e74d2.com CNAME .
 1d36ac18b1.5424351d90.com CNAME .
 1d64fb6441.0ec78e0509.com CNAME .
+1e32421487.c9ff2ca544.com CNAME .
 1ed960d6ad.fa479896c7.com CNAME .
 20cbc85129.fc455e7809.com CNAME .
 20ddfbe344.7179c5492e.com CNAME .
@@ -56,6 +56,7 @@ www1.cultivatedknowledge.com CNAME .
 2abf7576ac.4fbe7621b8.com CNAME .
 2b93cd08b5.fd40cd3322.com CNAME .
 2c9ed85c0b.b2acafb3a3.com CNAME .
+2caf7c08e0.fa84f180d1.com CNAME .
 2cb68fec4a.4fde20c235.com CNAME .
 2d56aafb14.8767fbfa8b.com CNAME .
 2efa46ca31.da03ab7249.com CNAME .
@@ -87,6 +88,7 @@ www1.cultivatedknowledge.com CNAME .
 463c285fde.66dbf809af.com CNAME .
 46bdd45622.48b1378f08.com CNAME .
 46fe7fa264.4d2a483049.com CNAME .
+4803b375b0.786eed44f0.com CNAME .
 48c1f78392.31f4ea3b17.com CNAME .
 4909cc6acc.0fc32b5283.com CNAME .
 4b09093915.259576970f.com CNAME .
@@ -95,9 +97,11 @@ www1.cultivatedknowledge.com CNAME .
 4ee283d2af.9f8695e9a4.com CNAME .
 4fc89cba3d.e67df3f29d.com CNAME .
 52292b9db4.e4cd7bbad2.com CNAME .
+52b517df93.d26b092649.com CNAME .
 531a51d349.0d55d13cf1.com CNAME .
 5366c7a4fb.a74242f89f.com CNAME .
 53f90ea18c.ad64463ef9.com CNAME .
+55479d4a4f.e97fff7188.com CNAME .
 55bff2103f.f451b7f622.com CNAME .
 5691f27b38.77176d9509.com CNAME .
 56a7ca381c.a4de9aca80.com CNAME .
@@ -109,8 +113,8 @@ www1.cultivatedknowledge.com CNAME .
 5ab760da26.bf34686748.com CNAME .
 5d4e559c09.4250665e93.com CNAME .
 5e90a3a3f8.85d9d90c71.com CNAME .
+5f50953e05.4a277bbf1a.com CNAME .
 6047f3c601.7ae9fc0b53.com CNAME .
-60e1c77a92.11838aaad0.com CNAME .
 6183c729c7.f145627a09.com CNAME .
 61ba0b3eaa.41166be14c.com CNAME .
 6231146086.4484986022.com CNAME .
@@ -122,7 +126,6 @@ www1.cultivatedknowledge.com CNAME .
 66d7c2e32f.843acfbeb0.com CNAME .
 67116813c6.89504d460b.com CNAME .
 6788b5f0a5.07ab456fe8.com CNAME .
-699e46a3ca.e11c0ad270.com CNAME .
 6ab791d164.d409401d80.com CNAME .
 6aca58cba6.106cdb2259.com CNAME .
 6d39ef5c0b.7002fca3a7.com CNAME .
@@ -226,13 +229,13 @@ bd2ca6c82d.20e2b2c425.com CNAME .
 bdecfb7de6.e2ff92bcf8.com CNAME .
 be14c45da0.3301886f9e.com CNAME .
 beb86406c2.680566accf.com CNAME .
-bee395bc6e.8413c95209.com CNAME .
 bfe70bbd52.23182b9851.com CNAME .
 bfe8a1874d.bdced8843e.com CNAME .
 c0b0be585f.581c933842.com CNAME .
 c14f40b010.3574fd3373.com CNAME .
 c1dfd30227.86c9ac4797.com CNAME .
 c353ac05ea.b0fea47e81.com CNAME .
+c37ed72d5a.f5fd936867.com CNAME .
 c504d3250f.52c9f48b14.com CNAME .
 c5626f808b.36d1ef387c.com CNAME .
 c580712027.ffcc2964d9.com CNAME .
@@ -255,10 +258,10 @@ d387563a79.9a454e6651.com CNAME .
 d3fab9608e.14eb4832a6.com CNAME .
 d6761fc561.f329cba40e.com CNAME .
 d8317a4051.643e108d3f.com CNAME .
-d8761c8727.28b5c12f7e.com CNAME .
 d93a7f2b7e.9c03f2208e.com CNAME .
 da7a33716c.92be9e6be2.com CNAME .
 db06a54c9c.abb357b8cc.com CNAME .
+dd6f5189a3.70ba306f76.com CNAME .
 df3e591f6c.5d8f7f3a02.com CNAME .
 df53ff2b97.bcb3da3ac8.com CNAME .
 dfc8514de8.1ca65f5f5b.com CNAME .
@@ -277,7 +280,6 @@ ea6e4578d7.bdd16c6bbf.com CNAME .
 ead24c804a.5064389743.com CNAME .
 eae4d894cf.d30581a94b.com CNAME .
 eb37b1d1a5.98a54df250.com CNAME .
-eb3d849a7c.e4dbf49f32.com CNAME .
 ee68acd3fc.87a8aa9251.com CNAME .
 eea687acd7.3f6e286046.com CNAME .
 ef7b81b71c.75416fa555.com CNAME .
@@ -298,8 +300,8 @@ fc6150a639.f7e79a5f70.com CNAME .
 fd91b5c89c.fb2d1abede.com CNAME .
 fe8d4b33c2.8abf43d6ad.com CNAME .
 ff04a1538a.ced4d66e2d.com CNAME .
-a235.ctpost.com CNAME .
-a235.gametimect.com CNAME .
+foodandwine.share.ntv.io CNAME .
+fortune.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 a135.fox23.com CNAME .
@@ -324,7 +326,6 @@ cricketwireless.share.ntv.io CNAME .
 csoonline.share.ntv.io CNAME .
 entrepreneur.share.ntv.io CNAME .
 faithinthenews.share.ntv.io CNAME .
-fortune.share.ntv.io CNAME .
 gayety.share.ntv.io CNAME .
 gva.share.ntv.io CNAME .
 hellomagazine.share.ntv.io CNAME .
@@ -352,6 +353,8 @@ wvtm13.share.ntv.io CNAME .
 a135.htvnativeadsolutions.com CNAME .
 a235.chron.com CNAME .
 a235.ctnews.com CNAME .
+a235.ctpost.com CNAME .
+a235.gametimect.com CNAME .
 a235.greenwichtime.com CNAME .
 a235.htvnativeadsolutions.com CNAME .
 a235.lmtonline.com CNAME .
@@ -367,3 +370,4 @@ a235.stamfordadvocate.com CNAME .
 a235.thehour.com CNAME .
 a235.thetelegraph.com CNAME .
 a235.timesunion.com CNAME .
+www1.cultivatedknowledge.com CNAME .

@@ -22,6 +22,7 @@ ad.kddi-fs.com CNAME .
 ad.ordersuit.info CNAME .
 ad.takasu.co.jp CNAME .
 ad.tempstaff.co.jp CNAME .
+ad.theatre.co.jp CNAME .
 ad.theatreacademy.jp CNAME .
 ad.udition.jp CNAME .
 ad1.tone.ne.jp CNAME .
@@ -268,6 +269,7 @@ nlp-japan.life-and-mind.com CNAME .
 os.beauty-health.today CNAME .
 partner.haru-shop.jp CNAME .
 rank.xn--cosme-5c4djcw662edgyc.com CNAME .
+sem.tkc-biyou.jp CNAME .
 seo.tkc110.jp CNAME .
 sep02.hinagiku-life.jp CNAME .
 sinceregarden.sincere-garden.jp CNAME .

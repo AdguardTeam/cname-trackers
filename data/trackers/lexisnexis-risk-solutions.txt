@@ -231,6 +231,7 @@
 ||content.myonlyid.com^
 ||content.mywisely.com^
 ||content.name.com^
+||content.nebraska.gov^
 ||content.netcredit.pl^
 ||content.nubank.com.br^
 ||content.numobile.com.au^
@@ -463,7 +464,6 @@
 ||lab4.lloydsbank.com^
 ||lfp.intuit.com^
 ||ln.meudigio.com.br^
-||lndata.labor.maryland.gov^
 ||lndata.labor.md.gov^
 ||lnths.twc.texas.gov^
 ||lnthxsvc.tsp.gov^
@@ -532,6 +532,7 @@
 ||plr.scb-payments.net^
 ||pn1927.adambank.com^
 ||pn1927.coutts.com^
+||pn1927.couttscrowndependencies.com^
 ||pn1927.natwestplus.com^
 ||portal-fp-qa1.qa.threatmetrix.com^
 ||portal-fp-qa2.qa.threatmetrix.com^
@@ -544,6 +545,7 @@
 ||prod-redwood.chaperone.lumindigitalhosting.com^
 ||prod-sesloc.chaperone.lumindigitalhosting.com^
 ||prod-uecupa.chaperone.lumindigitalhosting.com^
+||prod-university.chaperone.lumindigitalhosting.com^
 ||prod-utenn.chaperone.lumindigitalhosting.com^
 ||prod-vantage.chaperone.lumindigitalhosting.com^
 ||profiling.cmo.cibc.com^
@@ -639,6 +641,7 @@
 ||static.bc-cdn.io^
 ||static.fairstone.ca^
 ||static.sb-cdn.io^
+||static.yg-cdn.io^
 ||stats.badoostats.com^
 ||stats.dell.com^
 ||sub-a.crossmeetz.com^
@@ -763,7 +766,6 @@
 ||tm.creditcheck.illion.com.au^
 ||tm.creditprotect.illion.com.au^
 ||tm.creditsimple.co.nz^
-||tm.creditsimple.com.au^
 ||tm.cybersource.com^
 ||tm.directly.com^
 ||tm.fanduel.com^
@@ -783,9 +785,11 @@
 ||tm.stats.home24.at^
 ||tm.stats.home24.de^
 ||tm.stats.home24.it^
+||tm.stats.home24.nl^
 ||tm.stoiximan.gr^
 ||tm.summit-services.ca^
 ||tm.tbcbank.uz^
+||tm.teambeachbody.com^
 ||tm.telecharge.com^
 ||tm.uship.com^
 ||tma.caffeine.tv^

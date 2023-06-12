@@ -27,6 +27,7 @@
 ||vg09.met.vgwort.de^
 ||wiley.met.vgwort.de^
 ||zeit.met.vgwort.de^
+||aabybrop.tns-gallup.dk^
 ||aktienyt.tns-gallup.dk^
 ||aktivtraening.tns-gallup.dk^
 ||alt.tns-gallup.dk^
@@ -188,6 +189,7 @@
 ||itjobindex.tns-gallup.dk^
 ||itwatch.tns-gallup.dk^
 ||jobbank.tns-gallup.dk^
+||jobindex.tns-gallup.dk^
 ||journalisten.tns-gallup.dk^
 ||jubii.tns-gallup.dk^
 ||juicyplay.tns-gallup.dk^
@@ -218,6 +220,7 @@
 ||realityportalen.tns-gallup.dk^
 ||rejseplanen.tns-gallup.dk^
 ||samvirke.tns-gallup.dk^
+||seoghoer.tns-gallup.dk^
 ||shippingwatch.tns-gallup.dk^
 ||sindala.tns-gallup.dk^
 ||sjovforborn.tns-gallup.dk^

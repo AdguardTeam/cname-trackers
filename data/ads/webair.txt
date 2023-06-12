@@ -1,6 +1,7 @@
 !
 ! Company name: Webair
 ||5stars.yeesshh.com^
+||adk.mybestclick.net^
 ||adk.nativeadsfeed.com^
 ||adkfilter.mybestclick.net^
 ||admin3.danarimedia.com^
@@ -33,6 +34,7 @@
 ||click-rtb2-apac.onenativeads.com^
 ||click-rtb2-apac.t3dsp.com^
 ||click-rtb2-apac.xaprio.net^
+||click-rtb2-eu.afkwa.com^
 ||click-rtb2-eu.convergeselect.net^
 ||click-rtb2-eu.e-volution.ai^
 ||click-rtb2-eu.torchad.com^
@@ -44,6 +46,7 @@
 ||click-rtb2-useast.catapultx.com^
 ||click-rtb2-useast.demandzoo.com^
 ||click-rtb2-useast.e-volution.ai^
+||click-rtb2-useast.newchallenges-dsp.com^
 ||click-rtb2-useast.xaprio.net^
 ||click-rtb2-uswest.afkwa.com^
 ||click-v4.celxkpdir.com^
@@ -61,6 +64,7 @@
 ||click.celxkpdir.com^
 ||click.clkepd.com^
 ||click.directrankcl.com^
+||click.eclk.club^
 ||click.expdirclk.com^
 ||click.expmdiadi.com^
 ||click.expmediadirect.com^
@@ -77,7 +81,6 @@
 ||click.plarimoplus.com^
 ||click.precmd.com^
 ||click.pyrrhicmechntech.com^
-||click.seodollars.com^
 ||clicks.uptownleads.com^
 ||clickv6.expmediadirect1.com^
 ||clickv6.junmediadirect.com^
@@ -113,6 +116,7 @@
 ||cpm.pulsefintech.net^
 ||cpm.pwr-ads.com^
 ||cpm.qksrv.cc^
+||cpm.qortex.ai^
 ||cpm.reachableads.com^
 ||cpm.revlift.io^
 ||cpm.rtbanalytica.com^
@@ -145,7 +149,6 @@
 ||display.rtb-serve.com^
 ||dsp-east.nativeads.com^
 ||dsp-eu.nativeads.com^
-||dsp-static.nativeads.com^
 ||dsp-west.nativeads.com^
 ||dsp.adcountymedia.com^
 ||dsp.adhunter.media^
@@ -161,7 +164,6 @@
 ||exchange.adkernel.com^
 ||exchange.nativeads.com^
 ||feed.clickmenia.com^
-||feed.seodollars.com^
 ||filter-eu.adoperatorx.com^
 ||filter-eu.adright.co^
 ||filter-eu.adsupplyexchange.com^
@@ -189,6 +191,7 @@
 ||filter.adcy.net^
 ||filter.adflores.com^
 ||filter.adflydsp.com^
+||filter.adflyer.media^
 ||filter.adhunter.media^
 ||filter.adjux.com^
 ||filter.adkmbc.com^
@@ -349,7 +352,6 @@
 ||infospace-val.looksmart.com^
 ||inventory-useast.rtbanalytica.com^
 ||ipverifier.additionalmedia.com^
-||jfilter.seodollars.com^
 ||jfilter.vespymedia.com^
 ||join.finevisit.com^
 ||leads.uptownleads.com^
@@ -366,12 +368,15 @@
 ||login.acertb.com^
 ||login.ad-maven.com^
 ||login.additionalmedia.com^
+||login.adflores.com^
 ||login.adflyer.media^
 ||login.adjux.com^
 ||login.admanmedia.com^
+||login.admetix.com^
 ||login.admozartppc.com^
 ||login.admozartxml.com^
 ||login.adopt.media^
+||login.adpalladium.com^
 ||login.adright.com^
 ||login.ads9.com^
 ||login.adsbuyclick.com^
@@ -383,6 +388,7 @@
 ||login.bidrev.com^
 ||login.blueparrot.media^
 ||login.clicktoring.com^
+||login.clixcrafts.com^
 ||login.clixforads.com^
 ||login.clixwells.com^
 ||login.convertise.io^
@@ -405,6 +411,7 @@
 ||login.revrtb.com^
 ||login.rtbdemand.com^
 ||login.saturndynamic.pt^
+||login.showcasead.com^
 ||login.topclickpick.com^
 ||login.topdealad.com^
 ||login.trafficmoose.com^
@@ -443,7 +450,6 @@
 ||push.pushub.net^
 ||push.revrtb.com^
 ||push.rocoads.com^
-||push.seodollars.com^
 ||push.trafficmoose.com^
 ||push.userwave.com^
 ||push.webmedxml.com^
@@ -455,11 +461,11 @@
 ||redir.sunnyshore.xyz^
 ||redir.tropicalsands.club^
 ||redir.tropicalsummer.xyz^
-||report.seodollars.com^
 ||results.certifyads.com^
 ||results.checkshield.net^
 ||results.clickverifier.online^
 ||rtb-apac-v4.broadadx.com^
+||rtb-apac.adportmedia.com^
 ||rtb-apac.adsolut.in^
 ||rtb-apac.adxfactory.com^
 ||rtb-apac.andbeyond.media^
@@ -531,6 +537,7 @@
 ||rtb-useast-v4.cranberryads.com^
 ||rtb-useast-v4.datadrives.ai^
 ||rtb-useast-v4.ezmob.com^
+||rtb-useast-v4.marketiq.com^
 ||rtb-useast-v4.mobipromote.com^
 ||rtb-useast-v4.sahrel-server.com^
 ||rtb-useast-v4.vuukle.net^
@@ -717,23 +724,20 @@
 ||serve.datacygnal.io^
 ||sm-rtb-useast.zmdvideo.com^
 ||static-analytics.nativeads.com^
-||static-rtb.adksrv.com^
 ||static-rtb2.afkwa.com^
 ||static-rtb2.demandzoo.com^
 ||static-rtb2.jambojar.com^
 ||static-rtb2.newchallenges-dsp.com^
 ||static-rtb2.xaprio.net^
-||static.100conversions.com^
+||static.adbite.com^
 ||static.adcannyxml.com^
+||static.adcy.net^
 ||static.admeridianads.com^
 ||static.admidainsight.com^
-||static.adoptim.com^
+||static.adop.co^
 ||static.adright.co^
 ||static.advlistings.com^
 ||static.adwooo.com^
-||static.amgadserver.com^
-||static.analytics.nativeads.com^
-||static.anytheengmedia.com^
 ||static.app-shake.com^
 ||static.audiencesignal.com^
 ||static.bid-engine.com^
@@ -742,19 +746,21 @@
 ||static.foremedia.net^
 ||static.fstsrv1.com^
 ||static.fstsrv2.com^
+||static.hueadsxml.com^
 ||static.openrtb.in^
 ||static.outpush.net^
 ||static.pdn-1.com^
 ||static.pressize.com^
 ||static.pushub.net^
+||static.qksrv.biz^
 ||static.qksrv1.com^
 ||static.realtime-bid.com^
 ||static.reklama.network^
 ||static.rocoads.com^
-||static.rtbidhost.com^
 ||static.rtbserve.io^
 ||static.rtbwire.com^
 ||static.theardent.group^
+||static.trafficmoose.com^
 ||static.webmedxml.com^
 ||sub.adzgame.com^
 ||sv-pval.looksmart.com^
@@ -795,6 +801,7 @@
 ||vid-rtb-sg.xapads.com^
 ||vid-rtb-uswest.xapads.com^
 ||vid-rtb.xapads.com^
+||vid-static.xapads.com^
 ||vsv-val.looksmart.com^
 ||webferret-val.looksmart.com^
 ||webpush.adjux.com^
@@ -824,6 +831,7 @@
 ||win-rtb2-useast.africonverse.com^
 ||win-rtb2-useast.assemblyexchange.com^
 ||win-rtb2-useast.e-volution.ai^
+||win-rtb2-useast.marketiq.com^
 ||win-rtb2-useast.programmatics.net^
 ||win-rtb2-useast.userwave.com^
 ||win-rtb2-useast.waardex.com^
@@ -954,6 +962,7 @@
 ||xml-v4.gipostart-1.co^
 ||xml-v4.gipostart-2.co^
 ||xml-v4.goclickz.net^
+||xml-v4.hawkads.in^
 ||xml-v4.hetcash.com^
 ||xml-v4.klapads.com^
 ||xml-v4.kunvertads.com^
@@ -1201,7 +1210,10 @@
 ||xmlv4.mobuppsrtb.com^
 ||xmlv4.reklama.network^
 ||akcdn.nativeadsfeed.com^
+||static.analytics.nativeads.com^
+||dsp-static.nativeads.com^
 ||static-rtb.adhunter.media^
+||static-rtb.adksrv.com^
 ||static-rtb.engagesimply.com^
 ||static-rtb.waardex.com^
 ||static-rtb2.adpix.online^
@@ -1215,11 +1227,10 @@
 ||static-rtb2.programmatics.net^
 ||static-rtb2.t3dsp.com^
 ||static-rtb2.torchad.com^
+||static.100conversions.com^
 ||static.ad-maven.com^
 ||static.bidderleader.com^
 ||static.win-bidding.com^
-||static.adbite.com^
-||static.adcy.net^
 ||static.additionaldisplay.com^
 ||static.adflydsp.com^
 ||static.adflyer.media^
@@ -1229,15 +1240,16 @@
 ||static.admozartppc.com^
 ||static.admozartxml.com^
 ||static.adokutcontextual.com^
-||static.adop.co^
 ||static.adoperatorx.com^
+||static.adoptim.com^
 ||static.adqva.com^
-||static.qksrv.biz^
 ||static.qksrv.cc^
 ||static.adsfloow.net^
 ||static.adsolut.in^
 ||static.adzestocp.com^
 ||static.africonverse.com^
+||static.amgadserver.com^
+||static.anytheengmedia.com^
 ||static.arbigo.com^
 ||static.bliss91.com^
 ||static.catapultx.com^
@@ -1257,7 +1269,6 @@
 ||static.hetcash.com^
 ||static.houseofpubs.com^
 ||static.hueads.com^
-||static.hueadsxml.com^
 ||static.icyads.com^
 ||static.jadspro.live^
 ||static.kraigcontent.com^
@@ -1269,7 +1280,6 @@
 ||static.melozen.com^
 ||static.mobipromote.com^
 ||static.online-adnetwork.com^
-||vid-static.xapads.com^
 ||static.plarimoplus.com^
 ||static.pressizeteam.com^
 ||static.pulsefintech.net^
@@ -1279,12 +1289,12 @@
 ||static.revrtb.com^
 ||static.rtb-serve.com^
 ||static.rtbdemand.com^
+||static.rtbidhost.com^
 ||static.saturndynamic.pt^
 ||static.serverhost1.com^
 ||static.showcasead.com^
 ||static.topdealad.com^
 ||static.topsolutionsmedia.com^
-||static.trafficmoose.com^
 ||static.tris.com^
 ||static.userwave.com^
 ||static.xmlppc.net^

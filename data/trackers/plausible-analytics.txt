@@ -14,6 +14,7 @@
 ||a.mhthemes.com^
 ||a.remy.world^
 ||a.visitelitoral.com^
+||aloha.getoperand.com^
 ||also.greatsecuritydebate.net^
 ||an.xavierrosee.com^
 ||analytics.adam.page^
@@ -263,6 +264,7 @@
 ||plausible.haltakov.net^
 ||plausible.hellpancake.com^
 ||plausible.help.exploreandcreate.com^
+||plausible.holderbaum-academy.de^
 ||plausible.hopecanebay.com^
 ||plausible.joinself.com^
 ||plausible.k6sbw.net^
@@ -392,6 +394,7 @@
 ||stats.adlperformance.es^
 ||stats.airtrafik.com^
 ||stats.aixbrain.de^
+||stats.akd.io^
 ||stats.albert-kropp-gmbh.de^
 ||stats.alibhai.co^
 ||stats.aligncoaching.ca^
@@ -453,11 +456,13 @@
 ||stats.brianlynnfeldenkrais.ca^
 ||stats.briskoda.net^
 ||stats.broddin.be^
+||stats.brumtechtapas.co.uk^
 ||stats.buddiy.net^
 ||stats.buildingtheelite.com^
 ||stats.bungeefit.co.uk^
 ||stats.buttondown.email^
 ||stats.byma.com.br^
+||stats.byterocket.dev^
 ||stats.cable.tech^
 ||stats.carrot2.org^
 ||stats.carrotsearch.com^
@@ -488,6 +493,7 @@
 ||stats.cohere.so^
 ||stats.coldbox.org^
 ||stats.common-place.art^
+||stats.connect.pm^
 ||stats.consistum.com^
 ||stats.contentwritingjobs.com^
 ||stats.convaise.com^
@@ -524,6 +530,7 @@
 ||stats.devetkomentara.net^
 ||stats.devrain.io^
 ||stats.devskills.co^
+||stats.dexie.me^
 ||stats.dflydev.com^
 ||stats.diarmuidsexton.com^
 ||stats.digiexpert.store^
@@ -536,6 +543,7 @@
 ||stats.doors.live^
 ||stats.dotnetfromthemountain.com^
 ||stats.dotnetos.org^
+||stats.dotplan.io^
 ||stats.doublejones.com^
 ||stats.dreher-dreher.eu^
 ||stats.drewbolles.com^
@@ -543,7 +551,6 @@
 ||stats.drtdentist.ro^
 ||stats.dt-esthetique.ch^
 ||stats.duetcode.io^
-||stats.dvy.io^
 ||stats.earlygame.com^
 ||stats.editorhawes.com^
 ||stats.eedistudio.ie^
@@ -565,6 +572,7 @@
 ||stats.enochian.tech^
 ||stats.equium.io^
 ||stats.erbridge.co.uk^
+||stats.erikinthekitchen.com^
 ||stats.erlef.org^
 ||stats.evenchilada.com^
 ||stats.executebig.org^
@@ -581,7 +589,9 @@
 ||stats.feathercss.makerkits.co^
 ||stats.felipesere.com^
 ||stats.femtobill.com^
+||stats.ferienwohnung-dombrowski.com^
 ||stats.filburg.co^
+||stats.finalrabiesgeneration.org^
 ||stats.flightsphere.com^
 ||stats.florianfritz.net^
 ||stats.flowphantom.com^
@@ -613,6 +623,7 @@
 ||stats.gounified.com^
 ||stats.granot.dev^
 ||stats.graphql-api.com^
+||stats.graphql-by-pop.com^
 ||stats.gravitaswins.com^
 ||stats.greatlakesdesign.co^
 ||stats.groovetrackers.com^
@@ -680,6 +691,7 @@
 ||stats.jpc.dev^
 ||stats.jsbible.com^
 ||stats.jtrees.io^
+||stats.jun-etan.com^
 ||stats.juniperslab.com^
 ||stats.justinwilliams.ca^
 ||stats.kaladyaudiology.com^
@@ -760,7 +772,6 @@
 ||stats.nothingbutnylon.com^
 ||stats.nullsecure.com^
 ||stats.nytecomics.com^
-||stats.obscura-magazine.com^
 ||stats.odysseeseine.org^
 ||stats.officefoosball.com^
 ||stats.offthekerb.com^
@@ -799,8 +810,8 @@
 ||stats.pise-notes.club^
 ||stats.pizzapizza.io^
 ||stats.plainsending.com^
-||stats.plastbest.sk^
 ||stats.poesieundgenuss.com^
+||stats.pointflottant.com^
 ||stats.polekatfitness.com^
 ||stats.poochplaces.dog^
 ||stats.poweringpastcoal.org^
@@ -810,6 +821,7 @@
 ||stats.procumeni.cz^
 ||stats.prodtype.com^
 ||stats.profilehunt.net^
+||stats.project-tampah.com^
 ||stats.projectcongress.com^
 ||stats.psychotherapieravensburg.de^
 ||stats.pubfind.io^
@@ -828,6 +840,7 @@
 ||stats.retro.cz^
 ||stats.revit-content.com^
 ||stats.revitfamily.app^
+||stats.rideinpeace.ie^
 ||stats.rightourhistoryhawaii.com^
 ||stats.robhope.com^
 ||stats.rocketvalidator.com^
@@ -870,6 +883,7 @@
 ||stats.sparkloop.app^
 ||stats.spreadtheworld.net^
 ||stats.sqlteam.com^
+||stats.squaddy.se^
 ||stats.stackingthebricks.com^
 ||stats.stacks.org^
 ||stats.staging.hex.pm^
@@ -887,6 +901,7 @@
 ||stats.thomasvitale.com^
 ||stats.tijdschrift.zenleven.nl^
 ||stats.time2unfold.com^
+||stats.tinkerer.tools^
 ||stats.tms-development.com^
 ||stats.tms-development.de^
 ||stats.toiletmap.org.uk^
@@ -902,7 +917,10 @@
 ||stats.useeffect.dev^
 ||stats.vdsnow.ru^
 ||stats.vertis.io^
+||stats.vican.me^
+||stats.voedingskussen.net^
 ||stats.voltamediahouse.com^
+||stats.wa.derivation.fr^
 ||stats.wachstum.at^
 ||stats.wafflemeido.art^
 ||stats.walkiees.co.uk^
@@ -926,6 +944,7 @@
 ||stats.zimri.net^
 ||sts.authramp.com^
 ||sts.tour-europe.org^
+||stts.sgab-srfp.ch^
 ||t.lastcast.fm^
 ||thumos.fileside.app^
 ||tics.seeker.gg^

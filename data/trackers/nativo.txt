@@ -2,7 +2,6 @@
 ! Company name: Nativo
 ||c333.macworld.co.uk^
 ||sponsor.syracuse.com^
-||www1.cultivatedknowledge.com^
 ||00c0a62f0c.de65e1286b.com^
 ||00f62a6f1c.8f0f3b8464.com^
 ||01b8624b69.d821929e2d.com^
@@ -43,6 +42,7 @@
 ||1b6ab23d2c.255b9e74d2.com^
 ||1d36ac18b1.5424351d90.com^
 ||1d64fb6441.0ec78e0509.com^
+||1e32421487.c9ff2ca544.com^
 ||1ed960d6ad.fa479896c7.com^
 ||20cbc85129.fc455e7809.com^
 ||20ddfbe344.7179c5492e.com^
@@ -56,6 +56,7 @@
 ||2abf7576ac.4fbe7621b8.com^
 ||2b93cd08b5.fd40cd3322.com^
 ||2c9ed85c0b.b2acafb3a3.com^
+||2caf7c08e0.fa84f180d1.com^
 ||2cb68fec4a.4fde20c235.com^
 ||2d56aafb14.8767fbfa8b.com^
 ||2efa46ca31.da03ab7249.com^
@@ -87,6 +88,7 @@
 ||463c285fde.66dbf809af.com^
 ||46bdd45622.48b1378f08.com^
 ||46fe7fa264.4d2a483049.com^
+||4803b375b0.786eed44f0.com^
 ||48c1f78392.31f4ea3b17.com^
 ||4909cc6acc.0fc32b5283.com^
 ||4b09093915.259576970f.com^
@@ -95,9 +97,11 @@
 ||4ee283d2af.9f8695e9a4.com^
 ||4fc89cba3d.e67df3f29d.com^
 ||52292b9db4.e4cd7bbad2.com^
+||52b517df93.d26b092649.com^
 ||531a51d349.0d55d13cf1.com^
 ||5366c7a4fb.a74242f89f.com^
 ||53f90ea18c.ad64463ef9.com^
+||55479d4a4f.e97fff7188.com^
 ||55bff2103f.f451b7f622.com^
 ||5691f27b38.77176d9509.com^
 ||56a7ca381c.a4de9aca80.com^
@@ -109,8 +113,8 @@
 ||5ab760da26.bf34686748.com^
 ||5d4e559c09.4250665e93.com^
 ||5e90a3a3f8.85d9d90c71.com^
+||5f50953e05.4a277bbf1a.com^
 ||6047f3c601.7ae9fc0b53.com^
-||60e1c77a92.11838aaad0.com^
 ||6183c729c7.f145627a09.com^
 ||61ba0b3eaa.41166be14c.com^
 ||6231146086.4484986022.com^
@@ -122,7 +126,6 @@
 ||66d7c2e32f.843acfbeb0.com^
 ||67116813c6.89504d460b.com^
 ||6788b5f0a5.07ab456fe8.com^
-||699e46a3ca.e11c0ad270.com^
 ||6ab791d164.d409401d80.com^
 ||6aca58cba6.106cdb2259.com^
 ||6d39ef5c0b.7002fca3a7.com^
@@ -226,13 +229,13 @@
 ||bdecfb7de6.e2ff92bcf8.com^
 ||be14c45da0.3301886f9e.com^
 ||beb86406c2.680566accf.com^
-||bee395bc6e.8413c95209.com^
 ||bfe70bbd52.23182b9851.com^
 ||bfe8a1874d.bdced8843e.com^
 ||c0b0be585f.581c933842.com^
 ||c14f40b010.3574fd3373.com^
 ||c1dfd30227.86c9ac4797.com^
 ||c353ac05ea.b0fea47e81.com^
+||c37ed72d5a.f5fd936867.com^
 ||c504d3250f.52c9f48b14.com^
 ||c5626f808b.36d1ef387c.com^
 ||c580712027.ffcc2964d9.com^
@@ -255,10 +258,10 @@
 ||d3fab9608e.14eb4832a6.com^
 ||d6761fc561.f329cba40e.com^
 ||d8317a4051.643e108d3f.com^
-||d8761c8727.28b5c12f7e.com^
 ||d93a7f2b7e.9c03f2208e.com^
 ||da7a33716c.92be9e6be2.com^
 ||db06a54c9c.abb357b8cc.com^
+||dd6f5189a3.70ba306f76.com^
 ||df3e591f6c.5d8f7f3a02.com^
 ||df53ff2b97.bcb3da3ac8.com^
 ||dfc8514de8.1ca65f5f5b.com^
@@ -277,7 +280,6 @@
 ||ead24c804a.5064389743.com^
 ||eae4d894cf.d30581a94b.com^
 ||eb37b1d1a5.98a54df250.com^
-||eb3d849a7c.e4dbf49f32.com^
 ||ee68acd3fc.87a8aa9251.com^
 ||eea687acd7.3f6e286046.com^
 ||ef7b81b71c.75416fa555.com^
@@ -298,8 +300,8 @@
 ||fd91b5c89c.fb2d1abede.com^
 ||fe8d4b33c2.8abf43d6ad.com^
 ||ff04a1538a.ced4d66e2d.com^
-||a235.ctpost.com^
-||a235.gametimect.com^
+||foodandwine.share.ntv.io^
+||fortune.share.ntv.io^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 ||a135.fox23.com^
@@ -324,7 +326,6 @@
 ||csoonline.share.ntv.io^
 ||entrepreneur.share.ntv.io^
 ||faithinthenews.share.ntv.io^
-||fortune.share.ntv.io^
 ||gayety.share.ntv.io^
 ||gva.share.ntv.io^
 ||hellomagazine.share.ntv.io^
@@ -352,6 +353,8 @@
 ||a135.htvnativeadsolutions.com^
 ||a235.chron.com^
 ||a235.ctnews.com^
+||a235.ctpost.com^
+||a235.gametimect.com^
 ||a235.greenwichtime.com^
 ||a235.htvnativeadsolutions.com^
 ||a235.lmtonline.com^
@@ -367,3 +370,4 @@
 ||a235.thehour.com^
 ||a235.thetelegraph.com^
 ||a235.timesunion.com^
+||www1.cultivatedknowledge.com^

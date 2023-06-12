@@ -22,6 +22,7 @@ ad.kddi-fs.com
 ad.ordersuit.info
 ad.takasu.co.jp
 ad.tempstaff.co.jp
+ad.theatre.co.jp
 ad.theatreacademy.jp
 ad.udition.jp
 ad1.tone.ne.jp
@@ -268,6 +269,7 @@ nlp-japan.life-and-mind.com
 os.beauty-health.today
 partner.haru-shop.jp
 rank.xn--cosme-5c4djcw662edgyc.com
+sem.tkc-biyou.jp
 seo.tkc110.jp
 sep02.hinagiku-life.jp
 sinceregarden.sincere-garden.jp
