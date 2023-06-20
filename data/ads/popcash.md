@@ -88,6 +88,7 @@
 | angelfish.wpsocialrocket.com | deprecated-custom-domains.b-cdn.net |
 | anglerfish.luminfire.com | deprecated-custom-domains.b-cdn.net |
 | anglerfish.pfolios.net | deprecated-custom-domains.b-cdn.net |
+| ant.prefinery.com | deprecated-custom-domains.b-cdn.net |
 | ant.september.digital | deprecated-custom-domains.b-cdn.net |
 | anteater.audioadventuregame.com | deprecated-custom-domains.b-cdn.net |
 | anteater.slyvon.com | deprecated-custom-domains.b-cdn.net |
@@ -139,6 +140,7 @@
 | beaver.bluebunnypaper.com | deprecated-custom-domains.b-cdn.net |
 | beaver.livechatlabs.com | deprecated-custom-domains.b-cdn.net |
 | bedbug.bragi.com | deprecated-custom-domains.b-cdn.net |
+| bee.andreawhitmer.com | deprecated-custom-domains.b-cdn.net |
 | bee.jbkmobiledj.com | deprecated-custom-domains.b-cdn.net |
 | bee.nfte.app | deprecated-custom-domains.b-cdn.net |
 | bird.brondby.com | deprecated-custom-domains.b-cdn.net |
@@ -169,7 +171,6 @@
 | bobcat.wdng-fotograf.de | deprecated-custom-domains.b-cdn.net |
 | booby.deanyeong.com | deprecated-custom-domains.b-cdn.net |
 | boom.laravel.io | deprecated-custom-domains.b-cdn.net |
-| bovid.arshaw.com | deprecated-custom-domains.b-cdn.net |
 | bovid.docutize.de | deprecated-custom-domains.b-cdn.net |
 | bovid.gbefunwa.com | deprecated-custom-domains.b-cdn.net |
 | bovid.neural.love | deprecated-custom-domains.b-cdn.net |
@@ -267,8 +268,8 @@
 | clownfish.philipkiely.com | deprecated-custom-domains.b-cdn.net |
 | clownfish.wrestlingiq.com | deprecated-custom-domains.b-cdn.net |
 | cobra.michaelkoper.com | deprecated-custom-domains.b-cdn.net |
+| cockroach.head4work.com.au | deprecated-custom-domains.b-cdn.net |
 | cockroach.shellstartupengine.live | deprecated-custom-domains.b-cdn.net |
-| cod.fotis.xyz | deprecated-custom-domains.b-cdn.net |
 | cod.onemanandhisblog.com | deprecated-custom-domains.b-cdn.net |
 | cod.serverlesslaravelcourse.com | deprecated-custom-domains.b-cdn.net |
 | cod.tandartspraktijkjagtkade.nl | deprecated-custom-domains.b-cdn.net |
@@ -304,10 +305,10 @@
 | cuckoo.peoplefirstjobs.com | deprecated-custom-domains.b-cdn.net |
 | cxzp.pjrvs.com | deprecated-custom-domains.b-cdn.net |
 | dakqbwpduu.coywolf.io | deprecated-custom-domains.b-cdn.net |
-| damselfly.bkamz.com | deprecated-custom-domains.b-cdn.net |
 | damselfly.clk.click | deprecated-custom-domains.b-cdn.net |
 | damselfly.creativeclick.com.au | deprecated-custom-domains.b-cdn.net |
 | damselfly.previously.today | deprecated-custom-domains.b-cdn.net |
+| damselfly.vegenook.com | deprecated-custom-domains.b-cdn.net |
 | deer.m1x.co | deprecated-custom-domains.b-cdn.net |
 | deer.ray.io | deprecated-custom-domains.b-cdn.net |
 | dingo.moehring.dev | deprecated-custom-domains.b-cdn.net |
@@ -423,6 +424,7 @@
 | gerbil.buf.build | deprecated-custom-domains.b-cdn.net |
 | gerbil.clapsaddleart.com | deprecated-custom-domains.b-cdn.net |
 | gerbil.recipe-ipsum.com | deprecated-custom-domains.b-cdn.net |
+| giraffe.fnd.info | deprecated-custom-domains.b-cdn.net |
 | giraffe.talktalent.com | deprecated-custom-domains.b-cdn.net |
 | giraffe.viatorci.com | deprecated-custom-domains.b-cdn.net |
 | goat.aicontentdojo.com | deprecated-custom-domains.b-cdn.net |
@@ -435,6 +437,7 @@
 | goldfish.mergeedu.com | deprecated-custom-domains.b-cdn.net |
 | goldfish.shingle.fi | deprecated-custom-domains.b-cdn.net |
 | goldfish.untitledspreadsheet.com | deprecated-custom-domains.b-cdn.net |
+| goose.accountsjs.com | deprecated-custom-domains.b-cdn.net |
 | goose.markerchase.com | deprecated-custom-domains.b-cdn.net |
 | goose.pooltogether.com | deprecated-custom-domains.b-cdn.net |
 | gopher.mina.ca | deprecated-custom-domains.b-cdn.net |
@@ -463,6 +466,7 @@
 | haddock.affilimate.com | deprecated-custom-domains.b-cdn.net |
 | haddock.jeffreyknox.dev | deprecated-custom-domains.b-cdn.net |
 | haddock.simgenie.app | deprecated-custom-domains.b-cdn.net |
+| haddock.stillio.com | deprecated-custom-domains.b-cdn.net |
 | halibut.codehooks.io | deprecated-custom-domains.b-cdn.net |
 | halibut.phytype.com | deprecated-custom-domains.b-cdn.net |
 | hamster.consentkit.io | deprecated-custom-domains.b-cdn.net |
@@ -526,7 +530,6 @@
 | jay.plantainguy.com | deprecated-custom-domains.b-cdn.net |
 | jcpjfyikk.dogbonemarket.com | deprecated-custom-domains.b-cdn.net |
 | jellyfish.therapieplatz-finden.de | deprecated-custom-domains.b-cdn.net |
-| jyrs9ygu4n.consistentme.com | deprecated-custom-domains.b-cdn.net |
 | kangaroo.kraenk.de | deprecated-custom-domains.b-cdn.net |
 | kangaroo.triplightfantastic.com | deprecated-custom-domains.b-cdn.net |
 | kaxlfq.testingwithtestcafe.com | deprecated-custom-domains.b-cdn.net |
@@ -596,6 +599,7 @@
 | lobster.tonebleed.com | deprecated-custom-domains.b-cdn.net |
 | locust.ausrebellion.earth | deprecated-custom-domains.b-cdn.net |
 | locust.michiel-gerritsen.com | deprecated-custom-domains.b-cdn.net |
+| loon.davidalindahl.com | deprecated-custom-domains.b-cdn.net |
 | loon.ohmyfunds.com | deprecated-custom-domains.b-cdn.net |
 | louse.16bit.it | deprecated-custom-domains.b-cdn.net |
 | louse.messengo.com | deprecated-custom-domains.b-cdn.net |
@@ -620,7 +624,6 @@
 | mandrill.phiilu.com | deprecated-custom-domains.b-cdn.net |
 | mantaray.bullshitgoggles.com | deprecated-custom-domains.b-cdn.net |
 | marlin.firstline.org | deprecated-custom-domains.b-cdn.net |
-| marlin.plumerai.com | deprecated-custom-domains.b-cdn.net |
 | marmoset.easycolour.app | deprecated-custom-domains.b-cdn.net |
 | marmot.hippiemodernism.com | deprecated-custom-domains.b-cdn.net |
 | marmot.jfontana.fr | deprecated-custom-domains.b-cdn.net |
@@ -717,10 +720,10 @@
 | panther.tigil.rs | deprecated-custom-domains.b-cdn.net |
 | parakeet.quotetweet.com | deprecated-custom-domains.b-cdn.net |
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
+| parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wilderworld.com | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wus.immo | deprecated-custom-domains.b-cdn.net |
 | partridge.unfamiliar.land | deprecated-custom-domains.b-cdn.net |
-| peacock.davidlevai.com | deprecated-custom-domains.b-cdn.net |
 | peacock.psych.help | deprecated-custom-domains.b-cdn.net |
 | peafowl.projectstrackt.dev | deprecated-custom-domains.b-cdn.net |
 | penguin.mobiadroit.com | deprecated-custom-domains.b-cdn.net |
@@ -753,7 +756,6 @@
 | pony.gugg.at | deprecated-custom-domains.b-cdn.net |
 | porcupine.dvresolve.com | deprecated-custom-domains.b-cdn.net |
 | porcupine.simpleprax.de | deprecated-custom-domains.b-cdn.net |
-| porcupine.wtmap.co | deprecated-custom-domains.b-cdn.net |
 | porpoise.azettl.net | deprecated-custom-domains.b-cdn.net |
 | porpoise.fruittreecottage.com.au | deprecated-custom-domains.b-cdn.net |
 | porpoise.jackwhiting.co.uk | deprecated-custom-domains.b-cdn.net |
@@ -780,7 +782,6 @@
 | quokka.bulkbuyhosting.com | deprecated-custom-domains.b-cdn.net |
 | quokka.curbnumberpro.com | deprecated-custom-domains.b-cdn.net |
 | quokka.joshuawood.net | deprecated-custom-domains.b-cdn.net |
-| rabbit.ekstelu.info | deprecated-custom-domains.b-cdn.net |
 | rabbit.radicalxchange.org | deprecated-custom-domains.b-cdn.net |
 | rabbit.upwardhomes.net | deprecated-custom-domains.b-cdn.net |
 | raccoon.donateflow.com | deprecated-custom-domains.b-cdn.net |
@@ -895,6 +896,7 @@
 | t0ikowg7jg.serverlesslaravelcourse.com | deprecated-custom-domains.b-cdn.net |
 | tahr.componentsui.com | deprecated-custom-domains.b-cdn.net |
 | tahr.happydev.fm | deprecated-custom-domains.b-cdn.net |
+| tahr.rasen.dev | deprecated-custom-domains.b-cdn.net |
 | takin.bottlebeagle.com | deprecated-custom-domains.b-cdn.net |
 | takin.dripmacetas.com | deprecated-custom-domains.b-cdn.net |
 | takin.revolana.fr | deprecated-custom-domains.b-cdn.net |
@@ -938,6 +940,7 @@
 | viper.sitesauce.app | deprecated-custom-domains.b-cdn.net |
 | vole.contemporaryartlibrary.org | deprecated-custom-domains.b-cdn.net |
 | vole.noteapps.info | deprecated-custom-domains.b-cdn.net |
+| vole.tsttechnology.com | deprecated-custom-domains.b-cdn.net |
 | wallaby.cron.help | deprecated-custom-domains.b-cdn.net |
 | wallaby.legendkeeper.com | deprecated-custom-domains.b-cdn.net |
 | wallaby.short1.link | deprecated-custom-domains.b-cdn.net |

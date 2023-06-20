@@ -8,6 +8,7 @@
 ||friends.keurig.ca^
 ||friends.keurig.com^
 ||ilove.volusion.com^
+||indique.phooto.com.br^
 ||invite.toughmudder.com^
 ||r.gamerewind.nfl.com^
 ||r.preseason.nfl.com^
@@ -17,6 +18,7 @@
 ||refer.american-giant.com^
 ||refer.americanexpress.com^
 ||refer.ancestry.com^
+||refer.aol.com^
 ||refer.app.com^
 ||refer.backcountry.com^
 ||refer.barenecessities.com^
@@ -57,6 +59,7 @@
 ||refer.kipling-usa.com^
 ||refer.leadmd.com^
 ||refer.luckyvitamin.com^
+||refer.lymphedemaproducts.com^
 ||refer.midatlantic.aaa.com^
 ||refer.montgomeryadvertiser.com^
 ||refer.moo.com^
@@ -174,6 +177,7 @@
 ||refer.bose.de^
 ||refer.bose.fr^
 ||refer.bulova.com^
+||refer.bumbleandbumble.com^
 ||refer.burtsbees.com^
 ||refer.caavo.com^
 ||refer.cacique.com^
@@ -236,6 +240,7 @@
 ||refer.hpso.com^
 ||refer.hsn.com^
 ||refer.hushpuppies.com^
+||refer.incommonbeauty.com^
 ||refer.indeed.com^
 ||refer.issaonline.com^
 ||refer.itbed.com^
@@ -270,6 +275,7 @@
 ||refer.martinsfoods.com^
 ||refer.merrell.com^
 ||refer.minted.com^
+||refer.mission.com^
 ||refer.mpgsport.ca^
 ||refer.mpgsport.com^
 ||refer.myheritagedna.com^
@@ -288,6 +294,7 @@
 ||refer.panerabread.com^
 ||refer.perriconemd.com^
 ||refer.pimsleur.com^
+||refer.plushbeds.com^
 ||refer.potterybarn.com^
 ||refer.prettyballerinas.co.uk^
 ||refer.prettyballerinas.es^
@@ -301,7 +308,6 @@
 ||refer.quickstart.com^
 ||refer.reebok.com^
 ||refer.reliasacademy.com^
-||refer.remit2india.com^
 ||refer.rileyrose.com^
 ||refer.rockport.com^
 ||refer.rodo.com^
@@ -589,5 +595,4 @@
 ||www.referquickbooks.com^
 ||em1476.princesscruises.com^
 ||em8561.go2bank.com^
-||refer.aol.com^
 ||sftp.extole.com^

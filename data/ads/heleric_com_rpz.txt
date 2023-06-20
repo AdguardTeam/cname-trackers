@@ -13,6 +13,7 @@ au.bolloxcyclism.com CNAME .
 aw.omandersingly.com CNAME .
 ax.mousmeetrike.com CNAME .
 ax.requotebatman.com CNAME .
+bb.mahdianupcurls.com CNAME .
 bb.vanhonker.com CNAME .
 bc.manwaysprod.com CNAME .
 bf.buffersling.com CNAME .
@@ -51,8 +52,10 @@ do.felidaeabasing.com CNAME .
 dt.gregauunaided.com CNAME .
 du.jubhahbalize.com CNAME .
 dv.citricesu.com CNAME .
+dv.earthlyyowe.com CNAME .
 dw.organaamnions.com CNAME .
 dy.fitrootmisterm.com CNAME .
+ed.urotoxykerch.com CNAME .
 ef.betosslingala.com CNAME .
 ej.basialforced.com CNAME .
 et.harmoutguereza.com CNAME .
@@ -190,6 +193,7 @@ qd.gibbarwaiting.com CNAME .
 qd.loathesentour.com CNAME .
 qg.mangerydewrot.com CNAME .
 qk.eyrarbuggers.com CNAME .
+ql.nudistwhitlow.com CNAME .
 qo.dunganof.com CNAME .
 qr.grogsprats.com CNAME .
 qs.levooutlast.com CNAME .
@@ -203,6 +207,7 @@ rg.canesbilker.com CNAME .
 rh.sirionehusky.com CNAME .
 rj.unhaveabobra.com CNAME .
 rm.bauderylysines.com CNAME .
+rn.kiblahpithing.com CNAME .
 ro.vacuomedogeys.com CNAME .
 rp.bumblesisobase.com CNAME .
 rp.splentstoatoa.com CNAME .
@@ -231,10 +236,12 @@ sv.werewaught.com CNAME .
 sw.pluckysups.com CNAME .
 sy.sartishmoop.com CNAME .
 sz.famanils.com CNAME .
+tb.nebackalien.com CNAME .
 tc.bovateoutrate.com CNAME .
 tc.puinavikytes.com CNAME .
 td.anasphragma.com CNAME .
 th.micheryfrugal.com CNAME .
+tl.logwisespitzer.com CNAME .
 tm.hacklesovary.com CNAME .
 tm.tangasulfide.com CNAME .
 tp.parcbegulf.com CNAME .
@@ -259,6 +266,7 @@ uy.mawseednoblest.com CNAME .
 va.ungracebaited.com CNAME .
 vd.clipserelock.com CNAME .
 vd.scapemambu.com CNAME .
+vg.piaroanjust.com CNAME .
 vi.spratstatters.com CNAME .
 vn.finisbur.com CNAME .
 vp.upswingmethyl.com CNAME .
@@ -277,6 +285,7 @@ wl.jimjumsalkes.com CNAME .
 wm.findalwaglike.com CNAME .
 wq.stewyruttish.com CNAME .
 ws.blondsdixie.com CNAME .
+wv.donarynahane.com CNAME .
 wx.squetanonym.com CNAME .
 wz.bergallgenion.com CNAME .
 xb.subtextslypes.com CNAME .
@@ -286,16 +295,19 @@ xd.meritedyaws.com CNAME .
 xe.ioniumentomic.com CNAME .
 xl.demosbattik.com CNAME .
 xm.tinlikeil.com CNAME .
+xs.odesschemes.com CNAME .
 xx.foetorsnudisms.com CNAME .
 xx.hematinsquark.com CNAME .
 xz.rapsseme.com CNAME .
 yc.flyblowfilippi.com CNAME .
+ye.coresepyllia.com CNAME .
 yg.coehornjobbet.com CNAME .
 yg.slantedsecno.com CNAME .
 yh.coursgrimace.com CNAME .
 yk.dissentsangir.com CNAME .
 yl.calumetjowing.com CNAME .
 yp.tronkparsed.com CNAME .
+yu.deggerfletton.com CNAME .
 yx.minimalmodulet.com CNAME .
 yy.bourockmights.com CNAME .
 zd.plattedrattons.com CNAME .

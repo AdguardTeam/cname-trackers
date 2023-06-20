@@ -525,6 +525,7 @@
 | tr.mail.vipmag.fr | tracking.bp01.net |
 | tr.mail.vo3000.com | tracking.bp01.net |
 | tr.mail1.macif.fr | tracking.bp01.net |
+| tr.mailatia.com | tracking.bp01.net |
 | tr.mailing.achatpublic.com | tracking.bp01.net |
 | tr.mailing.heliades.fr | tracking.bp01.net |
 | tr.mailing.laredoute.fr | tracking.bp01.net |
@@ -565,6 +566,7 @@
 | tr.mnoc.espmp-nifr.net | tracking.bp01.net |
 | tr.moes.espmp-agfr.net | tracking.bp01.net |
 | tr.moja-wycena.pl | tracking.bp01.net |
+| tr.monagenligne.fr | tracking.bp01.net |
 | tr.mondevis-b2b.com | tracking.bp01.net |
 | tr.mondevis-pro.com | tracking.bp01.net |
 | tr.moving.fr | tracking.bp01.net |
@@ -614,6 +616,7 @@
 | tr.news.casino.fr | tracking.bp01.net |
 | tr.news.casinodrive.fr | tracking.bp01.net |
 | tr.news.casinomax.fr | tracking.bp01.net |
+| tr.news.cci-puydedome.com | tracking.bp01.net |
 | tr.news.cdiscount.com | tracking.bp01.net |
 | tr.news.cdiscountpro.com | tracking.bp01.net |
 | tr.news.cenpac.fr | tracking.bp01.net |
@@ -629,6 +632,7 @@
 | tr.news.devisdirect.com | tracking.bp01.net |
 | tr.news.digitpjms.fr | tracking.bp01.net |
 | tr.news.directeo.fr | tracking.bp01.net |
+| tr.news.easy-voyage.com | tracking.bp01.net |
 | tr.news.easyviaggio.com | tracking.bp01.net |
 | tr.news.easyviajar.com | tracking.bp01.net |
 | tr.news.easyvoyage.co.uk | tracking.bp01.net |
@@ -740,6 +744,7 @@
 | tr.news6.cdiscount.com | tracking.bp01.net |
 | tr.newsletter-habitat.com | tracking.bp01.net |
 | tr.newsletter-stressless.com | tracking.bp01.net |
+| tr.newsletter.1664france.fr | tracking.bp01.net |
 | tr.newsletter.actalians.fr | tracking.bp01.net |
 | tr.newsletter.afpa.fr | tracking.bp01.net |
 | tr.newsletter.assuragency.net | tracking.bp01.net |
@@ -971,6 +976,7 @@
 | tr.welcome.moncoupdepouce.com | tracking.bp01.net |
 | tr.welcome.odalys-vacances.com | tracking.bp01.net |
 | tr.welcome.smartdeals-transavia-fr.com | tracking.bp01.net |
+| tr.welcome.vipmag.fr | tracking.bp01.net |
 | tr.wuei.espmp-agfr.net | tracking.bp01.net |
 | tr.xleads.digital | tracking.bp01.net |
 | tr.zojh.espmp-aluk.net | tracking.bp01.net |

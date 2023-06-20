@@ -31,6 +31,7 @@ ade.deskstyle.info
 ade.hirose-fx.co.jp
 adebis-52667624.wowma.jp
 adebis-bkan.vbest.jp
+adebis-cname.jobmall.jp
 adebis-dojyo.dojyo.jp
 adebis-morijuku.morijuku.com
 adebis-rikon.vbest.jp
@@ -183,7 +184,6 @@ ebis.delis.co.jp
 ebis.eiyoushi-tensyoku.com
 ebis.forcas.com
 ebis.funai-finance.com
-ebis.funai-food-business.com
 ebis.funai-ma.com
 ebis.funaisoken.co.jp
 ebis.glico-direct.jp

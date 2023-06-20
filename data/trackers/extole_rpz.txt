@@ -8,6 +8,7 @@ friend.sharefile.com CNAME .
 friends.keurig.ca CNAME .
 friends.keurig.com CNAME .
 ilove.volusion.com CNAME .
+indique.phooto.com.br CNAME .
 invite.toughmudder.com CNAME .
 r.gamerewind.nfl.com CNAME .
 r.preseason.nfl.com CNAME .
@@ -17,6 +18,7 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
+refer.aol.com CNAME .
 refer.app.com CNAME .
 refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
@@ -57,6 +59,7 @@ refer.julep.com CNAME .
 refer.kipling-usa.com CNAME .
 refer.leadmd.com CNAME .
 refer.luckyvitamin.com CNAME .
+refer.lymphedemaproducts.com CNAME .
 refer.midatlantic.aaa.com CNAME .
 refer.montgomeryadvertiser.com CNAME .
 refer.moo.com CNAME .
@@ -174,6 +177,7 @@ refer.bose.com CNAME .
 refer.bose.de CNAME .
 refer.bose.fr CNAME .
 refer.bulova.com CNAME .
+refer.bumbleandbumble.com CNAME .
 refer.burtsbees.com CNAME .
 refer.caavo.com CNAME .
 refer.cacique.com CNAME .
@@ -236,6 +240,7 @@ refer.horizonfitness.marketing CNAME .
 refer.hpso.com CNAME .
 refer.hsn.com CNAME .
 refer.hushpuppies.com CNAME .
+refer.incommonbeauty.com CNAME .
 refer.indeed.com CNAME .
 refer.issaonline.com CNAME .
 refer.itbed.com CNAME .
@@ -270,6 +275,7 @@ refer.marinerfinance.com CNAME .
 refer.martinsfoods.com CNAME .
 refer.merrell.com CNAME .
 refer.minted.com CNAME .
+refer.mission.com CNAME .
 refer.mpgsport.ca CNAME .
 refer.mpgsport.com CNAME .
 refer.myheritagedna.com CNAME .
@@ -288,6 +294,7 @@ refer.pacu.com CNAME .
 refer.panerabread.com CNAME .
 refer.perriconemd.com CNAME .
 refer.pimsleur.com CNAME .
+refer.plushbeds.com CNAME .
 refer.potterybarn.com CNAME .
 refer.prettyballerinas.co.uk CNAME .
 refer.prettyballerinas.es CNAME .
@@ -301,7 +308,6 @@ refer.quickbooks.co.uk CNAME .
 refer.quickstart.com CNAME .
 refer.reebok.com CNAME .
 refer.reliasacademy.com CNAME .
-refer.remit2india.com CNAME .
 refer.rileyrose.com CNAME .
 refer.rockport.com CNAME .
 refer.rodo.com CNAME .
@@ -589,5 +595,4 @@ share.zenbusiness.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em8561.go2bank.com CNAME .
-refer.aol.com CNAME .
 sftp.extole.com CNAME .

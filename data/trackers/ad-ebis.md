@@ -81,6 +81,7 @@
     * 402e5b1b-na8iuntw.cname.ebis.ne.jp
     * 40ecbdc3-jtmaxrx7.cname.ebis.ne.jp
     * 417df397-9zxfa7mv.cname.ebis.ne.jp
+    * 418783dc-w9shqgsv.cname.ebis.ne.jp
     * 435017b6-hcwlnnyg.cname.ebis.ne.jp
     * 44f2417e-guakxgpf.cname.ebis.ne.jp
     * 454c6615-hd5f4dhg.cname.ebis.ne.jp
@@ -259,7 +260,6 @@
     * d9a8eccf-fgsftzrs.cname.ebis.ne.jp
     * dae17865-vqh9uah6.cname.ebis.ne.jp
     * daf42dbf-vhmygeqr.cname.ebis.ne.jp
-    * daf5d89e-yfrcguru.cname.ebis.ne.jp
     * dd2184df-xuadt2hl.cname.ebis.ne.jp
     * de3e21a1-ta72utrp.cname.ebis.ne.jp
     * de8331b9-pmffblvq.cname.ebis.ne.jp
@@ -374,6 +374,7 @@
 | emc.dr-stick.shop | 402e5b1b-na8iuntw.cname.ebis.ne.jp |
 | ebis.s-bisco.jp | 40ecbdc3-jtmaxrx7.cname.ebis.ne.jp |
 | tukuru.cotta.jp | 417df397-9zxfa7mv.cname.ebis.ne.jp |
+| adebis-cname.jobmall.jp | 418783dc-w9shqgsv.cname.ebis.ne.jp |
 | adebis.kose.co.jp | 435017b6-hcwlnnyg.cname.ebis.ne.jp |
 | adebis.theclinic.jp | 44f2417e-guakxgpf.cname.ebis.ne.jp |
 | tracking.nokai.jp | 454c6615-hd5f4dhg.cname.ebis.ne.jp |
@@ -552,7 +553,6 @@
 | ebiscname.clark.ed.jp | d9a8eccf-fgsftzrs.cname.ebis.ne.jp |
 | ebis.biyo-job.com | dae17865-vqh9uah6.cname.ebis.ne.jp |
 | adebis.gogin.co.jp | daf42dbf-vhmygeqr.cname.ebis.ne.jp |
-| ebis.funai-food-business.com | daf5d89e-yfrcguru.cname.ebis.ne.jp |
 | ebis.treasurenet.jp | dd2184df-xuadt2hl.cname.ebis.ne.jp |
 | ebis.cp.claudia.co.jp | de3e21a1-ta72utrp.cname.ebis.ne.jp |
 | adebis.hotstaff.co.jp | de8331b9-pmffblvq.cname.ebis.ne.jp |

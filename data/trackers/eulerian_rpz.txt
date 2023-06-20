@@ -74,7 +74,6 @@ ct5m.citadium.com CNAME .
 ctp1.bforbank.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
-d2u.dauphinquebec.com CNAME .
 dbj.quebecregion.com CNAME .
 deb1.refleximmo-recrutement.com CNAME .
 def1.optimhome-recrutement.com CNAME .
@@ -184,6 +183,7 @@ ef.futuroscope.mobi CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
+erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 et.swatch.com CNAME .
@@ -214,6 +214,7 @@ eulerian.telechargement.fr CNAME .
 eulerian.tgv-europe.be CNAME .
 eulerian.tgv-europe.es CNAME .
 eulerian.tgv-europe.lu CNAME .
+eulerian.tgv-europe.nl CNAME .
 eulerian.thalasseo.com CNAME .
 eulerian.voyage-prive.com CNAME .
 eultech.fnac.com CNAME .
@@ -290,7 +291,6 @@ m3ds.subarumetropolitain.com CNAME .
 mfd.myfirstdressing.com CNAME .
 mgt7.madeindesign.it CNAME .
 mi.miliboo.be CNAME .
-mi.miliboo.ch CNAME .
 mi.miliboo.co.uk CNAME .
 mi.miliboo.com CNAME .
 mi.miliboo.de CNAME .
@@ -398,9 +398,9 @@ ski1.skiset.com CNAME .
 sls2.loisirsencheres.com CNAME .
 sno1.snowrental.com CNAME .
 snr4.canalplus.com CNAME .
+srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
-su1.les-suites.ca CNAME .
 sykc.madeindesign.ch CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
@@ -489,9 +489,10 @@ zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 b1n.carabins.umontreal.ca CNAME .
 d0f.le-dauphin.com CNAME .
-erb.tremblant.ca CNAME .
+d2u.dauphinquebec.com CNAME .
 hk2d.tourismemauricie.com CNAME .
 nym5c.bonlook.com CNAME .
+su1.les-suites.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .

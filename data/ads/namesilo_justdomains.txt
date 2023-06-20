@@ -166,6 +166,7 @@
 3249648.notify6.com
 3250420.notify6.com
 3258452.notifysrv.com
+3258696.notifysrv.com
 3260930.notifysrv.com
 3263912.notifysrv.com
 3264262.notifysrv.com
@@ -428,6 +429,7 @@
 3493753.notifysrv.com
 3496079.notify6.com
 3497467.notifysrv.com
+3498081.notifysrv.com
 3498171.notify6.com
 3501655.notify6.com
 3505119.notify6.com
@@ -510,6 +512,7 @@
 3572277.notify6.com
 3572277.notifysrv.com
 3572279.notify6.com
+3572281.notify6.com
 3572283.notifysrv.com
 3572285.notifysrv.com
 3572293.notifysrv.com
@@ -568,6 +571,7 @@
 3662563.notifysrv.com
 3662591.notifysrv.com
 3662595.notifysrv.com
+3662601.notifysrv.com
 3662845.notifysrv.com
 3662897.notifysrv.com
 3662963.notifysrv.com
@@ -679,6 +683,7 @@
 3982708.notify6.com
 3984926.notify6.com
 3989692.notify6.com
+3990818.notify6.com
 3995186.notify6.com
 3997384.notify6.com
 4.notify.bizonads-ssp.com
@@ -697,6 +702,7 @@
 4037374.notify6.com
 4037384.notify6.com
 4037426.notify6.com
+4046268.notify6.com
 4046272.notify6.com
 4048172.notify6.com
 4050544.notify6.com
@@ -704,6 +710,7 @@
 4052828.notify6.com
 4061366.notify6.com
 4061378.notify6.com
+4062416.notify6.com
 4062424.notify6.com
 4068856.notify6.com
 4069896.notify6.com
@@ -752,6 +759,7 @@
 4300970.notify6.com
 4305094.notify6.com
 4322316.notify6.com
+4325144.notify6.com
 4329288.notify6.com
 4329292.notify6.com
 4329294.notify6.com
@@ -841,10 +849,13 @@ _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
 a.a3ion.com
 a.ad.guru
+a.asvsm.com
+a.etology.com
 a.paradoxgroup.uk
 a.redpathmedia.com
 a.stuffserve.com
-admin.shafttraffic.com
+a8q5r6r2.exads.com
+admin.gettopple.com
 api.adnation.com
 delivery.gettopple.com
 engine.gettopple.com
@@ -857,6 +868,21 @@ main.exoclick.com
 main.exosrv.com
 main.optimizesrv.com
 main.realsrv.com
+management-addisplaynetwork.exads.com
+management-adguru.exads.com
+management-adstuff.exads.com
+management-adwirk.exads.com
+management-boost.exads.com
+management-crakmedia.exads.com
+management-etology.exads.com
+management-itsup.exads.com
+management-paradoxgroup.exads.com
+management-paradoxmedia.exads.com
+management-santabrowser.exads.com
+management-slice.exads.com
+management-topple.exads.com
+management-venntro.exads.com
+management-vsmedia.exads.com
 origin-ads.exdynsrv.com
 origin-ads.exosrv.com
 origin-ads.optimizesrv.com
@@ -894,6 +920,7 @@ s.optidigital.com
 s.optnx.com
 s.optzsrv.com
 s.orbsrv.com
+s.paradoxgroup.co
 s.paradoxgroup.uk
 s.redpathmedia.com
 s.slice.exchange
@@ -935,15 +962,14 @@ syndication.ouzads.com
 syndication.realsrv.com
 syndication.whibd.com
 syndication.whibp.com
+www.3227697.notify6.com
 a.addisplaynetwork.com
 a.adnflow.com
-a.asvsm.com
 a.bizonads-ssp.com
-a.etology.com
 a.santabrowser.com
 a.slice.exchange
 admin.ad.guru
 admin.adnation.com
 admin.adstuff.io
 admin.etology.com
-admin.gettopple.com
+admin.shafttraffic.com

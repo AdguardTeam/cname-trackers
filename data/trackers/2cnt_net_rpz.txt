@@ -176,6 +176,7 @@ fodevarewatch.tns-gallup.dk CNAME .
 folketidende.tns-gallup.dk CNAME .
 fyens.tns-gallup.dk CNAME .
 gaffa.tns-gallup.dk CNAME .
+gladsaxeb.tns-gallup.dk CNAME .
 gratisspil.tns-gallup.dk CNAME .
 halsa.tns-gallup.dk CNAME .
 historienet.tns-gallup.dk CNAME .

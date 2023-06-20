@@ -156,6 +156,7 @@ cookies.jll.nz CNAME .
 cookies.jll.pe CNAME .
 cookies.jll.pl CNAME .
 cookies.jll.pt CNAME .
+cookies.jll.ro CNAME .
 cookies.jll.ru CNAME .
 cookies.jll.sk CNAME .
 cookies.jllsweden.se CNAME .
@@ -241,6 +242,7 @@ p.pulse.toyota.com CNAME .
 pfa.levexis.com CNAME .
 privacy-digital.pru.co.uk CNAME .
 privacy.28degreescard.com.au CNAME .
+privacy.acaseforwomen.com CNAME .
 privacy.acc2.heishop.com.br CNAME .
 privacy.amadrinks.be CNAME .
 privacy.amstel.nl CNAME .
@@ -283,6 +285,7 @@ tagman.britishairways.com CNAME .
 tagman.crystalsummer.co.uk CNAME .
 tagman.silversingles.com CNAME .
 tagman.surfstitch.com CNAME .
+tagman.thebodyshop-usa.com CNAME .
 tagman.thistle.com CNAME .
 tagman.transavia.com CNAME .
 tagman.virgin-atlantic.com CNAME .

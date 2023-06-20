@@ -52,6 +52,7 @@ sponsor.syracuse.com
 24dbfd6c10.cebee32295.com
 2547cd401b.d8a452e2da.com
 26e33d5110.b91c577b4d.com
+2a5f6f9e90.b07109f884.com
 2a98a4b811.a2a2fd6dd1.com
 2abf7576ac.4fbe7621b8.com
 2b93cd08b5.fd40cd3322.com
@@ -92,6 +93,7 @@ sponsor.syracuse.com
 48c1f78392.31f4ea3b17.com
 4909cc6acc.0fc32b5283.com
 4b09093915.259576970f.com
+4b612d43b5.649751e608.com
 4e6b62c568.4b31707500.com
 4e838acbab.d3f3abd25c.com
 4ee283d2af.9f8695e9a4.com
@@ -103,11 +105,11 @@ sponsor.syracuse.com
 53f90ea18c.ad64463ef9.com
 55479d4a4f.e97fff7188.com
 55bff2103f.f451b7f622.com
-5691f27b38.77176d9509.com
 56a7ca381c.a4de9aca80.com
 570bfb615e.f3de94ee1e.com
 572a92f793.210f3810db.com
 57a8023ce9.1aa3097b7b.com
+57e382118c.c1c759d012.com
 58ac5dbcb6.34946d7678.com
 5a841fa92e.5ee782a4d9.com
 5ab760da26.bf34686748.com
@@ -117,15 +119,17 @@ sponsor.syracuse.com
 6047f3c601.7ae9fc0b53.com
 6183c729c7.f145627a09.com
 61ba0b3eaa.41166be14c.com
-6231146086.4484986022.com
 62b00ced28.39373b8701.com
+62cfc0b462.5a46641450.com
 62eddc0f6a.f984e0d579.com
 62ffd2f212.cfe8fd831d.com
+63b41fa702.81a3bb38fb.com
 6539a7f33f.2a83afe612.com
 65eb50053b.3cb004e947.com
 66d7c2e32f.843acfbeb0.com
 67116813c6.89504d460b.com
 6788b5f0a5.07ab456fe8.com
+696a867e8a.e048fe379c.com
 6ab791d164.d409401d80.com
 6aca58cba6.106cdb2259.com
 6d39ef5c0b.7002fca3a7.com
@@ -283,6 +287,7 @@ eb37b1d1a5.98a54df250.com
 ee68acd3fc.87a8aa9251.com
 eea687acd7.3f6e286046.com
 ef7b81b71c.75416fa555.com
+f102547b70.5f6d8a5f78.com
 f1763f2f87.f4f8fb91df.com
 f1ab40b1ac.91a3c37128.com
 f1c61224ea.edbc0469bd.com
@@ -300,10 +305,9 @@ fc6150a639.f7e79a5f70.com
 fd91b5c89c.fb2d1abede.com
 fe8d4b33c2.8abf43d6ad.com
 ff04a1538a.ced4d66e2d.com
-foodandwine.share.ntv.io
-fortune.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
+smosh.share.ntv.io
 a135.fox23.com
 a135.wftv.com
 a135.wpxi.com
@@ -326,6 +330,8 @@ cricketwireless.share.ntv.io
 csoonline.share.ntv.io
 entrepreneur.share.ntv.io
 faithinthenews.share.ntv.io
+foodandwine.share.ntv.io
+fortune.share.ntv.io
 gayety.share.ntv.io
 gva.share.ntv.io
 hellomagazine.share.ntv.io
@@ -345,7 +351,6 @@ pcworld.share.ntv.io
 pressdemocrat.share.ntv.io
 robbreport.share.ntv.io
 sanduskyregister.share.ntv.io
-smosh.share.ntv.io
 stamfordadvocate.share.ntv.io
 travelandleisure.share.ntv.io
 wsbradio.share.ntv.io

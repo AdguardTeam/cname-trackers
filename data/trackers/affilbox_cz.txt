@@ -63,8 +63,8 @@
 ||affil.sportinator.cz^
 ||affil.spravnykrok.cz^
 ||affil.stastnavovztahu.sk^
-||affil.stronger-shop.cz^
 ||affil.supervykon.cz^
+||affil.svepomoci.cz^
 ||affil.svj-info.cz^
 ||affil.swisstoner.cz^
 ||affil.tadytuto.cz^
@@ -75,6 +75,7 @@
 ||affil.upcr.cz^
 ||affil.vzdusin.cz^
 ||affil.webareal.cz^
+||affil.webzisk.cz^
 ||affil.wellspace.cz^
 ||affil.xgdpr.cz^
 ||affil.zaslat.cz^
@@ -143,11 +144,13 @@
 ||affiliate.escapehouse.sk^
 ||affiliate.esensino.cz^
 ||affiliate.eshop-naturhouse.cz^
+||affiliate.eshop-rychle.cz^
 ||affiliate.expertnapredaj.sk^
 ||affiliate.f-p-g.cz^
 ||affiliate.faceyogainstitute.eu^
 ||affiliate.fapi.cz^
 ||affiliate.fightstuff.cz^
+||affiliate.fotbalpartner.cz^
 ||affiliate.fotopasti-bunaty.cz^
 ||affiliate.gaymegastore.cz^
 ||affiliate.gaymegastore.eu^
@@ -198,6 +201,7 @@
 ||affiliate.nomind.cz^
 ||affiliate.notifikuj.cz^
 ||affiliate.novakabelka.cz^
+||affiliate.nutricnitycinky.cz^
 ||affiliate.offroadsafari.cz^
 ||affiliate.onlinepsiskola.cz^
 ||affiliate.organikk.cz^
@@ -243,6 +247,7 @@
 ||affiliate.urbanstore.cz^
 ||affiliate.urbanstore.sk^
 ||affiliate.vasecocky.cz^
+||affiliate.vasesosovky.sk^
 ||affiliate.velebny.cz^
 ||affiliate.vianio.com^
 ||affiliate.vox.cz^
@@ -455,6 +460,7 @@
 ||partner.ecomail.cz^
 ||partner.econea.cz^
 ||partner.edutu.cz^
+||partner.energiezivota.com^
 ||partner.epravo.cz^
 ||partner.eshop-gyorsan.hu^
 ||partner.eshop-rodas.cz^
@@ -519,7 +525,6 @@
 ||partner.luckyalvin.cz^
 ||partner.lyzelyze.cz^
 ||partner.malujpodlecisel.cz^
-||partner.marandy.cz^
 ||partner.marspom.cz^
 ||partner.martinreznicek.cz^
 ||partner.massivo.cz^
@@ -649,6 +654,7 @@
 ||partneri.cannor.cz^
 ||partneri.cbdkonopi.cz^
 ||partneri.cebadex.cz^
+||partneri.centrumprosperity.sk^
 ||partneri.cestovatelskyobchod.cz^
 ||partneri.chytraopicka.cz^
 ||partneri.chytrykvetinac.cz^
@@ -711,6 +717,7 @@
 ||partneri.professionail.sk^
 ||partneri.proficredit.cz^
 ||partneri.progresguru.cz^
+||partneri.pulzsro.cz^
 ||partneri.puravia.cz^
 ||partneri.radostkazdyden.cz^
 ||partneri.razdvapujcka.cz^
@@ -764,6 +771,7 @@
 ||partners.rebelsfunding.com^
 ||partners.spiritradar.com^
 ||plus.mameradivlasy.cz^
+||prodej.kyselove.cz^
 ||promo.smskouc.cz^
 ||provize.3dfitness.cz^
 ||provize.brilas.cz^
@@ -789,6 +797,7 @@
 ||spoluprace.blackkale.cz^
 ||spoluprace.denikletusky.cz^
 ||spoluprace.eroticstore.cz^
+||spoluprace.gprooms.eu^
 ||spoluprace.h2world.store^
 ||spoluprace.interbohemia.cz^
 ||spoluprace.janitaurbanova.cz^

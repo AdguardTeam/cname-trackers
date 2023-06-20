@@ -31,6 +31,7 @@ ade.deskstyle.info CNAME .
 ade.hirose-fx.co.jp CNAME .
 adebis-52667624.wowma.jp CNAME .
 adebis-bkan.vbest.jp CNAME .
+adebis-cname.jobmall.jp CNAME .
 adebis-dojyo.dojyo.jp CNAME .
 adebis-morijuku.morijuku.com CNAME .
 adebis-rikon.vbest.jp CNAME .
@@ -183,7 +184,6 @@ ebis.delis.co.jp CNAME .
 ebis.eiyoushi-tensyoku.com CNAME .
 ebis.forcas.com CNAME .
 ebis.funai-finance.com CNAME .
-ebis.funai-food-business.com CNAME .
 ebis.funai-ma.com CNAME .
 ebis.funaisoken.co.jp CNAME .
 ebis.glico-direct.jp CNAME .

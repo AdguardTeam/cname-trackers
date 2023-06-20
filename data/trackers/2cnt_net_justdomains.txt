@@ -176,6 +176,7 @@ fodevarewatch.tns-gallup.dk
 folketidende.tns-gallup.dk
 fyens.tns-gallup.dk
 gaffa.tns-gallup.dk
+gladsaxeb.tns-gallup.dk
 gratisspil.tns-gallup.dk
 halsa.tns-gallup.dk
 historienet.tns-gallup.dk

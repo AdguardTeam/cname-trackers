@@ -74,7 +74,6 @@ ct5m.citadium.com
 ctp1.bforbank.com
 cvi6.destinia.qa
 cyf9.destinia.cl
-d2u.dauphinquebec.com
 dbj.quebecregion.com
 deb1.refleximmo-recrutement.com
 def1.optimhome-recrutement.com
@@ -184,6 +183,7 @@ ef.futuroscope.mobi
 eit3.destinia.nl
 ek8.voyage-prive.com
 elr.sfr.fr
+erb.tremblant.ca
 ert5.rmcsport.tv
 et.sncf.com
 et.swatch.com
@@ -214,6 +214,7 @@ eulerian.telechargement.fr
 eulerian.tgv-europe.be
 eulerian.tgv-europe.es
 eulerian.tgv-europe.lu
+eulerian.tgv-europe.nl
 eulerian.thalasseo.com
 eulerian.voyage-prive.com
 eultech.fnac.com
@@ -290,7 +291,6 @@ m3ds.subarumetropolitain.com
 mfd.myfirstdressing.com
 mgt7.madeindesign.it
 mi.miliboo.be
-mi.miliboo.ch
 mi.miliboo.co.uk
 mi.miliboo.com
 mi.miliboo.de
@@ -398,9 +398,9 @@ ski1.skiset.com
 sls2.loisirsencheres.com
 sno1.snowrental.com
 snr4.canalplus.com
+srm4.destinia.co.no
 ssrlot.lotoquebec.com
 ssy7.destinia.com.ua
-su1.les-suites.ca
 sykc.madeindesign.ch
 t.locasun-vp.fr
 t.locasun.co.uk
@@ -489,9 +489,10 @@ zum7cc.oui.sncf
 zyq2.destinia.sk
 b1n.carabins.umontreal.ca
 d0f.le-dauphin.com
-erb.tremblant.ca
+d2u.dauphinquebec.com
 hk2d.tourismemauricie.com
 nym5c.bonlook.com
+su1.les-suites.ca
 www.mis.tourisme-montreal.org
 ea.mnt.fr
 gi7a.structube.com

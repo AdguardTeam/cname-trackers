@@ -166,6 +166,7 @@
 3249648.notify6.com CNAME .
 3250420.notify6.com CNAME .
 3258452.notifysrv.com CNAME .
+3258696.notifysrv.com CNAME .
 3260930.notifysrv.com CNAME .
 3263912.notifysrv.com CNAME .
 3264262.notifysrv.com CNAME .
@@ -428,6 +429,7 @@
 3493753.notifysrv.com CNAME .
 3496079.notify6.com CNAME .
 3497467.notifysrv.com CNAME .
+3498081.notifysrv.com CNAME .
 3498171.notify6.com CNAME .
 3501655.notify6.com CNAME .
 3505119.notify6.com CNAME .
@@ -510,6 +512,7 @@
 3572277.notify6.com CNAME .
 3572277.notifysrv.com CNAME .
 3572279.notify6.com CNAME .
+3572281.notify6.com CNAME .
 3572283.notifysrv.com CNAME .
 3572285.notifysrv.com CNAME .
 3572293.notifysrv.com CNAME .
@@ -568,6 +571,7 @@
 3662563.notifysrv.com CNAME .
 3662591.notifysrv.com CNAME .
 3662595.notifysrv.com CNAME .
+3662601.notifysrv.com CNAME .
 3662845.notifysrv.com CNAME .
 3662897.notifysrv.com CNAME .
 3662963.notifysrv.com CNAME .
@@ -679,6 +683,7 @@
 3982708.notify6.com CNAME .
 3984926.notify6.com CNAME .
 3989692.notify6.com CNAME .
+3990818.notify6.com CNAME .
 3995186.notify6.com CNAME .
 3997384.notify6.com CNAME .
 4.notify.bizonads-ssp.com CNAME .
@@ -697,6 +702,7 @@
 4037374.notify6.com CNAME .
 4037384.notify6.com CNAME .
 4037426.notify6.com CNAME .
+4046268.notify6.com CNAME .
 4046272.notify6.com CNAME .
 4048172.notify6.com CNAME .
 4050544.notify6.com CNAME .
@@ -704,6 +710,7 @@
 4052828.notify6.com CNAME .
 4061366.notify6.com CNAME .
 4061378.notify6.com CNAME .
+4062416.notify6.com CNAME .
 4062424.notify6.com CNAME .
 4068856.notify6.com CNAME .
 4069896.notify6.com CNAME .
@@ -752,6 +759,7 @@
 4300970.notify6.com CNAME .
 4305094.notify6.com CNAME .
 4322316.notify6.com CNAME .
+4325144.notify6.com CNAME .
 4329288.notify6.com CNAME .
 4329292.notify6.com CNAME .
 4329294.notify6.com CNAME .
@@ -841,10 +849,13 @@ _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.a3ion.com CNAME .
 a.ad.guru CNAME .
+a.asvsm.com CNAME .
+a.etology.com CNAME .
 a.paradoxgroup.uk CNAME .
 a.redpathmedia.com CNAME .
 a.stuffserve.com CNAME .
-admin.shafttraffic.com CNAME .
+a8q5r6r2.exads.com CNAME .
+admin.gettopple.com CNAME .
 api.adnation.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
@@ -857,6 +868,21 @@ main.exoclick.com CNAME .
 main.exosrv.com CNAME .
 main.optimizesrv.com CNAME .
 main.realsrv.com CNAME .
+management-addisplaynetwork.exads.com CNAME .
+management-adguru.exads.com CNAME .
+management-adstuff.exads.com CNAME .
+management-adwirk.exads.com CNAME .
+management-boost.exads.com CNAME .
+management-crakmedia.exads.com CNAME .
+management-etology.exads.com CNAME .
+management-itsup.exads.com CNAME .
+management-paradoxgroup.exads.com CNAME .
+management-paradoxmedia.exads.com CNAME .
+management-santabrowser.exads.com CNAME .
+management-slice.exads.com CNAME .
+management-topple.exads.com CNAME .
+management-venntro.exads.com CNAME .
+management-vsmedia.exads.com CNAME .
 origin-ads.exdynsrv.com CNAME .
 origin-ads.exosrv.com CNAME .
 origin-ads.optimizesrv.com CNAME .
@@ -894,6 +920,7 @@ s.optidigital.com CNAME .
 s.optnx.com CNAME .
 s.optzsrv.com CNAME .
 s.orbsrv.com CNAME .
+s.paradoxgroup.co CNAME .
 s.paradoxgroup.uk CNAME .
 s.redpathmedia.com CNAME .
 s.slice.exchange CNAME .
@@ -935,15 +962,14 @@ syndication.ouzads.com CNAME .
 syndication.realsrv.com CNAME .
 syndication.whibd.com CNAME .
 syndication.whibp.com CNAME .
+www.3227697.notify6.com CNAME .
 a.addisplaynetwork.com CNAME .
 a.adnflow.com CNAME .
-a.asvsm.com CNAME .
 a.bizonads-ssp.com CNAME .
-a.etology.com CNAME .
 a.santabrowser.com CNAME .
 a.slice.exchange CNAME .
 admin.ad.guru CNAME .
 admin.adnation.com CNAME .
 admin.adstuff.io CNAME .
 admin.etology.com CNAME .
-admin.gettopple.com CNAME .
+admin.shafttraffic.com CNAME .

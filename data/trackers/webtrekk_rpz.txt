@@ -301,6 +301,7 @@ web.pages.lloydspharmacy.com CNAME .
 web.sensilab.com CNAME .
 web.sensilab.cz CNAME .
 web.sensilab.de CNAME .
+web.sensilab.dk CNAME .
 web.sensilab.ie CNAME .
 web.sensilab.it CNAME .
 web.sensilab.pt CNAME .

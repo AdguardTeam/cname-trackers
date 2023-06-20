@@ -124,7 +124,6 @@ hurricane.tinybird.co CNAME .
 hype.zlipa.com CNAME .
 informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
-insights.growwithless.com CNAME .
 joy.ochronus.online CNAME .
 kaladyaudiology.ericksonbuilt.com CNAME .
 kekw.givetip.to CNAME .
@@ -314,12 +313,14 @@ plausible.yalepaprika.com CNAME .
 plausible.zest.dev CNAME .
 plausible.zorin.com CNAME .
 pls.ambue.com CNAME .
+pls.skycastle.dev CNAME .
 plsbl-staging.edison.se CNAME .
 plsbl.edison.se CNAME .
 pm.redbull.com CNAME .
 prism.buerokrucker.ch CNAME .
 prism.drivingkyoto.com CNAME .
 prism.netherlandlines.com CNAME .
+prism.pablonouvelle.com CNAME .
 prism.raumgleiter.com CNAME .
 prism.singapouring.com CNAME .
 prism.tramclockmunich.com CNAME .
@@ -420,7 +421,6 @@ stats.autoscholarwithmrb.com CNAME .
 stats.babymatras.net CNAME .
 stats.balticgruppen.se CNAME .
 stats.bananatimer.com CNAME .
-stats.baptistwomen.com CNAME .
 stats.basecamp.com CNAME .
 stats.bcdtravel.com CNAME .
 stats.beamd.io CNAME .
@@ -641,7 +641,6 @@ stats.hexdocs.pm CNAME .
 stats.hey.com CNAME .
 stats.hey.science CNAME .
 stats.hhpro.net CNAME .
-stats.homeandgardenmakeover.com CNAME .
 stats.homepage-2021.askmiso-dev.com CNAME .
 stats.homerdixon.com CNAME .
 stats.homestow.com CNAME .
@@ -658,6 +657,7 @@ stats.ifiwasgame.com CNAME .
 stats.igassmann.me CNAME .
 stats.igor4stir.com CNAME .
 stats.in-tuition.net CNAME .
+stats.incoming.co CNAME .
 stats.increasinglyfunctional.com CNAME .
 stats.indyhall.org CNAME .
 stats.infoboard.de CNAME .
@@ -756,6 +756,7 @@ stats.mastermeup.com CNAME .
 stats.matthiasloibl.com CNAME .
 stats.meetnfly.com CNAME .
 stats.mesenvies.fr CNAME .
+stats.michaeloliver.dev CNAME .
 stats.migrantworker.ca CNAME .
 stats.mmazzarolo.com CNAME .
 stats.motion-effect.com CNAME .
@@ -814,6 +815,7 @@ stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
 stats.poochplaces.dog CNAME .
+stats.postcollectors.com CNAME .
 stats.poweringpastcoal.org CNAME .
 stats.preeventualist.org CNAME .
 stats.pri.org CNAME .
@@ -857,7 +859,6 @@ stats.savethemothers.org CNAME .
 stats.sax.net CNAME .
 stats.sayla.io CNAME .
 stats.scailable.net CNAME .
-stats.scalgo.com CNAME .
 stats.scottbartell.com CNAME .
 stats.screen-play.app CNAME .
 stats.screenagers.com CNAME .
@@ -875,6 +876,7 @@ stats.shepherd.com CNAME .
 stats.shiftx.com CNAME .
 stats.sirdata.com CNAME .
 stats.sixseven.at CNAME .
+stats.ski.com CNAME .
 stats.slicedthread.com CNAME .
 stats.socialeurope.eu CNAME .
 stats.sommselect.com CNAME .
@@ -931,6 +933,7 @@ stats.westswindon-pc.gov.uk CNAME .
 stats.whenpigsflybbq.com CNAME .
 stats.whereisit5pmrightnow.com CNAME .
 stats.wisebox.co CNAME .
+stats.wordvested.org CNAME .
 stats.world.hey.com CNAME .
 stats.wvs.org.uk CNAME .
 stats.wvsindia.org CNAME .

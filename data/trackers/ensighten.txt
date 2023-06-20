@@ -156,6 +156,7 @@
 ||cookies.jll.pe^
 ||cookies.jll.pl^
 ||cookies.jll.pt^
+||cookies.jll.ro^
 ||cookies.jll.ru^
 ||cookies.jll.sk^
 ||cookies.jllsweden.se^
@@ -241,6 +242,7 @@
 ||pfa.levexis.com^
 ||privacy-digital.pru.co.uk^
 ||privacy.28degreescard.com.au^
+||privacy.acaseforwomen.com^
 ||privacy.acc2.heishop.com.br^
 ||privacy.amadrinks.be^
 ||privacy.amstel.nl^
@@ -283,6 +285,7 @@
 ||tagman.crystalsummer.co.uk^
 ||tagman.silversingles.com^
 ||tagman.surfstitch.com^
+||tagman.thebodyshop-usa.com^
 ||tagman.thistle.com^
 ||tagman.transavia.com^
 ||tagman.virgin-atlantic.com^

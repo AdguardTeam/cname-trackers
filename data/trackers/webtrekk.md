@@ -222,6 +222,7 @@
 | web.sensilab.com | 151836596491843.wt-eu02.net |
 | web.sensilab.cz | 151836596491843.wt-eu02.net |
 | web.sensilab.de | 151836596491843.wt-eu02.net |
+| web.sensilab.dk | 151836596491843.wt-eu02.net |
 | web.sensilab.ie | 151836596491843.wt-eu02.net |
 | web.sensilab.it | 151836596491843.wt-eu02.net |
 | web.sensilab.pt | 151836596491843.wt-eu02.net |

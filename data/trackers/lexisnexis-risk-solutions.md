@@ -87,7 +87,6 @@
     * h-a4nx1etl.online-metrix.net
     * h-a4s32zk0.online-metrix.net
     * h-a9vkgbg7.online-metrix.net
-    * h-abakos.online-metrix.net
     * h-accountonline.online-metrix.net
     * h-accurint.online-metrix.net
     * h-ad2y6kcr.online-metrix.net
@@ -138,6 +137,7 @@
     * h-betdaq.online-metrix.net
     * h-betfair.online-metrix.net
     * h-betmgm.online-metrix.net
+    * h-bewnb8q4.online-metrix.net
     * h-beyondbank.online-metrix.net
     * h-bfiiada3-a.online-metrix.net
     * h-bhs5fatf.online-metrix.net
@@ -154,6 +154,7 @@
     * h-bo72h7g2-5.online-metrix.net
     * h-bos-soc.online-metrix.net
     * h-bos.online-metrix.net
+    * h-bossrevolution.online-metrix.net
     * h-bpsgameserver.online-metrix.net
     * h-brightlending.online-metrix.net
     * h-bscelhtc.online-metrix.net
@@ -457,6 +458,7 @@
     * h-nerium.online-metrix.net
     * h-netflix.online-metrix.net
     * h-niubiz.online-metrix.net
+    * h-njea5xb8.online-metrix.net
     * h-norton.online-metrix.net
     * h-nssolutions.online-metrix.net
     * h-ntthikaritv.online-metrix.net
@@ -587,6 +589,7 @@
     * h-uship.online-metrix.net
     * h-usps.online-metrix.net
     * h-v60nf4oj-2.online-metrix.net
+    * h-v60nf4oj-pfp.online-metrix.net
     * h-v60nf4oj.online-metrix.net
     * h-vacations.united.online-metrix.net
     * h-valcontent.online-metrix.net
@@ -641,15 +644,44 @@
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
 | t.zinia.com | h-1ngztxrl.online-metrix.net |
+| prod-acutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-afcutn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-aocumi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-ascuaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-baxter.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-blucurrent.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-cfcuwi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-citadel.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-consumers.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cstonefcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-dccuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-ffcuin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-firstmark.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-fsfcutn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-hfcuvt.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-hsfcuhi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-humantx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-interracu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-jaxfcufl.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-jfcudc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-lafcuca.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-lfcuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-mscuct.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-oneaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-pathways.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-selco.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-sfcupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-sfcutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-tvfcuwy.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-uecupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-uiccuil.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-university.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-utenn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-vantage.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-vsecuvt.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-westccu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | matrix.cpg.org | h-1qpcog32.online-metrix.net |
 | cnt.goboo.com | h-1u7ubqzg.online-metrix.net |
 | ptm.creditas.com | h-1vjjer2n.online-metrix.net |
@@ -744,7 +776,6 @@
 | content.ageas.co.uk | h-a4s32zk0.online-metrix.net |
 | tcontent.auchantelecom.fr | h-a9vkgbg7.online-metrix.net |
 | tcontent.nrjmobile.fr | h-a9vkgbg7.online-metrix.net |
-| content.abakos.cl | h-abakos.online-metrix.net |
 | content22.accountonline.com | h-accountonline.online-metrix.net |
 | cdnfp.accurint.com | h-accurint.online-metrix.net |
 | cdnfp.lexisnexisrisk.com | h-accurint.online-metrix.net |
@@ -812,6 +843,7 @@
 | log.betdaq.com | h-betdaq.online-metrix.net |
 | regstat.betfair.com | h-betfair.online-metrix.net |
 | assessment.nj.betmgm.com | h-betmgm.online-metrix.net |
+| secure.idbank.it | h-bewnb8q4.online-metrix.net |
 | tmx.beyondbank.com.au | h-beyondbank.online-metrix.net |
 | jplspr.jackpot.com | h-bfiiada3-a.online-metrix.net |
 | content.byabcd.com | h-bhs5fatf.online-metrix.net |
@@ -830,6 +862,7 @@
 | css.sportsbet.io | h-bo72h7g2-5.online-metrix.net |
 | cbcdn.bankofscotland.co.uk | h-bos-soc.online-metrix.net |
 | check2.bankofscotland.co.uk | h-bos.online-metrix.net |
+| imagestm.bossrevolution.com | h-bossrevolution.online-metrix.net |
 | fpcn.bpsgameserver.com | h-bpsgameserver.online-metrix.net |
 | contentservices.brightlending.com | h-brightlending.online-metrix.net |
 | verification.ndtco.com | h-bscelhtc.online-metrix.net |
@@ -1087,7 +1120,9 @@
 | cdnt.walmartrewards.ca | h-hie95lph-walrew.online-metrix.net |
 | telem.highlow.net | h-highlow.online-metrix.net |
 | yr3ioxw.hoaresbank.co.uk | h-hoares.online-metrix.net |
+| tm.stats.fashionforhome.de | h-home24.online-metrix.net |
 | tm.stats.home24.at | h-home24.online-metrix.net |
+| tm.stats.home24.be | h-home24.online-metrix.net |
 | tm.stats.home24.de | h-home24.online-metrix.net |
 | tm.stats.home24.it | h-home24.online-metrix.net |
 | tm.stats.home24.nl | h-home24.online-metrix.net |
@@ -1231,6 +1266,7 @@
 | img.neora.com | h-nerium.online-metrix.net |
 | secured.netflix.com | h-netflix.online-metrix.net |
 | m.vnforapps.com | h-niubiz.online-metrix.net |
+| img.tmxcyber.com | h-njea5xb8.online-metrix.net |
 | fpt.norton.com | h-norton.online-metrix.net |
 | sub-a.crossmeetz.com | h-nssolutions.online-metrix.net |
 | sec.hikaritv.net | h-ntthikaritv.online-metrix.net |
@@ -1447,6 +1483,7 @@
 | nfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | ofp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | yfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
+| pfp.intuit.com | h-v60nf4oj-pfp.online-metrix.net |
 | frp.intuit.com | h-v60nf4oj.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | ualaki-analytics.vacations.united.com | h-vacations.united.online-metrix.net |

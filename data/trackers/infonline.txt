@@ -20,6 +20,7 @@
 ||data-01d50fd151.versicherungsjournal.de^
 ||data-01df4c6e0c.apps.iocnt.de^
 ||data-01e876a345.tichyseinblick.de^
+||data-01fb540c41.brigitte-wir.de^
 ||data-01fb540c41.brigitte.de^
 ||data-01fb540c41.bym.de^
 ||data-02011e6008.dasoertliche.de^
@@ -97,6 +98,7 @@
 ||data-0e974e9c43.mt.de^
 ||data-0f1d215994.apps.iocnt.de^
 ||data-0f46564db8.nebenan.de^
+||data-0f7b446ae6.asscompact.de^
 ||data-10ac9f794d.apps.iocnt.de^
 ||data-1105c42328.apps.iocnt.de^
 ||data-11c63b1cbc.abschied-nehmen.de^
@@ -115,6 +117,7 @@
 ||data-1361b87d71.apps.iocnt.de^
 ||data-13621569c0.tunnel-online.info^
 ||data-1381d79962.ansbachplus.de^
+||data-1381d79962.autoanzeigen.de^
 ||data-1381d79962.fraenkischer-weinfestkalender.de^
 ||data-1381d79962.main-ding.de^
 ||data-1381d79962.mainpost.de^
@@ -156,13 +159,16 @@
 ||data-1818d50639.chip.de^
 ||data-1818d50639.focus.de^
 ||data-1842699cc4.bundes-telefonbuch.de^
+||data-1842699cc4.dastelefonbuch-augsburg.de^
 ||data-1842699cc4.dastelefonbuch.de^
 ||data-1842699cc4.dastelefonbuchmobil.de^
 ||data-1842699cc4.dialo.de^
 ||data-1842699cc4.dtme.de^
 ||data-1842699cc4.mapandroute.com^
+||data-1842699cc4.meintelefonbuch.de^
 ||data-1842699cc4.t-online.de^
 ||data-1842699cc4.telefonbuch-erlangen.com^
+||data-1842699cc4.vebidoo.de^
 ||data-1842699cc4.webadresse.de^
 ||data-1865901ce0.couchstyle.de^
 ||data-1865901ce0.homeday.de^
@@ -196,6 +202,7 @@
 ||data-1ba1afb625.leinfelden-echterdingen.de^
 ||data-1ba85b9e08.apps.iocnt.de^
 ||data-1bc9d87af9.ahgz.de^
+||data-1bc9d87af9.ahgzimmo.de^
 ||data-1be5adcd69.apps.iocnt.de^
 ||data-1c0a3d83e3.transfermarkt.ae^
 ||data-1c0a3d83e3.transfermarkt.at^
@@ -386,7 +393,6 @@
 ||data-3bd3168117.boerse.de^
 ||data-3bf5bac5c5.addradio.de^
 ||data-3bf5bac5c5.radiohochstift.de^
-||data-3c5dd2a388.zuhausewohnen.de^
 ||data-3c606bc05f.baumetall.de^
 ||data-3c672b4f0d.rtlplus.de^
 ||data-3c91d46d9d.smarterworld.de^
@@ -467,6 +473,7 @@
 ||data-47ee1b0882.bergedorf-kino.de^
 ||data-47ee1b0882.blueboxx-kino.de^
 ||data-47ee1b0882.bochumerkinos.de^
+||data-47ee1b0882.capitol-kappeln.de^
 ||data-47ee1b0882.capitol-kornwestheim.de^
 ||data-47ee1b0882.central-dorsten.de^
 ||data-47ee1b0882.cincinnati-muenchen.de^
@@ -482,7 +489,9 @@
 ||data-47ee1b0882.einbecker-kinos.de^
 ||data-47ee1b0882.film-palast-schwanewede.de^
 ||data-47ee1b0882.filmcenter-dillingen.de^
+||data-47ee1b0882.filmforum.de^
 ||data-47ee1b0882.filmpalast-sulingen.de^
+||data-47ee1b0882.filmstation.de^
 ||data-47ee1b0882.filmtheater-zwiesel.de^
 ||data-47ee1b0882.ge-kinos.de^
 ||data-47ee1b0882.groebenlichtspiele.de^
@@ -504,6 +513,7 @@
 ||data-47ee1b0882.kino-oelde.de^
 ||data-47ee1b0882.kino-ottobrunn.de^
 ||data-47ee1b0882.kino-treuchtlingen.de^
+||data-47ee1b0882.kino-ueberlingen.de^
 ||data-47ee1b0882.kino-wemding.de^
 ||data-47ee1b0882.kino-worms.de^
 ||data-47ee1b0882.kinocenter-cuxhaven.de^
@@ -583,6 +593,7 @@
 ||data-4e9ff460f2.autobild.de^
 ||data-4e9ff460f2.bike-bild.de^
 ||data-4eb828715f.apps.iocnt.de^
+||data-4ede7e9c86.faz.de^
 ||data-4ede7e9c86.faz.net^
 ||data-4eee35d766.apps.iocnt.de^
 ||data-4f2efe538c.einfachbacken.de^
@@ -633,6 +644,7 @@
 ||data-57b3173bb4.wallstreet-online.de^
 ||data-57ee451953.apps.iocnt.de^
 ||data-583b460b43.edison.media^
+||data-583ff8cf8b.energate-messenger.de^
 ||data-584ddcd14e.verl.de^
 ||data-58595d10ca.apps.iocnt.de^
 ||data-588cbce106.springerprofessional.de^
@@ -721,6 +733,7 @@
 ||data-614d3891ff.zeit.de^
 ||data-62650cd9a5.golem.de^
 ||data-626887dee6.0rtl.de^
+||data-626887dee6.890rtl.de^
 ||data-62688b6a00.apps.iocnt.de^
 ||data-62e8b40b12.apps.iocnt.de^
 ||data-62e93c650b.hannover.de^
@@ -864,6 +877,7 @@
 ||data-78c646b50a.apps.iocnt.de^
 ||data-79505c2b06.borkenerzeitung.de^
 ||data-79b463af18.detmold.de^
+||data-79b61f918a.mittelbayerische-stellen.de^
 ||data-79b61f918a.mittelbayerische-trauer.de^
 ||data-79b61f918a.mittelbayerische.de^
 ||data-7a534833b2.techbook.de^
@@ -944,6 +958,7 @@
 ||data-84bc7eaa45.vodafonemail.de^
 ||data-84bcae01a1.iz.de^
 ||data-8522662a32.ansbachplus.de^
+||data-8522662a32.fraenkischer-weinfestkalender.de^
 ||data-8522662a32.main-ding.de^
 ||data-8522662a32.mainpost.de^
 ||data-8522662a32.wuerzburgerleben.de^
@@ -1038,7 +1053,6 @@
 ||data-948e8266cd.zuhausewohnen.de^
 ||data-94a50e073d.leistungslust.de^
 ||data-94d154970c.boersenblatt.net^
-||data-94ef178492.comunio.de^
 ||data-951da6b717.detail.de^
 ||data-9599593609.laborjournal.de^
 ||data-960dda2233.jam.fm^
@@ -1079,6 +1093,7 @@
 ||data-9b3233a086.bunte.de^
 ||data-9b3233a086.focus.de^
 ||data-9b57e703d3.zm-online.de^
+||data-9b6c55490e.afz.de^
 ||data-9b6c55490e.fleischwirtschaft.de^
 ||data-9b6d0bb310.print.de^
 ||data-9b7927207a.outdoor-magazin.com^
@@ -1086,6 +1101,7 @@
 ||data-9c12ed8b3c.echtemamas.de^
 ||data-9c90373be1.automobil-produktion.de^
 ||data-9c9d7ad92f.neckar-chronik.de^
+||data-9c9d7ad92f.tagblatt-anzeiger.de^
 ||data-9c9d7ad92f.tagblatt.de^
 ||data-9cea99829d.apps.iocnt.de^
 ||data-9ceed80655.nnn.de^
@@ -1186,10 +1202,12 @@
 ||data-a85b10211f.rhein-neckar-zeitung.com^
 ||data-a85b10211f.rnz.de^
 ||data-a90e364910.rga.de^
+||data-a91b4f801d.rhoenundstreubote.de^
 ||data-a938ff636c.radioguetersloh.de^
 ||data-a98482617b.holidaycheck.at^
 ||data-a98482617b.holidaycheck.ch^
 ||data-a98482617b.holidaycheck.de^
+||data-a98482617b.holidaycheck.fr^
 ||data-a98482617b.holidaycheck.nl^
 ||data-a9dcbfdd12.dk-online.de^
 ||data-a9dcbfdd12.noz.de^
@@ -1280,6 +1298,7 @@
 ||data-b7d0b4217b.autoscout24.ro^
 ||data-b7d0b4217b.autoscout24.se^
 ||data-b7d20b3e3b.apps.iocnt.de^
+||data-b80f3dd5d8.rheinneckarzeitung.de^
 ||data-b80f3dd5d8.rnz.de^
 ||data-b80f3dd5d8.rnz.info^
 ||data-b851447daf.praxisvita.de^
@@ -1406,6 +1425,7 @@
 ||data-c835a62a97.runnersworld.de^
 ||data-c849cc593c.iz.de^
 ||data-c854f15f64.eltern.de^
+||data-c854f15f64.geo.de^
 ||data-c854f15f64.schwangerschaft.de^
 ||data-c854f15f64.urbia.de^
 ||data-c854f15f64.vorname.com^
@@ -1442,6 +1462,7 @@
 ||data-cf8fd9b799.heizungsjournal.de^
 ||data-cf8fd9b799.integrale-planung.net^
 ||data-cf8fd9b799.sanitaerjournal.de^
+||data-cf8fd9b799.tga-contentbase.de^
 ||data-cfe819bed5.playboy.de^
 ||data-d03ddf25a3.wissenschaft.de^
 ||data-d0a45359d6.apps.iocnt.de^
@@ -1457,6 +1478,7 @@
 ||data-d3b795e73c.instyle.de^
 ||data-d3b7b07de5.apps.iocnt.de^
 ||data-d47b934372.regionalheute.de^
+||data-d4cb803d00.pollux-fid.de^
 ||data-d4db30a18b.borkumer-zeitung.de^
 ||data-d4db30a18b.ga-online.de^
 ||data-d4db30a18b.on-online.de^
@@ -1474,6 +1496,7 @@
 ||data-d6484416fd.maclife.de^
 ||data-d6485d3579.playboy.de^
 ||data-d687fc47c0.11freunde.de^
+||data-d69d9a5415.aachen.de^
 ||data-d7486a3850.nordkurier.de^
 ||data-d7b9b455b2.apps.iocnt.de^
 ||data-d815104c6c.dastelefonbuch.de^
@@ -1503,6 +1526,7 @@
 ||data-dc11b32774.apps.iocnt.de^
 ||data-dc35198c0c.chemietechnik.de^
 ||data-dc874fa9ed.koeln.de^
+||data-dcab82fe16.gala.de^
 ||data-dd2f77abdf.apps.iocnt.de^
 ||data-dd659348c3.pnp.de^
 ||data-ddcae4625b.apps.iocnt.de^
@@ -1518,9 +1542,11 @@
 ||data-e0448d0e4a.herz-fuer-tiere.de^
 ||data-e095ec3c5c.apps.iocnt.de^
 ||data-e0c8f57796.selbst.de^
+||data-e0e7873b34.stadtbibliothek-schwerin.de^
 ||data-e138bc4173.apps.iocnt.de^
 ||data-e159daf928.obermain.de^
 ||data-e16817998e.apps.iocnt.de^
+||data-e18f7c3e0e.bib.dormagen.de^
 ||data-e1f099aeb5.apps.iocnt.de^
 ||data-e25e89b95d.it-daily.net^
 ||data-e337e2a6a8.kuechenplaner-magazin.de^
@@ -1651,6 +1677,7 @@
 ||data-f1e447fbcf.deichstube.de^
 ||data-f1e447fbcf.einfach-tasty.de^
 ||data-f1e447fbcf.extratipp.com^
+||data-f1e447fbcf.fehmarn24.de^
 ||data-f1e447fbcf.fnp.de^
 ||data-f1e447fbcf.fr.de^
 ||data-f1e447fbcf.fuldaerzeitung.de^
@@ -1660,6 +1687,7 @@
 ||data-f1e447fbcf.hallo-muenchen.de^
 ||data-f1e447fbcf.hanauer.de^
 ||data-f1e447fbcf.heidelberg24.de^
+||data-f1e447fbcf.herbstfest-rosenheim.de^
 ||data-f1e447fbcf.hersfelder-zeitung.de^
 ||data-f1e447fbcf.hna.de^
 ||data-f1e447fbcf.in-muenchen.de^
@@ -1670,6 +1698,7 @@
 ||data-f1e447fbcf.kreiszeitung.de^
 ||data-f1e447fbcf.landtiere.de^
 ||data-f1e447fbcf.leinetal24.de^
+||data-f1e447fbcf.lokalo24.de^
 ||data-f1e447fbcf.ludwigshafen24.de^
 ||data-f1e447fbcf.mangfall24.de^
 ||data-f1e447fbcf.mannheim24.de^
@@ -1713,6 +1742,7 @@
 ||data-f59db3288b.24vita.de^
 ||data-f59db3288b.az-online.de^
 ||data-f59db3288b.bgland24.de^
+||data-f59db3288b.brokser-heiratsmarkt.de^
 ||data-f59db3288b.buzzfeed.at^
 ||data-f59db3288b.buzzfeed.de^
 ||data-f59db3288b.bw24.de^
@@ -1799,6 +1829,7 @@
 ||data-fb37a1e7c3.stuttgarter-zeitung.de^
 ||data-fb37a1e7c3.verlagshaus-jaumann.de^
 ||data-fb6bd6ba7f.agrarzeitung.de^
+||data-fb6bd6ba7f.ernaehrungsdienst.de^
 ||data-fb6dfd42e8.rationell-reinigen.de^
 ||data-fbb8842b89.mylife.de^
 ||data-fbb8842b89.netdoktor.de^
@@ -1858,3 +1889,5 @@
 ||data-nl.funkschau.de^
 ||data-nl.tageskarte.io^
 ||dnsbl.test.data-6dbef37a3c.apps.iocnt.de^
+||pool1.i-am.io^
+||source-66584305d5.mainpost.de^

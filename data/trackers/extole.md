@@ -10,6 +10,7 @@
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
+    * aol.extole.com
     * app.extole.com
     * backcountry.extole.com
     * barenecessities.extole.com
@@ -58,6 +59,7 @@
     * kipling-usa.extole.com
     * leadmd.extole.com
     * luckyvitamin.extole.com
+    * lymphedemaproducts.extole.com
     * montgomeryadvertiser.extole.com
     * moo.extole.com
     * myplant.extole.com
@@ -77,6 +79,7 @@
     * paramountsolar.extole.com
     * personalcreations-ssl.extole.com
     * petco.extole.com
+    * phooto.extole.com
     * proflowers-ssl.extole.com
     * purchasingpower.extole.com
     * qalo.extole.com
@@ -294,6 +297,7 @@
     * hush.extole.io
     * hydropeptide.extole.io
     * imagemarket.extole.io
+    * incommonbeauty.extole.io
     * indeed.extole.io
     * inspire-clean-energy.extole.io
     * installamerica.extole.io
@@ -342,6 +346,7 @@
     * meettally.extole.io
     * merrell.extole.io
     * minted.extole.io
+    * mission.extole.io
     * mondetta.extole.io
     * mtntough.extole.io
     * mycarpe.extole.io
@@ -399,7 +404,6 @@
     * refer-maccosmetics-com.extole.io
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
-    * remit2india.extole.io
     * riley-rose.extole.io
     * rio-grande-credit-union.extole.io
     * robertmondaviwinery.extole.io
@@ -545,6 +549,7 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
+| refer.aol.com | aol.extole.com |
 | refer.hpso.com | aon.extole.io |
 | refer.nso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
@@ -606,6 +611,7 @@
 | share.brunettethelabel.com | brunette-the-label.extole.io |
 | refer.bulova.com | bulova.extole.io |
 | share.refer-bumbleandbumble.co.uk | bumble-and-bumble-uk.extole.io |
+| refer.bumbleandbumble.com | bumble-and-bumble.extole.io |
 | share.refer-bumbleandbumble.com | bumble-and-bumble.extole.io |
 | refer.burtsbees.com | burts-bees.extole.io |
 | share.buttahskin.com | buttah-skin.extole.io |
@@ -793,6 +799,7 @@
 | share.hydropeptide.com | hydropeptide.extole.io |
 | refer.icracked.com | icracked.extole.com |
 | share.imagemarket.com | imagemarket.extole.io |
+| refer.incommonbeauty.com | incommonbeauty.extole.io |
 | refer.indeed.com | indeed.extole.io |
 | share.indochino.com | indochino.extole.com |
 | share.inspirecleanenergy.com | inspire-clean-energy.extole.io |
@@ -851,6 +858,7 @@
 | refer.luckyvitamin.com | luckyvitamin.extole.com |
 | get.lull.com | lull.extole.io |
 | refer.lull.com | lull.extole.io |
+| refer.lymphedemaproducts.com | lymphedemaproducts.extole.com |
 | share.maccosmetics.com.au | mac-cosmetics.extole.io |
 | refer.madison-reed.com | madison-reed.extole.io |
 | share.mamabearlegalforms.com | mama-bear-legal-forms.extole.io |
@@ -862,6 +870,7 @@
 | share.meettally.com | meettally.extole.io |
 | refer.merrell.com | merrell.extole.io |
 | refer.minted.com | minted.extole.io |
+| refer.mission.com | mission.extole.io |
 | refer.mpgsport.ca | mondetta.extole.io |
 | refer.mpgsport.com | mondetta.extole.io |
 | refer.montgomeryadvertiser.com | montgomeryadvertiser.extole.com |
@@ -916,9 +925,11 @@
 | refer.gopetplan.ca | petplan.extole.io |
 | refer.gopetplan.com | petplan.extole.io |
 | share.petsbest.com | petsbest.extole.io |
+| indique.phooto.com.br | phooto.extole.com |
 | share.pilotcoffeeroasters.com | pilotcoffeeroasters.extole.io |
 | refer.pimsleur.com | pimsleur.extole.io |
 | refer.ecoterrabeds.com | plush-beds.extole.io |
+| refer.plushbeds.com | plush-beds.extole.io |
 | share.policygenius.com | policygenius.extole.io |
 | refer.thepopcornfactory.com | popcorn-factory.extole.io |
 | refer.potterybarn.com | pottery-barn.extole.io |
@@ -952,7 +963,6 @@
 | share.refer-maccosmetics.fr | refer-maccosmetics-fr.extole.io |
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
-| refer.remit2india.com | remit2india.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
 | share.riograndecu.org | rio-grande-credit-union.extole.io |
 | refer.roadrunnersports.com | roadrunnersports-ssl.extole.com |

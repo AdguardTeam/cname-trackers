@@ -506,6 +506,7 @@ tr.mail.vip-mag.co.uk
 tr.mail.vipmag.fr
 tr.mail.vo3000.com
 tr.mail1.macif.fr
+tr.mailatia.com
 tr.mailing.achatpublic.com
 tr.mailing.heliades.fr
 tr.mailing.laredoute.fr
@@ -546,6 +547,7 @@ tr.mm.infopro-digital.com
 tr.mnoc.espmp-nifr.net
 tr.moes.espmp-agfr.net
 tr.moja-wycena.pl
+tr.monagenligne.fr
 tr.mondevis-b2b.com
 tr.mondevis-pro.com
 tr.moving.fr
@@ -595,6 +597,7 @@ tr.news.capfun.com
 tr.news.casino.fr
 tr.news.casinodrive.fr
 tr.news.casinomax.fr
+tr.news.cci-puydedome.com
 tr.news.cdiscount.com
 tr.news.cdiscountpro.com
 tr.news.cenpac.fr
@@ -610,6 +613,7 @@ tr.news.devisdirect.be
 tr.news.devisdirect.com
 tr.news.digitpjms.fr
 tr.news.directeo.fr
+tr.news.easy-voyage.com
 tr.news.easyviaggio.com
 tr.news.easyviajar.com
 tr.news.easyvoyage.co.uk
@@ -721,6 +725,7 @@ tr.news5.cdiscount.com
 tr.news6.cdiscount.com
 tr.newsletter-habitat.com
 tr.newsletter-stressless.com
+tr.newsletter.1664france.fr
 tr.newsletter.actalians.fr
 tr.newsletter.afpa.fr
 tr.newsletter.assuragency.net
@@ -952,6 +957,7 @@ tr.welcome.lexpress.fr
 tr.welcome.moncoupdepouce.com
 tr.welcome.odalys-vacances.com
 tr.welcome.smartdeals-transavia-fr.com
+tr.welcome.vipmag.fr
 tr.wuei.espmp-agfr.net
 tr.xleads.digital
 tr.zojh.espmp-aluk.net

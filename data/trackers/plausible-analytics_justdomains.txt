@@ -124,7 +124,6 @@ hurricane.tinybird.co
 hype.zlipa.com
 informatics.filamentcolors.xyz
 insights.affilimate.com
-insights.growwithless.com
 joy.ochronus.online
 kaladyaudiology.ericksonbuilt.com
 kekw.givetip.to
@@ -314,12 +313,14 @@ plausible.yalepaprika.com
 plausible.zest.dev
 plausible.zorin.com
 pls.ambue.com
+pls.skycastle.dev
 plsbl-staging.edison.se
 plsbl.edison.se
 pm.redbull.com
 prism.buerokrucker.ch
 prism.drivingkyoto.com
 prism.netherlandlines.com
+prism.pablonouvelle.com
 prism.raumgleiter.com
 prism.singapouring.com
 prism.tramclockmunich.com
@@ -420,7 +421,6 @@ stats.autoscholarwithmrb.com
 stats.babymatras.net
 stats.balticgruppen.se
 stats.bananatimer.com
-stats.baptistwomen.com
 stats.basecamp.com
 stats.bcdtravel.com
 stats.beamd.io
@@ -641,7 +641,6 @@ stats.hexdocs.pm
 stats.hey.com
 stats.hey.science
 stats.hhpro.net
-stats.homeandgardenmakeover.com
 stats.homepage-2021.askmiso-dev.com
 stats.homerdixon.com
 stats.homestow.com
@@ -658,6 +657,7 @@ stats.ifiwasgame.com
 stats.igassmann.me
 stats.igor4stir.com
 stats.in-tuition.net
+stats.incoming.co
 stats.increasinglyfunctional.com
 stats.indyhall.org
 stats.infoboard.de
@@ -756,6 +756,7 @@ stats.mastermeup.com
 stats.matthiasloibl.com
 stats.meetnfly.com
 stats.mesenvies.fr
+stats.michaeloliver.dev
 stats.migrantworker.ca
 stats.mmazzarolo.com
 stats.motion-effect.com
@@ -814,6 +815,7 @@ stats.poesieundgenuss.com
 stats.pointflottant.com
 stats.polekatfitness.com
 stats.poochplaces.dog
+stats.postcollectors.com
 stats.poweringpastcoal.org
 stats.preeventualist.org
 stats.pri.org
@@ -857,7 +859,6 @@ stats.savethemothers.org
 stats.sax.net
 stats.sayla.io
 stats.scailable.net
-stats.scalgo.com
 stats.scottbartell.com
 stats.screen-play.app
 stats.screenagers.com
@@ -875,6 +876,7 @@ stats.shepherd.com
 stats.shiftx.com
 stats.sirdata.com
 stats.sixseven.at
+stats.ski.com
 stats.slicedthread.com
 stats.socialeurope.eu
 stats.sommselect.com
@@ -931,6 +933,7 @@ stats.westswindon-pc.gov.uk
 stats.whenpigsflybbq.com
 stats.whereisit5pmrightnow.com
 stats.wisebox.co
+stats.wordvested.org
 stats.world.hey.com
 stats.wvs.org.uk
 stats.wvsindia.org
