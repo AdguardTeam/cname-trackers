@@ -6,7 +6,7 @@ const {
     createBaseRule,
     createHostsRule,
     createRpzRule,
-    writeFile,
+    writeCombinedFile,
     createCombinedFileName,
 } = require('./helpers');
 
@@ -47,7 +47,7 @@ const updateCombinedOriginals = async () => {
         });
 
     // write combined_original_trackers.txt
-    await writeFile(CONST_DATA.ORIGINALS.combinedFileName, originalTrackersCombinedChunks);
+    await writeCombinedFile(CONST_DATA.ORIGINALS.combinedFileName, originalTrackersCombinedChunks);
 };
 
 /**
@@ -68,7 +68,7 @@ const updateCombinedDisguises = async (rawCombinedData) => {
         }, {});
 
         // write combined_disguised_companyType.json
-        await writeFile(
+        await writeCombinedFile(
             createCombinedFileName(type, JSON_FILE_EXTENSION),
             JSON.stringify(sortedDisguiseJsonData, null, 2),
         );
@@ -87,15 +87,15 @@ const updateCombinedDisguises = async (rawCombinedData) => {
 
         // write content to base, hosts, rpz files
         await Promise.all([
-            writeFile(
+            writeCombinedFile(
                 createCombinedFileName(type, RULES_FILE_EXTENSION),
                 baseCombinedContent,
             ),
-            writeFile(
+            writeCombinedFile(
                 createCombinedFileName(type, RULES_FILE_EXTENSION, HOSTS_RULES_FILE_NAME_ENDING),
                 hostsCombinedContent,
             ),
-            writeFile(
+            writeCombinedFile(
                 createCombinedFileName(type, RULES_FILE_EXTENSION, RPZ_RULES_FILE_NAME_ENDING),
                 rpzCombinedContent,
             ),

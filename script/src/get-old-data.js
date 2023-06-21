@@ -9,15 +9,16 @@ const DATA_DIR_PATH = './../data';
 
 /**
  * Gets old information from JSON files from the 'data' directory folders
- * @param {array} dirNames
+ * @param {Array<fs.Dirent>} dirNames
  * @returns {object}
  */
 const getOldData = async (dirNames) => {
     // object where old trackers information will be written to.
     const oldRawDataObject = {};
-
+    // get only directory names without combined files
+    const onlyDirNames = dirNames.filter((dirName) => dirName.isDirectory()).map((dirName) => dirName.name);
     // collect old data from JSONs
-    const getJsonData = dirNames.map(async (dir) => {
+    const getJsonData = onlyDirNames.map(async (dir) => {
         // folder path
         const dirPath = path.resolve(DATA_DIR_PATH, dir);
 

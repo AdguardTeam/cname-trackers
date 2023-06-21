@@ -4,7 +4,7 @@ const path = require('path');
 
 const { COMBINED_RULES_FILE_NAME_BASE } = require('./constants');
 
-const ROOT_DIR_PATH = '../../';
+const DATA_DIR_PATH = './../data';
 
 /**
  * Creates name for combined disguised files
@@ -43,8 +43,8 @@ const createRpzRule = (domain) => `${domain} CNAME .`;
  * @param {string} fileName property of CONST_DATA object for required file
  * @param {object} fileContent writeable data
  */
-const writeFile = async (fileName, fileContent) => fs.writeFile(
-    path.resolve(__dirname, ROOT_DIR_PATH, fileName),
+const writeCombinedFile = async (fileName, fileContent) => fs.writeFile(
+    path.resolve(DATA_DIR_PATH, fileName),
     fileContent,
 );
 
@@ -307,7 +307,7 @@ const stashInfoPairs = async (pairs) => {
 
 module.exports = {
     createCombinedFileName,
-    writeFile,
+    writeCombinedFile,
     createBaseRule,
     createHostsRule,
     createRpzRule,

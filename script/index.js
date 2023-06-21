@@ -34,7 +34,7 @@ const backupDir = path.resolve(__dirname, BACKUP_DATA_DIR);
 
 const main = async () => {
     // get all directory names from the data folder
-    const allDataDirNames = await fs.readdir(dataDir);
+    const allDataDirNames = await fs.readdir(dataDir, { withFileTypes: true });
 
     // object where old trackers information will be written to.
     // it is needed to merge old data with new one

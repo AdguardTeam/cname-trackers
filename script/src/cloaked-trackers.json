@@ -82,14 +82,14 @@
     },
     {
         "company_name": "Branch.io",
-        "type": "tracker",
+        "type": "clickthrough",
         "domains": [
             "thirdparty.bnc.lt"
         ]
     },
     {
         "company_name": "Clickaine",
-        "type": "ad",
+        "type": "clickthrough",
         "domains": [
             "api.clickaine.com"
         ]
@@ -134,7 +134,7 @@
     },
     {
         "company_name": "Extole",
-        "type": "tracker",
+        "type": "microsite",
         "domains": [
             "extole.com",
             "extole.io"
@@ -205,7 +205,7 @@
     },
     {
         "company_name": "Logly",
-        "type": "tracker",
+        "type": "microsite",
         "domains": [
             "logly.co.jp"
         ]
@@ -219,7 +219,7 @@
     },
     {
         "company_name": "Nativo",
-        "type": "tracker",
+        "type": "microsite",
         "domains": [
             "ntv.io",
             "ntvpforever.com",
@@ -235,7 +235,7 @@
     },
     {
         "company_name": "Oracle Eloqua",
-        "type": "tracker",
+        "type": "microsite",
         "domains": [
             "t.eloqua.com"
         ]
@@ -249,7 +249,7 @@
     },
     {
         "company_name": "Pardot",
-        "type": "tracker",
+        "type": "clickthrough",
         "domains": [
             "go.pardot.com"
         ]
@@ -284,7 +284,7 @@
     },
     {
         "company_name": "TraceDock",
-        "type": "tracker",
+        "type": "microsite",
         "domains": [
             "a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com",
             "a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com",
