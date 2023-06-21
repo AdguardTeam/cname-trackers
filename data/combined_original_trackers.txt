@@ -1,0 +1,148 @@
+! Title: AdGuard CNAME original trackers list
+! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
+! TimeUpdated: 2023-06-21T13:09:38+00:00
+! Homepage: https://github.com/AdguardTeam/cname-trackers
+!
+!
+! Company: affilbox.cz
+||cz.affilbox.cz^
+!
+! Company: 2cnt.net
+||pl02.prolitteris.2cnt.net^
+!
+! Company: A8.net
+||a8.net^
+!
+! Company: Actionlink.jp
+||mm.actionlink.jp^
+!
+! Company: AD EBiS
+||ebis.ne.jp^
+!
+! Company: AdSpyglass
+||0i0i0i0.com^
+!
+! Company: ads2.bid
+||ads.bid^
+!
+! Company: AT Internet (formerly XiTi)
+||at-o.net^
+!
+! Company: Act-On
+||actonservice.com^
+||actonsoftware.com^
+!
+! Company: Adobe Experience Cloud (formerly Omniture)
+||2o7.net^
+||data.adobedc.net^
+||sc.adobedc.net^
+||sc.omtrdc.net^
+!
+! Company: ahacdn.me
+||cdn18685953.ahacdn.me^
+!
+! Company: Branch.io
+||thirdparty.bnc.lt^
+!
+! Company: Clickaine
+||api.clickaine.com^
+!
+! Company: Commanders Act
+||tagcommander.com^
+!
+! Company: Criteo
+||dnsdelegation.io^
+||storetail.io^
+!
+! Company: DataUnlocker
+||dataunlocker.com^
+||monopoly-drain.ga^
+||friendly-community.tk^
+!
+! Company: Ensighten
+||nc0.co^
+!
+! Company: Eulerian
+||eulerian.net^
+!
+! Company: Extole
+||extole.com^
+||extole.io^
+!
+! Company: Fathom
+||fathomdns.com^
+!
+! Company: GENIEE
+||genieespv.jp^
+!
+! Company: GMO Internet Group
+||ad-cloud.jp^
+!
+! Company: heleric.com
+||heleric.com^
+!
+! Company: INFOnline
+||iocnt.net^
+!
+! Company: Ingenious Technologies
+||affex.org^
+!
+! Company: Keyade
+||k.keyade.com^
+!
+! Company: Lead Forensics
+||ghochv3eng.trafficmanager.net^
+!
+! Company: LexisNexis Risk Solutions
+||online-metrix.net^
+!
+! Company: Logly
+||logly.co.jp^
+!
+! Company: NameSilo
+||ab1n.net^
+!
+! Company: Nativo
+||ntv.io^
+||ntvpforever.com^
+||postrelease.com^
+!
+! Company: NP6
+||tracking.bp01.net^
+!
+! Company: Oracle Eloqua
+||t.eloqua.com^
+!
+! Company: Otto Group
+||oghub.io^
+!
+! Company: Pardot
+||go.pardot.com^
+!
+! Company: Parse.ly
+||parsely.com^
+!
+! Company: Plausible Analytics
+||custom.plausible.io^
+!
+! Company: PopCash
+||popcashjs.b-cdn.net^
+!
+! Company: RedTrack
+||rdtk.io^
+!
+! Company: TraceDock
+||a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com^
+||a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com^
+||a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com^
+||afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com^
+!
+! Company: Webtrekk
+||webtrekk.net^
+||wt-eu02.net^
+!
+! Company: Webair
+||ak-is2.net^
+!
+! Company: Wizaly
+||wizaly.com^

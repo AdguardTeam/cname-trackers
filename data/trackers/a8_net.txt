@@ -30,6 +30,7 @@
 ||a8.biziphone.com^
 ||a8.bobby-jp.com^
 ||a8.boco.co.jp^
+||a8.bon-quish.jp^
 ||a8.bousui-pro.com^
 ||a8.brandcosme.com^
 ||a8.bridal-hills.com^
@@ -126,6 +127,7 @@
 ||a8.kekkon.kuraveil.jp^
 ||a8.kimonomachi.co.jp^
 ||a8.kinkennet.jp^
+||a8.kinnikushokudo-ec.jp^
 ||a8.kireiyu.com^
 ||a8.knew.jp^
 ||a8.kojyo-worker.com^
@@ -140,6 +142,7 @@
 ||a8.lens-ocean.com^
 ||a8.looop-denki.com^
 ||a8.lwa-coating.com^
+||a8.lyprimo.jp^
 ||a8.machino-housecleaning.com^
 ||a8.makeshop.jp^
 ||a8.mamaworks.jp^
@@ -501,6 +504,7 @@
 ||a8clk.skynet-c.jp^
 ||a8clk.skyoffice.info^
 ||a8clk.sma-ene.jp^
+||a8clk.smart-keiri.com^
 ||a8clk.smile-zemi.jp^
 ||a8clk.solideajapan.com^
 ||a8clk.staff.mynavi.jp^
@@ -548,6 +552,7 @@
 ||a8clk.www.duskin-hozumi.co.jp^
 ||a8clk.www.duskin-hozumi.jp^
 ||a8clk.www.e87.com^
+||a8clk.www.flierinc.com^
 ||a8clk.www.gaihekitosou-partners.jp^
 ||a8clk.www.green-dog.com^
 ||a8clk.www.italki.com^
@@ -608,6 +613,7 @@
 ||a8cv.bb-internet-qsyu.net^
 ||a8cv.bbt757.com^
 ||a8cv.be-slim-spbikyou.com^
+||a8cv.beaming.jp^
 ||a8cv.bellcosme.com^
 ||a8cv.bellevie-inc.co.jp^
 ||a8cv.bettysbeauty.jp^
@@ -633,7 +639,6 @@
 ||a8cv.catal.jp^
 ||a8cv.celbest.urr.jp^
 ||a8cv.chefbox.jp^
-||a8cv.chillaxy.jp^
 ||a8cv.chuoms.com^
 ||a8cv.cinemage.shop^
 ||a8cv.clickjob.jp^
@@ -1000,6 +1005,7 @@
 ||acv.crea-lp.com^
 ||acv.hikarisoftbank.com^
 ||acv.mc-nurse.net^
+||acv.mc-pharma.net^
 ||acv.me-hikari.net^
 ||acv.next-air-wifi.com^
 ||acv.pikarahikari.net^
@@ -1039,6 +1045,7 @@
 ||cv.atelier-shark.com^
 ||cv.bc-force.com^
 ||cv.belta-shop.jp^
+||cv.cante-gym.com^
 ||cv.colleize.com^
 ||cv.drive-hikari.net^
 ||cv.figure.toy-kaitoru.com^

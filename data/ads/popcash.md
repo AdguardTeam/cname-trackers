@@ -85,6 +85,7 @@
 | angelfish.dpya.com | deprecated-custom-domains.b-cdn.net |
 | angelfish.grayscale.design | deprecated-custom-domains.b-cdn.net |
 | angelfish.owlbear.rodeo | deprecated-custom-domains.b-cdn.net |
+| angelfish.shorehamlife.com | deprecated-custom-domains.b-cdn.net |
 | angelfish.wpsocialrocket.com | deprecated-custom-domains.b-cdn.net |
 | anglerfish.luminfire.com | deprecated-custom-domains.b-cdn.net |
 | anglerfish.pfolios.net | deprecated-custom-domains.b-cdn.net |
@@ -124,6 +125,7 @@
 | bandicoot.sigerr.org | deprecated-custom-domains.b-cdn.net |
 | barnacle.big-in-japan.com | deprecated-custom-domains.b-cdn.net |
 | barnacle.viewsource.io | deprecated-custom-domains.b-cdn.net |
+| barracuda.civicdatalibrary.org | deprecated-custom-domains.b-cdn.net |
 | barracuda.ottsysteme.rs | deprecated-custom-domains.b-cdn.net |
 | barracuda.saraos.tech | deprecated-custom-domains.b-cdn.net |
 | barracuda.verto.exchange | deprecated-custom-domains.b-cdn.net |
@@ -211,6 +213,7 @@
 | cat.lasalturasresort.com | deprecated-custom-domains.b-cdn.net |
 | cat.mattr.global | deprecated-custom-domains.b-cdn.net |
 | cat.remotefit.io | deprecated-custom-domains.b-cdn.net |
+| cat.serverless.quest | deprecated-custom-domains.b-cdn.net |
 | cat.sprucely.net | deprecated-custom-domains.b-cdn.net |
 | cat.thisminute.app | deprecated-custom-domains.b-cdn.net |
 | cat.tinylittlebusinesses.com | deprecated-custom-domains.b-cdn.net |
@@ -225,6 +228,7 @@
 | cattle.driftbot.io | deprecated-custom-domains.b-cdn.net |
 | cattle.elitecanines.com.au | deprecated-custom-domains.b-cdn.net |
 | cattle.eprc.tools | deprecated-custom-domains.b-cdn.net |
+| cattle.herojob.de | deprecated-custom-domains.b-cdn.net |
 | cattle.kirkebaekke.dk | deprecated-custom-domains.b-cdn.net |
 | cattle.kumo.at | deprecated-custom-domains.b-cdn.net |
 | cattle.mes-renovateurs.com | deprecated-custom-domains.b-cdn.net |
@@ -342,7 +346,6 @@
 | dragonfly.codebar.ch | deprecated-custom-domains.b-cdn.net |
 | dragonfly.filmmakerfreedom.com | deprecated-custom-domains.b-cdn.net |
 | dragonfly.jala-one.com | deprecated-custom-domains.b-cdn.net |
-| eagle.mbcharbonneau.com | deprecated-custom-domains.b-cdn.net |
 | eagle.roarfilm.com.au | deprecated-custom-domains.b-cdn.net |
 | earthworm.creatifmediagroup.com | deprecated-custom-domains.b-cdn.net |
 | earthworm.elenabirkenwald.com | deprecated-custom-domains.b-cdn.net |
@@ -529,6 +532,7 @@
 | jay.breakup.management | deprecated-custom-domains.b-cdn.net |
 | jay.plantainguy.com | deprecated-custom-domains.b-cdn.net |
 | jcpjfyikk.dogbonemarket.com | deprecated-custom-domains.b-cdn.net |
+| jellyfish.teresaharlow.com | deprecated-custom-domains.b-cdn.net |
 | jellyfish.therapieplatz-finden.de | deprecated-custom-domains.b-cdn.net |
 | kangaroo.kraenk.de | deprecated-custom-domains.b-cdn.net |
 | kangaroo.triplightfantastic.com | deprecated-custom-domains.b-cdn.net |
@@ -723,7 +727,6 @@
 | parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wilderworld.com | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wus.immo | deprecated-custom-domains.b-cdn.net |
-| partridge.unfamiliar.land | deprecated-custom-domains.b-cdn.net |
 | peacock.psych.help | deprecated-custom-domains.b-cdn.net |
 | peafowl.projectstrackt.dev | deprecated-custom-domains.b-cdn.net |
 | penguin.mobiadroit.com | deprecated-custom-domains.b-cdn.net |
@@ -767,6 +770,7 @@
 | ptarmigan.bridal-hair-and-accessories-now.com | deprecated-custom-domains.b-cdn.net |
 | ptarmigan.codebycorey.com | deprecated-custom-domains.b-cdn.net |
 | ptarmigan.goudieworks.co | deprecated-custom-domains.b-cdn.net |
+| ptarmigan.natalieba.net | deprecated-custom-domains.b-cdn.net |
 | ptarmigan.q-free.com | deprecated-custom-domains.b-cdn.net |
 | puffin.geocode.earth | deprecated-custom-domains.b-cdn.net |
 | puffin.jem.dev | deprecated-custom-domains.b-cdn.net |
@@ -818,6 +822,7 @@
 | scallop.esolia.pro | deprecated-custom-domains.b-cdn.net |
 | scallop.productionrails.com | deprecated-custom-domains.b-cdn.net |
 | scallop.vav.link | deprecated-custom-domains.b-cdn.net |
+| scorpion.byteside.com | deprecated-custom-domains.b-cdn.net |
 | scorpion.clare.ink | deprecated-custom-domains.b-cdn.net |
 | sdegwynml.bmaci.me | deprecated-custom-domains.b-cdn.net |
 | seahorse.dexterityvisuals.com | deprecated-custom-domains.b-cdn.net |
@@ -847,6 +852,7 @@
 | snake.kiramclean.com | deprecated-custom-domains.b-cdn.net |
 | snipe.mfaber.at | deprecated-custom-domains.b-cdn.net |
 | snipe.mizzuu.co | deprecated-custom-domains.b-cdn.net |
+| snipe.nipht.io | deprecated-custom-domains.b-cdn.net |
 | sole.pretto.fr | deprecated-custom-domains.b-cdn.net |
 | sole.riverwalkdental.com.au | deprecated-custom-domains.b-cdn.net |
 | sparrow.uitvaartzorg-vanraemdonck.be | deprecated-custom-domains.b-cdn.net |
@@ -920,6 +926,8 @@
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
 | treefrog.socialmarketinggateway.co.uk | deprecated-custom-domains.b-cdn.net |
 | treefrog.tschmeisser.com | deprecated-custom-domains.b-cdn.net |
+| trout.batzo.net | deprecated-custom-domains.b-cdn.net |
+| trout.openfpl.com | deprecated-custom-domains.b-cdn.net |
 | trout.travelmassive.com | deprecated-custom-domains.b-cdn.net |
 | trout.unicornplatform.com | deprecated-custom-domains.b-cdn.net |
 | tuna.peterfarms.com | deprecated-custom-domains.b-cdn.net |
@@ -927,6 +935,7 @@
 | turkey.tella.tv | deprecated-custom-domains.b-cdn.net |
 | turtle.geshem.space | deprecated-custom-domains.b-cdn.net |
 | turtle.hackstock.net | deprecated-custom-domains.b-cdn.net |
+| turtle.mushtache.com | deprecated-custom-domains.b-cdn.net |
 | turtle.olivier.cx | deprecated-custom-domains.b-cdn.net |
 | uktgg.dev-tester.com | deprecated-custom-domains.b-cdn.net |
 | vampirebat.datingmedellin.com | deprecated-custom-domains.b-cdn.net |
@@ -970,6 +979,7 @@
 | worm.paulstamatiou.com | deprecated-custom-domains.b-cdn.net |
 | www.stork.notlessbutbetter.com | deprecated-custom-domains.b-cdn.net |
 | yak.auclantis.com | deprecated-custom-domains.b-cdn.net |
+| zebra.gareth.sh | deprecated-custom-domains.b-cdn.net |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.afwpc.com | popcashjs.b-cdn.net |
 | cdn.almacz.com | popcashjs.b-cdn.net |

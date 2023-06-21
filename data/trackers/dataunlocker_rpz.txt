@@ -57,6 +57,7 @@ e5obq1v261.www.lurkit.com CNAME .
 e62ndy5gz80q.bitdomain.biz CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
 f0tiojboxnc1.bitdomain.biz CNAME .
+fkupm8697t19.eyevolution.de CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
 fyznhp8inq9x.jaywilsonwebsolutions.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .

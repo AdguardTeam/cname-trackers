@@ -12,6 +12,7 @@ sms.news.allopneus.com CNAME .
 t8.mailperformance.com CNAME .
 tr.3ou4xcb.cetelem.fr CNAME .
 tr.3xcb.cofinoga.fr CNAME .
+tr.aasi.espmp-agfr.net CNAME .
 tr.abo.cotemaison.fr CNAME .
 tr.acd-comexpert.fr CNAME .
 tr.acq-pjms.fr CNAME .
@@ -473,6 +474,7 @@ tr.kpyn02a.espmp-cufr.net CNAME .
 tr.kpyn02f.espmp-cufr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
 tr.laprairie.ifop.com CNAME .
+tr.lbar.espmp-agfr.net CNAME .
 tr.leads.direct CNAME .
 tr.legrandjeu.boulanger.com CNAME .
 tr.lesmarques.envie-de-bien-manger.com CNAME .
@@ -602,7 +604,9 @@ tr.news.cdiscount.com CNAME .
 tr.news.cdiscountpro.com CNAME .
 tr.news.cenpac.fr CNAME .
 tr.news.chapsvision.com CNAME .
+tr.news.chezmonveto.com CNAME .
 tr.news.chilican.com CNAME .
+tr.news.clicochic.com CNAME .
 tr.news.companeo.es CNAME .
 tr.news.corsicalinea.com CNAME .
 tr.news.cotemaison.fr CNAME .
@@ -691,6 +695,7 @@ tr.news.ouestnormandie.cci.fr CNAME .
 tr.news.parisinfo.com CNAME .
 tr.news.perfectstay.com CNAME .
 tr.news.perl.fr CNAME .
+tr.news.pl.bata-esp.com CNAME .
 tr.news.receiveyourquote.co.uk CNAME .
 tr.news.retailglobalsolutions.com CNAME .
 tr.news.roadzila.com CNAME .
@@ -801,6 +806,7 @@ tr.offres.bfmtv.com CNAME .
 tr.offresbtoc.engie.fr CNAME .
 tr.offrevip.banque-casino.fr CNAME .
 tr.offrevip.floa.fr CNAME .
+tr.ojxm.espmp-aufr.net CNAME .
 tr.openinnovation.lvmh.com CNAME .
 tr.operations.butagaz.fr CNAME .
 tr.orange-lease.fr CNAME .
@@ -864,6 +870,7 @@ tr.route-solutiondata.fr CNAME .
 tr.roxi02e.espmp-agfr.net CNAME .
 tr.safrancom-esp.net CNAME .
 tr.sash.espmp-aufr.net CNAME .
+tr.sash02g.espmp-nifr.net CNAME .
 tr.satisfaction.alinea.com CNAME .
 tr.satisfaction.groupe-pv-cp.com CNAME .
 tr.satisfaction.villagesnature.com CNAME .
@@ -871,6 +878,7 @@ tr.scienceshumaines.info CNAME .
 tr.scienceshumaines.pro CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
 tr.service-mail.carrefour.fr CNAME .
+tr.service.linxea.com CNAME .
 tr.serviceclient.adagcaladoise.fr CNAME .
 tr.serviceclient.bf-depannage.fr CNAME .
 tr.serviceclient.depanchauffageservice.fr CNAME .
@@ -950,6 +958,7 @@ tr.welcome.easyviajar.com CNAME .
 tr.welcome.easyvoyage.co.uk CNAME .
 tr.welcome.easyvoyage.com CNAME .
 tr.welcome.easyvoyage.de CNAME .
+tr.welcome.lacollection-airfrance.ch CNAME .
 tr.welcome.lacollection-airfrance.co.uk CNAME .
 tr.welcome.lacollection-airfrance.de CNAME .
 tr.welcome.lacollection-airfrance.fr CNAME .
@@ -957,6 +966,7 @@ tr.welcome.lexpress.fr CNAME .
 tr.welcome.moncoupdepouce.com CNAME .
 tr.welcome.odalys-vacances.com CNAME .
 tr.welcome.smartdeals-transavia-fr.com CNAME .
+tr.welcome.thelist-emirates.fr CNAME .
 tr.welcome.vipmag.fr CNAME .
 tr.wuei.espmp-agfr.net CNAME .
 tr.xleads.digital CNAME .

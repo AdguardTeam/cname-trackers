@@ -31,6 +31,7 @@
 | t8.mailperformance.com | tracking.bp01.net |
 | tr.3ou4xcb.cetelem.fr | tracking.bp01.net |
 | tr.3xcb.cofinoga.fr | tracking.bp01.net |
+| tr.aasi.espmp-agfr.net | tracking.bp01.net |
 | tr.abo.cotemaison.fr | tracking.bp01.net |
 | tr.acd-comexpert.fr | tracking.bp01.net |
 | tr.acq-pjms.fr | tracking.bp01.net |
@@ -492,6 +493,7 @@
 | tr.kpyn02f.espmp-cufr.net | tracking.bp01.net |
 | tr.krus.espmp-agfr.net | tracking.bp01.net |
 | tr.laprairie.ifop.com | tracking.bp01.net |
+| tr.lbar.espmp-agfr.net | tracking.bp01.net |
 | tr.leads.direct | tracking.bp01.net |
 | tr.legrandjeu.boulanger.com | tracking.bp01.net |
 | tr.lesmarques.envie-de-bien-manger.com | tracking.bp01.net |
@@ -621,7 +623,9 @@
 | tr.news.cdiscountpro.com | tracking.bp01.net |
 | tr.news.cenpac.fr | tracking.bp01.net |
 | tr.news.chapsvision.com | tracking.bp01.net |
+| tr.news.chezmonveto.com | tracking.bp01.net |
 | tr.news.chilican.com | tracking.bp01.net |
+| tr.news.clicochic.com | tracking.bp01.net |
 | tr.news.companeo.es | tracking.bp01.net |
 | tr.news.corsicalinea.com | tracking.bp01.net |
 | tr.news.cotemaison.fr | tracking.bp01.net |
@@ -710,6 +714,7 @@
 | tr.news.parisinfo.com | tracking.bp01.net |
 | tr.news.perfectstay.com | tracking.bp01.net |
 | tr.news.perl.fr | tracking.bp01.net |
+| tr.news.pl.bata-esp.com | tracking.bp01.net |
 | tr.news.receiveyourquote.co.uk | tracking.bp01.net |
 | tr.news.retailglobalsolutions.com | tracking.bp01.net |
 | tr.news.roadzila.com | tracking.bp01.net |
@@ -820,6 +825,7 @@
 | tr.offresbtoc.engie.fr | tracking.bp01.net |
 | tr.offrevip.banque-casino.fr | tracking.bp01.net |
 | tr.offrevip.floa.fr | tracking.bp01.net |
+| tr.ojxm.espmp-aufr.net | tracking.bp01.net |
 | tr.openinnovation.lvmh.com | tracking.bp01.net |
 | tr.operations.butagaz.fr | tracking.bp01.net |
 | tr.orange-lease.fr | tracking.bp01.net |
@@ -883,6 +889,7 @@
 | tr.roxi02e.espmp-agfr.net | tracking.bp01.net |
 | tr.safrancom-esp.net | tracking.bp01.net |
 | tr.sash.espmp-aufr.net | tracking.bp01.net |
+| tr.sash02g.espmp-nifr.net | tracking.bp01.net |
 | tr.satisfaction.alinea.com | tracking.bp01.net |
 | tr.satisfaction.groupe-pv-cp.com | tracking.bp01.net |
 | tr.satisfaction.villagesnature.com | tracking.bp01.net |
@@ -890,6 +897,7 @@
 | tr.scienceshumaines.pro | tracking.bp01.net |
 | tr.secteurentreprises.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.service-mail.carrefour.fr | tracking.bp01.net |
+| tr.service.linxea.com | tracking.bp01.net |
 | tr.serviceclient.adagcaladoise.fr | tracking.bp01.net |
 | tr.serviceclient.bf-depannage.fr | tracking.bp01.net |
 | tr.serviceclient.depanchauffageservice.fr | tracking.bp01.net |
@@ -969,6 +977,7 @@
 | tr.welcome.easyvoyage.co.uk | tracking.bp01.net |
 | tr.welcome.easyvoyage.com | tracking.bp01.net |
 | tr.welcome.easyvoyage.de | tracking.bp01.net |
+| tr.welcome.lacollection-airfrance.ch | tracking.bp01.net |
 | tr.welcome.lacollection-airfrance.co.uk | tracking.bp01.net |
 | tr.welcome.lacollection-airfrance.de | tracking.bp01.net |
 | tr.welcome.lacollection-airfrance.fr | tracking.bp01.net |
@@ -976,6 +985,7 @@
 | tr.welcome.moncoupdepouce.com | tracking.bp01.net |
 | tr.welcome.odalys-vacances.com | tracking.bp01.net |
 | tr.welcome.smartdeals-transavia-fr.com | tracking.bp01.net |
+| tr.welcome.thelist-emirates.fr | tracking.bp01.net |
 | tr.welcome.vipmag.fr | tracking.bp01.net |
 | tr.wuei.espmp-agfr.net | tracking.bp01.net |
 | tr.xleads.digital | tracking.bp01.net |

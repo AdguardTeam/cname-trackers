@@ -30,6 +30,7 @@ a8.biz.ne.jp CNAME .
 a8.biziphone.com CNAME .
 a8.bobby-jp.com CNAME .
 a8.boco.co.jp CNAME .
+a8.bon-quish.jp CNAME .
 a8.bousui-pro.com CNAME .
 a8.brandcosme.com CNAME .
 a8.bridal-hills.com CNAME .
@@ -126,6 +127,7 @@ a8.kddi-hikari.com CNAME .
 a8.kekkon.kuraveil.jp CNAME .
 a8.kimonomachi.co.jp CNAME .
 a8.kinkennet.jp CNAME .
+a8.kinnikushokudo-ec.jp CNAME .
 a8.kireiyu.com CNAME .
 a8.knew.jp CNAME .
 a8.kojyo-worker.com CNAME .
@@ -140,6 +142,7 @@ a8.lens-labo.com CNAME .
 a8.lens-ocean.com CNAME .
 a8.looop-denki.com CNAME .
 a8.lwa-coating.com CNAME .
+a8.lyprimo.jp CNAME .
 a8.machino-housecleaning.com CNAME .
 a8.makeshop.jp CNAME .
 a8.mamaworks.jp CNAME .
@@ -501,6 +504,7 @@ a8clk.skima.jp CNAME .
 a8clk.skynet-c.jp CNAME .
 a8clk.skyoffice.info CNAME .
 a8clk.sma-ene.jp CNAME .
+a8clk.smart-keiri.com CNAME .
 a8clk.smile-zemi.jp CNAME .
 a8clk.solideajapan.com CNAME .
 a8clk.staff.mynavi.jp CNAME .
@@ -548,6 +552,7 @@ a8clk.www.duskin-chiyoda.com CNAME .
 a8clk.www.duskin-hozumi.co.jp CNAME .
 a8clk.www.duskin-hozumi.jp CNAME .
 a8clk.www.e87.com CNAME .
+a8clk.www.flierinc.com CNAME .
 a8clk.www.gaihekitosou-partners.jp CNAME .
 a8clk.www.green-dog.com CNAME .
 a8clk.www.italki.com CNAME .
@@ -608,6 +613,7 @@ a8cv.b-mobilerental.com CNAME .
 a8cv.bb-internet-qsyu.net CNAME .
 a8cv.bbt757.com CNAME .
 a8cv.be-slim-spbikyou.com CNAME .
+a8cv.beaming.jp CNAME .
 a8cv.bellcosme.com CNAME .
 a8cv.bellevie-inc.co.jp CNAME .
 a8cv.bettysbeauty.jp CNAME .
@@ -633,7 +639,6 @@ a8cv.cast-er.com CNAME .
 a8cv.catal.jp CNAME .
 a8cv.celbest.urr.jp CNAME .
 a8cv.chefbox.jp CNAME .
-a8cv.chillaxy.jp CNAME .
 a8cv.chuoms.com CNAME .
 a8cv.cinemage.shop CNAME .
 a8cv.clickjob.jp CNAME .
@@ -1000,6 +1005,7 @@ acv.cmf-hikari.net CNAME .
 acv.crea-lp.com CNAME .
 acv.hikarisoftbank.com CNAME .
 acv.mc-nurse.net CNAME .
+acv.mc-pharma.net CNAME .
 acv.me-hikari.net CNAME .
 acv.next-air-wifi.com CNAME .
 acv.pikarahikari.net CNAME .
@@ -1039,6 +1045,7 @@ cv.2jikaikun.com CNAME .
 cv.atelier-shark.com CNAME .
 cv.bc-force.com CNAME .
 cv.belta-shop.jp CNAME .
+cv.cante-gym.com CNAME .
 cv.colleize.com CNAME .
 cv.drive-hikari.net CNAME .
 cv.figure.toy-kaitoru.com CNAME .

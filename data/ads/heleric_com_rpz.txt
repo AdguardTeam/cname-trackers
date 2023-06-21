@@ -81,6 +81,7 @@ fx.muntiglesia.com CNAME .
 fy.uncheckluggies.com CNAME .
 ga.asseizeenl.com CNAME .
 gg.warmanmamelon.com CNAME .
+gi.okapisail.com CNAME .
 gn.afootwitword.com CNAME .
 go.cordelgront.com CNAME .
 go.jazygesunoared.com CNAME .
@@ -184,6 +185,7 @@ pb.shaledpaidle.com CNAME .
 pg.maftirkolo.com CNAME .
 pk.axitessubclei.com CNAME .
 pq.carlingquerent.com CNAME .
+pq.murkfrazil.com CNAME .
 pr.hefterunmete.com CNAME .
 ps.lanzontuareg.com CNAME .
 pv.wiglessoctaves.com CNAME .
@@ -201,6 +203,7 @@ qu.oilsulva.com CNAME .
 qv.kempitepterin.com CNAME .
 qv.snaprosery.com CNAME .
 qw.garpikewoodbox.com CNAME .
+qy.narrateharmala.com CNAME .
 qz.equalsenframe.com CNAME .
 ra.polyserbdom.com CNAME .
 rg.canesbilker.com CNAME .

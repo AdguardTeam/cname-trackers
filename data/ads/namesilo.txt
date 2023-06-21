@@ -554,6 +554,7 @@
 ||3618939.notify6.com^
 ||3618945.notify6.com^
 ||3619313.notify6.com^
+||3621331.notifysrv.com^
 ||3621333.notifysrv.com^
 ||3629687.notify6.com^
 ||3629687.notifysrv.com^
@@ -600,6 +601,7 @@
 ||3739013.notify6.com^
 ||3740615.notifysrv.com^
 ||3744.notify.optimizesrv.com^
+||3745191.notify6.com^
 ||3745191.notifysrv.com^
 ||3745197.notify6.com^
 ||3752469.notifysrv.com^
@@ -736,6 +738,7 @@
 ||4179930.notify6.com^
 ||4182036.notify6.com^
 ||4188246.notify6.com^
+||4189332.notify6.com^
 ||4189910.notify6.com^
 ||4189916.notify6.com^
 ||4191292.notify6.com^
@@ -849,12 +852,10 @@
 ||_sips._tcp.3323174.notifysrv.com^
 ||a.a3ion.com^
 ||a.ad.guru^
-||a.asvsm.com^
 ||a.etology.com^
 ||a.paradoxgroup.uk^
 ||a.redpathmedia.com^
 ||a.stuffserve.com^
-||a8q5r6r2.exads.com^
 ||admin.gettopple.com^
 ||api.adnation.com^
 ||delivery.gettopple.com^
@@ -893,6 +894,7 @@
 ||s.adnflow.com^
 ||s.advertrek.com^
 ||s.bizonads-ssp.com^
+||s.datingclix.com^
 ||s.eaalink.com^
 ||s.elink2b.com^
 ||s.elink2c.com^
@@ -963,8 +965,10 @@
 ||syndication.whibd.com^
 ||syndication.whibp.com^
 ||www.3227697.notify6.com^
+||www.4152316.notify6.com^
 ||a.addisplaynetwork.com^
 ||a.adnflow.com^
+||a.asvsm.com^
 ||a.bizonads-ssp.com^
 ||a.santabrowser.com^
 ||a.slice.exchange^

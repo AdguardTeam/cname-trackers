@@ -89,6 +89,7 @@
 | fy.uncheckluggies.com | heleric.com |
 | ga.asseizeenl.com | heleric.com |
 | gg.warmanmamelon.com | heleric.com |
+| gi.okapisail.com | heleric.com |
 | gn.afootwitword.com | heleric.com |
 | go.cordelgront.com | heleric.com |
 | go.jazygesunoared.com | heleric.com |
@@ -192,6 +193,7 @@
 | pg.maftirkolo.com | heleric.com |
 | pk.axitessubclei.com | heleric.com |
 | pq.carlingquerent.com | heleric.com |
+| pq.murkfrazil.com | heleric.com |
 | pr.hefterunmete.com | heleric.com |
 | ps.lanzontuareg.com | heleric.com |
 | pv.wiglessoctaves.com | heleric.com |
@@ -209,6 +211,7 @@
 | qv.kempitepterin.com | heleric.com |
 | qv.snaprosery.com | heleric.com |
 | qw.garpikewoodbox.com | heleric.com |
+| qy.narrateharmala.com | heleric.com |
 | qz.equalsenframe.com | heleric.com |
 | ra.polyserbdom.com | heleric.com |
 | rg.canesbilker.com | heleric.com |

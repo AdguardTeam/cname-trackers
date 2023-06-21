@@ -2,6 +2,7 @@
 ; Company name: Actionlink.jp
 actionlk.ozie.co.jp CNAME .
 al.ballon.jp CNAME .
+al.bath-ec.com CNAME .
 al.caetus.jp CNAME .
 al.californiastreet.net CNAME .
 al.directishii.net CNAME .

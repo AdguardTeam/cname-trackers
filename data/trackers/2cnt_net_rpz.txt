@@ -166,6 +166,7 @@ ssl-youseeandroidstream.tns-gallup.dk CNAME .
 youseeandroidstream.tns-gallup.dk CNAME .
 ebiam.tns-gallup.dk CNAME .
 edc.tns-gallup.dk CNAME .
+ejendomswatch.tns-gallup.dk CNAME .
 elle.tns-gallup.dk CNAME .
 energiwatch.tns-gallup.dk CNAME .
 euroman.tns-gallup.dk CNAME .

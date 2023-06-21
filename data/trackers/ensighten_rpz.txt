@@ -287,6 +287,7 @@ tagman.silversingles.com CNAME .
 tagman.surfstitch.com CNAME .
 tagman.thebodyshop-usa.com CNAME .
 tagman.thistle.com CNAME .
+tagman.thomsonlakes.co.uk CNAME .
 tagman.transavia.com CNAME .
 tagman.virgin-atlantic.com CNAME .
 tagman.virginatlantic.com CNAME .

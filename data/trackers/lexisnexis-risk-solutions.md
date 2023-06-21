@@ -590,7 +590,6 @@
     * h-usps.online-metrix.net
     * h-v60nf4oj-2.online-metrix.net
     * h-v60nf4oj-pfp.online-metrix.net
-    * h-v60nf4oj.online-metrix.net
     * h-vacations.united.online-metrix.net
     * h-valcontent.online-metrix.net
     * h-vedacheck.online-metrix.net
@@ -667,6 +666,7 @@
 | prod-lafcuca.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-lfcuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-mscuct.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-northland.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-oneaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-pathways.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -681,6 +681,7 @@
 | prod-utenn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-vantage.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-vsecuvt.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-wccuri.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-westccu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | matrix.cpg.org | h-1qpcog32.online-metrix.net |
 | cnt.goboo.com | h-1u7ubqzg.online-metrix.net |
@@ -1472,19 +1473,12 @@
 | img4.uscellular.com | h-uscellular.online-metrix.net |
 | tm.uship.com | h-uship.online-metrix.net |
 | content.usps.com | h-usps.online-metrix.net |
-| afp.intuit.com | h-v60nf4oj-2.online-metrix.net |
-| gfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
-| hfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
-| ifp.intuit.com | h-v60nf4oj-2.online-metrix.net |
-| jfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | kfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | lfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | mfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | nfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | ofp.intuit.com | h-v60nf4oj-2.online-metrix.net |
-| yfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | pfp.intuit.com | h-v60nf4oj-pfp.online-metrix.net |
-| frp.intuit.com | h-v60nf4oj.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | ualaki-analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | valcontent.securustech.net | h-valcontent.online-metrix.net |

@@ -5,7 +5,6 @@ abc.pulsebet.com CNAME .
 acdc.toolineo.de CNAME .
 acsrt.cardnet-tds.com CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
-afp.intuit.com CNAME .
 analytics.amrcollection.com CNAME .
 analytics.applevacations.com CNAME .
 analytics.beachbound.com CNAME .
@@ -389,24 +388,20 @@ fpcn.bpsgameserver.com CNAME .
 fpt.norton.com CNAME .
 fr.shopdisney.disney.co.jp CNAME .
 fraudcheck.walmart.ca CNAME .
-frp.intuit.com CNAME .
 ftd.quodxx.com.br CNAME .
 gateway.jmbullion.com CNAME .
-gfp.intuit.com CNAME .
 ghisa.subito.it CNAME .
 go.citizensaccess.com CNAME .
 h.chase.co.uk CNAME .
 h.greenmangaming.com CNAME .
 h.threatmetrix.com CNAME .
 h.truist.com CNAME .
-hfp.intuit.com CNAME .
 hint-tmdp.opendoor.com CNAME .
 hooru.regence.com CNAME .
 id.latitudefinancial.com CNAME .
 idhtm.bb.com.br CNAME .
 idstatus.sky.com CNAME .
 idstatus.sky.it CNAME .
-ifp.intuit.com CNAME .
 im2.prod.amount.com CNAME .
 image.online.adp.com CNAME .
 images.applyfleet.com CNAME .
@@ -456,7 +451,6 @@ intlsdpntrca.nitrocasino.ca CNAME .
 intm.amwager.com CNAME .
 invalid-qa2.threatmetrix.com CNAME .
 irmp.caa.com CNAME .
-jfp.intuit.com CNAME .
 jj203.equitablebank.ca CNAME .
 jplspr.jackpot.com CNAME .
 jytrnq.cm-cic.com CNAME .
@@ -564,6 +558,7 @@ prod-jfcudc.chaperone.lumindigitalhosting.com CNAME .
 prod-lafcuca.chaperone.lumindigitalhosting.com CNAME .
 prod-lfcuva.chaperone.lumindigitalhosting.com CNAME .
 prod-mscuct.chaperone.lumindigitalhosting.com CNAME .
+prod-northland.chaperone.lumindigitalhosting.com CNAME .
 prod-oneaz.chaperone.lumindigitalhosting.com CNAME .
 prod-pathways.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
@@ -578,6 +573,7 @@ prod-university.chaperone.lumindigitalhosting.com CNAME .
 prod-utenn.chaperone.lumindigitalhosting.com CNAME .
 prod-vantage.chaperone.lumindigitalhosting.com CNAME .
 prod-vsecuvt.chaperone.lumindigitalhosting.com CNAME .
+prod-wccuri.chaperone.lumindigitalhosting.com CNAME .
 prod-westccu.chaperone.lumindigitalhosting.com CNAME .
 profiling.cmo.cibc.com CNAME .
 profiling.digitalbusiness.cibc.com CNAME .
@@ -916,5 +912,4 @@ ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
 www7.raise.com CNAME .
 ydkwim.targobank.de CNAME .
-yfp.intuit.com CNAME .
 yr3ioxw.hoaresbank.co.uk CNAME .

@@ -429,6 +429,7 @@ partner.chcivedet.com
 partner.chevronnutrition.cz
 partner.chiashake.cz
 partner.chilimarket.cz
+partner.chococo.cz
 partner.chytrydopravce.cz
 partner.cocochocokeratin.cz
 partner.cokoladovnajanek.cz
@@ -658,6 +659,7 @@ partneri.centrumprosperity.sk
 partneri.cestovatelskyobchod.cz
 partneri.chytraopicka.cz
 partneri.chytrykvetinac.cz
+partneri.cviky-na-brucho.sk
 partneri.danahanouskova.cz
 partneri.dietavkrabicce.cz
 partneri.dluhopisomat.cz

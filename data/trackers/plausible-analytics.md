@@ -28,6 +28,7 @@
 | analytics.adam.page | custom.plausible.io |
 | analytics.adonisjs.com | custom.plausible.io |
 | analytics.andrewsmith.com.au | custom.plausible.io |
+| analytics.angelina-fieber.com | custom.plausible.io |
 | analytics.arunraghavan.net | custom.plausible.io |
 | analytics.basistheory.com | custom.plausible.io |
 | analytics.betterplaces.nl | custom.plausible.io |
@@ -283,6 +284,7 @@
 | plausible.mattpruitt.com | custom.plausible.io |
 | plausible.mcj.co | custom.plausible.io |
 | plausible.moncefbelyamani.com | custom.plausible.io |
+| plausible.myvirtualsuper.com | custom.plausible.io |
 | plausible.nickmazuk.com | custom.plausible.io |
 | plausible.nova.app | custom.plausible.io |
 | plausible.nubemia.com | custom.plausible.io |
@@ -457,6 +459,7 @@
 | stats.bmxdevils.be | custom.plausible.io |
 | stats.book-rec.com | custom.plausible.io |
 | stats.booncon.com | custom.plausible.io |
+| stats.bopomavillages.org | custom.plausible.io |
 | stats.bordspel.org | custom.plausible.io |
 | stats.boscabeatha.ie | custom.plausible.io |
 | stats.breathly.app | custom.plausible.io |
@@ -863,7 +866,6 @@
 | stats.salonsuites.com | custom.plausible.io |
 | stats.sapnininkas.com | custom.plausible.io |
 | stats.sascha-theobald.de | custom.plausible.io |
-| stats.savethemothers.org | custom.plausible.io |
 | stats.sax.net | custom.plausible.io |
 | stats.sayla.io | custom.plausible.io |
 | stats.scailable.net | custom.plausible.io |
@@ -916,7 +918,6 @@
 | stats.tms-development.de | custom.plausible.io |
 | stats.toiletmap.org.uk | custom.plausible.io |
 | stats.torontohhs.org | custom.plausible.io |
-| stats.trailblazercoffee.com | custom.plausible.io |
 | stats.training.fit | custom.plausible.io |
 | stats.trenntoi.de | custom.plausible.io |
 | stats.tsas.ca | custom.plausible.io |
@@ -928,6 +929,7 @@
 | stats.vdsnow.ru | custom.plausible.io |
 | stats.vertis.io | custom.plausible.io |
 | stats.vican.me | custom.plausible.io |
+| stats.visions.ch | custom.plausible.io |
 | stats.voedingskussen.net | custom.plausible.io |
 | stats.voltamediahouse.com | custom.plausible.io |
 | stats.wa.derivation.fr | custom.plausible.io |
@@ -937,6 +939,7 @@
 | stats.wavepointconsulting.ca | custom.plausible.io |
 | stats.websnap.app | custom.plausible.io |
 | stats.wecodeni.com | custom.plausible.io |
+| stats.wellbeyond.com | custom.plausible.io |
 | stats.westswindon-pc.gov.uk | custom.plausible.io |
 | stats.whenpigsflybbq.com | custom.plausible.io |
 | stats.whereisit5pmrightnow.com | custom.plausible.io |
@@ -954,6 +957,7 @@
 | stats.zehta.me | custom.plausible.io |
 | stats.zimri.net | custom.plausible.io |
 | sts.authramp.com | custom.plausible.io |
+| sts.papyrs.com | custom.plausible.io |
 | sts.tour-europe.org | custom.plausible.io |
 | stts.sgab-srfp.ch | custom.plausible.io |
 | t.lastcast.fm | custom.plausible.io |

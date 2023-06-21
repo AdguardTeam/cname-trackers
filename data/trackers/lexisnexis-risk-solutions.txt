@@ -5,7 +5,6 @@
 ||acdc.toolineo.de^
 ||acsrt.cardnet-tds.com^
 ||acsweb-3dr1.dnp-cdms.jp^
-||afp.intuit.com^
 ||analytics.amrcollection.com^
 ||analytics.applevacations.com^
 ||analytics.beachbound.com^
@@ -389,24 +388,20 @@
 ||fpt.norton.com^
 ||fr.shopdisney.disney.co.jp^
 ||fraudcheck.walmart.ca^
-||frp.intuit.com^
 ||ftd.quodxx.com.br^
 ||gateway.jmbullion.com^
-||gfp.intuit.com^
 ||ghisa.subito.it^
 ||go.citizensaccess.com^
 ||h.chase.co.uk^
 ||h.greenmangaming.com^
 ||h.threatmetrix.com^
 ||h.truist.com^
-||hfp.intuit.com^
 ||hint-tmdp.opendoor.com^
 ||hooru.regence.com^
 ||id.latitudefinancial.com^
 ||idhtm.bb.com.br^
 ||idstatus.sky.com^
 ||idstatus.sky.it^
-||ifp.intuit.com^
 ||im2.prod.amount.com^
 ||image.online.adp.com^
 ||images.applyfleet.com^
@@ -456,7 +451,6 @@
 ||intm.amwager.com^
 ||invalid-qa2.threatmetrix.com^
 ||irmp.caa.com^
-||jfp.intuit.com^
 ||jj203.equitablebank.ca^
 ||jplspr.jackpot.com^
 ||jytrnq.cm-cic.com^
@@ -564,6 +558,7 @@
 ||prod-lafcuca.chaperone.lumindigitalhosting.com^
 ||prod-lfcuva.chaperone.lumindigitalhosting.com^
 ||prod-mscuct.chaperone.lumindigitalhosting.com^
+||prod-northland.chaperone.lumindigitalhosting.com^
 ||prod-oneaz.chaperone.lumindigitalhosting.com^
 ||prod-pathways.chaperone.lumindigitalhosting.com^
 ||prod-redwood.chaperone.lumindigitalhosting.com^
@@ -578,6 +573,7 @@
 ||prod-utenn.chaperone.lumindigitalhosting.com^
 ||prod-vantage.chaperone.lumindigitalhosting.com^
 ||prod-vsecuvt.chaperone.lumindigitalhosting.com^
+||prod-wccuri.chaperone.lumindigitalhosting.com^
 ||prod-westccu.chaperone.lumindigitalhosting.com^
 ||profiling.cmo.cibc.com^
 ||profiling.digitalbusiness.cibc.com^
@@ -916,5 +912,4 @@
 ||www.cdna.cofidis.be^
 ||www7.raise.com^
 ||ydkwim.targobank.de^
-||yfp.intuit.com^
 ||yr3ioxw.hoaresbank.co.uk^

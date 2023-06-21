@@ -12,6 +12,7 @@ sms.news.allopneus.com
 t8.mailperformance.com
 tr.3ou4xcb.cetelem.fr
 tr.3xcb.cofinoga.fr
+tr.aasi.espmp-agfr.net
 tr.abo.cotemaison.fr
 tr.acd-comexpert.fr
 tr.acq-pjms.fr
@@ -473,6 +474,7 @@ tr.kpyn02a.espmp-cufr.net
 tr.kpyn02f.espmp-cufr.net
 tr.krus.espmp-agfr.net
 tr.laprairie.ifop.com
+tr.lbar.espmp-agfr.net
 tr.leads.direct
 tr.legrandjeu.boulanger.com
 tr.lesmarques.envie-de-bien-manger.com
@@ -602,7 +604,9 @@ tr.news.cdiscount.com
 tr.news.cdiscountpro.com
 tr.news.cenpac.fr
 tr.news.chapsvision.com
+tr.news.chezmonveto.com
 tr.news.chilican.com
+tr.news.clicochic.com
 tr.news.companeo.es
 tr.news.corsicalinea.com
 tr.news.cotemaison.fr
@@ -691,6 +695,7 @@ tr.news.ouestnormandie.cci.fr
 tr.news.parisinfo.com
 tr.news.perfectstay.com
 tr.news.perl.fr
+tr.news.pl.bata-esp.com
 tr.news.receiveyourquote.co.uk
 tr.news.retailglobalsolutions.com
 tr.news.roadzila.com
@@ -801,6 +806,7 @@ tr.offres.bfmtv.com
 tr.offresbtoc.engie.fr
 tr.offrevip.banque-casino.fr
 tr.offrevip.floa.fr
+tr.ojxm.espmp-aufr.net
 tr.openinnovation.lvmh.com
 tr.operations.butagaz.fr
 tr.orange-lease.fr
@@ -864,6 +870,7 @@ tr.route-solutiondata.fr
 tr.roxi02e.espmp-agfr.net
 tr.safrancom-esp.net
 tr.sash.espmp-aufr.net
+tr.sash02g.espmp-nifr.net
 tr.satisfaction.alinea.com
 tr.satisfaction.groupe-pv-cp.com
 tr.satisfaction.villagesnature.com
@@ -871,6 +878,7 @@ tr.scienceshumaines.info
 tr.scienceshumaines.pro
 tr.secteurentreprises.harmonie-mutuelle.fr
 tr.service-mail.carrefour.fr
+tr.service.linxea.com
 tr.serviceclient.adagcaladoise.fr
 tr.serviceclient.bf-depannage.fr
 tr.serviceclient.depanchauffageservice.fr
@@ -950,6 +958,7 @@ tr.welcome.easyviajar.com
 tr.welcome.easyvoyage.co.uk
 tr.welcome.easyvoyage.com
 tr.welcome.easyvoyage.de
+tr.welcome.lacollection-airfrance.ch
 tr.welcome.lacollection-airfrance.co.uk
 tr.welcome.lacollection-airfrance.de
 tr.welcome.lacollection-airfrance.fr
@@ -957,6 +966,7 @@ tr.welcome.lexpress.fr
 tr.welcome.moncoupdepouce.com
 tr.welcome.odalys-vacances.com
 tr.welcome.smartdeals-transavia-fr.com
+tr.welcome.thelist-emirates.fr
 tr.welcome.vipmag.fr
 tr.wuei.espmp-agfr.net
 tr.xleads.digital

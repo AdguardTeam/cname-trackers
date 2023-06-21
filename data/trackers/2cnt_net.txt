@@ -166,6 +166,7 @@
 ||youseeandroidstream.tns-gallup.dk^
 ||ebiam.tns-gallup.dk^
 ||edc.tns-gallup.dk^
+||ejendomswatch.tns-gallup.dk^
 ||elle.tns-gallup.dk^
 ||energiwatch.tns-gallup.dk^
 ||euroman.tns-gallup.dk^

@@ -8,6 +8,7 @@
 ### Rarely active trackers
 
 * cdn66584302.blazingcdn.net
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -201,7 +202,6 @@
 | asn.banginterracial.com | 0i0i0i0.com |
 | asp.reputate.org | 0i0i0i0.com |
 | assets.taghtia.com | 0i0i0i0.com |
-| atom.seotul.pics | 0i0i0i0.com |
 | audi.lol | 0i0i0i0.com |
 | av5.mofoshd.org | 0i0i0i0.com |
 | avgle.com.7mmtv.top | 0i0i0i0.com |
@@ -312,7 +312,6 @@
 | forads.pro | 0i0i0i0.com |
 | fortran.icu | 0i0i0i0.com |
 | free.srcdn.xyz | 0i0i0i0.com |
-| fresh.tuiz.pics | 0i0i0i0.com |
 | fsdss.7mmtv.top | 0i0i0i0.com |
 | fuckers.nieuws.xxx | 0i0i0i0.com |
 | fw3etgf2.jav-7mmtv.top | 0i0i0i0.com |
@@ -395,7 +394,6 @@
 | kfioeld.spinna.shop | 0i0i0i0.com |
 | khetlet.mom | 0i0i0i0.com |
 | khoilive.xyz | 0i0i0i0.com |
-| king.beov.lol | 0i0i0i0.com |
 | kingtus.pics | 0i0i0i0.com |
 | kissjav.li.7mmtv.top | 0i0i0i0.com |
 | kissjav.li.jav-7mmtv.top | 0i0i0i0.com |
@@ -494,7 +492,6 @@
 | p1t.clipnuke.com | 0i0i0i0.com |
 | pakenta.xyz | 0i0i0i0.com |
 | pakeway.lol | 0i0i0i0.com |
-| pam.mongz.lol | 0i0i0i0.com |
 | pampela.lol | 0i0i0i0.com |
 | pangoha.xyz | 0i0i0i0.com |
 | paperezi.mom | 0i0i0i0.com |
@@ -571,7 +568,6 @@
 | solutions.playernetca.top | 0i0i0i0.com |
 | someboay.lol | 0i0i0i0.com |
 | sor.pornxok.com | 0i0i0i0.com |
-| spy.bocvu.lol | 0i0i0i0.com |
 | spyglass.reklamko.pro | 0i0i0i0.com |
 | srv1.bunnymediaserver.com | 0i0i0i0.com |
 | sshopee.beauty | 0i0i0i0.com |
@@ -684,3 +680,7 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| h-ay.com | u53.hypnorat.com |
+| ontj.com | u53.hypnorat.com |
+| qhip.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |

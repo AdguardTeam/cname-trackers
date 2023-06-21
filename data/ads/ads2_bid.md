@@ -42,6 +42,7 @@
 | latam.kwzdbbkpre.com | latam.lb.rtb.ads.bid |
 | latam.t4ergzwf7r.com | latam.lb.rtb.ads.bid |
 | latam.xw1fx50x35.com | latam.lb.rtb.ads.bid |
+| ppc-dir-latam.cau1aighae.com | latam.lb.rtb.ads.bid |
 | abttss-ur.exolkkl6i2puvf.ru | lb.rtb.ads.bid |
 | ac-dir-co.8njhhs0ivx.com | lb.rtb.ads.bid |
 | ac-dir-co.cau1aighae.com | lb.rtb.ads.bid |

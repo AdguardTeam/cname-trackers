@@ -20,6 +20,7 @@ an.xavierrosee.com CNAME .
 analytics.adam.page CNAME .
 analytics.adonisjs.com CNAME .
 analytics.andrewsmith.com.au CNAME .
+analytics.angelina-fieber.com CNAME .
 analytics.arunraghavan.net CNAME .
 analytics.basistheory.com CNAME .
 analytics.betterplaces.nl CNAME .
@@ -275,6 +276,7 @@ plausible.lesbianromantic.com CNAME .
 plausible.mattpruitt.com CNAME .
 plausible.mcj.co CNAME .
 plausible.moncefbelyamani.com CNAME .
+plausible.myvirtualsuper.com CNAME .
 plausible.nickmazuk.com CNAME .
 plausible.nova.app CNAME .
 plausible.nubemia.com CNAME .
@@ -449,6 +451,7 @@ stats.blog.sublimesecurity.com CNAME .
 stats.bmxdevils.be CNAME .
 stats.book-rec.com CNAME .
 stats.booncon.com CNAME .
+stats.bopomavillages.org CNAME .
 stats.bordspel.org CNAME .
 stats.boscabeatha.ie CNAME .
 stats.breathly.app CNAME .
@@ -855,7 +858,6 @@ stats.sahpa.co.za CNAME .
 stats.salonsuites.com CNAME .
 stats.sapnininkas.com CNAME .
 stats.sascha-theobald.de CNAME .
-stats.savethemothers.org CNAME .
 stats.sax.net CNAME .
 stats.sayla.io CNAME .
 stats.scailable.net CNAME .
@@ -908,7 +910,6 @@ stats.tms-development.com CNAME .
 stats.tms-development.de CNAME .
 stats.toiletmap.org.uk CNAME .
 stats.torontohhs.org CNAME .
-stats.trailblazercoffee.com CNAME .
 stats.training.fit CNAME .
 stats.trenntoi.de CNAME .
 stats.tsas.ca CNAME .
@@ -920,6 +921,7 @@ stats.useeffect.dev CNAME .
 stats.vdsnow.ru CNAME .
 stats.vertis.io CNAME .
 stats.vican.me CNAME .
+stats.visions.ch CNAME .
 stats.voedingskussen.net CNAME .
 stats.voltamediahouse.com CNAME .
 stats.wa.derivation.fr CNAME .
@@ -929,6 +931,7 @@ stats.walkiees.co.uk CNAME .
 stats.wavepointconsulting.ca CNAME .
 stats.websnap.app CNAME .
 stats.wecodeni.com CNAME .
+stats.wellbeyond.com CNAME .
 stats.westswindon-pc.gov.uk CNAME .
 stats.whenpigsflybbq.com CNAME .
 stats.whereisit5pmrightnow.com CNAME .
@@ -946,6 +949,7 @@ stats.yourdallashandyman.com CNAME .
 stats.zehta.me CNAME .
 stats.zimri.net CNAME .
 sts.authramp.com CNAME .
+sts.papyrs.com CNAME .
 sts.tour-europe.org CNAME .
 stts.sgab-srfp.ch CNAME .
 t.lastcast.fm CNAME .

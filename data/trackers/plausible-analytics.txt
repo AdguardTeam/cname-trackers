@@ -20,6 +20,7 @@
 ||analytics.adam.page^
 ||analytics.adonisjs.com^
 ||analytics.andrewsmith.com.au^
+||analytics.angelina-fieber.com^
 ||analytics.arunraghavan.net^
 ||analytics.basistheory.com^
 ||analytics.betterplaces.nl^
@@ -275,6 +276,7 @@
 ||plausible.mattpruitt.com^
 ||plausible.mcj.co^
 ||plausible.moncefbelyamani.com^
+||plausible.myvirtualsuper.com^
 ||plausible.nickmazuk.com^
 ||plausible.nova.app^
 ||plausible.nubemia.com^
@@ -449,6 +451,7 @@
 ||stats.bmxdevils.be^
 ||stats.book-rec.com^
 ||stats.booncon.com^
+||stats.bopomavillages.org^
 ||stats.bordspel.org^
 ||stats.boscabeatha.ie^
 ||stats.breathly.app^
@@ -855,7 +858,6 @@
 ||stats.salonsuites.com^
 ||stats.sapnininkas.com^
 ||stats.sascha-theobald.de^
-||stats.savethemothers.org^
 ||stats.sax.net^
 ||stats.sayla.io^
 ||stats.scailable.net^
@@ -908,7 +910,6 @@
 ||stats.tms-development.de^
 ||stats.toiletmap.org.uk^
 ||stats.torontohhs.org^
-||stats.trailblazercoffee.com^
 ||stats.training.fit^
 ||stats.trenntoi.de^
 ||stats.tsas.ca^
@@ -920,6 +921,7 @@
 ||stats.vdsnow.ru^
 ||stats.vertis.io^
 ||stats.vican.me^
+||stats.visions.ch^
 ||stats.voedingskussen.net^
 ||stats.voltamediahouse.com^
 ||stats.wa.derivation.fr^
@@ -929,6 +931,7 @@
 ||stats.wavepointconsulting.ca^
 ||stats.websnap.app^
 ||stats.wecodeni.com^
+||stats.wellbeyond.com^
 ||stats.westswindon-pc.gov.uk^
 ||stats.whenpigsflybbq.com^
 ||stats.whereisit5pmrightnow.com^
@@ -946,6 +949,7 @@
 ||stats.zehta.me^
 ||stats.zimri.net^
 ||sts.authramp.com^
+||sts.papyrs.com^
 ||sts.tour-europe.org^
 ||stts.sgab-srfp.ch^
 ||t.lastcast.fm^

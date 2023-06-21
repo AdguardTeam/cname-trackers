@@ -76,6 +76,7 @@
 ||angelfish.dpya.com^
 ||angelfish.grayscale.design^
 ||angelfish.owlbear.rodeo^
+||angelfish.shorehamlife.com^
 ||angelfish.wpsocialrocket.com^
 ||anglerfish.luminfire.com^
 ||anglerfish.pfolios.net^
@@ -115,6 +116,7 @@
 ||bandicoot.sigerr.org^
 ||barnacle.big-in-japan.com^
 ||barnacle.viewsource.io^
+||barracuda.civicdatalibrary.org^
 ||barracuda.ottsysteme.rs^
 ||barracuda.saraos.tech^
 ||barracuda.verto.exchange^
@@ -202,6 +204,7 @@
 ||cat.lasalturasresort.com^
 ||cat.mattr.global^
 ||cat.remotefit.io^
+||cat.serverless.quest^
 ||cat.sprucely.net^
 ||cat.thisminute.app^
 ||cat.tinylittlebusinesses.com^
@@ -216,6 +219,7 @@
 ||cattle.driftbot.io^
 ||cattle.elitecanines.com.au^
 ||cattle.eprc.tools^
+||cattle.herojob.de^
 ||cattle.kirkebaekke.dk^
 ||cattle.kumo.at^
 ||cattle.mes-renovateurs.com^
@@ -333,7 +337,6 @@
 ||dragonfly.codebar.ch^
 ||dragonfly.filmmakerfreedom.com^
 ||dragonfly.jala-one.com^
-||eagle.mbcharbonneau.com^
 ||eagle.roarfilm.com.au^
 ||earthworm.creatifmediagroup.com^
 ||earthworm.elenabirkenwald.com^
@@ -520,6 +523,7 @@
 ||jay.breakup.management^
 ||jay.plantainguy.com^
 ||jcpjfyikk.dogbonemarket.com^
+||jellyfish.teresaharlow.com^
 ||jellyfish.therapieplatz-finden.de^
 ||kangaroo.kraenk.de^
 ||kangaroo.triplightfantastic.com^
@@ -714,7 +718,6 @@
 ||parrotfish.thenping.me^
 ||parrotfish.wilderworld.com^
 ||parrotfish.wus.immo^
-||partridge.unfamiliar.land^
 ||peacock.psych.help^
 ||peafowl.projectstrackt.dev^
 ||penguin.mobiadroit.com^
@@ -758,6 +761,7 @@
 ||ptarmigan.bridal-hair-and-accessories-now.com^
 ||ptarmigan.codebycorey.com^
 ||ptarmigan.goudieworks.co^
+||ptarmigan.natalieba.net^
 ||ptarmigan.q-free.com^
 ||puffin.geocode.earth^
 ||puffin.jem.dev^
@@ -809,6 +813,7 @@
 ||scallop.esolia.pro^
 ||scallop.productionrails.com^
 ||scallop.vav.link^
+||scorpion.byteside.com^
 ||scorpion.clare.ink^
 ||sdegwynml.bmaci.me^
 ||seahorse.dexterityvisuals.com^
@@ -838,6 +843,7 @@
 ||snake.kiramclean.com^
 ||snipe.mfaber.at^
 ||snipe.mizzuu.co^
+||snipe.nipht.io^
 ||sole.pretto.fr^
 ||sole.riverwalkdental.com.au^
 ||sparrow.uitvaartzorg-vanraemdonck.be^
@@ -911,6 +917,8 @@
 ||treefrog.kaffeknappen.no^
 ||treefrog.socialmarketinggateway.co.uk^
 ||treefrog.tschmeisser.com^
+||trout.batzo.net^
+||trout.openfpl.com^
 ||trout.travelmassive.com^
 ||trout.unicornplatform.com^
 ||tuna.peterfarms.com^
@@ -918,6 +926,7 @@
 ||turkey.tella.tv^
 ||turtle.geshem.space^
 ||turtle.hackstock.net^
+||turtle.mushtache.com^
 ||turtle.olivier.cx^
 ||uktgg.dev-tester.com^
 ||vampirebat.datingmedellin.com^
@@ -961,6 +970,7 @@
 ||worm.paulstamatiou.com^
 ||www.stork.notlessbutbetter.com^
 ||yak.auclantis.com^
+||zebra.gareth.sh^
 ||ads.djc.com^
 ||assets-v2.boisedev.com^
 ||assets-v2.invaluable.com^

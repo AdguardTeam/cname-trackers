@@ -429,6 +429,7 @@ partner.chcivedet.com CNAME .
 partner.chevronnutrition.cz CNAME .
 partner.chiashake.cz CNAME .
 partner.chilimarket.cz CNAME .
+partner.chococo.cz CNAME .
 partner.chytrydopravce.cz CNAME .
 partner.cocochocokeratin.cz CNAME .
 partner.cokoladovnajanek.cz CNAME .
@@ -658,6 +659,7 @@ partneri.centrumprosperity.sk CNAME .
 partneri.cestovatelskyobchod.cz CNAME .
 partneri.chytraopicka.cz CNAME .
 partneri.chytrykvetinac.cz CNAME .
+partneri.cviky-na-brucho.sk CNAME .
 partneri.danahanouskova.cz CNAME .
 partneri.dietavkrabicce.cz CNAME .
 partneri.dluhopisomat.cz CNAME .

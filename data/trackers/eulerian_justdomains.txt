@@ -315,6 +315,7 @@ nmo1.orpi.com
 nmu3.destinia.be
 noa0.compteczam.fr
 nrg.red-by-sfr.fr
+nym5c.bonlook.com
 nym5c.laura.ca
 nyt1.biosens-leanature.fr
 o68c.sfr.fr
@@ -364,14 +365,17 @@ pp.promocionesfarma.com
 ppp7.destinia.kr
 prx6.destinia.ch
 ps.pmu.fr
+pu.pretunique.fr
 pv.partenaires-verisure.fr
 qal0.destinia.gr
+qbl4.ecetech.fr
 qjg4.destinia.asia
 qpc4.visilab.ch
 qpl9.destinia.dk
 qsl1.refleximmo.com
 qtj0.destinia.pl
 quk9.destinia.com.ar
+qyn6.ofertastelecable.es
 qzl8.destinia.fi
 qzu5.carrefour-banque.fr
 r1ztni.oui.sncf
@@ -491,7 +495,6 @@ b1n.carabins.umontreal.ca
 d0f.le-dauphin.com
 d2u.dauphinquebec.com
 hk2d.tourismemauricie.com
-nym5c.bonlook.com
 su1.les-suites.ca
 www.mis.tourisme-montreal.org
 ea.mnt.fr
