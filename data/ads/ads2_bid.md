@@ -59,9 +59,6 @@
 | adsbid-click.adsbid.ru | lb.rtb.ads.bid |
 | adsbid-sh-click.adghndou0sdh.ru | lb.rtb.ads.bid |
 | adv.ads2.bid | lb.rtb.ads.bid |
-| arvb.3grg8dqjil.ru | lb.rtb.ads.bid |
-| arvb.6v7q4txztl.ru | lb.rtb.ads.bid |
-| arvb.78bfjskxto.ru | lb.rtb.ads.bid |
 | arvb.gamz48qlok.ru | lb.rtb.ads.bid |
 | avb-co.8njhhs0ivx.com | lb.rtb.ads.bid |
 | avb-co.cau1aighae.com | lb.rtb.ads.bid |
@@ -84,7 +81,6 @@
 | di-res.kwzdbbkpre.com | lb.rtb.ads.bid |
 | di-res.t4ergzwf7r.com | lb.rtb.ads.bid |
 | di-res.xw1fx50x35.com | lb.rtb.ads.bid |
-| dsp-image-resizer.3grg8dqjil.ru | lb.rtb.ads.bid |
 | dsp-image-resizer.adsbid.ru | lb.rtb.ads.bid |
 | dsp-image-resizer.gamz48qlok.ru | lb.rtb.ads.bid |
 | lk-api-beta.ads2.bid | lb.rtb.ads.bid |
@@ -131,4 +127,3 @@
 | sing.t4ergzwf7r.com | sing.lb.rtb.ads.bid |
 | sing.wcoeaykv78.ru | sing.lb.rtb.ads.bid |
 | sing.xw1fx50x35.com | sing.lb.rtb.ads.bid |
-| sing.zd4mfmk10b.ru | sing.lb.rtb.ads.bid |

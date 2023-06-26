@@ -18,6 +18,7 @@
 | a2.hotpornfile.org | api.clickaine.com |
 | a3.hotpornfile.org | api.clickaine.com |
 | ad1.xero.porn | api.clickaine.com |
+| api.hugemedia.cz | api.clickaine.com |
 | api.kekw.website | api.clickaine.com |
 | api.kekw.world | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
@@ -104,11 +105,9 @@
 | snow.snowdayonline.xyz | api.clickaine.com |
 | uy.arabsex1.com | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
-| wp.brandnewapp.pro | api.clickaine.com |
 | www.bokep.su | api.clickaine.com |
 | www.brandnewapp.pro | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |
-| www.wp.brandnewapp.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
 | xxx.arabsex1.com | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |

@@ -206,7 +206,6 @@ content.hellomobile.com CNAME .
 content.ibanking-services.com CNAME .
 content.id.elsevier.com CNAME .
 content.iddataweb.com CNAME .
-content.ifpsoyyo.co CNAME .
 content.imagedepositgateway.com CNAME .
 content.incredit.pl CNAME .
 content.interaconline.com CNAME .
@@ -454,11 +453,10 @@ irmp.caa.com CNAME .
 jj203.equitablebank.ca CNAME .
 jplspr.jackpot.com CNAME .
 jytrnq.cm-cic.com CNAME .
-kfp.intuit.com CNAME .
 kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
-lfp.intuit.com CNAME .
 ln.meudigio.com.br CNAME .
+lndata.labor.maryland.gov CNAME .
 lndata.labor.md.gov CNAME .
 lnths.twc.texas.gov CNAME .
 lnthxsvc.tsp.gov CNAME .
@@ -482,7 +480,6 @@ meiodepagamento.campanhaporto.com.br CNAME .
 membership-device.secured-igaming-services.com CNAME .
 metrics.myfrs.com CNAME .
 metrix.us.ovhcloud.com CNAME .
-mfp.intuit.com CNAME .
 mnt.sbisec.co.jp CNAME .
 mobile-content-f.autozone.com CNAME .
 mobile-tmx.ssisurveys.com CNAME .
@@ -493,11 +490,9 @@ mobsessions.worldremit.com CNAME .
 nav.sciencedirect.com CNAME .
 neo.fashionette.de CNAME .
 nexus-svc.sc.com CNAME .
-nfp.intuit.com CNAME .
 nv-2.liveaction.com CNAME .
 ocs.ameriprise.com CNAME .
 offtest.fnfis.com CNAME .
-ofp.intuit.com CNAME .
 ofxmryjd.seller.walmart.com CNAME .
 ofxmryjd.walmart.com CNAME .
 ola2.tdameritrade.com CNAME .

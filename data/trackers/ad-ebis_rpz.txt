@@ -189,6 +189,7 @@ ebis.funaisoken.co.jp CNAME .
 ebis.glico-direct.jp CNAME .
 ebis.gokusen-ichiba.com CNAME .
 ebis.goldcrest.co.jp CNAME .
+ebis.housekeeping.or.jp CNAME .
 ebis.j-l-m.co.jp CNAME .
 ebis.jinzai-business.com CNAME .
 ebis.jobcan.jp CNAME .

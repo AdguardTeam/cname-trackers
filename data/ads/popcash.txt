@@ -107,7 +107,6 @@
 ||baboon.ideapotential.com^
 ||baboon.naxon.dev^
 ||baboon.vacanti.com^
-||badger.bytesized.xyz^
 ||badger.pager.app^
 ||baldeagle.e-ma.re^
 ||baldeagle.eternalmma.com^
@@ -252,7 +251,6 @@
 ||chimpanzee.ines-papert.com^
 ||chinchilla.68keys.io^
 ||chinchilla.christinefontaine.com^
-||chinchilla.ubclaunchpad.com^
 ||chipmunk.brandy.is^
 ||chipmunk.pixelko.de^
 ||chipmunk.sqltoapi.com^
@@ -349,6 +347,7 @@
 ||eel.aware7.de^
 ||eel.beekeeperstudio.io^
 ||eel.cuabuilders.com^
+||eel.tunspress.com^
 ||egret.brothers.studio^
 ||egret.friendships.me^
 ||elephant.stempelwiese.de^
@@ -786,6 +785,7 @@
 ||reindeer.iainbroome.com^
 ||reindeer.pablomaceda.com^
 ||reptile.o-lit.fr^
+||reptile.sat.trading^
 ||reptile.wyattblogs.com^
 ||rhinoceros.cocotec.io^
 ||rhinoceros.codeagain.com^

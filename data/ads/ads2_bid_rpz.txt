@@ -34,9 +34,6 @@ adsbid-click.adsbid.ru CNAME .
 adsbid-sh-click.adghndou0sdh.ru CNAME .
 adsbid-sh-click.sing.adghndou0sdh.ru CNAME .
 adv.ads2.bid CNAME .
-arvb.3grg8dqjil.ru CNAME .
-arvb.6v7q4txztl.ru CNAME .
-arvb.78bfjskxto.ru CNAME .
 arvb.gamz48qlok.ru CNAME .
 avb-co.8njhhs0ivx.com CNAME .
 avb-co.cau1aighae.com CNAME .
@@ -92,7 +89,6 @@ di-res.kwzdbbkpre.com CNAME .
 di-res.t4ergzwf7r.com CNAME .
 di-res.xw1fx50x35.com CNAME .
 dsp-image-resizer-sing.adsbid.ru CNAME .
-dsp-image-resizer.3grg8dqjil.ru CNAME .
 dsp-image-resizer.adsbid.ru CNAME .
 dsp-image-resizer.gamz48qlok.ru CNAME .
 latam.8njhhs0ivx.com CNAME .
@@ -119,5 +115,4 @@ sing.r2j97oxqvr.ru CNAME .
 sing.t4ergzwf7r.com CNAME .
 sing.wcoeaykv78.ru CNAME .
 sing.xw1fx50x35.com CNAME .
-sing.zd4mfmk10b.ru CNAME .
 vitrina-ad-click.adghndou0sdh.ru CNAME .

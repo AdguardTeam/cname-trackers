@@ -225,6 +225,7 @@
 ||a8.soelu.com^
 ||a8.softbank-hikari.jp^
 ||a8.sommelier.gift^
+||a8.sport-school.com^
 ||a8.ssl.aispr.jp^
 ||a8.st.oddspark.com^
 ||a8.starseries.biz^
@@ -1038,6 +1039,7 @@
 ||afi.ssl.gmobb.jp^
 ||ahachi.dietnavi.com^
 ||analytics.villagehouse.jp^
+||asp.hachipp119.com^
 ||aspa8.ozmall.co.jp^
 ||car-a8.tabirai.net^
 ||clk.ingage.jp^

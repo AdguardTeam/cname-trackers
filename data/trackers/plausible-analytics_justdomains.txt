@@ -65,6 +65,7 @@ analytics.valheimgamer.com
 analytics.vanilla-project.guide
 analytics.wayland.app
 analytics.wetfish.com.au
+analytics.whostheboss.co.uk
 analytics.whotargets.me
 analytics.winter.ink
 analytics.wittypen.com
@@ -253,7 +254,6 @@ plausible.factly.in
 plausible.flowcv.io
 plausible.flowhr.io
 plausible.food.game
-plausible.getawaywarrior.com
 plausible.getlean.digital
 plausible.giveatip.io
 plausible.goldanger.de
@@ -401,7 +401,6 @@ stats.akd.io
 stats.albert-kropp-gmbh.de
 stats.alibhai.co
 stats.aligncoaching.ca
-stats.allaboutberlin.com
 stats.alleaktien.de
 stats.alocreativa.com
 stats.am.ai
@@ -627,6 +626,7 @@ stats.gounified.com
 stats.granot.dev
 stats.graphql-api.com
 stats.graphql-by-pop.com
+stats.gras-system.org
 stats.gravitaswins.com
 stats.greatlakesdesign.co
 stats.groovetrackers.com
@@ -819,7 +819,6 @@ stats.pointflottant.com
 stats.polekatfitness.com
 stats.poochplaces.dog
 stats.postcollectors.com
-stats.poweringpastcoal.org
 stats.preeventualist.org
 stats.pri.org
 stats.processserver101.com
@@ -882,7 +881,6 @@ stats.ski.com
 stats.slicedthread.com
 stats.socialeurope.eu
 stats.sommselect.com
-stats.songbox.rocks
 stats.soundbite.so
 stats.sparkloop.app
 stats.spreadtheworld.net
@@ -909,7 +907,6 @@ stats.tinkerer.tools
 stats.tms-development.com
 stats.tms-development.de
 stats.toiletmap.org.uk
-stats.torontohhs.org
 stats.training.fit
 stats.trenntoi.de
 stats.tsas.ca

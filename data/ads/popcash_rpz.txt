@@ -107,7 +107,6 @@ azlej8cdm.pragmaticwebsecurity.com CNAME .
 baboon.ideapotential.com CNAME .
 baboon.naxon.dev CNAME .
 baboon.vacanti.com CNAME .
-badger.bytesized.xyz CNAME .
 badger.pager.app CNAME .
 baldeagle.e-ma.re CNAME .
 baldeagle.eternalmma.com CNAME .
@@ -252,7 +251,6 @@ chimpanzee.designerdailyreport.com CNAME .
 chimpanzee.ines-papert.com CNAME .
 chinchilla.68keys.io CNAME .
 chinchilla.christinefontaine.com CNAME .
-chinchilla.ubclaunchpad.com CNAME .
 chipmunk.brandy.is CNAME .
 chipmunk.pixelko.de CNAME .
 chipmunk.sqltoapi.com CNAME .
@@ -349,6 +347,7 @@ echidna.honeybadger.io CNAME .
 eel.aware7.de CNAME .
 eel.beekeeperstudio.io CNAME .
 eel.cuabuilders.com CNAME .
+eel.tunspress.com CNAME .
 egret.brothers.studio CNAME .
 egret.friendships.me CNAME .
 elephant.stempelwiese.de CNAME .
@@ -786,6 +785,7 @@ raven.vethelpdirect.com CNAME .
 reindeer.iainbroome.com CNAME .
 reindeer.pablomaceda.com CNAME .
 reptile.o-lit.fr CNAME .
+reptile.sat.trading CNAME .
 reptile.wyattblogs.com CNAME .
 rhinoceros.cocotec.io CNAME .
 rhinoceros.codeagain.com CNAME .

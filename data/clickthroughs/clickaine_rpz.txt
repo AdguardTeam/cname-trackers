@@ -3,6 +3,7 @@
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
 ad1.xero.porn CNAME .
+api.hugemedia.cz CNAME .
 api.kekw.website CNAME .
 api.kekw.world CNAME .
 api.rtnews.pro CNAME .
@@ -89,11 +90,9 @@ sda.arabsex1.com CNAME .
 snow.snowdayonline.xyz CNAME .
 uy.arabsex1.com CNAME .
 v040419.badjojo.com CNAME .
-wp.brandnewapp.pro CNAME .
 www.bokep.su CNAME .
 www.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
-www.wp.brandnewapp.pro CNAME .
 xd3r.javgg.eu CNAME .
 xxx.arabsex1.com CNAME .
 zone1.bestbdsm24.com CNAME .

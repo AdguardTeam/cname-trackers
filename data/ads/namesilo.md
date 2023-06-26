@@ -727,6 +727,7 @@
 | 3990818.notify6.com | tk6if76q.ab1n.net |
 | 3995186.notify6.com | tk6if76q.ab1n.net |
 | 3997384.notify6.com | tk6if76q.ab1n.net |
+| 3997386.notify6.com | tk6if76q.ab1n.net |
 | 4.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | 4003022.notify6.com | tk6if76q.ab1n.net |
 | 4003752.notify6.com | tk6if76q.ab1n.net |
@@ -753,6 +754,7 @@
 | 4061378.notify6.com | tk6if76q.ab1n.net |
 | 4062416.notify6.com | tk6if76q.ab1n.net |
 | 4062424.notify6.com | tk6if76q.ab1n.net |
+| 4062428.notify6.com | tk6if76q.ab1n.net |
 | 4068856.notify6.com | tk6if76q.ab1n.net |
 | 4069896.notify6.com | tk6if76q.ab1n.net |
 | 4069900.notify6.com | tk6if76q.ab1n.net |
@@ -892,7 +894,6 @@
 | engine.gettopple.com | tk6if76q.ab1n.net |
 | m.hue2a.com | tk6if76q.ab1n.net |
 | m.hue3a.com | tk6if76q.ab1n.net |
-| m.optnx.com | tk6if76q.ab1n.net |
 | main.adxnow.com | tk6if76q.ab1n.net |
 | main.exdynsrv.com | tk6if76q.ab1n.net |
 | main.exoclick.com | tk6if76q.ab1n.net |
@@ -980,10 +981,10 @@
 | www.3227697.notify6.com | tk6if76q.ab1n.net |
 | www.4152316.notify6.com | tk6if76q.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
-| admin.gettopple.com | v3j9t5q9.ab1n.net |
+| admin.adnation.com | v3j9t5q9.ab1n.net |
 | a.a3ion.com | w2u4v9e1.ab1n.net |
 | a.ad.guru | w2u4v9e1.ab1n.net |
-| a.etology.com | w2u4v9e1.ab1n.net |
+| a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |
 | a.stuffserve.com | w2u4v9e1.ab1n.net |

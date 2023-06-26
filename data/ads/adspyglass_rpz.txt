@@ -4,6 +4,7 @@
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
 0i.simply-hentai.com CNAME .
+1111.spinna.online CNAME .
 123.manga1001.top CNAME .
 1aaa.spinna.site CNAME .
 1aab.spinna.site CNAME .
@@ -12,6 +13,7 @@
 1aae.spinna.site CNAME .
 1aaf.spinna.site CNAME .
 1d88r44d9t.nelasleaks.site CNAME .
+2222.spinna.online CNAME .
 23.sweetmanga.fun CNAME .
 2aaa.spinna.xyz CNAME .
 2aab.spinna.xyz CNAME .
@@ -19,8 +21,11 @@
 2aad.spinna.xyz CNAME .
 2aae.spinna.xyz CNAME .
 2aaf.spinna.xyz CNAME .
+3333.spinna.online CNAME .
 3weg314.2conv.com CNAME .
+4444.spinna.online CNAME .
 5475feaab.clicknplay.to CNAME .
+5555.spinna.online CNAME .
 58745.clicknplay.to CNAME .
 6969.javher.com CNAME .
 69741211.clicknplay.to CNAME .
@@ -41,6 +46,7 @@ a.888x.cyou CNAME .
 a.abismo-katheryne.top CNAME .
 a.acervox.com CNAME .
 a.adult-videos.org CNAME .
+a.alldeepfake.xyz CNAME .
 a.antiadxxxspy.com CNAME .
 a.artamkari.com CNAME .
 a.bitporno.com CNAME .
@@ -230,6 +236,7 @@ c.bloblohub.com CNAME .
 c021b14e0782ad7ef6d74.clicknplay.to CNAME .
 c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
+c6s.bionestraff.pro CNAME .
 cache.picxxxhub.com CNAME .
 cam.javboys.cam CNAME .
 canpibo.mom CNAME .
@@ -295,6 +302,7 @@ f.bloblohub.com CNAME .
 f92or5.spinna.shop CNAME .
 fddddddd.javmilk.org CNAME .
 fgy3tg.jav-7mmtv.top CNAME .
+file.marshlecdn.com CNAME .
 forads.pro CNAME .
 fortran.icu CNAME .
 free.srcdn.xyz CNAME .
@@ -321,6 +329,7 @@ gone.mobilhdizle.com CNAME .
 goog.emailon.top CNAME .
 gulto.xyz CNAME .
 h-ay.com CNAME .
+h.bloblohub.com CNAME .
 hazicu.hothomefuck.com CNAME .
 hegdcrxavrtk.cdnvideo3.com CNAME .
 hehe686.lol CNAME .
@@ -335,11 +344,13 @@ hoakz.xyz CNAME .
 homemadeand.com CNAME .
 honda.lol CNAME .
 hotmovstore.com CNAME .
+houdisco.xyz CNAME .
 hq3x.com CNAME .
 hsux.com CNAME .
 huckeyz.lol CNAME .
 huewaix.xyz CNAME .
 hunjoinz.pics CNAME .
+hutanz.xyz CNAME .
 hx1.tubepornbase.com CNAME .
 i.anime22.net CNAME .
 i.hqvrporn.net CNAME .
@@ -394,6 +405,7 @@ lammaou.xyz CNAME .
 larasub.conxxx.pro CNAME .
 lc1982.lol CNAME .
 leefang.lol CNAME .
+lengtikto.xyz CNAME .
 leona2.mom CNAME .
 libertys.beauty CNAME .
 linkpopu.mom CNAME .
@@ -474,6 +486,7 @@ opus.sexyxxx.biz CNAME .
 orderz.lol CNAME .
 orznp.spinna.store CNAME .
 outallin.mom CNAME .
+outya.xyz CNAME .
 ox8.topsexhdvideos.com CNAME .
 ozoj.com CNAME .
 p.hgfdtujlknhkghf.site CNAME .
@@ -482,6 +495,7 @@ p1t.clipnuke.com CNAME .
 pakenta.xyz CNAME .
 pakeway.lol CNAME .
 pampela.lol CNAME .
+pamtuea.xyz CNAME .
 pangoha.xyz CNAME .
 paperezi.mom CNAME .
 parkurl.com CNAME .

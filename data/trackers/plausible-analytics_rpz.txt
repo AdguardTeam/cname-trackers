@@ -65,6 +65,7 @@ analytics.valheimgamer.com CNAME .
 analytics.vanilla-project.guide CNAME .
 analytics.wayland.app CNAME .
 analytics.wetfish.com.au CNAME .
+analytics.whostheboss.co.uk CNAME .
 analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
 analytics.wittypen.com CNAME .
@@ -253,7 +254,6 @@ plausible.factly.in CNAME .
 plausible.flowcv.io CNAME .
 plausible.flowhr.io CNAME .
 plausible.food.game CNAME .
-plausible.getawaywarrior.com CNAME .
 plausible.getlean.digital CNAME .
 plausible.giveatip.io CNAME .
 plausible.goldanger.de CNAME .
@@ -401,7 +401,6 @@ stats.akd.io CNAME .
 stats.albert-kropp-gmbh.de CNAME .
 stats.alibhai.co CNAME .
 stats.aligncoaching.ca CNAME .
-stats.allaboutberlin.com CNAME .
 stats.alleaktien.de CNAME .
 stats.alocreativa.com CNAME .
 stats.am.ai CNAME .
@@ -627,6 +626,7 @@ stats.gounified.com CNAME .
 stats.granot.dev CNAME .
 stats.graphql-api.com CNAME .
 stats.graphql-by-pop.com CNAME .
+stats.gras-system.org CNAME .
 stats.gravitaswins.com CNAME .
 stats.greatlakesdesign.co CNAME .
 stats.groovetrackers.com CNAME .
@@ -819,7 +819,6 @@ stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
 stats.poochplaces.dog CNAME .
 stats.postcollectors.com CNAME .
-stats.poweringpastcoal.org CNAME .
 stats.preeventualist.org CNAME .
 stats.pri.org CNAME .
 stats.processserver101.com CNAME .
@@ -882,7 +881,6 @@ stats.ski.com CNAME .
 stats.slicedthread.com CNAME .
 stats.socialeurope.eu CNAME .
 stats.sommselect.com CNAME .
-stats.songbox.rocks CNAME .
 stats.soundbite.so CNAME .
 stats.sparkloop.app CNAME .
 stats.spreadtheworld.net CNAME .
@@ -909,7 +907,6 @@ stats.tinkerer.tools CNAME .
 stats.tms-development.com CNAME .
 stats.tms-development.de CNAME .
 stats.toiletmap.org.uk CNAME .
-stats.torontohhs.org CNAME .
 stats.training.fit CNAME .
 stats.trenntoi.de CNAME .
 stats.tsas.ca CNAME .

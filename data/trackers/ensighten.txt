@@ -257,6 +257,7 @@
 ||privacy.latitudefinancial.com.au^
 ||privacy.latitudepay.com^
 ||privacy.uwm.com^
+||privacy.zoll.com^
 ||pulse.delta.com^
 ||pulse.mcdonalds.com^
 ||pulse.quaero.com^

@@ -4,6 +4,7 @@ aa.samaniclucked.com CNAME .
 ae.craccaanybody.com CNAME .
 ae.rackmanbehind.com CNAME .
 ae.riataspardahs.com CNAME .
+ah.tabskeawe.com CNAME .
 al.neuraleisfahan.com CNAME .
 an.pintaentrep.com CNAME .
 aq.ferisonledger.com CNAME .
@@ -16,6 +17,7 @@ ax.requotebatman.com CNAME .
 bb.mahdianupcurls.com CNAME .
 bb.vanhonker.com CNAME .
 bc.manwaysprod.com CNAME .
+be.habitueflasque.com CNAME .
 bf.buffersling.com CNAME .
 bf.shodeoaters.com CNAME .
 bg.unbarbpoured.com CNAME .
@@ -109,6 +111,7 @@ ip.fazendatoxic.com CNAME .
 ir.avertinniello.com CNAME .
 ir.mildlydoucely.com CNAME .
 ir.turbotaedile.com CNAME .
+ix.lithatelamnoid.com CNAME .
 iy.secalinonyxis.com CNAME .
 je.guancheoutwait.com CNAME .
 je.mammeysterrae.com CNAME .
@@ -145,6 +148,7 @@ le.wellsmessy.com CNAME .
 lf.minyascannat.com CNAME .
 lf.unvenomangst.com CNAME .
 lg.feoffortapetis.com CNAME .
+lh.limosiwooable.com CNAME .
 lm.rinserbefore.com CNAME .
 lq.kuliposits.com CNAME .
 lq.nullusposolo.com CNAME .
@@ -311,6 +315,7 @@ yk.dissentsangir.com CNAME .
 yl.calumetjowing.com CNAME .
 yp.tronkparsed.com CNAME .
 yu.deggerfletton.com CNAME .
+yv.atticereqd.com CNAME .
 yx.minimalmodulet.com CNAME .
 yy.bourockmights.com CNAME .
 zd.plattedrattons.com CNAME .

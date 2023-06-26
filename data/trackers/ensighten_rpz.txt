@@ -257,6 +257,7 @@ privacy.latitudefinancial.com CNAME .
 privacy.latitudefinancial.com.au CNAME .
 privacy.latitudepay.com CNAME .
 privacy.uwm.com CNAME .
+privacy.zoll.com CNAME .
 pulse.delta.com CNAME .
 pulse.mcdonalds.com CNAME .
 pulse.quaero.com CNAME .

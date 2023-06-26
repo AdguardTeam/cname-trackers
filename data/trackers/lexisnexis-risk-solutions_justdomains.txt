@@ -206,7 +206,6 @@ content.hellomobile.com
 content.ibanking-services.com
 content.id.elsevier.com
 content.iddataweb.com
-content.ifpsoyyo.co
 content.imagedepositgateway.com
 content.incredit.pl
 content.interaconline.com
@@ -454,11 +453,10 @@ irmp.caa.com
 jj203.equitablebank.ca
 jplspr.jackpot.com
 jytrnq.cm-cic.com
-kfp.intuit.com
 kyc.usend.com
 lab4.lloydsbank.com
-lfp.intuit.com
 ln.meudigio.com.br
+lndata.labor.maryland.gov
 lndata.labor.md.gov
 lnths.twc.texas.gov
 lnthxsvc.tsp.gov
@@ -482,7 +480,6 @@ meiodepagamento.campanhaporto.com.br
 membership-device.secured-igaming-services.com
 metrics.myfrs.com
 metrix.us.ovhcloud.com
-mfp.intuit.com
 mnt.sbisec.co.jp
 mobile-content-f.autozone.com
 mobile-tmx.ssisurveys.com
@@ -493,11 +490,9 @@ mobsessions.worldremit.com
 nav.sciencedirect.com
 neo.fashionette.de
 nexus-svc.sc.com
-nfp.intuit.com
 nv-2.liveaction.com
 ocs.ameriprise.com
 offtest.fnfis.com
-ofp.intuit.com
 ofxmryjd.seller.walmart.com
 ofxmryjd.walmart.com
 ola2.tdameritrade.com

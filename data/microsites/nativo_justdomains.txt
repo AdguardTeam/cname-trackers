@@ -2,7 +2,6 @@
 # Company name: Nativo
 c333.macworld.co.uk
 sponsor.syracuse.com
-www1.cultivatedknowledge.com
 00c0a62f0c.de65e1286b.com
 00f62a6f1c.8f0f3b8464.com
 01b8624b69.d821929e2d.com
@@ -28,6 +27,7 @@ www1.cultivatedknowledge.com
 0df76f9508.04cbf4193b.com
 0f6e7d3222.ba33938e50.com
 0fd4d7aa3c.160bcb3235.com
+106dff4241.f5b40df5e2.com
 107a0e458a.93bc17bf29.com
 1228d4b021.f021d67770.com
 1327a0e03c.28473c6164.com
@@ -64,6 +64,7 @@ www1.cultivatedknowledge.com
 2d56aafb14.8767fbfa8b.com
 2efa46ca31.da03ab7249.com
 2fa1db4c6a.6effce3135.com
+2fdaf3a5d0.16d177cbd1.com
 310fdbd5d8.a9e8387c9e.com
 32b7b3da4e.a0e54ba172.com
 3309734ae8.329a540736.com
@@ -124,8 +125,10 @@ www1.cultivatedknowledge.com
 62cfc0b462.5a46641450.com
 62eddc0f6a.f984e0d579.com
 62ffd2f212.cfe8fd831d.com
+6381b70b69.4a08d2ff2c.com
 63b41fa702.81a3bb38fb.com
 6539a7f33f.2a83afe612.com
+659cf6a582.a5c431d2e7.com
 65eb50053b.3cb004e947.com
 66d7c2e32f.843acfbeb0.com
 67116813c6.89504d460b.com
@@ -141,6 +144,7 @@ www1.cultivatedknowledge.com
 6ef94a502b.64134c91b6.com
 70832e4e42.1c8a98da68.com
 710434b975.6de8cd75aa.com
+727eee8d0c.d65941bfa8.com
 740e3dd5cf.71a3fd0954.com
 749e473277.b6deee8a5f.com
 76cdfd14c9.d5a710a006.com
@@ -203,7 +207,6 @@ a10b5740ba.239333b133.com
 a2ee316f2b.9c56fb6868.com
 a2f288701d.a4334cc1ec.com
 a390770006.41291ba668.com
-a536a9d481.04fce94137.com
 a6270385bc.560fe03925.com
 a9c3a4315a.59e15e749d.com
 ab6de09242.441a8a5527.com
@@ -238,7 +241,6 @@ bfe70bbd52.23182b9851.com
 bfe8a1874d.bdced8843e.com
 c0b0be585f.581c933842.com
 c14f40b010.3574fd3373.com
-c1dfd30227.86c9ac4797.com
 c353ac05ea.b0fea47e81.com
 c37ed72d5a.f5fd936867.com
 c504d3250f.52c9f48b14.com
@@ -275,7 +277,6 @@ e144c46b1f.ab910ac1aa.com
 e1de143963.cc3f3eedbb.com
 e341c11575.f63f3176ad.com
 e49bdd68c5.047f8eefaf.com
-e69a848f04.f9751fcbfb.com
 e7cb682ade.7c3d7c5dec.com
 e87b92329f.64eab1d337.com
 e9dddfa444.07ad173c64.com
@@ -306,6 +307,8 @@ fc6150a639.f7e79a5f70.com
 fd91b5c89c.fb2d1abede.com
 fe8d4b33c2.8abf43d6ad.com
 ff04a1538a.ced4d66e2d.com
+a235.htvnativeadsolutions.com
+mlive.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
 a135.fox23.com
@@ -339,7 +342,6 @@ infoworld.share.ntv.io
 ksn.share.ntv.io
 littlethings.share.ntv.io
 miamiherald.share.ntv.io
-mlive.share.ntv.io
 mortgagesolutions.share.ntv.io
 motortrend.share.ntv.io
 mynorthwest.share.ntv.io
@@ -362,7 +364,6 @@ a235.ctnews.com
 a235.ctpost.com
 a235.gametimect.com
 a235.greenwichtime.com
-a235.htvnativeadsolutions.com
 a235.lmtonline.com
 a235.middletownpress.com
 a235.mrt.com
@@ -376,3 +377,4 @@ a235.stamfordadvocate.com
 a235.thehour.com
 a235.thetelegraph.com
 a235.timesunion.com
+www1.cultivatedknowledge.com

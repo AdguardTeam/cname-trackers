@@ -51,6 +51,7 @@ affil.nutriadapt.cz
 affil.peliskydog.cz
 affil.plkshop.cz
 affil.powerdays.eu
+affil.progamingshop.sk
 affil.reedog.cz
 affil.rutan.cz
 affil.sedacky-nabytek.cz
@@ -637,6 +638,7 @@ partner.zombeek.cz
 partner.zonky.cz
 partner.zv1.cz
 partner.zvaracky-obchod.sk
+partnerbox.humandesign.cz
 partneri.affiliate-program.sk
 partneri.affiliatevyzva.cz
 partneri.akodlhsiezit.sk
@@ -746,6 +748,7 @@ partneri.trenink-vyjednavani.cz
 partneri.trollbeads.cz
 partneri.tvojemamka.cz
 partneri.umenijazyku.cz
+partneri.variantbyznys.cz
 partneri.vashop.cz
 partneri.viadelicia.cz
 partneri.vitaon.cz

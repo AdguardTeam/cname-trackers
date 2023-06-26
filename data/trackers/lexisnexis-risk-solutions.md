@@ -39,7 +39,6 @@
     * h-4ulk5mz4.online-metrix.net
     * h-516jl8bt.online-metrix.net
     * h-5g3kt0kj.online-metrix.net
-    * h-5gi6k6h5.online-metrix.net
     * h-5glaq71x.online-metrix.net
     * h-5pxao9h8.online-metrix.net
     * h-5wdrto0i.online-metrix.net
@@ -588,7 +587,6 @@
     * h-uscellular.online-metrix.net
     * h-uship.online-metrix.net
     * h-usps.online-metrix.net
-    * h-v60nf4oj-2.online-metrix.net
     * h-v60nf4oj-pfp.online-metrix.net
     * h-vacations.united.online-metrix.net
     * h-valcontent.online-metrix.net
@@ -710,7 +708,6 @@
 | tmx-fpt.credit-agricole.pl | h-4ulk5mz4.online-metrix.net |
 | tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
 | page-format.chase.com | h-5g3kt0kj.online-metrix.net |
-| content.ifpsoyyo.co | h-5gi6k6h5.online-metrix.net |
 | api.ext.evolution.protective.com | h-5glaq71x.online-metrix.net |
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.ke | h-5pxao9h8.online-metrix.net |
@@ -874,6 +871,7 @@
 | abc.pulsebet.com | h-buzyvpj9.online-metrix.net |
 | tmxjs.tokyodisneyresort.jp | h-bw1fkozp.online-metrix.net |
 | content.koalafi.com | h-c3xmpcvr.online-metrix.net |
+| lndata.labor.maryland.gov | h-c70ghtsb.online-metrix.net |
 | lndata.labor.md.gov | h-c70ghtsb.online-metrix.net |
 | content.olympus.ao.com | h-c7f45hl1-ao.online-metrix.net |
 | scontent.fluid.co.uk | h-c7f45hl1-fluid.online-metrix.net |
@@ -1473,11 +1471,6 @@
 | img4.uscellular.com | h-uscellular.online-metrix.net |
 | tm.uship.com | h-uship.online-metrix.net |
 | content.usps.com | h-usps.online-metrix.net |
-| kfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
-| lfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
-| mfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
-| nfp.intuit.com | h-v60nf4oj-2.online-metrix.net |
-| ofp.intuit.com | h-v60nf4oj-2.online-metrix.net |
 | pfp.intuit.com | h-v60nf4oj-pfp.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | ualaki-analytics.vacations.united.com | h-vacations.united.online-metrix.net |

@@ -225,6 +225,7 @@ a8.snapmaker.jp CNAME .
 a8.soelu.com CNAME .
 a8.softbank-hikari.jp CNAME .
 a8.sommelier.gift CNAME .
+a8.sport-school.com CNAME .
 a8.ssl.aispr.jp CNAME .
 a8.st.oddspark.com CNAME .
 a8.starseries.biz CNAME .
@@ -1038,6 +1039,7 @@ afi.school.web-marketing.ai CNAME .
 afi.ssl.gmobb.jp CNAME .
 ahachi.dietnavi.com CNAME .
 analytics.villagehouse.jp CNAME .
+asp.hachipp119.com CNAME .
 aspa8.ozmall.co.jp CNAME .
 car-a8.tabirai.net CNAME .
 clk.ingage.jp CNAME .

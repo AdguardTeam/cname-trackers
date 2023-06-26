@@ -34,6 +34,7 @@ a.weareknitters.pl
 a.weareknitters.se
 a7e.monnierfreres.de
 a8ht.hipp.fr
+ab.oney.es
 ab.perfumesclub.com
 ac.acadomia.fr
 ali8.alinea.fr
@@ -291,6 +292,7 @@ m3ds.subarumetropolitain.com
 mfd.myfirstdressing.com
 mgt7.madeindesign.it
 mi.miliboo.be
+mi.miliboo.ch
 mi.miliboo.co.uk
 mi.miliboo.com
 mi.miliboo.de
@@ -315,7 +317,6 @@ nmo1.orpi.com
 nmu3.destinia.be
 noa0.compteczam.fr
 nrg.red-by-sfr.fr
-nym5c.bonlook.com
 nym5c.laura.ca
 nyt1.biosens-leanature.fr
 o68c.sfr.fr
@@ -495,6 +496,7 @@ b1n.carabins.umontreal.ca
 d0f.le-dauphin.com
 d2u.dauphinquebec.com
 hk2d.tourismemauricie.com
+nym5c.bonlook.com
 su1.les-suites.ca
 www.mis.tourisme-montreal.org
 ea.mnt.fr

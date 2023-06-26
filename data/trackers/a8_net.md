@@ -236,6 +236,7 @@
 | a8.soelu.com | trck.a8.net |
 | a8.softbank-hikari.jp | trck.a8.net |
 | a8.sommelier.gift | trck.a8.net |
+| a8.sport-school.com | trck.a8.net |
 | a8.ssl.aispr.jp | trck.a8.net |
 | a8.st.oddspark.com | trck.a8.net |
 | a8.starseries.biz | trck.a8.net |
@@ -1049,6 +1050,7 @@
 | afi.ssl.gmobb.jp | trck.a8.net |
 | ahachi.dietnavi.com | trck.a8.net |
 | analytics.villagehouse.jp | trck.a8.net |
+| asp.hachipp119.com | trck.a8.net |
 | aspa8.ozmall.co.jp | trck.a8.net |
 | car-a8.tabirai.net | trck.a8.net |
 | clk.ingage.jp | trck.a8.net |

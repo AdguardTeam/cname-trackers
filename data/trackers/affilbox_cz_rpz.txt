@@ -51,6 +51,7 @@ affil.nutriadapt.cz CNAME .
 affil.peliskydog.cz CNAME .
 affil.plkshop.cz CNAME .
 affil.powerdays.eu CNAME .
+affil.progamingshop.sk CNAME .
 affil.reedog.cz CNAME .
 affil.rutan.cz CNAME .
 affil.sedacky-nabytek.cz CNAME .
@@ -637,6 +638,7 @@ partner.zombeek.cz CNAME .
 partner.zonky.cz CNAME .
 partner.zv1.cz CNAME .
 partner.zvaracky-obchod.sk CNAME .
+partnerbox.humandesign.cz CNAME .
 partneri.affiliate-program.sk CNAME .
 partneri.affiliatevyzva.cz CNAME .
 partneri.akodlhsiezit.sk CNAME .
@@ -746,6 +748,7 @@ partneri.trenink-vyjednavani.cz CNAME .
 partneri.trollbeads.cz CNAME .
 partneri.tvojemamka.cz CNAME .
 partneri.umenijazyku.cz CNAME .
+partneri.variantbyznys.cz CNAME .
 partneri.vashop.cz CNAME .
 partneri.viadelicia.cz CNAME .
 partneri.vitaon.cz CNAME .
