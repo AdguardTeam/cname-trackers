@@ -16,6 +16,9 @@ const {
     HOSTS_RULES_FILE_NAME_ENDING,
     RPZ_RULES_FILE_NAME_ENDING,
     CONST_DATA,
+    getBaseRulesCombinedHeader,
+    getHostsRulesCombinedHeader,
+    getRpzRulesCombinedHeader,
 } = require('./constants');
 
 const ORIGINALS_FILE_NAME = './cloaked-trackers.json';
@@ -74,9 +77,9 @@ const updateCombinedDisguises = async (rawCombinedData) => {
         );
 
         // add headers to base, hosts, rpz files
-        let baseCombinedContent = `${CONST_DATA.BASE.combinedHeader}\n`;
-        let hostsCombinedContent = `${CONST_DATA.HOSTS.combinedHeader}\n`;
-        let rpzCombinedContent = `${CONST_DATA.RPZ.combinedHeader}\n`;
+        let baseCombinedContent = `${getBaseRulesCombinedHeader(type)}\n`;
+        let hostsCombinedContent = `${getHostsRulesCombinedHeader(type)}\n`;
+        let rpzCombinedContent = `${getRpzRulesCombinedHeader(type)}\n`;
 
         // add content to base, hosts, rpz files from sorted keys combined_disguised_companyType.json
         sortedDisguiseTrackers.forEach((disguise) => {

@@ -36,45 +36,106 @@ so now even the users of Chrome and Safari extensions will be protected from CNA
 We hope that other filter lists makers (EasyPrivacy in particular) will also use this repository.
 This way we will cover most of the content blockers and finally get rid of CNAME abuse.
 
-
 ## The Lists
+​
+It is important to note that not all CNAME-cloaked trackers can be completely blocked.
+If it is an advertisement or a tracker, blocking it is not difficult because the user does not notice it. But if CNAME-cloaked trackers point to microsites or landing pages, blocking the entire domain will prevent access to the page. If CNAME-cloaked trackers are used to redirect the user to an end resource, blocking them will also affect the user experience.
+To avoid unwanted behavior, trackers are separated by type of use. This lists of unique tracker domains
+that disguise the real trackers by using CNAME records, can be used in any traditional content blocker:
 
+**Ads** – these trackers are used to distribute advertising content.
+They are commonly employed to deliver targeted advertisements to users based on their browsing habits and interests.
+
+**Clickthroughs** – this type of tracker is responsible for redirecting users to a specific target domain.
+These clickthroughs, which can be numerous, can result in data being collected by third parties.
+
+**Microsites** – microsites are separate web pages or small sections, such as iframes or widgets.
+They are typically embedded within other websites and provide suggestions or recommendations.
+
+**Trackers** – trackers of this type are used to collect and analyze information about the user.
+They monitor user behavior, such as browsing patterns, interactions, and preferences,
+and are used for various purposes like audience profiling, market research, and personalization.
+​
 > **Recommendation:**
 >
 > Just use "AdGuard Tracking Protection filter" or "EasyPrivacy" in a content blocker of your choice.
 > This would be the safest way.
-
+​
 If you are absolutely sure you want to block all disguised trackers even if it breaks some websites, choose one of these:
-
+​
 * `AdGuard CNAME original trackers list` — the list of trackers that are often disguised using CNAME.
 This list is supposed to be used only by Software capable of scanning CNAME records.
     * [Adblock-style syntax](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style):
+​
         ```
         https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_original_trackers.txt
         ```
-* `AdGuard CNAME disguised trackers list` — the list of unique tracker domains
+​
+* `AdGuard CNAME disguised lists` — the lists of unique tracker domains
 that disguise the real trackers by using CNAME records. Use in any traditional content blocker.
+​
     * [Adblock-style syntax](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#adblock-style):
+
+        Ads
         ```
-        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
         https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt
         ```
+        Clickthroughs
+​
+        ```
+         https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt
+        ```
+        Microsites
+        ```
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites.txt
+        ```
+        Trackers
+        ```
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
+        ```
+
     * [Just domain names](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#domains-only-syntax):
+
+        Ads
+        ```
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt
+        ```
+        Clickthroughs
+        ```
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs_justdomains.txt
+        ```
+        Microsites
+        ```
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites_justdomains.txt
+        ```
+        Trackers
         ```
         https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt
-        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_justdomains.txt
         ```
 
 If you run your own DNS server which supports [Response Policy Zones (RPZ)](https://www.dnsrpz.info),
 use the data in RPZ format:
-
-* `AdGuard CNAME disguised trackers list` - The list of unique tracker domains
+​
+* `AdGuard CNAME disguised lists` - the lists of unique tracker domains
 that disguise the real trackers by using CNAME records. Use with a compatible DNS server implementation.
     * RPZ format:
+
+        Ads
         ```
-        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_rpz.txt
         https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads_rpz.txt
         ```
-
+        Clickthroughs
+        ```
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs_rpz.txt
+        ```
+        Microsites
+        ```
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites_rpz.txt
+        ```
+        Trackers
+        ```
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_rpz.txt
+        ```
+​
 You will need to prepend your own SOA and NS records. Consult the documentation of your DNS server
 and/or the [IETF Draft](https://datatracker.ietf.org/doc/draft-vixie-dnsop-dns-rpz/) for more information.
