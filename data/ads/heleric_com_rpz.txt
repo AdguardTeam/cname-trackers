@@ -16,6 +16,7 @@ ax.mousmeetrike.com CNAME .
 ax.requotebatman.com CNAME .
 bb.mahdianupcurls.com CNAME .
 bb.vanhonker.com CNAME .
+bb.whaupburgeon.com CNAME .
 bc.manwaysprod.com CNAME .
 be.habitueflasque.com CNAME .
 bf.buffersling.com CNAME .
@@ -27,6 +28,7 @@ bj.preideanested.com CNAME .
 bk.clinkedsphecid.com CNAME .
 bl.delbertgobans.com CNAME .
 bl.noonishkahala.com CNAME .
+bm.chileslatrede.com CNAME .
 bm.shamosmatic.com CNAME .
 bu.sectistfrow.com CNAME .
 bx.khedivaormond.com CNAME .
@@ -59,6 +61,7 @@ dw.organaamnions.com CNAME .
 dy.fitrootmisterm.com CNAME .
 ed.urotoxykerch.com CNAME .
 ef.betosslingala.com CNAME .
+eh.stowingwhelks.com CNAME .
 ej.basialforced.com CNAME .
 et.harmoutguereza.com CNAME .
 eu.balletsbeep.com CNAME .
@@ -90,12 +93,14 @@ go.jazygesunoared.com CNAME .
 go.loorydewdrop.com CNAME .
 gp.splodgydossing.com CNAME .
 gs.profrebecca.com CNAME .
+gt.unurnedbeleve.com CNAME .
 gw.glassbogey.com CNAME .
 ha.reaffixteaey.com CNAME .
 he.sirramugget.com CNAME .
 hg.barwaltanha.com CNAME .
 hg.scallsoogloea.com CNAME .
 hi.oglesmulsify.com CNAME .
+hj.faggotbovidae.com CNAME .
 hl.jinchaovetoer.com CNAME .
 hw.testulebottega.com CNAME .
 hx.relivesternar.com CNAME .
@@ -180,6 +185,7 @@ ob.freyrclogs.com CNAME .
 og.cejainlike.com CNAME .
 oj.daunnotes.com CNAME .
 ok.ribworkstylus.com CNAME .
+on.culverscoping.com CNAME .
 or.alpieutieboy.com CNAME .
 ot.myotomyarkab.com CNAME .
 ou.laoosmesis.com CNAME .
@@ -248,6 +254,7 @@ tc.bovateoutrate.com CNAME .
 tc.puinavikytes.com CNAME .
 td.anasphragma.com CNAME .
 th.micheryfrugal.com CNAME .
+ti.bandonbrubru.com CNAME .
 tl.logwisespitzer.com CNAME .
 tm.hacklesovary.com CNAME .
 tm.tangasulfide.com CNAME .
@@ -278,6 +285,7 @@ vi.spratstatters.com CNAME .
 vn.finisbur.com CNAME .
 vp.upswingmethyl.com CNAME .
 vq.areiccastano.com CNAME .
+vr.noosersturtles.com CNAME .
 vt.alieneepunta.com CNAME .
 vv.habaerashiksas.com CNAME .
 vx.azuresjukes.com CNAME .

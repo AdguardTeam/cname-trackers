@@ -92,6 +92,7 @@ data.vdi-wissensforum.de
 data.volksfreund.de
 data.westlotto.de
 daten.union-investment.de
+di.fotos-fuers-leben.ch
 di.ifolor.at
 di.ifolor.be
 di.ifolor.ch
@@ -257,12 +258,14 @@ web.e.panmacmillan.com
 web.email.farrow-ball.com
 web.email.pmtonline.co.uk
 web.email.principality.co.uk
+web.email.superga.co.uk
 web.email.theindependentpharmacy.co.uk
 web.email.zone3.com
 web.emails.elc.co.uk
 web.emails.thetoyshop.com
 web.friends.ellaskitchen.co.uk
 web.ideaautorepair.com
+web.info.bodybuildingwarehouse.co.uk
 web.info.bonprix.es
 web.info.teamwarrior.com
 web.info.vantastic-foods.com
@@ -302,6 +305,7 @@ web.sensilab.com
 web.sensilab.cz
 web.sensilab.de
 web.sensilab.dk
+web.sensilab.es
 web.sensilab.ie
 web.sensilab.it
 web.sensilab.pt
@@ -321,6 +325,7 @@ web.solesource.com
 web.tamaris.com
 web.tummy-tox.com
 web.tummytox.de
+web.tummytox.es
 web.tummytox.fr
 web.tummytox.it
 web.tummytox.pt

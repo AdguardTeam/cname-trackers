@@ -74,6 +74,7 @@ di-res-latam.t4ergzwf7r.com CNAME .
 di-res-latam.xw1fx50x35.com CNAME .
 di-res-sing.8njhhs0ivx.com CNAME .
 di-res-sing.cau1aighae.com CNAME .
+di-res-sing.esuxdqovni.com CNAME .
 di-res-sing.iroebhuszq.com CNAME .
 di-res-sing.jsgbmmcapc.com CNAME .
 di-res-sing.kwzdbbkpre.com CNAME .

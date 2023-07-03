@@ -18,6 +18,7 @@ affil.avenatura.sk
 affil.bitdef.cz
 affil.blaire.cz
 affil.bruderland.cz
+affil.cbdmedicals.com
 affil.chlap20.sk
 affil.chocome.cz
 affil.cityzenwear.cz
@@ -394,6 +395,7 @@ partner.affiliateark.com
 partner.affilnet.cz
 partner.ajshop.cz
 partner.alesio.cz
+partner.amonit.sk
 partner.amonitsro.sk
 partner.anabix.cz
 partner.antihacker.cz
@@ -407,6 +409,7 @@ partner.bandana.cz
 partner.barnaby.cz
 partner.bazaroveregaly.cz
 partner.bebidas.cz
+partner.bed4dogs.com
 partner.bilynabytek.cz
 partner.bio-nehty.cz
 partner.bioaromakosmetika.cz
@@ -472,7 +475,6 @@ partner.expresmenu.cz
 partner.expresmenu.pl
 partner.expresmenu.sk
 partner.fermato.cz
-partner.ferratum.cz
 partner.finstyle.cz
 partner.firmin.cz
 partner.fitnessrevolucia.sk
@@ -586,6 +588,7 @@ partner.scootshop.cz
 partner.sculpturepainting.eu
 partner.simplymix.com
 partner.skinnygirls.cz
+partner.skiresort.cz
 partner.skolske-tasky.sk
 partner.sladkemameni.com
 partner.sladkyklub.cz
@@ -740,6 +743,7 @@ partneri.sportmentor.cz
 partneri.sterixretro.cz
 partneri.supportbox.cz
 partneri.sviicka.cz
+partneri.systemhry.cz
 partneri.tanahavlickova.cz
 partneri.tentino.cz
 partneri.toothy.cz
@@ -777,6 +781,7 @@ partners.rebelsfunding.com
 partners.spiritradar.com
 plus.mameradivlasy.cz
 prodej.kyselove.cz
+program.biocitia.eu
 promo.smskouc.cz
 provize.3dfitness.cz
 provize.brilas.cz

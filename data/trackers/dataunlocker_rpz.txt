@@ -17,6 +17,7 @@
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 2107wrlgff5.development.taxmachine.be CNAME .
 21fhq0t574p.talentkit.io CNAME .
+22k1uh3ooima.kvest.ee CNAME .
 25ix8gm8ien.sandbox.panprices.com CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .
@@ -78,6 +79,7 @@ m4zoxtrcea1k.controlconceptsusa.com CNAME .
 m5yw219v6r.app.koinly.io CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
+mt2992299ubt.www.qeemat.com.pk CNAME .
 mteme7li1d6r.vertexmarketingagency.com CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
@@ -86,12 +88,14 @@ otx23nu6rzon.prep.toppers.com CNAME .
 p13vtlg7n362.clariti.app CNAME .
 p7h1silo3f.app.cainthus.com CNAME .
 q3xly8i4oz.app.taxmachine.be CNAME .
+q4l5gz6lqog6.www.eventus.io CNAME .
 qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qri2r94eeajr.innovationcast.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
+soahu1wnmt6l.www.replai.io CNAME .
 sr59t7wbx5.claricelin.com CNAME .
 sxwxswg8z1xe.www.arnowebtv.com CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .

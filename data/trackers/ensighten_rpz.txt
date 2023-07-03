@@ -10,6 +10,7 @@ activate.carrollcountytimes.com CNAME .
 activate.chicagoredeye.com CNAME .
 activate.chicagotribune.com CNAME .
 activate.cityandshore.com CNAME .
+activate.citypaper.com CNAME .
 activate.columbiaflier.com CNAME .
 activate.courant.com CNAME .
 activate.dailypress.com CNAME .
@@ -35,6 +36,7 @@ activate.pacificsandiego.com CNAME .
 activate.pbmonthly.net CNAME .
 activate.pilotonline.com CNAME .
 activate.platform.californiatimes.com CNAME .
+activate.pomeradonews.com CNAME .
 activate.post-trib.com CNAME .
 activate.prosoccerusa.com CNAME .
 activate.ramonasentinel.com CNAME .
@@ -45,8 +47,10 @@ activate.sun-sentinel.com CNAME .
 activate.suncorp.com.au CNAME .
 activate.tacdn.com CNAME .
 activate.tidewaterreview.com CNAME .
+activate.tribpubads.com CNAME .
 activate.tronc.com CNAME .
 activate.united.com CNAME .
+activate.vagazette.com CNAME .
 activate.vivelohoy.com CNAME .
 activate1.fidelity.com CNAME .
 agility.cartoonnetwork.com CNAME .
@@ -164,6 +168,7 @@ cookies.joneslanglasalle.co.jp CNAME .
 cookies.joneslanglasalle.com.cn CNAME .
 cookies.joneslanglasalle.com.vn CNAME .
 cookies.us.jll.com CNAME .
+csp.prod.saga.co.uk CNAME .
 data.ensightendemo.com CNAME .
 data.experian.co.uk CNAME .
 data.experianidentityservice.co.uk CNAME .
@@ -205,6 +210,7 @@ ensighten.filmstruck.com CNAME .
 ensighten.heineken.co.za CNAME .
 ensighten.heishop.com.br CNAME .
 ensighten.heishop.mx CNAME .
+ensighten.huntington.com CNAME .
 ensighten.huntingtonbank.com CNAME .
 ensighten.lightstream.com CNAME .
 ensighten.norton.com CNAME .
@@ -243,6 +249,7 @@ pfa.levexis.com CNAME .
 privacy-digital.pru.co.uk CNAME .
 privacy.28degreescard.com.au CNAME .
 privacy.acaseforwomen.com CNAME .
+privacy.acc2-online.heineken.co.za CNAME .
 privacy.acc2.heishop.com.br CNAME .
 privacy.amadrinks.be CNAME .
 privacy.amstel.nl CNAME .

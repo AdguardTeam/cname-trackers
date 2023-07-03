@@ -45,6 +45,7 @@
 ||cbcdn.lloydsbank.com^
 ||ccf.prod.fedex.com^
 ||cda.thecardservicescenter.com^
+||cdle-prof.clouduim.cdle.state.co.us^
 ||cdn-east.purchase.goto.com^
 ||cdn-ln.ozk.com^
 ||cdn-s.chumbacasino.com^
@@ -337,6 +338,7 @@
 ||dep.gambit3.gameassists.co.uk^
 ||dev-check3.dev.everbank.com^
 ||dev-rmscheck.sbifxt.co.jp^
+||device-profile.jeniusbank.com^
 ||device.invoice2go.com^
 ||device.messa.org^
 ||deviceauth.dmv.ca.gov^
@@ -345,6 +347,7 @@
 ||df.greenmangaming.com^
 ||df.thumbtack.com^
 ||dfp.garmin.com^
+||dfp.mcdonalds.fr^
 ||dfp.s-budget-mobile.at^
 ||dfp.t-mobile.at^
 ||dfp.telering.at^
@@ -387,6 +390,7 @@
 ||fpt.norton.com^
 ||fr.shopdisney.disney.co.jp^
 ||fraudcheck.walmart.ca^
+||fsta.leboncoin.info^
 ||ftd.quodxx.com.br^
 ||gateway.jmbullion.com^
 ||ghisa.subito.it^
@@ -881,7 +885,6 @@
 ||verification.ndtco.com^
 ||verify.metlife.com^
 ||verify.philippineairlines.com^
-||vir.purepoint.com^
 ||vlscppe.microsoft.com^
 ||voto.credit24.com^
 ||voto.creditea.com^

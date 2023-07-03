@@ -90,6 +90,7 @@
 3188993.notifysrv.com
 3189019.notify6.com
 3189023.notifysrv.com
+3189027.notify6.com
 3191479.notify6.com
 3191479.notifysrv.com
 3191833.notifysrv.com
@@ -144,6 +145,7 @@
 3221983.notifysrv.com
 3225557.notify6.com
 3225747.notify6.com
+3227697.notify6.com
 3230814.notifysrv.com
 3231172.notify6.com
 3231172.notifysrv.com
@@ -440,6 +442,7 @@
 3505143.notifysrv.com
 3505743.notifysrv.com
 3505883.notifysrv.com
+3505935.notify6.com
 3505943.notifysrv.com
 3505963.notifysrv.com
 3505973.notifysrv.com
@@ -516,6 +519,7 @@
 3572283.notifysrv.com
 3572285.notifysrv.com
 3572293.notifysrv.com
+3572303.notifysrv.com
 3572904.notifysrv.com
 3576907.notifysrv.com
 3578239.notify6.com
@@ -536,6 +540,7 @@
 3588587.notify6.com
 3588587.notifysrv.com
 3588593.notifysrv.com
+3588597.notifysrv.com
 3588599.notifysrv.com
 3590311.notify6.com
 3591075.notifysrv.com
@@ -597,6 +602,7 @@
 3724345.notifysrv.com
 3727723.notifysrv.com
 3730893.notifysrv.com
+3733283.notifysrv.com
 3733673.notifysrv.com
 3739013.notify6.com
 3740615.notifysrv.com
@@ -618,6 +624,7 @@
 3814695.notifysrv.com
 3815573.notify6.com
 3815579.notify6.com
+3822893.notifysrv.com
 3832097.notifysrv.com
 3837365.notifysrv.com
 3837607.notifysrv.com
@@ -765,11 +772,13 @@
 4305094.notify6.com
 4322316.notify6.com
 4325144.notify6.com
+4327052.notify6.com
 4329288.notify6.com
 4329292.notify6.com
 4329294.notify6.com
 4329296.notify6.com
 4329300.notify6.com
+4329302.notify6.com
 4329306.notify6.com
 4349528.notify6.com
 4399896.notify6.com
@@ -784,6 +793,7 @@
 4527824.notify6.com
 4539496.notify6.com
 4576708.notify6.com
+4586.notify.optimizesrv.com
 4587228.notify6.com
 4598408.notify6.com
 4598410.notify6.com
@@ -837,6 +847,7 @@
 4960922.notify6.com
 535.notify.optimizesrv.com
 5602.notify.optimizesrv.com
+577.notify.optimizesrv.com
 583.notify.optimizesrv.com
 603.notify.optimizesrv.com
 6146.notify.optimizesrv.com
@@ -849,16 +860,18 @@
 8.notify.bizonads-ssp.com
 905.notify.optimizesrv.com
 913.notify.optimizesrv.com
+963.notify.optimizesrv.com
 993.notify.optimizesrv.com
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
 a.a3ion.com
 a.ad.guru
-a.asvsm.com
+a.addisplaynetwork.com
 a.paradoxgroup.uk
 a.redpathmedia.com
 a.stuffserve.com
-admin.adnation.com
+admin.gettopple.com
+admin.shafttraffic.com
 api.adnation.com
 delivery.gettopple.com
 engine.gettopple.com
@@ -965,16 +978,16 @@ syndication.ouzads.com
 syndication.realsrv.com
 syndication.whibd.com
 syndication.whibp.com
+syndication0.exoclick.com
 www.3227697.notify6.com
 www.4152316.notify6.com
-a.addisplaynetwork.com
 a.adnflow.com
+a.asvsm.com
 a.bizonads-ssp.com
 a.etology.com
 a.santabrowser.com
 a.slice.exchange
 admin.ad.guru
+admin.adnation.com
 admin.adstuff.io
 admin.etology.com
-admin.gettopple.com
-admin.shafttraffic.com

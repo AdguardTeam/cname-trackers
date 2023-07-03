@@ -321,6 +321,7 @@ refer.scoresense.com CNAME .
 refer.seabourn.com CNAME .
 refer.sharetodoist.com CNAME .
 refer.sharkclean.com CNAME .
+refer.signals.com CNAME .
 refer.skinceuticals.com CNAME .
 refer.skyone.org CNAME .
 refer.sleepnumber.com CNAME .
@@ -367,7 +368,7 @@ refer.whitehouseblackmarket.com CNAME .
 refer.windsorstore.com CNAME .
 refer.wine.com CNAME .
 refer.wolverine.com CNAME .
-refer.xpressmoneyonline.com CNAME .
+refer.wrangler.com CNAME .
 refer.zazzlereferral.com CNAME .
 refer.zenhaven.com CNAME .
 refer.zipcar.ca CNAME .
@@ -547,6 +548,7 @@ share.rvshare.com CNAME .
 share.s4.levi-site.com CNAME .
 share.saintjanebeauty.com CNAME .
 share.securityplusfcu.org CNAME .
+share.shoplc.com CNAME .
 share.shoptruespirit.com CNAME .
 share.shutterstock.com CNAME .
 share.simonandschuster.com CNAME .
@@ -584,6 +586,7 @@ share.vcstar.com CNAME .
 share.veo.co CNAME .
 share.veritycu.com CNAME .
 share.vichyusa.com CNAME .
+share.vonage.co.uk CNAME .
 share.vonage.com CNAME .
 share.wagwalking.com CNAME .
 share.walmartmoneycard.com CNAME .

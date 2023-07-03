@@ -262,6 +262,7 @@ ssl-bureaubiz.tns-gallup.dk
 ssl-business.tns-gallup.dk
 ssl-computerworld.tns-gallup.dk
 ssl-costume.tns-gallup.dk
+ssl-dagbladetringskjern.tns-gallup.dk
 ssl-danskemedier.tns-gallup.dk
 ssl-dba.tns-gallup.dk
 ssl-dhblad.tns-gallup.dk
@@ -288,6 +289,7 @@ ssl-fyens.tns-gallup.dk
 ssl-gaffa.tns-gallup.dk
 ssl-gafiam.tns-gallup.dk
 ssl-swpanel.tns-gallup.dk
+swpanel.tns-gallup.dk
 ssl-goerdetselv.tns-gallup.dk
 ssl-golf.tns-gallup.dk
 ssl-guloggratis.tns-gallup.dk

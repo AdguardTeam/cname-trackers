@@ -38,6 +38,7 @@ tr.animation.micromania.fr CNAME .
 tr.animations.alticemedia.com CNAME .
 tr.animations.bfmtv.com CNAME .
 tr.apou032.espmp-agfr.net CNAME .
+tr.asp0010.espmp-nifr.net CNAME .
 tr.asp0018.espmp-aufr.net CNAME .
 tr.asp002q.espmp-aufr.net CNAME .
 tr.asp002x.espmp-cufr.net CNAME .
@@ -48,6 +49,7 @@ tr.asp00a1.espmp-agfr.net CNAME .
 tr.asp00a3.espmp-agfr.net CNAME .
 tr.asp00a6.espmp-nifr.net CNAME .
 tr.asp00ah.espmp-nifr.net CNAME .
+tr.asp00am.espmp-cufr.net CNAME .
 tr.asp1.espmp-agfr.net CNAME .
 tr.asp103z.espmp-nifr.net CNAME .
 tr.asp104p.espmp-aufr.net CNAME .
@@ -61,6 +63,7 @@ tr.asp10c8.espmp-agfr.net CNAME .
 tr.asp10cg.espmp-nifr.net CNAME .
 tr.asp10ch.espmp-nifr.net CNAME .
 tr.asp10cr.espmp-nifr.net CNAME .
+tr.asp10dq.espmp-nifr.net CNAME .
 tr.asp10dx.espmp-nifr.net CNAME .
 tr.asp10ea.espmp-nifr.net CNAME .
 tr.asp10fa.espmp-cufr.net CNAME .
@@ -77,6 +80,7 @@ tr.asp2032.espmp-aufr.net CNAME .
 tr.asp2035.espmp-nifr.net CNAME .
 tr.asp203m.espmp-cufr.net CNAME .
 tr.asp2045.espmp-nifr.net CNAME .
+tr.asp204q.espmp-cufr.net CNAME .
 tr.asp2063.espmp-nifr.net CNAME .
 tr.asp206k.espmp-agfr.net CNAME .
 tr.asp2075.espmp-nifr.net CNAME .
@@ -101,7 +105,6 @@ tr.bobo.espmp-cufr.net CNAME .
 tr.bodet.devisdirect.com CNAME .
 tr.boletim.companeo.pt CNAME .
 tr.boletim.meu-orcamento.pt CNAME .
-tr.bonplan.mydesign.com CNAME .
 tr.bouyguestelecom.espmp-aufr.net CNAME .
 tr.brand.labelleadresse.com CNAME .
 tr.btob-afaceri.ro CNAME .
@@ -109,6 +112,7 @@ tr.btob-cwf.com CNAME .
 tr.btob-deals.co.uk CNAME .
 tr.btob.mhdfrance.fr CNAME .
 tr.btobquotes.be CNAME .
+tr.btobquotes.cl CNAME .
 tr.btobquotes.com CNAME .
 tr.btobquotes.mx CNAME .
 tr.buenasofertas.pro CNAME .
@@ -263,12 +267,16 @@ tr.ecologie-shop.espmp-agfr.net CNAME .
 tr.em.cdiscount-pro.com CNAME .
 tr.em.cdiscountpro.com CNAME .
 tr.email.aeroexpo.online CNAME .
+tr.email.agriexpo.online CNAME .
+tr.email.akerys.com CNAME .
 tr.email.aktuariat.fr CNAME .
 tr.email.archiexpo.com CNAME .
+tr.email.bon-placement-immobilier.fr CNAME .
 tr.email.contact-jaguar.fr CNAME .
 tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
 tr.email.d17.tv CNAME .
+tr.email.d8.tv CNAME .
 tr.email.directindustry.com CNAME .
 tr.email.distributor-expo.com CNAME .
 tr.email.esprit-de-france.com CNAME .
@@ -276,6 +284,7 @@ tr.email.gap-france.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.infocredit.orangebank.fr CNAME .
 tr.email.investissement-residence-service.fr CNAME .
+tr.email.jaguar-approved.fr CNAME .
 tr.email.janedeboy.com CNAME .
 tr.email.land-rover-experience.fr CNAME .
 tr.email.landrover-approved.fr CNAME .
@@ -283,15 +292,18 @@ tr.email.maisonfoody.com CNAME .
 tr.email.medicalexpo.com CNAME .
 tr.email.mnpaf.fr CNAME .
 tr.email.nauticexpo.com CNAME .
+tr.email.partenaire-pour-investir.fr CNAME .
 tr.email.pointfranchise.co.uk CNAME .
 tr.email.rs-fr.com CNAME .
 tr.email.securite-routiere.gouv.fr CNAME .
 tr.email.solocal.com CNAME .
 tr.email.thelem-assurances.fr CNAME .
 tr.email.toute-la-franchise.com CNAME .
+tr.email.videofutur.fr CNAME .
 tr.email.virtual-expo.com CNAME .
 tr.email.voyagesleclerc.com CNAME .
 tr.emailatia.fr CNAME .
+tr.emailing-wishesfactory.com CNAME .
 tr.emailing.agencereference.com CNAME .
 tr.emailing.canalbox.com CNAME .
 tr.emailing.canalplay.com CNAME .
@@ -312,6 +324,7 @@ tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
 tr.emailing.pogioclub.be CNAME .
 tr.emailing.studiocanal.com CNAME .
+tr.emailing.uda.fr CNAME .
 tr.emailium.fr CNAME .
 tr.enedis-infos.fr CNAME .
 tr.enews.customsolutions.fr CNAME .
@@ -445,6 +458,7 @@ tr.information.thelist-emirates.fr CNAME .
 tr.informations.harmonie-mutuelle.fr CNAME .
 tr.informations.lcl.fr CNAME .
 tr.infos.afpa.fr CNAME .
+tr.infos.allianz-trade.com CNAME .
 tr.infos.fongecifcentre.com CNAME .
 tr.infos.gazdebordeaux.fr CNAME .
 tr.infos.lacarte.demenagez-moi.com CNAME .
@@ -472,6 +486,7 @@ tr.kpfc.espmp-nifr.net CNAME .
 tr.kpyn.espmp-cufr.net CNAME .
 tr.kpyn02a.espmp-cufr.net CNAME .
 tr.kpyn02f.espmp-cufr.net CNAME .
+tr.kpyn059.espmp-pofr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
 tr.laprairie.ifop.com CNAME .
 tr.lbar.espmp-agfr.net CNAME .
@@ -687,7 +702,6 @@ tr.news.moethennessy.com CNAME .
 tr.news.mon-horoscope.info CNAME .
 tr.news.monvoyant.fr CNAME .
 tr.news.mperformance.fr CNAME .
-tr.news.mydesign.com CNAME .
 tr.news.normandie.cci.fr CNAME .
 tr.news.ocs.fr CNAME .
 tr.news.onetoonemba.com CNAME .
@@ -730,6 +744,7 @@ tr.news5.cdiscount.com CNAME .
 tr.news6.cdiscount.com CNAME .
 tr.newsletter-habitat.com CNAME .
 tr.newsletter-stressless.com CNAME .
+tr.newsletter-wonderbox.com CNAME .
 tr.newsletter.1664france.fr CNAME .
 tr.newsletter.actalians.fr CNAME .
 tr.newsletter.afpa.fr CNAME .
@@ -754,6 +769,7 @@ tr.newsletter.monmedium.com CNAME .
 tr.newsletter.np6.com CNAME .
 tr.newsletter.np6.fr CNAME .
 tr.newsletter.opcoep.fr CNAME .
+tr.newsletter.photoservice.com CNAME .
 tr.newsletter.phyto.com CNAME .
 tr.newsletter.plurielmedia.com CNAME .
 tr.newsletter.tiragephoto.fr CNAME .
@@ -980,6 +996,7 @@ tr1.mailperformance.com CNAME .
 tr1.mperf.com CNAME .
 tr1.psa-surveys.com CNAME .
 tr5.mailperf.com CNAME .
+tr5.mperf.com CNAME .
 tr6.mperf.com CNAME .
 tracking.allopneus.com CNAME .
 www.newsletter.banquepopulaire.fr CNAME .

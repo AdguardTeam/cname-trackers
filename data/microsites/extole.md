@@ -423,7 +423,9 @@
     * securityplus.extole.io
     * shark-clean.extole.io
     * shiseido.extole.io
+    * shoplc.extole.io
     * shutterstock.extole.io
+    * signals.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
     * skillshare.extole.io
@@ -471,7 +473,6 @@
     * truckstop.extole.io
     * tweglobal.extole.io
     * twisthair.extole.io
-    * uae-exchange.extole.io
     * unchartedsociety.extole.io
     * under-armour-1.extole.io
     * under-armour-2.extole.io
@@ -489,6 +490,7 @@
     * visions.extole.io
     * vitaminpacks.extole.io
     * vonagebusiness.extole.io
+    * vonagebusinessuk.extole.io
     * wagwalking.extole.io
     * walmartmoneycard.extole.io
     * wearesouthwind.extole.io
@@ -500,6 +502,7 @@
     * wisdompanel.extole.io
     * wolverine.extole.io
     * wombat.extole.io
+    * wrangler.extole.io
     * zazzle.extole.io
     * zebit.extole.io
     * zenbusiness.extole.io
@@ -994,7 +997,9 @@
 | refer.sharkclean.com | shark-clean.extole.io |
 | referral.shiseido.com | shiseido.extole.io |
 | refer.shoesforcrews.com | shoesforcrews-ssl.extole.com |
+| share.shoplc.com | shoplc.extole.io |
 | share.shutterstock.com | shutterstock.extole.io |
+| refer.signals.com | signals.extole.io |
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
@@ -1064,7 +1069,6 @@
 | refer.twisthair.com | twisthair.extole.io |
 | em1476.princesscruises.com | u82658.wl159.sendgrid.net |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
-| refer.xpressmoneyonline.com | uae-exchange.extole.io |
 | refer.ulta.com | ulta.extole.com |
 | share.unchartedsociety.com | unchartedsociety.extole.io |
 | refer.underarmour.co.uk | under-armour-1.extole.io |
@@ -1092,6 +1096,7 @@
 | refer.volcom.com | volcom.extole.com |
 | refer.vonage.com | vonage.extole.com |
 | share.vonage.com | vonagebusiness.extole.io |
+| share.vonage.co.uk | vonagebusinessuk.extole.io |
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
@@ -1108,6 +1113,7 @@
 | refer.wolverine.com | wolverine.extole.io |
 | share.wombatinvest.com | wombat.extole.io |
 | share.worldmarket.com | worldmarket.extole.com |
+| refer.wrangler.com | wrangler.extole.io |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
 | refer.zazzlereferral.com | zazzle.extole.io |
 | share.zebit.com | zebit.extole.io |

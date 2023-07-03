@@ -30,6 +30,7 @@
 | axx.arabsex1.com | api.clickaine.com |
 | c.gotoxxxtube.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
+| c0n.urlgalleries.net | api.clickaine.com |
 | c2n.pornez.net | api.clickaine.com |
 | c4n.21hub.com | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
@@ -106,7 +107,6 @@
 | uy.arabsex1.com | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
 | www.bokep.su | api.clickaine.com |
-| www.brandnewapp.pro | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
 | xxx.arabsex1.com | api.clickaine.com |

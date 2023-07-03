@@ -15,7 +15,6 @@ tagcommander.laredoute.ch CNAME .
 tagcommander.laredoute.co.uk CNAME .
 tcdata.fnac.com CNAME .
 acquisition.klm.com CNAME .
-data.cofinoga.fr CNAME .
 data.decathlon.it CNAME .
 data.ricaud.com CNAME .
 tag.boulanger.fr CNAME .

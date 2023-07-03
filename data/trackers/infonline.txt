@@ -129,6 +129,7 @@
 ||data-13e75de547.labo.de^
 ||data-143ac31e30.brocken.de^
 ||data-143ac31e30.radio-brocken.com^
+||data-143ac31e30.radio-brocken.de^
 ||data-143ac31e30.radiobrocken.com^
 ||data-143ac31e30.radiobrocken.de^
 ||data-151922e62d.euskirchen.de^
@@ -201,6 +202,7 @@
 ||data-1b32532ce1.vogtland.de^
 ||data-1b488c21c4.apps.iocnt.de^
 ||data-1b8b21e54b.speedweek.com^
+||data-1b9c592a39.einfachkochen.de^
 ||data-1ba1afb625.leinfelden-echterdingen.de^
 ||data-1ba85b9e08.apps.iocnt.de^
 ||data-1bc9d87af9.ahgz.de^
@@ -283,7 +285,6 @@
 ||data-24d3602ae0.freenet.de^
 ||data-24d7667a6a.apps.iocnt.de^
 ||data-24fe804269.datacenter-insider.de^
-||data-2527e6d775.sportdeutschland.tv^
 ||data-2572d220f8.motorsport-total.com^
 ||data-26457755f1.apps.iocnt.de^
 ||data-26e104754d.hgtv.com^
@@ -297,6 +298,7 @@
 ||data-27819cfe72.bigdata-insider.de^
 ||data-27d15a0c8b.apps.iocnt.de^
 ||data-27f08504c8.capital.de^
+||data-281bdc39ec.bsbrandschutz.de^
 ||data-285d0c5451.spektrum.de^
 ||data-28d1f65bc5.bnn.de^
 ||data-28e246ff03.esquire.de^
@@ -349,6 +351,7 @@
 ||data-3277c56f96.ingenieur.de^
 ||data-3277c56f96.ingenieurstage.de^
 ||data-331311c70c.suedkurier.de^
+||data-337242f510.itk-rheinland.de^
 ||data-339e8471f1.bau-welt.de^
 ||data-341c3a0fe0.apps.iocnt.de^
 ||data-3452ec2236.caravaning.de^
@@ -490,6 +493,7 @@
 ||data-47ee1b0882.cinexx.de^
 ||data-47ee1b0882.club-kino.de^
 ||data-47ee1b0882.dn.das-lumen.de^
+||data-47ee1b0882.do-li.de^
 ||data-47ee1b0882.einbecker-kinos.de^
 ||data-47ee1b0882.film-palast-schwanewede.de^
 ||data-47ee1b0882.filmcenter-dillingen.de^
@@ -503,6 +507,7 @@
 ||data-47ee1b0882.haveltorkino.de^
 ||data-47ee1b0882.hollywoodaminn.de^
 ||data-47ee1b0882.holzlandkino.de^
+||data-47ee1b0882.insel-kinos.de^
 ||data-47ee1b0882.kamp-lintfort.hall-of-fame.website^
 ||data-47ee1b0882.kino-bad-fuessing.de^
 ||data-47ee1b0882.kino-bad-salzuflen.de^
@@ -516,10 +521,12 @@
 ||data-47ee1b0882.kino-movieworld.de^
 ||data-47ee1b0882.kino-oehringen.de^
 ||data-47ee1b0882.kino-oelde.de^
+||data-47ee1b0882.kino-offingen.de^
 ||data-47ee1b0882.kino-ottobrunn.de^
 ||data-47ee1b0882.kino-treuchtlingen.de^
 ||data-47ee1b0882.kino-ueberlingen.de^
 ||data-47ee1b0882.kino-wemding.de^
+||data-47ee1b0882.kino-wolfhagen.de^
 ||data-47ee1b0882.kino-worms.de^
 ||data-47ee1b0882.kinobleicherode.de^
 ||data-47ee1b0882.kinocenter-cuxhaven.de^
@@ -535,8 +542,10 @@
 ||data-47ee1b0882.movie-kino.de^
 ||data-47ee1b0882.movieplexx.de^
 ||data-47ee1b0882.movietown-eichsfeld.de^
+||data-47ee1b0882.movietown-openair.de^
 ||data-47ee1b0882.movietown.eu^
 ||data-47ee1b0882.neue-filmbuehne.de^
+||data-47ee1b0882.neuesregina.de^
 ||data-47ee1b0882.neuesrex.de^
 ||data-47ee1b0882.nickel-odeon.de^
 ||data-47ee1b0882.openairkino-langen.de^
@@ -545,8 +554,10 @@
 ||data-47ee1b0882.roxy-kino.de^
 ||data-47ee1b0882.saarfilm.net^
 ||data-47ee1b0882.schanzenkino.de^
+||data-47ee1b0882.schanzenkino73.de^
 ||data-47ee1b0882.sg.das-lumen.de^
 ||data-47ee1b0882.spreekino.de^
+||data-47ee1b0882.stadtsaal-kinos.de^
 ||data-47ee1b0882.uc-kino-ruegen.de^
 ||data-47ee1b0882.union-filmtheater.de^
 ||data-47ee1b0882.wendland-kino.de^
@@ -873,6 +884,7 @@
 ||data-75671117cf.radiowaf.de^
 ||data-75adc1b92b.fleischerei.de^
 ||data-7609d780e9.apps.iocnt.de^
+||data-767a8be759.berliner-kurier.de^
 ||data-770ef2669c.egovernment-computing.de^
 ||data-7723a9baa7.internetworld.at^
 ||data-7723a9baa7.internetworld.de^
@@ -925,6 +937,7 @@
 ||data-8173e3f7ee.vodafone.de^
 ||data-81d20bd810.futurezone.de^
 ||data-8251905874.handwerk-magazin.de^
+||data-83380557db.erwin-event.de^
 ||data-83380557db.fupa.net^
 ||data-83380557db.nw.de^
 ||data-833e9f9a71.dzonline.de^
@@ -981,6 +994,7 @@
 ||data-86d2aee9fa.sueddeutsche.de^
 ||data-87563bd275.apps.iocnt.de^
 ||data-8793ca6c7d.rpr1.de^
+||data-8793ca6c7d.vereinsleben.de^
 ||data-87c7424086.apps.iocnt.de^
 ||data-887ad996d8.berliner-woche.de^
 ||data-887ad996d8.morgenpost.de^
@@ -1064,8 +1078,10 @@
 ||data-948e8266cd.zuhausewohnen.de^
 ||data-94a50e073d.leistungslust.de^
 ||data-94d154970c.boersenblatt.net^
+||data-94ef178492.comunio.de^
 ||data-951da6b717.detail.de^
 ||data-9599593609.laborjournal.de^
+||data-95fff71409.boersennews.de^
 ||data-960dda2233.jam.fm^
 ||data-960dda2233.jamfm.de^
 ||data-962cccd9c4.erneuerbareenergien.de^
@@ -1099,6 +1115,7 @@
 ||data-9a326ab638.connect.de^
 ||data-9aa5e80b66.superillu.de^
 ||data-9ab8a13cda.it-business.de^
+||data-9abcf11034.einfachkochen.de^
 ||data-9b2f644d2c.einfachbacken.de^
 ||data-9b31fae636.grazia-magazin.de^
 ||data-9b3233a086.bunte.de^
@@ -1198,6 +1215,7 @@
 ||data-a59ff4db12.bildderfrau.de^
 ||data-a69d61e039.bausicherheit-online.de^
 ||data-a6a76566fd.apps.iocnt.de^
+||data-a6faa6efe2.insuedthueringen.de^
 ||data-a76072cba2.sbz-monteur.de^
 ||data-a77fb9b63f.osthessen-news.de^
 ||data-a784464fa2.femeda.de^
@@ -1312,6 +1330,7 @@
 ||data-b7d0b4217b.autoscout24.ro^
 ||data-b7d0b4217b.autoscout24.se^
 ||data-b7d20b3e3b.apps.iocnt.de^
+||data-b80f3dd5d8.rhein-neckar-zeitung.net^
 ||data-b80f3dd5d8.rheinneckarzeitung.de^
 ||data-b80f3dd5d8.rnz.de^
 ||data-b80f3dd5d8.rnz.info^
@@ -1340,6 +1359,7 @@
 ||data-bae5a0a55a.apps.iocnt.de^
 ||data-bb21a2f11b.bild.de^
 ||data-bb4ada6163.travelbook.de^
+||data-bc153aec3e.nmdn.net^
 ||data-bc153aec3e.radioguetersloh.de^
 ||data-bc16fafbba.stadtbibliothek-reutlingen.de^
 ||data-bc52ee58ca.meinprospekt.de^
@@ -1470,6 +1490,7 @@
 ||data-ce326d00f8.aerokurier.de^
 ||data-ce326d00f8.flugrevue.de^
 ||data-ce54b2d2bd.apps.iocnt.de^
+||data-ce5e7d3f53.apps.iocnt.de^
 ||data-ce904c6d42.metallbau-magazin.de^
 ||data-ce964ae059.guter-rat.de^
 ||data-ce964ae059.guterrat.de^
@@ -1522,6 +1543,7 @@
 ||data-d858e7585b.lokal26.de^
 ||data-d88bd5abf8.die-glocke.de^
 ||data-d88ef4a44c.haller-kreisblatt.de^
+||data-d88ef4a44c.hk-mobil.de^
 ||data-d8a16b307b.idowa.de^
 ||data-d9000a5626.apps.iocnt.de^
 ||data-d946a9c4a1.otz.de^
@@ -1550,12 +1572,15 @@
 ||data-dd659348c3.pnp.de^
 ||data-ddcae4625b.apps.iocnt.de^
 ||data-ddecebdea5.storage-insider.de^
+||data-de5824e84b.lichtnet.de^
 ||data-de83895c33.apps.iocnt.de^
 ||data-dea12ffb25.prisma.de^
+||data-deb04a4388.owl-am-sonntag.de^
 ||data-deb04a4388.wb-immo.de^
 ||data-deb04a4388.wb-jobs.de^
 ||data-deb04a4388.wb-trauer.de^
 ||data-deb04a4388.westfalen-blatt.de^
+||data-deb04a4388.westfalen-blatt2.de^
 ||data-ded8e2c5ce.tga-fachplaner.de^
 ||data-df5a2bcc30.aerzteblatt.de^
 ||data-df89bd769a.rund-ums-baby.de^
@@ -1651,6 +1676,7 @@
 ||data-ee807be806.radioemscherlippe.de^
 ||data-ee807be806.radioessen.de^
 ||data-ee807be806.radiokw.de^
+||data-ee807be806.radiomuelheim.de^
 ||data-ee807be806.radiooberhausen.de^
 ||data-ee807be806.radiosauerland.de^
 ||data-ee807be806.reviersport.de^

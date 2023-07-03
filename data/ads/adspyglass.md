@@ -29,6 +29,7 @@
 | 1d88r44d9t.nelasleaks.site | 0i0i0i0.com |
 | 2222.spinna.online | 0i0i0i0.com |
 | 23.sweetmanga.fun | 0i0i0i0.com |
+| 259luxu.xyz | 0i0i0i0.com |
 | 2aaa.spinna.xyz | 0i0i0i0.com |
 | 2aab.spinna.xyz | 0i0i0i0.com |
 | 2aac.spinna.xyz | 0i0i0i0.com |
@@ -41,6 +42,10 @@
 | 5475feaab.clicknplay.to | 0i0i0i0.com |
 | 5555.spinna.online | 0i0i0i0.com |
 | 58745.clicknplay.to | 0i0i0i0.com |
+| 5f25a.dappaa.site | 0i0i0i0.com |
+| 5f25b.dappaa.site | 0i0i0i0.com |
+| 5f25c.dappaa.site | 0i0i0i0.com |
+| 5f25d.dappaa.site | 0i0i0i0.com |
 | 6969.javher.com | 0i0i0i0.com |
 | 69741211.clicknplay.to | 0i0i0i0.com |
 | 6cf0e7801e8cd.clicknplay.to | 0i0i0i0.com |
@@ -48,9 +53,7 @@
 | 7bd3d001ff6.clicknplay.to | 0i0i0i0.com |
 | 7taobao.mom | 0i0i0i0.com |
 | 893242.milfunsource.com | 0i0i0i0.com |
-| 8lang.lol | 0i0i0i0.com |
 | 8sptzne.mom | 0i0i0i0.com |
-| 98tang.lol | 0i0i0i0.com |
 | a.123porner.com | 0i0i0i0.com |
 | a.123porner.net | 0i0i0i0.com |
 | a.1film.to | 0i0i0i0.com |
@@ -98,6 +101,7 @@
 | a.porn369.net | 0i0i0i0.com |
 | a.pornhex.com | 0i0i0i0.com |
 | a.pumpity.net | 0i0i0i0.com |
+| a.rafian.com | 0i0i0i0.com |
 | a.redhairporn.com | 0i0i0i0.com |
 | a.reryn2ce.com | 0i0i0i0.com |
 | a.smut.cc | 0i0i0i0.com |
@@ -110,7 +114,6 @@
 | a.viralnewsbd.xyz | 0i0i0i0.com |
 | a.warddogs.com | 0i0i0i0.com |
 | a.xmanga.online | 0i0i0i0.com |
-| a.xxxrotator.com | 0i0i0i0.com |
 | a.zillastream.com | 0i0i0i0.com |
 | a5g.oves.biz | 0i0i0i0.com |
 | a9o.youlikeboys.com | 0i0i0i0.com |
@@ -146,7 +149,6 @@
 | ads.tabuflix.com | 0i0i0i0.com |
 | ads.wetpussy.sexy | 0i0i0i0.com |
 | adspy.javrank.com | 0i0i0i0.com |
-| adsrv.kamehameha.click | 0i0i0i0.com |
 | adxhand.icu | 0i0i0i0.com |
 | adzilla.icu | 0i0i0i0.com |
 | ags.hobby.porn | 0i0i0i0.com |
@@ -164,6 +166,7 @@
 | api.adultsclips.com | 0i0i0i0.com |
 | apiemb.xyz | 0i0i0i0.com |
 | app.phimvu.app | 0i0i0i0.com |
+| app.zrotary.com | 0i0i0i0.com |
 | apple.analnoe24.com | 0i0i0i0.com |
 | apple.arabtoons.net | 0i0i0i0.com |
 | aps.celebfap.cyou | 0i0i0i0.com |
@@ -239,6 +242,7 @@
 | bltkm.spinna.store | 0i0i0i0.com |
 | bolz.lol | 0i0i0i0.com |
 | bomboms.lol | 0i0i0i0.com |
+| boob.sukaporn.com | 0i0i0i0.com |
 | btaoc.lol | 0i0i0i0.com |
 | btaoc.xyz | 0i0i0i0.com |
 | btctrade.lol | 0i0i0i0.com |
@@ -262,8 +266,6 @@
 | cdn.manga9.co | 0i0i0i0.com |
 | cdn.sdtraff.com | 0i0i0i0.com |
 | cdn1.delii2.art | 0i0i0i0.com |
-| cdn1.pop72i.art | 0i0i0i0.com |
-| cdn1.prroll2o.art | 0i0i0i0.com |
 | cdn3.cartoonporn.to | 0i0i0i0.com |
 | cdn3.hentaihand.com | 0i0i0i0.com |
 | cdn3.hentaihaven.fun | 0i0i0i0.com |
@@ -274,7 +276,6 @@
 | chvylonz.lol | 0i0i0i0.com |
 | click.fastupload.io | 0i0i0i0.com |
 | client2009x25.xcdn.ovh | 0i0i0i0.com |
-| cobuaz.lol | 0i0i0i0.com |
 | coco.rockdilla.com | 0i0i0i0.com |
 | coinbaze.lol | 0i0i0i0.com |
 | coinzba.mom | 0i0i0i0.com |
@@ -287,6 +288,7 @@
 | cuckoiz.lol | 0i0i0i0.com |
 | custom1.shorterall.com | 0i0i0i0.com |
 | cx6.lastxxxmovies.com | 0i0i0i0.com |
+| d.adultporn.tv | 0i0i0i0.com |
 | d.bloblohub.com | 0i0i0i0.com |
 | data.bangtubevideos.com | 0i0i0i0.com |
 | data.streamtape.com | 0i0i0i0.com |
@@ -302,6 +304,7 @@
 | dsg.reifporn.de | 0i0i0i0.com |
 | dx7.sosporntube.com | 0i0i0i0.com |
 | e.bloblohub.com | 0i0i0i0.com |
+| e.fetishdomina.net | 0i0i0i0.com |
 | ebays.beauty | 0i0i0i0.com |
 | ebd.cda-hd.cc | 0i0i0i0.com |
 | ebd.cda-hd.co | 0i0i0i0.com |
@@ -314,6 +317,7 @@
 | ex8.lostporntube.com | 0i0i0i0.com |
 | f.bloblohub.com | 0i0i0i0.com |
 | f92or5.spinna.shop | 0i0i0i0.com |
+| fansang.xyz | 0i0i0i0.com |
 | fddddddd.javmilk.org | 0i0i0i0.com |
 | fgy3tg.jav-7mmtv.top | 0i0i0i0.com |
 | file.marshlecdn.com | 0i0i0i0.com |
@@ -365,6 +369,7 @@
 | hutanz.xyz | 0i0i0i0.com |
 | hx1.tubepornbase.com | 0i0i0i0.com |
 | i.anime22.net | 0i0i0i0.com |
+| i.bloblohub.com | 0i0i0i0.com |
 | i.hqvrporn.net | 0i0i0i0.com |
 | i.theglobepost.us | 0i0i0i0.com |
 | iduq.com | 0i0i0i0.com |
@@ -449,7 +454,6 @@
 | mficlyxgvfsp.cdnvideo3.com | 0i0i0i0.com |
 | mide.7mmtv.top | 0i0i0i0.com |
 | missgrand.beauty | 0i0i0i0.com |
-| missunow.lol | 0i0i0i0.com |
 | morezone.lol | 0i0i0i0.com |
 | mrcoviu.pics | 0i0i0i0.com |
 | mugalop.beauty | 0i0i0i0.com |
@@ -457,6 +461,7 @@
 | my.shymilftube.com | 0i0i0i0.com |
 | myads.babakcp0002.cf | 0i0i0i0.com |
 | mydomainbest.com | 0i0i0i0.com |
+| n.hnntube.com | 0i0i0i0.com |
 | n.reallifehentai.net | 0i0i0i0.com |
 | naiyoz.lol | 0i0i0i0.com |
 | nanbody.spinna.shop | 0i0i0i0.com |
@@ -473,6 +478,7 @@
 | nope.xn--ngbcrg3b.com | 0i0i0i0.com |
 | nope.xn--ygba1c.wtf | 0i0i0i0.com |
 | nx7.hdxxxclips.com | 0i0i0i0.com |
+| o.hotsextube.tv | 0i0i0i0.com |
 | o313o.com | 0i0i0i0.com |
 | o414o.icu | 0i0i0i0.com |
 | obyeok.hair | 0i0i0i0.com |
@@ -541,6 +547,8 @@
 | qoutec.shop | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
 | qx0.xnxxtubevideos.com | 0i0i0i0.com |
+| r.erohabu.com | 0i0i0i0.com |
+| r.freeadultporn.tv | 0i0i0i0.com |
 | ramosz.lol | 0i0i0i0.com |
 | rdx.javmotion.com | 0i0i0i0.com |
 | redi.teengirl-pics.com | 0i0i0i0.com |
@@ -570,6 +578,10 @@
 | sdg.fwtrck.com | 0i0i0i0.com |
 | serve.bdsmstreak.com | 0i0i0i0.com |
 | sex.moviesporn.eu | 0i0i0i0.com |
+| sfw1a.dappab.site | 0i0i0i0.com |
+| sfw1b.dappab.site | 0i0i0i0.com |
+| sfw1c.dappab.site | 0i0i0i0.com |
+| sfw1d.dappab.site | 0i0i0i0.com |
 | sg.xclick24.com | 0i0i0i0.com |
 | sgzhg.pornlovo.co | 0i0i0i0.com |
 | sharkbiz.lol | 0i0i0i0.com |
@@ -593,6 +605,7 @@
 | stkk.spinna.shop | 0i0i0i0.com |
 | stuff.wikiporno.org | 0i0i0i0.com |
 | sub.empressleak.biz | 0i0i0i0.com |
+| sub.empresstrending.com | 0i0i0i0.com |
 | subtitle.mom | 0i0i0i0.com |
 | sup.srvtax.com | 0i0i0i0.com |
 | super.koreanpornmovie.xyz | 0i0i0i0.com |
@@ -615,9 +628,9 @@
 | titsandtits.com | 0i0i0i0.com |
 | tlgt10.makeup | 0i0i0i0.com |
 | tlv.ui02.com | 0i0i0i0.com |
+| toabuck.xyz | 0i0i0i0.com |
 | toaioi.lol | 0i0i0i0.com |
 | toaioi.xyz | 0i0i0i0.com |
-| tomboy.lol | 0i0i0i0.com |
 | topvidstore.com | 0i0i0i0.com |
 | toyota.lol | 0i0i0i0.com |
 | tpl.fuckxness.com | 0i0i0i0.com |
@@ -673,6 +686,8 @@
 | www8.upload-pics.com | 0i0i0i0.com |
 | www9.downloadani.me | 0i0i0i0.com |
 | x.adactioner.com | 0i0i0i0.com |
+| x.xxxbf.tv | 0i0i0i0.com |
+| x.xxxbp.tv | 0i0i0i0.com |
 | x1cdn.fin.ovh | 0i0i0i0.com |
 | x2c1v4.hentaigold.net | 0i0i0i0.com |
 | x2sfa.javgg.eu | 0i0i0i0.com |
@@ -694,5 +709,5 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| h-ay.com | u53.hypnorat.com |
+| ontj.com | u53.hypnorat.com |
 | qoqv.com | u53.hypnorat.com |

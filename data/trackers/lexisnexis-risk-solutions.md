@@ -44,6 +44,7 @@
     * h-5wdrto0i.online-metrix.net
     * h-6a6y6kka.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
+    * h-6i24djkv.online-metrix.net
     * h-6jfhwoo3.online-metrix.net
     * h-6mlhprq2.online-metrix.net
     * h-6rj18la4.online-metrix.net
@@ -246,6 +247,7 @@
     * h-couttscrowndependencies.online-metrix.net
     * h-cox.online-metrix.net
     * h-cpuoahbo.online-metrix.net
+    * h-cqjaju73.online-metrix.net
     * h-credilikeme.online-metrix.net
     * h-credit-reporting-agency.online-metrix.net
     * h-credit24.online-metrix.net
@@ -364,6 +366,7 @@
     * h-ipayment.online-metrix.net
     * h-ipp-services.online-metrix.net
     * h-jcb.online-metrix.net
+    * h-jenius.online-metrix.net
     * h-johnlewisfinance.online-metrix.net
     * h-joyobank.online-metrix.net
     * h-jpay.online-metrix.net
@@ -502,7 +505,6 @@
     * h-prosper.online-metrix.net
     * h-pscu.online-metrix.net
     * h-psecu.online-metrix.net
-    * h-purepoint.online-metrix.net
     * h-qasantanderbank.online-metrix.net
     * h-qlinkwireless.online-metrix.net
     * h-qn4omaj3.online-metrix.net
@@ -580,6 +582,7 @@
     * h-tsb.online-metrix.net
     * h-twctexas.online-metrix.net
     * h-twino.online-metrix.net
+    * h-udd8uxur-leb.online-metrix.net
     * h-udd8uxur.online-metrix.net
     * h-uplift.online-metrix.net
     * h-ups.online-metrix.net
@@ -724,6 +727,7 @@
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
+| cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
@@ -984,6 +988,7 @@
 | pn1927.couttscrowndependencies.com | h-couttscrowndependencies.online-metrix.net |
 | tm.cox.com | h-cox.online-metrix.net |
 | rhino.gocardless.com | h-cpuoahbo.online-metrix.net |
+| dfp.mcdonalds.fr | h-cqjaju73.online-metrix.net |
 | appscore.credilike.me | h-credilikeme.online-metrix.net |
 | log.checkmyfile.com | h-credit-reporting-agency.online-metrix.net |
 | log.creditreport.co.uk | h-credit-reporting-agency.online-metrix.net |
@@ -1168,6 +1173,7 @@
 | res.pay.ionos.com | h-ipayment.online-metrix.net |
 | tags.ipp-services.eu | h-ipp-services.online-metrix.net |
 | acsrt.cardnet-tds.com | h-jcb.online-metrix.net |
+| device-profile.jeniusbank.com | h-jenius.online-metrix.net |
 | cdntm.johnlewisfinance.com | h-johnlewisfinance.online-metrix.net |
 | fp.joyobank.chance.co.jp | h-joyobank.online-metrix.net |
 | cdna.jpay.com | h-jpay.online-metrix.net |
@@ -1347,7 +1353,6 @@
 | t.secure.ascend.org | h-pscu.online-metrix.net |
 | t.secure.selco.org | h-pscu.online-metrix.net |
 | tracking.psecu.com | h-psecu.online-metrix.net |
-| vir.purepoint.com | h-purepoint.online-metrix.net |
 | digitalid-qa.santanderbank.com | h-qasantanderbank.online-metrix.net |
 | content.hellomobile.com | h-qlinkwireless.online-metrix.net |
 | content.qlinkwireless.com | h-qlinkwireless.online-metrix.net |
@@ -1464,6 +1469,7 @@
 | content.moneza.lv | h-twino.online-metrix.net |
 | content.moneza.ru | h-twino.online-metrix.net |
 | content.netcredit.pl | h-twino.online-metrix.net |
+| fsta.leboncoin.info | h-udd8uxur-leb.online-metrix.net |
 | umst.mobile.de | h-udd8uxur.online-metrix.net |
 | t42rsn90.uplift.com | h-uplift.online-metrix.net |
 | fp.ups.com | h-ups.online-metrix.net |

@@ -97,6 +97,7 @@ ea.bcassurance.fr CNAME .
 ea.camping-and-co.com CNAME .
 ea.carrefour.com CNAME .
 ea.carrefour.fr CNAME .
+ea.castorama.fr CNAME .
 ea.catimini-boutique.com CNAME .
 ea.catimini.com CNAME .
 ea.ciblo.net CNAME .
@@ -132,7 +133,6 @@ ea.lepelican.fr CNAME .
 ea.leskidunordausud.fr CNAME .
 ea.lespagnedunordausud.fr CNAME .
 ea.megustaleer.com.pe CNAME .
-ea.melijoe.com CNAME .
 ea.millet-mountain.ch CNAME .
 ea.millet-mountain.com CNAME .
 ea.millet-mountain.de CNAME .
@@ -184,7 +184,6 @@ ef.futuroscope.mobi CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 et.swatch.com CNAME .
@@ -416,7 +415,6 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
-t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .
@@ -495,9 +493,11 @@ zyq2.destinia.sk CNAME .
 b1n.carabins.umontreal.ca CNAME .
 d0f.le-dauphin.com CNAME .
 d2u.dauphinquebec.com CNAME .
+erb.tremblant.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 nym5c.bonlook.com CNAME .
 su1.les-suites.ca CNAME .
+t0y.toyota.ca CNAME .
 www.mis.tourisme-montreal.org CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .

@@ -45,6 +45,7 @@ cbcdn.bankofscotland.co.uk CNAME .
 cbcdn.lloydsbank.com CNAME .
 ccf.prod.fedex.com CNAME .
 cda.thecardservicescenter.com CNAME .
+cdle-prof.clouduim.cdle.state.co.us CNAME .
 cdn-east.purchase.goto.com CNAME .
 cdn-ln.ozk.com CNAME .
 cdn-s.chumbacasino.com CNAME .
@@ -337,6 +338,7 @@ debs.my100bank.com CNAME .
 dep.gambit3.gameassists.co.uk CNAME .
 dev-check3.dev.everbank.com CNAME .
 dev-rmscheck.sbifxt.co.jp CNAME .
+device-profile.jeniusbank.com CNAME .
 device.invoice2go.com CNAME .
 device.messa.org CNAME .
 deviceauth.dmv.ca.gov CNAME .
@@ -345,6 +347,7 @@ df.fragrancex.com CNAME .
 df.greenmangaming.com CNAME .
 df.thumbtack.com CNAME .
 dfp.garmin.com CNAME .
+dfp.mcdonalds.fr CNAME .
 dfp.s-budget-mobile.at CNAME .
 dfp.t-mobile.at CNAME .
 dfp.telering.at CNAME .
@@ -387,6 +390,7 @@ fpcn.bpsgameserver.com CNAME .
 fpt.norton.com CNAME .
 fr.shopdisney.disney.co.jp CNAME .
 fraudcheck.walmart.ca CNAME .
+fsta.leboncoin.info CNAME .
 ftd.quodxx.com.br CNAME .
 gateway.jmbullion.com CNAME .
 ghisa.subito.it CNAME .
@@ -881,7 +885,6 @@ venus.chegg.com CNAME .
 verification.ndtco.com CNAME .
 verify.metlife.com CNAME .
 verify.philippineairlines.com CNAME .
-vir.purepoint.com CNAME .
 vlscppe.microsoft.com CNAME .
 voto.credit24.com CNAME .
 voto.creditea.com CNAME .

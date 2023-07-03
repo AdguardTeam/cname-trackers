@@ -57,6 +57,7 @@
 | tr.animations.alticemedia.com | tracking.bp01.net |
 | tr.animations.bfmtv.com | tracking.bp01.net |
 | tr.apou032.espmp-agfr.net | tracking.bp01.net |
+| tr.asp0010.espmp-nifr.net | tracking.bp01.net |
 | tr.asp0018.espmp-aufr.net | tracking.bp01.net |
 | tr.asp002q.espmp-aufr.net | tracking.bp01.net |
 | tr.asp002x.espmp-cufr.net | tracking.bp01.net |
@@ -67,6 +68,7 @@
 | tr.asp00a3.espmp-agfr.net | tracking.bp01.net |
 | tr.asp00a6.espmp-nifr.net | tracking.bp01.net |
 | tr.asp00ah.espmp-nifr.net | tracking.bp01.net |
+| tr.asp00am.espmp-cufr.net | tracking.bp01.net |
 | tr.asp1.espmp-agfr.net | tracking.bp01.net |
 | tr.asp103z.espmp-nifr.net | tracking.bp01.net |
 | tr.asp104p.espmp-aufr.net | tracking.bp01.net |
@@ -80,6 +82,7 @@
 | tr.asp10cg.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ch.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10cr.espmp-nifr.net | tracking.bp01.net |
+| tr.asp10dq.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10dx.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ea.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10fa.espmp-cufr.net | tracking.bp01.net |
@@ -96,6 +99,7 @@
 | tr.asp2035.espmp-nifr.net | tracking.bp01.net |
 | tr.asp203m.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2045.espmp-nifr.net | tracking.bp01.net |
+| tr.asp204q.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2063.espmp-nifr.net | tracking.bp01.net |
 | tr.asp206k.espmp-agfr.net | tracking.bp01.net |
 | tr.asp2075.espmp-nifr.net | tracking.bp01.net |
@@ -120,7 +124,6 @@
 | tr.bodet.devisdirect.com | tracking.bp01.net |
 | tr.boletim.companeo.pt | tracking.bp01.net |
 | tr.boletim.meu-orcamento.pt | tracking.bp01.net |
-| tr.bonplan.mydesign.com | tracking.bp01.net |
 | tr.bouyguestelecom.espmp-aufr.net | tracking.bp01.net |
 | tr.brand.labelleadresse.com | tracking.bp01.net |
 | tr.btob-afaceri.ro | tracking.bp01.net |
@@ -128,6 +131,7 @@
 | tr.btob-deals.co.uk | tracking.bp01.net |
 | tr.btob.mhdfrance.fr | tracking.bp01.net |
 | tr.btobquotes.be | tracking.bp01.net |
+| tr.btobquotes.cl | tracking.bp01.net |
 | tr.btobquotes.com | tracking.bp01.net |
 | tr.btobquotes.mx | tracking.bp01.net |
 | tr.buenasofertas.pro | tracking.bp01.net |
@@ -282,12 +286,16 @@
 | tr.em.cdiscount-pro.com | tracking.bp01.net |
 | tr.em.cdiscountpro.com | tracking.bp01.net |
 | tr.email.aeroexpo.online | tracking.bp01.net |
+| tr.email.agriexpo.online | tracking.bp01.net |
+| tr.email.akerys.com | tracking.bp01.net |
 | tr.email.aktuariat.fr | tracking.bp01.net |
 | tr.email.archiexpo.com | tracking.bp01.net |
+| tr.email.bon-placement-immobilier.fr | tracking.bp01.net |
 | tr.email.contact-jaguar.fr | tracking.bp01.net |
 | tr.email.contact-landrover.fr | tracking.bp01.net |
 | tr.email.custom-campaign.com | tracking.bp01.net |
 | tr.email.d17.tv | tracking.bp01.net |
+| tr.email.d8.tv | tracking.bp01.net |
 | tr.email.directindustry.com | tracking.bp01.net |
 | tr.email.distributor-expo.com | tracking.bp01.net |
 | tr.email.esprit-de-france.com | tracking.bp01.net |
@@ -295,6 +303,7 @@
 | tr.email.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.email.infocredit.orangebank.fr | tracking.bp01.net |
 | tr.email.investissement-residence-service.fr | tracking.bp01.net |
+| tr.email.jaguar-approved.fr | tracking.bp01.net |
 | tr.email.janedeboy.com | tracking.bp01.net |
 | tr.email.land-rover-experience.fr | tracking.bp01.net |
 | tr.email.landrover-approved.fr | tracking.bp01.net |
@@ -302,15 +311,18 @@
 | tr.email.medicalexpo.com | tracking.bp01.net |
 | tr.email.mnpaf.fr | tracking.bp01.net |
 | tr.email.nauticexpo.com | tracking.bp01.net |
+| tr.email.partenaire-pour-investir.fr | tracking.bp01.net |
 | tr.email.pointfranchise.co.uk | tracking.bp01.net |
 | tr.email.rs-fr.com | tracking.bp01.net |
 | tr.email.securite-routiere.gouv.fr | tracking.bp01.net |
 | tr.email.solocal.com | tracking.bp01.net |
 | tr.email.thelem-assurances.fr | tracking.bp01.net |
 | tr.email.toute-la-franchise.com | tracking.bp01.net |
+| tr.email.videofutur.fr | tracking.bp01.net |
 | tr.email.virtual-expo.com | tracking.bp01.net |
 | tr.email.voyagesleclerc.com | tracking.bp01.net |
 | tr.emailatia.fr | tracking.bp01.net |
+| tr.emailing-wishesfactory.com | tracking.bp01.net |
 | tr.emailing.agencereference.com | tracking.bp01.net |
 | tr.emailing.canalbox.com | tracking.bp01.net |
 | tr.emailing.canalplay.com | tracking.bp01.net |
@@ -331,6 +343,7 @@
 | tr.emailing.grassavoye.com | tracking.bp01.net |
 | tr.emailing.pogioclub.be | tracking.bp01.net |
 | tr.emailing.studiocanal.com | tracking.bp01.net |
+| tr.emailing.uda.fr | tracking.bp01.net |
 | tr.emailium.fr | tracking.bp01.net |
 | tr.enedis-infos.fr | tracking.bp01.net |
 | tr.enews.customsolutions.fr | tracking.bp01.net |
@@ -464,6 +477,7 @@
 | tr.informations.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.informations.lcl.fr | tracking.bp01.net |
 | tr.infos.afpa.fr | tracking.bp01.net |
+| tr.infos.allianz-trade.com | tracking.bp01.net |
 | tr.infos.fongecifcentre.com | tracking.bp01.net |
 | tr.infos.gazdebordeaux.fr | tracking.bp01.net |
 | tr.infos.lacarte.demenagez-moi.com | tracking.bp01.net |
@@ -491,6 +505,7 @@
 | tr.kpyn.espmp-cufr.net | tracking.bp01.net |
 | tr.kpyn02a.espmp-cufr.net | tracking.bp01.net |
 | tr.kpyn02f.espmp-cufr.net | tracking.bp01.net |
+| tr.kpyn059.espmp-pofr.net | tracking.bp01.net |
 | tr.krus.espmp-agfr.net | tracking.bp01.net |
 | tr.laprairie.ifop.com | tracking.bp01.net |
 | tr.lbar.espmp-agfr.net | tracking.bp01.net |
@@ -706,7 +721,6 @@
 | tr.news.mon-horoscope.info | tracking.bp01.net |
 | tr.news.monvoyant.fr | tracking.bp01.net |
 | tr.news.mperformance.fr | tracking.bp01.net |
-| tr.news.mydesign.com | tracking.bp01.net |
 | tr.news.normandie.cci.fr | tracking.bp01.net |
 | tr.news.ocs.fr | tracking.bp01.net |
 | tr.news.onetoonemba.com | tracking.bp01.net |
@@ -749,6 +763,7 @@
 | tr.news6.cdiscount.com | tracking.bp01.net |
 | tr.newsletter-habitat.com | tracking.bp01.net |
 | tr.newsletter-stressless.com | tracking.bp01.net |
+| tr.newsletter-wonderbox.com | tracking.bp01.net |
 | tr.newsletter.1664france.fr | tracking.bp01.net |
 | tr.newsletter.actalians.fr | tracking.bp01.net |
 | tr.newsletter.afpa.fr | tracking.bp01.net |
@@ -773,6 +788,7 @@
 | tr.newsletter.np6.com | tracking.bp01.net |
 | tr.newsletter.np6.fr | tracking.bp01.net |
 | tr.newsletter.opcoep.fr | tracking.bp01.net |
+| tr.newsletter.photoservice.com | tracking.bp01.net |
 | tr.newsletter.phyto.com | tracking.bp01.net |
 | tr.newsletter.plurielmedia.com | tracking.bp01.net |
 | tr.newsletter.tiragephoto.fr | tracking.bp01.net |
@@ -999,6 +1015,7 @@
 | tr1.mperf.com | tracking.bp01.net |
 | tr1.psa-surveys.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
+| tr5.mperf.com | tracking.bp01.net |
 | tr6.mperf.com | tracking.bp01.net |
 | tracking.allopneus.com | tracking.bp01.net |
 | www.newsletter.banquepopulaire.fr | tracking.bp01.net |

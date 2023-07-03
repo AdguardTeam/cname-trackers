@@ -262,6 +262,7 @@ ssl-bureaubiz.tns-gallup.dk CNAME .
 ssl-business.tns-gallup.dk CNAME .
 ssl-computerworld.tns-gallup.dk CNAME .
 ssl-costume.tns-gallup.dk CNAME .
+ssl-dagbladetringskjern.tns-gallup.dk CNAME .
 ssl-danskemedier.tns-gallup.dk CNAME .
 ssl-dba.tns-gallup.dk CNAME .
 ssl-dhblad.tns-gallup.dk CNAME .
@@ -288,6 +289,7 @@ ssl-fyens.tns-gallup.dk CNAME .
 ssl-gaffa.tns-gallup.dk CNAME .
 ssl-gafiam.tns-gallup.dk CNAME .
 ssl-swpanel.tns-gallup.dk CNAME .
+swpanel.tns-gallup.dk CNAME .
 ssl-goerdetselv.tns-gallup.dk CNAME .
 ssl-golf.tns-gallup.dk CNAME .
 ssl-guloggratis.tns-gallup.dk CNAME .

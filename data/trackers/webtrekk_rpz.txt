@@ -92,6 +92,7 @@ data.vdi-wissensforum.de CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
+di.fotos-fuers-leben.ch CNAME .
 di.ifolor.at CNAME .
 di.ifolor.be CNAME .
 di.ifolor.ch CNAME .
@@ -257,12 +258,14 @@ web.e.panmacmillan.com CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.pmtonline.co.uk CNAME .
 web.email.principality.co.uk CNAME .
+web.email.superga.co.uk CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
 web.email.zone3.com CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .
 web.friends.ellaskitchen.co.uk CNAME .
 web.ideaautorepair.com CNAME .
+web.info.bodybuildingwarehouse.co.uk CNAME .
 web.info.bonprix.es CNAME .
 web.info.teamwarrior.com CNAME .
 web.info.vantastic-foods.com CNAME .
@@ -302,6 +305,7 @@ web.sensilab.com CNAME .
 web.sensilab.cz CNAME .
 web.sensilab.de CNAME .
 web.sensilab.dk CNAME .
+web.sensilab.es CNAME .
 web.sensilab.ie CNAME .
 web.sensilab.it CNAME .
 web.sensilab.pt CNAME .
@@ -321,6 +325,7 @@ web.solesource.com CNAME .
 web.tamaris.com CNAME .
 web.tummy-tox.com CNAME .
 web.tummytox.de CNAME .
+web.tummytox.es CNAME .
 web.tummytox.fr CNAME .
 web.tummytox.it CNAME .
 web.tummytox.pt CNAME .

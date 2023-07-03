@@ -157,6 +157,7 @@
 ||boar.hopehollow.com^
 ||boar.indieweb.org^
 ||boar.kostholdsveilederen.no^
+||bobcat.nug.news^
 ||bobcat.pronounce.technology^
 ||bobcat.pushplay.nl^
 ||bobcat.snapshooter.io^
@@ -181,12 +182,14 @@
 ||canid.innovatingchildrensservices.org^
 ||canid.mestamaster.fi^
 ||canid.peterakkies.net^
+||canidae.collectingsocialphoto.org^
 ||capybara.bell0bytes.eu^
 ||capybara.civicsoftwarefoundation.org^
 ||cardinal.businessfirstonline.co.uk^
 ||cardinal.ensembleblock.com^
 ||cardinal.genx.be^
 ||cardinal.iwgb.org.uk^
+||cardinal.newman.is^
 ||cardinal.zenting.app^
 ||caribou.color.io^
 ||caribou.mcgregorpublishing.com^
@@ -277,6 +280,7 @@
 ||coyote.gnx.cloud^
 ||coyote.hopr.swiss^
 ||coyote.nickgurney.com^
+||coyote.titlerun.xyz^
 ||coyote.txet.ch^
 ||crab.dunkeldbutchers.co.uk^
 ||crab.goalcanvas.com^
@@ -327,7 +331,6 @@
 ||donkey.routinehub.co^
 ||dormouse.consentkit.com^
 ||dormouse.morningchorusrecords.com^
-||dove.fullcalendar.io^
 ||dove.hoku.nz^
 ||dragon.codemakes.art^
 ||dragon.codequeen.io^
@@ -388,6 +391,7 @@
 ||fish.canyouexplain.me^
 ||fish.hyperfine.io^
 ||fish.muted.io^
+||fish.trampoline.cx^
 ||fish.whitney.org^
 ||fjikgr.dennmart.com^
 ||flamingo.abihome.de^
@@ -411,7 +415,6 @@
 ||gayal.stockshouse.co^
 ||gazelle.laurenagray.com^
 ||gecko.anagodeck.com^
-||gecko.lpkr.net^
 ||gecko.rrrelax.app^
 ||gecko.withclarify.com^
 ||gerbil.buf.build^
@@ -554,6 +557,7 @@
 ||koi.project-tampah.com^
 ||koi.valleywestlandscapes.com^
 ||koi.vyer.com^
+||krill.far.site^
 ||krill.spoonrage.com^
 ||krill.swiss-uke.ch^
 ||ks42zt.spec.fm^
@@ -561,6 +565,7 @@
 ||ladybug.dfour.space^
 ||ladybug.ethanprintz.com^
 ||ladybug.paulstovell.com^
+||lamprey.carolcassar.com^
 ||landfowl.typegang.com^
 ||landsnail.bindle.io^
 ||landsnail.brownfield.dev^
@@ -584,6 +589,7 @@
 ||limpet.pioneerlandscapingllc.com^
 ||limpet.yago.dev^
 ||lion.lastfrontiermagazine.com^
+||lizard.priorart.dev^
 ||llama.eniston.io^
 ||llama.growthinkers.nl^
 ||llama.mallardbay.com^
@@ -704,6 +710,7 @@
 ||panda.moritz-petersen.de^
 ||panda.mvhphotoproject.org^
 ||panda.teraskolmio.fi^
+||panda.unpublished.app^
 ||panther.activelink.ie^
 ||panther.atgonlinecoaching.com^
 ||panther.codyhatfield.me^
@@ -717,6 +724,7 @@
 ||parrotfish.thenping.me^
 ||parrotfish.wilderworld.com^
 ||parrotfish.wus.immo^
+||partridge.flooint.com^
 ||peacock.psych.help^
 ||peafowl.projectstrackt.dev^
 ||penguin.mobiadroit.com^
@@ -730,6 +738,7 @@
 ||pig.curtisherbert.com^
 ||pig.nigano.com^
 ||pig.notion.chat^
+||pigeon.ashlean.com^
 ||pigeon.surtitlesolutions.com^
 ||pigeon.thankyuu.com^
 ||pinniped.gardenofficeguide.co.uk^
@@ -752,6 +761,7 @@
 ||porpoise.azettl.net^
 ||porpoise.fruittreecottage.com.au^
 ||porpoise.jackwhiting.co.uk^
+||porpoise.numberzs.com^
 ||prairiedog.hashnode.com^
 ||prawn.fffuel.co^
 ||prawn.lionsmouth.digital^
@@ -823,6 +833,7 @@
 ||sheep.littleboat.digital^
 ||sheep.pixair-survey.com^
 ||sheep.vaxstandby.com^
+||shrimp.joyfountainchurch.com^
 ||silkworm.boxmood.be^
 ||silkworm.energizergrouplegal.com^
 ||silkworm.preventingsuicideinsussex.org^
@@ -838,7 +849,6 @@
 ||slug.sirenergies.com^
 ||smelt.allenpike.com^
 ||smelt.gautrowski.com^
-||smelt.waltrack.net^
 ||snail.evergrace.co^
 ||snake.kiramclean.com^
 ||snipe.mfaber.at^
@@ -859,6 +869,7 @@
 ||squid.adart.cc^
 ||squid.antevo.com.au^
 ||squirrel.cividi.ch^
+||squirrel.cobaltconnect.com^
 ||squirrel.laravel-mix.com^
 ||squirrel.malaynahocker.com^
 ||starfish.centronoa.com^
@@ -897,6 +908,7 @@
 ||takin.bottlebeagle.com^
 ||takin.dripmacetas.com^
 ||takin.revolana.fr^
+||tapir.lindahlstudios.com^
 ||tarantula.emotionalbaking.com^
 ||tarantula.hashicorp.com^
 ||tarantula.tuxedo.media^
@@ -914,6 +926,7 @@
 ||tiglon.beyondco.de^
 ||tortoise.transistor.fm^
 ||toucan.ateliermilky.com^
+||toucan.the-faithful.com^
 ||treefrog.kaffeknappen.no^
 ||treefrog.socialmarketinggateway.co.uk^
 ||treefrog.tschmeisser.com^
@@ -952,11 +965,13 @@
 ||weasel.accomplice.ai^
 ||whippet.ianglover.com^
 ||whippet.madebywil.co^
+||whippet.miniforetak.no^
 ||whitefish.antonopoulos-stores.gr^
 ||whitefish.finanzritter.com^
 ||whitefish.kenku.fm^
 ||wildcat.fspy.io^
 ||wildcat.vivritiamc.com^
+||wildebeest.gmk.today^
 ||wildebeest.quarva.dev^
 ||wildebeest.soft-spoken.dev^
 ||wildebeest.theheritagelodge.com^
@@ -968,6 +983,7 @@
 ||woodpecker.ember.ly^
 ||woodpecker.seabits.com^
 ||worm.paulstamatiou.com^
+||wren.pratyushnalam.com^
 ||www.stork.notlessbutbetter.com^
 ||yak.auclantis.com^
 ||zebra.gareth.sh^
@@ -1006,6 +1022,7 @@
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^
 ||dntcl.qualaroo.com^
+||egybest.7all.net^
 ||live-tag.creatopy.net^
 ||log.ads-m.net^
 ||media.adstatic.com^

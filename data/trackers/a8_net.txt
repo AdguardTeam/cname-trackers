@@ -3,6 +3,7 @@
 ||1909a8.satofull.jp^
 ||a8-22.hana-yume.net^
 ||a8-affiliate.kase3535.com^
+||a8-atelier.yoani.co.jp^
 ||a8-cv.lean-body.jp^
 ||a8-hoiku.mama-9jin.com^
 ||a8-itp.qoo10.jp^
@@ -66,6 +67,7 @@
 ||a8.denwa-kanyuken.com^
 ||a8.diakaimasu.jp^
 ||a8.dolcibolle.com^
+||a8.drinco.jp^
 ||a8.dymtech.jp^
 ||a8.earthwater-cayenne.com^
 ||a8.efax.co.jp^
@@ -213,7 +215,6 @@
 ||a8.shitsukekun.com^
 ||a8.shizq.store^
 ||a8.shokubun.net^
-||a8.shop-jp.activ5.com^
 ||a8.shop.basefood.co.jp^
 ||a8.shop.km-link.jp^
 ||a8.shop.nicosuma.com^
@@ -386,6 +387,7 @@
 ||a8clk.geo-arekore.jp^
 ||a8clk.global-crown.com^
 ||a8clk.globalbase.jp^
+||a8clk.golf-kace.com^
 ||a8clk.grandg.com^
 ||a8clk.grirose.jp^
 ||a8clk.gurutas.jp^
@@ -399,6 +401,7 @@
 ||a8clk.hozon.sp-site.jp^
 ||a8clk.hurugicom.jp^
 ||a8clk.ias.il24.net^
+||a8clk.info2.sunbridge.com^
 ||a8clk.jaf.or.jp^
 ||a8clk.janiking.jp^
 ||a8clk.jobspring.jp^
@@ -423,6 +426,7 @@
 ||a8clk.kyoyu-mochibun.com^
 ||a8clk.lasana.co.jp^
 ||a8clk.lens-1.jp^
+||a8clk.libinc.jp^
 ||a8clk.life.bang.co.jp^
 ||a8clk.lolipop.jp^
 ||a8clk.loungemembers.com^
@@ -482,6 +486,7 @@
 ||a8clk.recycle-net.jp^
 ||a8clk.rental.geo-online.co.jp^
 ||a8clk.reserve.retty.me^
+||a8clk.resortbaito-dive.com^
 ||a8clk.rf28.com^
 ||a8clk.risou.com^
 ||a8clk.satei-meijin.com^
@@ -562,6 +567,7 @@
 ||a8clk.www.ka-nabell.com^
 ||a8clk.www.netage.ne.jp^
 ||a8clk.www.nortonstore.jp^
+||a8clk.www.rebo-success.co.jp^
 ||a8clk.www.roomdeco.shop^
 ||a8clk.www.solar-partners.jp^
 ||a8clk.www.solarmonitorlp.energy-itsol.com^
@@ -639,6 +645,7 @@
 ||a8cv.cast-er.com^
 ||a8cv.catal.jp^
 ||a8cv.celbest.urr.jp^
+||a8cv.cellbic.net^
 ||a8cv.chefbox.jp^
 ||a8cv.chuoms.com^
 ||a8cv.cinemage.shop^
@@ -714,6 +721,7 @@
 ||a8cv.gigabaito.com^
 ||a8cv.gimuiko.com^
 ||a8cv.global-link-seminar.com^
+||a8cv.glow-clinic.com^
 ||a8cv.goodlucknail.com^
 ||a8cv.grace-grace.info^
 ||a8cv.grassbeaute.jp^
@@ -776,6 +784,7 @@
 ||a8cv.kyotokimono-rental.com^
 ||a8cv.laclulu.com^
 ||a8cv.lalavie.jp^
+||a8cv.lancers.jp^
 ||a8cv.lear-caree.com^
 ||a8cv.leasonable.com^
 ||a8cv.leoandlea.com^
@@ -800,7 +809,6 @@
 ||a8cv.minnano-eikaiwa.com^
 ||a8cv.mitaina.tokyo^
 ||a8cv.mobabiji.jp^
-||a8cv.mobile-peace.com^
 ||a8cv.modern-deco.jp^
 ||a8cv.modescape.com^
 ||a8cv.mogans.jp^
@@ -859,6 +867,7 @@
 ||a8cv.reserve.victoria.tokyo.jp^
 ||a8cv.risu-japan.com^
 ||a8cv.rita-style.co.jp^
+||a8cv.rmkrmk.com^
 ||a8cv.rohto.co.jp^
 ||a8cv.s-darts.com^
 ||a8cv.safetycart.jp^
@@ -889,6 +898,7 @@
 ||a8cv.snkrdunk.com^
 ||a8cv.somresta.jp^
 ||a8cv.soundfun.co.jp^
+||a8cv.spalab-chintai.uk-corp.co.jp^
 ||a8cv.starpeg-music.com^
 ||a8cv.stg.moneybank.co.jp^
 ||a8cv.store.alpen-group.jp^
@@ -972,6 +982,7 @@
 ||a8lp-tebiki.e-sogi.com^
 ||a8lpclk.club-marriage.jp^
 ||a8n.radishbo-ya.co.jp^
+||a8net.augustberg.jp^
 ||a8net.beyond-gym.com^
 ||a8net.gset.co.jp^
 ||a8net.hassyadai.com^
@@ -984,7 +995,6 @@
 ||a8redirect.cart.ec-sites.jp^
 ||a8shop.nihon-trim.co.jp^
 ||a8sup.chapup.jp^
-||a8tag.hokenleague.co.jp^
 ||a8tag.suplinx.com^
 ||a8tatoo.ike-sunshine.co.jp^
 ||a8track.aidmybank.com^
@@ -1021,6 +1031,7 @@
 ||ad.shinjuku-mens-chuoh.com^
 ||ada8.ampleur.jp^
 ||ads.dandelionchocolate.jp^
+||af.gmobile.biz^
 ||af.shozankan-shop.com^
 ||afcv.champ-shop.com^
 ||affa8.hikkoshi-master.com^
@@ -1043,6 +1054,8 @@
 ||aspa8.ozmall.co.jp^
 ||car-a8.tabirai.net^
 ||clk.ingage.jp^
+||cosme.caseepo.jp^
+||cv-match.sharebase.jp^
 ||cv.2jikaikun.com^
 ||cv.atelier-shark.com^
 ||cv.bc-force.com^
@@ -1089,16 +1102,20 @@
 ||p005.raffi-hair.com^
 ||salto.freeto.jp^
 ||shop.anu-cosme.com^
+||sokutei.car2828.jp^
 ||st-a8.tscubic.com^
 ||storea8tracking.alc.co.jp^
 ||sub.booksdream-mypage.com^
 ||sub.ecd.bookoffonline.co.jp^
+||sub.turningpoint.work^
 ||summary.bookoffonline.co.jp^
+||testa8wifi.dokoyorimo.com^
 ||thanks.olivesitter.com^
 ||thanks.tsubaki-musicschool.com^
 ||track-v4.ipadpresence.com^
 ||track.craudia.com^
 ||tracking.196189.com^
+||trck-a8.j-depo.com^
 ||trck.aeon.co.jp^
 ||trck.frutafrutashop.com^
 ||trck.naco-do.com^
@@ -1113,6 +1130,7 @@
 ||web.hikari-biglobe.com^
 ||web.hikari-softbank.com^
 ||web.life-cw.com^
+||web.nuro-life.com^
 ||webtest.lpio.jp^
 ||wnform.www.trecenti.com^
 ||www.a8clk.kanagawa-zero.com^

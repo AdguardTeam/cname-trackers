@@ -321,6 +321,7 @@
 ||refer.seabourn.com^
 ||refer.sharetodoist.com^
 ||refer.sharkclean.com^
+||refer.signals.com^
 ||refer.skinceuticals.com^
 ||refer.skyone.org^
 ||refer.sleepnumber.com^
@@ -367,7 +368,7 @@
 ||refer.windsorstore.com^
 ||refer.wine.com^
 ||refer.wolverine.com^
-||refer.xpressmoneyonline.com^
+||refer.wrangler.com^
 ||refer.zazzlereferral.com^
 ||refer.zenhaven.com^
 ||refer.zipcar.ca^
@@ -547,6 +548,7 @@
 ||share.s4.levi-site.com^
 ||share.saintjanebeauty.com^
 ||share.securityplusfcu.org^
+||share.shoplc.com^
 ||share.shoptruespirit.com^
 ||share.shutterstock.com^
 ||share.simonandschuster.com^
@@ -584,6 +586,7 @@
 ||share.veo.co^
 ||share.veritycu.com^
 ||share.vichyusa.com^
+||share.vonage.co.uk^
 ||share.vonage.com^
 ||share.wagwalking.com^
 ||share.walmartmoneycard.com^
