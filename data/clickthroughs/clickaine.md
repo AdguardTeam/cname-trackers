@@ -4,26 +4,21 @@
 
 * api.clickaine.com
 
-### Rarely active trackers
-
-* 548260.parkingcrew.net
-
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| api.willalland.info | 548260.parkingcrew.net |
-| app.willalland.info | 548260.parkingcrew.net |
-| ww1.willalland.info | 548260.parkingcrew.net |
 | a2.hotpornfile.org | api.clickaine.com |
 | a3.hotpornfile.org | api.clickaine.com |
 | ad1.xero.porn | api.clickaine.com |
+| anti.69vclub.com | api.clickaine.com |
 | api.hugemedia.cz | api.clickaine.com |
 | api.kekw.website | api.clickaine.com |
 | api.kekw.world | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
 | api2.clickaine.com | api.clickaine.com |
 | app.rtnews.pro | api.clickaine.com |
+| asg.erotikflix.com | api.clickaine.com |
 | asg.javhoho.com | api.clickaine.com |
 | asg.torocomoroco.work | api.clickaine.com |
 | asg.uzporn.com | api.clickaine.com |

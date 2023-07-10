@@ -138,8 +138,10 @@ busjob.tns-gallup.dk CNAME .
 computerworld.tns-gallup.dk CNAME .
 costume.tns-gallup.dk CNAME .
 dagbladetholstebrostruer.tns-gallup.dk CNAME .
+dagbladetringskjern.tns-gallup.dk CNAME .
 dbstruer-eavis.tns-gallup.dk CNAME .
 dgs.tns-gallup.dk CNAME .
+digitalfoto.tns-gallup.dk CNAME .
 dmi.tns-gallup.dk CNAME .
 dplayiosstream.tns-gallup.dk CNAME .
 ssl-boxerandroidstream.tns-gallup.dk CNAME .
@@ -174,6 +176,7 @@ femina.tns-gallup.dk CNAME .
 finans.tns-gallup.dk CNAME .
 finanswatch.tns-gallup.dk CNAME .
 fodevarewatch.tns-gallup.dk CNAME .
+folkebladetlemvig.tns-gallup.dk CNAME .
 folketidende.tns-gallup.dk CNAME .
 fyens.tns-gallup.dk CNAME .
 gaffa.tns-gallup.dk CNAME .
@@ -188,6 +191,7 @@ illvid.tns-gallup.dk CNAME .
 in.tns-gallup.dk CNAME .
 information.tns-gallup.dk CNAME .
 ing.tns-gallup.dk CNAME .
+isabellas.tns-gallup.dk CNAME .
 itjobindex.tns-gallup.dk CNAME .
 itwatch.tns-gallup.dk CNAME .
 jobbank.tns-gallup.dk CNAME .
@@ -195,6 +199,7 @@ jobindex.tns-gallup.dk CNAME .
 journalisten.tns-gallup.dk CNAME .
 jubii.tns-gallup.dk CNAME .
 juicyplay.tns-gallup.dk CNAME .
+jv.tns-gallup.dk CNAME .
 komputer.tns-gallup.dk CNAME .
 krak.tns-gallup.dk CNAME .
 kristeligtdagblad.tns-gallup.dk CNAME .
@@ -219,6 +224,7 @@ pl01.owen.prolitteris.ch CNAME .
 pleasure.tns-gallup.dk CNAME .
 politiken.tns-gallup.dk CNAME .
 pricerunner.tns-gallup.dk CNAME .
+proff.tns-gallup.dk CNAME .
 realityportalen.tns-gallup.dk CNAME .
 rejseplanen.tns-gallup.dk CNAME .
 samvirke.tns-gallup.dk CNAME .

@@ -49,6 +49,7 @@
     * 145003564476173.wt-eu02.net
     * 148749046266446.wt-eu02.net
     * 151836596491843.wt-eu02.net
+    * 158325876760515.wt-eu02.net
     * 176652923057792.wt-eu02.net
     * 180629549208289.wt-eu02.net
     * 184874202187158.wt-eu02.net
@@ -182,6 +183,7 @@
     * hornbach-02.wt-eu02.net
     * ikk-classic-app03.wt-eu02.net
     * img-foodspring01.wt-eu02.net
+    * img-sparkasse-koelnbonn.wt-eu02.net
     * img.bergfreunde.wt-eu02.net
     * janvanderstorm-01.wt-eu02.net
     * madeleineprod01.wt-eu02.net
@@ -233,6 +235,7 @@
 | web.sensilab.se | 151836596491843.wt-eu02.net |
 | web.sensilab.si | 151836596491843.wt-eu02.net |
 | web.sensilab.sk | 151836596491843.wt-eu02.net |
+| web.email.umbro.co.uk | 158325876760515.wt-eu02.net |
 | trk.krebsversicherung.de | 176652923057792.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
 | web.solesource.com | 180629549208289.wt-eu02.net |
@@ -271,6 +274,7 @@
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |
 | a.maxxhotel.com | 307902509027183.wt-eu02.net |
 | a.steigenberger.com | 307902509027183.wt-eu02.net |
+| a.thespa.steigenberger.com | 307902509027183.wt-eu02.net |
 | a.zleep.com | 307902509027183.wt-eu02.net |
 | web.mapp.whiteaway.no | 310695274957699.wt-eu02.net |
 | web.mail.parmalat.it | 312310057961150.wt-eu02.net |
@@ -368,6 +372,7 @@
 | web.bankofscotland.de | 849036415619964.wt-eu02.net |
 | mit.deutsche-bank.de | 849715076759606.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
+| wt.generalibewegtdeutschland.de | 865411762489824.wt-eu02.net |
 | mit.deutschebank.be | 877979016491790.wt-eu02.net |
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
 | count.bank99.at | 927703597199732.wt-eu02.net |
@@ -420,12 +425,14 @@
 | di.ifolor.com | di.ifolor.wt-eu02.net |
 | di.ifolor.de | di.ifolor.wt-eu02.net |
 | di.ifolor.dk | di.ifolor.wt-eu02.net |
+| di.ifolor.es | di.ifolor.wt-eu02.net |
 | di.ifolor.fi | di.ifolor.wt-eu02.net |
 | di.ifolor.fr | di.ifolor.wt-eu02.net |
 | di.ifolor.ie | di.ifolor.wt-eu02.net |
 | di.ifolor.it | di.ifolor.wt-eu02.net |
 | di.ifolor.lu | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
+| di.ifolor.nl | di.ifolor.wt-eu02.net |
 | di.ifolor.se | di.ifolor.wt-eu02.net |
 | di.spreadmorelove.ch | di.ifolor.wt-eu02.net |
 | wt.distrelec.com | distrelec-02.webtrekk.net |
@@ -482,6 +489,7 @@
 | img.foodspring.hr | img-foodspring01.wt-eu02.net |
 | img.foodspring.it | img-foodspring01.wt-eu02.net |
 | img.foodspring.se | img-foodspring01.wt-eu02.net |
+| img.sparkasse-koelnbonn.de | img-sparkasse-koelnbonn.wt-eu02.net |
 | scout.alpinetrek.co.uk | img.bergfreunde.wt-eu02.net |
 | scout.alpiniste.fr | img.bergfreunde.wt-eu02.net |
 | scout.berg-freunde.at | img.bergfreunde.wt-eu02.net |

@@ -5,6 +5,7 @@
 ||acdc.toolineo.de^
 ||acsrt.cardnet-tds.com^
 ||acsweb-3dr1.dnp-cdms.jp^
+||af.mobile.free.fr^
 ||analytics.amrcollection.com^
 ||analytics.applevacations.com^
 ||analytics.beachbound.com^
@@ -115,6 +116,7 @@
 ||cfa.fidelity.com^
 ||cfa.mystreetscape.com^
 ||cfa.streetscape.com^
+||cfaxdev2.fidelity.com^
 ||cfaxq.mystreetscape.com^
 ||cfaxq.streetscape.com^
 ||cfaxq1.fidelity.com^
@@ -176,6 +178,7 @@
 ||content.citizensbankonline.com^
 ||content.clubpremier.com^
 ||content.cofidis.pt^
+||content.conapcg.com^
 ||content.connexion-mabanque.bnpparibas^
 ||content.consumercardaccess.com^
 ||content.ctfs.com^
@@ -197,6 +200,7 @@
 ||content.familyprepaiddebit.com^
 ||content.firstinterstatebank.com^
 ||content.fisglobal.com^
+||content.floridarentals.com^
 ||content.frs.fl.gov^
 ||content.gap.com^
 ||content.gapfactory.com^
@@ -274,6 +278,7 @@
 ||content1.esdiacapi.com^
 ||content1.reprisefinancial.com^
 ||content2.instacart.com^
+||content2.paywerk.co^
 ||content21.snapfinance.com^
 ||content22.accountonline.com^
 ||content22.bancanet.banamex.com^
@@ -410,6 +415,7 @@
 ||images.applyfleet.com^
 ||images.essofleetoffers.com^
 ||images.exxonmobilfleetoffers.com^
+||images.sheetzadvantage.com^
 ||images.sunocofleetcards.com^
 ||images.wexinc.com^
 ||imagesmx.cdiscountpro.com^
@@ -450,6 +456,7 @@
 ||info.betway.co.za^
 ||info.betway.co.zm^
 ||info.betway.fr^
+||info.betway.lat^
 ||intlsdpntrca.nitrocasino.ca^
 ||intm.amwager.com^
 ||invalid-qa2.threatmetrix.com^
@@ -557,6 +564,7 @@
 ||prod-lafcuca.chaperone.lumindigitalhosting.com^
 ||prod-lfcuva.chaperone.lumindigitalhosting.com^
 ||prod-mscuct.chaperone.lumindigitalhosting.com^
+||prod-njfcunj.chaperone.lumindigitalhosting.com^
 ||prod-northland.chaperone.lumindigitalhosting.com^
 ||prod-oneaz.chaperone.lumindigitalhosting.com^
 ||prod-pathways.chaperone.lumindigitalhosting.com^
@@ -654,6 +662,7 @@
 ||service.riverscontent.com^
 ||servicesdp.luckydays.ca^
 ||servicesdp.spinaway.ca^
+||sfp.intuit.com^
 ||sg-payment.cydf.hoyoverse.com^
 ||shield.boostbusiness.my^
 ||sitehelper.myengageft.com^
@@ -669,6 +678,7 @@
 ||static.fairstone.ca^
 ||static.sb-cdn.io^
 ||static.yg-cdn.io^
+||static2.gumtree.com.au^
 ||stats.badoostats.com^
 ||stats.dell.com^
 ||sub-a.crossmeetz.com^
@@ -768,6 +778,7 @@
 ||tcontent.nrjmobile.fr^
 ||telem.highlow.com^
 ||telem.highlow.net^
+||tfp.intuit.com^
 ||th.barclays.co.uk^
 ||thm.visa.com^
 ||thm12.visa.com^
@@ -801,6 +812,7 @@
 ||tm.gumtree.co.za^
 ||tm.gumtree.com.au^
 ||tm.kotak.com^
+||tm.moneyhub.hrblock.com.au^
 ||tm.okinushub.com^
 ||tm.paysafecard.com^
 ||tm.production.eu1.tmfp.klarna.net^
@@ -812,6 +824,7 @@
 ||tm.stats.fashionforhome.de^
 ||tm.stats.home24.at^
 ||tm.stats.home24.be^
+||tm.stats.home24.ch^
 ||tm.stats.home24.de^
 ||tm.stats.home24.it^
 ||tm.stats.home24.nl^
@@ -885,6 +898,7 @@
 ||verification.ndtco.com^
 ||verify.metlife.com^
 ||verify.philippineairlines.com^
+||vfp.intuit.com^
 ||vlscppe.microsoft.com^
 ||voto.credit24.com^
 ||voto.creditea.com^
@@ -901,6 +915,7 @@
 ||w3.zionsbank.com^
 ||webftm.rbc.com^
 ||webftm.sterbc.com^
+||wfp.intuit.com^
 ||wildcard.humm.ie^
 ||wp.kroger.com^
 ||ww3.fundingstream.com^
@@ -909,5 +924,6 @@
 ||ww9.lloydsbank.com^
 ||www.cdna.cofidis.be^
 ||www7.raise.com^
+||xfp.intuit.com^
 ||ydkwim.targobank.de^
 ||yr3ioxw.hoaresbank.co.uk^

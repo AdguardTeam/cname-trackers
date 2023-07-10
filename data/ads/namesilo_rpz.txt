@@ -91,6 +91,7 @@
 3189019.notify6.com CNAME .
 3189023.notifysrv.com CNAME .
 3189027.notify6.com CNAME .
+3189939.notifysrv.com CNAME .
 3191479.notify6.com CNAME .
 3191479.notifysrv.com CNAME .
 3191833.notifysrv.com CNAME .
@@ -167,6 +168,7 @@
 3249470.notifysrv.com CNAME .
 3249648.notify6.com CNAME .
 3250420.notify6.com CNAME .
+3254306.notifysrv.com CNAME .
 3258452.notifysrv.com CNAME .
 3258696.notifysrv.com CNAME .
 3260930.notifysrv.com CNAME .
@@ -480,6 +482,7 @@
 3530761.notifysrv.com CNAME .
 3532273.notifysrv.com CNAME .
 3532663.notifysrv.com CNAME .
+3535661.notify6.com CNAME .
 3538565.notify6.com CNAME .
 3538613.notifysrv.com CNAME .
 3539463.notifysrv.com CNAME .
@@ -726,6 +729,7 @@
 4068856.notify6.com CNAME .
 4069896.notify6.com CNAME .
 4069900.notify6.com CNAME .
+4080560.notify6.com CNAME .
 4093684.notify6.com CNAME .
 4093704.notify6.com CNAME .
 4096386.notify6.com CNAME .
@@ -737,6 +741,7 @@
 4143324.notify6.com CNAME .
 4144426.notify6.com CNAME .
 4149128.notify6.com CNAME .
+4151384.notify6.com CNAME .
 4152268.notify6.com CNAME .
 4152328.notify6.com CNAME .
 4153216.notify6.com CNAME .
@@ -867,9 +872,20 @@ _sips._tcp.3323174.notifysrv.com CNAME .
 a.a3ion.com CNAME .
 a.ad.guru CNAME .
 a.addisplaynetwork.com CNAME .
+a.adnflow.com CNAME .
+a.asvsm.com CNAME .
+a.bizonads-ssp.com CNAME .
+a.etology.com CNAME .
+a.native7.com CNAME .
 a.paradoxgroup.uk CNAME .
 a.redpathmedia.com CNAME .
+a.santabrowser.com CNAME .
+a.slice.exchange CNAME .
 a.stuffserve.com CNAME .
+admin.ad.guru CNAME .
+admin.adnation.com CNAME .
+admin.adstuff.io CNAME .
+admin.etology.com CNAME .
 admin.gettopple.com CNAME .
 admin.shafttraffic.com CNAME .
 api.adnation.com CNAME .
@@ -883,6 +899,7 @@ main.exoclick.com CNAME .
 main.exosrv.com CNAME .
 main.optimizesrv.com CNAME .
 main.realsrv.com CNAME .
+main0.exosrv.com CNAME .
 management-addisplaynetwork.exads.com CNAME .
 management-adguru.exads.com CNAME .
 management-adstuff.exads.com CNAME .
@@ -898,6 +915,7 @@ management-slice.exads.com CNAME .
 management-topple.exads.com CNAME .
 management-venntro.exads.com CNAME .
 management-vsmedia.exads.com CNAME .
+management.adxnow.com CNAME .
 origin-ads.exdynsrv.com CNAME .
 origin-ads.exosrv.com CNAME .
 origin-ads.optimizesrv.com CNAME .
@@ -920,6 +938,7 @@ s.elnk4b.com CNAME .
 s.elnk90.com CNAME .
 s.elnk92.com CNAME .
 s.elnk93.com CNAME .
+s.elnkp2.com CNAME .
 s.elnkp4.com CNAME .
 s.elnl2a.com CNAME .
 s.elnl2b.com CNAME .
@@ -980,14 +999,6 @@ syndication.whibd.com CNAME .
 syndication.whibp.com CNAME .
 syndication0.exoclick.com CNAME .
 www.3227697.notify6.com CNAME .
+www.3243082.notifysrv.com CNAME .
+www.3466863.notify6.com CNAME .
 www.4152316.notify6.com CNAME .
-a.adnflow.com CNAME .
-a.asvsm.com CNAME .
-a.bizonads-ssp.com CNAME .
-a.etology.com CNAME .
-a.santabrowser.com CNAME .
-a.slice.exchange CNAME .
-admin.ad.guru CNAME .
-admin.adnation.com CNAME .
-admin.adstuff.io CNAME .
-admin.etology.com CNAME .

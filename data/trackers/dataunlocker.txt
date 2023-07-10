@@ -17,7 +17,6 @@
 ||1zzs6w25i8n.tube.inflatevids.xyz^
 ||2107wrlgff5.development.taxmachine.be^
 ||21fhq0t574p.talentkit.io^
-||22k1uh3ooima.kvest.ee^
 ||25ix8gm8ien.sandbox.panprices.com^
 ||2829i2p88jx.www.csaladinet.hu^
 ||2aa6f9qgrh9.acc.evservice.nl^
@@ -35,6 +34,7 @@
 ||771fnypadw0j.pt.themoneytizer.com^
 ||78rkcgj4i8c6.www.cefirates.com^
 ||7hdl8dlfjm4g.www.cybernetman.com^
+||7tztu83vyuak.piqnt.com^
 ||8ehhtsv9bo7i.monkeylearn.com^
 ||9kkjfywjz50v.www.eventus.io^
 ||9r0ptx5k38hk.hollowayremovals.com.au^
@@ -79,7 +79,6 @@
 ||m5yw219v6r.app.koinly.io^
 ||m6c4t9vmqarj.www.cefirates.com^
 ||mh9qqwotr890.koelewijn.nl^
-||mt2992299ubt.www.qeemat.com.pk^
 ||mteme7li1d6r.vertexmarketingagency.com^
 ||n4kb43cl2bsw.creatordrop.com^
 ||nqyuel589fq5.esgrounding.com^
@@ -93,8 +92,10 @@
 ||qqeuq1cmoooq.accuretawealth.com^
 ||qri2r94eeajr.innovationcast.com^
 ||qt5jl7r111h7.allesvoormijnvakantie.nl^
+||ri08v3d5rbix.kvest.ee^
 ||ros3d4dbs3px.salud-masculina.info^
 ||s2whyufxmzam.chatpay.com.br^
+||sfqp4hi357f6.www.emanualonline.com^
 ||soahu1wnmt6l.www.replai.io^
 ||sr59t7wbx5.claricelin.com^
 ||sxwxswg8z1xe.www.arnowebtv.com^
@@ -116,5 +117,5 @@
 ||xlvvy4msxr.coolinastore.com^
 ||y4e04gql5o1b.www.nookgaming.com^
 ||ysrrzgku6tar.us.themoneytizer.com^
-||yxbh3a53nv.adaptive.marketing^
 ||zkmhhr1fr79z.dictionary.basabali.org^
+||zvgci9yv5fkk.razuna.com^

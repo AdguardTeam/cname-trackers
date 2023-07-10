@@ -49,7 +49,6 @@ click-rtb2-useast.xaprio.net CNAME .
 click-rtb2-uswest.afkwa.com CNAME .
 click-v4.celxkpdir.com CNAME .
 click-v4.expdirclk.com CNAME .
-click-v4.expdiremdia.com CNAME .
 click-v4.expilaclkdir.com CNAME .
 click-v4.expmdiadi.com CNAME .
 click-v4.expoclknw.com CNAME .
@@ -146,6 +145,7 @@ display.online-adnetwork.com CNAME .
 display.rtb-serve.com CNAME .
 dsp-east.nativeads.com CNAME .
 dsp-eu.nativeads.com CNAME .
+dsp-static.nativeads.com CNAME .
 dsp-west.nativeads.com CNAME .
 dsp.adcountymedia.com CNAME .
 dsp.adhunter.media CNAME .
@@ -731,6 +731,7 @@ static.fstsrv2.com CNAME .
 static.fstsrv3.com CNAME .
 static.openrtb.in CNAME .
 static.qksrv.biz CNAME .
+static.qksrv.cc CNAME .
 static.qksrv1.com CNAME .
 static.reklama.network CNAME .
 sub.adzgame.com CNAME .
@@ -830,6 +831,7 @@ xml-eu-v4.100conversions.com CNAME .
 xml-eu-v4.acertb.com CNAME .
 xml-eu-v4.adcannyxml.com CNAME .
 xml-eu-v4.adsupplyexchange.com CNAME .
+xml-eu-v4.adtube.media CNAME .
 xml-eu-v4.bidderads.com CNAME .
 xml-eu-v4.chameleostudios.com CNAME .
 xml-eu-v4.convertap.com CNAME .
@@ -938,6 +940,7 @@ xml-v4.frdjs-1.co CNAME .
 xml-v4.frdjs-2.co CNAME .
 xml-v4.fstsrv1.com CNAME .
 xml-v4.fstsrv2.com CNAME .
+xml-v4.fstsrv3.com CNAME .
 xml-v4.gipostart-1.co CNAME .
 xml-v4.gipostart-2.co CNAME .
 xml-v4.goclickz.net CNAME .
@@ -1133,6 +1136,7 @@ xml.qksrv.cc CNAME .
 xml.qksrv1.com CNAME .
 xml.reachclicks.net CNAME .
 xml.realtime-bid.com CNAME .
+xml.reklama.network CNAME .
 xml.relevanceads.com CNAME .
 xml.revenuehits.com CNAME .
 xml.revrtb.com CNAME .
@@ -1196,7 +1200,6 @@ akcdn.nativeadsfeed.com CNAME .
 static-analytics.nativeads.com CNAME .
 static.analytics.nativeads.com CNAME .
 data.bvsrv.com CNAME .
-dsp-static.nativeads.com CNAME .
 static-rtb.adhunter.media CNAME .
 static-rtb.adksrv.com CNAME .
 static-rtb.engagesimply.com CNAME .
@@ -1239,7 +1242,6 @@ static.adop.co CNAME .
 static.adoperatorx.com CNAME .
 static.adoptim.com CNAME .
 static.adqva.com CNAME .
-static.qksrv.cc CNAME .
 static.adsfloow.net CNAME .
 static.adsolut.in CNAME .
 static.advlistings.com CNAME .

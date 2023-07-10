@@ -41,6 +41,7 @@
 ||activate.prosoccerusa.com^
 ||activate.ramonasentinel.com^
 ||activate.ranchosantafereview.com^
+||activate.redeyechicago.com^
 ||activate.sandiegouniontribune.com^
 ||activate.shopjustice.com^
 ||activate.sun-sentinel.com^
@@ -200,6 +201,7 @@
 ||ens.themarket.ch^
 ||ens.trauerportal-ostschweiz.ch^
 ||ens.urnerzeitung.ch^
+||ens.wilerzeitung.ch^
 ||ens.zugerzeitung.ch^
 ||ensighten.airnewzealand.co.uk^
 ||ensighten.bhphoto.com^
@@ -256,6 +258,7 @@
 ||privacy.blade.app^
 ||privacy.easyjet.com^
 ||privacy.gemfinance.co.nz^
+||privacy.gemvisa.com.au^
 ||privacy.genoapay.com^
 ||privacy.gomastercard.com.au^
 ||privacy.heineken.it^

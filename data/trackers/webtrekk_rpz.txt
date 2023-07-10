@@ -47,6 +47,7 @@ a.intercityhotel.com CNAME .
 a.jaz-hotel.com CNAME .
 a.maxxhotel.com CNAME .
 a.steigenberger.com CNAME .
+a.thespa.steigenberger.com CNAME .
 a.zleep.com CNAME .
 abc.bayer04.de CNAME .
 abc.fackelmann.de CNAME .
@@ -99,12 +100,14 @@ di.ifolor.ch CNAME .
 di.ifolor.com CNAME .
 di.ifolor.de CNAME .
 di.ifolor.dk CNAME .
+di.ifolor.es CNAME .
 di.ifolor.fi CNAME .
 di.ifolor.fr CNAME .
 di.ifolor.ie CNAME .
 di.ifolor.it CNAME .
 di.ifolor.lu CNAME .
 di.ifolor.net CNAME .
+di.ifolor.nl CNAME .
 di.ifolor.se CNAME .
 di.spreadmorelove.ch CNAME .
 dnsbl.test.wbtrkk.teufel.de CNAME .
@@ -145,6 +148,7 @@ img.foodspring.fr CNAME .
 img.foodspring.hr CNAME .
 img.foodspring.it CNAME .
 img.foodspring.se CNAME .
+img.sparkasse-koelnbonn.de CNAME .
 info.klett-sprachen.de CNAME .
 intelligence.officialwesthamstore.com CNAME .
 is.lg.com CNAME .
@@ -260,6 +264,7 @@ web.email.pmtonline.co.uk CNAME .
 web.email.principality.co.uk CNAME .
 web.email.superga.co.uk CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
+web.email.umbro.co.uk CNAME .
 web.email.zone3.com CNAME .
 web.emails.elc.co.uk CNAME .
 web.emails.thetoyshop.com CNAME .
@@ -349,6 +354,7 @@ wt.arabalears.cat CNAME .
 wt.dialog-versicherung.de CNAME .
 wt.envivas.de CNAME .
 wt.generali.de CNAME .
+wt.generalibewegtdeutschland.de CNAME .
 wt.generalihealthsolutions.de CNAME .
 wt.netze-bw.de CNAME .
 wt.vhb.de CNAME .

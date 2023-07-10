@@ -41,6 +41,7 @@ activate.post-trib.com CNAME .
 activate.prosoccerusa.com CNAME .
 activate.ramonasentinel.com CNAME .
 activate.ranchosantafereview.com CNAME .
+activate.redeyechicago.com CNAME .
 activate.sandiegouniontribune.com CNAME .
 activate.shopjustice.com CNAME .
 activate.sun-sentinel.com CNAME .
@@ -200,6 +201,7 @@ ens.tagblatt.ch CNAME .
 ens.themarket.ch CNAME .
 ens.trauerportal-ostschweiz.ch CNAME .
 ens.urnerzeitung.ch CNAME .
+ens.wilerzeitung.ch CNAME .
 ens.zugerzeitung.ch CNAME .
 ensighten.airnewzealand.co.uk CNAME .
 ensighten.bhphoto.com CNAME .
@@ -256,6 +258,7 @@ privacy.amstel.nl CNAME .
 privacy.blade.app CNAME .
 privacy.easyjet.com CNAME .
 privacy.gemfinance.co.nz CNAME .
+privacy.gemvisa.com.au CNAME .
 privacy.genoapay.com CNAME .
 privacy.gomastercard.com.au CNAME .
 privacy.heineken.it CNAME .

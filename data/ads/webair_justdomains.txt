@@ -49,7 +49,6 @@ click-rtb2-useast.xaprio.net
 click-rtb2-uswest.afkwa.com
 click-v4.celxkpdir.com
 click-v4.expdirclk.com
-click-v4.expdiremdia.com
 click-v4.expilaclkdir.com
 click-v4.expmdiadi.com
 click-v4.expoclknw.com
@@ -146,6 +145,7 @@ display.online-adnetwork.com
 display.rtb-serve.com
 dsp-east.nativeads.com
 dsp-eu.nativeads.com
+dsp-static.nativeads.com
 dsp-west.nativeads.com
 dsp.adcountymedia.com
 dsp.adhunter.media
@@ -731,6 +731,7 @@ static.fstsrv2.com
 static.fstsrv3.com
 static.openrtb.in
 static.qksrv.biz
+static.qksrv.cc
 static.qksrv1.com
 static.reklama.network
 sub.adzgame.com
@@ -830,6 +831,7 @@ xml-eu-v4.100conversions.com
 xml-eu-v4.acertb.com
 xml-eu-v4.adcannyxml.com
 xml-eu-v4.adsupplyexchange.com
+xml-eu-v4.adtube.media
 xml-eu-v4.bidderads.com
 xml-eu-v4.chameleostudios.com
 xml-eu-v4.convertap.com
@@ -938,6 +940,7 @@ xml-v4.frdjs-1.co
 xml-v4.frdjs-2.co
 xml-v4.fstsrv1.com
 xml-v4.fstsrv2.com
+xml-v4.fstsrv3.com
 xml-v4.gipostart-1.co
 xml-v4.gipostart-2.co
 xml-v4.goclickz.net
@@ -1133,6 +1136,7 @@ xml.qksrv.cc
 xml.qksrv1.com
 xml.reachclicks.net
 xml.realtime-bid.com
+xml.reklama.network
 xml.relevanceads.com
 xml.revenuehits.com
 xml.revrtb.com
@@ -1196,7 +1200,6 @@ akcdn.nativeadsfeed.com
 static-analytics.nativeads.com
 static.analytics.nativeads.com
 data.bvsrv.com
-dsp-static.nativeads.com
 static-rtb.adhunter.media
 static-rtb.adksrv.com
 static-rtb.engagesimply.com
@@ -1239,7 +1242,6 @@ static.adop.co
 static.adoperatorx.com
 static.adoptim.com
 static.adqva.com
-static.qksrv.cc
 static.adsfloow.net
 static.adsolut.in
 static.advlistings.com

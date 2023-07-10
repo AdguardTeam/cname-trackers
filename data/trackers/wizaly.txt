@@ -9,6 +9,7 @@
 ||tk.airfrance.am^
 ||tk.airfrance.at^
 ||tk.airfrance.be^
+||tk.airfrance.bf^
 ||tk.airfrance.bg^
 ||tk.airfrance.bj^
 ||tk.airfrance.ca^
@@ -22,6 +23,7 @@
 ||tk.airfrance.co.za^
 ||tk.airfrance.cz^
 ||tk.airfrance.de^
+||tk.airfrance.dj^
 ||tk.airfrance.dk^
 ||tk.airfrance.fi^
 ||tk.airfrance.fr^
@@ -37,7 +39,9 @@
 ||tk.airfrance.mg^
 ||tk.airfrance.mq^
 ||tk.airfrance.mu^
+||tk.airfrance.my^
 ||tk.airfrance.ng^
+||tk.airfrance.nl^
 ||tk.airfrance.pa^
 ||tk.airfrance.pf^
 ||tk.airfrance.pl^
@@ -70,6 +74,7 @@
 ||tk.evaneos.fr^
 ||tk.evaneos.it^
 ||tk.evaneos.nl^
+||tk.frenchbee.com^
 ||tk.healthwarehouse.com^
 ||tk.hypnia.co.uk^
 ||tk.hypnia.es^
@@ -123,6 +128,5 @@
 ||twiz.wizaly.co.uk^
 ||twiz.wizaly.fr^
 ||wiz.empowerhearing.com^
-||wiz.ghostbed.com^
 ||wiz.sncf-connect.com^
 ||wz.allianz.fr^

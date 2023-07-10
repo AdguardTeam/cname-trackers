@@ -27,6 +27,7 @@ tr.actualites.reseau-lcd.org
 tr.actuentreprises.elior.fr
 tr.actupremium.com
 tr.actus-fdj.fr
+tr.adhesion.ircom-laverriere.com
 tr.afpa.espmp-cufr.net
 tr.ag2rlamondiale.fr
 tr.agefiseminaires.com
@@ -44,6 +45,7 @@ tr.asp002q.espmp-aufr.net
 tr.asp002x.espmp-cufr.net
 tr.asp0085.espmp-nifr.net
 tr.asp008y.espmp-nifr.net
+tr.asp009j.espmp-aufr.net
 tr.asp00a0.espmp-cufr.net
 tr.asp00a1.espmp-agfr.net
 tr.asp00a3.espmp-agfr.net
@@ -51,11 +53,14 @@ tr.asp00a6.espmp-nifr.net
 tr.asp00ah.espmp-nifr.net
 tr.asp00am.espmp-cufr.net
 tr.asp1.espmp-agfr.net
+tr.asp102n.espmp-cufr.net
 tr.asp103z.espmp-nifr.net
 tr.asp104p.espmp-aufr.net
 tr.asp106d.espmp-cufr.net
 tr.asp106g.espmp-nifr.net
 tr.asp1098.espmp-cufr.net
+tr.asp109c.espmp-aufr.net
+tr.asp109y.espmp-agfr.net
 tr.asp10ai.espmp-nifr.net
 tr.asp10ar.espmp-cufr.net
 tr.asp10bs.espmp-aufr.net
@@ -63,10 +68,14 @@ tr.asp10c8.espmp-agfr.net
 tr.asp10cg.espmp-nifr.net
 tr.asp10ch.espmp-nifr.net
 tr.asp10cr.espmp-nifr.net
+tr.asp10de.espmp-agfr.net
 tr.asp10dq.espmp-nifr.net
 tr.asp10dx.espmp-nifr.net
 tr.asp10ea.espmp-nifr.net
+tr.asp10f6.espmp-agfr.net
 tr.asp10fa.espmp-cufr.net
+tr.asp10fg.espmp-aufr.net
+tr.asp10fo.espmp-nifr.net
 tr.asp10fp.espmp-nifr.net
 tr.asp10ge.espmp-nifr.net
 tr.asp10h2.espmp-nifr.net
@@ -74,6 +83,7 @@ tr.asp10hc.espmp-aufr.net
 tr.asp10hg.espmp-cufr.net
 tr.asp10hi.espmp-cufr.net
 tr.asp10hj.espmp-pofr.net
+tr.asp10if.espmp-cufr.net
 tr.asp2.espmp-agfr.net
 tr.asp202u.espmp-cufr.net
 tr.asp2032.espmp-aufr.net
@@ -89,6 +99,7 @@ tr.asp2078.espmp-nifr.net
 tr.asp207e.espmp-nifr.net
 tr.assoc.cfsr-retine.com
 tr.avisecheance.maaf.fr
+tr.axa-millesimes.espmp-aufr.net
 tr.axa.espmp-aufr.net
 tr.b2d1.espmp-agfr.net
 tr.b2d1068.espmp-nifr.net
@@ -120,6 +131,7 @@ tr.bureauveritas.espmp-aufr.net
 tr.business-deal.cl
 tr.business-deal.com.br
 tr.business-deal.fr
+tr.business-deal.mx
 tr.business-deal.nl
 tr.business-quotes.co.uk
 tr.businessdev.younited-credit.es
@@ -140,6 +152,7 @@ tr.ceeregion.moethennessy.com
 tr.christmas.petit-bateau.com
 tr.cifa.espmp-nifr.net
 tr.cifa02b.espmp-aufr.net
+tr.cifa02d.espmp-aufr.net
 tr.cifa02k.espmp-aufr.net
 tr.citiesforlifeparis.latribune.fr
 tr.cj.bordeaux-metropole.fr
@@ -148,6 +161,7 @@ tr.clientes.younited-credit.com
 tr.clienti.younited-credit.com
 tr.clienti.younited-credit.it
 tr.clients-mediametrie.fr
+tr.clients.base-plus.fr
 tr.clients.boursorama.info
 tr.clients.europrogres.fr
 tr.clients.gemy.fr
@@ -165,6 +179,7 @@ tr.commande.location.boulanger.com
 tr.commint.groupe.chapsvision.com
 tr.communaute.caradisiac.com
 tr.communautes-mediametrie.fr
+tr.communication.alticemedia.com
 tr.communication.ancv.com
 tr.communication.armatis-lc.com
 tr.communication.arthur-bonnet.com
@@ -207,6 +222,7 @@ tr.contact.ruinart.com
 tr.contact.stof.fr
 tr.contact.thelist-emirates.fr
 tr.contrat.location.boulanger.com
+tr.contrat.lokeo.fr
 tr.contrats.cetelem.fr
 tr.contrats.cofinoga.fr
 tr.corporate.moethennessy.com
@@ -217,6 +233,8 @@ tr.courrier.larepubliquedespyrenees.fr
 tr.courrier.sudouest.fr
 tr.credito.universo.pt
 tr.crtl.espmp-aufr.net
+tr.customer-solutions.np6.com
+tr.cyberarchi.info
 tr.cyprusparadiseestates.com
 tr.cypruspremiervacations.com
 tr.datacom.espmp-pofr.net
@@ -239,6 +257,7 @@ tr.devisminute-gestionpaie.com
 tr.devisminute-materieldestockage.com
 tr.devisminute-mutuelle.com
 tr.devisminute-operateur.com
+tr.devisminute-operateurpro.com
 tr.devisminute-securiteb2b.com
 tr.devisminute-siteecommerce.com
 tr.devisminute-weber.com
@@ -249,6 +268,7 @@ tr.directferries.com
 tr.dirigeants.harmonie-mutuelle.fr
 tr.discover.perfectstay.com
 tr.djay.espmp-agfr.net
+tr.dkomaison.info
 tr.dnapresse.fr
 tr.docapost-sirs.com
 tr.dogstrust.org.uk
@@ -284,10 +304,8 @@ tr.email.gap-france.fr
 tr.email.harmonie-mutuelle.fr
 tr.email.infocredit.orangebank.fr
 tr.email.investissement-residence-service.fr
-tr.email.jaguar-approved.fr
 tr.email.janedeboy.com
 tr.email.land-rover-experience.fr
-tr.email.landrover-approved.fr
 tr.email.maisonfoody.com
 tr.email.medicalexpo.com
 tr.email.mnpaf.fr
@@ -339,6 +357,7 @@ tr.estatesandwines.moethennessy.com
 tr.etravauxpro.fr
 tr.eulerhermes.com
 tr.europa-organisation.com
+tr.ev001.net
 tr.evenements.inpi.fr
 tr.expresofferte.be
 tr.fg3p.espmp-cufr.net
@@ -405,6 +424,7 @@ tr.info.clicochic.com
 tr.info.cnch.fr
 tr.info.comparadordeprestamos.es
 tr.info.conexancemd.com
+tr.info.conso-expert.fr
 tr.info.covid-resistance-bretagne.fr
 tr.info.dentexelans.com
 tr.info.e-leclerc.com
@@ -417,6 +437,7 @@ tr.info.fulli.com
 tr.info.galian.fr
 tr.info.harmonie-mutuelle.fr
 tr.info.lacentrale.fr
+tr.info.linnc.com
 tr.info.linxea.com
 tr.info.mango-mobilites.fr
 tr.info.mango-mobilitesbyaprr.fr
@@ -426,6 +447,7 @@ tr.info.mcgarrybowen.com
 tr.info.mdbp.fr
 tr.info.mercialys.com
 tr.info.mobibam.com
+tr.info.np6.com
 tr.info.np6.fr
 tr.info.oceane-pme.com
 tr.info.offres-cartegie.fr
@@ -435,6 +457,7 @@ tr.info.ph-bpifrance.fr
 tr.info.phsolidaire-bpifrance.fr
 tr.info.pret-bpifrance.fr
 tr.info.pret-participatif.fr
+tr.info.pretflashtpe-bpifrance.fr
 tr.info.projeo-finance.fr
 tr.info.promoneuve.fr
 tr.info.reunica.com
@@ -451,6 +474,7 @@ tr.infolettres.groupama.com
 tr.infomarche.hennessy.fr
 tr.information.fidalformations.fr
 tr.information.lacollection-airfrance.be
+tr.information.lacollection-airfrance.ch
 tr.information.lacollection-airfrance.fr
 tr.information.perfectstay.com
 tr.information.smartdeals-transavia-fr.com
@@ -545,6 +569,8 @@ tr.marketing.younited-credit.pt
 tr.marketingdisruption.co.uk
 tr.mart.espmp-agfr.net
 tr.mattressman.co.uk
+tr.mcom03b.espmp-aufr.net
+tr.mcom04p.espmp-aufr.net
 tr.melhores-propostas.pt
 tr.membres.boursorama.info
 tr.mep.enkiapp.io
@@ -555,6 +581,7 @@ tr.mh-connect.moethennessy.com
 tr.mhch.moet.hennessy.com
 tr.mhdconnect.mhdfrance.fr
 tr.mhist.moethennessy.com
+tr.mhlab78.moethennessy.com
 tr.mhusa-trade-engagement.moethennessy.com
 tr.mijn-superaanbieding.be
 tr.mijnaanbieding.renowizz.be
@@ -574,6 +601,7 @@ tr.mp.aconclue-pro.com
 tr.mp.actu-pm.fr
 tr.mp.infomanageo.fr
 tr.mp.ld-man.fr
+tr.mpbroadcasts.co.uk
 tr.mydevisentreprise.com
 tr.n.ferrero.fr
 tr.n.info.cdgp.fr
@@ -587,6 +615,7 @@ tr.new.offres-cartegie.fr
 tr.news-abweb.com
 tr.news-chocolat.com
 tr.news-companeo.cl
+tr.news-companeo.com.br
 tr.news-companeo.fr
 tr.news-companeo.gr
 tr.news-companeo.mx
@@ -599,6 +628,7 @@ tr.news.a2micile.com
 tr.news.accessmastertour.com
 tr.news.accessmbatour.com
 tr.news.actu-man.com
+tr.news.alcyon.com
 tr.news.alibabuy.com
 tr.news.alinea.com
 tr.news.alinea.fr
@@ -646,6 +676,7 @@ tr.news.epicery.com
 tr.news.eureden.com
 tr.news.eurodatatv.com
 tr.news.exclu.fr
+tr.news.extenso-telecom.com
 tr.news.externis.com
 tr.news.flandrintechnologies.com
 tr.news.frame.fr
@@ -653,6 +684,7 @@ tr.news.futuramedia.fr
 tr.news.geantcasino.fr
 tr.news.geomag.fr
 tr.news.glance-mediametrie.com
+tr.news.grandsmoulinsdeparis.com
 tr.news.groupe-armonia.com
 tr.news.hallobanden.be
 tr.news.hallobanden.nl
@@ -703,6 +735,7 @@ tr.news.mon-horoscope.info
 tr.news.monvoyant.fr
 tr.news.mperformance.fr
 tr.news.normandie.cci.fr
+tr.news.np6.com
 tr.news.ocs.fr
 tr.news.onetoonemba.com
 tr.news.ouestnormandie.cci.fr
@@ -813,7 +846,9 @@ tr.observatoire.musee-orsay.fr
 tr.oferta-firmy.pl
 tr.ofertas-companeo.es
 tr.offer-companeo.co.uk
+tr.offerta-companeo.com
 tr.offerte.migliorifornitori.it
+tr.offre-btob.fr
 tr.offre-companeo.com
 tr.offre.devisdirect.com
 tr.offres-professionnelles.fr
@@ -839,6 +874,7 @@ tr.pm.pelhammedia.com
 tr.pole-emploi-services.com
 tr.pole-emploi.info
 tr.policyexpert.info
+tr.politicoevents.eu
 tr.politicolive.eu
 tr.politicomarketing.eu
 tr.portail.afpa.fr
@@ -847,6 +883,7 @@ tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
 tr.pro-renov.be
 tr.pro.odalys-vacances.com
+tr.programme-voyageur-sncf.com
 tr.projet.cotemaison.fr
 tr.promo.np6.fr
 tr.promotion.lexpress.fr
@@ -943,6 +980,7 @@ tr.unimy-beyond.com
 tr.update.groupon.be
 tr.urfk02r.espmp-nifr.net
 tr.urfk02v.espmp-cufr.net
+tr.urfk02z.espmp-nifr.net
 tr.urfk03h.espmp-nifr.net
 tr.urfk03k.espmp-agfr.net
 tr.urfk03q.espmp-nifr.net
@@ -956,6 +994,7 @@ tr.urfk05g.espmp-agfr.net
 tr.urfk05l.espmp-nifr.net
 tr.urfk06h.espmp-nifr.net
 tr.urfk06o.espmp-agfr.net
+tr.urfk06x.espmp-cufr.net
 tr.urfk06y.espmp-nifr.net
 tr.urfk07j.espmp-nifr.net
 tr.urfk07s.espmp-nifr.net
@@ -990,10 +1029,12 @@ tr.zojh.espmp-aluk.net
 tr1.bp06.net
 tr1.citroen-ipsos.com
 tr1.easy-v01.net
+tr1.lr001.net
 tr1.lr003.net
 tr1.mailperf.com
 tr1.mailperformance.com
 tr1.mperf.com
+tr1.peugeot-ipsos.com
 tr1.psa-surveys.com
 tr5.mailperf.com
 tr5.mperf.com

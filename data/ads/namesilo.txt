@@ -91,6 +91,7 @@
 ||3189019.notify6.com^
 ||3189023.notifysrv.com^
 ||3189027.notify6.com^
+||3189939.notifysrv.com^
 ||3191479.notify6.com^
 ||3191479.notifysrv.com^
 ||3191833.notifysrv.com^
@@ -167,6 +168,7 @@
 ||3249470.notifysrv.com^
 ||3249648.notify6.com^
 ||3250420.notify6.com^
+||3254306.notifysrv.com^
 ||3258452.notifysrv.com^
 ||3258696.notifysrv.com^
 ||3260930.notifysrv.com^
@@ -480,6 +482,7 @@
 ||3530761.notifysrv.com^
 ||3532273.notifysrv.com^
 ||3532663.notifysrv.com^
+||3535661.notify6.com^
 ||3538565.notify6.com^
 ||3538613.notifysrv.com^
 ||3539463.notifysrv.com^
@@ -726,6 +729,7 @@
 ||4068856.notify6.com^
 ||4069896.notify6.com^
 ||4069900.notify6.com^
+||4080560.notify6.com^
 ||4093684.notify6.com^
 ||4093704.notify6.com^
 ||4096386.notify6.com^
@@ -737,6 +741,7 @@
 ||4143324.notify6.com^
 ||4144426.notify6.com^
 ||4149128.notify6.com^
+||4151384.notify6.com^
 ||4152268.notify6.com^
 ||4152328.notify6.com^
 ||4153216.notify6.com^
@@ -867,9 +872,20 @@
 ||a.a3ion.com^
 ||a.ad.guru^
 ||a.addisplaynetwork.com^
+||a.adnflow.com^
+||a.asvsm.com^
+||a.bizonads-ssp.com^
+||a.etology.com^
+||a.native7.com^
 ||a.paradoxgroup.uk^
 ||a.redpathmedia.com^
+||a.santabrowser.com^
+||a.slice.exchange^
 ||a.stuffserve.com^
+||admin.ad.guru^
+||admin.adnation.com^
+||admin.adstuff.io^
+||admin.etology.com^
 ||admin.gettopple.com^
 ||admin.shafttraffic.com^
 ||api.adnation.com^
@@ -883,6 +899,7 @@
 ||main.exosrv.com^
 ||main.optimizesrv.com^
 ||main.realsrv.com^
+||main0.exosrv.com^
 ||management-addisplaynetwork.exads.com^
 ||management-adguru.exads.com^
 ||management-adstuff.exads.com^
@@ -898,6 +915,7 @@
 ||management-topple.exads.com^
 ||management-venntro.exads.com^
 ||management-vsmedia.exads.com^
+||management.adxnow.com^
 ||origin-ads.exdynsrv.com^
 ||origin-ads.exosrv.com^
 ||origin-ads.optimizesrv.com^
@@ -920,6 +938,7 @@
 ||s.elnk90.com^
 ||s.elnk92.com^
 ||s.elnk93.com^
+||s.elnkp2.com^
 ||s.elnkp4.com^
 ||s.elnl2a.com^
 ||s.elnl2b.com^
@@ -980,14 +999,6 @@
 ||syndication.whibp.com^
 ||syndication0.exoclick.com^
 ||www.3227697.notify6.com^
+||www.3243082.notifysrv.com^
+||www.3466863.notify6.com^
 ||www.4152316.notify6.com^
-||a.adnflow.com^
-||a.asvsm.com^
-||a.bizonads-ssp.com^
-||a.etology.com^
-||a.santabrowser.com^
-||a.slice.exchange^
-||admin.ad.guru^
-||admin.adnation.com^
-||admin.adstuff.io^
-||admin.etology.com^

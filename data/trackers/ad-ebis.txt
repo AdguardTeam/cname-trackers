@@ -6,6 +6,7 @@
 ||ac-3.mix.tokyo^
 ||ac-ebis-stb.usen.com^
 ||ac-ebis-uhome.usen.com^
+||ac-ebis.otoraku.jp^
 ||ac-ebis.usen-pos.com^
 ||ac-ebis.usen-service.com^
 ||ac-ebis.usen-store.com^
@@ -80,6 +81,7 @@
 ||adebis.real-style.co.jp^
 ||adebis.report.clinic^
 ||adebis.reruju.com^
+||adebis.s-toushi.jp^
 ||adebis.saison-pocket.com^
 ||adebis.satori.marketing^
 ||adebis.sbishinseibank.co.jp^
@@ -171,6 +173,7 @@
 ||ebis.apo-mjob.com^
 ||ebis.as-1.co.jp^
 ||ebis.ayura.co.jp^
+||ebis.bbo.co.jp^
 ||ebis.belta.co.jp^
 ||ebis.biyo-job.com^
 ||ebis.bulk.co.jp^
@@ -223,7 +226,6 @@
 ||ebis.shabon.com^
 ||ebis.smakon.jp^
 ||ebis.studio-alice.co.jp^
-||ebis.studioindi-yokohama.com^
 ||ebis.studioindi.jp^
 ||ebis.sunstar-shop.jp^
 ||ebis.tokado.jp^
@@ -264,10 +266,12 @@
 ||maz.zba.jp^
 ||mcad.mods-clinic.com^
 ||mdm.hibinobi-mandom.jp^
+||mgn.ebis.xn--olsz5f0ufw02b.net^
 ||msr.p-antiaging.com^
 ||ncc.nip-col.jp^
 ||nlp-japan.life-and-mind.com^
 ||os.beauty-health.today^
+||p5mcwdbu.ginzo-buy.jp^
 ||partner.haru-shop.jp^
 ||rank.xn--cosme-5c4djcw662edgyc.com^
 ||sem.tkc-biyou.jp^

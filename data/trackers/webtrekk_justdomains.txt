@@ -47,6 +47,7 @@ a.intercityhotel.com
 a.jaz-hotel.com
 a.maxxhotel.com
 a.steigenberger.com
+a.thespa.steigenberger.com
 a.zleep.com
 abc.bayer04.de
 abc.fackelmann.de
@@ -99,12 +100,14 @@ di.ifolor.ch
 di.ifolor.com
 di.ifolor.de
 di.ifolor.dk
+di.ifolor.es
 di.ifolor.fi
 di.ifolor.fr
 di.ifolor.ie
 di.ifolor.it
 di.ifolor.lu
 di.ifolor.net
+di.ifolor.nl
 di.ifolor.se
 di.spreadmorelove.ch
 dnsbl.test.wbtrkk.teufel.de
@@ -145,6 +148,7 @@ img.foodspring.fr
 img.foodspring.hr
 img.foodspring.it
 img.foodspring.se
+img.sparkasse-koelnbonn.de
 info.klett-sprachen.de
 intelligence.officialwesthamstore.com
 is.lg.com
@@ -260,6 +264,7 @@ web.email.pmtonline.co.uk
 web.email.principality.co.uk
 web.email.superga.co.uk
 web.email.theindependentpharmacy.co.uk
+web.email.umbro.co.uk
 web.email.zone3.com
 web.emails.elc.co.uk
 web.emails.thetoyshop.com
@@ -349,6 +354,7 @@ wt.arabalears.cat
 wt.dialog-versicherung.de
 wt.envivas.de
 wt.generali.de
+wt.generalibewegtdeutschland.de
 wt.generalihealthsolutions.de
 wt.netze-bw.de
 wt.vhb.de

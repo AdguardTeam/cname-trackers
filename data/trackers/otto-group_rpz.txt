@@ -63,6 +63,7 @@ tp.quelle.at CNAME .
 tp.quelle.ch CNAME .
 tp.quelle.de CNAME .
 tp.sheego.de CNAME .
+tp.sieh-an.ch CNAME .
 tp.universal.at CNAME .
 tp.witt-international.cz CNAME .
 tp.witt-international.nl CNAME .

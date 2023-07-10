@@ -17,7 +17,6 @@
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 2107wrlgff5.development.taxmachine.be CNAME .
 21fhq0t574p.talentkit.io CNAME .
-22k1uh3ooima.kvest.ee CNAME .
 25ix8gm8ien.sandbox.panprices.com CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .
@@ -35,6 +34,7 @@
 771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 7hdl8dlfjm4g.www.cybernetman.com CNAME .
+7tztu83vyuak.piqnt.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9r0ptx5k38hk.hollowayremovals.com.au CNAME .
@@ -79,7 +79,6 @@ m4zoxtrcea1k.controlconceptsusa.com CNAME .
 m5yw219v6r.app.koinly.io CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
-mt2992299ubt.www.qeemat.com.pk CNAME .
 mteme7li1d6r.vertexmarketingagency.com CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
@@ -93,8 +92,10 @@ qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .
 qri2r94eeajr.innovationcast.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
+ri08v3d5rbix.kvest.ee CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
+sfqp4hi357f6.www.emanualonline.com CNAME .
 soahu1wnmt6l.www.replai.io CNAME .
 sr59t7wbx5.claricelin.com CNAME .
 sxwxswg8z1xe.www.arnowebtv.com CNAME .
@@ -116,5 +117,5 @@ x2l5lsn8rvsq.li.finance CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
 ysrrzgku6tar.us.themoneytizer.com CNAME .
-yxbh3a53nv.adaptive.marketing CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
+zvgci9yv5fkk.razuna.com CNAME .

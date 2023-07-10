@@ -20,6 +20,5 @@
 ||s4.parkeren-haarlem.nl^
 ||s4.parkeren-utrecht.nl^
 ||tdep.growwwdigital.com^
-||tdep.mijnurgentie.nl^
 ||tdep.sdim.nl^
 ||tdep.teamnijhuis.com^

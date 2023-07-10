@@ -138,8 +138,10 @@
 ||computerworld.tns-gallup.dk^
 ||costume.tns-gallup.dk^
 ||dagbladetholstebrostruer.tns-gallup.dk^
+||dagbladetringskjern.tns-gallup.dk^
 ||dbstruer-eavis.tns-gallup.dk^
 ||dgs.tns-gallup.dk^
+||digitalfoto.tns-gallup.dk^
 ||dmi.tns-gallup.dk^
 ||dplayiosstream.tns-gallup.dk^
 ||ssl-boxerandroidstream.tns-gallup.dk^
@@ -174,6 +176,7 @@
 ||finans.tns-gallup.dk^
 ||finanswatch.tns-gallup.dk^
 ||fodevarewatch.tns-gallup.dk^
+||folkebladetlemvig.tns-gallup.dk^
 ||folketidende.tns-gallup.dk^
 ||fyens.tns-gallup.dk^
 ||gaffa.tns-gallup.dk^
@@ -188,6 +191,7 @@
 ||in.tns-gallup.dk^
 ||information.tns-gallup.dk^
 ||ing.tns-gallup.dk^
+||isabellas.tns-gallup.dk^
 ||itjobindex.tns-gallup.dk^
 ||itwatch.tns-gallup.dk^
 ||jobbank.tns-gallup.dk^
@@ -195,6 +199,7 @@
 ||journalisten.tns-gallup.dk^
 ||jubii.tns-gallup.dk^
 ||juicyplay.tns-gallup.dk^
+||jv.tns-gallup.dk^
 ||komputer.tns-gallup.dk^
 ||krak.tns-gallup.dk^
 ||kristeligtdagblad.tns-gallup.dk^
@@ -219,6 +224,7 @@
 ||pleasure.tns-gallup.dk^
 ||politiken.tns-gallup.dk^
 ||pricerunner.tns-gallup.dk^
+||proff.tns-gallup.dk^
 ||realityportalen.tns-gallup.dk^
 ||rejseplanen.tns-gallup.dk^
 ||samvirke.tns-gallup.dk^

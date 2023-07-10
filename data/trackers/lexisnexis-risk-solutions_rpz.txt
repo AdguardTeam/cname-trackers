@@ -5,6 +5,7 @@ abc.pulsebet.com CNAME .
 acdc.toolineo.de CNAME .
 acsrt.cardnet-tds.com CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
+af.mobile.free.fr CNAME .
 analytics.amrcollection.com CNAME .
 analytics.applevacations.com CNAME .
 analytics.beachbound.com CNAME .
@@ -115,6 +116,7 @@ cfa.febtest.com CNAME .
 cfa.fidelity.com CNAME .
 cfa.mystreetscape.com CNAME .
 cfa.streetscape.com CNAME .
+cfaxdev2.fidelity.com CNAME .
 cfaxq.mystreetscape.com CNAME .
 cfaxq.streetscape.com CNAME .
 cfaxq1.fidelity.com CNAME .
@@ -176,6 +178,7 @@ content.citbankapp.cit.com CNAME .
 content.citizensbankonline.com CNAME .
 content.clubpremier.com CNAME .
 content.cofidis.pt CNAME .
+content.conapcg.com CNAME .
 content.connexion-mabanque.bnpparibas CNAME .
 content.consumercardaccess.com CNAME .
 content.ctfs.com CNAME .
@@ -197,6 +200,7 @@ content.ezbills.com CNAME .
 content.familyprepaiddebit.com CNAME .
 content.firstinterstatebank.com CNAME .
 content.fisglobal.com CNAME .
+content.floridarentals.com CNAME .
 content.frs.fl.gov CNAME .
 content.gap.com CNAME .
 content.gapfactory.com CNAME .
@@ -274,6 +278,7 @@ content.wizink.es CNAME .
 content1.esdiacapi.com CNAME .
 content1.reprisefinancial.com CNAME .
 content2.instacart.com CNAME .
+content2.paywerk.co CNAME .
 content21.snapfinance.com CNAME .
 content22.accountonline.com CNAME .
 content22.bancanet.banamex.com CNAME .
@@ -410,6 +415,7 @@ image.online.adp.com CNAME .
 images.applyfleet.com CNAME .
 images.essofleetoffers.com CNAME .
 images.exxonmobilfleetoffers.com CNAME .
+images.sheetzadvantage.com CNAME .
 images.sunocofleetcards.com CNAME .
 images.wexinc.com CNAME .
 imagesmx.cdiscountpro.com CNAME .
@@ -450,6 +456,7 @@ info.betway.bg CNAME .
 info.betway.co.za CNAME .
 info.betway.co.zm CNAME .
 info.betway.fr CNAME .
+info.betway.lat CNAME .
 intlsdpntrca.nitrocasino.ca CNAME .
 intm.amwager.com CNAME .
 invalid-qa2.threatmetrix.com CNAME .
@@ -557,6 +564,7 @@ prod-jfcudc.chaperone.lumindigitalhosting.com CNAME .
 prod-lafcuca.chaperone.lumindigitalhosting.com CNAME .
 prod-lfcuva.chaperone.lumindigitalhosting.com CNAME .
 prod-mscuct.chaperone.lumindigitalhosting.com CNAME .
+prod-njfcunj.chaperone.lumindigitalhosting.com CNAME .
 prod-northland.chaperone.lumindigitalhosting.com CNAME .
 prod-oneaz.chaperone.lumindigitalhosting.com CNAME .
 prod-pathways.chaperone.lumindigitalhosting.com CNAME .
@@ -654,6 +662,7 @@ secured.netflix.com CNAME .
 service.riverscontent.com CNAME .
 servicesdp.luckydays.ca CNAME .
 servicesdp.spinaway.ca CNAME .
+sfp.intuit.com CNAME .
 sg-payment.cydf.hoyoverse.com CNAME .
 shield.boostbusiness.my CNAME .
 sitehelper.myengageft.com CNAME .
@@ -669,6 +678,7 @@ static.bc-cdn.io CNAME .
 static.fairstone.ca CNAME .
 static.sb-cdn.io CNAME .
 static.yg-cdn.io CNAME .
+static2.gumtree.com.au CNAME .
 stats.badoostats.com CNAME .
 stats.dell.com CNAME .
 sub-a.crossmeetz.com CNAME .
@@ -768,6 +778,7 @@ tcontent.cdiscountmobile.cdiscount.com CNAME .
 tcontent.nrjmobile.fr CNAME .
 telem.highlow.com CNAME .
 telem.highlow.net CNAME .
+tfp.intuit.com CNAME .
 th.barclays.co.uk CNAME .
 thm.visa.com CNAME .
 thm12.visa.com CNAME .
@@ -801,6 +812,7 @@ tm.goldennuggetcasino.com CNAME .
 tm.gumtree.co.za CNAME .
 tm.gumtree.com.au CNAME .
 tm.kotak.com CNAME .
+tm.moneyhub.hrblock.com.au CNAME .
 tm.okinushub.com CNAME .
 tm.paysafecard.com CNAME .
 tm.production.eu1.tmfp.klarna.net CNAME .
@@ -812,6 +824,7 @@ tm.solidgate.com CNAME .
 tm.stats.fashionforhome.de CNAME .
 tm.stats.home24.at CNAME .
 tm.stats.home24.be CNAME .
+tm.stats.home24.ch CNAME .
 tm.stats.home24.de CNAME .
 tm.stats.home24.it CNAME .
 tm.stats.home24.nl CNAME .
@@ -885,6 +898,7 @@ venus.chegg.com CNAME .
 verification.ndtco.com CNAME .
 verify.metlife.com CNAME .
 verify.philippineairlines.com CNAME .
+vfp.intuit.com CNAME .
 vlscppe.microsoft.com CNAME .
 voto.credit24.com CNAME .
 voto.creditea.com CNAME .
@@ -901,6 +915,7 @@ w3.vectrabank.com CNAME .
 w3.zionsbank.com CNAME .
 webftm.rbc.com CNAME .
 webftm.sterbc.com CNAME .
+wfp.intuit.com CNAME .
 wildcard.humm.ie CNAME .
 wp.kroger.com CNAME .
 ww3.fundingstream.com CNAME .
@@ -909,5 +924,6 @@ ww3.peacsolutions.com CNAME .
 ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
 www7.raise.com CNAME .
+xfp.intuit.com CNAME .
 ydkwim.targobank.de CNAME .
 yr3ioxw.hoaresbank.co.uk CNAME .

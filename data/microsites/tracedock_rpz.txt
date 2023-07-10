@@ -20,6 +20,5 @@ s4.parkeren-amsterdam.com CNAME .
 s4.parkeren-haarlem.nl CNAME .
 s4.parkeren-utrecht.nl CNAME .
 tdep.growwwdigital.com CNAME .
-tdep.mijnurgentie.nl CNAME .
 tdep.sdim.nl CNAME .
 tdep.teamnijhuis.com CNAME .

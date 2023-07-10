@@ -20,6 +20,7 @@
     * tk-engie-com.wizaly.com
     * tk-etam-com.wizaly.com
     * tk-evaneos-fr.wizaly.com
+    * tk-frenchbee-com.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
     * tk-hypnia-fr.wizaly.com
     * tk-illicado-com.wizaly.com
@@ -56,7 +57,6 @@
     * tkairfrance.wizaly.com
     * tklolivierfr.wizaly.com
     * tkmsccruisescom.wizaly.com
-    * wiz-ghostbed-com.wizaly.com
     * wiz_mdhearingaid_com.wizaly.com
     * wiz_meilleurtaux_com.wizaly.com
     * wz-allianz-fr.wizaly.com
@@ -91,6 +91,7 @@
 | tk.evaneos.fr | tk-evaneos-fr.wizaly.com |
 | tk.evaneos.it | tk-evaneos-fr.wizaly.com |
 | tk.evaneos.nl | tk-evaneos-fr.wizaly.com |
+| tk.frenchbee.com | tk-frenchbee-com.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |
 | tk.hypnia.co.uk | tk-hypnia-fr.wizaly.com |
 | tk.hypnia.es | tk-hypnia-fr.wizaly.com |
@@ -140,6 +141,7 @@
 | tk.airfrance.am | tkairfrance.wizaly.com |
 | tk.airfrance.at | tkairfrance.wizaly.com |
 | tk.airfrance.be | tkairfrance.wizaly.com |
+| tk.airfrance.bf | tkairfrance.wizaly.com |
 | tk.airfrance.bg | tkairfrance.wizaly.com |
 | tk.airfrance.bj | tkairfrance.wizaly.com |
 | tk.airfrance.ca | tkairfrance.wizaly.com |
@@ -153,6 +155,7 @@
 | tk.airfrance.co.za | tkairfrance.wizaly.com |
 | tk.airfrance.cz | tkairfrance.wizaly.com |
 | tk.airfrance.de | tkairfrance.wizaly.com |
+| tk.airfrance.dj | tkairfrance.wizaly.com |
 | tk.airfrance.dk | tkairfrance.wizaly.com |
 | tk.airfrance.fi | tkairfrance.wizaly.com |
 | tk.airfrance.fr | tkairfrance.wizaly.com |
@@ -168,7 +171,9 @@
 | tk.airfrance.mg | tkairfrance.wizaly.com |
 | tk.airfrance.mq | tkairfrance.wizaly.com |
 | tk.airfrance.mu | tkairfrance.wizaly.com |
+| tk.airfrance.my | tkairfrance.wizaly.com |
 | tk.airfrance.ng | tkairfrance.wizaly.com |
+| tk.airfrance.nl | tkairfrance.wizaly.com |
 | tk.airfrance.pa | tkairfrance.wizaly.com |
 | tk.airfrance.pf | tkairfrance.wizaly.com |
 | tk.airfrance.pl | tkairfrance.wizaly.com |
@@ -187,7 +192,6 @@
 | tk.klm.com | tkairfrance.wizaly.com |
 | tk.lolivier.fr | tklolivierfr.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |
-| wiz.ghostbed.com | wiz-ghostbed-com.wizaly.com |
 | wiz.empowerhearing.com | wiz_mdhearingaid_com.wizaly.com |
 | t.wiz.meilleurtaux.com | wiz_meilleurtaux_com.wizaly.com |
 | wz.allianz.fr | wz-allianz-fr.wizaly.com |

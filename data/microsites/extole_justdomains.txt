@@ -10,15 +10,12 @@ friends.keurig.com
 ilove.volusion.com
 indique.phooto.com.br
 invite.toughmudder.com
-r.gamerewind.nfl.com
-r.preseason.nfl.com
 refer.aaas.org
 refer.accountants.intuit.com
 refer.ahsfriends.com
 refer.american-giant.com
 refer.americanexpress.com
 refer.ancestry.com
-refer.aol.com
 refer.app.com
 refer.backcountry.com
 refer.barenecessities.com
@@ -31,6 +28,7 @@ refer.carbonite.com
 refer.checkngo.com
 refer.citizen-times.com
 refer.clarionledger.com
+refer.clarisonic.com
 refer.clearme.com
 refer.compexusa.com
 refer.criquetshirts.com
@@ -40,6 +38,7 @@ refer.divvybikes.com
 refer.dna.ancestry.co.uk
 refer.dna.ancestry.com
 refer.dnj.com
+refer.fivestars.com
 refer.framesdirect.com
 refer.freshly.com
 refer.fuzebox.com
@@ -50,6 +49,7 @@ refer.gotowebinar.com
 refer.greenvilleonline.com
 refer.hannaandersson.com
 refer.harimari.com
+refer.hattiesburgamerican.com
 refer.healthypawspetinsurance.com
 refer.icracked.com
 refer.integrativenutrition.com
@@ -70,6 +70,7 @@ refer.ofx.com
 refer.ooma.com
 refer.opensky.com
 refer.orientaltrading.com
+refer.ozforex.com.au
 refer.pageonce.com
 refer.paramountsolar.com
 refer.payroll.intuit.com
@@ -89,6 +90,7 @@ refer.theleafchronicle.com
 refer.timberland.com
 refer.transfast.com
 refer.turbotax.intuit.com
+refer.ukforex.co.uk
 refer.ulta.com
 refer.unionplus.org
 refer.urbandaddy.com
@@ -96,14 +98,13 @@ refer.usforex.com
 refer.vantagetravel.com
 refer.verabradley.com
 refer.volcom.com
+refer.vonage.ca
 refer.vonage.com
 refer.wgu.edu
 refer.xoom.com
 refer.yankeecandle.com
 referral.hostgator.com
 referral.vistaprint.com
-s.audiopass.nfl.com
-s.gamepass.nfl.com
 share.aeropostale.com
 share.indochino.com
 share.na.sage.com
@@ -120,6 +121,8 @@ www.trevoce.com
 amp.bfr.com
 demo.extole.com
 earn-and-refer.extoleu.com
+em4367.raf-studentloans.discover.com
+em8561.go2bank.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -196,10 +199,12 @@ refer.colemancanada.ca
 refer.comfortzoneskin.com
 refer.competitivecyclist.com
 refer.contiki.com
+refer.copperandcrane.com
 refer.creativelive.com
 refer.crocs.com
 refer.cspire.com
 refer.darphin.com
+refer.dreamlawn.com
 refer.ea.com
 refer.ecoterrabeds.com
 refer.embracepetinsurance.com
@@ -270,6 +275,7 @@ refer.lightstream.com
 refer.littlepassports.com
 refer.loomandleaf.com
 refer.lull.com
+refer.lumenoptical.com
 refer.madison-reed.com
 refer.marinerfinance.com
 refer.martinsfoods.com
@@ -312,6 +318,7 @@ refer.reliasacademy.com
 refer.rileyrose.com
 refer.rockport.com
 refer.rodo.com
+refer.ryka.com
 refer.saatva.com
 refer.saatvadreams.com
 refer.saatvamattress.com
@@ -333,6 +340,7 @@ refer.starfurniture.com
 refer.steelseries.com
 refer.stopandshop.com
 refer.striderite.com
+refer.studentuniverse.co.uk
 refer.studentuniverse.com
 refer.studentuniverse.com.au
 refer.sugarandjade.com
@@ -378,6 +386,7 @@ refer1.dollskill.com
 refer1.experian.com
 referacct.quickbooks.intuit.co.uk
 referafriend.discover.com
+referavet.petco.com
 referral.cledepeaubeaute.com
 referral.shiseido.com
 referrals.visionsfcu.org
@@ -403,6 +412,7 @@ share.asics.com
 share.atlasbars.com
 share.aveda.com.au
 share.azcentral.com
+share.basepaws.com
 share.battlecreekenquirer.com
 share.beaspermdonor.com
 share.biblejourney.com
@@ -418,6 +428,7 @@ share.bountyhunterwine.com
 share.brava.com
 share.brunettethelabel.com
 share.buttahskin.com
+share.bvwines.com
 share.caller.com
 share.calvinklein.us
 share.carparts.com
@@ -437,7 +448,6 @@ share.cwbank.com
 share.dailypay.com
 share.dave.com
 share.delawareonline.com
-share.dermablend.com
 share.desertfinancial.com
 share.detroitnews.com
 share.discountschoolsupply.com
@@ -480,6 +490,7 @@ share.independentmail.com
 share.inspirecleanenergy.com
 share.installamerica.com
 share.iteach.net
+share.jhfcu.org
 share.juicepress.com
 share.juvlabs.com
 share.key.com
@@ -546,6 +557,7 @@ share.ross-simons.com
 share.rspure.com
 share.rvshare.com
 share.s4.levi-site.com
+share.safecu.org
 share.saintjanebeauty.com
 share.securityplusfcu.org
 share.shoplc.com
@@ -598,5 +610,5 @@ share.zebit.com
 share.zenbusiness.com
 www.referquickbooks.com
 em1476.princesscruises.com
-em8561.go2bank.com
+refer.aol.com
 sftp.extole.com

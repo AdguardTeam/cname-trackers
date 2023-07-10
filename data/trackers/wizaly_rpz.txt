@@ -9,6 +9,7 @@ tk.airfrance.ae CNAME .
 tk.airfrance.am CNAME .
 tk.airfrance.at CNAME .
 tk.airfrance.be CNAME .
+tk.airfrance.bf CNAME .
 tk.airfrance.bg CNAME .
 tk.airfrance.bj CNAME .
 tk.airfrance.ca CNAME .
@@ -22,6 +23,7 @@ tk.airfrance.co.uk CNAME .
 tk.airfrance.co.za CNAME .
 tk.airfrance.cz CNAME .
 tk.airfrance.de CNAME .
+tk.airfrance.dj CNAME .
 tk.airfrance.dk CNAME .
 tk.airfrance.fi CNAME .
 tk.airfrance.fr CNAME .
@@ -37,7 +39,9 @@ tk.airfrance.ma CNAME .
 tk.airfrance.mg CNAME .
 tk.airfrance.mq CNAME .
 tk.airfrance.mu CNAME .
+tk.airfrance.my CNAME .
 tk.airfrance.ng CNAME .
+tk.airfrance.nl CNAME .
 tk.airfrance.pa CNAME .
 tk.airfrance.pf CNAME .
 tk.airfrance.pl CNAME .
@@ -70,6 +74,7 @@ tk.evaneos.es CNAME .
 tk.evaneos.fr CNAME .
 tk.evaneos.it CNAME .
 tk.evaneos.nl CNAME .
+tk.frenchbee.com CNAME .
 tk.healthwarehouse.com CNAME .
 tk.hypnia.co.uk CNAME .
 tk.hypnia.es CNAME .
@@ -123,6 +128,5 @@ tv-test.esvdigital.com CNAME .
 twiz.wizaly.co.uk CNAME .
 twiz.wizaly.fr CNAME .
 wiz.empowerhearing.com CNAME .
-wiz.ghostbed.com CNAME .
 wiz.sncf-connect.com CNAME .
 wz.allianz.fr CNAME .

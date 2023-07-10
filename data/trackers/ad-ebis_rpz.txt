@@ -6,6 +6,7 @@ aaaa.nocor.jp CNAME .
 ac-3.mix.tokyo CNAME .
 ac-ebis-stb.usen.com CNAME .
 ac-ebis-uhome.usen.com CNAME .
+ac-ebis.otoraku.jp CNAME .
 ac-ebis.usen-pos.com CNAME .
 ac-ebis.usen-service.com CNAME .
 ac-ebis.usen-store.com CNAME .
@@ -80,6 +81,7 @@ adebis.qeee.jp CNAME .
 adebis.real-style.co.jp CNAME .
 adebis.report.clinic CNAME .
 adebis.reruju.com CNAME .
+adebis.s-toushi.jp CNAME .
 adebis.saison-pocket.com CNAME .
 adebis.satori.marketing CNAME .
 adebis.sbishinseibank.co.jp CNAME .
@@ -171,6 +173,7 @@ ebis.aibashiro.jp CNAME .
 ebis.apo-mjob.com CNAME .
 ebis.as-1.co.jp CNAME .
 ebis.ayura.co.jp CNAME .
+ebis.bbo.co.jp CNAME .
 ebis.belta.co.jp CNAME .
 ebis.biyo-job.com CNAME .
 ebis.bulk.co.jp CNAME .
@@ -223,7 +226,6 @@ ebis.sekisuihouse.com CNAME .
 ebis.shabon.com CNAME .
 ebis.smakon.jp CNAME .
 ebis.studio-alice.co.jp CNAME .
-ebis.studioindi-yokohama.com CNAME .
 ebis.studioindi.jp CNAME .
 ebis.sunstar-shop.jp CNAME .
 ebis.tokado.jp CNAME .
@@ -264,10 +266,12 @@ matsubun.matsubun.com CNAME .
 maz.zba.jp CNAME .
 mcad.mods-clinic.com CNAME .
 mdm.hibinobi-mandom.jp CNAME .
+mgn.ebis.xn--olsz5f0ufw02b.net CNAME .
 msr.p-antiaging.com CNAME .
 ncc.nip-col.jp CNAME .
 nlp-japan.life-and-mind.com CNAME .
 os.beauty-health.today CNAME .
+p5mcwdbu.ginzo-buy.jp CNAME .
 partner.haru-shop.jp CNAME .
 rank.xn--cosme-5c4djcw662edgyc.com CNAME .
 sem.tkc-biyou.jp CNAME .

@@ -29,6 +29,7 @@ bk.clinkedsphecid.com CNAME .
 bl.delbertgobans.com CNAME .
 bl.noonishkahala.com CNAME .
 bm.chileslatrede.com CNAME .
+bm.mellsrecta.com CNAME .
 bm.shamosmatic.com CNAME .
 bu.sectistfrow.com CNAME .
 bx.khedivaormond.com CNAME .
@@ -43,6 +44,7 @@ cq.stoundisocrat.com CNAME .
 cs.cowmankai.com CNAME .
 ct.eanlingtumfie.com CNAME .
 cu.fullssmirker.com CNAME .
+cz.peatmenwhatsis.com CNAME .
 db.relandsnouts.com CNAME .
 dc.swartlybeebee.com CNAME .
 dd.zillahhayers.com CNAME .
@@ -51,6 +53,7 @@ dg.folksychapes.com CNAME .
 di.allonymgranula.com CNAME .
 dl.fatimacapos.com CNAME .
 dl.reqdleucine.com CNAME .
+dm.samitesetulae.com CNAME .
 do.chimblyconyger.com CNAME .
 do.felidaeabasing.com CNAME .
 dt.gregauunaided.com CNAME .
@@ -180,11 +183,14 @@ np.brackenclomped.com CNAME .
 np.incrustkantela.com CNAME .
 nr.celaenomash.com CNAME .
 ns.gyreneverist.com CNAME .
+oa.frowllutetia.com CNAME .
+oa.kettlewharves.com CNAME .
 oa.skancehobo.com CNAME .
 ob.freyrclogs.com CNAME .
 og.cejainlike.com CNAME .
 oj.daunnotes.com CNAME .
 ok.ribworkstylus.com CNAME .
+ol.dundeesmemo.com CNAME .
 on.culverscoping.com CNAME .
 or.alpieutieboy.com CNAME .
 ot.myotomyarkab.com CNAME .
@@ -270,6 +276,7 @@ um.sullageprancy.com CNAME .
 un.clobberkiliare.com CNAME .
 un.ginnleunshift.com CNAME .
 uo.tubaronunheler.com CNAME .
+uq.cavuredears.com CNAME .
 ur.meteredrato.com CNAME .
 ur.olivetkneel.com CNAME .
 us.aghaneefigurae.com CNAME .

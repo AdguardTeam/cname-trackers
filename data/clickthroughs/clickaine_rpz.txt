@@ -3,12 +3,14 @@
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
 ad1.xero.porn CNAME .
+anti.69vclub.com CNAME .
 api.hugemedia.cz CNAME .
 api.kekw.website CNAME .
 api.kekw.world CNAME .
 api.rtnews.pro CNAME .
 api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
+asg.erotikflix.com CNAME .
 asg.javhoho.com CNAME .
 asg.torocomoroco.work CNAME .
 asg.uzporn.com CNAME .
@@ -97,6 +99,3 @@ xd3r.javgg.eu CNAME .
 xxx.arabsex1.com CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .
-api.willalland.info CNAME .
-app.willalland.info CNAME .
-ww1.willalland.info CNAME .

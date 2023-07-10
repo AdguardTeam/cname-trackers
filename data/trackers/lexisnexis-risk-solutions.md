@@ -59,6 +59,7 @@
     * h-7hs48cp7.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
     * h-7ij9mii1.online-metrix.net
+    * h-7lw52x9e.online-metrix.net
     * h-7npzzdc5.online-metrix.net
     * h-7nwhwds3.online-metrix.net
     * h-7prfpfvh.online-metrix.net
@@ -106,6 +107,7 @@
     * h-analytics.triseptsolutions.online-metrix.net
     * h-anfd5tjw-2.online-metrix.net
     * h-anfd5tjw-3.online-metrix.net
+    * h-anofdct2-hr.online-metrix.net
     * h-anzonlineapps.online-metrix.net
     * h-api-sb.online-metrix.net
     * h-apruvd.online-metrix.net
@@ -193,6 +195,7 @@
     * h-certifid.online-metrix.net
     * h-ceurt9zj.online-metrix.net
     * h-cgfjrfto.online-metrix.net
+    * h-cgvf1sqx.online-metrix.net
     * h-charter.online-metrix.net
     * h-chase.online-metrix.net
     * h-chegg.online-metrix.net
@@ -311,6 +314,7 @@
     * h-firstinterstatebank.online-metrix.net
     * h-fisglobal.online-metrix.net
     * h-floridadms.online-metrix.net
+    * h-floridarentals.online-metrix.net
     * h-fortenet.online-metrix.net
     * h-fortunejack.online-metrix.net
     * h-franklintempleton.online-metrix.net
@@ -591,6 +595,11 @@
     * h-uship.online-metrix.net
     * h-usps.online-metrix.net
     * h-v60nf4oj-pfp.online-metrix.net
+    * h-v60nf4oj-sfp.online-metrix.net
+    * h-v60nf4oj-tfp.online-metrix.net
+    * h-v60nf4oj-vfp.online-metrix.net
+    * h-v60nf4oj-wfp.online-metrix.net
+    * h-v60nf4oj-xfp.online-metrix.net
     * h-vacations.united.online-metrix.net
     * h-valcontent.online-metrix.net
     * h-vedacheck.online-metrix.net
@@ -667,6 +676,7 @@
 | prod-lafcuca.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-lfcuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-mscuct.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-njfcunj.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-northland.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-oneaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-pathways.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -745,6 +755,7 @@
 | content.rubyfortune.ca | h-7ij9mii1-a.online-metrix.net |
 | content.spincasino.ca | h-7ij9mii1-a.online-metrix.net |
 | de9c635aa0404558bd527220ef4e6b4b.betway.ca | h-7ij9mii1.online-metrix.net |
+| af.mobile.free.fr | h-7lw52x9e.online-metrix.net |
 | dol-reemployme-js01.maine.gov | h-7npzzdc5.online-metrix.net |
 | telem.highlow.com | h-7nwhwds3.online-metrix.net |
 | rt.wisecartapp.com | h-7prfpfvh.online-metrix.net |
@@ -753,6 +764,7 @@
 | info.betway.co.za | h-7v30y901.online-metrix.net |
 | info.betway.co.zm | h-7v30y901.online-metrix.net |
 | info.betway.fr | h-7v30y901.online-metrix.net |
+| info.betway.lat | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
 | sec.mypage.ocn.ne.jp | h-7yh412tv.online-metrix.net |
 | cnt.didiglobal.com | h-859g1sil.online-metrix.net |
@@ -813,6 +825,7 @@
 | static.sb-cdn.io | h-anfd5tjw-2.online-metrix.net |
 | static.bc-cdn.io | h-anfd5tjw-3.online-metrix.net |
 | static.yg-cdn.io | h-anfd5tjw-3.online-metrix.net |
+| tm.moneyhub.hrblock.com.au | h-anofdct2-hr.online-metrix.net |
 | onlineapplications.anz.com | h-anzonlineapps.online-metrix.net |
 | cdn3.moneycorp.com | h-api-sb.online-metrix.net |
 | content.apruvd.com | h-apruvd.online-metrix.net |
@@ -922,6 +935,7 @@
 | content.certifid.com | h-certifid.online-metrix.net |
 | device.invoice2go.com | h-ceurt9zj.online-metrix.net |
 | content.nebraska.gov | h-cgfjrfto.online-metrix.net |
+| content2.paywerk.co | h-cgvf1sqx.online-metrix.net |
 | pov.spectrum.net | h-charter.online-metrix.net |
 | h.chase.co.uk | h-chase.online-metrix.net |
 | venus.chegg.com | h-chegg.online-metrix.net |
@@ -1056,6 +1070,7 @@
 | cfa.fidelity.com | h-fidelity.online-metrix.net |
 | cfa.mystreetscape.com | h-fidelity.online-metrix.net |
 | cfa.streetscape.com | h-fidelity.online-metrix.net |
+| cfaxdev2.fidelity.com | h-fidelity.online-metrix.net |
 | cfaxq.mystreetscape.com | h-fidelity.online-metrix.net |
 | cfaxq.streetscape.com | h-fidelity.online-metrix.net |
 | cfaxq1.fidelity.com | h-fidelity.online-metrix.net |
@@ -1065,6 +1080,7 @@
 | content.firstinterstatebank.com | h-firstinterstatebank.online-metrix.net |
 | content.billdomain.com | h-fisglobal.online-metrix.net |
 | content.billsupport.com | h-fisglobal.online-metrix.net |
+| content.conapcg.com | h-fisglobal.online-metrix.net |
 | content.consumercardaccess.com | h-fisglobal.online-metrix.net |
 | content.ebanking-services.com | h-fisglobal.online-metrix.net |
 | content.ezbills.com | h-fisglobal.online-metrix.net |
@@ -1078,6 +1094,7 @@
 | content.solutions-corporate.com | h-fisglobal.online-metrix.net |
 | offtest.fnfis.com | h-fisglobal.online-metrix.net |
 | content.frs.fl.gov | h-floridadms.online-metrix.net |
+| content.floridarentals.com | h-floridarentals.online-metrix.net |
 | img3.forte.net | h-fortenet.online-metrix.net |
 | img.fortunejack.com | h-fortunejack.online-metrix.net |
 | pages.fiduciarytrust.com | h-franklintempleton.online-metrix.net |
@@ -1111,6 +1128,7 @@
 | v.marcus.com | h-goldmansachs2.online-metrix.net |
 | df.greenmangaming.com | h-greenmangaming.online-metrix.net |
 | cstm.gumtree.com | h-gumtree.online-metrix.net |
+| static2.gumtree.com.au | h-gumtree.online-metrix.net |
 | tm.gumtree.com.au | h-gumtree1.online-metrix.net |
 | tm.gumtree.co.za | h-gumtree2.online-metrix.net |
 | cdn.gusto.com | h-gusto.online-metrix.net |
@@ -1127,6 +1145,7 @@
 | tm.stats.fashionforhome.de | h-home24.online-metrix.net |
 | tm.stats.home24.at | h-home24.online-metrix.net |
 | tm.stats.home24.be | h-home24.online-metrix.net |
+| tm.stats.home24.ch | h-home24.online-metrix.net |
 | tm.stats.home24.de | h-home24.online-metrix.net |
 | tm.stats.home24.it | h-home24.online-metrix.net |
 | tm.stats.home24.nl | h-home24.online-metrix.net |
@@ -1478,6 +1497,11 @@
 | tm.uship.com | h-uship.online-metrix.net |
 | content.usps.com | h-usps.online-metrix.net |
 | pfp.intuit.com | h-v60nf4oj-pfp.online-metrix.net |
+| sfp.intuit.com | h-v60nf4oj-sfp.online-metrix.net |
+| tfp.intuit.com | h-v60nf4oj-tfp.online-metrix.net |
+| vfp.intuit.com | h-v60nf4oj-vfp.online-metrix.net |
+| wfp.intuit.com | h-v60nf4oj-wfp.online-metrix.net |
+| xfp.intuit.com | h-v60nf4oj-xfp.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | ualaki-analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | valcontent.securustech.net | h-valcontent.online-metrix.net |
@@ -1515,6 +1539,7 @@
 | images.applyfleet.com | h-wrightexpress.online-metrix.net |
 | images.essofleetoffers.com | h-wrightexpress.online-metrix.net |
 | images.exxonmobilfleetoffers.com | h-wrightexpress.online-metrix.net |
+| images.sheetzadvantage.com | h-wrightexpress.online-metrix.net |
 | images.sunocofleetcards.com | h-wrightexpress.online-metrix.net |
 | images.wexinc.com | h-wrightexpress.online-metrix.net |
 | tmx.efsllc.com | h-wrightexpress.online-metrix.net |
