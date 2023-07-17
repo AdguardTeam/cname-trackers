@@ -288,7 +288,6 @@
 ||coyote.gnx.cloud^
 ||coyote.hopr.swiss^
 ||coyote.nickgurney.com^
-||coyote.titlerun.xyz^
 ||coyote.txet.ch^
 ||crab.dunkeldbutchers.co.uk^
 ||crab.goalcanvas.com^
@@ -581,6 +580,7 @@
 ||ladybug.ethanprintz.com^
 ||ladybug.paulstovell.com^
 ||lamprey.carolcassar.com^
+||lamprey.seagyndavis.com^
 ||landfowl.typegang.com^
 ||landsnail.bindle.io^
 ||landsnail.brownfield.dev^
@@ -705,7 +705,6 @@
 ||ocelot.goinpaces.com^
 ||ocelot.pixlwebs.nl^
 ||ocelot.sonicumonitoring.com^
-||octopus.couragetrainingcentre.com^
 ||octopus.evobend.com^
 ||octopus.hans-hornberger.de^
 ||opossum.roleup.com^
@@ -973,6 +972,7 @@
 ||trout.travelmassive.com^
 ||trout.unicornplatform.com^
 ||tuna.peterfarms.com^
+||turkey.codeness.io^
 ||turkey.docsy.cloud^
 ||turkey.tella.tv^
 ||turtle.geshem.space^
@@ -989,6 +989,7 @@
 ||vampirebat.tinamrak.com^
 ||vicuna.callisoma.com^
 ||vicuna.casa-moebel.at^
+||vicuna.fortbinary.com^
 ||vicuna.joblicant.de^
 ||vicuna.mybestproducts.net^
 ||vicuna.redwoodcity.bike^
@@ -1071,7 +1072,6 @@
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^
 ||dntcl.qualaroo.com^
-||egybest.7all.net^
 ||live-tag.creatopy.net^
 ||log.ads-m.net^
 ||media.adstatic.com^

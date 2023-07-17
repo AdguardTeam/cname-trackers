@@ -60,7 +60,6 @@
 ||affil.seminarkyza1.cz^
 ||affil.sexshop1.cz^
 ||affil.simplysomavedic.cz^
-||affil.skolaobjemu.eu^
 ||affil.snadnejsizivot.cz^
 ||affil.somavedic.cz^
 ||affil.sportinator.cz^
@@ -382,6 +381,7 @@
 ||my.weplaybasketball.sk^
 ||my.weplayhandball.bg^
 ||my.weplayhandball.cz^
+||my.weplayhandball.eu^
 ||my.weplayhandball.gr^
 ||my.weplayhandball.hu^
 ||my.weplayhandball.ro^
@@ -498,7 +498,6 @@
 ||partner.granule-eshop.cz^
 ||partner.gurufinance.cz^
 ||partner.hanamoneam.com^
-||partner.hegesztok-bolt.hu^
 ||partner.hemptor.cz^
 ||partner.hodinarstvi.cz^
 ||partner.hoska-tour.cz^

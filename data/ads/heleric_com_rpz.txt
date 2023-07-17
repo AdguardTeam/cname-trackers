@@ -31,6 +31,7 @@ bl.noonishkahala.com CNAME .
 bm.chileslatrede.com CNAME .
 bm.mellsrecta.com CNAME .
 bm.shamosmatic.com CNAME .
+bq.hammaidreswill.com CNAME .
 bu.sectistfrow.com CNAME .
 bx.khedivaormond.com CNAME .
 by.ballinghelonin.com CNAME .
@@ -88,6 +89,7 @@ fs.velellabudded.com CNAME .
 fx.muntiglesia.com CNAME .
 fy.uncheckluggies.com CNAME .
 ga.asseizeenl.com CNAME .
+gf.goreplacers.com CNAME .
 gg.warmanmamelon.com CNAME .
 gi.okapisail.com CNAME .
 gn.afootwitword.com CNAME .

@@ -43,7 +43,6 @@
     * yello-de01.webtrekk.net
 * wt-eu02.net
     * 101230059950694.wt-eu02.net
-    * 107006243521810.wt-eu02.net
     * 117490221505998.wt-eu02.net
     * 125611812418194.wt-eu02.net
     * 145003564476173.wt-eu02.net
@@ -83,7 +82,6 @@
     * 367171131378433.wt-eu02.net
     * 368068733707725.wt-eu02.net
     * 368352020330673.wt-eu02.net
-    * 371033713452477.wt-eu02.net
     * 378118469332445.wt-eu02.net
     * 390993738581837.wt-eu02.net
     * 412666916963576.wt-eu02.net
@@ -192,8 +190,8 @@
     * mytoys02.wt-eu02.net
     * netze-bw01.wt-eu02.net
     * obi-all.wt-eu02.net
-    * pepephonelive01.wt-eu02.net
     * prosiebensat1puls4.wt-eu02.net
+    * schleich-trail001.wt-eu02.net
     * sdkurier-de01.wt-eu02.net
     * sparda01.wt-eu02.net
     * sportscheckde01.wt-eu02.net
@@ -201,7 +199,6 @@
     * tr.computeruniverse.wt-eu02.net
     * tweakersnl01.wt-eu02.net
     * unioninvestment-de01.wt-eu02.net
-    * vhb-01.wt-eu02.net
     * volksfreund01.wt-eu02.net
     * wa-wdr.wt-eu02.net
     * welt-01.wt-eu02.net
@@ -218,7 +215,6 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | web.news.creedfragrances.co.uk | 101230059950694.wt-eu02.net |
-| web.emails.elc.co.uk | 107006243521810.wt-eu02.net |
 | mit.deutschewealth.com | 117490221505998.wt-eu02.net |
 | intelligence.officialwesthamstore.com | 125611812418194.wt-eu02.net |
 | mapp.ewm.co.uk | 145003564476173.wt-eu02.net |
@@ -293,7 +289,6 @@
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |
 | da.bodenhaus.de | 368068733707725.wt-eu02.net |
 | web.ideaautorepair.com | 368352020330673.wt-eu02.net |
-| web.emails.thetoyshop.com | 371033713452477.wt-eu02.net |
 | web.newsletter.koffer-to-go.de | 378118469332445.wt-eu02.net |
 | website-usage.b2bendix.com | 390993738581837.wt-eu02.net |
 | mff.messefrankfurt.com | 412666916963576.wt-eu02.net |
@@ -549,8 +544,8 @@
 | ot.obi.si | obi-all.wt-eu02.net |
 | ot.obi.sk | obi-all.wt-eu02.net |
 | ot.obi.com | obi-com01.webtrekk.net |
-| data.pepephone.com | pepephonelive01.wt-eu02.net |
 | hbbtv-track.prosiebensat1puls4.com | prosiebensat1puls4.wt-eu02.net |
+| trail-001.schleich-s.com | schleich-trail001.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |
 | proditor.sparda.de | sparda01.wt-eu02.net |
 | wetr.sportscheck.at | sportscheckde01.wt-eu02.net |
@@ -571,7 +566,6 @@
 | tr.computeruniverse.net | tr.computeruniverse.wt-eu02.net |
 | cijfers.tweakers.nl | tweakersnl01.wt-eu02.net |
 | daten.union-investment.de | unioninvestment-de01.wt-eu02.net |
-| wt.vhb.de | vhb-01.wt-eu02.net |
 | data.volksfreund.de | volksfreund01.wt-eu02.net |
 | wa.planet-wissen.de | wa-wdr.wt-eu02.net |
 | wa.quarks.de | wa-wdr.wt-eu02.net |

@@ -125,6 +125,7 @@ ablink.m.sofi.org
 ablink.ma.linktr.ee
 ablink.mail.activearcade.ai
 ablink.mail.adobespark.com
+ablink.mail.flipfit.com
 ablink.mail.grailed.com
 ablink.mail.homecourt.ai
 ablink.mail.parkmobile.io
@@ -352,6 +353,7 @@ ct.irl.com
 ctd.drivescore.com
 ddlbr.timesclub.co
 debug-inform.liilix.com
+deeplink.alpha.aspiration.com
 deeplink.aspiration.com
 deeplink.instacartemail.com
 deeplinks.padmapper.com
@@ -390,9 +392,9 @@ email-iterable.branch.rocks
 email-klaviyo.branch.rocks
 email-link.mg-staging.surkus.com
 email-link.mg.surkus.com
+email-mandrill.id90travel.com
 email-sailthru.branch.io
 email-selligent.branch.rocks
-email-sendgrid-deep-linking.chewy.com
 email-sp.branch.rocks
 email-staging.goodrx.com
 email-test.wirexapp.com
@@ -440,9 +442,11 @@ email.mg.everyonesocial.com
 email.mg.repuzzlic.com
 email.msg.navyfederal.org
 email.msg.workday.com
+email.mypopshop.app
 email.pac-12.com
 email.pray.com
 email.qa.member.theknot.com
+email.reflectlyapp.com
 email.rentomojo.in
 email.rentomojo.org
 email.rentomojomailer.com
@@ -682,6 +686,7 @@ mx.carfax.com
 notice.hoopladigital.com
 notify.pray.com
 pbm-email.rightwayhealthcare.com
+play.staging.underdogfantasy.com
 promo.tops.co.th
 px.pandora.com
 pxsg.pandora.com
@@ -743,6 +748,7 @@ trk.geico.com
 trk.m1.stadiumgoods.com
 trk.s.sephora.com
 trk.send.safestyle.com.au
+trk.shoppremiumoutlets.com
 trk.squeezemassage.com
 trk.underarmour.com
 trk.us.underarmour.com
@@ -798,7 +804,6 @@ a-t.topya.com
 a.a23.in
 a.ballst.co
 a.careangel.com
-a.dailynumber.app
 a.foxs.pt
 a.getemoji.me
 a.ifit.io
@@ -859,6 +864,7 @@ app-dev.onyx.fit
 app-dev.stressbuoy.com
 app-dev.unserdormagen.de
 app-jp.getmiles.com
+app-link-test.bettorsportsnetwork.com
 app-link-test.inkl.com
 app-link.funfull.com
 app-link.inkl.com
@@ -894,9 +900,9 @@ app.albrt.co
 app.allyos.com
 app.almosafer.com
 app.almutawapharmacies.com
-app.ammanmart.com
 app.anch.co
 app.aquaservice.com
+app.areyouin.io
 app.atlasmission.com
 app.audibene.de
 app.auge.pro.br
@@ -1074,7 +1080,6 @@ app.kumu.ph
 app.lark.com
 app.latrobehealth.com.au
 app.lawnlove.com
-app.levels.one
 app.levi.com
 app.libre.org
 app.link.livibank.com
@@ -1350,7 +1355,6 @@ artpainting.indonesiya.com
 asian.hasdukmerahputih.com
 ask.wearelistening.co.nz
 assistant.dg1.com
-astage.dailynumber.app
 atb.mlb.com
 athlete.uninterrupted.com
 atlantablackstar.black.news
@@ -1365,7 +1369,6 @@ b.ewd.io
 b.getmaintainx.com
 b.gett.com
 b.home.com.au
-b.hooch.co
 b.pickme.lk
 b.pscp.live
 b.sharechat.com
@@ -1415,6 +1418,7 @@ blackdagger.openapp.link
 blackenterprise.black.news
 blackjack.abzorbagames.com
 blavity.black.news
+blink.checkworkrights.com.au
 blinks.outcomes4me.com
 bn.coupocket.com
 bnc-papago.naver.com
@@ -1442,7 +1446,6 @@ botb.rtl2.de
 bp.mlb.com
 br.inhaabit.com
 br.kent.co.in
-br.movo.cash
 br.sprbl.st
 bractivacar.eccocar.com
 brainlands.stonefalcon.com
@@ -1796,7 +1799,6 @@ drive.carpoollogistics.com
 drive.waitrapp.com
 driver.jugnoo.in
 driver.promo.gogo.org.ua
-dx.flmxxx.me
 e.vcty.co
 e035.pandasuite.io
 e403.pandasuite.io
@@ -1896,6 +1898,7 @@ get.homemealdeal.com
 get.howdy.co
 get.hugoapp.com
 get.ingomoney.com
+get.jan.ai
 get.jaranda.kr
 get.loanzify.com
 get.lookout.com
@@ -1956,11 +1959,14 @@ get.vero.co
 get.vida.co
 get.videokits.com
 get.viggo.com
+get.viggo.energy
+get.watchcat.app
 get.wawa.games
 get.wysa.uk
 get.yomobile.com
 get.yugengamers.com
 getapp.beyondmenu.com
+getapp.eltiempo.es
 getapp.joinleaf.com
 getapp.marinemax.com
 getapp.myhappyforce.com
@@ -1980,7 +1986,6 @@ go-test.wondavr.com
 go.17app.co
 go.4010.ru
 go.4sq.com
-go.accessbybmw.com
 go.aero.com
 go.app.sharekey.com
 go.asian.mingle.com
@@ -2046,7 +2051,6 @@ go.france.innovatedating.com
 go.freework.com
 go.frescofrigo.app
 go.frip.kr
-go.fuszselect.com
 go.futupilot.com
 go.fyndi.ng
 go.gaydate.ignite.technology
@@ -2281,6 +2285,7 @@ install.xchange.sabx.com
 int-shares.ri.la
 internet.degoo.com
 inv.mksp.io
+invest.rubicoin.com
 invitation.friendshipwallet.com
 invitation.reyesmagos.app
 invitation.xmastimeapp.com
@@ -2579,7 +2584,6 @@ link.freetrade.io
 link.frescoymas.com
 link.fretello.com
 link.friendspire.com
-link.futuready.com
 link.gamebrain.co.uk
 link.geo4.me
 link.geoparquelitoralviana.pt
@@ -2809,6 +2813,7 @@ link.thejetjournal.com
 link.thesecurityteam.rocks
 link.thisislex.app
 link.thue.do
+link.tigerhall.com
 link.tigerhall.isdemo.se
 link.togaapp.com
 link.tomoloyalty.com
@@ -2822,8 +2827,10 @@ link.tubi.tv
 link.tul.io
 link.tumblbug.com
 link.tv.cbs.com
+link.uat.my.smartcrowd.ae
 link.ulive.chat
 link.up.com.au
+link.upperinc.com
 link.uproad.com
 link.urbansitter.com
 link.us.paramountplus.com
@@ -3012,6 +3019,7 @@ m.natural.ai
 m.navi.com
 m.nxtgn.us
 m.origin.com.au
+m.oxyn.io
 m.papertrail.io
 m.pcmobile.ca
 m.petmire.com
@@ -3166,6 +3174,7 @@ pejuang.indonesiya.com
 perawan.indonesiya.com
 pergeroni.openapp.link
 pf.a23.in
+pgrounds.roundsapp.org
 phlebotomyexam.quantresear.ch
 phoenix.thexlife.co
 pirateclan.kano.link
@@ -3182,7 +3191,6 @@ play.journey8.com
 play.rheo.tv
 play.scavos.com
 play.spkr.com
-play.staging.underdogfantasy.com
 play.underdogfantasy.com
 play.wavelength.zone
 plv.geocomply.com
@@ -3382,7 +3390,6 @@ share.talkit.app
 share.tessie.com
 share.theladbible.com
 share.titanvest.com
-share.topgaff.com
 share.tops.co.th
 share.tornado.com
 share.tp666.vip
@@ -3425,6 +3432,7 @@ spread.epoolers.com
 ss.silkandsonder.com
 ssltest2.branch.io
 stageapplink.reki.tv
+stagelink.youareaceo.com
 staging-go.getsquire.com
 staging-link.docyt.com
 staging-links.thriveglobal.com
@@ -3455,6 +3463,7 @@ talentsprint.epoise.com
 talk.stitch.cam
 tally.bizanalyst.in
 tamedbc.roska.fr
+tante.hasdukmerahputih.com
 tap.carling.com
 tasteeat.openapp.link
 tasukeai.link.justincase.jp
@@ -3639,3 +3648,4 @@ s.goat.com
 sharen.oyorooms.com
 txt.appcity.com.au
 app.gomo.com.au
+b.hooch.co

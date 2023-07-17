@@ -39,6 +39,7 @@
 | bm.chileslatrede.com | heleric.com |
 | bm.mellsrecta.com | heleric.com |
 | bm.shamosmatic.com | heleric.com |
+| bq.hammaidreswill.com | heleric.com |
 | bu.sectistfrow.com | heleric.com |
 | bx.khedivaormond.com | heleric.com |
 | by.ballinghelonin.com | heleric.com |
@@ -96,6 +97,7 @@
 | fx.muntiglesia.com | heleric.com |
 | fy.uncheckluggies.com | heleric.com |
 | ga.asseizeenl.com | heleric.com |
+| gf.goreplacers.com | heleric.com |
 | gg.warmanmamelon.com | heleric.com |
 | gi.okapisail.com | heleric.com |
 | gn.afootwitword.com | heleric.com |

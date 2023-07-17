@@ -104,6 +104,7 @@ cdntm.hsbc.co.uk
 cdntm.hsbc.com.au
 cdntm.hsbc.com.hk
 cdntm.hsbc.com.mx
+cdntm.hsbc.com.my
 cdntm.hsbc.com.ph
 cdntm.hsbc.com.sg
 cdntm.hsbc.fr
@@ -111,16 +112,10 @@ cdntm.johnlewisfinance.com
 cdntm.marksandspencer.com
 cdntm.rodanandfields.com
 cdntm.us.hsbc.com
-cfa.advisorchannel.com
 cfa.febtest.com
 cfa.fidelity.com
 cfa.mystreetscape.com
-cfa.streetscape.com
 cfaxdev2.fidelity.com
-cfaxq.mystreetscape.com
-cfaxq.streetscape.com
-cfaxq1.fidelity.com
-cfaxq2.fidelity.com
 channel.rakbankonline.ae
 check.fashionid.de
 check2.bankofscotland.co.uk
@@ -247,6 +242,7 @@ content.personifyfinancial.com
 content.pledg.co
 content.pnbank.com.au
 content.presentment.com
+content.prev-espace-client.hellobank.fr
 content.prev.connexion-mabanque.bnpparibas
 content.qlinkwireless.com
 content.qudosbank.com.au
@@ -589,6 +585,7 @@ ptm.creditas.com
 public-check3-at.test.tiaa-cref.org
 public-check3-at.test.tiaa.org
 qa-check3.qa.everbank.com
+qfp.intuit.com
 qrimages.qatarairways.com
 qtbm.fundourselves.com
 qtbm.welendus.com
@@ -622,6 +619,7 @@ rm-3d84e791.payby.com
 rmscheck.sbifxt.co.jp
 rsx.afterpay.com
 rt.wisecartapp.com
+rttm.uniondigitalbank.io
 rvw.connection.com
 rvw.govconnection.com
 s4.partner.yoomoney.ru
@@ -840,11 +838,11 @@ tmck.milestonegoldcard.com
 tmcontent.imvu.com
 tmcontent.meridiancu.ca
 tmcontent.motusbank.ca
+tmcontent.sixt.com
 tmetrix.my.chick-fil-a.com
 tmfp.klarna.com
 tmi.my529.org
 tmln.caesarscasino.com
-tmrpe.astrazeneca.com
 tms.paysafe.com
 tmt.houzz.com
 tmuat.kotak.com

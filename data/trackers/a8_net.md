@@ -38,7 +38,6 @@
 | a8.b-cafe.net | trck.a8.net |
 | a8.bandel.jp | trck.a8.net |
 | a8.banninkun.com | trck.a8.net |
-| a8.bc-hikari.com | trck.a8.net |
 | a8.benro.jp | trck.a8.net |
 | a8.biglobe.openplat.jp | trck.a8.net |
 | a8.biz.ne.jp | trck.a8.net |
@@ -115,6 +114,7 @@
 | a8.gme.co.jp | trck.a8.net |
 | a8.golfland.co.jp | trck.a8.net |
 | a8.goodappeal.site | trck.a8.net |
+| a8.gtm.co.jp | trck.a8.net |
 | a8.guardian-mp.aerial-p.com | trck.a8.net |
 | a8.h-daiya.co.jp | trck.a8.net |
 | a8.hakata-hisamatsu.net | trck.a8.net |
@@ -262,6 +262,7 @@
 | a8.sumilena.co.jp | trck.a8.net |
 | a8.tailorenglish.jp | trck.a8.net |
 | a8.tapp-co.jp | trck.a8.net |
+| a8.taylormadegolf.jp | trck.a8.net |
 | a8.tea-lab.co.jp | trck.a8.net |
 | a8.tecgate.jp | trck.a8.net |
 | a8.tech-base.net | trck.a8.net |
@@ -666,6 +667,7 @@
 | a8cv.bellevie-inc.co.jp | trck.a8.net |
 | a8cv.bettysbeauty.jp | trck.a8.net |
 | a8cv.biken-mall.jp | trck.a8.net |
+| a8cv.biz-maps.com | trck.a8.net |
 | a8cv.bizcircle.jp | trck.a8.net |
 | a8cv.bizcomfort.jp | trck.a8.net |
 | a8cv.bloomonline.jp | trck.a8.net |
@@ -781,6 +783,7 @@
 | a8cv.haka.craht.jp | trck.a8.net |
 | a8cv.hal-tanteisya.com | trck.a8.net |
 | a8cv.handmade-ch.jp | trck.a8.net |
+| a8cv.happy-bears.com | trck.a8.net |
 | a8cv.harasawa.co.jp | trck.a8.net |
 | a8cv.hariocorp.co.jp | trck.a8.net |
 | a8cv.hello-people.jp | trck.a8.net |
@@ -1094,6 +1097,7 @@
 | a8trk.www.std-lab.jp | trck.a8.net |
 | a8x.piece-kaitori.jp | trck.a8.net |
 | acv.aun-air-wifi.com | trck.a8.net |
+| acv.aun-company.com | trck.a8.net |
 | acv.aun-n-hikari.com | trck.a8.net |
 | acv.biglobe-hikari.net | trck.a8.net |
 | acv.cmf-hikari.net | trck.a8.net |
@@ -1116,6 +1120,7 @@
 | ad.magokoro-care-shoku.com | trck.a8.net |
 | ad.rejichoice.jp | trck.a8.net |
 | ad.shinjuku-mens-chuoh.com | trck.a8.net |
+| ada8-2.ampleur.jp | trck.a8.net |
 | ada8.ampleur.jp | trck.a8.net |
 | ads.dandelionchocolate.jp | trck.a8.net |
 | af.gmobile.biz | trck.a8.net |

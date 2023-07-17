@@ -256,6 +256,7 @@ ssl-bm-eavis.tns-gallup.dk
 ssl-bobedre.tns-gallup.dk
 ssl-boligmagasinet.tns-gallup.dk
 ssl-boligportal.tns-gallup.dk
+ssl-boligsiden.tns-gallup.dk
 ssl-bolius.tns-gallup.dk
 ssl-bootstrapping.tns-gallup.dk
 ssl-bornibyen.tns-gallup.dk

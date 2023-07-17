@@ -28,6 +28,7 @@
 ||0fd4d7aa3c.160bcb3235.com^
 ||106dff4241.f5b40df5e2.com^
 ||107a0e458a.93bc17bf29.com^
+||10a614120a.419dc53dcd.com^
 ||1228d4b021.f021d67770.com^
 ||1327a0e03c.28473c6164.com^
 ||1407343952.7805b363c7.com^
@@ -54,6 +55,7 @@
 ||24dbfd6c10.cebee32295.com^
 ||2547cd401b.d8a452e2da.com^
 ||26e33d5110.b91c577b4d.com^
+||2899425181.c169b1582f.com^
 ||2a5f6f9e90.b07109f884.com^
 ||2a98a4b811.a2a2fd6dd1.com^
 ||2abf7576ac.4fbe7621b8.com^
@@ -108,6 +110,7 @@
 ||52b517df93.d26b092649.com^
 ||531a51d349.0d55d13cf1.com^
 ||5366c7a4fb.a74242f89f.com^
+||53b06a6b24.b30674b49e.com^
 ||53f90ea18c.ad64463ef9.com^
 ||55479d4a4f.e97fff7188.com^
 ||56a7ca381c.a4de9aca80.com^
@@ -131,6 +134,7 @@
 ||62ffd2f212.cfe8fd831d.com^
 ||6381b70b69.4a08d2ff2c.com^
 ||63b41fa702.81a3bb38fb.com^
+||64ff5ac46a.5f1202853b.com^
 ||6539a7f33f.2a83afe612.com^
 ||659cf6a582.a5c431d2e7.com^
 ||65eb50053b.3cb004e947.com^
@@ -140,6 +144,7 @@
 ||696a867e8a.e048fe379c.com^
 ||6ab791d164.d409401d80.com^
 ||6aca58cba6.106cdb2259.com^
+||6b4f801684.22ecbd33ca.com^
 ||6d39ef5c0b.7002fca3a7.com^
 ||6d6206ec1d.ee6ed602d3.com^
 ||6df506d68b.1708f2b5f1.com^
@@ -150,6 +155,7 @@
 ||710434b975.6de8cd75aa.com^
 ||727eee8d0c.d65941bfa8.com^
 ||749e473277.b6deee8a5f.com^
+||75263a609c.143f0a3452.com^
 ||76cdfd14c9.d5a710a006.com^
 ||7734af9d7a.854a08a35e.com^
 ||77998a50f4.d9e6fb9edb.com^
@@ -187,6 +193,7 @@
 ||90f6d578cc.2725849b34.com^
 ||914ceb3906.7d4a41c596.com^
 ||91d0933ded.fd4ac79d49.com^
+||9323b0c766.5ffdc5b302.com^
 ||935d005ddf.42aa201382.com^
 ||93684a0a94.f57fbf2b51.com^
 ||938496c742.497de0e5b3.com^
@@ -230,7 +237,6 @@
 ||b06462f6f9.a2e137d716.com^
 ||b46ccb8d87.3829e58bb1.com^
 ||b56d33d644.b72e4b93d9.com^
-||b58c767c1d.0be2be6d31.com^
 ||b6e9a8ce8a.85c0a6a0ea.com^
 ||b87e6d6445.9900a0b18c.com^
 ||b9aa96f359.c685ad29ce.com^
@@ -317,9 +323,8 @@
 ||fe8d4b33c2.8abf43d6ad.com^
 ||ff04a1538a.ced4d66e2d.com^
 ||a135.wftv.com^
-||godtube.share.ntv.io^
-||mlive.share.ntv.io^
-||pressdemocrat.share.ntv.io^
+||a235.myjournalcourier.com^
+||a235.ourmidland.com^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 ||a135.fox23.com^
@@ -346,12 +351,14 @@
 ||foodandwine.share.ntv.io^
 ||fortune.share.ntv.io^
 ||gayety.share.ntv.io^
+||godtube.share.ntv.io^
 ||gva.share.ntv.io^
 ||hellomagazine.share.ntv.io^
 ||infoworld.share.ntv.io^
 ||ksn.share.ntv.io^
 ||littlethings.share.ntv.io^
 ||miamiherald.share.ntv.io^
+||mlive.share.ntv.io^
 ||mortgagesolutions.share.ntv.io^
 ||motortrend.share.ntv.io^
 ||mynorthwest.share.ntv.io^
@@ -360,6 +367,7 @@
 ||nj.share.ntv.io^
 ||northbaybusinessjournal.share.ntv.io^
 ||pcworld.share.ntv.io^
+||pressdemocrat.share.ntv.io^
 ||robbreport.share.ntv.io^
 ||sanduskyregister.share.ntv.io^
 ||smosh.share.ntv.io^

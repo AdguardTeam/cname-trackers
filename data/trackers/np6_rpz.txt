@@ -142,7 +142,6 @@ tr.carl.espmp-cufr.net CNAME .
 tr.cart02d.espmp-agfr.net CNAME .
 tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
-tr.cashback.banque-casino.fr CNAME .
 tr.cashback.floa.fr CNAME .
 tr.cb4x.banque-casino.fr CNAME .
 tr.cb4x.floa.fr CNAME .
@@ -342,7 +341,6 @@ tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
 tr.emailing.pogioclub.be CNAME .
 tr.emailing.studiocanal.com CNAME .
-tr.emailing.uda.fr CNAME .
 tr.emailium.fr CNAME .
 tr.enedis-infos.fr CNAME .
 tr.enews.customsolutions.fr CNAME .
@@ -373,7 +371,6 @@ tr.futurecommerce.moethennessy.com CNAME .
 tr.gap-fr.fr CNAME .
 tr.gdfsuez-globalenergy.info CNAME .
 tr.gen.espmp-agfr.net CNAME .
-tr.gestion.banque-casino.fr CNAME .
 tr.gestion.cafineo.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
 tr.gestion.coficabail.fr CNAME .
@@ -532,7 +529,6 @@ tr.lvmhappening.lvmh.fr CNAME .
 tr.m.cwisas.com CNAME .
 tr.macarte.truffaut.com CNAME .
 tr.mail-companeo.fr CNAME .
-tr.mail.banque-casino.fr CNAME .
 tr.mail.cdiscount.com.ec CNAME .
 tr.mail.cdiscount.com.pa CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
@@ -743,6 +739,7 @@ tr.news.parisinfo.com CNAME .
 tr.news.perfectstay.com CNAME .
 tr.news.perl.fr CNAME .
 tr.news.pl.bata-esp.com CNAME .
+tr.news.prosfora-mou.gr CNAME .
 tr.news.receiveyourquote.co.uk CNAME .
 tr.news.retailglobalsolutions.com CNAME .
 tr.news.roadzila.com CNAME .
@@ -855,7 +852,6 @@ tr.offres-professionnelles.fr CNAME .
 tr.offres.ap-regie.fr CNAME .
 tr.offres.bfmtv.com CNAME .
 tr.offresbtoc.engie.fr CNAME .
-tr.offrevip.banque-casino.fr CNAME .
 tr.offrevip.floa.fr CNAME .
 tr.ojxm.espmp-aufr.net CNAME .
 tr.openinnovation.lvmh.com CNAME .
@@ -956,7 +952,6 @@ tr.smtp1.email-mediapost.fr CNAME .
 tr.solendi.com CNAME .
 tr.solution.uneo.fr CNAME .
 tr.sort.espmp-nifr.net CNAME .
-tr.souscription.banque-casino.fr CNAME .
 tr.souscription.floa.fr CNAME .
 tr.spain.plimsoll.es CNAME .
 tr.sportperf.np6.fr CNAME .

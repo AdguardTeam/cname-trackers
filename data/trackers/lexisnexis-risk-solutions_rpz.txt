@@ -104,6 +104,7 @@ cdntm.hsbc.co.uk CNAME .
 cdntm.hsbc.com.au CNAME .
 cdntm.hsbc.com.hk CNAME .
 cdntm.hsbc.com.mx CNAME .
+cdntm.hsbc.com.my CNAME .
 cdntm.hsbc.com.ph CNAME .
 cdntm.hsbc.com.sg CNAME .
 cdntm.hsbc.fr CNAME .
@@ -111,16 +112,10 @@ cdntm.johnlewisfinance.com CNAME .
 cdntm.marksandspencer.com CNAME .
 cdntm.rodanandfields.com CNAME .
 cdntm.us.hsbc.com CNAME .
-cfa.advisorchannel.com CNAME .
 cfa.febtest.com CNAME .
 cfa.fidelity.com CNAME .
 cfa.mystreetscape.com CNAME .
-cfa.streetscape.com CNAME .
 cfaxdev2.fidelity.com CNAME .
-cfaxq.mystreetscape.com CNAME .
-cfaxq.streetscape.com CNAME .
-cfaxq1.fidelity.com CNAME .
-cfaxq2.fidelity.com CNAME .
 channel.rakbankonline.ae CNAME .
 check.fashionid.de CNAME .
 check2.bankofscotland.co.uk CNAME .
@@ -247,6 +242,7 @@ content.personifyfinancial.com CNAME .
 content.pledg.co CNAME .
 content.pnbank.com.au CNAME .
 content.presentment.com CNAME .
+content.prev-espace-client.hellobank.fr CNAME .
 content.prev.connexion-mabanque.bnpparibas CNAME .
 content.qlinkwireless.com CNAME .
 content.qudosbank.com.au CNAME .
@@ -589,6 +585,7 @@ ptm.creditas.com CNAME .
 public-check3-at.test.tiaa-cref.org CNAME .
 public-check3-at.test.tiaa.org CNAME .
 qa-check3.qa.everbank.com CNAME .
+qfp.intuit.com CNAME .
 qrimages.qatarairways.com CNAME .
 qtbm.fundourselves.com CNAME .
 qtbm.welendus.com CNAME .
@@ -622,6 +619,7 @@ rm-3d84e791.payby.com CNAME .
 rmscheck.sbifxt.co.jp CNAME .
 rsx.afterpay.com CNAME .
 rt.wisecartapp.com CNAME .
+rttm.uniondigitalbank.io CNAME .
 rvw.connection.com CNAME .
 rvw.govconnection.com CNAME .
 s4.partner.yoomoney.ru CNAME .
@@ -840,11 +838,11 @@ tmck.milestonegoldcard.com CNAME .
 tmcontent.imvu.com CNAME .
 tmcontent.meridiancu.ca CNAME .
 tmcontent.motusbank.ca CNAME .
+tmcontent.sixt.com CNAME .
 tmetrix.my.chick-fil-a.com CNAME .
 tmfp.klarna.com CNAME .
 tmi.my529.org CNAME .
 tmln.caesarscasino.com CNAME .
-tmrpe.astrazeneca.com CNAME .
 tms.paysafe.com CNAME .
 tmt.houzz.com CNAME .
 tmuat.kotak.com CNAME .

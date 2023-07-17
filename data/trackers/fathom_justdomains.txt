@@ -240,7 +240,6 @@ coyote.12gem.me
 coyote.gnx.cloud
 coyote.hopr.swiss
 coyote.nickgurney.com
-coyote.titlerun.xyz
 coyote.txet.ch
 crab.dunkeldbutchers.co.uk
 crab.goalcanvas.com
@@ -532,6 +531,7 @@ ladybug.dfour.space
 ladybug.ethanprintz.com
 ladybug.paulstovell.com
 lamprey.carolcassar.com
+lamprey.seagyndavis.com
 landfowl.typegang.com
 landsnail.bindle.io
 landsnail.brownfield.dev
@@ -656,7 +656,6 @@ ocelot.anthroquiches.fr
 ocelot.goinpaces.com
 ocelot.pixlwebs.nl
 ocelot.sonicumonitoring.com
-octopus.couragetrainingcentre.com
 octopus.evobend.com
 octopus.hans-hornberger.de
 opossum.roleup.com
@@ -922,6 +921,7 @@ trout.openfpl.com
 trout.travelmassive.com
 trout.unicornplatform.com
 tuna.peterfarms.com
+turkey.codeness.io
 turkey.docsy.cloud
 turkey.tella.tv
 turtle.geshem.space
@@ -938,6 +938,7 @@ vampirebat.stiftung-palliativ-zuhause.de
 vampirebat.tinamrak.com
 vicuna.callisoma.com
 vicuna.casa-moebel.at
+vicuna.fortbinary.com
 vicuna.joblicant.de
 vicuna.mybestproducts.net
 vicuna.redwoodcity.bike
@@ -1000,7 +1001,6 @@ bass.goulet.dev
 bee.farmaciavdg.com
 bison.equals.community
 cheetah.stolenboats.info
-cockroach.fairremote.com
 crow.centresustains.com
 dog.recon.guru
 donkey.masteringfinland.com

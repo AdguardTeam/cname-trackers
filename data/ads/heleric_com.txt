@@ -31,6 +31,7 @@
 ||bm.chileslatrede.com^
 ||bm.mellsrecta.com^
 ||bm.shamosmatic.com^
+||bq.hammaidreswill.com^
 ||bu.sectistfrow.com^
 ||bx.khedivaormond.com^
 ||by.ballinghelonin.com^
@@ -88,6 +89,7 @@
 ||fx.muntiglesia.com^
 ||fy.uncheckluggies.com^
 ||ga.asseizeenl.com^
+||gf.goreplacers.com^
 ||gg.warmanmamelon.com^
 ||gi.okapisail.com^
 ||gn.afootwitword.com^

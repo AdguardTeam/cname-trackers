@@ -546,6 +546,7 @@
 3588597.notifysrv.com
 3588599.notifysrv.com
 3590311.notify6.com
+3591075.notify6.com
 3591075.notifysrv.com
 3593835.notify6.com
 3597775.notifysrv.com
@@ -562,12 +563,14 @@
 3618939.notify6.com
 3618945.notify6.com
 3619313.notify6.com
+3619313.notifysrv.com
 3621331.notifysrv.com
 3621333.notifysrv.com
 3629687.notify6.com
 3629687.notifysrv.com
 3629693.notify6.com
 3629693.notifysrv.com
+3629895.notifysrv.com
 3631057.notify6.com
 3637423.notifysrv.com
 3647443.notifysrv.com
@@ -581,6 +584,7 @@
 3662591.notifysrv.com
 3662595.notifysrv.com
 3662601.notifysrv.com
+3662839.notify6.com
 3662845.notifysrv.com
 3662897.notifysrv.com
 3662963.notifysrv.com
@@ -593,6 +597,7 @@
 3670119.notifysrv.com
 3670315.notify6.com
 3672243.notifysrv.com
+3682345.notifysrv.com
 3701725.notifysrv.com
 3701939.notify6.com
 3710063.notifysrv.com
@@ -835,6 +840,7 @@
 4815462.notify6.com
 4819336.notify6.com
 4832912.notify6.com
+4833608.notify6.com
 4836762.notify6.com
 4841896.notify6.com
 4842686.notify6.com
@@ -856,6 +862,7 @@
 583.notify.optimizesrv.com
 603.notify.optimizesrv.com
 6146.notify.optimizesrv.com
+6154.notify.optimizesrv.com
 639.notify.optimizesrv.com
 649.notify.optimizesrv.com
 663.notify.optimizesrv.com
@@ -906,7 +913,6 @@ management-adstuff.exads.com
 management-adwirk.exads.com
 management-boost.exads.com
 management-crakmedia.exads.com
-management-etology.exads.com
 management-itsup.exads.com
 management-paradoxgroup.exads.com
 management-paradoxmedia.exads.com
@@ -1002,3 +1008,5 @@ www.3227697.notify6.com
 www.3243082.notifysrv.com
 www.3466863.notify6.com
 www.4152316.notify6.com
+www.notify6.com
+www.notifysrv.com

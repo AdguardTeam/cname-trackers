@@ -4,7 +4,6 @@
 ||a-api.skz.dev^
 ||a.aawp.de^
 ||a.ctd.ai^
-||a.devlog.games^
 ||a.easyazon.com^
 ||a.getaawp.com^
 ||a.iiro.dev^
@@ -12,7 +11,6 @@
 ||a.linkz.ai^
 ||a.mhthemes.com^
 ||a.remy.world^
-||a.visitelitoral.com^
 ||aloha.getoperand.com^
 ||also.greatsecuritydebate.net^
 ||an.xavierrosee.com^
@@ -32,7 +30,6 @@
 ||analytics.ericafischerphotography.com^
 ||analytics.gamedatacrunch.com^
 ||analytics.geekyminds.net^
-||analytics.givealittle.co^
 ||analytics.hambleden-capital.com^
 ||analytics.hiome.com^
 ||analytics.kerns.co^
@@ -62,7 +59,6 @@
 ||analytics.valheimgamer.com^
 ||analytics.vanilla-project.guide^
 ||analytics.wayland.app^
-||analytics.wetfish.com.au^
 ||analytics.whostheboss.co.uk^
 ||analytics.whotargets.me^
 ||analytics.winter.ink^
@@ -273,7 +269,6 @@
 ||plausible.lesbianromantic.com^
 ||plausible.mattpruitt.com^
 ||plausible.mcj.co^
-||plausible.moncefbelyamani.com^
 ||plausible.myvirtualsuper.com^
 ||plausible.nickmazuk.com^
 ||plausible.nova.app^
@@ -415,7 +410,6 @@
 ||stats.artistchristinacarmel.com^
 ||stats.astrr.ru^
 ||stats.asymptotic.io^
-||stats.athleteswith.com^
 ||stats.auto-dombrowski.de^
 ||stats.autofarm.network^
 ||stats.autoscholarwithmrb.com^
@@ -535,7 +529,6 @@
 ||stats.dmarcdigests.com^
 ||stats.doana-r.com^
 ||stats.domhabersack.com^
-||stats.dominikmayer.com^
 ||stats.doors.live^
 ||stats.dotnetfromthemountain.com^
 ||stats.dotnetos.org^
@@ -618,7 +611,6 @@
 ||stats.gnalt.de^
 ||stats.goldsguide.com^
 ||stats.gounified.com^
-||stats.granot.dev^
 ||stats.graphql-api.com^
 ||stats.graphql-by-pop.com^
 ||stats.gras-system.org^
@@ -770,7 +762,6 @@
 ||stats.motion-effect.com^
 ||stats.motorcyclepartsireland.ie^
 ||stats.mrtnvh.com^
-||stats.muchbetteradventures.com^
 ||stats.multiplelenses.com^
 ||stats.multiply.cloud^
 ||stats.napaconnect.ca^
@@ -780,7 +771,6 @@
 ||stats.newslit.co^
 ||stats.nexagon.dk^
 ||stats.nicolabricot.com^
-||stats.nicolaskempf.fr^
 ||stats.nodewood.com^
 ||stats.nomad.radio^
 ||stats.nonprofit.foundation^
@@ -940,7 +930,6 @@
 ||stats.teenranch.com^
 ||stats.tekin.co.uk^
 ||stats.terre-compagne.fr^
-||stats.the18monthpianoproject.com^
 ||stats.thegoodlineheight.com^
 ||stats.theiere-tasse.com^
 ||stats.thelandofar.be^
@@ -955,6 +944,7 @@
 ||stats.timkhoury.com^
 ||stats.timmo.immo^
 ||stats.tinkerer.tools^
+||stats.tl8.io^
 ||stats.tms-development.com^
 ||stats.tms-development.de^
 ||stats.toiletmap.org.uk^

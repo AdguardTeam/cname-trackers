@@ -256,6 +256,7 @@ ssl-bm-eavis.tns-gallup.dk CNAME .
 ssl-bobedre.tns-gallup.dk CNAME .
 ssl-boligmagasinet.tns-gallup.dk CNAME .
 ssl-boligportal.tns-gallup.dk CNAME .
+ssl-boligsiden.tns-gallup.dk CNAME .
 ssl-bolius.tns-gallup.dk CNAME .
 ssl-bootstrapping.tns-gallup.dk CNAME .
 ssl-bornibyen.tns-gallup.dk CNAME .

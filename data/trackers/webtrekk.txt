@@ -86,7 +86,6 @@
 ||data.mainpost.de^
 ||data.mapp.com^
 ||data.mediaworld.it^
-||data.pepephone.com^
 ||data.shirtmaster.com^
 ||data.srf.ch^
 ||data.vdi-wissensforum.de^
@@ -217,6 +216,7 @@
 ||tippcom01.tipp24.com^
 ||tr.computeruniverse.net^
 ||tr.suedkurier.de^
+||trail-001.schleich-s.com^
 ||trk.blume2000.de^
 ||trk.krebsversicherung.de^
 ||trk.nuernberger.digital^
@@ -266,8 +266,6 @@
 ||web.email.theindependentpharmacy.co.uk^
 ||web.email.umbro.co.uk^
 ||web.email.zone3.com^
-||web.emails.elc.co.uk^
-||web.emails.thetoyshop.com^
 ||web.friends.ellaskitchen.co.uk^
 ||web.ideaautorepair.com^
 ||web.info.bodybuildingwarehouse.co.uk^
@@ -357,7 +355,6 @@
 ||wt.generalibewegtdeutschland.de^
 ||wt.generalihealthsolutions.de^
 ||wt.netze-bw.de^
-||wt.vhb.de^
 ||wttd.douglas.at^
 ||wttd.douglas.ch^
 ||wttd.douglas.de^

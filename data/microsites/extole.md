@@ -10,6 +10,7 @@
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
+    * aol.extole.com
     * app.extole.com
     * backcountry.extole.com
     * barenecessities.extole.com
@@ -111,6 +112,7 @@
     * vonage.extole.com
     * vonageca-ssl.extole.com
     * vonagefr-ssl.extole.com
+    * vonageuk.extole.com
     * web-tool-qa.lb.extole.com
     * wgu.extole.com
     * wimp.extole.com
@@ -230,7 +232,6 @@
     * discountschoolsupply.extole.io
     * discover-bank.extole.io
     * discover-student-loan.extole.io
-    * discover-student-loans-em.extole.io
     * dolls-kill.extole.io
     * ds-laboratories.extole.io
     * dutch.extole.io
@@ -279,7 +280,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -368,6 +368,7 @@
     * olehenriksen.extole.io
     * olivegarden.extole.io
     * ollocard.extole.io
+    * onenevada.extole.io
     * openenglish.extole.io
     * opploans.extole.io
     * orbitz.extole.io
@@ -561,6 +562,7 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
+| refer.aol.com | aol.extole.com |
 | refer.hpso.com | aon.extole.io |
 | refer.nso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
@@ -660,6 +662,7 @@
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
+| share.columbiacu.org | columbiacu.extole.io |
 | refer.comfortzoneskin.com | comfortzoneskin.extole.io |
 | refer.competitivecyclist.com | competitivecyclist.extole.io |
 | refer.compexusa.com | compexusa.extole.com |
@@ -690,7 +693,6 @@
 | referafriend.discover.com | discover-bank.extole.io |
 | friend.discover.com | discover-student-loan.extole.io |
 | friend.discoverstudentloans.com | discover-student-loan.extole.io |
-| em4367.raf-studentloans.discover.com | discover-student-loans-em.extole.io |
 | refer.discover.com | discover.extole.com |
 | refer.divvybikes.com | divvybikes.extole.com |
 | refer.dnj.com | dnj.extole.com |
@@ -742,12 +744,14 @@
 | share.commercialappeal.com | gannett.extole.io |
 | share.courierpostonline.com | gannett.extole.io |
 | share.delawareonline.com | gannett.extole.io |
+| share.desmoinesregister.com | gannett.extole.io |
 | share.detroitnews.com | gannett.extole.io |
 | share.elpasotimes.com | gannett.extole.io |
 | share.enterprisenews.com | gannett.extole.io |
 | share.floridatoday.com | gannett.extole.io |
 | share.freep.com | gannett.extole.io |
 | share.independentmail.com | gannett.extole.io |
+| share.kitsapsun.com | gannett.extole.io |
 | share.knoxnews.com | gannett.extole.io |
 | share.mansfieldnewsjournal.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
@@ -784,7 +788,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -913,6 +916,7 @@
 | refer.olehenriksen.com | olehenriksen.extole.io |
 | share.olivegarden.com | olivegarden.extole.io |
 | share.ollocard.com | ollocard.extole.io |
+| share.onenevada.org | onenevada.extole.io |
 | refer.ooma.com | ooma-ssl.extole.com |
 | share.openenglish.com | openenglish.extole.io |
 | share.openenglish.com.br | openenglish.extole.io |
@@ -1086,6 +1090,7 @@
 | share.stagsleap.com | tweglobal.extole.io |
 | refer.twisthair.com | twisthair.extole.io |
 | em1476.princesscruises.com | u82658.wl159.sendgrid.net |
+| em4367.raf-studentloans.discover.com | u82658.wl159.sendgrid.net |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
 | refer.ulta.com | ulta.extole.com |
 | share.unchartedsociety.com | unchartedsociety.extole.io |
@@ -1117,6 +1122,7 @@
 | share.vonage.co.uk | vonagebusinessuk.extole.io |
 | refer.vonage.ca | vonageca-ssl.extole.com |
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
+| refer.vonage.co.uk | vonageuk.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |

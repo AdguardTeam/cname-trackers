@@ -30,6 +30,7 @@
     * h-34mvnza6.online-metrix.net
     * h-39zuido3.online-metrix.net
     * h-3gk2er3j.online-metrix.net
+    * h-3r1xqsku.online-metrix.net
     * h-3u2bmrkg.online-metrix.net
     * h-3z5dc3wi.online-metrix.net
     * h-3zlt5rop.online-metrix.net
@@ -41,6 +42,7 @@
     * h-5g3kt0kj.online-metrix.net
     * h-5glaq71x.online-metrix.net
     * h-5pxao9h8.online-metrix.net
+    * h-5uvvlv7u.online-metrix.net
     * h-5wdrto0i.online-metrix.net
     * h-6a6y6kka.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
@@ -114,7 +116,6 @@
     * h-ascendloans.online-metrix.net
     * h-asjl0mko-2.online-metrix.net
     * h-asjl0mko.online-metrix.net
-    * h-astrazeneca.online-metrix.net
     * h-asurion.online-metrix.net
     * h-autoowners.online-metrix.net
     * h-autozone.online-metrix.net
@@ -595,6 +596,7 @@
     * h-uship.online-metrix.net
     * h-usps.online-metrix.net
     * h-v60nf4oj-pfp.online-metrix.net
+    * h-v60nf4oj-qfp.online-metrix.net
     * h-v60nf4oj-sfp.online-metrix.net
     * h-v60nf4oj-tfp.online-metrix.net
     * h-v60nf4oj-vfp.online-metrix.net
@@ -712,6 +714,7 @@
 | nv-2.liveaction.com | h-34mvnza6.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
 | r7s.scl.swisscom.ch | h-3gk2er3j.online-metrix.net |
+| tmcontent.sixt.com | h-3r1xqsku.online-metrix.net |
 | content.lyft.com | h-3u2bmrkg.online-metrix.net |
 | event.evtm.53.com | h-3z5dc3wi.online-metrix.net |
 | shield.boostbusiness.my | h-3zlt5rop.online-metrix.net |
@@ -734,6 +737,7 @@
 | secure.jumia.sn | h-5pxao9h8.online-metrix.net |
 | secure.jumia.ug | h-5pxao9h8.online-metrix.net |
 | secure.zando.co.za | h-5pxao9h8.online-metrix.net |
+| rttm.uniondigitalbank.io | h-5uvvlv7u.online-metrix.net |
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
@@ -832,7 +836,6 @@
 | contentservices.ascendloans.com | h-ascendloans.online-metrix.net |
 | content.realquest.com | h-asjl0mko-2.online-metrix.net |
 | content.listsource.com | h-asjl0mko.online-metrix.net |
-| tmrpe.astrazeneca.com | h-astrazeneca.online-metrix.net |
 | content.asurion53.com | h-asurion.online-metrix.net |
 | customercenter-img04.auto-owners.com | h-autoowners.online-metrix.net |
 | mobile-content-f.autozone.com | h-autozone.online-metrix.net |
@@ -924,6 +927,7 @@
 | content.mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | content.mabanqueprivee.bnpparibas | h-cco37scf.online-metrix.net |
 | content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
+| content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
 | tcontent.cdiscountmobile.cdiscount.com | h-cdcmobile.online-metrix.net |
 | imagesmx.cdiscountpro.com | h-cdiscount.online-metrix.net |
@@ -1065,16 +1069,10 @@
 | tm.fanduel.com | h-fanduel.online-metrix.net |
 | did.fashionworld.co.uk | h-fashionworld.online-metrix.net |
 | ccf.prod.fedex.com | h-fedex.online-metrix.net |
-| cfa.advisorchannel.com | h-fidelity.online-metrix.net |
 | cfa.febtest.com | h-fidelity.online-metrix.net |
 | cfa.fidelity.com | h-fidelity.online-metrix.net |
 | cfa.mystreetscape.com | h-fidelity.online-metrix.net |
-| cfa.streetscape.com | h-fidelity.online-metrix.net |
 | cfaxdev2.fidelity.com | h-fidelity.online-metrix.net |
-| cfaxq.mystreetscape.com | h-fidelity.online-metrix.net |
-| cfaxq.streetscape.com | h-fidelity.online-metrix.net |
-| cfaxq1.fidelity.com | h-fidelity.online-metrix.net |
-| cfaxq2.fidelity.com | h-fidelity.online-metrix.net |
 | daotm.firstcitizens.com | h-firstcitizensbank.online-metrix.net |
 | clovergo.june-testing.firstdata.com | h-firstdata.online-metrix.net |
 | content.firstinterstatebank.com | h-firstinterstatebank.online-metrix.net |
@@ -1162,6 +1160,7 @@
 | cdntm.hsbc.com.au | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.hk | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.mx | h-hsbcmx.online-metrix.net |
+| cdntm.hsbc.com.my | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.ph | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.sg | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.fr | h-hsbcmx.online-metrix.net |
@@ -1497,6 +1496,7 @@
 | tm.uship.com | h-uship.online-metrix.net |
 | content.usps.com | h-usps.online-metrix.net |
 | pfp.intuit.com | h-v60nf4oj-pfp.online-metrix.net |
+| qfp.intuit.com | h-v60nf4oj-qfp.online-metrix.net |
 | sfp.intuit.com | h-v60nf4oj-sfp.online-metrix.net |
 | tfp.intuit.com | h-v60nf4oj-tfp.online-metrix.net |
 | vfp.intuit.com | h-v60nf4oj-vfp.online-metrix.net |

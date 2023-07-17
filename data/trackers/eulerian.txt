@@ -47,7 +47,6 @@
 ||ar.allrun.fr^
 ||ar.i-run.fr^
 ||azg1.emalu-store.com^
-||b1n.carabins.umontreal.ca^
 ||bch8.destinia.co^
 ||bdj5.terrassesmontecarlosbm.com^
 ||bft5.destinia.fr^
@@ -263,7 +262,6 @@
 ||hby7.destinia.it^
 ||hde1.repentignychevrolet.com^
 ||hgf4.zanzicar.fr^
-||hk2d.tourismemauricie.com^
 ||hkj8.evobanco.com^
 ||idg1.idgarages.com^
 ||igc0.destinia.at^
@@ -419,7 +417,6 @@
 ||ssrlot.lotoquebec.com^
 ||ssy7.destinia.com.ua^
 ||su1.les-suites.ca^
-||sykc.madeindesign.ch^
 ||t.locasun-vp.fr^
 ||t.locasun.co.uk^
 ||t.locasun.de^
@@ -445,7 +442,6 @@
 ||tmy8.madeindesign.ch^
 ||tnz3.carrefour-banque.fr^
 ||tr.pmu.fr^
-||tsj0.madeindesign.com^
 ||txv0.destinia.hu^
 ||udr9.livera.nl^
 ||ueb4.destinia.tw^
@@ -508,8 +504,10 @@
 ||zsi7.destinia.do^
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
+||b1n.carabins.umontreal.ca^
 ||d0f.le-dauphin.com^
 ||d2u.dauphinquebec.com^
+||hk2d.tourismemauricie.com^
 ||nym5c.bonlook.com^
 ||ea.mnt.fr^
 ||gi7a.structube.com^

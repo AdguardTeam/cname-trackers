@@ -193,6 +193,7 @@
 ||data-191b2429e8.rtl-hd.de^
 ||data-191b2429e8.rtl.at^
 ||data-191b2429e8.rtl.de^
+||data-191b2429e8.rtlspiele.de^
 ||data-195efe600e.haus.de^
 ||data-19e0ce8844.computerbild.de^
 ||data-19e0ce8844.wieistmeineip.de^
@@ -554,6 +555,7 @@
 ||data-47ee1b0882.lichtspiele-grosshabersdorf.de^
 ||data-47ee1b0882.liliservicekino.de^
 ||data-47ee1b0882.lindenkino-wusterhausen.de^
+||data-47ee1b0882.luli-kino.de^
 ||data-47ee1b0882.movie-kino.de^
 ||data-47ee1b0882.movieplexx.de^
 ||data-47ee1b0882.movietown-eichsfeld.de^
@@ -964,6 +966,7 @@
 ||data-833e9f9a71.dzonline.de^
 ||data-83d91ea519.bergstraesser-anzeiger.de^
 ||data-83d91ea519.fnweb.de^
+||data-83d91ea519.haas-mediengruppe.de^
 ||data-83d91ea519.immomorgen.de^
 ||data-83d91ea519.jobmorgen.de^
 ||data-83d91ea519.mannheimer-morgen.de^
@@ -972,6 +975,7 @@
 ||data-8449537926.cz.de^
 ||data-8459ce106e.bike-x.de^
 ||data-849004cc69.regenbogen.de^
+||data-84926a5f67.energie-und-management.de^
 ||data-84a0f3455d.transfermarkt.at^
 ||data-84a0f3455d.transfermarkt.be^
 ||data-84a0f3455d.transfermarkt.ch^
@@ -1242,6 +1246,7 @@
 ||data-a610441c2a.starfm.de^
 ||data-a69d61e039.bausicherheit-online.de^
 ||data-a6a76566fd.apps.iocnt.de^
+||data-a6c3c2bffa.mamiweb.de^
 ||data-a6faa6efe2.insuedthueringen.de^
 ||data-a6faa6efe2.thueringen-gedenkt.de^
 ||data-a76072cba2.sbz-monteur.de^
@@ -1904,6 +1909,7 @@
 ||data-f722634d33.haller-kreisblatt.de^
 ||data-f7a0168660.versicherungsbote.de^
 ||data-f8f10caff9.apps.iocnt.de^
+||data-f8fea2d99e.gbv.de^
 ||data-f943e74ec9.bz-berlin.de^
 ||data-f9b542cb96.apps.iocnt.de^
 ||data-fa2c5597f6.roadbike.de^

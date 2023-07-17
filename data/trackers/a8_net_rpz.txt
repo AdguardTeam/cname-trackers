@@ -25,7 +25,6 @@ a8.avalon-works.com CNAME .
 a8.b-cafe.net CNAME .
 a8.bandel.jp CNAME .
 a8.banninkun.com CNAME .
-a8.bc-hikari.com CNAME .
 a8.benro.jp CNAME .
 a8.biglobe.openplat.jp CNAME .
 a8.biz.ne.jp CNAME .
@@ -102,6 +101,7 @@ a8.global-mobility-service.com CNAME .
 a8.gme.co.jp CNAME .
 a8.golfland.co.jp CNAME .
 a8.goodappeal.site CNAME .
+a8.gtm.co.jp CNAME .
 a8.guardian-mp.aerial-p.com CNAME .
 a8.h-daiya.co.jp CNAME .
 a8.hakata-hisamatsu.net CNAME .
@@ -249,6 +249,7 @@ a8.suma-sapo.net CNAME .
 a8.sumilena.co.jp CNAME .
 a8.tailorenglish.jp CNAME .
 a8.tapp-co.jp CNAME .
+a8.taylormadegolf.jp CNAME .
 a8.tea-lab.co.jp CNAME .
 a8.tecgate.jp CNAME .
 a8.tech-base.net CNAME .
@@ -654,6 +655,7 @@ a8cv.bellcosme.com CNAME .
 a8cv.bellevie-inc.co.jp CNAME .
 a8cv.bettysbeauty.jp CNAME .
 a8cv.biken-mall.jp CNAME .
+a8cv.biz-maps.com CNAME .
 a8cv.bizcircle.jp CNAME .
 a8cv.bizcomfort.jp CNAME .
 a8cv.bloomonline.jp CNAME .
@@ -769,6 +771,7 @@ a8cv.greed-island.ne.jp CNAME .
 a8cv.haka.craht.jp CNAME .
 a8cv.hal-tanteisya.com CNAME .
 a8cv.handmade-ch.jp CNAME .
+a8cv.happy-bears.com CNAME .
 a8cv.harasawa.co.jp CNAME .
 a8cv.hariocorp.co.jp CNAME .
 a8cv.hello-people.jp CNAME .
@@ -1082,6 +1085,7 @@ a8trk.beat-hiit.com CNAME .
 a8trk.www.std-lab.jp CNAME .
 a8x.piece-kaitori.jp CNAME .
 acv.aun-air-wifi.com CNAME .
+acv.aun-company.com CNAME .
 acv.aun-n-hikari.com CNAME .
 acv.biglobe-hikari.net CNAME .
 acv.cmf-hikari.net CNAME .
@@ -1104,6 +1108,7 @@ ad.kirara-support.jp CNAME .
 ad.magokoro-care-shoku.com CNAME .
 ad.rejichoice.jp CNAME .
 ad.shinjuku-mens-chuoh.com CNAME .
+ada8-2.ampleur.jp CNAME .
 ada8.ampleur.jp CNAME .
 ads.dandelionchocolate.jp CNAME .
 af.gmobile.biz CNAME .

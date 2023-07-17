@@ -16,6 +16,7 @@ refer.ahsfriends.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
+refer.aol.com CNAME .
 refer.app.com CNAME .
 refer.backcountry.com CNAME .
 refer.barenecessities.com CNAME .
@@ -99,6 +100,7 @@ refer.vantagetravel.com CNAME .
 refer.verabradley.com CNAME .
 refer.volcom.com CNAME .
 refer.vonage.ca CNAME .
+refer.vonage.co.uk CNAME .
 refer.vonage.com CNAME .
 refer.wgu.edu CNAME .
 refer.xoom.com CNAME .
@@ -121,8 +123,6 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em4367.raf-studentloans.discover.com CNAME .
-em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -437,6 +437,7 @@ share.cellcom.ca CNAME .
 share.cheaperthandirt.com CNAME .
 share.chewsidental.com CNAME .
 share.cityfurniture.com CNAME .
+share.columbiacu.org CNAME .
 share.commercialappeal.com CNAME .
 share.conceiveabilities.com CNAME .
 share.cosbar.com CNAME .
@@ -449,6 +450,7 @@ share.dailypay.com CNAME .
 share.dave.com CNAME .
 share.delawareonline.com CNAME .
 share.desertfinancial.com CNAME .
+share.desmoinesregister.com CNAME .
 share.detroitnews.com CNAME .
 share.discountschoolsupply.com CNAME .
 share.docmorris.fr CNAME .
@@ -494,6 +496,7 @@ share.jhfcu.org CNAME .
 share.juicepress.com CNAME .
 share.juvlabs.com CNAME .
 share.key.com CNAME .
+share.kitsapsun.com CNAME .
 share.knoxnews.com CNAME .
 share.kumon.com CNAME .
 share.la-mariette.com CNAME .
@@ -517,6 +520,7 @@ share.ngfcu.us CNAME .
 share.obagi.com CNAME .
 share.olivegarden.com CNAME .
 share.ollocard.com CNAME .
+share.onenevada.org CNAME .
 share.openenglish.com CNAME .
 share.openenglish.com.br CNAME .
 share.opploans.com CNAME .
@@ -610,5 +614,6 @@ share.zebit.com CNAME .
 share.zenbusiness.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
-refer.aol.com CNAME .
+em4367.raf-studentloans.discover.com CNAME .
+em8561.go2bank.com CNAME .
 sftp.extole.com CNAME .

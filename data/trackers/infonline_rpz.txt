@@ -193,6 +193,7 @@ data-191b2429e8.quiz.de CNAME .
 data-191b2429e8.rtl-hd.de CNAME .
 data-191b2429e8.rtl.at CNAME .
 data-191b2429e8.rtl.de CNAME .
+data-191b2429e8.rtlspiele.de CNAME .
 data-195efe600e.haus.de CNAME .
 data-19e0ce8844.computerbild.de CNAME .
 data-19e0ce8844.wieistmeineip.de CNAME .
@@ -554,6 +555,7 @@ data-47ee1b0882.lichtburg-langen.de CNAME .
 data-47ee1b0882.lichtspiele-grosshabersdorf.de CNAME .
 data-47ee1b0882.liliservicekino.de CNAME .
 data-47ee1b0882.lindenkino-wusterhausen.de CNAME .
+data-47ee1b0882.luli-kino.de CNAME .
 data-47ee1b0882.movie-kino.de CNAME .
 data-47ee1b0882.movieplexx.de CNAME .
 data-47ee1b0882.movietown-eichsfeld.de CNAME .
@@ -964,6 +966,7 @@ data-83380557db.nw.de CNAME .
 data-833e9f9a71.dzonline.de CNAME .
 data-83d91ea519.bergstraesser-anzeiger.de CNAME .
 data-83d91ea519.fnweb.de CNAME .
+data-83d91ea519.haas-mediengruppe.de CNAME .
 data-83d91ea519.immomorgen.de CNAME .
 data-83d91ea519.jobmorgen.de CNAME .
 data-83d91ea519.mannheimer-morgen.de CNAME .
@@ -972,6 +975,7 @@ data-83eff0f027.glaswelt.de CNAME .
 data-8449537926.cz.de CNAME .
 data-8459ce106e.bike-x.de CNAME .
 data-849004cc69.regenbogen.de CNAME .
+data-84926a5f67.energie-und-management.de CNAME .
 data-84a0f3455d.transfermarkt.at CNAME .
 data-84a0f3455d.transfermarkt.be CNAME .
 data-84a0f3455d.transfermarkt.ch CNAME .
@@ -1242,6 +1246,7 @@ data-a59ff4db12.bildderfrau.de CNAME .
 data-a610441c2a.starfm.de CNAME .
 data-a69d61e039.bausicherheit-online.de CNAME .
 data-a6a76566fd.apps.iocnt.de CNAME .
+data-a6c3c2bffa.mamiweb.de CNAME .
 data-a6faa6efe2.insuedthueringen.de CNAME .
 data-a6faa6efe2.thueringen-gedenkt.de CNAME .
 data-a76072cba2.sbz-monteur.de CNAME .
@@ -1904,6 +1909,7 @@ data-f6d2ad6f1b.t3n.de CNAME .
 data-f722634d33.haller-kreisblatt.de CNAME .
 data-f7a0168660.versicherungsbote.de CNAME .
 data-f8f10caff9.apps.iocnt.de CNAME .
+data-f8fea2d99e.gbv.de CNAME .
 data-f943e74ec9.bz-berlin.de CNAME .
 data-f9b542cb96.apps.iocnt.de CNAME .
 data-fa2c5597f6.roadbike.de CNAME .

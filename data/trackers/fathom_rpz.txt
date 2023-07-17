@@ -240,7 +240,6 @@ coyote.12gem.me CNAME .
 coyote.gnx.cloud CNAME .
 coyote.hopr.swiss CNAME .
 coyote.nickgurney.com CNAME .
-coyote.titlerun.xyz CNAME .
 coyote.txet.ch CNAME .
 crab.dunkeldbutchers.co.uk CNAME .
 crab.goalcanvas.com CNAME .
@@ -532,6 +531,7 @@ ladybug.dfour.space CNAME .
 ladybug.ethanprintz.com CNAME .
 ladybug.paulstovell.com CNAME .
 lamprey.carolcassar.com CNAME .
+lamprey.seagyndavis.com CNAME .
 landfowl.typegang.com CNAME .
 landsnail.bindle.io CNAME .
 landsnail.brownfield.dev CNAME .
@@ -656,7 +656,6 @@ ocelot.anthroquiches.fr CNAME .
 ocelot.goinpaces.com CNAME .
 ocelot.pixlwebs.nl CNAME .
 ocelot.sonicumonitoring.com CNAME .
-octopus.couragetrainingcentre.com CNAME .
 octopus.evobend.com CNAME .
 octopus.hans-hornberger.de CNAME .
 opossum.roleup.com CNAME .
@@ -922,6 +921,7 @@ trout.openfpl.com CNAME .
 trout.travelmassive.com CNAME .
 trout.unicornplatform.com CNAME .
 tuna.peterfarms.com CNAME .
+turkey.codeness.io CNAME .
 turkey.docsy.cloud CNAME .
 turkey.tella.tv CNAME .
 turtle.geshem.space CNAME .
@@ -938,6 +938,7 @@ vampirebat.stiftung-palliativ-zuhause.de CNAME .
 vampirebat.tinamrak.com CNAME .
 vicuna.callisoma.com CNAME .
 vicuna.casa-moebel.at CNAME .
+vicuna.fortbinary.com CNAME .
 vicuna.joblicant.de CNAME .
 vicuna.mybestproducts.net CNAME .
 vicuna.redwoodcity.bike CNAME .
@@ -1000,7 +1001,6 @@ bass.goulet.dev CNAME .
 bee.farmaciavdg.com CNAME .
 bison.equals.community CNAME .
 cheetah.stolenboats.info CNAME .
-cockroach.fairremote.com CNAME .
 crow.centresustains.com CNAME .
 dog.recon.guru CNAME .
 donkey.masteringfinland.com CNAME .

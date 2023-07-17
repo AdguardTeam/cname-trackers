@@ -2,6 +2,7 @@
 ; Company name: Clickaine
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
+ad.erotikflix.com CNAME .
 ad1.xero.porn CNAME .
 anti.69vclub.com CNAME .
 api.hugemedia.cz CNAME .
@@ -18,7 +19,6 @@ axx.arabsex1.com CNAME .
 c.gotoxxxtube.com CNAME .
 c0n.tubestash.com CNAME .
 c0n.urlgalleries.net CNAME .
-c2n.pornez.net CNAME .
 c4n.21hub.com CNAME .
 c4n.asianpinay.com CNAME .
 c4n.bigxxxsex.com CNAME .
@@ -71,6 +71,7 @@ faq.brandnewapp.pro CNAME .
 ge6.getfto.com CNAME .
 get.xclick24.com CNAME .
 go.lize.bid CNAME .
+hostmaster.brandnewapp.pro CNAME .
 hostmaster.rtnews.pro CNAME .
 hruk.afguk.top CNAME .
 hruk.gumasi.top CNAME .

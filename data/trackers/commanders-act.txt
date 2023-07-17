@@ -5,7 +5,6 @@
 ||data.decathlon.de^
 ||data.decathlon.es^
 ||data.decathlon.fr^
-||data.decathlon.it^
 ||data.decathlon.pl^
 ||data.ouigo.com^
 ||data.ricaud.com^
@@ -20,3 +19,4 @@
 ||tc.europcar.com^
 ||tc.europcar.com.au^
 ||tcdata.fnac.com^
+||data.decathlon.it^

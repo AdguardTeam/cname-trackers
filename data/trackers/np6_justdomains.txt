@@ -142,7 +142,6 @@ tr.carl.espmp-cufr.net
 tr.cart02d.espmp-agfr.net
 tr.carte.lcl.fr
 tr.cartegie.fr
-tr.cashback.banque-casino.fr
 tr.cashback.floa.fr
 tr.cb4x.banque-casino.fr
 tr.cb4x.floa.fr
@@ -342,7 +341,6 @@ tr.emailing.detours.canal.fr
 tr.emailing.grassavoye.com
 tr.emailing.pogioclub.be
 tr.emailing.studiocanal.com
-tr.emailing.uda.fr
 tr.emailium.fr
 tr.enedis-infos.fr
 tr.enews.customsolutions.fr
@@ -373,7 +371,6 @@ tr.futurecommerce.moethennessy.com
 tr.gap-fr.fr
 tr.gdfsuez-globalenergy.info
 tr.gen.espmp-agfr.net
-tr.gestion.banque-casino.fr
 tr.gestion.cafineo.fr
 tr.gestion.cetelem.fr
 tr.gestion.coficabail.fr
@@ -532,7 +529,6 @@ tr.lvmhappening.lvmh.fr
 tr.m.cwisas.com
 tr.macarte.truffaut.com
 tr.mail-companeo.fr
-tr.mail.banque-casino.fr
 tr.mail.cdiscount.com.ec
 tr.mail.cdiscount.com.pa
 tr.mail.enviedebienmanger.fr
@@ -743,6 +739,7 @@ tr.news.parisinfo.com
 tr.news.perfectstay.com
 tr.news.perl.fr
 tr.news.pl.bata-esp.com
+tr.news.prosfora-mou.gr
 tr.news.receiveyourquote.co.uk
 tr.news.retailglobalsolutions.com
 tr.news.roadzila.com
@@ -855,7 +852,6 @@ tr.offres-professionnelles.fr
 tr.offres.ap-regie.fr
 tr.offres.bfmtv.com
 tr.offresbtoc.engie.fr
-tr.offrevip.banque-casino.fr
 tr.offrevip.floa.fr
 tr.ojxm.espmp-aufr.net
 tr.openinnovation.lvmh.com
@@ -956,7 +952,6 @@ tr.smtp1.email-mediapost.fr
 tr.solendi.com
 tr.solution.uneo.fr
 tr.sort.espmp-nifr.net
-tr.souscription.banque-casino.fr
 tr.souscription.floa.fr
 tr.spain.plimsoll.es
 tr.sportperf.np6.fr

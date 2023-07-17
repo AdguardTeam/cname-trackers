@@ -25,7 +25,6 @@ a8.avalon-works.com
 a8.b-cafe.net
 a8.bandel.jp
 a8.banninkun.com
-a8.bc-hikari.com
 a8.benro.jp
 a8.biglobe.openplat.jp
 a8.biz.ne.jp
@@ -102,6 +101,7 @@ a8.global-mobility-service.com
 a8.gme.co.jp
 a8.golfland.co.jp
 a8.goodappeal.site
+a8.gtm.co.jp
 a8.guardian-mp.aerial-p.com
 a8.h-daiya.co.jp
 a8.hakata-hisamatsu.net
@@ -249,6 +249,7 @@ a8.suma-sapo.net
 a8.sumilena.co.jp
 a8.tailorenglish.jp
 a8.tapp-co.jp
+a8.taylormadegolf.jp
 a8.tea-lab.co.jp
 a8.tecgate.jp
 a8.tech-base.net
@@ -654,6 +655,7 @@ a8cv.bellcosme.com
 a8cv.bellevie-inc.co.jp
 a8cv.bettysbeauty.jp
 a8cv.biken-mall.jp
+a8cv.biz-maps.com
 a8cv.bizcircle.jp
 a8cv.bizcomfort.jp
 a8cv.bloomonline.jp
@@ -769,6 +771,7 @@ a8cv.greed-island.ne.jp
 a8cv.haka.craht.jp
 a8cv.hal-tanteisya.com
 a8cv.handmade-ch.jp
+a8cv.happy-bears.com
 a8cv.harasawa.co.jp
 a8cv.hariocorp.co.jp
 a8cv.hello-people.jp
@@ -1082,6 +1085,7 @@ a8trk.beat-hiit.com
 a8trk.www.std-lab.jp
 a8x.piece-kaitori.jp
 acv.aun-air-wifi.com
+acv.aun-company.com
 acv.aun-n-hikari.com
 acv.biglobe-hikari.net
 acv.cmf-hikari.net
@@ -1104,6 +1108,7 @@ ad.kirara-support.jp
 ad.magokoro-care-shoku.com
 ad.rejichoice.jp
 ad.shinjuku-mens-chuoh.com
+ada8-2.ampleur.jp
 ada8.ampleur.jp
 ads.dandelionchocolate.jp
 af.gmobile.biz

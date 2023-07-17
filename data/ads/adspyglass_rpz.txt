@@ -109,7 +109,6 @@ aa.zerg.pro CNAME .
 aabtest.asg-media.com CNAME .
 abc.comick.top CNAME .
 ablade.beauty CNAME .
-abracadabrahub.com CNAME .
 abutok.xyz CNAME .
 ad.animeitaly.org CNAME .
 ad.emule-island.eu CNAME .
@@ -126,6 +125,7 @@ adilk.ilikecomix.com CNAME .
 ads.2conv.com CNAME .
 ads.free-to.download CNAME .
 ads.hentaiheart.com CNAME .
+ads.imgdesu.art CNAME .
 ads.javtit.com CNAME .
 ads.onetouchtv.me CNAME .
 ads.onlyfanspornvideo.com CNAME .
@@ -266,9 +266,9 @@ chicipu.lol CNAME .
 chvylonz.lol CNAME .
 click.fastupload.io CNAME .
 client2009x25.xcdn.ovh CNAME .
-coco.rockdilla.com CNAME .
 coinbaze.lol CNAME .
 coinzba.mom CNAME .
+comezz.xyz CNAME .
 content.zbporn.com CNAME .
 cool.ah-me.com CNAME .
 cool.gaygo.tv CNAME .
@@ -280,6 +280,7 @@ custom1.shorterall.com CNAME .
 cx6.lastxxxmovies.com CNAME .
 d.adultporn.tv CNAME .
 d.bloblohub.com CNAME .
+d16.alldeepfake.com CNAME .
 data.bangtubevideos.com CNAME .
 data.streamtape.com CNAME .
 ddddd.javmilk.org CNAME .
@@ -333,7 +334,6 @@ go.showmeyouradsnow.com CNAME .
 go.ss-n-30.com CNAME .
 goallbest.com CNAME .
 godhame.xyz CNAME .
-gone.mobilhdizle.com CNAME .
 goog.emailon.top CNAME .
 gulto.xyz CNAME .
 h-ay.com CNAME .
@@ -416,7 +416,6 @@ leefang.lol CNAME .
 lengtikto.xyz CNAME .
 leona2.mom CNAME .
 libertys.beauty CNAME .
-linkpopu.mom CNAME .
 lixir.wargers.org CNAME .
 load.jabx.net CNAME .
 load.try-games.com CNAME .
@@ -424,6 +423,7 @@ load.xxxdb.io CNAME .
 load2.xxxdb.io CNAME .
 loienlao.mom CNAME .
 lol.globlax.com CNAME .
+losa.mkace.net CNAME .
 lx5.homeporntuber.com CNAME .
 m.x-power.info CNAME .
 m.xrum.info CNAME .
@@ -447,11 +447,13 @@ mficlyxgvfsp.cdnvideo3.com CNAME .
 mide.7mmtv.top CNAME .
 missgrand.beauty CNAME .
 mrcoviu.pics CNAME .
+mrkaito.xyz CNAME .
 mugalop.beauty CNAME .
 mx6.3pornhere.com CNAME .
 my.shymilftube.com CNAME .
 myads.babakcp0002.cf CNAME .
 mydomainbest.com CNAME .
+mylives.xyz CNAME .
 n.hnntube.com CNAME .
 n.reallifehentai.net CNAME .
 naiyoz.lol CNAME .
@@ -510,7 +512,6 @@ parkurl.com CNAME .
 penapne.xyz CNAME .
 pengenanu.files.im CNAME .
 pep929.mom CNAME .
-pepipost.autos CNAME .
 pharaon.mom CNAME .
 pihu.xxxpornhd.pro CNAME .
 pivo.tracked.one CNAME .
@@ -539,12 +540,12 @@ qoqv.com CNAME .
 qoutec.shop CNAME .
 qsdr.mysunnylawn.com CNAME .
 qx0.xnxxtubevideos.com CNAME .
+r.archertube.com CNAME .
 r.erohabu.com CNAME .
 r.freeadultporn.tv CNAME .
 ramosz.lol CNAME .
 rdx.javmotion.com CNAME .
 redi.teengirl-pics.com CNAME .
-riya.stke.xyz CNAME .
 rosehome.lol CNAME .
 rrree.baijav.com CNAME .
 rs.picmega.com CNAME .
@@ -591,8 +592,6 @@ spyglass.reklamko.pro CNAME .
 srv1.bunnymediaserver.com CNAME .
 ssis.7mmtv.top CNAME .
 ssltest.soundrussian.com CNAME .
-stbvip.co CNAME .
-stbvip.mom CNAME .
 stepfantasy.art CNAME .
 stkk.spinna.shop CNAME .
 stuff.wikiporno.org CNAME .
@@ -609,7 +608,6 @@ swqw.jav-7mmtv.top CNAME .
 taboizo.mom CNAME .
 tacumi.xyz CNAME .
 talamk3.beauty CNAME .
-taoviep.mom CNAME .
 tayrambo.lol CNAME .
 tb.turbocap.net CNAME .
 tech.moostream.top CNAME .
@@ -630,7 +628,6 @@ traffictraders.com CNAME .
 travkeoa.mom CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
-tuckbos.lol CNAME .
 uacabilqlgpw.cdnvideo3.com CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
@@ -666,6 +663,8 @@ www.letstry69.xyz CNAME .
 www.p123p.com CNAME .
 www.shemale.team CNAME .
 www.spinna.site CNAME .
+www.spinna.store CNAME .
+www.spinna.xyz CNAME .
 www.upcdn.site CNAME .
 www.valornutricional.cc CNAME .
 www.w00t.us CNAME .
@@ -697,3 +696,4 @@ youzok.lol CNAME .
 z0000g.yvmads.com CNAME .
 zzzzaaa.baijav.com CNAME .
 cdn.manhwadesu.me CNAME .
+gone.mobilhdizle.com CNAME .

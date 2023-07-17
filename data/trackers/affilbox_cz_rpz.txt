@@ -60,7 +60,6 @@ affil.seduo.cz CNAME .
 affil.seminarkyza1.cz CNAME .
 affil.sexshop1.cz CNAME .
 affil.simplysomavedic.cz CNAME .
-affil.skolaobjemu.eu CNAME .
 affil.snadnejsizivot.cz CNAME .
 affil.somavedic.cz CNAME .
 affil.sportinator.cz CNAME .
@@ -382,6 +381,7 @@ my.weplaybasketball.si CNAME .
 my.weplaybasketball.sk CNAME .
 my.weplayhandball.bg CNAME .
 my.weplayhandball.cz CNAME .
+my.weplayhandball.eu CNAME .
 my.weplayhandball.gr CNAME .
 my.weplayhandball.hu CNAME .
 my.weplayhandball.ro CNAME .
@@ -498,7 +498,6 @@ partner.gokids.cz CNAME .
 partner.granule-eshop.cz CNAME .
 partner.gurufinance.cz CNAME .
 partner.hanamoneam.com CNAME .
-partner.hegesztok-bolt.hu CNAME .
 partner.hemptor.cz CNAME .
 partner.hodinarstvi.cz CNAME .
 partner.hoska-tour.cz CNAME .
