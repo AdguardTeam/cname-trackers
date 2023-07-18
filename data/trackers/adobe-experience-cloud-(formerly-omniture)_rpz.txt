@@ -1678,9 +1678,6 @@ www3s.autopartsauthority.com CNAME .
 www3s.speedycarparts.com CNAME .
 zmetrics.boston.com CNAME .
 zmetrics.msn.com CNAME .
--aws-logs.hb.tt.omtrdc.net CNAME .
--keys-heartbeats.hb.tt.omtrdc.net CNAME .
--publicheartbeats.hb.tt.omtrdc.net CNAME .
 0--skitch--0.tt.omtrdc.net CNAME .
 0-4-80-0.jamf.tt.omtrdc.net CNAME .
 0-5.com.hopac.api.tt.omtrdc.net CNAME .

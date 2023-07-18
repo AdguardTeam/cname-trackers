@@ -5550,7 +5550,6 @@
 ||xchangelite.iasa.org^
 ||xo.xomarriage.com^
 ||your.franke.coffee^
-||*.b2bmktg.com^
 ||1.28ed48cdc058027f6b8c6e7142bb7c87.info^
 ||1.circlecvi.com^
 ||1.getnspace.com^

@@ -5602,7 +5602,6 @@
 | xchangelite.iasa.org | go.pardot.com |
 | xo.xomarriage.com | go.pardot.com |
 | your.franke.coffee | go.pardot.com |
-| *.b2bmktg.com | pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com |
 | 1.28ed48cdc058027f6b8c6e7142bb7c87.info | pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com |
 | 1.appexchange.com | pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com |
 | 1.circlecvi.com | pi-ue1-public-lb-f0209c6950285322.elb.us-east-1.amazonaws.com |

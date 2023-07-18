@@ -5550,7 +5550,6 @@ x.coro.net CNAME .
 xchangelite.iasa.org CNAME .
 xo.xomarriage.com CNAME .
 your.franke.coffee CNAME .
-*.b2bmktg.com CNAME .
 1.28ed48cdc058027f6b8c6e7142bb7c87.info CNAME .
 1.circlecvi.com CNAME .
 1.getnspace.com CNAME .

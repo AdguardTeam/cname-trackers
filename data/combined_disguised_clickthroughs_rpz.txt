@@ -3,7 +3,6 @@
 ; TimeUpdated: 2023-07-17T08:00:17+00:00
 ; Homepage: https://github.com/AdguardTeam/cname-trackers
 ;
-*.b2bmktg.com CNAME .
 0-rootsweb.b2bmktg.com CNAME .
 07b3.pandasuite.io CNAME .
 1.28ed48cdc058027f6b8c6e7142bb7c87.info CNAME .

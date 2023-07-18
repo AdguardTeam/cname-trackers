@@ -1678,9 +1678,6 @@
 ||www3s.speedycarparts.com^
 ||zmetrics.boston.com^
 ||zmetrics.msn.com^
-||-aws-logs.hb.tt.omtrdc.net^
-||-keys-heartbeats.hb.tt.omtrdc.net^
-||-publicheartbeats.hb.tt.omtrdc.net^
 ||0--skitch--0.tt.omtrdc.net^
 ||0-4-80-0.jamf.tt.omtrdc.net^
 ||0-5.com.hopac.api.tt.omtrdc.net^
