@@ -51,6 +51,7 @@ a.thespa.steigenberger.com CNAME .
 a.zleep.com CNAME .
 abc.bayer04.de CNAME .
 abc.fackelmann.de CNAME .
+admin.wbtrkk.teufelaudio.nl CNAME .
 analytics.hermesworld.com CNAME .
 analytics.myhermes.de CNAME .
 app03.ikk-classic.de CNAME .
@@ -370,3 +371,4 @@ wttd.madeleine.com CNAME .
 wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
+www.a.steigenberger.com CNAME .

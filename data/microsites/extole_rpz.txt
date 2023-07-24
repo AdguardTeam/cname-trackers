@@ -123,6 +123,7 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -215,6 +216,7 @@ refer.etrade.net CNAME .
 refer.everlywell.com CNAME .
 refer.evite.com CNAME .
 refer.fahw.com CNAME .
+refer.firstaidbeauty.com CNAME .
 refer.firstrepublic.com CNAME .
 refer.firsttechfed.com CNAME .
 refer.frontgate.com CNAME .
@@ -412,6 +414,7 @@ share.asics.com CNAME .
 share.atlasbars.com CNAME .
 share.aveda.com.au CNAME .
 share.azcentral.com CNAME .
+share.baiconnect.com CNAME .
 share.basepaws.com CNAME .
 share.battlecreekenquirer.com CNAME .
 share.beaspermdonor.com CNAME .
@@ -615,5 +618,4 @@ share.zenbusiness.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em8561.go2bank.com CNAME .
 sftp.extole.com CNAME .

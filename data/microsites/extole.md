@@ -155,6 +155,7 @@
     * aveda-uk.extole.io
     * aveda.extole.io
     * avocado-mattress.extole.io
+    * baiconnect.extole.io
     * ballarddesigns.extole.io
     * banana-republic.extole.io
     * bare-escentuals.extole.io
@@ -254,6 +255,7 @@
     * fetchpet.extole.io
     * figo-pet-insurance.extole.io
     * fingercheck.extole.io
+    * first-aid-beauty.extole.io
     * first-american-home-warranty.extole.io
     * first-tech-federal.extole.io
     * firstleaf.extole.io
@@ -280,6 +282,7 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -584,6 +587,7 @@
 | share.refer-aveda.com | aveda.extole.io |
 | refer.avocadogreenmattress.com | avocado-mattress.extole.io |
 | refer.backcountry.com | backcountry.extole.com |
+| share.baiconnect.com | baiconnect.extole.io |
 | refer.ballarddesigns.com | ballarddesigns.extole.io |
 | refer.bananarepublic.com | banana-republic.extole.io |
 | refer.bareminerals.com | bare-escentuals.extole.io |
@@ -721,6 +725,7 @@
 | share.fetchpet.com | fetchpet.extole.io |
 | share.figopetinsurance.com | figo-pet-insurance.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |
+| refer.firstaidbeauty.com | first-aid-beauty.extole.io |
 | refer.fahw.com | first-american-home-warranty.extole.io |
 | refer.firsttechfed.com | first-tech-federal.extole.io |
 | share.firstleaf.club | firstleaf.extole.io |
@@ -788,6 +793,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |

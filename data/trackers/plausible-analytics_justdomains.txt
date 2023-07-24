@@ -51,7 +51,6 @@ analytics.recamov.com
 analytics.sideprojectsoftware.com
 analytics.sixfigureswine.com
 analytics.southjerseyquakers.org
-analytics.ss88.us
 analytics.teamcovenant.com
 analytics.top10-charts.com
 analytics.trust.page
@@ -121,6 +120,7 @@ hurricane.tinybird.co
 hype.zlipa.com
 informatics.filamentcolors.xyz
 insights.affilimate.com
+jinx.skullctf.com
 joy.ochronus.online
 kaladyaudiology.ericksonbuilt.com
 kekw.givetip.to
@@ -140,7 +140,6 @@ metric.methoddev.com
 metrics.axiomatic-inc.com
 metrics.creit.tech
 metrics.earrieta.dev
-metrics.euler.kr
 metrics.recunia.de
 momotaro.craigmod.com
 momotaro.walkkumano.com
@@ -246,7 +245,6 @@ plausible.external.sine.foundation
 plausible.f1laps.com
 plausible.factly.in
 plausible.flowcv.io
-plausible.flowhr.io
 plausible.food.game
 plausible.getlean.digital
 plausible.giveatip.io
@@ -581,7 +579,6 @@ stats.feathercss.makerkits.co
 stats.felipesere.com
 stats.femtobill.com
 stats.ferienwohnung-dombrowski.com
-stats.filburg.co
 stats.finalrabiesgeneration.org
 stats.flightsphere.com
 stats.florianfritz.net
@@ -758,7 +755,6 @@ stats.mesenvies.fr
 stats.michaeloliver.dev
 stats.migrantworker.ca
 stats.missionrabies.com
-stats.mmazzarolo.com
 stats.motion-effect.com
 stats.motorcyclepartsireland.ie
 stats.mrtnvh.com
@@ -930,6 +926,7 @@ stats.tedserbinski.com
 stats.teenranch.com
 stats.tekin.co.uk
 stats.terre-compagne.fr
+stats.thedale.org
 stats.thegoodlineheight.com
 stats.theiere-tasse.com
 stats.thelandofar.be
@@ -972,7 +969,6 @@ stats.vican.me
 stats.visions.ch
 stats.voedingskussen.net
 stats.voltamediahouse.com
-stats.wa.derivation.fr
 stats.wachstum.at
 stats.wafflemeido.art
 stats.walkiees.co.uk

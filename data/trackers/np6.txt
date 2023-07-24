@@ -93,6 +93,7 @@
 ||tr.asp204q.espmp-cufr.net^
 ||tr.asp2063.espmp-nifr.net^
 ||tr.asp206k.espmp-agfr.net^
+||tr.asp2070.espmp-aufr.net^
 ||tr.asp2075.espmp-nifr.net^
 ||tr.asp2076.espmp-pofr.net^
 ||tr.asp2078.espmp-nifr.net^
@@ -354,7 +355,6 @@
 ||tr.estatesandwines.moethennessy.com^
 ||tr.etravauxpro.fr^
 ||tr.eulerhermes.com^
-||tr.europa-organisation.com^
 ||tr.ev001.net^
 ||tr.evenements.inpi.fr^
 ||tr.expresofferte.be^
@@ -1043,5 +1043,6 @@
 ||f1.mailperf.com^
 ||f1.mailperformance.com^
 ||f1.np6.com^
+||infojeux.paris.fr^
 ||lbv5.mperf.com^
 ||www.bfc-mp.caisse-epargne.fr^

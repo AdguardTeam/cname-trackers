@@ -85,7 +85,6 @@
 | anaconda.zephyrus.gg | deprecated-custom-domains.b-cdn.net |
 | angelfish.dpya.com | deprecated-custom-domains.b-cdn.net |
 | angelfish.grayscale.design | deprecated-custom-domains.b-cdn.net |
-| angelfish.owlbear.rodeo | deprecated-custom-domains.b-cdn.net |
 | angelfish.shorehamlife.com | deprecated-custom-domains.b-cdn.net |
 | angelfish.wpsocialrocket.com | deprecated-custom-domains.b-cdn.net |
 | anglerfish.luminfire.com | deprecated-custom-domains.b-cdn.net |
@@ -124,7 +123,6 @@
 | baboon.vacanti.com | deprecated-custom-domains.b-cdn.net |
 | badger.pager.app | deprecated-custom-domains.b-cdn.net |
 | baldeagle.e-ma.re | deprecated-custom-domains.b-cdn.net |
-| baldeagle.eternalmma.com | deprecated-custom-domains.b-cdn.net |
 | bandicoot.mohit.dev | deprecated-custom-domains.b-cdn.net |
 | bandicoot.p0.design | deprecated-custom-domains.b-cdn.net |
 | bandicoot.sigerr.org | deprecated-custom-domains.b-cdn.net |
@@ -601,6 +599,7 @@
 | leech.stargate-project.de | deprecated-custom-domains.b-cdn.net |
 | lemming.nicolasmenard.com | deprecated-custom-domains.b-cdn.net |
 | lemming.vivian.do | deprecated-custom-domains.b-cdn.net |
+| lemur.bendaron.com | deprecated-custom-domains.b-cdn.net |
 | lemur.prinsdalpizza.no | deprecated-custom-domains.b-cdn.net |
 | leopard.laszlo.cloud | deprecated-custom-domains.b-cdn.net |
 | leopard.ui-snippets.dev | deprecated-custom-domains.b-cdn.net |
@@ -674,6 +673,7 @@
 | minnow.phasemedical.com | deprecated-custom-domains.b-cdn.net |
 | minnow.tapas-software.net | deprecated-custom-domains.b-cdn.net |
 | mite.cotinga.io | deprecated-custom-domains.b-cdn.net |
+| mite.downtotheearth.co.uk | deprecated-custom-domains.b-cdn.net |
 | mite.tetrameros.com | deprecated-custom-domains.b-cdn.net |
 | mockingbir.sgfunited.com | deprecated-custom-domains.b-cdn.net |
 | mole.bteam.co | deprecated-custom-domains.b-cdn.net |
@@ -1005,6 +1005,7 @@
 | vole.contemporaryartlibrary.org | deprecated-custom-domains.b-cdn.net |
 | vole.leonhitchens.com | deprecated-custom-domains.b-cdn.net |
 | vole.noteapps.info | deprecated-custom-domains.b-cdn.net |
+| vole.sonicrida.com | deprecated-custom-domains.b-cdn.net |
 | vole.tsttechnology.com | deprecated-custom-domains.b-cdn.net |
 | wallaby.cron.help | deprecated-custom-domains.b-cdn.net |
 | wallaby.legendkeeper.com | deprecated-custom-domains.b-cdn.net |

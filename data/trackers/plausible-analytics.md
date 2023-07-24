@@ -59,7 +59,6 @@
 | analytics.sideprojectsoftware.com | custom.plausible.io |
 | analytics.sixfigureswine.com | custom.plausible.io |
 | analytics.southjerseyquakers.org | custom.plausible.io |
-| analytics.ss88.us | custom.plausible.io |
 | analytics.teamcovenant.com | custom.plausible.io |
 | analytics.top10-charts.com | custom.plausible.io |
 | analytics.trust.page | custom.plausible.io |
@@ -129,6 +128,7 @@
 | hype.zlipa.com | custom.plausible.io |
 | informatics.filamentcolors.xyz | custom.plausible.io |
 | insights.affilimate.com | custom.plausible.io |
+| jinx.skullctf.com | custom.plausible.io |
 | joy.ochronus.online | custom.plausible.io |
 | kaladyaudiology.ericksonbuilt.com | custom.plausible.io |
 | kekw.givetip.to | custom.plausible.io |
@@ -148,7 +148,6 @@
 | metrics.axiomatic-inc.com | custom.plausible.io |
 | metrics.creit.tech | custom.plausible.io |
 | metrics.earrieta.dev | custom.plausible.io |
-| metrics.euler.kr | custom.plausible.io |
 | metrics.recunia.de | custom.plausible.io |
 | momotaro.craigmod.com | custom.plausible.io |
 | momotaro.walkkumano.com | custom.plausible.io |
@@ -254,7 +253,6 @@
 | plausible.f1laps.com | custom.plausible.io |
 | plausible.factly.in | custom.plausible.io |
 | plausible.flowcv.io | custom.plausible.io |
-| plausible.flowhr.io | custom.plausible.io |
 | plausible.food.game | custom.plausible.io |
 | plausible.getlean.digital | custom.plausible.io |
 | plausible.giveatip.io | custom.plausible.io |
@@ -589,7 +587,6 @@
 | stats.felipesere.com | custom.plausible.io |
 | stats.femtobill.com | custom.plausible.io |
 | stats.ferienwohnung-dombrowski.com | custom.plausible.io |
-| stats.filburg.co | custom.plausible.io |
 | stats.finalrabiesgeneration.org | custom.plausible.io |
 | stats.flightsphere.com | custom.plausible.io |
 | stats.florianfritz.net | custom.plausible.io |
@@ -766,7 +763,6 @@
 | stats.michaeloliver.dev | custom.plausible.io |
 | stats.migrantworker.ca | custom.plausible.io |
 | stats.missionrabies.com | custom.plausible.io |
-| stats.mmazzarolo.com | custom.plausible.io |
 | stats.motion-effect.com | custom.plausible.io |
 | stats.motorcyclepartsireland.ie | custom.plausible.io |
 | stats.mrtnvh.com | custom.plausible.io |
@@ -938,6 +934,7 @@
 | stats.teenranch.com | custom.plausible.io |
 | stats.tekin.co.uk | custom.plausible.io |
 | stats.terre-compagne.fr | custom.plausible.io |
+| stats.thedale.org | custom.plausible.io |
 | stats.thegoodlineheight.com | custom.plausible.io |
 | stats.theiere-tasse.com | custom.plausible.io |
 | stats.thelandofar.be | custom.plausible.io |
@@ -980,7 +977,6 @@
 | stats.visions.ch | custom.plausible.io |
 | stats.voedingskussen.net | custom.plausible.io |
 | stats.voltamediahouse.com | custom.plausible.io |
-| stats.wa.derivation.fr | custom.plausible.io |
 | stats.wachstum.at | custom.plausible.io |
 | stats.wafflemeido.art | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |

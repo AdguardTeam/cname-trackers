@@ -62,6 +62,7 @@
 | arvb.gamz48qlok.ru | lb.rtb.ads.bid |
 | avb-co.8njhhs0ivx.com | lb.rtb.ads.bid |
 | avb-co.cau1aighae.com | lb.rtb.ads.bid |
+| avb-co.eqyizxx1m3.com | lb.rtb.ads.bid |
 | avb-co.esuxdqovni.com | lb.rtb.ads.bid |
 | avb-co.iemieshohx.com | lb.rtb.ads.bid |
 | avb-co.iiltsdqcsb.com | lb.rtb.ads.bid |
@@ -84,6 +85,7 @@
 | dsp-image-resizer.adsbid.ru | lb.rtb.ads.bid |
 | dsp-image-resizer.gamz48qlok.ru | lb.rtb.ads.bid |
 | lk-api-beta.ads2.bid | lb.rtb.ads.bid |
+| ppc-dir-co.esuxdqovni.com | lb.rtb.ads.bid |
 | vitrina-ad-click.adghndou0sdh.ru | lb.rtb.ads.bid |
 | ac-dir-sing.8njhhs0ivx.com | sing.lb.rtb.ads.bid |
 | ac-dir-sing.cau1aighae.com | sing.lb.rtb.ads.bid |
@@ -114,6 +116,7 @@
 | di-res-sing.t4ergzwf7r.com | sing.lb.rtb.ads.bid |
 | di-res-sing.xw1fx50x35.com | sing.lb.rtb.ads.bid |
 | dsp-image-resizer-sing.adsbid.ru | sing.lb.rtb.ads.bid |
+| ppc-dir-sing.esuxdqovni.com | sing.lb.rtb.ads.bid |
 | sing.3h1fpq39jb.ru | sing.lb.rtb.ads.bid |
 | sing.8njhhs0ivx.com | sing.lb.rtb.ads.bid |
 | sing.cau1aighae.com | sing.lb.rtb.ads.bid |

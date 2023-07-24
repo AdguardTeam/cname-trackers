@@ -258,6 +258,7 @@ a8.tecpartners.jp CNAME .
 a8.teddyworks.co.jp CNAME .
 a8.the-session.jp CNAME .
 a8.thg.co.jp CNAME .
+a8.tokihana.net CNAME .
 a8.tokyo-hills-clinic.com CNAME .
 a8.tone.ne.jp CNAME .
 a8.toraiz.jp CNAME .
@@ -601,6 +602,7 @@ a8clk.www.roomdeco.shop CNAME .
 a8clk.www.solar-partners.jp CNAME .
 a8clk.www.solarmonitorlp.energy-itsol.com CNAME .
 a8clk.www.uz.team CNAME .
+a8clk.www.xebiocard.co.jp CNAME .
 a8clk.www.zwei.com CNAME .
 a8clk.xn--t8jx01hmvbgye566gd1f.com CNAME .
 a8clk.xserver.ne.jp CNAME .
@@ -1016,6 +1018,7 @@ a8cv.wordman.jp CNAME .
 a8cv.workany.jp CNAME .
 a8cv.worker.sukimaworks.app CNAME .
 a8cv.workman.jp CNAME .
+a8cv.worx.jp CNAME .
 a8cv.www.bedstyle.jp CNAME .
 a8cv.www.bigability.co.jp CNAME .
 a8cv.www.bitlock.jp CNAME .
@@ -1081,6 +1084,7 @@ a8trck.helloactivity.com CNAME .
 a8trck.j-sen.jp CNAME .
 a8trck.tolot.com CNAME .
 a8trck.worldone.to CNAME .
+a8trck.ws.formzu.net CNAME .
 a8trk.beat-hiit.com CNAME .
 a8trk.www.std-lab.jp CNAME .
 a8x.piece-kaitori.jp CNAME .

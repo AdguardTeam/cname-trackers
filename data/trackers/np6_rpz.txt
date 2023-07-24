@@ -93,6 +93,7 @@ tr.asp2045.espmp-nifr.net CNAME .
 tr.asp204q.espmp-cufr.net CNAME .
 tr.asp2063.espmp-nifr.net CNAME .
 tr.asp206k.espmp-agfr.net CNAME .
+tr.asp2070.espmp-aufr.net CNAME .
 tr.asp2075.espmp-nifr.net CNAME .
 tr.asp2076.espmp-pofr.net CNAME .
 tr.asp2078.espmp-nifr.net CNAME .
@@ -354,7 +355,6 @@ tr.ere.emailing.bnpparibas CNAME .
 tr.estatesandwines.moethennessy.com CNAME .
 tr.etravauxpro.fr CNAME .
 tr.eulerhermes.com CNAME .
-tr.europa-organisation.com CNAME .
 tr.ev001.net CNAME .
 tr.evenements.inpi.fr CNAME .
 tr.expresofferte.be CNAME .
@@ -1043,5 +1043,6 @@ f1.demo.np6.com CNAME .
 f1.mailperf.com CNAME .
 f1.mailperformance.com CNAME .
 f1.np6.com CNAME .
+infojeux.paris.fr CNAME .
 lbv5.mperf.com CNAME .
 www.bfc-mp.caisse-epargne.fr CNAME .

@@ -85,6 +85,7 @@
 ||deut3.fdj.fr^
 ||dko.vente-unique.nl^
 ||dqs3.darjeeling.fr^
+||dsfe19.madeindesign.com^
 ||dv59b.montecarlomeeting.com^
 ||dw0c.sfr.fr^
 ||dw7u.hotelsbarriere.com^
@@ -278,7 +279,11 @@
 ||jhm3.ifgexecutive.com^
 ||jln3.cl-brands.com^
 ||jln3.clstudios.com^
+||jn23.madeindesign.ch^
+||jn23.madeindesign.it^
 ||jo2f.cheque-cadhoc.fr^
+||ju23.madeindesign.co.uk^
+||jun23.madeindesign.de^
 ||jxy6.evobanco.es^
 ||kep6.destinia.ie^
 ||kux5.raileurope.com^

@@ -41,6 +41,7 @@
     * h-516jl8bt.online-metrix.net
     * h-5g3kt0kj.online-metrix.net
     * h-5glaq71x.online-metrix.net
+    * h-5h8i3ud8.online-metrix.net
     * h-5pxao9h8.online-metrix.net
     * h-5uvvlv7u.online-metrix.net
     * h-5wdrto0i.online-metrix.net
@@ -99,6 +100,7 @@
     * h-afterpay.online-metrix.net
     * h-ag4c1wpy.online-metrix.net
     * h-agaval.online-metrix.net
+    * h-agxcazcm.online-metrix.net
     * h-alliantcreditunion.online-metrix.net
     * h-allianz.online-metrix.net
     * h-allstate.online-metrix.net
@@ -597,6 +599,7 @@
     * h-usps.online-metrix.net
     * h-v60nf4oj-pfp.online-metrix.net
     * h-v60nf4oj-qfp.online-metrix.net
+    * h-v60nf4oj-rfp.online-metrix.net
     * h-v60nf4oj-sfp.online-metrix.net
     * h-v60nf4oj-tfp.online-metrix.net
     * h-v60nf4oj-vfp.online-metrix.net
@@ -691,6 +694,7 @@
 | prod-uecupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-uiccuil.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-university.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-usalliance.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-utenn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-vantage.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-vsecuvt.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -725,6 +729,8 @@
 | tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
 | page-format.chase.com | h-5g3kt0kj.online-metrix.net |
 | api.ext.evolution.protective.com | h-5glaq71x.online-metrix.net |
+| cfa.fidelity.com | h-5h8i3ud8.online-metrix.net |
+| cfa.mystreetscape.com | h-5h8i3ud8.online-metrix.net |
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.ke | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.za | h-5pxao9h8.online-metrix.net |
@@ -805,6 +811,7 @@
 | rsx.afterpay.com | h-afterpay.online-metrix.net |
 | lsr22.dzing.finance | h-ag4c1wpy.online-metrix.net |
 | validacionlx.agaval.com | h-agaval.online-metrix.net |
+| dt.payla.io | h-agxcazcm.online-metrix.net |
 | cdn.alliantcreditunion.com | h-alliantcreditunion.online-metrix.net |
 | txn.allianzlife.com | h-allianz.online-metrix.net |
 | content.allstate.com | h-allstate.online-metrix.net |
@@ -854,7 +861,6 @@
 | banque.banque-casino.fr | h-banquecasino.online-metrix.net |
 | tm.barstoolsportsbook.com | h-barstoolsportsbook.online-metrix.net |
 | tm.beachbody.com | h-beachbody.online-metrix.net |
-| tm.teambeachbody.com | h-beachbody.online-metrix.net |
 | tm.benevity.org | h-benevity.online-metrix.net |
 | content.berluti.com | h-berluti.online-metrix.net |
 | tmx.bestbuy.com | h-bestbuy.online-metrix.net |
@@ -1070,8 +1076,6 @@
 | did.fashionworld.co.uk | h-fashionworld.online-metrix.net |
 | ccf.prod.fedex.com | h-fedex.online-metrix.net |
 | cfa.febtest.com | h-fidelity.online-metrix.net |
-| cfa.fidelity.com | h-fidelity.online-metrix.net |
-| cfa.mystreetscape.com | h-fidelity.online-metrix.net |
 | cfaxdev2.fidelity.com | h-fidelity.online-metrix.net |
 | daotm.firstcitizens.com | h-firstcitizensbank.online-metrix.net |
 | clovergo.june-testing.firstdata.com | h-firstdata.online-metrix.net |
@@ -1497,6 +1501,7 @@
 | content.usps.com | h-usps.online-metrix.net |
 | pfp.intuit.com | h-v60nf4oj-pfp.online-metrix.net |
 | qfp.intuit.com | h-v60nf4oj-qfp.online-metrix.net |
+| rfp.intuit.com | h-v60nf4oj-rfp.online-metrix.net |
 | sfp.intuit.com | h-v60nf4oj-sfp.online-metrix.net |
 | tfp.intuit.com | h-v60nf4oj-tfp.online-metrix.net |
 | vfp.intuit.com | h-v60nf4oj-vfp.online-metrix.net |
@@ -1565,6 +1570,7 @@
 | fraudcheck.walmart.ca | h.online-metrix.net |
 | gateway.jmbullion.com | h.online-metrix.net |
 | h.greenmangaming.com | h.online-metrix.net |
+| metrix.motosport.com | h.online-metrix.net |
 | ons.tickets.com | h.online-metrix.net |
 | portal-fp-qa1.qa.threatmetrix.com | qa1-h.online-metrix.net |
 | invalid-qa2.threatmetrix.com | qa2-h.online-metrix.net |

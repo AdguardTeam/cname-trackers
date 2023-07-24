@@ -55,6 +55,7 @@ adebis.fenet.jp CNAME .
 adebis.ferret-one.com CNAME .
 adebis.furisode-ichikura.jp CNAME .
 adebis.gfs-official.com CNAME .
+adebis.gfs.tokyo CNAME .
 adebis.gogin.co.jp CNAME .
 adebis.harutaka.jp CNAME .
 adebis.hotstaff.co.jp CNAME .

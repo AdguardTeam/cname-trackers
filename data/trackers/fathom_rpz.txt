@@ -30,7 +30,6 @@ anaconda.webitizeicts.com CNAME .
 anaconda.zephyrus.gg CNAME .
 angelfish.dpya.com CNAME .
 angelfish.grayscale.design CNAME .
-angelfish.owlbear.rodeo CNAME .
 angelfish.shorehamlife.com CNAME .
 angelfish.wpsocialrocket.com CNAME .
 anglerfish.luminfire.com CNAME .
@@ -69,7 +68,6 @@ baboon.naxon.dev CNAME .
 baboon.vacanti.com CNAME .
 badger.pager.app CNAME .
 baldeagle.e-ma.re CNAME .
-baldeagle.eternalmma.com CNAME .
 bandicoot.mohit.dev CNAME .
 bandicoot.p0.design CNAME .
 bandicoot.sigerr.org CNAME .
@@ -544,6 +542,7 @@ leech.privacycloud.com CNAME .
 leech.stargate-project.de CNAME .
 lemming.nicolasmenard.com CNAME .
 lemming.vivian.do CNAME .
+lemur.bendaron.com CNAME .
 lemur.prinsdalpizza.no CNAME .
 leopard.laszlo.cloud CNAME .
 leopard.ui-snippets.dev CNAME .
@@ -617,6 +616,7 @@ minnow.mimosaagency.com CNAME .
 minnow.phasemedical.com CNAME .
 minnow.tapas-software.net CNAME .
 mite.cotinga.io CNAME .
+mite.downtotheearth.co.uk CNAME .
 mite.tetrameros.com CNAME .
 mockingbir.sgfunited.com CNAME .
 mole.bteam.co CNAME .
@@ -946,6 +946,7 @@ viper.sitesauce.app CNAME .
 vole.contemporaryartlibrary.org CNAME .
 vole.leonhitchens.com CNAME .
 vole.noteapps.info CNAME .
+vole.sonicrida.com CNAME .
 vole.tsttechnology.com CNAME .
 wallaby.cron.help CNAME .
 wallaby.legendkeeper.com CNAME .

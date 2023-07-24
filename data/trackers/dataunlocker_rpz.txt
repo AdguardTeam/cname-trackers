@@ -36,7 +36,6 @@
 771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 7hdl8dlfjm4g.www.cybernetman.com CNAME .
-7tztu83vyuak.piqnt.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9r0ptx5k38hk.hollowayremovals.com.au CNAME .

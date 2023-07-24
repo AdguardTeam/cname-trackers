@@ -1,6 +1,7 @@
 ;
 ; Company name: Commanders Act
 acquisition.klm.com CNAME .
+data.auchandirect.fr CNAME .
 data.decathlon.co.uk CNAME .
 data.decathlon.de CNAME .
 data.decathlon.es CNAME .

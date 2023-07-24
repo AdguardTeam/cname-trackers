@@ -1,6 +1,7 @@
 !
 ! Company name: Commanders Act
 ||acquisition.klm.com^
+||data.auchandirect.fr^
 ||data.decathlon.co.uk^
 ||data.decathlon.de^
 ||data.decathlon.es^

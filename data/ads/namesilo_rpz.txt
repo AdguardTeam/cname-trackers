@@ -63,6 +63,7 @@
 3180154.notifysrv.com CNAME .
 3180164.notifysrv.com CNAME .
 3180172.notifysrv.com CNAME .
+3180606.notifysrv.com CNAME .
 3180616.notify6.com CNAME .
 3180622.notifysrv.com CNAME .
 3180624.notifysrv.com CNAME .
@@ -168,6 +169,7 @@
 3249470.notifysrv.com CNAME .
 3249648.notify6.com CNAME .
 3250420.notify6.com CNAME .
+3251144.notify6.com CNAME .
 3254306.notifysrv.com CNAME .
 3258452.notifysrv.com CNAME .
 3258696.notifysrv.com CNAME .
@@ -430,6 +432,7 @@
 3489365.notify6.com CNAME .
 3491507.notifysrv.com CNAME .
 3491539.notifysrv.com CNAME .
+3493551.notify6.com CNAME .
 3493753.notifysrv.com CNAME .
 3496079.notify6.com CNAME .
 3497467.notifysrv.com CNAME .
@@ -437,6 +440,7 @@
 3498171.notify6.com CNAME .
 3501655.notify6.com CNAME .
 3505119.notify6.com CNAME .
+3505123.notify6.com CNAME .
 3505123.notifysrv.com CNAME .
 3505135.notifysrv.com CNAME .
 3505139.notify6.com CNAME .
@@ -553,6 +557,7 @@
 3598457.notifysrv.com CNAME .
 3599607.notify6.com CNAME .
 3599607.notifysrv.com CNAME .
+3599613.notify6.com CNAME .
 3599613.notifysrv.com CNAME .
 3599727.notify6.com CNAME .
 3603119.notifysrv.com CNAME .
@@ -562,6 +567,7 @@
 3617853.notify6.com CNAME .
 3618939.notify6.com CNAME .
 3618945.notify6.com CNAME .
+3618947.notify6.com CNAME .
 3619313.notify6.com CNAME .
 3619313.notifysrv.com CNAME .
 3621331.notifysrv.com CNAME .
@@ -931,6 +937,7 @@ s.a3ion.com CNAME .
 s.ad.guru CNAME .
 s.adnflow.com CNAME .
 s.advertrek.com CNAME .
+s.asvsm.com CNAME .
 s.bizonads-ssp.com CNAME .
 s.datingclix.com CNAME .
 s.eaalink.com CNAME .
@@ -993,6 +1000,7 @@ syndication.exdynsrv.com CNAME .
 syndication.exoclick.com CNAME .
 syndication.exosrv.com CNAME .
 syndication.jsadapi.com CNAME .
+syndication.link2az.com CNAME .
 syndication.link2nx.com CNAME .
 syndication.link2zz.com CNAME .
 syndication.link5c.com CNAME .
@@ -1004,6 +1012,7 @@ syndication.realsrv.com CNAME .
 syndication.whibd.com CNAME .
 syndication.whibp.com CNAME .
 syndication0.exoclick.com CNAME .
+t.optzsrv.com CNAME .
 www.3227697.notify6.com CNAME .
 www.3243082.notifysrv.com CNAME .
 www.3466863.notify6.com CNAME .

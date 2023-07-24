@@ -245,6 +245,7 @@ data-1c0a3d83e3.transfermarkt.world
 data-1c9505e4f1.digitalphoto.de
 data-1ce541951d.apps.iocnt.de
 data-1ce6da1e66.diabetes-news.de
+data-1cf566e125.gn-online.de
 data-1d11624658.gutekueche.de
 data-1d770934d4.mixed.de
 data-1df8532686.stayfriends.de
@@ -402,9 +403,11 @@ data-39822b659f.wormser-zeitung.de
 data-398d88c7b5.promipool.de
 data-39db8b138f.apps.iocnt.de
 data-39f71aefaf.prisma.de
+data-3aa56b5882.die-deutsche-wirtschaft.de
 data-3adb48f023.apps.iocnt.de
 data-3aee2d871a.hgtv.com
 data-3b1647c072.hannover.de
+data-3b1647c072.landheime.de
 data-3b1647c072.visit-hannover.com
 data-3b1647c072.visit-niedersachsen.de
 data-3bbc3a9049.apps.iocnt.de
@@ -549,6 +552,7 @@ data-47ee1b0882.kinocenter-cuxhaven.de
 data-47ee1b0882.kinokorbach.de
 data-47ee1b0882.kinonaechte-lueneburg.de
 data-47ee1b0882.kinowelt-online.de
+data-47ee1b0882.kronberger-lichtspiele.de
 data-47ee1b0882.kuki-landau.de
 data-47ee1b0882.kultiplex.de
 data-47ee1b0882.lichtburg-langen.de
@@ -663,6 +667,7 @@ data-5492b7d422.mz-jobs.de
 data-5492b7d422.mz.de
 data-5492b7d422.rblive.de
 data-54a2358d26.apps.iocnt.de
+data-54e4c92225.apps.iocnt.de
 data-54f7652a27.manager-magazin.de
 data-54f7652a27.spiegel.de
 data-557fc65a33.coachingz.one
@@ -870,6 +875,7 @@ data-6e2d34ec1f.heimatzeitung.de
 data-6e2d34ec1f.pnp.de
 data-6e57cba6aa.focus.de
 data-6e57cba6aa.netmoms.de
+data-6ed56dd691.bdb.at
 data-6f0387b7f3.apps.iocnt.de
 data-6f4f333803.apps.iocnt.de
 data-6fd9590058.apps.iocnt.de
@@ -1341,6 +1347,7 @@ data-b2b62acd29.bigkarriere.de
 data-b2c2f78a2e.stadtbuecherei-oehringen.de
 data-b35e28a5a5.springermedizin.de
 data-b36bfba069.apps.iocnt.de
+data-b389eff81a.art-magazin.de
 data-b389eff81a.business-punk.com
 data-b389eff81a.geo.de
 data-b389eff81a.stern.de
@@ -1544,6 +1551,7 @@ data-cfe819bed5.playboy.de
 data-d03ddf25a3.wissenschaft.de
 data-d0a45359d6.apps.iocnt.de
 data-d0d624845f.hcm-magazin.de
+data-d0f2ad8f69.apps.iocnt.de
 data-d14378f111.apps.iocnt.de
 data-d167bd4c4e.regenbogen.de
 data-d1cd281a03.myhomebook.de
@@ -1910,6 +1918,7 @@ data-f722634d33.haller-kreisblatt.de
 data-f7a0168660.versicherungsbote.de
 data-f8f10caff9.apps.iocnt.de
 data-f8fea2d99e.gbv.de
+data-f8fea2d99e.staatsbibliothek-berlin.de
 data-f943e74ec9.bz-berlin.de
 data-f9b542cb96.apps.iocnt.de
 data-fa2c5597f6.roadbike.de
@@ -1988,6 +1997,7 @@ data-nl.connect-professional.de
 data-nl.elektroniknet.de
 data-nl.funkschau.de
 data-nl.ict-channel.com
+data-nl.lanline.de
 data-nl.smarterworld.de
 data-nl.tageskarte.io
 dnsbl.test.data-6dbef37a3c.apps.iocnt.de

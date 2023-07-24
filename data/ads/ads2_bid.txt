@@ -37,6 +37,7 @@
 ||arvb.gamz48qlok.ru^
 ||avb-co.8njhhs0ivx.com^
 ||avb-co.cau1aighae.com^
+||avb-co.eqyizxx1m3.com^
 ||avb-co.esuxdqovni.com^
 ||avb-co.iemieshohx.com^
 ||avb-co.iiltsdqcsb.com^
@@ -101,7 +102,9 @@
 ||latam.t4ergzwf7r.com^
 ||latam.xw1fx50x35.com^
 ||lk-api-beta.ads2.bid^
+||ppc-dir-co.esuxdqovni.com^
 ||ppc-dir-latam.cau1aighae.com^
+||ppc-dir-sing.esuxdqovni.com^
 ||sing.3h1fpq39jb.ru^
 ||sing.8njhhs0ivx.com^
 ||sing.cau1aighae.com^

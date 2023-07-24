@@ -258,6 +258,7 @@ a8.tecpartners.jp
 a8.teddyworks.co.jp
 a8.the-session.jp
 a8.thg.co.jp
+a8.tokihana.net
 a8.tokyo-hills-clinic.com
 a8.tone.ne.jp
 a8.toraiz.jp
@@ -601,6 +602,7 @@ a8clk.www.roomdeco.shop
 a8clk.www.solar-partners.jp
 a8clk.www.solarmonitorlp.energy-itsol.com
 a8clk.www.uz.team
+a8clk.www.xebiocard.co.jp
 a8clk.www.zwei.com
 a8clk.xn--t8jx01hmvbgye566gd1f.com
 a8clk.xserver.ne.jp
@@ -1016,6 +1018,7 @@ a8cv.wordman.jp
 a8cv.workany.jp
 a8cv.worker.sukimaworks.app
 a8cv.workman.jp
+a8cv.worx.jp
 a8cv.www.bedstyle.jp
 a8cv.www.bigability.co.jp
 a8cv.www.bitlock.jp
@@ -1081,6 +1084,7 @@ a8trck.helloactivity.com
 a8trck.j-sen.jp
 a8trck.tolot.com
 a8trck.worldone.to
+a8trck.ws.formzu.net
 a8trk.beat-hiit.com
 a8trk.www.std-lab.jp
 a8x.piece-kaitori.jp

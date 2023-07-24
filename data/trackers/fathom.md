@@ -48,7 +48,6 @@
 | anaconda.zephyrus.gg | deprecated-custom-domains.b-cdn.net |
 | angelfish.dpya.com | deprecated-custom-domains.b-cdn.net |
 | angelfish.grayscale.design | deprecated-custom-domains.b-cdn.net |
-| angelfish.owlbear.rodeo | deprecated-custom-domains.b-cdn.net |
 | angelfish.shorehamlife.com | deprecated-custom-domains.b-cdn.net |
 | angelfish.wpsocialrocket.com | deprecated-custom-domains.b-cdn.net |
 | anglerfish.luminfire.com | deprecated-custom-domains.b-cdn.net |
@@ -94,7 +93,6 @@
 | baboon.vacanti.com | deprecated-custom-domains.b-cdn.net |
 | badger.pager.app | deprecated-custom-domains.b-cdn.net |
 | baldeagle.e-ma.re | deprecated-custom-domains.b-cdn.net |
-| baldeagle.eternalmma.com | deprecated-custom-domains.b-cdn.net |
 | bandicoot.mohit.dev | deprecated-custom-domains.b-cdn.net |
 | bandicoot.p0.design | deprecated-custom-domains.b-cdn.net |
 | bandicoot.sigerr.org | deprecated-custom-domains.b-cdn.net |
@@ -566,6 +564,7 @@
 | ladybug.ethanprintz.com | deprecated-custom-domains.b-cdn.net |
 | ladybug.paulstovell.com | deprecated-custom-domains.b-cdn.net |
 | lamprey.carolcassar.com | deprecated-custom-domains.b-cdn.net |
+| lamprey.seagyndavis.com | deprecated-custom-domains.b-cdn.net |
 | landfowl.typegang.com | deprecated-custom-domains.b-cdn.net |
 | landsnail.bindle.io | deprecated-custom-domains.b-cdn.net |
 | landsnail.brownfield.dev | deprecated-custom-domains.b-cdn.net |
@@ -878,7 +877,6 @@
 | skink.madewithlove.com | deprecated-custom-domains.b-cdn.net |
 | skunk.sebastiandedeyne.com | deprecated-custom-domains.b-cdn.net |
 | sloth.goodtendency.app | deprecated-custom-domains.b-cdn.net |
-| sloth.pricingforhackers.com | deprecated-custom-domains.b-cdn.net |
 | sloth.vaalinstudio.com | deprecated-custom-domains.b-cdn.net |
 | sloth.vguerrerobosch.com | deprecated-custom-domains.b-cdn.net |
 | slug.sirenergies.com | deprecated-custom-domains.b-cdn.net |
@@ -978,6 +976,7 @@
 | trout.travelmassive.com | deprecated-custom-domains.b-cdn.net |
 | trout.unicornplatform.com | deprecated-custom-domains.b-cdn.net |
 | tuna.peterfarms.com | deprecated-custom-domains.b-cdn.net |
+| turkey.codeness.io | deprecated-custom-domains.b-cdn.net |
 | turkey.docsy.cloud | deprecated-custom-domains.b-cdn.net |
 | turkey.tella.tv | deprecated-custom-domains.b-cdn.net |
 | turtle.geshem.space | deprecated-custom-domains.b-cdn.net |
@@ -994,6 +993,7 @@
 | vampirebat.tinamrak.com | deprecated-custom-domains.b-cdn.net |
 | vicuna.callisoma.com | deprecated-custom-domains.b-cdn.net |
 | vicuna.casa-moebel.at | deprecated-custom-domains.b-cdn.net |
+| vicuna.fortbinary.com | deprecated-custom-domains.b-cdn.net |
 | vicuna.joblicant.de | deprecated-custom-domains.b-cdn.net |
 | vicuna.mybestproducts.net | deprecated-custom-domains.b-cdn.net |
 | vicuna.redwoodcity.bike | deprecated-custom-domains.b-cdn.net |
@@ -1076,7 +1076,6 @@
 | anaconda.zephyrus.gg | starman.fathomdns.com |
 | angelfish.dpya.com | starman.fathomdns.com |
 | angelfish.grayscale.design | starman.fathomdns.com |
-| angelfish.owlbear.rodeo | starman.fathomdns.com |
 | angelfish.shorehamlife.com | starman.fathomdns.com |
 | angelfish.wpsocialrocket.com | starman.fathomdns.com |
 | anglerfish.luminfire.com | starman.fathomdns.com |
@@ -1115,7 +1114,6 @@
 | baboon.vacanti.com | starman.fathomdns.com |
 | badger.pager.app | starman.fathomdns.com |
 | baldeagle.e-ma.re | starman.fathomdns.com |
-| baldeagle.eternalmma.com | starman.fathomdns.com |
 | bandicoot.mohit.dev | starman.fathomdns.com |
 | bandicoot.p0.design | starman.fathomdns.com |
 | bandicoot.sigerr.org | starman.fathomdns.com |
@@ -1590,6 +1588,7 @@
 | leech.stargate-project.de | starman.fathomdns.com |
 | lemming.nicolasmenard.com | starman.fathomdns.com |
 | lemming.vivian.do | starman.fathomdns.com |
+| lemur.bendaron.com | starman.fathomdns.com |
 | lemur.prinsdalpizza.no | starman.fathomdns.com |
 | leopard.laszlo.cloud | starman.fathomdns.com |
 | leopard.ui-snippets.dev | starman.fathomdns.com |
@@ -1662,6 +1661,7 @@
 | minnow.phasemedical.com | starman.fathomdns.com |
 | minnow.tapas-software.net | starman.fathomdns.com |
 | mite.cotinga.io | starman.fathomdns.com |
+| mite.downtotheearth.co.uk | starman.fathomdns.com |
 | mite.tetrameros.com | starman.fathomdns.com |
 | mockingbir.sgfunited.com | starman.fathomdns.com |
 | mole.bteam.co | starman.fathomdns.com |
@@ -1991,6 +1991,7 @@
 | vole.contemporaryartlibrary.org | starman.fathomdns.com |
 | vole.leonhitchens.com | starman.fathomdns.com |
 | vole.noteapps.info | starman.fathomdns.com |
+| vole.sonicrida.com | starman.fathomdns.com |
 | vole.tsttechnology.com | starman.fathomdns.com |
 | wallaby.cron.help | starman.fathomdns.com |
 | wallaby.legendkeeper.com | starman.fathomdns.com |

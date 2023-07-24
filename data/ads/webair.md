@@ -524,10 +524,6 @@
     * mars.rtb-useast.ak-is2.net
     * mediacpc.fs.ak-is2.net
     * mediacpc.xml.ak-is2.net
-    * mediashakers.fs.ak-is2.net
-    * mediashakers.rtb-eu.ak-is2.net
-    * mediashakers.rtb.ak-is2.net
-    * mediashakers.xml.ak-is2.net
     * mediastinct.fs.ak-is2.net
     * mediaxchange.fs.ak-is2.net
     * mediaxchange.xml-eu.ak-is2.net
@@ -1014,7 +1010,6 @@
 | ---- | ---- |
 | beta.adkernel.com | 1.aui.ak-is2.net |
 | adk.nativeadsfeed.com | 1.cpm.ak-is2.net |
-| ads.media-servers.net | 1.cpm.ak-is2.net |
 | cpm.adbite.com | 1.cpm.ak-is2.net |
 | cpm.adjux.com | 1.cpm.ak-is2.net |
 | cpm.adlive.io | 1.cpm.ak-is2.net |
@@ -1838,10 +1833,6 @@
 | filter.mediacpc.com | mediacpc.fs.ak-is2.net |
 | click.mediacpc.com | mediacpc.xml.ak-is2.net |
 | xml.mediacpc.com | mediacpc.xml.ak-is2.net |
-| filter.mediashakers.com | mediashakers.fs.ak-is2.net |
-| rtb-eu.media-servers.net | mediashakers.rtb-eu.ak-is2.net |
-| rtb.media-servers.net | mediashakers.rtb.ak-is2.net |
-| xml.mediashakers.com | mediashakers.xml.ak-is2.net |
 | filter.mediastinct.com | mediastinct.fs.ak-is2.net |
 | filter.mediaxchange.co | mediaxchange.fs.ak-is2.net |
 | xml-eu.mediaxchange.co | mediaxchange.xml-eu.ak-is2.net |
@@ -2121,7 +2112,6 @@
 | filter.thetrafficbid.com | thetrafficbid.fs.ak-is2.net |
 | xml.thetrafficbid.com | thetrafficbid.xml.ak-is2.net |
 | ads.idiscountmall.net | thetrafficboss.fs.ak-is2.net |
-| ads.mycitybeat.com | thetrafficboss.fs.ak-is2.net |
 | calls.uptownleads.com | thetrafficboss.fs.ak-is2.net |
 | clicks.uptownleads.com | thetrafficboss.fs.ak-is2.net |
 | filter.thetrafficboss.com | thetrafficboss.fs.ak-is2.net |

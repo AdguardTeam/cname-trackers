@@ -245,6 +245,7 @@ data-1c0a3d83e3.transfermarkt.world CNAME .
 data-1c9505e4f1.digitalphoto.de CNAME .
 data-1ce541951d.apps.iocnt.de CNAME .
 data-1ce6da1e66.diabetes-news.de CNAME .
+data-1cf566e125.gn-online.de CNAME .
 data-1d11624658.gutekueche.de CNAME .
 data-1d770934d4.mixed.de CNAME .
 data-1df8532686.stayfriends.de CNAME .
@@ -402,9 +403,11 @@ data-39822b659f.wormser-zeitung.de CNAME .
 data-398d88c7b5.promipool.de CNAME .
 data-39db8b138f.apps.iocnt.de CNAME .
 data-39f71aefaf.prisma.de CNAME .
+data-3aa56b5882.die-deutsche-wirtschaft.de CNAME .
 data-3adb48f023.apps.iocnt.de CNAME .
 data-3aee2d871a.hgtv.com CNAME .
 data-3b1647c072.hannover.de CNAME .
+data-3b1647c072.landheime.de CNAME .
 data-3b1647c072.visit-hannover.com CNAME .
 data-3b1647c072.visit-niedersachsen.de CNAME .
 data-3bbc3a9049.apps.iocnt.de CNAME .
@@ -549,6 +552,7 @@ data-47ee1b0882.kinocenter-cuxhaven.de CNAME .
 data-47ee1b0882.kinokorbach.de CNAME .
 data-47ee1b0882.kinonaechte-lueneburg.de CNAME .
 data-47ee1b0882.kinowelt-online.de CNAME .
+data-47ee1b0882.kronberger-lichtspiele.de CNAME .
 data-47ee1b0882.kuki-landau.de CNAME .
 data-47ee1b0882.kultiplex.de CNAME .
 data-47ee1b0882.lichtburg-langen.de CNAME .
@@ -663,6 +667,7 @@ data-5492b7d422.mz-jobs.de CNAME .
 data-5492b7d422.mz.de CNAME .
 data-5492b7d422.rblive.de CNAME .
 data-54a2358d26.apps.iocnt.de CNAME .
+data-54e4c92225.apps.iocnt.de CNAME .
 data-54f7652a27.manager-magazin.de CNAME .
 data-54f7652a27.spiegel.de CNAME .
 data-557fc65a33.coachingz.one CNAME .
@@ -870,6 +875,7 @@ data-6e2d34ec1f.heimatzeitung.de CNAME .
 data-6e2d34ec1f.pnp.de CNAME .
 data-6e57cba6aa.focus.de CNAME .
 data-6e57cba6aa.netmoms.de CNAME .
+data-6ed56dd691.bdb.at CNAME .
 data-6f0387b7f3.apps.iocnt.de CNAME .
 data-6f4f333803.apps.iocnt.de CNAME .
 data-6fd9590058.apps.iocnt.de CNAME .
@@ -1341,6 +1347,7 @@ data-b2b62acd29.bigkarriere.de CNAME .
 data-b2c2f78a2e.stadtbuecherei-oehringen.de CNAME .
 data-b35e28a5a5.springermedizin.de CNAME .
 data-b36bfba069.apps.iocnt.de CNAME .
+data-b389eff81a.art-magazin.de CNAME .
 data-b389eff81a.business-punk.com CNAME .
 data-b389eff81a.geo.de CNAME .
 data-b389eff81a.stern.de CNAME .
@@ -1544,6 +1551,7 @@ data-cfe819bed5.playboy.de CNAME .
 data-d03ddf25a3.wissenschaft.de CNAME .
 data-d0a45359d6.apps.iocnt.de CNAME .
 data-d0d624845f.hcm-magazin.de CNAME .
+data-d0f2ad8f69.apps.iocnt.de CNAME .
 data-d14378f111.apps.iocnt.de CNAME .
 data-d167bd4c4e.regenbogen.de CNAME .
 data-d1cd281a03.myhomebook.de CNAME .
@@ -1910,6 +1918,7 @@ data-f722634d33.haller-kreisblatt.de CNAME .
 data-f7a0168660.versicherungsbote.de CNAME .
 data-f8f10caff9.apps.iocnt.de CNAME .
 data-f8fea2d99e.gbv.de CNAME .
+data-f8fea2d99e.staatsbibliothek-berlin.de CNAME .
 data-f943e74ec9.bz-berlin.de CNAME .
 data-f9b542cb96.apps.iocnt.de CNAME .
 data-fa2c5597f6.roadbike.de CNAME .
@@ -1988,6 +1997,7 @@ data-nl.connect-professional.de CNAME .
 data-nl.elektroniknet.de CNAME .
 data-nl.funkschau.de CNAME .
 data-nl.ict-channel.com CNAME .
+data-nl.lanline.de CNAME .
 data-nl.smarterworld.de CNAME .
 data-nl.tageskarte.io CNAME .
 dnsbl.test.data-6dbef37a3c.apps.iocnt.de CNAME .

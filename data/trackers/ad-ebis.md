@@ -24,6 +24,7 @@
     * 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp
     * 0e0f7a7b-skczc9vy.cname.ebis.ne.jp
     * 0ecb3018-xpsz9xxb.cname.ebis.ne.jp
+    * 109c41bc-xjhet6w1.cname.ebis.ne.jp
     * 112991d3-surmt4v9.cname.ebis.ne.jp
     * 11507dbe-dr9hla6g.cname.ebis.ne.jp
     * 1241cdd8-znrwzwlu.cname.ebis.ne.jp
@@ -322,6 +323,7 @@
 | ebis-cname.mirai-japan.co.jp | 0dd3ff25-rfkfzrfu.cname.ebis.ne.jp |
 | ac-ebis.usen-store.com | 0e0f7a7b-skczc9vy.cname.ebis.ne.jp |
 | adebis.satori.marketing | 0ecb3018-xpsz9xxb.cname.ebis.ne.jp |
+| adebis.gfs.tokyo | 109c41bc-xjhet6w1.cname.ebis.ne.jp |
 | partner.haru-shop.jp | 112991d3-surmt4v9.cname.ebis.ne.jp |
 | ebis.coyori.com | 11507dbe-dr9hla6g.cname.ebis.ne.jp |
 | seo.tkc110.jp | 1241cdd8-znrwzwlu.cname.ebis.ne.jp |

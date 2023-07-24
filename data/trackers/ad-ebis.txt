@@ -55,6 +55,7 @@
 ||adebis.ferret-one.com^
 ||adebis.furisode-ichikura.jp^
 ||adebis.gfs-official.com^
+||adebis.gfs.tokyo^
 ||adebis.gogin.co.jp^
 ||adebis.harutaka.jp^
 ||adebis.hotstaff.co.jp^

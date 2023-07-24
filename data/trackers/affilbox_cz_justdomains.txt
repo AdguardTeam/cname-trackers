@@ -340,6 +340,7 @@ my.top4fitness.se
 my.top4fitness.si
 my.top4fitness.sk
 my.top4football.com
+my.top4football.cz
 my.top4football.de
 my.top4football.dk
 my.top4football.fi
@@ -443,6 +444,7 @@ partner.chevronnutrition.cz
 partner.chiashake.cz
 partner.chilimarket.cz
 partner.chococo.cz
+partner.chytranemovitost.cz
 partner.chytrydopravce.cz
 partner.cleverfood.eu
 partner.cocochocokeratin.cz
@@ -498,6 +500,7 @@ partner.gokids.cz
 partner.granule-eshop.cz
 partner.gurufinance.cz
 partner.hanamoneam.com
+partner.hegesztok-bolt.hu
 partner.hemptor.cz
 partner.hodinarstvi.cz
 partner.hoska-tour.cz
@@ -548,9 +551,11 @@ partner.martinreznicek.cz
 partner.massivo.cz
 partner.maxori.cz
 partner.mbytshop.cz
+partner.memolingo.cz
 partner.metagram.sk
 partner.mhsexshop.com
 partner.milujifoceni.cz
+partner.misinacokolada.cz
 partner.mojetonery.sk
 partner.mooda.cz
 partner.mooselife.cz

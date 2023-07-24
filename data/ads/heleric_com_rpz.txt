@@ -89,6 +89,7 @@ fs.velellabudded.com CNAME .
 fx.muntiglesia.com CNAME .
 fy.uncheckluggies.com CNAME .
 ga.asseizeenl.com CNAME .
+ga.fentwigful.com CNAME .
 gf.goreplacers.com CNAME .
 gg.warmanmamelon.com CNAME .
 gi.okapisail.com CNAME .
@@ -269,6 +270,7 @@ tm.tangasulfide.com CNAME .
 tp.parcbegulf.com CNAME .
 tr.impoundiranism.com CNAME .
 ts.toccatamotific.com CNAME .
+ts.trilledwoods.com CNAME .
 tt.smirkydiff.com CNAME .
 tw.canjacvinum.com CNAME .
 ui.warmthsmasseur.com CNAME .
@@ -300,6 +302,7 @@ vv.habaerashiksas.com CNAME .
 vx.azuresjukes.com CNAME .
 wb.aliensplitch.com CNAME .
 wb.uncannyuneaths.com CNAME .
+wd.dimcarnie.com CNAME .
 wd.towmonterses.com CNAME .
 we.noonsderider.com CNAME .
 wi.cohereseugene.com CNAME .

@@ -262,11 +262,13 @@ ssl-bootstrapping.tns-gallup.dk CNAME .
 ssl-bornibyen.tns-gallup.dk CNAME .
 ssl-borseniam.tns-gallup.dk CNAME .
 ssl-boxerstream.tns-gallup.dk CNAME .
+ssl-stofaandroidstream.tns-gallup.dk CNAME .
 ssl-stofastream.tns-gallup.dk CNAME .
 ssl-bt-eavis.tns-gallup.dk CNAME .
 ssl-bt.tns-gallup.dk CNAME .
 ssl-bureaubiz.tns-gallup.dk CNAME .
 ssl-business.tns-gallup.dk CNAME .
+ssl-camping.tns-gallup.dk CNAME .
 ssl-computerworld.tns-gallup.dk CNAME .
 ssl-costume.tns-gallup.dk CNAME .
 ssl-dagbladetringskjern.tns-gallup.dk CNAME .
@@ -371,6 +373,7 @@ stiften.tns-gallup.dk CNAME .
 storedk.tns-gallup.dk CNAME .
 thistedp.tns-gallup.dk CNAME .
 tv2androidstream.tns-gallup.dk CNAME .
+tv2iam.tns-gallup.dk CNAME .
 tv2stream.tns-gallup.dk CNAME .
 tv3.tns-gallup.dk CNAME .
 tv3play.tns-gallup.dk CNAME .

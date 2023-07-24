@@ -363,6 +363,7 @@ dol-reemployme-js01.maine.gov CNAME .
 donor.cafamerica.org CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
+dt.payla.io CNAME .
 dvc0271.play.jackpocket.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
 enligne.bnc.ca CNAME .
@@ -486,6 +487,7 @@ mbrstat.mywoodmen.org CNAME .
 meiodepagamento.campanhaporto.com.br CNAME .
 membership-device.secured-igaming-services.com CNAME .
 metrics.myfrs.com CNAME .
+metrix.motosport.com CNAME .
 metrix.us.ovhcloud.com CNAME .
 mnt.sbisec.co.jp CNAME .
 mobile-content-f.autozone.com CNAME .
@@ -573,6 +575,7 @@ prod-tvfcuwy.chaperone.lumindigitalhosting.com CNAME .
 prod-uecupa.chaperone.lumindigitalhosting.com CNAME .
 prod-uiccuil.chaperone.lumindigitalhosting.com CNAME .
 prod-university.chaperone.lumindigitalhosting.com CNAME .
+prod-usalliance.chaperone.lumindigitalhosting.com CNAME .
 prod-utenn.chaperone.lumindigitalhosting.com CNAME .
 prod-vantage.chaperone.lumindigitalhosting.com CNAME .
 prod-vsecuvt.chaperone.lumindigitalhosting.com CNAME .
@@ -614,6 +617,7 @@ regstat.betfair.com CNAME .
 regstat.paddypower.com CNAME .
 req.secured-content.com CNAME .
 res.pay.ionos.com CNAME .
+rfp.intuit.com CNAME .
 rhino.gocardless.com CNAME .
 rm-3d84e791.payby.com CNAME .
 rmscheck.sbifxt.co.jp CNAME .
@@ -829,7 +833,6 @@ tm.stats.home24.nl CNAME .
 tm.stoiximan.gr CNAME .
 tm.summit-services.ca CNAME .
 tm.tbcbank.uz CNAME .
-tm.teambeachbody.com CNAME .
 tm.telecharge.com CNAME .
 tm.uship.com CNAME .
 tma.caffeine.tv CNAME .

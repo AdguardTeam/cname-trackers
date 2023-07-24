@@ -218,6 +218,7 @@
 | mit.deutschewealth.com | 117490221505998.wt-eu02.net |
 | intelligence.officialwesthamstore.com | 125611812418194.wt-eu02.net |
 | mapp.ewm.co.uk | 145003564476173.wt-eu02.net |
+| admin.wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | web.sensilab.com | 151836596491843.wt-eu02.net |
 | web.sensilab.cz | 151836596491843.wt-eu02.net |
@@ -272,6 +273,7 @@
 | a.steigenberger.com | 307902509027183.wt-eu02.net |
 | a.thespa.steigenberger.com | 307902509027183.wt-eu02.net |
 | a.zleep.com | 307902509027183.wt-eu02.net |
+| www.a.steigenberger.com | 307902509027183.wt-eu02.net |
 | web.mapp.whiteaway.no | 310695274957699.wt-eu02.net |
 | web.mail.parmalat.it | 312310057961150.wt-eu02.net |
 | web.mailing.storz-bickel.com | 318590743478915.wt-eu02.net |

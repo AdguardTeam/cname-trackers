@@ -85,6 +85,7 @@ deut2.fdj.fr CNAME .
 deut3.fdj.fr CNAME .
 dko.vente-unique.nl CNAME .
 dqs3.darjeeling.fr CNAME .
+dsfe19.madeindesign.com CNAME .
 dv59b.montecarlomeeting.com CNAME .
 dw0c.sfr.fr CNAME .
 dw7u.hotelsbarriere.com CNAME .
@@ -278,7 +279,11 @@ jg0c.sfr.fr CNAME .
 jhm3.ifgexecutive.com CNAME .
 jln3.cl-brands.com CNAME .
 jln3.clstudios.com CNAME .
+jn23.madeindesign.ch CNAME .
+jn23.madeindesign.it CNAME .
 jo2f.cheque-cadhoc.fr CNAME .
+ju23.madeindesign.co.uk CNAME .
+jun23.madeindesign.de CNAME .
 jxy6.evobanco.es CNAME .
 kep6.destinia.ie CNAME .
 kux5.raileurope.com CNAME .

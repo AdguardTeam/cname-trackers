@@ -6,8 +6,6 @@ adk.nativeadsfeed.com CNAME .
 adkfilter.mybestclick.net CNAME .
 admin3.danarimedia.com CNAME .
 ads.idiscountmall.net CNAME .
-ads.media-servers.net CNAME .
-ads.mycitybeat.com CNAME .
 adserver.additionalmedia.com CNAME .
 adserver.catapultx.com CNAME .
 advertise.admetix.com CNAME .
@@ -280,7 +278,6 @@ filter.leoback.com CNAME .
 filter.leoyard.com CNAME .
 filter.looksmartppc.com CNAME .
 filter.mediacpc.com CNAME .
-filter.mediashakers.com CNAME .
 filter.mediastinct.com CNAME .
 filter.mediaxchange.co CNAME .
 filter.mobagent.com CNAME .
@@ -514,7 +511,6 @@ rtb-eu.foremedia.net CNAME .
 rtb-eu.houseofpubs.com CNAME .
 rtb-eu.hueadsortb.com CNAME .
 rtb-eu.infinity-info.com CNAME .
-rtb-eu.media-servers.net CNAME .
 rtb-eu.mobipromote.com CNAME .
 rtb-eu.mobuppsrtb.com CNAME .
 rtb-eu.motionspots.com CNAME .
@@ -660,7 +656,6 @@ rtb.bliss91.com CNAME .
 rtb.clixportal.com CNAME .
 rtb.clixwells.com CNAME .
 rtb.explorads.com CNAME .
-rtb.media-servers.net CNAME .
 rtb.nativeads.com CNAME .
 rtb.vokut.com CNAME .
 rtb2-apac.catapultx.com CNAME .
@@ -1099,7 +1094,6 @@ xml.leofback.com CNAME .
 xml.leoyard.com CNAME .
 xml.looksmartppc.com CNAME .
 xml.mediacpc.com CNAME .
-xml.mediashakers.com CNAME .
 xml.mediaxchange.co CNAME .
 xml.mobipromote.com CNAME .
 xml.mobreach.com CNAME .

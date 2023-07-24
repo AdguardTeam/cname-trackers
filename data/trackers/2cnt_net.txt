@@ -262,11 +262,13 @@
 ||ssl-bornibyen.tns-gallup.dk^
 ||ssl-borseniam.tns-gallup.dk^
 ||ssl-boxerstream.tns-gallup.dk^
+||ssl-stofaandroidstream.tns-gallup.dk^
 ||ssl-stofastream.tns-gallup.dk^
 ||ssl-bt-eavis.tns-gallup.dk^
 ||ssl-bt.tns-gallup.dk^
 ||ssl-bureaubiz.tns-gallup.dk^
 ||ssl-business.tns-gallup.dk^
+||ssl-camping.tns-gallup.dk^
 ||ssl-computerworld.tns-gallup.dk^
 ||ssl-costume.tns-gallup.dk^
 ||ssl-dagbladetringskjern.tns-gallup.dk^
@@ -371,6 +373,7 @@
 ||storedk.tns-gallup.dk^
 ||thistedp.tns-gallup.dk^
 ||tv2androidstream.tns-gallup.dk^
+||tv2iam.tns-gallup.dk^
 ||tv2stream.tns-gallup.dk^
 ||tv3.tns-gallup.dk^
 ||tv3play.tns-gallup.dk^

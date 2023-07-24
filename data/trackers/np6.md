@@ -17,6 +17,7 @@
 | f1.mailperf.com | form.bp01.net |
 | f1.mailperformance.com | form.bp01.net |
 | f1.np6.com | form.bp01.net |
+| infojeux.paris.fr | form.bp01.net |
 | lbv5.mperf.com | form.bp01.net |
 | www.bfc-mp.caisse-epargne.fr | form.bp01.net |
 | emailing.casden.banquepopulaire.fr | tracking.bp01.net |
@@ -112,6 +113,7 @@
 | tr.asp204q.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2063.espmp-nifr.net | tracking.bp01.net |
 | tr.asp206k.espmp-agfr.net | tracking.bp01.net |
+| tr.asp2070.espmp-aufr.net | tracking.bp01.net |
 | tr.asp2075.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2076.espmp-pofr.net | tracking.bp01.net |
 | tr.asp2078.espmp-nifr.net | tracking.bp01.net |
@@ -373,7 +375,6 @@
 | tr.estatesandwines.moethennessy.com | tracking.bp01.net |
 | tr.etravauxpro.fr | tracking.bp01.net |
 | tr.eulerhermes.com | tracking.bp01.net |
-| tr.europa-organisation.com | tracking.bp01.net |
 | tr.ev001.net | tracking.bp01.net |
 | tr.evenements.inpi.fr | tracking.bp01.net |
 | tr.expresofferte.be | tracking.bp01.net |

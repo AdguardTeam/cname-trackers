@@ -30,7 +30,6 @@
 ||anaconda.zephyrus.gg^
 ||angelfish.dpya.com^
 ||angelfish.grayscale.design^
-||angelfish.owlbear.rodeo^
 ||angelfish.shorehamlife.com^
 ||angelfish.wpsocialrocket.com^
 ||anglerfish.luminfire.com^
@@ -69,7 +68,6 @@
 ||baboon.vacanti.com^
 ||badger.pager.app^
 ||baldeagle.e-ma.re^
-||baldeagle.eternalmma.com^
 ||bandicoot.mohit.dev^
 ||bandicoot.p0.design^
 ||bandicoot.sigerr.org^
@@ -544,6 +542,7 @@
 ||leech.stargate-project.de^
 ||lemming.nicolasmenard.com^
 ||lemming.vivian.do^
+||lemur.bendaron.com^
 ||lemur.prinsdalpizza.no^
 ||leopard.laszlo.cloud^
 ||leopard.ui-snippets.dev^
@@ -617,6 +616,7 @@
 ||minnow.phasemedical.com^
 ||minnow.tapas-software.net^
 ||mite.cotinga.io^
+||mite.downtotheearth.co.uk^
 ||mite.tetrameros.com^
 ||mockingbir.sgfunited.com^
 ||mole.bteam.co^
@@ -946,6 +946,7 @@
 ||vole.contemporaryartlibrary.org^
 ||vole.leonhitchens.com^
 ||vole.noteapps.info^
+||vole.sonicrida.com^
 ||vole.tsttechnology.com^
 ||wallaby.cron.help^
 ||wallaby.legendkeeper.com^

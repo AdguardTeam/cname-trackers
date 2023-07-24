@@ -253,8 +253,10 @@ privacy.28degreescard.com.au CNAME .
 privacy.acaseforwomen.com CNAME .
 privacy.acc2-online.heineken.co.za CNAME .
 privacy.acc2.heishop.com.br CNAME .
+privacy.affligembeer.com CNAME .
 privacy.amadrinks.be CNAME .
 privacy.amstel.nl CNAME .
+privacy.birramoretti.com CNAME .
 privacy.blade.app CNAME .
 privacy.easyjet.com CNAME .
 privacy.gemfinance.co.nz CNAME .
@@ -266,6 +268,7 @@ privacy.heishop.com.br CNAME .
 privacy.latitudefinancial.com CNAME .
 privacy.latitudefinancial.com.au CNAME .
 privacy.latitudepay.com CNAME .
+privacy.tigerbeer.com CNAME .
 privacy.uwm.com CNAME .
 privacy.zoll.com CNAME .
 pulse.delta.com CNAME .
@@ -328,6 +331,7 @@ tm.hdmtools.com CNAME .
 tms-test.nab.com.au CNAME .
 tms.americanexpress.com CNAME .
 tms.betway.com CNAME .
+tms.betwaysatta.com CNAME .
 tms.capitalone.com CNAME .
 tms.delta.com CNAME .
 tms.experian.com CNAME .

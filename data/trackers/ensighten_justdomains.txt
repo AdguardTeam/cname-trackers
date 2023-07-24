@@ -253,8 +253,10 @@ privacy.28degreescard.com.au
 privacy.acaseforwomen.com
 privacy.acc2-online.heineken.co.za
 privacy.acc2.heishop.com.br
+privacy.affligembeer.com
 privacy.amadrinks.be
 privacy.amstel.nl
+privacy.birramoretti.com
 privacy.blade.app
 privacy.easyjet.com
 privacy.gemfinance.co.nz
@@ -266,6 +268,7 @@ privacy.heishop.com.br
 privacy.latitudefinancial.com
 privacy.latitudefinancial.com.au
 privacy.latitudepay.com
+privacy.tigerbeer.com
 privacy.uwm.com
 privacy.zoll.com
 pulse.delta.com
@@ -328,6 +331,7 @@ tm.hdmtools.com
 tms-test.nab.com.au
 tms.americanexpress.com
 tms.betway.com
+tms.betwaysatta.com
 tms.capitalone.com
 tms.delta.com
 tms.experian.com

@@ -363,6 +363,7 @@
 ||donor.cafamerica.org^
 ||dpf.authorize.net^
 ||drfdisvc.walmart.com^
+||dt.payla.io^
 ||dvc0271.play.jackpocket.com^
 ||ela1.bankofscotland.co.uk^
 ||enligne.bnc.ca^
@@ -486,6 +487,7 @@
 ||meiodepagamento.campanhaporto.com.br^
 ||membership-device.secured-igaming-services.com^
 ||metrics.myfrs.com^
+||metrix.motosport.com^
 ||metrix.us.ovhcloud.com^
 ||mnt.sbisec.co.jp^
 ||mobile-content-f.autozone.com^
@@ -573,6 +575,7 @@
 ||prod-uecupa.chaperone.lumindigitalhosting.com^
 ||prod-uiccuil.chaperone.lumindigitalhosting.com^
 ||prod-university.chaperone.lumindigitalhosting.com^
+||prod-usalliance.chaperone.lumindigitalhosting.com^
 ||prod-utenn.chaperone.lumindigitalhosting.com^
 ||prod-vantage.chaperone.lumindigitalhosting.com^
 ||prod-vsecuvt.chaperone.lumindigitalhosting.com^
@@ -614,6 +617,7 @@
 ||regstat.paddypower.com^
 ||req.secured-content.com^
 ||res.pay.ionos.com^
+||rfp.intuit.com^
 ||rhino.gocardless.com^
 ||rm-3d84e791.payby.com^
 ||rmscheck.sbifxt.co.jp^
@@ -829,7 +833,6 @@
 ||tm.stoiximan.gr^
 ||tm.summit-services.ca^
 ||tm.tbcbank.uz^
-||tm.teambeachbody.com^
 ||tm.telecharge.com^
 ||tm.uship.com^
 ||tma.caffeine.tv^

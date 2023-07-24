@@ -51,7 +51,6 @@ analytics.recamov.com CNAME .
 analytics.sideprojectsoftware.com CNAME .
 analytics.sixfigureswine.com CNAME .
 analytics.southjerseyquakers.org CNAME .
-analytics.ss88.us CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
@@ -121,6 +120,7 @@ hurricane.tinybird.co CNAME .
 hype.zlipa.com CNAME .
 informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
+jinx.skullctf.com CNAME .
 joy.ochronus.online CNAME .
 kaladyaudiology.ericksonbuilt.com CNAME .
 kekw.givetip.to CNAME .
@@ -140,7 +140,6 @@ metric.methoddev.com CNAME .
 metrics.axiomatic-inc.com CNAME .
 metrics.creit.tech CNAME .
 metrics.earrieta.dev CNAME .
-metrics.euler.kr CNAME .
 metrics.recunia.de CNAME .
 momotaro.craigmod.com CNAME .
 momotaro.walkkumano.com CNAME .
@@ -246,7 +245,6 @@ plausible.external.sine.foundation CNAME .
 plausible.f1laps.com CNAME .
 plausible.factly.in CNAME .
 plausible.flowcv.io CNAME .
-plausible.flowhr.io CNAME .
 plausible.food.game CNAME .
 plausible.getlean.digital CNAME .
 plausible.giveatip.io CNAME .
@@ -581,7 +579,6 @@ stats.feathercss.makerkits.co CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
 stats.ferienwohnung-dombrowski.com CNAME .
-stats.filburg.co CNAME .
 stats.finalrabiesgeneration.org CNAME .
 stats.flightsphere.com CNAME .
 stats.florianfritz.net CNAME .
@@ -758,7 +755,6 @@ stats.mesenvies.fr CNAME .
 stats.michaeloliver.dev CNAME .
 stats.migrantworker.ca CNAME .
 stats.missionrabies.com CNAME .
-stats.mmazzarolo.com CNAME .
 stats.motion-effect.com CNAME .
 stats.motorcyclepartsireland.ie CNAME .
 stats.mrtnvh.com CNAME .
@@ -930,6 +926,7 @@ stats.tedserbinski.com CNAME .
 stats.teenranch.com CNAME .
 stats.tekin.co.uk CNAME .
 stats.terre-compagne.fr CNAME .
+stats.thedale.org CNAME .
 stats.thegoodlineheight.com CNAME .
 stats.theiere-tasse.com CNAME .
 stats.thelandofar.be CNAME .
@@ -972,7 +969,6 @@ stats.vican.me CNAME .
 stats.visions.ch CNAME .
 stats.voedingskussen.net CNAME .
 stats.voltamediahouse.com CNAME .
-stats.wa.derivation.fr CNAME .
 stats.wachstum.at CNAME .
 stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .

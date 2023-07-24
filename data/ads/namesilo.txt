@@ -63,6 +63,7 @@
 ||3180154.notifysrv.com^
 ||3180164.notifysrv.com^
 ||3180172.notifysrv.com^
+||3180606.notifysrv.com^
 ||3180616.notify6.com^
 ||3180622.notifysrv.com^
 ||3180624.notifysrv.com^
@@ -168,6 +169,7 @@
 ||3249470.notifysrv.com^
 ||3249648.notify6.com^
 ||3250420.notify6.com^
+||3251144.notify6.com^
 ||3254306.notifysrv.com^
 ||3258452.notifysrv.com^
 ||3258696.notifysrv.com^
@@ -430,6 +432,7 @@
 ||3489365.notify6.com^
 ||3491507.notifysrv.com^
 ||3491539.notifysrv.com^
+||3493551.notify6.com^
 ||3493753.notifysrv.com^
 ||3496079.notify6.com^
 ||3497467.notifysrv.com^
@@ -437,6 +440,7 @@
 ||3498171.notify6.com^
 ||3501655.notify6.com^
 ||3505119.notify6.com^
+||3505123.notify6.com^
 ||3505123.notifysrv.com^
 ||3505135.notifysrv.com^
 ||3505139.notify6.com^
@@ -553,6 +557,7 @@
 ||3598457.notifysrv.com^
 ||3599607.notify6.com^
 ||3599607.notifysrv.com^
+||3599613.notify6.com^
 ||3599613.notifysrv.com^
 ||3599727.notify6.com^
 ||3603119.notifysrv.com^
@@ -562,6 +567,7 @@
 ||3617853.notify6.com^
 ||3618939.notify6.com^
 ||3618945.notify6.com^
+||3618947.notify6.com^
 ||3619313.notify6.com^
 ||3619313.notifysrv.com^
 ||3621331.notifysrv.com^
@@ -931,6 +937,7 @@
 ||s.ad.guru^
 ||s.adnflow.com^
 ||s.advertrek.com^
+||s.asvsm.com^
 ||s.bizonads-ssp.com^
 ||s.datingclix.com^
 ||s.eaalink.com^
@@ -993,6 +1000,7 @@
 ||syndication.exoclick.com^
 ||syndication.exosrv.com^
 ||syndication.jsadapi.com^
+||syndication.link2az.com^
 ||syndication.link2nx.com^
 ||syndication.link2zz.com^
 ||syndication.link5c.com^
@@ -1004,6 +1012,7 @@
 ||syndication.whibd.com^
 ||syndication.whibp.com^
 ||syndication0.exoclick.com^
+||t.optzsrv.com^
 ||www.3227697.notify6.com^
 ||www.3243082.notifysrv.com^
 ||www.3466863.notify6.com^

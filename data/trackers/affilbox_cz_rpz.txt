@@ -340,6 +340,7 @@ my.top4fitness.se CNAME .
 my.top4fitness.si CNAME .
 my.top4fitness.sk CNAME .
 my.top4football.com CNAME .
+my.top4football.cz CNAME .
 my.top4football.de CNAME .
 my.top4football.dk CNAME .
 my.top4football.fi CNAME .
@@ -443,6 +444,7 @@ partner.chevronnutrition.cz CNAME .
 partner.chiashake.cz CNAME .
 partner.chilimarket.cz CNAME .
 partner.chococo.cz CNAME .
+partner.chytranemovitost.cz CNAME .
 partner.chytrydopravce.cz CNAME .
 partner.cleverfood.eu CNAME .
 partner.cocochocokeratin.cz CNAME .
@@ -498,6 +500,7 @@ partner.gokids.cz CNAME .
 partner.granule-eshop.cz CNAME .
 partner.gurufinance.cz CNAME .
 partner.hanamoneam.com CNAME .
+partner.hegesztok-bolt.hu CNAME .
 partner.hemptor.cz CNAME .
 partner.hodinarstvi.cz CNAME .
 partner.hoska-tour.cz CNAME .
@@ -548,9 +551,11 @@ partner.martinreznicek.cz CNAME .
 partner.massivo.cz CNAME .
 partner.maxori.cz CNAME .
 partner.mbytshop.cz CNAME .
+partner.memolingo.cz CNAME .
 partner.metagram.sk CNAME .
 partner.mhsexshop.com CNAME .
 partner.milujifoceni.cz CNAME .
+partner.misinacokolada.cz CNAME .
 partner.mojetonery.sk CNAME .
 partner.mooda.cz CNAME .
 partner.mooselife.cz CNAME .

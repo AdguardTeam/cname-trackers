@@ -6,8 +6,6 @@
 ||adkfilter.mybestclick.net^
 ||admin3.danarimedia.com^
 ||ads.idiscountmall.net^
-||ads.media-servers.net^
-||ads.mycitybeat.com^
 ||adserver.additionalmedia.com^
 ||adserver.catapultx.com^
 ||advertise.admetix.com^
@@ -280,7 +278,6 @@
 ||filter.leoyard.com^
 ||filter.looksmartppc.com^
 ||filter.mediacpc.com^
-||filter.mediashakers.com^
 ||filter.mediastinct.com^
 ||filter.mediaxchange.co^
 ||filter.mobagent.com^
@@ -514,7 +511,6 @@
 ||rtb-eu.houseofpubs.com^
 ||rtb-eu.hueadsortb.com^
 ||rtb-eu.infinity-info.com^
-||rtb-eu.media-servers.net^
 ||rtb-eu.mobipromote.com^
 ||rtb-eu.mobuppsrtb.com^
 ||rtb-eu.motionspots.com^
@@ -660,7 +656,6 @@
 ||rtb.clixportal.com^
 ||rtb.clixwells.com^
 ||rtb.explorads.com^
-||rtb.media-servers.net^
 ||rtb.nativeads.com^
 ||rtb.vokut.com^
 ||rtb2-apac.catapultx.com^
@@ -1099,7 +1094,6 @@
 ||xml.leoyard.com^
 ||xml.looksmartppc.com^
 ||xml.mediacpc.com^
-||xml.mediashakers.com^
 ||xml.mediaxchange.co^
 ||xml.mobipromote.com^
 ||xml.mobreach.com^

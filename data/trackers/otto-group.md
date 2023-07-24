@@ -6,6 +6,7 @@
     * js.oghub.io
     * sniffer.oghub.io
     * sniffer.test-extern.oghub.io
+    * te-ackermann-ch.oghub.io
     * te-ambria-de.oghub.io
     * te-baur-de.oghub.io
     * te-creation-l-de.oghub.io
@@ -23,11 +24,11 @@
     * te-mytoys-de.oghub.io
     * te-otto-de.oghub.io
     * te-ottoversand-at.oghub.io
-    * te-quelle-de.oghub.io
     * te-sheego-de.oghub.io
     * te-sieh-an-at.oghub.io
     * te-sieh-an-ch.oghub.io
     * te-sieh-an-de.oghub.io
+    * te-universal-at.oghub.io
     * te-waeschepur-de.oghub.io
     * te-witt-international-cz.oghub.io
     * te-witt-international-nl.oghub.io
@@ -121,6 +122,7 @@
 | prod.nitrosniffer.ottogroup.io | sniffer.oghub.io |
 | sniffer.nitro-production.otto.boreus.de | sniffer.oghub.io |
 | sniffer.nitro-test-extern.otto.boreus.de | sniffer.test-extern.oghub.io |
+| te.ackermann.ch | te-ackermann-ch.oghub.io |
 | te.ambria.de | te-ambria-de.oghub.io |
 | te.baur.de | te-baur-de.oghub.io |
 | te.creation-l.de | te-creation-l-de.oghub.io |
@@ -138,11 +140,11 @@
 | te.mytoys.de | te-mytoys-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
 | te.ottoversand.at | te-ottoversand-at.oghub.io |
-| te.quelle.de | te-quelle-de.oghub.io |
 | te.sheego.de | te-sheego-de.oghub.io |
 | te.sieh-an.at | te-sieh-an-at.oghub.io |
 | te.sieh-an.ch | te-sieh-an-ch.oghub.io |
 | te.sieh-an.de | te-sieh-an-de.oghub.io |
+| te.universal.at | te-universal-at.oghub.io |
 | te.waeschepur.de | te-waeschepur-de.oghub.io |
 | te.witt-international.cz | te-witt-international-cz.oghub.io |
 | te.witt-international.nl | te-witt-international-nl.oghub.io |
@@ -153,6 +155,7 @@
 | te.yomonda.de | te-yomonda-de.oghub.io |
 | te.your-look-for-less.nl | te-your-look-for-less-nl.oghub.io |
 | te.your-look-for-less.se | te-your-look-for-less-se.oghub.io |
+| te.ackermann.ch | te.oghub.io |
 | te.ackermann.ch | te.oghub.io |
 | te.ambria.de | te.oghub.io |
 | te.ambria.de | te.oghub.io |
