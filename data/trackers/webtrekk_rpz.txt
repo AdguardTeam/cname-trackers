@@ -356,6 +356,7 @@ wt.generali.de CNAME .
 wt.generalibewegtdeutschland.de CNAME .
 wt.generalihealthsolutions.de CNAME .
 wt.netze-bw.de CNAME .
+wt.vhb.de CNAME .
 wttd.douglas.at CNAME .
 wttd.douglas.ch CNAME .
 wttd.douglas.de CNAME .

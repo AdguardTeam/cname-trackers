@@ -90,7 +90,6 @@ affilbox.andreashop.sk CNAME .
 affilbox.doglog.cz CNAME .
 affilbox.gurufinance.cz CNAME .
 affilbox.kvaskovanie.sk CNAME .
-affilbox.mutumutu.cz CNAME .
 affilbox.rondopartner.cz CNAME .
 affilbox.stygremvkleci.cz CNAME .
 affiliate.2gispraha.cz CNAME .
@@ -110,7 +109,6 @@ affiliate.bezvatriko.sk CNAME .
 affiliate.bikeplan.org CNAME .
 affiliate.biooo.cz CNAME .
 affiliate.bitcoinzmenaren.sk CNAME .
-affiliate.canatura.com CNAME .
 affiliate.cannyapp.cz CNAME .
 affiliate.cbweed.cz CNAME .
 affiliate.childhoodpotential.com CNAME .
@@ -348,6 +346,7 @@ my.top4football.ie CNAME .
 my.top4football.it CNAME .
 my.top4football.nl CNAME .
 my.top4football.se CNAME .
+my.top4run.cz CNAME .
 my.top4running.at CNAME .
 my.top4running.be CNAME .
 my.top4running.bg CNAME .
@@ -708,6 +707,7 @@ partneri.gigamat.cz CNAME .
 partneri.givt.cz CNAME .
 partneri.heavytamper.cz CNAME .
 partneri.incacollagen.eu CNAME .
+partneri.intimfitness.cz CNAME .
 partneri.jakofenix.cz CNAME .
 partneri.jazykovedarky.cz CNAME .
 partneri.jazykyodpiky.cz CNAME .

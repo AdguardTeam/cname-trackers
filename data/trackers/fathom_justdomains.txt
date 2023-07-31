@@ -59,7 +59,6 @@ armadillo.oceandecadenortheastpacific.org
 armadillo.stacking.club
 armadillo.superpeak.dk
 asp.ashesashes.org
-asp.chop-shop.com.au
 asp.podlist.de
 asp.sepiasoft.eu
 azlej8cdm.pragmaticwebsecurity.com
@@ -247,7 +246,6 @@ crane.trescolori.cloud
 crawdad.craiga.id.au
 crawdad.dillonerhardt.com
 crayfish.fansubbing.com
-crayfish.portbanecottagelochtay.co.uk
 crayfish.thecatherinewheel.co
 crayfish.thingelstad.com
 crow.claudiakeil.de
@@ -306,6 +304,7 @@ earthworm.ohmydeck.com
 earthworm.robbevanpetegem.be
 earwig.architecturesofhiding.com
 echidna.eyalgantz.me
+echidna.hellotomorrow.agency
 echidna.honeybadger.io
 ecoonll.eskridge.dev
 eel.aware7.de
@@ -658,6 +657,7 @@ ocelot.pixlwebs.nl
 ocelot.sonicumonitoring.com
 octopus.evobend.com
 octopus.hans-hornberger.de
+opossum.eyalgantz.com
 opossum.roleup.com
 opossum.stephanieharari.com
 orangutan.equaliteam.com
@@ -756,7 +756,6 @@ puma.islingtonmecc.org.uk
 puma.strategyascode.com
 python.casuallyprivate.com
 python.jukejuke.app
-python.mux.com
 quail.efix.uk
 quail.trueglowbylaura.com
 quelea.igotcha.de
@@ -824,9 +823,7 @@ silkworm.westwoodmbc.org
 silverfish.dailybuilds.com
 skink.asorman.io
 skink.madewithlove.com
-skunk.sebastiandedeyne.com
 sloth.goodtendency.app
-sloth.pricingforhackers.com
 sloth.vaalinstudio.com
 sloth.vguerrerobosch.com
 slug.sirenergies.com
@@ -941,7 +938,6 @@ vicuna.casa-moebel.at
 vicuna.fortbinary.com
 vicuna.joblicant.de
 vicuna.mybestproducts.net
-vicuna.redwoodcity.bike
 viper.sitesauce.app
 vole.contemporaryartlibrary.org
 vole.leonhitchens.com
@@ -1002,6 +998,7 @@ bass.goulet.dev
 bee.farmaciavdg.com
 bison.equals.community
 cheetah.stolenboats.info
+crayfish.portbanecottagelochtay.co.uk
 crow.centresustains.com
 dog.recon.guru
 donkey.masteringfinland.com

@@ -750,6 +750,7 @@ stats.matthiasloibl.com
 stats.matthogg.fyi
 stats.maximaconsulting.xyz
 stats.meetnfly.com
+stats.mein-futterlexikon.org
 stats.meno.science
 stats.mesenvies.fr
 stats.michaeloliver.dev
@@ -795,7 +796,6 @@ stats.owre.se
 stats.oxygem.com
 stats.p42.ai
 stats.parqet.com
-stats.pascalafleur.com
 stats.passwordyeti.com
 stats.pasteapp.io
 stats.pastorwagner.com
@@ -874,7 +874,6 @@ stats.sapnininkas.com
 stats.sascha-theobald.de
 stats.savoirplus-risquermoins.net
 stats.sax.net
-stats.sayla.io
 stats.scailable.net
 stats.scalesql.com
 stats.scottbartell.com
@@ -900,7 +899,6 @@ stats.ski.com
 stats.slicedthread.com
 stats.socialeurope.eu
 stats.sommselect.com
-stats.songbox.rocks
 stats.soundbite.so
 stats.southswindon-pc.gov.uk
 stats.sparkloop.app
@@ -927,7 +925,6 @@ stats.teenranch.com
 stats.tekin.co.uk
 stats.terre-compagne.fr
 stats.thedale.org
-stats.thegoodlineheight.com
 stats.theiere-tasse.com
 stats.thelandofar.be
 stats.thenewradiance.com
@@ -935,7 +932,6 @@ stats.thingsthatkeepmeupatnight.dev
 stats.thomasbandt.com
 stats.thomasfroese.com
 stats.thomasvitale.com
-stats.threadstart.io
 stats.tijdschrift.zenleven.nl
 stats.time2unfold.com
 stats.timkhoury.com

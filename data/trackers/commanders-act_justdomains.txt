@@ -1,7 +1,6 @@
 #
 # Company name: Commanders Act
 acquisition.klm.com
-data.auchandirect.fr
 data.decathlon.co.uk
 data.decathlon.de
 data.decathlon.es
@@ -20,4 +19,5 @@ tagcommander.laredoute.co.uk
 tc.europcar.com
 tc.europcar.com.au
 tcdata.fnac.com
+data.auchandirect.fr
 data.decathlon.it

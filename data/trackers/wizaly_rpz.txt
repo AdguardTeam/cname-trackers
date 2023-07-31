@@ -95,6 +95,7 @@ tk.lolivier.fr CNAME .
 tk.lulli-sur-la-toile.com CNAME .
 tk.m6boutique.com CNAME .
 tk.maison123.com CNAME .
+tk.manouvellevoiture.com CNAME .
 tk.moveyourfit.com CNAME .
 tk.msccruises.com CNAME .
 tk.nhlottery.com CNAME .

@@ -90,7 +90,6 @@ affilbox.andreashop.sk
 affilbox.doglog.cz
 affilbox.gurufinance.cz
 affilbox.kvaskovanie.sk
-affilbox.mutumutu.cz
 affilbox.rondopartner.cz
 affilbox.stygremvkleci.cz
 affiliate.2gispraha.cz
@@ -110,7 +109,6 @@ affiliate.bezvatriko.sk
 affiliate.bikeplan.org
 affiliate.biooo.cz
 affiliate.bitcoinzmenaren.sk
-affiliate.canatura.com
 affiliate.cannyapp.cz
 affiliate.cbweed.cz
 affiliate.childhoodpotential.com
@@ -348,6 +346,7 @@ my.top4football.ie
 my.top4football.it
 my.top4football.nl
 my.top4football.se
+my.top4run.cz
 my.top4running.at
 my.top4running.be
 my.top4running.bg
@@ -708,6 +707,7 @@ partneri.gigamat.cz
 partneri.givt.cz
 partneri.heavytamper.cz
 partneri.incacollagen.eu
+partneri.intimfitness.cz
 partneri.jakofenix.cz
 partneri.jazykovedarky.cz
 partneri.jazykyodpiky.cz

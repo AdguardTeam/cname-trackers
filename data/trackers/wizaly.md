@@ -36,6 +36,7 @@
     * tk-lulli-sur-la-toile-com.wizaly.com
     * tk-m6boutique-com.wizaly.com
     * tk-maison123-com.wizaly.com
+    * tk-manouvellevoiture-com.wizaly.com
     * tk-moveyourfit-com.wizaly.com
     * tk-nhlottery-com.wizaly.com
     * tk-petit-bateau.wizaly.com
@@ -111,6 +112,7 @@
 | tk.lulli-sur-la-toile.com | tk-lulli-sur-la-toile-com.wizaly.com |
 | tk.m6boutique.com | tk-m6boutique-com.wizaly.com |
 | tk.maison123.com | tk-maison123-com.wizaly.com |
+| tk.manouvellevoiture.com | tk-manouvellevoiture-com.wizaly.com |
 | tk.moveyourfit.com | tk-moveyourfit-com.wizaly.com |
 | tk.nhlottery.com | tk-nhlottery-com.wizaly.com |
 | tk.petit-bateau.be | tk-petit-bateau.wizaly.com |

@@ -684,6 +684,7 @@ tr.news.grandsmoulinsdeparis.com
 tr.news.groupe-armonia.com
 tr.news.hallobanden.be
 tr.news.hallobanden.nl
+tr.news.happycap.org
 tr.news.helvyre.fr
 tr.news.heredis.com
 tr.news.i24news.tv
@@ -954,7 +955,6 @@ tr.solution.uneo.fr
 tr.sort.espmp-nifr.net
 tr.souscription.floa.fr
 tr.spain.plimsoll.es
-tr.sportperf.np6.fr
 tr.strategie.gouv.fr
 tr.suivi-client-edf.com
 tr.surveys.np6.com

@@ -190,7 +190,6 @@ a8.otonayaki.com CNAME .
 a8.outline-gym.com CNAME .
 a8.papapa.baby CNAME .
 a8.parcys.com CNAME .
-a8.pb.dreampages.jp CNAME .
 a8.pcnext.shop CNAME .
 a8.pcrjapan.clinicnearme.jp CNAME .
 a8.pcwrap.com CNAME .
@@ -314,6 +313,7 @@ a8click.you-up.com CNAME .
 a8click.young-mobile.net CNAME .
 a8clk.011330.jp CNAME .
 a8clk.1osechi.com CNAME .
+a8clk.292957.jp CNAME .
 a8clk.9factor.com CNAME .
 a8clk.account.matsui.co.jp CNAME .
 a8clk.adeliv.treasure-f.com CNAME .
@@ -356,6 +356,7 @@ a8clk.cart.amahada.com CNAME .
 a8clk.cart.ordersupli.com CNAME .
 a8clk.cart.raku-uru.jp CNAME .
 a8clk.cev.macchialabel.com CNAME .
+a8clk.chance.com CNAME .
 a8clk.chapup.jp CNAME .
 a8clk.chat-wifi.site CNAME .
 a8clk.checkout.leafee.me CNAME .
@@ -457,7 +458,6 @@ a8clk.lolipop.jp CNAME .
 a8clk.loungemembers.com CNAME .
 a8clk.low-ya.com CNAME .
 a8clk.lp.yuyu-kenko.co.jp CNAME .
-a8clk.ma-gate.com CNAME .
 a8clk.ma-platform.com CNAME .
 a8clk.macchialabel.com CNAME .
 a8clk.macpaw.com CNAME .
@@ -629,7 +629,6 @@ a8cv.550909.com CNAME .
 a8cv.a-resort.jp CNAME .
 a8cv.a-ru-ku.co.jp CNAME .
 a8cv.a-satei.com CNAME .
-a8cv.ac-mail.jp CNAME .
 a8cv.access-jp.jp CNAME .
 a8cv.aiambeauty.jp CNAME .
 a8cv.air-wifiinternet.jp CNAME .
@@ -680,6 +679,7 @@ a8cv.cast-er.com CNAME .
 a8cv.catal.jp CNAME .
 a8cv.celbest.urr.jp CNAME .
 a8cv.cellbic.net CNAME .
+a8cv.chapobook.com CNAME .
 a8cv.chefbox.jp CNAME .
 a8cv.chuoms.com CNAME .
 a8cv.cinemage.shop CNAME .
@@ -822,6 +822,7 @@ a8cv.kaimonoform.com CNAME .
 a8cv.kaitori-okoku.jp CNAME .
 a8cv.kaitorisatei.info CNAME .
 a8cv.kajier.jp CNAME .
+a8cv.karitoke.jp CNAME .
 a8cv.kikubari-bento.com CNAME .
 a8cv.king-makura.com CNAME .
 a8cv.kn-waterserver.com CNAME .

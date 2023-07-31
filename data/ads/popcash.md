@@ -114,7 +114,6 @@
 | armadillo.stacking.club | deprecated-custom-domains.b-cdn.net |
 | armadillo.superpeak.dk | deprecated-custom-domains.b-cdn.net |
 | asp.ashesashes.org | deprecated-custom-domains.b-cdn.net |
-| asp.chop-shop.com.au | deprecated-custom-domains.b-cdn.net |
 | asp.podlist.de | deprecated-custom-domains.b-cdn.net |
 | asp.sepiasoft.eu | deprecated-custom-domains.b-cdn.net |
 | azlej8cdm.pragmaticwebsecurity.com | deprecated-custom-domains.b-cdn.net |
@@ -362,6 +361,7 @@
 | earthworm.robbevanpetegem.be | deprecated-custom-domains.b-cdn.net |
 | earwig.architecturesofhiding.com | deprecated-custom-domains.b-cdn.net |
 | echidna.eyalgantz.me | deprecated-custom-domains.b-cdn.net |
+| echidna.hellotomorrow.agency | deprecated-custom-domains.b-cdn.net |
 | echidna.honeybadger.io | deprecated-custom-domains.b-cdn.net |
 | ecoonll.eskridge.dev | deprecated-custom-domains.b-cdn.net |
 | eel.aware7.de | deprecated-custom-domains.b-cdn.net |
@@ -715,6 +715,7 @@
 | ocelot.sonicumonitoring.com | deprecated-custom-domains.b-cdn.net |
 | octopus.evobend.com | deprecated-custom-domains.b-cdn.net |
 | octopus.hans-hornberger.de | deprecated-custom-domains.b-cdn.net |
+| opossum.eyalgantz.com | deprecated-custom-domains.b-cdn.net |
 | opossum.roleup.com | deprecated-custom-domains.b-cdn.net |
 | opossum.stephanieharari.com | deprecated-custom-domains.b-cdn.net |
 | orangutan.equaliteam.com | deprecated-custom-domains.b-cdn.net |
@@ -813,7 +814,6 @@
 | puma.strategyascode.com | deprecated-custom-domains.b-cdn.net |
 | python.casuallyprivate.com | deprecated-custom-domains.b-cdn.net |
 | python.jukejuke.app | deprecated-custom-domains.b-cdn.net |
-| python.mux.com | deprecated-custom-domains.b-cdn.net |
 | quail.efix.uk | deprecated-custom-domains.b-cdn.net |
 | quail.trueglowbylaura.com | deprecated-custom-domains.b-cdn.net |
 | quelea.igotcha.de | deprecated-custom-domains.b-cdn.net |
@@ -881,9 +881,7 @@
 | silverfish.dailybuilds.com | deprecated-custom-domains.b-cdn.net |
 | skink.asorman.io | deprecated-custom-domains.b-cdn.net |
 | skink.madewithlove.com | deprecated-custom-domains.b-cdn.net |
-| skunk.sebastiandedeyne.com | deprecated-custom-domains.b-cdn.net |
 | sloth.goodtendency.app | deprecated-custom-domains.b-cdn.net |
-| sloth.pricingforhackers.com | deprecated-custom-domains.b-cdn.net |
 | sloth.vaalinstudio.com | deprecated-custom-domains.b-cdn.net |
 | sloth.vguerrerobosch.com | deprecated-custom-domains.b-cdn.net |
 | slug.sirenergies.com | deprecated-custom-domains.b-cdn.net |
@@ -1000,7 +998,6 @@
 | vicuna.fortbinary.com | deprecated-custom-domains.b-cdn.net |
 | vicuna.joblicant.de | deprecated-custom-domains.b-cdn.net |
 | vicuna.mybestproducts.net | deprecated-custom-domains.b-cdn.net |
-| vicuna.redwoodcity.bike | deprecated-custom-domains.b-cdn.net |
 | viper.sitesauce.app | deprecated-custom-domains.b-cdn.net |
 | vole.contemporaryartlibrary.org | deprecated-custom-domains.b-cdn.net |
 | vole.leonhitchens.com | deprecated-custom-domains.b-cdn.net |
@@ -1080,6 +1077,7 @@
 | cdn.namol.xyz | popcashjs.b-cdn.net |
 | cdn.nlop.xyz | popcashjs.b-cdn.net |
 | cdn.norymo.com | popcashjs.b-cdn.net |
+| cdn.npcta.xyz | popcashjs.b-cdn.net |
 | cdn.nuqwe.com | popcashjs.b-cdn.net |
 | cdn.olep.xyz | popcashjs.b-cdn.net |
 | cdn.pctv.xyz | popcashjs.b-cdn.net |

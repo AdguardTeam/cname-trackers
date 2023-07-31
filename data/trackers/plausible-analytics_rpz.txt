@@ -750,6 +750,7 @@ stats.matthiasloibl.com CNAME .
 stats.matthogg.fyi CNAME .
 stats.maximaconsulting.xyz CNAME .
 stats.meetnfly.com CNAME .
+stats.mein-futterlexikon.org CNAME .
 stats.meno.science CNAME .
 stats.mesenvies.fr CNAME .
 stats.michaeloliver.dev CNAME .
@@ -795,7 +796,6 @@ stats.owre.se CNAME .
 stats.oxygem.com CNAME .
 stats.p42.ai CNAME .
 stats.parqet.com CNAME .
-stats.pascalafleur.com CNAME .
 stats.passwordyeti.com CNAME .
 stats.pasteapp.io CNAME .
 stats.pastorwagner.com CNAME .
@@ -874,7 +874,6 @@ stats.sapnininkas.com CNAME .
 stats.sascha-theobald.de CNAME .
 stats.savoirplus-risquermoins.net CNAME .
 stats.sax.net CNAME .
-stats.sayla.io CNAME .
 stats.scailable.net CNAME .
 stats.scalesql.com CNAME .
 stats.scottbartell.com CNAME .
@@ -900,7 +899,6 @@ stats.ski.com CNAME .
 stats.slicedthread.com CNAME .
 stats.socialeurope.eu CNAME .
 stats.sommselect.com CNAME .
-stats.songbox.rocks CNAME .
 stats.soundbite.so CNAME .
 stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
@@ -927,7 +925,6 @@ stats.teenranch.com CNAME .
 stats.tekin.co.uk CNAME .
 stats.terre-compagne.fr CNAME .
 stats.thedale.org CNAME .
-stats.thegoodlineheight.com CNAME .
 stats.theiere-tasse.com CNAME .
 stats.thelandofar.be CNAME .
 stats.thenewradiance.com CNAME .
@@ -935,7 +932,6 @@ stats.thingsthatkeepmeupatnight.dev CNAME .
 stats.thomasbandt.com CNAME .
 stats.thomasfroese.com CNAME .
 stats.thomasvitale.com CNAME .
-stats.threadstart.io CNAME .
 stats.tijdschrift.zenleven.nl CNAME .
 stats.time2unfold.com CNAME .
 stats.timkhoury.com CNAME .

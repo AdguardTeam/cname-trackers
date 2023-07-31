@@ -1,6 +1,7 @@
 #
 # Company name: LexisNexis Risk Solutions
 1bf86f4b.tictoc.ai
+1of1.skipcash.app
 abc.pulsebet.com
 acdc.toolineo.de
 acsrt.cardnet-tds.com
@@ -26,6 +27,7 @@ api1.sfcu.org
 apicorporativops.portoseguro.com.br
 app.uob.com.sg
 app392.gerberlife.com
+applicant.rbfcu.org
 appschk.scotiabank.com
 appscore.credilike.me
 assessment.nj.betmgm.com
@@ -115,6 +117,7 @@ cdntm.us.hsbc.com
 cfa.febtest.com
 cfa.fidelity.com
 cfa.mystreetscape.com
+cfa.streetscape.com
 cfaxdev2.fidelity.com
 channel.rakbankonline.ae
 check.fashionid.de
@@ -337,6 +340,7 @@ ddc.worldpay.com
 de9c635aa0404558bd527220ef4e6b4b.betway.ca
 debs.my100bank.com
 dep.gambit3.gameassists.co.uk
+dept.provantage.com
 dev-check3.dev.everbank.com
 dev-rmscheck.sbifxt.co.jp
 device-profile.jeniusbank.com
@@ -605,6 +609,7 @@ rba-screen.optum.com
 rba-screen.optumbank.com
 rba-screen.optumfinancial.com
 rba.apata.io
+rba.cfg.smt.docomo.ne.jp
 rba.infinitium.com
 rba.login.agentmessagecenter.optum.com
 rba.login.mahix.org
@@ -773,6 +778,7 @@ tags.s-dati.com
 tags.ulsterbank.co.uk
 tags.ulsterbankanytimebanking.co.uk
 tags.ulsterbankanytimebanking.ie
+tblsdp.staging.tonybet.ca
 tblsdp.tonybet.ca
 tbp.tescobank.com
 tcontent.auchantelecom.fr

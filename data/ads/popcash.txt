@@ -33,6 +33,7 @@
 ||cdn.namol.xyz^
 ||cdn.nlop.xyz^
 ||cdn.norymo.com^
+||cdn.npcta.xyz^
 ||cdn.nuqwe.com^
 ||cdn.olep.xyz^
 ||cdn.pctv.xyz^
@@ -106,7 +107,6 @@
 ||armadillo.stacking.club^
 ||armadillo.superpeak.dk^
 ||asp.ashesashes.org^
-||asp.chop-shop.com.au^
 ||asp.podlist.de^
 ||asp.sepiasoft.eu^
 ||azlej8cdm.pragmaticwebsecurity.com^
@@ -354,6 +354,7 @@
 ||earthworm.robbevanpetegem.be^
 ||earwig.architecturesofhiding.com^
 ||echidna.eyalgantz.me^
+||echidna.hellotomorrow.agency^
 ||echidna.honeybadger.io^
 ||ecoonll.eskridge.dev^
 ||eel.aware7.de^
@@ -707,6 +708,7 @@
 ||ocelot.sonicumonitoring.com^
 ||octopus.evobend.com^
 ||octopus.hans-hornberger.de^
+||opossum.eyalgantz.com^
 ||opossum.roleup.com^
 ||opossum.stephanieharari.com^
 ||orangutan.equaliteam.com^
@@ -805,7 +807,6 @@
 ||puma.strategyascode.com^
 ||python.casuallyprivate.com^
 ||python.jukejuke.app^
-||python.mux.com^
 ||quail.efix.uk^
 ||quail.trueglowbylaura.com^
 ||quelea.igotcha.de^
@@ -873,9 +874,7 @@
 ||silverfish.dailybuilds.com^
 ||skink.asorman.io^
 ||skink.madewithlove.com^
-||skunk.sebastiandedeyne.com^
 ||sloth.goodtendency.app^
-||sloth.pricingforhackers.com^
 ||sloth.vaalinstudio.com^
 ||sloth.vguerrerobosch.com^
 ||slug.sirenergies.com^
@@ -992,7 +991,6 @@
 ||vicuna.fortbinary.com^
 ||vicuna.joblicant.de^
 ||vicuna.mybestproducts.net^
-||vicuna.redwoodcity.bike^
 ||viper.sitesauce.app^
 ||vole.contemporaryartlibrary.org^
 ||vole.leonhitchens.com^

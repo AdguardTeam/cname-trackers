@@ -9,7 +9,6 @@
     * redirect341.tagcommander.com
     * redirect342.tagcommander.com
     * redirect357.tagcommander.com
-    * redirect360.tagcommander.com
     * redirect362.tagcommander.com
     * redirect384.tagcommander.com
     * redirect395.tagcommander.com
@@ -33,6 +32,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | acquisition.klm.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
+| data.auchandirect.fr | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.decathlon.it | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.ouigo.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.ricaud.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
@@ -48,7 +48,6 @@
 | data.decathlon.es | redirect341.tagcommander.com |
 | data.decathlon.co.uk | redirect342.tagcommander.com |
 | tc.europcar.com | redirect357.tagcommander.com |
-| data.auchandirect.fr | redirect360.tagcommander.com |
 | data.ouigo.com | redirect362.tagcommander.com |
 | tc.europcar.com.au | redirect384.tagcommander.com |
 | acquisition.klm.com | redirect395.tagcommander.com |

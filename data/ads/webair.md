@@ -664,7 +664,6 @@
     * reklama.fs.ak-is2.net
     * reklama.xml-v4.ak-is2.net
     * reklama.xml.ak-is2.net
-    * reklama.xs.ak-is2.net
     * relevanceads.fs.ak-is2.net
     * relevanceads.ui.ak-is2.net
     * relevanceads.xml.ak-is2.net
@@ -1208,10 +1207,12 @@
 | www.adprudence.com | adprudence.ui.ak-is2.net |
 | platform.adright.com | adright.aui.ak-is2.net |
 | filter-eu.adright.co | adright.fs-eu.ak-is2.net |
+| filter-eu.fstsrv4.com | adright.fs-eu.ak-is2.net |
 | filter-eu.qksrv.cc | adright.fs-eu.ak-is2.net |
 | filter-eu.qksrv1.com | adright.fs-eu.ak-is2.net |
 | filter.adright.co | adright.fs.ak-is2.net |
 | filter.adright.com | adright.fs.ak-is2.net |
+| filter.fstsrv4.com | adright.fs.ak-is2.net |
 | filter.qksrv.cc | adright.fs.ak-is2.net |
 | filter.qksrv1.com | adright.fs.ak-is2.net |
 | my.adright.co | adright.fs.ak-is2.net |
@@ -2027,7 +2028,6 @@
 | filter.reklama.network | reklama.fs.ak-is2.net |
 | xmlv4.reklama.network | reklama.xml-v4.ak-is2.net |
 | xml.reklama.network | reklama.xml.ak-is2.net |
-| static.reklama.network | reklama.xs.ak-is2.net |
 | filter.relevanceads.com | relevanceads.fs.ak-is2.net |
 | login.relevanceads.com | relevanceads.ui.ak-is2.net |
 | xml.relevanceads.com | relevanceads.xml.ak-is2.net |

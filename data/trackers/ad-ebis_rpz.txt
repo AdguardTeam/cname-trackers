@@ -14,6 +14,7 @@ ac-ebis.usen.biz CNAME .
 ac.geechs-job.com CNAME .
 ad-ebis.bookpass.auone.jp CNAME .
 ad-ebis.mynavi-job20s.jp CNAME .
+ad-ebis.toysub.jp CNAME .
 ad-track.paravi.jp CNAME .
 ad.aim-universe.co.jp CNAME .
 ad.aucfan.com CNAME .
@@ -232,7 +233,6 @@ ebis.sunstar-shop.jp CNAME .
 ebis.tokado.jp CNAME .
 ebis.touhan-navi.com CNAME .
 ebis.treasurenet.jp CNAME .
-ebis.u2yokohama.co.jp CNAME .
 ebis.umulin-lab.com CNAME .
 ebis.yumeyakata.com CNAME .
 ebis01.vernal.co.jp CNAME .
@@ -286,7 +286,6 @@ tracking.mysurance.co.jp CNAME .
 tracking.nokai.jp CNAME .
 tracking.wao-corp.com CNAME .
 tracking.wao.ne.jp CNAME .
-tukuru.cotta.jp CNAME .
 ureruadebis.papawash.com CNAME .
 urerucname.manara.jp CNAME .
 ureruebis.nintama.co.jp CNAME .

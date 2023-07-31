@@ -61,7 +61,6 @@
 | a.1film.to | 0i0i0i0.com |
 | a.6drole.com | 0i0i0i0.com |
 | a.6vids.space | 0i0i0i0.com |
-| a.abismo-katheryne.top | 0i0i0i0.com |
 | a.acervox.com | 0i0i0i0.com |
 | a.adult-videos.org | 0i0i0i0.com |
 | a.alldeepfake.xyz | 0i0i0i0.com |
@@ -75,6 +74,7 @@
 | a.craftbeerclub.com.ua | 0i0i0i0.com |
 | a.dajex.club | 0i0i0i0.com |
 | a.digitalgiftshopping.com | 0i0i0i0.com |
+| a.donyandmark.xyz | 0i0i0i0.com |
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
@@ -127,7 +127,9 @@
 | ad.emule-island.eu | 0i0i0i0.com |
 | ad.pornutopia.org | 0i0i0i0.com |
 | ad.twinksvid.com | 0i0i0i0.com |
+| ad.vvtadblk.online | 0i0i0i0.com |
 | ad.wawacity.xyz | 0i0i0i0.com |
+| ad.xxam.org | 0i0i0i0.com |
 | adanald.icu | 0i0i0i0.com |
 | adblock.vidomo.xyz | 0i0i0i0.com |
 | adddddd.javmilk.org | 0i0i0i0.com |
@@ -248,10 +250,10 @@
 | btaoc.xyz | 0i0i0i0.com |
 | btctrade.lol | 0i0i0i0.com |
 | bup.seksohub.com | 0i0i0i0.com |
+| bursa.conxxx.pro | 0i0i0i0.com |
 | buzzset.pics | 0i0i0i0.com |
 | bx5.tubemaximum.com | 0i0i0i0.com |
 | bzcdn.fin.ovh | 0i0i0i0.com |
-| bzotoin.pics | 0i0i0i0.com |
 | c.bloblohub.com | 0i0i0i0.com |
 | c021b14e0782ad7ef6d74.clicknplay.to | 0i0i0i0.com |
 | c22x1.xcdn.ovh | 0i0i0i0.com |
@@ -278,7 +280,6 @@
 | click.fastupload.io | 0i0i0i0.com |
 | client2009x25.xcdn.ovh | 0i0i0i0.com |
 | coinbaze.lol | 0i0i0i0.com |
-| coinzba.mom | 0i0i0i0.com |
 | comezz.xyz | 0i0i0i0.com |
 | content.zbporn.com | 0i0i0i0.com |
 | cool.ah-me.com | 0i0i0i0.com |
@@ -286,6 +287,7 @@
 | cool.sunporno.com | 0i0i0i0.com |
 | cool.tubous.com | 0i0i0i0.com |
 | cowpaz.pics | 0i0i0i0.com |
+| crumpet.xxxpornhd.pro | 0i0i0i0.com |
 | cuckoiz.lol | 0i0i0i0.com |
 | custom1.shorterall.com | 0i0i0i0.com |
 | cx6.lastxxxmovies.com | 0i0i0i0.com |
@@ -357,7 +359,6 @@
 | hi999.mom | 0i0i0i0.com |
 | hitfuck.icu | 0i0i0i0.com |
 | hizgame.mom | 0i0i0i0.com |
-| hoabon4.lol | 0i0i0i0.com |
 | hoakz.xyz | 0i0i0i0.com |
 | homemadeand.com | 0i0i0i0.com |
 | hotmovstore.com | 0i0i0i0.com |
@@ -383,6 +384,7 @@
 | io.fapnow.xxx | 0i0i0i0.com |
 | ipx.7mmtv.top | 0i0i0i0.com |
 | ix2.deepsexvids.com | 0i0i0i0.com |
+| j.bloblohub.com | 0i0i0i0.com |
 | j45.webringporn.com | 0i0i0i0.com |
 | jav.guru.7mmtv.top | 0i0i0i0.com |
 | jav.guru.jav-7mmtv.top | 0i0i0i0.com |
@@ -439,7 +441,6 @@
 | maizour.mom | 0i0i0i0.com |
 | mamamia.vintageporno.stream | 0i0i0i0.com |
 | mangoga.xyz | 0i0i0i0.com |
-| marcusdevs.ru | 0i0i0i0.com |
 | maxcdn.dmm-video.online | 0i0i0i0.com |
 | maxhold.xyz | 0i0i0i0.com |
 | maxx1.pleasedonotblockme.com | 0i0i0i0.com |
@@ -483,7 +484,6 @@
 | o.hotsextube.tv | 0i0i0i0.com |
 | o313o.com | 0i0i0i0.com |
 | o414o.icu | 0i0i0i0.com |
-| obyeok.hair | 0i0i0i0.com |
 | oi.429men.com | 0i0i0i0.com |
 | oi.fapnado.com | 0i0i0i0.com |
 | oi.fapnado.xxx | 0i0i0i0.com |
@@ -499,7 +499,9 @@
 | ok.4wank.net | 0i0i0i0.com |
 | ok.fapnado.xxx | 0i0i0i0.com |
 | ok.fapnow.xxx | 0i0i0i0.com |
+| ok.faptor.com | 0i0i0i0.com |
 | ok.hqbang.com | 0i0i0i0.com |
+| ok.starwank.com | 0i0i0i0.com |
 | ontj.com | 0i0i0i0.com |
 | open.oksrv.com | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
@@ -571,7 +573,6 @@
 | saituo.mom | 0i0i0i0.com |
 | sameplace.lol | 0i0i0i0.com |
 | sanbox.mom | 0i0i0i0.com |
-| santafe.lol | 0i0i0i0.com |
 | sas.arabshentai.com | 0i0i0i0.com |
 | satmon.neekstore.com | 0i0i0i0.com |
 | sbbb.spinna.xyz | 0i0i0i0.com |
@@ -618,6 +619,7 @@
 | taboizo.mom | 0i0i0i0.com |
 | tacumi.xyz | 0i0i0i0.com |
 | talamk3.beauty | 0i0i0i0.com |
+| tankiuz.xyz | 0i0i0i0.com |
 | tayrambo.lol | 0i0i0i0.com |
 | tb.turbocap.net | 0i0i0i0.com |
 | tech.moostream.top | 0i0i0i0.com |
@@ -626,7 +628,6 @@
 | testcommon.soundrussian.com | 0i0i0i0.com |
 | thaz.xyz | 0i0i0i0.com |
 | titsandtits.com | 0i0i0i0.com |
-| tlgt10.makeup | 0i0i0i0.com |
 | tlv.ui02.com | 0i0i0i0.com |
 | toabuck.xyz | 0i0i0i0.com |
 | toaioi.lol | 0i0i0i0.com |
@@ -701,8 +702,10 @@
 | xxxlove.rooski.net | 0i0i0i0.com |
 | xzillame.com | 0i0i0i0.com |
 | yhu5tw3mn64.jav-7mmtv.top | 0i0i0i0.com |
+| you75.youpornsexvideos.com | 0i0i0i0.com |
 | youzok.lol | 0i0i0i0.com |
 | z0000g.yvmads.com | 0i0i0i0.com |
+| zv.7vid.net | 0i0i0i0.com |
 | zzzzaaa.baijav.com | 0i0i0i0.com |
 | cdn.manhwadesu.me | cdn66584302.blazingcdn.net |
 | gone.mobilhdizle.com | pixie.porkbun.com |
@@ -712,4 +715,4 @@
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
 | h-ay.com | u53.hypnorat.com |
-| qoqv.com | u53.hypnorat.com |
+| qhip.com | u53.hypnorat.com |

@@ -30,3 +30,5 @@
 | al.talex.co.jp | mm.actionlink.jp |
 | al.tanabesports.com | mm.actionlink.jp |
 | al.tsukurupajama.jp | mm.actionlink.jp |
+| al.www.kijoan.com | mm.actionlink.jp |
+| m.aclk.jp | mm.actionlink.jp |

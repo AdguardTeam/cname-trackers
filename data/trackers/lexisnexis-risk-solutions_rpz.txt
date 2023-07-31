@@ -1,6 +1,7 @@
 ;
 ; Company name: LexisNexis Risk Solutions
 1bf86f4b.tictoc.ai CNAME .
+1of1.skipcash.app CNAME .
 abc.pulsebet.com CNAME .
 acdc.toolineo.de CNAME .
 acsrt.cardnet-tds.com CNAME .
@@ -26,6 +27,7 @@ api1.sfcu.org CNAME .
 apicorporativops.portoseguro.com.br CNAME .
 app.uob.com.sg CNAME .
 app392.gerberlife.com CNAME .
+applicant.rbfcu.org CNAME .
 appschk.scotiabank.com CNAME .
 appscore.credilike.me CNAME .
 assessment.nj.betmgm.com CNAME .
@@ -115,6 +117,7 @@ cdntm.us.hsbc.com CNAME .
 cfa.febtest.com CNAME .
 cfa.fidelity.com CNAME .
 cfa.mystreetscape.com CNAME .
+cfa.streetscape.com CNAME .
 cfaxdev2.fidelity.com CNAME .
 channel.rakbankonline.ae CNAME .
 check.fashionid.de CNAME .
@@ -337,6 +340,7 @@ ddc.worldpay.com CNAME .
 de9c635aa0404558bd527220ef4e6b4b.betway.ca CNAME .
 debs.my100bank.com CNAME .
 dep.gambit3.gameassists.co.uk CNAME .
+dept.provantage.com CNAME .
 dev-check3.dev.everbank.com CNAME .
 dev-rmscheck.sbifxt.co.jp CNAME .
 device-profile.jeniusbank.com CNAME .
@@ -605,6 +609,7 @@ rba-screen.optum.com CNAME .
 rba-screen.optumbank.com CNAME .
 rba-screen.optumfinancial.com CNAME .
 rba.apata.io CNAME .
+rba.cfg.smt.docomo.ne.jp CNAME .
 rba.infinitium.com CNAME .
 rba.login.agentmessagecenter.optum.com CNAME .
 rba.login.mahix.org CNAME .
@@ -773,6 +778,7 @@ tags.s-dati.com CNAME .
 tags.ulsterbank.co.uk CNAME .
 tags.ulsterbankanytimebanking.co.uk CNAME .
 tags.ulsterbankanytimebanking.ie CNAME .
+tblsdp.staging.tonybet.ca CNAME .
 tblsdp.tonybet.ca CNAME .
 tbp.tescobank.com CNAME .
 tcontent.auchantelecom.fr CNAME .

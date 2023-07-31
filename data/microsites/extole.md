@@ -39,6 +39,7 @@
     * freshly.extole.com
     * fuzebox-ssl.extole.com
     * gevalia.extole.com
+    * ggu-ssl.extole.com
     * gotoassist.extole.com
     * gotomeeting.extole.com
     * gotowebinar.extole.com
@@ -134,6 +135,7 @@
     * ahs-proconnect.extole.io
     * algaecal.extole.io
     * allenedmonds.extole.io
+    * allincu.extole.io
     * alltrucu.extole.io
     * alphaindustries.extole.io
     * amazon-web-services.extole.io
@@ -265,7 +267,6 @@
     * frontgate.extole.io
     * fullbay.extole.io
     * g2.extole.io
-    * galagala.extole.io
     * gannett.extole.io
     * gap-canada.extole.io
     * garnethill.extole.io
@@ -282,7 +283,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -433,6 +433,7 @@
     * scoresense.extole.io
     * seabourn.extole.io
     * securityplus.extole.io
+    * sesamecare.extole.io
     * shark-clean.extole.io
     * shiseido.extole.io
     * shoplc.extole.io
@@ -444,6 +445,7 @@
     * skinceuticals.extole.io
     * skyone-federal-credit-union.extole.io
     * sleepnumber.extole.io
+    * smartcu.extole.io
     * smashbox.extole.io
     * snap-finance.extole.io
     * soma.extole.io
@@ -554,6 +556,7 @@
 | refer.algaecal.com | algaecal.extole.io |
 | share.algaecal.com | algaecal.extole.io |
 | refer.allenedmonds.com | allenedmonds.extole.io |
+| share.allincu.com | allincu.extole.io |
 | share.alltrucu.org | alltrucu.extole.io |
 | share.alphaindustries.com | alphaindustries.extole.io |
 | refer.awscloud.com | amazon-web-services.extole.io |
@@ -741,7 +744,6 @@
 | share.fullbay.com | fullbay.extole.io |
 | refer.fuzebox.com | fuzebox-ssl.extole.com |
 | refer.g2.com | g2.extole.io |
-| share.galagala.com | galagala.extole.io |
 | share.app.com | gannett.extole.io |
 | share.azcentral.com | gannett.extole.io |
 | share.battlecreekenquirer.com | gannett.extole.io |
@@ -782,6 +784,7 @@
 | refer.gcefcu.org | gcefcu.extole.io |
 | share.getsetup.io | getsetup.extole.io |
 | refer.gevalia.com | gevalia.extole.com |
+| share.ggu.edu | ggu-ssl.extole.com |
 | refer.martinsfoods.com | giant-martins.extole.io |
 | refer.giantfood.com | giantfood.extole.io |
 | refer.giantfoodstores.com | giantfoodstores.extole.io |
@@ -793,7 +796,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1019,6 +1021,7 @@
 | refer.scoresense.com | scoresense.extole.io |
 | refer.seabourn.com | seabourn.extole.io |
 | share.securityplusfcu.org | securityplus.extole.io |
+| share.sesamecare.com | sesamecare.extole.io |
 | friend.sharefile.com | sharefile-ssl.extole.com |
 | refer.sharkclean.com | shark-clean.extole.io |
 | referral.shiseido.com | shiseido.extole.io |
@@ -1033,6 +1036,7 @@
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | refer.skyone.org | skyone-federal-credit-union.extole.io |
 | refer.sleepnumber.com | sleepnumber.extole.io |
+| share.smartcu.org | smartcu.extole.io |
 | refer.smashbox.com | smashbox.extole.io |
 | share.refer-smashbox.com | smashbox.extole.io |
 | refer.snapfinance.com | snap-finance.extole.io |

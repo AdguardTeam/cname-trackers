@@ -758,6 +758,7 @@
 | stats.matthogg.fyi | custom.plausible.io |
 | stats.maximaconsulting.xyz | custom.plausible.io |
 | stats.meetnfly.com | custom.plausible.io |
+| stats.mein-futterlexikon.org | custom.plausible.io |
 | stats.meno.science | custom.plausible.io |
 | stats.mesenvies.fr | custom.plausible.io |
 | stats.michaeloliver.dev | custom.plausible.io |
@@ -803,7 +804,6 @@
 | stats.oxygem.com | custom.plausible.io |
 | stats.p42.ai | custom.plausible.io |
 | stats.parqet.com | custom.plausible.io |
-| stats.pascalafleur.com | custom.plausible.io |
 | stats.passwordyeti.com | custom.plausible.io |
 | stats.pasteapp.io | custom.plausible.io |
 | stats.pastorwagner.com | custom.plausible.io |
@@ -882,7 +882,6 @@
 | stats.sascha-theobald.de | custom.plausible.io |
 | stats.savoirplus-risquermoins.net | custom.plausible.io |
 | stats.sax.net | custom.plausible.io |
-| stats.sayla.io | custom.plausible.io |
 | stats.scailable.net | custom.plausible.io |
 | stats.scalesql.com | custom.plausible.io |
 | stats.scottbartell.com | custom.plausible.io |
@@ -908,7 +907,6 @@
 | stats.slicedthread.com | custom.plausible.io |
 | stats.socialeurope.eu | custom.plausible.io |
 | stats.sommselect.com | custom.plausible.io |
-| stats.songbox.rocks | custom.plausible.io |
 | stats.soundbite.so | custom.plausible.io |
 | stats.southswindon-pc.gov.uk | custom.plausible.io |
 | stats.sparkloop.app | custom.plausible.io |
@@ -935,7 +933,6 @@
 | stats.tekin.co.uk | custom.plausible.io |
 | stats.terre-compagne.fr | custom.plausible.io |
 | stats.thedale.org | custom.plausible.io |
-| stats.thegoodlineheight.com | custom.plausible.io |
 | stats.theiere-tasse.com | custom.plausible.io |
 | stats.thelandofar.be | custom.plausible.io |
 | stats.thenewradiance.com | custom.plausible.io |
@@ -943,7 +940,6 @@
 | stats.thomasbandt.com | custom.plausible.io |
 | stats.thomasfroese.com | custom.plausible.io |
 | stats.thomasvitale.com | custom.plausible.io |
-| stats.threadstart.io | custom.plausible.io |
 | stats.tijdschrift.zenleven.nl | custom.plausible.io |
 | stats.time2unfold.com | custom.plausible.io |
 | stats.timkhoury.com | custom.plausible.io |

@@ -172,6 +172,7 @@ filter-eu.convertap.com
 filter-eu.expialidosius.com
 filter-eu.ezmob.com
 filter-eu.flairadscpc.com
+filter-eu.fstsrv4.com
 filter-eu.globlemath.com
 filter-eu.hueadsxml.com
 filter-eu.mobipromote.com
@@ -257,6 +258,7 @@ filter.ezmob.com
 filter.finevisit.com
 filter.flairadscpc.com
 filter.flurryad.com
+filter.fstsrv4.com
 filter.globlemath.com
 filter.goclickz.net
 filter.groovyadz.com
@@ -728,7 +730,6 @@ static.openrtb.in
 static.qksrv.biz
 static.qksrv.cc
 static.qksrv1.com
-static.reklama.network
 sub.adzgame.com
 sv-pval.looksmart.com
 sv-query.looksmart.com
@@ -1293,6 +1294,7 @@ static.pushub.net
 static.pwr-ads.com
 static.readywind.media
 static.realtime-bid.com
+static.reklama.network
 static.revrtb.com
 static.rocoads.com
 static.rtb-serve.com

@@ -107,7 +107,6 @@
 | affilbox.doglog.cz | cz.affilbox.cz |
 | affilbox.gurufinance.cz | cz.affilbox.cz |
 | affilbox.kvaskovanie.sk | cz.affilbox.cz |
-| affilbox.mutumutu.cz | cz.affilbox.cz |
 | affilbox.rondopartner.cz | cz.affilbox.cz |
 | affilbox.stygremvkleci.cz | cz.affilbox.cz |
 | affiliate.2gispraha.cz | cz.affilbox.cz |
@@ -127,7 +126,6 @@
 | affiliate.bikeplan.org | cz.affilbox.cz |
 | affiliate.biooo.cz | cz.affilbox.cz |
 | affiliate.bitcoinzmenaren.sk | cz.affilbox.cz |
-| affiliate.canatura.com | cz.affilbox.cz |
 | affiliate.cannyapp.cz | cz.affilbox.cz |
 | affiliate.cbweed.cz | cz.affilbox.cz |
 | affiliate.childhoodpotential.com | cz.affilbox.cz |
@@ -365,6 +363,7 @@
 | my.top4football.it | cz.affilbox.cz |
 | my.top4football.nl | cz.affilbox.cz |
 | my.top4football.se | cz.affilbox.cz |
+| my.top4run.cz | cz.affilbox.cz |
 | my.top4running.at | cz.affilbox.cz |
 | my.top4running.be | cz.affilbox.cz |
 | my.top4running.bg | cz.affilbox.cz |
@@ -725,6 +724,7 @@
 | partneri.givt.cz | cz.affilbox.cz |
 | partneri.heavytamper.cz | cz.affilbox.cz |
 | partneri.incacollagen.eu | cz.affilbox.cz |
+| partneri.intimfitness.cz | cz.affilbox.cz |
 | partneri.jakofenix.cz | cz.affilbox.cz |
 | partneri.jazykovedarky.cz | cz.affilbox.cz |
 | partneri.jazykyodpiky.cz | cz.affilbox.cz |

@@ -14,6 +14,7 @@
 ||ac.geechs-job.com^
 ||ad-ebis.bookpass.auone.jp^
 ||ad-ebis.mynavi-job20s.jp^
+||ad-ebis.toysub.jp^
 ||ad-track.paravi.jp^
 ||ad.aim-universe.co.jp^
 ||ad.aucfan.com^
@@ -232,7 +233,6 @@
 ||ebis.tokado.jp^
 ||ebis.touhan-navi.com^
 ||ebis.treasurenet.jp^
-||ebis.u2yokohama.co.jp^
 ||ebis.umulin-lab.com^
 ||ebis.yumeyakata.com^
 ||ebis01.vernal.co.jp^
@@ -286,7 +286,6 @@
 ||tracking.nokai.jp^
 ||tracking.wao-corp.com^
 ||tracking.wao.ne.jp^
-||tukuru.cotta.jp^
 ||ureruadebis.papawash.com^
 ||urerucname.manara.jp^
 ||ureruebis.nintama.co.jp^

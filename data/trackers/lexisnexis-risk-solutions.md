@@ -27,6 +27,7 @@
     * h-2ql3c6py.online-metrix.net
     * h-2yf3c1v4.online-metrix.net
     * h-30fpzt2y.online-metrix.net
+    * h-324klu1j.online-metrix.net
     * h-34mvnza6.online-metrix.net
     * h-39zuido3.online-metrix.net
     * h-3gk2er3j.online-metrix.net
@@ -49,6 +50,7 @@
     * h-6fytj79e-solid.online-metrix.net
     * h-6i24djkv.online-metrix.net
     * h-6jfhwoo3.online-metrix.net
+    * h-6mlhprq2-a.online-metrix.net
     * h-6mlhprq2.online-metrix.net
     * h-6rj18la4.online-metrix.net
     * h-6voqock8.online-metrix.net
@@ -470,6 +472,7 @@
     * h-njea5xb8.online-metrix.net
     * h-norton.online-metrix.net
     * h-nssolutions.online-metrix.net
+    * h-nttdocomo.online-metrix.net
     * h-ntthikaritv.online-metrix.net
     * h-nttocnmypage.online-metrix.net
     * h-nttplala.online-metrix.net
@@ -510,6 +513,7 @@
     * h-pocketcard.online-metrix.net
     * h-portoseguro.online-metrix.net
     * h-prosper.online-metrix.net
+    * h-provantage.online-metrix.net
     * h-pscu.online-metrix.net
     * h-psecu.online-metrix.net
     * h-qasantanderbank.online-metrix.net
@@ -544,6 +548,7 @@
     * h-sfbli.online-metrix.net
     * h-sheerid.online-metrix.net
     * h-signifyd.online-metrix.net
+    * h-skipcash.online-metrix.net
     * h-skrill.online-metrix.net
     * h-skyuk.online-metrix.net
     * h-snapfinance.online-metrix.net
@@ -715,6 +720,7 @@
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
 | app.uob.com.sg | h-30fpzt2y.online-metrix.net |
+| applicant.rbfcu.org | h-324klu1j.online-metrix.net |
 | nv-2.liveaction.com | h-34mvnza6.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
 | r7s.scl.swisscom.ch | h-3gk2er3j.online-metrix.net |
@@ -731,6 +737,7 @@
 | api.ext.evolution.protective.com | h-5glaq71x.online-metrix.net |
 | cfa.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | cfa.mystreetscape.com | h-5h8i3ud8.online-metrix.net |
+| cfa.streetscape.com | h-5h8i3ud8.online-metrix.net |
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.ke | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.za | h-5pxao9h8.online-metrix.net |
@@ -749,6 +756,7 @@
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
 | cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
+| tblsdp.staging.tonybet.ca | h-6mlhprq2-a.online-metrix.net |
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
 | content.telusinternational.ai | h-6voqock8.online-metrix.net |
@@ -1296,6 +1304,7 @@
 | img.tmxcyber.com | h-njea5xb8.online-metrix.net |
 | fpt.norton.com | h-norton.online-metrix.net |
 | sub-a.crossmeetz.com | h-nssolutions.online-metrix.net |
+| rba.cfg.smt.docomo.ne.jp | h-nttdocomo.online-metrix.net |
 | sec.hikaritv.net | h-ntthikaritv.online-metrix.net |
 | sec.mypage.ntt.com | h-nttocnmypage.online-metrix.net |
 | sec.plala.or.jp | h-nttplala.online-metrix.net |
@@ -1341,6 +1350,7 @@
 | rbawis.pocketcard.co.jp | h-pocketcard.online-metrix.net |
 | meiodepagamento.campanhaporto.com.br | h-portoseguro.online-metrix.net |
 | img2.prosper.com | h-prosper.online-metrix.net |
+| dept.provantage.com | h-provantage.online-metrix.net |
 | t.banking.blucurrent.org | h-pscu.online-metrix.net |
 | t.banking.njfcu.org | h-pscu.online-metrix.net |
 | t.demo.lumindigital.com | h-pscu.online-metrix.net |
@@ -1429,6 +1439,7 @@
 | content.sheerid.com | h-sheerid.online-metrix.net |
 | imgs.cdn-btsg.com | h-signifyd.online-metrix.net |
 | imgs.signifyd.com | h-signifyd.online-metrix.net |
+| 1of1.skipcash.app | h-skipcash.online-metrix.net |
 | cdn1.skrill.com | h-skrill.online-metrix.net |
 | idstatus.sky.com | h-skyuk.online-metrix.net |
 | idstatus.sky.it | h-skyuk.online-metrix.net |

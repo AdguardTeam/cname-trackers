@@ -108,6 +108,7 @@ refer.yankeecandle.com CNAME .
 referral.hostgator.com CNAME .
 referral.vistaprint.com CNAME .
 share.aeropostale.com CNAME .
+share.ggu.edu CNAME .
 share.indochino.com CNAME .
 share.na.sage.com CNAME .
 share.qalo.com CNAME .
@@ -123,7 +124,6 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -403,6 +403,7 @@ share.advanceamerica.net CNAME .
 share.affinityfcu.org CNAME .
 share.ahs.com CNAME .
 share.algaecal.com CNAME .
+share.allincu.com CNAME .
 share.alltrucu.org CNAME .
 share.alphaindustries.com CNAME .
 share.anatomie.com CNAME .
@@ -477,7 +478,6 @@ share.floridatoday.com CNAME .
 share.freep.com CNAME .
 share.fullbay.com CNAME .
 share.fundrive.savers.com CNAME .
-share.galagala.com CNAME .
 share.getsetup.io CNAME .
 share.giftcardgranny.com CNAME .
 share.giftya.com CNAME .
@@ -567,11 +567,13 @@ share.s4.levi-site.com CNAME .
 share.safecu.org CNAME .
 share.saintjanebeauty.com CNAME .
 share.securityplusfcu.org CNAME .
+share.sesamecare.com CNAME .
 share.shoplc.com CNAME .
 share.shoptruespirit.com CNAME .
 share.shutterstock.com CNAME .
 share.simonandschuster.com CNAME .
 share.skillshare.com CNAME .
+share.smartcu.org CNAME .
 share.sstack.com CNAME .
 share.staging.acorns.io CNAME .
 share.stagsleap.com CNAME .
@@ -618,4 +620,5 @@ share.zenbusiness.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
+em8561.go2bank.com CNAME .
 sftp.extole.com CNAME .

@@ -119,6 +119,7 @@
 ||3205513.notifysrv.com^
 ||3205733.notifysrv.com^
 ||3205919.notify6.com^
+||3205971.notify6.com^
 ||3207479.notifysrv.com^
 ||3207573.notifysrv.com^
 ||3207695.notify6.com^
@@ -199,6 +200,7 @@
 ||3290472.notifysrv.com^
 ||3291002.notifysrv.com^
 ||3292132.notifysrv.com^
+||3292164.notify6.com^
 ||3292164.notifysrv.com^
 ||3292172.notifysrv.com^
 ||3294260.notify6.com^
@@ -553,6 +555,7 @@
 ||3591075.notify6.com^
 ||3591075.notifysrv.com^
 ||3593835.notify6.com^
+||3595095.notifysrv.com^
 ||3597775.notifysrv.com^
 ||3598457.notifysrv.com^
 ||3599607.notify6.com^
@@ -634,6 +637,7 @@
 ||3783125.notifysrv.com^
 ||3789703.notifysrv.com^
 ||3791967.notify6.com^
+||3793875.notify6.com^
 ||3805703.notifysrv.com^
 ||3814695.notifysrv.com^
 ||3815573.notify6.com^
@@ -650,6 +654,7 @@
 ||3869316.notify6.com^
 ||3869376.notify6.com^
 ||3869462.notify6.com^
+||3869504.notify6.com^
 ||3869504.notifysrv.com^
 ||3869630.notify6.com^
 ||3869630.notifysrv.com^
@@ -724,6 +729,7 @@
 ||4035234.notify6.com^
 ||4035244.notify6.com^
 ||4037374.notify6.com^
+||4037382.notify6.com^
 ||4037384.notify6.com^
 ||4037426.notify6.com^
 ||4046268.notify6.com^
@@ -741,6 +747,7 @@
 ||4069896.notify6.com^
 ||4069900.notify6.com^
 ||4080560.notify6.com^
+||4080606.notify6.com^
 ||4093684.notify6.com^
 ||4093704.notify6.com^
 ||4096386.notify6.com^
@@ -767,7 +774,9 @@
 ||4189910.notify6.com^
 ||4189916.notify6.com^
 ||4191292.notify6.com^
+||4195388.notify6.com^
 ||4195738.notify6.com^
+||4196012.notify6.com^
 ||4211854.notify6.com^
 ||4212982.notify6.com^
 ||4214522.notify6.com^
@@ -956,12 +965,14 @@
 ||s.elnl2a.com^
 ||s.elnl2b.com^
 ||s.elnn12.com^
+||s.elnn20.com^
 ||s.elns4a.com^
 ||s.elns4c.com^
 ||s.etology.com^
 ||s.exv6.com^
 ||s.linkw2e.com^
 ||s.linkw2g.com^
+||s.nowsrv.com^
 ||s.opoxv.com^
 ||s.opti-digital.com^
 ||s.optidigital.com^

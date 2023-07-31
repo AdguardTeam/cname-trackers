@@ -119,6 +119,7 @@
 3205513.notifysrv.com CNAME .
 3205733.notifysrv.com CNAME .
 3205919.notify6.com CNAME .
+3205971.notify6.com CNAME .
 3207479.notifysrv.com CNAME .
 3207573.notifysrv.com CNAME .
 3207695.notify6.com CNAME .
@@ -199,6 +200,7 @@
 3290472.notifysrv.com CNAME .
 3291002.notifysrv.com CNAME .
 3292132.notifysrv.com CNAME .
+3292164.notify6.com CNAME .
 3292164.notifysrv.com CNAME .
 3292172.notifysrv.com CNAME .
 3294260.notify6.com CNAME .
@@ -553,6 +555,7 @@
 3591075.notify6.com CNAME .
 3591075.notifysrv.com CNAME .
 3593835.notify6.com CNAME .
+3595095.notifysrv.com CNAME .
 3597775.notifysrv.com CNAME .
 3598457.notifysrv.com CNAME .
 3599607.notify6.com CNAME .
@@ -634,6 +637,7 @@
 3783125.notifysrv.com CNAME .
 3789703.notifysrv.com CNAME .
 3791967.notify6.com CNAME .
+3793875.notify6.com CNAME .
 3805703.notifysrv.com CNAME .
 3814695.notifysrv.com CNAME .
 3815573.notify6.com CNAME .
@@ -650,6 +654,7 @@
 3869316.notify6.com CNAME .
 3869376.notify6.com CNAME .
 3869462.notify6.com CNAME .
+3869504.notify6.com CNAME .
 3869504.notifysrv.com CNAME .
 3869630.notify6.com CNAME .
 3869630.notifysrv.com CNAME .
@@ -724,6 +729,7 @@
 4035234.notify6.com CNAME .
 4035244.notify6.com CNAME .
 4037374.notify6.com CNAME .
+4037382.notify6.com CNAME .
 4037384.notify6.com CNAME .
 4037426.notify6.com CNAME .
 4046268.notify6.com CNAME .
@@ -741,6 +747,7 @@
 4069896.notify6.com CNAME .
 4069900.notify6.com CNAME .
 4080560.notify6.com CNAME .
+4080606.notify6.com CNAME .
 4093684.notify6.com CNAME .
 4093704.notify6.com CNAME .
 4096386.notify6.com CNAME .
@@ -767,7 +774,9 @@
 4189910.notify6.com CNAME .
 4189916.notify6.com CNAME .
 4191292.notify6.com CNAME .
+4195388.notify6.com CNAME .
 4195738.notify6.com CNAME .
+4196012.notify6.com CNAME .
 4211854.notify6.com CNAME .
 4212982.notify6.com CNAME .
 4214522.notify6.com CNAME .
@@ -956,12 +965,14 @@ s.elnkp4.com CNAME .
 s.elnl2a.com CNAME .
 s.elnl2b.com CNAME .
 s.elnn12.com CNAME .
+s.elnn20.com CNAME .
 s.elns4a.com CNAME .
 s.elns4c.com CNAME .
 s.etology.com CNAME .
 s.exv6.com CNAME .
 s.linkw2e.com CNAME .
 s.linkw2g.com CNAME .
+s.nowsrv.com CNAME .
 s.opoxv.com CNAME .
 s.opti-digital.com CNAME .
 s.optidigital.com CNAME .

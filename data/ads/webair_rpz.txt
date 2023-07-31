@@ -172,6 +172,7 @@ filter-eu.convertap.com CNAME .
 filter-eu.expialidosius.com CNAME .
 filter-eu.ezmob.com CNAME .
 filter-eu.flairadscpc.com CNAME .
+filter-eu.fstsrv4.com CNAME .
 filter-eu.globlemath.com CNAME .
 filter-eu.hueadsxml.com CNAME .
 filter-eu.mobipromote.com CNAME .
@@ -257,6 +258,7 @@ filter.ezmob.com CNAME .
 filter.finevisit.com CNAME .
 filter.flairadscpc.com CNAME .
 filter.flurryad.com CNAME .
+filter.fstsrv4.com CNAME .
 filter.globlemath.com CNAME .
 filter.goclickz.net CNAME .
 filter.groovyadz.com CNAME .
@@ -728,7 +730,6 @@ static.openrtb.in CNAME .
 static.qksrv.biz CNAME .
 static.qksrv.cc CNAME .
 static.qksrv1.com CNAME .
-static.reklama.network CNAME .
 sub.adzgame.com CNAME .
 sv-pval.looksmart.com CNAME .
 sv-query.looksmart.com CNAME .
@@ -1293,6 +1294,7 @@ static.pushub.net CNAME .
 static.pwr-ads.com CNAME .
 static.readywind.media CNAME .
 static.realtime-bid.com CNAME .
+static.reklama.network CNAME .
 static.revrtb.com CNAME .
 static.rocoads.com CNAME .
 static.rtb-serve.com CNAME .

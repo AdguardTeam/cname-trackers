@@ -684,6 +684,7 @@ tr.news.grandsmoulinsdeparis.com CNAME .
 tr.news.groupe-armonia.com CNAME .
 tr.news.hallobanden.be CNAME .
 tr.news.hallobanden.nl CNAME .
+tr.news.happycap.org CNAME .
 tr.news.helvyre.fr CNAME .
 tr.news.heredis.com CNAME .
 tr.news.i24news.tv CNAME .
@@ -954,7 +955,6 @@ tr.solution.uneo.fr CNAME .
 tr.sort.espmp-nifr.net CNAME .
 tr.souscription.floa.fr CNAME .
 tr.spain.plimsoll.es CNAME .
-tr.sportperf.np6.fr CNAME .
 tr.strategie.gouv.fr CNAME .
 tr.suivi-client-edf.com CNAME .
 tr.surveys.np6.com CNAME .
