@@ -205,6 +205,7 @@ refer.creativelive.com CNAME .
 refer.crocs.com CNAME .
 refer.cspire.com CNAME .
 refer.darphin.com CNAME .
+refer.delloutlet.com CNAME .
 refer.dreamlawn.com CNAME .
 refer.ea.com CNAME .
 refer.ecoterrabeds.com CNAME .
@@ -217,7 +218,6 @@ refer.everlywell.com CNAME .
 refer.evite.com CNAME .
 refer.fahw.com CNAME .
 refer.firstaidbeauty.com CNAME .
-refer.firstrepublic.com CNAME .
 refer.firsttechfed.com CNAME .
 refer.frontgate.com CNAME .
 refer.g2.com CNAME .
@@ -495,6 +495,7 @@ share.independentmail.com CNAME .
 share.inspirecleanenergy.com CNAME .
 share.installamerica.com CNAME .
 share.iteach.net CNAME .
+share.jacksonsun.com CNAME .
 share.jhfcu.org CNAME .
 share.juicepress.com CNAME .
 share.juvlabs.com CNAME .
@@ -509,6 +510,7 @@ share.lifedna.com CNAME .
 share.livongo.com CNAME .
 share.lovesac.com CNAME .
 share.maccosmetics.com.au CNAME .
+share.maidpro.com CNAME .
 share.mamabearlegalforms.com CNAME .
 share.mansfieldnewsjournal.com CNAME .
 share.medely.com CNAME .

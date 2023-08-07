@@ -164,7 +164,6 @@
 ||filter-eu.adright.co^
 ||filter-eu.adsupplyexchange.com^
 ||filter-eu.adzestocp.com^
-||filter-eu.bid-engine.com^
 ||filter-eu.bidforclicks.com^
 ||filter-eu.bidmyadz.com^
 ||filter-eu.chameleostudios.com^
@@ -220,7 +219,6 @@
 ||filter.audiencedevelopers.com^
 ||filter.babanetwork.net^
 ||filter.bcnmonetize.com^
-||filter.bid-engine.com^
 ||filter.bidforclicks.com^
 ||filter.bidiology.com^
 ||filter.bidmyads.com^
@@ -605,7 +603,6 @@
 ||rtb-useast.rankortbdirect.com^
 ||rtb-useast.readywind.media^
 ||rtb-useast.revlift.io^
-||rtb-useast.roqoon.com^
 ||rtb-useast.rtbadzesto.com^
 ||rtb-useast.rtbfactory.com^
 ||rtb-useast.rtbflairads.com^
@@ -726,6 +723,7 @@
 ||static.fstsrv1.com^
 ||static.fstsrv2.com^
 ||static.fstsrv3.com^
+||static.fstsrv4.com^
 ||static.openrtb.in^
 ||static.qksrv.biz^
 ||static.qksrv.cc^
@@ -868,9 +866,9 @@
 ||xml-eu.adokutcontextual.com^
 ||xml-eu.adoperatorx.com^
 ||xml-eu.adright.co^
+||xml-eu.adtube.media^
 ||xml-eu.adxfactory.com^
 ||xml-eu.adzestocp.com^
-||xml-eu.bid-engine.com^
 ||xml-eu.bidforclicks.com^
 ||xml-eu.bidmyadz.com^
 ||xml-eu.blueparrot.media^
@@ -937,6 +935,7 @@
 ||xml-v4.fstsrv1.com^
 ||xml-v4.fstsrv2.com^
 ||xml-v4.fstsrv3.com^
+||xml-v4.fstsrv4.com^
 ||xml-v4.gipostart-1.co^
 ||xml-v4.gipostart-2.co^
 ||xml-v4.goclickz.net^
@@ -1017,7 +1016,6 @@
 ||xml.ak-tracker.com^
 ||xml.babanetwork.net^
 ||xml.bappaads.com^
-||xml.bid-engine.com^
 ||xml.bidderads.com^
 ||xml.bidderleader.com^
 ||xml.bidderswinner.com^
@@ -1075,6 +1073,7 @@
 ||xml.fstsrv1.com^
 ||xml.fstsrv2.com^
 ||xml.fstsrv3.com^
+||xml.fstsrv4.com^
 ||xml.gipostart-2.co^
 ||xml.groovyadz.com^
 ||xml.hangfly.net^
@@ -1216,7 +1215,6 @@
 ||static-rtb2.xaprio.net^
 ||static.100conversions.com^
 ||static.ad-maven.com^
-||static.bid-engine.com^
 ||static.bidderleader.com^
 ||static.win-bidding.com^
 ||static.adbite.com^

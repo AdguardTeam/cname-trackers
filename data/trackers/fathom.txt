@@ -16,6 +16,7 @@
 ||aardwolf.meinsmartplan.de^
 ||aardwolf.relaycorp.tech^
 ||aj8md.johnhenry.ie^
+||albatross.mypromo.co^
 ||albatross.ohseesoftware.com^
 ||alpaca.miidbaby.com^
 ||alpaca.thesocialmedwork.com^
@@ -55,6 +56,7 @@
 ||aphid.polarcop.com^
 ||aphid.thyself.me^
 ||armadillo.axeneo7.qc.ca^
+||armadillo.caj.ms^
 ||armadillo.oceandecadenortheastpacific.org^
 ||armadillo.stacking.club^
 ||armadillo.superpeak.dk^
@@ -176,7 +178,6 @@
 ||cattle.apisyouwonthate.com^
 ||cattle.domaincomet.com^
 ||cattle.driftbot.io^
-||cattle.elitecanines.com.au^
 ||cattle.eprc.tools^
 ||cattle.herojob.de^
 ||cattle.kirkebaekke.dk^
@@ -246,9 +247,12 @@
 ||crawdad.craiga.id.au^
 ||crawdad.dillonerhardt.com^
 ||crayfish.fansubbing.com^
+||crayfish.portbanecottagelochtay.co.uk^
 ||crayfish.thecatherinewheel.co^
 ||crayfish.thingelstad.com^
+||crocodile.rapid-sale.co.uk^
 ||crow.claudiakeil.de^
+||crow.manuel-metzger.com^
 ||crow.voracious.dev^
 ||cuckoo.clientrock.app^
 ||cuckoo.cult.supply^
@@ -267,6 +271,7 @@
 ||dog.airfieldhub.com^
 ||dog.christinamoore.us^
 ||dog.franchisesocial.co.uk^
+||dog.ghvenue.com^
 ||dog.goldcanvas.com^
 ||dog.justsketch.me^
 ||dog.orbit.love^
@@ -436,7 +441,7 @@
 ||hawk.makroskop.eu^
 ||hawk.mjsarfatti.com^
 ||hedgehog.fightforthefuture.org^
-||hedgehog.impira.com^
+||hedgehog.hivve.world^
 ||hedgehog.kiks.life^
 ||heron.joel.is^
 ||heron.morphiq.digital^
@@ -472,7 +477,6 @@
 ||hyena.baseline.is^
 ||hyena.kitafund.com^
 ||hyena.m1guelpf.blog^
-||hyena.wearegray.co^
 ||i5ixiwch2f.themakersmob.com^
 ||iguana.delbaoliveira.com^
 ||iguana.indigospot.com^
@@ -489,6 +493,7 @@
 ||jcpjfyikk.dogbonemarket.com^
 ||jellyfish.teresaharlow.com^
 ||jellyfish.therapieplatz-finden.de^
+||jrtfx.scottspence.me^
 ||kangaroo.kraenk.de^
 ||kangaroo.triplightfantastic.com^
 ||kaxlfq.testingwithtestcafe.com^
@@ -557,6 +562,7 @@
 ||lizard.priorart.dev^
 ||llama.eniston.io^
 ||llama.growthinkers.nl^
+||llama.lobbly.com^
 ||llama.mallardbay.com^
 ||llama.vivriticapital.com^
 ||lobster.dispatch.fm^
@@ -705,6 +711,7 @@
 ||perch.matiasvad.com^
 ||perch.searchwp.com^
 ||perch.stefangasser.com^
+||pheasant.sonistaging.com^
 ||pheasant.swinlead.com^
 ||pig.civicplatform.org^
 ||pig.curtisherbert.com^
@@ -714,7 +721,6 @@
 ||pigeon.surtitlesolutions.com^
 ||pigeon.thankyuu.com^
 ||pinniped.gardenofficeguide.co.uk^
-||pinniped.oslocrisislinetech.com^
 ||pinniped.quarantinecup.live^
 ||piranha.jsmobiledev.com^
 ||piranha.minnmyatsoe.com^
@@ -742,7 +748,6 @@
 ||prawn.fffuel.co^
 ||prawn.lionsmouth.digital^
 ||prawn.samgarson.com^
-||primate.dmarcdigests.com^
 ||primate.productcolors.com^
 ||ptarmigan.bridal-hair-and-accessories-now.com^
 ||ptarmigan.codebycorey.com^
@@ -806,6 +811,7 @@
 ||scorpion.byteside.com^
 ||scorpion.clare.ink^
 ||sdegwynml.bmaci.me^
+||seahorse.brightwayhealth.org^
 ||seahorse.dexterityvisuals.com^
 ||seahorse.okse.no^
 ||shark.codeswitch.be^
@@ -868,6 +874,7 @@
 ||swallow.axiom.co^
 ||swallow.pelias.io^
 ||swan.visualma.com^
+||swan.zeitgeist.cool^
 ||swift.avenue.so^
 ||swift.ciudadanob.com^
 ||swift.jos.ht^
@@ -934,13 +941,13 @@
 ||vampirebat.stiftung-palliativ-zuhause.de^
 ||vampirebat.tinamrak.com^
 ||vicuna.callisoma.com^
-||vicuna.casa-moebel.at^
 ||vicuna.fortbinary.com^
 ||vicuna.joblicant.de^
 ||vicuna.mybestproducts.net^
 ||viper.sitesauce.app^
 ||vole.contemporaryartlibrary.org^
 ||vole.leonhitchens.com^
+||vole.nettskaperne.no^
 ||vole.noteapps.info^
 ||vole.sonicrida.com^
 ||vole.tsttechnology.com^
@@ -976,7 +983,6 @@
 ||woodpecker.ember.ly^
 ||woodpecker.seabits.com^
 ||worm.discover-culture.com^
-||worm.paulstamatiou.com^
 ||wren.pratyushnalam.com^
 ||www.stork.notlessbutbetter.com^
 ||yak.animeawards.guide^
@@ -991,19 +997,19 @@
 ||antelope.targetinternet.com^
 ||ape.nusii.com^
 ||ape.pytch.co.uk^
-||armadillo.caj.ms^
 ||baboon.hetisoptexel.nl^
 ||basilisk.community-arts.net^
 ||bass.goulet.dev^
 ||bee.farmaciavdg.com^
 ||bison.equals.community^
+||cattle.elitecanines.com.au^
 ||cheetah.stolenboats.info^
-||crayfish.portbanecottagelochtay.co.uk^
 ||crow.centresustains.com^
 ||dog.recon.guru^
 ||donkey.masteringfinland.com^
 ||dove.ased.org^
 ||guineapig.magnatkaffehus.no^
+||hyena.wearegray.co^
 ||llama.whatcha.io^
 ||loon.analogjoe.com^
 ||loon.jrmyfranck.com^
@@ -1027,6 +1033,7 @@
 ||tigershark.hasanahmad.ca^
 ||tigershark.integratecolumbus.org^
 ||tigershark.oilpriceapi.com^
+||vicuna.casa-moebel.at^
 ||walrus.blindemployment.solutions^
 ||walrus.scalue.com^
 ||z3k9si.covid-resources.com^

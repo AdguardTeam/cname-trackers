@@ -196,6 +196,7 @@ data-191b2429e8.rtl.at
 data-191b2429e8.rtl.de
 data-191b2429e8.rtlspiele.de
 data-195efe600e.haus.de
+data-196c083e38.heute.at
 data-19e0ce8844.computerbild.de
 data-19e0ce8844.wieistmeineip.de
 data-19f62f6612.druckerchannel.de
@@ -246,6 +247,7 @@ data-1c0a3d83e3.transfermarkt.world
 data-1c9505e4f1.digitalphoto.de
 data-1ce541951d.apps.iocnt.de
 data-1ce6da1e66.diabetes-news.de
+data-1ce9bdc9f1.krone.at
 data-1cf566e125.gn-online.de
 data-1d11624658.gutekueche.de
 data-1d770934d4.mixed.de
@@ -420,6 +422,7 @@ data-3c672b4f0d.rtl-up.de
 data-3c672b4f0d.rtlplus.de
 data-3c91d46d9d.smarterworld.de
 data-3c91d46d9d.weka-fachmedien.de
+data-3ca7289259.rtlradio.de
 data-3cb5515026.harpersbazaar.de
 data-3cd8fb3825.kicker.de
 data-3d30b366ad.cavallo.de
@@ -629,6 +632,7 @@ data-4ce33a993b.addradio.de
 data-4ce33a993b.radiohochstift.de
 data-4cf02e3b23.schlager.de
 data-4cf73e282f.fleischwirtschaft.de
+data-4d32f71c16.stadtbuecherei-nuertingen.de
 data-4d33656d8f.watson.de
 data-4d5c7c2be6.boden-wand-decke.de
 data-4e46e5dc90.spektrum.de
@@ -703,6 +707,7 @@ data-5a078ffbef.wb-jobs.de
 data-5a078ffbef.wb-trauer.de
 data-5a078ffbef.westfalen-blatt.de
 data-5a40478bd4.kino.de
+data-5a9f6e282a.ingenieur.de
 data-5a9f6e282a.ingenieurstage.de
 data-5aab0af339.apps.iocnt.de
 data-5ab0f5b45f.dk-online.de
@@ -774,6 +779,7 @@ data-60d896f23d.tah.de
 data-60d896f23d.torgauerzeitung.de
 data-60d896f23d.trauer-anzeigen.de
 data-60d896f23d.waz-online.de
+data-60d896f23d.weihnachten-in-hannover.de
 data-614d3891ff.e-fellows.net
 data-614d3891ff.zeit.de
 data-62650cd9a5.golem.de
@@ -807,7 +813,6 @@ data-663387616d.echo24.de
 data-6636e03c3f.linux-magazin.de
 data-664e19af6d.11freunde.de
 data-66584305d5.mainpost.de
-data-668d7dd5c1.healthcare-computing.de
 data-668d7dd5c1.healthcare-digital.de
 data-66b7771b69.motorsport.com
 data-66d1660bfe.etailment.de
@@ -884,6 +889,7 @@ data-6f0387b7f3.apps.iocnt.de
 data-6f4f333803.apps.iocnt.de
 data-6fd9590058.apps.iocnt.de
 data-7023b17a38.onetz.de
+data-7023b17a38.weiden24.de
 data-707aff899d.donna-magazin.de
 data-707aff899d.funke-lifestyle.de
 data-707aff899d.funke.fun
@@ -1491,6 +1497,7 @@ data-c5925d7d99.planetgameboy.de
 data-c5925d7d99.planetiphone.de
 data-c5925d7d99.planetswitch.de
 data-c5925d7d99.planetvita.de
+data-c5925d7d99.portablegaming.de
 data-c5925d7d99.videogameszone.de
 data-c5b0f9d827.grazia-magazin.de
 data-c5c818f755.zaubertopf.de
@@ -1895,6 +1902,7 @@ data-f59db3288b.ludwigshafen24.de
 data-f59db3288b.mangfall24.de
 data-f59db3288b.mannheim24.de
 data-f59db3288b.meine-anzeigenzeitung.de
+data-f59db3288b.merkur-online.de
 data-f59db3288b.merkur.de
 data-f59db3288b.nextg.tv
 data-f59db3288b.oktoberfest.bayern
@@ -2013,3 +2021,4 @@ dnsbl.test.data-6dbef37a3c.apps.iocnt.de
 pool1.i-am.io
 report.oewa.at
 source-66584305d5.mainpost.de
+www2.dk-online.de

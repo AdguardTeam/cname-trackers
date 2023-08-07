@@ -35,7 +35,6 @@ affil.exkluzivita.cz CNAME .
 affil.fingood.cz CNAME .
 affil.fit-pro.cz CNAME .
 affil.gamlery.cz CNAME .
-affil.gentleport.cz CNAME .
 affil.hifimarket.cz CNAME .
 affil.hobbytec.cz CNAME .
 affil.jobsik.cz CNAME .
@@ -94,6 +93,7 @@ affilbox.rondopartner.cz CNAME .
 affilbox.stygremvkleci.cz CNAME .
 affiliate.2gispraha.cz CNAME .
 affiliate.4fresh.cz CNAME .
+affiliate.activeczech.com CNAME .
 affiliate.agatinsvet.cz CNAME .
 affiliate.alchymiezeny.cz CNAME .
 affiliate.alexandrajohn.com CNAME .
@@ -300,6 +300,7 @@ money.mioweb.cz CNAME .
 my.11teamsports.bg CNAME .
 my.11teamsports.cz CNAME .
 my.11teamsports.dk CNAME .
+my.11teamsports.ee CNAME .
 my.11teamsports.es CNAME .
 my.11teamsports.fi CNAME .
 my.11teamsports.fr CNAME .
@@ -396,6 +397,7 @@ my.weplayvolleyball.sk CNAME .
 online.pdfknihovna.cz CNAME .
 owayfamily.ecoorganicbeauty.cz CNAME .
 partak.surfey.cz CNAME .
+partener.aeriumshop.ro CNAME .
 partner.2din.cz CNAME .
 partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
@@ -471,6 +473,7 @@ partner.domaci-pivoteka.cz CNAME .
 partner.domoveda.cz CNAME .
 partner.doplnse.cz CNAME .
 partner.dr-nek.cz CNAME .
+partner.drfit.cz CNAME .
 partner.dripit.cz CNAME .
 partner.dynamikabohatstvi.cz CNAME .
 partner.eandilek.cz CNAME .
@@ -606,6 +609,7 @@ partner.santao.cz CNAME .
 partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
 partner.sculpturepainting.eu CNAME .
+partner.sielbeauty.cz CNAME .
 partner.simplymix.com CNAME .
 partner.skinnygirls.cz CNAME .
 partner.skiresort.cz CNAME .
@@ -663,6 +667,7 @@ partner.zombeek.cz CNAME .
 partner.zonky.cz CNAME .
 partner.zvaracky-obchod.sk CNAME .
 partnerbox.humandesign.cz CNAME .
+partnerek.aerium.hu CNAME .
 partneri.affiliate-program.sk CNAME .
 partneri.affiliatevyzva.cz CNAME .
 partneri.akodlhsiezit.sk CNAME .
@@ -736,6 +741,7 @@ partneri.naenergie.cz CNAME .
 partneri.natu.cz CNAME .
 partneri.netfotbal.cz CNAME .
 partneri.nutricbistro.cz CNAME .
+partneri.odvizekzisku.cz CNAME .
 partneri.onlinejazyky.cz CNAME .
 partneri.oportskem.cz CNAME .
 partneri.palmknihy.cz CNAME .
@@ -773,6 +779,7 @@ partneri.toothy.cz CNAME .
 partneri.tradicne-feng-shui.sk CNAME .
 partneri.trenink-vyjednavani.cz CNAME .
 partneri.trollbeads.cz CNAME .
+partneri.trollbeadscz.com CNAME .
 partneri.tvojemamka.cz CNAME .
 partneri.umenijazyku.cz CNAME .
 partneri.variantbyznys.cz CNAME .

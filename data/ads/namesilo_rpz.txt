@@ -1,5 +1,6 @@
 ;
 ; Company name: NameSilo
+*.exaapi.com CNAME .
 10.notify.bizonads-ssp.com CNAME .
 1109.notify.optimizesrv.com CNAME .
 12.notify.bizonads-ssp.com CNAME .
@@ -296,6 +297,7 @@
 3351068.notifysrv.com CNAME .
 3351072.notifysrv.com CNAME .
 3351914.notifysrv.com CNAME .
+3352256.notify6.com CNAME .
 3352472.notifysrv.com CNAME .
 3354470.notify6.com CNAME .
 3354470.notifysrv.com CNAME .
@@ -335,6 +337,7 @@
 3405035.notifysrv.com CNAME .
 3405043.notifysrv.com CNAME .
 3405103.notifysrv.com CNAME .
+3405133.notify6.com CNAME .
 3405133.notifysrv.com CNAME .
 3405137.notifysrv.com CNAME .
 3405143.notifysrv.com CNAME .
@@ -504,6 +507,7 @@
 3557821.notifysrv.com CNAME .
 3562657.notifysrv.com CNAME .
 3562665.notify6.com CNAME .
+3563551.notify6.com CNAME .
 3563551.notifysrv.com CNAME .
 3563663.notifysrv.com CNAME .
 3566697.notifysrv.com CNAME .
@@ -647,6 +651,7 @@
 3837365.notifysrv.com CNAME .
 3837607.notifysrv.com CNAME .
 3843075.notifysrv.com CNAME .
+3845405.notify6.com CNAME .
 3849719.notify6.com CNAME .
 3853333.notify6.com CNAME .
 3858841.notify6.com CNAME .
@@ -911,6 +916,7 @@ admin.etology.com CNAME .
 admin.gettopple.com CNAME .
 admin.shafttraffic.com CNAME .
 api.adnation.com CNAME .
+api.slice.exchange CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 m.hue2a.com CNAME .
@@ -924,14 +930,12 @@ main.realsrv.com CNAME .
 main0.exosrv.com CNAME .
 management-addisplaynetwork.exads.com CNAME .
 management-adguru.exads.com CNAME .
-management-adstuff.exads.com CNAME .
 management-adwirk.exads.com CNAME .
 management-boost.exads.com CNAME .
 management-crakmedia.exads.com CNAME .
 management-itsup.exads.com CNAME .
 management-paradoxgroup.exads.com CNAME .
 management-paradoxmedia.exads.com CNAME .
-management-santabrowser.exads.com CNAME .
 management-slice.exads.com CNAME .
 management-topple.exads.com CNAME .
 management-venntro.exads.com CNAME .
@@ -972,6 +976,7 @@ s.etology.com CNAME .
 s.exv6.com CNAME .
 s.linkw2e.com CNAME .
 s.linkw2g.com CNAME .
+s.magsrv.com CNAME .
 s.nowsrv.com CNAME .
 s.opoxv.com CNAME .
 s.opti-digital.com CNAME .
@@ -981,6 +986,7 @@ s.optzsrv.com CNAME .
 s.orbsrv.com CNAME .
 s.paradoxgroup.co CNAME .
 s.paradoxgroup.uk CNAME .
+s.pemsrv.com CNAME .
 s.redpathmedia.com CNAME .
 s.slice.exchange CNAME .
 s.st1net.com CNAME .

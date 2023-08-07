@@ -149,6 +149,7 @@ img.foodspring.hr
 img.foodspring.it
 img.foodspring.se
 img.sparkasse-koelnbonn.de
+info.deltapublishing.co.uk
 info.klett-sprachen.de
 intelligence.officialwesthamstore.com
 is.lg.com
@@ -250,6 +251,7 @@ wbtrkk.teufelaudio.nl
 wbtrkk.teufelaudio.pl
 web.autobodytoolmart.com
 web.b2bimperialfashion.com
+web.b2bpleasefashion.com
 web.bankofscotland.de
 web.campaign.jaked.com
 web.campaign.miriade.com
@@ -265,6 +267,7 @@ web.email.pmtonline.co.uk
 web.email.principality.co.uk
 web.email.superga.co.uk
 web.email.theindependentpharmacy.co.uk
+web.email.turtlebay.co.uk
 web.email.umbro.co.uk
 web.email.zone3.com
 web.friends.ellaskitchen.co.uk

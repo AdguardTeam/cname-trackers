@@ -1,6 +1,5 @@
 ;
 ; Company name: Plausible Analytics
-123.biome.page CNAME .
 a-api.skz.dev CNAME .
 a.aawp.de CNAME .
 a.ctd.ai CNAME .
@@ -46,7 +45,6 @@ analytics.naturequant.com CNAME .
 analytics.qualityquestions.co CNAME .
 analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
-analytics.ratemymeeting.co CNAME .
 analytics.recamov.com CNAME .
 analytics.sideprojectsoftware.com CNAME .
 analytics.sixfigureswine.com CNAME .
@@ -118,6 +116,7 @@ hola.xebel.co CNAME .
 hstats.askmiso.com CNAME .
 hurricane.tinybird.co CNAME .
 hype.zlipa.com CNAME .
+info.bestbudgetapps.com CNAME .
 informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
 jinx.skullctf.com CNAME .
@@ -173,7 +172,6 @@ ping.cavelab.dev CNAME .
 ping.hedlund.xyz CNAME .
 ping.naturadapt.com CNAME .
 ping.resoluteoil.com CNAME .
-pio.wir-sehen-uns-im-juni.de CNAME .
 pl.1feed.app CNAME .
 pl.astro-akatemia.fi CNAME .
 pl.astro.fi CNAME .
@@ -211,7 +209,6 @@ plausdj2ajskljzx0ikwkiasible.ethics.info CNAME .
 plausibel.ablis.net CNAME .
 plausible-stats.tangodelta.media CNAME .
 plausible.adreform.com CNAME .
-plausible.affluentjay.com CNAME .
 plausible.alexandar.me CNAME .
 plausible.alpaga.io CNAME .
 plausible.app.kdojang.com CNAME .
@@ -239,6 +236,7 @@ plausible.dev.logicboard.com CNAME .
 plausible.doberman.co CNAME .
 plausible.doctave.com CNAME .
 plausible.edu-focus.org CNAME .
+plausible.ejs.dev CNAME .
 plausible.eurostocks.nl CNAME .
 plausible.exploreandcreate.com CNAME .
 plausible.external.sine.foundation CNAME .
@@ -265,6 +263,7 @@ plausible.kdojang.com CNAME .
 plausible.kreya.app CNAME .
 plausible.langojango.com CNAME .
 plausible.lesbianromantic.com CNAME .
+plausible.logicboard.com CNAME .
 plausible.mattpruitt.com CNAME .
 plausible.mcj.co CNAME .
 plausible.myvirtualsuper.com CNAME .
@@ -401,6 +400,7 @@ stats.amaeya.media CNAME .
 stats.amiibo.life CNAME .
 stats.andrewjstevens.com CNAME .
 stats.andrewlevinson.me CNAME .
+stats.appcessible.org CNAME .
 stats.arjun.xyz CNAME .
 stats.arma.coffee CNAME .
 stats.arquido.com CNAME .
@@ -427,6 +427,7 @@ stats.bernardobordadagua.com CNAME .
 stats.bertwagner.com CNAME .
 stats.bestservers.co CNAME .
 stats.bholmes.dev CNAME .
+stats.bikeschool.co.za CNAME .
 stats.bimbase.nl CNAME .
 stats.bitpost.app CNAME .
 stats.bjarteblogg.com CNAME .
@@ -494,6 +495,7 @@ stats.crema.fi CNAME .
 stats.cremashop.eu CNAME .
 stats.cremashop.se CNAME .
 stats.crewebo.de CNAME .
+stats.crypdit.com CNAME .
 stats.cryptmail.io CNAME .
 stats.curbnumberpro.com CNAME .
 stats.curtiscummings.me CNAME .
@@ -580,6 +582,7 @@ stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
 stats.ferienwohnung-dombrowski.com CNAME .
 stats.finalrabiesgeneration.org CNAME .
+stats.findvax.us CNAME .
 stats.flightsphere.com CNAME .
 stats.florianfritz.net CNAME .
 stats.flowphantom.com CNAME .
@@ -761,6 +764,7 @@ stats.motorcyclepartsireland.ie CNAME .
 stats.mrtnvh.com CNAME .
 stats.multiplelenses.com CNAME .
 stats.multiply.cloud CNAME .
+stats.myherocard.com CNAME .
 stats.napaconnect.ca CNAME .
 stats.navedislam.com CNAME .
 stats.nddmed.com CNAME .
@@ -898,7 +902,6 @@ stats.sixseven.at CNAME .
 stats.ski.com CNAME .
 stats.slicedthread.com CNAME .
 stats.socialeurope.eu CNAME .
-stats.sommselect.com CNAME .
 stats.soundbite.so CNAME .
 stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
@@ -1005,6 +1008,7 @@ track.slickinbox.com CNAME .
 traffic.taktikal.is CNAME .
 tree.indot.nl CNAME .
 triton.companyegg.com CNAME .
+trolina.mikitvba.com CNAME .
 varys.asongofzandc.xyz CNAME .
 views.emikajewelry.com CNAME .
 views.ericcapella.com CNAME .

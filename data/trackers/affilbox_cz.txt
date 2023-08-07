@@ -35,7 +35,6 @@
 ||affil.fingood.cz^
 ||affil.fit-pro.cz^
 ||affil.gamlery.cz^
-||affil.gentleport.cz^
 ||affil.hifimarket.cz^
 ||affil.hobbytec.cz^
 ||affil.jobsik.cz^
@@ -94,6 +93,7 @@
 ||affilbox.stygremvkleci.cz^
 ||affiliate.2gispraha.cz^
 ||affiliate.4fresh.cz^
+||affiliate.activeczech.com^
 ||affiliate.agatinsvet.cz^
 ||affiliate.alchymiezeny.cz^
 ||affiliate.alexandrajohn.com^
@@ -300,6 +300,7 @@
 ||my.11teamsports.bg^
 ||my.11teamsports.cz^
 ||my.11teamsports.dk^
+||my.11teamsports.ee^
 ||my.11teamsports.es^
 ||my.11teamsports.fi^
 ||my.11teamsports.fr^
@@ -396,6 +397,7 @@
 ||online.pdfknihovna.cz^
 ||owayfamily.ecoorganicbeauty.cz^
 ||partak.surfey.cz^
+||partener.aeriumshop.ro^
 ||partner.2din.cz^
 ||partner.affilbox.com^
 ||partner.affiliateark.com^
@@ -471,6 +473,7 @@
 ||partner.domoveda.cz^
 ||partner.doplnse.cz^
 ||partner.dr-nek.cz^
+||partner.drfit.cz^
 ||partner.dripit.cz^
 ||partner.dynamikabohatstvi.cz^
 ||partner.eandilek.cz^
@@ -606,6 +609,7 @@
 ||partner.scilearn.cz^
 ||partner.scootshop.cz^
 ||partner.sculpturepainting.eu^
+||partner.sielbeauty.cz^
 ||partner.simplymix.com^
 ||partner.skinnygirls.cz^
 ||partner.skiresort.cz^
@@ -663,6 +667,7 @@
 ||partner.zonky.cz^
 ||partner.zvaracky-obchod.sk^
 ||partnerbox.humandesign.cz^
+||partnerek.aerium.hu^
 ||partneri.affiliate-program.sk^
 ||partneri.affiliatevyzva.cz^
 ||partneri.akodlhsiezit.sk^
@@ -736,6 +741,7 @@
 ||partneri.natu.cz^
 ||partneri.netfotbal.cz^
 ||partneri.nutricbistro.cz^
+||partneri.odvizekzisku.cz^
 ||partneri.onlinejazyky.cz^
 ||partneri.oportskem.cz^
 ||partneri.palmknihy.cz^
@@ -773,6 +779,7 @@
 ||partneri.tradicne-feng-shui.sk^
 ||partneri.trenink-vyjednavani.cz^
 ||partneri.trollbeads.cz^
+||partneri.trollbeadscz.com^
 ||partneri.tvojemamka.cz^
 ||partneri.umenijazyku.cz^
 ||partneri.variantbyznys.cz^

@@ -2,11 +2,6 @@
 ! Company name: GMO Internet Group
 ||favor1.fractal.jp^
 ||d.image-ad.jp^
-||d.newssuite.sony.net^
 ||i.image-ad.jp^
 ||video.sp.gmossp-sp.jp^
-||i.newssuite.sony.net^
-||j.newssuite.sony.net^
 ||j.image-ad.jp^
-||manage.newssuite.sony.net^
-||newssuite.sony.net^

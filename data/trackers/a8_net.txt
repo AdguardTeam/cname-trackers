@@ -236,6 +236,7 @@
 ||a8.soelu.com^
 ||a8.softbank-hikari.jp^
 ||a8.sommelier.gift^
+||a8.speever.jp^
 ||a8.sport-school.com^
 ||a8.ssl.aispr.jp^
 ||a8.st.oddspark.com^
@@ -268,6 +269,7 @@
 ||a8.tscubic.com^
 ||a8.uluwatutiger.com^
 ||a8.unicoffee.tech^
+||a8.uokura-hakata.com^
 ||a8.uridoki.net^
 ||a8.vector-park.jp^
 ||a8.virus-gekitai.com^
@@ -483,6 +485,7 @@
 ||a8clk.mynavi-creator.jp^
 ||a8clk.mynavi-job20s.jp^
 ||a8clk.mypage.awesome-wash.com^
+||a8clk.nandemo-kimono.com^
 ||a8clk.nenga-kazoku.com^
 ||a8clk.nenga.fumiiro.jp^
 ||a8clk.netowl.jp^
@@ -742,6 +745,7 @@
 ||a8cv.factoringzero.jp^
 ||a8cv.fafa-shop.com^
 ||a8cv.favorric.com^
+||a8cv.fc-japan.biz^
 ||a8cv.fc-osoujikakumei.jp^
 ||a8cv.first-spoon.com^
 ||a8cv.fitness-terrace.com^
@@ -765,6 +769,7 @@
 ||a8cv.gigabaito.com^
 ||a8cv.gimuiko.com^
 ||a8cv.global-link-seminar.com^
+||a8cv.glocalnet.jp^
 ||a8cv.glow-clinic.com^
 ||a8cv.goodlucknail.com^
 ||a8cv.grace-grace.info^
@@ -782,6 +787,7 @@
 ||a8cv.hoken-laundry.com^
 ||a8cv.holo-bell.com^
 ||a8cv.honeys-onlineshop.com^
+||a8cv.hoppin-garage.com^
 ||a8cv.hor.jp^
 ||a8cv.hotyoga-loive.com^
 ||a8cv.houjin-keitai.com^
@@ -805,8 +811,8 @@
 ||a8cv.isuzu-rinji.com^
 ||a8cv.itscoco.shop^
 ||a8cv.iwamizu.com^
+||a8cv.iy-net.jp^
 ||a8cv.japaden.jp^
-||a8cv.jcom-cabletv.jp^
 ||a8cv.jcom.co.jp^
 ||a8cv.jeansmate.co.jp^
 ||a8cv.jemmy.co.jp^
@@ -874,6 +880,7 @@
 ||a8cv.natulahonpo.com^
 ||a8cv.naturecan-fitness.jp^
 ||a8cv.nd-clinic.net^
+||a8cv.netvisionacademy.com^
 ||a8cv.nichirei.co.jp^
 ||a8cv.nifty.com^
 ||a8cv.nigaoe.graphics.vc^
@@ -910,6 +917,7 @@
 ||a8cv.player.iam-ist.jp^
 ||a8cv.pocket-sommelier.com^
 ||a8cv.postcoffee.co^
+||a8cv.pre-sana.com^
 ||a8cv.premium.aidemy.net^
 ||a8cv.presence.jp^
 ||a8cv.pro.omobic.com^
@@ -1103,6 +1111,7 @@
 ||acv.me-hikari.net^
 ||acv.next-air-wifi.com^
 ||acv.next-internet.info^
+||acv.nft-hikari.net^
 ||acv.pikarahikari.net^
 ||acv.softbank-hikaricollabo.com^
 ||acv.xn--dckf5a1e821s9i7b.com^
@@ -1255,6 +1264,7 @@
 ||trck.stefany.co.jp^
 ||trck02.magaseek.com^
 ||trcka8.orobianco-jp.com^
+||trcka8net.bestlens.jp^
 ||trcka8net.glens.jp^
 ||trcka8net.irobot-jp.com^
 ||trcka8net.lenszero.com^

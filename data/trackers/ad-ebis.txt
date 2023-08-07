@@ -274,7 +274,6 @@
 ||os.beauty-health.today^
 ||p5mcwdbu.ginzo-buy.jp^
 ||partner.haru-shop.jp^
-||rank.xn--cosme-5c4djcw662edgyc.com^
 ||sem.tkc-biyou.jp^
 ||seo.tkc110.jp^
 ||sep02.hinagiku-life.jp^

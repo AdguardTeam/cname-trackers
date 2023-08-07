@@ -119,6 +119,8 @@ cfa.fidelity.com
 cfa.mystreetscape.com
 cfa.streetscape.com
 cfaxdev2.fidelity.com
+cfaxq1.fidelity.com
+cfaxq2.fidelity.com
 channel.rakbankonline.ae
 check.fashionid.de
 check2.bankofscotland.co.uk
@@ -305,6 +307,7 @@ content22.citibank.ru
 content22.citibankonline.com
 content22.citicards.com
 content22.citiretailservices.com
+content22.olb-usmtu2web1.citi.com
 content22.online.citi.com
 content22.online.citibank.com
 content22.retailservicescommercial.citi.com
@@ -615,6 +618,7 @@ rba.login.agentmessagecenter.optum.com
 rba.login.mahix.org
 rba.onehealthcareid.com
 rba.optumgovid.com
+rba.optumid.com
 rba.phub-im.uhg.com
 rbawis.pocketcard.co.jp
 rebatecontent.finance.delaware.gov
@@ -811,7 +815,6 @@ tm.cox.com
 tm.creditcheck.illion.co.nz
 tm.creditcheck.illion.com.au
 tm.creditprotect.illion.com.au
-tm.creditsimple.co.nz
 tm.cybersource.com
 tm.directly.com
 tm.fanduel.com
@@ -932,5 +935,6 @@ ww9.lloydsbank.com
 www.cdna.cofidis.be
 www7.raise.com
 xfp.intuit.com
+xmt.paze.com
 ydkwim.targobank.de
 yr3ioxw.hoaresbank.co.uk

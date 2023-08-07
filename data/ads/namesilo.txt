@@ -1,5 +1,6 @@
 !
 ! Company name: NameSilo
+||*.exaapi.com^
 ||10.notify.bizonads-ssp.com^
 ||1109.notify.optimizesrv.com^
 ||12.notify.bizonads-ssp.com^
@@ -296,6 +297,7 @@
 ||3351068.notifysrv.com^
 ||3351072.notifysrv.com^
 ||3351914.notifysrv.com^
+||3352256.notify6.com^
 ||3352472.notifysrv.com^
 ||3354470.notify6.com^
 ||3354470.notifysrv.com^
@@ -335,6 +337,7 @@
 ||3405035.notifysrv.com^
 ||3405043.notifysrv.com^
 ||3405103.notifysrv.com^
+||3405133.notify6.com^
 ||3405133.notifysrv.com^
 ||3405137.notifysrv.com^
 ||3405143.notifysrv.com^
@@ -504,6 +507,7 @@
 ||3557821.notifysrv.com^
 ||3562657.notifysrv.com^
 ||3562665.notify6.com^
+||3563551.notify6.com^
 ||3563551.notifysrv.com^
 ||3563663.notifysrv.com^
 ||3566697.notifysrv.com^
@@ -647,6 +651,7 @@
 ||3837365.notifysrv.com^
 ||3837607.notifysrv.com^
 ||3843075.notifysrv.com^
+||3845405.notify6.com^
 ||3849719.notify6.com^
 ||3853333.notify6.com^
 ||3858841.notify6.com^
@@ -911,6 +916,7 @@
 ||admin.gettopple.com^
 ||admin.shafttraffic.com^
 ||api.adnation.com^
+||api.slice.exchange^
 ||delivery.gettopple.com^
 ||engine.gettopple.com^
 ||m.hue2a.com^
@@ -924,14 +930,12 @@
 ||main0.exosrv.com^
 ||management-addisplaynetwork.exads.com^
 ||management-adguru.exads.com^
-||management-adstuff.exads.com^
 ||management-adwirk.exads.com^
 ||management-boost.exads.com^
 ||management-crakmedia.exads.com^
 ||management-itsup.exads.com^
 ||management-paradoxgroup.exads.com^
 ||management-paradoxmedia.exads.com^
-||management-santabrowser.exads.com^
 ||management-slice.exads.com^
 ||management-topple.exads.com^
 ||management-venntro.exads.com^
@@ -972,6 +976,7 @@
 ||s.exv6.com^
 ||s.linkw2e.com^
 ||s.linkw2g.com^
+||s.magsrv.com^
 ||s.nowsrv.com^
 ||s.opoxv.com^
 ||s.opti-digital.com^
@@ -981,6 +986,7 @@
 ||s.orbsrv.com^
 ||s.paradoxgroup.co^
 ||s.paradoxgroup.uk^
+||s.pemsrv.com^
 ||s.redpathmedia.com^
 ||s.slice.exchange^
 ||s.st1net.com^

@@ -21,6 +21,7 @@ cdn.fedykr.com
 cdn.fegivja.com
 cdn.ftwpcn.com
 cdn.gecl.xyz
+cdn.gocolow.com
 cdn.hqwa.xyz
 cdn.iople.com
 cdn.jandaqwe.com
@@ -64,6 +65,7 @@ aardwolf.keygen.sh
 aardwolf.meinsmartplan.de
 aardwolf.relaycorp.tech
 aj8md.johnhenry.ie
+albatross.mypromo.co
 albatross.ohseesoftware.com
 alpaca.miidbaby.com
 alpaca.thesocialmedwork.com
@@ -103,6 +105,7 @@ ape.smartplanschema.se
 aphid.polarcop.com
 aphid.thyself.me
 armadillo.axeneo7.qc.ca
+armadillo.caj.ms
 armadillo.oceandecadenortheastpacific.org
 armadillo.stacking.club
 armadillo.superpeak.dk
@@ -298,7 +301,9 @@ crayfish.fansubbing.com
 crayfish.portbanecottagelochtay.co.uk
 crayfish.thecatherinewheel.co
 crayfish.thingelstad.com
+crocodile.rapid-sale.co.uk
 crow.claudiakeil.de
+crow.manuel-metzger.com
 crow.voracious.dev
 cuckoo.clientrock.app
 cuckoo.cult.supply
@@ -317,6 +322,7 @@ dingo.moehring.dev
 dog.airfieldhub.com
 dog.christinamoore.us
 dog.franchisesocial.co.uk
+dog.ghvenue.com
 dog.goldcanvas.com
 dog.justsketch.me
 dog.orbit.love
@@ -487,7 +493,7 @@ hawk.affio.co.uk
 hawk.makroskop.eu
 hawk.mjsarfatti.com
 hedgehog.fightforthefuture.org
-hedgehog.impira.com
+hedgehog.hivve.world
 hedgehog.kiks.life
 heron.joel.is
 heron.morphiq.digital
@@ -540,6 +546,7 @@ jay.plantainguy.com
 jcpjfyikk.dogbonemarket.com
 jellyfish.teresaharlow.com
 jellyfish.therapieplatz-finden.de
+jrtfx.scottspence.me
 kangaroo.kraenk.de
 kangaroo.triplightfantastic.com
 kaxlfq.testingwithtestcafe.com
@@ -608,6 +615,7 @@ lizard.juststeveking.uk
 lizard.priorart.dev
 llama.eniston.io
 llama.growthinkers.nl
+llama.lobbly.com
 llama.mallardbay.com
 llama.vivriticapital.com
 lobster.dispatch.fm
@@ -756,6 +764,7 @@ perch.luckydiff.com
 perch.matiasvad.com
 perch.searchwp.com
 perch.stefangasser.com
+pheasant.sonistaging.com
 pheasant.swinlead.com
 pig.civicplatform.org
 pig.curtisherbert.com
@@ -765,7 +774,6 @@ pigeon.ashlean.com
 pigeon.surtitlesolutions.com
 pigeon.thankyuu.com
 pinniped.gardenofficeguide.co.uk
-pinniped.oslocrisislinetech.com
 pinniped.quarantinecup.live
 piranha.jsmobiledev.com
 piranha.minnmyatsoe.com
@@ -793,7 +801,6 @@ prairiedog.hashnode.com
 prawn.fffuel.co
 prawn.lionsmouth.digital
 prawn.samgarson.com
-primate.dmarcdigests.com
 primate.productcolors.com
 ptarmigan.bridal-hair-and-accessories-now.com
 ptarmigan.codebycorey.com
@@ -857,6 +864,7 @@ scallop.vav.link
 scorpion.byteside.com
 scorpion.clare.ink
 sdegwynml.bmaci.me
+seahorse.brightwayhealth.org
 seahorse.dexterityvisuals.com
 seahorse.okse.no
 shark.codeswitch.be
@@ -921,6 +929,7 @@ stork.notlessbutbetter.com
 swallow.axiom.co
 swallow.pelias.io
 swan.visualma.com
+swan.zeitgeist.cool
 swift.avenue.so
 swift.ciudadanob.com
 swift.jos.ht
@@ -994,6 +1003,7 @@ vicuna.mybestproducts.net
 viper.sitesauce.app
 vole.contemporaryartlibrary.org
 vole.leonhitchens.com
+vole.nettskaperne.no
 vole.noteapps.info
 vole.sonicrida.com
 vole.tsttechnology.com
@@ -1029,7 +1039,6 @@ woodpecker.binario11.de
 woodpecker.ember.ly
 woodpecker.seabits.com
 worm.discover-culture.com
-worm.paulstamatiou.com
 wren.pratyushnalam.com
 www.stork.notlessbutbetter.com
 yak.animeawards.guide

@@ -70,7 +70,6 @@ mediniku.viessmann.lt CNAME .
 mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
 mond.post.ch CNAME .
-mond.postauto.ch CNAME .
 montpalatin.handicap.fr CNAME .
 pear.ca-eko-globetrotter.fr CNAME .
 pear.youzful-by-ca.fr CNAME .

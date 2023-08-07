@@ -339,6 +339,7 @@
 | 3351068.notifysrv.com | tk6if76q.ab1n.net |
 | 3351072.notifysrv.com | tk6if76q.ab1n.net |
 | 3351914.notifysrv.com | tk6if76q.ab1n.net |
+| 3352256.notify6.com | tk6if76q.ab1n.net |
 | 3352472.notifysrv.com | tk6if76q.ab1n.net |
 | 3354470.notify6.com | tk6if76q.ab1n.net |
 | 3354470.notifysrv.com | tk6if76q.ab1n.net |
@@ -378,6 +379,7 @@
 | 3405035.notifysrv.com | tk6if76q.ab1n.net |
 | 3405043.notifysrv.com | tk6if76q.ab1n.net |
 | 3405103.notifysrv.com | tk6if76q.ab1n.net |
+| 3405133.notify6.com | tk6if76q.ab1n.net |
 | 3405133.notifysrv.com | tk6if76q.ab1n.net |
 | 3405137.notifysrv.com | tk6if76q.ab1n.net |
 | 3405143.notifysrv.com | tk6if76q.ab1n.net |
@@ -547,6 +549,7 @@
 | 3557821.notifysrv.com | tk6if76q.ab1n.net |
 | 3562657.notifysrv.com | tk6if76q.ab1n.net |
 | 3562665.notify6.com | tk6if76q.ab1n.net |
+| 3563551.notify6.com | tk6if76q.ab1n.net |
 | 3563551.notifysrv.com | tk6if76q.ab1n.net |
 | 3563663.notifysrv.com | tk6if76q.ab1n.net |
 | 3566697.notifysrv.com | tk6if76q.ab1n.net |
@@ -690,6 +693,7 @@
 | 3837365.notifysrv.com | tk6if76q.ab1n.net |
 | 3837607.notifysrv.com | tk6if76q.ab1n.net |
 | 3843075.notifysrv.com | tk6if76q.ab1n.net |
+| 3845405.notify6.com | tk6if76q.ab1n.net |
 | 3849719.notify6.com | tk6if76q.ab1n.net |
 | 3853333.notify6.com | tk6if76q.ab1n.net |
 | 3858841.notify6.com | tk6if76q.ab1n.net |
@@ -976,6 +980,7 @@
 | s.etology.com | tk6if76q.ab1n.net |
 | s.linkw2e.com | tk6if76q.ab1n.net |
 | s.linkw2g.com | tk6if76q.ab1n.net |
+| s.magsrv.com | tk6if76q.ab1n.net |
 | s.nowsrv.com | tk6if76q.ab1n.net |
 | s.opoxv.com | tk6if76q.ab1n.net |
 | s.opti-digital.com | tk6if76q.ab1n.net |
@@ -985,6 +990,7 @@
 | s.orbsrv.com | tk6if76q.ab1n.net |
 | s.paradoxgroup.co | tk6if76q.ab1n.net |
 | s.paradoxgroup.uk | tk6if76q.ab1n.net |
+| s.pemsrv.com | tk6if76q.ab1n.net |
 | s.redpathmedia.com | tk6if76q.ab1n.net |
 | s.slice.exchange | tk6if76q.ab1n.net |
 | s.st1net.com | tk6if76q.ab1n.net |
@@ -1054,17 +1060,17 @@
 | a.slice.exchange | w2u4v9e1.ab1n.net |
 | a.stuffserve.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
+| *.exaapi.com | x0xmrxm4.ab1n.net |
 | api.adnation.com | x0xmrxm4.ab1n.net |
+| api.slice.exchange | x0xmrxm4.ab1n.net |
 | management-addisplaynetwork.exads.com | x0xmrxm4.ab1n.net |
 | management-adguru.exads.com | x0xmrxm4.ab1n.net |
-| management-adstuff.exads.com | x0xmrxm4.ab1n.net |
 | management-adwirk.exads.com | x0xmrxm4.ab1n.net |
 | management-boost.exads.com | x0xmrxm4.ab1n.net |
 | management-crakmedia.exads.com | x0xmrxm4.ab1n.net |
 | management-itsup.exads.com | x0xmrxm4.ab1n.net |
 | management-paradoxgroup.exads.com | x0xmrxm4.ab1n.net |
 | management-paradoxmedia.exads.com | x0xmrxm4.ab1n.net |
-| management-santabrowser.exads.com | x0xmrxm4.ab1n.net |
 | management-slice.exads.com | x0xmrxm4.ab1n.net |
 | management-topple.exads.com | x0xmrxm4.ab1n.net |
 | management-venntro.exads.com | x0xmrxm4.ab1n.net |

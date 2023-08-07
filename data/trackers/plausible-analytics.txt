@@ -1,6 +1,5 @@
 !
 ! Company name: Plausible Analytics
-||123.biome.page^
 ||a-api.skz.dev^
 ||a.aawp.de^
 ||a.ctd.ai^
@@ -46,7 +45,6 @@
 ||analytics.qualityquestions.co^
 ||analytics.ramiyer.io^
 ||analytics.ramiyer.me^
-||analytics.ratemymeeting.co^
 ||analytics.recamov.com^
 ||analytics.sideprojectsoftware.com^
 ||analytics.sixfigureswine.com^
@@ -118,6 +116,7 @@
 ||hstats.askmiso.com^
 ||hurricane.tinybird.co^
 ||hype.zlipa.com^
+||info.bestbudgetapps.com^
 ||informatics.filamentcolors.xyz^
 ||insights.affilimate.com^
 ||jinx.skullctf.com^
@@ -173,7 +172,6 @@
 ||ping.hedlund.xyz^
 ||ping.naturadapt.com^
 ||ping.resoluteoil.com^
-||pio.wir-sehen-uns-im-juni.de^
 ||pl.1feed.app^
 ||pl.astro-akatemia.fi^
 ||pl.astro.fi^
@@ -211,7 +209,6 @@
 ||plausibel.ablis.net^
 ||plausible-stats.tangodelta.media^
 ||plausible.adreform.com^
-||plausible.affluentjay.com^
 ||plausible.alexandar.me^
 ||plausible.alpaga.io^
 ||plausible.app.kdojang.com^
@@ -239,6 +236,7 @@
 ||plausible.doberman.co^
 ||plausible.doctave.com^
 ||plausible.edu-focus.org^
+||plausible.ejs.dev^
 ||plausible.eurostocks.nl^
 ||plausible.exploreandcreate.com^
 ||plausible.external.sine.foundation^
@@ -265,6 +263,7 @@
 ||plausible.kreya.app^
 ||plausible.langojango.com^
 ||plausible.lesbianromantic.com^
+||plausible.logicboard.com^
 ||plausible.mattpruitt.com^
 ||plausible.mcj.co^
 ||plausible.myvirtualsuper.com^
@@ -401,6 +400,7 @@
 ||stats.amiibo.life^
 ||stats.andrewjstevens.com^
 ||stats.andrewlevinson.me^
+||stats.appcessible.org^
 ||stats.arjun.xyz^
 ||stats.arma.coffee^
 ||stats.arquido.com^
@@ -427,6 +427,7 @@
 ||stats.bertwagner.com^
 ||stats.bestservers.co^
 ||stats.bholmes.dev^
+||stats.bikeschool.co.za^
 ||stats.bimbase.nl^
 ||stats.bitpost.app^
 ||stats.bjarteblogg.com^
@@ -494,6 +495,7 @@
 ||stats.cremashop.eu^
 ||stats.cremashop.se^
 ||stats.crewebo.de^
+||stats.crypdit.com^
 ||stats.cryptmail.io^
 ||stats.curbnumberpro.com^
 ||stats.curtiscummings.me^
@@ -580,6 +582,7 @@
 ||stats.femtobill.com^
 ||stats.ferienwohnung-dombrowski.com^
 ||stats.finalrabiesgeneration.org^
+||stats.findvax.us^
 ||stats.flightsphere.com^
 ||stats.florianfritz.net^
 ||stats.flowphantom.com^
@@ -761,6 +764,7 @@
 ||stats.mrtnvh.com^
 ||stats.multiplelenses.com^
 ||stats.multiply.cloud^
+||stats.myherocard.com^
 ||stats.napaconnect.ca^
 ||stats.navedislam.com^
 ||stats.nddmed.com^
@@ -898,7 +902,6 @@
 ||stats.ski.com^
 ||stats.slicedthread.com^
 ||stats.socialeurope.eu^
-||stats.sommselect.com^
 ||stats.soundbite.so^
 ||stats.southswindon-pc.gov.uk^
 ||stats.sparkloop.app^
@@ -1005,6 +1008,7 @@
 ||traffic.taktikal.is^
 ||tree.indot.nl^
 ||triton.companyegg.com^
+||trolina.mikitvba.com^
 ||varys.asongofzandc.xyz^
 ||views.emikajewelry.com^
 ||views.ericcapella.com^

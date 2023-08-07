@@ -231,6 +231,7 @@
     * darphin.extole.io
     * dave.extole.io
     * davines.extole.io
+    * dell-outlet.extole.io
     * desert-financial.extole.io
     * discountschoolsupply.extole.io
     * discover-bank.extole.io
@@ -261,7 +262,6 @@
     * first-american-home-warranty.extole.io
     * first-tech-federal.extole.io
     * firstleaf.extole.io
-    * firstrepublic.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
@@ -347,6 +347,7 @@
     * lumen-optical.extole.io
     * mac-cosmetics.extole.io
     * madison-reed.extole.io
+    * maidpro.extole.io
     * mama-bear-legal-forms.extole.io
     * marinerfinance.extole.io
     * mascaro.extole.io
@@ -529,7 +530,6 @@
 ### Rarely active trackers
 
 * u82658.wl159.sendgrid.net
-* media-router-aol1.prod.g03.yahoodns.net
 * s-ec30e63e423445779.server.transfer.us-east-1.amazonaws.com
 
 ## Cloaking domains
@@ -695,6 +695,7 @@
 | share.refer-darphin.com | darphin.extole.io |
 | share.dave.com | dave.extole.io |
 | refer.us.davines.com | davines.extole.io |
+| refer.delloutlet.com | dell-outlet.extole.io |
 | share.desertfinancial.com | desert-financial.extole.io |
 | share.discountschoolsupply.com | discountschoolsupply.extole.io |
 | referafriend.discover.com | discover-bank.extole.io |
@@ -733,7 +734,6 @@
 | refer.firsttechfed.com | first-tech-federal.extole.io |
 | share.firstleaf.club | firstleaf.extole.io |
 | share.firstleaf.com | firstleaf.extole.io |
-| refer.firstrepublic.com | firstrepublic.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
 | refer.framesdirect.com | framesdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
@@ -758,6 +758,7 @@
 | share.floridatoday.com | gannett.extole.io |
 | share.freep.com | gannett.extole.io |
 | share.independentmail.com | gannett.extole.io |
+| share.jacksonsun.com | gannett.extole.io |
 | share.kitsapsun.com | gannett.extole.io |
 | share.knoxnews.com | gannett.extole.io |
 | share.mansfieldnewsjournal.com | gannett.extole.io |
@@ -891,12 +892,12 @@
 | refer.lymphedemaproducts.com | lymphedemaproducts.extole.com |
 | share.maccosmetics.com.au | mac-cosmetics.extole.io |
 | refer.madison-reed.com | madison-reed.extole.io |
+| share.maidpro.com | maidpro.extole.io |
 | share.mamabearlegalforms.com | mama-bear-legal-forms.extole.io |
 | refer.marinerfinance.com | marinerfinance.extole.io |
 | refer.prettyballerinas.co.uk | mascaro.extole.io |
 | refer.prettyballerinas.es | mascaro.extole.io |
 | share.medely.com | medely.extole.io |
-| refer.aol.com | media-router-aol1.prod.g03.yahoodns.net |
 | share.meettally.com | meettally.extole.io |
 | refer.merrell.com | merrell.extole.io |
 | refer.minted.com | minted.extole.io |

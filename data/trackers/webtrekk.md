@@ -113,6 +113,7 @@
     * 637511691483562.wt-eu02.net
     * 639871942536313.wt-eu02.net
     * 641523609775483.wt-eu02.net
+    * 654069251471705.wt-eu02.net
     * 657801072187647.wt-eu02.net
     * 658764551928548.wt-eu02.net
     * 666882163750646.wt-eu02.net
@@ -150,6 +151,7 @@
     * 877979016491790.wt-eu02.net
     * 893825625040746.wt-eu02.net
     * 927703597199732.wt-eu02.net
+    * 929152463666423.wt-eu02.net
     * 949365393396887.wt-eu02.net
     * 958731023298385.wt-eu02.net
     * 964869656656022.wt-eu02.net
@@ -325,9 +327,11 @@
 | web.email.farrow-ball.com | 602849465568863.wt-eu02.net |
 | web.e.aldermore.co.uk | 625009642816718.wt-eu02.net |
 | wbtrkk.teufelaudio.at | 637394170883823.wt-eu02.net |
+| web.b2bpleasefashion.com | 637511691483562.wt-eu02.net |
 | web.news.pleasefashion.com | 637511691483562.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
+| info.deltapublishing.co.uk | 654069251471705.wt-eu02.net |
 | web.slim-joy.de | 657801072187647.wt-eu02.net |
 | web.slimjoy.com | 657801072187647.wt-eu02.net |
 | web.slimjoy.cz | 657801072187647.wt-eu02.net |
@@ -374,6 +378,7 @@
 | mit.deutschebank.be | 877979016491790.wt-eu02.net |
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
 | count.bank99.at | 927703597199732.wt-eu02.net |
+| web.email.turtlebay.co.uk | 929152463666423.wt-eu02.net |
 | web.autobodytoolmart.com | 949365393396887.wt-eu02.net |
 | web.mapp.ilgiardinodeilibri.it | 958731023298385.wt-eu02.net |
 | web.newsletter.viviennewestwood.com | 964869656656022.wt-eu02.net |

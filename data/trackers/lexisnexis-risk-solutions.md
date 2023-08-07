@@ -286,13 +286,13 @@
     * h-discover.online-metrix.net
     * h-disney.online-metrix.net
     * h-dlp-unionbank.online-metrix.net
-    * h-dnb.online-metrix.net
     * h-dnp-cdms.online-metrix.net
     * h-draftkings.online-metrix.net
     * h-drav45kl.online-metrix.net
     * h-drbo60la.online-metrix.net
     * h-dstssc.online-metrix.net
     * h-dszu15n8.online-metrix.net
+    * h-dubkxo24.online-metrix.net
     * h-dux3ssmw.online-metrix.net
     * h-dwiy84jk-a.online-metrix.net
     * h-dwiy84jk.online-metrix.net
@@ -738,6 +738,8 @@
 | cfa.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | cfa.mystreetscape.com | h-5h8i3ud8.online-metrix.net |
 | cfa.streetscape.com | h-5h8i3ud8.online-metrix.net |
+| cfaxq1.fidelity.com | h-5h8i3ud8.online-metrix.net |
+| cfaxq2.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.ke | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.za | h-5pxao9h8.online-metrix.net |
@@ -989,6 +991,7 @@
 | content22.citi.eu | h-citibank-uk.online-metrix.net |
 | content22.citibank.com.vn | h-citibank-vn.online-metrix.net |
 | content22.citibank.com | h-citibank.online-metrix.net |
+| content22.olb-usmtu2web1.citi.com | h-citibank.online-metrix.net |
 | content22.online.citibank.com | h-citibank.online-metrix.net |
 | content22.citibankonline.com | h-citibankonline.online-metrix.net |
 | content22.citicards.com | h-citicards.online-metrix.net |
@@ -1054,13 +1057,13 @@
 | content.discovercard.com | h-discover.online-metrix.net |
 | fp.disney.go.com | h-disney.online-metrix.net |
 | lpo.unionbank.com | h-dlp-unionbank.online-metrix.net |
-| tm.creditsimple.co.nz | h-dnb.online-metrix.net |
 | acsweb-3dr1.dnp-cdms.jp | h-dnp-cdms.online-metrix.net |
 | tmximg.draftkings.com | h-draftkings.online-metrix.net |
 | content.wizink.es | h-drav45kl.online-metrix.net |
 | payments.hd-plus.de | h-drbo60la.online-metrix.net |
 | content.ssctech.com | h-dstssc.online-metrix.net |
 | acdc.toolineo.de | h-dszu15n8.online-metrix.net |
+| xmt.paze.com | h-dubkxo24.online-metrix.net |
 | client.online.sandyspringbank.com | h-dux3ssmw.online-metrix.net |
 | servicesdp.spinaway.ca | h-dwiy84jk-a.online-metrix.net |
 | servicesdp.luckydays.ca | h-dwiy84jk.online-metrix.net |
@@ -1325,6 +1328,7 @@
 | rba.login.agentmessagecenter.optum.com | h-optum.online-metrix.net |
 | rba.onehealthcareid.com | h-optumid.online-metrix.net |
 | rba.optumgovid.com | h-optumid.online-metrix.net |
+| rba.optumid.com | h-optumid.online-metrix.net |
 | t11.identity.aikyam.com | h-optumid.online-metrix.net |
 | rba.login.mahix.org | h-optummahix.online-metrix.net |
 | optm.optus.com.au | h-optus.online-metrix.net |

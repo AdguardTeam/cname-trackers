@@ -8,7 +8,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| 123.biome.page | custom.plausible.io |
 | a-api.skz.dev | custom.plausible.io |
 | a.aawp.de | custom.plausible.io |
 | a.ctd.ai | custom.plausible.io |
@@ -54,7 +53,6 @@
 | analytics.qualityquestions.co | custom.plausible.io |
 | analytics.ramiyer.io | custom.plausible.io |
 | analytics.ramiyer.me | custom.plausible.io |
-| analytics.ratemymeeting.co | custom.plausible.io |
 | analytics.recamov.com | custom.plausible.io |
 | analytics.sideprojectsoftware.com | custom.plausible.io |
 | analytics.sixfigureswine.com | custom.plausible.io |
@@ -126,6 +124,7 @@
 | hstats.askmiso.com | custom.plausible.io |
 | hurricane.tinybird.co | custom.plausible.io |
 | hype.zlipa.com | custom.plausible.io |
+| info.bestbudgetapps.com | custom.plausible.io |
 | informatics.filamentcolors.xyz | custom.plausible.io |
 | insights.affilimate.com | custom.plausible.io |
 | jinx.skullctf.com | custom.plausible.io |
@@ -181,7 +180,6 @@
 | ping.hedlund.xyz | custom.plausible.io |
 | ping.naturadapt.com | custom.plausible.io |
 | ping.resoluteoil.com | custom.plausible.io |
-| pio.wir-sehen-uns-im-juni.de | custom.plausible.io |
 | pl.1feed.app | custom.plausible.io |
 | pl.astro-akatemia.fi | custom.plausible.io |
 | pl.astro.fi | custom.plausible.io |
@@ -219,7 +217,6 @@
 | plausibel.ablis.net | custom.plausible.io |
 | plausible-stats.tangodelta.media | custom.plausible.io |
 | plausible.adreform.com | custom.plausible.io |
-| plausible.affluentjay.com | custom.plausible.io |
 | plausible.alexandar.me | custom.plausible.io |
 | plausible.alpaga.io | custom.plausible.io |
 | plausible.app.kdojang.com | custom.plausible.io |
@@ -247,6 +244,7 @@
 | plausible.doberman.co | custom.plausible.io |
 | plausible.doctave.com | custom.plausible.io |
 | plausible.edu-focus.org | custom.plausible.io |
+| plausible.ejs.dev | custom.plausible.io |
 | plausible.eurostocks.nl | custom.plausible.io |
 | plausible.exploreandcreate.com | custom.plausible.io |
 | plausible.external.sine.foundation | custom.plausible.io |
@@ -273,6 +271,7 @@
 | plausible.kreya.app | custom.plausible.io |
 | plausible.langojango.com | custom.plausible.io |
 | plausible.lesbianromantic.com | custom.plausible.io |
+| plausible.logicboard.com | custom.plausible.io |
 | plausible.mattpruitt.com | custom.plausible.io |
 | plausible.mcj.co | custom.plausible.io |
 | plausible.myvirtualsuper.com | custom.plausible.io |
@@ -409,6 +408,7 @@
 | stats.amiibo.life | custom.plausible.io |
 | stats.andrewjstevens.com | custom.plausible.io |
 | stats.andrewlevinson.me | custom.plausible.io |
+| stats.appcessible.org | custom.plausible.io |
 | stats.arjun.xyz | custom.plausible.io |
 | stats.arma.coffee | custom.plausible.io |
 | stats.arquido.com | custom.plausible.io |
@@ -435,6 +435,7 @@
 | stats.bertwagner.com | custom.plausible.io |
 | stats.bestservers.co | custom.plausible.io |
 | stats.bholmes.dev | custom.plausible.io |
+| stats.bikeschool.co.za | custom.plausible.io |
 | stats.bimbase.nl | custom.plausible.io |
 | stats.bitpost.app | custom.plausible.io |
 | stats.bjarteblogg.com | custom.plausible.io |
@@ -502,6 +503,7 @@
 | stats.cremashop.eu | custom.plausible.io |
 | stats.cremashop.se | custom.plausible.io |
 | stats.crewebo.de | custom.plausible.io |
+| stats.crypdit.com | custom.plausible.io |
 | stats.cryptmail.io | custom.plausible.io |
 | stats.curbnumberpro.com | custom.plausible.io |
 | stats.curtiscummings.me | custom.plausible.io |
@@ -588,6 +590,7 @@
 | stats.femtobill.com | custom.plausible.io |
 | stats.ferienwohnung-dombrowski.com | custom.plausible.io |
 | stats.finalrabiesgeneration.org | custom.plausible.io |
+| stats.findvax.us | custom.plausible.io |
 | stats.flightsphere.com | custom.plausible.io |
 | stats.florianfritz.net | custom.plausible.io |
 | stats.flowphantom.com | custom.plausible.io |
@@ -769,6 +772,7 @@
 | stats.mrtnvh.com | custom.plausible.io |
 | stats.multiplelenses.com | custom.plausible.io |
 | stats.multiply.cloud | custom.plausible.io |
+| stats.myherocard.com | custom.plausible.io |
 | stats.napaconnect.ca | custom.plausible.io |
 | stats.navedislam.com | custom.plausible.io |
 | stats.nddmed.com | custom.plausible.io |
@@ -906,7 +910,6 @@
 | stats.ski.com | custom.plausible.io |
 | stats.slicedthread.com | custom.plausible.io |
 | stats.socialeurope.eu | custom.plausible.io |
-| stats.sommselect.com | custom.plausible.io |
 | stats.soundbite.so | custom.plausible.io |
 | stats.southswindon-pc.gov.uk | custom.plausible.io |
 | stats.sparkloop.app | custom.plausible.io |
@@ -1013,6 +1016,7 @@
 | traffic.taktikal.is | custom.plausible.io |
 | tree.indot.nl | custom.plausible.io |
 | triton.companyegg.com | custom.plausible.io |
+| trolina.mikitvba.com | custom.plausible.io |
 | varys.asongofzandc.xyz | custom.plausible.io |
 | views.emikajewelry.com | custom.plausible.io |
 | views.ericcapella.com | custom.plausible.io |

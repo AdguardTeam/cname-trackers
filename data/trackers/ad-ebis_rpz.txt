@@ -274,7 +274,6 @@ nlp-japan.life-and-mind.com CNAME .
 os.beauty-health.today CNAME .
 p5mcwdbu.ginzo-buy.jp CNAME .
 partner.haru-shop.jp CNAME .
-rank.xn--cosme-5c4djcw662edgyc.com CNAME .
 sem.tkc-biyou.jp CNAME .
 seo.tkc110.jp CNAME .
 sep02.hinagiku-life.jp CNAME .

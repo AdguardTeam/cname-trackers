@@ -156,6 +156,7 @@
     * adtapmedia.xml.ak-is2.net
     * adtube.fs.ak-is2.net
     * adtube.xml-eu-v4.ak-is2.net
+    * adtube.xml-eu.ak-is2.net
     * adtube.xml-v4.ak-is2.net
     * adtube.xml.ak-is2.net
     * adventurefeeds.fs-eu.ak-is2.net
@@ -683,7 +684,6 @@
     * rocoads.xml-eu.ak-is2.net
     * rocoads.xml-v4.ak-is2.net
     * rocoads.xml.ak-is2.net
-    * roqoon.rtb-useast.ak-is2.net
     * roxyfoxy.xml.ak-is2.net
     * rtb-vokut.rtb-eu.ak-is2.net
     * rtb-vokut.rtb-useast.ak-is2.net
@@ -1101,16 +1101,12 @@
 | xml.acertb.com | acertb.xml.ak-is2.net |
 | beta.ad-maven.com | ad-maven.aui.ak-is2.net |
 | panel.ad-maven.com | ad-maven.aui.ak-is2.net |
-| filter-eu.bid-engine.com | ad-maven.fs-eu.ak-is2.net |
 | filter-eu.realtime-bid.com | ad-maven.fs-eu.ak-is2.net |
-| filter.bid-engine.com | ad-maven.fs.ak-is2.net |
 | filter.realtime-bid.com | ad-maven.fs.ak-is2.net |
 | rtb-uswest.ad-maven.com | ad-maven.rtb-uswest.ak-is2.net |
 | login.ad-maven.com | ad-maven.ui.ak-is2.net |
-| xml-eu.bid-engine.com | ad-maven.xml-eu.ak-is2.net |
 | xml-eu.realtime-bid.com | ad-maven.xml-eu.ak-is2.net |
 | xml.ad-maven.com | ad-maven.xml.ak-is2.net |
-| xml.bid-engine.com | ad-maven.xml.ak-is2.net |
 | xml.bidderleader.com | ad-maven.xml.ak-is2.net |
 | xml.bidderswinner.com | ad-maven.xml.ak-is2.net |
 | xml.bidit-winit.com | ad-maven.xml.ak-is2.net |
@@ -1226,6 +1222,7 @@
 | xml-v4.fstsrv1.com | adright.xml-v4.ak-is2.net |
 | xml-v4.fstsrv2.com | adright.xml-v4.ak-is2.net |
 | xml-v4.fstsrv3.com | adright.xml-v4.ak-is2.net |
+| xml-v4.fstsrv4.com | adright.xml-v4.ak-is2.net |
 | xml-v4.qksrv.biz | adright.xml-v4.ak-is2.net |
 | xml-v4.qksrv.cc | adright.xml-v4.ak-is2.net |
 | xml-v4.qksrv1.com | adright.xml-v4.ak-is2.net |
@@ -1240,12 +1237,14 @@
 | xml.fstsrv1.com | adright.xml.ak-is2.net |
 | xml.fstsrv2.com | adright.xml.ak-is2.net |
 | xml.fstsrv3.com | adright.xml.ak-is2.net |
+| xml.fstsrv4.com | adright.xml.ak-is2.net |
 | xml.mobreach.com | adright.xml.ak-is2.net |
 | xml.popunder.bid | adright.xml.ak-is2.net |
 | static.adright.co | adright.xs.ak-is2.net |
 | static.fstsrv1.com | adright.xs.ak-is2.net |
 | static.fstsrv2.com | adright.xs.ak-is2.net |
 | static.fstsrv3.com | adright.xs.ak-is2.net |
+| static.fstsrv4.com | adright.xs.ak-is2.net |
 | static.qksrv.biz | adright.xs.ak-is2.net |
 | static.qksrv.cc | adright.xs.ak-is2.net |
 | static.qksrv1.com | adright.xs.ak-is2.net |
@@ -1277,6 +1276,7 @@
 | xml.adtapmedia.com | adtapmedia.xml.ak-is2.net |
 | filter.adtube.media | adtube.fs.ak-is2.net |
 | xml-eu-v4.adtube.media | adtube.xml-eu-v4.ak-is2.net |
+| xml-eu.adtube.media | adtube.xml-eu.ak-is2.net |
 | xml-v4.adtube.media | adtube.xml-v4.ak-is2.net |
 | xml.adtube.media | adtube.xml.ak-is2.net |
 | tq-eu.craftviking-2.co | adventurefeeds.fs-eu.ak-is2.net |
@@ -1688,7 +1688,6 @@
 | xml-eu.foremedia.net | foremedia.xml-eu.ak-is2.net |
 | xml.foremedia.net | foremedia.xml.ak-is2.net |
 | static.ad-maven.com | g3d3j7p5.stackpathcdn.com |
-| static.bid-engine.com | g3d3j7p5.stackpathcdn.com |
 | static.bidderleader.com | g3d3j7p5.stackpathcdn.com |
 | static.win-bidding.com | g3d3j7p5.stackpathcdn.com |
 | static.icyads.com | g5g9f5a2.stackpathcdn.com |
@@ -2049,7 +2048,6 @@
 | xml-eu.rocoads.com | rocoads.xml-eu.ak-is2.net |
 | xml-v4.rocoads.com | rocoads.xml-v4.ak-is2.net |
 | xml.rocoads.com | rocoads.xml.ak-is2.net |
-| rtb-useast.roqoon.com | roqoon.rtb-useast.ak-is2.net |
 | xml.rxfclk3.com | roxyfoxy.xml.ak-is2.net |
 | rtb-eu.rtb.vokut.com | rtb-vokut.rtb-eu.ak-is2.net |
 | rtb-useast.adokutrtb.com | rtb-vokut.rtb-useast.ak-is2.net |

@@ -334,6 +334,7 @@ ssl-mxiam.tns-gallup.dk CNAME .
 ssl-news.tns-gallup.dk CNAME .
 ssl-nybolig.tns-gallup.dk CNAME .
 ssl-nyhedskiosken.tns-gallup.dk CNAME .
+ssl-ofir.tns-gallup.dk CNAME .
 ssl-penge.tns-gallup.dk CNAME .
 ssl-playborsen.tns-gallup.dk CNAME .
 ssl-pleasure.tns-gallup.dk CNAME .

@@ -334,6 +334,7 @@ ssl-mxiam.tns-gallup.dk
 ssl-news.tns-gallup.dk
 ssl-nybolig.tns-gallup.dk
 ssl-nyhedskiosken.tns-gallup.dk
+ssl-ofir.tns-gallup.dk
 ssl-penge.tns-gallup.dk
 ssl-playborsen.tns-gallup.dk
 ssl-pleasure.tns-gallup.dk

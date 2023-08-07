@@ -52,7 +52,6 @@
 | affil.fingood.cz | cz.affilbox.cz |
 | affil.fit-pro.cz | cz.affilbox.cz |
 | affil.gamlery.cz | cz.affilbox.cz |
-| affil.gentleport.cz | cz.affilbox.cz |
 | affil.hifimarket.cz | cz.affilbox.cz |
 | affil.hobbytec.cz | cz.affilbox.cz |
 | affil.jobsik.cz | cz.affilbox.cz |
@@ -111,6 +110,7 @@
 | affilbox.stygremvkleci.cz | cz.affilbox.cz |
 | affiliate.2gispraha.cz | cz.affilbox.cz |
 | affiliate.4fresh.cz | cz.affilbox.cz |
+| affiliate.activeczech.com | cz.affilbox.cz |
 | affiliate.agatinsvet.cz | cz.affilbox.cz |
 | affiliate.alchymiezeny.cz | cz.affilbox.cz |
 | affiliate.alexandrajohn.com | cz.affilbox.cz |
@@ -317,6 +317,7 @@
 | my.11teamsports.bg | cz.affilbox.cz |
 | my.11teamsports.cz | cz.affilbox.cz |
 | my.11teamsports.dk | cz.affilbox.cz |
+| my.11teamsports.ee | cz.affilbox.cz |
 | my.11teamsports.es | cz.affilbox.cz |
 | my.11teamsports.fi | cz.affilbox.cz |
 | my.11teamsports.fr | cz.affilbox.cz |
@@ -413,6 +414,7 @@
 | online.pdfknihovna.cz | cz.affilbox.cz |
 | owayfamily.ecoorganicbeauty.cz | cz.affilbox.cz |
 | partak.surfey.cz | cz.affilbox.cz |
+| partener.aeriumshop.ro | cz.affilbox.cz |
 | partner.2din.cz | cz.affilbox.cz |
 | partner.affilbox.com | cz.affilbox.cz |
 | partner.affiliateark.com | cz.affilbox.cz |
@@ -488,6 +490,7 @@
 | partner.domoveda.cz | cz.affilbox.cz |
 | partner.doplnse.cz | cz.affilbox.cz |
 | partner.dr-nek.cz | cz.affilbox.cz |
+| partner.drfit.cz | cz.affilbox.cz |
 | partner.dripit.cz | cz.affilbox.cz |
 | partner.dynamikabohatstvi.cz | cz.affilbox.cz |
 | partner.eandilek.cz | cz.affilbox.cz |
@@ -623,6 +626,7 @@
 | partner.scilearn.cz | cz.affilbox.cz |
 | partner.scootshop.cz | cz.affilbox.cz |
 | partner.sculpturepainting.eu | cz.affilbox.cz |
+| partner.sielbeauty.cz | cz.affilbox.cz |
 | partner.simplymix.com | cz.affilbox.cz |
 | partner.skinnygirls.cz | cz.affilbox.cz |
 | partner.skiresort.cz | cz.affilbox.cz |
@@ -680,6 +684,7 @@
 | partner.zonky.cz | cz.affilbox.cz |
 | partner.zvaracky-obchod.sk | cz.affilbox.cz |
 | partnerbox.humandesign.cz | cz.affilbox.cz |
+| partnerek.aerium.hu | cz.affilbox.cz |
 | partneri.affiliate-program.sk | cz.affilbox.cz |
 | partneri.affiliatevyzva.cz | cz.affilbox.cz |
 | partneri.akodlhsiezit.sk | cz.affilbox.cz |
@@ -753,6 +758,7 @@
 | partneri.natu.cz | cz.affilbox.cz |
 | partneri.netfotbal.cz | cz.affilbox.cz |
 | partneri.nutricbistro.cz | cz.affilbox.cz |
+| partneri.odvizekzisku.cz | cz.affilbox.cz |
 | partneri.onlinejazyky.cz | cz.affilbox.cz |
 | partneri.oportskem.cz | cz.affilbox.cz |
 | partneri.palmknihy.cz | cz.affilbox.cz |
@@ -790,6 +796,7 @@
 | partneri.tradicne-feng-shui.sk | cz.affilbox.cz |
 | partneri.trenink-vyjednavani.cz | cz.affilbox.cz |
 | partneri.trollbeads.cz | cz.affilbox.cz |
+| partneri.trollbeadscz.com | cz.affilbox.cz |
 | partneri.tvojemamka.cz | cz.affilbox.cz |
 | partneri.umenijazyku.cz | cz.affilbox.cz |
 | partneri.variantbyznys.cz | cz.affilbox.cz |

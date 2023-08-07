@@ -67,7 +67,6 @@
     * 337c50cc-ztaqjkmm.cname.ebis.ne.jp
     * 34213ab6-xnj2xrq7.cname.ebis.ne.jp
     * 359e2360-u9necda2.cname.ebis.ne.jp
-    * 35c8c3aa-gy66xg6s.cname.ebis.ne.jp
     * 35e79adf-qjtkq0iz.cname.ebis.ne.jp
     * 3649b46d-day5axk4.cname.ebis.ne.jp
     * 3714e864-qge7cq9v.cname.ebis.ne.jp
@@ -365,7 +364,6 @@
 | adebis.afc-shop.com | 337c50cc-ztaqjkmm.cname.ebis.ne.jp |
 | adebis.report.clinic | 34213ab6-xnj2xrq7.cname.ebis.ne.jp |
 | adebis.tipness.co.jp | 359e2360-u9necda2.cname.ebis.ne.jp |
-| rank.xn--cosme-5c4djcw662edgyc.com | 35c8c3aa-gy66xg6s.cname.ebis.ne.jp |
 | adebis.fenet.jp | 35e79adf-qjtkq0iz.cname.ebis.ne.jp |
 | ebis.bbo.co.jp | 3649b46d-day5axk4.cname.ebis.ne.jp |
 | msr.p-antiaging.com | 3714e864-qge7cq9v.cname.ebis.ne.jp |

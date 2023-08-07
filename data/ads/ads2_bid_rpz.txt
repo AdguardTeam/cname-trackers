@@ -1,6 +1,4 @@
 ;
 ; Company name: ads2.bid
-adv.ads2.bid CNAME .
 arvb.gamz48qlok.ru CNAME .
 dsp-image-resizer.gamz48qlok.ru CNAME .
-lk-api-beta.ads2.bid CNAME .

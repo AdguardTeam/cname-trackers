@@ -149,6 +149,7 @@ img.foodspring.hr CNAME .
 img.foodspring.it CNAME .
 img.foodspring.se CNAME .
 img.sparkasse-koelnbonn.de CNAME .
+info.deltapublishing.co.uk CNAME .
 info.klett-sprachen.de CNAME .
 intelligence.officialwesthamstore.com CNAME .
 is.lg.com CNAME .
@@ -250,6 +251,7 @@ wbtrkk.teufelaudio.nl CNAME .
 wbtrkk.teufelaudio.pl CNAME .
 web.autobodytoolmart.com CNAME .
 web.b2bimperialfashion.com CNAME .
+web.b2bpleasefashion.com CNAME .
 web.bankofscotland.de CNAME .
 web.campaign.jaked.com CNAME .
 web.campaign.miriade.com CNAME .
@@ -265,6 +267,7 @@ web.email.pmtonline.co.uk CNAME .
 web.email.principality.co.uk CNAME .
 web.email.superga.co.uk CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
+web.email.turtlebay.co.uk CNAME .
 web.email.umbro.co.uk CNAME .
 web.email.zone3.com CNAME .
 web.friends.ellaskitchen.co.uk CNAME .

@@ -68,6 +68,7 @@ tr.asp10c8.espmp-agfr.net
 tr.asp10cg.espmp-nifr.net
 tr.asp10ch.espmp-nifr.net
 tr.asp10cr.espmp-nifr.net
+tr.asp10d7.espmp-nifr.net
 tr.asp10de.espmp-agfr.net
 tr.asp10dq.espmp-nifr.net
 tr.asp10dx.espmp-nifr.net
@@ -276,6 +277,7 @@ tr.donateur.afm-telethon.fr
 tr.dossier-assurance.maaf.fr
 tr.drh-holding.lvmh.fr
 tr.e-mail.axa.fr
+tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
 tr.e.entreprise-pm.net
@@ -619,6 +621,7 @@ tr.news-companeo.nl
 tr.news-companeo.pl
 tr.news-dfc.sciences-po.fr
 tr.news-fr.perfectstay.com
+tr.news-ingerop.com
 tr.news.a-t.fr
 tr.news.a2micile.com
 tr.news.accessmastertour.com
@@ -1019,6 +1022,7 @@ tr.welcome.smartdeals-transavia-fr.com
 tr.welcome.thelist-emirates.fr
 tr.welcome.vipmag.fr
 tr.wuei.espmp-agfr.net
+tr.xlead.digital
 tr.xleads.digital
 tr.zojh.espmp-aluk.net
 tr1.bp06.net

@@ -46,11 +46,9 @@
 ||activate.shopjustice.com^
 ||activate.sun-sentinel.com^
 ||activate.suncorp.com.au^
-||activate.tacdn.com^
 ||activate.tidewaterreview.com^
 ||activate.tribpubads.com^
 ||activate.tronc.com^
-||activate.united.com^
 ||activate.vagazette.com^
 ||activate.vivelohoy.com^
 ||activate1.fidelity.com^
@@ -124,7 +122,6 @@
 ||cmp.vdfin.be^
 ||cmp.volkswagen.be^
 ||co-operative.activate.ensighten.com^
-||coke.activate.ensighten.com^
 ||consent.irvinecompany.com^
 ||consent.irvinecompany.com.cdn.cloudflare.net^
 ||cookies.jll-mena.com^
@@ -190,7 +187,6 @@
 ||dcf.espn.com.pe^
 ||dcfdata.espn.com^
 ||ddc.statefarm.com^
-||dsg.activate.ensighten.com^
 ||eb.trbas.com^
 ||emetrics.eastwestbank.com^
 ||ens.bote.ch^
@@ -205,8 +201,6 @@
 ||ens.zugerzeitung.ch^
 ||ensighten.airnewzealand.co.uk^
 ||ensighten.bhphoto.com^
-||ensighten.ccnag.com^
-||ensighten.coop.co.uk^
 ||ensighten.davidyurman.com^
 ||ensighten.filmstruck.com^
 ||ensighten.heineken.co.za^
@@ -229,13 +223,11 @@
 ||gst.pulse.toyota.com^
 ||latimes.activate.ensighten.com^
 ||letsencrypt.data.ensighten.com^
-||mcdonalds.activate.ensighten.com^
 ||measure.ensighten.com^
 ||metrics.mysynchrony.com^
 ||metrics.syf.com^
 ||metrics.synchronybusiness.com^
 ||mjt.lacoste.com^
-||msft-frcmo.activate.ensighten.com^
 ||nexus.ensighten.tiaa.org^
 ||nexus.mbna.ca^
 ||nexus.td.com^
@@ -273,7 +265,6 @@
 ||privacy.uwm.com^
 ||privacy.zoll.com^
 ||pulse.delta.com^
-||pulse.mcdonalds.com^
 ||pulse.quaero.com^
 ||pulse.rac.co.uk^
 ||pulse.sleepnumber.com^
@@ -342,8 +333,6 @@
 ||tms.rsa.com^
 ||tms.virginatlantic.com^
 ||tmsgi.lv.com^
-||tripadvisor.activate.ensighten.com^
 ||uat1-dc.pagoda.com^
 ||uat1-dc.zales.com^
-||united.activate.ensighten.com^
 ||virginaustralia.activate.ensighten.com^

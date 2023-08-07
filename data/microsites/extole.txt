@@ -205,6 +205,7 @@
 ||refer.crocs.com^
 ||refer.cspire.com^
 ||refer.darphin.com^
+||refer.delloutlet.com^
 ||refer.dreamlawn.com^
 ||refer.ea.com^
 ||refer.ecoterrabeds.com^
@@ -217,7 +218,6 @@
 ||refer.evite.com^
 ||refer.fahw.com^
 ||refer.firstaidbeauty.com^
-||refer.firstrepublic.com^
 ||refer.firsttechfed.com^
 ||refer.frontgate.com^
 ||refer.g2.com^
@@ -495,6 +495,7 @@
 ||share.inspirecleanenergy.com^
 ||share.installamerica.com^
 ||share.iteach.net^
+||share.jacksonsun.com^
 ||share.jhfcu.org^
 ||share.juicepress.com^
 ||share.juvlabs.com^
@@ -509,6 +510,7 @@
 ||share.livongo.com^
 ||share.lovesac.com^
 ||share.maccosmetics.com.au^
+||share.maidpro.com^
 ||share.mamabearlegalforms.com^
 ||share.mansfieldnewsjournal.com^
 ||share.medely.com^

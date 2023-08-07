@@ -164,7 +164,6 @@ filter-eu.adoperatorx.com CNAME .
 filter-eu.adright.co CNAME .
 filter-eu.adsupplyexchange.com CNAME .
 filter-eu.adzestocp.com CNAME .
-filter-eu.bid-engine.com CNAME .
 filter-eu.bidforclicks.com CNAME .
 filter-eu.bidmyadz.com CNAME .
 filter-eu.chameleostudios.com CNAME .
@@ -220,7 +219,6 @@ filter.anytheengmedia.com CNAME .
 filter.audiencedevelopers.com CNAME .
 filter.babanetwork.net CNAME .
 filter.bcnmonetize.com CNAME .
-filter.bid-engine.com CNAME .
 filter.bidforclicks.com CNAME .
 filter.bidiology.com CNAME .
 filter.bidmyads.com CNAME .
@@ -605,7 +603,6 @@ rtb-useast.pwr-ads.com CNAME .
 rtb-useast.rankortbdirect.com CNAME .
 rtb-useast.readywind.media CNAME .
 rtb-useast.revlift.io CNAME .
-rtb-useast.roqoon.com CNAME .
 rtb-useast.rtbadzesto.com CNAME .
 rtb-useast.rtbfactory.com CNAME .
 rtb-useast.rtbflairads.com CNAME .
@@ -726,6 +723,7 @@ static.adright.co CNAME .
 static.fstsrv1.com CNAME .
 static.fstsrv2.com CNAME .
 static.fstsrv3.com CNAME .
+static.fstsrv4.com CNAME .
 static.openrtb.in CNAME .
 static.qksrv.biz CNAME .
 static.qksrv.cc CNAME .
@@ -868,9 +866,9 @@ xml-eu.admozartxml.com CNAME .
 xml-eu.adokutcontextual.com CNAME .
 xml-eu.adoperatorx.com CNAME .
 xml-eu.adright.co CNAME .
+xml-eu.adtube.media CNAME .
 xml-eu.adxfactory.com CNAME .
 xml-eu.adzestocp.com CNAME .
-xml-eu.bid-engine.com CNAME .
 xml-eu.bidforclicks.com CNAME .
 xml-eu.bidmyadz.com CNAME .
 xml-eu.blueparrot.media CNAME .
@@ -937,6 +935,7 @@ xml-v4.frdjs-2.co CNAME .
 xml-v4.fstsrv1.com CNAME .
 xml-v4.fstsrv2.com CNAME .
 xml-v4.fstsrv3.com CNAME .
+xml-v4.fstsrv4.com CNAME .
 xml-v4.gipostart-1.co CNAME .
 xml-v4.gipostart-2.co CNAME .
 xml-v4.goclickz.net CNAME .
@@ -1017,7 +1016,6 @@ xml.aimkweb.com CNAME .
 xml.ak-tracker.com CNAME .
 xml.babanetwork.net CNAME .
 xml.bappaads.com CNAME .
-xml.bid-engine.com CNAME .
 xml.bidderads.com CNAME .
 xml.bidderleader.com CNAME .
 xml.bidderswinner.com CNAME .
@@ -1075,6 +1073,7 @@ xml.frdjs-2.co CNAME .
 xml.fstsrv1.com CNAME .
 xml.fstsrv2.com CNAME .
 xml.fstsrv3.com CNAME .
+xml.fstsrv4.com CNAME .
 xml.gipostart-2.co CNAME .
 xml.groovyadz.com CNAME .
 xml.hangfly.net CNAME .
@@ -1216,7 +1215,6 @@ static-rtb2.torchad.com CNAME .
 static-rtb2.xaprio.net CNAME .
 static.100conversions.com CNAME .
 static.ad-maven.com CNAME .
-static.bid-engine.com CNAME .
 static.bidderleader.com CNAME .
 static.win-bidding.com CNAME .
 static.adbite.com CNAME .

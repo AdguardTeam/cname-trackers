@@ -216,6 +216,7 @@ pr.hefterunmete.com CNAME .
 ps.lanzontuareg.com CNAME .
 pv.wiglessoctaves.com CNAME .
 px.owdunpiled.com CNAME .
+py.darzeegobble.com CNAME .
 qb.falsenalice.com CNAME .
 qd.gibbarwaiting.com CNAME .
 qd.loathesentour.com CNAME .
@@ -234,6 +235,7 @@ qw.garpikewoodbox.com CNAME .
 qy.narrateharmala.com CNAME .
 qz.equalsenframe.com CNAME .
 ra.polyserbdom.com CNAME .
+rc.chemispelecan.com CNAME .
 rg.canesbilker.com CNAME .
 rh.sirionehusky.com CNAME .
 rj.unhaveabobra.com CNAME .
@@ -333,6 +335,7 @@ xb.sungzionism.com CNAME .
 xc.stupesinosine.com CNAME .
 xd.meritedyaws.com CNAME .
 xe.ioniumentomic.com CNAME .
+xi.rankinegaumish.com CNAME .
 xl.demosbattik.com CNAME .
 xm.tinlikeil.com CNAME .
 xs.odesschemes.com CNAME .
