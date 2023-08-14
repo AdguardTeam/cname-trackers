@@ -409,6 +409,7 @@ data-39f71aefaf.prisma.de CNAME .
 data-3aa56b5882.die-deutsche-wirtschaft.de CNAME .
 data-3adb48f023.apps.iocnt.de CNAME .
 data-3aee2d871a.hgtv.com CNAME .
+data-3b1647c072.entdeckertag.de CNAME .
 data-3b1647c072.hannover.de CNAME .
 data-3b1647c072.landheime.de CNAME .
 data-3b1647c072.visit-hannover.com CNAME .
@@ -435,6 +436,7 @@ data-3d5dda1509.apps.iocnt.de CNAME .
 data-3d61e29638.bz-berlin.de CNAME .
 data-3d7fa37729.gff-magazin.de CNAME .
 data-3d8a7e5aec.wn.de CNAME .
+data-3db2fae96f.vienna.at CNAME .
 data-3e7222ce74.arzt-wirtschaft.de CNAME .
 data-3e886ae3e6.zaubertopf.de CNAME .
 data-3eff3aac07.kino-zeit.de CNAME .
@@ -685,6 +687,7 @@ data-5598eaf2a3.apps.iocnt.de CNAME .
 data-56aa71f393.essen-und-trinken.de CNAME .
 data-56b1bc19e7.autobild.de CNAME .
 data-56b1bc19e7.clever-tanken.de CNAME .
+data-56def2f6bc.vol.at CNAME .
 data-572c83e731.motorsport-total.com CNAME .
 data-574debde52.bunte.de CNAME .
 data-574debde52.focus.de CNAME .
@@ -999,6 +1002,7 @@ data-84a0f3455d.transfermarkt.ch CNAME .
 data-84a0f3455d.transfermarkt.co CNAME .
 data-84a0f3455d.transfermarkt.co.id CNAME .
 data-84a0f3455d.transfermarkt.co.in CNAME .
+data-84a0f3455d.transfermarkt.co.kr CNAME .
 data-84a0f3455d.transfermarkt.co.uk CNAME .
 data-84a0f3455d.transfermarkt.co.za CNAME .
 data-84a0f3455d.transfermarkt.com CNAME .
@@ -1649,6 +1653,7 @@ data-df5a2bcc30.aerzteblatt.de CNAME .
 data-df89bd769a.rund-ums-baby.de CNAME .
 data-e0448d0e4a.herz-fuer-tiere.de CNAME .
 data-e095ec3c5c.apps.iocnt.de CNAME .
+data-e09a956c79.du-bist-der-teamchef.at CNAME .
 data-e0c8f57796.selbst.de CNAME .
 data-e0e7873b34.stadtbibliothek-schwerin.de CNAME .
 data-e138bc4173.apps.iocnt.de CNAME .
@@ -1829,6 +1834,7 @@ data-f1e447fbcf.rosenheim24.de CNAME .
 data-f1e447fbcf.ruhr24.de CNAME .
 data-f1e447fbcf.sauerlandkurier.de CNAME .
 data-f1e447fbcf.soester-anzeiger.de CNAME .
+data-f1e447fbcf.suedwest24.de CNAME .
 data-f1e447fbcf.trauer.nrw CNAME .
 data-f1e447fbcf.tz.de CNAME .
 data-f1e447fbcf.usinger-anzeiger.de CNAME .

@@ -106,6 +106,7 @@
 ||tr.b2d1.espmp-agfr.net^
 ||tr.b2d1068.espmp-nifr.net^
 ||tr.b2d106z.espmp-aufr.net^
+||tr.b2d107b.espmp-aufr.net^
 ||tr.bati-partner.be^
 ||tr.bati-partners.be^
 ||tr.batirenover.info^
@@ -338,7 +339,6 @@
 ||tr.emailing.canalsat.ch^
 ||tr.emailing.cifea-mkg.com^
 ||tr.emailing.cnam-paysdelaloire.fr^
-||tr.emailing.coe.int^
 ||tr.emailing.cstar.fr^
 ||tr.emailing.detours.canal.fr^
 ||tr.emailing.grassavoye.com^
@@ -541,6 +541,7 @@
 ||tr.mail.moncoupdepouce.com^
 ||tr.mail.primevere.com^
 ||tr.mail.satisfactory.fr^
+||tr.mail.solocal.com^
 ||tr.mail.vip-mag.co.uk^
 ||tr.mail.vipmag.fr^
 ||tr.mail.vo3000.com^

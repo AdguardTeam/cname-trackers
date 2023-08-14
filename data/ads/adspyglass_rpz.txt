@@ -1,5 +1,6 @@
 ;
 ; Company name: AdSpyglass
+0.101tubeporn.com CNAME .
 0.oldgyhogola.com CNAME .
 0i.iqostaiwan.com CNAME .
 0i.sh-cdn.com CNAME .
@@ -12,7 +13,6 @@
 1aad.spinna.site CNAME .
 1aae.spinna.site CNAME .
 1aaf.spinna.site CNAME .
-1d88r44d9t.nelasleaks.site CNAME .
 2222.spinna.online CNAME .
 23.sweetmanga.fun CNAME .
 259luxu.xyz CNAME .
@@ -78,6 +78,7 @@ a.katomu.club CNAME .
 a.kizzteen.com CNAME .
 a.letsjerk.org CNAME .
 a.letsjerk.tv CNAME .
+a.misctool.xyz CNAME .
 a.myprettyads.one CNAME .
 a.narutoon.com CNAME .
 a.naturalhealthsource.club CNAME .
@@ -95,6 +96,7 @@ a.smut.cc CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
 a.tortuko.club CNAME .
+a.totoro2011.xyz CNAME .
 a.travelbdnews.xyz CNAME .
 a.unblock2303.xyz CNAME .
 a.unblock2304.xyz CNAME .
@@ -230,6 +232,7 @@ bddd.javmilk.org CNAME .
 bencuzi.xyz CNAME .
 bezuka.xyz CNAME .
 biakico.mom CNAME .
+bikeno.xyz CNAME .
 blog.andropps.com CNAME .
 blow.week1time.com CNAME .
 bltkm.spinna.store CNAME .
@@ -239,7 +242,6 @@ boob.sukaporn.com CNAME .
 btaoc.lol CNAME .
 btaoc.xyz CNAME .
 btctrade.lol CNAME .
-bulitu.xyz CNAME .
 bup.seksohub.com CNAME .
 bursa.conxxx.pro CNAME .
 bx5.tubemaximum.com CNAME .
@@ -298,11 +300,13 @@ dude.pleasedonotblockme.com CNAME .
 dx7.sosporntube.com CNAME .
 e.bloblohub.com CNAME .
 e.fetishdomina.net CNAME .
+e.sexbule.xxx CNAME .
 ebd.cda-hd.cc CNAME .
 ebd.cda-hd.co CNAME .
 ebod.7mmtv.top CNAME .
 eco.blendxxx.com CNAME .
 edddd.javmilk.org CNAME .
+enrgy.fwtrck.com CNAME .
 essential.awmcash.com CNAME .
 est.pornleech.ch CNAME .
 ex8.lostporntube.com CNAME .
@@ -421,7 +425,6 @@ load.jabx.net CNAME .
 load.try-games.com CNAME .
 load.xxxdb.io CNAME .
 load2.xxxdb.io CNAME .
-loienlao.mom CNAME .
 lol.globlax.com CNAME .
 losa.mkace.net CNAME .
 lx5.homeporntuber.com CNAME .
@@ -438,11 +441,13 @@ maxx1.pleasedonotblockme.com CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 menguzi.xyz CNAME .
+menui.xyz CNAME .
 meoem.lol CNAME .
 messic.lol CNAME .
 metabuz.xyz CNAME .
 meyd.7mmtv.top CNAME .
 mficlyxgvfsp.cdnvideo3.com CNAME .
+mgbkt9eckr.xn--mgbkt9eckr.net CNAME .
 mide.7mmtv.top CNAME .
 missgrand.beauty CNAME .
 mrcoviu.pics CNAME .
@@ -473,7 +478,6 @@ notonthebedsheets.com CNAME .
 nx7.hdxxxclips.com CNAME .
 o.hotsextube.tv CNAME .
 o313o.com CNAME .
-o414o.icu CNAME .
 oi.429men.com CNAME .
 oi.fapnado.com CNAME .
 oi.fapnado.xxx CNAME .
@@ -634,6 +638,7 @@ uacabilqlgpw.cdnvideo3.com CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
 umtpopxcsedc.cdnvideo3.com CNAME .
+uotbzz.xyz CNAME .
 uthbxvz.bestzba.com CNAME .
 v.vidghjlgkuyfk.site CNAME .
 vavsnhau.mom CNAME .
@@ -702,4 +707,3 @@ z0000g.yvmads.com CNAME .
 zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 zzzzaaa.baijav.com CNAME .
-cdn.manhwadesu.me CNAME .

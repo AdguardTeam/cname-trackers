@@ -5,17 +5,13 @@ fpa-api.arstechnica.com CNAME .
 fpa-cdn.adweek.com CNAME .
 fpa-cdn.amontalenti.com CNAME .
 fpa-cdn.arstechnica.com CNAME .
-fpa-cdn.blog.parse.ly CNAME .
 fpa-cdn.decrypt.co CNAME .
 fpa-cdn.newsweek.com CNAME .
-fpa-cdn.parse.ly CNAME .
 fpa-cdn.slate.com CNAME .
 fpa-events.adweek.com CNAME .
 fpa-events.arstechnica.com CNAME .
-fpa-events.blog.parse.ly CNAME .
 fpa-events.decrypt.co CNAME .
 fpa-events.newsweek.com CNAME .
-fpa-events.parse.ly CNAME .
 fpa-events.slate.com CNAME .
 image.undsslearnin.org CNAME .
 vo.ashgabat.fun CNAME .

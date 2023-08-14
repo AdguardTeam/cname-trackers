@@ -409,6 +409,7 @@
 ||data-3aa56b5882.die-deutsche-wirtschaft.de^
 ||data-3adb48f023.apps.iocnt.de^
 ||data-3aee2d871a.hgtv.com^
+||data-3b1647c072.entdeckertag.de^
 ||data-3b1647c072.hannover.de^
 ||data-3b1647c072.landheime.de^
 ||data-3b1647c072.visit-hannover.com^
@@ -435,6 +436,7 @@
 ||data-3d61e29638.bz-berlin.de^
 ||data-3d7fa37729.gff-magazin.de^
 ||data-3d8a7e5aec.wn.de^
+||data-3db2fae96f.vienna.at^
 ||data-3e7222ce74.arzt-wirtschaft.de^
 ||data-3e886ae3e6.zaubertopf.de^
 ||data-3eff3aac07.kino-zeit.de^
@@ -685,6 +687,7 @@
 ||data-56aa71f393.essen-und-trinken.de^
 ||data-56b1bc19e7.autobild.de^
 ||data-56b1bc19e7.clever-tanken.de^
+||data-56def2f6bc.vol.at^
 ||data-572c83e731.motorsport-total.com^
 ||data-574debde52.bunte.de^
 ||data-574debde52.focus.de^
@@ -999,6 +1002,7 @@
 ||data-84a0f3455d.transfermarkt.co^
 ||data-84a0f3455d.transfermarkt.co.id^
 ||data-84a0f3455d.transfermarkt.co.in^
+||data-84a0f3455d.transfermarkt.co.kr^
 ||data-84a0f3455d.transfermarkt.co.uk^
 ||data-84a0f3455d.transfermarkt.co.za^
 ||data-84a0f3455d.transfermarkt.com^
@@ -1649,6 +1653,7 @@
 ||data-df89bd769a.rund-ums-baby.de^
 ||data-e0448d0e4a.herz-fuer-tiere.de^
 ||data-e095ec3c5c.apps.iocnt.de^
+||data-e09a956c79.du-bist-der-teamchef.at^
 ||data-e0c8f57796.selbst.de^
 ||data-e0e7873b34.stadtbibliothek-schwerin.de^
 ||data-e138bc4173.apps.iocnt.de^
@@ -1829,6 +1834,7 @@
 ||data-f1e447fbcf.ruhr24.de^
 ||data-f1e447fbcf.sauerlandkurier.de^
 ||data-f1e447fbcf.soester-anzeiger.de^
+||data-f1e447fbcf.suedwest24.de^
 ||data-f1e447fbcf.trauer.nrw^
 ||data-f1e447fbcf.tz.de^
 ||data-f1e447fbcf.usinger-anzeiger.de^

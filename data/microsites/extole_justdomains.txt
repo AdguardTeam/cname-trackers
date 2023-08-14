@@ -124,6 +124,7 @@ www.trevoce.com
 amp.bfr.com
 demo.extole.com
 earn-and-refer.extoleu.com
+em8561.go2bank.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -360,6 +361,7 @@ refer.thepopcornfactory.com
 refer.thesculptsociety.com
 refer.thewalkingcompany.com
 refer.thewildest.com
+refer.thirdlove.com
 refer.tomorrowsleep.com
 refer.tous.com
 refer.twisthair.com
@@ -441,6 +443,7 @@ share.cellcom.ca
 share.cheaperthandirt.com
 share.chewsidental.com
 share.cityfurniture.com
+share.cluballiance.aaa.com
 share.columbiacu.org
 share.commercialappeal.com
 share.conceiveabilities.com
@@ -600,6 +603,7 @@ share.theprisonerwinecompany.com
 share.tillys.com
 share.tommy.com
 share.trafalgar.com
+share.travelzoo.com
 share.truckstop.com
 share.uk.theory.com
 share.unchartedsociety.com
@@ -622,5 +626,4 @@ share.zenbusiness.com
 www.referquickbooks.com
 em1476.princesscruises.com
 em4367.raf-studentloans.discover.com
-em8561.go2bank.com
 sftp.extole.com

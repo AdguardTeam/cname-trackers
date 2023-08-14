@@ -23,6 +23,7 @@
 ||a8.au-hikarinet.com^
 ||a8.avalon-works.com^
 ||a8.b-cafe.net^
+||a8.bambi-craft.com^
 ||a8.bandel.jp^
 ||a8.banninkun.com^
 ||a8.benro.jp^
@@ -170,7 +171,6 @@
 ||a8.mogurun.com^
 ||a8.moku.info^
 ||a8.mosh.jp^
-||a8.msline.health^
 ||a8.musbell.co.jp^
 ||a8.n-pri.jp^
 ||a8.nanafu.tokyo^
@@ -179,6 +179,7 @@
 ||a8.nengajyo.co.jp^
 ||a8.nitta-gelatin.jp^
 ||a8.nosh.jp^
+||a8.novicetokyo.com^
 ||a8.o-tayori.com^
 ||a8.obihiro-butaichi.jp^
 ||a8.ocnk.net^
@@ -348,6 +349,7 @@
 ||a8clk.bstyle.store^
 ||a8clk.bungeisha.co.jp^
 ||a8clk.buy-master.com^
+||a8clk.buyking.club^
 ||a8clk.camerakaitori.jp^
 ||a8clk.campaigns.speed-kaitori.jp^
 ||a8clk.car-mo.jp^
@@ -491,6 +493,7 @@
 ||a8clk.netowl.jp^
 ||a8clk.nikkoudou-kottou.com^
 ||a8clk.nissen.co.jp^
+||a8clk.nobirun.jp^
 ||a8clk.nta.co.jp^
 ||a8clk.nyandaful.jp^
 ||a8clk.okawa-god.jp^
@@ -651,6 +654,7 @@
 ||a8cv.auhikari-bykddi.com^
 ||a8cv.b-concept.tokyo^
 ||a8cv.b-mobilerental.com^
+||a8cv.babybjorn.jp^
 ||a8cv.bb-internet-qsyu.net^
 ||a8cv.bbt757.com^
 ||a8cv.be-slim-spbikyou.com^
@@ -729,6 +733,7 @@
 ||a8cv.e-earphone.jp^
 ||a8cv.e-stretch-diet.com^
 ||a8cv.eakindo.com^
+||a8cv.ec.oliveunion.com^
 ||a8cv.eco-ring.com^
 ||a8cv.ecodepa.jp^
 ||a8cv.eeo.today^
@@ -786,6 +791,7 @@
 ||a8cv.hilife-group.com^
 ||a8cv.hoken-laundry.com^
 ||a8cv.holo-bell.com^
+||a8cv.homepage296.com^
 ||a8cv.honeys-onlineshop.com^
 ||a8cv.hoppin-garage.com^
 ||a8cv.hor.jp^
@@ -796,6 +802,7 @@
 ||a8cv.hyperknife.info^
 ||a8cv.i-office1.net^
 ||a8cv.icoi.style^
+||a8cv.ieagent.jp^
 ||a8cv.iekoma.com^
 ||a8cv.iikyujin.net^
 ||a8cv.ikapula.com^
@@ -1229,6 +1236,7 @@
 ||kobetu.grand1corp.com^
 ||listing-a8-itp.hello-storage.com^
 ||mvc.shopjapan.co.jp^
+||ntt-fletscv.ntt-flets.com^
 ||onenet.gakujutsu.com^
 ||p004.raffi-hair.com^
 ||p005.raffi-hair.com^

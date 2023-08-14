@@ -71,7 +71,6 @@
     * mediniku-viessmann-lt-cddc.at-o.net
     * mefo1-zdf-de-cddc.at-o.net
     * mkt-usz-ch-cddc.at-o.net
-    * mond-post-ch-cddc.at-o.net
     * montpalatin-handicap-fr-cddc.at-o.net
     * pear-ca-eko-globetrotter-fr-cddc.at-o.net
     * pear-youzful-by-ca-fr-cddc.at-o.net
@@ -197,7 +196,6 @@
 | mediniku.viessmann.lt | mediniku-viessmann-lt-cddc.at-o.net |
 | mefo1.zdf.de | mefo1-zdf-de-cddc.at-o.net |
 | mkt.usz.ch | mkt-usz-ch-cddc.at-o.net |
-| mond.post.ch | mond-post-ch-cddc.at-o.net |
 | montpalatin.handicap.fr | montpalatin-handicap-fr-cddc.at-o.net |
 | pear.ca-eko-globetrotter.fr | pear-ca-eko-globetrotter-fr-cddc.at-o.net |
 | pear.youzful-by-ca.fr | pear-youzful-by-ca-fr-cddc.at-o.net |

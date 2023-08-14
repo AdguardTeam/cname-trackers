@@ -24,7 +24,6 @@
 2e7zgbpky6h.chinese.freecodecamp.org CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
-36a7wmjdcmso.my.gloryleague.basketball CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
@@ -118,4 +117,3 @@ xlvvy4msxr.coolinastore.com CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
 ysrrzgku6tar.us.themoneytizer.com CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
-zvgci9yv5fkk.razuna.com CNAME .

@@ -728,6 +728,7 @@
 ||static.qksrv.biz^
 ||static.qksrv.cc^
 ||static.qksrv1.com^
+||static.xrtb.io^
 ||sub.adzgame.com^
 ||sv-pval.looksmart.com^
 ||sv-query.looksmart.com^

@@ -88,6 +88,7 @@
 ||affilbox.andreashop.sk^
 ||affilbox.doglog.cz^
 ||affilbox.gurufinance.cz^
+||affilbox.kronikazivota.sk^
 ||affilbox.kvaskovanie.sk^
 ||affilbox.rondopartner.cz^
 ||affilbox.stygremvkleci.cz^
@@ -382,6 +383,7 @@
 ||my.weplaybasketball.sk^
 ||my.weplayhandball.bg^
 ||my.weplayhandball.cz^
+||my.weplayhandball.de^
 ||my.weplayhandball.eu^
 ||my.weplayhandball.gr^
 ||my.weplayhandball.hu^
@@ -399,10 +401,10 @@
 ||partak.surfey.cz^
 ||partener.aeriumshop.ro^
 ||partner.2din.cz^
+||partner.aerium.sk^
 ||partner.affilbox.com^
 ||partner.affiliateark.com^
 ||partner.affilnet.cz^
-||partner.ajshop.cz^
 ||partner.alesio.cz^
 ||partner.amonit.sk^
 ||partner.amonitsro.sk^
@@ -678,6 +680,7 @@
 ||partneri.appkee.cz^
 ||partneri.arouska.cz^
 ||partneri.artisan.cz^
+||partneri.autoprofishop.cz^
 ||partneri.bazaroveregaly.cz^
 ||partneri.bestargroup.cz^
 ||partneri.bigon.sk^

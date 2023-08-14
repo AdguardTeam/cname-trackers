@@ -293,7 +293,6 @@
 * ssl-viaplaystream.tns-dk.2cnt.net
 * ssl-videnskab.tns-dk.2cnt.net
 * ssl-watchmedier.tns-dk.2cnt.net
-* ssl-waz.vgwort-de.2cnt.net
 * ssl-weeka-eavis.tns-dk.2cnt.net
 * ssl-weka.vgwort-de.2cnt.net
 * ssl-welt.vgwort-de.2cnt.net
@@ -546,7 +545,6 @@
 | ssl-stern.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | ssl-teltarif.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | ssl-waz.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
-| ssl-waz.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | ssl-welt.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | ssl-wolterskluwer.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | stern.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -788,7 +786,6 @@
 | ssl-viaplaystream.tns-gallup.dk | ssl-viaplaystream.tns-dk.2cnt.net |
 | ssl-videnskab.tns-gallup.dk | ssl-videnskab.tns-dk.2cnt.net |
 | ssl-watchmedier.tns-gallup.dk | ssl-watchmedier.tns-dk.2cnt.net |
-| ssl-waz.met.vgwort.de | ssl-waz.vgwort-de.2cnt.net |
 | ssl-weeka-eavis.tns-gallup.dk | ssl-weeka-eavis.tns-dk.2cnt.net |
 | ssl-weka.met.vgwort.de | ssl-weka.vgwort-de.2cnt.net |
 | ssl-welt.met.vgwort.de | ssl-welt.vgwort-de.2cnt.net |

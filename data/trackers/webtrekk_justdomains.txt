@@ -282,6 +282,7 @@ web.jana-shoes.com
 web.mail.parmalat.it
 web.mail.proximaati.com
 web.mailing.storz-bickel.com
+web.mailing.vapormed.com
 web.mapp.docpeter.it
 web.mapp.edenred.it
 web.mapp.ilgiardinodeilibri.it
@@ -315,6 +316,7 @@ web.sensilab.dk
 web.sensilab.es
 web.sensilab.ie
 web.sensilab.it
+web.sensilab.org
 web.sensilab.pt
 web.sensilab.ro
 web.sensilab.se

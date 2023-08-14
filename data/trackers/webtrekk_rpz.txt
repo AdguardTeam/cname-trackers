@@ -282,6 +282,7 @@ web.jana-shoes.com CNAME .
 web.mail.parmalat.it CNAME .
 web.mail.proximaati.com CNAME .
 web.mailing.storz-bickel.com CNAME .
+web.mailing.vapormed.com CNAME .
 web.mapp.docpeter.it CNAME .
 web.mapp.edenred.it CNAME .
 web.mapp.ilgiardinodeilibri.it CNAME .
@@ -315,6 +316,7 @@ web.sensilab.dk CNAME .
 web.sensilab.es CNAME .
 web.sensilab.ie CNAME .
 web.sensilab.it CNAME .
+web.sensilab.org CNAME .
 web.sensilab.pt CNAME .
 web.sensilab.ro CNAME .
 web.sensilab.se CNAME .

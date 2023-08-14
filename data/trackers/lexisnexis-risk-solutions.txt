@@ -114,6 +114,7 @@
 ||cdntm.marksandspencer.com^
 ||cdntm.rodanandfields.com^
 ||cdntm.us.hsbc.com^
+||cfa.advisorchannel.com^
 ||cfa.febtest.com^
 ||cfa.fidelity.com^
 ||cfa.mystreetscape.com^
@@ -399,6 +400,7 @@
 ||fpt.norton.com^
 ||fr.shopdisney.disney.co.jp^
 ||fraudcheck.walmart.ca^
+||fss.glbank.com^
 ||fsta.leboncoin.info^
 ||ftd.quodxx.com.br^
 ||gateway.jmbullion.com^
@@ -653,6 +655,7 @@
 ||sec.mypage.ocn.ne.jp^
 ||sec.plala.or.jp^
 ||secure-service.id.dbsdigibank.com^
+||secure.freshbooks.com^
 ||secure.idbank.it^
 ||secure.jumia.ci^
 ||secure.jumia.co.ke^
@@ -795,6 +798,7 @@
 ||thm.visa.com^
 ||thm12.visa.com^
 ||thmep.zondaglobal.com^
+||threatmetrix.lendingclub.com^
 ||thrm-scrq-0001.crypterium.com^
 ||tm-analytics.bluevine.com^
 ||tm-eps.neutrino.nu^

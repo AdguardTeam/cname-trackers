@@ -88,6 +88,7 @@ affilbox.aliveplatform.com CNAME .
 affilbox.andreashop.sk CNAME .
 affilbox.doglog.cz CNAME .
 affilbox.gurufinance.cz CNAME .
+affilbox.kronikazivota.sk CNAME .
 affilbox.kvaskovanie.sk CNAME .
 affilbox.rondopartner.cz CNAME .
 affilbox.stygremvkleci.cz CNAME .
@@ -382,6 +383,7 @@ my.weplaybasketball.si CNAME .
 my.weplaybasketball.sk CNAME .
 my.weplayhandball.bg CNAME .
 my.weplayhandball.cz CNAME .
+my.weplayhandball.de CNAME .
 my.weplayhandball.eu CNAME .
 my.weplayhandball.gr CNAME .
 my.weplayhandball.hu CNAME .
@@ -399,10 +401,10 @@ owayfamily.ecoorganicbeauty.cz CNAME .
 partak.surfey.cz CNAME .
 partener.aeriumshop.ro CNAME .
 partner.2din.cz CNAME .
+partner.aerium.sk CNAME .
 partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
 partner.affilnet.cz CNAME .
-partner.ajshop.cz CNAME .
 partner.alesio.cz CNAME .
 partner.amonit.sk CNAME .
 partner.amonitsro.sk CNAME .
@@ -678,6 +680,7 @@ partneri.apimedika.sk CNAME .
 partneri.appkee.cz CNAME .
 partneri.arouska.cz CNAME .
 partneri.artisan.cz CNAME .
+partneri.autoprofishop.cz CNAME .
 partneri.bazaroveregaly.cz CNAME .
 partneri.bestargroup.cz CNAME .
 partneri.bigon.sk CNAME .

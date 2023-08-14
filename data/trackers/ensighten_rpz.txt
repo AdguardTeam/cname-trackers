@@ -258,6 +258,7 @@ privacy.gomastercard.com.au CNAME .
 privacy.heineken.it CNAME .
 privacy.heishop.com.br CNAME .
 privacy.interestfree.com.au CNAME .
+privacy.latitudefinancial.co.nz CNAME .
 privacy.latitudefinancial.com CNAME .
 privacy.latitudefinancial.com.au CNAME .
 privacy.latitudepay.com CNAME .

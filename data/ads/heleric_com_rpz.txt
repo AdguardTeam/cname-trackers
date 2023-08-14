@@ -215,6 +215,7 @@ pq.murkfrazil.com CNAME .
 pr.hefterunmete.com CNAME .
 ps.lanzontuareg.com CNAME .
 pv.wiglessoctaves.com CNAME .
+px.bajracashboy.com CNAME .
 px.owdunpiled.com CNAME .
 py.darzeegobble.com CNAME .
 qb.falsenalice.com CNAME .
@@ -274,6 +275,7 @@ tc.bovateoutrate.com CNAME .
 tc.puinavikytes.com CNAME .
 td.anasphragma.com CNAME .
 th.micheryfrugal.com CNAME .
+th.weighinened.com CNAME .
 ti.bandonbrubru.com CNAME .
 tl.logwisespitzer.com CNAME .
 tm.hacklesovary.com CNAME .
@@ -288,6 +290,7 @@ tw.canjacvinum.com CNAME .
 ui.warmthsmasseur.com CNAME .
 ul.sokesbarling.com CNAME .
 ul.spatingaegina.com CNAME .
+um.sowinghognut.com CNAME .
 um.sullageprancy.com CNAME .
 un.clobberkiliare.com CNAME .
 un.ginnleunshift.com CNAME .
@@ -312,6 +315,7 @@ vp.upswingmethyl.com CNAME .
 vq.areiccastano.com CNAME .
 vr.noosersturtles.com CNAME .
 vt.alieneepunta.com CNAME .
+vt.eluantsmousees.com CNAME .
 vv.habaerashiksas.com CNAME .
 vx.azuresjukes.com CNAME .
 wb.aliensplitch.com CNAME .
@@ -324,6 +328,7 @@ wj.acrevenene.com CNAME .
 wl.herbarspece.com CNAME .
 wl.jimjumsalkes.com CNAME .
 wm.findalwaglike.com CNAME .
+wn.congostudia.com CNAME .
 wq.stewyruttish.com CNAME .
 wr.rugosehoarish.com CNAME .
 ws.blondsdixie.com CNAME .

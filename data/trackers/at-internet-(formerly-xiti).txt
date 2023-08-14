@@ -69,7 +69,6 @@
 ||mediniku.viessmann.lt^
 ||mefo1.zdf.de^
 ||mkt.usz.ch^
-||mond.post.ch^
 ||montpalatin.handicap.fr^
 ||pear.ca-eko-globetrotter.fr^
 ||pear.youzful-by-ca.fr^

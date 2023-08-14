@@ -114,6 +114,7 @@ cdntm.johnlewisfinance.com CNAME .
 cdntm.marksandspencer.com CNAME .
 cdntm.rodanandfields.com CNAME .
 cdntm.us.hsbc.com CNAME .
+cfa.advisorchannel.com CNAME .
 cfa.febtest.com CNAME .
 cfa.fidelity.com CNAME .
 cfa.mystreetscape.com CNAME .
@@ -399,6 +400,7 @@ fpcn.bpsgameserver.com CNAME .
 fpt.norton.com CNAME .
 fr.shopdisney.disney.co.jp CNAME .
 fraudcheck.walmart.ca CNAME .
+fss.glbank.com CNAME .
 fsta.leboncoin.info CNAME .
 ftd.quodxx.com.br CNAME .
 gateway.jmbullion.com CNAME .
@@ -653,6 +655,7 @@ sec.mypage.ntt.com CNAME .
 sec.mypage.ocn.ne.jp CNAME .
 sec.plala.or.jp CNAME .
 secure-service.id.dbsdigibank.com CNAME .
+secure.freshbooks.com CNAME .
 secure.idbank.it CNAME .
 secure.jumia.ci CNAME .
 secure.jumia.co.ke CNAME .
@@ -795,6 +798,7 @@ th.barclays.co.uk CNAME .
 thm.visa.com CNAME .
 thm12.visa.com CNAME .
 thmep.zondaglobal.com CNAME .
+threatmetrix.lendingclub.com CNAME .
 thrm-scrq-0001.crypterium.com CNAME .
 tm-analytics.bluevine.com CNAME .
 tm-eps.neutrino.nu CNAME .

@@ -22,6 +22,7 @@ sponsor.syracuse.com CNAME .
 0b615d2390.53570bbe42.com CNAME .
 0b8d3535ca.d675b32d34.com CNAME .
 0c5b5ba32e.bf0a4afaf5.com CNAME .
+0cc118959f.bb3830357b.com CNAME .
 0d75eae134.2ae9461951.com CNAME .
 0d9b072dfd.69c28fb7f4.com CNAME .
 0df76f9508.04cbf4193b.com CNAME .
@@ -48,6 +49,7 @@ sponsor.syracuse.com CNAME .
 1d64fb6441.0ec78e0509.com CNAME .
 1e32421487.c9ff2ca544.com CNAME .
 1ed960d6ad.fa479896c7.com CNAME .
+201efd9d67.c3af119d07.com CNAME .
 20cbc85129.fc455e7809.com CNAME .
 20ddfbe344.7179c5492e.com CNAME .
 22aa4458dc.c42f556ff8.com CNAME .
@@ -78,6 +80,7 @@ sponsor.syracuse.com CNAME .
 3788041701.99018f340b.com CNAME .
 37a37e5db9.1fb99d15c4.com CNAME .
 38a29cb310.eea605742d.com CNAME .
+3a73fe20ac.d1da55a0b9.com CNAME .
 3b712d30b3.09e852b0f3.com CNAME .
 3bc96c3bc4.4f2ee73540.com CNAME .
 3cb0d2bef3.be8df00f33.com CNAME .
@@ -88,6 +91,7 @@ sponsor.syracuse.com CNAME .
 3fb830355c.9be814e81e.com CNAME .
 3ff30ad38a.9714ddef1d.com CNAME .
 40cdf9d2a9.9fee754633.com CNAME .
+41a90d0edd.0f0b46245d.com CNAME .
 41e02b972b.9f101f07c7.com CNAME .
 41ff45a3db.03f128fb44.com CNAME .
 423cc0af23.3a91727319.com CNAME .
@@ -132,9 +136,9 @@ sponsor.syracuse.com CNAME .
 5e90a3a3f8.85d9d90c71.com CNAME .
 5f50953e05.4a277bbf1a.com CNAME .
 6047f3c601.7ae9fc0b53.com CNAME .
-6183c729c7.f145627a09.com CNAME .
 61ba0b3eaa.41166be14c.com CNAME .
 62b00ced28.39373b8701.com CNAME .
+62c8cf5cd7.9f30f66189.com CNAME .
 62cfc0b462.5a46641450.com CNAME .
 62eddc0f6a.f984e0d579.com CNAME .
 62ffd2f212.cfe8fd831d.com CNAME .
@@ -174,6 +178,7 @@ sponsor.syracuse.com CNAME .
 7defd8a46e.fc441dccf1.com CNAME .
 7ee6aa4a84.102168588b.com CNAME .
 7f01e7f94e.1d022ca6a2.com CNAME .
+7fa2c26b89.fba8a9ab60.com CNAME .
 80d1a27de4.7776bf141c.com CNAME .
 812748c48f.02f87a8089.com CNAME .
 8577616b81.2045683976.com CNAME .
@@ -211,7 +216,6 @@ sponsor.syracuse.com CNAME .
 999a328fa0.86521e18d4.com CNAME .
 99aa05f0e1.bc9bdbb70b.com CNAME .
 99bddc8c25.84692db09f.com CNAME .
-99eaf1c2b5.e4d3c228c4.com CNAME .
 9b0798654a.5a2d208cea.com CNAME .
 9b78a94832.d7a3781a4b.com CNAME .
 9cd589fd54.86b1722d8e.com CNAME .
@@ -252,7 +256,6 @@ bd2ca6c82d.20e2b2c425.com CNAME .
 bdecfb7de6.e2ff92bcf8.com CNAME .
 be14c45da0.3301886f9e.com CNAME .
 bfe70bbd52.23182b9851.com CNAME .
-bfe8a1874d.bdced8843e.com CNAME .
 c0b0be585f.581c933842.com CNAME .
 c14f40b010.3574fd3373.com CNAME .
 c353ac05ea.b0fea47e81.com CNAME .
@@ -260,10 +263,10 @@ c36700d174.46febd8df8.com CNAME .
 c37ed72d5a.f5fd936867.com CNAME .
 c481e18aa3.e2078be122.com CNAME .
 c504d3250f.52c9f48b14.com CNAME .
-c5626f808b.36d1ef387c.com CNAME .
 c580712027.ffcc2964d9.com CNAME .
 c6605baadd.2d6a7b9179.com CNAME .
 c6644ac158.2ae70a6814.com CNAME .
+c76100e6f6.bb17f09ee7.com CNAME .
 c926b14548.d69b881dcc.com CNAME .
 ca149d02d1.ac14b9b34e.com CNAME .
 ca4c1f8493.e49638124f.com CNAME .
@@ -319,7 +322,6 @@ f1ab40b1ac.91a3c37128.com CNAME .
 f1c61224ea.edbc0469bd.com CNAME .
 f33772ce13.749cad1027.com CNAME .
 f43bb3465e.10eafd09d6.com CNAME .
-f4c85c5128.111d140e96.com CNAME .
 f9630bc2e3.6afd255116.com CNAME .
 f9aa8dba65.2e14072eac.com CNAME .
 fa5248bea9.d7d38597d6.com CNAME .
@@ -333,7 +335,8 @@ fe62bfc689.a7f3b65b6b.com CNAME .
 fe8d4b33c2.8abf43d6ad.com CNAME .
 ff04a1538a.ced4d66e2d.com CNAME .
 a135.wftv.com CNAME .
-csoonline.share.ntv.io CNAME .
+a235.gametimect.com CNAME .
+mlive.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 a135.fox23.com CNAME .
@@ -354,6 +357,7 @@ bossip.share.ntv.io CNAME .
 cio.share.ntv.io CNAME .
 cooktopcove.share.ntv.io CNAME .
 cricketwireless.share.ntv.io CNAME .
+csoonline.share.ntv.io CNAME .
 entrepreneur.share.ntv.io CNAME .
 faithinthenews.share.ntv.io CNAME .
 foodandwine.share.ntv.io CNAME .
@@ -366,7 +370,6 @@ infoworld.share.ntv.io CNAME .
 ksn.share.ntv.io CNAME .
 littlethings.share.ntv.io CNAME .
 miamiherald.share.ntv.io CNAME .
-mlive.share.ntv.io CNAME .
 mortgagesolutions.share.ntv.io CNAME .
 motortrend.share.ntv.io CNAME .
 mynorthwest.share.ntv.io CNAME .
@@ -387,7 +390,6 @@ a135.htvnativeadsolutions.com CNAME .
 a235.chron.com CNAME .
 a235.ctnews.com CNAME .
 a235.ctpost.com CNAME .
-a235.gametimect.com CNAME .
 a235.greenwichtime.com CNAME .
 a235.htvnativeadsolutions.com CNAME .
 a235.lmtonline.com CNAME .

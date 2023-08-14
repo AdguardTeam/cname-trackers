@@ -28,8 +28,10 @@
     * h-2yf3c1v4.online-metrix.net
     * h-30fpzt2y.online-metrix.net
     * h-324klu1j.online-metrix.net
+    * h-32rts1pk.online-metrix.net
     * h-34mvnza6.online-metrix.net
     * h-39zuido3.online-metrix.net
+    * h-3ch524y7.online-metrix.net
     * h-3gk2er3j.online-metrix.net
     * h-3r1xqsku.online-metrix.net
     * h-3u2bmrkg.online-metrix.net
@@ -254,6 +256,7 @@
     * h-coutts.online-metrix.net
     * h-couttscrowndependencies.online-metrix.net
     * h-cox.online-metrix.net
+    * h-cpsqwxyc.online-metrix.net
     * h-cpuoahbo.online-metrix.net
     * h-cqjaju73.online-metrix.net
     * h-credilikeme.online-metrix.net
@@ -721,8 +724,10 @@
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
 | app.uob.com.sg | h-30fpzt2y.online-metrix.net |
 | applicant.rbfcu.org | h-324klu1j.online-metrix.net |
+| secure.freshbooks.com | h-32rts1pk.online-metrix.net |
 | nv-2.liveaction.com | h-34mvnza6.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
+| fss.glbank.com | h-3ch524y7.online-metrix.net |
 | r7s.scl.swisscom.ch | h-3gk2er3j.online-metrix.net |
 | tmcontent.sixt.com | h-3r1xqsku.online-metrix.net |
 | content.lyft.com | h-3u2bmrkg.online-metrix.net |
@@ -735,6 +740,7 @@
 | tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
 | page-format.chase.com | h-5g3kt0kj.online-metrix.net |
 | api.ext.evolution.protective.com | h-5glaq71x.online-metrix.net |
+| cfa.advisorchannel.com | h-5h8i3ud8.online-metrix.net |
 | cfa.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | cfa.mystreetscape.com | h-5h8i3ud8.online-metrix.net |
 | cfa.streetscape.com | h-5h8i3ud8.online-metrix.net |
@@ -1022,6 +1028,7 @@
 | pn1927.coutts.com | h-coutts.online-metrix.net |
 | pn1927.couttscrowndependencies.com | h-couttscrowndependencies.online-metrix.net |
 | tm.cox.com | h-cox.online-metrix.net |
+| threatmetrix.lendingclub.com | h-cpsqwxyc.online-metrix.net |
 | rhino.gocardless.com | h-cpuoahbo.online-metrix.net |
 | dfp.mcdonalds.fr | h-cqjaju73.online-metrix.net |
 | appscore.credilike.me | h-credilikeme.online-metrix.net |

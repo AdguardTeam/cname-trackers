@@ -728,6 +728,7 @@ static.openrtb.in CNAME .
 static.qksrv.biz CNAME .
 static.qksrv.cc CNAME .
 static.qksrv1.com CNAME .
+static.xrtb.io CNAME .
 sub.adzgame.com CNAME .
 sv-pval.looksmart.com CNAME .
 sv-query.looksmart.com CNAME .

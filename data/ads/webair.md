@@ -1887,6 +1887,7 @@
 | static.fstsrv1.com | n3e6p9m4.stackpathcdn.com |
 | static.fstsrv2.com | n3e6p9m4.stackpathcdn.com |
 | static.fstsrv3.com | n3e6p9m4.stackpathcdn.com |
+| static.fstsrv4.com | n3e6p9m4.stackpathcdn.com |
 | static.qksrv.biz | n3e6p9m4.stackpathcdn.com |
 | static.qksrv.cc | n3e6p9m4.stackpathcdn.com |
 | static.qksrv1.com | n3e6p9m4.stackpathcdn.com |
@@ -2266,6 +2267,7 @@
 | c.cgmission.com | xapads.xml.ak-is2.net |
 | xml-rtb.xapads.com | xapads.xml.ak-is2.net |
 | static.openrtb.in | xapads.xs.ak-is2.net |
+| static.xrtb.io | xapads.xs.ak-is2.net |
 | vid-static.xapads.com | xapads.xs.ak-is2.net |
 | click-rtb2-apac.xaprio.net | xaprio.click-apac.ak-is2.net |
 | click-rtb2-eu.xaprio.net | xaprio.click-eu.ak-is2.net |

@@ -336,6 +336,7 @@
 ||3405017.notify6.com^
 ||3405035.notifysrv.com^
 ||3405043.notifysrv.com^
+||3405103.notify6.com^
 ||3405103.notifysrv.com^
 ||3405133.notify6.com^
 ||3405133.notifysrv.com^
@@ -579,6 +580,7 @@
 ||3619313.notifysrv.com^
 ||3621331.notifysrv.com^
 ||3621333.notifysrv.com^
+||3622827.notify6.com^
 ||3629687.notify6.com^
 ||3629687.notifysrv.com^
 ||3629693.notify6.com^
@@ -650,6 +652,7 @@
 ||3832097.notifysrv.com^
 ||3837365.notifysrv.com^
 ||3837607.notifysrv.com^
+||3843075.notify6.com^
 ||3843075.notifysrv.com^
 ||3845405.notify6.com^
 ||3849719.notify6.com^
@@ -673,6 +676,7 @@
 ||3884584.notify6.com^
 ||3887544.notify6.com^
 ||3898244.notify6.com^
+||3898378.notify6.com^
 ||3903164.notify6.com^
 ||3911078.notify6.com^
 ||3917502.notify6.com^
@@ -699,6 +703,7 @@
 ||3950056.notify6.com^
 ||3950664.notify6.com^
 ||3950808.notify6.com^
+||3957976.notify6.com^
 ||3959278.notify6.com^
 ||3959292.notify6.com^
 ||3960141.notify6.com^
@@ -961,6 +966,7 @@
 ||s.elna1w.com^
 ||s.elna1x.com^
 ||s.elnk4b.com^
+||s.elnk4d.com^
 ||s.elnk90.com^
 ||s.elnk92.com^
 ||s.elnk93.com^
@@ -1030,9 +1036,11 @@
 ||syndication.whibp.com^
 ||syndication0.exoclick.com^
 ||t.optzsrv.com^
+||www.3191479.notifysrv.com^
 ||www.3227697.notify6.com^
 ||www.3243082.notifysrv.com^
 ||www.3466863.notify6.com^
 ||www.4152316.notify6.com^
 ||www.notify6.com^
 ||www.notifysrv.com^
+||xn--3225689-o06c.notifysrv.com^

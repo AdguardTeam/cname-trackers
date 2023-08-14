@@ -126,6 +126,7 @@
     * 2ndswing.extole.io
     * 4patriots.extole.io
     * 4wheelparts.extole.io
+    * aaaeagles.extole.io
     * abacusnext.extole.io
     * acornonline.extole.io
     * acorns-sandbox.extole.io
@@ -283,6 +284,7 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -479,12 +481,14 @@
     * thesculptsociety.extole.io
     * thewalkingcompany.extole.io
     * thewildest.extole.io
+    * thirdlove.extole.io
     * tillys.extole.io
     * todoist.extole.io
     * tommy.extole.io
     * tomorrowsleep.extole.io
     * tous-jewelry.extole.io
     * trafalgar.extole.io
+    * travelzoo.extole.io
     * truckstop.extole.io
     * tweglobal.extole.io
     * twisthair.extole.io
@@ -542,6 +546,7 @@
 | refer.2ndswing.com | 2ndswing.extole.io |
 | share.4patriots.com | 4patriots.extole.io |
 | share.4wheelparts.com | 4wheelparts.extole.io |
+| share.cluballiance.aaa.com | aaaeagles.extole.io |
 | refer.midatlantic.aaa.com | aaamid-atlantic.extole.com |
 | refer.aaas.org | aaas-ssl.extole.com |
 | refer.abacusnext.com | abacusnext.extole.io |
@@ -797,6 +802,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1086,6 +1092,7 @@
 | refer.thesculptsociety.com | thesculptsociety.extole.io |
 | refer.thewalkingcompany.com | thewalkingcompany.extole.io |
 | refer.thewildest.com | thewildest.extole.io |
+| refer.thirdlove.com | thirdlove.extole.io |
 | share.tillys.com | tillys.extole.io |
 | refer.timberland.com | timberland.extole.com |
 | refer.sharetodoist.com | todoist.extole.io |
@@ -1095,6 +1102,7 @@
 | refer.tous.com | tous-jewelry.extole.io |
 | share.trafalgar.com | trafalgar.extole.io |
 | refer.transfast.com | transfast.extole.com |
+| share.travelzoo.com | travelzoo.extole.io |
 | share.truckstop.com | truckstop.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
 | share.bvwines.com | tweglobal.extole.io |

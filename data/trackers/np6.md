@@ -126,6 +126,7 @@
 | tr.b2d1.espmp-agfr.net | tracking.bp01.net |
 | tr.b2d1068.espmp-nifr.net | tracking.bp01.net |
 | tr.b2d106z.espmp-aufr.net | tracking.bp01.net |
+| tr.b2d107b.espmp-aufr.net | tracking.bp01.net |
 | tr.bati-partner.be | tracking.bp01.net |
 | tr.bati-partners.be | tracking.bp01.net |
 | tr.batirenover.info | tracking.bp01.net |
@@ -358,7 +359,6 @@
 | tr.emailing.canalsat.ch | tracking.bp01.net |
 | tr.emailing.cifea-mkg.com | tracking.bp01.net |
 | tr.emailing.cnam-paysdelaloire.fr | tracking.bp01.net |
-| tr.emailing.coe.int | tracking.bp01.net |
 | tr.emailing.cstar.fr | tracking.bp01.net |
 | tr.emailing.detours.canal.fr | tracking.bp01.net |
 | tr.emailing.grassavoye.com | tracking.bp01.net |
@@ -561,6 +561,7 @@
 | tr.mail.moncoupdepouce.com | tracking.bp01.net |
 | tr.mail.primevere.com | tracking.bp01.net |
 | tr.mail.satisfactory.fr | tracking.bp01.net |
+| tr.mail.solocal.com | tracking.bp01.net |
 | tr.mail.vip-mag.co.uk | tracking.bp01.net |
 | tr.mail.vipmag.fr | tracking.bp01.net |
 | tr.mail.vo3000.com | tracking.bp01.net |

@@ -258,6 +258,7 @@
 ||privacy.heineken.it^
 ||privacy.heishop.com.br^
 ||privacy.interestfree.com.au^
+||privacy.latitudefinancial.co.nz^
 ||privacy.latitudefinancial.com^
 ||privacy.latitudefinancial.com.au^
 ||privacy.latitudepay.com^

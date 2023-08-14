@@ -1,6 +1,7 @@
 #
 # Company name: Actionlink.jp
 actionlk.ozie.co.jp
+al.apros.co.jp
 al.ballon.jp
 al.bath-ec.com
 al.caetus.jp

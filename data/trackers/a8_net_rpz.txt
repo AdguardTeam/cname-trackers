@@ -23,6 +23,7 @@ a8.asdf.co.jp CNAME .
 a8.au-hikarinet.com CNAME .
 a8.avalon-works.com CNAME .
 a8.b-cafe.net CNAME .
+a8.bambi-craft.com CNAME .
 a8.bandel.jp CNAME .
 a8.banninkun.com CNAME .
 a8.benro.jp CNAME .
@@ -170,7 +171,6 @@ a8.mochu.jp CNAME .
 a8.mogurun.com CNAME .
 a8.moku.info CNAME .
 a8.mosh.jp CNAME .
-a8.msline.health CNAME .
 a8.musbell.co.jp CNAME .
 a8.n-pri.jp CNAME .
 a8.nanafu.tokyo CNAME .
@@ -179,6 +179,7 @@ a8.nengahonpo.com CNAME .
 a8.nengajyo.co.jp CNAME .
 a8.nitta-gelatin.jp CNAME .
 a8.nosh.jp CNAME .
+a8.novicetokyo.com CNAME .
 a8.o-tayori.com CNAME .
 a8.obihiro-butaichi.jp CNAME .
 a8.ocnk.net CNAME .
@@ -348,6 +349,7 @@ a8clk.bresmile.jp CNAME .
 a8clk.bstyle.store CNAME .
 a8clk.bungeisha.co.jp CNAME .
 a8clk.buy-master.com CNAME .
+a8clk.buyking.club CNAME .
 a8clk.camerakaitori.jp CNAME .
 a8clk.campaigns.speed-kaitori.jp CNAME .
 a8clk.car-mo.jp CNAME .
@@ -491,6 +493,7 @@ a8clk.nenga.fumiiro.jp CNAME .
 a8clk.netowl.jp CNAME .
 a8clk.nikkoudou-kottou.com CNAME .
 a8clk.nissen.co.jp CNAME .
+a8clk.nobirun.jp CNAME .
 a8clk.nta.co.jp CNAME .
 a8clk.nyandaful.jp CNAME .
 a8clk.okawa-god.jp CNAME .
@@ -651,6 +654,7 @@ a8cv.atgp.jp CNAME .
 a8cv.auhikari-bykddi.com CNAME .
 a8cv.b-concept.tokyo CNAME .
 a8cv.b-mobilerental.com CNAME .
+a8cv.babybjorn.jp CNAME .
 a8cv.bb-internet-qsyu.net CNAME .
 a8cv.bbt757.com CNAME .
 a8cv.be-slim-spbikyou.com CNAME .
@@ -729,6 +733,7 @@ a8cv.e-d-v-j.co.jp CNAME .
 a8cv.e-earphone.jp CNAME .
 a8cv.e-stretch-diet.com CNAME .
 a8cv.eakindo.com CNAME .
+a8cv.ec.oliveunion.com CNAME .
 a8cv.eco-ring.com CNAME .
 a8cv.ecodepa.jp CNAME .
 a8cv.eeo.today CNAME .
@@ -786,6 +791,7 @@ a8cv.heybit.io CNAME .
 a8cv.hilife-group.com CNAME .
 a8cv.hoken-laundry.com CNAME .
 a8cv.holo-bell.com CNAME .
+a8cv.homepage296.com CNAME .
 a8cv.honeys-onlineshop.com CNAME .
 a8cv.hoppin-garage.com CNAME .
 a8cv.hor.jp CNAME .
@@ -796,6 +802,7 @@ a8cv.humming-water.com CNAME .
 a8cv.hyperknife.info CNAME .
 a8cv.i-office1.net CNAME .
 a8cv.icoi.style CNAME .
+a8cv.ieagent.jp CNAME .
 a8cv.iekoma.com CNAME .
 a8cv.iikyujin.net CNAME .
 a8cv.ikapula.com CNAME .
@@ -1229,6 +1236,7 @@ kaden.netoff.co.jp CNAME .
 kobetu.grand1corp.com CNAME .
 listing-a8-itp.hello-storage.com CNAME .
 mvc.shopjapan.co.jp CNAME .
+ntt-fletscv.ntt-flets.com CNAME .
 onenet.gakujutsu.com CNAME .
 p004.raffi-hair.com CNAME .
 p005.raffi-hair.com CNAME .

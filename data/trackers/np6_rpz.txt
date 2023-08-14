@@ -106,6 +106,7 @@ tr.axa.espmp-aufr.net CNAME .
 tr.b2d1.espmp-agfr.net CNAME .
 tr.b2d1068.espmp-nifr.net CNAME .
 tr.b2d106z.espmp-aufr.net CNAME .
+tr.b2d107b.espmp-aufr.net CNAME .
 tr.bati-partner.be CNAME .
 tr.bati-partners.be CNAME .
 tr.batirenover.info CNAME .
@@ -338,7 +339,6 @@ tr.emailing.canalpro.fr CNAME .
 tr.emailing.canalsat.ch CNAME .
 tr.emailing.cifea-mkg.com CNAME .
 tr.emailing.cnam-paysdelaloire.fr CNAME .
-tr.emailing.coe.int CNAME .
 tr.emailing.cstar.fr CNAME .
 tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
@@ -541,6 +541,7 @@ tr.mail.mdbp.fr CNAME .
 tr.mail.moncoupdepouce.com CNAME .
 tr.mail.primevere.com CNAME .
 tr.mail.satisfactory.fr CNAME .
+tr.mail.solocal.com CNAME .
 tr.mail.vip-mag.co.uk CNAME .
 tr.mail.vipmag.fr CNAME .
 tr.mail.vo3000.com CNAME .

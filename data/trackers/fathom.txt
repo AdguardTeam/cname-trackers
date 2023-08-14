@@ -174,10 +174,10 @@
 ||catfish.sofatido.ch^
 ||catshark.janetalexandersson.com^
 ||catshark.spur.design^
-||cattle.ajyd.org.au^
 ||cattle.apisyouwonthate.com^
 ||cattle.domaincomet.com^
 ||cattle.driftbot.io^
+||cattle.elitecanines.com.au^
 ||cattle.eprc.tools^
 ||cattle.herojob.de^
 ||cattle.kirkebaekke.dk^
@@ -241,6 +241,7 @@
 ||coyote.txet.ch^
 ||crab.dunkeldbutchers.co.uk^
 ||crab.goalcanvas.com^
+||crane.auctic.com^
 ||crane.maggsgroup.com^
 ||crane.thegardenroomguide.co.uk^
 ||crane.trescolori.cloud^
@@ -325,7 +326,6 @@
 ||elk.okcrowd.co^
 ||elk.ritterhilgerstuetz.de^
 ||elk.techphotoguy.com^
-||emu.andenglish.co^
 ||emu.blitzpower.com^
 ||emu.cortexfutura.com^
 ||emu.motala.no^
@@ -418,7 +418,6 @@
 ||guanaco.redpixelthemes.com^
 ||guanaco.shelter.stream^
 ||guineapig.espressive.com^
-||guineapig.recap.io^
 ||guineapig.themenaffin.de^
 ||gull.mayansmithgobat.com^
 ||guppy.ausowned.com.au^
@@ -450,6 +449,7 @@
 ||heron.scarletnoir.co^
 ||herring.artemis.cloud^
 ||herring.panda.network^
+||herring.superfast.dev^
 ||hookworm.campaignzee.com^
 ||hornet.energizer.co.za^
 ||hornet.jeffgable.com^
@@ -477,6 +477,7 @@
 ||hyena.baseline.is^
 ||hyena.kitafund.com^
 ||hyena.m1guelpf.blog^
+||hyena.wearegray.co^
 ||i5ixiwch2f.themakersmob.com^
 ||iguana.delbaoliveira.com^
 ||iguana.indigospot.com^
@@ -540,7 +541,6 @@
 ||landsnail.garasjeport1.no^
 ||landsnail.motin.eu^
 ||lark.pollie.dev^
-||lark.reuben.gr.com^
 ||leech.fuchsegg.at^
 ||leech.privacycloud.com^
 ||leech.stargate-project.de^
@@ -605,7 +605,6 @@
 ||marsupial.dbcontractingltd.ca^
 ||marsupial.kymellis.co^
 ||marten.countertype.com^
-||marten.emperor-creative.com^
 ||marten.joqr.co.jp^
 ||marten.supernero.app^
 ||mastodon.internalnewsletters.co^
@@ -743,7 +742,6 @@
 ||porpoise.fruittreecottage.com.au^
 ||porpoise.jackwhiting.co.uk^
 ||porpoise.numberzs.com^
-||possum.whendoesthemarketopen.com^
 ||prairiedog.hashnode.com^
 ||prawn.fffuel.co^
 ||prawn.lionsmouth.digital^
@@ -914,6 +912,7 @@
 ||tigershark.paavanmagic.com^
 ||tigershark.vandevliet.me^
 ||tiglon.beyondco.de^
+||tiglon.davidroessli.com^
 ||tortoise.transistor.fm^
 ||toucan.ateliermilky.com^
 ||toucan.the-faithful.com^
@@ -941,6 +940,7 @@
 ||vampirebat.stiftung-palliativ-zuhause.de^
 ||vampirebat.tinamrak.com^
 ||vicuna.callisoma.com^
+||vicuna.casa-moebel.at^
 ||vicuna.fortbinary.com^
 ||vicuna.joblicant.de^
 ||vicuna.mybestproducts.net^
@@ -975,6 +975,7 @@
 ||wildebeest.theheritagelodge.com^
 ||wildebeest.trigo.dev^
 ||wildfowl.minter.io^
+||wolf.idthompson.com^
 ||wolf.samarasousa.com^
 ||wolverine.barac.at^
 ||wolverine.jhdierenklinieken.nl^
@@ -1002,14 +1003,12 @@
 ||bass.goulet.dev^
 ||bee.farmaciavdg.com^
 ||bison.equals.community^
-||cattle.elitecanines.com.au^
 ||cheetah.stolenboats.info^
 ||crow.centresustains.com^
 ||dog.recon.guru^
 ||donkey.masteringfinland.com^
 ||dove.ased.org^
 ||guineapig.magnatkaffehus.no^
-||hyena.wearegray.co^
 ||llama.whatcha.io^
 ||loon.analogjoe.com^
 ||loon.jrmyfranck.com^
@@ -1033,7 +1032,6 @@
 ||tigershark.hasanahmad.ca^
 ||tigershark.integratecolumbus.org^
 ||tigershark.oilpriceapi.com^
-||vicuna.casa-moebel.at^
 ||walrus.blindemployment.solutions^
 ||walrus.scalue.com^
 ||z3k9si.covid-resources.com^

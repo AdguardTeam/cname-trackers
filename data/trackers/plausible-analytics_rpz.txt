@@ -166,6 +166,7 @@ pa-stats.encore.dev CNAME .
 pa.opqr.co CNAME .
 pa.travelwhiz.app CNAME .
 pan.render.com CNAME .
+peards.zevvle.com CNAME .
 pine.clk.click CNAME .
 pine.nervecentral.com CNAME .
 ping.cavelab.dev CNAME .
@@ -310,7 +311,6 @@ pls.fcrpg.net CNAME .
 pls.skycastle.dev CNAME .
 plsbl-staging.edison.se CNAME .
 plsbl.edison.se CNAME .
-pm.redbull.com CNAME .
 prism.buerokrucker.ch CNAME .
 prism.drivingkyoto.com CNAME .
 prism.netherlandlines.com CNAME .
@@ -526,6 +526,7 @@ stats.dflydev.com CNAME .
 stats.diarmuidsexton.com CNAME .
 stats.digiexpert.store CNAME .
 stats.divyanshu013.dev CNAME .
+stats.dmail.co.nz CNAME .
 stats.dmarcdigests.com CNAME .
 stats.doana-r.com CNAME .
 stats.domhabersack.com CNAME .
@@ -606,7 +607,6 @@ stats.getpickaxe.com CNAME .
 stats.ghinda.com CNAME .
 stats.gigride.live CNAME .
 stats.glassmountains.co.uk CNAME .
-stats.glyde.com.br CNAME .
 stats.glyphs.fyi CNAME .
 stats.gnalt.de CNAME .
 stats.goldsguide.com CNAME .
@@ -671,6 +671,7 @@ stats.jamesilesantiques.com CNAME .
 stats.jamhouse.app CNAME .
 stats.jansix.at CNAME .
 stats.jasonludden.dev CNAME .
+stats.jauer.it CNAME .
 stats.jawebb.se CNAME .
 stats.jdheyburn.co.uk CNAME .
 stats.jerickson.net CNAME .
@@ -723,6 +724,7 @@ stats.lestypesdefarine.fr CNAME .
 stats.liamdavis.dev CNAME .
 stats.lica.at CNAME .
 stats.lik.fr CNAME .
+stats.lilacphilly.org CNAME .
 stats.limitlessnetworks.eu CNAME .
 stats.lindalindsaysculpture.com CNAME .
 stats.literacysomerset.org CNAME .
@@ -873,7 +875,6 @@ stats.rymawby.com CNAME .
 stats.s-zt.at CNAME .
 stats.sahpa.co.za CNAME .
 stats.sakurasky.com CNAME .
-stats.salonsuites.com CNAME .
 stats.sapnininkas.com CNAME .
 stats.sascha-theobald.de CNAME .
 stats.savoirplus-risquermoins.net CNAME .
@@ -922,6 +923,7 @@ stats.sunpeaksstables.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svemir.co CNAME .
 stats.symbiofest.cz CNAME .
+stats.table.party CNAME .
 stats.tablepeninsula.ca CNAME .
 stats.tedserbinski.com CNAME .
 stats.teenranch.com CNAME .
@@ -931,6 +933,7 @@ stats.thedale.org CNAME .
 stats.theiere-tasse.com CNAME .
 stats.thelandofar.be CNAME .
 stats.thenewradiance.com CNAME .
+stats.theopenice.com CNAME .
 stats.thingsthatkeepmeupatnight.dev CNAME .
 stats.thomasbandt.com CNAME .
 stats.thomasfroese.com CNAME .
@@ -944,6 +947,7 @@ stats.tl8.io CNAME .
 stats.tms-development.com CNAME .
 stats.tms-development.de CNAME .
 stats.toiletmap.org.uk CNAME .
+stats.torquaypac.ca CNAME .
 stats.training.fit CNAME .
 stats.travelfodder.com CNAME .
 stats.trenntoi.de CNAME .
@@ -987,6 +991,7 @@ stats.wwdcscholars.com CNAME .
 stats.www.agirpourlenvironnement.org CNAME .
 stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .
+stats.xn--antnio-dxa.pt CNAME .
 stats.xn--drivation-b4a.fr CNAME .
 stats.yourdallashandyman.com CNAME .
 stats.zehta.me CNAME .
@@ -1015,6 +1020,7 @@ views.ericcapella.com CNAME .
 views.sikerlogistics.com CNAME .
 views.sikerproducts.com CNAME .
 visite.scambi.org CNAME .
+visitorcenter.ioafw.com CNAME .
 visitorcenter.srwild.com CNAME .
 visitors.gigianddavid.com CNAME .
 we-love-privacy.humane.club CNAME .

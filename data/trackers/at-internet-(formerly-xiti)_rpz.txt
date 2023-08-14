@@ -69,7 +69,6 @@ mango.seloger.com CNAME .
 mediniku.viessmann.lt CNAME .
 mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
-mond.post.ch CNAME .
 montpalatin.handicap.fr CNAME .
 pear.ca-eko-globetrotter.fr CNAME .
 pear.youzful-by-ca.fr CNAME .

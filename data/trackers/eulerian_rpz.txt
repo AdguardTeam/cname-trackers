@@ -47,7 +47,6 @@ aod4.societegenerale.fr CNAME .
 ar.allrun.fr CNAME .
 ar.i-run.fr CNAME .
 azg1.emalu-store.com CNAME .
-b1n.carabins.umontreal.ca CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
 bft5.destinia.fr CNAME .
@@ -508,6 +507,7 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
+b1n.carabins.umontreal.ca CNAME .
 d0f.le-dauphin.com CNAME .
 d2u.dauphinquebec.com CNAME .
 hk2d.tourismemauricie.com CNAME .
