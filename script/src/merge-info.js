@@ -38,12 +38,8 @@ const mergeDomainsInfo = async (oldInfo, fetchedDomainsInfo) => {
     // transforms a list of key-value pairs from array into an object with pairs
     const newInfo = Object.fromEntries(pairsToEntries(newInfoPairs));
 
-    // validate domains name in cname chain
+    // validate domain names in cname chain
     const filteredNewInfo = getValidCname(newInfo);
-
-    // const filteredOldInfo = Object.fromEntries(
-    //     Object.entries(oldInfo).filter(([key, value]) => psl.isValid(key) || psl.isValid(value)),
-    // );
 
     const removedDiff = getRemoved(oldInfo, filteredNewInfo);
 
