@@ -4,6 +4,7 @@ const {
     getRemoved,
     getValidPairsFromRemoved,
     getOrderedByDisguisePairs,
+    getValidCname,
 } = require('./helpers');
 
 /**
@@ -37,7 +38,15 @@ const mergeDomainsInfo = async (oldInfo, fetchedDomainsInfo) => {
     // transforms a list of key-value pairs from array into an object with pairs
     const newInfo = Object.fromEntries(pairsToEntries(newInfoPairs));
 
-    const removedDiff = getRemoved(oldInfo, newInfo);
+    // validate domains name in cname chain
+    const filteredNewInfo = getValidCname(newInfo);
+
+    // const filteredOldInfo = Object.fromEntries(
+    //     Object.entries(oldInfo).filter(([key, value]) => psl.isValid(key) || psl.isValid(value)),
+    // );
+
+    const removedDiff = getRemoved(oldInfo, filteredNewInfo);
+
     const validRemovedPairs = await getValidPairsFromRemoved(removedDiff);
 
     const mergedPairs = [

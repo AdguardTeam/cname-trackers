@@ -5,6 +5,10 @@ const {
     JSON_FILE_EXTENSION,
 } = require('./constants');
 
+const {
+    getValidCname,
+} = require('./helpers');
+
 const DATA_DIR_PATH = './../data';
 
 /**
@@ -33,8 +37,10 @@ const getOldData = async (dirNames) => {
             const fileName = file.replace('.json', '');
             // trackers data
             const fileContent = await fs.readFile(path.resolve(dirPath, file));
+            // keeps only valid domains name
+            const validFileContent = getValidCname(JSON.parse(fileContent));
             // record old data by company name key
-            oldRawDataObject[fileName] = JSON.parse(fileContent);
+            oldRawDataObject[fileName] = validFileContent;
         });
 
         await Promise.all(writeJsonData);

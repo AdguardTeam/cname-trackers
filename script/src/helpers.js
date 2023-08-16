@@ -1,10 +1,20 @@
 const { promises: dns } = require('dns');
 const fs = require('fs-extra');
 const path = require('path');
+const psl = require('psl');
 
 const { COMBINED_RULES_FILE_NAME_BASE } = require('./constants');
 
 const DATA_DIR_PATH = './../data';
+
+/**
+ * Keeps only valid domain names
+ * @param {Object} cnamePairs
+ * @returns {Object}
+ */
+const getValidCname = (cnamePairs) => (Object.fromEntries(
+    Object.entries(cnamePairs).filter(([key, value]) => psl.isValid(key) && psl.isValid(value)),
+));
 
 /**
  * Creates name for combined disguised files
@@ -306,6 +316,7 @@ const stashInfoPairs = async (pairs) => {
 };
 
 module.exports = {
+    getValidCname,
     createCombinedFileName,
     writeCombinedFile,
     createBaseRule,

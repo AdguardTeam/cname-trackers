@@ -8,16 +8,22 @@ const IN_PROGRESS_STATUS = 'Operation in progress';
 
 // First request to api returns url, with oid, we should use it in the retrying requests
 const makeRequestToApi = async (domain, oid) => {
+    // create URL object
     const requestUrl = new URL(CLOAKED_API);
+    // append domain as a new search parameter
     requestUrl.searchParams.append('domain', domain);
-
+    // append oid as a new search parameter
     if (oid) {
         requestUrl.searchParams.append('oid', oid);
     }
-
+    // get request from URL object
     return axios.get(requestUrl.toString());
 };
-
+/**
+ * Get the value of oid parameter
+ * @param {string} url
+ * @returns {string}
+ */
 const getOid = (url) => {
     const responseUrl = new URL(url);
     return responseUrl.searchParams.get('oid');
@@ -65,7 +71,7 @@ const fetchWithRetry = async (domain) => {
             await sleep(RETRY_TIMOUT_MS);
             return retryFn(domain, oid, retryCount + 1);
         }
-
+        // return data from axios request
         return response.data;
     };
 
