@@ -74,6 +74,7 @@
     * opensky.extole.com
     * oriental-trading.extole.com
     * ozforex-au.extole.com
+    * ozforex-nz.extole.com
     * ozforex-uk.extole.com
     * ozforex-us.extole.com
     * pageonce.extole.com
@@ -154,7 +155,6 @@
     * athleta.extole.io
     * atlasbars.extole.io
     * aveda-au.extole.io
-    * aveda-ca.extole.io
     * aveda-uk.extole.io
     * aveda.extole.io
     * avocado-mattress.extole.io
@@ -241,6 +241,7 @@
     * ds-laboratories.extole.io
     * dutch.extole.io
     * ea.extole.io
+    * earlybirdbooks.extole.io
     * elysiumhealth.extole.io
     * embrace-pet-insurance.extole.io
     * empathywines.extole.io
@@ -284,7 +285,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -310,7 +310,6 @@
     * inspire-clean-energy.extole.io
     * installamerica.extole.io
     * issaonline.extole.io
-    * it-cosmetics.extole.io
     * itbed.extole.io
     * iteach.extole.io
     * jewelersmutual.extole.io
@@ -589,7 +588,6 @@
 | refer.athletawell.com | athleta.extole.io |
 | share.atlasbars.com | atlasbars.extole.io |
 | share.aveda.com.au | aveda-au.extole.io |
-| share.refer-aveda.ca | aveda-ca.extole.io |
 | share.refer-aveda.co.uk | aveda-uk.extole.io |
 | refer.aveda.com | aveda.extole.io |
 | share.refer-aveda.com | aveda.extole.io |
@@ -713,6 +711,7 @@
 | share.dslaboratories.com | ds-laboratories.extole.io |
 | share.dutch.com | dutch.extole.io |
 | refer.ea.com | ea.extole.io |
+| share.earlybirdbooks.com | earlybirdbooks.extole.io |
 | friend.ebags.com | ebags.extole.com |
 | share.elysiumhealth.com | elysiumhealth.extole.io |
 | refer.embracepetinsurance.com | embrace-pet-insurance.extole.io |
@@ -767,6 +766,7 @@
 | share.kitsapsun.com | gannett.extole.io |
 | share.knoxnews.com | gannett.extole.io |
 | share.mansfieldnewsjournal.com | gannett.extole.io |
+| share.montgomeryadvertiser.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
 | share.patriotledger.com | gannett.extole.io |
 | share.pnj.com | gannett.extole.io |
@@ -802,7 +802,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -843,7 +842,6 @@
 | refer.accountants.intuit.com | intuit-accountants.extole.com |
 | refer.payroll.intuit.com | iop.extole.com |
 | refer.issaonline.com | issaonline.extole.io |
-| refer.itcosmetics.com | it-cosmetics.extole.io |
 | refer.itbed.com | itbed.extole.io |
 | share.iteach.net | iteach.extole.io |
 | refer.jacksonsun.com | jacksonsun.extole.com |
@@ -943,6 +941,7 @@
 | refer.ouidad.com | ouidad.extole.io |
 | refer.ofx.com | ozforex-au.extole.com |
 | refer.ozforex.com.au | ozforex-au.extole.com |
+| refer.nzforex.co.nz | ozforex-nz.extole.com |
 | refer.ukforex.co.uk | ozforex-uk.extole.com |
 | refer.usforex.com | ozforex-us.extole.com |
 | refer.pacificservice.org | pacific-service.extole.io |

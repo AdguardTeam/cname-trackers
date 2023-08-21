@@ -345,6 +345,7 @@ tr.emailing.grassavoye.com
 tr.emailing.pogioclub.be
 tr.emailing.studiocanal.com
 tr.emailium.fr
+tr.emc.moethennessy.com
 tr.enedis-infos.fr
 tr.enews.customsolutions.fr
 tr.engie-globalenergy.info
@@ -400,6 +401,7 @@ tr.info-btob-leaders.com
 tr.info-carte.fr
 tr.info-companeo.be
 tr.info-fr.assurant.com
+tr.info-jeux.paris.fr
 tr.info-pro.promoneuve.fr
 tr.info-strategie.fr
 tr.info.actionlogement.fr
@@ -980,6 +982,7 @@ tr.update.groupon.be
 tr.urfk02r.espmp-nifr.net
 tr.urfk02v.espmp-cufr.net
 tr.urfk02z.espmp-nifr.net
+tr.urfk03c.espmp-nifr.net
 tr.urfk03h.espmp-nifr.net
 tr.urfk03k.espmp-agfr.net
 tr.urfk03q.espmp-nifr.net

@@ -192,6 +192,7 @@
     * a39324ce-fgpe2gow.cname.ebis.ne.jp
     * a4ba7b93-e2mmxp45.cname.ebis.ne.jp
     * a5ede5f5-sn9wfkl3.cname.ebis.ne.jp
+    * a60ae4bd-makeshop.cname.ebis.ne.jp
     * a6688744-0p7lzdhu.cname.ebis.ne.jp
     * a69be8f2-nztumxtt.cname.ebis.ne.jp
     * a6a5d774-vsrgbn9q.cname.ebis.ne.jp
@@ -489,6 +490,7 @@
 | adex.naruko333.jp | a39324ce-fgpe2gow.cname.ebis.ne.jp |
 | cnameebis.usagi-online.com | a4ba7b93-e2mmxp45.cname.ebis.ne.jp |
 | adebis01.job-con.jp | a5ede5f5-sn9wfkl3.cname.ebis.ne.jp |
+| ebis.makeshop.jp | a60ae4bd-makeshop.cname.ebis.ne.jp |
 | adebis8628.matsui.co.jp | a6688744-0p7lzdhu.cname.ebis.ne.jp |
 | mgn.ebis.xn--olsz5f0ufw02b.net | a69be8f2-nztumxtt.cname.ebis.ne.jp |
 | adebis.thd-web.jp | a6a5d774-vsrgbn9q.cname.ebis.ne.jp |

@@ -66,6 +66,7 @@ refer.montgomeryadvertiser.com
 refer.moo.com
 refer.myplant.com
 refer.nvidia.com
+refer.nzforex.co.nz
 refer.offset.com
 refer.ofx.com
 refer.ooma.com
@@ -124,7 +125,6 @@ www.trevoce.com
 amp.bfr.com
 demo.extole.com
 earn-and-refer.extoleu.com
-em8561.go2bank.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -252,7 +252,6 @@ refer.incommonbeauty.com
 refer.indeed.com
 refer.issaonline.com
 refer.itbed.com
-refer.itcosmetics.com
 refer.jewelersmutual.com
 refer.jiffynewark.com
 refer.joann.com
@@ -464,6 +463,7 @@ share.docmorris.fr
 share.dslaboratories.com
 share.dunlopsports.com
 share.dutch.com
+share.earlybirdbooks.com
 share.elpasotimes.com
 share.elysiumhealth.com
 share.empathywines.com
@@ -518,6 +518,7 @@ share.mamabearlegalforms.com
 share.mansfieldnewsjournal.com
 share.medely.com
 share.meettally.com
+share.montgomeryadvertiser.com
 share.mtntough.com
 share.mycarpe.com
 share.myollie.com
@@ -544,7 +545,6 @@ share.poughkeepsiejournal.com
 share.princess.com
 share.promofarma.com
 share.redding.com
-share.refer-aveda.ca
 share.refer-aveda.co.uk
 share.refer-aveda.com
 share.refer-bumbleandbumble.co.uk
@@ -626,4 +626,5 @@ share.zenbusiness.com
 www.referquickbooks.com
 em1476.princesscruises.com
 em4367.raf-studentloans.discover.com
+em8561.go2bank.com
 sftp.extole.com

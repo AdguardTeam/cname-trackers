@@ -131,7 +131,6 @@
 * natgeo.tns-dk.2cnt.net
 * nembillet.tns-dk.2cnt.net
 * newsb.tns-dk.2cnt.net
-* nomos.vgwort-de.2cnt.net
 * nordjyske.tns-dk.2cnt.net
 * pl01.prolitteris.2cnt.net
 * pleasure.tns-dk.2cnt.net
@@ -181,6 +180,7 @@
 * ssl-bureaubiz.tns-dk.2cnt.net
 * ssl-business.tns-dk.2cnt.net
 * ssl-camping.tns-dk.2cnt.net
+* ssl-chip.vgwort-de.2cnt.net
 * ssl-computerworld.tns-dk.2cnt.net
 * ssl-costume.tns-dk.2cnt.net
 * ssl-dagbladetringskjern.tns-dk.2cnt.net
@@ -290,7 +290,6 @@
 * ssl-valutakurser.tns-dk.2cnt.net
 * ssl-vdonline.tns-dk.2cnt.net
 * ssl-vg03.vgwort-de.2cnt.net
-* ssl-viaplaystream.tns-dk.2cnt.net
 * ssl-videnskab.tns-dk.2cnt.net
 * ssl-watchmedier.tns-dk.2cnt.net
 * ssl-weeka-eavis.tns-dk.2cnt.net
@@ -298,6 +297,7 @@
 * ssl-welt.vgwort-de.2cnt.net
 * ssl-wolterskluwer.vgwort-de.2cnt.net
 * ssl-woman.tns-dk.2cnt.net
+* ssl-zeit.vgwort-de.2cnt.net
 * stern.vgwort-de.2cnt.net
 * stiften.tns-dk.2cnt.net
 * storedk.tns-dk.2cnt.net
@@ -457,7 +457,6 @@
 | natgeo.tns-gallup.dk | natgeo.tns-dk.2cnt.net |
 | nembillet.tns-gallup.dk | nembillet.tns-dk.2cnt.net |
 | newsb.tns-gallup.dk | newsb.tns-dk.2cnt.net |
-| nomos.met.vgwort.de | nomos.vgwort-de.2cnt.net |
 | nordjyske.tns-gallup.dk | nordjyske.tns-dk.2cnt.net |
 | pl01.owen.prolitteris.ch | pl01.prolitteris.2cnt.net |
 | pl02.owen.prolitteris.ch | pl02.prolitteris.2cnt.net |
@@ -488,7 +487,6 @@
 | ssl-boxerandroidstream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
 | ssl-drtvosstream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
 | ssl-glentenandroidstream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
-| ssl-viaplaystream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
 | ssl-viaplaystream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
 | ssl-boxerstream.tns-gallup.dk | slb-tns-dk-pool05.tns-dk.2cnt.net |
 | ssl-stofaandroidstream.tns-gallup.dk | slb-tns-dk-pool05.tns-dk.2cnt.net |
@@ -576,7 +574,6 @@
 | manager.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | mzweb.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | nomos.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
-| nomos.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | rp-online.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | spiegel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | spiegel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -635,6 +632,7 @@
 | ssl-thieme.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-vg03.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | ssl-zeit.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
+| ssl-zeit.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | thieme.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | vg03.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
 | vg03.met.vgwort.de | slb-vgwort-de-pool03.vgwort-de.2cnt.net |
@@ -676,6 +674,7 @@
 | ssl-bureaubiz.tns-gallup.dk | ssl-bureaubiz.tns-dk.2cnt.net |
 | ssl-business.tns-gallup.dk | ssl-business.tns-dk.2cnt.net |
 | ssl-camping.tns-gallup.dk | ssl-camping.tns-dk.2cnt.net |
+| ssl-chip.met.vgwort.de | ssl-chip.vgwort-de.2cnt.net |
 | ssl-computerworld.tns-gallup.dk | ssl-computerworld.tns-dk.2cnt.net |
 | ssl-costume.tns-gallup.dk | ssl-costume.tns-dk.2cnt.net |
 | ssl-dagbladetringskjern.tns-gallup.dk | ssl-dagbladetringskjern.tns-dk.2cnt.net |
@@ -783,7 +782,6 @@
 | ssl-valutakurser.tns-gallup.dk | ssl-valutakurser.tns-dk.2cnt.net |
 | ssl-vdonline.tns-gallup.dk | ssl-vdonline.tns-dk.2cnt.net |
 | ssl-vg03.met.vgwort.de | ssl-vg03.vgwort-de.2cnt.net |
-| ssl-viaplaystream.tns-gallup.dk | ssl-viaplaystream.tns-dk.2cnt.net |
 | ssl-videnskab.tns-gallup.dk | ssl-videnskab.tns-dk.2cnt.net |
 | ssl-watchmedier.tns-gallup.dk | ssl-watchmedier.tns-dk.2cnt.net |
 | ssl-weeka-eavis.tns-gallup.dk | ssl-weeka-eavis.tns-dk.2cnt.net |
@@ -791,6 +789,7 @@
 | ssl-welt.met.vgwort.de | ssl-welt.vgwort-de.2cnt.net |
 | ssl-wolterskluwer.met.vgwort.de | ssl-wolterskluwer.vgwort-de.2cnt.net |
 | ssl-woman.tns-gallup.dk | ssl-woman.tns-dk.2cnt.net |
+| ssl-zeit.met.vgwort.de | ssl-zeit.vgwort-de.2cnt.net |
 | stern.met.vgwort.de | stern.vgwort-de.2cnt.net |
 | stiften.tns-gallup.dk | stiften.tns-dk.2cnt.net |
 | storedk.tns-gallup.dk | storedk.tns-dk.2cnt.net |

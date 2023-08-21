@@ -11,6 +11,7 @@
 1bpmtrvkqkj.pettoonies.com CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
 1hb4jkt1u2d.probemas.com CNAME .
+1k5vz1ejbcx.staging.probemas.com CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
 1xejnhs1zd1.staging.aporia.com CNAME .
 1y10lvb64mr.www.freecodecamp.dev CNAME .

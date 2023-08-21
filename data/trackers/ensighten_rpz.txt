@@ -135,7 +135,6 @@ cookies.jll.co.kr CNAME .
 cookies.jll.co.uk CNAME .
 cookies.jll.co.za CNAME .
 cookies.jll.com.ar CNAME .
-cookies.jll.com.au CNAME .
 cookies.jll.com.br CNAME .
 cookies.jll.com.co CNAME .
 cookies.jll.com.hk CNAME .
@@ -216,6 +215,7 @@ ensightenone.danskespil.dk CNAME .
 ep.americanexpress.com CNAME .
 fcone.fidelity.com CNAME .
 fcone.fidelitycharitable.org CNAME .
+fctms.demo-charitablegift.com CNAME .
 fctms.fidelity.com CNAME .
 fctms.fidelitycharitable.org CNAME .
 fidelity.activate.ensighten.com CNAME .

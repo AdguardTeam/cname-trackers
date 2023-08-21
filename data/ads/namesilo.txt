@@ -12,6 +12,7 @@
 ||3115164.notify6.com^
 ||3115164.notifysrv.com^
 ||3115166.notify6.com^
+||3115166.notifysrv.com^
 ||3164303.notifysrv.com^
 ||3164315.notify6.com^
 ||3164315.notifysrv.com^
@@ -31,6 +32,7 @@
 ||3165703.notify6.com^
 ||3165703.notifysrv.com^
 ||3165773.notifysrv.com^
+||3165779.notify6.com^
 ||3166293.notifysrv.com^
 ||3166309.notifysrv.com^
 ||3166313.notifysrv.com^
@@ -298,6 +300,7 @@
 ||3351072.notifysrv.com^
 ||3351914.notifysrv.com^
 ||3352256.notify6.com^
+||3352256.notifysrv.com^
 ||3352472.notifysrv.com^
 ||3354470.notify6.com^
 ||3354470.notifysrv.com^
@@ -321,6 +324,7 @@
 ||3385991.notify6.com^
 ||3385991.notifysrv.com^
 ||3389741.notify6.com^
+||3392623.notify6.com^
 ||3392623.notifysrv.com^
 ||3395717.notify6.com^
 ||3396523.notify6.com^
@@ -557,6 +561,7 @@
 ||3588597.notifysrv.com^
 ||3588599.notifysrv.com^
 ||3590311.notify6.com^
+||3590449.notify6.com^
 ||3591075.notify6.com^
 ||3591075.notifysrv.com^
 ||3593835.notify6.com^
@@ -615,6 +620,7 @@
 ||3682345.notifysrv.com^
 ||3701725.notifysrv.com^
 ||3701939.notify6.com^
+||3710061.notify6.com^
 ||3710063.notifysrv.com^
 ||3710069.notifysrv.com^
 ||3710075.notify6.com^
@@ -885,6 +891,7 @@
 ||5602.notify.optimizesrv.com^
 ||577.notify.optimizesrv.com^
 ||583.notify.optimizesrv.com^
+||589.notify.optimizesrv.com^
 ||603.notify.optimizesrv.com^
 ||6146.notify.optimizesrv.com^
 ||6154.notify.optimizesrv.com^
@@ -897,6 +904,8 @@
 ||8.notify.bizonads-ssp.com^
 ||905.notify.optimizesrv.com^
 ||913.notify.optimizesrv.com^
+||925.notify.optimizesrv.com^
+||955.notify.optimizesrv.com^
 ||963.notify.optimizesrv.com^
 ||993.notify.optimizesrv.com^
 ||_sip._tcp.meet.3393147.notifysrv.com^
@@ -950,6 +959,7 @@
 ||origin-ads.exosrv.com^
 ||origin-ads.optimizesrv.com^
 ||origin-ads.realsrv.com^
+||rtb.advertrek.com^
 ||rtb.exoclick.com^
 ||s.a3ion.com^
 ||s.ad.guru^
@@ -1036,11 +1046,13 @@
 ||syndication.whibp.com^
 ||syndication0.exoclick.com^
 ||t.optzsrv.com^
+||www.12.notify.bizonads-ssp.com^
 ||www.3191479.notifysrv.com^
 ||www.3227697.notify6.com^
 ||www.3243082.notifysrv.com^
 ||www.3466863.notify6.com^
 ||www.4152316.notify6.com^
+||www.notify.bizonads-ssp.com^
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||xn--3225689-o06c.notifysrv.com^

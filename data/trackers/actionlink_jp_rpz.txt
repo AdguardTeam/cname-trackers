@@ -7,6 +7,7 @@ al.bath-ec.com CNAME .
 al.caetus.jp CNAME .
 al.californiastreet.net CNAME .
 al.directishii.net CNAME .
+al.e-fitpro.jp CNAME .
 al.epoi-jp.com CNAME .
 al.fulcloset.jp CNAME .
 al.ganzo.ne.jp CNAME .

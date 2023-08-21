@@ -98,7 +98,6 @@
     * h-accountonline.online-metrix.net
     * h-accurint.online-metrix.net
     * h-ad2y6kcr.online-metrix.net
-    * h-adambank.online-metrix.net
     * h-adp.online-metrix.net
     * h-af1jjj0t.online-metrix.net
     * h-afterpay.online-metrix.net
@@ -669,6 +668,7 @@
 | prod-acutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-afcutn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-aocumi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-apcifcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-ascuaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-baxter.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-blucurrent.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -821,7 +821,6 @@
 | cdnfp.lexisnexisrisk.com | h-accurint.online-metrix.net |
 | cdnfp.lexisnexisrisk.eu | h-accurint.online-metrix.net |
 | bifpt.pepperfinance.es | h-ad2y6kcr.online-metrix.net |
-| pn1927.adambank.com | h-adambank.online-metrix.net |
 | image.online.adp.com | h-adp.online-metrix.net |
 | auth2.corelogic.asia | h-af1jjj0t.online-metrix.net |
 | rsx.afterpay.com | h-afterpay.online-metrix.net |
@@ -1020,6 +1019,8 @@
 | cdna.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.paymentncb.cofidis.fr | h-cofidis-payment.online-metrix.net |
+| cdna.rqt-paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
+| cdna.tst-paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | tst-cdna.paymentncb.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdnb.cashcentral.com | h-communityfinancial.online-metrix.net |
 | img.consumer.risk.lexisnexis.com | h-consumer-relx.online-metrix.net |
@@ -1181,6 +1182,7 @@
 | cdntm.hsbc.co.uk | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.au | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.hk | h-hsbcmx.online-metrix.net |
+| cdntm.hsbc.com.mt | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.mx | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.my | h-hsbcmx.online-metrix.net |
 | cdntm.hsbc.com.ph | h-hsbcmx.online-metrix.net |

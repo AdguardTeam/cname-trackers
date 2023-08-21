@@ -75,12 +75,14 @@ ew.physciahat.com CNAME .
 ey.fifthsheet.com CNAME .
 ey.hiedflashed.com CNAME .
 ez.cannelcaimito.com CNAME .
+ez.slabbernorland.com CNAME .
 fd.peguanmistone.com CNAME .
 fd.rusheedeserve.com CNAME .
 ff.guimpefesses.com CNAME .
 fg.satraefreath.com CNAME .
 fh.termsixias.com CNAME .
 fi.creeguilds.com CNAME .
+fj.bedrowndaffs.com CNAME .
 fk.oaklikespiers.com CNAME .
 fm.ramouselong.com CNAME .
 fn.deulspoorn.com CNAME .
@@ -119,6 +121,7 @@ ie.exhumeaueto.com CNAME .
 ie.facemanuptore.com CNAME .
 ie.repointderider.com CNAME .
 ii.tiptoesstbd.com CNAME .
+ii.woolensulking.com CNAME .
 ik.nuraghireels.com CNAME .
 im.inciseclops.com CNAME .
 in.becamechorist.com CNAME .
@@ -151,6 +154,7 @@ jx.yonnersekere.com CNAME .
 ke.kabalagarsil.com CNAME .
 kl.osmoticchalah.com CNAME .
 kp.stingeantonia.com CNAME .
+kq.baggilymitoses.com CNAME .
 ks.dagamemisdeed.com CNAME .
 ku.arbacindiplex.com CNAME .
 ku.eftesthalms.com CNAME .
@@ -180,9 +184,11 @@ mf.collopantony.com CNAME .
 mf.fauldbeeth.com CNAME .
 mh.zonulews.com CNAME .
 mi.bettingbulbous.com CNAME .
+mi.gaywayperkish.com CNAME .
 mj.mucinplanks.com CNAME .
 mp.ualisbaubles.com CNAME .
 mu.laplingskevish.com CNAME .
+mu.plateryamaine.com CNAME .
 my.ursstubs.com CNAME .
 nc.nominaturfy.com CNAME .
 ne.galenicnidana.com CNAME .
@@ -210,6 +216,7 @@ oz.lokaforky.com CNAME .
 pb.shaledpaidle.com CNAME .
 pg.maftirkolo.com CNAME .
 pk.axitessubclei.com CNAME .
+pm.clokemidriff.com CNAME .
 pq.carlingquerent.com CNAME .
 pq.murkfrazil.com CNAME .
 pr.hefterunmete.com CNAME .
@@ -237,6 +244,7 @@ qy.narrateharmala.com CNAME .
 qz.equalsenframe.com CNAME .
 ra.polyserbdom.com CNAME .
 rc.chemispelecan.com CNAME .
+rd.gamglossae.com CNAME .
 rg.canesbilker.com CNAME .
 rh.sirionehusky.com CNAME .
 rj.unhaveabobra.com CNAME .
@@ -308,6 +316,7 @@ uz.gamyboxbush.com CNAME .
 va.ungracebaited.com CNAME .
 vd.clipserelock.com CNAME .
 vd.scapemambu.com CNAME .
+ve.gweedunweld.com CNAME .
 vg.piaroanjust.com CNAME .
 vi.spratstatters.com CNAME .
 vn.finisbur.com CNAME .
@@ -317,6 +326,7 @@ vr.noosersturtles.com CNAME .
 vt.alieneepunta.com CNAME .
 vt.eluantsmousees.com CNAME .
 vv.habaerashiksas.com CNAME .
+vw.sapidvenoms.com CNAME .
 vx.azuresjukes.com CNAME .
 wb.aliensplitch.com CNAME .
 wb.uncannyuneaths.com CNAME .
@@ -325,6 +335,7 @@ wd.towmonterses.com CNAME .
 we.noonsderider.com CNAME .
 wi.cohereseugene.com CNAME .
 wj.acrevenene.com CNAME .
+wl.gravergignate.com CNAME .
 wl.herbarspece.com CNAME .
 wl.jimjumsalkes.com CNAME .
 wm.findalwaglike.com CNAME .
@@ -333,6 +344,7 @@ wq.stewyruttish.com CNAME .
 wr.rugosehoarish.com CNAME .
 ws.blondsdixie.com CNAME .
 wv.donarynahane.com CNAME .
+wx.redealstonage.com CNAME .
 wx.squetanonym.com CNAME .
 wz.bergallgenion.com CNAME .
 xb.subtextslypes.com CNAME .

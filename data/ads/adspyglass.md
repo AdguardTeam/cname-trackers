@@ -7,6 +7,7 @@
 
 ### Rarely active trackers
 
+* 77980.bodis.com
 * u53.hypnorat.com
 
 ## Cloaking domains
@@ -50,10 +51,8 @@
 | 6cf0e7801e8cd.clicknplay.to | 0i0i0i0.com |
 | 71213zhazha.com | 0i0i0i0.com |
 | 7bd3d001ff6.clicknplay.to | 0i0i0i0.com |
-| 7taobao.mom | 0i0i0i0.com |
 | 873ag.justthegays.com | 0i0i0i0.com |
 | 893242.milfunsource.com | 0i0i0i0.com |
-| 8sptzne.mom | 0i0i0i0.com |
 | a.123porner.com | 0i0i0i0.com |
 | a.123porner.net | 0i0i0i0.com |
 | a.1film.to | 0i0i0i0.com |
@@ -73,6 +72,7 @@
 | a.dajex.club | 0i0i0i0.com |
 | a.digitalgiftshopping.com | 0i0i0i0.com |
 | a.donyandmark.xyz | 0i0i0i0.com |
+| a.everymark.xyz | 0i0i0i0.com |
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
@@ -110,7 +110,6 @@
 | a.teencfnm.com | 0i0i0i0.com |
 | a.tortuko.club | 0i0i0i0.com |
 | a.totoro2011.xyz | 0i0i0i0.com |
-| a.travelbdnews.xyz | 0i0i0i0.com |
 | a.unblock2303.xyz | 0i0i0i0.com |
 | a.unblock2304.xyz | 0i0i0i0.com |
 | a.viralnewsbd.xyz | 0i0i0i0.com |
@@ -243,8 +242,11 @@
 | bc6dc48b743dc5d01.clicknplay.to | 0i0i0i0.com |
 | bddd.javmilk.org | 0i0i0i0.com |
 | bencuzi.xyz | 0i0i0i0.com |
+| bestadultaction.com | 0i0i0i0.com |
+| bestxxxaction.com | 0i0i0i0.com |
 | bezuka.xyz | 0i0i0i0.com |
-| biakico.mom | 0i0i0i0.com |
+| bigpornclips.com | 0i0i0i0.com |
+| bigsexvids.com | 0i0i0i0.com |
 | bikeno.xyz | 0i0i0i0.com |
 | blog.andropps.com | 0i0i0i0.com |
 | blow.week1time.com | 0i0i0i0.com |
@@ -289,6 +291,7 @@
 | cool.gaygo.tv | 0i0i0i0.com |
 | cool.sunporno.com | 0i0i0i0.com |
 | cool.tubous.com | 0i0i0i0.com |
+| coolpornvids.com | 0i0i0i0.com |
 | cowpaz.pics | 0i0i0i0.com |
 | crumpet.xxxpornhd.pro | 0i0i0i0.com |
 | cuckoiz.lol | 0i0i0i0.com |
@@ -408,6 +411,7 @@
 | js.manga1000.top | 0i0i0i0.com |
 | js.mangajp.top | 0i0i0i0.com |
 | js.mangapro.top | 0i0i0i0.com |
+| js.phoenixmanga.com | 0i0i0i0.com |
 | js.xemkqxs.com | 0i0i0i0.com |
 | jx3.freepornobook.com | 0i0i0i0.com |
 | kanhsky.mom | 0i0i0i0.com |
@@ -415,7 +419,6 @@
 | ken9.lol | 0i0i0i0.com |
 | kena9.mom | 0i0i0i0.com |
 | kfioeld.spinna.shop | 0i0i0i0.com |
-| khetlet.mom | 0i0i0i0.com |
 | khoilive.xyz | 0i0i0i0.com |
 | kingtus.pics | 0i0i0i0.com |
 | kissjav.li.7mmtv.top | 0i0i0i0.com |
@@ -474,6 +477,10 @@
 | nav.srcdn.xyz | 0i0i0i0.com |
 | net.contoseroticoscnn.com | 0i0i0i0.com |
 | net.sexstories69.com | 0i0i0i0.com |
+| newdin.name | 0i0i0i0.com |
+| newhand.name | 0i0i0i0.com |
+| newtits.name | 0i0i0i0.com |
+| newzilla.name | 0i0i0i0.com |
 | ngbcrg3b.xn--ngbcrg3b.com | 0i0i0i0.com |
 | nice.tranny.one | 0i0i0i0.com |
 | nice.tryboobs.com | 0i0i0i0.com |
@@ -488,6 +495,7 @@
 | nx7.hdxxxclips.com | 0i0i0i0.com |
 | o.hotsextube.tv | 0i0i0i0.com |
 | o313o.com | 0i0i0i0.com |
+| o911o.com | 0i0i0i0.com |
 | oi.429men.com | 0i0i0i0.com |
 | oi.fapnado.com | 0i0i0i0.com |
 | oi.fapnado.xxx | 0i0i0i0.com |
@@ -608,11 +616,11 @@
 | ssltest.soundrussian.com | 0i0i0i0.com |
 | stepfantasy.art | 0i0i0i0.com |
 | stkk.spinna.shop | 0i0i0i0.com |
+| store4porn.com | 0i0i0i0.com |
 | strengk.xyz | 0i0i0i0.com |
 | stuff.wikiporno.org | 0i0i0i0.com |
 | sub.empressleak.biz | 0i0i0i0.com |
 | sub.empresstrending.com | 0i0i0i0.com |
-| subtitle.mom | 0i0i0i0.com |
 | sup.srvtax.com | 0i0i0i0.com |
 | super.koreanpornmovie.xyz | 0i0i0i0.com |
 | supjav.com.7mmtv.top | 0i0i0i0.com |
@@ -637,10 +645,10 @@
 | toabuck.xyz | 0i0i0i0.com |
 | toaioi.lol | 0i0i0i0.com |
 | toaioi.xyz | 0i0i0i0.com |
+| topsexmovs.com | 0i0i0i0.com |
 | topvidstore.com | 0i0i0i0.com |
 | tpl.fuckxness.com | 0i0i0i0.com |
 | traffictraders.com | 0i0i0i0.com |
-| travkeoa.mom | 0i0i0i0.com |
 | ts.sopornvideos.com | 0i0i0i0.com |
 | tt.wl-cornholio.com | 0i0i0i0.com |
 | uacabilqlgpw.cdnvideo3.com | 0i0i0i0.com |
@@ -665,6 +673,7 @@
 | vz.7vid.net | 0i0i0i0.com |
 | w00t.us | 0i0i0i0.com |
 | waihoz.xyz | 0i0i0i0.com |
+| watekade.xyz | 0i0i0i0.com |
 | wp.zvideo.stream | 0i0i0i0.com |
 | ww.0prn.com | 0i0i0i0.com |
 | ww.cvideos.stream | 0i0i0i0.com |
@@ -674,6 +683,7 @@
 | www.antiadblock.info | 0i0i0i0.com |
 | www.bigboy.monster | 0i0i0i0.com |
 | www.bloblohub.com | 0i0i0i0.com |
+| www.f.bloblohub.com | 0i0i0i0.com |
 | www.go.ss-n-30.com | 0i0i0i0.com |
 | www.javtvnow.xyz | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
@@ -708,6 +718,7 @@
 | xxxddd.baijav.com | 0i0i0i0.com |
 | xxxlove.rooski.net | 0i0i0i0.com |
 | xzillame.com | 0i0i0i0.com |
+| xzillla.icu | 0i0i0i0.com |
 | yhu5tw3mn64.jav-7mmtv.top | 0i0i0i0.com |
 | you75.youpornsexvideos.com | 0i0i0i0.com |
 | youzok.lol | 0i0i0i0.com |
@@ -715,9 +726,12 @@
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
 | zzzzaaa.baijav.com | 0i0i0i0.com |
+| a.travelbdnews.xyz | 77980.bodis.com |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | hq3x.com | u50.0i0i0i0.com |
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| h-ay.com | u53.hypnorat.com |
 | qhip.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |

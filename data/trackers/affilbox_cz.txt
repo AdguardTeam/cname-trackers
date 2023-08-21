@@ -257,7 +257,6 @@
 ||affiliate.vianio.com^
 ||affiliate.vox.cz^
 ||affiliate.warriorfactory.cz^
-||affiliate.webium.cz^
 ||affiliate.wugi.cz^
 ||affiliate.zdraviafitness.cz^
 ||affiliate.zdravykos.cz^
@@ -400,6 +399,7 @@
 ||owayfamily.ecoorganicbeauty.cz^
 ||partak.surfey.cz^
 ||partener.aeriumshop.ro^
+||partner-affilbox.telly.cz^
 ||partner.2din.cz^
 ||partner.aerium.sk^
 ||partner.affilbox.com^
@@ -424,6 +424,7 @@
 ||partner.bebidas.cz^
 ||partner.bed4dogs.com^
 ||partner.bilynabytek.cz^
+||partner.bio-nechty.sk^
 ||partner.bio-nehty.cz^
 ||partner.bioaromakosmetika.cz^
 ||partner.bontonck.cz^
@@ -488,6 +489,7 @@
 ||partner.eshop-rodas.cz^
 ||partner.esportacademy.cz^
 ||partner.evolutionhub.cz^
+||partner.expertnavlasy.sk^
 ||partner.expresmenu.com^
 ||partner.expresmenu.cz^
 ||partner.expresmenu.pl^
@@ -620,7 +622,6 @@
 ||partner.sladkyklub.cz^
 ||partner.slimpasta.cz^
 ||partner.slimpasta.sk^
-||partner.smartwin.cz^
 ||partner.smoothiekniha.sk^
 ||partner.spokojenypes.cz^
 ||partner.sporthangar.cz^
@@ -834,6 +835,7 @@
 ||rek.rybizak.cz^
 ||royalfamily.royalchaga.sk^
 ||special.kvetinyexpres.cz^
+||splatky.aquatrend.sk^
 ||spolu.kuskakaa.cz^
 ||spoluprace.aretacni-pripravky.cz^
 ||spoluprace.bafoo.cz^

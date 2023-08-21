@@ -75,7 +75,6 @@ click.plarimocl.com CNAME .
 click.plarimoexocli.com CNAME .
 click.plarimoplus.com CNAME .
 click.precmd.com CNAME .
-click.pyrrhicmechntech.com CNAME .
 clicks.uptownleads.com CNAME .
 clickv6.expmediadirect1.com CNAME .
 clickv6.junmediadirect.com CNAME .
@@ -159,6 +158,7 @@ dsp.yeesshh.com CNAME .
 dspplatform.anytheengmedia.com CNAME .
 exchange.adkernel.com CNAME .
 exchange.nativeads.com CNAME .
+exchange.nativeadshb.com CNAME .
 feed.clickmenia.com CNAME .
 filter-eu.adoperatorx.com CNAME .
 filter-eu.adright.co CNAME .
@@ -940,7 +940,6 @@ xml-v4.fstsrv4.com CNAME .
 xml-v4.gipostart-1.co CNAME .
 xml-v4.gipostart-2.co CNAME .
 xml-v4.goclickz.net CNAME .
-xml-v4.hawkads.in CNAME .
 xml-v4.hetcash.com CNAME .
 xml-v4.klapads.com CNAME .
 xml-v4.kunvertads.com CNAME .
@@ -973,7 +972,6 @@ xml.80xmedia.com CNAME .
 xml.9dotsmedia.com CNAME .
 xml.acertb.com CNAME .
 xml.ad-maven.com CNAME .
-xml.adapace.com CNAME .
 xml.adcannybid.com CNAME .
 xml.adcannyxml.com CNAME .
 xml.adcy.net CNAME .
@@ -1124,7 +1122,6 @@ xml.pushmobo.com CNAME .
 xml.pushub.net CNAME .
 xml.pwr-ads.com CNAME .
 xml.pxfind3.com CNAME .
-xml.pyrrhicmechntech.com CNAME .
 xml.q32167.com CNAME .
 xml.qksrv.biz CNAME .
 xml.qksrv.cc CNAME .

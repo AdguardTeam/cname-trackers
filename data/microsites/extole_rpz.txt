@@ -66,6 +66,7 @@ refer.montgomeryadvertiser.com CNAME .
 refer.moo.com CNAME .
 refer.myplant.com CNAME .
 refer.nvidia.com CNAME .
+refer.nzforex.co.nz CNAME .
 refer.offset.com CNAME .
 refer.ofx.com CNAME .
 refer.ooma.com CNAME .
@@ -124,7 +125,6 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -252,7 +252,6 @@ refer.incommonbeauty.com CNAME .
 refer.indeed.com CNAME .
 refer.issaonline.com CNAME .
 refer.itbed.com CNAME .
-refer.itcosmetics.com CNAME .
 refer.jewelersmutual.com CNAME .
 refer.jiffynewark.com CNAME .
 refer.joann.com CNAME .
@@ -464,6 +463,7 @@ share.docmorris.fr CNAME .
 share.dslaboratories.com CNAME .
 share.dunlopsports.com CNAME .
 share.dutch.com CNAME .
+share.earlybirdbooks.com CNAME .
 share.elpasotimes.com CNAME .
 share.elysiumhealth.com CNAME .
 share.empathywines.com CNAME .
@@ -518,6 +518,7 @@ share.mamabearlegalforms.com CNAME .
 share.mansfieldnewsjournal.com CNAME .
 share.medely.com CNAME .
 share.meettally.com CNAME .
+share.montgomeryadvertiser.com CNAME .
 share.mtntough.com CNAME .
 share.mycarpe.com CNAME .
 share.myollie.com CNAME .
@@ -544,7 +545,6 @@ share.poughkeepsiejournal.com CNAME .
 share.princess.com CNAME .
 share.promofarma.com CNAME .
 share.redding.com CNAME .
-share.refer-aveda.ca CNAME .
 share.refer-aveda.co.uk CNAME .
 share.refer-aveda.com CNAME .
 share.refer-bumbleandbumble.co.uk CNAME .
@@ -626,4 +626,5 @@ share.zenbusiness.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
+em8561.go2bank.com CNAME .
 sftp.extole.com CNAME .

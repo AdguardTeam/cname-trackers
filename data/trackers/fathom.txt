@@ -312,7 +312,6 @@
 ||echidna.eyalgantz.me^
 ||echidna.hellotomorrow.agency^
 ||echidna.honeybadger.io^
-||ecoonll.eskridge.dev^
 ||eel.aware7.de^
 ||eel.beekeeperstudio.io^
 ||eel.cuabuilders.com^
@@ -572,6 +571,7 @@
 ||locust.ausrebellion.earth^
 ||locust.michiel-gerritsen.com^
 ||loon.davidalindahl.com^
+||loon.jrmyfranck.com^
 ||loon.ohmyfunds.com^
 ||louse.16bit.it^
 ||louse.demaree.space^
@@ -703,6 +703,7 @@
 ||partridge.flooint.com^
 ||peacock.psych.help^
 ||peafowl.projectstrackt.dev^
+||penguin.craftpeak.io^
 ||penguin.mobiadroit.com^
 ||penguin.revolana.com^
 ||penguin.sunny.app^
@@ -735,7 +736,6 @@
 ||polarbear.codeday.org^
 ||polarbear.wpnow.dev^
 ||pony.ftm.cat^
-||pony.gugg.at^
 ||porcupine.dvresolve.com^
 ||porcupine.simpleprax.de^
 ||porpoise.azettl.net^
@@ -759,7 +759,6 @@
 ||puma.strategyascode.com^
 ||python.casuallyprivate.com^
 ||python.jukejuke.app^
-||quail.efix.uk^
 ||quail.trueglowbylaura.com^
 ||quelea.igotcha.de^
 ||quokka.bulkbuyhosting.com^
@@ -789,7 +788,6 @@
 ||rook.clarify.io^
 ||rook.flowlens.com^
 ||rook.grithix.com^
-||rooster.coombaaquatic.club^
 ||sailfish.hoap.com^
 ||sailfish.kentcdodds.com^
 ||sailfish.lifelines-film.com^
@@ -833,7 +831,6 @@
 ||slug.sirenergies.com^
 ||smelt.allenpike.com^
 ||smelt.gautrowski.com^
-||snail.evergrace.co^
 ||snake.kiramclean.com^
 ||snipe.mfaber.at^
 ||snipe.mizzuu.co^
@@ -850,7 +847,6 @@
 ||spider.scottw.com^
 ||spider.storiesofchang.com^
 ||spoonbill.deknot.io^
-||spoonbill.memberkit.com.br^
 ||squid.adart.cc^
 ||squid.antevo.com.au^
 ||squirrel.cividi.ch^
@@ -878,7 +874,6 @@
 ||swift.jos.ht^
 ||swift.radio12.org^
 ||swift.unovy.net^
-||swordfish.elvietanny.com^
 ||swordfish.floofs.com^
 ||swordfish.holzschuhe.at^
 ||swordfish.hotcross.com^
@@ -990,6 +985,7 @@
 ||yak.auclantis.com^
 ||yak.flutterblog.net^
 ||zebra.gareth.sh^
+||zebra.helpspot.com^
 ||aardvark.jimenezlinares.com^
 ||albatross.creacoon.com^
 ||alligator.remotecyberwork.com^
@@ -1011,7 +1007,6 @@
 ||guineapig.magnatkaffehus.no^
 ||llama.whatcha.io^
 ||loon.analogjoe.com^
-||loon.jrmyfranck.com^
 ||mammal.nickpetrie.co^
 ||mole.vcntlee.com^
 ||moose.octo.app^
@@ -1027,8 +1022,8 @@
 ||silkworm.hoprnet.io^
 ||silkworm.waspexpert.com^
 ||silverfish.camaleon.gt^
+||swordfish.elvietanny.com^
 ||tapir.albertaguardtraining.ca^
-||tigershark.givecarenetsv.com^
 ||tigershark.hasanahmad.ca^
 ||tigershark.integratecolumbus.org^
 ||tigershark.oilpriceapi.com^

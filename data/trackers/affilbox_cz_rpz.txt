@@ -257,7 +257,6 @@ affiliate.velebny.cz CNAME .
 affiliate.vianio.com CNAME .
 affiliate.vox.cz CNAME .
 affiliate.warriorfactory.cz CNAME .
-affiliate.webium.cz CNAME .
 affiliate.wugi.cz CNAME .
 affiliate.zdraviafitness.cz CNAME .
 affiliate.zdravykos.cz CNAME .
@@ -400,6 +399,7 @@ online.pdfknihovna.cz CNAME .
 owayfamily.ecoorganicbeauty.cz CNAME .
 partak.surfey.cz CNAME .
 partener.aeriumshop.ro CNAME .
+partner-affilbox.telly.cz CNAME .
 partner.2din.cz CNAME .
 partner.aerium.sk CNAME .
 partner.affilbox.com CNAME .
@@ -424,6 +424,7 @@ partner.beautylash.cz CNAME .
 partner.bebidas.cz CNAME .
 partner.bed4dogs.com CNAME .
 partner.bilynabytek.cz CNAME .
+partner.bio-nechty.sk CNAME .
 partner.bio-nehty.cz CNAME .
 partner.bioaromakosmetika.cz CNAME .
 partner.bontonck.cz CNAME .
@@ -488,6 +489,7 @@ partner.eshop-gyorsan.hu CNAME .
 partner.eshop-rodas.cz CNAME .
 partner.esportacademy.cz CNAME .
 partner.evolutionhub.cz CNAME .
+partner.expertnavlasy.sk CNAME .
 partner.expresmenu.com CNAME .
 partner.expresmenu.cz CNAME .
 partner.expresmenu.pl CNAME .
@@ -620,7 +622,6 @@ partner.sladkemameni.com CNAME .
 partner.sladkyklub.cz CNAME .
 partner.slimpasta.cz CNAME .
 partner.slimpasta.sk CNAME .
-partner.smartwin.cz CNAME .
 partner.smoothiekniha.sk CNAME .
 partner.spokojenypes.cz CNAME .
 partner.sporthangar.cz CNAME .
@@ -834,6 +835,7 @@ proviznisystem.kanclir.cz CNAME .
 rek.rybizak.cz CNAME .
 royalfamily.royalchaga.sk CNAME .
 special.kvetinyexpres.cz CNAME .
+splatky.aquatrend.sk CNAME .
 spolu.kuskakaa.cz CNAME .
 spoluprace.aretacni-pripravky.cz CNAME .
 spoluprace.bafoo.cz CNAME .

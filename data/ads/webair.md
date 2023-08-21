@@ -41,7 +41,6 @@
     * adacts.ui.ak-is2.net
     * adacts.xml.ak-is2.net
     * adapace.rtb-useast.ak-is2.net
-    * adapace.xml.ak-is2.net
     * adbite.rtb-useast.ak-is2.net
     * adcanny.fs.ak-is2.net
     * adcanny.rtb-eu.ak-is2.net
@@ -459,7 +458,6 @@
     * hangfly.fs.ak-is2.net
     * hangfly.xml.ak-is2.net
     * hawkads.xml-eu-v4.ak-is2.net
-    * hawkads.xml-v4.ak-is2.net
     * hetcash.fs.ak-is2.net
     * hetcash.ui.ak-is2.net
     * hetcash.xml-v4.ak-is2.net
@@ -567,6 +565,7 @@
     * mymedia.xml.ak-is2.net
     * nativeads.aui.ak-is2.net
     * nativeads.click-useast.ak-is2.net
+    * nativeads.cpm.ak-is2.net
     * nativeads.rtb-as-eu.ak-is2.net
     * nativeads.rtb-as-useast.ak-is2.net
     * nativeads.rtb-as-uswest.ak-is2.net
@@ -653,7 +652,6 @@
     * pwr-ads.xml-eu.ak-is2.net
     * pwr-ads.xml-v4.ak-is2.net
     * pwr-ads.xml.ak-is2.net
-    * pyrrhicmechntech.xml.ak-is2.net
     * rankorate.rtb-eu.ak-is2.net
     * rankorate.rtb-useast.ak-is2.net
     * rankorate.xml.ak-is2.net
@@ -1116,7 +1114,6 @@
 | login.pop.adacts.com | adacts.ui.ak-is2.net |
 | xml.pop.adacts.com | adacts.xml.ak-is2.net |
 | rtb-useast.adapace.com | adapace.rtb-useast.ak-is2.net |
-| xml.adapace.com | adapace.xml.ak-is2.net |
 | rtb-useast.adbite.com | adbite.rtb-useast.ak-is2.net |
 | filter.adcannybid.com | adcanny.fs.ak-is2.net |
 | filter.adcannyxml.com | adcanny.fs.ak-is2.net |
@@ -1720,7 +1717,6 @@
 | filter.hangfly.net | hangfly.fs.ak-is2.net |
 | xml.hangfly.net | hangfly.xml.ak-is2.net |
 | xml-eu-v4.hawkads.in | hawkads.xml-eu-v4.ak-is2.net |
-| xml-v4.hawkads.in | hawkads.xml-v4.ak-is2.net |
 | filter.hetcash.com | hetcash.fs.ak-is2.net |
 | login.hetcash.com | hetcash.ui.ak-is2.net |
 | xml-v4.hetcash.com | hetcash.xml-v4.ak-is2.net |
@@ -1894,6 +1890,7 @@
 | static-rtb2.adpix.online | n3r3w7j3.stackpathcdn.com |
 | static.zmdvideo.com | n3r4p9t5.stackpathcdn.com |
 | static.openrtb.in | n5a2s6k3.stackpathcdn.com |
+| static.xrtb.io | n5a2s6k3.stackpathcdn.com |
 | vid-static.xapads.com | n5a2s6k3.stackpathcdn.com |
 | static.admeridianads.com | n6n2x9n6.stackpathcdn.com |
 | static.hueadsxml.com | n7n8b7a3.stackpathcdn.com |
@@ -1901,6 +1898,7 @@
 | static.adsfloow.net | n9s9r9x5.stackpathcdn.com |
 | pushpop.nativeads.com | nativeads.aui.ak-is2.net |
 | click-dsp-east.nativeads.com | nativeads.click-useast.ak-is2.net |
+| exchange.nativeadshb.com | nativeads.cpm.ak-is2.net |
 | dsp-eu.nativeads.com | nativeads.rtb-as-eu.ak-is2.net |
 | dsp-east.nativeads.com | nativeads.rtb-as-useast.ak-is2.net |
 | dsp-west.nativeads.com | nativeads.rtb-as-uswest.ak-is2.net |
@@ -2006,8 +2004,6 @@
 | xml-eu.pwr-ads.com | pwr-ads.xml-eu.ak-is2.net |
 | xml-v4.pwr-ads.com | pwr-ads.xml-v4.ak-is2.net |
 | xml.pwr-ads.com | pwr-ads.xml.ak-is2.net |
-| click.pyrrhicmechntech.com | pyrrhicmechntech.xml.ak-is2.net |
-| xml.pyrrhicmechntech.com | pyrrhicmechntech.xml.ak-is2.net |
 | static.displayio.cloud | q3m6y4u3.stackpathcdn.com |
 | static.adokutcontextual.com | q6d4g2n6.stackpathcdn.com |
 | static.topdealad.com | q7c3t4h4.stackpathcdn.com |

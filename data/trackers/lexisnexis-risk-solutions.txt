@@ -83,6 +83,8 @@
 ||cdna.paiement.cofidis.fr^
 ||cdna.paymentncb.cofidis.es^
 ||cdna.paymentncb.cofidis.fr^
+||cdna.rqt-paiement.cofidis.fr^
+||cdna.tst-paiement.cofidis.fr^
 ||cdna.xotto.de^
 ||cdna.zopa.com^
 ||cdnb.cashcentral.com^
@@ -105,6 +107,7 @@
 ||cdntm.hsbc.co.uk^
 ||cdntm.hsbc.com.au^
 ||cdntm.hsbc.com.hk^
+||cdntm.hsbc.com.mt^
 ||cdntm.hsbc.com.mx^
 ||cdntm.hsbc.com.my^
 ||cdntm.hsbc.com.ph^
@@ -539,7 +542,6 @@
 ||piafapp.poste.it^
 ||pic.bankonline.ge^
 ||plr.scb-payments.net^
-||pn1927.adambank.com^
 ||pn1927.coutts.com^
 ||pn1927.couttscrowndependencies.com^
 ||pn1927.natwestplus.com^
@@ -551,6 +553,7 @@
 ||prod-acutx.chaperone.lumindigitalhosting.com^
 ||prod-afcutn.chaperone.lumindigitalhosting.com^
 ||prod-aocumi.chaperone.lumindigitalhosting.com^
+||prod-apcifcu.chaperone.lumindigitalhosting.com^
 ||prod-ascuaz.chaperone.lumindigitalhosting.com^
 ||prod-baxter.chaperone.lumindigitalhosting.com^
 ||prod-blucurrent.chaperone.lumindigitalhosting.com^

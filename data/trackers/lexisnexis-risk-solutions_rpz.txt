@@ -83,6 +83,8 @@ cdna.lottohelden.de CNAME .
 cdna.paiement.cofidis.fr CNAME .
 cdna.paymentncb.cofidis.es CNAME .
 cdna.paymentncb.cofidis.fr CNAME .
+cdna.rqt-paiement.cofidis.fr CNAME .
+cdna.tst-paiement.cofidis.fr CNAME .
 cdna.xotto.de CNAME .
 cdna.zopa.com CNAME .
 cdnb.cashcentral.com CNAME .
@@ -105,6 +107,7 @@ cdntm.hsbc.co.in CNAME .
 cdntm.hsbc.co.uk CNAME .
 cdntm.hsbc.com.au CNAME .
 cdntm.hsbc.com.hk CNAME .
+cdntm.hsbc.com.mt CNAME .
 cdntm.hsbc.com.mx CNAME .
 cdntm.hsbc.com.my CNAME .
 cdntm.hsbc.com.ph CNAME .
@@ -539,7 +542,6 @@ phyon.visit-x.net CNAME .
 piafapp.poste.it CNAME .
 pic.bankonline.ge CNAME .
 plr.scb-payments.net CNAME .
-pn1927.adambank.com CNAME .
 pn1927.coutts.com CNAME .
 pn1927.couttscrowndependencies.com CNAME .
 pn1927.natwestplus.com CNAME .
@@ -551,6 +553,7 @@ pov.spectrum.net CNAME .
 prod-acutx.chaperone.lumindigitalhosting.com CNAME .
 prod-afcutn.chaperone.lumindigitalhosting.com CNAME .
 prod-aocumi.chaperone.lumindigitalhosting.com CNAME .
+prod-apcifcu.chaperone.lumindigitalhosting.com CNAME .
 prod-ascuaz.chaperone.lumindigitalhosting.com CNAME .
 prod-baxter.chaperone.lumindigitalhosting.com CNAME .
 prod-blucurrent.chaperone.lumindigitalhosting.com CNAME .

@@ -345,6 +345,7 @@ tr.emailing.grassavoye.com CNAME .
 tr.emailing.pogioclub.be CNAME .
 tr.emailing.studiocanal.com CNAME .
 tr.emailium.fr CNAME .
+tr.emc.moethennessy.com CNAME .
 tr.enedis-infos.fr CNAME .
 tr.enews.customsolutions.fr CNAME .
 tr.engie-globalenergy.info CNAME .
@@ -400,6 +401,7 @@ tr.info-btob-leaders.com CNAME .
 tr.info-carte.fr CNAME .
 tr.info-companeo.be CNAME .
 tr.info-fr.assurant.com CNAME .
+tr.info-jeux.paris.fr CNAME .
 tr.info-pro.promoneuve.fr CNAME .
 tr.info-strategie.fr CNAME .
 tr.info.actionlogement.fr CNAME .
@@ -980,6 +982,7 @@ tr.update.groupon.be CNAME .
 tr.urfk02r.espmp-nifr.net CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk02z.espmp-nifr.net CNAME .
+tr.urfk03c.espmp-nifr.net CNAME .
 tr.urfk03h.espmp-nifr.net CNAME .
 tr.urfk03k.espmp-agfr.net CNAME .
 tr.urfk03q.espmp-nifr.net CNAME .

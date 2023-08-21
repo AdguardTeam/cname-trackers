@@ -367,7 +367,6 @@ earwig.architecturesofhiding.com CNAME .
 echidna.eyalgantz.me CNAME .
 echidna.hellotomorrow.agency CNAME .
 echidna.honeybadger.io CNAME .
-ecoonll.eskridge.dev CNAME .
 eel.aware7.de CNAME .
 eel.beekeeperstudio.io CNAME .
 eel.cuabuilders.com CNAME .
@@ -628,6 +627,7 @@ lobster.tonebleed.com CNAME .
 locust.ausrebellion.earth CNAME .
 locust.michiel-gerritsen.com CNAME .
 loon.davidalindahl.com CNAME .
+loon.jrmyfranck.com CNAME .
 loon.ohmyfunds.com CNAME .
 louse.16bit.it CNAME .
 louse.demaree.space CNAME .
@@ -759,6 +759,7 @@ parrotfish.wus.immo CNAME .
 partridge.flooint.com CNAME .
 peacock.psych.help CNAME .
 peafowl.projectstrackt.dev CNAME .
+penguin.craftpeak.io CNAME .
 penguin.mobiadroit.com CNAME .
 penguin.revolana.com CNAME .
 penguin.sunny.app CNAME .
@@ -791,7 +792,6 @@ platypus.zwei-bags.ch CNAME .
 polarbear.codeday.org CNAME .
 polarbear.wpnow.dev CNAME .
 pony.ftm.cat CNAME .
-pony.gugg.at CNAME .
 porcupine.dvresolve.com CNAME .
 porcupine.simpleprax.de CNAME .
 porpoise.azettl.net CNAME .
@@ -815,7 +815,6 @@ puma.islingtonmecc.org.uk CNAME .
 puma.strategyascode.com CNAME .
 python.casuallyprivate.com CNAME .
 python.jukejuke.app CNAME .
-quail.efix.uk CNAME .
 quail.trueglowbylaura.com CNAME .
 quelea.igotcha.de CNAME .
 quokka.bulkbuyhosting.com CNAME .
@@ -845,7 +844,6 @@ rook.behmann.at CNAME .
 rook.clarify.io CNAME .
 rook.flowlens.com CNAME .
 rook.grithix.com CNAME .
-rooster.coombaaquatic.club CNAME .
 sailfish.hoap.com CNAME .
 sailfish.kentcdodds.com CNAME .
 sailfish.lifelines-film.com CNAME .
@@ -889,7 +887,6 @@ sloth.vguerrerobosch.com CNAME .
 slug.sirenergies.com CNAME .
 smelt.allenpike.com CNAME .
 smelt.gautrowski.com CNAME .
-snail.evergrace.co CNAME .
 snake.kiramclean.com CNAME .
 snipe.mfaber.at CNAME .
 snipe.mizzuu.co CNAME .
@@ -906,7 +903,6 @@ spider.kearneyjaycees.com CNAME .
 spider.scottw.com CNAME .
 spider.storiesofchang.com CNAME .
 spoonbill.deknot.io CNAME .
-spoonbill.memberkit.com.br CNAME .
 squid.adart.cc CNAME .
 squid.antevo.com.au CNAME .
 squirrel.cividi.ch CNAME .
@@ -1048,11 +1044,11 @@ yak.animeawards.guide CNAME .
 yak.auclantis.com CNAME .
 yak.flutterblog.net CNAME .
 zebra.gareth.sh CNAME .
+zebra.helpspot.com CNAME .
 ads.djc.com CNAME .
 assets-v2.boisedev.com CNAME .
 assets-v2.invaluable.com CNAME .
 assets-v2.northsidesun.com CNAME .
-assets.businesswatchnetwork.com CNAME .
 avemariaas.vmrcommunications.com CNAME .
 carlsonmedia.streetinteractive.com CNAME .
 kitt.tucsonsentinel.com CNAME .

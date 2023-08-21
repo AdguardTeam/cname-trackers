@@ -12,6 +12,7 @@
 3115164.notify6.com CNAME .
 3115164.notifysrv.com CNAME .
 3115166.notify6.com CNAME .
+3115166.notifysrv.com CNAME .
 3164303.notifysrv.com CNAME .
 3164315.notify6.com CNAME .
 3164315.notifysrv.com CNAME .
@@ -31,6 +32,7 @@
 3165703.notify6.com CNAME .
 3165703.notifysrv.com CNAME .
 3165773.notifysrv.com CNAME .
+3165779.notify6.com CNAME .
 3166293.notifysrv.com CNAME .
 3166309.notifysrv.com CNAME .
 3166313.notifysrv.com CNAME .
@@ -298,6 +300,7 @@
 3351072.notifysrv.com CNAME .
 3351914.notifysrv.com CNAME .
 3352256.notify6.com CNAME .
+3352256.notifysrv.com CNAME .
 3352472.notifysrv.com CNAME .
 3354470.notify6.com CNAME .
 3354470.notifysrv.com CNAME .
@@ -321,6 +324,7 @@
 3385991.notify6.com CNAME .
 3385991.notifysrv.com CNAME .
 3389741.notify6.com CNAME .
+3392623.notify6.com CNAME .
 3392623.notifysrv.com CNAME .
 3395717.notify6.com CNAME .
 3396523.notify6.com CNAME .
@@ -557,6 +561,7 @@
 3588597.notifysrv.com CNAME .
 3588599.notifysrv.com CNAME .
 3590311.notify6.com CNAME .
+3590449.notify6.com CNAME .
 3591075.notify6.com CNAME .
 3591075.notifysrv.com CNAME .
 3593835.notify6.com CNAME .
@@ -615,6 +620,7 @@
 3682345.notifysrv.com CNAME .
 3701725.notifysrv.com CNAME .
 3701939.notify6.com CNAME .
+3710061.notify6.com CNAME .
 3710063.notifysrv.com CNAME .
 3710069.notifysrv.com CNAME .
 3710075.notify6.com CNAME .
@@ -885,6 +891,7 @@
 5602.notify.optimizesrv.com CNAME .
 577.notify.optimizesrv.com CNAME .
 583.notify.optimizesrv.com CNAME .
+589.notify.optimizesrv.com CNAME .
 603.notify.optimizesrv.com CNAME .
 6146.notify.optimizesrv.com CNAME .
 6154.notify.optimizesrv.com CNAME .
@@ -897,6 +904,8 @@
 8.notify.bizonads-ssp.com CNAME .
 905.notify.optimizesrv.com CNAME .
 913.notify.optimizesrv.com CNAME .
+925.notify.optimizesrv.com CNAME .
+955.notify.optimizesrv.com CNAME .
 963.notify.optimizesrv.com CNAME .
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
@@ -950,6 +959,7 @@ origin-ads.exdynsrv.com CNAME .
 origin-ads.exosrv.com CNAME .
 origin-ads.optimizesrv.com CNAME .
 origin-ads.realsrv.com CNAME .
+rtb.advertrek.com CNAME .
 rtb.exoclick.com CNAME .
 s.a3ion.com CNAME .
 s.ad.guru CNAME .
@@ -1036,11 +1046,13 @@ syndication.whibd.com CNAME .
 syndication.whibp.com CNAME .
 syndication0.exoclick.com CNAME .
 t.optzsrv.com CNAME .
+www.12.notify.bizonads-ssp.com CNAME .
 www.3191479.notifysrv.com CNAME .
 www.3227697.notify6.com CNAME .
 www.3243082.notifysrv.com CNAME .
 www.3466863.notify6.com CNAME .
 www.4152316.notify6.com CNAME .
+www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 xn--3225689-o06c.notifysrv.com CNAME .

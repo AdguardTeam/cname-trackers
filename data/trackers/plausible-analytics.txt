@@ -62,11 +62,8 @@
 ||analytics.wittypen.com^
 ||analytics.xiloc.net^
 ||analytics.zevvle.com^
-||anneliese.scale.at^
 ||antitracking.owncast.online^
-||ap.dt.gl^
 ||api.digitalpiloten.org^
-||api.dt.gl^
 ||api.eichendorffschule.online^
 ||api.elliehuxtable.com^
 ||api.fuck.education^
@@ -124,8 +121,6 @@
 ||kaladyaudiology.ericksonbuilt.com^
 ||kekw.givetip.to^
 ||kingsandqueens.splowser.com^
-||kon.mediaplatform.group^
-||ks.walkq.com^
 ||l.lilyzhou.com^
 ||l2k30jsa.theochu.com^
 ||lkj23jlkajsa.realestate.help^
@@ -217,7 +212,6 @@
 ||plausible.as207960.net^
 ||plausible.bablab.com^
 ||plausible.bacanalia.net^
-||plausible.banovo.de^
 ||plausible.baychi.org^
 ||plausible.beanti.me^
 ||plausible.bearer.sh^
@@ -261,7 +255,6 @@
 ||plausible.k6sbw.net^
 ||plausible.kabaret.no^
 ||plausible.kdojang.com^
-||plausible.kreya.app^
 ||plausible.langojango.com^
 ||plausible.lesbianromantic.com^
 ||plausible.logicboard.com^
@@ -270,7 +263,6 @@
 ||plausible.myvirtualsuper.com^
 ||plausible.nickmazuk.com^
 ||plausible.nova.app^
-||plausible.nubemia.com^
 ||plausible.nuqu.org^
 ||plausible.panic.com^
 ||plausible.play.date^
@@ -284,7 +276,6 @@
 ||plausible.reactpreview.com^
 ||plausible.redchamp.net^
 ||plausible.regex.help^
-||plausible.riok.ch^
 ||plausible.sbw.org^
 ||plausible.shadygrovepca.org^
 ||plausible.simplelogin.io^
@@ -323,7 +314,6 @@
 ||reddwarf.till-sanders.de^
 ||reporting.autographapp.me^
 ||retention.ankidecks.com^
-||s.80000hours.org^
 ||s.allbootdisks.com^
 ||s.aromapix.com^
 ||s.cameratico.com^
@@ -453,6 +443,7 @@
 ||stats.brumtechtapas.co.uk^
 ||stats.buddiy.net^
 ||stats.bungeefit.co.uk^
+||stats.burocratin.com^
 ||stats.buttondown.email^
 ||stats.byma.com.br^
 ||stats.byterocket.dev^
@@ -782,6 +773,7 @@
 ||stats.nullsecure.com^
 ||stats.nytecomics.com^
 ||stats.obiit.co^
+||stats.obokat.se^
 ||stats.odysseeseine.org^
 ||stats.officefoosball.com^
 ||stats.offthekerb.com^
@@ -898,6 +890,7 @@
 ||stats.shepherd.com^
 ||stats.shiftx.com^
 ||stats.siedentop.dev^
+||stats.simplinetworks.com^
 ||stats.sirdata.com^
 ||stats.sixseven.at^
 ||stats.ski.com^
@@ -925,15 +918,16 @@
 ||stats.symbiofest.cz^
 ||stats.table.party^
 ||stats.tablepeninsula.ca^
+||stats.tarasyarema.com^
 ||stats.tedserbinski.com^
 ||stats.teenranch.com^
 ||stats.tekin.co.uk^
 ||stats.terre-compagne.fr^
+||stats.terribleprojectideas.com^
 ||stats.thedale.org^
 ||stats.theiere-tasse.com^
 ||stats.thelandofar.be^
 ||stats.thenewradiance.com^
-||stats.theopenice.com^
 ||stats.thingsthatkeepmeupatnight.dev^
 ||stats.thomasbandt.com^
 ||stats.thomasfroese.com^

@@ -75,7 +75,6 @@ click.plarimocl.com
 click.plarimoexocli.com
 click.plarimoplus.com
 click.precmd.com
-click.pyrrhicmechntech.com
 clicks.uptownleads.com
 clickv6.expmediadirect1.com
 clickv6.junmediadirect.com
@@ -159,6 +158,7 @@ dsp.yeesshh.com
 dspplatform.anytheengmedia.com
 exchange.adkernel.com
 exchange.nativeads.com
+exchange.nativeadshb.com
 feed.clickmenia.com
 filter-eu.adoperatorx.com
 filter-eu.adright.co
@@ -940,7 +940,6 @@ xml-v4.fstsrv4.com
 xml-v4.gipostart-1.co
 xml-v4.gipostart-2.co
 xml-v4.goclickz.net
-xml-v4.hawkads.in
 xml-v4.hetcash.com
 xml-v4.klapads.com
 xml-v4.kunvertads.com
@@ -973,7 +972,6 @@ xml.80xmedia.com
 xml.9dotsmedia.com
 xml.acertb.com
 xml.ad-maven.com
-xml.adapace.com
 xml.adcannybid.com
 xml.adcannyxml.com
 xml.adcy.net
@@ -1124,7 +1122,6 @@ xml.pushmobo.com
 xml.pushub.net
 xml.pwr-ads.com
 xml.pxfind3.com
-xml.pyrrhicmechntech.com
 xml.q32167.com
 xml.qksrv.biz
 xml.qksrv.cc

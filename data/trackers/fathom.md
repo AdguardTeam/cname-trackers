@@ -270,6 +270,7 @@
 | coyote.txet.ch | deprecated-custom-domains.b-cdn.net |
 | crab.dunkeldbutchers.co.uk | deprecated-custom-domains.b-cdn.net |
 | crab.goalcanvas.com | deprecated-custom-domains.b-cdn.net |
+| crane.auctic.com | deprecated-custom-domains.b-cdn.net |
 | crane.maggsgroup.com | deprecated-custom-domains.b-cdn.net |
 | crane.thegardenroomguide.co.uk | deprecated-custom-domains.b-cdn.net |
 | crane.trescolori.cloud | deprecated-custom-domains.b-cdn.net |
@@ -344,7 +345,6 @@
 | echidna.eyalgantz.me | deprecated-custom-domains.b-cdn.net |
 | echidna.hellotomorrow.agency | deprecated-custom-domains.b-cdn.net |
 | echidna.honeybadger.io | deprecated-custom-domains.b-cdn.net |
-| ecoonll.eskridge.dev | deprecated-custom-domains.b-cdn.net |
 | eel.aware7.de | deprecated-custom-domains.b-cdn.net |
 | eel.beekeeperstudio.io | deprecated-custom-domains.b-cdn.net |
 | eel.cuabuilders.com | deprecated-custom-domains.b-cdn.net |
@@ -379,7 +379,6 @@
 | ferret.itsf.red | deprecated-custom-domains.b-cdn.net |
 | ferret.jesper.hk | deprecated-custom-domains.b-cdn.net |
 | ferret.linksoftwarellc.com | deprecated-custom-domains.b-cdn.net |
-| ferret.siloam.ch | deprecated-custom-domains.b-cdn.net |
 | ferret.tailgraph.com | deprecated-custom-domains.b-cdn.net |
 | finch.eyal.rocks | deprecated-custom-domains.b-cdn.net |
 | finch.koronasporing.no | deprecated-custom-domains.b-cdn.net |
@@ -482,6 +481,7 @@
 | heron.scarletnoir.co | deprecated-custom-domains.b-cdn.net |
 | herring.artemis.cloud | deprecated-custom-domains.b-cdn.net |
 | herring.panda.network | deprecated-custom-domains.b-cdn.net |
+| herring.superfast.dev | deprecated-custom-domains.b-cdn.net |
 | hookworm.campaignzee.com | deprecated-custom-domains.b-cdn.net |
 | hornet.energizer.co.za | deprecated-custom-domains.b-cdn.net |
 | hornet.jeffgable.com | deprecated-custom-domains.b-cdn.net |
@@ -776,7 +776,6 @@
 | polarbear.codeday.org | deprecated-custom-domains.b-cdn.net |
 | polarbear.wpnow.dev | deprecated-custom-domains.b-cdn.net |
 | pony.ftm.cat | deprecated-custom-domains.b-cdn.net |
-| pony.gugg.at | deprecated-custom-domains.b-cdn.net |
 | porcupine.dvresolve.com | deprecated-custom-domains.b-cdn.net |
 | porcupine.simpleprax.de | deprecated-custom-domains.b-cdn.net |
 | porpoise.azettl.net | deprecated-custom-domains.b-cdn.net |
@@ -802,7 +801,6 @@
 | puma.strategyascode.com | deprecated-custom-domains.b-cdn.net |
 | python.casuallyprivate.com | deprecated-custom-domains.b-cdn.net |
 | python.jukejuke.app | deprecated-custom-domains.b-cdn.net |
-| quail.efix.uk | deprecated-custom-domains.b-cdn.net |
 | quail.trueglowbylaura.com | deprecated-custom-domains.b-cdn.net |
 | quelea.igotcha.de | deprecated-custom-domains.b-cdn.net |
 | quokka.bulkbuyhosting.com | deprecated-custom-domains.b-cdn.net |
@@ -882,7 +880,6 @@
 | slug.sirenergies.com | deprecated-custom-domains.b-cdn.net |
 | smelt.allenpike.com | deprecated-custom-domains.b-cdn.net |
 | smelt.gautrowski.com | deprecated-custom-domains.b-cdn.net |
-| snail.evergrace.co | deprecated-custom-domains.b-cdn.net |
 | snake.kiramclean.com | deprecated-custom-domains.b-cdn.net |
 | snipe.mfaber.at | deprecated-custom-domains.b-cdn.net |
 | snipe.mizzuu.co | deprecated-custom-domains.b-cdn.net |
@@ -899,7 +896,6 @@
 | spider.scottw.com | deprecated-custom-domains.b-cdn.net |
 | spider.storiesofchang.com | deprecated-custom-domains.b-cdn.net |
 | spoonbill.deknot.io | deprecated-custom-domains.b-cdn.net |
-| spoonbill.memberkit.com.br | deprecated-custom-domains.b-cdn.net |
 | squid.adart.cc | deprecated-custom-domains.b-cdn.net |
 | squid.antevo.com.au | deprecated-custom-domains.b-cdn.net |
 | squirrel.cividi.ch | deprecated-custom-domains.b-cdn.net |
@@ -958,7 +954,6 @@
 | tiger.devlib.se | deprecated-custom-domains.b-cdn.net |
 | tigershark.advaya.co | deprecated-custom-domains.b-cdn.net |
 | tigershark.garethtdavies.com | deprecated-custom-domains.b-cdn.net |
-| tigershark.givecarenetsv.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.hasanahmad.ca | deprecated-custom-domains.b-cdn.net |
 | tigershark.integratecolumbus.org | deprecated-custom-domains.b-cdn.net |
 | tigershark.moonpot.com | deprecated-custom-domains.b-cdn.net |
@@ -966,6 +961,7 @@
 | tigershark.paavanmagic.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.vandevliet.me | deprecated-custom-domains.b-cdn.net |
 | tiglon.beyondco.de | deprecated-custom-domains.b-cdn.net |
+| tiglon.davidroessli.com | deprecated-custom-domains.b-cdn.net |
 | tortoise.transistor.fm | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
@@ -1030,6 +1026,7 @@
 | wildebeest.theheritagelodge.com | deprecated-custom-domains.b-cdn.net |
 | wildebeest.trigo.dev | deprecated-custom-domains.b-cdn.net |
 | wildfowl.minter.io | deprecated-custom-domains.b-cdn.net |
+| wolf.idthompson.com | deprecated-custom-domains.b-cdn.net |
 | wolverine.barac.at | deprecated-custom-domains.b-cdn.net |
 | wolverine.jhdierenklinieken.nl | deprecated-custom-domains.b-cdn.net |
 | wombat.buildrtech.com | deprecated-custom-domains.b-cdn.net |
@@ -1358,7 +1355,6 @@
 | echidna.eyalgantz.me | starman.fathomdns.com |
 | echidna.hellotomorrow.agency | starman.fathomdns.com |
 | echidna.honeybadger.io | starman.fathomdns.com |
-| ecoonll.eskridge.dev | starman.fathomdns.com |
 | eel.aware7.de | starman.fathomdns.com |
 | eel.beekeeperstudio.io | starman.fathomdns.com |
 | eel.cuabuilders.com | starman.fathomdns.com |
@@ -1618,6 +1614,7 @@
 | locust.ausrebellion.earth | starman.fathomdns.com |
 | locust.michiel-gerritsen.com | starman.fathomdns.com |
 | loon.davidalindahl.com | starman.fathomdns.com |
+| loon.jrmyfranck.com | starman.fathomdns.com |
 | loon.ohmyfunds.com | starman.fathomdns.com |
 | louse.16bit.it | starman.fathomdns.com |
 | louse.demaree.space | starman.fathomdns.com |
@@ -1748,6 +1745,7 @@
 | partridge.flooint.com | starman.fathomdns.com |
 | peacock.psych.help | starman.fathomdns.com |
 | peafowl.projectstrackt.dev | starman.fathomdns.com |
+| penguin.craftpeak.io | starman.fathomdns.com |
 | penguin.mobiadroit.com | starman.fathomdns.com |
 | penguin.revolana.com | starman.fathomdns.com |
 | penguin.sunny.app | starman.fathomdns.com |
@@ -1780,7 +1778,6 @@
 | polarbear.codeday.org | starman.fathomdns.com |
 | polarbear.wpnow.dev | starman.fathomdns.com |
 | pony.ftm.cat | starman.fathomdns.com |
-| pony.gugg.at | starman.fathomdns.com |
 | porcupine.dvresolve.com | starman.fathomdns.com |
 | porcupine.simpleprax.de | starman.fathomdns.com |
 | porpoise.azettl.net | starman.fathomdns.com |
@@ -1804,7 +1801,6 @@
 | puma.strategyascode.com | starman.fathomdns.com |
 | python.casuallyprivate.com | starman.fathomdns.com |
 | python.jukejuke.app | starman.fathomdns.com |
-| quail.efix.uk | starman.fathomdns.com |
 | quail.trueglowbylaura.com | starman.fathomdns.com |
 | quelea.igotcha.de | starman.fathomdns.com |
 | quokka.bulkbuyhosting.com | starman.fathomdns.com |
@@ -1834,7 +1830,6 @@
 | rook.clarify.io | starman.fathomdns.com |
 | rook.flowlens.com | starman.fathomdns.com |
 | rook.grithix.com | starman.fathomdns.com |
-| rooster.coombaaquatic.club | starman.fathomdns.com |
 | sailfish.hoap.com | starman.fathomdns.com |
 | sailfish.kentcdodds.com | starman.fathomdns.com |
 | sailfish.lifelines-film.com | starman.fathomdns.com |
@@ -1878,7 +1873,6 @@
 | slug.sirenergies.com | starman.fathomdns.com |
 | smelt.allenpike.com | starman.fathomdns.com |
 | smelt.gautrowski.com | starman.fathomdns.com |
-| snail.evergrace.co | starman.fathomdns.com |
 | snake.kiramclean.com | starman.fathomdns.com |
 | snipe.mfaber.at | starman.fathomdns.com |
 | snipe.mizzuu.co | starman.fathomdns.com |
@@ -1895,7 +1889,6 @@
 | spider.scottw.com | starman.fathomdns.com |
 | spider.storiesofchang.com | starman.fathomdns.com |
 | spoonbill.deknot.io | starman.fathomdns.com |
-| spoonbill.memberkit.com.br | starman.fathomdns.com |
 | squid.adart.cc | starman.fathomdns.com |
 | squid.antevo.com.au | starman.fathomdns.com |
 | squirrel.cividi.ch | starman.fathomdns.com |
@@ -1923,7 +1916,6 @@
 | swift.jos.ht | starman.fathomdns.com |
 | swift.radio12.org | starman.fathomdns.com |
 | swift.unovy.net | starman.fathomdns.com |
-| swordfish.elvietanny.com | starman.fathomdns.com |
 | swordfish.floofs.com | starman.fathomdns.com |
 | swordfish.holzschuhe.at | starman.fathomdns.com |
 | swordfish.hotcross.com | starman.fathomdns.com |
@@ -2035,3 +2027,4 @@
 | yak.auclantis.com | starman.fathomdns.com |
 | yak.flutterblog.net | starman.fathomdns.com |
 | zebra.gareth.sh | starman.fathomdns.com |
+| zebra.helpspot.com | starman.fathomdns.com |

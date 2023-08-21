@@ -125,6 +125,7 @@ a8.hokkaido-nb.jp
 a8.i-netservice.net
 a8.idiy.biz
 a8.iisakafuji.online
+a8.ikkatsu.jp
 a8.industrial-branch.com
 a8.ippin-do.com
 a8.ixyee.net
@@ -290,6 +291,7 @@ a8.williesenglish.jp
 a8.wizrecruitment.012grp.co.jp
 a8.worldikids.com
 a8.www.melonbooks.co.jp
+a8.www.retrospect.co.jp
 a8.www.smart-factor.co.jp
 a8.xn--y8jd4aybzqd.jp
 a8.yanoman.com
@@ -473,7 +475,6 @@ a8clk.mat.duskin-hozumi.co.jp
 a8clk.meister-coating.com
 a8clk.mens-rinx.jp
 a8clk.merry.duskin-hozumi.co.jp
-a8clk.mh-s.jp
 a8clk.miidas.jp
 a8clk.minnadeooyasan.com
 a8clk.mirrorball-recurit.emanon-sharesalon.com
@@ -910,6 +911,7 @@ a8cv.online.aivil.jp
 a8cv.online.bell-road.com
 a8cv.online.d-school.co
 a8cv.online.thekiss.co.jp
+a8cv.onlinestore.xmobile.ne.jp
 a8cv.onlinezemi.com
 a8cv.open-cage.com
 a8cv.orbis.co.jp
@@ -1240,6 +1242,7 @@ ntt-fletscv.ntt-flets.com
 onenet.gakujutsu.com
 p004.raffi-hair.com
 p005.raffi-hair.com
+pages2.rizap.jp
 salto.freeto.jp
 shop.anu-cosme.com
 shopping.cellpure.co.jp
@@ -1254,6 +1257,7 @@ summary.bookoffonline.co.jp
 sync-a8.cocolocala.jp
 test.zeus-wifi.jp
 testa8wifi.dokoyorimo.com
+thanks.hubspaces.jp
 thanks.olivesitter.com
 thanks.tsubaki-musicschool.com
 track-v4.ipadpresence.com
@@ -1285,4 +1289,5 @@ web.life-cw.com
 web.nuro-life.com
 webtest.lpio.jp
 wnform.www.trecenti.com
+www.a8clk.amelia.ne.jp
 www.a8clk.kanagawa-zero.com

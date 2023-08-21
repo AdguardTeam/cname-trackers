@@ -69,6 +69,7 @@ ddd.sexstories69.com CNAME .
 dr1.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
 faq.brandnewapp.pro CNAME .
+flw.camcaps.ac CNAME .
 ge6.getfto.com CNAME .
 get.xclick24.com CNAME .
 go.lize.bid CNAME .
