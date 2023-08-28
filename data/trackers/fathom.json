@@ -306,6 +306,7 @@
   "donkey.hackoregon.org": "deprecated-custom-domains.b-cdn.net",
   "donkey.kontematik.com": "deprecated-custom-domains.b-cdn.net",
   "donkey.masteringfinland.com": "deprecated-custom-domains.b-cdn.net",
+  "donkey.oncarbon.app": "deprecated-custom-domains.b-cdn.net",
   "donkey.routinehub.co": "deprecated-custom-domains.b-cdn.net",
   "donkey.the3rd.place": "deprecated-custom-domains.b-cdn.net",
   "dormouse.consentkit.com": "deprecated-custom-domains.b-cdn.net",
@@ -363,7 +364,6 @@
   "ferret.itsf.red": "deprecated-custom-domains.b-cdn.net",
   "ferret.jesper.hk": "deprecated-custom-domains.b-cdn.net",
   "ferret.linksoftwarellc.com": "deprecated-custom-domains.b-cdn.net",
-  "ferret.siloam.ch": "starman.fathomdns.com",
   "ferret.tailgraph.com": "deprecated-custom-domains.b-cdn.net",
   "finch.eyal.rocks": "deprecated-custom-domains.b-cdn.net",
   "finch.koronasporing.no": "deprecated-custom-domains.b-cdn.net",
@@ -393,6 +393,7 @@
   "gayal.guter-plan.at": "deprecated-custom-domains.b-cdn.net",
   "gayal.maxmasnick.com": "deprecated-custom-domains.b-cdn.net",
   "gayal.stockshouse.co": "deprecated-custom-domains.b-cdn.net",
+  "gazelle.editorclub.com": "deprecated-custom-domains.b-cdn.net",
   "gazelle.laurenagray.com": "deprecated-custom-domains.b-cdn.net",
   "gecko.anagodeck.com": "deprecated-custom-domains.b-cdn.net",
   "gecko.rrrelax.app": "deprecated-custom-domains.b-cdn.net",
@@ -1026,7 +1027,6 @@
   "yak.animeawards.guide": "deprecated-custom-domains.b-cdn.net",
   "yak.auclantis.com": "deprecated-custom-domains.b-cdn.net",
   "yak.flutterblog.net": "deprecated-custom-domains.b-cdn.net",
-  "z3k9si.covid-resources.com": "deprecated-custom-domains.b-cdn.net",
   "zebra.gareth.sh": "deprecated-custom-domains.b-cdn.net",
   "zebra.helpspot.com": "deprecated-custom-domains.b-cdn.net"
 }

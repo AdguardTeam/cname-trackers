@@ -77,7 +77,6 @@
 ||res.elle.fr^
 ||res.femina.fr^
 ||res.franc-tireur.fr^
-||res.francedimanche.fr^
 ||res.marianne.net^
 ||res.programme-television.org^
 ||res.public.fr^

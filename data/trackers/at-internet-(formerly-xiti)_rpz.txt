@@ -77,7 +77,6 @@ protys.protys.fr CNAME .
 res.elle.fr CNAME .
 res.femina.fr CNAME .
 res.franc-tireur.fr CNAME .
-res.francedimanche.fr CNAME .
 res.marianne.net CNAME .
 res.programme-television.org CNAME .
 res.public.fr CNAME .

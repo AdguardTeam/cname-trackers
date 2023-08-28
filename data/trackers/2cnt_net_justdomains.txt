@@ -303,6 +303,7 @@ ssl-goerdetselv.tns-gallup.dk
 ssl-golf.tns-gallup.dk
 ssl-guloggratis.tns-gallup.dk
 ssl-historienet.tns-gallup.dk
+ssl-holdsport.tns-gallup.dk
 ssl-ida.tns-gallup.dk
 ssl-illvid.tns-gallup.dk
 ssl-information.tns-gallup.dk

@@ -24,7 +24,6 @@
 | asg.javhoho.com | api.clickaine.com |
 | asg.torocomoroco.work | api.clickaine.com |
 | asg.uzporn.com | api.clickaine.com |
-| axx.arabsex1.com | api.clickaine.com |
 | c.gotoxxxtube.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c0n.urlgalleries.net | api.clickaine.com |
@@ -100,13 +99,11 @@
 | reg.ancensored.com | api.clickaine.com |
 | s1.rtnews.pro | api.clickaine.com |
 | s5.rtnews.pro | api.clickaine.com |
-| sda.arabsex1.com | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |
-| uy.arabsex1.com | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
 | www.bokep.su | api.clickaine.com |
+| www.faq.brandnewapp.pro | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |
 | xd3r.javgg.eu | api.clickaine.com |
-| xxx.arabsex1.com | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |

@@ -11,7 +11,6 @@
 ||042006961f.0c98edaa39.com^
 ||052d3c5276.875413cfaf.com^
 ||060ec415b9.15d3c0325b.com^
-||071cc548ff.78ab4874ae.com^
 ||082c013e7b.9a876646fa.com^
 ||084cc7e11c.abc35a1d01.com^
 ||088d98f687.7a3b147921.com^
@@ -96,7 +95,6 @@
 ||423cc0af23.3a91727319.com^
 ||42412d3534.32f36a4d79.com^
 ||428fcb314a.5ae63880d1.com^
-||434d80d136.a07d30aaf0.com^
 ||45f71a1f62.912644c528.com^
 ||463c285fde.66dbf809af.com^
 ||46bdd45622.48b1378f08.com^
@@ -115,6 +113,7 @@
 ||4ee283d2af.9f8695e9a4.com^
 ||4f7909aec6.cc19ba8a6c.com^
 ||4fc89cba3d.e67df3f29d.com^
+||518b98b921.7ecd70404f.com^
 ||52292b9db4.e4cd7bbad2.com^
 ||52b517df93.d26b092649.com^
 ||531a51d349.0d55d13cf1.com^
@@ -153,12 +152,14 @@
 ||696a867e8a.e048fe379c.com^
 ||6aca58cba6.106cdb2259.com^
 ||6b4f801684.22ecbd33ca.com^
+||6d2d067dd8.d870307884.com^
 ||6d39ef5c0b.7002fca3a7.com^
 ||6d6206ec1d.ee6ed602d3.com^
 ||6df506d68b.1708f2b5f1.com^
 ||6ef94a502b.64134c91b6.com^
 ||70832e4e42.1c8a98da68.com^
 ||710434b975.6de8cd75aa.com^
+||71a779e11d.3e6490d30a.com^
 ||727eee8d0c.d65941bfa8.com^
 ||749e473277.b6deee8a5f.com^
 ||75263a609c.143f0a3452.com^
@@ -196,9 +197,9 @@
 ||8dba8f6d76.3ce27e9b41.com^
 ||8ef71a6605.5115924dd3.com^
 ||9028b77447.a5acd46254.com^
-||90f6d578cc.2725849b34.com^
 ||914ceb3906.7d4a41c596.com^
 ||91d0933ded.fd4ac79d49.com^
+||91f28dca60.47216dc00b.com^
 ||9323b0c766.5ffdc5b302.com^
 ||935d005ddf.42aa201382.com^
 ||93684a0a94.f57fbf2b51.com^
@@ -242,9 +243,9 @@
 ||b46ccb8d87.3829e58bb1.com^
 ||b56d33d644.b72e4b93d9.com^
 ||b598b37764.ce6fdab0f2.com^
+||b6cc537d55.212fea9f61.com^
 ||b6e9a8ce8a.85c0a6a0ea.com^
 ||b87e6d6445.9900a0b18c.com^
-||b9aa96f359.c685ad29ce.com^
 ||ba182692bb.0c1d501ba1.com^
 ||babcca7fba.dca8d1600b.com^
 ||bc63f84631.5e9d31c60e.com^
@@ -295,6 +296,7 @@
 ||dfc8514de8.1ca65f5f5b.com^
 ||e099af5046.08dc0b0152.com^
 ||e144c46b1f.ab910ac1aa.com^
+||e172aea9a0.66fb5240da.com^
 ||e1de143963.cc3f3eedbb.com^
 ||e341c11575.f63f3176ad.com^
 ||e4709b9f29.afe95832bb.com^
@@ -336,8 +338,6 @@
 ||fe8d4b33c2.8abf43d6ad.com^
 ||ff04a1538a.ced4d66e2d.com^
 ||a135.wftv.com^
-||a235.ourmidland.com^
-||mlive.share.ntv.io^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 ||a135.fox23.com^
@@ -371,6 +371,7 @@
 ||ksn.share.ntv.io^
 ||littlethings.share.ntv.io^
 ||miamiherald.share.ntv.io^
+||mlive.share.ntv.io^
 ||mortgagesolutions.share.ntv.io^
 ||motortrend.share.ntv.io^
 ||mynorthwest.share.ntv.io^
@@ -388,19 +389,16 @@
 ||wsbradio.share.ntv.io^
 ||wvtm13.share.ntv.io^
 ||a135.htvnativeadsolutions.com^
-||a235.chron.com^
 ||a235.ctnews.com^
-||a235.ctpost.com^
 ||a235.gametimect.com^
 ||a235.greenwichtime.com^
 ||a235.htvnativeadsolutions.com^
 ||a235.lmtonline.com^
-||a235.middletownpress.com^
 ||a235.mrt.com^
 ||a235.myjournalcourier.com^
 ||a235.myplainview.com^
-||a235.newstimes.com^
 ||a235.nhregister.com^
+||a235.ourmidland.com^
 ||a235.registercitizen.com^
 ||a235.seattlepi.com^
 ||a235.sfgate.com^

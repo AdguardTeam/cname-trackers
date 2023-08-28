@@ -12,6 +12,7 @@ cdn.asopn.com CNAME .
 cdn.asrop.xyz CNAME .
 cdn.barlo.xyz CNAME .
 cdn.buram.xyz CNAME .
+cdn.cabhwq.com CNAME .
 cdn.decpo.xyz CNAME .
 cdn.drawx.xyz CNAME .
 cdn.eecd.xyz CNAME .
@@ -345,6 +346,7 @@ donkey.elegantmusicgroup.com CNAME .
 donkey.guggenbichler.co.at CNAME .
 donkey.hackoregon.org CNAME .
 donkey.kontematik.com CNAME .
+donkey.oncarbon.app CNAME .
 donkey.routinehub.co CNAME .
 donkey.the3rd.place CNAME .
 dormouse.consentkit.com CNAME .
@@ -402,7 +404,6 @@ ferret.helpspace.com CNAME .
 ferret.itsf.red CNAME .
 ferret.jesper.hk CNAME .
 ferret.linksoftwarellc.com CNAME .
-ferret.siloam.ch CNAME .
 ferret.tailgraph.com CNAME .
 finch.eyal.rocks CNAME .
 finch.koronasporing.no CNAME .
@@ -432,6 +433,7 @@ gamefowl.nonprofit.foundation CNAME .
 gayal.guter-plan.at CNAME .
 gayal.maxmasnick.com CNAME .
 gayal.stockshouse.co CNAME .
+gazelle.editorclub.com CNAME .
 gazelle.laurenagray.com CNAME .
 gecko.anagodeck.com CNAME .
 gecko.rrrelax.app CNAME .
@@ -963,6 +965,7 @@ tiger.devlib.se CNAME .
 tigershark.advaya.co CNAME .
 tigershark.garethtdavies.com CNAME .
 tigershark.moonpot.com CNAME .
+tigershark.oilpriceapi.com CNAME .
 tigershark.paavanmagic.com CNAME .
 tigershark.vandevliet.me CNAME .
 tiglon.beyondco.de CNAME .

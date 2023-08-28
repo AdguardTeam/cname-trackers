@@ -120,7 +120,6 @@ share.worldmarket.com CNAME .
 sharethelove.teacollection.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
-www.refercentier.com CNAME .
 www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
@@ -177,6 +176,7 @@ refer.baxterofcalifornia.com CNAME .
 refer.bfr.com CNAME .
 refer.bioionic.com CNAME .
 refer.bobstores.com CNAME .
+refer.booksy.com CNAME .
 refer.bose.co.uk CNAME .
 refer.bose.com CNAME .
 refer.bose.de CNAME .
@@ -612,7 +612,6 @@ share.usatoday.com CNAME .
 share.vcstar.com CNAME .
 share.veo.co CNAME .
 share.veritycu.com CNAME .
-share.vichyusa.com CNAME .
 share.vonage.co.uk CNAME .
 share.vonage.com CNAME .
 share.wagwalking.com CNAME .

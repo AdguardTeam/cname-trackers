@@ -366,6 +366,7 @@
 | 3385751.notify6.com | tk6if76q.ab1n.net |
 | 3385991.notify6.com | tk6if76q.ab1n.net |
 | 3385991.notifysrv.com | tk6if76q.ab1n.net |
+| 3386671.notify6.com | tk6if76q.ab1n.net |
 | 3389741.notify6.com | tk6if76q.ab1n.net |
 | 3392623.notify6.com | tk6if76q.ab1n.net |
 | 3392623.notifysrv.com | tk6if76q.ab1n.net |
@@ -780,6 +781,7 @@
 | 4004928.notify6.com | tk6if76q.ab1n.net |
 | 4018398.notify6.com | tk6if76q.ab1n.net |
 | 4021032.notify6.com | tk6if76q.ab1n.net |
+| 4022280.notify6.com | tk6if76q.ab1n.net |
 | 4022504.notify6.com | tk6if76q.ab1n.net |
 | 4022684.notify6.com | tk6if76q.ab1n.net |
 | 4031264.notify6.com | tk6if76q.ab1n.net |
@@ -1061,7 +1063,6 @@
 | xn--3225689-o06c.notifysrv.com | tk6if76q.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
 | admin.ad.guru | v3j9t5q9.ab1n.net |
-| admin.adnation.com | v3j9t5q9.ab1n.net |
 | admin.adstuff.io | v3j9t5q9.ab1n.net |
 | admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
@@ -1087,7 +1088,6 @@
 | management-adguru.exads.com | x0xmrxm4.ab1n.net |
 | management-adwirk.exads.com | x0xmrxm4.ab1n.net |
 | management-boost.exads.com | x0xmrxm4.ab1n.net |
-| management-crakmedia.exads.com | x0xmrxm4.ab1n.net |
 | management-itsup.exads.com | x0xmrxm4.ab1n.net |
 | management-paradoxgroup.exads.com | x0xmrxm4.ab1n.net |
 | management-paradoxmedia.exads.com | x0xmrxm4.ab1n.net |

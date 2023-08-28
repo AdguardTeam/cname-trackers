@@ -14,4 +14,3 @@ fpa-events.decrypt.co CNAME .
 fpa-events.newsweek.com CNAME .
 fpa-events.slate.com CNAME .
 image.undsslearnin.org CNAME .
-vo.ashgabat.fun CNAME .

@@ -195,10 +195,6 @@
     * adzgame.rtb-useast.ak-is2.net
     * adzgame.ui.ak-is2.net
     * adzgame.xml.ak-is2.net
-    * africonverse.click-useast.ak-is2.net
-    * africonverse.rtb-as-useast.ak-is2.net
-    * africonverse.ui.ak-is2.net
-    * africonverse.win-useast.ak-is2.net
     * afront.io.xml-v4.ak-is2.net
     * afront.io.xml.ak-is2.net
     * amtechads.ui.ak-is2.net
@@ -889,7 +885,6 @@
 * s8i6i5v3.stackpathcdn.com
 * n3r3w7j3.stackpathcdn.com
 * y9y7w5v9.stackpathcdn.com
-* m5v2w4d4.stackpathcdn.com
 * y4p7g9a7.stackpathcdn.com
 * d6g5i6p5.stackpathcdn.com
 * x7u2w2v6.stackpathcdn.com
@@ -927,7 +922,6 @@
 * x6j6c8t7.stackpathcdn.com
 * j4y7z6r3.stackpathcdn.com
 * i8y9r6y7.stackpathcdn.com
-* m8g2x5q7.stackpathcdn.com
 * m8k9e4d5.stackpathcdn.com
 * g9j2v9e5.stackpathcdn.com
 * x5v4f2c5.stackpathcdn.com
@@ -1011,7 +1005,6 @@
 | cpm.adjux.com | 1.cpm.ak-is2.net |
 | cpm.adlive.io | 1.cpm.ak-is2.net |
 | cpm.adsolut.in | 1.cpm.ak-is2.net |
-| cpm.africonverse.com | 1.cpm.ak-is2.net |
 | cpm.andbeyond.media | 1.cpm.ak-is2.net |
 | cpm.audience.media | 1.cpm.ak-is2.net |
 | cpm.audiencedevelopers.com | 1.cpm.ak-is2.net |
@@ -1063,6 +1056,7 @@
 | display.rtb-serve.com | 1.cpm.ak-is2.net |
 | exchange.adkernel.com | 1.cpm.ak-is2.net |
 | exchange.nativeads.com | 1.cpm.ak-is2.net |
+| exchange.nativeadshb.com | 1.cpm.ak-is2.net |
 | serve.datacygnal.io | 1.cpm.ak-is2.net |
 | sync.adkernel.com | 1.cpm.ak-is2.net |
 | vid-cpm.xapads.com | 1.cpm.ak-is2.net |
@@ -1385,10 +1379,6 @@
 | search.adzgame.com | adzgame.ui.ak-is2.net |
 | sub.adzgame.com | adzgame.xml.ak-is2.net |
 | xml.adzgame.com | adzgame.xml.ak-is2.net |
-| click-rtb2-useast.africonverse.com | africonverse.click-useast.ak-is2.net |
-| rtb2-useast.africonverse.com | africonverse.rtb-as-useast.ak-is2.net |
-| login.africonverse.com | africonverse.ui.ak-is2.net |
-| win-rtb2-useast.africonverse.com | africonverse.win-useast.ak-is2.net |
 | xml-v4.afront.io | afront.io.xml-v4.ak-is2.net |
 | xml.afront.io | afront.io.xml.ak-is2.net |
 | login.amtechads.com | amtechads.ui.ak-is2.net |
@@ -1816,9 +1806,7 @@
 | static.danarimedia.com | m2m5y6j2.stackpathcdn.com |
 | static.fastmtn.com | m3h8a2t5.stackpathcdn.com |
 | static.admozartppc.com | m3y8r7u4.stackpathcdn.com |
-| static-rtb2.africonverse.com | m5v2w4d4.stackpathcdn.com |
 | static.rtbdemand.com | m8b5z5w9.stackpathcdn.com |
-| static.africonverse.com | m8g2x5q7.stackpathcdn.com |
 | static.amgadserver.com | m8k9e4d5.stackpathcdn.com |
 | static.mediastinct.com | m9q4r6w5.stackpathcdn.com |
 | rtb-useast.mybiddertop.xyz | madopi.rtb-useast.ak-is2.net |

@@ -23,7 +23,6 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | image.undsslearnin.org | cdn.parsely.com |
-| vo.ashgabat.fun | cdn.parsely.com |
 | fpa-api.adweek.com | fpa-api-adweek-com.parsely.com |
 | fpa-api.arstechnica.com | fpa-api-arstechnica-com.parsely.com |
 | fpa-cdn.adweek.com | fpa-cdn-adweek-com.parsely.com |

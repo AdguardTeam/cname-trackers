@@ -302,7 +302,6 @@ tr.email.d17.tv CNAME .
 tr.email.d8.tv CNAME .
 tr.email.directindustry.com CNAME .
 tr.email.distributor-expo.com CNAME .
-tr.email.esprit-de-france.com CNAME .
 tr.email.gap-france.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.infocredit.orangebank.fr CNAME .
@@ -575,6 +574,7 @@ tr.mcom04p.espmp-aufr.net CNAME .
 tr.melhores-propostas.pt CNAME .
 tr.membres.boursorama.info CNAME .
 tr.mep.enkiapp.io CNAME .
+tr.merit-summit.com CNAME .
 tr.mes-bonsplans.be CNAME .
 tr.mes-prestataires.fr CNAME .
 tr.message.maaf.fr CNAME .
@@ -979,6 +979,7 @@ tr.uk.katun.com CNAME .
 tr.unaoffertaalgiorno.com CNAME .
 tr.unimy-beyond.com CNAME .
 tr.update.groupon.be CNAME .
+tr.urfk.espmp-agfr.net CNAME .
 tr.urfk02r.espmp-nifr.net CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk02z.espmp-nifr.net CNAME .

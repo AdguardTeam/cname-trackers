@@ -63,11 +63,13 @@ du.jubhahbalize.com CNAME .
 dv.citricesu.com CNAME .
 dv.earthlyyowe.com CNAME .
 dw.organaamnions.com CNAME .
+dy.dautedergot.com CNAME .
 dy.fitrootmisterm.com CNAME .
 ed.urotoxykerch.com CNAME .
 ef.betosslingala.com CNAME .
 eh.stowingwhelks.com CNAME .
 ej.basialforced.com CNAME .
+em.curnberthed.com CNAME .
 et.harmoutguereza.com CNAME .
 eu.balletsbeep.com CNAME .
 eu.jerkytaste.com CNAME .
@@ -194,6 +196,7 @@ nc.nominaturfy.com CNAME .
 ne.galenicnidana.com CNAME .
 ne.jarringerns.com CNAME .
 nj.molliefidac.com CNAME .
+nm.placoidtobyman.com CNAME .
 np.brackenclomped.com CNAME .
 np.incrustkantela.com CNAME .
 nr.celaenomash.com CNAME .
@@ -217,6 +220,7 @@ pb.shaledpaidle.com CNAME .
 pg.maftirkolo.com CNAME .
 pk.axitessubclei.com CNAME .
 pm.clokemidriff.com CNAME .
+pm.teawaredanzon.com CNAME .
 pq.carlingquerent.com CNAME .
 pq.murkfrazil.com CNAME .
 pr.hefterunmete.com CNAME .
@@ -290,6 +294,7 @@ tm.hacklesovary.com CNAME .
 tm.tangasulfide.com CNAME .
 tn.abreactbuddy.com CNAME .
 tp.parcbegulf.com CNAME .
+tr.hiccupcotman.com CNAME .
 tr.impoundiranism.com CNAME .
 ts.toccatamotific.com CNAME .
 ts.trilledwoods.com CNAME .

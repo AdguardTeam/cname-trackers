@@ -19,6 +19,7 @@ al.kirario.jp CNAME .
 al.mitsubachi-note.com CNAME .
 al.office-com.jp CNAME .
 al.pierrotshop.jp CNAME .
+al.selif.jp CNAME .
 al.shiffon-online.jp CNAME .
 al.shopyamatoya-jp.com CNAME .
 al.sotouba.net CNAME .

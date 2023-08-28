@@ -74,6 +74,7 @@
 | a8.cypris-online.jp | trck.a8.net |
 | a8.daredemomobile.com | trck.a8.net |
 | a8.de-limmo.jp | trck.a8.net |
+| a8.deep2031.com | trck.a8.net |
 | a8.degicashop.com | trck.a8.net |
 | a8.denki-koji.work | trck.a8.net |
 | a8.denki-tatsujin.com | trck.a8.net |
@@ -649,6 +650,7 @@
 | a8cv.a-ru-ku.co.jp | trck.a8.net |
 | a8cv.a-satei.com | trck.a8.net |
 | a8cv.access-jp.jp | trck.a8.net |
+| a8cv.aff.life-110.com | trck.a8.net |
 | a8cv.aiambeauty.jp | trck.a8.net |
 | a8cv.air-wifiinternet.jp | trck.a8.net |
 | a8cv.akihabara-x.jp | trck.a8.net |
@@ -686,6 +688,7 @@
 | a8cv.brassiere-shorts.jp | trck.a8.net |
 | a8cv.bright-app.com | trck.a8.net |
 | a8cv.broadbandservice.jp | trck.a8.net |
+| a8cv.bugsfarm.jp | trck.a8.net |
 | a8cv.bulk.co.jp | trck.a8.net |
 | a8cv.busbookmark.jp | trck.a8.net |
 | a8cv.ca-rent.jp | trck.a8.net |
@@ -874,6 +877,7 @@
 | a8cv.maenomery.jp | trck.a8.net |
 | a8cv.magniflexk.com | trck.a8.net |
 | a8cv.mansiontech.com | trck.a8.net |
+| a8cv.marumochiya.net | trck.a8.net |
 | a8cv.mashumaro-bra.com | trck.a8.net |
 | a8cv.mbb-inc.com | trck.a8.net |
 | a8cv.mcc-lazer-hr.com | trck.a8.net |
@@ -982,7 +986,6 @@
 | a8cv.shokunosoyokaze.com | trck.a8.net |
 | a8cv.shop.matsuo1956.jp | trck.a8.net |
 | a8cv.shop.solve-grp.com | trck.a8.net |
-| a8cv.shopmonono.com | trck.a8.net |
 | a8cv.sibody.co.jp | trck.a8.net |
 | a8cv.signalift.com | trck.a8.net |
 | a8cv.sl-creations.store | trck.a8.net |
@@ -1210,7 +1213,6 @@
 | cv.hy-fi.jp | trck.a8.net |
 | cv.ignis.coach | trck.a8.net |
 | cv.japan-curtain.jp | trck.a8.net |
-| cv.jcom-net.com | trck.a8.net |
 | cv.jidoumail.com | trck.a8.net |
 | cv.joggo.jp | trck.a8.net |
 | cv.masteraxis.com | trck.a8.net |

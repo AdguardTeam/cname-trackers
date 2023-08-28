@@ -28,7 +28,6 @@
 3988408442896783715.theacademyforconsciousleadership.com CNAME .
 492733704185584515.academyforconsciousculture.com CNAME .
 5363316.marketing.numi.com CNAME .
-5363316.trackerinfo.southbeachdiet.com CNAME .
 6505338.news.mindbody.io CNAME .
 6519114.automated.almosafer.com CNAME .
 6519114.automated.tajawal.com CNAME .
@@ -204,7 +203,6 @@ ablinks.marketing.numi.com CNAME .
 ablinks.news.amaro.com CNAME .
 ablinks.news.learnwithhomer.com CNAME .
 ablinks.notify.healthengine.com.au CNAME .
-ablinks.trackerinfo.southbeachdiet.com CNAME .
 ablinks.welcome.learnwithhomer.com CNAME .
 ablinksemail.wirexapp.com CNAME .
 ablinksuni.a.grubhub.com CNAME .
@@ -586,6 +584,7 @@ links-uk.clearpay.co.uk CNAME .
 links.ab.soul-cycle.email CNAME .
 links.alerts.depop.com CNAME .
 links.alerts.forhims.com CNAME .
+links.alerts.hims.com CNAME .
 links.announce.touchsurgery.com CNAME .
 links.aws.nexttrucking.com CNAME .
 links.blueapron.com CNAME .
@@ -733,6 +732,7 @@ test.links.emails.br.discoveryplus.com CNAME .
 test.links.emails.ca.discoveryplus.com CNAME .
 test.links.emails.discoveryplus.com CNAME .
 test.links.emails.emea.discoveryplus.com CNAME .
+test.links.ph.discoveryplus.com CNAME .
 test.shoppers.instacartemail.com CNAME .
 testlink.urban.com.au CNAME .
 trac.roomster.com CNAME .
@@ -1164,7 +1164,6 @@ app.payomatic.com CNAME .
 app.payon.mn CNAME .
 app.pdf.ac CNAME .
 app.pethoops.com CNAME .
-app.physera.com CNAME .
 app.pickwin.net CNAME .
 app.pickyourtrail.com CNAME .
 app.pixapp.com CNAME .
@@ -1836,6 +1835,7 @@ download.ibuzza.net CNAME .
 download.joingofree.com CNAME .
 download.kesh5.co.il CNAME .
 download.kuailefun.com CNAME .
+download.milkpot.com CNAME .
 download.parkunload.com CNAME .
 download.planify.io CNAME .
 download.poolking.in CNAME .
@@ -1857,7 +1857,6 @@ e.vcty.co CNAME .
 e035.pandasuite.io CNAME .
 e246.pandasuite.io CNAME .
 e403.pandasuite.io CNAME .
-earlyaccess.thekeysapp.com CNAME .
 eat.newtrina.com CNAME .
 ebony.black.news CNAME .
 edu.quizdom.gr CNAME .
@@ -2078,6 +2077,7 @@ go.bookmate.com CNAME .
 go.booksy.com CNAME .
 go.bouncie.com CNAME .
 go.brazil.innovatedating.com CNAME .
+go.bro.social CNAME .
 go.callersmart.com CNAME .
 go.calo.app CNAME .
 go.cardless.com CNAME .
@@ -2132,7 +2132,6 @@ go.gaydate.ignite.technology CNAME .
 go.gaysingles.ignite.technology CNAME .
 go.germansingles.ignite.technology CNAME .
 go.germany.innovatedating.com CNAME .
-go.getcharly.com CNAME .
 go.getcyclique.com CNAME .
 go.getone.today CNAME .
 go.ginmon.de CNAME .
@@ -2171,6 +2170,7 @@ go.latincupid.date CNAME .
 go.lawly.app CNAME .
 go.lbb.in CNAME .
 go.leaf.fm CNAME .
+go.lejour.com.br CNAME .
 go.letspepapp.com CNAME .
 go.lexuscompletesubscription.com CNAME .
 go.lezsingles.ignite.technology CNAME .
@@ -2217,6 +2217,7 @@ go.pinoy.innovatedating.com CNAME .
 go.playbackbone.com CNAME .
 go.player2app.com CNAME .
 go.poland.innovatedating.com CNAME .
+go.polen-app.com CNAME .
 go.porschedrive.com CNAME .
 go.porscheparkingplus.com CNAME .
 go.portfoliobyopenroad.com CNAME .
@@ -2231,6 +2232,7 @@ go.real.co CNAME .
 go.rever.co CNAME .
 go.russia.innovatedating.com CNAME .
 go.rzr.to CNAME .
+go.shokshak.com CNAME .
 go.shop.app CNAME .
 go.sirved.com CNAME .
 go.skippy.ai CNAME .
@@ -2405,7 +2407,6 @@ invite.playrush.com CNAME .
 invite.ritual.co CNAME .
 invite.sadapay.pk CNAME .
 invite.urbanclap.com CNAME .
-invite.urbancompany.com CNAME .
 invite.youmail.com CNAME .
 io.pitchplay.link CNAME .
 io.piupiu.io CNAME .
@@ -2726,6 +2727,7 @@ link.hellobeerapp.com CNAME .
 link.helloclue.com CNAME .
 link.hermanpro.com CNAME .
 link.heycloudy.co CNAME .
+link.heymiso.app CNAME .
 link.hibike.com.br CNAME .
 link.hivexchange.com.au CNAME .
 link.hobbinity.com CNAME .
@@ -2778,6 +2780,7 @@ link.lendingtree.com CNAME .
 link.letsdayout.com CNAME .
 link.litnet.com CNAME .
 link.localmasters.com CNAME .
+link.lomolist.com CNAME .
 link.loop11.com CNAME .
 link.loopedlive.com CNAME .
 link.loopslive.com CNAME .
@@ -3134,13 +3137,11 @@ m.history.com CNAME .
 m.historyvault.com CNAME .
 m.icares.app CNAME .
 m.ioicommunity.com.my CNAME .
-m.itime.app CNAME .
 m.jarvisinvest.com CNAME .
 m.lifetimemovieclub.com CNAME .
 m.lssquare.com CNAME .
 m.luckym.ca CNAME .
 m.moomoo.com CNAME .
-m.motif.com CNAME .
 m.mylifetime.com CNAME .
 m.natural.ai CNAME .
 m.navi.com CNAME .
@@ -3390,7 +3391,6 @@ ramaikan.indonesiya.com CNAME .
 randstad.epoise.com CNAME .
 randstadtest.epoise.com CNAME .
 rasabenito.indonesiya.com CNAME .
-recipient-branch.worldremit.com CNAME .
 recruiter-app.heroes.jobs CNAME .
 redirect.indacar.io CNAME .
 redirect.kataklop.com CNAME .
@@ -3433,6 +3433,7 @@ rr.groc.press CNAME .
 rtgdispatcher-test.inthere.link CNAME .
 rx.capsulecares.com CNAME .
 s-t.topya.com CNAME .
+s.grigora.com CNAME .
 s.imagica.ai CNAME .
 s.mygl.in CNAME .
 s.myvoleo.com CNAME .
@@ -3731,6 +3732,7 @@ ujvh.pandasuite.io CNAME .
 uni.okane-reco-plus.com CNAME .
 universal.shakaguide.com CNAME .
 unsubscribe.openapp.link CNAME .
+uptvmovies.uptv.com CNAME .
 ur.b.inhaabit.com CNAME .
 url.ultimax.cf CNAME .
 us.app.puma.com CNAME .
@@ -3751,6 +3753,7 @@ video.vitcord.com CNAME .
 videos.indonesiya.com CNAME .
 viewer.pandasuite.io CNAME .
 vikingclan.kano.link CNAME .
+vip.agentteam.com.au CNAME .
 virgin.hasdukmerahputih.com CNAME .
 visit.campermate.com CNAME .
 visit.sendheirloom.com CNAME .
@@ -3767,7 +3770,6 @@ watch.jawwy.tv CNAME .
 watch.stctv.com CNAME .
 watch.vipa.me CNAME .
 wave.getonthewave.com CNAME .
-we.getcharly.com CNAME .
 we.kurly.com CNAME .
 web.givingli.com CNAME .
 webtoons.naver.com CNAME .
@@ -3823,3 +3825,4 @@ sharen.oyorooms.com CNAME .
 txt.appcity.com.au CNAME .
 www.branch.rocks CNAME .
 app.gomo.com.au CNAME .
+m.itime.app CNAME .

@@ -38,7 +38,6 @@ click-rtb2-eu.waardex.com CNAME .
 click-rtb2-eu.xaprio.net CNAME .
 click-rtb2-useast.adsync.global CNAME .
 click-rtb2-useast.afkwa.com CNAME .
-click-rtb2-useast.africonverse.com CNAME .
 click-rtb2-useast.catapultx.com CNAME .
 click-rtb2-useast.demandzoo.com CNAME .
 click-rtb2-useast.e-volution.ai CNAME .
@@ -86,7 +85,6 @@ cpm.adbite.com CNAME .
 cpm.adjux.com CNAME .
 cpm.adlive.io CNAME .
 cpm.adsolut.in CNAME .
-cpm.africonverse.com CNAME .
 cpm.andbeyond.media CNAME .
 cpm.audience.media CNAME .
 cpm.audiencedevelopers.com CNAME .
@@ -382,7 +380,6 @@ login.ads9.com CNAME .
 login.adsbuyclick.com CNAME .
 login.adsimilate.com CNAME .
 login.adxnexus.com CNAME .
-login.africonverse.com CNAME .
 login.amtechads.com CNAME .
 login.bidmyads.com CNAME .
 login.bidrev.com CNAME .
@@ -685,7 +682,6 @@ rtb2-useast.adhunter.media CNAME .
 rtb2-useast.adpix.online CNAME .
 rtb2-useast.adsync.global CNAME .
 rtb2-useast.afkwa.com CNAME .
-rtb2-useast.africonverse.com CNAME .
 rtb2-useast.assemblyexchange.com CNAME .
 rtb2-useast.catapultx.com CNAME .
 rtb2-useast.convergeselect.net CNAME .
@@ -795,7 +791,6 @@ win-rtb2-eu.webtradingspot.com CNAME .
 win-rtb2-eu.xaprio.net CNAME .
 win-rtb2-useast.adsync.global CNAME .
 win-rtb2-useast.afkwa.com CNAME .
-win-rtb2-useast.africonverse.com CNAME .
 win-rtb2-useast.assemblyexchange.com CNAME .
 win-rtb2-useast.e-volution.ai CNAME .
 win-rtb2-useast.marketiq.com CNAME .
@@ -1198,7 +1193,6 @@ static-rtb.engagesimply.com CNAME .
 static-rtb.waardex.com CNAME .
 static-rtb2.adpix.online CNAME .
 static-rtb2.afkwa.com CNAME .
-static-rtb2.africonverse.com CNAME .
 static-rtb2.assemblyexchange.com CNAME .
 static-rtb2.catapultx.com CNAME .
 static-rtb2.convergeselect.net CNAME .
@@ -1238,7 +1232,6 @@ static.adsolut.in CNAME .
 static.advlistings.com CNAME .
 static.adwooo.com CNAME .
 static.adzestocp.com CNAME .
-static.africonverse.com CNAME .
 static.amgadserver.com CNAME .
 static.anytheengmedia.com CNAME .
 static.app-shake.com CNAME .

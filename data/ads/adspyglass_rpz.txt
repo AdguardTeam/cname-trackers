@@ -37,7 +37,6 @@
 6cf0e7801e8cd.clicknplay.to CNAME .
 71213zhazha.com CNAME .
 7bd3d001ff6.clicknplay.to CNAME .
-873ag.justthegays.com CNAME .
 893242.milfunsource.com CNAME .
 a.123porner.com CNAME .
 a.123porner.net CNAME .
@@ -62,6 +61,7 @@ a.everymark.xyz CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.fuckamouth.com CNAME .
+a.goodweet.xyz CNAME .
 a.hentai369.com CNAME .
 a.hentaimotel.com CNAME .
 a.hentaitube.icu CNAME .
@@ -139,7 +139,6 @@ ads.wetpussy.sexy CNAME .
 adspy.javrank.com CNAME .
 adxhand.icu CNAME .
 adzilla.icu CNAME .
-ags.justthegays.com CNAME .
 alt.fescity.com CNAME .
 amaz.emailon.top CNAME .
 amazoni.lol CNAME .
@@ -178,7 +177,6 @@ asg.asian-av.com CNAME .
 asg.catraff.com CNAME .
 asg.dormtapes.com CNAME .
 asg.faperoni.com CNAME .
-asg.justthegays.com CNAME .
 asg.laivue.com CNAME .
 asg.mrporn.online CNAME .
 asg.nude-famous-people.com CNAME .
@@ -254,11 +252,11 @@ c3s.bionestraff.pro CNAME .
 c6s.bionestraff.pro CNAME .
 cache.picxxxhub.com CNAME .
 cam.javboys.cam CNAME .
+cangatu.xyz CNAME .
 cckum.spinna.store CNAME .
 cdc.teensnorest.com CNAME .
 cdddd.javmilk.org CNAME .
 cdfr.hot4k.org CNAME .
-cdn.linkbr.xyz CNAME .
 cdn.sdtraff.com CNAME .
 cdn1.delii2.art CNAME .
 cdn3.cartoonporn.to CNAME .
@@ -344,7 +342,6 @@ goog.emailon.top CNAME .
 gulto.xyz CNAME .
 h-ay.com CNAME .
 h.bloblohub.com CNAME .
-hazicu.hothomefuck.com CNAME .
 hegdcrxavrtk.cdnvideo3.com CNAME .
 hehe686.lol CNAME .
 help.fanza.cc CNAME .
@@ -521,6 +518,7 @@ pakeway.lol CNAME .
 pampela.lol CNAME .
 pamtuea.xyz CNAME .
 pangoha.xyz CNAME .
+pangtues.xyz CNAME .
 parkurl.com CNAME .
 penapne.xyz CNAME .
 pengenanu.files.im CNAME .
@@ -641,11 +639,13 @@ tpl.fuckxness.com CNAME .
 traffictraders.com CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
+tyo.justthegays.com CNAME .
 uacabilqlgpw.cdnvideo3.com CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
 umtpopxcsedc.cdnvideo3.com CNAME .
 uotbzz.xyz CNAME .
+upinu.xyz CNAME .
 uthbxvz.bestzba.com CNAME .
 v.vidghjlgkuyfk.site CNAME .
 vavsnhau.mom CNAME .
@@ -660,6 +660,7 @@ vtaov.lol CNAME .
 vtaov.xyz CNAME .
 vuiaki.mom CNAME .
 vuvlog.lol CNAME .
+vv.7vid.net CNAME .
 vz.7vid.net CNAME .
 w00t.us CNAME .
 waihoz.xyz CNAME .
@@ -717,4 +718,3 @@ z0000g.yvmads.com CNAME .
 zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 zzzzaaa.baijav.com CNAME .
-a.travelbdnews.xyz CNAME .

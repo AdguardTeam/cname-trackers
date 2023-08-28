@@ -2,7 +2,6 @@
 ! Company name: LexisNexis Risk Solutions
 ||1bf86f4b.tictoc.ai^
 ||1of1.skipcash.app^
-||abc.pulsebet.com^
 ||acdc.toolineo.de^
 ||acsrt.cardnet-tds.com^
 ||acsweb-3dr1.dnp-cdms.jp^
@@ -379,6 +378,7 @@
 ||ela1.bankofscotland.co.uk^
 ||enligne.bnc.ca^
 ||ep.vystarcu.org^
+||eps.uprova.com^
 ||event.evtm.53.com^
 ||ex.exnessstats.com^
 ||faas.2dehands.be^
@@ -873,6 +873,7 @@
 ||tmx.efsllc.com^
 ||tmx.gotobilling.com^
 ||tmx.kijiji.ca^
+||tmx.monzo.co.uk^
 ||tmx.pampersrewards.com^
 ||tmx.pat.td.com^
 ||tmx.rnd.gemaltodigitalbankingidcloud.com^

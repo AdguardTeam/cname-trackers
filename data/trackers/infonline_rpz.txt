@@ -371,6 +371,7 @@ data-339e8471f1.bau-welt.de CNAME .
 data-341c3a0fe0.apps.iocnt.de CNAME .
 data-3452ec2236.caravaning.de CNAME .
 data-34565915dd.firmenwissen.de CNAME .
+data-353c1c8501.falstaff.com CNAME .
 data-367bcf5bd6.german-retail-blog.com CNAME .
 data-367bcf5bd6.lebensmittelzeitung.net CNAME .
 data-367bcf5bd6.lzjobs.de CNAME .
@@ -453,6 +454,7 @@ data-407c1ec0f8.senioren-ratgeber.de CNAME .
 data-407c1ec0f8.skystream.tv CNAME .
 data-40a1d254c9.familie.de CNAME .
 data-40a4482297.bundesbaublatt.de CNAME .
+data-40b7721511.nachrichten.at CNAME .
 data-40dcbb4884.tag24.de CNAME .
 data-40e0b9b7dd.chefkoch.de CNAME .
 data-411f822017.fem.com CNAME .
@@ -526,7 +528,6 @@ data-47ee1b0882.film-palast-schwanewede.de CNAME .
 data-47ee1b0882.filmcenter-dillingen.de CNAME .
 data-47ee1b0882.filmforum.de CNAME .
 data-47ee1b0882.filmpalast-sulingen.de CNAME .
-data-47ee1b0882.filmstation.de CNAME .
 data-47ee1b0882.filmtheater-zwiesel.de CNAME .
 data-47ee1b0882.ge-kinos.de CNAME .
 data-47ee1b0882.groebenlichtspiele.de CNAME .
@@ -894,6 +895,7 @@ data-6ed56dd691.bdb.at CNAME .
 data-6f0387b7f3.apps.iocnt.de CNAME .
 data-6f4f333803.apps.iocnt.de CNAME .
 data-6fd9590058.apps.iocnt.de CNAME .
+data-7023b17a38.amberg24.de CNAME .
 data-7023b17a38.onetz.de CNAME .
 data-7023b17a38.weiden24.de CNAME .
 data-707aff899d.donna-magazin.de CNAME .
@@ -997,6 +999,7 @@ data-83d91ea519.schwetzinger-zeitung.de CNAME .
 data-83eff0f027.glaswelt.de CNAME .
 data-8449537926.cz.de CNAME .
 data-8459ce106e.bike-x.de CNAME .
+data-8468e8ebc5.laola1.at CNAME .
 data-849004cc69.regenbogen.de CNAME .
 data-84926a5f67.energie-und-management.de CNAME .
 data-84a0f3455d.transfermarkt.at CNAME .
@@ -1646,6 +1649,7 @@ data-dd2f77abdf.apps.iocnt.de CNAME .
 data-dd659348c3.heimatsport.de CNAME .
 data-dd659348c3.heimatzeitung.de CNAME .
 data-dd659348c3.pnp.de CNAME .
+data-dda7d24eb2.derstandard.at CNAME .
 data-ddcae4625b.apps.iocnt.de CNAME .
 data-ddecebdea5.storage-insider.de CNAME .
 data-de5824e84b.lichtnet.de CNAME .
@@ -1719,6 +1723,7 @@ data-e9eee8419a.si-shk.de CNAME .
 data-ea06a9645c.bauhof-online.de CNAME .
 data-ea7328ad58.apps.iocnt.de CNAME .
 data-ea7d084cda.wz.de CNAME .
+data-ea81aa1271.derstandard.de CNAME .
 data-ebb08b8040.bildderfrau.de CNAME .
 data-ebf4df4b00.antennethueringen.de CNAME .
 data-ec98eddf4a.fussballfieber.de CNAME .
@@ -1767,7 +1772,6 @@ data-ee807be806.wr.de CNAME .
 data-eea926926e.connect-channel.de CNAME .
 data-ef2df4302f.baumagazin-online.de CNAME .
 data-ef3fcaa7e9.0rtl.de CNAME .
-data-ef4e2c0163.infonline.de CNAME .
 data-ef805f6034.apps.iocnt.de CNAME .
 data-ef8760a9b2.fraenkische-rezepte.de CNAME .
 data-ef8760a9b2.infranken.de CNAME .
@@ -1932,6 +1936,7 @@ data-f59db3288b.suedwest24.de CNAME .
 data-f59db3288b.torgranate.de CNAME .
 data-f59db3288b.tz.de CNAME .
 data-f59db3288b.usinger-anzeiger.de CNAME .
+data-f59db3288b.volksfest-freising.de CNAME .
 data-f59db3288b.wa.de CNAME .
 data-f59db3288b.wasserburg24.de CNAME .
 data-f59db3288b.webnachrichten.de CNAME .

@@ -303,6 +303,7 @@ ssl-goerdetselv.tns-gallup.dk CNAME .
 ssl-golf.tns-gallup.dk CNAME .
 ssl-guloggratis.tns-gallup.dk CNAME .
 ssl-historienet.tns-gallup.dk CNAME .
+ssl-holdsport.tns-gallup.dk CNAME .
 ssl-ida.tns-gallup.dk CNAME .
 ssl-illvid.tns-gallup.dk CNAME .
 ssl-information.tns-gallup.dk CNAME .

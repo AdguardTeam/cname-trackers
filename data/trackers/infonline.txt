@@ -371,6 +371,7 @@
 ||data-341c3a0fe0.apps.iocnt.de^
 ||data-3452ec2236.caravaning.de^
 ||data-34565915dd.firmenwissen.de^
+||data-353c1c8501.falstaff.com^
 ||data-367bcf5bd6.german-retail-blog.com^
 ||data-367bcf5bd6.lebensmittelzeitung.net^
 ||data-367bcf5bd6.lzjobs.de^
@@ -453,6 +454,7 @@
 ||data-407c1ec0f8.skystream.tv^
 ||data-40a1d254c9.familie.de^
 ||data-40a4482297.bundesbaublatt.de^
+||data-40b7721511.nachrichten.at^
 ||data-40dcbb4884.tag24.de^
 ||data-40e0b9b7dd.chefkoch.de^
 ||data-411f822017.fem.com^
@@ -526,7 +528,6 @@
 ||data-47ee1b0882.filmcenter-dillingen.de^
 ||data-47ee1b0882.filmforum.de^
 ||data-47ee1b0882.filmpalast-sulingen.de^
-||data-47ee1b0882.filmstation.de^
 ||data-47ee1b0882.filmtheater-zwiesel.de^
 ||data-47ee1b0882.ge-kinos.de^
 ||data-47ee1b0882.groebenlichtspiele.de^
@@ -894,6 +895,7 @@
 ||data-6f0387b7f3.apps.iocnt.de^
 ||data-6f4f333803.apps.iocnt.de^
 ||data-6fd9590058.apps.iocnt.de^
+||data-7023b17a38.amberg24.de^
 ||data-7023b17a38.onetz.de^
 ||data-7023b17a38.weiden24.de^
 ||data-707aff899d.donna-magazin.de^
@@ -997,6 +999,7 @@
 ||data-83eff0f027.glaswelt.de^
 ||data-8449537926.cz.de^
 ||data-8459ce106e.bike-x.de^
+||data-8468e8ebc5.laola1.at^
 ||data-849004cc69.regenbogen.de^
 ||data-84926a5f67.energie-und-management.de^
 ||data-84a0f3455d.transfermarkt.at^
@@ -1646,6 +1649,7 @@
 ||data-dd659348c3.heimatsport.de^
 ||data-dd659348c3.heimatzeitung.de^
 ||data-dd659348c3.pnp.de^
+||data-dda7d24eb2.derstandard.at^
 ||data-ddcae4625b.apps.iocnt.de^
 ||data-ddecebdea5.storage-insider.de^
 ||data-de5824e84b.lichtnet.de^
@@ -1719,6 +1723,7 @@
 ||data-ea06a9645c.bauhof-online.de^
 ||data-ea7328ad58.apps.iocnt.de^
 ||data-ea7d084cda.wz.de^
+||data-ea81aa1271.derstandard.de^
 ||data-ebb08b8040.bildderfrau.de^
 ||data-ebf4df4b00.antennethueringen.de^
 ||data-ec98eddf4a.fussballfieber.de^
@@ -1767,7 +1772,6 @@
 ||data-eea926926e.connect-channel.de^
 ||data-ef2df4302f.baumagazin-online.de^
 ||data-ef3fcaa7e9.0rtl.de^
-||data-ef4e2c0163.infonline.de^
 ||data-ef805f6034.apps.iocnt.de^
 ||data-ef8760a9b2.fraenkische-rezepte.de^
 ||data-ef8760a9b2.infranken.de^
@@ -1932,6 +1936,7 @@
 ||data-f59db3288b.torgranate.de^
 ||data-f59db3288b.tz.de^
 ||data-f59db3288b.usinger-anzeiger.de^
+||data-f59db3288b.volksfest-freising.de^
 ||data-f59db3288b.wa.de^
 ||data-f59db3288b.wasserburg24.de^
 ||data-f59db3288b.webnachrichten.de^

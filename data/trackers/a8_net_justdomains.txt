@@ -61,6 +61,7 @@ a8.cyclemarket.jp
 a8.cypris-online.jp
 a8.daredemomobile.com
 a8.de-limmo.jp
+a8.deep2031.com
 a8.degicashop.com
 a8.denki-koji.work
 a8.denki-tatsujin.com
@@ -637,6 +638,7 @@ a8cv.a-resort.jp
 a8cv.a-ru-ku.co.jp
 a8cv.a-satei.com
 a8cv.access-jp.jp
+a8cv.aff.life-110.com
 a8cv.aiambeauty.jp
 a8cv.air-wifiinternet.jp
 a8cv.akihabara-x.jp
@@ -674,6 +676,7 @@ a8cv.brandnet.info
 a8cv.brassiere-shorts.jp
 a8cv.bright-app.com
 a8cv.broadbandservice.jp
+a8cv.bugsfarm.jp
 a8cv.bulk.co.jp
 a8cv.busbookmark.jp
 a8cv.ca-rent.jp
@@ -862,6 +865,7 @@ a8cv.madoguchi.com
 a8cv.maenomery.jp
 a8cv.magniflexk.com
 a8cv.mansiontech.com
+a8cv.marumochiya.net
 a8cv.mashumaro-bra.com
 a8cv.mbb-inc.com
 a8cv.mcc-lazer-hr.com
@@ -970,7 +974,6 @@ a8cv.shokubun.ec-design.co.jp
 a8cv.shokunosoyokaze.com
 a8cv.shop.matsuo1956.jp
 a8cv.shop.solve-grp.com
-a8cv.shopmonono.com
 a8cv.sibody.co.jp
 a8cv.signalift.com
 a8cv.sl-creations.store
@@ -1198,7 +1201,6 @@ cv.homepage-seisaku.jp
 cv.hy-fi.jp
 cv.ignis.coach
 cv.japan-curtain.jp
-cv.jcom-net.com
 cv.jidoumail.com
 cv.joggo.jp
 cv.masteraxis.com

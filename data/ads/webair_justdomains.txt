@@ -38,7 +38,6 @@ click-rtb2-eu.waardex.com
 click-rtb2-eu.xaprio.net
 click-rtb2-useast.adsync.global
 click-rtb2-useast.afkwa.com
-click-rtb2-useast.africonverse.com
 click-rtb2-useast.catapultx.com
 click-rtb2-useast.demandzoo.com
 click-rtb2-useast.e-volution.ai
@@ -86,7 +85,6 @@ cpm.adbite.com
 cpm.adjux.com
 cpm.adlive.io
 cpm.adsolut.in
-cpm.africonverse.com
 cpm.andbeyond.media
 cpm.audience.media
 cpm.audiencedevelopers.com
@@ -382,7 +380,6 @@ login.ads9.com
 login.adsbuyclick.com
 login.adsimilate.com
 login.adxnexus.com
-login.africonverse.com
 login.amtechads.com
 login.bidmyads.com
 login.bidrev.com
@@ -685,7 +682,6 @@ rtb2-useast.adhunter.media
 rtb2-useast.adpix.online
 rtb2-useast.adsync.global
 rtb2-useast.afkwa.com
-rtb2-useast.africonverse.com
 rtb2-useast.assemblyexchange.com
 rtb2-useast.catapultx.com
 rtb2-useast.convergeselect.net
@@ -795,7 +791,6 @@ win-rtb2-eu.webtradingspot.com
 win-rtb2-eu.xaprio.net
 win-rtb2-useast.adsync.global
 win-rtb2-useast.afkwa.com
-win-rtb2-useast.africonverse.com
 win-rtb2-useast.assemblyexchange.com
 win-rtb2-useast.e-volution.ai
 win-rtb2-useast.marketiq.com
@@ -1198,7 +1193,6 @@ static-rtb.engagesimply.com
 static-rtb.waardex.com
 static-rtb2.adpix.online
 static-rtb2.afkwa.com
-static-rtb2.africonverse.com
 static-rtb2.assemblyexchange.com
 static-rtb2.catapultx.com
 static-rtb2.convergeselect.net
@@ -1238,7 +1232,6 @@ static.adsolut.in
 static.advlistings.com
 static.adwooo.com
 static.adzestocp.com
-static.africonverse.com
 static.amgadserver.com
 static.anytheengmedia.com
 static.app-shake.com

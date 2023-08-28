@@ -56,7 +56,6 @@
 | analytics.recamov.com | custom.plausible.io |
 | analytics.sideprojectsoftware.com | custom.plausible.io |
 | analytics.sixfigureswine.com | custom.plausible.io |
-| analytics.southjerseyquakers.org | custom.plausible.io |
 | analytics.teamcovenant.com | custom.plausible.io |
 | analytics.top10-charts.com | custom.plausible.io |
 | analytics.trust.page | custom.plausible.io |
@@ -428,7 +427,6 @@
 | stats.bikeschool.co.za | custom.plausible.io |
 | stats.bimbase.nl | custom.plausible.io |
 | stats.bitpost.app | custom.plausible.io |
-| stats.bjarteblogg.com | custom.plausible.io |
 | stats.blackbird-automotive.com | custom.plausible.io |
 | stats.blackblog.cz | custom.plausible.io |
 | stats.blockleviton.com | custom.plausible.io |
@@ -615,6 +613,7 @@
 | stats.gras-system.org | custom.plausible.io |
 | stats.gravitaswins.com | custom.plausible.io |
 | stats.greatlakesdesign.co | custom.plausible.io |
+| stats.groupconsent.eu | custom.plausible.io |
 | stats.gslc.utah.edu | custom.plausible.io |
 | stats.gtnetworks.com | custom.plausible.io |
 | stats.guersanguillaume.com | custom.plausible.io |
@@ -691,7 +690,6 @@
 | stats.kambr.io | custom.plausible.io |
 | stats.katharinascheitz.com | custom.plausible.io |
 | stats.keirwhitaker.com | custom.plausible.io |
-| stats.kejk.tech | custom.plausible.io |
 | stats.kensho.com | custom.plausible.io |
 | stats.kettlebellbundle.com | custom.plausible.io |
 | stats.keyscore.me | custom.plausible.io |
@@ -713,13 +711,11 @@
 | stats.leaguestats.gg | custom.plausible.io |
 | stats.leahcollection.com | custom.plausible.io |
 | stats.learnlinux.tv | custom.plausible.io |
-| stats.learnprosody.com | custom.plausible.io |
 | stats.leavetrackapp.com | custom.plausible.io |
 | stats.lefthoek.com | custom.plausible.io |
 | stats.legendofnom.com | custom.plausible.io |
 | stats.leoloso.com | custom.plausible.io |
 | stats.lessimpact.org | custom.plausible.io |
-| stats.lestypesdefarine.fr | custom.plausible.io |
 | stats.liamdavis.dev | custom.plausible.io |
 | stats.lica.at | custom.plausible.io |
 | stats.lik.fr | custom.plausible.io |
@@ -833,7 +829,6 @@
 | stats.pointflottant.com | custom.plausible.io |
 | stats.polekatfitness.com | custom.plausible.io |
 | stats.poochplaces.dog | custom.plausible.io |
-| stats.populang.com | custom.plausible.io |
 | stats.postcollectors.com | custom.plausible.io |
 | stats.preeventualist.org | custom.plausible.io |
 | stats.pri.org | custom.plausible.io |
@@ -873,7 +868,6 @@
 | stats.rushilperera.me | custom.plausible.io |
 | stats.rymawby.com | custom.plausible.io |
 | stats.s-zt.at | custom.plausible.io |
-| stats.sahpa.co.za | custom.plausible.io |
 | stats.sakurasky.com | custom.plausible.io |
 | stats.sapnininkas.com | custom.plausible.io |
 | stats.sascha-theobald.de | custom.plausible.io |

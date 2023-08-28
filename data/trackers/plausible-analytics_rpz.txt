@@ -48,7 +48,6 @@ analytics.ramiyer.me CNAME .
 analytics.recamov.com CNAME .
 analytics.sideprojectsoftware.com CNAME .
 analytics.sixfigureswine.com CNAME .
-analytics.southjerseyquakers.org CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
@@ -420,7 +419,6 @@ stats.bholmes.dev CNAME .
 stats.bikeschool.co.za CNAME .
 stats.bimbase.nl CNAME .
 stats.bitpost.app CNAME .
-stats.bjarteblogg.com CNAME .
 stats.blackbird-automotive.com CNAME .
 stats.blackblog.cz CNAME .
 stats.blockleviton.com CNAME .
@@ -607,6 +605,7 @@ stats.graphql-by-pop.com CNAME .
 stats.gras-system.org CNAME .
 stats.gravitaswins.com CNAME .
 stats.greatlakesdesign.co CNAME .
+stats.groupconsent.eu CNAME .
 stats.gslc.utah.edu CNAME .
 stats.gtnetworks.com CNAME .
 stats.guersanguillaume.com CNAME .
@@ -683,7 +682,6 @@ stats.kalkulatordniroboczych.pl CNAME .
 stats.kambr.io CNAME .
 stats.katharinascheitz.com CNAME .
 stats.keirwhitaker.com CNAME .
-stats.kejk.tech CNAME .
 stats.kensho.com CNAME .
 stats.kettlebellbundle.com CNAME .
 stats.keyscore.me CNAME .
@@ -705,13 +703,11 @@ stats.laxallstars.com CNAME .
 stats.leaguestats.gg CNAME .
 stats.leahcollection.com CNAME .
 stats.learnlinux.tv CNAME .
-stats.learnprosody.com CNAME .
 stats.leavetrackapp.com CNAME .
 stats.lefthoek.com CNAME .
 stats.legendofnom.com CNAME .
 stats.leoloso.com CNAME .
 stats.lessimpact.org CNAME .
-stats.lestypesdefarine.fr CNAME .
 stats.liamdavis.dev CNAME .
 stats.lica.at CNAME .
 stats.lik.fr CNAME .
@@ -825,7 +821,6 @@ stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
 stats.poochplaces.dog CNAME .
-stats.populang.com CNAME .
 stats.postcollectors.com CNAME .
 stats.preeventualist.org CNAME .
 stats.pri.org CNAME .
@@ -865,7 +860,6 @@ stats.ruhrfestspiele.de CNAME .
 stats.rushilperera.me CNAME .
 stats.rymawby.com CNAME .
 stats.s-zt.at CNAME .
-stats.sahpa.co.za CNAME .
 stats.sakurasky.com CNAME .
 stats.sapnininkas.com CNAME .
 stats.sascha-theobald.de CNAME .

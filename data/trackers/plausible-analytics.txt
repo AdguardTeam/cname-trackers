@@ -48,7 +48,6 @@
 ||analytics.recamov.com^
 ||analytics.sideprojectsoftware.com^
 ||analytics.sixfigureswine.com^
-||analytics.southjerseyquakers.org^
 ||analytics.teamcovenant.com^
 ||analytics.top10-charts.com^
 ||analytics.trust.page^
@@ -420,7 +419,6 @@
 ||stats.bikeschool.co.za^
 ||stats.bimbase.nl^
 ||stats.bitpost.app^
-||stats.bjarteblogg.com^
 ||stats.blackbird-automotive.com^
 ||stats.blackblog.cz^
 ||stats.blockleviton.com^
@@ -607,6 +605,7 @@
 ||stats.gras-system.org^
 ||stats.gravitaswins.com^
 ||stats.greatlakesdesign.co^
+||stats.groupconsent.eu^
 ||stats.gslc.utah.edu^
 ||stats.gtnetworks.com^
 ||stats.guersanguillaume.com^
@@ -683,7 +682,6 @@
 ||stats.kambr.io^
 ||stats.katharinascheitz.com^
 ||stats.keirwhitaker.com^
-||stats.kejk.tech^
 ||stats.kensho.com^
 ||stats.kettlebellbundle.com^
 ||stats.keyscore.me^
@@ -705,13 +703,11 @@
 ||stats.leaguestats.gg^
 ||stats.leahcollection.com^
 ||stats.learnlinux.tv^
-||stats.learnprosody.com^
 ||stats.leavetrackapp.com^
 ||stats.lefthoek.com^
 ||stats.legendofnom.com^
 ||stats.leoloso.com^
 ||stats.lessimpact.org^
-||stats.lestypesdefarine.fr^
 ||stats.liamdavis.dev^
 ||stats.lica.at^
 ||stats.lik.fr^
@@ -825,7 +821,6 @@
 ||stats.pointflottant.com^
 ||stats.polekatfitness.com^
 ||stats.poochplaces.dog^
-||stats.populang.com^
 ||stats.postcollectors.com^
 ||stats.preeventualist.org^
 ||stats.pri.org^
@@ -865,7 +860,6 @@
 ||stats.rushilperera.me^
 ||stats.rymawby.com^
 ||stats.s-zt.at^
-||stats.sahpa.co.za^
 ||stats.sakurasky.com^
 ||stats.sapnininkas.com^
 ||stats.sascha-theobald.de^

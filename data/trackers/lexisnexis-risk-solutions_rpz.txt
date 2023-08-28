@@ -2,7 +2,6 @@
 ; Company name: LexisNexis Risk Solutions
 1bf86f4b.tictoc.ai CNAME .
 1of1.skipcash.app CNAME .
-abc.pulsebet.com CNAME .
 acdc.toolineo.de CNAME .
 acsrt.cardnet-tds.com CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
@@ -379,6 +378,7 @@ dvc0271.play.jackpocket.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
 enligne.bnc.ca CNAME .
 ep.vystarcu.org CNAME .
+eps.uprova.com CNAME .
 event.evtm.53.com CNAME .
 ex.exnessstats.com CNAME .
 faas.2dehands.be CNAME .
@@ -873,6 +873,7 @@ tmx.carhistory.com.au CNAME .
 tmx.efsllc.com CNAME .
 tmx.gotobilling.com CNAME .
 tmx.kijiji.ca CNAME .
+tmx.monzo.co.uk CNAME .
 tmx.pampersrewards.com CNAME .
 tmx.pat.td.com CNAME .
 tmx.rnd.gemaltodigitalbankingidcloud.com CNAME .

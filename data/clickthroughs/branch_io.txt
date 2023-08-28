@@ -28,7 +28,6 @@
 ||3988408442896783715.theacademyforconsciousleadership.com^
 ||492733704185584515.academyforconsciousculture.com^
 ||5363316.marketing.numi.com^
-||5363316.trackerinfo.southbeachdiet.com^
 ||6505338.news.mindbody.io^
 ||6519114.automated.almosafer.com^
 ||6519114.automated.tajawal.com^
@@ -204,7 +203,6 @@
 ||ablinks.news.amaro.com^
 ||ablinks.news.learnwithhomer.com^
 ||ablinks.notify.healthengine.com.au^
-||ablinks.trackerinfo.southbeachdiet.com^
 ||ablinks.welcome.learnwithhomer.com^
 ||ablinksemail.wirexapp.com^
 ||ablinksuni.a.grubhub.com^
@@ -586,6 +584,7 @@
 ||links.ab.soul-cycle.email^
 ||links.alerts.depop.com^
 ||links.alerts.forhims.com^
+||links.alerts.hims.com^
 ||links.announce.touchsurgery.com^
 ||links.aws.nexttrucking.com^
 ||links.blueapron.com^
@@ -733,6 +732,7 @@
 ||test.links.emails.ca.discoveryplus.com^
 ||test.links.emails.discoveryplus.com^
 ||test.links.emails.emea.discoveryplus.com^
+||test.links.ph.discoveryplus.com^
 ||test.shoppers.instacartemail.com^
 ||testlink.urban.com.au^
 ||trac.roomster.com^
@@ -1164,7 +1164,6 @@
 ||app.payon.mn^
 ||app.pdf.ac^
 ||app.pethoops.com^
-||app.physera.com^
 ||app.pickwin.net^
 ||app.pickyourtrail.com^
 ||app.pixapp.com^
@@ -1836,6 +1835,7 @@
 ||download.joingofree.com^
 ||download.kesh5.co.il^
 ||download.kuailefun.com^
+||download.milkpot.com^
 ||download.parkunload.com^
 ||download.planify.io^
 ||download.poolking.in^
@@ -1857,7 +1857,6 @@
 ||e035.pandasuite.io^
 ||e246.pandasuite.io^
 ||e403.pandasuite.io^
-||earlyaccess.thekeysapp.com^
 ||eat.newtrina.com^
 ||ebony.black.news^
 ||edu.quizdom.gr^
@@ -2078,6 +2077,7 @@
 ||go.booksy.com^
 ||go.bouncie.com^
 ||go.brazil.innovatedating.com^
+||go.bro.social^
 ||go.callersmart.com^
 ||go.calo.app^
 ||go.cardless.com^
@@ -2132,7 +2132,6 @@
 ||go.gaysingles.ignite.technology^
 ||go.germansingles.ignite.technology^
 ||go.germany.innovatedating.com^
-||go.getcharly.com^
 ||go.getcyclique.com^
 ||go.getone.today^
 ||go.ginmon.de^
@@ -2171,6 +2170,7 @@
 ||go.lawly.app^
 ||go.lbb.in^
 ||go.leaf.fm^
+||go.lejour.com.br^
 ||go.letspepapp.com^
 ||go.lexuscompletesubscription.com^
 ||go.lezsingles.ignite.technology^
@@ -2217,6 +2217,7 @@
 ||go.playbackbone.com^
 ||go.player2app.com^
 ||go.poland.innovatedating.com^
+||go.polen-app.com^
 ||go.porschedrive.com^
 ||go.porscheparkingplus.com^
 ||go.portfoliobyopenroad.com^
@@ -2231,6 +2232,7 @@
 ||go.rever.co^
 ||go.russia.innovatedating.com^
 ||go.rzr.to^
+||go.shokshak.com^
 ||go.shop.app^
 ||go.sirved.com^
 ||go.skippy.ai^
@@ -2405,7 +2407,6 @@
 ||invite.ritual.co^
 ||invite.sadapay.pk^
 ||invite.urbanclap.com^
-||invite.urbancompany.com^
 ||invite.youmail.com^
 ||io.pitchplay.link^
 ||io.piupiu.io^
@@ -2726,6 +2727,7 @@
 ||link.helloclue.com^
 ||link.hermanpro.com^
 ||link.heycloudy.co^
+||link.heymiso.app^
 ||link.hibike.com.br^
 ||link.hivexchange.com.au^
 ||link.hobbinity.com^
@@ -2778,6 +2780,7 @@
 ||link.letsdayout.com^
 ||link.litnet.com^
 ||link.localmasters.com^
+||link.lomolist.com^
 ||link.loop11.com^
 ||link.loopedlive.com^
 ||link.loopslive.com^
@@ -3134,13 +3137,11 @@
 ||m.historyvault.com^
 ||m.icares.app^
 ||m.ioicommunity.com.my^
-||m.itime.app^
 ||m.jarvisinvest.com^
 ||m.lifetimemovieclub.com^
 ||m.lssquare.com^
 ||m.luckym.ca^
 ||m.moomoo.com^
-||m.motif.com^
 ||m.mylifetime.com^
 ||m.natural.ai^
 ||m.navi.com^
@@ -3390,7 +3391,6 @@
 ||randstad.epoise.com^
 ||randstadtest.epoise.com^
 ||rasabenito.indonesiya.com^
-||recipient-branch.worldremit.com^
 ||recruiter-app.heroes.jobs^
 ||redirect.indacar.io^
 ||redirect.kataklop.com^
@@ -3433,6 +3433,7 @@
 ||rtgdispatcher-test.inthere.link^
 ||rx.capsulecares.com^
 ||s-t.topya.com^
+||s.grigora.com^
 ||s.imagica.ai^
 ||s.mygl.in^
 ||s.myvoleo.com^
@@ -3731,6 +3732,7 @@
 ||uni.okane-reco-plus.com^
 ||universal.shakaguide.com^
 ||unsubscribe.openapp.link^
+||uptvmovies.uptv.com^
 ||ur.b.inhaabit.com^
 ||url.ultimax.cf^
 ||us.app.puma.com^
@@ -3751,6 +3753,7 @@
 ||videos.indonesiya.com^
 ||viewer.pandasuite.io^
 ||vikingclan.kano.link^
+||vip.agentteam.com.au^
 ||virgin.hasdukmerahputih.com^
 ||visit.campermate.com^
 ||visit.sendheirloom.com^
@@ -3767,7 +3770,6 @@
 ||watch.stctv.com^
 ||watch.vipa.me^
 ||wave.getonthewave.com^
-||we.getcharly.com^
 ||we.kurly.com^
 ||web.givingli.com^
 ||webtoons.naver.com^
@@ -3823,3 +3825,4 @@
 ||txt.appcity.com.au^
 ||www.branch.rocks^
 ||app.gomo.com.au^
+||m.itime.app^

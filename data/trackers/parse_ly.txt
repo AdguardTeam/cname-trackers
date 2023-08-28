@@ -14,4 +14,3 @@
 ||fpa-events.newsweek.com^
 ||fpa-events.slate.com^
 ||image.undsslearnin.org^
-||vo.ashgabat.fun^

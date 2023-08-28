@@ -12,6 +12,7 @@
 ||cdn.asrop.xyz^
 ||cdn.barlo.xyz^
 ||cdn.buram.xyz^
+||cdn.cabhwq.com^
 ||cdn.decpo.xyz^
 ||cdn.drawx.xyz^
 ||cdn.eecd.xyz^
@@ -345,6 +346,7 @@
 ||donkey.guggenbichler.co.at^
 ||donkey.hackoregon.org^
 ||donkey.kontematik.com^
+||donkey.oncarbon.app^
 ||donkey.routinehub.co^
 ||donkey.the3rd.place^
 ||dormouse.consentkit.com^
@@ -402,7 +404,6 @@
 ||ferret.itsf.red^
 ||ferret.jesper.hk^
 ||ferret.linksoftwarellc.com^
-||ferret.siloam.ch^
 ||ferret.tailgraph.com^
 ||finch.eyal.rocks^
 ||finch.koronasporing.no^
@@ -432,6 +433,7 @@
 ||gayal.guter-plan.at^
 ||gayal.maxmasnick.com^
 ||gayal.stockshouse.co^
+||gazelle.editorclub.com^
 ||gazelle.laurenagray.com^
 ||gecko.anagodeck.com^
 ||gecko.rrrelax.app^
@@ -963,6 +965,7 @@
 ||tigershark.advaya.co^
 ||tigershark.garethtdavies.com^
 ||tigershark.moonpot.com^
+||tigershark.oilpriceapi.com^
 ||tigershark.paavanmagic.com^
 ||tigershark.vandevliet.me^
 ||tiglon.beyondco.de^

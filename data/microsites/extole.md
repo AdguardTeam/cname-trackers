@@ -19,7 +19,6 @@
     * bostonglobe-ssl.extole.com
     * calstate-aaa.extole.com
     * carbonite-ssl.extole.com
-    * centier.extole.com
     * checkngo.extole.com
     * chubbies.extole.com
     * citizen-times.extole.com
@@ -180,6 +179,7 @@
     * boden-de.extole.io
     * boden-fr.extole.io
     * boden-uk.extole.io
+    * booksy.extole.io
     * bose.extole.io
     * bountyhunterwine.extole.io
     * brava.extole.io
@@ -502,7 +502,6 @@
     * vayasleep.extole.io
     * veo.extole.io
     * veritycu.extole.io
-    * vichy.extole.io
     * viktor-rolf.extole.io
     * vincecamuto.extole.io
     * visions.extole.io
@@ -620,6 +619,7 @@
 | share.bodendirect.de | boden-de.extole.io |
 | share.boden.fr | boden-fr.extole.io |
 | share.boden.co.uk | boden-uk.extole.io |
+| refer.booksy.com | booksy.extole.io |
 | refer.bose.co.uk | bose.extole.io |
 | refer.bose.com | bose.extole.io |
 | refer.bose.de | bose.extole.io |
@@ -649,7 +649,6 @@
 | refer.catfootwear.com | catfootwear.extole.io |
 | share.cefaly.com | cefaly.extole.io |
 | share.cellcom.ca | cellcom.extole.io |
-| www.refercentier.com | centier.extole.com |
 | refer.centier.com | centier.extole.io |
 | refer.chacos.com | chacos.extole.io |
 | share.myq.com | chamberlain.extole.io |
@@ -1127,7 +1126,6 @@
 | share.veo.co | veo.extole.io |
 | refer.verabradley.com | verabradley.extole.com |
 | share.veritycu.com | veritycu.extole.io |
-| share.vichyusa.com | vichy.extole.io |
 | share-us.viktor-rolf.com | viktor-rolf.extole.io |
 | share.vimeo.com | vimeo.extole.com |
 | refer.vincecamuto.com | vincecamuto.extole.io |

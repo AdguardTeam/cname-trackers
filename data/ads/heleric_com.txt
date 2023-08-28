@@ -63,11 +63,13 @@
 ||dv.citricesu.com^
 ||dv.earthlyyowe.com^
 ||dw.organaamnions.com^
+||dy.dautedergot.com^
 ||dy.fitrootmisterm.com^
 ||ed.urotoxykerch.com^
 ||ef.betosslingala.com^
 ||eh.stowingwhelks.com^
 ||ej.basialforced.com^
+||em.curnberthed.com^
 ||et.harmoutguereza.com^
 ||eu.balletsbeep.com^
 ||eu.jerkytaste.com^
@@ -194,6 +196,7 @@
 ||ne.galenicnidana.com^
 ||ne.jarringerns.com^
 ||nj.molliefidac.com^
+||nm.placoidtobyman.com^
 ||np.brackenclomped.com^
 ||np.incrustkantela.com^
 ||nr.celaenomash.com^
@@ -217,6 +220,7 @@
 ||pg.maftirkolo.com^
 ||pk.axitessubclei.com^
 ||pm.clokemidriff.com^
+||pm.teawaredanzon.com^
 ||pq.carlingquerent.com^
 ||pq.murkfrazil.com^
 ||pr.hefterunmete.com^
@@ -290,6 +294,7 @@
 ||tm.tangasulfide.com^
 ||tn.abreactbuddy.com^
 ||tp.parcbegulf.com^
+||tr.hiccupcotman.com^
 ||tr.impoundiranism.com^
 ||ts.toccatamotific.com^
 ||ts.trilledwoods.com^

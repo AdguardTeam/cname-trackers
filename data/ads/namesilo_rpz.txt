@@ -323,6 +323,7 @@
 3385751.notify6.com CNAME .
 3385991.notify6.com CNAME .
 3385991.notifysrv.com CNAME .
+3386671.notify6.com CNAME .
 3389741.notify6.com CNAME .
 3392623.notify6.com CNAME .
 3392623.notifysrv.com CNAME .
@@ -737,6 +738,7 @@
 4004928.notify6.com CNAME .
 4018398.notify6.com CNAME .
 4021032.notify6.com CNAME .
+4022280.notify6.com CNAME .
 4022504.notify6.com CNAME .
 4022684.notify6.com CNAME .
 4031264.notify6.com CNAME .
@@ -924,7 +926,6 @@ a.santabrowser.com CNAME .
 a.slice.exchange CNAME .
 a.stuffserve.com CNAME .
 admin.ad.guru CNAME .
-admin.adnation.com CNAME .
 admin.adstuff.io CNAME .
 admin.etology.com CNAME .
 admin.gettopple.com CNAME .
@@ -946,7 +947,6 @@ management-addisplaynetwork.exads.com CNAME .
 management-adguru.exads.com CNAME .
 management-adwirk.exads.com CNAME .
 management-boost.exads.com CNAME .
-management-crakmedia.exads.com CNAME .
 management-itsup.exads.com CNAME .
 management-paradoxgroup.exads.com CNAME .
 management-paradoxmedia.exads.com CNAME .
@@ -1056,3 +1056,4 @@ www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 xn--3225689-o06c.notifysrv.com CNAME .
+admin.adnation.com CNAME .

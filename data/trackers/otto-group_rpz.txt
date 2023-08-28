@@ -21,6 +21,7 @@ te.jelmoli-shop.ch CNAME .
 te.limango.de CNAME .
 te.mirapodo.de CNAME .
 te.mytoys.de CNAME .
+te.nitro-production.otto.boreus.de CNAME .
 te.nitro-test-extern.otto.boreus.de CNAME .
 te.otto.de CNAME .
 te.ottoversand.at CNAME .

@@ -347,6 +347,7 @@
 | donkey.guggenbichler.co.at | deprecated-custom-domains.b-cdn.net |
 | donkey.hackoregon.org | deprecated-custom-domains.b-cdn.net |
 | donkey.kontematik.com | deprecated-custom-domains.b-cdn.net |
+| donkey.oncarbon.app | deprecated-custom-domains.b-cdn.net |
 | donkey.routinehub.co | deprecated-custom-domains.b-cdn.net |
 | donkey.the3rd.place | deprecated-custom-domains.b-cdn.net |
 | dormouse.consentkit.com | deprecated-custom-domains.b-cdn.net |
@@ -404,7 +405,6 @@
 | ferret.itsf.red | deprecated-custom-domains.b-cdn.net |
 | ferret.jesper.hk | deprecated-custom-domains.b-cdn.net |
 | ferret.linksoftwarellc.com | deprecated-custom-domains.b-cdn.net |
-| ferret.siloam.ch | deprecated-custom-domains.b-cdn.net |
 | ferret.tailgraph.com | deprecated-custom-domains.b-cdn.net |
 | finch.eyal.rocks | deprecated-custom-domains.b-cdn.net |
 | finch.koronasporing.no | deprecated-custom-domains.b-cdn.net |
@@ -434,6 +434,7 @@
 | gayal.guter-plan.at | deprecated-custom-domains.b-cdn.net |
 | gayal.maxmasnick.com | deprecated-custom-domains.b-cdn.net |
 | gayal.stockshouse.co | deprecated-custom-domains.b-cdn.net |
+| gazelle.editorclub.com | deprecated-custom-domains.b-cdn.net |
 | gazelle.laurenagray.com | deprecated-custom-domains.b-cdn.net |
 | gecko.anagodeck.com | deprecated-custom-domains.b-cdn.net |
 | gecko.rrrelax.app | deprecated-custom-domains.b-cdn.net |
@@ -965,6 +966,7 @@
 | tigershark.advaya.co | deprecated-custom-domains.b-cdn.net |
 | tigershark.garethtdavies.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.moonpot.com | deprecated-custom-domains.b-cdn.net |
+| tigershark.oilpriceapi.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.paavanmagic.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.vandevliet.me | deprecated-custom-domains.b-cdn.net |
 | tiglon.beyondco.de | deprecated-custom-domains.b-cdn.net |
@@ -1060,6 +1062,7 @@
 | cdn.asrop.xyz | popcashjs.b-cdn.net |
 | cdn.barlo.xyz | popcashjs.b-cdn.net |
 | cdn.buram.xyz | popcashjs.b-cdn.net |
+| cdn.cabhwq.com | popcashjs.b-cdn.net |
 | cdn.decpo.xyz | popcashjs.b-cdn.net |
 | cdn.drawx.xyz | popcashjs.b-cdn.net |
 | cdn.eecd.xyz | popcashjs.b-cdn.net |

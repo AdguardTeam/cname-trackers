@@ -7,7 +7,6 @@
 
 ### Rarely active trackers
 
-* 77980.bodis.com
 * u53.hypnorat.com
 
 ## Cloaking domains
@@ -51,7 +50,6 @@
 | 6cf0e7801e8cd.clicknplay.to | 0i0i0i0.com |
 | 71213zhazha.com | 0i0i0i0.com |
 | 7bd3d001ff6.clicknplay.to | 0i0i0i0.com |
-| 873ag.justthegays.com | 0i0i0i0.com |
 | 893242.milfunsource.com | 0i0i0i0.com |
 | a.123porner.com | 0i0i0i0.com |
 | a.123porner.net | 0i0i0i0.com |
@@ -76,6 +74,7 @@
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
+| a.goodweet.xyz | 0i0i0i0.com |
 | a.hentai369.com | 0i0i0i0.com |
 | a.hentaimotel.com | 0i0i0i0.com |
 | a.hentaitube.icu | 0i0i0i0.com |
@@ -153,7 +152,6 @@
 | adspy.javrank.com | 0i0i0i0.com |
 | adxhand.icu | 0i0i0i0.com |
 | adzilla.icu | 0i0i0i0.com |
-| ags.justthegays.com | 0i0i0i0.com |
 | alt.fescity.com | 0i0i0i0.com |
 | amaz.emailon.top | 0i0i0i0.com |
 | amazoni.lol | 0i0i0i0.com |
@@ -192,7 +190,6 @@
 | asg.catraff.com | 0i0i0i0.com |
 | asg.dormtapes.com | 0i0i0i0.com |
 | asg.faperoni.com | 0i0i0i0.com |
-| asg.justthegays.com | 0i0i0i0.com |
 | asg.laivue.com | 0i0i0i0.com |
 | asg.mrporn.online | 0i0i0i0.com |
 | asg.nude-famous-people.com | 0i0i0i0.com |
@@ -268,11 +265,11 @@
 | c6s.bionestraff.pro | 0i0i0i0.com |
 | cache.picxxxhub.com | 0i0i0i0.com |
 | cam.javboys.cam | 0i0i0i0.com |
+| cangatu.xyz | 0i0i0i0.com |
 | cckum.spinna.store | 0i0i0i0.com |
 | cdc.teensnorest.com | 0i0i0i0.com |
 | cdddd.javmilk.org | 0i0i0i0.com |
 | cdfr.hot4k.org | 0i0i0i0.com |
-| cdn.linkbr.xyz | 0i0i0i0.com |
 | cdn.sdtraff.com | 0i0i0i0.com |
 | cdn1.delii2.art | 0i0i0i0.com |
 | cdn3.cartoonporn.to | 0i0i0i0.com |
@@ -357,7 +354,6 @@
 | gulto.xyz | 0i0i0i0.com |
 | h-ay.com | 0i0i0i0.com |
 | h.bloblohub.com | 0i0i0i0.com |
-| hazicu.hothomefuck.com | 0i0i0i0.com |
 | hegdcrxavrtk.cdnvideo3.com | 0i0i0i0.com |
 | hehe686.lol | 0i0i0i0.com |
 | help.fanza.cc | 0i0i0i0.com |
@@ -532,6 +528,7 @@
 | pampela.lol | 0i0i0i0.com |
 | pamtuea.xyz | 0i0i0i0.com |
 | pangoha.xyz | 0i0i0i0.com |
+| pangtues.xyz | 0i0i0i0.com |
 | parkurl.com | 0i0i0i0.com |
 | penapne.xyz | 0i0i0i0.com |
 | pengenanu.files.im | 0i0i0i0.com |
@@ -651,11 +648,13 @@
 | traffictraders.com | 0i0i0i0.com |
 | ts.sopornvideos.com | 0i0i0i0.com |
 | tt.wl-cornholio.com | 0i0i0i0.com |
+| tyo.justthegays.com | 0i0i0i0.com |
 | uacabilqlgpw.cdnvideo3.com | 0i0i0i0.com |
 | ui.videojav.com | 0i0i0i0.com |
 | uk.boffinsoft.com | 0i0i0i0.com |
 | umtpopxcsedc.cdnvideo3.com | 0i0i0i0.com |
 | uotbzz.xyz | 0i0i0i0.com |
+| upinu.xyz | 0i0i0i0.com |
 | uthbxvz.bestzba.com | 0i0i0i0.com |
 | v.vidghjlgkuyfk.site | 0i0i0i0.com |
 | vavsnhau.mom | 0i0i0i0.com |
@@ -670,6 +669,7 @@
 | vtaov.xyz | 0i0i0i0.com |
 | vuiaki.mom | 0i0i0i0.com |
 | vuvlog.lol | 0i0i0i0.com |
+| vv.7vid.net | 0i0i0i0.com |
 | vz.7vid.net | 0i0i0i0.com |
 | w00t.us | 0i0i0i0.com |
 | waihoz.xyz | 0i0i0i0.com |
@@ -726,12 +726,9 @@
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
 | zzzzaaa.baijav.com | 0i0i0i0.com |
-| a.travelbdnews.xyz | 77980.bodis.com |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | hq3x.com | u50.0i0i0i0.com |
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
 | h-ay.com | u53.hypnorat.com |
-| qhip.com | u53.hypnorat.com |
-| qoqv.com | u53.hypnorat.com |
