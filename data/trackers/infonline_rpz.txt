@@ -4,6 +4,7 @@
 39db8b138f.apps.iocnt.de CNAME .
 5bf0fdacd2.apps.iocnt.de CNAME .
 _.apps.iocnt.de CNAME .
+ackrly.chip.de CNAME .
 acksrc.chip.de CNAME .
 acsam-relay.agof.de CNAME .
 c4b720ded1.apps.iocnt.de CNAME .
@@ -345,7 +346,6 @@ data-2ef5a47289.6rtl.com CNAME .
 data-2f2ec12966.chip.de CNAME .
 data-2f2ec12966.focus.de CNAME .
 data-2f559bb09f.apps.iocnt.de CNAME .
-data-2f80b83d47.songtexte.com CNAME .
 data-2f8cd23f8f.apps.iocnt.de CNAME .
 data-2f9a02e6cd.tga-fachplaner.de CNAME .
 data-3069017f33.oldenburg.de CNAME .
@@ -439,6 +439,7 @@ data-3d61e29638.bz-berlin.de CNAME .
 data-3d7fa37729.gff-magazin.de CNAME .
 data-3d8a7e5aec.wn.de CNAME .
 data-3db2fae96f.vienna.at CNAME .
+data-3e712f8632.news.de CNAME .
 data-3e7222ce74.arzt-wirtschaft.de CNAME .
 data-3e886ae3e6.zaubertopf.de CNAME .
 data-3eff3aac07.kino-zeit.de CNAME .
@@ -597,6 +598,7 @@ data-47ee1b0882.wied-scala.de CNAME .
 data-47ee1b0882.zinema-city.de CNAME .
 data-47ee1b0882.zuckerfabrik.de CNAME .
 data-4892815f14.fitbook.de CNAME .
+data-48bcc52851.wirtrauern.at CNAME .
 data-48d3085f82.hildesheimer-allgemeine.de CNAME .
 data-48fd46a412.digitalphoto.de CNAME .
 data-493270df85.laendle24.de CNAME .
@@ -933,12 +935,12 @@ data-75671117cf.radiowaf.de CNAME .
 data-75adc1b92b.fleischerei.de CNAME .
 data-7609d780e9.apps.iocnt.de CNAME .
 data-767a8be759.berliner-kurier.de CNAME .
-data-770ef2669c.egovernment-computing.de CNAME .
 data-7723a9baa7.internetworld.at CNAME .
 data-7723a9baa7.internetworld.de CNAME .
 data-774647f329.facility-management.de CNAME .
 data-783123c24a.bib-selm.de CNAME .
 data-783123c24a.stadtselm.de CNAME .
+data-7860983f88.wohintipp.at CNAME .
 data-78961379fe.donaukurier.de CNAME .
 data-78961379fe.ingolstadt-today.de CNAME .
 data-7896616c61.abzonline.de CNAME .
@@ -1126,6 +1128,7 @@ data-9358579756.cash-online.de CNAME .
 data-938b06e91c.dev-insider.de CNAME .
 data-93b38cb75f.gff-magazin.de CNAME .
 data-93d70fad98.apps.iocnt.de CNAME .
+data-9439f4400c.apps.iocnt.de CNAME .
 data-9453f66230.stadtbuecherei-gl.de CNAME .
 data-946ccd9713.apps.iocnt.de CNAME .
 data-948e8266cd.zuhausewohnen.de CNAME .
@@ -1478,6 +1481,7 @@ data-c3391a3eb3.radio38.de CNAME .
 data-c3391a3eb3.trauer38.de CNAME .
 data-c33ac4a00e.rtlplus.de CNAME .
 data-c33ac4a00e.tvnow.de CNAME .
+data-c3a3188a23.exxpress.at CNAME .
 data-c48adafa24.teckbote.de CNAME .
 data-c4b720ded1.apps.iocnt.de CNAME .
 data-c4edf5f62e.apps.iocnt.de CNAME .
@@ -1501,7 +1505,6 @@ data-c5925d7d99.buffed.de CNAME .
 data-c5925d7d99.gamesaktuell.de CNAME .
 data-c5925d7d99.gamesworld.de CNAME .
 data-c5925d7d99.gamezone.de CNAME .
-data-c5925d7d99.narutopedia.eu CNAME .
 data-c5925d7d99.opwiki.org CNAME .
 data-c5925d7d99.pcgames.de CNAME .
 data-c5925d7d99.pcgameshardware.de CNAME .
@@ -1515,6 +1518,7 @@ data-c5925d7d99.portablegaming.de CNAME .
 data-c5925d7d99.videogameszone.de CNAME .
 data-c5b0f9d827.grazia-magazin.de CNAME .
 data-c5c818f755.zaubertopf.de CNAME .
+data-c626640336.ichreise.at CNAME .
 data-c626b9efa7.versicherungsmagazin.de CNAME .
 data-c63b112bf0.radiosiegen.de CNAME .
 data-c63b992bb9.connect-living.de CNAME .
@@ -1864,6 +1868,7 @@ data-f23d588bea.hamburg.de CNAME .
 data-f27acaf339.haustechnikdialog.de CNAME .
 data-f2fef0ab45.rhoenundsaalepost.de CNAME .
 data-f2fef0ab45.rhoenundstreubote.de CNAME .
+data-f35c83b71a.ots.at CNAME .
 data-f3bb5f7732.infranken.de CNAME .
 data-f3e9f6e256.computer-spezial.de CNAME .
 data-f3f7a2af0e.daznservices.com CNAME .
@@ -2039,6 +2044,7 @@ data-nl.lanline.de CNAME .
 data-nl.smarterworld.de CNAME .
 data-nl.tageskarte.io CNAME .
 dnsbl.test.data-6dbef37a3c.apps.iocnt.de CNAME .
+member.oewa.at CNAME .
 pool1.i-am.io CNAME .
 report.oewa.at CNAME .
 source-66584305d5.mainpost.de CNAME .

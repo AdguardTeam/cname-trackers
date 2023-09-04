@@ -355,6 +355,7 @@
 ||3408773.notifysrv.com^
 ||3409173.notifysrv.com^
 ||3409957.notifysrv.com^
+||3410343.notify6.com^
 ||3410343.notifysrv.com^
 ||3414351.notifysrv.com^
 ||3414369.notifysrv.com^
@@ -433,6 +434,7 @@
 ||3474937.notify6.com^
 ||3474937.notifysrv.com^
 ||3475333.notifysrv.com^
+||3475335.notify6.com^
 ||3475337.notifysrv.com^
 ||3476453.notifysrv.com^
 ||3478737.notifysrv.com^
@@ -566,6 +568,7 @@
 ||3591075.notify6.com^
 ||3591075.notifysrv.com^
 ||3593835.notify6.com^
+||3593859.notifysrv.com^
 ||3595095.notifysrv.com^
 ||3597775.notifysrv.com^
 ||3598457.notifysrv.com^
@@ -641,6 +644,7 @@
 ||3745191.notifysrv.com^
 ||3745197.notify6.com^
 ||3752469.notifysrv.com^
+||3756889.notifysrv.com^
 ||3767411.notify6.com^
 ||3768747.notify6.com^
 ||3768747.notifysrv.com^
@@ -824,6 +828,7 @@
 ||4329302.notify6.com^
 ||4329306.notify6.com^
 ||4349528.notify6.com^
+||4367658.notify6.com^
 ||4399896.notify6.com^
 ||4407878.notify6.com^
 ||4421184.notify6.com^
@@ -926,6 +931,7 @@
 ||a.slice.exchange^
 ||a.stuffserve.com^
 ||admin.ad.guru^
+||admin.adnation.com^
 ||admin.adstuff.io^
 ||admin.etology.com^
 ||admin.gettopple.com^
@@ -984,8 +990,10 @@
 ||s.elnkp4.com^
 ||s.elnl2a.com^
 ||s.elnl2b.com^
+||s.elnn10.com^
 ||s.elnn12.com^
 ||s.elnn20.com^
+||s.elnn24.com^
 ||s.elns4a.com^
 ||s.elns4c.com^
 ||s.etology.com^
@@ -1036,6 +1044,7 @@
 ||syndication.link2az.com^
 ||syndication.link2nx.com^
 ||syndication.link2zz.com^
+||syndication.link3dx.com^
 ||syndication.link5c.com^
 ||syndication.linkfryn.com^
 ||syndication.linkwitt.com^
@@ -1051,9 +1060,9 @@
 ||www.3227697.notify6.com^
 ||www.3243082.notifysrv.com^
 ||www.3466863.notify6.com^
+||www.3881818.notify6.com^
 ||www.4152316.notify6.com^
 ||www.notify.bizonads-ssp.com^
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||xn--3225689-o06c.notifysrv.com^
-||admin.adnation.com^

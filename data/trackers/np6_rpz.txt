@@ -590,6 +590,7 @@ tr.mika.espmp-nifr.net CNAME .
 tr.mktg.np6.com CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
+tr.mnpd.espmp-agfr.net CNAME .
 tr.moes.espmp-agfr.net CNAME .
 tr.moja-wycena.pl CNAME .
 tr.monagenligne.fr CNAME .
@@ -625,6 +626,7 @@ tr.news-companeo.pl CNAME .
 tr.news-dfc.sciences-po.fr CNAME .
 tr.news-fr.perfectstay.com CNAME .
 tr.news-ingerop.com CNAME .
+tr.news-sncm.fr CNAME .
 tr.news.a-t.fr CNAME .
 tr.news.a2micile.com CNAME .
 tr.news.accessmastertour.com CNAME .
@@ -970,6 +972,7 @@ tr.thisiseurope.moethennessy.com CNAME .
 tr.tns.harmonie-mutuelle.fr CNAME .
 tr.toner-service.fr CNAME .
 tr.toner-services.fr CNAME .
+tr.tonerservices.fr CNAME .
 tr.tourisme.visit-lanarbonnaise.com CNAME .
 tr.tpe.harmonie-mutuelle.fr CNAME .
 tr.trafficnews.lyria.com CNAME .

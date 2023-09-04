@@ -18,6 +18,7 @@ bb.mahdianupcurls.com CNAME .
 bb.vanhonker.com CNAME .
 bb.whaupburgeon.com CNAME .
 bc.manwaysprod.com CNAME .
+bd.inclipscalabur.com CNAME .
 be.habitueflasque.com CNAME .
 bf.buffersling.com CNAME .
 bf.shodeoaters.com CNAME .
@@ -117,6 +118,7 @@ hj.faggotbovidae.com CNAME .
 hl.jinchaovetoer.com CNAME .
 hw.testulebottega.com CNAME .
 hx.relivesternar.com CNAME .
+hz.ruptureboogum.com CNAME .
 ia.bisetsoliped.com CNAME .
 ie.elandsmeikles.com CNAME .
 ie.exhumeaueto.com CNAME .
@@ -244,6 +246,7 @@ qu.oilsulva.com CNAME .
 qv.kempitepterin.com CNAME .
 qv.snaprosery.com CNAME .
 qw.garpikewoodbox.com CNAME .
+qw.teedoping.com CNAME .
 qy.narrateharmala.com CNAME .
 qz.equalsenframe.com CNAME .
 ra.polyserbdom.com CNAME .
@@ -258,6 +261,7 @@ ro.vacuomedogeys.com CNAME .
 rp.bumblesisobase.com CNAME .
 rp.splentstoatoa.com CNAME .
 rp.tsuresoranges.com CNAME .
+rq.pettahgurr.com CNAME .
 rr.giggertji.com CNAME .
 rs.tupigrousy.com CNAME .
 ru.vibgyorvolte.com CNAME .
@@ -324,6 +328,7 @@ vd.scapemambu.com CNAME .
 ve.gweedunweld.com CNAME .
 vg.piaroanjust.com CNAME .
 vi.spratstatters.com CNAME .
+vl.boongsmokeho.com CNAME .
 vn.finisbur.com CNAME .
 vp.upswingmethyl.com CNAME .
 vq.areiccastano.com CNAME .
@@ -331,6 +336,7 @@ vr.noosersturtles.com CNAME .
 vt.alieneepunta.com CNAME .
 vt.eluantsmousees.com CNAME .
 vv.habaerashiksas.com CNAME .
+vv.tensingiseum.com CNAME .
 vw.sapidvenoms.com CNAME .
 vx.azuresjukes.com CNAME .
 wb.aliensplitch.com CNAME .
@@ -360,6 +366,7 @@ xe.ioniumentomic.com CNAME .
 xi.rankinegaumish.com CNAME .
 xl.demosbattik.com CNAME .
 xm.tinlikeil.com CNAME .
+xo.trigscocos.com CNAME .
 xs.odesschemes.com CNAME .
 xx.foetorsnudisms.com CNAME .
 xx.hematinsquark.com CNAME .

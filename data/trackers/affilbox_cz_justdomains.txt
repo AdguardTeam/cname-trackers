@@ -144,6 +144,7 @@ affiliate.epohledavky.cz
 affiliate.eros.sk
 affiliate.escapehouse.sk
 affiliate.esensino.cz
+affiliate.esensino.sk
 affiliate.eshop-naturhouse.cz
 affiliate.eshop-rychle.cz
 affiliate.expertnapredaj.sk
@@ -429,11 +430,13 @@ partner.bio-nehty.cz
 partner.bioaromakosmetika.cz
 partner.bontonck.cz
 partner.bonyplus.cz
+partner.booktook.cz
 partner.brawolife.cz
 partner.breakout.cz
 partner.brilianty.cz
 partner.brillbird.cz
 partner.cakemarket.eu
+partner.calita.cz
 partner.candy.cz
 partner.cannacare.cz
 partner.caskrmeni.cz
@@ -527,6 +530,7 @@ partner.jakfotitsladke.cz
 partner.jakserychlenaucit.cz
 partner.jedlenadobi.cz
 partner.jillylenau.cz
+partner.kalhotkomat.cz
 partner.kanabigerol.cz
 partner.ketomix.cz
 partner.ketomix.hu

@@ -322,6 +322,7 @@ ssl-komforum.tns-gallup.dk CNAME .
 ssl-komputer.tns-gallup.dk CNAME .
 ssl-krak.tns-gallup.dk CNAME .
 ssl-kristeligtdagblad.tns-gallup.dk CNAME .
+ssl-kundeunivers.tns-gallup.dk CNAME .
 ssl-lokalavisen.tns-gallup.dk CNAME .
 ssl-magacin.tns-gallup.dk CNAME .
 ssl-magasinetliv.tns-gallup.dk CNAME .

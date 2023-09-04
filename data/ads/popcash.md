@@ -498,7 +498,6 @@
 | hawk.makroskop.eu | deprecated-custom-domains.b-cdn.net |
 | hawk.mjsarfatti.com | deprecated-custom-domains.b-cdn.net |
 | hedgehog.fightforthefuture.org | deprecated-custom-domains.b-cdn.net |
-| hedgehog.hivve.world | deprecated-custom-domains.b-cdn.net |
 | hedgehog.kiks.life | deprecated-custom-domains.b-cdn.net |
 | heron.joel.is | deprecated-custom-domains.b-cdn.net |
 | heron.morphiq.digital | deprecated-custom-domains.b-cdn.net |
@@ -537,6 +536,7 @@
 | hyena.m1guelpf.blog | deprecated-custom-domains.b-cdn.net |
 | hyena.wearegray.co | deprecated-custom-domains.b-cdn.net |
 | i5ixiwch2f.themakersmob.com | deprecated-custom-domains.b-cdn.net |
+| iguana.cypressridge-pca.org | deprecated-custom-domains.b-cdn.net |
 | iguana.delbaoliveira.com | deprecated-custom-domains.b-cdn.net |
 | iguana.indigospot.com | deprecated-custom-domains.b-cdn.net |
 | iguana.vivere.co | deprecated-custom-domains.b-cdn.net |
@@ -639,6 +639,7 @@
 | louse.sigle.io | deprecated-custom-domains.b-cdn.net |
 | lungfish.datadividendproject.com | deprecated-custom-domains.b-cdn.net |
 | lynx.inovo.io | deprecated-custom-domains.b-cdn.net |
+| lynx.lumy.network | deprecated-custom-domains.b-cdn.net |
 | lynx.microl.ink | deprecated-custom-domains.b-cdn.net |
 | lynx.pascivite.com | deprecated-custom-domains.b-cdn.net |
 | lynx.sbstjn.com | deprecated-custom-domains.b-cdn.net |
@@ -746,7 +747,6 @@
 | panda.mvhphotoproject.org | deprecated-custom-domains.b-cdn.net |
 | panda.teraskolmio.fi | deprecated-custom-domains.b-cdn.net |
 | panda.unpublished.app | deprecated-custom-domains.b-cdn.net |
-| panther.activelink.ie | deprecated-custom-domains.b-cdn.net |
 | panther.atgonlinecoaching.com | deprecated-custom-domains.b-cdn.net |
 | panther.codyhatfield.me | deprecated-custom-domains.b-cdn.net |
 | panther.dividesignservice.com | deprecated-custom-domains.b-cdn.net |
@@ -827,6 +827,7 @@
 | rabbit.thebestproductlist.com | deprecated-custom-domains.b-cdn.net |
 | rabbit.upwardhomes.net | deprecated-custom-domains.b-cdn.net |
 | raccoon.donateflow.com | deprecated-custom-domains.b-cdn.net |
+| raccoon.jaronheard.com | deprecated-custom-domains.b-cdn.net |
 | rat.gimlet.io | deprecated-custom-domains.b-cdn.net |
 | raven.konquadrat.de | deprecated-custom-domains.b-cdn.net |
 | raven.vethelpdirect.com | deprecated-custom-domains.b-cdn.net |
@@ -963,7 +964,6 @@
 | tick.pcrpriser.se | deprecated-custom-domains.b-cdn.net |
 | tick.sculch.app | deprecated-custom-domains.b-cdn.net |
 | tiger.devlib.se | deprecated-custom-domains.b-cdn.net |
-| tigershark.advaya.co | deprecated-custom-domains.b-cdn.net |
 | tigershark.garethtdavies.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.moonpot.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.oilpriceapi.com | deprecated-custom-domains.b-cdn.net |
@@ -1067,6 +1067,7 @@
 | cdn.drawx.xyz | popcashjs.b-cdn.net |
 | cdn.eecd.xyz | popcashjs.b-cdn.net |
 | cdn.eeco.xyz | popcashjs.b-cdn.net |
+| cdn.falkwo.com | popcashjs.b-cdn.net |
 | cdn.faspox.com | popcashjs.b-cdn.net |
 | cdn.fedsy.xyz | popcashjs.b-cdn.net |
 | cdn.fedykr.com | popcashjs.b-cdn.net |
@@ -1074,9 +1075,11 @@
 | cdn.fqkwn.com | popcashjs.b-cdn.net |
 | cdn.ftwpcn.com | popcashjs.b-cdn.net |
 | cdn.gecl.xyz | popcashjs.b-cdn.net |
+| cdn.gelhp.com | popcashjs.b-cdn.net |
 | cdn.gocolow.com | popcashjs.b-cdn.net |
 | cdn.hqwa.xyz | popcashjs.b-cdn.net |
 | cdn.iople.com | popcashjs.b-cdn.net |
+| cdn.isgost.com | popcashjs.b-cdn.net |
 | cdn.jandaqwe.com | popcashjs.b-cdn.net |
 | cdn.jeckear.com | popcashjs.b-cdn.net |
 | cdn.jhoncj.com | popcashjs.b-cdn.net |
@@ -1084,6 +1087,7 @@
 | cdn.karpatzi.com | popcashjs.b-cdn.net |
 | cdn.luxope.com | popcashjs.b-cdn.net |
 | cdn.mafyak.com | popcashjs.b-cdn.net |
+| cdn.miluwo.com | popcashjs.b-cdn.net |
 | cdn.mtinsqq.com | popcashjs.b-cdn.net |
 | cdn.namol.xyz | popcashjs.b-cdn.net |
 | cdn.nlop.xyz | popcashjs.b-cdn.net |

@@ -105,7 +105,6 @@
     * ulta.extole.com
     * unionprivilege-ssl.extole.com
     * urbandaddyperks.extole.com
-    * vantagetravel.extole.com
     * verabradley.extole.com
     * vimeo.extole.com
     * vistaprint-ssl.extole.com
@@ -230,6 +229,7 @@
     * dailypay.extole.io
     * darphin-fr.extole.io
     * darphin.extole.io
+    * darwinspet.extole.io
     * dave.extole.io
     * davines.extole.io
     * dell-outlet.extole.io
@@ -429,6 +429,7 @@
     * saatvamattress.extole.io
     * safecu.extole.io
     * saintjanebeauty.extole.io
+    * salesforce-essentials.extole.io
     * samedelman.extole.io
     * saucony.extole.io
     * savers.extole.io
@@ -499,6 +500,7 @@
     * under-armour.extole.io
     * uniqlo.extole.io
     * united.extole.io
+    * uvacreditunion.extole.io
     * vayasleep.extole.io
     * veo.extole.io
     * veritycu.extole.io
@@ -527,7 +529,6 @@
     * zipcar-ca.extole.io
     * zipcar.extole.io
     * zomasleep.extole.io
-    * zoom.extole.io
 
 ### Rarely active trackers
 
@@ -695,6 +696,7 @@
 | share.refer-darphin.fr | darphin-fr.extole.io |
 | refer.darphin.com | darphin.extole.io |
 | share.refer-darphin.com | darphin.extole.io |
+| share.darwinspet.com | darwinspet.extole.io |
 | share.dave.com | dave.extole.io |
 | refer.us.davines.com | davines.extole.io |
 | refer.delloutlet.com | dell-outlet.extole.io |
@@ -1020,6 +1022,7 @@
 | refer.sage.com | sage-ssl.extole.com |
 | share.na.sage.com | sageca-ssl.extole.com |
 | share.saintjanebeauty.com | saintjanebeauty.extole.io |
+| www.referessentials.com | salesforce-essentials.extole.io |
 | refer.samedelman.com | samedelman.extole.io |
 | refer.saucony.com | saucony.extole.io |
 | share.fundrive.savers.com | savers.extole.io |
@@ -1121,7 +1124,7 @@
 | refer-us.uniqlo.com | uniqlo.extole.io |
 | share.united.net | united.extole.io |
 | refer.urbandaddy.com | urbandaddyperks.extole.com |
-| refer.vantagetravel.com | vantagetravel.extole.com |
+| friends.uvacreditunion.org | uvacreditunion.extole.io |
 | refer.vayasleep.com | vayasleep.extole.io |
 | share.veo.co | veo.extole.io |
 | refer.verabradley.com | verabradley.extole.com |
@@ -1164,4 +1167,3 @@
 | refer.zipcar.ca | zipcar-ca.extole.io |
 | refer.zipcar.com | zipcar.extole.io |
 | refer.zomasleep.com | zomasleep.extole.io |
-| rewards.zoom.us | zoom.extole.io |

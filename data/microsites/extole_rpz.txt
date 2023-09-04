@@ -97,7 +97,6 @@ refer.ulta.com CNAME .
 refer.unionplus.org CNAME .
 refer.urbandaddy.com CNAME .
 refer.usforex.com CNAME .
-refer.vantagetravel.com CNAME .
 refer.verabradley.com CNAME .
 refer.volcom.com CNAME .
 refer.vonage.ca CNAME .
@@ -127,6 +126,7 @@ earn-and-refer.extoleu.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
+friends.uvacreditunion.org CNAME .
 get.lull.com CNAME .
 go.joinsizigi.com CNAME .
 groomrefer.petco.com CNAME .
@@ -393,7 +393,6 @@ referavet.petco.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.shiseido.com CNAME .
 referrals.visionsfcu.org CNAME .
-rewards.zoom.us CNAME .
 share-uk.princess.com CNAME .
 share-us.viktor-rolf.com CNAME .
 share.100xequine.com CNAME .
@@ -453,6 +452,7 @@ share.credible.com CNAME .
 share.creditninja.com CNAME .
 share.cwbank.com CNAME .
 share.dailypay.com CNAME .
+share.darwinspet.com CNAME .
 share.dave.com CNAME .
 share.delawareonline.com CNAME .
 share.desertfinancial.com CNAME .
@@ -622,6 +622,7 @@ share.wisdompanel.com CNAME .
 share.wombatinvest.com CNAME .
 share.zebit.com CNAME .
 share.zenbusiness.com CNAME .
+www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .

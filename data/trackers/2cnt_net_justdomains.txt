@@ -322,6 +322,7 @@ ssl-komforum.tns-gallup.dk
 ssl-komputer.tns-gallup.dk
 ssl-krak.tns-gallup.dk
 ssl-kristeligtdagblad.tns-gallup.dk
+ssl-kundeunivers.tns-gallup.dk
 ssl-lokalavisen.tns-gallup.dk
 ssl-magacin.tns-gallup.dk
 ssl-magasinetliv.tns-gallup.dk

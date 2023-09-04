@@ -74,6 +74,7 @@ cdn3.moneycorp.com CNAME .
 cdna-paymentncb.cofidis.be CNAME .
 cdna.cofidis.es CNAME .
 cdna.cofidis.fr CNAME .
+cdna.cofidisforyou.fr CNAME .
 cdna.cofidisonline.cofidis.es CNAME .
 cdna.ecommerce.cofidis.it CNAME .
 cdna.jpay.com CNAME .
@@ -400,6 +401,7 @@ fp.simplybe.co.uk CNAME .
 fp.ubagroup.com CNAME .
 fp.ups.com CNAME .
 fpcn.bpsgameserver.com CNAME .
+fpmobile.uplift-platform.com CNAME .
 fpt.norton.com CNAME .
 fr.shopdisney.disney.co.jp CNAME .
 fraudcheck.walmart.ca CNAME .

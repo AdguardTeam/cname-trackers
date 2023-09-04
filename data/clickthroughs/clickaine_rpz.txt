@@ -3,7 +3,6 @@
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
 ad.erotikflix.com CNAME .
-ad1.xero.porn CNAME .
 adb.xfilm.me CNAME .
 anti.69vclub.com CNAME .
 api.hugemedia.cz CNAME .
@@ -15,7 +14,6 @@ app.rtnews.pro CNAME .
 asg.erotikflix.com CNAME .
 asg.javhoho.com CNAME .
 asg.torocomoroco.work CNAME .
-asg.uzporn.com CNAME .
 c.gotoxxxtube.com CNAME .
 c0n.tubestash.com CNAME .
 c0n.urlgalleries.net CNAME .
@@ -56,6 +54,7 @@ cli.its2.net CNAME .
 clickc4n.pornharlot.com CNAME .
 clickc4n.pornharlot.net CNAME .
 clk.slutcam.org CNAME .
+clka.bondagevalley.cc CNAME .
 clkn.apostle.onl CNAME .
 clkn2.apostle.onl CNAME .
 clkn3.apostle.onl CNAME .
@@ -80,6 +79,7 @@ hruk.jjikk.top CNAME .
 hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
+images.savetiknowm.org CNAME .
 jg1.trypicz.com CNAME .
 jpnj.hotpornfile.org CNAME .
 k8.usefto.com CNAME .

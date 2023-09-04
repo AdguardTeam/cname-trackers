@@ -2,6 +2,7 @@
 ; Company name: AD EBiS
 a9d8e7b6i5s.andgino.jp CNAME .
 aaa.aqualink.tv CNAME .
+aaaa.jawfp2.org CNAME .
 aaaa.nocor.jp CNAME .
 ac-3.mix.tokyo CNAME .
 ac-ebis-stb.usen.com CNAME .
@@ -48,7 +49,6 @@ adebis.bbb-life.jp CNAME .
 adebis.chojyu.com CNAME .
 adebis.crowdcredit.jp CNAME .
 adebis.daiwahouse.co.jp CNAME .
-adebis.datumow.com CNAME .
 adebis.demae-can.com CNAME .
 adebis.e-ohaka.com CNAME .
 adebis.entetsu.co.jp CNAME .
@@ -79,6 +79,7 @@ adebis.logoshome.jp CNAME .
 adebis.mizunomori.com CNAME .
 adebis.no.01.alo-organic.com CNAME .
 adebis.nursery.co.jp CNAME .
+adebis.pikaichi.co.jp CNAME .
 adebis.qeee.jp CNAME .
 adebis.real-style.co.jp CNAME .
 adebis.report.clinic CNAME .

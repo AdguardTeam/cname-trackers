@@ -144,6 +144,7 @@ affiliate.epohledavky.cz CNAME .
 affiliate.eros.sk CNAME .
 affiliate.escapehouse.sk CNAME .
 affiliate.esensino.cz CNAME .
+affiliate.esensino.sk CNAME .
 affiliate.eshop-naturhouse.cz CNAME .
 affiliate.eshop-rychle.cz CNAME .
 affiliate.expertnapredaj.sk CNAME .
@@ -429,11 +430,13 @@ partner.bio-nehty.cz CNAME .
 partner.bioaromakosmetika.cz CNAME .
 partner.bontonck.cz CNAME .
 partner.bonyplus.cz CNAME .
+partner.booktook.cz CNAME .
 partner.brawolife.cz CNAME .
 partner.breakout.cz CNAME .
 partner.brilianty.cz CNAME .
 partner.brillbird.cz CNAME .
 partner.cakemarket.eu CNAME .
+partner.calita.cz CNAME .
 partner.candy.cz CNAME .
 partner.cannacare.cz CNAME .
 partner.caskrmeni.cz CNAME .
@@ -527,6 +530,7 @@ partner.jakfotitsladke.cz CNAME .
 partner.jakserychlenaucit.cz CNAME .
 partner.jedlenadobi.cz CNAME .
 partner.jillylenau.cz CNAME .
+partner.kalhotkomat.cz CNAME .
 partner.kanabigerol.cz CNAME .
 partner.ketomix.cz CNAME .
 partner.ketomix.hu CNAME .

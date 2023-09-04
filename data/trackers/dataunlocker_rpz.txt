@@ -20,6 +20,7 @@
 21fhq0t574p.talentkit.io CNAME .
 25ix8gm8ien.sandbox.panprices.com CNAME .
 2829i2p88jx.www.csaladinet.hu CNAME .
+2922qj5tf2n.swyftx.com.au CNAME .
 2aa6f9qgrh9.acc.evservice.nl CNAME .
 2e718yf5jypb.test.digitalsurge.io CNAME .
 2e7zgbpky6h.chinese.freecodecamp.org CNAME .

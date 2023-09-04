@@ -97,7 +97,6 @@
 ||refer.unionplus.org^
 ||refer.urbandaddy.com^
 ||refer.usforex.com^
-||refer.vantagetravel.com^
 ||refer.verabradley.com^
 ||refer.volcom.com^
 ||refer.vonage.ca^
@@ -127,6 +126,7 @@
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
+||friends.uvacreditunion.org^
 ||get.lull.com^
 ||go.joinsizigi.com^
 ||groomrefer.petco.com^
@@ -393,7 +393,6 @@
 ||referral.cledepeaubeaute.com^
 ||referral.shiseido.com^
 ||referrals.visionsfcu.org^
-||rewards.zoom.us^
 ||share-uk.princess.com^
 ||share-us.viktor-rolf.com^
 ||share.100xequine.com^
@@ -453,6 +452,7 @@
 ||share.creditninja.com^
 ||share.cwbank.com^
 ||share.dailypay.com^
+||share.darwinspet.com^
 ||share.dave.com^
 ||share.delawareonline.com^
 ||share.desertfinancial.com^
@@ -622,6 +622,7 @@
 ||share.wombatinvest.com^
 ||share.zebit.com^
 ||share.zenbusiness.com^
+||www.referessentials.com^
 ||www.referquickbooks.com^
 ||em1476.princesscruises.com^
 ||em4367.raf-studentloans.discover.com^

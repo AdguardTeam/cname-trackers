@@ -2,6 +2,7 @@
 ! Company name: AD EBiS
 ||a9d8e7b6i5s.andgino.jp^
 ||aaa.aqualink.tv^
+||aaaa.jawfp2.org^
 ||aaaa.nocor.jp^
 ||ac-3.mix.tokyo^
 ||ac-ebis-stb.usen.com^
@@ -48,7 +49,6 @@
 ||adebis.chojyu.com^
 ||adebis.crowdcredit.jp^
 ||adebis.daiwahouse.co.jp^
-||adebis.datumow.com^
 ||adebis.demae-can.com^
 ||adebis.e-ohaka.com^
 ||adebis.entetsu.co.jp^
@@ -79,6 +79,7 @@
 ||adebis.mizunomori.com^
 ||adebis.no.01.alo-organic.com^
 ||adebis.nursery.co.jp^
+||adebis.pikaichi.co.jp^
 ||adebis.qeee.jp^
 ||adebis.real-style.co.jp^
 ||adebis.report.clinic^

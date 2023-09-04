@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME disguised microsites list
 ! Description: The list of unique microsites domains that disguise the real trackers by using CNAME records.
-! TimeUpdated: 2023-08-28T08:00:17+00:00
+! TimeUpdated: 2023-09-04T08:00:21+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 ||00c0a62f0c.de65e1286b.com^
@@ -12,6 +12,7 @@
 ||042006961f.0c98edaa39.com^
 ||052d3c5276.875413cfaf.com^
 ||060ec415b9.15d3c0325b.com^
+||074cc5d98c.6350e10f3a.com^
 ||082c013e7b.9a876646fa.com^
 ||084cc7e11c.abc35a1d01.com^
 ||088d98f687.7a3b147921.com^
@@ -38,10 +39,8 @@
 ||15340eb8a6.da29f4a76d.com^
 ||157d5e4847.7b094dba79.com^
 ||1723cba717.8592fb1c1d.com^
-||1795105253.e02fe0d0c1.com^
 ||184d6c5595.dff2c5fc33.com^
 ||1866115cbe.3f5b226d6e.com^
-||19364edf69.b88f1c5cda.com^
 ||196af26667.9072b44d3e.com^
 ||1b6ab23d2c.255b9e74d2.com^
 ||1ba7882463.cf6ab9a135.com^
@@ -53,6 +52,7 @@
 ||201efd9d67.c3af119d07.com^
 ||20cbc85129.fc455e7809.com^
 ||20ddfbe344.7179c5492e.com^
+||213d2867ca.22ddebb169.com^
 ||22aa4458dc.c42f556ff8.com^
 ||234e54cf56.e9f1af32f6.com^
 ||2482cc116f.6105265d75.com^
@@ -69,6 +69,7 @@
 ||2cb68fec4a.4fde20c235.com^
 ||2d56aafb14.8767fbfa8b.com^
 ||2efa46ca31.da03ab7249.com^
+||2f5a638754.b44b3c5f19.com^
 ||2fa1db4c6a.6effce3135.com^
 ||2fdaf3a5d0.16d177cbd1.com^
 ||2tty.overstappen.nl^
@@ -78,6 +79,7 @@
 ||3309734ae8.329a540736.com^
 ||336daaaad4.a13da428b3.com^
 ||34ee212f2c.350886f6c8.com^
+||35d716093d.35494de512.com^
 ||360direct.qualfon.com^
 ||3717363a26.e2ef790422.com^
 ||3788041701.99018f340b.com^
@@ -96,7 +98,6 @@
 ||40cdf9d2a9.9fee754633.com^
 ||41a90d0edd.0f0b46245d.com^
 ||41e02b972b.9f101f07c7.com^
-||41ff45a3db.03f128fb44.com^
 ||423cc0af23.3a91727319.com^
 ||42412d3534.32f36a4d79.com^
 ||428fcb314a.5ae63880d1.com^
@@ -113,6 +114,7 @@
 ||4b612d43b5.649751e608.com^
 ||4c2742c64a.6ffd0d44d9.com^
 ||4d45d9361e.2b86aacf73.com^
+||4e06399fc4.1fa7752ccb.com^
 ||4e6b62c568.4b31707500.com^
 ||4e838acbab.d3f3abd25c.com^
 ||4ee283d2af.9f8695e9a4.com^
@@ -186,6 +188,7 @@
 ||7fa2c26b89.fba8a9ab60.com^
 ||80d1a27de4.7776bf141c.com^
 ||812748c48f.02f87a8089.com^
+||856267c01d.41bcf8ddc1.com^
 ||8577616b81.2045683976.com^
 ||85ee48afef.479d86c670.com^
 ||8654683419.6ab77a3dad.com^
@@ -218,6 +221,7 @@
 ||96d4f49a24.035adbe0d7.com^
 ||9757fdc45b.92b501c719.com^
 ||98028f4b73.c9b501fef3.com^
+||9886b79e62.b785f3975b.com^
 ||999a328fa0.86521e18d4.com^
 ||99aa05f0e1.bc9bdbb70b.com^
 ||99bddc8c25.84692db09f.com^
@@ -240,7 +244,6 @@
 ||a135.wsoctv.com^
 ||a235.ctnews.com^
 ||a235.gametimect.com^
-||a235.greenwichtime.com^
 ||a235.htvnativeadsolutions.com^
 ||a235.lmtonline.com^
 ||a235.mrt.com^
@@ -274,7 +277,6 @@
 ||abastur.ubmmexico.com^
 ||abo.schibsted.no^
 ||ac8b9eaf81.db2f8e1acc.com^
-||acb5145d0c.8874d81f48.com^
 ||access.acspubs.org^
 ||access.sunpower.com^
 ||acq-au.americanexpress.com^
@@ -287,6 +289,7 @@
 ||actie.athlon.com^
 ||action.hassconsult.co.ke^
 ||activation.labcorp.com^
+||activation.thunderinsider.com^
 ||active.sangfor.com^
 ||activos.contacto.promerica.fi.cr^
 ||ad02b0144f.b06fcca6fd.com^
@@ -519,6 +522,7 @@
 ||app.info.truvenhealth.biz^
 ||app.info.ubmchannel.com^
 ||app.info.washcaps.com^
+||app.info.washingtonwizards.com^
 ||app.inform.equifax.com^
 ||app.information.cognos.com^
 ||app.information.maileva.com^
@@ -535,7 +539,6 @@
 ||app.lacr.motorolasolutions.com^
 ||app.leadership.kenblanchard.com^
 ||app.learn.datafoundry.com^
-||app.learn.ellucian.com^
 ||app.learn.ioninteractive.com^
 ||app.learn.mindjet.com^
 ||app.learn.rasmussen.edu^
@@ -579,6 +582,7 @@
 ||app.payments-response.americanexpress.co.uk^
 ||app.payments.53.com^
 ||app.pbr.com^
+||app.pittsburghpanthers.com^
 ||app.playhousesquare.org^
 ||app.poconoraceway.com^
 ||app.post.vertafore.com^
@@ -765,7 +769,6 @@
 ||bca.aviationweek.com^
 ||bcdb664dff.0d356de9ef.com^
 ||bd2bc05960.47daeb1eac.com^
-||bd2ca6c82d.20e2b2c425.com^
 ||bdecfb7de6.e2ff92bcf8.com^
 ||be-go.experian.com^
 ||be.secure.sonosite.com^
@@ -800,6 +803,7 @@
 ||branchout.pegs.com^
 ||brand.adp.ca^
 ||breakthrough.kronos.com^
+||btaconnect.americanexpress.it^
 ||btaenrolment.americanexpress.at^
 ||bu.adpinfo.com^
 ||business-cards.americanexpress.com^
@@ -849,8 +853,6 @@
 ||campaign.mazda.lu^
 ||campaign.mazda.sk^
 ||campaign.motorolasolutions.com^
-||campaign.onetrust.com^
-||campaign.onetrustpro.com^
 ||campaign.outpayce.com^
 ||campaign.phinmaproperties.com^
 ||campaign.raymondcorp.com^
@@ -858,7 +860,6 @@
 ||campaign.ruukki.com^
 ||campaign.shl.com^
 ||campaign.ssab.com^
-||campaign.vendorpedia.com^
 ||campaigninfo.motorolasolutions.com^
 ||campaignresources.motorolasolutions.com^
 ||campaigns-de.opentext.com^
@@ -881,6 +882,7 @@
 ||campaigns.sandhill.co.uk^
 ||campaigns.technics.eu^
 ||campaigns.xactware.com^
+||campanhas.edpcomunicacao.com.br^
 ||carburanalyticsspace.carte-gr.total.fr^
 ||carburez-a-l-emotion.carte-gr.total.fr^
 ||cardexchanges.carte-gr.total.fr^
@@ -907,7 +909,6 @@
 ||cc9246f1b6.4bf340a7f1.com^
 ||cca691f765.ca3362de0f.com^
 ||ccaas.avaya.com^
-||cce1fcf4c7.cca57f4672.com^
 ||ccmd.coveredca.com^
 ||cdn.experience.globalsources.com^
 ||cdrive.compellent.com^
@@ -1099,6 +1100,7 @@
 ||connectlp.keysight.com^
 ||connectportal.netapp.com^
 ||connecttest.arubanetworks.com^
+||connectvet.rossu.edu^
 ||connectwithus.cetera.com^
 ||consult.americanexpress.com^
 ||consulting.guidehouse.com^
@@ -1142,6 +1144,7 @@
 ||content.rackspace.co.uk^
 ||content.tatatelebusiness.com^
 ||content.verint.com^
+||content.wire.telstra.com^
 ||contents.pwc.com^
 ||conteudos.lp.deloittecomunicacao.com.br^
 ||controlexpenses.adp.ca^
@@ -1166,6 +1169,7 @@
 ||cooktopcove.share.ntv.io^
 ||coop.vmware.com^
 ||corporate.americanexpress.com^
+||corporate.americanexpress.it^
 ||corporate.fctg.cloud^
 ||corporate.mattamyhomes.com^
 ||corporate.wpcarey.com^
@@ -1195,6 +1199,7 @@
 ||customer-engagement.verintsystemsinc.com^
 ||customerexperience.verintsystemsinc.com^
 ||customers-capitalbank-jo-877029.p06.elqsandbox.com^
+||cx.quadient.com^
 ||cyber-pages.att.com^
 ||cyber-tracking.att.com^
 ||cyber.boozallen.com^
@@ -1213,6 +1218,7 @@
 ||d9d8248a89.220e561113.com^
 ||da7a33716c.92be9e6be2.com^
 ||db06a54c9c.abb357b8cc.com^
+||dbcbfd1f9e.6a3a727872.com^
 ||dbl.cadriamarketing.com^
 ||dc.bluecoat.com^
 ||dd.control4.com^
@@ -1295,7 +1301,9 @@
 ||discover.parker.com^
 ||discover.pharmaignite.com^
 ||discover.phenomenex.com^
+||discover.rewe-group.at^
 ||discover.tenplay.com.au^
+||discover2.secureforms.mcafee.com^
 ||distributors.balluff.com^
 ||dk-go.experian.com^
 ||dlabiznesu.pracuj.pl^
@@ -1325,7 +1333,6 @@
 ||e.pomonaelectronics.com^
 ||e099af5046.08dc0b0152.com^
 ||e10.verticurl.com^
-||e144c46b1f.ab910ac1aa.com^
 ||e172aea9a0.66fb5240da.com^
 ||e1de143963.cc3f3eedbb.com^
 ||e341c11575.f63f3176ad.com^
@@ -1368,6 +1375,7 @@
 ||efficiency.visma.se^
 ||ehtel.endress.com^
 ||electronics.edm.globalsources.com^
+||electronics.tradeshow.globalsources.com^
 ||elia.thermofisher.com^
 ||elink.serasaexperian.com.br^
 ||eloq.fiducial.fr^
@@ -1451,6 +1459,7 @@
 ||elq.nextens.nl^
 ||elq.openshift.com^
 ||elq.opensource.com^
+||elq.proconnect.intuit.com^
 ||elq.redhat.com^
 ||elq.sonicwall.com^
 ||elq.utas.edu.au^
@@ -1717,6 +1726,7 @@
 ||entrepreneur.share.ntv.io^
 ||ep.regis.edu^
 ||eqclicks.movember.com^
+||eqs.accountants.intuit.com^
 ||eqs.intuit.com^
 ||eqtrack.americashomeplace.com^
 ||eroar.lionsclubs.org^
@@ -1771,6 +1781,7 @@
 ||events.bendigotafe.edu.au^
 ||events.blackboard.com^
 ||events.boozallen.com^
+||events.careallies.com^
 ||events.cigna.com^
 ||events.elliemae.com^
 ||events.engage.cebglobal.com^
@@ -1830,6 +1841,7 @@
 ||fad362ad5f.2d70ed4cc1.com^
 ||faithinthenews.share.ntv.io^
 ||fan.info.heat.com^
+||fashion.edm.globalsources.com^
 ||fasttrack.americanexpress.co.uk^
 ||fb02e621c6.1c09d36b99.com^
 ||fb76b9dc25.b714a651f4.com^
@@ -1896,6 +1908,7 @@
 ||forms.telstraglobal.com^
 ||forms.vaisala.com^
 ||forms.verisigninc.com^
+||forms.web.roberthalf.com^
 ||forms.xperthr.co.uk^
 ||forms.xperthr.com^
 ||forms2.vistage.com^
@@ -1915,7 +1928,6 @@
 ||fpc.indigovision.com^
 ||fpc.inxinternational.com^
 ||fpc.laerdal.com^
-||fpc.onetrust.com^
 ||fpc.pelco.com^
 ||fpc.pelican.com^
 ||fpc.questoraclecommunity.org^
@@ -1940,10 +1952,12 @@
 ||friend.sharefile.com^
 ||friends.keurig.ca^
 ||friends.keurig.com^
+||friends.uvacreditunion.org^
 ||frostnsullivan.advancedtech.com^
 ||fsi.seek.intel.com^
 ||future.jcu.edu.au^
 ||future.uwindsor.ca^
+||fxpayments.americanexpress.com.au^
 ||gateway.aimia.com^
 ||gayety.share.ntv.io^
 ||gb.click.finning.com^
@@ -1973,6 +1987,7 @@
 ||glass.autovistagroup.com^
 ||glassguide-au.autovistagroup.com^
 ||global-go.experian.com^
+||global-mktg.transunion.com^
 ||global.zenprise.com^
 ||globalbanking.wolterskluwer.com^
 ||globaleloqua.americanexpress.com^
@@ -1985,6 +2000,7 @@
 ||go.air-electra.co.il^
 ||go.ali-cle.org^
 ||go.avon.sk^
+||go.axione.com^
 ||go.azets.dk^
 ||go.azets.se^
 ||go.blackboard.com^
@@ -2092,6 +2108,8 @@
 ||groups.heatexperience.com^
 ||grow.advisorgroup.com^
 ||gsasolutionssecure.gsa.gov^
+||gslive.edm.globalsources.com^
+||gsmatch.edm.globalsources.com^
 ||gsol.edm.globalsources.com^
 ||gsols.edm.globalsources.com^
 ||gsupplyair.carte-gr.total.fr^
@@ -2112,9 +2130,11 @@
 ||hello.postuler.bpost.be^
 ||hello.solliciteren.bpost.be^
 ||hello.stbpost.be^
+||hello.trailblazers.com^
 ||hellomagazine.share.ntv.io^
 ||helpdesk.thinkhdi.com^
 ||hk-go.experian.com^
+||home.edm.globalsources.com^
 ||hopeful.coh.org^
 ||hospitality.redbull.racing^
 ||host11.traffic-builders.com^
@@ -2218,6 +2238,7 @@
 ||images.dubaiholding.ae^
 ||images.e-insight.autovistagroup.com^
 ||images.e-mail.deloittecomunicacao.com.br^
+||images.e.arizonacoyotes.com^
 ||images.e.bengals.com^
 ||images.e.brother.com^
 ||images.e.bulls.com^
@@ -2238,6 +2259,7 @@
 ||images.e.seagate.com^
 ||images.e.seahawksemail.com^
 ||images.e.skandia.pl^
+||images.e.transunion.com^
 ||images.e.tycois.com^
 ||images.e.westuc.com^
 ||images.e.xtelligentmedia.com^
@@ -2247,6 +2269,8 @@
 ||images.edm.carnivalaustralia.com^
 ||images.edm.cunardinoz.com.au^
 ||images.edm.princesscruises.com.au^
+||images.edm.propertyguru.com^
+||images.edm.wlcl.com.au^
 ||images.education.ifebp.org^
 ||images.efficiency.nl.visma.com^
 ||images.eloqua.fredhutch.org^
@@ -2365,6 +2389,7 @@
 ||images.info.tupperware.at^
 ||images.info.tupperware.be^
 ||images.info.tupperware.de^
+||images.info.tupperware.pt^
 ||images.info.veritas.com^
 ||images.info.visma.com^
 ||images.info.yourmobilitypartner.com^
@@ -2385,6 +2410,7 @@
 ||images.klubb.bonnier.se^
 ||images.lauthorities.com^
 ||images.learn.arborcrowd.com^
+||images.learn.ctliensolutions.com^
 ||images.learn.follett.com^
 ||images.learn.hitachiconsulting.com^
 ||images.learn.hmhco.com^
@@ -2491,6 +2517,7 @@
 ||images.read.aspiresys.com^
 ||images.register.lighthouse-media.com^
 ||images.reldirect.lenovo.com^
+||images.resources.cetera.com^
 ||images.respond.macktrucks.com^
 ||images.respond.overheaddoor.com^
 ||images.respons.schibsted.no^
@@ -2542,6 +2569,7 @@
 ||images.tr-mail.bsh-group.com^
 ||images.ubmamgevents.com^
 ||images.uhealthsystem.miami.edu^
+||images.uni.une.edu.au^
 ||images.universidad.javeriana.edu.co^
 ||images.update.lennar.com^
 ||images.updates.hbo.com^
@@ -2574,6 +2602,7 @@
 ||info.aacargo.com^
 ||info.aag.com^
 ||info.abbotsfordcentre.ca^
+||info.academynet.com^
 ||info.adp.com^
 ||info.aldautomotive.com^
 ||info.aldcarmarket.com^
@@ -2603,7 +2632,6 @@
 ||info.commercial.keurig.com^
 ||info.compasslearning.com^
 ||info.compucom.com^
-||info.cookiepro.com^
 ||info.credicomer.com.sv^
 ||info.cybersource.com^
 ||info.dailyfx.com^
@@ -2631,6 +2659,7 @@
 ||info.houzz.com^
 ||info.insideview.com^
 ||info.investa.com.au^
+||info.iowaeventscenter.com^
 ||info.johnsoncontrols.com^
 ||info.kace.com^
 ||info.kangan.edu.au^
@@ -2662,14 +2691,11 @@
 ||info.northwestms.edu^
 ||info.o2business.de^
 ||info.onemedical.com^
-||info.onetrust.com^
-||info.onetrustpro.com^
 ||info.pbs.org^
 ||info.perkinelmer.com^
 ||info.perkinelmer.com.cn^
 ||info.philadelphiaunion.com^
 ||info.phinmaproperties.com^
-||info.preferencechoice.com^
 ||info.proedge.pwc.com^
 ||info.protiviti.co.kr^
 ||info.quova.com^
@@ -2677,6 +2703,7 @@
 ||info.reutersagency.com^
 ||info.revvity.com^
 ||info.rewe-group.at^
+||info.riskproducts.pwc.com^
 ||info.saverglass.com^
 ||info.scene7.com^
 ||info.scorecardrewards.com^
@@ -2690,7 +2717,6 @@
 ||info.transcontinental-printing.com^
 ||info.unis.edu.gt^
 ||info.vaadsheli.co.il^
-||info.vendorpedia.com^
 ||info.versicherungspraxis24.de^
 ||info.verwaltungspraxis24.de^
 ||info.viant.com^
@@ -2776,6 +2802,7 @@
 ||kampanjer.yxvisa.no^
 ||kenn.extoleu.com^
 ||kl.klasselotteriet.dk^
+||klmcorporate.americanexpress.nl^
 ||know.wolterskluwerlr.com^
 ||knowledge.vaisala.com^
 ||knowledge.verdantis.com^
@@ -2820,7 +2847,6 @@
 ||learn.creditacceptance.com^
 ||learn.fhlbny.com^
 ||learn.grassicpas.com^
-||learn.hr.panasonic.eu^
 ||learn.huthwaite.com^
 ||learn.jacksonhewitt.com^
 ||learn.liensolutions.com^
@@ -2848,12 +2874,22 @@
 ||link.jll.com^
 ||link.lloydsbank.com^
 ||links.banking.scottishwidows.co.uk^
+||links.blackhorse.co.uk^
 ||links.businessinsurance.bankofscotland.co.uk^
+||links.commercialemails.amcplc.com^
 ||links.commercialemails.bankofscotland.co.uk^
+||links.commercialemails.blackhorse.co.uk^
+||links.commercialemails.halifax.co.uk^
+||links.commercialemails.lexautolease.co.uk^
 ||links.commercialemails.lloydsbank.com^
 ||links.e.response.mayoclinic.org^
+||links.email.bm-solutions.co.uk^
+||links.email.hx-intermediaries.co.uk^
 ||links.emails-sharedealing.co.uk^
+||links.emails.birminghammidshires.co.uk^
 ||links.go.shoretel.com^
+||links.lexautolease.co.uk^
+||links.npsemails.mbna.co.uk^
 ||littlethings.share.ntv.io^
 ||live.alljobs.co.il^
 ||live.polycom.com^
@@ -2873,6 +2909,7 @@
 ||lp.capella.edu^
 ||lp.copeland.com^
 ||lp.dynabook.com^
+||lp.edpcomunicacao.com.br^
 ||lp.email-particuliers.engie.fr^
 ||lp.embarcadero.com^
 ||lp.europe.business.samsung.com^
@@ -2921,6 +2958,8 @@
 ||mail.dolce-gusto.co.cr^
 ||mail.dolce-gusto.co.il^
 ||mail.dolce-gusto.co.kr^
+||mail.dolce-gusto.co.uk^
+||mail.dolce-gusto.co.za^
 ||mail.dolce-gusto.com.ar^
 ||mail.dolce-gusto.com.au^
 ||mail.dolce-gusto.com.sg^
@@ -2983,6 +3022,7 @@
 ||marketingpro.euromaster.fr^
 ||marketreports.autovistagroup.com^
 ||markkinointi.igopost.fi^
+||mat.lgdisplay.com^
 ||matrk.rockymountainpower.net^
 ||mds.ricoh-europe.com^
 ||mds.ricoh.ch^
@@ -3076,6 +3116,7 @@
 ||news.crmtechnologies.com^
 ||news.dbschenker.com^
 ||news.equipbaie.com^
+||news.fiac.com^
 ||news.iftm.fr^
 ||news.income.com.sg^
 ||news.inttra.com^
@@ -3112,6 +3153,7 @@
 ||nt.compass-fit.jp^
 ||nurse.fastaff.com^
 ||nurse.trustaff.com^
+||nyhed.danskespil.dk^
 ||nz-go.experian.com^
 ||nzbusiness.vodafone.co.nz^
 ||o2.ikontwerpflyers.nl^
@@ -3193,6 +3235,7 @@
 ||pages.response.terex.com^
 ||pages.sailgp.com^
 ||pages.siemens-energy.com^
+||pages.siemens-info.com^
 ||pages.uchicagomedicine.org^
 ||pages.usviolifeprofessional.mktg-upfield.com^
 ||pages.wardsintelligence.informa.com^
@@ -3264,12 +3307,14 @@
 ||prod.tracking.refinitiv.com^
 ||product.cloud.travelport.com^
 ||productionprinting.ricoh.ch^
+||productionprinting.ricoh.ie^
 ||productivity-s.yale.com^
 ||products.forddirectdealers.com^
 ||products.ricoh-europe.com^
 ||products.ricoh.ch^
 ||products.ricoh.co.uk^
 ||products.ricoh.ie^
+||produkte.ricoh.at^
 ||produktionsdruck.ricoh.de^
 ||profiling.afry.com^
 ||profiling.eurofins.fi^
@@ -3639,7 +3684,6 @@
 ||refer.urbandaddy.com^
 ||refer.us.davines.com^
 ||refer.usforex.com^
-||refer.vantagetravel.com^
 ||refer.vayasleep.com^
 ||refer.verabradley.com^
 ||refer.vincecamuto.com^
@@ -3688,6 +3732,7 @@
 ||registro.omegacrmconsulting.com^
 ||regmdr.pref.ims.dialog-direct.com^
 ||relations.extrahop.com^
+||relyonit.americanexpress.co.uk^
 ||rent.mgrc.com^
 ||renting.aldautomotive.es^
 ||reply.osv.com^
@@ -3699,6 +3744,7 @@
 ||resources.att.com^
 ||resources.hermanmiller.com^
 ||resources.icmi.com^
+||resources.l1id.com^
 ||resources.mcgladrey.com^
 ||resources.opentext.com^
 ||resources.opentext.de^
@@ -3754,7 +3800,6 @@
 ||retirement.newyorklifeannuities.com^
 ||reuniondepadres.unisabana.edu.co^
 ||review.teradata.com^
-||rewards.zoom.us^
 ||rh.adp.ca^
 ||rh.ocq.com.br^
 ||rims.aig.com^
@@ -3889,6 +3934,7 @@
 ||services.blackboard.com^
 ||services.cmacgm-group.com^
 ||services.princes-trust.org.uk^
+||servicing.business.hsbc.com^
 ||sftp.extole.com^
 ||sg-go.experian.com^
 ||sgforex.americanexpress.com^
@@ -3952,6 +3998,7 @@
 ||share.creditninja.com^
 ||share.cwbank.com^
 ||share.dailypay.com^
+||share.darwinspet.com^
 ||share.dave.com^
 ||share.delawareonline.com^
 ||share.desertfinancial.com^
@@ -4356,6 +4403,7 @@
 ||t.hokiesports.com^
 ||t.hornetsports.com^
 ||t.huskers.com^
+||t.iowaeventscenter.com^
 ||t.itsehoitoapteekki.fi^
 ||t.iuhoosiers.com^
 ||t.jmusports.com^
@@ -4485,6 +4533,7 @@
 ||track.abrdn.com^
 ||track.abrdnaef.com^
 ||track.abrdnaod.com^
+||track.abrdnfco.com^
 ||track.abrdnifn.com^
 ||track.abrdnnewindia.co.uk^
 ||track.asiadragontrust.co.uk^
@@ -4677,6 +4726,7 @@
 ||tracking.flowofwork.adp.com^
 ||tracking.flukecal.com^
 ||tracking.fr.adp.com^
+||tracking.fticonsulting.com^
 ||tracking.ftitechnology.com^
 ||tracking.gartner.com^
 ||tracking.gelia.com^
@@ -4936,6 +4986,7 @@
 ||tracks1.ferrari.com^
 ||tracks3.ferrari.com^
 ||trackside.redbull.racing^
+||tradeshow.edm.globalsources.com^
 ||trail.dominiosistemas.com.br^
 ||trail.sweetandmaxwell.co.uk^
 ||trail.thomsonreuters.ca^
@@ -4975,6 +5026,7 @@
 ||trk.airportdata.com^
 ||trk.albinpump.com^
 ||trk.ali-cle.org^
+||trk.altis.com.gr^
 ||trk.americancityandcounty.com^
 ||trk.anthology.com^
 ||trk.appliedintelligence.live^
@@ -5011,6 +5063,7 @@
 ||trk.channelfutures.com^
 ||trk.channelleadershipsummit.com^
 ||trk.channelpartnersconference.com^
+||trk.citeline.com^
 ||trk.concisegroup.com^
 ||trk.contact.alphabet.com^
 ||trk.contact.umpquabank.com^
@@ -5124,6 +5177,7 @@
 ||trk.parkitbikeracks.com^
 ||trk.picnictables.com^
 ||trk.planta.pt^
+||trk.plantafin.fr^
 ||trk.plasticstoday.com^
 ||trk.powderandbulkshow.com^
 ||trk.powderandbulksolids.com^
@@ -5272,6 +5326,7 @@
 ||webinar.victorops.com^
 ||webinars.att.com^
 ||webinars.blackboard.com^
+||webinars.elliemae.com^
 ||webinars.monster.com^
 ||webinars.oncourselearning.com^
 ||website-security.geotrust.com^
@@ -5293,6 +5348,8 @@
 ||welcome.item24.de^
 ||welcome.item24.es^
 ||welcome.item24.fr^
+||welcome.item24.hu^
+||welcome.item24.it^
 ||welcome.item24.kr^
 ||welcome.item24.mx^
 ||welcome.item24.nl^
@@ -5357,7 +5414,6 @@
 ||www.mydocusign.com^
 ||www.myvehicle.eaton.com^
 ||www.networkingexchange.att.com^
-||www.news.bg.panasonic.eu^
 ||www.newscatalanaoccidente.com^
 ||www.newsletter.standardandpoors.com^
 ||www.newsplusultra.es^
@@ -5367,6 +5423,7 @@
 ||www.pages.siteonlinelearning.edu.au^
 ||www.partnermcafee.com^
 ||www.rdalpha.net^
+||www.referessentials.com^
 ||www.referquickbooks.com^
 ||www.registrocumbresallegro.com^
 ||www.registroeventosjaver.com^

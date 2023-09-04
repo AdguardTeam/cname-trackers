@@ -74,6 +74,7 @@ cdn3.moneycorp.com
 cdna-paymentncb.cofidis.be
 cdna.cofidis.es
 cdna.cofidis.fr
+cdna.cofidisforyou.fr
 cdna.cofidisonline.cofidis.es
 cdna.ecommerce.cofidis.it
 cdna.jpay.com
@@ -400,6 +401,7 @@ fp.simplybe.co.uk
 fp.ubagroup.com
 fp.ups.com
 fpcn.bpsgameserver.com
+fpmobile.uplift-platform.com
 fpt.norton.com
 fr.shopdisney.disney.co.jp
 fraudcheck.walmart.ca

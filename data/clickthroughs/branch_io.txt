@@ -28,6 +28,7 @@
 ||3988408442896783715.theacademyforconsciousleadership.com^
 ||492733704185584515.academyforconsciousculture.com^
 ||5363316.marketing.numi.com^
+||5363316.trackerinfo.southbeachdiet.com^
 ||6505338.news.mindbody.io^
 ||6519114.automated.almosafer.com^
 ||6519114.automated.tajawal.com^
@@ -221,6 +222,7 @@
 ||app-clicks.firstrepublic.com^
 ||app.dickssportinggoods.com^
 ||app.email.influitive.com^
+||app.golfgalaxy.com^
 ||app.sephora.com^
 ||applink-test.chalknation.com^
 ||applink.getbambu.com^
@@ -317,10 +319,8 @@
 ||click.transactional.carousell.com^
 ||click.trycobble.com^
 ||click1.e.radio.com^
-||click1.e.thechive.com^
 ||click1.email-postup.branch.rocks^
 ||click1.email.audacy.com^
-||click1.mail.paltalkpeople.com^
 ||click2.email.ticketmaster.com^
 ||clickmail.stubhub.com^
 ||clicks.6thstreet.com^
@@ -451,6 +451,7 @@
 ||email.rentomojo.in^
 ||email.rentomojo.org^
 ||email.rentomojomailer.com^
+||email.shouta.co^
 ||email.social.avasecurity.com^
 ||email.social.f5.com^
 ||email.social.qualtrics.com^
@@ -546,6 +547,7 @@
 ||link.lpm.surkus.com^
 ||link.lpt.surkus.com^
 ||link.mail.blidz.com^
+||link.mail.burgerking.ca^
 ||link.mail.popsa.com^
 ||link.mail.step.com^
 ||link.marketing.bleacherreport.com^
@@ -629,6 +631,7 @@
 ||links.grand.co^
 ||links.h5.hilton.com^
 ||links.h6.hilton.com^
+||links.hitrecord.org^
 ||links.huckleberry-labs.com^
 ||links.i.blueapron.com^
 ||links.info.getgocafe.com^
@@ -647,6 +650,7 @@
 ||links.nbc.com^
 ||links.nbcnews.com^
 ||links.news.forhims.com^
+||links.news.hims.com^
 ||links.news.mindbody.io^
 ||links.nexttrucking.com^
 ||links.notarize.com^
@@ -726,7 +730,9 @@
 ||test.customers.instacartemail.com^
 ||test.emails.discovery.com^
 ||test.emails.foodnetwork.com^
+||test.emails.hgtv.com^
 ||test.emails.investigationdiscovery.com^
+||test.emails.tlc.com^
 ||test.emails.travelchannel.com^
 ||test.links.emails.br.discoveryplus.com^
 ||test.links.emails.ca.discoveryplus.com^
@@ -1032,7 +1038,6 @@
 ||app.getplayground.com^
 ||app.getselect.co^
 ||app.ggpoker.co.uk^
-||app.goat.com^
 ||app.gobuncha.com^
 ||app.gocheetah.com^
 ||app.godtlevert.no^
@@ -1139,7 +1144,6 @@
 ||app.nalogi.online^
 ||app.nautilus.io^
 ||app.navi.com^
-||app.navyhealth.com.au^
 ||app.nhrmcmychart.com^
 ||app.nootric.com^
 ||app.now.vn^
@@ -1153,6 +1157,7 @@
 ||app.onyxcharge.com^
 ||app.openfolio.com^
 ||app.optus.com.au^
+||app.otipy.com^
 ||app.ouicsport.fr^
 ||app.oze789.com^
 ||app.pally.live^
@@ -1232,6 +1237,7 @@
 ||app.th3rdwave.coffee^
 ||app.theachieveapp.com^
 ||app.theachieveproject.com^
+||app.themaven.net^
 ||app.thestaxapp.com^
 ||app.thetimes.link^
 ||app.thetriviabar.com^
@@ -1351,6 +1357,7 @@
 ||apps.crib.in^
 ||apps.daxko-qa.com^
 ||apps.daxko.com^
+||apps.dev.zingeroo.com^
 ||apps.ding.jobs^
 ||apps.jeffgalloway.com^
 ||apps.myprepaidcenter.com^
@@ -1714,7 +1721,6 @@
 ||deeplink.gocover.co.za^
 ||deeplink.goodmeasures.com^
 ||deeplink.lamsaworld.com^
-||deeplink.lichviet.app^
 ||deeplink.locokids.cn^
 ||deeplink.mobile360.io^
 ||deeplink.oxstreet.com^
@@ -1906,6 +1912,7 @@
 ||fullerton-app.hotdoc.com.au^
 ||fun.indonesiya.com^
 ||fut.mondo.link^
+||g.getsimpler.me^
 ||g.pathsha.re^
 ||g2048.rgluk.com^
 ||g993dvyzae.branch.salesfloor.net^
@@ -2154,6 +2161,7 @@
 ||go.japan.innovatedating.com^
 ||go.jillianmichaels.com^
 ||go.jobtoday.com^
+||go.jsh.mingle.com^
 ||go.justarrivd.com^
 ||go.karos.fr^
 ||go.kasa.co.kr^
@@ -2228,6 +2236,7 @@
 ||go.qantaswellbeing.com^
 ||go.queer.ignite.technology^
 ||go.rakuten.com^
+||go.ratengoods.com^
 ||go.real.co^
 ||go.rever.co^
 ||go.russia.innovatedating.com^
@@ -2237,7 +2246,6 @@
 ||go.sirved.com^
 ||go.skippy.ai^
 ||go.smartjobr.com^
-||go.snipsnap.it^
 ||go.socar.kr^
 ||go.socar.my^
 ||go.socialvenu.com^
@@ -2267,6 +2275,7 @@
 ||go.tiptip.co^
 ||go.topicit.net^
 ||go.trevo.my^
+||go.turkey.innovatedating.com^
 ||go.twi.sm^
 ||go.uae.innovatedating.com^
 ||go.uk.innovatedating.com^
@@ -2462,6 +2471,7 @@
 ||kd.eland.kr^
 ||keyes.myre.io^
 ||kimcil.indonesiya.com^
+||kl-branch-sandbox.thekono.com^
 ||kotopoulathanasis.openapp.link^
 ||l-t.topya.com^
 ||l-test.civic.com^
@@ -2582,7 +2592,7 @@
 ||link.app.dev.fixdapp.com^
 ||link.app.fixdapp.com^
 ||link.app.forhers.com^
-||link.app.forhims.com^
+||link.app.hims.com^
 ||link.appewa.com^
 ||link.appimin.com^
 ||link.arablinc.com^
@@ -2861,7 +2871,6 @@
 ||link.rechat.com^
 ||link.reflexhealth.co^
 ||link.reklaimyours.com^
-||link.remitly.com^
 ||link.reuters.com^
 ||link.revolut.com^
 ||link.ride.specialized.com^
@@ -2943,6 +2952,7 @@
 ||link.tradle.io^
 ||link.truckerpath.com^
 ||link.trycircle.com^
+||link.trymida.com^
 ||link.trytaptab.com^
 ||link.tubi.tv^
 ||link.tul.io^
@@ -2982,6 +2992,7 @@
 ||link.wisaw.com^
 ||link.wix.app^
 ||link.workmate.asia^
+||link.workwellnessinstitute.org^
 ||link.worqout.io^
 ||link.xiahealth.com^
 ||link.yesorno.bet^
@@ -3147,7 +3158,6 @@
 ||m.navi.com^
 ||m.nxtgn.us^
 ||m.origin.com.au^
-||m.oxyn.io^
 ||m.papertrail.io^
 ||m.pcmobile.ca^
 ||m.petmire.com^
@@ -3655,6 +3665,8 @@
 ||test.fbird.co^
 ||test.findeck.link^
 ||test.findplay.it^
+||test.links.discoveryplus.com^
+||test.links.emea.discoveryplus.com^
 ||test.open.ggwpacademy.com^
 ||test.openapp.link^
 ||test.partnerapp.kravein.com.au^

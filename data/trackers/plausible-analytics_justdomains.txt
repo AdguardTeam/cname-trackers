@@ -47,7 +47,6 @@ analytics.ramiyer.io
 analytics.ramiyer.me
 analytics.recamov.com
 analytics.sideprojectsoftware.com
-analytics.sixfigureswine.com
 analytics.teamcovenant.com
 analytics.top10-charts.com
 analytics.trust.page
@@ -58,7 +57,6 @@ analytics.wayland.app
 analytics.whostheboss.co.uk
 analytics.whotargets.me
 analytics.winter.ink
-analytics.wittypen.com
 analytics.xiloc.net
 analytics.zevvle.com
 antitracking.owncast.online
@@ -74,6 +72,7 @@ assets.garron.blog
 assets.garron.me
 assets.mikeroulston.com
 assets.modeathletics.com
+assets.modehypertext.com
 aux.lansator.ro
 badwolf.open-election-compass.com
 bees.beesbeesbeesbees.com
@@ -501,7 +500,6 @@ stats.declanbyrd.co.uk
 stats.deescut.com
 stats.deja-lu.de
 stats.depends-on-the-definition.com
-stats.derekknight.tech
 stats.designerpowerup.com
 stats.deva.guru
 stats.develop.wwdcscholars.com
@@ -548,7 +546,6 @@ stats.engel-apotheke.de
 stats.engeldirekt.de
 stats.engineering.freeagent.com
 stats.englishadam.com
-stats.enochian.tech
 stats.entreno.fcalan.org
 stats.equium.io
 stats.erbridge.co.uk
@@ -795,7 +792,6 @@ stats.pasteapp.io
 stats.pastorwagner.com
 stats.patout.dev
 stats.patriot.win
-stats.paulbutler.org
 stats.paulmcgrath.me
 stats.paulronge.se
 stats.paypresto.co
@@ -808,7 +804,6 @@ stats.petr.codes
 stats.phili.pe
 stats.photographer.com.au
 stats.pianoplanet.app
-stats.pilgrimway.ca
 stats.pinoymusicstation.com
 stats.piplette.co
 stats.piranhas.co

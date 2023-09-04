@@ -48,7 +48,6 @@
 | 6969.javher.com | 0i0i0i0.com |
 | 69741211.clicknplay.to | 0i0i0i0.com |
 | 6cf0e7801e8cd.clicknplay.to | 0i0i0i0.com |
-| 71213zhazha.com | 0i0i0i0.com |
 | 7bd3d001ff6.clicknplay.to | 0i0i0i0.com |
 | 893242.milfunsource.com | 0i0i0i0.com |
 | a.123porner.com | 0i0i0i0.com |
@@ -61,6 +60,7 @@
 | a.alldeepfake.xyz | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.artamkari.com | 0i0i0i0.com |
+| a.badword.xyz | 0i0i0i0.com |
 | a.bitporno.com | 0i0i0i0.com |
 | a.bitporno.to | 0i0i0i0.com |
 | a.bloblohub.com | 0i0i0i0.com |
@@ -122,6 +122,7 @@
 | abc.comick.top | 0i0i0i0.com |
 | abutok.xyz | 0i0i0i0.com |
 | ad.animeitaly.org | 0i0i0i0.com |
+| ad.animeitaly.tv | 0i0i0i0.com |
 | ad.desibp.com | 0i0i0i0.com |
 | ad.emule-island.eu | 0i0i0i0.com |
 | ad.pornutopia.org | 0i0i0i0.com |
@@ -129,11 +130,11 @@
 | ad.vvtadblk.online | 0i0i0i0.com |
 | ad.wawacity.xyz | 0i0i0i0.com |
 | ad.xxam.org | 0i0i0i0.com |
+| adanad.name | 0i0i0i0.com |
 | adanald.icu | 0i0i0i0.com |
 | adblock.vidomo.xyz | 0i0i0i0.com |
 | adddddd.javmilk.org | 0i0i0i0.com |
 | addin.icu | 0i0i0i0.com |
-| adhome.icu | 0i0i0i0.com |
 | adilk.ilikecomix.com | 0i0i0i0.com |
 | ads.2conv.com | 0i0i0i0.com |
 | ads.free-to.download | 0i0i0i0.com |
@@ -141,7 +142,6 @@
 | ads.imgdesu.art | 0i0i0i0.com |
 | ads.javtit.com | 0i0i0i0.com |
 | ads.onetouchtv.me | 0i0i0i0.com |
-| ads.onlyfanspornvideo.com | 0i0i0i0.com |
 | ads.pornharlot.com | 0i0i0i0.com |
 | ads.pornharlot.net | 0i0i0i0.com |
 | ads.pornutopia.org | 0i0i0i0.com |
@@ -161,14 +161,12 @@
 | anti.nukedfans.com | 0i0i0i0.com |
 | anti.uiiumovies.net | 0i0i0i0.com |
 | antiadblock.info | 0i0i0i0.com |
-| aoutime.hair | 0i0i0i0.com |
 | api.adultsclips.com | 0i0i0i0.com |
 | apiemb.xyz | 0i0i0i0.com |
 | app.phimvu.app | 0i0i0i0.com |
 | app.zrotary.com | 0i0i0i0.com |
 | apple.analnoe24.com | 0i0i0i0.com |
 | apple.arabtoons.net | 0i0i0i0.com |
-| aps.celebfap.cyou | 0i0i0i0.com |
 | arabs.alarabsex.com | 0i0i0i0.com |
 | arabs.alarbda.com | 0i0i0i0.com |
 | arabs.arabxforum.com | 0i0i0i0.com |
@@ -278,7 +276,6 @@
 | cdn5.cartoonporn.to | 0i0i0i0.com |
 | cdn5.hentaihaven.fun | 0i0i0i0.com |
 | cesbr.spinna.store | 0i0i0i0.com |
-| chicipu.lol | 0i0i0i0.com |
 | click.fastupload.io | 0i0i0i0.com |
 | client2009x25.xcdn.ovh | 0i0i0i0.com |
 | coinbaze.lol | 0i0i0i0.com |
@@ -368,6 +365,7 @@
 | hotmovstore.com | 0i0i0i0.com |
 | houdisco.xyz | 0i0i0i0.com |
 | hsux.com | 0i0i0i0.com |
+| huanez.xyz | 0i0i0i0.com |
 | huckeyz.lol | 0i0i0i0.com |
 | huewaix.xyz | 0i0i0i0.com |
 | hunjoinz.pics | 0i0i0i0.com |
@@ -410,7 +408,6 @@
 | js.phoenixmanga.com | 0i0i0i0.com |
 | js.xemkqxs.com | 0i0i0i0.com |
 | jx3.freepornobook.com | 0i0i0i0.com |
-| kanhsky.mom | 0i0i0i0.com |
 | kembuck.homes | 0i0i0i0.com |
 | ken9.lol | 0i0i0i0.com |
 | kena9.mom | 0i0i0i0.com |
@@ -429,7 +426,6 @@
 | lc1982.lol | 0i0i0i0.com |
 | leefang.lol | 0i0i0i0.com |
 | lengtikto.xyz | 0i0i0i0.com |
-| leona2.mom | 0i0i0i0.com |
 | lixir.wargers.org | 0i0i0i0.com |
 | load.jabx.net | 0i0i0i0.com |
 | load.try-games.com | 0i0i0i0.com |
@@ -441,9 +437,9 @@
 | m.x-power.info | 0i0i0i0.com |
 | m.xrum.info | 0i0i0i0.com |
 | m9xp1.hentaigold.net | 0i0i0i0.com |
-| maizour.mom | 0i0i0i0.com |
 | mamamia.vintageporno.stream | 0i0i0i0.com |
 | mangoga.xyz | 0i0i0i0.com |
+| mangtoz.xyz | 0i0i0i0.com |
 | maxcdn.dmm-video.online | 0i0i0i0.com |
 | maxhold.xyz | 0i0i0i0.com |
 | maxx1.pleasedonotblockme.com | 0i0i0i0.com |
@@ -505,6 +501,7 @@
 | oj.fapnow.xxx | 0i0i0i0.com |
 | ok.4wank.com | 0i0i0i0.com |
 | ok.4wank.net | 0i0i0i0.com |
+| ok.fapnado.com | 0i0i0i0.com |
 | ok.fapnado.xxx | 0i0i0i0.com |
 | ok.fapnow.xxx | 0i0i0i0.com |
 | ok.faptor.com | 0i0i0i0.com |
@@ -527,6 +524,7 @@
 | pakeway.lol | 0i0i0i0.com |
 | pampela.lol | 0i0i0i0.com |
 | pamtuea.xyz | 0i0i0i0.com |
+| pamury.xyz | 0i0i0i0.com |
 | pangoha.xyz | 0i0i0i0.com |
 | pangtues.xyz | 0i0i0i0.com |
 | parkurl.com | 0i0i0i0.com |
@@ -538,6 +536,7 @@
 | pivo.tracked.one | 0i0i0i0.com |
 | pizzazz.lol | 0i0i0i0.com |
 | pnpjceawvmeu.cdnvideo3.com | 0i0i0i0.com |
+| pop.nkiris.com | 0i0i0i0.com |
 | pornve.sexyadsrun.com | 0i0i0i0.com |
 | pornvideos.casa | 0i0i0i0.com |
 | possibily.com | 0i0i0i0.com |
@@ -580,7 +579,6 @@
 | s1sentablya.teenfuckhd.com | 0i0i0i0.com |
 | s2.everydaygayporn.com | 0i0i0i0.com |
 | s4.sb89347.com | 0i0i0i0.com |
-| saituo.mom | 0i0i0i0.com |
 | sameplace.lol | 0i0i0i0.com |
 | sanbox.mom | 0i0i0i0.com |
 | satmon.neekstore.com | 0i0i0i0.com |
@@ -599,7 +597,6 @@
 | sg.xclick24.com | 0i0i0i0.com |
 | sgzhg.pornlovo.co | 0i0i0i0.com |
 | sharkbiz.lol | 0i0i0i0.com |
-| shemale.house | 0i0i0i0.com |
 | shemale.team | 0i0i0i0.com |
 | shengcu.mom | 0i0i0i0.com |
 | shmeia.xyz | 0i0i0i0.com |
@@ -657,7 +654,6 @@
 | upinu.xyz | 0i0i0i0.com |
 | uthbxvz.bestzba.com | 0i0i0i0.com |
 | v.vidghjlgkuyfk.site | 0i0i0i0.com |
-| vavsnhau.mom | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
 | vivuple.xyz | 0i0i0i0.com |
 | vjav.com.7mmtv.top | 0i0i0i0.com |
@@ -668,7 +664,6 @@
 | vtaov.lol | 0i0i0i0.com |
 | vtaov.xyz | 0i0i0i0.com |
 | vuiaki.mom | 0i0i0i0.com |
-| vuvlog.lol | 0i0i0i0.com |
 | vv.7vid.net | 0i0i0i0.com |
 | vz.7vid.net | 0i0i0i0.com |
 | w00t.us | 0i0i0i0.com |
@@ -678,7 +673,6 @@
 | ww.0prn.com | 0i0i0i0.com |
 | ww.cvideos.stream | 0i0i0i0.com |
 | www.adanald.icu | 0i0i0i0.com |
-| www.adhome.icu | 0i0i0i0.com |
 | www.adxhand.icu | 0i0i0i0.com |
 | www.antiadblock.info | 0i0i0i0.com |
 | www.bigboy.monster | 0i0i0i0.com |
@@ -689,7 +683,6 @@
 | www.letstry69.xyz | 0i0i0i0.com |
 | www.p123p.com | 0i0i0i0.com |
 | www.pornvideos.casa | 0i0i0i0.com |
-| www.shemale.team | 0i0i0i0.com |
 | www.spinna.site | 0i0i0i0.com |
 | www.spinna.store | 0i0i0i0.com |
 | www.spinna.xyz | 0i0i0i0.com |
@@ -721,7 +714,6 @@
 | xzillla.icu | 0i0i0i0.com |
 | yhu5tw3mn64.jav-7mmtv.top | 0i0i0i0.com |
 | you75.youpornsexvideos.com | 0i0i0i0.com |
-| youzok.lol | 0i0i0i0.com |
 | z0000g.yvmads.com | 0i0i0i0.com |
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |

@@ -17,6 +17,7 @@ cdn.decpo.xyz CNAME .
 cdn.drawx.xyz CNAME .
 cdn.eecd.xyz CNAME .
 cdn.eeco.xyz CNAME .
+cdn.falkwo.com CNAME .
 cdn.faspox.com CNAME .
 cdn.fedsy.xyz CNAME .
 cdn.fedykr.com CNAME .
@@ -24,9 +25,11 @@ cdn.fegivja.com CNAME .
 cdn.fqkwn.com CNAME .
 cdn.ftwpcn.com CNAME .
 cdn.gecl.xyz CNAME .
+cdn.gelhp.com CNAME .
 cdn.gocolow.com CNAME .
 cdn.hqwa.xyz CNAME .
 cdn.iople.com CNAME .
+cdn.isgost.com CNAME .
 cdn.jandaqwe.com CNAME .
 cdn.jeckear.com CNAME .
 cdn.jhoncj.com CNAME .
@@ -34,6 +37,7 @@ cdn.jwalf.com CNAME .
 cdn.karpatzi.com CNAME .
 cdn.luxope.com CNAME .
 cdn.mafyak.com CNAME .
+cdn.miluwo.com CNAME .
 cdn.mtinsqq.com CNAME .
 cdn.namol.xyz CNAME .
 cdn.nlop.xyz CNAME .
@@ -497,7 +501,6 @@ hawk.affio.co.uk CNAME .
 hawk.makroskop.eu CNAME .
 hawk.mjsarfatti.com CNAME .
 hedgehog.fightforthefuture.org CNAME .
-hedgehog.hivve.world CNAME .
 hedgehog.kiks.life CNAME .
 heron.joel.is CNAME .
 heron.morphiq.digital CNAME .
@@ -536,6 +539,7 @@ hyena.kitafund.com CNAME .
 hyena.m1guelpf.blog CNAME .
 hyena.wearegray.co CNAME .
 i5ixiwch2f.themakersmob.com CNAME .
+iguana.cypressridge-pca.org CNAME .
 iguana.delbaoliveira.com CNAME .
 iguana.indigospot.com CNAME .
 iguana.vivere.co CNAME .
@@ -638,6 +642,7 @@ louse.seanconnolly.dev CNAME .
 louse.sigle.io CNAME .
 lungfish.datadividendproject.com CNAME .
 lynx.inovo.io CNAME .
+lynx.lumy.network CNAME .
 lynx.microl.ink CNAME .
 lynx.pascivite.com CNAME .
 lynx.sbstjn.com CNAME .
@@ -745,7 +750,6 @@ panda.moritz-petersen.de CNAME .
 panda.mvhphotoproject.org CNAME .
 panda.teraskolmio.fi CNAME .
 panda.unpublished.app CNAME .
-panther.activelink.ie CNAME .
 panther.atgonlinecoaching.com CNAME .
 panther.codyhatfield.me CNAME .
 panther.dividesignservice.com CNAME .
@@ -826,6 +830,7 @@ rabbit.radicalxchange.org CNAME .
 rabbit.thebestproductlist.com CNAME .
 rabbit.upwardhomes.net CNAME .
 raccoon.donateflow.com CNAME .
+raccoon.jaronheard.com CNAME .
 rat.gimlet.io CNAME .
 raven.konquadrat.de CNAME .
 raven.vethelpdirect.com CNAME .
@@ -962,7 +967,6 @@ tern.xebel.co CNAME .
 tick.pcrpriser.se CNAME .
 tick.sculch.app CNAME .
 tiger.devlib.se CNAME .
-tigershark.advaya.co CNAME .
 tigershark.garethtdavies.com CNAME .
 tigershark.moonpot.com CNAME .
 tigershark.oilpriceapi.com CNAME .

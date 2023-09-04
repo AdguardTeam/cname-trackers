@@ -47,7 +47,6 @@ analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
 analytics.recamov.com CNAME .
 analytics.sideprojectsoftware.com CNAME .
-analytics.sixfigureswine.com CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
@@ -58,7 +57,6 @@ analytics.wayland.app CNAME .
 analytics.whostheboss.co.uk CNAME .
 analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
-analytics.wittypen.com CNAME .
 analytics.xiloc.net CNAME .
 analytics.zevvle.com CNAME .
 antitracking.owncast.online CNAME .
@@ -74,6 +72,7 @@ assets.garron.blog CNAME .
 assets.garron.me CNAME .
 assets.mikeroulston.com CNAME .
 assets.modeathletics.com CNAME .
+assets.modehypertext.com CNAME .
 aux.lansator.ro CNAME .
 badwolf.open-election-compass.com CNAME .
 bees.beesbeesbeesbees.com CNAME .
@@ -501,7 +500,6 @@ stats.declanbyrd.co.uk CNAME .
 stats.deescut.com CNAME .
 stats.deja-lu.de CNAME .
 stats.depends-on-the-definition.com CNAME .
-stats.derekknight.tech CNAME .
 stats.designerpowerup.com CNAME .
 stats.deva.guru CNAME .
 stats.develop.wwdcscholars.com CNAME .
@@ -548,7 +546,6 @@ stats.engel-apotheke.de CNAME .
 stats.engeldirekt.de CNAME .
 stats.engineering.freeagent.com CNAME .
 stats.englishadam.com CNAME .
-stats.enochian.tech CNAME .
 stats.entreno.fcalan.org CNAME .
 stats.equium.io CNAME .
 stats.erbridge.co.uk CNAME .
@@ -795,7 +792,6 @@ stats.pasteapp.io CNAME .
 stats.pastorwagner.com CNAME .
 stats.patout.dev CNAME .
 stats.patriot.win CNAME .
-stats.paulbutler.org CNAME .
 stats.paulmcgrath.me CNAME .
 stats.paulronge.se CNAME .
 stats.paypresto.co CNAME .
@@ -808,7 +804,6 @@ stats.petr.codes CNAME .
 stats.phili.pe CNAME .
 stats.photographer.com.au CNAME .
 stats.pianoplanet.app CNAME .
-stats.pilgrimway.ca CNAME .
 stats.pinoymusicstation.com CNAME .
 stats.piplette.co CNAME .
 stats.piranhas.co CNAME .

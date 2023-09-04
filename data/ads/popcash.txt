@@ -17,6 +17,7 @@
 ||cdn.drawx.xyz^
 ||cdn.eecd.xyz^
 ||cdn.eeco.xyz^
+||cdn.falkwo.com^
 ||cdn.faspox.com^
 ||cdn.fedsy.xyz^
 ||cdn.fedykr.com^
@@ -24,9 +25,11 @@
 ||cdn.fqkwn.com^
 ||cdn.ftwpcn.com^
 ||cdn.gecl.xyz^
+||cdn.gelhp.com^
 ||cdn.gocolow.com^
 ||cdn.hqwa.xyz^
 ||cdn.iople.com^
+||cdn.isgost.com^
 ||cdn.jandaqwe.com^
 ||cdn.jeckear.com^
 ||cdn.jhoncj.com^
@@ -34,6 +37,7 @@
 ||cdn.karpatzi.com^
 ||cdn.luxope.com^
 ||cdn.mafyak.com^
+||cdn.miluwo.com^
 ||cdn.mtinsqq.com^
 ||cdn.namol.xyz^
 ||cdn.nlop.xyz^
@@ -497,7 +501,6 @@
 ||hawk.makroskop.eu^
 ||hawk.mjsarfatti.com^
 ||hedgehog.fightforthefuture.org^
-||hedgehog.hivve.world^
 ||hedgehog.kiks.life^
 ||heron.joel.is^
 ||heron.morphiq.digital^
@@ -536,6 +539,7 @@
 ||hyena.m1guelpf.blog^
 ||hyena.wearegray.co^
 ||i5ixiwch2f.themakersmob.com^
+||iguana.cypressridge-pca.org^
 ||iguana.delbaoliveira.com^
 ||iguana.indigospot.com^
 ||iguana.vivere.co^
@@ -638,6 +642,7 @@
 ||louse.sigle.io^
 ||lungfish.datadividendproject.com^
 ||lynx.inovo.io^
+||lynx.lumy.network^
 ||lynx.microl.ink^
 ||lynx.pascivite.com^
 ||lynx.sbstjn.com^
@@ -745,7 +750,6 @@
 ||panda.mvhphotoproject.org^
 ||panda.teraskolmio.fi^
 ||panda.unpublished.app^
-||panther.activelink.ie^
 ||panther.atgonlinecoaching.com^
 ||panther.codyhatfield.me^
 ||panther.dividesignservice.com^
@@ -826,6 +830,7 @@
 ||rabbit.thebestproductlist.com^
 ||rabbit.upwardhomes.net^
 ||raccoon.donateflow.com^
+||raccoon.jaronheard.com^
 ||rat.gimlet.io^
 ||raven.konquadrat.de^
 ||raven.vethelpdirect.com^
@@ -962,7 +967,6 @@
 ||tick.pcrpriser.se^
 ||tick.sculch.app^
 ||tiger.devlib.se^
-||tigershark.advaya.co^
 ||tigershark.garethtdavies.com^
 ||tigershark.moonpot.com^
 ||tigershark.oilpriceapi.com^

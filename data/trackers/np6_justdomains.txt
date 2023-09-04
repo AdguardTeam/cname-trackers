@@ -590,6 +590,7 @@ tr.mika.espmp-nifr.net
 tr.mktg.np6.com
 tr.mm.infopro-digital.com
 tr.mnoc.espmp-nifr.net
+tr.mnpd.espmp-agfr.net
 tr.moes.espmp-agfr.net
 tr.moja-wycena.pl
 tr.monagenligne.fr
@@ -625,6 +626,7 @@ tr.news-companeo.pl
 tr.news-dfc.sciences-po.fr
 tr.news-fr.perfectstay.com
 tr.news-ingerop.com
+tr.news-sncm.fr
 tr.news.a-t.fr
 tr.news.a2micile.com
 tr.news.accessmastertour.com
@@ -970,6 +972,7 @@ tr.thisiseurope.moethennessy.com
 tr.tns.harmonie-mutuelle.fr
 tr.toner-service.fr
 tr.toner-services.fr
+tr.tonerservices.fr
 tr.tourisme.visit-lanarbonnaise.com
 tr.tpe.harmonie-mutuelle.fr
 tr.trafficnews.lyria.com

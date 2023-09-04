@@ -106,6 +106,7 @@
     * 547882457626880.wt-eu02.net
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
+    * 587628343151442.wt-eu02.net
     * 590838755166551.wt-eu02.net
     * 598189357306993.wt-eu02.net
     * 600483262075260.wt-eu02.net
@@ -326,6 +327,7 @@
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
+| web.e.pbslgroup.co.uk | 587628343151442.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
 | wbtrkk.teufelaudio.be | 598189357306993.wt-eu02.net |
 | web.mapp.tretti.se | 600483262075260.wt-eu02.net |
@@ -406,8 +408,6 @@
 | w7.berlin.de | berlinonline-02.wt-eu02.net |
 | w7.berliner-silvester.de | berlinonline-02.wt-eu02.net |
 | w7.weihnachteninberlin.de | berlinonline-02.wt-eu02.net |
-| aud.bild.de | bild01.webtrekk.net |
-| inhalt.bild.de | bild01.webtrekk.net |
 | spr.bild.de | bild01.webtrekk.net |
 | trk.blume2000.de | blume2000.wt-eu02.net |
 | img.buch.ch | buchch02.webtrekk.net |

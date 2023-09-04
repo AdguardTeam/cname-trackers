@@ -1,6 +1,5 @@
 ;
 ; Company name: Webtrekk
-aud.bild.de CNAME .
 image.deginvest.de CNAME .
 image.kfw-entwicklungsbank.de CNAME .
 image.kfw-formularsammlung.de CNAME .
@@ -8,7 +7,6 @@ image.kfw-ipex-bank.de CNAME .
 image.kfw.de CNAME .
 images1.test.de CNAME .
 img.buch.ch CNAME .
-inhalt.bild.de CNAME .
 mon.ingservices.nl CNAME .
 now.peek-cloppenburg.de CNAME .
 ot.obi.com CNAME .
@@ -262,6 +260,7 @@ web.crm.beps.it CNAME .
 web.diebayerische.de CNAME .
 web.e.aldermore.co.uk CNAME .
 web.e.panmacmillan.com CNAME .
+web.e.pbslgroup.co.uk CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.pmtonline.co.uk CNAME .
 web.email.principality.co.uk CNAME .

@@ -124,6 +124,7 @@ cmp.volkswagen.be
 co-operative.activate.ensighten.com
 consent.irvinecompany.com
 consent.irvinecompany.com.cdn.cloudflare.net
+cookiebanner.heineken.com
 cookies.jll-mena.com
 cookies.jll.ca
 cookies.jll.ch

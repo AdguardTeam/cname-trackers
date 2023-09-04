@@ -28,6 +28,7 @@
     * h-2qfdtlmr.online-metrix.net
     * h-2ql3c6py.online-metrix.net
     * h-2yf3c1v4.online-metrix.net
+    * h-2zweytuc.online-metrix.net
     * h-30fpzt2y.online-metrix.net
     * h-324klu1j.online-metrix.net
     * h-32rts1pk.online-metrix.net
@@ -725,6 +726,7 @@
 | claimant.vec.virginia.gov | h-2qfdtlmr.online-metrix.net |
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
+| fpmobile.uplift-platform.com | h-2zweytuc.online-metrix.net |
 | app.uob.com.sg | h-30fpzt2y.online-metrix.net |
 | applicant.rbfcu.org | h-324klu1j.online-metrix.net |
 | secure.freshbooks.com | h-32rts1pk.online-metrix.net |
@@ -1019,6 +1021,7 @@
 | cdna.cofidisonline.cofidis.es | h-cofidis-es.online-metrix.net |
 | cdna.paymentncb.cofidis.es | h-cofidis-es.online-metrix.net |
 | cdna.cofidis.fr | h-cofidis-payment.online-metrix.net |
+| cdna.cofidisforyou.fr | h-cofidis-payment.online-metrix.net |
 | cdna.paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.paymentncb.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.rqt-paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |

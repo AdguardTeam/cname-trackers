@@ -1,6 +1,5 @@
 #
 # Company name: Webtrekk
-aud.bild.de
 image.deginvest.de
 image.kfw-entwicklungsbank.de
 image.kfw-formularsammlung.de
@@ -8,7 +7,6 @@ image.kfw-ipex-bank.de
 image.kfw.de
 images1.test.de
 img.buch.ch
-inhalt.bild.de
 mon.ingservices.nl
 now.peek-cloppenburg.de
 ot.obi.com
@@ -262,6 +260,7 @@ web.crm.beps.it
 web.diebayerische.de
 web.e.aldermore.co.uk
 web.e.panmacmillan.com
+web.e.pbslgroup.co.uk
 web.email.farrow-ball.com
 web.email.pmtonline.co.uk
 web.email.principality.co.uk
