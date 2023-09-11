@@ -50,6 +50,7 @@ tp.frankonia.at CNAME .
 tp.frankonia.com CNAME .
 tp.frankonia.de CNAME .
 tp.frankoniamoda.ch CNAME .
+tp.heine-shop.nl CNAME .
 tp.heine.at CNAME .
 tp.heine.ch CNAME .
 tp.heine.de CNAME .

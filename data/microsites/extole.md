@@ -153,6 +153,7 @@
     * athleta.extole.io
     * atlasbars.extole.io
     * aveda-au.extole.io
+    * aveda-ca.extole.io
     * aveda-uk.extole.io
     * aveda.extole.io
     * avocado-mattress.extole.io
@@ -285,6 +286,7 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -306,6 +308,7 @@
     * hydropeptide.extole.io
     * imagemarket.extole.io
     * incommonbeauty.extole.io
+    * incrediblebank.extole.io
     * indeed.extole.io
     * inspire-clean-energy.extole.io
     * installamerica.extole.io
@@ -369,6 +372,7 @@
     * nfhs-network.extole.io
     * ngfcu.extole.io
     * ninja-kitchen.extole.io
+    * novig.extole.io
     * obagi.extole.io
     * olehenriksen.extole.io
     * olivegarden.extole.io
@@ -440,6 +444,7 @@
     * shark-clean.extole.io
     * shiseido.extole.io
     * shoplc.extole.io
+    * shu-uemura-art-of-hair.extole.io
     * shutterstock.extole.io
     * signals.extole.io
     * simon-and-schuster.extole.io
@@ -588,6 +593,7 @@
 | refer.athletawell.com | athleta.extole.io |
 | share.atlasbars.com | atlasbars.extole.io |
 | share.aveda.com.au | aveda-au.extole.io |
+| share.refer-aveda.ca | aveda-ca.extole.io |
 | share.refer-aveda.co.uk | aveda-uk.extole.io |
 | refer.aveda.com | aveda.extole.io |
 | share.refer-aveda.com | aveda.extole.io |
@@ -654,6 +660,7 @@
 | refer.chacos.com | chacos.extole.io |
 | share.myq.com | chamberlain.extole.io |
 | share.cheaperthandirt.com | cheaper-than-dirt.extole.io |
+| share.cheaperthandirt.net | cheaper-than-dirt.extole.io |
 | refer.cheaptickets.com | cheaptickets.extole.io |
 | refer.checkngo.com | checkngo.extole.com |
 | share.chewsidental.com | chewsidental.extole.io |
@@ -803,6 +810,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -835,6 +843,7 @@
 | refer.icracked.com | icracked.extole.com |
 | share.imagemarket.com | imagemarket.extole.io |
 | refer.incommonbeauty.com | incommonbeauty.extole.io |
+| share.incrediblebank.com | incrediblebank.extole.io |
 | refer.indeed.com | indeed.extole.io |
 | share.indochino.com | indochino.extole.com |
 | share.inspirecleanenergy.com | inspire-clean-energy.extole.io |
@@ -924,6 +933,7 @@
 | refer.nfhsnetwork.com | nfhs-network.extole.io |
 | share.ngfcu.us | ngfcu.extole.io |
 | refer.ninjakitchen.com | ninja-kitchen.extole.io |
+| share.novig.us | novig.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
 | share.obagi.com | obagi.extole.io |
 | refer.offset.com | offset.extole.com |
@@ -1035,6 +1045,7 @@
 | referral.shiseido.com | shiseido.extole.io |
 | refer.shoesforcrews.com | shoesforcrews-ssl.extole.com |
 | share.shoplc.com | shoplc.extole.io |
+| refer.shuuemuraartofhair-usa.com | shu-uemura-art-of-hair.extole.io |
 | share.shutterstock.com | shutterstock.extole.io |
 | refer.signals.com | signals.extole.io |
 | refer.silvercar.com | silvercar.extole.com |

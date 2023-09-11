@@ -150,7 +150,6 @@
 | nums.upscale.app | custom.plausible.io |
 | p.aj-foster.com | custom.plausible.io |
 | p.classroombookings.com | custom.plausible.io |
-| p.e-bot7.com | custom.plausible.io |
 | p.ejs.dev | custom.plausible.io |
 | p.fairspot.host | custom.plausible.io |
 | p.ianmjones.com | custom.plausible.io |
@@ -197,6 +196,7 @@
 | plans.fundtherebuild.com | custom.plausible.io |
 | plas.imfeld.dev | custom.plausible.io |
 | plau.artemsyzonenko.com | custom.plausible.io |
+| plau.caisy.io | custom.plausible.io |
 | plau.devitjobs.nl | custom.plausible.io |
 | plau.devitjobs.uk | custom.plausible.io |
 | plau.devitjobs.us | custom.plausible.io |
@@ -256,6 +256,7 @@
 | plausible.help.exploreandcreate.com | custom.plausible.io |
 | plausible.holderbaum-academy.de | custom.plausible.io |
 | plausible.hopecanebay.com | custom.plausible.io |
+| plausible.ionicelements.dev | custom.plausible.io |
 | plausible.jeroenvandenboorn.nl | custom.plausible.io |
 | plausible.joinself.com | custom.plausible.io |
 | plausible.k6sbw.net | custom.plausible.io |
@@ -543,7 +544,6 @@
 | stats.einsvieracht.de | custom.plausible.io |
 | stats.ekomenyong.com | custom.plausible.io |
 | stats.elementary.io | custom.plausible.io |
-| stats.elishaterada.com | custom.plausible.io |
 | stats.eliteclng.com | custom.plausible.io |
 | stats.elixir-lang.org | custom.plausible.io |
 | stats.elysenewland.com | custom.plausible.io |
@@ -666,7 +666,6 @@
 | stats.jamhouse.app | custom.plausible.io |
 | stats.jansix.at | custom.plausible.io |
 | stats.jasonludden.dev | custom.plausible.io |
-| stats.jauer.it | custom.plausible.io |
 | stats.jawebb.se | custom.plausible.io |
 | stats.jdheyburn.co.uk | custom.plausible.io |
 | stats.jerickson.net | custom.plausible.io |
@@ -881,7 +880,6 @@
 | stats.servicedesignjobs.com | custom.plausible.io |
 | stats.seva.rocks | custom.plausible.io |
 | stats.sexplore.app | custom.plausible.io |
-| stats.sg-einheit.de | custom.plausible.io |
 | stats.shareup.app | custom.plausible.io |
 | stats.sheer.tj | custom.plausible.io |
 | stats.shepherd.com | custom.plausible.io |

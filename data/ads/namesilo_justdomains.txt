@@ -937,11 +937,11 @@ admin.etology.com
 admin.gettopple.com
 admin.shafttraffic.com
 api.adnation.com
+api.getblaze.app
 api.slice.exchange
 delivery.gettopple.com
 engine.gettopple.com
-m.hue2a.com
-m.hue3a.com
+m.hue2m.com
 main.adxnow.com
 main.exdynsrv.com
 main.exoclick.com

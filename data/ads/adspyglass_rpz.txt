@@ -77,10 +77,10 @@ a.katomu.club CNAME .
 a.kizzteen.com CNAME .
 a.letsjerk.org CNAME .
 a.letsjerk.tv CNAME .
+a.memosaqee.com CNAME .
 a.misctool.xyz CNAME .
 a.myprettyads.one CNAME .
 a.narutoon.com CNAME .
-a.naturalhealthsource.club CNAME .
 a.p123p.com CNAME .
 a.pandaporner.com CNAME .
 a.pinayviralsexx.com CNAME .
@@ -89,7 +89,6 @@ a.porn369.net CNAME .
 a.pornhex.com CNAME .
 a.pumpity.net CNAME .
 a.rafian.com CNAME .
-a.redhairporn.com CNAME .
 a.reryn2ce.com CNAME .
 a.smut.cc CNAME .
 a.suptube.com CNAME .
@@ -106,6 +105,7 @@ a5g.oves.biz CNAME .
 a9o.youlikeboys.com CNAME .
 aa.zerg.pro CNAME .
 aabtest.asg-media.com CNAME .
+ab.cumhot.org CNAME .
 abc.comick.top CNAME .
 abutok.xyz CNAME .
 ad.animeitaly.org CNAME .
@@ -432,10 +432,12 @@ mangoga.xyz CNAME .
 mangtoz.xyz CNAME .
 maxcdn.dmm-video.online CNAME .
 maxhold.xyz CNAME .
+maxx1.a.pleasedonotblockme.com CNAME .
 maxx1.pleasedonotblockme.com CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 menguzi.xyz CNAME .
+mentuab.xyz CNAME .
 menui.xyz CNAME .
 meoem.lol CNAME .
 messic.lol CNAME .
@@ -449,7 +451,6 @@ mrcoviu.pics CNAME .
 mrkaito.xyz CNAME .
 mx6.3pornhere.com CNAME .
 my.shymilftube.com CNAME .
-myads.babakcp0002.cf CNAME .
 mydomainbest.com CNAME .
 mylives.xyz CNAME .
 n.hnntube.com CNAME .
@@ -508,6 +509,7 @@ outya.xyz CNAME .
 ox8.topsexhdvideos.com CNAME .
 ozoj.com CNAME .
 p.hgfdtujlknhkghf.site CNAME .
+p.strjuylfrjyk.site CNAME .
 p123p.com CNAME .
 p1t.clipnuke.com CNAME .
 pakenta.xyz CNAME .
@@ -558,7 +560,6 @@ ramosz.lol CNAME .
 rdx.javmotion.com CNAME .
 redi.teengirl-pics.com CNAME .
 reklama.teenfuckhd.com CNAME .
-rosehome.lol CNAME .
 rrree.baijav.com CNAME .
 rs.picmega.com CNAME .
 rst.pornyhd.com CNAME .
@@ -572,6 +573,7 @@ s2.everydaygayporn.com CNAME .
 s4.sb89347.com CNAME .
 sameplace.lol CNAME .
 sanbox.mom CNAME .
+sape.ngumaz.com CNAME .
 satmon.neekstore.com CNAME .
 sbbb.spinna.xyz CNAME .
 sbm.stigmuuua.xyz CNAME .
@@ -588,7 +590,6 @@ sfw1d.dappab.site CNAME .
 sg.xclick24.com CNAME .
 sgzhg.pornlovo.co CNAME .
 sharkbiz.lol CNAME .
-shemale.team CNAME .
 shengcu.mom CNAME .
 shmeia.xyz CNAME .
 shukri.mwikace.com CNAME .
@@ -654,7 +655,6 @@ vtaos.lol CNAME .
 vtaos.xyz CNAME .
 vtaov.lol CNAME .
 vtaov.xyz CNAME .
-vuiaki.mom CNAME .
 vv.7vid.net CNAME .
 vz.7vid.net CNAME .
 w00t.us CNAME .
@@ -674,6 +674,7 @@ www.hq3x.com CNAME .
 www.javtvnow.xyz CNAME .
 www.letstry69.xyz CNAME .
 www.p123p.com CNAME .
+www.pleasedonotblockme.com CNAME .
 www.pornvideos.casa CNAME .
 www.spinna.site CNAME .
 www.spinna.store CNAME .
@@ -707,6 +708,7 @@ xzillla.icu CNAME .
 yhu5tw3mn64.jav-7mmtv.top CNAME .
 you75.youpornsexvideos.com CNAME .
 z0000g.yvmads.com CNAME .
+zhaner.xyz CNAME .
 zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 zzzzaaa.baijav.com CNAME .

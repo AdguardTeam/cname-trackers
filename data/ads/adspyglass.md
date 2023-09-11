@@ -5,10 +5,6 @@
 * 0i0i0i0.com
     * u50.0i0i0i0.com
 
-### Rarely active trackers
-
-* u53.hypnorat.com
-
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -90,10 +86,10 @@
 | a.kizzteen.com | 0i0i0i0.com |
 | a.letsjerk.org | 0i0i0i0.com |
 | a.letsjerk.tv | 0i0i0i0.com |
+| a.memosaqee.com | 0i0i0i0.com |
 | a.misctool.xyz | 0i0i0i0.com |
 | a.myprettyads.one | 0i0i0i0.com |
 | a.narutoon.com | 0i0i0i0.com |
-| a.naturalhealthsource.club | 0i0i0i0.com |
 | a.p123p.com | 0i0i0i0.com |
 | a.pandaporner.com | 0i0i0i0.com |
 | a.pinayviralsexx.com | 0i0i0i0.com |
@@ -102,7 +98,6 @@
 | a.pornhex.com | 0i0i0i0.com |
 | a.pumpity.net | 0i0i0i0.com |
 | a.rafian.com | 0i0i0i0.com |
-| a.redhairporn.com | 0i0i0i0.com |
 | a.reryn2ce.com | 0i0i0i0.com |
 | a.smut.cc | 0i0i0i0.com |
 | a.suptube.com | 0i0i0i0.com |
@@ -119,6 +114,7 @@
 | a9o.youlikeboys.com | 0i0i0i0.com |
 | aa.zerg.pro | 0i0i0i0.com |
 | aabtest.asg-media.com | 0i0i0i0.com |
+| ab.cumhot.org | 0i0i0i0.com |
 | abc.comick.top | 0i0i0i0.com |
 | abutok.xyz | 0i0i0i0.com |
 | ad.animeitaly.org | 0i0i0i0.com |
@@ -442,10 +438,12 @@
 | mangtoz.xyz | 0i0i0i0.com |
 | maxcdn.dmm-video.online | 0i0i0i0.com |
 | maxhold.xyz | 0i0i0i0.com |
+| maxx1.a.pleasedonotblockme.com | 0i0i0i0.com |
 | maxx1.pleasedonotblockme.com | 0i0i0i0.com |
 | mediacdn.x1hub.com | 0i0i0i0.com |
 | member.javtvnow.xyz | 0i0i0i0.com |
 | menguzi.xyz | 0i0i0i0.com |
+| mentuab.xyz | 0i0i0i0.com |
 | menui.xyz | 0i0i0i0.com |
 | meoem.lol | 0i0i0i0.com |
 | messic.lol | 0i0i0i0.com |
@@ -459,7 +457,6 @@
 | mrkaito.xyz | 0i0i0i0.com |
 | mx6.3pornhere.com | 0i0i0i0.com |
 | my.shymilftube.com | 0i0i0i0.com |
-| myads.babakcp0002.cf | 0i0i0i0.com |
 | mydomainbest.com | 0i0i0i0.com |
 | mylives.xyz | 0i0i0i0.com |
 | n.hnntube.com | 0i0i0i0.com |
@@ -518,6 +515,7 @@
 | ox8.topsexhdvideos.com | 0i0i0i0.com |
 | ozoj.com | 0i0i0i0.com |
 | p.hgfdtujlknhkghf.site | 0i0i0i0.com |
+| p.strjuylfrjyk.site | 0i0i0i0.com |
 | p123p.com | 0i0i0i0.com |
 | p1t.clipnuke.com | 0i0i0i0.com |
 | pakenta.xyz | 0i0i0i0.com |
@@ -567,7 +565,6 @@
 | rdx.javmotion.com | 0i0i0i0.com |
 | redi.teengirl-pics.com | 0i0i0i0.com |
 | reklama.teenfuckhd.com | 0i0i0i0.com |
-| rosehome.lol | 0i0i0i0.com |
 | rrree.baijav.com | 0i0i0i0.com |
 | rs.picmega.com | 0i0i0i0.com |
 | rst.pornyhd.com | 0i0i0i0.com |
@@ -581,6 +578,7 @@
 | s4.sb89347.com | 0i0i0i0.com |
 | sameplace.lol | 0i0i0i0.com |
 | sanbox.mom | 0i0i0i0.com |
+| sape.ngumaz.com | 0i0i0i0.com |
 | satmon.neekstore.com | 0i0i0i0.com |
 | sbbb.spinna.xyz | 0i0i0i0.com |
 | sbm.stigmuuua.xyz | 0i0i0i0.com |
@@ -597,7 +595,6 @@
 | sg.xclick24.com | 0i0i0i0.com |
 | sgzhg.pornlovo.co | 0i0i0i0.com |
 | sharkbiz.lol | 0i0i0i0.com |
-| shemale.team | 0i0i0i0.com |
 | shengcu.mom | 0i0i0i0.com |
 | shmeia.xyz | 0i0i0i0.com |
 | shukri.mwikace.com | 0i0i0i0.com |
@@ -663,7 +660,6 @@
 | vtaos.xyz | 0i0i0i0.com |
 | vtaov.lol | 0i0i0i0.com |
 | vtaov.xyz | 0i0i0i0.com |
-| vuiaki.mom | 0i0i0i0.com |
 | vv.7vid.net | 0i0i0i0.com |
 | vz.7vid.net | 0i0i0i0.com |
 | w00t.us | 0i0i0i0.com |
@@ -682,6 +678,7 @@
 | www.javtvnow.xyz | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
 | www.p123p.com | 0i0i0i0.com |
+| www.pleasedonotblockme.com | 0i0i0i0.com |
 | www.pornvideos.casa | 0i0i0i0.com |
 | www.spinna.site | 0i0i0i0.com |
 | www.spinna.store | 0i0i0i0.com |
@@ -715,6 +712,7 @@
 | yhu5tw3mn64.jav-7mmtv.top | 0i0i0i0.com |
 | you75.youpornsexvideos.com | 0i0i0i0.com |
 | z0000g.yvmads.com | 0i0i0i0.com |
+| zhaner.xyz | 0i0i0i0.com |
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
 | zzzzaaa.baijav.com | 0i0i0i0.com |
@@ -723,4 +721,3 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| h-ay.com | u53.hypnorat.com |

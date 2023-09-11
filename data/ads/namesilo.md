@@ -961,8 +961,7 @@
 | _sip._tcp.meet.3393147.notifysrv.com | tk6if76q.ab1n.net |
 | _sips._tcp.3323174.notifysrv.com | tk6if76q.ab1n.net |
 | engine.gettopple.com | tk6if76q.ab1n.net |
-| m.hue2a.com | tk6if76q.ab1n.net |
-| m.hue3a.com | tk6if76q.ab1n.net |
+| m.hue2m.com | tk6if76q.ab1n.net |
 | main.adxnow.com | tk6if76q.ab1n.net |
 | main.exdynsrv.com | tk6if76q.ab1n.net |
 | main.exoclick.com | tk6if76q.ab1n.net |
@@ -1093,6 +1092,7 @@
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
 | *.exaapi.com | x0xmrxm4.ab1n.net |
 | api.adnation.com | x0xmrxm4.ab1n.net |
+| api.getblaze.app | x0xmrxm4.ab1n.net |
 | api.slice.exchange | x0xmrxm4.ab1n.net |
 | management-addisplaynetwork.exads.com | x0xmrxm4.ab1n.net |
 | management-adguru.exads.com | x0xmrxm4.ab1n.net |

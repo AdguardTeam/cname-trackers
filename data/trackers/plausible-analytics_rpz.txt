@@ -142,7 +142,6 @@ numbers.triplejack.com CNAME .
 nums.upscale.app CNAME .
 p.aj-foster.com CNAME .
 p.classroombookings.com CNAME .
-p.e-bot7.com CNAME .
 p.ejs.dev CNAME .
 p.fairspot.host CNAME .
 p.ianmjones.com CNAME .
@@ -189,6 +188,7 @@ plan.devbyexample.com CNAME .
 plans.fundtherebuild.com CNAME .
 plas.imfeld.dev CNAME .
 plau.artemsyzonenko.com CNAME .
+plau.caisy.io CNAME .
 plau.devitjobs.nl CNAME .
 plau.devitjobs.uk CNAME .
 plau.devitjobs.us CNAME .
@@ -248,6 +248,7 @@ plausible.haltakov.net CNAME .
 plausible.help.exploreandcreate.com CNAME .
 plausible.holderbaum-academy.de CNAME .
 plausible.hopecanebay.com CNAME .
+plausible.ionicelements.dev CNAME .
 plausible.jeroenvandenboorn.nl CNAME .
 plausible.joinself.com CNAME .
 plausible.k6sbw.net CNAME .
@@ -535,7 +536,6 @@ stats.eightyfourrooms.com CNAME .
 stats.einsvieracht.de CNAME .
 stats.ekomenyong.com CNAME .
 stats.elementary.io CNAME .
-stats.elishaterada.com CNAME .
 stats.eliteclng.com CNAME .
 stats.elixir-lang.org CNAME .
 stats.elysenewland.com CNAME .
@@ -658,7 +658,6 @@ stats.jamesilesantiques.com CNAME .
 stats.jamhouse.app CNAME .
 stats.jansix.at CNAME .
 stats.jasonludden.dev CNAME .
-stats.jauer.it CNAME .
 stats.jawebb.se CNAME .
 stats.jdheyburn.co.uk CNAME .
 stats.jerickson.net CNAME .
@@ -873,7 +872,6 @@ stats.sendngnt.com CNAME .
 stats.servicedesignjobs.com CNAME .
 stats.seva.rocks CNAME .
 stats.sexplore.app CNAME .
-stats.sg-einheit.de CNAME .
 stats.shareup.app CNAME .
 stats.sheer.tj CNAME .
 stats.shepherd.com CNAME .

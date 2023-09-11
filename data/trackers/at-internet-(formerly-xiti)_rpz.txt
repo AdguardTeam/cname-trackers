@@ -65,7 +65,6 @@ kiki.rireetchansons.fr CNAME .
 kistacity.viessmann.se CNAME .
 lem.nouvelobs.com CNAME .
 logs1257.at.pagesjaunes.fr CNAME .
-mango.seloger.com CNAME .
 mediniku.viessmann.lt CNAME .
 mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
@@ -80,6 +79,7 @@ res.franc-tireur.fr CNAME .
 res.marianne.net CNAME .
 res.programme-television.org CNAME .
 res.public.fr CNAME .
+ressources.annoncesbateau.com CNAME .
 ressources.argusassurance.com CNAME .
 ressources.caradisiac.com CNAME .
 ressources.centraleauto.com CNAME .

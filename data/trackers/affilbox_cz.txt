@@ -167,6 +167,7 @@
 ||affiliate.ihrelinsen.at^
 ||affiliate.ilin.cz^
 ||affiliate.isetos.cz^
+||affiliate.ispace.cz^
 ||affiliate.jasnaznacka.cz^
 ||affiliate.jewstone.cz^
 ||affiliate.jidlojevasen.cz^
@@ -183,6 +184,7 @@
 ||affiliate.lentiamo.co.uk^
 ||affiliate.lentiamo.es^
 ||affiliate.lentiamo.fr^
+||affiliate.lentiamo.nl^
 ||affiliate.lentiamo.se^
 ||affiliate.levnoshop.cz^
 ||affiliate.levsalonu.cz^
@@ -344,6 +346,7 @@
 ||my.top4football.de^
 ||my.top4football.dk^
 ||my.top4football.fi^
+||my.top4football.fr^
 ||my.top4football.ie^
 ||my.top4football.it^
 ||my.top4football.nl^
@@ -444,6 +447,7 @@
 ||partner.cbdstar.cz^
 ||partner.cbdsuperhero.cz^
 ||partner.cebia.com^
+||partner.cebia.cz^
 ||partner.ceskeghicko.cz^
 ||partner.cestakesnu.cz^
 ||partner.chcivedet.com^
@@ -500,7 +504,6 @@
 ||partner.fermato.cz^
 ||partner.finstyle.cz^
 ||partner.firmin.cz^
-||partner.fitnessrevolucia.sk^
 ||partner.forexrebel.net^
 ||partner.generatorvodiku.cz^
 ||partner.giulieta.shop^
@@ -590,6 +593,7 @@
 ||partner.olivie.cz^
 ||partner.olivie.sk^
 ||partner.olivum.cz^
+||partner.onlinepriznani.cz^
 ||partner.onlinepriznanie.sk^
 ||partner.ozogan.cz^
 ||partner.parfemy-parfumeur.cz^
@@ -788,7 +792,6 @@
 ||partneri.trenink-vyjednavani.cz^
 ||partneri.trollbeads.cz^
 ||partneri.trollbeadscz.com^
-||partneri.tvojemamka.cz^
 ||partneri.umenijazyku.cz^
 ||partneri.variantbyznys.cz^
 ||partneri.vashop.cz^

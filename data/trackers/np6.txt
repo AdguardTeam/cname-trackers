@@ -46,6 +46,7 @@
 ||tr.asp0085.espmp-nifr.net^
 ||tr.asp008y.espmp-nifr.net^
 ||tr.asp009j.espmp-aufr.net^
+||tr.asp009k.espmp-cufr.net^
 ||tr.asp00a0.espmp-cufr.net^
 ||tr.asp00a1.espmp-agfr.net^
 ||tr.asp00a3.espmp-agfr.net^
@@ -804,6 +805,7 @@
 ||tr.newsletter.location.boulanger.com^
 ||tr.newsletter.meilleurmobile.com^
 ||tr.newsletter.milleis.fr^
+||tr.newsletter.mixr.net^
 ||tr.newsletter.monmedium.com^
 ||tr.newsletter.np6.com^
 ||tr.newsletter.np6.fr^

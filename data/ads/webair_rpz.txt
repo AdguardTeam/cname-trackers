@@ -478,6 +478,7 @@ rtb-apac.rtbdemand.com CNAME .
 rtb-apac.rtbplatform.net CNAME .
 rtb-apac.rtbserve.io CNAME .
 rtb-apac.wxadserve.xyz CNAME .
+rtb-apac.xrtb.io CNAME .
 rtb-as-uswest.pulsefintech.net CNAME .
 rtb-eu-v4.152media.cloud CNAME .
 rtb-eu-v4.adlive.io CNAME .
@@ -1134,7 +1135,6 @@ xml.rtbfactory.com CNAME .
 xml.rtbnext.com CNAME .
 xml.rtbzone.com CNAME .
 xml.rtxfeed.com CNAME .
-xml.rxfclk3.com CNAME .
 xml.saturndynamic.pt CNAME .
 xml.sedodna.com CNAME .
 xml.serverhost1.com CNAME .

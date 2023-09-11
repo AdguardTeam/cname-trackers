@@ -20,6 +20,7 @@ analytics.sunscaperesorts.com CNAME .
 analytics.triseptsolutions.com CNAME .
 analytics.vacations.united.com CNAME .
 analytics.vaxvacationaccess.com CNAME .
+analytics.vodafone.com.au CNAME .
 api.ext.evolution.protective.com CNAME .
 api.v1.threatmetrix.space.ge CNAME .
 api1.sfcu.org CNAME .
@@ -372,6 +373,7 @@ dii.bankaust.com.au CNAME .
 directinfo.ib.mizuhobank.co.jp CNAME .
 dol-reemployme-js01.maine.gov CNAME .
 donor.cafamerica.org CNAME .
+dp.barclaycardus.com CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
 dt.payla.io CNAME .
@@ -537,6 +539,7 @@ payment.rewards.sony.com CNAME .
 payments-de.lidlplus.com CNAME .
 payments.direct.playstation.com CNAME .
 payments.hd-plus.de CNAME .
+payrisk-tmx.didiglobal.com CNAME .
 pf.intuit.com CNAME .
 pfp.intuit.com CNAME .
 phyon.communipay.net CNAME .
@@ -753,6 +756,7 @@ t42rsn90.uplift.com CNAME .
 tag-unclaimed.oregon.gov CNAME .
 tag.claimitar.com CNAME .
 tag.findmassmoney.com CNAME .
+tag.findmassmoney.gov CNAME .
 tag.findyourunclaimedproperty.com CNAME .
 tag.icash.illinoistreasurer.gov CNAME .
 tag.maineunclaimedproperty.gov CNAME .
@@ -800,6 +804,7 @@ telem.highlow.com CNAME .
 telem.highlow.net CNAME .
 tfp.intuit.com CNAME .
 th.barclays.co.uk CNAME .
+thm.v.me CNAME .
 thm.visa.com CNAME .
 thm12.visa.com CNAME .
 thmep.zondaglobal.com CNAME .
@@ -878,6 +883,7 @@ tmx.kijiji.ca CNAME .
 tmx.monzo.co.uk CNAME .
 tmx.pampersrewards.com CNAME .
 tmx.pat.td.com CNAME .
+tmx.prod.efsllc.com CNAME .
 tmx.rnd.gemaltodigitalbankingidcloud.com CNAME .
 tmx.tchek.com CNAME .
 tmx.td.com CNAME .

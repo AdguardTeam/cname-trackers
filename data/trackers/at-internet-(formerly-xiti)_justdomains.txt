@@ -65,7 +65,6 @@ kiki.rireetchansons.fr
 kistacity.viessmann.se
 lem.nouvelobs.com
 logs1257.at.pagesjaunes.fr
-mango.seloger.com
 mediniku.viessmann.lt
 mefo1.zdf.de
 mkt.usz.ch
@@ -80,6 +79,7 @@ res.franc-tireur.fr
 res.marianne.net
 res.programme-television.org
 res.public.fr
+ressources.annoncesbateau.com
 ressources.argusassurance.com
 ressources.caradisiac.com
 ressources.centraleauto.com

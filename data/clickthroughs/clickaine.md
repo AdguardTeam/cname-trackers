@@ -44,6 +44,8 @@
 | ca.infomix.best | api.clickaine.com |
 | cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
 | cc.opowiadaniaerotyczne-darmowo.com | api.clickaine.com |
+| cc.porno-rasskazy-ero.com | api.clickaine.com |
+| cc.porno-rasskazy-sex.com | api.clickaine.com |
 | cc.pornorasskazy-xxx.com | api.clickaine.com |
 | cc.raccontierotici-club.com | api.clickaine.com |
 | cc.relatoseroticos-gratis.com | api.clickaine.com |
@@ -58,6 +60,7 @@
 | cdn1.memojav.com | api.clickaine.com |
 | cdn2.picyield.com | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |
+| cl.sexstories-all.com | api.clickaine.com |
 | cli.its2.net | api.clickaine.com |
 | clickc4n.pornharlot.com | api.clickaine.com |
 | clickc4n.pornharlot.net | api.clickaine.com |
@@ -101,6 +104,7 @@
 | s5.rtnews.pro | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
+| wafe.camcaps.sx | api.clickaine.com |
 | www.bokep.su | api.clickaine.com |
 | www.faq.brandnewapp.pro | api.clickaine.com |
 | www.rtnews.pro | api.clickaine.com |

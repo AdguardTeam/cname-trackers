@@ -63,6 +63,7 @@ tk.atol.fr CNAME .
 tk.balenciaga.com CNAME .
 tk.biovea.com CNAME .
 tk.bricoprive.com CNAME .
+tk.cadeaux.com CNAME .
 tk.conforama.fr CNAME .
 tk.dietbon.fr CNAME .
 tk.domitys.fr CNAME .
@@ -82,6 +83,9 @@ tk.hypnia.es CNAME .
 tk.hypnia.fr CNAME .
 tk.hypnia.nl CNAME .
 tk.illicado.com CNAME .
+tk.interflora.es CNAME .
+tk.interflora.fr CNAME .
+tk.interflora.it CNAME .
 tk.jeux.loro.ch CNAME .
 tk.kidsaround.com CNAME .
 tk.kitchendiet.fr CNAME .

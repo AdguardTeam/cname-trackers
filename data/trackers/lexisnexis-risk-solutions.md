@@ -65,6 +65,7 @@
     * h-6y7fu8j2.online-metrix.net
     * h-6y7oe1nl.online-metrix.net
     * h-72wrr4p1.online-metrix.net
+    * h-748xxcci.online-metrix.net
     * h-7bugohi5.online-metrix.net
     * h-7hs48cp7.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
@@ -202,6 +203,7 @@
     * h-ce5udwb7.online-metrix.net
     * h-certifid.online-metrix.net
     * h-ceurt9zj.online-metrix.net
+    * h-cfi32dc4.online-metrix.net
     * h-cgfjrfto.online-metrix.net
     * h-cgvf1sqx.online-metrix.net
     * h-charter.online-metrix.net
@@ -407,6 +409,7 @@
     * h-kelmar-il.online-metrix.net
     * h-kelmar-ks.online-metrix.net
     * h-kelmar-ma.online-metrix.net
+    * h-kelmar-magov.online-metrix.net
     * h-kelmar-me.online-metrix.net
     * h-kelmar-nd.online-metrix.net
     * h-kelmar-nj.online-metrix.net
@@ -779,6 +782,7 @@
 | wildcard.humm.ie | h-6y7fu8j2.online-metrix.net |
 | content.pledg.co | h-6y7oe1nl.online-metrix.net |
 | rba.infinitium.com | h-72wrr4p1.online-metrix.net |
+| analytics.vodafone.com.au | h-748xxcci.online-metrix.net |
 | r.hokodo.co | h-7bugohi5.online-metrix.net |
 | ex.exnessstats.com | h-7hs48cp7.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
@@ -963,6 +967,7 @@
 | cdnm.sts.pl | h-ce5udwb7.online-metrix.net |
 | content.certifid.com | h-certifid.online-metrix.net |
 | device.invoice2go.com | h-ceurt9zj.online-metrix.net |
+| dp.barclaycardus.com | h-cfi32dc4.online-metrix.net |
 | content.nebraska.gov | h-cgfjrfto.online-metrix.net |
 | content2.paywerk.co | h-cgvf1sqx.online-metrix.net |
 | pov.spectrum.net | h-charter.online-metrix.net |
@@ -1250,6 +1255,7 @@
 | tag.icash.illinoistreasurer.gov | h-kelmar-il.online-metrix.net |
 | tag.unclaimedproperty.ks.gov | h-kelmar-ks.online-metrix.net |
 | tag.findmassmoney.com | h-kelmar-ma.online-metrix.net |
+| tag.findmassmoney.gov | h-kelmar-magov.online-metrix.net |
 | tag.maineunclaimedproperty.gov | h-kelmar-me.online-metrix.net |
 | tag.unclaimedproperty.nd.gov | h-kelmar-nd.online-metrix.net |
 | tag.unclaimedfunds.nj.gov | h-kelmar-nj.online-metrix.net |
@@ -1547,6 +1553,7 @@
 | cdn-s.dev.globalpoker.com | h-virtualgaming.online-metrix.net |
 | cdn-s.globalpoker.com | h-virtualgaming.online-metrix.net |
 | thm12.visa.com | h-visa12.online-metrix.net |
+| thm.v.me | h-visa2.online-metrix.net |
 | thm.visa.com | h-visa2.online-metrix.net |
 | fp.aion.be | h-vodeno.online-metrix.net |
 | voto.provident.pl | h-voto-provident.online-metrix.net |
@@ -1577,6 +1584,7 @@
 | images.sunocofleetcards.com | h-wrightexpress.online-metrix.net |
 | images.wexinc.com | h-wrightexpress.online-metrix.net |
 | tmx.efsllc.com | h-wrightexpress.online-metrix.net |
+| tmx.prod.efsllc.com | h-wrightexpress.online-metrix.net |
 | tmx.tchek.com | h-wrightexpress.online-metrix.net |
 | tooling.ynap.biz | h-ynap.biz.online-metrix.net |
 | cnt2.bank.za.group | h-zhongantechnologies.online-metrix.net |
@@ -1601,6 +1609,7 @@
 | h.greenmangaming.com | h.online-metrix.net |
 | metrix.motosport.com | h.online-metrix.net |
 | ons.tickets.com | h.online-metrix.net |
+| payrisk-tmx.didiglobal.com | h.online-metrix.net |
 | portal-fp-qa1.qa.threatmetrix.com | qa1-h.online-metrix.net |
 | invalid-qa2.threatmetrix.com | qa2-h.online-metrix.net |
 | portal-fp-qa2.qa.threatmetrix.com | qa2-h.online-metrix.net |

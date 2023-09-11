@@ -232,7 +232,6 @@
     * c266cf71-oq0xkpcx.cname.ebis.ne.jp
     * c2a13fce-ykuxwr2b.cname.ebis.ne.jp
     * c35cf548-urr.cname.ebis.ne.jp
-    * c38934c6-rrynabhe.cname.ebis.ne.jp
     * c398a8b1-yfrcguru.cname.ebis.ne.jp
     * c3ef335b-in8gz9ss.cname.ebis.ne.jp
     * c7424645-h0sqxtcz.cname.ebis.ne.jp
@@ -531,7 +530,6 @@
 | adebis.angfa-store.jp | c266cf71-oq0xkpcx.cname.ebis.ne.jp |
 | ebis.forcas.com | c2a13fce-ykuxwr2b.cname.ebis.ne.jp |
 | ebiscname.urr.jp | c35cf548-urr.cname.ebis.ne.jp |
-| adebis.litalico.co.jp | c38934c6-rrynabhe.cname.ebis.ne.jp |
 | ebis.jinzai-business.com | c398a8b1-yfrcguru.cname.ebis.ne.jp |
 | analyse.hinemos.info | c3ef335b-in8gz9ss.cname.ebis.ne.jp |
 | adtrack.loracle.jp | c7424645-h0sqxtcz.cname.ebis.ne.jp |

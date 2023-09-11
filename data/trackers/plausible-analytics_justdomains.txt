@@ -142,7 +142,6 @@ numbers.triplejack.com
 nums.upscale.app
 p.aj-foster.com
 p.classroombookings.com
-p.e-bot7.com
 p.ejs.dev
 p.fairspot.host
 p.ianmjones.com
@@ -189,6 +188,7 @@ plan.devbyexample.com
 plans.fundtherebuild.com
 plas.imfeld.dev
 plau.artemsyzonenko.com
+plau.caisy.io
 plau.devitjobs.nl
 plau.devitjobs.uk
 plau.devitjobs.us
@@ -248,6 +248,7 @@ plausible.haltakov.net
 plausible.help.exploreandcreate.com
 plausible.holderbaum-academy.de
 plausible.hopecanebay.com
+plausible.ionicelements.dev
 plausible.jeroenvandenboorn.nl
 plausible.joinself.com
 plausible.k6sbw.net
@@ -535,7 +536,6 @@ stats.eightyfourrooms.com
 stats.einsvieracht.de
 stats.ekomenyong.com
 stats.elementary.io
-stats.elishaterada.com
 stats.eliteclng.com
 stats.elixir-lang.org
 stats.elysenewland.com
@@ -658,7 +658,6 @@ stats.jamesilesantiques.com
 stats.jamhouse.app
 stats.jansix.at
 stats.jasonludden.dev
-stats.jauer.it
 stats.jawebb.se
 stats.jdheyburn.co.uk
 stats.jerickson.net
@@ -873,7 +872,6 @@ stats.sendngnt.com
 stats.servicedesignjobs.com
 stats.seva.rocks
 stats.sexplore.app
-stats.sg-einheit.de
 stats.shareup.app
 stats.sheer.tj
 stats.shepherd.com

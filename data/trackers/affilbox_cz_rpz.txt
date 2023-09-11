@@ -167,6 +167,7 @@ affiliate.horseandme.eu CNAME .
 affiliate.ihrelinsen.at CNAME .
 affiliate.ilin.cz CNAME .
 affiliate.isetos.cz CNAME .
+affiliate.ispace.cz CNAME .
 affiliate.jasnaznacka.cz CNAME .
 affiliate.jewstone.cz CNAME .
 affiliate.jidlojevasen.cz CNAME .
@@ -183,6 +184,7 @@ affiliate.lentiamo.ch CNAME .
 affiliate.lentiamo.co.uk CNAME .
 affiliate.lentiamo.es CNAME .
 affiliate.lentiamo.fr CNAME .
+affiliate.lentiamo.nl CNAME .
 affiliate.lentiamo.se CNAME .
 affiliate.levnoshop.cz CNAME .
 affiliate.levsalonu.cz CNAME .
@@ -344,6 +346,7 @@ my.top4football.cz CNAME .
 my.top4football.de CNAME .
 my.top4football.dk CNAME .
 my.top4football.fi CNAME .
+my.top4football.fr CNAME .
 my.top4football.ie CNAME .
 my.top4football.it CNAME .
 my.top4football.nl CNAME .
@@ -444,6 +447,7 @@ partner.cbdcko.cz CNAME .
 partner.cbdstar.cz CNAME .
 partner.cbdsuperhero.cz CNAME .
 partner.cebia.com CNAME .
+partner.cebia.cz CNAME .
 partner.ceskeghicko.cz CNAME .
 partner.cestakesnu.cz CNAME .
 partner.chcivedet.com CNAME .
@@ -500,7 +504,6 @@ partner.expresmenu.sk CNAME .
 partner.fermato.cz CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
-partner.fitnessrevolucia.sk CNAME .
 partner.forexrebel.net CNAME .
 partner.generatorvodiku.cz CNAME .
 partner.giulieta.shop CNAME .
@@ -590,6 +593,7 @@ partner.ocuway.cz CNAME .
 partner.olivie.cz CNAME .
 partner.olivie.sk CNAME .
 partner.olivum.cz CNAME .
+partner.onlinepriznani.cz CNAME .
 partner.onlinepriznanie.sk CNAME .
 partner.ozogan.cz CNAME .
 partner.parfemy-parfumeur.cz CNAME .
@@ -788,7 +792,6 @@ partneri.tradicne-feng-shui.sk CNAME .
 partneri.trenink-vyjednavani.cz CNAME .
 partneri.trollbeads.cz CNAME .
 partneri.trollbeadscz.com CNAME .
-partneri.tvojemamka.cz CNAME .
 partneri.umenijazyku.cz CNAME .
 partneri.variantbyznys.cz CNAME .
 partneri.vashop.cz CNAME .

@@ -937,11 +937,11 @@ admin.etology.com CNAME .
 admin.gettopple.com CNAME .
 admin.shafttraffic.com CNAME .
 api.adnation.com CNAME .
+api.getblaze.app CNAME .
 api.slice.exchange CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
-m.hue2a.com CNAME .
-m.hue3a.com CNAME .
+m.hue2m.com CNAME .
 main.adxnow.com CNAME .
 main.exdynsrv.com CNAME .
 main.exoclick.com CNAME .

@@ -678,7 +678,6 @@
     * rocoads.xml-eu.ak-is2.net
     * rocoads.xml-v4.ak-is2.net
     * rocoads.xml.ak-is2.net
-    * roxyfoxy.xml.ak-is2.net
     * rtb-vokut.rtb-eu.ak-is2.net
     * rtb-vokut.rtb-useast.ak-is2.net
     * rtb-vokut.rtb-uswest.ak-is2.net
@@ -2033,7 +2032,6 @@
 | xml-eu.rocoads.com | rocoads.xml-eu.ak-is2.net |
 | xml-v4.rocoads.com | rocoads.xml-v4.ak-is2.net |
 | xml.rocoads.com | rocoads.xml.ak-is2.net |
-| xml.rxfclk3.com | roxyfoxy.xml.ak-is2.net |
 | rtb-eu.rtb.vokut.com | rtb-vokut.rtb-eu.ak-is2.net |
 | rtb-useast.adokutrtb.com | rtb-vokut.rtb-useast.ak-is2.net |
 | rtb-uswest.adokutrtb.com | rtb-vokut.rtb-uswest.ak-is2.net |
@@ -2235,6 +2233,7 @@
 | xml-default.xapads.com | xapads.fs.ak-is2.net |
 | rtb-apac.openrtb.in | xapads.rtb-apac.ak-is2.net |
 | rtb-apac.rtbserve.io | xapads.rtb-apac.ak-is2.net |
+| rtb-apac.xrtb.io | xapads.rtb-apac.ak-is2.net |
 | vid-rtb-sg.xapads.com | xapads.rtb-apac.ak-is2.net |
 | rtb-eu.openrtb.in | xapads.rtb-eu.ak-is2.net |
 | rtb-eu.rtbserve.io | xapads.rtb-eu.ak-is2.net |

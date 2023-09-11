@@ -20,6 +20,7 @@
 ||analytics.triseptsolutions.com^
 ||analytics.vacations.united.com^
 ||analytics.vaxvacationaccess.com^
+||analytics.vodafone.com.au^
 ||api.ext.evolution.protective.com^
 ||api.v1.threatmetrix.space.ge^
 ||api1.sfcu.org^
@@ -372,6 +373,7 @@
 ||directinfo.ib.mizuhobank.co.jp^
 ||dol-reemployme-js01.maine.gov^
 ||donor.cafamerica.org^
+||dp.barclaycardus.com^
 ||dpf.authorize.net^
 ||drfdisvc.walmart.com^
 ||dt.payla.io^
@@ -537,6 +539,7 @@
 ||payments-de.lidlplus.com^
 ||payments.direct.playstation.com^
 ||payments.hd-plus.de^
+||payrisk-tmx.didiglobal.com^
 ||pf.intuit.com^
 ||pfp.intuit.com^
 ||phyon.communipay.net^
@@ -753,6 +756,7 @@
 ||tag-unclaimed.oregon.gov^
 ||tag.claimitar.com^
 ||tag.findmassmoney.com^
+||tag.findmassmoney.gov^
 ||tag.findyourunclaimedproperty.com^
 ||tag.icash.illinoistreasurer.gov^
 ||tag.maineunclaimedproperty.gov^
@@ -800,6 +804,7 @@
 ||telem.highlow.net^
 ||tfp.intuit.com^
 ||th.barclays.co.uk^
+||thm.v.me^
 ||thm.visa.com^
 ||thm12.visa.com^
 ||thmep.zondaglobal.com^
@@ -878,6 +883,7 @@
 ||tmx.monzo.co.uk^
 ||tmx.pampersrewards.com^
 ||tmx.pat.td.com^
+||tmx.prod.efsllc.com^
 ||tmx.rnd.gemaltodigitalbankingidcloud.com^
 ||tmx.tchek.com^
 ||tmx.td.com^

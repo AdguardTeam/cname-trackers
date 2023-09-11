@@ -50,6 +50,7 @@
 ||tp.frankonia.com^
 ||tp.frankonia.de^
 ||tp.frankoniamoda.ch^
+||tp.heine-shop.nl^
 ||tp.heine.at^
 ||tp.heine.ch^
 ||tp.heine.de^

@@ -1,6 +1,6 @@
 # Title: AdGuard CNAME disguised microsites list
 # Description: The list of unique microsites domains that disguise the real trackers by using CNAME records.
-# TimeUpdated: 2023-09-04T08:00:21+00:00
+# TimeUpdated: 2023-09-11T08:00:18+00:00
 # Homepage: https://github.com/AdguardTeam/cname-trackers
 #
 00c0a62f0c.de65e1286b.com
@@ -17,7 +17,6 @@
 084cc7e11c.abc35a1d01.com
 088d98f687.7a3b147921.com
 0a6dd928ef.4e16adfea5.com
-0b05878fdd.fddf7d58ea.com
 0b07b901e2.42de2de7b1.com
 0b615d2390.53570bbe42.com
 0b8d3535ca.d675b32d34.com
@@ -50,7 +49,6 @@
 1ed960d6ad.fa479896c7.com
 1stparty.equifax.co.uk
 201efd9d67.c3af119d07.com
-20cbc85129.fc455e7809.com
 20ddfbe344.7179c5492e.com
 213d2867ca.22ddebb169.com
 22aa4458dc.c42f556ff8.com
@@ -85,7 +83,9 @@
 3788041701.99018f340b.com
 37a37e5db9.1fb99d15c4.com
 38a29cb310.eea605742d.com
+3a5807e727.9d2852b15a.com
 3a73fe20ac.d1da55a0b9.com
+3ab4c791d1.fef32df9aa.com
 3b712d30b3.09e852b0f3.com
 3bc96c3bc4.4f2ee73540.com
 3cb0d2bef3.be8df00f33.com
@@ -93,7 +93,6 @@
 3cfaca7d15.904ab4b24c.com
 3e0bef2039.6e5181a4e4.com
 3f38af9a78.290103cae6.com
-3fb830355c.9be814e81e.com
 3ff30ad38a.9714ddef1d.com
 40cdf9d2a9.9fee754633.com
 41a90d0edd.0f0b46245d.com
@@ -115,7 +114,6 @@
 4c2742c64a.6ffd0d44d9.com
 4d45d9361e.2b86aacf73.com
 4e06399fc4.1fa7752ccb.com
-4e6b62c568.4b31707500.com
 4e838acbab.d3f3abd25c.com
 4ee283d2af.9f8695e9a4.com
 4f7909aec6.cc19ba8a6c.com
@@ -156,6 +154,7 @@
 66d7c2e32f.843acfbeb0.com
 67116813c6.89504d460b.com
 6788b5f0a5.07ab456fe8.com
+68c2f33440.691c37268a.com
 696a867e8a.e048fe379c.com
 6aca58cba6.106cdb2259.com
 6b4f801684.22ecbd33ca.com
@@ -217,6 +216,7 @@
 951dff5c64.8507feaa71.com
 95797ef4d7.413dfe9f11.com
 95bb3314e7.66efeb9730.com
+9625e76603.9168bb21b4.com
 96b76b02f1.49af7cee19.com
 96d4f49a24.035adbe0d7.com
 9757fdc45b.92b501c719.com
@@ -252,13 +252,10 @@ a235.myplainview.com
 a235.nhregister.com
 a235.ourmidland.com
 a235.registercitizen.com
-a235.seattlepi.com
 a235.sfgate.com
 a235.stamfordadvocate.com
 a235.thehour.com
-a235.thetelegraph.com
 a235.timesunion.com
-a2ee316f2b.9c56fb6868.com
 a2f288701d.a4334cc1ec.com
 a390770006.41291ba668.com
 a614.al.com
@@ -279,6 +276,7 @@ abo.schibsted.no
 ac8b9eaf81.db2f8e1acc.com
 access.acspubs.org
 access.sunpower.com
+accountancy.bppeloqua.com
 acq-au.americanexpress.com
 acq-hk.americanexpress.com
 acq-jp.americanexpress.com
@@ -312,7 +310,6 @@ ae-go.experian.com
 ae24dd5f87.e9c576b358.com
 af158e4bd8.7b39be508c.com
 af4b7a0c7f.45136f1b12.com
-aff9df76e7.5c8877b0af.com
 afhleads.keurig.ca
 africa.edm.globalsources.com
 agentcomm.mercuryinsurance.com
@@ -527,6 +524,7 @@ app.inform.equifax.com
 app.information.cognos.com
 app.information.maileva.com
 app.innovate.molex.com
+app.insider.cavs.net
 app.insight.cision.com
 app.insight.dnb.com
 app.insight.thompson.com
@@ -546,6 +544,7 @@ app.libertyfirstcreditunionarena.com
 app.m1.adsolutions.yp.com
 app.machspeed.bluecoat.com
 app.mail.mfg.macquarie.com
+app.mail.skillsoft.com
 app.mailings.erepublic.com
 app.mailserver.parker.com
 app.marketing.pro.sony.eu
@@ -571,6 +570,7 @@ app.now.bomgar.com
 app.now.nowtv.com
 app.nuhuskies.com
 app.nusports.com
+app.ohiobobcats.com
 app.okcciviccenter.com
 app.okstate.com
 app.online.microfocus.com
@@ -661,6 +661,7 @@ app.update.lenovo.com
 app.update.vodafone.co.uk
 app.updates.digicert.com
 app.usctrojans.com
+app.utrockets.com
 app.virginiasports.com
 app.vucommodores.com
 app.whartoncenter.com
@@ -714,6 +715,7 @@ ast-en.adp.ca
 ast-fr.adp.ca
 at-go.experian.com
 atencion.banrural.com.gt
+athl.lsusports.net
 au-go.experian.com
 au-partners.ingrammicro.com
 au.interface.com
@@ -770,6 +772,7 @@ bca.aviationweek.com
 bcdb664dff.0d356de9ef.com
 bd2bc05960.47daeb1eac.com
 bdecfb7de6.e2ff92bcf8.com
+bdedbcaefd.09482aec5d.com
 be-go.experian.com
 be.secure.sonosite.com
 be14c45da0.3301886f9e.com
@@ -805,6 +808,7 @@ brand.adp.ca
 breakthrough.kronos.com
 btaconnect.americanexpress.it
 btaenrolment.americanexpress.at
+btaenrolment.americanexpress.co.uk
 bu.adpinfo.com
 business-cards.americanexpress.com
 business-pages.edfenergy.com
@@ -1001,6 +1005,7 @@ community.fusesource.com
 compliance.coniferhealth.com
 computers.panasonic.eu
 comtelitalia.alcatel-lucent.com
+comunicacao.edpcomunicacao.com.br
 comunicacion.usj.es
 comunicaciones.davivienda.com.pa
 comunicaciones.daviviendacorredores.com
@@ -1317,6 +1322,7 @@ downloads.mcgladrey.com
 downpayment.fernsby.com
 drive.seagate.com
 drugtest.questdiagnostics.com
+dsdordering.kdrp.com
 dtestpromo.fiat.it
 dx.thermo.com
 dx.thermofisher.com
@@ -1372,6 +1378,8 @@ eef476f02d.b2261a9931.com
 ef7b81b71c.75416fa555.com
 efficiency.nl.visma.com
 efficiency.visma.com
+efficiency.visma.dk
+efficiency.visma.lv
 efficiency.visma.se
 ehtel.endress.com
 electronics.edm.globalsources.com
@@ -1486,7 +1494,6 @@ elqtracking.pensionbuddy.co.uk
 elqtracking.revenera.com
 elqtracking.richardsonrfpd.com
 elqtracking.strayer.edu
-elqtracking.victorops.com
 elqtrck.motor.no
 elqtrck.nanawall.com
 elqtrk.cn.morningstar.com
@@ -1541,6 +1548,7 @@ email-am.jll.ch
 email-am.jll.cl
 email-am.jll.co.th
 email-am.jll.co.uk
+email-am.jll.co.za
 email-am.jll.com.ar
 email-am.jll.com.au
 email-am.jll.com.br
@@ -1551,6 +1559,7 @@ email-am.jll.hu
 email-am.jll.pe
 email-am.jll.sk
 email-am.us.jll.com
+email-ap.jll-mena.com
 email-ap.jll.ca
 email-ap.jll.co.id
 email-ap.jll.co.in
@@ -1778,6 +1787,7 @@ eventos.lp.deloittecomunicacao.com.br
 eventos.ubmmexico.com
 eventos.usj.es
 events.avaya.com
+events.axa-im.com
 events.bendigotafe.edu.au
 events.blackboard.com
 events.boozallen.com
@@ -1804,6 +1814,7 @@ events.ricoh.ch
 events.ricoh.ie
 events.tafensw.edu.au
 events.verticurl.com
+exhibit.coteriefashionevents.com
 exhibit.firex.co.uk
 exhibit.kbb.co.uk
 exhibit.magicfashionevents.com
@@ -1830,7 +1841,6 @@ f05f18119a.635a022421.com
 f102547b70.5f6d8a5f78.com
 f1763f2f87.f4f8fb91df.com
 f1ab40b1ac.91a3c37128.com
-f1c61224ea.edbc0469bd.com
 f33772ce13.749cad1027.com
 f43bb3465e.10eafd09d6.com
 f9630bc2e3.6afd255116.com
@@ -1858,6 +1868,8 @@ feedback.nslsc-csnpe.ca
 feedback.vegasgoldenknights.com
 ferias.usj.es
 ff04a1538a.ced4d66e2d.com
+ff18e0b495.eeecc0e343.com
+ff6840b5f0.338d2db673.com
 files.info.posteitaliane.it
 findthetruth.allergyai.com
 fire.solutions.jci.com
@@ -1887,6 +1899,7 @@ forms.direxionfunds.com
 forms.egi.co.uk
 forms.embarcadero.com
 forms.enterprisenews.telstra.com
+forms.erepublic.com
 forms.executiveboard.com
 forms.fitchratings.com
 forms.flightglobal.com
@@ -2092,6 +2105,7 @@ go.wacom.com
 go.west.com
 go.yescomusa.com
 go.zendesk.com
+go2.kofax.com
 go2.mathworks.com
 go5.global.toshiba
 gocertiport.pearsonvue.com
@@ -2213,6 +2227,7 @@ images.connect.o2.co.uk
 images.connect.omron.eu
 images.connect.proact.eu
 images.connect.veritivcorp.com
+images.connect2.bt.com
 images.connect2.cebglobal.com
 images.connect2.globalservices.bt.com
 images.contact.princess.com
@@ -2520,6 +2535,7 @@ images.reldirect.lenovo.com
 images.resources.cetera.com
 images.respond.macktrucks.com
 images.respond.overheaddoor.com
+images.respons.aftenposten.no
 images.respons.schibsted.no
 images.response.aberdeenstandard.com
 images.response.amaliearena.com
@@ -2580,6 +2596,7 @@ images.voyage.apl.com
 images.web.pirelli.com
 images.web.roberthalf.com
 images.workforce.equifax.com
+images.ws.tdc.dk
 images2.verizonconnect.com
 imagine.ricoh.nl
 imeetcentral.pgi.com
@@ -2635,6 +2652,7 @@ info.compucom.com
 info.credicomer.com.sv
 info.cybersource.com
 info.dailyfx.com
+info.deutscher-ausbildungsleiterkongress.de
 info.dfinsolutions.com
 info.dksh.com
 info.dowjones.com
@@ -2682,6 +2700,8 @@ info.marketingcube.com.au
 info.markmonitor.com
 info.mdsol.com
 info.medtronicdiabetes.com
+info.metronet.com
+info.metronetbusiness.com
 info.metronetinc.com
 info.mouser.com
 info.multiburo.com
@@ -2690,7 +2710,6 @@ info.netgear.de
 info.nhlseattle.com
 info.northwestms.edu
 info.o2business.de
-info.onemedical.com
 info.pbs.org
 info.perkinelmer.com
 info.perkinelmer.com.cn
@@ -2704,6 +2723,7 @@ info.reutersagency.com
 info.revvity.com
 info.rewe-group.at
 info.riskproducts.pwc.com
+info.sanantoniofc.com
 info.saverglass.com
 info.scene7.com
 info.scorecardrewards.com
@@ -2775,6 +2795,7 @@ iot-business.vodafone.com
 iot-mktg.vodafone.com
 iot.informaengage.com
 irmsolutions.choicepoint.com
+isac.thermofisher.com
 isbworld.aon.com
 it-business.vodafone.com
 it-go.experian.com
@@ -2788,6 +2809,7 @@ jessica-test-numero-dos.extoleu.com
 joc.marketing.atafreight.com
 join.coteriefashionevents.com
 join.decorex.com
+join.figlobal.com
 join.kbb.co.uk
 join.magicfashionevents.com
 join.myfashionevents.com
@@ -2830,6 +2852,7 @@ landing.wolterskluwer.hu
 landingpages.csustudycentres.edu.au
 landingpages.siemens-healthineers.com
 landings.omegacrmconsulting.com
+lantern.connect.o2.co.uk
 lantern.fortinet.com
 lantern7.wealth.mandg.com
 lantern8.wealth.mandg.com
@@ -2896,6 +2919,7 @@ live.polycom.com
 live.techit.co.il
 lld.fordlease.fr
 log.cognex.com
+logistics.coyote.com
 logistics.dbschenker.com
 love.columbiacu.org
 love.suncoastcreditunion.com
@@ -2962,6 +2986,7 @@ mail.dolce-gusto.co.uk
 mail.dolce-gusto.co.za
 mail.dolce-gusto.com.ar
 mail.dolce-gusto.com.au
+mail.dolce-gusto.com.my
 mail.dolce-gusto.com.sg
 mail.dolce-gusto.com.tw
 mail.dolce-gusto.cz
@@ -3006,6 +3031,7 @@ marketing.global360.com
 marketing.golubcapital.com
 marketing.hilton.com
 marketing.ianywhere.com
+marketing.igopost.no
 marketing.igopost.se
 marketing.income.com.sg
 marketing.issmarketintelligence.com
@@ -3106,6 +3132,7 @@ namrinfo.motorolasolutions.com
 nationalaccounts.adp.com
 nativomobileapps.share.ntv.io
 nbg.seagate.com
+nd.nasdaqtech.nasdaq.com
 ndi.nuance.com
 networkingexchange.att.com
 networkprotection.mcafee.com
@@ -3126,6 +3153,7 @@ news.reedexpo.fr
 news.salon-aps.com
 news.sitl.eu
 news.supplychain-event.com
+news.wellsfargocapitalfinance.com
 news2.secureforms.mcafee.com
 newsflash.elliemae.com
 newsletter.standardandpoors.com
@@ -3172,6 +3200,7 @@ onecloud.avaya.com
 online-mt-com-455208869.p06.elqsandbox.com
 online.cphi.cn
 online.eaglepi.com
+online.expolifestyle.com
 online.hausinvest.de
 online.jtiadvance.co.uk
 online.rwdls.com
@@ -3269,6 +3298,7 @@ platformsolutions.shutterstock.com
 playbook.convio.com
 plbusiness.samsung.com
 pm.eu.viatrisconnect.com
+pm.eu.viatrisconnect.de
 pm.eu.viatrisconnect.it
 podbooth.martela.com
 podbooth.martela.se
@@ -3326,6 +3356,7 @@ profiling.plannja.com
 profiling.ruukki.com
 programmes-skema.skema-bs.fr
 programmes-skema.skema.edu
+programs.ironmountain.com
 programs.mellanox.com
 promo.alfaromeo.it
 promo.batesville.com
@@ -3359,6 +3390,7 @@ rc.precisely.com
 rc.visionsolutions.com
 reach.ironmountain.com
 reach.terumo-bct.com
+read.telecoms.com
 ready.nerdery.com
 realeducation.kangan.edu.au
 realsolutions.americanexpress.it
@@ -3629,6 +3661,7 @@ refer.seabourn.com
 refer.sharetodoist.com
 refer.sharkclean.com
 refer.shoesforcrews.com
+refer.shuuemuraartofhair-usa.com
 refer.signals.com
 refer.silvercar.com
 refer.skinceuticals.com
@@ -3985,6 +4018,7 @@ share.carparts.com
 share.cefaly.com
 share.cellcom.ca
 share.cheaperthandirt.com
+share.cheaperthandirt.net
 share.chewsidental.com
 share.cityfurniture.com
 share.cluballiance.aaa.com
@@ -4041,6 +4075,7 @@ share.hicapitalize.com
 share.hotwire.com
 share.hydropeptide.com
 share.imagemarket.com
+share.incrediblebank.com
 share.independentmail.com
 share.indochino.com
 share.inspirecleanenergy.com
@@ -4075,6 +4110,7 @@ share.na.sage.com
 share.newarkadvocate.com
 share.newtonbaby.com
 share.ngfcu.us
+share.novig.us
 share.ntv.io
 share.obagi.com
 share.olivegarden.com
@@ -4096,6 +4132,7 @@ share.princess.com
 share.promofarma.com
 share.qalo.com
 share.redding.com
+share.refer-aveda.ca
 share.refer-aveda.co.uk
 share.refer-aveda.com
 share.refer-bumbleandbumble.co.uk
@@ -4197,6 +4234,7 @@ smb-cashback.alcatel-lucent.com.au
 smb.info.shutterstock.com
 smkt.edm.globalsources.com
 smosh.share.ntv.io
+sms.cf.labanquepostale.fr
 smtpauth.carte-gr.total.fr
 smtpmail.carte-gr.total.fr
 social.forddirectdealers.com
@@ -4279,6 +4317,7 @@ stat.wolterskluwer.es
 stat.wolterskluwer.pl
 stat.wolterskluwer.pt
 stats.hager.com
+stats.saverglass.com
 stats.sgs.com
 stay.lottehotel.com
 storagetechnology.arrow.com
@@ -4297,7 +4336,6 @@ subscriptions.opentext.com
 subscriptionsconnect.opentext.com
 success.coface.com
 summit.edm.globalsources.com
-supplychain.exel.com
 support.panasonic.eu
 support.ricoh.fr
 survey-staging.mazda.com.au
@@ -4588,7 +4626,6 @@ track.info.renalandurologynews.com
 track.info.rheumatologyadvisor.com
 track.info.thecardiologyadvisor.com
 track.inspirage.com
-track.internationalopenweek.ac.nz
 track.into-giving.com
 track.intoglobal.com
 track.intostudy.com
@@ -4677,6 +4714,7 @@ tracking.changehealthcare.com
 tracking.chem-agilent.com
 tracking.clarivate.com
 tracking.coldspringusa.com
+tracking.columbiabank.com
 tracking.compactappliance.com
 tracking.connect.nicklaushealth.org
 tracking.connect.services.global.ntt
@@ -4685,12 +4723,14 @@ tracking.contentmarketing.hibu.com
 tracking.continuingstudies.wisc.edu
 tracking.corporatetraveler.us
 tracking.corporatetraveller.co.nz
+tracking.corporatetraveller.co.za
 tracking.corporatetraveller.com.au
 tracking.corptraveller.com
 tracking.corteva.ca
 tracking.corteva.us
 tracking.cranepi.com
 tracking.culturalinsurance.com
+tracking.dataloen.dk
 tracking.dev2.pepsicopartners.com
 tracking.dfinsolutions.com
 tracking.digitalid.co.uk
@@ -4862,6 +4902,7 @@ tracking.prodesa.com
 tracking.prophet.com
 tracking.prophix.com
 tracking.protective.com
+tracking.ps.shutterstock.com
 tracking.ptc.com
 tracking.pullsdirect.com
 tracking.puustelli.com
@@ -4909,6 +4950,7 @@ tracking.stageandscreen.travel
 tracking.steelprize.com
 tracking.stemcell.com
 tracking.stihl-timbersports.com
+tracking.stihl.at
 tracking.stihl.be
 tracking.stihl.co.za
 tracking.stihl.com
@@ -4916,9 +4958,11 @@ tracking.stihl.com.au
 tracking.stihl.de
 tracking.stihl.es
 tracking.stihl.fr
+tracking.stihl.it
 tracking.stihl.lu
 tracking.stihl.nl
 tracking.stihl.pt
+tracking.stihl.ua
 tracking.summer.wisc.edu
 tracking.syncsketch.com
 tracking.tdk.com
@@ -4947,11 +4991,14 @@ tracking.vertivco.com
 tracking.virginmediao2business.co.uk
 tracking.virtus.com
 tracking.visitdubai.com
+tracking.visma.co.uk
 tracking.visma.com
 tracking.visma.fi
+tracking.visma.lt
 tracking.visma.lv
 tracking.visma.net
 tracking.visma.no
+tracking.visma.ro
 tracking.visma.se
 tracking.vismaraet.nl
 tracking.vitalant.org
@@ -5002,6 +5049,7 @@ trail.thomsonreuters.com.my
 trail.thomsonreuters.com.sg
 trail.thomsonreuters.in
 training.hager.co.uk
+training.thunderhead.com
 transact.blackboard.com
 transplant.care.uhssa.com
 travelandleisure.share.ntv.io
@@ -5068,6 +5116,7 @@ trk.concisegroup.com
 trk.contact.alphabet.com
 trk.contact.umpquabank.com
 trk.contentmarketinginstitute.com
+trk.contentmarketingworld.com
 trk.coteriefashionevents.com
 trk.countrycrock.com
 trk.croma.nl
@@ -5132,6 +5181,7 @@ trk.info.shutterstock.com
 trk.info.verifi.com
 trk.info.verticurl.com
 trk.informaconnect.com
+trk.informaengage.com
 trk.informatech.com
 trk.informationweek.com
 trk.ingersollrand.com
@@ -5139,6 +5189,7 @@ trk.insurancetech.com
 trk.interop.com
 trk.itprotoday.com
 trk.jeffersonhealth.org
+trk.jorc.com
 trk.kansashealthsystem.com
 trk.latta.se
 trk.lightreading.com
@@ -5175,6 +5226,7 @@ trk.oma.dk
 trk.optum.com
 trk.packagingdigest.com
 trk.parkitbikeracks.com
+trk.peceniejeradost.sk
 trk.picnictables.com
 trk.planta.pt
 trk.plantafin.fr
@@ -5182,6 +5234,7 @@ trk.plasticstoday.com
 trk.powderandbulkshow.com
 trk.powderandbulksolids.com
 trk.pro-activ.com
+trk.projectfashionevents.com
 trk.protiviti.com
 trk.ptl.irco.com
 trk.quantumbusinessnews.com
@@ -5221,6 +5274,7 @@ trk.vaqueiro.pt
 trk.violifefoods.com
 trk.violifeprofessional.com
 trk.vitam.gr
+trk.vodafone.com.tr
 trk.wallstreetandtech.com
 trk.wardsauto.com
 trk.wealthmanagement.com
@@ -5323,7 +5377,6 @@ webcasts.de.ni.com
 webcasts.partnermcafee.com
 webinar.intel.com
 webinar.ndtco.com
-webinar.victorops.com
 webinars.att.com
 webinars.blackboard.com
 webinars.elliemae.com
@@ -5422,6 +5475,7 @@ www.on24-webinars.co.uk
 www.orionkeraily.fi
 www.pages.siteonlinelearning.edu.au
 www.partnermcafee.com
+www.quoteafs.com
 www.rdalpha.net
 www.referessentials.com
 www.referquickbooks.com
@@ -5429,6 +5483,7 @@ www.registrocumbresallegro.com
 www.registroeventosjaver.com
 www.registrovalledesantiago.com
 www.resources.att.com
+www.retirementadvisorinsights.com
 www.rh.adp.ca
 www.rims.aig.com
 www.safecoprograms.com

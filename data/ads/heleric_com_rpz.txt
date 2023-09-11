@@ -26,6 +26,7 @@ bg.unbarbpoured.com CNAME .
 bh.twifoilperoxyl.com CNAME .
 bj.pplferio.com CNAME .
 bj.preideanested.com CNAME .
+bj.unfeeddizoic.com CNAME .
 bk.clinkedsphecid.com CNAME .
 bl.delbertgobans.com CNAME .
 bl.noonishkahala.com CNAME .
@@ -116,8 +117,10 @@ hg.scallsoogloea.com CNAME .
 hi.oglesmulsify.com CNAME .
 hj.faggotbovidae.com CNAME .
 hl.jinchaovetoer.com CNAME .
+hm.sightercanidae.com CNAME .
 hw.testulebottega.com CNAME .
 hx.relivesternar.com CNAME .
+hy.orcinsjewish.com CNAME .
 hz.ruptureboogum.com CNAME .
 ia.bisetsoliped.com CNAME .
 ie.elandsmeikles.com CNAME .
@@ -144,6 +147,7 @@ ji.axingectal.com CNAME .
 jj.jaupsgrimes.com CNAME .
 jk.baltisbockey.com CNAME .
 jl.reckonpretax.com CNAME .
+jm.ethylintusker.com CNAME .
 jo.dinahmirv.com CNAME .
 jo.maraewid.com CNAME .
 jo.tictocswended.com CNAME .
@@ -368,6 +372,7 @@ xl.demosbattik.com CNAME .
 xm.tinlikeil.com CNAME .
 xo.trigscocos.com CNAME .
 xs.odesschemes.com CNAME .
+xw.horrifyclausum.com CNAME .
 xx.foetorsnudisms.com CNAME .
 xx.hematinsquark.com CNAME .
 xz.rapsseme.com CNAME .
@@ -387,6 +392,7 @@ zd.plattedrattons.com CNAME .
 zf.perseuschoose.com CNAME .
 zg.butaneailment.com CNAME .
 zi.kissbluest.com CNAME .
+zk.kabscarbide.com CNAME .
 zl.tirlszunyite.com CNAME .
 zn.glucinasileni.com CNAME .
 zp.mactraklutzes.com CNAME .

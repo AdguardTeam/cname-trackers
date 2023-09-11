@@ -17,6 +17,7 @@
 | clk.ubi.com | k.keyade.com |
 | k.brandalley.be | k.keyade.com |
 | k.brandalley.co.nl | k.keyade.com |
+| k.brandalley.de | k.keyade.com |
 | k.brandalley.es | k.keyade.com |
 | k.brandalley.fr | k.keyade.com |
 | k.cocooncenter.be | k.keyade.com |

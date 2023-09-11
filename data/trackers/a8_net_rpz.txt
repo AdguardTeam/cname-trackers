@@ -163,7 +163,6 @@ a8.mamacosme.co.jp CNAME .
 a8.mamaworks.jp CNAME .
 a8.manara.jp CNAME .
 a8.menou.shop CNAME .
-a8.meon-by.gangnamdoll.jp CNAME .
 a8.migxl.com CNAME .
 a8.minion-wifi.com CNAME .
 a8.mira-feel.com CNAME .
@@ -514,6 +513,7 @@ a8clk.patpat.com CNAME .
 a8clk.petelect.jp CNAME .
 a8clk.petitjob.jp CNAME .
 a8clk.photorevo.info CNAME .
+a8clk.point-island.com CNAME .
 a8clk.point-land.net CNAME .
 a8clk.point-museum.com CNAME .
 a8clk.point-stadium.com CNAME .
@@ -538,6 +538,7 @@ a8clk.shinnihon-seminar.com CNAME .
 a8clk.shoes.regal.co.jp CNAME .
 a8clk.shokutakubin.com CNAME .
 a8clk.shop.kitamura.jp CNAME .
+a8clk.shop.saraya.com CNAME .
 a8clk.shop.shareme.jp CNAME .
 a8clk.shop.sunsorit.co.jp CNAME .
 a8clk.shop.tanita.co.jp CNAME .
@@ -660,6 +661,7 @@ a8cv.auhikari-bykddi.com CNAME .
 a8cv.b-concept.tokyo CNAME .
 a8cv.b-mobilerental.com CNAME .
 a8cv.babybjorn.jp CNAME .
+a8cv.balanslab.jp CNAME .
 a8cv.bb-internet-qsyu.net CNAME .
 a8cv.bbt757.com CNAME .
 a8cv.be-slim-spbikyou.com CNAME .
@@ -814,6 +816,7 @@ a8cv.iekoma.com CNAME .
 a8cv.iikyujin.net CNAME .
 a8cv.ikapula.com CNAME .
 a8cv.info.atgp.jp CNAME .
+a8cv.inkan-takumi.com CNAME .
 a8cv.interlink.or.jp CNAME .
 a8cv.investment.mogecheck.jp CNAME .
 a8cv.ioo-sofa.net CNAME .
@@ -852,6 +855,7 @@ a8cv.kuih.jp CNAME .
 a8cv.kurashi-bears.com CNAME .
 a8cv.kxn.co.jp CNAME .
 a8cv.kyotokimono-rental.com CNAME .
+a8cv.l-meal.com CNAME .
 a8cv.laclulu.com CNAME .
 a8cv.lalavie.jp CNAME .
 a8cv.lancers.jp CNAME .
@@ -943,7 +947,6 @@ a8cv.r-maid.com CNAME .
 a8cv.radi-cool.shop CNAME .
 a8cv.rakumizu.jp CNAME .
 a8cv.rawfood-lohas.com CNAME .
-a8cv.raycop.co.jp CNAME .
 a8cv.rehome-navi.com CNAME .
 a8cv.repitte.jp CNAME .
 a8cv.reservation.matching-photo.com CNAME .
@@ -1131,6 +1134,7 @@ acv.nft-hikari.net CNAME .
 acv.pikarahikari.net CNAME .
 acv.softbank-hikaricollabo.com CNAME .
 acv.xn--dckf5a1e821s9i7b.com CNAME .
+ad.belleeau.jp CNAME .
 ad.ichiban-boshi.com CNAME .
 ad.ichiru.net CNAME .
 ad.jibunde-esute.com CNAME .

@@ -272,6 +272,7 @@
 ||web.friends.ellaskitchen.co.uk^
 ||web.ideaautorepair.com^
 ||web.info.bodybuildingwarehouse.co.uk^
+||web.info.bodybuildingwarehouse.com^
 ||web.info.bonprix.es^
 ||web.info.teamwarrior.com^
 ||web.info.vantastic-foods.com^

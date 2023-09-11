@@ -478,6 +478,7 @@ rtb-apac.rtbdemand.com
 rtb-apac.rtbplatform.net
 rtb-apac.rtbserve.io
 rtb-apac.wxadserve.xyz
+rtb-apac.xrtb.io
 rtb-as-uswest.pulsefintech.net
 rtb-eu-v4.152media.cloud
 rtb-eu-v4.adlive.io
@@ -1134,7 +1135,6 @@ xml.rtbfactory.com
 xml.rtbnext.com
 xml.rtbzone.com
 xml.rtxfeed.com
-xml.rxfclk3.com
 xml.saturndynamic.pt
 xml.sedodna.com
 xml.serverhost1.com

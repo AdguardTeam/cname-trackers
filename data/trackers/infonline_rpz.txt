@@ -7,6 +7,7 @@ _.apps.iocnt.de CNAME .
 ackrly.chip.de CNAME .
 acksrc.chip.de CNAME .
 acsam-relay.agof.de CNAME .
+acsam-relay.ivwonline.org CNAME .
 c4b720ded1.apps.iocnt.de CNAME .
 data-00460c60fa.eurotransport.de CNAME .
 data-007f9d19c8.sbz-monteur.de CNAME .
@@ -281,6 +282,7 @@ data-1fbcf6d7f5.thueringen-gedenkt.de CNAME .
 data-1fbcf6d7f5.trauerforum-altkreis.de CNAME .
 data-1fbcf6d7f5.verlagshaus-jaumann.de CNAME .
 data-1fbcf6d7f5.zeit-des-gedenkens.de CNAME .
+data-1fef8558fa.netdoktor.at CNAME .
 data-204adaac21.ariva.de CNAME .
 data-207a822be2.onlinefootballmanager.com CNAME .
 data-207a822be2.onlinefussballmanager.at CNAME .
@@ -796,6 +798,7 @@ data-626887dee6.0rtl.de CNAME .
 data-626887dee6.890rtl.de CNAME .
 data-62688b6a00.apps.iocnt.de CNAME .
 data-62e8b40b12.apps.iocnt.de CNAME .
+data-62e93c650b.entdeckertag.de CNAME .
 data-62e93c650b.hannover.de CNAME .
 data-62e93c650b.visit-hannover.com CNAME .
 data-6314dfb442.chip.de CNAME .
@@ -935,6 +938,7 @@ data-75671117cf.radiowaf.de CNAME .
 data-75adc1b92b.fleischerei.de CNAME .
 data-7609d780e9.apps.iocnt.de CNAME .
 data-767a8be759.berliner-kurier.de CNAME .
+data-770ef2669c.egovernment.de CNAME .
 data-7723a9baa7.internetworld.at CNAME .
 data-7723a9baa7.internetworld.de CNAME .
 data-774647f329.facility-management.de CNAME .
@@ -1774,6 +1778,7 @@ data-ee807be806.waz.de CNAME .
 data-ee807be806.wp.de CNAME .
 data-ee807be806.wr.de CNAME .
 data-eea926926e.connect-channel.de CNAME .
+data-ef2b66d556.miss.at CNAME .
 data-ef2df4302f.baumagazin-online.de CNAME .
 data-ef3fcaa7e9.0rtl.de CNAME .
 data-ef805f6034.apps.iocnt.de CNAME .
@@ -1994,6 +1999,9 @@ data-fcb7dbed1e.apps.iocnt.de CNAME .
 data-fd399543fe.elektroniknet.de CNAME .
 data-fd399543fe.medical-design.news CNAME .
 data-fd399543fe.mut-job.de CNAME .
+data-fd53e9bda6.holidayguru.ch CNAME .
+data-fd53e9bda6.holidayguru.es CNAME .
+data-fd53e9bda6.urlaubsguru.at CNAME .
 data-fd53e9bda6.urlaubsguru.de CNAME .
 data-fd60c1cff9.ke-next.de CNAME .
 data-fd9ab41e47.bravo.de CNAME .

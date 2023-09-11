@@ -163,7 +163,6 @@
 ||a8.mamaworks.jp^
 ||a8.manara.jp^
 ||a8.menou.shop^
-||a8.meon-by.gangnamdoll.jp^
 ||a8.migxl.com^
 ||a8.minion-wifi.com^
 ||a8.mira-feel.com^
@@ -514,6 +513,7 @@
 ||a8clk.petelect.jp^
 ||a8clk.petitjob.jp^
 ||a8clk.photorevo.info^
+||a8clk.point-island.com^
 ||a8clk.point-land.net^
 ||a8clk.point-museum.com^
 ||a8clk.point-stadium.com^
@@ -538,6 +538,7 @@
 ||a8clk.shoes.regal.co.jp^
 ||a8clk.shokutakubin.com^
 ||a8clk.shop.kitamura.jp^
+||a8clk.shop.saraya.com^
 ||a8clk.shop.shareme.jp^
 ||a8clk.shop.sunsorit.co.jp^
 ||a8clk.shop.tanita.co.jp^
@@ -660,6 +661,7 @@
 ||a8cv.b-concept.tokyo^
 ||a8cv.b-mobilerental.com^
 ||a8cv.babybjorn.jp^
+||a8cv.balanslab.jp^
 ||a8cv.bb-internet-qsyu.net^
 ||a8cv.bbt757.com^
 ||a8cv.be-slim-spbikyou.com^
@@ -814,6 +816,7 @@
 ||a8cv.iikyujin.net^
 ||a8cv.ikapula.com^
 ||a8cv.info.atgp.jp^
+||a8cv.inkan-takumi.com^
 ||a8cv.interlink.or.jp^
 ||a8cv.investment.mogecheck.jp^
 ||a8cv.ioo-sofa.net^
@@ -852,6 +855,7 @@
 ||a8cv.kurashi-bears.com^
 ||a8cv.kxn.co.jp^
 ||a8cv.kyotokimono-rental.com^
+||a8cv.l-meal.com^
 ||a8cv.laclulu.com^
 ||a8cv.lalavie.jp^
 ||a8cv.lancers.jp^
@@ -943,7 +947,6 @@
 ||a8cv.radi-cool.shop^
 ||a8cv.rakumizu.jp^
 ||a8cv.rawfood-lohas.com^
-||a8cv.raycop.co.jp^
 ||a8cv.rehome-navi.com^
 ||a8cv.repitte.jp^
 ||a8cv.reservation.matching-photo.com^
@@ -1131,6 +1134,7 @@
 ||acv.pikarahikari.net^
 ||acv.softbank-hikaricollabo.com^
 ||acv.xn--dckf5a1e821s9i7b.com^
+||ad.belleeau.jp^
 ||ad.ichiban-boshi.com^
 ||ad.ichiru.net^
 ||ad.jibunde-esute.com^

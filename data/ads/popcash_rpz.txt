@@ -75,6 +75,7 @@ aardwolf.keygen.sh CNAME .
 aardwolf.meinsmartplan.de CNAME .
 aardwolf.relaycorp.tech CNAME .
 aj8md.johnhenry.ie CNAME .
+albatros.teamground.fr CNAME .
 albatross.mypromo.co CNAME .
 albatross.ohseesoftware.com CNAME .
 alpaca.miidbaby.com CNAME .
@@ -354,7 +355,6 @@ donkey.oncarbon.app CNAME .
 donkey.routinehub.co CNAME .
 donkey.the3rd.place CNAME .
 dormouse.consentkit.com CNAME .
-dormouse.morningchorusrecords.com CNAME .
 dove.hoku.nz CNAME .
 dragon.codemakes.art CNAME .
 dragon.codequeen.io CNAME .
@@ -479,6 +479,7 @@ guanaco.jden.me CNAME .
 guanaco.redpixelthemes.com CNAME .
 guanaco.shelter.stream CNAME .
 guineapig.espressive.com CNAME .
+guineapig.magnatkaffehus.no CNAME .
 guineapig.themenaffin.de CNAME .
 gull.mayansmithgobat.com CNAME .
 guppy.ausowned.com.au CNAME .
@@ -544,7 +545,6 @@ iguana.delbaoliveira.com CNAME .
 iguana.indigospot.com CNAME .
 iguana.vivere.co CNAME .
 ijogkae.churchserviceplanner.co.uk CNAME .
-impala.misexpedientes.cloud CNAME .
 impala.vnv.nl CNAME .
 ipgeaif.blairmacintyre.me CNAME .
 jackal.jakerunzer.com CNAME .
@@ -633,6 +633,7 @@ lobster.tonebleed.com CNAME .
 locust.ausrebellion.earth CNAME .
 locust.michiel-gerritsen.com CNAME .
 loon.davidalindahl.com CNAME .
+loon.energizer.asia CNAME .
 loon.jrmyfranck.com CNAME .
 loon.ohmyfunds.com CNAME .
 louse.16bit.it CNAME .
@@ -788,6 +789,7 @@ piranha.jsmobiledev.com CNAME .
 piranha.minnmyatsoe.com CNAME .
 planarian.dailylocation.com CNAME .
 planarian.dtesta.com CNAME .
+planarian.fatsackfails.com CNAME .
 planarian.reverberate.org CNAME .
 planarian.sexcam-gutscheine.de CNAME .
 platypus.cmp.is CNAME .
@@ -915,7 +917,6 @@ squid.antevo.com.au CNAME .
 squirrel.cividi.ch CNAME .
 squirrel.cobaltconnect.com CNAME .
 squirrel.laravel-mix.com CNAME .
-squirrel.malaynahocker.com CNAME .
 starfish.centronoa.com CNAME .
 starfish.taskflow.io CNAME .
 starman-new.fathomdns.com CNAME .
@@ -1019,6 +1020,7 @@ walrus.fetzcolor.at CNAME .
 warbler.resumebuilder.dev CNAME .
 wasp.dyrynda.dev CNAME .
 wasp.mattjennings.io CNAME .
+waterboa.brooks.page CNAME .
 waterboa.midu.dev CNAME .
 weasel.accomplice.ai CNAME .
 whale.gdebrauwer.dev CNAME .

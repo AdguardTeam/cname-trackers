@@ -123,6 +123,7 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -330,6 +331,7 @@ refer.scoresense.com CNAME .
 refer.seabourn.com CNAME .
 refer.sharetodoist.com CNAME .
 refer.sharkclean.com CNAME .
+refer.shuuemuraartofhair-usa.com CNAME .
 refer.signals.com CNAME .
 refer.skinceuticals.com CNAME .
 refer.skyone.org CNAME .
@@ -439,6 +441,7 @@ share.carparts.com CNAME .
 share.cefaly.com CNAME .
 share.cellcom.ca CNAME .
 share.cheaperthandirt.com CNAME .
+share.cheaperthandirt.net CNAME .
 share.chewsidental.com CNAME .
 share.cityfurniture.com CNAME .
 share.cluballiance.aaa.com CNAME .
@@ -494,6 +497,7 @@ share.hicapitalize.com CNAME .
 share.hotwire.com CNAME .
 share.hydropeptide.com CNAME .
 share.imagemarket.com CNAME .
+share.incrediblebank.com CNAME .
 share.independentmail.com CNAME .
 share.inspirecleanenergy.com CNAME .
 share.installamerica.com CNAME .
@@ -526,6 +530,7 @@ share.myq.com CNAME .
 share.newarkadvocate.com CNAME .
 share.newtonbaby.com CNAME .
 share.ngfcu.us CNAME .
+share.novig.us CNAME .
 share.obagi.com CNAME .
 share.olivegarden.com CNAME .
 share.ollocard.com CNAME .
@@ -545,6 +550,7 @@ share.poughkeepsiejournal.com CNAME .
 share.princess.com CNAME .
 share.promofarma.com CNAME .
 share.redding.com CNAME .
+share.refer-aveda.ca CNAME .
 share.refer-aveda.co.uk CNAME .
 share.refer-aveda.com CNAME .
 share.refer-bumbleandbumble.co.uk CNAME .
@@ -626,5 +632,4 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em8561.go2bank.com CNAME .
 sftp.extole.com CNAME .

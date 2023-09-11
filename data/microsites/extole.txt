@@ -123,6 +123,7 @@
 ||amp.bfr.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
+||em8561.go2bank.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -330,6 +331,7 @@
 ||refer.seabourn.com^
 ||refer.sharetodoist.com^
 ||refer.sharkclean.com^
+||refer.shuuemuraartofhair-usa.com^
 ||refer.signals.com^
 ||refer.skinceuticals.com^
 ||refer.skyone.org^
@@ -439,6 +441,7 @@
 ||share.cefaly.com^
 ||share.cellcom.ca^
 ||share.cheaperthandirt.com^
+||share.cheaperthandirt.net^
 ||share.chewsidental.com^
 ||share.cityfurniture.com^
 ||share.cluballiance.aaa.com^
@@ -494,6 +497,7 @@
 ||share.hotwire.com^
 ||share.hydropeptide.com^
 ||share.imagemarket.com^
+||share.incrediblebank.com^
 ||share.independentmail.com^
 ||share.inspirecleanenergy.com^
 ||share.installamerica.com^
@@ -526,6 +530,7 @@
 ||share.newarkadvocate.com^
 ||share.newtonbaby.com^
 ||share.ngfcu.us^
+||share.novig.us^
 ||share.obagi.com^
 ||share.olivegarden.com^
 ||share.ollocard.com^
@@ -545,6 +550,7 @@
 ||share.princess.com^
 ||share.promofarma.com^
 ||share.redding.com^
+||share.refer-aveda.ca^
 ||share.refer-aveda.co.uk^
 ||share.refer-aveda.com^
 ||share.refer-bumbleandbumble.co.uk^
@@ -626,5 +632,4 @@
 ||www.referquickbooks.com^
 ||em1476.princesscruises.com^
 ||em4367.raf-studentloans.discover.com^
-||em8561.go2bank.com^
 ||sftp.extole.com^

@@ -47,6 +47,7 @@
 ||ar.allrun.fr^
 ||ar.i-run.fr^
 ||azg1.emalu-store.com^
+||b1n.carabins.umontreal.ca^
 ||bch8.destinia.co^
 ||bdj5.terrassesmontecarlosbm.com^
 ||bft5.destinia.fr^
@@ -326,7 +327,6 @@
 ||nmu3.destinia.be^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
-||nym5c.laura.ca^
 ||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^
 ||oae6.carrefour-banque.fr^
@@ -428,6 +428,7 @@
 ||t.locasun.nl^
 ||t.pmu.fr^
 ||t.voyages-sncf.com^
+||t0y.toyota.ca^
 ||t9h2.ricardocuisine.com^
 ||t9k3a.jeanpaulfortin.com^
 ||tdf1.easyviaggio.com^
@@ -504,12 +505,11 @@
 ||zsi7.destinia.do^
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
-||b1n.carabins.umontreal.ca^
 ||c0p.cepsum.umontreal.ca^
 ||d0f.le-dauphin.com^
 ||d2u.dauphinquebec.com^
 ||hk2d.tourismemauricie.com^
 ||nym5c.bonlook.com^
-||t0y.toyota.ca^
 ||ea.mnt.fr^
 ||gi7a.structube.com^
+||nym5c.laura.ca^

@@ -46,6 +46,7 @@ tr.asp002x.espmp-cufr.net CNAME .
 tr.asp0085.espmp-nifr.net CNAME .
 tr.asp008y.espmp-nifr.net CNAME .
 tr.asp009j.espmp-aufr.net CNAME .
+tr.asp009k.espmp-cufr.net CNAME .
 tr.asp00a0.espmp-cufr.net CNAME .
 tr.asp00a1.espmp-agfr.net CNAME .
 tr.asp00a3.espmp-agfr.net CNAME .
@@ -804,6 +805,7 @@ tr.newsletter.leocare.eu CNAME .
 tr.newsletter.location.boulanger.com CNAME .
 tr.newsletter.meilleurmobile.com CNAME .
 tr.newsletter.milleis.fr CNAME .
+tr.newsletter.mixr.net CNAME .
 tr.newsletter.monmedium.com CNAME .
 tr.newsletter.np6.com CNAME .
 tr.newsletter.np6.fr CNAME .

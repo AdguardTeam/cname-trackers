@@ -7,6 +7,7 @@
 ||ackrly.chip.de^
 ||acksrc.chip.de^
 ||acsam-relay.agof.de^
+||acsam-relay.ivwonline.org^
 ||c4b720ded1.apps.iocnt.de^
 ||data-00460c60fa.eurotransport.de^
 ||data-007f9d19c8.sbz-monteur.de^
@@ -281,6 +282,7 @@
 ||data-1fbcf6d7f5.trauerforum-altkreis.de^
 ||data-1fbcf6d7f5.verlagshaus-jaumann.de^
 ||data-1fbcf6d7f5.zeit-des-gedenkens.de^
+||data-1fef8558fa.netdoktor.at^
 ||data-204adaac21.ariva.de^
 ||data-207a822be2.onlinefootballmanager.com^
 ||data-207a822be2.onlinefussballmanager.at^
@@ -796,6 +798,7 @@
 ||data-626887dee6.890rtl.de^
 ||data-62688b6a00.apps.iocnt.de^
 ||data-62e8b40b12.apps.iocnt.de^
+||data-62e93c650b.entdeckertag.de^
 ||data-62e93c650b.hannover.de^
 ||data-62e93c650b.visit-hannover.com^
 ||data-6314dfb442.chip.de^
@@ -935,6 +938,7 @@
 ||data-75adc1b92b.fleischerei.de^
 ||data-7609d780e9.apps.iocnt.de^
 ||data-767a8be759.berliner-kurier.de^
+||data-770ef2669c.egovernment.de^
 ||data-7723a9baa7.internetworld.at^
 ||data-7723a9baa7.internetworld.de^
 ||data-774647f329.facility-management.de^
@@ -1774,6 +1778,7 @@
 ||data-ee807be806.wp.de^
 ||data-ee807be806.wr.de^
 ||data-eea926926e.connect-channel.de^
+||data-ef2b66d556.miss.at^
 ||data-ef2df4302f.baumagazin-online.de^
 ||data-ef3fcaa7e9.0rtl.de^
 ||data-ef805f6034.apps.iocnt.de^
@@ -1994,6 +1999,9 @@
 ||data-fd399543fe.elektroniknet.de^
 ||data-fd399543fe.medical-design.news^
 ||data-fd399543fe.mut-job.de^
+||data-fd53e9bda6.holidayguru.ch^
+||data-fd53e9bda6.holidayguru.es^
+||data-fd53e9bda6.urlaubsguru.at^
 ||data-fd53e9bda6.urlaubsguru.de^
 ||data-fd60c1cff9.ke-next.de^
 ||data-fd9ab41e47.bravo.de^

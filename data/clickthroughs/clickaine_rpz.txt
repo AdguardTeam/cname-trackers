@@ -36,6 +36,8 @@ ca.findyourpussy.net CNAME .
 ca.infomix.best CNAME .
 cc.histoires-de-sexe-gratuites.com CNAME .
 cc.opowiadaniaerotyczne-darmowo.com CNAME .
+cc.porno-rasskazy-ero.com CNAME .
+cc.porno-rasskazy-sex.com CNAME .
 cc.pornorasskazy-xxx.com CNAME .
 cc.raccontierotici-club.com CNAME .
 cc.relatoseroticos-gratis.com CNAME .
@@ -50,6 +52,7 @@ cdm.uncensored-hentai.top CNAME .
 cdn1.memojav.com CNAME .
 cdn2.picyield.com CNAME .
 ck.zzipps.com CNAME .
+cl.sexstories-all.com CNAME .
 cli.its2.net CNAME .
 clickc4n.pornharlot.com CNAME .
 clickc4n.pornharlot.net CNAME .
@@ -93,6 +96,7 @@ s1.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
 snow.snowdayonline.xyz CNAME .
 v040419.badjojo.com CNAME .
+wafe.camcaps.sx CNAME .
 www.bokep.su CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .

@@ -63,6 +63,7 @@ tk.atol.fr
 tk.balenciaga.com
 tk.biovea.com
 tk.bricoprive.com
+tk.cadeaux.com
 tk.conforama.fr
 tk.dietbon.fr
 tk.domitys.fr
@@ -82,6 +83,9 @@ tk.hypnia.es
 tk.hypnia.fr
 tk.hypnia.nl
 tk.illicado.com
+tk.interflora.es
+tk.interflora.fr
+tk.interflora.it
 tk.jeux.loro.ch
 tk.kidsaround.com
 tk.kitchendiet.fr

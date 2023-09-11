@@ -66,6 +66,7 @@
 | tr.asp0085.espmp-nifr.net | tracking.bp01.net |
 | tr.asp008y.espmp-nifr.net | tracking.bp01.net |
 | tr.asp009j.espmp-aufr.net | tracking.bp01.net |
+| tr.asp009k.espmp-cufr.net | tracking.bp01.net |
 | tr.asp00a0.espmp-cufr.net | tracking.bp01.net |
 | tr.asp00a1.espmp-agfr.net | tracking.bp01.net |
 | tr.asp00a3.espmp-agfr.net | tracking.bp01.net |
@@ -824,6 +825,7 @@
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |
 | tr.newsletter.meilleurmobile.com | tracking.bp01.net |
 | tr.newsletter.milleis.fr | tracking.bp01.net |
+| tr.newsletter.mixr.net | tracking.bp01.net |
 | tr.newsletter.monmedium.com | tracking.bp01.net |
 | tr.newsletter.np6.com | tracking.bp01.net |
 | tr.newsletter.np6.fr | tracking.bp01.net |

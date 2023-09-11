@@ -272,6 +272,7 @@ web.email.zone3.com CNAME .
 web.friends.ellaskitchen.co.uk CNAME .
 web.ideaautorepair.com CNAME .
 web.info.bodybuildingwarehouse.co.uk CNAME .
+web.info.bodybuildingwarehouse.com CNAME .
 web.info.bonprix.es CNAME .
 web.info.teamwarrior.com CNAME .
 web.info.vantastic-foods.com CNAME .
