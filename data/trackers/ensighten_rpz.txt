@@ -75,6 +75,7 @@ analytics.ovative.com CNAME .
 analytics.polaris.com CNAME .
 analytics.syf.com CNAME .
 analytics.synchrony.com CNAME .
+analytics.synchronyannualreport.com CNAME .
 analytics.synchronybank.com CNAME .
 analytics.synchronybusiness.com CNAME .
 analytics.synchronycareers.com CNAME .
@@ -326,6 +327,7 @@ tms-test.nab.com.au CNAME .
 tms.americanexpress.com CNAME .
 tms.betway.com CNAME .
 tms.betwaysatta.com CNAME .
+tms.betwaysatta1.com CNAME .
 tms.capitalone.com CNAME .
 tms.delta.com CNAME .
 tms.experian.com CNAME .

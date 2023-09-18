@@ -86,23 +86,26 @@ affilate.sklep38.cz CNAME .
 affilbox.25hodin.cz CNAME .
 affilbox.aliveplatform.com CNAME .
 affilbox.andreashop.sk CNAME .
-affilbox.doglog.cz CNAME .
 affilbox.gurufinance.cz CNAME .
+affilbox.kronikazivota.cz CNAME .
 affilbox.kronikazivota.sk CNAME .
 affilbox.kvaskovanie.sk CNAME .
 affilbox.rondopartner.cz CNAME .
 affilbox.stygremvkleci.cz CNAME .
 affiliate.2gispraha.cz CNAME .
 affiliate.4fresh.cz CNAME .
+affiliate.a1m.cz CNAME .
 affiliate.activeczech.com CNAME .
 affiliate.agatinsvet.cz CNAME .
 affiliate.alchymiezeny.cz CNAME .
 affiliate.alexandrajohn.com CNAME .
+affiliate.alexandrajohn.cz CNAME .
 affiliate.altatrading.cz CNAME .
 affiliate.amarex.cz CNAME .
 affiliate.ambitv.cz CNAME .
 affiliate.appleking.cz CNAME .
 affiliate.applemix.cz CNAME .
+affiliate.atomer.cz CNAME .
 affiliate.batteryshop.cz CNAME .
 affiliate.bestdrink.cz CNAME .
 affiliate.bezvatriko.cz CNAME .
@@ -116,6 +119,7 @@ affiliate.childhoodpotential.com CNAME .
 affiliate.chytryhonza.cz CNAME .
 affiliate.ckslniecko.sk CNAME .
 affiliate.cocowoods.cz CNAME .
+affiliate.cojestpocviceni.sk CNAME .
 affiliate.compik.cz CNAME .
 affiliate.coolcredit.cz CNAME .
 affiliate.craftholsters.com CNAME .
@@ -652,7 +656,6 @@ partner.totalniplavani.cz CNAME .
 partner.tyano.cz CNAME .
 partner.umio.eu CNAME .
 partner.umio.sk CNAME .
-partner.uniquefit.sk CNAME .
 partner.unuo.de CNAME .
 partner.vajacandle.cz CNAME .
 partner.vataonline.cz CNAME .
@@ -669,6 +672,7 @@ partner.webskicak.cz CNAME .
 partner.whoopdedoo.cz CNAME .
 partner.whoopdedoo.love CNAME .
 partner.whoopdedoo.me CNAME .
+partner.wugi.cz CNAME .
 partner.xbx.cz CNAME .
 partner.xm.cz CNAME .
 partner.yummy.sk CNAME .
@@ -723,6 +727,7 @@ partneri.frcime.cz CNAME .
 partneri.gigamat.cz CNAME .
 partneri.givt.cz CNAME .
 partneri.heavytamper.cz CNAME .
+partneri.hopsaj.sk CNAME .
 partneri.incacollagen.eu CNAME .
 partneri.intimfitness.cz CNAME .
 partneri.jakofenix.cz CNAME .
@@ -739,6 +744,7 @@ partneri.liborcinka.cz CNAME .
 partneri.lightway.cz CNAME .
 partneri.londonstore.cz CNAME .
 partneri.lucie-konigova.cz CNAME .
+partneri.majstervposteli.sk CNAME .
 partneri.mebline.cz CNAME .
 partneri.metodajih.cz CNAME .
 partneri.minshop.cz CNAME .

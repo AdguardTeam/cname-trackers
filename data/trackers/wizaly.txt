@@ -112,6 +112,7 @@
 ||tk.planete-oui.fr^
 ||tk.prismashop.fr^
 ||tk.qare.fr^
+||tk.qobuz.com^
 ||tk.rentacar.fr^
 ||tk.rimowa.com^
 ||tk.salomon.com^

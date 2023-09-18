@@ -209,6 +209,7 @@
 ||statistics.tuv.com^
 ||text.benefitsatwork.be^
 ||text.benefitsatwork.ch^
+||text.benefitsatwork.pl^
 ||text.benefitsatwork.pt^
 ||text.convenzioniaziendali.it^
 ||text.mitarbeiterangebote.at^

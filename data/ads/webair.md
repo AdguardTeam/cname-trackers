@@ -379,9 +379,6 @@
     * e-volution.win-eu.ak-is2.net
     * e-volution.win-useast.ak-is2.net
     * e-volution.win-uswest.ak-is2.net
-    * engageadx.fs.ak-is2.net
-    * engageadx.rtb-eu.ak-is2.net
-    * engageadx.xml.ak-is2.net
     * ergadx.rtb-useast.ak-is2.net
     * eureekkaa.xml.ak-is2.net
     * eximdigital.fs.ak-is2.net
@@ -1593,9 +1590,6 @@
 | static.adcy.net | e6v7t8h7.stackpathcdn.com |
 | static.pdn-1.com | e8a3x2f9.stackpathcdn.com |
 | static.adjux.com | e8q4s6r9.stackpathcdn.com |
-| filter.engageadx.com | engageadx.fs.ak-is2.net |
-| rtb-eu.engageadx.com | engageadx.rtb-eu.ak-is2.net |
-| xml.engageadx.com | engageadx.xml.ak-is2.net |
 | rtb-useast.ergadx.com | ergadx.rtb-useast.ak-is2.net |
 | xml.eureekkaa.com | eureekkaa.xml.ak-is2.net |
 | filter.eximdigital.com | eximdigital.fs.ak-is2.net |

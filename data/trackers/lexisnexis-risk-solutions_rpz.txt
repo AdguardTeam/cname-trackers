@@ -156,6 +156,7 @@ cnt.patpat.com CNAME .
 cnt2.bank.za.group CNAME .
 compliance.mohegansuncasino.com CNAME .
 compliance.resortscasino.com CNAME .
+contendvc.cnouyi.pizza CNAME .
 content-uk.fundingcircle.com CNAME .
 content.ageas.co.uk CNAME .
 content.allstate.com CNAME .
@@ -186,6 +187,7 @@ content.cofidis.pt CNAME .
 content.conapcg.com CNAME .
 content.connexion-mabanque.bnpparibas CNAME .
 content.consumercardaccess.com CNAME .
+content.covantagecu.org CNAME .
 content.ctfs.com CNAME .
 content.digital-credit.app CNAME .
 content.digital.citbank.com CNAME .
@@ -431,6 +433,7 @@ images.exxonmobilfleetoffers.com CNAME .
 images.sheetzadvantage.com CNAME .
 images.sunocofleetcards.com CNAME .
 images.wexinc.com CNAME .
+images.wrightexpress.com CNAME .
 imagesmx.cdiscountpro.com CNAME .
 imagesmx.cdscdn.com CNAME .
 imagestm.bossrevolution.com CNAME .
@@ -483,7 +486,6 @@ ln.meudigio.com.br CNAME .
 lndata.labor.maryland.gov CNAME .
 lndata.labor.md.gov CNAME .
 lnths.twc.texas.gov CNAME .
-lnthxsvc.tsp.gov CNAME .
 log.betdaq.com CNAME .
 log.checkmyfile.com CNAME .
 log.creditreport.co.uk CNAME .
@@ -588,6 +590,7 @@ prod-selco.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcupa.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcutx.chaperone.lumindigitalhosting.com CNAME .
+prod-travis.chaperone.lumindigitalhosting.com CNAME .
 prod-tvfcuwy.chaperone.lumindigitalhosting.com CNAME .
 prod-uecupa.chaperone.lumindigitalhosting.com CNAME .
 prod-uiccuil.chaperone.lumindigitalhosting.com CNAME .
@@ -837,7 +840,6 @@ tm.goldennuggetcasino.com CNAME .
 tm.gumtree.co.za CNAME .
 tm.gumtree.com.au CNAME .
 tm.kotak.com CNAME .
-tm.moneyhub.hrblock.com.au CNAME .
 tm.okinushub.com CNAME .
 tm.paysafecard.com CNAME .
 tm.production.eu1.tmfp.klarna.net CNAME .
@@ -908,6 +910,7 @@ txcontent.iherb.com CNAME .
 txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
 ualaki-analytics.vacations.united.com CNAME .
+ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .
 v.ayco.com CNAME .

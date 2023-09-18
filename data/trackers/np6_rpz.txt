@@ -62,6 +62,7 @@ tr.asp106g.espmp-nifr.net CNAME .
 tr.asp1098.espmp-cufr.net CNAME .
 tr.asp109c.espmp-aufr.net CNAME .
 tr.asp109y.espmp-agfr.net CNAME .
+tr.asp10a7.espmp-aufr.net CNAME .
 tr.asp10ai.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
@@ -71,6 +72,7 @@ tr.asp10ch.espmp-nifr.net CNAME .
 tr.asp10cr.espmp-nifr.net CNAME .
 tr.asp10d7.espmp-nifr.net CNAME .
 tr.asp10de.espmp-agfr.net CNAME .
+tr.asp10df.espmp-agfr.net CNAME .
 tr.asp10dq.espmp-nifr.net CNAME .
 tr.asp10dx.espmp-nifr.net CNAME .
 tr.asp10ea.espmp-nifr.net CNAME .
@@ -98,6 +100,7 @@ tr.asp206k.espmp-agfr.net CNAME .
 tr.asp2070.espmp-aufr.net CNAME .
 tr.asp2075.espmp-nifr.net CNAME .
 tr.asp2076.espmp-pofr.net CNAME .
+tr.asp2077.espmp-nifr.net CNAME .
 tr.asp2078.espmp-nifr.net CNAME .
 tr.asp207e.espmp-nifr.net CNAME .
 tr.assoc.cfsr-retine.com CNAME .
@@ -112,6 +115,7 @@ tr.bati-partner.be CNAME .
 tr.bati-partners.be CNAME .
 tr.batirenover.info CNAME .
 tr.batiweb.co CNAME .
+tr.bel-pros.be CNAME .
 tr.bern.espmp-nifr.net CNAME .
 tr.bgl.premium-benefits.lu CNAME .
 tr.bienvenue.envie-de-bien-manger.com CNAME .
@@ -354,6 +358,7 @@ tr.enquetes.actionlogement.fr CNAME .
 tr.entreprise-pro.info CNAME .
 tr.entreprise.axa.fr CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net CNAME .
+tr.eqs.cpam67.net CNAME .
 tr.ere.emailing.bnpparibas CNAME .
 tr.estatesandwines.moethennessy.com CNAME .
 tr.etravauxpro.fr CNAME .
@@ -829,7 +834,6 @@ tr.nl.myvipmag.fr CNAME .
 tr.nl.services-sncf.com CNAME .
 tr.nl2.sncf-fidelite.com CNAME .
 tr.nmcm.espmp-cufr.net CNAME .
-tr.notification-gdpr.bnpparibas-personalfinance.fr CNAME .
 tr.notification-gdpr.bnpparibas-pf.fr CNAME .
 tr.notification-gdpr.cafineo.fr CNAME .
 tr.notification-gdpr.cofica.fr CNAME .
@@ -911,7 +915,6 @@ tr.quotes4business.com CNAME .
 tr.quotes4business.info CNAME .
 tr.quotesforbusiness.cl CNAME .
 tr.quotesforbusiness.co.uk CNAME .
-tr.ra.cofinoga.fr CNAME .
 tr.ratm.espmp-agfr.net CNAME .
 tr.raym.espmp-agfr.net CNAME .
 tr.reactivation.vertbaudet.fr CNAME .
@@ -941,6 +944,7 @@ tr.service-mail.carrefour.fr CNAME .
 tr.service.linxea.com CNAME .
 tr.serviceclient.adagcaladoise.fr CNAME .
 tr.serviceclient.bf-depannage.fr CNAME .
+tr.serviceclient.confogaz.com CNAME .
 tr.serviceclient.depanchauffageservice.fr CNAME .
 tr.serviceclient.effica-service.fr CNAME .
 tr.serviceclient.explore.fr CNAME .

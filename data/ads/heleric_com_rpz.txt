@@ -20,6 +20,7 @@ bb.whaupburgeon.com CNAME .
 bc.manwaysprod.com CNAME .
 bd.inclipscalabur.com CNAME .
 be.habitueflasque.com CNAME .
+be.jambertarry.com CNAME .
 bf.buffersling.com CNAME .
 bf.shodeoaters.com CNAME .
 bg.unbarbpoured.com CNAME .
@@ -72,6 +73,7 @@ ef.betosslingala.com CNAME .
 eh.stowingwhelks.com CNAME .
 ej.basialforced.com CNAME .
 em.curnberthed.com CNAME .
+et.furivaeshotman.com CNAME .
 et.harmoutguereza.com CNAME .
 eu.balletsbeep.com CNAME .
 eu.jerkytaste.com CNAME .
@@ -87,6 +89,7 @@ fg.satraefreath.com CNAME .
 fh.termsixias.com CNAME .
 fi.creeguilds.com CNAME .
 fj.bedrowndaffs.com CNAME .
+fj.cavilerestops.com CNAME .
 fk.oaklikespiers.com CNAME .
 fm.ramouselong.com CNAME .
 fn.deulspoorn.com CNAME .
@@ -348,6 +351,7 @@ wb.uncannyuneaths.com CNAME .
 wd.dimcarnie.com CNAME .
 wd.towmonterses.com CNAME .
 we.noonsderider.com CNAME .
+wh.dabbyfather.com CNAME .
 wi.cohereseugene.com CNAME .
 wj.acrevenene.com CNAME .
 wl.gravergignate.com CNAME .
@@ -381,6 +385,7 @@ ye.coresepyllia.com CNAME .
 yg.coehornjobbet.com CNAME .
 yg.slantedsecno.com CNAME .
 yh.coursgrimace.com CNAME .
+yh.jewelyavoir.com CNAME .
 yk.dissentsangir.com CNAME .
 yl.calumetjowing.com CNAME .
 yp.tronkparsed.com CNAME .

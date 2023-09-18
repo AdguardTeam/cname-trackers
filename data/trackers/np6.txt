@@ -62,6 +62,7 @@
 ||tr.asp1098.espmp-cufr.net^
 ||tr.asp109c.espmp-aufr.net^
 ||tr.asp109y.espmp-agfr.net^
+||tr.asp10a7.espmp-aufr.net^
 ||tr.asp10ai.espmp-nifr.net^
 ||tr.asp10ar.espmp-cufr.net^
 ||tr.asp10bs.espmp-aufr.net^
@@ -71,6 +72,7 @@
 ||tr.asp10cr.espmp-nifr.net^
 ||tr.asp10d7.espmp-nifr.net^
 ||tr.asp10de.espmp-agfr.net^
+||tr.asp10df.espmp-agfr.net^
 ||tr.asp10dq.espmp-nifr.net^
 ||tr.asp10dx.espmp-nifr.net^
 ||tr.asp10ea.espmp-nifr.net^
@@ -98,6 +100,7 @@
 ||tr.asp2070.espmp-aufr.net^
 ||tr.asp2075.espmp-nifr.net^
 ||tr.asp2076.espmp-pofr.net^
+||tr.asp2077.espmp-nifr.net^
 ||tr.asp2078.espmp-nifr.net^
 ||tr.asp207e.espmp-nifr.net^
 ||tr.assoc.cfsr-retine.com^
@@ -112,6 +115,7 @@
 ||tr.bati-partners.be^
 ||tr.batirenover.info^
 ||tr.batiweb.co^
+||tr.bel-pros.be^
 ||tr.bern.espmp-nifr.net^
 ||tr.bgl.premium-benefits.lu^
 ||tr.bienvenue.envie-de-bien-manger.com^
@@ -354,6 +358,7 @@
 ||tr.entreprise-pro.info^
 ||tr.entreprise.axa.fr^
 ||tr.envie-de-bien-manger.espmp-aufr.net^
+||tr.eqs.cpam67.net^
 ||tr.ere.emailing.bnpparibas^
 ||tr.estatesandwines.moethennessy.com^
 ||tr.etravauxpro.fr^
@@ -829,7 +834,6 @@
 ||tr.nl.services-sncf.com^
 ||tr.nl2.sncf-fidelite.com^
 ||tr.nmcm.espmp-cufr.net^
-||tr.notification-gdpr.bnpparibas-personalfinance.fr^
 ||tr.notification-gdpr.bnpparibas-pf.fr^
 ||tr.notification-gdpr.cafineo.fr^
 ||tr.notification-gdpr.cofica.fr^
@@ -911,7 +915,6 @@
 ||tr.quotes4business.info^
 ||tr.quotesforbusiness.cl^
 ||tr.quotesforbusiness.co.uk^
-||tr.ra.cofinoga.fr^
 ||tr.ratm.espmp-agfr.net^
 ||tr.raym.espmp-agfr.net^
 ||tr.reactivation.vertbaudet.fr^
@@ -941,6 +944,7 @@
 ||tr.service.linxea.com^
 ||tr.serviceclient.adagcaladoise.fr^
 ||tr.serviceclient.bf-depannage.fr^
+||tr.serviceclient.confogaz.com^
 ||tr.serviceclient.depanchauffageservice.fr^
 ||tr.serviceclient.effica-service.fr^
 ||tr.serviceclient.explore.fr^

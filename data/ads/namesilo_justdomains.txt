@@ -382,6 +382,7 @@
 3423873.notifysrv.com
 3423953.notifysrv.com
 3428069.notifysrv.com
+3429075.notify6.com
 3432573.notify6.com
 3436909.notify6.com
 3437433.notifysrv.com
@@ -540,6 +541,7 @@
 3572283.notifysrv.com
 3572285.notifysrv.com
 3572293.notifysrv.com
+3572299.notifysrv.com
 3572303.notifysrv.com
 3572904.notifysrv.com
 3576907.notifysrv.com
@@ -680,6 +682,7 @@
 3869854.notify6.com
 3869854.notifysrv.com
 3869926.notify6.com
+3870370.notify6.com
 3871870.notify6.com
 3878176.notify6.com
 3880638.notify6.com
@@ -829,6 +832,7 @@
 4329306.notify6.com
 4349528.notify6.com
 4367658.notify6.com
+4389756.notify6.com
 4399896.notify6.com
 4407878.notify6.com
 4421184.notify6.com
@@ -965,6 +969,7 @@ origin-ads.exdynsrv.com
 origin-ads.exosrv.com
 origin-ads.optimizesrv.com
 origin-ads.realsrv.com
+rtb.ad.guru
 rtb.advertrek.com
 rtb.exoclick.com
 s.a3ion.com
@@ -992,6 +997,7 @@ s.elnl2a.com
 s.elnl2b.com
 s.elnn10.com
 s.elnn12.com
+s.elnn14.com
 s.elnn20.com
 s.elnn24.com
 s.elns4a.com

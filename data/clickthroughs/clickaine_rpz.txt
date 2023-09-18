@@ -8,6 +8,7 @@ anti.69vclub.com CNAME .
 api.hugemedia.cz CNAME .
 api.kekw.website CNAME .
 api.kekw.world CNAME .
+api.ngamgaixinh.art CNAME .
 api.rtnews.pro CNAME .
 api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
@@ -16,7 +17,6 @@ asg.javhoho.com CNAME .
 asg.torocomoroco.work CNAME .
 c.gotoxxxtube.com CNAME .
 c0n.tubestash.com CNAME .
-c0n.urlgalleries.net CNAME .
 c4n.21hub.com CNAME .
 c4n.asianpinay.com CNAME .
 c4n.bigxxxsex.com CNAME .
@@ -46,6 +46,7 @@ cc.sexgeschichten-klub.com CNAME .
 cc.sexgeschichten-kostenlos.com CNAME .
 cc.sexgeschichten-xxx.com CNAME .
 cc.sexstories-hot.com CNAME .
+cc.sexstories-xxx.com CNAME .
 cc.sexverhalen-gratis.com CNAME .
 cc2.camcaps.io CNAME .
 cdm.uncensored-hentai.top CNAME .
@@ -68,10 +69,12 @@ cvk.supklik.com CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dr1.piczlabs.com CNAME .
+dr3.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
 ge6.getfto.com CNAME .
+ge8.getfto.com CNAME .
 get.xclick24.com CNAME .
 go.lize.bid CNAME .
 hostmaster.brandnewapp.pro CNAME .
@@ -84,11 +87,14 @@ hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
 images.savetiknowm.org CNAME .
 jg1.trypicz.com CNAME .
+jg3.trypicz.com CNAME .
 jpnj.hotpornfile.org CNAME .
+k10.usefto.com CNAME .
 k8.usefto.com CNAME .
 mail.7porn.ru CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .
+pi4.piczhq.com CNAME .
 ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .
 reg.ancensored.com CNAME .

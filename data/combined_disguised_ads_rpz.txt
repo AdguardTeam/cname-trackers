@@ -1,6 +1,6 @@
 ; Title: AdGuard CNAME disguised ads list
 ; Description: The list of unique ads domains that disguise the real trackers by using CNAME records.
-; TimeUpdated: 2023-09-11T08:00:18+00:00
+; TimeUpdated: 2023-09-18T08:00:22+00:00
 ; Homepage: https://github.com/AdguardTeam/cname-trackers
 ;
 *.exaapi.com CNAME .
@@ -3585,6 +3585,7 @@
 1369.gofenews.com CNAME .
 1369.lookinews.com CNAME .
 1369.reminews.com CNAME .
+136d6c9687.9cc064a523.com CNAME .
 136ffb81df.df253f3b96.com CNAME .
 137.deeginews.com CNAME .
 1370.gofenews.com CNAME .
@@ -3639,6 +3640,7 @@
 1397.lookinews.com CNAME .
 1398.reminews.com CNAME .
 1399.lookinews.com CNAME .
+13f9514ce8.b2d43e2764.com CNAME .
 14.deeginews.com CNAME .
 14.guesswhatnews.com CNAME .
 14.lookinews.com CNAME .
@@ -4253,6 +4255,7 @@
 1687.lookinews.com CNAME .
 1687.reminews.com CNAME .
 1688.lookinews.com CNAME .
+16887bf91c.68109deb96.com CNAME .
 1690.jumronews.com CNAME .
 1690.lookinews.com CNAME .
 1690.reminews.com CNAME .
@@ -4836,6 +4839,7 @@
 1aad.spinna.site CNAME .
 1aae.spinna.site CNAME .
 1aaf.spinna.site CNAME .
+1adcb970f5.5ca59a669a.com CNAME .
 1ae1419b32.5913757eb5.com CNAME .
 1b4e52a966.7253d56acf.com CNAME .
 1br.lookinews.com CNAME .
@@ -5064,7 +5068,6 @@
 2acdecbea6.154886c13e.com CNAME .
 2b24585709.95a3ca82bc.com CNAME .
 2b8d6a0f7f.574cfa4903.com CNAME .
-2be1bcb9a6.962fc69307.com CNAME .
 2bf3a6624f.8509717d76.com CNAME .
 2c59d4cfd1.521bec59f1.com CNAME .
 2d04fd8d84.a10e98bd92.com CNAME .
@@ -5520,6 +5523,7 @@
 3423873.notifysrv.com CNAME .
 3423953.notifysrv.com CNAME .
 3428069.notifysrv.com CNAME .
+3429075.notify6.com CNAME .
 3432573.notify6.com CNAME .
 3436909.notify6.com CNAME .
 3437433.notifysrv.com CNAME .
@@ -5691,6 +5695,7 @@
 3572283.notifysrv.com CNAME .
 3572285.notifysrv.com CNAME .
 3572293.notifysrv.com CNAME .
+3572299.notifysrv.com CNAME .
 3572303.notifysrv.com CNAME .
 3572904.notifysrv.com CNAME .
 3576907.notifysrv.com CNAME .
@@ -5839,6 +5844,7 @@
 3869854.notify6.com CNAME .
 3869854.notifysrv.com CNAME .
 3869926.notify6.com CNAME .
+3870370.notify6.com CNAME .
 3871870.notify6.com CNAME .
 3878176.notify6.com CNAME .
 3880638.notify6.com CNAME .
@@ -5897,7 +5903,6 @@
 3995186.notify6.com CNAME .
 3997384.notify6.com CNAME .
 3997386.notify6.com CNAME .
-3a5072632a.709861d049.com CNAME .
 3ab0a0cf92.bcae944449.com CNAME .
 3be4572f0f.535a855e66.com CNAME .
 3c03eb25ce.78359c0779.com CNAME .
@@ -6017,6 +6022,7 @@
 4349528.notify6.com CNAME .
 4367658.notify6.com CNAME .
 4368f5724b.e9c5ee1e68.com CNAME .
+4389756.notify6.com CNAME .
 4399896.notify6.com CNAME .
 43bb4c3cf7.249c9885c1.com CNAME .
 4407878.notify6.com CNAME .
@@ -6040,6 +6046,7 @@
 4598706.notify6.com CNAME .
 45c27c9b34.36c48052b9.com CNAME .
 45efcfcfdf.004809f9da.com CNAME .
+45fe0e3933.9d4d667182.com CNAME .
 460fa98eb4.e55b290040.com CNAME .
 4615884.notify6.com CNAME .
 4621798.notify6.com CNAME .
@@ -6047,6 +6054,7 @@
 4623404.notify6.com CNAME .
 4636902.notify6.com CNAME .
 4648982.notify6.com CNAME .
+46496cf2ef.751685e7fa.com CNAME .
 4656576.notify6.com CNAME .
 4680526.notify6.com CNAME .
 4682394.notify6.com CNAME .
@@ -6100,6 +6108,7 @@
 4a1d619652.d238ff9a45.com CNAME .
 4a65d58a18.7a07c25a29.com CNAME .
 4ae63eb9b9.83032d92a4.com CNAME .
+4b0bbc6e3f.5685dceb1b.com CNAME .
 4b3fb2cd14.4ec2e6f324.com CNAME .
 4b4d7ffd05.e499799158.com CNAME .
 4bc0edac2f.92331e9790.com CNAME .
@@ -6128,7 +6137,6 @@
 51aa9bb2be.08af0e4303.com CNAME .
 5235a4b207.ad64463ef9.com CNAME .
 52ac762fd0.eb5232b35d.com CNAME .
-52ac9f7637.8aaee039a0.com CNAME .
 52c2be887f.84cd8c4d7e.com CNAME .
 5335f32977.e6400a77fa.com CNAME .
 535.notify.optimizesrv.com CNAME .
@@ -6145,6 +6153,7 @@
 56a444a071.3a98f4e936.com CNAME .
 577.notify.optimizesrv.com CNAME .
 57c075bf2b.fd57cc1fde.com CNAME .
+57e1932c4c.6593167243.com CNAME .
 582ff6f1ff.8c771f7ea1.com CNAME .
 583.notify.optimizesrv.com CNAME .
 58745.clicknplay.to CNAME .
@@ -6160,6 +6169,7 @@
 5f25b.dappaa.site CNAME .
 5f25c.dappaa.site CNAME .
 5f25d.dappaa.site CNAME .
+5f903684b3.976fcf2cb2.com CNAME .
 5fb447b916.10eafd09d6.com CNAME .
 5stars.yeesshh.com CNAME .
 603.notify.optimizesrv.com CNAME .
@@ -6224,6 +6234,7 @@
 6868.gofenews.com CNAME .
 6871.reminews.com CNAME .
 6872.gofenews.com CNAME .
+689ac20aa2.d3da127b69.com CNAME .
 6904.reminews.com CNAME .
 690db44214.e51710f24a.com CNAME .
 693a6396f6.044165bfac.com CNAME .
@@ -6245,7 +6256,6 @@
 69fec95f91.9738624519.com CNAME .
 6aabc74318.82a89f6527.com CNAME .
 6ab2ef8bd3.8bb92fbed8.com CNAME .
-6ac0e8b7e8.bcb3da3ac8.com CNAME .
 6acb7cce62.c01d3ac9cb.com CNAME .
 6b811acd08.928fab1d1d.com CNAME .
 6c876496e6.f4235693e4.com CNAME .
@@ -6338,11 +6348,11 @@
 7e0723da4d.62f1175918.com CNAME .
 7e43b50847.aa73935a79.com CNAME .
 7e66e6a089.800c7864eb.com CNAME .
+7e7e10c005.cd4d8554b1.com CNAME .
 7erfgdyu4yuf5ueq.lookinews.com CNAME .
 7f31bf7727.72d197aaa2.com CNAME .
 7fb6f12dd2.17dc91dc49.com CNAME .
 7fd5bcd24e.86ff56b6d5.com CNAME .
-7fede0fad9.4a956e69ff.com CNAME .
 7fgdyu4yuf5ueq.lookinews.com CNAME .
 7iermfgdyu4yuf5ueq.lookinews.com CNAME .
 7wrxo2xh.iriscreative.co CNAME .
@@ -6358,6 +6368,7 @@
 8022.gofenews.com CNAME .
 8023.reminews.com CNAME .
 8025.reminews.com CNAME .
+8027aedf38.9a0569b55e.com CNAME .
 8028.deeginews.com CNAME .
 8028.reminews.com CNAME .
 802bae6e0e.009c96c8be.com CNAME .
@@ -6373,6 +6384,7 @@
 80d1a5817f.48da4009ba.com CNAME .
 810f3cd649.c9072c600c.com CNAME .
 811d0a760a.ca3362de0f.com CNAME .
+81584ff74e.aed5586e71.com CNAME .
 8218416e47.10cbc8a64e.com CNAME .
 826dfb3390.5dec6805a0.com CNAME .
 82f7858b81.bac23cfb5b.com CNAME .
@@ -6536,11 +6548,14 @@
 922331597f.92245a1d7e.com CNAME .
 9226.reminews.com CNAME .
 925.notify.optimizesrv.com CNAME .
+925690fa92.44a9217f10.com CNAME .
 9275e507cc.db5f3a82ab.com CNAME .
 92d0d73bdc.c50a82a72d.com CNAME .
 930a15e925.f19013235f.com CNAME .
 930e99d001.681ba37858.com CNAME .
 932d007132.ba0182aa75.com CNAME .
+934b09fc12.290411a0c0.com CNAME .
+937feb7da3.b0d2583d75.com CNAME .
 939943e302.1e49ec466f.com CNAME .
 93f9e9c378.0165672dd6.com CNAME .
 93fe0ef153.4f6ac84634.com CNAME .
@@ -6556,11 +6571,11 @@
 985d5b8b8d.9ea1aedf40.com CNAME .
 993.notify.optimizesrv.com CNAME .
 9985849e11.5661361104.com CNAME .
+99c0ae4d8b.2832278cae.com CNAME .
 99ca111363.ba488608ee.com CNAME .
 99ccbf1a87.39f204776a.com CNAME .
 9aeb603608.86c80a0afb.com CNAME .
 9b4147022d.fa3f0c1e3f.com CNAME .
-9be5ab68df.5b955d4c78.com CNAME .
 9c849c70a8.7da3a14504.com CNAME .
 9d17867bcd.4d3278a1fa.com CNAME .
 9d2d87df74.8170a1da9e.com CNAME .
@@ -6634,10 +6649,10 @@ a.redpathmedia.com CNAME .
 a.reryn2ce.com CNAME .
 a.santabrowser.com CNAME .
 a.slice.exchange CNAME .
-a.smut.cc CNAME .
 a.stuffserve.com CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
+a.tixir.xyz CNAME .
 a.tortuko.club CNAME .
 a.totoro2011.xyz CNAME .
 a.unblock2303.xyz CNAME .
@@ -6658,6 +6673,7 @@ a2a56a68ed.a5ca949458.com CNAME .
 a31e4a98f6.b094e3477d.com CNAME .
 a3bbac22a4.eb0f3233fa.com CNAME .
 a3c3ad05bc.560fe03925.com CNAME .
+a42eea462e.5a933d6b67.com CNAME .
 a449722590.b8fd375760.com CNAME .
 a44a25d940.79c13962d1.com CNAME .
 a5235b8266.ad1de41c7f.com CNAME .
@@ -6916,6 +6932,7 @@ b0e16e3a2b.1b264a0ca0.com CNAME .
 b1.hentaibaka.one CNAME .
 b1.maturesexvideos.pro CNAME .
 b114cb3fb9.0083334e84.com CNAME .
+b17f66e540.ce2c208e9f.com CNAME .
 b21c815cab.bb1ba63212.com CNAME .
 b289dc32ce.13d3a1d284.com CNAME .
 b2eacf64fc.530bc37e10.com CNAME .
@@ -6929,6 +6946,7 @@ b4ee9bd1b6.3cbdc47b91.com CNAME .
 b52e4d9b8f.e36699730a.com CNAME .
 b590b8010d.bfda839646.com CNAME .
 b5c8a7e42c.cf204c4d96.com CNAME .
+b64b02b34f.5f450dbe81.com CNAME .
 b726df4f2f.5c58619ab5.com CNAME .
 b7cc0eb404.dc564d181f.com CNAME .
 b81fe5c471.12bf8fb111.com CNAME .
@@ -6943,6 +6961,7 @@ b9e7525021.4d76a0f3a8.com CNAME .
 ba0a4ababc.9f50508b3c.com CNAME .
 ba85457eb5.4f4e1936f7.com CNAME .
 ba8f28d100.43bb528775.com CNAME .
+babc262cfd.1c174d5fe7.com CNAME .
 baboon.ideapotential.com CNAME .
 baboon.naxon.dev CNAME .
 baboon.vacanti.com CNAME .
@@ -6988,6 +7007,7 @@ bd6162b48e.7e7574cea0.com CNAME .
 bd9e6bbcb7.b88af87899.com CNAME .
 bddd.javmilk.org CNAME .
 be.habitueflasque.com CNAME .
+be.jambertarry.com CNAME .
 be26610ca8.634d520205.com CNAME .
 be2e0ae3e5.177c156af9.com CNAME .
 be4ddb29ea.1e397a960b.com CNAME .
@@ -7080,6 +7100,7 @@ butterfly.coverworld.com.au CNAME .
 butterfly.dharsh.dev CNAME .
 butterfly.rfortherestofus.com CNAME .
 buzzard.donotresearch.net CNAME .
+buzzard.ficabo.com.au CNAME .
 buzzard.nimble.team CNAME .
 bx.khedivaormond.com CNAME .
 bx5.tubemaximum.com CNAME .
@@ -7157,6 +7178,7 @@ carp.spotonevent.no CNAME .
 casino.lookinews.com CNAME .
 cat.acesandaros.org CNAME .
 cat.beunitedinchrist.com CNAME .
+cat.chainotate.com CNAME .
 cat.gfx.io CNAME .
 cat.laravel-news.com CNAME .
 cat.lasalturasresort.com CNAME .
@@ -7213,12 +7235,15 @@ cdn.asrop.xyz CNAME .
 cdn.barlo.xyz CNAME .
 cdn.buram.xyz CNAME .
 cdn.cabhwq.com CNAME .
+cdn.cjlph.com CNAME .
+cdn.crsope.com CNAME .
 cdn.decpo.xyz CNAME .
 cdn.drawx.xyz CNAME .
 cdn.eecd.xyz CNAME .
 cdn.eeco.xyz CNAME .
 cdn.falkwo.com CNAME .
 cdn.faspox.com CNAME .
+cdn.fazanppq.com CNAME .
 cdn.fedsy.xyz CNAME .
 cdn.fedykr.com CNAME .
 cdn.fegivja.com CNAME .
@@ -7237,6 +7262,7 @@ cdn.jwalf.com CNAME .
 cdn.karpatzi.com CNAME .
 cdn.luxope.com CNAME .
 cdn.mafyak.com CNAME .
+cdn.masbpi.com CNAME .
 cdn.miluwo.com CNAME .
 cdn.mtinsqq.com CNAME .
 cdn.namol.xyz CNAME .
@@ -7247,17 +7273,21 @@ cdn.nuqwe.com CNAME .
 cdn.olep.xyz CNAME .
 cdn.ovqds.com CNAME .
 cdn.pctv.xyz CNAME .
+cdn.pllah.com CNAME .
 cdn.posawaj.com CNAME .
 cdn.puyjjq.com CNAME .
 cdn.rapolok.com CNAME .
 cdn.rawqel.com CNAME .
 cdn.rgrd.xyz CNAME .
+cdn.sblhp.com CNAME .
 cdn.sdtraff.com CNAME .
 cdn.shakre.com CNAME .
 cdn.shrtfly.vip CNAME .
 cdn.spnut.com CNAME .
 cdn.srxy.xyz CNAME .
+cdn.syinga.com CNAME .
 cdn.track.dark.bz CNAME .
+cdn.ulesxbo.com CNAME .
 cdn.viowrel.com CNAME .
 cdn.wwfx.xyz CNAME .
 cdn.xbcpcn.com CNAME .
@@ -7266,6 +7296,7 @@ cdn1.delii2.art CNAME .
 cdn3.cartoonporn.to CNAME .
 cdn3.hentaihand.com CNAME .
 cdn3.hentaihaven.fun CNAME .
+cdn3.hentok.com CNAME .
 cdn5.cartoonporn.to CNAME .
 cdn5.hentaihaven.fun CNAME .
 ce614db82b.3eb8f81779.com CNAME .
@@ -7283,7 +7314,9 @@ cephalopod.staff.design CNAME .
 cesbr.spinna.store CNAME .
 cf029518ed.f7e5bf5ed8.com CNAME .
 cf16606277.ad399fae94.com CNAME .
+cf6db7e632.43f138e903.com CNAME .
 cf9d46da67.cfcd10eebb.com CNAME .
+cfb573f557.5cd06b6ef4.com CNAME .
 cfbe50299d.8f72931b99.com CNAME .
 ch.hagboatdismast.com CNAME .
 cheetah.gaptry.com CNAME .
@@ -7297,6 +7330,7 @@ chickadee.serverlessfirst.com CNAME .
 chicken.alpla.info CNAME .
 chicken.clerklabs.com CNAME .
 chicken.couleur.io CNAME .
+chicken.redbrushart.com CNAME .
 chicken.tjsoler.dev CNAME .
 chicken.zwei.haus CNAME .
 chimpanzee.designerdailyreport.com CNAME .
@@ -7304,7 +7338,6 @@ chimpanzee.ines-papert.com CNAME .
 chinchilla.68keys.io CNAME .
 chinchilla.christinefontaine.com CNAME .
 chipmunk.brandy.is CNAME .
-chipmunk.pixelko.de CNAME .
 chipmunk.sqltoapi.com CNAME .
 cicada.escapethecorporatecult.com CNAME .
 ck.abdalpaces.com CNAME .
@@ -7475,6 +7508,7 @@ crayfish.thingelstad.com CNAME .
 crocodile.rapid-sale.co.uk CNAME .
 crow.claudiakeil.de CNAME .
 crow.manuel-metzger.com CNAME .
+crow.themarbleking.com CNAME .
 crow.voracious.dev CNAME .
 crumpet.xxxpornhd.pro CNAME .
 cs.cowmankai.com CNAME .
@@ -7517,6 +7551,7 @@ d7c1a8b1e0.d624ca1005.com CNAME .
 d7d3ff30f8.9a63a7ab4d.com CNAME .
 d7e358d70b.806b781310.com CNAME .
 d865b8de6b.a7165aaaf6.com CNAME .
+d899faa8b1.79b1c4498b.com CNAME .
 d8a7b624ba.7db44be9a6.com CNAME .
 d915543852.9970fff461.com CNAME .
 d94ab708df.1f6f6bfb05.com CNAME .
@@ -7527,6 +7562,7 @@ da15b2e6ca.839944c715.com CNAME .
 da37c08c29.36b7ca5028.com CNAME .
 da56f02c2b.fc9115d2c7.com CNAME .
 da5e608394.a306b8f66f.com CNAME .
+daa3665245.cf07a959c7.com CNAME .
 dakqbwpduu.coywolf.io CNAME .
 damselfly.clk.click CNAME .
 damselfly.creativeclick.com.au CNAME .
@@ -7545,6 +7581,7 @@ db80aa073a.b06fcca6fd.com CNAME .
 dba22dcfe9.8d0d35fb77.com CNAME .
 dbs-val.looksmart.com CNAME .
 dc.swartlybeebee.com CNAME .
+dc07ea3538.8cc185db46.com CNAME .
 dc0a0a5645.2685da0b4d.com CNAME .
 dc60cdfad8.d7fd9bace5.com CNAME .
 dca7cef6a8.ab97114bda.com CNAME .
@@ -7681,6 +7718,7 @@ e55899084c.0b73f85f92.com CNAME .
 e58d8a0f08.459bfb9e58.com CNAME .
 e5b0ca5a6b.dc3b671cce.com CNAME .
 e5db381c9f.369c1a9a90.com CNAME .
+e6adc8baa5.007a15696d.com CNAME .
 e700cde1db.5f21e7ac93.com CNAME .
 e7ea10c4af.aa2172c617.com CNAME .
 e7f57f013f.925acd31bd.com CNAME .
@@ -7760,6 +7798,7 @@ engine.gettopple.com CNAME .
 enrgy.fwtrck.com CNAME .
 essential.awmcash.com CNAME .
 est.pornleech.ch CNAME .
+et.furivaeshotman.com CNAME .
 et.harmoutguereza.com CNAME .
 eu.balletsbeep.com CNAME .
 eu.fathomdns.com CNAME .
@@ -7786,10 +7825,12 @@ f3.lookinews.com CNAME .
 f30733b2a2.a9dfcdeee8.com CNAME .
 f32572586e.6207684432.com CNAME .
 f4.lookinews.com CNAME .
+f443620b6f.1493c7cc8b.com CNAME .
 f45dd36ce9.f3234a2c9a.com CNAME .
 f4c54668aa.101c4e5a51.com CNAME .
 f4ca03f9ab.e614a5b887.com CNAME .
 f513b0ebc3.d28dc30335.com CNAME .
+f526711e35.072c4580e8.com CNAME .
 f53773d684.b5942f941d.com CNAME .
 f579989c10.1c09d36b99.com CNAME .
 f5bd24d0ce.a39fa0bea6.com CNAME .
@@ -7813,6 +7854,7 @@ f95b2a532b.e9ea884443.com CNAME .
 f9b09a512c.b44794baad.com CNAME .
 f9fe903432.f8c72280d8.com CNAME .
 fa11552de2.463fca0d34.com CNAME .
+fa21aff8b2.1a714ee67c.com CNAME .
 fa61679cd6.a9fc00b442.com CNAME .
 fa72d443b4.89968199c6.com CNAME .
 fa73d9be9a.44c3576c4d.com CNAME .
@@ -7965,7 +8007,6 @@ filter.datadrives.ai CNAME .
 filter.domains-traffic.com CNAME .
 filter.dtxplatform.net CNAME .
 filter.eclk.club CNAME .
-filter.engageadx.com CNAME .
 filter.eximdigital.com CNAME .
 filter.expialidosius.com CNAME .
 filter.explorads.com CNAME .
@@ -8065,6 +8106,7 @@ fish.muted.io CNAME .
 fish.trampoline.cx CNAME .
 fish.whitney.org CNAME .
 fj.bedrowndaffs.com CNAME .
+fj.cavilerestops.com CNAME .
 fjikgr.dennmart.com CNAME .
 fk.oaklikespiers.com CNAME .
 flamingo.abihome.de CNAME .
@@ -8081,6 +8123,7 @@ fn.deulspoorn.com CNAME .
 fo.irrisoranemone.com CNAME .
 forads.pro CNAME .
 fortran.icu CNAME .
+fowl.saulhardman.com CNAME .
 fox.domainr.com CNAME .
 fox.visionaudiovisual.com CNAME .
 fp.mailerstalons.com CNAME .
@@ -8158,6 +8201,7 @@ goallbest.com CNAME .
 goat.aicontentdojo.com CNAME .
 goat.codeofar.ms CNAME .
 goat.kunalslab.com CNAME .
+goat.purposevisionfuture.com CNAME .
 goat.sigr.li CNAME .
 goat.studiobruikbaar.nl CNAME .
 goat.vrds.app CNAME .
@@ -8397,6 +8441,7 @@ jv.sugaryestrone.com CNAME .
 jw.posiedcaridea.com CNAME .
 jx.yonnersekere.com CNAME .
 jx3.freepornobook.com CNAME .
+k.bloblohub.com CNAME .
 k3.groovinews.com CNAME .
 k6.lookinews.com CNAME .
 k6.tegronews.com CNAME .
@@ -8540,8 +8585,6 @@ lo9.bealanews.com CNAME .
 lo9.lookinews.com CNAME .
 load.jabx.net CNAME .
 load.try-games.com CNAME .
-load.xxxdb.io CNAME .
-load2.xxxdb.io CNAME .
 lobster.dispatch.fm CNAME .
 lobster.jusibe.com CNAME .
 lobster.justunderwear.com CNAME .
@@ -8655,6 +8698,7 @@ main.exosrv.com CNAME .
 main.optimizesrv.com CNAME .
 main.realsrv.com CNAME .
 main0.exosrv.com CNAME .
+maioux.xyz CNAME .
 makumva.all-usanomination.com CNAME .
 mamamia.vintageporno.stream CNAME .
 mammal.autoidle.com CNAME .
@@ -8922,7 +8966,6 @@ parrotfish.wus.immo CNAME .
 partner.80xmedia.com CNAME .
 partner.streetinteractive.com CNAME .
 partners.hourmediagroup.com CNAME .
-partners.madisonminutes.com CNAME .
 partners.seetheworld.com CNAME .
 partridge.flooint.com CNAME .
 pb.shaledpaidle.com CNAME .
@@ -9006,6 +9049,7 @@ pre.ebasos.org CNAME .
 pre.myfuck.club CNAME .
 pre.pornuxaxa.com CNAME .
 pred.7mmtv.top CNAME .
+primate.oleggera.com CNAME .
 primate.productcolors.com CNAME .
 profield.ddns.net CNAME .
 ps.lanzontuareg.com CNAME .
@@ -9066,6 +9110,7 @@ qsdr.mysunnylawn.com CNAME .
 qu.oilsulva.com CNAME .
 quail.trueglowbylaura.com CNAME .
 quelea.igotcha.de CNAME .
+quickzo.xyz CNAME .
 quokka.bulkbuyhosting.com CNAME .
 quokka.curbnumberpro.com CNAME .
 quokka.joshuawood.net CNAME .
@@ -9178,7 +9223,6 @@ rtb-eu.catapultx.com CNAME .
 rtb-eu.convergeselect.net CNAME .
 rtb-eu.creativedot.net CNAME .
 rtb-eu.displayio.cloud CNAME .
-rtb-eu.engageadx.com CNAME .
 rtb-eu.eximdigital.com CNAME .
 rtb-eu.ezmob.com CNAME .
 rtb-eu.fmlabsonline.com CNAME .
@@ -9323,6 +9367,7 @@ rtb-uswest.rtbdemand.com CNAME .
 rtb-uswest.rtbplatform.net CNAME .
 rtb-uswest.rtbserve.io CNAME .
 rtb-uswest.showcasead.com CNAME .
+rtb.ad.guru CNAME .
 rtb.adcy.net CNAME .
 rtb.adjux.com CNAME .
 rtb.adventurefeeds.com CNAME .
@@ -9415,6 +9460,7 @@ s.elnl2a.com CNAME .
 s.elnl2b.com CNAME .
 s.elnn10.com CNAME .
 s.elnn12.com CNAME .
+s.elnn14.com CNAME .
 s.elnn20.com CNAME .
 s.elnn24.com CNAME .
 s.elns4a.com CNAME .
@@ -9465,6 +9511,7 @@ sailfish.lifelines-film.com CNAME .
 sailfish.mastercw.com CNAME .
 sailfish.the-psychedelicatessen.com CNAME .
 sailfish.youracademycommunity.com CNAME .
+sailundu.xyz CNAME .
 salamander.laboucheriebio.com CNAME .
 salamander.showandtelldata.com CNAME .
 salmon.literallife.church CNAME .
@@ -9536,6 +9583,7 @@ silkworm.energizergrouplegal.com CNAME .
 silkworm.preventingsuicideinsussex.org CNAME .
 silkworm.westwoodmbc.org CNAME .
 silverfish.dailybuilds.com CNAME .
+silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
 skink.madewithlove.com CNAME .
 sl.elinvarpayola.com CNAME .
@@ -9580,7 +9628,6 @@ sponsors.floorforce.com CNAME .
 sponsors.macaronikid.com CNAME .
 sponsors.salesforceben.com CNAME .
 sponsors.teethtalkgirl.com CNAME .
-sponsors.thebeat.asia CNAME .
 spoonbill.deknot.io CNAME .
 spyglass.reklamko.pro CNAME .
 sq.volvellurol.com CNAME .
@@ -9964,6 +10011,7 @@ vg.piaroanjust.com CNAME .
 vi.spratstatters.com CNAME .
 vicuna.callisoma.com CNAME .
 vicuna.casa-moebel.at CNAME .
+vicuna.equity.no CNAME .
 vicuna.fortbinary.com CNAME .
 vicuna.joblicant.de CNAME .
 vicuna.mybestproducts.net CNAME .
@@ -9998,6 +10046,7 @@ vtaos.lol CNAME .
 vtaos.xyz CNAME .
 vtaov.lol CNAME .
 vtaov.xyz CNAME .
+vuruzy.xyz CNAME .
 vv.7vid.net CNAME .
 vv.habaerashiksas.com CNAME .
 vv.tensingiseum.com CNAME .
@@ -10028,6 +10077,7 @@ webpush.adventurefeeds.com CNAME .
 webpush.pushub.net CNAME .
 webpush.reachyield.com CNAME .
 webpush.resultsmedia.com CNAME .
+wh.dabbyfather.com CNAME .
 whale.gdebrauwer.dev CNAME .
 whippet.ianglover.com CNAME .
 whippet.madebywil.co CNAME .
@@ -10470,6 +10520,7 @@ www.p123p.com CNAME .
 www.pleasedonotblockme.com CNAME .
 www.popxml.com CNAME .
 www.pornvideos.casa CNAME .
+www.spinna.shop CNAME .
 www.spinna.site CNAME .
 www.spinna.store CNAME .
 www.spinna.xyz CNAME .
@@ -10734,7 +10785,6 @@ xml.ctrtraffic.com CNAME .
 xml.dollopsdigital.com CNAME .
 xml.domains-traffic.com CNAME .
 xml.dtxplatform.net CNAME .
-xml.engageadx.com CNAME .
 xml.eureekkaa.com CNAME .
 xml.eximdigital.com CNAME .
 xml.expialidosius.com CNAME .
@@ -10896,6 +10946,7 @@ ye.coresepyllia.com CNAME .
 yg.coehornjobbet.com CNAME .
 yg.slantedsecno.com CNAME .
 yh.coursgrimace.com CNAME .
+yh.jewelyavoir.com CNAME .
 yhu5tw3mn64.jav-7mmtv.top CNAME .
 yk.dissentsangir.com CNAME .
 yl.calumetjowing.com CNAME .

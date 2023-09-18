@@ -46,6 +46,7 @@
     * tk-petit-bateau.wizaly.com
     * tk-planete-oui-fr.wizaly.com
     * tk-qare-fr.wizaly.com
+    * tk-qobuz-com.wizaly.com
     * tk-rentacar-fr.wizaly.com
     * tk-rimowa-com.wizaly.com
     * tk-salomon-com.wizaly.com
@@ -131,6 +132,7 @@
 | tk.petit-bateau.it | tk-petit-bateau.wizaly.com |
 | tk.planete-oui.fr | tk-planete-oui-fr.wizaly.com |
 | tk.qare.fr | tk-qare-fr.wizaly.com |
+| tk.qobuz.com | tk-qobuz-com.wizaly.com |
 | tk.rentacar.fr | tk-rentacar-fr.wizaly.com |
 | tk.rimowa.com | tk-rimowa-com.wizaly.com |
 | tk.salomon.com | tk-salomon-com.wizaly.com |

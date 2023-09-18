@@ -124,6 +124,7 @@ axjfkc.kobayashi.co.jp CNAME .
 bbbb.goace.jp CNAME .
 beeline.beeline-tire.co.jp CNAME .
 campaign-direct.eisai.jp CNAME .
+campaign-direct.ketsuatsu-taisaku.xyz CNAME .
 ccc.aqualink.tokyo CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.gom-in.com CNAME .
@@ -293,3 +294,4 @@ urr.kumamoto-food.com CNAME .
 www-ebis.384.co.jp CNAME .
 www2.hnavi.co.jp CNAME .
 y8hxgv9m.kobetsu.co.jp CNAME .
+z89yxner8h.datsumou-beauty-times.com CNAME .

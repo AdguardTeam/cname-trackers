@@ -13,12 +13,15 @@
 ||cdn.barlo.xyz^
 ||cdn.buram.xyz^
 ||cdn.cabhwq.com^
+||cdn.cjlph.com^
+||cdn.crsope.com^
 ||cdn.decpo.xyz^
 ||cdn.drawx.xyz^
 ||cdn.eecd.xyz^
 ||cdn.eeco.xyz^
 ||cdn.falkwo.com^
 ||cdn.faspox.com^
+||cdn.fazanppq.com^
 ||cdn.fedsy.xyz^
 ||cdn.fedykr.com^
 ||cdn.fegivja.com^
@@ -37,6 +40,7 @@
 ||cdn.karpatzi.com^
 ||cdn.luxope.com^
 ||cdn.mafyak.com^
+||cdn.masbpi.com^
 ||cdn.miluwo.com^
 ||cdn.mtinsqq.com^
 ||cdn.namol.xyz^
@@ -47,14 +51,18 @@
 ||cdn.olep.xyz^
 ||cdn.ovqds.com^
 ||cdn.pctv.xyz^
+||cdn.pllah.com^
 ||cdn.posawaj.com^
 ||cdn.puyjjq.com^
 ||cdn.rapolok.com^
 ||cdn.rawqel.com^
 ||cdn.rgrd.xyz^
+||cdn.sblhp.com^
 ||cdn.shakre.com^
 ||cdn.spnut.com^
 ||cdn.srxy.xyz^
+||cdn.syinga.com^
+||cdn.ulesxbo.com^
 ||cdn.viowrel.com^
 ||cdn.wwfx.xyz^
 ||cdn.xbcpcn.com^
@@ -193,6 +201,7 @@
 ||butterfly.dharsh.dev^
 ||butterfly.rfortherestofus.com^
 ||buzzard.donotresearch.net^
+||buzzard.ficabo.com.au^
 ||buzzard.nimble.team^
 ||camel.gastro-plan.app^
 ||camel.nonpopularopinion.com^
@@ -220,6 +229,7 @@
 ||carp.spotonevent.no^
 ||cat.acesandaros.org^
 ||cat.beunitedinchrist.com^
+||cat.chainotate.com^
 ||cat.gfx.io^
 ||cat.laravel-news.com^
 ||cat.lasalturasresort.com^
@@ -267,6 +277,7 @@
 ||chicken.alpla.info^
 ||chicken.clerklabs.com^
 ||chicken.couleur.io^
+||chicken.redbrushart.com^
 ||chicken.tjsoler.dev^
 ||chicken.zwei.haus^
 ||chimpanzee.designerdailyreport.com^
@@ -274,7 +285,6 @@
 ||chinchilla.68keys.io^
 ||chinchilla.christinefontaine.com^
 ||chipmunk.brandy.is^
-||chipmunk.pixelko.de^
 ||chipmunk.sqltoapi.com^
 ||cicada.escapethecorporatecult.com^
 ||clam.figmachina.com^
@@ -315,6 +325,7 @@
 ||crocodile.rapid-sale.co.uk^
 ||crow.claudiakeil.de^
 ||crow.manuel-metzger.com^
+||crow.themarbleking.com^
 ||crow.voracious.dev^
 ||cuckoo.clientrock.app^
 ||cuckoo.cult.supply^
@@ -427,6 +438,7 @@
 ||flyingfish.agilehedges.com^
 ||flyingfish.cloudqigong.com^
 ||flyingfish.editorslab.de^
+||fowl.saulhardman.com^
 ||fox.domainr.com^
 ||fox.visionaudiovisual.com^
 ||frog.jamesbliss.com^
@@ -453,6 +465,7 @@
 ||goat.aicontentdojo.com^
 ||goat.codeofar.ms^
 ||goat.kunalslab.com^
+||goat.purposevisionfuture.com^
 ||goat.sigr.li^
 ||goat.studiobruikbaar.nl^
 ||goat.vrds.app^
@@ -810,6 +823,7 @@
 ||prawn.fffuel.co^
 ||prawn.lionsmouth.digital^
 ||prawn.samgarson.com^
+||primate.oleggera.com^
 ||primate.productcolors.com^
 ||ptarmigan.bridal-hair-and-accessories-now.com^
 ||ptarmigan.codebycorey.com^
@@ -888,6 +902,7 @@
 ||silkworm.preventingsuicideinsussex.org^
 ||silkworm.westwoodmbc.org^
 ||silverfish.dailybuilds.com^
+||silverfish.djordjevanjek.com^
 ||skink.asorman.io^
 ||skink.madewithlove.com^
 ||sloth.goodtendency.app^
@@ -1003,6 +1018,7 @@
 ||vampirebat.tinamrak.com^
 ||vicuna.callisoma.com^
 ||vicuna.casa-moebel.at^
+||vicuna.equity.no^
 ||vicuna.fortbinary.com^
 ||vicuna.joblicant.de^
 ||vicuna.mybestproducts.net^
@@ -1063,7 +1079,6 @@
 ||kitt.tucsonsentinel.com^
 ||partner.streetinteractive.com^
 ||partners.hourmediagroup.com^
-||partners.madisonminutes.com^
 ||partners.seetheworld.com^
 ||saucon-sponsors.streetinteractive.com^
 ||sponsor-v2.lebtown.com^
@@ -1076,7 +1091,6 @@
 ||sponsors.macaronikid.com^
 ||sponsors.salesforceben.com^
 ||sponsors.teethtalkgirl.com^
-||sponsors.thebeat.asia^
 ||adserve.bongocdn.com^
 ||assets.diagomics.com^
 ||bcdn.cpmstar.com^

@@ -75,6 +75,7 @@ analytics.ovative.com
 analytics.polaris.com
 analytics.syf.com
 analytics.synchrony.com
+analytics.synchronyannualreport.com
 analytics.synchronybank.com
 analytics.synchronybusiness.com
 analytics.synchronycareers.com
@@ -326,6 +327,7 @@ tms-test.nab.com.au
 tms.americanexpress.com
 tms.betway.com
 tms.betwaysatta.com
+tms.betwaysatta1.com
 tms.capitalone.com
 tms.delta.com
 tms.experian.com

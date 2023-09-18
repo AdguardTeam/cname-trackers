@@ -112,6 +112,7 @@ tk.petit-bateau.it CNAME .
 tk.planete-oui.fr CNAME .
 tk.prismashop.fr CNAME .
 tk.qare.fr CNAME .
+tk.qobuz.com CNAME .
 tk.rentacar.fr CNAME .
 tk.rimowa.com CNAME .
 tk.salomon.com CNAME .

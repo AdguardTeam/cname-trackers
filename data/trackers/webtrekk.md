@@ -415,6 +415,7 @@
 | text.mitarbeiterangebote.de | cbm02.webtrekk.net |
 | text.benefitsatwork.be | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.ch | corporate-benefits.wt-eu02.net |
+| text.benefitsatwork.pl | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.pt | corporate-benefits.wt-eu02.net |
 | text.convenzioniaziendali.it | corporate-benefits.wt-eu02.net |
 | text.mitarbeiterangebote.at | corporate-benefits.wt-eu02.net |

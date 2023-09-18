@@ -145,6 +145,7 @@ p.classroombookings.com
 p.ejs.dev
 p.fairspot.host
 p.ianmjones.com
+p.iforge.app
 p.logbox.io
 p.marqueplace.com
 p.meilentrio.de
@@ -207,7 +208,6 @@ plausible.alexandar.me
 plausible.alpaga.io
 plausible.app.kdojang.com
 plausible.app.tlschedule.com
-plausible.as207960.net
 plausible.bablab.com
 plausible.bacanalia.net
 plausible.baychi.org
@@ -228,7 +228,6 @@ plausible.deploymentfromscratch.com
 plausible.dev.logicboard.com
 plausible.doberman.co
 plausible.doctave.com
-plausible.edu-focus.org
 plausible.ejs.dev
 plausible.eurostocks.nl
 plausible.exploreandcreate.com
@@ -261,6 +260,7 @@ plausible.mattpruitt.com
 plausible.mcj.co
 plausible.myvirtualsuper.com
 plausible.nickmazuk.com
+plausible.nmyvsn.net
 plausible.nova.app
 plausible.nuqu.org
 plausible.panic.com
@@ -278,6 +278,7 @@ plausible.regex.help
 plausible.sbw.org
 plausible.shadygrovepca.org
 plausible.simplelogin.io
+plausible.srijn.net
 plausible.starlegacyfoundation.org
 plausible.strzibny.name
 plausible.sysloun.cz
@@ -346,15 +347,12 @@ sats.mailbrew.com
 see.wasteorshare.com
 server.japanbyrivercruise.com
 server.olliehorn.com
-sherlock.nicolabigwood.uk
 site-stats.supernotes.app
 sp.gameomatic.fr
 sp.jrklein.com
 sp.soniccares.com
 sp.spaceomatic.fr
 sp.wvoil.com
-spock.dom.codes
-spock.domjtalbot.codes
 st.anastasija.lt
 st.picshuffle.com
 st.preciousamber.com
@@ -368,7 +366,6 @@ static.osalta.eu
 statistic.jac-systeme.de
 statistics.heatbeat.de
 statistik.apartments-tirolerhaus.at
-stats-xavie.mirmon.co.uk
 stats.45rpm.ch
 stats.50x.ca
 stats.69grad.de
@@ -378,7 +375,6 @@ stats.activityvault.io
 stats.adlperformance.es
 stats.airtrafik.com
 stats.aixbrain.de
-stats.akd.io
 stats.albert-kropp-gmbh.de
 stats.alibhai.co
 stats.aligncoaching.ca
@@ -395,6 +391,7 @@ stats.arma.coffee
 stats.arquido.com
 stats.artisansfiables.fr
 stats.artistchristinacarmel.com
+stats.asmodee.net
 stats.astrr.ru
 stats.asymptotic.io
 stats.auto-dombrowski.de
@@ -519,7 +516,6 @@ stats.dmarcdigests.com
 stats.doana-r.com
 stats.domhabersack.com
 stats.doors.live
-stats.dotnetfromthemountain.com
 stats.dotnetos.org
 stats.dotplan.io
 stats.doublejones.com
@@ -617,7 +613,6 @@ stats.hexdocs.pm
 stats.hey.com
 stats.hey.science
 stats.hhpro.net
-stats.hippocraticregistry.com
 stats.homepage-2021.askmiso-dev.com
 stats.homerdixon.com
 stats.homestow.com
@@ -664,7 +659,6 @@ stats.jerickson.net
 stats.jhsheridan.com
 stats.jjude.com
 stats.joaopedro.dev
-stats.johnpatrick.ca
 stats.jonatanalvarsson.se
 stats.jpc.dev
 stats.jsbible.com
@@ -674,7 +668,6 @@ stats.juniperslab.com
 stats.justinwilliams.ca
 stats.jvhellemond.nl
 stats.kaladyaudiology.com
-stats.kalkulatordniroboczych.pl
 stats.kambr.io
 stats.katharinascheitz.com
 stats.keirwhitaker.com
@@ -685,6 +678,7 @@ stats.klj-consult.com
 stats.knowkit.cloud
 stats.kod.ru
 stats.koehrer.de
+stats.koerner-logopaedie.de
 stats.kongressen.com
 stats.krauss.io
 stats.kruimel-dief.nl
@@ -739,16 +733,17 @@ stats.matthogg.fyi
 stats.maximaconsulting.xyz
 stats.meetnfly.com
 stats.mein-futterlexikon.org
+stats.memberdrive.org
 stats.meno.science
 stats.mesenvies.fr
 stats.michaeloliver.dev
-stats.migrantworker.ca
 stats.missionrabies.com
 stats.motion-effect.com
 stats.motorcyclepartsireland.ie
 stats.mrtnvh.com
 stats.multiplelenses.com
 stats.multiply.cloud
+stats.muziekmobiel.net
 stats.myherocard.com
 stats.napaconnect.ca
 stats.navedislam.com
@@ -791,7 +786,6 @@ stats.pasteapp.io
 stats.pastorwagner.com
 stats.patout.dev
 stats.patriot.win
-stats.paulmcgrath.me
 stats.paulronge.se
 stats.paypresto.co
 stats.paysagistes.pro
@@ -816,6 +810,7 @@ stats.pointflottant.com
 stats.polekatfitness.com
 stats.poochplaces.dog
 stats.postcollectors.com
+stats.poweringpastcoal.org
 stats.preeventualist.org
 stats.pri.org
 stats.pricewell.io
@@ -843,6 +838,7 @@ stats.reisemobil.pro
 stats.remotebear.io
 stats.reprage.com
 stats.respkt.de
+stats.retofunctional.com
 stats.retro.cz
 stats.revitfamily.app
 stats.rideinpeace.ie
@@ -898,14 +894,15 @@ stats.strawberry.rocks
 stats.studypages.com
 stats.sublimesecurity.com
 stats.suenicholls.com
+stats.suggestedit.com
 stats.suniboy.com
 stats.sunpeaksstables.com
 stats.sushibyte.io
 stats.svemir.co
 stats.symbiofest.cz
 stats.table.party
-stats.tablepeninsula.ca
 stats.tarasyarema.com
+stats.teamdetails.com
 stats.tedserbinski.com
 stats.teenranch.com
 stats.tekin.co.uk
@@ -927,6 +924,7 @@ stats.tinkerer.tools
 stats.tl8.io
 stats.tms-development.com
 stats.tms-development.de
+stats.tms-institut.de
 stats.toiletmap.org.uk
 stats.torquaypac.ca
 stats.training.fit
@@ -956,7 +954,6 @@ stats.voltamediahouse.com
 stats.wachstum.at
 stats.wafflemeido.art
 stats.walkiees.co.uk
-stats.wavepointconsulting.ca
 stats.websnap.app
 stats.wecodeni.com
 stats.wellbeyond.com

@@ -286,7 +286,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -400,6 +399,7 @@
     * plush-beds.extole.io
     * policygenius.extole.io
     * popcorn-factory.extole.io
+    * pottery-barn-kids.extole.io
     * pottery-barn.extole.io
     * princess.extole.io
     * princessuk.extole.io
@@ -562,7 +562,6 @@
 | share.affinityfcu.org | affinityfcu.extole.io |
 | share.ahs.com | ahs-proconnect.extole.io |
 | refer.ahsfriends.com | ahs.extole.com |
-| refer.algaecal.com | algaecal.extole.io |
 | share.algaecal.com | algaecal.extole.io |
 | refer.allenedmonds.com | allenedmonds.extole.io |
 | share.allincu.com | allincu.extole.io |
@@ -810,7 +809,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -980,6 +978,7 @@
 | refer.plushbeds.com | plush-beds.extole.io |
 | share.policygenius.com | policygenius.extole.io |
 | refer.thepopcornfactory.com | popcorn-factory.extole.io |
+| refer.potterybarnkids.com | pottery-barn-kids.extole.io |
 | refer.potterybarn.com | pottery-barn.extole.io |
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |

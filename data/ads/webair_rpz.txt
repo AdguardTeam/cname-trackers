@@ -246,7 +246,6 @@ filter.datadrives.ai CNAME .
 filter.domains-traffic.com CNAME .
 filter.dtxplatform.net CNAME .
 filter.eclk.club CNAME .
-filter.engageadx.com CNAME .
 filter.eximdigital.com CNAME .
 filter.expialidosius.com CNAME .
 filter.explorads.com CNAME .
@@ -501,7 +500,6 @@ rtb-eu.catapultx.com CNAME .
 rtb-eu.convergeselect.net CNAME .
 rtb-eu.creativedot.net CNAME .
 rtb-eu.displayio.cloud CNAME .
-rtb-eu.engageadx.com CNAME .
 rtb-eu.eximdigital.com CNAME .
 rtb-eu.ezmob.com CNAME .
 rtb-eu.fmlabsonline.com CNAME .
@@ -1046,7 +1044,6 @@ xml.ctrtraffic.com CNAME .
 xml.dollopsdigital.com CNAME .
 xml.domains-traffic.com CNAME .
 xml.dtxplatform.net CNAME .
-xml.engageadx.com CNAME .
 xml.eureekkaa.com CNAME .
 xml.eximdigital.com CNAME .
 xml.expialidosius.com CNAME .

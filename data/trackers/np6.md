@@ -82,6 +82,7 @@
 | tr.asp1098.espmp-cufr.net | tracking.bp01.net |
 | tr.asp109c.espmp-aufr.net | tracking.bp01.net |
 | tr.asp109y.espmp-agfr.net | tracking.bp01.net |
+| tr.asp10a7.espmp-aufr.net | tracking.bp01.net |
 | tr.asp10ai.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ar.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10bs.espmp-aufr.net | tracking.bp01.net |
@@ -91,6 +92,7 @@
 | tr.asp10cr.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10d7.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10de.espmp-agfr.net | tracking.bp01.net |
+| tr.asp10df.espmp-agfr.net | tracking.bp01.net |
 | tr.asp10dq.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10dx.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ea.espmp-nifr.net | tracking.bp01.net |
@@ -118,6 +120,7 @@
 | tr.asp2070.espmp-aufr.net | tracking.bp01.net |
 | tr.asp2075.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2076.espmp-pofr.net | tracking.bp01.net |
+| tr.asp2077.espmp-nifr.net | tracking.bp01.net |
 | tr.asp2078.espmp-nifr.net | tracking.bp01.net |
 | tr.asp207e.espmp-nifr.net | tracking.bp01.net |
 | tr.assoc.cfsr-retine.com | tracking.bp01.net |
@@ -132,6 +135,7 @@
 | tr.bati-partners.be | tracking.bp01.net |
 | tr.batirenover.info | tracking.bp01.net |
 | tr.batiweb.co | tracking.bp01.net |
+| tr.bel-pros.be | tracking.bp01.net |
 | tr.bern.espmp-nifr.net | tracking.bp01.net |
 | tr.bgl.premium-benefits.lu | tracking.bp01.net |
 | tr.bienvenue.envie-de-bien-manger.com | tracking.bp01.net |
@@ -374,6 +378,7 @@
 | tr.entreprise-pro.info | tracking.bp01.net |
 | tr.entreprise.axa.fr | tracking.bp01.net |
 | tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
+| tr.eqs.cpam67.net | tracking.bp01.net |
 | tr.ere.emailing.bnpparibas | tracking.bp01.net |
 | tr.estatesandwines.moethennessy.com | tracking.bp01.net |
 | tr.etravauxpro.fr | tracking.bp01.net |
@@ -849,7 +854,6 @@
 | tr.nl.services-sncf.com | tracking.bp01.net |
 | tr.nl2.sncf-fidelite.com | tracking.bp01.net |
 | tr.nmcm.espmp-cufr.net | tracking.bp01.net |
-| tr.notification-gdpr.bnpparibas-personalfinance.fr | tracking.bp01.net |
 | tr.notification-gdpr.bnpparibas-pf.fr | tracking.bp01.net |
 | tr.notification-gdpr.cafineo.fr | tracking.bp01.net |
 | tr.notification-gdpr.cofica.fr | tracking.bp01.net |
@@ -931,7 +935,6 @@
 | tr.quotes4business.info | tracking.bp01.net |
 | tr.quotesforbusiness.cl | tracking.bp01.net |
 | tr.quotesforbusiness.co.uk | tracking.bp01.net |
-| tr.ra.cofinoga.fr | tracking.bp01.net |
 | tr.ratm.espmp-agfr.net | tracking.bp01.net |
 | tr.raym.espmp-agfr.net | tracking.bp01.net |
 | tr.reactivation.vertbaudet.fr | tracking.bp01.net |
@@ -961,6 +964,7 @@
 | tr.service.linxea.com | tracking.bp01.net |
 | tr.serviceclient.adagcaladoise.fr | tracking.bp01.net |
 | tr.serviceclient.bf-depannage.fr | tracking.bp01.net |
+| tr.serviceclient.confogaz.com | tracking.bp01.net |
 | tr.serviceclient.depanchauffageservice.fr | tracking.bp01.net |
 | tr.serviceclient.effica-service.fr | tracking.bp01.net |
 | tr.serviceclient.explore.fr | tracking.bp01.net |

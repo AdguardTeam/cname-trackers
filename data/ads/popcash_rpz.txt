@@ -13,12 +13,15 @@ cdn.asrop.xyz CNAME .
 cdn.barlo.xyz CNAME .
 cdn.buram.xyz CNAME .
 cdn.cabhwq.com CNAME .
+cdn.cjlph.com CNAME .
+cdn.crsope.com CNAME .
 cdn.decpo.xyz CNAME .
 cdn.drawx.xyz CNAME .
 cdn.eecd.xyz CNAME .
 cdn.eeco.xyz CNAME .
 cdn.falkwo.com CNAME .
 cdn.faspox.com CNAME .
+cdn.fazanppq.com CNAME .
 cdn.fedsy.xyz CNAME .
 cdn.fedykr.com CNAME .
 cdn.fegivja.com CNAME .
@@ -37,6 +40,7 @@ cdn.jwalf.com CNAME .
 cdn.karpatzi.com CNAME .
 cdn.luxope.com CNAME .
 cdn.mafyak.com CNAME .
+cdn.masbpi.com CNAME .
 cdn.miluwo.com CNAME .
 cdn.mtinsqq.com CNAME .
 cdn.namol.xyz CNAME .
@@ -47,14 +51,18 @@ cdn.nuqwe.com CNAME .
 cdn.olep.xyz CNAME .
 cdn.ovqds.com CNAME .
 cdn.pctv.xyz CNAME .
+cdn.pllah.com CNAME .
 cdn.posawaj.com CNAME .
 cdn.puyjjq.com CNAME .
 cdn.rapolok.com CNAME .
 cdn.rawqel.com CNAME .
 cdn.rgrd.xyz CNAME .
+cdn.sblhp.com CNAME .
 cdn.shakre.com CNAME .
 cdn.spnut.com CNAME .
 cdn.srxy.xyz CNAME .
+cdn.syinga.com CNAME .
+cdn.ulesxbo.com CNAME .
 cdn.viowrel.com CNAME .
 cdn.wwfx.xyz CNAME .
 cdn.xbcpcn.com CNAME .
@@ -193,6 +201,7 @@ butterfly.coverworld.com.au CNAME .
 butterfly.dharsh.dev CNAME .
 butterfly.rfortherestofus.com CNAME .
 buzzard.donotresearch.net CNAME .
+buzzard.ficabo.com.au CNAME .
 buzzard.nimble.team CNAME .
 camel.gastro-plan.app CNAME .
 camel.nonpopularopinion.com CNAME .
@@ -220,6 +229,7 @@ carp.pbncontent.com CNAME .
 carp.spotonevent.no CNAME .
 cat.acesandaros.org CNAME .
 cat.beunitedinchrist.com CNAME .
+cat.chainotate.com CNAME .
 cat.gfx.io CNAME .
 cat.laravel-news.com CNAME .
 cat.lasalturasresort.com CNAME .
@@ -267,6 +277,7 @@ chickadee.serverlessfirst.com CNAME .
 chicken.alpla.info CNAME .
 chicken.clerklabs.com CNAME .
 chicken.couleur.io CNAME .
+chicken.redbrushart.com CNAME .
 chicken.tjsoler.dev CNAME .
 chicken.zwei.haus CNAME .
 chimpanzee.designerdailyreport.com CNAME .
@@ -274,7 +285,6 @@ chimpanzee.ines-papert.com CNAME .
 chinchilla.68keys.io CNAME .
 chinchilla.christinefontaine.com CNAME .
 chipmunk.brandy.is CNAME .
-chipmunk.pixelko.de CNAME .
 chipmunk.sqltoapi.com CNAME .
 cicada.escapethecorporatecult.com CNAME .
 clam.figmachina.com CNAME .
@@ -315,6 +325,7 @@ crayfish.thingelstad.com CNAME .
 crocodile.rapid-sale.co.uk CNAME .
 crow.claudiakeil.de CNAME .
 crow.manuel-metzger.com CNAME .
+crow.themarbleking.com CNAME .
 crow.voracious.dev CNAME .
 cuckoo.clientrock.app CNAME .
 cuckoo.cult.supply CNAME .
@@ -427,6 +438,7 @@ fly.foggybottomfarm.org CNAME .
 flyingfish.agilehedges.com CNAME .
 flyingfish.cloudqigong.com CNAME .
 flyingfish.editorslab.de CNAME .
+fowl.saulhardman.com CNAME .
 fox.domainr.com CNAME .
 fox.visionaudiovisual.com CNAME .
 frog.jamesbliss.com CNAME .
@@ -453,6 +465,7 @@ giraffe.viatorci.com CNAME .
 goat.aicontentdojo.com CNAME .
 goat.codeofar.ms CNAME .
 goat.kunalslab.com CNAME .
+goat.purposevisionfuture.com CNAME .
 goat.sigr.li CNAME .
 goat.studiobruikbaar.nl CNAME .
 goat.vrds.app CNAME .
@@ -810,6 +823,7 @@ prairiedog.hashnode.com CNAME .
 prawn.fffuel.co CNAME .
 prawn.lionsmouth.digital CNAME .
 prawn.samgarson.com CNAME .
+primate.oleggera.com CNAME .
 primate.productcolors.com CNAME .
 ptarmigan.bridal-hair-and-accessories-now.com CNAME .
 ptarmigan.codebycorey.com CNAME .
@@ -888,6 +902,7 @@ silkworm.energizergrouplegal.com CNAME .
 silkworm.preventingsuicideinsussex.org CNAME .
 silkworm.westwoodmbc.org CNAME .
 silverfish.dailybuilds.com CNAME .
+silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
 skink.madewithlove.com CNAME .
 sloth.goodtendency.app CNAME .
@@ -1003,6 +1018,7 @@ vampirebat.stiftung-palliativ-zuhause.de CNAME .
 vampirebat.tinamrak.com CNAME .
 vicuna.callisoma.com CNAME .
 vicuna.casa-moebel.at CNAME .
+vicuna.equity.no CNAME .
 vicuna.fortbinary.com CNAME .
 vicuna.joblicant.de CNAME .
 vicuna.mybestproducts.net CNAME .
@@ -1063,7 +1079,6 @@ carlsonmedia.streetinteractive.com CNAME .
 kitt.tucsonsentinel.com CNAME .
 partner.streetinteractive.com CNAME .
 partners.hourmediagroup.com CNAME .
-partners.madisonminutes.com CNAME .
 partners.seetheworld.com CNAME .
 saucon-sponsors.streetinteractive.com CNAME .
 sponsor-v2.lebtown.com CNAME .
@@ -1076,7 +1091,6 @@ sponsors.floorforce.com CNAME .
 sponsors.macaronikid.com CNAME .
 sponsors.salesforceben.com CNAME .
 sponsors.teethtalkgirl.com CNAME .
-sponsors.thebeat.asia CNAME .
 adserve.bongocdn.com CNAME .
 assets.diagomics.com CNAME .
 bcdn.cpmstar.com CNAME .

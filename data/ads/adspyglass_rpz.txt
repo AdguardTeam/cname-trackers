@@ -90,9 +90,9 @@ a.pornhex.com CNAME .
 a.pumpity.net CNAME .
 a.rafian.com CNAME .
 a.reryn2ce.com CNAME .
-a.smut.cc CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
+a.tixir.xyz CNAME .
 a.tortuko.club CNAME .
 a.totoro2011.xyz CNAME .
 a.unblock2303.xyz CNAME .
@@ -260,6 +260,7 @@ cdn1.delii2.art CNAME .
 cdn3.cartoonporn.to CNAME .
 cdn3.hentaihand.com CNAME .
 cdn3.hentaihaven.fun CNAME .
+cdn3.hentok.com CNAME .
 cdn5.cartoonporn.to CNAME .
 cdn5.hentaihaven.fun CNAME .
 cesbr.spinna.store CNAME .
@@ -397,6 +398,7 @@ js.mangapro.top CNAME .
 js.phoenixmanga.com CNAME .
 js.xemkqxs.com CNAME .
 jx3.freepornobook.com CNAME .
+k.bloblohub.com CNAME .
 kembuck.homes CNAME .
 ken9.lol CNAME .
 kena9.mom CNAME .
@@ -418,14 +420,13 @@ lengtikto.xyz CNAME .
 lixir.wargers.org CNAME .
 load.jabx.net CNAME .
 load.try-games.com CNAME .
-load.xxxdb.io CNAME .
-load2.xxxdb.io CNAME .
 lol.globlax.com CNAME .
 losa.mkace.net CNAME .
 lx5.homeporntuber.com CNAME .
 m.x-power.info CNAME .
 m.xrum.info CNAME .
 m9xp1.hentaigold.net CNAME .
+maioux.xyz CNAME .
 makumva.all-usanomination.com CNAME .
 mamamia.vintageporno.stream CNAME .
 mangoga.xyz CNAME .
@@ -552,6 +553,7 @@ qhip.com CNAME .
 qoqv.com CNAME .
 qoutec.shop CNAME .
 qsdr.mysunnylawn.com CNAME .
+quickzo.xyz CNAME .
 qx0.xnxxtubevideos.com CNAME .
 r.archertube.com CNAME .
 r.erohabu.com CNAME .
@@ -571,6 +573,7 @@ s.remonti.org CNAME .
 s1sentablya.teenfuckhd.com CNAME .
 s2.everydaygayporn.com CNAME .
 s4.sb89347.com CNAME .
+sailundu.xyz CNAME .
 sameplace.lol CNAME .
 sanbox.mom CNAME .
 sape.ngumaz.com CNAME .
@@ -655,6 +658,7 @@ vtaos.lol CNAME .
 vtaos.xyz CNAME .
 vtaov.lol CNAME .
 vtaov.xyz CNAME .
+vuruzy.xyz CNAME .
 vv.7vid.net CNAME .
 vz.7vid.net CNAME .
 w00t.us CNAME .
@@ -676,6 +680,7 @@ www.letstry69.xyz CNAME .
 www.p123p.com CNAME .
 www.pleasedonotblockme.com CNAME .
 www.pornvideos.casa CNAME .
+www.spinna.shop CNAME .
 www.spinna.site CNAME .
 www.spinna.store CNAME .
 www.spinna.xyz CNAME .

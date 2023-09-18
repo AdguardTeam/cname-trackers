@@ -54,7 +54,6 @@
     * h-6a6y6kka.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
     * h-6i24djkv.online-metrix.net
-    * h-6jfhwoo3.online-metrix.net
     * h-6mlhprq2-a.online-metrix.net
     * h-6mlhprq2.online-metrix.net
     * h-6rj18la4.online-metrix.net
@@ -94,6 +93,7 @@
     * h-96ch0zc2.online-metrix.net
     * h-9bkavv7r.online-metrix.net
     * h-9ivuwf8u.online-metrix.net
+    * h-9kqz9786.online-metrix.net
     * h-9yw99lm5.online-metrix.net
     * h-9zzsit89.online-metrix.net
     * h-a4nx1etl.online-metrix.net
@@ -118,7 +118,6 @@
     * h-analytics.triseptsolutions.online-metrix.net
     * h-anfd5tjw-2.online-metrix.net
     * h-anfd5tjw-3.online-metrix.net
-    * h-anofdct2-hr.online-metrix.net
     * h-anzonlineapps.online-metrix.net
     * h-api-sb.online-metrix.net
     * h-apruvd.online-metrix.net
@@ -258,6 +257,7 @@
     * h-coombeus1.online-metrix.net
     * h-coutts.online-metrix.net
     * h-couttscrowndependencies.online-metrix.net
+    * h-covantage.online-metrix.net
     * h-cox.online-metrix.net
     * h-cpsqwxyc.online-metrix.net
     * h-cpuoahbo.online-metrix.net
@@ -614,6 +614,7 @@
     * h-v60nf4oj-rfp.online-metrix.net
     * h-v60nf4oj-sfp.online-metrix.net
     * h-v60nf4oj-tfp.online-metrix.net
+    * h-v60nf4oj-ufp.online-metrix.net
     * h-v60nf4oj-vfp.online-metrix.net
     * h-v60nf4oj-wfp.online-metrix.net
     * h-v60nf4oj-xfp.online-metrix.net
@@ -704,6 +705,7 @@
 | prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sfcupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sfcutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-travis.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-tvfcuwy.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-uecupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-uiccuil.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -771,7 +773,6 @@
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
 | cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
-| lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
 | tblsdp.staging.tonybet.ca | h-6mlhprq2-a.online-metrix.net |
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
@@ -819,6 +820,7 @@
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
+| contendvc.cnouyi.pizza | h-9kqz9786.online-metrix.net |
 | dvc0271.play.jackpocket.com | h-9yw99lm5.online-metrix.net |
 | tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
@@ -860,7 +862,6 @@
 | static.sb-cdn.io | h-anfd5tjw-2.online-metrix.net |
 | static.bc-cdn.io | h-anfd5tjw-3.online-metrix.net |
 | static.yg-cdn.io | h-anfd5tjw-3.online-metrix.net |
-| tm.moneyhub.hrblock.com.au | h-anofdct2-hr.online-metrix.net |
 | onlineapplications.anz.com | h-anzonlineapps.online-metrix.net |
 | cdn3.moneycorp.com | h-api-sb.online-metrix.net |
 | content.apruvd.com | h-apruvd.online-metrix.net |
@@ -1038,6 +1039,7 @@
 | img.lascana.nl | h-coombeus1.online-metrix.net |
 | pn1927.coutts.com | h-coutts.online-metrix.net |
 | pn1927.couttscrowndependencies.com | h-couttscrowndependencies.online-metrix.net |
+| content.covantagecu.org | h-covantage.online-metrix.net |
 | tm.cox.com | h-cox.online-metrix.net |
 | threatmetrix.lendingclub.com | h-cpsqwxyc.online-metrix.net |
 | rhino.gocardless.com | h-cpuoahbo.online-metrix.net |
@@ -1539,6 +1541,7 @@
 | rfp.intuit.com | h-v60nf4oj-rfp.online-metrix.net |
 | sfp.intuit.com | h-v60nf4oj-sfp.online-metrix.net |
 | tfp.intuit.com | h-v60nf4oj-tfp.online-metrix.net |
+| ufp.intuit.com | h-v60nf4oj-ufp.online-metrix.net |
 | vfp.intuit.com | h-v60nf4oj-vfp.online-metrix.net |
 | wfp.intuit.com | h-v60nf4oj-wfp.online-metrix.net |
 | xfp.intuit.com | h-v60nf4oj-xfp.online-metrix.net |
@@ -1583,6 +1586,7 @@
 | images.sheetzadvantage.com | h-wrightexpress.online-metrix.net |
 | images.sunocofleetcards.com | h-wrightexpress.online-metrix.net |
 | images.wexinc.com | h-wrightexpress.online-metrix.net |
+| images.wrightexpress.com | h-wrightexpress.online-metrix.net |
 | tmx.efsllc.com | h-wrightexpress.online-metrix.net |
 | tmx.prod.efsllc.com | h-wrightexpress.online-metrix.net |
 | tmx.tchek.com | h-wrightexpress.online-metrix.net |

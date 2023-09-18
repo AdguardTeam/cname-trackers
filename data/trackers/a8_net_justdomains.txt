@@ -94,6 +94,7 @@ a8.form.run
 a8.fots.jp
 a8.fracora.com
 a8.freeconsultant.btcagent.jp
+a8.freeengineer.btcagent.jp
 a8.fujiorganics.com
 a8.fxism.jp
 a8.gaichu-taiji.com
@@ -153,6 +154,7 @@ a8.lavie-official.jp
 a8.learning.agaroot.jp
 a8.lens-labo.com
 a8.lens-ocean.com
+a8.liver-rhythm.jp
 a8.looom.jp
 a8.looop-denki.com
 a8.lwa-coating.com
@@ -293,6 +295,7 @@ a8.williesenglish.jp
 a8.wizrecruitment.012grp.co.jp
 a8.worldikids.com
 a8.www.melonbooks.co.jp
+a8.www.nicosuma.com
 a8.www.retrospect.co.jp
 a8.www.smart-factor.co.jp
 a8.xn--y8jd4aybzqd.jp
@@ -523,6 +526,7 @@ a8clk.radianne.jp
 a8clk.rarejob.com
 a8clk.rdlp.jp
 a8clk.recycle-net.jp
+a8clk.rei-book.com
 a8clk.rental.geo-online.co.jp
 a8clk.reserve.retty.me
 a8clk.resortbaito-dive.com
@@ -736,6 +740,7 @@ a8cv.dreamchance.net
 a8cv.drsoie.com
 a8cv.dsc-nightstore.com
 a8cv.dshu.jp
+a8cv.duo.jp
 a8cv.e-3shop.com
 a8cv.e-3x.jp
 a8cv.e-d-v-j.co.jp
@@ -767,6 +772,7 @@ a8cv.folio-sec.com
 a8cv.foresight.jp
 a8cv.forza-gran.com
 a8cv.fots.jp
+a8cv.fp-life.design
 a8cv.frecious.jp
 a8cv.freeks-japan.com
 a8cv.fujiplus.jp
@@ -837,6 +843,7 @@ a8cv.join-tech.jp
 a8cv.jokyonext.jp
 a8cv.jp-shop.kiwabi.com
 a8cv.jp.metrocityworld.com
+a8cv.jp.redodopower.com
 a8cv.k-ikiiki.jp
 a8cv.kabu-online.jp
 a8cv.kagoya.jp
@@ -879,7 +886,6 @@ a8cv.mcc-lazer-hr.com
 a8cv.meetsmore.com
 a8cv.members.race.sanspo.com
 a8cv.menina-joue.jp
-a8cv.mens-life-clinic.com
 a8cv.mentors-lwc.com
 a8cv.minana-jp.com
 a8cv.minnano-eikaiwa.com
@@ -926,10 +932,12 @@ a8cv.onlinestore.xmobile.ne.jp
 a8cv.onlinezemi.com
 a8cv.open-cage.com
 a8cv.orbis.co.jp
+a8cv.orochoku.shop
 a8cv.otakudathough.com
 a8cv.otoriyose.site
 a8cv.p-antiaging.com
 a8cv.paidy.com
+a8cv.palms-gym.com
 a8cv.perrot.co
 a8cv.photojoy.jp
 a8cv.picksitter.com
@@ -988,8 +996,10 @@ a8cv.slp.partners-re.co.jp
 a8cv.smart-shikaku.com
 a8cv.smoola.jp
 a8cv.snkrdunk.com
+a8cv.softbankhikari-collabo.net
 a8cv.somresta.jp
 a8cv.soundfun.co.jp
+a8cv.soyafarm.com
 a8cv.spalab-chintai.uk-corp.co.jp
 a8cv.staffagent.co.jp
 a8cv.starpeg-music.com
@@ -1004,6 +1014,7 @@ a8cv.store.yslabo.net
 a8cv.str.classicmusic.tokyo
 a8cv.studycompass.io
 a8cv.studycompass.net
+a8cv.studygear.evidus.com
 a8cv.sumai-surfin.com
 a8cv.sunmillion-ikiiki.jp
 a8cv.suzette-shop.jp
@@ -1125,6 +1136,7 @@ acv.crea-lp.com
 acv.hikarisoftbank.com
 acv.internet-moushikomi.net
 acv.kyushu-internet.com
+acv.mc-doctor.net
 acv.mc-nurse.net
 acv.mc-pharma.net
 acv.me-hikari.net
@@ -1211,6 +1223,7 @@ cv.ignis.coach
 cv.japan-curtain.jp
 cv.jidoumail.com
 cv.joggo.jp
+cv.just-size.net
 cv.masteraxis.com
 cv.michiuru.jp
 cv.moena-eatstyle.net

@@ -209,6 +209,7 @@ startrekk.flaconi.pl CNAME .
 statistics.tuv.com CNAME .
 text.benefitsatwork.be CNAME .
 text.benefitsatwork.ch CNAME .
+text.benefitsatwork.pl CNAME .
 text.benefitsatwork.pt CNAME .
 text.convenzioniaziendali.it CNAME .
 text.mitarbeiterangebote.at CNAME .

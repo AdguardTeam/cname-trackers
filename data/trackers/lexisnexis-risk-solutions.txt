@@ -156,6 +156,7 @@
 ||cnt2.bank.za.group^
 ||compliance.mohegansuncasino.com^
 ||compliance.resortscasino.com^
+||contendvc.cnouyi.pizza^
 ||content-uk.fundingcircle.com^
 ||content.ageas.co.uk^
 ||content.allstate.com^
@@ -186,6 +187,7 @@
 ||content.conapcg.com^
 ||content.connexion-mabanque.bnpparibas^
 ||content.consumercardaccess.com^
+||content.covantagecu.org^
 ||content.ctfs.com^
 ||content.digital-credit.app^
 ||content.digital.citbank.com^
@@ -431,6 +433,7 @@
 ||images.sheetzadvantage.com^
 ||images.sunocofleetcards.com^
 ||images.wexinc.com^
+||images.wrightexpress.com^
 ||imagesmx.cdiscountpro.com^
 ||imagesmx.cdscdn.com^
 ||imagestm.bossrevolution.com^
@@ -483,7 +486,6 @@
 ||lndata.labor.maryland.gov^
 ||lndata.labor.md.gov^
 ||lnths.twc.texas.gov^
-||lnthxsvc.tsp.gov^
 ||log.betdaq.com^
 ||log.checkmyfile.com^
 ||log.creditreport.co.uk^
@@ -588,6 +590,7 @@
 ||prod-sesloc.chaperone.lumindigitalhosting.com^
 ||prod-sfcupa.chaperone.lumindigitalhosting.com^
 ||prod-sfcutx.chaperone.lumindigitalhosting.com^
+||prod-travis.chaperone.lumindigitalhosting.com^
 ||prod-tvfcuwy.chaperone.lumindigitalhosting.com^
 ||prod-uecupa.chaperone.lumindigitalhosting.com^
 ||prod-uiccuil.chaperone.lumindigitalhosting.com^
@@ -837,7 +840,6 @@
 ||tm.gumtree.co.za^
 ||tm.gumtree.com.au^
 ||tm.kotak.com^
-||tm.moneyhub.hrblock.com.au^
 ||tm.okinushub.com^
 ||tm.paysafecard.com^
 ||tm.production.eu1.tmfp.klarna.net^
@@ -908,6 +910,7 @@
 ||txn.allianzlife.com^
 ||uafms.ocbc.com^
 ||ualaki-analytics.vacations.united.com^
+||ufp.intuit.com^
 ||uldfp.srilankan.com^
 ||umst.mobile.de^
 ||v.ayco.com^

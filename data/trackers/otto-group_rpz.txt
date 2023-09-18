@@ -46,6 +46,7 @@ te.your-look-for-less.se CNAME .
 tp.ackermann.ch CNAME .
 tp.ambria.de CNAME .
 tp.baur.de CNAME .
+tp.creation-l.de CNAME .
 tp.frankonia.at CNAME .
 tp.frankonia.com CNAME .
 tp.frankonia.de CNAME .
@@ -66,11 +67,13 @@ tp.quelle.ch CNAME .
 tp.quelle.de CNAME .
 tp.sheego.de CNAME .
 tp.sieh-an.ch CNAME .
+tp.sieh-an.de CNAME .
 tp.universal.at CNAME .
 tp.witt-international.cz CNAME .
 tp.witt-international.nl CNAME .
 tp.witt-international.sk CNAME .
 tp.witt-weiden.at CNAME .
+tp.witt-weiden.ch CNAME .
 tp.witt-weiden.de CNAME .
 tp.yomonda.de CNAME .
 tp.your-look-for-less.nl CNAME .

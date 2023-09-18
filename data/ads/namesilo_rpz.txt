@@ -382,6 +382,7 @@
 3423873.notifysrv.com CNAME .
 3423953.notifysrv.com CNAME .
 3428069.notifysrv.com CNAME .
+3429075.notify6.com CNAME .
 3432573.notify6.com CNAME .
 3436909.notify6.com CNAME .
 3437433.notifysrv.com CNAME .
@@ -540,6 +541,7 @@
 3572283.notifysrv.com CNAME .
 3572285.notifysrv.com CNAME .
 3572293.notifysrv.com CNAME .
+3572299.notifysrv.com CNAME .
 3572303.notifysrv.com CNAME .
 3572904.notifysrv.com CNAME .
 3576907.notifysrv.com CNAME .
@@ -680,6 +682,7 @@
 3869854.notify6.com CNAME .
 3869854.notifysrv.com CNAME .
 3869926.notify6.com CNAME .
+3870370.notify6.com CNAME .
 3871870.notify6.com CNAME .
 3878176.notify6.com CNAME .
 3880638.notify6.com CNAME .
@@ -829,6 +832,7 @@
 4329306.notify6.com CNAME .
 4349528.notify6.com CNAME .
 4367658.notify6.com CNAME .
+4389756.notify6.com CNAME .
 4399896.notify6.com CNAME .
 4407878.notify6.com CNAME .
 4421184.notify6.com CNAME .
@@ -965,6 +969,7 @@ origin-ads.exdynsrv.com CNAME .
 origin-ads.exosrv.com CNAME .
 origin-ads.optimizesrv.com CNAME .
 origin-ads.realsrv.com CNAME .
+rtb.ad.guru CNAME .
 rtb.advertrek.com CNAME .
 rtb.exoclick.com CNAME .
 s.a3ion.com CNAME .
@@ -992,6 +997,7 @@ s.elnl2a.com CNAME .
 s.elnl2b.com CNAME .
 s.elnn10.com CNAME .
 s.elnn12.com CNAME .
+s.elnn14.com CNAME .
 s.elnn20.com CNAME .
 s.elnn24.com CNAME .
 s.elns4a.com CNAME .

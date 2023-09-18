@@ -123,7 +123,6 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -150,7 +149,6 @@ refer.2ndswing.com CNAME .
 refer.abacusnext.com CNAME .
 refer.acornonline.com CNAME .
 refer.akcpetinsurance.com CNAME .
-refer.algaecal.com CNAME .
 refer.allenedmonds.com CNAME .
 refer.americanmusical.com CNAME .
 refer.amerisleep.com CNAME .
@@ -306,6 +304,7 @@ refer.perriconemd.com CNAME .
 refer.pimsleur.com CNAME .
 refer.plushbeds.com CNAME .
 refer.potterybarn.com CNAME .
+refer.potterybarnkids.com CNAME .
 refer.prettyballerinas.co.uk CNAME .
 refer.prettyballerinas.es CNAME .
 refer.princess.com CNAME .
@@ -632,4 +631,5 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
+em8561.go2bank.com CNAME .
 sftp.extole.com CNAME .

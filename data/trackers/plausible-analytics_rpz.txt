@@ -145,6 +145,7 @@ p.classroombookings.com CNAME .
 p.ejs.dev CNAME .
 p.fairspot.host CNAME .
 p.ianmjones.com CNAME .
+p.iforge.app CNAME .
 p.logbox.io CNAME .
 p.marqueplace.com CNAME .
 p.meilentrio.de CNAME .
@@ -207,7 +208,6 @@ plausible.alexandar.me CNAME .
 plausible.alpaga.io CNAME .
 plausible.app.kdojang.com CNAME .
 plausible.app.tlschedule.com CNAME .
-plausible.as207960.net CNAME .
 plausible.bablab.com CNAME .
 plausible.bacanalia.net CNAME .
 plausible.baychi.org CNAME .
@@ -228,7 +228,6 @@ plausible.deploymentfromscratch.com CNAME .
 plausible.dev.logicboard.com CNAME .
 plausible.doberman.co CNAME .
 plausible.doctave.com CNAME .
-plausible.edu-focus.org CNAME .
 plausible.ejs.dev CNAME .
 plausible.eurostocks.nl CNAME .
 plausible.exploreandcreate.com CNAME .
@@ -261,6 +260,7 @@ plausible.mattpruitt.com CNAME .
 plausible.mcj.co CNAME .
 plausible.myvirtualsuper.com CNAME .
 plausible.nickmazuk.com CNAME .
+plausible.nmyvsn.net CNAME .
 plausible.nova.app CNAME .
 plausible.nuqu.org CNAME .
 plausible.panic.com CNAME .
@@ -278,6 +278,7 @@ plausible.regex.help CNAME .
 plausible.sbw.org CNAME .
 plausible.shadygrovepca.org CNAME .
 plausible.simplelogin.io CNAME .
+plausible.srijn.net CNAME .
 plausible.starlegacyfoundation.org CNAME .
 plausible.strzibny.name CNAME .
 plausible.sysloun.cz CNAME .
@@ -346,15 +347,12 @@ sats.mailbrew.com CNAME .
 see.wasteorshare.com CNAME .
 server.japanbyrivercruise.com CNAME .
 server.olliehorn.com CNAME .
-sherlock.nicolabigwood.uk CNAME .
 site-stats.supernotes.app CNAME .
 sp.gameomatic.fr CNAME .
 sp.jrklein.com CNAME .
 sp.soniccares.com CNAME .
 sp.spaceomatic.fr CNAME .
 sp.wvoil.com CNAME .
-spock.dom.codes CNAME .
-spock.domjtalbot.codes CNAME .
 st.anastasija.lt CNAME .
 st.picshuffle.com CNAME .
 st.preciousamber.com CNAME .
@@ -368,7 +366,6 @@ static.osalta.eu CNAME .
 statistic.jac-systeme.de CNAME .
 statistics.heatbeat.de CNAME .
 statistik.apartments-tirolerhaus.at CNAME .
-stats-xavie.mirmon.co.uk CNAME .
 stats.45rpm.ch CNAME .
 stats.50x.ca CNAME .
 stats.69grad.de CNAME .
@@ -378,7 +375,6 @@ stats.activityvault.io CNAME .
 stats.adlperformance.es CNAME .
 stats.airtrafik.com CNAME .
 stats.aixbrain.de CNAME .
-stats.akd.io CNAME .
 stats.albert-kropp-gmbh.de CNAME .
 stats.alibhai.co CNAME .
 stats.aligncoaching.ca CNAME .
@@ -395,6 +391,7 @@ stats.arma.coffee CNAME .
 stats.arquido.com CNAME .
 stats.artisansfiables.fr CNAME .
 stats.artistchristinacarmel.com CNAME .
+stats.asmodee.net CNAME .
 stats.astrr.ru CNAME .
 stats.asymptotic.io CNAME .
 stats.auto-dombrowski.de CNAME .
@@ -519,7 +516,6 @@ stats.dmarcdigests.com CNAME .
 stats.doana-r.com CNAME .
 stats.domhabersack.com CNAME .
 stats.doors.live CNAME .
-stats.dotnetfromthemountain.com CNAME .
 stats.dotnetos.org CNAME .
 stats.dotplan.io CNAME .
 stats.doublejones.com CNAME .
@@ -617,7 +613,6 @@ stats.hexdocs.pm CNAME .
 stats.hey.com CNAME .
 stats.hey.science CNAME .
 stats.hhpro.net CNAME .
-stats.hippocraticregistry.com CNAME .
 stats.homepage-2021.askmiso-dev.com CNAME .
 stats.homerdixon.com CNAME .
 stats.homestow.com CNAME .
@@ -664,7 +659,6 @@ stats.jerickson.net CNAME .
 stats.jhsheridan.com CNAME .
 stats.jjude.com CNAME .
 stats.joaopedro.dev CNAME .
-stats.johnpatrick.ca CNAME .
 stats.jonatanalvarsson.se CNAME .
 stats.jpc.dev CNAME .
 stats.jsbible.com CNAME .
@@ -674,7 +668,6 @@ stats.juniperslab.com CNAME .
 stats.justinwilliams.ca CNAME .
 stats.jvhellemond.nl CNAME .
 stats.kaladyaudiology.com CNAME .
-stats.kalkulatordniroboczych.pl CNAME .
 stats.kambr.io CNAME .
 stats.katharinascheitz.com CNAME .
 stats.keirwhitaker.com CNAME .
@@ -685,6 +678,7 @@ stats.klj-consult.com CNAME .
 stats.knowkit.cloud CNAME .
 stats.kod.ru CNAME .
 stats.koehrer.de CNAME .
+stats.koerner-logopaedie.de CNAME .
 stats.kongressen.com CNAME .
 stats.krauss.io CNAME .
 stats.kruimel-dief.nl CNAME .
@@ -739,16 +733,17 @@ stats.matthogg.fyi CNAME .
 stats.maximaconsulting.xyz CNAME .
 stats.meetnfly.com CNAME .
 stats.mein-futterlexikon.org CNAME .
+stats.memberdrive.org CNAME .
 stats.meno.science CNAME .
 stats.mesenvies.fr CNAME .
 stats.michaeloliver.dev CNAME .
-stats.migrantworker.ca CNAME .
 stats.missionrabies.com CNAME .
 stats.motion-effect.com CNAME .
 stats.motorcyclepartsireland.ie CNAME .
 stats.mrtnvh.com CNAME .
 stats.multiplelenses.com CNAME .
 stats.multiply.cloud CNAME .
+stats.muziekmobiel.net CNAME .
 stats.myherocard.com CNAME .
 stats.napaconnect.ca CNAME .
 stats.navedislam.com CNAME .
@@ -791,7 +786,6 @@ stats.pasteapp.io CNAME .
 stats.pastorwagner.com CNAME .
 stats.patout.dev CNAME .
 stats.patriot.win CNAME .
-stats.paulmcgrath.me CNAME .
 stats.paulronge.se CNAME .
 stats.paypresto.co CNAME .
 stats.paysagistes.pro CNAME .
@@ -816,6 +810,7 @@ stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
 stats.poochplaces.dog CNAME .
 stats.postcollectors.com CNAME .
+stats.poweringpastcoal.org CNAME .
 stats.preeventualist.org CNAME .
 stats.pri.org CNAME .
 stats.pricewell.io CNAME .
@@ -843,6 +838,7 @@ stats.reisemobil.pro CNAME .
 stats.remotebear.io CNAME .
 stats.reprage.com CNAME .
 stats.respkt.de CNAME .
+stats.retofunctional.com CNAME .
 stats.retro.cz CNAME .
 stats.revitfamily.app CNAME .
 stats.rideinpeace.ie CNAME .
@@ -898,14 +894,15 @@ stats.strawberry.rocks CNAME .
 stats.studypages.com CNAME .
 stats.sublimesecurity.com CNAME .
 stats.suenicholls.com CNAME .
+stats.suggestedit.com CNAME .
 stats.suniboy.com CNAME .
 stats.sunpeaksstables.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svemir.co CNAME .
 stats.symbiofest.cz CNAME .
 stats.table.party CNAME .
-stats.tablepeninsula.ca CNAME .
 stats.tarasyarema.com CNAME .
+stats.teamdetails.com CNAME .
 stats.tedserbinski.com CNAME .
 stats.teenranch.com CNAME .
 stats.tekin.co.uk CNAME .
@@ -927,6 +924,7 @@ stats.tinkerer.tools CNAME .
 stats.tl8.io CNAME .
 stats.tms-development.com CNAME .
 stats.tms-development.de CNAME .
+stats.tms-institut.de CNAME .
 stats.toiletmap.org.uk CNAME .
 stats.torquaypac.ca CNAME .
 stats.training.fit CNAME .
@@ -956,7 +954,6 @@ stats.voltamediahouse.com CNAME .
 stats.wachstum.at CNAME .
 stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .
-stats.wavepointconsulting.ca CNAME .
 stats.websnap.app CNAME .
 stats.wecodeni.com CNAME .
 stats.wellbeyond.com CNAME .

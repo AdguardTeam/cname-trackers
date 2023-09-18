@@ -20,6 +20,7 @@
 ||bc.manwaysprod.com^
 ||bd.inclipscalabur.com^
 ||be.habitueflasque.com^
+||be.jambertarry.com^
 ||bf.buffersling.com^
 ||bf.shodeoaters.com^
 ||bg.unbarbpoured.com^
@@ -72,6 +73,7 @@
 ||eh.stowingwhelks.com^
 ||ej.basialforced.com^
 ||em.curnberthed.com^
+||et.furivaeshotman.com^
 ||et.harmoutguereza.com^
 ||eu.balletsbeep.com^
 ||eu.jerkytaste.com^
@@ -87,6 +89,7 @@
 ||fh.termsixias.com^
 ||fi.creeguilds.com^
 ||fj.bedrowndaffs.com^
+||fj.cavilerestops.com^
 ||fk.oaklikespiers.com^
 ||fm.ramouselong.com^
 ||fn.deulspoorn.com^
@@ -348,6 +351,7 @@
 ||wd.dimcarnie.com^
 ||wd.towmonterses.com^
 ||we.noonsderider.com^
+||wh.dabbyfather.com^
 ||wi.cohereseugene.com^
 ||wj.acrevenene.com^
 ||wl.gravergignate.com^
@@ -381,6 +385,7 @@
 ||yg.coehornjobbet.com^
 ||yg.slantedsecno.com^
 ||yh.coursgrimace.com^
+||yh.jewelyavoir.com^
 ||yk.dissentsangir.com^
 ||yl.calumetjowing.com^
 ||yp.tronkparsed.com^

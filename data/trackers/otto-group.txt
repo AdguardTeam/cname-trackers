@@ -46,6 +46,7 @@
 ||tp.ackermann.ch^
 ||tp.ambria.de^
 ||tp.baur.de^
+||tp.creation-l.de^
 ||tp.frankonia.at^
 ||tp.frankonia.com^
 ||tp.frankonia.de^
@@ -66,11 +67,13 @@
 ||tp.quelle.de^
 ||tp.sheego.de^
 ||tp.sieh-an.ch^
+||tp.sieh-an.de^
 ||tp.universal.at^
 ||tp.witt-international.cz^
 ||tp.witt-international.nl^
 ||tp.witt-international.sk^
 ||tp.witt-weiden.at^
+||tp.witt-weiden.ch^
 ||tp.witt-weiden.de^
 ||tp.yomonda.de^
 ||tp.your-look-for-less.nl^

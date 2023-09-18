@@ -246,7 +246,6 @@ filter.datadrives.ai
 filter.domains-traffic.com
 filter.dtxplatform.net
 filter.eclk.club
-filter.engageadx.com
 filter.eximdigital.com
 filter.expialidosius.com
 filter.explorads.com
@@ -501,7 +500,6 @@ rtb-eu.catapultx.com
 rtb-eu.convergeselect.net
 rtb-eu.creativedot.net
 rtb-eu.displayio.cloud
-rtb-eu.engageadx.com
 rtb-eu.eximdigital.com
 rtb-eu.ezmob.com
 rtb-eu.fmlabsonline.com
@@ -1046,7 +1044,6 @@ xml.ctrtraffic.com
 xml.dollopsdigital.com
 xml.domains-traffic.com
 xml.dtxplatform.net
-xml.engageadx.com
 xml.eureekkaa.com
 xml.eximdigital.com
 xml.expialidosius.com
