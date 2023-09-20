@@ -5,7 +5,10 @@ const {
     identity,
 } = require('./helpers');
 
-const { CONST_DATA } = require('./constants');
+const {
+    rpzHeaderChunks,
+    CONST_DATA,
+} = require('./constants');
 
 /**
  * @typedef { import('./build-desc').TrackersData } TrackersData
@@ -23,10 +26,13 @@ const buildRulesByType = (trackersData, type) => {
         trackersInfoItems,
     } = trackersData;
 
-    const rulesChunks = [
+    const commonChunks = [
         CONST_DATA[type].commentMarker,
         `${CONST_DATA[type].commentMarker} Company name: ${companyName}`,
     ];
+
+    // add specific header for rpz file format
+    const rulesChunks = type === CONST_DATA.RPZ.type ? [...commonChunks, ...rpzHeaderChunks] : commonChunks;
 
     // get only disguised trackers items in array
     // flattering and filter nullable values
