@@ -283,6 +283,13 @@
         ]
     },
     {
+        "company_name": "SailThru",
+        "type": "clickthrough",
+        "domains": [
+            "sailthru.com"
+        ]
+    },
+    {
         "company_name": "TraceDock",
         "type": "microsite",
         "domains": [
