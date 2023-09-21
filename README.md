@@ -141,7 +141,7 @@ You will need to prepend your own SOA and NS records. Consult the documentation 
 and/or the [IETF Draft](https://datatracker.ietf.org/doc/draft-vixie-dnsop-dns-rpz/) for more information.
 
 
-[readme-img-light-1]: https://cdn.adtidy.org/content/github/cname-trackers/readme-light-1.png#gh-light-mode-only
-[readme-img-light-2]: https://cdn.adtidy.org/content/github/cname-trackers/readme-light-1.png#gh-light-mode-only
-[readme-img-dark-1]: https://cdn.adtidy.org/content/github/cname-trackers/readme-dark-1.png#gh-dark-mode-only
-[readme-img-dark-2]: https://cdn.adtidy.org/content/github/cname-trackers/readme-dark-2.png#gh-dark-mode-only
+[readme-img-light-1]: ./assets/images/readme-light-1.png#gh-light-mode-only
+[readme-img-light-2]: ./assets/images/readme-light-2.png#gh-light-mode-only
+[readme-img-dark-1]: ./assets/images/readme-dark-1.png#gh-dark-mode-only
+[readme-img-dark-2]: ./assets/images/readme-dark-2.png#gh-dark-mode-only
