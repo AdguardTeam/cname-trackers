@@ -62,6 +62,7 @@ sponsor.syracuse.com
 2caf7c08e0.fa84f180d1.com
 2cb68fec4a.4fde20c235.com
 2d56aafb14.8767fbfa8b.com
+2e29d385db.416deca3db.com
 2f5a638754.b44b3c5f19.com
 2fa1db4c6a.6effce3135.com
 2fdaf3a5d0.16d177cbd1.com
@@ -154,7 +155,6 @@ sponsor.syracuse.com
 6d39ef5c0b.7002fca3a7.com
 6d6206ec1d.ee6ed602d3.com
 6df506d68b.1708f2b5f1.com
-6ef94a502b.64134c91b6.com
 70832e4e42.1c8a98da68.com
 710434b975.6de8cd75aa.com
 71a779e11d.3e6490d30a.com
@@ -183,6 +183,7 @@ sponsor.syracuse.com
 856267c01d.41bcf8ddc1.com
 8577616b81.2045683976.com
 85ee48afef.479d86c670.com
+85fb7313d7.77e74062b1.com
 8654683419.6ab77a3dad.com
 898dd5a858.a06e054b4c.com
 89af0d0300.3862ce0006.com
@@ -220,6 +221,7 @@ sponsor.syracuse.com
 9b0798654a.5a2d208cea.com
 9b78a94832.d7a3781a4b.com
 9cd589fd54.86b1722d8e.com
+9d844b1143.7f00f312e5.com
 9e4a8a6859.1f031f585b.com
 9e813c2770.3227a4c431.com
 9ea415bca3.0816086bd1.com
@@ -230,7 +232,6 @@ a390770006.41291ba668.com
 a6270385bc.560fe03925.com
 a9c3a4315a.59e15e749d.com
 a9d40d3ddf.7811f1c9ec.com
-ab6de09242.441a8a5527.com
 ac8b9eaf81.db2f8e1acc.com
 ad02b0144f.b06fcca6fd.com
 ad7a6fddf6.f37d6b16c3.com
@@ -278,6 +279,7 @@ cca691f765.ca3362de0f.com
 ce972a61bd.38a2b8fa34.com
 cf6eefecd9.76362b26c3.com
 d04674bbdd.e02b15bc59.com
+d096f50112.f80ab194b8.com
 d2777cf1df.76842c6a2a.com
 d2a62a8a22.6b34f18ccd.com
 d310a0f1fe.91c58a050f.com
@@ -293,6 +295,7 @@ dbcbfd1f9e.6a3a727872.com
 dd6f5189a3.70ba306f76.com
 df3e591f6c.5d8f7f3a02.com
 dfc8514de8.1ca65f5f5b.com
+e08409ce7e.e6460525b5.com
 e099af5046.08dc0b0152.com
 e172aea9a0.66fb5240da.com
 e1de143963.cc3f3eedbb.com
@@ -325,7 +328,6 @@ f43bb3465e.10eafd09d6.com
 f9630bc2e3.6afd255116.com
 f9aa8dba65.2e14072eac.com
 f9f4465362.0d4146061c.com
-fa5248bea9.d7d38597d6.com
 fad362ad5f.2d70ed4cc1.com
 fb02e621c6.1c09d36b99.com
 fb76b9dc25.b714a651f4.com
@@ -338,10 +340,8 @@ ff04a1538a.ced4d66e2d.com
 ff18e0b495.eeecc0e343.com
 ff6840b5f0.338d2db673.com
 a135.wftv.com
-ajc.share.ntv.io
-csoonline.share.ntv.io
+a614.pennlive.com
 share.ntv.io
-shared.sponsoredcontent.com
 a135.fox23.com
 a135.wpxi.com
 a135.wsbtv.com
@@ -350,7 +350,7 @@ a614.al.com
 a614.masslive.com
 a614.mlive.com
 a614.nj.com
-a614.pennlive.com
+ajc.share.ntv.io
 al.share.ntv.io
 automobilemag.share.ntv.io
 ballisticmag.share.ntv.io
@@ -359,6 +359,7 @@ bossip.share.ntv.io
 cio.share.ntv.io
 cooktopcove.share.ntv.io
 cricketwireless.share.ntv.io
+csoonline.share.ntv.io
 entrepreneur.share.ntv.io
 faithinthenews.share.ntv.io
 foodandwine.share.ntv.io
@@ -383,6 +384,7 @@ pcworld.share.ntv.io
 pressdemocrat.share.ntv.io
 robbreport.share.ntv.io
 sanduskyregister.share.ntv.io
+shared.sponsoredcontent.com
 smosh.share.ntv.io
 stamfordadvocate.share.ntv.io
 travelandleisure.share.ntv.io
@@ -399,7 +401,6 @@ a235.myplainview.com
 a235.nhregister.com
 a235.ourmidland.com
 a235.registercitizen.com
-a235.sfgate.com
 a235.stamfordadvocate.com
 a235.thehour.com
 a235.timesunion.com

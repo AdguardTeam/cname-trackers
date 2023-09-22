@@ -133,6 +133,7 @@ asp.podlist.de
 asp.sepiasoft.eu
 azlej8cdm.pragmaticwebsecurity.com
 baboon.ideapotential.com
+baboon.namegen.app
 baboon.naxon.dev
 baboon.vacanti.com
 badger.pager.app
@@ -152,7 +153,6 @@ bass.alfrednerstu.com
 bass.siterig.io
 bat.heelix.be
 bear.big.dk
-bear.bukury.com
 bear.datingrelationshipsadvice.com
 bear.jake.nyc
 bear.modulr.design
@@ -670,7 +670,6 @@ magpie.phil.dev
 mammal.autoidle.com
 manatee.biodom.bio
 manatee.creativepassport.net
-mandrill.peoplegroove.com
 mandrill.phiilu.com
 mandrill.yellowfruit.co
 mantaray.bullshitgoggles.com
@@ -707,6 +706,7 @@ mole.energizer.eu
 mole.getfamealy.com
 mole.gostartupco.com
 mole.rtbhouse.com
+mole.vcntlee.com
 mollusk.saferingz.com
 mollusk.working.actor
 mongoose.jasonlbeggs.com
@@ -747,7 +747,6 @@ orangutan.renovare.org
 orangutan.va4indieauthors.com
 orca.getnodo.com
 orca.overbold.co
-orca.weatherontheway.app
 ostrich.getschools.org
 ostrich.hegic-tokenizer.co
 ostrich.pergaudiaadastra.de
@@ -773,6 +772,7 @@ panther.thestocks.im
 panther.tigil.rs
 parakeet.quotetweet.com
 parrot.lovably.com
+parrot.ohdear.app
 parrotfish.thenping.me
 parrotfish.wilderworld.com
 parrotfish.wus.immo
@@ -867,12 +867,14 @@ rook.behmann.at
 rook.clarify.io
 rook.flowlens.com
 rook.grithix.com
+rooster.ohqcloud.com
 sailfish.hoap.com
 sailfish.kentcdodds.com
 sailfish.lifelines-film.com
 sailfish.mastercw.com
 sailfish.the-psychedelicatessen.com
 sailfish.youracademycommunity.com
+salamander.augmentedmind.io
 salamander.laboucheriebio.com
 salamander.showandtelldata.com
 salmon.literallife.church

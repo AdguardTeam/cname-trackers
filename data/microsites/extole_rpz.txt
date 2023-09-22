@@ -1,5 +1,16 @@
 ;
 ; Company name: Extole
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 amis.keurig.ca CNAME .
 chubclub.chubbiesshorts.com CNAME .
 francais.refer.vonage.ca CNAME .
@@ -87,6 +98,7 @@ refer.silvercar.com CNAME .
 refer.sperry.com CNAME .
 refer.staples.com CNAME .
 refer.talbots.com CNAME .
+refer.tassimodirect.com CNAME .
 refer.tennessean.com CNAME .
 refer.theleafchronicle.com CNAME .
 refer.timberland.com CNAME .
@@ -123,6 +135,7 @@ www.trevoce.com CNAME .
 amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em3904.skillshare.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -207,6 +220,7 @@ refer.cspire.com CNAME .
 refer.darphin.com CNAME .
 refer.delloutlet.com CNAME .
 refer.dreamlawn.com CNAME .
+refer.drschollsshoes.com CNAME .
 refer.ea.com CNAME .
 refer.ecoterrabeds.com CNAME .
 refer.embracepetinsurance.com CNAME .
@@ -257,6 +271,7 @@ refer.joann.com CNAME .
 refer.join1440.com CNAME .
 refer.jonesservices.com CNAME .
 refer.juicepress.com CNAME .
+refer.jusbyjulie.com CNAME .
 refer.keds.com CNAME .
 refer.kerastase-usa.com CNAME .
 refer.kfcu.org CNAME .
@@ -421,7 +436,6 @@ share.basepaws.com CNAME .
 share.battlecreekenquirer.com CNAME .
 share.beaspermdonor.com CNAME .
 share.biblejourney.com CNAME .
-share.bncollege.com CNAME .
 share.boden.co.uk CNAME .
 share.boden.fr CNAME .
 share.bodenclothing.com.au CNAME .

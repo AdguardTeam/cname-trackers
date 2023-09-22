@@ -1,5 +1,16 @@
 ;
 ; Company name: Plausible Analytics
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 a-api.skz.dev CNAME .
 a.aawp.de CNAME .
 a.ctd.ai CNAME .
@@ -132,6 +143,7 @@ metric.methoddev.com CNAME .
 metrics.axiomatic-inc.com CNAME .
 metrics.creit.tech CNAME .
 metrics.earrieta.dev CNAME .
+metrics.javierarcheni.com CNAME .
 metrics.recunia.de CNAME .
 momotaro.craigmod.com CNAME .
 momotaro.walkkumano.com CNAME .
@@ -226,6 +238,7 @@ plausible.countingindia.com CNAME .
 plausible.dailytics.com CNAME .
 plausible.deploymentfromscratch.com CNAME .
 plausible.dev.logicboard.com CNAME .
+plausible.dingran.me CNAME .
 plausible.doberman.co CNAME .
 plausible.doctave.com CNAME .
 plausible.ejs.dev CNAME .
@@ -253,6 +266,7 @@ plausible.joinself.com CNAME .
 plausible.k6sbw.net CNAME .
 plausible.kabaret.no CNAME .
 plausible.kdojang.com CNAME .
+plausible.kundenportal.io CNAME .
 plausible.langojango.com CNAME .
 plausible.lesbianromantic.com CNAME .
 plausible.logicboard.com CNAME .
@@ -366,6 +380,7 @@ static.osalta.eu CNAME .
 statistic.jac-systeme.de CNAME .
 statistics.heatbeat.de CNAME .
 statistik.apartments-tirolerhaus.at CNAME .
+stats-whatever.gigride.live CNAME .
 stats.45rpm.ch CNAME .
 stats.50x.ca CNAME .
 stats.69grad.de CNAME .
@@ -510,6 +525,7 @@ stats.dexie.me CNAME .
 stats.dflydev.com CNAME .
 stats.diarmuidsexton.com CNAME .
 stats.digiexpert.store CNAME .
+stats.dillen.dev CNAME .
 stats.divyanshu013.dev CNAME .
 stats.dmail.co.nz CNAME .
 stats.dmarcdigests.com CNAME .
@@ -541,7 +557,6 @@ stats.emmas.site CNAME .
 stats.engel-apotheke.de CNAME .
 stats.engeldirekt.de CNAME .
 stats.engineering.freeagent.com CNAME .
-stats.englishadam.com CNAME .
 stats.entreno.fcalan.org CNAME .
 stats.equium.io CNAME .
 stats.erbridge.co.uk CNAME .
@@ -624,6 +639,7 @@ stats.hugoreeves.com CNAME .
 stats.huysmanbouw.be CNAME .
 stats.iamzero.dev CNAME .
 stats.ibuildings.net CNAME .
+stats.ideologicalconflict.org CNAME .
 stats.iefg.org CNAME .
 stats.ifiwasgame.com CNAME .
 stats.igassmann.me CNAME .
@@ -763,7 +779,6 @@ stats.obiit.co CNAME .
 stats.obokat.se CNAME .
 stats.odysseeseine.org CNAME .
 stats.officefoosball.com CNAME .
-stats.offthekerb.com CNAME .
 stats.okconnect.org CNAME .
 stats.oldtinroof.com CNAME .
 stats.oliveoil.pro CNAME .
@@ -897,6 +912,7 @@ stats.suenicholls.com CNAME .
 stats.suggestedit.com CNAME .
 stats.suniboy.com CNAME .
 stats.sunpeaksstables.com CNAME .
+stats.suominaikidoacademy.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svemir.co CNAME .
 stats.symbiofest.cz CNAME .

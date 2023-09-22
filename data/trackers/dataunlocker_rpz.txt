@@ -1,5 +1,16 @@
 ;
 ; Company name: DataUnlocker
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 0d8is908gby1.www.terraform.com.ar CNAME .
 10ro53kulyb.groove.so CNAME .
 11b6n4ty2x3.taxliencode.com CNAME .
@@ -14,7 +25,6 @@
 1k5vz1ejbcx.staging.probemas.com CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
 1xejnhs1zd1.staging.aporia.com CNAME .
-1y10lvb64mr.www.freecodecamp.dev CNAME .
 1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 2107wrlgff5.development.taxmachine.be CNAME .
 21fhq0t574p.talentkit.io CNAME .

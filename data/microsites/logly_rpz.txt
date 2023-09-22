@@ -1,5 +1,16 @@
 ;
 ; Company name: Logly
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 nt.compass-fit.jp CNAME .
 send.mad-infeed.jp CNAME .
 www.compass-fit.jp CNAME .

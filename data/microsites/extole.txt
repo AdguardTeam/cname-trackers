@@ -87,6 +87,7 @@
 ||refer.sperry.com^
 ||refer.staples.com^
 ||refer.talbots.com^
+||refer.tassimodirect.com^
 ||refer.tennessean.com^
 ||refer.theleafchronicle.com^
 ||refer.timberland.com^
@@ -123,6 +124,7 @@
 ||amp.bfr.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
+||em3904.skillshare.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -207,6 +209,7 @@
 ||refer.darphin.com^
 ||refer.delloutlet.com^
 ||refer.dreamlawn.com^
+||refer.drschollsshoes.com^
 ||refer.ea.com^
 ||refer.ecoterrabeds.com^
 ||refer.embracepetinsurance.com^
@@ -257,6 +260,7 @@
 ||refer.join1440.com^
 ||refer.jonesservices.com^
 ||refer.juicepress.com^
+||refer.jusbyjulie.com^
 ||refer.keds.com^
 ||refer.kerastase-usa.com^
 ||refer.kfcu.org^
@@ -421,7 +425,6 @@
 ||share.battlecreekenquirer.com^
 ||share.beaspermdonor.com^
 ||share.biblejourney.com^
-||share.bncollege.com^
 ||share.boden.co.uk^
 ||share.boden.fr^
 ||share.bodenclothing.com.au^

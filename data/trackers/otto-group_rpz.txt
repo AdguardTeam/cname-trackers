@@ -1,5 +1,16 @@
 ;
 ; Company name: Otto Group
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 prod.nitrosniffer.ottogroup.io CNAME .
 sniffer.nitro-production.otto.boreus.de CNAME .
 sniffer.nitro-test-extern.otto.boreus.de CNAME .
@@ -28,6 +39,7 @@ te.ottoversand.at CNAME .
 te.quelle.at CNAME .
 te.quelle.ch CNAME .
 te.quelle.de CNAME .
+te.schwab.de CNAME .
 te.sheego.de CNAME .
 te.sieh-an.at CNAME .
 te.sieh-an.ch CNAME .

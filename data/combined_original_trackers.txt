@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2023-09-18T08:00:22+00:00
+! TimeUpdated: 2023-09-22T12:33:19+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 !
@@ -130,6 +130,9 @@
 !
 ! Company: RedTrack
 ||rdtk.io^
+!
+! Company: SailThru
+||sailthru.com^
 !
 ! Company: TraceDock
 ||a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com^

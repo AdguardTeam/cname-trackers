@@ -120,6 +120,7 @@
 | asp.sepiasoft.eu | deprecated-custom-domains.b-cdn.net |
 | azlej8cdm.pragmaticwebsecurity.com | deprecated-custom-domains.b-cdn.net |
 | baboon.ideapotential.com | deprecated-custom-domains.b-cdn.net |
+| baboon.namegen.app | deprecated-custom-domains.b-cdn.net |
 | baboon.naxon.dev | deprecated-custom-domains.b-cdn.net |
 | baboon.vacanti.com | deprecated-custom-domains.b-cdn.net |
 | badger.pager.app | deprecated-custom-domains.b-cdn.net |
@@ -139,7 +140,6 @@
 | bass.siterig.io | deprecated-custom-domains.b-cdn.net |
 | bat.heelix.be | deprecated-custom-domains.b-cdn.net |
 | bear.big.dk | deprecated-custom-domains.b-cdn.net |
-| bear.bukury.com | deprecated-custom-domains.b-cdn.net |
 | bear.datingrelationshipsadvice.com | deprecated-custom-domains.b-cdn.net |
 | bear.jake.nyc | deprecated-custom-domains.b-cdn.net |
 | bear.modulr.design | deprecated-custom-domains.b-cdn.net |
@@ -657,7 +657,6 @@
 | mammal.autoidle.com | deprecated-custom-domains.b-cdn.net |
 | manatee.biodom.bio | deprecated-custom-domains.b-cdn.net |
 | manatee.creativepassport.net | deprecated-custom-domains.b-cdn.net |
-| mandrill.peoplegroove.com | deprecated-custom-domains.b-cdn.net |
 | mandrill.phiilu.com | deprecated-custom-domains.b-cdn.net |
 | mandrill.yellowfruit.co | deprecated-custom-domains.b-cdn.net |
 | mantaray.bullshitgoggles.com | deprecated-custom-domains.b-cdn.net |
@@ -694,6 +693,7 @@
 | mole.getfamealy.com | deprecated-custom-domains.b-cdn.net |
 | mole.gostartupco.com | deprecated-custom-domains.b-cdn.net |
 | mole.rtbhouse.com | deprecated-custom-domains.b-cdn.net |
+| mole.vcntlee.com | deprecated-custom-domains.b-cdn.net |
 | mollusk.saferingz.com | deprecated-custom-domains.b-cdn.net |
 | mollusk.working.actor | deprecated-custom-domains.b-cdn.net |
 | mongoose.jasonlbeggs.com | deprecated-custom-domains.b-cdn.net |
@@ -734,7 +734,6 @@
 | orangutan.va4indieauthors.com | deprecated-custom-domains.b-cdn.net |
 | orca.getnodo.com | deprecated-custom-domains.b-cdn.net |
 | orca.overbold.co | deprecated-custom-domains.b-cdn.net |
-| orca.weatherontheway.app | deprecated-custom-domains.b-cdn.net |
 | ostrich.getschools.org | deprecated-custom-domains.b-cdn.net |
 | ostrich.hegic-tokenizer.co | deprecated-custom-domains.b-cdn.net |
 | ostrich.pergaudiaadastra.de | deprecated-custom-domains.b-cdn.net |
@@ -760,6 +759,7 @@
 | panther.tigil.rs | deprecated-custom-domains.b-cdn.net |
 | parakeet.quotetweet.com | deprecated-custom-domains.b-cdn.net |
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
+| parrot.ohdear.app | deprecated-custom-domains.b-cdn.net |
 | parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wilderworld.com | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wus.immo | deprecated-custom-domains.b-cdn.net |
@@ -854,12 +854,14 @@
 | rook.clarify.io | deprecated-custom-domains.b-cdn.net |
 | rook.flowlens.com | deprecated-custom-domains.b-cdn.net |
 | rook.grithix.com | deprecated-custom-domains.b-cdn.net |
+| rooster.ohqcloud.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.hoap.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.kentcdodds.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.lifelines-film.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.mastercw.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.the-psychedelicatessen.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.youracademycommunity.com | deprecated-custom-domains.b-cdn.net |
+| salamander.augmentedmind.io | deprecated-custom-domains.b-cdn.net |
 | salamander.laboucheriebio.com | deprecated-custom-domains.b-cdn.net |
 | salamander.showandtelldata.com | deprecated-custom-domains.b-cdn.net |
 | salmon.literallife.church | deprecated-custom-domains.b-cdn.net |

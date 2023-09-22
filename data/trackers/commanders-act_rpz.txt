@@ -1,16 +1,28 @@
 ;
 ; Company name: Commanders Act
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 acquisition.klm.com CNAME .
 data.decathlon.co.uk CNAME .
 data.decathlon.de CNAME .
 data.decathlon.es CNAME .
 data.decathlon.fr CNAME .
 data.decathlon.pl CNAME .
-data.ricaud.com CNAME .
+data.ouigo.com CNAME .
 data.ubi.com CNAME .
 data.wptag.net CNAME .
 logger.yp.ca CNAME .
 sales.disneylandparis.com CNAME .
+tag.boulanger.fr CNAME .
 tagcommander.laredoute.be CNAME .
 tagcommander.laredoute.ch CNAME .
 tc.europcar.com CNAME .
@@ -18,5 +30,4 @@ tc.europcar.com.au CNAME .
 tcdata.fnac.com CNAME .
 data.auchandirect.fr CNAME .
 data.decathlon.it CNAME .
-data.ouigo.com CNAME .
-tag.boulanger.fr CNAME .
+data.ricaud.com CNAME .

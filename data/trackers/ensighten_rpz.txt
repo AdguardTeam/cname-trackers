@@ -1,5 +1,16 @@
 ;
 ; Company name: Ensighten
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 activate.aami.com.au CNAME .
 activate.anntaylor.com CNAME .
 activate.apia.com.au CNAME .
@@ -49,6 +60,7 @@ activate.suncorp.com.au CNAME .
 activate.tidewaterreview.com CNAME .
 activate.tribpubads.com CNAME .
 activate.tronc.com CNAME .
+activate.troncads.com CNAME .
 activate.vagazette.com CNAME .
 activate.vivelohoy.com CNAME .
 activate1.fidelity.com CNAME .
@@ -288,6 +300,7 @@ sst.dell.com CNAME .
 sst.homegoods.com CNAME .
 sst.johnlewis.com CNAME .
 sst.nab.com.au CNAME .
+sst.tjmaxx.tjx.com CNAME .
 suncorp.activate.ensighten.com CNAME .
 t.hagebau.de CNAME .
 t.janieandjack.com CNAME .

@@ -22,6 +22,7 @@
     * tk-engie-com.wizaly.com
     * tk-etam-com.wizaly.com
     * tk-evaneos-fr.wizaly.com
+    * tk-france-abonnements-fr.wizaly.com
     * tk-frenchbee-com.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
     * tk-hypnia-fr.wizaly.com
@@ -100,6 +101,7 @@
 | tk.evaneos.fr | tk-evaneos-fr.wizaly.com |
 | tk.evaneos.it | tk-evaneos-fr.wizaly.com |
 | tk.evaneos.nl | tk-evaneos-fr.wizaly.com |
+| tk.france-abonnements.fr | tk-france-abonnements-fr.wizaly.com |
 | tk.frenchbee.com | tk-frenchbee-com.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |
 | tk.hypnia.co.uk | tk-hypnia-fr.wizaly.com |
@@ -173,6 +175,7 @@
 | tk.airfrance.dk | tkairfrance.wizaly.com |
 | tk.airfrance.fi | tkairfrance.wizaly.com |
 | tk.airfrance.fr | tkairfrance.wizaly.com |
+| tk.airfrance.ga | tkairfrance.wizaly.com |
 | tk.airfrance.gf | tkairfrance.wizaly.com |
 | tk.airfrance.gr | tkairfrance.wizaly.com |
 | tk.airfrance.hr | tkairfrance.wizaly.com |
@@ -196,6 +199,7 @@
 | tk.airfrance.ro | tkairfrance.wizaly.com |
 | tk.airfrance.rs | tkairfrance.wizaly.com |
 | tk.airfrance.ru | tkairfrance.wizaly.com |
+| tk.airfrance.sa | tkairfrance.wizaly.com |
 | tk.airfrance.se | tkairfrance.wizaly.com |
 | tk.airfrance.sg | tkairfrance.wizaly.com |
 | tk.airfrance.sk | tkairfrance.wizaly.com |

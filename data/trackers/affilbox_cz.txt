@@ -256,6 +256,7 @@
 ||affiliate.trikator.cz^
 ||affiliate.ucetni-portal.cz^
 ||affiliate.uncaria.cz^
+||affiliate.unicare.sk^
 ||affiliate.urbanstore.cz^
 ||affiliate.urbanstore.sk^
 ||affiliate.vasecocky.cz^
@@ -287,6 +288,7 @@
 ||dekovacka.hezkres.cz^
 ||doporuc.hopsej.cz^
 ||doporuc.konferenceryba.cz^
+||doporucim.zjistitcenu.cz^
 ||equilist.raj-ohlavek.cz^
 ||hcaffil.mironet.cz^
 ||hcbox.bikemax.cz^
@@ -409,6 +411,7 @@
 ||partener.aeriumshop.ro^
 ||partner-affilbox.telly.cz^
 ||partner.2din.cz^
+||partner.adamkrupa.cz^
 ||partner.aerium.sk^
 ||partner.affilbox.com^
 ||partner.affiliateark.com^
@@ -464,6 +467,7 @@
 ||partner.cleverfood.eu^
 ||partner.cocochocokeratin.cz^
 ||partner.cokoladovnajanek.cz^
+||partner.colosseumticket.cz^
 ||partner.colway.cz^
 ||partner.comeflexoffice.cz^
 ||partner.cshop.sk^
@@ -559,6 +563,7 @@
 ||partner.liberec-ubytovani.cz^
 ||partner.lidajirickova.cz^
 ||partner.lifetest.eu^
+||partner.ligsuniversity.cz^
 ||partner.ltx.cz^
 ||partner.luckyalvin.cz^
 ||partner.lyzelyze.cz^
@@ -745,6 +750,7 @@
 ||partneri.londonstore.cz^
 ||partneri.lucie-konigova.cz^
 ||partneri.majstervposteli.sk^
+||partneri.manazujmehravo.sk^
 ||partneri.mebline.cz^
 ||partneri.metodajih.cz^
 ||partneri.minshop.cz^

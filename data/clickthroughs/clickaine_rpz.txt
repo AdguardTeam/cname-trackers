@@ -1,7 +1,19 @@
 ;
 ; Company name: Clickaine
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
+aabclkane.bachelorarchive.com CNAME .
 ad.erotikflix.com CNAME .
 adb.xfilm.me CNAME .
 anti.69vclub.com CNAME .
@@ -106,6 +118,7 @@ wafe.camcaps.sx CNAME .
 www.bokep.su CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
+www.xn--icn-hn0a.brandnewapp.pro CNAME .
 xd3r.javgg.eu CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

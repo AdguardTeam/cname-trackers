@@ -1,5 +1,16 @@
 ;
 ; Company name: GMO Internet Group
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 favor1.fractal.jp CNAME .
 d.image-ad.jp CNAME .
 i.image-ad.jp CNAME .

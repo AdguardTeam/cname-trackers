@@ -28,6 +28,7 @@ te.ottoversand.at
 te.quelle.at
 te.quelle.ch
 te.quelle.de
+te.schwab.de
 te.sheego.de
 te.sieh-an.at
 te.sieh-an.ch

@@ -115,6 +115,7 @@ t.cofcsports.com
 t.csurams.com
 t.cubuffs.com
 t.dawsoncreekeventscentre.com
+t.depaulbluedemons.com
 t.ecupirates.com
 t.emueagles.com
 t.fairparkdallas.com
@@ -362,6 +363,7 @@ trk.event.eset.com
 trk.flora.com
 trk.flora.es
 trk.flora.pl
+trk.fruitdor.fr
 trk.futureelectronics.cn
 trk.futureelectronics.com
 trk.gardnerdenver.com
@@ -396,6 +398,7 @@ trk.oberdorferpumps.com
 trk.oma.dk
 trk.parkitbikeracks.com
 trk.peceniejeradost.sk
+trk.pecenijeradost.cz
 trk.picnictables.com
 trk.planta.pt
 trk.plantafin.fr
@@ -507,6 +510,7 @@ app.go.nhaschools.com
 app.go.nitropdf.com
 app.go.sitel.com
 app.go.terremark.com
+app.go.vitecgroup.com
 app.go.wolterskluwerlb.com
 app.go.xo.com
 app.goto.dowjones.com
@@ -627,7 +631,6 @@ application.rasmussen.edu
 application.taleo.com
 apps.go.hobsons.com
 apps.info.convio.com
-apps.info.digidesign.com
 apps.software.netsimplicity.com
 as.balluff.com
 au.mywd.com
@@ -697,6 +700,7 @@ dialer.leads360.com
 dialer.velocify.com
 digital.aptaracorp.com
 digital.forddirectdealers.com
+discover.absciex.com.cn
 distributors.balluff.com
 downeconomywp.advancedtech.com
 downloads.advancedtech.com
@@ -756,6 +760,7 @@ forms.poweritpro.com
 forms.systeminetwork.com
 forms.verisigninc.com
 forms.vmtechpro.com
+forms.xtralis.com
 frostnsullivan.advancedtech.com
 fxpayments.americanexpress.com.au
 gateway.aimia.com
@@ -808,7 +813,6 @@ insight.velocify.com
 insights.att.com
 insurance.leads360.com
 insurance.velocify.com
-interest.ip-science.thomsonreuters.com.cn
 interest.truvenhealth.com
 irmsolutions.choicepoint.com
 isbworld.aon.com
@@ -866,6 +870,7 @@ outsource.sitel.com
 pages.erepublic.com
 pages.expowest.com
 pages.nbjsummit.com
+pages.pentonmktgsvcs.com
 pci.aon.com
 personal.sonicwall.com
 pkg.balluff.com
@@ -932,6 +937,7 @@ solutions.saashr.com
 solutions.unysonlogistics.com
 sources.nxp.com
 springboard.aon.com
+sth.mykingsevents.com
 storagetechnology.arrow.com
 subscribe.vistage.com
 subscriptions.bazaarvoice.com
@@ -975,6 +981,7 @@ www-110.aig.com
 www.activisionnews.com
 www.glf.mt.com
 www.heatexperience.com
+www.hp.mediarolls.com
 www.insights.att.com
 www.mydocusign.com
 www.networkingexchange.att.com
@@ -1007,6 +1014,7 @@ info.marketingcube.com.au
 info.thermofisher.com
 info.thermoscientific.com
 know.wolterskluwerlr.com
+learn.wolterskluwerlr.com
 meetings.gaylordhotels.com
 promos.thermofisher.com
 promos.thermoscientific.com
@@ -1066,7 +1074,9 @@ info.commercial.keurig.com
 insights.prophet.com
 leads.commercial.keurig.com
 lp.copeland.com
+lp.services.tuftsmedicine.org
 microsite.pbs.org
+pages.contact.columbiabank.com
 pages.contact.umpquabank.com
 pages.siemens-energy.com
 pr.cision.co.uk
@@ -1082,6 +1092,7 @@ tracking.go.atcc.org
 tracking.singlestore.com
 trackingalumni.accenturealumni.com
 trck.copeland.com
+u.audi-pureprotection.com
 we.care.oswegohealth.org
 www.safecoprograms.com
 a.mx.carte-gr.total.fr
@@ -1133,6 +1144,7 @@ optifiantsion.carte-gr.total.fr
 pages.ledger.com
 partners.singularlogic.eu
 podbooth.martela.com
+podbooth.martela.no
 podbooth.martela.se
 profiling.eurofins.fi
 profiling.martela.com
@@ -1255,6 +1267,7 @@ info.cybersource.com
 info.fortrea.com
 info3.thermofisher.com
 ins.leavitt.com
+law.bppeloqua.com
 metrics-now.experian.com
 ms.informaengage.com
 partnersuccess.cisco.com
@@ -1313,6 +1326,7 @@ tracking.aupairinamerica.fr
 tracking.connectedcare.wkhs.com
 tracking.culturalinsurance.com
 tracking.evanta.com
+tracking.fullsail.edu
 tracking.myaupairinamerica.com
 tracking.oldnational.com
 tracking.prodesa.com
@@ -1341,7 +1355,6 @@ app.ticketatlantic.com
 app.tulsahurricane.com
 app.utrockets.com
 app.vucommodores.com
-atencion.banrural.com.gt
 business.samsungusa.com
 ca.mattamyhomes.com
 comms.dfsco.com
@@ -1375,7 +1388,6 @@ email-em.us.jll.com
 en-us.coloplastcare.com
 go.motivcx.com
 gomerchant.groupon.com
-info.banrural.com.gt
 info.dfinsolutions.com
 info.edb.gov.sg
 info.metronet.com
@@ -1431,6 +1443,7 @@ info2.thermoscientific.com
 insurance.alliant.com
 iot.informaengage.com
 learn.anthology.com
+moodlerooms.blackboard.com
 myfuture.futureelectronics.com
 now.fintechfutures.com
 now.wealthmanagement.com
@@ -1494,6 +1507,7 @@ events.boozallen.com
 events.mywd.com
 feedback.nslsc-csnpe.ca
 forms.embarcadero.com
+get.fr.ukg.ca
 get.nl.ukg.be
 get.ukg.be
 get.ukg.ca
@@ -1584,6 +1598,7 @@ elqtrk.morningstar.com.au
 elqtrk.morningstar.de
 elqtrk.morningstar.it
 elqtrk.morningstar.nl
+elqtrk.morningstar.no
 elqtrk.my.morningstar.com
 elqtrk.tw.morningstar.com
 email-hk.americanexpress.com
@@ -1595,6 +1610,7 @@ events.engage.cebglobal.com
 fasttrack.americanexpress.co.uk
 food.informaengage.com
 forex.americanexpress.com
+fxreferral.americanexpress.com
 gccmembershiprewards.americanexpress.de
 gccmembershiprewards.americanexpress.it
 get.docusign.com
@@ -1654,6 +1670,7 @@ pgs.corporatetravelcommunity.com
 picis.optum.com
 preference.nuance.com
 realsolutions.americanexpress.it
+realsolutions.americanexpress.se
 secure.info.zetes.com
 sgforex.americanexpress.com
 simpletopay.americanexpress.com.au
@@ -1689,6 +1706,7 @@ trk.supermarketnews.com
 usingyourcard.americanexpress.co.uk
 acquisition.cbre.com.au
 app.bluehens.com
+app.emueagles.com
 app.goairforcefalcons.com
 app.gobulldogs.com
 app.goheels.com
@@ -1729,6 +1747,7 @@ tracking.info.ivanti.com
 tracking.oppd.com
 tracking.rootinc.com
 tracking.umbrella.com
+webinars.cigna.com
 www.ess.tis.co.jp
 your.maas.ptvgroup.com
 your.mapandguide.ptvgroup.com
@@ -1875,6 +1894,7 @@ links.emails-sharedealing.co.uk
 links.emails.birminghammidshires.co.uk
 links.lexautolease.co.uk
 links.npsemails.mbna.co.uk
+lp-info.arval.com
 lp.email-particuliers.engie.fr
 lp3.dentsplysirona.com
 lps-info.arval.com
@@ -1991,6 +2011,7 @@ seek.intel.com
 sementi.pioneer.com
 smb.info.shutterstock.com
 software.seek.intel.com
+sweeps.la-z-boy.com
 techprovider.intel.com
 tracking.about.bgov.com
 tracking.bbgevent.app
@@ -2134,6 +2155,7 @@ images.e.ice.com
 images.e.lexisnexis.com
 images.e.mylanlabs.com
 images.e.pcm.com
+images.e.realtor.com
 images.e.royalmail.com
 images.e.seagate.com
 images.e.seahawksemail.com
@@ -2178,6 +2200,7 @@ images.eq.intuit.com
 images.eq.tm.intuit.com
 images.experience.eneco.be
 images.explore.editionhotels.com
+images.fans.mlse.com
 images.fanservices.jaguars.com
 images.financial-risk-solutions.thomsonreuters.info
 images.flippengroup.com
@@ -2226,6 +2249,7 @@ images.go1.lapersonnelle.com
 images.grootzakelijk.kpn.com
 images.groupcommunications.royalmail.com
 images.guidance.choosemylo.com
+images.h.analog.com
 images.health.stlukes-stl.com
 images.hq.scorecardrewards.com
 images.i.mesosphere.com
@@ -2367,6 +2391,7 @@ images.notice.wageworks.com
 images.noticias.clarin.com
 images.notifications.aigdirect.com
 images.nwinsurance.pemco.com
+images.offers.princesscruises.co.uk
 images.online.bankofjordan.com.jo
 images.online.chancellors.co.uk
 images.online.mt.com
@@ -2463,21 +2488,31 @@ img.go.coface.com
 img.hrm.groups.be
 img.n.nasdaq.com
 img.newsletter.mazda.co.jp
+img.partnermktg.symantec.com
+img.response.digicert.com
+img.website-security.symantec.com
 imgict.dwtcmarketing.com
 imginfo.insource.co.jp
 imgmail.mediasetpremium.it
 origin.www.images.2.forms.healthcare.philips.com
 response.quest.com
 www.assets.newsletters.signify.com
-elink.serasaexperian.com.br
-images.e.realtor.com
-images.fans.mlse.com
-images.h.analog.com
-images.offers.princesscruises.co.uk
-img.partnermktg.symantec.com
-img.response.digicert.com
-img.website-security.symantec.com
 yourporscheimg.nabooda-auto.com
+elink.serasaexperian.com.br
+images.deals.carpetone.com
+images.donotreply.prudential.com
+images.email.fico.com
+images.engage.mettel.net
+images.go.aifs.com
+images.loyalty.lindtusa.com
+images.ma.kikusuiamerica.com
+images.performance.volvotrucks.com
+images.perspectives.jll.com
+images.response.wexinc.com
+images.service.ubmsinoexpo.com
+images.solutions.kellyservices.com
+images.ultipro.ultimatesoftware.com
+img.learn.abreon.com
 admin.smartgroup.com.au
 cars.autopia.com.au
 cars.smartfleetaustralia.com.au
@@ -2614,6 +2649,7 @@ marketing.omeir.com
 microlearning.att.com
 mkt.compactaprint.com.br
 page.health.tmcaz.com
+qr.dwtc.com
 response.emoneyadvisor.com
 solutions.westrock.com
 tracking.eloqua.modernize.com
@@ -2685,7 +2721,9 @@ trk.findfashionevents.com
 trk.magicfashionevents.com
 trk.projectfashionevents.com
 trk.sourcingatmagic.com
+web.care.mclaren.org
 webinars.oncourselearning.com
+webtracking.cuwebinars.com
 www.fordprotectplans.com
 advisorservices.etradefinancial.com
 advisorservicesfpc.etradefinancial.com
@@ -2811,6 +2849,7 @@ ro-go.experian.com
 ru-go.experian.com
 se-go.experian.com
 secure.arrow.com
+secureforms.accuity.com
 secureforms.bankersalmanac.com
 secureforms.cirium.com
 secureforms.fircosoft.com
@@ -2869,6 +2908,7 @@ gsols.edm.globalsources.com
 home.edm.globalsources.com
 indoeasia.edm.globalsources.com
 lifestyle.tradeshow.globalsources.com
+mobile.tradeshow.globalsources.com
 premierbuyer.edm.globalsources.com
 response.australian.physio
 smkt.edm.globalsources.com
@@ -2924,11 +2964,13 @@ care.stlukes-stl.com
 channelportal.netsuite.com
 connect.care.lcmchealth.org
 connect.hendricks.org
+connect.medical.rossu.edu
 connect.news.evergreenhealth.com
 contact.abc-companies.com
 covenant.psjhealth.org
 fpc.utexas.edu
 go.ali-cle.org
+go.billsmafia.com
 go.psentertainment.com
 info.floridagators.com
 info.medtronicdiabetes.com
@@ -2942,7 +2984,6 @@ reply.osv.com
 s.latam.cemex.com
 sandbox-connectlp.keysight.com
 sandbox-elq.keysight.com
-sandbox.connectlp.keysight.com
 tracker.providence.org
 tracker.swedish.org
 tracking.attexperts.com
@@ -3218,6 +3259,7 @@ secure.medtroniclearn.com
 securetracking.golfpride.com
 sponsored.strategic-i.com
 st.azcardinals.com
+track.cornerstonebuildingbrands.com
 track.estoneworks.com
 track.simonton.com
 tracking.bv.com
@@ -3254,6 +3296,7 @@ info.rewe-group.at
 link.bankofscotland.co.uk
 link.halifax.co.uk
 link.lloydsbank.com
+link.mbna.co.uk
 pm.eu.viatrisconnect.com
 pm.eu.viatrisconnect.de
 pm.eu.viatrisconnect.it
@@ -3566,6 +3609,7 @@ interact.crmtechnologies.com
 learn.nhaschools.com
 live.polycom.com
 msa-emea.secureforms.partnermcafee.com
+msa-uki.secureforms.partnermcafee.com
 myfuture.wellsfargoemail.com
 news.crmtechnologies.com
 news.inttra.com
@@ -3576,6 +3620,7 @@ respond.firstdata.com
 secure.info.awlgrip.com
 technology1.informaengage.com
 test.siriusdecisions.com
+tracking.construction.com
 tracking.info.servicenow.com
 tracking.lenovo.com
 tracking.siriusdecisions.com
@@ -3701,7 +3746,6 @@ na-pages.husqvarna.com
 namrinfo.motorolasolutions.com
 pp.scorecardrewards.com
 preference.motorolasolutions.com
-promociones.christus.mx
 publicidad.davivienda.com.pa
 secure.medtronicinteract.com
 solutions.peco-energy.com
@@ -3846,6 +3890,7 @@ info.markmonitor.com
 itservices.ricoh.ch
 itservices.ricoh.co.uk
 itservices.ricoh.co.za
+itservices.ricoh.de
 itservices.ricoh.ie
 lets.go.haymarketmedicalnetwork.com
 lieudetravail.ricoh.fr
@@ -3951,6 +3996,7 @@ ticketoffice.liberty.edu
 track.info.mmm-online.com
 track.inspirage.com
 tracking.matsinc.com
+tracking.mattersurfaces.com
 tracking.response.terex.com
 tracking.rti-inc.com
 ucaas.avaya.com
@@ -4025,6 +4071,7 @@ app.scarletknights.com
 app.und.com
 campanhas.edpcomunicacao.com.br
 comunicacao.edpcomunicacao.com.br
+digital.dynatos.be
 discover.conversantmedia.com
 eloqua.soprasteria.co.uk
 explore.epsilon.com
@@ -4079,6 +4126,7 @@ inform.janssenpro.eu
 learn.amplypower.com
 learn.oviahealth.com
 mkt.unipega.com
+mkt.vettaquimica.com.br
 ready.nerdery.com
 response.ez-dock.com
 response.littletikescommercial.com
@@ -4094,6 +4142,7 @@ tracking.dz.janssenmedicalcloud.me
 tracking.janssenmed.cz
 tracking.janssenmed.sk
 tracking.janssenmedicalcloud.be
+tracking.janssenmedicalcloud.ch
 tracking.janssenmedicalcloud.com
 tracking.janssenmedicalcloud.de
 tracking.janssenmedicalcloud.ee
@@ -4103,9 +4152,11 @@ tracking.janssenmedicalcloud.fr
 tracking.janssenmedicalcloud.gr
 tracking.janssenmedicalcloud.hr
 tracking.janssenmedicalcloud.it
+tracking.janssenmedicalcloud.lt
 tracking.janssenmedicalcloud.me
 tracking.janssenmedicalcloud.pl
 tracking.janssenmedicalcloud.pt
+tracking.janssenmedicalcloud.ro
 tracking.janssenmedicalcloud.se
 tracking.janssenmedicalcloud.sk
 tracking.janssenos.com
@@ -4264,6 +4315,7 @@ tracking.gelia.com
 tracking.lenovopartnernetwork.com
 tracking.pgi.com
 tracking3.lenovo.com
+trackingeloqua.tec.mx
 ussolutions.equifax.com
 www.quoteafs.com
 www.test92.com
@@ -4416,6 +4468,7 @@ info.johnsoncontrols.com
 lp.healthinfo.thechristhospital.com
 marketing.sonac.biz
 media.ubmamevents.com
+news.tcsg.edu
 paginaseloqua.unisabana.edu.co
 posgrados-unisabana-edu-co-1207474081.p04.elqsandbox.com
 posgrados.unisabana.edu.co
@@ -4520,12 +4573,14 @@ go.edmontonoilers.com
 go.oilkings.ca
 go.exactonline.de
 go.exactonline.fr
+go.exactonline.nl
 p06.sc.origins.en25.com
 s1325061471.sc.origins.en25.com
 s1782711468.sc.origins.en25.com
 s861531437.sc.origins.en25.com
 ihub.dpworlduae.com
 p04.sc.origins.en25.com
+s615419487.sc.origins.en25.com
 knowledge.verdantis.com
 p01.sc.origins.en25.com
 s2448.sc.origins.en25.com

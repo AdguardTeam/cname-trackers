@@ -1,4 +1,15 @@
 ;
 ; Company name: ads2.bid
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 arvb.gamz48qlok.ru CNAME .
 dsp-image-resizer.gamz48qlok.ru CNAME .

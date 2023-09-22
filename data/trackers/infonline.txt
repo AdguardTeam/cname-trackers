@@ -89,6 +89,7 @@
 ||data-0c700a44f4.rund-ums-baby.de^
 ||data-0cc10e3905.werbenundverkaufen.de^
 ||data-0cc10e3905.wuv.de^
+||data-0cca9d915f.missmum.at^
 ||data-0cf18bcfe3.katholisch.de^
 ||data-0d1a0271a9.instyle.de^
 ||data-0d5230f0d5.tvmovie.de^
@@ -304,6 +305,7 @@
 ||data-24fe804269.datacenter-insider.de^
 ||data-2572d220f8.motorsport-total.com^
 ||data-26457755f1.apps.iocnt.de^
+||data-26d7316678.gewinn.com^
 ||data-26e104754d.hgtv.com^
 ||data-27118360b0.shk-profi.de^
 ||data-27183e6c59.apps.iocnt.de^
@@ -370,6 +372,7 @@
 ||data-3212b1cf73.apps.iocnt.de^
 ||data-3277c56f96.ingenieur.de^
 ||data-3277c56f96.ingenieurstage.de^
+||data-32d8a1e8f7.kl-magazin.de^
 ||data-331311c70c.suedkurier.de^
 ||data-337242f510.itk-rheinland.de^
 ||data-339e8471f1.bau-welt.de^
@@ -450,6 +453,7 @@
 ||data-3eff3aac07.kino-zeit.de^
 ||data-3f0062caa0.elektro.net^
 ||data-3f37694eeb.esports.com^
+||data-3f9c4f5eb9.automotive.at^
 ||data-40370dcf13.emsdettenervolkszeitung.de^
 ||data-40370dcf13.ev-online.de^
 ||data-40370dcf13.mv-online.de^
@@ -659,6 +663,7 @@
 ||data-4eee35d766.apps.iocnt.de^
 ||data-4f2efe538c.einfachbacken.de^
 ||data-4f77096dc0.brocken.de^
+||data-4f77096dc0.radio-brocken.com^
 ||data-4f77096dc0.radio-brocken.de^
 ||data-4f77096dc0.radiobrocken.com^
 ||data-4fa18eb5e3.zvw.de^
@@ -742,6 +747,7 @@
 ||data-5ce6ecf8d0.nn.de^
 ||data-5ce6ecf8d0.nordbayern.de^
 ||data-5cfea13ba1.fluid.de^
+||data-5d2679d281.skysportaustria.at^
 ||data-5d4a957104.focus-arztsuche.de^
 ||data-5d621ddc78.buffed.de^
 ||data-5d621ddc78.gamesaktuell.de^
@@ -969,6 +975,7 @@
 ||data-7b4229ab74.idowa.de^
 ||data-7b5c057fdb.emotion.de^
 ||data-7b705d0b93.b4bschwaben.de^
+||data-7bd40aa49e.laendleimmo.at^
 ||data-7c0fd2a117.meinenzkreis.de^
 ||data-7c0fd2a117.pz-news.de^
 ||data-7c0fd2a117.pz-nightlife.de^
@@ -1097,6 +1104,7 @@
 ||data-8e96b6cfc5.gelbeseiten.de^
 ||data-8ec1348702.apps.iocnt.de^
 ||data-8ec206415a.dnb.de^
+||data-8eeb5d63be.gast.at^
 ||data-8f03f9dd42.spiegel.de^
 ||data-8f7660c51c.apps.iocnt.de^
 ||data-8f7f72a50d.vogue.de^
@@ -1713,6 +1721,7 @@
 ||data-e3d4300b49.n-tv.de^
 ||data-e3d4300b49.sport.de^
 ||data-e47ac57521.lokal26.de^
+||data-e4997adf31.bilanz.de^
 ||data-e4997adf31.metal-hammer.de^
 ||data-e4997adf31.welt.de^
 ||data-e4cfccd10c.freundin.de^
@@ -1729,6 +1738,7 @@
 ||data-e723f0d7d1.stylebook.de^
 ||data-e7308988a6.freundin.de^
 ||data-e807969afb.scinexx.de^
+||data-e81f9554e5.willhaben.at^
 ||data-e86b27e677.spieletipps.de^
 ||data-e89b4fd803.apps.iocnt.de^
 ||data-e89c765eef.main-echo.de^

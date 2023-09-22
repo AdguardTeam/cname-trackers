@@ -79,8 +79,10 @@
 ||tr.asp10f6.espmp-agfr.net^
 ||tr.asp10fa.espmp-cufr.net^
 ||tr.asp10fg.espmp-aufr.net^
+||tr.asp10fl.espmp-nifr.net^
 ||tr.asp10fo.espmp-nifr.net^
 ||tr.asp10fp.espmp-nifr.net^
+||tr.asp10ga.espmp-nifr.net^
 ||tr.asp10ge.espmp-nifr.net^
 ||tr.asp10h2.espmp-nifr.net^
 ||tr.asp10hc.espmp-aufr.net^
@@ -129,6 +131,7 @@
 ||tr.btob-afaceri.ro^
 ||tr.btob-cwf.com^
 ||tr.btob-deals.co.uk^
+||tr.btob-pro.be^
 ||tr.btob.mhdfrance.fr^
 ||tr.btobquotes.be^
 ||tr.btobquotes.cl^
@@ -161,6 +164,7 @@
 ||tr.cifa02b.espmp-aufr.net^
 ||tr.cifa02d.espmp-aufr.net^
 ||tr.cifa02k.espmp-aufr.net^
+||tr.cifa02l.espmp-nifr.net^
 ||tr.citiesforlifeparis.latribune.fr^
 ||tr.cj.bordeaux-metropole.fr^
 ||tr.client.emailing.bnpparibas^
@@ -246,6 +250,7 @@
 ||tr.cypruspremiervacations.com^
 ||tr.datacom.espmp-pofr.net^
 ||tr.demo.np6.com^
+||tr.designoutlet-contact.fr^
 ||tr.devis-companeo.be^
 ||tr.devis-companeo.com^
 ||tr.devis-companeo.fr^
@@ -390,6 +395,7 @@
 ||tr.gestion.liberation.fr^
 ||tr.gestion.norrsken.fr^
 ||tr.gestion.sygmabnpparibas-pf.com^
+||tr.gplus.espmp-nifr.net^
 ||tr.grez.espmp-nifr.net^
 ||tr.group-appointments.lvmh.fr^
 ||tr.group-hr.lvmh.fr^
@@ -479,6 +485,7 @@
 ||tr.infolettres.groupama.com^
 ||tr.infomarche.hennessy.fr^
 ||tr.information.fidalformations.fr^
+||tr.information.labelleadresse.com^
 ||tr.information.lacollection-airfrance.be^
 ||tr.information.lacollection-airfrance.ch^
 ||tr.information.lacollection-airfrance.fr^
@@ -688,6 +695,7 @@
 ||tr.news.exclu.fr^
 ||tr.news.extenso-telecom.com^
 ||tr.news.externis.com^
+||tr.news.extrabook.com^
 ||tr.news.flandrintechnologies.com^
 ||tr.news.frame.fr^
 ||tr.news.futuramedia.fr^
@@ -1005,6 +1013,7 @@
 ||tr.urfk05g.espmp-agfr.net^
 ||tr.urfk05l.espmp-nifr.net^
 ||tr.urfk06h.espmp-nifr.net^
+||tr.urfk06n.espmp-nifr.net^
 ||tr.urfk06o.espmp-agfr.net^
 ||tr.urfk06x.espmp-cufr.net^
 ||tr.urfk06y.espmp-nifr.net^

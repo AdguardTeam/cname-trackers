@@ -148,6 +148,7 @@
     * 823532764568303.wt-eu02.net
     * 832292761796928.wt-eu02.net
     * 835623675026119.wt-eu02.net
+    * 841439655073636.wt-eu02.net
     * 849036415619964.wt-eu02.net
     * 849715076759606.wt-eu02.net
     * 865411762489824.wt-eu02.net
@@ -211,10 +212,6 @@
     * wt-ara.wt-eu02.net
     * wttd-douglas.wt-eu02.net
     * xxxlmoebelhaeuserde02.wt-eu02.net
-
-### Rarely active trackers
-
-* wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com
 
 ## Cloaking domains
 
@@ -327,7 +324,10 @@
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
+| web.e.guttersupplies.co.uk | 587628343151442.wt-eu02.net |
 | web.e.pbslgroup.co.uk | 587628343151442.wt-eu02.net |
+| web.e.professionalbuildingsupplies.co.uk | 587628343151442.wt-eu02.net |
+| web.e.pvccladding.com | 587628343151442.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
 | wbtrkk.teufelaudio.be | 598189357306993.wt-eu02.net |
 | web.mapp.tretti.se | 600483262075260.wt-eu02.net |
@@ -379,6 +379,7 @@
 | web.info.vantastic-foods.com | 832292761796928.wt-eu02.net |
 | web.info.bodybuildingwarehouse.co.uk | 835623675026119.wt-eu02.net |
 | web.info.bodybuildingwarehouse.com | 835623675026119.wt-eu02.net |
+| web.news.paganistore.com | 841439655073636.wt-eu02.net |
 | web.bankofscotland.de | 849036415619964.wt-eu02.net |
 | mit.deutsche-bank.de | 849715076759606.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
@@ -592,7 +593,6 @@
 | wt.ara.ad | wt-ara.wt-eu02.net |
 | wt.ara.cat | wt-ara.wt-eu02.net |
 | wt.arabalears.cat | wt-ara.wt-eu02.net |
-| web.marketing.jellybelly.com | wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com |
 | wttd.douglas.at | wttd-douglas.wt-eu02.net |
 | wttd.douglas.ch | wttd-douglas.wt-eu02.net |
 | wttd.douglas.de | wttd-douglas.wt-eu02.net |

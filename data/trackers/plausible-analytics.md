@@ -140,6 +140,7 @@
 | metrics.axiomatic-inc.com | custom.plausible.io |
 | metrics.creit.tech | custom.plausible.io |
 | metrics.earrieta.dev | custom.plausible.io |
+| metrics.javierarcheni.com | custom.plausible.io |
 | metrics.recunia.de | custom.plausible.io |
 | momotaro.craigmod.com | custom.plausible.io |
 | momotaro.walkkumano.com | custom.plausible.io |
@@ -234,6 +235,7 @@
 | plausible.dailytics.com | custom.plausible.io |
 | plausible.deploymentfromscratch.com | custom.plausible.io |
 | plausible.dev.logicboard.com | custom.plausible.io |
+| plausible.dingran.me | custom.plausible.io |
 | plausible.doberman.co | custom.plausible.io |
 | plausible.doctave.com | custom.plausible.io |
 | plausible.ejs.dev | custom.plausible.io |
@@ -261,6 +263,7 @@
 | plausible.k6sbw.net | custom.plausible.io |
 | plausible.kabaret.no | custom.plausible.io |
 | plausible.kdojang.com | custom.plausible.io |
+| plausible.kundenportal.io | custom.plausible.io |
 | plausible.langojango.com | custom.plausible.io |
 | plausible.lesbianromantic.com | custom.plausible.io |
 | plausible.logicboard.com | custom.plausible.io |
@@ -374,6 +377,7 @@
 | statistic.jac-systeme.de | custom.plausible.io |
 | statistics.heatbeat.de | custom.plausible.io |
 | statistik.apartments-tirolerhaus.at | custom.plausible.io |
+| stats-whatever.gigride.live | custom.plausible.io |
 | stats.45rpm.ch | custom.plausible.io |
 | stats.50x.ca | custom.plausible.io |
 | stats.69grad.de | custom.plausible.io |
@@ -518,6 +522,7 @@
 | stats.dflydev.com | custom.plausible.io |
 | stats.diarmuidsexton.com | custom.plausible.io |
 | stats.digiexpert.store | custom.plausible.io |
+| stats.dillen.dev | custom.plausible.io |
 | stats.divyanshu013.dev | custom.plausible.io |
 | stats.dmail.co.nz | custom.plausible.io |
 | stats.dmarcdigests.com | custom.plausible.io |
@@ -549,7 +554,6 @@
 | stats.engel-apotheke.de | custom.plausible.io |
 | stats.engeldirekt.de | custom.plausible.io |
 | stats.engineering.freeagent.com | custom.plausible.io |
-| stats.englishadam.com | custom.plausible.io |
 | stats.entreno.fcalan.org | custom.plausible.io |
 | stats.equium.io | custom.plausible.io |
 | stats.erbridge.co.uk | custom.plausible.io |
@@ -632,6 +636,7 @@
 | stats.huysmanbouw.be | custom.plausible.io |
 | stats.iamzero.dev | custom.plausible.io |
 | stats.ibuildings.net | custom.plausible.io |
+| stats.ideologicalconflict.org | custom.plausible.io |
 | stats.iefg.org | custom.plausible.io |
 | stats.ifiwasgame.com | custom.plausible.io |
 | stats.igassmann.me | custom.plausible.io |
@@ -771,7 +776,6 @@
 | stats.obokat.se | custom.plausible.io |
 | stats.odysseeseine.org | custom.plausible.io |
 | stats.officefoosball.com | custom.plausible.io |
-| stats.offthekerb.com | custom.plausible.io |
 | stats.okconnect.org | custom.plausible.io |
 | stats.oldtinroof.com | custom.plausible.io |
 | stats.oliveoil.pro | custom.plausible.io |
@@ -905,6 +909,7 @@
 | stats.suggestedit.com | custom.plausible.io |
 | stats.suniboy.com | custom.plausible.io |
 | stats.sunpeaksstables.com | custom.plausible.io |
+| stats.suominaikidoacademy.com | custom.plausible.io |
 | stats.sushibyte.io | custom.plausible.io |
 | stats.svemir.co | custom.plausible.io |
 | stats.symbiofest.cz | custom.plausible.io |

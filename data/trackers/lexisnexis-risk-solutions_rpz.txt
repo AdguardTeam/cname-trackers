@@ -1,5 +1,16 @@
 ;
 ; Company name: LexisNexis Risk Solutions
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 1bf86f4b.tictoc.ai CNAME .
 1of1.skipcash.app CNAME .
 acdc.toolineo.de CNAME .
@@ -115,6 +126,7 @@ cdntm.hsbc.com.ph CNAME .
 cdntm.hsbc.com.sg CNAME .
 cdntm.hsbc.fr CNAME .
 cdntm.johnlewisfinance.com CNAME .
+cdntm.mandsbank.com CNAME .
 cdntm.marksandspencer.com CNAME .
 cdntm.rodanandfields.com CNAME .
 cdntm.us.hsbc.com CNAME .
@@ -263,6 +275,7 @@ content.readiness.consumercardaccess.com CNAME .
 content.readiness.familyprepaiddebit.com CNAME .
 content.readiness.paycardsolutions.com CNAME .
 content.realquest.com CNAME .
+content.reisource.com CNAME .
 content.royalairmaroc.com CNAME .
 content.royalvegascasino.ca CNAME .
 content.rubyfortune.ca CNAME .
@@ -514,6 +527,8 @@ mobile.du.ae CNAME .
 mobilecontent.networks.prod.p0.phx-infra.com CNAME .
 mobilecontent.projectdrgn.com CNAME .
 mobsessions.worldremit.com CNAME .
+msimkpups.michaels.com CNAME .
+mtx.thirdstream.ca CNAME .
 nav.sciencedirect.com CNAME .
 neo.fashionette.de CNAME .
 nexus-svc.sc.com CNAME .
@@ -804,7 +819,6 @@ tcontent.auchantelecom.fr CNAME .
 tcontent.cdiscountmobile.cdiscount.com CNAME .
 tcontent.nrjmobile.fr CNAME .
 telem.highlow.com CNAME .
-telem.highlow.net CNAME .
 tfp.intuit.com CNAME .
 th.barclays.co.uk CNAME .
 thm.v.me CNAME .
@@ -923,7 +937,6 @@ v.marcus.com CNAME .
 v.sagasavings.co.uk CNAME .
 valcontent.securustech.net CNAME .
 validacionlx.agaval.com CNAME .
-venus.chegg.com CNAME .
 verification.ndtco.com CNAME .
 verify.metlife.com CNAME .
 verify.philippineairlines.com CNAME .

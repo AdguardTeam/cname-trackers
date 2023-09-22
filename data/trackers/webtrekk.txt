@@ -260,8 +260,11 @@
 ||web.crm.beps.it^
 ||web.diebayerische.de^
 ||web.e.aldermore.co.uk^
+||web.e.guttersupplies.co.uk^
 ||web.e.panmacmillan.com^
 ||web.e.pbslgroup.co.uk^
+||web.e.professionalbuildingsupplies.co.uk^
+||web.e.pvccladding.com^
 ||web.email.farrow-ball.com^
 ||web.email.pmtonline.co.uk^
 ||web.email.principality.co.uk^
@@ -303,6 +306,7 @@
 ||web.news.eprice.it^
 ||web.news.imperialfashion.com^
 ||web.news.lancel.com^
+||web.news.paganistore.com^
 ||web.news.piquadro.com^
 ||web.news.pleasefashion.com^
 ||web.news.thebridge.it^

@@ -94,6 +94,7 @@
     * sperry.extole.com
     * staples.extole.com
     * talbots.extole.com
+    * tassimodirect.extole.com
     * teacollection.extole.com
     * tenmarks.extole.com
     * tennessean.extole.com
@@ -192,6 +193,7 @@
     * buttah-skin.extole.io
     * c-spire.extole.io
     * caavo.extole.io
+    * caleres.extole.io
     * calo.extole.io
     * calvinklein.extole.io
     * carpartscom.extole.io
@@ -320,6 +322,7 @@
     * join1440.extole.io
     * jonesservices.extole.io
     * juicepress.extole.io
+    * jusbyjulie.extole.io
     * juvlabs.extole.io
     * keds.extole.io
     * kerastase-usa.extole.io
@@ -449,6 +452,7 @@
     * signals.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
+    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skyone-federal-credit-union.extole.io
@@ -607,7 +611,6 @@
 | refer.barenecessities.com | barenecessities.extole.com |
 | refer.barharbor.bank | barharbor.extole.io |
 | refer.barnandwillow.com | barnandwillow.extole.io |
-| share.bncollege.com | barnes-and-noble-college.extole.io |
 | share.shoptruespirit.com | barnes-and-noble-college.extole.io |
 | refer.basbleu.com | basbleu.extole.io |
 | share.basepaws.com | basepaws.extole.io |
@@ -647,6 +650,7 @@
 | share.buttahskin.com | buttah-skin.extole.io |
 | refer.cspire.com | c-spire.extole.io |
 | refer.caavo.com | caavo.extole.io |
+| refer.drschollsshoes.com | caleres.extole.io |
 | refer.calo.app | calo.extole.io |
 | refer.calstate.aaa.com | calstate-aaa.extole.com |
 | share.calvinklein.us | calvinklein.extole.io |
@@ -863,6 +867,7 @@
 | refer.juicepress.com | juicepress.extole.io |
 | share.juicepress.com | juicepress.extole.io |
 | refer.julep.com | julep.extole.com |
+| refer.jusbyjulie.com | jusbyjulie.extole.io |
 | share.juvlabs.com | juvlabs.extole.io |
 | refer.keds.com | keds.extole.io |
 | refer.kerastase-usa.com | kerastase-usa.extole.io |
@@ -1050,6 +1055,7 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
+| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | refer.skyone.org | skyone-federal-credit-union.extole.io |
@@ -1080,6 +1086,7 @@
 | refer.swansonvitamins.com | swansonvitamins.extole.io |
 | refer.take5oilchange.com | take5oilchange.extole.io |
 | refer.talbots.com | talbots.extole.com |
+| refer.tassimodirect.com | tassimodirect.extole.com |
 | refer.tatcha.co.uk | tatcha.extole.io |
 | refer.tatcha.com | tatcha.extole.io |
 | refer.taxact.com | taxact.extole.io |

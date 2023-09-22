@@ -1,5 +1,16 @@
 ;
 ; Company name: PopCash
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 cdn.afwpc.com CNAME .
 cdn.almacz.com CNAME .
 cdn.alota.xyz CNAME .
@@ -133,6 +144,7 @@ asp.podlist.de CNAME .
 asp.sepiasoft.eu CNAME .
 azlej8cdm.pragmaticwebsecurity.com CNAME .
 baboon.ideapotential.com CNAME .
+baboon.namegen.app CNAME .
 baboon.naxon.dev CNAME .
 baboon.vacanti.com CNAME .
 badger.pager.app CNAME .
@@ -152,7 +164,6 @@ bass.alfrednerstu.com CNAME .
 bass.siterig.io CNAME .
 bat.heelix.be CNAME .
 bear.big.dk CNAME .
-bear.bukury.com CNAME .
 bear.datingrelationshipsadvice.com CNAME .
 bear.jake.nyc CNAME .
 bear.modulr.design CNAME .
@@ -670,7 +681,6 @@ magpie.phil.dev CNAME .
 mammal.autoidle.com CNAME .
 manatee.biodom.bio CNAME .
 manatee.creativepassport.net CNAME .
-mandrill.peoplegroove.com CNAME .
 mandrill.phiilu.com CNAME .
 mandrill.yellowfruit.co CNAME .
 mantaray.bullshitgoggles.com CNAME .
@@ -707,6 +717,7 @@ mole.energizer.eu CNAME .
 mole.getfamealy.com CNAME .
 mole.gostartupco.com CNAME .
 mole.rtbhouse.com CNAME .
+mole.vcntlee.com CNAME .
 mollusk.saferingz.com CNAME .
 mollusk.working.actor CNAME .
 mongoose.jasonlbeggs.com CNAME .
@@ -747,7 +758,6 @@ orangutan.renovare.org CNAME .
 orangutan.va4indieauthors.com CNAME .
 orca.getnodo.com CNAME .
 orca.overbold.co CNAME .
-orca.weatherontheway.app CNAME .
 ostrich.getschools.org CNAME .
 ostrich.hegic-tokenizer.co CNAME .
 ostrich.pergaudiaadastra.de CNAME .
@@ -773,6 +783,7 @@ panther.thestocks.im CNAME .
 panther.tigil.rs CNAME .
 parakeet.quotetweet.com CNAME .
 parrot.lovably.com CNAME .
+parrot.ohdear.app CNAME .
 parrotfish.thenping.me CNAME .
 parrotfish.wilderworld.com CNAME .
 parrotfish.wus.immo CNAME .
@@ -867,12 +878,14 @@ rook.behmann.at CNAME .
 rook.clarify.io CNAME .
 rook.flowlens.com CNAME .
 rook.grithix.com CNAME .
+rooster.ohqcloud.com CNAME .
 sailfish.hoap.com CNAME .
 sailfish.kentcdodds.com CNAME .
 sailfish.lifelines-film.com CNAME .
 sailfish.mastercw.com CNAME .
 sailfish.the-psychedelicatessen.com CNAME .
 sailfish.youracademycommunity.com CNAME .
+salamander.augmentedmind.io CNAME .
 salamander.laboucheriebio.com CNAME .
 salamander.showandtelldata.com CNAME .
 salmon.literallife.church CNAME .

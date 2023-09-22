@@ -1,5 +1,16 @@
 ;
 ; Company name: AD EBiS
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 a9d8e7b6i5s.andgino.jp CNAME .
 aaa.aqualink.tv CNAME .
 aaaa.jawfp2.org CNAME .

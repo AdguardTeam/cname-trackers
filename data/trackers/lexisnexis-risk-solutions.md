@@ -18,6 +18,7 @@
     * h-1qpcog32.online-metrix.net
     * h-1u7ubqzg.online-metrix.net
     * h-1vjjer2n.online-metrix.net
+    * h-22outib0.online-metrix.net
     * h-22vdduyk.online-metrix.net
     * h-27l2wggf.online-metrix.net
     * h-2dehands.online-metrix.net
@@ -123,6 +124,7 @@
     * h-apruvd.online-metrix.net
     * h-ascendloans.online-metrix.net
     * h-asjl0mko-2.online-metrix.net
+    * h-asjl0mko-3.online-metrix.net
     * h-asjl0mko.online-metrix.net
     * h-asurion.online-metrix.net
     * h-autoowners.online-metrix.net
@@ -207,7 +209,6 @@
     * h-cgvf1sqx.online-metrix.net
     * h-charter.online-metrix.net
     * h-chase.online-metrix.net
-    * h-chegg.online-metrix.net
     * h-chickfila.online-metrix.net
     * h-chubb.online-metrix.net
     * h-cibc.online-metrix.net
@@ -357,7 +358,6 @@
     * h-hgy2n0ks-seller.online-metrix.net
     * h-hie95lph-duo.online-metrix.net
     * h-hie95lph-walrew.online-metrix.net
-    * h-highlow.online-metrix.net
     * h-hoares.online-metrix.net
     * h-home24.online-metrix.net
     * h-homeaway2.online-metrix.net
@@ -455,6 +455,7 @@
     * h-messa.online-metrix.net
     * h-metlife.online-metrix.net
     * h-metrobank.online-metrix.net
+    * h-michaels.online-metrix.net
     * h-microsoft.online-metrix.net
     * h-milestonegoldcard.online-metrix.net
     * h-missionlane.online-metrix.net
@@ -719,6 +720,7 @@
 | matrix.cpg.org | h-1qpcog32.online-metrix.net |
 | cnt.goboo.com | h-1u7ubqzg.online-metrix.net |
 | ptm.creditas.com | h-1vjjer2n.online-metrix.net |
+| mtx.thirdstream.ca | h-22outib0.online-metrix.net |
 | ghisa.subito.it | h-22vdduyk.online-metrix.net |
 | rmscheck.sbifxt.co.jp | h-27l2wggf.online-metrix.net |
 | faas.2dehands.be | h-2dehands.online-metrix.net |
@@ -867,6 +869,7 @@
 | content.apruvd.com | h-apruvd.online-metrix.net |
 | contentservices.ascendloans.com | h-ascendloans.online-metrix.net |
 | content.realquest.com | h-asjl0mko-2.online-metrix.net |
+| content.reisource.com | h-asjl0mko-3.online-metrix.net |
 | content.listsource.com | h-asjl0mko.online-metrix.net |
 | content.asurion53.com | h-asurion.online-metrix.net |
 | customercenter-img04.auto-owners.com | h-autoowners.online-metrix.net |
@@ -973,7 +976,6 @@
 | content2.paywerk.co | h-cgvf1sqx.online-metrix.net |
 | pov.spectrum.net | h-charter.online-metrix.net |
 | h.chase.co.uk | h-chase.online-metrix.net |
-| venus.chegg.com | h-chegg.online-metrix.net |
 | tmetrix.my.chick-fil-a.com | h-chickfila.online-metrix.net |
 | rauth.chubb.com | h-chubb.online-metrix.net |
 | m-profiling.cibc.com | h-cibc.online-metrix.net |
@@ -1173,7 +1175,6 @@
 | ofxmryjd.walmart.com | h-hgy2n0ks-seller.online-metrix.net |
 | cdnt.duobank.com | h-hie95lph-duo.online-metrix.net |
 | cdnt.walmartrewards.ca | h-hie95lph-walrew.online-metrix.net |
-| telem.highlow.net | h-highlow.online-metrix.net |
 | yr3ioxw.hoaresbank.co.uk | h-hoares.online-metrix.net |
 | tm.stats.fashionforhome.de | h-home24.online-metrix.net |
 | tm.stats.home24.at | h-home24.online-metrix.net |
@@ -1297,6 +1298,7 @@
 | cdna.lottohelden.de | h-lottohelden.online-metrix.net |
 | content.numobile.com.au | h-macquarie.online-metrix.net |
 | d.mlcdn.com.br | h-magazineluiza.online-metrix.net |
+| cdntm.mandsbank.com | h-mandsbank.online-metrix.net |
 | cdntm.marksandspencer.com | h-mandsbank.online-metrix.net |
 | faas.marktplaats.nl | h-marktplaats.online-metrix.net |
 | content.massmutual.com | h-massmutual.online-metrix.net |
@@ -1305,6 +1307,7 @@
 | device.messa.org | h-messa.online-metrix.net |
 | verify.metlife.com | h-metlife.online-metrix.net |
 | tulips.metrobankonline.co.uk | h-metrobank.online-metrix.net |
+| msimkpups.michaels.com | h-michaels.online-metrix.net |
 | vlscppe.microsoft.com | h-microsoft.online-metrix.net |
 | tmck.milestonegoldcard.com | h-milestonegoldcard.online-metrix.net |
 | scdn.missionlane.com | h-missionlane.online-metrix.net |

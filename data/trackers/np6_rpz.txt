@@ -1,5 +1,16 @@
 ;
 ; Company name: NP6
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 emailing.casden.banquepopulaire.fr CNAME .
 epm.mailperformance.com CNAME .
 mailtracking.tf1.com CNAME .
@@ -79,8 +90,10 @@ tr.asp10ea.espmp-nifr.net CNAME .
 tr.asp10f6.espmp-agfr.net CNAME .
 tr.asp10fa.espmp-cufr.net CNAME .
 tr.asp10fg.espmp-aufr.net CNAME .
+tr.asp10fl.espmp-nifr.net CNAME .
 tr.asp10fo.espmp-nifr.net CNAME .
 tr.asp10fp.espmp-nifr.net CNAME .
+tr.asp10ga.espmp-nifr.net CNAME .
 tr.asp10ge.espmp-nifr.net CNAME .
 tr.asp10h2.espmp-nifr.net CNAME .
 tr.asp10hc.espmp-aufr.net CNAME .
@@ -129,6 +142,7 @@ tr.brand.labelleadresse.com CNAME .
 tr.btob-afaceri.ro CNAME .
 tr.btob-cwf.com CNAME .
 tr.btob-deals.co.uk CNAME .
+tr.btob-pro.be CNAME .
 tr.btob.mhdfrance.fr CNAME .
 tr.btobquotes.be CNAME .
 tr.btobquotes.cl CNAME .
@@ -161,6 +175,7 @@ tr.cifa.espmp-nifr.net CNAME .
 tr.cifa02b.espmp-aufr.net CNAME .
 tr.cifa02d.espmp-aufr.net CNAME .
 tr.cifa02k.espmp-aufr.net CNAME .
+tr.cifa02l.espmp-nifr.net CNAME .
 tr.citiesforlifeparis.latribune.fr CNAME .
 tr.cj.bordeaux-metropole.fr CNAME .
 tr.client.emailing.bnpparibas CNAME .
@@ -246,6 +261,7 @@ tr.cyprusparadiseestates.com CNAME .
 tr.cypruspremiervacations.com CNAME .
 tr.datacom.espmp-pofr.net CNAME .
 tr.demo.np6.com CNAME .
+tr.designoutlet-contact.fr CNAME .
 tr.devis-companeo.be CNAME .
 tr.devis-companeo.com CNAME .
 tr.devis-companeo.fr CNAME .
@@ -390,6 +406,7 @@ tr.gestion.lexpress.fr CNAME .
 tr.gestion.liberation.fr CNAME .
 tr.gestion.norrsken.fr CNAME .
 tr.gestion.sygmabnpparibas-pf.com CNAME .
+tr.gplus.espmp-nifr.net CNAME .
 tr.grez.espmp-nifr.net CNAME .
 tr.group-appointments.lvmh.fr CNAME .
 tr.group-hr.lvmh.fr CNAME .
@@ -479,6 +496,7 @@ tr.infolettre.securite-routiere.gouv.fr CNAME .
 tr.infolettres.groupama.com CNAME .
 tr.infomarche.hennessy.fr CNAME .
 tr.information.fidalformations.fr CNAME .
+tr.information.labelleadresse.com CNAME .
 tr.information.lacollection-airfrance.be CNAME .
 tr.information.lacollection-airfrance.ch CNAME .
 tr.information.lacollection-airfrance.fr CNAME .
@@ -688,6 +706,7 @@ tr.news.eurodatatv.com CNAME .
 tr.news.exclu.fr CNAME .
 tr.news.extenso-telecom.com CNAME .
 tr.news.externis.com CNAME .
+tr.news.extrabook.com CNAME .
 tr.news.flandrintechnologies.com CNAME .
 tr.news.frame.fr CNAME .
 tr.news.futuramedia.fr CNAME .
@@ -1005,6 +1024,7 @@ tr.urfk057.espmp-aufr.net CNAME .
 tr.urfk05g.espmp-agfr.net CNAME .
 tr.urfk05l.espmp-nifr.net CNAME .
 tr.urfk06h.espmp-nifr.net CNAME .
+tr.urfk06n.espmp-nifr.net CNAME .
 tr.urfk06o.espmp-agfr.net CNAME .
 tr.urfk06x.espmp-cufr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .

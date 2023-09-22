@@ -1,5 +1,16 @@
 ;
 ; Company name: Wizaly
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 t-test.esvdigital.com CNAME .
 t.wiz.meilleurtaux.com CNAME .
 tk.abt.com CNAME .
@@ -27,6 +38,7 @@ tk.airfrance.dj CNAME .
 tk.airfrance.dk CNAME .
 tk.airfrance.fi CNAME .
 tk.airfrance.fr CNAME .
+tk.airfrance.ga CNAME .
 tk.airfrance.gf CNAME .
 tk.airfrance.gr CNAME .
 tk.airfrance.hr CNAME .
@@ -50,6 +62,7 @@ tk.airfrance.re CNAME .
 tk.airfrance.ro CNAME .
 tk.airfrance.rs CNAME .
 tk.airfrance.ru CNAME .
+tk.airfrance.sa CNAME .
 tk.airfrance.se CNAME .
 tk.airfrance.sg CNAME .
 tk.airfrance.sk CNAME .
@@ -76,6 +89,7 @@ tk.evaneos.es CNAME .
 tk.evaneos.fr CNAME .
 tk.evaneos.it CNAME .
 tk.evaneos.nl CNAME .
+tk.france-abonnements.fr CNAME .
 tk.frenchbee.com CNAME .
 tk.healthwarehouse.com CNAME .
 tk.hypnia.co.uk CNAME .

@@ -27,6 +27,7 @@
 ||tk.airfrance.dk^
 ||tk.airfrance.fi^
 ||tk.airfrance.fr^
+||tk.airfrance.ga^
 ||tk.airfrance.gf^
 ||tk.airfrance.gr^
 ||tk.airfrance.hr^
@@ -50,6 +51,7 @@
 ||tk.airfrance.ro^
 ||tk.airfrance.rs^
 ||tk.airfrance.ru^
+||tk.airfrance.sa^
 ||tk.airfrance.se^
 ||tk.airfrance.sg^
 ||tk.airfrance.sk^
@@ -76,6 +78,7 @@
 ||tk.evaneos.fr^
 ||tk.evaneos.it^
 ||tk.evaneos.nl^
+||tk.france-abonnements.fr^
 ||tk.frenchbee.com^
 ||tk.healthwarehouse.com^
 ||tk.hypnia.co.uk^

@@ -5,6 +5,10 @@
 * 0i0i0i0.com
     * u50.0i0i0i0.com
 
+### Rarely active trackers
+
+* u53.hypnorat.com
+
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -150,7 +154,6 @@
 | adzilla.icu | 0i0i0i0.com |
 | alt.fescity.com | 0i0i0i0.com |
 | amaz.emailon.top | 0i0i0i0.com |
-| amazoni.lol | 0i0i0i0.com |
 | analdinall.com | 0i0i0i0.com |
 | analik.icu | 0i0i0i0.com |
 | anti.347movie.com | 0i0i0i0.com |
@@ -363,7 +366,6 @@
 | houdisco.xyz | 0i0i0i0.com |
 | hsux.com | 0i0i0i0.com |
 | huanez.xyz | 0i0i0i0.com |
-| huckeyz.lol | 0i0i0i0.com |
 | huewaix.xyz | 0i0i0i0.com |
 | hunjoinz.pics | 0i0i0i0.com |
 | hutanz.xyz | 0i0i0i0.com |
@@ -510,27 +512,26 @@
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | orderz.lol | 0i0i0i0.com |
 | orznp.spinna.store | 0i0i0i0.com |
-| outallin.mom | 0i0i0i0.com |
 | outshutop.mom | 0i0i0i0.com |
 | outya.xyz | 0i0i0i0.com |
 | ox8.topsexhdvideos.com | 0i0i0i0.com |
 | ozoj.com | 0i0i0i0.com |
 | p.hgfdtujlknhkghf.site | 0i0i0i0.com |
 | p.strjuylfrjyk.site | 0i0i0i0.com |
+| p.upskirt.tv | 0i0i0i0.com |
 | p123p.com | 0i0i0i0.com |
 | p1t.clipnuke.com | 0i0i0i0.com |
 | pakenta.xyz | 0i0i0i0.com |
-| pakeway.lol | 0i0i0i0.com |
 | pampela.lol | 0i0i0i0.com |
 | pamtuea.xyz | 0i0i0i0.com |
 | pamury.xyz | 0i0i0i0.com |
 | pangoha.xyz | 0i0i0i0.com |
 | pangtues.xyz | 0i0i0i0.com |
 | parkurl.com | 0i0i0i0.com |
+| pempiz.xyz | 0i0i0i0.com |
 | penapne.xyz | 0i0i0i0.com |
 | pengenanu.files.im | 0i0i0i0.com |
 | pep929.mom | 0i0i0i0.com |
-| pharaon.mom | 0i0i0i0.com |
 | pihu.xxxpornhd.pro | 0i0i0i0.com |
 | pivo.tracked.one | 0i0i0i0.com |
 | pizzazz.lol | 0i0i0i0.com |
@@ -563,6 +564,7 @@
 | r.archertube.com | 0i0i0i0.com |
 | r.erohabu.com | 0i0i0i0.com |
 | r.freeadultporn.tv | 0i0i0i0.com |
+| r.tropictube.com | 0i0i0i0.com |
 | ramosz.lol | 0i0i0i0.com |
 | rdx.javmotion.com | 0i0i0i0.com |
 | redi.teengirl-pics.com | 0i0i0i0.com |
@@ -622,8 +624,8 @@
 | support.streamjav.top | 0i0i0i0.com |
 | suzuhen.xyz | 0i0i0i0.com |
 | swqw.jav-7mmtv.top | 0i0i0i0.com |
-| taboizo.mom | 0i0i0i0.com |
 | tacumi.xyz | 0i0i0i0.com |
+| tagbucks.xyz | 0i0i0i0.com |
 | tagun.xyz | 0i0i0i0.com |
 | talamk3.beauty | 0i0i0i0.com |
 | tankiuz.xyz | 0i0i0i0.com |
@@ -702,6 +704,8 @@
 | x.adactioner.com | 0i0i0i0.com |
 | x.xxxbf.tv | 0i0i0i0.com |
 | x.xxxbp.tv | 0i0i0i0.com |
+| x.xxxbule.com | 0i0i0i0.com |
+| x.xxxbule.tv | 0i0i0i0.com |
 | x1cdn.fin.ovh | 0i0i0i0.com |
 | x2c1v4.hentaigold.net | 0i0i0i0.com |
 | x2sfa.javgg.eu | 0i0i0i0.com |
@@ -726,3 +730,4 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| ontj.com | u53.hypnorat.com |

@@ -1,5 +1,16 @@
 ;
 ; Company name: affilbox.cz
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 abox.simpleshop.cz CNAME .
 aff.faircredit.cz CNAME .
 aff.pujckajonatan.cz CNAME .
@@ -256,6 +267,7 @@ affiliate.topol.io CNAME .
 affiliate.trikator.cz CNAME .
 affiliate.ucetni-portal.cz CNAME .
 affiliate.uncaria.cz CNAME .
+affiliate.unicare.sk CNAME .
 affiliate.urbanstore.cz CNAME .
 affiliate.urbanstore.sk CNAME .
 affiliate.vasecocky.cz CNAME .
@@ -287,6 +299,7 @@ brana.ritualyomlazeni.cz CNAME .
 dekovacka.hezkres.cz CNAME .
 doporuc.hopsej.cz CNAME .
 doporuc.konferenceryba.cz CNAME .
+doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
 hcaffil.mironet.cz CNAME .
 hcbox.bikemax.cz CNAME .
@@ -409,6 +422,7 @@ partak.surfey.cz CNAME .
 partener.aeriumshop.ro CNAME .
 partner-affilbox.telly.cz CNAME .
 partner.2din.cz CNAME .
+partner.adamkrupa.cz CNAME .
 partner.aerium.sk CNAME .
 partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
@@ -464,6 +478,7 @@ partner.chytrydopravce.cz CNAME .
 partner.cleverfood.eu CNAME .
 partner.cocochocokeratin.cz CNAME .
 partner.cokoladovnajanek.cz CNAME .
+partner.colosseumticket.cz CNAME .
 partner.colway.cz CNAME .
 partner.comeflexoffice.cz CNAME .
 partner.cshop.sk CNAME .
@@ -559,6 +574,7 @@ partner.lenkahomeopatie.cz CNAME .
 partner.liberec-ubytovani.cz CNAME .
 partner.lidajirickova.cz CNAME .
 partner.lifetest.eu CNAME .
+partner.ligsuniversity.cz CNAME .
 partner.ltx.cz CNAME .
 partner.luckyalvin.cz CNAME .
 partner.lyzelyze.cz CNAME .
@@ -745,6 +761,7 @@ partneri.lightway.cz CNAME .
 partneri.londonstore.cz CNAME .
 partneri.lucie-konigova.cz CNAME .
 partneri.majstervposteli.sk CNAME .
+partneri.manazujmehravo.sk CNAME .
 partneri.mebline.cz CNAME .
 partneri.metodajih.cz CNAME .
 partneri.minshop.cz CNAME .

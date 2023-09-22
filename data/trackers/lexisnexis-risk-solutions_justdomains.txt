@@ -115,6 +115,7 @@ cdntm.hsbc.com.ph
 cdntm.hsbc.com.sg
 cdntm.hsbc.fr
 cdntm.johnlewisfinance.com
+cdntm.mandsbank.com
 cdntm.marksandspencer.com
 cdntm.rodanandfields.com
 cdntm.us.hsbc.com
@@ -263,6 +264,7 @@ content.readiness.consumercardaccess.com
 content.readiness.familyprepaiddebit.com
 content.readiness.paycardsolutions.com
 content.realquest.com
+content.reisource.com
 content.royalairmaroc.com
 content.royalvegascasino.ca
 content.rubyfortune.ca
@@ -514,6 +516,8 @@ mobile.du.ae
 mobilecontent.networks.prod.p0.phx-infra.com
 mobilecontent.projectdrgn.com
 mobsessions.worldremit.com
+msimkpups.michaels.com
+mtx.thirdstream.ca
 nav.sciencedirect.com
 neo.fashionette.de
 nexus-svc.sc.com
@@ -804,7 +808,6 @@ tcontent.auchantelecom.fr
 tcontent.cdiscountmobile.cdiscount.com
 tcontent.nrjmobile.fr
 telem.highlow.com
-telem.highlow.net
 tfp.intuit.com
 th.barclays.co.uk
 thm.v.me
@@ -923,7 +926,6 @@ v.marcus.com
 v.sagasavings.co.uk
 valcontent.securustech.net
 validacionlx.agaval.com
-venus.chegg.com
 verification.ndtco.com
 verify.metlife.com
 verify.philippineairlines.com

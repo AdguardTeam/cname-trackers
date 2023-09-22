@@ -1,5 +1,16 @@
 ;
 ; Company name: AT Internet (formerly XiTi)
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr CNAME .
 a.20minutes.fr CNAME .
 a.hellowork.com CNAME .

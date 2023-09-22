@@ -439,9 +439,7 @@
     * globlemath.xml-v4.ak-is2.net
     * globlemath.xml.ak-is2.net
     * goclickz.fs.ak-is2.net
-    * goclickz.xml-eu-v4.ak-is2.net
     * goclickz.xml-v4.ak-is2.net
-    * greedygame.rtb-useast.ak-is2.net
     * greenlightclix.fs.ak-is2.net
     * greenlightclix.rtb-uswest.ak-is2.net
     * greenlightclix.ui.ak-is2.net
@@ -743,9 +741,7 @@
     * topsolutionsmedia.xml-v4.ak-is2.net
     * topsolutionsmedia.xml.ak-is2.net
     * torchad.click-eu.ak-is2.net
-    * torchad.rtb-as-apac.ak-is2.net
     * torchad.rtb-as-eu.ak-is2.net
-    * torchad.rtb-as-useast.ak-is2.net
     * torchad.rtb-ui.ak-is2.net
     * torchad.win-eu.ak-is2.net
     * torchad.win-useast.ak-is2.net
@@ -891,7 +887,6 @@
 * e2e7q2c9.stackpathcdn.com
 * n8p3d2k6.stackpathcdn.com
 * b9y3q8r7.stackpathcdn.com
-* y4f3q6b3.stackpathcdn.com
 * u5v2k5q2.stackpathcdn.com
 * j9t6h4h8.stackpathcdn.com
 * g3d3j7p5.stackpathcdn.com
@@ -1201,6 +1196,7 @@
 | my.adright.co | adright.fs.ak-is2.net |
 | login.adright.com | adright.ui.ak-is2.net |
 | push.adright.co | adright.wp.ak-is2.net |
+| xml-eu-v4.fstsrv5.com | adright.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.qksrv.biz | adright.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.qksrv.cc | adright.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.qksrv1.com | adright.xml-eu-v4.ak-is2.net |
@@ -1210,6 +1206,7 @@
 | xml-v4.fstsrv2.com | adright.xml-v4.ak-is2.net |
 | xml-v4.fstsrv3.com | adright.xml-v4.ak-is2.net |
 | xml-v4.fstsrv4.com | adright.xml-v4.ak-is2.net |
+| xml-v4.fstsrv5.com | adright.xml-v4.ak-is2.net |
 | xml-v4.qksrv.biz | adright.xml-v4.ak-is2.net |
 | xml-v4.qksrv.cc | adright.xml-v4.ak-is2.net |
 | xml-v4.qksrv1.com | adright.xml-v4.ak-is2.net |
@@ -1225,13 +1222,16 @@
 | xml.fstsrv2.com | adright.xml.ak-is2.net |
 | xml.fstsrv3.com | adright.xml.ak-is2.net |
 | xml.fstsrv4.com | adright.xml.ak-is2.net |
+| xml.fstsrv5.com | adright.xml.ak-is2.net |
 | xml.mobreach.com | adright.xml.ak-is2.net |
 | xml.popunder.bid | adright.xml.ak-is2.net |
 | static.adright.co | adright.xs.ak-is2.net |
+| static.adright.com | adright.xs.ak-is2.net |
 | static.fstsrv1.com | adright.xs.ak-is2.net |
 | static.fstsrv2.com | adright.xs.ak-is2.net |
 | static.fstsrv3.com | adright.xs.ak-is2.net |
 | static.fstsrv4.com | adright.xs.ak-is2.net |
+| static.fstsrv5.com | adright.xs.ak-is2.net |
 | static.qksrv.biz | adright.xs.ak-is2.net |
 | static.qksrv.cc | adright.xs.ak-is2.net |
 | static.qksrv1.com | adright.xs.ak-is2.net |
@@ -1683,9 +1683,7 @@
 | click-v4.globlemath.com | globlemath.xml-v4.ak-is2.net |
 | click.globlemath.com | globlemath.xml.ak-is2.net |
 | filter.goclickz.net | goclickz.fs.ak-is2.net |
-| xml-eu-v4.goclickz.net | goclickz.xml-eu-v4.ak-is2.net |
 | xml-v4.goclickz.net | goclickz.xml-v4.ak-is2.net |
-| rtb-useast.greedygame.com | greedygame.rtb-useast.ak-is2.net |
 | filter.clixforads.com | greenlightclix.fs.ak-is2.net |
 | rtb-uswest.clixforads.com | greenlightclix.rtb-uswest.ak-is2.net |
 | login.clixforads.com | greenlightclix.ui.ak-is2.net |
@@ -2106,9 +2104,7 @@
 | xml-v4.topsolutionsmedia.com | topsolutionsmedia.xml-v4.ak-is2.net |
 | xml.topsolutionsmedia.com | topsolutionsmedia.xml.ak-is2.net |
 | click-rtb2-eu.torchad.com | torchad.click-eu.ak-is2.net |
-| rtb2-apac.torchad.com | torchad.rtb-as-apac.ak-is2.net |
 | rtb2-eu.torchad.com | torchad.rtb-as-eu.ak-is2.net |
-| rtb2-useast.torchad.com | torchad.rtb-as-useast.ak-is2.net |
 | app.torchad.com | torchad.rtb-ui.ak-is2.net |
 | win-rtb2-eu.torchad.com | torchad.win-eu.ak-is2.net |
 | win-rtb2-useast.torchad.com | torchad.win-useast.ak-is2.net |
@@ -2268,7 +2264,6 @@
 | xml.xmlppc.net | xmlppc.xml.ak-is2.net |
 | xml.xmlwiz.com | xmlwiz.xml.ak-is2.net |
 | static.plarimoplus.com | y4b7y2r4.stackpathcdn.com |
-| static-rtb2.torchad.com | y4f3q6b3.stackpathcdn.com |
 | static-rtb2.assemblyexchange.com | y4p7g9a7.stackpathcdn.com |
 | static.outpush.net | y5s4r3r4.stackpathcdn.com |
 | static.fastsearch.me | y6a2y4r9.stackpathcdn.com |

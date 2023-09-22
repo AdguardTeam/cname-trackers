@@ -1,5 +1,16 @@
 ;
 ; Company name: INFOnline
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 0186141170.apps.iocnt.de CNAME .
 39db8b138f.apps.iocnt.de CNAME .
 5bf0fdacd2.apps.iocnt.de CNAME .
@@ -89,6 +100,7 @@ data-0c1a280f84.golem.de CNAME .
 data-0c700a44f4.rund-ums-baby.de CNAME .
 data-0cc10e3905.werbenundverkaufen.de CNAME .
 data-0cc10e3905.wuv.de CNAME .
+data-0cca9d915f.missmum.at CNAME .
 data-0cf18bcfe3.katholisch.de CNAME .
 data-0d1a0271a9.instyle.de CNAME .
 data-0d5230f0d5.tvmovie.de CNAME .
@@ -304,6 +316,7 @@ data-24d7667a6a.apps.iocnt.de CNAME .
 data-24fe804269.datacenter-insider.de CNAME .
 data-2572d220f8.motorsport-total.com CNAME .
 data-26457755f1.apps.iocnt.de CNAME .
+data-26d7316678.gewinn.com CNAME .
 data-26e104754d.hgtv.com CNAME .
 data-27118360b0.shk-profi.de CNAME .
 data-27183e6c59.apps.iocnt.de CNAME .
@@ -370,6 +383,7 @@ data-31fbb916a1.erneuerbareenergien.de CNAME .
 data-3212b1cf73.apps.iocnt.de CNAME .
 data-3277c56f96.ingenieur.de CNAME .
 data-3277c56f96.ingenieurstage.de CNAME .
+data-32d8a1e8f7.kl-magazin.de CNAME .
 data-331311c70c.suedkurier.de CNAME .
 data-337242f510.itk-rheinland.de CNAME .
 data-339e8471f1.bau-welt.de CNAME .
@@ -450,6 +464,7 @@ data-3e886ae3e6.zaubertopf.de CNAME .
 data-3eff3aac07.kino-zeit.de CNAME .
 data-3f0062caa0.elektro.net CNAME .
 data-3f37694eeb.esports.com CNAME .
+data-3f9c4f5eb9.automotive.at CNAME .
 data-40370dcf13.emsdettenervolkszeitung.de CNAME .
 data-40370dcf13.ev-online.de CNAME .
 data-40370dcf13.mv-online.de CNAME .
@@ -659,6 +674,7 @@ data-4ede7e9c86.testfaz.net CNAME .
 data-4eee35d766.apps.iocnt.de CNAME .
 data-4f2efe538c.einfachbacken.de CNAME .
 data-4f77096dc0.brocken.de CNAME .
+data-4f77096dc0.radio-brocken.com CNAME .
 data-4f77096dc0.radio-brocken.de CNAME .
 data-4f77096dc0.radiobrocken.com CNAME .
 data-4fa18eb5e3.zvw.de CNAME .
@@ -742,6 +758,7 @@ data-5ce6ecf8d0.christkindlesmarkt.de CNAME .
 data-5ce6ecf8d0.nn.de CNAME .
 data-5ce6ecf8d0.nordbayern.de CNAME .
 data-5cfea13ba1.fluid.de CNAME .
+data-5d2679d281.skysportaustria.at CNAME .
 data-5d4a957104.focus-arztsuche.de CNAME .
 data-5d621ddc78.buffed.de CNAME .
 data-5d621ddc78.gamesaktuell.de CNAME .
@@ -969,6 +986,7 @@ data-7b326f376b.apps.iocnt.de CNAME .
 data-7b4229ab74.idowa.de CNAME .
 data-7b5c057fdb.emotion.de CNAME .
 data-7b705d0b93.b4bschwaben.de CNAME .
+data-7bd40aa49e.laendleimmo.at CNAME .
 data-7c0fd2a117.meinenzkreis.de CNAME .
 data-7c0fd2a117.pz-news.de CNAME .
 data-7c0fd2a117.pz-nightlife.de CNAME .
@@ -1097,6 +1115,7 @@ data-8dffad7d98.photovoltaik.eu CNAME .
 data-8e96b6cfc5.gelbeseiten.de CNAME .
 data-8ec1348702.apps.iocnt.de CNAME .
 data-8ec206415a.dnb.de CNAME .
+data-8eeb5d63be.gast.at CNAME .
 data-8f03f9dd42.spiegel.de CNAME .
 data-8f7660c51c.apps.iocnt.de CNAME .
 data-8f7f72a50d.vogue.de CNAME .
@@ -1713,6 +1732,7 @@ data-e3af19e759.apps.iocnt.de CNAME .
 data-e3d4300b49.n-tv.de CNAME .
 data-e3d4300b49.sport.de CNAME .
 data-e47ac57521.lokal26.de CNAME .
+data-e4997adf31.bilanz.de CNAME .
 data-e4997adf31.metal-hammer.de CNAME .
 data-e4997adf31.welt.de CNAME .
 data-e4cfccd10c.freundin.de CNAME .
@@ -1729,6 +1749,7 @@ data-e69b3d32a9.kicker.de CNAME .
 data-e723f0d7d1.stylebook.de CNAME .
 data-e7308988a6.freundin.de CNAME .
 data-e807969afb.scinexx.de CNAME .
+data-e81f9554e5.willhaben.at CNAME .
 data-e86b27e677.spieletipps.de CNAME .
 data-e89b4fd803.apps.iocnt.de CNAME .
 data-e89c765eef.main-echo.de CNAME .

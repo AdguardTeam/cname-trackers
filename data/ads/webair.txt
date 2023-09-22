@@ -576,7 +576,6 @@
 ||rtb-useast.felixads.com^
 ||rtb-useast.fmlabsonline.com^
 ||rtb-useast.foremedia.net^
-||rtb-useast.greedygame.com^
 ||rtb-useast.houseofpubs.com^
 ||rtb-useast.hueadsortb.com^
 ||rtb-useast.iavatarz.com^
@@ -661,7 +660,6 @@
 ||rtb2-apac.newchallenges-dsp.com^
 ||rtb2-apac.onenativeads.com^
 ||rtb2-apac.programmatics.net^
-||rtb2-apac.torchad.com^
 ||rtb2-apac.xaprio.net^
 ||rtb2-eu.afkwa.com^
 ||rtb2-eu.convergeselect.net^
@@ -691,7 +689,6 @@
 ||rtb2-useast.marketiq.com^
 ||rtb2-useast.newchallenges-dsp.com^
 ||rtb2-useast.programmatics.net^
-||rtb2-useast.torchad.com^
 ||rtb2-useast.waardex.com^
 ||rtb2-useast.xaprio.net^
 ||rtb2-uswest.a8dsp.com^
@@ -715,10 +712,12 @@
 ||serve.datacygnal.io^
 ||sm-rtb-useast.zmdvideo.com^
 ||static.adright.co^
+||static.adright.com^
 ||static.fstsrv1.com^
 ||static.fstsrv2.com^
 ||static.fstsrv3.com^
 ||static.fstsrv4.com^
+||static.fstsrv5.com^
 ||static.openrtb.in^
 ||static.qksrv.biz^
 ||static.qksrv.cc^
@@ -831,9 +830,9 @@
 ||xml-eu-v4.ezmob.com^
 ||xml-eu-v4.frdjs-1.co^
 ||xml-eu-v4.frdjs-2.co^
+||xml-eu-v4.fstsrv5.com^
 ||xml-eu-v4.gipostart-1.co^
 ||xml-eu-v4.gipostart-2.co^
-||xml-eu-v4.goclickz.net^
 ||xml-eu-v4.hawkads.in^
 ||xml-eu-v4.netload1.com^
 ||xml-eu-v4.netload2.com^
@@ -931,6 +930,7 @@
 ||xml-v4.fstsrv2.com^
 ||xml-v4.fstsrv3.com^
 ||xml-v4.fstsrv4.com^
+||xml-v4.fstsrv5.com^
 ||xml-v4.gipostart-1.co^
 ||xml-v4.gipostart-2.co^
 ||xml-v4.goclickz.net^
@@ -1066,6 +1066,7 @@
 ||xml.fstsrv2.com^
 ||xml.fstsrv3.com^
 ||xml.fstsrv4.com^
+||xml.fstsrv5.com^
 ||xml.gipostart-2.co^
 ||xml.groovyadz.com^
 ||xml.hangfly.net^
@@ -1200,7 +1201,6 @@
 ||static-rtb2.newchallenges-dsp.com^
 ||static-rtb2.onenativeads.com^
 ||static-rtb2.programmatics.net^
-||static-rtb2.torchad.com^
 ||static-rtb2.xaprio.net^
 ||static.100conversions.com^
 ||static.ad-maven.com^

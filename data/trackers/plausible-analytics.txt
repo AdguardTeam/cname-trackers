@@ -132,6 +132,7 @@
 ||metrics.axiomatic-inc.com^
 ||metrics.creit.tech^
 ||metrics.earrieta.dev^
+||metrics.javierarcheni.com^
 ||metrics.recunia.de^
 ||momotaro.craigmod.com^
 ||momotaro.walkkumano.com^
@@ -226,6 +227,7 @@
 ||plausible.dailytics.com^
 ||plausible.deploymentfromscratch.com^
 ||plausible.dev.logicboard.com^
+||plausible.dingran.me^
 ||plausible.doberman.co^
 ||plausible.doctave.com^
 ||plausible.ejs.dev^
@@ -253,6 +255,7 @@
 ||plausible.k6sbw.net^
 ||plausible.kabaret.no^
 ||plausible.kdojang.com^
+||plausible.kundenportal.io^
 ||plausible.langojango.com^
 ||plausible.lesbianromantic.com^
 ||plausible.logicboard.com^
@@ -366,6 +369,7 @@
 ||statistic.jac-systeme.de^
 ||statistics.heatbeat.de^
 ||statistik.apartments-tirolerhaus.at^
+||stats-whatever.gigride.live^
 ||stats.45rpm.ch^
 ||stats.50x.ca^
 ||stats.69grad.de^
@@ -510,6 +514,7 @@
 ||stats.dflydev.com^
 ||stats.diarmuidsexton.com^
 ||stats.digiexpert.store^
+||stats.dillen.dev^
 ||stats.divyanshu013.dev^
 ||stats.dmail.co.nz^
 ||stats.dmarcdigests.com^
@@ -541,7 +546,6 @@
 ||stats.engel-apotheke.de^
 ||stats.engeldirekt.de^
 ||stats.engineering.freeagent.com^
-||stats.englishadam.com^
 ||stats.entreno.fcalan.org^
 ||stats.equium.io^
 ||stats.erbridge.co.uk^
@@ -624,6 +628,7 @@
 ||stats.huysmanbouw.be^
 ||stats.iamzero.dev^
 ||stats.ibuildings.net^
+||stats.ideologicalconflict.org^
 ||stats.iefg.org^
 ||stats.ifiwasgame.com^
 ||stats.igassmann.me^
@@ -763,7 +768,6 @@
 ||stats.obokat.se^
 ||stats.odysseeseine.org^
 ||stats.officefoosball.com^
-||stats.offthekerb.com^
 ||stats.okconnect.org^
 ||stats.oldtinroof.com^
 ||stats.oliveoil.pro^
@@ -897,6 +901,7 @@
 ||stats.suggestedit.com^
 ||stats.suniboy.com^
 ||stats.sunpeaksstables.com^
+||stats.suominaikidoacademy.com^
 ||stats.sushibyte.io^
 ||stats.svemir.co^
 ||stats.symbiofest.cz^

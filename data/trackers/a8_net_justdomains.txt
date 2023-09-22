@@ -3,7 +3,6 @@
 1909a8.satofull.jp
 a8-22.hana-yume.net
 a8-affiliate.kase3535.com
-a8-atelier.yoani.co.jp
 a8-cv.lean-body.jp
 a8-hoiku.mama-9jin.com
 a8-itp.qoo10.jp
@@ -26,7 +25,9 @@ a8.b-cafe.net
 a8.bambi-craft.com
 a8.bandel.jp
 a8.banninkun.com
+a8.beerowle.com
 a8.benro.jp
+a8.big-hikari.com
 a8.biglobe.openplat.jp
 a8.biz.ne.jp
 a8.biziphone.com
@@ -263,6 +264,7 @@ a8.techis.jp
 a8.tecpartners.jp
 a8.teddyworks.co.jp
 a8.the-session.jp
+a8.themoonmilk.jp
 a8.thg.co.jp
 a8.tokihana.net
 a8.tokyo-hills-clinic.com
@@ -516,6 +518,7 @@ a8clk.patpat.com
 a8clk.petelect.jp
 a8clk.petitjob.jp
 a8clk.photorevo.info
+a8clk.plusone.space
 a8clk.point-island.com
 a8clk.point-land.net
 a8clk.point-museum.com
@@ -574,7 +577,6 @@ a8clk.tamiyashop.jp
 a8clk.tanp.jp
 a8clk.tastytable-food.com
 a8clk.teacon.jp
-a8clk.theginza.com
 a8clk.titivate.jp
 a8clk.to-chu.co.jp
 a8clk.toretoku.jp
@@ -645,6 +647,7 @@ a8cv.a-resort.jp
 a8cv.a-ru-ku.co.jp
 a8cv.a-satei.com
 a8cv.access-jp.jp
+a8cv.adornmonde.com
 a8cv.aff.life-110.com
 a8cv.aiambeauty.jp
 a8cv.air-wifiinternet.jp
@@ -718,6 +721,7 @@ a8cv.cprime-japan.com
 a8cv.crecari.com
 a8cv.crowdcredit.jp
 a8cv.crowdlinks.jp
+a8cv.cv2308001.tanomelu.com
 a8cv.daini-agent.jp
 a8cv.daisenham.com
 a8cv.danipita.com
@@ -988,6 +992,7 @@ a8cv.shimomoto-cl.co.jp
 a8cv.shokubun.ec-design.co.jp
 a8cv.shokunosoyokaze.com
 a8cv.shop.matsuo1956.jp
+a8cv.shop.mintme.jp
 a8cv.shop.solve-grp.com
 a8cv.sibody.co.jp
 a8cv.signalift.com
@@ -1080,6 +1085,7 @@ a8cv.yamato-gp.net
 a8cv.ygm-clinic.or.jp
 a8cv.yobybo-japan.com
 a8cv.yohodo.net
+a8cv.yokoyamakaban.com
 a8cv.yoriso.com
 a8cv.you-shoku.net
 a8cv.yuyu-tei.jp
@@ -1130,9 +1136,11 @@ a8x.piece-kaitori.jp
 acv.aun-air-wifi.com
 acv.aun-company.com
 acv.aun-n-hikari.com
+acv.aun-softbank-hikari.com
 acv.biglobe-hikari.net
 acv.cmf-hikari.net
 acv.crea-lp.com
+acv.hikariocn.com
 acv.hikarisoftbank.com
 acv.internet-moushikomi.net
 acv.kyushu-internet.com
@@ -1146,6 +1154,7 @@ acv.nft-hikari.net
 acv.pikarahikari.net
 acv.softbank-hikaricollabo.com
 acv.xn--dckf5a1e821s9i7b.com
+ad-a8.www.zeiri4.com
 ad.belleeau.jp
 ad.ichiban-boshi.com
 ad.ichiru.net
@@ -1249,6 +1258,7 @@ cv.www.jobcareer.jp
 cv.www.rokuzan.net
 cv.xn--bcktcvdzde3c.biz
 cv.xn--zbs202g.com
+cv.zephylrin-x.net
 cv1.stefany.co.jp
 dwuzxuvwlq.winticket.jp
 ems-a8net-tracking.easy-myshop.jp

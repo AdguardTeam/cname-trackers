@@ -1,5 +1,16 @@
 ;
 ; Company name: Webair
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 5stars.yeesshh.com CNAME .
 adk.mybestclick.net CNAME .
 adk.nativeadsfeed.com CNAME .
@@ -576,7 +587,6 @@ rtb-useast.ezmob.com CNAME .
 rtb-useast.felixads.com CNAME .
 rtb-useast.fmlabsonline.com CNAME .
 rtb-useast.foremedia.net CNAME .
-rtb-useast.greedygame.com CNAME .
 rtb-useast.houseofpubs.com CNAME .
 rtb-useast.hueadsortb.com CNAME .
 rtb-useast.iavatarz.com CNAME .
@@ -661,7 +671,6 @@ rtb2-apac.jambojar.com CNAME .
 rtb2-apac.newchallenges-dsp.com CNAME .
 rtb2-apac.onenativeads.com CNAME .
 rtb2-apac.programmatics.net CNAME .
-rtb2-apac.torchad.com CNAME .
 rtb2-apac.xaprio.net CNAME .
 rtb2-eu.afkwa.com CNAME .
 rtb2-eu.convergeselect.net CNAME .
@@ -691,7 +700,6 @@ rtb2-useast.jambojar.com CNAME .
 rtb2-useast.marketiq.com CNAME .
 rtb2-useast.newchallenges-dsp.com CNAME .
 rtb2-useast.programmatics.net CNAME .
-rtb2-useast.torchad.com CNAME .
 rtb2-useast.waardex.com CNAME .
 rtb2-useast.xaprio.net CNAME .
 rtb2-uswest.a8dsp.com CNAME .
@@ -715,10 +723,12 @@ serv.bvsrv.com CNAME .
 serve.datacygnal.io CNAME .
 sm-rtb-useast.zmdvideo.com CNAME .
 static.adright.co CNAME .
+static.adright.com CNAME .
 static.fstsrv1.com CNAME .
 static.fstsrv2.com CNAME .
 static.fstsrv3.com CNAME .
 static.fstsrv4.com CNAME .
+static.fstsrv5.com CNAME .
 static.openrtb.in CNAME .
 static.qksrv.biz CNAME .
 static.qksrv.cc CNAME .
@@ -831,9 +841,9 @@ xml-eu-v4.explorefast-1.com CNAME .
 xml-eu-v4.ezmob.com CNAME .
 xml-eu-v4.frdjs-1.co CNAME .
 xml-eu-v4.frdjs-2.co CNAME .
+xml-eu-v4.fstsrv5.com CNAME .
 xml-eu-v4.gipostart-1.co CNAME .
 xml-eu-v4.gipostart-2.co CNAME .
-xml-eu-v4.goclickz.net CNAME .
 xml-eu-v4.hawkads.in CNAME .
 xml-eu-v4.netload1.com CNAME .
 xml-eu-v4.netload2.com CNAME .
@@ -931,6 +941,7 @@ xml-v4.fstsrv1.com CNAME .
 xml-v4.fstsrv2.com CNAME .
 xml-v4.fstsrv3.com CNAME .
 xml-v4.fstsrv4.com CNAME .
+xml-v4.fstsrv5.com CNAME .
 xml-v4.gipostart-1.co CNAME .
 xml-v4.gipostart-2.co CNAME .
 xml-v4.goclickz.net CNAME .
@@ -1066,6 +1077,7 @@ xml.fstsrv1.com CNAME .
 xml.fstsrv2.com CNAME .
 xml.fstsrv3.com CNAME .
 xml.fstsrv4.com CNAME .
+xml.fstsrv5.com CNAME .
 xml.gipostart-2.co CNAME .
 xml.groovyadz.com CNAME .
 xml.hangfly.net CNAME .
@@ -1200,7 +1212,6 @@ static-rtb2.marketiq.com CNAME .
 static-rtb2.newchallenges-dsp.com CNAME .
 static-rtb2.onenativeads.com CNAME .
 static-rtb2.programmatics.net CNAME .
-static-rtb2.torchad.com CNAME .
 static-rtb2.xaprio.net CNAME .
 static.100conversions.com CNAME .
 static.ad-maven.com CNAME .

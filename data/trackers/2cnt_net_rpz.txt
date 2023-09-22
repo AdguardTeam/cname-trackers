@@ -1,5 +1,16 @@
 ;
 ; Company name: 2cnt.net
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 pl02.owen.prolitteris.ch CNAME .
 1und1.met.vgwort.de CNAME .
 express.met.vgwort.de CNAME .

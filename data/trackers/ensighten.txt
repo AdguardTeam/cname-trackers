@@ -49,6 +49,7 @@
 ||activate.tidewaterreview.com^
 ||activate.tribpubads.com^
 ||activate.tronc.com^
+||activate.troncads.com^
 ||activate.vagazette.com^
 ||activate.vivelohoy.com^
 ||activate1.fidelity.com^
@@ -288,6 +289,7 @@
 ||sst.homegoods.com^
 ||sst.johnlewis.com^
 ||sst.nab.com.au^
+||sst.tjmaxx.tjx.com^
 ||suncorp.activate.ensighten.com^
 ||t.hagebau.de^
 ||t.janieandjack.com^

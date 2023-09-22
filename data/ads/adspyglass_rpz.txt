@@ -1,5 +1,16 @@
 ;
 ; Company name: AdSpyglass
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1695385999453        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
 0.101tubeporn.com CNAME .
 0.oldgyhogola.com CNAME .
 0i.iqostaiwan.com CNAME .
@@ -141,7 +152,6 @@ adxhand.icu CNAME .
 adzilla.icu CNAME .
 alt.fescity.com CNAME .
 amaz.emailon.top CNAME .
-amazoni.lol CNAME .
 analdinall.com CNAME .
 analik.icu CNAME .
 anti.347movie.com CNAME .
@@ -356,7 +366,6 @@ houdisco.xyz CNAME .
 hq3x.com CNAME .
 hsux.com CNAME .
 huanez.xyz CNAME .
-huckeyz.lol CNAME .
 huewaix.xyz CNAME .
 hunjoinz.pics CNAME .
 hutanz.xyz CNAME .
@@ -504,27 +513,26 @@ open.oksrv.com CNAME .
 opus.sexyxxx.biz CNAME .
 orderz.lol CNAME .
 orznp.spinna.store CNAME .
-outallin.mom CNAME .
 outshutop.mom CNAME .
 outya.xyz CNAME .
 ox8.topsexhdvideos.com CNAME .
 ozoj.com CNAME .
 p.hgfdtujlknhkghf.site CNAME .
 p.strjuylfrjyk.site CNAME .
+p.upskirt.tv CNAME .
 p123p.com CNAME .
 p1t.clipnuke.com CNAME .
 pakenta.xyz CNAME .
-pakeway.lol CNAME .
 pampela.lol CNAME .
 pamtuea.xyz CNAME .
 pamury.xyz CNAME .
 pangoha.xyz CNAME .
 pangtues.xyz CNAME .
 parkurl.com CNAME .
+pempiz.xyz CNAME .
 penapne.xyz CNAME .
 pengenanu.files.im CNAME .
 pep929.mom CNAME .
-pharaon.mom CNAME .
 pihu.xxxpornhd.pro CNAME .
 pivo.tracked.one CNAME .
 pizzazz.lol CNAME .
@@ -558,6 +566,7 @@ qx0.xnxxtubevideos.com CNAME .
 r.archertube.com CNAME .
 r.erohabu.com CNAME .
 r.freeadultporn.tv CNAME .
+r.tropictube.com CNAME .
 ramosz.lol CNAME .
 rdx.javmotion.com CNAME .
 redi.teengirl-pics.com CNAME .
@@ -617,8 +626,8 @@ supjav.com.jav-7mmtv.top CNAME .
 support.streamjav.top CNAME .
 suzuhen.xyz CNAME .
 swqw.jav-7mmtv.top CNAME .
-taboizo.mom CNAME .
 tacumi.xyz CNAME .
+tagbucks.xyz CNAME .
 tagun.xyz CNAME .
 talamk3.beauty CNAME .
 tankiuz.xyz CNAME .
@@ -698,6 +707,8 @@ www9.downloadani.me CNAME .
 x.adactioner.com CNAME .
 x.xxxbf.tv CNAME .
 x.xxxbp.tv CNAME .
+x.xxxbule.com CNAME .
+x.xxxbule.tv CNAME .
 x1cdn.fin.ovh CNAME .
 x2c1v4.hentaigold.net CNAME .
 x2sfa.javgg.eu CNAME .
