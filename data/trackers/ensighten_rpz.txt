@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -320,6 +320,7 @@ tagmanager1.citi.com CNAME .
 tagmanager1.citibank.com CNAME .
 tagmanager1.citibankonline.com CNAME .
 tagmanager1.citicards.com CNAME .
+tagmanager1.citiretailservices.com CNAME .
 tags.aljazeera.com CNAME .
 tags.aljazeera.net CNAME .
 tags.aumago.com CNAME .
@@ -337,7 +338,6 @@ test3-dc.kayoutlet.com CNAME .
 test3-dc.sterlingjewelers.com CNAME .
 tm.hdmtools.com CNAME .
 tms-test.nab.com.au CNAME .
-tms.americanexpress.com CNAME .
 tms.betway.com CNAME .
 tms.betwaysatta.com CNAME .
 tms.betwaysatta1.com CNAME .

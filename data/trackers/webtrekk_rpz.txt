@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -271,6 +271,8 @@ web.comunicazioni.iol.it CNAME .
 web.crm.beps.it CNAME .
 web.diebayerische.de CNAME .
 web.e.aldermore.co.uk CNAME .
+web.e.bolts.co.uk CNAME .
+web.e.drainagepipe.co.uk CNAME .
 web.e.guttersupplies.co.uk CNAME .
 web.e.panmacmillan.com CNAME .
 web.e.pbslgroup.co.uk CNAME .
@@ -330,6 +332,7 @@ web.sensilab.cz CNAME .
 web.sensilab.de CNAME .
 web.sensilab.dk CNAME .
 web.sensilab.es CNAME .
+web.sensilab.hr CNAME .
 web.sensilab.ie CNAME .
 web.sensilab.it CNAME .
 web.sensilab.org CNAME .

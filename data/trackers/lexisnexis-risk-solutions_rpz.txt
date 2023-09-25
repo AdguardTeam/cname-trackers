@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -293,6 +293,7 @@ content.tab.com.au CNAME .
 content.telusinternational.ai CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
+content.vi.gov CNAME .
 content.washingtonnational.com CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
@@ -327,6 +328,7 @@ content22.citibank.ru CNAME .
 content22.citibankonline.com CNAME .
 content22.citicards.com CNAME .
 content22.citiretailservices.com CNAME .
+content22.gss.citi.com CNAME .
 content22.olb-usmtu2web1.citi.com CNAME .
 content22.online.citi.com CNAME .
 content22.online.citibank.com CNAME .
@@ -490,6 +492,7 @@ intlsdpntrca.nitrocasino.ca CNAME .
 intm.amwager.com CNAME .
 invalid-qa2.threatmetrix.com CNAME .
 irmp.caa.com CNAME .
+ivaacontent.ers.ga.gov CNAME .
 jj203.equitablebank.ca CNAME .
 jplspr.jackpot.com CNAME .
 jytrnq.cm-cic.com CNAME .
@@ -499,6 +502,7 @@ ln.meudigio.com.br CNAME .
 lndata.labor.maryland.gov CNAME .
 lndata.labor.md.gov CNAME .
 lnths.twc.texas.gov CNAME .
+lnthxsvc.tsp.gov CNAME .
 log.betdaq.com CNAME .
 log.checkmyfile.com CNAME .
 log.creditreport.co.uk CNAME .
@@ -924,6 +928,7 @@ txcontent.iherb.com CNAME .
 txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
 ualaki-analytics.vacations.united.com CNAME .
+uat.cmprofile.cards.citidirect.com CNAME .
 ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .
@@ -970,3 +975,4 @@ xfp.intuit.com CNAME .
 xmt.paze.com CNAME .
 ydkwim.targobank.de CNAME .
 yr3ioxw.hoaresbank.co.uk CNAME .
+zfp.intuit.com CNAME .

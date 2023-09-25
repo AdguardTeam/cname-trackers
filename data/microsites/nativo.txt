@@ -184,7 +184,6 @@
 ||8577616b81.2045683976.com^
 ||85ee48afef.479d86c670.com^
 ||85fb7313d7.77e74062b1.com^
-||8654683419.6ab77a3dad.com^
 ||898dd5a858.a06e054b4c.com^
 ||89af0d0300.3862ce0006.com^
 ||8a68d01b69.11a8e92218.com^
@@ -249,6 +248,7 @@
 ||b99bb7cbd1.1551235f72.com^
 ||ba182692bb.0c1d501ba1.com^
 ||babcca7fba.dca8d1600b.com^
+||bbb3badef0.d7fea0b8c4.com^
 ||bc63f84631.5e9d31c60e.com^
 ||bcdb664dff.0d356de9ef.com^
 ||bd2bc05960.47daeb1eac.com^
@@ -258,7 +258,6 @@
 ||bfe70bbd52.23182b9851.com^
 ||c0b0be585f.581c933842.com^
 ||c14f40b010.3574fd3373.com^
-||c353ac05ea.b0fea47e81.com^
 ||c36700d174.46febd8df8.com^
 ||c37ed72d5a.f5fd936867.com^
 ||c4686b1d62.0b617f0769.com^
@@ -287,6 +286,7 @@
 ||d3786bbf0d.25b0c98720.com^
 ||d387563a79.9a454e6651.com^
 ||d3fab9608e.14eb4832a6.com^
+||d4a90e546a.11a6670e45.com^
 ||d93a7f2b7e.9c03f2208e.com^
 ||d9d8248a89.220e561113.com^
 ||da7a33716c.92be9e6be2.com^
@@ -335,12 +335,10 @@
 ||fd3a5d1372.b435c33c6c.com^
 ||fd91b5c89c.fb2d1abede.com^
 ||fe62bfc689.a7f3b65b6b.com^
-||fe8d4b33c2.8abf43d6ad.com^
 ||ff04a1538a.ced4d66e2d.com^
 ||ff18e0b495.eeecc0e343.com^
 ||ff6840b5f0.338d2db673.com^
 ||a135.wftv.com^
-||a614.pennlive.com^
 ||share.ntv.io^
 ||a135.fox23.com^
 ||a135.wpxi.com^
@@ -350,6 +348,7 @@
 ||a614.masslive.com^
 ||a614.mlive.com^
 ||a614.nj.com^
+||a614.pennlive.com^
 ||ajc.share.ntv.io^
 ||al.share.ntv.io^
 ||automobilemag.share.ntv.io^
@@ -396,7 +395,6 @@
 ||a235.htvnativeadsolutions.com^
 ||a235.lmtonline.com^
 ||a235.mrt.com^
-||a235.myjournalcourier.com^
 ||a235.myplainview.com^
 ||a235.nhregister.com^
 ||a235.ourmidland.com^

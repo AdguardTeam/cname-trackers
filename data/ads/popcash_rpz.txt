@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,6 +22,7 @@ cdn.asecv.xyz CNAME .
 cdn.asopn.com CNAME .
 cdn.asrop.xyz CNAME .
 cdn.barlo.xyz CNAME .
+cdn.bhlph.com CNAME .
 cdn.buram.xyz CNAME .
 cdn.cabhwq.com CNAME .
 cdn.cjlph.com CNAME .
@@ -413,6 +414,7 @@ emu.cortexfutura.com CNAME .
 emu.motala.no CNAME .
 emu.pin13.net CNAME .
 eu.fathomdns.com CNAME .
+eu.usefathom.com CNAME .
 falcon.aniftyco.com CNAME .
 falcon.backgroundnoise.app CNAME .
 falcon.designed.org CNAME .
@@ -447,7 +449,6 @@ flea.artisan.school CNAME .
 flea.elbertsnaturalfoods.com CNAME .
 fly.foggybottomfarm.org CNAME .
 flyingfish.agilehedges.com CNAME .
-flyingfish.cloudqigong.com CNAME .
 flyingfish.editorslab.de CNAME .
 fowl.saulhardman.com CNAME .
 fox.domainr.com CNAME .
@@ -761,6 +762,7 @@ orca.overbold.co CNAME .
 ostrich.getschools.org CNAME .
 ostrich.hegic-tokenizer.co CNAME .
 ostrich.pergaudiaadastra.de CNAME .
+ostrich.scd-rv.com.au CNAME .
 otter.butika.fr CNAME .
 otter.emdegmbh.com CNAME .
 otter.preferredequineonline.com CNAME .
@@ -827,6 +829,7 @@ pony.ftm.cat CNAME .
 porcupine.dvresolve.com CNAME .
 porcupine.simpleprax.de CNAME .
 porpoise.azettl.net CNAME .
+porpoise.deschtimes.com CNAME .
 porpoise.fruittreecottage.com.au CNAME .
 porpoise.jackwhiting.co.uk CNAME .
 porpoise.numberzs.com CNAME .

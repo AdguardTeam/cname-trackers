@@ -41,6 +41,7 @@
     * h-3u2bmrkg.online-metrix.net
     * h-3z5dc3wi.online-metrix.net
     * h-3zlt5rop.online-metrix.net
+    * h-42guvm37.online-metrix.net
     * h-47blm1l4.online-metrix.net
     * h-4hq91r5k.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
@@ -55,6 +56,7 @@
     * h-6a6y6kka.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
     * h-6i24djkv.online-metrix.net
+    * h-6jfhwoo3.online-metrix.net
     * h-6mlhprq2-a.online-metrix.net
     * h-6mlhprq2.online-metrix.net
     * h-6rj18la4.online-metrix.net
@@ -133,6 +135,7 @@
     * h-axiata.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
     * h-b3m5a8st.online-metrix.net
+    * h-b4bq7y80.online-metrix.net
     * h-badoo.online-metrix.net
     * h-bambu.online-metrix.net
     * h-banco.digio.online-metrix.net
@@ -297,6 +300,7 @@
     * h-draftkings.online-metrix.net
     * h-drav45kl.online-metrix.net
     * h-drbo60la.online-metrix.net
+    * h-dsa7i4o8.online-metrix.net
     * h-dstssc.online-metrix.net
     * h-dszu15n8.online-metrix.net
     * h-dubkxo24.online-metrix.net
@@ -602,6 +606,7 @@
     * h-tsb.online-metrix.net
     * h-twctexas.online-metrix.net
     * h-twino.online-metrix.net
+    * h-uat.cmprofile.citidirect.online-metrix.net
     * h-udd8uxur-leb.online-metrix.net
     * h-udd8uxur.online-metrix.net
     * h-uplift.online-metrix.net
@@ -619,6 +624,7 @@
     * h-v60nf4oj-vfp.online-metrix.net
     * h-v60nf4oj-wfp.online-metrix.net
     * h-v60nf4oj-xfp.online-metrix.net
+    * h-v60nf4oj-zfp.online-metrix.net
     * h-vacations.united.online-metrix.net
     * h-valcontent.online-metrix.net
     * h-vedacheck.online-metrix.net
@@ -745,6 +751,7 @@
 | content.lyft.com | h-3u2bmrkg.online-metrix.net |
 | event.evtm.53.com | h-3z5dc3wi.online-metrix.net |
 | shield.boostbusiness.my | h-3zlt5rop.online-metrix.net |
+| ivaacontent.ers.ga.gov | h-42guvm37.online-metrix.net |
 | api.v1.threatmetrix.space.ge | h-47blm1l4.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
@@ -775,6 +782,7 @@
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
 | cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
+| lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
 | tblsdp.staging.tonybet.ca | h-6mlhprq2-a.online-metrix.net |
 | tblsdp.tonybet.ca | h-6mlhprq2.online-metrix.net |
 | black-cat.crypto.com | h-6rj18la4.online-metrix.net |
@@ -878,6 +886,7 @@
 | caveo.boost-my.com | h-axiata.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
+| content.vi.gov | h-b4bq7y80.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
 | ln.meudigio.com.br | h-banco.digio.online-metrix.net |
@@ -1083,6 +1092,7 @@
 | tmximg.draftkings.com | h-draftkings.online-metrix.net |
 | content.wizink.es | h-drav45kl.online-metrix.net |
 | payments.hd-plus.de | h-drbo60la.online-metrix.net |
+| content22.gss.citi.com | h-dsa7i4o8.online-metrix.net |
 | content.ssctech.com | h-dstssc.online-metrix.net |
 | acdc.toolineo.de | h-dszu15n8.online-metrix.net |
 | xmt.paze.com | h-dubkxo24.online-metrix.net |
@@ -1531,6 +1541,7 @@
 | content.moneza.lv | h-twino.online-metrix.net |
 | content.moneza.ru | h-twino.online-metrix.net |
 | content.netcredit.pl | h-twino.online-metrix.net |
+| uat.cmprofile.cards.citidirect.com | h-uat.cmprofile.citidirect.online-metrix.net |
 | fsta.leboncoin.info | h-udd8uxur-leb.online-metrix.net |
 | umst.mobile.de | h-udd8uxur.online-metrix.net |
 | t42rsn90.uplift.com | h-uplift.online-metrix.net |
@@ -1548,6 +1559,7 @@
 | vfp.intuit.com | h-v60nf4oj-vfp.online-metrix.net |
 | wfp.intuit.com | h-v60nf4oj-wfp.online-metrix.net |
 | xfp.intuit.com | h-v60nf4oj-xfp.online-metrix.net |
+| zfp.intuit.com | h-v60nf4oj-zfp.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | ualaki-analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | valcontent.securustech.net | h-valcontent.online-metrix.net |

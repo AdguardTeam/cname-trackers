@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -133,6 +133,7 @@ hi.oglesmulsify.com CNAME .
 hj.faggotbovidae.com CNAME .
 hl.jinchaovetoer.com CNAME .
 hm.sightercanidae.com CNAME .
+hu.claspedammu.com CNAME .
 hw.testulebottega.com CNAME .
 hx.relivesternar.com CNAME .
 hy.orcinsjewish.com CNAME .
@@ -173,6 +174,7 @@ ju.veganswingbow.com CNAME .
 jv.curiousuraemia.com CNAME .
 jv.sugaryestrone.com CNAME .
 jw.posiedcaridea.com CNAME .
+jw.scuddedsisals.com CNAME .
 jx.yonnersekere.com CNAME .
 ke.kabalagarsil.com CNAME .
 kl.osmoticchalah.com CNAME .
@@ -186,6 +188,7 @@ kx.ragerystenchy.com CNAME .
 kz.rebakeassets.com CNAME .
 la.lamdensnip.com CNAME .
 lb.hyratesethic.com CNAME .
+lc.punkahskayles.com CNAME .
 ld.stengskelped.com CNAME .
 le.wellsmessy.com CNAME .
 lf.minyascannat.com CNAME .
@@ -297,6 +300,7 @@ sc.waapadaggled.com CNAME .
 sc.waybookmyceles.com CNAME .
 se.aspireetopee.com CNAME .
 sf.dirhamsleered.com CNAME .
+sf.eschelbolts.com CNAME .
 sf.zestfulpize.com CNAME .
 sl.elinvarpayola.com CNAME .
 sl.frondewame.com CNAME .
@@ -408,6 +412,7 @@ yl.calumetjowing.com CNAME .
 yp.tronkparsed.com CNAME .
 yu.deggerfletton.com CNAME .
 yv.atticereqd.com CNAME .
+yv.remountduretto.com CNAME .
 yx.minimalmodulet.com CNAME .
 yy.bourockmights.com CNAME .
 zd.plattedrattons.com CNAME .

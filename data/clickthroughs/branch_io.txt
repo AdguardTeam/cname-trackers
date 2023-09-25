@@ -335,6 +335,7 @@
 ||clicks.drizly.com^
 ||clicks.email.shakeshack.com^
 ||clicks.equinoxplus.com^
+||clicks.flaming.burger-king.ch^
 ||clicks.food.mercato.com^
 ||clicks.kfc.co.uk^
 ||clicks.kfc.fr^
@@ -445,6 +446,7 @@
 ||email.everyonesocial.jbhunt.com^
 ||email.everyonesocial.lexisnexisrisk.com^
 ||email.everyonesocial.lumen.com^
+||email.everyonesocial.merckgroup.com^
 ||email.everyonesocial.ni.com^
 ||email.everyonesocial.notarize.com^
 ||email.everyonesocial.nuskin.com^
@@ -687,6 +689,7 @@
 ||links.nexttrucking.com^
 ||links.notarize.com^
 ||links.notifications.headspace.com^
+||links.offers.mindbody.io^
 ||links.official.vsco.co^
 ||links.ohhey.depop.com^
 ||links.openfit.com^
@@ -1005,6 +1008,7 @@
 ||app.bws.com.au^
 ||app.byjus.com^
 ||app.caden.io^
+||app.cambolink21.com^
 ||app.campaignhero.ai^
 ||app.campbowwow.com^
 ||app.capitalbikeshare.com^
@@ -1132,7 +1136,6 @@
 ||app.joinglimpse.io^
 ||app.joinkroo.com^
 ||app.joinraft.com^
-||app.joynt.club^
 ||app.kaptain11.com^
 ||app.kcutsgo.com^
 ||app.kernwerk.de^
@@ -1299,6 +1302,7 @@
 ||app.touchofmodern.com^
 ||app.trade.mogo.ca^
 ||app.trainfitness.ai^
+||app.trainline.com^
 ||app.travelcom.com.tw^
 ||app.trayls.com^
 ||app.treering.com^
@@ -1612,6 +1616,7 @@
 ||brc.englishdict.cc^
 ||brc.englishtimes.cc^
 ||brc.hellotalk.com^
+||brc.languageclass.cc^
 ||brc2.aigrammar.net^
 ||brcargreen.eccocar.com^
 ||brcicar.eccocar.com^
@@ -1678,9 +1683,11 @@
 ||c.lolamarket.com^
 ||c.refun.do^
 ||c.topya.com^
+||c.vcty.co^
 ||c.werally.com^
 ||c4c9.pandasuite.io^
 ||c917.pandasuite.io^
+||ca.macheq.com^
 ||caapp.levi.com^
 ||campaigns.impactive.io^
 ||campaigns.outvote.io^
@@ -1757,6 +1764,7 @@
 ||d-app.progressive.com^
 ||d-snapshotapp.progressive.com^
 ||d-staging.groc.press^
+||d.cybtel.com^
 ||d.delahorro.app^
 ||d.groc.press^
 ||d.jugnoo.in^
@@ -1891,6 +1899,7 @@
 ||download.backpackergame.com^
 ||download.bonnti.com^
 ||download.coinseed.co^
+||download.connectie.com^
 ||download.dackinc.com^
 ||download.frolit.io^
 ||download.getneema.com^
@@ -2511,13 +2520,13 @@
 ||join.hu-manity.co^
 ||join.hypercare.com^
 ||join.lapse.app^
-||join.marmelade-app.fr^
 ||join.motion-app.com^
 ||join.newtrina.com^
 ||join.our-story.co^
 ||join.parentlove.me^
 ||join.pockit.com^
 ||join.schmooze.tech^
+||join.sizl.com^
 ||join.spur.io^
 ||join.staging.spur.io^
 ||join.step.com^
@@ -2865,6 +2874,7 @@
 ||link.letsdayout.com^
 ||link.litnet.com^
 ||link.localmasters.com^
+||link.lola.com^
 ||link.lomolist.com^
 ||link.loop11.com^
 ||link.loopedlive.com^
@@ -3148,6 +3158,7 @@
 ||links.kha.com^
 ||links.max.com^
 ||links.mezurashigame.com^
+||links.mgmresorts.com^
 ||links.motortrend.com^
 ||links.myplace.co^
 ||links.own.tv^
@@ -3198,6 +3209,7 @@
 ||lnk.culturetrip.com^
 ||lnk.dgsta.com^
 ||lnk.gleeph.net^
+||lnk.joinpopp.in^
 ||lnk.jointakeoff.com^
 ||lnk.most-days.com^
 ||lnk.mostdays.com^
@@ -3655,8 +3667,10 @@
 ||share.tp666.vip^
 ||share.tradeapp.me^
 ||share.travelloapp.com^
+||share.wayup.com^
 ||share.wigle.me^
 ||share.winit.nyc^
+||share.wolfspreads.com^
 ||share.worldleaguelive.com^
 ||share.yabelink.com^
 ||share.yugengamers.com^
@@ -3674,6 +3688,7 @@
 ||simple-medical.link.justincase.jp^
 ||sk-batteryimport.m-shop.me^
 ||sk-sanasport.m-shop.me^
+||sk-topgal.m-shop.me^
 ||skaffa.tidyapp.se^
 ||skincheckwa-app.hotdoc.com.au^
 ||skosgrill.openapp.link^
@@ -3699,6 +3714,7 @@
 ||stadac.app.mobilapp.io^
 ||stadac.mobilapp.io^
 ||stageapplink.reki.tv^
+||stagelink.lola.com^
 ||stagelink.supershare.com^
 ||stagelink.youareaceo.com^
 ||staging-go.getsquire.com^
@@ -3706,7 +3722,6 @@
 ||staging-link.docyt.com^
 ||staging-links.thriveglobal.com^
 ||staging-refer.rooam.co^
-||staging.ballst.co^
 ||staging.findeck.link^
 ||staging.link.findeck.de^
 ||staging.link.nabla.com^
@@ -3823,6 +3838,7 @@
 ||try.postmuseapp.com^
 ||ts.besilm.com^
 ||tsp.onjoyri.de^
+||tst-link-ccontact.focuscura.com^
 ||tune.sckmediatv.com^
 ||tw.spiriteq.com^
 ||txt.fuelmyclub.com^

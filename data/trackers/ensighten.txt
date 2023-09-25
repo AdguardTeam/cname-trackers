@@ -309,6 +309,7 @@
 ||tagmanager1.citibank.com^
 ||tagmanager1.citibankonline.com^
 ||tagmanager1.citicards.com^
+||tagmanager1.citiretailservices.com^
 ||tags.aljazeera.com^
 ||tags.aljazeera.net^
 ||tags.aumago.com^
@@ -326,7 +327,6 @@
 ||test3-dc.sterlingjewelers.com^
 ||tm.hdmtools.com^
 ||tms-test.nab.com.au^
-||tms.americanexpress.com^
 ||tms.betway.com^
 ||tms.betwaysatta.com^
 ||tms.betwaysatta1.com^

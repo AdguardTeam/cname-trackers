@@ -20,7 +20,6 @@
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
 | a135.wftv.com | jadserve.postrelease.com |
-| a614.pennlive.com | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | a135.fox23.com | jadserve.postrelease.com.akadns.net |
 | a135.wftv.com | jadserve.postrelease.com.akadns.net |
@@ -255,7 +254,6 @@
 | 8577616b81.2045683976.com | ntvpforever.com |
 | 85ee48afef.479d86c670.com | ntvpforever.com |
 | 85fb7313d7.77e74062b1.com | ntvpforever.com |
-| 8654683419.6ab77a3dad.com | ntvpforever.com |
 | 898dd5a858.a06e054b4c.com | ntvpforever.com |
 | 89af0d0300.3862ce0006.com | ntvpforever.com |
 | 8a68d01b69.11a8e92218.com | ntvpforever.com |
@@ -320,6 +318,7 @@
 | b99bb7cbd1.1551235f72.com | ntvpforever.com |
 | ba182692bb.0c1d501ba1.com | ntvpforever.com |
 | babcca7fba.dca8d1600b.com | ntvpforever.com |
+| bbb3badef0.d7fea0b8c4.com | ntvpforever.com |
 | bc63f84631.5e9d31c60e.com | ntvpforever.com |
 | bcdb664dff.0d356de9ef.com | ntvpforever.com |
 | bd2bc05960.47daeb1eac.com | ntvpforever.com |
@@ -329,7 +328,6 @@
 | bfe70bbd52.23182b9851.com | ntvpforever.com |
 | c0b0be585f.581c933842.com | ntvpforever.com |
 | c14f40b010.3574fd3373.com | ntvpforever.com |
-| c353ac05ea.b0fea47e81.com | ntvpforever.com |
 | c36700d174.46febd8df8.com | ntvpforever.com |
 | c37ed72d5a.f5fd936867.com | ntvpforever.com |
 | c4686b1d62.0b617f0769.com | ntvpforever.com |
@@ -358,6 +356,7 @@
 | d3786bbf0d.25b0c98720.com | ntvpforever.com |
 | d387563a79.9a454e6651.com | ntvpforever.com |
 | d3fab9608e.14eb4832a6.com | ntvpforever.com |
+| d4a90e546a.11a6670e45.com | ntvpforever.com |
 | d93a7f2b7e.9c03f2208e.com | ntvpforever.com |
 | d9d8248a89.220e561113.com | ntvpforever.com |
 | da7a33716c.92be9e6be2.com | ntvpforever.com |
@@ -406,7 +405,6 @@
 | fd3a5d1372.b435c33c6c.com | ntvpforever.com |
 | fd91b5c89c.fb2d1abede.com | ntvpforever.com |
 | fe62bfc689.a7f3b65b6b.com | ntvpforever.com |
-| fe8d4b33c2.8abf43d6ad.com | ntvpforever.com |
 | ff04a1538a.ced4d66e2d.com | ntvpforever.com |
 | ff18e0b495.eeecc0e343.com | ntvpforever.com |
 | ff6840b5f0.338d2db673.com | ntvpforever.com |
@@ -416,7 +414,6 @@
 | a235.htvnativeadsolutions.com | unavailable.hearstnp.com |
 | a235.lmtonline.com | unavailable.hearstnp.com |
 | a235.mrt.com | unavailable.hearstnp.com |
-| a235.myjournalcourier.com | unavailable.hearstnp.com |
 | a235.myplainview.com | unavailable.hearstnp.com |
 | a235.nhregister.com | unavailable.hearstnp.com |
 | a235.ourmidland.com | unavailable.hearstnp.com |

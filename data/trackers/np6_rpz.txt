@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -392,7 +392,6 @@ tr.fr.pro.accor.com CNAME .
 tr.france.plimsoll.fr CNAME .
 tr.french-tax-compliance-booking.com CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
-tr.gap-fr.fr CNAME .
 tr.gdfsuez-globalenergy.info CNAME .
 tr.gen.espmp-agfr.net CNAME .
 tr.gestion.cafineo.fr CNAME .
@@ -1063,6 +1062,7 @@ tr1.bp06.net CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.easy-v01.net CNAME .
 tr1.lr001.net CNAME .
+tr1.lr002.net CNAME .
 tr1.lr003.net CNAME .
 tr1.mailperf.com CNAME .
 tr1.mailperformance.com CNAME .

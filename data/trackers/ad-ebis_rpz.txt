@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -136,6 +136,7 @@ bbbb.goace.jp CNAME .
 beeline.beeline-tire.co.jp CNAME .
 campaign-direct.eisai.jp CNAME .
 campaign-direct.ketsuatsu-taisaku.xyz CNAME .
+campaign-direct.supplement-news.net CNAME .
 ccc.aqualink.tokyo CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.gom-in.com CNAME .
@@ -179,6 +180,7 @@ ebis-tracking.hirakata-skin-clinic.com CNAME .
 ebis-tracking.okinawa-keisei.com CNAME .
 ebis-tracking.shinyokohama-beauty.com CNAME .
 ebis-tracking.tcb-beauty.net CNAME .
+ebis-tracking.tcb-mito.com CNAME .
 ebis-tracking.tcb-recruit.com CNAME .
 ebis-tracking.tcb-setagaya.com CNAME .
 ebis.15jikai.com CNAME .

@@ -142,7 +142,6 @@
 ||affiliate.elektronicke-vycvikove-obojky.com^
 ||affiliate.elektronickeobojkypropsy.cz^
 ||affiliate.elisdesign.cz^
-||affiliate.elitemarketing.cz^
 ||affiliate.ellex.cz^
 ||affiliate.epohledavky.cz^
 ||affiliate.eros.sk^

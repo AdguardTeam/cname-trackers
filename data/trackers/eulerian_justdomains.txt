@@ -47,7 +47,6 @@ aod4.societegenerale.fr
 ar.allrun.fr
 ar.i-run.fr
 azg1.emalu-store.com
-b1n.carabins.umontreal.ca
 bch8.destinia.co
 bdj5.terrassesmontecarlosbm.com
 bft5.destinia.fr
@@ -217,6 +216,7 @@ eulerian.siandso.com
 eulerian.structube.com
 eulerian.telechargement.fr
 eulerian.tgv-europe.be
+eulerian.tgv-europe.com
 eulerian.tgv-europe.es
 eulerian.tgv-europe.lu
 eulerian.tgv-europe.nl
@@ -325,7 +325,6 @@ nmo1.orpi.com
 nmu3.destinia.be
 noa0.compteczam.fr
 nrg.red-by-sfr.fr
-nym5c.laura.ca
 nyt1.biosens-leanature.fr
 o68c.sfr.fr
 oae6.carrefour-banque.fr
@@ -505,6 +504,7 @@ zsi7.destinia.do
 zum7cc.oui.sncf
 zyq2.destinia.sk
 5fm.985fm.ca
+b1n.carabins.umontreal.ca
 c0i.ckoi.com
 c0p.cepsum.umontreal.ca
 d0f.le-dauphin.com
@@ -515,3 +515,4 @@ nym5c.bonlook.com
 ry0.rythmefm.com
 ea.mnt.fr
 gi7a.structube.com
+nym5c.laura.ca

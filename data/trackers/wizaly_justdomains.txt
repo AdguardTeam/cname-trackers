@@ -25,6 +25,7 @@ tk.airfrance.cz
 tk.airfrance.de
 tk.airfrance.dj
 tk.airfrance.dk
+tk.airfrance.dz
 tk.airfrance.fi
 tk.airfrance.fr
 tk.airfrance.ga

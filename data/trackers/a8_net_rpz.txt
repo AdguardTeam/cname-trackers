@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -265,6 +265,7 @@ a8.strapya.com CNAME .
 a8.sui-so.com CNAME .
 a8.suma-sapo.net CNAME .
 a8.sumilena.co.jp CNAME .
+a8.tabechoku.com CNAME .
 a8.tailorenglish.jp CNAME .
 a8.tapp-co.jp CNAME .
 a8.taylormadegolf.jp CNAME .
@@ -496,7 +497,6 @@ a8clk.merry.duskin-hozumi.co.jp CNAME .
 a8clk.miidas.jp CNAME .
 a8clk.minnadeooyasan.com CNAME .
 a8clk.mirrorball-recurit.emanon-sharesalon.com CNAME .
-a8clk.miselclinic.com CNAME .
 a8clk.mobile-norikae.com CNAME .
 a8clk.mop.duskin-hozumi.co.jp CNAME .
 a8clk.mouse-jp.co.jp CNAME .
@@ -856,6 +856,7 @@ a8cv.jeansmate.co.jp CNAME .
 a8cv.jemmy.co.jp CNAME .
 a8cv.join-tech.jp CNAME .
 a8cv.jokyonext.jp CNAME .
+a8cv.joy-karaokerental.com CNAME .
 a8cv.jp-shop.kiwabi.com CNAME .
 a8cv.jp.metrocityworld.com CNAME .
 a8cv.jp.redodopower.com CNAME .
@@ -956,6 +957,7 @@ a8cv.palms-gym.com CNAME .
 a8cv.perrot.co CNAME .
 a8cv.photojoy.jp CNAME .
 a8cv.picksitter.com CNAME .
+a8cv.pigeon-fw.com CNAME .
 a8cv.pilates-k.jp CNAME .
 a8cv.player.iam-ist.jp CNAME .
 a8cv.pocket-sommelier.com CNAME .

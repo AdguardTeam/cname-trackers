@@ -260,6 +260,8 @@ web.comunicazioni.iol.it
 web.crm.beps.it
 web.diebayerische.de
 web.e.aldermore.co.uk
+web.e.bolts.co.uk
+web.e.drainagepipe.co.uk
 web.e.guttersupplies.co.uk
 web.e.panmacmillan.com
 web.e.pbslgroup.co.uk
@@ -319,6 +321,7 @@ web.sensilab.cz
 web.sensilab.de
 web.sensilab.dk
 web.sensilab.es
+web.sensilab.hr
 web.sensilab.ie
 web.sensilab.it
 web.sensilab.org

@@ -117,6 +117,7 @@
     * 5dec3cb3-day5axk4.cname.ebis.ne.jp
     * 5e958d74-ugbtnbbz.cname.ebis.ne.jp
     * 60222f89-dui9p9au.cname.ebis.ne.jp
+    * 6053f044-y4rfthkp.cname.ebis.ne.jp
     * 608975dd-6hbgpszs.cname.ebis.ne.jp
     * 60975a62-6pusefyf.cname.ebis.ne.jp
     * 61ee329f-zslwnuid.cname.ebis.ne.jp
@@ -143,6 +144,7 @@
     * 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp
     * 7af5d4ff-q4vseaye.cname.ebis.ne.jp
     * 7d014781-4z4kfqrd.cname.ebis.ne.jp
+    * 7db5d7fa-6pusefyf.cname.ebis.ne.jp
     * 7f2d566c-fwvdyp7a.cname.ebis.ne.jp
     * 7f57baa7-htgnrmwe.cname.ebis.ne.jp
     * 8084b5d3-mqxnlcy4.cname.ebis.ne.jp
@@ -417,6 +419,7 @@
 | ebis.re-shop.jp | 5dec3cb3-day5axk4.cname.ebis.ne.jp |
 | ac-3.mix.tokyo | 5e958d74-ugbtnbbz.cname.ebis.ne.jp |
 | ad.autorace.jp | 60222f89-dui9p9au.cname.ebis.ne.jp |
+| campaign-direct.supplement-news.net | 6053f044-y4rfthkp.cname.ebis.ne.jp |
 | ebis.sekisuihouse.co.jp | 608975dd-6hbgpszs.cname.ebis.ne.jp |
 | ebis-tracking.shinyokohama-beauty.com | 60975a62-6pusefyf.cname.ebis.ne.jp |
 | adebis.no.01.alo-organic.com | 61ee329f-zslwnuid.cname.ebis.ne.jp |
@@ -443,6 +446,7 @@
 | cname-adebis.vcube.com | 7a20e2ee-zmhmrwhh.cname.ebis.ne.jp |
 | ebis.radish-pocket.com | 7af5d4ff-q4vseaye.cname.ebis.ne.jp |
 | mcad.mods-clinic.com | 7d014781-4z4kfqrd.cname.ebis.ne.jp |
+| ebis-tracking.tcb-mito.com | 7db5d7fa-6pusefyf.cname.ebis.ne.jp |
 | matsubun.matsubun.com | 7f2d566c-fwvdyp7a.cname.ebis.ne.jp |
 | ad-ebis.toysub.jp | 7f57baa7-htgnrmwe.cname.ebis.ne.jp |
 | cname.mebiusseiyaku.co.jp | 8084b5d3-mqxnlcy4.cname.ebis.ne.jp |

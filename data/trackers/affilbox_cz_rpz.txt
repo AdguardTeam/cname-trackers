@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -153,7 +153,6 @@ affiliate.ehotel.cz CNAME .
 affiliate.elektronicke-vycvikove-obojky.com CNAME .
 affiliate.elektronickeobojkypropsy.cz CNAME .
 affiliate.elisdesign.cz CNAME .
-affiliate.elitemarketing.cz CNAME .
 affiliate.ellex.cz CNAME .
 affiliate.epohledavky.cz CNAME .
 affiliate.eros.sk CNAME .

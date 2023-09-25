@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -47,6 +47,7 @@ $TTL 300
 78rkcgj4i8c6.www.cefirates.com CNAME .
 7hdl8dlfjm4g.www.cybernetman.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
+9b5gjkrnw71r.it.themoneytizer.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9r0ptx5k38hk.hollowayremovals.com.au CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .

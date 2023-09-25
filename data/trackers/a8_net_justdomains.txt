@@ -254,6 +254,7 @@ a8.strapya.com
 a8.sui-so.com
 a8.suma-sapo.net
 a8.sumilena.co.jp
+a8.tabechoku.com
 a8.tailorenglish.jp
 a8.tapp-co.jp
 a8.taylormadegolf.jp
@@ -485,7 +486,6 @@ a8clk.merry.duskin-hozumi.co.jp
 a8clk.miidas.jp
 a8clk.minnadeooyasan.com
 a8clk.mirrorball-recurit.emanon-sharesalon.com
-a8clk.miselclinic.com
 a8clk.mobile-norikae.com
 a8clk.mop.duskin-hozumi.co.jp
 a8clk.mouse-jp.co.jp
@@ -845,6 +845,7 @@ a8cv.jeansmate.co.jp
 a8cv.jemmy.co.jp
 a8cv.join-tech.jp
 a8cv.jokyonext.jp
+a8cv.joy-karaokerental.com
 a8cv.jp-shop.kiwabi.com
 a8cv.jp.metrocityworld.com
 a8cv.jp.redodopower.com
@@ -945,6 +946,7 @@ a8cv.palms-gym.com
 a8cv.perrot.co
 a8cv.photojoy.jp
 a8cv.picksitter.com
+a8cv.pigeon-fw.com
 a8cv.pilates-k.jp
 a8cv.player.iam-ist.jp
 a8cv.pocket-sommelier.com

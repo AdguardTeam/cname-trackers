@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,6 +48,7 @@ $TTL 300
 6cf0e7801e8cd.clicknplay.to CNAME .
 7bd3d001ff6.clicknplay.to CNAME .
 893242.milfunsource.com CNAME .
+99loz.xyz CNAME .
 a.123porner.com CNAME .
 a.123porner.net CNAME .
 a.1film.to CNAME .
@@ -185,6 +186,7 @@ asg.asian-av.com CNAME .
 asg.catraff.com CNAME .
 asg.dormtapes.com CNAME .
 asg.faperoni.com CNAME .
+asg.irontube.net CNAME .
 asg.laivue.com CNAME .
 asg.mrporn.online CNAME .
 asg.nude-famous-people.com CNAME .

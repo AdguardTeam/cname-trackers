@@ -11,6 +11,7 @@
 ||cdn.asopn.com^
 ||cdn.asrop.xyz^
 ||cdn.barlo.xyz^
+||cdn.bhlph.com^
 ||cdn.buram.xyz^
 ||cdn.cabhwq.com^
 ||cdn.cjlph.com^
@@ -402,6 +403,7 @@
 ||emu.motala.no^
 ||emu.pin13.net^
 ||eu.fathomdns.com^
+||eu.usefathom.com^
 ||falcon.aniftyco.com^
 ||falcon.backgroundnoise.app^
 ||falcon.designed.org^
@@ -436,7 +438,6 @@
 ||flea.elbertsnaturalfoods.com^
 ||fly.foggybottomfarm.org^
 ||flyingfish.agilehedges.com^
-||flyingfish.cloudqigong.com^
 ||flyingfish.editorslab.de^
 ||fowl.saulhardman.com^
 ||fox.domainr.com^
@@ -750,6 +751,7 @@
 ||ostrich.getschools.org^
 ||ostrich.hegic-tokenizer.co^
 ||ostrich.pergaudiaadastra.de^
+||ostrich.scd-rv.com.au^
 ||otter.butika.fr^
 ||otter.emdegmbh.com^
 ||otter.preferredequineonline.com^
@@ -816,6 +818,7 @@
 ||porcupine.dvresolve.com^
 ||porcupine.simpleprax.de^
 ||porpoise.azettl.net^
+||porpoise.deschtimes.com^
 ||porpoise.fruittreecottage.com.au^
 ||porpoise.jackwhiting.co.uk^
 ||porpoise.numberzs.com^

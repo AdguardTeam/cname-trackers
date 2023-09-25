@@ -389,6 +389,7 @@
 | emu.motala.no | deprecated-custom-domains.b-cdn.net |
 | emu.pin13.net | deprecated-custom-domains.b-cdn.net |
 | eu.fathomdns.com | deprecated-custom-domains.b-cdn.net |
+| eu.usefathom.com | deprecated-custom-domains.b-cdn.net |
 | falcon.aniftyco.com | deprecated-custom-domains.b-cdn.net |
 | falcon.backgroundnoise.app | deprecated-custom-domains.b-cdn.net |
 | falcon.designed.org | deprecated-custom-domains.b-cdn.net |
@@ -423,7 +424,6 @@
 | flea.elbertsnaturalfoods.com | deprecated-custom-domains.b-cdn.net |
 | fly.foggybottomfarm.org | deprecated-custom-domains.b-cdn.net |
 | flyingfish.agilehedges.com | deprecated-custom-domains.b-cdn.net |
-| flyingfish.cloudqigong.com | deprecated-custom-domains.b-cdn.net |
 | flyingfish.editorslab.de | deprecated-custom-domains.b-cdn.net |
 | fowl.saulhardman.com | deprecated-custom-domains.b-cdn.net |
 | fox.domainr.com | deprecated-custom-domains.b-cdn.net |
@@ -737,6 +737,7 @@
 | ostrich.getschools.org | deprecated-custom-domains.b-cdn.net |
 | ostrich.hegic-tokenizer.co | deprecated-custom-domains.b-cdn.net |
 | ostrich.pergaudiaadastra.de | deprecated-custom-domains.b-cdn.net |
+| ostrich.scd-rv.com.au | deprecated-custom-domains.b-cdn.net |
 | otter.butika.fr | deprecated-custom-domains.b-cdn.net |
 | otter.emdegmbh.com | deprecated-custom-domains.b-cdn.net |
 | otter.preferredequineonline.com | deprecated-custom-domains.b-cdn.net |
@@ -803,6 +804,7 @@
 | porcupine.dvresolve.com | deprecated-custom-domains.b-cdn.net |
 | porcupine.simpleprax.de | deprecated-custom-domains.b-cdn.net |
 | porpoise.azettl.net | deprecated-custom-domains.b-cdn.net |
+| porpoise.deschtimes.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.fruittreecottage.com.au | deprecated-custom-domains.b-cdn.net |
 | porpoise.jackwhiting.co.uk | deprecated-custom-domains.b-cdn.net |
 | porpoise.numberzs.com | deprecated-custom-domains.b-cdn.net |
@@ -1071,6 +1073,7 @@
 | cdn.asopn.com | popcashjs.b-cdn.net |
 | cdn.asrop.xyz | popcashjs.b-cdn.net |
 | cdn.barlo.xyz | popcashjs.b-cdn.net |
+| cdn.bhlph.com | popcashjs.b-cdn.net |
 | cdn.buram.xyz | popcashjs.b-cdn.net |
 | cdn.cabhwq.com | popcashjs.b-cdn.net |
 | cdn.cjlph.com | popcashjs.b-cdn.net |

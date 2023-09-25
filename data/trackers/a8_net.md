@@ -267,6 +267,7 @@
 | a8.sui-so.com | trck.a8.net |
 | a8.suma-sapo.net | trck.a8.net |
 | a8.sumilena.co.jp | trck.a8.net |
+| a8.tabechoku.com | trck.a8.net |
 | a8.tailorenglish.jp | trck.a8.net |
 | a8.tapp-co.jp | trck.a8.net |
 | a8.taylormadegolf.jp | trck.a8.net |
@@ -497,7 +498,6 @@
 | a8clk.miidas.jp | trck.a8.net |
 | a8clk.minnadeooyasan.com | trck.a8.net |
 | a8clk.mirrorball-recurit.emanon-sharesalon.com | trck.a8.net |
-| a8clk.miselclinic.com | trck.a8.net |
 | a8clk.mobile-norikae.com | trck.a8.net |
 | a8clk.mop.duskin-hozumi.co.jp | trck.a8.net |
 | a8clk.mouse-jp.co.jp | trck.a8.net |
@@ -857,6 +857,7 @@
 | a8cv.jemmy.co.jp | trck.a8.net |
 | a8cv.join-tech.jp | trck.a8.net |
 | a8cv.jokyonext.jp | trck.a8.net |
+| a8cv.joy-karaokerental.com | trck.a8.net |
 | a8cv.jp-shop.kiwabi.com | trck.a8.net |
 | a8cv.jp.metrocityworld.com | trck.a8.net |
 | a8cv.jp.redodopower.com | trck.a8.net |
@@ -957,6 +958,7 @@
 | a8cv.perrot.co | trck.a8.net |
 | a8cv.photojoy.jp | trck.a8.net |
 | a8cv.picksitter.com | trck.a8.net |
+| a8cv.pigeon-fw.com | trck.a8.net |
 | a8cv.pilates-k.jp | trck.a8.net |
 | a8cv.player.iam-ist.jp | trck.a8.net |
 | a8cv.pocket-sommelier.com | trck.a8.net |

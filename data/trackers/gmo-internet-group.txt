@@ -1,7 +1,4 @@
 !
 ! Company name: GMO Internet Group
 ||favor1.fractal.jp^
-||d.image-ad.jp^
-||i.image-ad.jp^
 ||video.sp.gmossp-sp.jp^
-||j.image-ad.jp^

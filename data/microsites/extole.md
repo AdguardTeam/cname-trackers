@@ -452,7 +452,6 @@
     * signals.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
-    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skyone-federal-credit-union.extole.io
@@ -1055,7 +1054,6 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
-| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | refer.skyone.org | skyone-federal-credit-union.extole.io |
@@ -1127,6 +1125,7 @@
 | share.stagsleap.com | tweglobal.extole.io |
 | refer.twisthair.com | twisthair.extole.io |
 | em1476.princesscruises.com | u82658.wl159.sendgrid.net |
+| em3904.skillshare.com | u82658.wl159.sendgrid.net |
 | em4367.raf-studentloans.discover.com | u82658.wl159.sendgrid.net |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
 | refer.ulta.com | ulta.extole.com |

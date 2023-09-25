@@ -1859,10 +1859,12 @@
 | xml.mymedia.club | mymedia.xml.ak-is2.net |
 | static.topsolutionsmedia.com | n2e7m3k9.stackpathcdn.com |
 | static.adright.co | n3e6p9m4.stackpathcdn.com |
+| static.adright.com | n3e6p9m4.stackpathcdn.com |
 | static.fstsrv1.com | n3e6p9m4.stackpathcdn.com |
 | static.fstsrv2.com | n3e6p9m4.stackpathcdn.com |
 | static.fstsrv3.com | n3e6p9m4.stackpathcdn.com |
 | static.fstsrv4.com | n3e6p9m4.stackpathcdn.com |
+| static.fstsrv5.com | n3e6p9m4.stackpathcdn.com |
 | static.qksrv.biz | n3e6p9m4.stackpathcdn.com |
 | static.qksrv.cc | n3e6p9m4.stackpathcdn.com |
 | static.qksrv1.com | n3e6p9m4.stackpathcdn.com |

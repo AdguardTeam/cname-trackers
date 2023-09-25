@@ -381,7 +381,6 @@ tr.fr.pro.accor.com
 tr.france.plimsoll.fr
 tr.french-tax-compliance-booking.com
 tr.futurecommerce.moethennessy.com
-tr.gap-fr.fr
 tr.gdfsuez-globalenergy.info
 tr.gen.espmp-agfr.net
 tr.gestion.cafineo.fr
@@ -1052,6 +1051,7 @@ tr1.bp06.net
 tr1.citroen-ipsos.com
 tr1.easy-v01.net
 tr1.lr001.net
+tr1.lr002.net
 tr1.lr003.net
 tr1.mailperf.com
 tr1.mailperformance.com

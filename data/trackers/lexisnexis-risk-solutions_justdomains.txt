@@ -282,6 +282,7 @@ content.tab.com.au
 content.telusinternational.ai
 content.usps.com
 content.varetire.org
+content.vi.gov
 content.washingtonnational.com
 content.westcreekfin.com
 content.wizink.es
@@ -316,6 +317,7 @@ content22.citibank.ru
 content22.citibankonline.com
 content22.citicards.com
 content22.citiretailservices.com
+content22.gss.citi.com
 content22.olb-usmtu2web1.citi.com
 content22.online.citi.com
 content22.online.citibank.com
@@ -479,6 +481,7 @@ intlsdpntrca.nitrocasino.ca
 intm.amwager.com
 invalid-qa2.threatmetrix.com
 irmp.caa.com
+ivaacontent.ers.ga.gov
 jj203.equitablebank.ca
 jplspr.jackpot.com
 jytrnq.cm-cic.com
@@ -488,6 +491,7 @@ ln.meudigio.com.br
 lndata.labor.maryland.gov
 lndata.labor.md.gov
 lnths.twc.texas.gov
+lnthxsvc.tsp.gov
 log.betdaq.com
 log.checkmyfile.com
 log.creditreport.co.uk
@@ -913,6 +917,7 @@ txcontent.iherb.com
 txn.allianzlife.com
 uafms.ocbc.com
 ualaki-analytics.vacations.united.com
+uat.cmprofile.cards.citidirect.com
 ufp.intuit.com
 uldfp.srilankan.com
 umst.mobile.de
@@ -959,3 +964,4 @@ xfp.intuit.com
 xmt.paze.com
 ydkwim.targobank.de
 yr3ioxw.hoaresbank.co.uk
+zfp.intuit.com

@@ -173,6 +173,7 @@
 | tk.airfrance.de | tkairfrance.wizaly.com |
 | tk.airfrance.dj | tkairfrance.wizaly.com |
 | tk.airfrance.dk | tkairfrance.wizaly.com |
+| tk.airfrance.dz | tkairfrance.wizaly.com |
 | tk.airfrance.fi | tkairfrance.wizaly.com |
 | tk.airfrance.fr | tkairfrance.wizaly.com |
 | tk.airfrance.ga | tkairfrance.wizaly.com |

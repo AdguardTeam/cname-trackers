@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695385999453        ; Serial
+           1695628884751        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -72,6 +72,7 @@ data-048d215ebe.haustec.de CNAME .
 data-04c5cc96a0.apps.iocnt.de CNAME .
 data-051302072f.gabler.de CNAME .
 data-057c6f44b1.womenshealth.de CNAME .
+data-05bc1a27ba.apps.iocnt.de CNAME .
 data-05c346d0b0.gea.de CNAME .
 data-05f15c0145.runnersworld.de CNAME .
 data-06562408eb.apps.iocnt.de CNAME .
@@ -151,6 +152,7 @@ data-143ac31e30.radio-brocken.com CNAME .
 data-143ac31e30.radio-brocken.de CNAME .
 data-143ac31e30.radiobrocken.com CNAME .
 data-143ac31e30.radiobrocken.de CNAME .
+data-1444ead958.kabeleinsdoku.at CNAME .
 data-151922e62d.euskirchen.de CNAME .
 data-15374d3e40.mein-schoener-garten.de CNAME .
 data-15fb556696.laendlejob.at CNAME .
@@ -340,6 +342,7 @@ data-2ab6f3dfeb.baumetall.de CNAME .
 data-2af9963ee4.computerbild.de CNAME .
 data-2af9963ee4.wieistmeineip.de CNAME .
 data-2b120c98f2.azonline.de CNAME .
+data-2b76ef50e8.zdf.de CNAME .
 data-2bfd5a7f39.apotheken-umschau.de CNAME .
 data-2bfd5a7f39.baby-und-familie.de CNAME .
 data-2bfd5a7f39.digital-ratgeber.de CNAME .
@@ -379,6 +382,7 @@ data-30e91950da.joyn.at CNAME .
 data-311d8c614b.naturalstone-online.com CNAME .
 data-311d8c614b.natursteinonline.de CNAME .
 data-31ba81426f.apps.iocnt.de CNAME .
+data-31c137b707.sanitaerjournal.de CNAME .
 data-31fbb916a1.erneuerbareenergien.de CNAME .
 data-3212b1cf73.apps.iocnt.de CNAME .
 data-3277c56f96.ingenieur.de CNAME .
@@ -779,6 +783,7 @@ data-5f7ebd9560.apps.iocnt.de CNAME .
 data-5faa998ff9.pharma-food.de CNAME .
 data-605b7fe247.babyclub.de CNAME .
 data-6078195ae2.apps.iocnt.de CNAME .
+data-60d896f23d.dewezet.de CNAME .
 data-60d896f23d.dieharke.de CNAME .
 data-60d896f23d.dnn.de CNAME .
 data-60d896f23d.gnz.de CNAME .
@@ -1379,6 +1384,7 @@ data-adb7e5fd38.pfennigparade.de CNAME .
 data-ade1ea328b.stylebook.de CNAME .
 data-ae2238eacd.apps.iocnt.de CNAME .
 data-ae28732481.produktion.de CNAME .
+data-ae3b90ec02.apps.iocnt.de CNAME .
 data-ae56befb78.apps.iocnt.de CNAME .
 data-ae81bed93b.immostimme.de CNAME .
 data-ae81bed93b.stimme.de CNAME .
@@ -1428,6 +1434,7 @@ data-b5689af0d0.aerotelegraph.com CNAME .
 data-b622eb90d0.apps.iocnt.de CNAME .
 data-b629679828.apps.iocnt.de CNAME .
 data-b640a0ce46.connect.de CNAME .
+data-b71e59c9ac.servus.com CNAME .
 data-b7311f797c.fnweb.de CNAME .
 data-b784e2dbb0.echo24.de CNAME .
 data-b7d0b4217b.autoscout24.bg CNAME .
@@ -1570,6 +1577,7 @@ data-c642a98bf9.presseportal.ch CNAME .
 data-c642a98bf9.presseportal.de CNAME .
 data-c652705c3e.apps.iocnt.de CNAME .
 data-c66a1ae096.chip.de CNAME .
+data-c66a1ae096.efahrer.com CNAME .
 data-c66a1ae096.focus.de CNAME .
 data-c69aa33f02.linux-community.de CNAME .
 data-c6b1789ee3.upday.com CNAME .
@@ -1780,6 +1788,7 @@ data-ebf4df4b00.antennethueringen.de CNAME .
 data-ec98eddf4a.fussballfieber.de CNAME .
 data-ec98eddf4a.giga.de CNAME .
 data-ec9f31ae75.apps.iocnt.de CNAME .
+data-ecb5249bb2.falter.at CNAME .
 data-ecd887c1d0.weser-kurier.de CNAME .
 data-ed1ee98a6c.arzt-atlas.de CNAME .
 data-ed1ee98a6c.medpertise.de CNAME .
@@ -1881,6 +1890,7 @@ data-f1e447fbcf.in-muenchen.de CNAME .
 data-f1e447fbcf.ingame.de CNAME .
 data-f1e447fbcf.innsalzach24.de CNAME .
 data-f1e447fbcf.ippen.media CNAME .
+data-f1e447fbcf.kreis-anzeiger.de CNAME .
 data-f1e447fbcf.kreisbote.de CNAME .
 data-f1e447fbcf.kreiszeitung.de CNAME .
 data-f1e447fbcf.kurierverlag.de CNAME .

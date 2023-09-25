@@ -125,6 +125,7 @@
 ||beeline.beeline-tire.co.jp^
 ||campaign-direct.eisai.jp^
 ||campaign-direct.ketsuatsu-taisaku.xyz^
+||campaign-direct.supplement-news.net^
 ||ccc.aqualink.tokyo^
 ||cmass.massmedian.co.jp^
 ||cname-ade.gom-in.com^
@@ -168,6 +169,7 @@
 ||ebis-tracking.okinawa-keisei.com^
 ||ebis-tracking.shinyokohama-beauty.com^
 ||ebis-tracking.tcb-beauty.net^
+||ebis-tracking.tcb-mito.com^
 ||ebis-tracking.tcb-recruit.com^
 ||ebis-tracking.tcb-setagaya.com^
 ||ebis.15jikai.com^
