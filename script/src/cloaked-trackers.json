@@ -117,6 +117,13 @@
         ]
     },
     {
+        "company_name": "customer.io",
+        "type": "clickthrough",
+        "domains": [
+            "e.customeriomail.com"
+        ]
+    },
+    {
         "company_name": "DataUnlocker",
         "type": "tracker",
         "domains": [
