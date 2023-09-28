@@ -102,6 +102,13 @@
         ]
     },
     {
+        "company_name": "Cordial",
+        "type": "clickthrough",
+        "domains": [
+            "track.sp.crdl.io"
+        ]
+    },
+    {
         "company_name": "Criteo",
         "type": "tracker",
         "domains": [
