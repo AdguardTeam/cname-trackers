@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695628884751        ; Serial
+           1696233614333        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,8 @@ ac-3.mix.tokyo CNAME .
 ac-ebis-stb.usen.com CNAME .
 ac-ebis-uhome.usen.com CNAME .
 ac-ebis.otoraku.jp CNAME .
+ac-ebis.usen-ad.com CNAME .
+ac-ebis.usen-insurance.com CNAME .
 ac-ebis.usen-pos.com CNAME .
 ac-ebis.usen-service.com CNAME .
 ac-ebis.usen-store.com CNAME .
@@ -28,6 +30,7 @@ ad-ebis.bookpass.auone.jp CNAME .
 ad-ebis.mynavi-job20s.jp CNAME .
 ad-ebis.toysub.jp CNAME .
 ad-track.paravi.jp CNAME .
+ad.320320.net CNAME .
 ad.aim-universe.co.jp CNAME .
 ad.aucfan.com CNAME .
 ad.aucview.com CNAME .
@@ -136,6 +139,7 @@ bbbb.goace.jp CNAME .
 beeline.beeline-tire.co.jp CNAME .
 campaign-direct.eisai.jp CNAME .
 campaign-direct.ketsuatsu-taisaku.xyz CNAME .
+campaign-direct.kouketsuatsu-health.xyz CNAME .
 campaign-direct.supplement-news.net CNAME .
 ccc.aqualink.tokyo CNAME .
 cmass.massmedian.co.jp CNAME .
@@ -282,6 +286,7 @@ matsubun.matsubun.com CNAME .
 maz.zba.jp CNAME .
 mcad.mods-clinic.com CNAME .
 mdm.hibinobi-mandom.jp CNAME .
+media.geinoschool-hikaku.net CNAME .
 mgn.ebis.xn--olsz5f0ufw02b.net CNAME .
 msr.p-antiaging.com CNAME .
 ncc.nip-col.jp CNAME .

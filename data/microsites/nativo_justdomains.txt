@@ -9,6 +9,7 @@ sponsor.syracuse.com
 034beb90c9.61b6eab774.com
 04183538bf.639707f501.com
 042006961f.0c98edaa39.com
+04655ba7cf.63383900e0.com
 052d3c5276.875413cfaf.com
 060ec415b9.15d3c0325b.com
 074cc5d98c.6350e10f3a.com
@@ -67,11 +68,12 @@ sponsor.syracuse.com
 2fa1db4c6a.6effce3135.com
 2fdaf3a5d0.16d177cbd1.com
 309b668e1a.ab78920355.com
-310fdbd5d8.a9e8387c9e.com
 330cc1be66.0a65b6165b.com
 336daaaad4.a13da428b3.com
+34bde6a6d2.7363b17589.com
 34ee212f2c.350886f6c8.com
 35d716093d.35494de512.com
+3633d445ff.3a08b8ccd7.com
 36f619728b.e76e75ed51.com
 3717363a26.e2ef790422.com
 3788041701.99018f340b.com
@@ -83,7 +85,6 @@ sponsor.syracuse.com
 3b712d30b3.09e852b0f3.com
 3bc96c3bc4.4f2ee73540.com
 3cb0d2bef3.be8df00f33.com
-3cbf4c2cb3.cc77769ad8.com
 3cfaca7d15.904ab4b24c.com
 3e0bef2039.6e5181a4e4.com
 3f38af9a78.290103cae6.com
@@ -97,9 +98,10 @@ sponsor.syracuse.com
 45f71a1f62.912644c528.com
 463c285fde.66dbf809af.com
 46bdd45622.48b1378f08.com
+4706d93949.144e93bbf0.com
+474df84441.e034108851.com
 4803b375b0.786eed44f0.com
 480c457e75.7c4f272aeb.com
-48c1f78392.31f4ea3b17.com
 4909cc6acc.0fc32b5283.com
 49b2837491.589aa99d18.com
 4b09093915.259576970f.com
@@ -146,11 +148,11 @@ sponsor.syracuse.com
 65eb50053b.3cb004e947.com
 66d7c2e32f.843acfbeb0.com
 67116813c6.89504d460b.com
-6788b5f0a5.07ab456fe8.com
 68c2f33440.691c37268a.com
 696a867e8a.e048fe379c.com
 6aca58cba6.106cdb2259.com
 6b4f801684.22ecbd33ca.com
+6b617ecc3b.877faa781e.com
 6d2d067dd8.d870307884.com
 6d39ef5c0b.7002fca3a7.com
 6d6206ec1d.ee6ed602d3.com
@@ -192,7 +194,6 @@ sponsor.syracuse.com
 8ac8c6d855.17c12b43a7.com
 8bb3b7c35f.e93014ee07.com
 8bc5a4b24f.91e59ecbfd.com
-8bf1e6c762.bcd7ad4271.com
 8c3f7091b1.ea8816ca93.com
 8dba8f6d76.3ce27e9b41.com
 8ef71a6605.5115924dd3.com
@@ -210,7 +211,6 @@ sponsor.syracuse.com
 95797ef4d7.413dfe9f11.com
 95bb3314e7.66efeb9730.com
 9625e76603.9168bb21b4.com
-96b76b02f1.49af7cee19.com
 96d4f49a24.035adbe0d7.com
 9757fdc45b.92b501c719.com
 9886b79e62.b785f3975b.com
@@ -247,7 +247,6 @@ b6e9a8ce8a.85c0a6a0ea.com
 b87e6d6445.9900a0b18c.com
 b99bb7cbd1.1551235f72.com
 ba182692bb.0c1d501ba1.com
-babcca7fba.dca8d1600b.com
 bbb3badef0.d7fea0b8c4.com
 bc63f84631.5e9d31c60e.com
 bcdb664dff.0d356de9ef.com
@@ -298,7 +297,6 @@ dfc8514de8.1ca65f5f5b.com
 e08409ce7e.e6460525b5.com
 e099af5046.08dc0b0152.com
 e172aea9a0.66fb5240da.com
-e1de143963.cc3f3eedbb.com
 e341c11575.f63f3176ad.com
 e4709b9f29.afe95832bb.com
 e49bdd68c5.047f8eefaf.com
@@ -319,12 +317,14 @@ ee68acd3fc.87a8aa9251.com
 eea687acd7.3f6e286046.com
 eef476f02d.b2261a9931.com
 ef7b81b71c.75416fa555.com
+efea624022.be5985b426.com
 f05f18119a.635a022421.com
 f102547b70.5f6d8a5f78.com
 f1763f2f87.f4f8fb91df.com
 f1ab40b1ac.91a3c37128.com
 f33772ce13.749cad1027.com
 f43bb3465e.10eafd09d6.com
+f571f387dc.2e51ef91bb.com
 f9630bc2e3.6afd255116.com
 f9aa8dba65.2e14072eac.com
 f9f4465362.0d4146061c.com
@@ -340,6 +340,7 @@ ff18e0b495.eeecc0e343.com
 ff6840b5f0.338d2db673.com
 a135.wftv.com
 share.ntv.io
+shared.sponsoredcontent.com
 a135.fox23.com
 a135.wpxi.com
 a135.wsbtv.com
@@ -383,15 +384,12 @@ pcworld.share.ntv.io
 pressdemocrat.share.ntv.io
 robbreport.share.ntv.io
 sanduskyregister.share.ntv.io
-shared.sponsoredcontent.com
 smosh.share.ntv.io
 stamfordadvocate.share.ntv.io
 travelandleisure.share.ntv.io
 wsbradio.share.ntv.io
 wvtm13.share.ntv.io
 a135.htvnativeadsolutions.com
-a235.ctnews.com
-a235.gametimect.com
 a235.htvnativeadsolutions.com
 a235.lmtonline.com
 a235.mrt.com

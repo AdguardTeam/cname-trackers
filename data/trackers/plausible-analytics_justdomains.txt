@@ -2,7 +2,6 @@
 # Company name: Plausible Analytics
 a-api.skz.dev
 a.aawp.de
-a.ctd.ai
 a.easyazon.com
 a.getaawp.com
 a.iiro.dev
@@ -40,6 +39,7 @@ analytics.mambaui.com
 analytics.martin-fieber.de
 analytics.mattmcadams.com
 analytics.mc500.info
+analytics.multithread.studio
 analytics.mycater.fr
 analytics.naturequant.com
 analytics.qualityquestions.co
@@ -156,6 +156,7 @@ p.versacommerce.de
 p.victoria.dev
 p.viennaandbailey.co.nz
 p.wren.co
+p.www.viertaxa.com
 pa-stats.encore.dev
 pa.opqr.co
 pa.travelwhiz.app
@@ -283,6 +284,7 @@ plausible.shadygrovepca.org
 plausible.simplelogin.io
 plausible.srijn.net
 plausible.starlegacyfoundation.org
+plausible.straightvisions.com
 plausible.strzibny.name
 plausible.sysloun.cz
 plausible.tac.dappstar.io
@@ -313,6 +315,7 @@ prism.raumgleiter.com
 prism.singapouring.com
 prism.tramclockmunich.com
 pstat.akathists.com
+pstat.goodremotejobs.com
 pstats.cloudpal.app
 reddwarf.till-sanders.de
 reporting.autographapp.me
@@ -336,11 +339,11 @@ s.leolabs.org
 s.mannes.tech
 s.maxrozen.com
 s.nerdfulmind.com
-s.onlineornot.com
 s.repguard.uk
 s.saucisson-rebellion.fr
 s.sporks.space
 s.stgeorgeafc.com.au
+s.testingreactjs.com
 s.tritoninfosec.com
 s.useeffectbyexample.com
 s.vucko.co
@@ -351,6 +354,7 @@ see.wasteorshare.com
 server.japanbyrivercruise.com
 server.olliehorn.com
 site-stats.supernotes.app
+sp.ballsdigroup.com
 sp.gameomatic.fr
 sp.jrklein.com
 sp.soniccares.com
@@ -364,6 +368,7 @@ st.tulastudio.se
 starman.floorcleanse.co.uk
 stat.bill.harding.blog
 stat.landingpro.pl
+stat.recklesslove.co.za
 stat.umsu.de
 static.osalta.eu
 statistic.jac-systeme.de
@@ -390,7 +395,6 @@ stats.amiibo.life
 stats.andrewjstevens.com
 stats.andrewlevinson.me
 stats.appcessible.org
-stats.arjun.xyz
 stats.arma.coffee
 stats.arquido.com
 stats.artisansfiables.fr
@@ -404,7 +408,6 @@ stats.autoscholarwithmrb.com
 stats.babymatras.net
 stats.balticgruppen.se
 stats.bananatimer.com
-stats.basecamp.com
 stats.bcdtravel.com
 stats.beamd.io
 stats.beanr.coffee
@@ -447,6 +450,7 @@ stats.buttondown.email
 stats.byma.com.br
 stats.byterocket.dev
 stats.cable.tech
+stats.callum.fyi
 stats.carrot2.org
 stats.carrotsearch.com
 stats.cascadeinstitute.org
@@ -478,6 +482,7 @@ stats.coldbox.org
 stats.connect.pm
 stats.contentwritingjobs.com
 stats.convaise.com
+stats.corona-navi.de
 stats.covid.vitordino.com
 stats.craftybase.com
 stats.creativinn.com
@@ -541,6 +546,7 @@ stats.eliteclng.com
 stats.elixir-lang.org
 stats.elysenewland.com
 stats.emailrep.io
+stats.emk.at
 stats.emmah.net
 stats.emmas.site
 stats.engel-apotheke.de
@@ -578,6 +584,7 @@ stats.frenlo.com
 stats.fs4c.org
 stats.fullofwishes.co.uk
 stats.fundimmo.com
+stats.fungus.computer
 stats.fwdkit.com
 stats.galeb.org
 stats.galleriacortona.com
@@ -607,14 +614,12 @@ stats.gslc.utah.edu
 stats.gtnetworks.com
 stats.guersanguillaume.com
 stats.guidingwallet.app
+stats.gynsprechstunde.de
 stats.hackershare.dev
 stats.halcyon.hr
 stats.hammertime.me
 stats.hauke.me
 stats.headhunted.com.au
-stats.hex.pm
-stats.hexdocs.pm
-stats.hey.com
 stats.hey.science
 stats.hhpro.net
 stats.homepage-2021.askmiso-dev.com
@@ -676,9 +681,11 @@ stats.kaladyaudiology.com
 stats.kambr.io
 stats.katharinascheitz.com
 stats.keirwhitaker.com
+stats.kendix.org
 stats.kensho.com
 stats.kettlebellbundle.com
 stats.keyscore.me
+stats.kfcsint-lenaartsjeugd.be
 stats.klj-consult.com
 stats.knowkit.cloud
 stats.kod.ru
@@ -690,9 +697,11 @@ stats.kruimel-dief.nl
 stats.kryptoslogic.com
 stats.ks-labs.de
 stats.kyushoku2050.org
+stats.labibli.com
 stats.laptopsin.space
 stats.larsroettig.dev
 stats.lastfm.matthiasloibl.com
+stats.latehours.net
 stats.lauracpa.ca
 stats.laxallstars.com
 stats.leaguestats.gg
@@ -704,11 +713,13 @@ stats.legendofnom.com
 stats.leoloso.com
 stats.lessimpact.org
 stats.liamdavis.dev
+stats.libertyembers.com
 stats.lica.at
 stats.lik.fr
 stats.lilacphilly.org
 stats.limitlessnetworks.eu
 stats.lindalindsaysculpture.com
+stats.lippeshirts.de
 stats.literacysomerset.org
 stats.literaturkreis.online
 stats.lmdsp.com
@@ -727,6 +738,7 @@ stats.magarantie5ans.fr
 stats.makerr.market
 stats.makingknown.xyz
 stats.maklerupdate.de
+stats.malizen.com
 stats.malte-bartels.de
 stats.martinbetz.eu
 stats.martyntaylor.com
@@ -743,6 +755,8 @@ stats.meno.science
 stats.mesenvies.fr
 stats.michaeloliver.dev
 stats.missionrabies.com
+stats.moontalk.se
+stats.mostlycoding.com.au
 stats.motion-effect.com
 stats.motorcyclepartsireland.ie
 stats.mrtnvh.com
@@ -761,7 +775,6 @@ stats.nodewood.com
 stats.nomad.radio
 stats.nonprofit.foundation
 stats.nothingbutnylon.com
-stats.nrcaknights.com
 stats.nullsecure.com
 stats.nytecomics.com
 stats.obiit.co
@@ -785,6 +798,7 @@ stats.owre.se
 stats.oxygem.com
 stats.p42.ai
 stats.parqet.com
+stats.parrot.dev
 stats.passwordyeti.com
 stats.pasteapp.io
 stats.pastorwagner.com
@@ -799,6 +813,7 @@ stats.perpetual.pizza
 stats.petanode.com
 stats.petr.codes
 stats.phili.pe
+stats.philjava.com
 stats.photographer.com.au
 stats.pianoplanet.app
 stats.pinoymusicstation.com
@@ -813,11 +828,13 @@ stats.poesieundgenuss.com
 stats.pointflottant.com
 stats.polekatfitness.com
 stats.poochplaces.dog
+stats.portalzero.net
 stats.postcollectors.com
 stats.poweringpastcoal.org
 stats.preeventualist.org
 stats.pri.org
 stats.pricewell.io
+stats.principedepaz.gt
 stats.print.work
 stats.processserver101.com
 stats.procumeni.cz
@@ -831,23 +848,29 @@ stats.qawl.app
 stats.qovery.com
 stats.quicksilvercre.com
 stats.radicaldata.org
+stats.radicalweb.design
 stats.rasulkireev.com
 stats.reactician.com
 stats.reactshowcase.com
+stats.readers.cafe
 stats.readng.co
 stats.redlabelsports.com
 stats.redpandabooks.com
 stats.referralhero.com
+stats.rehaag-immobilien.de
 stats.reisemobil.pro
 stats.remotebear.io
 stats.reprage.com
 stats.respkt.de
+stats.reto.tv
 stats.retofunctional.com
 stats.retro.cz
 stats.revitfamily.app
 stats.rideinpeace.ie
 stats.rightourhistoryhawaii.com
+stats.rivoq.com
 stats.robhope.com
+stats.robotika.ax
 stats.rocketvalidator.com
 stats.roderickduenas.com
 stats.ruhrfestspiele.de
@@ -865,6 +888,7 @@ stats.scottbartell.com
 stats.screen-play.app
 stats.screenagers.com
 stats.screenwavemedia.com
+stats.seanbailey.dev
 stats.sebastiandombrowski.de
 stats.sebastiangale.ca
 stats.selectam.io
@@ -875,6 +899,7 @@ stats.sexplore.app
 stats.shareup.app
 stats.sheer.tj
 stats.shepherd.com
+stats.shh.io
 stats.shiftx.com
 stats.siedentop.dev
 stats.simplinetworks.com
@@ -913,6 +938,7 @@ stats.teenranch.com
 stats.tekin.co.uk
 stats.terre-compagne.fr
 stats.terribleprojectideas.com
+stats.textprotocol.org
 stats.thedale.org
 stats.theiere-tasse.com
 stats.thelandofar.be
@@ -930,6 +956,7 @@ stats.tl8.io
 stats.tms-development.com
 stats.tms-development.de
 stats.tms-institut.de
+stats.tnc.sc
 stats.toiletmap.org.uk
 stats.torquaypac.ca
 stats.training.fit
@@ -942,6 +969,7 @@ stats.trussed.dev
 stats.tsas.ca
 stats.tubecalculator.co.uk
 stats.twhl.xyz
+stats.twirrl.co
 stats.ubiwiz.com
 stats.unusualtourist.com
 stats.urbanfinn.com
@@ -993,6 +1021,7 @@ tics.techdirt.com
 tipstats.onepagelove.com
 tock.weg.plus
 track.slickinbox.com
+traffic.hostedstatus.page
 traffic.taktikal.is
 tree.indot.nl
 triton.companyegg.com
@@ -1007,5 +1036,6 @@ visitorcenter.ioafw.com
 visitorcenter.srwild.com
 visitors.gigianddavid.com
 we-love-privacy.humane.club
+webstats.bijenpatel.com
 yolo.philipbjorge.com
 zahlen.olereissmann.de

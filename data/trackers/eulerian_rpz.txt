@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695628884751        ; Serial
+           1696233614333        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,6 +41,7 @@ a.weareknitters.com CNAME .
 a.weareknitters.de CNAME .
 a.weareknitters.dk CNAME .
 a.weareknitters.es CNAME .
+a.weareknitters.fr CNAME .
 a.weareknitters.nl CNAME .
 a.weareknitters.no CNAME .
 a.weareknitters.pl CNAME .
@@ -153,6 +154,7 @@ ea.millet-mountain.com CNAME .
 ea.millet-mountain.de CNAME .
 ea.millet.fr CNAME .
 ea.mistergatesdirect.com CNAME .
+ea.mnt.fr CNAME .
 ea.moncornerdeco.com CNAME .
 ea.mondial-assistance.fr CNAME .
 ea.mydailyhotel.com CNAME .
@@ -215,6 +217,7 @@ eulerian.canal-plus.com CNAME .
 eulerian.eidershop.com CNAME .
 eulerian.eveiletjeux.com CNAME .
 eulerian.look-voyages.fr CNAME .
+eulerian.maison-facile.com CNAME .
 eulerian.malakoffmederic.com CNAME .
 eulerian.mathon.fr CNAME .
 eulerian.monoprix.fr CNAME .
@@ -254,6 +257,7 @@ fma7.aegon.es CNAME .
 fpb8.esce.fr CNAME .
 frc4.placement-direct.fr CNAME .
 fsz1.francoisesaget.com CNAME .
+fsz1.franziskasager.de CNAME .
 fzb5.laboratoire-giphar.fr CNAME .
 fze8.carrefour-banque.fr CNAME .
 fzu4.bysidecar.com CNAME .
@@ -298,6 +302,7 @@ kep6.destinia.ie CNAME .
 kux5.raileurope.com CNAME .
 kvt5.blesscollectionhotels.com CNAME .
 kwsjy9.oui.sncf CNAME .
+lbc.lesbonscommerces.fr CNAME .
 leo1.leon-de-bruxelles.fr CNAME .
 let1.devialet.com CNAME .
 lio8.destinia.com.pa CNAME .
@@ -354,6 +359,7 @@ ojm4.palladiumhotelgroup.com CNAME .
 one2.onestep.fr CNAME .
 oo.ooshop.com CNAME .
 oph7o.montecarlosbm-corporate.com CNAME .
+opim.pixmania.com CNAME .
 opo4.assuronline.com CNAME .
 oqr4.destinia.in CNAME .
 ouk7.grantalexander.com CNAME .
@@ -404,6 +410,7 @@ qzu5.carrefour-banque.fr CNAME .
 r1ztni.oui.sncf CNAME .
 r4nds.absorba.com CNAME .
 rce.iperceptions.com CNAME .
+rdc.rachatdecredit.net CNAME .
 rh1a.granions.fr CNAME .
 rjg2.destinia.ly CNAME .
 rmp4.destinia.uy CNAME .
@@ -524,6 +531,5 @@ eat9.thebeat925.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
-ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
 nym5c.laura.ca CNAME .

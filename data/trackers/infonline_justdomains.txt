@@ -8,6 +8,7 @@ ackrly.chip.de
 acksrc.chip.de
 acsam-relay.agof.de
 acsam-relay.ivwonline.org
+acsam-script.agof.de
 c4b720ded1.apps.iocnt.de
 data-00460c60fa.eurotransport.de
 data-007f9d19c8.sbz-monteur.de
@@ -53,6 +54,7 @@ data-043610b415.saarbruecker-zeitung.de
 data-043610b415.sol.de
 data-043610b415.stadt-kurier.de
 data-043610b415.tonight.de
+data-043610b415.trauer.de
 data-043610b415.volksfreund.de
 data-043610b415.wuppertaler-rundschau.de
 data-044c671387.desired.de
@@ -84,6 +86,7 @@ data-09affd727b.bft-international.com
 data-09d76f48f8.ivz-aktuell.de
 data-09ff4b0f07.express.de
 data-0a356d685b.radioherford.de
+data-0af01e596d.tips.at
 data-0b2c5acddd.echtemamas.de
 data-0be38fdd72.eatsmarter.de
 data-0c1a280f84.golem.de
@@ -153,12 +156,15 @@ data-16d7ec9a30.grevenerzeitung.de
 data-16d7ec9a30.gruss.ms
 data-16d7ec9a30.immomarkt.ms
 data-16d7ec9a30.muensterschezeitung.de
+data-16d7ec9a30.reiseauktion.ms
 data-16d7ec9a30.trauer.ms
 data-16d7ec9a30.westfaelischenachrichten.de
 data-16d7ec9a30.wn-azubi.de
+data-16d7ec9a30.wn-gruesse.de
 data-16d7ec9a30.wn-immo.de
 data-16d7ec9a30.wn-jobs.de
 data-16d7ec9a30.wn-net.de
+data-16d7ec9a30.wn-trauer.de
 data-16d7ec9a30.wn.de
 data-16d7ec9a30.zeitungsgruppe-muenster.de
 data-16d7ec9a30.zgm-auto.de
@@ -231,6 +237,7 @@ data-1c0a3d83e3.transfermarkt.be
 data-1c0a3d83e3.transfermarkt.ch
 data-1c0a3d83e3.transfermarkt.co.id
 data-1c0a3d83e3.transfermarkt.co.in
+data-1c0a3d83e3.transfermarkt.co.kr
 data-1c0a3d83e3.transfermarkt.co.uk
 data-1c0a3d83e3.transfermarkt.co.za
 data-1c0a3d83e3.transfermarkt.com
@@ -262,6 +269,8 @@ data-1df8532686.stayfriends.de
 data-1df8532686.t-online.de
 data-1e71eb44ba.caravaning.de
 data-1e7d625c1b.spreeradio.de
+data-1eea95e868.a1.net
+data-1f00ebbd99.trend.at
 data-1f251755af.apps.iocnt.de
 data-1f42f38527.apps.iocnt.de
 data-1f749567de.agrarzeitung.de
@@ -352,6 +361,7 @@ data-2e1c59efe0.apps.iocnt.de
 data-2e91d05bea.bluray-disc.de
 data-2ee2564ecd.ariva.de
 data-2ef5a47289.6rtl.com
+data-2f2ec12966.bestcheck.de
 data-2f2ec12966.chip.de
 data-2f2ec12966.focus.de
 data-2f559bb09f.apps.iocnt.de
@@ -508,6 +518,7 @@ data-45ccb8748c.focus.de
 data-45d218b384.wochenblatt.de
 data-460b866870.couchstyle.de
 data-460b866870.livingathome.de
+data-460b866870.schoener-wohnen.de
 data-460b866870.wohnklamotte.de
 data-462f6badb7.lesering.de
 data-463860f007.addradio.de
@@ -727,6 +738,7 @@ data-597aebc8e1.spox.com
 data-59a3f7fb00.ksta.de
 data-59d0914c04.wetter.com
 data-5a078ffbef.owl-am-sonntag.de
+data-5a078ffbef.wb-azubi.de
 data-5a078ffbef.wb-immo.de
 data-5a078ffbef.wb-jobs.de
 data-5a078ffbef.wb-trauer.de
@@ -784,6 +796,7 @@ data-60d896f23d.landeszeitung.de
 data-60d896f23d.ln-online.de
 data-60d896f23d.lvz.de
 data-60d896f23d.maz-online.de
+data-60d896f23d.ndz.de
 data-60d896f23d.neuepresse.de
 data-60d896f23d.oaz-online.de
 data-60d896f23d.op-marburg.de
@@ -827,6 +840,7 @@ data-6345746ba5.nwzonline.de
 data-6357c1903a.k-aktuell.de
 data-6357c1903a.kunststoffweb.de
 data-6357c1903a.plasteurope.com
+data-63659a24a7.apps.iocnt.de
 data-63798c78f2.apps.iocnt.de
 data-638190bf02.galileo.tv
 data-639ebd97e3.transport-online.de
@@ -864,8 +878,10 @@ data-67f17c94f0.scheidenpilz.com
 data-67f17c94f0.special-harninkontinenz.de
 data-67f17c94f0.special-rueckenschmerz.de
 data-684c5faba8.ok-magazin.de
+data-684c5faba8.okmag.de
 data-69f8b27f58.deutsche-handwerks-zeitung.de
 data-6ad61cf514.petra.de
+data-6add5bd962.bergwelten.com
 data-6b50f0ba60.apps.iocnt.de
 data-6b5868992a.apps.iocnt.de
 data-6c57a6137f.imsueden.de
@@ -885,6 +901,7 @@ data-6dde45f576.landeszeitung.de
 data-6dde45f576.ln-online.de
 data-6dde45f576.lvz.de
 data-6dde45f576.maz-online.de
+data-6dde45f576.ndz.de
 data-6dde45f576.neuepresse.de
 data-6dde45f576.oaz-online.de
 data-6dde45f576.op-marburg.de
@@ -906,6 +923,7 @@ data-6dde45f576.rnd.de
 data-6dde45f576.siegener-zeitung.de
 data-6dde45f576.sn-online.de
 data-6dde45f576.sportbuzzer.de
+data-6dde45f576.szlz.de
 data-6dde45f576.tah.de
 data-6dde45f576.torgauerzeitung.de
 data-6dde45f576.trauer-anzeigen.de
@@ -952,6 +970,7 @@ data-7462ea72ec.fupa.net
 data-7462ea72ec.intersana.de
 data-7484840ede.all-electronics.de
 data-74cd0e3846.daznservices.com
+data-74e6a53123.kronehit.at
 data-75526e35eb.etailment.de
 data-7555680eb3.ikz.de
 data-75671117cf.radiowaf.de
@@ -1028,6 +1047,7 @@ data-83eff0f027.glaswelt.de
 data-8449537926.cz.de
 data-8459ce106e.bike-x.de
 data-8468e8ebc5.laola1.at
+data-849004cc69.radio-regenbogen.de
 data-849004cc69.regenbogen.de
 data-84926a5f67.energie-und-management.de
 data-84a0f3455d.transfermarkt.at
@@ -1114,6 +1134,7 @@ data-8f03f9dd42.spiegel.de
 data-8f7660c51c.apps.iocnt.de
 data-8f7f72a50d.vogue.de
 data-8faed93ef7.mytischtennis.de
+data-8fc521096f.monat.at
 data-900b4339a4.page-online.de
 data-90725c51d9.gn-online.de
 data-908fd409d9.9monate.de
@@ -1183,6 +1204,7 @@ data-96d64cb150.wohnverdient.de
 data-97304cc18d.medienzentrum-biberach.de
 data-975521d9ad.horizont.de
 data-975521d9ad.horizont.net
+data-975521d9ad.horizontjobs.de
 data-97d159685e.szbz.de
 data-98b5a11c9b.radiolippe.de
 data-98fb153d3d.ksta.de
@@ -1200,6 +1222,7 @@ data-9a1ff0f093.apps.iocnt.de
 data-9a326ab638.connect.de
 data-9aa5e80b66.super-illu.de
 data-9aa5e80b66.superillu.de
+data-9ab6c5063f.sat1gold.at
 data-9ab8a13cda.it-business.de
 data-9abcf11034.einfachkochen.de
 data-9b2f644d2c.einfachbacken.de
@@ -1210,6 +1233,7 @@ data-9b57e703d3.zm-online.de
 data-9b6c55490e.afz.de
 data-9b6c55490e.fleischwirtschaft.de
 data-9b6d0bb310.print.de
+data-9b7161c365.handwerkundbau.at
 data-9b7927207a.outdoor-magazin.com
 data-9bc4e9c585.deraktionaer.tv
 data-9c12ed8b3c.echtemamas.de
@@ -1271,10 +1295,12 @@ data-a113f4b41d.trucker.de
 data-a1937ab7ea.materialfluss.de
 data-a195367ecc.apps.iocnt.de
 data-a1aa7525b0.rw-textilservice.de
+data-a1ce08382f.sat1.de
 data-a21143b1fe.apps.iocnt.de
 data-a25b878079.deutsche-apotheker-zeitung.de
 data-a29bc6fa2d.noen.at
 data-a2a13b1828.all-in.de
+data-a2c8256a75.radio-saw.de
 data-a2c8256a75.radiosaw.eu
 data-a2c8256a75.sawmusikwelt.de
 data-a351401692.kachelmannwetter.com
@@ -1376,6 +1402,7 @@ data-ae28732481.produktion.de
 data-ae3b90ec02.apps.iocnt.de
 data-ae56befb78.apps.iocnt.de
 data-ae81bed93b.immostimme.de
+data-ae81bed93b.jobstimme.de
 data-ae81bed93b.stimme.de
 data-ae81bed93b.stimmt.de
 data-ae81bed93b.verliebt-in-bw.de
@@ -1418,6 +1445,7 @@ data-b43a87d00c.businessinsider.de
 data-b4d5de22d2.auto-motor-und-sport.de
 data-b4d5de22d2.mehr-tanken.de
 data-b4df3518e0.haustec.de
+data-b50e0279d5.meinbezirk.at
 data-b55c944924.brandeins.de
 data-b5689af0d0.aerotelegraph.com
 data-b622eb90d0.apps.iocnt.de
@@ -1437,10 +1465,12 @@ data-b7d0b4217b.autoscout24.pl
 data-b7d0b4217b.autoscout24.ro
 data-b7d0b4217b.autoscout24.se
 data-b7d20b3e3b.apps.iocnt.de
+data-b7fc5261e7.spreeradio.de
 data-b80f3dd5d8.rhein-neckar-zeitung.net
 data-b80f3dd5d8.rheinneckarzeitung.de
 data-b80f3dd5d8.rnz.de
 data-b80f3dd5d8.rnz.info
+data-b84b30d10f.meinjob.at
 data-b851447daf.praxisvita.de
 data-b8520d61eb.apps.iocnt.de
 data-b8587f1b76.stimme.de
@@ -1481,12 +1511,14 @@ data-be032ee936.christkindlesmarkt.de
 data-be032ee936.nn.de
 data-be032ee936.nordbayern.de
 data-be34c4ee2c.apps.iocnt.de
+data-be4fd7bada.vn.at
 data-be6a291101.com-magazin.de
 data-be8e6a7af1.bvz.at
 data-be9b6161bf.aponet.de
 data-bf19ff21b6.apps.iocnt.de
 data-bff71da19f.apps.iocnt.de
 data-c061012ba4.bisafans.de
+data-c062efa4b8.arboe.at
 data-c0c484e9be.funke-next-level.tv
 data-c0c484e9be.funke.fun
 data-c0c484e9be.goldenekamera.de
@@ -1522,10 +1554,12 @@ data-c3a3188a23.exxpress.at
 data-c3ab3e1138.sixx.at
 data-c48adafa24.teckbote.de
 data-c4b720ded1.apps.iocnt.de
+data-c4e76de117.kurier.de
 data-c4edf5f62e.apps.iocnt.de
 data-c51112143c.apps.iocnt.de
 data-c53e1346fa.gamepro.de
 data-c53e1346fa.gamestar.de
+data-c53e1346fa.ninotaku.de
 data-c53e1346fa.pietsmiet.de
 data-c53e1346fa.xboxdynasty.de
 data-c5740f79ff.dattelner-morgenpost.de
@@ -1544,6 +1578,7 @@ data-c5925d7d99.gamesaktuell.de
 data-c5925d7d99.gamesworld.de
 data-c5925d7d99.gamezone.de
 data-c5925d7d99.kidszone.de
+data-c5925d7d99.n-page.de
 data-c5925d7d99.opwiki.org
 data-c5925d7d99.pcgames.de
 data-c5925d7d99.pcgameshardware.de
@@ -1590,6 +1625,7 @@ data-cadceaa3b3.tvheute.at
 data-cb12c9ce6a.superillu.de
 data-cb2c174131.menshealth.de
 data-cb62759f4c.rpr1.de
+data-cb62759f4c.vereinsleben.de
 data-cb9b83f47f.t3n.de
 data-cc21ca250f.apps.iocnt.de
 data-ccadb8b6f3.apps.iocnt.de
@@ -1601,6 +1637,7 @@ data-cd863d9507.capital.de
 data-cd9a346bd6.vox.de
 data-cdc8773b0f.hcm-magazin.de
 data-cdc9d8aabf.dbz.de
+data-cdd14ee8a7.servustv.com
 data-ce0e6fdeb3.apps.iocnt.de
 data-ce326d00f8.aero.de
 data-ce326d00f8.aerokurier-markt.de
@@ -1662,6 +1699,7 @@ data-d7b9b455b2.apps.iocnt.de
 data-d815104c6c.dastelefonbuch.de
 data-d815104c6c.telefonbuch.de
 data-d858e7585b.lokal26.de
+data-d85ba30209.solidbau.at
 data-d88bd5abf8.die-glocke.de
 data-d88ef4a44c.haller-kreisblatt.de
 data-d88ef4a44c.hk-mobil.de
@@ -1700,8 +1738,10 @@ data-ddecebdea5.storage-insider.de
 data-de5824e84b.lichtnet.de
 data-de83895c33.apps.iocnt.de
 data-dea12ffb25.prisma.de
+data-deb04a4388.ezeitung3.info
 data-deb04a4388.owl-am-sonntag.de
 data-deb04a4388.wb-immo.de
+data-deb04a4388.wb-immo.net
 data-deb04a4388.wb-jobs.de
 data-deb04a4388.wb-trauer.de
 data-deb04a4388.westfalen-blatt.de
@@ -1720,6 +1760,7 @@ data-e16817998e.apps.iocnt.de
 data-e18f7c3e0e.bib.dormagen.de
 data-e1f099aeb5.apps.iocnt.de
 data-e25e89b95d.it-daily.net
+data-e2b70f0c07.lb-oldenburg.de
 data-e337e2a6a8.kuechenplaner-magazin.de
 data-e34440d805.das-onlinespiel.de
 data-e34440d805.jolie.de
@@ -1918,6 +1959,7 @@ data-f2fef0ab45.rhoenundsaalepost.de
 data-f2fef0ab45.rhoenundstreubote.de
 data-f35c83b71a.ots.at
 data-f3bb5f7732.infranken.de
+data-f3bff114a4.essen-und-trinken.de
 data-f3e9f6e256.computer-spezial.de
 data-f3f7a2af0e.daznservices.com
 data-f3f7a2af0e.spox.com
@@ -2080,6 +2122,7 @@ data-fe7ee41789.apps.iocnt.de
 data-fe87994a5d.freenet-group.de
 data-fe87994a5d.freenet.de
 data-febb5dffb0.bigfm.de
+data-febb5dffb0.fashionzone.de
 data-fee2664334.petbook.de
 data-ff178a0f37.berliner-woche.de
 data-ff178a0f37.morgenpost.de
@@ -2101,5 +2144,6 @@ member.oewa.at
 pool1.i-am.io
 report.oewa.at
 source-66584305d5.mainpost.de
+source-ed91a21bf0.dastelefonbuch.de
 vorausweisung.report.oewa.at
 www2.dk-online.de

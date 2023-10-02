@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695628884751        ; Serial
+           1696233614333        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -731,7 +731,6 @@ static.fstsrv4.com CNAME .
 static.fstsrv5.com CNAME .
 static.openrtb.in CNAME .
 static.qksrv.biz CNAME .
-static.qksrv.cc CNAME .
 static.qksrv1.com CNAME .
 static.xrtb.io CNAME .
 sub.adzgame.com CNAME .
@@ -746,7 +745,6 @@ tq-eu.craftviking.co CNAME .
 tq-eu.frdjs-1.co CNAME .
 tq-eu.frdjs-2.co CNAME .
 tq-eu.gipostart-1.co CNAME .
-tq-eu.netload1.com CNAME .
 tq-eu.nxthost-1.info CNAME .
 tq-eu.nxthost-2.info CNAME .
 tq-eu.xonedart-1.live CNAME .
@@ -757,7 +755,6 @@ tq.frdjs-1.co CNAME .
 tq.frdjs-2.co CNAME .
 tq.gipostart-1.co CNAME .
 tq.gipostart-2.co CNAME .
-tq.netload1.com CNAME .
 tq.nxthost-1.info CNAME .
 tq.nxthost-2.info CNAME .
 tq.pdn-eu.com CNAME .
@@ -773,7 +770,6 @@ vid-rtb-india.xapads.com CNAME .
 vid-rtb-sg.xapads.com CNAME .
 vid-rtb-uswest.xapads.com CNAME .
 vid-rtb.xapads.com CNAME .
-vid-static.xapads.com CNAME .
 vsv-val.looksmart.com CNAME .
 webferret-val.looksmart.com CNAME .
 webpush.adjux.com CNAME .
@@ -845,8 +841,6 @@ xml-eu-v4.fstsrv5.com CNAME .
 xml-eu-v4.gipostart-1.co CNAME .
 xml-eu-v4.gipostart-2.co CNAME .
 xml-eu-v4.hawkads.in CNAME .
-xml-eu-v4.netload1.com CNAME .
-xml-eu-v4.netload2.com CNAME .
 xml-eu-v4.nxthost-1.info CNAME .
 xml-eu-v4.nxthost-2.info CNAME .
 xml-eu-v4.outpush.net CNAME .
@@ -891,8 +885,6 @@ xml-eu.hueadsxml.com CNAME .
 xml-eu.mediaxchange.co CNAME .
 xml-eu.mobipromote.com CNAME .
 xml-eu.mobuppsrtb.com CNAME .
-xml-eu.netload1.com CNAME .
-xml-eu.netload2.com CNAME .
 xml-eu.nxthost-1.info CNAME .
 xml-eu.nxthost-2.info CNAME .
 xml-eu.outpush.net CNAME .
@@ -949,8 +941,6 @@ xml-v4.hetcash.com CNAME .
 xml-v4.klapads.com CNAME .
 xml-v4.kunvertads.com CNAME .
 xml-v4.mobifly.net CNAME .
-xml-v4.netload1.com CNAME .
-xml-v4.netload2.com CNAME .
 xml-v4.newbluetrue.xyz CNAME .
 xml-v4.nxthost-1.info CNAME .
 xml-v4.nxthost-2.info CNAME .
@@ -1103,8 +1093,6 @@ xml.mobipromote.com CNAME .
 xml.mobreach.com CNAME .
 xml.mobuppsrtb.com CNAME .
 xml.mymedia.club CNAME .
-xml.netload1.com CNAME .
-xml.netload2.com CNAME .
 xml.newbluetrue.xyz CNAME .
 xml.nxthost-1.info CNAME .
 xml.nxthost-2.info CNAME .
@@ -1235,6 +1223,7 @@ static.adop.co CNAME .
 static.adoperatorx.com CNAME .
 static.adoptim.com CNAME .
 static.adqva.com CNAME .
+static.qksrv.cc CNAME .
 static.adsfloow.net CNAME .
 static.adsolut.in CNAME .
 static.advlistings.com CNAME .
@@ -1271,7 +1260,6 @@ static.hueadsxml.com CNAME .
 static.icyads.com CNAME .
 static.imprexis.biz CNAME .
 static.jadspro.live CNAME .
-static.krlouis.com CNAME .
 static.landingtrk.com CNAME .
 static.looksmartppc.com CNAME .
 static.mediacpc.com CNAME .
@@ -1280,6 +1268,7 @@ static.mediastinct.com CNAME .
 static.melozen.com CNAME .
 static.mobipromote.com CNAME .
 static.online-adnetwork.com CNAME .
+vid-static.xapads.com CNAME .
 static.outpush.net CNAME .
 static.pdn-1.com CNAME .
 static.plarimoplus.com CNAME .

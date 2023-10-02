@@ -252,6 +252,7 @@
 3317892.notifysrv.com
 3319502.notifysrv.com
 3319834.notifysrv.com
+3321270.notifysrv.com
 3321284.notifysrv.com
 3321964.notifysrv.com
 3322022.notifysrv.com
@@ -590,6 +591,7 @@
 3607715.notify6.com
 3607715.notifysrv.com
 3613299.notifysrv.com
+3617551.notify6.com
 3617853.notify6.com
 3618939.notify6.com
 3618945.notify6.com
@@ -946,6 +948,7 @@ a.a3ion.com
 a.ad.guru
 a.addisplaynetwork.com
 a.adnflow.com
+a.adsession.com
 a.asvsm.com
 a.bizonads-ssp.com
 a.etology.com
@@ -960,7 +963,6 @@ admin.adnation.com
 admin.adstuff.io
 admin.etology.com
 admin.gettopple.com
-admin.shafttraffic.com
 api.adnation.com
 api.getblaze.app
 api.slice.exchange
@@ -1094,3 +1096,4 @@ www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
 xn--3225689-o06c.notifysrv.com
+admin.shafttraffic.com

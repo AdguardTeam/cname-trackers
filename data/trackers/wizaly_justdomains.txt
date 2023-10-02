@@ -19,6 +19,7 @@ tk.airfrance.co.ao
 tk.airfrance.co.il
 tk.airfrance.co.jp
 tk.airfrance.co.kr
+tk.airfrance.co.th
 tk.airfrance.co.uk
 tk.airfrance.co.za
 tk.airfrance.cz

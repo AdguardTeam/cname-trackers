@@ -296,6 +296,7 @@
 | 3317892.notifysrv.com | tk6if76q.ab1n.net |
 | 3319502.notifysrv.com | tk6if76q.ab1n.net |
 | 3319834.notifysrv.com | tk6if76q.ab1n.net |
+| 3321270.notifysrv.com | tk6if76q.ab1n.net |
 | 3321284.notifysrv.com | tk6if76q.ab1n.net |
 | 3321964.notifysrv.com | tk6if76q.ab1n.net |
 | 3322022.notifysrv.com | tk6if76q.ab1n.net |
@@ -634,6 +635,7 @@
 | 3607715.notify6.com | tk6if76q.ab1n.net |
 | 3607715.notifysrv.com | tk6if76q.ab1n.net |
 | 3613299.notifysrv.com | tk6if76q.ab1n.net |
+| 3617551.notify6.com | tk6if76q.ab1n.net |
 | 3617853.notify6.com | tk6if76q.ab1n.net |
 | 3618939.notify6.com | tk6if76q.ab1n.net |
 | 3618945.notify6.com | tk6if76q.ab1n.net |
@@ -1103,11 +1105,11 @@
 | admin.adstuff.io | v3j9t5q9.ab1n.net |
 | admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
-| admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | a.a3ion.com | w2u4v9e1.ab1n.net |
 | a.ad.guru | w2u4v9e1.ab1n.net |
 | a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
 | a.adnflow.com | w2u4v9e1.ab1n.net |
+| a.adsession.com | w2u4v9e1.ab1n.net |
 | a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
 | a.etology.com | w2u4v9e1.ab1n.net |

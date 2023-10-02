@@ -35,6 +35,7 @@
     * col-idealista-pt-cddc.at-o.net
     * collect-meilleurtaux-com-cddc.at-o.net
     * conimicutlighthouse-viessmann-us-com-cddc.at-o.net
+    * content-kleinezeitung-at-cddc.at-o.net
     * crocetta-viessmann-it-cddc.at-o.net
     * culture-intermedes-com-cddc.at-o.net
     * d-deloitte-fr-cddc.at-o.net
@@ -159,6 +160,7 @@
 | col.idealista.pt | col-idealista-pt-cddc.at-o.net |
 | collect.meilleurtaux.com | collect-meilleurtaux-com-cddc.at-o.net |
 | conimicutlighthouse.viessmann-us.com | conimicutlighthouse-viessmann-us-com-cddc.at-o.net |
+| content.kleinezeitung.at | content-kleinezeitung-at-cddc.at-o.net |
 | crocetta.viessmann.it | crocetta-viessmann-it-cddc.at-o.net |
 | culture.intermedes.com | culture-intermedes-com-cddc.at-o.net |
 | d.deloitte.fr | d-deloitte-fr-cddc.at-o.net |

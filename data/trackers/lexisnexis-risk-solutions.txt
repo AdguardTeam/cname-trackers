@@ -632,6 +632,7 @@
 ||rba-screen.optum.com^
 ||rba-screen.optumbank.com^
 ||rba-screen.optumfinancial.com^
+||rba-screen.yourdentalplan.com^
 ||rba.apata.io^
 ||rba.cfg.smt.docomo.ne.jp^
 ||rba.infinitium.com^
@@ -778,6 +779,7 @@
 ||tag.unclaimedproperty.delaware.gov^
 ||tag.unclaimedproperty.ks.gov^
 ||tag.unclaimedproperty.nd.gov^
+||tags.3ds.denizbank.at^
 ||tags.api.openaccount.natwest.com^
 ||tags.api.openaccount.rbs.co.uk^
 ||tags.bankline.natwest.com^

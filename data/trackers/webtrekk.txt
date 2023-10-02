@@ -25,6 +25,7 @@
 ||track.yellostrom.de^
 ||tracking.eduscho.at^
 ||tracking.netcologne.de^
+||tracking.shop.hunter.easynet.de^
 ||tracking.tchibo.ch^
 ||tracking.tchibo.com.tr^
 ||tracking.tchibo.cz^
@@ -75,6 +76,7 @@
 ||data.allgaeuer-zeitung.de^
 ||data.campaign.prenatal.com^
 ||data.campaign.toyscenter.it^
+||data.charles-colby.com^
 ||data.engelhorn.com^
 ||data.engelhorn.de^
 ||data.goertz.de^
@@ -127,6 +129,7 @@
 ||ed.emp.ie^
 ||ed.large.be^
 ||ed.large.nl^
+||ed.originalpress.com^
 ||eht.endress.com^
 ||fiwinet.firmenwissen.com^
 ||fiwinet.firmenwissen.de^
@@ -145,6 +148,7 @@
 ||img.foodspring.fr^
 ||img.foodspring.hr^
 ||img.foodspring.it^
+||img.foodspring.nl^
 ||img.foodspring.se^
 ||img.sparkasse-koelnbonn.de^
 ||info.deltapublishing.co.uk^

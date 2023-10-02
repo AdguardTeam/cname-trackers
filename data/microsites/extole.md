@@ -7,6 +7,7 @@
     * aaas-ssl.extole.com
     * aeropostale.extole.com
     * ahs.extole.com
+    * alliedcash.extole.com
     * american-giant.extole.com
     * americanexpress.extole.com
     * ancestrydna.extole.com
@@ -245,6 +246,7 @@
     * dutch.extole.io
     * ea.extole.io
     * earlybirdbooks.extole.io
+    * edelmanfinancial.extole.io
     * elysiumhealth.extole.io
     * embrace-pet-insurance.extole.io
     * empathywines.extole.io
@@ -567,6 +569,7 @@
 | refer.ahsfriends.com | ahs.extole.com |
 | share.algaecal.com | algaecal.extole.io |
 | refer.allenedmonds.com | allenedmonds.extole.io |
+| refer.alliedcash.com | alliedcash.extole.com |
 | share.allincu.com | allincu.extole.io |
 | share.alltrucu.org | alltrucu.extole.io |
 | share.alphaindustries.com | alphaindustries.extole.io |
@@ -723,6 +726,7 @@
 | refer.ea.com | ea.extole.io |
 | share.earlybirdbooks.com | earlybirdbooks.extole.io |
 | friend.ebags.com | ebags.extole.com |
+| refer.edelmanfinancial.com | edelmanfinancial.extole.io |
 | share.elysiumhealth.com | elysiumhealth.extole.io |
 | refer.embracepetinsurance.com | embrace-pet-insurance.extole.io |
 | share.empathywines.com | empathywines.extole.io |
@@ -740,6 +744,7 @@
 | earn-and-refer.extoleu.com | extoleu.extole.io |
 | jessica-test-numero-dos.extoleu.com | extoleu.extole.io |
 | kenn.extoleu.com | extoleu.extole.io |
+| rob.extoleu.com | extoleu.extole.io |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.figopetinsurance.com | figo-pet-insurance.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |

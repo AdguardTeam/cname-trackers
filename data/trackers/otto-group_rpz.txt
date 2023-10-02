@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695628884751        ; Serial
+           1696233614333        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -55,6 +55,7 @@ te.witt-weiden.de CNAME .
 te.yomonda.de CNAME .
 te.your-look-for-less.nl CNAME .
 te.your-look-for-less.se CNAME .
+test-extern.nitrosniffer.ottogroup.io CNAME .
 tp.ackermann.ch CNAME .
 tp.ambria.de CNAME .
 tp.baur.de CNAME .

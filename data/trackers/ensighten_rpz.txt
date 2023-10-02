@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695628884751        ; Serial
+           1696233614333        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -34,6 +34,7 @@ activate.gio.com.au CNAME .
 activate.growthspotter.com CNAME .
 activate.howardcountytimes.com CNAME .
 activate.hoylosangeles.com CNAME .
+activate.hoysd.com CNAME .
 activate.lajollalight.com CNAME .
 activate.lanebryant.com CNAME .
 activate.latimes.com CNAME .
@@ -128,6 +129,7 @@ cmp.audi.be CNAME .
 cmp.cupra.be CNAME .
 cmp.dieteren.be CNAME .
 cmp.dieterengroup.com CNAME .
+cmp.microlino.be CNAME .
 cmp.myway.be CNAME .
 cmp.porsche.be CNAME .
 cmp.seat.be CNAME .
@@ -204,8 +206,10 @@ eb.trbas.com CNAME .
 emetrics.eastwestbank.com CNAME .
 ens.bote.ch CNAME .
 ens.luzernerzeitung.ch CNAME .
+ens.moneyhouse.ch CNAME .
 ens.nidwaldnerzeitung.ch CNAME .
 ens.nzz.ch CNAME .
+ens.nzzmediasolutions.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.themarket.ch CNAME .
 ens.trauerportal-ostschweiz.ch CNAME .
@@ -291,6 +295,7 @@ secureanalytics.synchronybank.com CNAME .
 secureanalytics.synchronycarecredit.com CNAME .
 secureanalytics.synchronycredit.com CNAME .
 secureanalytics.synchronyretail.com CNAME .
+securemetrics.carecredit.com CNAME .
 securemetrics.mysynchrony.com CNAME .
 securemetrics.syf.com CNAME .
 securemetrics.synchronybusiness.com CNAME .

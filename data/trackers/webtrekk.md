@@ -29,6 +29,7 @@
     * nuernberger02.webtrekk.net
     * obi-com01.webtrekk.net
     * springergmbh01.webtrekk.net
+    * tchibo01.webtrekk.net
     * tchibo02.webtrekk.net
     * tchibo03.webtrekk.net
     * tchibo04.webtrekk.net
@@ -471,6 +472,7 @@
 | ed.emp.ie | emp01.wt-eu02.net |
 | ed.large.be | emp01.wt-eu02.net |
 | ed.large.nl | emp01.wt-eu02.net |
+| ed.originalpress.com | emp01.wt-eu02.net |
 | eht.endress.com | endresshauser01.wt-eu02.net |
 | now.peek-cloppenburg.de | fashionation01.webtrekk.net |
 | startrekk.flaconi.at | flaconi-at.wt-eu02.net |
@@ -502,6 +504,7 @@
 | img.foodspring.fr | img-foodspring01.wt-eu02.net |
 | img.foodspring.hr | img-foodspring01.wt-eu02.net |
 | img.foodspring.it | img-foodspring01.wt-eu02.net |
+| img.foodspring.nl | img-foodspring01.wt-eu02.net |
 | img.foodspring.se | img-foodspring01.wt-eu02.net |
 | img.sparkasse-koelnbonn.de | img-sparkasse-koelnbonn.wt-eu02.net |
 | scout.alpinetrek.co.uk | img.bergfreunde.wt-eu02.net |
@@ -519,6 +522,7 @@
 | scout.bergfreunde.se | img.bergfreunde.wt-eu02.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | wtm.interhyp.de | interhyp02.webtrekk.net |
+| data.charles-colby.com | janvanderstorm-01.wt-eu02.net |
 | data.janvanderstorm.de | janvanderstorm-01.wt-eu02.net |
 | data.shirtmaster.com | janvanderstorm-01.wt-eu02.net |
 | image.deginvest.de | kfw-05.webtrekk.net |
@@ -571,6 +575,7 @@
 | wetr.sportscheck.ch | sportscheckde01.wt-eu02.net |
 | wetr.sportscheck.com | sportscheckde01.wt-eu02.net |
 | www7.springer.com | springergmbh01.webtrekk.net |
+| tracking.shop.hunter.easynet.de | tchibo01.webtrekk.net |
 | tracking.tchibo.ch | tchibo02.webtrekk.net |
 | tracking.tchibo.de | tchibo03.webtrekk.net |
 | tracking.eduscho.at | tchibo04.webtrekk.net |

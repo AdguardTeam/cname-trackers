@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695628884751        ; Serial
+           1696233614333        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,11 +11,13 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+39236100.lotre.io CNAME .
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
 aabclkane.bachelorarchive.com CNAME .
 ad.erotikflix.com CNAME .
 adb.xfilm.me CNAME .
+ads.imgdesu.art CNAME .
 anti.69vclub.com CNAME .
 api.hugemedia.cz CNAME .
 api.kekw.website CNAME .

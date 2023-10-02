@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2023-09-25T08:01:24+00:00
+! TimeUpdated: 2023-10-02T08:00:14+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 !
@@ -50,9 +50,15 @@
 ! Company: Commanders Act
 ||tagcommander.com^
 !
+! Company: Cordial
+||track.sp.crdl.io^
+!
 ! Company: Criteo
 ||dnsdelegation.io^
 ||storetail.io^
+!
+! Company: customer.io
+||e.customeriomail.com^
 !
 ! Company: DataUnlocker
 ||dataunlocker.com^

@@ -168,7 +168,6 @@ affiliate.herbadent.cz
 affiliate.hokr.eu
 affiliate.horseandme.eu
 affiliate.ihrelinsen.at
-affiliate.ilin.cz
 affiliate.isetos.cz
 affiliate.ispace.cz
 affiliate.jasnaznacka.cz
@@ -182,6 +181,7 @@ affiliate.kutil.cz
 affiliate.ladylab.sk
 affiliate.lasamba.cz
 affiliate.lasun.cz
+affiliate.lentiamo.be
 affiliate.lentiamo.bg
 affiliate.lentiamo.ch
 affiliate.lentiamo.co.uk
@@ -248,6 +248,7 @@ affiliate.sportinator.cz
 affiliate.stanislavamrazkova.cz
 affiliate.stibio.cz
 affiliate.stips.cz
+affiliate.studio51.team
 affiliate.svarecky-obchod.cz
 affiliate.svetbot.cz
 affiliate.terarijni-potreby.cz
@@ -316,6 +317,7 @@ my.11teamsports.gr
 my.11teamsports.hr
 my.11teamsports.hu
 my.11teamsports.ie
+my.11teamsports.lt
 my.11teamsports.pl
 my.11teamsports.pt
 my.11teamsports.ro
@@ -469,6 +471,7 @@ partner.cokoladovnajanek.cz
 partner.colosseumticket.cz
 partner.colway.cz
 partner.comeflexoffice.cz
+partner.crewmaldives.com
 partner.cshop.sk
 partner.cukrarskaskola.cz
 partner.cukrarskyklub.cz
@@ -540,6 +543,7 @@ partner.jakfotitsladke.cz
 partner.jakserychlenaucit.cz
 partner.jedlenadobi.cz
 partner.jillylenau.cz
+partner.kafista.cz
 partner.kalhotkomat.cz
 partner.kanabigerol.cz
 partner.ketomix.cz
@@ -710,6 +714,7 @@ partneri.centrumprosperity.sk
 partneri.cestovatelskyobchod.cz
 partneri.chytraopicka.cz
 partneri.chytrykvetinac.cz
+partneri.cvicenie-strava.sk
 partneri.cviky-na-brucho.sk
 partneri.danahanouskova.cz
 partneri.dietavkrabicce.cz
@@ -724,6 +729,7 @@ partneri.eduway.cz
 partneri.epiderma.cz
 partneri.eshop.hankamokra.cz
 partneri.espressoenglish.cz
+partneri.evolveo.com
 partneri.evolveo.cz
 partneri.fengshuiacademy.cz
 partneri.fitstore.cz

@@ -30,6 +30,7 @@
 ||a.weareknitters.de^
 ||a.weareknitters.dk^
 ||a.weareknitters.es^
+||a.weareknitters.fr^
 ||a.weareknitters.nl^
 ||a.weareknitters.no^
 ||a.weareknitters.pl^
@@ -142,6 +143,7 @@
 ||ea.millet-mountain.de^
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
+||ea.mnt.fr^
 ||ea.moncornerdeco.com^
 ||ea.mondial-assistance.fr^
 ||ea.mydailyhotel.com^
@@ -204,6 +206,7 @@
 ||eulerian.eidershop.com^
 ||eulerian.eveiletjeux.com^
 ||eulerian.look-voyages.fr^
+||eulerian.maison-facile.com^
 ||eulerian.malakoffmederic.com^
 ||eulerian.mathon.fr^
 ||eulerian.monoprix.fr^
@@ -243,6 +246,7 @@
 ||fpb8.esce.fr^
 ||frc4.placement-direct.fr^
 ||fsz1.francoisesaget.com^
+||fsz1.franziskasager.de^
 ||fzb5.laboratoire-giphar.fr^
 ||fze8.carrefour-banque.fr^
 ||fzu4.bysidecar.com^
@@ -287,6 +291,7 @@
 ||kux5.raileurope.com^
 ||kvt5.blesscollectionhotels.com^
 ||kwsjy9.oui.sncf^
+||lbc.lesbonscommerces.fr^
 ||leo1.leon-de-bruxelles.fr^
 ||let1.devialet.com^
 ||lio8.destinia.com.pa^
@@ -343,6 +348,7 @@
 ||one2.onestep.fr^
 ||oo.ooshop.com^
 ||oph7o.montecarlosbm-corporate.com^
+||opim.pixmania.com^
 ||opo4.assuronline.com^
 ||oqr4.destinia.in^
 ||ouk7.grantalexander.com^
@@ -393,6 +399,7 @@
 ||r1ztni.oui.sncf^
 ||r4nds.absorba.com^
 ||rce.iperceptions.com^
+||rdc.rachatdecredit.net^
 ||rh1a.granions.fr^
 ||rjg2.destinia.ly^
 ||rmp4.destinia.uy^
@@ -513,6 +520,5 @@
 ||hk2d.tourismemauricie.com^
 ||nym5c.bonlook.com^
 ||ry0.rythmefm.com^
-||ea.mnt.fr^
 ||gi7a.structube.com^
 ||nym5c.laura.ca^

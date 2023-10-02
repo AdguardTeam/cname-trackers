@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695628884751        ; Serial
+           1696233614333        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -44,6 +44,7 @@ col.idealista.it CNAME .
 col.idealista.pt CNAME .
 collect.meilleurtaux.com CNAME .
 conimicutlighthouse.viessmann-us.com CNAME .
+content.kleinezeitung.at CNAME .
 crocetta.viessmann.it CNAME .
 culture.intermedes.com CNAME .
 d.deloitte.fr CNAME .

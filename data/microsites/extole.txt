@@ -13,6 +13,7 @@
 ||refer.aaas.org^
 ||refer.accountants.intuit.com^
 ||refer.ahsfriends.com^
+||refer.alliedcash.com^
 ||refer.american-giant.com^
 ||refer.americanexpress.com^
 ||refer.ancestry.com^
@@ -211,6 +212,7 @@
 ||refer.drschollsshoes.com^
 ||refer.ea.com^
 ||refer.ecoterrabeds.com^
+||refer.edelmanfinancial.com^
 ||refer.embracepetinsurance.com^
 ||refer.empiretoday.com^
 ||refer.ems.com^
@@ -397,6 +399,7 @@
 ||referral.cledepeaubeaute.com^
 ||referral.shiseido.com^
 ||referrals.visionsfcu.org^
+||rob.extoleu.com^
 ||share-uk.princess.com^
 ||share-us.viktor-rolf.com^
 ||share.100xequine.com^

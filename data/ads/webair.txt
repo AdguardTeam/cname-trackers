@@ -720,7 +720,6 @@
 ||static.fstsrv5.com^
 ||static.openrtb.in^
 ||static.qksrv.biz^
-||static.qksrv.cc^
 ||static.qksrv1.com^
 ||static.xrtb.io^
 ||sub.adzgame.com^
@@ -735,7 +734,6 @@
 ||tq-eu.frdjs-1.co^
 ||tq-eu.frdjs-2.co^
 ||tq-eu.gipostart-1.co^
-||tq-eu.netload1.com^
 ||tq-eu.nxthost-1.info^
 ||tq-eu.nxthost-2.info^
 ||tq-eu.xonedart-1.live^
@@ -746,7 +744,6 @@
 ||tq.frdjs-2.co^
 ||tq.gipostart-1.co^
 ||tq.gipostart-2.co^
-||tq.netload1.com^
 ||tq.nxthost-1.info^
 ||tq.nxthost-2.info^
 ||tq.pdn-eu.com^
@@ -762,7 +759,6 @@
 ||vid-rtb-sg.xapads.com^
 ||vid-rtb-uswest.xapads.com^
 ||vid-rtb.xapads.com^
-||vid-static.xapads.com^
 ||vsv-val.looksmart.com^
 ||webferret-val.looksmart.com^
 ||webpush.adjux.com^
@@ -834,8 +830,6 @@
 ||xml-eu-v4.gipostart-1.co^
 ||xml-eu-v4.gipostart-2.co^
 ||xml-eu-v4.hawkads.in^
-||xml-eu-v4.netload1.com^
-||xml-eu-v4.netload2.com^
 ||xml-eu-v4.nxthost-1.info^
 ||xml-eu-v4.nxthost-2.info^
 ||xml-eu-v4.outpush.net^
@@ -880,8 +874,6 @@
 ||xml-eu.mediaxchange.co^
 ||xml-eu.mobipromote.com^
 ||xml-eu.mobuppsrtb.com^
-||xml-eu.netload1.com^
-||xml-eu.netload2.com^
 ||xml-eu.nxthost-1.info^
 ||xml-eu.nxthost-2.info^
 ||xml-eu.outpush.net^
@@ -938,8 +930,6 @@
 ||xml-v4.klapads.com^
 ||xml-v4.kunvertads.com^
 ||xml-v4.mobifly.net^
-||xml-v4.netload1.com^
-||xml-v4.netload2.com^
 ||xml-v4.newbluetrue.xyz^
 ||xml-v4.nxthost-1.info^
 ||xml-v4.nxthost-2.info^
@@ -1092,8 +1082,6 @@
 ||xml.mobreach.com^
 ||xml.mobuppsrtb.com^
 ||xml.mymedia.club^
-||xml.netload1.com^
-||xml.netload2.com^
 ||xml.newbluetrue.xyz^
 ||xml.nxthost-1.info^
 ||xml.nxthost-2.info^
@@ -1224,6 +1212,7 @@
 ||static.adoperatorx.com^
 ||static.adoptim.com^
 ||static.adqva.com^
+||static.qksrv.cc^
 ||static.adsfloow.net^
 ||static.adsolut.in^
 ||static.advlistings.com^
@@ -1260,7 +1249,6 @@
 ||static.icyads.com^
 ||static.imprexis.biz^
 ||static.jadspro.live^
-||static.krlouis.com^
 ||static.landingtrk.com^
 ||static.looksmartppc.com^
 ||static.mediacpc.com^
@@ -1269,6 +1257,7 @@
 ||static.melozen.com^
 ||static.mobipromote.com^
 ||static.online-adnetwork.com^
+||vid-static.xapads.com^
 ||static.outpush.net^
 ||static.pdn-1.com^
 ||static.plarimoplus.com^

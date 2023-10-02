@@ -12,11 +12,13 @@
 ||1bw7etm93lf.www.woodbrass.com^
 ||1hb4jkt1u2d.probemas.com^
 ||1k5vz1ejbcx.staging.probemas.com^
+||1koa95e6z2j.www.future-fortune.com^
 ||1kpv4njzilv.community.intersystems.com^
 ||1xejnhs1zd1.staging.aporia.com^
 ||1zzs6w25i8n.tube.inflatevids.xyz^
 ||2107wrlgff5.development.taxmachine.be^
 ||21fhq0t574p.talentkit.io^
+||21udflra4wd.app-dev.cainthus.com^
 ||25ix8gm8ien.sandbox.panprices.com^
 ||2829i2p88jx.www.csaladinet.hu^
 ||2922qj5tf2n.swyftx.com.au^
@@ -35,6 +37,7 @@
 ||771fnypadw0j.pt.themoneytizer.com^
 ||78rkcgj4i8c6.www.cefirates.com^
 ||7hdl8dlfjm4g.www.cybernetman.com^
+||8e0905osvgw5.taleez.com^
 ||8ehhtsv9bo7i.monkeylearn.com^
 ||9b5gjkrnw71r.it.themoneytizer.com^
 ||9kkjfywjz50v.www.eventus.io^
@@ -85,7 +88,6 @@
 ||nqyuel589fq5.esgrounding.com^
 ||o3gxzoewxl1x.cp.zomro.com^
 ||otx23nu6rzon.prep.toppers.com^
-||p1k688fnm5nb.kvest.ee^
 ||p7h1silo3f.app.cainthus.com^
 ||q3xly8i4oz.app.taxmachine.be^
 ||q4l5gz6lqog6.www.eventus.io^
@@ -93,6 +95,7 @@
 ||qqeuq1cmoooq.accuretawealth.com^
 ||qri2r94eeajr.innovationcast.com^
 ||qt5jl7r111h7.allesvoormijnvakantie.nl^
+||rbat6ac0zzjd.www.terraform.com.ar^
 ||ros3d4dbs3px.salud-masculina.info^
 ||s2whyufxmzam.chatpay.com.br^
 ||sfqp4hi357f6.www.emanualonline.com^

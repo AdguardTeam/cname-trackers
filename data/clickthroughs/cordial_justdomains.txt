@@ -1,0 +1,4 @@
+#
+# Company name: Cordial
+sptrack.mailer.humblebundle.com
+trcksp.cordial.io

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695628884751        ; Serial
+           1696233614333        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ invite.toughmudder.com CNAME .
 refer.aaas.org CNAME .
 refer.accountants.intuit.com CNAME .
 refer.ahsfriends.com CNAME .
+refer.alliedcash.com CNAME .
 refer.american-giant.com CNAME .
 refer.americanexpress.com CNAME .
 refer.ancestry.com CNAME .
@@ -222,6 +223,7 @@ refer.dreamlawn.com CNAME .
 refer.drschollsshoes.com CNAME .
 refer.ea.com CNAME .
 refer.ecoterrabeds.com CNAME .
+refer.edelmanfinancial.com CNAME .
 refer.embracepetinsurance.com CNAME .
 refer.empiretoday.com CNAME .
 refer.ems.com CNAME .
@@ -408,6 +410,7 @@ referavet.petco.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.shiseido.com CNAME .
 referrals.visionsfcu.org CNAME .
+rob.extoleu.com CNAME .
 share-uk.princess.com CNAME .
 share-us.viktor-rolf.com CNAME .
 share.100xequine.com CNAME .

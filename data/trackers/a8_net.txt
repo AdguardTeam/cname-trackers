@@ -7,7 +7,6 @@
 ||a8-hoiku.mama-9jin.com^
 ||a8-itp.qoo10.jp^
 ||a8-mamacareer.mama-9jin.com^
-||a8-remowa.compass8.co.jp^
 ||a8-wpxblog.secure.wpx.ne.jp^
 ||a8-wpxshin.secure.wpx.ne.jp^
 ||a8-xshop.secure.xserver.ne.jp^
@@ -39,6 +38,7 @@
 ||a8.bridal-hills.com^
 ||a8.buddyup.shop^
 ||a8.buvlabo.com^
+||a8.calmia-clinic.com^
 ||a8.careecen-shukatsu-agent.com^
 ||a8.career.rexit.co.jp^
 ||a8.careerpark.jp^
@@ -75,6 +75,7 @@
 ||a8.dolcibolle.com^
 ||a8.drinco.jp^
 ||a8.dymtech.jp^
+||a8.earth-shiho.com^
 ||a8.earthwater-cayenne.com^
 ||a8.efax.co.jp^
 ||a8.elife.clinic^
@@ -91,6 +92,7 @@
 ||a8.exetime.jp^
 ||a8.fishing-v.jp^
 ||a8.fit-theme.com^
+||a8.foods.petokoto.com^
 ||a8.form.run^
 ||a8.fots.jp^
 ||a8.fracora.com^
@@ -109,6 +111,7 @@
 ||a8.gtm.co.jp^
 ||a8.guardian-mp.aerial-p.com^
 ||a8.h-daiya.co.jp^
+||a8.hagent.jp^
 ||a8.hakata-hisamatsu.net^
 ||a8.hana-mail.jp^
 ||a8.happy-card.jp^
@@ -165,7 +168,6 @@
 ||a8.mamacosme.co.jp^
 ||a8.mamaworks.jp^
 ||a8.manara.jp^
-||a8.menou.shop^
 ||a8.migxl.com^
 ||a8.minion-wifi.com^
 ||a8.mira-feel.com^
@@ -207,6 +209,7 @@
 ||a8.print-netsquare.com^
 ||a8.push.capsules.jp^
 ||a8.rank-quest.jp^
+||a8.recmount-plus.com^
 ||a8.remix-denki.com^
 ||a8.remobiz.jp^
 ||a8.renkindo.com^
@@ -236,13 +239,16 @@
 ||a8.shop.nicosuma.com^
 ||a8.shop.tsukijiwadatsumi.com^
 ||a8.shopserve.jp^
+||a8.shukatsu-note.com^
 ||a8.simple-hoiku.com^
 ||a8.skr-labo.jp^
+||a8.smart-onepage.com^
 ||a8.smp.shanon.co.jp^
 ||a8.snapmaker.jp^
 ||a8.soelu.com^
 ||a8.softbank-hikari.jp^
 ||a8.sommelier.gift^
+||a8.sp-hoken.net^
 ||a8.speever.jp^
 ||a8.sport-school.com^
 ||a8.ssl.aispr.jp^
@@ -276,9 +282,9 @@
 ||a8.track.entry.dokoyorimo.com^
 ||a8.triple-m.jp^
 ||a8.tscubic.com^
+||a8.uchideno-kozuchi.com^
 ||a8.uluwatutiger.com^
 ||a8.unicoffee.tech^
-||a8.uokura-hakata.com^
 ||a8.uridoki.net^
 ||a8.vector-park.jp^
 ||a8.virus-gekitai.com^
@@ -301,6 +307,7 @@
 ||a8.www.nicosuma.com^
 ||a8.www.retrospect.co.jp^
 ||a8.www.smart-factor.co.jp^
+||a8.xn--google-873exa8m6161dbbyb.net^
 ||a8.xn--y8jd4aybzqd.jp^
 ||a8.yanoman.com^
 ||a8.yayoi-kk.co.jp^
@@ -395,6 +402,7 @@
 ||a8clk.cv.syukatsu-kaigi.jp^
 ||a8clk.cv.t-fic.co.jp^
 ||a8clk.cv.warau.jp^
+||a8clk.d.toyo-case.co.jp^
 ||a8clk.dfashion.docomo.ne.jp^
 ||a8clk.digicafe.jp^
 ||a8clk.doda.jp^
@@ -447,6 +455,7 @@
 ||a8clk.joggo.me^
 ||a8clk.joppy.jp^
 ||a8clk.just-buy.jp^
+||a8clk.justfitoffice.com^
 ||a8clk.justy-consul.com^
 ||a8clk.ka-shimo.com^
 ||a8clk.kaitori-beerecords.jp^
@@ -504,6 +513,7 @@
 ||a8clk.nobirun.jp^
 ||a8clk.nta.co.jp^
 ||a8clk.nyandaful.jp^
+||a8clk.officehikari119.com^
 ||a8clk.okawa-god.jp^
 ||a8clk.olulu-online.jp^
 ||a8clk.onemile.jp^
@@ -540,6 +550,7 @@
 ||a8clk.secure.jetboy.jp^
 ||a8clk.segatoys.com^
 ||a8clk.service.ridera-inc.com^
+||a8clk.shareboss.net^
 ||a8clk.shikaku-square.com^
 ||a8clk.shinnihon-seminar.com^
 ||a8clk.shoes.regal.co.jp^
@@ -627,11 +638,13 @@
 ||a8clk.ykd.co.jp^
 ||a8clk.yourmystar.jp^
 ||a8clk.yu-en.com^
+||a8clk.yubisashi.com^
 ||a8clk.yumeyakata.com^
 ||a8clk.ziaco.eco-life.tokyo^
 ||a8clk.zigen-shop.com^
 ||a8clk1.zkai.co.jp^
 ||a8clkapply.mycredit.nexuscard.co.jp^
+||a8clkcv.tcb-beauty.net^
 ||a8cllk.arahataen.com^
 ||a8cname.cloudwifi-nc.com^
 ||a8cname.nj-e.jp^
@@ -760,6 +773,7 @@
 ||a8cv.elife-shihou.com^
 ||a8cv.encounter2017.jp^
 ||a8cv.english-bootcamp.com^
+||a8cv.english-cc.com^
 ||a8cv.english-village.net^
 ||a8cv.entre-salon.com^
 ||a8cv.entry.renet.jp^
@@ -925,6 +939,7 @@
 ||a8cv.ococorozashi.com^
 ||a8cv.ogaland.com^
 ||a8cv.oisix.com^
+||a8cv.omakase-cyber-mimamori.net^
 ||a8cv.omni7.jp^
 ||a8cv.omobic.com^
 ||a8cv.one-netbook.jp^
@@ -945,6 +960,7 @@
 ||a8cv.palms-gym.com^
 ||a8cv.perrot.co^
 ||a8cv.photojoy.jp^
+||a8cv.physiqueframe.com^
 ||a8cv.picksitter.com^
 ||a8cv.pigeon-fw.com^
 ||a8cv.pilates-k.jp^
@@ -976,6 +992,7 @@
 ||a8cv.sakura-forest.com^
 ||a8cv.sanix.jp^
 ||a8cv.saraschool.net^
+||a8cv.sarastear.com^
 ||a8cv.scheeme.com^
 ||a8cv.se-navi.jp^
 ||a8cv.second-hand.jp^
@@ -1038,6 +1055,7 @@
 ||a8cv.tokei-syuri.jp^
 ||a8cv.toko-navi.com^
 ||a8cv.tokutoku-battery.com^
+||a8cv.tokyo-dive.com^
 ||a8cv.tokyo-indoorgolf.com^
 ||a8cv.tokyogas.bocco.me^
 ||a8cv.tomodachi-my.com^
@@ -1084,6 +1102,7 @@
 ||a8cv.yakuzaishibestcareer.com^
 ||a8cv.yamasa-suppon.com^
 ||a8cv.yamato-gp.net^
+||a8cv.yamatokouso.com^
 ||a8cv.ygm-clinic.or.jp^
 ||a8cv.yobybo-japan.com^
 ||a8cv.yohodo.net^
@@ -1125,6 +1144,7 @@
 ||a8track.bizdigi.jp^
 ||a8track.speakbuddy-personalcoaching.com^
 ||a8track.ulp.co.jp^
+||a8track.www.pontely.com^
 ||a8trck.aisatsujo.com^
 ||a8trck.aisatsujo.jp^
 ||a8trck.helloactivity.com^
@@ -1135,6 +1155,7 @@
 ||a8trk.beat-hiit.com^
 ||a8trk.www.std-lab.jp^
 ||a8x.piece-kaitori.jp^
+||acv.auhikari-norikae.com^
 ||acv.aun-air-wifi.com^
 ||acv.aun-company.com^
 ||acv.aun-n-hikari.com^
@@ -1206,6 +1227,7 @@
 ||clkcv.biglobehikari-kaisen.com^
 ||contact.kdg-yobi.com^
 ||cosme.caseepo.jp^
+||cp.cp.twendee.jp^
 ||cv-match.sharebase.jp^
 ||cv.2jikaikun.com^
 ||cv.a-cial.com^
@@ -1220,6 +1242,7 @@
 ||cv.cante-gym.com^
 ||cv.colleize.com^
 ||cv.cp-c21.com^
+||cv.dc-khs.com^
 ||cv.denkichoice.jp^
 ||cv.drive-hikari.net^
 ||cv.ev-navi.com^
@@ -1229,7 +1252,6 @@
 ||cv.hikkoshizamurai.jp^
 ||cv.hoikushi-bosyu.com^
 ||cv.homepage-seisaku.jp^
-||cv.hy-fi.jp^
 ||cv.ignis.coach^
 ||cv.japan-curtain.jp^
 ||cv.jidoumail.com^
@@ -1272,6 +1294,7 @@
 ||kaden.netoff.co.jp^
 ||kobetu.grand1corp.com^
 ||listing-a8-itp.hello-storage.com^
+||lp.kumamoto4510.com^
 ||mvc.shopjapan.co.jp^
 ||ntt-fletscv.ntt-flets.com^
 ||onenet.gakujutsu.com^
@@ -1292,19 +1315,23 @@
 ||sync-a8.cocolocala.jp^
 ||test.zeus-wifi.jp^
 ||testa8wifi.dokoyorimo.com^
+||thanks.hiru-job.com^
 ||thanks.hubspaces.jp^
 ||thanks.olivesitter.com^
 ||thanks.tsubaki-musicschool.com^
 ||track-v4.ipadpresence.com^
 ||track.craudia.com^
+||track.kiafudousan.com^
 ||track.xmarketech.com^
 ||tracking.196189.com^
 ||tracking.lead-plus.jp^
 ||traka8.crypto-mall.org^
 ||trck-a8.j-depo.com^
 ||trck.aeon.co.jp^
+||trck.atnenga.com^
 ||trck.flexnet.co.jp^
 ||trck.frutafrutashop.com^
+||trck.kenkiya.com^
 ||trck.naco-do.com^
 ||trck.repesta.com^
 ||trck.rework-s.com^
@@ -1316,13 +1343,16 @@
 ||trcka8net.irobot-jp.com^
 ||trcka8net.lenszero.com^
 ||trcka8net.qieto.net^
+||web.air-entry.com^
 ||web.collaboration-access.com^
 ||web.hikari-biglobe.com^
 ||web.hikari-ocn.com^
 ||web.hikari-softbank.com^
 ||web.life-cw.com^
+||web.n-entry.com^
 ||web.nuro-life.com^
 ||webtest.lpio.jp^
 ||wnform.www.trecenti.com^
 ||www.a8clk.amelia.ne.jp^
 ||www.a8clk.kanagawa-zero.com^
+||yoiku-sub.yoiku.support^

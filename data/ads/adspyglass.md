@@ -36,7 +36,6 @@
 | 2aae.spinna.xyz | 0i0i0i0.com |
 | 2aaf.spinna.xyz | 0i0i0i0.com |
 | 3333.spinna.online | 0i0i0i0.com |
-| 3weg314.2conv.com | 0i0i0i0.com |
 | 4444.spinna.online | 0i0i0i0.com |
 | 5475feaab.clicknplay.to | 0i0i0i0.com |
 | 5555.spinna.online | 0i0i0i0.com |
@@ -58,7 +57,6 @@
 | a.6vids.space | 0i0i0i0.com |
 | a.acervox.com | 0i0i0i0.com |
 | a.adult-videos.org | 0i0i0i0.com |
-| a.alldeepfake.xyz | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.artamkari.com | 0i0i0i0.com |
 | a.badword.xyz | 0i0i0i0.com |
@@ -136,11 +134,10 @@
 | adblock.vidomo.xyz | 0i0i0i0.com |
 | adddddd.javmilk.org | 0i0i0i0.com |
 | addin.icu | 0i0i0i0.com |
+| adhand.icu | 0i0i0i0.com |
 | adilk.ilikecomix.com | 0i0i0i0.com |
-| ads.2conv.com | 0i0i0i0.com |
 | ads.free-to.download | 0i0i0i0.com |
 | ads.hentaiheart.com | 0i0i0i0.com |
-| ads.imgdesu.art | 0i0i0i0.com |
 | ads.javtit.com | 0i0i0i0.com |
 | ads.onetouchtv.me | 0i0i0i0.com |
 | ads.pornharlot.com | 0i0i0i0.com |
@@ -196,6 +193,7 @@
 | asg.phukienthoitranggiare.com | 0i0i0i0.com |
 | asg.pornomoglie.com | 0i0i0i0.com |
 | asg.pornoplay.online | 0i0i0i0.com |
+| asg.pornvids.fr | 0i0i0i0.com |
 | asg.sdtraff.com | 0i0i0i0.com |
 | asg.shudhdesiporn.com | 0i0i0i0.com |
 | asg.somecdn.bid | 0i0i0i0.com |
@@ -422,6 +420,7 @@
 | krplss.click | 0i0i0i0.com |
 | kuhdsysdas.indexsubtitle.com | 0i0i0i0.com |
 | kx4.firstsexfilm.com | 0i0i0i0.com |
+| l.bloblohub.com | 0i0i0i0.com |
 | l9zkm.pleasedonotblockme.com | 0i0i0i0.com |
 | lammaou.xyz | 0i0i0i0.com |
 | larasub.conxxx.pro | 0i0i0i0.com |
@@ -445,6 +444,7 @@
 | maxhold.xyz | 0i0i0i0.com |
 | maxx1.a.pleasedonotblockme.com | 0i0i0i0.com |
 | maxx1.pleasedonotblockme.com | 0i0i0i0.com |
+| maxx2.a.pleasedonotblockme.com | 0i0i0i0.com |
 | mediacdn.x1hub.com | 0i0i0i0.com |
 | member.javtvnow.xyz | 0i0i0i0.com |
 | menguzi.xyz | 0i0i0i0.com |
@@ -509,7 +509,6 @@
 | ok.faptor.com | 0i0i0i0.com |
 | ok.hqbang.com | 0i0i0i0.com |
 | ok.starwank.com | 0i0i0i0.com |
-| ontj.com | 0i0i0i0.com |
 | open.oksrv.com | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | orderz.lol | 0i0i0i0.com |
@@ -591,6 +590,7 @@
 | sbm.stigmuuua.xyz | 0i0i0i0.com |
 | scuoo.porneq.co | 0i0i0i0.com |
 | sda.seksohub.com | 0i0i0i0.com |
+| sdfdfff.flelgwe.site | 0i0i0i0.com |
 | sdg.desihamster.pro | 0i0i0i0.com |
 | sdg.fwtrck.com | 0i0i0i0.com |
 | serve.bdsmstreak.com | 0i0i0i0.com |
@@ -603,6 +603,7 @@
 | sgzhg.pornlovo.co | 0i0i0i0.com |
 | sharkbiz.lol | 0i0i0i0.com |
 | shengcu.mom | 0i0i0i0.com |
+| shenzo.xyz | 0i0i0i0.com |
 | shmeia.xyz | 0i0i0i0.com |
 | shukri.mwikace.com | 0i0i0i0.com |
 | solutions.playernetca.top | 0i0i0i0.com |
@@ -612,13 +613,13 @@
 | srv1.bunnymediaserver.com | 0i0i0i0.com |
 | ssis.7mmtv.top | 0i0i0i0.com |
 | ssltest.soundrussian.com | 0i0i0i0.com |
+| staticz.hotpornfile.org | 0i0i0i0.com |
 | stepfantasy.art | 0i0i0i0.com |
 | stkk.spinna.shop | 0i0i0i0.com |
 | store4porn.com | 0i0i0i0.com |
 | strengk.xyz | 0i0i0i0.com |
 | stuff.wikiporno.org | 0i0i0i0.com |
 | sub.empressleak.biz | 0i0i0i0.com |
-| sub.empresstrending.com | 0i0i0i0.com |
 | sup.srvtax.com | 0i0i0i0.com |
 | super.koreanpornmovie.xyz | 0i0i0i0.com |
 | supjav.com.7mmtv.top | 0i0i0i0.com |
@@ -638,6 +639,7 @@
 | test2.maxx.ddac.ru | 0i0i0i0.com |
 | testcommon.soundrussian.com | 0i0i0i0.com |
 | thaz.xyz | 0i0i0i0.com |
+| tiktakz.xyz | 0i0i0i0.com |
 | titsandtits.com | 0i0i0i0.com |
 | tlv.ui02.com | 0i0i0i0.com |
 | toabuck.xyz | 0i0i0i0.com |
@@ -692,6 +694,7 @@
 | www.spinna.site | 0i0i0i0.com |
 | www.spinna.store | 0i0i0i0.com |
 | www.spinna.xyz | 0i0i0i0.com |
+| www.uk.boffinsoft.com | 0i0i0i0.com |
 | www.valornutricional.cc | 0i0i0i0.com |
 | www.w00t.us | 0i0i0i0.com |
 | www.zqwe.ru | 0i0i0i0.com |
@@ -723,6 +726,7 @@
 | yhu5tw3mn64.jav-7mmtv.top | 0i0i0i0.com |
 | you75.youpornsexvideos.com | 0i0i0i0.com |
 | z0000g.yvmads.com | 0i0i0i0.com |
+| zdhq.xyz | 0i0i0i0.com |
 | zhaner.xyz | 0i0i0i0.com |
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
@@ -733,4 +737,5 @@
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
 | ontj.com | u53.hypnorat.com |
+| qhip.com | u53.hypnorat.com |
 | qoqv.com | u53.hypnorat.com |

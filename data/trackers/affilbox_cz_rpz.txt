@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695628884751        ; Serial
+           1696233614333        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -179,7 +179,6 @@ affiliate.herbadent.cz CNAME .
 affiliate.hokr.eu CNAME .
 affiliate.horseandme.eu CNAME .
 affiliate.ihrelinsen.at CNAME .
-affiliate.ilin.cz CNAME .
 affiliate.isetos.cz CNAME .
 affiliate.ispace.cz CNAME .
 affiliate.jasnaznacka.cz CNAME .
@@ -193,6 +192,7 @@ affiliate.kutil.cz CNAME .
 affiliate.ladylab.sk CNAME .
 affiliate.lasamba.cz CNAME .
 affiliate.lasun.cz CNAME .
+affiliate.lentiamo.be CNAME .
 affiliate.lentiamo.bg CNAME .
 affiliate.lentiamo.ch CNAME .
 affiliate.lentiamo.co.uk CNAME .
@@ -259,6 +259,7 @@ affiliate.sportinator.cz CNAME .
 affiliate.stanislavamrazkova.cz CNAME .
 affiliate.stibio.cz CNAME .
 affiliate.stips.cz CNAME .
+affiliate.studio51.team CNAME .
 affiliate.svarecky-obchod.cz CNAME .
 affiliate.svetbot.cz CNAME .
 affiliate.terarijni-potreby.cz CNAME .
@@ -327,6 +328,7 @@ my.11teamsports.gr CNAME .
 my.11teamsports.hr CNAME .
 my.11teamsports.hu CNAME .
 my.11teamsports.ie CNAME .
+my.11teamsports.lt CNAME .
 my.11teamsports.pl CNAME .
 my.11teamsports.pt CNAME .
 my.11teamsports.ro CNAME .
@@ -480,6 +482,7 @@ partner.cokoladovnajanek.cz CNAME .
 partner.colosseumticket.cz CNAME .
 partner.colway.cz CNAME .
 partner.comeflexoffice.cz CNAME .
+partner.crewmaldives.com CNAME .
 partner.cshop.sk CNAME .
 partner.cukrarskaskola.cz CNAME .
 partner.cukrarskyklub.cz CNAME .
@@ -551,6 +554,7 @@ partner.jakfotitsladke.cz CNAME .
 partner.jakserychlenaucit.cz CNAME .
 partner.jedlenadobi.cz CNAME .
 partner.jillylenau.cz CNAME .
+partner.kafista.cz CNAME .
 partner.kalhotkomat.cz CNAME .
 partner.kanabigerol.cz CNAME .
 partner.ketomix.cz CNAME .
@@ -721,6 +725,7 @@ partneri.centrumprosperity.sk CNAME .
 partneri.cestovatelskyobchod.cz CNAME .
 partneri.chytraopicka.cz CNAME .
 partneri.chytrykvetinac.cz CNAME .
+partneri.cvicenie-strava.sk CNAME .
 partneri.cviky-na-brucho.sk CNAME .
 partneri.danahanouskova.cz CNAME .
 partneri.dietavkrabicce.cz CNAME .
@@ -735,6 +740,7 @@ partneri.eduway.cz CNAME .
 partneri.epiderma.cz CNAME .
 partneri.eshop.hankamokra.cz CNAME .
 partneri.espressoenglish.cz CNAME .
+partneri.evolveo.com CNAME .
 partneri.evolveo.cz CNAME .
 partneri.fengshuiacademy.cz CNAME .
 partneri.fitstore.cz CNAME .

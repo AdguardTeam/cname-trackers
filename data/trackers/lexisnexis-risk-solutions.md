@@ -54,6 +54,7 @@
     * h-5uvvlv7u.online-metrix.net
     * h-5wdrto0i.online-metrix.net
     * h-6a6y6kka.online-metrix.net
+    * h-6e1hqgi3.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
     * h-6i24djkv.online-metrix.net
     * h-6jfhwoo3.online-metrix.net
@@ -780,6 +781,7 @@
 | rttm.uniondigitalbank.io | h-5uvvlv7u.online-metrix.net |
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
+| tags.3ds.denizbank.at | h-6e1hqgi3.online-metrix.net |
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
 | cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
@@ -1218,6 +1220,7 @@
 | rba-screen.optum.com | h-hsid.online-metrix.net |
 | rba-screen.optumbank.com | h-hsid.online-metrix.net |
 | rba-screen.optumfinancial.com | h-hsid.online-metrix.net |
+| rba-screen.yourdentalplan.com | h-hsid.online-metrix.net |
 | ddata.huntingtonbank.com | h-huntington.online-metrix.net |
 | content4c.iberia.com | h-iberia.online-metrix.net |
 | solstice.ibotta.com | h-ibotta.online-metrix.net |

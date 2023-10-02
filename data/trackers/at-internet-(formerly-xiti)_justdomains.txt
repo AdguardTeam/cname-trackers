@@ -33,6 +33,7 @@ col.idealista.it
 col.idealista.pt
 collect.meilleurtaux.com
 conimicutlighthouse.viessmann-us.com
+content.kleinezeitung.at
 crocetta.viessmann.it
 culture.intermedes.com
 d.deloitte.fr

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695628884751        ; Serial
+           1696233614333        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,6 +36,7 @@ track.kiomi.com CNAME .
 track.yellostrom.de CNAME .
 tracking.eduscho.at CNAME .
 tracking.netcologne.de CNAME .
+tracking.shop.hunter.easynet.de CNAME .
 tracking.tchibo.ch CNAME .
 tracking.tchibo.com.tr CNAME .
 tracking.tchibo.cz CNAME .
@@ -86,6 +87,7 @@ data.all-in.de CNAME .
 data.allgaeuer-zeitung.de CNAME .
 data.campaign.prenatal.com CNAME .
 data.campaign.toyscenter.it CNAME .
+data.charles-colby.com CNAME .
 data.engelhorn.com CNAME .
 data.engelhorn.de CNAME .
 data.goertz.de CNAME .
@@ -138,6 +140,7 @@ ed.emp.fi CNAME .
 ed.emp.ie CNAME .
 ed.large.be CNAME .
 ed.large.nl CNAME .
+ed.originalpress.com CNAME .
 eht.endress.com CNAME .
 fiwinet.firmenwissen.com CNAME .
 fiwinet.firmenwissen.de CNAME .
@@ -156,6 +159,7 @@ img.foodspring.fi CNAME .
 img.foodspring.fr CNAME .
 img.foodspring.hr CNAME .
 img.foodspring.it CNAME .
+img.foodspring.nl CNAME .
 img.foodspring.se CNAME .
 img.sparkasse-koelnbonn.de CNAME .
 info.deltapublishing.co.uk CNAME .

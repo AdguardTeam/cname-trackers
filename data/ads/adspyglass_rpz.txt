@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1695628884751        ; Serial
+           1696233614333        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -34,7 +34,6 @@ $TTL 300
 2aae.spinna.xyz CNAME .
 2aaf.spinna.xyz CNAME .
 3333.spinna.online CNAME .
-3weg314.2conv.com CNAME .
 4444.spinna.online CNAME .
 5475feaab.clicknplay.to CNAME .
 5555.spinna.online CNAME .
@@ -56,7 +55,6 @@ a.6drole.com CNAME .
 a.6vids.space CNAME .
 a.acervox.com CNAME .
 a.adult-videos.org CNAME .
-a.alldeepfake.xyz CNAME .
 a.antiadxxxspy.com CNAME .
 a.artamkari.com CNAME .
 a.badword.xyz CNAME .
@@ -134,11 +132,10 @@ adanald.icu CNAME .
 adblock.vidomo.xyz CNAME .
 adddddd.javmilk.org CNAME .
 addin.icu CNAME .
+adhand.icu CNAME .
 adilk.ilikecomix.com CNAME .
-ads.2conv.com CNAME .
 ads.free-to.download CNAME .
 ads.hentaiheart.com CNAME .
-ads.imgdesu.art CNAME .
 ads.javtit.com CNAME .
 ads.onetouchtv.me CNAME .
 ads.pornharlot.com CNAME .
@@ -194,6 +191,7 @@ asg.page-x.com CNAME .
 asg.phukienthoitranggiare.com CNAME .
 asg.pornomoglie.com CNAME .
 asg.pornoplay.online CNAME .
+asg.pornvids.fr CNAME .
 asg.sdtraff.com CNAME .
 asg.shudhdesiporn.com CNAME .
 asg.somecdn.bid CNAME .
@@ -422,6 +420,7 @@ kliqz.com CNAME .
 krplss.click CNAME .
 kuhdsysdas.indexsubtitle.com CNAME .
 kx4.firstsexfilm.com CNAME .
+l.bloblohub.com CNAME .
 l9zkm.pleasedonotblockme.com CNAME .
 lammaou.xyz CNAME .
 larasub.conxxx.pro CNAME .
@@ -446,6 +445,7 @@ maxcdn.dmm-video.online CNAME .
 maxhold.xyz CNAME .
 maxx1.a.pleasedonotblockme.com CNAME .
 maxx1.pleasedonotblockme.com CNAME .
+maxx2.a.pleasedonotblockme.com CNAME .
 mediacdn.x1hub.com CNAME .
 member.javtvnow.xyz CNAME .
 menguzi.xyz CNAME .
@@ -510,7 +510,6 @@ ok.fapnow.xxx CNAME .
 ok.faptor.com CNAME .
 ok.hqbang.com CNAME .
 ok.starwank.com CNAME .
-ontj.com CNAME .
 open.oksrv.com CNAME .
 opus.sexyxxx.biz CNAME .
 orderz.lol CNAME .
@@ -593,6 +592,7 @@ sbbb.spinna.xyz CNAME .
 sbm.stigmuuua.xyz CNAME .
 scuoo.porneq.co CNAME .
 sda.seksohub.com CNAME .
+sdfdfff.flelgwe.site CNAME .
 sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
 serve.bdsmstreak.com CNAME .
@@ -605,6 +605,7 @@ sg.xclick24.com CNAME .
 sgzhg.pornlovo.co CNAME .
 sharkbiz.lol CNAME .
 shengcu.mom CNAME .
+shenzo.xyz CNAME .
 shmeia.xyz CNAME .
 shukri.mwikace.com CNAME .
 solutions.playernetca.top CNAME .
@@ -614,13 +615,13 @@ spyglass.reklamko.pro CNAME .
 srv1.bunnymediaserver.com CNAME .
 ssis.7mmtv.top CNAME .
 ssltest.soundrussian.com CNAME .
+staticz.hotpornfile.org CNAME .
 stepfantasy.art CNAME .
 stkk.spinna.shop CNAME .
 store4porn.com CNAME .
 strengk.xyz CNAME .
 stuff.wikiporno.org CNAME .
 sub.empressleak.biz CNAME .
-sub.empresstrending.com CNAME .
 sup.srvtax.com CNAME .
 super.koreanpornmovie.xyz CNAME .
 supjav.com.7mmtv.top CNAME .
@@ -640,6 +641,7 @@ tempro.lol CNAME .
 test2.maxx.ddac.ru CNAME .
 testcommon.soundrussian.com CNAME .
 thaz.xyz CNAME .
+tiktakz.xyz CNAME .
 titsandtits.com CNAME .
 tlv.ui02.com CNAME .
 toabuck.xyz CNAME .
@@ -695,6 +697,7 @@ www.spinna.shop CNAME .
 www.spinna.site CNAME .
 www.spinna.store CNAME .
 www.spinna.xyz CNAME .
+www.uk.boffinsoft.com CNAME .
 www.valornutricional.cc CNAME .
 www.w00t.us CNAME .
 www.zqwe.ru CNAME .
@@ -726,7 +729,9 @@ xzillla.icu CNAME .
 yhu5tw3mn64.jav-7mmtv.top CNAME .
 you75.youpornsexvideos.com CNAME .
 z0000g.yvmads.com CNAME .
+zdhq.xyz CNAME .
 zhaner.xyz CNAME .
 zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 zzzzaaa.baijav.com CNAME .
+ontj.com CNAME .

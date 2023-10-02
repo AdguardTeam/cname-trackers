@@ -23,6 +23,7 @@
 ||activate.growthspotter.com^
 ||activate.howardcountytimes.com^
 ||activate.hoylosangeles.com^
+||activate.hoysd.com^
 ||activate.lajollalight.com^
 ||activate.lanebryant.com^
 ||activate.latimes.com^
@@ -117,6 +118,7 @@
 ||cmp.cupra.be^
 ||cmp.dieteren.be^
 ||cmp.dieterengroup.com^
+||cmp.microlino.be^
 ||cmp.myway.be^
 ||cmp.porsche.be^
 ||cmp.seat.be^
@@ -193,8 +195,10 @@
 ||emetrics.eastwestbank.com^
 ||ens.bote.ch^
 ||ens.luzernerzeitung.ch^
+||ens.moneyhouse.ch^
 ||ens.nidwaldnerzeitung.ch^
 ||ens.nzz.ch^
+||ens.nzzmediasolutions.ch^
 ||ens.tagblatt.ch^
 ||ens.themarket.ch^
 ||ens.trauerportal-ostschweiz.ch^
@@ -280,6 +284,7 @@
 ||secureanalytics.synchronycarecredit.com^
 ||secureanalytics.synchronycredit.com^
 ||secureanalytics.synchronyretail.com^
+||securemetrics.carecredit.com^
 ||securemetrics.mysynchrony.com^
 ||securemetrics.syf.com^
 ||securemetrics.synchronybusiness.com^

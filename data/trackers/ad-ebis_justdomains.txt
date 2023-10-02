@@ -8,6 +8,8 @@ ac-3.mix.tokyo
 ac-ebis-stb.usen.com
 ac-ebis-uhome.usen.com
 ac-ebis.otoraku.jp
+ac-ebis.usen-ad.com
+ac-ebis.usen-insurance.com
 ac-ebis.usen-pos.com
 ac-ebis.usen-service.com
 ac-ebis.usen-store.com
@@ -17,6 +19,7 @@ ad-ebis.bookpass.auone.jp
 ad-ebis.mynavi-job20s.jp
 ad-ebis.toysub.jp
 ad-track.paravi.jp
+ad.320320.net
 ad.aim-universe.co.jp
 ad.aucfan.com
 ad.aucview.com
@@ -125,6 +128,7 @@ bbbb.goace.jp
 beeline.beeline-tire.co.jp
 campaign-direct.eisai.jp
 campaign-direct.ketsuatsu-taisaku.xyz
+campaign-direct.kouketsuatsu-health.xyz
 campaign-direct.supplement-news.net
 ccc.aqualink.tokyo
 cmass.massmedian.co.jp
@@ -271,6 +275,7 @@ matsubun.matsubun.com
 maz.zba.jp
 mcad.mods-clinic.com
 mdm.hibinobi-mandom.jp
+media.geinoschool-hikaku.net
 mgn.ebis.xn--olsz5f0ufw02b.net
 msr.p-antiaging.com
 ncc.nip-col.jp

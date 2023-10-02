@@ -14,6 +14,7 @@
 ||tr.3xcb.cofinoga.fr^
 ||tr.aasi.espmp-agfr.net^
 ||tr.abo.cotemaison.fr^
+||tr.account.np6.com^
 ||tr.acd-comexpert.fr^
 ||tr.acq-pjms.fr^
 ||tr.actiflip.devisdirect.com^
@@ -59,6 +60,7 @@
 ||tr.asp104p.espmp-aufr.net^
 ||tr.asp106d.espmp-cufr.net^
 ||tr.asp106g.espmp-nifr.net^
+||tr.asp108a.espmp-cufr.net^
 ||tr.asp1098.espmp-cufr.net^
 ||tr.asp109c.espmp-aufr.net^
 ||tr.asp109y.espmp-agfr.net^
@@ -67,6 +69,7 @@
 ||tr.asp10ar.espmp-cufr.net^
 ||tr.asp10bs.espmp-aufr.net^
 ||tr.asp10c8.espmp-agfr.net^
+||tr.asp10cc.espmp-nifr.net^
 ||tr.asp10cg.espmp-nifr.net^
 ||tr.asp10ch.espmp-nifr.net^
 ||tr.asp10cr.espmp-nifr.net^
@@ -105,6 +108,7 @@
 ||tr.asp2077.espmp-nifr.net^
 ||tr.asp2078.espmp-nifr.net^
 ||tr.asp207e.espmp-nifr.net^
+||tr.asp207f.espmp-cufr.net^
 ||tr.assoc.cfsr-retine.com^
 ||tr.avisecheance.maaf.fr^
 ||tr.axa-millesimes.espmp-aufr.net^
@@ -177,6 +181,7 @@
 ||tr.clients.europrogres.fr^
 ||tr.clients.gemy.fr^
 ||tr.clients.idaia.group^
+||tr.clients.yellow-agence-internet.com^
 ||tr.cnaf.espmp-nifr.net^
 ||tr.cogedim.espmp-agfr.net^
 ||tr.collectif.groupe-vyv.fr^
@@ -367,10 +372,12 @@
 ||tr.ere.emailing.bnpparibas^
 ||tr.estatesandwines.moethennessy.com^
 ||tr.etravauxpro.fr^
+||tr.etude.sncd.org^
 ||tr.eulerhermes.com^
 ||tr.ev001.net^
 ||tr.evenements.inpi.fr^
 ||tr.expresofferte.be^
+||tr.fexemail.com^
 ||tr.fg3p.espmp-cufr.net^
 ||tr.fidal.pro^
 ||tr.fidalformation.pro^
@@ -418,6 +425,7 @@
 ||tr.info.aeroportdeauville.com^
 ||tr.info.ag2rlamondiale.fr^
 ||tr.info.aliae.com^
+||tr.info.annoncesbateau.com^
 ||tr.info.aprr.fr^
 ||tr.info.arialcnp.fr^
 ||tr.info.astermod.net^
@@ -495,6 +503,7 @@
 ||tr.informations.lcl.fr^
 ||tr.infos.afpa.fr^
 ||tr.infos.allianz-trade.com^
+||tr.infos.ariase.com^
 ||tr.infos.fongecifcentre.com^
 ||tr.infos.gazdebordeaux.fr^
 ||tr.infos.lacarte.demenagez-moi.com^
@@ -515,6 +524,7 @@
 ||tr.jkcd.espmp-pofr.net^
 ||tr.jkyg.espmp-cufr.net^
 ||tr.kang.espmp-cufr.net^
+||tr.kedf.espmp-nifr.net^
 ||tr.klse.espmp-agfr.net^
 ||tr.kommunikation.younited-credit.com^
 ||tr.kontakt.younited-credit.com^
@@ -535,6 +545,7 @@
 ||tr.lettre.lecho-circulaire.com^
 ||tr.leyravaud.devisdirect.com^
 ||tr.liberation.espmp-aufr.net^
+||tr.livrephoto.espmp-aufr.net^
 ||tr.loreal.ifop.com^
 ||tr.louisvuittonmalletier.com^
 ||tr.louvre-boites.com^
@@ -623,6 +634,7 @@
 ||tr.n.kinder.fr^
 ||tr.n.nutella.fr^
 ||tr.n.tic-tac.fr^
+||tr.nati02d.espmp-aufr.net^
 ||tr.nespresso.com^
 ||tr.nespresso.mailsservices.com^
 ||tr.new.offres-cartegie.fr^
@@ -671,6 +683,7 @@
 ||tr.news.companeo.es^
 ||tr.news.corsicalinea.com^
 ||tr.news.cotemaison.fr^
+||tr.news.crystal-partenaires.com^
 ||tr.news.delifrance.com^
 ||tr.news.deneuville-chocolat.fr^
 ||tr.news.deshotelsetdesiles.com^
@@ -697,6 +710,7 @@
 ||tr.news.extrabook.com^
 ||tr.news.flandrintechnologies.com^
 ||tr.news.frame.fr^
+||tr.news.franceloc.fr^
 ||tr.news.futuramedia.fr^
 ||tr.news.geantcasino.fr^
 ||tr.news.geomag.fr^
@@ -879,6 +893,7 @@
 ||tr.openinnovation.lvmh.com^
 ||tr.operations.butagaz.fr^
 ||tr.orange-lease.fr^
+||tr.orcamento-online.pt^
 ||tr.orcamentos-companeo.pt^
 ||tr.oxatis.devisdirect.com^
 ||tr.panels-mediametrie.fr^
@@ -887,8 +902,10 @@
 ||tr.partenaire.manageo.info^
 ||tr.particuliers8.engie.com^
 ||tr.partners.younited-credit.it^
+||tr.phjk.espmp-nifr.net^
 ||tr.pixe.espmp-cufr.net^
 ||tr.pm.pelhammedia.com^
+||tr.poker.np6.com^
 ||tr.pole-emploi-services.com^
 ||tr.pole-emploi.info^
 ||tr.policyexpert.info^
@@ -946,8 +963,8 @@
 ||tr.satisfaction.villagesnature.com^
 ||tr.scienceshumaines.info^
 ||tr.scienceshumaines.pro^
+||tr.secretary.wfitn.org^
 ||tr.secteurentreprises.harmonie-mutuelle.fr^
-||tr.service-mail.carrefour.fr^
 ||tr.service.linxea.com^
 ||tr.serviceclient.adagcaladoise.fr^
 ||tr.serviceclient.bf-depannage.fr^
@@ -972,6 +989,7 @@
 ||tr.skin.espmp-agfr.net^
 ||tr.smtp1.email-mediapost.fr^
 ||tr.solendi.com^
+||tr.solocal.espmp-aufr.net^
 ||tr.solution.uneo.fr^
 ||tr.sort.espmp-nifr.net^
 ||tr.souscription.floa.fr^
@@ -1040,6 +1058,7 @@
 ||tr.welcome.lexpress.fr^
 ||tr.welcome.moncoupdepouce.com^
 ||tr.welcome.odalys-vacances.com^
+||tr.welcome.perfectstay.com^
 ||tr.welcome.smartdeals-transavia-fr.com^
 ||tr.welcome.thelist-emirates.fr^
 ||tr.welcome.vipmag.fr^
@@ -1048,6 +1067,7 @@
 ||tr.xleads.digital^
 ||tr.zojh.espmp-aluk.net^
 ||tr1.bp06.net^
+||tr1.bp26.net^
 ||tr1.citroen-ipsos.com^
 ||tr1.easy-v01.net^
 ||tr1.lr001.net^
@@ -1062,6 +1082,7 @@
 ||tr5.mperf.com^
 ||tr6.mperf.com^
 ||tracking.allopneus.com^
+||www.fodgfip.fr^
 ||www.newsletter.banquepopulaire.fr^
 ||www.np6.eu^
 ||www.tr.bfc-mp.caisse-epargne.fr^
@@ -1069,6 +1090,7 @@
 ||f1.demo.np6.com^
 ||f1.mailperf.com^
 ||f1.mailperformance.com^
+||f1.mperf.com^
 ||f1.np6.com^
 ||infojeux.paris.fr^
 ||lbv5.mperf.com^
