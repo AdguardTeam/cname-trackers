@@ -55,6 +55,10 @@ They are typically embedded within other websites and provide suggestions or rec
 **Trackers** – trackers of this type are used to collect and analyze information about the user.
 They monitor user behavior, such as browsing patterns, interactions, and preferences,
 and are used for various purposes like audience profiling, market research, and personalization.
+
+**Mail Trackers** — this category includes trackers used in email clients to monitor and collect data.
+Mail trackers are used to gather information about how recipients interact with email,
+including whether an email was opened, what links were clicked, and how users interact with the content of the email.
 ​
 > **Recommendation:**
 >
@@ -93,6 +97,10 @@ that disguise the real trackers by using CNAME records. Use in any traditional c
         ```
         https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt
         ```
+        Mail trackers
+        ```
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_mail_trackers.txt
+        ```
 
     * [Just domain names](https://github.com/AdguardTeam/AdGuardHome/wiki/Hosts-Blocklists#domains-only-syntax):
 
@@ -111,6 +119,10 @@ that disguise the real trackers by using CNAME records. Use in any traditional c
         Trackers
         ```
         https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_justdomains.txt
+        ```
+        Mail trackers
+        ```
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_mail_trackers_justdomains.txt
         ```
 
 If you run your own DNS server which supports [Response Policy Zones (RPZ)](https://www.dnsrpz.info),
@@ -135,6 +147,10 @@ that disguise the real trackers by using CNAME records. Use with a compatible DN
         Trackers
         ```
         https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers_rpz.txt
+        ```
+        Mail Trackers
+        ```
+        https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_mail_trackers_rpz.txt
         ```
 ​
 You will need to prepend your own SOA and NS records. Consult the documentation of your DNS server

@@ -103,7 +103,7 @@
     },
     {
         "company_name": "Cordial",
-        "type": "clickthrough",
+        "type": "mail_tracker",
         "domains": [
             "track.sp.crdl.io"
         ]
@@ -118,7 +118,7 @@
     },
     {
         "company_name": "customer.io",
-        "type": "clickthrough",
+        "type": "mail_tracker",
         "domains": [
             "e.customeriomail.com"
         ]
@@ -298,7 +298,7 @@
     },
     {
         "company_name": "SailThru",
-        "type": "clickthrough",
+        "type": "mail_tracker",
         "domains": [
             "sailthru.com"
         ]
