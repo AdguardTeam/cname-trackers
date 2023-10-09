@@ -626,8 +626,6 @@
     * pureadsltd.xml.ak-is2.net
     * push-sense.fs.ak-is2.net
     * push-sense.xml.ak-is2.net
-    * pushmobo.fs.ak-is2.net
-    * pushmobo.xml.ak-is2.net
     * pushub.aui.ak-is2.net
     * pushub.fs-eu.ak-is2.net
     * pushub.fs.ak-is2.net
@@ -1196,7 +1194,6 @@
 | login.adright.com | adright.ui.ak-is2.net |
 | push.adright.co | adright.wp.ak-is2.net |
 | xml-eu-v4.fstsrv5.com | adright.xml-eu-v4.ak-is2.net |
-| xml-eu-v4.qksrv.biz | adright.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.qksrv.cc | adright.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.qksrv1.com | adright.xml-eu-v4.ak-is2.net |
 | xml-eu.qksrv.cc | adright.xml-eu-v6.ak-is2.net |
@@ -1206,10 +1203,8 @@
 | xml-v4.fstsrv3.com | adright.xml-v4.ak-is2.net |
 | xml-v4.fstsrv4.com | adright.xml-v4.ak-is2.net |
 | xml-v4.fstsrv5.com | adright.xml-v4.ak-is2.net |
-| xml-v4.qksrv.biz | adright.xml-v4.ak-is2.net |
 | xml-v4.qksrv.cc | adright.xml-v4.ak-is2.net |
 | xml-v4.qksrv1.com | adright.xml-v4.ak-is2.net |
-| xml.qksrv.biz | adright.xml-v6.ak-is2.net |
 | xml.qksrv.cc | adright.xml-v6.ak-is2.net |
 | xml.qksrv1.com | adright.xml-v6.ak-is2.net |
 | filter.popunder.bid | adright.xml.ak-is2.net |
@@ -1231,7 +1226,7 @@
 | static.fstsrv3.com | adright.xs.ak-is2.net |
 | static.fstsrv4.com | adright.xs.ak-is2.net |
 | static.fstsrv5.com | adright.xs.ak-is2.net |
-| static.qksrv.biz | adright.xs.ak-is2.net |
+| static.qksrv.cc | adright.xs.ak-is2.net |
 | static.qksrv1.com | adright.xs.ak-is2.net |
 | login.ads9.com | ads9.ui.ak-is2.net |
 | xml.adsailor.com | adsailor.xml.ak-is2.net |
@@ -1852,7 +1847,6 @@
 | static.fstsrv3.com | n3e6p9m4.stackpathcdn.com |
 | static.fstsrv4.com | n3e6p9m4.stackpathcdn.com |
 | static.fstsrv5.com | n3e6p9m4.stackpathcdn.com |
-| static.qksrv.biz | n3e6p9m4.stackpathcdn.com |
 | static.qksrv.cc | n3e6p9m4.stackpathcdn.com |
 | static.qksrv1.com | n3e6p9m4.stackpathcdn.com |
 | static-rtb2.adpix.online | n3r3w7j3.stackpathcdn.com |
@@ -1948,8 +1942,6 @@
 | xml.xmladsystem.com | pureadsltd.xml.ak-is2.net |
 | filter.push-sense.com | push-sense.fs.ak-is2.net |
 | xml.push-sense.com | push-sense.xml.ak-is2.net |
-| filter.pushmobo.com | pushmobo.fs.ak-is2.net |
-| xml.pushmobo.com | pushmobo.xml.ak-is2.net |
 | dsp.pushub.net | pushub.aui.ak-is2.net |
 | live-eu.newsvot.com | pushub.fs-eu.ak-is2.net |
 | live-eu.pornamigo.com | pushub.fs-eu.ak-is2.net |
@@ -2230,6 +2222,7 @@
 | xml-rtb.xapads.com | xapads.xml.ak-is2.net |
 | static.openrtb.in | xapads.xs.ak-is2.net |
 | static.xrtb.io | xapads.xs.ak-is2.net |
+| vid-static.xapads.com | xapads.xs.ak-is2.net |
 | click-rtb2-apac.xaprio.net | xaprio.click-apac.ak-is2.net |
 | click-rtb2-eu.xaprio.net | xaprio.click-eu.ak-is2.net |
 | click-rtb2-useast.xaprio.net | xaprio.click-useast.ak-is2.net |

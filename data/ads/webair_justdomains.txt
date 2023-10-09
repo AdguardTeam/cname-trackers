@@ -295,7 +295,6 @@ filter.popunder.bid
 filter.pressize.com
 filter.push-sense.com
 filter.pushit.work
-filter.pushmobo.com
 filter.pwr-ads.com
 filter.qksrv.cc
 filter.qksrv1.com
@@ -719,7 +718,7 @@ static.fstsrv3.com
 static.fstsrv4.com
 static.fstsrv5.com
 static.openrtb.in
-static.qksrv.biz
+static.qksrv.cc
 static.qksrv1.com
 static.xrtb.io
 sub.adzgame.com
@@ -759,6 +758,7 @@ vid-rtb-india.xapads.com
 vid-rtb-sg.xapads.com
 vid-rtb-uswest.xapads.com
 vid-rtb.xapads.com
+vid-static.xapads.com
 vsv-val.looksmart.com
 webferret-val.looksmart.com
 webpush.adjux.com
@@ -835,7 +835,6 @@ xml-eu-v4.nxthost-2.info
 xml-eu-v4.outpush.net
 xml-eu-v4.pushub.net
 xml-eu-v4.pxfind3.com
-xml-eu-v4.qksrv.biz
 xml-eu-v4.qksrv.cc
 xml-eu-v4.qksrv1.com
 xml-eu-v4.rocoads.com
@@ -936,7 +935,6 @@ xml-v4.nxthost-2.info
 xml-v4.pushub.net
 xml-v4.pwr-ads.com
 xml-v4.pxfind3.com
-xml-v4.qksrv.biz
 xml-v4.qksrv.cc
 xml-v4.qksrv1.com
 xml-v4.rocoads.com
@@ -1100,12 +1098,10 @@ xml.popunder.bid
 xml.pressize.com
 xml.pulsefintech.net
 xml.push-sense.com
-xml.pushmobo.com
 xml.pushub.net
 xml.pwr-ads.com
 xml.pxfind3.com
 xml.q32167.com
-xml.qksrv.biz
 xml.qksrv.cc
 xml.qksrv1.com
 xml.reachclicks.net
@@ -1212,7 +1208,6 @@ static.adop.co
 static.adoperatorx.com
 static.adoptim.com
 static.adqva.com
-static.qksrv.cc
 static.adsfloow.net
 static.adsolut.in
 static.advlistings.com
@@ -1257,7 +1252,6 @@ static.mediastinct.com
 static.melozen.com
 static.mobipromote.com
 static.online-adnetwork.com
-vid-static.xapads.com
 static.outpush.net
 static.pdn-1.com
 static.plarimoplus.com

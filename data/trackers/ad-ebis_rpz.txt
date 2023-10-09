@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -92,6 +92,7 @@ adebis.logoshome.jp CNAME .
 adebis.mizunomori.com CNAME .
 adebis.no.01.alo-organic.com CNAME .
 adebis.nursery.co.jp CNAME .
+adebis.o-baby.net CNAME .
 adebis.pikaichi.co.jp CNAME .
 adebis.qeee.jp CNAME .
 adebis.real-style.co.jp CNAME .
@@ -184,6 +185,7 @@ ebis-tracking.hirakata-skin-clinic.com CNAME .
 ebis-tracking.okinawa-keisei.com CNAME .
 ebis-tracking.shinyokohama-beauty.com CNAME .
 ebis-tracking.tcb-beauty.net CNAME .
+ebis-tracking.tcb-fukushima.com CNAME .
 ebis-tracking.tcb-mito.com CNAME .
 ebis-tracking.tcb-recruit.com CNAME .
 ebis-tracking.tcb-setagaya.com CNAME .

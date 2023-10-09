@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -226,7 +226,6 @@ affiliate.okamih.cz CNAME .
 affiliate.onlinepsiskola.cz CNAME .
 affiliate.organikk.cz CNAME .
 affiliate.pasti.cz CNAME .
-affiliate.pestujzivotwebinar.cz CNAME .
 affiliate.pesvbyte.cz CNAME .
 affiliate.petr-zeman.cz CNAME .
 affiliate.ph7.cz CNAME .

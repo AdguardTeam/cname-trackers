@@ -143,7 +143,6 @@
 ||ea.millet-mountain.de^
 ||ea.millet.fr^
 ||ea.mistergatesdirect.com^
-||ea.mnt.fr^
 ||ea.moncornerdeco.com^
 ||ea.mondial-assistance.fr^
 ||ea.mydailyhotel.com^
@@ -520,5 +519,6 @@
 ||hk2d.tourismemauricie.com^
 ||nym5c.bonlook.com^
 ||ry0.rythmefm.com^
+||ea.mnt.fr^
 ||gi7a.structube.com^
 ||nym5c.laura.ca^

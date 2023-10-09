@@ -15,6 +15,7 @@ pix.telekom-dienste.de
 pix.telekom.de
 pixel.augsburger-allgemeine.de
 prophet.heise.de
+service.hcob-bank.de
 spr.bild.de
 startrekk.flaconi.de
 sub1.cosmosdirekt.de

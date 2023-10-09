@@ -176,6 +176,7 @@
     * beaspermdonor.extole.io
     * biblejourney.extole.io
     * bioionic.extole.io
+    * bjs.extole.io
     * bobstores.extole.io
     * boden-au.extole.io
     * boden-de.extole.io
@@ -185,7 +186,6 @@
     * bose.extole.io
     * bountyhunterwine.extole.io
     * brava.extole.io
-    * brook-furniture-rental.extole.io
     * brunette-the-label.extole.io
     * bulova.extole.io
     * bumble-and-bumble-uk.extole.io
@@ -210,6 +210,7 @@
     * chicos.extole.io
     * chicosofftherack.extole.io
     * cinemark.extole.io
+    * citizen.extole.io
     * cityfurniture.extole.io
     * clarksusa.extole.io
     * cle-de-peau.extole.io
@@ -624,6 +625,7 @@
 | refer.betterbraces.com | betterbraces.extole.com |
 | share.biblejourney.com | biblejourney.extole.io |
 | refer.bioionic.com | bioionic.extole.io |
+| share.bjs.com | bjs.extole.io |
 | refer.bobstores.com | bobstores.extole.io |
 | refer.ems.com | bobstores.extole.io |
 | share.bodenclothing.com.au | boden-au.extole.io |
@@ -641,8 +643,6 @@
 | refer.bostonglobe.com | bostonglobe-ssl.extole.com |
 | share.bountyhunterwine.com | bountyhunterwine.extole.io |
 | share.brava.com | brava.extole.io |
-| amp.bfr.com | brook-furniture-rental.extole.io |
-| refer.bfr.com | brook-furniture-rental.extole.io |
 | share.brunettethelabel.com | brunette-the-label.extole.io |
 | refer.bulova.com | bulova.extole.io |
 | share.refer-bumbleandbumble.co.uk | bumble-and-bumble-uk.extole.io |
@@ -674,6 +674,7 @@
 | chubclub.chubbiesshorts.com | chubbies.extole.com |
 | refer.cinemark.com | cinemark.extole.io |
 | refer.citizen-times.com | citizen-times.extole.com |
+| refer.citizenwatch.com | citizen.extole.io |
 | share.cityfurniture.com | cityfurniture.extole.io |
 | refer.clarionledger.com | clarionledger.extole.com |
 | refer.clarisonic.com | clarisonic.extole.com |

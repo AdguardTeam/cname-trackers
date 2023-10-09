@@ -46,9 +46,9 @@
     * h-4hq91r5k.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-4ulk5mz4.online-metrix.net
+    * h-4vocbmhq.online-metrix.net
     * h-516jl8bt.online-metrix.net
     * h-5g3kt0kj.online-metrix.net
-    * h-5glaq71x.online-metrix.net
     * h-5h8i3ud8.online-metrix.net
     * h-5pxao9h8.online-metrix.net
     * h-5uvvlv7u.online-metrix.net
@@ -207,6 +207,7 @@
     * h-cdn2.intercambioexpress.online-metrix.net
     * h-ce5udwb7.online-metrix.net
     * h-certifid.online-metrix.net
+    * h-cesikaps.online-metrix.net
     * h-ceurt9zj.online-metrix.net
     * h-cfi32dc4.online-metrix.net
     * h-cgfjrfto.online-metrix.net
@@ -708,6 +709,7 @@
 | prod-northland.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-oneaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-pathways.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-prospera.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-selco.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -757,9 +759,9 @@
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | tmx-fpt.credit-agricole.pl | h-4ulk5mz4.online-metrix.net |
+| svc.ondeck.com.au | h-4vocbmhq.online-metrix.net |
 | tm.fidelity.co.uk | h-516jl8bt.online-metrix.net |
 | page-format.chase.com | h-5g3kt0kj.online-metrix.net |
-| api.ext.evolution.protective.com | h-5glaq71x.online-metrix.net |
 | cfa.advisorchannel.com | h-5h8i3ud8.online-metrix.net |
 | cfa.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | cfa.mystreetscape.com | h-5h8i3ud8.online-metrix.net |
@@ -981,6 +983,7 @@
 | cdn2.intercambioexpress.com | h-cdn2.intercambioexpress.online-metrix.net |
 | cdnm.sts.pl | h-ce5udwb7.online-metrix.net |
 | content.certifid.com | h-certifid.online-metrix.net |
+| contentneworks.nebraska.gov | h-cesikaps.online-metrix.net |
 | device.invoice2go.com | h-ceurt9zj.online-metrix.net |
 | dp.barclaycardus.com | h-cfi32dc4.online-metrix.net |
 | content.nebraska.gov | h-cgfjrfto.online-metrix.net |
@@ -1158,6 +1161,7 @@
 | tm.betano.com | h-gambling-malta.online-metrix.net |
 | tm.betano.cz | h-gambling-malta.online-metrix.net |
 | tm.betano.de | h-gambling-malta.online-metrix.net |
+| tm.stoiximan.com.cy | h-gambling-malta.online-metrix.net |
 | tm.stoiximan.gr | h-gambling-malta.online-metrix.net |
 | dfp.garmin.com | h-garmin.online-metrix.net |
 | content.benefitsaccess.org | h-gbophb.online-metrix.net |
@@ -1188,7 +1192,6 @@
 | cdnt.duobank.com | h-hie95lph-duo.online-metrix.net |
 | cdnt.walmartrewards.ca | h-hie95lph-walrew.online-metrix.net |
 | yr3ioxw.hoaresbank.co.uk | h-hoares.online-metrix.net |
-| tm.stats.fashionforhome.de | h-home24.online-metrix.net |
 | tm.stats.home24.at | h-home24.online-metrix.net |
 | tm.stats.home24.be | h-home24.online-metrix.net |
 | tm.stats.home24.ch | h-home24.online-metrix.net |

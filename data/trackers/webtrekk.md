@@ -17,6 +17,7 @@
     * flaconi02.webtrekk.net
     * flatex-at01.webtrekk.net
     * heise02.webtrekk.net
+    * img01.webtrekk.net
     * ingnl04.webtrekk.net
     * interhyp02.webtrekk.net
     * kfw-05.webtrekk.net
@@ -213,6 +214,10 @@
     * wt-ara.wt-eu02.net
     * wttd-douglas.wt-eu02.net
     * xxxlmoebelhaeuserde02.wt-eu02.net
+
+### Rarely active trackers
+
+* wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com
 
 ## Cloaking domains
 
@@ -520,6 +525,7 @@
 | scout.bergfreunde.nl | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.no | img.bergfreunde.wt-eu02.net |
 | scout.bergfreunde.se | img.bergfreunde.wt-eu02.net |
+| service.hcob-bank.de | img01.webtrekk.net |
 | mon.ingservices.nl | ingnl04.webtrekk.net |
 | wtm.interhyp.de | interhyp02.webtrekk.net |
 | data.charles-colby.com | janvanderstorm-01.wt-eu02.net |
@@ -601,6 +607,7 @@
 | wt.ara.ad | wt-ara.wt-eu02.net |
 | wt.ara.cat | wt-ara.wt-eu02.net |
 | wt.arabalears.cat | wt-ara.wt-eu02.net |
+| web.marketing.jellybelly.com | wt-tracking-aws-us-842251896.us-east-1.elb.amazonaws.com |
 | wttd.douglas.at | wttd-douglas.wt-eu02.net |
 | wttd.douglas.ch | wttd-douglas.wt-eu02.net |
 | wttd.douglas.de | wttd-douglas.wt-eu02.net |

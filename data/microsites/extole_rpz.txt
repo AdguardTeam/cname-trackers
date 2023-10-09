@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -133,7 +133,6 @@ sharethelove.teacollection.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
 www.trevoce.com CNAME .
-amp.bfr.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 externalreferral.freshworks.com CNAME .
@@ -185,7 +184,6 @@ refer.basbleu.com CNAME .
 refer.batesfootwear.com CNAME .
 refer.bathandbodyworks.com CNAME .
 refer.baxterofcalifornia.com CNAME .
-refer.bfr.com CNAME .
 refer.bioionic.com CNAME .
 refer.bobstores.com CNAME .
 refer.booksy.com CNAME .
@@ -207,6 +205,7 @@ refer.chicos.com CNAME .
 refer.chicosofftherack.com CNAME .
 refer.childrensplace.com CNAME .
 refer.cinemark.com CNAME .
+refer.citizenwatch.com CNAME .
 refer.clarksusa.com CNAME .
 refer.codecademy.com CNAME .
 refer.colemancanada.ca CNAME .
@@ -438,6 +437,7 @@ share.basepaws.com CNAME .
 share.battlecreekenquirer.com CNAME .
 share.beaspermdonor.com CNAME .
 share.biblejourney.com CNAME .
+share.bjs.com CNAME .
 share.boden.co.uk CNAME .
 share.boden.fr CNAME .
 share.bodenclothing.com.au CNAME .

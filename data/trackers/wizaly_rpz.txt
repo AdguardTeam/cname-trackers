@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -114,6 +114,7 @@ tk.little-big-change.com CNAME .
 tk.lolivier.fr CNAME .
 tk.lulli-sur-la-toile.com CNAME .
 tk.m6boutique.com CNAME .
+tk.macif.fr CNAME .
 tk.maison123.com CNAME .
 tk.manouvellevoiture.com CNAME .
 tk.moveyourfit.com CNAME .

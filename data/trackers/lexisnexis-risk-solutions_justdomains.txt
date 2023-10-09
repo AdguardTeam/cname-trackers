@@ -21,7 +21,6 @@ analytics.triseptsolutions.com
 analytics.vacations.united.com
 analytics.vaxvacationaccess.com
 analytics.vodafone.com.au
-api.ext.evolution.protective.com
 api.v1.threatmetrix.space.ge
 api1.sfcu.org
 apicorporativops.portoseguro.com.br
@@ -330,6 +329,7 @@ contentfd.directcapital.com
 contentimage.fretebras.com.br
 contentinfo.tcdrs.org
 contentmx.okcoin.com
+contentneworks.nebraska.gov
 contentservices.ascendloans.com
 contentservices.brightlending.com
 contentservices.clearairlending.com
@@ -593,6 +593,7 @@ prod-njfcunj.chaperone.lumindigitalhosting.com
 prod-northland.chaperone.lumindigitalhosting.com
 prod-oneaz.chaperone.lumindigitalhosting.com
 prod-pathways.chaperone.lumindigitalhosting.com
+prod-prospera.chaperone.lumindigitalhosting.com
 prod-redwood.chaperone.lumindigitalhosting.com
 prod-selco.chaperone.lumindigitalhosting.com
 prod-sesloc.chaperone.lumindigitalhosting.com
@@ -719,6 +720,7 @@ sub-a.crossmeetz.com
 subcontent.galeria.de
 sunshine.lillypulitzer.com
 svc.bangkokbank.com
+svc.ondeck.com.au
 svc1.sc.com
 svc2.sc.com
 t.banking.blucurrent.org
@@ -857,13 +859,13 @@ tm.regions.com
 tm.regionsqa.com
 tm.regionstest.com
 tm.solidgate.com
-tm.stats.fashionforhome.de
 tm.stats.home24.at
 tm.stats.home24.be
 tm.stats.home24.ch
 tm.stats.home24.de
 tm.stats.home24.it
 tm.stats.home24.nl
+tm.stoiximan.com.cy
 tm.stoiximan.gr
 tm.summit-services.ca
 tm.tbcbank.uz

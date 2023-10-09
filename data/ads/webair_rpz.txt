@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -306,7 +306,6 @@ filter.popunder.bid CNAME .
 filter.pressize.com CNAME .
 filter.push-sense.com CNAME .
 filter.pushit.work CNAME .
-filter.pushmobo.com CNAME .
 filter.pwr-ads.com CNAME .
 filter.qksrv.cc CNAME .
 filter.qksrv1.com CNAME .
@@ -730,7 +729,7 @@ static.fstsrv3.com CNAME .
 static.fstsrv4.com CNAME .
 static.fstsrv5.com CNAME .
 static.openrtb.in CNAME .
-static.qksrv.biz CNAME .
+static.qksrv.cc CNAME .
 static.qksrv1.com CNAME .
 static.xrtb.io CNAME .
 sub.adzgame.com CNAME .
@@ -770,6 +769,7 @@ vid-rtb-india.xapads.com CNAME .
 vid-rtb-sg.xapads.com CNAME .
 vid-rtb-uswest.xapads.com CNAME .
 vid-rtb.xapads.com CNAME .
+vid-static.xapads.com CNAME .
 vsv-val.looksmart.com CNAME .
 webferret-val.looksmart.com CNAME .
 webpush.adjux.com CNAME .
@@ -846,7 +846,6 @@ xml-eu-v4.nxthost-2.info CNAME .
 xml-eu-v4.outpush.net CNAME .
 xml-eu-v4.pushub.net CNAME .
 xml-eu-v4.pxfind3.com CNAME .
-xml-eu-v4.qksrv.biz CNAME .
 xml-eu-v4.qksrv.cc CNAME .
 xml-eu-v4.qksrv1.com CNAME .
 xml-eu-v4.rocoads.com CNAME .
@@ -947,7 +946,6 @@ xml-v4.nxthost-2.info CNAME .
 xml-v4.pushub.net CNAME .
 xml-v4.pwr-ads.com CNAME .
 xml-v4.pxfind3.com CNAME .
-xml-v4.qksrv.biz CNAME .
 xml-v4.qksrv.cc CNAME .
 xml-v4.qksrv1.com CNAME .
 xml-v4.rocoads.com CNAME .
@@ -1111,12 +1109,10 @@ xml.popunder.bid CNAME .
 xml.pressize.com CNAME .
 xml.pulsefintech.net CNAME .
 xml.push-sense.com CNAME .
-xml.pushmobo.com CNAME .
 xml.pushub.net CNAME .
 xml.pwr-ads.com CNAME .
 xml.pxfind3.com CNAME .
 xml.q32167.com CNAME .
-xml.qksrv.biz CNAME .
 xml.qksrv.cc CNAME .
 xml.qksrv1.com CNAME .
 xml.reachclicks.net CNAME .
@@ -1223,7 +1219,6 @@ static.adop.co CNAME .
 static.adoperatorx.com CNAME .
 static.adoptim.com CNAME .
 static.adqva.com CNAME .
-static.qksrv.cc CNAME .
 static.adsfloow.net CNAME .
 static.adsolut.in CNAME .
 static.advlistings.com CNAME .
@@ -1268,7 +1263,6 @@ static.mediastinct.com CNAME .
 static.melozen.com CNAME .
 static.mobipromote.com CNAME .
 static.online-adnetwork.com CNAME .
-vid-static.xapads.com CNAME .
 static.outpush.net CNAME .
 static.pdn-1.com CNAME .
 static.plarimoplus.com CNAME .

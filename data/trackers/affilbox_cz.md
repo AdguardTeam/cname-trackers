@@ -232,7 +232,6 @@
 | affiliate.onlinepsiskola.cz | cz.affilbox.cz |
 | affiliate.organikk.cz | cz.affilbox.cz |
 | affiliate.pasti.cz | cz.affilbox.cz |
-| affiliate.pestujzivotwebinar.cz | cz.affilbox.cz |
 | affiliate.pesvbyte.cz | cz.affilbox.cz |
 | affiliate.petr-zeman.cz | cz.affilbox.cz |
 | affiliate.ph7.cz | cz.affilbox.cz |

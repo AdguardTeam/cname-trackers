@@ -261,7 +261,6 @@ cattle.herojob.de
 cattle.kirkebaekke.dk
 cattle.kumo.at
 cattle.meets.beer
-cattle.mes-renovateurs.com
 cattle.musikschule-bregenzerwald.at
 cattle.spiral11.com
 cattle.weiss-bregenz.at
@@ -612,7 +611,6 @@ krill.far.site
 krill.spoonrage.com
 krill.swiss-uke.ch
 ks42zt.spec.fm
-ladybug.cargolabs.com
 ladybug.ethanprintz.com
 ladybug.paulstovell.com
 lamprey.carolcassar.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -79,6 +79,7 @@ tp.quelle.at CNAME .
 tp.quelle.ch CNAME .
 tp.quelle.de CNAME .
 tp.sheego.de CNAME .
+tp.sieh-an.at CNAME .
 tp.sieh-an.ch CNAME .
 tp.sieh-an.de CNAME .
 tp.universal.at CNAME .

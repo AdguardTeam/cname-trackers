@@ -70,6 +70,7 @@
 | a.digitalgiftshopping.com | 0i0i0i0.com |
 | a.donyandmark.xyz | 0i0i0i0.com |
 | a.everymark.xyz | 0i0i0i0.com |
+| a.famestporn.com | 0i0i0i0.com |
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
@@ -226,7 +227,6 @@
 | b1.hentaibaka.one | 0i0i0i0.com |
 | b1.maturesexvideos.pro | 0i0i0i0.com |
 | babynaz.xyz | 0i0i0i0.com |
-| bac221.skin | 0i0i0i0.com |
 | backpub.mom | 0i0i0i0.com |
 | bambao.lol | 0i0i0i0.com |
 | bambao.xyz | 0i0i0i0.com |
@@ -273,6 +273,7 @@
 | cdn3.hentaihand.com | 0i0i0i0.com |
 | cdn3.hentaihaven.fun | 0i0i0i0.com |
 | cdn3.hentok.com | 0i0i0i0.com |
+| cdn3.r34comix.com | 0i0i0i0.com |
 | cdn5.cartoonporn.to | 0i0i0i0.com |
 | cdn5.hentaihaven.fun | 0i0i0i0.com |
 | cesbr.spinna.store | 0i0i0i0.com |
@@ -352,11 +353,9 @@
 | h-ay.com | 0i0i0i0.com |
 | h.bloblohub.com | 0i0i0i0.com |
 | hegdcrxavrtk.cdnvideo3.com | 0i0i0i0.com |
-| hehe686.lol | 0i0i0i0.com |
 | help.fanza.cc | 0i0i0i0.com |
 | hetaer.xyz | 0i0i0i0.com |
 | heyyou.spinna.shop | 0i0i0i0.com |
-| hi999.mom | 0i0i0i0.com |
 | hitfuck.icu | 0i0i0i0.com |
 | hizgame.mom | 0i0i0i0.com |
 | hoakz.xyz | 0i0i0i0.com |
@@ -408,9 +407,6 @@
 | js.xemkqxs.com | 0i0i0i0.com |
 | jx3.freepornobook.com | 0i0i0i0.com |
 | k.bloblohub.com | 0i0i0i0.com |
-| kembuck.homes | 0i0i0i0.com |
-| ken9.lol | 0i0i0i0.com |
-| kena9.mom | 0i0i0i0.com |
 | kfioeld.spinna.shop | 0i0i0i0.com |
 | khoilive.xyz | 0i0i0i0.com |
 | kingtus.pics | 0i0i0i0.com |
@@ -424,7 +420,6 @@
 | l9zkm.pleasedonotblockme.com | 0i0i0i0.com |
 | lammaou.xyz | 0i0i0i0.com |
 | larasub.conxxx.pro | 0i0i0i0.com |
-| lc1982.lol | 0i0i0i0.com |
 | leefang.lol | 0i0i0i0.com |
 | lengtikto.xyz | 0i0i0i0.com |
 | lixir.wargers.org | 0i0i0i0.com |
@@ -433,11 +428,13 @@
 | lol.globlax.com | 0i0i0i0.com |
 | losa.mkace.net | 0i0i0i0.com |
 | lx5.homeporntuber.com | 0i0i0i0.com |
+| m.bloblohub.com | 0i0i0i0.com |
 | m.x-power.info | 0i0i0i0.com |
 | m.xrum.info | 0i0i0i0.com |
 | m9xp1.hentaigold.net | 0i0i0i0.com |
 | maioux.xyz | 0i0i0i0.com |
 | mamamia.vintageporno.stream | 0i0i0i0.com |
+| mambus.xyz | 0i0i0i0.com |
 | mangoga.xyz | 0i0i0i0.com |
 | mangtoz.xyz | 0i0i0i0.com |
 | maxcdn.dmm-video.online | 0i0i0i0.com |
@@ -509,11 +506,11 @@
 | ok.faptor.com | 0i0i0i0.com |
 | ok.hqbang.com | 0i0i0i0.com |
 | ok.starwank.com | 0i0i0i0.com |
+| ontj.com | 0i0i0i0.com |
 | open.oksrv.com | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | orderz.lol | 0i0i0i0.com |
 | orznp.spinna.store | 0i0i0i0.com |
-| outshutop.mom | 0i0i0i0.com |
 | outya.xyz | 0i0i0i0.com |
 | ox8.topsexhdvideos.com | 0i0i0i0.com |
 | ozoj.com | 0i0i0i0.com |
@@ -521,7 +518,6 @@
 | p.strjuylfrjyk.site | 0i0i0i0.com |
 | p.upskirt.tv | 0i0i0i0.com |
 | p123p.com | 0i0i0i0.com |
-| p1t.clipnuke.com | 0i0i0i0.com |
 | pakenta.xyz | 0i0i0i0.com |
 | pampela.lol | 0i0i0i0.com |
 | pamtuea.xyz | 0i0i0i0.com |
@@ -532,7 +528,6 @@
 | pempiz.xyz | 0i0i0i0.com |
 | penapne.xyz | 0i0i0i0.com |
 | pengenanu.files.im | 0i0i0i0.com |
-| pep929.mom | 0i0i0i0.com |
 | pihu.xxxpornhd.pro | 0i0i0i0.com |
 | pivo.tracked.one | 0i0i0i0.com |
 | pizzazz.lol | 0i0i0i0.com |
@@ -542,6 +537,7 @@
 | pornvideos.casa | 0i0i0i0.com |
 | possibily.com | 0i0i0i0.com |
 | pppe.7mmtv.top | 0i0i0i0.com |
+| pqaz.xyz | 0i0i0i0.com |
 | pre.03porno.com | 0i0i0i0.com |
 | pre.102porno.club | 0i0i0i0.com |
 | pre.102porno.net | 0i0i0i0.com |
@@ -551,13 +547,11 @@
 | pre.pornuxaxa.com | 0i0i0i0.com |
 | pred.7mmtv.top | 0i0i0i0.com |
 | profield.ddns.net | 0i0i0i0.com |
-| pub88.mom | 0i0i0i0.com |
 | pubbucks.homes | 0i0i0i0.com |
 | px9.nuderedtube.com | 0i0i0i0.com |
 | pxgtus.xxxspark.com | 0i0i0i0.com |
 | qatak.beauty | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
-| qoqv.com | 0i0i0i0.com |
 | qoutec.shop | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
 | quickzo.xyz | 0i0i0i0.com |
@@ -576,6 +570,7 @@
 | rtgy3r5.jav-7mmtv.top | 0i0i0i0.com |
 | rxxx.baijav.com | 0i0i0i0.com |
 | s.freeporncave.com | 0i0i0i0.com |
+| s.isoporno.com | 0i0i0i0.com |
 | s.oralblow.com | 0i0i0i0.com |
 | s.remonti.org | 0i0i0i0.com |
 | s1sentablya.teenfuckhd.com | 0i0i0i0.com |
@@ -738,4 +733,3 @@
 | www.hq3x.com | u50.0i0i0i0.com |
 | ontj.com | u53.hypnorat.com |
 | qhip.com | u53.hypnorat.com |
-| qoqv.com | u53.hypnorat.com |

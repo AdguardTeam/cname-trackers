@@ -550,6 +550,7 @@
 ||3572303.notifysrv.com^
 ||3572904.notifysrv.com^
 ||3576907.notifysrv.com^
+||3578231.notify6.com^
 ||3578239.notify6.com^
 ||3578253.notifysrv.com^
 ||3580293.notifysrv.com^
@@ -955,6 +956,7 @@
 ||a.native7.com^
 ||a.paradoxgroup.uk^
 ||a.redpathmedia.com^
+||a.rocoads.net^
 ||a.santabrowser.com^
 ||a.slice.exchange^
 ||a.stuffserve.com^
@@ -963,6 +965,7 @@
 ||admin.adstuff.io^
 ||admin.etology.com^
 ||admin.gettopple.com^
+||admin.shafttraffic.com^
 ||api.adnation.com^
 ||api.getblaze.app^
 ||api.slice.exchange^
@@ -1042,6 +1045,7 @@
 ||s.paradoxgroup.uk^
 ||s.pemsrv.com^
 ||s.redpathmedia.com^
+||s.rocoads.net^
 ||s.slice.exchange^
 ||s.st1net.com^
 ||s.stuffserve.com^
@@ -1090,10 +1094,10 @@
 ||www.3227697.notify6.com^
 ||www.3243082.notifysrv.com^
 ||www.3466863.notify6.com^
+||www.3815579.notify6.com^
 ||www.3881818.notify6.com^
 ||www.4152316.notify6.com^
 ||www.notify.bizonads-ssp.com^
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||xn--3225689-o06c.notifysrv.com^
-||admin.shafttraffic.com^

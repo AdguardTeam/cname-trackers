@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,7 +32,6 @@ analytics.triseptsolutions.com CNAME .
 analytics.vacations.united.com CNAME .
 analytics.vaxvacationaccess.com CNAME .
 analytics.vodafone.com.au CNAME .
-api.ext.evolution.protective.com CNAME .
 api.v1.threatmetrix.space.ge CNAME .
 api1.sfcu.org CNAME .
 apicorporativops.portoseguro.com.br CNAME .
@@ -341,6 +340,7 @@ contentfd.directcapital.com CNAME .
 contentimage.fretebras.com.br CNAME .
 contentinfo.tcdrs.org CNAME .
 contentmx.okcoin.com CNAME .
+contentneworks.nebraska.gov CNAME .
 contentservices.ascendloans.com CNAME .
 contentservices.brightlending.com CNAME .
 contentservices.clearairlending.com CNAME .
@@ -604,6 +604,7 @@ prod-njfcunj.chaperone.lumindigitalhosting.com CNAME .
 prod-northland.chaperone.lumindigitalhosting.com CNAME .
 prod-oneaz.chaperone.lumindigitalhosting.com CNAME .
 prod-pathways.chaperone.lumindigitalhosting.com CNAME .
+prod-prospera.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
 prod-selco.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
@@ -730,6 +731,7 @@ sub-a.crossmeetz.com CNAME .
 subcontent.galeria.de CNAME .
 sunshine.lillypulitzer.com CNAME .
 svc.bangkokbank.com CNAME .
+svc.ondeck.com.au CNAME .
 svc1.sc.com CNAME .
 svc2.sc.com CNAME .
 t.banking.blucurrent.org CNAME .
@@ -868,13 +870,13 @@ tm.regions.com CNAME .
 tm.regionsqa.com CNAME .
 tm.regionstest.com CNAME .
 tm.solidgate.com CNAME .
-tm.stats.fashionforhome.de CNAME .
 tm.stats.home24.at CNAME .
 tm.stats.home24.be CNAME .
 tm.stats.home24.ch CNAME .
 tm.stats.home24.de CNAME .
 tm.stats.home24.it CNAME .
 tm.stats.home24.nl CNAME .
+tm.stoiximan.com.cy CNAME .
 tm.stoiximan.gr CNAME .
 tm.summit-services.ca CNAME .
 tm.tbcbank.uz CNAME .

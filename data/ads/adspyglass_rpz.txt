@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -68,6 +68,7 @@ a.dajex.club CNAME .
 a.digitalgiftshopping.com CNAME .
 a.donyandmark.xyz CNAME .
 a.everymark.xyz CNAME .
+a.famestporn.com CNAME .
 a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.fuckamouth.com CNAME .
@@ -224,7 +225,6 @@ b.sonorousporn.com CNAME .
 b1.hentaibaka.one CNAME .
 b1.maturesexvideos.pro CNAME .
 babynaz.xyz CNAME .
-bac221.skin CNAME .
 backpub.mom CNAME .
 bambao.lol CNAME .
 bambao.xyz CNAME .
@@ -271,6 +271,7 @@ cdn3.cartoonporn.to CNAME .
 cdn3.hentaihand.com CNAME .
 cdn3.hentaihaven.fun CNAME .
 cdn3.hentok.com CNAME .
+cdn3.r34comix.com CNAME .
 cdn5.cartoonporn.to CNAME .
 cdn5.hentaihaven.fun CNAME .
 cesbr.spinna.store CNAME .
@@ -351,11 +352,9 @@ gulto.xyz CNAME .
 h-ay.com CNAME .
 h.bloblohub.com CNAME .
 hegdcrxavrtk.cdnvideo3.com CNAME .
-hehe686.lol CNAME .
 help.fanza.cc CNAME .
 hetaer.xyz CNAME .
 heyyou.spinna.shop CNAME .
-hi999.mom CNAME .
 hitfuck.icu CNAME .
 hizgame.mom CNAME .
 hoakz.xyz CNAME .
@@ -408,9 +407,6 @@ js.phoenixmanga.com CNAME .
 js.xemkqxs.com CNAME .
 jx3.freepornobook.com CNAME .
 k.bloblohub.com CNAME .
-kembuck.homes CNAME .
-ken9.lol CNAME .
-kena9.mom CNAME .
 kfioeld.spinna.shop CNAME .
 khoilive.xyz CNAME .
 kingtus.pics CNAME .
@@ -424,7 +420,6 @@ l.bloblohub.com CNAME .
 l9zkm.pleasedonotblockme.com CNAME .
 lammaou.xyz CNAME .
 larasub.conxxx.pro CNAME .
-lc1982.lol CNAME .
 leefang.lol CNAME .
 lengtikto.xyz CNAME .
 lixir.wargers.org CNAME .
@@ -433,12 +428,14 @@ load.try-games.com CNAME .
 lol.globlax.com CNAME .
 losa.mkace.net CNAME .
 lx5.homeporntuber.com CNAME .
+m.bloblohub.com CNAME .
 m.x-power.info CNAME .
 m.xrum.info CNAME .
 m9xp1.hentaigold.net CNAME .
 maioux.xyz CNAME .
 makumva.all-usanomination.com CNAME .
 mamamia.vintageporno.stream CNAME .
+mambus.xyz CNAME .
 mangoga.xyz CNAME .
 mangtoz.xyz CNAME .
 maxcdn.dmm-video.online CNAME .
@@ -510,11 +507,11 @@ ok.fapnow.xxx CNAME .
 ok.faptor.com CNAME .
 ok.hqbang.com CNAME .
 ok.starwank.com CNAME .
+ontj.com CNAME .
 open.oksrv.com CNAME .
 opus.sexyxxx.biz CNAME .
 orderz.lol CNAME .
 orznp.spinna.store CNAME .
-outshutop.mom CNAME .
 outya.xyz CNAME .
 ox8.topsexhdvideos.com CNAME .
 ozoj.com CNAME .
@@ -522,7 +519,6 @@ p.hgfdtujlknhkghf.site CNAME .
 p.strjuylfrjyk.site CNAME .
 p.upskirt.tv CNAME .
 p123p.com CNAME .
-p1t.clipnuke.com CNAME .
 pakenta.xyz CNAME .
 pampela.lol CNAME .
 pamtuea.xyz CNAME .
@@ -533,7 +529,6 @@ parkurl.com CNAME .
 pempiz.xyz CNAME .
 penapne.xyz CNAME .
 pengenanu.files.im CNAME .
-pep929.mom CNAME .
 pihu.xxxpornhd.pro CNAME .
 pivo.tracked.one CNAME .
 pizzazz.lol CNAME .
@@ -544,6 +539,7 @@ pornve.sexyadsrun.com CNAME .
 pornvideos.casa CNAME .
 possibily.com CNAME .
 pppe.7mmtv.top CNAME .
+pqaz.xyz CNAME .
 pre.03porno.com CNAME .
 pre.102porno.club CNAME .
 pre.102porno.net CNAME .
@@ -553,13 +549,11 @@ pre.myfuck.club CNAME .
 pre.pornuxaxa.com CNAME .
 pred.7mmtv.top CNAME .
 profield.ddns.net CNAME .
-pub88.mom CNAME .
 pubbucks.homes CNAME .
 px9.nuderedtube.com CNAME .
 pxgtus.xxxspark.com CNAME .
 qatak.beauty CNAME .
 qhip.com CNAME .
-qoqv.com CNAME .
 qoutec.shop CNAME .
 qsdr.mysunnylawn.com CNAME .
 quickzo.xyz CNAME .
@@ -578,6 +572,7 @@ rst.pornyhd.com CNAME .
 rtgy3r5.jav-7mmtv.top CNAME .
 rxxx.baijav.com CNAME .
 s.freeporncave.com CNAME .
+s.isoporno.com CNAME .
 s.oralblow.com CNAME .
 s.remonti.org CNAME .
 s1sentablya.teenfuckhd.com CNAME .
@@ -734,4 +729,3 @@ zhaner.xyz CNAME .
 zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 zzzzaaa.baijav.com CNAME .
-ontj.com CNAME .

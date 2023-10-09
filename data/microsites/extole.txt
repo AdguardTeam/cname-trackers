@@ -122,7 +122,6 @@
 ||tellapal.register.com^
 ||tellapal.web.com^
 ||www.trevoce.com^
-||amp.bfr.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
 ||externalreferral.freshworks.com^
@@ -174,7 +173,6 @@
 ||refer.batesfootwear.com^
 ||refer.bathandbodyworks.com^
 ||refer.baxterofcalifornia.com^
-||refer.bfr.com^
 ||refer.bioionic.com^
 ||refer.bobstores.com^
 ||refer.booksy.com^
@@ -196,6 +194,7 @@
 ||refer.chicosofftherack.com^
 ||refer.childrensplace.com^
 ||refer.cinemark.com^
+||refer.citizenwatch.com^
 ||refer.clarksusa.com^
 ||refer.codecademy.com^
 ||refer.colemancanada.ca^
@@ -427,6 +426,7 @@
 ||share.battlecreekenquirer.com^
 ||share.beaspermdonor.com^
 ||share.biblejourney.com^
+||share.bjs.com^
 ||share.boden.co.uk^
 ||share.boden.fr^
 ||share.bodenclothing.com.au^

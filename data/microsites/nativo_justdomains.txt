@@ -1,6 +1,7 @@
 #
 # Company name: Nativo
 c333.macworld.co.uk
+img.nativo.net
 sponsor.syracuse.com
 00c0a62f0c.de65e1286b.com
 00f62a6f1c.8f0f3b8464.com
@@ -18,6 +19,7 @@ sponsor.syracuse.com
 088d98f687.7a3b147921.com
 0a6dd928ef.4e16adfea5.com
 0b07b901e2.42de2de7b1.com
+0b1b9dbb23.2b60794b99.com
 0b615d2390.53570bbe42.com
 0b8d3535ca.d675b32d34.com
 0c5b5ba32e.bf0a4afaf5.com
@@ -55,6 +57,7 @@ sponsor.syracuse.com
 2547cd401b.d8a452e2da.com
 26e33d5110.b91c577b4d.com
 2899425181.c169b1582f.com
+2a1b1b81ae.2fcde24f87.com
 2a4f7c2be4.558c41c6ef.com
 2a5f6f9e90.b07109f884.com
 2a98a4b811.a2a2fd6dd1.com
@@ -78,7 +81,6 @@ sponsor.syracuse.com
 3717363a26.e2ef790422.com
 3788041701.99018f340b.com
 37a37e5db9.1fb99d15c4.com
-38a29cb310.eea605742d.com
 3a5807e727.9d2852b15a.com
 3a73fe20ac.d1da55a0b9.com
 3ab4c791d1.fef32df9aa.com
@@ -119,7 +121,6 @@ sponsor.syracuse.com
 531a51d349.0d55d13cf1.com
 5366c7a4fb.a74242f89f.com
 53b06a6b24.b30674b49e.com
-53f90ea18c.ad64463ef9.com
 55479d4a4f.e97fff7188.com
 56a7ca381c.a4de9aca80.com
 570bfb615e.f3de94ee1e.com
@@ -134,6 +135,7 @@ sponsor.syracuse.com
 5d4e559c09.4250665e93.com
 5e90a3a3f8.85d9d90c71.com
 5f50953e05.4a277bbf1a.com
+60152c575a.015fcec3c6.com
 61ba0b3eaa.41166be14c.com
 62b00ced28.39373b8701.com
 62c8cf5cd7.9f30f66189.com
@@ -145,7 +147,6 @@ sponsor.syracuse.com
 64ff5ac46a.5f1202853b.com
 6539a7f33f.2a83afe612.com
 659cf6a582.a5c431d2e7.com
-65eb50053b.3cb004e947.com
 66d7c2e32f.843acfbeb0.com
 67116813c6.89504d460b.com
 68c2f33440.691c37268a.com
@@ -160,6 +161,7 @@ sponsor.syracuse.com
 70832e4e42.1c8a98da68.com
 710434b975.6de8cd75aa.com
 71a779e11d.3e6490d30a.com
+71e67c8a8f.96c50eb804.com
 727eee8d0c.d65941bfa8.com
 7471ccf72a.31385ffb82.com
 749e473277.b6deee8a5f.com
@@ -224,21 +226,21 @@ sponsor.syracuse.com
 9e4a8a6859.1f031f585b.com
 9e813c2770.3227a4c431.com
 9ea415bca3.0816086bd1.com
+9fd272d79c.2f16d429ce.com
 a108652c62.f78f9d3fc2.com
 a10b5740ba.239333b133.com
 a2f288701d.a4334cc1ec.com
 a390770006.41291ba668.com
-a6270385bc.560fe03925.com
 a9c3a4315a.59e15e749d.com
 a9d40d3ddf.7811f1c9ec.com
 ac8b9eaf81.db2f8e1acc.com
-ad02b0144f.b06fcca6fd.com
 ad7a6fddf6.f37d6b16c3.com
 adf189dcd8.14badb5195.com
 ae24dd5f87.e9c576b358.com
 af158e4bd8.7b39be508c.com
 af4b7a0c7f.45136f1b12.com
 b06462f6f9.a2e137d716.com
+b34760008c.8def8c352d.com
 b46ccb8d87.3829e58bb1.com
 b56d33d644.b72e4b93d9.com
 b598b37764.ce6fdab0f2.com
@@ -261,7 +263,6 @@ c36700d174.46febd8df8.com
 c37ed72d5a.f5fd936867.com
 c4686b1d62.0b617f0769.com
 c481e18aa3.e2078be122.com
-c504d3250f.52c9f48b14.com
 c580712027.ffcc2964d9.com
 c6605baadd.2d6a7b9179.com
 c6644ac158.2ae70a6814.com
@@ -322,9 +323,9 @@ f05f18119a.635a022421.com
 f102547b70.5f6d8a5f78.com
 f1763f2f87.f4f8fb91df.com
 f1ab40b1ac.91a3c37128.com
-f33772ce13.749cad1027.com
 f43bb3465e.10eafd09d6.com
 f571f387dc.2e51ef91bb.com
+f7edea5919.fce9830ba4.com
 f9630bc2e3.6afd255116.com
 f9aa8dba65.2e14072eac.com
 f9f4465362.0d4146061c.com
@@ -339,6 +340,8 @@ ff04a1538a.ced4d66e2d.com
 ff18e0b495.eeecc0e343.com
 ff6840b5f0.338d2db673.com
 a135.wftv.com
+a235.gametimect.com
+mlive.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
 a135.fox23.com
@@ -372,7 +375,6 @@ infoworld.share.ntv.io
 ksn.share.ntv.io
 littlethings.share.ntv.io
 miamiherald.share.ntv.io
-mlive.share.ntv.io
 mortgagesolutions.share.ntv.io
 motortrend.share.ntv.io
 mynorthwest.share.ntv.io
@@ -392,11 +394,9 @@ wvtm13.share.ntv.io
 a135.htvnativeadsolutions.com
 a235.htvnativeadsolutions.com
 a235.lmtonline.com
-a235.mrt.com
 a235.myplainview.com
 a235.nhregister.com
 a235.ourmidland.com
 a235.registercitizen.com
 a235.stamfordadvocate.com
 a235.thehour.com
-a235.timesunion.com

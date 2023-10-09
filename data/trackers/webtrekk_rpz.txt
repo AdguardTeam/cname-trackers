@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ pix.telekom-dienste.de CNAME .
 pix.telekom.de CNAME .
 pixel.augsburger-allgemeine.de CNAME .
 prophet.heise.de CNAME .
+service.hcob-bank.de CNAME .
 spr.bild.de CNAME .
 startrekk.flaconi.de CNAME .
 sub1.cosmosdirekt.de CNAME .

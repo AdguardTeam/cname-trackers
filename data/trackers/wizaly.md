@@ -40,6 +40,7 @@
     * tk-little-big-change-com.wizaly.com
     * tk-lulli-sur-la-toile-com.wizaly.com
     * tk-m6boutique-com.wizaly.com
+    * tk-macif-fr.wizaly.com
     * tk-maison123-com.wizaly.com
     * tk-manouvellevoiture-com.wizaly.com
     * tk-moveyourfit-com.wizaly.com
@@ -122,6 +123,7 @@
 | tk.little-big-change.com | tk-little-big-change-com.wizaly.com |
 | tk.lulli-sur-la-toile.com | tk-lulli-sur-la-toile-com.wizaly.com |
 | tk.m6boutique.com | tk-m6boutique-com.wizaly.com |
+| tk.macif.fr | tk-macif-fr.wizaly.com |
 | tk.maison123.com | tk-maison123-com.wizaly.com |
 | tk.manouvellevoiture.com | tk-manouvellevoiture-com.wizaly.com |
 | tk.moveyourfit.com | tk-moveyourfit-com.wizaly.com |

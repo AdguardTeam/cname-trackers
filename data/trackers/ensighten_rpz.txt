@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ activate.courant.com CNAME .
 activate.dailypress.com CNAME .
 activate.dailysouthtown.com CNAME .
 activate.delmartimes.net CNAME .
+activate.discoversd.com CNAME .
 activate.elgincouriernews.com CNAME .
 activate.encinitasadvocate.com CNAME .
 activate.ferguson.com CNAME .
@@ -56,6 +57,7 @@ activate.ranchosantafereview.com CNAME .
 activate.redeyechicago.com CNAME .
 activate.sandiegouniontribune.com CNAME .
 activate.shopjustice.com CNAME .
+activate.southflorida.com CNAME .
 activate.sun-sentinel.com CNAME .
 activate.suncorp.com.au CNAME .
 activate.tidewaterreview.com CNAME .
@@ -281,6 +283,7 @@ privacy.latitudefinancial.com CNAME .
 privacy.latitudefinancial.com.au CNAME .
 privacy.latitudepay.com CNAME .
 privacy.tigerbeer.com CNAME .
+privacy.umiloans.com.au CNAME .
 privacy.uwm.com CNAME .
 privacy.zoll.com CNAME .
 pulse.delta.com CNAME .
@@ -304,6 +307,7 @@ smt.jcpenney.com CNAME .
 sst.dell.com CNAME .
 sst.homegoods.com CNAME .
 sst.johnlewis.com CNAME .
+sst.marshalls.com CNAME .
 sst.nab.com.au CNAME .
 sst.tjmaxx.tjx.com CNAME .
 suncorp.activate.ensighten.com CNAME .

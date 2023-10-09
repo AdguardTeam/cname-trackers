@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -272,7 +272,6 @@ cattle.herojob.de CNAME .
 cattle.kirkebaekke.dk CNAME .
 cattle.kumo.at CNAME .
 cattle.meets.beer CNAME .
-cattle.mes-renovateurs.com CNAME .
 cattle.musikschule-bregenzerwald.at CNAME .
 cattle.spiral11.com CNAME .
 cattle.weiss-bregenz.at CNAME .
@@ -623,7 +622,6 @@ krill.far.site CNAME .
 krill.spoonrage.com CNAME .
 krill.swiss-uke.ch CNAME .
 ks42zt.spec.fm CNAME .
-ladybug.cargolabs.com CNAME .
 ladybug.ethanprintz.com CNAME .
 ladybug.paulstovell.com CNAME .
 lamprey.carolcassar.com CNAME .

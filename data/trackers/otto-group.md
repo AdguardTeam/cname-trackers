@@ -13,7 +13,6 @@
     * te-frankonia-com.oghub.io
     * te-frankonia-de.oghub.io
     * te-frankoniamoda-ch.oghub.io
-    * te-heine-at.oghub.io
     * te-heine-ch.oghub.io
     * te-heine-de.oghub.io
     * te-heine-shop-nl.oghub.io
@@ -23,16 +22,17 @@
     * te-mirapodo-de.oghub.io
     * te-mytoys-de.oghub.io
     * te-otto-de.oghub.io
-    * te-schwab-de.oghub.io
+    * te-ottoversand-at.oghub.io
     * te-sheego-de.oghub.io
+    * te-sieh-an-at.oghub.io
     * te-sieh-an-ch.oghub.io
+    * te-sieh-an-de.oghub.io
     * te-waeschepur-de.oghub.io
     * te-witt-international-cz.oghub.io
     * te-witt-international-nl.oghub.io
     * te-witt-international-sk.oghub.io
     * te-witt-weiden-at.oghub.io
     * te-witt-weiden-ch.oghub.io
-    * te-witt-weiden-de.oghub.io
     * te-yomonda-de.oghub.io
     * te-your-look-for-less-nl.oghub.io
     * te-your-look-for-less-se.oghub.io
@@ -57,6 +57,7 @@
     * tp-ottoversand-at.oghub.io
     * tp-quelle-de.oghub.io
     * tp-sheego-de.oghub.io
+    * tp-sieh-an-at.oghub.io
     * tp-universal-at.oghub.io
     * tp-witt-international-cz.oghub.io
     * tp-witt-international-nl.oghub.io
@@ -103,6 +104,7 @@
 | tp.quelle.de | js.oghub.io |
 | tp.sheego.de | js.oghub.io |
 | tp.sheego.de | js.oghub.io |
+| tp.sieh-an.at | js.oghub.io |
 | tp.sieh-an.ch | js.oghub.io |
 | tp.sieh-an.de | js.oghub.io |
 | tp.universal.at | js.oghub.io |
@@ -131,7 +133,6 @@
 | te.frankonia.com | te-frankonia-com.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
 | te.frankoniamoda.ch | te-frankoniamoda-ch.oghub.io |
-| te.heine.at | te-heine-at.oghub.io |
 | te.heine.ch | te-heine-ch.oghub.io |
 | te.heine.de | te-heine-de.oghub.io |
 | te.heine-shop.nl | te-heine-shop-nl.oghub.io |
@@ -141,16 +142,17 @@
 | te.mirapodo.de | te-mirapodo-de.oghub.io |
 | te.mytoys.de | te-mytoys-de.oghub.io |
 | te.otto.de | te-otto-de.oghub.io |
-| te.schwab.de | te-schwab-de.oghub.io |
+| te.ottoversand.at | te-ottoversand-at.oghub.io |
 | te.sheego.de | te-sheego-de.oghub.io |
+| te.sieh-an.at | te-sieh-an-at.oghub.io |
 | te.sieh-an.ch | te-sieh-an-ch.oghub.io |
+| te.sieh-an.de | te-sieh-an-de.oghub.io |
 | te.waeschepur.de | te-waeschepur-de.oghub.io |
 | te.witt-international.cz | te-witt-international-cz.oghub.io |
 | te.witt-international.nl | te-witt-international-nl.oghub.io |
 | te.witt-international.sk | te-witt-international-sk.oghub.io |
 | te.witt-weiden.at | te-witt-weiden-at.oghub.io |
 | te.witt-weiden.ch | te-witt-weiden-ch.oghub.io |
-| te.witt-weiden.de | te-witt-weiden-de.oghub.io |
 | te.yomonda.de | te-yomonda-de.oghub.io |
 | te.your-look-for-less.nl | te-your-look-for-less-nl.oghub.io |
 | te.your-look-for-less.se | te-your-look-for-less-se.oghub.io |
@@ -184,7 +186,6 @@
 | te.quelle.at | te.oghub.io |
 | te.quelle.ch | te.oghub.io |
 | te.quelle.de | te.oghub.io |
-| te.schwab.de | te.oghub.io |
 | te.schwab.de | te.oghub.io |
 | te.sheego.de | te.oghub.io |
 | te.sieh-an.at | te.oghub.io |
@@ -223,6 +224,7 @@
 | tp.ottoversand.at | tp-ottoversand-at.oghub.io |
 | tp.quelle.de | tp-quelle-de.oghub.io |
 | tp.sheego.de | tp-sheego-de.oghub.io |
+| tp.sieh-an.at | tp-sieh-an-at.oghub.io |
 | tp.universal.at | tp-universal-at.oghub.io |
 | tp.witt-international.cz | tp-witt-international-cz.oghub.io |
 | tp.witt-international.nl | tp-witt-international-nl.oghub.io |

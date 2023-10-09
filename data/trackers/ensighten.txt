@@ -16,6 +16,7 @@
 ||activate.dailypress.com^
 ||activate.dailysouthtown.com^
 ||activate.delmartimes.net^
+||activate.discoversd.com^
 ||activate.elgincouriernews.com^
 ||activate.encinitasadvocate.com^
 ||activate.ferguson.com^
@@ -45,6 +46,7 @@
 ||activate.redeyechicago.com^
 ||activate.sandiegouniontribune.com^
 ||activate.shopjustice.com^
+||activate.southflorida.com^
 ||activate.sun-sentinel.com^
 ||activate.suncorp.com.au^
 ||activate.tidewaterreview.com^
@@ -270,6 +272,7 @@
 ||privacy.latitudefinancial.com.au^
 ||privacy.latitudepay.com^
 ||privacy.tigerbeer.com^
+||privacy.umiloans.com.au^
 ||privacy.uwm.com^
 ||privacy.zoll.com^
 ||pulse.delta.com^
@@ -293,6 +296,7 @@
 ||sst.dell.com^
 ||sst.homegoods.com^
 ||sst.johnlewis.com^
+||sst.marshalls.com^
 ||sst.nab.com.au^
 ||sst.tjmaxx.tjx.com^
 ||suncorp.activate.ensighten.com^

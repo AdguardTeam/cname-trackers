@@ -117,7 +117,6 @@
 ||jinx.skullctf.com^
 ||joy.ochronus.online^
 ||kaladyaudiology.ericksonbuilt.com^
-||kekw.givetip.to^
 ||kingsandqueens.splowser.com^
 ||l.lilyzhou.com^
 ||l2k30jsa.theochu.com^
@@ -160,7 +159,6 @@
 ||pa-stats.encore.dev^
 ||pa.opqr.co^
 ||pa.travelwhiz.app^
-||pan.render.com^
 ||peards.zevvle.com^
 ||pine.clk.click^
 ||pine.nervecentral.com^
@@ -292,7 +290,6 @@
 ||plausible.tlschedule.com^
 ||plausible.treelightsoftware.com^
 ||plausible.umbrellaanalytics.net^
-||plausible.uptime.dk^
 ||plausible.urbanekuensteruhr.de^
 ||plausible.vaughanesports.org^
 ||plausible.veszelovszki.com^
@@ -307,7 +304,6 @@
 ||pls.skycastle.dev^
 ||plsbl-staging.edison.se^
 ||plsbl.edison.se^
-||prism.buerokrucker.ch^
 ||prism.drivingkyoto.com^
 ||prism.netherlandlines.com^
 ||prism.pablonouvelle.com^
@@ -386,7 +382,6 @@
 ||stats.aixbrain.de^
 ||stats.albert-kropp-gmbh.de^
 ||stats.alibhai.co^
-||stats.aligncoaching.ca^
 ||stats.alleaktien.de^
 ||stats.alocreativa.com^
 ||stats.am.ai^
@@ -435,7 +430,6 @@
 ||stats.bmxdevils.be^
 ||stats.book-rec.com^
 ||stats.booncon.com^
-||stats.bopomavillages.org^
 ||stats.bordspel.org^
 ||stats.boscabeatha.ie^
 ||stats.breathly.app^
@@ -453,7 +447,6 @@
 ||stats.callum.fyi^
 ||stats.carrot2.org^
 ||stats.carrotsearch.com^
-||stats.cascadeinstitute.org^
 ||stats.caseydunham.com^
 ||stats.cassidyjames.com^
 ||stats.catholicluv.com^
@@ -466,11 +459,9 @@
 ||stats.chomp.haus^
 ||stats.chronoslabs.net^
 ||stats.cinqsecondes.fr^
-||stats.citizenos.com^
 ||stats.clavisaurea.xyz^
 ||stats.cleverdiabetic.com^
 ||stats.cloud-backup-for-podio.com^
-||stats.coachingcourses.pro^
 ||stats.coachinghive.com^
 ||stats.code-it-studio.de^
 ||stats.codeexposed.com^
@@ -504,7 +495,6 @@
 ||stats.davydepauw.be^
 ||stats.dawn.md^
 ||stats.declanbyrd.co.uk^
-||stats.deescut.com^
 ||stats.deja-lu.de^
 ||stats.depends-on-the-definition.com^
 ||stats.designerpowerup.com^
@@ -582,14 +572,12 @@
 ||stats.frantic.im^
 ||stats.frenlo.com^
 ||stats.fs4c.org^
-||stats.fullofwishes.co.uk^
 ||stats.fundimmo.com^
 ||stats.fungus.computer^
 ||stats.fwdkit.com^
 ||stats.galeb.org^
 ||stats.galleriacortona.com^
 ||stats.gbc.uk^
-||stats.geckoartist.com^
 ||stats.genoplev.dk^
 ||stats.geobox.app^
 ||stats.gerard.fun^
@@ -623,7 +611,6 @@
 ||stats.hey.science^
 ||stats.hhpro.net^
 ||stats.homepage-2021.askmiso-dev.com^
-||stats.homerdixon.com^
 ||stats.homestow.com^
 ||stats.hostfactor.io^
 ||stats.hpz-scharnhausen.de^
@@ -633,9 +620,7 @@
 ||stats.huysmanbouw.be^
 ||stats.iamzero.dev^
 ||stats.ibuildings.net^
-||stats.ideologicalconflict.org^
 ||stats.iefg.org^
-||stats.ifiwasgame.com^
 ||stats.igassmann.me^
 ||stats.igor4stir.com^
 ||stats.in-tuition.net^
@@ -653,7 +638,6 @@
 ||stats.ipadhire.co.nz^
 ||stats.isabelsommerfeld.com^
 ||stats.iscc-system.org^
-||stats.islandcoffee.ca^
 ||stats.isthispoisonivy.website^
 ||stats.ivankahl.com^
 ||stats.ivs.rocks^
@@ -663,13 +647,11 @@
 ||stats.jamhouse.app^
 ||stats.jansix.at^
 ||stats.jasonludden.dev^
-||stats.jawebb.se^
 ||stats.jdheyburn.co.uk^
 ||stats.jerickson.net^
 ||stats.jhsheridan.com^
 ||stats.jjude.com^
 ||stats.joaopedro.dev^
-||stats.jonatanalvarsson.se^
 ||stats.jpc.dev^
 ||stats.jsbible.com^
 ||stats.jtrees.io^
@@ -678,7 +660,6 @@
 ||stats.justinwilliams.ca^
 ||stats.jvhellemond.nl^
 ||stats.kaladyaudiology.com^
-||stats.kambr.io^
 ||stats.katharinascheitz.com^
 ||stats.keirwhitaker.com^
 ||stats.kendix.org^
@@ -718,7 +699,6 @@
 ||stats.lik.fr^
 ||stats.lilacphilly.org^
 ||stats.limitlessnetworks.eu^
-||stats.lindalindsaysculpture.com^
 ||stats.lippeshirts.de^
 ||stats.literacysomerset.org^
 ||stats.literaturkreis.online^
@@ -925,7 +905,6 @@
 ||stats.suenicholls.com^
 ||stats.suggestedit.com^
 ||stats.suniboy.com^
-||stats.sunpeaksstables.com^
 ||stats.suominaikidoacademy.com^
 ||stats.sushibyte.io^
 ||stats.svemir.co^
@@ -939,13 +918,11 @@
 ||stats.terre-compagne.fr^
 ||stats.terribleprojectideas.com^
 ||stats.textprotocol.org^
-||stats.thedale.org^
 ||stats.theiere-tasse.com^
 ||stats.thelandofar.be^
 ||stats.thenewradiance.com^
 ||stats.thingsthatkeepmeupatnight.dev^
 ||stats.thomasbandt.com^
-||stats.thomasfroese.com^
 ||stats.thomasvitale.com^
 ||stats.tijdschrift.zenleven.nl^
 ||stats.time2unfold.com^
@@ -958,7 +935,6 @@
 ||stats.tms-institut.de^
 ||stats.tnc.sc^
 ||stats.toiletmap.org.uk^
-||stats.torquaypac.ca^
 ||stats.training.fit^
 ||stats.travelfodder.com^
 ||stats.trenntoi.de^
@@ -966,7 +942,6 @@
 ||stats.trigo.at^
 ||stats.trimbles.ie^
 ||stats.trussed.dev^
-||stats.tsas.ca^
 ||stats.tubecalculator.co.uk^
 ||stats.twhl.xyz^
 ||stats.twirrl.co^
@@ -1039,3 +1014,4 @@
 ||webstats.bijenpatel.com^
 ||yolo.philipbjorge.com^
 ||zahlen.olereissmann.de^
+||stats.citizenos.com^

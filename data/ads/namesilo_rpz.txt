@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696233614333        ; Serial
+           1696838416415        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -561,6 +561,7 @@ $TTL 300
 3572303.notifysrv.com CNAME .
 3572904.notifysrv.com CNAME .
 3576907.notifysrv.com CNAME .
+3578231.notify6.com CNAME .
 3578239.notify6.com CNAME .
 3578253.notifysrv.com CNAME .
 3580293.notifysrv.com CNAME .
@@ -966,6 +967,7 @@ a.etology.com CNAME .
 a.native7.com CNAME .
 a.paradoxgroup.uk CNAME .
 a.redpathmedia.com CNAME .
+a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
 a.slice.exchange CNAME .
 a.stuffserve.com CNAME .
@@ -974,6 +976,7 @@ admin.adnation.com CNAME .
 admin.adstuff.io CNAME .
 admin.etology.com CNAME .
 admin.gettopple.com CNAME .
+admin.shafttraffic.com CNAME .
 api.adnation.com CNAME .
 api.getblaze.app CNAME .
 api.slice.exchange CNAME .
@@ -1053,6 +1056,7 @@ s.paradoxgroup.co CNAME .
 s.paradoxgroup.uk CNAME .
 s.pemsrv.com CNAME .
 s.redpathmedia.com CNAME .
+s.rocoads.net CNAME .
 s.slice.exchange CNAME .
 s.st1net.com CNAME .
 s.stuffserve.com CNAME .
@@ -1101,10 +1105,10 @@ www.3191479.notifysrv.com CNAME .
 www.3227697.notify6.com CNAME .
 www.3243082.notifysrv.com CNAME .
 www.3466863.notify6.com CNAME .
+www.3815579.notify6.com CNAME .
 www.3881818.notify6.com CNAME .
 www.4152316.notify6.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 xn--3225689-o06c.notifysrv.com CNAME .
-admin.shafttraffic.com CNAME .

@@ -26,6 +26,7 @@
 | a.ad.guru | cds.d6n9n7e2.hwcdn.net |
 | a.addisplaynetwork.com | cds.d6n9n7e2.hwcdn.net |
 | a.adnflow.com | cds.d6n9n7e2.hwcdn.net |
+| a.adsession.com | cds.d6n9n7e2.hwcdn.net |
 | a.asvsm.com | cds.d6n9n7e2.hwcdn.net |
 | a.bizonads-ssp.com | cds.d6n9n7e2.hwcdn.net |
 | a.etology.com | cds.d6n9n7e2.hwcdn.net |
@@ -594,6 +595,7 @@
 | 3572303.notifysrv.com | tk6if76q.ab1n.net |
 | 3572904.notifysrv.com | tk6if76q.ab1n.net |
 | 3576907.notifysrv.com | tk6if76q.ab1n.net |
+| 3578231.notify6.com | tk6if76q.ab1n.net |
 | 3578239.notify6.com | tk6if76q.ab1n.net |
 | 3578253.notifysrv.com | tk6if76q.ab1n.net |
 | 3580293.notifysrv.com | tk6if76q.ab1n.net |
@@ -1046,6 +1048,7 @@
 | s.paradoxgroup.uk | tk6if76q.ab1n.net |
 | s.pemsrv.com | tk6if76q.ab1n.net |
 | s.redpathmedia.com | tk6if76q.ab1n.net |
+| s.rocoads.net | tk6if76q.ab1n.net |
 | s.slice.exchange | tk6if76q.ab1n.net |
 | s.st1net.com | tk6if76q.ab1n.net |
 | s.stuffserve.com | tk6if76q.ab1n.net |
@@ -1093,6 +1096,7 @@
 | www.3227697.notify6.com | tk6if76q.ab1n.net |
 | www.3243082.notifysrv.com | tk6if76q.ab1n.net |
 | www.3466863.notify6.com | tk6if76q.ab1n.net |
+| www.3815579.notify6.com | tk6if76q.ab1n.net |
 | www.3881818.notify6.com | tk6if76q.ab1n.net |
 | www.4152316.notify6.com | tk6if76q.ab1n.net |
 | www.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
@@ -1105,6 +1109,7 @@
 | admin.adstuff.io | v3j9t5q9.ab1n.net |
 | admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
+| admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | a.a3ion.com | w2u4v9e1.ab1n.net |
 | a.ad.guru | w2u4v9e1.ab1n.net |
 | a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
@@ -1116,6 +1121,7 @@
 | a.native7.com | w2u4v9e1.ab1n.net |
 | a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |
+| a.rocoads.net | w2u4v9e1.ab1n.net |
 | a.santabrowser.com | w2u4v9e1.ab1n.net |
 | a.slice.exchange | w2u4v9e1.ab1n.net |
 | a.stuffserve.com | w2u4v9e1.ab1n.net |
