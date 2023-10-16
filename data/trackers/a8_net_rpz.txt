@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -74,7 +74,6 @@ a8.cyclemarket.jp CNAME .
 a8.cypris-online.jp CNAME .
 a8.daredemomobile.com CNAME .
 a8.de-limmo.jp CNAME .
-a8.deep2031.com CNAME .
 a8.degicashop.com CNAME .
 a8.denki-koji.work CNAME .
 a8.denki-tatsujin.com CNAME .
@@ -111,7 +110,6 @@ a8.freeconsultant.btcagent.jp CNAME .
 a8.freeengineer.btcagent.jp CNAME .
 a8.fujiorganics.com CNAME .
 a8.fxism.jp CNAME .
-a8.gaichu-taiji.com CNAME .
 a8.gaizyu-taiji.com CNAME .
 a8.gekisapo.com CNAME .
 a8.geo-online.co.jp CNAME .
@@ -805,6 +803,7 @@ a8cv.forza-gran.com CNAME .
 a8cv.fots.jp CNAME .
 a8cv.fp-life.design CNAME .
 a8cv.frecious.jp CNAME .
+a8cv.free-max.com CNAME .
 a8cv.freeks-japan.com CNAME .
 a8cv.fujiplus.jp CNAME .
 a8cv.fukuoka-factoring.net CNAME .
@@ -1368,4 +1367,3 @@ wnform.www.trecenti.com CNAME .
 www.a8clk.amelia.ne.jp CNAME .
 www.a8clk.kanagawa-zero.com CNAME .
 yoiku-sub.yoiku.support CNAME .
-a8cv.stg.moneybank.co.jp CNAME .

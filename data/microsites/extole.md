@@ -395,6 +395,7 @@
     * partsvu.extole.io
     * paulmitchell.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -457,6 +458,7 @@
     * sizigi.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
+    * skycop.extole.io
     * skyone-federal-credit-union.extole.io
     * sleepnumber.extole.io
     * smartcu.extole.io
@@ -973,6 +975,7 @@
 | share.paulmitchell.com | paulmitchell.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -984,6 +987,7 @@
 | indique.phooto.com.br | phooto.extole.com |
 | share.pilotcoffeeroasters.com | pilotcoffeeroasters.extole.io |
 | refer.pimsleur.com | pimsleur.extole.io |
+| refer.cbdpillow.com | plush-beds.extole.io |
 | refer.ecoterrabeds.com | plush-beds.extole.io |
 | refer.plushbeds.com | plush-beds.extole.io |
 | share.policygenius.com | policygenius.extole.io |
@@ -1062,6 +1066,7 @@
 | go.joinsizigi.com | sizigi.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
+| share.skycop.com | skycop.extole.io |
 | refer.skyone.org | skyone-federal-credit-union.extole.io |
 | refer.sleepnumber.com | sleepnumber.extole.io |
 | share.smartcu.org | smartcu.extole.io |

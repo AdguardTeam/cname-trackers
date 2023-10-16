@@ -20,7 +20,6 @@
     * redirect521.tagcommander.com
     * redirect622.tagcommander.com
     * redirect685.tagcommander.com
-    * redirect837.tagcommander.com
     * redirect891.tagcommander.com
     * ypg.tagcommander.com
 
@@ -33,6 +32,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | acquisition.klm.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
+| configure.adlermode.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.auchandirect.fr | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.decathlon.it | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.ouigo.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
@@ -60,6 +60,5 @@
 | tagcommander.laredoute.be | redirect521.tagcommander.com |
 | data.ubi.com | redirect622.tagcommander.com |
 | data.ricaud.com | redirect685.tagcommander.com |
-| configure.adlermode.com | redirect837.tagcommander.com |
 | data.wptag.net | redirect891.tagcommander.com |
 | logger.yp.ca | ypg.tagcommander.com |

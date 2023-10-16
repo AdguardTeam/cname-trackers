@@ -96,6 +96,7 @@
     * h-8uj1s5zr.online-metrix.net
     * h-96ch0zc2.online-metrix.net
     * h-9bkavv7r.online-metrix.net
+    * h-9f85se8g.online-metrix.net
     * h-9ivuwf8u.online-metrix.net
     * h-9kqz9786.online-metrix.net
     * h-9yw99lm5.online-metrix.net
@@ -106,6 +107,7 @@
     * h-accountonline.online-metrix.net
     * h-accurint.online-metrix.net
     * h-ad2y6kcr.online-metrix.net
+    * h-addisonlee.online-metrix.net
     * h-adp.online-metrix.net
     * h-af1jjj0t.online-metrix.net
     * h-afterpay.online-metrix.net
@@ -195,7 +197,6 @@
     * h-canyon.online-metrix.net
     * h-cardinalcommerce.online-metrix.net
     * h-cards.citidirect.online-metrix.net
-    * h-cargurus.online-metrix.net
     * h-carhistory.online-metrix.net
     * h-cas.online-metrix.net
     * h-cbd.online-metrix.net
@@ -299,6 +300,7 @@
     * h-disney.online-metrix.net
     * h-dlp-unionbank.online-metrix.net
     * h-dnp-cdms.online-metrix.net
+    * h-doregtzf.online-metrix.net
     * h-draftkings.online-metrix.net
     * h-drav45kl.online-metrix.net
     * h-drbo60la.online-metrix.net
@@ -771,6 +773,7 @@
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.ke | h-5pxao9h8.online-metrix.net |
 | secure.jumia.co.za | h-5pxao9h8.online-metrix.net |
+| secure.jumia.com.dz | h-5pxao9h8.online-metrix.net |
 | secure.jumia.com.eg | h-5pxao9h8.online-metrix.net |
 | secure.jumia.com.gh | h-5pxao9h8.online-metrix.net |
 | secure.jumia.com.ng | h-5pxao9h8.online-metrix.net |
@@ -833,6 +836,7 @@
 | req.secured-content.com | h-8uj1s5zr.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
+| wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
 | contendvc.cnouyi.pizza | h-9kqz9786.online-metrix.net |
 | dvc0271.play.jackpocket.com | h-9yw99lm5.online-metrix.net |
@@ -846,6 +850,7 @@
 | cdnfp.lexisnexisrisk.com | h-accurint.online-metrix.net |
 | cdnfp.lexisnexisrisk.eu | h-accurint.online-metrix.net |
 | bifpt.pepperfinance.es | h-ad2y6kcr.online-metrix.net |
+| content.addisonlee.com | h-addisonlee.online-metrix.net |
 | image.online.adp.com | h-adp.online-metrix.net |
 | auth2.corelogic.asia | h-af1jjj0t.online-metrix.net |
 | rsx.afterpay.com | h-afterpay.online-metrix.net |
@@ -962,7 +967,6 @@
 | content.canyon.com | h-canyon.online-metrix.net |
 | tm-out.cardinalcommerce.com | h-cardinalcommerce.online-metrix.net |
 | cmprofile.cards.citidirect.com | h-cards.citidirect.online-metrix.net |
-| img4.cargurus.com | h-cargurus.online-metrix.net |
 | tmx.carhistory.com.au | h-carhistory.online-metrix.net |
 | osn-cirrus.cas.org | h-cas.online-metrix.net |
 | tm.cbd.ae | h-cbd.online-metrix.net |
@@ -986,6 +990,7 @@
 | contentneworks.nebraska.gov | h-cesikaps.online-metrix.net |
 | device.invoice2go.com | h-ceurt9zj.online-metrix.net |
 | dp.barclaycardus.com | h-cfi32dc4.online-metrix.net |
+| dp.barclaysus.com | h-cfi32dc4.online-metrix.net |
 | content.nebraska.gov | h-cgfjrfto.online-metrix.net |
 | content2.paywerk.co | h-cgvf1sqx.online-metrix.net |
 | pov.spectrum.net | h-charter.online-metrix.net |
@@ -1094,6 +1099,7 @@
 | fp.disney.go.com | h-disney.online-metrix.net |
 | lpo.unionbank.com | h-dlp-unionbank.online-metrix.net |
 | acsweb-3dr1.dnp-cdms.jp | h-dnp-cdms.online-metrix.net |
+| asanalytics.booking.com | h-doregtzf.online-metrix.net |
 | tmximg.draftkings.com | h-draftkings.online-metrix.net |
 | content.wizink.es | h-drav45kl.online-metrix.net |
 | payments.hd-plus.de | h-drbo60la.online-metrix.net |
@@ -1325,6 +1331,7 @@
 | tulips.metrobankonline.co.uk | h-metrobank.online-metrix.net |
 | msimkpups.michaels.com | h-michaels.online-metrix.net |
 | vlscppe.microsoft.com | h-microsoft.online-metrix.net |
+| tmck.indigocard.com | h-milestonegoldcard.online-metrix.net |
 | tmck.milestonegoldcard.com | h-milestonegoldcard.online-metrix.net |
 | scdn.missionlane.com | h-missionlane.online-metrix.net |
 | directinfo.ib.mizuhobank.co.jp | h-mizuhobank.online-metrix.net |

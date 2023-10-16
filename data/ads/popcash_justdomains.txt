@@ -14,6 +14,7 @@ cdn.barlo.xyz
 cdn.bhlph.com
 cdn.buram.xyz
 cdn.cabhwq.com
+cdn.calcpol.com
 cdn.cjlph.com
 cdn.crsope.com
 cdn.decpo.xyz
@@ -183,7 +184,6 @@ bluejay.postmediagroup.com
 bluejay.schreinerei-virnich.de
 bluejay.wearegray.com
 boa.auaesthetics.com
-boa.karenwhooley.com
 boa.nolongerset.com
 boa.prostamped.com
 boar.hopehollow.com
@@ -398,7 +398,6 @@ eel.cuabuilders.com
 eel.tunspress.com
 egret.brothers.studio
 egret.friendships.me
-elephant.stempelwiese.de
 elephant.superdense.com
 elk.andrewfomera.com
 elk.itiden.se

@@ -102,13 +102,13 @@
     * 489164258023327.wt-eu02.net
     * 495967780350059.wt-eu02.net
     * 517717528680725.wt-eu02.net
-    * 524633908170120.wt-eu02.net
     * 524656123914087.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
     * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
     * 587628343151442.wt-eu02.net
+    * 590341552297239.wt-eu02.net
     * 590838755166551.wt-eu02.net
     * 598189357306993.wt-eu02.net
     * 600483262075260.wt-eu02.net
@@ -156,6 +156,7 @@
     * 865411762489824.wt-eu02.net
     * 877979016491790.wt-eu02.net
     * 893825625040746.wt-eu02.net
+    * 913761141602487.wt-eu02.net
     * 927703597199732.wt-eu02.net
     * 929152463666423.wt-eu02.net
     * 949365393396887.wt-eu02.net
@@ -227,7 +228,6 @@
 | mit.deutschewealth.com | 117490221505998.wt-eu02.net |
 | intelligence.officialwesthamstore.com | 125611812418194.wt-eu02.net |
 | mapp.ewm.co.uk | 145003564476173.wt-eu02.net |
-| admin.wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | wbtrkk.teufelaudio.nl | 148749046266446.wt-eu02.net |
 | web.sensilab.com | 151836596491843.wt-eu02.net |
 | web.sensilab.cz | 151836596491843.wt-eu02.net |
@@ -325,7 +325,6 @@
 | web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
-| web.friends.ellaskitchen.co.uk | 524633908170120.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
@@ -337,6 +336,7 @@
 | web.e.pbslgroup.co.uk | 587628343151442.wt-eu02.net |
 | web.e.professionalbuildingsupplies.co.uk | 587628343151442.wt-eu02.net |
 | web.e.pvccladding.com | 587628343151442.wt-eu02.net |
+| webanalytics.also.com | 590341552297239.wt-eu02.net |
 | wbtrkk.teufelaudio.fr | 590838755166551.wt-eu02.net |
 | wbtrkk.teufelaudio.be | 598189357306993.wt-eu02.net |
 | web.mapp.tretti.se | 600483262075260.wt-eu02.net |
@@ -395,6 +395,7 @@
 | wt.generalibewegtdeutschland.de | 865411762489824.wt-eu02.net |
 | mit.deutschebank.be | 877979016491790.wt-eu02.net |
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
+| web.newsletterit.esprinet.com | 913761141602487.wt-eu02.net |
 | count.bank99.at | 927703597199732.wt-eu02.net |
 | web.email.turtlebay.co.uk | 929152463666423.wt-eu02.net |
 | web.autobodytoolmart.com | 949365393396887.wt-eu02.net |
@@ -404,7 +405,6 @@
 | mit.researchlog.dbresearch.com | 965607891904117.wt-eu02.net |
 | mit.researchlog.dbresearch.de | 965607891904117.wt-eu02.net |
 | abc.bayer04.de | 969665527401678.wt-eu02.net |
-| dnsbl.test.wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | web.info.teamwarrior.com | 987593120374077.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |

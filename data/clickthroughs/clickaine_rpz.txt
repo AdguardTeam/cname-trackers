@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -108,6 +108,8 @@ k8.usefto.com CNAME .
 mail.7porn.ru CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .
+p.porn0hd.online CNAME .
+p.russ-porno.net CNAME .
 pi4.piczhq.com CNAME .
 ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .

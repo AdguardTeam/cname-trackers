@@ -14,7 +14,6 @@
 ### Rarely active trackers
 
 * cds.d6n9n7e2.hwcdn.net
-* cds.v3j9t5q9.hwcdn.net
 
 ## Cloaking domains
 
@@ -33,16 +32,11 @@
 | a.native7.com | cds.d6n9n7e2.hwcdn.net |
 | a.paradoxgroup.uk | cds.d6n9n7e2.hwcdn.net |
 | a.redpathmedia.com | cds.d6n9n7e2.hwcdn.net |
+| a.rocoads.net | cds.d6n9n7e2.hwcdn.net |
 | a.santabrowser.com | cds.d6n9n7e2.hwcdn.net |
 | a.slice.exchange | cds.d6n9n7e2.hwcdn.net |
 | a.stuffserve.com | cds.d6n9n7e2.hwcdn.net |
 | delivery.gettopple.com | cds.d6n9n7e2.hwcdn.net |
-| admin.ad.guru | cds.v3j9t5q9.hwcdn.net |
-| admin.adnation.com | cds.v3j9t5q9.hwcdn.net |
-| admin.adstuff.io | cds.v3j9t5q9.hwcdn.net |
-| admin.etology.com | cds.v3j9t5q9.hwcdn.net |
-| admin.gettopple.com | cds.v3j9t5q9.hwcdn.net |
-| admin.shafttraffic.com | cds.v3j9t5q9.hwcdn.net |
 | rtb.ad.guru | ka8ing2z.ab1n.net |
 | rtb.advertrek.com | ka8ing2z.ab1n.net |
 | rtb.exoclick.com | ka8ing2z.ab1n.net |
@@ -88,6 +82,7 @@
 | 3169269.notifysrv.com | tk6if76q.ab1n.net |
 | 3170223.notifysrv.com | tk6if76q.ab1n.net |
 | 3171253.notifysrv.com | tk6if76q.ab1n.net |
+| 3171864.notify6.com | tk6if76q.ab1n.net |
 | 3171864.notifysrv.com | tk6if76q.ab1n.net |
 | 3172914.notifysrv.com | tk6if76q.ab1n.net |
 | 3173432.notifysrv.com | tk6if76q.ab1n.net |
@@ -216,6 +211,7 @@
 | 3243082.notifysrv.com | tk6if76q.ab1n.net |
 | 3245102.notifysrv.com | tk6if76q.ab1n.net |
 | 3246524.notifysrv.com | tk6if76q.ab1n.net |
+| 3248488.notify6.com | tk6if76q.ab1n.net |
 | 3249470.notifysrv.com | tk6if76q.ab1n.net |
 | 3249648.notify6.com | tk6if76q.ab1n.net |
 | 3250420.notify6.com | tk6if76q.ab1n.net |
@@ -664,6 +660,7 @@
 | 3662557.notifysrv.com | tk6if76q.ab1n.net |
 | 3662563.notifysrv.com | tk6if76q.ab1n.net |
 | 3662591.notifysrv.com | tk6if76q.ab1n.net |
+| 3662593.notifysrv.com | tk6if76q.ab1n.net |
 | 3662595.notifysrv.com | tk6if76q.ab1n.net |
 | 3662601.notifysrv.com | tk6if76q.ab1n.net |
 | 3662839.notify6.com | tk6if76q.ab1n.net |
@@ -695,6 +692,7 @@
 | 3727723.notifysrv.com | tk6if76q.ab1n.net |
 | 3728675.notifysrv.com | tk6if76q.ab1n.net |
 | 3730893.notifysrv.com | tk6if76q.ab1n.net |
+| 3731701.notify6.com | tk6if76q.ab1n.net |
 | 3733283.notifysrv.com | tk6if76q.ab1n.net |
 | 3733673.notifysrv.com | tk6if76q.ab1n.net |
 | 3739013.notify6.com | tk6if76q.ab1n.net |
@@ -990,6 +988,7 @@
 | 993.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | _sip._tcp.meet.3393147.notifysrv.com | tk6if76q.ab1n.net |
 | _sips._tcp.3323174.notifysrv.com | tk6if76q.ab1n.net |
+| click.advertrek.com | tk6if76q.ab1n.net |
 | engine.gettopple.com | tk6if76q.ab1n.net |
 | m.hue2m.com | tk6if76q.ab1n.net |
 | main.adxnow.com | tk6if76q.ab1n.net |
@@ -1093,6 +1092,7 @@
 | t.optzsrv.com | tk6if76q.ab1n.net |
 | www.12.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | www.3191479.notifysrv.com | tk6if76q.ab1n.net |
+| www.3207695.notify6.com | tk6if76q.ab1n.net |
 | www.3227697.notify6.com | tk6if76q.ab1n.net |
 | www.3243082.notifysrv.com | tk6if76q.ab1n.net |
 | www.3466863.notify6.com | tk6if76q.ab1n.net |
@@ -1127,6 +1127,12 @@
 | a.stuffserve.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
 | *.exaapi.com | x0xmrxm4.ab1n.net |
+| admin.ad.guru | x0xmrxm4.ab1n.net |
+| admin.adnation.com | x0xmrxm4.ab1n.net |
+| admin.adstuff.io | x0xmrxm4.ab1n.net |
+| admin.etology.com | x0xmrxm4.ab1n.net |
+| admin.gettopple.com | x0xmrxm4.ab1n.net |
+| admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | api.adnation.com | x0xmrxm4.ab1n.net |
 | api.getblaze.app | x0xmrxm4.ab1n.net |
 | api.slice.exchange | x0xmrxm4.ab1n.net |

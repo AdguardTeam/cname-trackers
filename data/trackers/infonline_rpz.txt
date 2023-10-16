@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ acsam-script.agof.de CNAME .
 c4b720ded1.apps.iocnt.de CNAME .
 data-00460c60fa.eurotransport.de CNAME .
 data-007f9d19c8.sbz-monteur.de CNAME .
+data-009c74b736.yesss.at CNAME .
 data-00c4a5bd11.rockland.fm CNAME .
 data-0142dcfbcf.yacht.de CNAME .
 data-016ae3225f.baugewerbe-magazin.de CNAME .
@@ -31,6 +32,7 @@ data-019a21151c.apps.iocnt.de CNAME .
 data-01a19c0522.apps.iocnt.de CNAME .
 data-01a4b5d23e.sport.de CNAME .
 data-01bd19c0b0.nq-online.de CNAME .
+data-01c47ceea9.wienerin.at CNAME .
 data-01d50fd151.versicherungsjournal.de CNAME .
 data-01df4c6e0c.apps.iocnt.de CNAME .
 data-01e876a345.tichyseinblick.de CNAME .
@@ -749,6 +751,7 @@ data-58595d10ca.apps.iocnt.de CNAME .
 data-588cbce106.springerprofessional.de CNAME .
 data-589866a496.laut.de CNAME .
 data-58c1deb8c2.apps.iocnt.de CNAME .
+data-595db38f76.woman.at CNAME .
 data-597aebc8e1.spox.com CNAME .
 data-59a3f7fb00.ksta.de CNAME .
 data-59d0914c04.wetter.com CNAME .
@@ -1144,6 +1147,7 @@ data-8cc19d99e5.deutsche-handwerks-zeitung.de CNAME .
 data-8cca49835e.apps.iocnt.de CNAME .
 data-8d3bec589f.schwaebische.de CNAME .
 data-8d5185014c.apps.iocnt.de CNAME .
+data-8d9711db79.gusto.at CNAME .
 data-8dfcf84b38.rundschau-online.de CNAME .
 data-8dffad7d98.photovoltaik.eu CNAME .
 data-8e96b6cfc5.gelbeseiten.de CNAME .
@@ -1411,6 +1415,7 @@ data-ab8e72b54c.einstieg.com CNAME .
 data-ab96b76d6a.wochenblatt.net CNAME .
 data-ac3d45df06.jetzt.de CNAME .
 data-ac3d45df06.sueddeutsche.de CNAME .
+data-ac53158cce.apps.iocnt.de CNAME .
 data-ac54d3e2fa.boersenblatt.net CNAME .
 data-ace3993871.winario.de CNAME .
 data-ace571875f.petra.de CNAME .
@@ -1542,8 +1547,10 @@ data-be8e6a7af1.bvz.at CNAME .
 data-be9b6161bf.aponet.de CNAME .
 data-bf19ff21b6.apps.iocnt.de CNAME .
 data-bff71da19f.apps.iocnt.de CNAME .
+data-c05bf504b4.gesund24.at CNAME .
 data-c061012ba4.bisafans.de CNAME .
 data-c062efa4b8.arboe.at CNAME .
+data-c08b160129.theviennareview.at CNAME .
 data-c0c484e9be.funke-next-level.tv CNAME .
 data-c0c484e9be.funke.fun CNAME .
 data-c0c484e9be.goldenekamera.de CNAME .
@@ -1619,6 +1626,7 @@ data-c5b0f9d827.grazia-magazin.de CNAME .
 data-c5c818f755.zaubertopf.de CNAME .
 data-c626640336.ichreise.at CNAME .
 data-c626b9efa7.versicherungsmagazin.de CNAME .
+data-c62d8895bb.n-tv.de CNAME .
 data-c63b112bf0.radiosiegen.de CNAME .
 data-c63b992bb9.connect-living.de CNAME .
 data-c63b992bb9.pc-magazin.de CNAME .
@@ -1681,6 +1689,7 @@ data-cf8fd9b799.integrale-planung.net CNAME .
 data-cf8fd9b799.sanitaerjournal.de CNAME .
 data-cf8fd9b799.shk-at-work.de CNAME .
 data-cf8fd9b799.tga-contentbase.de CNAME .
+data-cfdfd62451.apps.iocnt.de CNAME .
 data-cfe819bed5.playboy.de CNAME .
 data-d03ddf25a3.wissenschaft.de CNAME .
 data-d0a45359d6.apps.iocnt.de CNAME .
@@ -2088,6 +2097,7 @@ data-fa2d848059.aachener-zeitung.de CNAME .
 data-fa2d848059.fupa.net CNAME .
 data-fa3432c50a.donaukurier.de CNAME .
 data-fa3432c50a.ingolstadt-today.de CNAME .
+data-fa59f9f6b5.kronberger-lichtspiele.de CNAME .
 data-fb37a1e7c3.cannstatter-zeitung.de CNAME .
 data-fb37a1e7c3.esslinger-zeitung.de CNAME .
 data-fb37a1e7c3.frankenpost.de CNAME .
@@ -2144,6 +2154,7 @@ data-fdf4690b14.reviersport.de CNAME .
 data-fdf4690b14.waz.de CNAME .
 data-fdf4690b14.wp.de CNAME .
 data-fdf4690b14.wr.de CNAME .
+data-fe32da0431.news.at CNAME .
 data-fe34715c33.zi-online.info CNAME .
 data-fe452b2ed9.ok-magazin.de CNAME .
 data-fe7ee41789.apps.iocnt.de CNAME .

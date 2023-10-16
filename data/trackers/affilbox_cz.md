@@ -462,6 +462,7 @@
 | partner.breakout.cz | cz.affilbox.cz |
 | partner.brilianty.cz | cz.affilbox.cz |
 | partner.brillbird.cz | cz.affilbox.cz |
+| partner.bydlimekrasne.cz | cz.affilbox.cz |
 | partner.cakemarket.eu | cz.affilbox.cz |
 | partner.calita.cz | cz.affilbox.cz |
 | partner.candy.cz | cz.affilbox.cz |
@@ -629,7 +630,6 @@
 | partner.pletemesi.cz | cz.affilbox.cz |
 | partner.plotmarket.sk | cz.affilbox.cz |
 | partner.plotshop.sk | cz.affilbox.cz |
-| partner.pneugumy.cz | cz.affilbox.cz |
 | partner.pod7kilo.cz | cz.affilbox.cz |
 | partner.pozitivnerozpravky.sk | cz.affilbox.cz |
 | partner.pradoch.cz | cz.affilbox.cz |
@@ -665,7 +665,6 @@
 | partner.stickersmakers.com | cz.affilbox.cz |
 | partner.stromkyonline.cz | cz.affilbox.cz |
 | partner.summermyles.cz | cz.affilbox.cz |
-| partner.supervyhody.cz | cz.affilbox.cz |
 | partner.susenepochoutky.cz | cz.affilbox.cz |
 | partner.susmevem.com | cz.affilbox.cz |
 | partner.svatba.cz | cz.affilbox.cz |

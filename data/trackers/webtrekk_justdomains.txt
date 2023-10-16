@@ -51,7 +51,6 @@ a.thespa.steigenberger.com
 a.zleep.com
 abc.bayer04.de
 abc.fackelmann.de
-admin.wbtrkk.teufelaudio.nl
 analytics.hermesworld.com
 analytics.myhermes.de
 app03.ikk-classic.de
@@ -111,7 +110,6 @@ di.ifolor.net
 di.ifolor.nl
 di.ifolor.se
 di.spreadmorelove.ch
-dnsbl.test.wbtrkk.teufel.de
 ed.emp-online.ch
 ed.emp-online.com
 ed.emp-online.es
@@ -280,7 +278,6 @@ web.email.theindependentpharmacy.co.uk
 web.email.turtlebay.co.uk
 web.email.umbro.co.uk
 web.email.zone3.com
-web.friends.ellaskitchen.co.uk
 web.ideaautorepair.com
 web.info.bodybuildingwarehouse.co.uk
 web.info.bodybuildingwarehouse.com
@@ -319,6 +316,7 @@ web.news.pleasefashion.com
 web.news.thebridge.it
 web.newsletter.koffer-to-go.de
 web.newsletter.viviennewestwood.com
+web.newsletterit.esprinet.com
 web.online.monnalisa.com
 web.pages.lloydspharmacy.com
 web.sensilab.com
@@ -354,6 +352,7 @@ web.tummytox.pt
 web.tummytox.sk
 web.web.tomasiauto.com
 web.x.ilpost.it
+webanalytics.also.com
 webmet.creditreform-mahnwesen.de
 webmet.creditreform.de
 website-usage.b2bendix.com

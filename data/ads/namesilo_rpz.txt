@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,6 +54,7 @@ $TTL 300
 3169269.notifysrv.com CNAME .
 3170223.notifysrv.com CNAME .
 3171253.notifysrv.com CNAME .
+3171864.notify6.com CNAME .
 3171864.notifysrv.com CNAME .
 3172914.notifysrv.com CNAME .
 3173432.notifysrv.com CNAME .
@@ -182,6 +183,7 @@ $TTL 300
 3243082.notifysrv.com CNAME .
 3245102.notifysrv.com CNAME .
 3246524.notifysrv.com CNAME .
+3248488.notify6.com CNAME .
 3249470.notifysrv.com CNAME .
 3249648.notify6.com CNAME .
 3250420.notify6.com CNAME .
@@ -630,6 +632,7 @@ $TTL 300
 3662557.notifysrv.com CNAME .
 3662563.notifysrv.com CNAME .
 3662591.notifysrv.com CNAME .
+3662593.notifysrv.com CNAME .
 3662595.notifysrv.com CNAME .
 3662601.notifysrv.com CNAME .
 3662839.notify6.com CNAME .
@@ -661,6 +664,7 @@ $TTL 300
 3727723.notifysrv.com CNAME .
 3728675.notifysrv.com CNAME .
 3730893.notifysrv.com CNAME .
+3731701.notify6.com CNAME .
 3733283.notifysrv.com CNAME .
 3733673.notifysrv.com CNAME .
 3739013.notify6.com CNAME .
@@ -980,6 +984,7 @@ admin.shafttraffic.com CNAME .
 api.adnation.com CNAME .
 api.getblaze.app CNAME .
 api.slice.exchange CNAME .
+click.advertrek.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 m.hue2m.com CNAME .
@@ -1102,6 +1107,7 @@ syndication0.exoclick.com CNAME .
 t.optzsrv.com CNAME .
 www.12.notify.bizonads-ssp.com CNAME .
 www.3191479.notifysrv.com CNAME .
+www.3207695.notify6.com CNAME .
 www.3227697.notify6.com CNAME .
 www.3243082.notifysrv.com CNAME .
 www.3466863.notify6.com CNAME .

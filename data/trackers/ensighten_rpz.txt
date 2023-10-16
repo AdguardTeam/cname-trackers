@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -132,6 +132,7 @@ cmp.cupra.be CNAME .
 cmp.dieteren.be CNAME .
 cmp.dieterengroup.com CNAME .
 cmp.microlino.be CNAME .
+cmp.microlino.fr CNAME .
 cmp.myway.be CNAME .
 cmp.porsche.be CNAME .
 cmp.seat.be CNAME .
@@ -286,6 +287,7 @@ privacy.tigerbeer.com CNAME .
 privacy.umiloans.com.au CNAME .
 privacy.uwm.com CNAME .
 privacy.zoll.com CNAME .
+privacyconsentmgmt.storable.com CNAME .
 pulse.delta.com CNAME .
 pulse.quaero.com CNAME .
 pulse.rac.co.uk CNAME .

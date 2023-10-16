@@ -35,6 +35,7 @@ ad1.tone.ne.jp
 adbq.bk.mufg.jp
 ade.deskstyle.info
 ade.hirose-fx.co.jp
+ade.jfx.co.jp
 adebis-52667624.wowma.jp
 adebis-bkan.vbest.jp
 adebis-cname.jobmall.jp
@@ -105,6 +106,7 @@ adebis.toushi-up.com
 adebis.tspot.co.jp
 adebis.urban-research.jp
 adebis.wii-clinic.jp
+adebis.windsorracket.co.jp
 adebis.zenyaku-hbshop.com
 adebis01.job-con.jp
 adebis02.juku.st
@@ -276,6 +278,7 @@ marketing.zwei.com
 matsubun.matsubun.com
 maz.zba.jp
 mcad.mods-clinic.com
+mcad.mods-clinic.info
 mdm.hibinobi-mandom.jp
 media.geinoschool-hikaku.net
 mgn.ebis.xn--olsz5f0ufw02b.net

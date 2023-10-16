@@ -105,6 +105,8 @@
 | mail.7porn.ru | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |
 | orange.arabtoons.net | api.clickaine.com |
+| p.porn0hd.online | api.clickaine.com |
+| p.russ-porno.net | api.clickaine.com |
 | pi4.piczhq.com | api.clickaine.com |
 | ps1.reallifecam.to | api.clickaine.com |
 | ps2.camcaps.to | api.clickaine.com |

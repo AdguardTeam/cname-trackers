@@ -888,7 +888,6 @@
 * u5v2k5q2.stackpathcdn.com
 * j9t6h4h8.stackpathcdn.com
 * g3d3j7p5.stackpathcdn.com
-* u4n3c5k8.stackpathcdn.com
 * p9p7a6v5.stackpathcdn.com
 * e6v7t8h7.stackpathcdn.com
 * h7i7k5w4.stackpathcdn.com
@@ -2108,7 +2107,6 @@
 | xml-eu.tri.media | trimedia.xml-eu.ak-is2.net |
 | xml-v4.tri.media | trimedia.xml-v4.ak-is2.net |
 | xml.tri.media | trimedia.xml.ak-is2.net |
-| static.adbite.com | u4n3c5k8.stackpathcdn.com |
 | static-rtb2.marketiq.com | u4v4m6r6.stackpathcdn.com |
 | static.epeex.com | u5i5h2g2.stackpathcdn.com |
 | static-rtb2.xaprio.net | u5v2k5q2.stackpathcdn.com |

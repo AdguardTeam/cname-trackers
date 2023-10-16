@@ -177,6 +177,7 @@ tr.clienti.younited-credit.com
 tr.clienti.younited-credit.it
 tr.clients-mediametrie.fr
 tr.clients.base-plus.fr
+tr.clients.boursobank.info
 tr.clients.boursorama.info
 tr.clients.europrogres.fr
 tr.clients.gemy.fr

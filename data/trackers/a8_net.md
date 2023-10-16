@@ -7,10 +7,6 @@
     * trck-v4.a8.net
     * trck.a8.net
 
-### Rarely active trackers
-
-* trek.a8.net.moneybank.co.jp
-
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -80,7 +76,6 @@
 | a8.cypris-online.jp | trck.a8.net |
 | a8.daredemomobile.com | trck.a8.net |
 | a8.de-limmo.jp | trck.a8.net |
-| a8.deep2031.com | trck.a8.net |
 | a8.degicashop.com | trck.a8.net |
 | a8.denki-koji.work | trck.a8.net |
 | a8.denki-tatsujin.com | trck.a8.net |
@@ -117,7 +112,6 @@
 | a8.freeengineer.btcagent.jp | trck.a8.net |
 | a8.fujiorganics.com | trck.a8.net |
 | a8.fxism.jp | trck.a8.net |
-| a8.gaichu-taiji.com | trck.a8.net |
 | a8.gaizyu-taiji.com | trck.a8.net |
 | a8.gekisapo.com | trck.a8.net |
 | a8.geo-online.co.jp | trck.a8.net |
@@ -810,6 +804,7 @@
 | a8cv.fots.jp | trck.a8.net |
 | a8cv.fp-life.design | trck.a8.net |
 | a8cv.frecious.jp | trck.a8.net |
+| a8cv.free-max.com | trck.a8.net |
 | a8cv.freeks-japan.com | trck.a8.net |
 | a8cv.fujiplus.jp | trck.a8.net |
 | a8cv.fukuoka-factoring.net | trck.a8.net |
@@ -1372,4 +1367,3 @@
 | www.a8clk.amelia.ne.jp | trck.a8.net |
 | www.a8clk.kanagawa-zero.com | trck.a8.net |
 | yoiku-sub.yoiku.support | trck.a8.net |
-| a8cv.stg.moneybank.co.jp | trek.a8.net.moneybank.co.jp |

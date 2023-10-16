@@ -29,6 +29,7 @@ app392.gerberlife.com
 applicant.rbfcu.org
 appschk.scotiabank.com
 appscore.credilike.me
+asanalytics.booking.com
 assessment.nj.betmgm.com
 assets.werally.co
 assets2.ihg.com
@@ -158,6 +159,7 @@ compliance.mohegansuncasino.com
 compliance.resortscasino.com
 contendvc.cnouyi.pizza
 content-uk.fundingcircle.com
+content.addisonlee.com
 content.ageas.co.uk
 content.allstate.com
 content.alterna.ca
@@ -380,6 +382,7 @@ directinfo.ib.mizuhobank.co.jp
 dol-reemployme-js01.maine.gov
 donor.cafamerica.org
 dp.barclaycardus.com
+dp.barclaysus.com
 dpf.authorize.net
 drfdisvc.walmart.com
 dt.payla.io
@@ -463,7 +466,6 @@ img3.avis.com
 img3.budget.com
 img3.forte.net
 img3.paylesscar.com
-img4.cargurus.com
 img4.nbpa.com
 img4.portal.citidirect.com
 img4.uscellular.com
@@ -681,6 +683,7 @@ secure.idbank.it
 secure.jumia.ci
 secure.jumia.co.ke
 secure.jumia.co.za
+secure.jumia.com.dz
 secure.jumia.com.eg
 secure.jumia.com.gh
 secure.jumia.com.ng
@@ -873,6 +876,7 @@ tm.telecharge.com
 tm.uship.com
 tma.caffeine.tv
 tmcdn.homeaway.com
+tmck.indigocard.com
 tmck.milestonegoldcard.com
 tmcontent.imvu.com
 tmcontent.meridiancu.ca
@@ -957,6 +961,7 @@ webftm.rbc.com
 webftm.sterbc.com
 wfp.intuit.com
 wildcard.humm.ie
+wkvjee5b.globalpay.com
 wp.kroger.com
 ww3.fundingstream.com
 ww3.marlincapitalsolutions.com

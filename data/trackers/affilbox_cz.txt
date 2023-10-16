@@ -445,6 +445,7 @@
 ||partner.breakout.cz^
 ||partner.brilianty.cz^
 ||partner.brillbird.cz^
+||partner.bydlimekrasne.cz^
 ||partner.cakemarket.eu^
 ||partner.calita.cz^
 ||partner.candy.cz^
@@ -612,7 +613,6 @@
 ||partner.pletemesi.cz^
 ||partner.plotmarket.sk^
 ||partner.plotshop.sk^
-||partner.pneugumy.cz^
 ||partner.pod7kilo.cz^
 ||partner.pozitivnerozpravky.sk^
 ||partner.pradoch.cz^
@@ -648,7 +648,6 @@
 ||partner.stickersmakers.com^
 ||partner.stromkyonline.cz^
 ||partner.summermyles.cz^
-||partner.supervyhody.cz^
 ||partner.susenepochoutky.cz^
 ||partner.susmevem.com^
 ||partner.svatba.cz^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -456,6 +456,7 @@ partner.brawolife.cz CNAME .
 partner.breakout.cz CNAME .
 partner.brilianty.cz CNAME .
 partner.brillbird.cz CNAME .
+partner.bydlimekrasne.cz CNAME .
 partner.cakemarket.eu CNAME .
 partner.calita.cz CNAME .
 partner.candy.cz CNAME .
@@ -623,7 +624,6 @@ partner.perfect-dress.eu CNAME .
 partner.pletemesi.cz CNAME .
 partner.plotmarket.sk CNAME .
 partner.plotshop.sk CNAME .
-partner.pneugumy.cz CNAME .
 partner.pod7kilo.cz CNAME .
 partner.pozitivnerozpravky.sk CNAME .
 partner.pradoch.cz CNAME .
@@ -659,7 +659,6 @@ partner.stavario.com CNAME .
 partner.stickersmakers.com CNAME .
 partner.stromkyonline.cz CNAME .
 partner.summermyles.cz CNAME .
-partner.supervyhody.cz CNAME .
 partner.susenepochoutky.cz CNAME .
 partner.susmevem.com CNAME .
 partner.svatba.cz CNAME .

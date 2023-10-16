@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,6 +40,7 @@ app392.gerberlife.com CNAME .
 applicant.rbfcu.org CNAME .
 appschk.scotiabank.com CNAME .
 appscore.credilike.me CNAME .
+asanalytics.booking.com CNAME .
 assessment.nj.betmgm.com CNAME .
 assets.werally.co CNAME .
 assets2.ihg.com CNAME .
@@ -169,6 +170,7 @@ compliance.mohegansuncasino.com CNAME .
 compliance.resortscasino.com CNAME .
 contendvc.cnouyi.pizza CNAME .
 content-uk.fundingcircle.com CNAME .
+content.addisonlee.com CNAME .
 content.ageas.co.uk CNAME .
 content.allstate.com CNAME .
 content.alterna.ca CNAME .
@@ -391,6 +393,7 @@ directinfo.ib.mizuhobank.co.jp CNAME .
 dol-reemployme-js01.maine.gov CNAME .
 donor.cafamerica.org CNAME .
 dp.barclaycardus.com CNAME .
+dp.barclaysus.com CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
 dt.payla.io CNAME .
@@ -474,7 +477,6 @@ img3.avis.com CNAME .
 img3.budget.com CNAME .
 img3.forte.net CNAME .
 img3.paylesscar.com CNAME .
-img4.cargurus.com CNAME .
 img4.nbpa.com CNAME .
 img4.portal.citidirect.com CNAME .
 img4.uscellular.com CNAME .
@@ -692,6 +694,7 @@ secure.idbank.it CNAME .
 secure.jumia.ci CNAME .
 secure.jumia.co.ke CNAME .
 secure.jumia.co.za CNAME .
+secure.jumia.com.dz CNAME .
 secure.jumia.com.eg CNAME .
 secure.jumia.com.gh CNAME .
 secure.jumia.com.ng CNAME .
@@ -884,6 +887,7 @@ tm.telecharge.com CNAME .
 tm.uship.com CNAME .
 tma.caffeine.tv CNAME .
 tmcdn.homeaway.com CNAME .
+tmck.indigocard.com CNAME .
 tmck.milestonegoldcard.com CNAME .
 tmcontent.imvu.com CNAME .
 tmcontent.meridiancu.ca CNAME .
@@ -968,6 +972,7 @@ webftm.rbc.com CNAME .
 webftm.sterbc.com CNAME .
 wfp.intuit.com CNAME .
 wildcard.humm.ie CNAME .
+wkvjee5b.globalpay.com CNAME .
 wp.kroger.com CNAME .
 ww3.fundingstream.com CNAME .
 ww3.marlincapitalsolutions.com CNAME .

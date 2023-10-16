@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -66,6 +66,7 @@ cihnqp6p65.koinly.io CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
 cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
+da6ew5ataff2.kvest.ee CNAME .
 din1j0su0u99.artwallstreet.io CNAME .
 dlziqh9bo7.boring.fm CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .

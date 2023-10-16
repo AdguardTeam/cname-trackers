@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -62,7 +62,6 @@ a.thespa.steigenberger.com CNAME .
 a.zleep.com CNAME .
 abc.bayer04.de CNAME .
 abc.fackelmann.de CNAME .
-admin.wbtrkk.teufelaudio.nl CNAME .
 analytics.hermesworld.com CNAME .
 analytics.myhermes.de CNAME .
 app03.ikk-classic.de CNAME .
@@ -122,7 +121,6 @@ di.ifolor.net CNAME .
 di.ifolor.nl CNAME .
 di.ifolor.se CNAME .
 di.spreadmorelove.ch CNAME .
-dnsbl.test.wbtrkk.teufel.de CNAME .
 ed.emp-online.ch CNAME .
 ed.emp-online.com CNAME .
 ed.emp-online.es CNAME .
@@ -291,7 +289,6 @@ web.email.theindependentpharmacy.co.uk CNAME .
 web.email.turtlebay.co.uk CNAME .
 web.email.umbro.co.uk CNAME .
 web.email.zone3.com CNAME .
-web.friends.ellaskitchen.co.uk CNAME .
 web.ideaautorepair.com CNAME .
 web.info.bodybuildingwarehouse.co.uk CNAME .
 web.info.bodybuildingwarehouse.com CNAME .
@@ -330,6 +327,7 @@ web.news.pleasefashion.com CNAME .
 web.news.thebridge.it CNAME .
 web.newsletter.koffer-to-go.de CNAME .
 web.newsletter.viviennewestwood.com CNAME .
+web.newsletterit.esprinet.com CNAME .
 web.online.monnalisa.com CNAME .
 web.pages.lloydspharmacy.com CNAME .
 web.sensilab.com CNAME .
@@ -365,6 +363,7 @@ web.tummytox.pt CNAME .
 web.tummytox.sk CNAME .
 web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
+webanalytics.also.com CNAME .
 webmet.creditreform-mahnwesen.de CNAME .
 webmet.creditreform.de CNAME .
 website-usage.b2bendix.com CNAME .

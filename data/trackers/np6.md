@@ -198,6 +198,7 @@
 | tr.clienti.younited-credit.it | tracking.bp01.net |
 | tr.clients-mediametrie.fr | tracking.bp01.net |
 | tr.clients.base-plus.fr | tracking.bp01.net |
+| tr.clients.boursobank.info | tracking.bp01.net |
 | tr.clients.boursorama.info | tracking.bp01.net |
 | tr.clients.europrogres.fr | tracking.bp01.net |
 | tr.clients.gemy.fr | tracking.bp01.net |

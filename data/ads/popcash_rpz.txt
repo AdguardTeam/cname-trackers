@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ cdn.barlo.xyz CNAME .
 cdn.bhlph.com CNAME .
 cdn.buram.xyz CNAME .
 cdn.cabhwq.com CNAME .
+cdn.calcpol.com CNAME .
 cdn.cjlph.com CNAME .
 cdn.crsope.com CNAME .
 cdn.decpo.xyz CNAME .
@@ -194,7 +195,6 @@ bluejay.postmediagroup.com CNAME .
 bluejay.schreinerei-virnich.de CNAME .
 bluejay.wearegray.com CNAME .
 boa.auaesthetics.com CNAME .
-boa.karenwhooley.com CNAME .
 boa.nolongerset.com CNAME .
 boa.prostamped.com CNAME .
 boar.hopehollow.com CNAME .
@@ -409,7 +409,6 @@ eel.cuabuilders.com CNAME .
 eel.tunspress.com CNAME .
 egret.brothers.studio CNAME .
 egret.friendships.me CNAME .
-elephant.stempelwiese.de CNAME .
 elephant.superdense.com CNAME .
 elk.andrewfomera.com CNAME .
 elk.itiden.se CNAME .

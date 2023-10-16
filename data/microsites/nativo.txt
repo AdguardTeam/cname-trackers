@@ -1,7 +1,6 @@
 !
 ! Company name: Nativo
 ||c333.macworld.co.uk^
-||img.nativo.net^
 ||sponsor.syracuse.com^
 ||00c0a62f0c.de65e1286b.com^
 ||00f62a6f1c.8f0f3b8464.com^
@@ -135,6 +134,7 @@
 ||5d4e559c09.4250665e93.com^
 ||5e90a3a3f8.85d9d90c71.com^
 ||5f50953e05.4a277bbf1a.com^
+||6002296e53.64df8e1c63.com^
 ||60152c575a.015fcec3c6.com^
 ||61ba0b3eaa.41166be14c.com^
 ||62b00ced28.39373b8701.com^
@@ -147,7 +147,6 @@
 ||64ff5ac46a.5f1202853b.com^
 ||6539a7f33f.2a83afe612.com^
 ||659cf6a582.a5c431d2e7.com^
-||66d7c2e32f.843acfbeb0.com^
 ||67116813c6.89504d460b.com^
 ||68c2f33440.691c37268a.com^
 ||696a867e8a.e048fe379c.com^
@@ -160,6 +159,7 @@
 ||6df506d68b.1708f2b5f1.com^
 ||70832e4e42.1c8a98da68.com^
 ||710434b975.6de8cd75aa.com^
+||71153f6fb9.2f20f7a413.com^
 ||71a779e11d.3e6490d30a.com^
 ||71e67c8a8f.96c50eb804.com^
 ||727eee8d0c.d65941bfa8.com^
@@ -190,6 +190,7 @@
 ||85fb7313d7.77e74062b1.com^
 ||898dd5a858.a06e054b4c.com^
 ||89af0d0300.3862ce0006.com^
+||8a2c7cb1c4.9cfcbc9209.com^
 ||8a68d01b69.11a8e92218.com^
 ||8a9aa371bb.3441134261.com^
 ||8aa53eb242.136287d626.com^
@@ -227,13 +228,12 @@
 ||9e813c2770.3227a4c431.com^
 ||9ea415bca3.0816086bd1.com^
 ||9fd272d79c.2f16d429ce.com^
-||a108652c62.f78f9d3fc2.com^
 ||a10b5740ba.239333b133.com^
-||a2f288701d.a4334cc1ec.com^
 ||a390770006.41291ba668.com^
 ||a9c3a4315a.59e15e749d.com^
 ||a9d40d3ddf.7811f1c9ec.com^
 ||ac8b9eaf81.db2f8e1acc.com^
+||acb1c4e96e.41033fcd44.com^
 ||ad7a6fddf6.f37d6b16c3.com^
 ||adf189dcd8.14badb5195.com^
 ||ae24dd5f87.e9c576b358.com^
@@ -274,8 +274,8 @@
 ||cc76f2eeaa.0692e14e66.com^
 ||cc8ffe7ceb.da1a0e7bb3.com^
 ||cc9246f1b6.4bf340a7f1.com^
-||cca691f765.ca3362de0f.com^
 ||ce972a61bd.38a2b8fa34.com^
+||cec60d517c.231f853f2a.com^
 ||cf6eefecd9.76362b26c3.com^
 ||d04674bbdd.e02b15bc59.com^
 ||d096f50112.f80ab194b8.com^
@@ -292,6 +292,7 @@
 ||da7a33716c.92be9e6be2.com^
 ||db06a54c9c.abb357b8cc.com^
 ||dbcbfd1f9e.6a3a727872.com^
+||dcbf7a3c7d.435d243e12.com^
 ||dd6f5189a3.70ba306f76.com^
 ||df3e591f6c.5d8f7f3a02.com^
 ||dfc8514de8.1ca65f5f5b.com^
@@ -323,14 +324,13 @@
 ||f102547b70.5f6d8a5f78.com^
 ||f1763f2f87.f4f8fb91df.com^
 ||f1ab40b1ac.91a3c37128.com^
-||f43bb3465e.10eafd09d6.com^
 ||f571f387dc.2e51ef91bb.com^
 ||f7edea5919.fce9830ba4.com^
 ||f9630bc2e3.6afd255116.com^
+||f9a0e80437.8ced271921.com^
 ||f9aa8dba65.2e14072eac.com^
 ||f9f4465362.0d4146061c.com^
 ||fad362ad5f.2d70ed4cc1.com^
-||fb02e621c6.1c09d36b99.com^
 ||fb76b9dc25.b714a651f4.com^
 ||fc6150a639.f7e79a5f70.com^
 ||fd3a5d1372.b435c33c6c.com^
@@ -340,10 +340,9 @@
 ||ff18e0b495.eeecc0e343.com^
 ||ff6840b5f0.338d2db673.com^
 ||a135.wftv.com^
-||a235.gametimect.com^
-||mlive.share.ntv.io^
+||a235.lmtonline.com^
+||a614.pennlive.com^
 ||share.ntv.io^
-||shared.sponsoredcontent.com^
 ||a135.fox23.com^
 ||a135.wpxi.com^
 ||a135.wsbtv.com^
@@ -352,7 +351,6 @@
 ||a614.masslive.com^
 ||a614.mlive.com^
 ||a614.nj.com^
-||a614.pennlive.com^
 ||ajc.share.ntv.io^
 ||al.share.ntv.io^
 ||automobilemag.share.ntv.io^
@@ -375,6 +373,7 @@
 ||ksn.share.ntv.io^
 ||littlethings.share.ntv.io^
 ||miamiherald.share.ntv.io^
+||mlive.share.ntv.io^
 ||mortgagesolutions.share.ntv.io^
 ||motortrend.share.ntv.io^
 ||mynorthwest.share.ntv.io^
@@ -386,6 +385,7 @@
 ||pressdemocrat.share.ntv.io^
 ||robbreport.share.ntv.io^
 ||sanduskyregister.share.ntv.io^
+||shared.sponsoredcontent.com^
 ||smosh.share.ntv.io^
 ||stamfordadvocate.share.ntv.io^
 ||travelandleisure.share.ntv.io^
@@ -393,10 +393,10 @@
 ||wvtm13.share.ntv.io^
 ||a135.htvnativeadsolutions.com^
 ||a235.htvnativeadsolutions.com^
-||a235.lmtonline.com^
 ||a235.myplainview.com^
 ||a235.nhregister.com^
 ||a235.ourmidland.com^
 ||a235.registercitizen.com^
 ||a235.stamfordadvocate.com^
 ||a235.thehour.com^
+||img.nativo.net^

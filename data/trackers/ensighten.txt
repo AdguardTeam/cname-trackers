@@ -121,6 +121,7 @@
 ||cmp.dieteren.be^
 ||cmp.dieterengroup.com^
 ||cmp.microlino.be^
+||cmp.microlino.fr^
 ||cmp.myway.be^
 ||cmp.porsche.be^
 ||cmp.seat.be^
@@ -275,6 +276,7 @@
 ||privacy.umiloans.com.au^
 ||privacy.uwm.com^
 ||privacy.zoll.com^
+||privacyconsentmgmt.storable.com^
 ||pulse.delta.com^
 ||pulse.quaero.com^
 ||pulse.rac.co.uk^

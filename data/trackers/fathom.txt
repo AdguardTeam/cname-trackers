@@ -114,7 +114,6 @@
 ||bluejay.schreinerei-virnich.de^
 ||bluejay.wearegray.com^
 ||boa.auaesthetics.com^
-||boa.karenwhooley.com^
 ||boa.nolongerset.com^
 ||boa.prostamped.com^
 ||boar.hopehollow.com^
@@ -161,7 +160,6 @@
 ||caribou.reiterstolz.com^
 ||carp.acda.app^
 ||carp.amespacios.com^
-||carp.pbncontent.com^
 ||carp.spotonevent.no^
 ||cat.acesandaros.org^
 ||cat.beunitedinchrist.com^
@@ -171,7 +169,6 @@
 ||cat.lasalturasresort.com^
 ||cat.mattr.global^
 ||cat.remotefit.io^
-||cat.serverless.quest^
 ||cat.sprucely.net^
 ||cat.thisminute.app^
 ||cat.tinylittlebusinesses.com^
@@ -328,7 +325,6 @@
 ||eel.tunspress.com^
 ||egret.brothers.studio^
 ||egret.friendships.me^
-||elephant.stempelwiese.de^
 ||elephant.superdense.com^
 ||elk.andrewfomera.com^
 ||elk.itiden.se^
@@ -408,7 +404,6 @@
 ||goat.vrds.app^
 ||goldfish.boleary.dev^
 ||goldfish.shingle.fi^
-||goldfish.untitledspreadsheet.com^
 ||goose.accountsjs.com^
 ||goose.markerchase.com^
 ||goose.pooltogether.com^
@@ -624,13 +619,11 @@
 ||meadowlark.bump.sh^
 ||meadowlark.hownow.guide^
 ||meadowlark.psynapse.no^
-||meerkat.bigcrazylife.com^
 ||meerkat.inprivy.io^
 ||meerkat.nilsmielke.me^
 ||mink.faq-bregenzerwald.com^
 ||minnow.clintwinter.me^
 ||minnow.mimosaagency.com^
-||minnow.phasemedical.com^
 ||minnow.tapas-software.net^
 ||mite.cotinga.io^
 ||mite.downtotheearth.co.uk^
@@ -850,10 +843,8 @@
 ||silkworm.energizergrouplegal.com^
 ||silkworm.hoprnet.io^
 ||silkworm.preventingsuicideinsussex.org^
-||silkworm.waspexpert.com^
 ||silkworm.westwoodmbc.org^
 ||silverfish.dailybuilds.com^
-||silverfish.djordjevanjek.com^
 ||skink.asorman.io^
 ||skink.madewithlove.com^
 ||sloth.goodtendency.app^
@@ -883,7 +874,6 @@
 ||squid.adart.cc^
 ||squid.antevo.com.au^
 ||squirrel.cividi.ch^
-||squirrel.cobaltconnect.com^
 ||squirrel.laravel-mix.com^
 ||starfish.centronoa.com^
 ||starfish.taskflow.io^
@@ -971,7 +961,6 @@
 ||vampirebat.stiftung-palliativ-zuhause.de^
 ||vampirebat.tinamrak.com^
 ||vicuna.callisoma.com^
-||vicuna.casa-moebel.at^
 ||vicuna.equity.no^
 ||vicuna.fortbinary.com^
 ||vicuna.joblicant.de^
@@ -1040,13 +1029,18 @@
 ||basilisk.community-arts.net^
 ||bee.farmaciavdg.com^
 ||bison.equals.community^
+||carp.pbncontent.com^
+||cat.serverless.quest^
 ||crow.centresustains.com^
 ||dog.recon.guru^
 ||donkey.masteringfinland.com^
 ||dove.ased.org^
+||goldfish.untitledspreadsheet.com^
 ||llama.whatcha.io^
 ||loon.analogjoe.com^
 ||mammal.nickpetrie.co^
+||meerkat.bigcrazylife.com^
+||minnow.phasemedical.com^
 ||moose.octo.app^
 ||parakeet.jorenvanhocht.be^
 ||platypus.protone.media^
@@ -1054,9 +1048,13 @@
 ||raven.omamao.ch^
 ||reindeer.dunkeldholidayhome.co.uk^
 ||sheep.peterfowler.com^
+||silkworm.waspexpert.com^
 ||silverfish.camaleon.gt^
+||silverfish.djordjevanjek.com^
+||squirrel.cobaltconnect.com^
 ||tapir.albertaguardtraining.ca^
 ||tigershark.hasanahmad.ca^
 ||tigershark.integratecolumbus.org^
+||vicuna.casa-moebel.at^
 ||walrus.blindemployment.solutions^
 ||walrus.scalue.com^

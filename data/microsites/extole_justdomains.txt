@@ -124,6 +124,7 @@ tellapal.web.com
 www.trevoce.com
 demo.extole.com
 earn-and-refer.extoleu.com
+em8928.em.petco.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -187,6 +188,7 @@ refer.caavo.com
 refer.cacique.com
 refer.calo.app
 refer.catfootwear.com
+refer.cbdpillow.com
 refer.centier.com
 refer.chacos.com
 refer.cheaptickets.com
@@ -588,6 +590,7 @@ share.shoptruespirit.com
 share.shutterstock.com
 share.simonandschuster.com
 share.skillshare.com
+share.skycop.com
 share.smartcu.org
 share.sstack.com
 share.staging.acorns.io

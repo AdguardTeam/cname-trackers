@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -46,6 +46,7 @@ ad1.tone.ne.jp CNAME .
 adbq.bk.mufg.jp CNAME .
 ade.deskstyle.info CNAME .
 ade.hirose-fx.co.jp CNAME .
+ade.jfx.co.jp CNAME .
 adebis-52667624.wowma.jp CNAME .
 adebis-bkan.vbest.jp CNAME .
 adebis-cname.jobmall.jp CNAME .
@@ -116,6 +117,7 @@ adebis.toushi-up.com CNAME .
 adebis.tspot.co.jp CNAME .
 adebis.urban-research.jp CNAME .
 adebis.wii-clinic.jp CNAME .
+adebis.windsorracket.co.jp CNAME .
 adebis.zenyaku-hbshop.com CNAME .
 adebis01.job-con.jp CNAME .
 adebis02.juku.st CNAME .
@@ -287,6 +289,7 @@ marketing.zwei.com CNAME .
 matsubun.matsubun.com CNAME .
 maz.zba.jp CNAME .
 mcad.mods-clinic.com CNAME .
+mcad.mods-clinic.info CNAME .
 mdm.hibinobi-mandom.jp CNAME .
 media.geinoschool-hikaku.net CNAME .
 mgn.ebis.xn--olsz5f0ufw02b.net CNAME .

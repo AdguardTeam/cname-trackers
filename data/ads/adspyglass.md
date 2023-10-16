@@ -5,10 +5,6 @@
 * 0i0i0i0.com
     * u50.0i0i0i0.com
 
-### Rarely active trackers
-
-* u53.hypnorat.com
-
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -319,7 +315,6 @@
 | edddd.javmilk.org | 0i0i0i0.com |
 | enrgy.fwtrck.com | 0i0i0i0.com |
 | essential.awmcash.com | 0i0i0i0.com |
-| est.pornleech.ch | 0i0i0i0.com |
 | ex8.lostporntube.com | 0i0i0i0.com |
 | f.bloblohub.com | 0i0i0i0.com |
 | f92or5.spinna.shop | 0i0i0i0.com |
@@ -396,6 +391,7 @@
 | javmost.cx.jav-7mmtv.top | 0i0i0i0.com |
 | jfhnh.spinna.store | 0i0i0i0.com |
 | jo.429men.com | 0i0i0i0.com |
+| jo.4wank.com | 0i0i0i0.com |
 | jo.fapnado.xxx | 0i0i0i0.com |
 | jo.fapnow.xxx | 0i0i0i0.com |
 | jo.hqbang.com | 0i0i0i0.com |
@@ -527,7 +523,6 @@
 | parkurl.com | 0i0i0i0.com |
 | pempiz.xyz | 0i0i0i0.com |
 | penapne.xyz | 0i0i0i0.com |
-| pengenanu.files.im | 0i0i0i0.com |
 | pihu.xxxpornhd.pro | 0i0i0i0.com |
 | pivo.tracked.one | 0i0i0i0.com |
 | pizzazz.lol | 0i0i0i0.com |
@@ -564,6 +559,7 @@
 | rdx.javmotion.com | 0i0i0i0.com |
 | redi.teengirl-pics.com | 0i0i0i0.com |
 | reklama.teenfuckhd.com | 0i0i0i0.com |
+| rosetua.xyz | 0i0i0i0.com |
 | rrree.baijav.com | 0i0i0i0.com |
 | rs.picmega.com | 0i0i0i0.com |
 | rst.pornyhd.com | 0i0i0i0.com |
@@ -615,6 +611,7 @@
 | strengk.xyz | 0i0i0i0.com |
 | stuff.wikiporno.org | 0i0i0i0.com |
 | sub.empressleak.biz | 0i0i0i0.com |
+| sub.yenidwa.com | 0i0i0i0.com |
 | sup.srvtax.com | 0i0i0i0.com |
 | super.koreanpornmovie.xyz | 0i0i0i0.com |
 | supjav.com.7mmtv.top | 0i0i0i0.com |
@@ -731,5 +728,3 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| ontj.com | u53.hypnorat.com |
-| qhip.com | u53.hypnorat.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1201,7 +1201,6 @@ static.100conversions.com CNAME .
 static.ad-maven.com CNAME .
 static.bidderleader.com CNAME .
 static.win-bidding.com CNAME .
-static.adbite.com CNAME .
 static.adcannyxml.com CNAME .
 static.adcy.net CNAME .
 static.additionaldisplay.com CNAME .

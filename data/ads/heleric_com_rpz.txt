@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -95,6 +95,7 @@ em.gangerburler.com CNAME .
 et.furivaeshotman.com CNAME .
 et.harmoutguereza.com CNAME .
 eu.balletsbeep.com CNAME .
+eu.bassoonavatara.com CNAME .
 eu.jerkytaste.com CNAME .
 ew.physciahat.com CNAME .
 ey.fifthsheet.com CNAME .
@@ -165,6 +166,7 @@ ir.turbotaedile.com CNAME .
 ix.lithatelamnoid.com CNAME .
 iy.secalinonyxis.com CNAME .
 ja.ivegrandpa.com CNAME .
+jc.licencearchean.com CNAME .
 je.guancheoutwait.com CNAME .
 je.mammeysterrae.com CNAME .
 je.sepiasfra.com CNAME .
@@ -290,8 +292,10 @@ qz.equalsenframe.com CNAME .
 ra.polyserbdom.com CNAME .
 rc.chemispelecan.com CNAME .
 rd.gamglossae.com CNAME .
+rd.pulayanyet.com CNAME .
 rg.canesbilker.com CNAME .
 rh.sirionehusky.com CNAME .
+rj.rivageroily.com CNAME .
 rj.unhaveabobra.com CNAME .
 rm.bauderylysines.com CNAME .
 rn.kiblahpithing.com CNAME .
@@ -326,6 +330,7 @@ sr.awkwardpurfles.com CNAME .
 sv.werewaught.com CNAME .
 sw.pluckysups.com CNAME .
 sy.sartishmoop.com CNAME .
+sz.createsgummous.com CNAME .
 sz.famanils.com CNAME .
 tb.nebackalien.com CNAME .
 tc.bovateoutrate.com CNAME .
@@ -368,6 +373,7 @@ ux.withinshobbist.com CNAME .
 uy.mawseednoblest.com CNAME .
 uz.gamyboxbush.com CNAME .
 va.ungracebaited.com CNAME .
+vc.rompishvariola.com CNAME .
 vd.clipserelock.com CNAME .
 vd.scapemambu.com CNAME .
 ve.gweedunweld.com CNAME .
@@ -384,6 +390,7 @@ vv.habaerashiksas.com CNAME .
 vv.tensingiseum.com CNAME .
 vw.sapidvenoms.com CNAME .
 vx.azuresjukes.com CNAME .
+vx.womerasecocide.com CNAME .
 wb.aliensplitch.com CNAME .
 wb.uncannyuneaths.com CNAME .
 wd.dimcarnie.com CNAME .
@@ -434,6 +441,7 @@ yv.remountduretto.com CNAME .
 yx.minimalmodulet.com CNAME .
 yy.bourockmights.com CNAME .
 zd.plattedrattons.com CNAME .
+ze.mahonetranvia.com CNAME .
 zf.perseuschoose.com CNAME .
 zg.butaneailment.com CNAME .
 zi.kissbluest.com CNAME .

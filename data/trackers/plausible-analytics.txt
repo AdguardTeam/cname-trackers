@@ -110,7 +110,6 @@
 ||hola.xebel.co^
 ||hstats.askmiso.com^
 ||hurricane.tinybird.co^
-||hype.zlipa.com^
 ||info.bestbudgetapps.com^
 ||informatics.filamentcolors.xyz^
 ||insights.affilimate.com^
@@ -138,7 +137,6 @@
 ||munnin.hicsuntdra.co^
 ||noushe.zevvle.com^
 ||numbers.monthlyphotos.com^
-||numbers.triplejack.com^
 ||nums.upscale.app^
 ||p.aj-foster.com^
 ||p.classroombookings.com^
@@ -216,7 +214,6 @@
 ||plausible.benscarblog.com^
 ||plausible.billfox.co^
 ||plausible.bostad.shop^
-||plausible.brandonly.me^
 ||plausible.buildfirst.tech^
 ||plausible.campwire.com^
 ||plausible.canpoi.com^
@@ -236,12 +233,10 @@
 ||plausible.f1laps.com^
 ||plausible.factly.in^
 ||plausible.flowcv.io^
-||plausible.food.game^
 ||plausible.getlean.digital^
 ||plausible.giveatip.io^
 ||plausible.goldanger.de^
 ||plausible.golfbreaks.com^
-||plausible.goose.game^
 ||plausible.gryka.net^
 ||plausible.gymglish.com^
 ||plausible.haltakov.net^
@@ -263,10 +258,7 @@
 ||plausible.myvirtualsuper.com^
 ||plausible.nickmazuk.com^
 ||plausible.nmyvsn.net^
-||plausible.nova.app^
 ||plausible.nuqu.org^
-||plausible.panic.com^
-||plausible.play.date^
 ||plausible.promlens.com^
 ||plausible.prufit.co^
 ||plausible.pumpkint.com^
@@ -340,10 +332,8 @@
 ||s.sporks.space^
 ||s.stgeorgeafc.com.au^
 ||s.testingreactjs.com^
-||s.tritoninfosec.com^
 ||s.useeffectbyexample.com^
 ||s.vucko.co^
-||s.webkilde.dk^
 ||sa.flux.community^
 ||sats.mailbrew.com^
 ||see.wasteorshare.com^
@@ -387,7 +377,6 @@
 ||stats.am.ai^
 ||stats.amaeya.media^
 ||stats.amiibo.life^
-||stats.andrewjstevens.com^
 ||stats.andrewlevinson.me^
 ||stats.appcessible.org^
 ||stats.arma.coffee^
@@ -608,7 +597,6 @@
 ||stats.hammertime.me^
 ||stats.hauke.me^
 ||stats.headhunted.com.au^
-||stats.hey.science^
 ||stats.hhpro.net^
 ||stats.homepage-2021.askmiso-dev.com^
 ||stats.homestow.com^
@@ -639,7 +627,6 @@
 ||stats.isabelsommerfeld.com^
 ||stats.iscc-system.org^
 ||stats.isthispoisonivy.website^
-||stats.ivankahl.com^
 ||stats.ivs.rocks^
 ||stats.jackwhiting.co.uk^
 ||stats.jamesevers.co.uk^
@@ -775,7 +762,6 @@
 ||stats.outpostdemo.com^
 ||stats.ownpath.xyz^
 ||stats.owre.se^
-||stats.oxygem.com^
 ||stats.p42.ai^
 ||stats.parqet.com^
 ||stats.parrot.dev^

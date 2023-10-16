@@ -1190,7 +1190,6 @@ static.100conversions.com
 static.ad-maven.com
 static.bidderleader.com
 static.win-bidding.com
-static.adbite.com
 static.adcannyxml.com
 static.adcy.net
 static.additionaldisplay.com

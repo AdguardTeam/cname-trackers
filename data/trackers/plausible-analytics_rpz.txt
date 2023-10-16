@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -121,7 +121,6 @@ hi.victorbaudot.com CNAME .
 hola.xebel.co CNAME .
 hstats.askmiso.com CNAME .
 hurricane.tinybird.co CNAME .
-hype.zlipa.com CNAME .
 info.bestbudgetapps.com CNAME .
 informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
@@ -149,7 +148,6 @@ momotaro.walkkumano.com CNAME .
 munnin.hicsuntdra.co CNAME .
 noushe.zevvle.com CNAME .
 numbers.monthlyphotos.com CNAME .
-numbers.triplejack.com CNAME .
 nums.upscale.app CNAME .
 p.aj-foster.com CNAME .
 p.classroombookings.com CNAME .
@@ -227,7 +225,6 @@ plausible.bearer.sh CNAME .
 plausible.benscarblog.com CNAME .
 plausible.billfox.co CNAME .
 plausible.bostad.shop CNAME .
-plausible.brandonly.me CNAME .
 plausible.buildfirst.tech CNAME .
 plausible.campwire.com CNAME .
 plausible.canpoi.com CNAME .
@@ -247,12 +244,10 @@ plausible.external.sine.foundation CNAME .
 plausible.f1laps.com CNAME .
 plausible.factly.in CNAME .
 plausible.flowcv.io CNAME .
-plausible.food.game CNAME .
 plausible.getlean.digital CNAME .
 plausible.giveatip.io CNAME .
 plausible.goldanger.de CNAME .
 plausible.golfbreaks.com CNAME .
-plausible.goose.game CNAME .
 plausible.gryka.net CNAME .
 plausible.gymglish.com CNAME .
 plausible.haltakov.net CNAME .
@@ -274,10 +269,7 @@ plausible.mcj.co CNAME .
 plausible.myvirtualsuper.com CNAME .
 plausible.nickmazuk.com CNAME .
 plausible.nmyvsn.net CNAME .
-plausible.nova.app CNAME .
 plausible.nuqu.org CNAME .
-plausible.panic.com CNAME .
-plausible.play.date CNAME .
 plausible.promlens.com CNAME .
 plausible.prufit.co CNAME .
 plausible.pumpkint.com CNAME .
@@ -351,10 +343,8 @@ s.saucisson-rebellion.fr CNAME .
 s.sporks.space CNAME .
 s.stgeorgeafc.com.au CNAME .
 s.testingreactjs.com CNAME .
-s.tritoninfosec.com CNAME .
 s.useeffectbyexample.com CNAME .
 s.vucko.co CNAME .
-s.webkilde.dk CNAME .
 sa.flux.community CNAME .
 sats.mailbrew.com CNAME .
 see.wasteorshare.com CNAME .
@@ -398,7 +388,6 @@ stats.alocreativa.com CNAME .
 stats.am.ai CNAME .
 stats.amaeya.media CNAME .
 stats.amiibo.life CNAME .
-stats.andrewjstevens.com CNAME .
 stats.andrewlevinson.me CNAME .
 stats.appcessible.org CNAME .
 stats.arma.coffee CNAME .
@@ -619,7 +608,6 @@ stats.halcyon.hr CNAME .
 stats.hammertime.me CNAME .
 stats.hauke.me CNAME .
 stats.headhunted.com.au CNAME .
-stats.hey.science CNAME .
 stats.hhpro.net CNAME .
 stats.homepage-2021.askmiso-dev.com CNAME .
 stats.homestow.com CNAME .
@@ -650,7 +638,6 @@ stats.ipadhire.co.nz CNAME .
 stats.isabelsommerfeld.com CNAME .
 stats.iscc-system.org CNAME .
 stats.isthispoisonivy.website CNAME .
-stats.ivankahl.com CNAME .
 stats.ivs.rocks CNAME .
 stats.jackwhiting.co.uk CNAME .
 stats.jamesevers.co.uk CNAME .
@@ -786,7 +773,6 @@ stats.otsohavanto.net CNAME .
 stats.outpostdemo.com CNAME .
 stats.ownpath.xyz CNAME .
 stats.owre.se CNAME .
-stats.oxygem.com CNAME .
 stats.p42.ai CNAME .
 stats.parqet.com CNAME .
 stats.parrot.dev CNAME .

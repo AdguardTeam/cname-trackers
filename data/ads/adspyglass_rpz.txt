@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -317,7 +317,6 @@ eco.blendxxx.com CNAME .
 edddd.javmilk.org CNAME .
 enrgy.fwtrck.com CNAME .
 essential.awmcash.com CNAME .
-est.pornleech.ch CNAME .
 ex8.lostporntube.com CNAME .
 f.bloblohub.com CNAME .
 f92or5.spinna.shop CNAME .
@@ -396,6 +395,7 @@ javmost.cx.7mmtv.top CNAME .
 javmost.cx.jav-7mmtv.top CNAME .
 jfhnh.spinna.store CNAME .
 jo.429men.com CNAME .
+jo.4wank.com CNAME .
 jo.fapnado.xxx CNAME .
 jo.fapnow.xxx CNAME .
 jo.hqbang.com CNAME .
@@ -528,7 +528,6 @@ pangtues.xyz CNAME .
 parkurl.com CNAME .
 pempiz.xyz CNAME .
 penapne.xyz CNAME .
-pengenanu.files.im CNAME .
 pihu.xxxpornhd.pro CNAME .
 pivo.tracked.one CNAME .
 pizzazz.lol CNAME .
@@ -566,6 +565,7 @@ ramosz.lol CNAME .
 rdx.javmotion.com CNAME .
 redi.teengirl-pics.com CNAME .
 reklama.teenfuckhd.com CNAME .
+rosetua.xyz CNAME .
 rrree.baijav.com CNAME .
 rs.picmega.com CNAME .
 rst.pornyhd.com CNAME .
@@ -617,6 +617,7 @@ store4porn.com CNAME .
 strengk.xyz CNAME .
 stuff.wikiporno.org CNAME .
 sub.empressleak.biz CNAME .
+sub.yenidwa.com CNAME .
 sup.srvtax.com CNAME .
 super.koreanpornmovie.xyz CNAME .
 supjav.com.7mmtv.top CNAME .

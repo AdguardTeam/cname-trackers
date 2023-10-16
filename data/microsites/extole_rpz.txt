@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -135,6 +135,7 @@ tellapal.web.com CNAME .
 www.trevoce.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em8928.em.petco.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -198,6 +199,7 @@ refer.caavo.com CNAME .
 refer.cacique.com CNAME .
 refer.calo.app CNAME .
 refer.catfootwear.com CNAME .
+refer.cbdpillow.com CNAME .
 refer.centier.com CNAME .
 refer.chacos.com CNAME .
 refer.cheaptickets.com CNAME .
@@ -599,6 +601,7 @@ share.shoptruespirit.com CNAME .
 share.shutterstock.com CNAME .
 share.simonandschuster.com CNAME .
 share.skillshare.com CNAME .
+share.skycop.com CNAME .
 share.smartcu.org CNAME .
 share.sstack.com CNAME .
 share.staging.acorns.io CNAME .

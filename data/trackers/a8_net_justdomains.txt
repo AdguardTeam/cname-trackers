@@ -63,7 +63,6 @@ a8.cyclemarket.jp
 a8.cypris-online.jp
 a8.daredemomobile.com
 a8.de-limmo.jp
-a8.deep2031.com
 a8.degicashop.com
 a8.denki-koji.work
 a8.denki-tatsujin.com
@@ -100,7 +99,6 @@ a8.freeconsultant.btcagent.jp
 a8.freeengineer.btcagent.jp
 a8.fujiorganics.com
 a8.fxism.jp
-a8.gaichu-taiji.com
 a8.gaizyu-taiji.com
 a8.gekisapo.com
 a8.geo-online.co.jp
@@ -794,6 +792,7 @@ a8cv.forza-gran.com
 a8cv.fots.jp
 a8cv.fp-life.design
 a8cv.frecious.jp
+a8cv.free-max.com
 a8cv.freeks-japan.com
 a8cv.fujiplus.jp
 a8cv.fukuoka-factoring.net
@@ -1357,4 +1356,3 @@ wnform.www.trecenti.com
 www.a8clk.amelia.ne.jp
 www.a8clk.kanagawa-zero.com
 yoiku-sub.yoiku.support
-a8cv.stg.moneybank.co.jp

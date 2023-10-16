@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1696838416415        ; Serial
+           1697443216194        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -188,6 +188,7 @@ tr.clienti.younited-credit.com CNAME .
 tr.clienti.younited-credit.it CNAME .
 tr.clients-mediametrie.fr CNAME .
 tr.clients.base-plus.fr CNAME .
+tr.clients.boursobank.info CNAME .
 tr.clients.boursorama.info CNAME .
 tr.clients.europrogres.fr CNAME .
 tr.clients.gemy.fr CNAME .
