@@ -225,6 +225,13 @@
         ]
     },
     {
+        "company_name": "Mailgun",
+        "type": "mail_tracker",
+        "domains": [
+            "mailgun.org"
+        ]
+    },
+    {
         "company_name": "NameSilo",
         "type": "ad",
         "domains": [
