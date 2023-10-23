@@ -595,7 +595,6 @@
 ||koala.getslopes.com^
 ||koala.moontells.com^
 ||koala.mynestbox.co.uk^
-||koala.quantumfirelabs.com^
 ||koala.readyfive.io^
 ||koi.artsvp.co^
 ||koi.fftf.cat^
@@ -738,7 +737,6 @@
 ||mule.reel.so^
 ||muskox.appital.io^
 ||narwhal.bounty.studio^
-||newt.getminipay.com^
 ||newt.javier.dev^
 ||newt.jordin.eu^
 ||nf1nknlw.mateforevents.com^
@@ -926,7 +924,6 @@
 ||silverfish.dailybuilds.com^
 ||silverfish.djordjevanjek.com^
 ||skink.asorman.io^
-||skink.madewithlove.com^
 ||sloth.goodtendency.app^
 ||sloth.vaalinstudio.com^
 ||sloth.vguerrerobosch.com^

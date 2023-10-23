@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ data-00460c60fa.eurotransport.de CNAME .
 data-007f9d19c8.sbz-monteur.de CNAME .
 data-009c74b736.yesss.at CNAME .
 data-00c4a5bd11.rockland.fm CNAME .
+data-00db6fbb05.yachtrevue.at CNAME .
 data-0142dcfbcf.yacht.de CNAME .
 data-016ae3225f.baugewerbe-magazin.de CNAME .
 data-0186141170.apps.iocnt.de CNAME .
@@ -95,6 +96,7 @@ data-08ab9d2892.fupa.net CNAME .
 data-08ab9d2892.volksstimme.de CNAME .
 data-08d52e2a42.handelsblatt.com CNAME .
 data-08ef81a003.sbz-online.de CNAME .
+data-09712f40c1.lustaufsleben.at CNAME .
 data-09affd727b.bft-international.com CNAME .
 data-09d76f48f8.ivz-aktuell.de CNAME .
 data-09ff4b0f07.express.de CNAME .
@@ -422,6 +424,7 @@ data-37acaca926.maedchen.de CNAME .
 data-38132d333d.e-hausaufgaben.de CNAME .
 data-3823552b7a.sport.de CNAME .
 data-382f03151d.harpersbazaar.de CNAME .
+data-389b910202.axiell.de CNAME .
 data-389b910202.moenchengladbach.de CNAME .
 data-38a153cf0d.vital.de CNAME .
 data-38a6e3d7f2.domradio.de CNAME .
@@ -1287,6 +1290,7 @@ data-9f47bd3ec3.fupa.net CNAME .
 data-9f47bd3ec3.volksstimme.de CNAME .
 data-9f52ae32a2.sicht-sonnenschutz.com CNAME .
 data-9f5f79a845.apps.iocnt.de CNAME .
+data-9f9c59bc36.ausschreibung.at CNAME .
 data-9fa9a37f64.familie.de CNAME .
 data-9fc27eb430.cineplex.de CNAME .
 data-9fcd0b641d.falstaff.com CNAME .
@@ -1411,6 +1415,7 @@ data-aae7bdcec6.autoscout24.pl CNAME .
 data-aae7bdcec6.autoscout24.ro CNAME .
 data-aae7bdcec6.autoscout24.ru CNAME .
 data-aae7bdcec6.autoscout24.se CNAME .
+data-ab14746017.autorevue.at CNAME .
 data-ab8e72b54c.einstieg.com CNAME .
 data-ab96b76d6a.wochenblatt.net CNAME .
 data-ac3d45df06.jetzt.de CNAME .
@@ -1730,6 +1735,7 @@ data-d687fc47c0.11freunde.de CNAME .
 data-d69d9a5415.aachen.de CNAME .
 data-d6a989bf01.kl-magazin.de CNAME .
 data-d6e13c60e8.orf.at CNAME .
+data-d708c3c3bc.freizeit.at CNAME .
 data-d7486a3850.nordkurier.de CNAME .
 data-d7b9b455b2.apps.iocnt.de CNAME .
 data-d815104c6c.dastelefonbuch.de CNAME .
@@ -1793,6 +1799,7 @@ data-e0e7873b34.stadtbibliothek-schwerin.de CNAME .
 data-e138bc4173.apps.iocnt.de CNAME .
 data-e159daf928.obermain.de CNAME .
 data-e16817998e.apps.iocnt.de CNAME .
+data-e16c65ad3c.antennevorarlberg.at CNAME .
 data-e18f7c3e0e.bib.dormagen.de CNAME .
 data-e1f099aeb5.apps.iocnt.de CNAME .
 data-e25e89b95d.it-daily.net CNAME .
@@ -1846,6 +1853,7 @@ data-e9983e832a.boyens-medien.de CNAME .
 data-e9b64d37c6.bbv-net.de CNAME .
 data-e9eee8419a.si-shk.de CNAME .
 data-ea06a9645c.bauhof-online.de CNAME .
+data-ea24093e1a.die-wirtschaft.at CNAME .
 data-ea7328ad58.apps.iocnt.de CNAME .
 data-ea7d084cda.wz.de CNAME .
 data-ea81aa1271.derstandard.de CNAME .
@@ -2075,6 +2083,7 @@ data-f59db3288b.webnachrichten.de CNAME .
 data-f59db3288b.werra-rundschau.de CNAME .
 data-f59db3288b.wetterauer-zeitung.de CNAME .
 data-f59db3288b.wlz-online.de CNAME .
+data-f5c51bd5b5.apps.iocnt.de CNAME .
 data-f5d00c1ea1.tageskarte.io CNAME .
 data-f5fd977e9d.getraenke-news.de CNAME .
 data-f62d7c5cdb.bergstraesser-anzeiger.de CNAME .
@@ -2157,6 +2166,7 @@ data-fdf4690b14.wr.de CNAME .
 data-fe32da0431.news.at CNAME .
 data-fe34715c33.zi-online.info CNAME .
 data-fe452b2ed9.ok-magazin.de CNAME .
+data-fe51ff732b.e-media.at CNAME .
 data-fe7ee41789.apps.iocnt.de CNAME .
 data-fe87994a5d.freenet-group.de CNAME .
 data-fe87994a5d.freenet.de CNAME .

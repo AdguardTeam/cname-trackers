@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -148,6 +148,7 @@ $TTL 300
 3210363.notifysrv.com CNAME .
 3211473.notifysrv.com CNAME .
 3212867.notifysrv.com CNAME .
+3213679.notify6.com CNAME .
 3214413.notifysrv.com CNAME .
 3214729.notify6.com CNAME .
 3214733.notifysrv.com CNAME .
@@ -937,6 +938,7 @@ $TTL 300
 4902880.notify6.com CNAME .
 4917212.notify6.com CNAME .
 4960922.notify6.com CNAME .
+5085594.notify6.com CNAME .
 535.notify.optimizesrv.com CNAME .
 5602.notify.optimizesrv.com CNAME .
 577.notify.optimizesrv.com CNAME .
@@ -965,6 +967,7 @@ a.ad.guru CNAME .
 a.addisplaynetwork.com CNAME .
 a.adnflow.com CNAME .
 a.adsession.com CNAME .
+a.advertrek.com CNAME .
 a.asvsm.com CNAME .
 a.bizonads-ssp.com CNAME .
 a.etology.com CNAME .
@@ -1000,8 +1003,6 @@ management-adguru.exads.com CNAME .
 management-adwirk.exads.com CNAME .
 management-boost.exads.com CNAME .
 management-itsup.exads.com CNAME .
-management-paradoxgroup.exads.com CNAME .
-management-paradoxmedia.exads.com CNAME .
 management-slice.exads.com CNAME .
 management-topple.exads.com CNAME .
 management-venntro.exads.com CNAME .
@@ -1010,7 +1011,6 @@ management.adxnow.com CNAME .
 origin-ads.exdynsrv.com CNAME .
 origin-ads.exosrv.com CNAME .
 origin-ads.optimizesrv.com CNAME .
-origin-ads.realsrv.com CNAME .
 rtb.ad.guru CNAME .
 rtb.advertrek.com CNAME .
 rtb.exoclick.com CNAME .

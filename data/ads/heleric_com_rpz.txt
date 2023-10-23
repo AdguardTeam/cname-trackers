@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -70,6 +70,7 @@ dc.swartlybeebee.com CNAME .
 dd.zillahhayers.com CNAME .
 dg.durgahsursize.com CNAME .
 dg.folksychapes.com CNAME .
+dh.txtcompert.com CNAME .
 di.allonymgranula.com CNAME .
 dk.cazibiukiyoe.com CNAME .
 dl.fatimacapos.com CNAME .
@@ -176,6 +177,7 @@ jj.jaupsgrimes.com CNAME .
 jk.baltisbockey.com CNAME .
 jl.reckonpretax.com CNAME .
 jm.ethylintusker.com CNAME .
+jm.fallagerampire.com CNAME .
 jo.dinahmirv.com CNAME .
 jo.maraewid.com CNAME .
 jo.tictocswended.com CNAME .
@@ -271,6 +273,7 @@ px.owdunpiled.com CNAME .
 py.darzeegobble.com CNAME .
 py.dittanyambreic.com CNAME .
 qb.falsenalice.com CNAME .
+qb.savorydult.com CNAME .
 qd.gibbarwaiting.com CNAME .
 qd.loathesentour.com CNAME .
 qe.notersmilks.com CNAME .
@@ -434,6 +437,7 @@ yh.coursgrimace.com CNAME .
 yh.jewelyavoir.com CNAME .
 yk.dissentsangir.com CNAME .
 yl.calumetjowing.com CNAME .
+yp.poxykhakis.com CNAME .
 yp.tronkparsed.com CNAME .
 yu.deggerfletton.com CNAME .
 yv.atticereqd.com CNAME .
@@ -450,6 +454,7 @@ zl.tirlszunyite.com CNAME .
 zn.glucinasileni.com CNAME .
 zp.mactraklutzes.com CNAME .
 zt.isledhaster.com CNAME .
+zw.cacajaoarmfuls.com CNAME .
 zx.plaiceagonist.com CNAME .
 zy.gazeesoter.com CNAME .
 zz.cuissenbisque.com CNAME .

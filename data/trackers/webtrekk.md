@@ -206,7 +206,6 @@
     * sportscheckde01.wt-eu02.net
     * tipp24-de01.wt-eu02.net
     * tr.computeruniverse.wt-eu02.net
-    * tweakersnl01.wt-eu02.net
     * unioninvestment-de01.wt-eu02.net
     * vhb-01.wt-eu02.net
     * volksfreund01.wt-eu02.net
@@ -594,7 +593,6 @@
 | pix.telekom-dienste.de | telekom02.webtrekk.net |
 | tippcom01.tipp24.com | tipp24-de01.wt-eu02.net |
 | tr.computeruniverse.net | tr.computeruniverse.wt-eu02.net |
-| cijfers.tweakers.nl | tweakersnl01.wt-eu02.net |
 | daten.union-investment.de | unioninvestment-de01.wt-eu02.net |
 | wt.vhb.de | vhb-01.wt-eu02.net |
 | data.volksfreund.de | volksfreund01.wt-eu02.net |

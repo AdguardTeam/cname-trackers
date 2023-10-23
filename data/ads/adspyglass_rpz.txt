@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -100,7 +100,6 @@ a.porn369.net CNAME .
 a.pornhex.com CNAME .
 a.pumpity.net CNAME .
 a.rafian.com CNAME .
-a.reryn2ce.com CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
 a.tixir.xyz CNAME .
@@ -157,6 +156,7 @@ anti.347movie.com CNAME .
 anti.nukedfans.com CNAME .
 anti.uiiumovies.net CNAME .
 antiadblock.info CNAME .
+anun.comicsarmy.com CNAME .
 api.adultsclips.com CNAME .
 apiemb.xyz CNAME .
 app.phimvu.app CNAME .
@@ -167,7 +167,6 @@ arabs.alarabsex.com CNAME .
 arabs.alarbda.com CNAME .
 arabs.arabxforum.com CNAME .
 arabs.nodzway.com CNAME .
-ard.hentaitimes.com CNAME .
 ars.comicarab.com CNAME .
 as.ebacdn.com CNAME .
 as.ebalovo.adult CNAME .
@@ -219,6 +218,7 @@ b.bloblohub.com CNAME .
 b.comihon.com CNAME .
 b.filexan.com CNAME .
 b.harehop.com CNAME .
+b.hubhubhub.name CNAME .
 b.pinetq.com CNAME .
 b.sexvids.cc CNAME .
 b.sonorousporn.com CNAME .
@@ -325,9 +325,9 @@ fddddddd.javmilk.org CNAME .
 fgy3tg.jav-7mmtv.top CNAME .
 file.marshlecdn.com CNAME .
 forads.pro CNAME .
-fortran.icu CNAME .
 free.srcdn.xyz CNAME .
 fsdss.7mmtv.top CNAME .
+fuck.hentaitimes.com CNAME .
 fuckers.nieuws.xxx CNAME .
 fw3etgf2.jav-7mmtv.top CNAME .
 fx9.freepornoboss.com CNAME .
@@ -462,6 +462,7 @@ mx6.3pornhere.com CNAME .
 my.shymilftube.com CNAME .
 mydomainbest.com CNAME .
 mylives.xyz CNAME .
+n.bloblohub.com CNAME .
 n.hnntube.com CNAME .
 n.reallifehentai.net CNAME .
 naiyoz.lol CNAME .
@@ -553,6 +554,7 @@ px9.nuderedtube.com CNAME .
 pxgtus.xxxspark.com CNAME .
 qatak.beauty CNAME .
 qhip.com CNAME .
+qoqv.com CNAME .
 qoutec.shop CNAME .
 qsdr.mysunnylawn.com CNAME .
 quickzo.xyz CNAME .
@@ -603,6 +605,7 @@ shengcu.mom CNAME .
 shenzo.xyz CNAME .
 shmeia.xyz CNAME .
 shukri.mwikace.com CNAME .
+smart.sunporno.com CNAME .
 solutions.playernetca.top CNAME .
 someboay.lol CNAME .
 sor.pornxok.com CNAME .
@@ -710,6 +713,7 @@ x.xxxbf.tv CNAME .
 x.xxxbp.tv CNAME .
 x.xxxbule.com CNAME .
 x.xxxbule.tv CNAME .
+x.xxxmovies.fun CNAME .
 x1cdn.fin.ovh CNAME .
 x2c1v4.hentaigold.net CNAME .
 x2sfa.javgg.eu CNAME .

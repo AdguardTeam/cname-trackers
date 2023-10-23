@@ -250,6 +250,7 @@
 ||p.pulse.lexus.com^
 ||p.pulse.toyota.com^
 ||pfa.levexis.com^
+||privacy-digital.mandg.com^
 ||privacy-digital.pru.co.uk^
 ||privacy.28degreescard.com.au^
 ||privacy.acaseforwomen.com^

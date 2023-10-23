@@ -49,6 +49,7 @@
 ||ccf.prod.fedex.com^
 ||cda.thecardservicescenter.com^
 ||cdle-prof.clouduim.cdle.state.co.us^
+||cdn-content.bmtx.com^
 ||cdn-east.purchase.goto.com^
 ||cdn-ln.ozk.com^
 ||cdn-s.chumbacasino.com^
@@ -167,6 +168,7 @@
 ||content.apruvd.com^
 ||content.asurion53.com^
 ||content.atmosphere.ca^
+||content.bank-abc.com^
 ||content.bankerslife.com^
 ||content.bankoncit.com^
 ||content.benefitsaccess.org^
@@ -398,6 +400,7 @@
 ||faas.marktplaats.nl^
 ||fdbplnd.zootweb.com^
 ||fdts.ebay-kleinanzeigen.de^
+||fms.perahub.com.ph^
 ||fnvma.milanuncios.com^
 ||fp.aion.be^
 ||fp.avatrade.com^
@@ -526,6 +529,7 @@
 ||mtx.thirdstream.ca^
 ||nav.sciencedirect.com^
 ||neo.fashionette.de^
+||netinf.curemd.com^
 ||nexus-svc.sc.com^
 ||nv-2.liveaction.com^
 ||ocs.ameriprise.com^
@@ -655,6 +659,7 @@
 ||rhino.gocardless.com^
 ||rm-3d84e791.payby.com^
 ||rmscheck.sbifxt.co.jp^
+||rqt-cdna.paymentncb.cofidis.fr^
 ||rsx.afterpay.com^
 ||rt.wisecartapp.com^
 ||rttm.uniondigitalbank.io^
@@ -912,6 +917,7 @@
 ||tmxjs.tokyodisneyresort.jp^
 ||tooling.ynap.biz^
 ||tools.workforcewv.org^
+||tprofile.goldmansachs.tech^
 ||tracking.psecu.com^
 ||trust.gyft.com^
 ||ts04358.picpay.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -69,7 +69,6 @@ backup.data.srf.ch CNAME .
 cdn7.baunetz.de CNAME .
 census.misterspex.at CNAME .
 census.misterspex.no CNAME .
-cijfers.tweakers.nl CNAME .
 count.bank99.at CNAME .
 da.bodenhaus.de CNAME .
 da.hornbach.at CNAME .

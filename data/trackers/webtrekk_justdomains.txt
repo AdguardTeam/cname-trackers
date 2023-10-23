@@ -58,7 +58,6 @@ backup.data.srf.ch
 cdn7.baunetz.de
 census.misterspex.at
 census.misterspex.no
-cijfers.tweakers.nl
 count.bank99.at
 da.bodenhaus.de
 da.hornbach.at

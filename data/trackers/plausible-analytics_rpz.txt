@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -64,7 +64,6 @@ analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
 analytics.valheimgamer.com CNAME .
 analytics.vanilla-project.guide CNAME .
-analytics.wayland.app CNAME .
 analytics.whostheboss.co.uk CNAME .
 analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
@@ -86,7 +85,6 @@ assets.modeathletics.com CNAME .
 assets.modehypertext.com CNAME .
 aux.lansator.ro CNAME .
 badwolf.open-election-compass.com CNAME .
-bees.beesbeesbeesbees.com CNAME .
 besucher.nona.de CNAME .
 bob.gitclear.com CNAME .
 btstats.benakt.com CNAME .
@@ -285,7 +283,6 @@ plausible.shadygrovepca.org CNAME .
 plausible.simplelogin.io CNAME .
 plausible.srijn.net CNAME .
 plausible.starlegacyfoundation.org CNAME .
-plausible.straightvisions.com CNAME .
 plausible.strzibny.name CNAME .
 plausible.sysloun.cz CNAME .
 plausible.tac.dappstar.io CNAME .
@@ -320,7 +317,6 @@ reddwarf.till-sanders.de CNAME .
 reporting.autographapp.me CNAME .
 retention.ankidecks.com CNAME .
 s.allbootdisks.com CNAME .
-s.aromapix.com CNAME .
 s.cameratico.com CNAME .
 s.crackedthecode.co CNAME .
 s.cuoresportivo.no CNAME .
@@ -333,7 +329,6 @@ s.freelanceratecalculator.com CNAME .
 s.glimesh.tv CNAME .
 s.innoq.com CNAME .
 s.inspectelement.co CNAME .
-s.kidori.com CNAME .
 s.leolabs.org CNAME .
 s.mannes.tech CNAME .
 s.maxrozen.com CNAME .
@@ -817,7 +812,6 @@ stats.processserver101.com CNAME .
 stats.procumeni.cz CNAME .
 stats.prodtype.com CNAME .
 stats.profilehunt.net CNAME .
-stats.project-tampah.com CNAME .
 stats.projectcongress.com CNAME .
 stats.psychotherapieravensburg.de CNAME .
 stats.pubfind.io CNAME .

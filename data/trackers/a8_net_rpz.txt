@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,6 +22,7 @@ a8-wpxblog.secure.wpx.ne.jp CNAME .
 a8-wpxshin.secure.wpx.ne.jp CNAME .
 a8-xshop.secure.xserver.ne.jp CNAME .
 a8.01cloud.jp CNAME .
+a8.123.rheos.jp CNAME .
 a8.2ndstreet.jp CNAME .
 a8.abemashopping.jp CNAME .
 a8.ablenet.jp CNAME .

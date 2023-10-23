@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -408,6 +408,7 @@ email-adobe.branch.rocks CNAME .
 email-appboy.branch.rocks CNAME .
 email-betaout.branch.rocks CNAME .
 email-bronto.branch.rocks CNAME .
+email-bss-new.branch.rocks CNAME .
 email-cheetahmail.branch.rocks CNAME .
 email-click-test-for-branch.vts.com CNAME .
 email-clicks.vts.com CNAME .
@@ -462,6 +463,7 @@ email.everyonesocial.bostonscientific.com CNAME .
 email.everyonesocial.circle.com CNAME .
 email.everyonesocial.colt.net CNAME .
 email.everyonesocial.coupa.com CNAME .
+email.everyonesocial.dykema.com CNAME .
 email.everyonesocial.frontier.com CNAME .
 email.everyonesocial.gumgum.com CNAME .
 email.everyonesocial.hmausa.com CNAME .
@@ -530,6 +532,7 @@ emails.travelchannel.com CNAME .
 emails.verishop.com CNAME .
 emails.watchown.tv CNAME .
 emlink.hermo.my CNAME .
+emm.ca.puma.com CNAME .
 emm.us.puma.com CNAME .
 expertsender.branch.rocks CNAME .
 fleet-eml.postmates.com CNAME .
@@ -765,6 +768,7 @@ notice.hoopladigital.com CNAME .
 notify.pray.com CNAME .
 offers.grassdoor.com CNAME .
 pbm-email.rightwayhealthcare.com CNAME .
+pint-dev-branch.airship.com CNAME .
 promo.tops.co.th CNAME .
 psmastersendgrid.branch.rocks CNAME .
 px.pandora.com CNAME .
@@ -835,6 +839,7 @@ tracking.email-mandrill.pushd.com CNAME .
 tracking.laredoute.fr CNAME .
 tracking.sp.sofi.com CNAME .
 tracking.staging.goshare.co CNAME .
+tracks.roomster.com CNAME .
 trk-branch.balinea.com CNAME .
 trk.bc.shutterfly.com CNAME .
 trk.e.underarmour.com CNAME .
@@ -864,6 +869,7 @@ url3788.blazepizza.com CNAME .
 url4142.dev.att.llabs.io CNAME .
 url485.yourname.tantawy.app CNAME .
 url5287.mail.tops.co.th CNAME .
+url5290.dev-portal.icanbwell.com CNAME .
 url6013.qa-app11-sendgrid.branch.rocks CNAME .
 url6035.clay-sendgrid-test.branch.rocks CNAME .
 url6143.branch.rocks CNAME .
@@ -1024,6 +1030,7 @@ app.awto.cl CNAME .
 app.awto.com.br CNAME .
 app.ayawalk.com CNAME .
 app.ayazona.com CNAME .
+app.babycloud.in CNAME .
 app.bajajfinservmarkets.in CNAME .
 app.ballet.org.uk CNAME .
 app.bancobv.com.br CNAME .
@@ -1314,6 +1321,7 @@ app.skideal-prod.ynadev.com CNAME .
 app.skydo.cloud CNAME .
 app.smartcredit.com CNAME .
 app.smrtp.link CNAME .
+app.snbla.com CNAME .
 app.sortedai.com CNAME .
 app.sosevents.net CNAME .
 app.soultime.com CNAME .
@@ -1454,6 +1462,7 @@ applinks.tarrakki.com CNAME .
 applinks.truckersnearby.com CNAME .
 applinks.xdressr.com CNAME .
 applinks.zerista.com CNAME .
+appointments.cureasy.com CNAME .
 appredirect.snapdeal.com CNAME .
 apps-test.spectrum-member.com CNAME .
 apps.airmeet.com CNAME .
@@ -2003,6 +2012,7 @@ e035.pandasuite.io CNAME .
 e246.pandasuite.io CNAME .
 e403.pandasuite.io CNAME .
 eat.newtrina.com CNAME .
+ebony.black.news CNAME .
 edu.quizdom.gr CNAME .
 educationlink.clear360.com CNAME .
 ee93.pandasuite.io CNAME .
@@ -2444,7 +2454,6 @@ go.uk.innovatedating.com CNAME .
 go.ukraine.innovatedating.com CNAME .
 go.uksingles.ignite.technology CNAME .
 go.unverbluemt.de CNAME .
-go.urchink.app CNAME .
 go.usecaya.com CNAME .
 go.viet.innovatedating.com CNAME .
 go.voot.com CNAME .
@@ -2538,7 +2547,6 @@ imap.happ.social CNAME .
 in.app.puma.com CNAME .
 in.invitd.us CNAME .
 in.upipr.co CNAME .
-indir.boowetr.com CNAME .
 indir.pembepanjur.com CNAME .
 infectiepreventie-test.inthere.link CNAME .
 infectiepreventie.inthere.link CNAME .
@@ -2626,6 +2634,7 @@ join.spur.io CNAME .
 join.staging.spur.io CNAME .
 join.step.com CNAME .
 join.stuypend.com CNAME .
+join.talker.network CNAME .
 join.thekrishi.com CNAME .
 join.tlon.io CNAME .
 join.travelxp.com CNAME .
@@ -2669,7 +2678,6 @@ l.guesthug.com CNAME .
 l.ialoc.app CNAME .
 l.iamfy.co CNAME .
 l.imax.com CNAME .
-l.inrovo.co CNAME .
 l.itribe.in CNAME .
 l.jayshetty.me CNAME .
 l.kodika.io CNAME .
@@ -2825,6 +2833,7 @@ link.covve.com CNAME .
 link.crazyquest.com CNAME .
 link.creatively.life CNAME .
 link.crowdfireapp.com CNAME .
+link.crumbl.com CNAME .
 link.curious.com CNAME .
 link.curve.com CNAME .
 link.dana.id CNAME .
@@ -2844,6 +2853,7 @@ link.discotech.me CNAME .
 link.dishcult.com CNAME .
 link.district34.com CNAME .
 link.doctorcareanywhere.com CNAME .
+link.dongnealba.com CNAME .
 link.doopage.com CNAME .
 link.dosh.cash CNAME .
 link.dralilabolsanelo.com CNAME .
@@ -3106,6 +3116,7 @@ link.sluv.org CNAME .
 link.smallcase.com CNAME .
 link.smartrbuyer.com CNAME .
 link.smile.com.au CNAME .
+link.smokeandsoda.com CNAME .
 link.snapfeet.io CNAME .
 link.snaphabit.app CNAME .
 link.socar.my CNAME .
@@ -3387,6 +3398,7 @@ m.papertrail.io CNAME .
 m.pcmobile.ca CNAME .
 m.petmire.com CNAME .
 m.plateiq.com CNAME .
+m.providers.alto.com CNAME .
 m.realself.com CNAME .
 m.reunionliveseafood.my CNAME .
 m.rifird.com CNAME .
@@ -3438,6 +3450,7 @@ mobil.hry.yt CNAME .
 mobilapptest.app.mobilapp.io CNAME .
 mobile-event-alternative.cvent.me CNAME .
 mobile-event-development.cvent.me CNAME .
+mobile-event-staging.cvent.me CNAME .
 mobile-event.cvent.me CNAME .
 mobile.aspensnowmass.com CNAME .
 mobile.bespontix.com CNAME .
@@ -3562,6 +3575,7 @@ pf.a23.in CNAME .
 pgrounds.roundsapp.org CNAME .
 phlebotomyexam.quantresear.ch CNAME .
 phoenix.thexlife.co CNAME .
+pirateclan-alternate.kano.link CNAME .
 pirateclan.kano.link CNAME .
 pirounakia.openapp.link CNAME .
 pitapan.openapp.link CNAME .
@@ -3572,6 +3586,7 @@ pizzaexpress.openapp.link CNAME .
 pizzaromea.openapp.link CNAME .
 pl-topgal.m-shop.me CNAME .
 play-test.wavelength.zone CNAME .
+play.betluk7.com CNAME .
 play.colorplay.fun CNAME .
 play.fanslide.com CNAME .
 play.jdb888.club CNAME .
@@ -3799,7 +3814,9 @@ share.realcrushconnection.com CNAME .
 share.ridehip.com CNAME .
 share.robinhood.com CNAME .
 share.savvy-navvy.com CNAME .
+share.scoreholio.com CNAME .
 share.sharafdg.com CNAME .
+share.sliver.tv CNAME .
 share.soundit.com CNAME .
 share.sparemin.com CNAME .
 share.squadx.online CNAME .
@@ -4131,3 +4148,4 @@ s.goat.com CNAME .
 sharen.oyorooms.com CNAME .
 txt.appcity.com.au CNAME .
 www.branch.rocks CNAME .
+l.inrovo.co CNAME .

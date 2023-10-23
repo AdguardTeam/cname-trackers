@@ -164,6 +164,7 @@
 | tr.btobquotes.mx | tracking.bp01.net |
 | tr.buenasofertas.pro | tracking.bp01.net |
 | tr.bureauveritas.espmp-aufr.net | tracking.bp01.net |
+| tr.business-deal.be | tracking.bp01.net |
 | tr.business-deal.cl | tracking.bp01.net |
 | tr.business-deal.com.br | tracking.bp01.net |
 | tr.business-deal.fr | tracking.bp01.net |
@@ -523,6 +524,7 @@
 | tr.information.thelist-emirates.fr | tracking.bp01.net |
 | tr.informations.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.informations.lcl.fr | tracking.bp01.net |
+| tr.infos-admissions.com | tracking.bp01.net |
 | tr.infos.afpa.fr | tracking.bp01.net |
 | tr.infos.allianz-trade.com | tracking.bp01.net |
 | tr.infos.ariase.com | tracking.bp01.net |
@@ -607,6 +609,7 @@
 | tr.maisonsdumonde.com | tracking.bp01.net |
 | tr.marg02n.espmp-agfr.net | tracking.bp01.net |
 | tr.marketing.bordeauxgironde.cci.fr | tracking.bp01.net |
+| tr.marketing.comparadordeprestamos.es | tracking.bp01.net |
 | tr.marketing.tennaxia.com | tracking.bp01.net |
 | tr.marketing.younited-credit.com | tracking.bp01.net |
 | tr.marketing.younited-credit.es | tracking.bp01.net |

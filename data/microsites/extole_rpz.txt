@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ friends.keurig.com CNAME .
 ilove.volusion.com CNAME .
 indique.phooto.com.br CNAME .
 invite.toughmudder.com CNAME .
+refer-a-friend.trivantis.com CNAME .
 refer.aaas.org CNAME .
 refer.accountants.intuit.com CNAME .
 refer.ahsfriends.com CNAME .
@@ -133,13 +134,17 @@ sharethelove.teacollection.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
 www.trevoce.com CNAME .
+businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em225.codecademy.com CNAME .
 em8928.em.petco.com CNAME .
+em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
 friends.uvacreditunion.org CNAME .
+gabbie.extoleu.com CNAME .
 get.lull.com CNAME .
 go.joinsizigi.com CNAME .
 groomrefer.petco.com CNAME .
@@ -212,6 +217,7 @@ refer.clarksusa.com CNAME .
 refer.codecademy.com CNAME .
 refer.colemancanada.ca CNAME .
 refer.comfortzoneskin.com CNAME .
+refer.communityfirstfl.org CNAME .
 refer.competitivecyclist.com CNAME .
 refer.contiki.com CNAME .
 refer.copperandcrane.com CNAME .
@@ -609,6 +615,7 @@ share.stagsleap.com CNAME .
 share.starbucks.com CNAME .
 share.stargazette.com CNAME .
 share.statesman.com CNAME .
+share.statesmanjournal.com CNAME .
 share.steadyapp.com CNAME .
 share.stopagingnow.com CNAME .
 share.stridehealth.com CNAME .
@@ -619,6 +626,7 @@ share.tauntongazette.com CNAME .
 share.tcpalm.com CNAME .
 share.teachersfcu.org CNAME .
 share.telegram.com CNAME .
+share.thedailyjournal.com CNAME .
 share.theledger.com CNAME .
 share.thenorthwestern.com CNAME .
 share.theory.com CNAME .

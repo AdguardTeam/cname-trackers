@@ -108,7 +108,6 @@
 ||affiliate.atomer.cz^
 ||affiliate.batteryshop.cz^
 ||affiliate.bestdrink.cz^
-||affiliate.bezvatriko.cz^
 ||affiliate.bezvatriko.sk^
 ||affiliate.bikeplan.org^
 ||affiliate.biooo.cz^
@@ -391,6 +390,7 @@
 ||my.weplaybasketball.si^
 ||my.weplaybasketball.sk^
 ||my.weplayhandball.bg^
+||my.weplayhandball.ch^
 ||my.weplayhandball.cz^
 ||my.weplayhandball.de^
 ||my.weplayhandball.eu^
@@ -511,6 +511,7 @@
 ||partner.expresmenu.cz^
 ||partner.expresmenu.pl^
 ||partner.expresmenu.sk^
+||partner.fabulo.sk^
 ||partner.fermato.cz^
 ||partner.finstyle.cz^
 ||partner.firmin.cz^
@@ -534,7 +535,6 @@
 ||partner.iodesign.cz^
 ||partner.iodicanatural.cz^
 ||partner.ioznameni.cz^
-||partner.isic.cz^
 ||partner.italier.cz^
 ||partner.ivadekor.cz^
 ||partner.izlato24.cz^
@@ -595,7 +595,6 @@
 ||partner.naseano.cz^
 ||partner.natubea.cz^
 ||partner.nejlepsi-darecky.cz^
-||partner.nepetka.cz^
 ||partner.neviditelnepradlo.cz^
 ||partner.nextwood.cz^
 ||partner.oblicejovajoga.cz^
@@ -610,6 +609,7 @@
 ||partner.ozogan.cz^
 ||partner.parfemy-parfumeur.cz^
 ||partner.perfect-dress.eu^
+||partner.pesar.cz^
 ||partner.pletemesi.cz^
 ||partner.plotmarket.sk^
 ||partner.plotshop.sk^
@@ -631,7 +631,6 @@
 ||partner.santao.cz^
 ||partner.scilearn.cz^
 ||partner.scootshop.cz^
-||partner.sculpturepainting.eu^
 ||partner.sielbeauty.cz^
 ||partner.simplymix.com^
 ||partner.skinnygirls.cz^
@@ -673,6 +672,7 @@
 ||partner.vyprodejskladu.com^
 ||partner.webareal.cz^
 ||partner.webareal.sk^
+||partner.webovkysusmevem.cz^
 ||partner.webrebel.sk^
 ||partner.webskicak.cz^
 ||partner.whoopdedoo.cz^

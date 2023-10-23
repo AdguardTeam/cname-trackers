@@ -125,7 +125,6 @@
 | affiliate.atomer.cz | cz.affilbox.cz |
 | affiliate.batteryshop.cz | cz.affilbox.cz |
 | affiliate.bestdrink.cz | cz.affilbox.cz |
-| affiliate.bezvatriko.cz | cz.affilbox.cz |
 | affiliate.bezvatriko.sk | cz.affilbox.cz |
 | affiliate.bikeplan.org | cz.affilbox.cz |
 | affiliate.biooo.cz | cz.affilbox.cz |
@@ -408,6 +407,7 @@
 | my.weplaybasketball.si | cz.affilbox.cz |
 | my.weplaybasketball.sk | cz.affilbox.cz |
 | my.weplayhandball.bg | cz.affilbox.cz |
+| my.weplayhandball.ch | cz.affilbox.cz |
 | my.weplayhandball.cz | cz.affilbox.cz |
 | my.weplayhandball.de | cz.affilbox.cz |
 | my.weplayhandball.eu | cz.affilbox.cz |
@@ -528,6 +528,7 @@
 | partner.expresmenu.cz | cz.affilbox.cz |
 | partner.expresmenu.pl | cz.affilbox.cz |
 | partner.expresmenu.sk | cz.affilbox.cz |
+| partner.fabulo.sk | cz.affilbox.cz |
 | partner.fermato.cz | cz.affilbox.cz |
 | partner.finstyle.cz | cz.affilbox.cz |
 | partner.firmin.cz | cz.affilbox.cz |
@@ -551,7 +552,6 @@
 | partner.iodesign.cz | cz.affilbox.cz |
 | partner.iodicanatural.cz | cz.affilbox.cz |
 | partner.ioznameni.cz | cz.affilbox.cz |
-| partner.isic.cz | cz.affilbox.cz |
 | partner.italier.cz | cz.affilbox.cz |
 | partner.ivadekor.cz | cz.affilbox.cz |
 | partner.izlato24.cz | cz.affilbox.cz |
@@ -612,7 +612,6 @@
 | partner.naseano.cz | cz.affilbox.cz |
 | partner.natubea.cz | cz.affilbox.cz |
 | partner.nejlepsi-darecky.cz | cz.affilbox.cz |
-| partner.nepetka.cz | cz.affilbox.cz |
 | partner.neviditelnepradlo.cz | cz.affilbox.cz |
 | partner.nextwood.cz | cz.affilbox.cz |
 | partner.oblicejovajoga.cz | cz.affilbox.cz |
@@ -627,6 +626,7 @@
 | partner.ozogan.cz | cz.affilbox.cz |
 | partner.parfemy-parfumeur.cz | cz.affilbox.cz |
 | partner.perfect-dress.eu | cz.affilbox.cz |
+| partner.pesar.cz | cz.affilbox.cz |
 | partner.pletemesi.cz | cz.affilbox.cz |
 | partner.plotmarket.sk | cz.affilbox.cz |
 | partner.plotshop.sk | cz.affilbox.cz |
@@ -648,7 +648,6 @@
 | partner.santao.cz | cz.affilbox.cz |
 | partner.scilearn.cz | cz.affilbox.cz |
 | partner.scootshop.cz | cz.affilbox.cz |
-| partner.sculpturepainting.eu | cz.affilbox.cz |
 | partner.sielbeauty.cz | cz.affilbox.cz |
 | partner.simplymix.com | cz.affilbox.cz |
 | partner.skinnygirls.cz | cz.affilbox.cz |
@@ -690,6 +689,7 @@
 | partner.vyprodejskladu.com | cz.affilbox.cz |
 | partner.webareal.cz | cz.affilbox.cz |
 | partner.webareal.sk | cz.affilbox.cz |
+| partner.webovkysusmevem.cz | cz.affilbox.cz |
 | partner.webrebel.sk | cz.affilbox.cz |
 | partner.webskicak.cz | cz.affilbox.cz |
 | partner.whoopdedoo.cz | cz.affilbox.cz |

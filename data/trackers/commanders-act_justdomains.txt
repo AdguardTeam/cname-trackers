@@ -18,6 +18,7 @@ tagcommander.laredoute.be
 tagcommander.laredoute.ch
 tc.europcar.com
 tc.europcar.com.au
+tc.europcar.de
 tcdata.fnac.com
 configure.adlermode.com
 data.auchandirect.fr

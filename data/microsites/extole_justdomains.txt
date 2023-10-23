@@ -10,6 +10,7 @@ friends.keurig.com
 ilove.volusion.com
 indique.phooto.com.br
 invite.toughmudder.com
+refer-a-friend.trivantis.com
 refer.aaas.org
 refer.accountants.intuit.com
 refer.ahsfriends.com
@@ -122,13 +123,17 @@ sharethelove.teacollection.com
 tellapal.register.com
 tellapal.web.com
 www.trevoce.com
+businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
+em225.codecademy.com
 em8928.em.petco.com
+em924.refer.starbucks.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
 friends.uvacreditunion.org
+gabbie.extoleu.com
 get.lull.com
 go.joinsizigi.com
 groomrefer.petco.com
@@ -201,6 +206,7 @@ refer.clarksusa.com
 refer.codecademy.com
 refer.colemancanada.ca
 refer.comfortzoneskin.com
+refer.communityfirstfl.org
 refer.competitivecyclist.com
 refer.contiki.com
 refer.copperandcrane.com
@@ -598,6 +604,7 @@ share.stagsleap.com
 share.starbucks.com
 share.stargazette.com
 share.statesman.com
+share.statesmanjournal.com
 share.steadyapp.com
 share.stopagingnow.com
 share.stridehealth.com
@@ -608,6 +615,7 @@ share.tauntongazette.com
 share.tcpalm.com
 share.teachersfcu.org
 share.telegram.com
+share.thedailyjournal.com
 share.theledger.com
 share.thenorthwestern.com
 share.theory.com

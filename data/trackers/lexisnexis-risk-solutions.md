@@ -51,6 +51,7 @@
     * h-5g3kt0kj.online-metrix.net
     * h-5h8i3ud8.online-metrix.net
     * h-5pxao9h8.online-metrix.net
+    * h-5sc89hft.online-metrix.net
     * h-5uvvlv7u.online-metrix.net
     * h-5wdrto0i.online-metrix.net
     * h-6a6y6kka.online-metrix.net
@@ -103,6 +104,7 @@
     * h-9zzsit89.online-metrix.net
     * h-a4nx1etl.online-metrix.net
     * h-a4s32zk0.online-metrix.net
+    * h-a9ndqgz3.online-metrix.net
     * h-a9vkgbg7.online-metrix.net
     * h-accountonline.online-metrix.net
     * h-accurint.online-metrix.net
@@ -138,9 +140,11 @@
     * h-axiata.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
     * h-b3m5a8st.online-metrix.net
+    * h-b3zpl92l.online-metrix.net
     * h-b4bq7y80.online-metrix.net
     * h-badoo.online-metrix.net
     * h-bambu.online-metrix.net
+    * h-ban3nmwg.online-metrix.net
     * h-banco.digio.online-metrix.net
     * h-bangkokbank.online-metrix.net
     * h-bankaustralia.online-metrix.net
@@ -450,6 +454,7 @@
     * h-lloydsboscorporate.online-metrix.net
     * h-lloydscorporate.online-metrix.net
     * h-lloydslink.online-metrix.net
+    * h-ln9m7rks.online-metrix.net
     * h-lnrscoplogic.online-metrix.net
     * h-lotto.online-metrix.net
     * h-lottohelden.online-metrix.net
@@ -783,6 +788,7 @@
 | secure.jumia.sn | h-5pxao9h8.online-metrix.net |
 | secure.jumia.ug | h-5pxao9h8.online-metrix.net |
 | secure.zando.co.za | h-5pxao9h8.online-metrix.net |
+| netinf.curemd.com | h-5sc89hft.online-metrix.net |
 | rttm.uniondigitalbank.io | h-5uvvlv7u.online-metrix.net |
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
@@ -843,6 +849,7 @@
 | tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
 | content.ageas.co.uk | h-a4s32zk0.online-metrix.net |
+| fms.perahub.com.ph | h-a9ndqgz3.online-metrix.net |
 | tcontent.auchantelecom.fr | h-a9vkgbg7.online-metrix.net |
 | tcontent.nrjmobile.fr | h-a9vkgbg7.online-metrix.net |
 | content22.accountonline.com | h-accountonline.online-metrix.net |
@@ -895,9 +902,11 @@
 | caveo.boost-my.com | h-axiata.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
+| tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |
 | content.vi.gov | h-b4bq7y80.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
+| content.bank-abc.com | h-ban3nmwg.online-metrix.net |
 | ln.meudigio.com.br | h-banco.digio.online-metrix.net |
 | svc.bangkokbank.com | h-bangkokbank.online-metrix.net |
 | dii.bankaust.com.au | h-bankaustralia.online-metrix.net |
@@ -1053,6 +1062,7 @@
 | cdna.paymentncb.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.rqt-paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.tst-paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
+| rqt-cdna.paymentncb.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | tst-cdna.paymentncb.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdnb.cashcentral.com | h-communityfinancial.online-metrix.net |
 | img.consumer.risk.lexisnexis.com | h-consumer-relx.online-metrix.net |
@@ -1314,6 +1324,7 @@
 | ela1.bankofscotland.co.uk | h-lloydsboscorporate.online-metrix.net |
 | ww9.lloydsbank.com | h-lloydscorporate.online-metrix.net |
 | lab4.lloydsbank.com | h-lloydslink.online-metrix.net |
+| cdn-content.bmtx.com | h-ln9m7rks.online-metrix.net |
 | content3.lexisnexisrisk.com | h-lnrscoplogic.online-metrix.net |
 | content3.risk.lexisnexis.com | h-lnrscoplogic.online-metrix.net |
 | lsdp.lotto.com | h-lotto.online-metrix.net |

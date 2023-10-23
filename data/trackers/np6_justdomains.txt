@@ -143,6 +143,7 @@ tr.btobquotes.com
 tr.btobquotes.mx
 tr.buenasofertas.pro
 tr.bureauveritas.espmp-aufr.net
+tr.business-deal.be
 tr.business-deal.cl
 tr.business-deal.com.br
 tr.business-deal.fr
@@ -502,6 +503,7 @@ tr.information.smartdeals-transavia-fr.com
 tr.information.thelist-emirates.fr
 tr.informations.harmonie-mutuelle.fr
 tr.informations.lcl.fr
+tr.infos-admissions.com
 tr.infos.afpa.fr
 tr.infos.allianz-trade.com
 tr.infos.ariase.com
@@ -586,6 +588,7 @@ tr.mailperformance.fr
 tr.maisonsdumonde.com
 tr.marg02n.espmp-agfr.net
 tr.marketing.bordeauxgironde.cci.fr
+tr.marketing.comparadordeprestamos.es
 tr.marketing.tennaxia.com
 tr.marketing.younited-credit.com
 tr.marketing.younited-credit.es

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -60,6 +60,7 @@ cbcdn.lloydsbank.com CNAME .
 ccf.prod.fedex.com CNAME .
 cda.thecardservicescenter.com CNAME .
 cdle-prof.clouduim.cdle.state.co.us CNAME .
+cdn-content.bmtx.com CNAME .
 cdn-east.purchase.goto.com CNAME .
 cdn-ln.ozk.com CNAME .
 cdn-s.chumbacasino.com CNAME .
@@ -178,6 +179,7 @@ content.alternabank.ca CNAME .
 content.apruvd.com CNAME .
 content.asurion53.com CNAME .
 content.atmosphere.ca CNAME .
+content.bank-abc.com CNAME .
 content.bankerslife.com CNAME .
 content.bankoncit.com CNAME .
 content.benefitsaccess.org CNAME .
@@ -409,6 +411,7 @@ faas.2ememain.be CNAME .
 faas.marktplaats.nl CNAME .
 fdbplnd.zootweb.com CNAME .
 fdts.ebay-kleinanzeigen.de CNAME .
+fms.perahub.com.ph CNAME .
 fnvma.milanuncios.com CNAME .
 fp.aion.be CNAME .
 fp.avatrade.com CNAME .
@@ -537,6 +540,7 @@ msimkpups.michaels.com CNAME .
 mtx.thirdstream.ca CNAME .
 nav.sciencedirect.com CNAME .
 neo.fashionette.de CNAME .
+netinf.curemd.com CNAME .
 nexus-svc.sc.com CNAME .
 nv-2.liveaction.com CNAME .
 ocs.ameriprise.com CNAME .
@@ -666,6 +670,7 @@ rfp.intuit.com CNAME .
 rhino.gocardless.com CNAME .
 rm-3d84e791.payby.com CNAME .
 rmscheck.sbifxt.co.jp CNAME .
+rqt-cdna.paymentncb.cofidis.fr CNAME .
 rsx.afterpay.com CNAME .
 rt.wisecartapp.com CNAME .
 rttm.uniondigitalbank.io CNAME .
@@ -923,6 +928,7 @@ tmximg.draftkings.com CNAME .
 tmxjs.tokyodisneyresort.jp CNAME .
 tooling.ynap.biz CNAME .
 tools.workforcewv.org CNAME .
+tprofile.goldmansachs.tech CNAME .
 tracking.psecu.com CNAME .
 trust.gyft.com CNAME .
 ts04358.picpay.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -154,6 +154,7 @@ tr.btobquotes.com CNAME .
 tr.btobquotes.mx CNAME .
 tr.buenasofertas.pro CNAME .
 tr.bureauveritas.espmp-aufr.net CNAME .
+tr.business-deal.be CNAME .
 tr.business-deal.cl CNAME .
 tr.business-deal.com.br CNAME .
 tr.business-deal.fr CNAME .
@@ -513,6 +514,7 @@ tr.information.smartdeals-transavia-fr.com CNAME .
 tr.information.thelist-emirates.fr CNAME .
 tr.informations.harmonie-mutuelle.fr CNAME .
 tr.informations.lcl.fr CNAME .
+tr.infos-admissions.com CNAME .
 tr.infos.afpa.fr CNAME .
 tr.infos.allianz-trade.com CNAME .
 tr.infos.ariase.com CNAME .
@@ -597,6 +599,7 @@ tr.mailperformance.fr CNAME .
 tr.maisonsdumonde.com CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.bordeauxgironde.cci.fr CNAME .
+tr.marketing.comparadordeprestamos.es CNAME .
 tr.marketing.tennaxia.com CNAME .
 tr.marketing.younited-credit.com CNAME .
 tr.marketing.younited-credit.es CNAME .

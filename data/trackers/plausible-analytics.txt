@@ -53,7 +53,6 @@
 ||analytics.uxmetrics.com^
 ||analytics.valheimgamer.com^
 ||analytics.vanilla-project.guide^
-||analytics.wayland.app^
 ||analytics.whostheboss.co.uk^
 ||analytics.whotargets.me^
 ||analytics.winter.ink^
@@ -75,7 +74,6 @@
 ||assets.modehypertext.com^
 ||aux.lansator.ro^
 ||badwolf.open-election-compass.com^
-||bees.beesbeesbeesbees.com^
 ||besucher.nona.de^
 ||bob.gitclear.com^
 ||btstats.benakt.com^
@@ -274,7 +272,6 @@
 ||plausible.simplelogin.io^
 ||plausible.srijn.net^
 ||plausible.starlegacyfoundation.org^
-||plausible.straightvisions.com^
 ||plausible.strzibny.name^
 ||plausible.sysloun.cz^
 ||plausible.tac.dappstar.io^
@@ -309,7 +306,6 @@
 ||reporting.autographapp.me^
 ||retention.ankidecks.com^
 ||s.allbootdisks.com^
-||s.aromapix.com^
 ||s.cameratico.com^
 ||s.crackedthecode.co^
 ||s.cuoresportivo.no^
@@ -322,7 +318,6 @@
 ||s.glimesh.tv^
 ||s.innoq.com^
 ||s.inspectelement.co^
-||s.kidori.com^
 ||s.leolabs.org^
 ||s.mannes.tech^
 ||s.maxrozen.com^
@@ -806,7 +801,6 @@
 ||stats.procumeni.cz^
 ||stats.prodtype.com^
 ||stats.profilehunt.net^
-||stats.project-tampah.com^
 ||stats.projectcongress.com^
 ||stats.psychotherapieravensburg.de^
 ||stats.pubfind.io^

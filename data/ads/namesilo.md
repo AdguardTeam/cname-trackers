@@ -176,6 +176,7 @@
 | 3210363.notifysrv.com | tk6if76q.ab1n.net |
 | 3211473.notifysrv.com | tk6if76q.ab1n.net |
 | 3212867.notifysrv.com | tk6if76q.ab1n.net |
+| 3213679.notify6.com | tk6if76q.ab1n.net |
 | 3214413.notifysrv.com | tk6if76q.ab1n.net |
 | 3214729.notify6.com | tk6if76q.ab1n.net |
 | 3214733.notifysrv.com | tk6if76q.ab1n.net |
@@ -965,6 +966,7 @@
 | 4902880.notify6.com | tk6if76q.ab1n.net |
 | 4917212.notify6.com | tk6if76q.ab1n.net |
 | 4960922.notify6.com | tk6if76q.ab1n.net |
+| 5085594.notify6.com | tk6if76q.ab1n.net |
 | 535.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 5602.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 577.notify.optimizesrv.com | tk6if76q.ab1n.net |
@@ -1000,7 +1002,6 @@
 | origin-ads.exdynsrv.com | tk6if76q.ab1n.net |
 | origin-ads.exosrv.com | tk6if76q.ab1n.net |
 | origin-ads.optimizesrv.com | tk6if76q.ab1n.net |
-| origin-ads.realsrv.com | tk6if76q.ab1n.net |
 | s.a3ion.com | tk6if76q.ab1n.net |
 | s.ad.guru | tk6if76q.ab1n.net |
 | s.adnflow.com | tk6if76q.ab1n.net |
@@ -1115,6 +1116,7 @@
 | a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
 | a.adnflow.com | w2u4v9e1.ab1n.net |
 | a.adsession.com | w2u4v9e1.ab1n.net |
+| a.advertrek.com | w2u4v9e1.ab1n.net |
 | a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
 | a.etology.com | w2u4v9e1.ab1n.net |
@@ -1130,8 +1132,12 @@
 | admin.ad.guru | x0xmrxm4.ab1n.net |
 | admin.adnation.com | x0xmrxm4.ab1n.net |
 | admin.adstuff.io | x0xmrxm4.ab1n.net |
+| admin.adstuff.io | x0xmrxm4.ab1n.net |
+| admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
+| admin.gettopple.com | x0xmrxm4.ab1n.net |
+| admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | api.adnation.com | x0xmrxm4.ab1n.net |
 | api.getblaze.app | x0xmrxm4.ab1n.net |
@@ -1141,8 +1147,6 @@
 | management-adwirk.exads.com | x0xmrxm4.ab1n.net |
 | management-boost.exads.com | x0xmrxm4.ab1n.net |
 | management-itsup.exads.com | x0xmrxm4.ab1n.net |
-| management-paradoxgroup.exads.com | x0xmrxm4.ab1n.net |
-| management-paradoxmedia.exads.com | x0xmrxm4.ab1n.net |
 | management-slice.exads.com | x0xmrxm4.ab1n.net |
 | management-topple.exads.com | x0xmrxm4.ab1n.net |
 | management-venntro.exads.com | x0xmrxm4.ab1n.net |

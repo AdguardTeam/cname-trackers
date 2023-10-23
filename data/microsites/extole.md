@@ -193,6 +193,7 @@
     * burts-bees.extole.io
     * buttah-skin.extole.io
     * c-spire.extole.io
+    * c1cufl.extole.io
     * caavo.extole.io
     * caleres.extole.io
     * calo.extole.io
@@ -215,6 +216,7 @@
     * clarksusa.extole.io
     * cle-de-peau.extole.io
     * clevelandgolf.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -354,6 +356,7 @@
     * lovesac.extole.io
     * lull.extole.io
     * lumen-optical.extole.io
+    * lumen.extole.io
     * mac-cosmetics.extole.io
     * madison-reed.extole.io
     * maidpro.extole.io
@@ -467,6 +470,7 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -653,6 +657,7 @@
 | refer.burtsbees.com | burts-bees.extole.io |
 | share.buttahskin.com | buttah-skin.extole.io |
 | refer.cspire.com | c-spire.extole.io |
+| refer.communityfirstfl.org | c1cufl.extole.io |
 | refer.caavo.com | caavo.extole.io |
 | refer.drschollsshoes.com | caleres.extole.io |
 | refer.calo.app | calo.extole.io |
@@ -684,6 +689,7 @@
 | referral.cledepeaubeaute.com | cle-de-peau.extole.io |
 | refer.clearme.com | clearme-ssl.extole.com |
 | share.dunlopsports.com | clevelandgolf.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -705,6 +711,7 @@
 | refer-photo.cvs.com | cvs.extole.io |
 | share.cwbank.com | cwbank.extole.io |
 | ilove.volusion.com | d.extole.com |
+| refer-a-friend.trivantis.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
 | share.dailypay.com | dailypay.extole.io |
@@ -745,6 +752,7 @@
 | refer.evite.com | evite.extole.io |
 | refer1.experian.com | experian.extole.io |
 | earn-and-refer.extoleu.com | extoleu.extole.io |
+| gabbie.extoleu.com | extoleu.extole.io |
 | jessica-test-numero-dos.extoleu.com | extoleu.extole.io |
 | kenn.extoleu.com | extoleu.extole.io |
 | rob.extoleu.com | extoleu.extole.io |
@@ -794,10 +802,12 @@
 | share.rgj.com | gannett.extole.io |
 | share.stargazette.com | gannett.extole.io |
 | share.statesman.com | gannett.extole.io |
+| share.statesmanjournal.com | gannett.extole.io |
 | share.tallahassee.com | gannett.extole.io |
 | share.tauntongazette.com | gannett.extole.io |
 | share.tcpalm.com | gannett.extole.io |
 | share.telegram.com | gannett.extole.io |
+| share.thedailyjournal.com | gannett.extole.io |
 | share.theledger.com | gannett.extole.io |
 | share.thenorthwestern.com | gannett.extole.io |
 | share.usatoday.com | gannett.extole.io |
@@ -913,6 +923,7 @@
 | get.lull.com | lull.extole.io |
 | refer.lull.com | lull.extole.io |
 | refer.lumenoptical.com | lumen-optical.extole.io |
+| businessreferrals.lumen.com | lumen.extole.io |
 | refer.lymphedemaproducts.com | lymphedemaproducts.extole.com |
 | share.maccosmetics.com.au | mac-cosmetics.extole.io |
 | refer.madison-reed.com | madison-reed.extole.io |
@@ -1078,6 +1089,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |
@@ -1139,6 +1151,7 @@
 | em3904.skillshare.com | u82658.wl159.sendgrid.net |
 | em4367.raf-studentloans.discover.com | u82658.wl159.sendgrid.net |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
+| em8928.em.petco.com | u82658.wl159.sendgrid.net |
 | refer.ulta.com | ulta.extole.com |
 | share.unchartedsociety.com | unchartedsociety.extole.io |
 | refer.underarmour.co.uk | under-armour-1.extole.io |

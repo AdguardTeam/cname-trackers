@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,7 +52,6 @@ $TTL 300
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 9b5gjkrnw71r.it.themoneytizer.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
-9r0ptx5k38hk.hollowayremovals.com.au CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 ac9kpxbans1l.staging.unstoppabledomains.com CNAME .
 am3s622gcd6m.tt.live CNAME .
@@ -66,7 +65,6 @@ cihnqp6p65.koinly.io CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
 cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
-da6ew5ataff2.kvest.ee CNAME .
 din1j0su0u99.artwallstreet.io CNAME .
 dlziqh9bo7.boring.fm CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .

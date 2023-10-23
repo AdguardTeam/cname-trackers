@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -606,7 +606,6 @@ kiwi.railway.app CNAME .
 koala.getslopes.com CNAME .
 koala.moontells.com CNAME .
 koala.mynestbox.co.uk CNAME .
-koala.quantumfirelabs.com CNAME .
 koala.readyfive.io CNAME .
 koi.artsvp.co CNAME .
 koi.fftf.cat CNAME .
@@ -749,7 +748,6 @@ mule.pricelessai.com CNAME .
 mule.reel.so CNAME .
 muskox.appital.io CNAME .
 narwhal.bounty.studio CNAME .
-newt.getminipay.com CNAME .
 newt.javier.dev CNAME .
 newt.jordin.eu CNAME .
 nf1nknlw.mateforevents.com CNAME .
@@ -937,7 +935,6 @@ silkworm.westwoodmbc.org CNAME .
 silverfish.dailybuilds.com CNAME .
 silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
-skink.madewithlove.com CNAME .
 sloth.goodtendency.app CNAME .
 sloth.vaalinstudio.com CNAME .
 sloth.vguerrerobosch.com CNAME .

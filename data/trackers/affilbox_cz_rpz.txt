@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1697443216194        ; Serial
+           1698058195729        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -119,7 +119,6 @@ affiliate.applemix.cz CNAME .
 affiliate.atomer.cz CNAME .
 affiliate.batteryshop.cz CNAME .
 affiliate.bestdrink.cz CNAME .
-affiliate.bezvatriko.cz CNAME .
 affiliate.bezvatriko.sk CNAME .
 affiliate.bikeplan.org CNAME .
 affiliate.biooo.cz CNAME .
@@ -402,6 +401,7 @@ my.weplaybasketball.ro CNAME .
 my.weplaybasketball.si CNAME .
 my.weplaybasketball.sk CNAME .
 my.weplayhandball.bg CNAME .
+my.weplayhandball.ch CNAME .
 my.weplayhandball.cz CNAME .
 my.weplayhandball.de CNAME .
 my.weplayhandball.eu CNAME .
@@ -522,6 +522,7 @@ partner.expresmenu.com CNAME .
 partner.expresmenu.cz CNAME .
 partner.expresmenu.pl CNAME .
 partner.expresmenu.sk CNAME .
+partner.fabulo.sk CNAME .
 partner.fermato.cz CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
@@ -545,7 +546,6 @@ partner.investinslovakia.eu CNAME .
 partner.iodesign.cz CNAME .
 partner.iodicanatural.cz CNAME .
 partner.ioznameni.cz CNAME .
-partner.isic.cz CNAME .
 partner.italier.cz CNAME .
 partner.ivadekor.cz CNAME .
 partner.izlato24.cz CNAME .
@@ -606,7 +606,6 @@ partner.naplne.cz CNAME .
 partner.naseano.cz CNAME .
 partner.natubea.cz CNAME .
 partner.nejlepsi-darecky.cz CNAME .
-partner.nepetka.cz CNAME .
 partner.neviditelnepradlo.cz CNAME .
 partner.nextwood.cz CNAME .
 partner.oblicejovajoga.cz CNAME .
@@ -621,6 +620,7 @@ partner.onlinepriznanie.sk CNAME .
 partner.ozogan.cz CNAME .
 partner.parfemy-parfumeur.cz CNAME .
 partner.perfect-dress.eu CNAME .
+partner.pesar.cz CNAME .
 partner.pletemesi.cz CNAME .
 partner.plotmarket.sk CNAME .
 partner.plotshop.sk CNAME .
@@ -642,7 +642,6 @@ partner.salibandy.shop CNAME .
 partner.santao.cz CNAME .
 partner.scilearn.cz CNAME .
 partner.scootshop.cz CNAME .
-partner.sculpturepainting.eu CNAME .
 partner.sielbeauty.cz CNAME .
 partner.simplymix.com CNAME .
 partner.skinnygirls.cz CNAME .
@@ -684,6 +683,7 @@ partner.vykoupeno.cz CNAME .
 partner.vyprodejskladu.com CNAME .
 partner.webareal.cz CNAME .
 partner.webareal.sk CNAME .
+partner.webovkysusmevem.cz CNAME .
 partner.webrebel.sk CNAME .
 partner.webskicak.cz CNAME .
 partner.whoopdedoo.cz CNAME .

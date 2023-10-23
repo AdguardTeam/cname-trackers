@@ -397,6 +397,7 @@ email-adobe.branch.rocks
 email-appboy.branch.rocks
 email-betaout.branch.rocks
 email-bronto.branch.rocks
+email-bss-new.branch.rocks
 email-cheetahmail.branch.rocks
 email-click-test-for-branch.vts.com
 email-clicks.vts.com
@@ -451,6 +452,7 @@ email.everyonesocial.bostonscientific.com
 email.everyonesocial.circle.com
 email.everyonesocial.colt.net
 email.everyonesocial.coupa.com
+email.everyonesocial.dykema.com
 email.everyonesocial.frontier.com
 email.everyonesocial.gumgum.com
 email.everyonesocial.hmausa.com
@@ -519,6 +521,7 @@ emails.travelchannel.com
 emails.verishop.com
 emails.watchown.tv
 emlink.hermo.my
+emm.ca.puma.com
 emm.us.puma.com
 expertsender.branch.rocks
 fleet-eml.postmates.com
@@ -754,6 +757,7 @@ notice.hoopladigital.com
 notify.pray.com
 offers.grassdoor.com
 pbm-email.rightwayhealthcare.com
+pint-dev-branch.airship.com
 promo.tops.co.th
 psmastersendgrid.branch.rocks
 px.pandora.com
@@ -824,6 +828,7 @@ tracking.email-mandrill.pushd.com
 tracking.laredoute.fr
 tracking.sp.sofi.com
 tracking.staging.goshare.co
+tracks.roomster.com
 trk-branch.balinea.com
 trk.bc.shutterfly.com
 trk.e.underarmour.com
@@ -853,6 +858,7 @@ url3788.blazepizza.com
 url4142.dev.att.llabs.io
 url485.yourname.tantawy.app
 url5287.mail.tops.co.th
+url5290.dev-portal.icanbwell.com
 url6013.qa-app11-sendgrid.branch.rocks
 url6035.clay-sendgrid-test.branch.rocks
 url6143.branch.rocks
@@ -1013,6 +1019,7 @@ app.awto.cl
 app.awto.com.br
 app.ayawalk.com
 app.ayazona.com
+app.babycloud.in
 app.bajajfinservmarkets.in
 app.ballet.org.uk
 app.bancobv.com.br
@@ -1303,6 +1310,7 @@ app.skideal-prod.ynadev.com
 app.skydo.cloud
 app.smartcredit.com
 app.smrtp.link
+app.snbla.com
 app.sortedai.com
 app.sosevents.net
 app.soultime.com
@@ -1443,6 +1451,7 @@ applinks.tarrakki.com
 applinks.truckersnearby.com
 applinks.xdressr.com
 applinks.zerista.com
+appointments.cureasy.com
 appredirect.snapdeal.com
 apps-test.spectrum-member.com
 apps.airmeet.com
@@ -1992,6 +2001,7 @@ e035.pandasuite.io
 e246.pandasuite.io
 e403.pandasuite.io
 eat.newtrina.com
+ebony.black.news
 edu.quizdom.gr
 educationlink.clear360.com
 ee93.pandasuite.io
@@ -2433,7 +2443,6 @@ go.uk.innovatedating.com
 go.ukraine.innovatedating.com
 go.uksingles.ignite.technology
 go.unverbluemt.de
-go.urchink.app
 go.usecaya.com
 go.viet.innovatedating.com
 go.voot.com
@@ -2527,7 +2536,6 @@ imap.happ.social
 in.app.puma.com
 in.invitd.us
 in.upipr.co
-indir.boowetr.com
 indir.pembepanjur.com
 infectiepreventie-test.inthere.link
 infectiepreventie.inthere.link
@@ -2615,6 +2623,7 @@ join.spur.io
 join.staging.spur.io
 join.step.com
 join.stuypend.com
+join.talker.network
 join.thekrishi.com
 join.tlon.io
 join.travelxp.com
@@ -2658,7 +2667,6 @@ l.guesthug.com
 l.ialoc.app
 l.iamfy.co
 l.imax.com
-l.inrovo.co
 l.itribe.in
 l.jayshetty.me
 l.kodika.io
@@ -2814,6 +2822,7 @@ link.covve.com
 link.crazyquest.com
 link.creatively.life
 link.crowdfireapp.com
+link.crumbl.com
 link.curious.com
 link.curve.com
 link.dana.id
@@ -2833,6 +2842,7 @@ link.discotech.me
 link.dishcult.com
 link.district34.com
 link.doctorcareanywhere.com
+link.dongnealba.com
 link.doopage.com
 link.dosh.cash
 link.dralilabolsanelo.com
@@ -3095,6 +3105,7 @@ link.sluv.org
 link.smallcase.com
 link.smartrbuyer.com
 link.smile.com.au
+link.smokeandsoda.com
 link.snapfeet.io
 link.snaphabit.app
 link.socar.my
@@ -3376,6 +3387,7 @@ m.papertrail.io
 m.pcmobile.ca
 m.petmire.com
 m.plateiq.com
+m.providers.alto.com
 m.realself.com
 m.reunionliveseafood.my
 m.rifird.com
@@ -3427,6 +3439,7 @@ mobil.hry.yt
 mobilapptest.app.mobilapp.io
 mobile-event-alternative.cvent.me
 mobile-event-development.cvent.me
+mobile-event-staging.cvent.me
 mobile-event.cvent.me
 mobile.aspensnowmass.com
 mobile.bespontix.com
@@ -3551,6 +3564,7 @@ pf.a23.in
 pgrounds.roundsapp.org
 phlebotomyexam.quantresear.ch
 phoenix.thexlife.co
+pirateclan-alternate.kano.link
 pirateclan.kano.link
 pirounakia.openapp.link
 pitapan.openapp.link
@@ -3561,6 +3575,7 @@ pizzaexpress.openapp.link
 pizzaromea.openapp.link
 pl-topgal.m-shop.me
 play-test.wavelength.zone
+play.betluk7.com
 play.colorplay.fun
 play.fanslide.com
 play.jdb888.club
@@ -3788,7 +3803,9 @@ share.realcrushconnection.com
 share.ridehip.com
 share.robinhood.com
 share.savvy-navvy.com
+share.scoreholio.com
 share.sharafdg.com
+share.sliver.tv
 share.soundit.com
 share.sparemin.com
 share.squadx.online
@@ -4120,3 +4137,4 @@ s.goat.com
 sharen.oyorooms.com
 txt.appcity.com.au
 www.branch.rocks
+l.inrovo.co

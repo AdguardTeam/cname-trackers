@@ -11,6 +11,7 @@
 ||a8-wpxshin.secure.wpx.ne.jp^
 ||a8-xshop.secure.xserver.ne.jp^
 ||a8.01cloud.jp^
+||a8.123.rheos.jp^
 ||a8.2ndstreet.jp^
 ||a8.abemashopping.jp^
 ||a8.ablenet.jp^

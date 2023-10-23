@@ -137,6 +137,7 @@
 ||3210363.notifysrv.com^
 ||3211473.notifysrv.com^
 ||3212867.notifysrv.com^
+||3213679.notify6.com^
 ||3214413.notifysrv.com^
 ||3214729.notify6.com^
 ||3214733.notifysrv.com^
@@ -926,6 +927,7 @@
 ||4902880.notify6.com^
 ||4917212.notify6.com^
 ||4960922.notify6.com^
+||5085594.notify6.com^
 ||535.notify.optimizesrv.com^
 ||5602.notify.optimizesrv.com^
 ||577.notify.optimizesrv.com^
@@ -954,6 +956,7 @@
 ||a.addisplaynetwork.com^
 ||a.adnflow.com^
 ||a.adsession.com^
+||a.advertrek.com^
 ||a.asvsm.com^
 ||a.bizonads-ssp.com^
 ||a.etology.com^
@@ -989,8 +992,6 @@
 ||management-adwirk.exads.com^
 ||management-boost.exads.com^
 ||management-itsup.exads.com^
-||management-paradoxgroup.exads.com^
-||management-paradoxmedia.exads.com^
 ||management-slice.exads.com^
 ||management-topple.exads.com^
 ||management-venntro.exads.com^
@@ -999,7 +1000,6 @@
 ||origin-ads.exdynsrv.com^
 ||origin-ads.exosrv.com^
 ||origin-ads.optimizesrv.com^
-||origin-ads.realsrv.com^
 ||rtb.ad.guru^
 ||rtb.advertrek.com^
 ||rtb.exoclick.com^
