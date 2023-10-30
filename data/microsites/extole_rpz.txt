@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698058195729        ; Serial
+           1698652816142        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,8 +137,7 @@ www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
-em8928.em.petco.com CNAME .
+em8561.go2bank.com CNAME .
 em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -463,6 +462,7 @@ share.calvinklein.us CNAME .
 share.carparts.com CNAME .
 share.cefaly.com CNAME .
 share.cellcom.ca CNAME .
+share.certapro.com CNAME .
 share.cheaperthandirt.com CNAME .
 share.cheaperthandirt.net CNAME .
 share.chewsidental.com CNAME .
@@ -493,7 +493,9 @@ share.earlybirdbooks.com CNAME .
 share.elpasotimes.com CNAME .
 share.elysiumhealth.com CNAME .
 share.empathywines.com CNAME .
+share.ent.com CNAME .
 share.enterprisenews.com CNAME .
+share.enzocustom.com CNAME .
 share.esteelauder.co.kr CNAME .
 share.esteelauder.com.au CNAME .
 share.esteelauder.com.tw CNAME .
@@ -514,6 +516,7 @@ share.giorgioarmanibeauty-usa.com CNAME .
 share.go2bank.com CNAME .
 share.greenlight.com CNAME .
 share.greenlightcard.com CNAME .
+share.gruntstyle.com CNAME .
 share.gxvebeauty.com CNAME .
 share.hanacure.com CNAME .
 share.hicapitalize.com CNAME .
@@ -621,6 +624,7 @@ share.stopagingnow.com CNAME .
 share.stridehealth.com CNAME .
 share.studiosashiko.com CNAME .
 share.sundaysfordogs.com CNAME .
+share.swordhealth.com CNAME .
 share.tallahassee.com CNAME .
 share.tauntongazette.com CNAME .
 share.tcpalm.com CNAME .
@@ -657,7 +661,8 @@ share.zenbusiness.com CNAME .
 www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
 sftp.extole.com CNAME .

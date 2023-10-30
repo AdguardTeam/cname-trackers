@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698058195729        ; Serial
+           1698652816142        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -144,6 +144,7 @@ a8.idiy.biz CNAME .
 a8.iisakafuji.online CNAME .
 a8.ikkatsu.jp CNAME .
 a8.industrial-branch.com CNAME .
+a8.infinitussub.com CNAME .
 a8.ippin-do.com CNAME .
 a8.ixyee.net CNAME .
 a8.jiiawater.com CNAME .
@@ -319,6 +320,7 @@ a8.worldikids.com CNAME .
 a8.www.melonbooks.co.jp CNAME .
 a8.www.nicosuma.com CNAME .
 a8.www.retrospect.co.jp CNAME .
+a8.www.seesaa.co.jp CNAME .
 a8.www.smart-factor.co.jp CNAME .
 a8.xn--google-873exa8m6161dbbyb.net CNAME .
 a8.xn--y8jd4aybzqd.jp CNAME .
@@ -328,6 +330,7 @@ a8.yumejin.jp CNAME .
 a8.yuzen-official.com CNAME .
 a8.zen-camps.com CNAME .
 a8.zeroku.jp CNAME .
+a8.zipan.jp CNAME .
 a8.zzz-land.com CNAME .
 a802.xn--38jf6c4pa86a1dv833cexrb.com CNAME .
 a8aspconv.itx-home-router.com CNAME .
@@ -480,7 +483,6 @@ a8clk.kaitori-toretoku.jp CNAME .
 a8clk.kaitori-yamatokukimono.jp CNAME .
 a8clk.kaitoriyasan.group CNAME .
 a8clk.kake-barai.com CNAME .
-a8clk.kakuyasu-shaken-af.com CNAME .
 a8clk.kanagawa-zero.com CNAME .
 a8clk.kenkoukazoku.co.jp CNAME .
 a8clk.kihada.jp CNAME .
@@ -531,6 +533,7 @@ a8clk.officehikari119.com CNAME .
 a8clk.okawa-god.jp CNAME .
 a8clk.olulu-online.jp CNAME .
 a8clk.onemile.jp CNAME .
+a8clk.only-story.jp CNAME .
 a8clk.order-box.net CNAME .
 a8clk.order.lpio.jp CNAME .
 a8clk.orders.bon-book.jp CNAME .
@@ -613,6 +616,7 @@ a8clk.unlace.net CNAME .
 a8clk.ur-s.me CNAME .
 a8clk.voice-inc.co.jp CNAME .
 a8clk.waq-online.com CNAME .
+a8clk.web-camp.io CNAME .
 a8clk.weleda.jp CNAME .
 a8clk.wi-ho.net CNAME .
 a8clk.works.sagooo.com CNAME .
@@ -694,6 +698,7 @@ a8cv.atgp.jp CNAME .
 a8cv.auhikari-bykddi.com CNAME .
 a8cv.b-concept.tokyo CNAME .
 a8cv.babybjorn.jp CNAME .
+a8cv.baku-art.jp CNAME .
 a8cv.balanslab.jp CNAME .
 a8cv.bb-internet-qsyu.net CNAME .
 a8cv.bbt757.com CNAME .
@@ -998,6 +1003,7 @@ a8cv.risu-japan.com CNAME .
 a8cv.rita-style.co.jp CNAME .
 a8cv.rmkrmk.com CNAME .
 a8cv.rohto.co.jp CNAME .
+a8cv.runteq.jp CNAME .
 a8cv.s-darts.com CNAME .
 a8cv.sabusuta.jp CNAME .
 a8cv.safetycart.jp CNAME .
@@ -1313,6 +1319,7 @@ onenet.gakujutsu.com CNAME .
 p004.raffi-hair.com CNAME .
 p005.raffi-hair.com CNAME .
 pages2.rizap.jp CNAME .
+pr.yokohama-chokin.com CNAME .
 rsv.dankore.jp CNAME .
 salto.freeto.jp CNAME .
 shop.anu-cosme.com CNAME .

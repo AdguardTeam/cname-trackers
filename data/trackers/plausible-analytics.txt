@@ -47,12 +47,14 @@
 ||analytics.ramiyer.me^
 ||analytics.recamov.com^
 ||analytics.sideprojectsoftware.com^
+||analytics.sixfigureswine.com^
 ||analytics.teamcovenant.com^
 ||analytics.top10-charts.com^
 ||analytics.trust.page^
 ||analytics.uxmetrics.com^
 ||analytics.valheimgamer.com^
 ||analytics.vanilla-project.guide^
+||analytics.wayland.app^
 ||analytics.whostheboss.co.uk^
 ||analytics.whotargets.me^
 ||analytics.winter.ink^
@@ -294,6 +296,7 @@
 ||plsbl-staging.edison.se^
 ||plsbl.edison.se^
 ||prism.drivingkyoto.com^
+||prism.feurer-network.ch^
 ||prism.netherlandlines.com^
 ||prism.pablonouvelle.com^
 ||prism.raumgleiter.com^
@@ -384,7 +387,6 @@
 ||stats.auto-dombrowski.de^
 ||stats.autofarm.network^
 ||stats.autoscholarwithmrb.com^
-||stats.babymatras.net^
 ||stats.balticgruppen.se^
 ||stats.bananatimer.com^
 ||stats.bcdtravel.com^
@@ -414,7 +416,6 @@
 ||stats.bmxdevils.be^
 ||stats.book-rec.com^
 ||stats.booncon.com^
-||stats.bordspel.org^
 ||stats.boscabeatha.ie^
 ||stats.breathly.app^
 ||stats.brennholzauktion.com^
@@ -424,7 +425,6 @@
 ||stats.buddiy.net^
 ||stats.bungeefit.co.uk^
 ||stats.burocratin.com^
-||stats.buttondown.email^
 ||stats.byma.com.br^
 ||stats.byterocket.dev^
 ||stats.cable.tech^
@@ -455,7 +455,6 @@
 ||stats.cohere.so^
 ||stats.coldbox.org^
 ||stats.connect.pm^
-||stats.contentwritingjobs.com^
 ||stats.convaise.com^
 ||stats.corona-navi.de^
 ||stats.covid.vitordino.com^
@@ -481,7 +480,6 @@
 ||stats.declanbyrd.co.uk^
 ||stats.deja-lu.de^
 ||stats.depends-on-the-definition.com^
-||stats.designerpowerup.com^
 ||stats.deva.guru^
 ||stats.develop.wwdcscholars.com^
 ||stats.devenet.eu^
@@ -526,7 +524,6 @@
 ||stats.engel-apotheke.de^
 ||stats.engeldirekt.de^
 ||stats.engineering.freeagent.com^
-||stats.entreno.fcalan.org^
 ||stats.equium.io^
 ||stats.erbridge.co.uk^
 ||stats.erikinthekitchen.com^
@@ -543,7 +540,6 @@
 ||stats.faluninfo.si^
 ||stats.fantinel.dev^
 ||stats.fastbackward.app^
-||stats.fcalan.org^
 ||stats.feathercss.makerkits.co^
 ||stats.felipesere.com^
 ||stats.femtobill.com^
@@ -656,7 +652,6 @@
 ||stats.koerner-logopaedie.de^
 ||stats.kongressen.com^
 ||stats.krauss.io^
-||stats.kruimel-dief.nl^
 ||stats.kryptoslogic.com^
 ||stats.ks-labs.de^
 ||stats.kyushoku2050.org^
@@ -687,7 +682,6 @@
 ||stats.lmdsp.com^
 ||stats.localmetravel.com^
 ||stats.lord.io^
-||stats.lostandfound.io^
 ||stats.lstfnd.de^
 ||stats.ltdhunt.com^
 ||stats.luieremmer.net^
@@ -717,14 +711,12 @@
 ||stats.mesenvies.fr^
 ||stats.michaeloliver.dev^
 ||stats.missionrabies.com^
-||stats.moontalk.se^
 ||stats.mostlycoding.com.au^
 ||stats.motion-effect.com^
 ||stats.motorcyclepartsireland.ie^
 ||stats.mrtnvh.com^
 ||stats.multiplelenses.com^
 ||stats.multiply.cloud^
-||stats.muziekmobiel.net^
 ||stats.myherocard.com^
 ||stats.napaconnect.ca^
 ||stats.navedislam.com^
@@ -872,6 +864,7 @@
 ||stats.southswindon-pc.gov.uk^
 ||stats.sparkloop.app^
 ||stats.spreadtheworld.net^
+||stats.sprune.com^
 ||stats.sqlteam.com^
 ||stats.squaddy.se^
 ||stats.stack11.io^
@@ -891,6 +884,7 @@
 ||stats.symbiofest.cz^
 ||stats.table.party^
 ||stats.tarasyarema.com^
+||stats.tax-venture.de^
 ||stats.teamdetails.com^
 ||stats.tedserbinski.com^
 ||stats.teenranch.com^

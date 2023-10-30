@@ -268,9 +268,11 @@ content.readiness.familyprepaiddebit.com
 content.readiness.paycardsolutions.com
 content.realquest.com
 content.reisource.com
+content.rias.co.uk
 content.royalairmaroc.com
 content.royalvegascasino.ca
 content.rubyfortune.ca
+content.sb.lt
 content.sfbli.com
 content.sheerid.com
 content.smallbusiness.paytrust.com
@@ -595,9 +597,11 @@ prod-jfcudc.chaperone.lumindigitalhosting.com
 prod-lafcuca.chaperone.lumindigitalhosting.com
 prod-lfcuva.chaperone.lumindigitalhosting.com
 prod-mscuct.chaperone.lumindigitalhosting.com
+prod-navigator.chaperone.lumindigitalhosting.com
 prod-njfcunj.chaperone.lumindigitalhosting.com
 prod-northland.chaperone.lumindigitalhosting.com
 prod-oneaz.chaperone.lumindigitalhosting.com
+prod-pacservice.chaperone.lumindigitalhosting.com
 prod-pathways.chaperone.lumindigitalhosting.com
 prod-prospera.chaperone.lumindigitalhosting.com
 prod-redwood.chaperone.lumindigitalhosting.com
@@ -829,6 +833,7 @@ th.barclays.co.uk
 thm.v.me
 thm.visa.com
 thm12.visa.com
+thmep.zondacrypto.com
 thmep.zondaglobal.com
 threatmetrix.lendingclub.com
 thrm-scrq-0001.crypterium.com

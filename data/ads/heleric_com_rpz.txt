@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698058195729        ; Serial
+           1698652816142        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,8 @@ ag.axonesjames.com CNAME .
 ah.tabskeawe.com CNAME .
 al.neuraleisfahan.com CNAME .
 an.pintaentrep.com CNAME .
+ao.tournaipestles.com CNAME .
+ap.bouncelargo.com CNAME .
 aq.ferisonledger.com CNAME .
 ar.pagodaskeeker.com CNAME .
 ar.tankasphose.com CNAME .
@@ -123,6 +125,7 @@ fx.muntiglesia.com CNAME .
 fy.uncheckluggies.com CNAME .
 ga.asseizeenl.com CNAME .
 ga.fentwigful.com CNAME .
+gb.akhyanaoverhot.com CNAME .
 gf.goreplacers.com CNAME .
 gg.warmanmamelon.com CNAME .
 gi.okapisail.com CNAME .
@@ -260,6 +263,7 @@ oz.lokaforky.com CNAME .
 pb.shaledpaidle.com CNAME .
 pg.maftirkolo.com CNAME .
 pk.axitessubclei.com CNAME .
+pk.tawersasocial.com CNAME .
 pm.clokemidriff.com CNAME .
 pm.teawaredanzon.com CNAME .
 pq.carlingquerent.com CNAME .
@@ -300,6 +304,7 @@ rg.canesbilker.com CNAME .
 rh.sirionehusky.com CNAME .
 rj.rivageroily.com CNAME .
 rj.unhaveabobra.com CNAME .
+rl.fracturmeropia.com CNAME .
 rm.bauderylysines.com CNAME .
 rn.kiblahpithing.com CNAME .
 ro.vacuomedogeys.com CNAME .

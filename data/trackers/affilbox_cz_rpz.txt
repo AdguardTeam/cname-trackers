@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698058195729        ; Serial
+           1698652816142        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,7 +61,6 @@ affil.nanospace.cz CNAME .
 affil.nutriadapt.cz CNAME .
 affil.peliskydog.cz CNAME .
 affil.plkshop.cz CNAME .
-affil.powerdays.eu CNAME .
 affil.progamingshop.sk CNAME .
 affil.reedog.cz CNAME .
 affil.rutan.cz CNAME .
@@ -103,7 +102,6 @@ affilbox.kronikazivota.sk CNAME .
 affilbox.kvaskovanie.sk CNAME .
 affilbox.rondopartner.cz CNAME .
 affilbox.stygremvkleci.cz CNAME .
-affiliate.2gispraha.cz CNAME .
 affiliate.4fresh.cz CNAME .
 affiliate.a1m.cz CNAME .
 affiliate.activeczech.com CNAME .
@@ -207,6 +205,7 @@ affiliate.loveo.cz CNAME .
 affiliate.manvel.cz CNAME .
 affiliate.martinreznicek.cz CNAME .
 affiliate.milagro.cz CNAME .
+affiliate.mobilniplatby.cz CNAME .
 affiliate.mobilonline.sk CNAME .
 affiliate.mojemincovna.cz CNAME .
 affiliate.montessorihracky.cz CNAME .
@@ -312,6 +311,7 @@ hcbox.verapostele.sk CNAME .
 isic.dentalweb.cz CNAME .
 isic.kopirkaostrava.cz CNAME .
 isicpartner.mamechut.cz CNAME .
+kaocko.swaglift.com CNAME .
 lhota.stanicezoo.cz CNAME .
 login.affiliatesit.cz CNAME .
 money.mioweb.cz CNAME .
@@ -411,6 +411,7 @@ my.weplayhandball.ro CNAME .
 my.weplayhandball.si CNAME .
 my.weplayhandball.sk CNAME .
 my.weplayvolleyball.bg CNAME .
+my.weplayvolleyball.ch CNAME .
 my.weplayvolleyball.cz CNAME .
 my.weplayvolleyball.gr CNAME .
 my.weplayvolleyball.ro CNAME .
@@ -456,6 +457,7 @@ partner.brawolife.cz CNAME .
 partner.breakout.cz CNAME .
 partner.brilianty.cz CNAME .
 partner.brillbird.cz CNAME .
+partner.burzazive.cz CNAME .
 partner.bydlimekrasne.cz CNAME .
 partner.cakemarket.eu CNAME .
 partner.calita.cz CNAME .
@@ -637,6 +639,7 @@ partner.psidetektiv.cz CNAME .
 partner.root.cz CNAME .
 partner.royalfashion.cz CNAME .
 partner.runningpro.cz CNAME .
+partner.ruzovyslon.cz CNAME .
 partner.safelab.sk CNAME .
 partner.salibandy.shop CNAME .
 partner.santao.cz CNAME .

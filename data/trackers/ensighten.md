@@ -3,8 +3,8 @@
 ## Disguised trackers list
 
 * nc0.co
+    * acaseforwomen.edge.nc0.co
     * aljazeera.edge.nc0.co
-    * amex.edge.nc0.co
     * amica.edge.nc0.co
     * anntaylor.edge.nc0.co
     * betway.edge.nc0.co
@@ -16,7 +16,6 @@
     * cq-storable.edge.nc0.co
     * cq-zoll.edge.nc0.co
     * danskespil.edge.nc0.co
-    * davidyurman.edge.nc0.co
     * dell.edge.nc0.co
     * delta.edge.nc0.co
     * dieteren.edge.nc0.co
@@ -45,14 +44,11 @@
     * marriott.edge.nc0.co
     * nab.edge.nc0.co
     * nzz.edge.nc0.co
-    * ovative.edge.nc0.co
     * postoffice.edge.nc0.co
-    * questtms.edge.nc0.co
     * rac.edge.nc0.co
     * sagaplc.edge.nc0.co
     * selectcomfort.edge.nc0.co
     * statefarm.edge.nc0.co
-    * sterlingjewelers.edge.nc0.co
     * suncorp.edge.nc0.co
     * symantec.edge.nc0.co
     * synchrony.edge.nc0.co
@@ -79,11 +75,10 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| privacy.acaseforwomen.com | acaseforwomen.edge.nc0.co |
 | tags.aljazeera.com | aljazeera.edge.nc0.co |
 | tags.aljazeera.net | aljazeera.edge.nc0.co |
-| ep.americanexpress.com | amex.edge.nc0.co |
 | analytics.amica.com | amica.edge.nc0.co |
-| analyticstest.amica.com | amica.edge.nc0.co |
 | activate.anntaylor.com | anntaylor.edge.nc0.co |
 | tms.betway.com | betway.edge.nc0.co |
 | ensighten.bhphoto.com | bhfoto.edge.nc0.co |
@@ -96,17 +91,15 @@
 | privacyconsentmgmt.storable.com | cq-storable.edge.nc0.co |
 | privacy.zoll.com | cq-zoll.edge.nc0.co |
 | ensightenone.danskespil.dk | danskespil.edge.nc0.co |
-| ensighten.davidyurman.com | davidyurman.edge.nc0.co |
 | sst.dell.com | dell.edge.nc0.co |
 | pulse.delta.com | delta.edge.nc0.co |
 | tms.delta.com | delta.edge.nc0.co |
 | cmp.audi.be | dieteren.edge.nc0.co |
 | cmp.cupra.be | dieteren.edge.nc0.co |
 | cmp.dieteren.be | dieteren.edge.nc0.co |
-| cmp.microlino.be | dieteren.edge.nc0.co |
-| cmp.microlino.fr | dieteren.edge.nc0.co |
 | cmp.porsche.be | dieteren.edge.nc0.co |
 | cmp.seat.be | dieteren.edge.nc0.co |
+| cmp.skoda.be | dieteren.edge.nc0.co |
 | cmp.vdfin.be | dieteren.edge.nc0.co |
 | cmp.volkswagen.be | dieteren.edge.nc0.co |
 | emetrics.eastwestbank.com | eastwestbank.edge.nc0.co |
@@ -126,6 +119,7 @@
 | activate.courant.com | edge-geo.nc0.co |
 | activate.dailypress.com | edge-geo.nc0.co |
 | activate.dailysouthtown.com | edge-geo.nc0.co |
+| activate.delmartimes.net | edge-geo.nc0.co |
 | activate.delmartimes.net | edge-geo.nc0.co |
 | activate.discoversd.com | edge-geo.nc0.co |
 | activate.elgincouriernews.com | edge-geo.nc0.co |
@@ -165,6 +159,7 @@
 | activate.tribpubads.com | edge-geo.nc0.co |
 | activate.tronc.com | edge-geo.nc0.co |
 | activate.troncads.com | edge-geo.nc0.co |
+| activate.troncads.com | edge-geo.nc0.co |
 | activate.vagazette.com | edge-geo.nc0.co |
 | activate.vivelohoy.com | edge-geo.nc0.co |
 | activate1.fidelity.com | edge-geo.nc0.co |
@@ -179,7 +174,6 @@
 | agility.ncaa.com | edge-geo.nc0.co |
 | agility.ncaa.com | edge-geo.nc0.co |
 | agility.tbs.com | edge-geo.nc0.co |
-| agility.tbs.com | edge-geo.nc0.co |
 | agility.tcm.com | edge-geo.nc0.co |
 | agility.tntdrama.com | edge-geo.nc0.co |
 | agility.trutv.com | edge-geo.nc0.co |
@@ -191,7 +185,6 @@
 | analytics.carecreditlearning.com | edge-geo.nc0.co |
 | analytics.carecreditprovidercenter.com | edge-geo.nc0.co |
 | analytics.ensighten.com | edge-geo.nc0.co |
-| analytics.lumberliquidators.com | edge-geo.nc0.co |
 | analytics.lumberliquidators.com | edge-geo.nc0.co |
 | analytics.mysynchrony.com | edge-geo.nc0.co |
 | analytics.mysynchrony.com | edge-geo.nc0.co |
@@ -208,7 +201,6 @@
 | analytics.synchronyfinancial.com | edge-geo.nc0.co |
 | analytics.synchronyretail.com | edge-geo.nc0.co |
 | analytics.synchronyuniversity.com | edge-geo.nc0.co |
-| analyticstest.amica.com | edge-geo.nc0.co |
 | analyticstest.amica.com | edge-geo.nc0.co |
 | assets1.aainsurance.co.nz | edge-geo.nc0.co |
 | assets1.aainsurance.co.nz | edge-geo.nc0.co |
@@ -228,6 +220,7 @@
 | assets1.terrischeer.com.au | edge-geo.nc0.co |
 | assets1.vanz.vero.co.nz | edge-geo.nc0.co |
 | assets1.vero.co.nz | edge-geo.nc0.co |
+| assets1.vero.co.nz | edge-geo.nc0.co |
 | assets1.vero.com.au | edge-geo.nc0.co |
 | attribution.batesfootwear.com | edge-geo.nc0.co |
 | attribution.grasshoppers.com | edge-geo.nc0.co |
@@ -245,13 +238,11 @@
 | businessmetrics.syf.com | edge-geo.nc0.co |
 | cm.oneidentity.com | edge-geo.nc0.co |
 | cm.quest.com | edge-geo.nc0.co |
-| cm.quest.com | edge-geo.nc0.co |
 | cmp.audi.be | edge-geo.nc0.co |
 | cmp.cupra.be | edge-geo.nc0.co |
 | cmp.cupra.be | edge-geo.nc0.co |
 | cmp.dieteren.be | edge-geo.nc0.co |
 | cmp.dieterengroup.com | edge-geo.nc0.co |
-| cmp.microlino.be | edge-geo.nc0.co |
 | cmp.microlino.be | edge-geo.nc0.co |
 | cmp.microlino.fr | edge-geo.nc0.co |
 | cmp.myway.be | edge-geo.nc0.co |
@@ -335,6 +326,7 @@
 | eb.trbas.com | edge-geo.nc0.co |
 | emetrics.eastwestbank.com | edge-geo.nc0.co |
 | ens.bote.ch | edge-geo.nc0.co |
+| ens.bote.ch | edge-geo.nc0.co |
 | ens.luzernerzeitung.ch | edge-geo.nc0.co |
 | ens.moneyhouse.ch | edge-geo.nc0.co |
 | ens.nidwaldnerzeitung.ch | edge-geo.nc0.co |
@@ -400,10 +392,13 @@
 | p.pulse.toyota.com | edge-geo.nc0.co |
 | pfa.levexis.com | edge-geo.nc0.co |
 | privacy-digital.mandg.com | edge-geo.nc0.co |
+| privacy-digital.mandg.com | edge-geo.nc0.co |
 | privacy-digital.pru.co.uk | edge-geo.nc0.co |
 | privacy.28degreescard.com.au | edge-geo.nc0.co |
 | privacy.acaseforwomen.com | edge-geo.nc0.co |
+| privacy.acaseforwomen.com | edge-geo.nc0.co |
 | privacy.acc2-online.heineken.co.za | edge-geo.nc0.co |
+| privacy.acc2.heishop.com.br | edge-geo.nc0.co |
 | privacy.acc2.heishop.com.br | edge-geo.nc0.co |
 | privacy.affligembeer.com | edge-geo.nc0.co |
 | privacy.amadrinks.be | edge-geo.nc0.co |
@@ -521,21 +516,22 @@
 | uat1-dc.pagoda.com | edge-geo.nc0.co |
 | uat1-dc.zales.com | edge-geo.nc0.co |
 | virginaustralia.activate.ensighten.com | edge-geo.nc0.co |
+| www.themorningcallmediagroup.com | edge-geo.nc0.co |
 | data.privacy.ensighten.com | ens-edge.edge.nc0.co |
 | data.experian.co.uk | experian.edge.nc0.co |
-| data.experianidentityservice.co.uk | experian.edge.nc0.co |
 | tags.experian.co.uk | experian.edge.nc0.co |
 | tms.experian.com | experianus.edge.nc0.co |
 | activate1.fidelity.com | fidelity.edge.nc0.co |
 | fcone.fidelitycharitable.org | fidelitycgf.edge.nc0.co |
 | fctms.fidelity.com | fidelitycgf.edge.nc0.co |
 | fctms.fidelitycharitable.org | fidelitycgf.edge.nc0.co |
-| privacy.gemfinance.co.nz | gecapitalau.edge.nc0.co |
+| privacy.28degreescard.com.au | gecapitalau.edge.nc0.co |
 | gst.pulse.buyatoyota.com | gst.edge.nc0.co |
+| gst.pulse.toyota.com | gst.edge.nc0.co |
 | tm.hdmtools.com | hearst.edge.nc0.co |
 | ensighten.heishop.com.br | heineken-b2b.edge.nc0.co |
 | ensighten.heishop.mx | heineken-b2b.edge.nc0.co |
-| privacy.affligembeer.com | heineken.edge.nc0.co |
+| privacy.acc2.heishop.com.br | heineken.edge.nc0.co |
 | privacy.birramoretti.com | heineken.edge.nc0.co |
 | privacy.heineken.it | heineken.edge.nc0.co |
 | ensighten.huntingtonbank.com | huntington.edge.nc0.co |
@@ -552,17 +548,15 @@
 | tms.marriott.com | marriott.edge.nc0.co |
 | tms-test.nab.com.au | nab.edge.nc0.co |
 | tms.nab.com.au | nab.edge.nc0.co |
+| ens.bote.ch | nzz.edge.nc0.co |
 | ens.luzernerzeitung.ch | nzz.edge.nc0.co |
 | ens.nzz.ch | nzz.edge.nc0.co |
 | ens.themarket.ch | nzz.edge.nc0.co |
-| analytics.lumberliquidators.com | ovative.edge.nc0.co |
 | ensighten.postoffice.co.uk | postoffice.edge.nc0.co |
-| cm.quest.com | questtms.edge.nc0.co |
 | pulse.rac.co.uk | rac.edge.nc0.co |
 | csp.prod.saga.co.uk | sagaplc.edge.nc0.co |
 | pulse.sleepnumber.com | selectcomfort.edge.nc0.co |
 | ddc.statefarm.com | statefarm.edge.nc0.co |
-| dc.zales.com | sterlingjewelers.edge.nc0.co |
 | activate.suncorp.com.au | suncorp.edge.nc0.co |
 | assets1.aainsurance.co.nz | suncorp.edge.nc0.co |
 | assets1.aami.com.au | suncorp.edge.nc0.co |
@@ -573,13 +567,12 @@
 | assets1.shannons.com.au | suncorp.edge.nc0.co |
 | assets1.suncorp.com.au | suncorp.edge.nc0.co |
 | assets1.terrischeer.com.au | suncorp.edge.nc0.co |
+| assets1.vero.co.nz | suncorp.edge.nc0.co |
 | ensighten.norton.com | symantec.edge.nc0.co |
 | analytics.carecreditprovidercenter.com | synchrony.edge.nc0.co |
 | analytics.syf.com | synchrony.edge.nc0.co |
 | analytics.synchrony.com | synchrony.edge.nc0.co |
-| analytics.synchronyfinancial.com | synchrony.edge.nc0.co |
 | metrics.mysynchrony.com | synchrony.edge.nc0.co |
-| secureanalytics.syf.com | synchrony.edge.nc0.co |
 | secureanalytics.synchronycredit.com | synchrony.edge.nc0.co |
 | analytics.synchronybank.com | synchronybank.edge.nc0.co |
 | analytics.synchronybusiness.com | synchronybrc.edge.nc0.co |
@@ -591,22 +584,21 @@
 | sst.nab.com.au | t.nc0.co |
 | attribution.theworks.co.uk | theworks.edge.nc0.co |
 | nexus.ensighten.tiaa.org | tiaa-cref.edge.nc0.co |
-| sst.homegoods.com | tjx.edge.nc0.co |
 | sst.marshalls.com | tjx.edge.nc0.co |
 | sst.tjmaxx.tjx.com | tjx.edge.nc0.co |
 | nexus.toyota.com | toyotanational.edge.nc0.co |
 | p.pulse.lexus.com | toyotanational.edge.nc0.co |
 | p.pulse.toyota.com | toyotanational.edge.nc0.co |
+| activate.delmartimes.net | tronc.edge.nc0.co |
 | activate.latimes.com | tronc.edge.nc0.co |
 | activate.sandiegouniontribune.com | tronc.edge.nc0.co |
+| activate.troncads.com | tronc.edge.nc0.co |
 | eb.trbas.com | tronc.edge.nc0.co |
-| agility.cartoonnetwork.com | turner.edge.nc0.co |
+| www.themorningcallmediagroup.com | tronc.edge.nc0.co |
 | agility.cnn.com | turner.edge.nc0.co |
 | agility.nba.com | turner.edge.nc0.co |
 | agility.ncaa.com | turner.edge.nc0.co |
-| agility.tbs.com | turner.edge.nc0.co |
 | agility.tcm.com | turner.edge.nc0.co |
-| agility.tntdrama.com | turner.edge.nc0.co |
 | agility.trutv.com | turner.edge.nc0.co |
 | tdi.cartoonnetwork.com | turnerintl.edge.nc0.co |
 | dcf.espn.com | twdc-dtci.edge.nc0.co |

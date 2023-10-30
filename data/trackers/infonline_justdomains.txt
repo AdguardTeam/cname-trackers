@@ -100,6 +100,7 @@ data-0cc10e3905.wuv.de
 data-0cca9d915f.missmum.at
 data-0cf18bcfe3.katholisch.de
 data-0d1a0271a9.instyle.de
+data-0d202e2d69.tirolerin.at
 data-0d5230f0d5.tvmovie.de
 data-0d9eff53aa.kuhn-fachmedien.de
 data-0dc128409f.watchtime.net
@@ -119,6 +120,7 @@ data-10e222a818.ligaportal.at
 data-1105c42328.apps.iocnt.de
 data-11c63b1cbc.abschied-nehmen.de
 data-11c63b1cbc.fcmlive.de
+data-11c63b1cbc.magdeburg-fussball.de
 data-11c63b1cbc.mz-jobs.de
 data-11c63b1cbc.mz.de
 data-11c63b1cbc.sao.de
@@ -384,7 +386,6 @@ data-30e0430fbb.thueringer-allgemeine.de
 data-30e0430fbb.tlz.de
 data-30e0430fbb.trauer-in-thueringen.de
 data-30e91950da.joyn.at
-data-311d8c614b.naturalstone-online.com
 data-311d8c614b.natursteinonline.de
 data-31ba81426f.apps.iocnt.de
 data-31c137b707.sanitaerjournal.de
@@ -399,6 +400,7 @@ data-339e8471f1.bau-welt.de
 data-341c3a0fe0.apps.iocnt.de
 data-34484cd75e.apps.iocnt.de
 data-3452ec2236.caravaning.de
+data-34565915dd.firmenwissen.com
 data-34565915dd.firmenwissen.de
 data-353c1c8501.falstaff.com
 data-367bcf5bd6.german-retail-blog.com
@@ -413,6 +415,7 @@ data-37acaca926.maedchen.de
 data-38132d333d.e-hausaufgaben.de
 data-3823552b7a.sport.de
 data-382f03151d.harpersbazaar.de
+data-3839bfef3b.diesteirerin.at
 data-389b910202.axiell.de
 data-389b910202.moenchengladbach.de
 data-38a153cf0d.vital.de
@@ -648,6 +651,7 @@ data-497ecca600.saarbruecker-zeitung.de
 data-497ecca600.sol.de
 data-497ecca600.stadt-kurier.de
 data-497ecca600.tonight.de
+data-497ecca600.trauer.de
 data-497ecca600.volksfreund.de
 data-497ecca600.wuppertaler-rundschau.de
 data-497f575d82.businessinsider.de
@@ -840,6 +844,7 @@ data-62650cd9a5.golem.de
 data-626887dee6.0rtl.de
 data-626887dee6.890rtl.de
 data-62688b6a00.apps.iocnt.de
+data-62bafeaa07.6rtl.com
 data-62e8b40b12.apps.iocnt.de
 data-62e93c650b.entdeckertag.de
 data-62e93c650b.hannover.de
@@ -857,6 +862,7 @@ data-63798c78f2.apps.iocnt.de
 data-638190bf02.galileo.tv
 data-639ebd97e3.transport-online.de
 data-63bbe3ec45.wuv.de
+data-63ef19fa52.apps.iocnt.de
 data-6416365902.sbz-online.de
 data-6463194ae5.fitbook.de
 data-64f191ee43.eurotransport.de
@@ -1138,6 +1144,7 @@ data-8cbd29cf98.kabeleins.at
 data-8cc19d99e5.deutsche-handwerks-zeitung.de
 data-8cca49835e.apps.iocnt.de
 data-8d3bec589f.schwaebische.de
+data-8d4563cf4e.gesundheitstrends.com
 data-8d5185014c.apps.iocnt.de
 data-8d9711db79.gusto.at
 data-8dfcf84b38.rundschau-online.de
@@ -1241,6 +1248,7 @@ data-9aa5e80b66.superillu.de
 data-9ab6c5063f.sat1gold.at
 data-9ab8a13cda.it-business.de
 data-9abcf11034.einfachkochen.de
+data-9ac0797a75.4gamechangers.io
 data-9b2f644d2c.einfachbacken.de
 data-9b31fae636.grazia-magazin.de
 data-9b3233a086.bunte.de
@@ -1344,6 +1352,7 @@ data-a4e945dbeb.sz-fahrradfest.de
 data-a4e945dbeb.sz-immo.de
 data-a4e945dbeb.sz-jobs.de
 data-a4e945dbeb.sz-pinnwand.de
+data-a4e945dbeb.sz-ticketservice.de
 data-a4e945dbeb.sz-trauer.de
 data-a5210336ab.mt.de
 data-a58f7aceaf.boden-wand-decke.de
@@ -1356,6 +1365,7 @@ data-a6c3c2bffa.mamiweb.de
 data-a6faa6efe2.insuedthueringen.de
 data-a6faa6efe2.thueringen-gedenkt.de
 data-a76072cba2.sbz-monteur.de
+data-a764ba99aa.das-pta-magazin.de
 data-a77fb9b63f.osthessen-news.de
 data-a784464fa2.femeda.de
 data-a784464fa2.hallo-eltern.de
@@ -1707,6 +1717,7 @@ data-d4db30a18b.borkumer-zeitung.de
 data-d4db30a18b.ga-online.de
 data-d4db30a18b.on-online.de
 data-d4db30a18b.oz-online.de
+data-d4db30a18b.zgo.de
 data-d4dfa4bc2c.focus.de
 data-d4dfa4bc2c.weather.com
 data-d4ecb517ab.cinema.de

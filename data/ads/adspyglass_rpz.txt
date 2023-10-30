@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698058195729        ; Serial
+           1698652816142        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -116,9 +116,9 @@ a9o.youlikeboys.com CNAME .
 aa.zerg.pro CNAME .
 aabtest.asg-media.com CNAME .
 ab.cumhot.org CNAME .
+abc.cda-hd.co CNAME .
 abc.comick.top CNAME .
 abutok.xyz CNAME .
-ad.animeitaly.org CNAME .
 ad.animeitaly.tv CNAME .
 ad.desibp.com CNAME .
 ad.emule-island.eu CNAME .
@@ -150,7 +150,6 @@ adxhand.icu CNAME .
 adzilla.icu CNAME .
 alt.fescity.com CNAME .
 amaz.emailon.top CNAME .
-analdinall.com CNAME .
 analik.icu CNAME .
 anti.347movie.com CNAME .
 anti.nukedfans.com CNAME .
@@ -167,6 +166,8 @@ arabs.alarabsex.com CNAME .
 arabs.alarbda.com CNAME .
 arabs.arabxforum.com CNAME .
 arabs.nodzway.com CNAME .
+arabs.xn--mgbcvg3b0d2b.com CNAME .
+arabs.xn--ngbs7dg.net CNAME .
 ars.comicarab.com CNAME .
 as.ebacdn.com CNAME .
 as.ebalovo.adult CNAME .
@@ -211,7 +212,6 @@ assets.taghtia.com CNAME .
 av5.mofoshd.org CNAME .
 avgle.com.7mmtv.top CNAME .
 avgle.com.jav-7mmtv.top CNAME .
-awmkrq.xxxspark.com CNAME .
 awrfds3.pornpapa.com CNAME .
 ax4.xmoviesland.com CNAME .
 b.bloblohub.com CNAME .
@@ -259,7 +259,6 @@ c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
 c6s.bionestraff.pro CNAME .
 cache.picxxxhub.com CNAME .
-cam.javboys.cam CNAME .
 cangatu.xyz CNAME .
 cckum.spinna.store CNAME .
 cdc.teensnorest.com CNAME .
@@ -339,6 +338,7 @@ gamestar.lol CNAME .
 getallt1.com CNAME .
 gg.xszcdn.com CNAME .
 ggg2fd.jav-7mmtv.top CNAME .
+ggt5v0ce7wvx2jw5coqf89lz3tnxis0.xyz CNAME .
 ghtry.amateurswild.com CNAME .
 glass.vixfilmes.online CNAME .
 glokta.info CNAME .
@@ -357,7 +357,6 @@ heyyou.spinna.shop CNAME .
 hitfuck.icu CNAME .
 hizgame.mom CNAME .
 hoakz.xyz CNAME .
-homemadeand.com CNAME .
 hot.sexyadsrun.com CNAME .
 hotmovstore.com CNAME .
 houdisco.xyz CNAME .
@@ -399,6 +398,8 @@ jo.4wank.com CNAME .
 jo.fapnado.xxx CNAME .
 jo.fapnow.xxx CNAME .
 jo.hqbang.com CNAME .
+js.allporncomic.com CNAME .
+js.eroticmv.com CNAME .
 js.j8jp.com CNAME .
 js.manga1000.top CNAME .
 js.mangajp.top CNAME .
@@ -508,7 +509,6 @@ ok.fapnow.xxx CNAME .
 ok.faptor.com CNAME .
 ok.hqbang.com CNAME .
 ok.starwank.com CNAME .
-ontj.com CNAME .
 open.oksrv.com CNAME .
 opus.sexyxxx.biz CNAME .
 orderz.lol CNAME .
@@ -516,6 +516,7 @@ orznp.spinna.store CNAME .
 outya.xyz CNAME .
 ox8.topsexhdvideos.com CNAME .
 ozoj.com CNAME .
+p.dfsnghhjhhhk.site CNAME .
 p.hgfdtujlknhkghf.site CNAME .
 p.strjuylfrjyk.site CNAME .
 p.upskirt.tv CNAME .
@@ -551,13 +552,13 @@ pred.7mmtv.top CNAME .
 profield.ddns.net CNAME .
 pubbucks.homes CNAME .
 px9.nuderedtube.com CNAME .
-pxgtus.xxxspark.com CNAME .
 qatak.beauty CNAME .
 qhip.com CNAME .
 qoqv.com CNAME .
 qoutec.shop CNAME .
 qsdr.mysunnylawn.com CNAME .
 quickzo.xyz CNAME .
+qwe4456133.justthegays.com CNAME .
 qx0.xnxxtubevideos.com CNAME .
 r.archertube.com CNAME .
 r.erohabu.com CNAME .
@@ -583,6 +584,7 @@ s4.sb89347.com CNAME .
 sailundu.xyz CNAME .
 sameplace.lol CNAME .
 sanbox.mom CNAME .
+sansuni.xyz CNAME .
 sape.ngumaz.com CNAME .
 satmon.neekstore.com CNAME .
 sbbb.spinna.xyz CNAME .
@@ -641,7 +643,6 @@ test2.maxx.ddac.ru CNAME .
 testcommon.soundrussian.com CNAME .
 thaz.xyz CNAME .
 tiktakz.xyz CNAME .
-titsandtits.com CNAME .
 tlv.ui02.com CNAME .
 toabuck.xyz CNAME .
 toaioi.lol CNAME .
@@ -684,6 +685,7 @@ www.adxhand.icu CNAME .
 www.antiadblock.info CNAME .
 www.bigboy.monster CNAME .
 www.bloblohub.com CNAME .
+www.cinemahd.top CNAME .
 www.f.bloblohub.com CNAME .
 www.go.ss-n-30.com CNAME .
 www.hq3x.com CNAME .
@@ -717,14 +719,12 @@ x.xxxmovies.fun CNAME .
 x1cdn.fin.ovh CNAME .
 x2c1v4.hentaigold.net CNAME .
 x2sfa.javgg.eu CNAME .
-xhandfuk.com CNAME .
 xn--q1a.bloblohub.com CNAME .
 xs213.javgg.club CNAME .
 xserve.zapurl.cc CNAME .
 xxx.sdtraff.com CNAME .
 xxxddd.baijav.com CNAME .
 xxxlove.rooski.net CNAME .
-xzillame.com CNAME .
 xzillla.icu CNAME .
 yhu5tw3mn64.jav-7mmtv.top CNAME .
 you75.youpornsexvideos.com CNAME .

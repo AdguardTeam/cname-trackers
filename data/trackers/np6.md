@@ -106,6 +106,7 @@
 | tr.asp10fl.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10fo.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10fp.espmp-nifr.net | tracking.bp01.net |
+| tr.asp10fx.espmp-cufr.net | tracking.bp01.net |
 | tr.asp10ga.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ge.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10h2.espmp-nifr.net | tracking.bp01.net |
@@ -121,6 +122,7 @@
 | tr.asp203m.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2045.espmp-nifr.net | tracking.bp01.net |
 | tr.asp204q.espmp-cufr.net | tracking.bp01.net |
+| tr.asp205a.espmp-cufr.net | tracking.bp01.net |
 | tr.asp2063.espmp-nifr.net | tracking.bp01.net |
 | tr.asp206k.espmp-agfr.net | tracking.bp01.net |
 | tr.asp2070.espmp-aufr.net | tracking.bp01.net |
@@ -241,7 +243,6 @@
 | tr.communication.offresb2b.fr | tracking.bp01.net |
 | tr.communication.top-office.com | tracking.bp01.net |
 | tr.companeo-news.co.uk | tracking.bp01.net |
-| tr.compte.fca-capital-france.fr | tracking.bp01.net |
 | tr.comunicacao.younited-credit.com | tracking.bp01.net |
 | tr.comunicazione.younited-credit.com | tracking.bp01.net |
 | tr.contact.astuceco.fr | tracking.bp01.net |
@@ -343,14 +344,12 @@
 | tr.email.gap-france.fr | tracking.bp01.net |
 | tr.email.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.email.infocredit.orangebank.fr | tracking.bp01.net |
-| tr.email.investissement-residence-service.fr | tracking.bp01.net |
 | tr.email.janedeboy.com | tracking.bp01.net |
 | tr.email.land-rover-experience.fr | tracking.bp01.net |
 | tr.email.maisonfoody.com | tracking.bp01.net |
 | tr.email.medicalexpo.com | tracking.bp01.net |
 | tr.email.mnpaf.fr | tracking.bp01.net |
 | tr.email.nauticexpo.com | tracking.bp01.net |
-| tr.email.partenaire-pour-investir.fr | tracking.bp01.net |
 | tr.email.pointfranchise.co.uk | tracking.bp01.net |
 | tr.email.rs-fr.com | tracking.bp01.net |
 | tr.email.securite-routiere.gouv.fr | tracking.bp01.net |
@@ -385,7 +384,6 @@
 | tr.emc.moethennessy.com | tracking.bp01.net |
 | tr.enedis-infos.fr | tracking.bp01.net |
 | tr.enews.customsolutions.fr | tracking.bp01.net |
-| tr.engie-globalenergy.info | tracking.bp01.net |
 | tr.enquete-cpf.ifop.com | tracking.bp01.net |
 | tr.enquetes.actionlogement.fr | tracking.bp01.net |
 | tr.entreprise-pro.info | tracking.bp01.net |
@@ -479,6 +477,7 @@
 | tr.info.galian.fr | tracking.bp01.net |
 | tr.info.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.info.lacentrale.fr | tracking.bp01.net |
+| tr.info.lettre.cci.fr | tracking.bp01.net |
 | tr.info.linnc.com | tracking.bp01.net |
 | tr.info.linxea.com | tracking.bp01.net |
 | tr.info.mango-mobilites.fr | tracking.bp01.net |
@@ -1092,6 +1091,7 @@
 | tr.xleads.digital | tracking.bp01.net |
 | tr.zojh.espmp-aluk.net | tracking.bp01.net |
 | tr1.bp06.net | tracking.bp01.net |
+| tr1.bp09.net | tracking.bp01.net |
 | tr1.bp26.net | tracking.bp01.net |
 | tr1.citroen-ipsos.com | tracking.bp01.net |
 | tr1.easy-v01.net | tracking.bp01.net |

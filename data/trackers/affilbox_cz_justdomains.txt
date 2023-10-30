@@ -50,7 +50,6 @@ affil.nanospace.cz
 affil.nutriadapt.cz
 affil.peliskydog.cz
 affil.plkshop.cz
-affil.powerdays.eu
 affil.progamingshop.sk
 affil.reedog.cz
 affil.rutan.cz
@@ -92,7 +91,6 @@ affilbox.kronikazivota.sk
 affilbox.kvaskovanie.sk
 affilbox.rondopartner.cz
 affilbox.stygremvkleci.cz
-affiliate.2gispraha.cz
 affiliate.4fresh.cz
 affiliate.a1m.cz
 affiliate.activeczech.com
@@ -196,6 +194,7 @@ affiliate.loveo.cz
 affiliate.manvel.cz
 affiliate.martinreznicek.cz
 affiliate.milagro.cz
+affiliate.mobilniplatby.cz
 affiliate.mobilonline.sk
 affiliate.mojemincovna.cz
 affiliate.montessorihracky.cz
@@ -301,6 +300,7 @@ hcbox.verapostele.sk
 isic.dentalweb.cz
 isic.kopirkaostrava.cz
 isicpartner.mamechut.cz
+kaocko.swaglift.com
 lhota.stanicezoo.cz
 login.affiliatesit.cz
 money.mioweb.cz
@@ -400,6 +400,7 @@ my.weplayhandball.ro
 my.weplayhandball.si
 my.weplayhandball.sk
 my.weplayvolleyball.bg
+my.weplayvolleyball.ch
 my.weplayvolleyball.cz
 my.weplayvolleyball.gr
 my.weplayvolleyball.ro
@@ -445,6 +446,7 @@ partner.brawolife.cz
 partner.breakout.cz
 partner.brilianty.cz
 partner.brillbird.cz
+partner.burzazive.cz
 partner.bydlimekrasne.cz
 partner.cakemarket.eu
 partner.calita.cz
@@ -626,6 +628,7 @@ partner.psidetektiv.cz
 partner.root.cz
 partner.royalfashion.cz
 partner.runningpro.cz
+partner.ruzovyslon.cz
 partner.safelab.sk
 partner.salibandy.shop
 partner.santao.cz

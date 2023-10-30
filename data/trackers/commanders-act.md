@@ -8,10 +8,8 @@
     * redirect33.tagcommander.com
     * redirect341.tagcommander.com
     * redirect342.tagcommander.com
-    * redirect343.tagcommander.com
     * redirect357.tagcommander.com
     * redirect362.tagcommander.com
-    * redirect378.tagcommander.com
     * redirect384.tagcommander.com
     * redirect395.tagcommander.com
     * redirect398.tagcommander.com
@@ -44,15 +42,14 @@
 | tag.boulanger.fr | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | tc.europcar.com | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | tc.europcar.com.au | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
+| tc.europcar.de | ct-phoenix-proxy-it-prod-475e2cdbe73ac97c.elb.eu-west-3.amazonaws.com |
 | data.decathlon.fr | redirect271.tagcommander.com |
 | tcdata.fnac.com | redirect28.tagcommander.com |
 | tag.boulanger.fr | redirect33.tagcommander.com |
 | data.decathlon.es | redirect341.tagcommander.com |
 | data.decathlon.co.uk | redirect342.tagcommander.com |
-| data.decathlon.it | redirect343.tagcommander.com |
 | tc.europcar.com | redirect357.tagcommander.com |
 | data.ouigo.com | redirect362.tagcommander.com |
-| tc.europcar.de | redirect378.tagcommander.com |
 | tc.europcar.com.au | redirect384.tagcommander.com |
 | acquisition.klm.com | redirect395.tagcommander.com |
 | data.decathlon.pl | redirect398.tagcommander.com |

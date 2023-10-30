@@ -31,6 +31,7 @@
 ||cdn.ftwpcn.com^
 ||cdn.gecl.xyz^
 ||cdn.gelhp.com^
+||cdn.genfpm.com^
 ||cdn.gocolow.com^
 ||cdn.hqwa.xyz^
 ||cdn.iople.com^
@@ -126,6 +127,7 @@
 ||ape.mfj.se^
 ||ape.smartplanschema.se^
 ||aphid.enjoleur.com^
+||aphid.nihilnegativum.com^
 ||aphid.polarcop.com^
 ||aphid.thyself.me^
 ||armadillo.axeneo7.qc.ca^
@@ -134,6 +136,7 @@
 ||armadillo.stacking.club^
 ||armadillo.superpeak.dk^
 ||asp.ashesashes.org^
+||asp.dimileeh.com^
 ||asp.podlist.de^
 ||asp.sepiasoft.eu^
 ||azlej8cdm.pragmaticwebsecurity.com^
@@ -656,7 +659,6 @@
 ||loon.ohmyfunds.com^
 ||louse.16bit.it^
 ||louse.demaree.space^
-||louse.messengo.com^
 ||louse.seanconnolly.dev^
 ||louse.sigle.io^
 ||lungfish.datadividendproject.com^
@@ -731,7 +733,6 @@
 ||mouse.andrewstiefel.com^
 ||mouse.anthony-noel.com^
 ||mouse.botreach.co^
-||mouse.mazemaker.app^
 ||mule.caddyserver.com^
 ||mule.pricelessai.com^
 ||mule.reel.so^
@@ -774,7 +775,6 @@
 ||panda.unpublished.app^
 ||panther.atgonlinecoaching.com^
 ||panther.codyhatfield.me^
-||panther.dividesignservice.com^
 ||panther.essentialwellnessyoga.com.au^
 ||panther.hoprnet.org^
 ||panther.pit-pit.com^
@@ -822,7 +822,6 @@
 ||platypus.tompec.com^
 ||platypus.zwei-bags.ch^
 ||polarbear.codeday.org^
-||polarbear.wpnow.dev^
 ||pony.ftm.cat^
 ||porcupine.dvresolve.com^
 ||porcupine.simpleprax.de^
@@ -870,7 +869,6 @@
 ||reptile.o-lit.fr^
 ||reptile.sat.trading^
 ||reptile.wyattblogs.com^
-||rhinoceros.cocotec.io^
 ||rhinoceros.codeagain.com^
 ||rhinoceros.krieger.io^
 ||rhinoceros.wus.life^
@@ -913,7 +911,6 @@
 ||sheep.littleboat.digital^
 ||sheep.pixair-survey.com^
 ||sheep.vaxstandby.com^
-||shrimp.joyfountainchurch.com^
 ||silkworm.bobsmechanicalrepairs.co.uk^
 ||silkworm.boxmood.be^
 ||silkworm.energizergrouplegal.com^
@@ -995,7 +992,6 @@
 ||takin.revolana.fr^
 ||tapir.lindahlstudios.com^
 ||tarantula.emotionalbaking.com^
-||tarantula.hashicorp.com^
 ||tarantula.searchbox.tech^
 ||tarantula.tuxedo.media^
 ||tarsier.eyal.codes^
@@ -1096,6 +1092,7 @@
 ||yak.animeawards.guide^
 ||yak.auclantis.com^
 ||yak.flutterblog.net^
+||yak.gregsullivan.com^
 ||yak.withlindy.com^
 ||zebra.gareth.sh^
 ||zebra.helpspot.com^

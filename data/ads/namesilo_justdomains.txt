@@ -899,6 +899,7 @@
 4795320.notify6.com
 4795534.notify6.com
 4795556.notify6.com
+4795568.notify6.com
 4795570.notify6.com
 4798638.notify6.com
 4799078.notify6.com
@@ -954,13 +955,11 @@ _sips._tcp.3323174.notifysrv.com
 a.a3ion.com
 a.ad.guru
 a.addisplaynetwork.com
-a.adnflow.com
 a.adsession.com
 a.advertrek.com
 a.asvsm.com
 a.bizonads-ssp.com
 a.etology.com
-a.native7.com
 a.paradoxgroup.uk
 a.redpathmedia.com
 a.rocoads.net
@@ -997,9 +996,6 @@ management-topple.exads.com
 management-venntro.exads.com
 management-vsmedia.exads.com
 management.adxnow.com
-origin-ads.exdynsrv.com
-origin-ads.exosrv.com
-origin-ads.optimizesrv.com
 rtb.ad.guru
 rtb.advertrek.com
 rtb.exoclick.com
@@ -1099,6 +1095,7 @@ www.3191479.notifysrv.com
 www.3207695.notify6.com
 www.3227697.notify6.com
 www.3243082.notifysrv.com
+www.3254306.notifysrv.com
 www.3466863.notify6.com
 www.3815579.notify6.com
 www.3881818.notify6.com

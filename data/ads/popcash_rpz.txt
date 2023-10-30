@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698058195729        ; Serial
+           1698652816142        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ cdn.fqkwn.com CNAME .
 cdn.ftwpcn.com CNAME .
 cdn.gecl.xyz CNAME .
 cdn.gelhp.com CNAME .
+cdn.genfpm.com CNAME .
 cdn.gocolow.com CNAME .
 cdn.hqwa.xyz CNAME .
 cdn.iople.com CNAME .
@@ -137,6 +138,7 @@ antlion.hendrikhaack.de CNAME .
 ape.mfj.se CNAME .
 ape.smartplanschema.se CNAME .
 aphid.enjoleur.com CNAME .
+aphid.nihilnegativum.com CNAME .
 aphid.polarcop.com CNAME .
 aphid.thyself.me CNAME .
 armadillo.axeneo7.qc.ca CNAME .
@@ -145,6 +147,7 @@ armadillo.oceandecadenortheastpacific.org CNAME .
 armadillo.stacking.club CNAME .
 armadillo.superpeak.dk CNAME .
 asp.ashesashes.org CNAME .
+asp.dimileeh.com CNAME .
 asp.podlist.de CNAME .
 asp.sepiasoft.eu CNAME .
 azlej8cdm.pragmaticwebsecurity.com CNAME .
@@ -667,7 +670,6 @@ loon.jrmyfranck.com CNAME .
 loon.ohmyfunds.com CNAME .
 louse.16bit.it CNAME .
 louse.demaree.space CNAME .
-louse.messengo.com CNAME .
 louse.seanconnolly.dev CNAME .
 louse.sigle.io CNAME .
 lungfish.datadividendproject.com CNAME .
@@ -742,7 +744,6 @@ moth.underscoretw.com CNAME .
 mouse.andrewstiefel.com CNAME .
 mouse.anthony-noel.com CNAME .
 mouse.botreach.co CNAME .
-mouse.mazemaker.app CNAME .
 mule.caddyserver.com CNAME .
 mule.pricelessai.com CNAME .
 mule.reel.so CNAME .
@@ -785,7 +786,6 @@ panda.teraskolmio.fi CNAME .
 panda.unpublished.app CNAME .
 panther.atgonlinecoaching.com CNAME .
 panther.codyhatfield.me CNAME .
-panther.dividesignservice.com CNAME .
 panther.essentialwellnessyoga.com.au CNAME .
 panther.hoprnet.org CNAME .
 panther.pit-pit.com CNAME .
@@ -833,7 +833,6 @@ platypus.facet.net CNAME .
 platypus.tompec.com CNAME .
 platypus.zwei-bags.ch CNAME .
 polarbear.codeday.org CNAME .
-polarbear.wpnow.dev CNAME .
 pony.ftm.cat CNAME .
 porcupine.dvresolve.com CNAME .
 porcupine.simpleprax.de CNAME .
@@ -881,7 +880,6 @@ reindeer.pablomaceda.com CNAME .
 reptile.o-lit.fr CNAME .
 reptile.sat.trading CNAME .
 reptile.wyattblogs.com CNAME .
-rhinoceros.cocotec.io CNAME .
 rhinoceros.codeagain.com CNAME .
 rhinoceros.krieger.io CNAME .
 rhinoceros.wus.life CNAME .
@@ -924,7 +922,6 @@ shark.rockyourlife.de CNAME .
 sheep.littleboat.digital CNAME .
 sheep.pixair-survey.com CNAME .
 sheep.vaxstandby.com CNAME .
-shrimp.joyfountainchurch.com CNAME .
 silkworm.bobsmechanicalrepairs.co.uk CNAME .
 silkworm.boxmood.be CNAME .
 silkworm.energizergrouplegal.com CNAME .
@@ -1006,7 +1003,6 @@ takin.dripmacetas.com CNAME .
 takin.revolana.fr CNAME .
 tapir.lindahlstudios.com CNAME .
 tarantula.emotionalbaking.com CNAME .
-tarantula.hashicorp.com CNAME .
 tarantula.searchbox.tech CNAME .
 tarantula.tuxedo.media CNAME .
 tarsier.eyal.codes CNAME .
@@ -1107,6 +1103,7 @@ www.stork.notlessbutbetter.com CNAME .
 yak.animeawards.guide CNAME .
 yak.auclantis.com CNAME .
 yak.flutterblog.net CNAME .
+yak.gregsullivan.com CNAME .
 yak.withlindy.com CNAME .
 zebra.gareth.sh CNAME .
 zebra.helpspot.com CNAME .

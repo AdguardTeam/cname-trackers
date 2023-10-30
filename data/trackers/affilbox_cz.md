@@ -67,7 +67,6 @@
 | affil.nutriadapt.cz | cz.affilbox.cz |
 | affil.peliskydog.cz | cz.affilbox.cz |
 | affil.plkshop.cz | cz.affilbox.cz |
-| affil.powerdays.eu | cz.affilbox.cz |
 | affil.progamingshop.sk | cz.affilbox.cz |
 | affil.reedog.cz | cz.affilbox.cz |
 | affil.rutan.cz | cz.affilbox.cz |
@@ -109,7 +108,6 @@
 | affilbox.kvaskovanie.sk | cz.affilbox.cz |
 | affilbox.rondopartner.cz | cz.affilbox.cz |
 | affilbox.stygremvkleci.cz | cz.affilbox.cz |
-| affiliate.2gispraha.cz | cz.affilbox.cz |
 | affiliate.4fresh.cz | cz.affilbox.cz |
 | affiliate.a1m.cz | cz.affilbox.cz |
 | affiliate.activeczech.com | cz.affilbox.cz |
@@ -213,6 +211,7 @@
 | affiliate.manvel.cz | cz.affilbox.cz |
 | affiliate.martinreznicek.cz | cz.affilbox.cz |
 | affiliate.milagro.cz | cz.affilbox.cz |
+| affiliate.mobilniplatby.cz | cz.affilbox.cz |
 | affiliate.mobilonline.sk | cz.affilbox.cz |
 | affiliate.mojemincovna.cz | cz.affilbox.cz |
 | affiliate.montessorihracky.cz | cz.affilbox.cz |
@@ -318,6 +317,7 @@
 | isic.dentalweb.cz | cz.affilbox.cz |
 | isic.kopirkaostrava.cz | cz.affilbox.cz |
 | isicpartner.mamechut.cz | cz.affilbox.cz |
+| kaocko.swaglift.com | cz.affilbox.cz |
 | lhota.stanicezoo.cz | cz.affilbox.cz |
 | login.affiliatesit.cz | cz.affilbox.cz |
 | money.mioweb.cz | cz.affilbox.cz |
@@ -417,6 +417,7 @@
 | my.weplayhandball.si | cz.affilbox.cz |
 | my.weplayhandball.sk | cz.affilbox.cz |
 | my.weplayvolleyball.bg | cz.affilbox.cz |
+| my.weplayvolleyball.ch | cz.affilbox.cz |
 | my.weplayvolleyball.cz | cz.affilbox.cz |
 | my.weplayvolleyball.gr | cz.affilbox.cz |
 | my.weplayvolleyball.ro | cz.affilbox.cz |
@@ -462,6 +463,7 @@
 | partner.breakout.cz | cz.affilbox.cz |
 | partner.brilianty.cz | cz.affilbox.cz |
 | partner.brillbird.cz | cz.affilbox.cz |
+| partner.burzazive.cz | cz.affilbox.cz |
 | partner.bydlimekrasne.cz | cz.affilbox.cz |
 | partner.cakemarket.eu | cz.affilbox.cz |
 | partner.calita.cz | cz.affilbox.cz |
@@ -643,6 +645,7 @@
 | partner.root.cz | cz.affilbox.cz |
 | partner.royalfashion.cz | cz.affilbox.cz |
 | partner.runningpro.cz | cz.affilbox.cz |
+| partner.ruzovyslon.cz | cz.affilbox.cz |
 | partner.safelab.sk | cz.affilbox.cz |
 | partner.salibandy.shop | cz.affilbox.cz |
 | partner.santao.cz | cz.affilbox.cz |

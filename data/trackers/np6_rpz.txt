@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698058195729        ; Serial
+           1698652816142        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -96,6 +96,7 @@ tr.asp10fg.espmp-aufr.net CNAME .
 tr.asp10fl.espmp-nifr.net CNAME .
 tr.asp10fo.espmp-nifr.net CNAME .
 tr.asp10fp.espmp-nifr.net CNAME .
+tr.asp10fx.espmp-cufr.net CNAME .
 tr.asp10ga.espmp-nifr.net CNAME .
 tr.asp10ge.espmp-nifr.net CNAME .
 tr.asp10h2.espmp-nifr.net CNAME .
@@ -111,6 +112,7 @@ tr.asp2035.espmp-nifr.net CNAME .
 tr.asp203m.espmp-cufr.net CNAME .
 tr.asp2045.espmp-nifr.net CNAME .
 tr.asp204q.espmp-cufr.net CNAME .
+tr.asp205a.espmp-cufr.net CNAME .
 tr.asp2063.espmp-nifr.net CNAME .
 tr.asp206k.espmp-agfr.net CNAME .
 tr.asp2070.espmp-aufr.net CNAME .
@@ -231,7 +233,6 @@ tr.communication.numericable.fr CNAME .
 tr.communication.offresb2b.fr CNAME .
 tr.communication.top-office.com CNAME .
 tr.companeo-news.co.uk CNAME .
-tr.compte.fca-capital-france.fr CNAME .
 tr.comunicacao.younited-credit.com CNAME .
 tr.comunicazione.younited-credit.com CNAME .
 tr.contact.astuceco.fr CNAME .
@@ -333,14 +334,12 @@ tr.email.distributor-expo.com CNAME .
 tr.email.gap-france.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.infocredit.orangebank.fr CNAME .
-tr.email.investissement-residence-service.fr CNAME .
 tr.email.janedeboy.com CNAME .
 tr.email.land-rover-experience.fr CNAME .
 tr.email.maisonfoody.com CNAME .
 tr.email.medicalexpo.com CNAME .
 tr.email.mnpaf.fr CNAME .
 tr.email.nauticexpo.com CNAME .
-tr.email.partenaire-pour-investir.fr CNAME .
 tr.email.pointfranchise.co.uk CNAME .
 tr.email.rs-fr.com CNAME .
 tr.email.securite-routiere.gouv.fr CNAME .
@@ -375,7 +374,6 @@ tr.emailium.fr CNAME .
 tr.emc.moethennessy.com CNAME .
 tr.enedis-infos.fr CNAME .
 tr.enews.customsolutions.fr CNAME .
-tr.engie-globalenergy.info CNAME .
 tr.enquete-cpf.ifop.com CNAME .
 tr.enquetes.actionlogement.fr CNAME .
 tr.entreprise-pro.info CNAME .
@@ -469,6 +467,7 @@ tr.info.fulli.com CNAME .
 tr.info.galian.fr CNAME .
 tr.info.harmonie-mutuelle.fr CNAME .
 tr.info.lacentrale.fr CNAME .
+tr.info.lettre.cci.fr CNAME .
 tr.info.linnc.com CNAME .
 tr.info.linxea.com CNAME .
 tr.info.mango-mobilites.fr CNAME .
@@ -1082,6 +1081,7 @@ tr.xlead.digital CNAME .
 tr.xleads.digital CNAME .
 tr.zojh.espmp-aluk.net CNAME .
 tr1.bp06.net CNAME .
+tr1.bp09.net CNAME .
 tr1.bp26.net CNAME .
 tr1.citroen-ipsos.com CNAME .
 tr1.easy-v01.net CNAME .

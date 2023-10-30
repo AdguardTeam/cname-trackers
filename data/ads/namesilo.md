@@ -24,12 +24,11 @@
 | a.a3ion.com | cds.d6n9n7e2.hwcdn.net |
 | a.ad.guru | cds.d6n9n7e2.hwcdn.net |
 | a.addisplaynetwork.com | cds.d6n9n7e2.hwcdn.net |
-| a.adnflow.com | cds.d6n9n7e2.hwcdn.net |
 | a.adsession.com | cds.d6n9n7e2.hwcdn.net |
+| a.advertrek.com | cds.d6n9n7e2.hwcdn.net |
 | a.asvsm.com | cds.d6n9n7e2.hwcdn.net |
 | a.bizonads-ssp.com | cds.d6n9n7e2.hwcdn.net |
 | a.etology.com | cds.d6n9n7e2.hwcdn.net |
-| a.native7.com | cds.d6n9n7e2.hwcdn.net |
 | a.paradoxgroup.uk | cds.d6n9n7e2.hwcdn.net |
 | a.redpathmedia.com | cds.d6n9n7e2.hwcdn.net |
 | a.rocoads.net | cds.d6n9n7e2.hwcdn.net |
@@ -938,6 +937,7 @@
 | 4795320.notify6.com | tk6if76q.ab1n.net |
 | 4795534.notify6.com | tk6if76q.ab1n.net |
 | 4795556.notify6.com | tk6if76q.ab1n.net |
+| 4795568.notify6.com | tk6if76q.ab1n.net |
 | 4795570.notify6.com | tk6if76q.ab1n.net |
 | 4798638.notify6.com | tk6if76q.ab1n.net |
 | 4799078.notify6.com | tk6if76q.ab1n.net |
@@ -999,9 +999,6 @@
 | main.exosrv.com | tk6if76q.ab1n.net |
 | main.optimizesrv.com | tk6if76q.ab1n.net |
 | main.realsrv.com | tk6if76q.ab1n.net |
-| origin-ads.exdynsrv.com | tk6if76q.ab1n.net |
-| origin-ads.exosrv.com | tk6if76q.ab1n.net |
-| origin-ads.optimizesrv.com | tk6if76q.ab1n.net |
 | s.a3ion.com | tk6if76q.ab1n.net |
 | s.ad.guru | tk6if76q.ab1n.net |
 | s.adnflow.com | tk6if76q.ab1n.net |
@@ -1096,6 +1093,7 @@
 | www.3207695.notify6.com | tk6if76q.ab1n.net |
 | www.3227697.notify6.com | tk6if76q.ab1n.net |
 | www.3243082.notifysrv.com | tk6if76q.ab1n.net |
+| www.3254306.notifysrv.com | tk6if76q.ab1n.net |
 | www.3466863.notify6.com | tk6if76q.ab1n.net |
 | www.3815579.notify6.com | tk6if76q.ab1n.net |
 | www.3881818.notify6.com | tk6if76q.ab1n.net |
@@ -1114,13 +1112,11 @@
 | a.a3ion.com | w2u4v9e1.ab1n.net |
 | a.ad.guru | w2u4v9e1.ab1n.net |
 | a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
-| a.adnflow.com | w2u4v9e1.ab1n.net |
 | a.adsession.com | w2u4v9e1.ab1n.net |
 | a.advertrek.com | w2u4v9e1.ab1n.net |
 | a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
 | a.etology.com | w2u4v9e1.ab1n.net |
-| a.native7.com | w2u4v9e1.ab1n.net |
 | a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |
 | a.rocoads.net | w2u4v9e1.ab1n.net |

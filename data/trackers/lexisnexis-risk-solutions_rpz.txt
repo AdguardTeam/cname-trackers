@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698058195729        ; Serial
+           1698652816142        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -279,9 +279,11 @@ content.readiness.familyprepaiddebit.com CNAME .
 content.readiness.paycardsolutions.com CNAME .
 content.realquest.com CNAME .
 content.reisource.com CNAME .
+content.rias.co.uk CNAME .
 content.royalairmaroc.com CNAME .
 content.royalvegascasino.ca CNAME .
 content.rubyfortune.ca CNAME .
+content.sb.lt CNAME .
 content.sfbli.com CNAME .
 content.sheerid.com CNAME .
 content.smallbusiness.paytrust.com CNAME .
@@ -606,9 +608,11 @@ prod-jfcudc.chaperone.lumindigitalhosting.com CNAME .
 prod-lafcuca.chaperone.lumindigitalhosting.com CNAME .
 prod-lfcuva.chaperone.lumindigitalhosting.com CNAME .
 prod-mscuct.chaperone.lumindigitalhosting.com CNAME .
+prod-navigator.chaperone.lumindigitalhosting.com CNAME .
 prod-njfcunj.chaperone.lumindigitalhosting.com CNAME .
 prod-northland.chaperone.lumindigitalhosting.com CNAME .
 prod-oneaz.chaperone.lumindigitalhosting.com CNAME .
+prod-pacservice.chaperone.lumindigitalhosting.com CNAME .
 prod-pathways.chaperone.lumindigitalhosting.com CNAME .
 prod-prospera.chaperone.lumindigitalhosting.com CNAME .
 prod-redwood.chaperone.lumindigitalhosting.com CNAME .
@@ -840,6 +844,7 @@ th.barclays.co.uk CNAME .
 thm.v.me CNAME .
 thm.visa.com CNAME .
 thm12.visa.com CNAME .
+thmep.zondacrypto.com CNAME .
 thmep.zondaglobal.com CNAME .
 threatmetrix.lendingclub.com CNAME .
 thrm-scrq-0001.crypterium.com CNAME .

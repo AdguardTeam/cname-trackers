@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698058195729        ; Serial
+           1698652816142        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -910,6 +910,7 @@ $TTL 300
 4795320.notify6.com CNAME .
 4795534.notify6.com CNAME .
 4795556.notify6.com CNAME .
+4795568.notify6.com CNAME .
 4795570.notify6.com CNAME .
 4798638.notify6.com CNAME .
 4799078.notify6.com CNAME .
@@ -965,13 +966,11 @@ _sips._tcp.3323174.notifysrv.com CNAME .
 a.a3ion.com CNAME .
 a.ad.guru CNAME .
 a.addisplaynetwork.com CNAME .
-a.adnflow.com CNAME .
 a.adsession.com CNAME .
 a.advertrek.com CNAME .
 a.asvsm.com CNAME .
 a.bizonads-ssp.com CNAME .
 a.etology.com CNAME .
-a.native7.com CNAME .
 a.paradoxgroup.uk CNAME .
 a.redpathmedia.com CNAME .
 a.rocoads.net CNAME .
@@ -1008,9 +1007,6 @@ management-topple.exads.com CNAME .
 management-venntro.exads.com CNAME .
 management-vsmedia.exads.com CNAME .
 management.adxnow.com CNAME .
-origin-ads.exdynsrv.com CNAME .
-origin-ads.exosrv.com CNAME .
-origin-ads.optimizesrv.com CNAME .
 rtb.ad.guru CNAME .
 rtb.advertrek.com CNAME .
 rtb.exoclick.com CNAME .
@@ -1110,6 +1106,7 @@ www.3191479.notifysrv.com CNAME .
 www.3207695.notify6.com CNAME .
 www.3227697.notify6.com CNAME .
 www.3243082.notifysrv.com CNAME .
+www.3254306.notifysrv.com CNAME .
 www.3466863.notify6.com CNAME .
 www.3815579.notify6.com CNAME .
 www.3881818.notify6.com CNAME .

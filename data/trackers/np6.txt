@@ -85,6 +85,7 @@
 ||tr.asp10fl.espmp-nifr.net^
 ||tr.asp10fo.espmp-nifr.net^
 ||tr.asp10fp.espmp-nifr.net^
+||tr.asp10fx.espmp-cufr.net^
 ||tr.asp10ga.espmp-nifr.net^
 ||tr.asp10ge.espmp-nifr.net^
 ||tr.asp10h2.espmp-nifr.net^
@@ -100,6 +101,7 @@
 ||tr.asp203m.espmp-cufr.net^
 ||tr.asp2045.espmp-nifr.net^
 ||tr.asp204q.espmp-cufr.net^
+||tr.asp205a.espmp-cufr.net^
 ||tr.asp2063.espmp-nifr.net^
 ||tr.asp206k.espmp-agfr.net^
 ||tr.asp2070.espmp-aufr.net^
@@ -220,7 +222,6 @@
 ||tr.communication.offresb2b.fr^
 ||tr.communication.top-office.com^
 ||tr.companeo-news.co.uk^
-||tr.compte.fca-capital-france.fr^
 ||tr.comunicacao.younited-credit.com^
 ||tr.comunicazione.younited-credit.com^
 ||tr.contact.astuceco.fr^
@@ -322,14 +323,12 @@
 ||tr.email.gap-france.fr^
 ||tr.email.harmonie-mutuelle.fr^
 ||tr.email.infocredit.orangebank.fr^
-||tr.email.investissement-residence-service.fr^
 ||tr.email.janedeboy.com^
 ||tr.email.land-rover-experience.fr^
 ||tr.email.maisonfoody.com^
 ||tr.email.medicalexpo.com^
 ||tr.email.mnpaf.fr^
 ||tr.email.nauticexpo.com^
-||tr.email.partenaire-pour-investir.fr^
 ||tr.email.pointfranchise.co.uk^
 ||tr.email.rs-fr.com^
 ||tr.email.securite-routiere.gouv.fr^
@@ -364,7 +363,6 @@
 ||tr.emc.moethennessy.com^
 ||tr.enedis-infos.fr^
 ||tr.enews.customsolutions.fr^
-||tr.engie-globalenergy.info^
 ||tr.enquete-cpf.ifop.com^
 ||tr.enquetes.actionlogement.fr^
 ||tr.entreprise-pro.info^
@@ -458,6 +456,7 @@
 ||tr.info.galian.fr^
 ||tr.info.harmonie-mutuelle.fr^
 ||tr.info.lacentrale.fr^
+||tr.info.lettre.cci.fr^
 ||tr.info.linnc.com^
 ||tr.info.linxea.com^
 ||tr.info.mango-mobilites.fr^
@@ -1071,6 +1070,7 @@
 ||tr.xleads.digital^
 ||tr.zojh.espmp-aluk.net^
 ||tr1.bp06.net^
+||tr1.bp09.net^
 ||tr1.bp26.net^
 ||tr1.citroen-ipsos.com^
 ||tr1.easy-v01.net^

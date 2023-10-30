@@ -59,7 +59,6 @@
     * tp-mytoys-de.oghub.io
     * tp-otto-de.oghub.io
     * tp-ottoversand-at.oghub.io
-    * tp-quelle-at.oghub.io
     * tp-quelle-de.oghub.io
     * tp-sheego-de.oghub.io
     * tp-universal-at.oghub.io
@@ -67,7 +66,6 @@
     * tp-witt-international-nl.oghub.io
     * tp-witt-international-sk.oghub.io
     * tp-witt-weiden-at.oghub.io
-    * tp-witt-weiden-de.oghub.io
     * tp-yomonda-de.oghub.io
     * tp-your-look-for-less-nl.oghub.io
     * tp-your-look-for-less-se.oghub.io
@@ -104,7 +102,6 @@
 | tp.ottoversand.at | js.oghub.io |
 | tp.ottoversand.at | js.oghub.io |
 | tp.quelle.at | js.oghub.io |
-| tp.quelle.at | js.oghub.io |
 | tp.quelle.ch | js.oghub.io |
 | tp.quelle.de | js.oghub.io |
 | tp.sheego.de | js.oghub.io |
@@ -121,7 +118,6 @@
 | tp.witt-weiden.at | js.oghub.io |
 | tp.witt-weiden.at | js.oghub.io |
 | tp.witt-weiden.ch | js.oghub.io |
-| tp.witt-weiden.de | js.oghub.io |
 | tp.witt-weiden.de | js.oghub.io |
 | tp.yomonda.de | js.oghub.io |
 | tp.your-look-for-less.nl | js.oghub.io |
@@ -232,7 +228,6 @@
 | tp.mytoys.de | tp-mytoys-de.oghub.io |
 | tp.otto.de | tp-otto-de.oghub.io |
 | tp.ottoversand.at | tp-ottoversand-at.oghub.io |
-| tp.quelle.at | tp-quelle-at.oghub.io |
 | tp.quelle.de | tp-quelle-de.oghub.io |
 | tp.sheego.de | tp-sheego-de.oghub.io |
 | tp.universal.at | tp-universal-at.oghub.io |
@@ -240,7 +235,6 @@
 | tp.witt-international.nl | tp-witt-international-nl.oghub.io |
 | tp.witt-international.sk | tp-witt-international-sk.oghub.io |
 | tp.witt-weiden.at | tp-witt-weiden-at.oghub.io |
-| tp.witt-weiden.de | tp-witt-weiden-de.oghub.io |
 | tp.yomonda.de | tp-yomonda-de.oghub.io |
 | tp.your-look-for-less.nl | tp-your-look-for-less-nl.oghub.io |
 | tp.your-look-for-less.se | tp-your-look-for-less-se.oghub.io |

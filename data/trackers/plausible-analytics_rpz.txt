@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698058195729        ; Serial
+           1698652816142        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -58,12 +58,14 @@ analytics.ramiyer.io CNAME .
 analytics.ramiyer.me CNAME .
 analytics.recamov.com CNAME .
 analytics.sideprojectsoftware.com CNAME .
+analytics.sixfigureswine.com CNAME .
 analytics.teamcovenant.com CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
 analytics.valheimgamer.com CNAME .
 analytics.vanilla-project.guide CNAME .
+analytics.wayland.app CNAME .
 analytics.whostheboss.co.uk CNAME .
 analytics.whotargets.me CNAME .
 analytics.winter.ink CNAME .
@@ -305,6 +307,7 @@ pls.skycastle.dev CNAME .
 plsbl-staging.edison.se CNAME .
 plsbl.edison.se CNAME .
 prism.drivingkyoto.com CNAME .
+prism.feurer-network.ch CNAME .
 prism.netherlandlines.com CNAME .
 prism.pablonouvelle.com CNAME .
 prism.raumgleiter.com CNAME .
@@ -395,7 +398,6 @@ stats.asymptotic.io CNAME .
 stats.auto-dombrowski.de CNAME .
 stats.autofarm.network CNAME .
 stats.autoscholarwithmrb.com CNAME .
-stats.babymatras.net CNAME .
 stats.balticgruppen.se CNAME .
 stats.bananatimer.com CNAME .
 stats.bcdtravel.com CNAME .
@@ -425,7 +427,6 @@ stats.bloke.blog CNAME .
 stats.bmxdevils.be CNAME .
 stats.book-rec.com CNAME .
 stats.booncon.com CNAME .
-stats.bordspel.org CNAME .
 stats.boscabeatha.ie CNAME .
 stats.breathly.app CNAME .
 stats.brennholzauktion.com CNAME .
@@ -435,7 +436,6 @@ stats.brumtechtapas.co.uk CNAME .
 stats.buddiy.net CNAME .
 stats.bungeefit.co.uk CNAME .
 stats.burocratin.com CNAME .
-stats.buttondown.email CNAME .
 stats.byma.com.br CNAME .
 stats.byterocket.dev CNAME .
 stats.cable.tech CNAME .
@@ -466,7 +466,6 @@ stats.coditia.com CNAME .
 stats.cohere.so CNAME .
 stats.coldbox.org CNAME .
 stats.connect.pm CNAME .
-stats.contentwritingjobs.com CNAME .
 stats.convaise.com CNAME .
 stats.corona-navi.de CNAME .
 stats.covid.vitordino.com CNAME .
@@ -492,7 +491,6 @@ stats.dawn.md CNAME .
 stats.declanbyrd.co.uk CNAME .
 stats.deja-lu.de CNAME .
 stats.depends-on-the-definition.com CNAME .
-stats.designerpowerup.com CNAME .
 stats.deva.guru CNAME .
 stats.develop.wwdcscholars.com CNAME .
 stats.devenet.eu CNAME .
@@ -537,7 +535,6 @@ stats.emmas.site CNAME .
 stats.engel-apotheke.de CNAME .
 stats.engeldirekt.de CNAME .
 stats.engineering.freeagent.com CNAME .
-stats.entreno.fcalan.org CNAME .
 stats.equium.io CNAME .
 stats.erbridge.co.uk CNAME .
 stats.erikinthekitchen.com CNAME .
@@ -554,7 +551,6 @@ stats.faluninfo.rs CNAME .
 stats.faluninfo.si CNAME .
 stats.fantinel.dev CNAME .
 stats.fastbackward.app CNAME .
-stats.fcalan.org CNAME .
 stats.feathercss.makerkits.co CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
@@ -667,7 +663,6 @@ stats.koehrer.de CNAME .
 stats.koerner-logopaedie.de CNAME .
 stats.kongressen.com CNAME .
 stats.krauss.io CNAME .
-stats.kruimel-dief.nl CNAME .
 stats.kryptoslogic.com CNAME .
 stats.ks-labs.de CNAME .
 stats.kyushoku2050.org CNAME .
@@ -698,7 +693,6 @@ stats.literaturkreis.online CNAME .
 stats.lmdsp.com CNAME .
 stats.localmetravel.com CNAME .
 stats.lord.io CNAME .
-stats.lostandfound.io CNAME .
 stats.lstfnd.de CNAME .
 stats.ltdhunt.com CNAME .
 stats.luieremmer.net CNAME .
@@ -728,14 +722,12 @@ stats.meno.science CNAME .
 stats.mesenvies.fr CNAME .
 stats.michaeloliver.dev CNAME .
 stats.missionrabies.com CNAME .
-stats.moontalk.se CNAME .
 stats.mostlycoding.com.au CNAME .
 stats.motion-effect.com CNAME .
 stats.motorcyclepartsireland.ie CNAME .
 stats.mrtnvh.com CNAME .
 stats.multiplelenses.com CNAME .
 stats.multiply.cloud CNAME .
-stats.muziekmobiel.net CNAME .
 stats.myherocard.com CNAME .
 stats.napaconnect.ca CNAME .
 stats.navedislam.com CNAME .
@@ -883,6 +875,7 @@ stats.soundbite.so CNAME .
 stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
 stats.spreadtheworld.net CNAME .
+stats.sprune.com CNAME .
 stats.sqlteam.com CNAME .
 stats.squaddy.se CNAME .
 stats.stack11.io CNAME .
@@ -902,6 +895,7 @@ stats.svemir.co CNAME .
 stats.symbiofest.cz CNAME .
 stats.table.party CNAME .
 stats.tarasyarema.com CNAME .
+stats.tax-venture.de CNAME .
 stats.teamdetails.com CNAME .
 stats.tedserbinski.com CNAME .
 stats.teenranch.com CNAME .

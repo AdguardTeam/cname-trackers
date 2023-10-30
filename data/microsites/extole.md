@@ -203,6 +203,7 @@
     * cefaly.extole.io
     * cellcom.extole.io
     * centier.extole.io
+    * certapro.extole.io
     * chacos.extole.io
     * chamberlain.extole.io
     * cheaper-than-dirt.extole.io
@@ -216,7 +217,6 @@
     * clarksusa.extole.io
     * cle-de-peau.extole.io
     * clevelandgolf.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -254,6 +254,8 @@
     * embrace-pet-insurance.extole.io
     * empathywines.extole.io
     * empire-today.extole.io
+    * ent.extole.io
+    * enzocustom.extole.io
     * eset.extole.io
     * estee-lauder-ca.extole.io
     * esteelauder-au.extole.io
@@ -293,9 +295,11 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
+    * gruntstyle.extole.io
     * gxvebeauty.extole.io
     * hair.extole.io
     * hanacure.extole.io
@@ -398,7 +402,6 @@
     * partsvu.extole.io
     * paulmitchell.extole.io
     * perriconemd.extole.io
-    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -484,6 +487,7 @@
     * suncoastcreditunion.extole.io
     * sundaysfordogs.extole.io
     * swansonvitamins.extole.io
+    * swordhealth.extole.io
     * take5oilchange.extole.io
     * tatcha.extole.io
     * taxact.extole.io
@@ -669,6 +673,7 @@
 | share.cefaly.com | cefaly.extole.io |
 | share.cellcom.ca | cellcom.extole.io |
 | refer.centier.com | centier.extole.io |
+| share.certapro.com | certapro.extole.io |
 | refer.chacos.com | chacos.extole.io |
 | share.myq.com | chamberlain.extole.io |
 | share.cheaperthandirt.com | cheaper-than-dirt.extole.io |
@@ -689,7 +694,6 @@
 | referral.cledepeaubeaute.com | cle-de-peau.extole.io |
 | refer.clearme.com | clearme-ssl.extole.com |
 | share.dunlopsports.com | clevelandgolf.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -741,6 +745,8 @@
 | refer.embracepetinsurance.com | embrace-pet-insurance.extole.io |
 | share.empathywines.com | empathywines.extole.io |
 | refer.empiretoday.com | empire-today.extole.io |
+| share.ent.com | ent.extole.io |
+| share.enzocustom.com | enzocustom.extole.io |
 | refer.eset.com | eset.extole.io |
 | share.refer-esteelauder.ca | estee-lauder-ca.extole.io |
 | share.esteelauder.com.au | esteelauder-au.extole.io |
@@ -830,6 +836,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -838,6 +845,7 @@
 | share.greenlight.com | greenlightcard.extole.io |
 | share.greenlightcard.com | greenlightcard.extole.io |
 | refer.greenvilleonline.com | greenvilleonline.extole.com |
+| share.gruntstyle.com | gruntstyle.extole.io |
 | share.gxvebeauty.com | gxvebeauty.extole.io |
 | refer.hair.com | hair.extole.io |
 | share.hanacure.com | hanacure.extole.io |
@@ -986,7 +994,6 @@
 | share.paulmitchell.com | paulmitchell.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
-| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1105,6 +1112,7 @@
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
 | refer.swansonvitamins.com | swansonvitamins.extole.io |
+| share.swordhealth.com | swordhealth.extole.io |
 | refer.take5oilchange.com | take5oilchange.extole.io |
 | refer.talbots.com | talbots.extole.com |
 | refer.tassimodirect.com | tassimodirect.extole.com |
@@ -1148,10 +1156,12 @@
 | share.stagsleap.com | tweglobal.extole.io |
 | refer.twisthair.com | twisthair.extole.io |
 | em1476.princesscruises.com | u82658.wl159.sendgrid.net |
+| em225.codecademy.com | u82658.wl159.sendgrid.net |
 | em3904.skillshare.com | u82658.wl159.sendgrid.net |
 | em4367.raf-studentloans.discover.com | u82658.wl159.sendgrid.net |
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
 | em8928.em.petco.com | u82658.wl159.sendgrid.net |
+| em924.refer.starbucks.com | u82658.wl159.sendgrid.net |
 | refer.ulta.com | ulta.extole.com |
 | share.unchartedsociety.com | unchartedsociety.extole.io |
 | refer.underarmour.co.uk | under-armour-1.extole.io |

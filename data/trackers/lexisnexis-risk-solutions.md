@@ -10,6 +10,7 @@
     * h-14iyhddh.online-metrix.net
     * h-15wc9fpp.online-metrix.net
     * h-16vzjy52.online-metrix.net
+    * h-1d2p5fdt.online-metrix.net
     * h-1dwgke3d.online-metrix.net
     * h-1kcyydia.online-metrix.net
     * h-1lc506lh.online-metrix.net
@@ -684,6 +685,7 @@
 | tmx.monzo.co.uk | h-14iyhddh.online-metrix.net |
 | tmln.caesarscasino.com | h-15wc9fpp.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
+| content.sb.lt | h-1d2p5fdt.online-metrix.net |
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
@@ -712,9 +714,11 @@
 | prod-lafcuca.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-lfcuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-mscuct.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-navigator.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-njfcunj.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-northland.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-oneaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-pacservice.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-pathways.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-prospera.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-redwood.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -849,6 +853,7 @@
 | tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
 | content.ageas.co.uk | h-a4s32zk0.online-metrix.net |
+| content.rias.co.uk | h-a4s32zk0.online-metrix.net |
 | fms.perahub.com.ph | h-a9ndqgz3.online-metrix.net |
 | tcontent.auchantelecom.fr | h-a9vkgbg7.online-metrix.net |
 | tcontent.nrjmobile.fr | h-a9vkgbg7.online-metrix.net |
@@ -1531,6 +1536,7 @@
 | cda.thecardservicescenter.com | h-thecardservicescenter.online-metrix.net |
 | assets2.ihg.com | h-thefirstclub-ihg.online-metrix.net |
 | assets2.thefirstclub.com | h-thefirstclub.online-metrix.net |
+| thmep.zondacrypto.com | h-thmep.zondaglobal.online-metrix.net |
 | thmep.zondaglobal.com | h-thmep.zondaglobal.online-metrix.net |
 | content.ea.com | h-threatmetrix.ea.online-metrix.net |
 | h.threatmetrix.com | h-threatmetrix.online-metrix.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698058195729        ; Serial
+           1698652816142        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -111,6 +111,7 @@ data-0cc10e3905.wuv.de CNAME .
 data-0cca9d915f.missmum.at CNAME .
 data-0cf18bcfe3.katholisch.de CNAME .
 data-0d1a0271a9.instyle.de CNAME .
+data-0d202e2d69.tirolerin.at CNAME .
 data-0d5230f0d5.tvmovie.de CNAME .
 data-0d9eff53aa.kuhn-fachmedien.de CNAME .
 data-0dc128409f.watchtime.net CNAME .
@@ -130,6 +131,7 @@ data-10e222a818.ligaportal.at CNAME .
 data-1105c42328.apps.iocnt.de CNAME .
 data-11c63b1cbc.abschied-nehmen.de CNAME .
 data-11c63b1cbc.fcmlive.de CNAME .
+data-11c63b1cbc.magdeburg-fussball.de CNAME .
 data-11c63b1cbc.mz-jobs.de CNAME .
 data-11c63b1cbc.mz.de CNAME .
 data-11c63b1cbc.sao.de CNAME .
@@ -395,7 +397,6 @@ data-30e0430fbb.thueringer-allgemeine.de CNAME .
 data-30e0430fbb.tlz.de CNAME .
 data-30e0430fbb.trauer-in-thueringen.de CNAME .
 data-30e91950da.joyn.at CNAME .
-data-311d8c614b.naturalstone-online.com CNAME .
 data-311d8c614b.natursteinonline.de CNAME .
 data-31ba81426f.apps.iocnt.de CNAME .
 data-31c137b707.sanitaerjournal.de CNAME .
@@ -410,6 +411,7 @@ data-339e8471f1.bau-welt.de CNAME .
 data-341c3a0fe0.apps.iocnt.de CNAME .
 data-34484cd75e.apps.iocnt.de CNAME .
 data-3452ec2236.caravaning.de CNAME .
+data-34565915dd.firmenwissen.com CNAME .
 data-34565915dd.firmenwissen.de CNAME .
 data-353c1c8501.falstaff.com CNAME .
 data-367bcf5bd6.german-retail-blog.com CNAME .
@@ -424,6 +426,7 @@ data-37acaca926.maedchen.de CNAME .
 data-38132d333d.e-hausaufgaben.de CNAME .
 data-3823552b7a.sport.de CNAME .
 data-382f03151d.harpersbazaar.de CNAME .
+data-3839bfef3b.diesteirerin.at CNAME .
 data-389b910202.axiell.de CNAME .
 data-389b910202.moenchengladbach.de CNAME .
 data-38a153cf0d.vital.de CNAME .
@@ -659,6 +662,7 @@ data-497ecca600.saarbruecker-zeitung.de CNAME .
 data-497ecca600.sol.de CNAME .
 data-497ecca600.stadt-kurier.de CNAME .
 data-497ecca600.tonight.de CNAME .
+data-497ecca600.trauer.de CNAME .
 data-497ecca600.volksfreund.de CNAME .
 data-497ecca600.wuppertaler-rundschau.de CNAME .
 data-497f575d82.businessinsider.de CNAME .
@@ -851,6 +855,7 @@ data-62650cd9a5.golem.de CNAME .
 data-626887dee6.0rtl.de CNAME .
 data-626887dee6.890rtl.de CNAME .
 data-62688b6a00.apps.iocnt.de CNAME .
+data-62bafeaa07.6rtl.com CNAME .
 data-62e8b40b12.apps.iocnt.de CNAME .
 data-62e93c650b.entdeckertag.de CNAME .
 data-62e93c650b.hannover.de CNAME .
@@ -868,6 +873,7 @@ data-63798c78f2.apps.iocnt.de CNAME .
 data-638190bf02.galileo.tv CNAME .
 data-639ebd97e3.transport-online.de CNAME .
 data-63bbe3ec45.wuv.de CNAME .
+data-63ef19fa52.apps.iocnt.de CNAME .
 data-6416365902.sbz-online.de CNAME .
 data-6463194ae5.fitbook.de CNAME .
 data-64f191ee43.eurotransport.de CNAME .
@@ -1149,6 +1155,7 @@ data-8cbd29cf98.kabeleins.at CNAME .
 data-8cc19d99e5.deutsche-handwerks-zeitung.de CNAME .
 data-8cca49835e.apps.iocnt.de CNAME .
 data-8d3bec589f.schwaebische.de CNAME .
+data-8d4563cf4e.gesundheitstrends.com CNAME .
 data-8d5185014c.apps.iocnt.de CNAME .
 data-8d9711db79.gusto.at CNAME .
 data-8dfcf84b38.rundschau-online.de CNAME .
@@ -1252,6 +1259,7 @@ data-9aa5e80b66.superillu.de CNAME .
 data-9ab6c5063f.sat1gold.at CNAME .
 data-9ab8a13cda.it-business.de CNAME .
 data-9abcf11034.einfachkochen.de CNAME .
+data-9ac0797a75.4gamechangers.io CNAME .
 data-9b2f644d2c.einfachbacken.de CNAME .
 data-9b31fae636.grazia-magazin.de CNAME .
 data-9b3233a086.bunte.de CNAME .
@@ -1355,6 +1363,7 @@ data-a4e945dbeb.sz-fahrradfest.de CNAME .
 data-a4e945dbeb.sz-immo.de CNAME .
 data-a4e945dbeb.sz-jobs.de CNAME .
 data-a4e945dbeb.sz-pinnwand.de CNAME .
+data-a4e945dbeb.sz-ticketservice.de CNAME .
 data-a4e945dbeb.sz-trauer.de CNAME .
 data-a5210336ab.mt.de CNAME .
 data-a58f7aceaf.boden-wand-decke.de CNAME .
@@ -1367,6 +1376,7 @@ data-a6c3c2bffa.mamiweb.de CNAME .
 data-a6faa6efe2.insuedthueringen.de CNAME .
 data-a6faa6efe2.thueringen-gedenkt.de CNAME .
 data-a76072cba2.sbz-monteur.de CNAME .
+data-a764ba99aa.das-pta-magazin.de CNAME .
 data-a77fb9b63f.osthessen-news.de CNAME .
 data-a784464fa2.femeda.de CNAME .
 data-a784464fa2.hallo-eltern.de CNAME .
@@ -1718,6 +1728,7 @@ data-d4db30a18b.borkumer-zeitung.de CNAME .
 data-d4db30a18b.ga-online.de CNAME .
 data-d4db30a18b.on-online.de CNAME .
 data-d4db30a18b.oz-online.de CNAME .
+data-d4db30a18b.zgo.de CNAME .
 data-d4dfa4bc2c.focus.de CNAME .
 data-d4dfa4bc2c.weather.com CNAME .
 data-d4ecb517ab.cinema.de CNAME .

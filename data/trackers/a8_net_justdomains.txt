@@ -133,6 +133,7 @@ a8.idiy.biz
 a8.iisakafuji.online
 a8.ikkatsu.jp
 a8.industrial-branch.com
+a8.infinitussub.com
 a8.ippin-do.com
 a8.ixyee.net
 a8.jiiawater.com
@@ -308,6 +309,7 @@ a8.worldikids.com
 a8.www.melonbooks.co.jp
 a8.www.nicosuma.com
 a8.www.retrospect.co.jp
+a8.www.seesaa.co.jp
 a8.www.smart-factor.co.jp
 a8.xn--google-873exa8m6161dbbyb.net
 a8.xn--y8jd4aybzqd.jp
@@ -317,6 +319,7 @@ a8.yumejin.jp
 a8.yuzen-official.com
 a8.zen-camps.com
 a8.zeroku.jp
+a8.zipan.jp
 a8.zzz-land.com
 a802.xn--38jf6c4pa86a1dv833cexrb.com
 a8aspconv.itx-home-router.com
@@ -469,7 +472,6 @@ a8clk.kaitori-toretoku.jp
 a8clk.kaitori-yamatokukimono.jp
 a8clk.kaitoriyasan.group
 a8clk.kake-barai.com
-a8clk.kakuyasu-shaken-af.com
 a8clk.kanagawa-zero.com
 a8clk.kenkoukazoku.co.jp
 a8clk.kihada.jp
@@ -520,6 +522,7 @@ a8clk.officehikari119.com
 a8clk.okawa-god.jp
 a8clk.olulu-online.jp
 a8clk.onemile.jp
+a8clk.only-story.jp
 a8clk.order-box.net
 a8clk.order.lpio.jp
 a8clk.orders.bon-book.jp
@@ -602,6 +605,7 @@ a8clk.unlace.net
 a8clk.ur-s.me
 a8clk.voice-inc.co.jp
 a8clk.waq-online.com
+a8clk.web-camp.io
 a8clk.weleda.jp
 a8clk.wi-ho.net
 a8clk.works.sagooo.com
@@ -683,6 +687,7 @@ a8cv.atgp.jp
 a8cv.auhikari-bykddi.com
 a8cv.b-concept.tokyo
 a8cv.babybjorn.jp
+a8cv.baku-art.jp
 a8cv.balanslab.jp
 a8cv.bb-internet-qsyu.net
 a8cv.bbt757.com
@@ -987,6 +992,7 @@ a8cv.risu-japan.com
 a8cv.rita-style.co.jp
 a8cv.rmkrmk.com
 a8cv.rohto.co.jp
+a8cv.runteq.jp
 a8cv.s-darts.com
 a8cv.sabusuta.jp
 a8cv.safetycart.jp
@@ -1302,6 +1308,7 @@ onenet.gakujutsu.com
 p004.raffi-hair.com
 p005.raffi-hair.com
 pages2.rizap.jp
+pr.yokohama-chokin.com
 rsv.dankore.jp
 salto.freeto.jp
 shop.anu-cosme.com

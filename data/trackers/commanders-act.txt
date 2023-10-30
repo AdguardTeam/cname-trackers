@@ -5,7 +5,6 @@
 ||data.decathlon.de^
 ||data.decathlon.es^
 ||data.decathlon.fr^
-||data.decathlon.it^
 ||data.decathlon.pl^
 ||data.ouigo.com^
 ||data.ricaud.com^
@@ -18,7 +17,8 @@
 ||tagcommander.laredoute.ch^
 ||tc.europcar.com^
 ||tc.europcar.com.au^
-||tc.europcar.de^
 ||tcdata.fnac.com^
 ||configure.adlermode.com^
 ||data.auchandirect.fr^
+||data.decathlon.it^
+||tc.europcar.de^
