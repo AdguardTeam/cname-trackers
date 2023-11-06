@@ -153,7 +153,6 @@
 ||dsp.rtbplatform.net^
 ||dsp.xapads.com^
 ||dsp.yeesshh.com^
-||dspplatform.anytheengmedia.com^
 ||exchange.adkernel.com^
 ||exchange.nativeads.com^
 ||exchange.nativeadshb.com^
@@ -551,7 +550,6 @@
 ||rtb-useast.adsolut.in^
 ||rtb-useast.adxfactory.com^
 ||rtb-useast.adzealous.com^
-||rtb-useast.adzgame.com^
 ||rtb-useast.andbeyond.media^
 ||rtb-useast.anyclip-media.com^
 ||rtb-useast.arbigo.com^
@@ -685,7 +683,6 @@
 ||rtb2-useast.e-volution.ai^
 ||rtb2-useast.gammae.com^
 ||rtb2-useast.jambojar.com^
-||rtb2-useast.marketiq.com^
 ||rtb2-useast.newchallenges-dsp.com^
 ||rtb2-useast.programmatics.net^
 ||rtb2-useast.waardex.com^
@@ -700,7 +697,6 @@
 ||rtb2.vashoot.com^
 ||search.adokutcontextual.com^
 ||search.adxfactory.com^
-||search.adzgame.com^
 ||search.anytheengmedia.com^
 ||search.boffoads.com^
 ||search.flairads.com^
@@ -767,6 +763,7 @@
 ||webpush.reachyield.com^
 ||webpush.resultsmedia.com^
 ||win-dsp-east.nativeads.com^
+||win-dsp-eu.nativeads.com^
 ||win-dsp-west.nativeads.com^
 ||win-rtb-eu.musiciansaudience.com^
 ||win-rtb-miami.musiciansaudience.com^
@@ -926,7 +923,6 @@
 ||xml-v4.gipostart-2.co^
 ||xml-v4.goclickz.net^
 ||xml-v4.hetcash.com^
-||xml-v4.klapads.com^
 ||xml-v4.kunvertads.com^
 ||xml-v4.mobifly.net^
 ||xml-v4.newbluetrue.xyz^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -237,6 +237,7 @@ affiliate.pouziteiphony.cz CNAME .
 affiliate.pravopropodnikatele.cz CNAME .
 affiliate.prikryvky-obchod.cz CNAME .
 affiliate.prodietix.cz CNAME .
+affiliate.progresguru.cz CNAME .
 affiliate.pt-shop.cz CNAME .
 affiliate.rajkratomu.cz CNAME .
 affiliate.reduccia.cz CNAME .
@@ -395,6 +396,7 @@ my.top4sport.hu CNAME .
 my.top4sport.ro CNAME .
 my.weplaybasketball.bg CNAME .
 my.weplaybasketball.cz CNAME .
+my.weplaybasketball.ee CNAME .
 my.weplaybasketball.gr CNAME .
 my.weplaybasketball.hu CNAME .
 my.weplaybasketball.ro CNAME .
@@ -462,7 +464,6 @@ partner.bydlimekrasne.cz CNAME .
 partner.cakemarket.eu CNAME .
 partner.calita.cz CNAME .
 partner.candy.cz CNAME .
-partner.cannacare.cz CNAME .
 partner.caskrmeni.cz CNAME .
 partner.cbdcko.cz CNAME .
 partner.cbdstar.cz CNAME .
@@ -566,7 +567,6 @@ partner.kidtown.cz CNAME .
 partner.kokiskashop.cz CNAME .
 partner.kokiskashop.sk CNAME .
 partner.kominy-bokra.cz CNAME .
-partner.korenikralu.cz CNAME .
 partner.kurzysusmevem.cz CNAME .
 partner.kvcar.cz CNAME .
 partner.laab.cz CNAME .
@@ -883,6 +883,7 @@ spoluprace.h2world.store CNAME .
 spoluprace.interbohemia.cz CNAME .
 spoluprace.janitaurbanova.cz CNAME .
 spoluprace.luxusnipradlo.cz CNAME .
+spoluprace.m-soft.cz CNAME .
 spoluprace.majka-shop.cz CNAME .
 spoluprace.mentorkalucie.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .

@@ -57,9 +57,11 @@ cdn.pctv.xyz
 cdn.pllah.com
 cdn.posawaj.com
 cdn.puyjjq.com
+cdn.puysis.com
 cdn.rapolok.com
 cdn.rawqel.com
 cdn.rgrd.xyz
+cdn.roemoss.com
 cdn.sblhp.com
 cdn.shakre.com
 cdn.spnut.com
@@ -222,6 +224,7 @@ canidae.collectingsocialphoto.org
 canidae.fidum.uk
 capybara.bell0bytes.eu
 capybara.civicsoftwarefoundation.org
+capybara.randyhamiltonelectric.com
 cardinal.businessfirstonline.co.uk
 cardinal.ensembleblock.com
 cardinal.genx.be
@@ -648,7 +651,6 @@ llama.lobbly.com
 llama.mallardbay.com
 llama.vivriticapital.com
 lobster.dispatch.fm
-lobster.jusibe.com
 lobster.justunderwear.com
 lobster.tonebleed.com
 locust.ausrebellion.earth
@@ -669,7 +671,6 @@ lynx.pascivite.com
 lynx.sbstjn.com
 lynx.simpleparish.com
 macaw.ianmitchell.dev
-macaw.myvaluefactory.com
 mackerel.fathom.cat
 mackerel.passiveincome.io
 magpie.onething.org
@@ -808,6 +809,7 @@ pigeon.surtitlesolutions.com
 pigeon.thankyuu.com
 pinniped.gardenofficeguide.co.uk
 pinniped.quarantinecup.live
+pinniped.spacecountdown.com
 piranha.jsmobiledev.com
 piranha.minnmyatsoe.com
 planarian.614deals.com
@@ -856,6 +858,7 @@ quokka.curbnumberpro.com
 quokka.howrightnow.org
 quokka.joshuawood.net
 quokka.oeshome.org
+rabbit.homamo.co
 rabbit.radicalxchange.org
 rabbit.thebestproductlist.com
 rabbit.upwardhomes.net
@@ -891,6 +894,7 @@ sailfish.youracademycommunity.com
 salamander.augmentedmind.io
 salamander.laboucheriebio.com
 salamander.showandtelldata.com
+salamander.yourownpay.com
 salmon.literallife.church
 salmon.thespiritualpsychologist.co.uk
 sawfish.abracebrasil.org
@@ -1049,11 +1053,13 @@ vole.nettskaperne.no
 vole.noteapps.info
 vole.sonicrida.com
 vole.tsttechnology.com
+vulture.downzeroky.com
 vulture.lagosdesaliencia.com
 wallaby.cron.help
 wallaby.legendkeeper.com
 wallaby.short1.link
 walrus.fetzcolor.at
+walrus.oscaroarevalo.com
 warbler.resumebuilder.dev
 wasp.dyrynda.dev
 wasp.mattjennings.io
@@ -1087,7 +1093,6 @@ woodpecker.groupe-montagne.ch
 woodpecker.seabits.com
 worm.discover-culture.com
 worm.usephantom.com
-wren.pratyushnalam.com
 www.stork.notlessbutbetter.com
 yak.animeawards.guide
 yak.auclantis.com
@@ -1105,18 +1110,23 @@ carlsonmedia.streetinteractive.com
 kitt.tucsonsentinel.com
 partner.streetinteractive.com
 partners.hourmediagroup.com
+partners.nationalmortgageprofessional.com
 partners.seetheworld.com
 saucon-sponsors.streetinteractive.com
 sponsor-v2.lebtown.com
+sponsor.styleblueprint.com
 sponsors-v2.auctionzip.com
 sponsors-v2.automate.org
 sponsors-v2.floorforce.com
 sponsors-v2.locablepublishernetwork.com
 sponsors-v2.urbanistnetwork.com
+sponsors.decaturish.com
 sponsors.floorforce.com
 sponsors.macaronikid.com
+sponsors.oaklandcountymoms.com
 sponsors.salesforceben.com
 sponsors.teethtalkgirl.com
+support-v2.sweetwaternow.com
 adserve.bongocdn.com
 assets.diagomics.com
 bcdn.cpmstar.com

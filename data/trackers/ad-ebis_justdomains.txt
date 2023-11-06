@@ -56,7 +56,6 @@ adebis.daiwahouse.co.jp
 adebis.demae-can.com
 adebis.e-ohaka.com
 adebis.entetsu.co.jp
-adebis.fenet.jp
 adebis.ferret-one.com
 adebis.furisode-ichikura.jp
 adebis.gfs-official.com
@@ -111,6 +110,7 @@ adebis.zenyaku-hbshop.com
 adebis01.job-con.jp
 adebis02.juku.st
 adebis0508.brain-sleep.com
+adebis1.1rnavi.com
 adebis8628.matsui.co.jp
 adebiscname.au-sonpo.co.jp
 adebiscname.auone.jp

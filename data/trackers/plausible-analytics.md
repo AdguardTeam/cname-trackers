@@ -262,7 +262,6 @@
 | plausible.kabaret.no | custom.plausible.io |
 | plausible.kdojang.com | custom.plausible.io |
 | plausible.kundenportal.io | custom.plausible.io |
-| plausible.langojango.com | custom.plausible.io |
 | plausible.lesbianromantic.com | custom.plausible.io |
 | plausible.logicboard.com | custom.plausible.io |
 | plausible.mattpruitt.com | custom.plausible.io |
@@ -281,6 +280,7 @@
 | plausible.reactpreview.com | custom.plausible.io |
 | plausible.redchamp.net | custom.plausible.io |
 | plausible.regex.help | custom.plausible.io |
+| plausible.retune.de | custom.plausible.io |
 | plausible.sbw.org | custom.plausible.io |
 | plausible.shadygrovepca.org | custom.plausible.io |
 | plausible.simplelogin.io | custom.plausible.io |
@@ -966,7 +966,6 @@
 | stats.xn--antnio-dxa.pt | custom.plausible.io |
 | stats.xn--drivation-b4a.fr | custom.plausible.io |
 | stats.yourdallashandyman.com | custom.plausible.io |
-| stats.zehta.me | custom.plausible.io |
 | stats.zimri.net | custom.plausible.io |
 | statystyki.ekspertyzy-szkolenia.pl | custom.plausible.io |
 | sts.authramp.com | custom.plausible.io |

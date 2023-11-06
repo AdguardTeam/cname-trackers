@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -164,7 +164,6 @@ dsp.pushub.net CNAME .
 dsp.rtbplatform.net CNAME .
 dsp.xapads.com CNAME .
 dsp.yeesshh.com CNAME .
-dspplatform.anytheengmedia.com CNAME .
 exchange.adkernel.com CNAME .
 exchange.nativeads.com CNAME .
 exchange.nativeadshb.com CNAME .
@@ -562,7 +561,6 @@ rtb-useast.adportmedia.com CNAME .
 rtb-useast.adsolut.in CNAME .
 rtb-useast.adxfactory.com CNAME .
 rtb-useast.adzealous.com CNAME .
-rtb-useast.adzgame.com CNAME .
 rtb-useast.andbeyond.media CNAME .
 rtb-useast.anyclip-media.com CNAME .
 rtb-useast.arbigo.com CNAME .
@@ -696,7 +694,6 @@ rtb2-useast.demandzoo.com CNAME .
 rtb2-useast.e-volution.ai CNAME .
 rtb2-useast.gammae.com CNAME .
 rtb2-useast.jambojar.com CNAME .
-rtb2-useast.marketiq.com CNAME .
 rtb2-useast.newchallenges-dsp.com CNAME .
 rtb2-useast.programmatics.net CNAME .
 rtb2-useast.waardex.com CNAME .
@@ -711,7 +708,6 @@ rtb2-uswest.xaprio.net CNAME .
 rtb2.vashoot.com CNAME .
 search.adokutcontextual.com CNAME .
 search.adxfactory.com CNAME .
-search.adzgame.com CNAME .
 search.anytheengmedia.com CNAME .
 search.boffoads.com CNAME .
 search.flairads.com CNAME .
@@ -778,6 +774,7 @@ webpush.pushub.net CNAME .
 webpush.reachyield.com CNAME .
 webpush.resultsmedia.com CNAME .
 win-dsp-east.nativeads.com CNAME .
+win-dsp-eu.nativeads.com CNAME .
 win-dsp-west.nativeads.com CNAME .
 win-rtb-eu.musiciansaudience.com CNAME .
 win-rtb-miami.musiciansaudience.com CNAME .
@@ -937,7 +934,6 @@ xml-v4.gipostart-1.co CNAME .
 xml-v4.gipostart-2.co CNAME .
 xml-v4.goclickz.net CNAME .
 xml-v4.hetcash.com CNAME .
-xml-v4.klapads.com CNAME .
 xml-v4.kunvertads.com CNAME .
 xml-v4.mobifly.net CNAME .
 xml-v4.newbluetrue.xyz CNAME .

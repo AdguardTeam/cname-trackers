@@ -70,7 +70,6 @@
     * 337c50cc-ztaqjkmm.cname.ebis.ne.jp
     * 34213ab6-xnj2xrq7.cname.ebis.ne.jp
     * 359e2360-u9necda2.cname.ebis.ne.jp
-    * 35e79adf-qjtkq0iz.cname.ebis.ne.jp
     * 3649b46d-day5axk4.cname.ebis.ne.jp
     * 3714e864-qge7cq9v.cname.ebis.ne.jp
     * 3735525f-znrwzwlu.cname.ebis.ne.jp
@@ -101,6 +100,7 @@
     * 4c291f26-leoqufvo.cname.ebis.ne.jp
     * 4c937bae-xvkp4hsy.cname.ebis.ne.jp
     * 4cd0f380-sh2isfez.cname.ebis.ne.jp
+    * 4cee8f94-hnpxxjms.cname.ebis.ne.jp
     * 4d5e2130-zqngsxhf.cname.ebis.ne.jp
     * 4f187ea1-yphasapa.cname.ebis.ne.jp
     * 4f9cdbe0-unrhytys.cname.ebis.ne.jp
@@ -382,7 +382,6 @@
 | adebis.afc-shop.com | 337c50cc-ztaqjkmm.cname.ebis.ne.jp |
 | adebis.report.clinic | 34213ab6-xnj2xrq7.cname.ebis.ne.jp |
 | adebis.tipness.co.jp | 359e2360-u9necda2.cname.ebis.ne.jp |
-| adebis.fenet.jp | 35e79adf-qjtkq0iz.cname.ebis.ne.jp |
 | ebis.bbo.co.jp | 3649b46d-day5axk4.cname.ebis.ne.jp |
 | msr.p-antiaging.com | 3714e864-qge7cq9v.cname.ebis.ne.jp |
 | sem.tkc-biyou.jp | 3735525f-znrwzwlu.cname.ebis.ne.jp |
@@ -413,6 +412,7 @@
 | itp.phoebebeautyup.com | 4c291f26-leoqufvo.cname.ebis.ne.jp |
 | ureruadebis.papawash.com | 4c937bae-xvkp4hsy.cname.ebis.ne.jp |
 | adebis.sokamocka.com | 4cd0f380-sh2isfez.cname.ebis.ne.jp |
+| adebis1.1rnavi.com | 4cee8f94-hnpxxjms.cname.ebis.ne.jp |
 | ebis.ayura.co.jp | 4d5e2130-zqngsxhf.cname.ebis.ne.jp |
 | ac-ebis.usen-insurance.com | 4f187ea1-yphasapa.cname.ebis.ne.jp |
 | ad-track.paravi.jp | 4f9cdbe0-unrhytys.cname.ebis.ne.jp |

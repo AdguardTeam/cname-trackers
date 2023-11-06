@@ -60,7 +60,6 @@
 | cc.sexstories-xxx.com | api.clickaine.com |
 | cc.sexverhalen-gratis.com | api.clickaine.com |
 | cc2.camcaps.io | api.clickaine.com |
-| cdm.uncensored-hentai.top | api.clickaine.com |
 | cdn1.memojav.com | api.clickaine.com |
 | cdn2.picyield.com | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |

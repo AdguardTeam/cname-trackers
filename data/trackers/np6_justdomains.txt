@@ -921,6 +921,7 @@ tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
 tr.pro-renov.be
 tr.pro.odalys-vacances.com
+tr.prog.cinemanivel.fr
 tr.programme-voyageur-sncf.com
 tr.projet.cotemaison.fr
 tr.promo.np6.fr

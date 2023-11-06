@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -88,6 +88,7 @@ dv.earthlyyowe.com CNAME .
 dw.organaamnions.com CNAME .
 dy.dautedergot.com CNAME .
 dy.fitrootmisterm.com CNAME .
+dz.banyaitlingit.com CNAME .
 ed.druggertruckle.com CNAME .
 ed.urotoxykerch.com CNAME .
 ef.betosslingala.com CNAME .
@@ -240,6 +241,7 @@ nc.nominaturfy.com CNAME .
 ne.galenicnidana.com CNAME .
 ne.jarringerns.com CNAME .
 nj.molliefidac.com CNAME .
+nl.yieldedshotter.com CNAME .
 nm.placoidtobyman.com CNAME .
 np.brackenclomped.com CNAME .
 np.incrustkantela.com CNAME .
@@ -370,7 +372,7 @@ um.sullageprancy.com CNAME .
 un.clobberkiliare.com CNAME .
 un.ginnleunshift.com CNAME .
 uo.tubaronunheler.com CNAME .
-uq.cavuredears.com CNAME .
+uq.skewlyshoggle.com CNAME .
 ur.meteredrato.com CNAME .
 ur.olivetkneel.com CNAME .
 us.aghaneefigurae.com CNAME .
@@ -448,7 +450,7 @@ yu.deggerfletton.com CNAME .
 yv.atticereqd.com CNAME .
 yv.remountduretto.com CNAME .
 yx.minimalmodulet.com CNAME .
-yy.bourockmights.com CNAME .
+za.retipwrested.com CNAME .
 zd.plattedrattons.com CNAME .
 ze.mahonetranvia.com CNAME .
 zf.perseuschoose.com CNAME .

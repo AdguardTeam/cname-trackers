@@ -116,6 +116,7 @@
 | 3180652.notifysrv.com | tk6if76q.ab1n.net |
 | 3180654.notifysrv.com | tk6if76q.ab1n.net |
 | 3180664.notifysrv.com | tk6if76q.ab1n.net |
+| 3180666.notifysrv.com | tk6if76q.ab1n.net |
 | 3180672.notifysrv.com | tk6if76q.ab1n.net |
 | 3180692.notifysrv.com | tk6if76q.ab1n.net |
 | 3180704.notifysrv.com | tk6if76q.ab1n.net |
@@ -831,6 +832,7 @@
 | 4062416.notify6.com | tk6if76q.ab1n.net |
 | 4062424.notify6.com | tk6if76q.ab1n.net |
 | 4062428.notify6.com | tk6if76q.ab1n.net |
+| 4065194.notify6.com | tk6if76q.ab1n.net |
 | 4068856.notify6.com | tk6if76q.ab1n.net |
 | 4068860.notify6.com | tk6if76q.ab1n.net |
 | 4069896.notify6.com | tk6if76q.ab1n.net |
@@ -1028,6 +1030,7 @@
 | s.elnn14.com | tk6if76q.ab1n.net |
 | s.elnn20.com | tk6if76q.ab1n.net |
 | s.elnn24.com | tk6if76q.ab1n.net |
+| s.elnp11.com | tk6if76q.ab1n.net |
 | s.elns4a.com | tk6if76q.ab1n.net |
 | s.elns4c.com | tk6if76q.ab1n.net |
 | s.etology.com | tk6if76q.ab1n.net |
@@ -1115,7 +1118,6 @@
 | a.adsession.com | w2u4v9e1.ab1n.net |
 | a.advertrek.com | w2u4v9e1.ab1n.net |
 | a.asvsm.com | w2u4v9e1.ab1n.net |
-| a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
 | a.etology.com | w2u4v9e1.ab1n.net |
 | a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |

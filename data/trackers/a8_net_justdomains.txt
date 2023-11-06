@@ -306,6 +306,7 @@ a8.williesenglish.jp
 a8.wizrecruitment.012grp.co.jp
 a8.woodlife.jp
 a8.worldikids.com
+a8.www.keurig.jp
 a8.www.melonbooks.co.jp
 a8.www.nicosuma.com
 a8.www.retrospect.co.jp
@@ -739,6 +740,7 @@ a8cv.cozuchi.com
 a8cv.cpi.ad.jp
 a8cv.cprime-japan.com
 a8cv.crecari.com
+a8cv.crefus.jp
 a8cv.crowdcredit.jp
 a8cv.crowdlinks.jp
 a8cv.cv2308001.tanomelu.com
@@ -800,6 +802,7 @@ a8cv.fp-life.design
 a8cv.frecious.jp
 a8cv.free-max.com
 a8cv.freeks-japan.com
+a8cv.freelance-start.com
 a8cv.fujiplus.jp
 a8cv.fukuoka-factoring.net
 a8cv.fundrop.jp
@@ -817,6 +820,7 @@ a8cv.global-link-seminar.com
 a8cv.glocalnet.jp
 a8cv.glow-clinic.com
 a8cv.goodlucknail.com
+a8cv.goqoo.me
 a8cv.grace-grace.info
 a8cv.grassbeaute.jp
 a8cv.greed-island.ne.jp
@@ -944,6 +948,7 @@ a8cv.o-juku.com
 a8cv.o-ken.com
 a8cv.oceanprincess.jp
 a8cv.ococorozashi.com
+a8cv.off-site.jp
 a8cv.ogaland.com
 a8cv.oisix.com
 a8cv.omakase-cyber-mimamori.net
@@ -966,6 +971,7 @@ a8cv.p-antiaging.com
 a8cv.paidy.com
 a8cv.palms-gym.com
 a8cv.perrot.co
+a8cv.phonim.com
 a8cv.photojoy.jp
 a8cv.physiqueframe.com
 a8cv.picksitter.com
@@ -1066,7 +1072,6 @@ a8cv.tokyo-dive.com
 a8cv.tokyo-indoorgolf.com
 a8cv.tokyogas.bocco.me
 a8cv.tomodachi-my.com
-a8cv.tougyoku.com
 a8cv.toushi-up.com
 a8cv.toybox-mnr.com
 a8cv.treasure-f.com
@@ -1084,6 +1089,7 @@ a8cv.waterenergy.co.jp
 a8cv.web-planners.net
 a8cv.wedding.mynavi.jp
 a8cv.will-agaclinic.com
+a8cv.willfu.jp
 a8cv.womanmoney.net
 a8cv.wordman.jp
 a8cv.workany.jp
@@ -1159,7 +1165,6 @@ a8trck.j-sen.jp
 a8trck.tolot.com
 a8trck.worldone.to
 a8trck.ws.formzu.net
-a8trk.beat-hiit.com
 a8trk.www.std-lab.jp
 a8x.piece-kaitori.jp
 acv.auhikari-norikae.com
@@ -1242,6 +1247,7 @@ cv.a-internet.jp
 cv.ag.cybersecurity-jp.com
 cv.agent-sana.com
 cv.atelier-shark.com
+cv.b2b.subscription-store.com
 cv.bc-force.com
 cv.belta-shop.jp
 cv.bikoshaen.com

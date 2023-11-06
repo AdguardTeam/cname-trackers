@@ -6,7 +6,6 @@
 ||data.decathlon.es^
 ||data.decathlon.fr^
 ||data.decathlon.pl^
-||data.ouigo.com^
 ||data.ricaud.com^
 ||data.ubi.com^
 ||data.wptag.net^
@@ -21,4 +20,5 @@
 ||configure.adlermode.com^
 ||data.auchandirect.fr^
 ||data.decathlon.it^
+||data.ouigo.com^
 ||tc.europcar.de^

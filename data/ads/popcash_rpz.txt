@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -68,9 +68,11 @@ cdn.pctv.xyz CNAME .
 cdn.pllah.com CNAME .
 cdn.posawaj.com CNAME .
 cdn.puyjjq.com CNAME .
+cdn.puysis.com CNAME .
 cdn.rapolok.com CNAME .
 cdn.rawqel.com CNAME .
 cdn.rgrd.xyz CNAME .
+cdn.roemoss.com CNAME .
 cdn.sblhp.com CNAME .
 cdn.shakre.com CNAME .
 cdn.spnut.com CNAME .
@@ -233,6 +235,7 @@ canidae.collectingsocialphoto.org CNAME .
 canidae.fidum.uk CNAME .
 capybara.bell0bytes.eu CNAME .
 capybara.civicsoftwarefoundation.org CNAME .
+capybara.randyhamiltonelectric.com CNAME .
 cardinal.businessfirstonline.co.uk CNAME .
 cardinal.ensembleblock.com CNAME .
 cardinal.genx.be CNAME .
@@ -659,7 +662,6 @@ llama.lobbly.com CNAME .
 llama.mallardbay.com CNAME .
 llama.vivriticapital.com CNAME .
 lobster.dispatch.fm CNAME .
-lobster.jusibe.com CNAME .
 lobster.justunderwear.com CNAME .
 lobster.tonebleed.com CNAME .
 locust.ausrebellion.earth CNAME .
@@ -680,7 +682,6 @@ lynx.pascivite.com CNAME .
 lynx.sbstjn.com CNAME .
 lynx.simpleparish.com CNAME .
 macaw.ianmitchell.dev CNAME .
-macaw.myvaluefactory.com CNAME .
 mackerel.fathom.cat CNAME .
 mackerel.passiveincome.io CNAME .
 magpie.onething.org CNAME .
@@ -819,6 +820,7 @@ pigeon.surtitlesolutions.com CNAME .
 pigeon.thankyuu.com CNAME .
 pinniped.gardenofficeguide.co.uk CNAME .
 pinniped.quarantinecup.live CNAME .
+pinniped.spacecountdown.com CNAME .
 piranha.jsmobiledev.com CNAME .
 piranha.minnmyatsoe.com CNAME .
 planarian.614deals.com CNAME .
@@ -867,6 +869,7 @@ quokka.curbnumberpro.com CNAME .
 quokka.howrightnow.org CNAME .
 quokka.joshuawood.net CNAME .
 quokka.oeshome.org CNAME .
+rabbit.homamo.co CNAME .
 rabbit.radicalxchange.org CNAME .
 rabbit.thebestproductlist.com CNAME .
 rabbit.upwardhomes.net CNAME .
@@ -902,6 +905,7 @@ sailfish.youracademycommunity.com CNAME .
 salamander.augmentedmind.io CNAME .
 salamander.laboucheriebio.com CNAME .
 salamander.showandtelldata.com CNAME .
+salamander.yourownpay.com CNAME .
 salmon.literallife.church CNAME .
 salmon.thespiritualpsychologist.co.uk CNAME .
 sawfish.abracebrasil.org CNAME .
@@ -1060,11 +1064,13 @@ vole.nettskaperne.no CNAME .
 vole.noteapps.info CNAME .
 vole.sonicrida.com CNAME .
 vole.tsttechnology.com CNAME .
+vulture.downzeroky.com CNAME .
 vulture.lagosdesaliencia.com CNAME .
 wallaby.cron.help CNAME .
 wallaby.legendkeeper.com CNAME .
 wallaby.short1.link CNAME .
 walrus.fetzcolor.at CNAME .
+walrus.oscaroarevalo.com CNAME .
 warbler.resumebuilder.dev CNAME .
 wasp.dyrynda.dev CNAME .
 wasp.mattjennings.io CNAME .
@@ -1098,7 +1104,6 @@ woodpecker.groupe-montagne.ch CNAME .
 woodpecker.seabits.com CNAME .
 worm.discover-culture.com CNAME .
 worm.usephantom.com CNAME .
-wren.pratyushnalam.com CNAME .
 www.stork.notlessbutbetter.com CNAME .
 yak.animeawards.guide CNAME .
 yak.auclantis.com CNAME .
@@ -1116,18 +1121,23 @@ carlsonmedia.streetinteractive.com CNAME .
 kitt.tucsonsentinel.com CNAME .
 partner.streetinteractive.com CNAME .
 partners.hourmediagroup.com CNAME .
+partners.nationalmortgageprofessional.com CNAME .
 partners.seetheworld.com CNAME .
 saucon-sponsors.streetinteractive.com CNAME .
 sponsor-v2.lebtown.com CNAME .
+sponsor.styleblueprint.com CNAME .
 sponsors-v2.auctionzip.com CNAME .
 sponsors-v2.automate.org CNAME .
 sponsors-v2.floorforce.com CNAME .
 sponsors-v2.locablepublishernetwork.com CNAME .
 sponsors-v2.urbanistnetwork.com CNAME .
+sponsors.decaturish.com CNAME .
 sponsors.floorforce.com CNAME .
 sponsors.macaronikid.com CNAME .
+sponsors.oaklandcountymoms.com CNAME .
 sponsors.salesforceben.com CNAME .
 sponsors.teethtalkgirl.com CNAME .
+support-v2.sweetwaternow.com CNAME .
 adserve.bongocdn.com CNAME .
 assets.diagomics.com CNAME .
 bcdn.cpmstar.com CNAME .

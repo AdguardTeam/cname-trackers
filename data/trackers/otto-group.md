@@ -14,6 +14,7 @@
     * te-frankonia-com.oghub.io
     * te-frankonia-de.oghub.io
     * te-frankoniamoda-ch.oghub.io
+    * te-heine-at.oghub.io
     * te-heine-ch.oghub.io
     * te-heine-de.oghub.io
     * te-heine-shop-nl.oghub.io
@@ -66,6 +67,7 @@
     * tp-witt-international-nl.oghub.io
     * tp-witt-international-sk.oghub.io
     * tp-witt-weiden-at.oghub.io
+    * tp-witt-weiden-de.oghub.io
     * tp-yomonda-de.oghub.io
     * tp-your-look-for-less-nl.oghub.io
     * tp-your-look-for-less-se.oghub.io
@@ -101,8 +103,6 @@
 | tp.otto.de | js.oghub.io |
 | tp.ottoversand.at | js.oghub.io |
 | tp.ottoversand.at | js.oghub.io |
-| tp.quelle.at | js.oghub.io |
-| tp.quelle.ch | js.oghub.io |
 | tp.quelle.de | js.oghub.io |
 | tp.sheego.de | js.oghub.io |
 | tp.sheego.de | js.oghub.io |
@@ -118,6 +118,7 @@
 | tp.witt-weiden.at | js.oghub.io |
 | tp.witt-weiden.at | js.oghub.io |
 | tp.witt-weiden.ch | js.oghub.io |
+| tp.witt-weiden.de | js.oghub.io |
 | tp.witt-weiden.de | js.oghub.io |
 | tp.yomonda.de | js.oghub.io |
 | tp.your-look-for-less.nl | js.oghub.io |
@@ -135,6 +136,7 @@
 | te.frankonia.com | te-frankonia-com.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
 | te.frankoniamoda.ch | te-frankoniamoda-ch.oghub.io |
+| te.heine.at | te-heine-at.oghub.io |
 | te.heine.ch | te-heine-ch.oghub.io |
 | te.heine.de | te-heine-de.oghub.io |
 | te.heine-shop.nl | te-heine-shop-nl.oghub.io |
@@ -189,8 +191,6 @@
 | te.nitro-production.otto.boreus.de | te.oghub.io |
 | te.otto.de | te.oghub.io |
 | te.ottoversand.at | te.oghub.io |
-| te.quelle.at | te.oghub.io |
-| te.quelle.ch | te.oghub.io |
 | te.quelle.de | te.oghub.io |
 | te.schwab.de | te.oghub.io |
 | te.sheego.de | te.oghub.io |
@@ -235,6 +235,7 @@
 | tp.witt-international.nl | tp-witt-international-nl.oghub.io |
 | tp.witt-international.sk | tp-witt-international-sk.oghub.io |
 | tp.witt-weiden.at | tp-witt-weiden-at.oghub.io |
+| tp.witt-weiden.de | tp-witt-weiden-de.oghub.io |
 | tp.yomonda.de | tp-yomonda-de.oghub.io |
 | tp.your-look-for-less.nl | tp-your-look-for-less-nl.oghub.io |
 | tp.your-look-for-less.se | tp-your-look-for-less-se.oghub.io |

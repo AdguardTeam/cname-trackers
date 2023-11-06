@@ -25,6 +25,7 @@
     * h-2dehands.online-metrix.net
     * h-2ememain.online-metrix.net
     * h-2fiylyk1.online-metrix.net
+    * h-2gssvh01.online-metrix.net
     * h-2lrwrk15.online-metrix.net
     * h-2n067wr9.online-metrix.net
     * h-2qfdtlmr.online-metrix.net
@@ -117,6 +118,7 @@
     * h-ag4c1wpy.online-metrix.net
     * h-agaval.online-metrix.net
     * h-agxcazcm.online-metrix.net
+    * h-ahpv7hxn.online-metrix.net
     * h-alliantcreditunion.online-metrix.net
     * h-allianz.online-metrix.net
     * h-allstate.online-metrix.net
@@ -231,13 +233,11 @@
     * h-citcommercial.online-metrix.net
     * h-citibank-ae.online-metrix.net
     * h-citibank-au.online-metrix.net
-    * h-citibank-bh.online-metrix.net
     * h-citibank-cn.online-metrix.net
     * h-citibank-hk.online-metrix.net
     * h-citibank-id.online-metrix.net
     * h-citibank-in.online-metrix.net
     * h-citibank-mx.online-metrix.net
-    * h-citibank-my.online-metrix.net
     * h-citibank-ph.online-metrix.net
     * h-citibank-pl.online-metrix.net
     * h-citibank-ru.online-metrix.net
@@ -531,6 +531,7 @@
     * h-personifyfinancial.online-metrix.net
     * h-phub.com.online-metrix.net
     * h-picpay.online-metrix.net
+    * h-pinup.online-metrix.net
     * h-pnbank.online-metrix.net
     * h-pocketcard.online-metrix.net
     * h-portoseguro.online-metrix.net
@@ -544,6 +545,7 @@
     * h-qudosbank.online-metrix.net
     * h-quicken.online-metrix.net
     * h-rabobank.online-metrix.net
+    * h-rabobank2.online-metrix.net
     * h-rabobankuat.online-metrix.net
     * h-raise.online-metrix.net
     * h-rakbankonline.online-metrix.net
@@ -746,6 +748,7 @@
 | faas.2dehands.be | h-2dehands.online-metrix.net |
 | faas.2ememain.be | h-2ememain.online-metrix.net |
 | metrics.myfrs.com | h-2fiylyk1.online-metrix.net |
+| h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
 | fp.jacamo.co.uk | h-2n067wr9.online-metrix.net |
 | fp.jdwilliams.co.uk | h-2n067wr9.online-metrix.net |
@@ -869,6 +872,7 @@
 | lsr22.dzing.finance | h-ag4c1wpy.online-metrix.net |
 | validacionlx.agaval.com | h-agaval.online-metrix.net |
 | dt.payla.io | h-agxcazcm.online-metrix.net |
+| lnc.mo.gov | h-ahpv7hxn.online-metrix.net |
 | cdn.alliantcreditunion.com | h-alliantcreditunion.online-metrix.net |
 | txn.allianzlife.com | h-allianz.online-metrix.net |
 | content.allstate.com | h-allstate.online-metrix.net |
@@ -1025,13 +1029,11 @@
 | contentfd.directcapital.com | h-citcommercial.online-metrix.net |
 | content22.citibank.ae | h-citibank-ae.online-metrix.net |
 | content22.citibank.com.au | h-citibank-au.online-metrix.net |
-| content22.citibank.com.bh | h-citibank-bh.online-metrix.net |
 | content22.citibank.com.cn | h-citibank-cn.online-metrix.net |
 | content22.citibank.com.hk | h-citibank-hk.online-metrix.net |
 | content22.citibank.co.id | h-citibank-id.online-metrix.net |
 | content22.citibank.co.in | h-citibank-in.online-metrix.net |
 | content22.bancanet.banamex.com | h-citibank-mx.online-metrix.net |
-| content22.citibank.com.my | h-citibank-my.online-metrix.net |
 | content22.citibank.com.ph | h-citibank-ph.online-metrix.net |
 | content22.citibank.pl | h-citibank-pl.online-metrix.net |
 | content22.citibank.ru | h-citibank-ru.online-metrix.net |
@@ -1414,6 +1416,7 @@
 | content.personifyfinancial.com | h-personifyfinancial.online-metrix.net |
 | rba.phub-im.uhg.com | h-phub.com.online-metrix.net |
 | ts04358.picpay.com | h-picpay.online-metrix.net |
+| backend.pin-up.dev | h-pinup.online-metrix.net |
 | content.pnbank.com.au | h-pnbank.online-metrix.net |
 | rbawis.pocketcard.co.jp | h-pocketcard.online-metrix.net |
 | meiodepagamento.campanhaporto.com.br | h-portoseguro.online-metrix.net |
@@ -1460,6 +1463,7 @@
 | content.qudosbank.com.au | h-qudosbank.online-metrix.net |
 | content.quicken.com | h-quicken.online-metrix.net |
 | ranzg.rabobank.com.au | h-rabobank.online-metrix.net |
+| ranzg.rabobank.co.nz | h-rabobank2.online-metrix.net |
 | ranzg.agribank.com.au | h-rabobankuat.online-metrix.net |
 | www7.raise.com | h-raise.online-metrix.net |
 | channel.rakbankonline.ae | h-rakbankonline.online-metrix.net |
@@ -1657,6 +1661,7 @@
 | gateway.jmbullion.com | h.online-metrix.net |
 | h.greenmangaming.com | h.online-metrix.net |
 | metrix.motosport.com | h.online-metrix.net |
+| om.pgw.fcbarcelona.com | h.online-metrix.net |
 | ons.tickets.com | h.online-metrix.net |
 | payrisk-tmx.didiglobal.com | h.online-metrix.net |
 | portal-fp-qa1.qa.threatmetrix.com | qa1-h.online-metrix.net |

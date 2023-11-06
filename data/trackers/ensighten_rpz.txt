@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -272,6 +272,7 @@ privacy.amadrinks.be CNAME .
 privacy.amstel.nl CNAME .
 privacy.birramoretti.com CNAME .
 privacy.blade.app CNAME .
+privacy.desperados.com CNAME .
 privacy.easyjet.com CNAME .
 privacy.gemfinance.co.nz CNAME .
 privacy.gemvisa.com.au CNAME .

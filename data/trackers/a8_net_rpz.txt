@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -317,6 +317,7 @@ a8.williesenglish.jp CNAME .
 a8.wizrecruitment.012grp.co.jp CNAME .
 a8.woodlife.jp CNAME .
 a8.worldikids.com CNAME .
+a8.www.keurig.jp CNAME .
 a8.www.melonbooks.co.jp CNAME .
 a8.www.nicosuma.com CNAME .
 a8.www.retrospect.co.jp CNAME .
@@ -750,6 +751,7 @@ a8cv.cozuchi.com CNAME .
 a8cv.cpi.ad.jp CNAME .
 a8cv.cprime-japan.com CNAME .
 a8cv.crecari.com CNAME .
+a8cv.crefus.jp CNAME .
 a8cv.crowdcredit.jp CNAME .
 a8cv.crowdlinks.jp CNAME .
 a8cv.cv2308001.tanomelu.com CNAME .
@@ -811,6 +813,7 @@ a8cv.fp-life.design CNAME .
 a8cv.frecious.jp CNAME .
 a8cv.free-max.com CNAME .
 a8cv.freeks-japan.com CNAME .
+a8cv.freelance-start.com CNAME .
 a8cv.fujiplus.jp CNAME .
 a8cv.fukuoka-factoring.net CNAME .
 a8cv.fundrop.jp CNAME .
@@ -828,6 +831,7 @@ a8cv.global-link-seminar.com CNAME .
 a8cv.glocalnet.jp CNAME .
 a8cv.glow-clinic.com CNAME .
 a8cv.goodlucknail.com CNAME .
+a8cv.goqoo.me CNAME .
 a8cv.grace-grace.info CNAME .
 a8cv.grassbeaute.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
@@ -955,6 +959,7 @@ a8cv.o-juku.com CNAME .
 a8cv.o-ken.com CNAME .
 a8cv.oceanprincess.jp CNAME .
 a8cv.ococorozashi.com CNAME .
+a8cv.off-site.jp CNAME .
 a8cv.ogaland.com CNAME .
 a8cv.oisix.com CNAME .
 a8cv.omakase-cyber-mimamori.net CNAME .
@@ -977,6 +982,7 @@ a8cv.p-antiaging.com CNAME .
 a8cv.paidy.com CNAME .
 a8cv.palms-gym.com CNAME .
 a8cv.perrot.co CNAME .
+a8cv.phonim.com CNAME .
 a8cv.photojoy.jp CNAME .
 a8cv.physiqueframe.com CNAME .
 a8cv.picksitter.com CNAME .
@@ -1077,7 +1083,6 @@ a8cv.tokyo-dive.com CNAME .
 a8cv.tokyo-indoorgolf.com CNAME .
 a8cv.tokyogas.bocco.me CNAME .
 a8cv.tomodachi-my.com CNAME .
-a8cv.tougyoku.com CNAME .
 a8cv.toushi-up.com CNAME .
 a8cv.toybox-mnr.com CNAME .
 a8cv.treasure-f.com CNAME .
@@ -1095,6 +1100,7 @@ a8cv.waterenergy.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
+a8cv.willfu.jp CNAME .
 a8cv.womanmoney.net CNAME .
 a8cv.wordman.jp CNAME .
 a8cv.workany.jp CNAME .
@@ -1170,7 +1176,6 @@ a8trck.j-sen.jp CNAME .
 a8trck.tolot.com CNAME .
 a8trck.worldone.to CNAME .
 a8trck.ws.formzu.net CNAME .
-a8trk.beat-hiit.com CNAME .
 a8trk.www.std-lab.jp CNAME .
 a8x.piece-kaitori.jp CNAME .
 acv.auhikari-norikae.com CNAME .
@@ -1253,6 +1258,7 @@ cv.a-internet.jp CNAME .
 cv.ag.cybersecurity-jp.com CNAME .
 cv.agent-sana.com CNAME .
 cv.atelier-shark.com CNAME .
+cv.b2b.subscription-store.com CNAME .
 cv.bc-force.com CNAME .
 cv.belta-shop.jp CNAME .
 cv.bikoshaen.com CNAME .

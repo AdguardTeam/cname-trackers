@@ -144,7 +144,6 @@
     * 762510246968705.wt-eu02.net
     * 792100555808051.wt-eu02.net
     * 802837842744167.wt-eu02.net
-    * 807354460250799.wt-eu02.net
     * 818150559802317.wt-eu02.net
     * 819363623263983.wt-eu02.net
     * 823532764568303.wt-eu02.net
@@ -379,7 +378,6 @@
 | is.lg.com | 762510246968705.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
 | web.email.theindependentpharmacy.co.uk | 802837842744167.wt-eu02.net |
-| abc.fackelmann.de | 807354460250799.wt-eu02.net |
 | web.mapp.naturzeit.com | 818150559802317.wt-eu02.net |
 | web.online.monnalisa.com | 819363623263983.wt-eu02.net |
 | mit.dws.com | 823532764568303.wt-eu02.net |

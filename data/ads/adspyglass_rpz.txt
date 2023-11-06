@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -123,7 +123,6 @@ ad.animeitaly.tv CNAME .
 ad.desibp.com CNAME .
 ad.emule-island.eu CNAME .
 ad.pornutopia.org CNAME .
-ad.twinksvid.com CNAME .
 ad.vvtadblk.online CNAME .
 ad.wawacity.xyz CNAME .
 ad.xxam.org CNAME .
@@ -156,6 +155,7 @@ anti.nukedfans.com CNAME .
 anti.uiiumovies.net CNAME .
 antiadblock.info CNAME .
 anun.comicsarmy.com CNAME .
+aoihaizo.xyz CNAME .
 api.adultsclips.com CNAME .
 apiemb.xyz CNAME .
 app.phimvu.app CNAME .
@@ -214,6 +214,7 @@ avgle.com.7mmtv.top CNAME .
 avgle.com.jav-7mmtv.top CNAME .
 awrfds3.pornpapa.com CNAME .
 ax4.xmoviesland.com CNAME .
+b.bengytone.com CNAME .
 b.bloblohub.com CNAME .
 b.comihon.com CNAME .
 b.filexan.com CNAME .
@@ -225,7 +226,6 @@ b.sonorousporn.com CNAME .
 b1.hentaibaka.one CNAME .
 b1.maturesexvideos.pro CNAME .
 babynaz.xyz CNAME .
-backpub.mom CNAME .
 bambao.lol CNAME .
 bambao.xyz CNAME .
 banana.arabtoons.net CNAME .
@@ -284,7 +284,6 @@ cool.gaygo.tv CNAME .
 cool.sunporno.com CNAME .
 cool.tubous.com CNAME .
 coolpornvids.com CNAME .
-cowpaz.pics CNAME .
 crumpet.xxxpornhd.pro CNAME .
 cuckoiz.lol CNAME .
 custom1.shorterall.com CNAME .
@@ -321,6 +320,7 @@ f.bloblohub.com CNAME .
 f92or5.spinna.shop CNAME .
 fansang.xyz CNAME .
 fddddddd.javmilk.org CNAME .
+fg850ik01.6g0blqi1541polz4n0kjvwo1kjl5tcx30.xyz CNAME .
 fgy3tg.jav-7mmtv.top CNAME .
 file.marshlecdn.com CNAME .
 forads.pro CNAME .
@@ -334,11 +334,9 @@ g.adultporn.tv CNAME .
 g.bloblohub.com CNAME .
 g0dy.site CNAME .
 g6j.cupidonmedia.com CNAME .
-gamestar.lol CNAME .
 getallt1.com CNAME .
 gg.xszcdn.com CNAME .
 ggg2fd.jav-7mmtv.top CNAME .
-ggt5v0ce7wvx2jw5coqf89lz3tnxis0.xyz CNAME .
 ghtry.amateurswild.com CNAME .
 glass.vixfilmes.online CNAME .
 glokta.info CNAME .
@@ -355,7 +353,6 @@ help.fanza.cc CNAME .
 hetaer.xyz CNAME .
 heyyou.spinna.shop CNAME .
 hitfuck.icu CNAME .
-hizgame.mom CNAME .
 hoakz.xyz CNAME .
 hot.sexyadsrun.com CNAME .
 hotmovstore.com CNAME .
@@ -403,6 +400,7 @@ js.eroticmv.com CNAME .
 js.j8jp.com CNAME .
 js.manga1000.top CNAME .
 js.mangajp.top CNAME .
+js.mangakl.su CNAME .
 js.mangapro.top CNAME .
 js.phoenixmanga.com CNAME .
 js.xemkqxs.com CNAME .
@@ -410,7 +408,6 @@ jx3.freepornobook.com CNAME .
 k.bloblohub.com CNAME .
 kfioeld.spinna.shop CNAME .
 khoilive.xyz CNAME .
-kingtus.pics CNAME .
 kissjav.li.7mmtv.top CNAME .
 kissjav.li.jav-7mmtv.top CNAME .
 kliqz.com CNAME .
@@ -421,7 +418,6 @@ l.bloblohub.com CNAME .
 l9zkm.pleasedonotblockme.com CNAME .
 lammaou.xyz CNAME .
 larasub.conxxx.pro CNAME .
-leefang.lol CNAME .
 lengtikto.xyz CNAME .
 lixir.wargers.org CNAME .
 load.jabx.net CNAME .
@@ -456,8 +452,8 @@ meyd.7mmtv.top CNAME .
 mficlyxgvfsp.cdnvideo3.com CNAME .
 mgbkt9eckr.xn--mgbkt9eckr.net CNAME .
 mide.7mmtv.top CNAME .
-missgrand.beauty CNAME .
 mrcoviu.pics CNAME .
+mrfantastic.gotdns.ch CNAME .
 mrkaito.xyz CNAME .
 mx6.3pornhere.com CNAME .
 my.shymilftube.com CNAME .
@@ -550,13 +546,13 @@ pre.myfuck.club CNAME .
 pre.pornuxaxa.com CNAME .
 pred.7mmtv.top CNAME .
 profield.ddns.net CNAME .
-pubbucks.homes CNAME .
 px9.nuderedtube.com CNAME .
 qatak.beauty CNAME .
 qhip.com CNAME .
 qoqv.com CNAME .
 qoutec.shop CNAME .
 qsdr.mysunnylawn.com CNAME .
+quantoz.xyz CNAME .
 quickzo.xyz CNAME .
 qwe4456133.justthegays.com CNAME .
 qx0.xnxxtubevideos.com CNAME .
@@ -583,7 +579,6 @@ s2.everydaygayporn.com CNAME .
 s4.sb89347.com CNAME .
 sailundu.xyz CNAME .
 sameplace.lol CNAME .
-sanbox.mom CNAME .
 sansuni.xyz CNAME .
 sape.ngumaz.com CNAME .
 satmon.neekstore.com CNAME .
@@ -603,10 +598,10 @@ sfw1d.dappab.site CNAME .
 sg.xclick24.com CNAME .
 sgzhg.pornlovo.co CNAME .
 sharkbiz.lol CNAME .
-shengcu.mom CNAME .
 shenzo.xyz CNAME .
 shmeia.xyz CNAME .
 shukri.mwikace.com CNAME .
+slit.lewd.rip CNAME .
 smart.sunporno.com CNAME .
 solutions.playernetca.top CNAME .
 someboay.lol CNAME .

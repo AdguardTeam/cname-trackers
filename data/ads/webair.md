@@ -192,8 +192,6 @@
     * adzesto.xml-eu.ak-is2.net
     * adzesto.xml.ak-is2.net
     * adzgame.rtb-eu.ak-is2.net
-    * adzgame.rtb-useast.ak-is2.net
-    * adzgame.ui.ak-is2.net
     * adzgame.xml.ak-is2.net
     * afront.io.xml-v4.ak-is2.net
     * afront.io.xml.ak-is2.net
@@ -508,7 +506,6 @@
     * looksmartppc.ui.ak-is2.net
     * looksmartppc.xml.ak-is2.net
     * madopi.rtb-useast.ak-is2.net
-    * marketiq.rtb-as-useast.ak-is2.net
     * marketiq.rtb-useast-v4.ak-is2.net
     * marketiq.win-useast.ak-is2.net
     * mars.rtb-useast.ak-is2.net
@@ -564,6 +561,7 @@
     * nativeads.rtb-useast.ak-is2.net
     * nativeads.rtb-uswest.ak-is2.net
     * nativeads.rtb-xs.ak-is2.net
+    * nativeads.win-eu.ak-is2.net
     * nativeads.win-useast.ak-is2.net
     * nativeads.win-uswest.ak-is2.net
     * nativeadsfeed.eu.rtb.ak-is2.net
@@ -794,7 +792,6 @@
     * vespymedia.ui.ak-is2.net
     * vespymedia.xml-eu.ak-is2.net
     * vespymedia.xml.ak-is2.net
-    * vi.xml-v4.ak-is2.net
     * vokut.fs.ak-is2.net
     * vokut.rtb-as.ak-is2.net
     * vokut.ui.ak-is2.net
@@ -1353,8 +1350,6 @@
 | xml-eu.adzestocp.com | adzesto.xml-eu.ak-is2.net |
 | xml.adzestocp.com | adzesto.xml.ak-is2.net |
 | rtb-eu.adzgame.com | adzgame.rtb-eu.ak-is2.net |
-| rtb-useast.adzgame.com | adzgame.rtb-useast.ak-is2.net |
-| search.adzgame.com | adzgame.ui.ak-is2.net |
 | sub.adzgame.com | adzgame.xml.ak-is2.net |
 | xml.adzgame.com | adzgame.xml.ak-is2.net |
 | xml-v4.afront.io | afront.io.xml-v4.ak-is2.net |
@@ -1367,7 +1362,6 @@
 | rtb-useast.anyclip-media.com | anyclip-media.rtb-useast.ak-is2.net |
 | filter.anytheengmedia.com | anytheengmedia.fs.ak-is2.net |
 | dsp.anytheengmedia.com | anytheengmedia.rtb-ui.ak-is2.net |
-| dspplatform.anytheengmedia.com | anytheengmedia.rtb-ui.ak-is2.net |
 | search.anytheengmedia.com | anytheengmedia.ui.ak-is2.net |
 | xmlsearch.anytheengmedia.com | anytheengmedia.xml.ak-is2.net |
 | ak-tracker.com | app-shake.xml.ak-is2.net |
@@ -1782,7 +1776,6 @@
 | static.amgadserver.com | m8k9e4d5.stackpathcdn.com |
 | static.mediastinct.com | m9q4r6w5.stackpathcdn.com |
 | rtb-useast.mybiddertop.xyz | madopi.rtb-useast.ak-is2.net |
-| rtb2-useast.marketiq.com | marketiq.rtb-as-useast.ak-is2.net |
 | rtb-useast-v4.marketiq.com | marketiq.rtb-useast-v4.ak-is2.net |
 | win-rtb2-useast.marketiq.com | marketiq.win-useast.ak-is2.net |
 | rtb-useast.mars.video | mars.rtb-useast.ak-is2.net |
@@ -1868,6 +1861,7 @@
 | rtb-useast.nativeadshb.com | nativeads.rtb-useast.ak-is2.net |
 | rtb-uswest.nativeadshb.com | nativeads.rtb-uswest.ak-is2.net |
 | dsp-static.nativeads.com | nativeads.rtb-xs.ak-is2.net |
+| win-dsp-eu.nativeads.com | nativeads.win-eu.ak-is2.net |
 | win-dsp-east.nativeads.com | nativeads.win-useast.ak-is2.net |
 | win-dsp-west.nativeads.com | nativeads.win-uswest.ak-is2.net |
 | rtb-eu.nativeads.com | nativeadsfeed.eu.rtb.ak-is2.net |
@@ -2152,7 +2146,6 @@
 | login.vespymedia.com | vespymedia.ui.ak-is2.net |
 | xml-eu.vespymedia.com | vespymedia.xml-eu.ak-is2.net |
 | xml.vespymedia.com | vespymedia.xml.ak-is2.net |
-| xml-v4.klapads.com | vi.xml-v4.ak-is2.net |
 | filter.adokutcontextual.com | vokut.fs.ak-is2.net |
 | rtb.vokut.com | vokut.rtb-as.ak-is2.net |
 | search.adokutcontextual.com | vokut.ui.ak-is2.net |

@@ -78,6 +78,7 @@
 ||3180652.notifysrv.com^
 ||3180654.notifysrv.com^
 ||3180664.notifysrv.com^
+||3180666.notifysrv.com^
 ||3180672.notifysrv.com^
 ||3180692.notifysrv.com^
 ||3180704.notifysrv.com^
@@ -793,6 +794,7 @@
 ||4062416.notify6.com^
 ||4062424.notify6.com^
 ||4062428.notify6.com^
+||4065194.notify6.com^
 ||4068856.notify6.com^
 ||4068860.notify6.com^
 ||4069896.notify6.com^
@@ -958,7 +960,6 @@
 ||a.adsession.com^
 ||a.advertrek.com^
 ||a.asvsm.com^
-||a.bizonads-ssp.com^
 ||a.etology.com^
 ||a.paradoxgroup.uk^
 ||a.redpathmedia.com^
@@ -1028,6 +1029,7 @@
 ||s.elnn14.com^
 ||s.elnn20.com^
 ||s.elnn24.com^
+||s.elnp11.com^
 ||s.elns4a.com^
 ||s.elns4c.com^
 ||s.etology.com^
@@ -1104,3 +1106,4 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||xn--3225689-o06c.notifysrv.com^
+||a.bizonads-ssp.com^

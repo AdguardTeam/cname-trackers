@@ -5,6 +5,10 @@
 * 0i0i0i0.com
     * u50.0i0i0i0.com
 
+### Rarely active trackers
+
+* u53.hypnorat.com
+
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -121,7 +125,6 @@
 | ad.desibp.com | 0i0i0i0.com |
 | ad.emule-island.eu | 0i0i0i0.com |
 | ad.pornutopia.org | 0i0i0i0.com |
-| ad.twinksvid.com | 0i0i0i0.com |
 | ad.vvtadblk.online | 0i0i0i0.com |
 | ad.wawacity.xyz | 0i0i0i0.com |
 | ad.xxam.org | 0i0i0i0.com |
@@ -154,6 +157,7 @@
 | anti.uiiumovies.net | 0i0i0i0.com |
 | antiadblock.info | 0i0i0i0.com |
 | anun.comicsarmy.com | 0i0i0i0.com |
+| aoihaizo.xyz | 0i0i0i0.com |
 | api.adultsclips.com | 0i0i0i0.com |
 | apiemb.xyz | 0i0i0i0.com |
 | app.phimvu.app | 0i0i0i0.com |
@@ -212,6 +216,7 @@
 | avgle.com.jav-7mmtv.top | 0i0i0i0.com |
 | awrfds3.pornpapa.com | 0i0i0i0.com |
 | ax4.xmoviesland.com | 0i0i0i0.com |
+| b.bengytone.com | 0i0i0i0.com |
 | b.bloblohub.com | 0i0i0i0.com |
 | b.comihon.com | 0i0i0i0.com |
 | b.filexan.com | 0i0i0i0.com |
@@ -223,7 +228,6 @@
 | b1.hentaibaka.one | 0i0i0i0.com |
 | b1.maturesexvideos.pro | 0i0i0i0.com |
 | babynaz.xyz | 0i0i0i0.com |
-| backpub.mom | 0i0i0i0.com |
 | bambao.lol | 0i0i0i0.com |
 | bambao.xyz | 0i0i0i0.com |
 | banana.arabtoons.net | 0i0i0i0.com |
@@ -282,7 +286,6 @@
 | cool.sunporno.com | 0i0i0i0.com |
 | cool.tubous.com | 0i0i0i0.com |
 | coolpornvids.com | 0i0i0i0.com |
-| cowpaz.pics | 0i0i0i0.com |
 | crumpet.xxxpornhd.pro | 0i0i0i0.com |
 | cuckoiz.lol | 0i0i0i0.com |
 | custom1.shorterall.com | 0i0i0i0.com |
@@ -319,6 +322,7 @@
 | f92or5.spinna.shop | 0i0i0i0.com |
 | fansang.xyz | 0i0i0i0.com |
 | fddddddd.javmilk.org | 0i0i0i0.com |
+| fg850ik01.6g0blqi1541polz4n0kjvwo1kjl5tcx30.xyz | 0i0i0i0.com |
 | fgy3tg.jav-7mmtv.top | 0i0i0i0.com |
 | file.marshlecdn.com | 0i0i0i0.com |
 | forads.pro | 0i0i0i0.com |
@@ -332,11 +336,9 @@
 | g.bloblohub.com | 0i0i0i0.com |
 | g0dy.site | 0i0i0i0.com |
 | g6j.cupidonmedia.com | 0i0i0i0.com |
-| gamestar.lol | 0i0i0i0.com |
 | getallt1.com | 0i0i0i0.com |
 | gg.xszcdn.com | 0i0i0i0.com |
 | ggg2fd.jav-7mmtv.top | 0i0i0i0.com |
-| ggt5v0ce7wvx2jw5coqf89lz3tnxis0.xyz | 0i0i0i0.com |
 | ghtry.amateurswild.com | 0i0i0i0.com |
 | glass.vixfilmes.online | 0i0i0i0.com |
 | glokta.info | 0i0i0i0.com |
@@ -352,7 +354,6 @@
 | hetaer.xyz | 0i0i0i0.com |
 | heyyou.spinna.shop | 0i0i0i0.com |
 | hitfuck.icu | 0i0i0i0.com |
-| hizgame.mom | 0i0i0i0.com |
 | hoakz.xyz | 0i0i0i0.com |
 | hot.sexyadsrun.com | 0i0i0i0.com |
 | hotmovstore.com | 0i0i0i0.com |
@@ -399,6 +400,7 @@
 | js.j8jp.com | 0i0i0i0.com |
 | js.manga1000.top | 0i0i0i0.com |
 | js.mangajp.top | 0i0i0i0.com |
+| js.mangakl.su | 0i0i0i0.com |
 | js.mangapro.top | 0i0i0i0.com |
 | js.phoenixmanga.com | 0i0i0i0.com |
 | js.xemkqxs.com | 0i0i0i0.com |
@@ -406,7 +408,6 @@
 | k.bloblohub.com | 0i0i0i0.com |
 | kfioeld.spinna.shop | 0i0i0i0.com |
 | khoilive.xyz | 0i0i0i0.com |
-| kingtus.pics | 0i0i0i0.com |
 | kissjav.li.7mmtv.top | 0i0i0i0.com |
 | kissjav.li.jav-7mmtv.top | 0i0i0i0.com |
 | kliqz.com | 0i0i0i0.com |
@@ -417,7 +418,6 @@
 | l9zkm.pleasedonotblockme.com | 0i0i0i0.com |
 | lammaou.xyz | 0i0i0i0.com |
 | larasub.conxxx.pro | 0i0i0i0.com |
-| leefang.lol | 0i0i0i0.com |
 | lengtikto.xyz | 0i0i0i0.com |
 | lixir.wargers.org | 0i0i0i0.com |
 | load.jabx.net | 0i0i0i0.com |
@@ -451,8 +451,8 @@
 | mficlyxgvfsp.cdnvideo3.com | 0i0i0i0.com |
 | mgbkt9eckr.xn--mgbkt9eckr.net | 0i0i0i0.com |
 | mide.7mmtv.top | 0i0i0i0.com |
-| missgrand.beauty | 0i0i0i0.com |
 | mrcoviu.pics | 0i0i0i0.com |
+| mrfantastic.gotdns.ch | 0i0i0i0.com |
 | mrkaito.xyz | 0i0i0i0.com |
 | mx6.3pornhere.com | 0i0i0i0.com |
 | my.shymilftube.com | 0i0i0i0.com |
@@ -544,13 +544,13 @@
 | pre.pornuxaxa.com | 0i0i0i0.com |
 | pred.7mmtv.top | 0i0i0i0.com |
 | profield.ddns.net | 0i0i0i0.com |
-| pubbucks.homes | 0i0i0i0.com |
 | px9.nuderedtube.com | 0i0i0i0.com |
 | qatak.beauty | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
 | qoqv.com | 0i0i0i0.com |
 | qoutec.shop | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
+| quantoz.xyz | 0i0i0i0.com |
 | quickzo.xyz | 0i0i0i0.com |
 | qwe4456133.justthegays.com | 0i0i0i0.com |
 | qx0.xnxxtubevideos.com | 0i0i0i0.com |
@@ -577,7 +577,6 @@
 | s4.sb89347.com | 0i0i0i0.com |
 | sailundu.xyz | 0i0i0i0.com |
 | sameplace.lol | 0i0i0i0.com |
-| sanbox.mom | 0i0i0i0.com |
 | sansuni.xyz | 0i0i0i0.com |
 | sape.ngumaz.com | 0i0i0i0.com |
 | satmon.neekstore.com | 0i0i0i0.com |
@@ -597,10 +596,10 @@
 | sg.xclick24.com | 0i0i0i0.com |
 | sgzhg.pornlovo.co | 0i0i0i0.com |
 | sharkbiz.lol | 0i0i0i0.com |
-| shengcu.mom | 0i0i0i0.com |
 | shenzo.xyz | 0i0i0i0.com |
 | shmeia.xyz | 0i0i0i0.com |
 | shukri.mwikace.com | 0i0i0i0.com |
+| slit.lewd.rip | 0i0i0i0.com |
 | smart.sunporno.com | 0i0i0i0.com |
 | solutions.playernetca.top | 0i0i0i0.com |
 | someboay.lol | 0i0i0i0.com |
@@ -732,3 +731,4 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| qoqv.com | u53.hypnorat.com |

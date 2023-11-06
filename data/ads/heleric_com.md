@@ -85,6 +85,7 @@
 | dw.organaamnions.com | heleric.com |
 | dy.dautedergot.com | heleric.com |
 | dy.fitrootmisterm.com | heleric.com |
+| dz.banyaitlingit.com | heleric.com |
 | ed.druggertruckle.com | heleric.com |
 | ed.urotoxykerch.com | heleric.com |
 | ef.betosslingala.com | heleric.com |
@@ -237,6 +238,7 @@
 | ne.galenicnidana.com | heleric.com |
 | ne.jarringerns.com | heleric.com |
 | nj.molliefidac.com | heleric.com |
+| nl.yieldedshotter.com | heleric.com |
 | nm.placoidtobyman.com | heleric.com |
 | np.brackenclomped.com | heleric.com |
 | np.incrustkantela.com | heleric.com |
@@ -367,7 +369,7 @@
 | un.clobberkiliare.com | heleric.com |
 | un.ginnleunshift.com | heleric.com |
 | uo.tubaronunheler.com | heleric.com |
-| uq.cavuredears.com | heleric.com |
+| uq.skewlyshoggle.com | heleric.com |
 | ur.meteredrato.com | heleric.com |
 | ur.olivetkneel.com | heleric.com |
 | us.aghaneefigurae.com | heleric.com |
@@ -445,7 +447,7 @@
 | yv.atticereqd.com | heleric.com |
 | yv.remountduretto.com | heleric.com |
 | yx.minimalmodulet.com | heleric.com |
-| yy.bourockmights.com | heleric.com |
+| za.retipwrested.com | heleric.com |
 | zd.plattedrattons.com | heleric.com |
 | ze.mahonetranvia.com | heleric.com |
 | zf.perseuschoose.com | heleric.com |

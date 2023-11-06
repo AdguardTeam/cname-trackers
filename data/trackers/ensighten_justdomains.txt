@@ -261,6 +261,7 @@ privacy.amadrinks.be
 privacy.amstel.nl
 privacy.birramoretti.com
 privacy.blade.app
+privacy.desperados.com
 privacy.easyjet.com
 privacy.gemfinance.co.nz
 privacy.gemvisa.com.au

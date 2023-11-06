@@ -77,6 +77,7 @@
 ||dw.organaamnions.com^
 ||dy.dautedergot.com^
 ||dy.fitrootmisterm.com^
+||dz.banyaitlingit.com^
 ||ed.druggertruckle.com^
 ||ed.urotoxykerch.com^
 ||ef.betosslingala.com^
@@ -229,6 +230,7 @@
 ||ne.galenicnidana.com^
 ||ne.jarringerns.com^
 ||nj.molliefidac.com^
+||nl.yieldedshotter.com^
 ||nm.placoidtobyman.com^
 ||np.brackenclomped.com^
 ||np.incrustkantela.com^
@@ -359,7 +361,7 @@
 ||un.clobberkiliare.com^
 ||un.ginnleunshift.com^
 ||uo.tubaronunheler.com^
-||uq.cavuredears.com^
+||uq.skewlyshoggle.com^
 ||ur.meteredrato.com^
 ||ur.olivetkneel.com^
 ||us.aghaneefigurae.com^
@@ -437,7 +439,7 @@
 ||yv.atticereqd.com^
 ||yv.remountduretto.com^
 ||yx.minimalmodulet.com^
-||yy.bourockmights.com^
+||za.retipwrested.com^
 ||zd.plattedrattons.com^
 ||ze.mahonetranvia.com^
 ||zf.perseuschoose.com^

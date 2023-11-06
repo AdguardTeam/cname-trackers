@@ -226,6 +226,7 @@ affiliate.pouziteiphony.cz
 affiliate.pravopropodnikatele.cz
 affiliate.prikryvky-obchod.cz
 affiliate.prodietix.cz
+affiliate.progresguru.cz
 affiliate.pt-shop.cz
 affiliate.rajkratomu.cz
 affiliate.reduccia.cz
@@ -384,6 +385,7 @@ my.top4sport.hu
 my.top4sport.ro
 my.weplaybasketball.bg
 my.weplaybasketball.cz
+my.weplaybasketball.ee
 my.weplaybasketball.gr
 my.weplaybasketball.hu
 my.weplaybasketball.ro
@@ -451,7 +453,6 @@ partner.bydlimekrasne.cz
 partner.cakemarket.eu
 partner.calita.cz
 partner.candy.cz
-partner.cannacare.cz
 partner.caskrmeni.cz
 partner.cbdcko.cz
 partner.cbdstar.cz
@@ -555,7 +556,6 @@ partner.kidtown.cz
 partner.kokiskashop.cz
 partner.kokiskashop.sk
 partner.kominy-bokra.cz
-partner.korenikralu.cz
 partner.kurzysusmevem.cz
 partner.kvcar.cz
 partner.laab.cz
@@ -872,6 +872,7 @@ spoluprace.h2world.store
 spoluprace.interbohemia.cz
 spoluprace.janitaurbanova.cz
 spoluprace.luxusnipradlo.cz
+spoluprace.m-soft.cz
 spoluprace.majka-shop.cz
 spoluprace.mentorkalucie.cz
 spoluprace.obchod-setrilek.cz

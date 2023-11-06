@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -49,6 +49,7 @@ auth.vedacheck.com.au CNAME .
 auth2.corelogic.asia CNAME .
 authorizer-data.infinitepay.io CNAME .
 b177.kabbage.com CNAME .
+backend.pin-up.dev CNAME .
 bank.bnpl.c24.de CNAME .
 banque.banque-casino.fr CNAME .
 barnacle.tommybahama.com CNAME .
@@ -320,10 +321,8 @@ content22.citibank.co.in CNAME .
 content22.citibank.co.th CNAME .
 content22.citibank.com CNAME .
 content22.citibank.com.au CNAME .
-content22.citibank.com.bh CNAME .
 content22.citibank.com.cn CNAME .
 content22.citibank.com.hk CNAME .
-content22.citibank.com.my CNAME .
 content22.citibank.com.ph CNAME .
 content22.citibank.com.sg CNAME .
 content22.citibank.com.tw CNAME .
@@ -440,6 +439,7 @@ ghisa.subito.it CNAME .
 go.citizensaccess.com CNAME .
 h.chase.co.uk CNAME .
 h.greenmangaming.com CNAME .
+h.santanderconsumer.pl CNAME .
 h.threatmetrix.com CNAME .
 h.truist.com CNAME .
 hint-tmdp.opendoor.com CNAME .
@@ -506,6 +506,7 @@ jytrnq.cm-cic.com CNAME .
 kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
 ln.meudigio.com.br CNAME .
+lnc.mo.gov CNAME .
 lndata.labor.maryland.gov CNAME .
 lndata.labor.md.gov CNAME .
 lnths.twc.texas.gov CNAME .
@@ -551,6 +552,7 @@ ofxmryjd.seller.walmart.com CNAME .
 ofxmryjd.walmart.com CNAME .
 ola2.tdameritrade.com CNAME .
 olacontent.schwab.com CNAME .
+om.pgw.fcbarcelona.com CNAME .
 online-metrix.imars.cloud CNAME .
 online-security.unionbankph.com CNAME .
 online.nbc.ca CNAME .
@@ -646,6 +648,7 @@ query.capitalontap.com CNAME .
 r.hokodo.co CNAME .
 r7s.scl.swisscom.ch CNAME .
 ranzg.agribank.com.au CNAME .
+ranzg.rabobank.co.nz CNAME .
 ranzg.rabobank.com.au CNAME .
 rauth.chubb.com CNAME .
 rba-screen.healthsafe-id.com CNAME .

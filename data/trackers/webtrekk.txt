@@ -50,7 +50,6 @@
 ||a.thespa.steigenberger.com^
 ||a.zleep.com^
 ||abc.bayer04.de^
-||abc.fackelmann.de^
 ||analytics.hermesworld.com^
 ||analytics.myhermes.de^
 ||app03.ikk-classic.de^

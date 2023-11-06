@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -261,7 +261,6 @@ plausible.k6sbw.net CNAME .
 plausible.kabaret.no CNAME .
 plausible.kdojang.com CNAME .
 plausible.kundenportal.io CNAME .
-plausible.langojango.com CNAME .
 plausible.lesbianromantic.com CNAME .
 plausible.logicboard.com CNAME .
 plausible.mattpruitt.com CNAME .
@@ -280,6 +279,7 @@ plausible.reabra.com.br CNAME .
 plausible.reactpreview.com CNAME .
 plausible.redchamp.net CNAME .
 plausible.regex.help CNAME .
+plausible.retune.de CNAME .
 plausible.sbw.org CNAME .
 plausible.shadygrovepca.org CNAME .
 plausible.simplelogin.io CNAME .
@@ -965,7 +965,6 @@ stats.xactcode.com CNAME .
 stats.xn--antnio-dxa.pt CNAME .
 stats.xn--drivation-b4a.fr CNAME .
 stats.yourdallashandyman.com CNAME .
-stats.zehta.me CNAME .
 stats.zimri.net CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
 sts.authramp.com CNAME .

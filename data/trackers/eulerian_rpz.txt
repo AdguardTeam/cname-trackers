@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -145,6 +145,7 @@ ea.kauf-unique.de CNAME .
 ea.kidiliz.com CNAME .
 ea.labelhabitation.com CNAME .
 ea.lafrancedunordausud.fr CNAME .
+ea.laredoute.pt CNAME .
 ea.lepelican.fr CNAME .
 ea.leskidunordausud.fr CNAME .
 ea.lespagnedunordausud.fr CNAME .
@@ -155,8 +156,6 @@ ea.millet-mountain.com CNAME .
 ea.millet-mountain.de CNAME .
 ea.millet.fr CNAME .
 ea.mistergatesdirect.com CNAME .
-ea.mnt.fr CNAME .
-ea.moncornerdeco.com CNAME .
 ea.mondial-assistance.fr CNAME .
 ea.mydailyhotel.com CNAME .
 ea.mywarner.warnerbros.fr CNAME .
@@ -531,5 +530,6 @@ eat9.thebeat925.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
+ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
 nym5c.laura.ca CNAME .

@@ -250,7 +250,6 @@ plausible.k6sbw.net
 plausible.kabaret.no
 plausible.kdojang.com
 plausible.kundenportal.io
-plausible.langojango.com
 plausible.lesbianromantic.com
 plausible.logicboard.com
 plausible.mattpruitt.com
@@ -269,6 +268,7 @@ plausible.reabra.com.br
 plausible.reactpreview.com
 plausible.redchamp.net
 plausible.regex.help
+plausible.retune.de
 plausible.sbw.org
 plausible.shadygrovepca.org
 plausible.simplelogin.io
@@ -954,7 +954,6 @@ stats.xactcode.com
 stats.xn--antnio-dxa.pt
 stats.xn--drivation-b4a.fr
 stats.yourdallashandyman.com
-stats.zehta.me
 stats.zimri.net
 statystyki.ekspertyzy-szkolenia.pl
 sts.authramp.com

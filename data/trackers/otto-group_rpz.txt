@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,8 +36,6 @@ te.nitro-production.otto.boreus.de CNAME .
 te.nitro-test-extern.otto.boreus.de CNAME .
 te.otto.de CNAME .
 te.ottoversand.at CNAME .
-te.quelle.at CNAME .
-te.quelle.ch CNAME .
 te.quelle.de CNAME .
 te.schwab.de CNAME .
 te.sheego.de CNAME .
@@ -75,8 +73,6 @@ tp.mirapodo.de CNAME .
 tp.mytoys.de CNAME .
 tp.otto.de CNAME .
 tp.ottoversand.at CNAME .
-tp.quelle.at CNAME .
-tp.quelle.ch CNAME .
 tp.quelle.de CNAME .
 tp.sheego.de CNAME .
 tp.sieh-an.at CNAME .

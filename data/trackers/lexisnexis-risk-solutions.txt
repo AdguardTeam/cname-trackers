@@ -38,6 +38,7 @@
 ||auth2.corelogic.asia^
 ||authorizer-data.infinitepay.io^
 ||b177.kabbage.com^
+||backend.pin-up.dev^
 ||bank.bnpl.c24.de^
 ||banque.banque-casino.fr^
 ||barnacle.tommybahama.com^
@@ -309,10 +310,8 @@
 ||content22.citibank.co.th^
 ||content22.citibank.com^
 ||content22.citibank.com.au^
-||content22.citibank.com.bh^
 ||content22.citibank.com.cn^
 ||content22.citibank.com.hk^
-||content22.citibank.com.my^
 ||content22.citibank.com.ph^
 ||content22.citibank.com.sg^
 ||content22.citibank.com.tw^
@@ -429,6 +428,7 @@
 ||go.citizensaccess.com^
 ||h.chase.co.uk^
 ||h.greenmangaming.com^
+||h.santanderconsumer.pl^
 ||h.threatmetrix.com^
 ||h.truist.com^
 ||hint-tmdp.opendoor.com^
@@ -495,6 +495,7 @@
 ||kyc.usend.com^
 ||lab4.lloydsbank.com^
 ||ln.meudigio.com.br^
+||lnc.mo.gov^
 ||lndata.labor.maryland.gov^
 ||lndata.labor.md.gov^
 ||lnths.twc.texas.gov^
@@ -540,6 +541,7 @@
 ||ofxmryjd.walmart.com^
 ||ola2.tdameritrade.com^
 ||olacontent.schwab.com^
+||om.pgw.fcbarcelona.com^
 ||online-metrix.imars.cloud^
 ||online-security.unionbankph.com^
 ||online.nbc.ca^
@@ -635,6 +637,7 @@
 ||r.hokodo.co^
 ||r7s.scl.swisscom.ch^
 ||ranzg.agribank.com.au^
+||ranzg.rabobank.co.nz^
 ||ranzg.rabobank.com.au^
 ||rauth.chubb.com^
 ||rba-screen.healthsafe-id.com^

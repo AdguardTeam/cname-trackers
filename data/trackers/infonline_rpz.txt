@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ acsam-relay.agof.de CNAME .
 acsam-relay.ivwonline.org CNAME .
 acsam-script.agof.de CNAME .
 c4b720ded1.apps.iocnt.de CNAME .
+data-0034231193.apps.iocnt.de CNAME .
 data-00460c60fa.eurotransport.de CNAME .
 data-007f9d19c8.sbz-monteur.de CNAME .
 data-009c74b736.yesss.at CNAME .
@@ -605,7 +606,6 @@ data-47ee1b0882.kino-treuchtlingen.de CNAME .
 data-47ee1b0882.kino-ueberlingen.de CNAME .
 data-47ee1b0882.kino-wemding.de CNAME .
 data-47ee1b0882.kino-wolfhagen.de CNAME .
-data-47ee1b0882.kino-worms.de CNAME .
 data-47ee1b0882.kinobleicherode.de CNAME .
 data-47ee1b0882.kinocenter-cuxhaven.de CNAME .
 data-47ee1b0882.kinokorbach.de CNAME .
@@ -908,7 +908,9 @@ data-67f17c94f0.special-harninkontinenz.de CNAME .
 data-67f17c94f0.special-rueckenschmerz.de CNAME .
 data-684c5faba8.ok-magazin.de CNAME .
 data-684c5faba8.okmag.de CNAME .
+data-686f12c8aa.regionaljobs.at CNAME .
 data-69f8b27f58.deutsche-handwerks-zeitung.de CNAME .
+data-6a83b9cb11.liferadio.tirol CNAME .
 data-6ad61cf514.petra.de CNAME .
 data-6add5bd962.bergwelten.com CNAME .
 data-6b50f0ba60.apps.iocnt.de CNAME .
@@ -996,6 +998,7 @@ data-73b18cc776.radioherford.de CNAME .
 data-73e5a82398.plasticker.de CNAME .
 data-74131617db.achgut.com CNAME .
 data-7462ea72ec.augsburger-allgemeine.de CNAME .
+data-7462ea72ec.augsburger-bombennacht.de CNAME .
 data-7462ea72ec.fupa.net CNAME .
 data-7462ea72ec.intersana.de CNAME .
 data-7484840ede.all-electronics.de CNAME .
@@ -1785,6 +1788,7 @@ data-dd2f77abdf.apps.iocnt.de CNAME .
 data-dd659348c3.heimatsport.de CNAME .
 data-dd659348c3.heimatzeitung.de CNAME .
 data-dd659348c3.pnp.de CNAME .
+data-dd659348c3.wahl.info CNAME .
 data-dda7d24eb2.derstandard.at CNAME .
 data-ddcae4625b.apps.iocnt.de CNAME .
 data-ddecebdea5.storage-insider.de CNAME .

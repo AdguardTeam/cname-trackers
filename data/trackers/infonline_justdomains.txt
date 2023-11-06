@@ -10,6 +10,7 @@ acsam-relay.agof.de
 acsam-relay.ivwonline.org
 acsam-script.agof.de
 c4b720ded1.apps.iocnt.de
+data-0034231193.apps.iocnt.de
 data-00460c60fa.eurotransport.de
 data-007f9d19c8.sbz-monteur.de
 data-009c74b736.yesss.at
@@ -594,7 +595,6 @@ data-47ee1b0882.kino-treuchtlingen.de
 data-47ee1b0882.kino-ueberlingen.de
 data-47ee1b0882.kino-wemding.de
 data-47ee1b0882.kino-wolfhagen.de
-data-47ee1b0882.kino-worms.de
 data-47ee1b0882.kinobleicherode.de
 data-47ee1b0882.kinocenter-cuxhaven.de
 data-47ee1b0882.kinokorbach.de
@@ -897,7 +897,9 @@ data-67f17c94f0.special-harninkontinenz.de
 data-67f17c94f0.special-rueckenschmerz.de
 data-684c5faba8.ok-magazin.de
 data-684c5faba8.okmag.de
+data-686f12c8aa.regionaljobs.at
 data-69f8b27f58.deutsche-handwerks-zeitung.de
+data-6a83b9cb11.liferadio.tirol
 data-6ad61cf514.petra.de
 data-6add5bd962.bergwelten.com
 data-6b50f0ba60.apps.iocnt.de
@@ -985,6 +987,7 @@ data-73b18cc776.radioherford.de
 data-73e5a82398.plasticker.de
 data-74131617db.achgut.com
 data-7462ea72ec.augsburger-allgemeine.de
+data-7462ea72ec.augsburger-bombennacht.de
 data-7462ea72ec.fupa.net
 data-7462ea72ec.intersana.de
 data-7484840ede.all-electronics.de
@@ -1774,6 +1777,7 @@ data-dd2f77abdf.apps.iocnt.de
 data-dd659348c3.heimatsport.de
 data-dd659348c3.heimatzeitung.de
 data-dd659348c3.pnp.de
+data-dd659348c3.wahl.info
 data-dda7d24eb2.derstandard.at
 data-ddcae4625b.apps.iocnt.de
 data-ddecebdea5.storage-insider.de

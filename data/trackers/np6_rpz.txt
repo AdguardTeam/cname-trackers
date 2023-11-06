@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1698652816142        ; Serial
+           1699257616670        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -932,6 +932,7 @@ tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro-renov.be CNAME .
 tr.pro.odalys-vacances.com CNAME .
+tr.prog.cinemanivel.fr CNAME .
 tr.programme-voyageur-sncf.com CNAME .
 tr.projet.cotemaison.fr CNAME .
 tr.promo.np6.fr CNAME .
