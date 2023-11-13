@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -128,6 +128,7 @@ jinx.skullctf.com CNAME .
 joy.ochronus.online CNAME .
 kaladyaudiology.ericksonbuilt.com CNAME .
 kingsandqueens.splowser.com CNAME .
+kon.mediaplatform.group CNAME .
 l.lilyzhou.com CNAME .
 l2k30jsa.theochu.com CNAME .
 lkj23jlkajsa.realestate.help CNAME .
@@ -369,6 +370,7 @@ static.osalta.eu CNAME .
 statistic.jac-systeme.de CNAME .
 statistics.heatbeat.de CNAME .
 statistik.apartments-tirolerhaus.at CNAME .
+stats-aah.gigride.live CNAME .
 stats-whatever.gigride.live CNAME .
 stats.45rpm.ch CNAME .
 stats.50x.ca CNAME .
@@ -599,7 +601,6 @@ stats.halcyon.hr CNAME .
 stats.hammertime.me CNAME .
 stats.hauke.me CNAME .
 stats.headhunted.com.au CNAME .
-stats.hhpro.net CNAME .
 stats.homepage-2021.askmiso-dev.com CNAME .
 stats.homestow.com CNAME .
 stats.hostfactor.io CNAME .
@@ -735,7 +736,6 @@ stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
 stats.newslit.co CNAME .
 stats.nexagon.dk CNAME .
-stats.nicolabricot.com CNAME .
 stats.nodewood.com CNAME .
 stats.nomad.radio CNAME .
 stats.nonprofit.foundation CNAME .
@@ -792,6 +792,7 @@ stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
 stats.poochplaces.dog CNAME .
+stats.portalmonitor.io CNAME .
 stats.portalzero.net CNAME .
 stats.postcollectors.com CNAME .
 stats.poweringpastcoal.org CNAME .

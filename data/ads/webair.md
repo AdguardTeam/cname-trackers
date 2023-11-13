@@ -191,7 +191,6 @@
     * adzesto.fs.ak-is2.net
     * adzesto.xml-eu.ak-is2.net
     * adzesto.xml.ak-is2.net
-    * adzgame.rtb-eu.ak-is2.net
     * adzgame.xml.ak-is2.net
     * afront.io.xml-v4.ak-is2.net
     * afront.io.xml.ak-is2.net
@@ -381,7 +380,6 @@
     * eureekkaa.xml.ak-is2.net
     * eximdigital.fs.ak-is2.net
     * eximdigital.rtb-eu.ak-is2.net
-    * eximdigital.rtb-useast.ak-is2.net
     * eximdigital.xml.ak-is2.net
     * expialidosius.fs-eu.ak-is2.net
     * explorads.aui.ak-is2.net
@@ -437,7 +435,6 @@
     * globlemath.xml-v4.ak-is2.net
     * globlemath.xml.ak-is2.net
     * goclickz.fs.ak-is2.net
-    * goclickz.xml-v4.ak-is2.net
     * greenlightclix.fs.ak-is2.net
     * greenlightclix.rtb-uswest.ak-is2.net
     * greenlightclix.ui.ak-is2.net
@@ -692,7 +689,6 @@
     * rtbplatform.rtb-eu.ak-is2.net
     * rtbplatform.rtb-west.ak-is2.net
     * rtbplatform.ui.ak-is2.net
-    * rtbzone.fs.ak-is2.net
     * rtbzone.xml.ak-is2.net
     * rtxfeed.xml-v4.ak-is2.net
     * rtxfeed.xml.ak-is2.net
@@ -789,7 +785,6 @@
     * vertoz.xml-eu.ak-is2.net
     * vertoz.xml.ak-is2.net
     * vespymedia.fs.ak-is2.net
-    * vespymedia.ui.ak-is2.net
     * vespymedia.xml-eu.ak-is2.net
     * vespymedia.xml.ak-is2.net
     * vokut.fs.ak-is2.net
@@ -797,7 +792,6 @@
     * vokut.ui.ak-is2.net
     * vokut.xml-eu.ak-is2.net
     * vokut.xml.ak-is2.net
-    * vtads.fs.ak-is2.net
     * vtads.xml.ak-is2.net
     * vuukle.rtb-useast-v4.ak-is2.net
     * vyadd.rtb-useast.ak-is2.net
@@ -1255,8 +1249,6 @@
 | xml-eu.adtube.media | adtube.xml-eu.ak-is2.net |
 | xml-v4.adtube.media | adtube.xml-v4.ak-is2.net |
 | xml.adtube.media | adtube.xml.ak-is2.net |
-| tq-eu.craftviking-2.co | adventurefeeds.fs-eu.ak-is2.net |
-| tq-eu.craftviking.co | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.frdjs-1.co | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.frdjs-2.co | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.gipostart-1.co | adventurefeeds.fs-eu.ak-is2.net |
@@ -1266,8 +1258,6 @@
 | tq.pdn-eu.com | adventurefeeds.fs-eu.ak-is2.net |
 | filter.adventurefeeds.com | adventurefeeds.fs.ak-is2.net |
 | tq.adventurefeeds.com | adventurefeeds.fs.ak-is2.net |
-| tq.craftviking-2.co | adventurefeeds.fs.ak-is2.net |
-| tq.craftviking.co | adventurefeeds.fs.ak-is2.net |
 | tq.frdjs-1.co | adventurefeeds.fs.ak-is2.net |
 | tq.frdjs-2.co | adventurefeeds.fs.ak-is2.net |
 | tq.gipostart-1.co | adventurefeeds.fs.ak-is2.net |
@@ -1281,8 +1271,6 @@
 | traffic.adventurefeeds.com | adventurefeeds.ui.ak-is2.net |
 | webpush.adventurefeeds.com | adventurefeeds.wp-ui.ak-is2.net |
 | push.adventurefeeds.com | adventurefeeds.wp.ak-is2.net |
-| xml-eu-v4.craftviking-2.co | adventurefeeds.xml-eu-v4.ak-is2.net |
-| xml-eu-v4.craftviking.co | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.explorefast-1.com | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.frdjs-1.co | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.frdjs-2.co | adventurefeeds.xml-eu-v4.ak-is2.net |
@@ -1293,8 +1281,6 @@
 | xml-eu-v4.pxfind3.com | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.xonedart-2.live | adventurefeeds.xml-eu-v4.ak-is2.net |
 | clk.pdn-eu.com | adventurefeeds.xml-eu.ak-is2.net |
-| xml-eu.craftviking-2.co | adventurefeeds.xml-eu.ak-is2.net |
-| xml-eu.craftviking.co | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.explorefast-1.com | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.frdjs-1.co | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.gipostart-1.co | adventurefeeds.xml-eu.ak-is2.net |
@@ -1302,8 +1288,6 @@
 | xml-eu.nxthost-1.info | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.nxthost-2.info | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.xonedart-2.live | adventurefeeds.xml-eu.ak-is2.net |
-| xml-v4.craftviking-2.co | adventurefeeds.xml-v4.ak-is2.net |
-| xml-v4.craftviking.co | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.explorefast-1.com | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.frdjs-1.co | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.frdjs-2.co | adventurefeeds.xml-v4.ak-is2.net |
@@ -1315,8 +1299,6 @@
 | xml-v4.xonedart-1.live | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.xonedart-2.live | adventurefeeds.xml-v4.ak-is2.net |
 | xml.adventurefeeds.com | adventurefeeds.xml.ak-is2.net |
-| xml.craftviking-2.co | adventurefeeds.xml.ak-is2.net |
-| xml.craftviking.co | adventurefeeds.xml.ak-is2.net |
 | xml.explorefast-1.com | adventurefeeds.xml.ak-is2.net |
 | xml.frdjs-1.co | adventurefeeds.xml.ak-is2.net |
 | xml.frdjs-2.co | adventurefeeds.xml.ak-is2.net |
@@ -1349,7 +1331,6 @@
 | filter.adzestocp.com | adzesto.fs.ak-is2.net |
 | xml-eu.adzestocp.com | adzesto.xml-eu.ak-is2.net |
 | xml.adzestocp.com | adzesto.xml.ak-is2.net |
-| rtb-eu.adzgame.com | adzgame.rtb-eu.ak-is2.net |
 | sub.adzgame.com | adzgame.xml.ak-is2.net |
 | xml.adzgame.com | adzgame.xml.ak-is2.net |
 | xml-v4.afront.io | afront.io.xml-v4.ak-is2.net |
@@ -1569,7 +1550,6 @@
 | xml.eureekkaa.com | eureekkaa.xml.ak-is2.net |
 | filter.eximdigital.com | eximdigital.fs.ak-is2.net |
 | rtb-eu.eximdigital.com | eximdigital.rtb-eu.ak-is2.net |
-| rtb-useast.eximdigital.com | eximdigital.rtb-useast.ak-is2.net |
 | xml.eximdigital.com | eximdigital.xml.ak-is2.net |
 | filter-eu.expialidosius.com | expialidosius.fs-eu.ak-is2.net |
 | login.exploradstech.com | explorads.aui.ak-is2.net |
@@ -1658,7 +1638,6 @@
 | click-v4.globlemath.com | globlemath.xml-v4.ak-is2.net |
 | click.globlemath.com | globlemath.xml.ak-is2.net |
 | filter.goclickz.net | goclickz.fs.ak-is2.net |
-| xml-v4.goclickz.net | goclickz.xml-v4.ak-is2.net |
 | filter.clixforads.com | greenlightclix.fs.ak-is2.net |
 | rtb-uswest.clixforads.com | greenlightclix.rtb-uswest.ak-is2.net |
 | login.clixforads.com | greenlightclix.ui.ak-is2.net |
@@ -2022,7 +2001,6 @@
 | rtb-eu.rtbplatform.net | rtbplatform.rtb-eu.ak-is2.net |
 | rtb-uswest.rtbplatform.net | rtbplatform.rtb-west.ak-is2.net |
 | dsp.rtbplatform.net | rtbplatform.ui.ak-is2.net |
-| filter.rtbzone.com | rtbzone.fs.ak-is2.net |
 | xml.rtbzone.com | rtbzone.xml.ak-is2.net |
 | xml-v4.rtxfeed.com | rtxfeed.xml-v4.ak-is2.net |
 | xml.rtxfeed.com | rtxfeed.xml.ak-is2.net |
@@ -2143,7 +2121,6 @@
 | xml.admozartppc.com | vertoz.xml.ak-is2.net |
 | xml.admozartxml.com | vertoz.xml.ak-is2.net |
 | jfilter.vespymedia.com | vespymedia.fs.ak-is2.net |
-| login.vespymedia.com | vespymedia.ui.ak-is2.net |
 | xml-eu.vespymedia.com | vespymedia.xml-eu.ak-is2.net |
 | xml.vespymedia.com | vespymedia.xml.ak-is2.net |
 | filter.adokutcontextual.com | vokut.fs.ak-is2.net |
@@ -2152,7 +2129,6 @@
 | search.vokut.com | vokut.ui.ak-is2.net |
 | xml-eu.adokutcontextual.com | vokut.xml-eu.ak-is2.net |
 | xml.adokutcontextual.com | vokut.xml.ak-is2.net |
-| filter.vtads.co.in | vtads.fs.ak-is2.net |
 | xml.vtads.co.in | vtads.xml.ak-is2.net |
 | rtb-useast-v4.vuukle.net | vuukle.rtb-useast-v4.ak-is2.net |
 | rtb-useast.vyadd.com | vyadd.rtb-useast.ak-is2.net |
@@ -2190,7 +2166,6 @@
 | dsp.xapads.com | xapads.aui.ak-is2.net |
 | cpm.xrtb.io | xapads.cpm.ak-is2.net |
 | display.rtb-serve.com | xapads.cpm.ak-is2.net |
-| vid-cpm.xapads.com | xapads.cpm.ak-is2.net |
 | click.aarthpro.com | xapads.fs.ak-is2.net |
 | xml-default.xapads.com | xapads.fs.ak-is2.net |
 | rtb-apac.openrtb.in | xapads.rtb-apac.ak-is2.net |
@@ -2213,7 +2188,6 @@
 | xml-rtb.xapads.com | xapads.xml.ak-is2.net |
 | static.openrtb.in | xapads.xs.ak-is2.net |
 | static.xrtb.io | xapads.xs.ak-is2.net |
-| vid-static.xapads.com | xapads.xs.ak-is2.net |
 | click-rtb2-apac.xaprio.net | xaprio.click-apac.ak-is2.net |
 | click-rtb2-eu.xaprio.net | xaprio.click-eu.ak-is2.net |
 | click-rtb2-useast.xaprio.net | xaprio.click-useast.ak-is2.net |

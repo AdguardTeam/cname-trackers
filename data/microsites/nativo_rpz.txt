@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,8 +17,8 @@ sponsor.syracuse.com CNAME .
 00f62a6f1c.8f0f3b8464.com CNAME .
 01b8624b69.d821929e2d.com CNAME .
 022e699eb8.0497496f94.com CNAME .
+02acc7c99a.0a40c2b172.com CNAME .
 04183538bf.639707f501.com CNAME .
-042006961f.0c98edaa39.com CNAME .
 04655ba7cf.63383900e0.com CNAME .
 052d3c5276.875413cfaf.com CNAME .
 060ec415b9.15d3c0325b.com CNAME .
@@ -34,7 +34,6 @@ sponsor.syracuse.com CNAME .
 0c5b5ba32e.bf0a4afaf5.com CNAME .
 0cc118959f.bb3830357b.com CNAME .
 0d75eae134.2ae9461951.com CNAME .
-0d9b072dfd.69c28fb7f4.com CNAME .
 0ebc52a9c6.c981f87754.com CNAME .
 0f6e7d3222.ba33938e50.com CNAME .
 0fd4d7aa3c.160bcb3235.com CNAME .
@@ -57,7 +56,6 @@ sponsor.syracuse.com CNAME .
 1d36ac18b1.5424351d90.com CNAME .
 1d64fb6441.0ec78e0509.com CNAME .
 1e32421487.c9ff2ca544.com CNAME .
-1ed960d6ad.fa479896c7.com CNAME .
 201efd9d67.c3af119d07.com CNAME .
 20ddfbe344.7179c5492e.com CNAME .
 213d2867ca.22ddebb169.com CNAME .
@@ -71,6 +69,7 @@ sponsor.syracuse.com CNAME .
 2a1b1b81ae.2fcde24f87.com CNAME .
 2a4f7c2be4.558c41c6ef.com CNAME .
 2a5f6f9e90.b07109f884.com CNAME .
+2a6b16dfe0.667fa1e9d4.com CNAME .
 2a98a4b811.a2a2fd6dd1.com CNAME .
 2abf7576ac.4fbe7621b8.com CNAME .
 2b93cd08b5.fd40cd3322.com CNAME .
@@ -117,7 +116,6 @@ sponsor.syracuse.com CNAME .
 474df84441.e034108851.com CNAME .
 4803b375b0.786eed44f0.com CNAME .
 480c457e75.7c4f272aeb.com CNAME .
-4909cc6acc.0fc32b5283.com CNAME .
 49b2837491.589aa99d18.com CNAME .
 4b09093915.259576970f.com CNAME .
 4b612d43b5.649751e608.com CNAME .
@@ -137,7 +135,6 @@ sponsor.syracuse.com CNAME .
 55479d4a4f.e97fff7188.com CNAME .
 56a7ca381c.a4de9aca80.com CNAME .
 570bfb615e.f3de94ee1e.com CNAME .
-57a8023ce9.1aa3097b7b.com CNAME .
 57e382118c.c1c759d012.com CNAME .
 58ac5dbcb6.34946d7678.com CNAME .
 58f2603a9f.4bed4d5afa.com CNAME .
@@ -148,6 +145,7 @@ sponsor.syracuse.com CNAME .
 5ab760da26.bf34686748.com CNAME .
 5d4e559c09.4250665e93.com CNAME .
 5e90a3a3f8.85d9d90c71.com CNAME .
+5ea8f33fb6.61c6379963.com CNAME .
 5f50953e05.4a277bbf1a.com CNAME .
 6002296e53.64df8e1c63.com CNAME .
 60152c575a.015fcec3c6.com CNAME .
@@ -248,6 +246,7 @@ sponsor.syracuse.com CNAME .
 9fd272d79c.2f16d429ce.com CNAME .
 a0603102f5.5a9b48f0db.com CNAME .
 a10b5740ba.239333b133.com CNAME .
+a15d7c11f7.4e2c896383.com CNAME .
 a390770006.41291ba668.com CNAME .
 a9c3a4315a.59e15e749d.com CNAME .
 a9d40d3ddf.7811f1c9ec.com CNAME .
@@ -279,6 +278,7 @@ c580712027.ffcc2964d9.com CNAME .
 c5e6188341.fca4efa968.com CNAME .
 c6605baadd.2d6a7b9179.com CNAME .
 c6644ac158.2ae70a6814.com CNAME .
+c688594720.933af389e0.com CNAME .
 c76100e6f6.bb17f09ee7.com CNAME .
 c926b14548.d69b881dcc.com CNAME .
 ca149d02d1.ac14b9b34e.com CNAME .
@@ -333,6 +333,7 @@ f05f18119a.635a022421.com CNAME .
 f102547b70.5f6d8a5f78.com CNAME .
 f1763f2f87.f4f8fb91df.com CNAME .
 f1ab40b1ac.91a3c37128.com CNAME .
+f2e49209b4.bcab4297a6.com CNAME .
 f571f387dc.2e51ef91bb.com CNAME .
 f7edea5919.fce9830ba4.com CNAME .
 f9630bc2e3.6afd255116.com CNAME .
@@ -351,11 +352,11 @@ ff04a1538a.ced4d66e2d.com CNAME .
 ff18e0b495.eeecc0e343.com CNAME .
 ff6840b5f0.338d2db673.com CNAME .
 a135.wftv.com CNAME .
-a614.pennlive.com CNAME .
-c.ntv.io CNAME .
 mlive.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
+0d9b072dfd.69c28fb7f4.com CNAME .
+4909cc6acc.0fc32b5283.com CNAME .
 a135.fox23.com CNAME .
 a135.wpxi.com CNAME .
 a135.wsbtv.com CNAME .
@@ -364,12 +365,14 @@ a614.al.com CNAME .
 a614.masslive.com CNAME .
 a614.mlive.com CNAME .
 a614.nj.com CNAME .
+a614.pennlive.com CNAME .
 ajc.share.ntv.io CNAME .
 al.share.ntv.io CNAME .
 automobilemag.share.ntv.io CNAME .
 ballisticmag.share.ntv.io CNAME .
 bicycling.share.ntv.io CNAME .
 bossip.share.ntv.io CNAME .
+c.ntv.io CNAME .
 cio.share.ntv.io CNAME .
 cooktopcove.share.ntv.io CNAME .
 cricketwireless.share.ntv.io CNAME .

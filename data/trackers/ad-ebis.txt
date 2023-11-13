@@ -105,7 +105,6 @@
 ||adebis.tspot.co.jp^
 ||adebis.urban-research.jp^
 ||adebis.wii-clinic.jp^
-||adebis.windsorracket.co.jp^
 ||adebis.zenyaku-hbshop.com^
 ||adebis01.job-con.jp^
 ||adebis02.juku.st^
@@ -218,7 +217,6 @@
 ||ebis.lululun.com^
 ||ebis.macchialabel.com^
 ||ebis.makeshop.jp^
-||ebis.mucuna.co.jp^
 ||ebis.n-pri.jp^
 ||ebis.nomu-silica.jp^
 ||ebis.okasan-online.co.jp^

@@ -105,12 +105,13 @@
 | a.suptube.com | 0i0i0i0.com |
 | a.teencfnm.com | 0i0i0i0.com |
 | a.tixir.xyz | 0i0i0i0.com |
-| a.tortuko.club | 0i0i0i0.com |
 | a.totoro2011.xyz | 0i0i0i0.com |
 | a.unblock2303.xyz | 0i0i0i0.com |
 | a.unblock2304.xyz | 0i0i0i0.com |
 | a.viralnewsbd.xyz | 0i0i0i0.com |
+| a.voxar.xyz | 0i0i0i0.com |
 | a.warddogs.com | 0i0i0i0.com |
+| a.wlen1bty92.pro | 0i0i0i0.com |
 | a.xmanga.online | 0i0i0i0.com |
 | a.zillastream.com | 0i0i0i0.com |
 | a5g.oves.biz | 0i0i0i0.com |
@@ -336,11 +337,11 @@
 | g.bloblohub.com | 0i0i0i0.com |
 | g0dy.site | 0i0i0i0.com |
 | g6j.cupidonmedia.com | 0i0i0i0.com |
+| game.starswalker.site | 0i0i0i0.com |
 | getallt1.com | 0i0i0i0.com |
 | gg.xszcdn.com | 0i0i0i0.com |
 | ggg2fd.jav-7mmtv.top | 0i0i0i0.com |
 | ghtry.amateurswild.com | 0i0i0i0.com |
-| glass.vixfilmes.online | 0i0i0i0.com |
 | glokta.info | 0i0i0i0.com |
 | go.ss-n-30.com | 0i0i0i0.com |
 | goallbest.com | 0i0i0i0.com |
@@ -395,6 +396,7 @@
 | jo.fapnado.xxx | 0i0i0i0.com |
 | jo.fapnow.xxx | 0i0i0i0.com |
 | jo.hqbang.com | 0i0i0i0.com |
+| jordan.qunis.ru | 0i0i0i0.com |
 | js.allporncomic.com | 0i0i0i0.com |
 | js.eroticmv.com | 0i0i0i0.com |
 | js.j8jp.com | 0i0i0i0.com |
@@ -406,11 +408,13 @@
 | js.xemkqxs.com | 0i0i0i0.com |
 | jx3.freepornobook.com | 0i0i0i0.com |
 | k.bloblohub.com | 0i0i0i0.com |
+| kaizzz.xyz | 0i0i0i0.com |
 | kfioeld.spinna.shop | 0i0i0i0.com |
 | khoilive.xyz | 0i0i0i0.com |
 | kissjav.li.7mmtv.top | 0i0i0i0.com |
 | kissjav.li.jav-7mmtv.top | 0i0i0i0.com |
 | kliqz.com | 0i0i0i0.com |
+| ko.faptor.com | 0i0i0i0.com |
 | krplss.click | 0i0i0i0.com |
 | kuhdsysdas.indexsubtitle.com | 0i0i0i0.com |
 | kx4.firstsexfilm.com | 0i0i0i0.com |
@@ -481,6 +485,7 @@
 | nope.xn--ygba1c.wtf | 0i0i0i0.com |
 | nopetube.xn--mgbkt9eckr.net | 0i0i0i0.com |
 | notonthebedsheets.com | 0i0i0i0.com |
+| npbvqqkpuele.cdnvideo3.com | 0i0i0i0.com |
 | nx7.hdxxxclips.com | 0i0i0i0.com |
 | o.hotsextube.tv | 0i0i0i0.com |
 | o313o.com | 0i0i0i0.com |
@@ -543,11 +548,9 @@
 | pre.myfuck.club | 0i0i0i0.com |
 | pre.pornuxaxa.com | 0i0i0i0.com |
 | pred.7mmtv.top | 0i0i0i0.com |
-| profield.ddns.net | 0i0i0i0.com |
 | px9.nuderedtube.com | 0i0i0i0.com |
 | qatak.beauty | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
-| qoqv.com | 0i0i0i0.com |
 | qoutec.shop | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
 | quantoz.xyz | 0i0i0i0.com |
@@ -684,6 +687,7 @@
 | www.javtvnow.xyz | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
 | www.p123p.com | 0i0i0i0.com |
+| www.pelisestreno.cc | 0i0i0i0.com |
 | www.pleasedonotblockme.com | 0i0i0i0.com |
 | www.pornvideos.casa | 0i0i0i0.com |
 | www.spinna.shop | 0i0i0i0.com |
@@ -731,4 +735,6 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| h-ay.com | u53.hypnorat.com |
+| qhip.com | u53.hypnorat.com |
 | qoqv.com | u53.hypnorat.com |

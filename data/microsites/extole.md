@@ -64,6 +64,7 @@
     * leadmd.extole.com
     * luckyvitamin.extole.com
     * lymphedemaproducts.extole.com
+    * mlbtv.extole.com
     * montgomeryadvertiser.extole.com
     * moo.extole.com
     * myplant.extole.com
@@ -218,7 +219,6 @@
     * clarksusa.extole.io
     * cle-de-peau.extole.io
     * clevelandgolf.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -263,6 +263,7 @@
     * esteelauder-au.extole.io
     * esteelauder-kr.extole.io
     * esteelauder.extole.io
+    * esteelauderjp.extole.io
     * etrade.extole.io
     * everlywell.extole.io
     * evine.extole.io
@@ -323,6 +324,7 @@
     * indeed.extole.io
     * inspire-clean-energy.extole.io
     * installamerica.extole.io
+    * iqfiber.extole.io
     * issaonline.extole.io
     * itbed.extole.io
     * iteach.extole.io
@@ -463,6 +465,7 @@
     * signals.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
+    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -497,6 +500,7 @@
     * the-company-store.extole.io
     * the-inside.extole.io
     * the-vitamin-shoppe.extole.io
+    * thegeneral.extole.io
     * theory.extole.io
     * theprisonerwinecompany.extole.io
     * thesculptsociety.extole.io
@@ -695,7 +699,6 @@
 | referral.cledepeaubeaute.com | cle-de-peau.extole.io |
 | refer.clearme.com | clearme-ssl.extole.com |
 | share.dunlopsports.com | clevelandgolf.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -754,6 +757,7 @@
 | share.esteelauder.com.au | esteelauder-au.extole.io |
 | share.esteelauder.co.kr | esteelauder-kr.extole.io |
 | share.esteelauder.com.tw | esteelauder.extole.io |
+| share.refer-esteelauder.jp | esteelauderjp.extole.io |
 | refer.etrade.net | etrade.extole.io |
 | refer.everlywell.com | everlywell.extole.io |
 | share.evine.com | evine.extole.io |
@@ -879,6 +883,7 @@
 | refer.integrativenutrition.com | integrativenutrition-ssl.extole.com |
 | refer.accountants.intuit.com | intuit-accountants.extole.com |
 | refer.payroll.intuit.com | iop.extole.com |
+| share.iqfiber.com | iqfiber.extole.io |
 | refer.issaonline.com | issaonline.extole.io |
 | refer.itbed.com | itbed.extole.io |
 | share.iteach.net | iteach.extole.io |
@@ -935,6 +940,8 @@
 | businessreferrals.lumen.com | lumen.extole.io |
 | refer.lymphedemaproducts.com | lymphedemaproducts.extole.com |
 | share.maccosmetics.com.au | mac-cosmetics.extole.io |
+| share.refer-maccosmetics.com.tw | mac-cosmetics.extole.io |
+| share.refer-maccosmetics.jp | mac-cosmetics.extole.io |
 | refer.madison-reed.com | madison-reed.extole.io |
 | share.maidpro.com | maidpro.extole.io |
 | share.mamabearlegalforms.com | mama-bear-legal-forms.extole.io |
@@ -946,6 +953,7 @@
 | refer.merrell.com | merrell.extole.io |
 | refer.minted.com | minted.extole.io |
 | refer.mission.com | mission.extole.io |
+| share.mlb.tv | mlbtv.extole.com |
 | refer.mpgsport.ca | mondetta.extole.io |
 | refer.mpgsport.com | mondetta.extole.io |
 | refer.montgomeryadvertiser.com | montgomeryadvertiser.extole.com |
@@ -1083,6 +1091,7 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
+| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1131,6 +1140,7 @@
 | refer.thecompanystore.com | the-company-store.extole.io |
 | refer.theinside.com | the-inside.extole.io |
 | refer.vitaminshoppe.com | the-vitamin-shoppe.extole.io |
+| share.thegeneral.com | thegeneral.extole.io |
 | refer.theleafchronicle.com | theleafchronicle.extole.com |
 | share.theory.com | theory.extole.io |
 | share.theoryoutlet.com | theory.extole.io |

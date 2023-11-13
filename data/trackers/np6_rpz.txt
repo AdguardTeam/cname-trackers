@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -193,6 +193,7 @@ tr.clients-mediametrie.fr CNAME .
 tr.clients.base-plus.fr CNAME .
 tr.clients.boursobank.info CNAME .
 tr.clients.boursorama.info CNAME .
+tr.clients.compagnie-hyperactive.com CNAME .
 tr.clients.europrogres.fr CNAME .
 tr.clients.gemy.fr CNAME .
 tr.clients.idaia.group CNAME .
@@ -365,6 +366,7 @@ tr.emailing.canalpro.fr CNAME .
 tr.emailing.canalsat.ch CNAME .
 tr.emailing.cifea-mkg.com CNAME .
 tr.emailing.cnam-paysdelaloire.fr CNAME .
+tr.emailing.coe.int CNAME .
 tr.emailing.cstar.fr CNAME .
 tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
@@ -940,7 +942,6 @@ tr.promotion.lexpress.fr CNAME .
 tr.prosfores-companeo.gr CNAME .
 tr.prosfores-etairias.gr CNAME .
 tr.ps.espmp-agfr.net CNAME .
-tr.psaparts.com CNAME .
 tr.publicisdrugstore.espmp-agfr.net CNAME .
 tr.qualitaetsumfrage.com CNAME .
 tr.qualitaveicolo.com CNAME .

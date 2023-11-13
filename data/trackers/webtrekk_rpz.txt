@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,11 +54,8 @@ wtm.interhyp.de CNAME .
 www7.springer.com CNAME .
 a.deutschehospitality.com CNAME .
 a.hrewards.com CNAME .
-a.intercityhotel.com CNAME .
 a.jaz-hotel.com CNAME .
 a.maxxhotel.com CNAME .
-a.steigenberger.com CNAME .
-a.thespa.steigenberger.com CNAME .
 a.zleep.com CNAME .
 abc.bayer04.de CNAME .
 analytics.hermesworld.com CNAME .
@@ -182,6 +179,7 @@ mit.researchlog.db.com CNAME .
 mit.researchlog.dbresearch.com CNAME .
 mit.researchlog.dbresearch.de CNAME .
 nov.data.srf.ch CNAME .
+on.dextra.ch CNAME .
 ot.obi-baumarkt.ch CNAME .
 ot.obi-brico.ch CNAME .
 ot.obi-italia.it CNAME .
@@ -328,6 +326,7 @@ web.newsletter.viviennewestwood.com CNAME .
 web.newsletterit.esprinet.com CNAME .
 web.online.monnalisa.com CNAME .
 web.pages.lloydspharmacy.com CNAME .
+web.redazione.milanofinanza.it CNAME .
 web.sensilab.com CNAME .
 web.sensilab.cz CNAME .
 web.sensilab.de CNAME .
@@ -399,4 +398,3 @@ wttd.madeleine.com CNAME .
 wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
-www.a.steigenberger.com CNAME .

@@ -188,6 +188,7 @@
 * ssl-dmi.tns-dk.2cnt.net
 * ssl-dplaystream.tns-dk.2cnt.net
 * ssl-dr.tns-dk.2cnt.net
+* ssl-drandroidtvstream.tns-dk.2cnt.net
 * ssl-drhbbstream.tns-dk.2cnt.net
 * ssl-drhbbtv.tns-dk.2cnt.net
 * ssl-driosstream.tns-dk.2cnt.net
@@ -312,7 +313,6 @@
 * ugeavisen.tns-dk.2cnt.net
 * vafo.tns-dk.2cnt.net
 * vendelbop.tns-dk.2cnt.net
-* vg00.vgwort-de.2cnt.net
 * vg01.vgwort-de.2cnt.net
 * vg02.vgwort-de.2cnt.net
 * vg03.vgwort-de.2cnt.net
@@ -492,6 +492,7 @@
 | drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | ssl-dplayandroidstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | ssl-drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
+| ssl-drandroidtvstream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | ssl-youseestream.tns-gallup.dk | slb-tns-dk-pool06.tns-dk.2cnt.net |
 | dplayteststream.tns-gallup.dk | slb-tns-dk-pool07.tns-dk.2cnt.net |
 | drandroidstream.tns-gallup.dk | slb-tns-dk-pool07.tns-dk.2cnt.net |
@@ -545,7 +546,6 @@
 | stern.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | taz.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | teltarif.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
-| vg00.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | vg00.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | vg08.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | vision.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -678,6 +678,7 @@
 | ssl-dmi.tns-gallup.dk | ssl-dmi.tns-dk.2cnt.net |
 | ssl-dplaystream.tns-gallup.dk | ssl-dplaystream.tns-dk.2cnt.net |
 | ssl-dr.tns-gallup.dk | ssl-dr.tns-dk.2cnt.net |
+| ssl-drandroidtvstream.tns-gallup.dk | ssl-drandroidtvstream.tns-dk.2cnt.net |
 | ssl-drhbbstream.tns-gallup.dk | ssl-drhbbstream.tns-dk.2cnt.net |
 | ssl-drhbbtv.tns-gallup.dk | ssl-drhbbtv.tns-dk.2cnt.net |
 | ssl-driosstream.tns-gallup.dk | ssl-driosstream.tns-dk.2cnt.net |
@@ -800,7 +801,6 @@
 | ugeavisen.tns-gallup.dk | ugeavisen.tns-dk.2cnt.net |
 | vafo.tns-gallup.dk | vafo.tns-dk.2cnt.net |
 | vendelbop.tns-gallup.dk | vendelbop.tns-dk.2cnt.net |
-| vg00.met.vgwort.de | vg00.vgwort-de.2cnt.net |
 | vg01.met.vgwort.de | vg01.vgwort-de.2cnt.net |
 | vg02.met.vgwort.de | vg02.vgwort-de.2cnt.net |
 | vg03.met.vgwort.de | vg03.vgwort-de.2cnt.net |

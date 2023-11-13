@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,7 +61,6 @@ b20p6lt350nt.app.polymersearch.com CNAME .
 b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
 bigbtmbvdzda.freelancer.taxmachine.be CNAME .
-cihnqp6p65.koinly.io CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
 cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
@@ -90,7 +89,6 @@ kn81kivjwwc7.www.logology.co CNAME .
 li3k4d70ig52.resourceya.com CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
 m4zoxtrcea1k.controlconceptsusa.com CNAME .
-m5yw219v6r.app.koinly.io CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
 mteme7li1d6r.vertexmarketingagency.com CNAME .

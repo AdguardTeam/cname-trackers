@@ -14,7 +14,6 @@
     * 06fb9eec-clhowtg1.cname.ebis.ne.jp
     * 07972d3a-6pusefyf.cname.ebis.ne.jp
     * 07d020a3-crscrcp3.cname.ebis.ne.jp
-    * 094f0196-n3yx9wah.cname.ebis.ne.jp
     * 099c079b-bx6pznc9.cname.ebis.ne.jp
     * 099c079b-kdytzguc.cname.ebis.ne.jp
     * 099c079b-vmcsnsvr.cname.ebis.ne.jp
@@ -41,7 +40,6 @@
     * 19740a52-z3l0wqwm.cname.ebis.ne.jp
     * 19b07d2c-szarg4cw.cname.ebis.ne.jp
     * 1a549c8f-lxybwclf.cname.ebis.ne.jp
-    * 1c11b00c-sz3ynfbf.cname.ebis.ne.jp
     * 1c49adf8-5jfswxpe.cname.ebis.ne.jp
     * 1c49adf8-eth6amyu.cname.ebis.ne.jp
     * 1c99a9c7-dsen3b5f.cname.ebis.ne.jp
@@ -326,7 +324,6 @@
 | adebis.tohshin.co.jp | 06fb9eec-clhowtg1.cname.ebis.ne.jp |
 | ebis-tracking.tcb-fukushima.com | 07972d3a-6pusefyf.cname.ebis.ne.jp |
 | adebis.livable.co.jp | 07d020a3-crscrcp3.cname.ebis.ne.jp |
-| adebis.windsorracket.co.jp | 094f0196-n3yx9wah.cname.ebis.ne.jp |
 | adebis-bkan.vbest.jp | 099c079b-bx6pznc9.cname.ebis.ne.jp |
 | adebis-rikon.vbest.jp | 099c079b-kdytzguc.cname.ebis.ne.jp |
 | adebis-saimu.vbest.jp | 099c079b-vmcsnsvr.cname.ebis.ne.jp |
@@ -353,7 +350,6 @@
 | adebis.jp.iface.com | 19740a52-z3l0wqwm.cname.ebis.ne.jp |
 | urr.kumamoto-food.com | 19b07d2c-szarg4cw.cname.ebis.ne.jp |
 | ade.deskstyle.info | 1a549c8f-lxybwclf.cname.ebis.ne.jp |
-| ebis.mucuna.co.jp | 1c11b00c-sz3ynfbf.cname.ebis.ne.jp |
 | ac-ebis-stb.usen.com | 1c49adf8-5jfswxpe.cname.ebis.ne.jp |
 | ac-ebis-uhome.usen.com | 1c49adf8-eth6amyu.cname.ebis.ne.jp |
 | ac-ebis.otoraku.jp | 1c99a9c7-dsen3b5f.cname.ebis.ne.jp |

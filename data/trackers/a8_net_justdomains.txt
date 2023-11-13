@@ -13,6 +13,7 @@ a8-xshop.secure.xserver.ne.jp
 a8.01cloud.jp
 a8.123.rheos.jp
 a8.2ndstreet.jp
+a8.366vivi.com
 a8.abemashopping.jp
 a8.ablenet.jp
 a8.aga-hakata.com
@@ -519,7 +520,6 @@ a8clk.nissen.co.jp
 a8clk.nobirun.jp
 a8clk.nta.co.jp
 a8clk.nyandaful.jp
-a8clk.officehikari119.com
 a8clk.okawa-god.jp
 a8clk.olulu-online.jp
 a8clk.onemile.jp
@@ -562,6 +562,7 @@ a8clk.shikaku-square.com
 a8clk.shinnihon-seminar.com
 a8clk.shoes.regal.co.jp
 a8clk.shokutakubin.com
+a8clk.shop.echigofuton.jp
 a8clk.shop.kitamura.jp
 a8clk.shop.saraya.com
 a8clk.shop.shareme.jp
@@ -596,7 +597,6 @@ a8clk.tanp.jp
 a8clk.tastytable-food.com
 a8clk.teacon.jp
 a8clk.titivate.jp
-a8clk.to-chu.co.jp
 a8clk.toretoku.jp
 a8clk.tsuchiya-kaban.jp
 a8clk.tsunorice.com
@@ -969,7 +969,6 @@ a8cv.otakudathough.com
 a8cv.otoriyose.site
 a8cv.p-antiaging.com
 a8cv.paidy.com
-a8cv.palms-gym.com
 a8cv.perrot.co
 a8cv.phonim.com
 a8cv.photojoy.jp
@@ -1029,6 +1028,7 @@ a8cv.shop.mintme.jp
 a8cv.shop.solve-grp.com
 a8cv.sibody.co.jp
 a8cv.signalift.com
+a8cv.sirusi.jp
 a8cv.sl-creations.store
 a8cv.slp.partners-re.co.jp
 a8cv.smart-shikaku.com
@@ -1054,10 +1054,12 @@ a8cv.studycompass.net
 a8cv.studygear.evidus.com
 a8cv.sumai-surfin.com
 a8cv.sunmillion-ikiiki.jp
+a8cv.suzaku.or.jp
 a8cv.suzette-shop.jp
 a8cv.sweets-paradise-shop.com
 a8cv.t-bang.jp
 a8cv.t-gaia.co.jp
+a8cv.taclinic.jp
 a8cv.taisyokudaiko.jp
 a8cv.tamago-repeat.com
 a8cv.techkidsschool.jp
@@ -1253,6 +1255,7 @@ cv.belta-shop.jp
 cv.bikoshaen.com
 cv.bloomeelife.com
 cv.cante-gym.com
+cv.cart.naturath.jp
 cv.colleize.com
 cv.cp-c21.com
 cv.dc-khs.com
@@ -1262,6 +1265,7 @@ cv.ev-navi.com
 cv.figure.toy-kaitoru.com
 cv.fire-bird.jp
 cv.h-docomo.com
+cv.hikari.organic
 cv.hikkoshizamurai.jp
 cv.hoikushi-bosyu.com
 cv.homepage-seisaku.jp

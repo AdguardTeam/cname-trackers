@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ a8-xshop.secure.xserver.ne.jp CNAME .
 a8.01cloud.jp CNAME .
 a8.123.rheos.jp CNAME .
 a8.2ndstreet.jp CNAME .
+a8.366vivi.com CNAME .
 a8.abemashopping.jp CNAME .
 a8.ablenet.jp CNAME .
 a8.aga-hakata.com CNAME .
@@ -530,7 +531,6 @@ a8clk.nissen.co.jp CNAME .
 a8clk.nobirun.jp CNAME .
 a8clk.nta.co.jp CNAME .
 a8clk.nyandaful.jp CNAME .
-a8clk.officehikari119.com CNAME .
 a8clk.okawa-god.jp CNAME .
 a8clk.olulu-online.jp CNAME .
 a8clk.onemile.jp CNAME .
@@ -573,6 +573,7 @@ a8clk.shikaku-square.com CNAME .
 a8clk.shinnihon-seminar.com CNAME .
 a8clk.shoes.regal.co.jp CNAME .
 a8clk.shokutakubin.com CNAME .
+a8clk.shop.echigofuton.jp CNAME .
 a8clk.shop.kitamura.jp CNAME .
 a8clk.shop.saraya.com CNAME .
 a8clk.shop.shareme.jp CNAME .
@@ -607,7 +608,6 @@ a8clk.tanp.jp CNAME .
 a8clk.tastytable-food.com CNAME .
 a8clk.teacon.jp CNAME .
 a8clk.titivate.jp CNAME .
-a8clk.to-chu.co.jp CNAME .
 a8clk.toretoku.jp CNAME .
 a8clk.tsuchiya-kaban.jp CNAME .
 a8clk.tsunorice.com CNAME .
@@ -980,7 +980,6 @@ a8cv.otakudathough.com CNAME .
 a8cv.otoriyose.site CNAME .
 a8cv.p-antiaging.com CNAME .
 a8cv.paidy.com CNAME .
-a8cv.palms-gym.com CNAME .
 a8cv.perrot.co CNAME .
 a8cv.phonim.com CNAME .
 a8cv.photojoy.jp CNAME .
@@ -1040,6 +1039,7 @@ a8cv.shop.mintme.jp CNAME .
 a8cv.shop.solve-grp.com CNAME .
 a8cv.sibody.co.jp CNAME .
 a8cv.signalift.com CNAME .
+a8cv.sirusi.jp CNAME .
 a8cv.sl-creations.store CNAME .
 a8cv.slp.partners-re.co.jp CNAME .
 a8cv.smart-shikaku.com CNAME .
@@ -1065,10 +1065,12 @@ a8cv.studycompass.net CNAME .
 a8cv.studygear.evidus.com CNAME .
 a8cv.sumai-surfin.com CNAME .
 a8cv.sunmillion-ikiiki.jp CNAME .
+a8cv.suzaku.or.jp CNAME .
 a8cv.suzette-shop.jp CNAME .
 a8cv.sweets-paradise-shop.com CNAME .
 a8cv.t-bang.jp CNAME .
 a8cv.t-gaia.co.jp CNAME .
+a8cv.taclinic.jp CNAME .
 a8cv.taisyokudaiko.jp CNAME .
 a8cv.tamago-repeat.com CNAME .
 a8cv.techkidsschool.jp CNAME .
@@ -1264,6 +1266,7 @@ cv.belta-shop.jp CNAME .
 cv.bikoshaen.com CNAME .
 cv.bloomeelife.com CNAME .
 cv.cante-gym.com CNAME .
+cv.cart.naturath.jp CNAME .
 cv.colleize.com CNAME .
 cv.cp-c21.com CNAME .
 cv.dc-khs.com CNAME .
@@ -1273,6 +1276,7 @@ cv.ev-navi.com CNAME .
 cv.figure.toy-kaitoru.com CNAME .
 cv.fire-bird.jp CNAME .
 cv.h-docomo.com CNAME .
+cv.hikari.organic CNAME .
 cv.hikkoshizamurai.jp CNAME .
 cv.hoikushi-bosyu.com CNAME .
 cv.homepage-seisaku.jp CNAME .

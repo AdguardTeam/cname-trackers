@@ -73,7 +73,6 @@
     * mkt-usz-ch-cddc.at-o.net
     * montpalatin-handicap-fr-cddc.at-o.net
     * pear-ca-eko-globetrotter-fr-cddc.at-o.net
-    * pear-youzful-by-ca-fr-cddc.at-o.net
     * ponyo-cheriefm-fr-cddc.at-o.net
     * protys-protys-fr-cddc.at-o.net
     * res-elle-fr-cddc.at-o.net
@@ -198,7 +197,6 @@
 | mkt.usz.ch | mkt-usz-ch-cddc.at-o.net |
 | montpalatin.handicap.fr | montpalatin-handicap-fr-cddc.at-o.net |
 | pear.ca-eko-globetrotter.fr | pear-ca-eko-globetrotter-fr-cddc.at-o.net |
-| pear.youzful-by-ca.fr | pear-youzful-by-ca-fr-cddc.at-o.net |
 | ponyo.cheriefm.fr | ponyo-cheriefm-fr-cddc.at-o.net |
 | protys.protys.fr | protys-protys-fr-cddc.at-o.net |
 | res.elle.fr | res-elle-fr-cddc.at-o.net |

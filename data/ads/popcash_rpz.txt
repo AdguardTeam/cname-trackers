@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+cdn.adevbom.com CNAME .
 cdn.afwpc.com CNAME .
 cdn.almacz.com CNAME .
 cdn.alota.xyz CNAME .
@@ -223,7 +224,6 @@ butterfly.dharsh.dev CNAME .
 butterfly.rfortherestofus.com CNAME .
 buzzard.donotresearch.net CNAME .
 buzzard.ficabo.com.au CNAME .
-buzzard.nimble.team CNAME .
 camel.gastro-plan.app CNAME .
 camel.nonpopularopinion.com CNAME .
 camel.warvik.no CNAME .
@@ -308,7 +308,6 @@ chicken.zwei.haus CNAME .
 chimpanzee.designerdailyreport.com CNAME .
 chimpanzee.ines-papert.com CNAME .
 chinchilla.68keys.io CNAME .
-chinchilla.christinefontaine.com CNAME .
 chipmunk.brandy.is CNAME .
 chipmunk.sqltoapi.com CNAME .
 cicada.escapethecorporatecult.com CNAME .
@@ -521,7 +520,6 @@ guineapig.themenaffin.de CNAME .
 gull.mayansmithgobat.com CNAME .
 guppy.ausowned.com.au CNAME .
 guppy.ironmic.fm CNAME .
-guppy.setasign.com CNAME .
 guppy.under2.agency CNAME .
 haddock.affilimate.com CNAME .
 haddock.jeffreyknox.dev CNAME .
@@ -592,7 +590,6 @@ jay.plantainguy.com CNAME .
 jcpjfyikk.dogbonemarket.com CNAME .
 jellyfish.teresaharlow.com CNAME .
 jellyfish.therapieplatz-finden.de CNAME .
-jrtfx.scottspence.me CNAME .
 kangaroo.kraenk.de CNAME .
 kangaroo.triplightfantastic.com CNAME .
 kaxlfq.testingwithtestcafe.com CNAME .
@@ -933,13 +930,13 @@ silkworm.hoprnet.io CNAME .
 silkworm.preventingsuicideinsussex.org CNAME .
 silkworm.waspexpert.com CNAME .
 silkworm.westwoodmbc.org CNAME .
+silverfish.camaleon.gt CNAME .
 silverfish.dailybuilds.com CNAME .
 silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
 sloth.goodtendency.app CNAME .
 sloth.vaalinstudio.com CNAME .
 sloth.vguerrerobosch.com CNAME .
-slug.sirenergies.com CNAME .
 smelt.allenpike.com CNAME .
 smelt.gautrowski.com CNAME .
 snake.kiramclean.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -77,7 +77,6 @@ affil.stastnavovztahu.sk CNAME .
 affil.supervykon.cz CNAME .
 affil.svepomoci.cz CNAME .
 affil.svj-info.cz CNAME .
-affil.swisstoner.cz CNAME .
 affil.tadytuto.cz CNAME .
 affil.trikator.cz CNAME .
 affil.triko4u.cz CNAME .
@@ -117,7 +116,6 @@ affiliate.applemix.cz CNAME .
 affiliate.atomer.cz CNAME .
 affiliate.batteryshop.cz CNAME .
 affiliate.bestdrink.cz CNAME .
-affiliate.bezvatriko.sk CNAME .
 affiliate.bikeplan.org CNAME .
 affiliate.biooo.cz CNAME .
 affiliate.bitcoinzmenaren.sk CNAME .
@@ -427,6 +425,7 @@ partner-affilbox.telly.cz CNAME .
 partner.2din.cz CNAME .
 partner.adamkrupa.cz CNAME .
 partner.aerium.sk CNAME .
+partner.aeriumshop.nl CNAME .
 partner.affilbox.com CNAME .
 partner.affiliateark.com CNAME .
 partner.affilnet.cz CNAME .
@@ -438,7 +437,6 @@ partner.antihacker.cz CNAME .
 partner.artmaster.com CNAME .
 partner.artmasteracademy.cz CNAME .
 partner.astaxanthincz.cz CNAME .
-partner.autosedacky-online.cz CNAME .
 partner.avetour.cz CNAME .
 partner.azada.cz CNAME .
 partner.babysigns.cz CNAME .
@@ -480,7 +478,6 @@ partner.chococo.cz CNAME .
 partner.chytranemovitost.cz CNAME .
 partner.chytrydopravce.cz CNAME .
 partner.cleverfood.eu CNAME .
-partner.cocochocokeratin.cz CNAME .
 partner.cokoladovnajanek.cz CNAME .
 partner.colosseumticket.cz CNAME .
 partner.colway.cz CNAME .
@@ -499,7 +496,6 @@ partner.denishenry.cz CNAME .
 partner.designturnaj.cz CNAME .
 partner.detskyeshop.cz CNAME .
 partner.dfprsteny.cz CNAME .
-partner.digilega.com CNAME .
 partner.directalpine.cz CNAME .
 partner.doleo.cz CNAME .
 partner.domaca-pivoteka.sk CNAME .
@@ -601,7 +597,6 @@ partner.moringacaribbean.eu CNAME .
 partner.motoobchod.cz CNAME .
 partner.muffik.cz CNAME .
 partner.muffik.eu CNAME .
-partner.mumijo.cz CNAME .
 partner.muzskykruh.cz CNAME .
 partner.nanolab.cz CNAME .
 partner.naplne.cz CNAME .
@@ -665,6 +660,8 @@ partner.susenepochoutky.cz CNAME .
 partner.susmevem.com CNAME .
 partner.svatba.cz CNAME .
 partner.svatebni-diar.cz CNAME .
+partner.svetcukrarov.sk CNAME .
+partner.svetcukraru.cz CNAME .
 partner.svetruzi.cz CNAME .
 partner.sypanycaj.eu CNAME .
 partner.tahnabranu.cz CNAME .
@@ -679,6 +676,7 @@ partner.unuo.de CNAME .
 partner.vajacandle.cz CNAME .
 partner.vataonline.cz CNAME .
 partner.vffoto.com CNAME .
+partner.victus.cz CNAME .
 partner.virulent.cz CNAME .
 partner.vladimirekart.cz CNAME .
 partner.volne-reality.cz CNAME .
@@ -890,7 +888,6 @@ spoluprace.obchod-setrilek.cz CNAME .
 spoluprace.potravinyarax.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .
-test.autosedacky-online.cz CNAME .
 vydelavejtesnami.pg.cz CNAME .
 www.affilbox.mironet.cz CNAME .
 www.affilo.cz CNAME .

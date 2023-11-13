@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -108,6 +108,7 @@ assets1.gio.com.au CNAME .
 assets1.shannons.com.au CNAME .
 assets1.suncorp.co.nz CNAME .
 assets1.suncorp.com.au CNAME .
+assets1.suncorpbank.com.au CNAME .
 assets1.terrischeer.com.au CNAME .
 assets1.vanz.vero.co.nz CNAME .
 assets1.vero.co.nz CNAME .

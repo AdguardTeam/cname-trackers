@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,11 +17,6 @@ k.brandalley.co.nl CNAME .
 k.brandalley.de CNAME .
 k.brandalley.es CNAME .
 k.brandalley.fr CNAME .
-k.cocooncenter.be CNAME .
-k.cocooncenter.co.uk CNAME .
-k.cocooncenter.com CNAME .
-k.cocooncenter.de CNAME .
-k.cocooncenter.es CNAME .
 k.flynas.com CNAME .
 k.hofmann.es CNAME .
 k.laredoute.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -103,12 +103,13 @@ a.rafian.com CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
 a.tixir.xyz CNAME .
-a.tortuko.club CNAME .
 a.totoro2011.xyz CNAME .
 a.unblock2303.xyz CNAME .
 a.unblock2304.xyz CNAME .
 a.viralnewsbd.xyz CNAME .
+a.voxar.xyz CNAME .
 a.warddogs.com CNAME .
+a.wlen1bty92.pro CNAME .
 a.xmanga.online CNAME .
 a.zillastream.com CNAME .
 a5g.oves.biz CNAME .
@@ -334,11 +335,11 @@ g.adultporn.tv CNAME .
 g.bloblohub.com CNAME .
 g0dy.site CNAME .
 g6j.cupidonmedia.com CNAME .
+game.starswalker.site CNAME .
 getallt1.com CNAME .
 gg.xszcdn.com CNAME .
 ggg2fd.jav-7mmtv.top CNAME .
 ghtry.amateurswild.com CNAME .
-glass.vixfilmes.online CNAME .
 glokta.info CNAME .
 go.showmeyouradsnow.com CNAME .
 go.ss-n-30.com CNAME .
@@ -395,6 +396,7 @@ jo.4wank.com CNAME .
 jo.fapnado.xxx CNAME .
 jo.fapnow.xxx CNAME .
 jo.hqbang.com CNAME .
+jordan.qunis.ru CNAME .
 js.allporncomic.com CNAME .
 js.eroticmv.com CNAME .
 js.j8jp.com CNAME .
@@ -406,11 +408,13 @@ js.phoenixmanga.com CNAME .
 js.xemkqxs.com CNAME .
 jx3.freepornobook.com CNAME .
 k.bloblohub.com CNAME .
+kaizzz.xyz CNAME .
 kfioeld.spinna.shop CNAME .
 khoilive.xyz CNAME .
 kissjav.li.7mmtv.top CNAME .
 kissjav.li.jav-7mmtv.top CNAME .
 kliqz.com CNAME .
+ko.faptor.com CNAME .
 krplss.click CNAME .
 kuhdsysdas.indexsubtitle.com CNAME .
 kx4.firstsexfilm.com CNAME .
@@ -482,6 +486,7 @@ nope.xn--ngbcrg3b.com CNAME .
 nope.xn--ygba1c.wtf CNAME .
 nopetube.xn--mgbkt9eckr.net CNAME .
 notonthebedsheets.com CNAME .
+npbvqqkpuele.cdnvideo3.com CNAME .
 nx7.hdxxxclips.com CNAME .
 o.hotsextube.tv CNAME .
 o313o.com CNAME .
@@ -545,11 +550,9 @@ pre.ebasos.org CNAME .
 pre.myfuck.club CNAME .
 pre.pornuxaxa.com CNAME .
 pred.7mmtv.top CNAME .
-profield.ddns.net CNAME .
 px9.nuderedtube.com CNAME .
 qatak.beauty CNAME .
 qhip.com CNAME .
-qoqv.com CNAME .
 qoutec.shop CNAME .
 qsdr.mysunnylawn.com CNAME .
 quantoz.xyz CNAME .
@@ -687,6 +690,7 @@ www.hq3x.com CNAME .
 www.javtvnow.xyz CNAME .
 www.letstry69.xyz CNAME .
 www.p123p.com CNAME .
+www.pelisestreno.cc CNAME .
 www.pleasedonotblockme.com CNAME .
 www.pornvideos.casa CNAME .
 www.spinna.shop CNAME .
@@ -729,3 +733,4 @@ zhaner.xyz CNAME .
 zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 zzzzaaa.baijav.com CNAME .
+qoqv.com CNAME .

@@ -97,6 +97,7 @@
 ||assets1.shannons.com.au^
 ||assets1.suncorp.co.nz^
 ||assets1.suncorp.com.au^
+||assets1.suncorpbank.com.au^
 ||assets1.terrischeer.com.au^
 ||assets1.vanz.vero.co.nz^
 ||assets1.vero.co.nz^

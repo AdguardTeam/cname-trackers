@@ -1,5 +1,6 @@
 #
 # Company name: PopCash
+cdn.adevbom.com
 cdn.afwpc.com
 cdn.almacz.com
 cdn.alota.xyz
@@ -212,7 +213,6 @@ butterfly.dharsh.dev
 butterfly.rfortherestofus.com
 buzzard.donotresearch.net
 buzzard.ficabo.com.au
-buzzard.nimble.team
 camel.gastro-plan.app
 camel.nonpopularopinion.com
 camel.warvik.no
@@ -297,7 +297,6 @@ chicken.zwei.haus
 chimpanzee.designerdailyreport.com
 chimpanzee.ines-papert.com
 chinchilla.68keys.io
-chinchilla.christinefontaine.com
 chipmunk.brandy.is
 chipmunk.sqltoapi.com
 cicada.escapethecorporatecult.com
@@ -510,7 +509,6 @@ guineapig.themenaffin.de
 gull.mayansmithgobat.com
 guppy.ausowned.com.au
 guppy.ironmic.fm
-guppy.setasign.com
 guppy.under2.agency
 haddock.affilimate.com
 haddock.jeffreyknox.dev
@@ -581,7 +579,6 @@ jay.plantainguy.com
 jcpjfyikk.dogbonemarket.com
 jellyfish.teresaharlow.com
 jellyfish.therapieplatz-finden.de
-jrtfx.scottspence.me
 kangaroo.kraenk.de
 kangaroo.triplightfantastic.com
 kaxlfq.testingwithtestcafe.com
@@ -922,13 +919,13 @@ silkworm.hoprnet.io
 silkworm.preventingsuicideinsussex.org
 silkworm.waspexpert.com
 silkworm.westwoodmbc.org
+silverfish.camaleon.gt
 silverfish.dailybuilds.com
 silverfish.djordjevanjek.com
 skink.asorman.io
 sloth.goodtendency.app
 sloth.vaalinstudio.com
 sloth.vguerrerobosch.com
-slug.sirenergies.com
 smelt.allenpike.com
 smelt.gautrowski.com
 snake.kiramclean.com

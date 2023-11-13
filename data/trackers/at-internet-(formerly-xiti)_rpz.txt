@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -82,7 +82,6 @@ mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .
 montpalatin.handicap.fr CNAME .
 pear.ca-eko-globetrotter.fr CNAME .
-pear.youzful-by-ca.fr CNAME .
 ponyo.cheriefm.fr CNAME .
 protys.protys.fr CNAME .
 res.elle.fr CNAME .

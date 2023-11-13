@@ -182,6 +182,7 @@
 ||tr.clients.base-plus.fr^
 ||tr.clients.boursobank.info^
 ||tr.clients.boursorama.info^
+||tr.clients.compagnie-hyperactive.com^
 ||tr.clients.europrogres.fr^
 ||tr.clients.gemy.fr^
 ||tr.clients.idaia.group^
@@ -354,6 +355,7 @@
 ||tr.emailing.canalsat.ch^
 ||tr.emailing.cifea-mkg.com^
 ||tr.emailing.cnam-paysdelaloire.fr^
+||tr.emailing.coe.int^
 ||tr.emailing.cstar.fr^
 ||tr.emailing.detours.canal.fr^
 ||tr.emailing.grassavoye.com^
@@ -929,7 +931,6 @@
 ||tr.prosfores-companeo.gr^
 ||tr.prosfores-etairias.gr^
 ||tr.ps.espmp-agfr.net^
-||tr.psaparts.com^
 ||tr.publicisdrugstore.espmp-agfr.net^
 ||tr.qualitaetsumfrage.com^
 ||tr.qualitaveicolo.com^

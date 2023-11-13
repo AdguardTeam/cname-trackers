@@ -83,7 +83,6 @@
 | affil.supervykon.cz | cz.affilbox.cz |
 | affil.svepomoci.cz | cz.affilbox.cz |
 | affil.svj-info.cz | cz.affilbox.cz |
-| affil.swisstoner.cz | cz.affilbox.cz |
 | affil.tadytuto.cz | cz.affilbox.cz |
 | affil.trikator.cz | cz.affilbox.cz |
 | affil.triko4u.cz | cz.affilbox.cz |
@@ -123,7 +122,6 @@
 | affiliate.atomer.cz | cz.affilbox.cz |
 | affiliate.batteryshop.cz | cz.affilbox.cz |
 | affiliate.bestdrink.cz | cz.affilbox.cz |
-| affiliate.bezvatriko.sk | cz.affilbox.cz |
 | affiliate.bikeplan.org | cz.affilbox.cz |
 | affiliate.biooo.cz | cz.affilbox.cz |
 | affiliate.bitcoinzmenaren.sk | cz.affilbox.cz |
@@ -433,6 +431,7 @@
 | partner.2din.cz | cz.affilbox.cz |
 | partner.adamkrupa.cz | cz.affilbox.cz |
 | partner.aerium.sk | cz.affilbox.cz |
+| partner.aeriumshop.nl | cz.affilbox.cz |
 | partner.affilbox.com | cz.affilbox.cz |
 | partner.affiliateark.com | cz.affilbox.cz |
 | partner.affilnet.cz | cz.affilbox.cz |
@@ -444,7 +443,6 @@
 | partner.artmaster.com | cz.affilbox.cz |
 | partner.artmasteracademy.cz | cz.affilbox.cz |
 | partner.astaxanthincz.cz | cz.affilbox.cz |
-| partner.autosedacky-online.cz | cz.affilbox.cz |
 | partner.avetour.cz | cz.affilbox.cz |
 | partner.azada.cz | cz.affilbox.cz |
 | partner.babysigns.cz | cz.affilbox.cz |
@@ -486,7 +484,6 @@
 | partner.chytranemovitost.cz | cz.affilbox.cz |
 | partner.chytrydopravce.cz | cz.affilbox.cz |
 | partner.cleverfood.eu | cz.affilbox.cz |
-| partner.cocochocokeratin.cz | cz.affilbox.cz |
 | partner.cokoladovnajanek.cz | cz.affilbox.cz |
 | partner.colosseumticket.cz | cz.affilbox.cz |
 | partner.colway.cz | cz.affilbox.cz |
@@ -505,7 +502,6 @@
 | partner.designturnaj.cz | cz.affilbox.cz |
 | partner.detskyeshop.cz | cz.affilbox.cz |
 | partner.dfprsteny.cz | cz.affilbox.cz |
-| partner.digilega.com | cz.affilbox.cz |
 | partner.directalpine.cz | cz.affilbox.cz |
 | partner.doleo.cz | cz.affilbox.cz |
 | partner.domaca-pivoteka.sk | cz.affilbox.cz |
@@ -607,7 +603,6 @@
 | partner.motoobchod.cz | cz.affilbox.cz |
 | partner.muffik.cz | cz.affilbox.cz |
 | partner.muffik.eu | cz.affilbox.cz |
-| partner.mumijo.cz | cz.affilbox.cz |
 | partner.muzskykruh.cz | cz.affilbox.cz |
 | partner.nanolab.cz | cz.affilbox.cz |
 | partner.naplne.cz | cz.affilbox.cz |
@@ -671,6 +666,8 @@
 | partner.susmevem.com | cz.affilbox.cz |
 | partner.svatba.cz | cz.affilbox.cz |
 | partner.svatebni-diar.cz | cz.affilbox.cz |
+| partner.svetcukrarov.sk | cz.affilbox.cz |
+| partner.svetcukraru.cz | cz.affilbox.cz |
 | partner.svetruzi.cz | cz.affilbox.cz |
 | partner.sypanycaj.eu | cz.affilbox.cz |
 | partner.tahnabranu.cz | cz.affilbox.cz |
@@ -685,6 +682,7 @@
 | partner.vajacandle.cz | cz.affilbox.cz |
 | partner.vataonline.cz | cz.affilbox.cz |
 | partner.vffoto.com | cz.affilbox.cz |
+| partner.victus.cz | cz.affilbox.cz |
 | partner.virulent.cz | cz.affilbox.cz |
 | partner.vladimirekart.cz | cz.affilbox.cz |
 | partner.volne-reality.cz | cz.affilbox.cz |
@@ -896,7 +894,6 @@
 | spoluprace.potravinyarax.cz | cz.affilbox.cz |
 | spoluprace.terrapotheka.cz | cz.affilbox.cz |
 | spoluprace.vcelarstvi-domovina.cz | cz.affilbox.cz |
-| test.autosedacky-online.cz | cz.affilbox.cz |
 | vydelavejtesnami.pg.cz | cz.affilbox.cz |
 | www.affilbox.mironet.cz | cz.affilbox.cz |
 | www.affilo.cz | cz.affilbox.cz |

@@ -17,7 +17,6 @@
 ||data-00c4a5bd11.rockland.fm^
 ||data-00db6fbb05.yachtrevue.at^
 ||data-0142dcfbcf.yacht.de^
-||data-016ae3225f.baugewerbe-magazin.de^
 ||data-0186141170.apps.iocnt.de^
 ||data-019a21151c.apps.iocnt.de^
 ||data-01a19c0522.apps.iocnt.de^
@@ -147,8 +146,6 @@
 ||data-13d258638d.blick.de^
 ||data-13d258638d.erzgebirge.de^
 ||data-13d258638d.freiepresse.de^
-||data-13e75de547.labo.de^
-||data-143ac31e30.brocken.de^
 ||data-143ac31e30.radio-brocken.com^
 ||data-143ac31e30.radio-brocken.de^
 ||data-143ac31e30.radiobrocken.com^
@@ -390,6 +387,7 @@
 ||data-311d8c614b.natursteinonline.de^
 ||data-31ba81426f.apps.iocnt.de^
 ||data-31c137b707.sanitaerjournal.de^
+||data-31c137b707.wasserenthaertungsanlage-trinkwasser.de^
 ||data-31fbb916a1.erneuerbareenergien.de^
 ||data-3212b1cf73.apps.iocnt.de^
 ||data-3277c56f96.ingenieur.de^
@@ -702,6 +700,7 @@
 ||data-504bba0c00.tlc.de^
 ||data-50b219a31f.btc-echo.de^
 ||data-50c00d5d12.techbook.de^
+||data-50d39a5d3f.diepresse.com^
 ||data-50de2f2b04.focus.de^
 ||data-50de2f2b04.netmoms.de^
 ||data-512cafb4f7.addradio.de^
@@ -717,7 +716,6 @@
 ||data-53808e266e.nn.de^
 ||data-53ba3c279a.apps.iocnt.de^
 ||data-53ce61d695.bike-x.de^
-||data-5400382129.kunststoff-magazin.de^
 ||data-5492b7d422.mz-jobs.de^
 ||data-5492b7d422.mz.de^
 ||data-5492b7d422.rblive.de^
@@ -1036,6 +1034,7 @@
 ||data-7e634b10b2.the-voice-of-germany.de^
 ||data-7e70b89caf.geb-info.de^
 ||data-7f1c7ce24c.plastverarbeiter.de^
+||data-7f59e1721b.bergwetter.de^
 ||data-7f59e1721b.planetoutdoor.de^
 ||data-7f6dde6aeb.spieletipps.de^
 ||data-7f9c14ceb6.telecom-handel.de^
@@ -1321,7 +1320,6 @@
 ||data-a0f0ae1310.goyellow.de^
 ||data-a113f4b41d.trucker.de^
 ||data-a114e51991.ikz.de^
-||data-a1937ab7ea.materialfluss.de^
 ||data-a195367ecc.apps.iocnt.de^
 ||data-a1aa7525b0.rw-textilservice.de^
 ||data-a1ce08382f.sat1.de^
@@ -1646,6 +1644,7 @@
 ||data-c69aa33f02.linux-community.de^
 ||data-c6b1789ee3.upday.com^
 ||data-c6cb92ccdb.zkg.de^
+||data-c71f1467d4.speedweek.com^
 ||data-c76cebcfed.kino.de^
 ||data-c7a4161550.apps.iocnt.de^
 ||data-c7fa2f50f1.photovoltaik.eu^
@@ -1714,6 +1713,7 @@
 ||data-d3ad057ab7.firmenauto.de^
 ||data-d3b795e73c.instyle.de^
 ||data-d3b7b07de5.apps.iocnt.de^
+||data-d3b9450695.tv-media.at^
 ||data-d47b934372.regionalheute.de^
 ||data-d4cb803d00.pollux-fid.de^
 ||data-d4db30a18b.borkumer-zeitung.de^
@@ -1721,7 +1721,6 @@
 ||data-d4db30a18b.on-online.de^
 ||data-d4db30a18b.oz-online.de^
 ||data-d4db30a18b.zgo.de^
-||data-d4dfa4bc2c.focus.de^
 ||data-d4dfa4bc2c.weather.com^
 ||data-d4ecb517ab.cinema.de^
 ||data-d4ecb517ab.streampicker.de^
@@ -1740,6 +1739,7 @@
 ||data-d6e13c60e8.orf.at^
 ||data-d708c3c3bc.freizeit.at^
 ||data-d7486a3850.nordkurier.de^
+||data-d75062df83.epaper-oesterreich.at^
 ||data-d7b9b455b2.apps.iocnt.de^
 ||data-d815104c6c.dastelefonbuch.de^
 ||data-d815104c6c.telefonbuch.de^
@@ -1887,7 +1887,6 @@
 ||data-ed9c138d79.dewezet.de^
 ||data-ede3421766.caraworld.de^
 ||data-ede3421766.promobil.de^
-||data-ee28b6fae3.industrial-production.de^
 ||data-ee73ed6bf2.gera.de^
 ||data-ee807be806.derwesten.de^
 ||data-ee807be806.funkemediennrw.de^

@@ -166,6 +166,7 @@ content.ageas.co.uk
 content.allstate.com
 content.alterna.ca
 content.alternabank.ca
+content.amerantbank.com
 content.apruvd.com
 content.asurion53.com
 content.atmosphere.ca
@@ -249,6 +250,7 @@ content.nebraska.gov
 content.netcredit.pl
 content.nubank.com.br
 content.numobile.com.au
+content.nycers.org
 content.olympus.ao.com
 content.online.adp.com
 content.orixbank.co.jp
@@ -982,6 +984,7 @@ ww3.marlincapitalsolutions.com
 ww3.peacsolutions.com
 ww9.lloydsbank.com
 www.cdna.cofidis.be
+www.content.bnl.it
 www7.raise.com
 xfp.intuit.com
 xmt.paze.com

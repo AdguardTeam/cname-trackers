@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -177,6 +177,7 @@ content.ageas.co.uk CNAME .
 content.allstate.com CNAME .
 content.alterna.ca CNAME .
 content.alternabank.ca CNAME .
+content.amerantbank.com CNAME .
 content.apruvd.com CNAME .
 content.asurion53.com CNAME .
 content.atmosphere.ca CNAME .
@@ -260,6 +261,7 @@ content.nebraska.gov CNAME .
 content.netcredit.pl CNAME .
 content.nubank.com.br CNAME .
 content.numobile.com.au CNAME .
+content.nycers.org CNAME .
 content.olympus.ao.com CNAME .
 content.online.adp.com CNAME .
 content.orixbank.co.jp CNAME .
@@ -993,6 +995,7 @@ ww3.marlincapitalsolutions.com CNAME .
 ww3.peacsolutions.com CNAME .
 ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
+www.content.bnl.it CNAME .
 www7.raise.com CNAME .
 xfp.intuit.com CNAME .
 xmt.paze.com CNAME .

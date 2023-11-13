@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -44,7 +44,6 @@ bj.pplferio.com CNAME .
 bj.preideanested.com CNAME .
 bj.unfeeddizoic.com CNAME .
 bk.clinkedsphecid.com CNAME .
-bl.delbertgobans.com CNAME .
 bl.noonishkahala.com CNAME .
 bm.chileslatrede.com CNAME .
 bm.mellsrecta.com CNAME .
@@ -119,7 +118,6 @@ fk.oaklikespiers.com CNAME .
 fm.ramouselong.com CNAME .
 fn.deulspoorn.com CNAME .
 fo.irrisoranemone.com CNAME .
-fp.mailerstalons.com CNAME .
 fs.fogramokayed.com CNAME .
 fs.velellabudded.com CNAME .
 fx.muntiglesia.com CNAME .
@@ -209,6 +207,7 @@ la.lamdensnip.com CNAME .
 lb.hyratesethic.com CNAME .
 lc.punkahskayles.com CNAME .
 ld.stengskelped.com CNAME .
+ld.wraithydecides.com CNAME .
 le.wellsmessy.com CNAME .
 lf.minyascannat.com CNAME .
 lf.unvenomangst.com CNAME .
@@ -254,7 +253,6 @@ ob.freyrclogs.com CNAME .
 og.cejainlike.com CNAME .
 og.elemeuric.com CNAME .
 oj.daunnotes.com CNAME .
-ok.ribworkstylus.com CNAME .
 ol.dundeesmemo.com CNAME .
 on.culverscoping.com CNAME .
 or.alpieutieboy.com CNAME .
@@ -342,6 +340,7 @@ sw.pluckysups.com CNAME .
 sy.sartishmoop.com CNAME .
 sz.createsgummous.com CNAME .
 sz.famanils.com CNAME .
+ta.acedtousles.com CNAME .
 tb.nebackalien.com CNAME .
 tc.bovateoutrate.com CNAME .
 tc.puinavikytes.com CNAME .
@@ -391,6 +390,7 @@ vg.piaroanjust.com CNAME .
 vi.spratstatters.com CNAME .
 vl.boongsmokeho.com CNAME .
 vn.finisbur.com CNAME .
+vo.mofettecalmed.com CNAME .
 vp.upswingmethyl.com CNAME .
 vq.areiccastano.com CNAME .
 vr.noosersturtles.com CNAME .

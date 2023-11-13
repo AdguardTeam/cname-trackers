@@ -150,6 +150,7 @@
     * 832292761796928.wt-eu02.net
     * 835623675026119.wt-eu02.net
     * 841439655073636.wt-eu02.net
+    * 842359050480299.wt-eu02.net
     * 849036415619964.wt-eu02.net
     * 849715076759606.wt-eu02.net
     * 865411762489824.wt-eu02.net
@@ -198,6 +199,7 @@
     * mytoys02.wt-eu02.net
     * netze-bw01.wt-eu02.net
     * obi-all.wt-eu02.net
+    * on-dextra.wt-eu02.net
     * prosiebensat1puls4.wt-eu02.net
     * schleich-trail001.wt-eu02.net
     * sdkurier-de01.wt-eu02.net
@@ -277,13 +279,9 @@
 | web.tamaris.com | 306539831205028.wt-eu02.net |
 | web.e.panmacmillan.com | 306840111891766.wt-eu02.net |
 | a.hrewards.com | 307902509027183.wt-eu02.net |
-| a.intercityhotel.com | 307902509027183.wt-eu02.net |
 | a.jaz-hotel.com | 307902509027183.wt-eu02.net |
 | a.maxxhotel.com | 307902509027183.wt-eu02.net |
-| a.steigenberger.com | 307902509027183.wt-eu02.net |
-| a.thespa.steigenberger.com | 307902509027183.wt-eu02.net |
 | a.zleep.com | 307902509027183.wt-eu02.net |
-| www.a.steigenberger.com | 307902509027183.wt-eu02.net |
 | web.mapp.whiteaway.no | 310695274957699.wt-eu02.net |
 | web.mail.parmalat.it | 312310057961150.wt-eu02.net |
 | web.mailing.storz-bickel.com | 318590743478915.wt-eu02.net |
@@ -386,6 +384,7 @@
 | web.info.bodybuildingwarehouse.co.uk | 835623675026119.wt-eu02.net |
 | web.info.bodybuildingwarehouse.com | 835623675026119.wt-eu02.net |
 | web.news.paganistore.com | 841439655073636.wt-eu02.net |
+| web.redazione.milanofinanza.it | 842359050480299.wt-eu02.net |
 | web.bankofscotland.de | 849036415619964.wt-eu02.net |
 | mit.deutsche-bank.de | 849715076759606.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
@@ -570,6 +569,7 @@
 | ot.obi.si | obi-all.wt-eu02.net |
 | ot.obi.sk | obi-all.wt-eu02.net |
 | ot.obi.com | obi-com01.webtrekk.net |
+| on.dextra.ch | on-dextra.wt-eu02.net |
 | hbbtv-track.prosiebensat1puls4.com | prosiebensat1puls4.wt-eu02.net |
 | trail-001.schleich-s.com | schleich-trail001.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |

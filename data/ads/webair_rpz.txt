@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -319,7 +319,6 @@ filter.revrtb.com CNAME .
 filter.revrtb.net CNAME .
 filter.rocoads.com CNAME .
 filter.rtbfactory.com CNAME .
-filter.rtbzone.com CNAME .
 filter.saturndynamic.pt CNAME .
 filter.sedodna.com CNAME .
 filter.showcasead.com CNAME .
@@ -334,7 +333,6 @@ filter.trafficmoose.com CNAME .
 filter.ultrads.net CNAME .
 filter.uptowntraction.com CNAME .
 filter.vashoot.com CNAME .
-filter.vtads.co.in CNAME .
 filter.webmedxml.com CNAME .
 filter.xmladsystem.com CNAME .
 filter.xmlfusion.com CNAME .
@@ -421,7 +419,6 @@ login.topclickpick.com CNAME .
 login.topdealad.com CNAME .
 login.trafficmoose.com CNAME .
 login.unibots.in CNAME .
-login.vespymedia.com CNAME .
 login.waardex.com CNAME .
 login.xmlfusion.com CNAME .
 login.xmlppc.net CNAME .
@@ -501,7 +498,6 @@ rtb-eu.admeridianopenrtb.com CNAME .
 rtb-eu.adop.co CNAME .
 rtb-eu.adventurefeeds.com CNAME .
 rtb-eu.adxfactory.com CNAME .
-rtb-eu.adzgame.com CNAME .
 rtb-eu.andbeyond.media CNAME .
 rtb-eu.bidmyqps.xyz CNAME .
 rtb-eu.blueparrot.media CNAME .
@@ -579,7 +575,6 @@ rtb-useast.digitalpiee.com CNAME .
 rtb-useast.displayio.cloud CNAME .
 rtb-useast.e-volution.ai CNAME .
 rtb-useast.ergadx.com CNAME .
-rtb-useast.eximdigital.com CNAME .
 rtb-useast.ezmob.com CNAME .
 rtb-useast.felixads.com CNAME .
 rtb-useast.fmlabsonline.com CNAME .
@@ -735,8 +730,6 @@ sw.looksmart.com CNAME .
 sync.adkernel.com CNAME .
 tag.adkernel.com CNAME .
 tag.musiciansaudience.com CNAME .
-tq-eu.craftviking-2.co CNAME .
-tq-eu.craftviking.co CNAME .
 tq-eu.frdjs-1.co CNAME .
 tq-eu.frdjs-2.co CNAME .
 tq-eu.gipostart-1.co CNAME .
@@ -744,8 +737,6 @@ tq-eu.nxthost-1.info CNAME .
 tq-eu.nxthost-2.info CNAME .
 tq-eu.xonedart-1.live CNAME .
 tq.adventurefeeds.com CNAME .
-tq.craftviking-2.co CNAME .
-tq.craftviking.co CNAME .
 tq.frdjs-1.co CNAME .
 tq.frdjs-2.co CNAME .
 tq.gipostart-1.co CNAME .
@@ -765,7 +756,6 @@ vid-rtb-india.xapads.com CNAME .
 vid-rtb-sg.xapads.com CNAME .
 vid-rtb-uswest.xapads.com CNAME .
 vid-rtb.xapads.com CNAME .
-vid-static.xapads.com CNAME .
 vsv-val.looksmart.com CNAME .
 webferret-val.looksmart.com CNAME .
 webpush.adjux.com CNAME .
@@ -828,8 +818,6 @@ xml-eu-v4.bidderads.com CNAME .
 xml-eu-v4.chameleostudios.com CNAME .
 xml-eu-v4.convertap.com CNAME .
 xml-eu-v4.coupontic.com CNAME .
-xml-eu-v4.craftviking-2.co CNAME .
-xml-eu-v4.craftviking.co CNAME .
 xml-eu-v4.explorefast-1.com CNAME .
 xml-eu-v4.ezmob.com CNAME .
 xml-eu-v4.frdjs-1.co CNAME .
@@ -867,8 +855,6 @@ xml-eu.adzestocp.com CNAME .
 xml-eu.bidforclicks.com CNAME .
 xml-eu.bidmyadz.com CNAME .
 xml-eu.blueparrot.media CNAME .
-xml-eu.craftviking-2.co CNAME .
-xml-eu.craftviking.co CNAME .
 xml-eu.explorefast-1.com CNAME .
 xml-eu.ezmob.com CNAME .
 xml-eu.fastmtn.com CNAME .
@@ -915,8 +901,6 @@ xml-v4.clixvista.com CNAME .
 xml-v4.clkfst.com CNAME .
 xml-v4.convertap.com CNAME .
 xml-v4.coupontic.com CNAME .
-xml-v4.craftviking-2.co CNAME .
-xml-v4.craftviking.co CNAME .
 xml-v4.datadrives.ai CNAME .
 xml-v4.digiteci.com CNAME .
 xml-v4.domains-traffic.com CNAME .
@@ -932,7 +916,6 @@ xml-v4.fstsrv4.com CNAME .
 xml-v4.fstsrv5.com CNAME .
 xml-v4.gipostart-1.co CNAME .
 xml-v4.gipostart-2.co CNAME .
-xml-v4.goclickz.net CNAME .
 xml-v4.hetcash.com CNAME .
 xml-v4.kunvertads.com CNAME .
 xml-v4.mobifly.net CNAME .
@@ -1033,8 +1016,6 @@ xml.clixwells.com CNAME .
 xml.convertise.io CNAME .
 xml.conxstream.com CNAME .
 xml.coupontic.com CNAME .
-xml.craftviking-2.co CNAME .
-xml.craftviking.co CNAME .
 xml.ctrtraffic.com CNAME .
 xml.dollopsdigital.com CNAME .
 xml.domains-traffic.com CNAME .
@@ -1258,6 +1239,7 @@ static.mediastinct.com CNAME .
 static.melozen.com CNAME .
 static.mobipromote.com CNAME .
 static.online-adnetwork.com CNAME .
+vid-static.xapads.com CNAME .
 static.outpush.net CNAME .
 static.pdn-1.com CNAME .
 static.plarimoplus.com CNAME .

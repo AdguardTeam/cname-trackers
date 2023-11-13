@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -124,6 +124,7 @@ referral.vistaprint.com CNAME .
 share.aeropostale.com CNAME .
 share.ggu.edu CNAME .
 share.indochino.com CNAME .
+share.mlb.tv CNAME .
 share.na.sage.com CNAME .
 share.qalo.com CNAME .
 share.tenmarks.com CNAME .
@@ -137,7 +138,7 @@ www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
+em3904.skillshare.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -526,6 +527,7 @@ share.incrediblebank.com CNAME .
 share.independentmail.com CNAME .
 share.inspirecleanenergy.com CNAME .
 share.installamerica.com CNAME .
+share.iqfiber.com CNAME .
 share.iteach.net CNAME .
 share.jacksonsun.com CNAME .
 share.jhfcu.org CNAME .
@@ -584,13 +586,16 @@ share.refer-bumbleandbumble.com CNAME .
 share.refer-darphin.com CNAME .
 share.refer-darphin.fr CNAME .
 share.refer-esteelauder.ca CNAME .
+share.refer-esteelauder.jp CNAME .
 share.refer-glamglow.com CNAME .
 share.refer-maccosmetics.ca CNAME .
 share.refer-maccosmetics.co.uk CNAME .
 share.refer-maccosmetics.com CNAME .
+share.refer-maccosmetics.com.tw CNAME .
 share.refer-maccosmetics.es CNAME .
 share.refer-maccosmetics.fr CNAME .
 share.refer-maccosmetics.it CNAME .
+share.refer-maccosmetics.jp CNAME .
 share.refer-smashbox.com CNAME .
 share.reporternews.com CNAME .
 share.rgj.com CNAME .
@@ -631,6 +636,7 @@ share.tcpalm.com CNAME .
 share.teachersfcu.org CNAME .
 share.telegram.com CNAME .
 share.thedailyjournal.com CNAME .
+share.thegeneral.com CNAME .
 share.theledger.com CNAME .
 share.thenorthwestern.com CNAME .
 share.theory.com CNAME .
@@ -661,7 +667,7 @@ share.zenbusiness.com CNAME .
 www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
-em3904.skillshare.com CNAME .
+em225.codecademy.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .

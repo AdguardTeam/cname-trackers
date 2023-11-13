@@ -129,6 +129,7 @@
 | joy.ochronus.online | custom.plausible.io |
 | kaladyaudiology.ericksonbuilt.com | custom.plausible.io |
 | kingsandqueens.splowser.com | custom.plausible.io |
+| kon.mediaplatform.group | custom.plausible.io |
 | l.lilyzhou.com | custom.plausible.io |
 | l2k30jsa.theochu.com | custom.plausible.io |
 | lkj23jlkajsa.realestate.help | custom.plausible.io |
@@ -370,6 +371,7 @@
 | statistic.jac-systeme.de | custom.plausible.io |
 | statistics.heatbeat.de | custom.plausible.io |
 | statistik.apartments-tirolerhaus.at | custom.plausible.io |
+| stats-aah.gigride.live | custom.plausible.io |
 | stats-whatever.gigride.live | custom.plausible.io |
 | stats.45rpm.ch | custom.plausible.io |
 | stats.50x.ca | custom.plausible.io |
@@ -600,7 +602,6 @@
 | stats.hammertime.me | custom.plausible.io |
 | stats.hauke.me | custom.plausible.io |
 | stats.headhunted.com.au | custom.plausible.io |
-| stats.hhpro.net | custom.plausible.io |
 | stats.homepage-2021.askmiso-dev.com | custom.plausible.io |
 | stats.homestow.com | custom.plausible.io |
 | stats.hostfactor.io | custom.plausible.io |
@@ -736,7 +737,6 @@
 | stats.nerdbusiness.com | custom.plausible.io |
 | stats.newslit.co | custom.plausible.io |
 | stats.nexagon.dk | custom.plausible.io |
-| stats.nicolabricot.com | custom.plausible.io |
 | stats.nodewood.com | custom.plausible.io |
 | stats.nomad.radio | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
@@ -793,6 +793,7 @@
 | stats.pointflottant.com | custom.plausible.io |
 | stats.polekatfitness.com | custom.plausible.io |
 | stats.poochplaces.dog | custom.plausible.io |
+| stats.portalmonitor.io | custom.plausible.io |
 | stats.portalzero.net | custom.plausible.io |
 | stats.postcollectors.com | custom.plausible.io |
 | stats.poweringpastcoal.org | custom.plausible.io |

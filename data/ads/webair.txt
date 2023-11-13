@@ -308,7 +308,6 @@
 ||filter.revrtb.net^
 ||filter.rocoads.com^
 ||filter.rtbfactory.com^
-||filter.rtbzone.com^
 ||filter.saturndynamic.pt^
 ||filter.sedodna.com^
 ||filter.showcasead.com^
@@ -323,7 +322,6 @@
 ||filter.ultrads.net^
 ||filter.uptowntraction.com^
 ||filter.vashoot.com^
-||filter.vtads.co.in^
 ||filter.webmedxml.com^
 ||filter.xmladsystem.com^
 ||filter.xmlfusion.com^
@@ -410,7 +408,6 @@
 ||login.topdealad.com^
 ||login.trafficmoose.com^
 ||login.unibots.in^
-||login.vespymedia.com^
 ||login.waardex.com^
 ||login.xmlfusion.com^
 ||login.xmlppc.net^
@@ -490,7 +487,6 @@
 ||rtb-eu.adop.co^
 ||rtb-eu.adventurefeeds.com^
 ||rtb-eu.adxfactory.com^
-||rtb-eu.adzgame.com^
 ||rtb-eu.andbeyond.media^
 ||rtb-eu.bidmyqps.xyz^
 ||rtb-eu.blueparrot.media^
@@ -568,7 +564,6 @@
 ||rtb-useast.displayio.cloud^
 ||rtb-useast.e-volution.ai^
 ||rtb-useast.ergadx.com^
-||rtb-useast.eximdigital.com^
 ||rtb-useast.ezmob.com^
 ||rtb-useast.felixads.com^
 ||rtb-useast.fmlabsonline.com^
@@ -724,8 +719,6 @@
 ||sync.adkernel.com^
 ||tag.adkernel.com^
 ||tag.musiciansaudience.com^
-||tq-eu.craftviking-2.co^
-||tq-eu.craftviking.co^
 ||tq-eu.frdjs-1.co^
 ||tq-eu.frdjs-2.co^
 ||tq-eu.gipostart-1.co^
@@ -733,8 +726,6 @@
 ||tq-eu.nxthost-2.info^
 ||tq-eu.xonedart-1.live^
 ||tq.adventurefeeds.com^
-||tq.craftviking-2.co^
-||tq.craftviking.co^
 ||tq.frdjs-1.co^
 ||tq.frdjs-2.co^
 ||tq.gipostart-1.co^
@@ -754,7 +745,6 @@
 ||vid-rtb-sg.xapads.com^
 ||vid-rtb-uswest.xapads.com^
 ||vid-rtb.xapads.com^
-||vid-static.xapads.com^
 ||vsv-val.looksmart.com^
 ||webferret-val.looksmart.com^
 ||webpush.adjux.com^
@@ -817,8 +807,6 @@
 ||xml-eu-v4.chameleostudios.com^
 ||xml-eu-v4.convertap.com^
 ||xml-eu-v4.coupontic.com^
-||xml-eu-v4.craftviking-2.co^
-||xml-eu-v4.craftviking.co^
 ||xml-eu-v4.explorefast-1.com^
 ||xml-eu-v4.ezmob.com^
 ||xml-eu-v4.frdjs-1.co^
@@ -856,8 +844,6 @@
 ||xml-eu.bidforclicks.com^
 ||xml-eu.bidmyadz.com^
 ||xml-eu.blueparrot.media^
-||xml-eu.craftviking-2.co^
-||xml-eu.craftviking.co^
 ||xml-eu.explorefast-1.com^
 ||xml-eu.ezmob.com^
 ||xml-eu.fastmtn.com^
@@ -904,8 +890,6 @@
 ||xml-v4.clkfst.com^
 ||xml-v4.convertap.com^
 ||xml-v4.coupontic.com^
-||xml-v4.craftviking-2.co^
-||xml-v4.craftviking.co^
 ||xml-v4.datadrives.ai^
 ||xml-v4.digiteci.com^
 ||xml-v4.domains-traffic.com^
@@ -921,7 +905,6 @@
 ||xml-v4.fstsrv5.com^
 ||xml-v4.gipostart-1.co^
 ||xml-v4.gipostart-2.co^
-||xml-v4.goclickz.net^
 ||xml-v4.hetcash.com^
 ||xml-v4.kunvertads.com^
 ||xml-v4.mobifly.net^
@@ -1022,8 +1005,6 @@
 ||xml.convertise.io^
 ||xml.conxstream.com^
 ||xml.coupontic.com^
-||xml.craftviking-2.co^
-||xml.craftviking.co^
 ||xml.ctrtraffic.com^
 ||xml.dollopsdigital.com^
 ||xml.domains-traffic.com^
@@ -1247,6 +1228,7 @@
 ||static.melozen.com^
 ||static.mobipromote.com^
 ||static.online-adnetwork.com^
+||vid-static.xapads.com^
 ||static.outpush.net^
 ||static.pdn-1.com^
 ||static.plarimoplus.com^

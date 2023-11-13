@@ -43,11 +43,8 @@ wtm.interhyp.de
 www7.springer.com
 a.deutschehospitality.com
 a.hrewards.com
-a.intercityhotel.com
 a.jaz-hotel.com
 a.maxxhotel.com
-a.steigenberger.com
-a.thespa.steigenberger.com
 a.zleep.com
 abc.bayer04.de
 analytics.hermesworld.com
@@ -171,6 +168,7 @@ mit.researchlog.db.com
 mit.researchlog.dbresearch.com
 mit.researchlog.dbresearch.de
 nov.data.srf.ch
+on.dextra.ch
 ot.obi-baumarkt.ch
 ot.obi-brico.ch
 ot.obi-italia.it
@@ -317,6 +315,7 @@ web.newsletter.viviennewestwood.com
 web.newsletterit.esprinet.com
 web.online.monnalisa.com
 web.pages.lloydspharmacy.com
+web.redazione.milanofinanza.it
 web.sensilab.com
 web.sensilab.cz
 web.sensilab.de
@@ -388,4 +387,3 @@ wttd.madeleine.com
 wttd.madeleine.de
 wttd.madeleine.fr
 wttd.madeleine.gr
-www.a.steigenberger.com

@@ -33,7 +33,6 @@
 ||bj.preideanested.com^
 ||bj.unfeeddizoic.com^
 ||bk.clinkedsphecid.com^
-||bl.delbertgobans.com^
 ||bl.noonishkahala.com^
 ||bm.chileslatrede.com^
 ||bm.mellsrecta.com^
@@ -108,7 +107,6 @@
 ||fm.ramouselong.com^
 ||fn.deulspoorn.com^
 ||fo.irrisoranemone.com^
-||fp.mailerstalons.com^
 ||fs.fogramokayed.com^
 ||fs.velellabudded.com^
 ||fx.muntiglesia.com^
@@ -198,6 +196,7 @@
 ||lb.hyratesethic.com^
 ||lc.punkahskayles.com^
 ||ld.stengskelped.com^
+||ld.wraithydecides.com^
 ||le.wellsmessy.com^
 ||lf.minyascannat.com^
 ||lf.unvenomangst.com^
@@ -243,7 +242,6 @@
 ||og.cejainlike.com^
 ||og.elemeuric.com^
 ||oj.daunnotes.com^
-||ok.ribworkstylus.com^
 ||ol.dundeesmemo.com^
 ||on.culverscoping.com^
 ||or.alpieutieboy.com^
@@ -331,6 +329,7 @@
 ||sy.sartishmoop.com^
 ||sz.createsgummous.com^
 ||sz.famanils.com^
+||ta.acedtousles.com^
 ||tb.nebackalien.com^
 ||tc.bovateoutrate.com^
 ||tc.puinavikytes.com^
@@ -380,6 +379,7 @@
 ||vi.spratstatters.com^
 ||vl.boongsmokeho.com^
 ||vn.finisbur.com^
+||vo.mofettecalmed.com^
 ||vp.upswingmethyl.com^
 ||vq.areiccastano.com^
 ||vr.noosersturtles.com^

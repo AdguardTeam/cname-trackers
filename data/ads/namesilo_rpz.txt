@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -703,6 +703,7 @@ $TTL 300
 3845405.notify6.com CNAME .
 3849719.notify6.com CNAME .
 3853333.notify6.com CNAME .
+3856281.notify6.com CNAME .
 3858841.notify6.com CNAME .
 3869256.notifysrv.com CNAME .
 3869316.notify6.com CNAME .
@@ -784,6 +785,7 @@ $TTL 300
 4022280.notify6.com CNAME .
 4022504.notify6.com CNAME .
 4022684.notify6.com CNAME .
+4028414.notify6.com CNAME .
 4031264.notify6.com CNAME .
 4031266.notify6.com CNAME .
 4035140.notify6.com CNAME .
@@ -971,6 +973,7 @@ a.addisplaynetwork.com CNAME .
 a.adsession.com CNAME .
 a.advertrek.com CNAME .
 a.asvsm.com CNAME .
+a.bizonads-ssp.com CNAME .
 a.etology.com CNAME .
 a.paradoxgroup.uk CNAME .
 a.redpathmedia.com CNAME .
@@ -1117,4 +1120,3 @@ www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 xn--3225689-o06c.notifysrv.com CNAME .
-a.bizonads-ssp.com CNAME .

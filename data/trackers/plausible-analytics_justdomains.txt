@@ -117,6 +117,7 @@ jinx.skullctf.com
 joy.ochronus.online
 kaladyaudiology.ericksonbuilt.com
 kingsandqueens.splowser.com
+kon.mediaplatform.group
 l.lilyzhou.com
 l2k30jsa.theochu.com
 lkj23jlkajsa.realestate.help
@@ -358,6 +359,7 @@ static.osalta.eu
 statistic.jac-systeme.de
 statistics.heatbeat.de
 statistik.apartments-tirolerhaus.at
+stats-aah.gigride.live
 stats-whatever.gigride.live
 stats.45rpm.ch
 stats.50x.ca
@@ -588,7 +590,6 @@ stats.halcyon.hr
 stats.hammertime.me
 stats.hauke.me
 stats.headhunted.com.au
-stats.hhpro.net
 stats.homepage-2021.askmiso-dev.com
 stats.homestow.com
 stats.hostfactor.io
@@ -724,7 +725,6 @@ stats.nddmed.com
 stats.nerdbusiness.com
 stats.newslit.co
 stats.nexagon.dk
-stats.nicolabricot.com
 stats.nodewood.com
 stats.nomad.radio
 stats.nonprofit.foundation
@@ -781,6 +781,7 @@ stats.poesieundgenuss.com
 stats.pointflottant.com
 stats.polekatfitness.com
 stats.poochplaces.dog
+stats.portalmonitor.io
 stats.portalzero.net
 stats.postcollectors.com
 stats.poweringpastcoal.org

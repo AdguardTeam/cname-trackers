@@ -130,6 +130,7 @@
 ||tk.tikamoon.de^
 ||tk.tikamoon.es^
 ||tk.tikamoon.it^
+||tk.tikamoon.nl^
 ||tk.transavia.com^
 ||tk.ultrapremiumdirect.com^
 ||tk.undiz.com^

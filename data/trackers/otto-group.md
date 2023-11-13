@@ -30,6 +30,7 @@
     * te-sheego-de.oghub.io
     * te-sieh-an-at.oghub.io
     * te-sieh-an-ch.oghub.io
+    * te-sieh-an-de.oghub.io
     * te-universal-at.oghub.io
     * te-waeschepur-de.oghub.io
     * te-witt-international-cz.oghub.io
@@ -152,6 +153,7 @@
 | te.sheego.de | te-sheego-de.oghub.io |
 | te.sieh-an.at | te-sieh-an-at.oghub.io |
 | te.sieh-an.ch | te-sieh-an-ch.oghub.io |
+| te.sieh-an.de | te-sieh-an-de.oghub.io |
 | te.universal.at | te-universal-at.oghub.io |
 | te.waeschepur.de | te-waeschepur-de.oghub.io |
 | te.witt-international.cz | te-witt-international-cz.oghub.io |

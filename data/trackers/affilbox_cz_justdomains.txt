@@ -66,7 +66,6 @@ affil.stastnavovztahu.sk
 affil.supervykon.cz
 affil.svepomoci.cz
 affil.svj-info.cz
-affil.swisstoner.cz
 affil.tadytuto.cz
 affil.trikator.cz
 affil.triko4u.cz
@@ -106,7 +105,6 @@ affiliate.applemix.cz
 affiliate.atomer.cz
 affiliate.batteryshop.cz
 affiliate.bestdrink.cz
-affiliate.bezvatriko.sk
 affiliate.bikeplan.org
 affiliate.biooo.cz
 affiliate.bitcoinzmenaren.sk
@@ -416,6 +414,7 @@ partner-affilbox.telly.cz
 partner.2din.cz
 partner.adamkrupa.cz
 partner.aerium.sk
+partner.aeriumshop.nl
 partner.affilbox.com
 partner.affiliateark.com
 partner.affilnet.cz
@@ -427,7 +426,6 @@ partner.antihacker.cz
 partner.artmaster.com
 partner.artmasteracademy.cz
 partner.astaxanthincz.cz
-partner.autosedacky-online.cz
 partner.avetour.cz
 partner.azada.cz
 partner.babysigns.cz
@@ -469,7 +467,6 @@ partner.chococo.cz
 partner.chytranemovitost.cz
 partner.chytrydopravce.cz
 partner.cleverfood.eu
-partner.cocochocokeratin.cz
 partner.cokoladovnajanek.cz
 partner.colosseumticket.cz
 partner.colway.cz
@@ -488,7 +485,6 @@ partner.denishenry.cz
 partner.designturnaj.cz
 partner.detskyeshop.cz
 partner.dfprsteny.cz
-partner.digilega.com
 partner.directalpine.cz
 partner.doleo.cz
 partner.domaca-pivoteka.sk
@@ -590,7 +586,6 @@ partner.moringacaribbean.eu
 partner.motoobchod.cz
 partner.muffik.cz
 partner.muffik.eu
-partner.mumijo.cz
 partner.muzskykruh.cz
 partner.nanolab.cz
 partner.naplne.cz
@@ -654,6 +649,8 @@ partner.susenepochoutky.cz
 partner.susmevem.com
 partner.svatba.cz
 partner.svatebni-diar.cz
+partner.svetcukrarov.sk
+partner.svetcukraru.cz
 partner.svetruzi.cz
 partner.sypanycaj.eu
 partner.tahnabranu.cz
@@ -668,6 +665,7 @@ partner.unuo.de
 partner.vajacandle.cz
 partner.vataonline.cz
 partner.vffoto.com
+partner.victus.cz
 partner.virulent.cz
 partner.vladimirekart.cz
 partner.volne-reality.cz
@@ -879,7 +877,6 @@ spoluprace.obchod-setrilek.cz
 spoluprace.potravinyarax.cz
 spoluprace.terrapotheka.cz
 spoluprace.vcelarstvi-domovina.cz
-test.autosedacky-online.cz
 vydelavejtesnami.pg.cz
 www.affilbox.mironet.cz
 www.affilo.cz

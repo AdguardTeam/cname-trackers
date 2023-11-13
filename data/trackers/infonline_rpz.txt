@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699257616670        ; Serial
+           1699862416476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,7 +28,6 @@ data-009c74b736.yesss.at CNAME .
 data-00c4a5bd11.rockland.fm CNAME .
 data-00db6fbb05.yachtrevue.at CNAME .
 data-0142dcfbcf.yacht.de CNAME .
-data-016ae3225f.baugewerbe-magazin.de CNAME .
 data-0186141170.apps.iocnt.de CNAME .
 data-019a21151c.apps.iocnt.de CNAME .
 data-01a19c0522.apps.iocnt.de CNAME .
@@ -158,8 +157,6 @@ data-1381d79962.wuerzburgerleben.de CNAME .
 data-13d258638d.blick.de CNAME .
 data-13d258638d.erzgebirge.de CNAME .
 data-13d258638d.freiepresse.de CNAME .
-data-13e75de547.labo.de CNAME .
-data-143ac31e30.brocken.de CNAME .
 data-143ac31e30.radio-brocken.com CNAME .
 data-143ac31e30.radio-brocken.de CNAME .
 data-143ac31e30.radiobrocken.com CNAME .
@@ -401,6 +398,7 @@ data-30e91950da.joyn.at CNAME .
 data-311d8c614b.natursteinonline.de CNAME .
 data-31ba81426f.apps.iocnt.de CNAME .
 data-31c137b707.sanitaerjournal.de CNAME .
+data-31c137b707.wasserenthaertungsanlage-trinkwasser.de CNAME .
 data-31fbb916a1.erneuerbareenergien.de CNAME .
 data-3212b1cf73.apps.iocnt.de CNAME .
 data-3277c56f96.ingenieur.de CNAME .
@@ -713,6 +711,7 @@ data-501446ac98.t-online.de CNAME .
 data-504bba0c00.tlc.de CNAME .
 data-50b219a31f.btc-echo.de CNAME .
 data-50c00d5d12.techbook.de CNAME .
+data-50d39a5d3f.diepresse.com CNAME .
 data-50de2f2b04.focus.de CNAME .
 data-50de2f2b04.netmoms.de CNAME .
 data-512cafb4f7.addradio.de CNAME .
@@ -728,7 +727,6 @@ data-52a43bc433.gala.de CNAME .
 data-53808e266e.nn.de CNAME .
 data-53ba3c279a.apps.iocnt.de CNAME .
 data-53ce61d695.bike-x.de CNAME .
-data-5400382129.kunststoff-magazin.de CNAME .
 data-5492b7d422.mz-jobs.de CNAME .
 data-5492b7d422.mz.de CNAME .
 data-5492b7d422.rblive.de CNAME .
@@ -1047,6 +1045,7 @@ data-7e634b10b2.prosiebenmaxx.de CNAME .
 data-7e634b10b2.the-voice-of-germany.de CNAME .
 data-7e70b89caf.geb-info.de CNAME .
 data-7f1c7ce24c.plastverarbeiter.de CNAME .
+data-7f59e1721b.bergwetter.de CNAME .
 data-7f59e1721b.planetoutdoor.de CNAME .
 data-7f6dde6aeb.spieletipps.de CNAME .
 data-7f9c14ceb6.telecom-handel.de CNAME .
@@ -1332,7 +1331,6 @@ data-a0f0ae1310.gelbeseiten.de CNAME .
 data-a0f0ae1310.goyellow.de CNAME .
 data-a113f4b41d.trucker.de CNAME .
 data-a114e51991.ikz.de CNAME .
-data-a1937ab7ea.materialfluss.de CNAME .
 data-a195367ecc.apps.iocnt.de CNAME .
 data-a1aa7525b0.rw-textilservice.de CNAME .
 data-a1ce08382f.sat1.de CNAME .
@@ -1657,6 +1655,7 @@ data-c66a1ae096.focus.de CNAME .
 data-c69aa33f02.linux-community.de CNAME .
 data-c6b1789ee3.upday.com CNAME .
 data-c6cb92ccdb.zkg.de CNAME .
+data-c71f1467d4.speedweek.com CNAME .
 data-c76cebcfed.kino.de CNAME .
 data-c7a4161550.apps.iocnt.de CNAME .
 data-c7fa2f50f1.photovoltaik.eu CNAME .
@@ -1725,6 +1724,7 @@ data-d398dd713b.apps.iocnt.de CNAME .
 data-d3ad057ab7.firmenauto.de CNAME .
 data-d3b795e73c.instyle.de CNAME .
 data-d3b7b07de5.apps.iocnt.de CNAME .
+data-d3b9450695.tv-media.at CNAME .
 data-d47b934372.regionalheute.de CNAME .
 data-d4cb803d00.pollux-fid.de CNAME .
 data-d4db30a18b.borkumer-zeitung.de CNAME .
@@ -1732,7 +1732,6 @@ data-d4db30a18b.ga-online.de CNAME .
 data-d4db30a18b.on-online.de CNAME .
 data-d4db30a18b.oz-online.de CNAME .
 data-d4db30a18b.zgo.de CNAME .
-data-d4dfa4bc2c.focus.de CNAME .
 data-d4dfa4bc2c.weather.com CNAME .
 data-d4ecb517ab.cinema.de CNAME .
 data-d4ecb517ab.streampicker.de CNAME .
@@ -1751,6 +1750,7 @@ data-d6a989bf01.kl-magazin.de CNAME .
 data-d6e13c60e8.orf.at CNAME .
 data-d708c3c3bc.freizeit.at CNAME .
 data-d7486a3850.nordkurier.de CNAME .
+data-d75062df83.epaper-oesterreich.at CNAME .
 data-d7b9b455b2.apps.iocnt.de CNAME .
 data-d815104c6c.dastelefonbuch.de CNAME .
 data-d815104c6c.telefonbuch.de CNAME .
@@ -1898,7 +1898,6 @@ data-ed91a21bf0.dastelefonbuch.de CNAME .
 data-ed9c138d79.dewezet.de CNAME .
 data-ede3421766.caraworld.de CNAME .
 data-ede3421766.promobil.de CNAME .
-data-ee28b6fae3.industrial-production.de CNAME .
 data-ee73ed6bf2.gera.de CNAME .
 data-ee807be806.derwesten.de CNAME .
 data-ee807be806.funkemediennrw.de CNAME .

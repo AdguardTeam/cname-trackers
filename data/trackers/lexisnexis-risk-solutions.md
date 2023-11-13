@@ -15,6 +15,7 @@
     * h-1kcyydia.online-metrix.net
     * h-1lc506lh.online-metrix.net
     * h-1ngztxrl.online-metrix.net
+    * h-1qbwo7fx.online-metrix.net
     * h-1qeo60mk.online-metrix.net
     * h-1qpcog32.online-metrix.net
     * h-1u7ubqzg.online-metrix.net
@@ -692,6 +693,7 @@
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
 | t.zinia.com | h-1ngztxrl.online-metrix.net |
+| content.nycers.org | h-1qbwo7fx.online-metrix.net |
 | prod-acutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-afcutn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-aocumi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -945,6 +947,7 @@
 | online.nbc.ca | h-bnc.online-metrix.net |
 | content.bnl.it | h-bnl.online-metrix.net |
 | content.hellobank.it | h-bnl.online-metrix.net |
+| www.content.bnl.it | h-bnl.online-metrix.net |
 | css.bitcasino.io | h-bo72h7g2-1.online-metrix.net |
 | css.slots.io | h-bo72h7g2-4.online-metrix.net |
 | css.sportsbet.io | h-bo72h7g2-5.online-metrix.net |
@@ -1151,6 +1154,7 @@
 | daotm.firstcitizens.com | h-firstcitizensbank.online-metrix.net |
 | clovergo.june-testing.firstdata.com | h-firstdata.online-metrix.net |
 | content.firstinterstatebank.com | h-firstinterstatebank.online-metrix.net |
+| content.amerantbank.com | h-fisglobal.online-metrix.net |
 | content.billdomain.com | h-fisglobal.online-metrix.net |
 | content.billsupport.com | h-fisglobal.online-metrix.net |
 | content.conapcg.com | h-fisglobal.online-metrix.net |

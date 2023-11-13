@@ -26,6 +26,7 @@
 | a8.01cloud.jp | trck.a8.net |
 | a8.123.rheos.jp | trck.a8.net |
 | a8.2ndstreet.jp | trck.a8.net |
+| a8.366vivi.com | trck.a8.net |
 | a8.abemashopping.jp | trck.a8.net |
 | a8.ablenet.jp | trck.a8.net |
 | a8.aga-hakata.com | trck.a8.net |
@@ -531,7 +532,6 @@
 | a8clk.nobirun.jp | trck.a8.net |
 | a8clk.nta.co.jp | trck.a8.net |
 | a8clk.nyandaful.jp | trck.a8.net |
-| a8clk.officehikari119.com | trck.a8.net |
 | a8clk.okawa-god.jp | trck.a8.net |
 | a8clk.olulu-online.jp | trck.a8.net |
 | a8clk.onemile.jp | trck.a8.net |
@@ -574,6 +574,7 @@
 | a8clk.shinnihon-seminar.com | trck.a8.net |
 | a8clk.shoes.regal.co.jp | trck.a8.net |
 | a8clk.shokutakubin.com | trck.a8.net |
+| a8clk.shop.echigofuton.jp | trck.a8.net |
 | a8clk.shop.kitamura.jp | trck.a8.net |
 | a8clk.shop.saraya.com | trck.a8.net |
 | a8clk.shop.shareme.jp | trck.a8.net |
@@ -608,7 +609,6 @@
 | a8clk.tastytable-food.com | trck.a8.net |
 | a8clk.teacon.jp | trck.a8.net |
 | a8clk.titivate.jp | trck.a8.net |
-| a8clk.to-chu.co.jp | trck.a8.net |
 | a8clk.toretoku.jp | trck.a8.net |
 | a8clk.tsuchiya-kaban.jp | trck.a8.net |
 | a8clk.tsunorice.com | trck.a8.net |
@@ -981,7 +981,6 @@
 | a8cv.otoriyose.site | trck.a8.net |
 | a8cv.p-antiaging.com | trck.a8.net |
 | a8cv.paidy.com | trck.a8.net |
-| a8cv.palms-gym.com | trck.a8.net |
 | a8cv.perrot.co | trck.a8.net |
 | a8cv.phonim.com | trck.a8.net |
 | a8cv.photojoy.jp | trck.a8.net |
@@ -1041,6 +1040,7 @@
 | a8cv.shop.solve-grp.com | trck.a8.net |
 | a8cv.sibody.co.jp | trck.a8.net |
 | a8cv.signalift.com | trck.a8.net |
+| a8cv.sirusi.jp | trck.a8.net |
 | a8cv.sl-creations.store | trck.a8.net |
 | a8cv.slp.partners-re.co.jp | trck.a8.net |
 | a8cv.smart-shikaku.com | trck.a8.net |
@@ -1066,10 +1066,12 @@
 | a8cv.studygear.evidus.com | trck.a8.net |
 | a8cv.sumai-surfin.com | trck.a8.net |
 | a8cv.sunmillion-ikiiki.jp | trck.a8.net |
+| a8cv.suzaku.or.jp | trck.a8.net |
 | a8cv.suzette-shop.jp | trck.a8.net |
 | a8cv.sweets-paradise-shop.com | trck.a8.net |
 | a8cv.t-bang.jp | trck.a8.net |
 | a8cv.t-gaia.co.jp | trck.a8.net |
+| a8cv.taclinic.jp | trck.a8.net |
 | a8cv.taisyokudaiko.jp | trck.a8.net |
 | a8cv.tamago-repeat.com | trck.a8.net |
 | a8cv.techkidsschool.jp | trck.a8.net |
@@ -1265,6 +1267,7 @@
 | cv.bikoshaen.com | trck.a8.net |
 | cv.bloomeelife.com | trck.a8.net |
 | cv.cante-gym.com | trck.a8.net |
+| cv.cart.naturath.jp | trck.a8.net |
 | cv.colleize.com | trck.a8.net |
 | cv.cp-c21.com | trck.a8.net |
 | cv.dc-khs.com | trck.a8.net |
@@ -1274,6 +1277,7 @@
 | cv.figure.toy-kaitoru.com | trck.a8.net |
 | cv.fire-bird.jp | trck.a8.net |
 | cv.h-docomo.com | trck.a8.net |
+| cv.hikari.organic | trck.a8.net |
 | cv.hikkoshizamurai.jp | trck.a8.net |
 | cv.hoikushi-bosyu.com | trck.a8.net |
 | cv.homepage-seisaku.jp | trck.a8.net |

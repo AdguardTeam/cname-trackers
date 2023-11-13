@@ -730,6 +730,7 @@
 | 3845405.notify6.com | tk6if76q.ab1n.net |
 | 3849719.notify6.com | tk6if76q.ab1n.net |
 | 3853333.notify6.com | tk6if76q.ab1n.net |
+| 3856281.notify6.com | tk6if76q.ab1n.net |
 | 3858841.notify6.com | tk6if76q.ab1n.net |
 | 3869256.notifysrv.com | tk6if76q.ab1n.net |
 | 3869316.notify6.com | tk6if76q.ab1n.net |
@@ -811,6 +812,7 @@
 | 4022280.notify6.com | tk6if76q.ab1n.net |
 | 4022504.notify6.com | tk6if76q.ab1n.net |
 | 4022684.notify6.com | tk6if76q.ab1n.net |
+| 4028414.notify6.com | tk6if76q.ab1n.net |
 | 4031264.notify6.com | tk6if76q.ab1n.net |
 | 4031266.notify6.com | tk6if76q.ab1n.net |
 | 4035140.notify6.com | tk6if76q.ab1n.net |
@@ -1118,6 +1120,7 @@
 | a.adsession.com | w2u4v9e1.ab1n.net |
 | a.advertrek.com | w2u4v9e1.ab1n.net |
 | a.asvsm.com | w2u4v9e1.ab1n.net |
+| a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
 | a.etology.com | w2u4v9e1.ab1n.net |
 | a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |
