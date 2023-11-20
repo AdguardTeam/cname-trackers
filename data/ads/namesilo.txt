@@ -964,6 +964,7 @@
 ||a.asvsm.com^
 ||a.bizonads-ssp.com^
 ||a.etology.com^
+||a.optimizesrv.com^
 ||a.paradoxgroup.uk^
 ||a.redpathmedia.com^
 ||a.rocoads.net^
@@ -974,6 +975,7 @@
 ||admin.adnation.com^
 ||admin.adstuff.io^
 ||admin.etology.com^
+||admin.exoclick.com^
 ||admin.gettopple.com^
 ||admin.shafttraffic.com^
 ||api.adnation.com^
@@ -983,11 +985,9 @@
 ||delivery.gettopple.com^
 ||engine.gettopple.com^
 ||m.hue2m.com^
-||main.adxnow.com^
 ||main.exdynsrv.com^
 ||main.exoclick.com^
 ||main.exosrv.com^
-||main.optimizesrv.com^
 ||main.realsrv.com^
 ||main0.exosrv.com^
 ||management-addisplaynetwork.exads.com^
@@ -1104,6 +1104,7 @@
 ||www.3466863.notify6.com^
 ||www.3815579.notify6.com^
 ||www.3881818.notify6.com^
+||www.4065194.notify6.com^
 ||www.4152316.notify6.com^
 ||www.notify.bizonads-ssp.com^
 ||www.notify6.com^

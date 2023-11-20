@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -46,6 +46,7 @@ cdn.gelhp.com CNAME .
 cdn.genfpm.com CNAME .
 cdn.gocolow.com CNAME .
 cdn.hqwa.xyz CNAME .
+cdn.ianjumb.com CNAME .
 cdn.iople.com CNAME .
 cdn.isgost.com CNAME .
 cdn.jandaqwe.com CNAME .
@@ -80,6 +81,7 @@ cdn.spnut.com CNAME .
 cdn.srxy.xyz CNAME .
 cdn.sslph.com CNAME .
 cdn.syinga.com CNAME .
+cdn.timsef.com CNAME .
 cdn.ulesxbo.com CNAME .
 cdn.viowrel.com CNAME .
 cdn.wwfx.xyz CNAME .
@@ -233,7 +235,6 @@ canid.mestamaster.fi CNAME .
 canid.peterakkies.net CNAME .
 canidae.collectingsocialphoto.org CNAME .
 canidae.fidum.uk CNAME .
-capybara.bell0bytes.eu CNAME .
 capybara.civicsoftwarefoundation.org CNAME .
 capybara.randyhamiltonelectric.com CNAME .
 cardinal.businessfirstonline.co.uk CNAME .
@@ -270,7 +271,6 @@ catfish.sofatido.ch CNAME .
 catshark.janetalexandersson.com CNAME .
 catshark.spur.design CNAME .
 cattle.apisyouwonthate.com CNAME .
-cattle.domaincomet.com CNAME .
 cattle.driftbot.io CNAME .
 cattle.elitecanines.com.au CNAME .
 cattle.eprc.tools CNAME .
@@ -596,6 +596,7 @@ kaxlfq.testingwithtestcafe.com CNAME .
 kingfisher.gedaly.com CNAME .
 kingfisher.startupdemoday.live CNAME .
 kingfisher.wishloom.com CNAME .
+kite.cardneyestate.co.uk CNAME .
 kite.devin.website CNAME .
 kite.ibirthdayclub.com CNAME .
 kite.kochie.io CNAME .
@@ -771,6 +772,7 @@ ostrich.pergaudiaadastra.de CNAME .
 ostrich.scd-rv.com.au CNAME .
 otter.butika.fr CNAME .
 otter.emdegmbh.com CNAME .
+otter.jetting.no CNAME .
 otter.preferredequineonline.com CNAME .
 owl.gregwolanski.com CNAME .
 owl.heidipay.com CNAME .
@@ -1098,6 +1100,7 @@ wombat.buildrtech.com CNAME .
 woodpecker.binario11.de CNAME .
 woodpecker.ember.ly CNAME .
 woodpecker.groupe-montagne.ch CNAME .
+woodpecker.mikehalliday.com CNAME .
 woodpecker.seabits.com CNAME .
 worm.discover-culture.com CNAME .
 worm.usephantom.com CNAME .
@@ -1133,6 +1136,7 @@ sponsors.floorforce.com CNAME .
 sponsors.macaronikid.com CNAME .
 sponsors.oaklandcountymoms.com CNAME .
 sponsors.salesforceben.com CNAME .
+sponsors.stateofdigitalpublishing.com CNAME .
 sponsors.teethtalkgirl.com CNAME .
 support-v2.sweetwaternow.com CNAME .
 adserve.bongocdn.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -110,6 +110,7 @@ a.viralnewsbd.xyz CNAME .
 a.voxar.xyz CNAME .
 a.warddogs.com CNAME .
 a.wlen1bty92.pro CNAME .
+a.worldporncomix.com CNAME .
 a.xmanga.online CNAME .
 a.zillastream.com CNAME .
 a5g.oves.biz CNAME .
@@ -135,6 +136,7 @@ addin.icu CNAME .
 adhand.icu CNAME .
 adilk.ilikecomix.com CNAME .
 ads.free-to.download CNAME .
+ads.gotxx.net CNAME .
 ads.hentaiheart.com CNAME .
 ads.javtit.com CNAME .
 ads.onetouchtv.me CNAME .
@@ -277,7 +279,6 @@ cdn5.hentaihaven.fun CNAME .
 cesbr.spinna.store CNAME .
 click.fastupload.io CNAME .
 client2009x25.xcdn.ovh CNAME .
-coinbaze.lol CNAME .
 comezz.xyz CNAME .
 content.zbporn.com CNAME .
 cool.ah-me.com CNAME .
@@ -317,6 +318,7 @@ edddd.javmilk.org CNAME .
 enrgy.fwtrck.com CNAME .
 essential.awmcash.com CNAME .
 ex8.lostporntube.com CNAME .
+eznoz.xyz CNAME .
 f.bloblohub.com CNAME .
 f92or5.spinna.shop CNAME .
 fansang.xyz CNAME .
@@ -362,7 +364,6 @@ hq3x.com CNAME .
 hsux.com CNAME .
 huanez.xyz CNAME .
 huewaix.xyz CNAME .
-hunjoinz.pics CNAME .
 hutanz.xyz CNAME .
 hx1.tubepornbase.com CNAME .
 i.anime22.net CNAME .
@@ -437,6 +438,7 @@ maioux.xyz CNAME .
 makumva.all-usanomination.com CNAME .
 mamamia.vintageporno.stream CNAME .
 mambus.xyz CNAME .
+manboo.xyz CNAME .
 mangoga.xyz CNAME .
 mangtoz.xyz CNAME .
 maxcdn.dmm-video.online CNAME .
@@ -450,19 +452,18 @@ menguzi.xyz CNAME .
 mentuab.xyz CNAME .
 menui.xyz CNAME .
 meoem.lol CNAME .
-messic.lol CNAME .
 metabuz.xyz CNAME .
 meyd.7mmtv.top CNAME .
 mficlyxgvfsp.cdnvideo3.com CNAME .
 mgbkt9eckr.xn--mgbkt9eckr.net CNAME .
 mide.7mmtv.top CNAME .
-mrcoviu.pics CNAME .
 mrfantastic.gotdns.ch CNAME .
 mrkaito.xyz CNAME .
 mx6.3pornhere.com CNAME .
 my.shymilftube.com CNAME .
 mydomainbest.com CNAME .
 mylives.xyz CNAME .
+mziso.xyz CNAME .
 n.bloblohub.com CNAME .
 n.hnntube.com CNAME .
 n.reallifehentai.net CNAME .
@@ -512,7 +513,6 @@ ok.hqbang.com CNAME .
 ok.starwank.com CNAME .
 open.oksrv.com CNAME .
 opus.sexyxxx.biz CNAME .
-orderz.lol CNAME .
 orznp.spinna.store CNAME .
 outya.xyz CNAME .
 ox8.topsexhdvideos.com CNAME .
@@ -533,7 +533,6 @@ pempiz.xyz CNAME .
 penapne.xyz CNAME .
 pihu.xxxpornhd.pro CNAME .
 pivo.tracked.one CNAME .
-pizzazz.lol CNAME .
 plutoclean.com CNAME .
 pnpjceawvmeu.cdnvideo3.com CNAME .
 pop.nkiris.com CNAME .
@@ -551,7 +550,6 @@ pre.myfuck.club CNAME .
 pre.pornuxaxa.com CNAME .
 pred.7mmtv.top CNAME .
 px9.nuderedtube.com CNAME .
-qatak.beauty CNAME .
 qhip.com CNAME .
 qoutec.shop CNAME .
 qsdr.mysunnylawn.com CNAME .
@@ -563,7 +561,6 @@ r.archertube.com CNAME .
 r.erohabu.com CNAME .
 r.freeadultporn.tv CNAME .
 r.tropictube.com CNAME .
-ramosz.lol CNAME .
 rdx.javmotion.com CNAME .
 redi.teengirl-pics.com CNAME .
 reklama.teenfuckhd.com CNAME .
@@ -581,7 +578,6 @@ s1sentablya.teenfuckhd.com CNAME .
 s2.everydaygayporn.com CNAME .
 s4.sb89347.com CNAME .
 sailundu.xyz CNAME .
-sameplace.lol CNAME .
 sansuni.xyz CNAME .
 sape.ngumaz.com CNAME .
 satmon.neekstore.com CNAME .
@@ -631,7 +627,6 @@ swqw.jav-7mmtv.top CNAME .
 tacumi.xyz CNAME .
 tagbucks.xyz CNAME .
 tagun.xyz CNAME .
-talamk3.beauty CNAME .
 tankiuz.xyz CNAME .
 tayrambo.lol CNAME .
 tb.turbocap.net CNAME .
@@ -681,6 +676,7 @@ ww.cvideos.stream CNAME .
 www.adanald.icu CNAME .
 www.adxhand.icu CNAME .
 www.antiadblock.info CNAME .
+www.b.hubhubhub.name CNAME .
 www.bigboy.monster CNAME .
 www.bloblohub.com CNAME .
 www.cinemahd.top CNAME .
@@ -688,7 +684,7 @@ www.f.bloblohub.com CNAME .
 www.go.ss-n-30.com CNAME .
 www.hq3x.com CNAME .
 www.javtvnow.xyz CNAME .
-www.letstry69.xyz CNAME .
+www.monsoonlassi.com CNAME .
 www.p123p.com CNAME .
 www.pelisestreno.cc CNAME .
 www.pleasedonotblockme.com CNAME .
@@ -698,7 +694,6 @@ www.spinna.site CNAME .
 www.spinna.store CNAME .
 www.spinna.xyz CNAME .
 www.uk.boffinsoft.com CNAME .
-www.valornutricional.cc CNAME .
 www.w00t.us CNAME .
 www.zqwe.ru CNAME .
 www4.hentai-rpg.com CNAME .
@@ -733,4 +728,3 @@ zhaner.xyz CNAME .
 zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 zzzzaaa.baijav.com CNAME .
-qoqv.com CNAME .

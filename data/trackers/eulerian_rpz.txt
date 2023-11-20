@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -262,6 +262,7 @@ fze8.carrefour-banque.fr CNAME .
 fzu4.bysidecar.com CNAME .
 g1be.swisslife-direct.fr CNAME .
 gdm1.toner.fr CNAME .
+gf7t.cheques-cadeaux-culturels.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
 gif1.gifi.fr CNAME .
@@ -431,6 +432,7 @@ snr4.canalplus.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
+su1.les-suites.ca CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
 t.locasun.de CNAME .
@@ -496,6 +498,7 @@ wnd2.destinia.cat CNAME .
 wph2.destinia.us CNAME .
 www.fasttrack.fr CNAME .
 www.fasttracker.fr CNAME .
+www.mis.tourisme-montreal.org CNAME .
 xay5o.toscane-boutique.fr CNAME .
 xjq5.belambra.be CNAME .
 xoq.pmubrasil.com.br CNAME .
@@ -527,8 +530,6 @@ eat9.thebeat925.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
-su1.les-suites.ca CNAME .
-www.mis.tourisme-montreal.org CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
 nym5c.laura.ca CNAME .

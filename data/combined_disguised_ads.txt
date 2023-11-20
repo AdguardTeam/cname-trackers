@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME disguised ads list
 ! Description: The list of unique ads domains that disguise the real trackers by using CNAME records.
-! TimeUpdated: 2023-11-13T08:00:16+00:00
+! TimeUpdated: 2023-11-20T08:00:23+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 ||*.exaapi.com^
@@ -2629,7 +2629,6 @@
 ||0998.lookinews.com^
 ||0999.reminews.com^
 ||0a1d6bc94f.063f828cf2.com^
-||0a2ccba5c3.f55f5b7e4b.com^
 ||0a317d9d6b.79c4215c89.com^
 ||0a4b04d051.443f6269ce.com^
 ||0abea7825c.8de2448875.com^
@@ -4430,6 +4429,7 @@
 ||17a53b085f.d13babd868.com^
 ||17a5f75a38.04ec0efa74.com^
 ||17b76e7799.e27fe9334e.com^
+||17c87b4081.2615bff79f.com^
 ||18.deeginews.com^
 ||18.groovinews.com^
 ||18.jumronews.com^
@@ -4945,7 +4945,6 @@
 ||2355.reminews.com^
 ||2362.reminews.com^
 ||2367.bealanews.com^
-||236bfbbd65.1d5d7fb584.com^
 ||2370.bealanews.com^
 ||2374.reminews.com^
 ||2386.gofenews.com^
@@ -5026,7 +5025,6 @@
 ||2aad.spinna.xyz^
 ||2aae.spinna.xyz^
 ||2aaf.spinna.xyz^
-||2ab17b21a6.29bb50a69c.com^
 ||2ac8cd2314.b754af79a7.com^
 ||2acdecbea6.154886c13e.com^
 ||2b033c0409.1239feffd9.com^
@@ -5762,6 +5760,7 @@
 ||3679a9b56f.b1298d230d.com^
 ||3682345.notifysrv.com^
 ||3683e7c964.412fe7fd10.com^
+||36b963fd4a.b5c28f9b84.com^
 ||3701725.notifysrv.com^
 ||3701939.notify6.com^
 ||3710061.notify6.com^
@@ -5841,7 +5840,6 @@
 ||3887544.notify6.com^
 ||3898244.notify6.com^
 ||3898378.notify6.com^
-||38c7418586.ad6011520d.com^
 ||3903164.notify6.com^
 ||3911078.notify6.com^
 ||3917502.notify6.com^
@@ -5899,7 +5897,6 @@
 ||3c03eb25ce.78359c0779.com^
 ||3d96bf852a.766d456657.com^
 ||3e5d86ade8.702f5434c8.com^
-||3eb315e3eb.964e7c340a.com^
 ||3ecfebd478.7aa130b045.com^
 ||3f1d1cd4aa.ced843cd18.com^
 ||3f20b278fd.a44c39fc52.com^
@@ -6008,6 +6005,7 @@
 ||42916df8a5.0ac56fb52b.com^
 ||4292982.notify6.com^
 ||4298194.notify6.com^
+||42db495dfe.ad1e220ebc.com^
 ||4300970.notify6.com^
 ||4305094.notify6.com^
 ||4322316.notify6.com^
@@ -6133,6 +6131,7 @@
 ||4f75a8ee0c.d7c01d241b.com^
 ||4f8ddea38f.61ba68472f.com^
 ||4ke5b4ila.codedge.de^
+||50453dd923.9da3146512.com^
 ||5085594.notify6.com^
 ||50abe8a408.ec5e727d37.com^
 ||50b1f7a005.e9a53154b4.com^
@@ -6163,6 +6162,7 @@
 ||5637f5daf2.e5bb7a50f5.com^
 ||5662fe77fd.d787d0e334.com^
 ||56a444a071.3a98f4e936.com^
+||5716f59d5f.147d72d01e.com^
 ||577.notify.optimizesrv.com^
 ||57e1932c4c.6593167243.com^
 ||582ff6f1ff.8c771f7ea1.com^
@@ -6313,7 +6313,6 @@
 ||70d09bab35.0b1f7ca090.com^
 ||7112743cf5.a317654204.com^
 ||7137bfd8a4.c6f23c189f.com^
-||714a39ef94.086f39952a.com^
 ||714b09d975.58915e0a30.com^
 ||7199fc3313.41a33ffca8.com^
 ||71f0ac40a9.f3663618ff.com^
@@ -6349,7 +6348,6 @@
 ||77e8b98ffa.3e090c38bd.com^
 ||78278b5a63.61c3007cf3.com^
 ||7834feecd9.a718917a44.com^
-||785d9b68fc.fb960dbd5f.com^
 ||78aa8bf1d5.82b5cc6199.com^
 ||78b37f45bb.6dceed83a5.com^
 ||79369f2530.1b55d966f1.com^
@@ -6370,7 +6368,6 @@
 ||7bd3d001ff6.clicknplay.to^
 ||7cdd9f6208.e2572292c5.com^
 ||7cfed7fb22.78a3dd3c86.com^
-||7d4e8777d4.b76e86c54d.com^
 ||7db716fcf1.af60f3d6b4.com^
 ||7dd8317b68.366226193c.com^
 ||7dd995c5ec.e55629740f.com^
@@ -6412,7 +6409,6 @@
 ||8054.luronews.com^
 ||8057.gofenews.com^
 ||8057.jemonews.com^
-||80c7aeb9f3.106c6423c3.com^
 ||80d1a5817f.48da4009ba.com^
 ||810236abc0.dfec4f079e.com^
 ||81584ff74e.aed5586e71.com^
@@ -6422,6 +6418,7 @@
 ||82aef0449e.8ff41d1efd.com^
 ||8352b4aef7.b5903af9fd.com^
 ||8378af3954.92f83e092d.com^
+||83bcb35d55.256bb4a81a.com^
 ||83e25ad579.86c129241c.com^
 ||83e657c6ab.b5c01d507e.com^
 ||843104bed7.65f249bd43.com^
@@ -6611,6 +6608,7 @@
 ||96c69d59e1.30e58b7f33.com^
 ||974579a039.a181667a95.com^
 ||9758cf8913.203dc6c13b.com^
+||9762b90201.d2f86da573.com^
 ||97ad8a430e.3841f4b0c4.com^
 ||985d5b8b8d.9ea1aedf40.com^
 ||993.notify.optimizesrv.com^
@@ -6619,9 +6617,11 @@
 ||99ca111363.ba488608ee.com^
 ||99ccbf1a87.39f204776a.com^
 ||99loz.xyz^
+||9a15f0c926.02ce917efd.com^
 ||9aacd424bf.81794ea37a.com^
 ||9aeb603608.86c80a0afb.com^
 ||9b1127767f.7d8b7d31f8.com^
+||9c3fa7532b.2da69cc358.com^
 ||9c849c70a8.7da3a14504.com^
 ||9d17867bcd.4d3278a1fa.com^
 ||9d2d87df74.8170a1da9e.com^
@@ -6686,6 +6686,7 @@
 ||a.misctool.xyz^
 ||a.myprettyads.one^
 ||a.narutoon.com^
+||a.optimizesrv.com^
 ||a.p123p.com^
 ||a.pandaporner.com^
 ||a.paradoxgroup.uk^
@@ -6710,9 +6711,9 @@
 ||a.voxar.xyz^
 ||a.warddogs.com^
 ||a.wlen1bty92.pro^
+||a.worldporncomix.com^
 ||a.xmanga.online^
 ||a.zillastream.com^
-||a04ea1b287.cc77769ad8.com^
 ||a0a5ffe3ed.445c1f5df9.com^
 ||a10ac43630.5508de0fd7.com^
 ||a111118fae.763e24cc7e.com^
@@ -6728,13 +6729,11 @@
 ||a42eea462e.5a933d6b67.com^
 ||a449722590.b8fd375760.com^
 ||a44a25d940.79c13962d1.com^
-||a5235b8266.ad1de41c7f.com^
 ||a5a8caaa8c.d754032040.com^
 ||a5ace14e30.eb856aa1f4.com^
 ||a5g.oves.biz^
 ||a628436f09.a4f321092b.com^
 ||a656f5224e.b87d56d579.com^
-||a676ab6743.824fde6e63.com^
 ||a68a4c6a6a.3034f47ff3.com^
 ||a695f35222.b0aed10e06.com^
 ||a6bdf305a4.2d12b2f25b.com^
@@ -6747,6 +6746,7 @@
 ||a778de2012.5c530d2179.com^
 ||a79a5e2f73.0741cb485e.com^
 ||a7d44155fc.1f804d7570.com^
+||a80767acbc.914c3a3b5c.com^
 ||a8fb88a82c.926b9cdb4d.com^
 ||a93b538566.f3abc0d1b3.com^
 ||a96284ccdb.8d23f484c1.com^
@@ -6804,11 +6804,13 @@
 ||admin.adnation.com^
 ||admin.adstuff.io^
 ||admin.etology.com^
+||admin.exoclick.com^
 ||admin.gettopple.com^
 ||admin.shafttraffic.com^
 ||admin3.danarimedia.com^
 ||ads.djc.com^
 ||ads.free-to.download^
+||ads.gotxx.net^
 ||ads.hentaiheart.com^
 ||ads.idiscountmall.net^
 ||ads.javtit.com^
@@ -6840,8 +6842,8 @@
 ||ag.axonesjames.com^
 ||ah.tabskeawe.com^
 ||aj8md.johnhenry.ie^
+||ajs.selecttopoff.com^
 ||ak-tracker.com^
-||akcdn.nativeadsfeed.com^
 ||akxml.nativeadsfeed.com^
 ||al.neuraleisfahan.com^
 ||albatros.teamground.fr^
@@ -7007,6 +7009,7 @@
 ||b2306b9319.36061d2abc.com^
 ||b239c2088d.ff8467d480.com^
 ||b289dc32ce.13d3a1d284.com^
+||b2bf1de4b3.79a279edc7.com^
 ||b2eacf64fc.530bc37e10.com^
 ||b3a400437a.3fa244b7eb.com^
 ||b3ca032261.d3befd5a11.com^
@@ -7103,6 +7106,7 @@
 ||bf.buffersling.com^
 ||bf.shodeoaters.com^
 ||bf167d777d.f7e3877fe7.com^
+||bf34714db5.eafb9d5abc.com^
 ||bf7d5bc7b2.b0a0bb3621.com^
 ||bg.unbarbpoured.com^
 ||bh.twifoilperoxyl.com^
@@ -7186,12 +7190,12 @@
 ||c1786a0546.7bb41eaede.com^
 ||c19dc968bf.561e861cb4.com^
 ||c1af91f415.c7c9f5e663.com^
+||c1c0ac26a3.9f62b6f6bf.com^
 ||c1e995ccc4.e78426c787.com^
 ||c214d2740f.9a52364ae8.com^
 ||c22x1.xcdn.ovh^
 ||c24c310b12.506f94d3ef.com^
 ||c2566eeb64.8f987bbe4e.com^
-||c298470437.2036369798.com^
 ||c2a26a30fc.28adea9220.com^
 ||c2d14ecaae.8f2587daa3.com^
 ||c38e002ec2.8fc511071c.com^
@@ -7199,6 +7203,7 @@
 ||c4363a64d0.f9fbe349c3.com^
 ||c45c3876ed.50745a9d63.com^
 ||c45e10ce2d.99b0610b70.com^
+||c487b87275.97927e3b4d.com^
 ||c4ae5835f2.a2914c746a.com^
 ||c4d145f4fc.e969e75a2a.com^
 ||c54dc03ed6.650e18138d.com^
@@ -7213,8 +7218,6 @@
 ||c82443ac61.699a7d1376.com^
 ||c83c29be12.2a17f5b615.com^
 ||c862e11441.aeea61a72f.com^
-||c889acd2c1.79e91bbc52.com^
-||c961109f87.c2370c7aa8.com^
 ||c96841ab7c.645f89f33c.com^
 ||c9d19c6835.4cd6c4dceb.com^
 ||c9d694d1cb.1847ff24f9.com^
@@ -7238,7 +7241,6 @@
 ||canid.peterakkies.net^
 ||canidae.collectingsocialphoto.org^
 ||canidae.fidum.uk^
-||capybara.bell0bytes.eu^
 ||capybara.civicsoftwarefoundation.org^
 ||capybara.randyhamiltonelectric.com^
 ||cardinal.businessfirstonline.co.uk^
@@ -7277,7 +7279,6 @@
 ||catshark.janetalexandersson.com^
 ||catshark.spur.design^
 ||cattle.apisyouwonthate.com^
-||cattle.domaincomet.com^
 ||cattle.driftbot.io^
 ||cattle.elitecanines.com.au^
 ||cattle.eprc.tools^
@@ -7344,6 +7345,7 @@
 ||cdn.genfpm.com^
 ||cdn.gocolow.com^
 ||cdn.hqwa.xyz^
+||cdn.ianjumb.com^
 ||cdn.iople.com^
 ||cdn.isgost.com^
 ||cdn.jandaqwe.com^
@@ -7380,6 +7382,7 @@
 ||cdn.srxy.xyz^
 ||cdn.sslph.com^
 ||cdn.syinga.com^
+||cdn.timsef.com^
 ||cdn.track.dark.bz^
 ||cdn.ulesxbo.com^
 ||cdn.viowrel.com^
@@ -7518,7 +7521,6 @@
 ||cod.onemanandhisblog.com^
 ||cod.serverlesslaravelcourse.com^
 ||cod.tandartspraktijkjagtkade.nl^
-||coinbaze.lol^
 ||comezz.xyz^
 ||condor.oskarthoren.com^
 ||condor.stadttunnel-feldkirch.at^
@@ -7649,7 +7651,6 @@
 ||d7031576be.ff4eaea9ba.com^
 ||d7c1a8b1e0.d624ca1005.com^
 ||d7e358d70b.806b781310.com^
-||d865b8de6b.a7165aaaf6.com^
 ||d899faa8b1.79b1c4498b.com^
 ||d89e41d67e.70e498b244.com^
 ||d915543852.9970fff461.com^
@@ -7657,7 +7658,6 @@
 ||d94ab708df.1f6f6bfb05.com^
 ||d98dc9e0f8.4fef80eb73.com^
 ||d9c2eb0a9c.9f8685a4d1.com^
-||d9fc39dbc3.3651172187.com^
 ||da15b2e6ca.839944c715.com^
 ||da37c08c29.36b7ca5028.com^
 ||da56f02c2b.fc9115d2c7.com^
@@ -7673,12 +7673,10 @@
 ||danp100.guesswhatnews.com^
 ||dash.ezmob.com^
 ||data.bangtubevideos.com^
-||data.bvsrv.com^
 ||data.streamtape.com^
 ||db.relandsnouts.com^
 ||db54820bb9.edeeb7b017.com^
 ||db7a728824.855ca67e31.com^
-||db80aa073a.b06fcca6fd.com^
 ||dba22dcfe9.8d0d35fb77.com^
 ||dbs-val.looksmart.com^
 ||dc.swartlybeebee.com^
@@ -7687,7 +7685,6 @@
 ||dc60cdfad8.d7fd9bace5.com^
 ||dca7cef6a8.ab97114bda.com^
 ||dce64d66b2.2b15b8e193.com^
-||dcf8cfb69d.51629c3667.com^
 ||dd.zillahhayers.com^
 ||dd1.guesswhatnews.com^
 ||dd1.jumronews.com^
@@ -7707,6 +7704,7 @@
 ||de446b1884.573d28b35e.com^
 ||de5d3ea1c2.17772175ab.com^
 ||de6e941365.788aefb4ed.com^
+||de8fe6b459.d8f0d7e2c9.com^
 ||de927d4ce4.7417f20ecd.com^
 ||dec6962e8c.cf433af11b.com^
 ||deer.m1x.co^
@@ -7812,17 +7810,18 @@
 ||e0e17958ce.cd1ca3a884.com^
 ||e0ebd75c38.78e70720f2.com^
 ||e12a49f01f.7abf0af03c.com^
+||e2844f0af7.87bcb027cf.com^
 ||e2b9148acd.2a2e94fb21.com^
 ||e36af60762.4a5d6a35fb.com^
 ||e38d8ba8c9.71ffca393f.com^
 ||e4203cbfd3.ab73ad8e50.com^
 ||e484f19499.20f555d506.com^
 ||e48a2b1f3a.42e44b2b6e.com^
-||e499c9efbe.68728e8ec6.com^
 ||e4d5cdb482.3455f431fa.com^
 ||e507f24974.fa9b667e4e.com^
 ||e511cd4718.b719c1d1e8.com^
 ||e528be066f.97cc7b61f4.com^
+||e52ce591c2.cc6704bc32.com^
 ||e549d54579.40e82f6c27.com^
 ||e55899084c.0b73f85f92.com^
 ||e588190a1e.ac09f93506.com^
@@ -7909,7 +7908,6 @@
 ||enrgy.fwtrck.com^
 ||essential.awmcash.com^
 ||et.furivaeshotman.com^
-||et.harmoutguereza.com^
 ||eu.balletsbeep.com^
 ||eu.bassoonavatara.com^
 ||eu.fathomdns.com^
@@ -7924,8 +7922,11 @@
 ||ey.hiedflashed.com^
 ||ez.cannelcaimito.com^
 ||ez.slabbernorland.com^
+||eznoz.xyz^
 ||f.bloblohub.com^
+||f0070733b3.07c6b39b80.com^
 ||f0e89e989d.fe9d1c7a2c.com^
+||f10f656ffb.c083e24088.com^
 ||f217d2f8b9.bf18c2661e.com^
 ||f24ea3bf75.25ff18d2d5.com^
 ||f274f7cfa8.200088d4e2.com^
@@ -7985,6 +7986,7 @@
 ||fb42cfb166.5701b9f7a4.com^
 ||fb8265a483.a3595ccd38.com^
 ||fbb48d4863.c56e9a74e0.com^
+||fc56d67c2e.984335278d.com^
 ||fca4ef2b7a.539f346355.com^
 ||fd.peguanmistone.com^
 ||fd.rusheedeserve.com^
@@ -8013,6 +8015,7 @@
 ||ff0.guesswhatnews.com^
 ||ff1.bealanews.com^
 ||ff1.lookinews.com^
+||ff124d559b.81410d9609.com^
 ||ff3.bealanews.com^
 ||ff4.bealanews.com^
 ||ff5.bealanews.com^
@@ -8025,7 +8028,6 @@
 ||ff8.lookinews.com^
 ||ff9.bealanews.com^
 ||ff9bf52628.3b8784189a.com^
-||ffafb23ea4.bf34686748.com^
 ||fg.satraefreath.com^
 ||fg850ik01.6g0blqi1541polz4n0kjvwo1kjl5tcx30.xyz^
 ||fgnrtyntr.lookinews.com^
@@ -8036,6 +8038,7 @@
 ||filter-eu.adoperatorx.com^
 ||filter-eu.adright.co^
 ||filter-eu.adsupplyexchange.com^
+||filter-eu.adtube.media^
 ||filter-eu.adzestocp.com^
 ||filter-eu.bidforclicks.com^
 ||filter-eu.bidmyadz.com^
@@ -8231,7 +8234,6 @@
 ||flyingfish.editorslab.de^
 ||flyingfish.whoisrepresented.org^
 ||fm.ramouselong.com^
-||fn.deulspoorn.com^
 ||fo.irrisoranemone.com^
 ||forads.pro^
 ||fowl.saulhardman.com^
@@ -8329,6 +8331,7 @@
 ||gorilla.hakai.org^
 ||gorilla.physio-soft.com^
 ||goto.riseofthetide.xyz^
+||gp.feiriegershon.com^
 ||gp.splodgydossing.com^
 ||greenlight-val.looksmart.com^
 ||grouse.devopsnewsletters.com^
@@ -8427,7 +8430,6 @@
 ||hu.claspedammu.com^
 ||huanez.xyz^
 ||huewaix.xyz^
-||hunjoinz.pics^
 ||hutanz.xyz^
 ||hw.testulebottega.com^
 ||hx.relivesternar.com^
@@ -8457,6 +8459,7 @@
 ||ii.tiptoesstbd.com^
 ||ii.woolensulking.com^
 ||ijogkae.churchserviceplanner.co.uk^
+||ijs.selecttopoff.com^
 ||ijucr.justbokep.com^
 ||ik.nuraghireels.com^
 ||im.inciseclops.com^
@@ -8579,6 +8582,7 @@
 ||kingfisher.wishloom.com^
 ||kissjav.li.7mmtv.top^
 ||kissjav.li.jav-7mmtv.top^
+||kite.cardneyestate.co.uk^
 ||kite.devin.website^
 ||kite.ibirthdayclub.com^
 ||kite.kochie.io^
@@ -8801,11 +8805,9 @@
 ||mail.comune.jemonews.com^
 ||mail.comune.luronews.com^
 ||mail9.jemonews.com^
-||main.adxnow.com^
 ||main.exdynsrv.com^
 ||main.exoclick.com^
 ||main.exosrv.com^
-||main.optimizesrv.com^
 ||main.realsrv.com^
 ||main0.exosrv.com^
 ||maioux.xyz^
@@ -8825,6 +8827,7 @@
 ||management.adxnow.com^
 ||manatee.biodom.bio^
 ||manatee.creativepassport.net^
+||manboo.xyz^
 ||mandrill.castingcollective.net^
 ||mandrill.phiilu.com^
 ||mandrill.yellowfruit.co^
@@ -8864,7 +8867,6 @@
 ||mentuab.xyz^
 ||menui.xyz^
 ||meoem.lol^
-||messic.lol^
 ||metabuz.xyz^
 ||meyd.7mmtv.top^
 ||mf.collopantony.com^
@@ -8912,9 +8914,8 @@
 ||mouse.andrewstiefel.com^
 ||mouse.anthony-noel.com^
 ||mouse.botreach.co^
-||mp.ualisbaubles.com^
+||mp.arianatainos.com^
 ||mr.asitiazosters.com^
-||mrcoviu.pics^
 ||mrfantastic.gotdns.ch^
 ||mrkaito.xyz^
 ||mu.laplingskevish.com^
@@ -8931,6 +8932,7 @@
 ||mydomainbest.com^
 ||mydsp.waardex.com^
 ||mylives.xyz^
+||mziso.xyz^
 ||n.bloblohub.com^
 ||n.hnntube.com^
 ||n.reallifehentai.net^
@@ -9019,7 +9021,6 @@
 ||orangutan.renovare.org^
 ||orca.getnodo.com^
 ||orca.overbold.co^
-||orderz.lol^
 ||orznp.spinna.store^
 ||ostrich.getschools.org^
 ||ostrich.hegic-tokenizer.co^
@@ -9028,6 +9029,7 @@
 ||ot.myotomyarkab.com^
 ||otter.butika.fr^
 ||otter.emdegmbh.com^
+||otter.jetting.no^
 ||otter.preferredequineonline.com^
 ||ou.laoosmesis.com^
 ||ou.samogonmarvy.com^
@@ -9109,7 +9111,6 @@
 ||piranha.jsmobiledev.com^
 ||piranha.minnmyatsoe.com^
 ||pivo.tracked.one^
-||pizzazz.lol^
 ||pk.axitessubclei.com^
 ||pk.tawersasocial.com^
 ||planarian.614deals.com^
@@ -9202,19 +9203,18 @@
 ||py.dittanyambreic.com^
 ||python.casuallyprivate.com^
 ||python.jukejuke.app^
-||qatak.beauty^
 ||qb.falsenalice.com^
 ||qb.savorydult.com^
 ||qd.gibbarwaiting.com^
 ||qd.loathesentour.com^
 ||qe.notersmilks.com^
 ||qg.mangerydewrot.com^
+||qh.editormbiras.com^
 ||qhip.com^
 ||qj.humusesphren.com^
 ||qk.eyrarbuggers.com^
 ||ql.nudistwhitlow.com^
 ||qo.dunganof.com^
-||qoqv.com^
 ||qoutec.shop^
 ||qr.grogsprats.com^
 ||qr.heezyvedaism.com^
@@ -9249,7 +9249,6 @@
 ||rabbit.upwardhomes.net^
 ||raccoon.donateflow.com^
 ||raccoon.jaronheard.com^
-||ramosz.lol^
 ||rat.gimlet.io^
 ||raven.konquadrat.de^
 ||raven.vethelpdirect.com^
@@ -9639,7 +9638,6 @@
 ||salamander.yourownpay.com^
 ||salmon.literallife.church^
 ||salmon.thespiritualpsychologist.co.uk^
-||sameplace.lol^
 ||sansuni.xyz^
 ||sape.ngumaz.com^
 ||satmon.neekstore.com^
@@ -9759,6 +9757,7 @@
 ||sponsors.macaronikid.com^
 ||sponsors.oaklandcountymoms.com^
 ||sponsors.salesforceben.com^
+||sponsors.stateofdigitalpublishing.com^
 ||sponsors.teethtalkgirl.com^
 ||spoonbill.deknot.io^
 ||spoonbill.shawnprice.com^
@@ -9778,132 +9777,60 @@
 ||starman-new.fathomdns.com^
 ||starman.fathomdns.com^
 ||starman.usefathom.com^
-||static-analytics.nativeads.com^
 ||static-rtb.adhunter.media^
-||static-rtb.adksrv.com^
 ||static-rtb.engagesimply.com^
-||static-rtb.waardex.com^
-||static-rtb2.adpix.online^
-||static-rtb2.afkwa.com^
 ||static-rtb2.assemblyexchange.com^
-||static-rtb2.catapultx.com^
-||static-rtb2.convergeselect.net^
-||static-rtb2.demandzoo.com^
-||static-rtb2.e-volution.ai^
-||static-rtb2.jambojar.com^
 ||static-rtb2.marketiq.com^
-||static-rtb2.newchallenges-dsp.com^
 ||static-rtb2.onenativeads.com^
-||static-rtb2.programmatics.net^
-||static-rtb2.xaprio.net^
 ||static.100conversions.com^
-||static.ad-maven.com^
-||static.adcannyxml.com^
 ||static.adcy.net^
-||static.additionaldisplay.com^
 ||static.adflydsp.com^
-||static.adflyer.media^
 ||static.adhunter.media^
-||static.adjux.com^
-||static.admeridianads.com^
-||static.admidadsp.com^
-||static.admidainsight.com^
-||static.admozartppc.com^
-||static.admozartxml.com^
-||static.adokutcontextual.com^
-||static.adop.co^
-||static.adoperatorx.com^
 ||static.adoptim.com^
 ||static.adqva.com^
 ||static.adright.co^
 ||static.adright.com^
-||static.adsfloow.net^
-||static.adsolut.in^
 ||static.advlistings.com^
 ||static.adwooo.com^
-||static.adzestocp.com^
 ||static.amgadserver.com^
-||static.analytics.nativeads.com^
 ||static.anytheengmedia.com^
-||static.app-shake.com^
 ||static.arbigo.com^
 ||static.audiencesignal.com^
-||static.bidderleader.com^
 ||static.bliss91.com^
-||static.catapultx.com^
 ||static.clickmenia.com^
-||static.creativedot.net^
-||static.danarimedia.com^
-||static.denakop.com^
-||static.directrankcl.com^
-||static.displayio.cloud^
-||static.e-volution.ai^
-||static.epeex.com^
-||static.eureekkaa.com^
-||static.explorads.com^
 ||static.ezmob.com^
 ||static.fastdlx.net^
-||static.fastmtn.com^
 ||static.fastsearch.me^
-||static.foremedia.net^
 ||static.fstsrv1.com^
 ||static.fstsrv2.com^
 ||static.fstsrv3.com^
 ||static.fstsrv4.com^
 ||static.fstsrv5.com^
-||static.goodgamer.gg^
 ||static.hetcash.com^
-||static.hotmaracas.fun^
-||static.houseofpubs.com^
 ||static.hueads.com^
-||static.hueadsxml.com^
-||static.icyads.com^
-||static.imprexis.biz^
-||static.jadspro.live^
 ||static.landingtrk.com^
 ||static.looksmartppc.com^
 ||static.mediacpc.com^
-||static.mediahubserver.com^
 ||static.mediastinct.com^
 ||static.melozen.com^
-||static.mobipromote.com^
 ||static.online-adnetwork.com^
 ||static.openrtb.in^
-||static.outpush.net^
-||static.pdn-1.com^
-||static.plarimoplus.com^
-||static.pressize.com^
-||static.pressizeteam.com^
-||static.pulsefintech.net^
-||static.push-sense.com^
 ||static.pushub.net^
-||static.pwr-ads.com^
 ||static.qksrv.cc^
 ||static.qksrv1.com^
 ||static.readywind.media^
 ||static.realtime-bid.com^
-||static.reklama.network^
-||static.revrtb.com^
 ||static.rocoads.com^
 ||static.rtb-serve.com^
 ||static.rtbdemand.com^
 ||static.rtbidhost.com^
-||static.rtbserve.io^
 ||static.rtbwire.com^
-||static.saturndynamic.pt^
 ||static.serverhost1.com^
 ||static.showcasead.com^
 ||static.theardent.group^
 ||static.topdealad.com^
-||static.topsolutionsmedia.com^
-||static.trafficmoose.com^
 ||static.tris.com^
-||static.userwave.com^
-||static.webmedxml.com^
-||static.win-bidding.com^
-||static.xmlppc.net^
 ||static.xrtb.io^
-||static.zeusadx.com^
 ||static.zmdvideo.com^
 ||staticz.hotpornfile.org^
 ||stepfantasy.art^
@@ -10002,7 +9929,6 @@
 ||takin.bottlebeagle.com^
 ||takin.dripmacetas.com^
 ||takin.revolana.fr^
-||talamk3.beauty^
 ||tankiuz.xyz^
 ||tapir.lindahlstudios.com^
 ||tarantula.emotionalbaking.com^
@@ -10218,6 +10144,7 @@
 ||webpush.pushub.net^
 ||webpush.reachyield.com^
 ||webpush.resultsmedia.com^
+||wg.clagssyria.com^
 ||wh.dabbyfather.com^
 ||whale.gdebrauwer.dev^
 ||whippet.ianglover.com^
@@ -10285,6 +10212,7 @@
 ||woodpecker.binario11.de^
 ||woodpecker.ember.ly^
 ||woodpecker.groupe-montagne.ch^
+||woodpecker.mikehalliday.com^
 ||woodpecker.seabits.com^
 ||worm.discover-culture.com^
 ||worm.usephantom.com^
@@ -10359,6 +10287,7 @@
 ||www.3777.jemonews.com^
 ||www.3815579.notify6.com^
 ||www.3881818.notify6.com^
+||www.4065194.notify6.com^
 ||www.4152316.notify6.com^
 ||www.4189.rookinews.com^
 ||www.4195.reminews.com^
@@ -10643,6 +10572,7 @@
 ||www.ads.mediastinct.com^
 ||www.adxhand.icu^
 ||www.antiadblock.info^
+||www.b.hubhubhub.name^
 ||www.bigboy.monster^
 ||www.bliss91.com^
 ||www.bloblohub.com^
@@ -10657,8 +10587,8 @@
 ||www.ir8.lookinews.com^
 ||www.javtvnow.xyz^
 ||www.jj5.lookinews.com^
-||www.letstry69.xyz^
 ||www.looksmartppc.com^
+||www.monsoonlassi.com^
 ||www.nativexml.com^
 ||www.notify.bizonads-ssp.com^
 ||www.notify6.com^
@@ -10675,7 +10605,6 @@
 ||www.spinna.xyz^
 ||www.stork.notlessbutbetter.com^
 ||www.uk.boffinsoft.com^
-||www.valornutricional.cc^
 ||www.vashoot.com^
 ||www.w00t.us^
 ||www.zqwe.ru^

@@ -6,10 +6,12 @@
 ||00f62a6f1c.8f0f3b8464.com^
 ||01b8624b69.d821929e2d.com^
 ||022e699eb8.0497496f94.com^
+||027c544b22.70b4723db6.com^
 ||02acc7c99a.0a40c2b172.com^
 ||04183538bf.639707f501.com^
 ||04655ba7cf.63383900e0.com^
 ||052d3c5276.875413cfaf.com^
+||05415e502d.0c15ee8124.com^
 ||060ec415b9.15d3c0325b.com^
 ||074cc5d98c.6350e10f3a.com^
 ||082c013e7b.9a876646fa.com^
@@ -131,7 +133,6 @@
 ||5a422ed4a1.7f287eed6d.com^
 ||5a841fa92e.5ee782a4d9.com^
 ||5a8545631e.47500e7317.com^
-||5ab760da26.bf34686748.com^
 ||5d4e559c09.4250665e93.com^
 ||5e90a3a3f8.85d9d90c71.com^
 ||5ea8f33fb6.61c6379963.com^
@@ -144,6 +145,7 @@
 ||62cfc0b462.5a46641450.com^
 ||62eddc0f6a.f984e0d579.com^
 ||62ffd2f212.cfe8fd831d.com^
+||633d3edac4.7b494b2884.com^
 ||6381b70b69.4a08d2ff2c.com^
 ||63b41fa702.81a3bb38fb.com^
 ||64ff5ac46a.5f1202853b.com^
@@ -185,6 +187,7 @@
 ||7b4927c8f2.373c93bba1.com^
 ||7b72e40059.4e5d31aaea.com^
 ||7d6e3e04ac.6580789546.com^
+||7d8f4c4c3d.bca286d743.com^
 ||7db3723e5c.59afb8cbf9.com^
 ||7defd8a46e.fc441dccf1.com^
 ||7ee6aa4a84.102168588b.com^
@@ -228,8 +231,10 @@
 ||9b0798654a.5a2d208cea.com^
 ||9b78a94832.d7a3781a4b.com^
 ||9cd589fd54.86b1722d8e.com^
+||9ce6218dd9.46d236df2c.com^
 ||9d844b1143.7f00f312e5.com^
 ||9e4a8a6859.1f031f585b.com^
+||9e635b1caf.4afa370227.com^
 ||9e813c2770.3227a4c431.com^
 ||9ea415bca3.0816086bd1.com^
 ||9fd272d79c.2f16d429ce.com^
@@ -240,9 +245,11 @@
 ||a9c3a4315a.59e15e749d.com^
 ||a9d40d3ddf.7811f1c9ec.com^
 ||ac8b9eaf81.db2f8e1acc.com^
+||ac91c791af.33508a34c3.com^
 ||acb1c4e96e.41033fcd44.com^
 ||ae24dd5f87.e9c576b358.com^
 ||af158e4bd8.7b39be508c.com^
+||af32b1a3d4.c3ffbe5534.com^
 ||af4b7a0c7f.45136f1b12.com^
 ||b06462f6f9.a2e137d716.com^
 ||b34760008c.8def8c352d.com^
@@ -341,7 +348,7 @@
 ||ff18e0b495.eeecc0e343.com^
 ||ff6840b5f0.338d2db673.com^
 ||a135.wftv.com^
-||mlive.share.ntv.io^
+||made-in.share.ntv.io^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 ||0d9b072dfd.69c28fb7f4.com^
@@ -378,6 +385,7 @@
 ||ksn.share.ntv.io^
 ||littlethings.share.ntv.io^
 ||miamiherald.share.ntv.io^
+||mlive.share.ntv.io^
 ||mortgagesolutions.share.ntv.io^
 ||motortrend.share.ntv.io^
 ||mynorthwest.share.ntv.io^

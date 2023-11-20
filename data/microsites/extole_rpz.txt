@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,7 +22,6 @@ ilove.volusion.com CNAME .
 indique.phooto.com.br CNAME .
 invite.toughmudder.com CNAME .
 refer-a-friend.trivantis.com CNAME .
-refer.aaas.org CNAME .
 refer.accountants.intuit.com CNAME .
 refer.ahsfriends.com CNAME .
 refer.alliedcash.com CNAME .
@@ -47,6 +46,7 @@ refer.clearme.com CNAME .
 refer.compexusa.com CNAME .
 refer.criquetshirts.com CNAME .
 refer.crystallight.com CNAME .
+refer.custudentloans.org CNAME .
 refer.discover.com CNAME .
 refer.divvybikes.com CNAME .
 refer.dna.ancestry.co.uk CNAME .
@@ -138,7 +138,7 @@ www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em3904.skillshare.com CNAME .
+em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -296,6 +296,7 @@ refer.lendingclub.com CNAME .
 refer.lenscrafters.com CNAME .
 refer.lightstream.com CNAME .
 refer.littlepassports.com CNAME .
+refer.loansbyworld.com CNAME .
 refer.loomandleaf.com CNAME .
 refer.lull.com CNAME .
 refer.lumenoptical.com CNAME .
@@ -443,6 +444,7 @@ share.baiconnect.com CNAME .
 share.basepaws.com CNAME .
 share.battlecreekenquirer.com CNAME .
 share.beaspermdonor.com CNAME .
+share.beringer.com CNAME .
 share.biblejourney.com CNAME .
 share.bjs.com CNAME .
 share.boden.co.uk CNAME .
@@ -468,6 +470,7 @@ share.cheaperthandirt.net CNAME .
 share.chewsidental.com CNAME .
 share.cityfurniture.com CNAME .
 share.cluballiance.aaa.com CNAME .
+share.coloradoan.com CNAME .
 share.columbiacu.org CNAME .
 share.commercialappeal.com CNAME .
 share.conceiveabilities.com CNAME .
@@ -557,6 +560,7 @@ share.myq.com CNAME .
 share.newarkadvocate.com CNAME .
 share.newtonbaby.com CNAME .
 share.ngfcu.us CNAME .
+share.northjersey.com CNAME .
 share.novig.us CNAME .
 share.obagi.com CNAME .
 share.olivegarden.com CNAME .
@@ -583,6 +587,7 @@ share.refer-aveda.com CNAME .
 share.refer-aveda.jp CNAME .
 share.refer-bumbleandbumble.co.uk CNAME .
 share.refer-bumbleandbumble.com CNAME .
+share.refer-clinique.com CNAME .
 share.refer-darphin.com CNAME .
 share.refer-darphin.fr CNAME .
 share.refer-esteelauder.ca CNAME .
@@ -659,6 +664,7 @@ share.vonage.com CNAME .
 share.wagwalking.com CNAME .
 share.walmartmoneycard.com CNAME .
 share.wecohospitality.com CNAME .
+share.whiparound.com CNAME .
 share.whistle.com CNAME .
 share.wisdompanel.com CNAME .
 share.wombatinvest.com CNAME .
@@ -668,8 +674,8 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
+em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 sftp.extole.com CNAME .

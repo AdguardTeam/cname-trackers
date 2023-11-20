@@ -527,7 +527,6 @@
 ||stats.engeldirekt.de^
 ||stats.engineering.freeagent.com^
 ||stats.equium.io^
-||stats.erbridge.co.uk^
 ||stats.erikinthekitchen.com^
 ||stats.erlef.org^
 ||stats.evenchilada.com^
@@ -711,6 +710,7 @@
 ||stats.meno.science^
 ||stats.mesenvies.fr^
 ||stats.michaeloliver.dev^
+||stats.micv.works^
 ||stats.missionrabies.com^
 ||stats.mostlycoding.com.au^
 ||stats.motion-effect.com^
@@ -718,6 +718,7 @@
 ||stats.mrtnvh.com^
 ||stats.multiplelenses.com^
 ||stats.multiply.cloud^
+||stats.musicuniverse.education^
 ||stats.myherocard.com^
 ||stats.napaconnect.ca^
 ||stats.navedislam.com^
@@ -821,7 +822,6 @@
 ||stats.revitfamily.app^
 ||stats.rideinpeace.ie^
 ||stats.rightourhistoryhawaii.com^
-||stats.rivoq.com^
 ||stats.robhope.com^
 ||stats.robotika.ax^
 ||stats.rocketvalidator.com^
@@ -934,6 +934,7 @@
 ||stats.visions.ch^
 ||stats.voedingskussen.net^
 ||stats.voltamediahouse.com^
+||stats.voltimum.com^
 ||stats.wachstum.at^
 ||stats.wafflemeido.art^
 ||stats.walkiees.co.uk^
@@ -953,7 +954,6 @@
 ||stats.wymanmobilenotary.com^
 ||stats.xactcode.com^
 ||stats.xn--antnio-dxa.pt^
-||stats.xn--drivation-b4a.fr^
 ||stats.yourdallashandyman.com^
 ||stats.zimri.net^
 ||statystyki.ekspertyzy-szkolenia.pl^

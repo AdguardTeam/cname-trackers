@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -975,6 +975,7 @@ a.advertrek.com CNAME .
 a.asvsm.com CNAME .
 a.bizonads-ssp.com CNAME .
 a.etology.com CNAME .
+a.optimizesrv.com CNAME .
 a.paradoxgroup.uk CNAME .
 a.redpathmedia.com CNAME .
 a.rocoads.net CNAME .
@@ -985,6 +986,7 @@ admin.ad.guru CNAME .
 admin.adnation.com CNAME .
 admin.adstuff.io CNAME .
 admin.etology.com CNAME .
+admin.exoclick.com CNAME .
 admin.gettopple.com CNAME .
 admin.shafttraffic.com CNAME .
 api.adnation.com CNAME .
@@ -994,11 +996,9 @@ click.advertrek.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 m.hue2m.com CNAME .
-main.adxnow.com CNAME .
 main.exdynsrv.com CNAME .
 main.exoclick.com CNAME .
 main.exosrv.com CNAME .
-main.optimizesrv.com CNAME .
 main.realsrv.com CNAME .
 main0.exosrv.com CNAME .
 management-addisplaynetwork.exads.com CNAME .
@@ -1115,6 +1115,7 @@ www.3254306.notifysrv.com CNAME .
 www.3466863.notify6.com CNAME .
 www.3815579.notify6.com CNAME .
 www.3881818.notify6.com CNAME .
+www.4065194.notify6.com CNAME .
 www.4152316.notify6.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .

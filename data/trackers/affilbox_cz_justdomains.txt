@@ -381,6 +381,7 @@ my.top4running.sk
 my.top4sport.cz
 my.top4sport.hu
 my.top4sport.ro
+my.volleybaldirect.nl
 my.weplaybasketball.bg
 my.weplaybasketball.cz
 my.weplaybasketball.ee
@@ -396,6 +397,7 @@ my.weplayhandball.de
 my.weplayhandball.eu
 my.weplayhandball.gr
 my.weplayhandball.hu
+my.weplayhandball.nl
 my.weplayhandball.ro
 my.weplayhandball.si
 my.weplayhandball.sk
@@ -503,7 +505,6 @@ partner.energiezivota.com
 partner.epravo.cz
 partner.eshop-gyorsan.hu
 partner.eshop-rodas.cz
-partner.esportacademy.cz
 partner.evolutionhub.cz
 partner.expertnavlasy.sk
 partner.expresmenu.com
@@ -523,7 +524,6 @@ partner.granule-eshop.cz
 partner.gurufinance.cz
 partner.hanamoneam.com
 partner.hegesztok-bolt.hu
-partner.hemptor.cz
 partner.hodinarstvi.cz
 partner.hoska-tour.cz
 partner.hothousecucumber.com
@@ -565,9 +565,11 @@ partner.liberec-ubytovani.cz
 partner.lidajirickova.cz
 partner.lifetest.eu
 partner.ligsuniversity.cz
+partner.lorooro.com
 partner.ltx.cz
 partner.luckyalvin.cz
 partner.lyzelyze.cz
+partner.madio.cz
 partner.malujpodlecisel.cz
 partner.marspom.cz
 partner.martinreznicek.cz
@@ -764,6 +766,7 @@ partneri.monikakorinkova.cz
 partneri.motmot.cz
 partneri.mrblast.eu
 partneri.muzeslepe.cz
+partneri.mydlatamara.sk
 partneri.nabytek-natali.cz
 partneri.naenergie.cz
 partneri.natu.cz

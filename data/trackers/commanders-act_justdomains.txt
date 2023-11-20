@@ -8,7 +8,6 @@ data.decathlon.fr
 data.decathlon.pl
 data.ouigo.com
 data.ricaud.com
-data.ubi.com
 data.wptag.net
 logger.yp.ca
 sales.disneylandparis.com
@@ -21,4 +20,5 @@ tcdata.fnac.com
 configure.adlermode.com
 data.auchandirect.fr
 data.decathlon.it
+data.ubi.com
 tc.europcar.de

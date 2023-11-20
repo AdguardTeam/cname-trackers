@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -538,7 +538,6 @@ stats.engel-apotheke.de CNAME .
 stats.engeldirekt.de CNAME .
 stats.engineering.freeagent.com CNAME .
 stats.equium.io CNAME .
-stats.erbridge.co.uk CNAME .
 stats.erikinthekitchen.com CNAME .
 stats.erlef.org CNAME .
 stats.evenchilada.com CNAME .
@@ -722,6 +721,7 @@ stats.memberdrive.org CNAME .
 stats.meno.science CNAME .
 stats.mesenvies.fr CNAME .
 stats.michaeloliver.dev CNAME .
+stats.micv.works CNAME .
 stats.missionrabies.com CNAME .
 stats.mostlycoding.com.au CNAME .
 stats.motion-effect.com CNAME .
@@ -729,6 +729,7 @@ stats.motorcyclepartsireland.ie CNAME .
 stats.mrtnvh.com CNAME .
 stats.multiplelenses.com CNAME .
 stats.multiply.cloud CNAME .
+stats.musicuniverse.education CNAME .
 stats.myherocard.com CNAME .
 stats.napaconnect.ca CNAME .
 stats.navedislam.com CNAME .
@@ -832,7 +833,6 @@ stats.retro.cz CNAME .
 stats.revitfamily.app CNAME .
 stats.rideinpeace.ie CNAME .
 stats.rightourhistoryhawaii.com CNAME .
-stats.rivoq.com CNAME .
 stats.robhope.com CNAME .
 stats.robotika.ax CNAME .
 stats.rocketvalidator.com CNAME .
@@ -945,6 +945,7 @@ stats.vican.me CNAME .
 stats.visions.ch CNAME .
 stats.voedingskussen.net CNAME .
 stats.voltamediahouse.com CNAME .
+stats.voltimum.com CNAME .
 stats.wachstum.at CNAME .
 stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .
@@ -964,7 +965,6 @@ stats.www.agirpourlenvironnement.org CNAME .
 stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .
 stats.xn--antnio-dxa.pt CNAME .
-stats.xn--drivation-b4a.fr CNAME .
 stats.yourdallashandyman.com CNAME .
 stats.zimri.net CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .

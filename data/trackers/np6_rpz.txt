@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -244,7 +244,6 @@ tr.contact.cerel.net CNAME .
 tr.contact.cereps.fr CNAME .
 tr.contact.e-turf.fr CNAME .
 tr.contact.lead.eu.com CNAME .
-tr.contact.leadsonline.fr CNAME .
 tr.contact.lvmh.fr CNAME .
 tr.contact.makemelead.com CNAME .
 tr.contact.makemelead.info CNAME .
@@ -390,7 +389,6 @@ tr.eulerhermes.com CNAME .
 tr.ev001.net CNAME .
 tr.evenements.inpi.fr CNAME .
 tr.expresofferte.be CNAME .
-tr.fexemail.com CNAME .
 tr.fg3p.espmp-cufr.net CNAME .
 tr.fidal.pro CNAME .
 tr.fidalformation.pro CNAME .
@@ -572,6 +570,7 @@ tr.macarte.truffaut.com CNAME .
 tr.mail-companeo.fr CNAME .
 tr.mail.cdiscount.com.ec CNAME .
 tr.mail.cdiscount.com.pa CNAME .
+tr.mail.digitalpjms.fr CNAME .
 tr.mail.enviedebienmanger.fr CNAME .
 tr.mail.floa.fr CNAME .
 tr.mail.hagerservices.fr CNAME .
@@ -666,7 +665,6 @@ tr.news-companeo.pl CNAME .
 tr.news-dfc.sciences-po.fr CNAME .
 tr.news-fr.perfectstay.com CNAME .
 tr.news-ingerop.com CNAME .
-tr.news-sncm.fr CNAME .
 tr.news.a-t.fr CNAME .
 tr.news.a2micile.com CNAME .
 tr.news.accessmastertour.com CNAME .
@@ -734,7 +732,6 @@ tr.news.glance-mediametrie.com CNAME .
 tr.news.grandsmoulinsdeparis.com CNAME .
 tr.news.groupe-armonia.com CNAME .
 tr.news.hallobanden.be CNAME .
-tr.news.hallobanden.nl CNAME .
 tr.news.happycap.org CNAME .
 tr.news.helvyre.fr CNAME .
 tr.news.heredis.com CNAME .
@@ -828,6 +825,7 @@ tr.newsletter-habitat.com CNAME .
 tr.newsletter-stressless.com CNAME .
 tr.newsletter-wonderbox.com CNAME .
 tr.newsletter.1664france.fr CNAME .
+tr.newsletter.1oag.com CNAME .
 tr.newsletter.actalians.fr CNAME .
 tr.newsletter.afpa.fr CNAME .
 tr.newsletter.assuragency.net CNAME .

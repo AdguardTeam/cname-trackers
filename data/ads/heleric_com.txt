@@ -85,7 +85,6 @@
 ||em.curnberthed.com^
 ||em.gangerburler.com^
 ||et.furivaeshotman.com^
-||et.harmoutguereza.com^
 ||eu.balletsbeep.com^
 ||eu.bassoonavatara.com^
 ||eu.jerkytaste.com^
@@ -105,7 +104,6 @@
 ||fj.patencydaimiel.com^
 ||fk.oaklikespiers.com^
 ||fm.ramouselong.com^
-||fn.deulspoorn.com^
 ||fo.irrisoranemone.com^
 ||fs.fogramokayed.com^
 ||fs.velellabudded.com^
@@ -121,6 +119,7 @@
 ||go.cordelgront.com^
 ||go.jazygesunoared.com^
 ||go.loorydewdrop.com^
+||gp.feiriegershon.com^
 ||gp.splodgydossing.com^
 ||gs.profrebecca.com^
 ||gt.unurnedbeleve.com^
@@ -220,7 +219,7 @@
 ||mi.bettingbulbous.com^
 ||mi.gaywayperkish.com^
 ||mj.mucinplanks.com^
-||mp.ualisbaubles.com^
+||mp.arianatainos.com^
 ||mr.asitiazosters.com^
 ||mu.laplingskevish.com^
 ||mu.plateryamaine.com^
@@ -271,6 +270,7 @@
 ||qd.loathesentour.com^
 ||qe.notersmilks.com^
 ||qg.mangerydewrot.com^
+||qh.editormbiras.com^
 ||qj.humusesphren.com^
 ||qk.eyrarbuggers.com^
 ||ql.nudistwhitlow.com^
@@ -395,6 +395,7 @@
 ||wd.dimcarnie.com^
 ||wd.towmonterses.com^
 ||we.noonsderider.com^
+||wg.clagssyria.com^
 ||wh.dabbyfather.com^
 ||wi.cohereseugene.com^
 ||wj.acrevenene.com^

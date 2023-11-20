@@ -4,7 +4,6 @@
 
 * extole.com
     * aaamid-atlantic.extole.com
-    * aaas-ssl.extole.com
     * aeropostale.extole.com
     * ahs.extole.com
     * alliedcash.extole.com
@@ -29,6 +28,7 @@
     * compexusa.extole.com
     * criquetshirts.extole.com
     * crystallight-ssl.extole.com
+    * custudentloans.extole.com
     * d.extole.com
     * discover.extole.com
     * divvybikes.extole.com
@@ -219,6 +219,7 @@
     * clarksusa.extole.io
     * cle-de-peau.extole.io
     * clevelandgolf.extole.io
+    * clinique.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -298,6 +299,7 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -360,6 +362,7 @@
     * lightstream.extole.io
     * little-passports.extole.io
     * livongo.extole.io
+    * loansbyworld.extole.io
     * lovesac.extole.io
     * lull.extole.io
     * lumen-optical.extole.io
@@ -465,7 +468,6 @@
     * signals.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
-    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -539,6 +541,7 @@
     * walmartmoneycard.extole.io
     * wearesouthwind.extole.io
     * wecohospitality.extole.io
+    * whiparound.extole.io
     * whistle.extole.io
     * whitehouseblackmarket.extole.io
     * windsor.extole.io
@@ -572,7 +575,6 @@
 | share.4wheelparts.com | 4wheelparts.extole.io |
 | share.cluballiance.aaa.com | aaaeagles.extole.io |
 | refer.midatlantic.aaa.com | aaamid-atlantic.extole.com |
-| refer.aaas.org | aaas-ssl.extole.com |
 | refer.abacusnext.com | abacusnext.extole.io |
 | refer.acornonline.com | acornonline.extole.io |
 | share.staging.acorns.io | acorns-sandbox.extole.io |
@@ -699,6 +701,7 @@
 | referral.cledepeaubeaute.com | cle-de-peau.extole.io |
 | refer.clearme.com | clearme-ssl.extole.com |
 | share.dunlopsports.com | clevelandgolf.extole.io |
+| share.refer-clinique.com | clinique.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -717,6 +720,7 @@
 | refer.criquetshirts.com | criquetshirts.extole.com |
 | refer.crocs.com | crocs.extole.io |
 | refer.crystallight.com | crystallight-ssl.extole.com |
+| refer.custudentloans.org | custudentloans.extole.com |
 | refer-photo.cvs.com | cvs.extole.io |
 | share.cwbank.com | cwbank.extole.io |
 | ilove.volusion.com | d.extole.com |
@@ -790,6 +794,7 @@
 | share.azcentral.com | gannett.extole.io |
 | share.battlecreekenquirer.com | gannett.extole.io |
 | share.caller.com | gannett.extole.io |
+| share.coloradoan.com | gannett.extole.io |
 | share.commercialappeal.com | gannett.extole.io |
 | share.courierpostonline.com | gannett.extole.io |
 | share.delawareonline.com | gannett.extole.io |
@@ -806,6 +811,7 @@
 | share.mansfieldnewsjournal.com | gannett.extole.io |
 | share.montgomeryadvertiser.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
+| share.northjersey.com | gannett.extole.io |
 | share.patriotledger.com | gannett.extole.io |
 | share.pnj.com | gannett.extole.io |
 | share.poughkeepsiejournal.com | gannett.extole.io |
@@ -842,6 +848,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -932,6 +939,7 @@
 | refer.lightstream.com | lightstream.extole.io |
 | refer.littlepassports.com | little-passports.extole.io |
 | share.livongo.com | livongo.extole.io |
+| refer.loansbyworld.com | loansbyworld.extole.io |
 | share.lovesac.com | lovesac.extole.io |
 | refer.luckyvitamin.com | luckyvitamin.extole.com |
 | get.lull.com | lull.extole.io |
@@ -1091,7 +1099,6 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
-| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1162,6 +1169,7 @@
 | share.travelzoo.com | travelzoo.extole.io |
 | share.truckstop.com | truckstop.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
+| share.beringer.com | tweglobal.extole.io |
 | share.bvwines.com | tweglobal.extole.io |
 | share.stagsleap.com | tweglobal.extole.io |
 | refer.twisthair.com | twisthair.extole.io |
@@ -1209,6 +1217,7 @@
 | www.trevoce.com | web-tool-qa.lb.extole.com |
 | share.wecohospitality.com | wecohospitality.extole.io |
 | refer.wgu.edu | wgu.extole.com |
+| share.whiparound.com | whiparound.extole.io |
 | share.whistle.com | whistle.extole.io |
 | refer.whitehouseblackmarket.com | whitehouseblackmarket.extole.io |
 | share.wimp.no | wimp.extole.com |

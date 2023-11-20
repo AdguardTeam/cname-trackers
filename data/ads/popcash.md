@@ -54,6 +54,7 @@
 | sponsors.macaronikid.com | bs-adserver.b-cdn.net |
 | sponsors.oaklandcountymoms.com | bs-adserver.b-cdn.net |
 | sponsors.salesforceben.com | bs-adserver.b-cdn.net |
+| sponsors.stateofdigitalpublishing.com | bs-adserver.b-cdn.net |
 | sponsors.teethtalkgirl.com | bs-adserver.b-cdn.net |
 | support-v2.sweetwaternow.com | bs-adserver.b-cdn.net |
 | consent.cookiefirst.com | consent.b-cdn.net |
@@ -207,7 +208,6 @@
 | canid.peterakkies.net | deprecated-custom-domains.b-cdn.net |
 | canidae.collectingsocialphoto.org | deprecated-custom-domains.b-cdn.net |
 | canidae.fidum.uk | deprecated-custom-domains.b-cdn.net |
-| capybara.bell0bytes.eu | deprecated-custom-domains.b-cdn.net |
 | capybara.civicsoftwarefoundation.org | deprecated-custom-domains.b-cdn.net |
 | capybara.randyhamiltonelectric.com | deprecated-custom-domains.b-cdn.net |
 | cardinal.businessfirstonline.co.uk | deprecated-custom-domains.b-cdn.net |
@@ -244,7 +244,6 @@
 | catshark.janetalexandersson.com | deprecated-custom-domains.b-cdn.net |
 | catshark.spur.design | deprecated-custom-domains.b-cdn.net |
 | cattle.apisyouwonthate.com | deprecated-custom-domains.b-cdn.net |
-| cattle.domaincomet.com | deprecated-custom-domains.b-cdn.net |
 | cattle.driftbot.io | deprecated-custom-domains.b-cdn.net |
 | cattle.elitecanines.com.au | deprecated-custom-domains.b-cdn.net |
 | cattle.eprc.tools | deprecated-custom-domains.b-cdn.net |
@@ -570,6 +569,7 @@
 | kingfisher.gedaly.com | deprecated-custom-domains.b-cdn.net |
 | kingfisher.startupdemoday.live | deprecated-custom-domains.b-cdn.net |
 | kingfisher.wishloom.com | deprecated-custom-domains.b-cdn.net |
+| kite.cardneyestate.co.uk | deprecated-custom-domains.b-cdn.net |
 | kite.devin.website | deprecated-custom-domains.b-cdn.net |
 | kite.ibirthdayclub.com | deprecated-custom-domains.b-cdn.net |
 | kite.kochie.io | deprecated-custom-domains.b-cdn.net |
@@ -745,6 +745,7 @@
 | ostrich.scd-rv.com.au | deprecated-custom-domains.b-cdn.net |
 | otter.butika.fr | deprecated-custom-domains.b-cdn.net |
 | otter.emdegmbh.com | deprecated-custom-domains.b-cdn.net |
+| otter.jetting.no | deprecated-custom-domains.b-cdn.net |
 | otter.preferredequineonline.com | deprecated-custom-domains.b-cdn.net |
 | owl.gregwolanski.com | deprecated-custom-domains.b-cdn.net |
 | owl.heidipay.com | deprecated-custom-domains.b-cdn.net |
@@ -1072,6 +1073,7 @@
 | woodpecker.binario11.de | deprecated-custom-domains.b-cdn.net |
 | woodpecker.ember.ly | deprecated-custom-domains.b-cdn.net |
 | woodpecker.groupe-montagne.ch | deprecated-custom-domains.b-cdn.net |
+| woodpecker.mikehalliday.com | deprecated-custom-domains.b-cdn.net |
 | woodpecker.seabits.com | deprecated-custom-domains.b-cdn.net |
 | worm.discover-culture.com | deprecated-custom-domains.b-cdn.net |
 | worm.usephantom.com | deprecated-custom-domains.b-cdn.net |
@@ -1119,6 +1121,7 @@
 | cdn.genfpm.com | popcashjs.b-cdn.net |
 | cdn.gocolow.com | popcashjs.b-cdn.net |
 | cdn.hqwa.xyz | popcashjs.b-cdn.net |
+| cdn.ianjumb.com | popcashjs.b-cdn.net |
 | cdn.iople.com | popcashjs.b-cdn.net |
 | cdn.isgost.com | popcashjs.b-cdn.net |
 | cdn.jandaqwe.com | popcashjs.b-cdn.net |
@@ -1153,6 +1156,7 @@
 | cdn.srxy.xyz | popcashjs.b-cdn.net |
 | cdn.sslph.com | popcashjs.b-cdn.net |
 | cdn.syinga.com | popcashjs.b-cdn.net |
+| cdn.timsef.com | popcashjs.b-cdn.net |
 | cdn.ulesxbo.com | popcashjs.b-cdn.net |
 | cdn.viowrel.com | popcashjs.b-cdn.net |
 | cdn.wwfx.xyz | popcashjs.b-cdn.net |

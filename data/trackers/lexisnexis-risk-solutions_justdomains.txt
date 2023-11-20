@@ -3,7 +3,6 @@
 1bf86f4b.tictoc.ai
 1of1.skipcash.app
 acdc.toolineo.de
-acsrt.cardnet-tds.com
 acsweb-3dr1.dnp-cdms.jp
 af.mobile.free.fr
 analytics.amrcollection.com
@@ -83,6 +82,7 @@ cdna.ecommerce.cofidis.it
 cdna.jpay.com
 cdna.kpers.org
 cdna.lottohelden.de
+cdna.moncofidispro.fr
 cdna.paiement.cofidis.fr
 cdna.paymentncb.cofidis.es
 cdna.paymentncb.cofidis.fr
@@ -127,6 +127,7 @@ cfa.fidelity.com
 cfa.mystreetscape.com
 cfa.streetscape.com
 cfaxdev2.fidelity.com
+cfaxq.advisorchannel.com
 cfaxq1.fidelity.com
 cfaxq2.fidelity.com
 channel.rakbankonline.ae
@@ -160,6 +161,7 @@ cnt2.bank.za.group
 compliance.mohegansuncasino.com
 compliance.resortscasino.com
 contendvc.cnouyi.pizza
+content-tix.topi.eu
 content-uk.fundingcircle.com
 content.addisonlee.com
 content.ageas.co.uk
@@ -288,6 +290,8 @@ content.ssctech.com
 content.sso.tracesmart.co.uk
 content.tab.com.au
 content.telusinternational.ai
+content.tfbank.at
+content.tfbank.de
 content.usps.com
 content.varetire.org
 content.vi.gov
@@ -464,6 +468,7 @@ img02.pensionfund.org
 img1.bog.ge
 img2.avant.com
 img2.bog.ge
+img2.everbank.com
 img2.otto.nl
 img2.paywithmybank.com
 img2.prosper.com
@@ -619,6 +624,7 @@ prod-uecupa.chaperone.lumindigitalhosting.com
 prod-uiccuil.chaperone.lumindigitalhosting.com
 prod-university.chaperone.lumindigitalhosting.com
 prod-usalliance.chaperone.lumindigitalhosting.com
+prod-useagle.chaperone.lumindigitalhosting.com
 prod-utenn.chaperone.lumindigitalhosting.com
 prod-vantage.chaperone.lumindigitalhosting.com
 prod-vsecuvt.chaperone.lumindigitalhosting.com
@@ -688,6 +694,7 @@ sec.hikaritv.net
 sec.lin101.mail.goo.ne.jp
 sec.login.mail.goo.ne.jp
 sec.login.ocn.ne.jp
+sec.login.sdnp.ntt.ocn.ne.jp
 sec.mypage.ntt.com
 sec.mypage.ocn.ne.jp
 sec.plala.or.jp
@@ -760,6 +767,7 @@ t.mydigital.jfcu.org
 t.olb.hawaiistatefcu.com
 t.olb.interracu.com
 t.online.acutx.org
+t.online.bankcfcu.org
 t.online.bankingonyoucu.org
 t.online.firstsouth.com
 t.online.fortfinancial.org
@@ -897,7 +905,6 @@ tmcontent.imvu.com
 tmcontent.meridiancu.ca
 tmcontent.motusbank.ca
 tmcontent.sixt.com
-tmetrix.my.chick-fil-a.com
 tmfp.klarna.com
 tmi.my529.org
 tmln.caesarscasino.com

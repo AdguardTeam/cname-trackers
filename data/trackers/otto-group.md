@@ -19,7 +19,6 @@
     * te-heine-de.oghub.io
     * te-heine-shop-nl.oghub.io
     * te-helline-fr.oghub.io
-    * te-imwalking-de.oghub.io
     * te-jelmoli-shop-ch.oghub.io
     * te-limango-de.oghub.io
     * te-mirapodo-de.oghub.io
@@ -66,8 +65,7 @@
     * tp-universal-at.oghub.io
     * tp-witt-international-cz.oghub.io
     * tp-witt-international-nl.oghub.io
-    * tp-witt-international-sk.oghub.io
-    * tp-witt-weiden-at.oghub.io
+    * tp-witt-weiden-ch.oghub.io
     * tp-witt-weiden-de.oghub.io
     * tp-yomonda-de.oghub.io
     * tp-your-look-for-less-nl.oghub.io
@@ -117,7 +115,6 @@
 | tp.witt-international.nl | js.oghub.io |
 | tp.witt-international.sk | js.oghub.io |
 | tp.witt-weiden.at | js.oghub.io |
-| tp.witt-weiden.at | js.oghub.io |
 | tp.witt-weiden.ch | js.oghub.io |
 | tp.witt-weiden.de | js.oghub.io |
 | tp.witt-weiden.de | js.oghub.io |
@@ -142,7 +139,6 @@
 | te.heine.de | te-heine-de.oghub.io |
 | te.heine-shop.nl | te-heine-shop-nl.oghub.io |
 | te.helline.fr | te-helline-fr.oghub.io |
-| te.imwalking.de | te-imwalking-de.oghub.io |
 | te.jelmoli-shop.ch | te-jelmoli-shop-ch.oghub.io |
 | te.limango.de | te-limango-de.oghub.io |
 | te.mirapodo.de | te-mirapodo-de.oghub.io |
@@ -183,7 +179,6 @@
 | te.heine.de | te.oghub.io |
 | te.heine.de | te.oghub.io |
 | te.helline.fr | te.oghub.io |
-| te.imwalking.de | te.oghub.io |
 | te.imwalking.de | te.oghub.io |
 | te.jelmoli-shop.ch | te.oghub.io |
 | te.limango.de | te.oghub.io |
@@ -235,8 +230,7 @@
 | tp.universal.at | tp-universal-at.oghub.io |
 | tp.witt-international.cz | tp-witt-international-cz.oghub.io |
 | tp.witt-international.nl | tp-witt-international-nl.oghub.io |
-| tp.witt-international.sk | tp-witt-international-sk.oghub.io |
-| tp.witt-weiden.at | tp-witt-weiden-at.oghub.io |
+| tp.witt-weiden.ch | tp-witt-weiden-ch.oghub.io |
 | tp.witt-weiden.de | tp-witt-weiden-de.oghub.io |
 | tp.yomonda.de | tp-yomonda-de.oghub.io |
 | tp.your-look-for-less.nl | tp-your-look-for-less-nl.oghub.io |

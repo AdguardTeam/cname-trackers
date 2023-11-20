@@ -320,6 +320,7 @@
 | a8.wizrecruitment.012grp.co.jp | trck.a8.net |
 | a8.woodlife.jp | trck.a8.net |
 | a8.worldikids.com | trck.a8.net |
+| a8.ws.job.career-tasu.jp | trck.a8.net |
 | a8.www.keurig.jp | trck.a8.net |
 | a8.www.melonbooks.co.jp | trck.a8.net |
 | a8.www.nicosuma.com | trck.a8.net |
@@ -616,6 +617,7 @@
 | a8clk.unionspo.com | trck.a8.net |
 | a8clk.unlace.net | trck.a8.net |
 | a8clk.ur-s.me | trck.a8.net |
+| a8clk.videocash.tv | trck.a8.net |
 | a8clk.voice-inc.co.jp | trck.a8.net |
 | a8clk.waq-online.com | trck.a8.net |
 | a8clk.web-camp.io | trck.a8.net |

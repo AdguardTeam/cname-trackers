@@ -4,6 +4,7 @@
 
 * online-metrix.net
     * citi.online-metrix.net
+    * h-1020poof.online-metrix.net
     * h-10kdwzzr.online-metrix.net
     * h-11b6fun8-bl.online-metrix.net
     * h-11b6fun8-wn.online-metrix.net
@@ -127,6 +128,7 @@
     * h-ameriprise.online-metrix.net
     * h-amount.online-metrix.net
     * h-amwager.online-metrix.net
+    * h-anai49qi.online-metrix.net
     * h-analytics.triseptsolutions.online-metrix.net
     * h-anfd5tjw-2.online-metrix.net
     * h-anfd5tjw-3.online-metrix.net
@@ -223,7 +225,6 @@
     * h-cgvf1sqx.online-metrix.net
     * h-charter.online-metrix.net
     * h-chase.online-metrix.net
-    * h-chickfila.online-metrix.net
     * h-chubb.online-metrix.net
     * h-cibc.online-metrix.net
     * h-cibcom.online-metrix.net
@@ -394,7 +395,6 @@
     * h-investorsbank.online-metrix.net
     * h-ipayment.online-metrix.net
     * h-ipp-services.online-metrix.net
-    * h-jcb.online-metrix.net
     * h-jenius.online-metrix.net
     * h-johnlewisfinance.online-metrix.net
     * h-joyobank.online-metrix.net
@@ -505,6 +505,7 @@
     * h-o5k4f14q.online-metrix.net
     * h-ocbc.online-metrix.net
     * h-ocbcbank.online-metrix.net
+    * h-ocnid-dev.online-metrix.net
     * h-ocnid.online-metrix.net
     * h-okcoin.online-metrix.net
     * h-okinushub.online-metrix.net
@@ -607,6 +608,7 @@
     * h-thumbtack.online-metrix.net
     * h-tiaa-cref-at-test.online-metrix.net
     * h-tiaa-cref.online-metrix.net
+    * h-tiaa.online-metrix.net
     * h-tm.bdc-cdn.com.online-metrix.net
     * h-tmrs.online-metrix.net
     * h-tmx.gotobilling.online-metrix.net
@@ -682,6 +684,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | content22.citi.com | citi.online-metrix.net |
+| content-tix.topi.eu | h-1020poof.online-metrix.net |
 | h.truist.com | h-10kdwzzr.online-metrix.net |
 | content.bankerslife.com | h-11b6fun8-bl.online-metrix.net |
 | content.washingtonnational.com | h-11b6fun8-wn.online-metrix.net |
@@ -736,6 +739,7 @@
 | prod-uiccuil.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-university.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-usalliance.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-useagle.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-utenn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-vantage.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-vsecuvt.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -782,6 +786,7 @@
 | cfa.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | cfa.mystreetscape.com | h-5h8i3ud8.online-metrix.net |
 | cfa.streetscape.com | h-5h8i3ud8.online-metrix.net |
+| cfaxq.advisorchannel.com | h-5h8i3ud8.online-metrix.net |
 | cfaxq1.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | cfaxq2.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
@@ -883,6 +888,8 @@
 | ocs.ameriprise.com | h-ameriprise.online-metrix.net |
 | im2.prod.amount.com | h-amount.online-metrix.net |
 | intm.amwager.com | h-amwager.online-metrix.net |
+| content.tfbank.at | h-anai49qi.online-metrix.net |
+| content.tfbank.de | h-anai49qi.online-metrix.net |
 | analytics.amrcollection.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.applevacations.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.beachbound.com | h-analytics.triseptsolutions.online-metrix.net |
@@ -1016,7 +1023,6 @@
 | content2.paywerk.co | h-cgvf1sqx.online-metrix.net |
 | pov.spectrum.net | h-charter.online-metrix.net |
 | h.chase.co.uk | h-chase.online-metrix.net |
-| tmetrix.my.chick-fil-a.com | h-chickfila.online-metrix.net |
 | rauth.chubb.com | h-chubb.online-metrix.net |
 | m-profiling.cibc.com | h-cibc.online-metrix.net |
 | m-profiling.simplii.com | h-cibc.online-metrix.net |
@@ -1068,6 +1074,7 @@
 | cdna.paymentncb.cofidis.es | h-cofidis-es.online-metrix.net |
 | cdna.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.cofidisforyou.fr | h-cofidis-payment.online-metrix.net |
+| cdna.moncofidispro.fr | h-cofidis-payment.online-metrix.net |
 | cdna.paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.paymentncb.cofidis.fr | h-cofidis-payment.online-metrix.net |
 | cdna.rqt-paiement.cofidis.fr | h-cofidis-payment.online-metrix.net |
@@ -1270,7 +1277,6 @@
 | log.open.investorsbank.com | h-investorsbank.online-metrix.net |
 | res.pay.ionos.com | h-ipayment.online-metrix.net |
 | tags.ipp-services.eu | h-ipp-services.online-metrix.net |
-| acsrt.cardnet-tds.com | h-jcb.online-metrix.net |
 | device-profile.jeniusbank.com | h-jenius.online-metrix.net |
 | cdntm.johnlewisfinance.com | h-johnlewisfinance.online-metrix.net |
 | fp.joyobank.chance.co.jp | h-joyobank.online-metrix.net |
@@ -1387,6 +1393,7 @@
 | tx.n11.com | h-o5k4f14q.online-metrix.net |
 | pafms.ocbc.com | h-ocbc.online-metrix.net |
 | uafms.ocbc.com | h-ocbcbank.online-metrix.net |
+| sec.login.sdnp.ntt.ocn.ne.jp | h-ocnid-dev.online-metrix.net |
 | sec.login.ocn.ne.jp | h-ocnid.online-metrix.net |
 | contentmx.okcoin.com | h-okcoin.online-metrix.net |
 | tm.okinushub.com | h-okinushub.online-metrix.net |
@@ -1444,6 +1451,7 @@
 | t.olb.hawaiistatefcu.com | h-pscu.online-metrix.net |
 | t.olb.interracu.com | h-pscu.online-metrix.net |
 | t.online.acutx.org | h-pscu.online-metrix.net |
+| t.online.bankcfcu.org | h-pscu.online-metrix.net |
 | t.online.bankingonyoucu.org | h-pscu.online-metrix.net |
 | t.online.firstsouth.com | h-pscu.online-metrix.net |
 | t.online.fortfinancial.org | h-pscu.online-metrix.net |
@@ -1561,6 +1569,7 @@
 | check3.tiaa-cref.org | h-tiaa-cref.online-metrix.net |
 | check3.tiaa.org | h-tiaa-cref.online-metrix.net |
 | check3.tiaabank.com | h-tiaa-cref.online-metrix.net |
+| img2.everbank.com | h-tiaa.online-metrix.net |
 | tm.bdc-cdn.com | h-tm.bdc-cdn.com.online-metrix.net |
 | img2.tmrs.com | h-tmrs.online-metrix.net |
 | tmx.gotobilling.com | h-tmx.gotobilling.online-metrix.net |

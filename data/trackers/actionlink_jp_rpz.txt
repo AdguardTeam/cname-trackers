@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -39,6 +39,7 @@ al.shopyamatoya-jp.com CNAME .
 al.sotouba.net CNAME .
 al.talex.co.jp CNAME .
 al.tanabesports.com CNAME .
+al.tokimeku-otoriyose.jp CNAME .
 al.tsukurupajama.jp CNAME .
 al.www.kijoan.com CNAME .
 m.aclk.jp CNAME .

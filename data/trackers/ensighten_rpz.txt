@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -179,7 +179,6 @@ cookies.jll.pl CNAME .
 cookies.jll.pt CNAME .
 cookies.jll.ro CNAME .
 cookies.jll.ru CNAME .
-cookies.jll.sk CNAME .
 cookies.jllsweden.se CNAME .
 cookies.joneslanglasalle.co.jp CNAME .
 cookies.joneslanglasalle.com.cn CNAME .
@@ -276,6 +275,7 @@ privacy.blade.app CNAME .
 privacy.desperados.com CNAME .
 privacy.easyjet.com CNAME .
 privacy.gemfinance.co.nz CNAME .
+privacy.gemvisa.co.nz CNAME .
 privacy.gemvisa.com.au CNAME .
 privacy.genoapay.com CNAME .
 privacy.gomastercard.com.au CNAME .

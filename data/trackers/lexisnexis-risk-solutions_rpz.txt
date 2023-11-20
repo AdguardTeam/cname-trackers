@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,7 +14,6 @@ $TTL 300
 1bf86f4b.tictoc.ai CNAME .
 1of1.skipcash.app CNAME .
 acdc.toolineo.de CNAME .
-acsrt.cardnet-tds.com CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 af.mobile.free.fr CNAME .
 analytics.amrcollection.com CNAME .
@@ -94,6 +93,7 @@ cdna.ecommerce.cofidis.it CNAME .
 cdna.jpay.com CNAME .
 cdna.kpers.org CNAME .
 cdna.lottohelden.de CNAME .
+cdna.moncofidispro.fr CNAME .
 cdna.paiement.cofidis.fr CNAME .
 cdna.paymentncb.cofidis.es CNAME .
 cdna.paymentncb.cofidis.fr CNAME .
@@ -138,6 +138,7 @@ cfa.fidelity.com CNAME .
 cfa.mystreetscape.com CNAME .
 cfa.streetscape.com CNAME .
 cfaxdev2.fidelity.com CNAME .
+cfaxq.advisorchannel.com CNAME .
 cfaxq1.fidelity.com CNAME .
 cfaxq2.fidelity.com CNAME .
 channel.rakbankonline.ae CNAME .
@@ -171,6 +172,7 @@ cnt2.bank.za.group CNAME .
 compliance.mohegansuncasino.com CNAME .
 compliance.resortscasino.com CNAME .
 contendvc.cnouyi.pizza CNAME .
+content-tix.topi.eu CNAME .
 content-uk.fundingcircle.com CNAME .
 content.addisonlee.com CNAME .
 content.ageas.co.uk CNAME .
@@ -299,6 +301,8 @@ content.ssctech.com CNAME .
 content.sso.tracesmart.co.uk CNAME .
 content.tab.com.au CNAME .
 content.telusinternational.ai CNAME .
+content.tfbank.at CNAME .
+content.tfbank.de CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
 content.vi.gov CNAME .
@@ -475,6 +479,7 @@ img02.pensionfund.org CNAME .
 img1.bog.ge CNAME .
 img2.avant.com CNAME .
 img2.bog.ge CNAME .
+img2.everbank.com CNAME .
 img2.otto.nl CNAME .
 img2.paywithmybank.com CNAME .
 img2.prosper.com CNAME .
@@ -630,6 +635,7 @@ prod-uecupa.chaperone.lumindigitalhosting.com CNAME .
 prod-uiccuil.chaperone.lumindigitalhosting.com CNAME .
 prod-university.chaperone.lumindigitalhosting.com CNAME .
 prod-usalliance.chaperone.lumindigitalhosting.com CNAME .
+prod-useagle.chaperone.lumindigitalhosting.com CNAME .
 prod-utenn.chaperone.lumindigitalhosting.com CNAME .
 prod-vantage.chaperone.lumindigitalhosting.com CNAME .
 prod-vsecuvt.chaperone.lumindigitalhosting.com CNAME .
@@ -699,6 +705,7 @@ sec.hikaritv.net CNAME .
 sec.lin101.mail.goo.ne.jp CNAME .
 sec.login.mail.goo.ne.jp CNAME .
 sec.login.ocn.ne.jp CNAME .
+sec.login.sdnp.ntt.ocn.ne.jp CNAME .
 sec.mypage.ntt.com CNAME .
 sec.mypage.ocn.ne.jp CNAME .
 sec.plala.or.jp CNAME .
@@ -771,6 +778,7 @@ t.mydigital.jfcu.org CNAME .
 t.olb.hawaiistatefcu.com CNAME .
 t.olb.interracu.com CNAME .
 t.online.acutx.org CNAME .
+t.online.bankcfcu.org CNAME .
 t.online.bankingonyoucu.org CNAME .
 t.online.firstsouth.com CNAME .
 t.online.fortfinancial.org CNAME .
@@ -908,7 +916,6 @@ tmcontent.imvu.com CNAME .
 tmcontent.meridiancu.ca CNAME .
 tmcontent.motusbank.ca CNAME .
 tmcontent.sixt.com CNAME .
-tmetrix.my.chick-fil-a.com CNAME .
 tmfp.klarna.com CNAME .
 tmi.my529.org CNAME .
 tmln.caesarscasino.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -303,7 +303,6 @@ sep02.hinagiku-life.jp CNAME .
 sinceregarden.sincere-garden.jp CNAME .
 test-ad.lucia-c.com CNAME .
 test-ad.mens-lucia.com CNAME .
-tracking.axis.onl CNAME .
 tracking.mysurance.co.jp CNAME .
 tracking.nokai.jp CNAME .
 tracking.wao-corp.com CNAME .

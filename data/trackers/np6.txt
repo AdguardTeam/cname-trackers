@@ -233,7 +233,6 @@
 ||tr.contact.cereps.fr^
 ||tr.contact.e-turf.fr^
 ||tr.contact.lead.eu.com^
-||tr.contact.leadsonline.fr^
 ||tr.contact.lvmh.fr^
 ||tr.contact.makemelead.com^
 ||tr.contact.makemelead.info^
@@ -379,7 +378,6 @@
 ||tr.ev001.net^
 ||tr.evenements.inpi.fr^
 ||tr.expresofferte.be^
-||tr.fexemail.com^
 ||tr.fg3p.espmp-cufr.net^
 ||tr.fidal.pro^
 ||tr.fidalformation.pro^
@@ -561,6 +559,7 @@
 ||tr.mail-companeo.fr^
 ||tr.mail.cdiscount.com.ec^
 ||tr.mail.cdiscount.com.pa^
+||tr.mail.digitalpjms.fr^
 ||tr.mail.enviedebienmanger.fr^
 ||tr.mail.floa.fr^
 ||tr.mail.hagerservices.fr^
@@ -655,7 +654,6 @@
 ||tr.news-dfc.sciences-po.fr^
 ||tr.news-fr.perfectstay.com^
 ||tr.news-ingerop.com^
-||tr.news-sncm.fr^
 ||tr.news.a-t.fr^
 ||tr.news.a2micile.com^
 ||tr.news.accessmastertour.com^
@@ -723,7 +721,6 @@
 ||tr.news.grandsmoulinsdeparis.com^
 ||tr.news.groupe-armonia.com^
 ||tr.news.hallobanden.be^
-||tr.news.hallobanden.nl^
 ||tr.news.happycap.org^
 ||tr.news.helvyre.fr^
 ||tr.news.heredis.com^
@@ -817,6 +814,7 @@
 ||tr.newsletter-stressless.com^
 ||tr.newsletter-wonderbox.com^
 ||tr.newsletter.1664france.fr^
+||tr.newsletter.1oag.com^
 ||tr.newsletter.actalians.fr^
 ||tr.newsletter.afpa.fr^
 ||tr.newsletter.assuragency.net^

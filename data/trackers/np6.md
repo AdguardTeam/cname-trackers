@@ -254,7 +254,6 @@
 | tr.contact.cereps.fr | tracking.bp01.net |
 | tr.contact.e-turf.fr | tracking.bp01.net |
 | tr.contact.lead.eu.com | tracking.bp01.net |
-| tr.contact.leadsonline.fr | tracking.bp01.net |
 | tr.contact.lvmh.fr | tracking.bp01.net |
 | tr.contact.makemelead.com | tracking.bp01.net |
 | tr.contact.makemelead.info | tracking.bp01.net |
@@ -400,7 +399,6 @@
 | tr.ev001.net | tracking.bp01.net |
 | tr.evenements.inpi.fr | tracking.bp01.net |
 | tr.expresofferte.be | tracking.bp01.net |
-| tr.fexemail.com | tracking.bp01.net |
 | tr.fg3p.espmp-cufr.net | tracking.bp01.net |
 | tr.fidal.pro | tracking.bp01.net |
 | tr.fidalformation.pro | tracking.bp01.net |
@@ -582,6 +580,7 @@
 | tr.mail-companeo.fr | tracking.bp01.net |
 | tr.mail.cdiscount.com.ec | tracking.bp01.net |
 | tr.mail.cdiscount.com.pa | tracking.bp01.net |
+| tr.mail.digitalpjms.fr | tracking.bp01.net |
 | tr.mail.enviedebienmanger.fr | tracking.bp01.net |
 | tr.mail.floa.fr | tracking.bp01.net |
 | tr.mail.hagerservices.fr | tracking.bp01.net |
@@ -676,7 +675,6 @@
 | tr.news-dfc.sciences-po.fr | tracking.bp01.net |
 | tr.news-fr.perfectstay.com | tracking.bp01.net |
 | tr.news-ingerop.com | tracking.bp01.net |
-| tr.news-sncm.fr | tracking.bp01.net |
 | tr.news.a-t.fr | tracking.bp01.net |
 | tr.news.a2micile.com | tracking.bp01.net |
 | tr.news.accessmastertour.com | tracking.bp01.net |
@@ -744,7 +742,6 @@
 | tr.news.grandsmoulinsdeparis.com | tracking.bp01.net |
 | tr.news.groupe-armonia.com | tracking.bp01.net |
 | tr.news.hallobanden.be | tracking.bp01.net |
-| tr.news.hallobanden.nl | tracking.bp01.net |
 | tr.news.happycap.org | tracking.bp01.net |
 | tr.news.helvyre.fr | tracking.bp01.net |
 | tr.news.heredis.com | tracking.bp01.net |
@@ -838,6 +835,7 @@
 | tr.newsletter-stressless.com | tracking.bp01.net |
 | tr.newsletter-wonderbox.com | tracking.bp01.net |
 | tr.newsletter.1664france.fr | tracking.bp01.net |
+| tr.newsletter.1oag.com | tracking.bp01.net |
 | tr.newsletter.actalians.fr | tracking.bp01.net |
 | tr.newsletter.afpa.fr | tracking.bp01.net |
 | tr.newsletter.assuragency.net | tracking.bp01.net |

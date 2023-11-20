@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -318,6 +318,7 @@ a8.williesenglish.jp CNAME .
 a8.wizrecruitment.012grp.co.jp CNAME .
 a8.woodlife.jp CNAME .
 a8.worldikids.com CNAME .
+a8.ws.job.career-tasu.jp CNAME .
 a8.www.keurig.jp CNAME .
 a8.www.melonbooks.co.jp CNAME .
 a8.www.nicosuma.com CNAME .
@@ -615,6 +616,7 @@ a8clk.unihertz.com CNAME .
 a8clk.unionspo.com CNAME .
 a8clk.unlace.net CNAME .
 a8clk.ur-s.me CNAME .
+a8clk.videocash.tv CNAME .
 a8clk.voice-inc.co.jp CNAME .
 a8clk.waq-online.com CNAME .
 a8clk.web-camp.io CNAME .

@@ -11,7 +11,6 @@ ilove.volusion.com
 indique.phooto.com.br
 invite.toughmudder.com
 refer-a-friend.trivantis.com
-refer.aaas.org
 refer.accountants.intuit.com
 refer.ahsfriends.com
 refer.alliedcash.com
@@ -36,6 +35,7 @@ refer.clearme.com
 refer.compexusa.com
 refer.criquetshirts.com
 refer.crystallight.com
+refer.custudentloans.org
 refer.discover.com
 refer.divvybikes.com
 refer.dna.ancestry.co.uk
@@ -127,7 +127,7 @@ www.trevoce.com
 businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
-em3904.skillshare.com
+em8561.go2bank.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -285,6 +285,7 @@ refer.lendingclub.com
 refer.lenscrafters.com
 refer.lightstream.com
 refer.littlepassports.com
+refer.loansbyworld.com
 refer.loomandleaf.com
 refer.lull.com
 refer.lumenoptical.com
@@ -432,6 +433,7 @@ share.baiconnect.com
 share.basepaws.com
 share.battlecreekenquirer.com
 share.beaspermdonor.com
+share.beringer.com
 share.biblejourney.com
 share.bjs.com
 share.boden.co.uk
@@ -457,6 +459,7 @@ share.cheaperthandirt.net
 share.chewsidental.com
 share.cityfurniture.com
 share.cluballiance.aaa.com
+share.coloradoan.com
 share.columbiacu.org
 share.commercialappeal.com
 share.conceiveabilities.com
@@ -546,6 +549,7 @@ share.myq.com
 share.newarkadvocate.com
 share.newtonbaby.com
 share.ngfcu.us
+share.northjersey.com
 share.novig.us
 share.obagi.com
 share.olivegarden.com
@@ -572,6 +576,7 @@ share.refer-aveda.com
 share.refer-aveda.jp
 share.refer-bumbleandbumble.co.uk
 share.refer-bumbleandbumble.com
+share.refer-clinique.com
 share.refer-darphin.com
 share.refer-darphin.fr
 share.refer-esteelauder.ca
@@ -648,6 +653,7 @@ share.vonage.com
 share.wagwalking.com
 share.walmartmoneycard.com
 share.wecohospitality.com
+share.whiparound.com
 share.whistle.com
 share.wisdompanel.com
 share.wombatinvest.com
@@ -657,8 +663,8 @@ www.referessentials.com
 www.referquickbooks.com
 em1476.princesscruises.com
 em225.codecademy.com
+em3904.skillshare.com
 em4367.raf-studentloans.discover.com
-em8561.go2bank.com
 em8928.em.petco.com
 em924.refer.starbucks.com
 sftp.extole.com

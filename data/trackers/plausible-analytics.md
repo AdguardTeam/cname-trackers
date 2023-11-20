@@ -539,7 +539,6 @@
 | stats.engeldirekt.de | custom.plausible.io |
 | stats.engineering.freeagent.com | custom.plausible.io |
 | stats.equium.io | custom.plausible.io |
-| stats.erbridge.co.uk | custom.plausible.io |
 | stats.erikinthekitchen.com | custom.plausible.io |
 | stats.erlef.org | custom.plausible.io |
 | stats.evenchilada.com | custom.plausible.io |
@@ -723,6 +722,7 @@
 | stats.meno.science | custom.plausible.io |
 | stats.mesenvies.fr | custom.plausible.io |
 | stats.michaeloliver.dev | custom.plausible.io |
+| stats.micv.works | custom.plausible.io |
 | stats.missionrabies.com | custom.plausible.io |
 | stats.mostlycoding.com.au | custom.plausible.io |
 | stats.motion-effect.com | custom.plausible.io |
@@ -730,6 +730,7 @@
 | stats.mrtnvh.com | custom.plausible.io |
 | stats.multiplelenses.com | custom.plausible.io |
 | stats.multiply.cloud | custom.plausible.io |
+| stats.musicuniverse.education | custom.plausible.io |
 | stats.myherocard.com | custom.plausible.io |
 | stats.napaconnect.ca | custom.plausible.io |
 | stats.navedislam.com | custom.plausible.io |
@@ -833,7 +834,6 @@
 | stats.revitfamily.app | custom.plausible.io |
 | stats.rideinpeace.ie | custom.plausible.io |
 | stats.rightourhistoryhawaii.com | custom.plausible.io |
-| stats.rivoq.com | custom.plausible.io |
 | stats.robhope.com | custom.plausible.io |
 | stats.robotika.ax | custom.plausible.io |
 | stats.rocketvalidator.com | custom.plausible.io |
@@ -946,6 +946,7 @@
 | stats.visions.ch | custom.plausible.io |
 | stats.voedingskussen.net | custom.plausible.io |
 | stats.voltamediahouse.com | custom.plausible.io |
+| stats.voltimum.com | custom.plausible.io |
 | stats.wachstum.at | custom.plausible.io |
 | stats.wafflemeido.art | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
@@ -965,7 +966,6 @@
 | stats.wymanmobilenotary.com | custom.plausible.io |
 | stats.xactcode.com | custom.plausible.io |
 | stats.xn--antnio-dxa.pt | custom.plausible.io |
-| stats.xn--drivation-b4a.fr | custom.plausible.io |
 | stats.yourdallashandyman.com | custom.plausible.io |
 | stats.zimri.net | custom.plausible.io |
 | statystyki.ekspertyzy-szkolenia.pl | custom.plausible.io |

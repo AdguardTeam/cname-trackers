@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -96,7 +96,6 @@ ej.basialforced.com CNAME .
 em.curnberthed.com CNAME .
 em.gangerburler.com CNAME .
 et.furivaeshotman.com CNAME .
-et.harmoutguereza.com CNAME .
 eu.balletsbeep.com CNAME .
 eu.bassoonavatara.com CNAME .
 eu.jerkytaste.com CNAME .
@@ -116,7 +115,6 @@ fj.cavilerestops.com CNAME .
 fj.patencydaimiel.com CNAME .
 fk.oaklikespiers.com CNAME .
 fm.ramouselong.com CNAME .
-fn.deulspoorn.com CNAME .
 fo.irrisoranemone.com CNAME .
 fs.fogramokayed.com CNAME .
 fs.velellabudded.com CNAME .
@@ -132,6 +130,7 @@ gn.afootwitword.com CNAME .
 go.cordelgront.com CNAME .
 go.jazygesunoared.com CNAME .
 go.loorydewdrop.com CNAME .
+gp.feiriegershon.com CNAME .
 gp.splodgydossing.com CNAME .
 gs.profrebecca.com CNAME .
 gt.unurnedbeleve.com CNAME .
@@ -231,7 +230,7 @@ mh.zonulews.com CNAME .
 mi.bettingbulbous.com CNAME .
 mi.gaywayperkish.com CNAME .
 mj.mucinplanks.com CNAME .
-mp.ualisbaubles.com CNAME .
+mp.arianatainos.com CNAME .
 mr.asitiazosters.com CNAME .
 mu.laplingskevish.com CNAME .
 mu.plateryamaine.com CNAME .
@@ -282,6 +281,7 @@ qd.gibbarwaiting.com CNAME .
 qd.loathesentour.com CNAME .
 qe.notersmilks.com CNAME .
 qg.mangerydewrot.com CNAME .
+qh.editormbiras.com CNAME .
 qj.humusesphren.com CNAME .
 qk.eyrarbuggers.com CNAME .
 ql.nudistwhitlow.com CNAME .
@@ -406,6 +406,7 @@ wb.uncannyuneaths.com CNAME .
 wd.dimcarnie.com CNAME .
 wd.towmonterses.com CNAME .
 we.noonsderider.com CNAME .
+wg.clagssyria.com CNAME .
 wh.dabbyfather.com CNAME .
 wi.cohereseugene.com CNAME .
 wj.acrevenene.com CNAME .

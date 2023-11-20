@@ -35,6 +35,7 @@ cdn.gelhp.com
 cdn.genfpm.com
 cdn.gocolow.com
 cdn.hqwa.xyz
+cdn.ianjumb.com
 cdn.iople.com
 cdn.isgost.com
 cdn.jandaqwe.com
@@ -69,6 +70,7 @@ cdn.spnut.com
 cdn.srxy.xyz
 cdn.sslph.com
 cdn.syinga.com
+cdn.timsef.com
 cdn.ulesxbo.com
 cdn.viowrel.com
 cdn.wwfx.xyz
@@ -222,7 +224,6 @@ canid.mestamaster.fi
 canid.peterakkies.net
 canidae.collectingsocialphoto.org
 canidae.fidum.uk
-capybara.bell0bytes.eu
 capybara.civicsoftwarefoundation.org
 capybara.randyhamiltonelectric.com
 cardinal.businessfirstonline.co.uk
@@ -259,7 +260,6 @@ catfish.sofatido.ch
 catshark.janetalexandersson.com
 catshark.spur.design
 cattle.apisyouwonthate.com
-cattle.domaincomet.com
 cattle.driftbot.io
 cattle.elitecanines.com.au
 cattle.eprc.tools
@@ -585,6 +585,7 @@ kaxlfq.testingwithtestcafe.com
 kingfisher.gedaly.com
 kingfisher.startupdemoday.live
 kingfisher.wishloom.com
+kite.cardneyestate.co.uk
 kite.devin.website
 kite.ibirthdayclub.com
 kite.kochie.io
@@ -760,6 +761,7 @@ ostrich.pergaudiaadastra.de
 ostrich.scd-rv.com.au
 otter.butika.fr
 otter.emdegmbh.com
+otter.jetting.no
 otter.preferredequineonline.com
 owl.gregwolanski.com
 owl.heidipay.com
@@ -1087,6 +1089,7 @@ wombat.buildrtech.com
 woodpecker.binario11.de
 woodpecker.ember.ly
 woodpecker.groupe-montagne.ch
+woodpecker.mikehalliday.com
 woodpecker.seabits.com
 worm.discover-culture.com
 worm.usephantom.com
@@ -1122,6 +1125,7 @@ sponsors.floorforce.com
 sponsors.macaronikid.com
 sponsors.oaklandcountymoms.com
 sponsors.salesforceben.com
+sponsors.stateofdigitalpublishing.com
 sponsors.teethtalkgirl.com
 support-v2.sweetwaternow.com
 adserve.bongocdn.com

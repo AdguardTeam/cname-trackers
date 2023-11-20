@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1699862416476        ; Serial
+           1700467223785        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -392,6 +392,7 @@ my.top4running.sk CNAME .
 my.top4sport.cz CNAME .
 my.top4sport.hu CNAME .
 my.top4sport.ro CNAME .
+my.volleybaldirect.nl CNAME .
 my.weplaybasketball.bg CNAME .
 my.weplaybasketball.cz CNAME .
 my.weplaybasketball.ee CNAME .
@@ -407,6 +408,7 @@ my.weplayhandball.de CNAME .
 my.weplayhandball.eu CNAME .
 my.weplayhandball.gr CNAME .
 my.weplayhandball.hu CNAME .
+my.weplayhandball.nl CNAME .
 my.weplayhandball.ro CNAME .
 my.weplayhandball.si CNAME .
 my.weplayhandball.sk CNAME .
@@ -514,7 +516,6 @@ partner.energiezivota.com CNAME .
 partner.epravo.cz CNAME .
 partner.eshop-gyorsan.hu CNAME .
 partner.eshop-rodas.cz CNAME .
-partner.esportacademy.cz CNAME .
 partner.evolutionhub.cz CNAME .
 partner.expertnavlasy.sk CNAME .
 partner.expresmenu.com CNAME .
@@ -534,7 +535,6 @@ partner.granule-eshop.cz CNAME .
 partner.gurufinance.cz CNAME .
 partner.hanamoneam.com CNAME .
 partner.hegesztok-bolt.hu CNAME .
-partner.hemptor.cz CNAME .
 partner.hodinarstvi.cz CNAME .
 partner.hoska-tour.cz CNAME .
 partner.hothousecucumber.com CNAME .
@@ -576,9 +576,11 @@ partner.liberec-ubytovani.cz CNAME .
 partner.lidajirickova.cz CNAME .
 partner.lifetest.eu CNAME .
 partner.ligsuniversity.cz CNAME .
+partner.lorooro.com CNAME .
 partner.ltx.cz CNAME .
 partner.luckyalvin.cz CNAME .
 partner.lyzelyze.cz CNAME .
+partner.madio.cz CNAME .
 partner.malujpodlecisel.cz CNAME .
 partner.marspom.cz CNAME .
 partner.martinreznicek.cz CNAME .
@@ -775,6 +777,7 @@ partneri.monikakorinkova.cz CNAME .
 partneri.motmot.cz CNAME .
 partneri.mrblast.eu CNAME .
 partneri.muzeslepe.cz CNAME .
+partneri.mydlatamara.sk CNAME .
 partneri.nabytek-natali.cz CNAME .
 partneri.naenergie.cz CNAME .
 partneri.natu.cz CNAME .
