@@ -117,6 +117,7 @@
     * vonagefr-ssl.extole.com
     * vonageuk.extole.com
     * web-tool-qa.lb.extole.com
+    * webs.extole.com
     * wgu.extole.com
     * wimp.extole.com
     * worldmarket.extole.com
@@ -299,7 +300,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
@@ -527,6 +527,7 @@
     * under-armour.extole.io
     * uniqlo.extole.io
     * united.extole.io
+    * useagle.extole.io
     * uvacreditunion.extole.io
     * vayasleep.extole.io
     * veo.extole.io
@@ -848,7 +849,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1192,6 +1192,7 @@
 | refer-us.uniqlo.com | uniqlo.extole.io |
 | share.united.net | united.extole.io |
 | refer.urbandaddy.com | urbandaddyperks.extole.com |
+| share.useagle.org | useagle.extole.io |
 | friends.uvacreditunion.org | uvacreditunion.extole.io |
 | refer.vayasleep.com | vayasleep.extole.io |
 | share.veo.co | veo.extole.io |
@@ -1215,6 +1216,7 @@
 | refer.dreamlawn.com | wearesouthwind.extole.io |
 | refer.themvpkc.com | wearesouthwind.extole.io |
 | www.trevoce.com | web-tool-qa.lb.extole.com |
+| refer.webs.com | webs.extole.com |
 | share.wecohospitality.com | wecohospitality.extole.io |
 | refer.wgu.edu | wgu.extole.com |
 | share.whiparound.com | whiparound.extole.io |

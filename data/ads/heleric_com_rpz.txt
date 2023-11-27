@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -91,6 +91,7 @@ dz.banyaitlingit.com CNAME .
 ed.druggertruckle.com CNAME .
 ed.urotoxykerch.com CNAME .
 ef.betosslingala.com CNAME .
+ef.derrybonedry.com CNAME .
 eh.stowingwhelks.com CNAME .
 ej.basialforced.com CNAME .
 em.curnberthed.com CNAME .
@@ -114,8 +115,6 @@ fj.bedrowndaffs.com CNAME .
 fj.cavilerestops.com CNAME .
 fj.patencydaimiel.com CNAME .
 fk.oaklikespiers.com CNAME .
-fm.ramouselong.com CNAME .
-fo.irrisoranemone.com CNAME .
 fs.fogramokayed.com CNAME .
 fs.velellabudded.com CNAME .
 fx.muntiglesia.com CNAME .
@@ -132,6 +131,7 @@ go.jazygesunoared.com CNAME .
 go.loorydewdrop.com CNAME .
 gp.feiriegershon.com CNAME .
 gp.splodgydossing.com CNAME .
+gr.faencepuggy.com CNAME .
 gs.profrebecca.com CNAME .
 gt.unurnedbeleve.com CNAME .
 gw.glassbogey.com CNAME .
@@ -239,6 +239,7 @@ nc.nominaturfy.com CNAME .
 ne.galenicnidana.com CNAME .
 ne.jarringerns.com CNAME .
 nj.molliefidac.com CNAME .
+nj.sloooutyelp.com CNAME .
 nl.yieldedshotter.com CNAME .
 nm.placoidtobyman.com CNAME .
 np.brackenclomped.com CNAME .
@@ -261,10 +262,12 @@ ou.samogonmarvy.com CNAME .
 oz.lokaforky.com CNAME .
 pb.shaledpaidle.com CNAME .
 pg.maftirkolo.com CNAME .
+pi.beaufintorque.com CNAME .
 pk.axitessubclei.com CNAME .
 pk.tawersasocial.com CNAME .
 pm.clokemidriff.com CNAME .
 pm.teawaredanzon.com CNAME .
+pn.wendatopen.com CNAME .
 pq.carlingquerent.com CNAME .
 pq.murkfrazil.com CNAME .
 pr.hefterunmete.com CNAME .
@@ -275,10 +278,8 @@ px.bajracashboy.com CNAME .
 px.owdunpiled.com CNAME .
 py.darzeegobble.com CNAME .
 py.dittanyambreic.com CNAME .
-qb.falsenalice.com CNAME .
 qb.savorydult.com CNAME .
 qd.gibbarwaiting.com CNAME .
-qd.loathesentour.com CNAME .
 qe.notersmilks.com CNAME .
 qg.mangerydewrot.com CNAME .
 qh.editormbiras.com CNAME .
@@ -286,6 +287,7 @@ qj.humusesphren.com CNAME .
 qk.eyrarbuggers.com CNAME .
 ql.nudistwhitlow.com CNAME .
 qo.dunganof.com CNAME .
+qo.enamelsdune.com CNAME .
 qr.grogsprats.com CNAME .
 qr.heezyvedaism.com CNAME .
 qs.levooutlast.com CNAME .
@@ -313,7 +315,6 @@ rp.splentstoatoa.com CNAME .
 rp.tsuresoranges.com CNAME .
 rq.pettahgurr.com CNAME .
 rr.giggertji.com CNAME .
-rs.tupigrousy.com CNAME .
 ru.vibgyorvolte.com CNAME .
 rw.davielyedith.com CNAME .
 rw.gundogleaker.com CNAME .
@@ -321,7 +322,6 @@ rx.dewlesssnorted.com CNAME .
 rx.ominateamt.com CNAME .
 sa.resailsgyse.com CNAME .
 sb.elfshippref.com CNAME .
-sc.achingpliant.com CNAME .
 sc.waapadaggled.com CNAME .
 sc.waybookmyceles.com CNAME .
 se.aspireetopee.com CNAME .
@@ -384,12 +384,12 @@ uz.gamyboxbush.com CNAME .
 va.ungracebaited.com CNAME .
 vc.rompishvariola.com CNAME .
 vd.clipserelock.com CNAME .
-vd.scapemambu.com CNAME .
 ve.gweedunweld.com CNAME .
 vg.piaroanjust.com CNAME .
 vi.spratstatters.com CNAME .
 vl.boongsmokeho.com CNAME .
 vn.finisbur.com CNAME .
+vn.jaygeepigs.com CNAME .
 vo.mofettecalmed.com CNAME .
 vp.upswingmethyl.com CNAME .
 vq.areiccastano.com CNAME .
@@ -399,6 +399,7 @@ vt.eluantsmousees.com CNAME .
 vv.habaerashiksas.com CNAME .
 vv.tensingiseum.com CNAME .
 vw.sapidvenoms.com CNAME .
+vw.snippyteevee.com CNAME .
 vx.azuresjukes.com CNAME .
 vx.womerasecocide.com CNAME .
 wb.aliensplitch.com CNAME .
@@ -420,7 +421,6 @@ wr.rugosehoarish.com CNAME .
 ws.blondsdixie.com CNAME .
 wv.donarynahane.com CNAME .
 wx.redealstonage.com CNAME .
-wx.squetanonym.com CNAME .
 wz.bergallgenion.com CNAME .
 xb.subtextslypes.com CNAME .
 xb.sungzionism.com CNAME .

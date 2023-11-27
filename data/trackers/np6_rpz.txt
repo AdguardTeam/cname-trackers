@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -74,9 +74,11 @@ tr.asp106g.espmp-nifr.net CNAME .
 tr.asp108a.espmp-cufr.net CNAME .
 tr.asp1098.espmp-cufr.net CNAME .
 tr.asp109c.espmp-aufr.net CNAME .
+tr.asp109e.espmp-cufr.net CNAME .
 tr.asp109y.espmp-agfr.net CNAME .
 tr.asp10a7.espmp-aufr.net CNAME .
 tr.asp10ai.espmp-nifr.net CNAME .
+tr.asp10ap.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
 tr.asp10c8.espmp-agfr.net CNAME .
@@ -508,6 +510,7 @@ tr.information.labelleadresse.com CNAME .
 tr.information.lacollection-airfrance.be CNAME .
 tr.information.lacollection-airfrance.ch CNAME .
 tr.information.lacollection-airfrance.fr CNAME .
+tr.information.leclubtravel.fr CNAME .
 tr.information.perfectstay.com CNAME .
 tr.information.smartdeals-transavia-fr.com CNAME .
 tr.information.thelist-emirates.fr CNAME .
@@ -534,6 +537,7 @@ tr.italia.plimsoll.it CNAME .
 tr.jend.espmp-pofr.net CNAME .
 tr.jesuis.enformedelotus.com CNAME .
 tr.jevoteenligne.fr CNAME .
+tr.jimb.espmp-cufr.net CNAME .
 tr.jkcd.espmp-pofr.net CNAME .
 tr.jkyg.espmp-cufr.net CNAME .
 tr.kang.espmp-cufr.net CNAME .
@@ -642,6 +646,7 @@ tr.mp.actu-pm.fr CNAME .
 tr.mp.infomanageo.fr CNAME .
 tr.mp.ld-man.fr CNAME .
 tr.mpbroadcasts.co.uk CNAME .
+tr.mrls.espmp-agfr.net CNAME .
 tr.mydevisentreprise.com CNAME .
 tr.n.ferrero.fr CNAME .
 tr.n.info.cdgp.fr CNAME .
@@ -695,8 +700,10 @@ tr.news.chezmonveto.com CNAME .
 tr.news.chilican.com CNAME .
 tr.news.clicochic.com CNAME .
 tr.news.companeo.es CNAME .
+tr.news.companeo.ro CNAME .
 tr.news.corsicalinea.com CNAME .
 tr.news.cotemaison.fr CNAME .
+tr.news.cporadio.tv CNAME .
 tr.news.crystal-partenaires.com CNAME .
 tr.news.delifrance.com CNAME .
 tr.news.deneuville-chocolat.fr CNAME .
@@ -732,6 +739,7 @@ tr.news.glance-mediametrie.com CNAME .
 tr.news.grandsmoulinsdeparis.com CNAME .
 tr.news.groupe-armonia.com CNAME .
 tr.news.hallobanden.be CNAME .
+tr.news.happycap-foundation.fr CNAME .
 tr.news.happycap.org CNAME .
 tr.news.helvyre.fr CNAME .
 tr.news.heredis.com CNAME .
@@ -753,6 +761,7 @@ tr.news.labelleadresse.com CNAME .
 tr.news.lacollection-airfrance.be CNAME .
 tr.news.lacollection-airfrance.ch CNAME .
 tr.news.lacollection-airfrance.co.uk CNAME .
+tr.news.lacollection-airfrance.de CNAME .
 tr.news.lacollection-airfrance.fr CNAME .
 tr.news.lacollectionair-france.fr CNAME .
 tr.news.lacollectionairfrance.be CNAME .
@@ -858,6 +867,7 @@ tr.newsletter.younited-credit.com CNAME .
 tr.newsletterpagesjaunes.fr CNAME .
 tr.newsletters-bonpoint.com CNAME .
 tr.newsletters.alticemedia.com CNAME .
+tr.newsletters.coedition-contact.fr CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
 tr.newsletters.qapa-interim.fr CNAME .
 tr.newsletters.youmeetings.com CNAME .
@@ -1049,6 +1059,7 @@ tr.urfk06o.espmp-agfr.net CNAME .
 tr.urfk06x.espmp-cufr.net CNAME .
 tr.urfk06y.espmp-nifr.net CNAME .
 tr.urfk07j.espmp-nifr.net CNAME .
+tr.urfk07r.espmp-agfr.net CNAME .
 tr.urfk07s.espmp-nifr.net CNAME .
 tr.urfk080.espmp-agfr.net CNAME .
 tr.urfk08c.espmp-cufr.net CNAME .

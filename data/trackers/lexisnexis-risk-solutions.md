@@ -55,6 +55,7 @@
     * h-5g3kt0kj.online-metrix.net
     * h-5h8i3ud8.online-metrix.net
     * h-5pxao9h8.online-metrix.net
+    * h-5rsqem15.online-metrix.net
     * h-5sc89hft.online-metrix.net
     * h-5uvvlv7u.online-metrix.net
     * h-5wdrto0i.online-metrix.net
@@ -133,6 +134,7 @@
     * h-anfd5tjw-2.online-metrix.net
     * h-anfd5tjw-3.online-metrix.net
     * h-anzonlineapps.online-metrix.net
+    * h-apa2wbxq.online-metrix.net
     * h-api-sb.online-metrix.net
     * h-apruvd.online-metrix.net
     * h-ascendloans.online-metrix.net
@@ -233,6 +235,7 @@
     * h-citadele.online-metrix.net
     * h-citbank.online-metrix.net
     * h-citcommercial.online-metrix.net
+    * h-citi.vanity.online-metrix.net
     * h-citibank-ae.online-metrix.net
     * h-citibank-au.online-metrix.net
     * h-citibank-cn.online-metrix.net
@@ -802,6 +805,7 @@
 | secure.jumia.sn | h-5pxao9h8.online-metrix.net |
 | secure.jumia.ug | h-5pxao9h8.online-metrix.net |
 | secure.zando.co.za | h-5pxao9h8.online-metrix.net |
+| content.fig.ca | h-5rsqem15.online-metrix.net |
 | netinf.curemd.com | h-5sc89hft.online-metrix.net |
 | rttm.uniondigitalbank.io | h-5uvvlv7u.online-metrix.net |
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
@@ -907,6 +911,7 @@
 | static.bc-cdn.io | h-anfd5tjw-3.online-metrix.net |
 | static.yg-cdn.io | h-anfd5tjw-3.online-metrix.net |
 | onlineapplications.anz.com | h-anzonlineapps.online-metrix.net |
+| content.shop.post.ch | h-apa2wbxq.online-metrix.net |
 | cdn3.moneycorp.com | h-api-sb.online-metrix.net |
 | content.apruvd.com | h-apruvd.online-metrix.net |
 | contentservices.ascendloans.com | h-ascendloans.online-metrix.net |
@@ -1036,6 +1041,7 @@
 | content.bankoncit.com | h-citbank.online-metrix.net |
 | content.citbankapp.cit.com | h-citbank.online-metrix.net |
 | contentfd.directcapital.com | h-citcommercial.online-metrix.net |
+| img4.portaluat.citidirect.com | h-citi.vanity.online-metrix.net |
 | content22.citibank.ae | h-citibank-ae.online-metrix.net |
 | content22.citibank.com.au | h-citibank-au.online-metrix.net |
 | content22.citibank.com.cn | h-citibank-cn.online-metrix.net |

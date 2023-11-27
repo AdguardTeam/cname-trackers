@@ -107,6 +107,7 @@
 | affilbox.kvaskovanie.sk | cz.affilbox.cz |
 | affilbox.rondopartner.cz | cz.affilbox.cz |
 | affilbox.stygremvkleci.cz | cz.affilbox.cz |
+| affilbox.zdravedesiate.sk | cz.affilbox.cz |
 | affiliate.4fresh.cz | cz.affilbox.cz |
 | affiliate.a1m.cz | cz.affilbox.cz |
 | affiliate.activeczech.com | cz.affilbox.cz |
@@ -508,6 +509,7 @@
 | partner.doleo.cz | cz.affilbox.cz |
 | partner.domaca-pivoteka.sk | cz.affilbox.cz |
 | partner.domaci-pivoteka.cz | cz.affilbox.cz |
+| partner.dometa.cz | cz.affilbox.cz |
 | partner.domoveda.cz | cz.affilbox.cz |
 | partner.doplnse.cz | cz.affilbox.cz |
 | partner.dr-nek.cz | cz.affilbox.cz |
@@ -641,6 +643,7 @@
 | partner.psidetektiv.cz | cz.affilbox.cz |
 | partner.root.cz | cz.affilbox.cz |
 | partner.royalfashion.cz | cz.affilbox.cz |
+| partner.rozhladna.sk | cz.affilbox.cz |
 | partner.runningpro.cz | cz.affilbox.cz |
 | partner.ruzovyslon.cz | cz.affilbox.cz |
 | partner.safelab.sk | cz.affilbox.cz |
@@ -871,6 +874,7 @@
 | provize.rychle-pujcky-bez-registru.cz | cz.affilbox.cz |
 | provize.sperky.guru | cz.affilbox.cz |
 | provize.vybavenifitness.cz | cz.affilbox.cz |
+| provize.wugi.cz | cz.affilbox.cz |
 | provize.zazitkovelety.cz | cz.affilbox.cz |
 | provizia.mimulo.sk | cz.affilbox.cz |
 | provizia.vitalitypradlo.sk | cz.affilbox.cz |
@@ -885,7 +889,6 @@
 | spoluprace.blackkale.cz | cz.affilbox.cz |
 | spoluprace.denikletusky.cz | cz.affilbox.cz |
 | spoluprace.eroticstore.cz | cz.affilbox.cz |
-| spoluprace.gprooms.eu | cz.affilbox.cz |
 | spoluprace.h2world.store | cz.affilbox.cz |
 | spoluprace.interbohemia.cz | cz.affilbox.cz |
 | spoluprace.janitaurbanova.cz | cz.affilbox.cz |

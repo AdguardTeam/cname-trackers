@@ -1,6 +1,7 @@
 !
 ! Company name: PopCash
 ||cdn.adevbom.com^
+||cdn.adevppl.com^
 ||cdn.afwpc.com^
 ||cdn.almacz.com^
 ||cdn.alota.xyz^
@@ -60,6 +61,7 @@
 ||cdn.posawaj.com^
 ||cdn.puyjjq.com^
 ||cdn.puysis.com^
+||cdn.quagfa.com^
 ||cdn.rapolok.com^
 ||cdn.rawqel.com^
 ||cdn.rgrd.xyz^
@@ -95,6 +97,7 @@
 ||albatros.teamground.fr^
 ||albatross.mypromo.co^
 ||albatross.ohseesoftware.com^
+||alpaca.hans-hornberger.com^
 ||alpaca.miidbaby.com^
 ||alpaca.thesocialmedwork.com^
 ||alpaca.wingmantracker.com^
@@ -579,6 +582,7 @@
 ||jcpjfyikk.dogbonemarket.com^
 ||jellyfish.teresaharlow.com^
 ||jellyfish.therapieplatz-finden.de^
+||jncx1s.michaellindahl.com^
 ||kangaroo.kraenk.de^
 ||kangaroo.triplightfantastic.com^
 ||kaxlfq.testingwithtestcafe.com^
@@ -1037,7 +1041,6 @@
 ||vampirebat.febolos.es^
 ||vampirebat.git-tower.com^
 ||vampirebat.sharpend.io^
-||vampirebat.stiftung-palliativ-zuhause.de^
 ||vampirebat.tinamrak.com^
 ||vicuna.callisoma.com^
 ||vicuna.casa-moebel.at^
@@ -1045,6 +1048,7 @@
 ||vicuna.fortbinary.com^
 ||vicuna.joblicant.de^
 ||vicuna.mybestproducts.net^
+||viper.kyrelldixon.com^
 ||viper.sitesauce.app^
 ||vole.contemporaryartlibrary.org^
 ||vole.leonhitchens.com^
@@ -1082,6 +1086,7 @@
 ||wildebeest.trigo.dev^
 ||wildfowl.minter.io^
 ||wolf.idthompson.com^
+||wolf.minecraftserverhosts.com^
 ||wolf.samarasousa.com^
 ||wolverine.barac.at^
 ||wolverine.jhdierenklinieken.nl^
@@ -1135,6 +1140,7 @@
 ||cdn.admatic.com.tr^
 ||cdn.adsninja.ca^
 ||cdn.affiliatable.io^
+||cdn.dircont3.com^
 ||cdn.shrtfly.vip^
 ||cdn.track.dark.bz^
 ||consent.cookiefirst.com^
@@ -1147,3 +1153,4 @@
 ||sp.freshlooklens.pk^
 ||sp.lenspk.com^
 ||sp.theladyshop.pk^
+||static.netfly.fun^

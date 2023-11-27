@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -77,6 +77,8 @@ tk.apprentis-auteuil.org CNAME .
 tk.atol.fr CNAME .
 tk.balenciaga.com CNAME .
 tk.biovea.com CNAME .
+tk.blancheporte.be CNAME .
+tk.blancheporte.fr CNAME .
 tk.bricoprive.com CNAME .
 tk.cadeaux.com CNAME .
 tk.conforama.fr CNAME .

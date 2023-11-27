@@ -74,6 +74,7 @@ sponsor.syracuse.com
 309b668e1a.ab78920355.com
 330cc1be66.0a65b6165b.com
 336daaaad4.a13da428b3.com
+344cfb3442.e76544118f.com
 34bde6a6d2.7363b17589.com
 34ee212f2c.350886f6c8.com
 359489455a.01b4075d6c.com
@@ -195,6 +196,7 @@ sponsor.syracuse.com
 7fa2c26b89.fba8a9ab60.com
 80d1a27de4.7776bf141c.com
 812748c48f.02f87a8089.com
+84da976039.ea8e52e061.com
 84eeafa1d9.f02fa5826c.com
 856267c01d.41bcf8ddc1.com
 8577616b81.2045683976.com
@@ -211,6 +213,7 @@ sponsor.syracuse.com
 8bc5a4b24f.91e59ecbfd.com
 8c3f7091b1.ea8816ca93.com
 8dba8f6d76.3ce27e9b41.com
+8e85d46b25.dd3ba09ec2.com
 8ef71a6605.5115924dd3.com
 9028b77447.a5acd46254.com
 914ceb3906.7d4a41c596.com
@@ -284,6 +287,7 @@ cc363782e3.03a17e7986.com
 cc9246f1b6.4bf340a7f1.com
 ce972a61bd.38a2b8fa34.com
 cec60d517c.231f853f2a.com
+cee1ead9b3.fd3b334d49.com
 cf6eefecd9.76362b26c3.com
 d04674bbdd.e02b15bc59.com
 d096f50112.f80ab194b8.com
@@ -305,6 +309,7 @@ dd6f5189a3.70ba306f76.com
 df3e591f6c.5d8f7f3a02.com
 e08409ce7e.e6460525b5.com
 e099af5046.08dc0b0152.com
+e11ba282e6.38711532a0.com
 e172aea9a0.66fb5240da.com
 e4709b9f29.afe95832bb.com
 e49bdd68c5.047f8eefaf.com
@@ -329,6 +334,7 @@ f05f18119a.635a022421.com
 f102547b70.5f6d8a5f78.com
 f1763f2f87.f4f8fb91df.com
 f1ab40b1ac.91a3c37128.com
+f2b4e94d0f.3df9f27128.com
 f2e49209b4.bcab4297a6.com
 f571f387dc.2e51ef91bb.com
 f7edea5919.fce9830ba4.com
@@ -348,7 +354,9 @@ ff04a1538a.ced4d66e2d.com
 ff18e0b495.eeecc0e343.com
 ff6840b5f0.338d2db673.com
 a135.wftv.com
-made-in.share.ntv.io
+a235.chron.com
+a614.al.com
+a614.pennlive.com
 share.ntv.io
 shared.sponsoredcontent.com
 0d9b072dfd.69c28fb7f4.com
@@ -357,11 +365,9 @@ a135.fox23.com
 a135.wpxi.com
 a135.wsbtv.com
 a135.wsoctv.com
-a614.al.com
 a614.masslive.com
 a614.mlive.com
 a614.nj.com
-a614.pennlive.com
 ajc.share.ntv.io
 al.share.ntv.io
 automobilemag.share.ntv.io
@@ -384,6 +390,7 @@ hellomagazine.share.ntv.io
 infoworld.share.ntv.io
 ksn.share.ntv.io
 littlethings.share.ntv.io
+made-in.share.ntv.io
 miamiherald.share.ntv.io
 mlive.share.ntv.io
 mortgagesolutions.share.ntv.io

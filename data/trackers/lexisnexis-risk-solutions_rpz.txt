@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -224,6 +224,7 @@ content.evisa.mofa.go.jp CNAME .
 content.ezaem.ru CNAME .
 content.ezbills.com CNAME .
 content.familyprepaiddebit.com CNAME .
+content.fig.ca CNAME .
 content.firstinterstatebank.com CNAME .
 content.fisglobal.com CNAME .
 content.floridarentals.com CNAME .
@@ -291,6 +292,7 @@ content.rubyfortune.ca CNAME .
 content.sb.lt CNAME .
 content.sfbli.com CNAME .
 content.sheerid.com CNAME .
+content.shop.post.ch CNAME .
 content.smallbusiness.paytrust.com CNAME .
 content.solutions-corporate.com CNAME .
 content.spincasino.ca CNAME .
@@ -491,6 +493,7 @@ img3.forte.net CNAME .
 img3.paylesscar.com CNAME .
 img4.nbpa.com CNAME .
 img4.portal.citidirect.com CNAME .
+img4.portaluat.citidirect.com CNAME .
 img4.uscellular.com CNAME .
 img9.target.com CNAME .
 imgcdn.genworth.com CNAME .

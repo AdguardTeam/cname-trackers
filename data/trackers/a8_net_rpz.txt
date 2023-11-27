@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -142,6 +142,7 @@ a8.hokengarden.com CNAME .
 a8.hokkaido-nb.jp CNAME .
 a8.i-netservice.net CNAME .
 a8.idiy.biz CNAME .
+a8.ihinnoseiriyasan.com CNAME .
 a8.iisakafuji.online CNAME .
 a8.ikkatsu.jp CNAME .
 a8.industrial-branch.com CNAME .
@@ -152,6 +153,7 @@ a8.jiiawater.com CNAME .
 a8.kajitaku.com CNAME .
 a8.kami2323.com CNAME .
 a8.kanbei.jp CNAME .
+a8.kateikyoushi.kuraveil.jp CNAME .
 a8.kddi-hikari.com CNAME .
 a8.kekkon.kuraveil.jp CNAME .
 a8.kimonomachi.co.jp CNAME .
@@ -329,6 +331,7 @@ a8.xn--google-873exa8m6161dbbyb.net CNAME .
 a8.xn--y8jd4aybzqd.jp CNAME .
 a8.yanoman.com CNAME .
 a8.yayoi-kk.co.jp CNAME .
+a8.yellmall.jp CNAME .
 a8.yumejin.jp CNAME .
 a8.yuzen-official.com CNAME .
 a8.zen-camps.com CNAME .
@@ -393,6 +396,7 @@ a8clk.carbattery110.com CNAME .
 a8clk.career.prismy.jp CNAME .
 a8clk.carenessapp.lifekarte.com CNAME .
 a8clk.cart.amahada.com CNAME .
+a8clk.cart.co-heart.com CNAME .
 a8clk.cart.ordersupli.com CNAME .
 a8clk.cart.raku-uru.jp CNAME .
 a8clk.cev.macchialabel.com CNAME .
@@ -411,6 +415,7 @@ a8clk.cp.formalklein.com CNAME .
 a8clk.crefus.com CNAME .
 a8clk.crowdworks.jp CNAME .
 a8clk.cs.machi-ene.jp CNAME .
+a8clk.cv.dreamsv.jp CNAME .
 a8clk.cv.geechs-job.com CNAME .
 a8clk.cv.hanaravi.jp CNAME .
 a8clk.cv.kenkouichiba.com CNAME .
@@ -484,6 +489,7 @@ a8clk.kaitori-janiyard.jp CNAME .
 a8clk.kaitori-retrog.jp CNAME .
 a8clk.kaitori-toretoku.jp CNAME .
 a8clk.kaitori-yamatokukimono.jp CNAME .
+a8clk.kaitori.kind.co.jp CNAME .
 a8clk.kaitoriyasan.group CNAME .
 a8clk.kake-barai.com CNAME .
 a8clk.kanagawa-zero.com CNAME .
@@ -509,6 +515,7 @@ a8clk.mapple-tour.com CNAME .
 a8clk.marche.onward.co.jp CNAME .
 a8clk.mat.duskin-hozumi.co.jp CNAME .
 a8clk.meister-coating.com CNAME .
+a8clk.mens-mr.jp CNAME .
 a8clk.mens-rinx.jp CNAME .
 a8clk.merry.duskin-hozumi.co.jp CNAME .
 a8clk.miidas.jp CNAME .
@@ -839,12 +846,14 @@ a8cv.grassbeaute.jp CNAME .
 a8cv.greed-island.ne.jp CNAME .
 a8cv.haka.craht.jp CNAME .
 a8cv.hal-tanteisya.com CNAME .
+a8cv.hanamaro.jp CNAME .
 a8cv.handmade-ch.jp CNAME .
 a8cv.happy-bears.com CNAME .
 a8cv.harasawa.co.jp CNAME .
 a8cv.hariocorp.co.jp CNAME .
 a8cv.hello-people.jp CNAME .
 a8cv.heybit.io CNAME .
+a8cv.hi-tailor.jp CNAME .
 a8cv.hilife-group.com CNAME .
 a8cv.hoken-laundry.com CNAME .
 a8cv.holo-bell.com CNAME .
@@ -912,6 +921,7 @@ a8cv.lancers.jp CNAME .
 a8cv.lear-caree.com CNAME .
 a8cv.leasonable.com CNAME .
 a8cv.leoandlea.com CNAME .
+a8cv.lianest.co.jp CNAME .
 a8cv.lp.nalevi.mynavi.jp CNAME .
 a8cv.lp.x-house.co.jp CNAME .
 a8cv.lyprinol.jp CNAME .
@@ -937,6 +947,7 @@ a8cv.mobabiji.jp CNAME .
 a8cv.modern-deco.jp CNAME .
 a8cv.modescape.com CNAME .
 a8cv.mogecheck.jp CNAME .
+a8cv.mokumokumarket.com CNAME .
 a8cv.momiji-tantei.com CNAME .
 a8cv.mova-creator-school.com CNAME .
 a8cv.ms-toushiguide.jp CNAME .
@@ -1190,6 +1201,7 @@ acv.aun-softbank-hikari.com CNAME .
 acv.biglobe-hikari.net CNAME .
 acv.cmf-hikari.net CNAME .
 acv.crea-lp.com CNAME .
+acv.fletsntt.com CNAME .
 acv.hikariocn.com CNAME .
 acv.hikarisoftbank.com CNAME .
 acv.internet-moushikomi.net CNAME .
@@ -1206,6 +1218,7 @@ acv.softbank-hikaricollabo.com CNAME .
 acv.xn--dckf5a1e821s9i7b.com CNAME .
 ad-a8.www.zeiri4.com CNAME .
 ad.belleeau.jp CNAME .
+ad.e-dpe.jp CNAME .
 ad.ichiban-boshi.com CNAME .
 ad.ichiru.net CNAME .
 ad.jibunde-esute.com CNAME .
@@ -1334,6 +1347,7 @@ pages2.rizap.jp CNAME .
 pr.yokohama-chokin.com CNAME .
 rsv.dankore.jp CNAME .
 salto.freeto.jp CNAME .
+sfcv.chinavi-shop.jp CNAME .
 shop.anu-cosme.com CNAME .
 shopping.cellpure.co.jp CNAME .
 smn.dankore.jp CNAME .
@@ -1347,7 +1361,6 @@ summary.bookoffonline.co.jp CNAME .
 sync-a8.cocolocala.jp CNAME .
 test.zeus-wifi.jp CNAME .
 testa8wifi.dokoyorimo.com CNAME .
-thanks.hiru-job.com CNAME .
 thanks.hubspaces.jp CNAME .
 thanks.olivesitter.com CNAME .
 thanks.tsubaki-musicschool.com CNAME .

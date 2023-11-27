@@ -131,6 +131,7 @@
 ||a8.hokkaido-nb.jp^
 ||a8.i-netservice.net^
 ||a8.idiy.biz^
+||a8.ihinnoseiriyasan.com^
 ||a8.iisakafuji.online^
 ||a8.ikkatsu.jp^
 ||a8.industrial-branch.com^
@@ -141,6 +142,7 @@
 ||a8.kajitaku.com^
 ||a8.kami2323.com^
 ||a8.kanbei.jp^
+||a8.kateikyoushi.kuraveil.jp^
 ||a8.kddi-hikari.com^
 ||a8.kekkon.kuraveil.jp^
 ||a8.kimonomachi.co.jp^
@@ -318,6 +320,7 @@
 ||a8.xn--y8jd4aybzqd.jp^
 ||a8.yanoman.com^
 ||a8.yayoi-kk.co.jp^
+||a8.yellmall.jp^
 ||a8.yumejin.jp^
 ||a8.yuzen-official.com^
 ||a8.zen-camps.com^
@@ -382,6 +385,7 @@
 ||a8clk.career.prismy.jp^
 ||a8clk.carenessapp.lifekarte.com^
 ||a8clk.cart.amahada.com^
+||a8clk.cart.co-heart.com^
 ||a8clk.cart.ordersupli.com^
 ||a8clk.cart.raku-uru.jp^
 ||a8clk.cev.macchialabel.com^
@@ -400,6 +404,7 @@
 ||a8clk.crefus.com^
 ||a8clk.crowdworks.jp^
 ||a8clk.cs.machi-ene.jp^
+||a8clk.cv.dreamsv.jp^
 ||a8clk.cv.geechs-job.com^
 ||a8clk.cv.hanaravi.jp^
 ||a8clk.cv.kenkouichiba.com^
@@ -473,6 +478,7 @@
 ||a8clk.kaitori-retrog.jp^
 ||a8clk.kaitori-toretoku.jp^
 ||a8clk.kaitori-yamatokukimono.jp^
+||a8clk.kaitori.kind.co.jp^
 ||a8clk.kaitoriyasan.group^
 ||a8clk.kake-barai.com^
 ||a8clk.kanagawa-zero.com^
@@ -498,6 +504,7 @@
 ||a8clk.marche.onward.co.jp^
 ||a8clk.mat.duskin-hozumi.co.jp^
 ||a8clk.meister-coating.com^
+||a8clk.mens-mr.jp^
 ||a8clk.mens-rinx.jp^
 ||a8clk.merry.duskin-hozumi.co.jp^
 ||a8clk.miidas.jp^
@@ -828,12 +835,14 @@
 ||a8cv.greed-island.ne.jp^
 ||a8cv.haka.craht.jp^
 ||a8cv.hal-tanteisya.com^
+||a8cv.hanamaro.jp^
 ||a8cv.handmade-ch.jp^
 ||a8cv.happy-bears.com^
 ||a8cv.harasawa.co.jp^
 ||a8cv.hariocorp.co.jp^
 ||a8cv.hello-people.jp^
 ||a8cv.heybit.io^
+||a8cv.hi-tailor.jp^
 ||a8cv.hilife-group.com^
 ||a8cv.hoken-laundry.com^
 ||a8cv.holo-bell.com^
@@ -901,6 +910,7 @@
 ||a8cv.lear-caree.com^
 ||a8cv.leasonable.com^
 ||a8cv.leoandlea.com^
+||a8cv.lianest.co.jp^
 ||a8cv.lp.nalevi.mynavi.jp^
 ||a8cv.lp.x-house.co.jp^
 ||a8cv.lyprinol.jp^
@@ -926,6 +936,7 @@
 ||a8cv.modern-deco.jp^
 ||a8cv.modescape.com^
 ||a8cv.mogecheck.jp^
+||a8cv.mokumokumarket.com^
 ||a8cv.momiji-tantei.com^
 ||a8cv.mova-creator-school.com^
 ||a8cv.ms-toushiguide.jp^
@@ -1179,6 +1190,7 @@
 ||acv.biglobe-hikari.net^
 ||acv.cmf-hikari.net^
 ||acv.crea-lp.com^
+||acv.fletsntt.com^
 ||acv.hikariocn.com^
 ||acv.hikarisoftbank.com^
 ||acv.internet-moushikomi.net^
@@ -1195,6 +1207,7 @@
 ||acv.xn--dckf5a1e821s9i7b.com^
 ||ad-a8.www.zeiri4.com^
 ||ad.belleeau.jp^
+||ad.e-dpe.jp^
 ||ad.ichiban-boshi.com^
 ||ad.ichiru.net^
 ||ad.jibunde-esute.com^
@@ -1323,6 +1336,7 @@
 ||pr.yokohama-chokin.com^
 ||rsv.dankore.jp^
 ||salto.freeto.jp^
+||sfcv.chinavi-shop.jp^
 ||shop.anu-cosme.com^
 ||shopping.cellpure.co.jp^
 ||smn.dankore.jp^
@@ -1336,7 +1350,6 @@
 ||sync-a8.cocolocala.jp^
 ||test.zeus-wifi.jp^
 ||testa8wifi.dokoyorimo.com^
-||thanks.hiru-job.com^
 ||thanks.hubspaces.jp^
 ||thanks.olivesitter.com^
 ||thanks.tsubaki-musicschool.com^

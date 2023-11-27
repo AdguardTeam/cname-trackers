@@ -213,6 +213,7 @@
 ||content.ezaem.ru^
 ||content.ezbills.com^
 ||content.familyprepaiddebit.com^
+||content.fig.ca^
 ||content.firstinterstatebank.com^
 ||content.fisglobal.com^
 ||content.floridarentals.com^
@@ -280,6 +281,7 @@
 ||content.sb.lt^
 ||content.sfbli.com^
 ||content.sheerid.com^
+||content.shop.post.ch^
 ||content.smallbusiness.paytrust.com^
 ||content.solutions-corporate.com^
 ||content.spincasino.ca^
@@ -480,6 +482,7 @@
 ||img3.paylesscar.com^
 ||img4.nbpa.com^
 ||img4.portal.citidirect.com^
+||img4.portaluat.citidirect.com^
 ||img4.uscellular.com^
 ||img9.target.com^
 ||imgcdn.genworth.com^

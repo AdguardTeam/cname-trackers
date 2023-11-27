@@ -90,6 +90,7 @@ affilbox.kronikazivota.sk
 affilbox.kvaskovanie.sk
 affilbox.rondopartner.cz
 affilbox.stygremvkleci.cz
+affilbox.zdravedesiate.sk
 affiliate.4fresh.cz
 affiliate.a1m.cz
 affiliate.activeczech.com
@@ -491,6 +492,7 @@ partner.directalpine.cz
 partner.doleo.cz
 partner.domaca-pivoteka.sk
 partner.domaci-pivoteka.cz
+partner.dometa.cz
 partner.domoveda.cz
 partner.doplnse.cz
 partner.dr-nek.cz
@@ -624,6 +626,7 @@ partner.proviznasiet.sk
 partner.psidetektiv.cz
 partner.root.cz
 partner.royalfashion.cz
+partner.rozhladna.sk
 partner.runningpro.cz
 partner.ruzovyslon.cz
 partner.safelab.sk
@@ -854,6 +857,7 @@ provize.radynacestu.cz
 provize.rychle-pujcky-bez-registru.cz
 provize.sperky.guru
 provize.vybavenifitness.cz
+provize.wugi.cz
 provize.zazitkovelety.cz
 provizia.mimulo.sk
 provizia.vitalitypradlo.sk
@@ -868,7 +872,6 @@ spoluprace.bafoo.cz
 spoluprace.blackkale.cz
 spoluprace.denikletusky.cz
 spoluprace.eroticstore.cz
-spoluprace.gprooms.eu
 spoluprace.h2world.store
 spoluprace.interbohemia.cz
 spoluprace.janitaurbanova.cz

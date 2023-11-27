@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ activate.cityandshore.com CNAME .
 activate.citypaper.com CNAME .
 activate.columbiaflier.com CNAME .
 activate.courant.com CNAME .
+activate.ctnow.com CNAME .
 activate.dailypress.com CNAME .
 activate.dailysouthtown.com CNAME .
 activate.delmartimes.net CNAME .
@@ -43,6 +44,7 @@ activate.loft.com CNAME .
 activate.mcall.com CNAME .
 activate.mdgazette.com CNAME .
 activate.napersun.com CNAME .
+activate.newssunonline.com CNAME .
 activate.nydailynews.com CNAME .
 activate.orlandosentinel.com CNAME .
 activate.pacificsandiego.com CNAME .
@@ -62,6 +64,7 @@ activate.sun-sentinel.com CNAME .
 activate.suncorp.com.au CNAME .
 activate.tidewaterreview.com CNAME .
 activate.tribpubads.com CNAME .
+activate.tribunecontentagency.com CNAME .
 activate.tronc.com CNAME .
 activate.troncads.com CNAME .
 activate.vagazette.com CNAME .
@@ -164,6 +167,7 @@ cookies.jll.com.my CNAME .
 cookies.jll.com.ph CNAME .
 cookies.jll.com.sg CNAME .
 cookies.jll.com.tr CNAME .
+cookies.jll.cz CNAME .
 cookies.jll.de CNAME .
 cookies.jll.es CNAME .
 cookies.jll.fi CNAME .
@@ -286,13 +290,13 @@ privacy.latitudefinancial.co.nz CNAME .
 privacy.latitudefinancial.com CNAME .
 privacy.latitudefinancial.com.au CNAME .
 privacy.latitudepay.com CNAME .
+privacy.owllabs.com CNAME .
 privacy.tigerbeer.com CNAME .
 privacy.umiloans.com.au CNAME .
 privacy.uwm.com CNAME .
 privacy.zoll.com CNAME .
 privacyconsentmgmt.storable.com CNAME .
 pulse.delta.com CNAME .
-pulse.quaero.com CNAME .
 pulse.rac.co.uk CNAME .
 pulse.sleepnumber.com CNAME .
 pulse.wyndhamhotels.com CNAME .

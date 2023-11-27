@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -228,6 +228,7 @@ ebis.kusunosetakeshi.com CNAME .
 ebis.lululun.com CNAME .
 ebis.macchialabel.com CNAME .
 ebis.makeshop.jp CNAME .
+ebis.mucuna.co.jp CNAME .
 ebis.n-pri.jp CNAME .
 ebis.nomu-silica.jp CNAME .
 ebis.okasan-online.co.jp CNAME .
@@ -272,7 +273,6 @@ ebiscosme.tamagokichi.com CNAME .
 ebisfracora.fracora.com CNAME .
 ebisstore.tamagokichi.com CNAME .
 ebistoppan1.kyowahakko-bio-campaign-1.com CNAME .
-ebs.viosalon.com CNAME .
 emc.dr-stick.shop CNAME .
 frontierconsul02.tsunagaru-office.com CNAME .
 greenjapan-cname.green-japan.com CNAME .
@@ -294,6 +294,7 @@ mgn.ebis.xn--olsz5f0ufw02b.net CNAME .
 msr.p-antiaging.com CNAME .
 ncc.nip-col.jp CNAME .
 nlp-japan.life-and-mind.com CNAME .
+os-om-x.beauty-health.today CNAME .
 os.beauty-health.today CNAME .
 p5mcwdbu.ginzo-buy.jp CNAME .
 partner.haru-shop.jp CNAME .

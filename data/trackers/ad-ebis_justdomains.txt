@@ -217,6 +217,7 @@ ebis.kusunosetakeshi.com
 ebis.lululun.com
 ebis.macchialabel.com
 ebis.makeshop.jp
+ebis.mucuna.co.jp
 ebis.n-pri.jp
 ebis.nomu-silica.jp
 ebis.okasan-online.co.jp
@@ -261,7 +262,6 @@ ebiscosme.tamagokichi.com
 ebisfracora.fracora.com
 ebisstore.tamagokichi.com
 ebistoppan1.kyowahakko-bio-campaign-1.com
-ebs.viosalon.com
 emc.dr-stick.shop
 frontierconsul02.tsunagaru-office.com
 greenjapan-cname.green-japan.com
@@ -283,6 +283,7 @@ mgn.ebis.xn--olsz5f0ufw02b.net
 msr.p-antiaging.com
 ncc.nip-col.jp
 nlp-japan.life-and-mind.com
+os-om-x.beauty-health.today
 os.beauty-health.today
 p5mcwdbu.ginzo-buy.jp
 partner.haru-shop.jp

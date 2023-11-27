@@ -66,6 +66,8 @@ tk.apprentis-auteuil.org
 tk.atol.fr
 tk.balenciaga.com
 tk.biovea.com
+tk.blancheporte.be
+tk.blancheporte.fr
 tk.bricoprive.com
 tk.cadeaux.com
 tk.conforama.fr

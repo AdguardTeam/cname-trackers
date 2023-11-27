@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -116,6 +116,7 @@ refer.volcom.com CNAME .
 refer.vonage.ca CNAME .
 refer.vonage.co.uk CNAME .
 refer.vonage.com CNAME .
+refer.webs.com CNAME .
 refer.wgu.edu CNAME .
 refer.xoom.com CNAME .
 refer.yankeecandle.com CNAME .
@@ -138,7 +139,6 @@ www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -656,6 +656,7 @@ share.uk.theory.com CNAME .
 share.unchartedsociety.com CNAME .
 share.united.net CNAME .
 share.usatoday.com CNAME .
+share.useagle.org CNAME .
 share.vcstar.com CNAME .
 share.veo.co CNAME .
 share.veritycu.com CNAME .
@@ -676,6 +677,7 @@ em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
+em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 sftp.extole.com CNAME .

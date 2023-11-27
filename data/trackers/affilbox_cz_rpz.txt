@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -101,6 +101,7 @@ affilbox.kronikazivota.sk CNAME .
 affilbox.kvaskovanie.sk CNAME .
 affilbox.rondopartner.cz CNAME .
 affilbox.stygremvkleci.cz CNAME .
+affilbox.zdravedesiate.sk CNAME .
 affiliate.4fresh.cz CNAME .
 affiliate.a1m.cz CNAME .
 affiliate.activeczech.com CNAME .
@@ -502,6 +503,7 @@ partner.directalpine.cz CNAME .
 partner.doleo.cz CNAME .
 partner.domaca-pivoteka.sk CNAME .
 partner.domaci-pivoteka.cz CNAME .
+partner.dometa.cz CNAME .
 partner.domoveda.cz CNAME .
 partner.doplnse.cz CNAME .
 partner.dr-nek.cz CNAME .
@@ -635,6 +637,7 @@ partner.proviznasiet.sk CNAME .
 partner.psidetektiv.cz CNAME .
 partner.root.cz CNAME .
 partner.royalfashion.cz CNAME .
+partner.rozhladna.sk CNAME .
 partner.runningpro.cz CNAME .
 partner.ruzovyslon.cz CNAME .
 partner.safelab.sk CNAME .
@@ -865,6 +868,7 @@ provize.radynacestu.cz CNAME .
 provize.rychle-pujcky-bez-registru.cz CNAME .
 provize.sperky.guru CNAME .
 provize.vybavenifitness.cz CNAME .
+provize.wugi.cz CNAME .
 provize.zazitkovelety.cz CNAME .
 provizia.mimulo.sk CNAME .
 provizia.vitalitypradlo.sk CNAME .
@@ -879,7 +883,6 @@ spoluprace.bafoo.cz CNAME .
 spoluprace.blackkale.cz CNAME .
 spoluprace.denikletusky.cz CNAME .
 spoluprace.eroticstore.cz CNAME .
-spoluprace.gprooms.eu CNAME .
 spoluprace.h2world.store CNAME .
 spoluprace.interbohemia.cz CNAME .
 spoluprace.janitaurbanova.cz CNAME .

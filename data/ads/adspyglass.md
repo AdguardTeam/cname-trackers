@@ -72,8 +72,6 @@
 | a.fuckamouth.com | 0i0i0i0.com |
 | a.goodweet.xyz | 0i0i0i0.com |
 | a.hentai369.com | 0i0i0i0.com |
-| a.hentaimotel.com | 0i0i0i0.com |
-| a.hentaitube.icu | 0i0i0i0.com |
 | a.hubhubhub.name | 0i0i0i0.com |
 | a.jerkdevice.tv | 0i0i0i0.com |
 | a.jhfhdkhkh.site | 0i0i0i0.com |
@@ -194,6 +192,7 @@
 | asg.pornomoglie.com | 0i0i0i0.com |
 | asg.pornoplay.online | 0i0i0i0.com |
 | asg.pornvids.fr | 0i0i0i0.com |
+| asg.prettytube.net | 0i0i0i0.com |
 | asg.sdtraff.com | 0i0i0i0.com |
 | asg.shudhdesiporn.com | 0i0i0i0.com |
 | asg.somecdn.bid | 0i0i0i0.com |
@@ -232,6 +231,7 @@
 | banana.arabtoons.net | 0i0i0i0.com |
 | banana.emailon.top | 0i0i0i0.com |
 | bangute.xyz | 0i0i0i0.com |
+| bazao.xyz | 0i0i0i0.com |
 | bc6dc48b743dc5d01.clicknplay.to | 0i0i0i0.com |
 | bddd.javmilk.org | 0i0i0i0.com |
 | bencuzi.xyz | 0i0i0i0.com |
@@ -402,6 +402,7 @@
 | js.mangakl.su | 0i0i0i0.com |
 | js.mangapro.top | 0i0i0i0.com |
 | js.phoenixmanga.com | 0i0i0i0.com |
+| js.syosetu.top | 0i0i0i0.com |
 | js.xemkqxs.com | 0i0i0i0.com |
 | jx3.freepornobook.com | 0i0i0i0.com |
 | k.bloblohub.com | 0i0i0i0.com |
@@ -457,6 +458,7 @@
 | mx6.3pornhere.com | 0i0i0i0.com |
 | my.shymilftube.com | 0i0i0i0.com |
 | mydomainbest.com | 0i0i0i0.com |
+| mydznew.xyz | 0i0i0i0.com |
 | mylives.xyz | 0i0i0i0.com |
 | mziso.xyz | 0i0i0i0.com |
 | n.bloblohub.com | 0i0i0i0.com |
@@ -506,6 +508,7 @@
 | ok.faptor.com | 0i0i0i0.com |
 | ok.hqbang.com | 0i0i0i0.com |
 | ok.starwank.com | 0i0i0i0.com |
+| ontj.com | 0i0i0i0.com |
 | open.oksrv.com | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | orznp.spinna.store | 0i0i0i0.com |
@@ -545,6 +548,7 @@
 | pred.7mmtv.top | 0i0i0i0.com |
 | px9.nuderedtube.com | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
+| qoqv.com | 0i0i0i0.com |
 | qoutec.shop | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
 | quantoz.xyz | 0i0i0i0.com |
@@ -659,6 +663,7 @@
 | vtaov.lol | 0i0i0i0.com |
 | vtaov.xyz | 0i0i0i0.com |
 | vuruzy.xyz | 0i0i0i0.com |
+| vuwjv7sjvg7.zedporn.com | 0i0i0i0.com |
 | vv.7vid.net | 0i0i0i0.com |
 | vz.7vid.net | 0i0i0i0.com |
 | w00t.us | 0i0i0i0.com |
@@ -677,6 +682,7 @@
 | www.f.bloblohub.com | 0i0i0i0.com |
 | www.go.ss-n-30.com | 0i0i0i0.com |
 | www.javtvnow.xyz | 0i0i0i0.com |
+| www.letstry69.xyz | 0i0i0i0.com |
 | www.monsoonlassi.com | 0i0i0i0.com |
 | www.p123p.com | 0i0i0i0.com |
 | www.pelisestreno.cc | 0i0i0i0.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -69,6 +69,7 @@ dlziqh9bo7.boring.fm CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
+f3ft699cloae.staging.artwallstreet.io CNAME .
 fkupm8697t19.eyevolution.de CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
 fyznhp8inq9x.jaywilsonwebsolutions.com CNAME .

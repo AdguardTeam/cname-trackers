@@ -803,6 +803,7 @@
 4069900.notify6.com
 4080560.notify6.com
 4080606.notify6.com
+4086498.notify6.com
 4093684.notify6.com
 4093704.notify6.com
 4096386.notify6.com
@@ -821,6 +822,7 @@
 4153216.notify6.com
 4160048.notify6.com
 4160112.notify6.com
+4162254.notify6.com
 4162256.notify6.com
 4173044.notify6.com
 4179930.notify6.com
@@ -863,6 +865,7 @@
 4329302.notify6.com
 4329306.notify6.com
 4349528.notify6.com
+4365744.notify6.com
 4367658.notify6.com
 4389756.notify6.com
 4399896.notify6.com
@@ -933,6 +936,7 @@
 4917212.notify6.com
 4960922.notify6.com
 5085594.notify6.com
+5132062.notify6.com
 535.notify.optimizesrv.com
 5602.notify.optimizesrv.com
 577.notify.optimizesrv.com
@@ -960,12 +964,14 @@ a.a3ion.com
 a.ad.guru
 a.addisplaynetwork.com
 a.adsession.com
+a.advantageclicks.net
 a.advertrek.com
 a.asvsm.com
 a.bizonads-ssp.com
 a.etology.com
 a.optimizesrv.com
 a.paradoxgroup.uk
+a.r8lnet.com
 a.redpathmedia.com
 a.rocoads.net
 a.santabrowser.com
@@ -1007,6 +1013,7 @@ s.a3ion.com
 s.ad.guru
 s.adnflow.com
 s.adsession.com
+s.advantageclicks.net
 s.advertrek.com
 s.asvsm.com
 s.bizonads-ssp.com
@@ -1061,6 +1068,7 @@ s.wlink1.com
 s.wlink2.com
 s.zlink1.com
 s.zlink2.com
+s.zlink3.com
 s.zlink4.com
 s.zlink6.com
 s.zlink8.com
@@ -1101,6 +1109,7 @@ www.3207695.notify6.com
 www.3227697.notify6.com
 www.3243082.notifysrv.com
 www.3254306.notifysrv.com
+www.3270262.notifysrv.com
 www.3466863.notify6.com
 www.3815579.notify6.com
 www.3881818.notify6.com

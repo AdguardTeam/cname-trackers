@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -39,6 +39,7 @@ c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
 c4n.perverzija.com CNAME .
 c4n.shudhdesiporn.com CNAME .
+c4n.surfotresors.com CNAME .
 c4n.swift4claim.com CNAME .
 c4n.thefreejapaneseporn.com CNAME .
 c4n.watchpornonline.xyz CNAME .
@@ -108,6 +109,7 @@ mail.7porn.ru CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .
 p.deporno.online CNAME .
+p.imagevk.site CNAME .
 p.porn0hd.online CNAME .
 p.russ-porno.net CNAME .
 pi4.piczhq.com CNAME .
@@ -119,6 +121,7 @@ s5.rtnews.pro CNAME .
 snow.snowdayonline.xyz CNAME .
 v040419.badjojo.com CNAME .
 wafe.camcaps.sx CNAME .
+wp.brandnewapp.pro CNAME .
 www.bokep.su CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .

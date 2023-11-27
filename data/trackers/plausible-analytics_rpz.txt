@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -112,6 +112,7 @@ events.mikescerealshack.co CNAME .
 explore.bytelab.uk CNAME .
 external.techopian.com CNAME .
 extramilefloorcare.ericksonbuilt.com CNAME .
+eyes.jstew.art CNAME .
 f8phvntohv.tpetry.me CNAME .
 galop.leferacheval-saintcloud.com CNAME .
 hej.henriksommerfeld.se CNAME .
@@ -299,6 +300,7 @@ plausible.veszelovszki.com CNAME .
 plausible.visitu.com CNAME .
 plausible.viteshot.com CNAME .
 plausible.west.io CNAME .
+plausible.x.baychi.org CNAME .
 plausible.yalepaprika.com CNAME .
 plausible.zest.dev CNAME .
 plausible.zorin.com CNAME .
@@ -806,6 +808,7 @@ stats.processserver101.com CNAME .
 stats.procumeni.cz CNAME .
 stats.prodtype.com CNAME .
 stats.profilehunt.net CNAME .
+stats.profitablesignpricing.com CNAME .
 stats.projectcongress.com CNAME .
 stats.psychotherapieravensburg.de CNAME .
 stats.pubfind.io CNAME .
@@ -893,6 +896,7 @@ stats.suniboy.com CNAME .
 stats.suominaikidoacademy.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svemir.co CNAME .
+stats.swicket.io CNAME .
 stats.symbiofest.cz CNAME .
 stats.table.party CNAME .
 stats.tarasyarema.com CNAME .

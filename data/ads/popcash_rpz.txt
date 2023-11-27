@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 cdn.adevbom.com CNAME .
+cdn.adevppl.com CNAME .
 cdn.afwpc.com CNAME .
 cdn.almacz.com CNAME .
 cdn.alota.xyz CNAME .
@@ -71,6 +72,7 @@ cdn.pllah.com CNAME .
 cdn.posawaj.com CNAME .
 cdn.puyjjq.com CNAME .
 cdn.puysis.com CNAME .
+cdn.quagfa.com CNAME .
 cdn.rapolok.com CNAME .
 cdn.rawqel.com CNAME .
 cdn.rgrd.xyz CNAME .
@@ -106,6 +108,7 @@ aj8md.johnhenry.ie CNAME .
 albatros.teamground.fr CNAME .
 albatross.mypromo.co CNAME .
 albatross.ohseesoftware.com CNAME .
+alpaca.hans-hornberger.com CNAME .
 alpaca.miidbaby.com CNAME .
 alpaca.thesocialmedwork.com CNAME .
 alpaca.wingmantracker.com CNAME .
@@ -590,6 +593,7 @@ jay.plantainguy.com CNAME .
 jcpjfyikk.dogbonemarket.com CNAME .
 jellyfish.teresaharlow.com CNAME .
 jellyfish.therapieplatz-finden.de CNAME .
+jncx1s.michaellindahl.com CNAME .
 kangaroo.kraenk.de CNAME .
 kangaroo.triplightfantastic.com CNAME .
 kaxlfq.testingwithtestcafe.com CNAME .
@@ -1048,7 +1052,6 @@ vampirebat.datingmedellin.com CNAME .
 vampirebat.febolos.es CNAME .
 vampirebat.git-tower.com CNAME .
 vampirebat.sharpend.io CNAME .
-vampirebat.stiftung-palliativ-zuhause.de CNAME .
 vampirebat.tinamrak.com CNAME .
 vicuna.callisoma.com CNAME .
 vicuna.casa-moebel.at CNAME .
@@ -1056,6 +1059,7 @@ vicuna.equity.no CNAME .
 vicuna.fortbinary.com CNAME .
 vicuna.joblicant.de CNAME .
 vicuna.mybestproducts.net CNAME .
+viper.kyrelldixon.com CNAME .
 viper.sitesauce.app CNAME .
 vole.contemporaryartlibrary.org CNAME .
 vole.leonhitchens.com CNAME .
@@ -1093,6 +1097,7 @@ wildebeest.theheritagelodge.com CNAME .
 wildebeest.trigo.dev CNAME .
 wildfowl.minter.io CNAME .
 wolf.idthompson.com CNAME .
+wolf.minecraftserverhosts.com CNAME .
 wolf.samarasousa.com CNAME .
 wolverine.barac.at CNAME .
 wolverine.jhdierenklinieken.nl CNAME .
@@ -1146,6 +1151,7 @@ cdn-b.notsy.io CNAME .
 cdn.admatic.com.tr CNAME .
 cdn.adsninja.ca CNAME .
 cdn.affiliatable.io CNAME .
+cdn.dircont3.com CNAME .
 cdn.shrtfly.vip CNAME .
 cdn.track.dark.bz CNAME .
 consent.cookiefirst.com CNAME .
@@ -1158,3 +1164,4 @@ sp.cleaningkeepers.com CNAME .
 sp.freshlooklens.pk CNAME .
 sp.lenspk.com CNAME .
 sp.theladyshop.pk CNAME .
+static.netfly.fun CNAME .

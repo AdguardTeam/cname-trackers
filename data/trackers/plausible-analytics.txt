@@ -101,6 +101,7 @@
 ||explore.bytelab.uk^
 ||external.techopian.com^
 ||extramilefloorcare.ericksonbuilt.com^
+||eyes.jstew.art^
 ||f8phvntohv.tpetry.me^
 ||galop.leferacheval-saintcloud.com^
 ||hej.henriksommerfeld.se^
@@ -288,6 +289,7 @@
 ||plausible.visitu.com^
 ||plausible.viteshot.com^
 ||plausible.west.io^
+||plausible.x.baychi.org^
 ||plausible.yalepaprika.com^
 ||plausible.zest.dev^
 ||plausible.zorin.com^
@@ -795,6 +797,7 @@
 ||stats.procumeni.cz^
 ||stats.prodtype.com^
 ||stats.profilehunt.net^
+||stats.profitablesignpricing.com^
 ||stats.projectcongress.com^
 ||stats.psychotherapieravensburg.de^
 ||stats.pubfind.io^
@@ -882,6 +885,7 @@
 ||stats.suominaikidoacademy.com^
 ||stats.sushibyte.io^
 ||stats.svemir.co^
+||stats.swicket.io^
 ||stats.symbiofest.cz^
 ||stats.table.party^
 ||stats.tarasyarema.com^

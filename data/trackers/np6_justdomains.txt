@@ -63,9 +63,11 @@ tr.asp106g.espmp-nifr.net
 tr.asp108a.espmp-cufr.net
 tr.asp1098.espmp-cufr.net
 tr.asp109c.espmp-aufr.net
+tr.asp109e.espmp-cufr.net
 tr.asp109y.espmp-agfr.net
 tr.asp10a7.espmp-aufr.net
 tr.asp10ai.espmp-nifr.net
+tr.asp10ap.espmp-nifr.net
 tr.asp10ar.espmp-cufr.net
 tr.asp10bs.espmp-aufr.net
 tr.asp10c8.espmp-agfr.net
@@ -497,6 +499,7 @@ tr.information.labelleadresse.com
 tr.information.lacollection-airfrance.be
 tr.information.lacollection-airfrance.ch
 tr.information.lacollection-airfrance.fr
+tr.information.leclubtravel.fr
 tr.information.perfectstay.com
 tr.information.smartdeals-transavia-fr.com
 tr.information.thelist-emirates.fr
@@ -523,6 +526,7 @@ tr.italia.plimsoll.it
 tr.jend.espmp-pofr.net
 tr.jesuis.enformedelotus.com
 tr.jevoteenligne.fr
+tr.jimb.espmp-cufr.net
 tr.jkcd.espmp-pofr.net
 tr.jkyg.espmp-cufr.net
 tr.kang.espmp-cufr.net
@@ -631,6 +635,7 @@ tr.mp.actu-pm.fr
 tr.mp.infomanageo.fr
 tr.mp.ld-man.fr
 tr.mpbroadcasts.co.uk
+tr.mrls.espmp-agfr.net
 tr.mydevisentreprise.com
 tr.n.ferrero.fr
 tr.n.info.cdgp.fr
@@ -684,8 +689,10 @@ tr.news.chezmonveto.com
 tr.news.chilican.com
 tr.news.clicochic.com
 tr.news.companeo.es
+tr.news.companeo.ro
 tr.news.corsicalinea.com
 tr.news.cotemaison.fr
+tr.news.cporadio.tv
 tr.news.crystal-partenaires.com
 tr.news.delifrance.com
 tr.news.deneuville-chocolat.fr
@@ -721,6 +728,7 @@ tr.news.glance-mediametrie.com
 tr.news.grandsmoulinsdeparis.com
 tr.news.groupe-armonia.com
 tr.news.hallobanden.be
+tr.news.happycap-foundation.fr
 tr.news.happycap.org
 tr.news.helvyre.fr
 tr.news.heredis.com
@@ -742,6 +750,7 @@ tr.news.labelleadresse.com
 tr.news.lacollection-airfrance.be
 tr.news.lacollection-airfrance.ch
 tr.news.lacollection-airfrance.co.uk
+tr.news.lacollection-airfrance.de
 tr.news.lacollection-airfrance.fr
 tr.news.lacollectionair-france.fr
 tr.news.lacollectionairfrance.be
@@ -847,6 +856,7 @@ tr.newsletter.younited-credit.com
 tr.newsletterpagesjaunes.fr
 tr.newsletters-bonpoint.com
 tr.newsletters.alticemedia.com
+tr.newsletters.coedition-contact.fr
 tr.newsletters.odalys-vacances.com
 tr.newsletters.qapa-interim.fr
 tr.newsletters.youmeetings.com
@@ -1038,6 +1048,7 @@ tr.urfk06o.espmp-agfr.net
 tr.urfk06x.espmp-cufr.net
 tr.urfk06y.espmp-nifr.net
 tr.urfk07j.espmp-nifr.net
+tr.urfk07r.espmp-agfr.net
 tr.urfk07s.espmp-nifr.net
 tr.urfk080.espmp-agfr.net
 tr.urfk08c.espmp-cufr.net

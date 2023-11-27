@@ -15,6 +15,7 @@
 * admaticcdn.b-cdn.net
 * adsninjacdn.b-cdn.net
 * affiliatable1.b-cdn.net
+* prgm.b-cdn.net
 * popupads.b-cdn.net
 * track-dark-bz.b-cdn.net
 * consent.b-cdn.net
@@ -79,6 +80,7 @@
 | albatros.teamground.fr | deprecated-custom-domains.b-cdn.net |
 | albatross.mypromo.co | deprecated-custom-domains.b-cdn.net |
 | albatross.ohseesoftware.com | deprecated-custom-domains.b-cdn.net |
+| alpaca.hans-hornberger.com | deprecated-custom-domains.b-cdn.net |
 | alpaca.miidbaby.com | deprecated-custom-domains.b-cdn.net |
 | alpaca.thesocialmedwork.com | deprecated-custom-domains.b-cdn.net |
 | alpaca.wingmantracker.com | deprecated-custom-domains.b-cdn.net |
@@ -563,6 +565,7 @@
 | jcpjfyikk.dogbonemarket.com | deprecated-custom-domains.b-cdn.net |
 | jellyfish.teresaharlow.com | deprecated-custom-domains.b-cdn.net |
 | jellyfish.therapieplatz-finden.de | deprecated-custom-domains.b-cdn.net |
+| jncx1s.michaellindahl.com | deprecated-custom-domains.b-cdn.net |
 | kangaroo.kraenk.de | deprecated-custom-domains.b-cdn.net |
 | kangaroo.triplightfantastic.com | deprecated-custom-domains.b-cdn.net |
 | kaxlfq.testingwithtestcafe.com | deprecated-custom-domains.b-cdn.net |
@@ -1021,7 +1024,6 @@
 | vampirebat.febolos.es | deprecated-custom-domains.b-cdn.net |
 | vampirebat.git-tower.com | deprecated-custom-domains.b-cdn.net |
 | vampirebat.sharpend.io | deprecated-custom-domains.b-cdn.net |
-| vampirebat.stiftung-palliativ-zuhause.de | deprecated-custom-domains.b-cdn.net |
 | vampirebat.tinamrak.com | deprecated-custom-domains.b-cdn.net |
 | vicuna.callisoma.com | deprecated-custom-domains.b-cdn.net |
 | vicuna.casa-moebel.at | deprecated-custom-domains.b-cdn.net |
@@ -1029,6 +1031,7 @@
 | vicuna.fortbinary.com | deprecated-custom-domains.b-cdn.net |
 | vicuna.joblicant.de | deprecated-custom-domains.b-cdn.net |
 | vicuna.mybestproducts.net | deprecated-custom-domains.b-cdn.net |
+| viper.kyrelldixon.com | deprecated-custom-domains.b-cdn.net |
 | viper.sitesauce.app | deprecated-custom-domains.b-cdn.net |
 | vole.contemporaryartlibrary.org | deprecated-custom-domains.b-cdn.net |
 | vole.leonhitchens.com | deprecated-custom-domains.b-cdn.net |
@@ -1066,6 +1069,7 @@
 | wildebeest.trigo.dev | deprecated-custom-domains.b-cdn.net |
 | wildfowl.minter.io | deprecated-custom-domains.b-cdn.net |
 | wolf.idthompson.com | deprecated-custom-domains.b-cdn.net |
+| wolf.minecraftserverhosts.com | deprecated-custom-domains.b-cdn.net |
 | wolf.samarasousa.com | deprecated-custom-domains.b-cdn.net |
 | wolverine.barac.at | deprecated-custom-domains.b-cdn.net |
 | wolverine.jhdierenklinieken.nl | deprecated-custom-domains.b-cdn.net |
@@ -1087,6 +1091,7 @@
 | zebra.helpspot.com | deprecated-custom-domains.b-cdn.net |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.adevbom.com | popcashjs.b-cdn.net |
+| cdn.adevppl.com | popcashjs.b-cdn.net |
 | cdn.afwpc.com | popcashjs.b-cdn.net |
 | cdn.almacz.com | popcashjs.b-cdn.net |
 | cdn.alota.xyz | popcashjs.b-cdn.net |
@@ -1146,6 +1151,7 @@
 | cdn.posawaj.com | popcashjs.b-cdn.net |
 | cdn.puyjjq.com | popcashjs.b-cdn.net |
 | cdn.puysis.com | popcashjs.b-cdn.net |
+| cdn.quagfa.com | popcashjs.b-cdn.net |
 | cdn.rapolok.com | popcashjs.b-cdn.net |
 | cdn.rawqel.com | popcashjs.b-cdn.net |
 | cdn.rgrd.xyz | popcashjs.b-cdn.net |
@@ -1164,10 +1170,12 @@
 | cdn.zxclan.com | popcashjs.b-cdn.net |
 | cdn.shrtfly.vip | popupads.b-cdn.net |
 | cdn-b.notsy.io | prebid.b-cdn.net |
+| cdn.dircont3.com | prgm.b-cdn.net |
 | dntcl.qualaroo.com | qualdnt.b-cdn.net |
 | sp.cleaningkeepers.com | spixel.b-cdn.net |
 | sp.freshlooklens.pk | spixel.b-cdn.net |
 | sp.lenspk.com | spixel.b-cdn.net |
 | sp.theladyshop.pk | spixel.b-cdn.net |
+| static.netfly.fun | st-fly.b-cdn.net |
 | cdn.track.dark.bz | track-dark-bz.b-cdn.net |
 | adserve.bongocdn.com | video-ad.b-cdn.net |

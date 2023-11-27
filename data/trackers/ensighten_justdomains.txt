@@ -13,6 +13,7 @@ activate.cityandshore.com
 activate.citypaper.com
 activate.columbiaflier.com
 activate.courant.com
+activate.ctnow.com
 activate.dailypress.com
 activate.dailysouthtown.com
 activate.delmartimes.net
@@ -32,6 +33,7 @@ activate.loft.com
 activate.mcall.com
 activate.mdgazette.com
 activate.napersun.com
+activate.newssunonline.com
 activate.nydailynews.com
 activate.orlandosentinel.com
 activate.pacificsandiego.com
@@ -51,6 +53,7 @@ activate.sun-sentinel.com
 activate.suncorp.com.au
 activate.tidewaterreview.com
 activate.tribpubads.com
+activate.tribunecontentagency.com
 activate.tronc.com
 activate.troncads.com
 activate.vagazette.com
@@ -153,6 +156,7 @@ cookies.jll.com.my
 cookies.jll.com.ph
 cookies.jll.com.sg
 cookies.jll.com.tr
+cookies.jll.cz
 cookies.jll.de
 cookies.jll.es
 cookies.jll.fi
@@ -275,13 +279,13 @@ privacy.latitudefinancial.co.nz
 privacy.latitudefinancial.com
 privacy.latitudefinancial.com.au
 privacy.latitudepay.com
+privacy.owllabs.com
 privacy.tigerbeer.com
 privacy.umiloans.com.au
 privacy.uwm.com
 privacy.zoll.com
 privacyconsentmgmt.storable.com
 pulse.delta.com
-pulse.quaero.com
 pulse.rac.co.uk
 pulse.sleepnumber.com
 pulse.wyndhamhotels.com

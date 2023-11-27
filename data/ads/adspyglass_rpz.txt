@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1700467223785        ; Serial
+           1701072015931        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -74,8 +74,6 @@ a.fapster.xxx CNAME .
 a.fuckamouth.com CNAME .
 a.goodweet.xyz CNAME .
 a.hentai369.com CNAME .
-a.hentaimotel.com CNAME .
-a.hentaitube.icu CNAME .
 a.hubhubhub.name CNAME .
 a.jerkdevice.tv CNAME .
 a.jhfhdkhkh.site CNAME .
@@ -196,6 +194,7 @@ asg.phukienthoitranggiare.com CNAME .
 asg.pornomoglie.com CNAME .
 asg.pornoplay.online CNAME .
 asg.pornvids.fr CNAME .
+asg.prettytube.net CNAME .
 asg.sdtraff.com CNAME .
 asg.shudhdesiporn.com CNAME .
 asg.somecdn.bid CNAME .
@@ -234,6 +233,7 @@ bambao.xyz CNAME .
 banana.arabtoons.net CNAME .
 banana.emailon.top CNAME .
 bangute.xyz CNAME .
+bazao.xyz CNAME .
 bc6dc48b743dc5d01.clicknplay.to CNAME .
 bddd.javmilk.org CNAME .
 bencuzi.xyz CNAME .
@@ -406,6 +406,7 @@ js.mangajp.top CNAME .
 js.mangakl.su CNAME .
 js.mangapro.top CNAME .
 js.phoenixmanga.com CNAME .
+js.syosetu.top CNAME .
 js.xemkqxs.com CNAME .
 jx3.freepornobook.com CNAME .
 k.bloblohub.com CNAME .
@@ -462,6 +463,7 @@ mrkaito.xyz CNAME .
 mx6.3pornhere.com CNAME .
 my.shymilftube.com CNAME .
 mydomainbest.com CNAME .
+mydznew.xyz CNAME .
 mylives.xyz CNAME .
 mziso.xyz CNAME .
 n.bloblohub.com CNAME .
@@ -511,6 +513,7 @@ ok.fapnow.xxx CNAME .
 ok.faptor.com CNAME .
 ok.hqbang.com CNAME .
 ok.starwank.com CNAME .
+ontj.com CNAME .
 open.oksrv.com CNAME .
 opus.sexyxxx.biz CNAME .
 orznp.spinna.store CNAME .
@@ -551,6 +554,7 @@ pre.pornuxaxa.com CNAME .
 pred.7mmtv.top CNAME .
 px9.nuderedtube.com CNAME .
 qhip.com CNAME .
+qoqv.com CNAME .
 qoutec.shop CNAME .
 qsdr.mysunnylawn.com CNAME .
 quantoz.xyz CNAME .
@@ -665,6 +669,7 @@ vtaos.xyz CNAME .
 vtaov.lol CNAME .
 vtaov.xyz CNAME .
 vuruzy.xyz CNAME .
+vuwjv7sjvg7.zedporn.com CNAME .
 vv.7vid.net CNAME .
 vz.7vid.net CNAME .
 w00t.us CNAME .
@@ -684,6 +689,7 @@ www.f.bloblohub.com CNAME .
 www.go.ss-n-30.com CNAME .
 www.hq3x.com CNAME .
 www.javtvnow.xyz CNAME .
+www.letstry69.xyz CNAME .
 www.monsoonlassi.com CNAME .
 www.p123p.com CNAME .
 www.pelisestreno.cc CNAME .
