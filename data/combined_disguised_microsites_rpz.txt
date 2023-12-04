@@ -1,12 +1,12 @@
 ; Title: AdGuard CNAME disguised microsites list
 ; Description: The list of unique microsites domains that disguise the real trackers by using CNAME records.
-; TimeUpdated: 2023-11-27T08:00:15+00:00
+; TimeUpdated: 2023-12-04T08:00:16+00:00
 ; Homepage: https://github.com/AdguardTeam/cname-trackers
 ;
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -55,6 +55,7 @@ $TTL 300
 1866115cbe.3f5b226d6e.com CNAME .
 193523aee9.122f794d0c.com CNAME .
 196af26667.9072b44d3e.com CNAME .
+19cdb461a5.32f689042e.com CNAME .
 1b38ccf99a.bdcebeabc4.com CNAME .
 1b6ab23d2c.255b9e74d2.com CNAME .
 1ba7882463.cf6ab9a135.com CNAME .
@@ -79,6 +80,7 @@ $TTL 300
 2a98a4b811.a2a2fd6dd1.com CNAME .
 2abf7576ac.4fbe7621b8.com CNAME .
 2b93cd08b5.fd40cd3322.com CNAME .
+2c83d2caf6.d067641e02.com CNAME .
 2caf7c08e0.fa84f180d1.com CNAME .
 2cb68fec4a.4fde20c235.com CNAME .
 2d56aafb14.8767fbfa8b.com CNAME .
@@ -135,6 +137,7 @@ $TTL 300
 4e838acbab.d3f3abd25c.com CNAME .
 4ee283d2af.9f8695e9a4.com CNAME .
 4f7909aec6.cc19ba8a6c.com CNAME .
+50f0f4c399.3acf699e5d.com CNAME .
 518b98b921.7ecd70404f.com CNAME .
 52292b9db4.e4cd7bbad2.com CNAME .
 52b517df93.d26b092649.com CNAME .
@@ -205,6 +208,7 @@ $TTL 300
 7ac6afc563.1a0b8c9a68.com CNAME .
 7b4927c8f2.373c93bba1.com CNAME .
 7b72e40059.4e5d31aaea.com CNAME .
+7b808c74be.f3277f96a7.com CNAME .
 7d6e3e04ac.6580789546.com CNAME .
 7d8f4c4c3d.bca286d743.com CNAME .
 7db3723e5c.59afb8cbf9.com CNAME .
@@ -214,6 +218,7 @@ $TTL 300
 7fa2c26b89.fba8a9ab60.com CNAME .
 80d1a27de4.7776bf141c.com CNAME .
 812748c48f.02f87a8089.com CNAME .
+8251cabcf2.e1bf37eb3f.com CNAME .
 84da976039.ea8e52e061.com CNAME .
 84eeafa1d9.f02fa5826c.com CNAME .
 856267c01d.41bcf8ddc1.com CNAME .
@@ -260,7 +265,6 @@ $TTL 300
 9ea415bca3.0816086bd1.com CNAME .
 9fd272d79c.2f16d429ce.com CNAME .
 a.aer.com CNAME .
-a.mx.information.maileva.com CNAME .
 a.swd5.com CNAME .
 a0603102f5.5a9b48f0db.com CNAME .
 a10b5740ba.239333b133.com CNAME .
@@ -274,6 +278,7 @@ a15d7c11f7.4e2c896383.com CNAME .
 a235.chron.com CNAME .
 a235.myplainview.com CNAME .
 a235.registercitizen.com CNAME .
+a235.seattlepi.com CNAME .
 a235.stamfordadvocate.com CNAME .
 a390770006.41291ba668.com CNAME .
 a614.al.com CNAME .
@@ -430,6 +435,7 @@ app.cincinnatiarts.org CNAME .
 app.cloud.plaxo.com CNAME .
 app.cofcsports.com CNAME .
 app.comms.aon.com CNAME .
+app.communications.americanexpress.ca CNAME .
 app.communications.citimortgage.com CNAME .
 app.communications.jdsu.com CNAME .
 app.compasslearning.biz CNAME .
@@ -484,6 +490,7 @@ app.global.certain.com CNAME .
 app.globalbusinesstravel.americanexpress.com CNAME .
 app.go.bmc.com CNAME .
 app.go.coxmedia.com CNAME .
+app.go.csc.com CNAME .
 app.go.endicia.com CNAME .
 app.go.gogoair.com CNAME .
 app.go.gogoinflight.com CNAME .
@@ -516,6 +523,7 @@ app.gotigersgo.com CNAME .
 app.goto.dowjones.com CNAME .
 app.green.omniture.com CNAME .
 app.griztix.umt.edu CNAME .
+app.gseagles.com CNAME .
 app.hailstate.com CNAME .
 app.hawaiiathletics.com CNAME .
 app.hawkeyesports.com CNAME .
@@ -553,7 +561,6 @@ app.info.washcaps.com CNAME .
 app.info.washingtonwizards.com CNAME .
 app.inform.equifax.com CNAME .
 app.information.cognos.com CNAME .
-app.information.maileva.com CNAME .
 app.innovate.molex.com CNAME .
 app.insider.cavs.net CNAME .
 app.insight.cision.com CNAME .
@@ -603,6 +610,7 @@ app.nhra.com CNAME .
 app.noreply.cummins.com CNAME .
 app.now.bomgar.com CNAME .
 app.now.nowtv.com CNAME .
+app.nuhuskies.com CNAME .
 app.nusports.com CNAME .
 app.ohiobobcats.com CNAME .
 app.okcciviccenter.com CNAME .
@@ -851,6 +859,7 @@ brand.adp.ca CNAME .
 breakthrough.kronos.com CNAME .
 btaconnect.americanexpress.at CNAME .
 btaconnect.americanexpress.co.uk CNAME .
+btaconnect.americanexpress.de CNAME .
 btaconnect.americanexpress.es CNAME .
 btaconnect.americanexpress.fr CNAME .
 btaconnect.americanexpress.it CNAME .
@@ -1047,6 +1056,7 @@ communications.adpinfo.com CNAME .
 communications.apilayer.com CNAME .
 communications.cigna.com CNAME .
 communications.embarcadero.com CNAME .
+communications.fusioncharts.com CNAME .
 communications.idera.com CNAME .
 communications.parcours.fr CNAME .
 communications.sencha.com CNAME .
@@ -1232,7 +1242,6 @@ corporatemrguide.americanexpress.co.uk CNAME .
 corporatemrguide.americanexpress.de CNAME .
 corporatepages.proximus.com CNAME .
 corporateplatino.americanexpress.it CNAME .
-correo.information.maileva.com CNAME .
 cortellisconnections.thomsonreuters.com CNAME .
 covenant.psjhealth.org CNAME .
 cp.ir-central.irco.com CNAME .
@@ -1269,6 +1278,7 @@ d3786bbf0d.25b0c98720.com CNAME .
 d387563a79.9a454e6651.com CNAME .
 d3fab9608e.14eb4832a6.com CNAME .
 d4a90e546a.11a6670e45.com CNAME .
+d834c8bfc5.e468aaeee7.com CNAME .
 d93a7f2b7e.9c03f2208e.com CNAME .
 d9d8248a89.220e561113.com CNAME .
 da7a33716c.92be9e6be2.com CNAME .
@@ -1414,6 +1424,7 @@ e099af5046.08dc0b0152.com CNAME .
 e10.verticurl.com CNAME .
 e11ba282e6.38711532a0.com CNAME .
 e172aea9a0.66fb5240da.com CNAME .
+e4342886e5.26dffa4094.com CNAME .
 e4709b9f29.afe95832bb.com CNAME .
 e49bdd68c5.047f8eefaf.com CNAME .
 e65f8bedd1.96d5dc8650.com CNAME .
@@ -1431,11 +1442,13 @@ eagle.aon.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 eatonaero.advancedtech.com CNAME .
 eb.informabi.com CNAME .
+ebde3ee436.29f37d2f17.com CNAME .
 ec.infosys.com CNAME .
 ece585577b.71bfa0d8fb.com CNAME .
 economicadvantage.midamerican.com CNAME .
 ecvmbusiness.mtn.co.za CNAME .
 ed1.comcastbiz.com CNAME .
+edge.ricoh-europe.com CNAME .
 edpsmart.edpcomunicacao.com.br CNAME .
 education.bendigotafe.edu.au CNAME .
 education.leads360.com CNAME .
@@ -1553,6 +1566,7 @@ elq.mouser.dk CNAME .
 elq.mouser.fr CNAME .
 elq.mouser.jp CNAME .
 elq.mouser.pe CNAME .
+elq.mouser.tw CNAME .
 elq.nextens.nl CNAME .
 elq.openshift.com CNAME .
 elq.opensource.com CNAME .
@@ -1589,6 +1603,7 @@ elqtracking.pensionbuddy.co.uk CNAME .
 elqtracking.revenera.com CNAME .
 elqtracking.richardsonrfpd.com CNAME .
 elqtracking.strayer.edu CNAME .
+elqtracking.wearejust.co.uk CNAME .
 elqtrck.motor.no CNAME .
 elqtrck.nanawall.com CNAME .
 elqtrk.cn.morningstar.com CNAME .
@@ -1722,7 +1737,6 @@ email-hk.americanexpress.com CNAME .
 email-tw.americanexpress.com CNAME .
 email.hockeytown.com CNAME .
 email.info.exclusive-networks.com CNAME .
-email.information.maileva.com CNAME .
 email.lottehotel.com CNAME .
 email.mymandg.co.uk CNAME .
 emailhoteldevelopment.ihg.com CNAME .
@@ -1864,6 +1878,7 @@ etscampaign.motorola.com CNAME .
 eu.business.samsung.com CNAME .
 eu.cignaglobalhealth.com CNAME .
 eu.ironmountain.com CNAME .
+eufunding.ukri.org CNAME .
 eumeainfo.motorolasolutions.com CNAME .
 eurotax-at.autovistagroup.com CNAME .
 eurotax-be.autovistagroup.com CNAME .
@@ -1876,6 +1891,7 @@ eurotax-nl.autovistagroup.com CNAME .
 eurotax-pl.autovistagroup.com CNAME .
 eurotax-pt.autovistagroup.com CNAME .
 eurotax-ro.autovistagroup.com CNAME .
+eurotax-si.autovistagroup.com CNAME .
 eurotax-sk.autovistagroup.com CNAME .
 eurotaxsrbija-si.autovistagroup.com CNAME .
 evenement.ricoh.fr CNAME .
@@ -1932,7 +1948,6 @@ events.ricoh.ch CNAME .
 events.ricoh.ie CNAME .
 events.tafensw.edu.au CNAME .
 events.verticurl.com CNAME .
-exchange.information.maileva.com CNAME .
 execgroup.convio.com CNAME .
 exhibit.coteriefashionevents.com CNAME .
 exhibit.firex.co.uk CNAME .
@@ -2084,7 +2099,6 @@ fpc.golubcapital.com CNAME .
 fpc.indigovision.com CNAME .
 fpc.inxinternational.com CNAME .
 fpc.laerdal.com CNAME .
-fpc.pelco.com CNAME .
 fpc.pelican.com CNAME .
 fpc.questoraclecommunity.org CNAME .
 fpc.sage.com CNAME .
@@ -2108,12 +2122,14 @@ friend.sharefile.com CNAME .
 friends.keurig.ca CNAME .
 friends.keurig.com CNAME .
 friends.uvacreditunion.org CNAME .
+fromhttptohttps.atea.fi CNAME .
 frostnsullivan.advancedtech.com CNAME .
 fsi.seek.intel.com CNAME .
 future.coniferhealth.com CNAME .
 future.jcu.edu.au CNAME .
 future.uwindsor.ca CNAME .
 fvc.alcatel-lucent.com CNAME .
+fxipca.americanexpress.ca CNAME .
 fxipreferral.americanexpress.com CNAME .
 fxpayments.americanexpress.com.au CNAME .
 fxreferral.americanexpress.com CNAME .
@@ -2189,6 +2205,7 @@ go.comcastspectacor.com CNAME .
 go.computacenter.com CNAME .
 go.comres.emerson.com CNAME .
 go.comres1.emerson.com CNAME .
+go.cornerstonebuildingbrands.com CNAME .
 go.deltek.com CNAME .
 go.dunnhumby.com CNAME .
 go.dxc.technology CNAME .
@@ -2265,6 +2282,7 @@ go.transtector.com CNAME .
 go.tuev.cn CNAME .
 go.tuv.com CNAME .
 go.ubmamg-media.com CNAME .
+go.ukg.com CNAME .
 go.ultimatesoftware.com CNAME .
 go.visma.com CNAME .
 go.vitality.com.ar CNAME .
@@ -2292,6 +2310,7 @@ groomrefer.petco.com CNAME .
 groundcare.dixiechopper.com CNAME .
 groups.heatexperience.com CNAME .
 grow.advisorgroup.com CNAME .
+grow.national.biz CNAME .
 gsasolutionssecure.gsa.gov CNAME .
 gslive.edm.globalsources.com CNAME .
 gsmatch.edm.globalsources.com CNAME .
@@ -2300,10 +2319,12 @@ gsols.edm.globalsources.com CNAME .
 gsupplyair.carte-gr.total.fr CNAME .
 guest.vistage.com CNAME .
 gva.share.ntv.io CNAME .
+happyholidays.coniferhealth.com CNAME .
 hasslefree.redwingshoes.com CNAME .
 health.aonunited.com CNAME .
 health.atlanticgeneral.org CNAME .
 health.fishersci.com CNAME .
+health.info.baptisthealth.com CNAME .
 healthcare.fishersci.com CNAME .
 healthcare.mcgladrey.com CNAME .
 healthcare.oakstreethealth.com CNAME .
@@ -2325,6 +2346,7 @@ highlights-schwackenet.schwacke.de CNAME .
 hk-go.experian.com CNAME .
 home.edm.globalsources.com CNAME .
 hopeful.coh.org CNAME .
+horizoneurope.ukri.org CNAME .
 hospitality.redbull.racing CNAME .
 host11.traffic-builders.com CNAME .
 hptechnology.arrow.com CNAME .
@@ -2405,6 +2427,7 @@ images.connect.cebglobal.com CNAME .
 images.connect.globalservices.arrow.com CNAME .
 images.connect.hpe.com CNAME .
 images.connect.mandiant.com CNAME .
+images.connect.o2.co.uk CNAME .
 images.connect.omron.eu CNAME .
 images.connect.veritivcorp.com CNAME .
 images.connect2.bt.com CNAME .
@@ -2479,6 +2502,7 @@ images.edm.carnivalaustralia.com CNAME .
 images.edm.cunardinoz.com.au CNAME .
 images.edm.princesscruises.com.au CNAME .
 images.edm.propertyguru.com CNAME .
+images.edm.wlcl.com.au CNAME .
 images.education.ifebp.org CNAME .
 images.efficiency.nl.visma.com CNAME .
 images.eloqua.fredhutch.org CNAME .
@@ -2729,6 +2753,7 @@ images.newsletter.rewe-group.at CNAME .
 images.notice.wageworks.com CNAME .
 images.noticias.clarin.com CNAME .
 images.notifications.aigdirect.com CNAME .
+images.novedades.fibercorp.com.ar CNAME .
 images.nwinsurance.pemco.com CNAME .
 images.offers.princesscruises.co.uk CNAME .
 images.online.bankofjordan.com.jo CNAME .
@@ -2758,6 +2783,7 @@ images.publishing.wiley.com CNAME .
 images.purl.mercedes-benz.com CNAME .
 images.query.adelaide.edu.au CNAME .
 images.read.aspiresys.com CNAME .
+images.register.deloittece.com CNAME .
 images.register.lighthouse-media.com CNAME .
 images.reldirect.lenovo.com CNAME .
 images.respond.macktrucks.com CNAME .
@@ -2874,7 +2900,6 @@ info.attcenter.com CNAME .
 info.authorize.net CNAME .
 info.avigilon.com CNAME .
 info.avtecinc.com CNAME .
-info.banpronicaragua.com.ni CNAME .
 info.banrural.com.gt CNAME .
 info.bbvaautorenting.es CNAME .
 info.bendigotafe.edu.au CNAME .
@@ -2906,6 +2931,7 @@ info.entega.de CNAME .
 info.extrahop.com CNAME .
 info.fdbhealth.com CNAME .
 info.floridagators.com CNAME .
+info.forms.messe-muenchen.de CNAME .
 info.fortrea.com CNAME .
 info.frbservices.org CNAME .
 info.fscsecurities.com CNAME .
@@ -3031,6 +3057,7 @@ insights.att.com CNAME .
 insights.golubcapital.com CNAME .
 insights.harvardbusiness.org CNAME .
 insights.labcorp.com CNAME .
+insights.networks.global.fujitsu.com CNAME .
 insights.nexansdatacenter.com CNAME .
 insights.prophet.com CNAME .
 insightseries.redbull.racing CNAME .
@@ -3307,8 +3334,6 @@ mail.dolce-gusto.sk CNAME .
 mail.dolce-gusto.ua CNAME .
 mail.dolce-gusto.us CNAME .
 mail.hsm.co.uk CNAME .
-mail.information.maileva.com CNAME .
-mail6.information.maileva.com CNAME .
 making-future.afry.com CNAME .
 managedaccounts.nvenergy.com CNAME .
 managedaccounts.pacificpower.net CNAME .
@@ -3351,6 +3376,7 @@ marketing.promotiv.se CNAME .
 marketing.promotivnordics.dk CNAME .
 marketing.psentertainment.com CNAME .
 marketing.royalalaskanmovers.com CNAME .
+marketing.salva.es CNAME .
 marketing.sonac.biz CNAME .
 marketing.spcapitaliq.com CNAME .
 marketing.tandemdiabetes.com CNAME .
@@ -3361,6 +3387,7 @@ marketingpro.euromaster.fr CNAME .
 marketreports.autovistagroup.com CNAME .
 markkinointi.igopost.fi CNAME .
 mat.lgdisplay.com CNAME .
+matrk.rockymountainpower.net CNAME .
 mds.ricoh-europe.com CNAME .
 mds.ricoh.ch CNAME .
 mds.ricoh.co.uk CNAME .
@@ -3423,14 +3450,13 @@ move.azets.dk CNAME .
 move.azets.fi CNAME .
 move.azets.se CNAME .
 mroprospector.aviationweek.com CNAME .
+ms.informaengage.com CNAME .
 ms1.morganstanley.com CNAME .
 msa-emea.secureforms.partnermcafee.com CNAME .
 msa-uki.secureforms.partnermcafee.com CNAME .
 mt-business.vodafone.com CNAME .
 mx.carte-gr.total.fr CNAME .
 mx.mywd.com CNAME .
-mx01.information.maileva.com CNAME .
-mx5.information.maileva.com CNAME .
 my-go.experian.com CNAME .
 my.catfinancial.com CNAME .
 my.internationalsos.com CNAME .
@@ -3471,6 +3497,7 @@ ned.themarketingscience.com CNAME .
 networkingexchange.att.com CNAME .
 networkprotection.mcafee.com CNAME .
 networks.balluff.com CNAME .
+newperspective.americanexpress.com CNAME .
 news.cannesyachtingfestival.com CNAME .
 news.crmtechnologies.com CNAME .
 news.dbschenker.com CNAME .
@@ -3586,7 +3613,6 @@ pages.att.com CNAME .
 pages.bayer.com CNAME .
 pages.bioglan.com.au CNAME .
 pages.canon.com.au CNAME .
-pages.cartridgesdirect.com.au CNAME .
 pages.cenomicenters.com CNAME .
 pages.contact.columbiabank.com CNAME .
 pages.contact.umpquabank.com CNAME .
@@ -3613,7 +3639,6 @@ pages.naturopathica.com.au CNAME .
 pages.nbjsummit.com CNAME .
 pages.news.realestate.bnpparibas CNAME .
 pages.omdia.informa.com CNAME .
-pages.pelco.com CNAME .
 pages.pentonmktgsvcs.com CNAME .
 pages.pharmaintelligence.informa.com CNAME .
 pages.primalpictures.com CNAME .
@@ -3664,8 +3689,6 @@ plusavecmoins.adp.ca CNAME .
 pm.eu.viatrisconnect.com CNAME .
 pm.eu.viatrisconnect.de CNAME .
 pm.eu.viatrisconnect.it CNAME .
-po.information.maileva.com CNAME .
-poczta.information.maileva.com CNAME .
 podbooth.martela.com CNAME .
 podbooth.martela.no CNAME .
 podbooth.martela.se CNAME .
@@ -3682,6 +3705,7 @@ preference.motorolasolutions.com CNAME .
 preference.nuance.com CNAME .
 preferencecenter.fticonsulting.com CNAME .
 preferencecentre.americanexpress.co.uk CNAME .
+preferencecentre.americanexpress.es CNAME .
 preferences.acspubs.org CNAME .
 preferences.bowerswilkins.com CNAME .
 preferences.darglobal.co.uk CNAME .
@@ -3767,6 +3791,7 @@ rc.precisely.com CNAME .
 rc.visionsolutions.com CNAME .
 reach.ironmountain.com CNAME .
 reach.terumo-bct.com CNAME .
+read.lightreading.com CNAME .
 read.telecoms.com CNAME .
 ready.curriculumassociates.com CNAME .
 ready.nerdery.com CNAME .
@@ -4145,6 +4170,7 @@ reg.enterpriseconnect.com CNAME .
 reg.gdconf.com CNAME .
 reg.insecurity.com CNAME .
 reg.iotworldtoday.com CNAME .
+reg.nojitter.com CNAME .
 reg.techweb.com CNAME .
 reg.theaisummit.com CNAME .
 register-implants.dentsplysirona.com CNAME .
@@ -4210,6 +4236,7 @@ response.kadient.com CNAME .
 response.leadingauthorities.com CNAME .
 response.littletikescommercial.com CNAME .
 response.miracle-recreation.com CNAME .
+response.nofault.com CNAME .
 response.nxp.com CNAME .
 response.operative.com CNAME .
 response.optimummedical.co.uk CNAME .
@@ -4384,6 +4411,7 @@ security.solutions.jci.com CNAME .
 securityintelligence.verint.com CNAME .
 seek.intel.com CNAME .
 seek.uwa.edu.au CNAME .
+semences.pioneer.com CNAME .
 sementi.pioneer.com CNAME .
 seminte.pioneer.com CNAME .
 send.mad-infeed.jp CNAME .
@@ -4630,6 +4658,7 @@ share.tallahassee.com CNAME .
 share.tauntongazette.com CNAME .
 share.tcpalm.com CNAME .
 share.teachersfcu.org CNAME .
+share.teachingchannel.com CNAME .
 share.telegram.com CNAME .
 share.tenmarks.com CNAME .
 share.thedailyjournal.com CNAME .
@@ -4694,8 +4723,8 @@ sms.cf.labanquepostale.fr CNAME .
 smtpauth.carte-gr.total.fr CNAME .
 smtpmail.carte-gr.total.fr CNAME .
 smtps.go.fr.scc.com CNAME .
-sniper.information.maileva.com CNAME .
 sns2.secureforms.mcafee.com CNAME .
+social.fabkids.com CNAME .
 social.forddirectdealers.com CNAME .
 social.insidelpl.com CNAME .
 software.seek.intel.com CNAME .
@@ -4797,6 +4826,7 @@ sub.info.mouser.com CNAME .
 submit.info.shutterstock.com CNAME .
 submit.vaisala.com CNAME .
 subscribe.adpinfo.com CNAME .
+subscribe.dnv.com CNAME .
 subscribe.verintsystemsinc.com CNAME .
 subscribe.vistage.com CNAME .
 subscriptionmanagement.53.com CNAME .
@@ -4933,6 +4963,7 @@ t.iuhoosiers.com CNAME .
 t.jmusports.com CNAME .
 t.krannertcenter.com CNAME .
 t.kstatesports.com CNAME .
+t.ksuowls.com CNAME .
 t.liberty.edu CNAME .
 t.libertyfirstcreditunionarena.com CNAME .
 t.lsusports.net CNAME .
@@ -5050,6 +5081,7 @@ th-go.experian.com CNAME .
 thetradenews.strategic-i.com CNAME .
 ticketoffice.liberty.edu CNAME .
 tkelq.genesys.com CNAME .
+tm-marketing.wolterskluwer.com CNAME .
 tmt.intelligence.informa.com CNAME .
 tools.ricoh.co.uk CNAME .
 tools.ricoh.de CNAME .
@@ -5065,6 +5097,7 @@ track-e.cypress.com CNAME .
 track-e.infineon.com CNAME .
 track-e.infineoncommunity.com CNAME .
 track.abrdn.com CNAME .
+track.abrdnacp.com CNAME .
 track.abrdnaef.com CNAME .
 track.abrdnaod.com CNAME .
 track.abrdnawp.com CNAME .
@@ -5524,6 +5557,7 @@ tracking.te.com CNAME .
 tracking.teho.visma.fi CNAME .
 tracking.test.insead.edu CNAME .
 tracking.theemeraldconference.com CNAME .
+tracking.thermoinfo.com CNAME .
 tracking.thiomucase.es CNAME .
 tracking.thunderhead.com CNAME .
 tracking.ti.com CNAME .
@@ -5561,6 +5595,7 @@ tracking.vodafone.co.uk CNAME .
 tracking.vodafone.com CNAME .
 tracking.wettfreunde.net CNAME .
 tracking.winecoolerdirect.com CNAME .
+tracking.xmor.info CNAME .
 tracking.y-nmc.jp CNAME .
 tracking.yealink.com CNAME .
 tracking.zagranie.com CNAME .
@@ -5613,6 +5648,7 @@ transact.blackboard.com CNAME .
 transplant.care.uhssa.com CNAME .
 travelandleisure.share.ntv.io CNAME .
 trc.solution.resonac.com CNAME .
+trck.accredible.com CNAME .
 trck.comms.watlow.com CNAME .
 trck.copeland.com CNAME .
 trck.e.atradius.com CNAME .
@@ -5621,6 +5657,8 @@ trck.graiman.com CNAME .
 trck.info.fullsaildc3.com CNAME .
 trck.info.lloydslistintelligence.com CNAME .
 trck.internalnews.dbschenker.com CNAME .
+trck.medlem.elogit.no CNAME .
+trck.my.elca.ch CNAME .
 trelleborg.tecs1.com CNAME .
 trk.admmontreal.com CNAME .
 trk.admtoronto.com CNAME .
@@ -5643,6 +5681,7 @@ trk.appliedintelligence.live CNAME .
 trk.arozone.cn CNAME .
 trk.arozone.com CNAME .
 trk.aviationweek.com CNAME .
+trk.avlr.net CNAME .
 trk.bakewithstork.com CNAME .
 trk.banktech.com CNAME .
 trk.barcoproducts.ca CNAME .
@@ -5804,6 +5843,7 @@ trk.news.loyaltycompany.com CNAME .
 trk.nojitter.com CNAME .
 trk.novelis.com CNAME .
 trk.nrn.com CNAME .
+trk.nvenergy.com CNAME .
 trk.oberdorferpumps.com CNAME .
 trk.oma.dk CNAME .
 trk.optum.com CNAME .
@@ -5812,6 +5852,7 @@ trk.parkitbikeracks.com CNAME .
 trk.peceniejeradost.sk CNAME .
 trk.pecenijeradost.cz CNAME .
 trk.picnictables.com CNAME .
+trk.planta.be CNAME .
 trk.planta.pt CNAME .
 trk.plantafin.fr CNAME .
 trk.plasticstoday.com CNAME .
@@ -5955,6 +5996,7 @@ web.akademiai.hu CNAME .
 web.care.eehealth.org CNAME .
 web.care.mclaren.org CNAME .
 web.care.mhs.net CNAME .
+web.care.northoaks.org CNAME .
 web.care.sheppardpratt.org CNAME .
 web.care.uhssa.com CNAME .
 web.care.wakemed.org CNAME .
@@ -6061,6 +6103,7 @@ www.aonunited.com CNAME .
 www.armolipid.com.ru CNAME .
 www.b2bmarketing.swisscom.ch CNAME .
 www.b2bmarketingsb.swisscom.ch CNAME .
+www.cf.labanquepostale.fr CNAME .
 www.chronischepancreatitis.nl CNAME .
 www.communications.kra.go.ke CNAME .
 www.compass-fit.jp CNAME .
@@ -6074,6 +6117,7 @@ www.enterprises.proximus.be CNAME .
 www.enterprises.proximus.com CNAME .
 www.epipenexpiryservice.com CNAME .
 www.ess.tis.co.jp CNAME .
+www.events.ferrari.com CNAME .
 www.fordprotectplans.com CNAME .
 www.futureofcoffee.com CNAME .
 www.gaylordhotelsnews.com CNAME .
@@ -6081,6 +6125,7 @@ www.get.ukg.com CNAME .
 www.glf.mt.com CNAME .
 www.go.dunnhumby.com CNAME .
 www.happyholidays.coniferhealth.com CNAME .
+www.hasslefree.redwingshoes.com CNAME .
 www.heatexperience.com CNAME .
 www.hr.adp.ca CNAME .
 www.infineon-community.com CNAME .
@@ -6095,6 +6140,7 @@ www.learn.dunnhumby.com CNAME .
 www.longterminvestmentsolutions.com CNAME .
 www.lowvolatilitysolutions.com CNAME .
 www.marketing.hilton.com CNAME .
+www.maserati.info CNAME .
 www.mediwebinars.com CNAME .
 www.medtronicsolutions.com CNAME .
 www.mkt.uvg.edu.gt CNAME .

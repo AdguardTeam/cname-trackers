@@ -81,6 +81,7 @@
 | tr.asp104p.espmp-aufr.net | tracking.bp01.net |
 | tr.asp106d.espmp-cufr.net | tracking.bp01.net |
 | tr.asp106g.espmp-nifr.net | tracking.bp01.net |
+| tr.asp106m.espmp-agfr.net | tracking.bp01.net |
 | tr.asp108a.espmp-cufr.net | tracking.bp01.net |
 | tr.asp1098.espmp-cufr.net | tracking.bp01.net |
 | tr.asp109c.espmp-aufr.net | tracking.bp01.net |
@@ -228,6 +229,7 @@
 | tr.communication.armatis-lc.com | tracking.bp01.net |
 | tr.communication.arthur-bonnet.com | tracking.bp01.net |
 | tr.communication.b2b-actualites.com | tracking.bp01.net |
+| tr.communication.boursobank.info | tracking.bp01.net |
 | tr.communication.boursorama.info | tracking.bp01.net |
 | tr.communication.cgaaer.fr | tracking.bp01.net |
 | tr.communication.enkiapp.io | tracking.bp01.net |
@@ -257,8 +259,6 @@
 | tr.contact.e-turf.fr | tracking.bp01.net |
 | tr.contact.lead.eu.com | tracking.bp01.net |
 | tr.contact.lvmh.fr | tracking.bp01.net |
-| tr.contact.makemelead.com | tracking.bp01.net |
-| tr.contact.makemelead.info | tracking.bp01.net |
 | tr.contact.mhl-publishing.fr | tracking.bp01.net |
 | tr.contact.ruinart.com | tracking.bp01.net |
 | tr.contact.stof.fr | tracking.bp01.net |
@@ -394,6 +394,7 @@
 | tr.envie-de-bien-manger.espmp-aufr.net | tracking.bp01.net |
 | tr.eqs.cpam67.net | tracking.bp01.net |
 | tr.ere.emailing.bnpparibas | tracking.bp01.net |
+| tr.espmp-agfr.net | tracking.bp01.net |
 | tr.estatesandwines.moethennessy.com | tracking.bp01.net |
 | tr.etravauxpro.fr | tracking.bp01.net |
 | tr.etude.sncd.org | tracking.bp01.net |
@@ -689,7 +690,6 @@
 | tr.news.alibabuy.com | tracking.bp01.net |
 | tr.news.alinea.com | tracking.bp01.net |
 | tr.news.alinea.fr | tracking.bp01.net |
-| tr.news.allopneus.be | tracking.bp01.net |
 | tr.news.allopneus.com | tracking.bp01.net |
 | tr.news.aramisauto.com | tracking.bp01.net |
 | tr.news.assuragency.net | tracking.bp01.net |
@@ -781,6 +781,7 @@
 | tr.news.lalettredelexpansion.com | tracking.bp01.net |
 | tr.news.latribunebordeaux.fr | tracking.bp01.net |
 | tr.news.leclubtravel.fr | tracking.bp01.net |
+| tr.news.lentillesmoinscheres.com | tracking.bp01.net |
 | tr.news.lentreprise.lexpress.fr | tracking.bp01.net |
 | tr.news.lexpansion.lexpress.fr | tracking.bp01.net |
 | tr.news.lexpress.fr | tracking.bp01.net |

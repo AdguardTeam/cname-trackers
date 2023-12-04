@@ -63,7 +63,6 @@ adebis.gfs.tokyo
 adebis.gogin.co.jp
 adebis.harutaka.jp
 adebis.hotstaff.co.jp
-adebis.irobot-jp.com
 adebis.jp.iface.com
 adebis.juku.st
 adebis.kamada.co.jp

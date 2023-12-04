@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -389,6 +389,7 @@ thistedp.tns-gallup.dk CNAME .
 tv2androidstream.tns-gallup.dk CNAME .
 tv2iam.tns-gallup.dk CNAME .
 tv2stream.tns-gallup.dk CNAME .
+tv2tvosstream.tns-gallup.dk CNAME .
 tv3.tns-gallup.dk CNAME .
 tv3play.tns-gallup.dk CNAME .
 ugeavisen.tns-gallup.dk CNAME .

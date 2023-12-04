@@ -5,6 +5,7 @@
 ||data.decathlon.de^
 ||data.decathlon.es^
 ||data.decathlon.fr^
+||data.decathlon.it^
 ||data.decathlon.pl^
 ||data.ouigo.com^
 ||data.ricaud.com^
@@ -19,6 +20,5 @@
 ||tcdata.fnac.com^
 ||configure.adlermode.com^
 ||data.auchandirect.fr^
-||data.decathlon.it^
 ||tag.boulanger.fr^
 ||tc.europcar.de^

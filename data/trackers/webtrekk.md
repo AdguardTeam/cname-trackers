@@ -92,6 +92,7 @@
     * 427813503923049.wt-eu02.net
     * 444170171787319.wt-eu02.net
     * 451504046304293.wt-eu02.net
+    * 458677892662477.wt-eu02.net
     * 467808562573270.wt-eu02.net
     * 470719744966924.wt-eu02.net
     * 472882311545060.wt-eu02.net
@@ -306,6 +307,7 @@
 | wbtrkk.teufelaudio.com | 427813503923049.wt-eu02.net |
 | mit.bhw.de | 444170171787319.wt-eu02.net |
 | wbtrkk.teufelaudio.it | 451504046304293.wt-eu02.net |
+| w.ilfattoquotidiano.it | 458677892662477.wt-eu02.net |
 | a.deutschehospitality.com | 467808562573270.wt-eu02.net |
 | webt.aqipa.com | 470719744966924.wt-eu02.net |
 | webt.eleonto.com | 470719744966924.wt-eu02.net |

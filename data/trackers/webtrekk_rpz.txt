@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -231,6 +231,7 @@ trail-001.schleich-s.com CNAME .
 trk.blume2000.de CNAME .
 trk.krebsversicherung.de CNAME .
 trk.nuernberger.digital CNAME .
+w.ilfattoquotidiano.it CNAME .
 w3.aktionaersbank.de CNAME .
 w7.berlin.de CNAME .
 w7.berliner-silvester.de CNAME .

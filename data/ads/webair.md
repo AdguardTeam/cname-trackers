@@ -37,7 +37,6 @@
     * ad-maven.ui.ak-is2.net
     * ad-maven.xml-eu.ak-is2.net
     * ad-maven.xml.ak-is2.net
-    * ad-volt.rtb-as-useast.ak-is2.net
     * adacts.ui.ak-is2.net
     * adacts.xml.ak-is2.net
     * adapace.rtb-useast.ak-is2.net
@@ -851,6 +850,7 @@
 
 ### Rarely active trackers
 
+* a1499.dscg2.akamai.net
 * a550.dscg2.akamai.net
 * 1.xs.wowcon.net
 
@@ -940,7 +940,17 @@
 | partner.80xmedia.com | 80xmedia.ui.ak-is2.net |
 | xml.80xmedia.com | 80xmedia.xml.ak-is2.net |
 | xml.9dotsmedia.com | 9dotsmedia.xml.ak-is2.net |
+| dsp-static.nativeads.com | a1499.dscg2.akamai.net |
+| static.adright.co | a550.dscg2.akamai.net |
+| static.adright.com | a550.dscg2.akamai.net |
+| static.fstsrv1.com | a550.dscg2.akamai.net |
+| static.fstsrv2.com | a550.dscg2.akamai.net |
+| static.fstsrv3.com | a550.dscg2.akamai.net |
+| static.fstsrv4.com | a550.dscg2.akamai.net |
+| static.fstsrv5.com | a550.dscg2.akamai.net |
 | static.openrtb.in | a550.dscg2.akamai.net |
+| static.qksrv.cc | a550.dscg2.akamai.net |
+| static.qksrv1.com | a550.dscg2.akamai.net |
 | static.xrtb.io | a550.dscg2.akamai.net |
 | vid-static.xapads.com | a550.dscg2.akamai.net |
 | filter.acertb.com | acertb.fs.ak-is2.net |
@@ -962,7 +972,6 @@
 | xml.bidit-winit.com | ad-maven.xml.ak-is2.net |
 | xml.realtime-bid.com | ad-maven.xml.ak-is2.net |
 | xml.win-bidding.com | ad-maven.xml.ak-is2.net |
-| rtb2-useast.ad-volt.com | ad-volt.rtb-as-useast.ak-is2.net |
 | login.pop.adacts.com | adacts.ui.ak-is2.net |
 | xml.pop.adacts.com | adacts.xml.ak-is2.net |
 | rtb-useast.adapace.com | adapace.rtb-useast.ak-is2.net |
@@ -1918,7 +1927,6 @@
 | win-rtb2-useast.webithr.com | webithr.win-useast.ak-is2.net |
 | dsp.xapads.com | xapads.aui.ak-is2.net |
 | cpm.xrtb.io | xapads.cpm.ak-is2.net |
-| display.rtb-serve.com | xapads.cpm.ak-is2.net |
 | vid-cpm.xapads.com | xapads.cpm.ak-is2.net |
 | click.aarthpro.com | xapads.fs.ak-is2.net |
 | xml-default.xapads.com | xapads.fs.ak-is2.net |

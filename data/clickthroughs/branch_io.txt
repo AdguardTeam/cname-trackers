@@ -806,6 +806,7 @@
 ||test-eml.postmates.com^
 ||test-fleet-eml.postmates.com^
 ||test.customers.instacartemail.com^
+||test.emails.cookingchanneltv.com^
 ||test.emails.discovery.com^
 ||test.emails.foodnetwork.com^
 ||test.emails.hgtv.com^
@@ -1041,6 +1042,7 @@
 ||app.belk.com^
 ||app.bergenkino.no^
 ||app.berrydates.com^
+||app.bettle.co^
 ||app.bible.com^
 ||app.biblelens.com^
 ||app.bikeep.com^
@@ -1184,7 +1186,6 @@
 ||app.jamja.vn^
 ||app.jili178.us^
 ||app.joatspace.com^
-||app.joinglimpse.io^
 ||app.joinkroo.com^
 ||app.joinraft.com^
 ||app.jurishand.com^
@@ -1236,7 +1237,6 @@
 ||app.mybestphotobook.com^
 ||app.mybliss.ai^
 ||app.mycirclecare.com^
-||app.mylegatus.com^
 ||app.myrbhs.com.au^
 ||app.mywaggle.com^
 ||app.naga.com^
@@ -1420,6 +1420,7 @@
 ||applink.getconfide.com^
 ||applink.glicrx.com^
 ||applink.groupthera.com^
+||applink.hellobacsi.com^
 ||applink.hightail.com^
 ||applink.hk01.com^
 ||applink.hktester.com^
@@ -1871,6 +1872,7 @@
 ||deeplinkdev.upoker.net^
 ||deeplinks.breaz.dynamify.com^
 ||deeplinks.everyday.dynamify.com^
+||deeplinks.mindtickle.com^
 ||deeplinks.myyogateacher.com^
 ||deeplinks.pebblebee.com^
 ||deeplinktest.yooture.info^
@@ -1923,6 +1925,7 @@
 ||dinocraft.animocabrands.com^
 ||direct.diarymuslim.com^
 ||directions.mdanderson.org^
+||directlink.hasdukmerahputih.com^
 ||distiller.kano.link^
 ||dl-dev.tablelist.com^
 ||dl-dev.tytocare.com^
@@ -1962,7 +1965,6 @@
 ||dl.right2vote.in^
 ||dl.rivafashion.com^
 ||dl.shopwell.com^
-||dl.stritch.com^
 ||dl.tablelist.com^
 ||dl.thebeat.co^
 ||dl.tytocare.com^
@@ -2413,6 +2415,7 @@
 ||go.power.trade^
 ||go.powunity.com^
 ||go.prealpha.avant.com^
+||go.prodapp.sharekey.com^
 ||go.pubu.tw^
 ||go.qantaswellbeing.com^
 ||go.queer.ignite.technology^
@@ -2645,6 +2648,7 @@
 ||join.our-story.co^
 ||join.parentlove.me^
 ||join.pockit.com^
+||join.qa.fitgrid.com^
 ||join.reakt.to^
 ||join.schmooze.tech^
 ||join.sizl.com^
@@ -2890,6 +2894,7 @@
 ||link.edapp.com^
 ||link.eksperience.net^
 ||link.electroneum.com^
+||link.electrover.se^
 ||link.emblyapp.com^
 ||link.empleyo.com^
 ||link.epmyalptest.com^
@@ -3012,7 +3017,6 @@
 ||link.lead-out-app-staging.specialized.com^
 ||link.lead-out-app.specialized.com^
 ||link.legapass.com^
-||link.lemonquiz.se^
 ||link.lendingtree.com^
 ||link.letsdayout.com^
 ||link.litnet.com^
@@ -3033,6 +3037,7 @@
 ||link.metronaut.app^
 ||link.meumulti.com.br^
 ||link.midnite.com^
+||link.million.one^
 ||link.mindsetapp.com^
 ||link.mix.com^
 ||link.mixbit.com^
@@ -3168,6 +3173,7 @@
 ||link.steezy.co^
 ||link.stg.boxofficevr.com^
 ||link.stg.imprint.co^
+||link.stickybeak.co^
 ||link.stockalarm.io^
 ||link.stockviva.com^
 ||link.straitstimes.com^
@@ -3234,6 +3240,7 @@
 ||link.vusar.co^
 ||link.wagerlab.app^
 ||link.wait.nl^
+||link.wakatoon.com^
 ||link.walem.io^
 ||link.wappiter.com^
 ||link.wazirx.com^
@@ -3325,6 +3332,7 @@
 ||links.motortrend.com^
 ||links.myplace.co^
 ||links.myvolly.com^
+||links.ottplay.com^
 ||links.outskill.app^
 ||links.own.tv^
 ||links.oxstreet.com^
@@ -3571,7 +3579,6 @@
 ||open.bitcoinmagazine.app^
 ||open.catchapp.mobi^
 ||open.clerkie.io^
-||open.coover.app^
 ||open.ditch.cash^
 ||open.drivescore.com^
 ||open.flow.com.mm^
@@ -3631,14 +3638,15 @@
 ||pizzaexpress.openapp.link^
 ||pizzaromea.openapp.link^
 ||pl-topgal.m-shop.me^
-||play-test.wavelength.zone^
 ||play.ab05.bet^
 ||play.b-t11.com^
 ||play.betluk7.com^
 ||play.colorplay.fun^
 ||play.fanslide.com^
+||play.goldplay.me^
 ||play.jdb888.club^
 ||play.journey8.com^
+||play.maxgamings.com^
 ||play.rheo.tv^
 ||play.scavos.com^
 ||play.skydreamcasino.net^
@@ -3922,7 +3930,7 @@
 ||smtpauth.happ.social^
 ||snapshotapp.progressive.com^
 ||snowman.odencat.com^
-||social.eduthrill.com^
+||social.talenttitan.com^
 ||social.tinyview.com^
 ||sp-app.fixly.pl^
 ||splitexpenses.oworld.fr^
@@ -3986,6 +3994,7 @@
 ||test-b.todaytix.com^
 ||test-link-ccontact.focuscura.com^
 ||test-link.californiapsychics.com^
+||test-link.electrover.se^
 ||test-link.foodiapp.com^
 ||test-link.hellobeerapp.com^
 ||test-link.payulatam.com^
@@ -4030,6 +4039,7 @@
 ||testlink.kidzapp.com^
 ||testlink.peak.net^
 ||testlink.victoriatheapp.com^
+||testlinks.ottplay.com^
 ||testlinks.sliceit.com^
 ||testreferral.upay.lk^
 ||testsocial.eduthrill.com^
@@ -4064,7 +4074,6 @@
 ||trk.luisaviaroma.com^
 ||try.jaranda.kr^
 ||try.joonapp.io^
-||try.klarsmile.app^
 ||try.popchart.family^
 ||try.postmuseapp.com^
 ||ts.besilm.com^

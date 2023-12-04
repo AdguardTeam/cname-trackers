@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -672,7 +672,6 @@ rtb2-eu.torchad.com CNAME .
 rtb2-eu.waardex.com CNAME .
 rtb2-eu.xaprio.net CNAME .
 rtb2-useast.a8dsp.com CNAME .
-rtb2-useast.ad-volt.com CNAME .
 rtb2-useast.adhunter.media CNAME .
 rtb2-useast.adpix.online CNAME .
 rtb2-useast.adsync.global CNAME .

@@ -378,6 +378,7 @@ thistedp.tns-gallup.dk
 tv2androidstream.tns-gallup.dk
 tv2iam.tns-gallup.dk
 tv2stream.tns-gallup.dk
+tv2tvosstream.tns-gallup.dk
 tv3.tns-gallup.dk
 tv3play.tns-gallup.dk
 ugeavisen.tns-gallup.dk

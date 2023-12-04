@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -70,7 +70,6 @@ ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .
 cli.its2.net CNAME .
 clickc4n.pornharlot.com CNAME .
-clickc4n.pornharlot.net CNAME .
 clk.slutcam.org CNAME .
 clka.bondagevalley.cc CNAME .
 clkn.apostle.onl CNAME .

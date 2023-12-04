@@ -5,6 +5,10 @@
 * 0i0i0i0.com
     * u50.0i0i0i0.com
 
+### Rarely active trackers
+
+* u53.hypnorat.com
+
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -52,7 +56,6 @@
 | a.6drole.com | 0i0i0i0.com |
 | a.6vids.space | 0i0i0i0.com |
 | a.acervox.com | 0i0i0i0.com |
-| a.adult-videos.org | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.artamkari.com | 0i0i0i0.com |
 | a.badword.xyz | 0i0i0i0.com |
@@ -60,6 +63,7 @@
 | a.bitporno.to | 0i0i0i0.com |
 | a.bloblohub.com | 0i0i0i0.com |
 | a.boyjackpot.com | 0i0i0i0.com |
+| a.bp9l1pi60.pro | 0i0i0i0.com |
 | a.coinhub.wiki | 0i0i0i0.com |
 | a.craftbeerclub.com.ua | 0i0i0i0.com |
 | a.dajex.club | 0i0i0i0.com |
@@ -71,33 +75,31 @@
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
 | a.goodweet.xyz | 0i0i0i0.com |
+| a.goteat.xyz | 0i0i0i0.com |
 | a.hentai369.com | 0i0i0i0.com |
 | a.hubhubhub.name | 0i0i0i0.com |
 | a.jerkdevice.tv | 0i0i0i0.com |
 | a.jhfhdkhkh.site | 0i0i0i0.com |
-| a.kagiti.club | 0i0i0i0.com |
 | a.kainpopoy.com | 0i0i0i0.com |
 | a.kambistory.ml | 0i0i0i0.com |
 | a.kamehaus.net | 0i0i0i0.com |
 | a.kantotin.net | 0i0i0i0.com |
-| a.katomu.club | 0i0i0i0.com |
 | a.kizzteen.com | 0i0i0i0.com |
 | a.letsjerk.org | 0i0i0i0.com |
 | a.letsjerk.tv | 0i0i0i0.com |
 | a.memosaqee.com | 0i0i0i0.com |
 | a.misctool.xyz | 0i0i0i0.com |
 | a.myprettyads.one | 0i0i0i0.com |
-| a.narutoon.com | 0i0i0i0.com |
 | a.p123p.com | 0i0i0i0.com |
 | a.pandaporner.com | 0i0i0i0.com |
 | a.pinayviralsexx.com | 0i0i0i0.com |
 | a.pinoymoviepedia.ru | 0i0i0i0.com |
 | a.porn369.net | 0i0i0i0.com |
 | a.pornhex.com | 0i0i0i0.com |
-| a.pumpity.net | 0i0i0i0.com |
 | a.rafian.com | 0i0i0i0.com |
 | a.suptube.com | 0i0i0i0.com |
 | a.teencfnm.com | 0i0i0i0.com |
+| a.testda.homes | 0i0i0i0.com |
 | a.tixir.xyz | 0i0i0i0.com |
 | a.totoro2011.xyz | 0i0i0i0.com |
 | a.unblock2303.xyz | 0i0i0i0.com |
@@ -125,26 +127,25 @@
 | ad.wawacity.xyz | 0i0i0i0.com |
 | ad.xxam.org | 0i0i0i0.com |
 | adanad.name | 0i0i0i0.com |
-| adanald.icu | 0i0i0i0.com |
 | adblock.vidomo.xyz | 0i0i0i0.com |
 | adddddd.javmilk.org | 0i0i0i0.com |
 | addin.icu | 0i0i0i0.com |
 | adhand.icu | 0i0i0i0.com |
 | adilk.ilikecomix.com | 0i0i0i0.com |
+| ads.ad3d.icu | 0i0i0i0.com |
+| ads.crazyads.icu | 0i0i0i0.com |
 | ads.free-to.download | 0i0i0i0.com |
 | ads.gotxx.net | 0i0i0i0.com |
 | ads.hentaiheart.com | 0i0i0i0.com |
 | ads.javtit.com | 0i0i0i0.com |
 | ads.onetouchtv.me | 0i0i0i0.com |
 | ads.pornharlot.com | 0i0i0i0.com |
-| ads.pornharlot.net | 0i0i0i0.com |
 | ads.pornutopia.org | 0i0i0i0.com |
 | ads.saplacikardepo.xyz | 0i0i0i0.com |
 | ads.sturls.com | 0i0i0i0.com |
 | ads.tabuflix.com | 0i0i0i0.com |
 | ads.wetpussy.sexy | 0i0i0i0.com |
 | adspy.javrank.com | 0i0i0i0.com |
-| adxhand.icu | 0i0i0i0.com |
 | adzilla.icu | 0i0i0i0.com |
 | alt.fescity.com | 0i0i0i0.com |
 | amaz.emailon.top | 0i0i0i0.com |
@@ -166,6 +167,7 @@
 | arabs.arabxforum.com | 0i0i0i0.com |
 | arabs.nodzway.com | 0i0i0i0.com |
 | arabs.xn--mgbcvg3b0d2b.com | 0i0i0i0.com |
+| arabs.xn--ngbcrg3b.net | 0i0i0i0.com |
 | arabs.xn--ngbs7dg.net | 0i0i0i0.com |
 | ars.comicarab.com | 0i0i0i0.com |
 | as.ebacdn.com | 0i0i0i0.com |
@@ -318,6 +320,7 @@
 | ex8.lostporntube.com | 0i0i0i0.com |
 | eznoz.xyz | 0i0i0i0.com |
 | f.bloblohub.com | 0i0i0i0.com |
+| f5w.prettytube.net | 0i0i0i0.com |
 | f92or5.spinna.shop | 0i0i0i0.com |
 | fansang.xyz | 0i0i0i0.com |
 | fddddddd.javmilk.org | 0i0i0i0.com |
@@ -526,6 +529,7 @@
 | pamury.xyz | 0i0i0i0.com |
 | pangoha.xyz | 0i0i0i0.com |
 | pangtues.xyz | 0i0i0i0.com |
+| panoz.xyz | 0i0i0i0.com |
 | parkurl.com | 0i0i0i0.com |
 | pempiz.xyz | 0i0i0i0.com |
 | penapne.xyz | 0i0i0i0.com |
@@ -552,6 +556,7 @@
 | qoutec.shop | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
 | quantoz.xyz | 0i0i0i0.com |
+| quiazo.xyz | 0i0i0i0.com |
 | quickzo.xyz | 0i0i0i0.com |
 | qwe4456133.justthegays.com | 0i0i0i0.com |
 | qx0.xnxxtubevideos.com | 0i0i0i0.com |
@@ -581,7 +586,6 @@
 | satmon.neekstore.com | 0i0i0i0.com |
 | sbbb.spinna.xyz | 0i0i0i0.com |
 | sbm.stigmuuua.xyz | 0i0i0i0.com |
-| scuoo.porneq.co | 0i0i0i0.com |
 | sda.seksohub.com | 0i0i0i0.com |
 | sdfdfff.flelgwe.site | 0i0i0i0.com |
 | sdg.desihamster.pro | 0i0i0i0.com |
@@ -672,8 +676,6 @@
 | wp.zvideo.stream | 0i0i0i0.com |
 | ww.0prn.com | 0i0i0i0.com |
 | ww.cvideos.stream | 0i0i0i0.com |
-| www.adanald.icu | 0i0i0i0.com |
-| www.adxhand.icu | 0i0i0i0.com |
 | www.antiadblock.info | 0i0i0i0.com |
 | www.b.hubhubhub.name | 0i0i0i0.com |
 | www.bigboy.monster | 0i0i0i0.com |
@@ -732,3 +734,4 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| h-ay.com | u53.hypnorat.com |

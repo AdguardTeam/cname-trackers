@@ -3,7 +3,6 @@
 ## Disguised trackers list
 
 * parsely.com
-    * cdn.parsely.com
     * fpa-api-adweek-com.parsely.com
     * fpa-api-arstechnica-com.parsely.com
     * fpa-cdn-adweek-com.parsely.com
@@ -22,7 +21,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| image.undsslearnin.org | cdn.parsely.com |
 | fpa-api.adweek.com | fpa-api-adweek-com.parsely.com |
 | fpa-api.arstechnica.com | fpa-api-arstechnica-com.parsely.com |
 | fpa-cdn.adweek.com | fpa-cdn-adweek-com.parsely.com |

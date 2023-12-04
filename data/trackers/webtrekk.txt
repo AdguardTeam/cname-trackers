@@ -220,6 +220,7 @@
 ||trk.blume2000.de^
 ||trk.krebsversicherung.de^
 ||trk.nuernberger.digital^
+||w.ilfattoquotidiano.it^
 ||w3.aktionaersbank.de^
 ||w7.berlin.de^
 ||w7.berliner-silvester.de^

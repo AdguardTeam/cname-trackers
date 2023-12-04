@@ -27,7 +27,6 @@
 | ---- | ---- |
 | cdn.admatic.com.tr | admaticcdn.b-cdn.net |
 | cdn.adsninja.ca | adsninjacdn.b-cdn.net |
-| media.adstatic.com | adstatic.b-cdn.net |
 | cdn.affiliatable.io | affiliatable1.b-cdn.net |
 | contact-gloss-production.accelerator.net | b-cdn.net |
 | assets.diagomics.com | bannieres.b-cdn.net |
@@ -141,6 +140,7 @@
 | bandicoot.p0.design | deprecated-custom-domains.b-cdn.net |
 | bandicoot.sigerr.org | deprecated-custom-domains.b-cdn.net |
 | barnacle.big-in-japan.com | deprecated-custom-domains.b-cdn.net |
+| barnacle.nixfifty.com | deprecated-custom-domains.b-cdn.net |
 | barnacle.viewsource.io | deprecated-custom-domains.b-cdn.net |
 | barracuda.civicdatalibrary.org | deprecated-custom-domains.b-cdn.net |
 | barracuda.ottsysteme.rs | deprecated-custom-domains.b-cdn.net |
@@ -302,7 +302,6 @@
 | coral.bladestudy.net | deprecated-custom-domains.b-cdn.net |
 | coral.defygravity.co | deprecated-custom-domains.b-cdn.net |
 | cougar.augmentedmindapp.com | deprecated-custom-domains.b-cdn.net |
-| cougar.companymoneyworries.co.uk | deprecated-custom-domains.b-cdn.net |
 | cougar.wzulfikar.com | deprecated-custom-domains.b-cdn.net |
 | coyote.12gem.me | deprecated-custom-domains.b-cdn.net |
 | coyote.gnx.cloud | deprecated-custom-domains.b-cdn.net |
@@ -334,7 +333,6 @@
 | cxzp.pjrvs.com | deprecated-custom-domains.b-cdn.net |
 | dakqbwpduu.coywolf.io | deprecated-custom-domains.b-cdn.net |
 | damselfly.clk.click | deprecated-custom-domains.b-cdn.net |
-| damselfly.creativeclick.com.au | deprecated-custom-domains.b-cdn.net |
 | damselfly.previously.today | deprecated-custom-domains.b-cdn.net |
 | damselfly.vegenook.com | deprecated-custom-domains.b-cdn.net |
 | deer.m1x.co | deprecated-custom-domains.b-cdn.net |
@@ -462,7 +460,6 @@
 | giraffe.talktalent.com | deprecated-custom-domains.b-cdn.net |
 | giraffe.viatorci.com | deprecated-custom-domains.b-cdn.net |
 | goat.aicontentdojo.com | deprecated-custom-domains.b-cdn.net |
-| goat.codeofar.ms | deprecated-custom-domains.b-cdn.net |
 | goat.kunalslab.com | deprecated-custom-domains.b-cdn.net |
 | goat.purposevisionfuture.com | deprecated-custom-domains.b-cdn.net |
 | goat.sigr.li | deprecated-custom-domains.b-cdn.net |
@@ -532,7 +529,6 @@
 | horse.hookrelay.dev | deprecated-custom-domains.b-cdn.net |
 | horse.mynorthstarapp.com | deprecated-custom-domains.b-cdn.net |
 | horse.ohseemedia.com | deprecated-custom-domains.b-cdn.net |
-| horse.playbookedge.com | deprecated-custom-domains.b-cdn.net |
 | horse.purely.lol | deprecated-custom-domains.b-cdn.net |
 | horse.rmrk.app | deprecated-custom-domains.b-cdn.net |
 | horse.uhaveto.click | deprecated-custom-domains.b-cdn.net |
@@ -712,6 +708,7 @@
 | moose.cloverlearning.com | deprecated-custom-domains.b-cdn.net |
 | mosquito.iamamandaperez.com | deprecated-custom-domains.b-cdn.net |
 | mosquito.nooraldiyar.com | deprecated-custom-domains.b-cdn.net |
+| mosquito.zero.io | deprecated-custom-domains.b-cdn.net |
 | moth.artsmia.org | deprecated-custom-domains.b-cdn.net |
 | moth.jkundp.at | deprecated-custom-domains.b-cdn.net |
 | moth.treeferral.com | deprecated-custom-domains.b-cdn.net |
@@ -785,12 +782,10 @@
 | perch.searchwp.com | deprecated-custom-domains.b-cdn.net |
 | perch.stefangasser.com | deprecated-custom-domains.b-cdn.net |
 | pheasant.sonistaging.com | deprecated-custom-domains.b-cdn.net |
-| pheasant.swinlead.com | deprecated-custom-domains.b-cdn.net |
 | pig.civicplatform.org | deprecated-custom-domains.b-cdn.net |
 | pig.curtisherbert.com | deprecated-custom-domains.b-cdn.net |
 | pig.nigano.com | deprecated-custom-domains.b-cdn.net |
 | pig.notion.chat | deprecated-custom-domains.b-cdn.net |
-| pigeon.ashlean.com | deprecated-custom-domains.b-cdn.net |
 | pigeon.surtitlesolutions.com | deprecated-custom-domains.b-cdn.net |
 | pigeon.thankyuu.com | deprecated-custom-domains.b-cdn.net |
 | pinniped.gardenofficeguide.co.uk | deprecated-custom-domains.b-cdn.net |
@@ -803,7 +798,6 @@
 | planarian.dtesta.com | deprecated-custom-domains.b-cdn.net |
 | planarian.fatsackfails.com | deprecated-custom-domains.b-cdn.net |
 | planarian.reverberate.org | deprecated-custom-domains.b-cdn.net |
-| planarian.sexcam-gutscheine.de | deprecated-custom-domains.b-cdn.net |
 | platypus.cmp.is | deprecated-custom-domains.b-cdn.net |
 | platypus.colly.com | deprecated-custom-domains.b-cdn.net |
 | platypus.facet.net | deprecated-custom-domains.b-cdn.net |
@@ -817,6 +811,7 @@
 | porpoise.deschtimes.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.fruittreecottage.com.au | deprecated-custom-domains.b-cdn.net |
 | porpoise.jackwhiting.co.uk | deprecated-custom-domains.b-cdn.net |
+| porpoise.kristinholl.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.numberzs.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.hashnode.com | deprecated-custom-domains.b-cdn.net |
 | prawn.coding-friends.com | deprecated-custom-domains.b-cdn.net |
@@ -924,6 +919,7 @@
 | sole.bkosmetik.com | deprecated-custom-domains.b-cdn.net |
 | sole.pretto.fr | deprecated-custom-domains.b-cdn.net |
 | sole.riverwalkdental.com.au | deprecated-custom-domains.b-cdn.net |
+| sparrow.carol.gg | deprecated-custom-domains.b-cdn.net |
 | sparrow.uitvaartzorg-vanraemdonck.be | deprecated-custom-domains.b-cdn.net |
 | sparrow.workingincontent.com | deprecated-custom-domains.b-cdn.net |
 | spermwhale.floofarazzi.com | deprecated-custom-domains.b-cdn.net |
@@ -1034,7 +1030,6 @@
 | viper.kyrelldixon.com | deprecated-custom-domains.b-cdn.net |
 | viper.sitesauce.app | deprecated-custom-domains.b-cdn.net |
 | vole.contemporaryartlibrary.org | deprecated-custom-domains.b-cdn.net |
-| vole.leonhitchens.com | deprecated-custom-domains.b-cdn.net |
 | vole.nettskaperne.no | deprecated-custom-domains.b-cdn.net |
 | vole.noteapps.info | deprecated-custom-domains.b-cdn.net |
 | vole.sonicrida.com | deprecated-custom-domains.b-cdn.net |
@@ -1044,6 +1039,7 @@
 | wallaby.cron.help | deprecated-custom-domains.b-cdn.net |
 | wallaby.legendkeeper.com | deprecated-custom-domains.b-cdn.net |
 | wallaby.short1.link | deprecated-custom-domains.b-cdn.net |
+| walrus.blindemployment.solutions | deprecated-custom-domains.b-cdn.net |
 | walrus.fetzcolor.at | deprecated-custom-domains.b-cdn.net |
 | walrus.oscaroarevalo.com | deprecated-custom-domains.b-cdn.net |
 | warbler.resumebuilder.dev | deprecated-custom-domains.b-cdn.net |
@@ -1089,6 +1085,7 @@
 | yak.withlindy.com | deprecated-custom-domains.b-cdn.net |
 | zebra.gareth.sh | deprecated-custom-domains.b-cdn.net |
 | zebra.helpspot.com | deprecated-custom-domains.b-cdn.net |
+| egybests.7all.net | egybest.b-cdn.net |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.adevbom.com | popcashjs.b-cdn.net |
 | cdn.adevppl.com | popcashjs.b-cdn.net |
@@ -1108,6 +1105,7 @@
 | cdn.cabhwq.com | popcashjs.b-cdn.net |
 | cdn.calcpol.com | popcashjs.b-cdn.net |
 | cdn.cjlph.com | popcashjs.b-cdn.net |
+| cdn.clbaf.com | popcashjs.b-cdn.net |
 | cdn.crsope.com | popcashjs.b-cdn.net |
 | cdn.decpo.xyz | popcashjs.b-cdn.net |
 | cdn.drawx.xyz | popcashjs.b-cdn.net |
@@ -1126,10 +1124,12 @@
 | cdn.genfpm.com | popcashjs.b-cdn.net |
 | cdn.gocolow.com | popcashjs.b-cdn.net |
 | cdn.hqwa.xyz | popcashjs.b-cdn.net |
+| cdn.htkcm.com | popcashjs.b-cdn.net |
 | cdn.ianjumb.com | popcashjs.b-cdn.net |
 | cdn.iople.com | popcashjs.b-cdn.net |
 | cdn.isgost.com | popcashjs.b-cdn.net |
 | cdn.jandaqwe.com | popcashjs.b-cdn.net |
+| cdn.jbtul.com | popcashjs.b-cdn.net |
 | cdn.jeckear.com | popcashjs.b-cdn.net |
 | cdn.jhoncj.com | popcashjs.b-cdn.net |
 | cdn.jwalf.com | popcashjs.b-cdn.net |
@@ -1177,5 +1177,6 @@
 | sp.lenspk.com | spixel.b-cdn.net |
 | sp.theladyshop.pk | spixel.b-cdn.net |
 | static.netfly.fun | st-fly.b-cdn.net |
+| static.nfly.cc | st-fly.b-cdn.net |
 | cdn.track.dark.bz | track-dark-bz.b-cdn.net |
 | adserve.bongocdn.com | video-ad.b-cdn.net |

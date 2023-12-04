@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,6 +86,7 @@ analytics.autozone.com CNAME .
 analytics.bgr.com CNAME .
 analytics.bleacherreport.com CNAME .
 analytics.buoyweather.com CNAME .
+analytics.ceu.com CNAME .
 analytics.cycleworld.com CNAME .
 analytics.evo.co.uk CNAME .
 analytics.firstbankcard.com CNAME .
@@ -389,6 +390,7 @@ metric.schooloutfitters.com CNAME .
 metric.sdl.com CNAME .
 metric.seetorontonow.com CNAME .
 metric.serena.com CNAME .
+metric.spencersonline.com CNAME .
 metric.superpages.com CNAME .
 metric.thecapitalgrille.com CNAME .
 metric.toyotacertified.com CNAME .
@@ -409,6 +411,7 @@ metrics.allaboutyou.com CNAME .
 metrics.allegisgroup.com CNAME .
 metrics.alpo.com CNAME .
 metrics.americanblinds.com CNAME .
+metrics.amersports.com CNAME .
 metrics.angieslist.com CNAME .
 metrics.ansys.com CNAME .
 metrics.apartments.com CNAME .
@@ -444,8 +447,8 @@ metrics.carnival.co.uk CNAME .
 metrics.cartoonnetworkla.com CNAME .
 metrics.cbc.ca CNAME .
 metrics.cgu.com.au CNAME .
+metrics.chatrwireless.com CNAME .
 metrics.chghealthcare.com CNAME .
-metrics.chron.com CNAME .
 metrics.ci.model.plymouthrocknj.com CNAME .
 metrics.citimortgage.com CNAME .
 metrics.cnn.com CNAME .
@@ -454,6 +457,7 @@ metrics.columbia.com CNAME .
 metrics.combinedinsurance.com CNAME .
 metrics.contractingbusiness.com CNAME .
 metrics.cosmopolitan.co.uk CNAME .
+metrics.cosstores.com CNAME .
 metrics.costco.ca CNAME .
 metrics.coventryhealthcare.com CNAME .
 metrics.csi.ca CNAME .
@@ -497,6 +501,7 @@ metrics.fertilitylifelines.com CNAME .
 metrics.figis.com CNAME .
 metrics.flexshares.com CNAME .
 metrics.foodnetwork.com CNAME .
+metrics.forbestravelguide.com CNAME .
 metrics.fortune.com CNAME .
 metrics.friskies.com CNAME .
 metrics.ftd.com CNAME .
@@ -523,6 +528,7 @@ metrics.hbogola.com CNAME .
 metrics.hctra.org CNAME .
 metrics.health.com CNAME .
 metrics.helpguide.sony.net CNAME .
+metrics.hennessy.com CNAME .
 metrics.hgtv.com CNAME .
 metrics.hitentertainment.com CNAME .
 metrics.hm.com CNAME .
@@ -539,6 +545,7 @@ metrics.infiniti.com CNAME .
 metrics.instyle.com CNAME .
 metrics.interhyp.de CNAME .
 metrics.intermountainhealthcare.org CNAME .
+metrics.ireport.com CNAME .
 metrics.ittoolbox.com CNAME .
 metrics.jamestowndistributors.com CNAME .
 metrics.jeppesen.com CNAME .
@@ -573,6 +580,7 @@ metrics.mibcookies.rbs.com CNAME .
 metrics.midwestliving.com CNAME .
 metrics.miketheknight.com CNAME .
 metrics.mindshareworld.com CNAME .
+metrics.miniusa.com CNAME .
 metrics.mobilebanking.scotiabank.com CNAME .
 metrics.modcloth.com CNAME .
 metrics.moen.com CNAME .
@@ -630,6 +638,7 @@ metrics.purinaveterinarydiets.com CNAME .
 metrics.puritan.com CNAME .
 metrics.pvh.com CNAME .
 metrics.quiksilver.com CNAME .
+metrics.rainbowmagic.co.uk CNAME .
 metrics.ralphlauren.fr CNAME .
 metrics.rbcgam.com CNAME .
 metrics.rci.com CNAME .
@@ -691,6 +700,7 @@ metrics.timberland.com CNAME .
 metrics.timberland.de CNAME .
 metrics.timberland.es CNAME .
 metrics.timberland.fr CNAME .
+metrics.timberland.it CNAME .
 metrics.timeinc.net CNAME .
 metrics.tlc.com CNAME .
 metrics.tntdrama.com CNAME .
@@ -737,6 +747,7 @@ metrics.wyndhamtrips.com CNAME .
 metrics.ybs.co.uk CNAME .
 metrics.yellowbook.com CNAME .
 metrics.youandyourwedding.co.uk CNAME .
+metricssecure.nmfn.com CNAME .
 metricssecure.northwesternmutual.com CNAME .
 metrix.511tactical.com CNAME .
 metrix.avon.uk.com CNAME .
@@ -865,6 +876,7 @@ p2.danskebank.fi CNAME .
 p2.danskebank.no CNAME .
 p2.danskebank.se CNAME .
 p2.p2.danskebank.dk CNAME .
+p3.p2.danskebank.dk CNAME .
 pagedot.deutschepost.de CNAME .
 pc.personalcreations.com CNAME .
 petal.calyxflowers.com CNAME .
@@ -884,6 +896,7 @@ sadobe.sodimac.com.pe CNAME .
 sal.milanoo.com CNAME .
 sanalytics.amig.com CNAME .
 sanalytics.autozone.com CNAME .
+sanalytics.ceu.com CNAME .
 sanalytics.dga.org CNAME .
 sanalytics.fnbnp.com CNAME .
 sanalytics.fnbsd.com CNAME .
@@ -1060,12 +1073,12 @@ smetrics.businessfinancemag.com CNAME .
 smetrics.campaigns.abbott.com.sg CNAME .
 smetrics.carbonite.com CNAME .
 smetrics.care.com CNAME .
+smetrics.carnival.co.uk CNAME .
 smetrics.carolina.com CNAME .
 smetrics.cbc.ca CNAME .
 smetrics.chapstick.com CNAME .
 smetrics.chatrwireless.com CNAME .
 smetrics.chghealthcare.com CNAME .
-smetrics.chron.com CNAME .
 smetrics.citalia.com CNAME .
 smetrics.claires.com CNAME .
 smetrics.clickatell.com CNAME .
@@ -1090,6 +1103,7 @@ smetrics.crocs.de CNAME .
 smetrics.crocs.eu CNAME .
 smetrics.crocs.fi CNAME .
 smetrics.crocs.nl CNAME .
+smetrics.crocs.se CNAME .
 smetrics.crocsespana.es CNAME .
 smetrics.ctm.uhc.com CNAME .
 smetrics.ctv.ca CNAME .
@@ -1190,9 +1204,11 @@ smetrics.malnutrition.com CNAME .
 smetrics.manpower.com CNAME .
 smetrics.martinfurnitureexperts.com CNAME .
 smetrics.mastercardadvisors.com CNAME .
+smetrics.mastercardbrandcenter.com CNAME .
 smetrics.mastercardbusiness.com CNAME .
 smetrics.mastercardeasysavings.com CNAME .
 smetrics.mastercardintl.com CNAME .
+smetrics.mastercardmoments.com CNAME .
 smetrics.med-iq.com CNAME .
 smetrics.microtelinn.com CNAME .
 smetrics.midatlantic.aaa.com CNAME .
@@ -1201,6 +1217,7 @@ smetrics.miniusa.com CNAME .
 smetrics.mitracliphospitalkit.com CNAME .
 smetrics.miumiu.com CNAME .
 smetrics.modernpostcard.com CNAME .
+smetrics.mondex.com CNAME .
 smetrics.moneymarketing.co.uk CNAME .
 smetrics.moosejaw.com CNAME .
 smetrics.movietickets.com CNAME .
@@ -1474,6 +1491,7 @@ sstats.hickoryfarms.com CNAME .
 sstats.holcim.us CNAME .
 sstats.iata.org CNAME .
 sstats.incorporate.com CNAME .
+sstats.instawares.com CNAME .
 sstats.iridesse.com CNAME .
 sstats.iso.com CNAME .
 sstats.lfg.com CNAME .
@@ -1482,6 +1500,7 @@ sstats.meijer.com CNAME .
 sstats.myfidm.fidm.edu CNAME .
 sstats.nascar.com CNAME .
 sstats.o2videoteka.cz CNAME .
+sstats.olivia.com CNAME .
 sstats.omahasteaks.com CNAME .
 sstats.onelambda.com CNAME .
 sstats.ooshop.com CNAME .
@@ -1517,9 +1536,11 @@ stat.canal-plus.com CNAME .
 stat.carecredit.com CNAME .
 stat.cruisingpower.com CNAME .
 stat.gomastercard.com.au CNAME .
+stat.his-j.com CNAME .
 stat.jetsetter.com CNAME .
 stat.kaago.com CNAME .
 stat.kakaku.com CNAME .
+stat.kiwibank.co.nz CNAME .
 stat.mint.ca CNAME .
 stat.ncl.com CNAME .
 stat.outrigger.com CNAME .
@@ -1552,6 +1573,7 @@ stats.kiwibank.co.nz CNAME .
 stats.lumension.com CNAME .
 stats.marshfieldresearch.org CNAME .
 stats.meijer.com CNAME .
+stats.merx.com CNAME .
 stats.mint.ca CNAME .
 stats.onetime.com CNAME .
 stats.pacificdentalservices.com CNAME .
@@ -1578,6 +1600,7 @@ str2-fsca-track.bestbuy.com CNAME .
 strack.collegeboard.com CNAME .
 strack.evertondirect.evertonfc.com CNAME .
 strack.f1store.formula1.com CNAME .
+strack.store.manutd.com CNAME .
 stracking.trutv.com CNAME .
 stscs.ditzo.nl CNAME .
 styles.hautelook.com CNAME .
@@ -1602,6 +1625,7 @@ t-s.avastin.com CNAME .
 t-s.biooncology.com CNAME .
 t-s.cathflo.com CNAME .
 t-s.cellcept.com CNAME .
+t-s.erivedge.com CNAME .
 t-s.flufacts.com CNAME .
 t-s.fuzeon.com CNAME .
 t-s.gazyva.com CNAME .
@@ -1647,6 +1671,7 @@ t.strokeawareness.com CNAME .
 t.tamiflu.com CNAME .
 t.tnkase.com CNAME .
 t.transplantaccessservices.com CNAME .
+t.valcyte.com CNAME .
 t.xolairhcp.com CNAME .
 tel.telegraaf.nl CNAME .
 track.evertondirect.evertonfc.com CNAME .
@@ -1688,6 +1713,7 @@ ww0s.robinson.com CNAME .
 ww0s.tui.com CNAME .
 wwu.jjill.com CNAME .
 wwv.jjill.com CNAME .
+www.o.evite.com CNAME .
 www.smetrics.argos.co.uk CNAME .
 www.smetrics.imedeen.us CNAME .
 www1.discountautomirrors.com CNAME .
@@ -2040,6 +2066,7 @@ zmetrics.msn.com CNAME .
 15-aetv.hb.tt.omtrdc.net CNAME .
 15-bskyb.hb-api.tt.omtrdc.net CNAME .
 15-dishpurchasingcorporation.hb-api.tt.omtrdc.net CNAME .
+15.182abcnews.hb-api.tt.omtrdc.net CNAME .
 15.ingspain.tt.omtrdc.net CNAME .
 15.t.api.tt.omtrdc.net CNAME .
 150.45.87.133nbcume.hb.tt.omtrdc.net CNAME .
@@ -2473,6 +2500,7 @@ zmetrics.msn.com CNAME .
 251adobecorp.hb.tt.omtrdc.net CNAME .
 251aem.hb.tt.omtrdc.net CNAME .
 251aetv.hb.tt.omtrdc.net CNAME .
+251cbs.hb-api.tt.omtrdc.net CNAME .
 251cbsdigitalmedia.hb.tt.omtrdc.net CNAME .
 251cbsinteractive.hb.tt.omtrdc.net CNAME .
 251comcastentertainmentgroup.hb.tt.omtrdc.net CNAME .
@@ -3403,6 +3431,7 @@ aa.postbank.de CNAME .
 aa015a5d06c06ccb422ebd622d98d297.hb-fa-dev.tt.omtrdc.net CNAME .
 aa10293847562git.hb-fa-dev.tt.omtrdc.net CNAME .
 aa1f0078-c82a-47b5-b5e1-54eae1dc4315.hb-fa-dev.tt.omtrdc.net CNAME .
+aa3829e38bd566ba3d447517e57759b8.hb-fa-dev.tt.omtrdc.net CNAME .
 aa6a9a252559dd79be03aeb088c46ac1b.hb-fa-dev.tt.omtrdc.net CNAME .
 aa836c9e-0322-4526-9556-065ef1ceb9e9.hb-fa-dev.tt.omtrdc.net CNAME .
 aaa-cmc-01s.sys.sys.tt.omtrdc.net CNAME .
@@ -3536,6 +3565,7 @@ absa.tt.omtrdc.net CNAME .
 absolution79.blog.tt.omtrdc.net CNAME .
 absorb.hb-fa-dev.tt.omtrdc.net CNAME .
 abt-dm.tt.omtrdc.net CNAME .
+abt.bauhaus.es CNAME .
 abt.bauhaus.info CNAME .
 abt.nike.com CNAME .
 abt.nl.bauhaus CNAME .
@@ -3851,6 +3881,7 @@ admin-proddtes2.fallguys.tt.omtrdc.net CNAME .
 admin-stableqa-staging.tt.omtrdc.net CNAME .
 admin-test-ecatalog.tt.omtrdc.net CNAME .
 admin-testfcds.tt.omtrdc.net CNAME .
+admin-toad-geo-ams.tt.omtrdc.net CNAME .
 admin-tracnexgen-eu.hb-fa-dev.tt.omtrdc.net CNAME .
 admin-tto.aws.tt.omtrdc.net CNAME .
 admin-unstable-staging.fallguys.tt.omtrdc.net CNAME .
@@ -3979,6 +4010,7 @@ adserver.application.tt.omtrdc.net CNAME .
 adslb1.hb-fa-dev.tt.omtrdc.net CNAME .
 adsn-da-00.hb-fa-dev.tt.omtrdc.net CNAME .
 adsoft.tt.omtrdc.net CNAME .
+adspecs.hb-fa-dev.tt.omtrdc.net CNAME .
 adsso1-sat.cbp.tt.omtrdc.net CNAME .
 adt.tt.omtrdc.net CNAME .
 adtarget.barcainnovationhub.com CNAME .
@@ -4019,6 +4051,7 @@ ae550-8.training.tt.omtrdc.net CNAME .
 ae56.meraki-go.tt.omtrdc.net CNAME .
 ae5c65716f356913f123313b16408cd0.hb-fa-dev.tt.omtrdc.net CNAME .
 ae61.core-01.sv.tt.omtrdc.net CNAME .
+ae8c37eece332db2357b7542a3f7e753.hb-fa-dev.tt.omtrdc.net CNAME .
 aea47714dfbc5864dbbe9c01c67b280b.hb-fa-dev.tt.omtrdc.net CNAME .
 aec-target.base.be CNAME .
 aec-target.telenet.be CNAME .
@@ -4208,6 +4241,7 @@ aimcoproperties.tt.omtrdc.net CNAME .
 aimiaproprietaryloya.tt.omtrdc.net CNAME .
 aimsqa-qa.developer.tt.omtrdc.net CNAME .
 ainhoa.tt.omtrdc.net CNAME .
+ainu.intel.la CNAME .
 aiops.stage.tt.omtrdc.net CNAME .
 aiot.start.tt.omtrdc.net CNAME .
 aipcar1s.tt.omtrdc.net CNAME .
@@ -4242,6 +4276,7 @@ aishu.ginkens.sa.tt.omtrdc.net CNAME .
 aispmatch-tw.hb-fa-dev.tt.omtrdc.net CNAME .
 aisstage1.rtp.tt.omtrdc.net CNAME .
 aitest.aidev.tt.omtrdc.net CNAME .
+aitmadgroup.hb-fa-dev.tt.omtrdc.net CNAME .
 aito-act-cms.hb-fa-dev.tt.omtrdc.net CNAME .
 aiuinsurancecompanyj.tt.omtrdc.net CNAME .
 aiusa-en.tt.omtrdc.net CNAME .
@@ -4332,6 +4367,7 @@ aks-dns-botonpago-dev-qa-03467445.hb-fa-dev.tt.omtrdc.net CNAME .
 aks-ed007003.hb-fa-dev.tt.omtrdc.net CNAME .
 aks-ef4c5f9f.hb-fa-dev.tt.omtrdc.net CNAME .
 aks-facets-poc-dns-eb97c251.hb-fa-dev.tt.omtrdc.net CNAME .
+aks-immuta-immuta-cache.hb-fa-dev.tt.omtrdc.net CNAME .
 aks-internal-prod-eastus2-primary-0c2412b9.hb-fa-dev.tt.omtrdc.net CNAME .
 aks-k8s-cl-k8s-aks-cluster--10ebf5-6adfb311.hb-fa-dev.tt.omtrdc.net CNAME .
 aks-k8sproje-dns-fe2a21fd.hb-fa-dev.tt.omtrdc.net CNAME .
@@ -4572,6 +4608,7 @@ analytics.pipelife.lt CNAME .
 analytics.pipelife.lv CNAME .
 analytics.pipelife.nl CNAME .
 analytics.pipelife.no CNAME .
+analytics.pipelife.ro CNAME .
 analytics.pipelife.se CNAME .
 analytics.qualcomm.com CNAME .
 analytics.reliant.com CNAME .
@@ -4604,6 +4641,7 @@ analytics.wienerberger.fr CNAME .
 analytics.wienerberger.hr CNAME .
 analytics.wienerberger.hu CNAME .
 analytics.wienerberger.in CNAME .
+analytics.wienerberger.it CNAME .
 analytics.wienerberger.lt CNAME .
 analytics.wienerberger.mk CNAME .
 analytics.wienerberger.nl CNAME .
@@ -4812,6 +4850,7 @@ api.flyaa13.flyaa.tt.omtrdc.net CNAME .
 api.gama.tt.omtrdc.net CNAME .
 api.global.rse.global.tt.omtrdc.net CNAME .
 api.hairlie-stg.tt.omtrdc.net CNAME .
+api.hb.tt.omtrdc.net CNAME .
 api.hbf-qa.pmib.test.tt.omtrdc.net CNAME .
 api.ingest.oitroot.us-east-1-clean1.preview.tt.omtrdc.net CNAME .
 api.internal.aws-kops.tt.omtrdc.net CNAME .
@@ -5268,6 +5307,7 @@ assets2.aainsurance.co.nz CNAME .
 assets2.aami.com.au CNAME .
 assets2.apia.com.au CNAME .
 assets2.bingle.com.au CNAME .
+assets2.cilinsurance.com.au CNAME .
 assets2.gio.com.au CNAME .
 assets2.shannons.com.au CNAME .
 assets2.suncorp.com.au CNAME .
@@ -6073,6 +6113,7 @@ bigfishgamesinc.tt.omtrdc.net CNAME .
 biglots.tt.omtrdc.net CNAME .
 bijoucontemporain.tt.omtrdc.net CNAME .
 bikemanninc.hb.tt.omtrdc.net CNAME .
+bildconnect.hb.tt.omtrdc.net CNAME .
 billing.fpssl.hb-api.tt.omtrdc.net CNAME .
 billingbskyb.hb-api.tt.omtrdc.net CNAME .
 billingheartbeats.hb.tt.omtrdc.net CNAME .
@@ -6193,12 +6234,14 @@ bnpppfxferaes.tt.omtrdc.net CNAME .
 bnuwcnsngt.254.254nbcume.hb.tt.omtrdc.net CNAME .
 bnymellon.tt.omtrdc.net CNAME .
 boardriders.tt.omtrdc.net CNAME .
+boards-aa-mock.hb-fa-stage.tt.omtrdc.net CNAME .
 boards.pbe.tt.omtrdc.net CNAME .
 boards51.tt.omtrdc.net CNAME .
 boardsaa-mock.hb-fa-stage.tt.omtrdc.net CNAME .
 bod4c.tt.omtrdc.net CNAME .
 bodytobodynurumassagedelhi.tt.omtrdc.net CNAME .
 boehringernewmedia.hb.tt.omtrdc.net CNAME .
+boeingemployeescredi.tt.omtrdc.net CNAME .
 bof2-0.idmapper.api.api.tt.omtrdc.net CNAME .
 bogacz-maszyny.tt.omtrdc.net CNAME .
 boise93.tt.omtrdc.net CNAME .
@@ -6289,11 +6332,13 @@ bsdokyrlfl.251metlife.hb.tt.omtrdc.net CNAME .
 bskyb-13.hb-api.tt.omtrdc.net CNAME .
 bskyb-alpha.hb-api.tt.omtrdc.net CNAME .
 bskyb-america.hb-api.tt.omtrdc.net CNAME .
+bskyb-global.hb-api.tt.omtrdc.net CNAME .
 bskyb-lab.hb-api.tt.omtrdc.net CNAME .
 bskyb-linux.hb-api.tt.omtrdc.net CNAME .
 bskyb-ll.hb-api.tt.omtrdc.net CNAME .
 bskyb-us-east-8.hb-api.tt.omtrdc.net CNAME .
 bskyb-webapp.hb-api.tt.omtrdc.net CNAME .
+bskyb-www2.hb-api.tt.omtrdc.net CNAME .
 bskybbrasil.hb-api.tt.omtrdc.net CNAME .
 bskybdfw3.hb-api.tt.omtrdc.net CNAME .
 bskybperf2.hb-api.tt.omtrdc.net CNAME .
@@ -6375,6 +6420,7 @@ canarahsbclife.tt.omtrdc.net CNAME .
 cancermediacenterbbvi.tt.omtrdc.net CNAME .
 canonusa.tt.omtrdc.net CNAME .
 canopygrowthcorporat.tt.omtrdc.net CNAME .
+canterbury.tt.omtrdc.net CNAME .
 cantire.tt.omtrdc.net CNAME .
 caparis.tt.omtrdc.net CNAME .
 capellauniversity.tt.omtrdc.net CNAME .
@@ -6412,6 +6458,7 @@ cartooncpotoolsnewmedia.hb.tt.omtrdc.net CNAME .
 cartoondigitinsurancenewmedia.hb.tt.omtrdc.net CNAME .
 cartoondivostanewmedia.hb.tt.omtrdc.net CNAME .
 cartoondrillischnewmedia.hb.tt.omtrdc.net CNAME .
+cartoonfreshfindsnewmedia.hb.tt.omtrdc.net CNAME .
 cartoonfuturo360newmedia.hb.tt.omtrdc.net CNAME .
 cartoongrupobbvanewmedia.hb.tt.omtrdc.net CNAME .
 cartoonjivesoftwareincnewmedia.hb.tt.omtrdc.net CNAME .
@@ -6420,6 +6467,7 @@ cartoonmotosportnewmedia.hb.tt.omtrdc.net CNAME .
 cartoonnewscorpaustralianewmedia.hb.tt.omtrdc.net CNAME .
 cartoonnorthernterritorynewmedia.hb.tt.omtrdc.net CNAME .
 cartoonshangri-lanewmedia.hb.tt.omtrdc.net CNAME .
+cartoonsony-meanewmedia.hb.tt.omtrdc.net CNAME .
 cartoonusdiarynewmedia.hb.tt.omtrdc.net CNAME .
 cartoonyounitednewmedia.hb.tt.omtrdc.net CNAME .
 cartoonzoohitnewmedia.hb.tt.omtrdc.net CNAME .
@@ -6431,6 +6479,7 @@ casis-prz.tt.omtrdc.net CNAME .
 castbasvuru.tt.omtrdc.net CNAME .
 catcrd.tt.omtrdc.net CNAME .
 catechnologies.tt.omtrdc.net CNAME .
+caterpillar.tt.omtrdc.net CNAME .
 caterpillarsigns.tt.omtrdc.net CNAME .
 cathayunitedbank.tt.omtrdc.net CNAME .
 catherinesnewmedia.hb.tt.omtrdc.net CNAME .
@@ -6548,6 +6597,7 @@ classbook4-1.sites.tt.omtrdc.net CNAME .
 classiccar-2.tt.omtrdc.net CNAME .
 classified.tt.omtrdc.net CNAME .
 classmates.com.insight.tt.omtrdc.net CNAME .
+classmates.insight.tt.omtrdc.net CNAME .
 classtrucks-rumia-premium.tt.omtrdc.net CNAME .
 clddpprod32.tt.omtrdc.net CNAME .
 clearcable.tt.omtrdc.net CNAME .
@@ -6600,6 +6650,7 @@ co.uk.insight.tt.omtrdc.net CNAME .
 cocacolaco.tt.omtrdc.net CNAME .
 codandk.tt.omtrdc.net CNAME .
 code.tt.omtrdc.net CNAME .
+codelandsrlemeaptrsd.tt.omtrdc.net CNAME .
 codevkr.tt.omtrdc.net CNAME .
 codportal.holzus.tt.omtrdc.net CNAME .
 cogeco.tt.omtrdc.net CNAME .
@@ -6677,7 +6728,9 @@ connect.tt.omtrdc.net CNAME .
 connectedvehicle.tt.omtrdc.net CNAME .
 connections-content-logs.tt.omtrdc.net CNAME .
 consentservice-pre-production-u77yfm.tt.omtrdc.net CNAME .
+conservatives.tt.omtrdc.net CNAME .
 consorsfinanzgermany.tt.omtrdc.net CNAME .
+constantcontact.tt.omtrdc.net CNAME .
 constellation.tt.omtrdc.net CNAME .
 consuladolosangeles.tt.omtrdc.net CNAME .
 consumentenbond.tt.omtrdc.net CNAME .
@@ -6692,6 +6745,7 @@ converse.tt.omtrdc.net CNAME .
 cookieskids.tt.omtrdc.net CNAME .
 coopbank.tt.omtrdc.net CNAME .
 cooperativegroup.tt.omtrdc.net CNAME .
+cordobapedia.tt.omtrdc.net CNAME .
 core-dev-cdn.tt.omtrdc.net CNAME .
 coreyspencer.tt.omtrdc.net CNAME .
 cornerbanca.tt.omtrdc.net CNAME .
@@ -6855,6 +6909,7 @@ data-ssl.stepstone.nl CNAME .
 data-ssl.stepstone.pl CNAME .
 data-wdc221.tt.omtrdc.net CNAME .
 data.2ask.blue.com.hk CNAME .
+data.a.news.aida.de CNAME .
 data.accenturemkt.adobesandbox.com CNAME .
 data.account.assurancewireless.com CNAME .
 data.account.metrobyt-mobile.com CNAME .
@@ -6900,6 +6955,7 @@ data.comunicaciones.jetstereo.com CNAME .
 data.comunicaciones.motomundohn.com CNAME .
 data.comunicaciones.solvenza.hn CNAME .
 data.comunicaciones.ultramotorhn.com CNAME .
+data.connect.riolasvegas.com CNAME .
 data.connect.riteaid.com CNAME .
 data.crm.lizearle.com CNAME .
 data.crm.soapandglory.com CNAME .
@@ -6924,6 +6980,7 @@ data.discover.ringcentral.com CNAME .
 data.e.lotteryoffice.com.au CNAME .
 data.e.ringcentral.com CNAME .
 data.e.worldvision.ca CNAME .
+data.eat.nespresso.com CNAME .
 data.eau.nespresso.com CNAME .
 data.ebe.nespresso.com CNAME .
 data.eca.nespresso.com CNAME .
@@ -6933,6 +6990,7 @@ data.edm.chowtaifook.com CNAME .
 data.education.aware.com.au CNAME .
 data.efr.nespresso.com CNAME .
 data.egr.nespresso.com CNAME .
+data.eit.nespresso.com CNAME .
 data.ejp.nespresso.com CNAME .
 data.ekr.nespresso.com CNAME .
 data.em.officedepot.com CNAME .
@@ -6974,6 +7032,7 @@ data.epsilon.adobesandbox.com CNAME .
 data.erfahrung.o2.de CNAME .
 data.esg.nespresso.com CNAME .
 data.euk.nespresso.com CNAME .
+data.europe.coca-cola.com CNAME .
 data.events.cbussuper.com.au CNAME .
 data.fans.realmadrid.com CNAME .
 data.fans.williamsf1.com CNAME .
@@ -7024,6 +7083,7 @@ data.mailtest.lexmei.online CNAME .
 data.markadsmal.islandsbanki.is CNAME .
 data.marketing-madridista-junior.realmadrid.com CNAME .
 data.marketing.aeptest.a.intuit.com CNAME .
+data.marketing.bancobmg.com.br CNAME .
 data.marketing.doitbest.com CNAME .
 data.marketing.giftcards.com CNAME .
 data.marketing.smart.com CNAME .
@@ -7053,6 +7113,7 @@ data.notifications.portal.cooperlighting.com CNAME .
 data.onlyyou.palladiumhotelgroup.com CNAME .
 data.page.worldvision.ca CNAME .
 data.partner-offers.airmiles.ca CNAME .
+data.pharmacyservices.riteaid.com CNAME .
 data.phg.palladiumhotelgroup.com CNAME .
 data.prewards.palladiumhotelgroup.com CNAME .
 data.promo.timhortons.ca CNAME .
@@ -7079,11 +7140,13 @@ data.socio.realmadrid.net CNAME .
 data.stageegift.giftcards.com CNAME .
 data.stagemarketing.giftcards.com CNAME .
 data.staging.historicaltexts.tt.omtrdc.net CNAME .
+data.surveys.aware.com.au CNAME .
 data.t.worldvision.ca CNAME .
 data.tc.jetstar.com CNAME .
 data.tmail.northeast.aaa.com CNAME .
 data.transaction.giftcards.com CNAME .
 data.transactional.williamsf1.com CNAME .
+data.trx.costco.ca CNAME .
 data.trx.costco.com CNAME .
 data.tt.omtrdc.net CNAME .
 data.txn.puntoscolombia.com CNAME .
@@ -7234,11 +7297,13 @@ demo.sapglobalmarketingin.tt.omtrdc.net CNAME .
 demo.tt.omtrdc.net CNAME .
 demo1.tt-qe8.tt.omtrdc.net CNAME .
 demo1.tt-stage3.tt.omtrdc.net CNAME .
+demo1.tt.omtrdc.net CNAME .
 demo2.ci.next.tt.omtrdc.net CNAME .
 demo23.blog.tt.omtrdc.net CNAME .
 demo3.management.testandtarget.omniture.com CNAME .
 demons11.tt.omtrdc.net CNAME .
 demonumerique.tt.omtrdc.net CNAME .
+demwunz.users.tt.omtrdc.net CNAME .
 den-iprelay-02-04-data1.tt.omtrdc.net CNAME .
 den-iprelay-02-04.tt.omtrdc.net CNAME .
 den11-03-data-data.tt.omtrdc.net CNAME .
@@ -7304,6 +7369,7 @@ dictionnaire-analogique.tt.omtrdc.net CNAME .
 digicert.tt.omtrdc.net CNAME .
 digitalfederalcredit.tt.omtrdc.net CNAME .
 digitalmums.tt.omtrdc.net CNAME .
+digitechptrsd.tt.omtrdc.net CNAME .
 dii3.bitiba.be CNAME .
 dii3.bitiba.ch CNAME .
 dii3.bitiba.co.uk CNAME .
@@ -7387,6 +7453,7 @@ dillards.tt.omtrdc.net CNAME .
 dinersclubcanada.hb-api.tt.omtrdc.net CNAME .
 dinhapontocruz.tt.omtrdc.net CNAME .
 diningmenus.tt.omtrdc.net CNAME .
+dione.tt.omtrdc.net CNAME .
 dip.tt.omtrdc.net CNAME .
 dipby8becp6xrsgi.tt.omtrdc.net CNAME .
 directtv.tt.omtrdc.net CNAME .
@@ -7477,6 +7544,7 @@ dollarthriftyautomot.tt.omtrdc.net CNAME .
 dolomitienergia.tt.omtrdc.net CNAME .
 domain.tt.omtrdc.net CNAME .
 domecorporation.tt.omtrdc.net CNAME .
+domino.tt.omtrdc.net CNAME .
 dominos.tt.omtrdc.net CNAME .
 domo.tt.omtrdc.net CNAME .
 donaldson.tt.omtrdc.net CNAME .
@@ -7680,6 +7748,7 @@ esd-studentportal.tt.omtrdc.net CNAME .
 esdda.tt.omtrdc.net CNAME .
 eset.tt.omtrdc.net CNAME .
 eslchallenge.tt.omtrdc.net CNAME .
+espn.engineering.hb.tt.omtrdc.net CNAME .
 espnbitbucket.hb.tt.omtrdc.net CNAME .
 espndotcom.tt.omtrdc.net CNAME .
 espnnginx.hb.tt.omtrdc.net CNAME .
@@ -7845,6 +7914,7 @@ foxentertainment-jenkin.hb-api.tt.omtrdc.net CNAME .
 foxentertainment-merch.hb-api.tt.omtrdc.net CNAME .
 foxentertainment-proxy.hb-api.tt.omtrdc.net CNAME .
 foxentertainmentdocker.hb.tt.omtrdc.net CNAME .
+foxentertainmentgermany.hb-api.tt.omtrdc.net CNAME .
 foxentertainmentsupport.hb-api.tt.omtrdc.net CNAME .
 foxentertainmentus-east-10.hb-api.tt.omtrdc.net CNAME .
 foxnews.tt.omtrdc.net CNAME .
@@ -7855,6 +7925,7 @@ fpida.bodybook.jp CNAME .
 fpida.cw-x.jp CNAME .
 fpida.successwalk.jp CNAME .
 fpida.une-nana-cool.com CNAME .
+fpida.w-wing.jp CNAME .
 fpida.wacoalholdings.jp CNAME .
 fpida.yue-japan.com CNAME .
 fpssl-dev1.hb-api.tt.omtrdc.net CNAME .
@@ -7888,6 +7959,7 @@ fsdu7-1.tt.omtrdc.net CNAME .
 fsecuregmbh.tt.omtrdc.net CNAME .
 fsfvg01kng9m.tt.omtrdc.net CNAME .
 fss.tt.omtrdc.net CNAME .
+ftaadcee-ab.tt.omtrdc.net CNAME .
 ftdcom.tt.omtrdc.net CNAME .
 fti2.tt.omtrdc.net CNAME .
 ftp-81.tt.omtrdc.net CNAME .
@@ -7950,6 +8022,7 @@ genworthnorthamerica.tt.omtrdc.net CNAME .
 geogebra.da.tt.omtrdc.net CNAME .
 georgfischerag.tt.omtrdc.net CNAME .
 gepowerandwater.tt.omtrdc.net CNAME .
+germany-heartbeats.hb.tt.omtrdc.net CNAME .
 gestionmdp.tt.omtrdc.net CNAME .
 getfoxnews.hb.tt.omtrdc.net CNAME .
 gfarm.hb.tt.omtrdc.net CNAME .
@@ -8208,6 +8281,7 @@ honeypot2.tt.omtrdc.net CNAME .
 honeywellchina.tt.omtrdc.net CNAME .
 honeywellinternation.tt.omtrdc.net CNAME .
 hope-fore-hearts.tt.omtrdc.net CNAME .
+hoppereu.pad.tt.omtrdc.net CNAME .
 horeca2.app.app.tt.omtrdc.net CNAME .
 hornbloser-baba.laluna.tt.omtrdc.net CNAME .
 horoscopes1a.tt.omtrdc.net CNAME .
@@ -8454,6 +8528,7 @@ ip-143-10.tt.omtrdc.net CNAME .
 ip-35-168-14-144.tt.omtrdc.net CNAME .
 ip-4.tt.omtrdc.net CNAME .
 ip.tcp.arkena.hb.tt.omtrdc.net CNAME .
+ipad.tt.omtrdc.net CNAME .
 ipas-adminspo-admin.tt.omtrdc.net CNAME .
 ipask.api.tt.omtrdc.net CNAME .
 ipassets.tt.omtrdc.net CNAME .
@@ -8488,6 +8563,7 @@ ipv5-c145-dfw003-ix.1.oca.tt.omtrdc.net CNAME .
 ipv6-c013-ewr001-altice-east-isp.1.oca.tt.omtrdc.net CNAME .
 ipv6-c017-lhr005-bt-isp.1.oca.tt.omtrdc.net CNAME .
 ipv6-c054-ber001-ix.tt.omtrdc.net CNAME .
+iqmetrics.faz.net CNAME .
 iqmetrics.handelsblatt.com CNAME .
 iqmetrics.sueddeutsche.de CNAME .
 ir4.6.tt.omtrdc.net CNAME .
@@ -8762,6 +8838,7 @@ launchpad0-0.tt.omtrdc.net CNAME .
 launchpad2-25.tt.omtrdc.net CNAME .
 launchpad33.tt.omtrdc.net CNAME .
 lawprofessors.tt.omtrdc.net CNAME .
+lb-140-82-112-13-iad.tt.omtrdc.net CNAME .
 lb-prn-bip.tt.omtrdc.net CNAME .
 lbcs.tt.omtrdc.net CNAME .
 lbpvitabeta.tt.omtrdc.net CNAME .
@@ -8842,6 +8919,7 @@ lnz-aws-1124.tt.omtrdc.net CNAME .
 lo1.pdx003.ix.tt.omtrdc.net CNAME .
 lo30.es01.dfw001.ix.tt.omtrdc.net CNAME .
 loadbalancer.tt.omtrdc.net CNAME .
+loadbalancerbskyb.hb-api.tt.omtrdc.net CNAME .
 loadbalancerfoxentertainment.hb-api.tt.omtrdc.net CNAME .
 loadchecker.tt.omtrdc.net CNAME .
 lobby.tt.omtrdc.net CNAME .
@@ -9399,6 +9477,7 @@ miss-tramell.tt.omtrdc.net CNAME .
 mitchellsbutlersleis.tt.omtrdc.net CNAME .
 mitsubishiaustralia.tt.omtrdc.net CNAME .
 mitsubishimotorscorp.tt.omtrdc.net CNAME .
+mitsubishiufjnicos.tt.omtrdc.net CNAME .
 mitsuifudosangroup.tt.omtrdc.net CNAME .
 mjgjehuagy.www.att.hb.tt.omtrdc.net CNAME .
 mkcentrum0.tt.omtrdc.net CNAME .
@@ -9580,6 +9659,7 @@ mytoys1demo.tt.omtrdc.net CNAME .
 mytvsuperlimited.bskyb.hb.tt.omtrdc.net CNAME .
 mytvsuperlimited.elastic.hb.tt.omtrdc.net CNAME .
 myvh.tt.omtrdc.net CNAME .
+n2xt.tt.omtrdc.net CNAME .
 n3hubapacpartnersand.tt.omtrdc.net CNAME .
 n7fundqa.tt.omtrdc.net CNAME .
 nabtrade.tt.omtrdc.net CNAME .
@@ -9754,6 +9834,7 @@ omtrdc.netdiscovery.hb-api.tt.omtrdc.net CNAME .
 onemarketingazap.tt.omtrdc.net CNAME .
 onemarketingazapsin.tt.omtrdc.net CNAME .
 onemarketingazd.tt.omtrdc.net CNAME .
+onemarketingazeu-fpssl.tt.omtrdc.net CNAME .
 onemarketingazeu.tt.omtrdc.net CNAME .
 onetechnologies.tt.omtrdc.net CNAME .
 onetrustllc.tt.omtrdc.net CNAME .
@@ -9769,6 +9850,7 @@ ontario30.prod.cloud.prod.cloud.tt.omtrdc.net CNAME .
 oo-dishpurchasingcorporation.hb-api.tt.omtrdc.net CNAME .
 oopt.norauto.fr CNAME .
 opass.tt.omtrdc.net CNAME .
+opelautomobilegmbh.tt.omtrdc.net CNAME .
 openbank.tt.omtrdc.net CNAME .
 opentable.tt.omtrdc.net CNAME .
 opepalvelu.tt.omtrdc.net CNAME .
@@ -10144,6 +10226,7 @@ psbutler.tt.omtrdc.net CNAME .
 pscom.tt.omtrdc.net CNAME .
 pspperfc.tt.omtrdc.net CNAME .
 pspsso.tt.omtrdc.net CNAME .
+pt-br.tokyoghoul.tt.omtrdc.net CNAME .
 ptrs.regione.tt.omtrdc.net CNAME .
 ptzinsurance.tt.omtrdc.net CNAME .
 publicstorage.tt.omtrdc.net CNAME .
@@ -10234,6 +10317,7 @@ reedexhibitions.tt.omtrdc.net CNAME .
 reedonlinelimited.tt.omtrdc.net CNAME .
 refinitiv.tt.omtrdc.net CNAME .
 registercom.tt.omtrdc.net CNAME .
+registrar.tt.omtrdc.net CNAME .
 releventsportsllc.tt.omtrdc.net CNAME .
 reliancecapitalasset.tt.omtrdc.net CNAME .
 reliancecorporateit.tt.omtrdc.net CNAME .
@@ -10364,6 +10448,7 @@ s02-ckdevice-china.tt.omtrdc.net CNAME .
 s153vlx.tt.omtrdc.net CNAME .
 s3p-shield-kube-rollouts-webhook-fe30fa1.tt.omtrdc.net CNAME .
 s9-us4.tt.omtrdc.net CNAME .
+sa.adidas.at CNAME .
 sa.adidas.be CNAME .
 sa.adidas.ca CNAME .
 sa.adidas.ch CNAME .
@@ -10377,6 +10462,7 @@ sa.adidas.com CNAME .
 sa.adidas.com.ar CNAME .
 sa.adidas.com.au CNAME .
 sa.adidas.com.br CNAME .
+sa.adidas.com.tr CNAME .
 sa.adidas.com.vn CNAME .
 sa.adidas.cz CNAME .
 sa.adidas.dk CNAME .
@@ -10390,6 +10476,7 @@ sa.adidas.it CNAME .
 sa.adidas.jp CNAME .
 sa.adidas.mx CNAME .
 sa.adidas.nl CNAME .
+sa.adidas.no CNAME .
 sa.adidas.pl CNAME .
 sa.adidas.pt CNAME .
 sa.adidas.se CNAME .
@@ -10461,6 +10548,7 @@ sainsburys.tt.omtrdc.net CNAME .
 saintgobain.tt.omtrdc.net CNAME .
 saintgobainbuildingd.tt.omtrdc.net CNAME .
 saksfifthavenueinc.tt.omtrdc.net CNAME .
+salesforcecom.tt.omtrdc.net CNAME .
 salliemae.tt.omtrdc.net CNAME .
 saltanatmt2guncelhack.tt.omtrdc.net CNAME .
 samc.buero-zueri.ch CNAME .
@@ -10599,6 +10687,7 @@ sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.hulu-ios.hb-api.tt.omtrdc.net CNA
 sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.hulu-ios.hb-api.tt.omtrdc.net CNAME .
 scadobe.paybooc.co.kr CNAME .
 scadobe.vpay.co.kr CNAME .
+scandigital.tt.omtrdc.net CNAME .
 scandlines.tt.omtrdc.net CNAME .
 scentsy.tt.omtrdc.net CNAME .
 schibstedspain.tt.omtrdc.net CNAME .
@@ -10647,6 +10736,7 @@ search97.prod.cloud.prod.cloud.tt.omtrdc.net CNAME .
 searsholdings.tt.omtrdc.net CNAME .
 seasonticket.tt.omtrdc.net CNAME .
 seatsa.tt.omtrdc.net CNAME .
+secil.tt.omtrdc.net CNAME .
 secure.sigmaaldrich.com CNAME .
 secure.target.ihg.com CNAME .
 securedata.collectandgo.fr CNAME .
@@ -11059,6 +11149,7 @@ smetrics.eurekalert.org CNAME .
 smetrics.europafm.com CNAME .
 smetrics.evernorth.com CNAME .
 smetrics.evicore.com CNAME .
+smetrics.evivanlanschot.nl CNAME .
 smetrics.evoshield.com CNAME .
 smetrics.evrysdi.com CNAME .
 smetrics.express-scripts.com CNAME .
@@ -11099,6 +11190,7 @@ smetrics.front-line.nl CNAME .
 smetrics.frontline.co.th CNAME .
 smetrics.future.smart.com CNAME .
 smetrics.futuro.cl CNAME .
+smetrics.fyndus.de CNAME .
 smetrics.g-shock.com CNAME .
 smetrics.gaes.es CNAME .
 smetrics.gemvisa.co.nz CNAME .
@@ -11161,6 +11253,7 @@ smetrics.infinitematerialsolutions.com CNAME .
 smetrics.insuranceday.com CNAME .
 smetrics.intactarr2pro.com.py CNAME .
 smetrics.jacuzzi.com CNAME .
+smetrics.jarboes.com CNAME .
 smetrics.jardiance.com CNAME .
 smetrics.jimwilsonchevrolet.com CNAME .
 smetrics.junsungki.com CNAME .
@@ -11243,6 +11336,7 @@ smetrics.marketing.lighting.philips.com.eg CNAME .
 smetrics.marketing.lighting.philips.com.hk CNAME .
 smetrics.marketing.lighting.philips.com.mx CNAME .
 smetrics.marketing.lighting.philips.com.my CNAME .
+smetrics.marketing.lighting.philips.com.pe CNAME .
 smetrics.marketing.lighting.philips.com.ph CNAME .
 smetrics.marketing.lighting.philips.com.pk CNAME .
 smetrics.marketing.lighting.philips.com.sg CNAME .
@@ -11271,6 +11365,7 @@ smetrics.marketing.lighting.philips.se CNAME .
 smetrics.marketing.lighting.philips.si CNAME .
 smetrics.marketing.lighting.philips.sk CNAME .
 smetrics.marketing.lighting.philips.ua CNAME .
+smetrics.marketing.mazdalighting.fr CNAME .
 smetrics.marketing.meethue.com CNAME .
 smetrics.marketing.philips-hue.com CNAME .
 smetrics.marketing.pila-led.com CNAME .
@@ -11279,6 +11374,7 @@ smetrics.marketing.vari-lite.com CNAME .
 smetrics.marriottvacationclub.asia CNAME .
 smetrics.marriottvacationclub.com CNAME .
 smetrics.maverik.com CNAME .
+smetrics.maxicoffee.com CNAME .
 smetrics.mcdpromotion.ca CNAME .
 smetrics.mdlive.com CNAME .
 smetrics.medallia.com CNAME .
@@ -11398,6 +11494,7 @@ smetrics.petersmithgm.com CNAME .
 smetrics.pexion.co.uk CNAME .
 smetrics.pflege-onkologie.de CNAME .
 smetrics.phesgo.com CNAME .
+smetrics.phoenixinwest.de CNAME .
 smetrics.pictet.com CNAME .
 smetrics.platypusshoes.com.au CNAME .
 smetrics.playcard.com CNAME .
@@ -11511,6 +11608,7 @@ smetrics.schindler.co CNAME .
 smetrics.schindler.co.id CNAME .
 smetrics.schindler.co.il CNAME .
 smetrics.schindler.co.th CNAME .
+smetrics.schindler.co.uk CNAME .
 smetrics.schindler.co.za CNAME .
 smetrics.schindler.com CNAME .
 smetrics.schindler.com.br CNAME .
@@ -11528,6 +11626,7 @@ smetrics.schindler.ma CNAME .
 smetrics.schindler.mx CNAME .
 smetrics.schindler.my CNAME .
 smetrics.schindler.pl CNAME .
+smetrics.schindler.ro CNAME .
 smetrics.schindler.sa CNAME .
 smetrics.schindler.sg CNAME .
 smetrics.schindler.sk CNAME .
@@ -11543,6 +11642,7 @@ smetrics.sherwoodbuickgmc.com CNAME .
 smetrics.sherwoodmotorcars.com CNAME .
 smetrics.sherwoodparkchev.com CNAME .
 smetrics.shionogi.co.jp CNAME .
+smetrics.shop.mrbostondrinks.com CNAME .
 smetrics.shopdisney.in CNAME .
 smetrics.siapnge.com CNAME .
 smetrics.sierra.com CNAME .
@@ -11579,10 +11679,12 @@ smetrics.srptelecom.com CNAME .
 smetrics.ssfcu.org CNAME .
 smetrics.stanfordchildrens.org CNAME .
 smetrics.statestreet.com CNAME .
+smetrics.stewartseeds.com CNAME .
 smetrics.store360.luxottica.com CNAME .
 smetrics.strategyand.pwc.com CNAME .
 smetrics.subaruofsaskatoon.ca CNAME .
 smetrics.sumaiida.com CNAME .
+smetrics.talkaboutlaminitis.co.uk CNAME .
 smetrics.taltz.com CNAME .
 smetrics.tarrantcounty.com CNAME .
 smetrics.tastingaustralia.com.au CNAME .
@@ -11591,6 +11693,7 @@ smetrics.taylors.edu.my CNAME .
 smetrics.teletoon.com CNAME .
 smetrics.telustvplus.com CNAME .
 smetrics.tetrapak.com CNAME .
+smetrics.theathletesfoot.co.nz CNAME .
 smetrics.thomasgalbraith.com CNAME .
 smetrics.thoughtworks.com CNAME .
 smetrics.tiendamonge.com CNAME .
@@ -11640,7 +11743,9 @@ smetrics.viega.fr CNAME .
 smetrics.viega.hr CNAME .
 smetrics.viega.it CNAME .
 smetrics.viega.lt CNAME .
+smetrics.viega.nl CNAME .
 smetrics.viega.no CNAME .
+smetrics.viega.se CNAME .
 smetrics.viega.us CNAME .
 smetrics.vikingline.ax CNAME .
 smetrics.vikingline.fi CNAME .
@@ -11698,6 +11803,7 @@ sms.ajopharmabeta.riteaid.com CNAME .
 sms.apac.coca-cola.com CNAME .
 sms.em.officedepot.com CNAME .
 sms.mcafee.com CNAME .
+sms.notice.assurancewireless.com CNAME .
 sms.notice.metrobyt-mobile.com CNAME .
 sms.notice.t-mobile.com CNAME .
 sms.riteaid.com CNAME .
@@ -11712,6 +11818,7 @@ snalytics.allianz-assistance.at CNAME .
 snalytics.allianz-assistance.com.sg CNAME .
 snalytics.allianz-assistance.es CNAME .
 snalytics.allianz-assistance.ie CNAME .
+snalytics.allianz-assistance.nl CNAME .
 snalytics.allianz-reiseversicherung.de CNAME .
 snalytics.allianz-travel.ch CNAME .
 snalytics.allianz-travel.com.hk CNAME .
@@ -11924,6 +12031,7 @@ ssc.nicktv.it CNAME .
 ssc.ozodi.org CNAME .
 ssc.ozodlik.org CNAME .
 ssc.pashtovoa.com CNAME .
+ssc.polygraph.info CNAME .
 ssc.radiofarda.com CNAME .
 ssc.radiomarsho.com CNAME .
 ssc.radiosawa.com CNAME .
@@ -12140,6 +12248,7 @@ strack.allianz.ch CNAME .
 strack.apps.allianzworldwidecare.com CNAME .
 strack.cap.ch CNAME .
 strack.concur.tw CNAME .
+strack.elvia.ch CNAME .
 strack.www.allianzcare-corporate.com CNAME .
 strack.www.allianzcare.com CNAME .
 strayeruniversity.tt.omtrdc.net CNAME .
@@ -12237,6 +12346,7 @@ sweep5sc1n.tt.omtrdc.net CNAME .
 swinburne.tt.omtrdc.net CNAME .
 swisscomag.tt.omtrdc.net CNAME .
 swisslifeag.tt.omtrdc.net CNAME .
+swordartwiki.wiki.tt.omtrdc.net CNAME .
 sxp.allianz.de CNAME .
 sydneyoperahouse.tt.omtrdc.net CNAME .
 sydneyuni.tt.omtrdc.net CNAME .
@@ -12324,6 +12434,7 @@ target.connecticare.com CNAME .
 target.cox.com CNAME .
 target.danmurphys.com.au CNAME .
 target.dodge.com CNAME .
+target.dzbank.de CNAME .
 target.eastbay.com CNAME .
 target.element14.com CNAME .
 target.elvia.ch CNAME .
@@ -12397,6 +12508,7 @@ target.premierinn.com CNAME .
 target.publicissapient.com CNAME .
 target.pwc-tls.it CNAME .
 target.pwc.at CNAME .
+target.pwc.be CNAME .
 target.pwc.ch CNAME .
 target.pwc.co.uk CNAME .
 target.pwc.co.za CNAME .
@@ -12448,6 +12560,7 @@ target.thegrocer.co.uk CNAME .
 target.thetruth.com CNAME .
 target.toyota.com CNAME .
 target.troweprice.com CNAME .
+target.tunisie.pwc.fr CNAME .
 target.ultramarfleet.ca CNAME .
 target.veeam.com CNAME .
 target.visitsingapore.com CNAME .
@@ -12462,11 +12575,13 @@ target.vwfs.gr CNAME .
 target.vwfs.ie CNAME .
 target.vwfs.it CNAME .
 target.vwfs.mx CNAME .
+target.vwfs.pl CNAME .
 target.walgreens.com CNAME .
 target.wsec06.bancogalicia.com.ar CNAME .
 target.xfinity.com CNAME .
 target.zeiss.com CNAME .
 target.zeiss.de CNAME .
+target.zinia.com CNAME .
 targetab.metrobyt-mobile.com CNAME .
 targetlr.adobe.com CNAME .
 targetsecure.kohler.com CNAME .
@@ -12481,6 +12596,8 @@ tataconsumerproducts.tt.omtrdc.net CNAME .
 tatadigital.tt.omtrdc.net CNAME .
 tatadigitial.tt.omtrdc.net CNAME .
 tatagroup.tt.omtrdc.net CNAME .
+tatamotors.tt.omtrdc.net CNAME .
+tatapassenger.tt.omtrdc.net CNAME .
 tatasiaairlinesltd.tt.omtrdc.net CNAME .
 tatasteelltd.tt.omtrdc.net CNAME .
 tataunistore.tt.omtrdc.net CNAME .
@@ -12554,6 +12671,7 @@ telemetry.goodlifefitness.com CNAME .
 telemetry.moveworks.com CNAME .
 telemetry.navispherecarrier.com CNAME .
 telemetry.stryker.com CNAME .
+telemetry.webasto.com CNAME .
 telenetgroup.tt.omtrdc.net CNAME .
 telenor.tt.omtrdc.net CNAME .
 telepoc100.tt.omtrdc.net CNAME .
@@ -12909,6 +13027,7 @@ turnerbroadcastingsy.tt.omtrdc.net CNAME .
 turtlesponge.tt.omtrdc.net CNAME .
 tuymazi.tt.omtrdc.net CNAME .
 tv-downloads.tt.omtrdc.net CNAME .
+tv2danmark.tt.omtrdc.net CNAME .
 tvzonline.tt.omtrdc.net CNAME .
 twcroadrunner.tt.omtrdc.net CNAME .
 twctsg.reset.hb-api.tt.omtrdc.net CNAME .
@@ -12924,6 +13043,7 @@ txrules.tt.omtrdc.net CNAME .
 txuenergy.tt.omtrdc.net CNAME .
 tybane1.tt.omtrdc.net CNAME .
 tycoelectronicscorpo.tt.omtrdc.net CNAME .
+tyro.tt.omtrdc.net CNAME .
 tysegall.tt.omtrdc.net CNAME .
 tyxdtrcrly.254nbcume.hb.tt.omtrdc.net CNAME .
 ua-85-231-121-136.cust.tt.omtrdc.net CNAME .
@@ -13255,6 +13375,7 @@ vpntest-tst.ibc.tt.omtrdc.net CNAME .
 vpob.tt.omtrdc.net CNAME .
 vps4.my.tt.omtrdc.net CNAME .
 vpstun21.tt.omtrdc.net CNAME .
+vpsva-pool.tt.omtrdc.net CNAME .
 vqipdr3p.nccr.tt.omtrdc.net CNAME .
 vqwckswxsf.meet.aem.hb.tt.omtrdc.net CNAME .
 vs-cam.u013.tt.omtrdc.net CNAME .
@@ -13728,6 +13849,7 @@ www.jura.rw.tt.omtrdc.net CNAME .
 www.kokusai.tt.omtrdc.net CNAME .
 www.ktet.ftn.tt.omtrdc.net CNAME .
 www.latin-america.tt.omtrdc.net CNAME .
+www.learn.tt.omtrdc.net CNAME .
 www.libertyglobalpaneu.tt.omtrdc.net CNAME .
 www.librairiedemolecules.tt.omtrdc.net CNAME .
 www.littleitalymilano.www.tt.omtrdc.net CNAME .
@@ -14050,6 +14172,7 @@ a.acxiom.com CNAME .
 a.fox.com CNAME .
 a.foxsports.com CNAME .
 a.fxnetworks.com CNAME .
+a.koodomobile.com CNAME .
 a.medtronic.com CNAME .
 a.publicmobile.ca CNAME .
 a.rohde-schwarz.com CNAME .
@@ -14208,6 +14331,7 @@ adobeanalytics-secure.girlscouts.org CNAME .
 adobeanalytics.actalentservices.com CNAME .
 adobeanalytics.aerotek.com CNAME .
 adobeanalytics.allegis-partners.com CNAME .
+adobeanalytics.allegisglobalsolutions.com CNAME .
 adobeanalytics.allegisgroup.com CNAME .
 adobeanalytics.astoncarter.com CNAME .
 adobeanalytics.bws.com.au CNAME .
@@ -14310,6 +14434,7 @@ analytics.sixt.jp CNAME .
 analytics.sixt.nl CNAME .
 analytics.sixtcarsales.de CNAME .
 analytics.sixtmiddleeast.com CNAME .
+analytics.smart.mercedes-benz.com CNAME .
 analytics.spark.co.nz CNAME .
 analytics.sprint.com CNAME .
 analytics.superstation.com CNAME .
@@ -14320,6 +14445,7 @@ analytics.tnt-tv.pl CNAME .
 analytics.tnt-tv.ro CNAME .
 analytics.tnt.africa CNAME .
 analytics.tntdrama.com CNAME .
+analytics.tntsports.cl CNAME .
 analytics.tntsports.com CNAME .
 analytics.tntsports.com.ar CNAME .
 analytics.trutv.com CNAME .
@@ -14373,6 +14499,7 @@ b.rohde-schwarz.com CNAME .
 b.simyo.de CNAME .
 b.snow.com CNAME .
 b.telus.com CNAME .
+bc.law.com CNAME .
 bcomniture.focus.de CNAME .
 biz1.kddi.com CNAME .
 bsna.galeria-kaufhof.de CNAME .
@@ -14410,6 +14537,7 @@ data.stepstone.be CNAME .
 data.stepstone.de CNAME .
 data.stepstone.fr CNAME .
 data.stepstone.nl CNAME .
+data.thepointsguy.com CNAME .
 data.vinsolutions.com CNAME .
 data0.bell.ca CNAME .
 data0.virginmobile.ca CNAME .
@@ -14566,6 +14694,7 @@ infos.telstra.com.au CNAME .
 infos.vodafone.com.au CNAME .
 jinair.nsc.jinair.com CNAME .
 jpaatr.astellas.jp CNAME .
+landing.madridista-free.realmadrid.com CNAME .
 landingpage.emaillpb.adobe.com CNAME .
 lewis.gct.com CNAME .
 live.comunicaciones.jetstereo.com CNAME .
@@ -14578,6 +14707,7 @@ lp.demo3.demoamericas275.adobe.com CNAME .
 lp.demo4.demoamericas275.adobe.com CNAME .
 lp.demo5.demoamericas275.adobe.com CNAME .
 lp.demo6.demoamericas275.adobe.com CNAME .
+lp.demo7.demoamericas275.adobe.com CNAME .
 lp.demo8.demoamericas275.adobe.com CNAME .
 lp.demo9.demoamericas275.adobe.com CNAME .
 lp.dmillersb.journeyusshared.adobe.com CNAME .
@@ -14728,6 +14858,7 @@ metrics.argenta.eu CNAME .
 metrics.armstrongceilings.com CNAME .
 metrics.armstrongflooring.com CNAME .
 metrics.army.mod.uk CNAME .
+metrics.as.com CNAME .
 metrics.asos.com CNAME .
 metrics.assurancewireless.com CNAME .
 metrics.assuranthealth.com CNAME .
@@ -14754,6 +14885,7 @@ metrics.bayer.us CNAME .
 metrics.bbva.mx CNAME .
 metrics.bbvaleasing.mx CNAME .
 metrics.bcbsnc.com CNAME .
+metrics.bcbsnd.com CNAME .
 metrics.be.carrefour.eu CNAME .
 metrics.bestandless.com.au CNAME .
 metrics.bestrecipes.com.au CNAME .
@@ -14775,6 +14907,7 @@ metrics.boq.com.au CNAME .
 metrics.boscovs.com CNAME .
 metrics.bose.com CNAME .
 metrics.bostonglobe.com CNAME .
+metrics.bridgestoneamericas.com CNAME .
 metrics.britishgas.co.uk CNAME .
 metrics.bt.com CNAME .
 metrics.buyersedge.com.au CNAME .
@@ -14817,6 +14950,7 @@ metrics.citibank.com.my CNAME .
 metrics.citibank.com.ph CNAME .
 metrics.citizensbank.com CNAME .
 metrics.cnb.com CNAME .
+metrics.coalesse.com CNAME .
 metrics.comcast.com CNAME .
 metrics.commonclaimsmistakesvideo.com CNAME .
 metrics.comparethemarket.com CNAME .
@@ -14838,6 +14972,7 @@ metrics.cytivalifesciences.com CNAME .
 metrics.dailytelegraph.com.au CNAME .
 metrics.dandh.ca CNAME .
 metrics.dandh.com CNAME .
+metrics.deakin.edu.au CNAME .
 metrics.delicious.com.au CNAME .
 metrics.delta.com CNAME .
 metrics.dertour.de CNAME .
@@ -14891,6 +15026,7 @@ metrics.fifa.com CNAME .
 metrics.filemaker.com CNAME .
 metrics.finn.no CNAME .
 metrics.flagstar.com CNAME .
+metrics.flexerasoftware.com CNAME .
 metrics.fmdos.cl CNAME .
 metrics.ford.com CNAME .
 metrics.fortinet.com CNAME .
@@ -14901,6 +15037,7 @@ metrics.fressnapf.at CNAME .
 metrics.fressnapf.de CNAME .
 metrics.fuzeon.com CNAME .
 metrics.gap.co.jp CNAME .
+metrics.gap.co.uk CNAME .
 metrics.gap.eu CNAME .
 metrics.gapcanada.ca CNAME .
 metrics.gazyva.com CNAME .
@@ -15027,6 +15164,7 @@ metrics.matchesfashion.com CNAME .
 metrics.mathworks.com CNAME .
 metrics.matlab.com CNAME .
 metrics.maxizoo.pl CNAME .
+metrics.med.roche.ru CNAME .
 metrics.medical.roche.de CNAME .
 metrics.meiers-weltreisen.de CNAME .
 metrics.mein-dertour.de CNAME .
@@ -15037,6 +15175,7 @@ metrics.metrobyt-mobile.com CNAME .
 metrics.mgmresorts.com CNAME .
 metrics.miles-and-more.com CNAME .
 metrics.misumi-ec.com CNAME .
+metrics.moneta.cz CNAME .
 metrics.moodys.com CNAME .
 metrics.morganstanley.com CNAME .
 metrics.motortrend.com CNAME .
@@ -15093,6 +15232,7 @@ metrics.orlandofuntickets.com CNAME .
 metrics.pacsun.com CNAME .
 metrics.pagoda.com CNAME .
 metrics.panasonic.biz CNAME .
+metrics.panasonic.jp CNAME .
 metrics.panerabread.com CNAME .
 metrics.parcelforce.com CNAME .
 metrics.payback.de CNAME .
@@ -15113,6 +15253,7 @@ metrics.postoffice.co.uk CNAME .
 metrics.ppt.org CNAME .
 metrics.prd.base.be CNAME .
 metrics.prd.telenet.be CNAME .
+metrics.premierinn.com CNAME .
 metrics.princess.com CNAME .
 metrics.privilege.com CNAME .
 metrics.professionnels.roche.fr CNAME .
@@ -15149,6 +15290,7 @@ metrics.rituxanforra-hcp.com CNAME .
 metrics.rituxanforra.com CNAME .
 metrics.rituxanhycela.com CNAME .
 metrics.robeco.com CNAME .
+metrics.roche-applied-science.com CNAME .
 metrics.rochehelse.no CNAME .
 metrics.rochenet.pt CNAME .
 metrics.rockandpop.cl CNAME .
@@ -15188,6 +15330,7 @@ metrics.smedia.com.au CNAME .
 metrics.solarwinds.com CNAME .
 metrics.solaseedair.jp CNAME .
 metrics.southeastfarmpress.com CNAME .
+metrics.spdrs.com CNAME .
 metrics.srpnet.com CNAME .
 metrics.standardandpoors.com CNAME .
 metrics.staples.com CNAME .
@@ -15227,6 +15370,7 @@ metrics.themercury.com.au CNAME .
 metrics.thetrainline.com CNAME .
 metrics.thingspeak.com CNAME .
 metrics.three.co.uk CNAME .
+metrics.three.ie CNAME .
 metrics.thrivent.com CNAME .
 metrics.tiaa-cref.org CNAME .
 metrics.tiaa.org CNAME .
@@ -15282,12 +15426,15 @@ metrics.vonage.co.uk CNAME .
 metrics.vonage.com CNAME .
 metrics.vrst.com CNAME .
 metrics.vw.com CNAME .
+metrics.vwfs.ie CNAME .
+metrics.vwfs.pt CNAME .
 metrics.walgreens.com CNAME .
 metrics.watch.nba.com CNAME .
 metrics.watlow.com CNAME .
 metrics.wealthmanagement.com CNAME .
 metrics.weeklytimesnow.com.au CNAME .
 metrics.westernunion.com CNAME .
+metrics.westgateresorts.com CNAME .
 metrics.whimn.com.au CNAME .
 metrics.williamhill.com CNAME .
 metrics.williams-sonoma.com CNAME .
@@ -15515,9 +15662,11 @@ repdata.courier-journal.com CNAME .
 repdata.dnj.com CNAME .
 repdata.eveningsun.com CNAME .
 repdata.floridatoday.com CNAME .
+repdata.kiiitv.com CNAME .
 repdata.king5.com CNAME .
 repdata.kitsapsun.com CNAME .
 repdata.lansingstatejournal.com CNAME .
+repdata.marionstar.com CNAME .
 repdata.montgomeryadvertiser.com CNAME .
 repdata.northjersey.com CNAME .
 repdata.packersnews.com CNAME .
@@ -15800,6 +15949,7 @@ sanalytics.spark.co.nz CNAME .
 sanalytics.sprint.com CNAME .
 sanalytics.tabichan.jp CNAME .
 sanalytics.tbs.com CNAME .
+sanalytics.tcmuk.tv CNAME .
 sanalytics.tntdrama.com CNAME .
 sanalytics.tntgo.tv CNAME .
 sanalytics.trutv.com CNAME .
@@ -15855,9 +16005,11 @@ sc.rbs.co.uk CNAME .
 sc.rbs.com CNAME .
 sc.sanitas.com CNAME .
 sc.sonystyle.com.cn CNAME .
+sc.supertv.it CNAME .
 sc.ulsterbank.co.uk CNAME .
 sc.ulsterbank.ie CNAME .
 sc.vmware.com CNAME .
+scanalytics.wral.com CNAME .
 sci.intuit.com CNAME .
 scmetrics.vodafone.it CNAME .
 scnd.landsend.co.uk CNAME .
@@ -15871,6 +16023,7 @@ scookies-adobe.kbcbrussels.be CNAME .
 scookies-adobe.kbclease.lu CNAME .
 scookies-adobe.kching.be CNAME .
 scrippsfoodnetnew.foodnetwork.com CNAME .
+scrippshgtvnew.hgtv.com CNAME .
 scs.arcteryx.com CNAME .
 scsmetrics.vodafone.it CNAME .
 sdata.chelseafc.com CNAME .
@@ -16067,6 +16220,7 @@ smetrics.afcom.com CNAME .
 smetrics.aftonbladet.se CNAME .
 smetrics.aia.com CNAME .
 smetrics.airandgo.fr CNAME .
+smetrics.airasia.com CNAME .
 smetrics.aircanada.com CNAME .
 smetrics.airngo.at CNAME .
 smetrics.airngo.de CNAME .
@@ -16079,6 +16233,7 @@ smetrics.airngo.se CNAME .
 smetrics.airtv.net CNAME .
 smetrics.ajinomoto.co.jp CNAME .
 smetrics.albankaldawli.org CNAME .
+smetrics.alecensa.com CNAME .
 smetrics.alexandani.com CNAME .
 smetrics.allegion.com CNAME .
 smetrics.alliancebernstein.com CNAME .
@@ -16328,6 +16483,7 @@ smetrics.corus.ca CNAME .
 smetrics.costacruise.com CNAME .
 smetrics.costadelmar.com CNAME .
 smetrics.costco.com CNAME .
+smetrics.costumesupercenter.com CNAME .
 smetrics.cotellic.com CNAME .
 smetrics.cottages.com CNAME .
 smetrics.country104.com CNAME .
@@ -16695,10 +16851,12 @@ smetrics.kone.cz CNAME .
 smetrics.kone.dk CNAME .
 smetrics.kone.eg CNAME .
 smetrics.kone.es CNAME .
+smetrics.kone.fr CNAME .
 smetrics.kone.hu CNAME .
 smetrics.kone.in CNAME .
 smetrics.kone.mx CNAME .
 smetrics.kone.nl CNAME .
+smetrics.kone.no CNAME .
 smetrics.kone.om CNAME .
 smetrics.kone.pt CNAME .
 smetrics.kone.rs CNAME .
@@ -16715,6 +16873,7 @@ smetrics.lambweston.com CNAME .
 smetrics.landg-life.com CNAME .
 smetrics.landg.com CNAME .
 smetrics.landolakes.com CNAME .
+smetrics.landolakesfoodservice.com CNAME .
 smetrics.landolakesinc.com CNAME .
 smetrics.lanebryant.com CNAME .
 smetrics.laredoute.fr CNAME .
@@ -16738,7 +16897,6 @@ smetrics.lifetime.life CNAME .
 smetrics.lifree.com CNAME .
 smetrics.lissage.jp CNAME .
 smetrics.lloydslistintelligence.com CNAME .
-smetrics.lmtonline.com CNAME .
 smetrics.loblaws.ca CNAME .
 smetrics.loft.com CNAME .
 smetrics.louandgrey.com CNAME .
@@ -17495,6 +17653,7 @@ smodus.nike.com CNAME .
 smon.activate.cz CNAME .
 smon.congress.gov CNAME .
 smon.loc.gov CNAME .
+smr.so-net.ne.jp CNAME .
 smtc.qantas.com CNAME .
 smtc.qantas.com.au CNAME .
 smtx.belfius.be CNAME .
@@ -17582,6 +17741,7 @@ somni.tatacard.com CNAME .
 somni.thedarcyhotel.com CNAME .
 somni.therecroom.com CNAME .
 somni.thermofisher.com CNAME .
+somni.tourisminvestment.com.au CNAME .
 somni.turkcell.com.tr CNAME .
 somni.vrk.de CNAME .
 somni.westernasset.com CNAME .
@@ -17620,6 +17780,7 @@ srepdata.caller.com CNAME .
 srepdata.citizen-times.com CNAME .
 srepdata.clarionledger.com CNAME .
 srepdata.coloradoan.com CNAME .
+srepdata.coshoctontribune.com CNAME .
 srepdata.courier-journal.com CNAME .
 srepdata.daily-times.com CNAME .
 srepdata.dailyworld.com CNAME .
@@ -17652,6 +17813,7 @@ srepdata.newarkadvocate.com CNAME .
 srepdata.news-leader.com CNAME .
 srepdata.newsleader.com CNAME .
 srepdata.postcrescent.com CNAME .
+srepdata.publicopiniononline.com CNAME .
 srepdata.redding.com CNAME .
 srepdata.shreveporttimes.com CNAME .
 srepdata.tcpalm.com CNAME .
@@ -17660,6 +17822,7 @@ srepdata.theadvertiser.com CNAME .
 srepdata.thedailyjournal.com CNAME .
 srepdata.thespectrum.com CNAME .
 srepdata.thetimesherald.com CNAME .
+srepdata.thetowntalk.com CNAME .
 srepdata.usatoday.com CNAME .
 srepdata.wauwatosanow.com CNAME .
 srepdata.wcsh6.com CNAME .
@@ -17676,6 +17839,7 @@ ssa.diynetwork.com CNAME .
 ssa.food.com CNAME .
 ssa.foodnetwork.com CNAME .
 ssa.hgtv.com CNAME .
+ssa.investigationdiscovery.com CNAME .
 ssa.sciencechannel.com CNAME .
 ssa.tlc.com CNAME .
 ssc.bellator.com CNAME .
@@ -17938,6 +18102,7 @@ stats.harrods.com CNAME .
 stats.hayu.com CNAME .
 stats.icimusique.ca CNAME .
 stats.jetzt-aktivieren.de CNAME .
+stats.juttu.be CNAME .
 stats.kroger.com CNAME .
 stats.lag-avtal.se CNAME .
 stats.m2m-mobil.de CNAME .
@@ -17976,6 +18141,7 @@ stats.truist.com CNAME .
 stats.vattenfall.nl CNAME .
 stats.vattenfall.se CNAME .
 stats.voyages-sncf.com CNAME .
+stats.wallisfashion.com CNAME .
 stats.wartsila.com CNAME .
 stats.whattopack.com CNAME .
 stats.winsim.de CNAME .
@@ -18033,6 +18199,7 @@ sucmetrics.unicredit.de CNAME .
 sucmetrics.unicredit.it CNAME .
 sucmetrics.unicreditgroup.eu CNAME .
 suncanny.marvel.com CNAME .
+suncanny.marvelhq.com CNAME .
 superstats.observepoint.com CNAME .
 sut.dailyfx.com CNAME .
 sut.dailyfx.com.hk CNAME .
@@ -18124,6 +18291,7 @@ t.mashable.com CNAME .
 t.nylinvestments.com CNAME .
 t.popsugar.com CNAME .
 ta.taxslayer.com CNAME .
+tags.esri.ca CNAME .
 tags.esri.com CNAME .
 tags.esri.rw CNAME .
 tdor-smetrics.td.com CNAME .
@@ -18158,10 +18326,13 @@ tracking.cspire.com CNAME .
 tracking.dailyglow.com CNAME .
 tracking.kyobo.co.kr CNAME .
 tracking.lg.com CNAME .
+tracking.m.mercedes-benz.com.cn CNAME .
 tracking.m.mercedes-benz.com.sg CNAME .
 tracking.mb.mercedes-benz.com CNAME .
 tracking.medpagetoday.com CNAME .
 tracking.redbutton.de CNAME .
+tracking.t.mercedes-benz.com.cn CNAME .
+tracking.techcenter.mercedes-benz.com CNAME .
 tracking.www5.mercedes-benz.com CNAME .
 trackingssl.agemployeebenefits.be CNAME .
 trackingssl.aginsurance.be CNAME .
@@ -18278,6 +18449,8 @@ csvtr13.bmodelawaretrust.com CNAME .
 csvtt.bmolife.com CNAME .
 csvtu.bmolending.com CNAME .
 metrics.adobeprimetime.com CNAME .
+metrics.chron.com CNAME .
+smetrics.chron.com CNAME .
 smetrics.sharekhan.com CNAME .
 t3e.firstchoice.co.uk CNAME .
 visualscience.external.bbc.co.uk CNAME .

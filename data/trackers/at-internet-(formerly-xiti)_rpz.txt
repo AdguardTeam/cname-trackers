@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ col.casa.it CNAME .
 col.idealista.com CNAME .
 col.idealista.it CNAME .
 col.idealista.pt CNAME .
+col.rentalia.com CNAME .
 collect.meilleurtaux.com CNAME .
 conimicutlighthouse.viessmann-us.com CNAME .
 content.kleinezeitung.at CNAME .
@@ -76,7 +77,6 @@ kallerupstone.viessmann.dk CNAME .
 kiki.rireetchansons.fr CNAME .
 kistacity.viessmann.se CNAME .
 lem.nouvelobs.com CNAME .
-logs1257.at.pagesjaunes.fr CNAME .
 mediniku.viessmann.lt CNAME .
 mefo1.zdf.de CNAME .
 mkt.usz.ch CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,7 +54,6 @@ a.1film.to CNAME .
 a.6drole.com CNAME .
 a.6vids.space CNAME .
 a.acervox.com CNAME .
-a.adult-videos.org CNAME .
 a.antiadxxxspy.com CNAME .
 a.artamkari.com CNAME .
 a.badword.xyz CNAME .
@@ -62,6 +61,7 @@ a.bitporno.com CNAME .
 a.bitporno.to CNAME .
 a.bloblohub.com CNAME .
 a.boyjackpot.com CNAME .
+a.bp9l1pi60.pro CNAME .
 a.coinhub.wiki CNAME .
 a.craftbeerclub.com.ua CNAME .
 a.dajex.club CNAME .
@@ -73,33 +73,31 @@ a.fapcat.com CNAME .
 a.fapster.xxx CNAME .
 a.fuckamouth.com CNAME .
 a.goodweet.xyz CNAME .
+a.goteat.xyz CNAME .
 a.hentai369.com CNAME .
 a.hubhubhub.name CNAME .
 a.jerkdevice.tv CNAME .
 a.jhfhdkhkh.site CNAME .
-a.kagiti.club CNAME .
 a.kainpopoy.com CNAME .
 a.kambistory.ml CNAME .
 a.kamehaus.net CNAME .
 a.kantotin.net CNAME .
-a.katomu.club CNAME .
 a.kizzteen.com CNAME .
 a.letsjerk.org CNAME .
 a.letsjerk.tv CNAME .
 a.memosaqee.com CNAME .
 a.misctool.xyz CNAME .
 a.myprettyads.one CNAME .
-a.narutoon.com CNAME .
 a.p123p.com CNAME .
 a.pandaporner.com CNAME .
 a.pinayviralsexx.com CNAME .
 a.pinoymoviepedia.ru CNAME .
 a.porn369.net CNAME .
 a.pornhex.com CNAME .
-a.pumpity.net CNAME .
 a.rafian.com CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
+a.testda.homes CNAME .
 a.tixir.xyz CNAME .
 a.totoro2011.xyz CNAME .
 a.unblock2303.xyz CNAME .
@@ -127,26 +125,25 @@ ad.vvtadblk.online CNAME .
 ad.wawacity.xyz CNAME .
 ad.xxam.org CNAME .
 adanad.name CNAME .
-adanald.icu CNAME .
 adblock.vidomo.xyz CNAME .
 adddddd.javmilk.org CNAME .
 addin.icu CNAME .
 adhand.icu CNAME .
 adilk.ilikecomix.com CNAME .
+ads.ad3d.icu CNAME .
+ads.crazyads.icu CNAME .
 ads.free-to.download CNAME .
 ads.gotxx.net CNAME .
 ads.hentaiheart.com CNAME .
 ads.javtit.com CNAME .
 ads.onetouchtv.me CNAME .
 ads.pornharlot.com CNAME .
-ads.pornharlot.net CNAME .
 ads.pornutopia.org CNAME .
 ads.saplacikardepo.xyz CNAME .
 ads.sturls.com CNAME .
 ads.tabuflix.com CNAME .
 ads.wetpussy.sexy CNAME .
 adspy.javrank.com CNAME .
-adxhand.icu CNAME .
 adzilla.icu CNAME .
 alt.fescity.com CNAME .
 amaz.emailon.top CNAME .
@@ -168,6 +165,7 @@ arabs.alarbda.com CNAME .
 arabs.arabxforum.com CNAME .
 arabs.nodzway.com CNAME .
 arabs.xn--mgbcvg3b0d2b.com CNAME .
+arabs.xn--ngbcrg3b.net CNAME .
 arabs.xn--ngbs7dg.net CNAME .
 ars.comicarab.com CNAME .
 as.ebacdn.com CNAME .
@@ -320,6 +318,7 @@ essential.awmcash.com CNAME .
 ex8.lostporntube.com CNAME .
 eznoz.xyz CNAME .
 f.bloblohub.com CNAME .
+f5w.prettytube.net CNAME .
 f92or5.spinna.shop CNAME .
 fansang.xyz CNAME .
 fddddddd.javmilk.org CNAME .
@@ -531,6 +530,7 @@ pamtuea.xyz CNAME .
 pamury.xyz CNAME .
 pangoha.xyz CNAME .
 pangtues.xyz CNAME .
+panoz.xyz CNAME .
 parkurl.com CNAME .
 pempiz.xyz CNAME .
 penapne.xyz CNAME .
@@ -558,6 +558,7 @@ qoqv.com CNAME .
 qoutec.shop CNAME .
 qsdr.mysunnylawn.com CNAME .
 quantoz.xyz CNAME .
+quiazo.xyz CNAME .
 quickzo.xyz CNAME .
 qwe4456133.justthegays.com CNAME .
 qx0.xnxxtubevideos.com CNAME .
@@ -587,7 +588,6 @@ sape.ngumaz.com CNAME .
 satmon.neekstore.com CNAME .
 sbbb.spinna.xyz CNAME .
 sbm.stigmuuua.xyz CNAME .
-scuoo.porneq.co CNAME .
 sda.seksohub.com CNAME .
 sdfdfff.flelgwe.site CNAME .
 sdg.desihamster.pro CNAME .
@@ -678,8 +678,6 @@ watekade.xyz CNAME .
 wp.zvideo.stream CNAME .
 ww.0prn.com CNAME .
 ww.cvideos.stream CNAME .
-www.adanald.icu CNAME .
-www.adxhand.icu CNAME .
 www.antiadblock.info CNAME .
 www.b.hubhubhub.name CNAME .
 www.bigboy.monster CNAME .

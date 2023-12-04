@@ -57,6 +57,7 @@
     * h-5pxao9h8.online-metrix.net
     * h-5rsqem15.online-metrix.net
     * h-5sc89hft.online-metrix.net
+    * h-5tjn91kn.online-metrix.net
     * h-5uvvlv7u.online-metrix.net
     * h-5wdrto0i.online-metrix.net
     * h-6a6y6kka.online-metrix.net
@@ -92,6 +93,7 @@
     * h-884tnrtj.online-metrix.net
     * h-8b6zz5ug.online-metrix.net
     * h-8e0pj0s9.online-metrix.net
+    * h-8em5ysu2.online-metrix.net
     * h-8gmrc4yu.online-metrix.net
     * h-8hqbv9ql.online-metrix.net
     * h-8m7u92ti.online-metrix.net
@@ -290,6 +292,7 @@
     * h-cvps2xwa.online-metrix.net
     * h-cw88rpnh.online-metrix.net
     * h-cybersource.online-metrix.net
+    * h-czmm8tx9.online-metrix.net
     * h-d1kh7jfh.online-metrix.net
     * h-d3tracking.rbc.online-metrix.net
     * h-d5k4yw92.online-metrix.net
@@ -315,6 +318,7 @@
     * h-drav45kl.online-metrix.net
     * h-drbo60la.online-metrix.net
     * h-dsa7i4o8.online-metrix.net
+    * h-dst402ij.online-metrix.net
     * h-dstssc.online-metrix.net
     * h-dszu15n8.online-metrix.net
     * h-dubkxo24.online-metrix.net
@@ -325,6 +329,7 @@
     * h-dy06hdpq.online-metrix.net
     * h-dyj6k3h5.online-metrix.net
     * h-e04kqxof.online-metrix.net
+    * h-e0j3u9ji.online-metrix.net
     * h-ebay-kleinanzeigen.online-metrix.net
     * h-ebay.online-metrix.net
     * h-ecampus.online-metrix.net
@@ -790,6 +795,8 @@
 | cfa.mystreetscape.com | h-5h8i3ud8.online-metrix.net |
 | cfa.streetscape.com | h-5h8i3ud8.online-metrix.net |
 | cfaxq.advisorchannel.com | h-5h8i3ud8.online-metrix.net |
+| cfaxq.mystreetscape.com | h-5h8i3ud8.online-metrix.net |
+| cfaxq.streetscape.com | h-5h8i3ud8.online-metrix.net |
 | cfaxq1.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | cfaxq2.fidelity.com | h-5h8i3ud8.online-metrix.net |
 | secure.jumia.ci | h-5pxao9h8.online-metrix.net |
@@ -807,6 +814,7 @@
 | secure.zando.co.za | h-5pxao9h8.online-metrix.net |
 | content.fig.ca | h-5rsqem15.online-metrix.net |
 | netinf.curemd.com | h-5sc89hft.online-metrix.net |
+| content.nu.com.mx | h-5tjn91kn.online-metrix.net |
 | rttm.uniondigitalbank.io | h-5uvvlv7u.online-metrix.net |
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
@@ -850,6 +858,7 @@
 | phyon.visit-x.net | h-884tnrtj.online-metrix.net |
 | subcontent.galeria.de | h-8b6zz5ug.online-metrix.net |
 | 1bf86f4b.tictoc.ai | h-8e0pj0s9.online-metrix.net |
+| dtrust.atratopago.com | h-8em5ysu2.online-metrix.net |
 | tools.workforcewv.org | h-8gmrc4yu.online-metrix.net |
 | online-security.unionbankph.com | h-8hqbv9ql.online-metrix.net |
 | ftd.quodxx.com.br | h-8m7u92ti.online-metrix.net |
@@ -983,6 +992,7 @@
 | scontent.bip.credit | h-c7f45hl1.online-metrix.net |
 | scontent.marbles.com | h-c7f45hl1.online-metrix.net |
 | scontent.newdaycards.com | h-c7f45hl1.online-metrix.net |
+| scontent.opuscard.co.uk | h-c7f45hl1.online-metrix.net |
 | irmp.caa.com | h-caa.online-metrix.net |
 | deviceauth.dmv.ca.gov | h-cadmv.online-metrix.net |
 | membership-device.secured-igaming-services.com | h-caesars888.online-metrix.net |
@@ -1110,6 +1120,7 @@
 | thrm-scrq-0001.crypterium.com | h-cvps2xwa.online-metrix.net |
 | lsprof.comeon.com | h-cw88rpnh.online-metrix.net |
 | tm.cybersource.com | h-cybersource.online-metrix.net |
+| content.nu.com.co | h-czmm8tx9.online-metrix.net |
 | content.sportscheck.com | h-d1kh7jfh.online-metrix.net |
 | d3tracking.rbc.com | h-d3tracking.rbc.online-metrix.net |
 | qtbm.fundourselves.com | h-d5k4yw92.online-metrix.net |
@@ -1137,6 +1148,7 @@
 | content.wizink.es | h-drav45kl.online-metrix.net |
 | payments.hd-plus.de | h-drbo60la.online-metrix.net |
 | content22.gss.citi.com | h-dsa7i4o8.online-metrix.net |
+| lspr.luckycasino.ca | h-dst402ij.online-metrix.net |
 | content.ssctech.com | h-dstssc.online-metrix.net |
 | acdc.toolineo.de | h-dszu15n8.online-metrix.net |
 | xmt.paze.com | h-dubkxo24.online-metrix.net |
@@ -1149,6 +1161,7 @@
 | content.gap.com | h-e04kqxof.online-metrix.net |
 | content.gapfactory.com | h-e04kqxof.online-metrix.net |
 | content.gaptechol.com | h-e04kqxof.online-metrix.net |
+| zacchaeus.logos.com | h-e0j3u9ji.online-metrix.net |
 | fdts.ebay-kleinanzeigen.de | h-ebay-kleinanzeigen.online-metrix.net |
 | src.ebay-us.com | h-ebay.online-metrix.net |
 | content.ecampus.com | h-ecampus.online-metrix.net |

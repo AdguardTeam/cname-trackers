@@ -60,6 +60,7 @@ tr.asp103z.espmp-nifr.net
 tr.asp104p.espmp-aufr.net
 tr.asp106d.espmp-cufr.net
 tr.asp106g.espmp-nifr.net
+tr.asp106m.espmp-agfr.net
 tr.asp108a.espmp-cufr.net
 tr.asp1098.espmp-cufr.net
 tr.asp109c.espmp-aufr.net
@@ -207,6 +208,7 @@ tr.communication.ancv.com
 tr.communication.armatis-lc.com
 tr.communication.arthur-bonnet.com
 tr.communication.b2b-actualites.com
+tr.communication.boursobank.info
 tr.communication.boursorama.info
 tr.communication.cgaaer.fr
 tr.communication.enkiapp.io
@@ -236,8 +238,6 @@ tr.contact.cereps.fr
 tr.contact.e-turf.fr
 tr.contact.lead.eu.com
 tr.contact.lvmh.fr
-tr.contact.makemelead.com
-tr.contact.makemelead.info
 tr.contact.mhl-publishing.fr
 tr.contact.ruinart.com
 tr.contact.stof.fr
@@ -373,6 +373,7 @@ tr.entreprise.axa.fr
 tr.envie-de-bien-manger.espmp-aufr.net
 tr.eqs.cpam67.net
 tr.ere.emailing.bnpparibas
+tr.espmp-agfr.net
 tr.estatesandwines.moethennessy.com
 tr.etravauxpro.fr
 tr.etude.sncd.org
@@ -668,7 +669,6 @@ tr.news.alcyon.com
 tr.news.alibabuy.com
 tr.news.alinea.com
 tr.news.alinea.fr
-tr.news.allopneus.be
 tr.news.allopneus.com
 tr.news.aramisauto.com
 tr.news.assuragency.net
@@ -760,6 +760,7 @@ tr.news.lacollectionairfrance.fr
 tr.news.lalettredelexpansion.com
 tr.news.latribunebordeaux.fr
 tr.news.leclubtravel.fr
+tr.news.lentillesmoinscheres.com
 tr.news.lentreprise.lexpress.fr
 tr.news.lexpansion.lexpress.fr
 tr.news.lexpress.fr

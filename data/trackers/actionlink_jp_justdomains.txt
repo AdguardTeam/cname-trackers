@@ -1,6 +1,7 @@
 #
 # Company name: Actionlink.jp
 actionlk.ozie.co.jp
+al.amiami345.shop
 al.apros.co.jp
 al.atelierofsleep.com
 al.ballon.jp

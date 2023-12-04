@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ tk.airfrance.de CNAME .
 tk.airfrance.dj CNAME .
 tk.airfrance.dk CNAME .
 tk.airfrance.dz CNAME .
+tk.airfrance.es CNAME .
 tk.airfrance.fi CNAME .
 tk.airfrance.fr CNAME .
 tk.airfrance.ga CNAME .
@@ -101,6 +102,7 @@ tk.hypnia.es CNAME .
 tk.hypnia.fr CNAME .
 tk.hypnia.nl CNAME .
 tk.illicado.com CNAME .
+tk.interflora.dk CNAME .
 tk.interflora.es CNAME .
 tk.interflora.fr CNAME .
 tk.interflora.it CNAME .

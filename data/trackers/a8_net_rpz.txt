@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -484,7 +484,6 @@ a8clk.justfitoffice.com CNAME .
 a8clk.justy-consul.com CNAME .
 a8clk.ka-shimo.com CNAME .
 a8clk.kaitori-beerecords.jp CNAME .
-a8clk.kaitori-do.com CNAME .
 a8clk.kaitori-janiyard.jp CNAME .
 a8clk.kaitori-retrog.jp CNAME .
 a8clk.kaitori-toretoku.jp CNAME .
@@ -609,6 +608,7 @@ a8clk.support-hoiku.com CNAME .
 a8clk.supreme-noi.jp CNAME .
 a8clk.sure-i.co.jp CNAME .
 a8clk.t-fic.co.jp CNAME .
+a8clk.taisho-beauty.jp CNAME .
 a8clk.takken-job.com CNAME .
 a8clk.takuhai.daichi-m.co.jp CNAME .
 a8clk.tamiyashop.jp CNAME .
@@ -830,6 +830,7 @@ a8cv.futurefinder.net CNAME .
 a8cv.fxtrade.co.jp CNAME .
 a8cv.gaiasign.co.jp CNAME .
 a8cv.gaikokujin-support.com CNAME .
+a8cv.gaikouexterior-partners.jp CNAME .
 a8cv.gakuen.omobic.com CNAME .
 a8cv.gb-chat.com CNAME .
 a8cv.gbset.jp CNAME .
@@ -1322,10 +1323,12 @@ cv.ui-chiho.clinic CNAME .
 cv.web-sana.com CNAME .
 cv.wp-avenue.com CNAME .
 cv.www.jobcareer.jp CNAME .
+cv.www.risetokyo.jp CNAME .
 cv.www.rokuzan.net CNAME .
 cv.xn--bcktcvdzde3c.biz CNAME .
 cv.xn--zbs202g.com CNAME .
 cv.zephylrin-x.net CNAME .
+cv1.start-eo.jp CNAME .
 cv1.stefany.co.jp CNAME .
 dwuzxuvwlq.winticket.jp CNAME .
 ems-a8net-tracking.easy-myshop.jp CNAME .

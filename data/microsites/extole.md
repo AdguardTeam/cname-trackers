@@ -34,6 +34,7 @@
     * divvybikes.extole.com
     * dnj.extole.com
     * ebags.extole.com
+    * fabkids-ssl.extole.com
     * fivestars.extole.com
     * framesdirect.extole.com
     * freshly.extole.com
@@ -221,6 +222,7 @@
     * cle-de-peau.extole.io
     * clevelandgolf.extole.io
     * clinique.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -468,6 +470,7 @@
     * signals.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
+    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -497,6 +500,7 @@
     * tatcha.extole.io
     * taxact.extole.io
     * teachersfcu.extole.io
+    * teachingchannel.extole.io
     * teladoc.extole.io
     * the-childrens-place.extole.io
     * the-company-store.extole.io
@@ -703,6 +707,7 @@
 | refer.clearme.com | clearme-ssl.extole.com |
 | share.dunlopsports.com | clevelandgolf.extole.io |
 | share.refer-clinique.com | clinique.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -773,6 +778,7 @@
 | jessica-test-numero-dos.extoleu.com | extoleu.extole.io |
 | kenn.extoleu.com | extoleu.extole.io |
 | rob.extoleu.com | extoleu.extole.io |
+| social.fabkids.com | fabkids-ssl.extole.com |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.figopetinsurance.com | figo-pet-insurance.extole.io |
 | share.fingercheck.com | fingercheck.extole.io |
@@ -1099,6 +1105,7 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
+| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1136,6 +1143,7 @@
 | refer.tatcha.com | tatcha.extole.io |
 | refer.taxact.com | taxact.extole.io |
 | share.teachersfcu.org | teachersfcu.extole.io |
+| share.teachingchannel.com | teachingchannel.extole.io |
 | sharethelove.teacollection.com | teacollection.extole.com |
 | refer.teladoc.com | teladoc.extole.io |
 | refer.teladochealth.com | teladoc.extole.io |

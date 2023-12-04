@@ -661,7 +661,6 @@ rtb2-eu.torchad.com
 rtb2-eu.waardex.com
 rtb2-eu.xaprio.net
 rtb2-useast.a8dsp.com
-rtb2-useast.ad-volt.com
 rtb2-useast.adhunter.media
 rtb2-useast.adpix.online
 rtb2-useast.adsync.global

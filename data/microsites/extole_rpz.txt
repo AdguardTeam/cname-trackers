@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -133,12 +133,15 @@ share.vimeo.com CNAME .
 share.wimp.no CNAME .
 share.worldmarket.com CNAME .
 sharethelove.teacollection.com CNAME .
+social.fabkids.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
 www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em225.codecademy.com CNAME .
+em3904.skillshare.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -639,6 +642,7 @@ share.tallahassee.com CNAME .
 share.tauntongazette.com CNAME .
 share.tcpalm.com CNAME .
 share.teachersfcu.org CNAME .
+share.teachingchannel.com CNAME .
 share.telegram.com CNAME .
 share.thedailyjournal.com CNAME .
 share.thegeneral.com CNAME .
@@ -674,8 +678,6 @@ share.zenbusiness.com CNAME .
 www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
-em225.codecademy.com CNAME .
-em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .

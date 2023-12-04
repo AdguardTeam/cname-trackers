@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -172,6 +172,7 @@ data-15fb556696.laendlejob.at CNAME .
 data-162d89b6ce.haufe.de CNAME .
 data-1684d88e45.motorsport.com CNAME .
 data-16adacd8a9.solinger-tageblatt.de CNAME .
+data-16ca023d5b.apps.iocnt.de CNAME .
 data-16d7ec9a30.aschendorff-medien.de CNAME .
 data-16d7ec9a30.grevenerzeitung.de CNAME .
 data-16d7ec9a30.gruss.ms CNAME .
@@ -416,6 +417,7 @@ data-34484cd75e.apps.iocnt.de CNAME .
 data-3452ec2236.caravaning.de CNAME .
 data-34565915dd.firmenwissen.com CNAME .
 data-34565915dd.firmenwissen.de CNAME .
+data-34c9d32b77.apps.iocnt.de CNAME .
 data-353c1c8501.falstaff.com CNAME .
 data-367bcf5bd6.german-retail-blog.com CNAME .
 data-367bcf5bd6.lebensmittelzeitung.net CNAME .
@@ -810,6 +812,7 @@ data-5dd8125a5b.gofeminin.de CNAME .
 data-5e25716aa5.apps.iocnt.de CNAME .
 data-5e5ac4ec65.menshealth.de CNAME .
 data-5eb3b7b86d.abendblatt.de CNAME .
+data-5eb3b7b86d.hamburgerimmobilien.de CNAME .
 data-5ec2d41a8f.radiowestfalica.de CNAME .
 data-5f67d653dd.si-shk.de CNAME .
 data-5f7ebd9560.apps.iocnt.de CNAME .
@@ -846,6 +849,7 @@ data-60d896f23d.radio.pl CNAME .
 data-60d896f23d.radio.pt CNAME .
 data-60d896f23d.radio.se CNAME .
 data-60d896f23d.reisereporter.de CNAME .
+data-60d896f23d.rga.de CNAME .
 data-60d896f23d.rnd.de CNAME .
 data-60d896f23d.siegener-zeitung.de CNAME .
 data-60d896f23d.sn-online.de CNAME .
@@ -1352,6 +1356,7 @@ data-a114e51991.ikz.de CNAME .
 data-a195367ecc.apps.iocnt.de CNAME .
 data-a1aa7525b0.rw-textilservice.de CNAME .
 data-a1ce08382f.sat1.de CNAME .
+data-a1d02ca68b.diekaelte.de CNAME .
 data-a21143b1fe.apps.iocnt.de CNAME .
 data-a25b878079.deutsche-apotheker-zeitung.de CNAME .
 data-a29bc6fa2d.noen.at CNAME .
@@ -1410,6 +1415,7 @@ data-a7deba18e8.konfispruch.de CNAME .
 data-a7deba18e8.taufspruch.de CNAME .
 data-a7deba18e8.trauervers.de CNAME .
 data-a7deba18e8.trauspruch.de CNAME .
+data-a7deba18e8.yeet.de CNAME .
 data-a8074561d8.apps.iocnt.de CNAME .
 data-a842dac709.apps.iocnt.de CNAME .
 data-a85b10211f.rhein-neckar-zeitung.com CNAME .
@@ -1476,6 +1482,7 @@ data-ae99031d75.mittelbayerische-trauer.de CNAME .
 data-ae99031d75.mittelbayerische.de CNAME .
 data-aebdc1adf0.elle.de CNAME .
 data-aec7b6c8e0.apps.iocnt.de CNAME .
+data-af44ba1484.apps.iocnt.de CNAME .
 data-af69d737cf.vision-mobility.de CNAME .
 data-af7593657a.apps.iocnt.de CNAME .
 data-af9a061aaf.deraktionaer.de CNAME .
@@ -1905,6 +1912,7 @@ data-ebf4df4b00.antennethueringen.de CNAME .
 data-ec98eddf4a.fussballfieber.de CNAME .
 data-ec98eddf4a.giga.de CNAME .
 data-ec9f31ae75.apps.iocnt.de CNAME .
+data-ecadc85e81.apps.iocnt.de CNAME .
 data-ecb5249bb2.falter.at CNAME .
 data-ecd887c1d0.weser-kurier.de CNAME .
 data-ed1ee98a6c.arzt-atlas.de CNAME .

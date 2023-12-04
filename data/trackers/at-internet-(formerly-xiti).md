@@ -33,6 +33,7 @@
     * col-idealista-com-cddc.at-o.net
     * col-idealista-it-cddc.at-o.net
     * col-idealista-pt-cddc.at-o.net
+    * col-rentalia-com-cddc.at-o.net
     * collect-meilleurtaux-com-cddc.at-o.net
     * conimicutlighthouse-viessmann-us-com-cddc.at-o.net
     * content-kleinezeitung-at-cddc.at-o.net
@@ -67,7 +68,6 @@
     * kiki-rireetchansons-fr-cddc.at-o.net
     * kistacity-viessmann-se-cddc.at-o.net
     * lem-nouvelobs-com-cddc.at-o.net
-    * logs1257-at-pagesjaunes-fr-cddc.at-o.net
     * mediniku-viessmann-lt-cddc.at-o.net
     * mefo1-zdf-de-cddc.at-o.net
     * mkt-usz-ch-cddc.at-o.net
@@ -157,6 +157,7 @@
 | col.idealista.com | col-idealista-com-cddc.at-o.net |
 | col.idealista.it | col-idealista-it-cddc.at-o.net |
 | col.idealista.pt | col-idealista-pt-cddc.at-o.net |
+| col.rentalia.com | col-rentalia-com-cddc.at-o.net |
 | collect.meilleurtaux.com | collect-meilleurtaux-com-cddc.at-o.net |
 | conimicutlighthouse.viessmann-us.com | conimicutlighthouse-viessmann-us-com-cddc.at-o.net |
 | content.kleinezeitung.at | content-kleinezeitung-at-cddc.at-o.net |
@@ -191,7 +192,6 @@
 | kiki.rireetchansons.fr | kiki-rireetchansons-fr-cddc.at-o.net |
 | kistacity.viessmann.se | kistacity-viessmann-se-cddc.at-o.net |
 | lem.nouvelobs.com | lem-nouvelobs-com-cddc.at-o.net |
-| logs1257.at.pagesjaunes.fr | logs1257-at-pagesjaunes-fr-cddc.at-o.net |
 | mediniku.viessmann.lt | mediniku-viessmann-lt-cddc.at-o.net |
 | mefo1.zdf.de | mefo1-zdf-de-cddc.at-o.net |
 | mkt.usz.ch | mkt-usz-ch-cddc.at-o.net |

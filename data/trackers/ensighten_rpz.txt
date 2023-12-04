@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -97,6 +97,7 @@ analytics.synchronyannualreport.com CNAME .
 analytics.synchronybank.com CNAME .
 analytics.synchronybusiness.com CNAME .
 analytics.synchronycareers.com CNAME .
+analytics.synchronycredit.com CNAME .
 analytics.synchronyfinancial.com CNAME .
 analytics.synchronyretail.com CNAME .
 analytics.synchronyuniversity.com CNAME .
@@ -192,7 +193,6 @@ csp.prod.saga.co.uk CNAME .
 data.ensightendemo.com CNAME .
 data.experian.co.uk CNAME .
 data.experianidentityservice.co.uk CNAME .
-data.ford.com CNAME .
 data.lincoln.com CNAME .
 data.privacy.ensighten.com CNAME .
 dc.esterethyl.com CNAME .
@@ -276,6 +276,7 @@ privacy.amadrinks.be CNAME .
 privacy.amstel.nl CNAME .
 privacy.birramoretti.com CNAME .
 privacy.blade.app CNAME .
+privacy.buyersedge.com.au CNAME .
 privacy.desperados.com CNAME .
 privacy.easyjet.com CNAME .
 privacy.gemfinance.co.nz CNAME .

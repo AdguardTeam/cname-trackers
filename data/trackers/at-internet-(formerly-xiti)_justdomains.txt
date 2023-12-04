@@ -31,6 +31,7 @@ col.casa.it
 col.idealista.com
 col.idealista.it
 col.idealista.pt
+col.rentalia.com
 collect.meilleurtaux.com
 conimicutlighthouse.viessmann-us.com
 content.kleinezeitung.at
@@ -65,7 +66,6 @@ kallerupstone.viessmann.dk
 kiki.rireetchansons.fr
 kistacity.viessmann.se
 lem.nouvelobs.com
-logs1257.at.pagesjaunes.fr
 mediniku.viessmann.lt
 mefo1.zdf.de
 mkt.usz.ch

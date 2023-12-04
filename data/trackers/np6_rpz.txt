@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -71,6 +71,7 @@ tr.asp103z.espmp-nifr.net CNAME .
 tr.asp104p.espmp-aufr.net CNAME .
 tr.asp106d.espmp-cufr.net CNAME .
 tr.asp106g.espmp-nifr.net CNAME .
+tr.asp106m.espmp-agfr.net CNAME .
 tr.asp108a.espmp-cufr.net CNAME .
 tr.asp1098.espmp-cufr.net CNAME .
 tr.asp109c.espmp-aufr.net CNAME .
@@ -218,6 +219,7 @@ tr.communication.ancv.com CNAME .
 tr.communication.armatis-lc.com CNAME .
 tr.communication.arthur-bonnet.com CNAME .
 tr.communication.b2b-actualites.com CNAME .
+tr.communication.boursobank.info CNAME .
 tr.communication.boursorama.info CNAME .
 tr.communication.cgaaer.fr CNAME .
 tr.communication.enkiapp.io CNAME .
@@ -247,8 +249,6 @@ tr.contact.cereps.fr CNAME .
 tr.contact.e-turf.fr CNAME .
 tr.contact.lead.eu.com CNAME .
 tr.contact.lvmh.fr CNAME .
-tr.contact.makemelead.com CNAME .
-tr.contact.makemelead.info CNAME .
 tr.contact.mhl-publishing.fr CNAME .
 tr.contact.ruinart.com CNAME .
 tr.contact.stof.fr CNAME .
@@ -384,6 +384,7 @@ tr.entreprise.axa.fr CNAME .
 tr.envie-de-bien-manger.espmp-aufr.net CNAME .
 tr.eqs.cpam67.net CNAME .
 tr.ere.emailing.bnpparibas CNAME .
+tr.espmp-agfr.net CNAME .
 tr.estatesandwines.moethennessy.com CNAME .
 tr.etravauxpro.fr CNAME .
 tr.etude.sncd.org CNAME .
@@ -679,7 +680,6 @@ tr.news.alcyon.com CNAME .
 tr.news.alibabuy.com CNAME .
 tr.news.alinea.com CNAME .
 tr.news.alinea.fr CNAME .
-tr.news.allopneus.be CNAME .
 tr.news.allopneus.com CNAME .
 tr.news.aramisauto.com CNAME .
 tr.news.assuragency.net CNAME .
@@ -771,6 +771,7 @@ tr.news.lacollectionairfrance.fr CNAME .
 tr.news.lalettredelexpansion.com CNAME .
 tr.news.latribunebordeaux.fr CNAME .
 tr.news.leclubtravel.fr CNAME .
+tr.news.lentillesmoinscheres.com CNAME .
 tr.news.lentreprise.lexpress.fr CNAME .
 tr.news.lexpansion.lexpress.fr CNAME .
 tr.news.lexpress.fr CNAME .

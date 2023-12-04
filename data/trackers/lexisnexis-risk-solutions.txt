@@ -128,6 +128,8 @@
 ||cfa.streetscape.com^
 ||cfaxdev2.fidelity.com^
 ||cfaxq.advisorchannel.com^
+||cfaxq.mystreetscape.com^
+||cfaxq.streetscape.com^
 ||cfaxq1.fidelity.com^
 ||cfaxq2.fidelity.com^
 ||channel.rakbankonline.ae^
@@ -251,6 +253,8 @@
 ||content.name.com^
 ||content.nebraska.gov^
 ||content.netcredit.pl^
+||content.nu.com.co^
+||content.nu.com.mx^
 ||content.nubank.com.br^
 ||content.numobile.com.au^
 ||content.nycers.org^
@@ -397,6 +401,7 @@
 ||dpf.authorize.net^
 ||drfdisvc.walmart.com^
 ||dt.payla.io^
+||dtrust.atratopago.com^
 ||dvc0271.play.jackpocket.com^
 ||ela1.bankofscotland.co.uk^
 ||enligne.bnc.ca^
@@ -519,6 +524,7 @@
 ||loyaltyprogram.latamairlines.com^
 ||lpo.unionbank.com^
 ||lsdp.lotto.com^
+||lspr.luckycasino.ca^
 ||lsprof.comeon.com^
 ||lsr22.dzing.finance^
 ||m-profiling.cibc.com^
@@ -692,6 +698,7 @@
 ||scontent.fluid.co.uk^
 ||scontent.marbles.com^
 ||scontent.newdaycards.com^
+||scontent.opuscard.co.uk^
 ||scuicss.dew.sc.gov^
 ||sec.hikaritv.net^
 ||sec.lin101.mail.goo.ne.jp^
@@ -1000,4 +1007,5 @@
 ||xmt.paze.com^
 ||ydkwim.targobank.de^
 ||yr3ioxw.hoaresbank.co.uk^
+||zacchaeus.logos.com^
 ||zfp.intuit.com^

@@ -648,6 +648,7 @@ partner.spokojenypes.cz
 partner.sporthangar.cz
 partner.stavario.com
 partner.stickersmakers.com
+partner.strendem.cz
 partner.stromkyonline.cz
 partner.summermyles.cz
 partner.susenepochoutky.cz

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -659,6 +659,7 @@ partner.spokojenypes.cz CNAME .
 partner.sporthangar.cz CNAME .
 partner.stavario.com CNAME .
 partner.stickersmakers.com CNAME .
+partner.strendem.cz CNAME .
 partner.stromkyonline.cz CNAME .
 partner.summermyles.cz CNAME .
 partner.susenepochoutky.cz CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701072015931        ; Serial
+           1701676816102        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -139,6 +139,8 @@ cfa.mystreetscape.com CNAME .
 cfa.streetscape.com CNAME .
 cfaxdev2.fidelity.com CNAME .
 cfaxq.advisorchannel.com CNAME .
+cfaxq.mystreetscape.com CNAME .
+cfaxq.streetscape.com CNAME .
 cfaxq1.fidelity.com CNAME .
 cfaxq2.fidelity.com CNAME .
 channel.rakbankonline.ae CNAME .
@@ -262,6 +264,8 @@ content.mywisely.com CNAME .
 content.name.com CNAME .
 content.nebraska.gov CNAME .
 content.netcredit.pl CNAME .
+content.nu.com.co CNAME .
+content.nu.com.mx CNAME .
 content.nubank.com.br CNAME .
 content.numobile.com.au CNAME .
 content.nycers.org CNAME .
@@ -408,6 +412,7 @@ dp.barclaysus.com CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
 dt.payla.io CNAME .
+dtrust.atratopago.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
 enligne.bnc.ca CNAME .
@@ -530,6 +535,7 @@ loyaltyprogram.latam.com CNAME .
 loyaltyprogram.latamairlines.com CNAME .
 lpo.unionbank.com CNAME .
 lsdp.lotto.com CNAME .
+lspr.luckycasino.ca CNAME .
 lsprof.comeon.com CNAME .
 lsr22.dzing.finance CNAME .
 m-profiling.cibc.com CNAME .
@@ -703,6 +709,7 @@ scontent.bip.credit CNAME .
 scontent.fluid.co.uk CNAME .
 scontent.marbles.com CNAME .
 scontent.newdaycards.com CNAME .
+scontent.opuscard.co.uk CNAME .
 scuicss.dew.sc.gov CNAME .
 sec.hikaritv.net CNAME .
 sec.lin101.mail.goo.ne.jp CNAME .
@@ -1011,4 +1018,5 @@ xfp.intuit.com CNAME .
 xmt.paze.com CNAME .
 ydkwim.targobank.de CNAME .
 yr3ioxw.hoaresbank.co.uk CNAME .
+zacchaeus.logos.com CNAME .
 zfp.intuit.com CNAME .

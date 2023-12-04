@@ -18,6 +18,7 @@
 ||cdn.cabhwq.com^
 ||cdn.calcpol.com^
 ||cdn.cjlph.com^
+||cdn.clbaf.com^
 ||cdn.crsope.com^
 ||cdn.decpo.xyz^
 ||cdn.drawx.xyz^
@@ -36,10 +37,12 @@
 ||cdn.genfpm.com^
 ||cdn.gocolow.com^
 ||cdn.hqwa.xyz^
+||cdn.htkcm.com^
 ||cdn.ianjumb.com^
 ||cdn.iople.com^
 ||cdn.isgost.com^
 ||cdn.jandaqwe.com^
+||cdn.jbtul.com^
 ||cdn.jeckear.com^
 ||cdn.jhoncj.com^
 ||cdn.jwalf.com^
@@ -158,6 +161,7 @@
 ||bandicoot.p0.design^
 ||bandicoot.sigerr.org^
 ||barnacle.big-in-japan.com^
+||barnacle.nixfifty.com^
 ||barnacle.viewsource.io^
 ||barracuda.civicdatalibrary.org^
 ||barracuda.ottsysteme.rs^
@@ -319,7 +323,6 @@
 ||coral.bladestudy.net^
 ||coral.defygravity.co^
 ||cougar.augmentedmindapp.com^
-||cougar.companymoneyworries.co.uk^
 ||cougar.wzulfikar.com^
 ||coyote.12gem.me^
 ||coyote.gnx.cloud^
@@ -351,7 +354,6 @@
 ||cxzp.pjrvs.com^
 ||dakqbwpduu.coywolf.io^
 ||damselfly.clk.click^
-||damselfly.creativeclick.com.au^
 ||damselfly.previously.today^
 ||damselfly.vegenook.com^
 ||deer.m1x.co^
@@ -479,7 +481,6 @@
 ||giraffe.talktalent.com^
 ||giraffe.viatorci.com^
 ||goat.aicontentdojo.com^
-||goat.codeofar.ms^
 ||goat.kunalslab.com^
 ||goat.purposevisionfuture.com^
 ||goat.sigr.li^
@@ -549,7 +550,6 @@
 ||horse.hookrelay.dev^
 ||horse.mynorthstarapp.com^
 ||horse.ohseemedia.com^
-||horse.playbookedge.com^
 ||horse.purely.lol^
 ||horse.rmrk.app^
 ||horse.uhaveto.click^
@@ -729,6 +729,7 @@
 ||moose.cloverlearning.com^
 ||mosquito.iamamandaperez.com^
 ||mosquito.nooraldiyar.com^
+||mosquito.zero.io^
 ||moth.artsmia.org^
 ||moth.jkundp.at^
 ||moth.treeferral.com^
@@ -802,12 +803,10 @@
 ||perch.searchwp.com^
 ||perch.stefangasser.com^
 ||pheasant.sonistaging.com^
-||pheasant.swinlead.com^
 ||pig.civicplatform.org^
 ||pig.curtisherbert.com^
 ||pig.nigano.com^
 ||pig.notion.chat^
-||pigeon.ashlean.com^
 ||pigeon.surtitlesolutions.com^
 ||pigeon.thankyuu.com^
 ||pinniped.gardenofficeguide.co.uk^
@@ -820,7 +819,6 @@
 ||planarian.dtesta.com^
 ||planarian.fatsackfails.com^
 ||planarian.reverberate.org^
-||planarian.sexcam-gutscheine.de^
 ||platypus.cmp.is^
 ||platypus.colly.com^
 ||platypus.facet.net^
@@ -834,6 +832,7 @@
 ||porpoise.deschtimes.com^
 ||porpoise.fruittreecottage.com.au^
 ||porpoise.jackwhiting.co.uk^
+||porpoise.kristinholl.com^
 ||porpoise.numberzs.com^
 ||prairiedog.hashnode.com^
 ||prawn.coding-friends.com^
@@ -941,6 +940,7 @@
 ||sole.bkosmetik.com^
 ||sole.pretto.fr^
 ||sole.riverwalkdental.com.au^
+||sparrow.carol.gg^
 ||sparrow.uitvaartzorg-vanraemdonck.be^
 ||sparrow.workingincontent.com^
 ||spermwhale.floofarazzi.com^
@@ -1051,7 +1051,6 @@
 ||viper.kyrelldixon.com^
 ||viper.sitesauce.app^
 ||vole.contemporaryartlibrary.org^
-||vole.leonhitchens.com^
 ||vole.nettskaperne.no^
 ||vole.noteapps.info^
 ||vole.sonicrida.com^
@@ -1061,6 +1060,7 @@
 ||wallaby.cron.help^
 ||wallaby.legendkeeper.com^
 ||wallaby.short1.link^
+||walrus.blindemployment.solutions^
 ||walrus.fetzcolor.at^
 ||walrus.oscaroarevalo.com^
 ||warbler.resumebuilder.dev^
@@ -1146,11 +1146,12 @@
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^
 ||dntcl.qualaroo.com^
+||egybests.7all.net^
 ||live-tag.creatopy.net^
 ||log.ads-m.net^
-||media.adstatic.com^
 ||sp.cleaningkeepers.com^
 ||sp.freshlooklens.pk^
 ||sp.lenspk.com^
 ||sp.theladyshop.pk^
 ||static.netfly.fun^
+||static.nfly.cc^

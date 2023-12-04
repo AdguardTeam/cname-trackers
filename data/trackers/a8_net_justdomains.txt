@@ -473,7 +473,6 @@ a8clk.justfitoffice.com
 a8clk.justy-consul.com
 a8clk.ka-shimo.com
 a8clk.kaitori-beerecords.jp
-a8clk.kaitori-do.com
 a8clk.kaitori-janiyard.jp
 a8clk.kaitori-retrog.jp
 a8clk.kaitori-toretoku.jp
@@ -598,6 +597,7 @@ a8clk.support-hoiku.com
 a8clk.supreme-noi.jp
 a8clk.sure-i.co.jp
 a8clk.t-fic.co.jp
+a8clk.taisho-beauty.jp
 a8clk.takken-job.com
 a8clk.takuhai.daichi-m.co.jp
 a8clk.tamiyashop.jp
@@ -819,6 +819,7 @@ a8cv.futurefinder.net
 a8cv.fxtrade.co.jp
 a8cv.gaiasign.co.jp
 a8cv.gaikokujin-support.com
+a8cv.gaikouexterior-partners.jp
 a8cv.gakuen.omobic.com
 a8cv.gb-chat.com
 a8cv.gbset.jp
@@ -1311,10 +1312,12 @@ cv.ui-chiho.clinic
 cv.web-sana.com
 cv.wp-avenue.com
 cv.www.jobcareer.jp
+cv.www.risetokyo.jp
 cv.www.rokuzan.net
 cv.xn--bcktcvdzde3c.biz
 cv.xn--zbs202g.com
 cv.zephylrin-x.net
+cv1.start-eo.jp
 cv1.stefany.co.jp
 dwuzxuvwlq.winticket.jp
 ems-a8net-tracking.easy-myshop.jp

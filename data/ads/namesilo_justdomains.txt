@@ -673,6 +673,7 @@
 3783121.notify6.com
 3783123.notifysrv.com
 3783125.notifysrv.com
+3789593.notify6.com
 3789703.notifysrv.com
 3791967.notify6.com
 3793871.notifysrv.com
@@ -791,6 +792,7 @@
 4050544.notify6.com
 4052.notify.optimizesrv.com
 4052828.notify6.com
+4060008.notify6.com
 4061366.notify6.com
 4061378.notify6.com
 4062416.notify6.com
@@ -1104,6 +1106,7 @@ syndication.whibp.com
 syndication0.exoclick.com
 t.optzsrv.com
 www.12.notify.bizonads-ssp.com
+www.3177866.notifysrv.com
 www.3191479.notifysrv.com
 www.3207695.notify6.com
 www.3227697.notify6.com

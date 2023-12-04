@@ -29,6 +29,7 @@
     * tk-healthwarehouse-com.wizaly.com
     * tk-hypnia-fr.wizaly.com
     * tk-illicado-com.wizaly.com
+    * tk-interflora-dk.wizaly.com
     * tk-interflora-es.wizaly.com
     * tk-interflora-fr.wizaly.com
     * tk-interflora-it.wizaly.com
@@ -114,6 +115,7 @@
 | tk.hypnia.fr | tk-hypnia-fr.wizaly.com |
 | tk.hypnia.nl | tk-hypnia-fr.wizaly.com |
 | tk.illicado.com | tk-illicado-com.wizaly.com |
+| tk.interflora.dk | tk-interflora-dk.wizaly.com |
 | tk.interflora.es | tk-interflora-es.wizaly.com |
 | tk.interflora.fr | tk-interflora-fr.wizaly.com |
 | tk.interflora.it | tk-interflora-it.wizaly.com |
@@ -182,6 +184,7 @@
 | tk.airfrance.dj | tkairfrance.wizaly.com |
 | tk.airfrance.dk | tkairfrance.wizaly.com |
 | tk.airfrance.dz | tkairfrance.wizaly.com |
+| tk.airfrance.es | tkairfrance.wizaly.com |
 | tk.airfrance.fi | tkairfrance.wizaly.com |
 | tk.airfrance.fr | tkairfrance.wizaly.com |
 | tk.airfrance.ga | tkairfrance.wizaly.com |

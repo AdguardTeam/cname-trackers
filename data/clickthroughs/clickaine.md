@@ -67,7 +67,6 @@
 | cl.sexstories-all.com | api.clickaine.com |
 | cli.its2.net | api.clickaine.com |
 | clickc4n.pornharlot.com | api.clickaine.com |
-| clickc4n.pornharlot.net | api.clickaine.com |
 | clk.slutcam.org | api.clickaine.com |
 | clka.bondagevalley.cc | api.clickaine.com |
 | clkn.apostle.onl | api.clickaine.com |
