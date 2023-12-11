@@ -238,6 +238,7 @@
 ||3310026.notify6.com^
 ||3310238.notify6.com^
 ||3310238.notifysrv.com^
+||3310584.notify6.com^
 ||3310586.notify6.com^
 ||3311320.notify6.com^
 ||3311320.notifysrv.com^
@@ -567,6 +568,7 @@
 ||3585435.notify6.com^
 ||3587723.notifysrv.com^
 ||3587729.notifysrv.com^
+||3587739.notifysrv.com^
 ||3587799.notifysrv.com^
 ||3588.notify.optimizesrv.com^
 ||3588135.notifysrv.com^
@@ -840,6 +842,7 @@
 ||4211854.notify6.com^
 ||4212642.notify6.com^
 ||4212982.notify6.com^
+||4213112.notify6.com^
 ||4214522.notify6.com^
 ||4225290.notify6.com^
 ||4231374.notify6.com^
@@ -907,6 +910,7 @@
 ||4795286.notify6.com^
 ||4795320.notify6.com^
 ||4795534.notify6.com^
+||4795546.notify6.com^
 ||4795556.notify6.com^
 ||4795568.notify6.com^
 ||4795570.notify6.com^
@@ -971,6 +975,7 @@
 ||a.asvsm.com^
 ||a.bizonads-ssp.com^
 ||a.etology.com^
+||a.ma3ion.com^
 ||a.optimizesrv.com^
 ||a.paradoxgroup.uk^
 ||a.r8lnet.com^
@@ -1048,6 +1053,7 @@
 ||s.exv6.com^
 ||s.linkw2e.com^
 ||s.linkw2g.com^
+||s.ma3ion.com^
 ||s.magsrv.com^
 ||s.nowsrv.com^
 ||s.opoxv.com^
@@ -1065,6 +1071,7 @@
 ||s.st1net.com^
 ||s.stuffserve.com^
 ||s.tf4srv.com^
+||s.valuemedia-ltd.com^
 ||s.vlink6.com^
 ||s.wlink1.com^
 ||s.wlink2.com^
@@ -1121,4 +1128,3 @@
 ||www.notify.bizonads-ssp.com^
 ||www.notify6.com^
 ||www.notifysrv.com^
-||xn--3225689-o06c.notifysrv.com^

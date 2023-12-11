@@ -44,6 +44,7 @@
     * d-m-net-de-cddc.at-o.net
     * d-santemagazine-fr-cddc.at-o.net
     * d-uni-medias-com-cddc.at-o.net
+    * da-freo-nl-cddc.at-o.net
     * da-maif-fr-cddc.at-o.net
     * da-rabobank-nl-cddc.at-o.net
     * dfr-deloitte-com-cddc.at-o.net
@@ -111,6 +112,7 @@
     * wareneingang-edeka-de-cddc.at-o.net
     * wasserkraftwerkkessel-viessmann-ch-cddc.at-o.net
     * waterlooberlin-viessmann-ca-cddc.at-o.net
+    * woodstock-viessmann-com-au-cddc.at-o.net
     * wvvw-france24-com-cddc.at-o.net
     * wvvw-francemediasmonde-com-cddc.at-o.net
     * wvvw-infomigrants-net-cddc.at-o.net
@@ -168,6 +170,7 @@
 | d.m-net.de | d-m-net-de-cddc.at-o.net |
 | d.santemagazine.fr | d-santemagazine-fr-cddc.at-o.net |
 | d.uni-medias.com | d-uni-medias-com-cddc.at-o.net |
+| da.freo.nl | da-freo-nl-cddc.at-o.net |
 | da.maif.fr | da-maif-fr-cddc.at-o.net |
 | da.rabobank.nl | da-rabobank-nl-cddc.at-o.net |
 | dfr.deloitte.com | dfr-deloitte-com-cddc.at-o.net |
@@ -236,6 +239,7 @@
 | wareneingang.edeka.de | wareneingang-edeka-de-cddc.at-o.net |
 | wasserkraftwerkkessel.viessmann.ch | wasserkraftwerkkessel-viessmann-ch-cddc.at-o.net |
 | waterlooberlin.viessmann.ca | waterlooberlin-viessmann-ca-cddc.at-o.net |
+| woodstock.viessmann.com.au | woodstock-viessmann-com-au-cddc.at-o.net |
 | wvvw.france24.com | wvvw-france24-com-cddc.at-o.net |
 | wvvw.francemediasmonde.com | wvvw-francemediasmonde-com-cddc.at-o.net |
 | wvvw.infomigrants.net | wvvw-infomigrants-net-cddc.at-o.net |

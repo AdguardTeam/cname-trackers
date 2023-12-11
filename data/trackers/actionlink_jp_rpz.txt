@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ al.epoi-jp.com CNAME .
 al.fulcloset.jp CNAME .
 al.ganzo.ne.jp CNAME .
 al.germanpet.com CNAME .
+al.happysun-hinode.com CNAME .
 al.junior-onlineshop.jp CNAME .
 al.kagukuro.com CNAME .
 al.kbwine.com CNAME .
@@ -34,6 +35,7 @@ al.mitsubachi-note.com CNAME .
 al.nawa-store.jp CNAME .
 al.office-com.jp CNAME .
 al.pierrotshop.jp CNAME .
+al.saifuku-knit.jp CNAME .
 al.selif.jp CNAME .
 al.shiffon-online.jp CNAME .
 al.shopyamatoya-jp.com CNAME .

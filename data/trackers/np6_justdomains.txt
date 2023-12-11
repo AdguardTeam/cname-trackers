@@ -236,7 +236,7 @@ tr.contact.canalsat.fr
 tr.contact.cerel.net
 tr.contact.cereps.fr
 tr.contact.e-turf.fr
-tr.contact.lead.eu.com
+tr.contact.henner.com
 tr.contact.lvmh.fr
 tr.contact.mhl-publishing.fr
 tr.contact.ruinart.com
@@ -1037,6 +1037,7 @@ tr.urfk03k.espmp-agfr.net
 tr.urfk03q.espmp-nifr.net
 tr.urfk03u.espmp-nifr.net
 tr.urfk03x.espmp-agfr.net
+tr.urfk041.espmp-cufr.net
 tr.urfk044.espmp-nifr.net
 tr.urfk050.espmp-cufr.net
 tr.urfk052.espmp-cufr.net

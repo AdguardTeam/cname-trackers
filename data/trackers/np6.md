@@ -257,7 +257,7 @@
 | tr.contact.cerel.net | tracking.bp01.net |
 | tr.contact.cereps.fr | tracking.bp01.net |
 | tr.contact.e-turf.fr | tracking.bp01.net |
-| tr.contact.lead.eu.com | tracking.bp01.net |
+| tr.contact.henner.com | tracking.bp01.net |
 | tr.contact.lvmh.fr | tracking.bp01.net |
 | tr.contact.mhl-publishing.fr | tracking.bp01.net |
 | tr.contact.ruinart.com | tracking.bp01.net |
@@ -1058,6 +1058,7 @@
 | tr.urfk03q.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03u.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03x.espmp-agfr.net | tracking.bp01.net |
+| tr.urfk041.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk044.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk050.espmp-cufr.net | tracking.bp01.net |
 | tr.urfk052.espmp-cufr.net | tracking.bp01.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -390,9 +390,11 @@ device.invoice2go.com CNAME .
 device.messa.org CNAME .
 deviceauth.dmv.ca.gov CNAME .
 devicecontent.icuracao.com CNAME .
+devices.yondercard.com CNAME .
 df.fragrancex.com CNAME .
 df.greenmangaming.com CNAME .
 df.thumbtack.com CNAME .
+dfme.kleinanzeigen.de CNAME .
 dfp.garmin.com CNAME .
 dfp.mcdonalds.fr CNAME .
 dfp.s-budget-mobile.at CNAME .
@@ -468,6 +470,7 @@ images.essofleetoffers.com CNAME .
 images.exxonmobilfleetoffers.com CNAME .
 images.sheetzadvantage.com CNAME .
 images.sunocofleetcards.com CNAME .
+images.suntrakfleetaccount.com CNAME .
 images.wexinc.com CNAME .
 images.wrightexpress.com CNAME .
 imagesmx.cdiscountpro.com CNAME .
@@ -611,6 +614,7 @@ prod-baxter.chaperone.lumindigitalhosting.com CNAME .
 prod-blucurrent.chaperone.lumindigitalhosting.com CNAME .
 prod-cfcuwi.chaperone.lumindigitalhosting.com CNAME .
 prod-citadel.chaperone.lumindigitalhosting.com CNAME .
+prod-comfin.chaperone.lumindigitalhosting.com CNAME .
 prod-consumers.chaperone.lumindigitalhosting.com CNAME .
 prod-cstonefcu.chaperone.lumindigitalhosting.com CNAME .
 prod-dccuva.chaperone.lumindigitalhosting.com CNAME .

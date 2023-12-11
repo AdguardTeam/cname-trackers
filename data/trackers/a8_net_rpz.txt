@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -179,6 +179,7 @@ a8.looop-denki.com CNAME .
 a8.lwa-coating.com CNAME .
 a8.lyprimo.jp CNAME .
 a8.machino-housecleaning.com CNAME .
+a8.maf.mentor-capital.jp CNAME .
 a8.makeshop.jp CNAME .
 a8.mamacosme.co.jp CNAME .
 a8.mamaworks.jp CNAME .
@@ -200,6 +201,7 @@ a8.nanafu.tokyo CNAME .
 a8.narikiri.me CNAME .
 a8.nengahonpo.com CNAME .
 a8.nengajyo.co.jp CNAME .
+a8.nezumi-kanzentaiji.com CNAME .
 a8.nitta-gelatin.jp CNAME .
 a8.nosh.jp CNAME .
 a8.novicetokyo.com CNAME .
@@ -1119,7 +1121,6 @@ a8cv.will-agaclinic.com CNAME .
 a8cv.willfu.jp CNAME .
 a8cv.womanmoney.net CNAME .
 a8cv.wordman.jp CNAME .
-a8cv.workany.jp CNAME .
 a8cv.worker.sukimaworks.app CNAME .
 a8cv.workman.jp CNAME .
 a8cv.worx.jp CNAME .
@@ -1397,7 +1398,6 @@ web.hikari-biglobe.com CNAME .
 web.hikari-ocn.com CNAME .
 web.hikari-softbank.com CNAME .
 web.life-cw.com CNAME .
-web.nuro-life.com CNAME .
 webtest.lpio.jp CNAME .
 wnform.www.trecenti.com CNAME .
 www.a8clk.amelia.ne.jp CNAME .

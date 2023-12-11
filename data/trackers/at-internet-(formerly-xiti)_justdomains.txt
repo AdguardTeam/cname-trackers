@@ -42,6 +42,7 @@ d.doctipharma.fr
 d.m-net.de
 d.santemagazine.fr
 d.uni-medias.com
+da.freo.nl
 da.maif.fr
 da.rabobank.nl
 dfr.deloitte.com
@@ -109,6 +110,7 @@ waati.quechoisir.org
 wareneingang.edeka.de
 wasserkraftwerkkessel.viessmann.ch
 waterlooberlin.viessmann.ca
+woodstock.viessmann.com.au
 wvvw.france24.com
 wvvw.francemediasmonde.com
 wvvw.infomigrants.net

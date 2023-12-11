@@ -279,6 +279,7 @@
 | 3310026.notify6.com | tk6if76q.ab1n.net |
 | 3310238.notify6.com | tk6if76q.ab1n.net |
 | 3310238.notifysrv.com | tk6if76q.ab1n.net |
+| 3310584.notify6.com | tk6if76q.ab1n.net |
 | 3310586.notify6.com | tk6if76q.ab1n.net |
 | 3311320.notify6.com | tk6if76q.ab1n.net |
 | 3311320.notifysrv.com | tk6if76q.ab1n.net |
@@ -608,6 +609,7 @@
 | 3585435.notify6.com | tk6if76q.ab1n.net |
 | 3587723.notifysrv.com | tk6if76q.ab1n.net |
 | 3587729.notifysrv.com | tk6if76q.ab1n.net |
+| 3587739.notifysrv.com | tk6if76q.ab1n.net |
 | 3587799.notifysrv.com | tk6if76q.ab1n.net |
 | 3588.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 3588135.notifysrv.com | tk6if76q.ab1n.net |
@@ -881,6 +883,7 @@
 | 4211854.notify6.com | tk6if76q.ab1n.net |
 | 4212642.notify6.com | tk6if76q.ab1n.net |
 | 4212982.notify6.com | tk6if76q.ab1n.net |
+| 4213112.notify6.com | tk6if76q.ab1n.net |
 | 4214522.notify6.com | tk6if76q.ab1n.net |
 | 4225290.notify6.com | tk6if76q.ab1n.net |
 | 4231374.notify6.com | tk6if76q.ab1n.net |
@@ -948,6 +951,7 @@
 | 4795286.notify6.com | tk6if76q.ab1n.net |
 | 4795320.notify6.com | tk6if76q.ab1n.net |
 | 4795534.notify6.com | tk6if76q.ab1n.net |
+| 4795546.notify6.com | tk6if76q.ab1n.net |
 | 4795556.notify6.com | tk6if76q.ab1n.net |
 | 4795568.notify6.com | tk6if76q.ab1n.net |
 | 4795570.notify6.com | tk6if76q.ab1n.net |
@@ -1046,6 +1050,7 @@
 | s.etology.com | tk6if76q.ab1n.net |
 | s.linkw2e.com | tk6if76q.ab1n.net |
 | s.linkw2g.com | tk6if76q.ab1n.net |
+| s.ma3ion.com | tk6if76q.ab1n.net |
 | s.magsrv.com | tk6if76q.ab1n.net |
 | s.nowsrv.com | tk6if76q.ab1n.net |
 | s.opoxv.com | tk6if76q.ab1n.net |
@@ -1063,6 +1068,7 @@
 | s.st1net.com | tk6if76q.ab1n.net |
 | s.stuffserve.com | tk6if76q.ab1n.net |
 | s.tf4srv.com | tk6if76q.ab1n.net |
+| s.valuemedia-ltd.com | tk6if76q.ab1n.net |
 | s.vlink6.com | tk6if76q.ab1n.net |
 | s.wlink1.com | tk6if76q.ab1n.net |
 | s.wlink2.com | tk6if76q.ab1n.net |
@@ -1118,13 +1124,11 @@
 | www.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | www.notify6.com | tk6if76q.ab1n.net |
 | www.notifysrv.com | tk6if76q.ab1n.net |
-| xn--3225689-o06c.notifysrv.com | tk6if76q.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
 | admin.ad.guru | v3j9t5q9.ab1n.net |
 | admin.adnation.com | v3j9t5q9.ab1n.net |
 | admin.adstuff.io | v3j9t5q9.ab1n.net |
 | admin.etology.com | v3j9t5q9.ab1n.net |
-| admin.gettopple.com | v3j9t5q9.ab1n.net |
 | admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | a.a3ion.com | w2u4v9e1.ab1n.net |
 | a.ad.guru | w2u4v9e1.ab1n.net |
@@ -1135,6 +1139,7 @@
 | a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
 | a.etology.com | w2u4v9e1.ab1n.net |
+| a.ma3ion.com | w2u4v9e1.ab1n.net |
 | a.optimizesrv.com | w2u4v9e1.ab1n.net |
 | a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
 | a.r8lnet.com | w2u4v9e1.ab1n.net |
@@ -1152,7 +1157,6 @@
 | admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.exoclick.com | x0xmrxm4.ab1n.net |
-| admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |

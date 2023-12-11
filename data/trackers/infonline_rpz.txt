@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -109,6 +109,7 @@ data-0af01e596d.tips.at CNAME .
 data-0b2c5acddd.echtemamas.de CNAME .
 data-0be38fdd72.eatsmarter.de CNAME .
 data-0c1a280f84.golem.de CNAME .
+data-0c2107a914.profil.at CNAME .
 data-0c700a44f4.rund-ums-baby.de CNAME .
 data-0cc10e3905.werbenundverkaufen.de CNAME .
 data-0cc10e3905.wuv.de CNAME .
@@ -982,6 +983,7 @@ data-6e57cba6aa.focus.de CNAME .
 data-6e57cba6aa.netmoms.de CNAME .
 data-6ed56dd691.bdb.at CNAME .
 data-6f0387b7f3.apps.iocnt.de CNAME .
+data-6f211e7e41.apps.iocnt.de CNAME .
 data-6f4f333803.apps.iocnt.de CNAME .
 data-6fd9590058.apps.iocnt.de CNAME .
 data-7023b17a38.amberg24.de CNAME .
@@ -1255,6 +1257,7 @@ data-96d64cb150.badische-zeitung.de CNAME .
 data-96d64cb150.bz-ticket.de CNAME .
 data-96d64cb150.bztrauer.de CNAME .
 data-96d64cb150.fupa.net CNAME .
+data-96d64cb150.handwerkjobs-bw.de CNAME .
 data-96d64cb150.schnapp.de CNAME .
 data-96d64cb150.wohnverdient.de CNAME .
 data-97304cc18d.medienzentrum-biberach.de CNAME .
@@ -1498,6 +1501,7 @@ data-b0980db7ec.wiwo.de CNAME .
 data-b182afd830.it-times.de CNAME .
 data-b19475ee82.focus.de CNAME .
 data-b19475ee82.weather.com CNAME .
+data-b19f3371de.songtexte.com CNAME .
 data-b1ae357847.apps.iocnt.de CNAME .
 data-b204b9f978.4players.de CNAME .
 data-b21e1c06f5.apps.iocnt.de CNAME .
@@ -1577,6 +1581,7 @@ data-bc52ee58ca.meinprospekt.de CNAME .
 data-bc58d40c93.nwzonline.de CNAME .
 data-bc9dbdd971.handwerk-magazin.de CNAME .
 data-bcaa25791f.apps.iocnt.de CNAME .
+data-bce9ac005c.apps.iocnt.de CNAME .
 data-bd2c894b2a.apps.iocnt.de CNAME .
 data-bd417eda50.bibliothek-gruenwald.de CNAME .
 data-bd87db2679.haus.de CNAME .
@@ -1800,6 +1805,7 @@ data-d946a9c4a1.tlz.de CNAME .
 data-d946a9c4a1.trauer-in-thueringen.de CNAME .
 data-d9be8dacc3.alpin.de CNAME .
 data-da1d9cc48a.osthessen-news.de CNAME .
+data-da8b646558.dieniederoesterreicherin.at CNAME .
 data-daaad80bda.babelli.de CNAME .
 data-dae559c4b7.ejz.de CNAME .
 data-db0ecef264.trafikantenzeitung.at CNAME .
@@ -2193,6 +2199,7 @@ data-fd53e9bda6.holidayguru.nl CNAME .
 data-fd53e9bda6.urlaubsguru.at CNAME .
 data-fd53e9bda6.urlaubsguru.de CNAME .
 data-fd60c1cff9.ke-next.de CNAME .
+data-fd9798a870.dieburgenlaenderin.at CNAME .
 data-fd9ab41e47.bravo.de CNAME .
 data-fdb60ee122.hamburg.de CNAME .
 data-fdbbf15b66.finanzen.at CNAME .

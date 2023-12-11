@@ -3,6 +3,7 @@
 ||10008919.pomelo.fashion^
 ||10079290.fluz.app^
 ||10298198.arch.sofi.org^
+||10298198.info.sofi.org^
 ||10298198.m.sofi.org^
 ||10298198.o.sofi.org^
 ||11959579.fun.joyrun.com^
@@ -107,6 +108,7 @@
 ||ablink.help.sanvello.com^
 ||ablink.help.shopwell.com^
 ||ablink.info.felixmobile.com.au^
+||ablink.info.oneatwork.app^
 ||ablink.info.pressreader.com^
 ||ablink.info.sofi.org^
 ||ablink.info.themarket.nz^
@@ -795,6 +797,7 @@
 ||t.comms.thetimes.co.uk^
 ||t.discover.kayosports.com.au^
 ||t.ecomms.origin.com.au^
+||t.icomms.origin.com.au^
 ||t.newsletter.thetimes.co.uk^
 ||t.prod1.discover.binge.com.au^
 ||t.service.thetimes.co.uk^
@@ -894,7 +897,6 @@
 ||2143.pandasuite.io^
 ||223f.pandasuite.io^
 ||2uvub6.goldenways.fun^
-||360.2-vr.com^
 ||3skickasurf.tre.se^
 ||40caidaylimpia.catzolab.net^
 ||4b.oktium.com^
@@ -1093,7 +1095,6 @@
 ||app.deviceidfinder.com^
 ||app.devyce.com^
 ||app.discover.com^
-||app.doctorraksa.com^
 ||app.dolinakrzny.digimuth.com^
 ||app.domclick.ru^
 ||app.dreambox.ru.com^
@@ -1382,8 +1383,6 @@
 ||app.vyaparapp.in^
 ||app.w3w.io^
 ||app.waybetter.com^
-||app.weheartit.com^
-||app.welco.me^
 ||app.well.co.uk^
 ||app.what3words.com^
 ||app.wish2wash.com^
@@ -1493,6 +1492,7 @@
 ||arch.onjoyri.de^
 ||aria.inhaabit.com^
 ||art.b.inhaabit.com^
+||ascmart.abphotos.link^
 ||ask.wearelistening.co.nz^
 ||assistant.dg1.com^
 ||atb.mlb.com^
@@ -1770,6 +1770,7 @@
 ||click.moselo.com^
 ||click.pockee.com^
 ||click.signaturemarket.co^
+||clicks.exploreshackle.app^
 ||clients.belairdirect.com^
 ||clients.intact.ca^
 ||clients.nbc-insurance.ca^
@@ -1980,6 +1981,7 @@
 ||dls.guidrr.com^
 ||dluat.pokerbros.net^
 ||dluat.supremapoker.net^
+||do.exaai.chat^
 ||do.usefireside.com^
 ||domino.flycl.ps^
 ||download-staging.planify.io^
@@ -2480,7 +2482,6 @@
 ||go.vsee.me^
 ||go.wanna.com^
 ||go.washland.ae^
-||go.watchit.com^
 ||go.webtoons.com^
 ||go.weecare.co^
 ||go.werbleapp.com^
@@ -2573,6 +2574,7 @@
 ||inhouse.link.snapfeet.io^
 ||install.mushroomgui.de^
 ||install.ottoradio.com^
+||install.playgpl.com^
 ||install.pranavconstructions.com^
 ||install.xchange.sabx.com^
 ||int-shares.ri.la^
@@ -2602,6 +2604,7 @@
 ||invite.fashom.com^
 ||invite.getwaitnot.com^
 ||invite.gosunpro.com^
+||invite.gust.show^
 ||invite.icars.cc^
 ||invite.juke.ly^
 ||invite.openhouse.study^
@@ -2784,6 +2787,7 @@
 ||link-test.steadio.co^
 ||link-test.trendstag.com^
 ||link-test.tumblbug.com^
+||link-web.tatadigital.com^
 ||link.1112.com^
 ||link.1800contacts.com^
 ||link.1fo.vin^
@@ -2821,6 +2825,7 @@
 ||link.beforekick.com^
 ||link.beforespring.com^
 ||link.bellu.gg^
+||link.bemachine.app^
 ||link.bestest.io^
 ||link.bigroom.tv^
 ||link.bluecallapp.com^
@@ -2840,7 +2845,6 @@
 ||link.busuu.app^
 ||link.buzzwallet.io^
 ||link.californiapsychics.com^
-||link.callmecaptain.games^
 ||link.capital-wellness.icanbwell.com^
 ||link.captionwriter.app^
 ||link.cardu.com^
@@ -3062,6 +3066,7 @@
 ||link.nabla.com^
 ||link.nate.tech^
 ||link.nearpod.com^
+||link.neos.app^
 ||link.newsbeast.gr^
 ||link.newspicks.us^
 ||link.nextaveapp.com^
@@ -3217,6 +3222,7 @@
 ||link.tubi.tv^
 ||link.tul.io^
 ||link.tumblbug.com^
+||link.tupinambaenergia.com.br^
 ||link.tv.cbs.com^
 ||link.uat.my.smartcrowd.ae^
 ||link.ulive.chat^
@@ -3343,6 +3349,7 @@
 ||links.quatreepingles.fr^
 ||links.rally.app^
 ||links.respilates.app^
+||links.riftapp.co^
 ||links.riverratrounders.com^
 ||links.samsclub.com^
 ||links.sciencechannel.com^
@@ -3604,6 +3611,7 @@
 ||openshop.m-shop.me^
 ||openshop.oshp.io^
 ||oshp.io^
+||othanasis.openapp.link^
 ||outdoor.theres.co^
 ||oxqq.pandasuite.io^
 ||p.cab.ua^
@@ -3678,7 +3686,6 @@
 ||promo.cafexapp.com^
 ||promo.gogo.org.ua^
 ||promo.roadie.com^
-||promotion.365soup.hk^
 ||prunas.openapp.link^
 ||psilikaki.openapp.link^
 ||psssaraki.openapp.link^
@@ -3791,6 +3798,7 @@
 ||sellerapp.musely.com^
 ||send.merit.me^
 ||setup.physiapp.com^
+||sex.viralof.online^
 ||sf-test.groc.press^
 ||sf.groc.press^
 ||sf4567w2a56q.branch.salesfloor.net^
@@ -4148,7 +4156,6 @@
 ||web.givingli.com^
 ||webmail.happ.social^
 ||webtoons.naver.com^
-||with.upjaunt.com^
 ||wl.bl.frequentvalues.com.au^
 ||won.wooribank.com^
 ||wop-bio.ubiwhere.com^

@@ -128,7 +128,6 @@
     * 1800contacts.extole.io
     * 2-10.extole.io
     * 2ndswing.extole.io
-    * 4patriots.extole.io
     * 4wheelparts.extole.io
     * aaaeagles.extole.io
     * abacusnext.extole.io
@@ -222,7 +221,6 @@
     * cle-de-peau.extole.io
     * clevelandgolf.extole.io
     * clinique.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -364,7 +362,6 @@
     * lightstream.extole.io
     * little-passports.extole.io
     * livongo.extole.io
-    * loansbyworld.extole.io
     * lovesac.extole.io
     * lull.extole.io
     * lumen-optical.extole.io
@@ -482,6 +479,7 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -576,7 +574,6 @@
 | refer.1800contacts.com | 1800contacts.extole.io |
 | refer.2-10.com | 2-10.extole.io |
 | refer.2ndswing.com | 2ndswing.extole.io |
-| share.4patriots.com | 4patriots.extole.io |
 | share.4wheelparts.com | 4wheelparts.extole.io |
 | share.cluballiance.aaa.com | aaaeagles.extole.io |
 | refer.midatlantic.aaa.com | aaamid-atlantic.extole.com |
@@ -707,7 +704,6 @@
 | refer.clearme.com | clearme-ssl.extole.com |
 | share.dunlopsports.com | clevelandgolf.extole.io |
 | share.refer-clinique.com | clinique.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -945,7 +941,6 @@
 | refer.lightstream.com | lightstream.extole.io |
 | refer.littlepassports.com | little-passports.extole.io |
 | share.livongo.com | livongo.extole.io |
-| refer.loansbyworld.com | loansbyworld.extole.io |
 | share.lovesac.com | lovesac.extole.io |
 | refer.luckyvitamin.com | luckyvitamin.extole.com |
 | get.lull.com | lull.extole.io |
@@ -1120,6 +1115,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |

@@ -129,8 +129,8 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em225.codecademy.com^
 ||em3904.skillshare.com^
+||em924.refer.starbucks.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -288,7 +288,6 @@
 ||refer.lenscrafters.com^
 ||refer.lightstream.com^
 ||refer.littlepassports.com^
-||refer.loansbyworld.com^
 ||refer.loomandleaf.com^
 ||refer.lull.com^
 ||refer.lumenoptical.com^
@@ -413,7 +412,6 @@
 ||share-uk.princess.com^
 ||share-us.viktor-rolf.com^
 ||share.100xequine.com^
-||share.4patriots.com^
 ||share.4wheelparts.com^
 ||share.acorns.com^
 ||share.advanceamerica.net^
@@ -667,8 +665,8 @@
 ||www.referessentials.com^
 ||www.referquickbooks.com^
 ||em1476.princesscruises.com^
+||em225.codecademy.com^
 ||em4367.raf-studentloans.discover.com^
 ||em8561.go2bank.com^
 ||em8928.em.petco.com^
-||em924.refer.starbucks.com^
 ||sftp.extole.com^

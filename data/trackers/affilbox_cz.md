@@ -55,7 +55,6 @@
 | affil.hifimarket.cz | cz.affilbox.cz |
 | affil.hobbytec.cz | cz.affilbox.cz |
 | affil.jobsik.cz | cz.affilbox.cz |
-| affil.katalog-rebelky.cz | cz.affilbox.cz |
 | affil.knihavyhod.cz | cz.affilbox.cz |
 | affil.knihazenasnov.sk | cz.affilbox.cz |
 | affil.kralovstvi-tiande.cz | cz.affilbox.cz |
@@ -101,6 +100,7 @@
 | affilbox.25hodin.cz | cz.affilbox.cz |
 | affilbox.aliveplatform.com | cz.affilbox.cz |
 | affilbox.andreashop.sk | cz.affilbox.cz |
+| affilbox.delibarry.com | cz.affilbox.cz |
 | affilbox.gurufinance.cz | cz.affilbox.cz |
 | affilbox.kronikazivota.cz | cz.affilbox.cz |
 | affilbox.kronikazivota.sk | cz.affilbox.cz |
@@ -256,7 +256,6 @@
 | affiliate.smarty.cz | cz.affilbox.cz |
 | affiliate.smsticket.cz | cz.affilbox.cz |
 | affiliate.snowbitch.cz | cz.affilbox.cz |
-| affiliate.socialsprinters.cz | cz.affilbox.cz |
 | affiliate.soscredit.cz | cz.affilbox.cz |
 | affiliate.sportinator.cz | cz.affilbox.cz |
 | affiliate.stanislavamrazkova.cz | cz.affilbox.cz |
@@ -367,6 +366,7 @@
 | my.top4football.cz | cz.affilbox.cz |
 | my.top4football.de | cz.affilbox.cz |
 | my.top4football.dk | cz.affilbox.cz |
+| my.top4football.es | cz.affilbox.cz |
 | my.top4football.fi | cz.affilbox.cz |
 | my.top4football.fr | cz.affilbox.cz |
 | my.top4football.ie | cz.affilbox.cz |
@@ -495,6 +495,7 @@
 | partner.cshop.sk | cz.affilbox.cz |
 | partner.cukrarskaskola.cz | cz.affilbox.cz |
 | partner.cukrarskyklub.cz | cz.affilbox.cz |
+| partner.cukraszvilag.hu | cz.affilbox.cz |
 | partner.dailymix.cz | cz.affilbox.cz |
 | partner.dancahajkova.com | cz.affilbox.cz |
 | partner.danfil.cz | cz.affilbox.cz |
@@ -582,7 +583,6 @@
 | partner.lenkahomeopatie.cz | cz.affilbox.cz |
 | partner.liberec-ubytovani.cz | cz.affilbox.cz |
 | partner.lidajirickova.cz | cz.affilbox.cz |
-| partner.lifetest.eu | cz.affilbox.cz |
 | partner.ligsuniversity.cz | cz.affilbox.cz |
 | partner.lorooro.com | cz.affilbox.cz |
 | partner.ltx.cz | cz.affilbox.cz |
@@ -658,7 +658,6 @@
 | partner.skolske-tasky.sk | cz.affilbox.cz |
 | partner.sladkemameni.com | cz.affilbox.cz |
 | partner.sladkyklub.cz | cz.affilbox.cz |
-| partner.slimpasta.cz | cz.affilbox.cz |
 | partner.slimpasta.sk | cz.affilbox.cz |
 | partner.smoothiekniha.sk | cz.affilbox.cz |
 | partner.spokojenypes.cz | cz.affilbox.cz |

@@ -701,6 +701,7 @@ static.fstsrv2.com
 static.fstsrv3.com
 static.fstsrv4.com
 static.fstsrv5.com
+static.fstsrv6.com
 static.openrtb.in
 static.qksrv.cc
 static.qksrv1.com
@@ -717,7 +718,6 @@ tq-eu.frdjs-2.co
 tq-eu.gipostart-1.co
 tq-eu.nxthost-1.info
 tq-eu.nxthost-2.info
-tq-eu.xonedart-1.live
 tq.adventurefeeds.com
 tq.frdjs-1.co
 tq.frdjs-2.co
@@ -726,7 +726,6 @@ tq.gipostart-2.co
 tq.nxthost-1.info
 tq.nxthost-2.info
 tq.pdn-eu.com
-tq.xonedart-1.live
 track.adoptim.com
 traffic.adventurefeeds.com
 uixml.bidcampaign.com
@@ -738,7 +737,6 @@ vid-rtb-india.xapads.com
 vid-rtb-sg.xapads.com
 vid-rtb-uswest.xapads.com
 vid-rtb.xapads.com
-vid-static.xapads.com
 vsv-val.looksmart.com
 webferret-val.looksmart.com
 webpush.adjux.com
@@ -804,6 +802,7 @@ xml-eu-v4.ezmob.com
 xml-eu-v4.frdjs-1.co
 xml-eu-v4.frdjs-2.co
 xml-eu-v4.fstsrv5.com
+xml-eu-v4.fstsrv6.com
 xml-eu-v4.gipostart-1.co
 xml-eu-v4.gipostart-2.co
 xml-eu-v4.hawkads.in
@@ -820,7 +819,6 @@ xml-eu-v4.topsolutionsmedia.com
 xml-eu-v4.tri.media
 xml-eu-v4.webmedrtb.com
 xml-eu-v4.webmedxml.com
-xml-eu-v4.xonedart-2.live
 xml-eu.acertb.com
 xml-eu.adcannyxml.com
 xml-eu.adcy.net
@@ -862,7 +860,6 @@ xml-eu.topdealad.com
 xml-eu.tri.media
 xml-eu.vespymedia.com
 xml-eu.webmedxml.com
-xml-eu.xonedart-2.live
 xml-eu.zaimads.com
 xml-rtb.xapads.com
 xml-v4.100conversions.com
@@ -895,6 +892,7 @@ xml-v4.fstsrv2.com
 xml-v4.fstsrv3.com
 xml-v4.fstsrv4.com
 xml-v4.fstsrv5.com
+xml-v4.fstsrv6.com
 xml-v4.gipostart-1.co
 xml-v4.gipostart-2.co
 xml-v4.hetcash.com
@@ -918,8 +916,6 @@ xml-v4.trafficmoose.com
 xml-v4.tri.media
 xml-v4.webmedrtb.com
 xml-v4.webmedxml.com
-xml-v4.xonedart-1.live
-xml-v4.xonedart-2.live
 xml.100conversions.com
 xml.80xmedia.com
 xml.9dotsmedia.com
@@ -1023,6 +1019,7 @@ xml.fstsrv2.com
 xml.fstsrv3.com
 xml.fstsrv4.com
 xml.fstsrv5.com
+xml.fstsrv6.com
 xml.gipostart-2.co
 xml.groovyadz.com
 xml.hangfly.net
@@ -1115,7 +1112,6 @@ xml.xmlfusion.com
 xml.xmlking.com
 xml.xmlppc.net
 xml.xmlwiz.com
-xml.xonedart-2.live
 xml.zaimads.com
 xml.zeusadx.com
 xml1-eu-v4.admeridianads.com
@@ -1132,4 +1128,5 @@ xmlv4-eu.mobuppsrtb.com
 xmlv4.chameleostudios.com
 xmlv4.mobuppsrtb.com
 xmlv4.reklama.network
+vid-static.xapads.com
 static.rtb-serve.com

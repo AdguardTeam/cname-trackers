@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -53,6 +53,7 @@ d.doctipharma.fr CNAME .
 d.m-net.de CNAME .
 d.santemagazine.fr CNAME .
 d.uni-medias.com CNAME .
+da.freo.nl CNAME .
 da.maif.fr CNAME .
 da.rabobank.nl CNAME .
 dfr.deloitte.com CNAME .
@@ -120,6 +121,7 @@ waati.quechoisir.org CNAME .
 wareneingang.edeka.de CNAME .
 wasserkraftwerkkessel.viessmann.ch CNAME .
 waterlooberlin.viessmann.ca CNAME .
+woodstock.viessmann.com.au CNAME .
 wvvw.france24.com CNAME .
 wvvw.francemediasmonde.com CNAME .
 wvvw.infomigrants.net CNAME .

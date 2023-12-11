@@ -168,6 +168,7 @@
 ||a8.lwa-coating.com^
 ||a8.lyprimo.jp^
 ||a8.machino-housecleaning.com^
+||a8.maf.mentor-capital.jp^
 ||a8.makeshop.jp^
 ||a8.mamacosme.co.jp^
 ||a8.mamaworks.jp^
@@ -189,6 +190,7 @@
 ||a8.narikiri.me^
 ||a8.nengahonpo.com^
 ||a8.nengajyo.co.jp^
+||a8.nezumi-kanzentaiji.com^
 ||a8.nitta-gelatin.jp^
 ||a8.nosh.jp^
 ||a8.novicetokyo.com^
@@ -1108,7 +1110,6 @@
 ||a8cv.willfu.jp^
 ||a8cv.womanmoney.net^
 ||a8cv.wordman.jp^
-||a8cv.workany.jp^
 ||a8cv.worker.sukimaworks.app^
 ||a8cv.workman.jp^
 ||a8cv.worx.jp^
@@ -1386,7 +1387,6 @@
 ||web.hikari-ocn.com^
 ||web.hikari-softbank.com^
 ||web.life-cw.com^
-||web.nuro-life.com^
 ||webtest.lpio.jp^
 ||wnform.www.trecenti.com^
 ||www.a8clk.amelia.ne.jp^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -712,6 +712,7 @@ static.fstsrv2.com CNAME .
 static.fstsrv3.com CNAME .
 static.fstsrv4.com CNAME .
 static.fstsrv5.com CNAME .
+static.fstsrv6.com CNAME .
 static.openrtb.in CNAME .
 static.qksrv.cc CNAME .
 static.qksrv1.com CNAME .
@@ -728,7 +729,6 @@ tq-eu.frdjs-2.co CNAME .
 tq-eu.gipostart-1.co CNAME .
 tq-eu.nxthost-1.info CNAME .
 tq-eu.nxthost-2.info CNAME .
-tq-eu.xonedart-1.live CNAME .
 tq.adventurefeeds.com CNAME .
 tq.frdjs-1.co CNAME .
 tq.frdjs-2.co CNAME .
@@ -737,7 +737,6 @@ tq.gipostart-2.co CNAME .
 tq.nxthost-1.info CNAME .
 tq.nxthost-2.info CNAME .
 tq.pdn-eu.com CNAME .
-tq.xonedart-1.live CNAME .
 track.adoptim.com CNAME .
 traffic.adventurefeeds.com CNAME .
 uixml.bidcampaign.com CNAME .
@@ -749,7 +748,6 @@ vid-rtb-india.xapads.com CNAME .
 vid-rtb-sg.xapads.com CNAME .
 vid-rtb-uswest.xapads.com CNAME .
 vid-rtb.xapads.com CNAME .
-vid-static.xapads.com CNAME .
 vsv-val.looksmart.com CNAME .
 webferret-val.looksmart.com CNAME .
 webpush.adjux.com CNAME .
@@ -815,6 +813,7 @@ xml-eu-v4.ezmob.com CNAME .
 xml-eu-v4.frdjs-1.co CNAME .
 xml-eu-v4.frdjs-2.co CNAME .
 xml-eu-v4.fstsrv5.com CNAME .
+xml-eu-v4.fstsrv6.com CNAME .
 xml-eu-v4.gipostart-1.co CNAME .
 xml-eu-v4.gipostart-2.co CNAME .
 xml-eu-v4.hawkads.in CNAME .
@@ -831,7 +830,6 @@ xml-eu-v4.topsolutionsmedia.com CNAME .
 xml-eu-v4.tri.media CNAME .
 xml-eu-v4.webmedrtb.com CNAME .
 xml-eu-v4.webmedxml.com CNAME .
-xml-eu-v4.xonedart-2.live CNAME .
 xml-eu.acertb.com CNAME .
 xml-eu.adcannyxml.com CNAME .
 xml-eu.adcy.net CNAME .
@@ -873,7 +871,6 @@ xml-eu.topdealad.com CNAME .
 xml-eu.tri.media CNAME .
 xml-eu.vespymedia.com CNAME .
 xml-eu.webmedxml.com CNAME .
-xml-eu.xonedart-2.live CNAME .
 xml-eu.zaimads.com CNAME .
 xml-rtb.xapads.com CNAME .
 xml-v4.100conversions.com CNAME .
@@ -906,6 +903,7 @@ xml-v4.fstsrv2.com CNAME .
 xml-v4.fstsrv3.com CNAME .
 xml-v4.fstsrv4.com CNAME .
 xml-v4.fstsrv5.com CNAME .
+xml-v4.fstsrv6.com CNAME .
 xml-v4.gipostart-1.co CNAME .
 xml-v4.gipostart-2.co CNAME .
 xml-v4.hetcash.com CNAME .
@@ -929,8 +927,6 @@ xml-v4.trafficmoose.com CNAME .
 xml-v4.tri.media CNAME .
 xml-v4.webmedrtb.com CNAME .
 xml-v4.webmedxml.com CNAME .
-xml-v4.xonedart-1.live CNAME .
-xml-v4.xonedart-2.live CNAME .
 xml.100conversions.com CNAME .
 xml.80xmedia.com CNAME .
 xml.9dotsmedia.com CNAME .
@@ -1034,6 +1030,7 @@ xml.fstsrv2.com CNAME .
 xml.fstsrv3.com CNAME .
 xml.fstsrv4.com CNAME .
 xml.fstsrv5.com CNAME .
+xml.fstsrv6.com CNAME .
 xml.gipostart-2.co CNAME .
 xml.groovyadz.com CNAME .
 xml.hangfly.net CNAME .
@@ -1126,7 +1123,6 @@ xml.xmlfusion.com CNAME .
 xml.xmlking.com CNAME .
 xml.xmlppc.net CNAME .
 xml.xmlwiz.com CNAME .
-xml.xonedart-2.live CNAME .
 xml.zaimads.com CNAME .
 xml.zeusadx.com CNAME .
 xml1-eu-v4.admeridianads.com CNAME .
@@ -1143,4 +1139,5 @@ xmlv4-eu.mobuppsrtb.com CNAME .
 xmlv4.chameleostudios.com CNAME .
 xmlv4.mobuppsrtb.com CNAME .
 xmlv4.reklama.network CNAME .
+vid-static.xapads.com CNAME .
 static.rtb-serve.com CNAME .

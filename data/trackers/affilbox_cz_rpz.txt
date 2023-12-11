@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -49,7 +49,6 @@ affil.gamlery.cz CNAME .
 affil.hifimarket.cz CNAME .
 affil.hobbytec.cz CNAME .
 affil.jobsik.cz CNAME .
-affil.katalog-rebelky.cz CNAME .
 affil.knihavyhod.cz CNAME .
 affil.knihazenasnov.sk CNAME .
 affil.kralovstvi-tiande.cz CNAME .
@@ -95,6 +94,7 @@ affilate.sklep38.cz CNAME .
 affilbox.25hodin.cz CNAME .
 affilbox.aliveplatform.com CNAME .
 affilbox.andreashop.sk CNAME .
+affilbox.delibarry.com CNAME .
 affilbox.gurufinance.cz CNAME .
 affilbox.kronikazivota.cz CNAME .
 affilbox.kronikazivota.sk CNAME .
@@ -250,7 +250,6 @@ affiliate.sexshop51.sk CNAME .
 affiliate.smarty.cz CNAME .
 affiliate.smsticket.cz CNAME .
 affiliate.snowbitch.cz CNAME .
-affiliate.socialsprinters.cz CNAME .
 affiliate.soscredit.cz CNAME .
 affiliate.sportinator.cz CNAME .
 affiliate.stanislavamrazkova.cz CNAME .
@@ -361,6 +360,7 @@ my.top4football.com CNAME .
 my.top4football.cz CNAME .
 my.top4football.de CNAME .
 my.top4football.dk CNAME .
+my.top4football.es CNAME .
 my.top4football.fi CNAME .
 my.top4football.fr CNAME .
 my.top4football.ie CNAME .
@@ -489,6 +489,7 @@ partner.crewmaldives.com CNAME .
 partner.cshop.sk CNAME .
 partner.cukrarskaskola.cz CNAME .
 partner.cukrarskyklub.cz CNAME .
+partner.cukraszvilag.hu CNAME .
 partner.dailymix.cz CNAME .
 partner.dancahajkova.com CNAME .
 partner.danfil.cz CNAME .
@@ -576,7 +577,6 @@ partner.lemurak.cz CNAME .
 partner.lenkahomeopatie.cz CNAME .
 partner.liberec-ubytovani.cz CNAME .
 partner.lidajirickova.cz CNAME .
-partner.lifetest.eu CNAME .
 partner.ligsuniversity.cz CNAME .
 partner.lorooro.com CNAME .
 partner.ltx.cz CNAME .
@@ -652,7 +652,6 @@ partner.skiresort.cz CNAME .
 partner.skolske-tasky.sk CNAME .
 partner.sladkemameni.com CNAME .
 partner.sladkyklub.cz CNAME .
-partner.slimpasta.cz CNAME .
 partner.slimpasta.sk CNAME .
 partner.smoothiekniha.sk CNAME .
 partner.spokojenypes.cz CNAME .

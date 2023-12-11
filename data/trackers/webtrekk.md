@@ -69,6 +69,7 @@
     * 286813086616891.wt-eu02.net
     * 292330999892453.wt-eu02.net
     * 292595354576025.wt-eu02.net
+    * 301407277754972.wt-eu02.net
     * 302571338326011.wt-eu02.net
     * 302631813489498.wt-eu02.net
     * 306539831205028.wt-eu02.net
@@ -272,6 +273,7 @@
 | s5.data.srf.ch | 292330999892453.wt-eu02.net |
 | stage.www.data.srf.ch | 292330999892453.wt-eu02.net |
 | data.mapp.com | 292595354576025.wt-eu02.net |
+| data.kulturkaufhaus.de | 301407277754972.wt-eu02.net |
 | web.campaign.v73.it | 302571338326011.wt-eu02.net |
 | data.engelhorn.com | 302631813489498.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |

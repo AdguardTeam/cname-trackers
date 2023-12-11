@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -365,6 +365,7 @@ ssl-sondagsavisen.tns-gallup.dk CNAME .
 ssl-spisbedre.tns-gallup.dk CNAME .
 ssl-spotdeal.tns-gallup.dk CNAME .
 ssl-stepstone.tns-gallup.dk CNAME .
+ssl-sweetdeal.tns-gallup.dk CNAME .
 ssl-test.spring-tns.net CNAME .
 test.spring-tns.net CNAME .
 ssl-testuni.tns-gallup.dk CNAME .

@@ -14,6 +14,7 @@ cdn.asopn.com
 cdn.asrop.xyz
 cdn.barlo.xyz
 cdn.bhlph.com
+cdn.borhaj.com
 cdn.buram.xyz
 cdn.cabhwq.com
 cdn.calcpol.com
@@ -47,12 +48,14 @@ cdn.jeckear.com
 cdn.jhoncj.com
 cdn.jwalf.com
 cdn.karpatzi.com
+cdn.keajs.com
 cdn.luxope.com
 cdn.mafyak.com
 cdn.masbpi.com
 cdn.miluwo.com
 cdn.mtinsqq.com
 cdn.namol.xyz
+cdn.nelhon.com
 cdn.nlop.xyz
 cdn.norymo.com
 cdn.npcta.xyz
@@ -69,6 +72,7 @@ cdn.rapolok.com
 cdn.rawqel.com
 cdn.rgrd.xyz
 cdn.roemoss.com
+cdn.rofant.com
 cdn.sblhp.com
 cdn.shakre.com
 cdn.spnut.com
@@ -76,8 +80,10 @@ cdn.srxy.xyz
 cdn.sslph.com
 cdn.syinga.com
 cdn.timsef.com
+cdn.tsepyk.com
 cdn.ulesxbo.com
 cdn.viowrel.com
+cdn.vonkol.com
 cdn.wwfx.xyz
 cdn.xbcpcn.com
 cdn.zxclan.com
@@ -396,7 +402,6 @@ earthworm.creatifmediagroup.com
 earthworm.elenabirkenwald.com
 earthworm.lidi.today
 earthworm.makethemdebate.com
-earthworm.ohmydeck.com
 earthworm.robbevanpetegem.be
 earwig.architecturesofhiding.com
 echidna.eyalgantz.me
@@ -460,7 +465,6 @@ fowl.saulhardman.com
 fox.domainr.com
 fox.visionaudiovisual.com
 frog.jamesbliss.com
-frog.resavma.com
 gamefowl.emailforward.mx
 gamefowl.karlsutt.com
 gamefowl.nonprofit.foundation
@@ -640,7 +644,6 @@ leopard.ui-snippets.dev
 leopard.understandit.se
 leopon.luckycasts.com
 leopon.originalmineral.com
-limpet.coinponent.com
 limpet.eddiehinkle.com
 limpet.pioneerlandscapingllc.com
 limpet.yago.dev
@@ -678,6 +681,7 @@ mackerel.passiveincome.io
 magpie.onething.org
 magpie.phil.dev
 mammal.autoidle.com
+mammal.robholmes.app
 manatee.biodom.bio
 manatee.creativepassport.net
 mandrill.castingcollective.net
@@ -929,7 +933,6 @@ silverfish.dailybuilds.com
 silverfish.djordjevanjek.com
 skink.asorman.io
 sloth.goodtendency.app
-sloth.vaalinstudio.com
 sloth.vguerrerobosch.com
 smelt.allenpike.com
 smelt.gautrowski.com
@@ -1112,6 +1115,7 @@ assets-v2.invaluable.com
 assets-v2.northsidesun.com
 avemariaas.vmrcommunications.com
 carlsonmedia.streetinteractive.com
+images.decaturish.com
 kitt.tucsonsentinel.com
 partner.streetinteractive.com
 partners.hourmediagroup.com
@@ -1125,7 +1129,6 @@ sponsors-v2.automate.org
 sponsors-v2.floorforce.com
 sponsors-v2.locablepublishernetwork.com
 sponsors-v2.urbanistnetwork.com
-sponsors.decaturish.com
 sponsors.floorforce.com
 sponsors.macaronikid.com
 sponsors.oaklandcountymoms.com

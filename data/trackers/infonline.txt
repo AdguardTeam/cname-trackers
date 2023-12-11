@@ -98,6 +98,7 @@
 ||data-0b2c5acddd.echtemamas.de^
 ||data-0be38fdd72.eatsmarter.de^
 ||data-0c1a280f84.golem.de^
+||data-0c2107a914.profil.at^
 ||data-0c700a44f4.rund-ums-baby.de^
 ||data-0cc10e3905.werbenundverkaufen.de^
 ||data-0cc10e3905.wuv.de^
@@ -971,6 +972,7 @@
 ||data-6e57cba6aa.netmoms.de^
 ||data-6ed56dd691.bdb.at^
 ||data-6f0387b7f3.apps.iocnt.de^
+||data-6f211e7e41.apps.iocnt.de^
 ||data-6f4f333803.apps.iocnt.de^
 ||data-6fd9590058.apps.iocnt.de^
 ||data-7023b17a38.amberg24.de^
@@ -1244,6 +1246,7 @@
 ||data-96d64cb150.bz-ticket.de^
 ||data-96d64cb150.bztrauer.de^
 ||data-96d64cb150.fupa.net^
+||data-96d64cb150.handwerkjobs-bw.de^
 ||data-96d64cb150.schnapp.de^
 ||data-96d64cb150.wohnverdient.de^
 ||data-97304cc18d.medienzentrum-biberach.de^
@@ -1487,6 +1490,7 @@
 ||data-b182afd830.it-times.de^
 ||data-b19475ee82.focus.de^
 ||data-b19475ee82.weather.com^
+||data-b19f3371de.songtexte.com^
 ||data-b1ae357847.apps.iocnt.de^
 ||data-b204b9f978.4players.de^
 ||data-b21e1c06f5.apps.iocnt.de^
@@ -1566,6 +1570,7 @@
 ||data-bc58d40c93.nwzonline.de^
 ||data-bc9dbdd971.handwerk-magazin.de^
 ||data-bcaa25791f.apps.iocnt.de^
+||data-bce9ac005c.apps.iocnt.de^
 ||data-bd2c894b2a.apps.iocnt.de^
 ||data-bd417eda50.bibliothek-gruenwald.de^
 ||data-bd87db2679.haus.de^
@@ -1789,6 +1794,7 @@
 ||data-d946a9c4a1.trauer-in-thueringen.de^
 ||data-d9be8dacc3.alpin.de^
 ||data-da1d9cc48a.osthessen-news.de^
+||data-da8b646558.dieniederoesterreicherin.at^
 ||data-daaad80bda.babelli.de^
 ||data-dae559c4b7.ejz.de^
 ||data-db0ecef264.trafikantenzeitung.at^
@@ -2182,6 +2188,7 @@
 ||data-fd53e9bda6.urlaubsguru.at^
 ||data-fd53e9bda6.urlaubsguru.de^
 ||data-fd60c1cff9.ke-next.de^
+||data-fd9798a870.dieburgenlaenderin.at^
 ||data-fd9ab41e47.bravo.de^
 ||data-fdb60ee122.hamburg.de^
 ||data-fdbbf15b66.finanzen.at^

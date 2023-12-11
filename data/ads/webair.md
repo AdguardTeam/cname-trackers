@@ -1073,6 +1073,7 @@
 | login.adright.com | adright.ui.ak-is2.net |
 | push.adright.co | adright.wp.ak-is2.net |
 | xml-eu-v4.fstsrv5.com | adright.xml-eu-v4.ak-is2.net |
+| xml-eu-v4.fstsrv6.com | adright.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.qksrv.cc | adright.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.qksrv1.com | adright.xml-eu-v4.ak-is2.net |
 | xml-eu.qksrv.cc | adright.xml-eu-v6.ak-is2.net |
@@ -1082,6 +1083,7 @@
 | xml-v4.fstsrv3.com | adright.xml-v4.ak-is2.net |
 | xml-v4.fstsrv4.com | adright.xml-v4.ak-is2.net |
 | xml-v4.fstsrv5.com | adright.xml-v4.ak-is2.net |
+| xml-v4.fstsrv6.com | adright.xml-v4.ak-is2.net |
 | xml-v4.qksrv.cc | adright.xml-v4.ak-is2.net |
 | xml-v4.qksrv1.com | adright.xml-v4.ak-is2.net |
 | xml.qksrv.cc | adright.xml-v6.ak-is2.net |
@@ -1096,6 +1098,7 @@
 | xml.fstsrv3.com | adright.xml.ak-is2.net |
 | xml.fstsrv4.com | adright.xml.ak-is2.net |
 | xml.fstsrv5.com | adright.xml.ak-is2.net |
+| xml.fstsrv6.com | adright.xml.ak-is2.net |
 | xml.mobreach.com | adright.xml.ak-is2.net |
 | xml.popunder.bid | adright.xml.ak-is2.net |
 | static.adright.co | adright.xs.ak-is2.net |
@@ -1105,6 +1108,7 @@
 | static.fstsrv3.com | adright.xs.ak-is2.net |
 | static.fstsrv4.com | adright.xs.ak-is2.net |
 | static.fstsrv5.com | adright.xs.ak-is2.net |
+| static.fstsrv6.com | adright.xs.ak-is2.net |
 | static.qksrv.cc | adright.xs.ak-is2.net |
 | static.qksrv1.com | adright.xs.ak-is2.net |
 | login.ads9.com | ads9.ui.ak-is2.net |
@@ -1144,7 +1148,6 @@
 | tq-eu.gipostart-1.co | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.nxthost-1.info | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.nxthost-2.info | adventurefeeds.fs-eu.ak-is2.net |
-| tq-eu.xonedart-1.live | adventurefeeds.fs-eu.ak-is2.net |
 | tq.pdn-eu.com | adventurefeeds.fs-eu.ak-is2.net |
 | filter.adventurefeeds.com | adventurefeeds.fs.ak-is2.net |
 | tq.adventurefeeds.com | adventurefeeds.fs.ak-is2.net |
@@ -1154,7 +1157,6 @@
 | tq.gipostart-2.co | adventurefeeds.fs.ak-is2.net |
 | tq.nxthost-1.info | adventurefeeds.fs.ak-is2.net |
 | tq.nxthost-2.info | adventurefeeds.fs.ak-is2.net |
-| tq.xonedart-1.live | adventurefeeds.fs.ak-is2.net |
 | rtb-eu.adventurefeeds.com | adventurefeeds.rtb-eu.ak-is2.net |
 | rtb-uswest.adventurefeeds.com | adventurefeeds.rtb-uswest.ak-is2.net |
 | rtb.adventurefeeds.com | adventurefeeds.rtb.ak-is2.net |
@@ -1169,7 +1171,6 @@
 | xml-eu-v4.nxthost-1.info | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.nxthost-2.info | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.pxfind3.com | adventurefeeds.xml-eu-v4.ak-is2.net |
-| xml-eu-v4.xonedart-2.live | adventurefeeds.xml-eu-v4.ak-is2.net |
 | clk.pdn-eu.com | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.explorefast-1.com | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.frdjs-1.co | adventurefeeds.xml-eu.ak-is2.net |
@@ -1177,7 +1178,6 @@
 | xml-eu.gipostart-2.co | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.nxthost-1.info | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.nxthost-2.info | adventurefeeds.xml-eu.ak-is2.net |
-| xml-eu.xonedart-2.live | adventurefeeds.xml-eu.ak-is2.net |
 | xml-v4.explorefast-1.com | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.frdjs-1.co | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.frdjs-2.co | adventurefeeds.xml-v4.ak-is2.net |
@@ -1186,8 +1186,6 @@
 | xml-v4.nxthost-1.info | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.nxthost-2.info | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.pxfind3.com | adventurefeeds.xml-v4.ak-is2.net |
-| xml-v4.xonedart-1.live | adventurefeeds.xml-v4.ak-is2.net |
-| xml-v4.xonedart-2.live | adventurefeeds.xml-v4.ak-is2.net |
 | xml.adventurefeeds.com | adventurefeeds.xml.ak-is2.net |
 | xml.explorefast-1.com | adventurefeeds.xml.ak-is2.net |
 | xml.frdjs-1.co | adventurefeeds.xml.ak-is2.net |
@@ -1199,7 +1197,6 @@
 | xml.pdn-2.com | adventurefeeds.xml.ak-is2.net |
 | xml.pdn-3.com | adventurefeeds.xml.ak-is2.net |
 | xml.pxfind3.com | adventurefeeds.xml.ak-is2.net |
-| xml.xonedart-2.live | adventurefeeds.xml.ak-is2.net |
 | webpush.reachyield.com | advertising.wp.ak-is2.net |
 | filter.advlistings.com | advlistings.fs.ak-is2.net |
 | xml.advlistings.com | advlistings.xml.ak-is2.net |
@@ -1927,6 +1924,7 @@
 | win-rtb2-useast.webithr.com | webithr.win-useast.ak-is2.net |
 | dsp.xapads.com | xapads.aui.ak-is2.net |
 | cpm.xrtb.io | xapads.cpm.ak-is2.net |
+| display.rtb-serve.com | xapads.cpm.ak-is2.net |
 | vid-cpm.xapads.com | xapads.cpm.ak-is2.net |
 | click.aarthpro.com | xapads.fs.ak-is2.net |
 | xml-default.xapads.com | xapads.fs.ak-is2.net |
@@ -1950,7 +1948,6 @@
 | xml-rtb.xapads.com | xapads.xml.ak-is2.net |
 | static.openrtb.in | xapads.xs.ak-is2.net |
 | static.xrtb.io | xapads.xs.ak-is2.net |
-| vid-static.xapads.com | xapads.xs.ak-is2.net |
 | click-rtb2-apac.xaprio.net | xaprio.click-apac.ak-is2.net |
 | click-rtb2-eu.xaprio.net | xaprio.click-eu.ak-is2.net |
 | click-rtb2-useast.xaprio.net | xaprio.click-useast.ak-is2.net |

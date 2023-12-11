@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ cdn.asopn.com CNAME .
 cdn.asrop.xyz CNAME .
 cdn.barlo.xyz CNAME .
 cdn.bhlph.com CNAME .
+cdn.borhaj.com CNAME .
 cdn.buram.xyz CNAME .
 cdn.cabhwq.com CNAME .
 cdn.calcpol.com CNAME .
@@ -58,12 +59,14 @@ cdn.jeckear.com CNAME .
 cdn.jhoncj.com CNAME .
 cdn.jwalf.com CNAME .
 cdn.karpatzi.com CNAME .
+cdn.keajs.com CNAME .
 cdn.luxope.com CNAME .
 cdn.mafyak.com CNAME .
 cdn.masbpi.com CNAME .
 cdn.miluwo.com CNAME .
 cdn.mtinsqq.com CNAME .
 cdn.namol.xyz CNAME .
+cdn.nelhon.com CNAME .
 cdn.nlop.xyz CNAME .
 cdn.norymo.com CNAME .
 cdn.npcta.xyz CNAME .
@@ -80,6 +83,7 @@ cdn.rapolok.com CNAME .
 cdn.rawqel.com CNAME .
 cdn.rgrd.xyz CNAME .
 cdn.roemoss.com CNAME .
+cdn.rofant.com CNAME .
 cdn.sblhp.com CNAME .
 cdn.shakre.com CNAME .
 cdn.spnut.com CNAME .
@@ -87,8 +91,10 @@ cdn.srxy.xyz CNAME .
 cdn.sslph.com CNAME .
 cdn.syinga.com CNAME .
 cdn.timsef.com CNAME .
+cdn.tsepyk.com CNAME .
 cdn.ulesxbo.com CNAME .
 cdn.viowrel.com CNAME .
+cdn.vonkol.com CNAME .
 cdn.wwfx.xyz CNAME .
 cdn.xbcpcn.com CNAME .
 cdn.zxclan.com CNAME .
@@ -407,7 +413,6 @@ earthworm.creatifmediagroup.com CNAME .
 earthworm.elenabirkenwald.com CNAME .
 earthworm.lidi.today CNAME .
 earthworm.makethemdebate.com CNAME .
-earthworm.ohmydeck.com CNAME .
 earthworm.robbevanpetegem.be CNAME .
 earwig.architecturesofhiding.com CNAME .
 echidna.eyalgantz.me CNAME .
@@ -471,7 +476,6 @@ fowl.saulhardman.com CNAME .
 fox.domainr.com CNAME .
 fox.visionaudiovisual.com CNAME .
 frog.jamesbliss.com CNAME .
-frog.resavma.com CNAME .
 gamefowl.emailforward.mx CNAME .
 gamefowl.karlsutt.com CNAME .
 gamefowl.nonprofit.foundation CNAME .
@@ -651,7 +655,6 @@ leopard.ui-snippets.dev CNAME .
 leopard.understandit.se CNAME .
 leopon.luckycasts.com CNAME .
 leopon.originalmineral.com CNAME .
-limpet.coinponent.com CNAME .
 limpet.eddiehinkle.com CNAME .
 limpet.pioneerlandscapingllc.com CNAME .
 limpet.yago.dev CNAME .
@@ -689,6 +692,7 @@ mackerel.passiveincome.io CNAME .
 magpie.onething.org CNAME .
 magpie.phil.dev CNAME .
 mammal.autoidle.com CNAME .
+mammal.robholmes.app CNAME .
 manatee.biodom.bio CNAME .
 manatee.creativepassport.net CNAME .
 mandrill.castingcollective.net CNAME .
@@ -940,7 +944,6 @@ silverfish.dailybuilds.com CNAME .
 silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
 sloth.goodtendency.app CNAME .
-sloth.vaalinstudio.com CNAME .
 sloth.vguerrerobosch.com CNAME .
 smelt.allenpike.com CNAME .
 smelt.gautrowski.com CNAME .
@@ -1123,6 +1126,7 @@ assets-v2.invaluable.com CNAME .
 assets-v2.northsidesun.com CNAME .
 avemariaas.vmrcommunications.com CNAME .
 carlsonmedia.streetinteractive.com CNAME .
+images.decaturish.com CNAME .
 kitt.tucsonsentinel.com CNAME .
 partner.streetinteractive.com CNAME .
 partners.hourmediagroup.com CNAME .
@@ -1136,7 +1140,6 @@ sponsors-v2.automate.org CNAME .
 sponsors-v2.floorforce.com CNAME .
 sponsors-v2.locablepublishernetwork.com CNAME .
 sponsors-v2.urbanistnetwork.com CNAME .
-sponsors.decaturish.com CNAME .
 sponsors.floorforce.com CNAME .
 sponsors.macaronikid.com CNAME .
 sponsors.oaklandcountymoms.com CNAME .

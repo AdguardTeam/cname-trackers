@@ -107,6 +107,7 @@
     * h-9f85se8g.online-metrix.net
     * h-9ivuwf8u.online-metrix.net
     * h-9kqz9786.online-metrix.net
+    * h-9wtp561i.online-metrix.net
     * h-9yw99lm5.online-metrix.net
     * h-9zzsit89.online-metrix.net
     * h-a4nx1etl.online-metrix.net
@@ -630,6 +631,7 @@
     * h-twctexas.online-metrix.net
     * h-twino.online-metrix.net
     * h-uat.cmprofile.citidirect.online-metrix.net
+    * h-udd8uxur-kl.online-metrix.net
     * h-udd8uxur-leb.online-metrix.net
     * h-udd8uxur.online-metrix.net
     * h-uplift.online-metrix.net
@@ -714,6 +716,7 @@
 | prod-blucurrent.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cfcuwi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-citadel.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-comfin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-consumers.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cstonefcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-dccuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -872,6 +875,7 @@
 | wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
 | contendvc.cnouyi.pizza | h-9kqz9786.online-metrix.net |
+| devices.yondercard.com | h-9wtp561i.online-metrix.net |
 | dvc0271.play.jackpocket.com | h-9yw99lm5.online-metrix.net |
 | tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |
 | jytrnq.cm-cic.com | h-a4nx1etl.online-metrix.net |
@@ -1608,6 +1612,7 @@
 | content.moneza.ru | h-twino.online-metrix.net |
 | content.netcredit.pl | h-twino.online-metrix.net |
 | uat.cmprofile.cards.citidirect.com | h-uat.cmprofile.citidirect.online-metrix.net |
+| dfme.kleinanzeigen.de | h-udd8uxur-kl.online-metrix.net |
 | fsta.leboncoin.info | h-udd8uxur-leb.online-metrix.net |
 | umst.mobile.de | h-udd8uxur.online-metrix.net |
 | t42rsn90.uplift.com | h-uplift.online-metrix.net |
@@ -1666,6 +1671,7 @@
 | images.exxonmobilfleetoffers.com | h-wrightexpress.online-metrix.net |
 | images.sheetzadvantage.com | h-wrightexpress.online-metrix.net |
 | images.sunocofleetcards.com | h-wrightexpress.online-metrix.net |
+| images.suntrakfleetaccount.com | h-wrightexpress.online-metrix.net |
 | images.wexinc.com | h-wrightexpress.online-metrix.net |
 | images.wrightexpress.com | h-wrightexpress.online-metrix.net |
 | tmx.efsllc.com | h-wrightexpress.online-metrix.net |

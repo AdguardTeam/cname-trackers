@@ -379,9 +379,11 @@ device.invoice2go.com
 device.messa.org
 deviceauth.dmv.ca.gov
 devicecontent.icuracao.com
+devices.yondercard.com
 df.fragrancex.com
 df.greenmangaming.com
 df.thumbtack.com
+dfme.kleinanzeigen.de
 dfp.garmin.com
 dfp.mcdonalds.fr
 dfp.s-budget-mobile.at
@@ -457,6 +459,7 @@ images.essofleetoffers.com
 images.exxonmobilfleetoffers.com
 images.sheetzadvantage.com
 images.sunocofleetcards.com
+images.suntrakfleetaccount.com
 images.wexinc.com
 images.wrightexpress.com
 imagesmx.cdiscountpro.com
@@ -600,6 +603,7 @@ prod-baxter.chaperone.lumindigitalhosting.com
 prod-blucurrent.chaperone.lumindigitalhosting.com
 prod-cfcuwi.chaperone.lumindigitalhosting.com
 prod-citadel.chaperone.lumindigitalhosting.com
+prod-comfin.chaperone.lumindigitalhosting.com
 prod-consumers.chaperone.lumindigitalhosting.com
 prod-cstonefcu.chaperone.lumindigitalhosting.com
 prod-dccuva.chaperone.lumindigitalhosting.com

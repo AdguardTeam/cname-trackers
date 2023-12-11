@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -138,6 +138,7 @@ ads.hentaiheart.com CNAME .
 ads.javtit.com CNAME .
 ads.onetouchtv.me CNAME .
 ads.pornharlot.com CNAME .
+ads.pornharlot.net CNAME .
 ads.pornutopia.org CNAME .
 ads.saplacikardepo.xyz CNAME .
 ads.sturls.com CNAME .
@@ -200,7 +201,6 @@ asg.soundrussian.com CNAME .
 asg.srvtax.com CNAME .
 asg.titdumps.com CNAME .
 asg.watchpornonline.xyz CNAME .
-asg.xtumbl.com CNAME .
 asg.zzipps.com CNAME .
 asg1.xueserverhost.com CNAME .
 asg2.xueserverhost.com CNAME .
@@ -269,17 +269,14 @@ cdn.sdtraff.com CNAME .
 cdn1.delii2.art CNAME .
 cdn3.cartoonporn.to CNAME .
 cdn3.hentaihand.com CNAME .
-cdn3.hentaihaven.fun CNAME .
 cdn3.hentok.com CNAME .
 cdn3.r34comix.com CNAME .
 cdn5.cartoonporn.to CNAME .
-cdn5.hentaihaven.fun CNAME .
 cesbr.spinna.store CNAME .
 click.fastupload.io CNAME .
 client2009x25.xcdn.ovh CNAME .
 comezz.xyz CNAME .
 content.zbporn.com CNAME .
-cool.ah-me.com CNAME .
 cool.gaygo.tv CNAME .
 cool.sunporno.com CNAME .
 cool.tubous.com CNAME .
@@ -388,6 +385,7 @@ javfinder.sb.7mmtv.top CNAME .
 javfinder.sb.jav-7mmtv.top CNAME .
 javgiga.com.7mmtv.top CNAME .
 javgiga.com.jav-7mmtv.top CNAME .
+javguru.gggsss.site CNAME .
 javmost.cx.7mmtv.top CNAME .
 javmost.cx.jav-7mmtv.top CNAME .
 jfhnh.spinna.store CNAME .
@@ -467,7 +465,6 @@ mylives.xyz CNAME .
 mziso.xyz CNAME .
 n.bloblohub.com CNAME .
 n.hnntube.com CNAME .
-n.reallifehentai.net CNAME .
 naiyoz.lol CNAME .
 nanbody.spinna.shop CNAME .
 nav.srcdn.xyz CNAME .
@@ -552,6 +549,7 @@ pre.ebasos.org CNAME .
 pre.myfuck.club CNAME .
 pre.pornuxaxa.com CNAME .
 pred.7mmtv.top CNAME .
+puzzio.xyz CNAME .
 px9.nuderedtube.com CNAME .
 qhip.com CNAME .
 qoqv.com CNAME .
@@ -646,11 +644,13 @@ toaioi.lol CNAME .
 toaioi.xyz CNAME .
 topsexmovs.com CNAME .
 topvidstore.com CNAME .
+touzia.xyz CNAME .
 tpl.fuckxness.com CNAME .
 traffictraders.com CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 tyo.justthegays.com CNAME .
+u1zga.letsporn.com CNAME .
 uacabilqlgpw.cdnvideo3.com CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .

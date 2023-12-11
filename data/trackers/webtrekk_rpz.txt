@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -88,6 +88,7 @@ data.engelhorn.de CNAME .
 data.goertz.de CNAME .
 data.inbank.it CNAME .
 data.janvanderstorm.de CNAME .
+data.kulturkaufhaus.de CNAME .
 data.leipzig.de CNAME .
 data.main-ding.de CNAME .
 data.mainpost.de CNAME .

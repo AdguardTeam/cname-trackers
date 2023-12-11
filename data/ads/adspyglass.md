@@ -140,6 +140,7 @@
 | ads.javtit.com | 0i0i0i0.com |
 | ads.onetouchtv.me | 0i0i0i0.com |
 | ads.pornharlot.com | 0i0i0i0.com |
+| ads.pornharlot.net | 0i0i0i0.com |
 | ads.pornutopia.org | 0i0i0i0.com |
 | ads.saplacikardepo.xyz | 0i0i0i0.com |
 | ads.sturls.com | 0i0i0i0.com |
@@ -202,7 +203,6 @@
 | asg.srvtax.com | 0i0i0i0.com |
 | asg.titdumps.com | 0i0i0i0.com |
 | asg.watchpornonline.xyz | 0i0i0i0.com |
-| asg.xtumbl.com | 0i0i0i0.com |
 | asg.zzipps.com | 0i0i0i0.com |
 | asg1.xueserverhost.com | 0i0i0i0.com |
 | asg2.xueserverhost.com | 0i0i0i0.com |
@@ -271,17 +271,14 @@
 | cdn1.delii2.art | 0i0i0i0.com |
 | cdn3.cartoonporn.to | 0i0i0i0.com |
 | cdn3.hentaihand.com | 0i0i0i0.com |
-| cdn3.hentaihaven.fun | 0i0i0i0.com |
 | cdn3.hentok.com | 0i0i0i0.com |
 | cdn3.r34comix.com | 0i0i0i0.com |
 | cdn5.cartoonporn.to | 0i0i0i0.com |
-| cdn5.hentaihaven.fun | 0i0i0i0.com |
 | cesbr.spinna.store | 0i0i0i0.com |
 | click.fastupload.io | 0i0i0i0.com |
 | client2009x25.xcdn.ovh | 0i0i0i0.com |
 | comezz.xyz | 0i0i0i0.com |
 | content.zbporn.com | 0i0i0i0.com |
-| cool.ah-me.com | 0i0i0i0.com |
 | cool.gaygo.tv | 0i0i0i0.com |
 | cool.sunporno.com | 0i0i0i0.com |
 | cool.tubous.com | 0i0i0i0.com |
@@ -388,6 +385,7 @@
 | javfinder.sb.jav-7mmtv.top | 0i0i0i0.com |
 | javgiga.com.7mmtv.top | 0i0i0i0.com |
 | javgiga.com.jav-7mmtv.top | 0i0i0i0.com |
+| javguru.gggsss.site | 0i0i0i0.com |
 | javmost.cx.7mmtv.top | 0i0i0i0.com |
 | javmost.cx.jav-7mmtv.top | 0i0i0i0.com |
 | jfhnh.spinna.store | 0i0i0i0.com |
@@ -466,7 +464,6 @@
 | mziso.xyz | 0i0i0i0.com |
 | n.bloblohub.com | 0i0i0i0.com |
 | n.hnntube.com | 0i0i0i0.com |
-| n.reallifehentai.net | 0i0i0i0.com |
 | naiyoz.lol | 0i0i0i0.com |
 | nanbody.spinna.shop | 0i0i0i0.com |
 | nav.srcdn.xyz | 0i0i0i0.com |
@@ -550,6 +547,7 @@
 | pre.myfuck.club | 0i0i0i0.com |
 | pre.pornuxaxa.com | 0i0i0i0.com |
 | pred.7mmtv.top | 0i0i0i0.com |
+| puzzio.xyz | 0i0i0i0.com |
 | px9.nuderedtube.com | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
 | qoqv.com | 0i0i0i0.com |
@@ -644,11 +642,13 @@
 | toaioi.xyz | 0i0i0i0.com |
 | topsexmovs.com | 0i0i0i0.com |
 | topvidstore.com | 0i0i0i0.com |
+| touzia.xyz | 0i0i0i0.com |
 | tpl.fuckxness.com | 0i0i0i0.com |
 | traffictraders.com | 0i0i0i0.com |
 | ts.sopornvideos.com | 0i0i0i0.com |
 | tt.wl-cornholio.com | 0i0i0i0.com |
 | tyo.justthegays.com | 0i0i0i0.com |
+| u1zga.letsporn.com | 0i0i0i0.com |
 | uacabilqlgpw.cdnvideo3.com | 0i0i0i0.com |
 | ui.videojav.com | 0i0i0i0.com |
 | uk.boffinsoft.com | 0i0i0i0.com |
@@ -735,3 +735,5 @@
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
 | h-ay.com | u53.hypnorat.com |
+| ontj.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |

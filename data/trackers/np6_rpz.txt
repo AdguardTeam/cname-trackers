@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1701676816102        ; Serial
+           1702281615158        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -247,7 +247,7 @@ tr.contact.canalsat.fr CNAME .
 tr.contact.cerel.net CNAME .
 tr.contact.cereps.fr CNAME .
 tr.contact.e-turf.fr CNAME .
-tr.contact.lead.eu.com CNAME .
+tr.contact.henner.com CNAME .
 tr.contact.lvmh.fr CNAME .
 tr.contact.mhl-publishing.fr CNAME .
 tr.contact.ruinart.com CNAME .
@@ -1048,6 +1048,7 @@ tr.urfk03k.espmp-agfr.net CNAME .
 tr.urfk03q.espmp-nifr.net CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .
 tr.urfk03x.espmp-agfr.net CNAME .
+tr.urfk041.espmp-cufr.net CNAME .
 tr.urfk044.espmp-nifr.net CNAME .
 tr.urfk050.espmp-cufr.net CNAME .
 tr.urfk052.espmp-cufr.net CNAME .

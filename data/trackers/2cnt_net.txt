@@ -354,6 +354,7 @@
 ||ssl-spisbedre.tns-gallup.dk^
 ||ssl-spotdeal.tns-gallup.dk^
 ||ssl-stepstone.tns-gallup.dk^
+||ssl-sweetdeal.tns-gallup.dk^
 ||ssl-test.spring-tns.net^
 ||test.spring-tns.net^
 ||ssl-testuni.tns-gallup.dk^

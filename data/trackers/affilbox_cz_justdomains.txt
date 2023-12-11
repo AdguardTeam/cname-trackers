@@ -38,7 +38,6 @@ affil.gamlery.cz
 affil.hifimarket.cz
 affil.hobbytec.cz
 affil.jobsik.cz
-affil.katalog-rebelky.cz
 affil.knihavyhod.cz
 affil.knihazenasnov.sk
 affil.kralovstvi-tiande.cz
@@ -84,6 +83,7 @@ affilate.sklep38.cz
 affilbox.25hodin.cz
 affilbox.aliveplatform.com
 affilbox.andreashop.sk
+affilbox.delibarry.com
 affilbox.gurufinance.cz
 affilbox.kronikazivota.cz
 affilbox.kronikazivota.sk
@@ -239,7 +239,6 @@ affiliate.sexshop51.sk
 affiliate.smarty.cz
 affiliate.smsticket.cz
 affiliate.snowbitch.cz
-affiliate.socialsprinters.cz
 affiliate.soscredit.cz
 affiliate.sportinator.cz
 affiliate.stanislavamrazkova.cz
@@ -350,6 +349,7 @@ my.top4football.com
 my.top4football.cz
 my.top4football.de
 my.top4football.dk
+my.top4football.es
 my.top4football.fi
 my.top4football.fr
 my.top4football.ie
@@ -478,6 +478,7 @@ partner.crewmaldives.com
 partner.cshop.sk
 partner.cukrarskaskola.cz
 partner.cukrarskyklub.cz
+partner.cukraszvilag.hu
 partner.dailymix.cz
 partner.dancahajkova.com
 partner.danfil.cz
@@ -565,7 +566,6 @@ partner.lemurak.cz
 partner.lenkahomeopatie.cz
 partner.liberec-ubytovani.cz
 partner.lidajirickova.cz
-partner.lifetest.eu
 partner.ligsuniversity.cz
 partner.lorooro.com
 partner.ltx.cz
@@ -641,7 +641,6 @@ partner.skiresort.cz
 partner.skolske-tasky.sk
 partner.sladkemameni.com
 partner.sladkyklub.cz
-partner.slimpasta.cz
 partner.slimpasta.sk
 partner.smoothiekniha.sk
 partner.spokojenypes.cz

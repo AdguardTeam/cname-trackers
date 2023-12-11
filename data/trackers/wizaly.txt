@@ -129,6 +129,7 @@
 ||tk.speedway.fr^
 ||tk.svsound.com^
 ||tk.teleshopping.fr^
+||tk.tikamoon.ch^
 ||tk.tikamoon.co.uk^
 ||tk.tikamoon.com^
 ||tk.tikamoon.de^

@@ -15,6 +15,7 @@
 ||al.fulcloset.jp^
 ||al.ganzo.ne.jp^
 ||al.germanpet.com^
+||al.happysun-hinode.com^
 ||al.junior-onlineshop.jp^
 ||al.kagukuro.com^
 ||al.kbwine.com^
@@ -23,6 +24,7 @@
 ||al.nawa-store.jp^
 ||al.office-com.jp^
 ||al.pierrotshop.jp^
+||al.saifuku-knit.jp^
 ||al.selif.jp^
 ||al.shiffon-online.jp^
 ||al.shopyamatoya-jp.com^
