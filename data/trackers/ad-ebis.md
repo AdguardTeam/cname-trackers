@@ -95,6 +95,7 @@
     * 49bd8542-0a5i81lv.cname.ebis.ne.jp
     * 49bd8542-7sbpa3f6.cname.ebis.ne.jp
     * 4a5353c5-wrr2jzhu.cname.ebis.ne.jp
+    * 4b12e83b-scxitlgt.cname.ebis.ne.jp
     * 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp
     * 4c291f26-leoqufvo.cname.ebis.ne.jp
     * 4c937bae-xvkp4hsy.cname.ebis.ne.jp
@@ -404,6 +405,7 @@
 | ebiscosme.tamagokichi.com | 49bd8542-0a5i81lv.cname.ebis.ne.jp |
 | ebisstore.tamagokichi.com | 49bd8542-7sbpa3f6.cname.ebis.ne.jp |
 | cname.kyusai.co.jp | 4a5353c5-wrr2jzhu.cname.ebis.ne.jp |
+| cs1470sbeda.schoolasp.com | 4b12e83b-scxitlgt.cname.ebis.ne.jp |
 | ncc.nip-col.jp | 4b8bc2d8-ugw33ckr.cname.ebis.ne.jp |
 | itp.phoebebeautyup.com | 4c291f26-leoqufvo.cname.ebis.ne.jp |
 | ureruadebis.papawash.com | 4c937bae-xvkp4hsy.cname.ebis.ne.jp |

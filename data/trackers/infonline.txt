@@ -27,7 +27,6 @@
 ||data-01d50fd151.versicherungsjournal.de^
 ||data-01df4c6e0c.apps.iocnt.de^
 ||data-01e876a345.tichyseinblick.de^
-||data-01fb540c41.brigitte-wir.de^
 ||data-01fb540c41.brigitte.de^
 ||data-01fb540c41.bym.de^
 ||data-02011e6008.dasoertliche.de^
@@ -79,7 +78,6 @@
 ||data-07bc6012a0.apps.iocnt.de^
 ||data-07ca87a981.logistikmasters.de^
 ||data-07ca87a981.verkehrsrundschau.de^
-||data-080d03ce0d.technik-einkauf.de^
 ||data-0827b0d9ef.dailydose.de^
 ||data-0827b0d9ef.windsurfen-lernen.de^
 ||data-0898a580fd.szlz.de^
@@ -487,6 +485,7 @@
 ||data-3f0062caa0.elektro.net^
 ||data-3f37694eeb.esports.com^
 ||data-3f9c4f5eb9.automotive.at^
+||data-3fb5262fad.unsersalzburg.at^
 ||data-40370dcf13.emsdettenervolkszeitung.de^
 ||data-40370dcf13.ev-online.de^
 ||data-40370dcf13.mv-online.de^
@@ -786,7 +785,6 @@
 ||data-5ce6ecf8d0.christkindlesmarkt.de^
 ||data-5ce6ecf8d0.nn.de^
 ||data-5ce6ecf8d0.nordbayern.de^
-||data-5cfea13ba1.fluid.de^
 ||data-5d2679d281.skysportaustria.at^
 ||data-5d4a957104.focus-arztsuche.de^
 ||data-5d621ddc78.buffed.de^
@@ -806,7 +804,6 @@
 ||data-5ec2d41a8f.radiowestfalica.de^
 ||data-5f67d653dd.si-shk.de^
 ||data-5f7ebd9560.apps.iocnt.de^
-||data-5faa998ff9.pharma-food.de^
 ||data-5fdd0f6a02.salzburg24.at^
 ||data-605b7fe247.babyclub.de^
 ||data-6078195ae2.apps.iocnt.de^
@@ -1008,7 +1005,6 @@
 ||data-7462ea72ec.augsburger-bombennacht.de^
 ||data-7462ea72ec.fupa.net^
 ||data-7462ea72ec.intersana.de^
-||data-7484840ede.all-electronics.de^
 ||data-74cd0e3846.daznservices.com^
 ||data-74e6a53123.kronehit.at^
 ||data-75526e35eb.etailment.de^
@@ -1053,12 +1049,12 @@
 ||data-7e634b10b2.prosiebenmaxx.de^
 ||data-7e634b10b2.the-voice-of-germany.de^
 ||data-7e70b89caf.geb-info.de^
-||data-7f1c7ce24c.plastverarbeiter.de^
 ||data-7f59e1721b.bergwetter.de^
 ||data-7f59e1721b.planetoutdoor.de^
 ||data-7f6dde6aeb.spieletipps.de^
 ||data-7f9c14ceb6.telecom-handel.de^
 ||data-7fb07b8d65.tab.de^
+||data-7fbde6a274.ticket24.at^
 ||data-804560170e.leichtathletik.de^
 ||data-8059fc7d1b.apps.iocnt.de^
 ||data-8062208042.apps.iocnt.de^
@@ -1133,6 +1129,7 @@
 ||data-85dba8a916.schwaebische.de^
 ||data-861bbf2127.bild.de^
 ||data-8629f7a423.4players.de^
+||data-86943486de.laendleauto.at^
 ||data-86d2aee9fa.jetzt.de^
 ||data-86d2aee9fa.sueddeutsche.de^
 ||data-87563bd275.apps.iocnt.de^
@@ -1238,7 +1235,6 @@
 ||data-960dda2233.jam.fm^
 ||data-960dda2233.jamfm.de^
 ||data-962cccd9c4.erneuerbareenergien.de^
-||data-9649b91aa4.kgk-rubberpoint.de^
 ||data-964f7f3f43.boerse-online.de^
 ||data-964f7f3f43.xinfinit.com^
 ||data-96981b4ea8.apps.iocnt.de^
@@ -1265,7 +1261,6 @@
 ||data-99329e3cb2.welt.de^
 ||data-997fc825f1.bkz.de^
 ||data-997fc825f1.murrhardter-zeitung.de^
-||data-99b46027e6.ki-portal.de^
 ||data-9a1d790604.maennersache.de^
 ||data-9a1ff0f093.apps.iocnt.de^
 ||data-9a326ab638.connect.de^
@@ -1287,7 +1282,6 @@
 ||data-9b7927207a.outdoor-magazin.com^
 ||data-9bc4e9c585.deraktionaer.tv^
 ||data-9c12ed8b3c.echtemamas.de^
-||data-9c90373be1.automobil-produktion.de^
 ||data-9c9d7ad92f.neckar-chronik.de^
 ||data-9c9d7ad92f.tagblatt-anzeiger.de^
 ||data-9c9d7ad92f.tagblatt.de^
@@ -1316,6 +1310,7 @@
 ||data-9f9c59bc36.ausschreibung.at^
 ||data-9fa9a37f64.familie.de^
 ||data-9fc27eb430.cineplex.de^
+||data-9fc27eb430.slmedien.de^
 ||data-9fcd0b641d.falstaff.com^
 ||data-9fcd0b641d.falstaff.de^
 ||data-a01a8a1ba4.allgemeine-zeitung.de^
@@ -1396,7 +1391,6 @@
 ||data-a77fb9b63f.osthessen-news.de^
 ||data-a784464fa2.femeda.de^
 ||data-a784464fa2.hallo-eltern.de^
-||data-a7a0d7a6db.brigitte-wir.de^
 ||data-a7a0d7a6db.brigitte.de^
 ||data-a7a0d7a6db.bym.de^
 ||data-a7a8261f38.apps.iocnt.de^
@@ -1459,7 +1453,6 @@
 ||data-adb7e5fd38.pfennigparade.de^
 ||data-ade1ea328b.stylebook.de^
 ||data-ae2238eacd.apps.iocnt.de^
-||data-ae28732481.produktion.de^
 ||data-ae3b90ec02.apps.iocnt.de^
 ||data-ae56befb78.apps.iocnt.de^
 ||data-ae81bed93b.immostimme.de^
@@ -1667,6 +1660,7 @@
 ||data-c626640336.ichreise.at^
 ||data-c626b9efa7.versicherungsmagazin.de^
 ||data-c62d8895bb.n-tv.de^
+||data-c62d8895bb.teleboerse.de^
 ||data-c63b112bf0.radiosiegen.de^
 ||data-c63b992bb9.connect-living.de^
 ||data-c63b992bb9.pc-magazin.de^
@@ -1727,6 +1721,7 @@
 ||data-cf56e4da9b.motorradonline.de^
 ||data-cf8fd9b799.heizungsjournal.de^
 ||data-cf8fd9b799.integrale-planung.net^
+||data-cf8fd9b799.klimajournal.com^
 ||data-cf8fd9b799.sanitaerjournal.de^
 ||data-cf8fd9b799.shk-at-work.de^
 ||data-cf8fd9b799.tga-contentbase.de^
@@ -1801,14 +1796,12 @@
 ||data-db3e9abc5d.muensterschezeitung.de^
 ||data-db4b387c99.heizungsjournal.de^
 ||data-db73bfa52c.apps.iocnt.de^
-||data-db85e03d1a.neue-verpackung.de^
 ||data-db9a1c2da1.konstanz.de^
 ||data-db9f015784.connect-living.de^
 ||data-db9f015784.pc-magazin.de^
 ||data-dbb3f1513f.apps.iocnt.de^
 ||data-dbeb5d461a.fnweb.de^
 ||data-dc11b32774.apps.iocnt.de^
-||data-dc35198c0c.chemietechnik.de^
 ||data-dc874fa9ed.koeln.de^
 ||data-dcab82fe16.gala.de^
 ||data-dd2f77abdf.apps.iocnt.de^
@@ -2187,7 +2180,6 @@
 ||data-fd53e9bda6.holidayguru.nl^
 ||data-fd53e9bda6.urlaubsguru.at^
 ||data-fd53e9bda6.urlaubsguru.de^
-||data-fd60c1cff9.ke-next.de^
 ||data-fd9798a870.dieburgenlaenderin.at^
 ||data-fd9ab41e47.bravo.de^
 ||data-fdb60ee122.hamburg.de^

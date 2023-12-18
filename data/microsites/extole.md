@@ -177,6 +177,7 @@
     * baxterofcalifornia.extole.io
     * bbw.extole.io
     * beaspermdonor.extole.io
+    * becu.extole.io
     * biblejourney.extole.io
     * bioionic.extole.io
     * bjs.extole.io
@@ -235,6 +236,7 @@
     * credible.extole.io
     * creditninja.extole.io
     * crocs.extole.io
+    * cunard.extole.io
     * cvs.extole.io
     * cwbank.extole.io
     * dailypay.extole.io
@@ -467,7 +469,6 @@
     * signals.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
-    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -641,6 +642,7 @@
 | refer.baxterofcalifornia.com | baxterofcalifornia.extole.io |
 | refer.bathandbodyworks.com | bbw.extole.io |
 | share.beaspermdonor.com | beaspermdonor.extole.io |
+| share.becu.org | becu.extole.io |
 | refer.betterbraces.com | betterbraces.extole.com |
 | share.biblejourney.com | biblejourney.extole.io |
 | refer.bioionic.com | bioionic.extole.io |
@@ -722,6 +724,7 @@
 | refer.criquetshirts.com | criquetshirts.extole.com |
 | refer.crocs.com | crocs.extole.io |
 | refer.crystallight.com | crystallight-ssl.extole.com |
+| share.cunard.com | cunard.extole.io |
 | refer.custudentloans.org | custudentloans.extole.com |
 | refer-photo.cvs.com | cvs.extole.io |
 | share.cwbank.com | cwbank.extole.io |
@@ -807,6 +810,7 @@
 | share.enterprisenews.com | gannett.extole.io |
 | share.floridatoday.com | gannett.extole.io |
 | share.freep.com | gannett.extole.io |
+| share.htrnews.com | gannett.extole.io |
 | share.independentmail.com | gannett.extole.io |
 | share.jacksonsun.com | gannett.extole.io |
 | share.kitsapsun.com | gannett.extole.io |
@@ -1100,7 +1104,6 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
-| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |

@@ -3,6 +3,7 @@
 cdn.adevbom.com
 cdn.adevppl.com
 cdn.afwpc.com
+cdn.agajx.com
 cdn.almacz.com
 cdn.alota.xyz
 cdn.asce.xyz
@@ -37,6 +38,7 @@ cdn.gecl.xyz
 cdn.gelhp.com
 cdn.genfpm.com
 cdn.gocolow.com
+cdn.gpcrn.com
 cdn.hqwa.xyz
 cdn.htkcm.com
 cdn.ianjumb.com
@@ -45,14 +47,17 @@ cdn.isgost.com
 cdn.jandaqwe.com
 cdn.jbtul.com
 cdn.jeckear.com
+cdn.jhkfd.com
 cdn.jhoncj.com
 cdn.jwalf.com
 cdn.karpatzi.com
 cdn.keajs.com
+cdn.kfjhd.com
 cdn.luxope.com
 cdn.mafyak.com
 cdn.masbpi.com
 cdn.miluwo.com
+cdn.mnhjk.com
 cdn.mtinsqq.com
 cdn.namol.xyz
 cdn.nelhon.com
@@ -61,9 +66,12 @@ cdn.norymo.com
 cdn.npcta.xyz
 cdn.nuqwe.com
 cdn.olep.xyz
+cdn.orjfun.com
 cdn.ovqds.com
 cdn.pctv.xyz
+cdn.piuyt.com
 cdn.pllah.com
+cdn.plrst.com
 cdn.posawaj.com
 cdn.puyjjq.com
 cdn.puysis.com
@@ -73,6 +81,7 @@ cdn.rawqel.com
 cdn.rgrd.xyz
 cdn.roemoss.com
 cdn.rofant.com
+cdn.rqwel.com
 cdn.sblhp.com
 cdn.shakre.com
 cdn.spnut.com
@@ -86,6 +95,8 @@ cdn.viowrel.com
 cdn.vonkol.com
 cdn.wwfx.xyz
 cdn.xbcpcn.com
+cdn.xwqea.com
+cdn.ytihp.com
 cdn.zxclan.com
 4ke5b4ila.codedge.de
 7wrxo2xh.iriscreative.co
@@ -267,7 +278,6 @@ cat.thisminute.app
 cat.tinylittlebusinesses.com
 cat.weddingsabroad.com
 caterpilla.ibon.live
-catfish.lasceneparisienne.com
 catfish.lucalabs.com
 catfish.sofatido.ch
 catshark.janetalexandersson.com
@@ -387,7 +397,6 @@ donkey.guggenbichler.co.at
 donkey.hackoregon.org
 donkey.kontematik.com
 donkey.oncarbon.app
-donkey.routinehub.co
 donkey.the3rd.place
 dormouse.consentkit.com
 dove.hoku.nz
@@ -412,7 +421,6 @@ eel.beekeeperstudio.io
 eel.cuabuilders.com
 eel.tunspress.com
 egret.brothers.studio
-egret.friendships.me
 elephant.superdense.com
 elk.andrewfomera.com
 elk.itiden.se
@@ -786,7 +794,6 @@ panther.atgonlinecoaching.com
 panther.codyhatfield.me
 panther.essentialwellnessyoga.com.au
 panther.hoprnet.org
-panther.pit-pit.com
 panther.thestocks.im
 panther.tigil.rs
 parakeet.quotetweet.com
@@ -795,7 +802,6 @@ parrot.ohdear.app
 parrotfish.thenping.me
 parrotfish.wilderworld.com
 parrotfish.wus.immo
-partridge.flooint.com
 peacock.psych.help
 peafowl.projectstrackt.dev
 penguin.craftpeak.io
@@ -835,11 +841,11 @@ porcupine.simpleprax.de
 porpoise.azettl.net
 porpoise.deschtimes.com
 porpoise.fruittreecottage.com.au
+porpoise.groupcalendar.app
 porpoise.jackwhiting.co.uk
 porpoise.kristinholl.com
 porpoise.numberzs.com
 prairiedog.hashnode.com
-prawn.coding-friends.com
 prawn.fffuel.co
 prawn.lionsmouth.digital
 prawn.samgarson.com
@@ -1129,6 +1135,7 @@ sponsors-v2.automate.org
 sponsors-v2.floorforce.com
 sponsors-v2.locablepublishernetwork.com
 sponsors-v2.urbanistnetwork.com
+sponsors.bicmagazine.com
 sponsors.floorforce.com
 sponsors.macaronikid.com
 sponsors.oaklandcountymoms.com
@@ -1150,6 +1157,7 @@ consent.cookiefirst.com
 contact-gloss-production.accelerator.net
 dntcl.qualaroo.com
 egybests.7all.net
+img.7xixi.site
 live-tag.creatopy.net
 log.ads-m.net
 sp.cleaningkeepers.com
@@ -1158,3 +1166,4 @@ sp.lenspk.com
 sp.theladyshop.pk
 static.netfly.fun
 static.nfly.cc
+static.xlyyzx.sbs

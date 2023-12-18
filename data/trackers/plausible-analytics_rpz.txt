@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702281615158        ; Serial
+           1702886419864        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -43,7 +43,6 @@ analytics.hambleden-capital.com CNAME .
 analytics.hiome.com CNAME .
 analytics.kerns.co CNAME .
 analytics.krieselreihe.com CNAME .
-analytics.lifestyledemocracy.com CNAME .
 analytics.littlekingdesigns.com CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
@@ -448,7 +447,6 @@ stats.carrotsearch.com CNAME .
 stats.caseydunham.com CNAME .
 stats.cassidyjames.com CNAME .
 stats.catholicluv.com CNAME .
-stats.centerforvalues.international CNAME .
 stats.centralswindonnorth-pc.gov.uk CNAME .
 stats.cfcasts.com CNAME .
 stats.chadly.net CNAME .
@@ -647,7 +645,6 @@ stats.jtrees.io CNAME .
 stats.jun-etan.com CNAME .
 stats.juniperslab.com CNAME .
 stats.justinwilliams.ca CNAME .
-stats.jvhellemond.nl CNAME .
 stats.kaladyaudiology.com CNAME .
 stats.katharinascheitz.com CNAME .
 stats.keirwhitaker.com CNAME .

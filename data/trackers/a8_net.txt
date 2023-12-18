@@ -399,7 +399,6 @@
 ||a8clk.cleaneo.jp^
 ||a8clk.cocorotherapy.com^
 ||a8clk.colone.cc^
-||a8clk.comeitto.com^
 ||a8clk.coreda.jp^
 ||a8clk.cp.favorina.com^
 ||a8clk.cp.formalklein.com^
@@ -463,6 +462,7 @@
 ||a8clk.hozon.sp-site.jp^
 ||a8clk.hurugicom.jp^
 ||a8clk.ias.il24.net^
+||a8clk.inakakon.jp^
 ||a8clk.info2.sunbridge.com^
 ||a8clk.jaf.or.jp^
 ||a8clk.janiking.jp^
@@ -550,6 +550,7 @@
 ||a8clk.point-museum.com^
 ||a8clk.point-stadium.com^
 ||a8clk.psd.jp^
+||a8clk.purekon.jp^
 ||a8clk.qracian365.com^
 ||a8clk.radianne.jp^
 ||a8clk.rarejob.com^
@@ -1041,6 +1042,7 @@
 ||a8cv.shokunosoyokaze.com^
 ||a8cv.shop.matsuo1956.jp^
 ||a8cv.shop.mintme.jp^
+||a8cv.shop.pixela.jp^
 ||a8cv.shop.solve-grp.com^
 ||a8cv.sibody.co.jp^
 ||a8cv.signalift.com^
@@ -1275,7 +1277,6 @@
 ||cv.cart.naturath.jp^
 ||cv.colleize.com^
 ||cv.cp-c21.com^
-||cv.dc-khs.com^
 ||cv.denkichoice.jp^
 ||cv.drive-hikari.net^
 ||cv.ev-navi.com^

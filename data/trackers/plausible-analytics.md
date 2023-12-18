@@ -44,7 +44,6 @@
 | analytics.hiome.com | custom.plausible.io |
 | analytics.kerns.co | custom.plausible.io |
 | analytics.krieselreihe.com | custom.plausible.io |
-| analytics.lifestyledemocracy.com | custom.plausible.io |
 | analytics.littlekingdesigns.com | custom.plausible.io |
 | analytics.lunge.de | custom.plausible.io |
 | analytics.mambaui.com | custom.plausible.io |
@@ -449,7 +448,6 @@
 | stats.caseydunham.com | custom.plausible.io |
 | stats.cassidyjames.com | custom.plausible.io |
 | stats.catholicluv.com | custom.plausible.io |
-| stats.centerforvalues.international | custom.plausible.io |
 | stats.centralswindonnorth-pc.gov.uk | custom.plausible.io |
 | stats.cfcasts.com | custom.plausible.io |
 | stats.chadly.net | custom.plausible.io |
@@ -648,7 +646,6 @@
 | stats.jun-etan.com | custom.plausible.io |
 | stats.juniperslab.com | custom.plausible.io |
 | stats.justinwilliams.ca | custom.plausible.io |
-| stats.jvhellemond.nl | custom.plausible.io |
 | stats.kaladyaudiology.com | custom.plausible.io |
 | stats.katharinascheitz.com | custom.plausible.io |
 | stats.keirwhitaker.com | custom.plausible.io |

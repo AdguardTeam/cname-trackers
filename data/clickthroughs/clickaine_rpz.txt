@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702281615158        ; Serial
+           1702886419864        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,6 +15,7 @@ $TTL 300
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
 aabclkane.bachelorarchive.com CNAME .
+ad.desibp.com CNAME .
 ad.erotikflix.com CNAME .
 adb.xfilm.me CNAME .
 ads.imgdesu.art CNAME .
@@ -124,7 +125,6 @@ wp.brandnewapp.pro CNAME .
 www.bokep.su CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
-www.xn--icn-hn0a.brandnewapp.pro CNAME .
 xd3r.javgg.eu CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .

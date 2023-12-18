@@ -170,6 +170,7 @@ tr.cclx.espmp-agfr.net
 tr.cdiscount.3wregie.com
 tr.ceeregion.moethennessy.com
 tr.christmas.petit-bateau.com
+tr.ciblexo.fr
 tr.cifa.espmp-nifr.net
 tr.cifa02b.espmp-aufr.net
 tr.cifa02d.espmp-aufr.net
@@ -594,6 +595,7 @@ tr.maisonsdumonde.com
 tr.marg02n.espmp-agfr.net
 tr.marketing.bordeauxgironde.cci.fr
 tr.marketing.comparadordeprestamos.es
+tr.marketing.fulli.com
 tr.marketing.tennaxia.com
 tr.marketing.younited-credit.com
 tr.marketing.younited-credit.es
@@ -635,7 +637,6 @@ tr.mp.aconclue-pro.com
 tr.mp.actu-pm.fr
 tr.mp.infomanageo.fr
 tr.mp.ld-man.fr
-tr.mpbroadcasts.co.uk
 tr.mrls.espmp-agfr.net
 tr.mydevisentreprise.com
 tr.n.ferrero.fr

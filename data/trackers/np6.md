@@ -191,6 +191,7 @@
 | tr.cdiscount.3wregie.com | tracking.bp01.net |
 | tr.ceeregion.moethennessy.com | tracking.bp01.net |
 | tr.christmas.petit-bateau.com | tracking.bp01.net |
+| tr.ciblexo.fr | tracking.bp01.net |
 | tr.cifa.espmp-nifr.net | tracking.bp01.net |
 | tr.cifa02b.espmp-aufr.net | tracking.bp01.net |
 | tr.cifa02d.espmp-aufr.net | tracking.bp01.net |
@@ -615,6 +616,7 @@
 | tr.marg02n.espmp-agfr.net | tracking.bp01.net |
 | tr.marketing.bordeauxgironde.cci.fr | tracking.bp01.net |
 | tr.marketing.comparadordeprestamos.es | tracking.bp01.net |
+| tr.marketing.fulli.com | tracking.bp01.net |
 | tr.marketing.tennaxia.com | tracking.bp01.net |
 | tr.marketing.younited-credit.com | tracking.bp01.net |
 | tr.marketing.younited-credit.es | tracking.bp01.net |
@@ -656,7 +658,6 @@
 | tr.mp.actu-pm.fr | tracking.bp01.net |
 | tr.mp.infomanageo.fr | tracking.bp01.net |
 | tr.mp.ld-man.fr | tracking.bp01.net |
-| tr.mpbroadcasts.co.uk | tracking.bp01.net |
 | tr.mrls.espmp-agfr.net | tracking.bp01.net |
 | tr.mydevisentreprise.com | tracking.bp01.net |
 | tr.n.ferrero.fr | tracking.bp01.net |

@@ -173,7 +173,6 @@ affiliate.jiristibor.cz
 affiliate.ketofit.sk
 affiliate.krmivopropsy.cz
 affiliate.kurzy-liecenia.sk
-affiliate.kutil.cz
 affiliate.ladylab.sk
 affiliate.lasamba.cz
 affiliate.lasun.cz
@@ -304,6 +303,7 @@ lhota.stanicezoo.cz
 login.affiliatesit.cz
 money.mioweb.cz
 my.11teamsports.bg
+my.11teamsports.com
 my.11teamsports.cz
 my.11teamsports.dk
 my.11teamsports.ee
@@ -405,6 +405,7 @@ my.weplayhandball.sk
 my.weplayvolleyball.bg
 my.weplayvolleyball.ch
 my.weplayvolleyball.cz
+my.weplayvolleyball.de
 my.weplayvolleyball.gr
 my.weplayvolleyball.ro
 my.weplayvolleyball.si
@@ -605,6 +606,7 @@ partner.ocuway.cz
 partner.olivie.cz
 partner.olivie.sk
 partner.olivum.cz
+partner.olo.cz
 partner.onlinepriznani.cz
 partner.onlinepriznanie.sk
 partner.ozogan.cz
@@ -641,6 +643,7 @@ partner.skiresort.cz
 partner.skolske-tasky.sk
 partner.sladkemameni.com
 partner.sladkyklub.cz
+partner.slimpasta.cz
 partner.slimpasta.sk
 partner.smoothiekniha.sk
 partner.spokojenypes.cz
@@ -751,7 +754,6 @@ partneri.keramika-dum.cz
 partneri.kerasek.cz
 partneri.kimgroup.cz
 partneri.kuptorazdva.cz
-partneri.kurzeo.com
 partneri.legalni-konopi.cz
 partneri.levne-barvy-laky.cz
 partneri.liborcinka.cz
@@ -819,6 +821,7 @@ partneri.variantbyznys.cz
 partneri.vashop.cz
 partneri.viadelicia.cz
 partneri.vitaon.cz
+partneri.volejbal.sk
 partneri.volny-termin.cz
 partneri.vyzvaproimunitu.cz
 partneri.way4life.cz
@@ -855,7 +858,6 @@ provize.mimulo.cz
 provize.pracenasobe.cz
 provize.radynacestu.cz
 provize.rychle-pujcky-bez-registru.cz
-provize.sperky.guru
 provize.vybavenifitness.cz
 provize.wugi.cz
 provize.zazitkovelety.cz

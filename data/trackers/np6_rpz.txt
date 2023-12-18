@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702281615158        ; Serial
+           1702886419864        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -181,6 +181,7 @@ tr.cclx.espmp-agfr.net CNAME .
 tr.cdiscount.3wregie.com CNAME .
 tr.ceeregion.moethennessy.com CNAME .
 tr.christmas.petit-bateau.com CNAME .
+tr.ciblexo.fr CNAME .
 tr.cifa.espmp-nifr.net CNAME .
 tr.cifa02b.espmp-aufr.net CNAME .
 tr.cifa02d.espmp-aufr.net CNAME .
@@ -605,6 +606,7 @@ tr.maisonsdumonde.com CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.bordeauxgironde.cci.fr CNAME .
 tr.marketing.comparadordeprestamos.es CNAME .
+tr.marketing.fulli.com CNAME .
 tr.marketing.tennaxia.com CNAME .
 tr.marketing.younited-credit.com CNAME .
 tr.marketing.younited-credit.es CNAME .
@@ -646,7 +648,6 @@ tr.mp.aconclue-pro.com CNAME .
 tr.mp.actu-pm.fr CNAME .
 tr.mp.infomanageo.fr CNAME .
 tr.mp.ld-man.fr CNAME .
-tr.mpbroadcasts.co.uk CNAME .
 tr.mrls.espmp-agfr.net CNAME .
 tr.mydevisentreprise.com CNAME .
 tr.n.ferrero.fr CNAME .

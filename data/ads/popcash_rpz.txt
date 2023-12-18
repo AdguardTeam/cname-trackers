@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702281615158        ; Serial
+           1702886419864        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 cdn.adevbom.com CNAME .
 cdn.adevppl.com CNAME .
 cdn.afwpc.com CNAME .
+cdn.agajx.com CNAME .
 cdn.almacz.com CNAME .
 cdn.alota.xyz CNAME .
 cdn.asce.xyz CNAME .
@@ -48,6 +49,7 @@ cdn.gecl.xyz CNAME .
 cdn.gelhp.com CNAME .
 cdn.genfpm.com CNAME .
 cdn.gocolow.com CNAME .
+cdn.gpcrn.com CNAME .
 cdn.hqwa.xyz CNAME .
 cdn.htkcm.com CNAME .
 cdn.ianjumb.com CNAME .
@@ -56,14 +58,17 @@ cdn.isgost.com CNAME .
 cdn.jandaqwe.com CNAME .
 cdn.jbtul.com CNAME .
 cdn.jeckear.com CNAME .
+cdn.jhkfd.com CNAME .
 cdn.jhoncj.com CNAME .
 cdn.jwalf.com CNAME .
 cdn.karpatzi.com CNAME .
 cdn.keajs.com CNAME .
+cdn.kfjhd.com CNAME .
 cdn.luxope.com CNAME .
 cdn.mafyak.com CNAME .
 cdn.masbpi.com CNAME .
 cdn.miluwo.com CNAME .
+cdn.mnhjk.com CNAME .
 cdn.mtinsqq.com CNAME .
 cdn.namol.xyz CNAME .
 cdn.nelhon.com CNAME .
@@ -72,9 +77,12 @@ cdn.norymo.com CNAME .
 cdn.npcta.xyz CNAME .
 cdn.nuqwe.com CNAME .
 cdn.olep.xyz CNAME .
+cdn.orjfun.com CNAME .
 cdn.ovqds.com CNAME .
 cdn.pctv.xyz CNAME .
+cdn.piuyt.com CNAME .
 cdn.pllah.com CNAME .
+cdn.plrst.com CNAME .
 cdn.posawaj.com CNAME .
 cdn.puyjjq.com CNAME .
 cdn.puysis.com CNAME .
@@ -84,6 +92,7 @@ cdn.rawqel.com CNAME .
 cdn.rgrd.xyz CNAME .
 cdn.roemoss.com CNAME .
 cdn.rofant.com CNAME .
+cdn.rqwel.com CNAME .
 cdn.sblhp.com CNAME .
 cdn.shakre.com CNAME .
 cdn.spnut.com CNAME .
@@ -97,6 +106,8 @@ cdn.viowrel.com CNAME .
 cdn.vonkol.com CNAME .
 cdn.wwfx.xyz CNAME .
 cdn.xbcpcn.com CNAME .
+cdn.xwqea.com CNAME .
+cdn.ytihp.com CNAME .
 cdn.zxclan.com CNAME .
 4ke5b4ila.codedge.de CNAME .
 7wrxo2xh.iriscreative.co CNAME .
@@ -278,7 +289,6 @@ cat.thisminute.app CNAME .
 cat.tinylittlebusinesses.com CNAME .
 cat.weddingsabroad.com CNAME .
 caterpilla.ibon.live CNAME .
-catfish.lasceneparisienne.com CNAME .
 catfish.lucalabs.com CNAME .
 catfish.sofatido.ch CNAME .
 catshark.janetalexandersson.com CNAME .
@@ -398,7 +408,6 @@ donkey.guggenbichler.co.at CNAME .
 donkey.hackoregon.org CNAME .
 donkey.kontematik.com CNAME .
 donkey.oncarbon.app CNAME .
-donkey.routinehub.co CNAME .
 donkey.the3rd.place CNAME .
 dormouse.consentkit.com CNAME .
 dove.hoku.nz CNAME .
@@ -423,7 +432,6 @@ eel.beekeeperstudio.io CNAME .
 eel.cuabuilders.com CNAME .
 eel.tunspress.com CNAME .
 egret.brothers.studio CNAME .
-egret.friendships.me CNAME .
 elephant.superdense.com CNAME .
 elk.andrewfomera.com CNAME .
 elk.itiden.se CNAME .
@@ -797,7 +805,6 @@ panther.atgonlinecoaching.com CNAME .
 panther.codyhatfield.me CNAME .
 panther.essentialwellnessyoga.com.au CNAME .
 panther.hoprnet.org CNAME .
-panther.pit-pit.com CNAME .
 panther.thestocks.im CNAME .
 panther.tigil.rs CNAME .
 parakeet.quotetweet.com CNAME .
@@ -806,7 +813,6 @@ parrot.ohdear.app CNAME .
 parrotfish.thenping.me CNAME .
 parrotfish.wilderworld.com CNAME .
 parrotfish.wus.immo CNAME .
-partridge.flooint.com CNAME .
 peacock.psych.help CNAME .
 peafowl.projectstrackt.dev CNAME .
 penguin.craftpeak.io CNAME .
@@ -846,11 +852,11 @@ porcupine.simpleprax.de CNAME .
 porpoise.azettl.net CNAME .
 porpoise.deschtimes.com CNAME .
 porpoise.fruittreecottage.com.au CNAME .
+porpoise.groupcalendar.app CNAME .
 porpoise.jackwhiting.co.uk CNAME .
 porpoise.kristinholl.com CNAME .
 porpoise.numberzs.com CNAME .
 prairiedog.hashnode.com CNAME .
-prawn.coding-friends.com CNAME .
 prawn.fffuel.co CNAME .
 prawn.lionsmouth.digital CNAME .
 prawn.samgarson.com CNAME .
@@ -1140,6 +1146,7 @@ sponsors-v2.automate.org CNAME .
 sponsors-v2.floorforce.com CNAME .
 sponsors-v2.locablepublishernetwork.com CNAME .
 sponsors-v2.urbanistnetwork.com CNAME .
+sponsors.bicmagazine.com CNAME .
 sponsors.floorforce.com CNAME .
 sponsors.macaronikid.com CNAME .
 sponsors.oaklandcountymoms.com CNAME .
@@ -1161,6 +1168,7 @@ consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .
 egybests.7all.net CNAME .
+img.7xixi.site CNAME .
 live-tag.creatopy.net CNAME .
 log.ads-m.net CNAME .
 sp.cleaningkeepers.com CNAME .
@@ -1169,3 +1177,4 @@ sp.lenspk.com CNAME .
 sp.theladyshop.pk CNAME .
 static.netfly.fun CNAME .
 static.nfly.cc CNAME .
+static.xlyyzx.sbs CNAME .

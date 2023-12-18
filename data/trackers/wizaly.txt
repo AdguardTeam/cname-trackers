@@ -64,6 +64,8 @@
 ||tk.airfrance.vn^
 ||tk.alexandermcqueen.com^
 ||tk.apprentis-auteuil.org^
+||tk.assurland.com^
+||tk.assurlandpro.com^
 ||tk.atol.fr^
 ||tk.balenciaga.com^
 ||tk.biovea.com^
@@ -113,6 +115,7 @@
 ||tk.moveyourfit.com^
 ||tk.msccruises.com^
 ||tk.nhlottery.com^
+||tk.opinion-assurances.fr^
 ||tk.petit-bateau.be^
 ||tk.petit-bateau.co.uk^
 ||tk.petit-bateau.de^
@@ -139,6 +142,7 @@
 ||tk.transavia.com^
 ||tk.ultrapremiumdirect.com^
 ||tk.undiz.com^
+||tk.verisure.fr^
 ||tk.viapresse.com^
 ||tk.zenpark.com^
 ||tracking-test.esearchvision.com^

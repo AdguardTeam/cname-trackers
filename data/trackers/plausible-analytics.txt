@@ -32,7 +32,6 @@
 ||analytics.hiome.com^
 ||analytics.kerns.co^
 ||analytics.krieselreihe.com^
-||analytics.lifestyledemocracy.com^
 ||analytics.littlekingdesigns.com^
 ||analytics.lunge.de^
 ||analytics.mambaui.com^
@@ -437,7 +436,6 @@
 ||stats.caseydunham.com^
 ||stats.cassidyjames.com^
 ||stats.catholicluv.com^
-||stats.centerforvalues.international^
 ||stats.centralswindonnorth-pc.gov.uk^
 ||stats.cfcasts.com^
 ||stats.chadly.net^
@@ -636,7 +634,6 @@
 ||stats.jun-etan.com^
 ||stats.juniperslab.com^
 ||stats.justinwilliams.ca^
-||stats.jvhellemond.nl^
 ||stats.kaladyaudiology.com^
 ||stats.katharinascheitz.com^
 ||stats.keirwhitaker.com^

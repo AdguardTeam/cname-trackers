@@ -31,12 +31,14 @@
     * te-sheego-de.oghub.io
     * te-sieh-an-at.oghub.io
     * te-sieh-an-ch.oghub.io
+    * te-sieh-an-de.oghub.io
     * te-universal-at.oghub.io
     * te-waeschepur-de.oghub.io
     * te-witt-international-cz.oghub.io
     * te-witt-international-nl.oghub.io
     * te-witt-international-sk.oghub.io
     * te-witt-weiden-at.oghub.io
+    * te-witt-weiden-ch.oghub.io
     * te-witt-weiden-de.oghub.io
     * te-yomonda-de.oghub.io
     * te-your-look-for-less-nl.oghub.io
@@ -61,8 +63,10 @@
     * tp-ottoversand-at.oghub.io
     * tp-quelle-de.oghub.io
     * tp-sheego-de.oghub.io
+    * tp-sieh-an-at.oghub.io
     * tp-universal-at.oghub.io
     * tp-witt-international-cz.oghub.io
+    * tp-witt-international-nl.oghub.io
     * tp-witt-international-sk.oghub.io
     * tp-witt-weiden-at.oghub.io
     * tp-witt-weiden-de.oghub.io
@@ -110,6 +114,7 @@
 | tp.universal.at | js.oghub.io |
 | tp.witt-international.cz | js.oghub.io |
 | tp.witt-international.nl | js.oghub.io |
+| tp.witt-international.nl | js.oghub.io |
 | tp.witt-international.sk | js.oghub.io |
 | tp.witt-weiden.at | js.oghub.io |
 | tp.witt-weiden.at | js.oghub.io |
@@ -149,12 +154,14 @@
 | te.sheego.de | te-sheego-de.oghub.io |
 | te.sieh-an.at | te-sieh-an-at.oghub.io |
 | te.sieh-an.ch | te-sieh-an-ch.oghub.io |
+| te.sieh-an.de | te-sieh-an-de.oghub.io |
 | te.universal.at | te-universal-at.oghub.io |
 | te.waeschepur.de | te-waeschepur-de.oghub.io |
 | te.witt-international.cz | te-witt-international-cz.oghub.io |
 | te.witt-international.nl | te-witt-international-nl.oghub.io |
 | te.witt-international.sk | te-witt-international-sk.oghub.io |
 | te.witt-weiden.at | te-witt-weiden-at.oghub.io |
+| te.witt-weiden.ch | te-witt-weiden-ch.oghub.io |
 | te.witt-weiden.de | te-witt-weiden-de.oghub.io |
 | te.yomonda.de | te-yomonda-de.oghub.io |
 | te.your-look-for-less.nl | te-your-look-for-less-nl.oghub.io |
@@ -226,8 +233,10 @@
 | tp.ottoversand.at | tp-ottoversand-at.oghub.io |
 | tp.quelle.de | tp-quelle-de.oghub.io |
 | tp.sheego.de | tp-sheego-de.oghub.io |
+| tp.sieh-an.at | tp-sieh-an-at.oghub.io |
 | tp.universal.at | tp-universal-at.oghub.io |
 | tp.witt-international.cz | tp-witt-international-cz.oghub.io |
+| tp.witt-international.nl | tp-witt-international-nl.oghub.io |
 | tp.witt-international.sk | tp-witt-international-sk.oghub.io |
 | tp.witt-weiden.at | tp-witt-weiden-at.oghub.io |
 | tp.witt-weiden.de | tp-witt-weiden-de.oghub.io |

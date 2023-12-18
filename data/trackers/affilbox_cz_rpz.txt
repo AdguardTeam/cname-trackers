@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702281615158        ; Serial
+           1702886419864        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -184,7 +184,6 @@ affiliate.jiristibor.cz CNAME .
 affiliate.ketofit.sk CNAME .
 affiliate.krmivopropsy.cz CNAME .
 affiliate.kurzy-liecenia.sk CNAME .
-affiliate.kutil.cz CNAME .
 affiliate.ladylab.sk CNAME .
 affiliate.lasamba.cz CNAME .
 affiliate.lasun.cz CNAME .
@@ -315,6 +314,7 @@ lhota.stanicezoo.cz CNAME .
 login.affiliatesit.cz CNAME .
 money.mioweb.cz CNAME .
 my.11teamsports.bg CNAME .
+my.11teamsports.com CNAME .
 my.11teamsports.cz CNAME .
 my.11teamsports.dk CNAME .
 my.11teamsports.ee CNAME .
@@ -416,6 +416,7 @@ my.weplayhandball.sk CNAME .
 my.weplayvolleyball.bg CNAME .
 my.weplayvolleyball.ch CNAME .
 my.weplayvolleyball.cz CNAME .
+my.weplayvolleyball.de CNAME .
 my.weplayvolleyball.gr CNAME .
 my.weplayvolleyball.ro CNAME .
 my.weplayvolleyball.si CNAME .
@@ -616,6 +617,7 @@ partner.ocuway.cz CNAME .
 partner.olivie.cz CNAME .
 partner.olivie.sk CNAME .
 partner.olivum.cz CNAME .
+partner.olo.cz CNAME .
 partner.onlinepriznani.cz CNAME .
 partner.onlinepriznanie.sk CNAME .
 partner.ozogan.cz CNAME .
@@ -652,6 +654,7 @@ partner.skiresort.cz CNAME .
 partner.skolske-tasky.sk CNAME .
 partner.sladkemameni.com CNAME .
 partner.sladkyklub.cz CNAME .
+partner.slimpasta.cz CNAME .
 partner.slimpasta.sk CNAME .
 partner.smoothiekniha.sk CNAME .
 partner.spokojenypes.cz CNAME .
@@ -762,7 +765,6 @@ partneri.keramika-dum.cz CNAME .
 partneri.kerasek.cz CNAME .
 partneri.kimgroup.cz CNAME .
 partneri.kuptorazdva.cz CNAME .
-partneri.kurzeo.com CNAME .
 partneri.legalni-konopi.cz CNAME .
 partneri.levne-barvy-laky.cz CNAME .
 partneri.liborcinka.cz CNAME .
@@ -830,6 +832,7 @@ partneri.variantbyznys.cz CNAME .
 partneri.vashop.cz CNAME .
 partneri.viadelicia.cz CNAME .
 partneri.vitaon.cz CNAME .
+partneri.volejbal.sk CNAME .
 partneri.volny-termin.cz CNAME .
 partneri.vyzvaproimunitu.cz CNAME .
 partneri.way4life.cz CNAME .
@@ -866,7 +869,6 @@ provize.mimulo.cz CNAME .
 provize.pracenasobe.cz CNAME .
 provize.radynacestu.cz CNAME .
 provize.rychle-pujcky-bez-registru.cz CNAME .
-provize.sperky.guru CNAME .
 provize.vybavenifitness.cz CNAME .
 provize.wugi.cz CNAME .
 provize.zazitkovelety.cz CNAME .

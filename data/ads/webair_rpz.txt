@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702281615158        ; Serial
+           1702886419864        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,7 +22,6 @@ adserver.catapultx.com CNAME .
 advertise.admetix.com CNAME .
 ak-tracker.com CNAME .
 akxml.nativeadsfeed.com CNAME .
-app.torchad.com CNAME .
 apple-val.looksmart.com CNAME .
 beta.ad-maven.com CNAME .
 beta.adkernel.com CNAME .
@@ -44,7 +43,6 @@ click-rtb2-apac.xaprio.net CNAME .
 click-rtb2-eu.afkwa.com CNAME .
 click-rtb2-eu.convergeselect.net CNAME .
 click-rtb2-eu.e-volution.ai CNAME .
-click-rtb2-eu.torchad.com CNAME .
 click-rtb2-eu.waardex.com CNAME .
 click-rtb2-eu.xaprio.net CNAME .
 click-rtb2-useast.adsync.global CNAME .
@@ -108,7 +106,6 @@ cpm.digitalpiee.com CNAME .
 cpm.entravision.com CNAME .
 cpm.ergadx.com CNAME .
 cpm.ezmob.com CNAME .
-cpm.fastmtn.com CNAME .
 cpm.felixads.com CNAME .
 cpm.fmlabsonline.com CNAME .
 cpm.foremedia.net CNAME .
@@ -194,7 +191,6 @@ filter-eu.topsolutionsmedia.com CNAME .
 filter-eu.trafficmoose.com CNAME .
 filter.80xmedia.com CNAME .
 filter.acertb.com CNAME .
-filter.adcannybid.com CNAME .
 filter.adcannyxml.com CNAME .
 filter.adcy.net CNAME .
 filter.adflores.com CNAME .
@@ -263,6 +259,7 @@ filter.finevisit.com CNAME .
 filter.flairadscpc.com CNAME .
 filter.flurryad.com CNAME .
 filter.fstsrv4.com CNAME .
+filter.fstsrv6.com CNAME .
 filter.globlemath.com CNAME .
 filter.goclickz.net CNAME .
 filter.groovyadz.com CNAME .
@@ -668,7 +665,6 @@ rtb2-eu.jambojar.com CNAME .
 rtb2-eu.newchallenges-dsp.com CNAME .
 rtb2-eu.programmatics.net CNAME .
 rtb2-eu.thecdn.site CNAME .
-rtb2-eu.torchad.com CNAME .
 rtb2-eu.waardex.com CNAME .
 rtb2-eu.xaprio.net CNAME .
 rtb2-useast.a8dsp.com CNAME .
@@ -748,6 +744,7 @@ vid-rtb-india.xapads.com CNAME .
 vid-rtb-sg.xapads.com CNAME .
 vid-rtb-uswest.xapads.com CNAME .
 vid-rtb.xapads.com CNAME .
+vid-static.xapads.com CNAME .
 vsv-val.looksmart.com CNAME .
 webferret-val.looksmart.com CNAME .
 webpush.adjux.com CNAME .
@@ -769,7 +766,6 @@ win-rtb2-apac.userwave.com CNAME .
 win-rtb2-apac.xaprio.net CNAME .
 win-rtb2-eu.e-volution.ai CNAME .
 win-rtb2-eu.programmatics.net CNAME .
-win-rtb2-eu.torchad.com CNAME .
 win-rtb2-eu.userwave.com CNAME .
 win-rtb2-eu.webtradingspot.com CNAME .
 win-rtb2-eu.xaprio.net CNAME .
@@ -778,7 +774,6 @@ win-rtb2-useast.afkwa.com CNAME .
 win-rtb2-useast.assemblyexchange.com CNAME .
 win-rtb2-useast.e-volution.ai CNAME .
 win-rtb2-useast.programmatics.net CNAME .
-win-rtb2-useast.torchad.com CNAME .
 win-rtb2-useast.userwave.com CNAME .
 win-rtb2-useast.waardex.com CNAME .
 win-rtb2-useast.webithr.com CNAME .
@@ -847,7 +842,6 @@ xml-eu.bidmyadz.com CNAME .
 xml-eu.blueparrot.media CNAME .
 xml-eu.explorefast-1.com CNAME .
 xml-eu.ezmob.com CNAME .
-xml-eu.fastmtn.com CNAME .
 xml-eu.flairadscpc.com CNAME .
 xml-eu.foremedia.net CNAME .
 xml-eu.frdjs-1.co CNAME .
@@ -932,7 +926,6 @@ xml.80xmedia.com CNAME .
 xml.9dotsmedia.com CNAME .
 xml.acertb.com CNAME .
 xml.ad-maven.com CNAME .
-xml.adcannybid.com CNAME .
 xml.adcannyxml.com CNAME .
 xml.adcy.net CNAME .
 xml.additionalmedia.com CNAME .
@@ -1016,7 +1009,6 @@ xml.expplatdirect.com CNAME .
 xml.ezmob.com CNAME .
 xml.fastdlx.info CNAME .
 xml.fastdlx.net CNAME .
-xml.fastmtn.com CNAME .
 xml.finevisit.com CNAME .
 xml.flairads.com CNAME .
 xml.flairadscpc.com CNAME .
@@ -1139,5 +1131,4 @@ xmlv4-eu.mobuppsrtb.com CNAME .
 xmlv4.chameleostudios.com CNAME .
 xmlv4.mobuppsrtb.com CNAME .
 xmlv4.reklama.network CNAME .
-vid-static.xapads.com CNAME .
 static.rtb-serve.com CNAME .

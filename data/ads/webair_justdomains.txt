@@ -11,7 +11,6 @@ adserver.catapultx.com
 advertise.admetix.com
 ak-tracker.com
 akxml.nativeadsfeed.com
-app.torchad.com
 apple-val.looksmart.com
 beta.ad-maven.com
 beta.adkernel.com
@@ -33,7 +32,6 @@ click-rtb2-apac.xaprio.net
 click-rtb2-eu.afkwa.com
 click-rtb2-eu.convergeselect.net
 click-rtb2-eu.e-volution.ai
-click-rtb2-eu.torchad.com
 click-rtb2-eu.waardex.com
 click-rtb2-eu.xaprio.net
 click-rtb2-useast.adsync.global
@@ -97,7 +95,6 @@ cpm.digitalpiee.com
 cpm.entravision.com
 cpm.ergadx.com
 cpm.ezmob.com
-cpm.fastmtn.com
 cpm.felixads.com
 cpm.fmlabsonline.com
 cpm.foremedia.net
@@ -183,7 +180,6 @@ filter-eu.topsolutionsmedia.com
 filter-eu.trafficmoose.com
 filter.80xmedia.com
 filter.acertb.com
-filter.adcannybid.com
 filter.adcannyxml.com
 filter.adcy.net
 filter.adflores.com
@@ -252,6 +248,7 @@ filter.finevisit.com
 filter.flairadscpc.com
 filter.flurryad.com
 filter.fstsrv4.com
+filter.fstsrv6.com
 filter.globlemath.com
 filter.goclickz.net
 filter.groovyadz.com
@@ -657,7 +654,6 @@ rtb2-eu.jambojar.com
 rtb2-eu.newchallenges-dsp.com
 rtb2-eu.programmatics.net
 rtb2-eu.thecdn.site
-rtb2-eu.torchad.com
 rtb2-eu.waardex.com
 rtb2-eu.xaprio.net
 rtb2-useast.a8dsp.com
@@ -737,6 +733,7 @@ vid-rtb-india.xapads.com
 vid-rtb-sg.xapads.com
 vid-rtb-uswest.xapads.com
 vid-rtb.xapads.com
+vid-static.xapads.com
 vsv-val.looksmart.com
 webferret-val.looksmart.com
 webpush.adjux.com
@@ -758,7 +755,6 @@ win-rtb2-apac.userwave.com
 win-rtb2-apac.xaprio.net
 win-rtb2-eu.e-volution.ai
 win-rtb2-eu.programmatics.net
-win-rtb2-eu.torchad.com
 win-rtb2-eu.userwave.com
 win-rtb2-eu.webtradingspot.com
 win-rtb2-eu.xaprio.net
@@ -767,7 +763,6 @@ win-rtb2-useast.afkwa.com
 win-rtb2-useast.assemblyexchange.com
 win-rtb2-useast.e-volution.ai
 win-rtb2-useast.programmatics.net
-win-rtb2-useast.torchad.com
 win-rtb2-useast.userwave.com
 win-rtb2-useast.waardex.com
 win-rtb2-useast.webithr.com
@@ -836,7 +831,6 @@ xml-eu.bidmyadz.com
 xml-eu.blueparrot.media
 xml-eu.explorefast-1.com
 xml-eu.ezmob.com
-xml-eu.fastmtn.com
 xml-eu.flairadscpc.com
 xml-eu.foremedia.net
 xml-eu.frdjs-1.co
@@ -921,7 +915,6 @@ xml.80xmedia.com
 xml.9dotsmedia.com
 xml.acertb.com
 xml.ad-maven.com
-xml.adcannybid.com
 xml.adcannyxml.com
 xml.adcy.net
 xml.additionalmedia.com
@@ -1005,7 +998,6 @@ xml.expplatdirect.com
 xml.ezmob.com
 xml.fastdlx.info
 xml.fastdlx.net
-xml.fastmtn.com
 xml.finevisit.com
 xml.flairads.com
 xml.flairadscpc.com
@@ -1128,5 +1120,4 @@ xmlv4-eu.mobuppsrtb.com
 xmlv4.chameleostudios.com
 xmlv4.mobuppsrtb.com
 xmlv4.reklama.network
-vid-static.xapads.com
 static.rtb-serve.com

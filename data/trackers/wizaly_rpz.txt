@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702281615158        ; Serial
+           1702886419864        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -75,6 +75,8 @@ tk.airfrance.us CNAME .
 tk.airfrance.vn CNAME .
 tk.alexandermcqueen.com CNAME .
 tk.apprentis-auteuil.org CNAME .
+tk.assurland.com CNAME .
+tk.assurlandpro.com CNAME .
 tk.atol.fr CNAME .
 tk.balenciaga.com CNAME .
 tk.biovea.com CNAME .
@@ -124,6 +126,7 @@ tk.manouvellevoiture.com CNAME .
 tk.moveyourfit.com CNAME .
 tk.msccruises.com CNAME .
 tk.nhlottery.com CNAME .
+tk.opinion-assurances.fr CNAME .
 tk.petit-bateau.be CNAME .
 tk.petit-bateau.co.uk CNAME .
 tk.petit-bateau.de CNAME .
@@ -150,6 +153,7 @@ tk.tikamoon.nl CNAME .
 tk.transavia.com CNAME .
 tk.ultrapremiumdirect.com CNAME .
 tk.undiz.com CNAME .
+tk.verisure.fr CNAME .
 tk.viapresse.com CNAME .
 tk.zenpark.com CNAME .
 tracking-test.esearchvision.com CNAME .

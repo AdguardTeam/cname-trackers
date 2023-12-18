@@ -412,7 +412,6 @@
 | a8clk.cleaneo.jp | trck.a8.net |
 | a8clk.cocorotherapy.com | trck.a8.net |
 | a8clk.colone.cc | trck.a8.net |
-| a8clk.comeitto.com | trck.a8.net |
 | a8clk.cp.favorina.com | trck.a8.net |
 | a8clk.cp.formalklein.com | trck.a8.net |
 | a8clk.crefus.com | trck.a8.net |
@@ -475,6 +474,7 @@
 | a8clk.hozon.sp-site.jp | trck.a8.net |
 | a8clk.hurugicom.jp | trck.a8.net |
 | a8clk.ias.il24.net | trck.a8.net |
+| a8clk.inakakon.jp | trck.a8.net |
 | a8clk.info2.sunbridge.com | trck.a8.net |
 | a8clk.jaf.or.jp | trck.a8.net |
 | a8clk.janiking.jp | trck.a8.net |
@@ -562,6 +562,7 @@
 | a8clk.point-museum.com | trck.a8.net |
 | a8clk.point-stadium.com | trck.a8.net |
 | a8clk.psd.jp | trck.a8.net |
+| a8clk.purekon.jp | trck.a8.net |
 | a8clk.qracian365.com | trck.a8.net |
 | a8clk.radianne.jp | trck.a8.net |
 | a8clk.rarejob.com | trck.a8.net |
@@ -1053,6 +1054,7 @@
 | a8cv.shokunosoyokaze.com | trck.a8.net |
 | a8cv.shop.matsuo1956.jp | trck.a8.net |
 | a8cv.shop.mintme.jp | trck.a8.net |
+| a8cv.shop.pixela.jp | trck.a8.net |
 | a8cv.shop.solve-grp.com | trck.a8.net |
 | a8cv.sibody.co.jp | trck.a8.net |
 | a8cv.signalift.com | trck.a8.net |
@@ -1287,7 +1289,6 @@
 | cv.cart.naturath.jp | trck.a8.net |
 | cv.colleize.com | trck.a8.net |
 | cv.cp-c21.com | trck.a8.net |
-| cv.dc-khs.com | trck.a8.net |
 | cv.denkichoice.jp | trck.a8.net |
 | cv.drive-hikari.net | trck.a8.net |
 | cv.ev-navi.com | trck.a8.net |

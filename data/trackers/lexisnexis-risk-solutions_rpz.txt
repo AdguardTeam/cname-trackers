@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702281615158        ; Serial
+           1702886419864        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,6 +31,7 @@ analytics.triseptsolutions.com CNAME .
 analytics.vacations.united.com CNAME .
 analytics.vaxvacationaccess.com CNAME .
 analytics.vodafone.com.au CNAME .
+analyze.central1.cc CNAME .
 api.v1.threatmetrix.space.ge CNAME .
 api1.sfcu.org CNAME .
 apicorporativops.portoseguro.com.br CNAME .
@@ -256,7 +257,6 @@ content.mabanquepro.bnpparibas CNAME .
 content.marks.com CNAME .
 content.massmutual.com CNAME .
 content.maxconnector.com CNAME .
-content.moneza.lv CNAME .
 content.moneza.ru CNAME .
 content.moni.com.ar CNAME .
 content.myonlyid.com CNAME .
@@ -411,6 +411,7 @@ dol-reemployme-js01.maine.gov CNAME .
 donor.cafamerica.org CNAME .
 dp.barclaycardus.com CNAME .
 dp.barclaysus.com CNAME .
+dp.lottogo.com CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
 dt.payla.io CNAME .
@@ -425,7 +426,6 @@ ex.exnessstats.com CNAME .
 faas.2dehands.be CNAME .
 faas.2ememain.be CNAME .
 faas.marktplaats.nl CNAME .
-fdbplnd.zootweb.com CNAME .
 fdts.ebay-kleinanzeigen.de CNAME .
 fms.perahub.com.ph CNAME .
 fnvma.milanuncios.com CNAME .
@@ -520,6 +520,7 @@ irmp.caa.com CNAME .
 ivaacontent.ers.ga.gov CNAME .
 jj203.equitablebank.ca CNAME .
 jplspr.jackpot.com CNAME .
+jpubs.zodia.io CNAME .
 jytrnq.cm-cic.com CNAME .
 kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
@@ -738,6 +739,7 @@ secure.jumia.dz CNAME .
 secure.jumia.ma CNAME .
 secure.jumia.sn CNAME .
 secure.jumia.ug CNAME .
+secure.meine.santander.de CNAME .
 secure.rtrcdn.com CNAME .
 secure.zando.co.za CNAME .
 secure3.segpay.com CNAME .

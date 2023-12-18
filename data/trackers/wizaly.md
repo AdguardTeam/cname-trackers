@@ -10,6 +10,7 @@
     * tk-aircaraibes-com.wizaly.com
     * tk-alexandermcqueen-com.wizaly.com
     * tk-apprentis-auteuil-com.wizaly.com
+    * tk-assurland-com.wizaly.com
     * tk-atol-fr.wizaly.com
     * tk-balenciaga-com.wizaly.com
     * tk-biovea-com.wizaly.com
@@ -62,6 +63,7 @@
     * tk-tikamoon-com.wizaly.com
     * tk-ultrapremiumdirect-com.wizaly.com
     * tk-undiz-com.wizaly.com
+    * tk-verisure-fr.wizaly.com
     * tk-viapresse-com.wizaly.com
     * tk-zenpark-com.wizaly.com
     * tk_prismashop_fr.wizaly.com
@@ -88,6 +90,9 @@
 | tk.aircaraibes.com | tk-aircaraibes-com.wizaly.com |
 | tk.alexandermcqueen.com | tk-alexandermcqueen-com.wizaly.com |
 | tk.apprentis-auteuil.org | tk-apprentis-auteuil-com.wizaly.com |
+| tk.assurland.com | tk-assurland-com.wizaly.com |
+| tk.assurlandpro.com | tk-assurland-com.wizaly.com |
+| tk.opinion-assurances.fr | tk-assurland-com.wizaly.com |
 | tk.atol.fr | tk-atol-fr.wizaly.com |
 | tk.balenciaga.com | tk-balenciaga-com.wizaly.com |
 | tk.biovea.com | tk-biovea-com.wizaly.com |
@@ -159,6 +164,7 @@
 | tk.tikamoon.nl | tk-tikamoon-com.wizaly.com |
 | tk.ultrapremiumdirect.com | tk-ultrapremiumdirect-com.wizaly.com |
 | tk.undiz.com | tk-undiz-com.wizaly.com |
+| tk.verisure.fr | tk-verisure-fr.wizaly.com |
 | tk.viapresse.com | tk-viapresse-com.wizaly.com |
 | tk.zenpark.com | tk-zenpark-com.wizaly.com |
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |

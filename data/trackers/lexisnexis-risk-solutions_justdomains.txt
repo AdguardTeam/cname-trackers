@@ -20,6 +20,7 @@ analytics.triseptsolutions.com
 analytics.vacations.united.com
 analytics.vaxvacationaccess.com
 analytics.vodafone.com.au
+analyze.central1.cc
 api.v1.threatmetrix.space.ge
 api1.sfcu.org
 apicorporativops.portoseguro.com.br
@@ -245,7 +246,6 @@ content.mabanquepro.bnpparibas
 content.marks.com
 content.massmutual.com
 content.maxconnector.com
-content.moneza.lv
 content.moneza.ru
 content.moni.com.ar
 content.myonlyid.com
@@ -400,6 +400,7 @@ dol-reemployme-js01.maine.gov
 donor.cafamerica.org
 dp.barclaycardus.com
 dp.barclaysus.com
+dp.lottogo.com
 dpf.authorize.net
 drfdisvc.walmart.com
 dt.payla.io
@@ -414,7 +415,6 @@ ex.exnessstats.com
 faas.2dehands.be
 faas.2ememain.be
 faas.marktplaats.nl
-fdbplnd.zootweb.com
 fdts.ebay-kleinanzeigen.de
 fms.perahub.com.ph
 fnvma.milanuncios.com
@@ -509,6 +509,7 @@ irmp.caa.com
 ivaacontent.ers.ga.gov
 jj203.equitablebank.ca
 jplspr.jackpot.com
+jpubs.zodia.io
 jytrnq.cm-cic.com
 kyc.usend.com
 lab4.lloydsbank.com
@@ -727,6 +728,7 @@ secure.jumia.dz
 secure.jumia.ma
 secure.jumia.sn
 secure.jumia.ug
+secure.meine.santander.de
 secure.rtrcdn.com
 secure.zando.co.za
 secure3.segpay.com

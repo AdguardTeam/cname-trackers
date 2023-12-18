@@ -50,6 +50,7 @@
 | sponsors-v2.floorforce.com | bs-adserver.b-cdn.net |
 | sponsors-v2.locablepublishernetwork.com | bs-adserver.b-cdn.net |
 | sponsors-v2.urbanistnetwork.com | bs-adserver.b-cdn.net |
+| sponsors.bicmagazine.com | bs-adserver.b-cdn.net |
 | sponsors.floorforce.com | bs-adserver.b-cdn.net |
 | sponsors.macaronikid.com | bs-adserver.b-cdn.net |
 | sponsors.oaklandcountymoms.com | bs-adserver.b-cdn.net |
@@ -240,7 +241,6 @@
 | cat.tinylittlebusinesses.com | deprecated-custom-domains.b-cdn.net |
 | cat.weddingsabroad.com | deprecated-custom-domains.b-cdn.net |
 | caterpilla.ibon.live | deprecated-custom-domains.b-cdn.net |
-| catfish.lasceneparisienne.com | deprecated-custom-domains.b-cdn.net |
 | catfish.lucalabs.com | deprecated-custom-domains.b-cdn.net |
 | catfish.sofatido.ch | deprecated-custom-domains.b-cdn.net |
 | catshark.janetalexandersson.com | deprecated-custom-domains.b-cdn.net |
@@ -360,7 +360,6 @@
 | donkey.hackoregon.org | deprecated-custom-domains.b-cdn.net |
 | donkey.kontematik.com | deprecated-custom-domains.b-cdn.net |
 | donkey.oncarbon.app | deprecated-custom-domains.b-cdn.net |
-| donkey.routinehub.co | deprecated-custom-domains.b-cdn.net |
 | donkey.the3rd.place | deprecated-custom-domains.b-cdn.net |
 | dormouse.consentkit.com | deprecated-custom-domains.b-cdn.net |
 | dove.hoku.nz | deprecated-custom-domains.b-cdn.net |
@@ -385,7 +384,6 @@
 | eel.cuabuilders.com | deprecated-custom-domains.b-cdn.net |
 | eel.tunspress.com | deprecated-custom-domains.b-cdn.net |
 | egret.brothers.studio | deprecated-custom-domains.b-cdn.net |
-| egret.friendships.me | deprecated-custom-domains.b-cdn.net |
 | elephant.superdense.com | deprecated-custom-domains.b-cdn.net |
 | elk.andrewfomera.com | deprecated-custom-domains.b-cdn.net |
 | elk.itiden.se | deprecated-custom-domains.b-cdn.net |
@@ -759,7 +757,6 @@
 | panther.codyhatfield.me | deprecated-custom-domains.b-cdn.net |
 | panther.essentialwellnessyoga.com.au | deprecated-custom-domains.b-cdn.net |
 | panther.hoprnet.org | deprecated-custom-domains.b-cdn.net |
-| panther.pit-pit.com | deprecated-custom-domains.b-cdn.net |
 | panther.thestocks.im | deprecated-custom-domains.b-cdn.net |
 | panther.tigil.rs | deprecated-custom-domains.b-cdn.net |
 | parakeet.quotetweet.com | deprecated-custom-domains.b-cdn.net |
@@ -768,7 +765,6 @@
 | parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wilderworld.com | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wus.immo | deprecated-custom-domains.b-cdn.net |
-| partridge.flooint.com | deprecated-custom-domains.b-cdn.net |
 | peacock.psych.help | deprecated-custom-domains.b-cdn.net |
 | peafowl.projectstrackt.dev | deprecated-custom-domains.b-cdn.net |
 | penguin.craftpeak.io | deprecated-custom-domains.b-cdn.net |
@@ -808,11 +804,11 @@
 | porpoise.azettl.net | deprecated-custom-domains.b-cdn.net |
 | porpoise.deschtimes.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.fruittreecottage.com.au | deprecated-custom-domains.b-cdn.net |
+| porpoise.groupcalendar.app | deprecated-custom-domains.b-cdn.net |
 | porpoise.jackwhiting.co.uk | deprecated-custom-domains.b-cdn.net |
 | porpoise.kristinholl.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.numberzs.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.hashnode.com | deprecated-custom-domains.b-cdn.net |
-| prawn.coding-friends.com | deprecated-custom-domains.b-cdn.net |
 | prawn.fffuel.co | deprecated-custom-domains.b-cdn.net |
 | prawn.lionsmouth.digital | deprecated-custom-domains.b-cdn.net |
 | prawn.samgarson.com | deprecated-custom-domains.b-cdn.net |
@@ -1087,6 +1083,7 @@
 | cdn.adevbom.com | popcashjs.b-cdn.net |
 | cdn.adevppl.com | popcashjs.b-cdn.net |
 | cdn.afwpc.com | popcashjs.b-cdn.net |
+| cdn.agajx.com | popcashjs.b-cdn.net |
 | cdn.almacz.com | popcashjs.b-cdn.net |
 | cdn.alota.xyz | popcashjs.b-cdn.net |
 | cdn.asce.xyz | popcashjs.b-cdn.net |
@@ -1121,6 +1118,7 @@
 | cdn.gelhp.com | popcashjs.b-cdn.net |
 | cdn.genfpm.com | popcashjs.b-cdn.net |
 | cdn.gocolow.com | popcashjs.b-cdn.net |
+| cdn.gpcrn.com | popcashjs.b-cdn.net |
 | cdn.hqwa.xyz | popcashjs.b-cdn.net |
 | cdn.htkcm.com | popcashjs.b-cdn.net |
 | cdn.ianjumb.com | popcashjs.b-cdn.net |
@@ -1129,14 +1127,17 @@
 | cdn.jandaqwe.com | popcashjs.b-cdn.net |
 | cdn.jbtul.com | popcashjs.b-cdn.net |
 | cdn.jeckear.com | popcashjs.b-cdn.net |
+| cdn.jhkfd.com | popcashjs.b-cdn.net |
 | cdn.jhoncj.com | popcashjs.b-cdn.net |
 | cdn.jwalf.com | popcashjs.b-cdn.net |
 | cdn.karpatzi.com | popcashjs.b-cdn.net |
 | cdn.keajs.com | popcashjs.b-cdn.net |
+| cdn.kfjhd.com | popcashjs.b-cdn.net |
 | cdn.luxope.com | popcashjs.b-cdn.net |
 | cdn.mafyak.com | popcashjs.b-cdn.net |
 | cdn.masbpi.com | popcashjs.b-cdn.net |
 | cdn.miluwo.com | popcashjs.b-cdn.net |
+| cdn.mnhjk.com | popcashjs.b-cdn.net |
 | cdn.mtinsqq.com | popcashjs.b-cdn.net |
 | cdn.namol.xyz | popcashjs.b-cdn.net |
 | cdn.nelhon.com | popcashjs.b-cdn.net |
@@ -1145,9 +1146,12 @@
 | cdn.npcta.xyz | popcashjs.b-cdn.net |
 | cdn.nuqwe.com | popcashjs.b-cdn.net |
 | cdn.olep.xyz | popcashjs.b-cdn.net |
+| cdn.orjfun.com | popcashjs.b-cdn.net |
 | cdn.ovqds.com | popcashjs.b-cdn.net |
 | cdn.pctv.xyz | popcashjs.b-cdn.net |
+| cdn.piuyt.com | popcashjs.b-cdn.net |
 | cdn.pllah.com | popcashjs.b-cdn.net |
+| cdn.plrst.com | popcashjs.b-cdn.net |
 | cdn.posawaj.com | popcashjs.b-cdn.net |
 | cdn.puyjjq.com | popcashjs.b-cdn.net |
 | cdn.puysis.com | popcashjs.b-cdn.net |
@@ -1157,6 +1161,7 @@
 | cdn.rgrd.xyz | popcashjs.b-cdn.net |
 | cdn.roemoss.com | popcashjs.b-cdn.net |
 | cdn.rofant.com | popcashjs.b-cdn.net |
+| cdn.rqwel.com | popcashjs.b-cdn.net |
 | cdn.sblhp.com | popcashjs.b-cdn.net |
 | cdn.shakre.com | popcashjs.b-cdn.net |
 | cdn.spnut.com | popcashjs.b-cdn.net |
@@ -1170,6 +1175,8 @@
 | cdn.vonkol.com | popcashjs.b-cdn.net |
 | cdn.wwfx.xyz | popcashjs.b-cdn.net |
 | cdn.xbcpcn.com | popcashjs.b-cdn.net |
+| cdn.xwqea.com | popcashjs.b-cdn.net |
+| cdn.ytihp.com | popcashjs.b-cdn.net |
 | cdn.zxclan.com | popcashjs.b-cdn.net |
 | cdn.shrtfly.vip | popupads.b-cdn.net |
 | cdn-b.notsy.io | prebid.b-cdn.net |
@@ -1179,7 +1186,9 @@
 | sp.freshlooklens.pk | spixel.b-cdn.net |
 | sp.lenspk.com | spixel.b-cdn.net |
 | sp.theladyshop.pk | spixel.b-cdn.net |
+| img.7xixi.site | st-fly.b-cdn.net |
 | static.netfly.fun | st-fly.b-cdn.net |
 | static.nfly.cc | st-fly.b-cdn.net |
+| static.xlyyzx.sbs | st-fly.b-cdn.net |
 | cdn.track.dark.bz | track-dark-bz.b-cdn.net |
 | adserve.bongocdn.com | video-ad.b-cdn.net |

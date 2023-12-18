@@ -76,6 +76,7 @@
     * h-6y7oe1nl.online-metrix.net
     * h-72wrr4p1.online-metrix.net
     * h-748xxcci.online-metrix.net
+    * h-76ussz09.online-metrix.net
     * h-7bugohi5.online-metrix.net
     * h-7hs48cp7.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
@@ -92,6 +93,7 @@
     * h-87rxrdob.online-metrix.net
     * h-884tnrtj.online-metrix.net
     * h-8b6zz5ug.online-metrix.net
+    * h-8dvdxqz5.online-metrix.net
     * h-8e0pj0s9.online-metrix.net
     * h-8em5ysu2.online-metrix.net
     * h-8gmrc4yu.online-metrix.net
@@ -136,6 +138,7 @@
     * h-analytics.triseptsolutions.online-metrix.net
     * h-anfd5tjw-2.online-metrix.net
     * h-anfd5tjw-3.online-metrix.net
+    * h-anfd5tjw.online-metrix.net
     * h-anzonlineapps.online-metrix.net
     * h-apa2wbxq.online-metrix.net
     * h-api-sb.online-metrix.net
@@ -160,7 +163,6 @@
     * h-bangkokbank.online-metrix.net
     * h-bankaustralia.online-metrix.net
     * h-bankofozk.online-metrix.net
-    * h-bankofthewest.online-metrix.net
     * h-banquecasino-cb4x.online-metrix.net
     * h-banquecasino.online-metrix.net
     * h-barstoolsportsbook.online-metrix.net
@@ -681,6 +683,7 @@
     * h-ynap.biz.online-metrix.net
     * h-zhongantechnologies.online-metrix.net
     * h-zions.online-metrix.net
+    * h-zodiacustody.online-metrix.net
     * h-zootweb.online-metrix.net
     * h-zopa.online-metrix.net
     * h-zurvita.online-metrix.net
@@ -836,6 +839,7 @@
 | content.pledg.co | h-6y7oe1nl.online-metrix.net |
 | rba.infinitium.com | h-72wrr4p1.online-metrix.net |
 | analytics.vodafone.com.au | h-748xxcci.online-metrix.net |
+| analyze.central1.cc | h-76ussz09.online-metrix.net |
 | r.hokodo.co | h-7bugohi5.online-metrix.net |
 | ex.exnessstats.com | h-7hs48cp7.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
@@ -860,6 +864,7 @@
 | tmfp.klarna.com | h-87rxrdob.online-metrix.net |
 | phyon.visit-x.net | h-884tnrtj.online-metrix.net |
 | subcontent.galeria.de | h-8b6zz5ug.online-metrix.net |
+| secure.meine.santander.de | h-8dvdxqz5.online-metrix.net |
 | 1bf86f4b.tictoc.ai | h-8e0pj0s9.online-metrix.net |
 | dtrust.atratopago.com | h-8em5ysu2.online-metrix.net |
 | tools.workforcewv.org | h-8gmrc4yu.online-metrix.net |
@@ -921,8 +926,8 @@
 | analytics.triseptsolutions.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.vaxvacationaccess.com | h-analytics.triseptsolutions.online-metrix.net |
 | static.sb-cdn.io | h-anfd5tjw-2.online-metrix.net |
-| static.bc-cdn.io | h-anfd5tjw-3.online-metrix.net |
 | static.yg-cdn.io | h-anfd5tjw-3.online-metrix.net |
+| static.bc-cdn.io | h-anfd5tjw.online-metrix.net |
 | onlineapplications.anz.com | h-anzonlineapps.online-metrix.net |
 | content.shop.post.ch | h-apa2wbxq.online-metrix.net |
 | cdn3.moneycorp.com | h-api-sb.online-metrix.net |
@@ -947,7 +952,6 @@
 | svc.bangkokbank.com | h-bangkokbank.online-metrix.net |
 | dii.bankaust.com.au | h-bankaustralia.online-metrix.net |
 | cdn-ln.ozk.com | h-bankofozk.online-metrix.net |
-| fdbplnd.zootweb.com | h-bankofthewest.online-metrix.net |
 | paiement.cb4x.fr | h-banquecasino-cb4x.online-metrix.net |
 | banque.banque-casino.fr | h-banquecasino.online-metrix.net |
 | tm.barstoolsportsbook.com | h-barstoolsportsbook.online-metrix.net |
@@ -1152,6 +1156,7 @@
 | content.wizink.es | h-drav45kl.online-metrix.net |
 | payments.hd-plus.de | h-drbo60la.online-metrix.net |
 | content22.gss.citi.com | h-dsa7i4o8.online-metrix.net |
+| dp.lottogo.com | h-dst402ij.online-metrix.net |
 | lspr.luckycasino.ca | h-dst402ij.online-metrix.net |
 | content.ssctech.com | h-dstssc.online-metrix.net |
 | acdc.toolineo.de | h-dszu15n8.online-metrix.net |
@@ -1608,7 +1613,6 @@
 | lnths.twc.texas.gov | h-twctexas.online-metrix.net |
 | content.ezaem.ru | h-twino.online-metrix.net |
 | content.incredit.pl | h-twino.online-metrix.net |
-| content.moneza.lv | h-twino.online-metrix.net |
 | content.moneza.ru | h-twino.online-metrix.net |
 | content.netcredit.pl | h-twino.online-metrix.net |
 | uat.cmprofile.cards.citidirect.com | h-uat.cmprofile.citidirect.online-metrix.net |
@@ -1687,6 +1691,7 @@
 | w3.tcboregon.com | h-zions.online-metrix.net |
 | w3.vectrabank.com | h-zions.online-metrix.net |
 | w3.zionsbank.com | h-zions.online-metrix.net |
+| jpubs.zodia.io | h-zodiacustody.online-metrix.net |
 | img.zootweb.com | h-zootweb.online-metrix.net |
 | cdna.zopa.com | h-zopa.online-metrix.net |
 | contentservices.zurvita.com | h-zurvita.online-metrix.net |

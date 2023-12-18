@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702281615158        ; Serial
+           1702886419864        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -396,7 +396,6 @@ wttd.madeleine-fashion.nl CNAME .
 wttd.madeleine-mode.at CNAME .
 wttd.madeleine-mode.ch CNAME .
 wttd.madeleine.co.uk CNAME .
-wttd.madeleine.com CNAME .
 wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .

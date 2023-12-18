@@ -428,6 +428,7 @@
 ||3466497.notifysrv.com^
 ||3466503.notifysrv.com^
 ||3466845.notifysrv.com^
+||3466857.notify6.com^
 ||3466857.notifysrv.com^
 ||3466861.notify6.com^
 ||3466861.notifysrv.com^
@@ -696,6 +697,7 @@
 ||3849719.notify6.com^
 ||3853333.notify6.com^
 ||3856281.notify6.com^
+||3856373.notify6.com^
 ||3858841.notify6.com^
 ||3869256.notifysrv.com^
 ||3869316.notify6.com^
@@ -720,6 +722,7 @@
 ||3898378.notify6.com^
 ||3903164.notify6.com^
 ||3911078.notify6.com^
+||3914108.notify6.com^
 ||3917502.notify6.com^
 ||3917506.notify6.com^
 ||3917534.notify6.com^
@@ -1120,6 +1123,7 @@
 ||www.3243082.notifysrv.com^
 ||www.3254306.notifysrv.com^
 ||www.3270262.notifysrv.com^
+||www.3466857.notify6.com^
 ||www.3466863.notify6.com^
 ||www.3815579.notify6.com^
 ||www.3881818.notify6.com^
