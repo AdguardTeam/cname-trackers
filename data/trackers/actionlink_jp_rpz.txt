@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,6 +29,7 @@ al.germanpet.com CNAME .
 al.happysun-hinode.com CNAME .
 al.junior-onlineshop.jp CNAME .
 al.kagukuro.com CNAME .
+al.kawashima-ya.jp CNAME .
 al.kbwine.com CNAME .
 al.kirario.jp CNAME .
 al.mitsubachi-note.com CNAME .

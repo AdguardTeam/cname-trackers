@@ -515,6 +515,7 @@
 ||lab4.lloydsbank.com^
 ||ln.meudigio.com.br^
 ||lnc.mo.gov^
+||lncdn.goosehead.com^
 ||lndata.labor.maryland.gov^
 ||lndata.labor.md.gov^
 ||lnths.twc.texas.gov^
@@ -863,7 +864,6 @@
 ||thm.visa.com^
 ||thm12.visa.com^
 ||thmep.zondacrypto.com^
-||thmep.zondaglobal.com^
 ||threatmetrix.lendingclub.com^
 ||thrm-scrq-0001.crypterium.com^
 ||tm-analytics.bluevine.com^

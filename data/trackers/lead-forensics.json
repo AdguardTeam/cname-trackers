@@ -379,7 +379,6 @@
   "d9edf932850107974bfb68f8c1a04f0d.clo.footprintdns.com": "am2prdapp01-canary.cloudapp.net",
   "data.diagnostics.office.com": "ods-logging-prod.eastus.cloudapp.azure.com",
   "f5.track-mv-01.com": "v3-eu-appgwv2.uksouth.cloudapp.azure.com",
-  "ios-analytics-prodhome1.mysoluto.com": "k8s-prod-us-east-1-replace-p-alb-1042217541.us-east-1.elb.amazonaws.com",
   "mail.semilab.hu": "utm.semilab.trafficmanager.net",
   "prodhome1analyticslistener.mysoluto.com": "k8s-prod-us-east-2-alb-561248032.us-east-2.elb.amazonaws.com",
   "secure.1-cl0ud.com": "v3-eu-appgwv2.uksouth.cloudapp.azure.com",

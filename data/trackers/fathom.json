@@ -234,6 +234,7 @@
   "chipmunk.brandy.is": "deprecated-custom-domains.b-cdn.net",
   "chipmunk.sqltoapi.com": "deprecated-custom-domains.b-cdn.net",
   "cicada.escapethecorporatecult.com": "deprecated-custom-domains.b-cdn.net",
+  "cicada.wordvested.org": "deprecated-custom-domains.b-cdn.net",
   "clam.figmachina.com": "deprecated-custom-domains.b-cdn.net",
   "clam.mglaman.dev": "deprecated-custom-domains.b-cdn.net",
   "clownfish.onvard.de": "deprecated-custom-domains.b-cdn.net",
@@ -686,6 +687,7 @@
   "orangutan.equaliteam.com": "deprecated-custom-domains.b-cdn.net",
   "orangutan.renovare.org": "deprecated-custom-domains.b-cdn.net",
   "orca.getnodo.com": "deprecated-custom-domains.b-cdn.net",
+  "orca.ic3.network": "deprecated-custom-domains.b-cdn.net",
   "orca.overbold.co": "deprecated-custom-domains.b-cdn.net",
   "ostrich.getschools.org": "deprecated-custom-domains.b-cdn.net",
   "ostrich.hegic-tokenizer.co": "deprecated-custom-domains.b-cdn.net",
@@ -941,7 +943,6 @@
   "tigershark.hasanahmad.ca": "deprecated-custom-domains.b-cdn.net",
   "tigershark.integratecolumbus.org": "deprecated-custom-domains.b-cdn.net",
   "tigershark.moonpot.com": "deprecated-custom-domains.b-cdn.net",
-  "tigershark.oilpriceapi.com": "deprecated-custom-domains.b-cdn.net",
   "tigershark.paavanmagic.com": "deprecated-custom-domains.b-cdn.net",
   "tigershark.samwaymire.com": "deprecated-custom-domains.b-cdn.net",
   "tigershark.vandevliet.me": "deprecated-custom-domains.b-cdn.net",
@@ -1036,6 +1037,5 @@
   "yak.flutterblog.net": "deprecated-custom-domains.b-cdn.net",
   "yak.gregsullivan.com": "deprecated-custom-domains.b-cdn.net",
   "yak.withlindy.com": "deprecated-custom-domains.b-cdn.net",
-  "zebra.gareth.sh": "deprecated-custom-domains.b-cdn.net",
   "zebra.helpspot.com": "deprecated-custom-domains.b-cdn.net"
 }

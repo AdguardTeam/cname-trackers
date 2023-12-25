@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,6 +140,11 @@ tk.qobuz.com CNAME .
 tk.rentacar.fr CNAME .
 tk.rimowa.com CNAME .
 tk.salomon.com CNAME .
+tk.santevet.be CNAME .
+tk.santevet.com CNAME .
+tk.santevet.de CNAME .
+tk.santevet.es CNAME .
+tk.santevet.it CNAME .
 tk.speedway.fr CNAME .
 tk.svsound.com CNAME .
 tk.teleshopping.fr CNAME .

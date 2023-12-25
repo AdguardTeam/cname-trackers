@@ -40,7 +40,6 @@
     * crocetta-viessmann-it-cddc.at-o.net
     * culture-intermedes-com-cddc.at-o.net
     * d-deloitte-fr-cddc.at-o.net
-    * d-doctipharma-fr-cddc.at-o.net
     * d-m-net-de-cddc.at-o.net
     * d-santemagazine-fr-cddc.at-o.net
     * d-uni-medias-com-cddc.at-o.net
@@ -166,7 +165,6 @@
 | crocetta.viessmann.it | crocetta-viessmann-it-cddc.at-o.net |
 | culture.intermedes.com | culture-intermedes-com-cddc.at-o.net |
 | d.deloitte.fr | d-deloitte-fr-cddc.at-o.net |
-| d.doctipharma.fr | d-doctipharma-fr-cddc.at-o.net |
 | d.m-net.de | d-m-net-de-cddc.at-o.net |
 | d.santemagazine.fr | d-santemagazine-fr-cddc.at-o.net |
 | d.uni-medias.com | d-uni-medias-com-cddc.at-o.net |

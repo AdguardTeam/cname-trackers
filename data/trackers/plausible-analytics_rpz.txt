@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -43,6 +43,7 @@ analytics.hambleden-capital.com CNAME .
 analytics.hiome.com CNAME .
 analytics.kerns.co CNAME .
 analytics.krieselreihe.com CNAME .
+analytics.lifestyledemocracy.com CNAME .
 analytics.littlekingdesigns.com CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .

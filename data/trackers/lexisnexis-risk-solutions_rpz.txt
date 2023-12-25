@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -526,6 +526,7 @@ kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
 ln.meudigio.com.br CNAME .
 lnc.mo.gov CNAME .
+lncdn.goosehead.com CNAME .
 lndata.labor.maryland.gov CNAME .
 lndata.labor.md.gov CNAME .
 lnths.twc.texas.gov CNAME .
@@ -874,7 +875,6 @@ thm.v.me CNAME .
 thm.visa.com CNAME .
 thm12.visa.com CNAME .
 thmep.zondacrypto.com CNAME .
-thmep.zondaglobal.com CNAME .
 threatmetrix.lendingclub.com CNAME .
 thrm-scrq-0001.crypterium.com CNAME .
 tm-analytics.bluevine.com CNAME .

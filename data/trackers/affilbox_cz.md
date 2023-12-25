@@ -43,7 +43,6 @@
 | affil.comamdelat.com | cz.affilbox.cz |
 | affil.coolcocky.cz | cz.affilbox.cz |
 | affil.danfil.cz | cz.affilbox.cz |
-| affil.dobraprace.cz | cz.affilbox.cz |
 | affil.domio.cz | cz.affilbox.cz |
 | affil.dotykacka.cz | cz.affilbox.cz |
 | affil.econea.cz | cz.affilbox.cz |
@@ -573,6 +572,7 @@
 | partner.kokiskashop.cz | cz.affilbox.cz |
 | partner.kokiskashop.sk | cz.affilbox.cz |
 | partner.kominy-bokra.cz | cz.affilbox.cz |
+| partner.kreativnisvet.cz | cz.affilbox.cz |
 | partner.kurzysusmevem.cz | cz.affilbox.cz |
 | partner.kvcar.cz | cz.affilbox.cz |
 | partner.laab.cz | cz.affilbox.cz |
@@ -634,6 +634,7 @@
 | partner.plotmarket.sk | cz.affilbox.cz |
 | partner.plotshop.sk | cz.affilbox.cz |
 | partner.pod7kilo.cz | cz.affilbox.cz |
+| partner.porovnejsito.cz | cz.affilbox.cz |
 | partner.pozitivnerozpravky.sk | cz.affilbox.cz |
 | partner.pradoch.cz | cz.affilbox.cz |
 | partner.pravopisne.cz | cz.affilbox.cz |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -169,6 +169,7 @@ data-151922e62d.euskirchen.de CNAME .
 data-15374d3e40.mein-schoener-garten.de CNAME .
 data-15fb556696.laendlejob.at CNAME .
 data-162d89b6ce.haufe.de CNAME .
+data-165185f38f.elektro.at CNAME .
 data-1684d88e45.motorsport.com CNAME .
 data-16adacd8a9.solinger-tageblatt.de CNAME .
 data-16ca023d5b.apps.iocnt.de CNAME .
@@ -683,6 +684,7 @@ data-4aed862c71.apps.iocnt.de CNAME .
 data-4b48d22435.kommune21.de CNAME .
 data-4be83b69ca.kka-online.info CNAME .
 data-4c15807c3d.geb-info.de CNAME .
+data-4c21d26235.apps.iocnt.de CNAME .
 data-4c3f51642d.autoservicepraxis.de CNAME .
 data-4c63bfe8f2.apps.iocnt.de CNAME .
 data-4ca65a8bdb.express.de CNAME .
@@ -1139,6 +1141,10 @@ data-85ad330317.spielaffe.de CNAME .
 data-85ca53d898.apps.iocnt.de CNAME .
 data-85dba8a916.schwaebische.de CNAME .
 data-861bbf2127.bild.de CNAME .
+data-861bbf2127.bz-berlin.de CNAME .
+data-861bbf2127.fitbook.de CNAME .
+data-861bbf2127.myhomebook.de CNAME .
+data-861bbf2127.petbook.de CNAME .
 data-8629f7a423.4players.de CNAME .
 data-86943486de.laendleauto.at CNAME .
 data-86d2aee9fa.jetzt.de CNAME .
@@ -1444,6 +1450,7 @@ data-aae7bdcec6.autoscout24.com.ua CNAME .
 data-aae7bdcec6.autoscout24.cz CNAME .
 data-aae7bdcec6.autoscout24.de CNAME .
 data-aae7bdcec6.autoscout24.hr CNAME .
+data-aae7bdcec6.autoscout24.hu CNAME .
 data-aae7bdcec6.autoscout24.pl CNAME .
 data-aae7bdcec6.autoscout24.ro CNAME .
 data-aae7bdcec6.autoscout24.ru CNAME .
@@ -1530,6 +1537,7 @@ data-b7d0b4217b.autoscout24.com.ua CNAME .
 data-b7d0b4217b.autoscout24.cz CNAME .
 data-b7d0b4217b.autoscout24.de CNAME .
 data-b7d0b4217b.autoscout24.hr CNAME .
+data-b7d0b4217b.autoscout24.hu CNAME .
 data-b7d0b4217b.autoscout24.pl CNAME .
 data-b7d0b4217b.autoscout24.ro CNAME .
 data-b7d0b4217b.autoscout24.se CNAME .
@@ -1565,6 +1573,10 @@ data-bab9a31794.shz.de CNAME .
 data-babf36a332.apps.iocnt.de CNAME .
 data-bae5a0a55a.apps.iocnt.de CNAME .
 data-bb21a2f11b.bild.de CNAME .
+data-bb21a2f11b.bz-berlin.de CNAME .
+data-bb21a2f11b.fitbook.de CNAME .
+data-bb21a2f11b.myhomebook.de CNAME .
+data-bb21a2f11b.petbook.de CNAME .
 data-bb21a2f11b.sportbild.de CNAME .
 data-bb4ada6163.travelbook.de CNAME .
 data-bc153aec3e.nmdn.net CNAME .
@@ -1607,6 +1619,7 @@ data-c1195dc135.landundforst.de CNAME .
 data-c128cec8f4.wnoz.de CNAME .
 data-c14a6b9c37.1000ps.de CNAME .
 data-c14a6b9c37.motorradonline.de CNAME .
+data-c1e9638016.vgn.at CNAME .
 data-c26a0f6abd.smarthouse-pro.de CNAME .
 data-c2b71254f2.finanzen100.de CNAME .
 data-c2b71254f2.focus.de CNAME .

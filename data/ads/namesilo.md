@@ -987,6 +987,7 @@
 | 4917212.notify6.com | tk6if76q.ab1n.net |
 | 4960922.notify6.com | tk6if76q.ab1n.net |
 | 5085594.notify6.com | tk6if76q.ab1n.net |
+| 5111734.notify6.com | tk6if76q.ab1n.net |
 | 5132062.notify6.com | tk6if76q.ab1n.net |
 | 535.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 5602.notify.optimizesrv.com | tk6if76q.ab1n.net |
@@ -1126,6 +1127,7 @@
 | www.3881818.notify6.com | tk6if76q.ab1n.net |
 | www.4065194.notify6.com | tk6if76q.ab1n.net |
 | www.4152316.notify6.com | tk6if76q.ab1n.net |
+| www.4389756.notify6.com | tk6if76q.ab1n.net |
 | www.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | www.notify6.com | tk6if76q.ab1n.net |
 | www.notifysrv.com | tk6if76q.ab1n.net |
@@ -1141,7 +1143,6 @@
 | a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
 | a.adsession.com | w2u4v9e1.ab1n.net |
 | a.advantageclicks.net | w2u4v9e1.ab1n.net |
-| a.advertrek.com | w2u4v9e1.ab1n.net |
 | a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
 | a.etology.com | w2u4v9e1.ab1n.net |

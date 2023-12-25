@@ -82,6 +82,7 @@ tr.asp10df.espmp-agfr.net
 tr.asp10dq.espmp-nifr.net
 tr.asp10dx.espmp-nifr.net
 tr.asp10ea.espmp-nifr.net
+tr.asp10f5.espmp-agfr.net
 tr.asp10f6.espmp-agfr.net
 tr.asp10fa.espmp-cufr.net
 tr.asp10fg.espmp-aufr.net
@@ -141,6 +142,7 @@ tr.btob-afaceri.ro
 tr.btob-cwf.com
 tr.btob-deals.co.uk
 tr.btob-pro.be
+tr.btob-pro.pt
 tr.btob.mhdfrance.fr
 tr.btobquotes.be
 tr.btobquotes.cl
@@ -1039,6 +1041,7 @@ tr.urfk03q.espmp-nifr.net
 tr.urfk03u.espmp-nifr.net
 tr.urfk03x.espmp-agfr.net
 tr.urfk041.espmp-cufr.net
+tr.urfk042.espmp-nifr.net
 tr.urfk044.espmp-nifr.net
 tr.urfk050.espmp-cufr.net
 tr.urfk052.espmp-cufr.net

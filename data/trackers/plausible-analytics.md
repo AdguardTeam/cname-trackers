@@ -44,6 +44,7 @@
 | analytics.hiome.com | custom.plausible.io |
 | analytics.kerns.co | custom.plausible.io |
 | analytics.krieselreihe.com | custom.plausible.io |
+| analytics.lifestyledemocracy.com | custom.plausible.io |
 | analytics.littlekingdesigns.com | custom.plausible.io |
 | analytics.lunge.de | custom.plausible.io |
 | analytics.mambaui.com | custom.plausible.io |

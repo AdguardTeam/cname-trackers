@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,7 +26,6 @@ $TTL 300
 1koa95e6z2j.www.future-fortune.com CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
 1xejnhs1zd1.staging.aporia.com CNAME .
-1zzs6w25i8n.tube.inflatevids.xyz CNAME .
 2107wrlgff5.development.taxmachine.be CNAME .
 21fhq0t574p.talentkit.io CNAME .
 21udflra4wd.app-dev.cainthus.com CNAME .
@@ -75,7 +74,6 @@ fkupm8697t19.eyevolution.de CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .
 fyznhp8inq9x.jaywilsonwebsolutions.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
-gmaqaxz02j7w.kvest.ee CNAME .
 gvmomuqjv1.swyftx.com CNAME .
 hht8m6w8mnug.quine.sh CNAME .
 i0e6asb0fj5y.www.emanualonline.com CNAME .

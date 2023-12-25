@@ -60,6 +60,7 @@
     * h-5tjn91kn.online-metrix.net
     * h-5uvvlv7u.online-metrix.net
     * h-5wdrto0i.online-metrix.net
+    * h-5xx71132.online-metrix.net
     * h-6a6y6kka.online-metrix.net
     * h-6e1hqgi3.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
@@ -823,6 +824,7 @@
 | content.nu.com.mx | h-5tjn91kn.online-metrix.net |
 | rttm.uniondigitalbank.io | h-5uvvlv7u.online-metrix.net |
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
+| lncdn.goosehead.com | h-5xx71132.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | tags.3ds.denizbank.at | h-6e1hqgi3.online-metrix.net |
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
@@ -1581,7 +1583,6 @@
 | assets2.ihg.com | h-thefirstclub-ihg.online-metrix.net |
 | assets2.thefirstclub.com | h-thefirstclub.online-metrix.net |
 | thmep.zondacrypto.com | h-thmep.zondaglobal.online-metrix.net |
-| thmep.zondaglobal.com | h-thmep.zondaglobal.online-metrix.net |
 | content.ea.com | h-threatmetrix.ea.online-metrix.net |
 | h.threatmetrix.com | h-threatmetrix.online-metrix.net |
 | df.thumbtack.com | h-thumbtack.online-metrix.net |

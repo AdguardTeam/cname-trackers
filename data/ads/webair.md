@@ -86,10 +86,6 @@
     * admeridianads.xml-eu.ak-is2.net
     * admeridianads.xml-v4.ak-is2.net
     * admeridianads.xml.ak-is2.net
-    * admetix.aui.ak-is2.net
-    * admetix.fs.ak-is2.net
-    * admetix.ui.ak-is2.net
-    * admetix.xml.ak-is2.net
     * admida.fs.ak-is2.net
     * admida.rtb-useast.ak-is2.net
     * admida.wp.ak-is2.net
@@ -485,8 +481,6 @@
     * kunvertads.fs.ak-is2.net
     * kunvertads.xml-v4.ak-is2.net
     * landingpaged.xml.ak-is2.net
-    * landingtrk.wp.ak-is2.net
-    * landingtrk.xml.ak-is2.net
     * leoyard.aui.ak-is2.net
     * leoyard.fs.ak-is2.net
     * leoyard.ui.ak-is2.net
@@ -1019,10 +1013,6 @@
 | xml1-eu.admeridianads.com | admeridianads.xml-eu.ak-is2.net |
 | xml1-v4.admeridianads.com | admeridianads.xml-v4.ak-is2.net |
 | xml1.admeridianads.com | admeridianads.xml.ak-is2.net |
-| advertise.admetix.com | admetix.aui.ak-is2.net |
-| filter.admetix.com | admetix.fs.ak-is2.net |
-| login.admetix.com | admetix.ui.ak-is2.net |
-| xml.admetix.com | admetix.xml.ak-is2.net |
 | filter.admidainsight.com | admida.fs.ak-is2.net |
 | rtb-useast.admidadsp.com | admida.rtb-useast.ak-is2.net |
 | push.admidainsight.com | admida.wp.ak-is2.net |
@@ -1094,7 +1084,6 @@
 | xml.mobreach.com | adright.xml.ak-is2.net |
 | xml.popunder.bid | adright.xml.ak-is2.net |
 | static.adright.co | adright.xs.ak-is2.net |
-| static.adright.com | adright.xs.ak-is2.net |
 | static.fstsrv1.com | adright.xs.ak-is2.net |
 | static.fstsrv2.com | adright.xs.ak-is2.net |
 | static.fstsrv3.com | adright.xs.ak-is2.net |
@@ -1533,8 +1522,6 @@
 | filter.kunvertads.com | kunvertads.fs.ak-is2.net |
 | xml-v4.kunvertads.com | kunvertads.xml-v4.ak-is2.net |
 | xml.landingpaged.com | landingpaged.xml.ak-is2.net |
-| push.landingtrk.com | landingtrk.wp.ak-is2.net |
-| xml.landingtrk.com | landingtrk.xml.ak-is2.net |
 | login.junnifytech.com | leoyard.aui.ak-is2.net |
 | filter.leoback.com | leoyard.fs.ak-is2.net |
 | filter.leoyard.com | leoyard.fs.ak-is2.net |

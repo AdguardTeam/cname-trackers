@@ -61,7 +61,6 @@
 ||cz.peatmenwhatsis.com^
 ||db.relandsnouts.com^
 ||dc.swartlybeebee.com^
-||dd.zillahhayers.com^
 ||dg.durgahsursize.com^
 ||dg.folksychapes.com^
 ||dh.txtcompert.com^
@@ -90,6 +89,7 @@
 ||ek.gisantscubit.com^
 ||em.curnberthed.com^
 ||em.gangerburler.com^
+||en.bummingasses.com^
 ||et.furivaeshotman.com^
 ||eu.balletsbeep.com^
 ||eu.bassoonavatara.com^
@@ -210,7 +210,6 @@
 ||lh.limosiwooable.com^
 ||lm.rinserbefore.com^
 ||lq.kuliposits.com^
-||lq.nullusposolo.com^
 ||lr.bezoarschrysid.com^
 ||lr.coehornliebig.com^
 ||ls.hongaries.com^
@@ -226,6 +225,7 @@
 ||mi.bettingbulbous.com^
 ||mi.gaywayperkish.com^
 ||mj.mucinplanks.com^
+||mn.prespurmaness.com^
 ||mp.arianatainos.com^
 ||mr.asitiazosters.com^
 ||mu.laplingskevish.com^
@@ -303,6 +303,7 @@
 ||rd.pulayanyet.com^
 ||rg.canesbilker.com^
 ||rh.sirionehusky.com^
+||ri.eightvowrinkle.com^
 ||rj.rivageroily.com^
 ||rj.unhaveabobra.com^
 ||rl.fracturmeropia.com^

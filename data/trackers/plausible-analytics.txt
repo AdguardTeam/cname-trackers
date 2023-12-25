@@ -32,6 +32,7 @@
 ||analytics.hiome.com^
 ||analytics.kerns.co^
 ||analytics.krieselreihe.com^
+||analytics.lifestyledemocracy.com^
 ||analytics.littlekingdesigns.com^
 ||analytics.lunge.de^
 ||analytics.mambaui.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -49,7 +49,6 @@ content.kleinezeitung.at CNAME .
 crocetta.viessmann.it CNAME .
 culture.intermedes.com CNAME .
 d.deloitte.fr CNAME .
-d.doctipharma.fr CNAME .
 d.m-net.de CNAME .
 d.santemagazine.fr CNAME .
 d.uni-medias.com CNAME .

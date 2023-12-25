@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,7 +140,8 @@ www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em924.refer.starbucks.com CNAME .
+em3904.skillshare.com CNAME .
+em8928.em.petco.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -225,6 +226,7 @@ refer.copperandcrane.com CNAME .
 refer.creativelive.com CNAME .
 refer.crocs.com CNAME .
 refer.cspire.com CNAME .
+refer.cunard.com CNAME .
 refer.darphin.com CNAME .
 refer.delloutlet.com CNAME .
 refer.dreamlawn.com CNAME .
@@ -294,6 +296,7 @@ refer.last-stitch.com CNAME .
 refer.lastcall.com CNAME .
 refer.lauramercier.com CNAME .
 refer.laylasleep.com CNAME .
+refer.lemonaidhealth.com CNAME .
 refer.lendingclub.com CNAME .
 refer.lenscrafters.com CNAME .
 refer.lightstream.com CNAME .
@@ -332,6 +335,7 @@ refer.potterybarnkids.com CNAME .
 refer.prettyballerinas.co.uk CNAME .
 refer.prettyballerinas.es CNAME .
 refer.princess.com CNAME .
+refer.procore.com CNAME .
 refer.prokeds.com CNAME .
 refer.psecu.com CNAME .
 refer.pureology.com CNAME .
@@ -416,6 +420,7 @@ referacct.quickbooks.intuit.co.uk CNAME .
 referafriend.discover.com CNAME .
 referavet.petco.com CNAME .
 referral.cledepeaubeaute.com CNAME .
+referral.servicechannel.com CNAME .
 referral.shiseido.com CNAME .
 referrals.visionsfcu.org CNAME .
 rob.extoleu.com CNAME .
@@ -519,6 +524,7 @@ share.giftcardgranny.com CNAME .
 share.giftya.com CNAME .
 share.giorgioarmanibeauty-usa.com CNAME .
 share.go2bank.com CNAME .
+share.granitegaragefloors.com CNAME .
 share.greenlight.com CNAME .
 share.greenlightcard.com CNAME .
 share.gruntstyle.com CNAME .
@@ -544,6 +550,7 @@ share.kitsapsun.com CNAME .
 share.knoxnews.com CNAME .
 share.kumon.com CNAME .
 share.la-mariette.com CNAME .
+share.lansingstatejournal.com CNAME .
 share.lark.com CNAME .
 share.levi.com CNAME .
 share.lifedna.com CNAME .
@@ -679,8 +686,7 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
-em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .
-em8928.em.petco.com CNAME .
+em924.refer.starbucks.com CNAME .
 sftp.extole.com CNAME .

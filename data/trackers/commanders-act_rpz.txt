@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,7 +16,6 @@ data.decathlon.co.uk CNAME .
 data.decathlon.de CNAME .
 data.decathlon.es CNAME .
 data.decathlon.fr CNAME .
-data.decathlon.it CNAME .
 data.decathlon.pl CNAME .
 data.ricaud.com CNAME .
 data.ubi.com CNAME .
@@ -31,5 +30,6 @@ tc.europcar.com.au CNAME .
 tcdata.fnac.com CNAME .
 configure.adlermode.com CNAME .
 data.auchandirect.fr CNAME .
+data.decathlon.it CNAME .
 data.ouigo.com CNAME .
 tc.europcar.de CNAME .

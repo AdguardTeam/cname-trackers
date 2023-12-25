@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -93,6 +93,7 @@ tr.asp10df.espmp-agfr.net CNAME .
 tr.asp10dq.espmp-nifr.net CNAME .
 tr.asp10dx.espmp-nifr.net CNAME .
 tr.asp10ea.espmp-nifr.net CNAME .
+tr.asp10f5.espmp-agfr.net CNAME .
 tr.asp10f6.espmp-agfr.net CNAME .
 tr.asp10fa.espmp-cufr.net CNAME .
 tr.asp10fg.espmp-aufr.net CNAME .
@@ -152,6 +153,7 @@ tr.btob-afaceri.ro CNAME .
 tr.btob-cwf.com CNAME .
 tr.btob-deals.co.uk CNAME .
 tr.btob-pro.be CNAME .
+tr.btob-pro.pt CNAME .
 tr.btob.mhdfrance.fr CNAME .
 tr.btobquotes.be CNAME .
 tr.btobquotes.cl CNAME .
@@ -1050,6 +1052,7 @@ tr.urfk03q.espmp-nifr.net CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .
 tr.urfk03x.espmp-agfr.net CNAME .
 tr.urfk041.espmp-cufr.net CNAME .
+tr.urfk042.espmp-nifr.net CNAME .
 tr.urfk044.espmp-nifr.net CNAME .
 tr.urfk050.espmp-cufr.net CNAME .
 tr.urfk052.espmp-cufr.net CNAME .

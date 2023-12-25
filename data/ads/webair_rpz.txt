@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,7 +19,6 @@ admin3.danarimedia.com CNAME .
 ads.idiscountmall.net CNAME .
 adserver.additionalmedia.com CNAME .
 adserver.catapultx.com CNAME .
-advertise.admetix.com CNAME .
 ak-tracker.com CNAME .
 akxml.nativeadsfeed.com CNAME .
 apple-val.looksmart.com CNAME .
@@ -200,7 +199,6 @@ filter.adhunter.media CNAME .
 filter.adjux.com CNAME .
 filter.adkrivmedia.com CNAME .
 filter.admeridianads.com CNAME .
-filter.admetix.com CNAME .
 filter.admidainsight.com CNAME .
 filter.admozartppc.com CNAME .
 filter.admozartxml.com CNAME .
@@ -370,7 +368,6 @@ login.adflores.com CNAME .
 login.adflyer.media CNAME .
 login.adjux.com CNAME .
 login.admanmedia.com CNAME .
-login.admetix.com CNAME .
 login.admozartppc.com CNAME .
 login.admozartxml.com CNAME .
 login.adopt.media CNAME .
@@ -438,7 +435,6 @@ push.bvsrv.com CNAME .
 push.cerineas.com CNAME .
 push.ezmob.com CNAME .
 push.icyads.com CNAME .
-push.landingtrk.com CNAME .
 push.mywebqsearch.com CNAME .
 push.newsvot.com CNAME .
 push.pushub.net CNAME .
@@ -702,7 +698,6 @@ serv.bvsrv.com CNAME .
 serve.datacygnal.io CNAME .
 sm-rtb-useast.zmdvideo.com CNAME .
 static.adright.co CNAME .
-static.adright.com CNAME .
 static.fstsrv1.com CNAME .
 static.fstsrv2.com CNAME .
 static.fstsrv3.com CNAME .
@@ -937,7 +932,6 @@ xml.adhunter.media CNAME .
 xml.adjux.com CNAME .
 xml.adkrivmedia.com CNAME .
 xml.admeridianads.com CNAME .
-xml.admetix.com CNAME .
 xml.admidainsight.com CNAME .
 xml.admozartppc.com CNAME .
 xml.admozartxml.com CNAME .
@@ -1036,7 +1030,6 @@ xml.infinity-info.com CNAME .
 xml.junplatdirect.com CNAME .
 xml.kinesis-doo.com CNAME .
 xml.landingpaged.com CNAME .
-xml.landingtrk.com CNAME .
 xml.leoback.com CNAME .
 xml.leofback.com CNAME .
 xml.leoyard.com CNAME .
@@ -1131,4 +1124,5 @@ xmlv4-eu.mobuppsrtb.com CNAME .
 xmlv4.chameleostudios.com CNAME .
 xmlv4.mobuppsrtb.com CNAME .
 xmlv4.reklama.network CNAME .
+static.adright.com CNAME .
 static.rtb-serve.com CNAME .

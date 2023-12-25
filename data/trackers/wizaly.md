@@ -56,6 +56,7 @@
     * tk-rentacar-fr.wizaly.com
     * tk-rimowa-com.wizaly.com
     * tk-salomon-com.wizaly.com
+    * tk-santevet-com.wizaly.com
     * tk-sncf.wizaly.com
     * tk-speedway-fr.wizaly.com
     * tk-svsound-com.wizaly.com
@@ -151,6 +152,11 @@
 | tk.rentacar.fr | tk-rentacar-fr.wizaly.com |
 | tk.rimowa.com | tk-rimowa-com.wizaly.com |
 | tk.salomon.com | tk-salomon-com.wizaly.com |
+| tk.santevet.be | tk-santevet-com.wizaly.com |
+| tk.santevet.com | tk-santevet-com.wizaly.com |
+| tk.santevet.de | tk-santevet-com.wizaly.com |
+| tk.santevet.es | tk-santevet-com.wizaly.com |
+| tk.santevet.it | tk-santevet-com.wizaly.com |
 | wiz.sncf-connect.com | tk-sncf.wizaly.com |
 | tk.speedway.fr | tk-speedway-fr.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |

@@ -4,6 +4,7 @@ cdn.adevbom.com
 cdn.adevppl.com
 cdn.afwpc.com
 cdn.agajx.com
+cdn.alcatza.com
 cdn.almacz.com
 cdn.alota.xyz
 cdn.asce.xyz
@@ -15,6 +16,7 @@ cdn.asopn.com
 cdn.asrop.xyz
 cdn.barlo.xyz
 cdn.bhlph.com
+cdn.bnmkl.com
 cdn.borhaj.com
 cdn.buram.xyz
 cdn.cabhwq.com
@@ -22,6 +24,7 @@ cdn.calcpol.com
 cdn.cjlph.com
 cdn.clbaf.com
 cdn.crsope.com
+cdn.cryjun.com
 cdn.decpo.xyz
 cdn.drawx.xyz
 cdn.eecd.xyz
@@ -39,6 +42,7 @@ cdn.gelhp.com
 cdn.genfpm.com
 cdn.gocolow.com
 cdn.gpcrn.com
+cdn.hjklq.com
 cdn.hqwa.xyz
 cdn.htkcm.com
 cdn.ianjumb.com
@@ -49,6 +53,7 @@ cdn.jbtul.com
 cdn.jeckear.com
 cdn.jhkfd.com
 cdn.jhoncj.com
+cdn.jklpy.com
 cdn.jwalf.com
 cdn.karpatzi.com
 cdn.keajs.com
@@ -61,7 +66,9 @@ cdn.mnhjk.com
 cdn.mtinsqq.com
 cdn.namol.xyz
 cdn.nelhon.com
+cdn.nlkli.com
 cdn.nlop.xyz
+cdn.nmkli.com
 cdn.norymo.com
 cdn.npcta.xyz
 cdn.nuqwe.com
@@ -71,10 +78,12 @@ cdn.ovqds.com
 cdn.pctv.xyz
 cdn.piuyt.com
 cdn.pllah.com
+cdn.plmwsl.com
 cdn.plrst.com
 cdn.posawaj.com
 cdn.puyjjq.com
 cdn.puysis.com
+cdn.qgerr.com
 cdn.quagfa.com
 cdn.rapolok.com
 cdn.rawqel.com
@@ -91,12 +100,14 @@ cdn.syinga.com
 cdn.timsef.com
 cdn.tsepyk.com
 cdn.ulesxbo.com
+cdn.vcxzp.com
 cdn.viowrel.com
 cdn.vonkol.com
 cdn.wwfx.xyz
 cdn.xbcpcn.com
 cdn.xwqea.com
 cdn.ytihp.com
+cdn.zkcvb.com
 cdn.zxclan.com
 4ke5b4ila.codedge.de
 7wrxo2xh.iriscreative.co
@@ -323,6 +334,7 @@ chinchilla.68keys.io
 chipmunk.brandy.is
 chipmunk.sqltoapi.com
 cicada.escapethecorporatecult.com
+cicada.wordvested.org
 clam.figmachina.com
 clam.mglaman.dev
 clownfish.onvard.de
@@ -771,6 +783,7 @@ opossum.stephanieharari.com
 orangutan.equaliteam.com
 orangutan.renovare.org
 orca.getnodo.com
+orca.ic3.network
 orca.overbold.co
 ostrich.getschools.org
 ostrich.hegic-tokenizer.co
@@ -1019,7 +1032,6 @@ tick.sculch.app
 tiger.devlib.se
 tigershark.garethtdavies.com
 tigershark.moonpot.com
-tigershark.oilpriceapi.com
 tigershark.paavanmagic.com
 tigershark.samwaymire.com
 tigershark.vandevliet.me
@@ -1113,7 +1125,6 @@ yak.auclantis.com
 yak.flutterblog.net
 yak.gregsullivan.com
 yak.withlindy.com
-zebra.gareth.sh
 zebra.helpspot.com
 ads.djc.com
 assets-v2.boisedev.com
@@ -1142,6 +1153,7 @@ sponsors.oaklandcountymoms.com
 sponsors.salesforceben.com
 sponsors.stateofdigitalpublishing.com
 sponsors.teethtalkgirl.com
+sponsors.vvng.com
 support-v2.sweetwaternow.com
 adserve.bongocdn.com
 assets.diagomics.com
@@ -1156,7 +1168,6 @@ cdn.track.dark.bz
 consent.cookiefirst.com
 contact-gloss-production.accelerator.net
 dntcl.qualaroo.com
-egybests.7all.net
 img.7xixi.site
 live-tag.creatopy.net
 log.ads-m.net

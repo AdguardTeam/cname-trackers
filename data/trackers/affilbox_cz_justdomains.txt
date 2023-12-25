@@ -26,7 +26,6 @@ affil.claimcloud.cz
 affil.comamdelat.com
 affil.coolcocky.cz
 affil.danfil.cz
-affil.dobraprace.cz
 affil.domio.cz
 affil.dotykacka.cz
 affil.econea.cz
@@ -556,6 +555,7 @@ partner.kidtown.cz
 partner.kokiskashop.cz
 partner.kokiskashop.sk
 partner.kominy-bokra.cz
+partner.kreativnisvet.cz
 partner.kurzysusmevem.cz
 partner.kvcar.cz
 partner.laab.cz
@@ -617,6 +617,7 @@ partner.pletemesi.cz
 partner.plotmarket.sk
 partner.plotshop.sk
 partner.pod7kilo.cz
+partner.porovnejsito.cz
 partner.pozitivnerozpravky.sk
 partner.pradoch.cz
 partner.pravopisne.cz

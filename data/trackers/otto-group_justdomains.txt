@@ -26,7 +26,6 @@ te.nitro-test-extern.otto.boreus.de
 te.otto.de
 te.ottoversand.at
 te.quelle.de
-te.schwab.de
 te.sheego.de
 te.sieh-an.at
 te.sieh-an.ch
@@ -68,6 +67,7 @@ tp.sieh-an.at
 tp.sieh-an.ch
 tp.sieh-an.de
 tp.universal.at
+tp.waeschepur.de
 tp.witt-international.cz
 tp.witt-international.nl
 tp.witt-international.sk

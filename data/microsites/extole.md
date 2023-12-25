@@ -303,6 +303,7 @@
     * globalknowledge.extole.io
     * gnc.extole.io
     * go2bank.extole.io
+    * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
     * greenlightcard.extole.io
     * gruntstyle.extole.io
@@ -357,6 +358,7 @@
     * lastcall.extole.io
     * laura-mercier.extole.io
     * layla-sleep.extole.io
+    * lemonaidhealth.extole.io
     * lending-club.extole.io
     * lenscrafters.extole.io
     * levi.extole.io
@@ -409,6 +411,7 @@
     * partsvu.extole.io
     * paulmitchell.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -423,6 +426,7 @@
     * pottery-barn.extole.io
     * princess.extole.io
     * princessuk.extole.io
+    * procore.extole.io
     * prokeds.extole.io
     * promofarma.extole.io
     * propark.extole.io
@@ -460,6 +464,7 @@
     * scoresense.extole.io
     * seabourn.extole.io
     * securityplus.extole.io
+    * servicechannel.extole.io
     * sesamecare.extole.io
     * shark-clean.extole.io
     * shiseido.extole.io
@@ -469,6 +474,7 @@
     * signals.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
+    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -480,7 +486,6 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -724,6 +729,7 @@
 | refer.criquetshirts.com | criquetshirts.extole.com |
 | refer.crocs.com | crocs.extole.io |
 | refer.crystallight.com | crystallight-ssl.extole.com |
+| refer.cunard.com | cunard.extole.io |
 | share.cunard.com | cunard.extole.io |
 | refer.custudentloans.org | custudentloans.extole.com |
 | refer-photo.cvs.com | cvs.extole.io |
@@ -815,6 +821,7 @@
 | share.jacksonsun.com | gannett.extole.io |
 | share.kitsapsun.com | gannett.extole.io |
 | share.knoxnews.com | gannett.extole.io |
+| share.lansingstatejournal.com | gannett.extole.io |
 | share.mansfieldnewsjournal.com | gannett.extole.io |
 | share.montgomeryadvertiser.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
@@ -859,6 +866,7 @@
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
 | refer.gotowebinar.com | gotowebinar.extole.com |
+| share.granitegaragefloors.com | granitegaragefloors.extole.io |
 | refer.greatwesternbank.com | greatwesternbank.extole.io |
 | share.greenlight.com | greenlightcard.extole.io |
 | share.greenlightcard.com | greenlightcard.extole.io |
@@ -937,6 +945,7 @@
 | refer.lauramercier.com | laura-mercier.extole.io |
 | refer.laylasleep.com | layla-sleep.extole.io |
 | refer.leadmd.com | leadmd.extole.com |
+| refer.lemonaidhealth.com | lemonaidhealth.extole.io |
 | refer.lendingclub.com | lending-club.extole.io |
 | refer.lenscrafters.com | lenscrafters.extole.io |
 | share.levi.com | levi.extole.io |
@@ -1016,6 +1025,7 @@
 | share.paulmitchell.com | paulmitchell.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1037,6 +1047,7 @@
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
+| refer.procore.com | procore.extole.io |
 | refer.proflowers.com | proflowers-ssl.extole.com |
 | refer.prokeds.com | prokeds.extole.io |
 | share.docmorris.fr | promofarma.extole.io |
@@ -1092,6 +1103,7 @@
 | refer.scoresense.com | scoresense.extole.io |
 | refer.seabourn.com | seabourn.extole.io |
 | share.securityplusfcu.org | securityplus.extole.io |
+| referral.servicechannel.com | servicechannel.extole.io |
 | share.sesamecare.com | sesamecare.extole.io |
 | friend.sharefile.com | sharefile-ssl.extole.com |
 | refer.sharkclean.com | shark-clean.extole.io |
@@ -1104,6 +1116,7 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
+| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1118,7 +1131,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1702886419864        ; Serial
+           1703491221153        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,7 +37,6 @@ affil.claimcloud.cz CNAME .
 affil.comamdelat.com CNAME .
 affil.coolcocky.cz CNAME .
 affil.danfil.cz CNAME .
-affil.dobraprace.cz CNAME .
 affil.domio.cz CNAME .
 affil.dotykacka.cz CNAME .
 affil.econea.cz CNAME .
@@ -567,6 +566,7 @@ partner.kidtown.cz CNAME .
 partner.kokiskashop.cz CNAME .
 partner.kokiskashop.sk CNAME .
 partner.kominy-bokra.cz CNAME .
+partner.kreativnisvet.cz CNAME .
 partner.kurzysusmevem.cz CNAME .
 partner.kvcar.cz CNAME .
 partner.laab.cz CNAME .
@@ -628,6 +628,7 @@ partner.pletemesi.cz CNAME .
 partner.plotmarket.sk CNAME .
 partner.plotshop.sk CNAME .
 partner.pod7kilo.cz CNAME .
+partner.porovnejsito.cz CNAME .
 partner.pozitivnerozpravky.sk CNAME .
 partner.pradoch.cz CNAME .
 partner.pravopisne.cz CNAME .

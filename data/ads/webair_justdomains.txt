@@ -8,7 +8,6 @@ admin3.danarimedia.com
 ads.idiscountmall.net
 adserver.additionalmedia.com
 adserver.catapultx.com
-advertise.admetix.com
 ak-tracker.com
 akxml.nativeadsfeed.com
 apple-val.looksmart.com
@@ -189,7 +188,6 @@ filter.adhunter.media
 filter.adjux.com
 filter.adkrivmedia.com
 filter.admeridianads.com
-filter.admetix.com
 filter.admidainsight.com
 filter.admozartppc.com
 filter.admozartxml.com
@@ -359,7 +357,6 @@ login.adflores.com
 login.adflyer.media
 login.adjux.com
 login.admanmedia.com
-login.admetix.com
 login.admozartppc.com
 login.admozartxml.com
 login.adopt.media
@@ -427,7 +424,6 @@ push.bvsrv.com
 push.cerineas.com
 push.ezmob.com
 push.icyads.com
-push.landingtrk.com
 push.mywebqsearch.com
 push.newsvot.com
 push.pushub.net
@@ -691,7 +687,6 @@ serv.bvsrv.com
 serve.datacygnal.io
 sm-rtb-useast.zmdvideo.com
 static.adright.co
-static.adright.com
 static.fstsrv1.com
 static.fstsrv2.com
 static.fstsrv3.com
@@ -926,7 +921,6 @@ xml.adhunter.media
 xml.adjux.com
 xml.adkrivmedia.com
 xml.admeridianads.com
-xml.admetix.com
 xml.admidainsight.com
 xml.admozartppc.com
 xml.admozartxml.com
@@ -1025,7 +1019,6 @@ xml.infinity-info.com
 xml.junplatdirect.com
 xml.kinesis-doo.com
 xml.landingpaged.com
-xml.landingtrk.com
 xml.leoback.com
 xml.leofback.com
 xml.leoyard.com
@@ -1120,4 +1113,5 @@ xmlv4-eu.mobuppsrtb.com
 xmlv4.chameleostudios.com
 xmlv4.mobuppsrtb.com
 xmlv4.reklama.network
+static.adright.com
 static.rtb-serve.com
