@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ cdn.asdnow.xyz CNAME .
 cdn.asecv.xyz CNAME .
 cdn.asopn.com CNAME .
 cdn.asrop.xyz CNAME .
+cdn.bahswl.com CNAME .
 cdn.barlo.xyz CNAME .
 cdn.bhlph.com CNAME .
 cdn.bnmkl.com CNAME .
@@ -40,6 +41,7 @@ cdn.decpo.xyz CNAME .
 cdn.drawx.xyz CNAME .
 cdn.eecd.xyz CNAME .
 cdn.eeco.xyz CNAME .
+cdn.fajukc.com CNAME .
 cdn.falkwo.com CNAME .
 cdn.faspox.com CNAME .
 cdn.fazanppq.com CNAME .
@@ -53,7 +55,9 @@ cdn.gelhp.com CNAME .
 cdn.genfpm.com CNAME .
 cdn.gocolow.com CNAME .
 cdn.gpcrn.com CNAME .
+cdn.hhjow.com CNAME .
 cdn.hjklq.com CNAME .
+cdn.holenhw.com CNAME .
 cdn.hqwa.xyz CNAME .
 cdn.htkcm.com CNAME .
 cdn.ianjumb.com CNAME .
@@ -92,6 +96,7 @@ cdn.pllah.com CNAME .
 cdn.plmwsl.com CNAME .
 cdn.plrst.com CNAME .
 cdn.posawaj.com CNAME .
+cdn.ptomw.com CNAME .
 cdn.puyjjq.com CNAME .
 cdn.puysis.com CNAME .
 cdn.qgerr.com CNAME .
@@ -110,6 +115,7 @@ cdn.sslph.com CNAME .
 cdn.syinga.com CNAME .
 cdn.timsef.com CNAME .
 cdn.tsepyk.com CNAME .
+cdn.tzaho.com CNAME .
 cdn.ulesxbo.com CNAME .
 cdn.vcxzp.com CNAME .
 cdn.viowrel.com CNAME .
@@ -291,7 +297,6 @@ cat.beunitedinchrist.com CNAME .
 cat.chainotate.com CNAME .
 cat.gfx.io CNAME .
 cat.laravel-news.com CNAME .
-cat.lasalturasresort.com CNAME .
 cat.mattr.global CNAME .
 cat.remotefit.io CNAME .
 cat.serverless.quest CNAME .
@@ -903,6 +908,7 @@ raccoon.jaronheard.com CNAME .
 rat.gimlet.io CNAME .
 raven.konquadrat.de CNAME .
 raven.vethelpdirect.com CNAME .
+reindeer.dunkeldholidayhome.co.uk CNAME .
 reindeer.iainbroome.com CNAME .
 reindeer.pablomaceda.com CNAME .
 reptile.o-lit.fr CNAME .
@@ -962,6 +968,7 @@ silverfish.camaleon.gt CNAME .
 silverfish.dailybuilds.com CNAME .
 silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
+skunk.gameworkersolidarity.com CNAME .
 sloth.goodtendency.app CNAME .
 sloth.vguerrerobosch.com CNAME .
 smelt.allenpike.com CNAME .
@@ -1021,6 +1028,7 @@ swordfish.hotcross.com CNAME .
 swordfish.joebuhlig.com CNAME .
 swordfish.lorem.industries CNAME .
 swordfish.mattpreston.io CNAME .
+swordtail.hnh.digital CNAME .
 swordtail.rockface.io CNAME .
 swordtail.thocstock.com CNAME .
 t0ikowg7jg.serverlesslaravelcourse.com CNAME .
@@ -1048,6 +1056,7 @@ tigershark.samwaymire.com CNAME .
 tigershark.vandevliet.me CNAME .
 tiglon.beyondco.de CNAME .
 tiglon.davidroessli.com CNAME .
+toad.ettiennevorster.co.za CNAME .
 tortoise.transistor.fm CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.the-faithful.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -66,6 +66,7 @@ cc.sexstories-xxx.com CNAME .
 cc.sexverhalen-gratis.com CNAME .
 cc2.camcaps.io CNAME .
 cdn1.memojav.com CNAME .
+cdn1.xvideohub.top CNAME .
 cdn2.picyield.com CNAME .
 ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .

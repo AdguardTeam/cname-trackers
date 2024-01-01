@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -149,7 +149,6 @@ a8.hemptouch.co.jp CNAME .
 a8.hikari-flets.jp CNAME .
 a8.hikari-n.jp CNAME .
 a8.hikari-softbank.jp CNAME .
-a8.hikarimach.net CNAME .
 a8.hikarix.net CNAME .
 a8.hitohana.tokyo CNAME .
 a8.hitoma-tuhan.com CNAME .
@@ -311,12 +310,12 @@ a8.speever.jp CNAME .
 a8.sport-school.com CNAME .
 a8.ssl.aispr.jp CNAME .
 a8.st.oddspark.com CNAME .
-a8.starseries.biz CNAME .
 a8.store.aceservice.jp CNAME .
 a8.store.goo.ne.jp CNAME .
 a8.strapya.com CNAME .
 a8.sui-so.com CNAME .
 a8.suma-sapo.net CNAME .
+a8.sumai-planet.com CNAME .
 a8.sumilena.co.jp CNAME .
 a8.tabechoku.com CNAME .
 a8.tailorenglish.jp CNAME .
@@ -441,7 +440,6 @@ a8clk.biz-communication.jp CNAME .
 a8clk.bizworkers.jp CNAME .
 a8clk.booking.jetfi.jp CNAME .
 a8clk.bresmile.jp CNAME .
-a8clk.bstyle.store CNAME .
 a8clk.bungeisha.co.jp CNAME .
 a8clk.buy-master.com CNAME .
 a8clk.buyking.club CNAME .
@@ -831,7 +829,6 @@ a8cv.careerpark-agent.jp CNAME .
 a8cv.carryonmall.com CNAME .
 a8cv.cart.bi-su.jp CNAME .
 a8cv.cast-er.com CNAME .
-a8cv.catal.jp CNAME .
 a8cv.celav.net CNAME .
 a8cv.celbest.urr.jp CNAME .
 a8cv.cellbic.net CNAME .
@@ -1148,7 +1145,6 @@ a8cv.rohto.co.jp CNAME .
 a8cv.runteq.jp CNAME .
 a8cv.s-darts.com CNAME .
 a8cv.sabusuta.jp CNAME .
-a8cv.safetycart.jp CNAME .
 a8cv.saitoma.com CNAME .
 a8cv.sakura-forest.com CNAME .
 a8cv.sanix.jp CNAME .
@@ -1216,7 +1212,6 @@ a8cv.t-bang.jp CNAME .
 a8cv.t-gaia.co.jp CNAME .
 a8cv.taclinic.jp CNAME .
 a8cv.taisyokudaiko.jp CNAME .
-a8cv.take-eats.jp CNAME .
 a8cv.tamago-repeat.com CNAME .
 a8cv.taxi-qjin.com CNAME .
 a8cv.techkidsschool.jp CNAME .
@@ -1296,7 +1291,6 @@ a8cv.you-shoku.net CNAME .
 a8cv.yui.gift CNAME .
 a8cv.yuyu-tei.jp CNAME .
 a8cv.zacc.jp CNAME .
-a8cv.zero-homes.net CNAME .
 a8cv.zeroen-denki.com CNAME .
 a8cv.zerorenovation.com CNAME .
 a8cv.zoner.com CNAME .

@@ -403,6 +403,7 @@
 ||tr.gestion.credit-moderne.fr^
 ||tr.gestion.domofinance.fr^
 ||tr.gestion.floa.fr^
+||tr.gestion.hondafinancialservices.fr^
 ||tr.gestion.lexpress.fr^
 ||tr.gestion.liberation.fr^
 ||tr.gestion.norrsken.fr^
@@ -544,6 +545,7 @@
 ||tr.kpyn02f.espmp-cufr.net^
 ||tr.kpyn059.espmp-pofr.net^
 ||tr.krus.espmp-agfr.net^
+||tr.landrover.compte-financial-services.fr^
 ||tr.laprairie.ifop.com^
 ||tr.lbar.espmp-agfr.net^
 ||tr.leads.direct^

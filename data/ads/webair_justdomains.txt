@@ -687,6 +687,7 @@ serv.bvsrv.com
 serve.datacygnal.io
 sm-rtb-useast.zmdvideo.com
 static.adright.co
+static.adright.com
 static.fstsrv1.com
 static.fstsrv2.com
 static.fstsrv3.com
@@ -706,14 +707,11 @@ tag.adkernel.com
 tag.musiciansaudience.com
 tq-eu.frdjs-1.co
 tq-eu.frdjs-2.co
-tq-eu.gipostart-1.co
 tq-eu.nxthost-1.info
 tq-eu.nxthost-2.info
 tq.adventurefeeds.com
 tq.frdjs-1.co
 tq.frdjs-2.co
-tq.gipostart-1.co
-tq.gipostart-2.co
 tq.nxthost-1.info
 tq.nxthost-2.info
 tq.pdn-eu.com
@@ -793,8 +791,6 @@ xml-eu-v4.frdjs-1.co
 xml-eu-v4.frdjs-2.co
 xml-eu-v4.fstsrv5.com
 xml-eu-v4.fstsrv6.com
-xml-eu-v4.gipostart-1.co
-xml-eu-v4.gipostart-2.co
 xml-eu-v4.hawkads.in
 xml-eu-v4.nxthost-1.info
 xml-eu-v4.nxthost-2.info
@@ -829,8 +825,6 @@ xml-eu.ezmob.com
 xml-eu.flairadscpc.com
 xml-eu.foremedia.net
 xml-eu.frdjs-1.co
-xml-eu.gipostart-1.co
-xml-eu.gipostart-2.co
 xml-eu.hueadsxml.com
 xml-eu.mediaxchange.co
 xml-eu.mobipromote.com
@@ -882,8 +876,6 @@ xml-v4.fstsrv3.com
 xml-v4.fstsrv4.com
 xml-v4.fstsrv5.com
 xml-v4.fstsrv6.com
-xml-v4.gipostart-1.co
-xml-v4.gipostart-2.co
 xml-v4.hetcash.com
 xml-v4.kunvertads.com
 xml-v4.mobifly.net
@@ -1006,7 +998,6 @@ xml.fstsrv3.com
 xml.fstsrv4.com
 xml.fstsrv5.com
 xml.fstsrv6.com
-xml.gipostart-2.co
 xml.groovyadz.com
 xml.hangfly.net
 xml.hetcash.com
@@ -1113,5 +1104,4 @@ xmlv4-eu.mobuppsrtb.com
 xmlv4.chameleostudios.com
 xmlv4.mobuppsrtb.com
 xmlv4.reklama.network
-static.adright.com
 static.rtb-serve.com

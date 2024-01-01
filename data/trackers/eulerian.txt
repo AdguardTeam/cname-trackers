@@ -327,8 +327,6 @@
 ||nmu3.destinia.be^
 ||noa0.compteczam.fr^
 ||nrg.red-by-sfr.fr^
-||nym5c.bonlook.com^
-||nym5c.laura.ca^
 ||nyt1.biosens-leanature.fr^
 ||o68c.sfr.fr^
 ||oae6.carrefour-banque.fr^
@@ -404,6 +402,7 @@
 ||rqz4.supdigital.fr^
 ||rup5.destinia.ru^
 ||rvz9.destinia.co.ro^
+||ry0.rythmefm.com^
 ||s4e8.cascades.com^
 ||sa.lesselectionsskoda.fr^
 ||sa.skoda.fr^
@@ -490,7 +489,6 @@
 ||www.mis.tourisme-montreal.org^
 ||xay5o.toscane-boutique.fr^
 ||xjq5.belambra.be^
-||xoq.pmubrasil.com.br^
 ||xuc.monteleone.fr^
 ||xy33.smallable.com^
 ||xya4.groupefsc.com^
@@ -518,6 +516,7 @@
 ||d2u.dauphinquebec.com^
 ||eat9.thebeat925.ca^
 ||hk2d.tourismemauricie.com^
-||ry0.rythmefm.com^
+||nym5c.bonlook.com^
 ||ea.mnt.fr^
 ||gi7a.structube.com^
+||nym5c.laura.ca^

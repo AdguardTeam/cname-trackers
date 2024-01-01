@@ -7,7 +7,6 @@
 ||act-on.ioactive.com^
 ||act.pivotpointsecurity.com^
 ||act.soneticscorp.com^
-||act.wernerelectric.com^
 ||actie.milieudefensie.nl^
 ||acton.brightspeed.com^
 ||administrator.pnclassaction.com^
@@ -26,31 +25,27 @@
 ||business.franchiseopportunities.com^
 ||buzz.logility.com^
 ||ca.ssl.holdmybeerconsulting.com^
+||calgary-content.cresa.com^
 ||campaign.csrxp.org^
 ||campaigns.hygiena.com^
 ||campaigns.mindplusmatter.com^
 ||campaigns.primaverabss.com^
 ||ch.sharpmarketing.eu^
 ||click.aabacosmallbusiness.com^
-||click.execrank.com^
 ||click.quickenloansnow.com^
 ||college.business.oregonstate.edu^
 ||communications.all-risks.com^
+||communications.enrouteglobalexchange.com^
 ||communications.ypo.org^
-||connect.audalianexia.com^
 ||connect.ciena.com^
-||connect.landy.com^
 ||connect.lightriver.com^
 ||connect.mikrocentrum.nl^
 ||connect.rush.edu^
 ||connect.shopaplusrentals.com^
 ||connect.shoprentone.com^
-||connect.uniti.com^
 ||connect.uofuhealth.org^
 ||contact.marathon-sports-ec.com^
 ||content.demand-on.com^
-||content.fabasoft.com^
-||content.harrisproductsgroup.com^
 ||content.msufcu.org^
 ||content.ncek12.com^
 ||content.qumulo.com^
@@ -61,9 +56,9 @@
 ||de.sharpmarketing.eu^
 ||dealercontent.homehardware.ca^
 ||devotionalclicks.amazingfacts.org^
+||dignityhealth.hrm.healthgrades.com^
 ||direct.t-mobile.com^
 ||discover.dignityhealth.org^
-||distribution.provenpharma.com^
 ||e.replacementdevicelawsuit.com^
 ||edeals.rbp.com^
 ||education.greatbatch.com^
@@ -77,7 +72,6 @@
 ||es.lucanet.com^
 ||es.sharpmarketing.eu^
 ||eservices.lubetech.com^
-||estore.biscoind.com^
 ||experience.faiu.com^
 ||experience.rochesterregional.org^
 ||fac.fanucamerica.com^
@@ -85,10 +79,9 @@
 ||flexpod.ynsecureserver.net^
 ||foodpackaging.kpfilms.com^
 ||forms.accc-cancer.org^
-||fr.lucanet.com^
 ||fr.sharpmarketing.eu^
 ||gas-sensing.spec-sensors.com^
-||generaleducation.graduateprogram.org^
+||get.isentia.com^
 ||globalcommunications.sc.com^
 ||go.bciburke.com^
 ||go.carlisleft.com^
@@ -100,6 +93,7 @@
 ||go.fvtc.edu^
 ||go.gemapowdercoating.net^
 ||go.gpcom.com^
+||go.lanair.com^
 ||go.loveshaw.com^
 ||go.mktgcampaigns.com^
 ||go.northsidemedia.com^
@@ -114,7 +108,6 @@
 ||go.quartzinvitations.com^
 ||go.reico.com^
 ||go.rex-bac-t.com^
-||go.riosalado.edu^
 ||go.segra.com^
 ||go.spartansolutions.com^
 ||go.tdyne.com^
@@ -123,12 +116,12 @@
 ||go.wtcmachinery.com^
 ||grado.ufv.es^
 ||groupevents.sixflags.com^
-||hpninfo.hoopis.com^
+||healthy.spartanburgregional.com^
 ||hra.nyp.org^
 ||hrm.healthgrades.com^
 ||hu.sharpmarketing.eu^
 ||hub.hubfinancial.com^
-||il.promo.skf.com^
+||icslearn.actonsoftware.com^
 ||independence.americanportfolios.com^
 ||info.accutrain.com^
 ||info.advantageman.com^
@@ -143,9 +136,9 @@
 ||info.battelle.org^
 ||info.beaumont.org^
 ||info.briefing.com^
-||info.bris.bdo.com.au^
 ||info.burnswhite.com^
 ||info.camchealth.org^
+||info.centrak.com^
 ||info.charityvillage.com^
 ||info.clariant.com^
 ||info.compusource.com^
@@ -153,7 +146,6 @@
 ||info.drawingboard.com^
 ||info.edriving.com^
 ||info.eecoonline.com^
-||info.em-ametek.com^
 ||info.emishealth.com^
 ||info.esriindonesia.co.id^
 ||info.esrimalaysia.com.my^
@@ -161,9 +153,11 @@
 ||info.foundationsoft.com^
 ||info.franchisegator.com^
 ||info.franklin.edu^
+||info.frenchgerleman.com^
 ||info.furykeywest.com^
 ||info.gatan.com^
 ||info.genesishealth.com^
+||info.goagilix.com^
 ||info.gravie.com^
 ||info.graystone-eye.com^
 ||info.guardiancu.org^
@@ -174,7 +168,6 @@
 ||info.icslearn.co.uk^
 ||info.ijungo.com^
 ||info.interworks.cloud^
-||info.invata.com^
 ||info.itw-air.com^
 ||info.itwcce.com^
 ||info.jensenhughes.com^
@@ -182,38 +175,39 @@
 ||info.kratosdefense.com^
 ||info.labelworks.com^
 ||info.landstar.com^
-||info.marshpcs.com^
+||info.lansingbp.com^
 ||info.marumatchbox.com^
 ||info.mccloudservices.com^
 ||info.memberzone.com^
 ||info.meriwest.com^
 ||info.motion10.nl^
 ||info.mshs.com^
+||info.multichannelsystems.com^
 ||info.multitech.com^
 ||info.narcdc.org^
 ||info.neosllc.com^
 ||info.ngfcu.us^
 ||info.normecfoodcare.com^
-||info.osufoundation.org^
 ||info.parivedasolutions.com^
 ||info.paydashboardinfo.com^
 ||info.payroll4construction.com^
 ||info.raytecled.com^
 ||info.re-sourcepartners.com^
 ||info.recoverypoint.com^
-||info.rev1ventures.com^
 ||info.scottmadden.com^
 ||info.secotools.com^
 ||info.siglentna.com^
 ||info.smartstrategyonline.com^
 ||info.solidscape.com^
+||info.spark-point.com^
+||info.spencerfane.com^
 ||info.supercare.health^
 ||info.themyersbriggs.com^
 ||info.thepgaofamerica.com^
-||info.tmlt.org^
 ||info.truemfg.com^
 ||info.txeee.engr.utexas.edu^
 ||info.uchealth.com^
+||info.uila.com^
 ||info.veoci.com^
 ||info.zuidema.nl^
 ||infoco.readingpartners.org^
@@ -226,6 +220,7 @@
 ||join.opencare.com^
 ||joinus.holidayseniorliving.com^
 ||jwpepper.actonsoftware.com^
+||learn.neocertified.com^
 ||link.hitachi-hightech.com^
 ||links.riverview.org^
 ||lowermybills.actonsoftware.com^
@@ -234,9 +229,8 @@
 ||ma.pasco.com^
 ||ma.revideco.se^
 ||madetoconnect.summit-broadband.com^
-||mailer.gameloft.com^
+||mailers.unitedadlabel.com^
 ||mailing.elconfidencialdigital.com^
-||marine.promo.skf.com^
 ||marketing-info.cargurus.com^
 ||marketing-us.contentguru.com^
 ||marketing.602.cz^
@@ -249,17 +243,14 @@
 ||marketing.akaes.com^
 ||marketing.alabamacu.com^
 ||marketing.alere.com^
-||marketing.alhi.com^
 ||marketing.alphastarcm.com^
 ||marketing.alsearsmd.com^
 ||marketing.aragonresearch.com^
 ||marketing.ariser.se^
 ||marketing.arlington.org^
-||marketing.arrayasolutions.com^
 ||marketing.ashcroft.com^
 ||marketing.aten.com^
 ||marketing.atlanticcitynj.com^
-||marketing.avantage.nl^
 ||marketing.aztekweb.com^
 ||marketing.bfandt.com^
 ||marketing.bftwealth.com^
@@ -275,20 +266,22 @@
 ||marketing.christchurchnz.com^
 ||marketing.cisco-eagle.com^
 ||marketing.clickatell.com^
+||marketing.confidentialcures.com^
 ||marketing.contentguru.nl^
 ||marketing.crystalcoastnc.org^
 ||marketing.dacocorp.com^
+||marketing.dataprise.com^
 ||marketing.demagcranes.com^
 ||marketing.destinationgranby.com^
 ||marketing.diningalliance.com^
 ||marketing.discoverdenton.com^
 ||marketing.discoverkalamazoo.com^
 ||marketing.discoverpuertorico.com^
+||marketing.discoversantaclara.org^
 ||marketing.dnacenter.com^
 ||marketing.dryvit.com^
 ||marketing.duckbrand.com^
 ||marketing.elastoproxy.com^
-||marketing.electroind.com^
 ||marketing.enhancedvision.com^
 ||marketing.erioninsurance.com^
 ||marketing.eurofinsus.com^
@@ -301,6 +294,7 @@
 ||marketing.explorenorthmyrtlebeach.com^
 ||marketing.ezicarrental.co.nz^
 ||marketing.fatiguescience.com^
+||marketing.fedsched.com^
 ||marketing.firstinsurancefunding.com^
 ||marketing.fmbankva.com^
 ||marketing.foxrehab.org^
@@ -310,21 +304,24 @@
 ||marketing.gbg.com^
 ||marketing.genesis-fs.com^
 ||marketing.globalpointofcare.abbott^
-||marketing.goldenpaints.com^
 ||marketing.gosenergy.com^
 ||marketing.grandecheese.com^
 ||marketing.growthmodemarketing.com^
 ||marketing.hcrwealth.com^
+||marketing.hemsleyfraserdigital.com^
 ||marketing.hhglobal.com^
+||marketing.highpoint.com^
 ||marketing.highwoods.com^
 ||marketing.hines.com^
 ||marketing.idquantique.com^
 ||marketing.igel.com^
+||marketing.imagexmedia.com^
 ||marketing.indianadunes.com^
 ||marketing.industrialformulatorsinc.com^
 ||marketing.inszoneinsurance.com^
 ||marketing.intellifuel.com^
 ||marketing.inthenest.com^
+||marketing.inventiconasia.com^
 ||marketing.invitria.com^
 ||marketing.itshome.com^
 ||marketing.izeno.com^
@@ -337,7 +334,6 @@
 ||marketing.kestlerfinancial.com^
 ||marketing.keylane.com^
 ||marketing.konecranes.com^
-||marketing.kpfilms.com^
 ||marketing.lakecountyfl.gov^
 ||marketing.lakepointadvisorygroup.com^
 ||marketing.landuscooperative.com^
@@ -362,10 +358,12 @@
 ||marketing.medical.averydennison.com^
 ||marketing.medxm1.com^
 ||marketing.meetprestige.com^
+||marketing.mesalabs.com^
 ||marketing.mgis.com^
 ||marketing.mhinvest.com^
 ||marketing.mie-solutions.com^
 ||marketing.millstonefinancial.net^
+||marketing.mimakiusa.com^
 ||marketing.molenaar.nl^
 ||marketing.moodypublishers.com^
 ||marketing.myadvice.com^
@@ -380,7 +378,6 @@
 ||marketing.npuins.com^
 ||marketing.nsfocus.com^
 ||marketing.omnifymarketing.com^
-||marketing.oni.co.uk^
 ||marketing.openskygroup.com^
 ||marketing.opexanalytics.com^
 ||marketing.optimumenergyco.com^
@@ -412,6 +409,7 @@
 ||marketing.rxaap.com^
 ||marketing.saegissolutions.ca^
 ||marketing.santabarbaraca.com^
+||marketing.scalematrix.com^
 ||marketing.schneiderdowns.com^
 ||marketing.seemonterey.com^
 ||marketing.self-helpfcu.org^
@@ -427,6 +425,7 @@
 ||marketing.specgradeled.com^
 ||marketing.spinnakermgmt.com^
 ||marketing.ssfllp.com^
+||marketing.staffboom.com^
 ||marketing.stahl.com^
 ||marketing.stamen.com^
 ||marketing.stellarmls.com^
@@ -461,6 +460,7 @@
 ||marketing.triconamericanhomes.com^
 ||marketing.triconresidential.com^
 ||marketing.trimtabconsultants.com^
+||marketing.trustid.com^
 ||marketing.ttcu.com^
 ||marketing.tucasi.com^
 ||marketing.twofivesix.co^
@@ -479,7 +479,6 @@
 ||marketing.visitchesapeake.com^
 ||marketing.visitcookcounty.com^
 ||marketing.visitjamaica.com^
-||marketing.visitlex.com^
 ||marketing.visitloscabos.travel^
 ||marketing.visitmdr.com^
 ||marketing.visitmusiccity.com^
@@ -498,12 +497,13 @@
 ||marketing.wesco.com.br^
 ||marketing.worldnetpr.com^
 ||marketing.wsandco.com^
+||marketing.xait.com^
 ||marketing.xcess.nl^
+||marketingautomation.impexium.net^
 ||marketingus.hso.com^
 ||markkinointi.kespro.com^
 ||mas.hronboard.me^
 ||mbna.bruker.com^
-||media.leahy-ifp.com^
 ||mediasolutions.netinsight.net^
 ||merchant-mail.neosurf.com^
 ||microfocus.qm-g.com^
@@ -513,7 +513,6 @@
 ||mktg.senneca.com^
 ||mktg.ummhealth.org^
 ||mm.morrellinc.com^
-||moody.actonsoftware.com^
 ||more.socialflow.com^
 ||mri.iradimed.com^
 ||msi.msigts.com^
@@ -529,6 +528,7 @@
 ||news.rbj.net^
 ||news.strategiccfo360.com^
 ||newsletter.bcautoencheres.fr^
+||nordic.promo.skf.com^
 ||nordics.sharpmarketing.eu^
 ||one-workspace.matrix42.com^
 ||ottawa-content.cresa.com^
@@ -557,13 +557,10 @@
 ||remarketing.oncourselearning.com^
 ||resolution.taxdefensenetwork.com^
 ||resources.acarasolutions.com^
-||resources.acarasolutions.in^
 ||resources.digitcom.ca^
-||saas.stratitude.com^
-||scispg.smu.edu.sg^
+||resources.talentrise.com^
 ||seb.sharpmarketing.eu^
 ||seniorliving.atriumatnavesink.org^
-||seniorliving.eastridgeatcutlerbay.com^
 ||seniorliving.greystonecommunities.com^
 ||seniorliving.presvillagenorth.org^
 ||seniorliving.sagewoodlcs.com^
@@ -571,6 +568,7 @@
 ||seniorliving.thestayton.com^
 ||seniorliving.thewoodlandsatfurman.org^
 ||seniorliving.trilliumwoodslcs.com^
+||service.charitiesaidfoundation.org.uk^
 ||service.frankwatching.com^
 ||sfsinfo.sabic.com^
 ||sg.lucanet.com^
@@ -596,16 +594,17 @@
 ||teamhodges.hodgesualumniandfriends.com^
 ||technical.kyzen.com^
 ||techservices.trapptechnology.com^
+||tentflooring.biljax.com^
 ||think.phdinc.com^
 ||tradeshows.aem.org^
 ||travel.ec-ovc.com^
 ||travel.onlinevacationcenter.com^
 ||trust.titanhq.com^
 ||ugmarketing.smu.edu.sg^
+||uk.lucanet.com^
 ||us.lucanet.com^
 ||usb-vna.coppermountaintech.com^
 ||weare.ballymoregroup.com^
-||web.eisenhowerhealthnews.org^
 ||web.iru.org^
 ||ww2.businessgrouphealth.org^
 ||www.bcaeurope.eu^
@@ -613,7 +612,6 @@
 ||www.paydashboardinfo.com^
 ||www1.mcsrentalsoftware.com^
 ||www2.bimobject.com^
-||www2.cet-uk.com^
 ||www2.citizensclimatelobby.org^
 ||yourcare.pennstatehealth.org^
 ||yourhealth.bassett.org^
@@ -1352,6 +1350,7 @@
 ||a28487.actonservice.com^
 ||a28490.actonservice.com^
 ||a28513.actonservice.com^
+||a28515.actonservice.com^
 ||a28527.actonservice.com^
 ||a28539.actonservice.com^
 ||a28557.actonservice.com^
@@ -1397,6 +1396,7 @@
 ||a29270.actonservice.com^
 ||a29282.actonservice.com^
 ||a29286.actonservice.com^
+||a29312.actonservice.com^
 ||a29315.actonservice.com^
 ||a29319.actonservice.com^
 ||a29322.actonservice.com^
@@ -2050,6 +2050,7 @@
 ||a45364.actonservice.com^
 ||a45365.actonservice.com^
 ||a45366.actonservice.com^
+||a45367.actonservice.com^
 ||a45395.actonservice.com^
 ||a45403.actonservice.com^
 ||a45405.actonservice.com^
@@ -2146,6 +2147,7 @@
 ||act.lanap.com^
 ||act.online.engineering.nyu.edu^
 ||act.plumvoice.com^
+||act.wernerelectric.com^
 ||action.advisorycloud.com^
 ||action.logixfiber.com^
 ||action.totalcompbuilder.com^
@@ -2334,7 +2336,6 @@
 ||ca.promo.skf.com^
 ||caderonline.bu.edu^
 ||caf.actonservice.com^
-||calgary-content.cresa.com^
 ||caliberco.actonservice.com^
 ||california.providence.hrm.healthgrades.com^
 ||caljetelite.actonservice.com^
@@ -2380,6 +2381,7 @@
 ||click.amazingfacts.org^
 ||click.avalere.com^
 ||click.datanyze.com^
+||click.execrank.com^
 ||click.zoominformation.com^
 ||clickatell.actonservice.com^
 ||clientservice.alphasimplex.com^
@@ -2430,6 +2432,7 @@
 ||comviewcorp.actonservice.com^
 ||conference.flsmidth.com^
 ||confiaen.legalitas.com^
+||connect.audalianexia.com^
 ||connect.bdoalliance.com^
 ||connect.blackmesh.com^
 ||connect.businessldn.co.uk^
@@ -2442,6 +2445,7 @@
 ||connect.imam-us.org^
 ||connect.invibio.com^
 ||connect.kristechwire.com^
+||connect.landy.com^
 ||connect.mdtelephone.com^
 ||connect.meringcarson.com^
 ||connect.munsonhealthcare.org^
@@ -2453,6 +2457,7 @@
 ||connect.stvincentcharity.com^
 ||connect.thinkinterval.com^
 ||connect.tpgtelecom.com.au^
+||connect.uniti.com^
 ||connect.walkerfirst.com^
 ||connected.integrationpoint.com^
 ||connectedmedicaltechnologies.actonservice.com^
@@ -2474,7 +2479,10 @@
 ||content.distium.com^
 ||content.e-office.com^
 ||content.enlightiumacademy.com^
+||content.fabasoft.com^
 ||content.familyfeatures.com^
+||content.harrisproductsgroup.com^
+||content.investresolve.com^
 ||content.linesight.com^
 ||content.logile.com^
 ||content.mhs.net^
@@ -2537,7 +2545,6 @@
 ||digitalmarketing.gogsg.com^
 ||digitalmarketing.nglantz.com^
 ||digitalmarketing.smu.edu.sg^
-||dignityhealth.hrm.healthgrades.com^
 ||diio.actonservice.com^
 ||dimensionfunding.actonservice.com^
 ||dincloud.actonservice.com^
@@ -2550,6 +2557,7 @@
 ||discover.supplydepotstore.com^
 ||discoverorg.actonservice.com^
 ||displaymaxmerchandising.actonservice.com^
+||distribution.provenpharma.com^
 ||dkno.netpartnering.com^
 ||dm.syntelli.com^
 ||dmarkconsulting.actonservice.com^
@@ -2590,6 +2598,7 @@
 ||elconfidencialdigital.actonservice.com^
 ||electrifai.actonservice.com^
 ||elgas.actonservice.com^
+||elink.altru.org^
 ||elink.rushcopley.com^
 ||elogic-learning.actonservice.com^
 ||em.stauffersafety.com^
@@ -2622,6 +2631,7 @@
 ||enews.supplyframe.com^
 ||engage.alphastarcm.com^
 ||engage.ca.victorinsurance.com^
+||engage.ce.victorinsurance.com^
 ||engage.clinipace.com^
 ||engage.dorngroup.com^
 ||engage.dovetailinsurance.com^
@@ -2642,6 +2652,7 @@
 ||erepublic.actonservice.com^
 ||eschsupply.actonservice.com^
 ||essentiahealth.hrm.healthgrades.com^
+||estore.biscoind.com^
 ||etude.epidemiologie-pop-ge.ch^
 ||eu.sharpmarketing.eu^
 ||eumarketing.sedgwick.com^
@@ -2689,6 +2700,7 @@
 ||forpci3.siege-corp.com^
 ||foxt.actonservice.com^
 ||foxtinfo.foxt.com^
+||fr.lucanet.com^
 ||fr.promo.skf.com^
 ||franchise.goodearthcoffeehouse.com^
 ||franchise.locktonaffinity.net^
@@ -2711,13 +2723,13 @@
 ||gameplanfinancial.actonservice.com^
 ||gassales.eversource.com^
 ||gatan.actonservice.com^
+||generaleducation.graduateprogram.org^
 ||genesishealth.hrm.healthgrades.com^
 ||geo.bluedot.io^
 ||geonetric.actonservice.com^
 ||get.airecontact.com^
 ||get.evidence.care^
 ||get.incisive.com^
-||get.isentia.com^
 ||get.nuapay.com^
 ||getstarted.national.edu^
 ||gettoknow.skookum.com^
@@ -2754,7 +2766,6 @@
 ||go.infopulse.com^
 ||go.isbamutual.com^
 ||go.janesvilleinnovation.com^
-||go.lanair.com^
 ||go.lanmark360.com^
 ||go.leecompany.com^
 ||go.lendspace.com^
@@ -2772,6 +2783,7 @@
 ||go.nvp.com^
 ||go.pgx.com^
 ||go.redimark.com^
+||go.riosalado.edu^
 ||go.rtafleet.com^
 ||go.salessurrogate.com^
 ||go.shareknowledge.com^
@@ -2836,7 +2848,6 @@
 ||healthgrades.actonservice.com^
 ||healthpay24.actonservice.com^
 ||healthquest.hrm.healthgrades.com^
-||healthy.spartanburgregional.com^
 ||heartflow.actonservice.com^
 ||helens.actonservice.com^
 ||hello.controlmap.io^
@@ -2859,6 +2870,7 @@
 ||horacemann.actonservice.com^
 ||hotel-marketing.hrs.com^
 ||houston-content.cresa.com^
+||hpninfo.hoopis.com^
 ||hr.promo.skf.com^
 ||hrci.actonservice.com^
 ||hronboard.actonservice.com^
@@ -2875,13 +2887,13 @@
 ||iberian.promo.skf.com^
 ||icahealth.actonservice.com^
 ||icharts.actonservice.com^
-||icslearn.actonsoftware.com^
 ||id.promo.skf.com^
 ||ideadevice.actonservice.com^
 ||idrivelogistics.actonservice.com^
 ||ids.actonservice.com^
 ||ignite.liftigniter.com^
 ||ihc.cellmarque.com^
+||il.promo.skf.com^
 ||immunocorp.actonservice.com^
 ||impact-dm.actonservice.com^
 ||in.promo.skf.com^
@@ -2917,6 +2929,7 @@
 ||info.avantiplc.com^
 ||info.awos.com^
 ||info.azuga.com^
+||info.b2lead-marketing.com^
 ||info.backbonemedia.com^
 ||info.base2s.com^
 ||info.bcn.nl^
@@ -2935,6 +2948,7 @@
 ||info.boundtree.com^
 ||info.brand.live^
 ||info.brilliantfs.com^
+||info.bris.bdo.com.au^
 ||info.bvcm.nl^
 ||info.bvo.nl^
 ||info.cafonline.org^
@@ -2945,7 +2959,6 @@
 ||info.cascadeo.com^
 ||info.castlemetals.com^
 ||info.ccbjournal.com^
-||info.centrak.com^
 ||info.centurybizsolutions.com^
 ||info.cfevr.org^
 ||info.cfl.dk^
@@ -2965,7 +2978,6 @@
 ||info.cogstate.com^
 ||info.collab9.com^
 ||info.comsoft-direct.nl^
-||info.connect2metrics.com^
 ||info.cpihr.aleragroup.com^
 ||info.cranes101.com^
 ||info.creadis.com^
@@ -3001,6 +3013,7 @@
 ||info.eco.ca^
 ||info.edtrainingcenter.com^
 ||info.electrifai.net^
+||info.em-ametek.com^
 ||info.emergentsx.com^
 ||info.emersonecologics.com^
 ||info.enchantedrock.com^
@@ -3032,7 +3045,6 @@
 ||info.fptransitions.com^
 ||info.freedom-iot.com^
 ||info.freedomcte.com^
-||info.frenchgerleman.com^
 ||info.gcgfinancial-aia.aleragroup.com^
 ||info.gcgfinancial.aleragroup.com^
 ||info.geonetric.com^
@@ -3076,6 +3088,7 @@
 ||info.infinityenergy.com^
 ||info.inigral.com^
 ||info.insurancehotline.com^
+||info.invata.com^
 ||info.invo-progressus.com^
 ||info.ironcad.com^
 ||info.iwerk.com^
@@ -3101,7 +3114,6 @@
 ||info.kratoscomms.com^
 ||info.laconservancy.org^
 ||info.lakewoodwestend.org^
-||info.lansingbp.com^
 ||info.laseradvanced.com^
 ||info.ledcrew.com^
 ||info.liftfund.com^
@@ -3115,6 +3127,7 @@
 ||info.magnumsystems.com^
 ||info.managementsuccess.com^
 ||info.marshmsp.com^
+||info.marshpcs.com^
 ||info.marublue.com^
 ||info.maruedrcx.com^
 ||info.marugroup.net^
@@ -3165,6 +3178,7 @@
 ||info.omep.org^
 ||info.ortecfinance.com^
 ||info.osiriseducational.co.uk^
+||info.osufoundation.org^
 ||info.ozerybakery.com^
 ||info.padistance.org^
 ||info.pamdrivingjobs.com^
@@ -3202,10 +3216,12 @@
 ||info.relphbenefit.aleragroup.com^
 ||info.relphbenefitadvisors.aleragroup.com^
 ||info.reltio.com^
+||info.rev1ventures.com^
 ||info.rhahvac.com^
 ||info.rodenhiser.com^
 ||info.romerlabs.com^
 ||info.safecorhealth.com^
+||info.safeguardrisksolutions.com^
 ||info.safelogic.com^
 ||info.safety-kleen.com^
 ||info.sagewater.com^
@@ -3225,12 +3241,12 @@
 ||info.shilohtech.com^
 ||info.shirazi.aleragroup.com^
 ||info.simutechmultimedia.com^
+||info.sispartnerplatform.com^
 ||info.skystem.com^
 ||info.smartbrief.com^
 ||info.smartstrategyapps.com^
 ||info.smilemarketing.com^
 ||info.southstarcapital.com^
-||info.spencerfane.com^
 ||info.sseinc.com^
 ||info.sswhitedental.com^
 ||info.stdom.com^
@@ -3261,6 +3277,7 @@
 ||info.tighten.com^
 ||info.timcorubber.com^
 ||info.tiwoiltools.com^
+||info.tmlt.org^
 ||info.touchtown.us^
 ||info.tpctrainco.com^
 ||info.tpctraining.com^
@@ -3478,7 +3495,6 @@
 ||ma.smartplanes.se^
 ||ma.tss.se^
 ||ma.uslawns.com^
-||ma.workhorse.dev^
 ||madisoncres.actonservice.com^
 ||mafiahairdresser.actonservice.com^
 ||maformationofficinale.actonservice.com^
@@ -3488,13 +3504,14 @@
 ||mail.firsthome.com^
 ||mail.spandex.com^
 ||mailer.conad.com^
+||mailer.gameloft.com^
 ||mailers.fusioncharts.com^
-||mailers.unitedadlabel.com^
 ||manufacturing.autodeskcommunications.com^
 ||marcom.biodex.com^
 ||marcomauto.globalfoundries.com^
 ||marcomm.woodward.com^
 ||maricich.actonservice.com^
+||marine.promo.skf.com^
 ||markentive.actonservice.com^
 ||market.cafex.com^
 ||marketing-company.getinsured.com^
@@ -3546,6 +3563,7 @@
 ||marketing.alcopro.com^
 ||marketing.alereforensics.com^
 ||marketing.alfalak.com^
+||marketing.alhi.com^
 ||marketing.all-wall.com^
 ||marketing.allcorbrokersolutions.com^
 ||marketing.allgress.com^
@@ -3578,6 +3596,7 @@
 ||marketing.arenasports.net^
 ||marketing.arlington-capital.com^
 ||marketing.armsolutions.com^
+||marketing.arrayasolutions.com^
 ||marketing.artemiscm.com^
 ||marketing.arysta-na.com^
 ||marketing.ascellahealth.com^
@@ -3595,6 +3614,7 @@
 ||marketing.attunelive.com^
 ||marketing.autopayplus.com^
 ||marketing.autozonemecanicos.com^
+||marketing.avantage.nl^
 ||marketing.aventel.nl^
 ||marketing.aviacode.com^
 ||marketing.avidiahealth.com^
@@ -3731,7 +3751,6 @@
 ||marketing.compmort.com^
 ||marketing.computerguidance.com^
 ||marketing.compuware.com^
-||marketing.confidentialcures.com^
 ||marketing.congress.eular.org^
 ||marketing.connect.scanstat.com^
 ||marketing.connectandsell.com^
@@ -3792,7 +3811,6 @@
 ||marketing.discoverdunwoody.com^
 ||marketing.discoverlehighvalley.com^
 ||marketing.discovernewport.org^
-||marketing.discoversantaclara.org^
 ||marketing.discoversaratoga.org^
 ||marketing.discoverstcharles.com^
 ||marketing.discovertemple.com^
@@ -3828,6 +3846,7 @@
 ||marketing.ecslearn.com^
 ||marketing.efleets.com^
 ||marketing.ehy.com^
+||marketing.electroind.com^
 ||marketing.electroquip.co.nz^
 ||marketing.ellingtonresort.com^
 ||marketing.elrig.org^
@@ -3878,7 +3897,6 @@
 ||marketing.extremenetworks.com^
 ||marketing.eyc.com^
 ||marketing.facilityplus.com^
-||marketing.fedsched.com^
 ||marketing.festiva.com^
 ||marketing.festivaorlandoresort.com^
 ||marketing.fhsr.com^
@@ -3928,11 +3946,13 @@
 ||marketing.globalcorporateventuring.com^
 ||marketing.globalmed.com^
 ||marketing.globalmedics.co.nz^
+||marketing.globalpetfoods.ca^
 ||marketing.globerunner.com^
 ||marketing.gmcvb.com^
 ||marketing.gogofunding.com^
 ||marketing.gogovapps.com^
 ||marketing.gogreat.com^
+||marketing.goldenpaints.com^
 ||marketing.goodcoinc.com^
 ||marketing.goosedigital.com^
 ||marketing.goprovidence.com^
@@ -3992,7 +4012,6 @@
 ||marketing.icreative.nl^
 ||marketing.iloveny.com^
 ||marketing.imageworkscreative.com^
-||marketing.imagexmedia.com^
 ||marketing.imninc.com^
 ||marketing.impactinnovationgroup.com^
 ||marketing.impexium.com^
@@ -4007,12 +4026,12 @@
 ||marketing.insigniam.com^
 ||marketing.insignio.de^
 ||marketing.instrumentassociates.com^
+||marketing.insurancedesigners.com^
 ||marketing.insureon.com^
 ||marketing.interact911.com^
 ||marketing.intergraph.net^
 ||marketing.intermax.nl^
 ||marketing.intrado.com^
-||marketing.inventiconasia.com^
 ||marketing.investwithwmg.com^
 ||marketing.iongroup.com^
 ||marketing.iriworldwide.com^
@@ -4041,6 +4060,7 @@
 ||marketing.knoxville.org^
 ||marketing.konareefresort.com^
 ||marketing.kozzyavm.com^
+||marketing.kpfilms.com^
 ||marketing.kurtzon.com^
 ||marketing.labdepotinc.com^
 ||marketing.lanner.com^
@@ -4096,7 +4116,6 @@
 ||marketing.melitta.ca^
 ||marketing.melitta.com^
 ||marketing.merlinbusinesssoftware.com^
-||marketing.mesalabs.com^
 ||marketing.metaltanks.com^
 ||marketing.metropolislosangeles.com^
 ||marketing.mettl.com^
@@ -4107,7 +4126,6 @@
 ||marketing.midstate-sales.com^
 ||marketing.midwestbath.com^
 ||marketing.mijnjungheinrich.nl^
-||marketing.mimakiusa.com^
 ||marketing.mimico.co.nz^
 ||marketing.mindflowdesign.com^
 ||marketing.miraflats.com^
@@ -4119,6 +4137,7 @@
 ||marketing.mobile.org^
 ||marketing.modalife.com^
 ||marketing.monetsoftware.com^
+||marketing.monochrome.co.uk^
 ||marketing.mossinc.com^
 ||marketing.motionsolutions.com^
 ||marketing.motista.com^
@@ -4181,6 +4200,7 @@
 ||marketing.ompimail.com^
 ||marketing.onclive.com^
 ||marketing.onececo.com^
+||marketing.oni.co.uk^
 ||marketing.onkyousa.com^
 ||marketing.opga.com^
 ||marketing.opoffice.com^
@@ -4232,6 +4252,7 @@
 ||marketing.porchlightatl.com^
 ||marketing.potlatchdelticlandsales.com^
 ||marketing.precisiondoor.tech^
+||marketing.premierpandp.com^
 ||marketing.prescientnational.com^
 ||marketing.primaryservices.com^
 ||marketing.processmaker.com^
@@ -4240,6 +4261,7 @@
 ||marketing.promiles.com^
 ||marketing.prosperoware.com^
 ||marketing.protegic.com.au^
+||marketing.publicinsightdata.com^
 ||marketing.puffininn.net^
 ||marketing.pureaircontrols.com^
 ||marketing.pureflorida.com^
@@ -4303,7 +4325,6 @@
 ||marketing.sanitysolutions.com^
 ||marketing.sap.events.deloitte.com^
 ||marketing.savannahchamber.com^
-||marketing.scalematrix.com^
 ||marketing.schuff.com^
 ||marketing.sciohealthanalytics.com^
 ||marketing.seattlesouthside.com^
@@ -4357,7 +4378,6 @@
 ||marketing.sportsworld.org^
 ||marketing.springfieldelectric.com^
 ||marketing.sstid.com^
-||marketing.staffboom.com^
 ||marketing.starrcompanies.com^
 ||marketing.startfinder.com^
 ||marketing.stateandfed.com^
@@ -4511,6 +4531,7 @@
 ||marketing.visithamiltoncounty.com^
 ||marketing.visitindy.com^
 ||marketing.visitkingston.ca^
+||marketing.visitlex.com^
 ||marketing.visitlubbock.org^
 ||marketing.visitmanisteecounty.com^
 ||marketing.visitmilwaukee.org^
@@ -4573,7 +4594,6 @@
 ||marketing.wowrack.com^
 ||marketing.wrightimc.com^
 ||marketing.wtcutrecht.nl^
-||marketing.xait.com^
 ||marketing.xcenda.com^
 ||marketing.xicato.com^
 ||marketing.xportsoft.com^
@@ -4602,8 +4622,8 @@
 ||marketing3.polarispacific.com^
 ||marketing4.directimpactinc.com^
 ||marketing6.directimpactinc.com^
-||marketingautomation.impexium.net^
 ||marketingde.mti.com^
+||marketingetsg.insurancedesigners.com^
 ||marketinginfo.clutch.com^
 ||marketingms.actonservice.com^
 ||marsh.actonservice.com^
@@ -4629,6 +4649,7 @@
 ||media.gotham.com^
 ||media.gstoneinc.com^
 ||media.ignitium.com^
+||media.leahy-ifp.com^
 ||media.pirtek.co.uk^
 ||media.pirtek.de^
 ||media.pirtek.nl^
@@ -4695,6 +4716,7 @@
 ||mmarkhigh.actonservice.com^
 ||mmc-ltd.actonservice.com^
 ||moldex.actonservice.com^
+||moody.actonsoftware.com^
 ||moreinfo.onnowdigital.com^
 ||moreinfo.powerpro360.com^
 ||moreinfo.sdmyers.com^
@@ -4772,7 +4794,6 @@
 ||newsletter.visitnc.com^
 ||ngs.actonservice.com^
 ||nm.hrm.healthgrades.com^
-||nordic.promo.skf.com^
 ||nordicmarketing.sedgwick.com^
 ||northplains.actonservice.com^
 ||northsidemediagroup.actonservice.com^
@@ -4947,6 +4968,7 @@
 ||remine.actonservice.com^
 ||reppify.actonservice.com^
 ||research.insidesales.com^
+||resources.acarasolutions.in^
 ||resources.activatems.com^
 ||resources.aldec.com^
 ||resources.biz-tech-insights.com^
@@ -4957,7 +4979,6 @@
 ||resources.linengineering.com^
 ||resources.lumestrategies.com^
 ||resources.recordpoint.com^
-||resources.talentrise.com^
 ||results.sierrapiedmont.com^
 ||retirementliving.actsretirement.org^
 ||retirementservices.firstallied.com^
@@ -4987,6 +5008,7 @@
 ||rzmarketing.realization.com^
 ||s.usenix.org^
 ||sa.bdoaustralia.bdo.com.au^
+||saas.stratitude.com^
 ||sabic.actonservice.com^
 ||saegissolutions.actonservice.com^
 ||safdirect.actonservice.com^
@@ -5001,6 +5023,7 @@
 ||scanoptics.actonservice.com^
 ||schinnerer.actonservice.com^
 ||schlesingerassociates.actonservice.com^
+||scispg.smu.edu.sg^
 ||scmarketing.colliers.com^
 ||scorebuddy.actonservice.com^
 ||scottmadden.actonservice.com^
@@ -5027,6 +5050,7 @@
 ||seniorliving.covia.org^
 ||seniorliving.cypressplaceseniorliving.com^
 ||seniorliving.cypressvillageretirement.com^
+||seniorliving.eastridgeatcutlerbay.com^
 ||seniorliving.essexmeadows.com^
 ||seniorliving.fellowshipsl.org^
 ||seniorliving.foxhillvillage.com^
@@ -5060,6 +5084,7 @@
 ||seniorliving.pmma.org^
 ||seniorliving.querenciabartoncreek.com^
 ||seniorliving.regencyoaksseniorliving.com^
+||seniorliving.santamartaretirement.com^
 ||seniorliving.seasonsretirement.com^
 ||seniorliving.sinairesidences.com^
 ||seniorliving.smithcrossing.org^
@@ -5087,7 +5112,6 @@
 ||seniorliving.wyndemerelcs.com^
 ||seniors.fairportbaptisthomes.org^
 ||servcliente.marathon-sports-ec.com^
-||service.charitiesaidfoundation.org.uk^
 ||services.releasepoint.com^
 ||servicesandsolutions.promo.skf.com^
 ||servicing.unitedautocredit.net^
@@ -5214,7 +5238,6 @@
 ||telsmith.actonservice.com^
 ||telstraphonewords.actonservice.com^
 ||tengointernet.actonservice.com^
-||tentflooring.biljax.com^
 ||teracom.actonservice.com^
 ||terradatum.actonservice.com^
 ||test.actonservice.com^
@@ -5276,7 +5299,6 @@
 ||tw.promo.skf.com^
 ||uaemarketing.sedgwick.com^
 ||uk-marketing.roxtec.com^
-||uk.lucanet.com^
 ||uk.promo.skf.com^
 ||uk.sharpmarketing.eu^
 ||ukmarketing.sedgwick.com^
@@ -5318,10 +5340,12 @@
 ||vsmeus.promo.skf.com^
 ||vsmeuw.promo.skf.com^
 ||vt.mak.com^
+||wa.bdoaustralia.bdo.com.au^
 ||warfieldtech.actonservice.com^
 ||warrenfcu.actonservice.com^
 ||washlaundry.actonservice.com^
 ||wealthcarecapital.actonservice.com^
+||web.eisenhowerhealthnews.org^
 ||web.vonazon.com^
 ||web.yourerc.com^
 ||weidenhammer.actonservice.com^
@@ -5363,6 +5387,7 @@
 ||www2.advp.com^
 ||www2.arvig.com^
 ||www2.bobcad.com^
+||www2.cet-uk.com^
 ||www2.cremarc.com^
 ||www2.dws-global.com^
 ||www2.esri.se^

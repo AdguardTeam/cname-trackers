@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -83,6 +83,7 @@ tk.biovea.com CNAME .
 tk.blancheporte.be CNAME .
 tk.blancheporte.fr CNAME .
 tk.bricoprive.com CNAME .
+tk.bullebleue.fr CNAME .
 tk.cadeaux.com CNAME .
 tk.conforama.fr CNAME .
 tk.dietbon.fr CNAME .
@@ -109,6 +110,7 @@ tk.interflora.es CNAME .
 tk.interflora.fr CNAME .
 tk.interflora.it CNAME .
 tk.jeux.loro.ch CNAME .
+tk.jim-joe.fr CNAME .
 tk.kidsaround.com CNAME .
 tk.kitchendiet.fr CNAME .
 tk.klm.com CNAME .
@@ -144,7 +146,6 @@ tk.santevet.be CNAME .
 tk.santevet.com CNAME .
 tk.santevet.de CNAME .
 tk.santevet.es CNAME .
-tk.santevet.it CNAME .
 tk.speedway.fr CNAME .
 tk.svsound.com CNAME .
 tk.teleshopping.fr CNAME .

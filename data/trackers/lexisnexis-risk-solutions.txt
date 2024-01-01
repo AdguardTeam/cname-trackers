@@ -182,7 +182,6 @@
 ||content.berluti.com^
 ||content.biggerbooks.com^
 ||content.billdomain.com^
-||content.billscenter.paytrust.com^
 ||content.billsupport.com^
 ||content.bnl.it^
 ||content.bnpparibas.net^
@@ -263,7 +262,6 @@
 ||content.orixbank.co.jp^
 ||content.partycity.ca^
 ||content.paycardsolutions.com^
-||content.paytrust.com^
 ||content.personifyfinancial.com^
 ||content.pledg.co^
 ||content.pnbank.com.au^
@@ -286,7 +284,6 @@
 ||content.sfbli.com^
 ||content.sheerid.com^
 ||content.shop.post.ch^
-||content.smallbusiness.paytrust.com^
 ||content.solutions-corporate.com^
 ||content.spincasino.ca^
 ||content.sportchek.ca^
@@ -416,6 +413,7 @@
 ||faas.2ememain.be^
 ||faas.marktplaats.nl^
 ||fdts.ebay-kleinanzeigen.de^
+||fms-dev.citysavings.net.ph^
 ||fms.perahub.com.ph^
 ||fnvma.milanuncios.com^
 ||fp.aion.be^
@@ -695,6 +693,7 @@
 ||rttm.uniondigitalbank.io^
 ||rvw.connection.com^
 ||rvw.govconnection.com^
+||rvw.macconnection.com^
 ||s4.partner.yoomoney.ru^
 ||safe.joinmosaic.com^
 ||sc.liveme.com^

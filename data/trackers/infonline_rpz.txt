@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1063,6 +1063,7 @@ data-7e634b10b2.prosiebenmaxx.de CNAME .
 data-7e634b10b2.the-voice-of-germany.de CNAME .
 data-7e70b89caf.geb-info.de CNAME .
 data-7f59e1721b.bergwetter.de CNAME .
+data-7f59e1721b.huettentouren.net CNAME .
 data-7f59e1721b.planetoutdoor.de CNAME .
 data-7f6dde6aeb.spieletipps.de CNAME .
 data-7f9c14ceb6.telecom-handel.de CNAME .
@@ -1578,6 +1579,7 @@ data-bb21a2f11b.fitbook.de CNAME .
 data-bb21a2f11b.myhomebook.de CNAME .
 data-bb21a2f11b.petbook.de CNAME .
 data-bb21a2f11b.sportbild.de CNAME .
+data-bb21a2f11b.stylebook.de CNAME .
 data-bb4ada6163.travelbook.de CNAME .
 data-bc153aec3e.nmdn.net CNAME .
 data-bc153aec3e.radioguetersloh.de CNAME .
@@ -1872,6 +1874,7 @@ data-e392d35d53.kino-zeit.de CNAME .
 data-e3af19e759.apps.iocnt.de CNAME .
 data-e3d4300b49.n-tv.de CNAME .
 data-e3d4300b49.sport.de CNAME .
+data-e44d38afc3.apps.iocnt.de CNAME .
 data-e47ac57521.lokal26.de CNAME .
 data-e4997adf31.bilanz.de CNAME .
 data-e4997adf31.metal-hammer.de CNAME .
@@ -2034,7 +2037,6 @@ data-f1e447fbcf.kreiszeitung.de CNAME .
 data-f1e447fbcf.kurierverlag.de CNAME .
 data-f1e447fbcf.landtiere.de CNAME .
 data-f1e447fbcf.leinetal24.de CNAME .
-data-f1e447fbcf.lokalo24.de CNAME .
 data-f1e447fbcf.ludwigshafen24.de CNAME .
 data-f1e447fbcf.mangfall24.de CNAME .
 data-f1e447fbcf.mannheim24.de CNAME .
@@ -2121,7 +2123,6 @@ data-f59db3288b.kreiszeitung.de CNAME .
 data-f59db3288b.kurierverlag.de CNAME .
 data-f59db3288b.landtiere.de CNAME .
 data-f59db3288b.leinetal24.de CNAME .
-data-f59db3288b.lokalo24.de CNAME .
 data-f59db3288b.ludwigshafen24.de CNAME .
 data-f59db3288b.mangfall24.de CNAME .
 data-f59db3288b.mannheim24.de CNAME .
@@ -2152,6 +2153,7 @@ data-f5d00c1ea1.tageskarte.io CNAME .
 data-f5fd977e9d.getraenke-news.de CNAME .
 data-f62d7c5cdb.bergstraesser-anzeiger.de CNAME .
 data-f62d7c5cdb.fnweb.de CNAME .
+data-f62d7c5cdb.immomorgen.de CNAME .
 data-f62d7c5cdb.jobmorgen.de CNAME .
 data-f62d7c5cdb.mannheimer-morgen.de CNAME .
 data-f62d7c5cdb.schwetzinger-zeitung.de CNAME .

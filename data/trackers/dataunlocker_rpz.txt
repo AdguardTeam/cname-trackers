@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,6 +52,7 @@ $TTL 300
 8thlapkjjq3n.jacobzhang.de CNAME .
 9b5gjkrnw71r.it.themoneytizer.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
+9l3cr6dvk2kb.adaptive.marketing CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
 ac9kpxbans1l.staging.unstoppabledomains.com CNAME .
 am3s622gcd6m.tt.live CNAME .
@@ -83,7 +84,6 @@ iwl2d7pa4yx1.www.logology.co CNAME .
 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
 jiktq0fr9hv6.meleton.ru CNAME .
 k1usj3j6p706.dev.app.fika.community CNAME .
-k5ygj3bivnrp.uae.revent.store CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 li3k4d70ig52.resourceya.com CNAME .
 lv6od3a4sz12.www.logology.co CNAME .

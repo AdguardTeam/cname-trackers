@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -193,7 +193,6 @@ content.benefitsaccess.org CNAME .
 content.berluti.com CNAME .
 content.biggerbooks.com CNAME .
 content.billdomain.com CNAME .
-content.billscenter.paytrust.com CNAME .
 content.billsupport.com CNAME .
 content.bnl.it CNAME .
 content.bnpparibas.net CNAME .
@@ -274,7 +273,6 @@ content.online.adp.com CNAME .
 content.orixbank.co.jp CNAME .
 content.partycity.ca CNAME .
 content.paycardsolutions.com CNAME .
-content.paytrust.com CNAME .
 content.personifyfinancial.com CNAME .
 content.pledg.co CNAME .
 content.pnbank.com.au CNAME .
@@ -297,7 +295,6 @@ content.sb.lt CNAME .
 content.sfbli.com CNAME .
 content.sheerid.com CNAME .
 content.shop.post.ch CNAME .
-content.smallbusiness.paytrust.com CNAME .
 content.solutions-corporate.com CNAME .
 content.spincasino.ca CNAME .
 content.sportchek.ca CNAME .
@@ -427,6 +424,7 @@ faas.2dehands.be CNAME .
 faas.2ememain.be CNAME .
 faas.marktplaats.nl CNAME .
 fdts.ebay-kleinanzeigen.de CNAME .
+fms-dev.citysavings.net.ph CNAME .
 fms.perahub.com.ph CNAME .
 fnvma.milanuncios.com CNAME .
 fp.aion.be CNAME .
@@ -706,6 +704,7 @@ rt.wisecartapp.com CNAME .
 rttm.uniondigitalbank.io CNAME .
 rvw.connection.com CNAME .
 rvw.govconnection.com CNAME .
+rvw.macconnection.com CNAME .
 s4.partner.yoomoney.ru CNAME .
 safe.joinmosaic.com CNAME .
 sc.liveme.com CNAME .

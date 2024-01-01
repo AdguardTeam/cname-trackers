@@ -72,6 +72,7 @@
 ||tk.blancheporte.be^
 ||tk.blancheporte.fr^
 ||tk.bricoprive.com^
+||tk.bullebleue.fr^
 ||tk.cadeaux.com^
 ||tk.conforama.fr^
 ||tk.dietbon.fr^
@@ -98,6 +99,7 @@
 ||tk.interflora.fr^
 ||tk.interflora.it^
 ||tk.jeux.loro.ch^
+||tk.jim-joe.fr^
 ||tk.kidsaround.com^
 ||tk.kitchendiet.fr^
 ||tk.klm.com^
@@ -133,7 +135,6 @@
 ||tk.santevet.com^
 ||tk.santevet.de^
 ||tk.santevet.es^
-||tk.santevet.it^
 ||tk.speedway.fr^
 ||tk.svsound.com^
 ||tk.teleshopping.fr^

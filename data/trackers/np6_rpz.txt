@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -414,6 +414,7 @@ tr.gestion.cofinoga.fr CNAME .
 tr.gestion.credit-moderne.fr CNAME .
 tr.gestion.domofinance.fr CNAME .
 tr.gestion.floa.fr CNAME .
+tr.gestion.hondafinancialservices.fr CNAME .
 tr.gestion.lexpress.fr CNAME .
 tr.gestion.liberation.fr CNAME .
 tr.gestion.norrsken.fr CNAME .
@@ -555,6 +556,7 @@ tr.kpyn02a.espmp-cufr.net CNAME .
 tr.kpyn02f.espmp-cufr.net CNAME .
 tr.kpyn059.espmp-pofr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
+tr.landrover.compte-financial-services.fr CNAME .
 tr.laprairie.ifop.com CNAME .
 tr.lbar.espmp-agfr.net CNAME .
 tr.leads.direct CNAME .

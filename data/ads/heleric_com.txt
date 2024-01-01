@@ -32,7 +32,6 @@
 ||bg.unbarbpoured.com^
 ||bh.twifoilperoxyl.com^
 ||bj.pplferio.com^
-||bj.preideanested.com^
 ||bj.unfeeddizoic.com^
 ||bk.clinkedsphecid.com^
 ||bl.noonishkahala.com^
@@ -56,6 +55,7 @@
 ||cm.twindlephalera.com^
 ||cq.stoundisocrat.com^
 ||cs.cowmankai.com^
+||cs.daemonshymens.com^
 ||ct.eanlingtumfie.com^
 ||cu.fullssmirker.com^
 ||cz.peatmenwhatsis.com^
@@ -149,8 +149,6 @@
 ||ia.bisetsoliped.com^
 ||ie.elandsmeikles.com^
 ||ie.exhumeaueto.com^
-||ie.facemanuptore.com^
-||ie.repointderider.com^
 ||ii.tiptoesstbd.com^
 ||ii.woolensulking.com^
 ||ik.nuraghireels.com^
@@ -204,8 +202,8 @@
 ||ld.stengskelped.com^
 ||ld.wraithydecides.com^
 ||le.wellsmessy.com^
+||lf.hagweedtoytown.com^
 ||lf.minyascannat.com^
-||lf.unvenomangst.com^
 ||lg.feoffortapetis.com^
 ||lh.limosiwooable.com^
 ||lm.rinserbefore.com^
@@ -242,6 +240,7 @@
 ||np.brackenclomped.com^
 ||nr.celaenomash.com^
 ||ns.gyreneverist.com^
+||nz.salvingrolls.com^
 ||oa.frowllutetia.com^
 ||oa.kettlewharves.com^
 ||oa.skancehobo.com^
@@ -401,7 +400,6 @@
 ||vr.noosersturtles.com^
 ||vt.alieneepunta.com^
 ||vt.eluantsmousees.com^
-||vv.habaerashiksas.com^
 ||vv.tensingiseum.com^
 ||vw.sapidvenoms.com^
 ||vw.snippyteevee.com^
@@ -421,7 +419,6 @@
 ||wl.jimjumsalkes.com^
 ||wm.findalwaglike.com^
 ||wn.congostudia.com^
-||wq.stewyruttish.com^
 ||wr.rugosehoarish.com^
 ||ws.blondsdixie.com^
 ||wv.donarynahane.com^
@@ -442,14 +439,13 @@
 ||xx.architpled.com^
 ||xx.foetorsnudisms.com^
 ||xz.rapsseme.com^
-||yc.flyblowfilippi.com^
 ||ye.coresepyllia.com^
 ||yg.coehornjobbet.com^
 ||yg.slantedsecno.com^
-||yh.coursgrimace.com^
 ||yh.jewelyavoir.com^
 ||yk.dissentsangir.com^
 ||yl.calumetjowing.com^
+||yn.pigneedier.com^
 ||yp.poxykhakis.com^
 ||yp.tronkparsed.com^
 ||yt.colorinmeasure.com^

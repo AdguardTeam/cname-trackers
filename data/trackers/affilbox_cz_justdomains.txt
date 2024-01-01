@@ -699,7 +699,6 @@ partner.zonky.cz
 partner.zvaracky-obchod.sk
 partnerbox.humandesign.cz
 partnerek.aerium.hu
-partneri.affiliate-program.sk
 partneri.affiliatevyzva.cz
 partneri.akodlhsiezit.sk
 partneri.alchemistr.cz
@@ -780,6 +779,7 @@ partneri.netfotbal.cz
 partneri.nutricbistro.cz
 partneri.odvizekzisku.cz
 partneri.onlinejazyky.cz
+partneri.onlinelearning.cz
 partneri.oportskem.cz
 partneri.palmknihy.cz
 partneri.piercing.cz
@@ -875,6 +875,7 @@ spoluprace.bafoo.cz
 spoluprace.blackkale.cz
 spoluprace.denikletusky.cz
 spoluprace.eroticstore.cz
+spoluprace.galaxy.cz
 spoluprace.h2world.store
 spoluprace.interbohemia.cz
 spoluprace.janitaurbanova.cz

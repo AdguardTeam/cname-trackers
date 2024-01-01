@@ -58,7 +58,6 @@
 * dplaystream.tns-dk.2cnt.net
 * slb-tns-dk-pool07.tns-dk.2cnt.net
 * dr.tns-dk.2cnt.net
-* drandroidstream.tns-dk.2cnt.net
 * drandroidtvstream.tns-dk.2cnt.net
 * slb-tns-dk-pool06.tns-dk.2cnt.net
 * driosstream.tns-dk.2cnt.net
@@ -131,6 +130,7 @@
 * natgeo.tns-dk.2cnt.net
 * nembillet.tns-dk.2cnt.net
 * newsb.tns-dk.2cnt.net
+* nomos.vgwort-de.2cnt.net
 * nordjyske.tns-dk.2cnt.net
 * pl01.prolitteris.2cnt.net
 * pleasure.tns-dk.2cnt.net
@@ -291,6 +291,7 @@
 * ssl-valutakurser.tns-dk.2cnt.net
 * ssl-vdonline.tns-dk.2cnt.net
 * ssl-vg03.vgwort-de.2cnt.net
+* ssl-viaplaystream.tns-dk.2cnt.net
 * ssl-videnskab.tns-dk.2cnt.net
 * ssl-watchmedier.tns-dk.2cnt.net
 * ssl-weeka-eavis.tns-dk.2cnt.net
@@ -388,7 +389,6 @@
 | dmi.tns-gallup.dk | dmi.tns-dk.2cnt.net |
 | dplaystream.tns-gallup.dk | dplaystream.tns-dk.2cnt.net |
 | dr.tns-gallup.dk | dr.tns-dk.2cnt.net |
-| drandroidstream.tns-gallup.dk | drandroidstream.tns-dk.2cnt.net |
 | drandroidtvstream.tns-gallup.dk | drandroidtvstream.tns-dk.2cnt.net |
 | driosstream.tns-gallup.dk | driosstream.tns-dk.2cnt.net |
 | ebiam.tns-gallup.dk | ebiam.tns-dk.2cnt.net |
@@ -458,6 +458,7 @@
 | natgeo.tns-gallup.dk | natgeo.tns-dk.2cnt.net |
 | nembillet.tns-gallup.dk | nembillet.tns-dk.2cnt.net |
 | newsb.tns-gallup.dk | newsb.tns-dk.2cnt.net |
+| nomos.met.vgwort.de | nomos.vgwort-de.2cnt.net |
 | nordjyske.tns-gallup.dk | nordjyske.tns-dk.2cnt.net |
 | pl01.owen.prolitteris.ch | pl01.prolitteris.2cnt.net |
 | pl02.owen.prolitteris.ch | pl02.prolitteris.2cnt.net |
@@ -488,6 +489,7 @@
 | ssl-boxerandroidstream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
 | ssl-drtvosstream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
 | ssl-glentenandroidstream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
+| ssl-viaplaystream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
 | ssl-viaplaystream.tns-gallup.dk | slb-tns-dk-pool04.tns-dk.2cnt.net |
 | ssl-boxerstream.tns-gallup.dk | slb-tns-dk-pool05.tns-dk.2cnt.net |
 | ssl-stofaandroidstream.tns-gallup.dk | slb-tns-dk-pool05.tns-dk.2cnt.net |
@@ -574,6 +576,7 @@
 | manager.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | manager.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | mzweb.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
+| nomos.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | nomos.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | rp-online.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | spiegel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -782,6 +785,7 @@
 | ssl-valutakurser.tns-gallup.dk | ssl-valutakurser.tns-dk.2cnt.net |
 | ssl-vdonline.tns-gallup.dk | ssl-vdonline.tns-dk.2cnt.net |
 | ssl-vg03.met.vgwort.de | ssl-vg03.vgwort-de.2cnt.net |
+| ssl-viaplaystream.tns-gallup.dk | ssl-viaplaystream.tns-dk.2cnt.net |
 | ssl-videnskab.tns-gallup.dk | ssl-videnskab.tns-dk.2cnt.net |
 | ssl-watchmedier.tns-gallup.dk | ssl-watchmedier.tns-dk.2cnt.net |
 | ssl-weeka-eavis.tns-gallup.dk | ssl-weeka-eavis.tns-dk.2cnt.net |

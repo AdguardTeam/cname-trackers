@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -698,6 +698,7 @@ serv.bvsrv.com CNAME .
 serve.datacygnal.io CNAME .
 sm-rtb-useast.zmdvideo.com CNAME .
 static.adright.co CNAME .
+static.adright.com CNAME .
 static.fstsrv1.com CNAME .
 static.fstsrv2.com CNAME .
 static.fstsrv3.com CNAME .
@@ -717,14 +718,11 @@ tag.adkernel.com CNAME .
 tag.musiciansaudience.com CNAME .
 tq-eu.frdjs-1.co CNAME .
 tq-eu.frdjs-2.co CNAME .
-tq-eu.gipostart-1.co CNAME .
 tq-eu.nxthost-1.info CNAME .
 tq-eu.nxthost-2.info CNAME .
 tq.adventurefeeds.com CNAME .
 tq.frdjs-1.co CNAME .
 tq.frdjs-2.co CNAME .
-tq.gipostart-1.co CNAME .
-tq.gipostart-2.co CNAME .
 tq.nxthost-1.info CNAME .
 tq.nxthost-2.info CNAME .
 tq.pdn-eu.com CNAME .
@@ -804,8 +802,6 @@ xml-eu-v4.frdjs-1.co CNAME .
 xml-eu-v4.frdjs-2.co CNAME .
 xml-eu-v4.fstsrv5.com CNAME .
 xml-eu-v4.fstsrv6.com CNAME .
-xml-eu-v4.gipostart-1.co CNAME .
-xml-eu-v4.gipostart-2.co CNAME .
 xml-eu-v4.hawkads.in CNAME .
 xml-eu-v4.nxthost-1.info CNAME .
 xml-eu-v4.nxthost-2.info CNAME .
@@ -840,8 +836,6 @@ xml-eu.ezmob.com CNAME .
 xml-eu.flairadscpc.com CNAME .
 xml-eu.foremedia.net CNAME .
 xml-eu.frdjs-1.co CNAME .
-xml-eu.gipostart-1.co CNAME .
-xml-eu.gipostart-2.co CNAME .
 xml-eu.hueadsxml.com CNAME .
 xml-eu.mediaxchange.co CNAME .
 xml-eu.mobipromote.com CNAME .
@@ -893,8 +887,6 @@ xml-v4.fstsrv3.com CNAME .
 xml-v4.fstsrv4.com CNAME .
 xml-v4.fstsrv5.com CNAME .
 xml-v4.fstsrv6.com CNAME .
-xml-v4.gipostart-1.co CNAME .
-xml-v4.gipostart-2.co CNAME .
 xml-v4.hetcash.com CNAME .
 xml-v4.kunvertads.com CNAME .
 xml-v4.mobifly.net CNAME .
@@ -1017,7 +1009,6 @@ xml.fstsrv3.com CNAME .
 xml.fstsrv4.com CNAME .
 xml.fstsrv5.com CNAME .
 xml.fstsrv6.com CNAME .
-xml.gipostart-2.co CNAME .
 xml.groovyadz.com CNAME .
 xml.hangfly.net CNAME .
 xml.hetcash.com CNAME .
@@ -1124,5 +1115,4 @@ xmlv4-eu.mobuppsrtb.com CNAME .
 xmlv4.chameleostudios.com CNAME .
 xmlv4.mobuppsrtb.com CNAME .
 xmlv4.reklama.network CNAME .
-static.adright.com CNAME .
 static.rtb-serve.com CNAME .

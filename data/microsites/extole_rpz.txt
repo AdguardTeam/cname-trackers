@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,8 +140,6 @@ www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em3904.skillshare.com CNAME .
-em8928.em.petco.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -298,6 +296,7 @@ refer.lauramercier.com CNAME .
 refer.laylasleep.com CNAME .
 refer.lemonaidhealth.com CNAME .
 refer.lendingclub.com CNAME .
+refer.lendly.com CNAME .
 refer.lenscrafters.com CNAME .
 refer.lightstream.com CNAME .
 refer.littlepassports.com CNAME .
@@ -578,6 +577,7 @@ share.ollocard.com CNAME .
 share.onenevada.org CNAME .
 share.openenglish.com CNAME .
 share.openenglish.com.br CNAME .
+share.openenglish.com.tr CNAME .
 share.opploans.com CNAME .
 share.origins.com CNAME .
 share.partsvu.com CNAME .
@@ -686,7 +686,9 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
+em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 sftp.extole.com CNAME .

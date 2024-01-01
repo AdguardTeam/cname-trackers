@@ -938,6 +938,7 @@
 ||4872274.notify6.com^
 ||4872816.notify6.com^
 ||4882380.notify6.com^
+||4882844.notify6.com^
 ||4888136.notify6.com^
 ||4896576.notify6.com^
 ||4897578.notify6.com^
@@ -975,6 +976,7 @@
 ||a.addisplaynetwork.com^
 ||a.adsession.com^
 ||a.advantageclicks.net^
+||a.advertrek.com^
 ||a.asvsm.com^
 ||a.bizonads-ssp.com^
 ||a.etology.com^
@@ -1050,6 +1052,7 @@
 ||s.elnn20.com^
 ||s.elnn24.com^
 ||s.elnp11.com^
+||s.elnr15.com^
 ||s.elns4a.com^
 ||s.elns4c.com^
 ||s.etology.com^
@@ -1133,4 +1136,3 @@
 ||www.notify.bizonads-ssp.com^
 ||www.notify6.com^
 ||www.notifysrv.com^
-||a.advertrek.com^

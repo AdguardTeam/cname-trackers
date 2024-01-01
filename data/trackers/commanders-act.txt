@@ -6,12 +6,12 @@
 ||data.decathlon.es^
 ||data.decathlon.fr^
 ||data.decathlon.pl^
+||data.ouigo.com^
 ||data.ricaud.com^
 ||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^
-||tag.boulanger.fr^
 ||tagcommander.laredoute.be^
 ||tagcommander.laredoute.ch^
 ||tc.europcar.com^
@@ -20,5 +20,5 @@
 ||configure.adlermode.com^
 ||data.auchandirect.fr^
 ||data.decathlon.it^
-||data.ouigo.com^
+||tag.boulanger.fr^
 ||tc.europcar.de^

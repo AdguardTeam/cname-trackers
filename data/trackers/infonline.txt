@@ -1052,6 +1052,7 @@
 ||data-7e634b10b2.the-voice-of-germany.de^
 ||data-7e70b89caf.geb-info.de^
 ||data-7f59e1721b.bergwetter.de^
+||data-7f59e1721b.huettentouren.net^
 ||data-7f59e1721b.planetoutdoor.de^
 ||data-7f6dde6aeb.spieletipps.de^
 ||data-7f9c14ceb6.telecom-handel.de^
@@ -1567,6 +1568,7 @@
 ||data-bb21a2f11b.myhomebook.de^
 ||data-bb21a2f11b.petbook.de^
 ||data-bb21a2f11b.sportbild.de^
+||data-bb21a2f11b.stylebook.de^
 ||data-bb4ada6163.travelbook.de^
 ||data-bc153aec3e.nmdn.net^
 ||data-bc153aec3e.radioguetersloh.de^
@@ -1861,6 +1863,7 @@
 ||data-e3af19e759.apps.iocnt.de^
 ||data-e3d4300b49.n-tv.de^
 ||data-e3d4300b49.sport.de^
+||data-e44d38afc3.apps.iocnt.de^
 ||data-e47ac57521.lokal26.de^
 ||data-e4997adf31.bilanz.de^
 ||data-e4997adf31.metal-hammer.de^
@@ -2023,7 +2026,6 @@
 ||data-f1e447fbcf.kurierverlag.de^
 ||data-f1e447fbcf.landtiere.de^
 ||data-f1e447fbcf.leinetal24.de^
-||data-f1e447fbcf.lokalo24.de^
 ||data-f1e447fbcf.ludwigshafen24.de^
 ||data-f1e447fbcf.mangfall24.de^
 ||data-f1e447fbcf.mannheim24.de^
@@ -2110,7 +2112,6 @@
 ||data-f59db3288b.kurierverlag.de^
 ||data-f59db3288b.landtiere.de^
 ||data-f59db3288b.leinetal24.de^
-||data-f59db3288b.lokalo24.de^
 ||data-f59db3288b.ludwigshafen24.de^
 ||data-f59db3288b.mangfall24.de^
 ||data-f59db3288b.mannheim24.de^
@@ -2141,6 +2142,7 @@
 ||data-f5fd977e9d.getraenke-news.de^
 ||data-f62d7c5cdb.bergstraesser-anzeiger.de^
 ||data-f62d7c5cdb.fnweb.de^
+||data-f62d7c5cdb.immomorgen.de^
 ||data-f62d7c5cdb.jobmorgen.de^
 ||data-f62d7c5cdb.mannheimer-morgen.de^
 ||data-f62d7c5cdb.schwetzinger-zeitung.de^

@@ -138,7 +138,6 @@ a8.hemptouch.co.jp
 a8.hikari-flets.jp
 a8.hikari-n.jp
 a8.hikari-softbank.jp
-a8.hikarimach.net
 a8.hikarix.net
 a8.hitohana.tokyo
 a8.hitoma-tuhan.com
@@ -300,12 +299,12 @@ a8.speever.jp
 a8.sport-school.com
 a8.ssl.aispr.jp
 a8.st.oddspark.com
-a8.starseries.biz
 a8.store.aceservice.jp
 a8.store.goo.ne.jp
 a8.strapya.com
 a8.sui-so.com
 a8.suma-sapo.net
+a8.sumai-planet.com
 a8.sumilena.co.jp
 a8.tabechoku.com
 a8.tailorenglish.jp
@@ -430,7 +429,6 @@ a8clk.biz-communication.jp
 a8clk.bizworkers.jp
 a8clk.booking.jetfi.jp
 a8clk.bresmile.jp
-a8clk.bstyle.store
 a8clk.bungeisha.co.jp
 a8clk.buy-master.com
 a8clk.buyking.club
@@ -820,7 +818,6 @@ a8cv.careerpark-agent.jp
 a8cv.carryonmall.com
 a8cv.cart.bi-su.jp
 a8cv.cast-er.com
-a8cv.catal.jp
 a8cv.celav.net
 a8cv.celbest.urr.jp
 a8cv.cellbic.net
@@ -1137,7 +1134,6 @@ a8cv.rohto.co.jp
 a8cv.runteq.jp
 a8cv.s-darts.com
 a8cv.sabusuta.jp
-a8cv.safetycart.jp
 a8cv.saitoma.com
 a8cv.sakura-forest.com
 a8cv.sanix.jp
@@ -1205,7 +1201,6 @@ a8cv.t-bang.jp
 a8cv.t-gaia.co.jp
 a8cv.taclinic.jp
 a8cv.taisyokudaiko.jp
-a8cv.take-eats.jp
 a8cv.tamago-repeat.com
 a8cv.taxi-qjin.com
 a8cv.techkidsschool.jp
@@ -1285,7 +1280,6 @@ a8cv.you-shoku.net
 a8cv.yui.gift
 a8cv.yuyu-tei.jp
 a8cv.zacc.jp
-a8cv.zero-homes.net
 a8cv.zeroen-denki.com
 a8cv.zerorenovation.com
 a8cv.zoner.com

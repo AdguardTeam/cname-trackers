@@ -716,7 +716,6 @@
 | partner.zvaracky-obchod.sk | cz.affilbox.cz |
 | partnerbox.humandesign.cz | cz.affilbox.cz |
 | partnerek.aerium.hu | cz.affilbox.cz |
-| partneri.affiliate-program.sk | cz.affilbox.cz |
 | partneri.affiliatevyzva.cz | cz.affilbox.cz |
 | partneri.akodlhsiezit.sk | cz.affilbox.cz |
 | partneri.alchemistr.cz | cz.affilbox.cz |
@@ -797,6 +796,7 @@
 | partneri.nutricbistro.cz | cz.affilbox.cz |
 | partneri.odvizekzisku.cz | cz.affilbox.cz |
 | partneri.onlinejazyky.cz | cz.affilbox.cz |
+| partneri.onlinelearning.cz | cz.affilbox.cz |
 | partneri.oportskem.cz | cz.affilbox.cz |
 | partneri.palmknihy.cz | cz.affilbox.cz |
 | partneri.piercing.cz | cz.affilbox.cz |
@@ -892,6 +892,7 @@
 | spoluprace.blackkale.cz | cz.affilbox.cz |
 | spoluprace.denikletusky.cz | cz.affilbox.cz |
 | spoluprace.eroticstore.cz | cz.affilbox.cz |
+| spoluprace.galaxy.cz | cz.affilbox.cz |
 | spoluprace.h2world.store | cz.affilbox.cz |
 | spoluprace.interbohemia.cz | cz.affilbox.cz |
 | spoluprace.janitaurbanova.cz | cz.affilbox.cz |

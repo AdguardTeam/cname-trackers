@@ -61,6 +61,7 @@
     * h-5uvvlv7u.online-metrix.net
     * h-5wdrto0i.online-metrix.net
     * h-5xx71132.online-metrix.net
+    * h-68mv9954.online-metrix.net
     * h-6a6y6kka.online-metrix.net
     * h-6e1hqgi3.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
@@ -537,8 +538,8 @@
     * h-payby.online-metrix.net
     * h-paysafe.online-metrix.net
     * h-paysafecard2.online-metrix.net
-    * h-paytrust.online-metrix.net
     * h-pcconnection.online-metrix.net
+    * h-pcconnection1.online-metrix.net
     * h-pcconnection2.online-metrix.net
     * h-pci51dt4.online-metrix.net
     * h-pensionfund.online-metrix.net
@@ -825,6 +826,7 @@
 | rttm.uniondigitalbank.io | h-5uvvlv7u.online-metrix.net |
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
 | lncdn.goosehead.com | h-5xx71132.online-metrix.net |
+| fms-dev.citysavings.net.ph | h-68mv9954.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | tags.3ds.denizbank.at | h-6e1hqgi3.online-metrix.net |
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
@@ -1447,10 +1449,8 @@
 | rm-3d84e791.payby.com | h-payby.online-metrix.net |
 | tms.paysafe.com | h-paysafe.online-metrix.net |
 | tm.paysafecard.com | h-paysafecard2.online-metrix.net |
-| content.billscenter.paytrust.com | h-paytrust.online-metrix.net |
-| content.paytrust.com | h-paytrust.online-metrix.net |
-| content.smallbusiness.paytrust.com | h-paytrust.online-metrix.net |
 | rvw.connection.com | h-pcconnection.online-metrix.net |
+| rvw.macconnection.com | h-pcconnection1.online-metrix.net |
 | rvw.govconnection.com | h-pcconnection2.online-metrix.net |
 | tm.promotion-cdn.com | h-pci51dt4.online-metrix.net |
 | img02.pensionfund.org | h-pensionfund.online-metrix.net |

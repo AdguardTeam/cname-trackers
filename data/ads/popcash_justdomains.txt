@@ -14,6 +14,7 @@ cdn.asdnow.xyz
 cdn.asecv.xyz
 cdn.asopn.com
 cdn.asrop.xyz
+cdn.bahswl.com
 cdn.barlo.xyz
 cdn.bhlph.com
 cdn.bnmkl.com
@@ -29,6 +30,7 @@ cdn.decpo.xyz
 cdn.drawx.xyz
 cdn.eecd.xyz
 cdn.eeco.xyz
+cdn.fajukc.com
 cdn.falkwo.com
 cdn.faspox.com
 cdn.fazanppq.com
@@ -42,7 +44,9 @@ cdn.gelhp.com
 cdn.genfpm.com
 cdn.gocolow.com
 cdn.gpcrn.com
+cdn.hhjow.com
 cdn.hjklq.com
+cdn.holenhw.com
 cdn.hqwa.xyz
 cdn.htkcm.com
 cdn.ianjumb.com
@@ -81,6 +85,7 @@ cdn.pllah.com
 cdn.plmwsl.com
 cdn.plrst.com
 cdn.posawaj.com
+cdn.ptomw.com
 cdn.puyjjq.com
 cdn.puysis.com
 cdn.qgerr.com
@@ -99,6 +104,7 @@ cdn.sslph.com
 cdn.syinga.com
 cdn.timsef.com
 cdn.tsepyk.com
+cdn.tzaho.com
 cdn.ulesxbo.com
 cdn.vcxzp.com
 cdn.viowrel.com
@@ -280,7 +286,6 @@ cat.beunitedinchrist.com
 cat.chainotate.com
 cat.gfx.io
 cat.laravel-news.com
-cat.lasalturasresort.com
 cat.mattr.global
 cat.remotefit.io
 cat.serverless.quest
@@ -892,6 +897,7 @@ raccoon.jaronheard.com
 rat.gimlet.io
 raven.konquadrat.de
 raven.vethelpdirect.com
+reindeer.dunkeldholidayhome.co.uk
 reindeer.iainbroome.com
 reindeer.pablomaceda.com
 reptile.o-lit.fr
@@ -951,6 +957,7 @@ silverfish.camaleon.gt
 silverfish.dailybuilds.com
 silverfish.djordjevanjek.com
 skink.asorman.io
+skunk.gameworkersolidarity.com
 sloth.goodtendency.app
 sloth.vguerrerobosch.com
 smelt.allenpike.com
@@ -1010,6 +1017,7 @@ swordfish.hotcross.com
 swordfish.joebuhlig.com
 swordfish.lorem.industries
 swordfish.mattpreston.io
+swordtail.hnh.digital
 swordtail.rockface.io
 swordtail.thocstock.com
 t0ikowg7jg.serverlesslaravelcourse.com
@@ -1037,6 +1045,7 @@ tigershark.samwaymire.com
 tigershark.vandevliet.me
 tiglon.beyondco.de
 tiglon.davidroessli.com
+toad.ettiennevorster.co.za
 tortoise.transistor.fm
 toucan.ateliermilky.com
 toucan.the-faithful.com

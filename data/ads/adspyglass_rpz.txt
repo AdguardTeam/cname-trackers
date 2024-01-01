@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -113,6 +113,7 @@ a.zillastream.com CNAME .
 a5g.oves.biz CNAME .
 a9o.youlikeboys.com CNAME .
 aa.zerg.pro CNAME .
+aab.faperoni.com CNAME .
 aabtest.asg-media.com CNAME .
 ab.cumhot.org CNAME .
 abc.cda-hd.co CNAME .
@@ -316,6 +317,7 @@ edddd.javmilk.org CNAME .
 enrgy.fwtrck.com CNAME .
 essential.awmcash.com CNAME .
 ex8.lostporntube.com CNAME .
+extra.imoxxnx.com CNAME .
 eznoz.xyz CNAME .
 f.bloblohub.com CNAME .
 f5w.prettytube.net CNAME .
@@ -324,7 +326,6 @@ fansang.xyz CNAME .
 fddddddd.javmilk.org CNAME .
 fg850ik01.6g0blqi1541polz4n0kjvwo1kjl5tcx30.xyz CNAME .
 fgy3tg.jav-7mmtv.top CNAME .
-file.marshlecdn.com CNAME .
 free.srcdn.xyz CNAME .
 fsdss.7mmtv.top CNAME .
 fuckers.nieuws.xxx CNAME .
@@ -333,7 +334,6 @@ fw3etgf2.jav-7mmtv.top CNAME .
 fx9.freepornoboss.com CNAME .
 g.adultporn.tv CNAME .
 g.bloblohub.com CNAME .
-g0dy.site CNAME .
 g6j.cupidonmedia.com CNAME .
 game.starswalker.site CNAME .
 getallt1.com CNAME .
@@ -350,7 +350,6 @@ great.xxxbanglavideo.com CNAME .
 gulto.xyz CNAME .
 h-ay.com CNAME .
 h.bloblohub.com CNAME .
-hegdcrxavrtk.cdnvideo3.com CNAME .
 help.fanza.cc CNAME .
 hero3.nude-asian-videos.com CNAME .
 hetaer.xyz CNAME .
@@ -372,7 +371,6 @@ i.theglobepost.us CNAME .
 iduq.com CNAME .
 ignore.hot-bbw-tube.com CNAME .
 ijucr.justbokep.com CNAME .
-imbdemfjjduu.cdnvideo3.com CNAME .
 in.fuckhardclips.com CNAME .
 invast.invast.site CNAME .
 invast.site CNAME .
@@ -420,6 +418,7 @@ kissjav.li.7mmtv.top CNAME .
 kissjav.li.jav-7mmtv.top CNAME .
 kliqz.com CNAME .
 ko.faptor.com CNAME .
+ko.starwank.com CNAME .
 krplss.click CNAME .
 kuhdsysdas.indexsubtitle.com CNAME .
 kx4.firstsexfilm.com CNAME .
@@ -462,11 +461,11 @@ menui.xyz CNAME .
 meoem.lol CNAME .
 metabuz.xyz CNAME .
 meyd.7mmtv.top CNAME .
-mficlyxgvfsp.cdnvideo3.com CNAME .
 mgbkt9eckr.xn--mgbkt9eckr.net CNAME .
 mide.7mmtv.top CNAME .
 mopeia.xyz CNAME .
 moster.granny-xxx-video.com CNAME .
+mraozo.xyz CNAME .
 mrfantastic.gotdns.ch CNAME .
 mrkaito.xyz CNAME .
 mx6.3pornhere.com CNAME .
@@ -497,7 +496,6 @@ nope.xn--ngbcrg3b.com CNAME .
 nope.xn--ygba1c.wtf CNAME .
 nopetube.xn--mgbkt9eckr.net CNAME .
 notonthebedsheets.com CNAME .
-npbvqqkpuele.cdnvideo3.com CNAME .
 nx7.hdxxxclips.com CNAME .
 o.hotsextube.tv CNAME .
 o313o.com CNAME .
@@ -539,17 +537,18 @@ pamury.xyz CNAME .
 pangoha.xyz CNAME .
 pangtues.xyz CNAME .
 panoz.xyz CNAME .
+panpant.xyz CNAME .
 parkurl.com CNAME .
 pempiz.xyz CNAME .
 penapne.xyz CNAME .
 pihu.xxxpornhd.pro CNAME .
 pivo.tracked.one CNAME .
 plutoclean.com CNAME .
-pnpjceawvmeu.cdnvideo3.com CNAME .
 pop.nkiris.com CNAME .
 pornve.sexyadsrun.com CNAME .
 pornvideos.casa CNAME .
 possibily.com CNAME .
+powe.asian-xxx-videos.com CNAME .
 pppe.7mmtv.top CNAME .
 pqaz.xyz CNAME .
 pre.03porno.com CNAME .
@@ -659,17 +658,17 @@ toaioi.xyz CNAME .
 topsexmovs.com CNAME .
 topvidstore.com CNAME .
 touzia.xyz CNAME .
+tozuoi.xyz CNAME .
 tpl.fuckxness.com CNAME .
 tr.7vid.net CNAME .
 traffictraders.com CNAME .
+tron.bbw-porn-video.com CNAME .
 ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 tyo.justthegays.com CNAME .
 u1zga.letsporn.com CNAME .
-uacabilqlgpw.cdnvideo3.com CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
-umtpopxcsedc.cdnvideo3.com CNAME .
 uotbzz.xyz CNAME .
 upinu.xyz CNAME .
 uthbxvz.bestzba.com CNAME .
@@ -690,7 +689,6 @@ vz.7vid.net CNAME .
 w00t.us CNAME .
 waihoz.xyz CNAME .
 watekade.xyz CNAME .
-wp.zvideo.stream CNAME .
 ww.0prn.com CNAME .
 ww.cvideos.stream CNAME .
 www.antiadblock.info CNAME .
@@ -737,6 +735,7 @@ x2sfa.javgg.eu CNAME .
 xn--q1a.bloblohub.com CNAME .
 xs213.javgg.club CNAME .
 xserve.zapurl.cc CNAME .
+xx7.7mmtv.top CNAME .
 xxx.sdtraff.com CNAME .
 xxxddd.baijav.com CNAME .
 xxxlove.rooski.net CNAME .

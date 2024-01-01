@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1703491221153        ; Serial
+           1704096017654        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -807,7 +807,6 @@ stats.profitablesignpricing.com CNAME .
 stats.projectcongress.com CNAME .
 stats.psychotherapieravensburg.de CNAME .
 stats.pubfind.io CNAME .
-stats.qawl.app CNAME .
 stats.qovery.com CNAME .
 stats.quicksilvercre.com CNAME .
 stats.radicaldata.org CNAME .

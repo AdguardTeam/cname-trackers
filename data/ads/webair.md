@@ -1084,6 +1084,7 @@
 | xml.mobreach.com | adright.xml.ak-is2.net |
 | xml.popunder.bid | adright.xml.ak-is2.net |
 | static.adright.co | adright.xs.ak-is2.net |
+| static.adright.com | adright.xs.ak-is2.net |
 | static.fstsrv1.com | adright.xs.ak-is2.net |
 | static.fstsrv2.com | adright.xs.ak-is2.net |
 | static.fstsrv3.com | adright.xs.ak-is2.net |
@@ -1126,7 +1127,6 @@
 | xml.adtube.media | adtube.xml.ak-is2.net |
 | tq-eu.frdjs-1.co | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.frdjs-2.co | adventurefeeds.fs-eu.ak-is2.net |
-| tq-eu.gipostart-1.co | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.nxthost-1.info | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.nxthost-2.info | adventurefeeds.fs-eu.ak-is2.net |
 | tq.pdn-eu.com | adventurefeeds.fs-eu.ak-is2.net |
@@ -1134,8 +1134,6 @@
 | tq.adventurefeeds.com | adventurefeeds.fs.ak-is2.net |
 | tq.frdjs-1.co | adventurefeeds.fs.ak-is2.net |
 | tq.frdjs-2.co | adventurefeeds.fs.ak-is2.net |
-| tq.gipostart-1.co | adventurefeeds.fs.ak-is2.net |
-| tq.gipostart-2.co | adventurefeeds.fs.ak-is2.net |
 | tq.nxthost-1.info | adventurefeeds.fs.ak-is2.net |
 | tq.nxthost-2.info | adventurefeeds.fs.ak-is2.net |
 | rtb-eu.adventurefeeds.com | adventurefeeds.rtb-eu.ak-is2.net |
@@ -1147,23 +1145,17 @@
 | xml-eu-v4.explorefast-1.com | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.frdjs-1.co | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.frdjs-2.co | adventurefeeds.xml-eu-v4.ak-is2.net |
-| xml-eu-v4.gipostart-1.co | adventurefeeds.xml-eu-v4.ak-is2.net |
-| xml-eu-v4.gipostart-2.co | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.nxthost-1.info | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.nxthost-2.info | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.pxfind3.com | adventurefeeds.xml-eu-v4.ak-is2.net |
 | clk.pdn-eu.com | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.explorefast-1.com | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.frdjs-1.co | adventurefeeds.xml-eu.ak-is2.net |
-| xml-eu.gipostart-1.co | adventurefeeds.xml-eu.ak-is2.net |
-| xml-eu.gipostart-2.co | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.nxthost-1.info | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.nxthost-2.info | adventurefeeds.xml-eu.ak-is2.net |
 | xml-v4.explorefast-1.com | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.frdjs-1.co | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.frdjs-2.co | adventurefeeds.xml-v4.ak-is2.net |
-| xml-v4.gipostart-1.co | adventurefeeds.xml-v4.ak-is2.net |
-| xml-v4.gipostart-2.co | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.nxthost-1.info | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.nxthost-2.info | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.pxfind3.com | adventurefeeds.xml-v4.ak-is2.net |
@@ -1171,7 +1163,6 @@
 | xml.explorefast-1.com | adventurefeeds.xml.ak-is2.net |
 | xml.frdjs-1.co | adventurefeeds.xml.ak-is2.net |
 | xml.frdjs-2.co | adventurefeeds.xml.ak-is2.net |
-| xml.gipostart-2.co | adventurefeeds.xml.ak-is2.net |
 | xml.nxthost-1.info | adventurefeeds.xml.ak-is2.net |
 | xml.nxthost-2.info | adventurefeeds.xml.ak-is2.net |
 | xml.pdn-1.com | adventurefeeds.xml.ak-is2.net |
