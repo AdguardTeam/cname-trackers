@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -326,6 +326,7 @@ refer.pacificservice.org CNAME .
 refer.pacsafe.com CNAME .
 refer.pacu.com CNAME .
 refer.panerabread.com CNAME .
+refer.paylocity.com CNAME .
 refer.perriconemd.com CNAME .
 refer.pimsleur.com CNAME .
 refer.plushbeds.com CNAME .
@@ -421,6 +422,7 @@ referavet.petco.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.servicechannel.com CNAME .
 referral.shiseido.com CNAME .
+referrals.lumen.com CNAME .
 referrals.visionsfcu.org CNAME .
 rob.extoleu.com CNAME .
 share-uk.princess.com CNAME .
@@ -481,6 +483,7 @@ share.commercialappeal.com CNAME .
 share.conceiveabilities.com CNAME .
 share.cosbar.com CNAME .
 share.couponcabin.com CNAME .
+share.courier-journal.com CNAME .
 share.courierpostonline.com CNAME .
 share.credible.com CNAME .
 share.creditninja.com CNAME .
@@ -583,6 +586,7 @@ share.origins.com CNAME .
 share.partsvu.com CNAME .
 share.patriotledger.com CNAME .
 share.paulmitchell.com CNAME .
+share.penfolds.com CNAME .
 share.petsbest.com CNAME .
 share.pilotcoffeeroasters.com CNAME .
 share.pnj.com CNAME .

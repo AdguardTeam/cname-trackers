@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -55,6 +55,7 @@ tk.airfrance.mg CNAME .
 tk.airfrance.mq CNAME .
 tk.airfrance.mu CNAME .
 tk.airfrance.my CNAME .
+tk.airfrance.ne CNAME .
 tk.airfrance.ng CNAME .
 tk.airfrance.nl CNAME .
 tk.airfrance.pa CNAME .
@@ -146,6 +147,7 @@ tk.santevet.be CNAME .
 tk.santevet.com CNAME .
 tk.santevet.de CNAME .
 tk.santevet.es CNAME .
+tk.santevet.it CNAME .
 tk.speedway.fr CNAME .
 tk.svsound.com CNAME .
 tk.teleshopping.fr CNAME .

@@ -208,6 +208,7 @@ ens.nzz.ch
 ens.nzzmediasolutions.ch
 ens.tagblatt.ch
 ens.themarket.ch
+ens.thurgauerzeitung.ch
 ens.trauerportal-ostschweiz.ch
 ens.urnerzeitung.ch
 ens.wilerzeitung.ch

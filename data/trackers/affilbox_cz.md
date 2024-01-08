@@ -432,7 +432,6 @@
 | partener.aeriumshop.ro | cz.affilbox.cz |
 | partner-affilbox.telly.cz | cz.affilbox.cz |
 | partner.2din.cz | cz.affilbox.cz |
-| partner.adamkrupa.cz | cz.affilbox.cz |
 | partner.aerium.sk | cz.affilbox.cz |
 | partner.aeriumshop.nl | cz.affilbox.cz |
 | partner.affilbox.com | cz.affilbox.cz |
@@ -577,6 +576,7 @@
 | partner.kvcar.cz | cz.affilbox.cz |
 | partner.laab.cz | cz.affilbox.cz |
 | partner.lascero.cz | cz.affilbox.cz |
+| partner.lascivni.cz | cz.affilbox.cz |
 | partner.leadingtechnologies.cz | cz.affilbox.cz |
 | partner.legalni-konopi.cz | cz.affilbox.cz |
 | partner.lehatkapropsy.cz | cz.affilbox.cz |
@@ -601,6 +601,7 @@
 | partner.mhsexshop.com | cz.affilbox.cz |
 | partner.milujifoceni.cz | cz.affilbox.cz |
 | partner.misinacokolada.cz | cz.affilbox.cz |
+| partner.mojeluha.cz | cz.affilbox.cz |
 | partner.mojetonery.sk | cz.affilbox.cz |
 | partner.mooda.cz | cz.affilbox.cz |
 | partner.mooselife.cz | cz.affilbox.cz |
@@ -841,6 +842,7 @@
 | partneri.vitaon.cz | cz.affilbox.cz |
 | partneri.volejbal.sk | cz.affilbox.cz |
 | partneri.volny-termin.cz | cz.affilbox.cz |
+| partneri.vseprobeh.cz | cz.affilbox.cz |
 | partneri.vyzvaproimunitu.cz | cz.affilbox.cz |
 | partneri.way4life.cz | cz.affilbox.cz |
 | partneri.webmeeting.cz | cz.affilbox.cz |
@@ -848,7 +850,6 @@
 | partneri.worldee.com | cz.affilbox.cz |
 | partneri.yoggspiration.cz | cz.affilbox.cz |
 | partneri.zaprovizi.cz | cz.affilbox.cz |
-| partneri.zdrave-sladkosti.sk | cz.affilbox.cz |
 | partneri.zdravy-zivotny-styl.sk | cz.affilbox.cz |
 | partneri.zdravykram.cz | cz.affilbox.cz |
 | partneri.zijchytre.cz | cz.affilbox.cz |

@@ -26,6 +26,7 @@
 ||bd.inclipscalabur.com^
 ||bd.overpetleersia.com^
 ||be.habitueflasque.com^
+||be.hyahyalay.com^
 ||be.jambertarry.com^
 ||bf.buffersling.com^
 ||bf.shodeoaters.com^
@@ -52,6 +53,7 @@
 ||ch.hagboatdismast.com^
 ||ck.abdalpaces.com^
 ||ck.barefitaiding.com^
+||ck.fusainswheeled.com^
 ||cm.twindlephalera.com^
 ||cq.stoundisocrat.com^
 ||cs.cowmankai.com^
@@ -95,7 +97,6 @@
 ||eu.bassoonavatara.com^
 ||eu.jerkytaste.com^
 ||ew.physciahat.com^
-||ey.fifthsheet.com^
 ||ey.hiedflashed.com^
 ||ez.cannelcaimito.com^
 ||ez.slabbernorland.com^
@@ -113,7 +114,6 @@
 ||fs.fogramokayed.com^
 ||fs.velellabudded.com^
 ||fx.muntiglesia.com^
-||fy.uncheckluggies.com^
 ||ga.asseizeenl.com^
 ||ga.fentwigful.com^
 ||gb.akhyanaoverhot.com^
@@ -142,6 +142,7 @@
 ||hr.codableprovene.com^
 ||hs.scrabervinod.com^
 ||hu.claspedammu.com^
+||hv.witwormfurzes.com^
 ||hw.testulebottega.com^
 ||hx.relivesternar.com^
 ||hy.orcinsjewish.com^
@@ -169,7 +170,6 @@
 ||jg.devaultautit.com^
 ||ji.axingectal.com^
 ||jj.jaupsgrimes.com^
-||jk.baltisbockey.com^
 ||jl.reckonpretax.com^
 ||jm.ethylintusker.com^
 ||jm.fallagerampire.com^
@@ -245,10 +245,12 @@
 ||oa.kettlewharves.com^
 ||oa.skancehobo.com^
 ||ob.freyrclogs.com^
+||of.thomismtoast.com^
 ||og.cejainlike.com^
 ||og.elemeuric.com^
 ||ol.dundeesmemo.com^
 ||on.culverscoping.com^
+||oq.banterswalloon.com^
 ||or.alpieutieboy.com^
 ||ot.myotomyarkab.com^
 ||ou.laoosmesis.com^
@@ -296,7 +298,6 @@
 ||qw.teedoping.com^
 ||qy.narrateharmala.com^
 ||qz.equalsenframe.com^
-||ra.polyserbdom.com^
 ||rc.chemispelecan.com^
 ||rd.gamglossae.com^
 ||rd.pulayanyet.com^
@@ -318,7 +319,6 @@
 ||ru.vibgyorvolte.com^
 ||rw.davielyedith.com^
 ||rw.gundogleaker.com^
-||rx.dewlesssnorted.com^
 ||rx.ominateamt.com^
 ||sa.resailsgyse.com^
 ||sb.elfshippref.com^
@@ -438,6 +438,7 @@
 ||xw.horrifyclausum.com^
 ||xx.architpled.com^
 ||xx.foetorsnudisms.com^
+||xy.ocularribozo.com^
 ||xz.rapsseme.com^
 ||ye.coresepyllia.com^
 ||yg.coehornjobbet.com^

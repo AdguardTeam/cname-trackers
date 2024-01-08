@@ -411,6 +411,7 @@
     * panerabread.extole.io
     * partsvu.extole.io
     * paulmitchell.extole.io
+    * paylocity.extole.io
     * perriconemd.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
@@ -807,6 +808,7 @@
 | share.caller.com | gannett.extole.io |
 | share.coloradoan.com | gannett.extole.io |
 | share.commercialappeal.com | gannett.extole.io |
+| share.courier-journal.com | gannett.extole.io |
 | share.courierpostonline.com | gannett.extole.io |
 | share.delawareonline.com | gannett.extole.io |
 | share.desmoinesregister.com | gannett.extole.io |
@@ -960,6 +962,7 @@
 | refer.lull.com | lull.extole.io |
 | refer.lumenoptical.com | lumen-optical.extole.io |
 | businessreferrals.lumen.com | lumen.extole.io |
+| referrals.lumen.com | lumen.extole.io |
 | refer.lymphedemaproducts.com | lymphedemaproducts.extole.com |
 | share.maccosmetics.com.au | mac-cosmetics.extole.io |
 | share.refer-maccosmetics.com.tw | mac-cosmetics.extole.io |
@@ -1024,6 +1027,7 @@
 | refer.paramountsolar.com | paramountsolar.extole.com |
 | share.partsvu.com | partsvu.extole.io |
 | share.paulmitchell.com | paulmitchell.extole.io |
+| refer.paylocity.com | paylocity.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
 | groomrefer.petco.com | petco-grooming.extole.io |
@@ -1189,6 +1193,7 @@
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
 | share.beringer.com | tweglobal.extole.io |
 | share.bvwines.com | tweglobal.extole.io |
+| share.penfolds.com | tweglobal.extole.io |
 | share.stagsleap.com | tweglobal.extole.io |
 | refer.twisthair.com | twisthair.extole.io |
 | em1476.princesscruises.com | u82658.wl159.sendgrid.net |

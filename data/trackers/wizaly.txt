@@ -44,6 +44,7 @@
 ||tk.airfrance.mq^
 ||tk.airfrance.mu^
 ||tk.airfrance.my^
+||tk.airfrance.ne^
 ||tk.airfrance.ng^
 ||tk.airfrance.nl^
 ||tk.airfrance.pa^
@@ -135,6 +136,7 @@
 ||tk.santevet.com^
 ||tk.santevet.de^
 ||tk.santevet.es^
+||tk.santevet.it^
 ||tk.speedway.fr^
 ||tk.svsound.com^
 ||tk.teleshopping.fr^

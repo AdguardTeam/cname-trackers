@@ -394,7 +394,6 @@ tr.fr.pro.accor.com
 tr.france.plimsoll.fr
 tr.french-tax-compliance-booking.com
 tr.futurecommerce.moethennessy.com
-tr.gdfsuez-globalenergy.info
 tr.gen.espmp-agfr.net
 tr.gestion.cafineo.fr
 tr.gestion.cetelem.fr
@@ -576,6 +575,7 @@ tr.mail.hagerservices.fr
 tr.mail.koregraf.com
 tr.mail.mdbp.fr
 tr.mail.moncoupdepouce.com
+tr.mail.perial.info
 tr.mail.primevere.com
 tr.mail.satisfactory.fr
 tr.mail.solocal.com
@@ -673,7 +673,6 @@ tr.news.actu-man.com
 tr.news.alcyon.com
 tr.news.alibabuy.com
 tr.news.alinea.com
-tr.news.alinea.fr
 tr.news.allopneus.com
 tr.news.aramisauto.com
 tr.news.assuragency.net
@@ -910,7 +909,6 @@ tr.offresbtoc.engie.fr
 tr.offrevip.floa.fr
 tr.ojxm.espmp-aufr.net
 tr.openinnovation.lvmh.com
-tr.operations.butagaz.fr
 tr.orange-lease.fr
 tr.orcamento-online.pt
 tr.orcamentos-companeo.pt

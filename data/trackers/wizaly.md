@@ -158,6 +158,7 @@
 | tk.santevet.com | tk-santevet-com.wizaly.com |
 | tk.santevet.de | tk-santevet-com.wizaly.com |
 | tk.santevet.es | tk-santevet-com.wizaly.com |
+| tk.santevet.it | tk-santevet-com.wizaly.com |
 | wiz.sncf-connect.com | tk-sncf.wizaly.com |
 | tk.speedway.fr | tk-speedway-fr.wizaly.com |
 | tk.svsound.com | tk-svsound-com.wizaly.com |
@@ -215,6 +216,7 @@
 | tk.airfrance.mq | tkairfrance.wizaly.com |
 | tk.airfrance.mu | tkairfrance.wizaly.com |
 | tk.airfrance.my | tkairfrance.wizaly.com |
+| tk.airfrance.ne | tkairfrance.wizaly.com |
 | tk.airfrance.ng | tkairfrance.wizaly.com |
 | tk.airfrance.nl | tkairfrance.wizaly.com |
 | tk.airfrance.pa | tkairfrance.wizaly.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ $TTL 300
 4jaehnfqizyx.controlconceptsusa.com CNAME .
 5mc92su06suu.www.abhijith.page CNAME .
 6nwp0r33a71m.app.dev.cardahealth.com CNAME .
+6ynyejkv0j1s.app.tapmyback.com CNAME .
 704g8xh7qfzx.www.intercity.technology CNAME .
 76zvoxo5yx0l.www.eldorado.gg CNAME .
 771fnypadw0j.pt.themoneytizer.com CNAME .
@@ -50,6 +51,7 @@ $TTL 300
 8e0905osvgw5.taleez.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8thlapkjjq3n.jacobzhang.de CNAME .
+8ue4rp6yxyis.www.tapmyback.com CNAME .
 9b5gjkrnw71r.it.themoneytizer.com CNAME .
 9kkjfywjz50v.www.eventus.io CNAME .
 9l3cr6dvk2kb.adaptive.marketing CNAME .
@@ -82,6 +84,7 @@ ilkk97e98lvg.www.sidsplumbing.ie CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
+jii3gnhro.www.emanualonline.com CNAME .
 jiktq0fr9hv6.meleton.ru CNAME .
 k1usj3j6p706.dev.app.fika.community CNAME .
 kn81kivjwwc7.www.logology.co CNAME .

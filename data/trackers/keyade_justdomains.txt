@@ -1,5 +1,6 @@
 #
 # Company name: Keyade
+click-ext.anxa.com
 clk.ubi.com
 k.brandalley.be
 k.brandalley.co.nl

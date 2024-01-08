@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,6 +37,7 @@ bc.manwaysprod.com CNAME .
 bd.inclipscalabur.com CNAME .
 bd.overpetleersia.com CNAME .
 be.habitueflasque.com CNAME .
+be.hyahyalay.com CNAME .
 be.jambertarry.com CNAME .
 bf.buffersling.com CNAME .
 bf.shodeoaters.com CNAME .
@@ -63,6 +64,7 @@ ce.paliercleaned.com CNAME .
 ch.hagboatdismast.com CNAME .
 ck.abdalpaces.com CNAME .
 ck.barefitaiding.com CNAME .
+ck.fusainswheeled.com CNAME .
 cm.twindlephalera.com CNAME .
 cq.stoundisocrat.com CNAME .
 cs.cowmankai.com CNAME .
@@ -106,7 +108,6 @@ eu.balletsbeep.com CNAME .
 eu.bassoonavatara.com CNAME .
 eu.jerkytaste.com CNAME .
 ew.physciahat.com CNAME .
-ey.fifthsheet.com CNAME .
 ey.hiedflashed.com CNAME .
 ez.cannelcaimito.com CNAME .
 ez.slabbernorland.com CNAME .
@@ -124,7 +125,6 @@ fl.dumpiesgoschen.com CNAME .
 fs.fogramokayed.com CNAME .
 fs.velellabudded.com CNAME .
 fx.muntiglesia.com CNAME .
-fy.uncheckluggies.com CNAME .
 ga.asseizeenl.com CNAME .
 ga.fentwigful.com CNAME .
 gb.akhyanaoverhot.com CNAME .
@@ -153,6 +153,7 @@ hm.sightercanidae.com CNAME .
 hr.codableprovene.com CNAME .
 hs.scrabervinod.com CNAME .
 hu.claspedammu.com CNAME .
+hv.witwormfurzes.com CNAME .
 hw.testulebottega.com CNAME .
 hx.relivesternar.com CNAME .
 hy.orcinsjewish.com CNAME .
@@ -180,7 +181,6 @@ je.sepiasfra.com CNAME .
 jg.devaultautit.com CNAME .
 ji.axingectal.com CNAME .
 jj.jaupsgrimes.com CNAME .
-jk.baltisbockey.com CNAME .
 jl.reckonpretax.com CNAME .
 jm.ethylintusker.com CNAME .
 jm.fallagerampire.com CNAME .
@@ -256,10 +256,12 @@ oa.frowllutetia.com CNAME .
 oa.kettlewharves.com CNAME .
 oa.skancehobo.com CNAME .
 ob.freyrclogs.com CNAME .
+of.thomismtoast.com CNAME .
 og.cejainlike.com CNAME .
 og.elemeuric.com CNAME .
 ol.dundeesmemo.com CNAME .
 on.culverscoping.com CNAME .
+oq.banterswalloon.com CNAME .
 or.alpieutieboy.com CNAME .
 ot.myotomyarkab.com CNAME .
 ou.laoosmesis.com CNAME .
@@ -307,7 +309,6 @@ qw.garpikewoodbox.com CNAME .
 qw.teedoping.com CNAME .
 qy.narrateharmala.com CNAME .
 qz.equalsenframe.com CNAME .
-ra.polyserbdom.com CNAME .
 rc.chemispelecan.com CNAME .
 rd.gamglossae.com CNAME .
 rd.pulayanyet.com CNAME .
@@ -329,7 +330,6 @@ rr.giggertji.com CNAME .
 ru.vibgyorvolte.com CNAME .
 rw.davielyedith.com CNAME .
 rw.gundogleaker.com CNAME .
-rx.dewlesssnorted.com CNAME .
 rx.ominateamt.com CNAME .
 sa.resailsgyse.com CNAME .
 sb.elfshippref.com CNAME .
@@ -449,6 +449,7 @@ xs.odesschemes.com CNAME .
 xw.horrifyclausum.com CNAME .
 xx.architpled.com CNAME .
 xx.foetorsnudisms.com CNAME .
+xy.ocularribozo.com CNAME .
 xz.rapsseme.com CNAME .
 ye.coresepyllia.com CNAME .
 yg.coehornjobbet.com CNAME .

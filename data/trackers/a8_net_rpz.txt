@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -246,6 +246,7 @@ a8.olightstore.jp CNAME .
 a8.onamae.com CNAME .
 a8.onecoinenglish.com CNAME .
 a8.ones-ones.jp CNAME .
+a8.otoku-line.jp CNAME .
 a8.otonayaki.com CNAME .
 a8.outline-gym.com CNAME .
 a8.papapa.baby CNAME .
@@ -527,6 +528,7 @@ a8clk.guruyaku.jp CNAME .
 a8clk.hags-ec.com CNAME .
 a8clk.hikakaku.com CNAME .
 a8clk.hikarinobe.com CNAME .
+a8clk.hoken-hikaku.jpn.com CNAME .
 a8clk.hoken-minaoshi-lab.jp CNAME .
 a8clk.hokennews.jp CNAME .
 a8clk.hom.adebtt.info CNAME .
@@ -811,6 +813,7 @@ a8cv.bizcircle.jp CNAME .
 a8cv.bizcomfort.jp CNAME .
 a8cv.bloomonline.jp CNAME .
 a8cv.bonaventura.shop CNAME .
+a8cv.borderfree-official.com CNAME .
 a8cv.brandeuse.jp CNAME .
 a8cv.brandnet.info CNAME .
 a8cv.brassiere-shorts.jp CNAME .
@@ -1057,7 +1060,6 @@ a8cv.minana-jp.com CNAME .
 a8cv.minnano-eikaiwa.com CNAME .
 a8cv.mitaina.tokyo CNAME .
 a8cv.mobabiji.jp CNAME .
-a8cv.modern-deco.jp CNAME .
 a8cv.modescape.com CNAME .
 a8cv.mogecheck.jp CNAME .
 a8cv.mokumokumarket.com CNAME .

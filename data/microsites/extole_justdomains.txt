@@ -315,6 +315,7 @@ refer.pacificservice.org
 refer.pacsafe.com
 refer.pacu.com
 refer.panerabread.com
+refer.paylocity.com
 refer.perriconemd.com
 refer.pimsleur.com
 refer.plushbeds.com
@@ -410,6 +411,7 @@ referavet.petco.com
 referral.cledepeaubeaute.com
 referral.servicechannel.com
 referral.shiseido.com
+referrals.lumen.com
 referrals.visionsfcu.org
 rob.extoleu.com
 share-uk.princess.com
@@ -470,6 +472,7 @@ share.commercialappeal.com
 share.conceiveabilities.com
 share.cosbar.com
 share.couponcabin.com
+share.courier-journal.com
 share.courierpostonline.com
 share.credible.com
 share.creditninja.com
@@ -572,6 +575,7 @@ share.origins.com
 share.partsvu.com
 share.patriotledger.com
 share.paulmitchell.com
+share.penfolds.com
 share.petsbest.com
 share.pilotcoffeeroasters.com
 share.pnj.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -887,6 +887,7 @@ $TTL 300
 4365744.notify6.com CNAME .
 4367658.notify6.com CNAME .
 4389756.notify6.com CNAME .
+4399198.notify6.com CNAME .
 4399896.notify6.com CNAME .
 4407878.notify6.com CNAME .
 4421184.notify6.com CNAME .
@@ -1079,7 +1080,6 @@ s.optidigital.com CNAME .
 s.optnx.com CNAME .
 s.optzsrv.com CNAME .
 s.orbsrv.com CNAME .
-s.paradoxgroup.co CNAME .
 s.paradoxgroup.uk CNAME .
 s.pemsrv.com CNAME .
 s.redpathmedia.com CNAME .

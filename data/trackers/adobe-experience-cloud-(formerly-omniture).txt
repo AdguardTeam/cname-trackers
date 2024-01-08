@@ -170,6 +170,7 @@
 ||incs.marketdistrict.com^
 ||info.afl.com.au^
 ||info.penrithpanthers.com.au^
+||info.seaeagles.com.au^
 ||info.sensis.com.au^
 ||info.sharks.com.au^
 ||info.telstra.com^
@@ -442,7 +443,7 @@
 ||metrics.care.com^
 ||metrics.career-education.monster.com^
 ||metrics.carnival.co.uk^
-||metrics.cartoonnetworkla.com^
+||metrics.carzone.ie^
 ||metrics.cbc.ca^
 ||metrics.cgu.com.au^
 ||metrics.chatrwireless.com^
@@ -575,6 +576,7 @@
 ||metrics.ktvb.com^
 ||metrics.kumon.com^
 ||metrics.kunilexusofcoloradosprings.com^
+||metrics.lan.com^
 ||metrics.langhamhotels.com^
 ||metrics.learningcurve.com^
 ||metrics.lexusofqueens.com^
@@ -683,6 +685,7 @@
 ||metrics.sgic.com.au^
 ||metrics.sharecare.com^
 ||metrics.shinseibank.com^
+||metrics.shop.learningcurve.com^
 ||metrics.si.com^
 ||metrics.similac.com.tr^
 ||metrics.sj1.omniture.com^
@@ -697,6 +700,7 @@
 ||metrics.sony.com^
 ||metrics.sony.jp^
 ||metrics.sonyericsson.com^
+||metrics.sparkassendirekt.de^
 ||metrics.speedousa.com^
 ||metrics.spencersonline.com^
 ||metrics.spirithalloween.com^
@@ -709,6 +713,7 @@
 ||metrics.sunpowercorp.com^
 ||metrics.support.e-abbott.com^
 ||metrics.tasteline.com^
+||metrics.taxi.com^
 ||metrics.tbs.com^
 ||metrics.tcm.com^
 ||metrics.teachforamerica.org^
@@ -763,6 +768,7 @@
 ||metrics.washingtonpost.com^
 ||metrics.westmarine.com^
 ||metrics.when.com^
+||metrics.whitepages.com^
 ||metrics.wildadventures.com^
 ||metrics.wingatehotels.com^
 ||metrics.wm.com^
@@ -774,6 +780,7 @@
 ||metrics.wyndhamtrips.com^
 ||metrics.ybs.co.uk^
 ||metrics.yellowbook.com^
+||metrics.yola.com^
 ||metrics.youandyourwedding.co.uk^
 ||metricssecure.nmfn.com^
 ||metricssecure.northwesternmutual.com^
@@ -792,6 +799,7 @@
 ||nanalytics.virginaustralia.com^
 ||nmetrics.samsungmobile.com^
 ||nocaadobefpc.optus.com.au^
+||nomsc.kpn.com^
 ||nossl.aafp.org^
 ||nossl.aafpfoundation.org^
 ||nossl.basco.com^
@@ -890,6 +898,7 @@
 ||os.efaxcorporate.com^
 ||os.evoice.com^
 ||os.evoicereceptionist.com^
+||os.j2global.com^
 ||os.mbox.com.au^
 ||os.mckinseyquarterly.com^
 ||os.onebox.com^
@@ -943,6 +952,7 @@
 ||sanalytics.rbs.com.au^
 ||sanalytics.rbs.nl^
 ||sanalytics.rbsbank.dk^
+||sanalytics.rbsbank.no^
 ||sanalytics.scsbnet.com^
 ||sanalytics.southpointcasino.com^
 ||sanalytics.tcm.com^
@@ -995,6 +1005,7 @@
 ||securestats.cafepress.com^
 ||securestats.callawaygolf.com^
 ||securetracking.huntington.com^
+||securewebhelp.govmint.com^
 ||selectronics.sony-latin.com^
 ||service.vrp.com^
 ||serviceo.comcast.net^
@@ -1021,6 +1032,7 @@
 ||site.johnlewis-insurance.com^
 ||site.johnlewis.com^
 ||site.waitrose.com^
+||sitecatalyst.pts.se^
 ||sitecatalyst.smartsource.com^
 ||sitecatalyst.work.shiseido.co.jp^
 ||sm.edweek.org^
@@ -1028,6 +1040,7 @@
 ||smetc.banfield.com^
 ||smetric.4imprint.com^
 ||smetric.baylorhealth.com^
+||smetric.cappex.com^
 ||smetric.millenniumhotels.com^
 ||smetric.owb.com^
 ||smetric.redlobster.com^
@@ -1074,6 +1087,7 @@
 ||smetrics.amway.com.hn^
 ||smetrics.amway.my^
 ||smetrics.amway.se^
+||smetrics.anhi.org^
 ||smetrics.animalnetwork.com^
 ||smetrics.asumag.com^
 ||smetrics.audi.co.uk^
@@ -1103,13 +1117,16 @@
 ||smetrics.bnymellonam.com^
 ||smetrics.bodyforlife.com^
 ||smetrics.bodyworkmall.com^
+||smetrics.bootsphoto.com^
 ||smetrics.borgatacasino.com^
 ||smetrics.borgatapoker.com^
 ||smetrics.boston.com^
 ||smetrics.bottegaverde.es^
 ||smetrics.bottegaverde.it^
+||smetrics.breezeforcats.com^
 ||smetrics.brett-robinson.com^
 ||smetrics.brocade.com^
+||smetrics.btondemand.pfizer.com^
 ||smetrics.buell.com^
 ||smetrics.business.comcast.com^
 ||smetrics.businessfinancemag.com^
@@ -1134,6 +1151,7 @@
 ||smetrics.coachfactory.com^
 ||smetrics.columbia.com^
 ||smetrics.combinedinsurance.com^
+||smetrics.comphealth.com^
 ||smetrics.condodirect.com^
 ||smetrics.costco.ca^
 ||smetrics.countryfinancialsecurityblog.com^
@@ -1165,6 +1183,7 @@
 ||smetrics.ecmweb.com^
 ||smetrics.edgepark.com^
 ||smetrics.efirstbank.com^
+||smetrics.elecare.com^
 ||smetrics.elle.com^
 ||smetrics.ensure.com^
 ||smetrics.eprice.it^
@@ -1190,6 +1209,7 @@
 ||smetrics.gemplers.com^
 ||smetrics.genarts.com^
 ||smetrics.generac.com^
+||smetrics.getravelop.com^
 ||smetrics.ghirardelli.com^
 ||smetrics.glasses.com^
 ||smetrics.glucerna.ca^
@@ -1224,6 +1244,7 @@
 ||smetrics.ikea.com^
 ||smetrics.ingdirect.it^
 ||smetrics.intermountainhealthcare.org^
+||smetrics.intertek-etlsemko.com^
 ||smetrics.intervalresortsupport.com^
 ||smetrics.intervalworld.com^
 ||smetrics.investools.com^
@@ -1382,8 +1403,10 @@
 ||smetrics.sportsmansguide.com^
 ||smetrics.stanfordhealthcare.org^
 ||smetrics.staplesadvantage.co.nz^
+||smetrics.staplesadvantage.com.au^
 ||smetrics.store.irobot.com^
 ||smetrics.store.nascar.com^
+||smetrics.strategiccoach.com^
 ||smetrics.striderite.com^
 ||smetrics.stylefind.com^
 ||smetrics.stylintrucks.com^
@@ -1396,6 +1419,7 @@
 ||smetrics.taymark.taylorcorp.com^
 ||smetrics.tbs.com^
 ||smetrics.tcm.com^
+||smetrics.tdc.dk^
 ||smetrics.teachforamerica.org^
 ||smetrics.teambeachbody.com^
 ||smetrics.telenor.se^
@@ -1487,6 +1511,7 @@
 ||somni.pemco.com^
 ||somni.vikingrivercruises.com^
 ||somni.yellowpages.com^
+||somniture.corel.com^
 ||somniture.scotiabank.mobi^
 ||somniture.yodlee.com^
 ||somtr.financialengines.com^
@@ -1540,6 +1565,7 @@
 ||sstats.economist.com^
 ||sstats.emersonecologics.com^
 ||sstats.epocrates.com^
+||sstats.fhb.com^
 ||sstats.gibson.com^
 ||sstats.gohealthinsurance.com^
 ||sstats.governmentcontractsusa.com^
@@ -1590,6 +1616,7 @@
 ||stat-ssl.sumaity.com^
 ||stat-ssl.tabelog.com^
 ||stat-ssl.tasclap.jp^
+||stat-ssl.yoyaq.com^
 ||stat.4travel.jp^
 ||stat.bankofthewest.com^
 ||stat.buyersedge.com.au^
@@ -1599,6 +1626,7 @@
 ||stat.eiga.com^
 ||stat.gomastercard.com.au^
 ||stat.his-j.com^
+||stat.hitosara.com^
 ||stat.interestfree.com.au^
 ||stat.jetsetter.com^
 ||stat.kaago.com^
@@ -1619,6 +1647,7 @@
 ||stats.ascendmedia.com^
 ||stats.bankofthewest.com^
 ||stats.bentleymotors.com^
+||stats.bookingbuddy.co.uk^
 ||stats.bookingbuddy.com^
 ||stats.cafepress.com^
 ||stats.carecredit.com^
@@ -1636,6 +1665,7 @@
 ||stats.instawares.com^
 ||stats.interestfree.com.au^
 ||stats.kiwibank.co.nz^
+||stats.leasy.dk^
 ||stats.lumension.com^
 ||stats.marshfieldresearch.org^
 ||stats.meijer.com^
@@ -1661,6 +1691,7 @@
 ||stats.uticorp.com^
 ||stats.vulture.com^
 ||stats.wartsila.net^
+||stats.wisconsingenomics.org^
 ||stel.telegraaf.nl^
 ||str2-bbyca-track.bestbuy.com^
 ||str2-fsca-track.bestbuy.com^
@@ -1743,6 +1774,7 @@
 ||t.valcyte.com^
 ||t.xolairhcp.com^
 ||tel.telegraaf.nl^
+||track.collegeboard.com^
 ||track.evertondirect.evertonfc.com^
 ||track.f1store.formula1.com^
 ||track.futureshop.ca^
@@ -1888,6 +1920,7 @@
 ||0aqu.tt.omtrdc.net^
 ||0j500fj69m0n.tt.omtrdc.net^
 ||0saft.blog.tt.omtrdc.net^
+||0static-inw-g-rihost-secure.hb-api.tt.omtrdc.net^
 ||1-95-9.tt.omtrdc.net^
 ||1-analytics.tt.omtrdc.net^
 ||1-fu.tt.omtrdc.net^
@@ -1989,6 +2022,7 @@
 ||10.32.17.251crackle.hb.tt.omtrdc.net^
 ||10.32.17.251disney.hb-api.tt.omtrdc.net^
 ||10.32.17.251dowjones.hb.tt.omtrdc.net^
+||10.32.17.251espn.hb-api.tt.omtrdc.net^
 ||10.32.17.251ewscripps.hb.tt.omtrdc.net^
 ||10.32.17.251fortis.hb.tt.omtrdc.net^
 ||10.32.17.251mtv.hb.tt.omtrdc.net^
@@ -2385,6 +2419,7 @@
 ||1fz1swxdb22g.tt.omtrdc.net^
 ||1gcents1.digitalpublishing.tt.omtrdc.net^
 ||1gfedcba9876543210zy.hb.tt.omtrdc.net^
+||1home-server-login.hb-api.tt.omtrdc.net^
 ||1isp-1-2234.prod.ftl.prod.ftl.tt.omtrdc.net^
 ||1kwpanlage.tt.omtrdc.net^
 ||1lff.tt.omtrdc.net^
@@ -2393,6 +2428,7 @@
 ||1pluralsight.hb.tt.omtrdc.net^
 ||1ps6e7sort397gy9.edge46.testandtarget.omniture.com^
 ||1rertoad-lon.tt.omtrdc.net^
+||1rliveu-tsrvfree-blog.hb-api.tt.omtrdc.net^
 ||1tdt5tjcprp.tt.omtrdc.net^
 ||1und1-drillisch.de.ssl.sc.tt.omtrdc.net^
 ||1und1.de.ssl.sc.tt.omtrdc.net^
@@ -2622,6 +2658,7 @@
 ||2856979.group29.sites.tt.omtrdc.net^
 ||2859715.group15.sites.tt.omtrdc.net^
 ||2889a.client.tt.omtrdc.net^
+||28dcf509777a24306113d80c079ce822.hb-fa-dev.tt.omtrdc.net^
 ||28degreescard.com.au.ssl.sc.tt.omtrdc.net^
 ||28gc642q.tt.omtrdc.net^
 ||293-2.tt.omtrdc.net^
@@ -2641,6 +2678,7 @@
 ||2matgo.tt.omtrdc.net^
 ||2officelooku.mop.tt.omtrdc.net^
 ||2pacess.digitalpublishing.tt.omtrdc.net^
+||2pron-csg-at-stg-injp.hb-api.tt.omtrdc.net^
 ||2re.digitalpublishing.tt.omtrdc.net^
 ||2ttyda203.insight.tt.omtrdc.net^
 ||2ww-www12.jamf.tt.omtrdc.net^
@@ -3361,6 +3399,7 @@
 ||a001gerhzn.irl.kdn.tt.omtrdc.net^
 ||a003bucgts.buc.tt.omtrdc.net^
 ||a0123s.tt.omtrdc.net^
+||a01s.hb-fa-dev.tt.omtrdc.net^
 ||a025-8.idmapper.api.api.tt.omtrdc.net^
 ||a0391856601c2377d7dd711da99084f7.hb-fa-dev.tt.omtrdc.net^
 ||a07-07-04.feednews.tt.omtrdc.net^
@@ -3434,6 +3473,7 @@
 ||a65750b19803f1a9dcb53e38b44164e5.hb-fa-dev.tt.omtrdc.net^
 ||a726.mysql.pilott.tt.omtrdc.net^
 ||a72a1179ec9112348d672c91365f8b23.hb-fa-dev.tt.omtrdc.net^
+||a72bb7ce6c38f3457edef8901ef29dd7.hb-fa-dev.tt.omtrdc.net^
 ||a72www.click.klantacties.tt.omtrdc.net^
 ||a77bc625874341ec20579c66401513869.hb-fa-dev.tt.omtrdc.net^
 ||a79136cd6d-79136cd6dd1d4fc4-4933ee-f6e181db.hb-fa-dev.tt.omtrdc.net^
@@ -3632,6 +3672,7 @@
 ||abercrombienewmedia.hb.tt.omtrdc.net^
 ||abestbuy-techyou.store.tt.omtrdc.net^
 ||abf3c.tt.omtrdc.net^
+||abf84a60f50285b7d1dc80036b0995da.hb-fa-dev.tt.omtrdc.net^
 ||abffd44.tt.omtrdc.net^
 ||abha-jncrccqkkc.hb-fa-dev.tt.omtrdc.net^
 ||abhishan.ianv.tt.omtrdc.net^
@@ -3663,7 +3704,9 @@
 ||abrtp0-cdn.tt.omtrdc.net^
 ||abs013.tt.omtrdc.net^
 ||abs1-1.tt.omtrdc.net^
+||absa.tt.hb-api.tt.omtrdc.net^
 ||absa.tt.omtrdc.net^
+||absa.tt.tt.omtrdc.net^
 ||absolution79.blog.tt.omtrdc.net^
 ||absorb.hb-fa-dev.tt.omtrdc.net^
 ||absystems-applications.hb-fa-dev.tt.omtrdc.net^
@@ -3898,6 +3941,7 @@
 ||actumskoda.tt.omtrdc.net^
 ||actus-jean-hamburger-2018.hb-fa-dev.tt.omtrdc.net^
 ||acuho-i.tt.omtrdc.net^
+||acurus.hb-fa-dev.tt.omtrdc.net^
 ||acwece64.tt.omtrdc.net^
 ||acxe8gqr1vsklr8k.sparta.members.tt.omtrdc.net^
 ||acxiom.hb.tt.omtrdc.net^
@@ -4390,6 +4434,7 @@
 ||ai1-9.prod.cloud.prod.cloud.tt.omtrdc.net^
 ||aialife.tt.omtrdc.net^
 ||aiatlas072.hb-fa-dev.tt.omtrdc.net^
+||aibel.hb-fa-dev.tt.omtrdc.net^
 ||aicpa.tt.omtrdc.net^
 ||aida.tt.omtrdc.net^
 ||aidacruises.tt.omtrdc.net^
@@ -4398,6 +4443,7 @@
 ||aideadomicile35.hb-fa-dev.tt.omtrdc.net^
 ||aideclientele.aol.aol.tt.omtrdc.net^
 ||aidemincjp.tt.omtrdc.net^
+||aidenhome-server-cdnblogwebip.hb-api.tt.omtrdc.net^
 ||aidesens.emploi.tt.omtrdc.net^
 ||aielisa19.hb-fa-dev.tt.omtrdc.net^
 ||aiesec0.tt.omtrdc.net^
@@ -4435,6 +4481,7 @@
 ||airflowdash.awscmhci3.k8s.tt.omtrdc.net^
 ||airheads-stg.central.getaws.tt.omtrdc.net^
 ||airheads-stg.getaws.tt.omtrdc.net^
+||airlineengineering-middleeast.com.ssl.sc.tt.omtrdc.net^
 ||airngonewmedia.hb.tt.omtrdc.net^
 ||airnz.tt.omtrdc.net^
 ||airpol.hb-fa-dev.tt.omtrdc.net^
@@ -4491,6 +4538,7 @@
 ||akamai-inputs-gmo.tt.omtrdc.net^
 ||akamai-inputs-mcmworldwide.tt.omtrdc.net^
 ||akamai-inputs-messagegears-eu.tt.omtrdc.net^
+||akamai-inputs-prd-p-8ut7l.hb-fa-dev.tt.omtrdc.net^
 ||akamai-inputs-prd-p-bdyik.hb-fa-dev.tt.omtrdc.net^
 ||akamai-inputs-prd-p-c05wl.hb-fa-dev.tt.omtrdc.net^
 ||akamai-inputs-prd-p-dlyg1.hb-fa-dev.tt.omtrdc.net^
@@ -4558,6 +4606,7 @@
 ||aks-lhgroupapp-lhg-ams-p-376650fa.hb-fa-dev.tt.omtrdc.net^
 ||aks-prd-04004-3503c40d.hb-fa-dev.tt.omtrdc.net^
 ||aks-prime-dns-bfb84aa5.hb-fa-dev.tt.omtrdc.net^
+||aks-prod-0-apteco-prod-e132f2-d6819d4e.hb-fa-dev.tt.omtrdc.net^
 ||aks-prod-api-dns-795788a6.hb-fa-dev.tt.omtrdc.net^
 ||aks-prod-c-aks-prod-central-8a3e9c-2837b3d7.hb-fa-dev.tt.omtrdc.net^
 ||aks-prp-979508e6.hb-fa-dev.tt.omtrdc.net^
@@ -4722,8 +4771,10 @@
 ||amazonwebstore.tt.omtrdc.net^
 ||amba.tt.omtrdc.net^
 ||ambiances-atypiques-decoration.tt.omtrdc.net^
+||amcomtestjpmedia-en-apin.hb-api.tt.omtrdc.net^
 ||americafirstcreditun.tt.omtrdc.net^
 ||americanairlines.tt.omtrdc.net^
+||americanauto.tt.omtrdc.net^
 ||americancentury.tt.omtrdc.net^
 ||americanchemicalsoci.tt.omtrdc.net^
 ||americaneagleoutfitt.tt.omtrdc.net^
@@ -4732,6 +4783,7 @@
 ||americaninternationa.tt.hb-fa-dev.tt.omtrdc.net^
 ||americaninternationa.tt.omtrdc.net^
 ||americanlifeinsuranc.tt.hb-fa-dev.tt.omtrdc.net^
+||americanlifeinsuranc.tt.omtrdc.net^
 ||americansocietyofcli.hb.tt.omtrdc.net^
 ||americansocietyofcli.tt.omtrdc.net^
 ||americasred2.tt.omtrdc.net^
@@ -4749,6 +4801,7 @@
 ||ams.tt.omtrdc.net^
 ||amsurg.tt.omtrdc.net^
 ||amtrakdigital.tt.omtrdc.net^
+||amx-s2-es.hb-api.tt.omtrdc.net^
 ||anabukinewmedia.hb.tt.omtrdc.net^
 ||anaheim39-8.prod.cloud.prod.cloud.tt.omtrdc.net^
 ||anaheim390-7.prod.cloud.prod.cloud.tt.omtrdc.net^
@@ -4785,6 +4838,7 @@
 ||analytics.lendio.com^
 ||analytics.midas-antilles.fr^
 ||analytics.midas.be^
+||analytics.midas.ci^
 ||analytics.midas.es^
 ||analytics.midas.fr^
 ||analytics.midas.it^
@@ -4895,6 +4949,7 @@
 ||android9-13-0.prod.cloud.prod.cloud.tt.omtrdc.net^
 ||anekautamaindah.tt.omtrdc.net^
 ||anessa.tt.omtrdc.net^
+||anewuat-wserver-r-itssl.hb-api.tt.omtrdc.net^
 ||angara.tt.omtrdc.net^
 ||angaraltd.tt.omtrdc.net^
 ||angels-sino.tt.omtrdc.net^
@@ -5304,6 +5359,7 @@
 ||aqfdt.tt.omtrdc.net^
 ||aquapark.tt.omtrdc.net^
 ||ar-integrationsb01.tt.omtrdc.net^
+||ar-l.hb-api.tt.omtrdc.net^
 ||ar101.tt.omtrdc.net^
 ||aramarkservices.tt.omtrdc.net^
 ||aramisauto.hb.tt.omtrdc.net^
@@ -5347,6 +5403,7 @@
 ||arete.switch.edr.tt.omtrdc.net^
 ||aretety04.tt.omtrdc.net^
 ||argcalendar-reg.tce.tt.omtrdc.net^
+||argenta.d3.sc.tt.omtrdc.net^
 ||argentina79-6.prod.cloud.prod.cloud.tt.omtrdc.net^
 ||argenx.tt.omtrdc.net^
 ||argo-cd.argo-ip.tt.omtrdc.net^
@@ -5527,6 +5584,7 @@
 ||assistir-olhos-famintos-renascimento-2023-completo-online.tt.omtrdc.net^
 ||associa.tt.omtrdc.net^
 ||associate-payments-cn.tt.omtrdc.net^
+||associationforsuperv.tt.omtrdc.net^
 ||assurance.ca.support.tt.omtrdc.net^
 ||assurance.tt.omtrdc.net^
 ||assureclaims-dr-api.swissre-dr.tt.omtrdc.net^
@@ -5862,6 +5920,7 @@
 ||autorestelo-car.tt.omtrdc.net^
 ||autorobi-lech.tt.omtrdc.net^
 ||autos-andar.tt.omtrdc.net^
+||autoscout24.it.d1.sc.tt.omtrdc.net^
 ||autoserwa-astra.tt.omtrdc.net^
 ||autoserwice-barnowko-service.tt.omtrdc.net^
 ||autoserwis-servis.autotraf-rol.tt.omtrdc.net^
@@ -5906,6 +5965,7 @@
 ||aveva.tt.omtrdc.net^
 ||avia.test.test.tt.omtrdc.net^
 ||aviallservicesinc.tt.omtrdc.net^
+||aviatournivaladdiev.hb-api.tt.omtrdc.net^
 ||avira-free-antivirus.ar.reader-scieng.tt.omtrdc.net^
 ||avira-free-antivirus.ar.testacsneuro-apkmirror.transfer.tt.omtrdc.net^
 ||avira-free-antivirus.showmore-jamtest.tt.omtrdc.net^
@@ -6134,6 +6194,7 @@
 ||bajajfinance.tt.omtrdc.net^
 ||bajajfinserv.tt.omtrdc.net^
 ||bajajfinservdirectlimited.hb.tt.omtrdc.net^
+||bakerfurniture.com.ssl.sc.tt.omtrdc.net^
 ||balbharatikavita.tt.omtrdc.net^
 ||balie.tt.omtrdc.net^
 ||balsambrands.tt.omtrdc.net^
@@ -6254,6 +6315,7 @@
 ||bellca.tt.omtrdc.net^
 ||bellcanada.tt.omtrdc.net^
 ||bellefield-comarketing.sites.tt.omtrdc.net^
+||bellmedia.sc.tt.omtrdc.net^
 ||benesse.ne.jp.ssl.d1.sc.tt.omtrdc.net^
 ||benessecorp.tt.omtrdc.net^
 ||benessenewmedia.hb.tt.omtrdc.net^
@@ -6479,6 +6541,7 @@
 ||bookingww.connect.tt.omtrdc.net^
 ||bookit2.set.tt.omtrdc.net^
 ||books-shop-inc.shop.tt.omtrdc.net^
+||boomerangtv.pt.ssl.sc.tt.omtrdc.net^
 ||boomtrain44butor.tt.omtrdc.net^
 ||boostmobile.tt.omtrdc.net^
 ||bootstage-es.tt.omtrdc.net^
@@ -6501,6 +6564,7 @@
 ||bot.tt.omtrdc.net^
 ||bougainvillealandscapeeespn.hb.tt.omtrdc.net^
 ||bowlinggreenstateuni.tt.omtrdc.net^
+||boxbskyb.hb-api.tt.omtrdc.net^
 ||boxinc.tt.omtrdc.net^
 ||boxycharm.tt.omtrdc.net^
 ||bprod-stake-dot-6.tt.omtrdc.net^
@@ -6539,14 +6603,17 @@
 ||brookdaleseniorlivin.tt.omtrdc.net^
 ||brookingsinstitution.tt.omtrdc.net^
 ||brotherinternational.tt.omtrdc.net^
+||brotherinternational.tt.tt.omtrdc.net^
 ||brp.tt.omtrdc.net^
 ||brs.tt.omtrdc.net^
 ||brukerbiospin.tt.omtrdc.net^
 ||brunswickcorporation.tt.omtrdc.net^
 ||bsdokyrlfl.251metlife.hb.tt.omtrdc.net^
+||bsh.tt.omtrdc.net^
 ||bskyb-13.hb-api.tt.omtrdc.net^
 ||bskyb-alpha.hb-api.tt.omtrdc.net^
 ||bskyb-america.hb-api.tt.omtrdc.net^
+||bskyb-corp.hb-api.tt.omtrdc.net^
 ||bskyb-global.hb-api.tt.omtrdc.net^
 ||bskyb-korea.hb-api.tt.omtrdc.net^
 ||bskyb-lab.hb-api.tt.omtrdc.net^
@@ -6652,6 +6719,7 @@
 ||capitalgroupcompanie.tt.omtrdc.net^
 ||capitalone.tt.omtrdc.net^
 ||capitaloneservices.tt.omtrdc.net^
+||car2go.com.ssl.sc.tt.omtrdc.net^
 ||carbonite.tt.omtrdc.net^
 ||carcheck.tt.omtrdc.net^
 ||card-fields0-4-0.tt.omtrdc.net^
@@ -6678,6 +6746,7 @@
 ||cartoon11mainnewmedia.hb.tt.omtrdc.net^
 ||cartoonanzeatextilesnewmedia.hb.tt.omtrdc.net^
 ||cartoonaxisbanknewmedia.hb.tt.omtrdc.net^
+||cartoonbarronsnewmedia.hb.tt.omtrdc.net^
 ||cartoonbtvancouvernewmedia.hb.tt.omtrdc.net^
 ||cartooncapitalgroupnewmedia.hb.tt.omtrdc.net^
 ||cartoonconsumerreportsnewmedia.hb.tt.omtrdc.net^
@@ -6692,10 +6761,12 @@
 ||cartooneversourcenewmedia.hb.tt.omtrdc.net^
 ||cartoonfreshfindsnewmedia.hb.tt.omtrdc.net^
 ||cartoonfuturo360newmedia.hb.tt.omtrdc.net^
+||cartoongmworldnewmedia.hb.tt.omtrdc.net^
 ||cartoongrupobbvanewmedia.hb.tt.omtrdc.net^
 ||cartoonimmoweltagnewmedia.hb.tt.omtrdc.net^
 ||cartoonjivesoftwareincnewmedia.hb.tt.omtrdc.net^
 ||cartoonjohnhancocknewmedia.hb.tt.omtrdc.net^
+||cartoonks-limits-apinewmedia.hb.tt.omtrdc.net^
 ||cartoonmotosportnewmedia.hb.tt.omtrdc.net^
 ||cartoonnewscorpaustralianewmedia.hb.tt.omtrdc.net^
 ||cartoonnorthernterritorynewmedia.hb.tt.omtrdc.net^
@@ -6858,6 +6929,8 @@
 ||cliniquepasteur.tt.omtrdc.net^
 ||clippervacations.tt.omtrdc.net^
 ||clm-cdn-main.tt.omtrdc.net^
+||clnmetrics.cisco.com^
+||cloud.1-the-jloginn-securey.hb-api.tt.omtrdc.net^
 ||cloud.tt.omtrdc.net^
 ||cloud.va504.insight.tt.omtrdc.net^
 ||cloudera.tt.omtrdc.net^
@@ -6879,6 +6952,7 @@
 ||cname-aa.engineersguide.jp^
 ||cname-aa.hatarakunavi.net^
 ||cname-aa.staffservice-engineering.jp^
+||cname-aa.staffservice-medical.jp^
 ||cname-aa.staffservice.co.jp^
 ||cnamecustomer.hb.tt.omtrdc.net^
 ||cnamecustomer.tt.omtrdc.net^
@@ -6982,6 +7056,7 @@
 ||containerbskyb.hb-api.tt.omtrdc.net^
 ||content-api-staging02.tt.omtrdc.net^
 ||contoso-my.sharepoint.com^
+||contractorleadershiplive.com.com.sc.tt.omtrdc.net^
 ||contributor-accounts.tt.omtrdc.net^
 ||control.tt.omtrdc.net^
 ||converse.tt.omtrdc.net^
@@ -7067,6 +7142,7 @@
 ||ctl.tt.omtrdc.net^
 ||ctpkanalizasyonkapagi.tt.omtrdc.net^
 ||ctshirts.tt.omtrdc.net^
+||ctshirts.tt.tt.omtrdc.net^
 ||ctwofo.tt.omtrdc.net^
 ||cua.tt.omtrdc.net^
 ||cuart.tt.omtrdc.net^
@@ -7283,11 +7359,13 @@
 ||data.emaillpb.adobe.com^
 ||data.emails.aucklandairport.co.nz^
 ||data.emails.ringcentral.com^
+||data.emailservice.vattenfall.nl^
 ||data.emdev.officedepot.com^
 ||data.emea.coca-cola.com^
 ||data.eml.wegmans.com^
 ||data.enl.nespresso.com^
 ||data.enz.nespresso.com^
+||data.epost.snn.no^
 ||data.epsilon.adobesandbox.com^
 ||data.erfahrung.o2.de^
 ||data.esg.nespresso.com^
@@ -7358,6 +7436,7 @@
 ||data.marketing.williamsf1.com^
 ||data.marketingbmg.bancobmg.com.br^
 ||data.member.aware.com.au^
+||data.member.unitedhealthcare.com^
 ||data.membership.chowtaifook.com^
 ||data.mktg.nfl.com^
 ||data.mmail.northeast.aaa.com^
@@ -7439,6 +7518,7 @@
 ||dayintegrationintern.tt.omtrdc.net^
 ||dbmsdatadebug.tt.omtrdc.net^
 ||dbprivatundfirmenkun.tt.omtrdc.net^
+||dbs.sc.tt.omtrdc.net^
 ||dbs.tt.omtrdc.net^
 ||dbseschenker.tt.omtrdc.net^
 ||dbsgsmc.tt.omtrdc.net^
@@ -7552,6 +7632,7 @@
 ||dellprod2-1-13.us.tt.omtrdc.net^
 ||delltechnologies.tt.omtrdc.net^
 ||delmarvanownewmedia.hb.tt.omtrdc.net^
+||deloitte.sc.tt.omtrdc.net^
 ||deloittetouchetohmat.tt.omtrdc.net^
 ||delphixaws832.cmsdc.tt.omtrdc.net^
 ||delta-mcars.tt.omtrdc.net^
@@ -7592,6 +7673,7 @@
 ||dep.disney.tt.omtrdc.net^
 ||depot9.tt.omtrdc.net^
 ||deputecptyltd.tt.omtrdc.net^
+||der.com.d3.sc.tt.omtrdc.net^
 ||derk53.tt.omtrdc.net^
 ||dermadoctor.tt.omtrdc.net^
 ||dertouristikonlinegm.tt.omtrdc.net^
@@ -7755,12 +7837,14 @@
 ||directvskins.hb.tt.omtrdc.net^
 ||directvtoad-geo-sinlications.hb.tt.omtrdc.net^
 ||directwineslimited.tt.omtrdc.net^
+||dis.d1.sc.tt.omtrdc.net^
 ||discord87.tt.omtrdc.net^
 ||discountmall.tt.omtrdc.net^
 ||discounttireofameric.tt.omtrdc.net^
 ||discover.tt.omtrdc.net^
 ||discoverbank.tt.omtrdc.net^
 ||discovery-ssl.hb-api.tt.omtrdc.net^
+||discoverynordics-chef.hb.tt.omtrdc.net^
 ||discoverynordics-elasticbeanstalk.hb.tt.omtrdc.net^
 ||discoverynordics-management.hb.tt.omtrdc.net^
 ||discoverynordics-toolbar.hb.tt.omtrdc.net^
@@ -7842,6 +7926,7 @@
 ||doomovies9.tt.omtrdc.net^
 ||doona.tt.omtrdc.net^
 ||dotsourcegmbhpartner.tt.omtrdc.net^
+||doudian.tt.omtrdc.net^
 ||douglasgmbh.tt.omtrdc.net^
 ||dovercorp.tt.omtrdc.net^
 ||downblouse-or-side-boob.tt.omtrdc.net^
@@ -7913,6 +7998,7 @@
 ||e2e-t360lookup.tt.omtrdc.net^
 ||e5s7mqjz.tt.omtrdc.net^
 ||eaas.tt.omtrdc.net^
+||eaccess.tt.omtrdc.net^
 ||earlywarning-client.tt.omtrdc.net^
 ||east.tt.omtrdc.net^
 ||eastman.tt.omtrdc.net^
@@ -7927,6 +8013,7 @@
 ||ecobee.tt.omtrdc.net^
 ||ecomputing.tt.omtrdc.net^
 ||edb.tt.omtrdc.net^
+||eddiebauer.com.sc.tt.omtrdc.net^
 ||edge-cg-rtc-shv-01-mrs2.tt.omtrdc.net^
 ||edge-emea.tt.omtrdc.net^
 ||edge-fwdproxy-1-bgp-02-mxp1.tt.omtrdc.net^
@@ -7974,6 +8061,7 @@
 ||ehealthinsurance.tt.omtrdc.net^
 ||ei-beans.tt.omtrdc.net^
 ||eisregistration.tt.omtrdc.net^
+||el-mundo.net.ssl.d2.sc.tt.omtrdc.net^
 ||elaine.tt.omtrdc.net^
 ||elal.tt.omtrdc.net^
 ||eldersrural.tt.omtrdc.net^
@@ -8021,6 +8109,7 @@
 ||episodeinteractiveguide.tt.omtrdc.net^
 ||epm.tt.omtrdc.net^
 ||epson.tt.omtrdc.net^
+||epsonukltd.hb.tt.omtrdc.net^
 ||epsonukltd.tt.omtrdc.net^
 ||eqqlpokcpp.22nbcume.hb.tt.omtrdc.net^
 ||equides.tt.omtrdc.net^
@@ -8147,6 +8236,7 @@
 ||femaleathlete1.blog.tt.omtrdc.net^
 ||fenixcargo.tt.omtrdc.net^
 ||fernandosansegundo.tt.omtrdc.net^
+||ffcu.ca.ssl.sc.tt.omtrdc.net^
 ||ffoxentertainment.hb-api.tt.omtrdc.net^
 ||fgh.tt.omtrdc.net^
 ||fhh.tt.omtrdc.net^
@@ -8223,6 +8313,7 @@
 ||foxentertainmentauth.hb-api.tt.omtrdc.net^
 ||foxentertainmentdocker.hb.tt.omtrdc.net^
 ||foxentertainmentgermany.hb-api.tt.omtrdc.net^
+||foxentertainmentmobile.hb-api.tt.omtrdc.net^
 ||foxentertainmentsupport.hb-api.tt.omtrdc.net^
 ||foxentertainmentus-east-10.hb-api.tt.omtrdc.net^
 ||foxnetworks.tt.omtrdc.net^
@@ -8305,6 +8396,7 @@
 ||galiciabanco.tt.omtrdc.net^
 ||galp.tt.omtrdc.net^
 ||gameinternationalization.tt.omtrdc.net^
+||gamespot.com.ssl.sc.tt.omtrdc.net^
 ||gannettcompany.tt.omtrdc.net^
 ||ganymede.tt.omtrdc.net^
 ||garantibank.tt.omtrdc.net^
@@ -8367,6 +8459,7 @@
 ||globis.tt.omtrdc.net^
 ||gls-ch-int.mailing.tt.omtrdc.net^
 ||glyconverter.tt.omtrdc.net^
+||gmac.tt.omtrdc.net^
 ||gmailaerosehipmios-api.tt.omtrdc.net^
 ||gmfinancial.tt.omtrdc.net^
 ||gminsurance.tt.omtrdc.net^
@@ -8486,6 +8579,7 @@
 ||hagerty.tt.omtrdc.net^
 ||haget.hb.tt.omtrdc.net^
 ||halliburtonenergyser.tt.omtrdc.net^
+||hallmarkcom.hb.tt.omtrdc.net^
 ||hallmarkcom.tt.omtrdc.net^
 ||hamamatsu.tt.omtrdc.net^
 ||haman.tt.omtrdc.net^
@@ -8505,6 +8599,7 @@
 ||harrisidprotection.insight.tt.omtrdc.net^
 ||harrismycfo.com.insight.tt.hb-fa-dev.tt.omtrdc.net^
 ||harrismycfo.insight.tt.hb-fa-dev.tt.omtrdc.net^
+||harrisprivatebankstability.insight.tt.omtrdc.net^
 ||harrodsltd.tt.omtrdc.net^
 ||harvardbusinessonline.tt.omtrdc.net^
 ||harvardbusinessrevie.tt.omtrdc.net^
@@ -8593,6 +8688,7 @@
 ||hohobearhoho.tt.omtrdc.net^
 ||hollandusainc.tt.omtrdc.net^
 ||holmesglen.tt.omtrdc.net^
+||home-server-sas-orglive.2.hb-api.tt.omtrdc.net^
 ||homedepot.tt.omtrdc.net^
 ||homedepotcanada.tt.omtrdc.net^
 ||homedepotmx.tt.omtrdc.net^
@@ -8617,8 +8713,11 @@
 ||host-66-152-93-136.tt.omtrdc.net^
 ||host.update.tt.omtrdc.net^
 ||hostplus.tt.omtrdc.net^
+||hotels.cn.ssl.d2.sc.tt.omtrdc.net^
+||houseoffraser.co.uk.ssl.sc.tt.omtrdc.net^
 ||housingdevelopment.tt.omtrdc.net^
 ||hoymotornewmedia.hb.tt.omtrdc.net^
+||hp.com.ssl.d1.sc.tt.omtrdc.net^
 ||hp.tt.omtrdc.net^
 ||hpe.tt.omtrdc.net^
 ||hpjapan.tt.omtrdc.net^
@@ -8764,6 +8863,7 @@
 ||infinitiheliosemea.tt.omtrdc.net^
 ||infinityinsurance.tt.omtrdc.net^
 ||info-46.tt.omtrdc.net^
+||info.inswa.coca-cola.com^
 ||informaeconnewmedia.hb.tt.omtrdc.net^
 ||informatica.tt.omtrdc.net^
 ||informatie.communicatie.nn.nl^
@@ -8780,6 +8880,7 @@
 ||ingredionincorporate.tt.omtrdc.net^
 ||ingspain.tt.omtrdc.net^
 ||ingturkey.tt.omtrdc.net^
+||initupdatehome-server-cdnhost-blog.1.hb-api.tt.omtrdc.net^
 ||innersource-petclinic-maven-prd-test.tt.omtrdc.net^
 ||innovationcu.tt.omtrdc.net^
 ||inome.tt.omtrdc.net^
@@ -8823,6 +8924,7 @@
 ||internal.engineering.1.onlineauth.tt.omtrdc.net^
 ||internal.sg.prod.tt.omtrdc.net^
 ||internalanti-virus.tt.omtrdc.net^
+||internalfoxnews.hb.tt.omtrdc.net^
 ||internalmetrics.hb.tt.omtrdc.net^
 ||internals.tt.omtrdc.net^
 ||internalwebclients-svnpostgresgit.tt.omtrdc.net^
@@ -8831,6 +8933,7 @@
 ||intesasanpaolo.tt.omtrdc.net^
 ||intgw.tt.omtrdc.net^
 ||intouchsolutions.tt.omtrdc.net^
+||intuit.com.ssl.sc.tt.omtrdc.net^
 ||intuit.tt.omtrdc.net^
 ||intvrpsadmin.tt.omtrdc.net^
 ||invatron23.vanaert.tt.omtrdc.net^
@@ -8890,8 +8993,11 @@
 ||ipv6-c013-ewr001-altice-east-isp.1.oca.tt.omtrdc.net^
 ||ipv6-c017-lhr005-bt-isp.1.oca.tt.omtrdc.net^
 ||ipv6-c054-ber001-ix.tt.omtrdc.net^
+||iqmetrics.11freunde.de^
 ||iqmetrics.faz.net^
 ||iqmetrics.handelsblatt.com^
+||iqmetrics.manager-magazin.de^
+||iqmetrics.spiegel.de^
 ||iqmetrics.sueddeutsche.de^
 ||ir4.6.tt.omtrdc.net^
 ||ir45.no.tt.omtrdc.net^
@@ -8950,6 +9056,7 @@
 ||jamelo-renaissance.tt.omtrdc.net^
 ||jandi.tt.omtrdc.net^
 ||japanairlinescoltd.tt.omtrdc.net^
+||japannetbank.co.jp.sc.tt.omtrdc.net^
 ||jasakerjaborongan.tt.omtrdc.net^
 ||jaszarokszallas.tt.omtrdc.net^
 ||jbhunt.tt.omtrdc.net^
@@ -8963,6 +9070,7 @@
 ||jecbm.tt.omtrdc.net^
 ||jeep-granturismo-6.tt.omtrdc.net^
 ||jefferson.tt.omtrdc.net^
+||jenkin-bskyb.hb-api.tt.omtrdc.net^
 ||jenkins-gcpcustomersv4-portal.tt.omtrdc.net^
 ||jessopsmarketing.tt.omtrdc.net^
 ||jetprivilege.tt.omtrdc.net^
@@ -8990,6 +9098,8 @@
 ||jobs-prod.cloud.tt.omtrdc.net^
 ||jobs9.prod.prod.tt.omtrdc.net^
 ||jobsearch-openings.admin.tt.omtrdc.net^
+||jobstreet.com.sg.ssl.sc.tt.omtrdc.net^
+||jobstreet.vn.sc.tt.omtrdc.net^
 ||jockeycominc.tt.omtrdc.net^
 ||jocuri.tt.omtrdc.net^
 ||joelosteenministries.tt.omtrdc.net^
@@ -9082,6 +9192,7 @@
 ||keskustelut.tt.omtrdc.net^
 ||keurig.tt.omtrdc.net^
 ||keybankassociation.tt.omtrdc.net^
+||keysight.co.jp.ssl.sc.tt.omtrdc.net^
 ||kezi-ado-vevo.tt.omtrdc.net^
 ||khamman.gurgaon.tt.omtrdc.net^
 ||khwjczapvu.0.20dupont.hb.tt.omtrdc.net^
@@ -9134,6 +9245,7 @@
 ||kr-3-7.tt.omtrdc.net^
 ||kr-7-4.tt.omtrdc.net^
 ||krakenloginn.tt.omtrdc.net^
+||krbmjghbgw.17.182nbcume.hb.tt.omtrdc.net^
 ||kroger.tt.omtrdc.net^
 ||krp.tt.omtrdc.net^
 ||ktolleh.tt.omtrdc.net^
@@ -9145,6 +9257,7 @@
 ||kuranuki.tt.omtrdc.net^
 ||kurtcenota.tt.omtrdc.net^
 ||kyndryl.tt.omtrdc.net^
+||l-videothe-prodapimxo.admin.hb-api.tt.omtrdc.net^
 ||l.training-page.worldvision.ca^
 ||l7.tt.omtrdc.net^
 ||lab.tt.omtrdc.net^
@@ -9176,6 +9289,7 @@
 ||lb-prn-bip.tt.omtrdc.net^
 ||lbcs.tt.omtrdc.net^
 ||lbpvitabeta.tt.omtrdc.net^
+||lca-familyuatadmin1net.1.hb-api.tt.omtrdc.net^
 ||lch.tt.omtrdc.net^
 ||lcinternational.tt.omtrdc.net^
 ||lclwuqsiwq.17.251foxnews.hb.tt.omtrdc.net^
@@ -9195,6 +9309,7 @@
 ||lendio.tt.omtrdc.net^
 ||lenordik.tt.omtrdc.net^
 ||lenovo.tt.omtrdc.net^
+||lenovo.tt.tt.omtrdc.net^
 ||lens.blogs.tt.omtrdc.net^
 ||lenur-pr.tt.omtrdc.net^
 ||leomwpvxrc.www.aetv.hb.tt.omtrdc.net^
@@ -9283,6 +9398,7 @@
 ||lotterental.tt.omtrdc.net^
 ||lotteshopping.tt.omtrdc.net^
 ||lottomatica.tt.omtrdc.net^
+||louandgrey.com.ssl.sc.tt.omtrdc.net^
 ||love.tt.omtrdc.net^
 ||lovekirugon.tt.omtrdc.net^
 ||lowes.tt.omtrdc.net^
@@ -9379,6 +9495,7 @@
 ||mail7.systemalerts11.tt.omtrdc.net^
 ||mail7808.campaigns.tt.omtrdc.net^
 ||mailchimp-2-3.tt.omtrdc.net^
+||mailing.hb-api-stage.tt.omtrdc.net^
 ||mailout.tt.omtrdc.net^
 ||mailsor-f61.tt.omtrdc.net^
 ||mailsusu.tt.omtrdc.net^
@@ -9494,6 +9611,7 @@
 ||mboxedge33.tt.omtrdc.net^
 ||mboxedge37.abbottlaboratories.tt.omtrdc.net^
 ||mboxedge37.tt.hb-fa-dev.tt.omtrdc.net^
+||mboxedgeundefined.tt.omtrdc.net^
 ||mboxpc.adobe.tt.omtrdc.net^
 ||mboxpc.ingspain.tt.omtrdc.net^
 ||mboxsession.adobe.tt.omtrdc.net^
@@ -9614,6 +9732,8 @@
 ||merklemarketing.tt.omtrdc.net^
 ||merrickbank.tt.omtrdc.net^
 ||merrillcorporation.tt.omtrdc.net^
+||merrilledge.sc.tt.omtrdc.net^
+||merrilledge.tt.tt.omtrdc.net^
 ||meta01.gtm.tt.omtrdc.net^
 ||metabase.aa-mock.hb-fa-stage.tt.omtrdc.net^
 ||metabase.dishpurchasingcorporation.hb-api.tt.omtrdc.net^
@@ -9727,7 +9847,9 @@
 ||metrics.nutraingredients-latam.com^
 ||metrics.nutraingredients-usa.com^
 ||metrics.nutraingredients.com^
+||metrics.nutraingredientsasia-awards.com^
 ||metrics.outsourcing-pharma.com^
+||metrics.r200.co.uk^
 ||metrics.radissonhotelsamericas.com^
 ||metrics.reallymoving.com^
 ||metrics.refinitiv.com^
@@ -9778,6 +9900,7 @@
 ||mhsi-47-195-56.tt.omtrdc.net^
 ||mi21ni.tt.omtrdc.net^
 ||miaprovaamericaspart.tt.omtrdc.net^
+||michaelkors.uk.ssl.sc.tt.omtrdc.net^
 ||michaelsstores.tt.omtrdc.net^
 ||michelinglobal.tt.omtrdc.net^
 ||michellehoefener.tt.omtrdc.net^
@@ -9815,6 +9938,7 @@
 ||mirrors.aisis.tt.omtrdc.net^
 ||miss-tramell.tt.omtrdc.net^
 ||mitchellsbutlersleis.tt.omtrdc.net^
+||mitsubishi-motors.com.au.ssl.sc.tt.omtrdc.net^
 ||mitsubishiaustralia.tt.omtrdc.net^
 ||mitsubishimotorscorp.tt.omtrdc.net^
 ||mitsubishiufjnicos.tt.omtrdc.net^
@@ -9879,12 +10003,14 @@
 ||morganstanleyandco.tt.omtrdc.net^
 ||mosaikbusiness.insight.tt.omtrdc.net^
 ||mosax.tt.omtrdc.net^
+||motegrity.com.ssl.sc.tt.omtrdc.net^
 ||motocomplex162-ag.tt.omtrdc.net^
 ||motocykleuzywane-uzytkowe.hadm.tt.omtrdc.net^
 ||motofrajda222.tt.omtrdc.net^
 ||motohandel-dakar1.tt.omtrdc.net^
 ||motoholicy-pomoc.tt.omtrdc.net^
 ||motomar-as.tt.omtrdc.net^
+||motorpressestuttgart.d3.sc.tt.omtrdc.net^
 ||mototrader-kielce1.tt.omtrdc.net^
 ||mototransbis-inwest.tt.omtrdc.net^
 ||mountainamericacredi.tt.omtrdc.net^
@@ -9932,6 +10058,7 @@
 ||mts-ulecs-ew1.tt.omtrdc.net^
 ||mttln2.tt.omtrdc.net^
 ||mtufriedrichs.tt.omtrdc.net^
+||mtv.com.br.ssl.sc.tt.omtrdc.net^
 ||mtv0.hb-api.tt.omtrdc.net^
 ||mtv3.tt.omtrdc.net^
 ||mtvnetworks.hb-api.tt.omtrdc.net^
@@ -10046,10 +10173,12 @@
 ||nedbanklimited.tt.omtrdc.net^
 ||negozio.tt.omtrdc.net^
 ||neimanmarcus.tt.omtrdc.net^
+||neimanmarcus.tt.tt.omtrdc.net^
 ||nekonecnalaska.tt.omtrdc.net^
 ||neom.tt.omtrdc.net^
 ||neoviafinancial.tt.omtrdc.net^
 ||neriuminternational.tt.omtrdc.net^
+||net.d2.sc.tt.omtrdc.net^
 ||netabc.hb-api.tt.omtrdc.net^
 ||netcentricag.tt.omtrdc.net^
 ||netcologne.tt.omtrdc.net^
@@ -10141,6 +10270,7 @@
 ||ns-buyiphone10.tt.omtrdc.net^
 ||ns1.tt.omtrdc.net^
 ||ns12.tt.omtrdc.net^
+||ns2.corp.tt.omtrdc.net^
 ||ns3.cl.tt.omtrdc.net^
 ||ns62.tt.omtrdc.net^
 ||nsf.tt.omtrdc.net^
@@ -10151,7 +10281,9 @@
 ||nvidia.tt.omtrdc.net^
 ||nwfbr.tt.omtrdc.net^
 ||nyelvkonyv.tt.omtrdc.net^
+||nyulmc.sc.tt.omtrdc.net^
 ||nzl-pool.tt.omtrdc.net^
+||nzporixfao.vvzhujsqvg.att.hb.tt.omtrdc.net^
 ||nzz.tt.omtrdc.net^
 ||o.www.tt.omtrdc.net^
 ||oa515.blog57.tt.omtrdc.net^
@@ -10164,6 +10296,7 @@
 ||octannerco.tt.omtrdc.net^
 ||octarget.tt.omtrdc.net^
 ||odishatourismgov.tt.omtrdc.net^
+||odishpurchasingcorporation.hb-api.tt.omtrdc.net^
 ||oferta.tt.omtrdc.net^
 ||office-print.tt.omtrdc.net^
 ||officeworks.tt.omtrdc.net^
@@ -10175,6 +10308,7 @@
 ||olamnet.tt.omtrdc.net^
 ||omes.tt.omtrdc.net^
 ||omniture.tt.omtrdc.net^
+||omniture.tt.tt.omtrdc.net^
 ||omniture8-8.tt.omtrdc.net^
 ||omron.tt.omtrdc.net^
 ||omtrdc.netdiscovery.hb-api.tt.omtrdc.net^
@@ -10567,6 +10701,7 @@
 ||prodsalesbetatemp-exchangedns.tt.omtrdc.net^
 ||prodtest1-select.tt.omtrdc.net^
 ||produban.tt.omtrdc.net^
+||production.1-the-jloginn-securey.hb-api.tt.omtrdc.net^
 ||profile.heartbeats.hb.tt.omtrdc.net^
 ||profiles-web.tt.omtrdc.net^
 ||programmyflicks.tt.omtrdc.net^
@@ -10598,6 +10733,7 @@
 ||pspperfc.tt.omtrdc.net^
 ||pspsso.tt.omtrdc.net^
 ||pt-br.tokyoghoul.tt.omtrdc.net^
+||ptowxtombv.vvzhujsqvg.att.hb.tt.omtrdc.net^
 ||ptrs.regione.tt.omtrdc.net^
 ||ptzinsurance.tt.omtrdc.net^
 ||publicstorage.tt.omtrdc.net^
@@ -10629,6 +10765,7 @@
 ||qb31bgpatchsp.tt.omtrdc.net^
 ||qbbot-ppd.tt.omtrdc.net^
 ||qboy.tt.omtrdc.net^
+||qbparzqzbm.20nbcume.hb.tt.omtrdc.net^
 ||qbse-stg.tt.omtrdc.net^
 ||qdp-production-9vumsb.tt.omtrdc.net^
 ||qiagen.tt.omtrdc.net^
@@ -10644,6 +10781,7 @@
 ||quiktrip-m.tt.omtrdc.net^
 ||quotescdvny.tt.omtrdc.net^
 ||qvc.tt.omtrdc.net^
+||r.msn.comcbsinteractive.hb.tt.omtrdc.net^
 ||r13.tt.omtrdc.net^
 ||r4-iad-ss-static-assets-admin.tt.omtrdc.net^
 ||racmotoringserv.tt.omtrdc.net^
@@ -10671,6 +10809,7 @@
 ||razorfishthrivent.tt.omtrdc.net^
 ||rbs-fpssl.tt.omtrdc.net^
 ||rbs.tt.omtrdc.net^
+||rbsm.com.ssl.sc.tt.omtrdc.net^
 ||rcci.tt.omtrdc.net^
 ||rcg.tt.omtrdc.net^
 ||rco.tt.omtrdc.net^
@@ -10687,6 +10826,7 @@
 ||recruitstaffing.tt.omtrdc.net^
 ||recruitsuumo.tt.omtrdc.net^
 ||redbox.tt.omtrdc.net^
+||redbull.tv.ssl.sc.tt.omtrdc.net^
 ||redcatsusa.tt.omtrdc.net^
 ||redfcu.tt.omtrdc.net^
 ||redhat.tt.omtrdc.net^
@@ -10740,6 +10880,7 @@
 ||reviewcnapi.tt.omtrdc.net^
 ||reviewfuse.tt.omtrdc.net^
 ||revistaadmmade.tt.omtrdc.net^
+||revoltmedia.hb.tt.omtrdc.net^
 ||revvelverizon.tt.omtrdc.net^
 ||rey-da-amarracao-amorosa.tt.omtrdc.net^
 ||rhus.tt.omtrdc.net^
@@ -10775,6 +10916,8 @@
 ||roomselect.tt.omtrdc.net^
 ||roselector.tt.omtrdc.net^
 ||rosenovel.tt.omtrdc.net^
+||rosettastone.co.uk.d1.sc.tt.omtrdc.net^
+||rosettastone.de.d1.sc.tt.omtrdc.net^
 ||rosettastone.tt.omtrdc.net^
 ||rosssimons.tt.omtrdc.net^
 ||royalautomobileclubo.tt.omtrdc.net^
@@ -10985,6 +11128,7 @@
 ||samsungturkey.tt.omtrdc.net^
 ||samsunguk.tt.omtrdc.net^
 ||samsungus.tt.omtrdc.net^
+||samsungwa.com.ssl.sc.tt.omtrdc.net^
 ||samt.frankly.ch^
 ||samt.swisscanto.com^
 ||samt.zkb.ch^
@@ -11071,6 +11215,7 @@
 ||saria.tt.omtrdc.net^
 ||sarljouetonline.tt.omtrdc.net^
 ||sasadotcomlimited.tt.omtrdc.net^
+||saseurobonusmastercard.no.ssl.sc.tt.omtrdc.net^
 ||satair.tt.omtrdc.net^
 ||satarget.csu.edu.au^
 ||satarget.npubank.com.au^
@@ -11097,7 +11242,6 @@
 ||sc.tt.omtrdc.net^
 ||sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.hulu-ios.hb-api.tt.omtrdc.net^
 ||sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.va-edge.sc.hulu-ios.hb-api.tt.omtrdc.net^
-||scadobe.paybooc.co.kr^
 ||scadobe.vpay.co.kr^
 ||scandigital.tt.omtrdc.net^
 ||scandlines.tt.omtrdc.net^
@@ -11206,6 +11350,7 @@
 ||service-billing7-6.tt.omtrdc.net^
 ||service-intercom-9-5.tt.omtrdc.net^
 ||service-profile-99.tt.omtrdc.net^
+||service.2free-it-srv-shop-videohome.hb-api.tt.omtrdc.net^
 ||service.sanita.tt.omtrdc.net^
 ||service.sapglobalmarketingin.tt.omtrdc.net^
 ||servicenowinc.tt.omtrdc.net^
@@ -11250,6 +11395,7 @@
 ||signupbskyb.hb-api.tt.omtrdc.net^
 ||signuphowto.tt.omtrdc.net^
 ||sijax.tt.omtrdc.net^
+||silencerco.tt.omtrdc.net^
 ||siliconlabs.tt.omtrdc.net^
 ||silverfernfarms.tt.omtrdc.net^
 ||silversea.tt.omtrdc.net^
@@ -11289,6 +11435,7 @@
 ||slack0-4-6.tt.omtrdc.net^
 ||slack7-4-2.tt.omtrdc.net^
 ||slack9-1-2.tt.omtrdc.net^
+||slaunch.shopcanopy.com^
 ||slaunch.spectrumtherapeutics.com^
 ||slb2-34-1-vlt.tt.omtrdc.net^
 ||sleephappens.tt.omtrdc.net^
@@ -11351,6 +11498,7 @@
 ||smetrics.aida.de^
 ||smetrics.airmiles.ca^
 ||smetrics.aktiv-mit-psa.de^
+||smetrics.aktiv-mit-rheuma.de^
 ||smetrics.alfalaval.cn^
 ||smetrics.alfalaval.com.au^
 ||smetrics.alfalaval.kr^
@@ -11430,6 +11578,7 @@
 ||smetrics.bilfinans.no^
 ||smetrics.binge.com.au^
 ||smetrics.biomedtracker.com^
+||smetrics.biosimilarsbyboehringer.com^
 ||smetrics.bittermens.com^
 ||smetrics.bjs.com^
 ||smetrics.blau.de^
@@ -11438,6 +11587,7 @@
 ||smetrics.bms-immuno-dermatologie.de^
 ||smetrics.bms-io-academy.co.uk^
 ||smetrics.bms-newfrontiers.com.au^
+||smetrics.bms-onkologie.de^
 ||smetrics.bms.com^
 ||smetrics.bmscustomerconnect.com^
 ||smetrics.bmshealthcare.jp^
@@ -11463,6 +11613,7 @@
 ||smetrics.bridgestoneamericas.com^
 ||smetrics.brinksprepaidmastercard.com^
 ||smetrics.briteboxelectrical.com^
+||smetrics.broadlinespoton.de^
 ||smetrics.brumate.jp^
 ||smetrics.buckeyeheat.com^
 ||smetrics.bzees.com^
@@ -11597,6 +11748,7 @@
 ||smetrics.evoshield.com^
 ||smetrics.evrysdi.com^
 ||smetrics.express-scripts.com^
+||smetrics.expressverified.ca^
 ||smetrics.famousfootwear.ca^
 ||smetrics.famousfootwear.com^
 ||smetrics.farmtracagri.com^
@@ -11701,6 +11853,7 @@
 ||smetrics.jacuzzi.com^
 ||smetrics.jarboes.com^
 ||smetrics.jardiance.com^
+||smetrics.jardineschindler.com^
 ||smetrics.jimwilsonchevrolet.com^
 ||smetrics.junsungki.com^
 ||smetrics.jynarque.com^
@@ -12046,6 +12199,7 @@
 ||smetrics.rejuvenationhome.ca^
 ||smetrics.rent.mercedes-benz.ch^
 ||smetrics.rent.mercedes-benz.co.jp^
+||smetrics.rent.mercedes-benz.se^
 ||smetrics.rentprogress.com^
 ||smetrics.repco.co.nz^
 ||smetrics.repco.com.au^
@@ -12053,6 +12207,7 @@
 ||smetrics.rexulti.com^
 ||smetrics.rexultihcp.com^
 ||smetrics.rinpashu.jp^
+||smetrics.riumachitearoom.jp^
 ||smetrics.roche.com^
 ||smetrics.rocheonline.net^
 ||smetrics.rockandpop.cl^
@@ -12277,6 +12432,7 @@
 ||smetrics.wunetspendprepaid.com^
 ||smetrics.yaencontre.com^
 ||smetrics.yo-ko-o.com^
+||smetrics.yo-ko-o.jp^
 ||smetrics.yourdot.com^
 ||smetrics.yourdot.net^
 ||smetrics.ytv.com^
@@ -12333,6 +12489,7 @@
 ||soiwapi-new.tt.omtrdc.net^
 ||solarwinds.tt.omtrdc.net^
 ||solaseedairinc.tt.omtrdc.net^
+||someclientid.tt.omtrdc.net^
 ||sometimessweet.tt.omtrdc.net^
 ||somni.amrock.com^
 ||somni.bell.ca^
@@ -12504,6 +12661,7 @@
 ||ssc.mtvjapan.com^
 ||ssc.mtvla.com^
 ||ssc.mtvmama.com^
+||ssc.muji.tw^
 ||ssc.mundonick.com^
 ||ssc.nick.co.uk^
 ||ssc.nick.com.pl^
@@ -12667,6 +12825,7 @@
 ||starget.intel.de^
 ||starget.intel.fr^
 ||starget.intel.in^
+||starget.intel.it^
 ||starget.intel.la^
 ||starget.intel.pl^
 ||starget.ladbrokes.be^
@@ -12843,6 +13002,7 @@
 ||sw88.nationalgeographic.de^
 ||sw88.nationalgeographic.es^
 ||sw88.nationalgeographic.fr^
+||sw88.nationalgeographic.it^
 ||sw88.nationalgeographicbrasil.com^
 ||sw88.nationalgeographicexpeditions.co.uk^
 ||sw88.nationalgeographicexpeditions.eu^
@@ -12854,6 +13014,7 @@
 ||sw88.starchannel.be^
 ||sw88.starchannel.nl^
 ||swaggerdishpurchasingcorporation.hb-api.tt.omtrdc.net^
+||swansonhealth.d1.sc.tt.omtrdc.net^
 ||swasc.thecompanystore.com^
 ||swebmetrics.oklahoma.gov^
 ||sweep5sc1n.tt.omtrdc.net^
@@ -12885,6 +13046,7 @@
 ||systemoffice.tt.omtrdc.net^
 ||systempartners-config.tt.omtrdc.net^
 ||szxbyrjwyl.24aetv.hb.tt.omtrdc.net^
+||t-mock.hb-fa-stage.tt.omtrdc.net^
 ||t.10er-tagesticket.de^
 ||t.bahn-mietwagen.de^
 ||t.bahnbuchung.de^
@@ -12996,6 +13158,7 @@
 ||target.groupama.fr^
 ||target.gsghukuk.com^
 ||target.healthengine.com.au^
+||target.hostech.co.uk^
 ||target.hsn.com^
 ||target.huskypro.ca^
 ||target.hyundaiusa.com^
@@ -13083,6 +13246,7 @@
 ||target.sunlife.com^
 ||target.sunlife.com.hk^
 ||target.sunlife.com.ph^
+||target.sunlife.com.vn^
 ||target.sunlifeglobalinvestments.com^
 ||target.swinburne.edu.au^
 ||target.synergy.net.au^
@@ -13093,6 +13257,7 @@
 ||target.totalwine.com^
 ||target.toyota.com^
 ||target.troweprice.com^
+||target.tsc.ca^
 ||target.tunisie.pwc.fr^
 ||target.ultramarfleet.ca^
 ||target.veeam.com^
@@ -13112,6 +13277,7 @@
 ||target.vwfs.pl^
 ||target.vwfs.pt^
 ||target.walgreens.com^
+||target.wedenik.com^
 ||target.wsec06.bancogalicia.com.ar^
 ||target.xfinity.com^
 ||target.zeiss.com^
@@ -13221,6 +13387,7 @@
 ||telkomsel3-2.tt.omtrdc.net^
 ||telstracorporationlt.tt.omtrdc.net^
 ||telstrawholesale.tt.omtrdc.net^
+||telus.hb-api.tt.omtrdc.net^
 ||telus.tt.omtrdc.net^
 ||tema-stal.tt.omtrdc.net^
 ||temasekpolytechnic.tt.omtrdc.net^
@@ -13613,6 +13780,7 @@
 ||txuenergy.tt.omtrdc.net^
 ||tybane1.tt.omtrdc.net^
 ||tycoelectronicscorpo.tt.omtrdc.net^
+||tycoelectronicscorpo.tt.tt.omtrdc.net^
 ||tyo0fpssl.hb-api.tt.omtrdc.net^
 ||typeviz.tt.omtrdc.net^
 ||tyro.tt.omtrdc.net^
@@ -13820,6 +13988,7 @@
 ||va-pool.tt.omtrdc.net^
 ||va2.tt.omtrdc.net^
 ||va502-fpssl.hb-api.tt.omtrdc.net^
+||vabucmgjzu.vvzhujsqvg.att.hb.tt.omtrdc.net^
 ||vagrantlocal.tt.omtrdc.net^
 ||vailresorts.tt.omtrdc.net^
 ||valentino.tt.omtrdc.net^
@@ -13907,6 +14076,7 @@
 ||voalte3.tt.omtrdc.net^
 ||vodacom.tt.omtrdc.net^
 ||vodacomdls.tt.omtrdc.net^
+||vodafone.ie.ssl.d2.sc.tt.omtrdc.net^
 ||vodafonealbania.tt.omtrdc.net^
 ||vodafonecomprod.tt.omtrdc.net^
 ||vodafonecz.tt.omtrdc.net^
@@ -14002,6 +14172,7 @@
 ||vyzdtmwitb.bskyb.hb.tt.omtrdc.net^
 ||vzovzaprodpostgresql09.tt.omtrdc.net^
 ||w-cdn.em.tt.omtrdc.net^
+||w-uk-ri-f-static-iz.2.hb-api.tt.omtrdc.net^
 ||w18h1n-cmdscn02.aa.ad.tt.omtrdc.net^
 ||w2k19std.tt.omtrdc.net^
 ||w3.brandhongjietongyituku.old-finion-enzoas-serviceauth.yajama6.r0.rulegodosoft-022facebookapp-aws-brandate.app.cse.tt.omtrdc.net^
@@ -14205,6 +14376,7 @@
 ||wechat3.s.tt.omtrdc.net^
 ||wedc.tt.omtrdc.net^
 ||wedding.tt.omtrdc.net^
+||wedenik.tt.omtrdc.net^
 ||weeberry.tt.omtrdc.net^
 ||weekin.crisco.tt.omtrdc.net^
 ||wegmans.tt.omtrdc.net^
@@ -14335,6 +14507,7 @@
 ||wolterskluwermedical.tt.omtrdc.net^
 ||woodmark.tt.omtrdc.net^
 ||woolworthsfoodgroup.tt.omtrdc.net^
+||woolworthsfoodgroup.tt.tt.omtrdc.net^
 ||wordman.tt.omtrdc.net^
 ||wordpress.aem.hb.tt.omtrdc.net^
 ||workday.tt.omtrdc.net^
@@ -14374,6 +14547,7 @@
 ||www.abcotv.hb.tt.omtrdc.net^
 ||www.adobe.tt.omtrdc.net^
 ||www.adobecorp.hb.tt.omtrdc.net^
+||www.aem.hb.tt.omtrdc.net^
 ||www.afhistory.tt.omtrdc.net^
 ||www.afpc.tt.omtrdc.net^
 ||www.aipa.tt.omtrdc.net^
@@ -14396,6 +14570,7 @@
 ||www.commonwealth.tt.omtrdc.net^
 ||www.cookiemgr-virus.backend.tt.omtrdc.net^
 ||www.costofliving.tt.omtrdc.net^
+||www.coxcommunications.hb-api.tt.omtrdc.net^
 ||www.crackle.hb.tt.omtrdc.net^
 ||www.creditqb03.tt.omtrdc.net^
 ||www.crz.tt.omtrdc.net^
@@ -14530,6 +14705,7 @@
 ||www.transportationtest.tt.omtrdc.net^
 ||www.tsushima-h.tt.omtrdc.net^
 ||www.tunepizza.tt.omtrdc.net^
+||www.turnerclassicmovies.hb-api.tt.omtrdc.net^
 ||www.ufp.tt.omtrdc.net^
 ||www.ultima.tt.omtrdc.net^
 ||www.uncoverd10.dev10.tt.omtrdc.net^
@@ -14665,6 +14841,7 @@
 ||xptheme.tt.omtrdc.net^
 ||yace.tt.omtrdc.net^
 ||yahooapi.subscriptions-dispatcher-aws-prod.aws.tt.omtrdc.net^
+||yahoojapanshopping.tt.omtrdc.net^
 ||yahoomailinc22.s3.us-east-005.tt.omtrdc.net^
 ||yamaha-baja-6.tt.omtrdc.net^
 ||yamavps.tt.omtrdc.net^
@@ -14741,6 +14918,7 @@
 ||zhxstruhdo.abcotv.hb.tt.omtrdc.net^
 ||ziggytheninja.tt.omtrdc.net^
 ||zimmerbiomet.tt.omtrdc.net^
+||zimmercentegraph.hb-api.tt.omtrdc.net^
 ||zimmerinc.tt.omtrdc.net^
 ||zimslifeintcs.tt.omtrdc.net^
 ||zipipamnmh.182aem.hb.tt.omtrdc.net^
@@ -14879,6 +15057,7 @@
 ||aa.pacificdentalservices.com^
 ||aa.paramountplus.com^
 ||aa.popculture.com^
+||aa.poptv.com^
 ||aa.reebok.com^
 ||aa.reebok.nl^
 ||aa.sparebank1.no^
@@ -14902,6 +15081,7 @@
 ||aas.ismet.kz^
 ||aas.visitsaudi.com^
 ||abmeldung.information.whatsappsim.de^
+||acc.info.lumxpert.signify.com^
 ||acc.marketing.adobedxcusteng.com^
 ||access.hikaritv.net^
 ||acemetrics.aaa.com^
@@ -14963,7 +15143,6 @@
 ||adobe.falabella.com.ar^
 ||adobe.falabella.com.co^
 ||adobe.falabella.com.pe^
-||adobe.paybooc.co.kr^
 ||adobe.pmi.org^
 ||adobe.toridoll.com^
 ||adobe.truckscout24.com^
@@ -15052,6 +15231,7 @@
 ||analytics.ihg.com^
 ||analytics.johnson.ca^
 ||analytics.makro.be^
+||analytics.makro.pt^
 ||analytics.metro-cc.ru^
 ||analytics.metro.be^
 ||analytics.metro.co.in^
@@ -15395,6 +15575,7 @@
 ||mdws.estoniancu.com^
 ||mdws.hmecu.com^
 ||mdws.leroycu.ca^
+||mdws.minnedosacu.mb.ca^
 ||mdws.noventis.ca^
 ||mdws.portagecu.mb.ca^
 ||mdws.stridecu.ca^
@@ -15442,6 +15623,7 @@
 ||metric.nissan.lv^
 ||metric.nissan.nl^
 ||metric.nissan.no^
+||metric.nissan.sk^
 ||metric.nissan.ua^
 ||metric.nomura.co.jp^
 ||metric.nrma.com.au^
@@ -15503,6 +15685,7 @@
 ||metrics.americanairlines.be^
 ||metrics.americanairlines.cl^
 ||metrics.americanairlines.co.cr^
+||metrics.americanairlines.jp^
 ||metrics.americaninno.com^
 ||metrics.americansignaturefurniture.com^
 ||metrics.amfam.com^
@@ -15533,6 +15716,7 @@
 ||metrics.autotrader.com^
 ||metrics.avastin-hcp.com^
 ||metrics.avenue.com^
+||metrics.aviationweek.com^
 ||metrics.axs.com^
 ||metrics.babynes.ch^
 ||metrics.baitoru.com^
@@ -15580,6 +15764,7 @@
 ||metrics.bupa.com.au^
 ||metrics.buyersedge.com.au^
 ||metrics.caesars.com^
+||metrics.cahealthwellness.com^
 ||metrics.cairnspost.com.au^
 ||metrics.caixabank.es^
 ||metrics.calbaptist.edu^
@@ -15602,6 +15787,7 @@
 ||metrics.casio.com.tw^
 ||metrics.catalog.usmint.gov^
 ||metrics.cathflo.com^
+||metrics.cb2.com^
 ||metrics.cbc.youtube.mercedes-benz.com^
 ||metrics.cbn.com^
 ||metrics.ccma.cat^
@@ -15631,6 +15817,7 @@
 ||metrics.cort.com^
 ||metrics.corus.ca^
 ||metrics.costco.com^
+||metrics.costcobusinesscentre.ca^
 ||metrics.costcobusinessdelivery.com^
 ||metrics.cotellic.com^
 ||metrics.cottages.com^
@@ -15650,6 +15837,7 @@
 ||metrics.deakin.edu.au^
 ||metrics.delicious.com.au^
 ||metrics.delta.com^
+||metrics.der.com^
 ||metrics.dertour.de^
 ||metrics.despegar.com^
 ||metrics.dhc.co.jp^
@@ -15745,6 +15933,7 @@
 ||metrics.hbs.edu^
 ||metrics.heathrow.com^
 ||metrics.heathrowexpress.com^
+||metrics.helvetia.com^
 ||metrics.her2treatment.com^
 ||metrics.heraldsun.com.au^
 ||metrics.herbalife.com^
@@ -15876,6 +16065,7 @@
 ||metrics.makemytrip.com^
 ||metrics.mandg.com^
 ||metrics.manheim.com^
+||metrics.marketing.lighting.philips.kz^
 ||metrics.marksandspencer.com^
 ||metrics.marksandspencer.eu^
 ||metrics.marksandspencer.fr^
@@ -15904,6 +16094,7 @@
 ||metrics.moodys.com^
 ||metrics.morganstanley.com^
 ||metrics.motortrend.com^
+||metrics.mrporter.com^
 ||metrics.mrrooter.com^
 ||metrics.msvoice.com^
 ||metrics.murad.com^
@@ -15923,9 +16114,11 @@
 ||metrics.nebraskatotalcare.com^
 ||metrics.nero.com^
 ||metrics.nespresso.com^
+||metrics.netxpress.co.nz^
 ||metrics.newark.com^
 ||metrics.newcars.com^
 ||metrics.news.com.au^
+||metrics.newsadds.com.au^
 ||metrics.newscorpaustralia.com^
 ||metrics.newscorporatesubscriptions.com.au^
 ||metrics.newyorkfarmshow.com^
@@ -16028,6 +16221,7 @@
 ||metrics.royalmail.com^
 ||metrics.royalmailgroup.com^
 ||metrics.rozlytrek.com^
+||metrics.sainsburysbank.co.uk^
 ||metrics.samsclub.com^
 ||metrics.samsunglife.com^
 ||metrics.sap.com^
@@ -16132,6 +16326,7 @@
 ||metrics.trendmicro.com^
 ||metrics.trendyol.com^
 ||metrics.trucker.com^
+||metrics.tryg.dk^
 ||metrics.ttiinc.com^
 ||metrics.turn.com^
 ||metrics.tv2.dk^
@@ -16166,8 +16361,11 @@
 ||metrics.vw.com^
 ||metrics.vwfs.com^
 ||metrics.vwfs.cz^
+||metrics.vwfs.es^
 ||metrics.vwfs.fr^
+||metrics.vwfs.gr^
 ||metrics.vwfs.ie^
+||metrics.vwfs.it^
 ||metrics.vwfs.mx^
 ||metrics.vwfs.pl^
 ||metrics.vwfs.pt^
@@ -16257,6 +16455,7 @@
 ||odc.weather.com^
 ||oimg.login.cnbc.com^
 ||oimg.m.calltheclose.cnbc.com^
+||oimg.mobile.cnbc.com^
 ||oimg.nbcuni.com^
 ||oimg.universalorlandovacations.com^
 ||oimg.universalstudioshollywood.com^
@@ -16289,6 +16488,7 @@
 ||omni.bluecrossma.com^
 ||omni.carecreditprovidercenter.com^
 ||omni.cn.saxobank.com^
+||omni.csc.com^
 ||omni.deere.com^
 ||omni.dsw.com^
 ||omni.holidaycheck.com^
@@ -16301,6 +16501,7 @@
 ||omni.pcm.com^
 ||omni.pluralsight.com^
 ||omni.rei.com^
+||omni.rockethomes.com^
 ||omni.sbicard.com^
 ||omni.serve.com^
 ||omni.sky.de^
@@ -16344,6 +16545,7 @@
 ||omns.murdoch.edu.au^
 ||ompx.shopbop.com^
 ||ompxs.shopbop.com^
+||oms.1067rock.ca^
 ||oms.680news.com^
 ||oms.barrons.com^
 ||oms.breakfasttelevision.ca^
@@ -16355,6 +16557,7 @@
 ||oms.country600.com^
 ||oms.dowjones.com^
 ||oms.dowjoneson.com^
+||oms.easy1013.ca^
 ||oms.egencia.com^
 ||oms.expedia.com^
 ||oms.factiva.com^
@@ -16462,6 +16665,7 @@
 ||sa.discovery.com^
 ||sa.discoveryplus.com^
 ||sa.discoveryplus.in^
+||sa.diynetwork.com^
 ||sa.dyson.no^
 ||sa.eurosport.co.uk^
 ||sa.eurosport.com^
@@ -16575,6 +16779,7 @@
 ||sadbmetrics.oferplan.com^
 ||sadbmetrics.pidecita.com^
 ||sadbmetrics.pisocompartido.com^
+||sadbmetrics.pisos.cat^
 ||sadbmetrics.pisos.com^
 ||sadbmetrics.rtve.es^
 ||sadbmetrics.salon-sie.com^
@@ -16690,6 +16895,7 @@
 ||sanalytics.johnson.ca^
 ||sanalytics.kbdesignlondon.com^
 ||sanalytics.makro.cz^
+||sanalytics.makro.nl^
 ||sanalytics.makro.pl^
 ||sanalytics.makro.pt^
 ||sanalytics.metro.cn^
@@ -16863,6 +17069,7 @@
 ||securetags.esri.com^
 ||securetags.esri.com.tr^
 ||securetags.esri.de^
+||securetags.esri.fi^
 ||securetags.esri.in^
 ||securetags.esri.nl^
 ||securetags.esri.rw^
@@ -16950,6 +17157,7 @@
 ||smetrics.10daily.com.au^
 ||smetrics.10play.com.au^
 ||smetrics.1800contacts.com^
+||smetrics.21nova.com^
 ||smetrics.24hourfitness.com^
 ||smetrics.28degreescard.com.au^
 ||smetrics.31metrescarres.fr^
@@ -17027,6 +17235,7 @@
 ||smetrics.amg.com^
 ||smetrics.amgfunds.com^
 ||smetrics.amica.com^
+||smetrics.ancestry.ca^
 ||smetrics.ancestry.co.uk^
 ||smetrics.ancestry.com^
 ||smetrics.ancestry.de^
@@ -17047,7 +17256,6 @@
 ||smetrics.armadaskis.com^
 ||smetrics.army.mod.uk^
 ||smetrics.arnette.com^
-||smetrics.ascensioncomplete.com^
 ||smetrics.assuranthealth.com^
 ||smetrics.asteronlife.com.au^
 ||smetrics.atlanticsuperstore.ca^
@@ -17166,6 +17374,7 @@
 ||smetrics.caliastudio.com^
 ||smetrics.calvinklein.ca^
 ||smetrics.calvinklein.us^
+||smetrics.calwater.com^
 ||smetrics.capella.edu^
 ||smetrics.capitalone.com^
 ||smetrics.carfax.com^
@@ -17314,6 +17523,7 @@
 ||smetrics.dishanywhere.com^
 ||smetrics.dishpuertorico.com^
 ||smetrics.distrelec.ch^
+||smetrics.dlalekarzy.roche.pl^
 ||smetrics.dnb.com^
 ||smetrics.dnszone.jp^
 ||smetrics.doingbusiness.org^
@@ -17360,8 +17570,10 @@
 ||smetrics.eurocard.com^
 ||smetrics.eurowings.com^
 ||smetrics.eversource.com^
+||smetrics.evine.com^
 ||smetrics.evolytics.com^
 ||smetrics.examinebiosimilars.com^
+||smetrics.expoeast.com^
 ||smetrics.expowest.com^
 ||smetrics.express.com^
 ||smetrics.extranetperu.grupobbva.pe^
@@ -17521,6 +17733,7 @@
 ||smetrics.ibfd.org^
 ||smetrics.ice.gov^
 ||smetrics.iceland.co.uk^
+||smetrics.icharlotte.com^
 ||smetrics.iconfitness.com^
 ||smetrics.icorner.ch^
 ||smetrics.ifc.org^
@@ -17549,6 +17762,7 @@
 ||smetrics.intactinsurance.com^
 ||smetrics.interbank.com.pe^
 ||smetrics.interbank.pe^
+||smetrics.interbankbenefit.pe^
 ||smetrics.interestfree.com.au^
 ||smetrics.internationalchampionscup.com^
 ||smetrics.internetbanka.cz^
@@ -17662,6 +17876,7 @@
 ||smetrics.kone.us^
 ||smetrics.kone.vn^
 ||smetrics.kpmg.us^
+||smetrics.kyohisho.jp^
 ||smetrics.labaie.com^
 ||smetrics.lacounty.gov^
 ||smetrics.ladbrokes.be^
@@ -17782,6 +17997,7 @@
 ||smetrics.michaelkors.uk^
 ||smetrics.michaels.com^
 ||smetrics.michigancompletehealth.com^
+||smetrics.michiganfarmer.com^
 ||smetrics.mid-townford.com^
 ||smetrics.midnightlounge.com^
 ||smetrics.miga.org^
@@ -17844,6 +18060,7 @@
 ||smetrics.nofrills.ca^
 ||smetrics.nomorerules.net^
 ||smetrics.nordiclaan.se^
+||smetrics.nordiclan.no^
 ||smetrics.northernterritory.com^
 ||smetrics.nowtv.com^
 ||smetrics.nowtv.it^
@@ -18108,6 +18325,7 @@
 ||smetrics.sheen.jp^
 ||smetrics.shellenergy.co.uk^
 ||smetrics.shihang.org^
+||smetrics.shihangjituan.org^
 ||smetrics.sho.com^
 ||smetrics.shop.superstore.ca^
 ||smetrics.shopjapan.co.jp^
@@ -18170,7 +18388,6 @@
 ||smetrics.sony.com.ec^
 ||smetrics.sony.com.hn^
 ||smetrics.sony.com.mx^
-||smetrics.sony.com.ni^
 ||smetrics.sony.com.pa^
 ||smetrics.sony.com.pe^
 ||smetrics.sony.com.ph^
@@ -18416,6 +18633,7 @@
 ||smetrics.vsemirnyjbank.org^
 ||smetrics.vw.com^
 ||smetrics.vyvanse.com^
+||smetrics.vyvansepro.com^
 ||smetrics.walgreens.com^
 ||smetrics.wardsintelligence.informa.com^
 ||smetrics.warners.com^
@@ -18535,6 +18753,7 @@
 ||somni.choicehotels.com^
 ||somni.cineplexdigitalmedia.com^
 ||somni.cn.saxobank.com^
+||somni.cpobd.com^
 ||somni.cpogenerac.com^
 ||somni.cpopowermatic.com^
 ||somni.cporotarytools.com^
@@ -18549,6 +18768,7 @@
 ||somni.dxc.com^
 ||somni.dxc.technology^
 ||somni.edisonfinancial.ca^
+||somni.empr.com^
 ||somni.endocrinologyadvisor.com^
 ||somni.firsttechfed.com^
 ||somni.genworth.com^
@@ -18655,6 +18875,7 @@
 ||srepdata.marionstar.com^
 ||srepdata.montgomeryadvertiser.com^
 ||srepdata.mycentraljersey.com^
+||srepdata.mydesert.com^
 ||srepdata.mynorthshorenow.com^
 ||srepdata.newarkadvocate.com^
 ||srepdata.news-leader.com^
@@ -18667,12 +18888,15 @@
 ||srepdata.tennessean.com^
 ||srepdata.theadvertiser.com^
 ||srepdata.thedailyjournal.com^
+||srepdata.thehuddle.com^
 ||srepdata.thespectrum.com^
 ||srepdata.thetimesherald.com^
 ||srepdata.thetowntalk.com^
 ||srepdata.usatoday.com^
+||srepdata.wausaudailyherald.com^
 ||srepdata.wauwatosanow.com^
 ||srepdata.wcsh6.com^
+||srepdata.wisfarmer.com^
 ||srepdata.wkyc.com^
 ||srepdata.ydr.com^
 ||srepdata.yorkdispatch.com^
@@ -18744,6 +18968,7 @@
 ||sslanalytics.sixt.com^
 ||sslanalytics.sixt.de^
 ||sslanalytics.sixt.es^
+||sslanalytics.sixt.nl^
 ||ssldata.thepointsguy.com^
 ||sslmetrics.vivint.com^
 ||sslsc.sanitas.com^
@@ -18756,6 +18981,7 @@
 ||sstat.detelefoongids.nl^
 ||sstatistikk.telenor.no^
 ||sstats.adobe.com^
+||sstats.airfarewatchdog.co.uk^
 ||sstats.airfarewatchdog.com^
 ||sstats.alfa.com^
 ||sstats.allure.com^
@@ -18772,6 +18998,7 @@
 ||sstats.bitdefender.com^
 ||sstats.bnpparibasfortis.be^
 ||sstats.bonappetit.com^
+||sstats.bookhostels.com^
 ||sstats.bookingbuddy.co.uk^
 ||sstats.bookingbuddy.com^
 ||sstats.bookingbuddy.eu^
@@ -18834,6 +19061,7 @@
 ||sstats.libresse.hu^
 ||sstats.libresse.rs^
 ||sstats.lightingshowplace.com^
+||sstats.lovelibra.com.au^
 ||sstats.mora.jp^
 ||sstats.motosport.com^
 ||sstats.mt.com^
@@ -18853,6 +19081,7 @@
 ||sstats.raffles.com^
 ||sstats.runnersneed.com^
 ||sstats.scholastic.com^
+||sstats.seat.com^
 ||sstats.seat.es^
 ||sstats.seat.mx^
 ||sstats.seat.ru^
@@ -18860,6 +19089,7 @@
 ||sstats.simzdarma.cz^
 ||sstats.smartertravel.com^
 ||sstats.snowandrock.com^
+||sstats.supply.com^
 ||sstats.tdameritrade.com^
 ||sstats.teenvogue.com^
 ||sstats.telenor.se^
@@ -18933,6 +19163,7 @@
 ||stats.agl.com.au^
 ||stats.asadventure.fr^
 ||stats.asadventure.nl^
+||stats.bever.nl^
 ||stats.bildconnect.de^
 ||stats.bitdefender.com^
 ||stats.bookhostels.com^
@@ -18979,6 +19210,7 @@
 ||stats.seat-italia.it^
 ||stats.seat.be^
 ||stats.seat.com.tr^
+||stats.seat.es^
 ||stats.seat.fr^
 ||stats.seat.ie^
 ||stats.seat.pt^
@@ -19003,8 +19235,10 @@
 ||stats.whattopack.com^
 ||stats.winsim.de^
 ||stats.wired.com^
+||stats.www.o2.cz^
 ||stats.xactware.com^
 ||stats.yourfone.de^
+||stats2.allure.com^
 ||stats2.architecturaldigest.com^
 ||stats2.bonappetit.com^
 ||stats2.cntraveler.com^
@@ -19052,6 +19286,7 @@
 ||stracking.kyobo.co.kr^
 ||stracking.myomee.com^
 ||stracking.rogers.com^
+||strackingvanrental.vanrental.de^
 ||strk.chegg.com^
 ||sucmetrics.hypovereinsbank.de^
 ||sucmetrics.unicredit.de^
@@ -19154,6 +19389,7 @@
 ||tags.esri.ca^
 ||tags.esri.com^
 ||tags.esri.rw^
+||tags.igeo.com.bo^
 ||tdor-smetrics.td.com^
 ||tenilstats.turner.com^
 ||test-landing-page-122122.email-disney.cjm.adobe.com^
@@ -19183,11 +19419,13 @@
 ||tracker-aa.pafbetscore.lv^
 ||tracking-secure.csob.cz^
 ||tracking.c.mercedes-benz.co.in^
+||tracking.c.mercedes-benz.com.cn^
 ||tracking.csob.cz^
 ||tracking.cspire.com^
 ||tracking.dailyglow.com^
 ||tracking.kyobo.co.kr^
 ||tracking.lg.com^
+||tracking.m.mercedes-benz.co.in^
 ||tracking.m.mercedes-benz.co.za^
 ||tracking.m.mercedes-benz.com.cn^
 ||tracking.m.mercedes-benz.com.sg^
@@ -19317,6 +19555,7 @@
 ||csvtt.bmolife.com^
 ||csvtu.bmolending.com^
 ||metrics.adobeprimetime.com^
+||metrics.cartoonnetworkla.com^
 ||metrics.chron.com^
 ||smetrics.sharekhan.com^
 ||t3e.firstchoice.co.uk^

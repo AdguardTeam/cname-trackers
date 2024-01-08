@@ -876,6 +876,7 @@
 ||4365744.notify6.com^
 ||4367658.notify6.com^
 ||4389756.notify6.com^
+||4399198.notify6.com^
 ||4399896.notify6.com^
 ||4407878.notify6.com^
 ||4421184.notify6.com^
@@ -1068,7 +1069,6 @@
 ||s.optnx.com^
 ||s.optzsrv.com^
 ||s.orbsrv.com^
-||s.paradoxgroup.co^
 ||s.paradoxgroup.uk^
 ||s.pemsrv.com^
 ||s.redpathmedia.com^

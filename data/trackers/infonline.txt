@@ -129,6 +129,7 @@
 ||data-11c63b1cbc.sao.de^
 ||data-11eb4b2a24.deutsche-startups.de^
 ||data-1203b7acd3.mopo.de^
+||data-120a6de7ee.apps.iocnt.de^
 ||data-1261bd4848.logistik-heute.de^
 ||data-12b92dc35b.wetter.de^
 ||data-12c31c7daf.das-onlinespiel.de^
@@ -362,6 +363,7 @@
 ||data-2cfc77297e.tagesspiegel.de^
 ||data-2d5e2d4006.apps.iocnt.de^
 ||data-2d805a2d6c.leben-und-erziehen.de^
+||data-2d86fd41e0.art-magazin.de^
 ||data-2d86fd41e0.business-punk.com^
 ||data-2d86fd41e0.geo.de^
 ||data-2d86fd41e0.stern.de^
@@ -787,6 +789,7 @@
 ||data-5ce6ecf8d0.christkindlesmarkt.de^
 ||data-5ce6ecf8d0.nn.de^
 ||data-5ce6ecf8d0.nordbayern.de^
+||data-5d1c5fc40e.apps.iocnt.de^
 ||data-5d2679d281.skysportaustria.at^
 ||data-5d4a957104.focus-arztsuche.de^
 ||data-5d621ddc78.buffed.de^
@@ -1001,6 +1004,7 @@
 ||data-7294bdf136.focus.de^
 ||data-7352c83f4a.cosmopolitan.de^
 ||data-73b18cc776.radioherford.de^
+||data-73b18cc776.radioherfordhilft.de^
 ||data-73e5a82398.plasticker.de^
 ||data-74131617db.achgut.com^
 ||data-7462ea72ec.augsburger-allgemeine.de^
@@ -1125,6 +1129,7 @@
 ||data-8522662a32.fraenkischer-weinfestkalender.de^
 ||data-8522662a32.main-ding.de^
 ||data-8522662a32.mainpost.de^
+||data-8522662a32.swity.de^
 ||data-8522662a32.wuerzburgerleben.de^
 ||data-857b860637.wir-in-der-praxis.de^
 ||data-85ad330317.spielaffe.de^
@@ -1135,6 +1140,9 @@
 ||data-861bbf2127.fitbook.de^
 ||data-861bbf2127.myhomebook.de^
 ||data-861bbf2127.petbook.de^
+||data-861bbf2127.stylebook.de^
+||data-861bbf2127.techbook.de^
+||data-861bbf2127.travelbook.de^
 ||data-8629f7a423.4players.de^
 ||data-86943486de.laendleauto.at^
 ||data-86d2aee9fa.jetzt.de^
@@ -1325,6 +1333,7 @@
 ||data-a01a8a1ba4.echo-online.de^
 ||data-a01a8a1ba4.fupa.net^
 ||data-a01a8a1ba4.hessen-liebe.de^
+||data-a01a8a1ba4.hessentoday.de^
 ||data-a01a8a1ba4.lampertheimer-zeitung.de^
 ||data-a01a8a1ba4.lauterbacher-anzeiger.de^
 ||data-a01a8a1ba4.main-spitze.de^
@@ -1530,9 +1539,11 @@
 ||data-b7d0b4217b.autoscout24.hu^
 ||data-b7d0b4217b.autoscout24.pl^
 ||data-b7d0b4217b.autoscout24.ro^
+||data-b7d0b4217b.autoscout24.ru^
 ||data-b7d0b4217b.autoscout24.se^
 ||data-b7d20b3e3b.apps.iocnt.de^
 ||data-b7fc5261e7.spreeradio.de^
+||data-b80f3dd5d8.rhein-neckar-zeitung.de^
 ||data-b80f3dd5d8.rhein-neckar-zeitung.net^
 ||data-b80f3dd5d8.rheinneckarzeitung.de^
 ||data-b80f3dd5d8.rnz.de^
@@ -1569,6 +1580,8 @@
 ||data-bb21a2f11b.petbook.de^
 ||data-bb21a2f11b.sportbild.de^
 ||data-bb21a2f11b.stylebook.de^
+||data-bb21a2f11b.techbook.de^
+||data-bb21a2f11b.travelbook.de^
 ||data-bb4ada6163.travelbook.de^
 ||data-bc153aec3e.nmdn.net^
 ||data-bc153aec3e.radioguetersloh.de^
@@ -1583,6 +1596,7 @@
 ||data-bd87db2679.haus.de^
 ||data-bdeff1b2b2.firmenauto.de^
 ||data-be032ee936.christkindlesmarkt.de^
+||data-be032ee936.nanu.news^
 ||data-be032ee936.nn.de^
 ||data-be032ee936.nordbayern.de^
 ||data-be34c4ee2c.apps.iocnt.de^
@@ -1622,6 +1636,7 @@
 ||data-c32add6b67.vital.de^
 ||data-c3391a3eb3.braunschweiger-zeitung.de^
 ||data-c3391a3eb3.harzkurier.de^
+||data-c3391a3eb3.harztrauer.de^
 ||data-c3391a3eb3.immo38.de^
 ||data-c3391a3eb3.konzertkasse.de^
 ||data-c3391a3eb3.news38.de^
@@ -1693,6 +1708,7 @@
 ||data-c7a4161550.apps.iocnt.de^
 ||data-c7fa2f50f1.photovoltaik.eu^
 ||data-c835a62a97.runnersworld.de^
+||data-c849cc593c.immobilien-zeitung.de^
 ||data-c849cc593c.iz.de^
 ||data-c854f15f64.eltern.de^
 ||data-c854f15f64.geo.de^
@@ -2119,6 +2135,7 @@
 ||data-f59db3288b.merkur-online.de^
 ||data-f59db3288b.merkur.de^
 ||data-f59db3288b.nextg.tv^
+||data-f59db3288b.oberhessische-zeitung.de^
 ||data-f59db3288b.oktoberfest.bayern^
 ||data-f59db3288b.op-online.de^
 ||data-f59db3288b.ovb-online.de^

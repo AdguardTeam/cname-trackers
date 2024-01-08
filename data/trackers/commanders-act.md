@@ -8,7 +8,8 @@
     * redirect341.tagcommander.com
     * redirect342.tagcommander.com
     * redirect357.tagcommander.com
-    * redirect362.tagcommander.com
+    * redirect360.tagcommander.com
+    * redirect378.tagcommander.com
     * redirect384.tagcommander.com
     * redirect395.tagcommander.com
     * redirect398.tagcommander.com
@@ -47,7 +48,8 @@
 | data.decathlon.es | redirect341.tagcommander.com |
 | data.decathlon.co.uk | redirect342.tagcommander.com |
 | tc.europcar.com | redirect357.tagcommander.com |
-| data.ouigo.com | redirect362.tagcommander.com |
+| data.auchandirect.fr | redirect360.tagcommander.com |
+| tc.europcar.de | redirect378.tagcommander.com |
 | tc.europcar.com.au | redirect384.tagcommander.com |
 | acquisition.klm.com | redirect395.tagcommander.com |
 | data.decathlon.pl | redirect398.tagcommander.com |

@@ -5,6 +5,7 @@
 ||aaaa.jawfp2.org^
 ||aaaa.nocor.jp^
 ||ac-3.mix.tokyo^
+||ac-ebis-otrk.usen.com^
 ||ac-ebis-stb.usen.com^
 ||ac-ebis-uhome.usen.com^
 ||ac-ebis.otoraku.jp^

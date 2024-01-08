@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -35,6 +35,7 @@ $TTL 300
 2aaf.spinna.xyz CNAME .
 3333.spinna.online CNAME .
 4444.spinna.online CNAME .
+46dfs.juststreaming.tk CNAME .
 5475feaab.clicknplay.to CNAME .
 5555.spinna.online CNAME .
 58745.clicknplay.to CNAME .
@@ -49,7 +50,6 @@ $TTL 300
 893242.milfunsource.com CNAME .
 91199a.xyz CNAME .
 99loz.xyz CNAME .
-a.123porner.com CNAME .
 a.123porner.net CNAME .
 a.1film.to CNAME .
 a.6drole.com CNAME .
@@ -88,6 +88,7 @@ a.letsjerk.org CNAME .
 a.letsjerk.tv CNAME .
 a.memosaqee.com CNAME .
 a.misctool.xyz CNAME .
+a.muipe.xyz CNAME .
 a.myprettyads.one CNAME .
 a.p123p.com CNAME .
 a.pandaporner.com CNAME .
@@ -108,6 +109,7 @@ a.voxar.xyz CNAME .
 a.warddogs.com CNAME .
 a.wlen1bty92.pro CNAME .
 a.worldporncomix.com CNAME .
+a.xenar.xyz CNAME .
 a.xmanga.online CNAME .
 a.zillastream.com CNAME .
 a5g.oves.biz CNAME .
@@ -227,8 +229,6 @@ b1.hentaibaka.one CNAME .
 b1.maturesexvideos.pro CNAME .
 b8ms7gkwq7g.crocotube.com CNAME .
 babynaz.xyz CNAME .
-bambao.lol CNAME .
-bambao.xyz CNAME .
 banana.arabtoons.net CNAME .
 banana.emailon.top CNAME .
 bangute.xyz CNAME .
@@ -246,12 +246,8 @@ blog.andropps.com CNAME .
 blow.week1time.com CNAME .
 bltkm.spinna.store CNAME .
 bolz.lol CNAME .
-bomboms.lol CNAME .
 boob.sukaporn.com CNAME .
 bort.busty-wife.com CNAME .
-btaoc.lol CNAME .
-btaoc.xyz CNAME .
-btctrade.lol CNAME .
 bup.seksohub.com CNAME .
 bursa.conxxx.pro CNAME .
 bx5.tubemaximum.com CNAME .
@@ -544,6 +540,7 @@ penapne.xyz CNAME .
 pihu.xxxpornhd.pro CNAME .
 pivo.tracked.one CNAME .
 plutoclean.com CNAME .
+pnpjceawvmeu.cdnvideo3.com CNAME .
 pop.nkiris.com CNAME .
 pornve.sexyadsrun.com CNAME .
 pornvideos.casa CNAME .
@@ -562,7 +559,6 @@ pred.7mmtv.top CNAME .
 puzzio.xyz CNAME .
 px9.nuderedtube.com CNAME .
 qhip.com CNAME .
-qoqv.com CNAME .
 qoutec.shop CNAME .
 qovua60gue.tubewolf.com CNAME .
 qsdr.mysunnylawn.com CNAME .
@@ -586,6 +582,7 @@ rrree.baijav.com CNAME .
 rs.picmega.com CNAME .
 rst.pornyhd.com CNAME .
 rtgy3r5.jav-7mmtv.top CNAME .
+ruozukk.xyz CNAME .
 rxxx.baijav.com CNAME .
 s.freeporncave.com CNAME .
 s.isoporno.com CNAME .
@@ -619,8 +616,8 @@ sis.facesittingbbw.com CNAME .
 slit.lewd.rip CNAME .
 smart.sunporno.com CNAME .
 solo.chinese-sex-tube.com CNAME .
-solutions.playernetca.top CNAME .
 sor.pornxok.com CNAME .
+spa.arabtoons.net CNAME .
 spyglass.reklamko.pro CNAME .
 srv1.bunnymediaserver.com CNAME .
 ssis.7mmtv.top CNAME .
@@ -643,6 +640,7 @@ swqw.jav-7mmtv.top CNAME .
 tacumi.xyz CNAME .
 tagbucks.xyz CNAME .
 tagun.xyz CNAME .
+tangpuax.xyz CNAME .
 tankiuz.xyz CNAME .
 tayrambo.lol CNAME .
 tb.turbocap.net CNAME .
@@ -653,8 +651,6 @@ thaz.xyz CNAME .
 tiktakz.xyz CNAME .
 tlv.ui02.com CNAME .
 toabuck.xyz CNAME .
-toaioi.lol CNAME .
-toaioi.xyz CNAME .
 topsexmovs.com CNAME .
 topvidstore.com CNAME .
 touzia.xyz CNAME .
@@ -667,6 +663,7 @@ ts.sopornvideos.com CNAME .
 tt.wl-cornholio.com CNAME .
 tyo.justthegays.com CNAME .
 u1zga.letsporn.com CNAME .
+uacabilqlgpw.cdnvideo3.com CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
 uotbzz.xyz CNAME .
@@ -678,10 +675,6 @@ vivuple.xyz CNAME .
 vjav.com.7mmtv.top CNAME .
 vjav.com.jav-7mmtv.top CNAME .
 vsx.hotpornfile.org CNAME .
-vtaos.lol CNAME .
-vtaos.xyz CNAME .
-vtaov.lol CNAME .
-vtaov.xyz CNAME .
 vuruzy.xyz CNAME .
 vuwjv7sjvg7.zedporn.com CNAME .
 vv.7vid.net CNAME .

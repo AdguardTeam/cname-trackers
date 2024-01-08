@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -150,7 +150,6 @@ munnin.hicsuntdra.co CNAME .
 noushe.zevvle.com CNAME .
 numbers.monthlyphotos.com CNAME .
 nums.upscale.app CNAME .
-p.aj-foster.com CNAME .
 p.classroombookings.com CNAME .
 p.ejs.dev CNAME .
 p.fairspot.host CNAME .
@@ -159,7 +158,6 @@ p.iforge.app CNAME .
 p.logbox.io CNAME .
 p.marqueplace.com CNAME .
 p.meilentrio.de CNAME .
-p.nqueue.io CNAME .
 p.ryanhalliday.com CNAME .
 p.versacommerce.de CNAME .
 p.victoria.dev CNAME .
@@ -461,7 +459,6 @@ stats.cleverdiabetic.com CNAME .
 stats.cloud-backup-for-podio.com CNAME .
 stats.coachinghive.com CNAME .
 stats.code-it-studio.de CNAME .
-stats.codeexposed.com CNAME .
 stats.codinginfinity.me CNAME .
 stats.codis.io CNAME .
 stats.coditia.com CNAME .
@@ -509,7 +506,6 @@ stats.divyanshu013.dev CNAME .
 stats.dmail.co.nz CNAME .
 stats.dmarcdigests.com CNAME .
 stats.doana-r.com CNAME .
-stats.domhabersack.com CNAME .
 stats.doors.live CNAME .
 stats.dotnetos.org CNAME .
 stats.dotplan.io CNAME .
@@ -599,6 +595,7 @@ stats.halcyon.hr CNAME .
 stats.hammertime.me CNAME .
 stats.hauke.me CNAME .
 stats.headhunted.com.au CNAME .
+stats.henkverlinde.com CNAME .
 stats.homepage-2021.askmiso-dev.com CNAME .
 stats.homestow.com CNAME .
 stats.hostfactor.io CNAME .
@@ -695,6 +692,7 @@ stats.lstfnd.de CNAME .
 stats.ltdhunt.com CNAME .
 stats.luieremmer.net CNAME .
 stats.lussoveloce.com CNAME .
+stats.lyricall.cz CNAME .
 stats.macosicons.com CNAME .
 stats.madeit.io CNAME .
 stats.madethis.gallery CNAME .
@@ -791,7 +789,6 @@ stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
 stats.poochplaces.dog CNAME .
 stats.portalmonitor.io CNAME .
-stats.portalzero.net CNAME .
 stats.postcollectors.com CNAME .
 stats.poweringpastcoal.org CNAME .
 stats.preeventualist.org CNAME .
@@ -845,7 +842,6 @@ stats.sax.net CNAME .
 stats.scailable.net CNAME .
 stats.scalesql.com CNAME .
 stats.scottbartell.com CNAME .
-stats.screen-play.app CNAME .
 stats.screenagers.com CNAME .
 stats.screenwavemedia.com CNAME .
 stats.seanbailey.dev CNAME .
@@ -929,6 +925,7 @@ stats.tubecalculator.co.uk CNAME .
 stats.twhl.xyz CNAME .
 stats.twirrl.co CNAME .
 stats.ubiwiz.com CNAME .
+stats.unka.space CNAME .
 stats.unusualtourist.com CNAME .
 stats.urbanfinn.com CNAME .
 stats.urlaubsverwaltung.cloud CNAME .
@@ -992,6 +989,7 @@ visite.scambi.org CNAME .
 visitorcenter.ioafw.com CNAME .
 visitorcenter.srwild.com CNAME .
 visitors.gigianddavid.com CNAME .
+vitals.cgddrd.me CNAME .
 we-love-privacy.humane.club CNAME .
 webstats.bijenpatel.com CNAME .
 yolo.philipbjorge.com CNAME .

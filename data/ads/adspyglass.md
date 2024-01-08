@@ -38,6 +38,7 @@
 | 2aaf.spinna.xyz | 0i0i0i0.com |
 | 3333.spinna.online | 0i0i0i0.com |
 | 4444.spinna.online | 0i0i0i0.com |
+| 46dfs.juststreaming.tk | 0i0i0i0.com |
 | 5475feaab.clicknplay.to | 0i0i0i0.com |
 | 5555.spinna.online | 0i0i0i0.com |
 | 58745.clicknplay.to | 0i0i0i0.com |
@@ -52,7 +53,6 @@
 | 893242.milfunsource.com | 0i0i0i0.com |
 | 91199a.xyz | 0i0i0i0.com |
 | 99loz.xyz | 0i0i0i0.com |
-| a.123porner.com | 0i0i0i0.com |
 | a.123porner.net | 0i0i0i0.com |
 | a.1film.to | 0i0i0i0.com |
 | a.6drole.com | 0i0i0i0.com |
@@ -91,6 +91,7 @@
 | a.letsjerk.tv | 0i0i0i0.com |
 | a.memosaqee.com | 0i0i0i0.com |
 | a.misctool.xyz | 0i0i0i0.com |
+| a.muipe.xyz | 0i0i0i0.com |
 | a.myprettyads.one | 0i0i0i0.com |
 | a.p123p.com | 0i0i0i0.com |
 | a.pandaporner.com | 0i0i0i0.com |
@@ -111,6 +112,7 @@
 | a.warddogs.com | 0i0i0i0.com |
 | a.wlen1bty92.pro | 0i0i0i0.com |
 | a.worldporncomix.com | 0i0i0i0.com |
+| a.xenar.xyz | 0i0i0i0.com |
 | a.xmanga.online | 0i0i0i0.com |
 | a.zillastream.com | 0i0i0i0.com |
 | a5g.oves.biz | 0i0i0i0.com |
@@ -230,8 +232,6 @@
 | b1.maturesexvideos.pro | 0i0i0i0.com |
 | b8ms7gkwq7g.crocotube.com | 0i0i0i0.com |
 | babynaz.xyz | 0i0i0i0.com |
-| bambao.lol | 0i0i0i0.com |
-| bambao.xyz | 0i0i0i0.com |
 | banana.arabtoons.net | 0i0i0i0.com |
 | banana.emailon.top | 0i0i0i0.com |
 | bangute.xyz | 0i0i0i0.com |
@@ -249,12 +249,8 @@
 | blow.week1time.com | 0i0i0i0.com |
 | bltkm.spinna.store | 0i0i0i0.com |
 | bolz.lol | 0i0i0i0.com |
-| bomboms.lol | 0i0i0i0.com |
 | boob.sukaporn.com | 0i0i0i0.com |
 | bort.busty-wife.com | 0i0i0i0.com |
-| btaoc.lol | 0i0i0i0.com |
-| btaoc.xyz | 0i0i0i0.com |
-| btctrade.lol | 0i0i0i0.com |
 | bup.seksohub.com | 0i0i0i0.com |
 | bursa.conxxx.pro | 0i0i0i0.com |
 | bx5.tubemaximum.com | 0i0i0i0.com |
@@ -543,6 +539,7 @@
 | penapne.xyz | 0i0i0i0.com |
 | pihu.xxxpornhd.pro | 0i0i0i0.com |
 | pivo.tracked.one | 0i0i0i0.com |
+| pnpjceawvmeu.cdnvideo3.com | 0i0i0i0.com |
 | pop.nkiris.com | 0i0i0i0.com |
 | pornve.sexyadsrun.com | 0i0i0i0.com |
 | pornvideos.casa | 0i0i0i0.com |
@@ -561,7 +558,6 @@
 | puzzio.xyz | 0i0i0i0.com |
 | px9.nuderedtube.com | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
-| qoqv.com | 0i0i0i0.com |
 | qoutec.shop | 0i0i0i0.com |
 | qovua60gue.tubewolf.com | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
@@ -585,6 +581,7 @@
 | rs.picmega.com | 0i0i0i0.com |
 | rst.pornyhd.com | 0i0i0i0.com |
 | rtgy3r5.jav-7mmtv.top | 0i0i0i0.com |
+| ruozukk.xyz | 0i0i0i0.com |
 | rxxx.baijav.com | 0i0i0i0.com |
 | s.freeporncave.com | 0i0i0i0.com |
 | s.isoporno.com | 0i0i0i0.com |
@@ -618,8 +615,8 @@
 | slit.lewd.rip | 0i0i0i0.com |
 | smart.sunporno.com | 0i0i0i0.com |
 | solo.chinese-sex-tube.com | 0i0i0i0.com |
-| solutions.playernetca.top | 0i0i0i0.com |
 | sor.pornxok.com | 0i0i0i0.com |
+| spa.arabtoons.net | 0i0i0i0.com |
 | spyglass.reklamko.pro | 0i0i0i0.com |
 | srv1.bunnymediaserver.com | 0i0i0i0.com |
 | ssis.7mmtv.top | 0i0i0i0.com |
@@ -642,6 +639,7 @@
 | tacumi.xyz | 0i0i0i0.com |
 | tagbucks.xyz | 0i0i0i0.com |
 | tagun.xyz | 0i0i0i0.com |
+| tangpuax.xyz | 0i0i0i0.com |
 | tankiuz.xyz | 0i0i0i0.com |
 | tayrambo.lol | 0i0i0i0.com |
 | tb.turbocap.net | 0i0i0i0.com |
@@ -652,8 +650,6 @@
 | tiktakz.xyz | 0i0i0i0.com |
 | tlv.ui02.com | 0i0i0i0.com |
 | toabuck.xyz | 0i0i0i0.com |
-| toaioi.lol | 0i0i0i0.com |
-| toaioi.xyz | 0i0i0i0.com |
 | topsexmovs.com | 0i0i0i0.com |
 | topvidstore.com | 0i0i0i0.com |
 | touzia.xyz | 0i0i0i0.com |
@@ -666,6 +662,7 @@
 | tt.wl-cornholio.com | 0i0i0i0.com |
 | tyo.justthegays.com | 0i0i0i0.com |
 | u1zga.letsporn.com | 0i0i0i0.com |
+| uacabilqlgpw.cdnvideo3.com | 0i0i0i0.com |
 | ui.videojav.com | 0i0i0i0.com |
 | uk.boffinsoft.com | 0i0i0i0.com |
 | uotbzz.xyz | 0i0i0i0.com |
@@ -677,10 +674,6 @@
 | vjav.com.7mmtv.top | 0i0i0i0.com |
 | vjav.com.jav-7mmtv.top | 0i0i0i0.com |
 | vsx.hotpornfile.org | 0i0i0i0.com |
-| vtaos.lol | 0i0i0i0.com |
-| vtaos.xyz | 0i0i0i0.com |
-| vtaov.lol | 0i0i0i0.com |
-| vtaov.xyz | 0i0i0i0.com |
 | vuruzy.xyz | 0i0i0i0.com |
 | vuwjv7sjvg7.zedporn.com | 0i0i0i0.com |
 | vv.7vid.net | 0i0i0i0.com |

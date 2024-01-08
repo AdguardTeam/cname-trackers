@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -426,7 +426,6 @@ partak.surfey.cz CNAME .
 partener.aeriumshop.ro CNAME .
 partner-affilbox.telly.cz CNAME .
 partner.2din.cz CNAME .
-partner.adamkrupa.cz CNAME .
 partner.aerium.sk CNAME .
 partner.aeriumshop.nl CNAME .
 partner.affilbox.com CNAME .
@@ -571,6 +570,7 @@ partner.kurzysusmevem.cz CNAME .
 partner.kvcar.cz CNAME .
 partner.laab.cz CNAME .
 partner.lascero.cz CNAME .
+partner.lascivni.cz CNAME .
 partner.leadingtechnologies.cz CNAME .
 partner.legalni-konopi.cz CNAME .
 partner.lehatkapropsy.cz CNAME .
@@ -595,6 +595,7 @@ partner.metagram.sk CNAME .
 partner.mhsexshop.com CNAME .
 partner.milujifoceni.cz CNAME .
 partner.misinacokolada.cz CNAME .
+partner.mojeluha.cz CNAME .
 partner.mojetonery.sk CNAME .
 partner.mooda.cz CNAME .
 partner.mooselife.cz CNAME .
@@ -835,6 +836,7 @@ partneri.viadelicia.cz CNAME .
 partneri.vitaon.cz CNAME .
 partneri.volejbal.sk CNAME .
 partneri.volny-termin.cz CNAME .
+partneri.vseprobeh.cz CNAME .
 partneri.vyzvaproimunitu.cz CNAME .
 partneri.way4life.cz CNAME .
 partneri.webmeeting.cz CNAME .
@@ -842,7 +844,6 @@ partneri.webovac.sk CNAME .
 partneri.worldee.com CNAME .
 partneri.yoggspiration.cz CNAME .
 partneri.zaprovizi.cz CNAME .
-partneri.zdrave-sladkosti.sk CNAME .
 partneri.zdravy-zivotny-styl.sk CNAME .
 partneri.zdravykram.cz CNAME .
 partneri.zijchytre.cz CNAME .

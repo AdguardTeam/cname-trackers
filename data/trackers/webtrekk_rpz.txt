@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -158,6 +158,7 @@ img.foodspring.nl CNAME .
 img.foodspring.se CNAME .
 img.sparkasse-koelnbonn.de CNAME .
 info.deltapublishing.co.uk CNAME .
+info.genialklick.ch CNAME .
 info.klett-sprachen.de CNAME .
 intelligence.officialwesthamstore.com CNAME .
 is.lg.com CNAME .

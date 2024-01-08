@@ -415,7 +415,6 @@
 | tr.france.plimsoll.fr | tracking.bp01.net |
 | tr.french-tax-compliance-booking.com | tracking.bp01.net |
 | tr.futurecommerce.moethennessy.com | tracking.bp01.net |
-| tr.gdfsuez-globalenergy.info | tracking.bp01.net |
 | tr.gen.espmp-agfr.net | tracking.bp01.net |
 | tr.gestion.cafineo.fr | tracking.bp01.net |
 | tr.gestion.cetelem.fr | tracking.bp01.net |
@@ -597,6 +596,7 @@
 | tr.mail.koregraf.com | tracking.bp01.net |
 | tr.mail.mdbp.fr | tracking.bp01.net |
 | tr.mail.moncoupdepouce.com | tracking.bp01.net |
+| tr.mail.perial.info | tracking.bp01.net |
 | tr.mail.primevere.com | tracking.bp01.net |
 | tr.mail.satisfactory.fr | tracking.bp01.net |
 | tr.mail.solocal.com | tracking.bp01.net |
@@ -694,7 +694,6 @@
 | tr.news.alcyon.com | tracking.bp01.net |
 | tr.news.alibabuy.com | tracking.bp01.net |
 | tr.news.alinea.com | tracking.bp01.net |
-| tr.news.alinea.fr | tracking.bp01.net |
 | tr.news.allopneus.com | tracking.bp01.net |
 | tr.news.aramisauto.com | tracking.bp01.net |
 | tr.news.assuragency.net | tracking.bp01.net |
@@ -931,7 +930,6 @@
 | tr.offrevip.floa.fr | tracking.bp01.net |
 | tr.ojxm.espmp-aufr.net | tracking.bp01.net |
 | tr.openinnovation.lvmh.com | tracking.bp01.net |
-| tr.operations.butagaz.fr | tracking.bp01.net |
 | tr.orange-lease.fr | tracking.bp01.net |
 | tr.orcamento-online.pt | tracking.bp01.net |
 | tr.orcamentos-companeo.pt | tracking.bp01.net |

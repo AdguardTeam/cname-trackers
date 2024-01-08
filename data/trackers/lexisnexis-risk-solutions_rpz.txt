@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,7 @@ $TTL 300
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 af.mobile.free.fr CNAME .
+afs.wearemp.com CNAME .
 analytics.amrcollection.com CNAME .
 analytics.applevacations.com CNAME .
 analytics.beachbound.com CNAME .
@@ -668,6 +669,7 @@ qtbm.welendus.com CNAME .
 query.capitalontap.com CNAME .
 r.hokodo.co CNAME .
 r7s.scl.swisscom.ch CNAME .
+ranzg.agribank.co.nz CNAME .
 ranzg.agribank.com.au CNAME .
 ranzg.rabobank.co.nz CNAME .
 ranzg.rabobank.com.au CNAME .
@@ -757,6 +759,7 @@ solstice.ibotta.com CNAME .
 sptbb.pilates.com CNAME .
 src.ebay-us.com CNAME .
 src0.myvoffice.com CNAME .
+srv.squaretrade.com CNAME .
 ssafp.samsclub.com CNAME .
 st10.sofi.com CNAME .
 stat.bluorbank.lv CNAME .

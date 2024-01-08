@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,6 +140,7 @@ data-11c63b1cbc.mz.de CNAME .
 data-11c63b1cbc.sao.de CNAME .
 data-11eb4b2a24.deutsche-startups.de CNAME .
 data-1203b7acd3.mopo.de CNAME .
+data-120a6de7ee.apps.iocnt.de CNAME .
 data-1261bd4848.logistik-heute.de CNAME .
 data-12b92dc35b.wetter.de CNAME .
 data-12c31c7daf.das-onlinespiel.de CNAME .
@@ -373,6 +374,7 @@ data-2cee0cb9fa.apps.iocnt.de CNAME .
 data-2cfc77297e.tagesspiegel.de CNAME .
 data-2d5e2d4006.apps.iocnt.de CNAME .
 data-2d805a2d6c.leben-und-erziehen.de CNAME .
+data-2d86fd41e0.art-magazin.de CNAME .
 data-2d86fd41e0.business-punk.com CNAME .
 data-2d86fd41e0.geo.de CNAME .
 data-2d86fd41e0.stern.de CNAME .
@@ -798,6 +800,7 @@ data-5ca562c702.tt.com CNAME .
 data-5ce6ecf8d0.christkindlesmarkt.de CNAME .
 data-5ce6ecf8d0.nn.de CNAME .
 data-5ce6ecf8d0.nordbayern.de CNAME .
+data-5d1c5fc40e.apps.iocnt.de CNAME .
 data-5d2679d281.skysportaustria.at CNAME .
 data-5d4a957104.focus-arztsuche.de CNAME .
 data-5d621ddc78.buffed.de CNAME .
@@ -1012,6 +1015,7 @@ data-7294bdf136.chip.de CNAME .
 data-7294bdf136.focus.de CNAME .
 data-7352c83f4a.cosmopolitan.de CNAME .
 data-73b18cc776.radioherford.de CNAME .
+data-73b18cc776.radioherfordhilft.de CNAME .
 data-73e5a82398.plasticker.de CNAME .
 data-74131617db.achgut.com CNAME .
 data-7462ea72ec.augsburger-allgemeine.de CNAME .
@@ -1136,6 +1140,7 @@ data-8522662a32.ansbachplus.de CNAME .
 data-8522662a32.fraenkischer-weinfestkalender.de CNAME .
 data-8522662a32.main-ding.de CNAME .
 data-8522662a32.mainpost.de CNAME .
+data-8522662a32.swity.de CNAME .
 data-8522662a32.wuerzburgerleben.de CNAME .
 data-857b860637.wir-in-der-praxis.de CNAME .
 data-85ad330317.spielaffe.de CNAME .
@@ -1146,6 +1151,9 @@ data-861bbf2127.bz-berlin.de CNAME .
 data-861bbf2127.fitbook.de CNAME .
 data-861bbf2127.myhomebook.de CNAME .
 data-861bbf2127.petbook.de CNAME .
+data-861bbf2127.stylebook.de CNAME .
+data-861bbf2127.techbook.de CNAME .
+data-861bbf2127.travelbook.de CNAME .
 data-8629f7a423.4players.de CNAME .
 data-86943486de.laendleauto.at CNAME .
 data-86d2aee9fa.jetzt.de CNAME .
@@ -1336,6 +1344,7 @@ data-a01a8a1ba4.buerstaedter-zeitung.de CNAME .
 data-a01a8a1ba4.echo-online.de CNAME .
 data-a01a8a1ba4.fupa.net CNAME .
 data-a01a8a1ba4.hessen-liebe.de CNAME .
+data-a01a8a1ba4.hessentoday.de CNAME .
 data-a01a8a1ba4.lampertheimer-zeitung.de CNAME .
 data-a01a8a1ba4.lauterbacher-anzeiger.de CNAME .
 data-a01a8a1ba4.main-spitze.de CNAME .
@@ -1541,9 +1550,11 @@ data-b7d0b4217b.autoscout24.hr CNAME .
 data-b7d0b4217b.autoscout24.hu CNAME .
 data-b7d0b4217b.autoscout24.pl CNAME .
 data-b7d0b4217b.autoscout24.ro CNAME .
+data-b7d0b4217b.autoscout24.ru CNAME .
 data-b7d0b4217b.autoscout24.se CNAME .
 data-b7d20b3e3b.apps.iocnt.de CNAME .
 data-b7fc5261e7.spreeradio.de CNAME .
+data-b80f3dd5d8.rhein-neckar-zeitung.de CNAME .
 data-b80f3dd5d8.rhein-neckar-zeitung.net CNAME .
 data-b80f3dd5d8.rheinneckarzeitung.de CNAME .
 data-b80f3dd5d8.rnz.de CNAME .
@@ -1580,6 +1591,8 @@ data-bb21a2f11b.myhomebook.de CNAME .
 data-bb21a2f11b.petbook.de CNAME .
 data-bb21a2f11b.sportbild.de CNAME .
 data-bb21a2f11b.stylebook.de CNAME .
+data-bb21a2f11b.techbook.de CNAME .
+data-bb21a2f11b.travelbook.de CNAME .
 data-bb4ada6163.travelbook.de CNAME .
 data-bc153aec3e.nmdn.net CNAME .
 data-bc153aec3e.radioguetersloh.de CNAME .
@@ -1594,6 +1607,7 @@ data-bd417eda50.bibliothek-gruenwald.de CNAME .
 data-bd87db2679.haus.de CNAME .
 data-bdeff1b2b2.firmenauto.de CNAME .
 data-be032ee936.christkindlesmarkt.de CNAME .
+data-be032ee936.nanu.news CNAME .
 data-be032ee936.nn.de CNAME .
 data-be032ee936.nordbayern.de CNAME .
 data-be34c4ee2c.apps.iocnt.de CNAME .
@@ -1633,6 +1647,7 @@ data-c308939a15.food-service.de CNAME .
 data-c32add6b67.vital.de CNAME .
 data-c3391a3eb3.braunschweiger-zeitung.de CNAME .
 data-c3391a3eb3.harzkurier.de CNAME .
+data-c3391a3eb3.harztrauer.de CNAME .
 data-c3391a3eb3.immo38.de CNAME .
 data-c3391a3eb3.konzertkasse.de CNAME .
 data-c3391a3eb3.news38.de CNAME .
@@ -1704,6 +1719,7 @@ data-c76cebcfed.kino.de CNAME .
 data-c7a4161550.apps.iocnt.de CNAME .
 data-c7fa2f50f1.photovoltaik.eu CNAME .
 data-c835a62a97.runnersworld.de CNAME .
+data-c849cc593c.immobilien-zeitung.de CNAME .
 data-c849cc593c.iz.de CNAME .
 data-c854f15f64.eltern.de CNAME .
 data-c854f15f64.geo.de CNAME .
@@ -2130,6 +2146,7 @@ data-f59db3288b.meine-anzeigenzeitung.de CNAME .
 data-f59db3288b.merkur-online.de CNAME .
 data-f59db3288b.merkur.de CNAME .
 data-f59db3288b.nextg.tv CNAME .
+data-f59db3288b.oberhessische-zeitung.de CNAME .
 data-f59db3288b.oktoberfest.bayern CNAME .
 data-f59db3288b.op-online.de CNAME .
 data-f59db3288b.ovb-online.de CNAME .

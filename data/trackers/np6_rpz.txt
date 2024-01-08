@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -405,7 +405,6 @@ tr.fr.pro.accor.com CNAME .
 tr.france.plimsoll.fr CNAME .
 tr.french-tax-compliance-booking.com CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
-tr.gdfsuez-globalenergy.info CNAME .
 tr.gen.espmp-agfr.net CNAME .
 tr.gestion.cafineo.fr CNAME .
 tr.gestion.cetelem.fr CNAME .
@@ -587,6 +586,7 @@ tr.mail.hagerservices.fr CNAME .
 tr.mail.koregraf.com CNAME .
 tr.mail.mdbp.fr CNAME .
 tr.mail.moncoupdepouce.com CNAME .
+tr.mail.perial.info CNAME .
 tr.mail.primevere.com CNAME .
 tr.mail.satisfactory.fr CNAME .
 tr.mail.solocal.com CNAME .
@@ -684,7 +684,6 @@ tr.news.actu-man.com CNAME .
 tr.news.alcyon.com CNAME .
 tr.news.alibabuy.com CNAME .
 tr.news.alinea.com CNAME .
-tr.news.alinea.fr CNAME .
 tr.news.allopneus.com CNAME .
 tr.news.aramisauto.com CNAME .
 tr.news.assuragency.net CNAME .
@@ -921,7 +920,6 @@ tr.offresbtoc.engie.fr CNAME .
 tr.offrevip.floa.fr CNAME .
 tr.ojxm.espmp-aufr.net CNAME .
 tr.openinnovation.lvmh.com CNAME .
-tr.operations.butagaz.fr CNAME .
 tr.orange-lease.fr CNAME .
 tr.orcamento-online.pt CNAME .
 tr.orcamentos-companeo.pt CNAME .

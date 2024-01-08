@@ -5,6 +5,7 @@
 acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
 af.mobile.free.fr
+afs.wearemp.com
 analytics.amrcollection.com
 analytics.applevacations.com
 analytics.beachbound.com
@@ -657,6 +658,7 @@ qtbm.welendus.com
 query.capitalontap.com
 r.hokodo.co
 r7s.scl.swisscom.ch
+ranzg.agribank.co.nz
 ranzg.agribank.com.au
 ranzg.rabobank.co.nz
 ranzg.rabobank.com.au
@@ -746,6 +748,7 @@ solstice.ibotta.com
 sptbb.pilates.com
 src.ebay-us.com
 src0.myvoffice.com
+srv.squaretrade.com
 ssafp.samsclub.com
 st10.sofi.com
 stat.bluorbank.lv

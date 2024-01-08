@@ -14,6 +14,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| click-ext.anxa.com | k.keyade.com |
 | clk.ubi.com | k.keyade.com |
 | k.brandalley.be | k.keyade.com |
 | k.brandalley.co.nl | k.keyade.com |

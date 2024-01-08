@@ -415,7 +415,6 @@ partak.surfey.cz
 partener.aeriumshop.ro
 partner-affilbox.telly.cz
 partner.2din.cz
-partner.adamkrupa.cz
 partner.aerium.sk
 partner.aeriumshop.nl
 partner.affilbox.com
@@ -560,6 +559,7 @@ partner.kurzysusmevem.cz
 partner.kvcar.cz
 partner.laab.cz
 partner.lascero.cz
+partner.lascivni.cz
 partner.leadingtechnologies.cz
 partner.legalni-konopi.cz
 partner.lehatkapropsy.cz
@@ -584,6 +584,7 @@ partner.metagram.sk
 partner.mhsexshop.com
 partner.milujifoceni.cz
 partner.misinacokolada.cz
+partner.mojeluha.cz
 partner.mojetonery.sk
 partner.mooda.cz
 partner.mooselife.cz
@@ -824,6 +825,7 @@ partneri.viadelicia.cz
 partneri.vitaon.cz
 partneri.volejbal.sk
 partneri.volny-termin.cz
+partneri.vseprobeh.cz
 partneri.vyzvaproimunitu.cz
 partneri.way4life.cz
 partneri.webmeeting.cz
@@ -831,7 +833,6 @@ partneri.webovac.sk
 partneri.worldee.com
 partneri.yoggspiration.cz
 partneri.zaprovizi.cz
-partneri.zdrave-sladkosti.sk
 partneri.zdravy-zivotny-styl.sk
 partneri.zdravykram.cz
 partneri.zijchytre.cz

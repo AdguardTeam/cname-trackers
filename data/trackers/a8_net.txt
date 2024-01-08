@@ -235,6 +235,7 @@
 ||a8.onamae.com^
 ||a8.onecoinenglish.com^
 ||a8.ones-ones.jp^
+||a8.otoku-line.jp^
 ||a8.otonayaki.com^
 ||a8.outline-gym.com^
 ||a8.papapa.baby^
@@ -516,6 +517,7 @@
 ||a8clk.hags-ec.com^
 ||a8clk.hikakaku.com^
 ||a8clk.hikarinobe.com^
+||a8clk.hoken-hikaku.jpn.com^
 ||a8clk.hoken-minaoshi-lab.jp^
 ||a8clk.hokennews.jp^
 ||a8clk.hom.adebtt.info^
@@ -800,6 +802,7 @@
 ||a8cv.bizcomfort.jp^
 ||a8cv.bloomonline.jp^
 ||a8cv.bonaventura.shop^
+||a8cv.borderfree-official.com^
 ||a8cv.brandeuse.jp^
 ||a8cv.brandnet.info^
 ||a8cv.brassiere-shorts.jp^
@@ -1046,7 +1049,6 @@
 ||a8cv.minnano-eikaiwa.com^
 ||a8cv.mitaina.tokyo^
 ||a8cv.mobabiji.jp^
-||a8cv.modern-deco.jp^
 ||a8cv.modescape.com^
 ||a8cv.mogecheck.jp^
 ||a8cv.mokumokumarket.com^

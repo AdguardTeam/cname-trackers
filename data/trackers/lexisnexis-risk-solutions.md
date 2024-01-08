@@ -100,6 +100,7 @@
     * h-8em5ysu2.online-metrix.net
     * h-8gmrc4yu.online-metrix.net
     * h-8hqbv9ql.online-metrix.net
+    * h-8la63gsu.online-metrix.net
     * h-8m7u92ti.online-metrix.net
     * h-8ms1wsqq.online-metrix.net
     * h-8om29r2u-a.online-metrix.net
@@ -158,6 +159,7 @@
     * h-b3m5a8st.online-metrix.net
     * h-b3zpl92l.online-metrix.net
     * h-b4bq7y80.online-metrix.net
+    * h-b6te0xmf.online-metrix.net
     * h-badoo.online-metrix.net
     * h-bambu.online-metrix.net
     * h-ban3nmwg.online-metrix.net
@@ -873,6 +875,7 @@
 | dtrust.atratopago.com | h-8em5ysu2.online-metrix.net |
 | tools.workforcewv.org | h-8gmrc4yu.online-metrix.net |
 | online-security.unionbankph.com | h-8hqbv9ql.online-metrix.net |
+| afs.wearemp.com | h-8la63gsu.online-metrix.net |
 | ftd.quodxx.com.br | h-8m7u92ti.online-metrix.net |
 | tmuat.kotak.com | h-8ms1wsqq.online-metrix.net |
 | digitalidentity.compass.it | h-8om29r2u-a.online-metrix.net |
@@ -949,6 +952,7 @@
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
 | tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |
 | content.vi.gov | h-b4bq7y80.online-metrix.net |
+| srv.squaretrade.com | h-b6te0xmf.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
 | content.bank-abc.com | h-ban3nmwg.online-metrix.net |
@@ -1506,6 +1510,7 @@
 | content.quicken.com | h-quicken.online-metrix.net |
 | ranzg.rabobank.com.au | h-rabobank.online-metrix.net |
 | ranzg.rabobank.co.nz | h-rabobank2.online-metrix.net |
+| ranzg.agribank.co.nz | h-rabobankuat.online-metrix.net |
 | ranzg.agribank.com.au | h-rabobankuat.online-metrix.net |
 | www7.raise.com | h-raise.online-metrix.net |
 | channel.rakbankonline.ae | h-rakbankonline.online-metrix.net |

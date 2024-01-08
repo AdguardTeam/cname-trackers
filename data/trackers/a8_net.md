@@ -248,6 +248,7 @@
 | a8.onamae.com | trck.a8.net |
 | a8.onecoinenglish.com | trck.a8.net |
 | a8.ones-ones.jp | trck.a8.net |
+| a8.otoku-line.jp | trck.a8.net |
 | a8.otonayaki.com | trck.a8.net |
 | a8.outline-gym.com | trck.a8.net |
 | a8.papapa.baby | trck.a8.net |
@@ -528,6 +529,7 @@
 | a8clk.hags-ec.com | trck.a8.net |
 | a8clk.hikakaku.com | trck.a8.net |
 | a8clk.hikarinobe.com | trck.a8.net |
+| a8clk.hoken-hikaku.jpn.com | trck.a8.net |
 | a8clk.hoken-minaoshi-lab.jp | trck.a8.net |
 | a8clk.hokennews.jp | trck.a8.net |
 | a8clk.hom.adebtt.info | trck.a8.net |
@@ -812,6 +814,7 @@
 | a8cv.bizcomfort.jp | trck.a8.net |
 | a8cv.bloomonline.jp | trck.a8.net |
 | a8cv.bonaventura.shop | trck.a8.net |
+| a8cv.borderfree-official.com | trck.a8.net |
 | a8cv.brandeuse.jp | trck.a8.net |
 | a8cv.brandnet.info | trck.a8.net |
 | a8cv.brassiere-shorts.jp | trck.a8.net |
@@ -1058,7 +1061,6 @@
 | a8cv.minnano-eikaiwa.com | trck.a8.net |
 | a8cv.mitaina.tokyo | trck.a8.net |
 | a8cv.mobabiji.jp | trck.a8.net |
-| a8cv.modern-deco.jp | trck.a8.net |
 | a8cv.modescape.com | trck.a8.net |
 | a8cv.mogecheck.jp | trck.a8.net |
 | a8cv.mokumokumarket.com | trck.a8.net |

@@ -78,6 +78,7 @@
     * 310695274957699.wt-eu02.net
     * 312310057961150.wt-eu02.net
     * 318590743478915.wt-eu02.net
+    * 324225834397336.wt-eu02.net
     * 329712103760415.wt-eu02.net
     * 339874301969258.wt-eu02.net
     * 350258498646185.wt-eu02.net
@@ -288,6 +289,7 @@
 | web.mapp.whiteaway.no | 310695274957699.wt-eu02.net |
 | web.mail.parmalat.it | 312310057961150.wt-eu02.net |
 | web.mailing.storz-bickel.com | 318590743478915.wt-eu02.net |
+| info.genialklick.ch | 324225834397336.wt-eu02.net |
 | data.campaign.prenatal.com | 329712103760415.wt-eu02.net |
 | web.email.superga.co.uk | 339874301969258.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |

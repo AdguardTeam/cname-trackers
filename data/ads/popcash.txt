@@ -5,6 +5,7 @@
 ||cdn.afwpc.com^
 ||cdn.agajx.com^
 ||cdn.alcatza.com^
+||cdn.aliwjo.com^
 ||cdn.almacz.com^
 ||cdn.alota.xyz^
 ||cdn.asce.xyz^
@@ -27,6 +28,7 @@
 ||cdn.crsope.com^
 ||cdn.cryjun.com^
 ||cdn.decpo.xyz^
+||cdn.delutza.com^
 ||cdn.drawx.xyz^
 ||cdn.eecd.xyz^
 ||cdn.eeco.xyz^
@@ -42,6 +44,7 @@
 ||cdn.gecl.xyz^
 ||cdn.gelhp.com^
 ||cdn.genfpm.com^
+||cdn.gitajwl.com^
 ||cdn.gocolow.com^
 ||cdn.gpcrn.com^
 ||cdn.hhjow.com^
@@ -57,6 +60,7 @@
 ||cdn.jeckear.com^
 ||cdn.jhkfd.com^
 ||cdn.jhoncj.com^
+||cdn.jitanvlw.com^
 ||cdn.jklpy.com^
 ||cdn.jwalf.com^
 ||cdn.karpatzi.com^
@@ -67,6 +71,7 @@
 ||cdn.masbpi.com^
 ||cdn.miluwo.com^
 ||cdn.mnhjk.com^
+||cdn.mnhjkl.com^
 ||cdn.mtinsqq.com^
 ||cdn.namol.xyz^
 ||cdn.nelhon.com^
@@ -80,6 +85,7 @@
 ||cdn.orjfun.com^
 ||cdn.ovqds.com^
 ||cdn.pctv.xyz^
+||cdn.pfiuyt.com^
 ||cdn.piuyt.com^
 ||cdn.pllah.com^
 ||cdn.plmwsl.com^
@@ -96,6 +102,7 @@
 ||cdn.roemoss.com^
 ||cdn.rofant.com^
 ||cdn.rqwel.com^
+||cdn.rtyufo.com^
 ||cdn.sblhp.com^
 ||cdn.shakre.com^
 ||cdn.spnut.com^
@@ -105,6 +112,8 @@
 ||cdn.timsef.com^
 ||cdn.tsepyk.com^
 ||cdn.tzaho.com^
+||cdn.ugopkl.com^
+||cdn.uiopkl.com^
 ||cdn.ulesxbo.com^
 ||cdn.vcxzp.com^
 ||cdn.viowrel.com^
@@ -217,6 +226,7 @@
 ||bee.andreawhitmer.com^
 ||bee.jbkmobiledj.com^
 ||bee.nfte.app^
+||beetle.enlacepermanente.es^
 ||bird.brondby.com^
 ||bird.recruitkit.com.au^
 ||bird.webitizevoice.com^
@@ -428,6 +438,7 @@
 ||earthworm.elenabirkenwald.com^
 ||earthworm.lidi.today^
 ||earthworm.makethemdebate.com^
+||earthworm.mxdvl.com^
 ||earthworm.robbevanpetegem.be^
 ||earwig.architecturesofhiding.com^
 ||echidna.eyalgantz.me^
@@ -436,6 +447,7 @@
 ||eel.aware7.de^
 ||eel.beekeeperstudio.io^
 ||eel.cuabuilders.com^
+||eel.ieo.do^
 ||eel.tunspress.com^
 ||egret.brothers.studio^
 ||elephant.superdense.com^
@@ -450,7 +462,6 @@
 ||emu.pin13.net^
 ||eu.fathomdns.com^
 ||eu.usefathom.com^
-||falcon.aniftyco.com^
 ||falcon.backgroundnoise.app^
 ||falcon.designed.org^
 ||falcon.executeprogram.com^
@@ -516,6 +527,7 @@
 ||goat.studiobruikbaar.nl^
 ||goat.vrds.app^
 ||goldfish.boleary.dev^
+||goldfish.clickand.de^
 ||goldfish.shingle.fi^
 ||goldfish.untitledspreadsheet.com^
 ||goose.accountsjs.com^
@@ -986,7 +998,6 @@
 ||squirrel.cividi.ch^
 ||squirrel.cobaltconnect.com^
 ||squirrel.laravel-mix.com^
-||starfish.centronoa.com^
 ||starfish.taskflow.io^
 ||starman-new.fathomdns.com^
 ||starman.fathomdns.com^
@@ -1057,6 +1068,7 @@
 ||trout.openfpl.com^
 ||trout.travelmassive.com^
 ||trout.unicornplatform.com^
+||tuna.ajaymantri.com^
 ||tuna.peterfarms.com^
 ||turkey.codeness.io^
 ||turkey.docsy.cloud^
@@ -1129,7 +1141,6 @@
 ||worm.discover-culture.com^
 ||worm.usephantom.com^
 ||www.stork.notlessbutbetter.com^
-||yak.animeawards.guide^
 ||yak.auclantis.com^
 ||yak.flutterblog.net^
 ||yak.gregsullivan.com^

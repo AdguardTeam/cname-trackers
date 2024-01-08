@@ -42,6 +42,7 @@
     * 1a549c8f-lxybwclf.cname.ebis.ne.jp
     * 1c11b00c-sz3ynfbf.cname.ebis.ne.jp
     * 1c49adf8-5jfswxpe.cname.ebis.ne.jp
+    * 1c49adf8-dsen3b5f.cname.ebis.ne.jp
     * 1c49adf8-eth6amyu.cname.ebis.ne.jp
     * 1c99a9c7-dsen3b5f.cname.ebis.ne.jp
     * 1d120bac-wlvncyr6.cname.ebis.ne.jp
@@ -352,6 +353,7 @@
 | ade.deskstyle.info | 1a549c8f-lxybwclf.cname.ebis.ne.jp |
 | ebis.mucuna.co.jp | 1c11b00c-sz3ynfbf.cname.ebis.ne.jp |
 | ac-ebis-stb.usen.com | 1c49adf8-5jfswxpe.cname.ebis.ne.jp |
+| ac-ebis-otrk.usen.com | 1c49adf8-dsen3b5f.cname.ebis.ne.jp |
 | ac-ebis-uhome.usen.com | 1c49adf8-eth6amyu.cname.ebis.ne.jp |
 | ac-ebis.otoraku.jp | 1c99a9c7-dsen3b5f.cname.ebis.ne.jp |
 | adebis.tspot.co.jp | 1d120bac-wlvncyr6.cname.ebis.ne.jp |

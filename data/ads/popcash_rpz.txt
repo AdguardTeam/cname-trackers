@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704096017654        ; Serial
+           1704700819842        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,7 @@ cdn.adevppl.com CNAME .
 cdn.afwpc.com CNAME .
 cdn.agajx.com CNAME .
 cdn.alcatza.com CNAME .
+cdn.aliwjo.com CNAME .
 cdn.almacz.com CNAME .
 cdn.alota.xyz CNAME .
 cdn.asce.xyz CNAME .
@@ -38,6 +39,7 @@ cdn.clbaf.com CNAME .
 cdn.crsope.com CNAME .
 cdn.cryjun.com CNAME .
 cdn.decpo.xyz CNAME .
+cdn.delutza.com CNAME .
 cdn.drawx.xyz CNAME .
 cdn.eecd.xyz CNAME .
 cdn.eeco.xyz CNAME .
@@ -53,6 +55,7 @@ cdn.ftwpcn.com CNAME .
 cdn.gecl.xyz CNAME .
 cdn.gelhp.com CNAME .
 cdn.genfpm.com CNAME .
+cdn.gitajwl.com CNAME .
 cdn.gocolow.com CNAME .
 cdn.gpcrn.com CNAME .
 cdn.hhjow.com CNAME .
@@ -68,6 +71,7 @@ cdn.jbtul.com CNAME .
 cdn.jeckear.com CNAME .
 cdn.jhkfd.com CNAME .
 cdn.jhoncj.com CNAME .
+cdn.jitanvlw.com CNAME .
 cdn.jklpy.com CNAME .
 cdn.jwalf.com CNAME .
 cdn.karpatzi.com CNAME .
@@ -78,6 +82,7 @@ cdn.mafyak.com CNAME .
 cdn.masbpi.com CNAME .
 cdn.miluwo.com CNAME .
 cdn.mnhjk.com CNAME .
+cdn.mnhjkl.com CNAME .
 cdn.mtinsqq.com CNAME .
 cdn.namol.xyz CNAME .
 cdn.nelhon.com CNAME .
@@ -91,6 +96,7 @@ cdn.olep.xyz CNAME .
 cdn.orjfun.com CNAME .
 cdn.ovqds.com CNAME .
 cdn.pctv.xyz CNAME .
+cdn.pfiuyt.com CNAME .
 cdn.piuyt.com CNAME .
 cdn.pllah.com CNAME .
 cdn.plmwsl.com CNAME .
@@ -107,6 +113,7 @@ cdn.rgrd.xyz CNAME .
 cdn.roemoss.com CNAME .
 cdn.rofant.com CNAME .
 cdn.rqwel.com CNAME .
+cdn.rtyufo.com CNAME .
 cdn.sblhp.com CNAME .
 cdn.shakre.com CNAME .
 cdn.spnut.com CNAME .
@@ -116,6 +123,8 @@ cdn.syinga.com CNAME .
 cdn.timsef.com CNAME .
 cdn.tsepyk.com CNAME .
 cdn.tzaho.com CNAME .
+cdn.ugopkl.com CNAME .
+cdn.uiopkl.com CNAME .
 cdn.ulesxbo.com CNAME .
 cdn.vcxzp.com CNAME .
 cdn.viowrel.com CNAME .
@@ -228,6 +237,7 @@ bedbug.bragi.com CNAME .
 bee.andreawhitmer.com CNAME .
 bee.jbkmobiledj.com CNAME .
 bee.nfte.app CNAME .
+beetle.enlacepermanente.es CNAME .
 bird.brondby.com CNAME .
 bird.recruitkit.com.au CNAME .
 bird.webitizevoice.com CNAME .
@@ -439,6 +449,7 @@ earthworm.creatifmediagroup.com CNAME .
 earthworm.elenabirkenwald.com CNAME .
 earthworm.lidi.today CNAME .
 earthworm.makethemdebate.com CNAME .
+earthworm.mxdvl.com CNAME .
 earthworm.robbevanpetegem.be CNAME .
 earwig.architecturesofhiding.com CNAME .
 echidna.eyalgantz.me CNAME .
@@ -447,6 +458,7 @@ echidna.honeybadger.io CNAME .
 eel.aware7.de CNAME .
 eel.beekeeperstudio.io CNAME .
 eel.cuabuilders.com CNAME .
+eel.ieo.do CNAME .
 eel.tunspress.com CNAME .
 egret.brothers.studio CNAME .
 elephant.superdense.com CNAME .
@@ -461,7 +473,6 @@ emu.motala.no CNAME .
 emu.pin13.net CNAME .
 eu.fathomdns.com CNAME .
 eu.usefathom.com CNAME .
-falcon.aniftyco.com CNAME .
 falcon.backgroundnoise.app CNAME .
 falcon.designed.org CNAME .
 falcon.executeprogram.com CNAME .
@@ -527,6 +538,7 @@ goat.sigr.li CNAME .
 goat.studiobruikbaar.nl CNAME .
 goat.vrds.app CNAME .
 goldfish.boleary.dev CNAME .
+goldfish.clickand.de CNAME .
 goldfish.shingle.fi CNAME .
 goldfish.untitledspreadsheet.com CNAME .
 goose.accountsjs.com CNAME .
@@ -997,7 +1009,6 @@ squid.antevo.com.au CNAME .
 squirrel.cividi.ch CNAME .
 squirrel.cobaltconnect.com CNAME .
 squirrel.laravel-mix.com CNAME .
-starfish.centronoa.com CNAME .
 starfish.taskflow.io CNAME .
 starman-new.fathomdns.com CNAME .
 starman.fathomdns.com CNAME .
@@ -1068,6 +1079,7 @@ trout.batzo.net CNAME .
 trout.openfpl.com CNAME .
 trout.travelmassive.com CNAME .
 trout.unicornplatform.com CNAME .
+tuna.ajaymantri.com CNAME .
 tuna.peterfarms.com CNAME .
 turkey.codeness.io CNAME .
 turkey.docsy.cloud CNAME .
@@ -1140,7 +1152,6 @@ woodpecker.seabits.com CNAME .
 worm.discover-culture.com CNAME .
 worm.usephantom.com CNAME .
 www.stork.notlessbutbetter.com CNAME .
-yak.animeawards.guide CNAME .
 yak.auclantis.com CNAME .
 yak.flutterblog.net CNAME .
 yak.gregsullivan.com CNAME .
