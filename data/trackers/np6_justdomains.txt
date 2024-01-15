@@ -70,6 +70,7 @@ tr.asp10a7.espmp-aufr.net
 tr.asp10ai.espmp-nifr.net
 tr.asp10ap.espmp-nifr.net
 tr.asp10ar.espmp-cufr.net
+tr.asp10bq.espmp-nifr.net
 tr.asp10bs.espmp-aufr.net
 tr.asp10c8.espmp-agfr.net
 tr.asp10cc.espmp-nifr.net
@@ -192,7 +193,6 @@ tr.clients.compagnie-hyperactive.com
 tr.clients.europrogres.fr
 tr.clients.gemy.fr
 tr.clients.idaia.group
-tr.clients.yellow-agence-internet.com
 tr.cnaf.espmp-nifr.net
 tr.cogedim.espmp-agfr.net
 tr.collectif.groupe-vyv.fr
@@ -827,6 +827,7 @@ tr.news6.cdiscount.com
 tr.newsletter-habitat.com
 tr.newsletter-stressless.com
 tr.newsletter-wonderbox.com
+tr.newsletter.10h01.fr
 tr.newsletter.1664france.fr
 tr.newsletter.1oag.com
 tr.newsletter.actalians.fr
@@ -1023,6 +1024,7 @@ tr.toner-services.fr
 tr.tonerservices.fr
 tr.tourisme.visit-lanarbonnaise.com
 tr.tpe.harmonie-mutuelle.fr
+tr.tr.bricodepot.com
 tr.trafficnews.lyria.com
 tr.ujsv.espmp-agfr.net
 tr.uk.icicibank.com
@@ -1048,6 +1050,7 @@ tr.urfk052.espmp-cufr.net
 tr.urfk057.espmp-aufr.net
 tr.urfk05g.espmp-agfr.net
 tr.urfk05l.espmp-nifr.net
+tr.urfk05o.espmp-pofr.net
 tr.urfk06h.espmp-nifr.net
 tr.urfk06n.espmp-nifr.net
 tr.urfk06o.espmp-agfr.net

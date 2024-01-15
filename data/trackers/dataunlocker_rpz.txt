@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704700819842        ; Serial
+           1705305616287        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -71,6 +71,7 @@ din1j0su0u99.artwallstreet.io CNAME .
 dlziqh9bo7.boring.fm CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
+evhme0j57hqj.www.siteai.chat CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
 f3ft699cloae.staging.artwallstreet.io CNAME .
 fkupm8697t19.eyevolution.de CNAME .
@@ -79,7 +80,6 @@ fyznhp8inq9x.jaywilsonwebsolutions.com CNAME .
 gl5g98t0vfjb.panprices.com CNAME .
 gvmomuqjv1.swyftx.com CNAME .
 hht8m6w8mnug.quine.sh CNAME .
-i0e6asb0fj5y.www.emanualonline.com CNAME .
 ilkk97e98lvg.www.sidsplumbing.ie CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
@@ -108,7 +108,6 @@ qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 rbat6ac0zzjd.www.terraform.com.ar CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
-sfqp4hi357f6.www.emanualonline.com CNAME .
 soahu1wnmt6l.www.replai.io CNAME .
 sr59t7wbx5.claricelin.com CNAME .
 swaljol72dgv.controlconceptsusa.com CNAME .

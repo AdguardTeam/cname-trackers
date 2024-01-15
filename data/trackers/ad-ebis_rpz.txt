@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704700819842        ; Serial
+           1705305616287        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -275,7 +275,6 @@ ebisfracora.fracora.com CNAME .
 ebisstore.tamagokichi.com CNAME .
 ebistoppan1.kyowahakko-bio-campaign-1.com CNAME .
 emc.dr-stick.shop CNAME .
-frontierconsul02.tsunagaru-office.com CNAME .
 greenjapan-cname.green-japan.com CNAME .
 hokkaidobank.rapi.jp CNAME .
 isebis.takamiclinic.or.jp CNAME .

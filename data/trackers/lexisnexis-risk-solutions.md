@@ -536,6 +536,7 @@
     * h-ow85iiu0.online-metrix.net
     * h-paddypower.online-metrix.net
     * h-pampers.online-metrix.net
+    * h-parcelmonkey.online-metrix.net
     * h-pat-td.online-metrix.net
     * h-payby.online-metrix.net
     * h-paysafe.online-metrix.net
@@ -1449,6 +1450,7 @@
 | content.online.adp.com | h-ow85iiu0.online-metrix.net |
 | regstat.paddypower.com | h-paddypower.online-metrix.net |
 | tmx.pampersrewards.com | h-pampers.online-metrix.net |
+| page1.parcelmonkey.com | h-parcelmonkey.online-metrix.net |
 | tmx.pat.td.com | h-pat-td.online-metrix.net |
 | rm-3d84e791.payby.com | h-payby.online-metrix.net |
 | tms.paysafe.com | h-paysafe.online-metrix.net |

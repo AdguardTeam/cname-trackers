@@ -181,6 +181,7 @@
 | as.lencdn.com | 0i0i0i0.com |
 | as.lenkino.adult | 0i0i0i0.com |
 | as.pomcdn.com | 0i0i0i0.com |
+| as1.maturexxx.vip | 0i0i0i0.com |
 | ascc.javquick.com | 0i0i0i0.com |
 | asdf.eldos.xyz | 0i0i0i0.com |
 | asg.allweb.click | 0i0i0i0.com |
@@ -210,15 +211,14 @@
 | asg1.xueserverhost.com | 0i0i0i0.com |
 | asg2.xueserverhost.com | 0i0i0i0.com |
 | asianporn.xyz.7mmtv.top | 0i0i0i0.com |
-| asianporn.xyz.jav-7mmtv.top | 0i0i0i0.com |
 | asn.banginterracial.com | 0i0i0i0.com |
 | asp.reputate.org | 0i0i0i0.com |
 | assets.taghtia.com | 0i0i0i0.com |
-| av5.mofoshd.org | 0i0i0i0.com |
 | avgle.com.7mmtv.top | 0i0i0i0.com |
 | avgle.com.jav-7mmtv.top | 0i0i0i0.com |
 | awrfds3.pornpapa.com | 0i0i0i0.com |
 | ax4.xmoviesland.com | 0i0i0i0.com |
+| b.012024jhvjhkozekl.space | 0i0i0i0.com |
 | b.bengytone.com | 0i0i0i0.com |
 | b.bloblohub.com | 0i0i0i0.com |
 | b.comihon.com | 0i0i0i0.com |
@@ -337,7 +337,6 @@
 | game.starswalker.site | 0i0i0i0.com |
 | getallt1.com | 0i0i0i0.com |
 | gg.xszcdn.com | 0i0i0i0.com |
-| ggg2fd.jav-7mmtv.top | 0i0i0i0.com |
 | ghtry.amateurswild.com | 0i0i0i0.com |
 | glokta.info | 0i0i0i0.com |
 | go.ss-n-30.com | 0i0i0i0.com |
@@ -363,7 +362,6 @@
 | hx1.tubepornbase.com | 0i0i0i0.com |
 | i.anime22.net | 0i0i0i0.com |
 | i.bloblohub.com | 0i0i0i0.com |
-| i.hqvrporn.net | 0i0i0i0.com |
 | i.theglobepost.us | 0i0i0i0.com |
 | iduq.com | 0i0i0i0.com |
 | ignore.hot-bbw-tube.com | 0i0i0i0.com |
@@ -382,7 +380,6 @@
 | jav.guru.jav-7mmtv.top | 0i0i0i0.com |
 | javfinder.sb.7mmtv.top | 0i0i0i0.com |
 | javfinder.sb.jav-7mmtv.top | 0i0i0i0.com |
-| javgiga.com.7mmtv.top | 0i0i0i0.com |
 | javgiga.com.jav-7mmtv.top | 0i0i0i0.com |
 | javguru.gggsss.site | 0i0i0i0.com |
 | javmost.cx.7mmtv.top | 0i0i0i0.com |
@@ -412,7 +409,6 @@
 | kfioeld.spinna.shop | 0i0i0i0.com |
 | khoilive.xyz | 0i0i0i0.com |
 | kissjav.li.7mmtv.top | 0i0i0i0.com |
-| kissjav.li.jav-7mmtv.top | 0i0i0i0.com |
 | kliqz.com | 0i0i0i0.com |
 | ko.faptor.com | 0i0i0i0.com |
 | ko.starwank.com | 0i0i0i0.com |
@@ -458,7 +454,6 @@
 | metabuz.xyz | 0i0i0i0.com |
 | meyd.7mmtv.top | 0i0i0i0.com |
 | mgbkt9eckr.xn--mgbkt9eckr.net | 0i0i0i0.com |
-| mide.7mmtv.top | 0i0i0i0.com |
 | mopeia.xyz | 0i0i0i0.com |
 | moster.granny-xxx-video.com | 0i0i0i0.com |
 | mraozo.xyz | 0i0i0i0.com |
@@ -522,6 +517,7 @@
 | outya.xyz | 0i0i0i0.com |
 | ox8.topsexhdvideos.com | 0i0i0i0.com |
 | ozoj.com | 0i0i0i0.com |
+| p.012024jhvjhkozekl.space | 0i0i0i0.com |
 | p.dfsnghhjhhhk.site | 0i0i0i0.com |
 | p.hgfdtujlknhkghf.site | 0i0i0i0.com |
 | p.strjuylfrjyk.site | 0i0i0i0.com |
@@ -545,7 +541,6 @@
 | pornvideos.casa | 0i0i0i0.com |
 | possibily.com | 0i0i0i0.com |
 | powe.asian-xxx-videos.com | 0i0i0i0.com |
-| pppe.7mmtv.top | 0i0i0i0.com |
 | pqaz.xyz | 0i0i0i0.com |
 | pre.03porno.com | 0i0i0i0.com |
 | pre.102porno.club | 0i0i0i0.com |
@@ -556,6 +551,7 @@
 | pre.pornuxaxa.com | 0i0i0i0.com |
 | pred.7mmtv.top | 0i0i0i0.com |
 | puzzio.xyz | 0i0i0i0.com |
+| puzzoa.xyz | 0i0i0i0.com |
 | px9.nuderedtube.com | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
 | qoutec.shop | 0i0i0i0.com |
@@ -643,7 +639,6 @@
 | tankiuz.xyz | 0i0i0i0.com |
 | tayrambo.lol | 0i0i0i0.com |
 | tb.turbocap.net | 0i0i0i0.com |
-| tech.moostream.top | 0i0i0i0.com |
 | test2.maxx.ddac.ru | 0i0i0i0.com |
 | testcommon.soundrussian.com | 0i0i0i0.com |
 | thaz.xyz | 0i0i0i0.com |
@@ -670,6 +665,7 @@
 | uthbxvz.bestzba.com | 0i0i0i0.com |
 | v.vidghjlgkuyfk.site | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
+| vid.prettytube.net | 0i0i0i0.com |
 | vivuple.xyz | 0i0i0i0.com |
 | vjav.com.7mmtv.top | 0i0i0i0.com |
 | vjav.com.jav-7mmtv.top | 0i0i0i0.com |
@@ -730,16 +726,15 @@
 | xxx.sdtraff.com | 0i0i0i0.com |
 | xxxddd.baijav.com | 0i0i0i0.com |
 | xxxlove.rooski.net | 0i0i0i0.com |
-| yhu5tw3mn64.jav-7mmtv.top | 0i0i0i0.com |
 | you75.youpornsexvideos.com | 0i0i0i0.com |
 | z0000g.yvmads.com | 0i0i0i0.com |
 | zdhq.xyz | 0i0i0i0.com |
 | zhaner.xyz | 0i0i0i0.com |
+| zinipx.xyz | 0i0i0i0.com |
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
 | zzzzaaa.baijav.com | 0i0i0i0.com |
 | analik.icu | 548260.parkingcrew.net |
-| forads.pro | 548260.parkingcrew.net |
 | hitfuck.icu | 548260.parkingcrew.net |
 | xzillla.icu | 548260.parkingcrew.net |
 | ad.desibp.com | api.clickaine.com |

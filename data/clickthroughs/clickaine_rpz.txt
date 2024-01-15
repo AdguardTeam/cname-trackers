@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704700819842        ; Serial
+           1705305616287        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -70,7 +70,6 @@ cdn1.xvideohub.top CNAME .
 cdn2.picyield.com CNAME .
 ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .
-cli.its2.net CNAME .
 click.freepopnews.skin CNAME .
 clickc4n.pornharlot.com CNAME .
 clk.slutcam.org CNAME .

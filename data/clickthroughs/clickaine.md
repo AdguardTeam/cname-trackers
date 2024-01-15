@@ -67,7 +67,6 @@
 | cdn2.picyield.com | api.clickaine.com |
 | ck.zzipps.com | api.clickaine.com |
 | cl.sexstories-all.com | api.clickaine.com |
-| cli.its2.net | api.clickaine.com |
 | click.freepopnews.skin | api.clickaine.com |
 | clickc4n.pornharlot.com | api.clickaine.com |
 | clk.slutcam.org | api.clickaine.com |

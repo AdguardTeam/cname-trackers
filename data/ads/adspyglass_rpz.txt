@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704700819842        ; Serial
+           1705305616287        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -178,6 +178,7 @@ as.hobby.porn CNAME .
 as.lencdn.com CNAME .
 as.lenkino.adult CNAME .
 as.pomcdn.com CNAME .
+as1.maturexxx.vip CNAME .
 ascc.javquick.com CNAME .
 asdf.eldos.xyz CNAME .
 asg.allweb.click CNAME .
@@ -207,15 +208,14 @@ asg.zzipps.com CNAME .
 asg1.xueserverhost.com CNAME .
 asg2.xueserverhost.com CNAME .
 asianporn.xyz.7mmtv.top CNAME .
-asianporn.xyz.jav-7mmtv.top CNAME .
 asn.banginterracial.com CNAME .
 asp.reputate.org CNAME .
 assets.taghtia.com CNAME .
-av5.mofoshd.org CNAME .
 avgle.com.7mmtv.top CNAME .
 avgle.com.jav-7mmtv.top CNAME .
 awrfds3.pornpapa.com CNAME .
 ax4.xmoviesland.com CNAME .
+b.012024jhvjhkozekl.space CNAME .
 b.bengytone.com CNAME .
 b.bloblohub.com CNAME .
 b.comihon.com CNAME .
@@ -334,7 +334,6 @@ g6j.cupidonmedia.com CNAME .
 game.starswalker.site CNAME .
 getallt1.com CNAME .
 gg.xszcdn.com CNAME .
-ggg2fd.jav-7mmtv.top CNAME .
 ghtry.amateurswild.com CNAME .
 glokta.info CNAME .
 go.showmeyouradsnow.com CNAME .
@@ -362,7 +361,6 @@ hutanz.xyz CNAME .
 hx1.tubepornbase.com CNAME .
 i.anime22.net CNAME .
 i.bloblohub.com CNAME .
-i.hqvrporn.net CNAME .
 i.theglobepost.us CNAME .
 iduq.com CNAME .
 ignore.hot-bbw-tube.com CNAME .
@@ -381,7 +379,6 @@ jav.guru.7mmtv.top CNAME .
 jav.guru.jav-7mmtv.top CNAME .
 javfinder.sb.7mmtv.top CNAME .
 javfinder.sb.jav-7mmtv.top CNAME .
-javgiga.com.7mmtv.top CNAME .
 javgiga.com.jav-7mmtv.top CNAME .
 javguru.gggsss.site CNAME .
 javmost.cx.7mmtv.top CNAME .
@@ -411,7 +408,6 @@ key.sexymovie.name CNAME .
 kfioeld.spinna.shop CNAME .
 khoilive.xyz CNAME .
 kissjav.li.7mmtv.top CNAME .
-kissjav.li.jav-7mmtv.top CNAME .
 kliqz.com CNAME .
 ko.faptor.com CNAME .
 ko.starwank.com CNAME .
@@ -458,7 +454,6 @@ meoem.lol CNAME .
 metabuz.xyz CNAME .
 meyd.7mmtv.top CNAME .
 mgbkt9eckr.xn--mgbkt9eckr.net CNAME .
-mide.7mmtv.top CNAME .
 mopeia.xyz CNAME .
 moster.granny-xxx-video.com CNAME .
 mraozo.xyz CNAME .
@@ -522,6 +517,7 @@ orznp.spinna.store CNAME .
 outya.xyz CNAME .
 ox8.topsexhdvideos.com CNAME .
 ozoj.com CNAME .
+p.012024jhvjhkozekl.space CNAME .
 p.dfsnghhjhhhk.site CNAME .
 p.hgfdtujlknhkghf.site CNAME .
 p.strjuylfrjyk.site CNAME .
@@ -546,7 +542,6 @@ pornve.sexyadsrun.com CNAME .
 pornvideos.casa CNAME .
 possibily.com CNAME .
 powe.asian-xxx-videos.com CNAME .
-pppe.7mmtv.top CNAME .
 pqaz.xyz CNAME .
 pre.03porno.com CNAME .
 pre.102porno.club CNAME .
@@ -557,6 +552,7 @@ pre.myfuck.club CNAME .
 pre.pornuxaxa.com CNAME .
 pred.7mmtv.top CNAME .
 puzzio.xyz CNAME .
+puzzoa.xyz CNAME .
 px9.nuderedtube.com CNAME .
 qhip.com CNAME .
 qoutec.shop CNAME .
@@ -644,7 +640,6 @@ tangpuax.xyz CNAME .
 tankiuz.xyz CNAME .
 tayrambo.lol CNAME .
 tb.turbocap.net CNAME .
-tech.moostream.top CNAME .
 test2.maxx.ddac.ru CNAME .
 testcommon.soundrussian.com CNAME .
 thaz.xyz CNAME .
@@ -671,6 +666,7 @@ upinu.xyz CNAME .
 uthbxvz.bestzba.com CNAME .
 v.vidghjlgkuyfk.site CNAME .
 vd.7vid.net CNAME .
+vid.prettytube.net CNAME .
 vivuple.xyz CNAME .
 vjav.com.7mmtv.top CNAME .
 vjav.com.jav-7mmtv.top CNAME .
@@ -732,16 +728,15 @@ xx7.7mmtv.top CNAME .
 xxx.sdtraff.com CNAME .
 xxxddd.baijav.com CNAME .
 xxxlove.rooski.net CNAME .
-yhu5tw3mn64.jav-7mmtv.top CNAME .
 you75.youpornsexvideos.com CNAME .
 z0000g.yvmads.com CNAME .
 zdhq.xyz CNAME .
 zhaner.xyz CNAME .
+zinipx.xyz CNAME .
 zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 zzzzaaa.baijav.com CNAME .
 ad.desibp.com CNAME .
 analik.icu CNAME .
-forads.pro CNAME .
 hitfuck.icu CNAME .
 xzillla.icu CNAME .

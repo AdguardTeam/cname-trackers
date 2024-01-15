@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704700819842        ; Serial
+           1705305616287        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -242,6 +242,7 @@ refer.evite.com CNAME .
 refer.fahw.com CNAME .
 refer.firstaidbeauty.com CNAME .
 refer.firsttechfed.com CNAME .
+refer.forgetrust.com CNAME .
 refer.frontgate.com CNAME .
 refer.g2.com CNAME .
 refer.gapcanada.ca CNAME .
@@ -379,6 +380,7 @@ refer.swansonvitamins.com CNAME .
 refer.take5oilchange.com CNAME .
 refer.tatcha.co.uk CNAME .
 refer.tatcha.com CNAME .
+refer.tax1099.com CNAME .
 refer.taxact.com CNAME .
 refer.teladoc.com CNAME .
 refer.teladochealth.com CNAME .

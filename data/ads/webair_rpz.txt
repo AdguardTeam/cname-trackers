@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704700819842        ; Serial
+           1705305616287        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -702,9 +702,9 @@ static.adright.com CNAME .
 static.fstsrv1.com CNAME .
 static.fstsrv2.com CNAME .
 static.fstsrv3.com CNAME .
-static.fstsrv4.com CNAME .
 static.fstsrv5.com CNAME .
 static.fstsrv6.com CNAME .
+static.fstsrv7.com CNAME .
 static.openrtb.in CNAME .
 static.qksrv.cc CNAME .
 static.qksrv1.com CNAME .
@@ -802,6 +802,7 @@ xml-eu-v4.frdjs-1.co CNAME .
 xml-eu-v4.frdjs-2.co CNAME .
 xml-eu-v4.fstsrv5.com CNAME .
 xml-eu-v4.fstsrv6.com CNAME .
+xml-eu-v4.fstsrv7.com CNAME .
 xml-eu-v4.hawkads.in CNAME .
 xml-eu-v4.nxthost-1.info CNAME .
 xml-eu-v4.nxthost-2.info CNAME .
@@ -887,6 +888,7 @@ xml-v4.fstsrv3.com CNAME .
 xml-v4.fstsrv4.com CNAME .
 xml-v4.fstsrv5.com CNAME .
 xml-v4.fstsrv6.com CNAME .
+xml-v4.fstsrv7.com CNAME .
 xml-v4.hetcash.com CNAME .
 xml-v4.kunvertads.com CNAME .
 xml-v4.mobifly.net CNAME .
@@ -927,7 +929,6 @@ xml.admeridianads.com CNAME .
 xml.admidainsight.com CNAME .
 xml.admozartppc.com CNAME .
 xml.admozartxml.com CNAME .
-xml.adnation.co.in CNAME .
 xml.adokutcontextual.com CNAME .
 xml.adop.co CNAME .
 xml.adoperatorx.com CNAME .
@@ -1009,6 +1010,7 @@ xml.fstsrv3.com CNAME .
 xml.fstsrv4.com CNAME .
 xml.fstsrv5.com CNAME .
 xml.fstsrv6.com CNAME .
+xml.fstsrv7.com CNAME .
 xml.groovyadz.com CNAME .
 xml.hangfly.net CNAME .
 xml.hetcash.com CNAME .
@@ -1115,4 +1117,5 @@ xmlv4-eu.mobuppsrtb.com CNAME .
 xmlv4.chameleostudios.com CNAME .
 xmlv4.mobuppsrtb.com CNAME .
 xmlv4.reklama.network CNAME .
+static.fstsrv4.com CNAME .
 static.rtb-serve.com CNAME .

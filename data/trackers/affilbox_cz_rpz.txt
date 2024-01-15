@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704700819842        ; Serial
+           1705305616287        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -286,6 +286,7 @@ affilpartneri.affilbusiness.cz CNAME .
 afill.e-potisk.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassador.notsofunnyany.com CNAME .
+ambassadors.childhoodpotential.com CNAME .
 benefit.genyprozivot.cz CNAME .
 box.cryptokingdom.tech CNAME .
 box.kryptotrejder.sk CNAME .
@@ -452,6 +453,7 @@ partner.bilynabytek.cz CNAME .
 partner.bio-nechty.sk CNAME .
 partner.bio-nehty.cz CNAME .
 partner.bioaromakosmetika.cz CNAME .
+partner.bohemiaclean.eu CNAME .
 partner.bontonck.cz CNAME .
 partner.bonyplus.cz CNAME .
 partner.booktook.cz CNAME .
@@ -603,6 +605,7 @@ partner.moringacaribbean.eu CNAME .
 partner.motoobchod.cz CNAME .
 partner.muffik.cz CNAME .
 partner.muffik.eu CNAME .
+partner.mumijo.cz CNAME .
 partner.muzskykruh.cz CNAME .
 partner.nanolab.cz CNAME .
 partner.naplne.cz CNAME .
@@ -765,6 +768,7 @@ partneri.jazykyodpiky.cz CNAME .
 partneri.keramika-dum.cz CNAME .
 partneri.kerasek.cz CNAME .
 partneri.kimgroup.cz CNAME .
+partneri.konverzacniklub.cz CNAME .
 partneri.kuptorazdva.cz CNAME .
 partneri.legalni-konopi.cz CNAME .
 partneri.levne-barvy-laky.cz CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704700819842        ; Serial
+           1705305616287        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -185,7 +185,6 @@ ea.vente-unique.be CNAME .
 ea.vente-unique.ch CNAME .
 ea.vente-unique.com CNAME .
 ea.vente-unique.lu CNAME .
-ea.ventealapropriete.com CNAME .
 ea.vivus.es CNAME .
 ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
@@ -338,7 +337,6 @@ nmo1.orpi.com CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
-nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
 oae6.carrefour-banque.fr CNAME .
@@ -440,7 +438,6 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
-t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .
@@ -528,5 +525,7 @@ eat9.thebeat925.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
+t0y.toyota.ca CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
+nym5c.laura.ca CNAME .

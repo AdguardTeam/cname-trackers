@@ -231,7 +231,6 @@
 | carp.spotonevent.no | deprecated-custom-domains.b-cdn.net |
 | cat.acesandaros.org | deprecated-custom-domains.b-cdn.net |
 | cat.beunitedinchrist.com | deprecated-custom-domains.b-cdn.net |
-| cat.chainotate.com | deprecated-custom-domains.b-cdn.net |
 | cat.gfx.io | deprecated-custom-domains.b-cdn.net |
 | cat.laravel-news.com | deprecated-custom-domains.b-cdn.net |
 | cat.mattr.global | deprecated-custom-domains.b-cdn.net |
@@ -368,7 +367,6 @@
 | dragon.codemakes.art | deprecated-custom-domains.b-cdn.net |
 | dragon.codequeen.io | deprecated-custom-domains.b-cdn.net |
 | dragon.sh2.com | deprecated-custom-domains.b-cdn.net |
-| dragonfly.codebar.ch | deprecated-custom-domains.b-cdn.net |
 | dragonfly.filmmakerfreedom.com | deprecated-custom-domains.b-cdn.net |
 | dragonfly.jala-one.com | deprecated-custom-domains.b-cdn.net |
 | eagle.roarfilm.com.au | deprecated-custom-domains.b-cdn.net |
@@ -438,7 +436,6 @@
 | fowl.saulhardman.com | deprecated-custom-domains.b-cdn.net |
 | fox.domainr.com | deprecated-custom-domains.b-cdn.net |
 | fox.visionaudiovisual.com | deprecated-custom-domains.b-cdn.net |
-| frog.jamesbliss.com | deprecated-custom-domains.b-cdn.net |
 | gamefowl.emailforward.mx | deprecated-custom-domains.b-cdn.net |
 | gamefowl.karlsutt.com | deprecated-custom-domains.b-cdn.net |
 | gamefowl.nonprofit.foundation | deprecated-custom-domains.b-cdn.net |
@@ -680,7 +677,6 @@
 | meadowlark.psynapse.no | deprecated-custom-domains.b-cdn.net |
 | meerkat.bigcrazylife.com | deprecated-custom-domains.b-cdn.net |
 | meerkat.inprivy.io | deprecated-custom-domains.b-cdn.net |
-| meerkat.nilsmielke.me | deprecated-custom-domains.b-cdn.net |
 | mink.faq-bregenzerwald.com | deprecated-custom-domains.b-cdn.net |
 | minnow.clintwinter.me | deprecated-custom-domains.b-cdn.net |
 | minnow.mimosaagency.com | deprecated-custom-domains.b-cdn.net |
@@ -1055,7 +1051,6 @@
 | whippet.miniforetak.no | deprecated-custom-domains.b-cdn.net |
 | whitefish.antonopoulos-stores.gr | deprecated-custom-domains.b-cdn.net |
 | whitefish.autharmor.com | deprecated-custom-domains.b-cdn.net |
-| whitefish.finanzritter.com | deprecated-custom-domains.b-cdn.net |
 | whitefish.kenku.fm | deprecated-custom-domains.b-cdn.net |
 | wildcat.fspy.io | deprecated-custom-domains.b-cdn.net |
 | wildcat.vivritiamc.com | deprecated-custom-domains.b-cdn.net |
@@ -1112,11 +1107,13 @@
 | cdn.clbaf.com | popcashjs.b-cdn.net |
 | cdn.crsope.com | popcashjs.b-cdn.net |
 | cdn.cryjun.com | popcashjs.b-cdn.net |
+| cdn.dawplm.com | popcashjs.b-cdn.net |
 | cdn.decpo.xyz | popcashjs.b-cdn.net |
 | cdn.delutza.com | popcashjs.b-cdn.net |
 | cdn.drawx.xyz | popcashjs.b-cdn.net |
 | cdn.eecd.xyz | popcashjs.b-cdn.net |
 | cdn.eeco.xyz | popcashjs.b-cdn.net |
+| cdn.elicaowl.com | popcashjs.b-cdn.net |
 | cdn.fajukc.com | popcashjs.b-cdn.net |
 | cdn.falkwo.com | popcashjs.b-cdn.net |
 | cdn.faspox.com | popcashjs.b-cdn.net |
@@ -1182,6 +1179,7 @@
 | cdn.qgerr.com | popcashjs.b-cdn.net |
 | cdn.quagfa.com | popcashjs.b-cdn.net |
 | cdn.rapolok.com | popcashjs.b-cdn.net |
+| cdn.rausfml.com | popcashjs.b-cdn.net |
 | cdn.rawqel.com | popcashjs.b-cdn.net |
 | cdn.rgrd.xyz | popcashjs.b-cdn.net |
 | cdn.roemoss.com | popcashjs.b-cdn.net |
@@ -1201,12 +1199,15 @@
 | cdn.uiopkl.com | popcashjs.b-cdn.net |
 | cdn.ulesxbo.com | popcashjs.b-cdn.net |
 | cdn.vcxzp.com | popcashjs.b-cdn.net |
+| cdn.verwh.com | popcashjs.b-cdn.net |
 | cdn.viowrel.com | popcashjs.b-cdn.net |
 | cdn.vonkol.com | popcashjs.b-cdn.net |
 | cdn.wwfx.xyz | popcashjs.b-cdn.net |
 | cdn.xbcpcn.com | popcashjs.b-cdn.net |
+| cdn.xipteq.com | popcashjs.b-cdn.net |
 | cdn.xwqea.com | popcashjs.b-cdn.net |
 | cdn.ytihp.com | popcashjs.b-cdn.net |
+| cdn.zikpwr.com | popcashjs.b-cdn.net |
 | cdn.zkcvb.com | popcashjs.b-cdn.net |
 | cdn.zxclan.com | popcashjs.b-cdn.net |
 | cdn.shrtfly.vip | popupads.b-cdn.net |

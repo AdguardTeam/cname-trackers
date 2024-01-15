@@ -91,6 +91,7 @@
 | tr.asp10ai.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ap.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ar.espmp-cufr.net | tracking.bp01.net |
+| tr.asp10bq.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10bs.espmp-aufr.net | tracking.bp01.net |
 | tr.asp10c8.espmp-agfr.net | tracking.bp01.net |
 | tr.asp10cc.espmp-nifr.net | tracking.bp01.net |
@@ -213,7 +214,6 @@
 | tr.clients.europrogres.fr | tracking.bp01.net |
 | tr.clients.gemy.fr | tracking.bp01.net |
 | tr.clients.idaia.group | tracking.bp01.net |
-| tr.clients.yellow-agence-internet.com | tracking.bp01.net |
 | tr.cnaf.espmp-nifr.net | tracking.bp01.net |
 | tr.cogedim.espmp-agfr.net | tracking.bp01.net |
 | tr.collectif.groupe-vyv.fr | tracking.bp01.net |
@@ -848,6 +848,7 @@
 | tr.newsletter-habitat.com | tracking.bp01.net |
 | tr.newsletter-stressless.com | tracking.bp01.net |
 | tr.newsletter-wonderbox.com | tracking.bp01.net |
+| tr.newsletter.10h01.fr | tracking.bp01.net |
 | tr.newsletter.1664france.fr | tracking.bp01.net |
 | tr.newsletter.1oag.com | tracking.bp01.net |
 | tr.newsletter.actalians.fr | tracking.bp01.net |
@@ -1044,6 +1045,7 @@
 | tr.tonerservices.fr | tracking.bp01.net |
 | tr.tourisme.visit-lanarbonnaise.com | tracking.bp01.net |
 | tr.tpe.harmonie-mutuelle.fr | tracking.bp01.net |
+| tr.tr.bricodepot.com | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |
 | tr.ujsv.espmp-agfr.net | tracking.bp01.net |
 | tr.uk.icicibank.com | tracking.bp01.net |
@@ -1069,6 +1071,7 @@
 | tr.urfk057.espmp-aufr.net | tracking.bp01.net |
 | tr.urfk05g.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk05l.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk05o.espmp-pofr.net | tracking.bp01.net |
 | tr.urfk06h.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk06n.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk06o.espmp-agfr.net | tracking.bp01.net |

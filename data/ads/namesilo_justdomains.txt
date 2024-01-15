@@ -653,6 +653,7 @@
 3715633.notifysrv.com
 3717105.notify6.com
 3717105.notifysrv.com
+3719901.notify6.com
 3724345.notify6.com
 3724345.notifysrv.com
 3727723.notifysrv.com
@@ -727,6 +728,7 @@
 3917506.notify6.com
 3917534.notify6.com
 3917542.notify6.com
+3919748.notify6.com
 3920998.notify6.com
 3921002.notify6.com
 3935380.notify6.com
@@ -829,6 +831,7 @@
 4153216.notify6.com
 4160048.notify6.com
 4160112.notify6.com
+4162032.notify6.com
 4162254.notify6.com
 4162256.notify6.com
 4173044.notify6.com
@@ -848,6 +851,7 @@
 4213112.notify6.com
 4214522.notify6.com
 4225290.notify6.com
+4231372.notify6.com
 4231374.notify6.com
 4241052.notify6.com
 4243868.notify6.com
@@ -946,8 +950,10 @@
 4902880.notify6.com
 4917212.notify6.com
 4960922.notify6.com
+4983200.notify6.com
 5085594.notify6.com
 5111734.notify6.com
+5114166.notify6.com
 5132062.notify6.com
 535.notify.optimizesrv.com
 5602.notify.optimizesrv.com
@@ -987,7 +993,6 @@ a.paradoxgroup.uk
 a.r8lnet.com
 a.redpathmedia.com
 a.rocoads.net
-a.santabrowser.com
 a.slice.exchange
 a.stuffserve.com
 admin.ad.guru
@@ -997,9 +1002,11 @@ admin.etology.com
 admin.exoclick.com
 admin.gettopple.com
 admin.shafttraffic.com
+admin.trafficfactory.com
 api.adnation.com
 api.getblaze.app
 api.slice.exchange
+api.trafficfactory.com
 click.advertrek.com
 delivery.gettopple.com
 engine.gettopple.com
@@ -1008,6 +1015,7 @@ main.exdynsrv.com
 main.exoclick.com
 main.exosrv.com
 main.realsrv.com
+main.trafficfactory.com
 main0.exosrv.com
 management-addisplaynetwork.exads.com
 management-adguru.exads.com
@@ -1022,6 +1030,7 @@ management.adxnow.com
 rtb.ad.guru
 rtb.advertrek.com
 rtb.exoclick.com
+rtb.trafficfactory.com
 s.a3ion.com
 s.ad.guru
 s.adnflow.com
@@ -1057,6 +1066,7 @@ s.elnr15.com
 s.elns4a.com
 s.elns4c.com
 s.etology.com
+s.eunow4u.com
 s.exv6.com
 s.linkw2e.com
 s.linkw2g.com
@@ -1136,3 +1146,4 @@ www.4389756.notify6.com
 www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
+a.santabrowser.com

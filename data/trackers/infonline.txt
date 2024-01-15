@@ -252,7 +252,6 @@
 ||data-1c0a3d83e3.transfermarkt.co.kr^
 ||data-1c0a3d83e3.transfermarkt.co.uk^
 ||data-1c0a3d83e3.transfermarkt.co.za^
-||data-1c0a3d83e3.transfermarkt.com^
 ||data-1c0a3d83e3.transfermarkt.com.ar^
 ||data-1c0a3d83e3.transfermarkt.com.br^
 ||data-1c0a3d83e3.transfermarkt.com.tr^
@@ -571,7 +570,6 @@
 ||data-47ee1b0882.dn.das-lumen.de^
 ||data-47ee1b0882.do-li.de^
 ||data-47ee1b0882.einbecker-kinos.de^
-||data-47ee1b0882.film-palast-schwanewede.de^
 ||data-47ee1b0882.filmcenter-dillingen.de^
 ||data-47ee1b0882.filmforum.de^
 ||data-47ee1b0882.filmpalast-sulingen.de^
@@ -860,6 +858,7 @@
 ||data-626887dee6.890rtl.de^
 ||data-62688b6a00.apps.iocnt.de^
 ||data-62bafeaa07.6rtl.com^
+||data-62e4650bcc.apps.iocnt.de^
 ||data-62e8b40b12.apps.iocnt.de^
 ||data-62e93c650b.entdeckertag.de^
 ||data-62e93c650b.hannover.de^
@@ -978,6 +977,7 @@
 ||data-6f4f333803.apps.iocnt.de^
 ||data-6fd9590058.apps.iocnt.de^
 ||data-7023b17a38.amberg24.de^
+||data-7023b17a38.oberpfalz-pages.de^
 ||data-7023b17a38.onetz.de^
 ||data-7023b17a38.weiden24.de^
 ||data-706868203b.partytimer.at^
@@ -998,6 +998,7 @@
 ||data-718a2dc909.tageblatt.de^
 ||data-7198dfe960.meduniwien.ac.at^
 ||data-71ad7acf77.apps.iocnt.de^
+||data-71fb59387e.apps.iocnt.de^
 ||data-723489657f.ndz.de^
 ||data-7294bdf136.cardscout.de^
 ||data-7294bdf136.chip.de^
@@ -1104,7 +1105,6 @@
 ||data-84a0f3455d.transfermarkt.co.kr^
 ||data-84a0f3455d.transfermarkt.co.uk^
 ||data-84a0f3455d.transfermarkt.co.za^
-||data-84a0f3455d.transfermarkt.com^
 ||data-84a0f3455d.transfermarkt.com.ar^
 ||data-84a0f3455d.transfermarkt.com.br^
 ||data-84a0f3455d.transfermarkt.com.tr^
@@ -1297,6 +1297,7 @@
 ||data-9b7927207a.outdoor-magazin.com^
 ||data-9bc4e9c585.deraktionaer.tv^
 ||data-9c12ed8b3c.echtemamas.de^
+||data-9c9d7ad92f.mein-jobmarkt.de^
 ||data-9c9d7ad92f.neckar-chronik.de^
 ||data-9c9d7ad92f.tagblatt-anzeiger.de^
 ||data-9c9d7ad92f.tagblatt.de^
@@ -2127,6 +2128,7 @@
 ||data-f59db3288b.kreiszeitung.de^
 ||data-f59db3288b.kurierverlag.de^
 ||data-f59db3288b.landtiere.de^
+||data-f59db3288b.lauterbacher-anzeiger.de^
 ||data-f59db3288b.leinetal24.de^
 ||data-f59db3288b.ludwigshafen24.de^
 ||data-f59db3288b.mangfall24.de^

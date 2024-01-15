@@ -691,9 +691,9 @@
 ||static.fstsrv1.com^
 ||static.fstsrv2.com^
 ||static.fstsrv3.com^
-||static.fstsrv4.com^
 ||static.fstsrv5.com^
 ||static.fstsrv6.com^
+||static.fstsrv7.com^
 ||static.openrtb.in^
 ||static.qksrv.cc^
 ||static.qksrv1.com^
@@ -791,6 +791,7 @@
 ||xml-eu-v4.frdjs-2.co^
 ||xml-eu-v4.fstsrv5.com^
 ||xml-eu-v4.fstsrv6.com^
+||xml-eu-v4.fstsrv7.com^
 ||xml-eu-v4.hawkads.in^
 ||xml-eu-v4.nxthost-1.info^
 ||xml-eu-v4.nxthost-2.info^
@@ -876,6 +877,7 @@
 ||xml-v4.fstsrv4.com^
 ||xml-v4.fstsrv5.com^
 ||xml-v4.fstsrv6.com^
+||xml-v4.fstsrv7.com^
 ||xml-v4.hetcash.com^
 ||xml-v4.kunvertads.com^
 ||xml-v4.mobifly.net^
@@ -916,7 +918,6 @@
 ||xml.admidainsight.com^
 ||xml.admozartppc.com^
 ||xml.admozartxml.com^
-||xml.adnation.co.in^
 ||xml.adokutcontextual.com^
 ||xml.adop.co^
 ||xml.adoperatorx.com^
@@ -998,6 +999,7 @@
 ||xml.fstsrv4.com^
 ||xml.fstsrv5.com^
 ||xml.fstsrv6.com^
+||xml.fstsrv7.com^
 ||xml.groovyadz.com^
 ||xml.hangfly.net^
 ||xml.hetcash.com^
@@ -1104,4 +1106,5 @@
 ||xmlv4.chameleostudios.com^
 ||xmlv4.mobuppsrtb.com^
 ||xmlv4.reklama.network^
+||static.fstsrv4.com^
 ||static.rtb-serve.com^

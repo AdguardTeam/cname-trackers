@@ -27,11 +27,13 @@ cdn.cjlph.com
 cdn.clbaf.com
 cdn.crsope.com
 cdn.cryjun.com
+cdn.dawplm.com
 cdn.decpo.xyz
 cdn.delutza.com
 cdn.drawx.xyz
 cdn.eecd.xyz
 cdn.eeco.xyz
+cdn.elicaowl.com
 cdn.fajukc.com
 cdn.falkwo.com
 cdn.faspox.com
@@ -97,6 +99,7 @@ cdn.puysis.com
 cdn.qgerr.com
 cdn.quagfa.com
 cdn.rapolok.com
+cdn.rausfml.com
 cdn.rawqel.com
 cdn.rgrd.xyz
 cdn.roemoss.com
@@ -116,12 +119,15 @@ cdn.ugopkl.com
 cdn.uiopkl.com
 cdn.ulesxbo.com
 cdn.vcxzp.com
+cdn.verwh.com
 cdn.viowrel.com
 cdn.vonkol.com
 cdn.wwfx.xyz
 cdn.xbcpcn.com
+cdn.xipteq.com
 cdn.xwqea.com
 cdn.ytihp.com
+cdn.zikpwr.com
 cdn.zkcvb.com
 cdn.zxclan.com
 4ke5b4ila.codedge.de
@@ -293,7 +299,6 @@ carp.pbncontent.com
 carp.spotonevent.no
 cat.acesandaros.org
 cat.beunitedinchrist.com
-cat.chainotate.com
 cat.gfx.io
 cat.laravel-news.com
 cat.mattr.global
@@ -430,7 +435,6 @@ dove.hoku.nz
 dragon.codemakes.art
 dragon.codequeen.io
 dragon.sh2.com
-dragonfly.codebar.ch
 dragonfly.filmmakerfreedom.com
 dragonfly.jala-one.com
 eagle.roarfilm.com.au
@@ -500,7 +504,6 @@ flyingfish.whoisrepresented.org
 fowl.saulhardman.com
 fox.domainr.com
 fox.visionaudiovisual.com
-frog.jamesbliss.com
 gamefowl.emailforward.mx
 gamefowl.karlsutt.com
 gamefowl.nonprofit.foundation
@@ -742,7 +745,6 @@ meadowlark.hownow.guide
 meadowlark.psynapse.no
 meerkat.bigcrazylife.com
 meerkat.inprivy.io
-meerkat.nilsmielke.me
 mink.faq-bregenzerwald.com
 minnow.clintwinter.me
 minnow.mimosaagency.com
@@ -1117,7 +1119,6 @@ whippet.madebywil.co
 whippet.miniforetak.no
 whitefish.antonopoulos-stores.gr
 whitefish.autharmor.com
-whitefish.finanzritter.com
 whitefish.kenku.fm
 wildcat.fspy.io
 wildcat.vivritiamc.com

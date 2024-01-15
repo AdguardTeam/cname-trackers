@@ -43,6 +43,7 @@
 | rtb.ad.guru | ka8ing2z.ab1n.net |
 | rtb.advertrek.com | ka8ing2z.ab1n.net |
 | rtb.exoclick.com | ka8ing2z.ab1n.net |
+| rtb.trafficfactory.com | ka8ing2z.ab1n.net |
 | 10.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | 1109.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 12.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
@@ -695,6 +696,7 @@
 | 3715633.notifysrv.com | tk6if76q.ab1n.net |
 | 3717105.notify6.com | tk6if76q.ab1n.net |
 | 3717105.notifysrv.com | tk6if76q.ab1n.net |
+| 3719901.notify6.com | tk6if76q.ab1n.net |
 | 3724345.notify6.com | tk6if76q.ab1n.net |
 | 3724345.notifysrv.com | tk6if76q.ab1n.net |
 | 3727723.notifysrv.com | tk6if76q.ab1n.net |
@@ -769,6 +771,7 @@
 | 3917506.notify6.com | tk6if76q.ab1n.net |
 | 3917534.notify6.com | tk6if76q.ab1n.net |
 | 3917542.notify6.com | tk6if76q.ab1n.net |
+| 3919748.notify6.com | tk6if76q.ab1n.net |
 | 3920998.notify6.com | tk6if76q.ab1n.net |
 | 3921002.notify6.com | tk6if76q.ab1n.net |
 | 3935380.notify6.com | tk6if76q.ab1n.net |
@@ -871,6 +874,7 @@
 | 4153216.notify6.com | tk6if76q.ab1n.net |
 | 4160048.notify6.com | tk6if76q.ab1n.net |
 | 4160112.notify6.com | tk6if76q.ab1n.net |
+| 4162032.notify6.com | tk6if76q.ab1n.net |
 | 4162254.notify6.com | tk6if76q.ab1n.net |
 | 4162256.notify6.com | tk6if76q.ab1n.net |
 | 4173044.notify6.com | tk6if76q.ab1n.net |
@@ -890,6 +894,7 @@
 | 4213112.notify6.com | tk6if76q.ab1n.net |
 | 4214522.notify6.com | tk6if76q.ab1n.net |
 | 4225290.notify6.com | tk6if76q.ab1n.net |
+| 4231372.notify6.com | tk6if76q.ab1n.net |
 | 4231374.notify6.com | tk6if76q.ab1n.net |
 | 4241052.notify6.com | tk6if76q.ab1n.net |
 | 4243868.notify6.com | tk6if76q.ab1n.net |
@@ -988,8 +993,10 @@
 | 4902880.notify6.com | tk6if76q.ab1n.net |
 | 4917212.notify6.com | tk6if76q.ab1n.net |
 | 4960922.notify6.com | tk6if76q.ab1n.net |
+| 4983200.notify6.com | tk6if76q.ab1n.net |
 | 5085594.notify6.com | tk6if76q.ab1n.net |
 | 5111734.notify6.com | tk6if76q.ab1n.net |
+| 5114166.notify6.com | tk6if76q.ab1n.net |
 | 5132062.notify6.com | tk6if76q.ab1n.net |
 | 535.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 5602.notify.optimizesrv.com | tk6if76q.ab1n.net |
@@ -1056,6 +1063,7 @@
 | s.elns4a.com | tk6if76q.ab1n.net |
 | s.elns4c.com | tk6if76q.ab1n.net |
 | s.etology.com | tk6if76q.ab1n.net |
+| s.eunow4u.com | tk6if76q.ab1n.net |
 | s.linkw2e.com | tk6if76q.ab1n.net |
 | s.linkw2g.com | tk6if76q.ab1n.net |
 | s.ma3ion.com | tk6if76q.ab1n.net |
@@ -1137,9 +1145,9 @@
 | admin.ad.guru | v3j9t5q9.ab1n.net |
 | admin.adnation.com | v3j9t5q9.ab1n.net |
 | admin.adstuff.io | v3j9t5q9.ab1n.net |
-| admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
 | admin.shafttraffic.com | v3j9t5q9.ab1n.net |
+| admin.trafficfactory.com | v3j9t5q9.ab1n.net |
 | a.a3ion.com | w2u4v9e1.ab1n.net |
 | a.ad.guru | w2u4v9e1.ab1n.net |
 | a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
@@ -1155,7 +1163,6 @@
 | a.r8lnet.com | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |
 | a.rocoads.net | w2u4v9e1.ab1n.net |
-| a.santabrowser.com | w2u4v9e1.ab1n.net |
 | a.slice.exchange | w2u4v9e1.ab1n.net |
 | a.stuffserve.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
@@ -1165,15 +1172,17 @@
 | admin.adstuff.io | x0xmrxm4.ab1n.net |
 | admin.adstuff.io | x0xmrxm4.ab1n.net |
 | admin.etology.com | x0xmrxm4.ab1n.net |
-| admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.exoclick.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
+| admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | api.adnation.com | x0xmrxm4.ab1n.net |
 | api.getblaze.app | x0xmrxm4.ab1n.net |
 | api.slice.exchange | x0xmrxm4.ab1n.net |
+| api.trafficfactory.com | x0xmrxm4.ab1n.net |
+| main.trafficfactory.com | x0xmrxm4.ab1n.net |
 | management-addisplaynetwork.exads.com | x0xmrxm4.ab1n.net |
 | management-adguru.exads.com | x0xmrxm4.ab1n.net |
 | management-adwirk.exads.com | x0xmrxm4.ab1n.net |

@@ -550,7 +550,6 @@
 ||stats.fs4c.org^
 ||stats.fundimmo.com^
 ||stats.fungus.computer^
-||stats.fwdkit.com^
 ||stats.galeb.org^
 ||stats.galleriacortona.com^
 ||stats.gbc.uk^
@@ -820,7 +819,6 @@
 ||stats.rocketvalidator.com^
 ||stats.roderickduenas.com^
 ||stats.ruhrfestspiele.de^
-||stats.rushilperera.me^
 ||stats.rymawby.com^
 ||stats.s-zt.at^
 ||stats.sakurasky.com^

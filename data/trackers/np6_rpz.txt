@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704700819842        ; Serial
+           1705305616287        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -81,6 +81,7 @@ tr.asp10a7.espmp-aufr.net CNAME .
 tr.asp10ai.espmp-nifr.net CNAME .
 tr.asp10ap.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
+tr.asp10bq.espmp-nifr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
 tr.asp10c8.espmp-agfr.net CNAME .
 tr.asp10cc.espmp-nifr.net CNAME .
@@ -203,7 +204,6 @@ tr.clients.compagnie-hyperactive.com CNAME .
 tr.clients.europrogres.fr CNAME .
 tr.clients.gemy.fr CNAME .
 tr.clients.idaia.group CNAME .
-tr.clients.yellow-agence-internet.com CNAME .
 tr.cnaf.espmp-nifr.net CNAME .
 tr.cogedim.espmp-agfr.net CNAME .
 tr.collectif.groupe-vyv.fr CNAME .
@@ -838,6 +838,7 @@ tr.news6.cdiscount.com CNAME .
 tr.newsletter-habitat.com CNAME .
 tr.newsletter-stressless.com CNAME .
 tr.newsletter-wonderbox.com CNAME .
+tr.newsletter.10h01.fr CNAME .
 tr.newsletter.1664france.fr CNAME .
 tr.newsletter.1oag.com CNAME .
 tr.newsletter.actalians.fr CNAME .
@@ -1034,6 +1035,7 @@ tr.toner-services.fr CNAME .
 tr.tonerservices.fr CNAME .
 tr.tourisme.visit-lanarbonnaise.com CNAME .
 tr.tpe.harmonie-mutuelle.fr CNAME .
+tr.tr.bricodepot.com CNAME .
 tr.trafficnews.lyria.com CNAME .
 tr.ujsv.espmp-agfr.net CNAME .
 tr.uk.icicibank.com CNAME .
@@ -1059,6 +1061,7 @@ tr.urfk052.espmp-cufr.net CNAME .
 tr.urfk057.espmp-aufr.net CNAME .
 tr.urfk05g.espmp-agfr.net CNAME .
 tr.urfk05l.espmp-nifr.net CNAME .
+tr.urfk05o.espmp-pofr.net CNAME .
 tr.urfk06h.espmp-nifr.net CNAME .
 tr.urfk06n.espmp-nifr.net CNAME .
 tr.urfk06o.espmp-agfr.net CNAME .

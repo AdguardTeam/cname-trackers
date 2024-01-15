@@ -562,7 +562,6 @@
 | stats.fs4c.org | custom.plausible.io |
 | stats.fundimmo.com | custom.plausible.io |
 | stats.fungus.computer | custom.plausible.io |
-| stats.fwdkit.com | custom.plausible.io |
 | stats.galeb.org | custom.plausible.io |
 | stats.galleriacortona.com | custom.plausible.io |
 | stats.gbc.uk | custom.plausible.io |
@@ -832,7 +831,6 @@
 | stats.rocketvalidator.com | custom.plausible.io |
 | stats.roderickduenas.com | custom.plausible.io |
 | stats.ruhrfestspiele.de | custom.plausible.io |
-| stats.rushilperera.me | custom.plausible.io |
 | stats.rymawby.com | custom.plausible.io |
 | stats.s-zt.at | custom.plausible.io |
 | stats.sakurasky.com | custom.plausible.io |

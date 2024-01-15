@@ -280,7 +280,6 @@
     * de8331b9-pmffblvq.cname.ebis.ne.jp
     * de8820de-fgpe2gow.cname.ebis.ne.jp
     * dfd1c48f-kdknv6tt.cname.ebis.ne.jp
-    * e050f08a-pc93j6qv.cname.ebis.ne.jp
     * e1e0a549-rq6mpz3n.cname.ebis.ne.jp
     * e2d9b43b-hutbyrck.cname.ebis.ne.jp
     * e4261920-sca9scbo.cname.ebis.ne.jp
@@ -591,7 +590,6 @@
 | adebis.hotstaff.co.jp | de8331b9-pmffblvq.cname.ebis.ne.jp |
 | adex.predear.com | de8820de-fgpe2gow.cname.ebis.ne.jp |
 | cname1.shakenkan.co.jp | dfd1c48f-kdknv6tt.cname.ebis.ne.jp |
-| frontierconsul02.tsunagaru-office.com | e050f08a-pc93j6qv.cname.ebis.ne.jp |
 | adebis.ahjikan-shop.com | e1e0a549-rq6mpz3n.cname.ebis.ne.jp |
 | ebis.sbismile.co.jp | e2d9b43b-hutbyrck.cname.ebis.ne.jp |
 | adebisu.fairy-contact.jp | e4261920-sca9scbo.cname.ebis.ne.jp |

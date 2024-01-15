@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704700819842        ; Serial
+           1705305616287        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,11 +38,13 @@ cdn.cjlph.com CNAME .
 cdn.clbaf.com CNAME .
 cdn.crsope.com CNAME .
 cdn.cryjun.com CNAME .
+cdn.dawplm.com CNAME .
 cdn.decpo.xyz CNAME .
 cdn.delutza.com CNAME .
 cdn.drawx.xyz CNAME .
 cdn.eecd.xyz CNAME .
 cdn.eeco.xyz CNAME .
+cdn.elicaowl.com CNAME .
 cdn.fajukc.com CNAME .
 cdn.falkwo.com CNAME .
 cdn.faspox.com CNAME .
@@ -108,6 +110,7 @@ cdn.puysis.com CNAME .
 cdn.qgerr.com CNAME .
 cdn.quagfa.com CNAME .
 cdn.rapolok.com CNAME .
+cdn.rausfml.com CNAME .
 cdn.rawqel.com CNAME .
 cdn.rgrd.xyz CNAME .
 cdn.roemoss.com CNAME .
@@ -127,12 +130,15 @@ cdn.ugopkl.com CNAME .
 cdn.uiopkl.com CNAME .
 cdn.ulesxbo.com CNAME .
 cdn.vcxzp.com CNAME .
+cdn.verwh.com CNAME .
 cdn.viowrel.com CNAME .
 cdn.vonkol.com CNAME .
 cdn.wwfx.xyz CNAME .
 cdn.xbcpcn.com CNAME .
+cdn.xipteq.com CNAME .
 cdn.xwqea.com CNAME .
 cdn.ytihp.com CNAME .
+cdn.zikpwr.com CNAME .
 cdn.zkcvb.com CNAME .
 cdn.zxclan.com CNAME .
 4ke5b4ila.codedge.de CNAME .
@@ -304,7 +310,6 @@ carp.pbncontent.com CNAME .
 carp.spotonevent.no CNAME .
 cat.acesandaros.org CNAME .
 cat.beunitedinchrist.com CNAME .
-cat.chainotate.com CNAME .
 cat.gfx.io CNAME .
 cat.laravel-news.com CNAME .
 cat.mattr.global CNAME .
@@ -441,7 +446,6 @@ dove.hoku.nz CNAME .
 dragon.codemakes.art CNAME .
 dragon.codequeen.io CNAME .
 dragon.sh2.com CNAME .
-dragonfly.codebar.ch CNAME .
 dragonfly.filmmakerfreedom.com CNAME .
 dragonfly.jala-one.com CNAME .
 eagle.roarfilm.com.au CNAME .
@@ -511,7 +515,6 @@ flyingfish.whoisrepresented.org CNAME .
 fowl.saulhardman.com CNAME .
 fox.domainr.com CNAME .
 fox.visionaudiovisual.com CNAME .
-frog.jamesbliss.com CNAME .
 gamefowl.emailforward.mx CNAME .
 gamefowl.karlsutt.com CNAME .
 gamefowl.nonprofit.foundation CNAME .
@@ -753,7 +756,6 @@ meadowlark.hownow.guide CNAME .
 meadowlark.psynapse.no CNAME .
 meerkat.bigcrazylife.com CNAME .
 meerkat.inprivy.io CNAME .
-meerkat.nilsmielke.me CNAME .
 mink.faq-bregenzerwald.com CNAME .
 minnow.clintwinter.me CNAME .
 minnow.mimosaagency.com CNAME .
@@ -1128,7 +1130,6 @@ whippet.madebywil.co CNAME .
 whippet.miniforetak.no CNAME .
 whitefish.antonopoulos-stores.gr CNAME .
 whitefish.autharmor.com CNAME .
-whitefish.finanzritter.com CNAME .
 whitefish.kenku.fm CNAME .
 wildcat.fspy.io CNAME .
 wildcat.vivritiamc.com CNAME .

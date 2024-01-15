@@ -281,6 +281,7 @@
     * first-american-home-warranty.extole.io
     * first-tech-federal.extole.io
     * firstleaf.extole.io
+    * forgetrust.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
@@ -562,6 +563,7 @@
     * zazzle.extole.io
     * zebit.extole.io
     * zenbusiness.extole.io
+    * zenwork.extole.io
     * zinli.extole.io
     * zipcar-ca.extole.io
     * zipcar.extole.io
@@ -793,6 +795,7 @@
 | share.firstleaf.club | firstleaf.extole.io |
 | share.firstleaf.com | firstleaf.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
+| refer.forgetrust.com | forgetrust.extole.io |
 | refer.framesdirect.com | framesdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
 | refer.freshly.com | freshly.extole.com |
@@ -1257,6 +1260,7 @@
 | refer.zazzlereferral.com | zazzle.extole.io |
 | share.zebit.com | zebit.extole.io |
 | share.zenbusiness.com | zenbusiness.extole.io |
+| refer.tax1099.com | zenwork.extole.io |
 | promos.zinli.com | zinli.extole.io |
 | refer.zipcar.ca | zipcar-ca.extole.io |
 | refer.zipcar.com | zipcar.extole.io |

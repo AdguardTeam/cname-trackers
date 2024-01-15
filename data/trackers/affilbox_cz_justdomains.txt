@@ -275,6 +275,7 @@ affilpartneri.affilbusiness.cz
 afill.e-potisk.cz
 ambasadorky.zenyzenam.cz
 ambassador.notsofunnyany.com
+ambassadors.childhoodpotential.com
 benefit.genyprozivot.cz
 box.cryptokingdom.tech
 box.kryptotrejder.sk
@@ -441,6 +442,7 @@ partner.bilynabytek.cz
 partner.bio-nechty.sk
 partner.bio-nehty.cz
 partner.bioaromakosmetika.cz
+partner.bohemiaclean.eu
 partner.bontonck.cz
 partner.bonyplus.cz
 partner.booktook.cz
@@ -592,6 +594,7 @@ partner.moringacaribbean.eu
 partner.motoobchod.cz
 partner.muffik.cz
 partner.muffik.eu
+partner.mumijo.cz
 partner.muzskykruh.cz
 partner.nanolab.cz
 partner.naplne.cz
@@ -754,6 +757,7 @@ partneri.jazykyodpiky.cz
 partneri.keramika-dum.cz
 partneri.kerasek.cz
 partneri.kimgroup.cz
+partneri.konverzacniklub.cz
 partneri.kuptorazdva.cz
 partneri.legalni-konopi.cz
 partneri.levne-barvy-laky.cz

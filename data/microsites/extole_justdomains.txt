@@ -231,6 +231,7 @@ refer.evite.com
 refer.fahw.com
 refer.firstaidbeauty.com
 refer.firsttechfed.com
+refer.forgetrust.com
 refer.frontgate.com
 refer.g2.com
 refer.gapcanada.ca
@@ -368,6 +369,7 @@ refer.swansonvitamins.com
 refer.take5oilchange.com
 refer.tatcha.co.uk
 refer.tatcha.com
+refer.tax1099.com
 refer.taxact.com
 refer.teladoc.com
 refer.teladochealth.com

@@ -174,7 +174,6 @@ ea.vente-unique.be
 ea.vente-unique.ch
 ea.vente-unique.com
 ea.vente-unique.lu
-ea.ventealapropriete.com
 ea.vivus.es
 ea.voyage-prive.co.uk
 ea.voyage-prive.es
@@ -327,7 +326,6 @@ nmo1.orpi.com
 nmu3.destinia.be
 noa0.compteczam.fr
 nrg.red-by-sfr.fr
-nym5c.laura.ca
 nyt1.biosens-leanature.fr
 o68c.sfr.fr
 oae6.carrefour-banque.fr
@@ -429,7 +427,6 @@ t.locasun.it
 t.locasun.nl
 t.pmu.fr
 t.voyages-sncf.com
-t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tdf1.easyviaggio.com
@@ -517,5 +514,7 @@ eat9.thebeat925.ca
 hk2d.tourismemauricie.com
 nym5c.bonlook.com
 ry0.rythmefm.com
+t0y.toyota.ca
 ea.mnt.fr
 gi7a.structube.com
+nym5c.laura.ca

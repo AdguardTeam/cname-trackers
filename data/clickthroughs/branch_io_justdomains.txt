@@ -857,6 +857,7 @@ trk.shoppremiumoutlets.com
 trk.squeezemassage.com
 trk.underarmour.com
 trk.us.underarmour.com
+trkemail.luisaviaroma.com
 trklink.luisaviaroma.com
 url1020.keycollectorcomics.com
 url1445.affirm.com
@@ -1169,7 +1170,6 @@ app.healthteams.com.au
 app.hear.com
 app.heponda.com
 app.hermo.my
-app.heroes.jobs
 app.hinge.co
 app.hocngoainguhieuqua.com
 app.holdstation.com
@@ -1214,6 +1214,7 @@ app.lawnlove.com
 app.learnz.hu
 app.levi.com
 app.libre.org
+app.link.justincase.jp
 app.link.livibank.com
 app.link.nba.com
 app.liven.com.au
@@ -1261,7 +1262,6 @@ app.nursef.ly
 app.ocamping.fr
 app.oceans.io
 app.ofisten.com
-app.omio.com
 app.onet.pl
 app.onyx.fit
 app.onyxcharge.com
@@ -1312,6 +1312,7 @@ app.raneen.com
 app.rclb.pl
 app.renozee.com
 app.resq.club
+app.reuters.com
 app.ritual.io
 app.rlax.me
 app.rmbr.in
@@ -1331,7 +1332,6 @@ app.smartcredit.com
 app.smrtp.link
 app.snbla.com
 app.sortedai.com
-app.sosevents.net
 app.soultime.com
 app.sswt.co
 app.stadac.mobilapp.gmbh
@@ -1391,6 +1391,7 @@ app.virginradio.co.uk
 app.vitabuddy.de
 app.vitruvian.me
 app.voice.football
+app.vurse.com
 app.vyaparapp.in
 app.w3w.io
 app.waybetter.com
@@ -1412,7 +1413,6 @@ app.zip.co
 app.ziptoss.com
 app.zirtue.com
 app.zwilling.com
-app1.heroes.jobs
 app2.220cordncode.com
 application.mindshine.app
 applink.aspiration.com
@@ -1752,7 +1752,6 @@ buoypinger-app.sapsailing.com
 business.crib.in
 business.face2.io
 buyer.okiela.com
-c-app.heroes.jobs
 c-t.topya.com
 c.aquaservice.com
 c.autozen.tv
@@ -1953,7 +1952,6 @@ dinocraft-test.animocabrands.com
 dinocraft.animocabrands.com
 direct.diarymuslim.com
 directions.mdanderson.org
-directlink.hasdukmerahputih.com
 distiller.kano.link
 dl-dev.tablelist.com
 dl-dev.tytocare.com
@@ -2093,7 +2091,6 @@ fight.offtherecord.com
 fishing.daigostudio.com
 flutter.branchster.in
 foodsouvlakibar.openapp.link
-form.heroes.jobs
 fraudandcyberawareness.safeguard.hsbc.com
 friends.hyll.com
 fscareers.epoise.com
@@ -2423,6 +2420,7 @@ go.muzz.com
 go.myfave.com
 go.mylike-app.com
 go.mytwc.com.au
+go.naratourapp.com
 go.netherlands.innovatedating.com
 go.noondate.com
 go.norway.innovatedating.com
@@ -2599,6 +2597,7 @@ i.test.airtel.in
 i.toywords.games
 i.upoker.net
 ibf.smrtp.link
+ilpostoplus.openapp.link
 imagica.brain.ai
 imap.happ.social
 in.app.puma.com
@@ -2736,6 +2735,7 @@ l.bhaibandhu.com
 l.bigbasket.com
 l.biglion.ru
 l.brightside.com
+l.bspace.io
 l.civic.com
 l.coastapp.com
 l.cultgear.com
@@ -2834,6 +2834,7 @@ link.24go.co
 link.321okgo.com
 link.360vuz.com
 link.3dbear.io
+link.7-eleven.vn
 link.abandonedmonkey.codes
 link.adhdinsight.com
 link.ag.fan
@@ -2893,6 +2894,7 @@ link.cardgamesbybicycle.com
 link.cardu.com
 link.careerfairplus.com
 link.cargo.co
+link.cerego.com
 link.chalknation.com
 link.chefsclub.com.br
 link.classicalradio.com
@@ -2946,6 +2948,7 @@ link.epmyalptest.com
 link.eventconnect.io
 link.evergreen-life.co.uk
 link.everlance.com
+link.evolia.com
 link.expiwell.com
 link.explorz.app
 link.extasy.com
@@ -3155,6 +3158,7 @@ link.qa.heal.com
 link.qanva.st
 link.qeenatha.com
 link.qp.me
+link.quicktakes.io
 link.radiotunes.com
 link.rangde.in
 link.rc.faithplay.com
@@ -3201,6 +3205,7 @@ link.smile.com.au
 link.smokeandsoda.com
 link.snapfeet.io
 link.snaphabit.app
+link.snippz.com
 link.socar.my
 link.socash.io
 link.somm.io
@@ -3216,6 +3221,7 @@ link.staff.notab.com
 link.stage.easy.me
 link.staging.clearsky.jlg.com
 link.starshiphsa.com
+link.staycation.co
 link.staycircles.com
 link.steadio.co
 link.steezy.co
@@ -3474,6 +3480,7 @@ m.bookis.com
 m.brain.ai
 m.brandbassador.com
 m.d11.io
+m.dagym-manager.com
 m.dq.ca
 m.dq.com
 m.enlivenhaircare.my
@@ -3697,13 +3704,12 @@ pizzaromea.openapp.link
 pl-topgal.m-shop.me
 play.ab05.bet
 play.b-t11.com
-play.betluk7.com
 play.colorplay.fun
 play.fanslide.com
 play.goldplay.me
 play.jdb888.club
 play.journey8.com
-play.maxgamings.com
+play.maxgame.store
 play.rheo.tv
 play.scavos.com
 play.skydreamcasino.net
@@ -3774,7 +3780,6 @@ randstad.epoise.com
 randstadtest.epoise.com
 rb.groc.press
 read.meistercody.com
-recruiter-app.heroes.jobs
 redditstream.arborapps.io
 redirect.indacar.io
 redirect.kataklop.com

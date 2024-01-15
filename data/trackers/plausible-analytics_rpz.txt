@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1704700819842        ; Serial
+           1705305616287        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -561,7 +561,6 @@ stats.frenlo.com CNAME .
 stats.fs4c.org CNAME .
 stats.fundimmo.com CNAME .
 stats.fungus.computer CNAME .
-stats.fwdkit.com CNAME .
 stats.galeb.org CNAME .
 stats.galleriacortona.com CNAME .
 stats.gbc.uk CNAME .
@@ -831,7 +830,6 @@ stats.robotika.ax CNAME .
 stats.rocketvalidator.com CNAME .
 stats.roderickduenas.com CNAME .
 stats.ruhrfestspiele.de CNAME .
-stats.rushilperera.me CNAME .
 stats.rymawby.com CNAME .
 stats.s-zt.at CNAME .
 stats.sakurasky.com CNAME .
