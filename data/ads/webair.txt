@@ -50,7 +50,6 @@
 ||click-v4.jadspro.live^
 ||click-v4.junexclkmid.com^
 ||click-v4.junmediadirect1.com^
-||click-v4.xepoclk.com^
 ||click.aarthpro.com^
 ||click.celxkpdir.com^
 ||click.clkepd.com^
@@ -640,7 +639,6 @@
 ||rtb2-apac.jambojar.com^
 ||rtb2-apac.newchallenges-dsp.com^
 ||rtb2-apac.onenativeads.com^
-||rtb2-apac.programmatics.net^
 ||rtb2-apac.xaprio.net^
 ||rtb2-eu.afkwa.com^
 ||rtb2-eu.convergeselect.net^
@@ -648,7 +646,6 @@
 ||rtb2-eu.e-volution.ai^
 ||rtb2-eu.jambojar.com^
 ||rtb2-eu.newchallenges-dsp.com^
-||rtb2-eu.programmatics.net^
 ||rtb2-eu.thecdn.site^
 ||rtb2-eu.waardex.com^
 ||rtb2-eu.xaprio.net^
@@ -665,14 +662,12 @@
 ||rtb2-useast.gammae.com^
 ||rtb2-useast.jambojar.com^
 ||rtb2-useast.newchallenges-dsp.com^
-||rtb2-useast.programmatics.net^
 ||rtb2-useast.waardex.com^
 ||rtb2-useast.xaprio.net^
 ||rtb2-uswest.a8dsp.com^
 ||rtb2-uswest.afkwa.com^
 ||rtb2-uswest.demandzoo.com^
 ||rtb2-uswest.e-volution.ai^
-||rtb2-uswest.programmatics.net^
 ||rtb2-uswest.webithr.com^
 ||rtb2-uswest.xaprio.net^
 ||search.adokutcontextual.com^
@@ -691,6 +686,7 @@
 ||static.fstsrv1.com^
 ||static.fstsrv2.com^
 ||static.fstsrv3.com^
+||static.fstsrv4.com^
 ||static.fstsrv5.com^
 ||static.fstsrv6.com^
 ||static.fstsrv7.com^
@@ -743,11 +739,9 @@
 ||win-rtb2-apac.catapultx.com^
 ||win-rtb2-apac.e-volution.ai^
 ||win-rtb2-apac.newchallenges-dsp.com^
-||win-rtb2-apac.programmatics.net^
 ||win-rtb2-apac.userwave.com^
 ||win-rtb2-apac.xaprio.net^
 ||win-rtb2-eu.e-volution.ai^
-||win-rtb2-eu.programmatics.net^
 ||win-rtb2-eu.userwave.com^
 ||win-rtb2-eu.webtradingspot.com^
 ||win-rtb2-eu.xaprio.net^
@@ -755,14 +749,12 @@
 ||win-rtb2-useast.afkwa.com^
 ||win-rtb2-useast.assemblyexchange.com^
 ||win-rtb2-useast.e-volution.ai^
-||win-rtb2-useast.programmatics.net^
 ||win-rtb2-useast.userwave.com^
 ||win-rtb2-useast.waardex.com^
 ||win-rtb2-useast.webithr.com^
 ||win-rtb2-useast.xaprio.net^
 ||win-rtb2-uswest.afkwa.com^
 ||win-rtb2-uswest.e-volution.ai^
-||win-rtb2-uswest.programmatics.net^
 ||win-rtb2-uswest.userwave.com^
 ||win-rtb2-uswest.webtradingspot.com^
 ||win-rtb2-uswest.xaprio.net^
@@ -1061,7 +1053,6 @@
 ||xml.rtxfeed.com^
 ||xml.saturndynamic.pt^
 ||xml.sedodna.com^
-||xml.serverhost1.com^
 ||xml.shieldcheckerservices.com^
 ||xml.showcasead.com^
 ||xml.skinkexchange.com^
@@ -1106,5 +1097,4 @@
 ||xmlv4.chameleostudios.com^
 ||xmlv4.mobuppsrtb.com^
 ||xmlv4.reklama.network^
-||static.fstsrv4.com^
 ||static.rtb-serve.com^

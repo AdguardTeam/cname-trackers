@@ -6,7 +6,6 @@ data.decathlon.co.uk
 data.decathlon.de
 data.decathlon.es
 data.decathlon.fr
-data.decathlon.it
 data.decathlon.pl
 data.ricaud.com
 data.ubi.com
@@ -17,8 +16,9 @@ tagcommander.laredoute.be
 tagcommander.laredoute.ch
 tc.europcar.com
 tc.europcar.com.au
-tc.europcar.de
 tcdata.fnac.com
 configure.adlermode.com
+data.decathlon.it
 data.ouigo.com
 tag.boulanger.fr
+tc.europcar.de

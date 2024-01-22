@@ -533,7 +533,6 @@
 | partner.expresmenu.pl | cz.affilbox.cz |
 | partner.expresmenu.sk | cz.affilbox.cz |
 | partner.fabulo.sk | cz.affilbox.cz |
-| partner.fermato.cz | cz.affilbox.cz |
 | partner.finstyle.cz | cz.affilbox.cz |
 | partner.firmin.cz | cz.affilbox.cz |
 | partner.forexrebel.net | cz.affilbox.cz |
@@ -542,6 +541,7 @@
 | partner.goelite.club | cz.affilbox.cz |
 | partner.gokids.cz | cz.affilbox.cz |
 | partner.granule-eshop.cz | cz.affilbox.cz |
+| partner.greenbeast.vip | cz.affilbox.cz |
 | partner.gurufinance.cz | cz.affilbox.cz |
 | partner.hanamoneam.com | cz.affilbox.cz |
 | partner.hegesztok-bolt.hu | cz.affilbox.cz |
@@ -706,6 +706,7 @@
 | partner.webovkysusmevem.cz | cz.affilbox.cz |
 | partner.webrebel.sk | cz.affilbox.cz |
 | partner.webskicak.cz | cz.affilbox.cz |
+| partner.wellmall.cz | cz.affilbox.cz |
 | partner.whoopdedoo.cz | cz.affilbox.cz |
 | partner.whoopdedoo.love | cz.affilbox.cz |
 | partner.whoopdedoo.me | cz.affilbox.cz |
@@ -850,7 +851,6 @@
 | partneri.vyzvaproimunitu.cz | cz.affilbox.cz |
 | partneri.way4life.cz | cz.affilbox.cz |
 | partneri.webmeeting.cz | cz.affilbox.cz |
-| partneri.webovac.sk | cz.affilbox.cz |
 | partneri.worldee.com | cz.affilbox.cz |
 | partneri.yoggspiration.cz | cz.affilbox.cz |
 | partneri.zaprovizi.cz | cz.affilbox.cz |
@@ -869,7 +869,6 @@
 | partners.rebelsfunding.com | cz.affilbox.cz |
 | partners.spiritradar.com | cz.affilbox.cz |
 | plus.mameradivlasy.cz | cz.affilbox.cz |
-| prodej.kyselove.cz | cz.affilbox.cz |
 | program.biocitia.eu | cz.affilbox.cz |
 | promo.smskouc.cz | cz.affilbox.cz |
 | provize.3dfitness.cz | cz.affilbox.cz |
@@ -905,6 +904,7 @@
 | spoluprace.m-soft.cz | cz.affilbox.cz |
 | spoluprace.majka-shop.cz | cz.affilbox.cz |
 | spoluprace.mentorkalucie.cz | cz.affilbox.cz |
+| spoluprace.nordictelecom.cz | cz.affilbox.cz |
 | spoluprace.obchod-setrilek.cz | cz.affilbox.cz |
 | spoluprace.potravinyarax.cz | cz.affilbox.cz |
 | spoluprace.terrapotheka.cz | cz.affilbox.cz |

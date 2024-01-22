@@ -129,7 +129,6 @@
     * adsbuyclick.xml.ak-is2.net
     * adscompute.xml.ak-is2.net
     * adservme.rtb-eu.ak-is2.net
-    * adservme.xml.ak-is2.net
     * adsfloow.xml.ak-is2.net
     * adsimilate.fs.ak-is2.net
     * adsimilate.ui.ak-is2.net
@@ -593,14 +592,6 @@
     * pressize.wp.ak-is2.net
     * pressize.xml-eu.ak-is2.net
     * pressize.xml.ak-is2.net
-    * programmatics.rtb-as-apac.ak-is2.net
-    * programmatics.rtb-as-eu.ak-is2.net
-    * programmatics.rtb-as-useast.ak-is2.net
-    * programmatics.rtb-as-uswest.ak-is2.net
-    * programmatics.win-apac.ak-is2.net
-    * programmatics.win-eu.ak-is2.net
-    * programmatics.win-useast.ak-is2.net
-    * programmatics.win-uswest.ak-is2.net
     * proxyunlimited.xml.ak-is2.net
     * pulsefintech.rtb-as-uswest.ak-is2.net
     * pulsefintech.xml.ak-is2.net
@@ -934,6 +925,7 @@
 | static.fstsrv4.com | a550.dscg2.akamai.net |
 | static.fstsrv5.com | a550.dscg2.akamai.net |
 | static.fstsrv6.com | a550.dscg2.akamai.net |
+| static.fstsrv7.com | a550.dscg2.akamai.net |
 | static.openrtb.in | a550.dscg2.akamai.net |
 | static.qksrv.cc | a550.dscg2.akamai.net |
 | static.qksrv1.com | a550.dscg2.akamai.net |
@@ -1089,6 +1081,7 @@
 | static.fstsrv1.com | adright.xs.ak-is2.net |
 | static.fstsrv2.com | adright.xs.ak-is2.net |
 | static.fstsrv3.com | adright.xs.ak-is2.net |
+| static.fstsrv4.com | adright.xs.ak-is2.net |
 | static.fstsrv5.com | adright.xs.ak-is2.net |
 | static.fstsrv6.com | adright.xs.ak-is2.net |
 | static.fstsrv7.com | adright.xs.ak-is2.net |
@@ -1102,7 +1095,6 @@
 | xml.adsbuyclick.com | adsbuyclick.xml.ak-is2.net |
 | xml.adscompute.com | adscompute.xml.ak-is2.net |
 | rtb-eu.rtbidhost.com | adservme.rtb-eu.ak-is2.net |
-| xml.serverhost1.com | adservme.xml.ak-is2.net |
 | xml.adsfloow.net | adsfloow.xml.ak-is2.net |
 | filteradkernel.adsimilate.com | adsimilate.fs.ak-is2.net |
 | login.adsimilate.com | adsimilate.ui.ak-is2.net |
@@ -1402,7 +1394,6 @@
 | click-v4.expilaclkdir.com | explorads.xml-v4.ak-is2.net |
 | click-v4.expmdiadi.com | explorads.xml-v4.ak-is2.net |
 | click-v4.expoclknw.com | explorads.xml-v4.ak-is2.net |
-| click-v4.xepoclk.com | explorads.xml-v4.ak-is2.net |
 | clickv6.expmediadirect1.com | explorads.xml-v6.ak-is2.net |
 | click.celxkpdir.com | explorads.xml.ak-is2.net |
 | click.clkepd.com | explorads.xml.ak-is2.net |
@@ -1663,14 +1654,6 @@
 | click.pclk.name | pressize.xml.ak-is2.net |
 | click.precmd.com | pressize.xml.ak-is2.net |
 | xml.pressize.com | pressize.xml.ak-is2.net |
-| rtb2-apac.programmatics.net | programmatics.rtb-as-apac.ak-is2.net |
-| rtb2-eu.programmatics.net | programmatics.rtb-as-eu.ak-is2.net |
-| rtb2-useast.programmatics.net | programmatics.rtb-as-useast.ak-is2.net |
-| rtb2-uswest.programmatics.net | programmatics.rtb-as-uswest.ak-is2.net |
-| win-rtb2-apac.programmatics.net | programmatics.win-apac.ak-is2.net |
-| win-rtb2-eu.programmatics.net | programmatics.win-eu.ak-is2.net |
-| win-rtb2-useast.programmatics.net | programmatics.win-useast.ak-is2.net |
-| win-rtb2-uswest.programmatics.net | programmatics.win-uswest.ak-is2.net |
 | xml.aimkweb.com | proxyunlimited.xml.ak-is2.net |
 | rtb-as-uswest.pulsefintech.net | pulsefintech.rtb-as-uswest.ak-is2.net |
 | clk.marketjar.net | pulsefintech.xml.ak-is2.net |
@@ -1888,6 +1871,7 @@
 | win-rtb2-useast.webithr.com | webithr.win-useast.ak-is2.net |
 | dsp.xapads.com | xapads.aui.ak-is2.net |
 | cpm.xrtb.io | xapads.cpm.ak-is2.net |
+| display.rtb-serve.com | xapads.cpm.ak-is2.net |
 | vid-cpm.xapads.com | xapads.cpm.ak-is2.net |
 | click.aarthpro.com | xapads.fs.ak-is2.net |
 | xml-default.xapads.com | xapads.fs.ak-is2.net |

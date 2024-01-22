@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -376,6 +376,7 @@ data-2d805a2d6c.leben-und-erziehen.de CNAME .
 data-2d86fd41e0.art-magazin.de CNAME .
 data-2d86fd41e0.business-punk.com CNAME .
 data-2d86fd41e0.geo.de CNAME .
+data-2d86fd41e0.stern-crime.de CNAME .
 data-2d86fd41e0.stern.de CNAME .
 data-2d86fd41e0.sternverlag.de CNAME .
 data-2d8c7b4f16.apps.iocnt.de CNAME .
@@ -420,6 +421,7 @@ data-34565915dd.firmenwissen.com CNAME .
 data-34565915dd.firmenwissen.de CNAME .
 data-34c9d32b77.apps.iocnt.de CNAME .
 data-353c1c8501.falstaff.com CNAME .
+data-366a248b14.film.at CNAME .
 data-367bcf5bd6.german-retail-blog.com CNAME .
 data-367bcf5bd6.lebensmittelzeitung.net CNAME .
 data-367bcf5bd6.lzjobs.de CNAME .
@@ -745,6 +747,7 @@ data-54a2358d26.apps.iocnt.de CNAME .
 data-54e4c92225.apps.iocnt.de CNAME .
 data-54f7652a27.manager-magazin.de CNAME .
 data-54f7652a27.spiegel.de CNAME .
+data-552667226c.apps.iocnt.de CNAME .
 data-557fc65a33.coachingz.one CNAME .
 data-557fc65a33.womenshealth.de CNAME .
 data-5582f489be.apps.iocnt.de CNAME .
@@ -1025,6 +1028,7 @@ data-7462ea72ec.fupa.net CNAME .
 data-7462ea72ec.intersana.de CNAME .
 data-74cd0e3846.daznservices.com CNAME .
 data-74e6a53123.kronehit.at CNAME .
+data-75037dd3ff.praxis-depesche.de CNAME .
 data-75526e35eb.etailment.de CNAME .
 data-7555680eb3.ikz.de CNAME .
 data-75671117cf.radiowaf.de CNAME .
@@ -1257,6 +1261,7 @@ data-94d154970c.boersenblatt.net CNAME .
 data-94ef178492.comunio.de CNAME .
 data-951da6b717.detail.de CNAME .
 data-9599593609.laborjournal.de CNAME .
+data-95c8053841.pirsch.de CNAME .
 data-95fff71409.boersennews.de CNAME .
 data-960dda2233.jam.fm CNAME .
 data-960dda2233.jamfm.de CNAME .
@@ -1269,6 +1274,7 @@ data-96d64cb150.bz-ticket.de CNAME .
 data-96d64cb150.bztrauer.de CNAME .
 data-96d64cb150.fupa.net CNAME .
 data-96d64cb150.handwerkjobs-bw.de CNAME .
+data-96d64cb150.regiojob.de CNAME .
 data-96d64cb150.schnapp.de CNAME .
 data-96d64cb150.wohnverdient.de CNAME .
 data-97304cc18d.medienzentrum-biberach.de CNAME .
@@ -1760,6 +1766,7 @@ data-ce904c6d42.metallbau-magazin.de CNAME .
 data-ce964ae059.guter-rat.de CNAME .
 data-ce964ae059.guterrat.de CNAME .
 data-cedbf1e823.apps.iocnt.de CNAME .
+data-cf38608471.de24live.de CNAME .
 data-cf521b4223.op-marburg.de CNAME .
 data-cf56e4da9b.motorradonline.de CNAME .
 data-cf8fd9b799.heizungsjournal.de CNAME .
@@ -1805,6 +1812,7 @@ data-d5c733accc.infonline.de CNAME .
 data-d5cb47d8e4.radiotop40.de CNAME .
 data-d5d9e85944.textilwirtschaft.de CNAME .
 data-d5efd1b9c0.dzonline.de CNAME .
+data-d61ee02db0.pirsch.de CNAME .
 data-d6484416fd.maclife.de CNAME .
 data-d6485d3579.playboy.de CNAME .
 data-d687fc47c0.11freunde.de CNAME .
@@ -1831,6 +1839,7 @@ data-d946a9c4a1.thueringer-allgemeine.de CNAME .
 data-d946a9c4a1.tlz.de CNAME .
 data-d946a9c4a1.trauer-in-thueringen.de CNAME .
 data-d9be8dacc3.alpin.de CNAME .
+data-d9c82db6b2.motor.at CNAME .
 data-da1d9cc48a.osthessen-news.de CNAME .
 data-da8b646558.dieniederoesterreicherin.at CNAME .
 data-daaad80bda.babelli.de CNAME .
@@ -2096,6 +2105,7 @@ data-f41b8197e7.obermain.de CNAME .
 data-f42d3c8446.apps.iocnt.de CNAME .
 data-f44b46d558.baulinks.de CNAME .
 data-f47ffbb200.apps.iocnt.de CNAME .
+data-f4f9925b8a.styleupyourlife.at CNAME .
 data-f5928669e0.apps.iocnt.de CNAME .
 data-f59db3288b.24auto.de CNAME .
 data-f59db3288b.24books.de CNAME .
@@ -2272,6 +2282,7 @@ data-ff95894520.apps.iocnt.de CNAME .
 data-nl.computer-automation.de CNAME .
 data-nl.connect-channel.de CNAME .
 data-nl.connect-professional.de CNAME .
+data-nl.deutsche-apotheker-zeitung.de CNAME .
 data-nl.elektroniknet.de CNAME .
 data-nl.funkschau.de CNAME .
 data-nl.ict-channel.com CNAME .

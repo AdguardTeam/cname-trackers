@@ -365,6 +365,7 @@
 ||data-2d86fd41e0.art-magazin.de^
 ||data-2d86fd41e0.business-punk.com^
 ||data-2d86fd41e0.geo.de^
+||data-2d86fd41e0.stern-crime.de^
 ||data-2d86fd41e0.stern.de^
 ||data-2d86fd41e0.sternverlag.de^
 ||data-2d8c7b4f16.apps.iocnt.de^
@@ -409,6 +410,7 @@
 ||data-34565915dd.firmenwissen.de^
 ||data-34c9d32b77.apps.iocnt.de^
 ||data-353c1c8501.falstaff.com^
+||data-366a248b14.film.at^
 ||data-367bcf5bd6.german-retail-blog.com^
 ||data-367bcf5bd6.lebensmittelzeitung.net^
 ||data-367bcf5bd6.lzjobs.de^
@@ -734,6 +736,7 @@
 ||data-54e4c92225.apps.iocnt.de^
 ||data-54f7652a27.manager-magazin.de^
 ||data-54f7652a27.spiegel.de^
+||data-552667226c.apps.iocnt.de^
 ||data-557fc65a33.coachingz.one^
 ||data-557fc65a33.womenshealth.de^
 ||data-5582f489be.apps.iocnt.de^
@@ -1014,6 +1017,7 @@
 ||data-7462ea72ec.intersana.de^
 ||data-74cd0e3846.daznservices.com^
 ||data-74e6a53123.kronehit.at^
+||data-75037dd3ff.praxis-depesche.de^
 ||data-75526e35eb.etailment.de^
 ||data-7555680eb3.ikz.de^
 ||data-75671117cf.radiowaf.de^
@@ -1246,6 +1250,7 @@
 ||data-94ef178492.comunio.de^
 ||data-951da6b717.detail.de^
 ||data-9599593609.laborjournal.de^
+||data-95c8053841.pirsch.de^
 ||data-95fff71409.boersennews.de^
 ||data-960dda2233.jam.fm^
 ||data-960dda2233.jamfm.de^
@@ -1258,6 +1263,7 @@
 ||data-96d64cb150.bztrauer.de^
 ||data-96d64cb150.fupa.net^
 ||data-96d64cb150.handwerkjobs-bw.de^
+||data-96d64cb150.regiojob.de^
 ||data-96d64cb150.schnapp.de^
 ||data-96d64cb150.wohnverdient.de^
 ||data-97304cc18d.medienzentrum-biberach.de^
@@ -1749,6 +1755,7 @@
 ||data-ce964ae059.guter-rat.de^
 ||data-ce964ae059.guterrat.de^
 ||data-cedbf1e823.apps.iocnt.de^
+||data-cf38608471.de24live.de^
 ||data-cf521b4223.op-marburg.de^
 ||data-cf56e4da9b.motorradonline.de^
 ||data-cf8fd9b799.heizungsjournal.de^
@@ -1794,6 +1801,7 @@
 ||data-d5cb47d8e4.radiotop40.de^
 ||data-d5d9e85944.textilwirtschaft.de^
 ||data-d5efd1b9c0.dzonline.de^
+||data-d61ee02db0.pirsch.de^
 ||data-d6484416fd.maclife.de^
 ||data-d6485d3579.playboy.de^
 ||data-d687fc47c0.11freunde.de^
@@ -1820,6 +1828,7 @@
 ||data-d946a9c4a1.tlz.de^
 ||data-d946a9c4a1.trauer-in-thueringen.de^
 ||data-d9be8dacc3.alpin.de^
+||data-d9c82db6b2.motor.at^
 ||data-da1d9cc48a.osthessen-news.de^
 ||data-da8b646558.dieniederoesterreicherin.at^
 ||data-daaad80bda.babelli.de^
@@ -2085,6 +2094,7 @@
 ||data-f42d3c8446.apps.iocnt.de^
 ||data-f44b46d558.baulinks.de^
 ||data-f47ffbb200.apps.iocnt.de^
+||data-f4f9925b8a.styleupyourlife.at^
 ||data-f5928669e0.apps.iocnt.de^
 ||data-f59db3288b.24auto.de^
 ||data-f59db3288b.24books.de^
@@ -2261,6 +2271,7 @@
 ||data-nl.computer-automation.de^
 ||data-nl.connect-channel.de^
 ||data-nl.connect-professional.de^
+||data-nl.deutsche-apotheker-zeitung.de^
 ||data-nl.elektroniknet.de^
 ||data-nl.funkschau.de^
 ||data-nl.ict-channel.com^

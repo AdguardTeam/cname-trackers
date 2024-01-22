@@ -336,7 +336,6 @@ a8.uchi-iwai.net
 a8.uchideno-kozuchi.com
 a8.uluwatutiger.com
 a8.unicoffee.tech
-a8.uridoki.net
 a8.uzuz-college.jp
 a8.vector-park.jp
 a8.vie-magique.com
@@ -1414,6 +1413,7 @@ clk.ingage.jp
 clk.liberty-e.com
 clk.wagon-hire.com
 clkcv.biglobehikari-kaisen.com
+clkcv.livede55.com
 contact.kdg-yobi.com
 cosme.caseepo.jp
 cp.cp.twendee.jp

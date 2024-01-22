@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -84,6 +84,7 @@ ilkk97e98lvg.www.sidsplumbing.ie CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
+j9kekd74tc4ki.tapin.gg CNAME .
 jii3gnhro.www.emanualonline.com CNAME .
 jiktq0fr9hv6.meleton.ru CNAME .
 k1usj3j6p706.dev.app.fika.community CNAME .
@@ -107,6 +108,7 @@ qri2r94eeajr.innovationcast.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 rbat6ac0zzjd.www.terraform.com.ar CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
+rynu3lxoyahzp.kvest.ee CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
 soahu1wnmt6l.www.replai.io CNAME .
 sr59t7wbx5.claricelin.com CNAME .
@@ -128,4 +130,5 @@ x2l5lsn8rvsq.li.finance CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
 ysrrzgku6tar.us.themoneytizer.com CNAME .
+z3617cz9ep.fitness.tappbrothers.com CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .

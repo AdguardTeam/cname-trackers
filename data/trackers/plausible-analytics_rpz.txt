@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -153,7 +153,6 @@ nums.upscale.app CNAME .
 p.classroombookings.com CNAME .
 p.ejs.dev CNAME .
 p.fairspot.host CNAME .
-p.ianmjones.com CNAME .
 p.iforge.app CNAME .
 p.logbox.io CNAME .
 p.marqueplace.com CNAME .
@@ -402,11 +401,9 @@ stats.autoscholarwithmrb.com CNAME .
 stats.balticgruppen.se CNAME .
 stats.bananatimer.com CNAME .
 stats.bcdtravel.com CNAME .
-stats.beamd.io CNAME .
 stats.beanr.coffee CNAME .
 stats.beatricew.com CNAME .
 stats.beausimensen.com CNAME .
-stats.beautility.makerkits.co CNAME .
 stats.belic.si CNAME .
 stats.benui.ca CNAME .
 stats.bernardobordadagua.com CNAME .
@@ -547,7 +544,6 @@ stats.faluninfo.rs CNAME .
 stats.faluninfo.si CNAME .
 stats.fantinel.dev CNAME .
 stats.fastbackward.app CNAME .
-stats.feathercss.makerkits.co CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
 stats.ferienwohnung-dombrowski.com CNAME .
@@ -733,7 +729,6 @@ stats.nerdbusiness.com CNAME .
 stats.newslit.co CNAME .
 stats.nexagon.dk CNAME .
 stats.nodewood.com CNAME .
-stats.nomad.radio CNAME .
 stats.nonprofit.foundation CNAME .
 stats.nothingbutnylon.com CNAME .
 stats.nullsecure.com CNAME .
@@ -939,7 +934,6 @@ stats.voedingskussen.net CNAME .
 stats.voltamediahouse.com CNAME .
 stats.voltimum.com CNAME .
 stats.wachstum.at CNAME .
-stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .
 stats.websnap.app CNAME .
 stats.wecodeni.com CNAME .
@@ -992,4 +986,5 @@ we-love-privacy.humane.club CNAME .
 webstats.bijenpatel.com CNAME .
 yolo.philipbjorge.com CNAME .
 zahlen.olereissmann.de CNAME .
+p.ianmjones.com CNAME .
 stats.citizenos.com CNAME .

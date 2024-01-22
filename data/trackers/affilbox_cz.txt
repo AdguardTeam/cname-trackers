@@ -516,7 +516,6 @@
 ||partner.expresmenu.pl^
 ||partner.expresmenu.sk^
 ||partner.fabulo.sk^
-||partner.fermato.cz^
 ||partner.finstyle.cz^
 ||partner.firmin.cz^
 ||partner.forexrebel.net^
@@ -525,6 +524,7 @@
 ||partner.goelite.club^
 ||partner.gokids.cz^
 ||partner.granule-eshop.cz^
+||partner.greenbeast.vip^
 ||partner.gurufinance.cz^
 ||partner.hanamoneam.com^
 ||partner.hegesztok-bolt.hu^
@@ -689,6 +689,7 @@
 ||partner.webovkysusmevem.cz^
 ||partner.webrebel.sk^
 ||partner.webskicak.cz^
+||partner.wellmall.cz^
 ||partner.whoopdedoo.cz^
 ||partner.whoopdedoo.love^
 ||partner.whoopdedoo.me^
@@ -833,7 +834,6 @@
 ||partneri.vyzvaproimunitu.cz^
 ||partneri.way4life.cz^
 ||partneri.webmeeting.cz^
-||partneri.webovac.sk^
 ||partneri.worldee.com^
 ||partneri.yoggspiration.cz^
 ||partneri.zaprovizi.cz^
@@ -852,7 +852,6 @@
 ||partners.rebelsfunding.com^
 ||partners.spiritradar.com^
 ||plus.mameradivlasy.cz^
-||prodej.kyselove.cz^
 ||program.biocitia.eu^
 ||promo.smskouc.cz^
 ||provize.3dfitness.cz^
@@ -888,6 +887,7 @@
 ||spoluprace.m-soft.cz^
 ||spoluprace.majka-shop.cz^
 ||spoluprace.mentorkalucie.cz^
+||spoluprace.nordictelecom.cz^
 ||spoluprace.obchod-setrilek.cz^
 ||spoluprace.potravinyarax.cz^
 ||spoluprace.terrapotheka.cz^

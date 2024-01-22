@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -151,6 +151,7 @@ tk.santevet.it CNAME .
 tk.speedway.fr CNAME .
 tk.svsound.com CNAME .
 tk.teleshopping.fr CNAME .
+tk.tikamoon.at CNAME .
 tk.tikamoon.ch CNAME .
 tk.tikamoon.co.uk CNAME .
 tk.tikamoon.com CNAME .

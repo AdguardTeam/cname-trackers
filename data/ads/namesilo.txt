@@ -279,6 +279,7 @@
 ||3329496.notify6.com^
 ||3329496.notifysrv.com^
 ||3329726.notifysrv.com^
+||3334828.notify6.com^
 ||3335306.notifysrv.com^
 ||3338422.notifysrv.com^
 ||3338444.notify6.com^
@@ -579,6 +580,7 @@
 ||3588597.notifysrv.com^
 ||3588599.notifysrv.com^
 ||3588603.notifysrv.com^
+||3589779.notify6.com^
 ||3590311.notify6.com^
 ||3590449.notify6.com^
 ||3591075.notify6.com^
@@ -653,6 +655,7 @@
 ||3715633.notifysrv.com^
 ||3717105.notify6.com^
 ||3717105.notifysrv.com^
+||3717259.notifysrv.com^
 ||3719901.notify6.com^
 ||3724345.notify6.com^
 ||3724345.notifysrv.com^
@@ -782,6 +785,7 @@
 ||4022280.notify6.com^
 ||4022504.notify6.com^
 ||4022684.notify6.com^
+||4028412.notify6.com^
 ||4028414.notify6.com^
 ||4031264.notify6.com^
 ||4031266.notify6.com^
@@ -827,6 +831,7 @@
 ||4149128.notify6.com^
 ||4151384.notify6.com^
 ||4152268.notify6.com^
+||4152316.notify6.com^
 ||4152328.notify6.com^
 ||4153216.notify6.com^
 ||4160048.notify6.com^
@@ -835,6 +840,7 @@
 ||4162254.notify6.com^
 ||4162256.notify6.com^
 ||4173044.notify6.com^
+||4177784.notify6.com^
 ||4179930.notify6.com^
 ||4182036.notify6.com^
 ||4188246.notify6.com^
@@ -951,6 +957,7 @@
 ||4917212.notify6.com^
 ||4960922.notify6.com^
 ||4983200.notify6.com^
+||4983282.notify6.com^
 ||5085594.notify6.com^
 ||5111734.notify6.com^
 ||5114166.notify6.com^
@@ -993,6 +1000,7 @@
 ||a.r8lnet.com^
 ||a.redpathmedia.com^
 ||a.rocoads.net^
+||a.santabrowser.com^
 ||a.slice.exchange^
 ||a.stuffserve.com^
 ||admin.ad.guru^
@@ -1063,6 +1071,7 @@
 ||s.elnn24.com^
 ||s.elnp11.com^
 ||s.elnr15.com^
+||s.elns12.com^
 ||s.elns4a.com^
 ||s.elns4c.com^
 ||s.etology.com^
@@ -1146,4 +1155,3 @@
 ||www.notify.bizonads-ssp.com^
 ||www.notify6.com^
 ||www.notifysrv.com^
-||a.santabrowser.com^

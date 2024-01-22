@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -269,6 +269,7 @@ web.campaign.jaked.com CNAME .
 web.campaign.miriade.com CNAME .
 web.campaign.v73.it CNAME .
 web.collisionservices.com CNAME .
+web.communications.amouage.com CNAME .
 web.comunicazioni.iol.it CNAME .
 web.crm.beps.it CNAME .
 web.diebayerische.de CNAME .

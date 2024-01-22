@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,7 +61,6 @@ click-v4.globlemath.com CNAME .
 click-v4.jadspro.live CNAME .
 click-v4.junexclkmid.com CNAME .
 click-v4.junmediadirect1.com CNAME .
-click-v4.xepoclk.com CNAME .
 click.aarthpro.com CNAME .
 click.celxkpdir.com CNAME .
 click.clkepd.com CNAME .
@@ -651,7 +650,6 @@ rtb2-apac.e-volution.ai CNAME .
 rtb2-apac.jambojar.com CNAME .
 rtb2-apac.newchallenges-dsp.com CNAME .
 rtb2-apac.onenativeads.com CNAME .
-rtb2-apac.programmatics.net CNAME .
 rtb2-apac.xaprio.net CNAME .
 rtb2-eu.afkwa.com CNAME .
 rtb2-eu.convergeselect.net CNAME .
@@ -659,7 +657,6 @@ rtb2-eu.demandzoo.com CNAME .
 rtb2-eu.e-volution.ai CNAME .
 rtb2-eu.jambojar.com CNAME .
 rtb2-eu.newchallenges-dsp.com CNAME .
-rtb2-eu.programmatics.net CNAME .
 rtb2-eu.thecdn.site CNAME .
 rtb2-eu.waardex.com CNAME .
 rtb2-eu.xaprio.net CNAME .
@@ -676,14 +673,12 @@ rtb2-useast.e-volution.ai CNAME .
 rtb2-useast.gammae.com CNAME .
 rtb2-useast.jambojar.com CNAME .
 rtb2-useast.newchallenges-dsp.com CNAME .
-rtb2-useast.programmatics.net CNAME .
 rtb2-useast.waardex.com CNAME .
 rtb2-useast.xaprio.net CNAME .
 rtb2-uswest.a8dsp.com CNAME .
 rtb2-uswest.afkwa.com CNAME .
 rtb2-uswest.demandzoo.com CNAME .
 rtb2-uswest.e-volution.ai CNAME .
-rtb2-uswest.programmatics.net CNAME .
 rtb2-uswest.webithr.com CNAME .
 rtb2-uswest.xaprio.net CNAME .
 search.adokutcontextual.com CNAME .
@@ -702,6 +697,7 @@ static.adright.com CNAME .
 static.fstsrv1.com CNAME .
 static.fstsrv2.com CNAME .
 static.fstsrv3.com CNAME .
+static.fstsrv4.com CNAME .
 static.fstsrv5.com CNAME .
 static.fstsrv6.com CNAME .
 static.fstsrv7.com CNAME .
@@ -754,11 +750,9 @@ win-rtb-uswest.musiciansaudience.com CNAME .
 win-rtb2-apac.catapultx.com CNAME .
 win-rtb2-apac.e-volution.ai CNAME .
 win-rtb2-apac.newchallenges-dsp.com CNAME .
-win-rtb2-apac.programmatics.net CNAME .
 win-rtb2-apac.userwave.com CNAME .
 win-rtb2-apac.xaprio.net CNAME .
 win-rtb2-eu.e-volution.ai CNAME .
-win-rtb2-eu.programmatics.net CNAME .
 win-rtb2-eu.userwave.com CNAME .
 win-rtb2-eu.webtradingspot.com CNAME .
 win-rtb2-eu.xaprio.net CNAME .
@@ -766,14 +760,12 @@ win-rtb2-useast.adsync.global CNAME .
 win-rtb2-useast.afkwa.com CNAME .
 win-rtb2-useast.assemblyexchange.com CNAME .
 win-rtb2-useast.e-volution.ai CNAME .
-win-rtb2-useast.programmatics.net CNAME .
 win-rtb2-useast.userwave.com CNAME .
 win-rtb2-useast.waardex.com CNAME .
 win-rtb2-useast.webithr.com CNAME .
 win-rtb2-useast.xaprio.net CNAME .
 win-rtb2-uswest.afkwa.com CNAME .
 win-rtb2-uswest.e-volution.ai CNAME .
-win-rtb2-uswest.programmatics.net CNAME .
 win-rtb2-uswest.userwave.com CNAME .
 win-rtb2-uswest.webtradingspot.com CNAME .
 win-rtb2-uswest.xaprio.net CNAME .
@@ -1072,7 +1064,6 @@ xml.rtbzone.com CNAME .
 xml.rtxfeed.com CNAME .
 xml.saturndynamic.pt CNAME .
 xml.sedodna.com CNAME .
-xml.serverhost1.com CNAME .
 xml.shieldcheckerservices.com CNAME .
 xml.showcasead.com CNAME .
 xml.skinkexchange.com CNAME .
@@ -1117,5 +1108,4 @@ xmlv4-eu.mobuppsrtb.com CNAME .
 xmlv4.chameleostudios.com CNAME .
 xmlv4.mobuppsrtb.com CNAME .
 xmlv4.reklama.network CNAME .
-static.fstsrv4.com CNAME .
 static.rtb-serve.com CNAME .

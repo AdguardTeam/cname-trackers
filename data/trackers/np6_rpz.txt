@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -376,6 +376,7 @@ tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
 tr.emailing.pogioclub.be CNAME .
 tr.emailing.studiocanal.com CNAME .
+tr.emailing.tvcaraibes.tv CNAME .
 tr.emailium.fr CNAME .
 tr.emc.moethennessy.com CNAME .
 tr.enedis-infos.fr CNAME .
@@ -858,6 +859,7 @@ tr.newsletter.fotodiscount.com CNAME .
 tr.newsletter.huilesdolive.fr CNAME .
 tr.newsletter.leocare.eu CNAME .
 tr.newsletter.location.boulanger.com CNAME .
+tr.newsletter.lokeo.fr CNAME .
 tr.newsletter.meilleurmobile.com CNAME .
 tr.newsletter.milleis.fr CNAME .
 tr.newsletter.mixr.net CNAME .

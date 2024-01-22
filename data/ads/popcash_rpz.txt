@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,6 +52,7 @@ cdn.fazanppq.com CNAME .
 cdn.fedsy.xyz CNAME .
 cdn.fedykr.com CNAME .
 cdn.fegivja.com CNAME .
+cdn.fexyop.com CNAME .
 cdn.fqkwn.com CNAME .
 cdn.ftwpcn.com CNAME .
 cdn.gecl.xyz CNAME .
@@ -86,6 +87,8 @@ cdn.miluwo.com CNAME .
 cdn.mnhjk.com CNAME .
 cdn.mnhjkl.com CNAME .
 cdn.mtinsqq.com CNAME .
+cdn.munilf.com CNAME .
+cdn.mwrgi.com CNAME .
 cdn.namol.xyz CNAME .
 cdn.nelhon.com CNAME .
 cdn.nlkli.com CNAME .
@@ -130,15 +133,18 @@ cdn.ugopkl.com CNAME .
 cdn.uiopkl.com CNAME .
 cdn.ulesxbo.com CNAME .
 cdn.vcxzp.com CNAME .
+cdn.vehosw.com CNAME .
 cdn.verwh.com CNAME .
 cdn.viowrel.com CNAME .
 cdn.vonkol.com CNAME .
+cdn.wurqaz.com CNAME .
 cdn.wwfx.xyz CNAME .
 cdn.xbcpcn.com CNAME .
 cdn.xipteq.com CNAME .
 cdn.xwqea.com CNAME .
 cdn.ytihp.com CNAME .
 cdn.zikpwr.com CNAME .
+cdn.zivtux.com CNAME .
 cdn.zkcvb.com CNAME .
 cdn.zxclan.com CNAME .
 4ke5b4ila.codedge.de CNAME .
@@ -253,7 +259,6 @@ bison.stuffmatic.com CNAME .
 bison.weitweit.at CNAME .
 blackbird.docstation.co CNAME .
 blackbird.everythinginmoderation.co CNAME .
-blackbird.marcelgil.com CNAME .
 blackbird.stickerclub.org CNAME .
 bluejay.edgesoftware.cloud CNAME .
 bluejay.postmediagroup.com CNAME .
@@ -273,7 +278,6 @@ bobcat.wdng-fotograf.de CNAME .
 booby.deanyeong.com CNAME .
 boom.laravel.io CNAME .
 bovid.docutize.de CNAME .
-bovid.gbefunwa.com CNAME .
 bovid.neural.love CNAME .
 bowie-cdn.fathomdns.com CNAME .
 bug.aestheticpixels.io CNAME .
@@ -687,7 +691,6 @@ leech.privacycloud.com CNAME .
 leech.stargate-project.de CNAME .
 lemming.nicolasmenard.com CNAME .
 lemming.vivian.do CNAME .
-lemur.bendaron.com CNAME .
 lemur.prinsdalpizza.no CNAME .
 leopard.davidlindahlphoto.com CNAME .
 leopard.laszlo.cloud CNAME .
@@ -932,7 +935,6 @@ rhinoceros.codeagain.com CNAME .
 rhinoceros.krieger.io CNAME .
 rhinoceros.wus.life CNAME .
 roadrunner.ausmv.com.au CNAME .
-rodent.beersport.com CNAME .
 rodent.kevindendievel.com CNAME .
 rodent.livelinor.dk CNAME .
 rook.behmann.at CNAME .
@@ -983,8 +985,6 @@ silverfish.dailybuilds.com CNAME .
 silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
 skunk.gameworkersolidarity.com CNAME .
-sloth.goodtendency.app CNAME .
-sloth.vguerrerobosch.com CNAME .
 smelt.allenpike.com CNAME .
 smelt.gautrowski.com CNAME .
 snake.kiramclean.com CNAME .
@@ -1073,7 +1073,6 @@ toad.ettiennevorster.co.za CNAME .
 tortoise.transistor.fm CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.the-faithful.com CNAME .
-toucan.wlns.io CNAME .
 treefrog.kaffeknappen.no CNAME .
 treefrog.socialmarketinggateway.co.uk CNAME .
 treefrog.tschmeisser.com CNAME .

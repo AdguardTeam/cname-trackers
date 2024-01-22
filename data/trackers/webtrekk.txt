@@ -258,6 +258,7 @@
 ||web.campaign.miriade.com^
 ||web.campaign.v73.it^
 ||web.collisionservices.com^
+||web.communications.amouage.com^
 ||web.comunicazioni.iol.it^
 ||web.crm.beps.it^
 ||web.diebayerische.de^

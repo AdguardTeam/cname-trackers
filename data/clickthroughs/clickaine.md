@@ -49,7 +49,6 @@
 | ca.infomix.best | api.clickaine.com |
 | cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
 | cc.opowiadaniaerotyczne-darmowo.com | api.clickaine.com |
-| cc.porno-rasskazy-ero.com | api.clickaine.com |
 | cc.porno-rasskazy-sex.com | api.clickaine.com |
 | cc.pornorasskazy-xxx.com | api.clickaine.com |
 | cc.raccontierotici-club.com | api.clickaine.com |

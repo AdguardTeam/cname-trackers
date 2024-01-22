@@ -349,7 +349,6 @@
 | a8.uchideno-kozuchi.com | trck.a8.net |
 | a8.uluwatutiger.com | trck.a8.net |
 | a8.unicoffee.tech | trck.a8.net |
-| a8.uridoki.net | trck.a8.net |
 | a8.uzuz-college.jp | trck.a8.net |
 | a8.vector-park.jp | trck.a8.net |
 | a8.vie-magique.com | trck.a8.net |
@@ -1426,6 +1425,7 @@
 | clk.liberty-e.com | trck.a8.net |
 | clk.wagon-hire.com | trck.a8.net |
 | clkcv.biglobehikari-kaisen.com | trck.a8.net |
+| clkcv.livede55.com | trck.a8.net |
 | contact.kdg-yobi.com | trck.a8.net |
 | cosme.caseepo.jp | trck.a8.net |
 | cp.cp.twendee.jp | trck.a8.net |

@@ -131,7 +131,6 @@ beeline.beeline-tire.co.jp
 campaign-direct.eisai.jp
 campaign-direct.ketsuatsu-taisaku.xyz
 campaign-direct.kouketsuatsu-health.xyz
-campaign-direct.supplement-news.net
 ccc.aqualink.tokyo
 cmass.massmedian.co.jp
 cname-ade.gom-in.com
@@ -210,6 +209,7 @@ ebis.j-l-m.co.jp
 ebis.jinzai-business.com
 ebis.jobcan.jp
 ebis.jobcan.ne.jp
+ebis.jojoble.jp
 ebis.jukkou.com
 ebis.kan54.jp
 ebis.kimonoichiba.com
@@ -264,6 +264,7 @@ ebisfracora.fracora.com
 ebisstore.tamagokichi.com
 ebistoppan1.kyowahakko-bio-campaign-1.com
 emc.dr-stick.shop
+frontierconsul02.tsunagaru-office.com
 greenjapan-cname.green-japan.com
 hokkaidobank.rapi.jp
 isebis.takamiclinic.or.jp

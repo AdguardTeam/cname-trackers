@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -39,6 +39,7 @@ apicorporativops.portoseguro.com.br CNAME .
 app.uob.com.sg CNAME .
 app392.gerberlife.com CNAME .
 applicant.rbfcu.org CNAME .
+apps.shift.com.au CNAME .
 appschk.scotiabank.com CNAME .
 appscore.credilike.me CNAME .
 asanalytics.booking.com CNAME .
@@ -761,6 +762,7 @@ sptbb.pilates.com CNAME .
 src.ebay-us.com CNAME .
 src0.myvoffice.com CNAME .
 srv.squaretrade.com CNAME .
+srv.squaretrade.com.au CNAME .
 ssafp.samsclub.com CNAME .
 st10.sofi.com CNAME .
 stat.bluorbank.lv CNAME .

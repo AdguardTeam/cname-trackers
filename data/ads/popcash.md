@@ -174,7 +174,6 @@
 | bison.weitweit.at | deprecated-custom-domains.b-cdn.net |
 | blackbird.docstation.co | deprecated-custom-domains.b-cdn.net |
 | blackbird.everythinginmoderation.co | deprecated-custom-domains.b-cdn.net |
-| blackbird.marcelgil.com | deprecated-custom-domains.b-cdn.net |
 | blackbird.stickerclub.org | deprecated-custom-domains.b-cdn.net |
 | bluejay.edgesoftware.cloud | deprecated-custom-domains.b-cdn.net |
 | bluejay.postmediagroup.com | deprecated-custom-domains.b-cdn.net |
@@ -194,7 +193,6 @@
 | booby.deanyeong.com | deprecated-custom-domains.b-cdn.net |
 | boom.laravel.io | deprecated-custom-domains.b-cdn.net |
 | bovid.docutize.de | deprecated-custom-domains.b-cdn.net |
-| bovid.gbefunwa.com | deprecated-custom-domains.b-cdn.net |
 | bovid.neural.love | deprecated-custom-domains.b-cdn.net |
 | bowie-cdn.fathomdns.com | deprecated-custom-domains.b-cdn.net |
 | bug.aestheticpixels.io | deprecated-custom-domains.b-cdn.net |
@@ -608,7 +606,6 @@
 | leech.stargate-project.de | deprecated-custom-domains.b-cdn.net |
 | lemming.nicolasmenard.com | deprecated-custom-domains.b-cdn.net |
 | lemming.vivian.do | deprecated-custom-domains.b-cdn.net |
-| lemur.bendaron.com | deprecated-custom-domains.b-cdn.net |
 | lemur.prinsdalpizza.no | deprecated-custom-domains.b-cdn.net |
 | leopard.davidlindahlphoto.com | deprecated-custom-domains.b-cdn.net |
 | leopard.laszlo.cloud | deprecated-custom-domains.b-cdn.net |
@@ -853,7 +850,6 @@
 | rhinoceros.krieger.io | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.wus.life | deprecated-custom-domains.b-cdn.net |
 | roadrunner.ausmv.com.au | deprecated-custom-domains.b-cdn.net |
-| rodent.beersport.com | deprecated-custom-domains.b-cdn.net |
 | rodent.kevindendievel.com | deprecated-custom-domains.b-cdn.net |
 | rodent.livelinor.dk | deprecated-custom-domains.b-cdn.net |
 | rook.behmann.at | deprecated-custom-domains.b-cdn.net |
@@ -904,8 +900,6 @@
 | silverfish.djordjevanjek.com | deprecated-custom-domains.b-cdn.net |
 | skink.asorman.io | deprecated-custom-domains.b-cdn.net |
 | skunk.gameworkersolidarity.com | deprecated-custom-domains.b-cdn.net |
-| sloth.goodtendency.app | deprecated-custom-domains.b-cdn.net |
-| sloth.vguerrerobosch.com | deprecated-custom-domains.b-cdn.net |
 | smelt.allenpike.com | deprecated-custom-domains.b-cdn.net |
 | smelt.gautrowski.com | deprecated-custom-domains.b-cdn.net |
 | snake.kiramclean.com | deprecated-custom-domains.b-cdn.net |
@@ -994,7 +988,6 @@
 | tortoise.transistor.fm | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
-| toucan.wlns.io | deprecated-custom-domains.b-cdn.net |
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
 | treefrog.socialmarketinggateway.co.uk | deprecated-custom-domains.b-cdn.net |
 | treefrog.tschmeisser.com | deprecated-custom-domains.b-cdn.net |
@@ -1121,6 +1114,7 @@
 | cdn.fedsy.xyz | popcashjs.b-cdn.net |
 | cdn.fedykr.com | popcashjs.b-cdn.net |
 | cdn.fegivja.com | popcashjs.b-cdn.net |
+| cdn.fexyop.com | popcashjs.b-cdn.net |
 | cdn.fqkwn.com | popcashjs.b-cdn.net |
 | cdn.ftwpcn.com | popcashjs.b-cdn.net |
 | cdn.gecl.xyz | popcashjs.b-cdn.net |
@@ -1155,6 +1149,8 @@
 | cdn.mnhjk.com | popcashjs.b-cdn.net |
 | cdn.mnhjkl.com | popcashjs.b-cdn.net |
 | cdn.mtinsqq.com | popcashjs.b-cdn.net |
+| cdn.munilf.com | popcashjs.b-cdn.net |
+| cdn.mwrgi.com | popcashjs.b-cdn.net |
 | cdn.namol.xyz | popcashjs.b-cdn.net |
 | cdn.nelhon.com | popcashjs.b-cdn.net |
 | cdn.nlkli.com | popcashjs.b-cdn.net |
@@ -1199,15 +1195,18 @@
 | cdn.uiopkl.com | popcashjs.b-cdn.net |
 | cdn.ulesxbo.com | popcashjs.b-cdn.net |
 | cdn.vcxzp.com | popcashjs.b-cdn.net |
+| cdn.vehosw.com | popcashjs.b-cdn.net |
 | cdn.verwh.com | popcashjs.b-cdn.net |
 | cdn.viowrel.com | popcashjs.b-cdn.net |
 | cdn.vonkol.com | popcashjs.b-cdn.net |
+| cdn.wurqaz.com | popcashjs.b-cdn.net |
 | cdn.wwfx.xyz | popcashjs.b-cdn.net |
 | cdn.xbcpcn.com | popcashjs.b-cdn.net |
 | cdn.xipteq.com | popcashjs.b-cdn.net |
 | cdn.xwqea.com | popcashjs.b-cdn.net |
 | cdn.ytihp.com | popcashjs.b-cdn.net |
 | cdn.zikpwr.com | popcashjs.b-cdn.net |
+| cdn.zivtux.com | popcashjs.b-cdn.net |
 | cdn.zkcvb.com | popcashjs.b-cdn.net |
 | cdn.zxclan.com | popcashjs.b-cdn.net |
 | cdn.shrtfly.vip | popupads.b-cdn.net |

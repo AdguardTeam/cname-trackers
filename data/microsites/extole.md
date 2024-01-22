@@ -251,6 +251,7 @@
     * discover-bank.extole.io
     * discover-student-loan.extole.io
     * dolls-kill.extole.io
+    * drunkelephant.extole.io
     * ds-laboratories.extole.io
     * dutch.extole.io
     * ea.extole.io
@@ -757,6 +758,7 @@
 | refer.divvybikes.com | divvybikes.extole.com |
 | refer.dnj.com | dnj.extole.com |
 | refer1.dollskill.com | dolls-kill.extole.io |
+| referral.drunkelephant.com | drunkelephant.extole.io |
 | share.dslaboratories.com | ds-laboratories.extole.io |
 | share.dutch.com | dutch.extole.io |
 | refer.ea.com | ea.extole.io |

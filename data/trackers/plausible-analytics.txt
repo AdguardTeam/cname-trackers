@@ -142,7 +142,6 @@
 ||p.classroombookings.com^
 ||p.ejs.dev^
 ||p.fairspot.host^
-||p.ianmjones.com^
 ||p.iforge.app^
 ||p.logbox.io^
 ||p.marqueplace.com^
@@ -391,11 +390,9 @@
 ||stats.balticgruppen.se^
 ||stats.bananatimer.com^
 ||stats.bcdtravel.com^
-||stats.beamd.io^
 ||stats.beanr.coffee^
 ||stats.beatricew.com^
 ||stats.beausimensen.com^
-||stats.beautility.makerkits.co^
 ||stats.belic.si^
 ||stats.benui.ca^
 ||stats.bernardobordadagua.com^
@@ -536,7 +533,6 @@
 ||stats.faluninfo.si^
 ||stats.fantinel.dev^
 ||stats.fastbackward.app^
-||stats.feathercss.makerkits.co^
 ||stats.felipesere.com^
 ||stats.femtobill.com^
 ||stats.ferienwohnung-dombrowski.com^
@@ -722,7 +718,6 @@
 ||stats.newslit.co^
 ||stats.nexagon.dk^
 ||stats.nodewood.com^
-||stats.nomad.radio^
 ||stats.nonprofit.foundation^
 ||stats.nothingbutnylon.com^
 ||stats.nullsecure.com^
@@ -928,7 +923,6 @@
 ||stats.voltamediahouse.com^
 ||stats.voltimum.com^
 ||stats.wachstum.at^
-||stats.wafflemeido.art^
 ||stats.walkiees.co.uk^
 ||stats.websnap.app^
 ||stats.wecodeni.com^
@@ -981,4 +975,5 @@
 ||webstats.bijenpatel.com^
 ||yolo.philipbjorge.com^
 ||zahlen.olereissmann.de^
+||p.ianmjones.com^
 ||stats.citizenos.com^

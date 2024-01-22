@@ -124,7 +124,6 @@
     * 5dec3cb3-day5axk4.cname.ebis.ne.jp
     * 5e958d74-ugbtnbbz.cname.ebis.ne.jp
     * 60222f89-dui9p9au.cname.ebis.ne.jp
-    * 6053f044-y4rfthkp.cname.ebis.ne.jp
     * 608975dd-6hbgpszs.cname.ebis.ne.jp
     * 60975a62-6pusefyf.cname.ebis.ne.jp
     * 61ee329f-zslwnuid.cname.ebis.ne.jp
@@ -280,6 +279,7 @@
     * de8331b9-pmffblvq.cname.ebis.ne.jp
     * de8820de-fgpe2gow.cname.ebis.ne.jp
     * dfd1c48f-kdknv6tt.cname.ebis.ne.jp
+    * e050f08a-pc93j6qv.cname.ebis.ne.jp
     * e1e0a549-rq6mpz3n.cname.ebis.ne.jp
     * e2d9b43b-hutbyrck.cname.ebis.ne.jp
     * e4261920-sca9scbo.cname.ebis.ne.jp
@@ -307,6 +307,7 @@
     * fc192e57-yfrcguru.cname.ebis.ne.jp
     * fc83fd61-digitalgarage.cname.ebis.ne.jp
     * fe1d7165-mmpoiy89.cname.ebis.ne.jp
+    * fe61b464-rbrunfde.cname.ebis.ne.jp
     * fff23fcf-xwlqprjb.cname.ebis.ne.jp
 
 ## Cloaking domains
@@ -434,7 +435,6 @@
 | ebis.re-shop.jp | 5dec3cb3-day5axk4.cname.ebis.ne.jp |
 | ac-3.mix.tokyo | 5e958d74-ugbtnbbz.cname.ebis.ne.jp |
 | ad.autorace.jp | 60222f89-dui9p9au.cname.ebis.ne.jp |
-| campaign-direct.supplement-news.net | 6053f044-y4rfthkp.cname.ebis.ne.jp |
 | ebis.sekisuihouse.co.jp | 608975dd-6hbgpszs.cname.ebis.ne.jp |
 | ebis-tracking.shinyokohama-beauty.com | 60975a62-6pusefyf.cname.ebis.ne.jp |
 | adebis.no.01.alo-organic.com | 61ee329f-zslwnuid.cname.ebis.ne.jp |
@@ -590,6 +590,7 @@
 | adebis.hotstaff.co.jp | de8331b9-pmffblvq.cname.ebis.ne.jp |
 | adex.predear.com | de8820de-fgpe2gow.cname.ebis.ne.jp |
 | cname1.shakenkan.co.jp | dfd1c48f-kdknv6tt.cname.ebis.ne.jp |
+| frontierconsul02.tsunagaru-office.com | e050f08a-pc93j6qv.cname.ebis.ne.jp |
 | adebis.ahjikan-shop.com | e1e0a549-rq6mpz3n.cname.ebis.ne.jp |
 | ebis.sbismile.co.jp | e2d9b43b-hutbyrck.cname.ebis.ne.jp |
 | adebisu.fairy-contact.jp | e4261920-sca9scbo.cname.ebis.ne.jp |
@@ -617,4 +618,5 @@
 | ebis.funai-finance.com | fc192e57-yfrcguru.cname.ebis.ne.jp |
 | adebis.lifestylemag.jp | fc83fd61-digitalgarage.cname.ebis.ne.jp |
 | axjfkc.kobayashi.co.jp | fe1d7165-mmpoiy89.cname.ebis.ne.jp |
+| ebis.jojoble.jp | fe61b464-rbrunfde.cname.ebis.ne.jp |
 | ebis.touhan-navi.com | fff23fcf-xwlqprjb.cname.ebis.ne.jp |

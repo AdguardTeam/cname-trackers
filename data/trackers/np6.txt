@@ -365,6 +365,7 @@
 ||tr.emailing.grassavoye.com^
 ||tr.emailing.pogioclub.be^
 ||tr.emailing.studiocanal.com^
+||tr.emailing.tvcaraibes.tv^
 ||tr.emailium.fr^
 ||tr.emc.moethennessy.com^
 ||tr.enedis-infos.fr^
@@ -847,6 +848,7 @@
 ||tr.newsletter.huilesdolive.fr^
 ||tr.newsletter.leocare.eu^
 ||tr.newsletter.location.boulanger.com^
+||tr.newsletter.lokeo.fr^
 ||tr.newsletter.meilleurmobile.com^
 ||tr.newsletter.milleis.fr^
 ||tr.newsletter.mixr.net^

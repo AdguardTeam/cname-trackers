@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -527,7 +527,6 @@ partner.expresmenu.cz CNAME .
 partner.expresmenu.pl CNAME .
 partner.expresmenu.sk CNAME .
 partner.fabulo.sk CNAME .
-partner.fermato.cz CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
 partner.forexrebel.net CNAME .
@@ -536,6 +535,7 @@ partner.giulieta.shop CNAME .
 partner.goelite.club CNAME .
 partner.gokids.cz CNAME .
 partner.granule-eshop.cz CNAME .
+partner.greenbeast.vip CNAME .
 partner.gurufinance.cz CNAME .
 partner.hanamoneam.com CNAME .
 partner.hegesztok-bolt.hu CNAME .
@@ -700,6 +700,7 @@ partner.webareal.sk CNAME .
 partner.webovkysusmevem.cz CNAME .
 partner.webrebel.sk CNAME .
 partner.webskicak.cz CNAME .
+partner.wellmall.cz CNAME .
 partner.whoopdedoo.cz CNAME .
 partner.whoopdedoo.love CNAME .
 partner.whoopdedoo.me CNAME .
@@ -844,7 +845,6 @@ partneri.vseprobeh.cz CNAME .
 partneri.vyzvaproimunitu.cz CNAME .
 partneri.way4life.cz CNAME .
 partneri.webmeeting.cz CNAME .
-partneri.webovac.sk CNAME .
 partneri.worldee.com CNAME .
 partneri.yoggspiration.cz CNAME .
 partneri.zaprovizi.cz CNAME .
@@ -863,7 +863,6 @@ partners.quantexpo.com CNAME .
 partners.rebelsfunding.com CNAME .
 partners.spiritradar.com CNAME .
 plus.mameradivlasy.cz CNAME .
-prodej.kyselove.cz CNAME .
 program.biocitia.eu CNAME .
 promo.smskouc.cz CNAME .
 provize.3dfitness.cz CNAME .
@@ -899,6 +898,7 @@ spoluprace.luxusnipradlo.cz CNAME .
 spoluprace.m-soft.cz CNAME .
 spoluprace.majka-shop.cz CNAME .
 spoluprace.mentorkalucie.cz CNAME .
+spoluprace.nordictelecom.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .
 spoluprace.potravinyarax.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .

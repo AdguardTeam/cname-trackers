@@ -28,6 +28,7 @@ apicorporativops.portoseguro.com.br
 app.uob.com.sg
 app392.gerberlife.com
 applicant.rbfcu.org
+apps.shift.com.au
 appschk.scotiabank.com
 appscore.credilike.me
 asanalytics.booking.com
@@ -750,6 +751,7 @@ sptbb.pilates.com
 src.ebay-us.com
 src0.myvoffice.com
 srv.squaretrade.com
+srv.squaretrade.com.au
 ssafp.samsclub.com
 st10.sofi.com
 stat.bluorbank.lv

@@ -79,6 +79,7 @@
     * h-72wrr4p1.online-metrix.net
     * h-748xxcci.online-metrix.net
     * h-76ussz09.online-metrix.net
+    * h-7aid6tml.online-metrix.net
     * h-7bugohi5.online-metrix.net
     * h-7hs48cp7.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
@@ -847,6 +848,7 @@
 | rba.infinitium.com | h-72wrr4p1.online-metrix.net |
 | analytics.vodafone.com.au | h-748xxcci.online-metrix.net |
 | analyze.central1.cc | h-76ussz09.online-metrix.net |
+| apps.shift.com.au | h-7aid6tml.online-metrix.net |
 | r.hokodo.co | h-7bugohi5.online-metrix.net |
 | ex.exnessstats.com | h-7hs48cp7.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
@@ -954,6 +956,7 @@
 | tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |
 | content.vi.gov | h-b4bq7y80.online-metrix.net |
 | srv.squaretrade.com | h-b6te0xmf.online-metrix.net |
+| srv.squaretrade.com.au | h-b6te0xmf.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
 | content.bank-abc.com | h-ban3nmwg.online-metrix.net |

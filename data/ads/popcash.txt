@@ -41,6 +41,7 @@
 ||cdn.fedsy.xyz^
 ||cdn.fedykr.com^
 ||cdn.fegivja.com^
+||cdn.fexyop.com^
 ||cdn.fqkwn.com^
 ||cdn.ftwpcn.com^
 ||cdn.gecl.xyz^
@@ -75,6 +76,8 @@
 ||cdn.mnhjk.com^
 ||cdn.mnhjkl.com^
 ||cdn.mtinsqq.com^
+||cdn.munilf.com^
+||cdn.mwrgi.com^
 ||cdn.namol.xyz^
 ||cdn.nelhon.com^
 ||cdn.nlkli.com^
@@ -119,15 +122,18 @@
 ||cdn.uiopkl.com^
 ||cdn.ulesxbo.com^
 ||cdn.vcxzp.com^
+||cdn.vehosw.com^
 ||cdn.verwh.com^
 ||cdn.viowrel.com^
 ||cdn.vonkol.com^
+||cdn.wurqaz.com^
 ||cdn.wwfx.xyz^
 ||cdn.xbcpcn.com^
 ||cdn.xipteq.com^
 ||cdn.xwqea.com^
 ||cdn.ytihp.com^
 ||cdn.zikpwr.com^
+||cdn.zivtux.com^
 ||cdn.zkcvb.com^
 ||cdn.zxclan.com^
 ||4ke5b4ila.codedge.de^
@@ -242,7 +248,6 @@
 ||bison.weitweit.at^
 ||blackbird.docstation.co^
 ||blackbird.everythinginmoderation.co^
-||blackbird.marcelgil.com^
 ||blackbird.stickerclub.org^
 ||bluejay.edgesoftware.cloud^
 ||bluejay.postmediagroup.com^
@@ -262,7 +267,6 @@
 ||booby.deanyeong.com^
 ||boom.laravel.io^
 ||bovid.docutize.de^
-||bovid.gbefunwa.com^
 ||bovid.neural.love^
 ||bowie-cdn.fathomdns.com^
 ||bug.aestheticpixels.io^
@@ -676,7 +680,6 @@
 ||leech.stargate-project.de^
 ||lemming.nicolasmenard.com^
 ||lemming.vivian.do^
-||lemur.bendaron.com^
 ||lemur.prinsdalpizza.no^
 ||leopard.davidlindahlphoto.com^
 ||leopard.laszlo.cloud^
@@ -921,7 +924,6 @@
 ||rhinoceros.krieger.io^
 ||rhinoceros.wus.life^
 ||roadrunner.ausmv.com.au^
-||rodent.beersport.com^
 ||rodent.kevindendievel.com^
 ||rodent.livelinor.dk^
 ||rook.behmann.at^
@@ -972,8 +974,6 @@
 ||silverfish.djordjevanjek.com^
 ||skink.asorman.io^
 ||skunk.gameworkersolidarity.com^
-||sloth.goodtendency.app^
-||sloth.vguerrerobosch.com^
 ||smelt.allenpike.com^
 ||smelt.gautrowski.com^
 ||snake.kiramclean.com^
@@ -1062,7 +1062,6 @@
 ||tortoise.transistor.fm^
 ||toucan.ateliermilky.com^
 ||toucan.the-faithful.com^
-||toucan.wlns.io^
 ||treefrog.kaffeknappen.no^
 ||treefrog.socialmarketinggateway.co.uk^
 ||treefrog.tschmeisser.com^

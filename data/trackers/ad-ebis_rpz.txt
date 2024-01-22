@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -142,7 +142,6 @@ beeline.beeline-tire.co.jp CNAME .
 campaign-direct.eisai.jp CNAME .
 campaign-direct.ketsuatsu-taisaku.xyz CNAME .
 campaign-direct.kouketsuatsu-health.xyz CNAME .
-campaign-direct.supplement-news.net CNAME .
 ccc.aqualink.tokyo CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.gom-in.com CNAME .
@@ -221,6 +220,7 @@ ebis.j-l-m.co.jp CNAME .
 ebis.jinzai-business.com CNAME .
 ebis.jobcan.jp CNAME .
 ebis.jobcan.ne.jp CNAME .
+ebis.jojoble.jp CNAME .
 ebis.jukkou.com CNAME .
 ebis.kan54.jp CNAME .
 ebis.kimonoichiba.com CNAME .
@@ -275,6 +275,7 @@ ebisfracora.fracora.com CNAME .
 ebisstore.tamagokichi.com CNAME .
 ebistoppan1.kyowahakko-bio-campaign-1.com CNAME .
 emc.dr-stick.shop CNAME .
+frontierconsul02.tsunagaru-office.com CNAME .
 greenjapan-cname.green-japan.com CNAME .
 hokkaidobank.rapi.jp CNAME .
 isebis.takamiclinic.or.jp CNAME .

@@ -6,6 +6,7 @@
 
 ### Rarely active trackers
 
+* ianmjones.com
 * plausible.io
 
 ## Cloaking domains
@@ -154,7 +155,6 @@
 | p.classroombookings.com | custom.plausible.io |
 | p.ejs.dev | custom.plausible.io |
 | p.fairspot.host | custom.plausible.io |
-| p.ianmjones.com | custom.plausible.io |
 | p.iforge.app | custom.plausible.io |
 | p.logbox.io | custom.plausible.io |
 | p.marqueplace.com | custom.plausible.io |
@@ -403,11 +403,9 @@
 | stats.balticgruppen.se | custom.plausible.io |
 | stats.bananatimer.com | custom.plausible.io |
 | stats.bcdtravel.com | custom.plausible.io |
-| stats.beamd.io | custom.plausible.io |
 | stats.beanr.coffee | custom.plausible.io |
 | stats.beatricew.com | custom.plausible.io |
 | stats.beausimensen.com | custom.plausible.io |
-| stats.beautility.makerkits.co | custom.plausible.io |
 | stats.belic.si | custom.plausible.io |
 | stats.benui.ca | custom.plausible.io |
 | stats.bernardobordadagua.com | custom.plausible.io |
@@ -548,7 +546,6 @@
 | stats.faluninfo.si | custom.plausible.io |
 | stats.fantinel.dev | custom.plausible.io |
 | stats.fastbackward.app | custom.plausible.io |
-| stats.feathercss.makerkits.co | custom.plausible.io |
 | stats.felipesere.com | custom.plausible.io |
 | stats.femtobill.com | custom.plausible.io |
 | stats.ferienwohnung-dombrowski.com | custom.plausible.io |
@@ -734,7 +731,6 @@
 | stats.newslit.co | custom.plausible.io |
 | stats.nexagon.dk | custom.plausible.io |
 | stats.nodewood.com | custom.plausible.io |
-| stats.nomad.radio | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
 | stats.nothingbutnylon.com | custom.plausible.io |
 | stats.nullsecure.com | custom.plausible.io |
@@ -940,7 +936,6 @@
 | stats.voltamediahouse.com | custom.plausible.io |
 | stats.voltimum.com | custom.plausible.io |
 | stats.wachstum.at | custom.plausible.io |
-| stats.wafflemeido.art | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
 | stats.websnap.app | custom.plausible.io |
 | stats.wecodeni.com | custom.plausible.io |
@@ -993,4 +988,5 @@
 | webstats.bijenpatel.com | custom.plausible.io |
 | yolo.philipbjorge.com | custom.plausible.io |
 | zahlen.olereissmann.de | custom.plausible.io |
+| p.ianmjones.com | ianmjones.com |
 | stats.citizenos.com | plausible.io |

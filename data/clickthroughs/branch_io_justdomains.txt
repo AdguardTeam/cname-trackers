@@ -64,9 +64,9 @@ ablink.account.zip.co
 ablink.activation.depop.com
 ablink.ae.linktr.ee
 ablink.alerts.forhers.com
+ablink.alerts.max.com
 ablink.alerts.steadyapp.com
 ablink.arch.sofi.org
-ablink.autoconfirm.grassdoor.com
 ablink.c.grubhub.com
 ablink.care.sanvello.com
 ablink.click.depop.com
@@ -138,6 +138,7 @@ ablink.mail.winwinsave.com
 ablink.mail1.iheart.com
 ablink.marketing.adobemailing.com
 ablink.marketing.li.me
+ablink.marketing.max.com
 ablink.marketing.motortrend.com
 ablink.marketing.onxmaps.com
 ablink.media.10play.com.au
@@ -149,7 +150,6 @@ ablink.news.felixmobile.com.au
 ablink.news.forhers.com
 ablink.news.gooseinsurance.com
 ablink.news.kfc.co.za
-ablink.news.lowellfarms.direct
 ablink.newsletters1.motortrend.com
 ablink.newsletters2.motortrend.com
 ablink.notice.hoopladigital.com
@@ -160,7 +160,6 @@ ablink.notify.pray.com
 ablink.nz-edm.zip.co
 ablink.o.sofi.org
 ablink.offers.checkout51.com
-ablink.offers.grassdoor.com
 ablink.offroad-marketing.onxmaps.com
 ablink.p.radio.com
 ablink.pomelo.fashion
@@ -766,7 +765,6 @@ monster.branch.rocks
 mx.carfax.com
 notice.hoopladigital.com
 notify.pray.com
-offers.grassdoor.com
 pbm-email.rightwayhealthcare.com
 pint-dev-branch.airship.com
 promo.tops.co.th
@@ -880,6 +878,7 @@ url6035.clay-sendgrid-test.branch.rocks
 url6143.branch.rocks
 url6146.bastien.tantawy.app
 url644.promo.tops.co.th
+url6514.affirm.com
 url6633.ana.tantawy.app
 url6933.email.marcon.au
 url7061.support.1dental.com
@@ -1033,13 +1032,11 @@ app.autotrader.com.au
 app.avopass.com
 app.awto.cl
 app.awto.com.br
-app.ayazona.com
 app.babycloud.in
 app.bajajfinservmarkets.in
 app.ballet.org.uk
 app.bancobv.com.br
 app.banqi.com.br
-app.bareface.agency
 app.barking.city
 app.barking.ee
 app.bateriasparacarrosbogota.com
@@ -1478,14 +1475,12 @@ apps.circle.com
 apps.crib.in
 apps.daxko-qa.com
 apps.daxko.com
-apps.dev.zingeroo.com
 apps.ding.jobs
 apps.e-butler.com
 apps.jeffgalloway.com
 apps.myprepaidcenter.com
 apps.shakaguide.com
 apps.spectrum-member.com
-apps.staging.zingeroo.com
 apps.uquote.io
 apps.weekendgowhere.sg
 apps.zingeroo.com
@@ -1675,7 +1670,6 @@ branch.wellsitenavigator.com
 branch.whatsnxt.app
 branch2.udl.io
 branchcust.zulln.se
-branchio.foxplay.com
 branchio.rsvp.com.au
 branchio.services.evaneos.com
 branchio.taxibeat.com
@@ -2010,7 +2004,6 @@ do.exaai.chat
 do.usefireside.com
 domino.flycl.ps
 download-staging.planify.io
-download.ayazona.com
 download.backpackergame.com
 download.bonnti.com
 download.coinseed.co
@@ -2060,6 +2053,7 @@ elgreco.openapp.link
 email.happ.social
 emails.app.allcal.com
 emb.soothe.com
+emsexam.quantresear.ch
 encuestas.billeteramango.com
 enroll.workforcewellness.com
 epoisejobs.epoise.com
@@ -2163,6 +2157,7 @@ get.instalocum.com
 get.jan.ai
 get.jaranda.kr
 get.kabbee.com
+get.layer.com
 get.livekick.com
 get.loanzify.com
 get.lookout.com
@@ -2338,6 +2333,7 @@ go.flipauto.com
 go.flipfit.com
 go.flyreel.co
 go.france.innovatedating.com
+go.freach.ly
 go.freework.com
 go.frescofrigo.app
 go.frip.kr
@@ -2457,7 +2453,6 @@ go.rakuten.com
 go.rate.sh
 go.ratengoods.com
 go.real.co
-go.rever.co
 go.russia.innovatedating.com
 go.rzr.to
 go.saudiarabia.innovatedating.com
@@ -2648,7 +2643,6 @@ invite.juke.ly
 invite.openhouse.study
 invite.paltalk.net
 invite.piceapp.com
-invite.playrush.com
 invite.ritual.co
 invite.sadapay.pk
 invite.supersonic.run
@@ -2687,6 +2681,7 @@ join.hu-manity.co
 join.hypercare.com
 join.kloaked.app
 join.lapse.app
+join.listmakerapp.com
 join.motion-app.com
 join.newtrina.com
 join.our-story.co
@@ -2696,6 +2691,7 @@ join.qa.fitgrid.com
 join.reakt.to
 join.schmooze.tech
 join.sizl.com
+join.slickapp.co
 join.spur.io
 join.staging.spur.io
 join.step.com
@@ -2779,6 +2775,7 @@ launch.aella.app
 launch.meetsaturn.com
 launch.vypr.it
 ldv.midoplay.com
+leak.welnes.online
 learn.infinitylearn.com
 learn.mywallst.app
 learn.rubicoin.com
@@ -2965,7 +2962,6 @@ link.finnomena.com
 link.fitforbucks.com
 link.fjuul.com
 link.flickplay.co
-link.flowerapp.com
 link.fn365.co.uk
 link.foodgroup.com
 link.foodi.fr
@@ -3316,7 +3312,6 @@ link.yesorno.bet
 link.yoodo.com.my
 link.youpickit.de
 link.your.storage
-link.yttra.com
 link.yuu.sg
 link.zikto.com
 link.zipsit.com
@@ -3444,7 +3439,6 @@ linkvet.insights.md
 linkvetdev.insights.md
 listen.trakks.com
 listen.tunein.com
-live.onamp.com
 lk.parisfoodies.fr
 lk.vrstories.com
 lm.groc.press
@@ -3692,6 +3686,7 @@ pergeroni.openapp.link
 pf.a23.in
 phlebotomyexam.quantresear.ch
 phoenix.thexlife.co
+phonetrack.hukumkaikka.in
 pirateclan-alternate.kano.link
 pirateclan.kano.link
 pirounakia.openapp.link
@@ -3781,6 +3776,7 @@ randstadtest.epoise.com
 rb.groc.press
 read.meistercody.com
 redditstream.arborapps.io
+redirect.cuballama.com
 redirect.indacar.io
 redirect.kataklop.com
 redirectdemoqpay.2c2p.com
@@ -3875,7 +3871,6 @@ share-local.sparemin.com
 share-staging.perchwell.com
 share-stg1.sparemin.com
 share-test.goswaggle.com
-share-test.hnow.io
 share-test.tessie.com
 share-test.travelloapp.com
 share-test.usehamper.com
@@ -4019,6 +4014,7 @@ staging-c.vcty.co
 staging-go.getsquire.com
 staging-link-ccontact.focuscura.com
 staging-link.docyt.com
+staging-link.kol.store
 staging-links.thriveglobal.com
 staging-refer.rooam.co
 staging.findeck.link

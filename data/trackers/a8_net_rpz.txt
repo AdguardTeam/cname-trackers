@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705305616287        ; Serial
+           1705910416505        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -347,7 +347,6 @@ a8.uchi-iwai.net CNAME .
 a8.uchideno-kozuchi.com CNAME .
 a8.uluwatutiger.com CNAME .
 a8.unicoffee.tech CNAME .
-a8.uridoki.net CNAME .
 a8.uzuz-college.jp CNAME .
 a8.vector-park.jp CNAME .
 a8.vie-magique.com CNAME .
@@ -1425,6 +1424,7 @@ clk.ingage.jp CNAME .
 clk.liberty-e.com CNAME .
 clk.wagon-hire.com CNAME .
 clkcv.biglobehikari-kaisen.com CNAME .
+clkcv.livede55.com CNAME .
 contact.kdg-yobi.com CNAME .
 cosme.caseepo.jp CNAME .
 cp.cp.twendee.jp CNAME .
