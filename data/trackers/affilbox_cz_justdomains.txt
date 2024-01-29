@@ -13,7 +13,6 @@ affi.nostressmama.cz
 affi.veronikahronkova.cz
 affil.alkohol.cz
 affil.atan.cz
-affil.autonaklik.cz
 affil.avenatura.sk
 affil.bitdef.cz
 affil.blaire.cz
@@ -80,7 +79,6 @@ affil.zdravetricko.cz
 affil.zenskecykly.cz
 affilate.sklep38.cz
 affilbox.25hodin.cz
-affilbox.aliveplatform.com
 affilbox.andreashop.sk
 affilbox.delibarry.com
 affilbox.gurufinance.cz
@@ -188,6 +186,7 @@ affiliate.levsalonu.cz
 affiliate.lg-store.cz
 affiliate.licit.cz
 affiliate.loveo.cz
+affiliate.luxor.cz
 affiliate.manvel.cz
 affiliate.martinreznicek.cz
 affiliate.milagro.cz
@@ -295,6 +294,7 @@ hcbox.mironet.cz
 hcbox.tesla-electronics.eu
 hcbox.tlamka.cz
 hcbox.verapostele.sk
+hcbox1.warriorboat.sk
 isic.dentalweb.cz
 isic.kopirkaostrava.cz
 isicpartner.mamechut.cz
@@ -523,7 +523,6 @@ partner.generatorvodiku.cz
 partner.giulieta.shop
 partner.goelite.club
 partner.gokids.cz
-partner.granule-eshop.cz
 partner.greenbeast.vip
 partner.gurufinance.cz
 partner.hanamoneam.com
@@ -748,6 +747,7 @@ partneri.fitstore.cz
 partneri.frcime.cz
 partneri.gigamat.cz
 partneri.givt.cz
+partneri.goaffiliate.cz
 partneri.heavytamper.cz
 partneri.hopsaj.sk
 partneri.incacollagen.eu
@@ -823,6 +823,7 @@ partneri.tradicne-feng-shui.sk
 partneri.trenink-vyjednavani.cz
 partneri.trollbeads.cz
 partneri.trollbeadscz.com
+partneri.umenibytzdrav.cz
 partneri.umenijazyku.cz
 partneri.variantbyznys.cz
 partneri.vashop.cz

@@ -553,6 +553,7 @@
 ||3572283.notifysrv.com^
 ||3572285.notifysrv.com^
 ||3572293.notifysrv.com^
+||3572299.notify6.com^
 ||3572299.notifysrv.com^
 ||3572303.notifysrv.com^
 ||3572904.notifysrv.com^
@@ -769,6 +770,7 @@
 ||3973252.notify6.com^
 ||3975710.notify6.com^
 ||3979160.notify6.com^
+||3981022.notify6.com^
 ||3982708.notify6.com^
 ||3984926.notify6.com^
 ||3989692.notify6.com^
@@ -861,6 +863,7 @@
 ||4231374.notify6.com^
 ||4241052.notify6.com^
 ||4243868.notify6.com^
+||4255510.notify6.com^
 ||4259086.notify6.com^
 ||4260738.notify6.com^
 ||4270600.notify6.com^
@@ -986,8 +989,6 @@
 ||_sip._tcp.meet.3393147.notifysrv.com^
 ||_sips._tcp.3323174.notifysrv.com^
 ||a.a3ion.com^
-||a.ad.guru^
-||a.addisplaynetwork.com^
 ||a.adsession.com^
 ||a.advantageclicks.net^
 ||a.advertrek.com^
@@ -999,11 +1000,8 @@
 ||a.paradoxgroup.uk^
 ||a.r8lnet.com^
 ||a.redpathmedia.com^
-||a.rocoads.net^
 ||a.santabrowser.com^
 ||a.slice.exchange^
-||a.stuffserve.com^
-||admin.ad.guru^
 ||admin.adnation.com^
 ||admin.adstuff.io^
 ||admin.etology.com^
@@ -1026,7 +1024,6 @@
 ||main.trafficfactory.com^
 ||main0.exosrv.com^
 ||management-addisplaynetwork.exads.com^
-||management-adguru.exads.com^
 ||management-adwirk.exads.com^
 ||management-boost.exads.com^
 ||management-itsup.exads.com^
@@ -1035,12 +1032,10 @@
 ||management-venntro.exads.com^
 ||management-vsmedia.exads.com^
 ||management.adxnow.com^
-||rtb.ad.guru^
 ||rtb.advertrek.com^
 ||rtb.exoclick.com^
 ||rtb.trafficfactory.com^
 ||s.a3ion.com^
-||s.ad.guru^
 ||s.adnflow.com^
 ||s.adsession.com^
 ||s.advantageclicks.net^
@@ -1142,6 +1137,7 @@
 ||www.3191479.notifysrv.com^
 ||www.3207695.notify6.com^
 ||www.3227697.notify6.com^
+||www.3231172.notify6.com^
 ||www.3243082.notifysrv.com^
 ||www.3254306.notifysrv.com^
 ||www.3270262.notifysrv.com^
@@ -1155,3 +1151,6 @@
 ||www.notify.bizonads-ssp.com^
 ||www.notify6.com^
 ||www.notifysrv.com^
+||a.addisplaynetwork.com^
+||a.rocoads.net^
+||a.stuffserve.com^

@@ -270,7 +270,6 @@ a8.sakuratravel.jp
 a8.sara-uv.com
 a8.sawadamarche.com
 a8.schecon.com
-a8.seifu-ac.jp
 a8.seminarshelf.com
 a8.sennendo.jp
 a8.sharefull.com
@@ -944,7 +943,6 @@ a8cv.hariocorp.co.jp
 a8cv.hello-people.jp
 a8cv.heybit.io
 a8cv.hi-tailor.jp
-a8cv.hilife-group.com
 a8cv.hoken-laundry.com
 a8cv.holo-bell.com
 a8cv.homepage296.com
@@ -1048,6 +1046,7 @@ a8cv.minana-jp.com
 a8cv.minnano-eikaiwa.com
 a8cv.mitaina.tokyo
 a8cv.mobabiji.jp
+a8cv.modern-deco.jp
 a8cv.modescape.com
 a8cv.mogecheck.jp
 a8cv.mokumokumarket.com
@@ -1394,7 +1393,6 @@ afi.iino.life
 afi.school.web-marketing.ai
 afi.sougou.web-marketing.ai
 afi.ssl.gmobb.jp
-aficv.finebase.jp
 ahachi.dietnavi.com
 ahachi.dreamdenki.jp
 ai.kaishabaikyaku.com

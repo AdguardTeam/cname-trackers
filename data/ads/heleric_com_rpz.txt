@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,7 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-aa.samaniclucked.com CNAME .
+ac.stigmaicomfy.com CNAME .
 ae.craccaanybody.com CNAME .
 ae.rackmanbehind.com CNAME .
 ae.riataspardahs.com CNAME .
@@ -24,7 +24,6 @@ ao.tournaipestles.com CNAME .
 ap.bouncelargo.com CNAME .
 aq.ferisonledger.com CNAME .
 ar.pagodaskeeker.com CNAME .
-ar.tankasphose.com CNAME .
 at.laundawaits.com CNAME .
 au.bolloxcyclism.com CNAME .
 av.eulerupslant.com CNAME .
@@ -107,6 +106,7 @@ em.gangerburler.com CNAME .
 en.bummingasses.com CNAME .
 er.briesziphius.com CNAME .
 et.furivaeshotman.com CNAME .
+et.isodontupspurt.com CNAME .
 eu.balletsbeep.com CNAME .
 eu.bassoonavatara.com CNAME .
 eu.jerkytaste.com CNAME .
@@ -136,7 +136,6 @@ gg.warmanmamelon.com CNAME .
 gi.okapisail.com CNAME .
 gn.afootwitword.com CNAME .
 go.cordelgront.com CNAME .
-go.jazygesunoared.com CNAME .
 go.loorydewdrop.com CNAME .
 gp.feiriegershon.com CNAME .
 gp.splodgydossing.com CNAME .
@@ -175,7 +174,6 @@ in.becamechorist.com CNAME .
 ip.fazendatoxic.com CNAME .
 ir.avertinniello.com CNAME .
 ir.mildlydoucely.com CNAME .
-ir.turbotaedile.com CNAME .
 it.hokerlywaffies.com CNAME .
 ix.lithatelamnoid.com CNAME .
 iy.micastpyridic.com CNAME .
@@ -209,6 +207,7 @@ kl.osmoticchalah.com CNAME .
 kp.stingeantonia.com CNAME .
 kq.baggilymitoses.com CNAME .
 ks.dagamemisdeed.com CNAME .
+ku.allnesskepped.com CNAME .
 ku.arbacindiplex.com CNAME .
 ku.eftesthalms.com CNAME .
 kv.patenssabzi.com CNAME .
@@ -236,6 +235,7 @@ mc.brewseryngo.com CNAME .
 md.unsizedreaward.com CNAME .
 me.salinaswesting.com CNAME .
 mf.collopantony.com CNAME .
+mf.egridstaidly.com CNAME .
 mf.fauldbeeth.com CNAME .
 mh.zonulews.com CNAME .
 mi.bettingbulbous.com CNAME .
@@ -257,6 +257,7 @@ nl.yieldedshotter.com CNAME .
 nm.placoidtobyman.com CNAME .
 no.resailslemures.com CNAME .
 np.brackenclomped.com CNAME .
+nq.juiseforced.com CNAME .
 nr.celaenomash.com CNAME .
 ns.gyreneverist.com CNAME .
 nz.salvingrolls.com CNAME .
@@ -367,6 +368,7 @@ te.stionicfives.com CNAME .
 th.micheryfrugal.com CNAME .
 th.weighinened.com CNAME .
 ti.bandonbrubru.com CNAME .
+ti.solipedsnarls.com CNAME .
 tk.daubingweekday.com CNAME .
 tl.larchentreeman.com CNAME .
 tl.logwisespitzer.com CNAME .
@@ -406,6 +408,7 @@ vc.rompishvariola.com CNAME .
 vd.clipserelock.com CNAME .
 ve.gweedunweld.com CNAME .
 vg.piaroanjust.com CNAME .
+vh.pewageconcile.com CNAME .
 vi.spratstatters.com CNAME .
 vk.immureuvanite.com CNAME .
 vl.boongsmokeho.com CNAME .

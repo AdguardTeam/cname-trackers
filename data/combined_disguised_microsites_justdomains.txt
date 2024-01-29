@@ -1,9 +1,8 @@
 # Title: AdGuard CNAME disguised microsites list
 # Description: The list of unique microsites domains that disguise the real trackers by using CNAME records.
-# TimeUpdated: 2024-01-22T08:00:16+00:00
+# TimeUpdated: 2024-01-29T08:00:17+00:00
 # Homepage: https://github.com/AdguardTeam/cname-trackers
 #
-00c0a62f0c.de65e1286b.com
 00f62a6f1c.8f0f3b8464.com
 022e699eb8.0497496f94.com
 027c544b22.70b4723db6.com
@@ -30,7 +29,6 @@
 107a0e458a.93bc17bf29.com
 10a614120a.419dc53dcd.com
 10stepswp.advancedtech.com
-1327a0e03c.28473c6164.com
 15340eb8a6.da29f4a76d.com
 157d5e4847.7b094dba79.com
 17a9866c32.3a6b4dc07c.com
@@ -86,7 +84,6 @@
 36f619728b.e76e75ed51.com
 3717363a26.e2ef790422.com
 3788041701.99018f340b.com
-37a37e5db9.1fb99d15c4.com
 3a5807e727.9d2852b15a.com
 3a73fe20ac.d1da55a0b9.com
 3ab4c791d1.fef32df9aa.com
@@ -101,9 +98,9 @@
 40cdf9d2a9.9fee754633.com
 41a90d0edd.0f0b46245d.com
 423cc0af23.3a91727319.com
-42412d3534.32f36a4d79.com
 433bb3d20f.6542309b8a.com
 4421e23b04.5e4563e9d9.com
+44de14362b.db7a44a117.com
 45b32c7eb1.5c4eab29e3.com
 45f71a1f62.912644c528.com
 463c285fde.66dbf809af.com
@@ -130,6 +127,7 @@
 53b06a6b24.b30674b49e.com
 53c3c44b72.a29172073b.com
 55479d4a4f.e97fff7188.com
+556b7878f9.fdc02736b4.com
 56a7ca381c.a4de9aca80.com
 570bfb615e.f3de94ee1e.com
 57e382118c.c1c759d012.com
@@ -162,6 +160,7 @@
 68c2f33440.691c37268a.com
 696a867e8a.e048fe379c.com
 69bd7e11c0.21f926d5ab.com
+6a29d7211a.502c849091.com
 6b4f801684.22ecbd33ca.com
 6b617ecc3b.877faa781e.com
 6d2d067dd8.d870307884.com
@@ -180,6 +179,7 @@
 76cdfd14c9.d5a710a006.com
 76d3c70aa9.d1f420dd98.com
 77998a50f4.d9e6fb9edb.com
+7a2d2c66d3.4b6563a120.com
 7ac6afc563.1a0b8c9a68.com
 7b4927c8f2.373c93bba1.com
 7b72e40059.4e5d31aaea.com
@@ -242,6 +242,7 @@ a135.wpxi.com
 a135.wsbtv.com
 a135.wsoctv.com
 a15d7c11f7.4e2c896383.com
+a235.chron.com
 a235.seattlepi.com
 a390770006.41291ba668.com
 a614.al.com
@@ -274,6 +275,7 @@ act.firstdata.com
 act.pbs.org
 actie.athlon.com
 action.hassconsult.co.ke
+activation.labcorp.com
 activation.thunderinsider.com
 active.sangfor.com
 activos.contacto.promerica.fi.cr
@@ -479,7 +481,9 @@ app.goguecenter.auburn.edu
 app.goheels.com
 app.gohuskies.com
 app.gopack.com
+app.gophersports.com
 app.gopsusports.com
+app.gorhody.com
 app.gostanford.com
 app.gotigersgo.com
 app.goto.dowjones.com
@@ -574,6 +578,7 @@ app.nissan.my-nissan-usa.com
 app.noreply.cummins.com
 app.now.bomgar.com
 app.now.nowtv.com
+app.nsmt.org
 app.nuhuskies.com
 app.nusports.com
 app.odusports.com
@@ -716,6 +721,8 @@ apps.software.netsimplicity.com
 appsecurezomation.carte-gr.total.fr
 ar.quadient.com
 archiv.promatis.de
+archived.first.eloqua.extrahop.com
+archived.learn.eloqua.extrahop.com
 arincol.arin-innovation.com
 art.carte-gr.total.fr
 as.balluff.com
@@ -778,7 +785,6 @@ b2bmarketingsb.swisscom.ch
 b2bmarketingsb.swisscom.com
 b2bmkt.lge.co.kr
 b34760008c.8def8c352d.com
-b46ccb8d87.3829e58bb1.com
 b56d33d644.b72e4b93d9.com
 b598b37764.ce6fdab0f2.com
 b6cc537d55.212fea9f61.com
@@ -798,7 +804,6 @@ bbk.pnc.com
 bbworld.blackboard.com
 bc.semwerkt.nl
 bc63f84631.5e9d31c60e.com
-bca.aviationweek.com
 bdecfb7de6.e2ff92bcf8.com
 bdedbcaefd.09482aec5d.com
 be-go.experian.com
@@ -1137,6 +1142,7 @@ connect.satl.hcahealthcare.com
 connect.schoolmessenger.com
 connect.senecacollege.ca
 connect.stihl.info
+connect.telstrawholesale.com
 connect.telstrawholesale.com.au
 connect.the-stockmarket.com
 connect.virginmediabusiness.co.uk
@@ -1208,6 +1214,7 @@ cookie.cynch.com
 cookie.myamerigas.com
 cookie.solutions.desertfinancial.com
 cookiejar.atea.no
+cookies-sfs.siemens.com
 cookies.ec4u.com
 cookies.engage.russellinvestments.com
 cookies.grenke.ch
@@ -1561,6 +1568,7 @@ elq.keysight.com
 elq.keysight.com.cn
 elq.lansa.com
 elq.macu.com
+elq.mh.mercuryhealthcare.com
 elq.modelgroup.com
 elq.mouser.ca
 elq.mouser.cn
@@ -1578,6 +1586,7 @@ elq.opensource.com
 elq.proagrica.com
 elq.proconnect.intuit.com
 elq.redhat.com
+elq.scanningpens.ca
 elq.scanningpens.com
 elq.scanningpens.com.au
 elq.sonicwall.com
@@ -1728,6 +1737,7 @@ email-em.jll.com.co
 email-em.jll.com.hk
 email-em.jll.com.tr
 email-em.jll.de
+email-em.jll.fi
 email-em.jll.fr
 email-em.jll.it
 email-em.jll.lu
@@ -1996,7 +2006,6 @@ externalreferral.freshworks.com
 ezgo.advancedtech.com
 f05f18119a.635a022421.com
 f102547b70.5f6d8a5f78.com
-f1ab40b1ac.91a3c37128.com
 f2b4e94d0f.3df9f27128.com
 f2e49209b4.bcab4297a6.com
 f377888b95.449715c797.com
@@ -2543,6 +2552,7 @@ images.edm.carnivalaustralia.com
 images.edm.cunardinoz.com.au
 images.edm.princesscruises.com.au
 images.edm.propertyguru.com
+images.edm.wlcl.com.au
 images.education.ifebp.org
 images.efficiency.nl.visma.com
 images.eloqua.fredhutch.org
@@ -2553,6 +2563,7 @@ images.email.air-worldwide.com
 images.email.fico.com
 images.email.hockeytown.com
 images.emails.bokfinancial.com
+images.emails.ipcmedia.co.uk
 images.emarketing.hccs.edu
 images.emarketing.heat.com
 images.en25content.twilio.com
@@ -2635,6 +2646,7 @@ images.h.analog.com
 images.health.stlukes-stl.com
 images.hq.scorecardrewards.com
 images.i.mesosphere.com
+images.identity.okta.com
 images.igdg.gardnerdenver.com
 images.ihs.com
 images.images.compagniedesalpes.fr
@@ -2704,6 +2716,7 @@ images.join.masaisrael.org
 images.klubb.bonnier.se
 images.lauthorities.com
 images.learn.arborcrowd.com
+images.learn.deloitte.com
 images.learn.drivemedical.com
 images.learn.follett.com
 images.learn.hitachiconsulting.com
@@ -2734,6 +2747,7 @@ images.mail-fellowesbrands.com
 images.mail.coloplast.com
 images.mail.discover.clarivate.com
 images.mail.dolce-gusto.com
+images.mail.dolce-gusto.de
 images.mail.tena.de
 images.mail01.learn.internationalsos.com
 images.mailaway.abritel.fr
@@ -2776,6 +2790,7 @@ images.mktg.dynabook.com
 images.mktgassets.symantec.com
 images.mm.eulerhermes.com
 images.moresand.co.uk
+images.my1961.com
 images.myhealthyfinances.com
 images.myhome.modernize.com
 images.na.agcocorp.com
@@ -2854,6 +2869,7 @@ images.response.handt.co.uk
 images.response.incontact.com
 images.response.lexmark.com
 images.response.mini.com.au
+images.response.motivatedigital.com
 images.response.nbnco.com.au
 images.response.orhp.com
 images.response.osv.com
@@ -2944,8 +2960,10 @@ info.amperecomputing.com
 info.arclogics.com
 info.arp.com
 info.asce.org
+info.assets.reuters.com
 info.attcenter.com
 info.authorize.net
+info.avalara.com
 info.avigilon.com
 info.avtecinc.com
 info.banrural.com.gt
@@ -2958,7 +2976,6 @@ info.cargoexpreso.com
 info.cellmedicine.com
 info.cengage.com
 info.checkin.pwc.com
-info.christus.mx
 info.clarivate.com
 info.clarivate.jp
 info.climatepledgearena.com
@@ -3072,7 +3089,6 @@ info.verint.com
 info.versicherungspraxis24.de
 info.verwaltungspraxis24.de
 info.viant.com
-info.vismaraet.nl
 info.volvotrucks.us
 info.wolterskluwer.de
 info.wolterskluwer.nl
@@ -3171,6 +3187,7 @@ join.pharmapackeurope.com
 join.projectfashionevents.com
 join.safety-health-expo.co.uk
 join.stratfor.com
+join.zendesk.com
 join02.informamarkets.com
 journey.cisco.com
 jp-go.experian.com
@@ -3216,6 +3233,7 @@ landing.lgensol.com
 landing.newyorkjets.com
 landing.wolterskluwer.hu
 landingpages.csustudycentres.edu.au
+landingpages.siemens-healthineers.com
 landings.omegacrmconsulting.com
 lantern.connect.o2.co.uk
 lantern.fortinet.com
@@ -3305,7 +3323,6 @@ logistics.dbschenker.com
 love.columbiacu.org
 love.suncoastcreditunion.com
 lp-eq.mitsuichemicals.com
-lp-info.arval.com
 lp.adp.com
 lp.americas.business.samsung.com
 lp.apac.business.samsung.com
@@ -3374,16 +3391,19 @@ mail.dolce-gusto.cl
 mail.dolce-gusto.co.cr
 mail.dolce-gusto.co.il
 mail.dolce-gusto.co.kr
+mail.dolce-gusto.co.nz
 mail.dolce-gusto.co.uk
 mail.dolce-gusto.co.za
 mail.dolce-gusto.com.ar
 mail.dolce-gusto.com.au
+mail.dolce-gusto.com.mx
 mail.dolce-gusto.com.my
 mail.dolce-gusto.com.sg
 mail.dolce-gusto.com.tw
 mail.dolce-gusto.cz
 mail.dolce-gusto.de
 mail.dolce-gusto.dk
+mail.dolce-gusto.fi
 mail.dolce-gusto.fr
 mail.dolce-gusto.gr
 mail.dolce-gusto.hk
@@ -3392,6 +3412,7 @@ mail.dolce-gusto.ie
 mail.dolce-gusto.it
 mail.dolce-gusto.nl
 mail.dolce-gusto.no
+mail.dolce-gusto.pl
 mail.dolce-gusto.pt
 mail.dolce-gusto.ro
 mail.dolce-gusto.ru
@@ -3399,7 +3420,6 @@ mail.dolce-gusto.se
 mail.dolce-gusto.sk
 mail.dolce-gusto.ua
 mail.dolce-gusto.us
-mail.hsm.co.uk
 managedaccounts.nvenergy.com
 managedaccounts.pacificpower.net
 map.rockwellautomation.com
@@ -4152,6 +4172,7 @@ refer.quickbooks.co.uk
 refer.quickstart.com
 refer.reebok.com
 refer.reliasacademy.com
+refer.rent.app
 refer.rileyrose.com
 refer.roadrunnersports.com
 refer.rockport.com
@@ -4612,7 +4633,6 @@ share.cunard.com
 share.cwbank.com
 share.dailypay.com
 share.darwinspet.com
-share.dave.com
 share.delawareonline.com
 share.desertfinancial.com
 share.desmoinesregister.com
@@ -4851,6 +4871,7 @@ social.fabkids.com
 social.forddirectdealers.com
 social.insidelpl.com
 software.seek.intel.com
+solar.sunpower.com
 solar.sunpowercorp.com
 solicitud.pacifico.com.pe
 solucionesreales.americanexpress.es
@@ -5212,6 +5233,7 @@ teefiksummin.visma.fi
 teho.visma.fi
 tellapal.register.com
 tellapal.web.com
+temails.productnotice.thomsonreuters.com
 temsys.temsys.fr
 test.economicadvantage.midamerican.com
 test.go.provident.bank
@@ -5224,6 +5246,7 @@ testforms.fidelity.ca
 th-go.experian.com
 thetradenews.strategic-i.com
 ticketoffice.liberty.edu
+tickets.gs-warriors.com
 time.share.ntv.io
 tkelq.genesys.com
 tlm.adp.ca
@@ -5410,6 +5433,7 @@ tracking.care.muschealth.org
 tracking.care.salinasvalleyhealth.com
 tracking.cello-square.com
 tracking.cengage.com
+tracking.cenomicenters.com
 tracking.changehealthcare.com
 tracking.chem-agilent.com
 tracking.civica.co.uk
@@ -5745,7 +5769,6 @@ tracking.verisk.com
 tracking.veritas.com
 tracking.vertiv.com
 tracking.vertivco.com
-tracking.virginmediao2business.co.uk
 tracking.virtus.com
 tracking.visitdubai.com
 tracking.visma.co.uk
@@ -5829,6 +5852,7 @@ trck.copeland.com
 trck.e.atradius.com
 trck.el.supremapoker.com.br
 trck.forfatterforbundet.no
+trck.go.emoneyadvisor.com
 trck.graiman.com
 trck.info.fullsaildc3.com
 trck.info.lloydslistintelligence.com
@@ -6039,6 +6063,7 @@ trk.oberdorferpumps.com
 trk.oma.dk
 trk.optum.com
 trk.packagingdigest.com
+trk.paragondirect.com
 trk.parkitbikeracks.com
 trk.peceniejeradost.sk
 trk.pecenijeradost.cz
@@ -6058,6 +6083,7 @@ trk.quantumbusinessnews.com
 trk.rama.com
 trk.rama.com.co
 trk.reach.utep.edu
+trk.reavell.com
 trk.recetasprimavera.com
 trk.restaurant-hospitality.com
 trk.riverview.org
@@ -6139,6 +6165,7 @@ uk.partner.equifax.co.uk
 uk.realestate.bnpparibas
 uk.secure.sonosite.com
 uk.verintsystemsinc.com
+uki2.secureforms.mcafee.com
 ukri.innovateuk.org
 unifiedwfo.verintsystemsinc.com
 update.purina.com
@@ -6168,6 +6195,7 @@ vip.german.ni.com
 vip.granicus.com
 vip.maxtor.com
 vision.cbre.com.au
+vision.cbresi.com.au
 visit.adelaide.edu.au
 visit.atea.fi
 visit.donateblood.com.au
@@ -6299,6 +6327,7 @@ www.allergodil.cz
 www.allergodil.hu
 www.aonunited.com
 www.armolipid.com.ru
+www.ast-en.adp.ca
 www.ast-fr.adp.ca
 www.avismarketing.gr
 www.b2bmarketing.swisscom.ch
@@ -6312,6 +6341,7 @@ www.connect.api.almirall.com
 www.connect.johndorys.co.za
 www.connect.panarottis.co.za
 www.connect.spurcorp.com
+www.contact-us.adp.ca
 www.discover.jll.com
 www.dlabiznesu.pracuj.pl
 www.domorewithless.adp.ca
@@ -6337,6 +6367,7 @@ www.infineon-community.com
 www.info.avalara.com
 www.info.dunnhumby.com
 www.info.kistler.com
+www.info.redhat.com
 www.info.shavve.co.il
 www.infos-experts.adp.com
 www.ins-mercadeo.com

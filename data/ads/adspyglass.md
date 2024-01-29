@@ -8,8 +8,6 @@
 ### Rarely active trackers
 
 * api.clickaine.com
-* 548260.parkingcrew.net
-* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -56,6 +54,8 @@
 | 99loz.xyz | 0i0i0i0.com |
 | a.123porner.net | 0i0i0i0.com |
 | a.1film.to | 0i0i0i0.com |
+| a.1j02claf9p.pro | 0i0i0i0.com |
+| a.3fwlr7frbb.pro | 0i0i0i0.com |
 | a.6vids.space | 0i0i0i0.com |
 | a.acervox.com | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
@@ -65,7 +65,6 @@
 | a.bitporno.to | 0i0i0i0.com |
 | a.bloblohub.com | 0i0i0i0.com |
 | a.boyjackpot.com | 0i0i0i0.com |
-| a.bp9l1pi60.pro | 0i0i0i0.com |
 | a.coinhub.wiki | 0i0i0i0.com |
 | a.craftbeerclub.com.ua | 0i0i0i0.com |
 | a.dajex.club | 0i0i0i0.com |
@@ -76,6 +75,7 @@
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
+| a.glovet.xyz | 0i0i0i0.com |
 | a.goodweet.xyz | 0i0i0i0.com |
 | a.goteat.xyz | 0i0i0i0.com |
 | a.hentai369.com | 0i0i0i0.com |
@@ -89,6 +89,7 @@
 | a.kizzteen.com | 0i0i0i0.com |
 | a.letsjerk.org | 0i0i0i0.com |
 | a.letsjerk.tv | 0i0i0i0.com |
+| a.mafon.xyz | 0i0i0i0.com |
 | a.memosaqee.com | 0i0i0i0.com |
 | a.misctool.xyz | 0i0i0i0.com |
 | a.muipe.xyz | 0i0i0i0.com |
@@ -109,17 +110,20 @@
 | a.totoro2011.xyz | 0i0i0i0.com |
 | a.unblock2303.xyz | 0i0i0i0.com |
 | a.unblock2304.xyz | 0i0i0i0.com |
+| a.vergu.xyz | 0i0i0i0.com |
 | a.viralnewsbd.xyz | 0i0i0i0.com |
 | a.voxar.xyz | 0i0i0i0.com |
 | a.warddogs.com | 0i0i0i0.com |
-| a.wlen1bty92.pro | 0i0i0i0.com |
 | a.worldporncomix.com | 0i0i0i0.com |
 | a.xenar.xyz | 0i0i0i0.com |
 | a.xmanga.online | 0i0i0i0.com |
+| a.z0il3m3u2o.pro | 0i0i0i0.com |
 | a.zillastream.com | 0i0i0i0.com |
+| a.zvert.xyz | 0i0i0i0.com |
 | a5g.oves.biz | 0i0i0i0.com |
 | a9o.youlikeboys.com | 0i0i0i0.com |
 | aa.zerg.pro | 0i0i0i0.com |
+| aaa.sieglinde22.xyz | 0i0i0i0.com |
 | aab.faperoni.com | 0i0i0i0.com |
 | aabtest.asg-media.com | 0i0i0i0.com |
 | ab.cumhot.org | 0i0i0i0.com |
@@ -176,6 +180,7 @@
 | arabs.xn--mgbcvg3b0d2b.com | 0i0i0i0.com |
 | arabs.xn--ngbcrg3b.net | 0i0i0i0.com |
 | arabs.xn--ngbs7dg.net | 0i0i0i0.com |
+| arabss.arabxn.org | 0i0i0i0.com |
 | ars.comicarab.com | 0i0i0i0.com |
 | as.ebacdn.com | 0i0i0i0.com |
 | as.ebalovo.adult | 0i0i0i0.com |
@@ -235,6 +240,7 @@
 | banana.emailon.top | 0i0i0i0.com |
 | bangute.xyz | 0i0i0i0.com |
 | bazao.xyz | 0i0i0i0.com |
+| bbb.dagobert33.xyz | 0i0i0i0.com |
 | bc6dc48b743dc5d01.clicknplay.to | 0i0i0i0.com |
 | bddd.javmilk.org | 0i0i0i0.com |
 | bencuzi.xyz | 0i0i0i0.com |
@@ -250,6 +256,7 @@
 | bolz.lol | 0i0i0i0.com |
 | boob.sukaporn.com | 0i0i0i0.com |
 | bort.busty-wife.com | 0i0i0i0.com |
+| buatru.xyz | 0i0i0i0.com |
 | bulkd.co | 0i0i0i0.com |
 | bup.seksohub.com | 0i0i0i0.com |
 | bursa.conxxx.pro | 0i0i0i0.com |
@@ -262,6 +269,7 @@
 | c6s.bionestraff.pro | 0i0i0i0.com |
 | cache.picxxxhub.com | 0i0i0i0.com |
 | cangatu.xyz | 0i0i0i0.com |
+| cca.sanjay44.xyz | 0i0i0i0.com |
 | cckum.spinna.store | 0i0i0i0.com |
 | cdc.teensnorest.com | 0i0i0i0.com |
 | cdddd.javmilk.org | 0i0i0i0.com |
@@ -276,6 +284,7 @@
 | cdn3.r34comix.com | 0i0i0i0.com |
 | cdn5.cartoonporn.to | 0i0i0i0.com |
 | cesbr.spinna.store | 0i0i0i0.com |
+| chuchle.all-usanomination.com | 0i0i0i0.com |
 | click.fastupload.io | 0i0i0i0.com |
 | client2009x25.xcdn.ovh | 0i0i0i0.com |
 | comezz.xyz | 0i0i0i0.com |
@@ -291,6 +300,7 @@
 | d.bloblohub.com | 0i0i0i0.com |
 | data.bangtubevideos.com | 0i0i0i0.com |
 | data.streamtape.com | 0i0i0i0.com |
+| ddd.adil23.xyz | 0i0i0i0.com |
 | ddddd.javmilk.org | 0i0i0i0.com |
 | deliver.vkcdnservice.com | 0i0i0i0.com |
 | digiadzone.com | 0i0i0i0.com |
@@ -312,6 +322,7 @@
 | ebd.cda-hd.co | 0i0i0i0.com |
 | eco.blendxxx.com | 0i0i0i0.com |
 | edddd.javmilk.org | 0i0i0i0.com |
+| eee.sanjay44.xyz | 0i0i0i0.com |
 | enrgy.fwtrck.com | 0i0i0i0.com |
 | essential.awmcash.com | 0i0i0i0.com |
 | ex8.lostporntube.com | 0i0i0i0.com |
@@ -323,7 +334,9 @@
 | f92or5.spinna.shop | 0i0i0i0.com |
 | fansang.xyz | 0i0i0i0.com |
 | fddddddd.javmilk.org | 0i0i0i0.com |
+| fff.sieglinde22.xyz | 0i0i0i0.com |
 | fg850ik01.6g0blqi1541polz4n0kjvwo1kjl5tcx30.xyz | 0i0i0i0.com |
+| fineads.icu | 0i0i0i0.com |
 | free.srcdn.xyz | 0i0i0i0.com |
 | fuckers.nieuws.xxx | 0i0i0i0.com |
 | fuwn782kk.alphaporno.com | 0i0i0i0.com |
@@ -353,7 +366,10 @@
 | hoakz.xyz | 0i0i0i0.com |
 | hot.sexyadsrun.com | 0i0i0i0.com |
 | hotmovstore.com | 0i0i0i0.com |
+| hotpornpro.com | 0i0i0i0.com |
 | houdisco.xyz | 0i0i0i0.com |
+| hqpornpro.com | 0i0i0i0.com |
+| hqsexpro.com | 0i0i0i0.com |
 | hsux.com | 0i0i0i0.com |
 | huanez.xyz | 0i0i0i0.com |
 | huewaix.xyz | 0i0i0i0.com |
@@ -449,7 +465,6 @@
 | mopeia.xyz | 0i0i0i0.com |
 | moster.granny-xxx-video.com | 0i0i0i0.com |
 | mraozo.xyz | 0i0i0i0.com |
-| mrfantastic.gotdns.ch | 0i0i0i0.com |
 | mrkaito.xyz | 0i0i0i0.com |
 | mx6.3pornhere.com | 0i0i0i0.com |
 | my.shymilftube.com | 0i0i0i0.com |
@@ -471,6 +486,7 @@
 | ngbcrg3b.xn--ngbcrg3b.com | 0i0i0i0.com |
 | nice.tranny.one | 0i0i0i0.com |
 | nice.tryboobs.com | 0i0i0i0.com |
+| niceads.icu | 0i0i0i0.com |
 | non.arabshentai.com | 0i0i0i0.com |
 | nope.arabxforum.com | 0i0i0i0.com |
 | nope.xn--mgbkt9eckr.net | 0i0i0i0.com |
@@ -514,6 +530,7 @@
 | p.strjuylfrjyk.site | 0i0i0i0.com |
 | p.upskirt.tv | 0i0i0i0.com |
 | p123p.com | 0i0i0i0.com |
+| pacaka.conxxx.pro | 0i0i0i0.com |
 | pakenta.xyz | 0i0i0i0.com |
 | pamtuea.xyz | 0i0i0i0.com |
 | pamury.xyz | 0i0i0i0.com |
@@ -524,6 +541,7 @@
 | parkurl.com | 0i0i0i0.com |
 | pempiz.xyz | 0i0i0i0.com |
 | penapne.xyz | 0i0i0i0.com |
+| perke.xxxpornhd.pro | 0i0i0i0.com |
 | pihu.xxxpornhd.pro | 0i0i0i0.com |
 | pivo.tracked.one | 0i0i0i0.com |
 | pnpjceawvmeu.cdnvideo3.com | 0i0i0i0.com |
@@ -547,6 +565,7 @@
 | qoutec.shop | 0i0i0i0.com |
 | qovua60gue.tubewolf.com | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
+| qualityads.icu | 0i0i0i0.com |
 | quantoz.xyz | 0i0i0i0.com |
 | quatxio.xyz | 0i0i0i0.com |
 | question.hot-step-mom.com | 0i0i0i0.com |
@@ -587,7 +606,6 @@
 | sdg.desihamster.pro | 0i0i0i0.com |
 | sdg.fwtrck.com | 0i0i0i0.com |
 | serve.bdsmstreak.com | 0i0i0i0.com |
-| sex.moviesporn.eu | 0i0i0i0.com |
 | sfw1a.dappab.site | 0i0i0i0.com |
 | sfw1b.dappab.site | 0i0i0i0.com |
 | sfw1c.dappab.site | 0i0i0i0.com |
@@ -620,6 +638,7 @@
 | suzuhen.xyz | 0i0i0i0.com |
 | tacumi.xyz | 0i0i0i0.com |
 | tagbucks.xyz | 0i0i0i0.com |
+| tagmai.xyz | 0i0i0i0.com |
 | tagun.xyz | 0i0i0i0.com |
 | tangpuax.xyz | 0i0i0i0.com |
 | tankiuz.xyz | 0i0i0i0.com |
@@ -713,19 +732,16 @@
 | xxxlove.rooski.net | 0i0i0i0.com |
 | you75.youpornsexvideos.com | 0i0i0i0.com |
 | z0000g.yvmads.com | 0i0i0i0.com |
+| zaemi.xyz | 0i0i0i0.com |
 | zdhq.xyz | 0i0i0i0.com |
 | zhaner.xyz | 0i0i0i0.com |
 | zinipx.xyz | 0i0i0i0.com |
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
 | zzzzaaa.baijav.com | 0i0i0i0.com |
-| analik.icu | 548260.parkingcrew.net |
-| hitfuck.icu | 548260.parkingcrew.net |
-| xzillla.icu | 548260.parkingcrew.net |
 | ad.desibp.com | api.clickaine.com |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | hq3x.com | u50.0i0i0i0.com |
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| h-ay.com | u53.hypnorat.com |

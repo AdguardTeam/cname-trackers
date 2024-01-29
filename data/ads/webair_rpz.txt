@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -693,7 +693,6 @@ serv.bvsrv.com CNAME .
 serve.datacygnal.io CNAME .
 sm-rtb-useast.zmdvideo.com CNAME .
 static.adright.co CNAME .
-static.adright.com CNAME .
 static.fstsrv1.com CNAME .
 static.fstsrv2.com CNAME .
 static.fstsrv3.com CNAME .
@@ -733,7 +732,6 @@ vid-rtb-india.xapads.com CNAME .
 vid-rtb-sg.xapads.com CNAME .
 vid-rtb-uswest.xapads.com CNAME .
 vid-rtb.xapads.com CNAME .
-vid-static.xapads.com CNAME .
 vsv-val.looksmart.com CNAME .
 webferret-val.looksmart.com CNAME .
 webpush.adjux.com CNAME .
@@ -772,7 +770,6 @@ win-rtb2-uswest.xaprio.net CNAME .
 www.adprudence.com CNAME .
 www.ads.mediastinct.com CNAME .
 www.bliss91.com CNAME .
-www.displaystorm.com CNAME .
 www.looksmartppc.com CNAME .
 www.nativexml.com CNAME .
 www.online-adnetwork.com CNAME .
@@ -1108,4 +1105,6 @@ xmlv4-eu.mobuppsrtb.com CNAME .
 xmlv4.chameleostudios.com CNAME .
 xmlv4.mobuppsrtb.com CNAME .
 xmlv4.reklama.network CNAME .
+static.adright.com CNAME .
+vid-static.xapads.com CNAME .
 static.rtb-serve.com CNAME .

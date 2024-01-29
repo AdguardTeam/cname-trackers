@@ -682,7 +682,6 @@
 ||serve.datacygnal.io^
 ||sm-rtb-useast.zmdvideo.com^
 ||static.adright.co^
-||static.adright.com^
 ||static.fstsrv1.com^
 ||static.fstsrv2.com^
 ||static.fstsrv3.com^
@@ -722,7 +721,6 @@
 ||vid-rtb-sg.xapads.com^
 ||vid-rtb-uswest.xapads.com^
 ||vid-rtb.xapads.com^
-||vid-static.xapads.com^
 ||vsv-val.looksmart.com^
 ||webferret-val.looksmart.com^
 ||webpush.adjux.com^
@@ -761,7 +759,6 @@
 ||www.adprudence.com^
 ||www.ads.mediastinct.com^
 ||www.bliss91.com^
-||www.displaystorm.com^
 ||www.looksmartppc.com^
 ||www.nativexml.com^
 ||www.online-adnetwork.com^
@@ -1097,4 +1094,6 @@
 ||xmlv4.chameleostudios.com^
 ||xmlv4.mobuppsrtb.com^
 ||xmlv4.reklama.network^
+||static.adright.com^
+||vid-static.xapads.com^
 ||static.rtb-serve.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,7 +24,6 @@ affi.nostressmama.cz CNAME .
 affi.veronikahronkova.cz CNAME .
 affil.alkohol.cz CNAME .
 affil.atan.cz CNAME .
-affil.autonaklik.cz CNAME .
 affil.avenatura.sk CNAME .
 affil.bitdef.cz CNAME .
 affil.blaire.cz CNAME .
@@ -91,7 +90,6 @@ affil.zdravetricko.cz CNAME .
 affil.zenskecykly.cz CNAME .
 affilate.sklep38.cz CNAME .
 affilbox.25hodin.cz CNAME .
-affilbox.aliveplatform.com CNAME .
 affilbox.andreashop.sk CNAME .
 affilbox.delibarry.com CNAME .
 affilbox.gurufinance.cz CNAME .
@@ -199,6 +197,7 @@ affiliate.levsalonu.cz CNAME .
 affiliate.lg-store.cz CNAME .
 affiliate.licit.cz CNAME .
 affiliate.loveo.cz CNAME .
+affiliate.luxor.cz CNAME .
 affiliate.manvel.cz CNAME .
 affiliate.martinreznicek.cz CNAME .
 affiliate.milagro.cz CNAME .
@@ -306,6 +305,7 @@ hcbox.mironet.cz CNAME .
 hcbox.tesla-electronics.eu CNAME .
 hcbox.tlamka.cz CNAME .
 hcbox.verapostele.sk CNAME .
+hcbox1.warriorboat.sk CNAME .
 isic.dentalweb.cz CNAME .
 isic.kopirkaostrava.cz CNAME .
 isicpartner.mamechut.cz CNAME .
@@ -534,7 +534,6 @@ partner.generatorvodiku.cz CNAME .
 partner.giulieta.shop CNAME .
 partner.goelite.club CNAME .
 partner.gokids.cz CNAME .
-partner.granule-eshop.cz CNAME .
 partner.greenbeast.vip CNAME .
 partner.gurufinance.cz CNAME .
 partner.hanamoneam.com CNAME .
@@ -759,6 +758,7 @@ partneri.fitstore.cz CNAME .
 partneri.frcime.cz CNAME .
 partneri.gigamat.cz CNAME .
 partneri.givt.cz CNAME .
+partneri.goaffiliate.cz CNAME .
 partneri.heavytamper.cz CNAME .
 partneri.hopsaj.sk CNAME .
 partneri.incacollagen.eu CNAME .
@@ -834,6 +834,7 @@ partneri.tradicne-feng-shui.sk CNAME .
 partneri.trenink-vyjednavani.cz CNAME .
 partneri.trollbeads.cz CNAME .
 partneri.trollbeadscz.com CNAME .
+partneri.umenibytzdrav.cz CNAME .
 partneri.umenijazyku.cz CNAME .
 partneri.variantbyznys.cz CNAME .
 partneri.vashop.cz CNAME .

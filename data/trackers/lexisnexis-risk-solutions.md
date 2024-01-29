@@ -125,6 +125,7 @@
     * h-ad2y6kcr.online-metrix.net
     * h-addisonlee.online-metrix.net
     * h-adp.online-metrix.net
+    * h-adpynquc.online-metrix.net
     * h-af1jjj0t.online-metrix.net
     * h-afterpay.online-metrix.net
     * h-ag4c1wpy.online-metrix.net
@@ -434,7 +435,6 @@
     * h-k8vif92e.sri3.online-metrix.net
     * h-kabbage.online-metrix.net
     * h-kelmar-ak.online-metrix.net
-    * h-kelmar-ar.online-metrix.net
     * h-kelmar-de.online-metrix.net
     * h-kelmar-il.online-metrix.net
     * h-kelmar-ks.online-metrix.net
@@ -906,6 +906,9 @@
 | bifpt.pepperfinance.es | h-ad2y6kcr.online-metrix.net |
 | content.addisonlee.com | h-addisonlee.online-metrix.net |
 | image.online.adp.com | h-adp.online-metrix.net |
+| west-eu-0156743.medirect.be | h-adpynquc.online-metrix.net |
+| west-eu-0156743.medirect.com.mt | h-adpynquc.online-metrix.net |
+| west-eu-0156743.medirect.nl | h-adpynquc.online-metrix.net |
 | auth2.corelogic.asia | h-af1jjj0t.online-metrix.net |
 | rsx.afterpay.com | h-afterpay.online-metrix.net |
 | lsr22.dzing.finance | h-ag4c1wpy.online-metrix.net |
@@ -957,6 +960,7 @@
 | content.vi.gov | h-b4bq7y80.online-metrix.net |
 | srv.squaretrade.com | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.com.au | h-b6te0xmf.online-metrix.net |
+| srv.squaretrade.dk | h-b6te0xmf.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
 | content.bank-abc.com | h-ban3nmwg.online-metrix.net |
@@ -1342,7 +1346,6 @@
 | uldfp.srilankan.com | h-k8vif92e.sri3.online-metrix.net |
 | b177.kabbage.com | h-kabbage.online-metrix.net |
 | tag.unclaimedproperty.alaska.gov | h-kelmar-ak.online-metrix.net |
-| tag.claimitar.com | h-kelmar-ar.online-metrix.net |
 | tag.unclaimedproperty.delaware.gov | h-kelmar-de.online-metrix.net |
 | tag.icash.illinoistreasurer.gov | h-kelmar-il.online-metrix.net |
 | tag.unclaimedproperty.ks.gov | h-kelmar-ks.online-metrix.net |
@@ -1566,7 +1569,6 @@
 | 1of1.skipcash.app | h-skipcash.online-metrix.net |
 | cdn1.skrill.com | h-skrill.online-metrix.net |
 | idstatus.sky.com | h-skyuk.online-metrix.net |
-| idstatus.sky.it | h-skyuk.online-metrix.net |
 | content21.snapfinance.com | h-snapfinance.online-metrix.net |
 | st10.sofi.com | h-sofi.online-metrix.net |
 | payments.direct.playstation.com | h-sonyie.online-metrix.net |

@@ -118,6 +118,7 @@ data-0ed150e440.apps.iocnt.de
 data-0f1d215994.apps.iocnt.de
 data-0f46564db8.nebenan.de
 data-0f7b446ae6.asscompact.de
+data-0fe139781d.apps.iocnt.de
 data-10ac9f794d.apps.iocnt.de
 data-10e222a818.ligaportal.at
 data-1105c42328.apps.iocnt.de
@@ -508,6 +509,7 @@ data-411f822017.sixx.de
 data-4190908d67.watson.de
 data-421b67c653.ka-news.de
 data-421b67c653.karriereregion.de
+data-4248af8297.futurezone.at
 data-434ba718f3.gofeminin.de
 data-44384eebca.allgaeuer-zeitung.de
 data-4494a61d21.chefkoch.de
@@ -1028,6 +1030,7 @@ data-770ef2669c.egovernment.de
 data-7723a9baa7.internetworld.at
 data-7723a9baa7.internetworld.de
 data-774647f329.facility-management.de
+data-775b08ba9a.events.at
 data-783123c24a.bib-selm.de
 data-783123c24a.stadtselm.de
 data-7860983f88.wohintipp.at
@@ -1441,6 +1444,7 @@ data-a98482617b.holidaycheck.ch
 data-a98482617b.holidaycheck.de
 data-a98482617b.holidaycheck.fr
 data-a98482617b.holidaycheck.nl
+data-a9b566d4a7.k.at
 data-a9dcbfdd12.dk-online.de
 data-a9dcbfdd12.noz.de
 data-aa4a1f6eab.apps.iocnt.de
@@ -1617,6 +1621,7 @@ data-bff71da19f.apps.iocnt.de
 data-c05bf504b4.gesund24.at
 data-c061012ba4.bisafans.de
 data-c062efa4b8.arboe.at
+data-c0856a82d9.aerzteblatt.de
 data-c08b160129.theviennareview.at
 data-c0c484e9be.funke-next-level.tv
 data-c0c484e9be.funke.fun
@@ -1645,6 +1650,7 @@ data-c3391a3eb3.braunschweiger-zeitung.de
 data-c3391a3eb3.harzkurier.de
 data-c3391a3eb3.harztrauer.de
 data-c3391a3eb3.immo38.de
+data-c3391a3eb3.job38.de
 data-c3391a3eb3.konzertkasse.de
 data-c3391a3eb3.news38.de
 data-c3391a3eb3.radio38.de
@@ -1879,7 +1885,6 @@ data-e16817998e.apps.iocnt.de
 data-e16c65ad3c.antennevorarlberg.at
 data-e18f7c3e0e.bib.dormagen.de
 data-e1f099aeb5.apps.iocnt.de
-data-e25e89b95d.it-daily.net
 data-e2b70f0c07.lb-oldenburg.de
 data-e337e2a6a8.kuechenplaner-magazin.de
 data-e34440d805.das-onlinespiel.de
@@ -2059,6 +2064,7 @@ data-f1e447fbcf.meine-anzeigenzeitung.de
 data-f1e447fbcf.merkur.de
 data-f1e447fbcf.merkurtz.de
 data-f1e447fbcf.nextg.tv
+data-f1e447fbcf.oberhessische-zeitung.de
 data-f1e447fbcf.oktoberfest.bayern
 data-f1e447fbcf.op-online.de
 data-f1e447fbcf.ovb-online.de

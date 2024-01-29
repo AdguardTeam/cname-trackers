@@ -9,14 +9,12 @@
 * cdn44221613.ahacdn.me
 * cdn28786515.ahacdn.me
 * cdn12359286.ahacdn.me
-* 548260.parkingcrew.net
 * cdn22904910.ahacdn.me
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| 2d04fd8d84.a10e98bd92.com | 548260.parkingcrew.net |
 | 009974a7d5.c991aea613.com | cdn12359286.ahacdn.me |
 | 00aaa3d3b9.6d39809b4a.com | cdn12359286.ahacdn.me |
 | 01e2d9b3b4.d95d5c2239.com | cdn12359286.ahacdn.me |
@@ -34,13 +32,16 @@
 | 0ae4e91b77.fd670d0efb.com | cdn12359286.ahacdn.me |
 | 0b3c76ea6d.3b25b6026c.com | cdn12359286.ahacdn.me |
 | 0b944b5ab4.0f1d62f955.com | cdn12359286.ahacdn.me |
+| 0c12dbb88e.17436571d0.com | cdn12359286.ahacdn.me |
 | 0c86889368.a98a3766e3.com | cdn12359286.ahacdn.me |
 | 0cb31a9c92.c5e022a60d.com | cdn12359286.ahacdn.me |
 | 0ec9e7251d.bb48cc372d.com | cdn12359286.ahacdn.me |
 | 0f1bc00405.7479e3de29.com | cdn12359286.ahacdn.me |
+| 0f20c9da12.b2e0073814.com | cdn12359286.ahacdn.me |
 | 0fd8f2a42f.987a70dd0c.com | cdn12359286.ahacdn.me |
 | 1038f134c9.18772b5091.com | cdn12359286.ahacdn.me |
 | 11b0ed9125.31433ebfed.com | cdn12359286.ahacdn.me |
+| 12bd6a04bc.0833309e72.com | cdn12359286.ahacdn.me |
 | 12ea020124.e23f9d993d.com | cdn12359286.ahacdn.me |
 | 136779dfe8.c5694c3c56.com | cdn12359286.ahacdn.me |
 | 136d6c9687.9cc064a523.com | cdn12359286.ahacdn.me |
@@ -49,7 +50,6 @@
 | 1588b03038.97da4337b5.com | cdn12359286.ahacdn.me |
 | 15fe98159d.760ead33eb.com | cdn12359286.ahacdn.me |
 | 164d66f4ec.b7efb2664b.com | cdn12359286.ahacdn.me |
-| 165e06ec94.ca169a128b.com | cdn12359286.ahacdn.me |
 | 16887bf91c.68109deb96.com | cdn12359286.ahacdn.me |
 | 176412ee1f.200954fc84.com | cdn12359286.ahacdn.me |
 | 1991aab031.22081b1c58.com | cdn12359286.ahacdn.me |
@@ -144,6 +144,7 @@
 | 7267d7ff7d.0c3b16e8e6.com | cdn12359286.ahacdn.me |
 | 745f5eafee.04cb2afab7.com | cdn12359286.ahacdn.me |
 | 760bdb43fb.7b3bd56d1e.com | cdn12359286.ahacdn.me |
+| 7614afa06a.d56cfcfcab.com | cdn12359286.ahacdn.me |
 | 7660e42567.edeb873154.com | cdn12359286.ahacdn.me |
 | 767d47bd57.b2691621ae.com | cdn12359286.ahacdn.me |
 | 76b93ffbc7.5c0f4f0b22.com | cdn12359286.ahacdn.me |
@@ -192,6 +193,7 @@
 | a111118fae.763e24cc7e.com | cdn12359286.ahacdn.me |
 | a5ace14e30.eb856aa1f4.com | cdn12359286.ahacdn.me |
 | a6eae1bfee.90a47357a5.com | cdn12359286.ahacdn.me |
+| a71e29214a.40a16d92b0.com | cdn12359286.ahacdn.me |
 | a757aa9cf4.04c7739392.com | cdn12359286.ahacdn.me |
 | aad23f01c7.3c96ce165a.com | cdn12359286.ahacdn.me |
 | ab6eb51987.abfb1f1f31.com | cdn12359286.ahacdn.me |
@@ -239,7 +241,6 @@
 | cdcbd91708.045fef1509.com | cdn12359286.ahacdn.me |
 | ce645ac38d.e8e8d13de8.com | cdn12359286.ahacdn.me |
 | ce86516717.197ab55c5d.com | cdn12359286.ahacdn.me |
-| cea77d0dc8.bcea24c9be.com | cdn12359286.ahacdn.me |
 | cf1fdc09bb.96424fcd96.com | cdn12359286.ahacdn.me |
 | cf95d2fe6b.9159f9a13d.com | cdn12359286.ahacdn.me |
 | cf9d46da67.cfcd10eebb.com | cdn12359286.ahacdn.me |
@@ -269,6 +270,7 @@
 | e06a4cbbd9.71a43b8089.com | cdn12359286.ahacdn.me |
 | e0c0b104c3.1d3c0eb7ab.com | cdn12359286.ahacdn.me |
 | e1fa73e3b6.f14b0e6b0b.com | cdn12359286.ahacdn.me |
+| e2354deeb2.edddf79902.com | cdn12359286.ahacdn.me |
 | e2b9148acd.2a2e94fb21.com | cdn12359286.ahacdn.me |
 | e38d8ba8c9.71ffca393f.com | cdn12359286.ahacdn.me |
 | e3e60b55f0.c6dd9301cb.com | cdn12359286.ahacdn.me |
@@ -287,6 +289,7 @@
 | eb3c8482d1.b7a690f1ec.com | cdn12359286.ahacdn.me |
 | eb8ab6f215.1e64b4d129.com | cdn12359286.ahacdn.me |
 | ebb19ca025.0f3887f8af.com | cdn12359286.ahacdn.me |
+| ebb32c7f0d.7b6d8b978c.com | cdn12359286.ahacdn.me |
 | ee20b2b69a.566680be11.com | cdn12359286.ahacdn.me |
 | f0070733b3.07c6b39b80.com | cdn12359286.ahacdn.me |
 | f10f656ffb.c083e24088.com | cdn12359286.ahacdn.me |
@@ -5853,9 +5856,9 @@
 | 0d1dc86b39.f83d8a9867.com | cdn28786515.ahacdn.me |
 | 0e29fa5ee4.09b074f4cf.com | cdn28786515.ahacdn.me |
 | 0e72356b41.0c6dd161e9.com | cdn28786515.ahacdn.me |
-| 0f813fd915.34e224a3bf.com | cdn28786515.ahacdn.me |
 | 0fbecf3633.b30da4e330.com | cdn28786515.ahacdn.me |
 | 10142ca57a.d2d7bba154.com | cdn28786515.ahacdn.me |
+| 118d05e5f1.fd2cd5c351.com | cdn28786515.ahacdn.me |
 | 119c0c90cd.e46271be93.com | cdn28786515.ahacdn.me |
 | 11a1580fd1.ae2f6a33e6.com | cdn28786515.ahacdn.me |
 | 12dfd50511.77c4175fc7.com | cdn28786515.ahacdn.me |
@@ -5916,7 +5919,6 @@
 | 3e5d86ade8.702f5434c8.com | cdn28786515.ahacdn.me |
 | 3f20b278fd.a44c39fc52.com | cdn28786515.ahacdn.me |
 | 4023322612.4a167ec12d.com | cdn28786515.ahacdn.me |
-| 40b61f5dda.ed82f015f8.com | cdn28786515.ahacdn.me |
 | 42916df8a5.0ac56fb52b.com | cdn28786515.ahacdn.me |
 | 43d18c4a3b.a166994a16.com | cdn28786515.ahacdn.me |
 | 44cb7ead33.5caa478343.com | cdn28786515.ahacdn.me |
@@ -5969,7 +5971,7 @@
 | 689ac20aa2.d3da127b69.com | cdn28786515.ahacdn.me |
 | 68a9c96633.49b6b77e56.com | cdn28786515.ahacdn.me |
 | 68d8a29658.059e71004b.com | cdn28786515.ahacdn.me |
-| 690db44214.e51710f24a.com | cdn28786515.ahacdn.me |
+| 69322ba5bb.fc7c8be451.com | cdn28786515.ahacdn.me |
 | 693a6396f6.044165bfac.com | cdn28786515.ahacdn.me |
 | 69fec95f91.9738624519.com | cdn28786515.ahacdn.me |
 | 6a1d032c40.b65415fde6.com | cdn28786515.ahacdn.me |
@@ -5977,7 +5979,6 @@
 | 6a50e3675e.3a17d27bf9.com | cdn28786515.ahacdn.me |
 | 6acb7cce62.c01d3ac9cb.com | cdn28786515.ahacdn.me |
 | 6bc84d8134.fadf617f13.com | cdn28786515.ahacdn.me |
-| 6c876496e6.f4235693e4.com | cdn28786515.ahacdn.me |
 | 6dd83d1cf6.8a00fb3fc1.com | cdn28786515.ahacdn.me |
 | 6e0a73bb5f.2eb3f134fb.com | cdn28786515.ahacdn.me |
 | 6e8a9948e0.6e391732a2.com | cdn28786515.ahacdn.me |
@@ -6006,7 +6007,6 @@
 | 7fb6f12dd2.17dc91dc49.com | cdn28786515.ahacdn.me |
 | 80278cb521.71dd1ff9fd.com | cdn28786515.ahacdn.me |
 | 81584ff74e.aed5586e71.com | cdn28786515.ahacdn.me |
-| 8218416e47.10cbc8a64e.com | cdn28786515.ahacdn.me |
 | 823d58dda1.3edcc83467.com | cdn28786515.ahacdn.me |
 | 827a916646.1c447fc5b7.com | cdn28786515.ahacdn.me |
 | 82aef0449e.8ff41d1efd.com | cdn28786515.ahacdn.me |
@@ -6042,7 +6042,9 @@
 | 99ca111363.ba488608ee.com | cdn28786515.ahacdn.me |
 | 99ccbf1a87.39f204776a.com | cdn28786515.ahacdn.me |
 | 9a15f0c926.02ce917efd.com | cdn28786515.ahacdn.me |
+| 9aba99956a.eb480dde95.com | cdn28786515.ahacdn.me |
 | 9b16d43363.e695e3444e.com | cdn28786515.ahacdn.me |
+| 9c77b4180f.3d5affba28.com | cdn28786515.ahacdn.me |
 | 9c849c70a8.7da3a14504.com | cdn28786515.ahacdn.me |
 | 9d2d87df74.8170a1da9e.com | cdn28786515.ahacdn.me |
 | 9e6b79c0d0.f4961f1b2e.com | cdn28786515.ahacdn.me |
@@ -6071,6 +6073,7 @@
 | ac9fbe82ea.aea00d7aef.com | cdn28786515.ahacdn.me |
 | ad6efec7d7.fbf1dd651b.com | cdn28786515.ahacdn.me |
 | adchk.vasgenerete.com | cdn28786515.ahacdn.me |
+| ae0ab46046.6ce02869b9.com | cdn28786515.ahacdn.me |
 | aef771f8e3.c83cf15c4f.com | cdn28786515.ahacdn.me |
 | aff437176b.19fc4acebd.com | cdn28786515.ahacdn.me |
 | ajs.selecttopoff.com | cdn28786515.ahacdn.me |
@@ -6106,7 +6109,6 @@
 | c8f2dc99fd.1a65658575.com | cdn28786515.ahacdn.me |
 | ca8f6ef18d.17e792897a.com | cdn28786515.ahacdn.me |
 | caa7ed305c.5e164e9f70.com | cdn28786515.ahacdn.me |
-| cae56bc7c7.74c5a46eeb.com | cdn28786515.ahacdn.me |
 | cb4265700a.4ed196b502.com | cdn28786515.ahacdn.me |
 | cbc9313ed1.7d3656bee3.com | cdn28786515.ahacdn.me |
 | cca69dfd26.943d6e0643.com | cdn28786515.ahacdn.me |
@@ -6171,11 +6173,13 @@
 | f857d2a912.c69aa01528.com | cdn28786515.ahacdn.me |
 | f8d832dae1.a6436650df.com | cdn28786515.ahacdn.me |
 | f93bad83b8.5c88c350e2.com | cdn28786515.ahacdn.me |
+| f96b968227.12a640bb5e.com | cdn28786515.ahacdn.me |
 | f9b09a512c.b44794baad.com | cdn28786515.ahacdn.me |
 | fa11552de2.463fca0d34.com | cdn28786515.ahacdn.me |
 | fb8265a483.a3595ccd38.com | cdn28786515.ahacdn.me |
 | fc56d67c2e.984335278d.com | cdn28786515.ahacdn.me |
 | fca4ef2b7a.539f346355.com | cdn28786515.ahacdn.me |
+| fd35bb45c8.f4823894ba.com | cdn28786515.ahacdn.me |
 | fd5b7e24e7.44ffd27303.com | cdn28786515.ahacdn.me |
 | fd758d1b70.097be55da0.com | cdn28786515.ahacdn.me |
 | fdf40224e7.adf4fdd723.com | cdn28786515.ahacdn.me |
@@ -6199,6 +6203,7 @@
 | sw.swwpush.com | cdn28786515.ahacdn.me |
 | sw.wpu.sh | cdn28786515.ahacdn.me |
 | sw.wpush.org | cdn28786515.ahacdn.me |
+| sw.wpushok.com | cdn28786515.ahacdn.me |
 | sw.wpushorg.com | cdn28786515.ahacdn.me |
 | swlogic.wpu.sh | cdn28786515.ahacdn.me |
 | tw.wpu.sh | cdn28786515.ahacdn.me |
@@ -6211,7 +6216,6 @@
 | 034fa98754.ca548318cc.com | cdn44221613.ahacdn.me |
 | 03bb9396b0.e739c4d82b.com | cdn44221613.ahacdn.me |
 | 058b8f96fd.0a05d34d6f.com | cdn44221613.ahacdn.me |
-| 07f1660dde.ef2aecba6f.com | cdn44221613.ahacdn.me |
 | 08793fcc09.bf9c674cc0.com | cdn44221613.ahacdn.me |
 | 0a4b04d051.443f6269ce.com | cdn44221613.ahacdn.me |
 | 0abea7825c.8de2448875.com | cdn44221613.ahacdn.me |
@@ -6264,6 +6268,7 @@
 | 31ad26b5ea.30d0b97ffa.com | cdn44221613.ahacdn.me |
 | 31e4f2300b.ada33bea5b.com | cdn44221613.ahacdn.me |
 | 32e707439d.accf14db6e.com | cdn44221613.ahacdn.me |
+| 331d7222fd.3e2a26326d.com | cdn44221613.ahacdn.me |
 | 33c2f9acb3.05fbc08eac.com | cdn44221613.ahacdn.me |
 | 33f68c4302.cfeb0910c5.com | cdn44221613.ahacdn.me |
 | 3484bf3157.55454ed59d.com | cdn44221613.ahacdn.me |
@@ -6271,15 +6276,14 @@
 | 3683e7c964.412fe7fd10.com | cdn44221613.ahacdn.me |
 | 36fb1c9b7b.9ca8b325b8.com | cdn44221613.ahacdn.me |
 | 37b3525362.bf3572595c.com | cdn44221613.ahacdn.me |
-| 37b3d8e8ce.480a70b554.com | cdn44221613.ahacdn.me |
 | 37dfd89a35.65d2bef787.com | cdn44221613.ahacdn.me |
 | 3942b8586f.bbc781f81e.com | cdn44221613.ahacdn.me |
 | 39700c1948.127d5ef6e1.com | cdn44221613.ahacdn.me |
+| 399a38117a.734b84bb92.com | cdn44221613.ahacdn.me |
 | 3a5227bf70.790475b914.com | cdn44221613.ahacdn.me |
 | 3be4572f0f.535a855e66.com | cdn44221613.ahacdn.me |
 | 3be8666d9c.3e72982861.com | cdn44221613.ahacdn.me |
 | 3c03eb25ce.78359c0779.com | cdn44221613.ahacdn.me |
-| 3ecfebd478.7aa130b045.com | cdn44221613.ahacdn.me |
 | 3f1d1cd4aa.ced843cd18.com | cdn44221613.ahacdn.me |
 | 3f2f1a20ba.1ecfd63507.com | cdn44221613.ahacdn.me |
 | 3f876ad3c2.92430e785d.com | cdn44221613.ahacdn.me |
@@ -6312,7 +6316,6 @@
 | 55ec64767b.59eb44884d.com | cdn44221613.ahacdn.me |
 | 5637f5daf2.e5bb7a50f5.com | cdn44221613.ahacdn.me |
 | 5da111cc66.423ed275a7.com | cdn44221613.ahacdn.me |
-| 6054e6fbd7.be47f5d7a4.com | cdn44221613.ahacdn.me |
 | 6107a15b84.5bdb6e0e40.com | cdn44221613.ahacdn.me |
 | 61726745d5.ee717332bb.com | cdn44221613.ahacdn.me |
 | 619d44d59f.1f1c1d50fe.com | cdn44221613.ahacdn.me |
@@ -6364,6 +6367,7 @@
 | 86ec14a725.367207f60c.com | cdn44221613.ahacdn.me |
 | 87442aa6f2.d473c08307.com | cdn44221613.ahacdn.me |
 | 8b70d4a219.15a3163caa.com | cdn44221613.ahacdn.me |
+| 8cf530b4c4.7dfbef87b6.com | cdn44221613.ahacdn.me |
 | 8f3ef0fc7f.4030b44c32.com | cdn44221613.ahacdn.me |
 | 90a82a7125.2b2b3adee6.com | cdn44221613.ahacdn.me |
 | 90f0064828.648d969d69.com | cdn44221613.ahacdn.me |
@@ -6408,7 +6412,7 @@
 | add26333d7.6064695105.com | cdn44221613.ahacdn.me |
 | aec194b31a.8105bfd0ff.com | cdn44221613.ahacdn.me |
 | aeed800dda.ee43ed4973.com | cdn44221613.ahacdn.me |
-| b213ecb38c.d33f025856.com | cdn44221613.ahacdn.me |
+| b0ee7e20f1.76416dc840.com | cdn44221613.ahacdn.me |
 | b2306b9319.36061d2abc.com | cdn44221613.ahacdn.me |
 | b239c2088d.ff8467d480.com | cdn44221613.ahacdn.me |
 | b2bf1de4b3.79a279edc7.com | cdn44221613.ahacdn.me |
@@ -6428,9 +6432,9 @@
 | c196c337d9.ade6b8430d.com | cdn44221613.ahacdn.me |
 | c19dc968bf.561e861cb4.com | cdn44221613.ahacdn.me |
 | c1c0ac26a3.9f62b6f6bf.com | cdn44221613.ahacdn.me |
+| c3c450ea59.538ad181ab.com | cdn44221613.ahacdn.me |
 | c487b87275.97927e3b4d.com | cdn44221613.ahacdn.me |
 | c4d145f4fc.e969e75a2a.com | cdn44221613.ahacdn.me |
-| c54dc03ed6.650e18138d.com | cdn44221613.ahacdn.me |
 | c551028ccc.1e18a448a6.com | cdn44221613.ahacdn.me |
 | c5fa208d2a.feb6262526.com | cdn44221613.ahacdn.me |
 | c75b53b604.25d83d2f3d.com | cdn44221613.ahacdn.me |
@@ -6479,6 +6483,7 @@
 | ed34502ed8.5236b66b81.com | cdn44221613.ahacdn.me |
 | ed5183bc15.f22440fb7b.com | cdn44221613.ahacdn.me |
 | eead1c57e1.90f2a627a3.com | cdn44221613.ahacdn.me |
+| ef106879f8.f794d2f9d9.com | cdn44221613.ahacdn.me |
 | efaeb1c157.7ff83b4a34.com | cdn44221613.ahacdn.me |
 | efcc36fb7a.d5390684c4.com | cdn44221613.ahacdn.me |
 | efd8d8a247.86e7d35526.com | cdn44221613.ahacdn.me |

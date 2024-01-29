@@ -187,7 +187,6 @@
 ||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||et.sncf.com^
-||et.swatch.com^
 ||eule1.pmu.fr^
 ||eule3.pmu.fr^
 ||eule4.pmu.fr^
@@ -239,7 +238,6 @@
 ||fl5dpe.oui.sncf^
 ||fma7.aegon.es^
 ||fpb8.esce.fr^
-||frc4.placement-direct.fr^
 ||fsz1.francoisesaget.com^
 ||fsz1.franziskasager.de^
 ||fzb5.laboratoire-giphar.fr^
@@ -283,7 +281,6 @@
 ||jun23.madeindesign.de^
 ||jxy6.evobanco.es^
 ||kep6.destinia.ie^
-||kux5.raileurope.com^
 ||kvt5.blesscollectionhotels.com^
 ||kwsjy9.oui.sncf^
 ||lbc.lesbonscommerces.fr^

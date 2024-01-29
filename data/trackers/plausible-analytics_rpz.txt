@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,7 +24,6 @@ aloha.getoperand.com CNAME .
 also.greatsecuritydebate.net CNAME .
 an.xavierrosee.com CNAME .
 analytics.adam.page CNAME .
-analytics.adonisjs.com CNAME .
 analytics.andrewsmith.com.au CNAME .
 analytics.angelina-fieber.com CNAME .
 analytics.arunraghavan.net CNAME .
@@ -447,7 +446,6 @@ stats.centralswindonnorth-pc.gov.uk CNAME .
 stats.cfcasts.com CNAME .
 stats.chadly.net CNAME .
 stats.changelog.com CNAME .
-stats.changeoil.ca CNAME .
 stats.chomp.haus CNAME .
 stats.chronoslabs.net CNAME .
 stats.cinqsecondes.fr CNAME .
@@ -601,7 +599,6 @@ stats.hugoreeves.com CNAME .
 stats.huysmanbouw.be CNAME .
 stats.iamzero.dev CNAME .
 stats.ibuildings.net CNAME .
-stats.iefg.org CNAME .
 stats.igassmann.me CNAME .
 stats.igor4stir.com CNAME .
 stats.in-tuition.net CNAME .
@@ -675,7 +672,6 @@ stats.liamdavis.dev CNAME .
 stats.libertyembers.com CNAME .
 stats.lica.at CNAME .
 stats.lik.fr CNAME .
-stats.lilacphilly.org CNAME .
 stats.limitlessnetworks.eu CNAME .
 stats.lippeshirts.de CNAME .
 stats.literacysomerset.org CNAME .
@@ -741,7 +737,6 @@ stats.oldtinroof.com CNAME .
 stats.oliveoil.pro CNAME .
 stats.olliejudge.com CNAME .
 stats.onepagelove.com CNAME .
-stats.opengatechurch.ca CNAME .
 stats.orbitalhealth.co CNAME .
 stats.ordinarypuzzles.com CNAME .
 stats.ortussolutions.com CNAME .

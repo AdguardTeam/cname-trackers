@@ -1,4 +1,3 @@
 #
 # Company name: GMO Internet Group
 favor1.fractal.jp
-video.sp.gmossp-sp.jp

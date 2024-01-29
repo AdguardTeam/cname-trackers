@@ -224,6 +224,7 @@
 | tr.com.sfr.fr | tracking.bp01.net |
 | tr.combca.fr | tracking.bp01.net |
 | tr.commande.location.boulanger.com | tracking.bp01.net |
+| tr.commercial.boursobank.info | tracking.bp01.net |
 | tr.commint.groupe.chapsvision.com | tracking.bp01.net |
 | tr.communaute.caradisiac.com | tracking.bp01.net |
 | tr.communautes-mediametrie.fr | tracking.bp01.net |

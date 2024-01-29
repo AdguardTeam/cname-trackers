@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -157,6 +157,7 @@ img.foodspring.it CNAME .
 img.foodspring.nl CNAME .
 img.foodspring.se CNAME .
 img.sparkasse-koelnbonn.de CNAME .
+info.allango.net CNAME .
 info.deltapublishing.co.uk CNAME .
 info.genialklick.ch CNAME .
 info.klett-sprachen.de CNAME .
@@ -282,6 +283,7 @@ web.e.pbslgroup.co.uk CNAME .
 web.e.professionalbuildingsupplies.co.uk CNAME .
 web.e.pvccladding.com CNAME .
 web.email.farrow-ball.com CNAME .
+web.email.pizzaexpress.com CNAME .
 web.email.pmtonline.co.uk CNAME .
 web.email.principality.co.uk CNAME .
 web.email.superga.co.uk CNAME .

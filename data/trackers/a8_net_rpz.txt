@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -281,7 +281,6 @@ a8.sakuratravel.jp CNAME .
 a8.sara-uv.com CNAME .
 a8.sawadamarche.com CNAME .
 a8.schecon.com CNAME .
-a8.seifu-ac.jp CNAME .
 a8.seminarshelf.com CNAME .
 a8.sennendo.jp CNAME .
 a8.sharefull.com CNAME .
@@ -955,7 +954,6 @@ a8cv.hariocorp.co.jp CNAME .
 a8cv.hello-people.jp CNAME .
 a8cv.heybit.io CNAME .
 a8cv.hi-tailor.jp CNAME .
-a8cv.hilife-group.com CNAME .
 a8cv.hoken-laundry.com CNAME .
 a8cv.holo-bell.com CNAME .
 a8cv.homepage296.com CNAME .
@@ -1059,6 +1057,7 @@ a8cv.minana-jp.com CNAME .
 a8cv.minnano-eikaiwa.com CNAME .
 a8cv.mitaina.tokyo CNAME .
 a8cv.mobabiji.jp CNAME .
+a8cv.modern-deco.jp CNAME .
 a8cv.modescape.com CNAME .
 a8cv.mogecheck.jp CNAME .
 a8cv.mokumokumarket.com CNAME .
@@ -1405,7 +1404,6 @@ afi.iino.life CNAME .
 afi.school.web-marketing.ai CNAME .
 afi.sougou.web-marketing.ai CNAME .
 afi.ssl.gmobb.jp CNAME .
-aficv.finebase.jp CNAME .
 ahachi.dietnavi.com CNAME .
 ahachi.dreamdenki.jp CNAME .
 ai.kaishabaikyaku.com CNAME .

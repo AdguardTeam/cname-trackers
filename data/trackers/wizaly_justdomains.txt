@@ -89,6 +89,7 @@ tk.evaneos.it
 tk.evaneos.nl
 tk.france-abonnements.fr
 tk.frenchbee.com
+tk.gustaveroussy.fr
 tk.healthwarehouse.com
 tk.hypnia.co.uk
 tk.hypnia.es

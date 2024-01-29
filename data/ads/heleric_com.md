@@ -8,7 +8,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| aa.samaniclucked.com | heleric.com |
+| ac.stigmaicomfy.com | heleric.com |
 | ae.craccaanybody.com | heleric.com |
 | ae.rackmanbehind.com | heleric.com |
 | ae.riataspardahs.com | heleric.com |
@@ -21,7 +21,6 @@
 | ap.bouncelargo.com | heleric.com |
 | aq.ferisonledger.com | heleric.com |
 | ar.pagodaskeeker.com | heleric.com |
-| ar.tankasphose.com | heleric.com |
 | at.laundawaits.com | heleric.com |
 | au.bolloxcyclism.com | heleric.com |
 | av.eulerupslant.com | heleric.com |
@@ -104,6 +103,7 @@
 | en.bummingasses.com | heleric.com |
 | er.briesziphius.com | heleric.com |
 | et.furivaeshotman.com | heleric.com |
+| et.isodontupspurt.com | heleric.com |
 | eu.balletsbeep.com | heleric.com |
 | eu.bassoonavatara.com | heleric.com |
 | eu.jerkytaste.com | heleric.com |
@@ -133,7 +133,6 @@
 | gi.okapisail.com | heleric.com |
 | gn.afootwitword.com | heleric.com |
 | go.cordelgront.com | heleric.com |
-| go.jazygesunoared.com | heleric.com |
 | go.loorydewdrop.com | heleric.com |
 | gp.feiriegershon.com | heleric.com |
 | gp.splodgydossing.com | heleric.com |
@@ -172,7 +171,6 @@
 | ip.fazendatoxic.com | heleric.com |
 | ir.avertinniello.com | heleric.com |
 | ir.mildlydoucely.com | heleric.com |
-| ir.turbotaedile.com | heleric.com |
 | it.hokerlywaffies.com | heleric.com |
 | ix.lithatelamnoid.com | heleric.com |
 | iy.micastpyridic.com | heleric.com |
@@ -206,6 +204,7 @@
 | kp.stingeantonia.com | heleric.com |
 | kq.baggilymitoses.com | heleric.com |
 | ks.dagamemisdeed.com | heleric.com |
+| ku.allnesskepped.com | heleric.com |
 | ku.arbacindiplex.com | heleric.com |
 | ku.eftesthalms.com | heleric.com |
 | kv.patenssabzi.com | heleric.com |
@@ -233,6 +232,7 @@
 | md.unsizedreaward.com | heleric.com |
 | me.salinaswesting.com | heleric.com |
 | mf.collopantony.com | heleric.com |
+| mf.egridstaidly.com | heleric.com |
 | mf.fauldbeeth.com | heleric.com |
 | mh.zonulews.com | heleric.com |
 | mi.bettingbulbous.com | heleric.com |
@@ -254,6 +254,7 @@
 | nm.placoidtobyman.com | heleric.com |
 | no.resailslemures.com | heleric.com |
 | np.brackenclomped.com | heleric.com |
+| nq.juiseforced.com | heleric.com |
 | nr.celaenomash.com | heleric.com |
 | ns.gyreneverist.com | heleric.com |
 | nz.salvingrolls.com | heleric.com |
@@ -364,6 +365,7 @@
 | th.micheryfrugal.com | heleric.com |
 | th.weighinened.com | heleric.com |
 | ti.bandonbrubru.com | heleric.com |
+| ti.solipedsnarls.com | heleric.com |
 | tk.daubingweekday.com | heleric.com |
 | tl.larchentreeman.com | heleric.com |
 | tl.logwisespitzer.com | heleric.com |
@@ -403,6 +405,7 @@
 | vd.clipserelock.com | heleric.com |
 | ve.gweedunweld.com | heleric.com |
 | vg.piaroanjust.com | heleric.com |
+| vh.pewageconcile.com | heleric.com |
 | vi.spratstatters.com | heleric.com |
 | vk.immureuvanite.com | heleric.com |
 | vl.boongsmokeho.com | heleric.com |

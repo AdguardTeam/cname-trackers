@@ -283,7 +283,6 @@
 | a8.sara-uv.com | trck.a8.net |
 | a8.sawadamarche.com | trck.a8.net |
 | a8.schecon.com | trck.a8.net |
-| a8.seifu-ac.jp | trck.a8.net |
 | a8.seminarshelf.com | trck.a8.net |
 | a8.sennendo.jp | trck.a8.net |
 | a8.sharefull.com | trck.a8.net |
@@ -956,7 +955,6 @@
 | a8cv.hello-people.jp | trck.a8.net |
 | a8cv.heybit.io | trck.a8.net |
 | a8cv.hi-tailor.jp | trck.a8.net |
-| a8cv.hilife-group.com | trck.a8.net |
 | a8cv.hoken-laundry.com | trck.a8.net |
 | a8cv.holo-bell.com | trck.a8.net |
 | a8cv.homepage296.com | trck.a8.net |
@@ -1060,6 +1058,7 @@
 | a8cv.minnano-eikaiwa.com | trck.a8.net |
 | a8cv.mitaina.tokyo | trck.a8.net |
 | a8cv.mobabiji.jp | trck.a8.net |
+| a8cv.modern-deco.jp | trck.a8.net |
 | a8cv.modescape.com | trck.a8.net |
 | a8cv.mogecheck.jp | trck.a8.net |
 | a8cv.mokumokumarket.com | trck.a8.net |
@@ -1406,7 +1405,6 @@
 | afi.school.web-marketing.ai | trck.a8.net |
 | afi.sougou.web-marketing.ai | trck.a8.net |
 | afi.ssl.gmobb.jp | trck.a8.net |
-| aficv.finebase.jp | trck.a8.net |
 | ahachi.dietnavi.com | trck.a8.net |
 | ahachi.dreamdenki.jp | trck.a8.net |
 | ai.kaishabaikyaku.com | trck.a8.net |

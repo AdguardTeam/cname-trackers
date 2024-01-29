@@ -203,6 +203,7 @@
 ||tr.com.sfr.fr^
 ||tr.combca.fr^
 ||tr.commande.location.boulanger.com^
+||tr.commercial.boursobank.info^
 ||tr.commint.groupe.chapsvision.com^
 ||tr.communaute.caradisiac.com^
 ||tr.communautes-mediametrie.fr^

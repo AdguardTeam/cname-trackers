@@ -75,6 +75,7 @@ cdn.masbpi.com
 cdn.miluwo.com
 cdn.mnhjk.com
 cdn.mnhjkl.com
+cdn.monhax.com
 cdn.mtinsqq.com
 cdn.munilf.com
 cdn.mwrgi.com
@@ -115,6 +116,7 @@ cdn.spnut.com
 cdn.srxy.xyz
 cdn.sslph.com
 cdn.syinga.com
+cdn.tahwox.com
 cdn.timsef.com
 cdn.tsepyk.com
 cdn.tzaho.com
@@ -186,7 +188,6 @@ antelope.gabriellaroche.dev
 antelope.itsluke.co.uk
 antelope.johndbeatty.com
 antelope.journeyofanurse.com
-antelope.kinn.be
 antelope.u3a.com.au
 antlion.codivores.com
 antlion.hendrikhaack.de
@@ -282,7 +283,6 @@ camel.warvik.no
 canid.20inchlabs.com
 canid.innovatingchildrensservices.org
 canid.mestamaster.fi
-canid.peterakkies.net
 canidae.collectingsocialphoto.org
 canidae.fidum.uk
 capybara.civicsoftwarefoundation.org
@@ -366,7 +366,6 @@ clownfish.philipkiely.com
 clownfish.wrestlingiq.com
 cobra.michaelkoper.com
 cockroach.head4work.com.au
-cockroach.shellstartupengine.live
 cod.onemanandhisblog.com
 cod.serverlesslaravelcourse.com
 cod.tandartspraktijkjagtkade.nl
@@ -403,7 +402,6 @@ cuckoo.cult.supply
 cuckoo.jerandky.com
 cuckoo.minaexplorer.com
 cuckoo.peoplefirstjobs.com
-cxzp.pjrvs.com
 dakqbwpduu.coywolf.io
 damselfly.clk.click
 damselfly.previously.today
@@ -719,7 +717,6 @@ lynx.pascivite.com
 lynx.sbstjn.com
 lynx.simpleparish.com
 macaw.ianmitchell.dev
-mackerel.fathom.cat
 mackerel.passiveincome.io
 magpie.onething.org
 magpie.phil.dev
@@ -866,11 +863,9 @@ planarian.fatsackfails.com
 planarian.reverberate.org
 platypus.cmp.is
 platypus.colly.com
-platypus.facet.net
 platypus.tompec.com
 platypus.zwei-bags.ch
 polarbear.codeday.org
-pony.ftm.cat
 porcupine.dvresolve.com
 porcupine.simpleprax.de
 porpoise.azettl.net
@@ -1114,7 +1109,6 @@ waterboa.midu.dev
 waterboa.nighttrain.co
 whale.gdebrauwer.dev
 whippet.ianglover.com
-whippet.madebywil.co
 whippet.miniforetak.no
 whitefish.antonopoulos-stores.gr
 whitefish.autharmor.com
@@ -1139,13 +1133,11 @@ woodpecker.groupe-montagne.ch
 woodpecker.mikehalliday.com
 woodpecker.seabits.com
 worm.discover-culture.com
-worm.usephantom.com
 www.stork.notlessbutbetter.com
 yak.auclantis.com
 yak.flutterblog.net
 yak.gregsullivan.com
 yak.withlindy.com
-zebra.helpspot.com
 ads.djc.com
 assets-v2.boisedev.com
 assets-v2.invaluable.com

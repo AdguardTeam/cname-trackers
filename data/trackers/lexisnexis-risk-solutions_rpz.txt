@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -462,7 +462,6 @@ hooru.regence.com CNAME .
 id.latitudefinancial.com CNAME .
 idhtm.bb.com.br CNAME .
 idstatus.sky.com CNAME .
-idstatus.sky.it CNAME .
 im2.prod.amount.com CNAME .
 image.online.adp.com CNAME .
 images.applyfleet.com CNAME .
@@ -763,6 +762,7 @@ src.ebay-us.com CNAME .
 src0.myvoffice.com CNAME .
 srv.squaretrade.com CNAME .
 srv.squaretrade.com.au CNAME .
+srv.squaretrade.dk CNAME .
 ssafp.samsclub.com CNAME .
 st10.sofi.com CNAME .
 stat.bluorbank.lv CNAME .
@@ -826,7 +826,6 @@ t1.welab.bank CNAME .
 t11.identity.aikyam.com CNAME .
 t42rsn90.uplift.com CNAME .
 tag-unclaimed.oregon.gov CNAME .
-tag.claimitar.com CNAME .
 tag.findmassmoney.com CNAME .
 tag.findmassmoney.gov CNAME .
 tag.findyourunclaimedproperty.com CNAME .
@@ -1014,6 +1013,9 @@ w3.vectrabank.com CNAME .
 w3.zionsbank.com CNAME .
 webftm.rbc.com CNAME .
 webftm.sterbc.com CNAME .
+west-eu-0156743.medirect.be CNAME .
+west-eu-0156743.medirect.com.mt CNAME .
+west-eu-0156743.medirect.nl CNAME .
 wfp.intuit.com CNAME .
 wildcard.humm.ie CNAME .
 wkvjee5b.globalpay.com CNAME .

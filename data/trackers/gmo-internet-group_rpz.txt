@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,4 +12,3 @@ $TTL 300
 @    IN   NS    localhost.
 
 favor1.fractal.jp CNAME .
-video.sp.gmossp-sp.jp CNAME .

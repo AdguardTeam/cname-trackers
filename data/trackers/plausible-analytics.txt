@@ -13,7 +13,6 @@
 ||also.greatsecuritydebate.net^
 ||an.xavierrosee.com^
 ||analytics.adam.page^
-||analytics.adonisjs.com^
 ||analytics.andrewsmith.com.au^
 ||analytics.angelina-fieber.com^
 ||analytics.arunraghavan.net^
@@ -436,7 +435,6 @@
 ||stats.cfcasts.com^
 ||stats.chadly.net^
 ||stats.changelog.com^
-||stats.changeoil.ca^
 ||stats.chomp.haus^
 ||stats.chronoslabs.net^
 ||stats.cinqsecondes.fr^
@@ -590,7 +588,6 @@
 ||stats.huysmanbouw.be^
 ||stats.iamzero.dev^
 ||stats.ibuildings.net^
-||stats.iefg.org^
 ||stats.igassmann.me^
 ||stats.igor4stir.com^
 ||stats.in-tuition.net^
@@ -664,7 +661,6 @@
 ||stats.libertyembers.com^
 ||stats.lica.at^
 ||stats.lik.fr^
-||stats.lilacphilly.org^
 ||stats.limitlessnetworks.eu^
 ||stats.lippeshirts.de^
 ||stats.literacysomerset.org^
@@ -730,7 +726,6 @@
 ||stats.oliveoil.pro^
 ||stats.olliejudge.com^
 ||stats.onepagelove.com^
-||stats.opengatechurch.ca^
 ||stats.orbitalhealth.co^
 ||stats.ordinarypuzzles.com^
 ||stats.ortussolutions.com^

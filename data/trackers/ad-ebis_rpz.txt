@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -225,7 +225,6 @@ ebis.jukkou.com CNAME .
 ebis.kan54.jp CNAME .
 ebis.kimonoichiba.com CNAME .
 ebis.kubara.jp CNAME .
-ebis.kusunosetakeshi.com CNAME .
 ebis.lululun.com CNAME .
 ebis.macchialabel.com CNAME .
 ebis.makeshop.jp CNAME .

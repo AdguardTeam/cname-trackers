@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -198,7 +198,6 @@ elr.sfr.fr CNAME .
 erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
-et.swatch.com CNAME .
 eule1.pmu.fr CNAME .
 eule3.pmu.fr CNAME .
 eule4.pmu.fr CNAME .
@@ -250,7 +249,6 @@ fkwc.sfr.fr CNAME .
 fl5dpe.oui.sncf CNAME .
 fma7.aegon.es CNAME .
 fpb8.esce.fr CNAME .
-frc4.placement-direct.fr CNAME .
 fsz1.francoisesaget.com CNAME .
 fsz1.franziskasager.de CNAME .
 fzb5.laboratoire-giphar.fr CNAME .
@@ -294,7 +292,6 @@ ju23.madeindesign.co.uk CNAME .
 jun23.madeindesign.de CNAME .
 jxy6.evobanco.es CNAME .
 kep6.destinia.ie CNAME .
-kux5.raileurope.com CNAME .
 kvt5.blesscollectionhotels.com CNAME .
 kwsjy9.oui.sncf CNAME .
 lbc.lesbonscommerces.fr CNAME .

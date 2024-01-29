@@ -146,6 +146,7 @@
 ||img.foodspring.nl^
 ||img.foodspring.se^
 ||img.sparkasse-koelnbonn.de^
+||info.allango.net^
 ||info.deltapublishing.co.uk^
 ||info.genialklick.ch^
 ||info.klett-sprachen.de^
@@ -271,6 +272,7 @@
 ||web.e.professionalbuildingsupplies.co.uk^
 ||web.e.pvccladding.com^
 ||web.email.farrow-ball.com^
+||web.email.pizzaexpress.com^
 ||web.email.pmtonline.co.uk^
 ||web.email.principality.co.uk^
 ||web.email.superga.co.uk^

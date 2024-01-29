@@ -214,7 +214,6 @@
 ||ebis.kan54.jp^
 ||ebis.kimonoichiba.com^
 ||ebis.kubara.jp^
-||ebis.kusunosetakeshi.com^
 ||ebis.lululun.com^
 ||ebis.macchialabel.com^
 ||ebis.makeshop.jp^

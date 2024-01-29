@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -100,6 +100,7 @@ tk.evaneos.it CNAME .
 tk.evaneos.nl CNAME .
 tk.france-abonnements.fr CNAME .
 tk.frenchbee.com CNAME .
+tk.gustaveroussy.fr CNAME .
 tk.healthwarehouse.com CNAME .
 tk.hypnia.co.uk CNAME .
 tk.hypnia.es CNAME .

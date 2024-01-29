@@ -30,7 +30,6 @@
 | affi.veronikahronkova.cz | cz.affilbox.cz |
 | affil.alkohol.cz | cz.affilbox.cz |
 | affil.atan.cz | cz.affilbox.cz |
-| affil.autonaklik.cz | cz.affilbox.cz |
 | affil.avenatura.sk | cz.affilbox.cz |
 | affil.bitdef.cz | cz.affilbox.cz |
 | affil.blaire.cz | cz.affilbox.cz |
@@ -97,7 +96,6 @@
 | affil.zenskecykly.cz | cz.affilbox.cz |
 | affilate.sklep38.cz | cz.affilbox.cz |
 | affilbox.25hodin.cz | cz.affilbox.cz |
-| affilbox.aliveplatform.com | cz.affilbox.cz |
 | affilbox.andreashop.sk | cz.affilbox.cz |
 | affilbox.delibarry.com | cz.affilbox.cz |
 | affilbox.gurufinance.cz | cz.affilbox.cz |
@@ -205,6 +203,7 @@
 | affiliate.lg-store.cz | cz.affilbox.cz |
 | affiliate.licit.cz | cz.affilbox.cz |
 | affiliate.loveo.cz | cz.affilbox.cz |
+| affiliate.luxor.cz | cz.affilbox.cz |
 | affiliate.manvel.cz | cz.affilbox.cz |
 | affiliate.martinreznicek.cz | cz.affilbox.cz |
 | affiliate.milagro.cz | cz.affilbox.cz |
@@ -312,6 +311,7 @@
 | hcbox.tesla-electronics.eu | cz.affilbox.cz |
 | hcbox.tlamka.cz | cz.affilbox.cz |
 | hcbox.verapostele.sk | cz.affilbox.cz |
+| hcbox1.warriorboat.sk | cz.affilbox.cz |
 | isic.dentalweb.cz | cz.affilbox.cz |
 | isic.kopirkaostrava.cz | cz.affilbox.cz |
 | isicpartner.mamechut.cz | cz.affilbox.cz |
@@ -540,7 +540,6 @@
 | partner.giulieta.shop | cz.affilbox.cz |
 | partner.goelite.club | cz.affilbox.cz |
 | partner.gokids.cz | cz.affilbox.cz |
-| partner.granule-eshop.cz | cz.affilbox.cz |
 | partner.greenbeast.vip | cz.affilbox.cz |
 | partner.gurufinance.cz | cz.affilbox.cz |
 | partner.hanamoneam.com | cz.affilbox.cz |
@@ -765,6 +764,7 @@
 | partneri.frcime.cz | cz.affilbox.cz |
 | partneri.gigamat.cz | cz.affilbox.cz |
 | partneri.givt.cz | cz.affilbox.cz |
+| partneri.goaffiliate.cz | cz.affilbox.cz |
 | partneri.heavytamper.cz | cz.affilbox.cz |
 | partneri.hopsaj.sk | cz.affilbox.cz |
 | partneri.incacollagen.eu | cz.affilbox.cz |
@@ -840,6 +840,7 @@
 | partneri.trenink-vyjednavani.cz | cz.affilbox.cz |
 | partneri.trollbeads.cz | cz.affilbox.cz |
 | partneri.trollbeadscz.com | cz.affilbox.cz |
+| partneri.umenibytzdrav.cz | cz.affilbox.cz |
 | partneri.umenijazyku.cz | cz.affilbox.cz |
 | partneri.variantbyznys.cz | cz.affilbox.cz |
 | partneri.vashop.cz | cz.affilbox.cz |

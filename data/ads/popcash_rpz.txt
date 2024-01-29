@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,6 +86,7 @@ cdn.masbpi.com CNAME .
 cdn.miluwo.com CNAME .
 cdn.mnhjk.com CNAME .
 cdn.mnhjkl.com CNAME .
+cdn.monhax.com CNAME .
 cdn.mtinsqq.com CNAME .
 cdn.munilf.com CNAME .
 cdn.mwrgi.com CNAME .
@@ -126,6 +127,7 @@ cdn.spnut.com CNAME .
 cdn.srxy.xyz CNAME .
 cdn.sslph.com CNAME .
 cdn.syinga.com CNAME .
+cdn.tahwox.com CNAME .
 cdn.timsef.com CNAME .
 cdn.tsepyk.com CNAME .
 cdn.tzaho.com CNAME .
@@ -197,7 +199,6 @@ antelope.gabriellaroche.dev CNAME .
 antelope.itsluke.co.uk CNAME .
 antelope.johndbeatty.com CNAME .
 antelope.journeyofanurse.com CNAME .
-antelope.kinn.be CNAME .
 antelope.u3a.com.au CNAME .
 antlion.codivores.com CNAME .
 antlion.hendrikhaack.de CNAME .
@@ -293,7 +294,6 @@ camel.warvik.no CNAME .
 canid.20inchlabs.com CNAME .
 canid.innovatingchildrensservices.org CNAME .
 canid.mestamaster.fi CNAME .
-canid.peterakkies.net CNAME .
 canidae.collectingsocialphoto.org CNAME .
 canidae.fidum.uk CNAME .
 capybara.civicsoftwarefoundation.org CNAME .
@@ -377,7 +377,6 @@ clownfish.philipkiely.com CNAME .
 clownfish.wrestlingiq.com CNAME .
 cobra.michaelkoper.com CNAME .
 cockroach.head4work.com.au CNAME .
-cockroach.shellstartupengine.live CNAME .
 cod.onemanandhisblog.com CNAME .
 cod.serverlesslaravelcourse.com CNAME .
 cod.tandartspraktijkjagtkade.nl CNAME .
@@ -414,7 +413,6 @@ cuckoo.cult.supply CNAME .
 cuckoo.jerandky.com CNAME .
 cuckoo.minaexplorer.com CNAME .
 cuckoo.peoplefirstjobs.com CNAME .
-cxzp.pjrvs.com CNAME .
 dakqbwpduu.coywolf.io CNAME .
 damselfly.clk.click CNAME .
 damselfly.previously.today CNAME .
@@ -730,7 +728,6 @@ lynx.pascivite.com CNAME .
 lynx.sbstjn.com CNAME .
 lynx.simpleparish.com CNAME .
 macaw.ianmitchell.dev CNAME .
-mackerel.fathom.cat CNAME .
 mackerel.passiveincome.io CNAME .
 magpie.onething.org CNAME .
 magpie.phil.dev CNAME .
@@ -877,11 +874,9 @@ planarian.fatsackfails.com CNAME .
 planarian.reverberate.org CNAME .
 platypus.cmp.is CNAME .
 platypus.colly.com CNAME .
-platypus.facet.net CNAME .
 platypus.tompec.com CNAME .
 platypus.zwei-bags.ch CNAME .
 polarbear.codeday.org CNAME .
-pony.ftm.cat CNAME .
 porcupine.dvresolve.com CNAME .
 porcupine.simpleprax.de CNAME .
 porpoise.azettl.net CNAME .
@@ -1125,7 +1120,6 @@ waterboa.midu.dev CNAME .
 waterboa.nighttrain.co CNAME .
 whale.gdebrauwer.dev CNAME .
 whippet.ianglover.com CNAME .
-whippet.madebywil.co CNAME .
 whippet.miniforetak.no CNAME .
 whitefish.antonopoulos-stores.gr CNAME .
 whitefish.autharmor.com CNAME .
@@ -1150,13 +1144,11 @@ woodpecker.groupe-montagne.ch CNAME .
 woodpecker.mikehalliday.com CNAME .
 woodpecker.seabits.com CNAME .
 worm.discover-culture.com CNAME .
-worm.usephantom.com CNAME .
 www.stork.notlessbutbetter.com CNAME .
 yak.auclantis.com CNAME .
 yak.flutterblog.net CNAME .
 yak.gregsullivan.com CNAME .
 yak.withlindy.com CNAME .
-zebra.helpspot.com CNAME .
 ads.djc.com CNAME .
 assets-v2.boisedev.com CNAME .
 assets-v2.invaluable.com CNAME .

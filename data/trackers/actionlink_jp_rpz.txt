@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1705910416505        ; Serial
+           1706515217346        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,6 +41,7 @@ al.office-com.jp CNAME .
 al.pierrotshop.jp CNAME .
 al.saifuku-knit.jp CNAME .
 al.santelabo.jp CNAME .
+al.seleb.co.jp CNAME .
 al.selif.jp CNAME .
 al.shiffon-online.jp CNAME .
 al.shopyamatoya-jp.com CNAME .

@@ -451,7 +451,6 @@ hooru.regence.com
 id.latitudefinancial.com
 idhtm.bb.com.br
 idstatus.sky.com
-idstatus.sky.it
 im2.prod.amount.com
 image.online.adp.com
 images.applyfleet.com
@@ -752,6 +751,7 @@ src.ebay-us.com
 src0.myvoffice.com
 srv.squaretrade.com
 srv.squaretrade.com.au
+srv.squaretrade.dk
 ssafp.samsclub.com
 st10.sofi.com
 stat.bluorbank.lv
@@ -815,7 +815,6 @@ t1.welab.bank
 t11.identity.aikyam.com
 t42rsn90.uplift.com
 tag-unclaimed.oregon.gov
-tag.claimitar.com
 tag.findmassmoney.com
 tag.findmassmoney.gov
 tag.findyourunclaimedproperty.com
@@ -1003,6 +1002,9 @@ w3.vectrabank.com
 w3.zionsbank.com
 webftm.rbc.com
 webftm.sterbc.com
+west-eu-0156743.medirect.be
+west-eu-0156743.medirect.com.mt
+west-eu-0156743.medirect.nl
 wfp.intuit.com
 wildcard.humm.ie
 wkvjee5b.globalpay.com

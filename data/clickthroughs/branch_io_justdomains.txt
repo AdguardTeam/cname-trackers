@@ -31,7 +31,6 @@
 5363316.marketing.numi.com
 5363316.trackerinfo.southbeachdiet.com
 6068372.huckleberry-labs.com
-6505338.news.mindbody.io
 6519114.automated.almosafer.com
 6519114.automated.tajawal.com
 6519114.email.tajawal.com
@@ -368,6 +367,7 @@ ct.irl.com
 ct.irlmail.org
 ctd.drivescore.com
 cttest.branch.rocks
+d.mail.levi.com
 ddlbr.timesclub.co
 debug-inform.liilix.com
 deeplink.alpha.aspiration.com
@@ -718,11 +718,9 @@ links.nbc.com
 links.nbcnews.com
 links.news.forhims.com
 links.news.hims.com
-links.news.mindbody.io
 links.nexttrucking.com
 links.notarize.com
 links.notifications.headspace.com
-links.offers.mindbody.io
 links.official.vsco.co
 links.ohhey.depop.com
 links.openfit.com
@@ -899,7 +897,6 @@ yiyemail.branch.rocks
 20bd.pandasuite.io
 2143.pandasuite.io
 223f.pandasuite.io
-2uvub6.goldenways.fun
 3b38.pandasuite.io
 3skickasurf.tre.se
 40caidaylimpia.catzolab.net
@@ -919,7 +916,6 @@ yiyemail.branch.rocks
 9b55.pandasuite.io
 9bdb.pandasuite.io
 9kvnwwkj.pandasuite.io
-9r3sd6v.goldenways.fun
 a-t.topya.com
 a.a23.in
 a.careangel.com
@@ -981,6 +977,7 @@ app-dev.onyx.fit
 app-dev.stressbuoy.com
 app-jp.getmiles.com
 app-link-test.inkl.com
+app-link-test.republik.gg
 app-link.funfull.com
 app-link.inkl.com
 app-link.republik.gg
@@ -1071,7 +1068,6 @@ app.carrierview.com
 app.carsguide.com.au
 app.catchconnect.com.au
 app.changemakerz.org
-app.chewy.com
 app.citibikenyc.com
 app.citylink.ro
 app.clientbook.com
@@ -1243,6 +1239,7 @@ app.musely.com
 app.mybestphotobook.com
 app.mybliss.ai
 app.mycirclecare.com
+app.mylogoinc.com
 app.myrbhs.com.au
 app.mywaggle.com
 app.naga.com
@@ -1307,6 +1304,7 @@ app.radio.com
 app.radixdlt.com
 app.raneen.com
 app.rclb.pl
+app.realnewsnow.com
 app.renozee.com
 app.resq.club
 app.reuters.com
@@ -2083,7 +2081,6 @@ fetch.gethuan.com
 ff.pdf.ac
 fight.offtherecord.com
 fishing.daigostudio.com
-flutter.branchster.in
 foodsouvlakibar.openapp.link
 fraudandcyberawareness.safeguard.hsbc.com
 friends.hyll.com
@@ -2133,6 +2130,7 @@ get.buzzwallet.io
 get.catch.co
 get.cheapshot.co
 get.cityworthapp.com
+get.codehub.ninja
 get.conciergecare.app
 get.cryptocontrol.io
 get.dctaxi.com
@@ -2314,6 +2312,7 @@ go.driveclutch.com
 go.drivemyfreedom.com
 go.drivencarsallaccess.ca
 go.dubbi.com.br
+go.dutchbros.link
 go.ebat.es
 go.ebates.ca
 go.egypt.innovatedating.com
@@ -2708,7 +2707,6 @@ jp.ppgamingproxy.lol
 jumpto.use-beez.com
 jupiterhealth-app.hotdoc.com.au
 just.playvici.com
-jzz6sfr.goldenways.fun
 k.itribe.in
 k50.rtl2.de
 k5app.byjus.com
@@ -2720,7 +2718,6 @@ keyes.myre.io
 kl-branch-sandbox.thekono.com
 kl-branch.thekono.com
 kotopoulathanasis.openapp.link
-kp2zx9e.goldenways.fun
 l-t.topya.com
 l-test.civic.com
 l-test.guesthug.com
@@ -2812,7 +2809,6 @@ link-staging.samewave.com
 link-staging.viivio.io
 link-staging.youbooq.me
 link-test.360vuz.com
-link-test.acuba.com
 link-test.avenue.us
 link-test.chalknation.com
 link-test.divcity.com
@@ -2957,6 +2953,7 @@ link.fanzapp.io
 link.farm.seedz.ag
 link.favorited.com
 link.fieldcamp.com
+link.financie.online
 link.finfinchannel.com
 link.finnomena.com
 link.fitforbucks.com
@@ -3042,6 +3039,7 @@ link.jetsobee.com
 link.jetstar.com
 link.jig.space
 link.jitta.co
+link.jittawealth.co
 link.jmbl.app
 link.jobble.com
 link.joinswitch.co
@@ -3331,7 +3329,6 @@ linkortdev.insights.md
 linkprod.sprive.com
 links-dev.letzbig.com
 links-dev.seed.co
-links.acuba.com
 links.agoratix.com
 links.ahctv.com
 links.animalplanet.com
@@ -3394,6 +3391,7 @@ links.pkrewards.com
 links.plated.com
 links.quatreepingles.fr
 links.rally.app
+links.rathilpatel.com
 links.respilates.app
 links.riftapp.co
 links.riverratrounders.com
@@ -3546,9 +3544,9 @@ merchant-app.th3rdwave.coffee
 merchant.libertycarz.com
 microsoft.eventionapp.com
 mikelperaia.openapp.link
+mit3app.3.dk
 mitt.3.se
 mitt3.3.se
-mjwjfzw.goldenways.fun
 mk.appwebel.com
 mkt.wemakeprice.link
 ml.houzz.com
@@ -3705,6 +3703,7 @@ play.goldplay.me
 play.jdb888.club
 play.journey8.com
 play.maxgame.store
+play.nekobot.vip
 play.rheo.tv
 play.scavos.com
 play.skydreamcasino.net
@@ -3717,6 +3716,7 @@ play.wavelength.zone
 plv.geocomply.com
 poczta.happ.social
 pod.spoti.fi
+polis.openapp.link
 poll.pollinatepolls.com
 pool.onjoyri.de
 pool.onjoyride.com
@@ -3782,13 +3782,11 @@ redirect.kataklop.com
 redirectdemoqpay.2c2p.com
 ref.elitehrv.com
 ref.mybb.id
-refer-dev.openmed.com
 refer.chargerunning.com
 refer.dev.wagr.us
 refer.dragonfly.com.kh
 refer.gober.app
 refer.kheloapp.com
-refer.openmed.com
 refer.payluy.com.kh
 referral-ca.mixtiles.com
 referral.50fin.in
@@ -3890,7 +3888,6 @@ share.ccorl.com
 share.check-ins.com.my
 share.cjcookit.com
 share.coupangeats.com
-share.curiousjr.com
 share.dailyrounds.in
 share.drinki.com
 share.dunzo.in
@@ -4036,6 +4033,7 @@ store.echovisuals.com
 store.esquirrel.at
 stream.9now.com.au
 studio.joinsalut.com
+subito.openapp.link
 summary.instaread.co
 super8-link.mysuki.io
 surpreendaapp.hanzo.com.br
@@ -4232,7 +4230,6 @@ wsfc-t.topya.com
 wsfc.topya.com
 www.gawayez.e-postserv.com
 www.getone.today
-www.goldenways.fun
 www.link.shopview.in
 www.vetxanh.edu.vn
 www1.happ.social
@@ -4241,7 +4238,6 @@ x.xtar.io
 x88s.pandasuite.io
 y-t.topya.com
 y.topya.com
-y3mmew2.goldenways.fun
 yo.inbots.online
 you.pixellot.link
 you.stage.pixellot.link
@@ -4252,7 +4248,6 @@ z.inlist.com
 zelle.odencat.com
 zombieslayer-alternate.kano.link
 zombieslayer.kano.link
-zzcqwhn.goldenways.fun
 app.brain.ly
 app.exercisetimer.net
 app.hirenodes.com

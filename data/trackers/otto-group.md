@@ -26,16 +26,13 @@
     * te-quelle-de.oghub.io
     * te-sheego-de.oghub.io
     * te-sieh-an-at.oghub.io
-    * te-sieh-an-de.oghub.io
     * te-universal-at.oghub.io
     * te-waeschepur-de.oghub.io
     * te-witt-international-cz.oghub.io
-    * te-witt-international-nl.oghub.io
     * te-witt-international-sk.oghub.io
     * te-witt-weiden-at.oghub.io
     * te-witt-weiden-de.oghub.io
     * te-yomonda-de.oghub.io
-    * te-your-look-for-less-nl.oghub.io
     * te-your-look-for-less-se.oghub.io
     * te.oghub.io
     * te.test-extern.oghub.io
@@ -53,23 +50,17 @@
     * tp-jelmoli-shop-ch.oghub.io
     * tp-limango-de.oghub.io
     * tp-mirapodo-de.oghub.io
-    * tp-mytoys-de.oghub.io
     * tp-otto-de.oghub.io
     * tp-ottoversand-at.oghub.io
     * tp-quelle-de.oghub.io
     * tp-sheego-de.oghub.io
     * tp-sieh-an-at.oghub.io
-    * tp-sieh-an-ch.oghub.io
-    * tp-sieh-an-de.oghub.io
     * tp-universal-at.oghub.io
     * tp-waeschepur-de.oghub.io
     * tp-witt-international-cz.oghub.io
-    * tp-witt-international-nl.oghub.io
     * tp-witt-international-sk.oghub.io
-    * tp-witt-weiden-at.oghub.io
     * tp-witt-weiden-ch.oghub.io
     * tp-witt-weiden-de.oghub.io
-    * tp-yomonda-de.oghub.io
     * tp-your-look-for-less-nl.oghub.io
     * tp-your-look-for-less-se.oghub.io
 
@@ -100,7 +91,6 @@
 | tp.mirapodo.de | js.oghub.io |
 | tp.mirapodo.de | js.oghub.io |
 | tp.mytoys.de | js.oghub.io |
-| tp.mytoys.de | js.oghub.io |
 | tp.otto.de | js.oghub.io |
 | tp.ottoversand.at | js.oghub.io |
 | tp.ottoversand.at | js.oghub.io |
@@ -110,16 +100,13 @@
 | tp.sieh-an.at | js.oghub.io |
 | tp.sieh-an.ch | js.oghub.io |
 | tp.sieh-an.de | js.oghub.io |
-| tp.sieh-an.de | js.oghub.io |
 | tp.universal.at | js.oghub.io |
 | tp.universal.at | js.oghub.io |
 | tp.waeschepur.de | js.oghub.io |
 | tp.waeschepur.de | js.oghub.io |
 | tp.witt-international.cz | js.oghub.io |
 | tp.witt-international.nl | js.oghub.io |
-| tp.witt-international.nl | js.oghub.io |
 | tp.witt-international.sk | js.oghub.io |
-| tp.witt-weiden.at | js.oghub.io |
 | tp.witt-weiden.at | js.oghub.io |
 | tp.witt-weiden.ch | js.oghub.io |
 | tp.witt-weiden.de | js.oghub.io |
@@ -152,16 +139,13 @@
 | te.quelle.de | te-quelle-de.oghub.io |
 | te.sheego.de | te-sheego-de.oghub.io |
 | te.sieh-an.at | te-sieh-an-at.oghub.io |
-| te.sieh-an.de | te-sieh-an-de.oghub.io |
 | te.universal.at | te-universal-at.oghub.io |
 | te.waeschepur.de | te-waeschepur-de.oghub.io |
 | te.witt-international.cz | te-witt-international-cz.oghub.io |
-| te.witt-international.nl | te-witt-international-nl.oghub.io |
 | te.witt-international.sk | te-witt-international-sk.oghub.io |
 | te.witt-weiden.at | te-witt-weiden-at.oghub.io |
 | te.witt-weiden.de | te-witt-weiden-de.oghub.io |
 | te.yomonda.de | te-yomonda-de.oghub.io |
-| te.your-look-for-less.nl | te-your-look-for-less-nl.oghub.io |
 | te.your-look-for-less.se | te-your-look-for-less-se.oghub.io |
 | te.ackermann.ch | te.oghub.io |
 | te.ackermann.ch | te.oghub.io |
@@ -200,7 +184,6 @@
 | te.waeschepur.de | te.oghub.io |
 | te.witt-international.cz | te.oghub.io |
 | te.witt-international.nl | te.oghub.io |
-| te.witt-international.nl | te.oghub.io |
 | te.witt-international.sk | te.oghub.io |
 | te.witt-weiden.at | te.oghub.io |
 | te.witt-weiden.ch | te.oghub.io |
@@ -223,22 +206,16 @@
 | tp.jelmoli-shop.ch | tp-jelmoli-shop-ch.oghub.io |
 | tp.limango.de | tp-limango-de.oghub.io |
 | tp.mirapodo.de | tp-mirapodo-de.oghub.io |
-| tp.mytoys.de | tp-mytoys-de.oghub.io |
 | tp.otto.de | tp-otto-de.oghub.io |
 | tp.ottoversand.at | tp-ottoversand-at.oghub.io |
 | tp.quelle.de | tp-quelle-de.oghub.io |
 | tp.sheego.de | tp-sheego-de.oghub.io |
 | tp.sieh-an.at | tp-sieh-an-at.oghub.io |
-| tp.sieh-an.ch | tp-sieh-an-ch.oghub.io |
-| tp.sieh-an.de | tp-sieh-an-de.oghub.io |
 | tp.universal.at | tp-universal-at.oghub.io |
 | tp.waeschepur.de | tp-waeschepur-de.oghub.io |
 | tp.witt-international.cz | tp-witt-international-cz.oghub.io |
-| tp.witt-international.nl | tp-witt-international-nl.oghub.io |
 | tp.witt-international.sk | tp-witt-international-sk.oghub.io |
-| tp.witt-weiden.at | tp-witt-weiden-at.oghub.io |
 | tp.witt-weiden.ch | tp-witt-weiden-ch.oghub.io |
 | tp.witt-weiden.de | tp-witt-weiden-de.oghub.io |
-| tp.yomonda.de | tp-yomonda-de.oghub.io |
 | tp.your-look-for-less.nl | tp-your-look-for-less-nl.oghub.io |
 | tp.your-look-for-less.se | tp-your-look-for-less-se.oghub.io |

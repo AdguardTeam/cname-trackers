@@ -26,7 +26,6 @@
 | also.greatsecuritydebate.net | custom.plausible.io |
 | an.xavierrosee.com | custom.plausible.io |
 | analytics.adam.page | custom.plausible.io |
-| analytics.adonisjs.com | custom.plausible.io |
 | analytics.andrewsmith.com.au | custom.plausible.io |
 | analytics.angelina-fieber.com | custom.plausible.io |
 | analytics.arunraghavan.net | custom.plausible.io |
@@ -449,7 +448,6 @@
 | stats.cfcasts.com | custom.plausible.io |
 | stats.chadly.net | custom.plausible.io |
 | stats.changelog.com | custom.plausible.io |
-| stats.changeoil.ca | custom.plausible.io |
 | stats.chomp.haus | custom.plausible.io |
 | stats.chronoslabs.net | custom.plausible.io |
 | stats.cinqsecondes.fr | custom.plausible.io |
@@ -603,7 +601,6 @@
 | stats.huysmanbouw.be | custom.plausible.io |
 | stats.iamzero.dev | custom.plausible.io |
 | stats.ibuildings.net | custom.plausible.io |
-| stats.iefg.org | custom.plausible.io |
 | stats.igassmann.me | custom.plausible.io |
 | stats.igor4stir.com | custom.plausible.io |
 | stats.in-tuition.net | custom.plausible.io |
@@ -677,7 +674,6 @@
 | stats.libertyembers.com | custom.plausible.io |
 | stats.lica.at | custom.plausible.io |
 | stats.lik.fr | custom.plausible.io |
-| stats.lilacphilly.org | custom.plausible.io |
 | stats.limitlessnetworks.eu | custom.plausible.io |
 | stats.lippeshirts.de | custom.plausible.io |
 | stats.literacysomerset.org | custom.plausible.io |
@@ -743,7 +739,6 @@
 | stats.oliveoil.pro | custom.plausible.io |
 | stats.olliejudge.com | custom.plausible.io |
 | stats.onepagelove.com | custom.plausible.io |
-| stats.opengatechurch.ca | custom.plausible.io |
 | stats.orbitalhealth.co | custom.plausible.io |
 | stats.ordinarypuzzles.com | custom.plausible.io |
 | stats.ortussolutions.com | custom.plausible.io |

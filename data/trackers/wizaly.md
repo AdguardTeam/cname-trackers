@@ -27,6 +27,7 @@
     * tk-evaneos-fr.wizaly.com
     * tk-france-abonnements-fr.wizaly.com
     * tk-frenchbee-com.wizaly.com
+    * tk-gustaveroussy-fr.wizaly.com
     * tk-healthwarehouse-com.wizaly.com
     * tk-hypnia-fr.wizaly.com
     * tk-illicado-com.wizaly.com
@@ -115,6 +116,7 @@
 | tk.evaneos.nl | tk-evaneos-fr.wizaly.com |
 | tk.france-abonnements.fr | tk-france-abonnements-fr.wizaly.com |
 | tk.frenchbee.com | tk-frenchbee-com.wizaly.com |
+| tk.gustaveroussy.fr | tk-gustaveroussy-fr.wizaly.com |
 | tk.healthwarehouse.com | tk-healthwarehouse-com.wizaly.com |
 | tk.hypnia.co.uk | tk-hypnia-fr.wizaly.com |
 | tk.hypnia.es | tk-hypnia-fr.wizaly.com |
