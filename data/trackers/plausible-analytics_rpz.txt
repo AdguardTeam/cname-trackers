@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1706515217346        ; Serial
+           1707120021912        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -168,7 +168,6 @@ pa.travelwhiz.app CNAME .
 peards.zevvle.com CNAME .
 pine.clk.click CNAME .
 pine.nervecentral.com CNAME .
-ping.cavelab.dev CNAME .
 ping.hedlund.xyz CNAME .
 ping.naturadapt.com CNAME .
 ping.resoluteoil.com CNAME .
@@ -558,7 +557,6 @@ stats.fungus.computer CNAME .
 stats.galeb.org CNAME .
 stats.galleriacortona.com CNAME .
 stats.gbc.uk CNAME .
-stats.genoplev.dk CNAME .
 stats.geobox.app CNAME .
 stats.gerard.fun CNAME .
 stats.gesund-vital-lebensfreude.com CNAME .
@@ -710,6 +708,7 @@ stats.mesenvies.fr CNAME .
 stats.michaeloliver.dev CNAME .
 stats.micv.works CNAME .
 stats.missionrabies.com CNAME .
+stats.moco-comics.com CNAME .
 stats.mostlycoding.com.au CNAME .
 stats.motion-effect.com CNAME .
 stats.motorcyclepartsireland.ie CNAME .
@@ -815,7 +814,6 @@ stats.retofunctional.com CNAME .
 stats.revitfamily.app CNAME .
 stats.rideinpeace.ie CNAME .
 stats.rightourhistoryhawaii.com CNAME .
-stats.robhope.com CNAME .
 stats.robotika.ax CNAME .
 stats.rocketvalidator.com CNAME .
 stats.roderickduenas.com CNAME .

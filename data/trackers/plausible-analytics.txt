@@ -157,7 +157,6 @@
 ||peards.zevvle.com^
 ||pine.clk.click^
 ||pine.nervecentral.com^
-||ping.cavelab.dev^
 ||ping.hedlund.xyz^
 ||ping.naturadapt.com^
 ||ping.resoluteoil.com^
@@ -547,7 +546,6 @@
 ||stats.galeb.org^
 ||stats.galleriacortona.com^
 ||stats.gbc.uk^
-||stats.genoplev.dk^
 ||stats.geobox.app^
 ||stats.gerard.fun^
 ||stats.gesund-vital-lebensfreude.com^
@@ -699,6 +697,7 @@
 ||stats.michaeloliver.dev^
 ||stats.micv.works^
 ||stats.missionrabies.com^
+||stats.moco-comics.com^
 ||stats.mostlycoding.com.au^
 ||stats.motion-effect.com^
 ||stats.motorcyclepartsireland.ie^
@@ -804,7 +803,6 @@
 ||stats.revitfamily.app^
 ||stats.rideinpeace.ie^
 ||stats.rightourhistoryhawaii.com^
-||stats.robhope.com^
 ||stats.robotika.ax^
 ||stats.rocketvalidator.com^
 ||stats.roderickduenas.com^

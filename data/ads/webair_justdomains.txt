@@ -21,7 +21,6 @@ click-eu-v4.celxkpdir.com
 click-eu-v4.expdirclk.com
 click-eu-v4.globlemath.com
 click-eu-v4.junmediadirect1.com
-click-eu.expmediadirect1.com
 click-eu.jadspro.live
 click-eu.pclk.name
 click-eu.plarimoplus.com
@@ -57,8 +56,6 @@ click.directrankcl.com
 click.eclk.club
 click.expdirclk.com
 click.expmdiadi.com
-click.expmediadirect.com
-click.expmediadirect1.com
 click.expoclknw.com
 click.globlemath.com
 click.jadspro.live
@@ -71,7 +68,6 @@ click.plarimoexocli.com
 click.plarimoplus.com
 click.precmd.com
 clicks.uptownleads.com
-clickv6.expmediadirect1.com
 clickv6.junmediadirect.com
 clk.marketjar.net
 clk.pdn-eu.com
@@ -92,7 +88,6 @@ cpm.denakop.com
 cpm.digitalpiee.com
 cpm.entravision.com
 cpm.ergadx.com
-cpm.ezmob.com
 cpm.felixads.com
 cpm.fmlabsonline.com
 cpm.foremedia.net
@@ -108,7 +103,6 @@ cpm.qortex.ai
 cpm.reachableads.com
 cpm.revlift.io
 cpm.rtbanalytica.com
-cpm.rtbidhost.com
 cpm.rtbplatform.net
 cpm.rtbwire.com
 cpm.saturndynamic.pt
@@ -126,7 +120,6 @@ cpm.waardex.com
 cpm.webtradingspot.com
 cpm.xrtb.io
 cpv.popxml.com
-dash.ezmob.com
 dbs-val.looksmart.com
 display.additionalmedia.com
 display.nativeads.com
@@ -161,7 +154,6 @@ filter-eu.bidmyadz.com
 filter-eu.chameleostudios.com
 filter-eu.convertap.com
 filter-eu.expialidosius.com
-filter-eu.ezmob.com
 filter-eu.flairadscpc.com
 filter-eu.fstsrv4.com
 filter-eu.globlemath.com
@@ -240,7 +232,6 @@ filter.eclk.club
 filter.eximdigital.com
 filter.expialidosius.com
 filter.explorads.com
-filter.ezmob.com
 filter.finevisit.com
 filter.flairadscpc.com
 filter.flurryad.com
@@ -421,7 +412,6 @@ push.adright.co
 push.adventurefeeds.com
 push.bvsrv.com
 push.cerineas.com
-push.ezmob.com
 push.icyads.com
 push.mywebqsearch.com
 push.newsvot.com
@@ -466,7 +456,6 @@ rtb-as-uswest.pulsefintech.net
 rtb-eu-v4.152media.cloud
 rtb-eu-v4.adlive.io
 rtb-eu-v4.afkwa.com
-rtb-eu-v4.ezmob.com
 rtb-eu.152media.com
 rtb-eu.80xmedia.com
 rtb-eu.adcannyads.com
@@ -484,7 +473,6 @@ rtb-eu.convergeselect.net
 rtb-eu.creativedot.net
 rtb-eu.displayio.cloud
 rtb-eu.eximdigital.com
-rtb-eu.ezmob.com
 rtb-eu.fmlabsonline.com
 rtb-eu.foremedia.net
 rtb-eu.houseofpubs.com
@@ -501,7 +489,6 @@ rtb-eu.revlift.io
 rtb-eu.rtb.vokut.com
 rtb-eu.rtbadzesto.com
 rtb-eu.rtbdemand.com
-rtb-eu.rtbidhost.com
 rtb-eu.rtbplatform.net
 rtb-eu.rtbserve.io
 rtb-eu.saturndynamic.pt
@@ -516,7 +503,6 @@ rtb-useast-v4.cerineas.com
 rtb-useast-v4.coupontic.com
 rtb-useast-v4.cranberryads.com
 rtb-useast-v4.datadrives.ai
-rtb-useast-v4.ezmob.com
 rtb-useast-v4.mobipromote.com
 rtb-useast-v4.sahrel-server.com
 rtb-useast-v4.vuukle.net
@@ -552,7 +538,6 @@ rtb-useast.digitalpiee.com
 rtb-useast.displayio.cloud
 rtb-useast.e-volution.ai
 rtb-useast.ergadx.com
-rtb-useast.ezmob.com
 rtb-useast.felixads.com
 rtb-useast.fmlabsonline.com
 rtb-useast.foremedia.net
@@ -682,6 +667,7 @@ serv.bvsrv.com
 serve.datacygnal.io
 sm-rtb-useast.zmdvideo.com
 static.adright.co
+static.adright.com
 static.fstsrv1.com
 static.fstsrv2.com
 static.fstsrv3.com
@@ -700,13 +686,9 @@ sw.looksmart.com
 sync.adkernel.com
 tag.adkernel.com
 tag.musiciansaudience.com
-tq-eu.frdjs-1.co
-tq-eu.frdjs-2.co
 tq-eu.nxthost-1.info
 tq-eu.nxthost-2.info
 tq.adventurefeeds.com
-tq.frdjs-1.co
-tq.frdjs-2.co
 tq.nxthost-1.info
 tq.nxthost-2.info
 tq.pdn-eu.com
@@ -721,6 +703,7 @@ vid-rtb-india.xapads.com
 vid-rtb-sg.xapads.com
 vid-rtb-uswest.xapads.com
 vid-rtb.xapads.com
+vid-static.xapads.com
 vsv-val.looksmart.com
 webferret-val.looksmart.com
 webpush.adjux.com
@@ -775,9 +758,6 @@ xml-eu-v4.chameleostudios.com
 xml-eu-v4.convertap.com
 xml-eu-v4.coupontic.com
 xml-eu-v4.explorefast-1.com
-xml-eu-v4.ezmob.com
-xml-eu-v4.frdjs-1.co
-xml-eu-v4.frdjs-2.co
 xml-eu-v4.fstsrv5.com
 xml-eu-v4.fstsrv6.com
 xml-eu-v4.fstsrv7.com
@@ -811,10 +791,8 @@ xml-eu.bidforclicks.com
 xml-eu.bidmyadz.com
 xml-eu.blueparrot.media
 xml-eu.explorefast-1.com
-xml-eu.ezmob.com
 xml-eu.flairadscpc.com
 xml-eu.foremedia.net
-xml-eu.frdjs-1.co
 xml-eu.hueadsxml.com
 xml-eu.mediaxchange.co
 xml-eu.mobipromote.com
@@ -856,10 +834,7 @@ xml-v4.datadrives.ai
 xml-v4.digiteci.com
 xml-v4.domains-traffic.com
 xml-v4.explorefast-1.com
-xml-v4.ezmob.com
 xml-v4.fmlabsonline.com
-xml-v4.frdjs-1.co
-xml-v4.frdjs-2.co
 xml-v4.fstsrv1.com
 xml-v4.fstsrv2.com
 xml-v4.fstsrv3.com
@@ -971,7 +946,6 @@ xml.expialidosius.com
 xml.explorads.com
 xml.explorefast-1.com
 xml.expplatdirect.com
-xml.ezmob.com
 xml.fastdlx.info
 xml.fastdlx.net
 xml.finevisit.com
@@ -980,8 +954,6 @@ xml.flairadscpc.com
 xml.flurryad.com
 xml.flyerblaze.com
 xml.foremedia.net
-xml.frdjs-1.co
-xml.frdjs-2.co
 xml.fstsrv1.com
 xml.fstsrv2.com
 xml.fstsrv3.com
@@ -1094,6 +1066,4 @@ xmlv4-eu.mobuppsrtb.com
 xmlv4.chameleostudios.com
 xmlv4.mobuppsrtb.com
 xmlv4.reklama.network
-static.adright.com
-vid-static.xapads.com
 static.rtb-serve.com

@@ -91,6 +91,7 @@
 | tr.asp10ai.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ap.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10ar.espmp-cufr.net | tracking.bp01.net |
+| tr.asp10b3.espmp-agfr.net | tracking.bp01.net |
 | tr.asp10bq.espmp-nifr.net | tracking.bp01.net |
 | tr.asp10bs.espmp-aufr.net | tracking.bp01.net |
 | tr.asp10c8.espmp-agfr.net | tracking.bp01.net |
@@ -381,7 +382,6 @@
 | tr.emailing.canalsat.ch | tracking.bp01.net |
 | tr.emailing.cifea-mkg.com | tracking.bp01.net |
 | tr.emailing.cnam-paysdelaloire.fr | tracking.bp01.net |
-| tr.emailing.coe.int | tracking.bp01.net |
 | tr.emailing.cstar.fr | tracking.bp01.net |
 | tr.emailing.detours.canal.fr | tracking.bp01.net |
 | tr.emailing.grassavoye.com | tracking.bp01.net |
@@ -632,6 +632,7 @@
 | tr.mattressman.co.uk | tracking.bp01.net |
 | tr.mcom03b.espmp-aufr.net | tracking.bp01.net |
 | tr.mcom04p.espmp-aufr.net | tracking.bp01.net |
+| tr.media.harmonie-sante.fr | tracking.bp01.net |
 | tr.melhores-propostas.pt | tracking.bp01.net |
 | tr.membres.boursorama.info | tracking.bp01.net |
 | tr.mep.enkiapp.io | tracking.bp01.net |
@@ -645,6 +646,7 @@
 | tr.mhist.moethennessy.com | tracking.bp01.net |
 | tr.mhlab78.moethennessy.com | tracking.bp01.net |
 | tr.mhusa-trade-engagement.moethennessy.com | tracking.bp01.net |
+| tr.mhwinesestates.moethennessy.com | tracking.bp01.net |
 | tr.mijn-superaanbieding.be | tracking.bp01.net |
 | tr.mijnaanbieding.renowizz.be | tracking.bp01.net |
 | tr.mika.espmp-nifr.net | tracking.bp01.net |
@@ -1098,6 +1100,7 @@
 | tr.welcome.easyvoyage.co.uk | tracking.bp01.net |
 | tr.welcome.easyvoyage.com | tracking.bp01.net |
 | tr.welcome.easyvoyage.de | tracking.bp01.net |
+| tr.welcome.lacollection-airfrance.be | tracking.bp01.net |
 | tr.welcome.lacollection-airfrance.ch | tracking.bp01.net |
 | tr.welcome.lacollection-airfrance.co.uk | tracking.bp01.net |
 | tr.welcome.lacollection-airfrance.de | tracking.bp01.net |

@@ -170,7 +170,6 @@
 | peards.zevvle.com | custom.plausible.io |
 | pine.clk.click | custom.plausible.io |
 | pine.nervecentral.com | custom.plausible.io |
-| ping.cavelab.dev | custom.plausible.io |
 | ping.hedlund.xyz | custom.plausible.io |
 | ping.naturadapt.com | custom.plausible.io |
 | ping.resoluteoil.com | custom.plausible.io |
@@ -560,7 +559,6 @@
 | stats.galeb.org | custom.plausible.io |
 | stats.galleriacortona.com | custom.plausible.io |
 | stats.gbc.uk | custom.plausible.io |
-| stats.genoplev.dk | custom.plausible.io |
 | stats.geobox.app | custom.plausible.io |
 | stats.gerard.fun | custom.plausible.io |
 | stats.gesund-vital-lebensfreude.com | custom.plausible.io |
@@ -712,6 +710,7 @@
 | stats.michaeloliver.dev | custom.plausible.io |
 | stats.micv.works | custom.plausible.io |
 | stats.missionrabies.com | custom.plausible.io |
+| stats.moco-comics.com | custom.plausible.io |
 | stats.mostlycoding.com.au | custom.plausible.io |
 | stats.motion-effect.com | custom.plausible.io |
 | stats.motorcyclepartsireland.ie | custom.plausible.io |
@@ -817,7 +816,6 @@
 | stats.revitfamily.app | custom.plausible.io |
 | stats.rideinpeace.ie | custom.plausible.io |
 | stats.rightourhistoryhawaii.com | custom.plausible.io |
-| stats.robhope.com | custom.plausible.io |
 | stats.robotika.ax | custom.plausible.io |
 | stats.rocketvalidator.com | custom.plausible.io |
 | stats.roderickduenas.com | custom.plausible.io |

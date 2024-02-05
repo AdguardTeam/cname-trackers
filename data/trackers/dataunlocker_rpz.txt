@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1706515217346        ; Serial
+           1707120021912        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -56,6 +56,7 @@ $TTL 300
 9kkjfywjz50v.www.eventus.io CNAME .
 9l3cr6dvk2kb.adaptive.marketing CNAME .
 9uim1pc4ej4n.ru.themoneytizer.com CNAME .
+9ywl0cwf7e37m5yi.tapin.gg CNAME .
 ac9kpxbans1l.staging.unstoppabledomains.com CNAME .
 am3s622gcd6m.tt.live CNAME .
 av6fm8zw2cvz.furucombo.app CNAME .
@@ -81,10 +82,10 @@ gl5g98t0vfjb.panprices.com CNAME .
 gvmomuqjv1.swyftx.com CNAME .
 hht8m6w8mnug.quine.sh CNAME .
 ilkk97e98lvg.www.sidsplumbing.ie CNAME .
+ipz51x.kvest.ee CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
-j9kekd74tc4ki.tapin.gg CNAME .
 jii3gnhro.www.emanualonline.com CNAME .
 jiktq0fr9hv6.meleton.ru CNAME .
 k1usj3j6p706.dev.app.fika.community CNAME .
@@ -108,7 +109,6 @@ qri2r94eeajr.innovationcast.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 rbat6ac0zzjd.www.terraform.com.ar CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
-rynu3lxoyahzp.kvest.ee CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
 soahu1wnmt6l.www.replai.io CNAME .
 sr59t7wbx5.claricelin.com CNAME .
@@ -126,7 +126,6 @@ vzal21mooz.hyperwrite.ai CNAME .
 w38ju82bano4.cv.gerardbosch.xyz CNAME .
 wayyaj8t094u.www.kodalia.com CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
-x2l5lsn8rvsq.li.finance CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
 ysrrzgku6tar.us.themoneytizer.com CNAME .

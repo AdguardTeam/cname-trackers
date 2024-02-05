@@ -70,6 +70,7 @@
 ||tr.asp10ai.espmp-nifr.net^
 ||tr.asp10ap.espmp-nifr.net^
 ||tr.asp10ar.espmp-cufr.net^
+||tr.asp10b3.espmp-agfr.net^
 ||tr.asp10bq.espmp-nifr.net^
 ||tr.asp10bs.espmp-aufr.net^
 ||tr.asp10c8.espmp-agfr.net^
@@ -360,7 +361,6 @@
 ||tr.emailing.canalsat.ch^
 ||tr.emailing.cifea-mkg.com^
 ||tr.emailing.cnam-paysdelaloire.fr^
-||tr.emailing.coe.int^
 ||tr.emailing.cstar.fr^
 ||tr.emailing.detours.canal.fr^
 ||tr.emailing.grassavoye.com^
@@ -611,6 +611,7 @@
 ||tr.mattressman.co.uk^
 ||tr.mcom03b.espmp-aufr.net^
 ||tr.mcom04p.espmp-aufr.net^
+||tr.media.harmonie-sante.fr^
 ||tr.melhores-propostas.pt^
 ||tr.membres.boursorama.info^
 ||tr.mep.enkiapp.io^
@@ -624,6 +625,7 @@
 ||tr.mhist.moethennessy.com^
 ||tr.mhlab78.moethennessy.com^
 ||tr.mhusa-trade-engagement.moethennessy.com^
+||tr.mhwinesestates.moethennessy.com^
 ||tr.mijn-superaanbieding.be^
 ||tr.mijnaanbieding.renowizz.be^
 ||tr.mika.espmp-nifr.net^
@@ -1077,6 +1079,7 @@
 ||tr.welcome.easyvoyage.co.uk^
 ||tr.welcome.easyvoyage.com^
 ||tr.welcome.easyvoyage.de^
+||tr.welcome.lacollection-airfrance.be^
 ||tr.welcome.lacollection-airfrance.ch^
 ||tr.welcome.lacollection-airfrance.co.uk^
 ||tr.welcome.lacollection-airfrance.de^

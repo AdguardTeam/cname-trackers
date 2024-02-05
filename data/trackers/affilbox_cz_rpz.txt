@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1706515217346        ; Serial
+           1707120021912        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -481,6 +481,7 @@ partner.chilimarket.cz CNAME .
 partner.chococo.cz CNAME .
 partner.chytranemovitost.cz CNAME .
 partner.chytrydopravce.cz CNAME .
+partner.cleanee.cz CNAME .
 partner.cleverfood.eu CNAME .
 partner.cokoladovnajanek.cz CNAME .
 partner.colosseumticket.cz CNAME .
@@ -624,6 +625,7 @@ partner.olo.cz CNAME .
 partner.onlinepriznani.cz CNAME .
 partner.onlinepriznanie.sk CNAME .
 partner.ozogan.cz CNAME .
+partner.palstorm.cz CNAME .
 partner.parfemy-parfumeur.cz CNAME .
 partner.perfect-dress.eu CNAME .
 partner.pesar.cz CNAME .
@@ -646,7 +648,6 @@ partner.royalfashion.cz CNAME .
 partner.rozhladna.sk CNAME .
 partner.runningpro.cz CNAME .
 partner.ruzovyslon.cz CNAME .
-partner.safelab.sk CNAME .
 partner.salibandy.shop CNAME .
 partner.santao.cz CNAME .
 partner.scilearn.cz CNAME .
@@ -692,7 +693,6 @@ partner.victus.cz CNAME .
 partner.virulent.cz CNAME .
 partner.vladimirekart.cz CNAME .
 partner.volne-reality.cz CNAME .
-partner.vykoupeno.cz CNAME .
 partner.vyprodejskladu.com CNAME .
 partner.webareal.cz CNAME .
 partner.webareal.sk CNAME .

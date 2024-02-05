@@ -470,6 +470,7 @@ partner.chilimarket.cz
 partner.chococo.cz
 partner.chytranemovitost.cz
 partner.chytrydopravce.cz
+partner.cleanee.cz
 partner.cleverfood.eu
 partner.cokoladovnajanek.cz
 partner.colosseumticket.cz
@@ -613,6 +614,7 @@ partner.olo.cz
 partner.onlinepriznani.cz
 partner.onlinepriznanie.sk
 partner.ozogan.cz
+partner.palstorm.cz
 partner.parfemy-parfumeur.cz
 partner.perfect-dress.eu
 partner.pesar.cz
@@ -635,7 +637,6 @@ partner.royalfashion.cz
 partner.rozhladna.sk
 partner.runningpro.cz
 partner.ruzovyslon.cz
-partner.safelab.sk
 partner.salibandy.shop
 partner.santao.cz
 partner.scilearn.cz
@@ -681,7 +682,6 @@ partner.victus.cz
 partner.virulent.cz
 partner.vladimirekart.cz
 partner.volne-reality.cz
-partner.vykoupeno.cz
 partner.vyprodejskladu.com
 partner.webareal.cz
 partner.webareal.sk

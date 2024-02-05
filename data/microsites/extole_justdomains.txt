@@ -8,6 +8,7 @@ friend.sharefile.com
 friends.keurig.ca
 friends.keurig.com
 ilove.volusion.com
+indique.bemmaisseguro.com
 indique.phooto.com.br
 invite.toughmudder.com
 refer-a-friend.trivantis.com
@@ -72,7 +73,6 @@ refer.nzforex.co.nz
 refer.offset.com
 refer.ofx.com
 refer.ooma.com
-refer.opensky.com
 refer.orientaltrading.com
 refer.ozforex.com.au
 refer.pageonce.com
@@ -130,6 +130,8 @@ businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
 em3904.skillshare.com
+em8561.go2bank.com
+em8928.em.petco.com
 em924.refer.starbucks.com
 externalreferral.freshworks.com
 friend.discover.com
@@ -152,6 +154,7 @@ recommander.quickbooks.ca
 refer-photo.cvs.com
 refer-staging.freshly.com
 refer-us.uniqlo.com
+refer.1099online.com
 refer.1800contacts.com
 refer.2-10.com
 refer.2ndswing.com
@@ -233,12 +236,12 @@ refer.evite.com
 refer.fahw.com
 refer.firstaidbeauty.com
 refer.firsttechfed.com
+refer.forddrive.com
 refer.forgetrust.com
 refer.frontgate.com
 refer.g2.com
 refer.gapcanada.ca
 refer.garnethill.com
-refer.gbyguess.com
 refer.gcefcu.org
 refer.giantfood.com
 refer.giantfoodstores.com
@@ -523,6 +526,7 @@ share.go2bank.com
 share.granitegaragefloors.com
 share.greenlight.com
 share.greenlightcard.com
+share.greenvilleonline.com
 share.gruntstyle.com
 share.gxvebeauty.com
 share.hanacure.com
@@ -682,9 +686,8 @@ share.zebit.com
 share.zenbusiness.com
 www.referessentials.com
 www.referquickbooks.com
+xtl._domainkey.skillshare.com
 em1476.princesscruises.com
 em225.codecademy.com
 em4367.raf-studentloans.discover.com
-em8561.go2bank.com
-em8928.em.petco.com
 sftp.extole.com

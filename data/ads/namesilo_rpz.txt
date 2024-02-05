@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1706515217346        ; Serial
+           1707120021912        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -408,6 +408,7 @@ $TTL 300
 3437433.notifysrv.com CNAME .
 3440153.notify6.com CNAME .
 3440153.notifysrv.com CNAME .
+3440155.notify6.com CNAME .
 3440155.notifysrv.com CNAME .
 3440401.notify6.com CNAME .
 3440401.notifysrv.com CNAME .
@@ -465,6 +466,7 @@ $TTL 300
 3483233.notifysrv.com CNAME .
 3483409.notify6.com CNAME .
 3484631.notify6.com CNAME .
+3485755.notifysrv.com CNAME .
 3489365.notify6.com CNAME .
 3491507.notifysrv.com CNAME .
 3491539.notifysrv.com CNAME .
@@ -599,6 +601,7 @@ $TTL 300
 3591075.notifysrv.com CNAME .
 3593835.notify6.com CNAME .
 3593835.notifysrv.com CNAME .
+3593847.notifysrv.com CNAME .
 3593859.notifysrv.com CNAME .
 3595095.notifysrv.com CNAME .
 3595711.notifysrv.com CNAME .
@@ -612,6 +615,7 @@ $TTL 300
 3603119.notifysrv.com CNAME .
 3607715.notify6.com CNAME .
 3607715.notifysrv.com CNAME .
+3613079.notify6.com CNAME .
 3613299.notifysrv.com CNAME .
 3617551.notify6.com CNAME .
 3617853.notify6.com CNAME .
@@ -842,6 +846,7 @@ $TTL 300
 4143324.notify6.com CNAME .
 4144426.notify6.com CNAME .
 4149128.notify6.com CNAME .
+4149216.notify6.com CNAME .
 4151384.notify6.com CNAME .
 4152268.notify6.com CNAME .
 4152316.notify6.com CNAME .
@@ -992,6 +997,7 @@ $TTL 300
 769.notify.optimizesrv.com CNAME .
 8.notify.bizonads-ssp.com CNAME .
 905.notify.optimizesrv.com CNAME .
+909.notify.optimizesrv.com CNAME .
 913.notify.optimizesrv.com CNAME .
 925.notify.optimizesrv.com CNAME .
 955.notify.optimizesrv.com CNAME .
@@ -1000,6 +1006,7 @@ $TTL 300
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
 a.a3ion.com CNAME .
+a.addisplaynetwork.com CNAME .
 a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
 a.advertrek.com CNAME .
@@ -1011,16 +1018,20 @@ a.optimizesrv.com CNAME .
 a.paradoxgroup.uk CNAME .
 a.r8lnet.com CNAME .
 a.redpathmedia.com CNAME .
+a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
 a.slice.exchange CNAME .
+a.stuffserve.com CNAME .
 admin.adnation.com CNAME .
 admin.adstuff.io CNAME .
+admin.datingclix.com CNAME .
 admin.etology.com CNAME .
 admin.exoclick.com CNAME .
 admin.gettopple.com CNAME .
 admin.shafttraffic.com CNAME .
 admin.trafficfactory.com CNAME .
 api.adnation.com CNAME .
+api.datingclix.com CNAME .
 api.getblaze.app CNAME .
 api.slice.exchange CNAME .
 api.trafficfactory.com CNAME .
@@ -1028,6 +1039,7 @@ click.advertrek.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 m.hue2m.com CNAME .
+m.optidigital.com CNAME .
 main.exdynsrv.com CNAME .
 main.exoclick.com CNAME .
 main.exosrv.com CNAME .
@@ -1074,11 +1086,13 @@ s.elnn10.com CNAME .
 s.elnn12.com CNAME .
 s.elnn14.com CNAME .
 s.elnn20.com CNAME .
+s.elnn22.com CNAME .
 s.elnn24.com CNAME .
 s.elnp11.com CNAME .
 s.elnr15.com CNAME .
 s.elns12.com CNAME .
 s.elns4a.com CNAME .
+s.elns4b.com CNAME .
 s.elns4c.com CNAME .
 s.etology.com CNAME .
 s.eunow4u.com CNAME .
@@ -1162,6 +1176,3 @@ www.4389756.notify6.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
-a.addisplaynetwork.com CNAME .
-a.rocoads.net CNAME .
-a.stuffserve.com CNAME .

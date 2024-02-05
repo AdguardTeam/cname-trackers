@@ -487,6 +487,7 @@
 | partner.chococo.cz | cz.affilbox.cz |
 | partner.chytranemovitost.cz | cz.affilbox.cz |
 | partner.chytrydopravce.cz | cz.affilbox.cz |
+| partner.cleanee.cz | cz.affilbox.cz |
 | partner.cleverfood.eu | cz.affilbox.cz |
 | partner.cokoladovnajanek.cz | cz.affilbox.cz |
 | partner.colosseumticket.cz | cz.affilbox.cz |
@@ -630,6 +631,7 @@
 | partner.onlinepriznani.cz | cz.affilbox.cz |
 | partner.onlinepriznanie.sk | cz.affilbox.cz |
 | partner.ozogan.cz | cz.affilbox.cz |
+| partner.palstorm.cz | cz.affilbox.cz |
 | partner.parfemy-parfumeur.cz | cz.affilbox.cz |
 | partner.perfect-dress.eu | cz.affilbox.cz |
 | partner.pesar.cz | cz.affilbox.cz |
@@ -652,7 +654,6 @@
 | partner.rozhladna.sk | cz.affilbox.cz |
 | partner.runningpro.cz | cz.affilbox.cz |
 | partner.ruzovyslon.cz | cz.affilbox.cz |
-| partner.safelab.sk | cz.affilbox.cz |
 | partner.salibandy.shop | cz.affilbox.cz |
 | partner.santao.cz | cz.affilbox.cz |
 | partner.scilearn.cz | cz.affilbox.cz |
@@ -698,7 +699,6 @@
 | partner.virulent.cz | cz.affilbox.cz |
 | partner.vladimirekart.cz | cz.affilbox.cz |
 | partner.volne-reality.cz | cz.affilbox.cz |
-| partner.vykoupeno.cz | cz.affilbox.cz |
 | partner.vyprodejskladu.com | cz.affilbox.cz |
 | partner.webareal.cz | cz.affilbox.cz |
 | partner.webareal.sk | cz.affilbox.cz |

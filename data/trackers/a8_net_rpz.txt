@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1706515217346        ; Serial
+           1707120021912        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,7 +25,6 @@ a8-xshop.secure.xserver.ne.jp CNAME .
 a8.01cloud.jp CNAME .
 a8.123.rheos.jp CNAME .
 a8.2ndstreet.jp CNAME .
-a8.366vivi.com CNAME .
 a8.abemashopping.jp CNAME .
 a8.ablenet.jp CNAME .
 a8.aga-hakata.com CNAME .
@@ -262,7 +261,6 @@ a8.polyglots.net CNAME .
 a8.princess-jp.com CNAME .
 a8.print-netsquare.com CNAME .
 a8.projectee.online CNAME .
-a8.push.capsules.jp CNAME .
 a8.rank-quest.jp CNAME .
 a8.recmount-plus.com CNAME .
 a8.remix-denki.com CNAME .
@@ -413,6 +411,7 @@ a8clk.adventkk.co.jp CNAME .
 a8clk.afi1.emanon-sharesalon.com CNAME .
 a8clk.aipo.com CNAME .
 a8clk.alljewelry.jp CNAME .
+a8clk.ambientlounge.co.jp CNAME .
 a8clk.amelia.ne.jp CNAME .
 a8clk.ancar.jp CNAME .
 a8clk.ands-tech.com CNAME .
@@ -733,7 +732,6 @@ a8clk.www.netage.ne.jp CNAME .
 a8clk.www.nortonstore.jp CNAME .
 a8clk.www.oms.energy-itsol.com CNAME .
 a8clk.www.rebo-success.co.jp CNAME .
-a8clk.www.roomdeco.shop CNAME .
 a8clk.www.solar-partners.jp CNAME .
 a8clk.www.solarmonitorlp.energy-itsol.com CNAME .
 a8clk.www.uz.team CNAME .
@@ -950,6 +948,7 @@ a8cv.hanamaro.jp CNAME .
 a8cv.handmade-ch.jp CNAME .
 a8cv.happy-bears.com CNAME .
 a8cv.harasawa.co.jp CNAME .
+a8cv.hardwarewallet-japan.com CNAME .
 a8cv.hariocorp.co.jp CNAME .
 a8cv.hello-people.jp CNAME .
 a8cv.heybit.io CNAME .
@@ -1019,6 +1018,7 @@ a8cv.kosodatemoney.com CNAME .
 a8cv.kstarselect.com CNAME .
 a8cv.kuih.jp CNAME .
 a8cv.kurashi-bears.com CNAME .
+a8cv.kusmitea.jp CNAME .
 a8cv.kuzefuku-arcade.jp CNAME .
 a8cv.kxn.co.jp CNAME .
 a8cv.kyotokimono-rental.com CNAME .
@@ -1143,6 +1143,7 @@ a8cv.rita-style.co.jp CNAME .
 a8cv.rmkrmk.com CNAME .
 a8cv.rohto.co.jp CNAME .
 a8cv.runteq.jp CNAME .
+a8cv.ryomon.jp CNAME .
 a8cv.s-darts.com CNAME .
 a8cv.sabusuta.jp CNAME .
 a8cv.saitoma.com CNAME .
@@ -1218,7 +1219,6 @@ a8cv.techkidsschool.jp CNAME .
 a8cv.tenishokunext.jp CNAME .
 a8cv.tenkuryo.jp CNAME .
 a8cv.tenshinocart.com CNAME .
-a8cv.tfansite.jp CNAME .
 a8cv.tmix.jp CNAME .
 a8cv.tokei-syuri.jp CNAME .
 a8cv.toko-navi.com CNAME .
@@ -1536,6 +1536,7 @@ sub.ecd.bookoffonline.co.jp CNAME .
 sub.turningpoint.work CNAME .
 summary.bookoffonline.co.jp CNAME .
 sync-a8.cocolocala.jp CNAME .
+tag.minimaid.co.jp CNAME .
 test.shigoto-web.com CNAME .
 test.zeus-wifi.jp CNAME .
 testa8wifi.dokoyorimo.com CNAME .

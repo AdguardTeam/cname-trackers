@@ -41,6 +41,7 @@
     * tchibo09.webtrekk.net
     * telekom01.webtrekk.net
     * telekom02.webtrekk.net
+    * teufel-de01.webtrekk.net
     * warentest-de01.webtrekk.net
     * yello-de01.webtrekk.net
 * wt-eu02.net
@@ -137,6 +138,7 @@
     * 709031981525642.wt-eu02.net
     * 709114798683263.wt-eu02.net
     * 724547646438858.wt-eu02.net
+    * 725569110638965.wt-eu02.net
     * 728252369996325.wt-eu02.net
     * 729347163621496.wt-eu02.net
     * 730059294506327.wt-eu02.net
@@ -337,6 +339,7 @@
 | pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
 | web.e.bolts.co.uk | 587628343151442.wt-eu02.net |
+| web.e.compositesales.co.uk | 587628343151442.wt-eu02.net |
 | web.e.drainagepipe.co.uk | 587628343151442.wt-eu02.net |
 | web.e.guttersupplies.co.uk | 587628343151442.wt-eu02.net |
 | web.e.pbslgroup.co.uk | 587628343151442.wt-eu02.net |
@@ -374,6 +377,7 @@
 | info.klett-sprachen.de | 709031981525642.wt-eu02.net |
 | web.info.bonprix.es | 709114798683263.wt-eu02.net |
 | web.campaign.miriade.com | 724547646438858.wt-eu02.net |
+| web.mailing.morawa.at | 725569110638965.wt-eu02.net |
 | data.campaign.toyscenter.it | 728252369996325.wt-eu02.net |
 | web.diebayerische.de | 729347163621496.wt-eu02.net |
 | census.misterspex.at | 730059294506327.wt-eu02.net |
@@ -600,6 +604,7 @@
 | tracking.tchibo.com.tr | tchibo09.webtrekk.net |
 | pix.telekom.de | telekom01.webtrekk.net |
 | pix.telekom-dienste.de | telekom02.webtrekk.net |
+| wbtrkk.teufelaudio.co.uk | teufel-de01.webtrekk.net |
 | tippcom01.tipp24.com | tipp24-de01.wt-eu02.net |
 | tr.computeruniverse.net | tr.computeruniverse.wt-eu02.net |
 | daten.union-investment.de | unioninvestment-de01.wt-eu02.net |

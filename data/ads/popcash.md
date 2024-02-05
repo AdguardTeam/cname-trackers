@@ -42,6 +42,7 @@
 | partners.hourmediagroup.com | bs-adserver.b-cdn.net |
 | partners.nationalmortgageprofessional.com | bs-adserver.b-cdn.net |
 | partners.seetheworld.com | bs-adserver.b-cdn.net |
+| pnq.babcoxmediainc.com | bs-adserver.b-cdn.net |
 | saucon-sponsors.streetinteractive.com | bs-adserver.b-cdn.net |
 | sponsor-v2.lebtown.com | bs-adserver.b-cdn.net |
 | sponsor.styleblueprint.com | bs-adserver.b-cdn.net |
@@ -428,6 +429,7 @@
 | flyingfish.editorslab.de | deprecated-custom-domains.b-cdn.net |
 | flyingfish.whoisrepresented.org | deprecated-custom-domains.b-cdn.net |
 | fowl.saulhardman.com | deprecated-custom-domains.b-cdn.net |
+| fowl.teamyap.app | deprecated-custom-domains.b-cdn.net |
 | fox.domainr.com | deprecated-custom-domains.b-cdn.net |
 | fox.visionaudiovisual.com | deprecated-custom-domains.b-cdn.net |
 | gamefowl.emailforward.mx | deprecated-custom-domains.b-cdn.net |
@@ -579,7 +581,6 @@
 | koi.henrydennis.dev | deprecated-custom-domains.b-cdn.net |
 | koi.lkae.dev | deprecated-custom-domains.b-cdn.net |
 | koi.madebykind.com | deprecated-custom-domains.b-cdn.net |
-| koi.omnimove.health | deprecated-custom-domains.b-cdn.net |
 | koi.project-tampah.com | deprecated-custom-domains.b-cdn.net |
 | koi.valleywestlandscapes.com | deprecated-custom-domains.b-cdn.net |
 | koi.vyer.com | deprecated-custom-domains.b-cdn.net |
@@ -869,7 +870,6 @@
 | scallop.esolia.pro | deprecated-custom-domains.b-cdn.net |
 | scallop.productionrails.com | deprecated-custom-domains.b-cdn.net |
 | scallop.vav.link | deprecated-custom-domains.b-cdn.net |
-| scorpion.byteside.com | deprecated-custom-domains.b-cdn.net |
 | scorpion.clare.ink | deprecated-custom-domains.b-cdn.net |
 | sdegwynml.bmaci.me | deprecated-custom-domains.b-cdn.net |
 | seahorse.brightwayhealth.org | deprecated-custom-domains.b-cdn.net |
@@ -957,6 +957,7 @@
 | tahr.happydev.fm | deprecated-custom-domains.b-cdn.net |
 | tahr.rasen.dev | deprecated-custom-domains.b-cdn.net |
 | takin.bottlebeagle.com | deprecated-custom-domains.b-cdn.net |
+| takin.cors.digital | deprecated-custom-domains.b-cdn.net |
 | takin.dripmacetas.com | deprecated-custom-domains.b-cdn.net |
 | takin.revolana.fr | deprecated-custom-domains.b-cdn.net |
 | tapir.lindahlstudios.com | deprecated-custom-domains.b-cdn.net |
@@ -966,6 +967,7 @@
 | tarsier.eyal.codes | deprecated-custom-domains.b-cdn.net |
 | tarsier.kriterie.se | deprecated-custom-domains.b-cdn.net |
 | termite.queerburners.org | deprecated-custom-domains.b-cdn.net |
+| tern.daffy.org | deprecated-custom-domains.b-cdn.net |
 | tern.xebel.co | deprecated-custom-domains.b-cdn.net |
 | tick.pcrpriser.se | deprecated-custom-domains.b-cdn.net |
 | tick.sculch.app | deprecated-custom-domains.b-cdn.net |
@@ -978,7 +980,6 @@
 | tiglon.beyondco.de | deprecated-custom-domains.b-cdn.net |
 | tiglon.davidroessli.com | deprecated-custom-domains.b-cdn.net |
 | toad.ettiennevorster.co.za | deprecated-custom-domains.b-cdn.net |
-| tortoise.transistor.fm | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
@@ -1028,7 +1029,6 @@
 | warbler.resumebuilder.dev | deprecated-custom-domains.b-cdn.net |
 | wasp.dyrynda.dev | deprecated-custom-domains.b-cdn.net |
 | wasp.mattjennings.io | deprecated-custom-domains.b-cdn.net |
-| waterboa.brooks.page | deprecated-custom-domains.b-cdn.net |
 | waterboa.midu.dev | deprecated-custom-domains.b-cdn.net |
 | waterboa.nighttrain.co | deprecated-custom-domains.b-cdn.net |
 | whale.gdebrauwer.dev | deprecated-custom-domains.b-cdn.net |
@@ -1150,7 +1150,6 @@
 | cdn.norymo.com | popcashjs.b-cdn.net |
 | cdn.npcta.xyz | popcashjs.b-cdn.net |
 | cdn.nuqwe.com | popcashjs.b-cdn.net |
-| cdn.olep.xyz | popcashjs.b-cdn.net |
 | cdn.orjfun.com | popcashjs.b-cdn.net |
 | cdn.ovqds.com | popcashjs.b-cdn.net |
 | cdn.pctv.xyz | popcashjs.b-cdn.net |

@@ -128,7 +128,6 @@
     * adsbuyclick.ui.ak-is2.net
     * adsbuyclick.xml.ak-is2.net
     * adscompute.xml.ak-is2.net
-    * adservme.rtb-eu.ak-is2.net
     * adsfloow.xml.ak-is2.net
     * adsimilate.fs.ak-is2.net
     * adsimilate.ui.ak-is2.net
@@ -382,21 +381,7 @@
     * explorads.ui.ak-is2.net
     * explorads.xml-eu-v4.ak-is2.net
     * explorads.xml-v4.ak-is2.net
-    * explorads.xml-v6.ak-is2.net
     * explorads.xml.ak-is2.net
-    * expmediadirect1.xml-eu.ak-is2.net
-    * ezmob.aui.ak-is2.net
-    * ezmob.fs-eu.ak-is2.net
-    * ezmob.fs.ak-is2.net
-    * ezmob.rtb-eu-v4.ak-is2.net
-    * ezmob.rtb-eu.ak-is2.net
-    * ezmob.rtb-useast-v4.ak-is2.net
-    * ezmob.rtb-useast.ak-is2.net
-    * ezmob.wp.ak-is2.net
-    * ezmob.xml-eu-v4.ak-is2.net
-    * ezmob.xml-eu.ak-is2.net
-    * ezmob.xml-v4.ak-is2.net
-    * ezmob.xml.ak-is2.net
     * felixads.rtb-useast.ak-is2.net
     * finevisit.fs.ak-is2.net
     * finevisit.ui.ak-is2.net
@@ -851,7 +836,6 @@
 | cpm.digitalpiee.com | 1.cpm.ak-is2.net |
 | cpm.entravision.com | 1.cpm.ak-is2.net |
 | cpm.ergadx.com | 1.cpm.ak-is2.net |
-| cpm.ezmob.com | 1.cpm.ak-is2.net |
 | cpm.felixads.com | 1.cpm.ak-is2.net |
 | cpm.fmlabsonline.com | 1.cpm.ak-is2.net |
 | cpm.foremedia.net | 1.cpm.ak-is2.net |
@@ -867,7 +851,6 @@
 | cpm.reachableads.com | 1.cpm.ak-is2.net |
 | cpm.revlift.io | 1.cpm.ak-is2.net |
 | cpm.rtbanalytica.com | 1.cpm.ak-is2.net |
-| cpm.rtbidhost.com | 1.cpm.ak-is2.net |
 | cpm.rtbplatform.net | 1.cpm.ak-is2.net |
 | cpm.rtbwire.com | 1.cpm.ak-is2.net |
 | cpm.saturndynamic.pt | 1.cpm.ak-is2.net |
@@ -1076,6 +1059,7 @@
 | xml.mobreach.com | adright.xml.ak-is2.net |
 | xml.popunder.bid | adright.xml.ak-is2.net |
 | static.adright.co | adright.xs.ak-is2.net |
+| static.adright.com | adright.xs.ak-is2.net |
 | static.fstsrv1.com | adright.xs.ak-is2.net |
 | static.fstsrv2.com | adright.xs.ak-is2.net |
 | static.fstsrv3.com | adright.xs.ak-is2.net |
@@ -1092,7 +1076,6 @@
 | login.adsbuyclick.com | adsbuyclick.ui.ak-is2.net |
 | xml.adsbuyclick.com | adsbuyclick.xml.ak-is2.net |
 | xml.adscompute.com | adscompute.xml.ak-is2.net |
-| rtb-eu.rtbidhost.com | adservme.rtb-eu.ak-is2.net |
 | xml.adsfloow.net | adsfloow.xml.ak-is2.net |
 | filteradkernel.adsimilate.com | adsimilate.fs.ak-is2.net |
 | login.adsimilate.com | adsimilate.ui.ak-is2.net |
@@ -1116,15 +1099,11 @@
 | xml-eu.adtube.media | adtube.xml-eu.ak-is2.net |
 | xml-v4.adtube.media | adtube.xml-v4.ak-is2.net |
 | xml.adtube.media | adtube.xml.ak-is2.net |
-| tq-eu.frdjs-1.co | adventurefeeds.fs-eu.ak-is2.net |
-| tq-eu.frdjs-2.co | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.nxthost-1.info | adventurefeeds.fs-eu.ak-is2.net |
 | tq-eu.nxthost-2.info | adventurefeeds.fs-eu.ak-is2.net |
 | tq.pdn-eu.com | adventurefeeds.fs-eu.ak-is2.net |
 | filter.adventurefeeds.com | adventurefeeds.fs.ak-is2.net |
 | tq.adventurefeeds.com | adventurefeeds.fs.ak-is2.net |
-| tq.frdjs-1.co | adventurefeeds.fs.ak-is2.net |
-| tq.frdjs-2.co | adventurefeeds.fs.ak-is2.net |
 | tq.nxthost-1.info | adventurefeeds.fs.ak-is2.net |
 | tq.nxthost-2.info | adventurefeeds.fs.ak-is2.net |
 | rtb-eu.adventurefeeds.com | adventurefeeds.rtb-eu.ak-is2.net |
@@ -1134,26 +1113,19 @@
 | webpush.adventurefeeds.com | adventurefeeds.wp-ui.ak-is2.net |
 | push.adventurefeeds.com | adventurefeeds.wp.ak-is2.net |
 | xml-eu-v4.explorefast-1.com | adventurefeeds.xml-eu-v4.ak-is2.net |
-| xml-eu-v4.frdjs-1.co | adventurefeeds.xml-eu-v4.ak-is2.net |
-| xml-eu-v4.frdjs-2.co | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.nxthost-1.info | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.nxthost-2.info | adventurefeeds.xml-eu-v4.ak-is2.net |
 | xml-eu-v4.pxfind3.com | adventurefeeds.xml-eu-v4.ak-is2.net |
 | clk.pdn-eu.com | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.explorefast-1.com | adventurefeeds.xml-eu.ak-is2.net |
-| xml-eu.frdjs-1.co | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.nxthost-1.info | adventurefeeds.xml-eu.ak-is2.net |
 | xml-eu.nxthost-2.info | adventurefeeds.xml-eu.ak-is2.net |
 | xml-v4.explorefast-1.com | adventurefeeds.xml-v4.ak-is2.net |
-| xml-v4.frdjs-1.co | adventurefeeds.xml-v4.ak-is2.net |
-| xml-v4.frdjs-2.co | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.nxthost-1.info | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.nxthost-2.info | adventurefeeds.xml-v4.ak-is2.net |
 | xml-v4.pxfind3.com | adventurefeeds.xml-v4.ak-is2.net |
 | xml.adventurefeeds.com | adventurefeeds.xml.ak-is2.net |
 | xml.explorefast-1.com | adventurefeeds.xml.ak-is2.net |
-| xml.frdjs-1.co | adventurefeeds.xml.ak-is2.net |
-| xml.frdjs-2.co | adventurefeeds.xml.ak-is2.net |
 | xml.nxthost-1.info | adventurefeeds.xml.ak-is2.net |
 | xml.nxthost-2.info | adventurefeeds.xml.ak-is2.net |
 | xml.pdn-1.com | adventurefeeds.xml.ak-is2.net |
@@ -1391,31 +1363,15 @@
 | click-v4.expilaclkdir.com | explorads.xml-v4.ak-is2.net |
 | click-v4.expmdiadi.com | explorads.xml-v4.ak-is2.net |
 | click-v4.expoclknw.com | explorads.xml-v4.ak-is2.net |
-| clickv6.expmediadirect1.com | explorads.xml-v6.ak-is2.net |
 | click.celxkpdir.com | explorads.xml.ak-is2.net |
 | click.clkepd.com | explorads.xml.ak-is2.net |
 | click.eclk.club | explorads.xml.ak-is2.net |
 | click.expdirclk.com | explorads.xml.ak-is2.net |
 | click.expmdiadi.com | explorads.xml.ak-is2.net |
-| click.expmediadirect.com | explorads.xml.ak-is2.net |
-| click.expmediadirect1.com | explorads.xml.ak-is2.net |
 | click.expoclknw.com | explorads.xml.ak-is2.net |
 | xml.expialidosius.com | explorads.xml.ak-is2.net |
 | xml.explorads.com | explorads.xml.ak-is2.net |
 | xml.expplatdirect.com | explorads.xml.ak-is2.net |
-| click-eu.expmediadirect1.com | expmediadirect1.xml-eu.ak-is2.net |
-| dash.ezmob.com | ezmob.aui.ak-is2.net |
-| filter-eu.ezmob.com | ezmob.fs-eu.ak-is2.net |
-| filter.ezmob.com | ezmob.fs.ak-is2.net |
-| rtb-eu-v4.ezmob.com | ezmob.rtb-eu-v4.ak-is2.net |
-| rtb-eu.ezmob.com | ezmob.rtb-eu.ak-is2.net |
-| rtb-useast-v4.ezmob.com | ezmob.rtb-useast-v4.ak-is2.net |
-| rtb-useast.ezmob.com | ezmob.rtb-useast.ak-is2.net |
-| push.ezmob.com | ezmob.wp.ak-is2.net |
-| xml-eu-v4.ezmob.com | ezmob.xml-eu-v4.ak-is2.net |
-| xml-eu.ezmob.com | ezmob.xml-eu.ak-is2.net |
-| xml-v4.ezmob.com | ezmob.xml-v4.ak-is2.net |
-| xml.ezmob.com | ezmob.xml.ak-is2.net |
 | rtb-useast.felixads.com | felixads.rtb-useast.ak-is2.net |
 | filter.finevisit.com | finevisit.fs.ak-is2.net |
 | join.finevisit.com | finevisit.ui.ak-is2.net |
@@ -1892,6 +1848,7 @@
 | xml-rtb.xapads.com | xapads.xml.ak-is2.net |
 | static.openrtb.in | xapads.xs.ak-is2.net |
 | static.xrtb.io | xapads.xs.ak-is2.net |
+| vid-static.xapads.com | xapads.xs.ak-is2.net |
 | click-rtb2-apac.xaprio.net | xaprio.click-apac.ak-is2.net |
 | click-rtb2-eu.xaprio.net | xaprio.click-eu.ak-is2.net |
 | click-rtb2-useast.xaprio.net | xaprio.click-useast.ak-is2.net |

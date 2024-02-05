@@ -7,7 +7,6 @@ acsweb-3dr1.dnp-cdms.jp
 af.mobile.free.fr
 afs.wearemp.com
 analytics.amrcollection.com
-analytics.applevacations.com
 analytics.beachbound.com
 analytics.breathlessresorts.com
 analytics.cheapcaribbean.com
@@ -25,6 +24,7 @@ analyze.central1.cc
 api.v1.threatmetrix.space.ge
 api1.sfcu.org
 apicorporativops.portoseguro.com.br
+app.uob.com.my
 app.uob.com.sg
 app392.gerberlife.com
 applicant.rbfcu.org
@@ -129,7 +129,6 @@ cfa.febtest.com
 cfa.fidelity.com
 cfa.mystreetscape.com
 cfa.streetscape.com
-cfaxdev2.fidelity.com
 cfaxq.advisorchannel.com
 cfaxq.mystreetscape.com
 cfaxq.streetscape.com
@@ -595,6 +594,7 @@ portal-fp-qa1.qa.threatmetrix.com
 portal-fp-qa2.qa.threatmetrix.com
 portal-fp-qaperf2.qa.threatmetrix.com
 portal-fp.threatmetrix.com
+posture.mtoken.zand.ae
 pov.spectrum.net
 prod-acutx.chaperone.lumindigitalhosting.com
 prod-afcutn.chaperone.lumindigitalhosting.com
@@ -657,6 +657,7 @@ qrimages.qatarairways.com
 qtbm.fundourselves.com
 qtbm.welendus.com
 query.capitalontap.com
+query.capitalontap.es
 r.hokodo.co
 r7s.scl.swisscom.ch
 ranzg.agribank.co.nz
@@ -740,7 +741,6 @@ secured.netflix.com
 service.riverscontent.com
 servicesdp.luckydays.ca
 servicesdp.spinaway.ca
-sfp.intuit.com
 sg-payment.cydf.hoyoverse.com
 shield.boostbusiness.my
 sitehelper.myengageft.com
@@ -749,9 +749,11 @@ solstice.ibotta.com
 sptbb.pilates.com
 src.ebay-us.com
 src0.myvoffice.com
+srv.squaretrade.co.uk
 srv.squaretrade.com
 srv.squaretrade.com.au
 srv.squaretrade.dk
+srv.squaretrade.es
 ssafp.samsclub.com
 st10.sofi.com
 stat.bluorbank.lv
@@ -815,6 +817,7 @@ t1.welab.bank
 t11.identity.aikyam.com
 t42rsn90.uplift.com
 tag-unclaimed.oregon.gov
+tag.claimitar.gov
 tag.findmassmoney.com
 tag.findmassmoney.gov
 tag.findyourunclaimedproperty.com
@@ -878,11 +881,13 @@ tm.barstoolsportsbook.com
 tm.bdc-cdn.com
 tm.beachbody.com
 tm.benevity.org
+tm.betano.ar
 tm.betano.bg
 tm.betano.ca
 tm.betano.com
 tm.betano.cz
 tm.betano.de
+tm.betano.mx
 tm.cbd.ae
 tm.clearcover.com
 tm.cox.com
@@ -897,6 +902,7 @@ tm.goldennuggetcasino.com
 tm.gumtree.co.za
 tm.gumtree.com.au
 tm.kotak.com
+tm.kotak811.com
 tm.okinushub.com
 tm.paysafecard.com
 tm.production.eu1.tmfp.klarna.net
@@ -904,6 +910,7 @@ tm.promotion-cdn.com
 tm.regions.com
 tm.regionsqa.com
 tm.regionstest.com
+tm.rsa-claims.co.uk
 tm.solidgate.com
 tm.stats.home24.at
 tm.stats.home24.be
@@ -969,7 +976,6 @@ txn.allianzlife.com
 uafms.ocbc.com
 ualaki-analytics.vacations.united.com
 uat.cmprofile.cards.citidirect.com
-ufp.intuit.com
 uldfp.srilankan.com
 umst.mobile.de
 v.ayco.com
@@ -1015,6 +1021,7 @@ ww3.peacsolutions.com
 ww9.lloydsbank.com
 www.cdna.cofidis.be
 www.content.bnl.it
+www.content.mabanquepro.bnpparibas
 www7.raise.com
 xfp.intuit.com
 xmt.paze.com

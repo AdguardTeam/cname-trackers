@@ -16,6 +16,7 @@
     * barenecessities.extole.com
     * basictalk-ssl.extole.com
     * betterbraces.extole.com
+    * bms-br.extole.com
     * bostonglobe-ssl.extole.com
     * calstate-aaa.extole.com
     * carbonite-ssl.extole.com
@@ -73,7 +74,6 @@
     * nvidia-ssl.extole.com
     * offset.extole.com
     * ooma-ssl.extole.com
-    * opensky.extole.com
     * oriental-trading.extole.com
     * ozforex-au.extole.com
     * ozforex-nz.extole.com
@@ -281,6 +281,7 @@
     * first-american-home-warranty.extole.io
     * first-tech-federal.extole.io
     * firstleaf.extole.io
+    * forddrive.extole.io
     * forgetrust.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
@@ -290,7 +291,6 @@
     * gannett.extole.io
     * gap-canada.extole.io
     * garnethill.extole.io
-    * gbyguess.extole.io
     * gcefcu.extole.io
     * getlendly.extole.io
     * getsetup.extole.io
@@ -304,6 +304,7 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -414,6 +415,7 @@
     * paulmitchell.extole.io
     * paylocity.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -479,6 +481,7 @@
     * sizigi.extole.io
     * skillshare.em.extole.io
     * skillshare.extole.io
+    * skillshare.xtl.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
     * skyone-federal-credit-union.extole.io
@@ -657,6 +660,7 @@
 | share.biblejourney.com | biblejourney.extole.io |
 | refer.bioionic.com | bioionic.extole.io |
 | share.bjs.com | bjs.extole.io |
+| indique.bemmaisseguro.com | bms-br.extole.com |
 | refer.bobstores.com | bobstores.extole.io |
 | refer.ems.com | bobstores.extole.io |
 | share.bodenclothing.com.au | boden-au.extole.io |
@@ -798,6 +802,7 @@
 | share.firstleaf.club | firstleaf.extole.io |
 | share.firstleaf.com | firstleaf.extole.io |
 | refer.fivestars.com | fivestars.extole.com |
+| refer.forddrive.com | forddrive.extole.io |
 | refer.forgetrust.com | forgetrust.extole.io |
 | refer.framesdirect.com | framesdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
@@ -823,6 +828,7 @@
 | share.enterprisenews.com | gannett.extole.io |
 | share.floridatoday.com | gannett.extole.io |
 | share.freep.com | gannett.extole.io |
+| share.greenvilleonline.com | gannett.extole.io |
 | share.htrnews.com | gannett.extole.io |
 | share.independentmail.com | gannett.extole.io |
 | share.jacksonsun.com | gannett.extole.io |
@@ -853,7 +859,6 @@
 | share.vcstar.com | gannett.extole.io |
 | refer.gapcanada.ca | gap-canada.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
-| refer.gbyguess.com | gbyguess.extole.io |
 | refer.gcefcu.org | gcefcu.extole.io |
 | refer.lendly.com | getlendly.extole.io |
 | share.getsetup.io | getsetup.extole.io |
@@ -870,6 +875,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1014,7 +1020,6 @@
 | share.openenglish.com | openenglish.extole.io |
 | share.openenglish.com.br | openenglish.extole.io |
 | share.openenglish.com.tr | openenglish.extole.io |
-| refer.opensky.com | opensky.extole.com |
 | share.opploans.com | opploans.extole.io |
 | refer.orbitz.com | orbitz.extole.io |
 | refer.orientaltrading.com | oriental-trading.extole.com |
@@ -1036,6 +1041,7 @@
 | refer.paylocity.com | paylocity.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1129,6 +1135,7 @@
 | go.joinsizigi.com | sizigi.extole.io |
 | em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
+| xtl._domainkey.skillshare.com | skillshare.xtl.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
 | refer.skyone.org | skyone-federal-credit-union.extole.io |
@@ -1266,6 +1273,7 @@
 | refer.zazzlereferral.com | zazzle.extole.io |
 | share.zebit.com | zebit.extole.io |
 | share.zenbusiness.com | zenbusiness.extole.io |
+| refer.1099online.com | zenwork.extole.io |
 | refer.tax1099.com | zenwork.extole.io |
 | promos.zinli.com | zinli.extole.io |
 | refer.zipcar.ca | zipcar-ca.extole.io |

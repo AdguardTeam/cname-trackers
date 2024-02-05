@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1706515217346        ; Serial
+           1707120021912        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1028,7 +1028,6 @@ data-7462ea72ec.augsburger-allgemeine.de CNAME .
 data-7462ea72ec.augsburger-bombennacht.de CNAME .
 data-7462ea72ec.fupa.net CNAME .
 data-7462ea72ec.intersana.de CNAME .
-data-74cd0e3846.daznservices.com CNAME .
 data-74e6a53123.kronehit.at CNAME .
 data-75037dd3ff.praxis-depesche.de CNAME .
 data-75526e35eb.etailment.de CNAME .
@@ -1256,6 +1255,7 @@ data-938b06e91c.dev-insider.de CNAME .
 data-93b38cb75f.gff-magazin.de CNAME .
 data-93d70fad98.apps.iocnt.de CNAME .
 data-9439f4400c.apps.iocnt.de CNAME .
+data-9453f66230.bergischgladbach.de CNAME .
 data-9453f66230.stadtbuecherei-gl.de CNAME .
 data-946ccd9713.apps.iocnt.de CNAME .
 data-948e8266cd.zuhausewohnen.de CNAME .
@@ -1913,6 +1913,7 @@ data-e4997adf31.welt.de CNAME .
 data-e4cfccd10c.freundin.de CNAME .
 data-e4dc2eea88.kochbar.de CNAME .
 data-e54efb31a3.aachen-gedenkt.de CNAME .
+data-e54efb31a3.aachen-gratuliert.de CNAME .
 data-e54efb31a3.aachener-zeitung.de CNAME .
 data-e54efb31a3.fupa.net CNAME .
 data-e54efb31a3.klenkes.de CNAME .
@@ -2033,6 +2034,7 @@ data-f1e447fbcf.24rhein.de CNAME .
 data-f1e447fbcf.24royal.de CNAME .
 data-f1e447fbcf.24vita.de CNAME .
 data-f1e447fbcf.az-online.de CNAME .
+data-f1e447fbcf.baden24.de CNAME .
 data-f1e447fbcf.bgland24.de CNAME .
 data-f1e447fbcf.brokser-heiratsmarkt.de CNAME .
 data-f1e447fbcf.buzzfeed.at CNAME .
@@ -2104,7 +2106,6 @@ data-f35c83b71a.ots.at CNAME .
 data-f3bb5f7732.infranken.de CNAME .
 data-f3bff114a4.essen-und-trinken.de CNAME .
 data-f3e9f6e256.computer-spezial.de CNAME .
-data-f3f7a2af0e.daznservices.com CNAME .
 data-f3f7a2af0e.spox.com CNAME .
 data-f3fe376ba8.allgaeuer-zeitung.de CNAME .
 data-f41b8197e7.obermain.de CNAME .
@@ -2202,6 +2203,7 @@ data-f8fea2d99e.gbv.de CNAME .
 data-f8fea2d99e.staatsbibliothek-berlin.de CNAME .
 data-f943e74ec9.bz-berlin.de CNAME .
 data-f9b542cb96.apps.iocnt.de CNAME .
+data-fa2c5597f6.outdoorchannel.de CNAME .
 data-fa2c5597f6.roadbike.de CNAME .
 data-fa2d848059.aachen-gedenkt.de CNAME .
 data-fa2d848059.aachener-zeitung.de CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1706515217346        ; Serial
+           1707120021912        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,10 +26,10 @@ sales.disneylandparis.com CNAME .
 tagcommander.laredoute.be CNAME .
 tagcommander.laredoute.ch CNAME .
 tc.europcar.com CNAME .
+tc.europcar.com.au CNAME .
 tc.europcar.de CNAME .
 tcdata.fnac.com CNAME .
 configure.adlermode.com CNAME .
 data.decathlon.it CNAME .
 data.ouigo.com CNAME .
 tag.boulanger.fr CNAME .
-tc.europcar.com.au CNAME .

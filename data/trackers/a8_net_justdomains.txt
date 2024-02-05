@@ -14,7 +14,6 @@ a8-xshop.secure.xserver.ne.jp
 a8.01cloud.jp
 a8.123.rheos.jp
 a8.2ndstreet.jp
-a8.366vivi.com
 a8.abemashopping.jp
 a8.ablenet.jp
 a8.aga-hakata.com
@@ -251,7 +250,6 @@ a8.polyglots.net
 a8.princess-jp.com
 a8.print-netsquare.com
 a8.projectee.online
-a8.push.capsules.jp
 a8.rank-quest.jp
 a8.recmount-plus.com
 a8.remix-denki.com
@@ -402,6 +400,7 @@ a8clk.adventkk.co.jp
 a8clk.afi1.emanon-sharesalon.com
 a8clk.aipo.com
 a8clk.alljewelry.jp
+a8clk.ambientlounge.co.jp
 a8clk.amelia.ne.jp
 a8clk.ancar.jp
 a8clk.ands-tech.com
@@ -722,7 +721,6 @@ a8clk.www.netage.ne.jp
 a8clk.www.nortonstore.jp
 a8clk.www.oms.energy-itsol.com
 a8clk.www.rebo-success.co.jp
-a8clk.www.roomdeco.shop
 a8clk.www.solar-partners.jp
 a8clk.www.solarmonitorlp.energy-itsol.com
 a8clk.www.uz.team
@@ -939,6 +937,7 @@ a8cv.hanamaro.jp
 a8cv.handmade-ch.jp
 a8cv.happy-bears.com
 a8cv.harasawa.co.jp
+a8cv.hardwarewallet-japan.com
 a8cv.hariocorp.co.jp
 a8cv.hello-people.jp
 a8cv.heybit.io
@@ -1008,6 +1007,7 @@ a8cv.kosodatemoney.com
 a8cv.kstarselect.com
 a8cv.kuih.jp
 a8cv.kurashi-bears.com
+a8cv.kusmitea.jp
 a8cv.kuzefuku-arcade.jp
 a8cv.kxn.co.jp
 a8cv.kyotokimono-rental.com
@@ -1132,6 +1132,7 @@ a8cv.rita-style.co.jp
 a8cv.rmkrmk.com
 a8cv.rohto.co.jp
 a8cv.runteq.jp
+a8cv.ryomon.jp
 a8cv.s-darts.com
 a8cv.sabusuta.jp
 a8cv.saitoma.com
@@ -1207,7 +1208,6 @@ a8cv.techkidsschool.jp
 a8cv.tenishokunext.jp
 a8cv.tenkuryo.jp
 a8cv.tenshinocart.com
-a8cv.tfansite.jp
 a8cv.tmix.jp
 a8cv.tokei-syuri.jp
 a8cv.toko-navi.com
@@ -1525,6 +1525,7 @@ sub.ecd.bookoffonline.co.jp
 sub.turningpoint.work
 summary.bookoffonline.co.jp
 sync-a8.cocolocala.jp
+tag.minimaid.co.jp
 test.shigoto-web.com
 test.zeus-wifi.jp
 testa8wifi.dokoyorimo.com

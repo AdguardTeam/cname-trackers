@@ -87,7 +87,6 @@ cdn.nmkli.com
 cdn.norymo.com
 cdn.npcta.xyz
 cdn.nuqwe.com
-cdn.olep.xyz
 cdn.orjfun.com
 cdn.ovqds.com
 cdn.pctv.xyz
@@ -504,6 +503,7 @@ flyingfish.agilehedges.com
 flyingfish.editorslab.de
 flyingfish.whoisrepresented.org
 fowl.saulhardman.com
+fowl.teamyap.app
 fox.domainr.com
 fox.visionaudiovisual.com
 gamefowl.emailforward.mx
@@ -655,7 +655,6 @@ koi.fftf.cat
 koi.henrydennis.dev
 koi.lkae.dev
 koi.madebykind.com
-koi.omnimove.health
 koi.project-tampah.com
 koi.valleywestlandscapes.com
 koi.vyer.com
@@ -945,7 +944,6 @@ sawfish.loqbooq.app
 scallop.esolia.pro
 scallop.productionrails.com
 scallop.vav.link
-scorpion.byteside.com
 scorpion.clare.ink
 sdegwynml.bmaci.me
 seahorse.brightwayhealth.org
@@ -1033,6 +1031,7 @@ tahr.componentsui.com
 tahr.happydev.fm
 tahr.rasen.dev
 takin.bottlebeagle.com
+takin.cors.digital
 takin.dripmacetas.com
 takin.revolana.fr
 tapir.lindahlstudios.com
@@ -1042,6 +1041,7 @@ tarantula.tuxedo.media
 tarsier.eyal.codes
 tarsier.kriterie.se
 termite.queerburners.org
+tern.daffy.org
 tern.xebel.co
 tick.pcrpriser.se
 tick.sculch.app
@@ -1054,7 +1054,6 @@ tigershark.vandevliet.me
 tiglon.beyondco.de
 tiglon.davidroessli.com
 toad.ettiennevorster.co.za
-tortoise.transistor.fm
 toucan.ateliermilky.com
 toucan.the-faithful.com
 treefrog.kaffeknappen.no
@@ -1104,7 +1103,6 @@ walrus.oscaroarevalo.com
 warbler.resumebuilder.dev
 wasp.dyrynda.dev
 wasp.mattjennings.io
-waterboa.brooks.page
 waterboa.midu.dev
 waterboa.nighttrain.co
 whale.gdebrauwer.dev
@@ -1150,6 +1148,7 @@ partner.streetinteractive.com
 partners.hourmediagroup.com
 partners.nationalmortgageprofessional.com
 partners.seetheworld.com
+pnq.babcoxmediainc.com
 saucon-sponsors.streetinteractive.com
 sponsor-v2.lebtown.com
 sponsor.styleblueprint.com

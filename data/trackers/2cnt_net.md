@@ -15,6 +15,7 @@
 * altinget.tns-dk.2cnt.net
 * altomboern.tns-dk.2cnt.net
 * altomhistorie.tns-dk.2cnt.net
+* amica.vgwort-de.2cnt.net
 * slb-vgwort-de-pool02.vgwort-de.2cnt.net
 * amtsavisen.tns-dk.2cnt.net
 * amwatch.tns-dk.2cnt.net
@@ -33,6 +34,7 @@
 * billetlugen.tns-dk.2cnt.net
 * bilmagasinet.tns-dk.2cnt.net
 * bm-eavis.tns-dk.2cnt.net
+* bm.vgwort-de.2cnt.net
 * bobedre.tns-dk.2cnt.net
 * boligmagasinet.tns-dk.2cnt.net
 * boligportal.tns-dk.2cnt.net
@@ -87,9 +89,12 @@
 * gladsaxeb.tns-dk.2cnt.net
 * gratisspil.tns-dk.2cnt.net
 * halsa.tns-dk.2cnt.net
+* hanser.vgwort-de.2cnt.net
 * historienet.tns-dk.2cnt.net
+* hogrefe.vgwort-de.2cnt.net
 * hsfo.tns-dk.2cnt.net
 * idenytiam.tns-dk.2cnt.net
+* idgentertain.vgwort-de.2cnt.net
 * iform.tns-dk.2cnt.net
 * illvid.tns-dk.2cnt.net
 * in.tns-dk.2cnt.net
@@ -160,6 +165,7 @@
 * ssl-amtsavisen.tns-dk.2cnt.net
 * ssl-aoh.tns-dk.2cnt.net
 * ssl-avisen.tns-dk.2cnt.net
+* ssl-beck.vgwort-de.2cnt.net
 * ssl-berlingske.tns-dk.2cnt.net
 * ssl-berlingskemedia.tns-dk.2cnt.net
 * ssl-bilbasen.tns-dk.2cnt.net
@@ -174,6 +180,7 @@
 * ssl-bornibyen.tns-dk.2cnt.net
 * ssl-borseniam.tns-dk.2cnt.net
 * slb-tns-dk-pool05.tns-dk.2cnt.net
+* ssl-brigitte.vgwort-de.2cnt.net
 * ssl-bt-eavis.tns-dk.2cnt.net
 * ssl-bt.tns-dk.2cnt.net
 * ssl-bureaubiz.tns-dk.2cnt.net
@@ -200,6 +207,7 @@
 * ssl-energywatch.tns-dk.2cnt.net
 * ssl-euroinvestor.tns-dk.2cnt.net
 * ssl-euroman.tns-dk.2cnt.net
+* ssl-eurosportandroidstream.tns-dk.2cnt.net
 * ssl-fdim.tns-dk.2cnt.net
 * ssl-fdm.tns-dk.2cnt.net
 * ssl-femina.tns-dk.2cnt.net
@@ -210,6 +218,7 @@
 * ssl-fyens.tns-dk.2cnt.net
 * ssl-gaffa.tns-dk.2cnt.net
 * slb-tns-dk-pool10.tns-dk.2cnt.net
+* ssl-gala.vgwort-de.2cnt.net
 * ssl-goerdetselv.tns-dk.2cnt.net
 * ssl-golem.vgwort-de.2cnt.net
 * ssl-golf.tns-dk.2cnt.net
@@ -249,6 +258,7 @@
 * ssl-minby.tns-dk.2cnt.net
 * ssl-mja.tns-dk.2cnt.net
 * ssl-mxiam.tns-dk.2cnt.net
+* ssl-n-tv.vgwort-de.2cnt.net
 * ssl-news.tns-dk.2cnt.net
 * ssl-nwb.vgwort-de.2cnt.net
 * ssl-nybolig.tns-dk.2cnt.net
@@ -298,6 +308,7 @@
 * ssl-welt.vgwort-de.2cnt.net
 * ssl-wolterskluwer.vgwort-de.2cnt.net
 * ssl-woman.tns-dk.2cnt.net
+* ssl-youseestream.tns-dk.2cnt.net
 * stern.vgwort-de.2cnt.net
 * stiften.tns-dk.2cnt.net
 * storedk.tns-dk.2cnt.net
@@ -315,6 +326,7 @@
 * ugeavisen.tns-dk.2cnt.net
 * vafo.tns-dk.2cnt.net
 * vendelbop.tns-dk.2cnt.net
+* vg00.vgwort-de.2cnt.net
 * vg01.vgwort-de.2cnt.net
 * vg02.vgwort-de.2cnt.net
 * vg03.vgwort-de.2cnt.net
@@ -331,6 +343,7 @@
 * waz.vgwort-de.2cnt.net
 * weeka-eavis.tns-dk.2cnt.net
 * weekendavisen.tns-dk.2cnt.net
+* welt.vgwort-de.2cnt.net
 * wiley.vgwort-de.2cnt.net
 * woman.tns-dk.2cnt.net
 * youseeiosstream.tns-dk.2cnt.net
@@ -348,6 +361,7 @@
 | altinget.tns-gallup.dk | altinget.tns-dk.2cnt.net |
 | altomboern.tns-gallup.dk | altomboern.tns-dk.2cnt.net |
 | altomhistorie.tns-gallup.dk | altomhistorie.tns-dk.2cnt.net |
+| amica.met.vgwort.de | amica.vgwort-de.2cnt.net |
 | amtsavisen.tns-gallup.dk | amtsavisen.tns-dk.2cnt.net |
 | amwatch.tns-gallup.dk | amwatch.tns-dk.2cnt.net |
 | aok.tns-gallup.dk | aok.tns-dk.2cnt.net |
@@ -364,6 +378,7 @@
 | billetlugen.tns-gallup.dk | billetlugen.tns-dk.2cnt.net |
 | bilmagasinet.tns-gallup.dk | bilmagasinet.tns-dk.2cnt.net |
 | bm-eavis.tns-gallup.dk | bm-eavis.tns-dk.2cnt.net |
+| bm.met.vgwort.de | bm.vgwort-de.2cnt.net |
 | bobedre.tns-gallup.dk | bobedre.tns-dk.2cnt.net |
 | boligmagasinet.tns-gallup.dk | boligmagasinet.tns-dk.2cnt.net |
 | boligportal.tns-gallup.dk | boligportal.tns-dk.2cnt.net |
@@ -413,9 +428,12 @@
 | gladsaxeb.tns-gallup.dk | gladsaxeb.tns-dk.2cnt.net |
 | gratisspil.tns-gallup.dk | gratisspil.tns-dk.2cnt.net |
 | halsa.tns-gallup.dk | halsa.tns-dk.2cnt.net |
+| hanser.met.vgwort.de | hanser.vgwort-de.2cnt.net |
 | historienet.tns-gallup.dk | historienet.tns-dk.2cnt.net |
+| hogrefe.met.vgwort.de | hogrefe.vgwort-de.2cnt.net |
 | hsfo.tns-gallup.dk | hsfo.tns-dk.2cnt.net |
 | idenytiam.tns-gallup.dk | idenytiam.tns-dk.2cnt.net |
+| idgentertain.met.vgwort.de | idgentertain.vgwort-de.2cnt.net |
 | iform.tns-gallup.dk | iform.tns-dk.2cnt.net |
 | illvid.tns-gallup.dk | illvid.tns-dk.2cnt.net |
 | in.tns-gallup.dk | in.tns-dk.2cnt.net |
@@ -509,6 +527,7 @@
 | swpanel.tns-gallup.dk | slb-tns-dk-pool10.tns-dk.2cnt.net |
 | bild.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | bm.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
+| bm.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | burda-forward.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | chip.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | degruyter.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -522,6 +541,7 @@
 | gala.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | gala.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | idgbusiness.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
+| idgentertain.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | idgentertain.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | idgmagazine.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -550,6 +570,7 @@
 | taz.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | teltarif.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | vg00.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
+| vg00.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | vg08.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | vision.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
 | waz.met.vgwort.de | slb-vgwort-de-pool01.vgwort-de.2cnt.net |
@@ -565,6 +586,7 @@
 | brigitte.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | hanser.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
+| hanser.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | heise.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | helpster.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | hogrefe.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -579,8 +601,10 @@
 | spiegel.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-abendblatt.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-beck.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
+| ssl-beck.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-berliner-kurier.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-berliner-zeitung.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
+| ssl-brigitte.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-brigitte.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-heise.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | ssl-rp-online.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -653,6 +677,7 @@
 | ssl-amtsavisen.tns-gallup.dk | ssl-amtsavisen.tns-dk.2cnt.net |
 | ssl-aoh.tns-gallup.dk | ssl-aoh.tns-dk.2cnt.net |
 | ssl-avisen.tns-gallup.dk | ssl-avisen.tns-dk.2cnt.net |
+| ssl-beck.met.vgwort.de | ssl-beck.vgwort-de.2cnt.net |
 | ssl-berlingske.tns-gallup.dk | ssl-berlingske.tns-dk.2cnt.net |
 | ssl-berlingskemedia.tns-gallup.dk | ssl-berlingskemedia.tns-dk.2cnt.net |
 | ssl-bilbasen.tns-gallup.dk | ssl-bilbasen.tns-dk.2cnt.net |
@@ -666,6 +691,7 @@
 | ssl-bootstrapping.tns-gallup.dk | ssl-bootstrapping.tns-dk.2cnt.net |
 | ssl-bornibyen.tns-gallup.dk | ssl-bornibyen.tns-dk.2cnt.net |
 | ssl-borseniam.tns-gallup.dk | ssl-borseniam.tns-dk.2cnt.net |
+| ssl-brigitte.met.vgwort.de | ssl-brigitte.vgwort-de.2cnt.net |
 | ssl-bt-eavis.tns-gallup.dk | ssl-bt-eavis.tns-dk.2cnt.net |
 | ssl-bt.tns-gallup.dk | ssl-bt.tns-dk.2cnt.net |
 | ssl-bureaubiz.tns-gallup.dk | ssl-bureaubiz.tns-dk.2cnt.net |
@@ -692,6 +718,7 @@
 | ssl-energywatch.tns-gallup.dk | ssl-energywatch.tns-dk.2cnt.net |
 | ssl-euroinvestor.tns-gallup.dk | ssl-euroinvestor.tns-dk.2cnt.net |
 | ssl-euroman.tns-gallup.dk | ssl-euroman.tns-dk.2cnt.net |
+| ssl-eurosportandroidstream.tns-gallup.dk | ssl-eurosportandroidstream.tns-dk.2cnt.net |
 | ssl-fdim.tns-gallup.dk | ssl-fdim.tns-dk.2cnt.net |
 | ssl-fdm.tns-gallup.dk | ssl-fdm.tns-dk.2cnt.net |
 | ssl-femina.tns-gallup.dk | ssl-femina.tns-dk.2cnt.net |
@@ -701,6 +728,7 @@
 | ssl-formatformat.tns-gallup.dk | ssl-formatformat.tns-dk.2cnt.net |
 | ssl-fyens.tns-gallup.dk | ssl-fyens.tns-dk.2cnt.net |
 | ssl-gaffa.tns-gallup.dk | ssl-gaffa.tns-dk.2cnt.net |
+| ssl-gala.met.vgwort.de | ssl-gala.vgwort-de.2cnt.net |
 | ssl-goerdetselv.tns-gallup.dk | ssl-goerdetselv.tns-dk.2cnt.net |
 | ssl-golem.met.vgwort.de | ssl-golem.vgwort-de.2cnt.net |
 | ssl-golf.tns-gallup.dk | ssl-golf.tns-dk.2cnt.net |
@@ -740,6 +768,7 @@
 | ssl-minby.tns-gallup.dk | ssl-minby.tns-dk.2cnt.net |
 | ssl-mja.tns-gallup.dk | ssl-mja.tns-dk.2cnt.net |
 | ssl-mxiam.tns-gallup.dk | ssl-mxiam.tns-dk.2cnt.net |
+| ssl-n-tv.met.vgwort.de | ssl-n-tv.vgwort-de.2cnt.net |
 | ssl-news.tns-gallup.dk | ssl-news.tns-dk.2cnt.net |
 | ssl-nwb.met.vgwort.de | ssl-nwb.vgwort-de.2cnt.net |
 | ssl-nybolig.tns-gallup.dk | ssl-nybolig.tns-dk.2cnt.net |
@@ -788,6 +817,7 @@
 | ssl-welt.met.vgwort.de | ssl-welt.vgwort-de.2cnt.net |
 | ssl-wolterskluwer.met.vgwort.de | ssl-wolterskluwer.vgwort-de.2cnt.net |
 | ssl-woman.tns-gallup.dk | ssl-woman.tns-dk.2cnt.net |
+| ssl-youseestream.tns-gallup.dk | ssl-youseestream.tns-dk.2cnt.net |
 | stern.met.vgwort.de | stern.vgwort-de.2cnt.net |
 | stiften.tns-gallup.dk | stiften.tns-dk.2cnt.net |
 | storedk.tns-gallup.dk | storedk.tns-dk.2cnt.net |
@@ -805,6 +835,7 @@
 | ugeavisen.tns-gallup.dk | ugeavisen.tns-dk.2cnt.net |
 | vafo.tns-gallup.dk | vafo.tns-dk.2cnt.net |
 | vendelbop.tns-gallup.dk | vendelbop.tns-dk.2cnt.net |
+| vg00.met.vgwort.de | vg00.vgwort-de.2cnt.net |
 | vg01.met.vgwort.de | vg01.vgwort-de.2cnt.net |
 | vg02.met.vgwort.de | vg02.vgwort-de.2cnt.net |
 | vg03.met.vgwort.de | vg03.vgwort-de.2cnt.net |
@@ -821,6 +852,7 @@
 | waz.met.vgwort.de | waz.vgwort-de.2cnt.net |
 | weeka-eavis.tns-gallup.dk | weeka-eavis.tns-dk.2cnt.net |
 | weekendavisen.tns-gallup.dk | weekendavisen.tns-dk.2cnt.net |
+| welt.met.vgwort.de | welt.vgwort-de.2cnt.net |
 | wiley.met.vgwort.de | wiley.vgwort-de.2cnt.net |
 | woman.tns-gallup.dk | woman.tns-dk.2cnt.net |
 | youseeiosstream.tns-gallup.dk | youseeiosstream.tns-dk.2cnt.net |

@@ -13,6 +13,7 @@
     * h-16vzjy52.online-metrix.net
     * h-1d2p5fdt.online-metrix.net
     * h-1dwgke3d.online-metrix.net
+    * h-1k066192.online-metrix.net
     * h-1kcyydia.online-metrix.net
     * h-1lc506lh.online-metrix.net
     * h-1ngztxrl.online-metrix.net
@@ -104,11 +105,13 @@
     * h-8la63gsu.online-metrix.net
     * h-8m7u92ti.online-metrix.net
     * h-8ms1wsqq.online-metrix.net
+    * h-8ms1wsqq2.online-metrix.net
     * h-8om29r2u-a.online-metrix.net
     * h-8om29r2u.online-metrix.net
     * h-8t63q4n4.online-metrix.net
     * h-8uj1s5zr.online-metrix.net
     * h-96ch0zc2.online-metrix.net
+    * h-96clh8g7.online-metrix.net
     * h-9bkavv7r.online-metrix.net
     * h-9f85se8g.online-metrix.net
     * h-9ivuwf8u.online-metrix.net
@@ -229,6 +232,7 @@
     * h-cdn-scripts.online-metrix.net
     * h-cdn.coastcapitalsavings.online-metrix.net
     * h-cdn2.intercambioexpress.online-metrix.net
+    * h-cdryhofv.online-metrix.net
     * h-ce5udwb7.online-metrix.net
     * h-certifid.online-metrix.net
     * h-cesikaps.online-metrix.net
@@ -435,6 +439,7 @@
     * h-k8vif92e.sri3.online-metrix.net
     * h-kabbage.online-metrix.net
     * h-kelmar-ak.online-metrix.net
+    * h-kelmar-argov.online-metrix.net
     * h-kelmar-de.online-metrix.net
     * h-kelmar-il.online-metrix.net
     * h-kelmar-ks.online-metrix.net
@@ -651,9 +656,7 @@
     * h-v60nf4oj-pfp.online-metrix.net
     * h-v60nf4oj-qfp.online-metrix.net
     * h-v60nf4oj-rfp.online-metrix.net
-    * h-v60nf4oj-sfp.online-metrix.net
     * h-v60nf4oj-tfp.online-metrix.net
-    * h-v60nf4oj-ufp.online-metrix.net
     * h-v60nf4oj-vfp.online-metrix.net
     * h-v60nf4oj-wfp.online-metrix.net
     * h-v60nf4oj-xfp.online-metrix.net
@@ -712,6 +715,7 @@
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
 | content.sb.lt | h-1d2p5fdt.online-metrix.net |
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
+| posture.mtoken.zand.ae | h-1k066192.online-metrix.net |
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
 | t.zinia.com | h-1ngztxrl.online-metrix.net |
@@ -881,11 +885,13 @@
 | afs.wearemp.com | h-8la63gsu.online-metrix.net |
 | ftd.quodxx.com.br | h-8m7u92ti.online-metrix.net |
 | tmuat.kotak.com | h-8ms1wsqq.online-metrix.net |
+| tm.kotak811.com | h-8ms1wsqq2.online-metrix.net |
 | digitalidentity.compass.it | h-8om29r2u-a.online-metrix.net |
 | piafapp.poste.it | h-8om29r2u.online-metrix.net |
 | rba.apata.io | h-8t63q4n4.online-metrix.net |
 | req.secured-content.com | h-8uj1s5zr.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
+| app.uob.com.my | h-96clh8g7.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
 | wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
@@ -926,7 +932,6 @@
 | content.tfbank.at | h-anai49qi.online-metrix.net |
 | content.tfbank.de | h-anai49qi.online-metrix.net |
 | analytics.amrcollection.com | h-analytics.triseptsolutions.online-metrix.net |
-| analytics.applevacations.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.beachbound.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.breathlessresorts.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.cheapcaribbean.com | h-analytics.triseptsolutions.online-metrix.net |
@@ -958,9 +963,11 @@
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
 | tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |
 | content.vi.gov | h-b4bq7y80.online-metrix.net |
+| srv.squaretrade.co.uk | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.com | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.com.au | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.dk | h-b6te0xmf.online-metrix.net |
+| srv.squaretrade.es | h-b6te0xmf.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
 | content.bank-abc.com | h-ban3nmwg.online-metrix.net |
@@ -1046,12 +1053,14 @@
 | content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
+| www.content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | tcontent.cdiscountmobile.cdiscount.com | h-cdcmobile.online-metrix.net |
 | imagesmx.cdiscountpro.com | h-cdiscount.online-metrix.net |
 | imagesmx.cdscdn.com | h-cdiscount.online-metrix.net |
 | fp.cdn-scripts.com | h-cdn-scripts.online-metrix.net |
 | cdn.coastcapitalsavings.com | h-cdn.coastcapitalsavings.online-metrix.net |
 | cdn2.intercambioexpress.com | h-cdn2.intercambioexpress.online-metrix.net |
+| tm.rsa-claims.co.uk | h-cdryhofv.online-metrix.net |
 | cdnm.sts.pl | h-ce5udwb7.online-metrix.net |
 | content.certifid.com | h-certifid.online-metrix.net |
 | contentneworks.nebraska.gov | h-cesikaps.online-metrix.net |
@@ -1183,6 +1192,7 @@
 | cdna.ecommerce.cofidis.it | h-dxmw0w7i.online-metrix.net |
 | content.orixbank.co.jp | h-dy06hdpq.online-metrix.net |
 | query.capitalontap.com | h-dyj6k3h5.online-metrix.net |
+| query.capitalontap.es | h-dyj6k3h5.online-metrix.net |
 | content.gap.com | h-e04kqxof.online-metrix.net |
 | content.gapfactory.com | h-e04kqxof.online-metrix.net |
 | content.gaptechol.com | h-e04kqxof.online-metrix.net |
@@ -1201,7 +1211,6 @@
 | did.fashionworld.co.uk | h-fashionworld.online-metrix.net |
 | ccf.prod.fedex.com | h-fedex.online-metrix.net |
 | cfa.febtest.com | h-fidelity.online-metrix.net |
-| cfaxdev2.fidelity.com | h-fidelity.online-metrix.net |
 | daotm.firstcitizens.com | h-firstcitizensbank.online-metrix.net |
 | clovergo.june-testing.firstdata.com | h-firstdata.online-metrix.net |
 | content.firstinterstatebank.com | h-firstinterstatebank.online-metrix.net |
@@ -1234,11 +1243,13 @@
 | ww3.fundingstream.com | h-fundingstream.online-metrix.net |
 | ww3.marlincapitalsolutions.com | h-fundingstream.online-metrix.net |
 | ww3.peacsolutions.com | h-fundingstream.online-metrix.net |
+| tm.betano.ar | h-gambling-malta.online-metrix.net |
 | tm.betano.bg | h-gambling-malta.online-metrix.net |
 | tm.betano.ca | h-gambling-malta.online-metrix.net |
 | tm.betano.com | h-gambling-malta.online-metrix.net |
 | tm.betano.cz | h-gambling-malta.online-metrix.net |
 | tm.betano.de | h-gambling-malta.online-metrix.net |
+| tm.betano.mx | h-gambling-malta.online-metrix.net |
 | tm.stoiximan.com.cy | h-gambling-malta.online-metrix.net |
 | tm.stoiximan.gr | h-gambling-malta.online-metrix.net |
 | dfp.garmin.com | h-garmin.online-metrix.net |
@@ -1346,6 +1357,7 @@
 | uldfp.srilankan.com | h-k8vif92e.sri3.online-metrix.net |
 | b177.kabbage.com | h-kabbage.online-metrix.net |
 | tag.unclaimedproperty.alaska.gov | h-kelmar-ak.online-metrix.net |
+| tag.claimitar.gov | h-kelmar-argov.online-metrix.net |
 | tag.unclaimedproperty.delaware.gov | h-kelmar-de.online-metrix.net |
 | tag.icash.illinoistreasurer.gov | h-kelmar-il.online-metrix.net |
 | tag.unclaimedproperty.ks.gov | h-kelmar-ks.online-metrix.net |
@@ -1641,9 +1653,7 @@
 | pfp.intuit.com | h-v60nf4oj-pfp.online-metrix.net |
 | qfp.intuit.com | h-v60nf4oj-qfp.online-metrix.net |
 | rfp.intuit.com | h-v60nf4oj-rfp.online-metrix.net |
-| sfp.intuit.com | h-v60nf4oj-sfp.online-metrix.net |
 | tfp.intuit.com | h-v60nf4oj-tfp.online-metrix.net |
-| ufp.intuit.com | h-v60nf4oj-ufp.online-metrix.net |
 | vfp.intuit.com | h-v60nf4oj-vfp.online-metrix.net |
 | wfp.intuit.com | h-v60nf4oj-wfp.online-metrix.net |
 | xfp.intuit.com | h-v60nf4oj-xfp.online-metrix.net |

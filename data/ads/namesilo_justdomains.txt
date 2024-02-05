@@ -397,6 +397,7 @@
 3437433.notifysrv.com
 3440153.notify6.com
 3440153.notifysrv.com
+3440155.notify6.com
 3440155.notifysrv.com
 3440401.notify6.com
 3440401.notifysrv.com
@@ -454,6 +455,7 @@
 3483233.notifysrv.com
 3483409.notify6.com
 3484631.notify6.com
+3485755.notifysrv.com
 3489365.notify6.com
 3491507.notifysrv.com
 3491539.notifysrv.com
@@ -588,6 +590,7 @@
 3591075.notifysrv.com
 3593835.notify6.com
 3593835.notifysrv.com
+3593847.notifysrv.com
 3593859.notifysrv.com
 3595095.notifysrv.com
 3595711.notifysrv.com
@@ -601,6 +604,7 @@
 3603119.notifysrv.com
 3607715.notify6.com
 3607715.notifysrv.com
+3613079.notify6.com
 3613299.notifysrv.com
 3617551.notify6.com
 3617853.notify6.com
@@ -831,6 +835,7 @@
 4143324.notify6.com
 4144426.notify6.com
 4149128.notify6.com
+4149216.notify6.com
 4151384.notify6.com
 4152268.notify6.com
 4152316.notify6.com
@@ -981,6 +986,7 @@
 769.notify.optimizesrv.com
 8.notify.bizonads-ssp.com
 905.notify.optimizesrv.com
+909.notify.optimizesrv.com
 913.notify.optimizesrv.com
 925.notify.optimizesrv.com
 955.notify.optimizesrv.com
@@ -989,6 +995,7 @@
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
 a.a3ion.com
+a.addisplaynetwork.com
 a.adsession.com
 a.advantageclicks.net
 a.advertrek.com
@@ -1000,16 +1007,20 @@ a.optimizesrv.com
 a.paradoxgroup.uk
 a.r8lnet.com
 a.redpathmedia.com
+a.rocoads.net
 a.santabrowser.com
 a.slice.exchange
+a.stuffserve.com
 admin.adnation.com
 admin.adstuff.io
+admin.datingclix.com
 admin.etology.com
 admin.exoclick.com
 admin.gettopple.com
 admin.shafttraffic.com
 admin.trafficfactory.com
 api.adnation.com
+api.datingclix.com
 api.getblaze.app
 api.slice.exchange
 api.trafficfactory.com
@@ -1017,6 +1028,7 @@ click.advertrek.com
 delivery.gettopple.com
 engine.gettopple.com
 m.hue2m.com
+m.optidigital.com
 main.exdynsrv.com
 main.exoclick.com
 main.exosrv.com
@@ -1063,11 +1075,13 @@ s.elnn10.com
 s.elnn12.com
 s.elnn14.com
 s.elnn20.com
+s.elnn22.com
 s.elnn24.com
 s.elnp11.com
 s.elnr15.com
 s.elns12.com
 s.elns4a.com
+s.elns4b.com
 s.elns4c.com
 s.etology.com
 s.eunow4u.com
@@ -1151,6 +1165,3 @@ www.4389756.notify6.com
 www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
-a.addisplaynetwork.com
-a.rocoads.net
-a.stuffserve.com

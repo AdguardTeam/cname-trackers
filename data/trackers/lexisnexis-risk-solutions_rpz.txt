@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1706515217346        ; Serial
+           1707120021912        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,7 +18,6 @@ acsweb-3dr1.dnp-cdms.jp CNAME .
 af.mobile.free.fr CNAME .
 afs.wearemp.com CNAME .
 analytics.amrcollection.com CNAME .
-analytics.applevacations.com CNAME .
 analytics.beachbound.com CNAME .
 analytics.breathlessresorts.com CNAME .
 analytics.cheapcaribbean.com CNAME .
@@ -36,6 +35,7 @@ analyze.central1.cc CNAME .
 api.v1.threatmetrix.space.ge CNAME .
 api1.sfcu.org CNAME .
 apicorporativops.portoseguro.com.br CNAME .
+app.uob.com.my CNAME .
 app.uob.com.sg CNAME .
 app392.gerberlife.com CNAME .
 applicant.rbfcu.org CNAME .
@@ -140,7 +140,6 @@ cfa.febtest.com CNAME .
 cfa.fidelity.com CNAME .
 cfa.mystreetscape.com CNAME .
 cfa.streetscape.com CNAME .
-cfaxdev2.fidelity.com CNAME .
 cfaxq.advisorchannel.com CNAME .
 cfaxq.mystreetscape.com CNAME .
 cfaxq.streetscape.com CNAME .
@@ -606,6 +605,7 @@ portal-fp-qa1.qa.threatmetrix.com CNAME .
 portal-fp-qa2.qa.threatmetrix.com CNAME .
 portal-fp-qaperf2.qa.threatmetrix.com CNAME .
 portal-fp.threatmetrix.com CNAME .
+posture.mtoken.zand.ae CNAME .
 pov.spectrum.net CNAME .
 prod-acutx.chaperone.lumindigitalhosting.com CNAME .
 prod-afcutn.chaperone.lumindigitalhosting.com CNAME .
@@ -668,6 +668,7 @@ qrimages.qatarairways.com CNAME .
 qtbm.fundourselves.com CNAME .
 qtbm.welendus.com CNAME .
 query.capitalontap.com CNAME .
+query.capitalontap.es CNAME .
 r.hokodo.co CNAME .
 r7s.scl.swisscom.ch CNAME .
 ranzg.agribank.co.nz CNAME .
@@ -751,7 +752,6 @@ secured.netflix.com CNAME .
 service.riverscontent.com CNAME .
 servicesdp.luckydays.ca CNAME .
 servicesdp.spinaway.ca CNAME .
-sfp.intuit.com CNAME .
 sg-payment.cydf.hoyoverse.com CNAME .
 shield.boostbusiness.my CNAME .
 sitehelper.myengageft.com CNAME .
@@ -760,9 +760,11 @@ solstice.ibotta.com CNAME .
 sptbb.pilates.com CNAME .
 src.ebay-us.com CNAME .
 src0.myvoffice.com CNAME .
+srv.squaretrade.co.uk CNAME .
 srv.squaretrade.com CNAME .
 srv.squaretrade.com.au CNAME .
 srv.squaretrade.dk CNAME .
+srv.squaretrade.es CNAME .
 ssafp.samsclub.com CNAME .
 st10.sofi.com CNAME .
 stat.bluorbank.lv CNAME .
@@ -826,6 +828,7 @@ t1.welab.bank CNAME .
 t11.identity.aikyam.com CNAME .
 t42rsn90.uplift.com CNAME .
 tag-unclaimed.oregon.gov CNAME .
+tag.claimitar.gov CNAME .
 tag.findmassmoney.com CNAME .
 tag.findmassmoney.gov CNAME .
 tag.findyourunclaimedproperty.com CNAME .
@@ -889,11 +892,13 @@ tm.barstoolsportsbook.com CNAME .
 tm.bdc-cdn.com CNAME .
 tm.beachbody.com CNAME .
 tm.benevity.org CNAME .
+tm.betano.ar CNAME .
 tm.betano.bg CNAME .
 tm.betano.ca CNAME .
 tm.betano.com CNAME .
 tm.betano.cz CNAME .
 tm.betano.de CNAME .
+tm.betano.mx CNAME .
 tm.cbd.ae CNAME .
 tm.clearcover.com CNAME .
 tm.cox.com CNAME .
@@ -908,6 +913,7 @@ tm.goldennuggetcasino.com CNAME .
 tm.gumtree.co.za CNAME .
 tm.gumtree.com.au CNAME .
 tm.kotak.com CNAME .
+tm.kotak811.com CNAME .
 tm.okinushub.com CNAME .
 tm.paysafecard.com CNAME .
 tm.production.eu1.tmfp.klarna.net CNAME .
@@ -915,6 +921,7 @@ tm.promotion-cdn.com CNAME .
 tm.regions.com CNAME .
 tm.regionsqa.com CNAME .
 tm.regionstest.com CNAME .
+tm.rsa-claims.co.uk CNAME .
 tm.solidgate.com CNAME .
 tm.stats.home24.at CNAME .
 tm.stats.home24.be CNAME .
@@ -980,7 +987,6 @@ txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
 ualaki-analytics.vacations.united.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
-ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .
 v.ayco.com CNAME .
@@ -1026,6 +1032,7 @@ ww3.peacsolutions.com CNAME .
 ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
 www.content.bnl.it CNAME .
+www.content.mabanquepro.bnpparibas CNAME .
 www7.raise.com CNAME .
 xfp.intuit.com CNAME .
 xmt.paze.com CNAME .

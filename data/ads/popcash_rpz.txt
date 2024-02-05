@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1706515217346        ; Serial
+           1707120021912        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -98,7 +98,6 @@ cdn.nmkli.com CNAME .
 cdn.norymo.com CNAME .
 cdn.npcta.xyz CNAME .
 cdn.nuqwe.com CNAME .
-cdn.olep.xyz CNAME .
 cdn.orjfun.com CNAME .
 cdn.ovqds.com CNAME .
 cdn.pctv.xyz CNAME .
@@ -515,6 +514,7 @@ flyingfish.agilehedges.com CNAME .
 flyingfish.editorslab.de CNAME .
 flyingfish.whoisrepresented.org CNAME .
 fowl.saulhardman.com CNAME .
+fowl.teamyap.app CNAME .
 fox.domainr.com CNAME .
 fox.visionaudiovisual.com CNAME .
 gamefowl.emailforward.mx CNAME .
@@ -666,7 +666,6 @@ koi.fftf.cat CNAME .
 koi.henrydennis.dev CNAME .
 koi.lkae.dev CNAME .
 koi.madebykind.com CNAME .
-koi.omnimove.health CNAME .
 koi.project-tampah.com CNAME .
 koi.valleywestlandscapes.com CNAME .
 koi.vyer.com CNAME .
@@ -956,7 +955,6 @@ sawfish.loqbooq.app CNAME .
 scallop.esolia.pro CNAME .
 scallop.productionrails.com CNAME .
 scallop.vav.link CNAME .
-scorpion.byteside.com CNAME .
 scorpion.clare.ink CNAME .
 sdegwynml.bmaci.me CNAME .
 seahorse.brightwayhealth.org CNAME .
@@ -1044,6 +1042,7 @@ tahr.componentsui.com CNAME .
 tahr.happydev.fm CNAME .
 tahr.rasen.dev CNAME .
 takin.bottlebeagle.com CNAME .
+takin.cors.digital CNAME .
 takin.dripmacetas.com CNAME .
 takin.revolana.fr CNAME .
 tapir.lindahlstudios.com CNAME .
@@ -1053,6 +1052,7 @@ tarantula.tuxedo.media CNAME .
 tarsier.eyal.codes CNAME .
 tarsier.kriterie.se CNAME .
 termite.queerburners.org CNAME .
+tern.daffy.org CNAME .
 tern.xebel.co CNAME .
 tick.pcrpriser.se CNAME .
 tick.sculch.app CNAME .
@@ -1065,7 +1065,6 @@ tigershark.vandevliet.me CNAME .
 tiglon.beyondco.de CNAME .
 tiglon.davidroessli.com CNAME .
 toad.ettiennevorster.co.za CNAME .
-tortoise.transistor.fm CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.the-faithful.com CNAME .
 treefrog.kaffeknappen.no CNAME .
@@ -1115,7 +1114,6 @@ walrus.oscaroarevalo.com CNAME .
 warbler.resumebuilder.dev CNAME .
 wasp.dyrynda.dev CNAME .
 wasp.mattjennings.io CNAME .
-waterboa.brooks.page CNAME .
 waterboa.midu.dev CNAME .
 waterboa.nighttrain.co CNAME .
 whale.gdebrauwer.dev CNAME .
@@ -1161,6 +1159,7 @@ partner.streetinteractive.com CNAME .
 partners.hourmediagroup.com CNAME .
 partners.nationalmortgageprofessional.com CNAME .
 partners.seetheworld.com CNAME .
+pnq.babcoxmediainc.com CNAME .
 saucon-sponsors.streetinteractive.com CNAME .
 sponsor-v2.lebtown.com CNAME .
 sponsor.styleblueprint.com CNAME .

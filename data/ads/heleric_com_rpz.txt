@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1706515217346        ; Serial
+           1707120021912        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -122,6 +122,7 @@ fh.termsixias.com CNAME .
 fi.creeguilds.com CNAME .
 fj.bedrowndaffs.com CNAME .
 fj.cavilerestops.com CNAME .
+fj.lactolwant.com CNAME .
 fj.patencydaimiel.com CNAME .
 fk.oaklikespiers.com CNAME .
 fl.dumpiesgoschen.com CNAME .
@@ -263,6 +264,7 @@ ns.gyreneverist.com CNAME .
 nz.salvingrolls.com CNAME .
 oa.frowllutetia.com CNAME .
 oa.kettlewharves.com CNAME .
+oa.shticksconturb.com CNAME .
 oa.skancehobo.com CNAME .
 ob.freyrclogs.com CNAME .
 of.thomismtoast.com CNAME .
@@ -354,6 +356,7 @@ sl.frondewame.com CNAME .
 sn.weirmelamin.com CNAME .
 sq.volvellurol.com CNAME .
 sr.awkwardpurfles.com CNAME .
+st.perteranorak.com CNAME .
 sv.werewaught.com CNAME .
 sw.pluckysups.com CNAME .
 sy.sartishmoop.com CNAME .
@@ -464,11 +467,13 @@ ye.coresepyllia.com CNAME .
 yg.coehornjobbet.com CNAME .
 yg.slantedsecno.com CNAME .
 yh.jewelyavoir.com CNAME .
+yi.fessetoi.com CNAME .
 yk.dissentsangir.com CNAME .
 yl.calumetjowing.com CNAME .
 yn.pigneedier.com CNAME .
 yp.poxykhakis.com CNAME .
 yp.tronkparsed.com CNAME .
+yq.bokosatom.com CNAME .
 yt.colorinmeasure.com CNAME .
 yu.deggerfletton.com CNAME .
 yv.atticereqd.com CNAME .
@@ -480,6 +485,7 @@ ze.mahonetranvia.com CNAME .
 zf.perseuschoose.com CNAME .
 zg.butaneailment.com CNAME .
 zi.kissbluest.com CNAME .
+zj.rochermack.com CNAME .
 zk.kabscarbide.com CNAME .
 zl.tirlszunyite.com CNAME .
 zn.glucinasileni.com CNAME .

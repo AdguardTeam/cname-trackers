@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1706515217346        ; Serial
+           1707120021912        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -81,6 +81,7 @@ tr.asp10a7.espmp-aufr.net CNAME .
 tr.asp10ai.espmp-nifr.net CNAME .
 tr.asp10ap.espmp-nifr.net CNAME .
 tr.asp10ar.espmp-cufr.net CNAME .
+tr.asp10b3.espmp-agfr.net CNAME .
 tr.asp10bq.espmp-nifr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
 tr.asp10c8.espmp-agfr.net CNAME .
@@ -371,7 +372,6 @@ tr.emailing.canalpro.fr CNAME .
 tr.emailing.canalsat.ch CNAME .
 tr.emailing.cifea-mkg.com CNAME .
 tr.emailing.cnam-paysdelaloire.fr CNAME .
-tr.emailing.coe.int CNAME .
 tr.emailing.cstar.fr CNAME .
 tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
@@ -622,6 +622,7 @@ tr.mart.espmp-agfr.net CNAME .
 tr.mattressman.co.uk CNAME .
 tr.mcom03b.espmp-aufr.net CNAME .
 tr.mcom04p.espmp-aufr.net CNAME .
+tr.media.harmonie-sante.fr CNAME .
 tr.melhores-propostas.pt CNAME .
 tr.membres.boursorama.info CNAME .
 tr.mep.enkiapp.io CNAME .
@@ -635,6 +636,7 @@ tr.mhdconnect.mhdfrance.fr CNAME .
 tr.mhist.moethennessy.com CNAME .
 tr.mhlab78.moethennessy.com CNAME .
 tr.mhusa-trade-engagement.moethennessy.com CNAME .
+tr.mhwinesestates.moethennessy.com CNAME .
 tr.mijn-superaanbieding.be CNAME .
 tr.mijnaanbieding.renowizz.be CNAME .
 tr.mika.espmp-nifr.net CNAME .
@@ -1088,6 +1090,7 @@ tr.welcome.easyviajar.com CNAME .
 tr.welcome.easyvoyage.co.uk CNAME .
 tr.welcome.easyvoyage.com CNAME .
 tr.welcome.easyvoyage.de CNAME .
+tr.welcome.lacollection-airfrance.be CNAME .
 tr.welcome.lacollection-airfrance.ch CNAME .
 tr.welcome.lacollection-airfrance.co.uk CNAME .
 tr.welcome.lacollection-airfrance.de CNAME .
