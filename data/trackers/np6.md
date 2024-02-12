@@ -375,6 +375,7 @@
 | tr.emailing.canalplus-caledonie.com | tracking.bp01.net |
 | tr.emailing.canalplus-caraibes.com | tracking.bp01.net |
 | tr.emailing.canalplus-maurice.com | tracking.bp01.net |
+| tr.emailing.canalplus-polynesie.com | tracking.bp01.net |
 | tr.emailing.canalplus-reunion.com | tracking.bp01.net |
 | tr.emailing.canalplus.ch | tracking.bp01.net |
 | tr.emailing.canalplus.fr | tracking.bp01.net |
@@ -392,7 +393,6 @@
 | tr.emc.moethennessy.com | tracking.bp01.net |
 | tr.enedis-infos.fr | tracking.bp01.net |
 | tr.enews.customsolutions.fr | tracking.bp01.net |
-| tr.enquete-cpf.ifop.com | tracking.bp01.net |
 | tr.enquetes.actionlogement.fr | tracking.bp01.net |
 | tr.entreprise-pro.info | tracking.bp01.net |
 | tr.entreprise.axa.fr | tracking.bp01.net |
@@ -636,7 +636,6 @@
 | tr.melhores-propostas.pt | tracking.bp01.net |
 | tr.membres.boursorama.info | tracking.bp01.net |
 | tr.mep.enkiapp.io | tracking.bp01.net |
-| tr.merit-summit.com | tracking.bp01.net |
 | tr.mes-bonsplans.be | tracking.bp01.net |
 | tr.mes-prestataires.fr | tracking.bp01.net |
 | tr.message.maaf.fr | tracking.bp01.net |
@@ -957,7 +956,6 @@
 | tr.politicolive.eu | tracking.bp01.net |
 | tr.politicomarketing.eu | tracking.bp01.net |
 | tr.portail.afpa.fr | tracking.bp01.net |
-| tr.premierembatour.com | tracking.bp01.net |
 | tr.prevention.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.preventivo.risparmiazienda.it | tracking.bp01.net |
 | tr.pro-renov.be | tracking.bp01.net |
@@ -1038,6 +1036,7 @@
 | tr.sort.espmp-nifr.net | tracking.bp01.net |
 | tr.souscription.floa.fr | tracking.bp01.net |
 | tr.spain.plimsoll.es | tracking.bp01.net |
+| tr.sportswear.np6.com | tracking.bp01.net |
 | tr.strategie.gouv.fr | tracking.bp01.net |
 | tr.suivi-client-edf.com | tracking.bp01.net |
 | tr.surveys.np6.com | tracking.bp01.net |
@@ -1056,7 +1055,6 @@
 | tr.uk.icicibank.com | tracking.bp01.net |
 | tr.uk.katun.com | tracking.bp01.net |
 | tr.unaoffertaalgiorno.com | tracking.bp01.net |
-| tr.unimy-beyond.com | tracking.bp01.net |
 | tr.update.groupon.be | tracking.bp01.net |
 | tr.urfk.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk02r.espmp-nifr.net | tracking.bp01.net |

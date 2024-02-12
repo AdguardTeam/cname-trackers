@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,7 +59,6 @@ by.ballinghelonin.com CNAME .
 bz.waveoffcrakes.com CNAME .
 ca.encurlergon.com CNAME .
 ca.upboostarmaria.com CNAME .
-cb.rompercava.com CNAME .
 ce.paliercleaned.com CNAME .
 ch.hagboatdismast.com CNAME .
 ci.taupesverry.com CNAME .
@@ -77,7 +76,6 @@ cz.peatmenwhatsis.com CNAME .
 db.relandsnouts.com CNAME .
 dc.swartlybeebee.com CNAME .
 dg.durgahsursize.com CNAME .
-dg.folksychapes.com CNAME .
 dh.txtcompert.com CNAME .
 di.allonymgranula.com CNAME .
 dk.cazibiukiyoe.com CNAME .
@@ -117,7 +115,6 @@ ez.slabbernorland.com CNAME .
 fd.peguanmistone.com CNAME .
 fd.rusheedeserve.com CNAME .
 ff.guimpefesses.com CNAME .
-fg.satraefreath.com CNAME .
 fh.termsixias.com CNAME .
 fi.creeguilds.com CNAME .
 fj.bedrowndaffs.com CNAME .
@@ -134,9 +131,11 @@ ga.fentwigful.com CNAME .
 gb.akhyanaoverhot.com CNAME .
 gf.goreplacers.com CNAME .
 gg.warmanmamelon.com CNAME .
+gh.outswumvinose.com CNAME .
 gi.okapisail.com CNAME .
 gn.afootwitword.com CNAME .
 go.cordelgront.com CNAME .
+go.iguanidguisian.com CNAME .
 go.loorydewdrop.com CNAME .
 gp.feiriegershon.com CNAME .
 gp.splodgydossing.com CNAME .
@@ -144,6 +143,7 @@ gr.faencepuggy.com CNAME .
 gs.profrebecca.com CNAME .
 gt.unurnedbeleve.com CNAME .
 gw.glassbogey.com CNAME .
+gw.precislooed.com CNAME .
 ha.reaffixteaey.com CNAME .
 hc.besmutshelixin.com CNAME .
 he.sirramugget.com CNAME .
@@ -184,8 +184,8 @@ jc.licencearchean.com CNAME .
 je.guancheoutwait.com CNAME .
 je.mammeysterrae.com CNAME .
 je.sepiasfra.com CNAME .
+jf.palemaneleven.com CNAME .
 jg.devaultautit.com CNAME .
-ji.axingectal.com CNAME .
 jj.jaupsgrimes.com CNAME .
 jl.reckonpretax.com CNAME .
 jm.ethylintusker.com CNAME .
@@ -282,13 +282,13 @@ pb.shaledpaidle.com CNAME .
 pg.maftirkolo.com CNAME .
 pi.beaufintorque.com CNAME .
 pk.tawersasocial.com CNAME .
+pl.tourteardass.com CNAME .
 pm.clokemidriff.com CNAME .
 pm.teawaredanzon.com CNAME .
 pn.wendatopen.com CNAME .
 po.lepidjounces.com CNAME .
 pq.carlingquerent.com CNAME .
 pq.murkfrazil.com CNAME .
-pr.hefterunmete.com CNAME .
 ps.lanzontuareg.com CNAME .
 pt.handjarcranch.com CNAME .
 pu.serumchicha.com CNAME .
@@ -343,7 +343,6 @@ rw.gundogleaker.com CNAME .
 rx.ominateamt.com CNAME .
 sa.resailsgyse.com CNAME .
 sb.elfshippref.com CNAME .
-sc.waapadaggled.com CNAME .
 sc.waybookmyceles.com CNAME .
 se.aspireetopee.com CNAME .
 sf.dirhamsleered.com CNAME .
@@ -352,7 +351,6 @@ sf.skylesscandied.com CNAME .
 sf.zestfulpize.com CNAME .
 sk.tuskersecklein.com CNAME .
 sl.elinvarpayola.com CNAME .
-sl.frondewame.com CNAME .
 sn.weirmelamin.com CNAME .
 sq.volvellurol.com CNAME .
 sr.awkwardpurfles.com CNAME .
@@ -471,6 +469,7 @@ yi.fessetoi.com CNAME .
 yk.dissentsangir.com CNAME .
 yl.calumetjowing.com CNAME .
 yn.pigneedier.com CNAME .
+yo.senagegrasper.com CNAME .
 yp.poxykhakis.com CNAME .
 yp.tronkparsed.com CNAME .
 yq.bokosatom.com CNAME .

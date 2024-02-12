@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1033,6 +1033,7 @@ data-75037dd3ff.praxis-depesche.de CNAME .
 data-75526e35eb.etailment.de CNAME .
 data-7555680eb3.ikz.de CNAME .
 data-75671117cf.radiowaf.de CNAME .
+data-75671117cf.radiowafhilft.de CNAME .
 data-75adc1b92b.fleischerei.de CNAME .
 data-7609d780e9.apps.iocnt.de CNAME .
 data-767a8be759.berliner-kurier.de CNAME .
@@ -1501,6 +1502,7 @@ data-ae81bed93b.stimmt.de CNAME .
 data-ae81bed93b.verliebt-in-bw.de CNAME .
 data-ae8875c8b8.nordkurier.de CNAME .
 data-ae8b196712.hanser-fachverlag.de CNAME .
+data-ae99031d75.mittelbayerische-events.de CNAME .
 data-ae99031d75.mittelbayerische-stellen.de CNAME .
 data-ae99031d75.mittelbayerische-trauer.de CNAME .
 data-ae99031d75.mittelbayerische.de CNAME .
@@ -1821,6 +1823,7 @@ data-d5efd1b9c0.dzonline.de CNAME .
 data-d61ee02db0.pirsch.de CNAME .
 data-d6484416fd.maclife.de CNAME .
 data-d6485d3579.playboy.de CNAME .
+data-d67a03d16c.meintophotel.de CNAME .
 data-d687fc47c0.11freunde.de CNAME .
 data-d69d9a5415.aachen.de CNAME .
 data-d6a989bf01.kl-magazin.de CNAME .
@@ -1962,6 +1965,7 @@ data-ec9f31ae75.apps.iocnt.de CNAME .
 data-ecadc85e81.apps.iocnt.de CNAME .
 data-ecb5249bb2.falter.at CNAME .
 data-ecd887c1d0.weser-kurier.de CNAME .
+data-ed1806e776.apps.iocnt.de CNAME .
 data-ed1ee98a6c.arzt-atlas.de CNAME .
 data-ed1ee98a6c.medpertise.de CNAME .
 data-ed1ee98a6c.miomedi.de CNAME .

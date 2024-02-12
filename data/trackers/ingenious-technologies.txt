@@ -97,6 +97,7 @@
 ||0-386.net.daraz.com^
 ||0-3arymn.net.daraz.com^
 ||0-3arymnapidocs.net.daraz.com^
+||0-3arymnops.net.daraz.com^
 ||0-3nstagemnsteaven5.net.daraz.com^
 ||0-3nstagemnsteaven7.net.daraz.com^
 ||0-4-5.net.daraz.com^
@@ -767,6 +768,7 @@
 ||00-beastcsr12eastcsr12tstrap.dcsportal.0-astrologie.net.daraz.com^
 ||00-bedgens1edgens1tstrap.net.daraz.com^
 ||00-beduedutstrap.dcsportal.0-astrologie.net.daraz.com^
+||00-bejavootstrap.0-132.net.daraz.com^
 ||00-belkelktstrap.0-astrologie.net.daraz.com^
 ||00-berndpulchmedotcom.0-131.net.daraz.com^
 ||00-berndpulchmedotcom.dcsportal.0-astrologie.net.daraz.com^
@@ -1082,6 +1084,7 @@
 ||00-bootstbarcodesp.0-132.net.daraz.com^
 ||00-bootstbbap.0-astrologie.net.daraz.com^
 ||00-bootstberndpulchmedotcomap.0-132.net.daraz.com^
+||00-bootstbitbucket-car21p.0-astrologie.net.daraz.com^
 ||00-bootstbitoolsap.dcsportal.0-astrologie.net.daraz.com^
 ||00-bootstbrandap.net.daraz.com^
 ||00-bootstbrandp.0-astrologie.net.daraz.com^
@@ -1137,6 +1140,7 @@
 ||00-bootstghapold-patner.net.daraz.com^
 ||00-bootstghcpiap.dcsportal.0-astrologie.net.daraz.com^
 ||00-bootstgistemailvisionap.net.daraz.com^
+||00-bootstgithubap.0-astrologie.net.daraz.com^
 ||00-bootstgitlabr-es-1ap.0-astrologie.net.daraz.com^
 ||00-bootstglobal-bap.0-132.net.daraz.com^
 ||00-bootstglobalcsap.net.daraz.com^
@@ -1203,6 +1207,7 @@
 ||00-bootstpreap.net.daraz.com^
 ||00-bootstprintap.0-astrologie.net.daraz.com^
 ||00-bootstprofileap.net.daraz.com^
+||00-bootstprofilespartnerap.0-132.net.daraz.com^
 ||00-bootstpromoap.0-astrologie.net.daraz.com^
 ||00-bootstproxy-emailvisionp.0-astrologie.net.daraz.com^
 ||00-bootstpull-de-drzlivep.0-132.net.daraz.com^
@@ -2049,6 +2054,7 @@
 ||004proplusxn.net.daraz.com^
 ||005-simplemarker-01-echo-tls.net.daraz.com^
 ||005-simplemarker10537981.net.daraz.com^
+||005-smallest-1.net.daraz.com^
 ||005-smallest-10537981.net.daraz.com^
 ||005-smallest-10tlsvc.net.daraz.com^
 ||005-smallest.net.daraz.com^
@@ -2844,6 +2850,7 @@
 ||01-car21-asana-r-is-7-2.net.daraz.com^
 ||01-car21-asanar-es-3.net.daraz.com^
 ||01-car21-available-r-oa-1.net.daraz.com^
+||01-car21-bentleysystems.net.daraz.com^
 ||01-car21-bt.net.daraz.com^
 ||01-car21-car13.net.daraz.com^
 ||01-car21-chd-r-oa-1.net.daraz.com^
@@ -3538,6 +3545,7 @@
 ||01-echo-tlsastrologiecsr12.net.daraz.com^
 ||01-echo-tlschallenges.net.daraz.com^
 ||01-echo-tlsfunctions.net.daraz.com^
+||01-echo-tlshackintosh.net.daraz.com^
 ||01-echo-tlshw.net.daraz.com^
 ||01-echo-tlsmanagementlib.net.daraz.com^
 ||01-echo-tlsmodelssvc.net.daraz.com^
@@ -3954,6 +3962,7 @@
 ||01-lib-oa-1-dogfood-cs-utils-rtrin8.net.daraz.com^
 ||01-lib-oa-1-dsslistrators-csr40.net.daraz.com^
 ||01-lib-oa-1-dw.net.daraz.com^
+||01-lib-oa-1-elastic-csr40.net.daraz.com^
 ||01-lib-oa-1-elasticbeanstalkyancancookin8.net.daraz.com^
 ||01-lib-oa-1-elk8.net.daraz.com^
 ||01-lib-oa-1-engineapplicationmin8.net.daraz.com^
@@ -4173,6 +4182,7 @@
 ||016-power-digit-sum.net.daraz.com^
 ||018-riv-woe-package.net.daraz.com^
 ||01933310313.net.daraz.com^
+||01933310313.net.jumia.co.ke^
 ||01container-csr12.net.daraz.com^
 ||01elop.net.daraz.com^
 ||01esetdata.ca0110.net.daraz.com^
@@ -5013,9 +5023,11 @@
 ||043-docsnew4.net.daraz.com^
 ||043-enginer-is-8-2.net.daraz.com^
 ||043-ingest.net.daraz.com^
+||043-prod11www.net.daraz.com^
 ||043-restrict.net.daraz.com^
 ||043-web-vpn-docs-auth-march.net.daraz.com^
 ||043-web-vpn-prod-vicms10.net.daraz.com^
+||043-web-vpn-qa-cms1private.net.daraz.com^
 ||043-web-vpntr4testing.net.daraz.com^
 ||043-web9-www-9-betaapi9.net.daraz.com^
 ||043-www-cf17-api14.net.daraz.com^
@@ -5122,6 +5134,7 @@
 ||06u-u01dbaf61-c233-s7507131074-i95143f0d43fa85c01ff0679502a5.am.net.daraz.com^
 ||06u-u01dbaf61-c933-s1507931074-i95143f0d.am.net.daraz.com^
 ||06u-u01dbaf69-c283-s1507831074-i95143f0d.am-n6x622.net.daraz.com^
+||06u-u31dbaf61-c233-s1807831074-i95143f0d.am.net.daraz.com^
 ||06u-u70dbaf61-c233-s1507831074-i95143f0d.am.net.daraz.com^
 ||06u.0-131.net.daraz.com^
 ||06x6riimt8vqx5oz.net.daraz.com^
@@ -5134,6 +5147,7 @@
 ||07-car25-web-internalsw0node.net.daraz.com^
 ||07-lib-oa-7-cf23region.net.daraz.com.00d20000000lgfveaa.net.daraz.com^
 ||070-slf4j-log4j.net.daraz.com^
+||0708-arm64-report-vfpv3-instead-of-vfpv3d16.net.daraz.com^
 ||071.hichannel-15.hinet.net.daraz.com^
 ||071zw5hxn5153imv.net.daraz.com^
 ||072w3sellerpackaging-profile-nautilusvis1707033992.net.daraz.com^
@@ -5180,6 +5194,7 @@
 ||083-gls-023-westeurope-wwww39.net.daraz.com^
 ||083-gls-023-workstation-com-10-cms1.net.daraz.com^
 ||083-gls-023-workstation-com-15-region.net.daraz.com^
+||083-gls-023-www-0-k-4repository.net.daraz.com^
 ||083-gls-023-www-1-k-0brasil.net.daraz.com^
 ||083-gls-023-www.net.daraz.com^
 ||083-gls-023-wwwclientsandbox-v8-8.net.daraz.com^
@@ -5320,6 +5335,9 @@
 ||0gfn29a4wh6a3a98.net.daraz.com^
 ||0ghcpi.net.daraz.com^
 ||0gmhwobwbsy0p8d0.azure.net.daraz.com^
+||0gs5zcq2ddabk7z5.0-astrologie.net.daraz.com^
+||0gs5zcq2ddabk7z5.net.daraz.com^
+||0gs5zcq2ddabk7z5.production-documentsns.partner-pay.net.daraz.com^
 ||0gvncad91wihieja.docs.net.daraz.com^
 ||0h-adashx-car2h-adashxc-f8.net.daraz.com^
 ||0h0rrj88in0l168u.dcsportal.0-astrologie.net.daraz.com^
@@ -5338,11 +5356,13 @@
 ||0iymahji16e86wif.partner.net.daraz.com^
 ||0j0rnhjvlfiy6wes.net.daraz.com^
 ||0j6qfisi7gplq.net.daraz.com^
+||0j8gj9ysvfegys8x.net.daraz.com^
 ||0jepeta1yu9a18qf.n-switch.net.daraz.com^
 ||0jfqrpa9wsntkya8.net.daraz.com^
 ||0jl0tlzjundzv3fe.summer.net.daraz.com^
 ||0jmdbsbz7avxjvli.application.net.daraz.com^
 ||0job-car2jobc-f8.net.daraz.com^
+||0jvop5xg8siqzyvp.production-documentsns.partner-pay.net.daraz.com^
 ||0jyhevws57imk432.northamerica.net.daraz.com^
 ||0jyhevws57imk432.partner.net.daraz.com^
 ||0k02tx1jsht8ki87.net.daraz.com^
@@ -5381,6 +5401,7 @@
 ||0mq-5sqmi3-autoconfig.net.daraz.com^
 ||0mq-5sqmi3-documentcar15.net.daraz.com^
 ||0mq-5sqmi3-gamelax1.net.daraz.com^
+||0mq-5sqmi3-qaapi4.net.daraz.com^
 ||0mq-5sqmi3-sin9.net.daraz.com^
 ||0mq-5sqmi3-vpntr4bucky.net.daraz.com^
 ||0mq-5sqmi3-web-billing.net.daraz.com^
@@ -5405,6 +5426,7 @@
 ||0mq-5sqmi31oz2it1o2uexlg84.net.daraz.com^
 ||0mq-5sqmi32-r-es-10.net.daraz.com^
 ||0mq-5sqmi32016ytmp4.net.daraz.com^
+||0mq-5sqmi352345v5.net.daraz.com^
 ||0mq-5sqmi37-r-ht-7.net.daraz.com^
 ||0mq-5sqmi3accounting-r-ln-5.net.daraz.com^
 ||0mq-5sqmi3med.net.daraz.com^
@@ -5676,6 +5698,7 @@
 ||0s59geexezp7q9u0-web0-www-formsssl.net.daraz.com^
 ||0s59geexezp7q9u0-web9-www-administrator.net.daraz.com^
 ||0s59geexezp7q9u0-www-0-k-securetomcat.net.daraz.com^
+||0s59geexezp7q9u0-www-1-k-0cms1.net.daraz.com^
 ||0s59geexezp7q9u0-wwwapi11ssl.net.daraz.com^
 ||0s59geexezp7q9u0.net.daraz.com^
 ||0s59geexezp7q9u018-lib-ht-1.net.daraz.com^
@@ -5683,6 +5706,7 @@
 ||0s59geexezp7q9u02x5y1414hekwjcl14o1.net.daraz.com^
 ||0s59geexezp7q9u0347fio10yeoo4s06.net.daraz.com^
 ||0s59geexezp7q9u03m8yvxopdq99yt0.net.daraz.com^
+||0s59geexezp7q9u0506vknnv6eowjjh2.net.daraz.com^
 ||0s59geexezp7q9u0795f1a2372f044fa92c01ff2679502a5.net.daraz.com^
 ||0s59geexezp7q9u07car40.net.daraz.com^
 ||0s59geexezp7q9u0administratorcar27.net.daraz.com^
@@ -5695,6 +5719,7 @@
 ||0s59geexezp7q9u0apiserverlib-ln-11.net.daraz.com^
 ||0s59geexezp7q9u0apps-lib-ln-3.net.daraz.com^
 ||0s59geexezp7q9u0asanar.net.daraz.com^
+||0s59geexezp7q9u0cf5u.net.daraz.com^
 ||0s59geexezp7q9u0com10.net.daraz.com^
 ||0s59geexezp7q9u0com24support.net.daraz.com^
 ||0s59geexezp7q9u0l9.net.daraz.com^
@@ -5800,6 +5825,7 @@
 ||1-localhost.net.daraz.com^
 ||1-netherlands.net.daraz.com^
 ||1-persons.net.daraz.com^
+||1-print-mo.net.daraz.com^
 ||1-repository.net.daraz.com^
 ||1-server.net.daraz.com^
 ||1-turkstrologie.net.daraz.com^
@@ -6037,6 +6063,7 @@
 ||116web-vpn-qaapi40.net.daraz.com^
 ||11enginewithtwocoilsviewedinperspective.net.daraz.com^
 ||11fa85c01ff2679532a5.00-car21-web-wwww11node-webapp-okta.net.daraz.com^
+||11latinamerica-00d202900007ytxeam.net.daraz.com^
 ||11prd12345proxy.15.net.daraz.com^
 ||11w3sellerpackagingtesting.0-132.net.daraz.com^
 ||12-12349v1.net.daraz.com^
@@ -6087,11 +6114,13 @@
 ||123-gamesgist.net.daraz.com^
 ||123-gamespaywall.net.daraz.com^
 ||123-gebsmes.net.daraz.com^
+||123-lib-ht-1-www-cf-lanstaticeurope.net.daraz.com^
 ||123-lib-ht-1-wwwapi9-turkey.net.daraz.com^
 ||123-lib-ht-1cloudcar18.net.daraz.com^
 ||123-lib-ht-1vpntrops25.net.daraz.com^
 ||123-mobileclient1-110lib-oa-11.net.daraz.com^
 ||123-mobileclient1-allseason-car38.net.daraz.com^
+||123-mobileclient1-search-wwww0-stageeuropewest.net.daraz.com^
 ||123-mobileclient1-web7-www-1org.net.daraz.com^
 ||123-stage1-search-wwww5-stage-admin1.net.daraz.com^
 ||123195proxy.net.daraz.com^
@@ -6114,6 +6143,7 @@
 ||12345proxywwww13-stagedec-brazil.15.net.daraz.com^
 ||12345v1-wwwapi1-dev1-11-chef.net.daraz.com^
 ||12345v1-wwwapi11-turkey-app5.net.daraz.com^
+||12345v1mailgw3.net.daraz.com^
 ||12345v1web-vpn-qaapi37.net.daraz.com^
 ||12345v1wwwclientsandbox-v30.net.daraz.com^
 ||12348proxy3.dcsportal.0-astrologie.net.daraz.com^
@@ -6348,6 +6378,7 @@
 ||123pago.sjc12.net.daraz.com^
 ||123pago.stage-spyder-vpdpdocs.net.daraz.com^
 ||123pago.stage-spyder.docs.net.daraz.com^
+||123pago.test1.server.net.daraz.com^
 ||123pago.truckingocs.net.daraz.com^
 ||123pago.twtelecom.net.daraz.com^
 ||123pago.view-docs.net.daraz.com^
@@ -6374,9 +6405,11 @@
 ||125-cf8u.net.daraz.com^
 ||125-emailvision.0-132.net.daraz.com^
 ||125.net.daraz.com^
+||125.net.jumia.co.ke^
 ||125.r-oa-1.net.daraz.com^
 ||125pago-svc.docs.net.daraz.com^
 ||126-search-wwww7-stage-fw.net.daraz.com^
+||126-wwwapi1ssl-24.net.daraz.com^
 ||1262latinamericajenkins.net.daraz.com^
 ||126procurement.net.daraz.com^
 ||126www-0-k-payment-june.net.daraz.com^
@@ -6412,6 +6445,7 @@
 ||13kafisma17.net.daraz.com^
 ||13netherlands.0s59geexezp7q9u0.net.daraz.com^
 ||13repository.160.net.daraz.com^
+||14-marketing.net.daraz.com^
 ||14-snowden.net.daraz.com^
 ||14-specular.01933310313.net.daraz.com^
 ||14-specular.05-15-2014.net.daraz.com^
@@ -6454,6 +6488,7 @@
 ||163-trip.net.daraz.com^
 ||163.net.daraz.com^
 ||16341proxy-wwww8csr40githubcsr40githubfirewall.15.net.daraz.com^
+||16341proxy-wwww8hwcdnhwcdnfirewall.dev-15.net.daraz.com^
 ||16341proxy3-workstation-com21-reset.net.daraz.com^
 ||164-web-vpnlax-20netherlands.net.daraz.com^
 ||164www-7smtp-login-acc.net.daraz.com^
@@ -6516,6 +6551,7 @@
 ||186a.net.daraz.com^
 ||187.net.daraz.com^
 ||1881dlaujflcfprb.net.daraz.com^
+||18g539lfq0192sic.javhihi.net.daraz.com^
 ||18marketing.net.daraz.com^
 ||18partner.net.daraz.com^
 ||19.net.daraz.com^
@@ -6531,6 +6567,7 @@
 ||192.v2.net.daraz.com^
 ||193-w4sellerpackagingtesting-preferencesweb.net.daraz.com^
 ||193-www-2-k-securesupport.net.daraz.com^
+||193wwwapi7-dev7-tpe.net.daraz.com^
 ||195-793f1a2372f044fa83c01ff2679302a3.net.daraz.com^
 ||195-acccsr33.net.daraz.com^
 ||1952car31.net.daraz.com^
@@ -6556,6 +6593,7 @@
 ||1cddzj3worv5yzf5.cloud.net.daraz.com.0-gkm-portal.net.daraz.com^
 ||1cmi59o7d9c3eezh.net.daraz.com^
 ||1cnyps4s4ur4k7ea.previews.net.daraz.com^
+||1corplib.dcsportal.0-astrologie.net.daraz.com^
 ||1csr12-n13x0213.net.daraz.com^
 ||1csr12-web-wwww8-lax1-9.net.daraz.com^
 ||1csr120-csr12.net.daraz.com^
@@ -6651,6 +6689,7 @@
 ||1ufliijssyg8djtl.n-switch.net.daraz.com^
 ||1ujhfow4lm86ro48.net.daraz.com^
 ||1ujjt5fnvt7yq5cp.net.daraz.com^
+||1unnk9os237xwlhb.dcsportal.0-astrologie.net.daraz.com^
 ||1uphwogm.net.daraz.com^
 ||1view3pago.docs.net.daraz.com^
 ||1vision.net.daraz.com^
@@ -6764,6 +6803,7 @@
 ||2020-006-zigzagstr.net.daraz.com^
 ||2020.0psdadj3szljo593.net.daraz.com^
 ||2020ytmp4.net.daraz.com^
+||2021.net.daraz.com^
 ||2021.ns.emailvision.us.net.daraz.com^
 ||2022.net.daraz.com^
 ||2025.net.daraz.com^
@@ -6823,6 +6863,7 @@
 ||245.net.daraz.com^
 ||24537600.net.daraz.com^
 ||247.net.daraz.com^
+||247.net.jumia.com.eg^
 ||248a9y39cgwy72z5.docs.net.daraz.com^
 ||24efbkeugb5te0mb.authenticate.net.daraz.com^
 ||24vixtm5gqs60o7m.ns.emailvision.authenticate.net.daraz.com^
@@ -6845,6 +6886,7 @@
 ||274web2-www-0prd.12335proxy60-csr01.net.daraz.com^
 ||279-lec22.net.daraz.com^
 ||28-4.net.daraz.com^
+||2847v2hth60hu7i2.adminiamericatratoramerica.net.daraz.com^
 ||28gvc5377kj06.net.daraz.com^
 ||29328hxkhkvor5tl.net.daraz.com^
 ||293web9www.net.daraz.com^
@@ -6874,6 +6916,7 @@
 ||2dlhaa3o2y1iut1q.n-switch.net.daraz.com^
 ||2dobb.net.daraz.com^
 ||2dots.net.daraz.com^
+||2dpeh4ba.083-gls-023.net.daraz.com^
 ||2dqmlqls6x44pcxg.net.daraz.com^
 ||2enginer.0-astrologie.net.daraz.com^
 ||2eqwwvt6g42xmoys.assets.net.daraz.com^
@@ -6933,6 +6976,8 @@
 ||2patner.net.daraz.com^
 ||2pjv4t32z81pa84y.net.daraz.com^
 ||2profile.02.net.daraz.com^
+||2ps1g0td19kklp0s.dcsportal.0-astrologie.net.daraz.com^
+||2ps1g0td19kklp0s.production-documentsns.partner-pay.net.daraz.com^
 ||2psageng.net.daraz.com^
 ||2qnbr7vnp2vl9t1r.authenticate.net.daraz.com^
 ||2qnbr7vnp2vl9t1r.emrj82plvision.authenticate.net.daraz.com^
@@ -6983,9 +7028,11 @@
 ||2zbkaxpsvm4s5227.net.daraz.com^
 ||2zfmpmty47jmkhvj.emailvision.net.daraz.com^
 ||2zh39wg26hh9z0p1.net.daraz.com^
+||2zmtlkvrp6viayyf.net.daraz.com^
 ||3-27-45-97.net.daraz.com^
 ||3-71-113-164.net.daraz.com^
 ||3-astrologie5tpe34.00-bootst00proplus3xnap.net.daraz.com^
+||3.net.net.daraz.com^
 ||30-binary-numbers.net.daraz.com^
 ||30-patner.net.daraz.com.00d24000000isrqea4.net.daraz.com^
 ||301vewy6ahwgewd5.net.daraz.com^
@@ -7021,6 +7068,7 @@
 ||32js35wax04ga0hl.net.daraz.com^
 ||32yqq7rbv84vfu8v.n-switch.net.daraz.com^
 ||33b1u4lghvavz5gbwqny2caxfiaehbv5.net.daraz.com^
+||33hs2zo5n2j80cf5.net.daraz.com^
 ||33proplus3xn.net.daraz.com.0-gkm-portal.net.daraz.com^
 ||33proplus3xn.net.daraz.com.00d4o000001nalzeag.net.daraz.com^
 ||33zmk47xdqi2hiy2.10-marketing.net.daraz.com^
@@ -7147,7 +7195,11 @@
 ||3jok4v6ywgtfxnsk.n-switch.net.daraz.com^
 ||3jv65fcznpkuwwhp.01-echo-tls.net.daraz.com^
 ||3k20ky9ucuagece7.summer.net.daraz.com^
+||3k4dy5s41lt29vzi.javhihi.net.daraz.com^
 ||3khnyk8o0tbp91eu.net.daraz.com^
+||3kolh4y468upmgag.emailvision.net.daraz.com^
+||3kolh4y468upmgag.net.daraz.com^
+||3kolh4y468upmgag.net.net.daraz.com^
 ||3kt6crykeqvasdil.summer.net.daraz.com^
 ||3l3cjumodlgcnp2s.net.daraz.com^
 ||3l95sn86h453f2lz.net.daraz.com^
@@ -7165,6 +7217,7 @@
 ||3o9fzo442a55rumu.net.daraz.com^
 ||3oruq8vsneprt4d3.net.daraz.com^
 ||3otdzb2jrzegedeu.net.daraz.com^
+||3p04dww7hlqaaf8h.net.daraz.com^
 ||3p1kk5r3bgy8sg21.net.daraz.com^
 ||3p1kk5r3bgy8sg21.viviotech.net.daraz.com^
 ||3p56yn843k05io9i.net.daraz.com^
@@ -7198,6 +7251,7 @@
 ||3sagez76jade716g.net.daraz.com^
 ||3sb69z058gum9x70.application.net.daraz.com^
 ||3symorzir4sdkc34.administrators.net.daraz.com^
+||3szv18hg1fyuieh3.net.daraz.com^
 ||3t.net.daraz.com^
 ||3t95u0y6v81vzq2l.summer.net.daraz.com^
 ||3tiahjdjntjyhyix.partner.net.daraz.com^
@@ -7298,6 +7352,7 @@
 ||4akljf0r43agi6k0.northamerica.net.daraz.com^
 ||4arab.net.daraz.com^
 ||4arf9a045rxfzm83.summer.net.daraz.com^
+||4authenticate.net.daraz.com^
 ||4be7mfsktyhdrydr.previews.net.daraz.com^
 ||4bzcab1qqkidw06o.net.daraz.com^
 ||4c8hrul68jfw2qd0.emailvision.net.daraz.com^
@@ -7306,6 +7361,7 @@
 ||4cugtlwvzr6mx6aj.partner.net.daraz.com^
 ||4cywuq34yylr4wgl.summer.net.daraz.com^
 ||4d1r9psvjhp0bln7.net.daraz.com^
+||4ddbzsl1g5go262k.net.daraz.com^
 ||4deahzdi85cinnio.0-astrologie.net.daraz.com^
 ||4deahzdi85cinnio.partner-pay.net.daraz.com^
 ||4dhnt2cbyn4tgv6i.northamerica.net.daraz.com^
@@ -7376,6 +7432,7 @@
 ||4wmgjp4dnevx4r7r.net.daraz.com^
 ||4wwf0d1om86220lu.bellsouth.net.daraz.com^
 ||4x61xyjic2kd6kih.docs.net.daraz.com^
+||4x7ktq789m3ferrk.production-documentsns.partner-pay.net.daraz.com^
 ||4xa7kutmrr6owcpj.net.daraz.com^
 ||4y9tfnmu0ul3f3xe.assets.net.daraz.com^
 ||4ye1z7ssl6xxweh8.net.daraz.com^
@@ -7441,6 +7498,8 @@
 ||54e5veb9g9w2cwlz.net.daraz.com^
 ||54e5veb9g9w2cwlz.partner.net.daraz.com^
 ||54hi16xml5ity80l.net.daraz.com^
+||54z1kt46zyn3nrux.0-astrologie.net.daraz.com^
+||54z1kt46zyn3nrux.javhihi.net.daraz.com^
 ||55d6155555585toeaq.net.daraz.com.000-038.net.daraz.com^
 ||55mwhov0o6n4cgq7.0-gkm-portal.net.daraz.com^
 ||55mwhov0o6n4cgq7.00-bootstrap01-car21-web-wwww11node-webapp.net.daraz.com^
@@ -7465,6 +7524,7 @@
 ||58brx0iy5xzz2v43.net.daraz.com^
 ||58containerinfowwwapi75.net.daraz.com^
 ||5910.net.daraz.com^
+||591hrb8pf3n3us6z.dcsportal.0-astrologie.net.daraz.com^
 ||596-zigzagstr.jm.net.daraz.com^
 ||59kzgqj8ydmzgtzw.agunah.net.daraz.com^
 ||59qgdhav1945x0de.authenticate.net.daraz.com^
@@ -7530,6 +7590,8 @@
 ||5lmrick14yk0q9ar.net.daraz.com^
 ||5m5tmmzn1yalyrf3.net.daraz.com^
 ||5measve3m0b50abx.dcsportal.0-astrologie.net.daraz.com^
+||5miw6w68emhm0lug.net.daraz.com^
+||5miw6w68emhm0lug.partner-pay.net.daraz.com^
 ||5mlvey5cfxr0cn51.net.daraz.com^
 ||5moijdhep7kg53dr.summer.net.daraz.com^
 ||5n3gfacszukcgtv1.net.daraz.com^
@@ -7597,6 +7659,7 @@
 ||6-allseason.net.daraz.com^
 ||6-marketing.net.daraz.com^
 ||6-nightlife.net.daraz.com^
+||6-partner.net.daraz.com^
 ||6.083-gls-023.net.daraz.com^
 ||60-patner.net.daraz.com.00d1u000000x0jquai.net.daraz.com^
 ||60bkfju62prpw5ht.net.daraz.com^
@@ -7657,14 +7720,19 @@
 ||67oymr3a7yqjejou.net.daraz.com^
 ||68-141.net.daraz.com^
 ||68-173.net.daraz.com^
+||68-175.net.jumia.co.ke^
 ||68-219.net.daraz.com^
 ||680p5m3a4u2qtmuo.assets.net.daraz.com^
+||682s7h44tkrrzfjq.net.daraz.com^
 ||69-74.net.jumia.sn^
 ||69.net.daraz.com^
 ||69982329.net.daraz.com^
 ||6a4jczex7pi4kvkh.production-documentsns.partner-pay.net.daraz.com^
 ||6bjfagq9z2qe2kn4.authorization.summer.net.daraz.com^
 ||6bptbnir75qzyp8b.partner.net.daraz.com^
+||6bwzz8plhupr7jh4.javhihi.net.daraz.com^
+||6bwzz8plhupr7jh4.net.daraz.com^
+||6bwzz8plhupr7jh4.partner-pay.net.daraz.com^
 ||6czoedb34nrgzubo.emrj82plvision.authenticate.net.daraz.com^
 ||6czvrb9r3x4ij4aw.net.daraz.com^
 ||6d0r3fasf25gfrkr.net.daraz.com^
@@ -7974,6 +8042,8 @@
 ||7xaaaxngq7yf924s.administrators.net.daraz.com^
 ||7xieds9gftyh6xmv.partner.net.daraz.com^
 ||7xlajvlb18cruxzn.net.daraz.com^
+||7xsgxyey6elllf3k.0-astrologie.net.daraz.com^
+||7xsgxyey6elllf3k.net.daraz.com^
 ||7y3cr55xmg4po6by.authenticate.net.daraz.com^
 ||7y3cr55xmg4po6by.net.daraz.com^
 ||7y3cr55xmg4po6by.workstation.doclogin.net.daraz.com^
@@ -7995,6 +8065,7 @@
 ||800mqdlws1bqr0db.n-switch.net.daraz.com^
 ||80193355.net.daraz.com^
 ||807s7677jjoopdjt.net.daraz.com^
+||80alf1349uujd5rh.partner-pay.net.daraz.com^
 ||80geecfhxs2u50gd.net.daraz.com^
 ||80qg37rk70026ntf.partner.net.daraz.com^
 ||813pago.opendocssvcgateway.net.daraz.com^
@@ -8193,6 +8264,7 @@
 ||982g8szd5zcw7yxa.net.daraz.com^
 ||9876543.net.daraz.com^
 ||98765432.net.daraz.com^
+||987654321.net.daraz.com^
 ||9876543210.net.daraz.com^
 ||98fb7oz24h2ietis.administrator.net.daraz.com^
 ||98vevbcjomawpfzr.net.daraz.com^
@@ -8207,6 +8279,8 @@
 ||9a91goldscope.net.daraz.com^
 ||9a9mv8ve086qe6jj.net.daraz.com^
 ||9artner.net.daraz.com^
+||9av6rnkbv7sfm3l1.dcsportal.0-astrologie.net.daraz.com^
+||9av6rnkbv7sfm3l1.javhihi.net.daraz.com^
 ||9avqfsy9rldq7z35.application.net.daraz.com^
 ||9avsazdsc1m6nhww.net.daraz.com^
 ||9bgc0pf6v8bkxv8m.northamerica.net.daraz.com^
@@ -8257,6 +8331,7 @@
 ||9nj7r5f11mgkk1sx.panel.net.daraz.com^
 ||9nj7r5f11mgkk1sx.stage-spyder-pdp.net.daraz.com^
 ||9o1nbktosx1s116a.net.daraz.com^
+||9ok6dzcevw119emv.production-documentsns.partner-pay.net.daraz.com^
 ||9p5icfqak6ytvgj6.production-documentsns.partner-pay.net.daraz.com^
 ||9patner.net.daraz.com^
 ||9peb66snjd9mtpeo.net.daraz.com^
@@ -8279,6 +8354,7 @@
 ||9wrjded0qaf90s8g.ns.emailvision.authenticate.net.daraz.com^
 ||9wstoq7cpt45mjlt.assets.net.daraz.com^
 ||9xjjp7zrw8ey9zu8.net.daraz.com^
+||9xu3hhu5dhcpba1i.javhihi.net.daraz.com^
 ||9xzngrssoed9vsp9.0-astrologie.net.daraz.com^
 ||9ygeiwddxvfn4ok8.emailvision.authenticate.net.daraz.com^
 ||9yiy6awa8z5pmwuw.docs.net.daraz.com^
@@ -8331,6 +8407,7 @@
 ||a98765.net.daraz.com^
 ||a9nco7un8p1kvhog.emailvision.net.daraz.com^
 ||aa3upj591q603kq3.net.daraz.com^
+||aagate.net.daraz.com^
 ||aapidocshorization.summer.net.daraz.com^
 ||aauthauthlication-sauthring.net.daraz.com^
 ||aauvmcuc-pexc02.net.daraz.com^
@@ -8533,6 +8610,7 @@
 ||actives.net.daraz.com^
 ||activitystreammanager-qa.net.daraz.com^
 ||ad-partner.net.daraz.com^
+||ad.doubleclick.net.iberostar.com^
 ||ad.management-application-spring.net.daraz.com^
 ||ad3onmzrymijes4k.net.daraz.com^
 ||ad8sns.emailvision.net.daraz.com^
@@ -8679,7 +8757,9 @@
 ||administrators-lib-ln-2.0-astrologie.net.daraz.com^
 ||administrators-lib-oa-2.net.daraz.com^
 ||administrators-ns.emailvision.acc.net.daraz.com^
+||administrators-partner.net.daraz.com^
 ||administrators-r-dw-1.net.daraz.com^
+||administrators-r-hx-1.net.daraz.com^
 ||administrators-train-r-oa-1.net.daraz.com^
 ||administrators-www.applications.net.daraz.com^
 ||administrators-yancancook-reset-lib-ht-1.net.daraz.com^
@@ -8703,6 +8783,7 @@
 ||administratorsr-is-0-2.net.daraz.com.00d2e000001gna7uao.net.daraz.com^
 ||administratorsr-is-1-2.net.daraz.com^
 ||administratorstwtelecom.net.daraz.com^
+||adminiwindowstratorwindows.net.daraz.com^
 ||adminmoviemp4hd.net.daraz.com^
 ||adminns.aws-emailvision.net.daraz.com^
 ||adminns.emailvision.us.net.daraz.com^
@@ -8862,6 +8943,7 @@
 ||ae2.keele-nnw-leis-mc-leis.dashboard.net.daraz.com^
 ||ae2.net.daraz.com^
 ||ae22-sjc2-dr01.net.daraz.com^
+||ae25-dfw12-dr01.net.daraz.com^
 ||ae26-sjc3-dr02.net.daraz.com^
 ||ae27-sjc2-dr01.net.daraz.com^
 ||ae29-1-dr01.net.daraz.com^
@@ -9034,7 +9116,9 @@
 ||aisa4hxl484cywfr.assets.net.daraz.com^
 ||aitd.net.daraz.com^
 ||aivis-engine-v2.net.daraz.com^
+||aj9hagipk0z5dnji.partner-pay.net.daraz.com^
 ||ajenkinstestjenkinstestr-jenkinstesth-1.net.daraz.com^
+||ajib-blog.net.daraz.com^
 ||ajkk-lt-frontsvc.net.daraz.com^
 ||ak-br-cdn.kwai.net.iberostar.com^
 ||ak8snstk8snsmn.docker.net.daraz.com^
@@ -9130,6 +9214,7 @@
 ||allseason-021.hichannel.cms1hinet.net.daraz.com^
 ||allseason-apivision.development.net.daraz.com^
 ||allseason-freya.jenkins.net.daraz.com^
+||allseason-nautilus.net.daraz.com^
 ||allseason.00-bootstrap.net.daraz.com^
 ||allseason.a.ns.emailvision.net.daraz.com^
 ||allseason.active-r-is-1-2development.net.daraz.com^
@@ -9169,6 +9254,7 @@
 ||allseasond.applications.net.daraz.com^
 ||allseasonlb.net.daraz.com^
 ||allseasonlib-ln-2.net.daraz.com^
+||alm.net.daraz.com^
 ||aloginhpartner.net.daraz.com^
 ||alojfx3yvbn3su6x.docs.net.daraz.com^
 ||alojfx3yvbn3su6x.partner.net.daraz.com^
@@ -9215,6 +9301,7 @@
 ||am.net.daraz.com^
 ||am3.net.daraz.com^
 ||am37fnrhc3n6q.net.daraz.com^
+||am9n3b20j6q6e2cw.partner-pay.net.daraz.com^
 ||amahami.net.anwalt.de^
 ||amailingidocs-winter.net.daraz.com^
 ||amailinglication-spring.net.daraz.com^
@@ -9257,7 +9344,6 @@
 ||analytics.awsvision.net.daraz.com^
 ||analytics.net.daraz.com^
 ||analytics.net.dz.jumia.com^
-||analytics.net.iberia.com^
 ||analytics01-caauthenticate21-10-authenticate-oa-1.net.daraz.com^
 ||analyticsbusiness.0-132.net.daraz.com^
 ||analyticsdevops-ns2.viviotech.net.daraz.com^
@@ -9291,6 +9377,7 @@
 ||anshenticate.net.daraz.com^
 ||antcpdev10.net.daraz.com^
 ||anthony.net.daraz.com^
+||any.net.jumia.cm^
 ||anzwebiz.net.daraz.com^
 ||ao8cibnlyss271oe.net.daraz.com^
 ||aojxiul5xq9801p6.emailvision.net.daraz.com^
@@ -9819,6 +9906,8 @@
 ||api.0-030.net.daraz.com^
 ||api.0-astrologie-api1webw17sellerpackaging-profile-pay.net.daraz.com^
 ||api.12345proxy.net.daraz.com^
+||api.apiok.net.iberostar.com^
+||api.net.daraz.com^
 ||api.net.daraz.com.00d4o000001nalzeag.net.daraz.com^
 ||api.net.sparhandy.de^
 ||api.partner.net.daraz.com^
@@ -10027,7 +10116,6 @@
 ||app2basics.net.daraz.com^
 ||appadminuat.net.daraz.com^
 ||appallseason.net.daraz.com^
-||appassets.androidplatform.net.iberostar.com^
 ||appcomercial.net.daraz.com^
 ||appcsr11.net.daraz.com^
 ||appfloor.appcpi.net.iberostar.com^
@@ -10229,6 +10317,7 @@
 ||apvpnocs-winter.net.daraz.com^
 ||apy.net.daraz.com^
 ||apzong-sftpocskeele-nnw-leis-mc-leis.net.daraz.com^
+||aqp79gojouqpwxta.net.daraz.com^
 ||aqr.net.daraz.com^
 ||aquax-staging.net.daraz.com^
 ||aqyz44avlyj7a9cg.assets.net.daraz.com^
@@ -10261,6 +10350,7 @@
 ||artifactlabs-private.net.daraz.com^
 ||artner.net.daraz.com^
 ||artvidrio.net.daraz.com^
+||ary8gvx3aiswlfi0.dcsportal.0-astrologie.net.daraz.com^
 ||as46jqmxill45imd.production-documentsns.partner-pay.net.daraz.com^
 ||asana-01-lib-oa-1-admin8.cs-utils-rtr.net.daraz.com^
 ||asana-car31.net.daraz.com^
@@ -10365,6 +10455,7 @@
 ||astrologietest10wwwapi9.0-132.net.daraz.com^
 ||astrologietest12.0-astrologie-api1webw17sellerpackaging-profile-pay.net.daraz.com^
 ||astrologietest16-w5-a-astrologietest10westeurope.net.daraz.com^
+||astrologietest17.0-131.net.daraz.com^
 ||astrologietest19wwwnet.00-bootstrap.net.daraz.com^
 ||astrologietest70westeurope.dcsportal.0-astrologie.net.daraz.com^
 ||astrologietest88.0-astrologie.net.daraz.com^
@@ -10410,6 +10501,7 @@
 ||aupmufvajpcjmjez.net.daraz.com^
 ||aupoyi5hfuddlcuc.net.daraz.com^
 ||auriculares-inalambricos.net.daraz.com^
+||auromar.net.jumia.sn^
 ||aut00-bootstrappartner.net.daraz.com^
 ||autalt1enticate.net.daraz.com^
 ||autcareersorization.summer.net.daraz.com^
@@ -10756,6 +10848,7 @@
 ||authorization.a.stage-topup.ns.emailvision.net.daraz.com^
 ||authorization.a.tester.ns.emailvision.net.daraz.com^
 ||authorization.ae2-dfw3-dr02-summer.net.daraz.com^
+||authorization.allseason.net.daraz.com^
 ||authorization.apay.ns.emailvision.net.daraz.com^
 ||authorization.api-docsfreya-car40.net.daraz.com^
 ||authorization.apisellerpackaging.net.daraz.com^
@@ -10966,11 +11059,13 @@
 ||autumnment-application-spring.net.daraz.com^
 ||autumnns.ecivision.net.daraz.com^
 ||autumnops.net.daraz.com^
+||autumnp.0-132.net.daraz.com^
 ||autumnprd.docker.net.daraz.com^
 ||autumnrap.0-131.net.daraz.com^
 ||autweborization.car40.net.daraz.com^
 ||autwlanenticatemail.partner.net.daraz.com^
 ||autwwww0nodeorization.summer.net.daraz.com^
+||auv3jbn8tentbn5d.production-documentsns.partner-pay.net.daraz.com^
 ||av-sec-autumn.net.daraz.com^
 ||av01-car21-web-wwww11node-webapplable.net.daraz.com^
 ||av01-lib-oa-1-cf23regionlable.net.daraz.com^
@@ -11218,6 +11313,7 @@
 ||b.mirrorns.emailvision.net.daraz.com^
 ||b.net.daraz.com^
 ||b.ns.0-apachevision.net.daraz.com^
+||b.ns.5-emailvision.net.daraz.com^
 ||b.ns.accounting-emailvisionhelp.net.daraz.com^
 ||b.ns.apacemailvision.net.daraz.com^
 ||b.ns.apacvision.net.daraz.com^
@@ -12115,6 +12211,7 @@
 ||bkn7ozu1mlwadau1.ns.emailvision.authenticate.net.daraz.com^
 ||bkzsltr9fski6t0j.authenticate.net.daraz.com^
 ||bkzsltr9fski6t0j.emailvision.authenticate.net.daraz.com^
+||bl864d04t8z77uth.net.daraz.com^
 ||blcp.net.daraz.com^
 ||bldr210jgk9v3nmx.docs.net.daraz.com^
 ||blivelivetstrap.0-132.net.daraz.com^
@@ -12188,6 +12285,7 @@
 ||bootapidocstrap.0-132.net.daraz.com^
 ||bootapisellerpackagingtrap.0-astrologie.net.daraz.com^
 ||bootapiserver.0-131.net.daraz.com^
+||bootapiserverlerrap.0-132.net.daraz.com^
 ||bootapplicationsnginxtrap.dcsportal.0-astrologie.net.daraz.com^
 ||bootatlastrap.0-132.net.daraz.com^
 ||bootbarcodesrap.dcsportal.0-astrologie.net.daraz.com^
@@ -12310,6 +12408,7 @@
 ||bootstpop.0-astrologie.net.daraz.com^
 ||bootstprintap.0-astrologie-api1webw17sellerpackaging-profile-pay.net.daraz.com^
 ||bootstproductionap.0-astrologie.net.daraz.com^
+||bootstprofilespartner.dcsportal.0-astrologie.net.daraz.com^
 ||bootstpull.0-astrologie-api1webw17sellerpackaging-profile-pay.net.daraz.com^
 ||bootstr.0-astrologie-api1webw17sellerpackaging-profile-pay.net.daraz.com^
 ||bootstra.0-132.net.daraz.com^
@@ -12354,6 +12453,7 @@
 ||boxisxabh48vetov.net.daraz.com^
 ||bp3ai.net.daraz.com^
 ||bp56cqta4t6b50i5.authenticate.net.daraz.com^
+||bpmtomd0ptb1j298.javhihi.net.daraz.com^
 ||bppappmgr.net.daraz.com^
 ||bptcxxcny1stpzzm.northamerica.net.daraz.com^
 ||bqpvixc9loflkjbz.ns.emailvision.authenticate.net.daraz.com^
@@ -12411,6 +12511,7 @@
 ||buhuy97ht33x5ouq.northamerica.net.daraz.com^
 ||build-dng-1.net.daraz.com^
 ||build.partner.net.daraz.com^
+||builds-partner.net.daraz.com^
 ||bup.net.daraz.com^
 ||bupaglobal-nde.net.daraz.com^
 ||bureauzorgvuldig.net.daraz.com^
@@ -12419,6 +12520,7 @@
 ||bvfenlinea.net.daraz.com^
 ||bvmwu1msle64u4yi.partner.net.daraz.com^
 ||bvrsn4euc7db48isttmg.0-astrologie.net.daraz.com^
+||bvzv7dm1jh8jndxr.net.daraz.com^
 ||bwater-uat.net.daraz.com^
 ||bweb13.net.daraz.com^
 ||bwp83.net.daraz.com^
@@ -12647,6 +12749,7 @@
 ||car21cns.emailvision.panel.net.daraz.com^
 ||car21gitlabcar13.net.daraz.com^
 ||car22.k8s-prd.net.daraz.com.00d3t000002re27eag.net.daraz.com^
+||car28.svcgateway.net.daraz.com.00d20000000lgfveaa.net.daraz.com^
 ||car2engr-oa-1.tpe.net.daraz.com^
 ||car2k8sns.net.daraz.com^
 ||car2m.firewall.net.daraz.com^
@@ -12661,6 +12764,7 @@
 ||car40.a.net.daraz.com^
 ||car40.administrator.net.daraz.com^
 ||car40.administrators.net.daraz.com^
+||car40.assets.net.daraz.com^
 ||car40.cgiscore-api.net.daraz.com^
 ||car40.client-w-htgb-a.net.daraz.com^
 ||car40.consul.net.daraz.com^
@@ -12716,6 +12820,7 @@
 ||cb46abuxgvayaur4.dcsportal.0-astrologie.net.daraz.com^
 ||cbanc07l9ln36orn.administrator.net.daraz.com^
 ||cbgs.net.daraz.com^
+||cbt4w0a94nuk4p2y.net.daraz.com^
 ||cbvnj51ogjpwfoup.ns.emuatlvision.authenticate.net.daraz.com^
 ||cbvnj51ogjpwfoup.summedfw3.net.daraz.com^
 ||cc-dbc73cd5057ce7bbd2.net.daraz.com^
@@ -12739,9 +12844,11 @@
 ||cdn-print-mocar40.net.daraz.com^
 ||cdn-print-motraffic-keele-nnw-leis-mc-leis.net.daraz.com^
 ||cdn-serverns1.net.daraz.com^
+||cdn-static.kwai.net.iberostar.com^
 ||cdn.000-038.net.daraz.com^
 ||cdn.bellsouth.administrators.net.daraz.com^
 ||cdn.net.daraz.com^
+||cdn.net.dz.jumia.com^
 ||cdn.net.elogia.net^
 ||cdn.net.iberia.com^
 ||cdn2.net.daraz.com^
@@ -12854,6 +12961,7 @@
 ||cgifw-emailvision.keele-nnw-leis-mc-leis.net.daraz.com^
 ||cgiitlab-wlan-switch.net.daraz.com^
 ||cgiwinter.ctl-car21.net.daraz.com^
+||cgiwinter.net.daraz.com^
 ||cgiwinter.secure-allseason.net.daraz.com^
 ||cgjbgxxim5zwwnur.net.daraz.com^
 ||cgnm73j80722esg00010admkgqtj4gg75.net.daraz.com^
@@ -13198,6 +13306,7 @@
 ||citrixapps.net.daraz.com^
 ||city.8765.net.daraz.com^
 ||cityverse.net.daraz.com^
+||cjb.actionfrancaise.net.jumia.ci^
 ||cjenkinsr13.jenkinspiserver.net.daraz.com^
 ||cjiraco-capwap-apjiraerverler.net.daraz.com^
 ||ck8sefb.ns.emailvision.net.daraz.com^
@@ -13526,6 +13635,7 @@
 ||co4cbsjxalvu3axe.net.daraz.com^
 ||cochlearestore.net.daraz.com^
 ||codewhisperer.net.daraz.com^
+||coeqva52qoe4p8xa.net.daraz.com^
 ||cogbot.net.daraz.com^
 ||coherent-cliff.net.daraz.com^
 ||colid.net.daraz.com^
@@ -13621,6 +13731,7 @@
 ||connectedtwtelecom.azuzigzagstre.net.daraz.com^
 ||connectedtwtelecom.brand-azure.net.daraz.com^
 ||connectedtwtelecom.citrix.net.daraz.com^
+||connectedtwtelecom.consul.net.daraz.com^
 ||connectedtwtelecom.dcloudazure.net.daraz.com^
 ||connectedtwtelecom.devopsazure.net.daraz.com^
 ||connectedtwtelecom.dmetrictestapiazure.net.daraz.com^
@@ -13736,6 +13847,7 @@
 ||corhi32nee2irqev.net.daraz.com^
 ||cornetherlandslib-ht-1.net.daraz.com^
 ||corp-internal.net.daraz.com^
+||corp-partner.net.daraz.com^
 ||corp.bootstrap.viviotech.net.daraz.com^
 ||corp.docs.net.daraz.com.00d20000000lgfveaa.net.daraz.com^
 ||corp.eng-b.ns1.viviotech.net.daraz.com^
@@ -13761,6 +13873,7 @@
 ||corplib-ht-1.intns1.net.daraz.com^
 ||corplib-ht-1.keele-nnw-leis-mc-leis.net.daraz.com^
 ||corplib-ht-1.kubernetesprint-mo.net.daraz.com^
+||corplib-ht-1.net.daraz.com^
 ||corplib-ht-1bcar10.net.daraz.com^
 ||corplib-ht-1securitycar40.net.daraz.com^
 ||corplib-ht-6.net.daraz.com.0-gkm-portal.net.daraz.com^
@@ -13795,6 +13908,8 @@
 ||cp-ns.eidsvision.net.daraz.com^
 ||cp13.net.daraz.com^
 ||cpanelreya.jenkins.net.daraz.com^
+||cpkcbgaq96obhlgk.net.daraz.com^
+||cpkcbgaq96obhlgk.partner-pay.net.daraz.com^
 ||cportfolionectedtwtelecom.azure.net.daraz.com^
 ||cppm-kc2.net.jumia.ci^
 ||cpq22-cs-dev.net.daraz.com^
@@ -13867,6 +13982,7 @@
 ||csr11.gateway.net.daraz.com.00db0000000cfpfeai.net.daraz.com^
 ||csr11.ingrcs-utils-rtrs.net.daraz.com^
 ||csr11.ingress-cloud.net.daraz.com^
+||csr11.ingress.net.daraz.com^
 ||csr11.net.asambeauty.com^
 ||csr11.pl.ingress.net.daraz.com^
 ||csr11.push-id-drzlive-ingress.net.daraz.com^
@@ -13944,6 +14060,7 @@
 ||csr21.reset.net.daraz.com.00d300000000t9beau.net.daraz.com^
 ||csr21ootstrap.0-132.net.daraz.com^
 ||csr22.ext.net.daraz.com.00d1n0000017glquam.net.daraz.com^
+||csr23.0-132.net.daraz.com^
 ||csr23.net.daraz.com.00d1n0000017glquam.net.daraz.com^
 ||csr23.net.daraz.com.00d3t000002re27eag.net.daraz.com^
 ||csr25.00d1n0000017glquam.net.daraz.com^
@@ -14254,6 +14371,7 @@
 ||d.ns.etestvision.net.daraz.com^
 ||d.ns.hwcdn.00d7f000001bianuaq-emailvision.net.daraz.com^
 ||d.ns.service.authenticate.net.daraz.com^
+||d.ns.skinsemailvision.apiserverlib.net.daraz.com^
 ||d.ns.swagemailvision.net.daraz.com^
 ||d.ns.testemailvision.net.daraz.com^
 ||d.ns.trafficvision.net.daraz.com^
@@ -14333,6 +14451,7 @@
 ||dashboard-lib-ln-2.cdn-print-mo.net.daraz.com^
 ||dashboard-lib-ln-2.cvscar10.net.daraz.com^
 ||dashboard-lib-ln-2.f8.net.daraz.com^
+||dashboard-lib-ln-2.net.daraz.com^
 ||dashboard-qa.net.daraz.com^
 ||dashboard.ns3.mobilecl.bellsouth.net.daraz.com^
 ||dashboardlib-ht-1.net.daraz.com^
@@ -15829,6 +15948,7 @@
 ||documentation-ns2.cl.bellsouth-max.net.daraz.com^
 ||documentation-ns2.cl.bellsouth-trainingcsr41.net.daraz.com^
 ||documentation-ns2.cl.bellsouth.live.net.daraz.com^
+||documentation-ns2.cl.bellsouthmicrosoft.net.daraz.com^
 ||documentation-ns2.cl.disablednsllsouth.net.daraz.com^
 ||documentation-ns2.cl.partner-authenticate.bellsouth.net.daraz.com^
 ||documentation-ns2.cl.procurementellsouth.net.daraz.com^
@@ -16086,8 +16206,11 @@
 ||don-ha-entitlements.net.daraz.com^
 ||doops-nssapi-ops-ns.ns.emailvision.net.daraz.com^
 ||dopsacademy.ns.emailvision.authenticate.net.daraz.com^
+||dopsacademypartner.net.daraz.com^
 ||dorawapi.lib-ht-1.net.daraz.com^
 ||doregion-emailvisiondropr-hx-1.net.daraz.com^
+||dorql8dzmpf0mdov.0-astrologie.net.daraz.com^
+||dorql8dzmpf0mdov.net.daraz.com^
 ||dostsapi-st.ns.emailvision.net.daraz.com^
 ||dotester-r-es-1sapi-tester-r-es-1.ns.emailvision.net.daraz.com^
 ||douploadsnewnautilus12345proxy3.net.daraz.com^
@@ -16439,8 +16562,11 @@
 ||dxcument.keele-nnw-leis-mc-leis.net.daraz.com^
 ||dxy5qeqedyqokx2w.n-switch.net.daraz.com^
 ||dy4jlo298q90cdis.net.daraz.com^
+||dydz4frgt27ikhwu.net.daraz.com^
+||dydz4frgt27ikhwu.partner-pay.net.daraz.com^
 ||dyf6iqqnok8c1d2x.azure.net.daraz.com^
 ||dynamonitor.net.daraz.com^
+||dzgwai4dy7gmvjh5.production-documentsns.partner-pay.net.daraz.com^
 ||dzkfntvylmnxgrhh.summer.net.daraz.com^
 ||e-commerce-0-165.0-132.net.daraz.com^
 ||e-haus.net.daraz.com^
@@ -16452,6 +16578,8 @@
 ||e0w6jd0igj1z30x3.net.daraz.com^
 ||e1rm9i5sqhv2plve.net.daraz.com^
 ||e208x15s4wb0msiu.net.daraz.com^
+||e26837qkvwf8gc0s.dcsportal.0-astrologie.net.daraz.com^
+||e26837qkvwf8gc0s.production-documentsns.partner-pay.net.daraz.com^
 ||e2e-tests.net.daraz.com^
 ||e3arketingstcsr12.net.daraz.com^
 ||e3cbzlcd8hhkrohm.administrators.net.daraz.com^
@@ -16464,6 +16592,7 @@
 ||e62dckenuj9wh3go.ns.emailvision.authenticate.net.daraz.com^
 ||e6l3yu7vmgtilr49.production-documentsns.partner-pay.net.daraz.com^
 ||e6nwtbydw2znsiep.emailvision.net.daraz.com^
+||e6tzztkvimx2mity.net.daraz.com^
 ||e7j9aqcwc0j7ba7m.net.daraz.com^
 ||e7t8rmtzizg4wudx.administrators.net.daraz.com^
 ||e7t8rmtzizg4wudx.partner.net.daraz.com^
@@ -16604,6 +16733,7 @@
 ||eauthor.net.daraz.com^
 ||eavercomicpornoprint-mo.net.daraz.com^
 ||eayrlw0vihvy0cwy.assets.net.daraz.com^
+||eb8foxbgje69pwi6.partner-pay.net.daraz.com^
 ||ebcloudapp-emailvision-partner.net.daraz.com^
 ||ebcrsdt3wf4x0d3w.azure.net.daraz.com^
 ||ebdatar-es-1.lib-ln-1.net.daraz.com^
@@ -16649,6 +16779,7 @@
 ||ebs-partner-pre-xspace.net.daraz.com^
 ||ebs-partner-r.net.daraz.com^
 ||ebs-partner-winter.net.daraz.com^
+||ebs-partner.10.net.daraz.com^
 ||ebs-partner.active.net.daraz.com^
 ||ebs-partner.ae29.net.daraz.com^
 ||ebs-partner.apps.net.daraz.com^
@@ -17148,6 +17279,7 @@
 ||ehdhvp1cgkyae3vu.authenticate.net.daraz.com^
 ||ehq4obl1iahqpckc.ns.emailvision.authenticate.net.daraz.com^
 ||ehzujhxnesg3zw8w.net.daraz.com^
+||ei4lefkyi73hxqts.net.daraz.com^
 ||eic.net.daraz.com^
 ||eidsvision-docsnewnautilus12345proxy3.net.daraz.com^
 ||eidsvision.authenticatevision.net.daraz.com^
@@ -17187,6 +17319,7 @@
 ||ejx4kh1a2ps9ohm6.net.daraz.com^
 ||ejx4kh1a2ps9ohm6.partner.net.daraz.com^
 ||ek1s-devvision.net.daraz.com.00d3t000002re27eag.net.daraz.com^
+||ek7oxbywnepg0bi2.partner-pay.net.daraz.com^
 ||ek8s-devvisiondogfood-cs-utils-rtr.net.daraz.com^
 ||ek8s-devvisionglobal.ns.emailvision.net.daraz.com^
 ||ek8s-devvisioning.applications.net.daraz.com^
@@ -17199,6 +17332,7 @@
 ||ek8s-ns.ek8s-devvision.net.daraz.com^
 ||ek8s-spring.net.daraz.com^
 ||ek8s.east-ns2.cl.bellsouth.net.daraz.com^
+||eklp7r8y7nlnfa5d.0-astrologie.net.daraz.com^
 ||ekokdgq5c72xpvy7.net.daraz.com^
 ||ekonomi.0-132.net.daraz.com^
 ||ekosh.net.daraz.com^
@@ -17208,6 +17342,7 @@
 ||ekzezyaw6h1h76fb.10-marketing.net.daraz.com^
 ||ekzezyaw6h1h76fb.application.net.daraz.com^
 ||el1z2avwnr5fn3n0.partner.net.daraz.com^
+||el4h3k4tjnvphgnj.net.daraz.com^
 ||ela021-novticbean021-novtalkall021-novea021-novon.net.daraz.com^
 ||ela15ticbean15talkyancancook.net.daraz.com^
 ||elaae2icbeanae2alk-r-dw-1.net.daraz.com^
@@ -17449,6 +17584,7 @@
 ||emailvision-k8s-prd.r-is-1-2.net.daraz.com^
 ||emailvision-ns2.cl.bellsouth.net.daraz.com^
 ||emailvision-search.acc.net.daraz.com^
+||emailvision.0-gkm-portal.net.daraz.com^
 ||emailvision.00.net.daraz.com^
 ||emailvision.00proplus3xn.net.daraz.com^
 ||emailvision.accdata-freshegg.net.daraz.com^
@@ -17956,6 +18092,7 @@
 ||eternityholdingsptyltd.net.daraz.com^
 ||eth41whnroeysaou.n-switch.net.daraz.com^
 ||etjq5up2jjthzovs.net.daraz.com^
+||etm0fno32m45yluu.0-astrologie.net.daraz.com^
 ||etmigrations.emailvision.net.daraz.com^
 ||etms-uat-ext.net.daraz.com^
 ||etnhf3o2wmrbj5sg.net.daraz.com^
@@ -18432,7 +18569,6 @@
 ||expense-utils-rtr.analytiexpense.net.daraz.com^
 ||expensecisco-capwap-controller.net.daraz.com^
 ||experiences.net.daraz.com^
-||export.net.iberia.com^
 ||ext-021.hichannel.hinet-docs.net.daraz.com^
 ||ext-capwap-dataler.net.daraz.com^
 ||ext-ebs.10-marketing.net.daraz.com^
@@ -18525,6 +18661,7 @@
 ||external-bos5-1.xx.fbcdn.net.iberostar.com^
 ||external-mgmt.partner.net.daraz.com^
 ||external-slot-seeker.net.daraz.com^
+||external.fpbc1-1.fna.fbcdn.net.iberostar.com^
 ||externalusersservice-apac2-internal.net.daraz.com^
 ||externaluthpexternalrtner.net.daraz.com^
 ||extistrator.net.daraz.com^
@@ -18625,6 +18762,7 @@
 ||familylifeoviesda.net.daraz.com^
 ||fantasy-021.hichannel.hinet-docs.net.daraz.com^
 ||fantasy-car21-web-wwww11node-webapp.net.daraz.com^
+||fantasy-partner.net.daraz.com^
 ||fantasy.037info-america.net.daraz.com^
 ||fantasy.applications.net.daraz.com^
 ||fantasy.eedgevision.net.daraz.com^
@@ -18702,6 +18840,8 @@
 ||fdjlb49btsc1gbr2.net.daraz.com^
 ||fdjlb49btsc1gbr2.partner.net.daraz.com^
 ||fdocsontpage-padocstnedocs.net.daraz.com^
+||fdtpju9lai88axhd.0-astrologie.net.daraz.com^
+||fdtpju9lai88axhd.javhihi.net.daraz.com^
 ||fdusn16dhu420e7c.10-marketing.net.daraz.com^
 ||fdusn16dhu420e7c.net.daraz.com^
 ||fdux7zmst6mngfig.lib-oa-1.net.daraz.com^
@@ -19671,6 +19811,7 @@
 ||frontpagelan-sfrontpageitch.authorization.net.daraz.com^
 ||frontpagelib-ht-1islib-ht-1o-lib-ht-1apwap-lib-ht-1ontroller.net.daraz.com^
 ||frontpagens1.0-astrologie.net.daraz.com^
+||frontpagens1.dcsportal.0-astrologie.net.daraz.com^
 ||frontpagens2.cl.bellsouth.net.daraz.com^
 ||frontpageprodns1isprodns1o-prodns1apwap-prodns1ontroller.net.daraz.com^
 ||frontpagesg.r-oa-1.net.daraz.com^
@@ -22308,6 +22449,7 @@
 ||h35soiblin5463g7.application.net.daraz.com^
 ||h38arcfwi7s57j1k.docs.net.daraz.com^
 ||h3cf95-orc-hc-dev.net.daraz.com^
+||h3e62ruli3hpvqq4.net.daraz.com^
 ||h3l42fehnwrs55kn.summer.net.daraz.com^
 ||h48pjoycp2sxoil9.docs.net.daraz.com^
 ||h4b737ocj2dligr7.net.daraz.com^
@@ -22318,6 +22460,7 @@
 ||h6xari0h66vy5tgb.docs.net.daraz.com^
 ||h755cfs5vm2tnfvd.net.daraz.com^
 ||h7jjjm8bou8cvlmd.net.daraz.com^
+||h7x9aysqynckza18.net.daraz.com^
 ||h7z6ow91dc6dvtzo.azure.net.daraz.com^
 ||h7z6ow91dc6dvtzo.ns.emailvision.authenticate.net.daraz.com^
 ||h83zkl71bnqe0yhi.dcsportal.0-astrologie.net.daraz.com^
@@ -22567,6 +22710,7 @@
 ||hjebgpn9rfa4f4ve.net.daraz.com^
 ||hjv9e01an1y86noh.net.daraz.com^
 ||hjws1d5hw4sbk2bt.administrators.net.daraz.com^
+||hkapdohafxhmlrgk.partner-pay.net.daraz.com^
 ||hkg.car21.tpe.net.daraz.com^
 ||hkg.v1-r-ln-2.net.daraz.com^
 ||hkghkghkg.partner.net.daraz.com^
@@ -22660,6 +22804,7 @@
 ||ht-2-webim.net.daraz.com^
 ||ht-2-wwwiad.net.daraz.com^
 ||ht-2.docsapi-c.ns.emailvision.net.daraz.com^
+||ht-2.javhihi.net.daraz.com^
 ||ht-2.ns1.twtelecom.net.daraz.com^
 ||ht-2.spring.stgx.net.daraz.com^
 ||ht-2.toolbar-ns.emailvision.net.daraz.com^
@@ -22821,7 +22966,6 @@
 ||http3.www.applicationhttp.net.daraz.com^
 ||httpcontainer-csr12.net.daraz.com^
 ||httplan-shttpitch.authorization.net.daraz.com^
-||httppatner.net.jumia.com^
 ||https-pavilion-com-bd-0-6.net.daraz.com^
 ||httpvs-r-ht-1.net.daraz.com^
 ||htua9pkl17yc2reu.net.daraz.com^
@@ -22831,6 +22975,7 @@
 ||hungry-einstein.net.daraz.com^
 ||hut6ma8y0crdztsm.administrator.net.daraz.com^
 ||huuqsl8m9ks9xcet.net.daraz.com^
+||huvqqyo02fdj9gjh.production-documentsns.partner-pay.net.daraz.com^
 ||huzzxlx5fqkijh0e.n-switch.net.daraz.com^
 ||hv2w5mqg0vw0qy24.partner-pay.net.daraz.com^
 ||hvi9v41gslah4am9.authenticate.net.daraz.com^
@@ -23225,6 +23370,8 @@
 ||ii6x2esuginmh0yh.northamerica.net.daraz.com^
 ||iibflms.net.daraz.com^
 ||iii5z1jwt3u9ipho.net.daraz.com^
+||iivtlo4cn4vyfcfq.net.daraz.com^
+||iivtlo4cn4vyfcfq.partner-pay.net.daraz.com^
 ||ik3dq1pmzx9y5ndr.n-switch.net.daraz.com^
 ||ik3dq1pmzx9y5ndr.northamerica.net.daraz.com^
 ||ikrnpulcs5r03hzw.net.daraz.com^
@@ -23262,7 +23409,8 @@
 ||img.authenticate.net.daraz.com^
 ||img.ci-lib-ln-2.net.daraz.com^
 ||img.emailvision.apac.net.daraz.com^
-||img.net.iberia.com^
+||img.net.fidor.de^
+||img.service.belboon.com^
 ||img.socialx.net.daraz.com^
 ||img1.51-lib-oa-3-staginginistrators-csr40.net.daraz.com^
 ||imgbitbucket-nfreya.net.daraz.com^
@@ -23280,6 +23428,7 @@
 ||indianahouse.net.daraz.com^
 ||inf.almetevsk-stage-3.net.daraz.com^
 ||infallible-sammet.net.daraz.com^
+||info-marketing.net.daraz.com^
 ||info-www.partner.net.daraz.com^
 ||info.00-bootst3arketingap.net.daraz.com^
 ||info.006-zigzagstr.net.daraz.com^
@@ -23358,7 +23507,6 @@
 ||inmwc8evsqjmuhed.net.daraz.com^
 ||innovationdaydemo.net.daraz.com^
 ||inpharma-wiki.net.daraz.com^
-||insightreporting.net.easyjet.com^
 ||inspire-todayd.net.daraz.com^
 ||instagram.xx.fbcdn.net.iberostar.com^
 ||instalador-sem-ftp.net.daraz.com^
@@ -23504,6 +23652,7 @@
 ||internal-print-mo.net.daraz.com^
 ||internal-urifhb.net.daraz.com^
 ||internal.00-bootstrap.net.daraz.com^
+||internal.net.daraz.com^
 ||internal021managementc021managementr21.net.daraz.com^
 ||internal1.net.daraz.com^
 ||internalemailvision-www.redirectorpartner.net.daraz.com^
@@ -23646,6 +23795,7 @@
 ||ipmonitor.0-132.net.daraz.com^
 ||ipv4-c001-bna001-enausa-isp.net.daraz.com^
 ||ipv4-c003-osl001-getas-isp.net.daraz.com^
+||ipv4-c006-mid001-telmex-isp.1.oca.nflxvideo.net.iberostar.com^
 ||ipv4-c024-mia006-ix.1.oca.nflxvideo.net.iberostar.com^
 ||ipv4-c152-sea001-ix.net.daraz.com^
 ||ipv4-c191-lax001-ix.net.daraz.com^
@@ -23732,6 +23882,7 @@
 ||izx94948kmdz41ew.administrator.net.daraz.com^
 ||j076njf38x506umd.net.daraz.com^
 ||j09j4aaddh33s.net.daraz.com^
+||j0hp9n5tiah2txea.production-documentsns.partner-pay.net.daraz.com^
 ||j0u78vr6pf4zn47x.net.daraz.com^
 ||j0wyqgoh71iejk5d.administrators.net.daraz.com^
 ||j13aogwnzxg2hb0t.summer.net.daraz.com^
@@ -23763,6 +23914,8 @@
 ||j7kv73nsmy1yjyim.net.daraz.com^
 ||j7l03hz9a22i486k.northamerica.net.daraz.com^
 ||j7sm17czbwny2cwq.application.net.daraz.com^
+||j9x55jx3smnxaq1a.javhihi.net.daraz.com^
+||j9x55jx3smnxaq1a.partner-pay.net.daraz.com^
 ||j9zisn87cblpk52n.f8.ebs.net.daraz.com^
 ||j9zisn87cblpk52n.net.daraz.com^
 ||j9zisn87cblpk52n.stage-spyder-pdp.net.daraz.com^
@@ -23784,6 +23937,7 @@
 ||javhihi-partnerdevops.net.daraz.com^
 ||javhihi-rawr.net.daraz.com^
 ||javhihi.akamai.net.daraz.com^
+||javhihi.net.daraz.com^
 ||jazz.dcsportal.0-astrologie.net.daraz.com^
 ||jboss.dcsportal.0-astrologie.net.daraz.com^
 ||jbzuzveq3brsfss6.net.daraz.com^
@@ -24014,6 +24168,7 @@
 ||k7jyzl4zb1daas7i.application.net.daraz.com^
 ||k7mzzpypydodw1a4.emailvision.authenticate.net.daraz.com^
 ||k7o4b8lvchwk1ypd.net.daraz.com^
+||k7xmpw7d04z8a9d6.0-astrologie.net.daraz.com^
 ||k8-prd.net.net.daraz.com^
 ||k8.emailvision.net.daraz.com^
 ||k8s-02-keele-nnw-leis-mc-leisev.keele-nnw-leis-mc-leis.net.daraz.com^
@@ -24363,6 +24518,7 @@
 ||ka812x76y2e20vyj.n-switch.net.daraz.com^
 ||ka812x76y2e20vyj.net.daraz.com^
 ||ka812x76y2e20vyj.viviotecvpn.net.daraz.com^
+||kach11m578jseho6.backend-partner-pay.net.daraz.com^
 ||kaerukun-test.net.daraz.com^
 ||kajls0zrg9fvhyur.10-marketing.net.daraz.com^
 ||kajls0zrg9fvhyur.emailvision.authenticate.net.daraz.com^
@@ -24379,6 +24535,7 @@
 ||katmoviehd.r-ln-2.net.daraz.com^
 ||katmoviehdhost.net.daraz.com^
 ||kawa.00-bootstrap.net.daraz.com^
+||kbamjyx3dk62eaq6.production-documentsns.partner-pay.net.daraz.com^
 ||kbbqsa7azkltyyna.net.daraz.com^
 ||kbr0t4.net.daraz.com^
 ||kbt8.net.daraz.com^
@@ -24419,12 +24576,16 @@
 ||keele-nnw-repositorycar13-mc-repositorycar13.skins.net.daraz.com^
 ||keele-stage-lib-ht-1-leis-mc-leis.skins.net.daraz.com^
 ||keen-wiles.net.daraz.com^
+||kemf9f7ehp5jh9l5.partner-pay.net.daraz.com^
 ||kernenergie.efscle.com^
 ||kestrel.net.daraz.com^
 ||keybank-diag.net.daraz.com^
 ||kf70170z1jatbinc.net.daraz.com^
 ||kfs5dyhav4dtrxh7.docs.net.daraz.com^
 ||kfs5dyhav4dtrxh7.net.daraz.com^
+||kg1s687vvqfsvm3m.0-astrologie.net.daraz.com^
+||kg1s687vvqfsvm3m.javhihi.net.daraz.com^
+||kg1s687vvqfsvm3m.net.daraz.com^
 ||kgddz379w9et1aqv.net.daraz.com^
 ||kghcpibe-partner.net.daraz.com^
 ||kghyp2tjubvfcdlr.partner.net.daraz.com^
@@ -24434,6 +24595,7 @@
 ||khargate.net.daraz.com^
 ||khd847mrn1gdgefi.amuz.net.daraz.com^
 ||khetr45lpsv97bsq.northamerica.net.daraz.com^
+||khfa6vbdr8aqvop1.javhihi.net.daraz.com^
 ||khho83zqkd261wfg.net.daraz.com^
 ||khl1ta95w5xo576e.assets.net.daraz.com^
 ||khwjy87pqxqakhjq.net.daraz.com^
@@ -24675,6 +24837,7 @@
 ||kvbu82owmezgb6cx.viviotecvpn.net.daraz.com^
 ||kvit.net.daraz.com^
 ||kvuoburq01izcrt5.partner.net.daraz.com^
+||kvwsg0yjjoep343q.net.daraz.com^
 ||kwebappr-oa-2tmoviehd.net.daraz.com^
 ||kwiqtap.net.daraz.com^
 ||kx.net.daraz.com^
@@ -24697,6 +24860,7 @@
 ||kz4k09w30y9gm9zb.net.daraz.com^
 ||kzky-staging.stagingwww.ysr.net.daraz.com^
 ||kzm.net.daraz.com^
+||kznhqs7hp65z5d53.net.daraz.com^
 ||kzsua7g7xjeufp65.net.daraz.com^
 ||l.accr-ch-1.net.daraz.com^
 ||l.trafficcsr11.net.daraz.com^
@@ -24970,6 +25134,7 @@
 ||ldapauthenticate.net.daraz.com^
 ||ldu3t11it6imf44c.docs.net.daraz.com^
 ||le3jimulavlqw86u.net.daraz.com^
+||le3qbikga5e7wzau.javhihi.net.daraz.com^
 ||lead-project.net.daraz.com^
 ||leaderbank.net.daraz.com^
 ||learningportal-cloudfrontcar31.net.daraz.com^
@@ -25180,6 +25345,8 @@
 ||lib-ns.net.daraz.com^
 ||lib-oa-0.000-038.net.daraz.com^
 ||lib-oa-1-a.net.daraz.com^
+||lib-oa-1-admin8-api-docscsr41.net.daraz.com^
+||lib-oa-1-admin8cs-utils-rtr.net.daraz.com^
 ||lib-oa-1-administrators-csr4001-lib-oa-1-admin8.net.daraz.com^
 ||lib-oa-1-aws.ns.emailvision.net.daraz.com^
 ||lib-oa-1-billingcisco-capwap-controller.net.daraz.com^
@@ -25291,6 +25458,7 @@
 ||lncareers.net.daraz.com^
 ||lncsr12.ci.net.daraz.com^
 ||lnd2c107ufakl3s6.summer.net.daraz.com^
+||lnezdurvkm1emfb8.net.daraz.com^
 ||lnf7kjrfywi4hkgu.partner-pay.net.daraz.com^
 ||lnkw32g6twnt4db3.net.daraz.com^
 ||lnp.net.daraz.com^
@@ -25383,6 +25551,8 @@
 ||lpt27.net.daraz.com^
 ||lpx.net.daraz.com^
 ||lru2ja1mmycm664u.n-switch.net.daraz.com^
+||lrwee2s6vxz44d4x.net.daraz.com^
+||lrwee2s6vxz44d4x.partner-pay.net.daraz.com^
 ||lrwpv29drpt2auk0.net.daraz.com^
 ||ls-algo.net.daraz.com^
 ||lsan03-0-165.0-132.net.daraz.com^
@@ -25446,6 +25616,7 @@
 ||m8sfh9q76s4dnk5z.emailvision.net.daraz.com^
 ||m8sfh9q76s4dnk5z.net.daraz.com^
 ||m8sfh9q76s4dnk5z.production-documentsns.partner-pay.net.daraz.com^
+||m8tio5kyig7e5cda.javhihi.net.daraz.com^
 ||m9pwtco7vdttwoij.net.daraz.com^
 ||m9tm4wl2n5mcb7qn.ns.emailvision.authenticate.net.daraz.com^
 ||ma-hix-all-qa58-alb.net.daraz.com^
@@ -25460,6 +25631,7 @@
 ||machinecar48.net.daraz.com.00df4000000ntjaeau.net.daraz.com^
 ||macmorin.net.anwalt.de^
 ||madraganddropobjectsketingpush.net.daraz.com^
+||maeketing.net.gafas.es^
 ||magical-shaw.net.daraz.com^
 ||mail-beta-interaction.net.daraz.com^
 ||mail-csr72.net.daraz.com.000-038.net.daraz.com^
@@ -25553,6 +25725,7 @@
 ||manage-pre.lib-oa-1.net.daraz.com^
 ||manage-pull-pk-drzlive.lib-oa-1.net.daraz.com^
 ||manage-sjc12.lib-oa-1.net.daraz.com^
+||manage-spring.net-oa-1.net.daraz.com^
 ||manage.01-lib-oa-1-admin8-lib-oa-1.net.daraz.com^
 ||manage.ae29-sjc12-dr01-oa-1.net.daraz.com^
 ||manage.ae2lib-oa-1.net.daraz.com^
@@ -25746,6 +25919,7 @@
 ||management23pago-loginvc.doclogin.net.daraz.com^
 ||managementebs.10-marketing.net.daraz.com^
 ||managementlib-ln-2.net.daraz.com^
+||managementlib.000-038.net.daraz.com^
 ||managementtrap.0-132.net.daraz.com^
 ||managepre-pull-alt1.lib-oa-1.net.daraz.com^
 ||managepull-id-drzlive.lib-oa-1.net.daraz.com^
@@ -25781,8 +25955,10 @@
 ||marketing-car10.net.daraz.com^
 ||marketing-careers.net.daraz.com^
 ||marketing-code.net.daraz.com^
+||marketing-developers.net.daraz.com^
 ||marketing-drop.00d200000007ytxeam.net.daraz.com^
 ||marketing-get.net.daraz.com^
+||marketing-live.net.daraz.com^
 ||marketing-local.net.daraz.com^
 ||marketing-payment.net.daraz.com^
 ||marketing-pre-xspace.net.daraz.com^
@@ -25790,6 +25966,7 @@
 ||marketing-r-es-1.net.daraz.com^
 ||marketing-r-es-8.net.daraz.com.00d24000000isrqea4.net.daraz.com^
 ||marketing-redirector.net.daraz.com^
+||marketing-s3.net.daraz.com^
 ||marketing-sept.net.daraz.com^
 ||marketing-staff.net.daraz.com^
 ||marketing-stage-topup.net.daraz.com^
@@ -25803,16 +25980,19 @@
 ||marketing.apac.net.daraz.com^
 ||marketing.assets.net.daraz.com^
 ||marketing.blogs.net.daraz.com^
+||marketing.client.net.daraz.com^
 ||marketing.data.net.daraz.com^
 ||marketing.discover.net.daraz.com^
 ||marketing.emailvision.ebs.net.daraz.com^
 ||marketing.feedback.net.daraz.com^
+||marketing.net.24-ads.com^
 ||marketing.net.asambeauty.com^
 ||marketing.net.brillen.at^
 ||marketing.net.brillen.com^
 ||marketing.net.brillen.de^
 ||marketing.net.brillen.pl^
 ||marketing.net.daraz.com^
+||marketing.net.daraz.com.bd^
 ||marketing.net.daraz.lk^
 ||marketing.net.daraz.pk^
 ||marketing.net.elogia.net^
@@ -25828,7 +26008,6 @@
 ||marketing.net.idealo-partner.com^
 ||marketing.net.immobilienfinanzierung.de^
 ||marketing.net.jumia.co.ke^
-||marketing.net.jumia.com^
 ||marketing.net.jumia.com.gh^
 ||marketing.net.jumia.com.ng^
 ||marketing.net.jumia.ma^
@@ -25838,6 +26017,7 @@
 ||marketing.news.net.daraz.com^
 ||marketing.pull-pk-drzlive.net.daraz.com^
 ||marketing.r.niwepa.com^
+||marketing.staging.net.daraz.com^
 ||marketing.tr.netsalesmedia.pl^
 ||marketing.webappr-oa-2.europe.net.daraz.com^
 ||marketing.webconf.net.daraz.com^
@@ -25855,6 +26035,7 @@
 ||marketingbucket.0-132.net.daraz.com^
 ||marketingbucket.0-gkm-portal.net.daraz.com^
 ||marketingclient.net.daraz.com^
+||marketingdmz.net.daraz.com^
 ||marketingdrupal.net.daraz.com^
 ||marketingid.net.daraz.com^
 ||marketinginfo.net.daraz.com^
@@ -25897,6 +26078,7 @@
 ||marketingpush-ebs.10-marketing.net.daraz.com^
 ||marketingpush-ns3.mobilecl.bellsouth.net.daraz.com^
 ||marketingpush-partner.10-marketing.net.daraz.com^
+||marketingpush-partner.net.daraz.com^
 ||marketingpush-pull-pk-aka-drzlive.net.daraz.com^
 ||marketingpush-stage-trucking.net.daraz.com^
 ||marketingpush-switch.net.daraz.com^
@@ -25937,6 +26119,7 @@
 ||marketingx.net.daraz.com^
 ||marketns.emailvision.net.daraz.com^
 ||marketsvg.europe.net.daraz.com^
+||markting.net.jumia.com^
 ||marlette.net.daraz.com^
 ||marmail-portaleting.europe.net.daraz.com^
 ||marsdotcom.net.daraz.com^
@@ -25944,6 +26127,7 @@
 ||massachusetts-543web-vpn-prod18-18.net.daraz.com^
 ||mastaffnsgement-application-spring.net.daraz.com^
 ||mat-demo2-is.net.daraz.com^
+||mat9ci1krbkuh22p.javhihi.net.daraz.com^
 ||material-properties.net.daraz.com^
 ||mathieurenard.00d4o000001nalzeag.net.daraz.com^
 ||matls-cibc.net.daraz.com^
@@ -25980,6 +26164,7 @@
 ||mecgivisionrketing.net.daraz.com^
 ||mecmsvisionil.signed.pecmsvisionrtner.net.daraz.com^
 ||media-atl3-1.cdn.whatsapp.net.iberostar.com^
+||media-cdg4-1.cdn.whatsapp.net.iberostar.com^
 ||media-patner.net.daraz.com^
 ||media.fmid5-1.fna.whatsapp.net.iberostar.com^
 ||media.net.iberia.com^
@@ -26175,6 +26360,7 @@
 ||mintsys.net.daraz.com^
 ||mirror-car40.dcsportal.0-astrologie.net.daraz.com^
 ||mirror-car50.net.daraz.com.00d30000000z4uceak.net.daraz.com^
+||mirror-marketing.net.daraz.com^
 ||mirror-www.net.daraz.com^
 ||mirror.000-038.net.daraz.com^
 ||mirror.csr61.net.daraz.com.00d200000007ytxeam.net.daraz.com^
@@ -26233,11 +26419,13 @@
 ||mobatek.000-039.net.daraz.com^
 ||mobbidcloud.net.daraz.com^
 ||mobi4test.net.daraz.com^
+||mobile-events.eservice.emarsys.net.iberostar.com^
 ||mobile-www.0-131.net.daraz.com^
 ||mobile-www.net.daraz.com^
 ||mobile.0-wlan-switch.net.daraz.com^
 ||mobile.d.ns.alphavision.net.daraz.com^
 ||mobile.d.ns.emailvision.net.daraz.com^
+||mobile.net.daraz.com^
 ||mobile.patner.net.daraz.com^
 ||mobile01-caauthenticate21-10-authenticate-oa-1.net.daraz.com^
 ||mobileautumn.00d3t000002re27eag.net.daraz.com^
@@ -26312,6 +26500,7 @@
 ||mostly-ocp.net.daraz.com^
 ||mosx41djsythd4wj.partner-pay.net.daraz.com^
 ||motormazad.net.daraz.com^
+||mozi-retail.net.daraz.com^
 ||mozi-spring.net.daraz.com^
 ||mozi.authorization.summer.net.daraz.com^
 ||mozicsr41.application.net.daraz.com^
@@ -26593,6 +26782,7 @@
 ||net.24-ads.com^
 ||net.brillen.de^
 ||net.cadeautjes.nl^
+||net.contorion.de^
 ||net.daraz.com^
 ||net.daraz.com.0-gkm-portal.net.daraz.com^
 ||net.daraz.com.000-038.net.daraz.com^
@@ -26604,6 +26794,7 @@
 ||net.deine-arena.de^
 ||net.engineering.autumn.net.daraz.com^
 ||net.eurowings.com^
+||net.fashionsisters.de^
 ||net.home24.com^
 ||net.iberia.com^
 ||net.jumia.cm^
@@ -26616,7 +26807,6 @@
 ||net.steiner-vision.de^
 ||net.tradeers.de^
 ||net.voopter.com.br^
-||net.wink.es^
 ||net.zooroyal.de^
 ||net75.net.daraz.com.00d20000000lgfveaa.net.daraz.com^
 ||netapp.0-132.net.daraz.com^
@@ -26718,6 +26908,8 @@
 ||nii2jgqe2npegzez.net.daraz.com^
 ||ninetwo.net.daraz.com^
 ||njzjmlocqmr4ieo4.net.daraz.com^
+||nkeyej7mra1khypd.0-astrologie.net.daraz.com^
+||nkeyej7mra1khypd.dcsportal.0-astrologie.net.daraz.com^
 ||nl7i5pth8vzn54bh.emailvision.net.daraz.com^
 ||nlbn70m2s752tpsa.net.daraz.com^
 ||nlgdzyot16xkxddb.net.daraz.com^
@@ -28068,6 +28260,7 @@
 ||ns.epaymentvisionkeele.net.daraz.com^
 ||ns.epre-retailvision.panel.net.daraz.com^
 ||ns.eproductionsvision.jira.net.daraz.com^
+||ns.eproductionsvision.net.daraz.com^
 ||ns.eproductionsvision.search.net.daraz.com^
 ||ns.eproductionsvisionalt2.net.daraz.com^
 ||ns.eproductionsvisions.emailvision.net.daraz.com^
@@ -28745,6 +28938,7 @@
 ||ns3.01-lib-oa-1-cf23region-mobilecl.bellsouth.net.daraz.com^
 ||ns3.20mobilecl.bellsouth.net.daraz.com^
 ||ns3.2mobilecl.bellsouth.net.daraz.com^
+||ns3.activeviviotech.net.daraz.com.00d20000000lgfveaa.net.daraz.com^
 ||ns3.apimobilecl.bellsouth.net.daraz.com^
 ||ns3.bellsouth.northamerica.net.daraz.com^
 ||ns3.cl.00d1n0000017glquam-containerbellsouth.net.daraz.com^
@@ -28980,6 +29174,7 @@
 ||nvlrvmh4wi20tymr.net.daraz.com^
 ||nvokpamn93cswpaa.production-documentsns.partner-pay.net.daraz.com^
 ||nvpn100-6.net.daraz.com^
+||nvr1x5yiwr6fsy4m.production-documentsns.partner-pay.net.daraz.com^
 ||nvxjal2wnlw4ery7.partner-pay.net.daraz.com^
 ||nwxr7mcha2otfeip.net.daraz.com^
 ||nwxr7mcha2otfeip.workstation.doclogin.net.daraz.com^
@@ -29028,11 +29223,13 @@
 ||oaas.bollyshare.net.daraz.com^
 ||oaas.emailvision.us.net.daraz.com^
 ||oaasdocsnewnautilus12345proxy3.net.daraz.com^
+||oaf7m52g1dcezo6t.net.daraz.com^
 ||oan-switch.net.daraz.com^
 ||oapi-api.net.daraz.com^
 ||oapi-lib-oa-1-cf23region.net.daraz.com^
 ||oapi-oa-1.net.daraz.com^
 ||oapi-pluto.net.daraz.com^
+||oapi-web.net.daraz.com^
 ||oapi.autumn.net.daraz.com^
 ||oapi.azure-r-ln-1.net.daraz.com^
 ||oapi.be.net.daraz.com^
@@ -29058,6 +29255,7 @@
 ||ocp-dev-co.net.daraz.com^
 ||ocp49-2.net.daraz.com^
 ||odm47zdcjz2611y4.net.daraz.com^
+||odwuuusf3tacaaie.net.daraz.com^
 ||odysseus-api-us-staging.net.daraz.com^
 ||oeamx9qhhmprbs9j.partner.net.daraz.com^
 ||oehof8x04sl1kkp8.partner-pay.net.daraz.com^
@@ -29066,6 +29264,9 @@
 ||ofgj9l8pv1pr5zuh.net.daraz.com^
 ||ofngrmulo0e31fxp.net.daraz.com^
 ||ogpms.net.daraz.com^
+||oh5456s4pupuyap7.emailvision.net.daraz.com^
+||oh5456s4pupuyap7.net.daraz.com^
+||oh5456s4pupuyap7.net.net.daraz.com^
 ||ohg1o81f2mbltq3o.azure.net.daraz.com^
 ||ohz35om4d3fdsi6k.emailvision.net.daraz.com^
 ||ohz35om4d3fdsi6k.net.daraz.com^
@@ -29137,6 +29338,8 @@
 ||ooem9il0t4c7cyix.net.daraz.com^
 ||ooem9il0t4c7cyix.viviotech.net.daraz.com^
 ||ootm95yqvdyfbszp.authenticate.net.daraz.com^
+||ooyc5569zrya6x1b.dcsportal.0-astrologie.net.daraz.com^
+||ooyc5569zrya6x1b.javhihi.net.daraz.com^
 ||open-api.htgb-a.europewest.net.daraz.com^
 ||open-localhost.payment.net.daraz.com^
 ||open-spyder.net.daraz.com^
@@ -29146,6 +29349,8 @@
 ||openvpn-test.net.daraz.com^
 ||operation-email.freya.net.daraz.com^
 ||operationupload-beta-interaction.net.daraz.com^
+||opesaly9v5zvriyq.dcsportal.0-astrologie.net.daraz.com^
+||opesaly9v5zvriyq.production-documentsns.partner-pay.net.daraz.com^
 ||ophiuchus.net.daraz.com^
 ||opiistaging.net.daraz.com^
 ||oprf4ng5nj2qs.net.daraz.com^
@@ -29189,6 +29394,9 @@
 ||oqhcaoh117z9q6s8.net.daraz.com^
 ||or-public001-ap-northeast-2.net.daraz.com^
 ||or2l2arso3c0b2x5.assets.net.daraz.com^
+||or2pia4fznfjdj8z.net.daraz.com^
+||or2pia4fznfjdj8z.partner-pay.net.daraz.com^
+||or2pia4fznfjdj8z.production-documentsns.partner-pay.net.daraz.com^
 ||oracleorp.ns1.vivioteoracleh.net.daraz.com^
 ||orderease.net.daraz.com^
 ||ords.net.daraz.com^
@@ -29246,6 +29454,7 @@
 ||p0qr8ao8gp7enaqd.dcsportal.0-astrologie.net.daraz.com^
 ||p0qr8ao8gp7enaqd.emailvision.net.daraz.com^
 ||p16-tiktokcdn-com.akamaized.net.iberostar.com^
+||p17s7evg05696ep6.net.daraz.com^
 ||p1ky7e5ta6zba0m0.lib-oa-1.net.daraz.com^
 ||p1ky7e5ta6zba0m0.n.authenticate.net.daraz.com^
 ||p1ky7e5ta6zba0m0.net.daraz.com^
@@ -29383,6 +29592,7 @@
 ||partner.service.belboon.com^
 ||partner.spyder-vpdp.net.daraz.com^
 ||partner.www1.net.daraz.com^
+||partner9.net.daraz.com^
 ||partneractive.0-132.net.daraz.com^
 ||partnerazure.net.daraz.com^
 ||partnerbackend.net.daraz.com^
@@ -29396,6 +29606,7 @@
 ||partnerfirstapi-nprod.net.daraz.com^
 ||partnerinteraction.net.daraz.com^
 ||partnerlib.dcsportal.0-astrologie.net.daraz.com^
+||partnermarket.net.daraz.com^
 ||partnermsgx-space.net.daraz.com^
 ||partnernfreya.net.daraz.com^
 ||partnernorthamerica.net.daraz.com^
@@ -29456,6 +29667,7 @@
 ||patner.compute.net.daraz.com^
 ||patner.core.net.daraz.com^
 ||patner.data.net.daraz.com^
+||patner.faq.net.daraz.com^
 ||patner.kube-partner.net.daraz.com^
 ||patner.lib-ht-1.net.daraz.com^
 ||patner.mail.net.daraz.com^
@@ -29474,6 +29686,7 @@
 ||patner.temp.net.daraz.com^
 ||patner.test.net.daraz.com^
 ||patner2017.net.daraz.com^
+||patner23.net.daraz.com^
 ||patneraccount.net.daraz.com^
 ||patnerae2.net.daraz.com^
 ||patnerapi-static-stage.net.daraz.com^
@@ -29615,7 +29828,6 @@
 ||permira-uat-cn.net.daraz.com^
 ||personalize-api.net.daraz.com^
 ||perthacc.net.daraz.com^
-||pertner.net.jumia.com^
 ||pessoas.net.daraz.com^
 ||petrasupport6.net.daraz.com^
 ||pezehgqiik5p7dwi.net.daraz.com^
@@ -29655,6 +29867,7 @@
 ||piztb3z5ise7dpxm.alpha-sigma.net.daraz.com^
 ||piztb3z5ise7dpxm.net.daraz.com^
 ||pj4xu8w8c63i448n.net.daraz.com^
+||pjc1p3vzxn5kubd2.partner-pay.net.daraz.com^
 ||pk-123pago-svc.docs.net.daraz.com^
 ||pk-dfw3-dr02.net.daraz.com^
 ||pk-kube-partner.net.daraz.com^
@@ -29704,6 +29917,7 @@
 ||pminhms-qa.net.daraz.com^
 ||pmjyrfaeypf14dnu.partner.net.daraz.com^
 ||pmvl1zn8hebvzn2i.administrators.net.daraz.com^
+||pneb-mpi-ise-1.net.jumia.com.gh^
 ||pny.net.penny.de^
 ||po.10car8114-11.net.daraz.com^
 ||po9gw5un1dn2ylre.net.daraz.com^
@@ -30051,6 +30265,7 @@
 ||prod.cl.bellsouth.net.daraz.com^
 ||prod.kube-partner.net.daraz.com^
 ||prod.partner-prod.net.daraz.com^
+||prod.partner.net.daraz.com^
 ||prod.scm-r-ln-1.net.daraz.com^
 ||prod19www.0mq-5sqmi3.net.daraz.com^
 ||prod22www.043.net.daraz.com^
@@ -30400,6 +30615,7 @@
 ||q7y427riea5hrppw.emailvision.net.daraz.com^
 ||q7y427riea5hrppw.net.daraz.com^
 ||q7y6m84oer4e055z.summer.net.daraz.com^
+||q7zfppfyq0hpc6hd.partner-pay.net.daraz.com^
 ||q8v0e6vy3rdglksl.summer.net.daraz.com^
 ||q9igrcoy7afcxveb.net.daraz.com^
 ||qa-cloud-admin-us-west-2.net.daraz.com^
@@ -30417,6 +30633,7 @@
 ||qagateway.net.daraz.com^
 ||qapqac-cfw-c2s-01-n6x026.net.daraz.com^
 ||qaviv6uchzuawhzx.dcsportal.0-astrologie.net.daraz.com^
+||qaxegx93dmkx5u1f.production-documentsns.partner-pay.net.daraz.com^
 ||qbjj5bs478wwf9pd.emailvision.authenticate.net.daraz.com^
 ||qbu4ealhspikp4go.apac-cfw-c2s-01-n6x026.net.daraz.com^
 ||qbu4ealhspikp4go.astrologie.net.daraz.com^
@@ -30460,6 +30677,7 @@
 ||qlikview.c.ns.emailvision.net.daraz.com^
 ||qlikview.disabledpartner.net.daraz.com^
 ||qlikview.mgmt-pay.net.daraz.com^
+||qlikview.news.net.daraz.com^
 ||qlikview.restricted-r-ht-2.net.daraz.com^
 ||qlikview.stage-lib-ht-1.net.daraz.com^
 ||qlikviews.net.daraz.com^
@@ -30492,6 +30710,7 @@
 ||qst-driver.net.daraz.com^
 ||qt23740k94dl69rw.net.daraz.com^
 ||qtjvoxvqs7vcuf5s.net.daraz.com^
+||quake40d4s070000e18vuac.net.daraz.com^
 ||qualif.ae6-sjc8-dr02.net.daraz.com^
 ||quarkai-jgqkwqhrmvc.net.daraz.com^
 ||qucwa7367vcrub6j.net.daraz.com^
@@ -30607,6 +30826,8 @@
 ||r5o419e4f5b0hs3q.jira.net.daraz.com^
 ||r6llv5i8bez36s2c.net.daraz.com^
 ||r6nb0op5yx16t141.net.daraz.com^
+||r6pectk2c2je6ggg.dcsportal.0-astrologie.net.daraz.com^
+||r6pectk2c2je6ggg.production-documentsns.partner-pay.net.daraz.com^
 ||r6qrnqhpq159f9r3.partner-pay.net.daraz.com^
 ||r7x23696vbgrhxm8.net.daraz.com^
 ||r89lsyja96ytp0dr.docs.net.daraz.com^
@@ -30684,6 +30905,7 @@
 ||rawserver1.net.daraz.com^
 ||rayfieldcomm.net.daraz.com^
 ||rb-gaviscon.net.daraz.com^
+||rbcore-wlc-3.net.jumia.co.ke^
 ||rbtnhw7sd8321oh0.net.daraz.com^
 ||rcacm06o2cxlj0ei.net.daraz.com^
 ||rcgfc2j4968uhdh1.ns.emailvision.authenticate.net.daraz.com^
@@ -31346,6 +31568,7 @@
 ||s3.wwwecgivision.applications.net.daraz.com^
 ||s3.wwwstaff.cl.bellsouth.net.daraz.com^
 ||s305-01-car67-web-wwww11node-webappraw.net.daraz.com^
+||s305.0p11r080301p50lcas.net.daraz.com^
 ||s325.00-be.net.daraz.com^
 ||s331.0ei-u7c2b96df-c233-s1507033892-i95141f0d.ame.net.daraz.com^
 ||s332-51-lib-oa-3-staginginistrators-csr40.net.daraz.com^
@@ -31390,6 +31613,7 @@
 ||s8bjnjkg42odjlir.net.daraz.com^
 ||s8hj2vwqg36x9hfh.lib-oa-1.net.daraz.com^
 ||s8lnfp8u9emc6e6n.net.daraz.com^
+||s9e56woi0hlbahlb.net.daraz.com^
 ||s9e5wqpf3u2g9njr.administrator.net.daraz.com^
 ||s9l2kckt5ln9q04j.assets.net.daraz.com^
 ||sa.net.daraz.com^
@@ -31488,6 +31712,7 @@
 ||scontent-atl3-2.xx.fbcdn.net.iberostar.com^
 ||scontent-cdg4-1.xx.fbcdn.net.iberostar.com^
 ||scontent-cdg4-2.xx.fbcdn.net.iberostar.com^
+||scontent-hou1-1.xx.fbcdn.net.iberostar.com^
 ||scontent.fpbc1-2.fna.fbcdn.net.iberostar.com^
 ||scontent.xx.fbcdn.net.iberostar.com^
 ||score-api-authpartner.net.daraz.com^
@@ -31750,6 +31975,7 @@
 ||sejivcvbufvwslnr.docs.net.daraz.com^
 ||selectsave.net.daraz.com^
 ||seleniumapp1.net.daraz.com^
+||seller-cdn.net.daraz.com^
 ||seller-k8s-prd.n-switch.net.daraz.com^
 ||seller-retail.net.daraz.com^
 ||seller-shop-01-car21-10-r-oa-1.net.daraz.com^
@@ -31847,6 +32073,7 @@
 ||shopreset.ns.emailvision.net.daraz.com^
 ||shopwww.partner-pay-getter.net.daraz.com^
 ||showroom-test.net.daraz.com^
+||shxz2cvnqfm24qhw.partner-pay.net.daraz.com^
 ||siamflex.net.daraz.com^
 ||siddevworkerapp.net.daraz.com^
 ||siemensgamesa-dev.net.daraz.com^
@@ -32029,6 +32256,7 @@
 ||sjc12123pago-svc.docs.net.daraz.com^
 ||sjc129-sjc12-dr01.net.daraz.com^
 ||sjc12sjc12sjc12.production.partner-pay.net.daraz.com^
+||sjc18.car21.net.daraz.com^
 ||sjgiabk33n5p8ucd.net.daraz.com^
 ||sk.00-be.net.daraz.com^
 ||sk1d9rd0txe2uihb.administrators.net.daraz.com^
@@ -32137,17 +32365,16 @@
 ||sonar6-bkk1-2.xx.fbcdn.net.iberostar.com^
 ||sonar6-bog2-1.xx.fbcdn.net.iberostar.com^
 ||sonar6-bom1-2.xx.fbcdn.net.iberostar.com^
-||sonar6-bos5-1.xx.fbcdn.net.iberostar.com^
 ||sonar6-bru2-1.xx.fbcdn.net.iberostar.com^
 ||sonar6-ccu1-2.xx.fbcdn.net.iberostar.com^
 ||sonar6-cdg4-1.xx.fbcdn.net.iberostar.com^
 ||sonar6-cdg4-2.xx.fbcdn.net.iberostar.com^
 ||sonar6-cdg4-3.xx.fbcdn.net.iberostar.com^
-||sonar6-cgk1-3.xx.fbcdn.net.iberostar.com^
 ||sonar6-cph2-1.xx.fbcdn.net.iberostar.com^
 ||sonar6-cpt1-1.xx.fbcdn.net.iberostar.com^
 ||sonar6-del2-1.xx.fbcdn.net.iberostar.com^
 ||sonar6-den4-1.xx.fbcdn.net.iberostar.com^
+||sonar6-dfw5-1.xx.fbcdn.net.iberostar.com^
 ||sonar6-dfw5-2.xx.fbcdn.net.iberostar.com^
 ||sonar6-doh1-1.xx.fbcdn.net.iberostar.com^
 ||sonar6-dub4-1.xx.fbcdn.net.iberostar.com^
@@ -32339,12 +32566,14 @@
 ||spydervops-ns2.viviotech.net.daraz.com^
 ||sq1q5cnnl8spg82b.net.daraz.com^
 ||sqomym86xwrrtps5.net.daraz.com^
+||srd1-pdx.net.jumia.ci^
 ||sre-eks-gitlab-1.net.daraz.com^
 ||sris.net.daraz.com^
 ||srrv9v8pckk7q3aw.azure.net.daraz.com^
 ||srs-i.net.daraz.com^
 ||srs-yhars.net.daraz.com^
 ||srv.net.daraz.com^
+||srv049990-69.net.jumia.com^
 ||srv6mcgrprd.net.daraz.com^
 ||srvcb.net.daraz.com^
 ||ssg-portal.net.daraz.com^
@@ -32380,6 +32609,7 @@
 ||ssvcgatewaycgateway.www.net.daraz.com^
 ||ssyn0zdfxiqt4h8q.emailvision.net.daraz.com^
 ||st.api-static-stage.net.daraz.com^
+||st.applications-r-ln-1.net.daraz.com^
 ||st037infotslib-ht-1.net.daraz.com^
 ||sta-uvdm.net.daraz.com^
 ||stadiumcheck.net.daraz.com^
@@ -32966,6 +33196,7 @@
 ||streetshares.net.daraz.com^
 ||stregionns3ff.w-htgb-regionns3.net.daraz.com^
 ||stress-check-web.net.daraz.com^
+||stripe-www.partner.net.daraz.com^
 ||stripe.www.partner.net.daraz.com^
 ||stsjc12ts.b.ns.emsjc12ilvision.net.daraz.com^
 ||stsystem-springging-r-ht-1.net.daraz.com^
@@ -33147,6 +33378,7 @@
 ||tbdw9xzyvfbsld9v.partner.net.daraz.com^
 ||tccc-prod64-nag-smartwater.net.daraz.com^
 ||tcms1telecom.azure.net.daraz.com^
+||tcn8q6ur7iykb5d5.0-astrologie.net.daraz.com^
 ||tdocsdropr-hx-1tbed.lib-ht-1.net.daraz.com^
 ||tdqcgmeadcbdrwyn.northamerica.net.daraz.com^
 ||te240x9tpjmn0m7r.production-documentsns.partner-pay.net.daraz.com^
@@ -33195,6 +33427,7 @@
 ||test-er.net.daraz.com^
 ||test-files.net.daraz.com^
 ||test-files01-echo-tls.net.daraz.com^
+||test-k8.net.daraz.com^
 ||test-k8s-006-zigzagstr.net.daraz.com^
 ||test-k8s-devops-ns2.viviotech.net.daraz.com^
 ||test-k8s.01-car21-10-r-oa-1.net.daraz.com^
@@ -33519,6 +33752,7 @@
 ||trac.nautilus.net.daraz.com^
 ||track-ns3.cl.bellsouth.net.daraz.com^
 ||tracking.01-car21.net.daraz.com^
+||tracktrap.0-132.net.daraz.com^
 ||traffic-alicert-admin-nnw-leis-mc-leis.net.daraz.com^
 ||traffic-keele-00-leis-mc-leis.net.daraz.com^
 ||traffic-keele-kube-partner-leis-mc-leis.net.daraz.com^
@@ -33807,6 +34041,8 @@
 ||twwwdmetrictestffic-keele-nnw-leis-mc-leis.net.daraz.com^
 ||tx-br-cdn.kwai.net.iberostar.com^
 ||tx-pro-pull.kwai.net.iberostar.com^
+||txfo3u5yhzqc2fzb.net-marketing.net.daraz.com^
+||txfo3u5yhzqc2fzb.net.daraz.com^
 ||txkre62w2fsgo7ww.net.daraz.com^
 ||txmbjp33xhl10m60.assets.net.daraz.com^
 ||txv2-br-cdn.kwai.net.iberostar.com^
@@ -33880,6 +34116,7 @@
 ||ug26ivxferdvyi76.northamerica.net.daraz.com^
 ||ugdc4jlp2e2udtg6.emrj82plvision.authenticate.net.daraz.com^
 ||ugdc4jlp2e2udtg6.net.daraz.com^
+||ugh1h9lcmtm5h25e.net.daraz.com^
 ||uhiazlsf8a48cdyz.assets.net.daraz.com^
 ||uhpu6t036bb70d98.partner.net.daraz.com^
 ||ui.net.iberia.com^
@@ -34024,15 +34261,21 @@
 ||us-car21-web-wwww11node-webapp.net.daraz.com^
 ||us-east-1-alpha.net.daraz.com^
 ||us-east-1-beta.net.daraz.com^
+||us-east-2.patner.net.daraz.com^
 ||us-patner.net.daraz.com^
 ||us-redir.net.daraz.com^
+||us-west-2.net.daraz.com^
 ||us.006-zigzagstr.net.daraz.com^
 ||us.appbackupapi.micloud.xiaomi.net.iberostar.com^
 ||us.lib-oa-1.net.daraz.com^
+||us.micardapi.micloud.xiaomi.net.iberostar.com^
 ||us.net.daraz.com^
 ||us.net.daraz.com.00d200000007ytxeam.net.daraz.com^
+||us.noteapi.micloud.xiaomi.net.iberostar.com^
+||us.pdc.micloud.xiaomi.net.iberostar.com^
 ||us03gateway-s.net.daraz.com^
 ||us0hxtawyfvtjnyk.application.net.daraz.com^
+||us3kks7tu8zltze9.net.daraz.com^
 ||us6-zigzagstr.net.daraz.com^
 ||usa-ra.net.daraz.com^
 ||usa240s.net.daraz.com^
@@ -34183,6 +34426,8 @@
 ||v233fvbu93mr08dq.production-documentsns.partner-pay.net.daraz.com^
 ||v2ats.b.ns.emailvision.net.daraz.com^
 ||v2billingcisco.ns.emailvision.net.daraz.com^
+||v2bx5n915v84bf7g.0-astrologie.net.daraz.com^
+||v2bx5n915v84bf7g.javhihi.net.daraz.com^
 ||v2eojnc4lgy7g6si.application.net.daraz.com^
 ||v2ns.emailvision.us.net.daraz.com^
 ||v2www.applications.net.daraz.com^
@@ -34230,12 +34475,14 @@
 ||vault-qr.net.daraz.com^
 ||vault.01-car21c-f8.net.daraz.com^
 ||vault.net.daraz.com^
+||vault2.net.daraz.com^
 ||vaultpatner.net.daraz.com^
 ||vaynshm.net.daraz.com^
 ||vazeychild.net.daraz.com^
 ||vb3s6feu8w6lb37m.net.daraz.com^
 ||vc-ebs.10-marketing.net.daraz.com^
 ||vc0df1qc4tc9om5o.net.daraz.com^
+||vc77o2maxpi1myrm.dcsportal.0-astrologie.net.daraz.com^
 ||vct9bewq15nmcgsk.n-switch.net.daraz.com^
 ||vd-test.net.anwalt.de^
 ||vdkndu8cbmebm39t.production-documentsns.partner-pay.net.daraz.com^
@@ -34281,6 +34528,7 @@
 ||viviotech.northamerica.net.daraz.com^
 ||viviotechbejav.net.daraz.com^
 ||viyralmy09p3rw24.10-marketing.net.daraz.com^
+||vjq99dngji76llmy.adminiwindowstratorwindows.net.daraz.com^
 ||vkeele-nnw-leis-mc-leisnskeele-nnw-leis-mc-leisx.net.daraz.com^
 ||vl037.net.anwalt.de^
 ||vl5rqxdznp8nlpqs.authenticate.net.daraz.com^
@@ -34350,6 +34598,7 @@
 ||vpn-w-repokeele-a.net.daraz.com^
 ||vpn-w-summertgb-a.net.daraz.com^
 ||vpn.connectedtwtelecom.azure.net.daraz.com^
+||vpn.csr31.net.daraz.com^
 ||vpn.freshegg.cloud.net.daraz.com^
 ||vpn.net.daraz.com^
 ||vpn.northamerica.net.daraz.com^
@@ -34422,6 +34671,7 @@
 ||w2sellerpackagingvcf-l.0s59geexezp7q9u0.net.daraz.com^
 ||w3-n-switch.net.daraz.com^
 ||w3.bellsouth.administrator.net.daraz.com^
+||w33m13ws71ru3y3u.0-astrologie.net.daraz.com^
 ||w3hz0j21abz6lm43.net.daraz.com^
 ||w3jzynh3s9kvt22s.net.daraz.com^
 ||w3jzynh3s9kvt22s.partner-pay.net.daraz.com^
@@ -34439,6 +34689,7 @@
 ||w5sellerpackaging-profile-engima-alpha123-games-test2.net.daraz.com^
 ||w5sellerpackaging-profilekor-github.10kk-1.net.daraz.com^
 ||w5sellerpackagingv-oceania-promo.01-car21.net.daraz.com^
+||w6nf85jhmeu3r1jk.net-marketing.net.daraz.com^
 ||w6qixo4hkspo8rwv.net.daraz.com^
 ||w7i1ie6ogl34g5kt.net.daraz.com^
 ||w8sellerpackaging-profilejuly-aws.test1.net.daraz.com^
@@ -34776,6 +35027,7 @@
 ||wmskl09p11zfu0ut.emailvision.authenticate.net.daraz.com^
 ||wmvsw7is779qoon3.net.daraz.com^
 ||wn5b02lfqpfj7fa5.net.daraz.com^
+||wn7i9qvv95mza302.partner-pay.net.daraz.com^
 ||wnxgzk9wevzhcokk.authenticate.net.daraz.com^
 ||wo0oxeyba2begmua.summer.net.daraz.com^
 ||woej1tpbebyd90jc.emrj82plvision.authenticate.net.daraz.com^
@@ -34876,6 +35128,7 @@
 ||wvmrgiib646qc8xk.net.daraz.com^
 ||ww60lf34j6t1efg5.net.daraz.com^
 ||wwejav.net.daraz.com^
+||wwnl4s1zpnox69jo.0-astrologie.net.daraz.com^
 ||wwp5jj5bm3swxafh.summer.net.daraz.com^
 ||wwprehravacwstaging-stage-obong.net.daraz.com^
 ||www-0-kpassregion15-csr21.net.daraz.com^
@@ -34898,6 +35151,7 @@
 ||www-4-k-payment-cfg.02.net.daraz.com^
 ||www-4sq-195.net.daraz.com^
 ||www-5-k-4data.01-car21.net.daraz.com^
+||www-6-springlatinamericamachine.0rdc8nnckw6jq3te0vv27mh6.net.daraz.com^
 ||www-7-k-secure-ids.01-car21.net.daraz.com^
 ||www-7-springv7kr.1200m6.net.daraz.com^
 ||www-7latinamerica-prd.01-lib-oa-1.net.daraz.com^
@@ -34940,6 +35194,7 @@
 ||www-pet1.net.daraz.com^
 ||www-qlikview.applications.net.daraz.com^
 ||www-redirector-keele-nnw-leis-mc-leis.production.partner-pay.net.daraz.com^
+||www-shopify.partner.net.daraz.com^
 ||www-spyder.partner.net.daraz.com^
 ||www-ssl.applications.net.daraz.com^
 ||www-staging.applications.net.daraz.com^
@@ -34961,6 +35216,7 @@
 ||www-trainr.ctl.partner-pay.net.daraz.com^
 ||www-trial.applications.net.daraz.com^
 ||www-vip.partner.net.daraz.com^
+||www-web.news.net.daraz.com^
 ||www-xspace-berndpulchmedotcom-merchant.partner.net.daraz.com^
 ||www-xspace-csr41.net.daraz.com^
 ||www-xspace-vpdp.partner.net.daraz.com^
@@ -35206,8 +35462,10 @@
 ||www.meuble-design.net.jumia.ug^
 ||www.mgmt-pay.net.daraz.com^
 ||www.n.partner.net.daraz.com^
+||www.net.asambeauty.com^
 ||www.net.daraz.com^
 ||www.net.iberia.com^
+||www.newcomprocess.net.jumia.cm^
 ||www.niranetniranet.net.daraz.com^
 ||www.ns2partner.net.daraz.com^
 ||www.online.net.anwalt.de^
@@ -35571,12 +35829,14 @@
 ||www0mail.partner.net.daraz.com^
 ||www1-ch-1.net.daraz.com^
 ||www1-uploadlib-ht-1.net.daraz.com^
+||www1.na.sandbox.gwsweb.net.jumia.co.ke^
 ||www1.net.daraz.com^
 ||www1.r-ht-2.net.daraz.com^
 ||www10.8-astrologie-17-web-promo15lan.net.daraz.com^
 ||www2024.partner.net.daraz.com^
 ||www21.upload-pay.net.daraz.com^
 ||www23.0-132.net.daraz.com^
+||www24.partner.net.daraz.com^
 ||www3.applications.applications.net.daraz.com^
 ||www44.0-2customer.net.daraz.com^
 ||www6.partner.net.daraz.com^
@@ -35775,6 +36035,7 @@
 ||wwww11nodeconnectedtwtelecom.azure.net.daraz.com^
 ||wwww11nodedevops-ns2.viviotech.net.daraz.com^
 ||wwww2node-2-car21-web-wwww0node-okta.00-bootstrap.net.daraz.com^
+||wwww40demo.043.net.daraz.com^
 ||wwww42vpn-q1.car21.net.daraz.com^
 ||wwww52demo.01-lib-oa-1.net.daraz.com^
 ||wwww54cdn.083-gls-023.net.daraz.com^
@@ -35798,6 +36059,8 @@
 ||wyrfhovjss3j15ns.net.daraz.com^
 ||wz3n0jupktm0tfff.ns.emailvision.authenticate.net.daraz.com^
 ||wz3zndkfqntjr9up.docs.net.daraz.com^
+||wzcqvo8e9lazapxd.net.daraz.com^
+||wzcqvo8e9lazapxd.partner-pay.net.daraz.com^
 ||wze9h2lufa1qmk2a.lib-oa-1.net.daraz.com^
 ||wze9h2lufa1qmk2a.net.daraz.com^
 ||wzne2eg20yjw8fh6.net.daraz.com^
@@ -35897,12 +36160,14 @@
 ||xpu2iad01krg72a1.net.daraz.com^
 ||xq4bkfq73plei3tv.bellsouth.net.daraz.com.0-gkm-portal.net.daraz.com^
 ||xqwh54zc0k50utat.production-documentsns.partner-pay.net.daraz.com^
+||xr0tozqd95amm6nm.javhihi.net.daraz.com^
 ||xr1j3ee2o278mim2.emailvision.net.daraz.com^
 ||xrh0c6786pxp144b.docs.net.daraz.com^
 ||xrh0c6786pxp144b.lib-oa-1.net.daraz.com^
 ||xrhn1239hk3rnjeh.administrators.net.daraz.com^
 ||xrussl6jdtf6ift4.administrator.net.daraz.com^
 ||xs2m1mezfqoormk0.net.daraz.com^
+||xsp.isncom.net.jumia.com.gh^
 ||xspace-123pago-svc.docs.net.daraz.com^
 ||xspace-bms.net.daraz.com^
 ||xspace-kubectl.lib-ln-2.net.daraz.com^
@@ -35957,6 +36222,8 @@
 ||xvn8j2nvy6as4wj5.net.daraz.com^
 ||xwckonhd0b1phvnq.summer.net.daraz.com^
 ||xwffg40vrbxzh57o.net.daraz.com^
+||xwqn07e1ot9w1prm.javhihi.net.daraz.com^
+||xwqn07e1ot9w1prm.production-documentsns.partner-pay.net.daraz.com^
 ||xwx8d40hdu4fe5qa.net.daraz.com^
 ||xxeqn9dm26r848c8.net.daraz.com^
 ||xxz8kifja3qn25ku.bellsouth.net.daraz.com^
@@ -35975,6 +36242,7 @@
 ||y2k8u7x91xm99i7q.summer.net.daraz.com^
 ||y2soodn6p3459gp5.net.daraz.com^
 ||y302ui3bj1izigqe.partner.net.daraz.com^
+||y3clrkc4zxtzhkey.net.daraz.com^
 ||y3pvsf2wwxn4v8em.net.daraz.com^
 ||y3w01n0gzfvhczuc.docs.net.daraz.com^
 ||y4fyuzw7lhbee36f.77dewa.net.daraz.com^
@@ -35997,6 +36265,7 @@
 ||ya2425d8uyu7t2zc.application.net.daraz.com^
 ||yahoo.00-bootst3arketingap.net.daraz.com^
 ||yahooresearchcluster.net.daraz.com^
+||yai6e6j56accluab.net-marketing.net.daraz.com^
 ||yaklkdu55k43hgat.net.daraz.com^
 ||yan1an1ook.api.net.daraz.com^
 ||yancancook-devvision.system.net.daraz.com^
@@ -36024,6 +36293,7 @@
 ||ybjbf44433t7en0h.net.daraz.com^
 ||ybmxb4bt1q3qg9hn.net.daraz.com^
 ||ybsbrjwmx3tgh2a6.partner.net.daraz.com^
+||ybursf3uvzsrdwgq.0-astrologie.net.daraz.com^
 ||yc6gp3g7wa0axb0d.azure.net.daraz.com^
 ||ycms-mts-staging.net.daraz.com^
 ||ycokf00hf2wsi345.partner-pay.net.daraz.com^
@@ -36033,6 +36303,7 @@
 ||ydx9ig1gdrbuhdh5.net.daraz.com^
 ||ye6cfeebld90939g.net.daraz.com^
 ||ye7b4m3fzko7htrc.net.daraz.com^
+||yertgk0x1sjnzq86.net.daraz.com^
 ||yesvpn.net.daraz.com^
 ||yeze07gwp243ssgu.net.daraz.com^
 ||yffa6dfh2gb5vr5j.azure.net.daraz.com^
@@ -36080,6 +36351,7 @@
 ||yo52c68arwt066os.dcsportal.0-astrologie.net.daraz.com^
 ||yo52c68arwt066os.emailvision.net.daraz.com^
 ||yoej9vla5ht7pem4.net.daraz.com^
+||yoi05.youthorganizing.net.jumia.ci^
 ||yokt13opepu76gqz.net.daraz.com^
 ||yonmtf391kmxt61p.net.daraz.com^
 ||young-plateau-6308.net.daraz.com^
@@ -36111,6 +36383,7 @@
 ||yt33t28giyc1s116.net.daraz.com^
 ||yt5kgxenilqapbvh.production-documentsns.partner-pay.net.daraz.com^
 ||ytcenzw6omppsv53.assets.net.daraz.com^
+||ytcxopof4xqa7jbz.net.daraz.com^
 ||ytejfsnz4koc2qji.net.daraz.com^
 ||ytivs2fb25oy3y1e.summer.net.daraz.com^
 ||ytlqqcgtev1mdy7a.lib-oa-1.net.daraz.com^
@@ -36170,6 +36443,7 @@
 ||z73grecfnn5w5dnn.net.daraz.com^
 ||z79hnf968kgbzckz.northamerica.net.daraz.com^
 ||z7zbjh218ui3rs7j.lib-oa-1.net.daraz.com^
+||z87wwy5coa61dh72.partner-pay.net.daraz.com^
 ||z8csnw0yjtkxbml9.net.daraz.com^
 ||z8sh96te4fw6dxmh.doclogin.net.daraz.com^
 ||z8sh96te4fw6dxmh.net.daraz.com^
@@ -36352,18 +36626,16 @@
 ||zzpa3e62zt91c04r.docs.net.daraz.com^
 ||zzv2.net.daraz.com^
 ||117.net.jumia.com.eg^
-||125.net.jumia.co.ke^
 ||26.net.jumia.cm^
-||68-175.net.jumia.co.ke^
 ||_.net.brillen.de^
 ||ablinksuni.a.net.shop.com.mm^
 ||acsail.net.shop.com.mm^
-||api.apiok.net.iberostar.com^
+||analytics.net.iberia.com^
 ||api.net.shop.com.mm^
+||appassets.androidplatform.net.iberostar.com^
 ||bigip2.net.jumia.com.eg^
 ||bucketmail.net.shop.com.mm^
 ||cdn.net.carrefour.es^
-||cdn.net.dz.jumia.com^
 ||dsview-ne.net.jumia.cm^
 ||dub2iptfnepin01.net.jumia.cm^
 ||eclipse-membership.net.shop.com.mm^
@@ -36374,44 +36646,39 @@
 ||elcolordetussuenos.net.shop.com.mm^
 ||export.affiliate.logitravel.com^
 ||export.net.24-ads.com^
-||external.fpbc1-1.fna.fbcdn.net.iberostar.com^
+||export.net.iberia.com^
 ||feldman.net.anwalt.de^
 ||gw225.net.jumia.com.gh^
 ||heineken.net.shop.com.mm^
 ||holtsap1.net.anwalt.de^
 ||html.net.jumia.com^
+||httppatner.net.jumia.com^
 ||images.service.belboon.com^
 ||img.net.brillen.de^
+||img.net.iberia.com^
 ||img.net.jumia.com^
-||img.service.belboon.com^
-||ipv4-c006-mid001-telmex-isp.1.oca.nflxvideo.net.iberostar.com^
+||insightreporting.net.easyjet.com^
 ||k8s-prod.net.shop.com.mm^
 ||kube.net.shop.com.mm^
 ||m.wekiss.net.jumia.cm^
-||maeketing.net.gafas.es^
 ||mail.cvs.net.shop.com.mm^
 ||mailorg.net.shop.com.mm^
 ||marketing.01.net.shop.com.mm^
-||marketing.net.24-ads.com^
 ||marketing.net.carrefour.es^
-||marketing.net.daraz.com.bd^
 ||marketing.net.jumia.ci^
+||marketing.net.jumia.com^
 ||marketing.net.jumia.com.eg^
 ||marketing.net.steiner-vision.de^
 ||marketing.net.wink.es^
 ||marketing.stayhome.net.shop.com.mm^
 ||marketingauthorization.net.shop.com.mm^
-||markting.net.jumia.com^
-||media-cdg4-1.cdn.whatsapp.net.iberostar.com^
 ||media.net.brillen.de^
-||mobile-events.eservice.emarsys.net.iberostar.com^
 ||mobile-tracking-integration.net.shop.com.mm^
 ||mobile.net.shop.com.mm^
 ||net.carrefour.es^
-||net.contorion.de^
-||net.fashionsisters.de^
 ||net.occhiali24.it^
 ||net.quisma.com^
+||net.wink.es^
 ||netmailcsr11.net.anwalt.de^
 ||ns9.wixdns.net.jumia.com^
 ||partner.net.brillen.de^
@@ -36419,26 +36686,19 @@
 ||pdpdesc-m.net.shop.com.mm^
 ||perf.af.eficads.com^
 ||perf.af.funneldrivers.com^
+||pertner.net.jumia.com^
 ||phpmail.net.shop.com.mm^
-||rbcore-wlc-3.net.jumia.co.ke^
 ||server3.qa4.cmsearch.gwsweb.net.jumia.com.eg^
 ||skinsing.net.shop.com.mm^
 ||smartbroker.efscle.com^
-||sonar6-dfw5-1.xx.fbcdn.net.iberostar.com^
-||srd1-pdx.net.jumia.ci^
+||sonar6-bos5-1.xx.fbcdn.net.iberostar.com^
+||sonar6-cgk1-3.xx.fbcdn.net.iberostar.com^
 ||tacsc.net.anwalt.de^
 ||tr.netsalesmedia.pl^
 ||tus1iptahdpin01.net.jumia.cm^
 ||uandmyfuture.net.anwalt.de^
 ||ui.belboon.com^
 ||ui.service.belboon.com^
-||us.micardapi.micloud.xiaomi.net.iberostar.com^
-||us.noteapi.micloud.xiaomi.net.iberostar.com^
-||us.pdc.micloud.xiaomi.net.iberostar.com^
 ||v3.mail.net.shop.com.mm^
 ||www.domiciliationparis.net.jumia.cm^
-||www.net.asambeauty.com^
-||www1.na.sandbox.gwsweb.net.jumia.co.ke^
 ||xdsl.99.ing.de.net.jumia.com^
-||xsp.isncom.net.jumia.com.gh^
-||yoi05.youthorganizing.net.jumia.ci^

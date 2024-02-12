@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,6 +48,7 @@ $TTL 300
 771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 7hdl8dlfjm4g.www.cybernetman.com CNAME .
+7mvmjg.www.emanualonline.com CNAME .
 8e0905osvgw5.taleez.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8ue4rp6yxyis.www.tapmyback.com CNAME .
@@ -82,7 +83,6 @@ gl5g98t0vfjb.panprices.com CNAME .
 gvmomuqjv1.swyftx.com CNAME .
 hht8m6w8mnug.quine.sh CNAME .
 ilkk97e98lvg.www.sidsplumbing.ie CNAME .
-ipz51x.kvest.ee CNAME .
 ivrnfvlcgubm.www.cefirates.com CNAME .
 iwl2d7pa4yx1.www.logology.co CNAME .
 ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .

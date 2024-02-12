@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -365,6 +365,7 @@ tr.emailing.canalplus-afrique.com CNAME .
 tr.emailing.canalplus-caledonie.com CNAME .
 tr.emailing.canalplus-caraibes.com CNAME .
 tr.emailing.canalplus-maurice.com CNAME .
+tr.emailing.canalplus-polynesie.com CNAME .
 tr.emailing.canalplus-reunion.com CNAME .
 tr.emailing.canalplus.ch CNAME .
 tr.emailing.canalplus.fr CNAME .
@@ -382,7 +383,6 @@ tr.emailium.fr CNAME .
 tr.emc.moethennessy.com CNAME .
 tr.enedis-infos.fr CNAME .
 tr.enews.customsolutions.fr CNAME .
-tr.enquete-cpf.ifop.com CNAME .
 tr.enquetes.actionlogement.fr CNAME .
 tr.entreprise-pro.info CNAME .
 tr.entreprise.axa.fr CNAME .
@@ -626,7 +626,6 @@ tr.media.harmonie-sante.fr CNAME .
 tr.melhores-propostas.pt CNAME .
 tr.membres.boursorama.info CNAME .
 tr.mep.enkiapp.io CNAME .
-tr.merit-summit.com CNAME .
 tr.mes-bonsplans.be CNAME .
 tr.mes-prestataires.fr CNAME .
 tr.message.maaf.fr CNAME .
@@ -947,7 +946,6 @@ tr.politicoevents.eu CNAME .
 tr.politicolive.eu CNAME .
 tr.politicomarketing.eu CNAME .
 tr.portail.afpa.fr CNAME .
-tr.premierembatour.com CNAME .
 tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro-renov.be CNAME .
@@ -1028,6 +1026,7 @@ tr.solution.uneo.fr CNAME .
 tr.sort.espmp-nifr.net CNAME .
 tr.souscription.floa.fr CNAME .
 tr.spain.plimsoll.es CNAME .
+tr.sportswear.np6.com CNAME .
 tr.strategie.gouv.fr CNAME .
 tr.suivi-client-edf.com CNAME .
 tr.surveys.np6.com CNAME .
@@ -1046,7 +1045,6 @@ tr.ujsv.espmp-agfr.net CNAME .
 tr.uk.icicibank.com CNAME .
 tr.uk.katun.com CNAME .
 tr.unaoffertaalgiorno.com CNAME .
-tr.unimy-beyond.com CNAME .
 tr.update.groupon.be CNAME .
 tr.urfk.espmp-agfr.net CNAME .
 tr.urfk02r.espmp-nifr.net CNAME .

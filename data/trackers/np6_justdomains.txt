@@ -354,6 +354,7 @@ tr.emailing.canalplus-afrique.com
 tr.emailing.canalplus-caledonie.com
 tr.emailing.canalplus-caraibes.com
 tr.emailing.canalplus-maurice.com
+tr.emailing.canalplus-polynesie.com
 tr.emailing.canalplus-reunion.com
 tr.emailing.canalplus.ch
 tr.emailing.canalplus.fr
@@ -371,7 +372,6 @@ tr.emailium.fr
 tr.emc.moethennessy.com
 tr.enedis-infos.fr
 tr.enews.customsolutions.fr
-tr.enquete-cpf.ifop.com
 tr.enquetes.actionlogement.fr
 tr.entreprise-pro.info
 tr.entreprise.axa.fr
@@ -615,7 +615,6 @@ tr.media.harmonie-sante.fr
 tr.melhores-propostas.pt
 tr.membres.boursorama.info
 tr.mep.enkiapp.io
-tr.merit-summit.com
 tr.mes-bonsplans.be
 tr.mes-prestataires.fr
 tr.message.maaf.fr
@@ -936,7 +935,6 @@ tr.politicoevents.eu
 tr.politicolive.eu
 tr.politicomarketing.eu
 tr.portail.afpa.fr
-tr.premierembatour.com
 tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
 tr.pro-renov.be
@@ -1017,6 +1015,7 @@ tr.solution.uneo.fr
 tr.sort.espmp-nifr.net
 tr.souscription.floa.fr
 tr.spain.plimsoll.es
+tr.sportswear.np6.com
 tr.strategie.gouv.fr
 tr.suivi-client-edf.com
 tr.surveys.np6.com
@@ -1035,7 +1034,6 @@ tr.ujsv.espmp-agfr.net
 tr.uk.icicibank.com
 tr.uk.katun.com
 tr.unaoffertaalgiorno.com
-tr.unimy-beyond.com
 tr.update.groupon.be
 tr.urfk.espmp-agfr.net
 tr.urfk02r.espmp-nifr.net

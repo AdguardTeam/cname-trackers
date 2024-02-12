@@ -300,7 +300,6 @@ isic.kopirkaostrava.cz
 isicpartner.mamechut.cz
 kaocko.swaglift.com
 lhota.stanicezoo.cz
-login.affiliatesit.cz
 money.mioweb.cz
 my.11teamsports.bg
 my.11teamsports.com
@@ -430,7 +429,6 @@ partner.artmaster.com
 partner.artmasteracademy.cz
 partner.astaxanthincz.cz
 partner.avetour.cz
-partner.azada.cz
 partner.babysigns.cz
 partner.bandana.cz
 partner.barnaby.cz
@@ -656,7 +654,6 @@ partner.sporthangar.cz
 partner.stavario.com
 partner.stickersmakers.com
 partner.strendem.cz
-partner.stromkyonline.cz
 partner.summermyles.cz
 partner.susenepochoutky.cz
 partner.susmevem.com
@@ -864,6 +861,7 @@ provize.mimulo.cz
 provize.pracenasobe.cz
 provize.radynacestu.cz
 provize.rychle-pujcky-bez-registru.cz
+provize.snubni-prsten.cz
 provize.vybavenifitness.cz
 provize.wugi.cz
 provize.zazitkovelety.cz
@@ -899,5 +897,6 @@ www.affilo.cz
 www.partner.hubatacernoska.cz
 www.partneri.zuzanaondrisova.sk
 affiliate.kulturistika.com
+login.affiliatesit.cz
 partner.janapekna.cz
 partner.topforteam.cz

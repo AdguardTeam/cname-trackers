@@ -213,7 +213,6 @@
 | cattle.musikschule-bregenzerwald.at | deprecated-custom-domains.b-cdn.net |
 | cattle.spiral11.com | deprecated-custom-domains.b-cdn.net |
 | cattle.weiss-bregenz.at | deprecated-custom-domains.b-cdn.net |
-| cattle.yourdallashandyman.com | deprecated-custom-domains.b-cdn.net |
 | centipede.davimug.com | deprecated-custom-domains.b-cdn.net |
 | centipede.roasted.dev | deprecated-custom-domains.b-cdn.net |
 | centipede.wildbit.com | deprecated-custom-domains.b-cdn.net |
@@ -304,7 +303,6 @@
 | dog.orbit.love | deprecated-custom-domains.b-cdn.net |
 | dog.rejuvenateyouohio.com | deprecated-custom-domains.b-cdn.net |
 | dog.streameon.com | deprecated-custom-domains.b-cdn.net |
-| dolphin.biodom.rs | deprecated-custom-domains.b-cdn.net |
 | dolphin.brandname.tech | deprecated-custom-domains.b-cdn.net |
 | dolphin.mayansmithgobat.de | deprecated-custom-domains.b-cdn.net |
 | dolphin.sfelc.com | deprecated-custom-domains.b-cdn.net |
@@ -388,6 +386,7 @@
 | flyingfish.editorslab.de | deprecated-custom-domains.b-cdn.net |
 | flyingfish.whoisrepresented.org | deprecated-custom-domains.b-cdn.net |
 | fowl.saulhardman.com | deprecated-custom-domains.b-cdn.net |
+| fowl.teamyap.app | deprecated-custom-domains.b-cdn.net |
 | fox.domainr.com | deprecated-custom-domains.b-cdn.net |
 | fox.visionaudiovisual.com | deprecated-custom-domains.b-cdn.net |
 | gamefowl.emailforward.mx | deprecated-custom-domains.b-cdn.net |
@@ -499,7 +498,6 @@
 | iguana.cypressridge-pca.org | deprecated-custom-domains.b-cdn.net |
 | iguana.delbaoliveira.com | deprecated-custom-domains.b-cdn.net |
 | iguana.indigospot.com | deprecated-custom-domains.b-cdn.net |
-| iguana.senatevotes.us | deprecated-custom-domains.b-cdn.net |
 | iguana.vivere.co | deprecated-custom-domains.b-cdn.net |
 | ijogkae.churchserviceplanner.co.uk | deprecated-custom-domains.b-cdn.net |
 | impala.vnv.nl | deprecated-custom-domains.b-cdn.net |
@@ -589,7 +587,6 @@
 | loon.davidalindahl.com | deprecated-custom-domains.b-cdn.net |
 | loon.energizer.asia | deprecated-custom-domains.b-cdn.net |
 | loon.jrmyfranck.com | deprecated-custom-domains.b-cdn.net |
-| loon.ohmyfunds.com | deprecated-custom-domains.b-cdn.net |
 | louse.16bit.it | deprecated-custom-domains.b-cdn.net |
 | louse.demaree.space | deprecated-custom-domains.b-cdn.net |
 | louse.seanconnolly.dev | deprecated-custom-domains.b-cdn.net |
@@ -647,7 +644,6 @@
 | mole.gostartupco.com | deprecated-custom-domains.b-cdn.net |
 | mole.rtbhouse.com | deprecated-custom-domains.b-cdn.net |
 | mole.vcntlee.com | deprecated-custom-domains.b-cdn.net |
-| mollusk.saferingz.com | deprecated-custom-domains.b-cdn.net |
 | mollusk.working.actor | deprecated-custom-domains.b-cdn.net |
 | mongoose.jasonlbeggs.com | deprecated-custom-domains.b-cdn.net |
 | mongoose.scrumgenius.com | deprecated-custom-domains.b-cdn.net |
@@ -755,7 +751,6 @@
 | platypus.zwei-bags.ch | deprecated-custom-domains.b-cdn.net |
 | polarbear.codeday.org | deprecated-custom-domains.b-cdn.net |
 | porcupine.dvresolve.com | deprecated-custom-domains.b-cdn.net |
-| porcupine.simpleprax.de | deprecated-custom-domains.b-cdn.net |
 | porpoise.azettl.net | deprecated-custom-domains.b-cdn.net |
 | porpoise.deschtimes.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.fruittreecottage.com.au | deprecated-custom-domains.b-cdn.net |
@@ -921,6 +916,7 @@
 | tahr.happydev.fm | deprecated-custom-domains.b-cdn.net |
 | tahr.rasen.dev | deprecated-custom-domains.b-cdn.net |
 | takin.bottlebeagle.com | deprecated-custom-domains.b-cdn.net |
+| takin.cors.digital | deprecated-custom-domains.b-cdn.net |
 | takin.dripmacetas.com | deprecated-custom-domains.b-cdn.net |
 | takin.revolana.fr | deprecated-custom-domains.b-cdn.net |
 | tapir.albertaguardtraining.ca | deprecated-custom-domains.b-cdn.net |
@@ -931,6 +927,7 @@
 | tarsier.eyal.codes | deprecated-custom-domains.b-cdn.net |
 | tarsier.kriterie.se | deprecated-custom-domains.b-cdn.net |
 | termite.queerburners.org | deprecated-custom-domains.b-cdn.net |
+| tern.daffy.org | deprecated-custom-domains.b-cdn.net |
 | tern.xebel.co | deprecated-custom-domains.b-cdn.net |
 | tick.pcrpriser.se | deprecated-custom-domains.b-cdn.net |
 | tick.sculch.app | deprecated-custom-domains.b-cdn.net |
@@ -1217,7 +1214,6 @@
 | cattle.musikschule-bregenzerwald.at | starman.fathomdns.com |
 | cattle.spiral11.com | starman.fathomdns.com |
 | cattle.weiss-bregenz.at | starman.fathomdns.com |
-| cattle.yourdallashandyman.com | starman.fathomdns.com |
 | centipede.davimug.com | starman.fathomdns.com |
 | centipede.roasted.dev | starman.fathomdns.com |
 | centipede.wildbit.com | starman.fathomdns.com |
@@ -1307,10 +1303,8 @@
 | dog.orbit.love | starman.fathomdns.com |
 | dog.rejuvenateyouohio.com | starman.fathomdns.com |
 | dog.streameon.com | starman.fathomdns.com |
-| dolphin.biodom.rs | starman.fathomdns.com |
 | dolphin.brandname.tech | starman.fathomdns.com |
 | dolphin.mayansmithgobat.de | starman.fathomdns.com |
-| dolphin.maybe.co | starman.fathomdns.com |
 | dolphin.sfelc.com | starman.fathomdns.com |
 | donkey.aerzteteam-luppe.de | starman.fathomdns.com |
 | donkey.annieswinecottagepowell.com | starman.fathomdns.com |
@@ -1503,7 +1497,6 @@
 | iguana.cypressridge-pca.org | starman.fathomdns.com |
 | iguana.delbaoliveira.com | starman.fathomdns.com |
 | iguana.indigospot.com | starman.fathomdns.com |
-| iguana.senatevotes.us | starman.fathomdns.com |
 | iguana.vivere.co | starman.fathomdns.com |
 | ijogkae.churchserviceplanner.co.uk | starman.fathomdns.com |
 | impala.vnv.nl | starman.fathomdns.com |
@@ -1537,7 +1530,6 @@
 | koala.getslopes.com | starman.fathomdns.com |
 | koala.moontells.com | starman.fathomdns.com |
 | koala.mynestbox.co.uk | starman.fathomdns.com |
-| koala.readyfive.io | starman.fathomdns.com |
 | koi.artsvp.co | starman.fathomdns.com |
 | koi.fftf.cat | starman.fathomdns.com |
 | koi.henrydennis.dev | starman.fathomdns.com |
@@ -1591,7 +1583,6 @@
 | loon.davidalindahl.com | starman.fathomdns.com |
 | loon.energizer.asia | starman.fathomdns.com |
 | loon.jrmyfranck.com | starman.fathomdns.com |
-| loon.ohmyfunds.com | starman.fathomdns.com |
 | louse.16bit.it | starman.fathomdns.com |
 | louse.demaree.space | starman.fathomdns.com |
 | louse.seanconnolly.dev | starman.fathomdns.com |
@@ -1649,7 +1640,6 @@
 | mole.gostartupco.com | starman.fathomdns.com |
 | mole.rtbhouse.com | starman.fathomdns.com |
 | mole.vcntlee.com | starman.fathomdns.com |
-| mollusk.saferingz.com | starman.fathomdns.com |
 | mollusk.working.actor | starman.fathomdns.com |
 | mongoose.jasonlbeggs.com | starman.fathomdns.com |
 | mongoose.scrumgenius.com | starman.fathomdns.com |
@@ -1754,7 +1744,6 @@
 | platypus.zwei-bags.ch | starman.fathomdns.com |
 | polarbear.codeday.org | starman.fathomdns.com |
 | porcupine.dvresolve.com | starman.fathomdns.com |
-| porcupine.simpleprax.de | starman.fathomdns.com |
 | porpoise.azettl.net | starman.fathomdns.com |
 | porpoise.deschtimes.com | starman.fathomdns.com |
 | porpoise.fruittreecottage.com.au | starman.fathomdns.com |

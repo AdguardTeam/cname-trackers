@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -43,7 +43,6 @@ $TTL 300
 4444.sanjay44.xyz CNAME .
 4444.sieglinde22.xyz CNAME .
 4444.spinna.online CNAME .
-46dfs.juststreaming.tk CNAME .
 5475feaab.clicknplay.to CNAME .
 5555.spinna.online CNAME .
 58745.clicknplay.to CNAME .
@@ -104,7 +103,6 @@ a.memosaqee.com CNAME .
 a.misctool.xyz CNAME .
 a.muipe.xyz CNAME .
 a.myprettyads.one CNAME .
-a.p123p.com CNAME .
 a.pandaporner.com CNAME .
 a.pinayviralsexx.com CNAME .
 a.pinoymoviepedia.ru CNAME .
@@ -132,6 +130,7 @@ a.zillastream.com CNAME .
 a.zvert.xyz CNAME .
 a5g.oves.biz CNAME .
 a9o.youlikeboys.com CNAME .
+aa.4wank.com CNAME .
 aa.zerg.pro CNAME .
 aaa.sieglinde22.xyz CNAME .
 aab.faperoni.com CNAME .
@@ -153,6 +152,7 @@ addin.icu CNAME .
 adhand.icu CNAME .
 adilk.ilikecomix.com CNAME .
 ads.ad3d.icu CNAME .
+ads.ads-goodstream.homes CNAME .
 ads.crazyads.icu CNAME .
 ads.free-to.download CNAME .
 ads.gotxx.net CNAME .
@@ -381,6 +381,7 @@ help.fanza.cc CNAME .
 hero3.nude-asian-videos.com CNAME .
 hetaer.xyz CNAME .
 heyyou.spinna.shop CNAME .
+hjq9z7bw6f5tr3xe2yl8.giga-uqload.xyz CNAME .
 hoakz.xyz CNAME .
 hot.sexyadsrun.com CNAME .
 hotmovstore.com CNAME .
@@ -421,10 +422,10 @@ js.allporncomic.com CNAME .
 js.eroticmv.com CNAME .
 js.j8jp.com CNAME .
 js.manga1000.top CNAME .
+js.manga1001.win CNAME .
 js.mangajp.top CNAME .
 js.mangakl.su CNAME .
 js.mangalove.top CNAME .
-js.mangapro.top CNAME .
 js.phoenixmanga.com CNAME .
 js.syosetu.top CNAME .
 js.xemkqxs.com CNAME .
@@ -494,6 +495,7 @@ mylives.xyz CNAME .
 mziso.xyz CNAME .
 n.bloblohub.com CNAME .
 n.hnntube.com CNAME .
+n.hubhubhub.name CNAME .
 naiyoz.lol CNAME .
 nanbody.spinna.shop CNAME .
 nav.srcdn.xyz CNAME .
@@ -501,6 +503,7 @@ net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
 newdin.name CNAME .
 newhand.name CNAME .
+news.solitut.online CNAME .
 newtits.name CNAME .
 newzilla.name CNAME .
 ngbcrg3b.xn--ngbcrg3b.com CNAME .
@@ -517,6 +520,7 @@ notonthebedsheets.com CNAME .
 npbvqqkpuele.cdnvideo3.com CNAME .
 nx7.hdxxxclips.com CNAME .
 o.hotsextube.tv CNAME .
+o313o.com CNAME .
 o911o.com CNAME .
 oi.429men.com CNAME .
 oi.fapnado.com CNAME .
@@ -549,7 +553,6 @@ p.dfsnghhjhhhk.site CNAME .
 p.hgfdtujlknhkghf.site CNAME .
 p.strjuylfrjyk.site CNAME .
 p.upskirt.tv CNAME .
-p123p.com CNAME .
 pacaka.conxxx.pro CNAME .
 pakenta.xyz CNAME .
 pamtuea.xyz CNAME .
@@ -581,8 +584,8 @@ pre.pornuxaxa.com CNAME .
 puzzio.xyz CNAME .
 puzzoa.xyz CNAME .
 px9.nuderedtube.com CNAME .
+q.ikre.xyz CNAME .
 qhip.com CNAME .
-qoqv.com CNAME .
 qoutec.shop CNAME .
 qovua60gue.tubewolf.com CNAME .
 qsdr.mysunnylawn.com CNAME .
@@ -643,6 +646,7 @@ sgzhg.pornlovo.co CNAME .
 shenzo.xyz CNAME .
 shmeia.xyz CNAME .
 shukri.mwikace.com CNAME .
+shurku.mkace.net CNAME .
 sis.facesittingbbw.com CNAME .
 slit.lewd.rip CNAME .
 smart.sunporno.com CNAME .
@@ -673,6 +677,7 @@ tankiuz.xyz CNAME .
 tayrambo.lol CNAME .
 tb.turbocap.net CNAME .
 templa.xyz CNAME .
+tentubu.xyz CNAME .
 test.shrinkbit.in CNAME .
 test2.maxx.ddac.ru CNAME .
 testcommon.soundrussian.com CNAME .
@@ -705,6 +710,7 @@ vi1.prettytube.net CNAME .
 vid.prettytube.net CNAME .
 vivuple.xyz CNAME .
 vsx.hotpornfile.org CNAME .
+vuiluaz.xyz CNAME .
 vuruzy.xyz CNAME .
 vuwjv7sjvg7.zedporn.com CNAME .
 vv.7vid.net CNAME .
@@ -718,14 +724,12 @@ www.antiadblock.info CNAME .
 www.b.hubhubhub.name CNAME .
 www.bigboy.monster CNAME .
 www.bloblohub.com CNAME .
-www.cinemahd.top CNAME .
 www.f.bloblohub.com CNAME .
 www.go.ss-n-30.com CNAME .
 www.hq3x.com CNAME .
 www.javtvnow.xyz CNAME .
 www.letstry69.xyz CNAME .
 www.monsoonlassi.com CNAME .
-www.p123p.com CNAME .
 www.pelisestreno.cc CNAME .
 www.pleasedonotblockme.com CNAME .
 www.pornvideos.casa CNAME .
@@ -771,4 +775,5 @@ zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 zzzzaaa.baijav.com CNAME .
 ad.desibp.com CNAME .
-o313o.com CNAME .
+qoqv.com CNAME .
+www.p123p.com CNAME .

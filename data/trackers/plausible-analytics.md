@@ -104,7 +104,6 @@
 | counter.subtitlebee.com | custom.plausible.io |
 | counter.websitevoice.com | custom.plausible.io |
 | cp.phiilu.com | custom.plausible.io |
-| data.blog.swicket.io | custom.plausible.io |
 | datum.appfleet.com | custom.plausible.io |
 | ds.webprojectslab.com | custom.plausible.io |
 | eliteclng.ericksonbuilt.com | custom.plausible.io |
@@ -388,7 +387,6 @@
 | stats.amiibo.life | custom.plausible.io |
 | stats.andrewlevinson.me | custom.plausible.io |
 | stats.appcessible.org | custom.plausible.io |
-| stats.arma.coffee | custom.plausible.io |
 | stats.arquido.com | custom.plausible.io |
 | stats.artisansfiables.fr | custom.plausible.io |
 | stats.artistchristinacarmel.com | custom.plausible.io |
@@ -946,7 +944,6 @@
 | stats.wymanmobilenotary.com | custom.plausible.io |
 | stats.xactcode.com | custom.plausible.io |
 | stats.xn--antnio-dxa.pt | custom.plausible.io |
-| stats.yourdallashandyman.com | custom.plausible.io |
 | stats.zimri.net | custom.plausible.io |
 | statystyki.ekspertyzy-szkolenia.pl | custom.plausible.io |
 | sts.authramp.com | custom.plausible.io |

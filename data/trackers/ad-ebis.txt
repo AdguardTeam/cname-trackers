@@ -79,6 +79,7 @@
 ||adebis.livable.co.jp^
 ||adebis.logoshome.jp^
 ||adebis.mizunomori.com^
+||adebis.muscledeli.jp^
 ||adebis.no.01.alo-organic.com^
 ||adebis.nursery.co.jp^
 ||adebis.o-baby.net^
@@ -189,7 +190,6 @@
 ||ebis.belta.co.jp^
 ||ebis.biyo-job.com^
 ||ebis.bulk.co.jp^
-||ebis.c-3-esthe.com^
 ||ebis.care-tensyoku.com^
 ||ebis.ce-parfait.com^
 ||ebis.codecamp.jp^
@@ -270,7 +270,6 @@
 ||isebis.yutoriform.com^
 ||itp.phoebebeautyup.com^
 ||itpebis03.recella3d.com^
-||kyoufukudoucname.worldsmile.net^
 ||marketing.biz.mynavi.jp^
 ||marketing.zwei.com^
 ||matsubun.matsubun.com^

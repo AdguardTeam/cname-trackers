@@ -514,7 +514,6 @@ a8clk.guruyaku.jp
 a8clk.hags-ec.com
 a8clk.hikakaku.com
 a8clk.hikarinobe.com
-a8clk.hoken-hikaku.jpn.com
 a8clk.hoken-minaoshi-lab.jp
 a8clk.hokennews.jp
 a8clk.hom.adebtt.info
@@ -778,7 +777,6 @@ a8cv.atami-box.com
 a8cv.atgp.jp
 a8cv.auhikari-bykddi.com
 a8cv.b-concept.tokyo
-a8cv.b-e-l.jp
 a8cv.b-noix.jp
 a8cv.babybjorn.jp
 a8cv.baku-art.jp

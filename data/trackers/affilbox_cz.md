@@ -7,6 +7,7 @@
 ### Rarely active trackers
 
 * c4924.affilbox.cz
+* affiliatesit.cz
 * c771.affilbox.cz
 * c4670.affilbox.cz
 
@@ -14,6 +15,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| login.affiliatesit.cz | affiliatesit.cz |
 | partner.topforteam.cz | c4670.affilbox.cz |
 | affiliate.kulturistika.com | c4924.affilbox.cz |
 | partner.janapekna.cz | c771.affilbox.cz |
@@ -317,7 +319,6 @@
 | isicpartner.mamechut.cz | cz.affilbox.cz |
 | kaocko.swaglift.com | cz.affilbox.cz |
 | lhota.stanicezoo.cz | cz.affilbox.cz |
-| login.affiliatesit.cz | cz.affilbox.cz |
 | money.mioweb.cz | cz.affilbox.cz |
 | my.11teamsports.bg | cz.affilbox.cz |
 | my.11teamsports.com | cz.affilbox.cz |
@@ -447,7 +448,6 @@
 | partner.artmasteracademy.cz | cz.affilbox.cz |
 | partner.astaxanthincz.cz | cz.affilbox.cz |
 | partner.avetour.cz | cz.affilbox.cz |
-| partner.azada.cz | cz.affilbox.cz |
 | partner.babysigns.cz | cz.affilbox.cz |
 | partner.bandana.cz | cz.affilbox.cz |
 | partner.barnaby.cz | cz.affilbox.cz |
@@ -673,7 +673,6 @@
 | partner.stavario.com | cz.affilbox.cz |
 | partner.stickersmakers.com | cz.affilbox.cz |
 | partner.strendem.cz | cz.affilbox.cz |
-| partner.stromkyonline.cz | cz.affilbox.cz |
 | partner.summermyles.cz | cz.affilbox.cz |
 | partner.susenepochoutky.cz | cz.affilbox.cz |
 | partner.susmevem.com | cz.affilbox.cz |
@@ -881,6 +880,7 @@
 | provize.pracenasobe.cz | cz.affilbox.cz |
 | provize.radynacestu.cz | cz.affilbox.cz |
 | provize.rychle-pujcky-bez-registru.cz | cz.affilbox.cz |
+| provize.snubni-prsten.cz | cz.affilbox.cz |
 | provize.vybavenifitness.cz | cz.affilbox.cz |
 | provize.wugi.cz | cz.affilbox.cz |
 | provize.zazitkovelety.cz | cz.affilbox.cz |

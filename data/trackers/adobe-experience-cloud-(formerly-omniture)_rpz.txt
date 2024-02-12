@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -294,7 +294,6 @@ mdws.samplecu.com CNAME .
 mdws.sdcu.com CNAME .
 mdws.shellcu.com CNAME .
 mdws.southwestcu.com CNAME .
-mdws.sprucecu.bc.ca CNAME .
 mdws.stellamariscreditu.com CNAME .
 mdws.sudburycu.com CNAME .
 mdws.sunshineccu.com CNAME .
@@ -424,6 +423,7 @@ metric.worldcat.org CNAME .
 metric.yp.com CNAME .
 metrics.3838.com CNAME .
 metrics.abbott.co.in CNAME .
+metrics.abbott.co.jp CNAME .
 metrics.abbott.com CNAME .
 metrics.abbottfamily.co.id CNAME .
 metrics.academy.com CNAME .
@@ -476,7 +476,6 @@ metrics.cardizemla.com CNAME .
 metrics.care.com CNAME .
 metrics.career-education.monster.com CNAME .
 metrics.carnival.co.uk CNAME .
-metrics.cartoonnetworkla.com CNAME .
 metrics.carzone.ie CNAME .
 metrics.cbc.ca CNAME .
 metrics.cgu.com.au CNAME .
@@ -621,6 +620,7 @@ metrics.langhamhotels.com CNAME .
 metrics.learning.monster.com CNAME .
 metrics.learningcurve.com CNAME .
 metrics.lexusofqueens.com CNAME .
+metrics.lexusofwarwick.com CNAME .
 metrics.lorealparisusa.com CNAME .
 metrics.m.abbottnutrition.com CNAME .
 metrics.madeformums.com CNAME .
@@ -676,6 +676,7 @@ metrics.nycgo.com CNAME .
 metrics.nylexpress.com CNAME .
 metrics.nysdot.gov CNAME .
 metrics.oanda.com CNAME .
+metrics.oclc.org CNAME .
 metrics.ogilvy.com CNAME .
 metrics.omniture.com CNAME .
 metrics.onecall.com CNAME .
@@ -775,6 +776,7 @@ metrics.tescobank.com CNAME .
 metrics.teveten-us.com CNAME .
 metrics.thedailybeast.com CNAME .
 metrics.thefa.com CNAME .
+metrics.thenation.com CNAME .
 metrics.thingsremembered.com CNAME .
 metrics.thomasandfriends.com CNAME .
 metrics.thomastrackmaster.com CNAME .
@@ -815,6 +817,7 @@ metrics.visitflorida.com CNAME .
 metrics.vividseats.com CNAME .
 metrics.vocus.com CNAME .
 metrics.volusion.com CNAME .
+metrics.vrvm.com CNAME .
 metrics.vueling.com CNAME .
 metrics.walmart.com CNAME .
 metrics.walmartmoneycard.com CNAME .
@@ -830,6 +833,7 @@ metrics.wnba.com CNAME .
 metrics.wolterskluwer.com CNAME .
 metrics.womansday.com CNAME .
 metrics.worldvision.org CNAME .
+metrics.wwltv.com CNAME .
 metrics.www.apus.edu CNAME .
 metrics.wyndhamtrips.com CNAME .
 metrics.ybs.co.uk CNAME .
@@ -842,7 +846,6 @@ metricssecure.nmfn.com CNAME .
 metricssecure.northwesternmutual.com CNAME .
 metrix.511tactical.com CNAME .
 metrix.avon.uk.com CNAME .
-minerva.healthcommunities.com CNAME .
 mix-omniture.rbs.com CNAME .
 mixomniture.rbs.com CNAME .
 mtrcs.popcap.com CNAME .
@@ -887,6 +890,7 @@ ocs.hagerty.com CNAME .
 oimg.nbcsports.com CNAME .
 om.abritel.fr CNAME .
 om.aopa.org CNAME .
+om.blockbuster.com CNAME .
 om.burberry.com CNAME .
 om.cyberrentals.com CNAME .
 om.escapehomes.com CNAME .
@@ -993,6 +997,7 @@ s.hdsupplysolutions.com CNAME .
 sa.bankofinternet.com CNAME .
 sa.fchp.org CNAME .
 sa.tactics.com CNAME .
+sace.aaa.com CNAME .
 sadobe.homecenter.com.co CNAME .
 sadobe.mercuryinsurance.com CNAME .
 sadobe.sodimac.com.ar CNAME .
@@ -1216,6 +1221,7 @@ smetrics.columbia.com CNAME .
 smetrics.combinedinsurance.com CNAME .
 smetrics.comphealth.com CNAME .
 smetrics.condodirect.com CNAME .
+smetrics.coolibar.com CNAME .
 smetrics.costco.ca CNAME .
 smetrics.countryfinancialsecurityblog.com CNAME .
 smetrics.cpsenergy.com CNAME .
@@ -1348,6 +1354,7 @@ smetrics.mindjet.com CNAME .
 smetrics.miniusa.com CNAME .
 smetrics.mitracliphospitalkit.com CNAME .
 smetrics.miumiu.com CNAME .
+smetrics.modells.com CNAME .
 smetrics.modernpostcard.com CNAME .
 smetrics.mondex.com CNAME .
 smetrics.moneymarketing.co.uk CNAME .
@@ -1514,6 +1521,7 @@ smetrics.toysrus.es CNAME .
 smetrics.trammellcrow.com CNAME .
 smetrics.travelodge.com CNAME .
 smetrics.trivantis.com CNAME .
+smetrics.truevalue.com CNAME .
 smetrics.tsn.ca CNAME .
 smetrics.turner.com CNAME .
 smetrics.unicefusa.org CNAME .
@@ -1640,6 +1648,7 @@ sstats.economist.com CNAME .
 sstats.emersonecologics.com CNAME .
 sstats.epocrates.com CNAME .
 sstats.fhb.com CNAME .
+sstats.franklincovey.com CNAME .
 sstats.gibson.com CNAME .
 sstats.gohealthinsurance.com CNAME .
 sstats.governmentcontractsusa.com CNAME .
@@ -1865,6 +1874,7 @@ tracking.brice.fr CNAME .
 tracking.omniture.nt.se CNAME .
 tracking.trutv.com CNAME .
 ucmetrics.hypovereinsbank.de CNAME .
+unav.mycollegeoptions.org CNAME .
 ut.iggroup.com CNAME .
 value.register.com CNAME .
 visitor.novartisoncology.us CNAME .
@@ -2224,6 +2234,7 @@ zmetrics.msn.com CNAME .
 131-7269.tt.omtrdc.net CNAME .
 1310news.com.ssl.sc.tt.omtrdc.net CNAME .
 13127.client.tt.omtrdc.net CNAME .
+1313news.com.ssl.sc.tt.tt.omtrdc.net CNAME .
 131ai.tt.omtrdc.net CNAME .
 1324netclass.tt.omtrdc.net CNAME .
 133-mya.tt.omtrdc.net CNAME .
@@ -2267,6 +2278,7 @@ zmetrics.msn.com CNAME .
 150.45.87.133rtl.hb.tt.omtrdc.net CNAME .
 150dollar.tt.omtrdc.net CNAME .
 150fgraph.tt.omtrdc.net CNAME .
+151citynews.com.ssl.sc.tt.tt.omtrdc.net CNAME .
 152.33adobecorp.hb.tt.omtrdc.net CNAME .
 153354.sites.tt.omtrdc.net CNAME .
 154le.tt.omtrdc.net CNAME .
@@ -2293,6 +2305,7 @@ zmetrics.msn.com CNAME .
 161-129.tt.omtrdc.net CNAME .
 161-62.tt.omtrdc.net CNAME .
 1610448.group48.sites.tt.omtrdc.net CNAME .
+1615alive.com.ssl.sc.tt.tt.omtrdc.net CNAME .
 162022bclan8.us.tt.omtrdc.net CNAME .
 16204362014.tt.omtrdc.net CNAME .
 16215162014.tt.omtrdc.net CNAME .
@@ -2325,6 +2338,7 @@ zmetrics.msn.com CNAME .
 17-58-106-78.tt.omtrdc.net CNAME .
 17-heartbeats.hb.tt.omtrdc.net CNAME .
 17.179abcnews.hb-api.tt.omtrdc.net CNAME .
+17.180abcnews.hb-api.tt.omtrdc.net CNAME .
 17.182abcnews.hb-api.tt.omtrdc.net CNAME .
 17.182abcotv.hb-api.tt.omtrdc.net CNAME .
 17.182adobecorp.hb-api.tt.omtrdc.net CNAME .
@@ -2384,6 +2398,7 @@ zmetrics.msn.com CNAME .
 17.242dowjones.hb.tt.omtrdc.net CNAME .
 17.242espn.hb-api.tt.omtrdc.net CNAME .
 17.242ewscripps.hb.tt.omtrdc.net CNAME .
+17.242foxentertainment.hb.tt.omtrdc.net CNAME .
 17.242metlife.hb.tt.omtrdc.net CNAME .
 17.242mtv.hb.tt.omtrdc.net CNAME .
 17.242nascardigitalsap.hb.tt.omtrdc.net CNAME .
@@ -2506,6 +2521,7 @@ zmetrics.msn.com CNAME .
 1crackle.hb.tt.omtrdc.net CNAME .
 1degree.com.au.sc.tt.omtrdc.net CNAME .
 1degree.com.au.ssl.sc.tt.omtrdc.net CNAME .
+1dental.d.ssl.tt.omtrdc.net CNAME .
 1desk-uat.tt.omtrdc.net CNAME .
 1fz1swxdb22g.tt.omtrdc.net CNAME .
 1gcents1.digitalpublishing.tt.omtrdc.net CNAME .
@@ -2556,6 +2572,7 @@ zmetrics.msn.com CNAME .
 207-171-180-20.tt.omtrdc.net CNAME .
 207-171-184-103.tt.omtrdc.net CNAME .
 207171-168-254.tt.omtrdc.net CNAME .
+207171-182-4.tt.tt.omtrdc.net CNAME .
 207171-182-8.tt.omtrdc.net CNAME .
 20851475.group45.sites.tt.omtrdc.net CNAME .
 209.tt.omtrdc.net CNAME .
@@ -2583,6 +2600,7 @@ zmetrics.msn.com CNAME .
 213-238-234-196.customers.tt.omtrdc.net CNAME .
 213-238-252-55.customers.tt.omtrdc.net CNAME .
 213-static.tt.omtrdc.net CNAME .
+2131.tt.tt.omtrdc.net CNAME .
 214-99.tt.omtrdc.net CNAME .
 21500104812sm9505491.hb-fa-dev.tt.omtrdc.net CNAME .
 216.88.110.63.torrance.google-ggc.tt.omtrdc.net CNAME .
@@ -2591,6 +2609,7 @@ zmetrics.msn.com CNAME .
 218.230.127.209.bc.tt.omtrdc.net CNAME .
 2189837.group37.sites.tt.omtrdc.net CNAME .
 219.v1.athena.tt.omtrdc.net CNAME .
+2191c.tt.tt.omtrdc.net CNAME .
 21935wma.tt.omtrdc.net CNAME .
 21959443.tt.omtrdc.net CNAME .
 21nova.com.ssl.ldc.d3.sc.tt.omtrdc.net CNAME .
@@ -2602,6 +2621,7 @@ zmetrics.msn.com CNAME .
 2216360.group10.sites.tt.omtrdc.net CNAME .
 2218.ddns.tt.omtrdc.net CNAME .
 22285302.tt.omtrdc.net CNAME .
+2234.tt.tt.omtrdc.net CNAME .
 224-129.canary.tt.omtrdc.net CNAME .
 2243.kb.tt.omtrdc.net CNAME .
 224netclass.tt.omtrdc.net CNAME .
@@ -2772,6 +2792,7 @@ zmetrics.msn.com CNAME .
 2izeagitt6zpolk7.sparta.members.tt.omtrdc.net CNAME .
 2ldlg1zg8c95mio3.aetv.hb.tt.omtrdc.net CNAME .
 2matgo.tt.omtrdc.net CNAME .
+2of-familycareers-n-ofcdnsrv.hb-api.tt.omtrdc.net CNAME .
 2officelooku.mop.tt.omtrdc.net CNAME .
 2pacess.digitalpublishing.tt.omtrdc.net CNAME .
 2pron-csg-at-stg-injp.hb-api.tt.omtrdc.net CNAME .
@@ -2904,6 +2925,7 @@ zmetrics.msn.com CNAME .
 32.18.182abcnews.hb-api.tt.omtrdc.net CNAME .
 32.20.182abcnews.hb-api.tt.omtrdc.net CNAME .
 320zyxwvutsrqponmlkj.digitalpublishing.tt.omtrdc.net CNAME .
+321es8.tt.tt.omtrdc.net CNAME .
 324a0s594bvtlub1.anima.tt.omtrdc.net CNAME .
 324a0s594bvtlub1.comune.tt.omtrdc.net CNAME .
 32656.client.tt.omtrdc.net CNAME .
@@ -2934,6 +2956,7 @@ zmetrics.msn.com CNAME .
 35-dev.tt.omtrdc.net CNAME .
 35.17.182abcnews.hb-api.tt.omtrdc.net CNAME .
 352833-web5.tt.omtrdc.net CNAME .
+352suisses.tt.tt.omtrdc.net CNAME .
 3531597.group47.sites.tt.omtrdc.net CNAME .
 35659faweb.tt.omtrdc.net CNAME .
 357-9-69.tt.omtrdc.net CNAME .
@@ -2945,6 +2968,7 @@ zmetrics.msn.com CNAME .
 360bound.tt.omtrdc.net CNAME .
 360mrealestate.tt.omtrdc.net CNAME .
 360training.tt.omtrdc.net CNAME .
+361m-staging.tt.tt.omtrdc.net CNAME .
 3651b.art.tt.omtrdc.net CNAME .
 36ls.tt.omtrdc.net CNAME .
 370853.sites.tt.omtrdc.net CNAME .
@@ -3124,6 +3148,7 @@ zmetrics.msn.com CNAME .
 6.24bizjournals.hb.tt.omtrdc.net CNAME .
 6.hr.tt.omtrdc.net CNAME .
 60.91.230pluralsight.hb.tt.omtrdc.net CNAME .
+601.tt.tt.omtrdc.net CNAME .
 60dgai.tt.omtrdc.net CNAME .
 61.mail.tt.omtrdc.net CNAME .
 61a4695f-d195-4340-af05-9db524542355.ssb.tt.omtrdc.net CNAME .
@@ -3623,6 +3648,7 @@ aa-merch.hb-fa-stage.tt.omtrdc.net CNAME .
 aa-mock-box.hb-fa-stage.tt.omtrdc.net CNAME .
 aa-mock-c.hb-fa-stage.tt.omtrdc.net CNAME .
 aa-mock-cdn.hb-fa-stage.tt.omtrdc.net CNAME .
+aa-mock-ci.hb-fa-stage.tt.omtrdc.net CNAME .
 aa-mock-cn.hb-fa-stage.tt.omtrdc.net CNAME .
 aa-mock-developer.hb-fa-stage.tt.omtrdc.net CNAME .
 aa-mock-ghcpi.hb-fa-stage.tt.omtrdc.net CNAME .
@@ -3663,6 +3689,7 @@ aa.corpaa.tt.omtrdc.net CNAME .
 aa.db-finanzberatung.de CNAME .
 aa.deutsche-bank.de CNAME .
 aa.f5.com.ssl.sc.tt.omtrdc.net CNAME .
+aa.kyoceradocumentsolutions.com CNAME .
 aa.maxblue.de CNAME .
 aa.norisbank.de CNAME .
 aa.postbank.de CNAME .
@@ -3677,6 +3704,7 @@ aaa002.tt.omtrdc.net CNAME .
 aaaautopoznan-poz-gorzow.tt.omtrdc.net CNAME .
 aaacarolinasnewmedia.hb.tt.omtrdc.net CNAME .
 aaanortheast.tt.omtrdc.net CNAME .
+aaas-51c.tt.tt.omtrdc.net CNAME .
 aaas.tt.omtrdc.net CNAME .
 aaasouth.com.sc.tt.omtrdc.net CNAME .
 aaat.2ndstreet.jp CNAME .
@@ -3747,6 +3775,7 @@ abae342008109fe66e03bbc65d85200a.hb-fa-dev.tt.omtrdc.net CNAME .
 abakus47.tt.omtrdc.net CNAME .
 abalonepoland-sun.tt.omtrdc.net CNAME .
 abanca.tt.omtrdc.net CNAME .
+abanca42.tt.tt.omtrdc.net CNAME .
 abasetst.-perf.tt.omtrdc.net CNAME .
 abasetstuat.marrs3hqsit.tt.omtrdc.net CNAME .
 abasystems.tt.omtrdc.net CNAME .
@@ -3768,6 +3797,7 @@ abc.hb-api.omtrdc.netabc.hb-api.tt.omtrdc.net CNAME .
 abc.hb-api.tt.omtrdc.net CNAME .
 abc.szo.tt.omtrdc.net CNAME .
 abcam.tt.omtrdc.net CNAME .
+abcnews-npcanada.tt.tt.omtrdc.net CNAME .
 abcnews.abbottlaboratories.tt.omtrdc.net CNAME .
 abcnews.hb-api.tt.omtrdc.net CNAME .
 abcnews.tt.omtrdc.net CNAME .
@@ -3803,6 +3833,7 @@ ablink1774.sender.sender.tt.omtrdc.net CNAME .
 abmeldung.information.o2.de CNAME .
 abnamro.tt.omtrdc.net CNAME .
 abnamro.tt.tt.omtrdc.net CNAME .
+abnamro023-1.tt.tt.omtrdc.net CNAME .
 about-aem-uat.tt.omtrdc.net CNAME .
 about104.tt.omtrdc.net CNAME .
 aboutawww.sg.tt.omtrdc.net CNAME .
@@ -3812,6 +3843,7 @@ abperfumes.tt.omtrdc.net CNAME .
 abphonetics.tt.omtrdc.net CNAME .
 abqis8.tt.omtrdc.net CNAME .
 abrahan.tt.omtrdc.net CNAME .
+abrahan00.tt.tt.omtrdc.net CNAME .
 abrantes-lisboa.loja.tt.omtrdc.net CNAME .
 abrdmd92d01pure02a.tt.omtrdc.net CNAME .
 abrdmdd13fi01b.tt.omtrdc.net CNAME .
@@ -3833,6 +3865,7 @@ abt.bauhaus.info CNAME .
 abt.nike.com CNAME .
 abt.nl.bauhaus CNAME .
 abt76.tt.omtrdc.net CNAME .
+abtetrapak-72.tt.tt.tt.omtrdc.net CNAME .
 abtetrapak.tt.omtrdc.net CNAME .
 abuse-seattle.tt.omtrdc.net CNAME .
 abvzvjegrz.aarp.hb.tt.omtrdc.net CNAME .
@@ -3863,6 +3896,7 @@ acadian52.tt.omtrdc.net CNAME .
 acadian61.tt.omtrdc.net CNAME .
 acadpartnershipsllc.tt.omtrdc.net CNAME .
 acag-qual.tt.omtrdc.net CNAME .
+acahelpdesk-212.tt.tt.omtrdc.net CNAME .
 acahelpdesk.tt.omtrdc.net CNAME .
 acanolab.tt.omtrdc.net CNAME .
 acapi-8.onlineauth.prod.tt.omtrdc.net CNAME .
@@ -3998,6 +4032,7 @@ ach-aks-dns-7225b436.hb-fa-dev.tt.omtrdc.net CNAME .
 ach-int-2.tt.omtrdc.net CNAME .
 achalert-api.adfs.tt.omtrdc.net CNAME .
 acheter.tt.omtrdc.net CNAME .
+achetercompany.tt.tt.omtrdc.net CNAME .
 achodbase.tt.omtrdc.net CNAME .
 acima.tt.omtrdc.net CNAME .
 acipa-sindipa.hb-fa-dev.tt.omtrdc.net CNAME .
@@ -4033,8 +4068,10 @@ acs-storage-scan-us.hb-fa-dev.tt.omtrdc.net CNAME .
 acs.woolworths.com.au CNAME .
 acs005test.hb-fa-dev.tt.omtrdc.net CNAME .
 acscrowd.hb-fa-dev.tt.omtrdc.net CNAME .
+acsg-at-stg-services1-amla.hb-api.tt.omtrdc.net CNAME .
 acsie-eliorsp.hb-fa-dev.tt.omtrdc.net CNAME .
 acspl2dal.tt.omtrdc.net CNAME .
+acswso-partner.tt.tt.omtrdc.net CNAME .
 acswso.tt.omtrdc.net CNAME .
 act.tt.omtrdc.net CNAME .
 actie-abonnement.voordeel.tt.omtrdc.net CNAME .
@@ -4081,6 +4118,7 @@ ad4-8.idmapper.api.api.tt.omtrdc.net CNAME .
 ad4ly3qhe8byekxd.tt.omtrdc.net CNAME .
 ad7620bd0d9457d2bfc6f8f000944845.hb-fa-dev.tt.omtrdc.net CNAME .
 ad90.idmapper.api.api.tt.omtrdc.net CNAME .
+ada2b8a78f7c4c29ad33cbd45d13f9df.hb-fa-dev.tt.omtrdc.net CNAME .
 adaa2-fix.ns.campaign.tt.omtrdc.net CNAME .
 adaccess-tst.tt.omtrdc.net CNAME .
 adadeh.tt.omtrdc.net CNAME .
@@ -4167,7 +4205,9 @@ adis.springer.com.iustlibrary.tt.omtrdc.net CNAME .
 adista.hb-fa-dev.tt.omtrdc.net CNAME .
 adityabirlafashion.hb.tt.omtrdc.net CNAME .
 adjweb3.hb-fa-dev.tt.omtrdc.net CNAME .
+adldigital-origin-aws.tt.tt.omtrdc.net CNAME .
 adldigital.tt.omtrdc.net CNAME .
+adm-lte.hb-fa-dev.tt.omtrdc.net CNAME .
 adm-nas.hb-fa-dev.tt.omtrdc.net CNAME .
 adm.cci-dev.tt.omtrdc.net CNAME .
 adm.hb.tt.omtrdc.net CNAME .
@@ -4271,6 +4311,7 @@ adobe.bupaglobal.com CNAME .
 adobe.sukoonglobalhealth.com CNAME .
 adobe.tt.omtrdc.net CNAME .
 adobe2568.hb-fa-dev.tt.omtrdc.net CNAME .
+adobe27.tt.tt.omtrdc.net CNAME .
 adobe3rdpartystores.tt.omtrdc.net CNAME .
 adobeanalytics.serveone.co.kr CNAME .
 adobecorp.develop.hb-api.tt.omtrdc.net CNAME .
@@ -4298,11 +4339,13 @@ adobeinternalags294.tt.omtrdc.net CNAME .
 adobeinternalags406.tt.omtrdc.net CNAME .
 adobeinternalags596.tt.omtrdc.net CNAME .
 adobeinternalags603.tt.tt.tt.omtrdc.net CNAME .
+adobeinternalags611.tt.tt.omtrdc.net CNAME .
 adobeinternalags640.tt.omtrdc.net CNAME .
 adobeinternalags821.tt.omtrdc.net CNAME .
 adobeinternalcustome.tt.omtrdc.net CNAME .
 adobeinternalmarcodi.tt.omtrdc.net CNAME .
 adobeinternalmobiles.tt.omtrdc.net CNAME .
+adobeintgrandscr.tt.omtrdc.net CNAME .
 adobeinthvateam.tt.omtrdc.net CNAME .
 adobeintlastmile.tt.omtrdc.net CNAME .
 adobeintmuditrastogi.tt.omtrdc.net CNAME .
@@ -4321,6 +4364,7 @@ adost.tt.omtrdc.net CNAME .
 adot.dot.tt.omtrdc.net CNAME .
 adp-total-source.tt.omtrdc.net CNAME .
 adp.tt.omtrdc.net CNAME .
+adp04.tt.tt.omtrdc.net CNAME .
 adpi.tt.omtrdc.net CNAME .
 adr-build1d96a58db39e837faos.hb-fa-dev.tt.omtrdc.net CNAME .
 adrao-viseu.tt.omtrdc.net CNAME .
@@ -4396,6 +4440,7 @@ aeda0077-4ec0-4c16-bb03-74db459e52a8.hb-fa-dev.tt.omtrdc.net CNAME .
 aeeg.tt.omtrdc.net CNAME .
 aefepool03.aefepl.tt.omtrdc.net CNAME .
 aeg-ss56-prod.hb-fa-dev.tt.omtrdc.net CNAME .
+aegon-1sc.tt.tt.omtrdc.net CNAME .
 aegon.tt.omtrdc.net CNAME .
 aegweb3.tt.omtrdc.net CNAME .
 aegweb84.tt.omtrdc.net CNAME .
@@ -4420,6 +4465,7 @@ aesproddmzctc-1.hb-fa-dev.tt.omtrdc.net CNAME .
 aesstaging.hb-fa-dev.tt.omtrdc.net CNAME .
 aetcstar.tt.omtrdc.net CNAME .
 aetna.tt.omtrdc.net CNAME .
+aetnapw-ee-np.tt.tt.omtrdc.net CNAME .
 aetv-accounts.hb.tt.omtrdc.net CNAME .
 aetv-brand.hb.tt.omtrdc.net CNAME .
 aetv-email.hb.tt.omtrdc.net CNAME .
@@ -4479,6 +4525,8 @@ afi3.hb-fa-dev.tt.omtrdc.net CNAME .
 afiliados-6.tt.omtrdc.net CNAME .
 afinest-upall.tt.omtrdc.net CNAME .
 afiweb.hb-fa-dev.tt.omtrdc.net CNAME .
+afmail-ntp2a.tt.tt.omtrdc.net CNAME .
+afmail-rol.tt.tt.omtrdc.net CNAME .
 afnext.tt.omtrdc.net CNAME .
 afo13bt.tt.omtrdc.net CNAME .
 afp-pappz.tt.omtrdc.net CNAME .
@@ -4491,6 +4539,7 @@ afriquoifive-d.tt.omtrdc.net CNAME .
 afs-dev1fa42c8ea9a0bbd38devpos.hb-fa-dev.tt.omtrdc.net CNAME .
 afspraakmaken-accept.hb-fa-dev.tt.omtrdc.net CNAME .
 aftercloud.tt.omtrdc.net CNAME .
+aftercloud003.tt.tt.omtrdc.net CNAME .
 aftonbladetnya.hb.tt.omtrdc.net CNAME .
 afxmr.tt.omtrdc.net CNAME .
 afyonmyo.tt.omtrdc.net CNAME .
@@ -4501,6 +4550,7 @@ againihear.tt.omtrdc.net CNAME .
 agape-docsa.tt.omtrdc.net CNAME .
 agaree-qara.cable.tt.omtrdc.net CNAME .
 agassi.hb-fa-dev.tt.omtrdc.net CNAME .
+agcocorp-sts.tt.tt.omtrdc.net CNAME .
 agdhrsrmis.tt.omtrdc.net CNAME .
 agdrive.hb-fa-dev.tt.omtrdc.net CNAME .
 agedcare-buildc4117ff5b771945baossoap.hb-fa-dev.tt.omtrdc.net CNAME .
@@ -4594,6 +4644,8 @@ aiesec0.tt.omtrdc.net CNAME .
 aigcom.tt.omtrdc.net CNAME .
 aiggeneralinsurance.tt.omtrdc.net CNAME .
 aigkorea.tt.omtrdc.net CNAME .
+aihcc001.tt.tt.omtrdc.net CNAME .
+aihcc04.tt.tt.omtrdc.net CNAME .
 aihxjs3iey3sg.sparta.members.tt.omtrdc.net CNAME .
 aihxjs5edlsk4sg6.sparta.members.tt.omtrdc.net CNAME .
 aiib-main-app-azuresa101-live.hb-fa-dev.tt.omtrdc.net CNAME .
@@ -4642,7 +4694,9 @@ airtable403.tt.omtrdc.net CNAME .
 airteltv.hb-fa-dev.tt.omtrdc.net CNAME .
 airui-us-east-2-1.sandbox.tt.omtrdc.net CNAME .
 airware-action.tt.omtrdc.net CNAME .
+ais-3.tt.tt.omtrdc.net CNAME .
 ais.tt.omtrdc.net CNAME .
+ais5c.tt.tt.omtrdc.net CNAME .
 aishu.ginkens.sa.tt.omtrdc.net CNAME .
 aisli.hb-fa-dev.tt.omtrdc.net CNAME .
 aispmatch-tw.hb-fa-dev.tt.omtrdc.net CNAME .
@@ -4724,6 +4778,7 @@ akro-exc.hb-fa-dev.tt.omtrdc.net CNAME .
 akromar-stal.start.tt.omtrdc.net CNAME .
 akrpaecntq.www.abcotv.hb.tt.omtrdc.net CNAME .
 akrs.hb-fa-dev.tt.omtrdc.net CNAME .
+aks-07d2a406.hb-fa-dev.tt.omtrdc.net CNAME .
 aks-17e64401.hb-fa-dev.tt.omtrdc.net CNAME .
 aks-245890-azure-24589089-r-6ad05a-8b3314f6.hb-fa-dev.tt.omtrdc.net CNAME .
 aks-262585-azure-26258523-r-c29acb-cb516f52.hb-fa-dev.tt.omtrdc.net CNAME .
@@ -4802,6 +4857,7 @@ alaska-dev22.tt.omtrdc.net CNAME .
 alaskaairlines.tt.omtrdc.net CNAME .
 alb-image.hb-fa-dev.tt.omtrdc.net CNAME .
 alb-myquote-mo.hb-fa-dev.tt.omtrdc.net CNAME .
+alb.tt.tt.omtrdc.net CNAME .
 alba122.tt.omtrdc.net CNAME .
 albamoda-akamai.tt.omtrdc.net CNAME .
 albardeiros-online.tt.omtrdc.net CNAME .
@@ -4823,6 +4879,7 @@ aldavs.tcp.hb-api.tt.omtrdc.net CNAME .
 aldiautah-companyx.tt.omtrdc.net CNAME .
 aldighierisrl.hb-fa-dev.tt.omtrdc.net CNAME .
 aldinord.tt.omtrdc.net CNAME .
+aldinord42.tt.tt.omtrdc.net CNAME .
 aldisued.hb-api.tt.omtrdc.net CNAME .
 aldisued.tt.omtrdc.net CNAME .
 ale-dev-bld-3b0f766404287ad3faos.hb-fa-dev.tt.omtrdc.net CNAME .
@@ -4880,6 +4937,7 @@ aliciaonheart.tt.omtrdc.net CNAME .
 alimlerdenguzelsozler.tt.omtrdc.net CNAME .
 aliorlifedirect.tt.omtrdc.net CNAME .
 alisonyip.hb-fa-dev.tt.omtrdc.net CNAME .
+alitalia-stg.tt.tt.omtrdc.net CNAME .
 alitalia.tt.omtrdc.net CNAME .
 aliteralgrizzlybear.tt.omtrdc.net CNAME .
 aljacome122.tt.omtrdc.net CNAME .
@@ -4926,12 +4984,14 @@ amagcorporate.tt.omtrdc.net CNAME .
 amaguiznewmedia.hb.tt.omtrdc.net CNAME .
 amaken.tt.omtrdc.net CNAME .
 amaroso.tt.omtrdc.net CNAME .
+amarosomacyss.tt.tt.omtrdc.net CNAME .
 amaxinsurance.tt.omtrdc.net CNAME .
 amazonfreight.tt.omtrdc.net CNAME .
 amazonservicesllc.tt.omtrdc.net CNAME .
 amazonwebservices.tt.omtrdc.net CNAME .
 amazonwebservicesinc.tt.omtrdc.net CNAME .
 amazonwebstore.tt.omtrdc.net CNAME .
+amba-h1.tt.tt.omtrdc.net CNAME .
 amba.tt.omtrdc.net CNAME .
 ambiances-atypiques-decoration.tt.omtrdc.net CNAME .
 amcomtestjpmedia-en-apin.hb-api.tt.omtrdc.net CNAME .
@@ -4962,6 +5022,7 @@ amfaminsurance.tt.omtrdc.net CNAME .
 amh-aip-fe-gamma-pdx.tt.omtrdc.net CNAME .
 amica-pd3.tt.omtrdc.net CNAME .
 amica.tt.omtrdc.net CNAME .
+amless.tt.tt.omtrdc.net CNAME .
 ammailstoreuk-mvm-it-srv-shop.hb-api.tt.omtrdc.net CNAME .
 amplifongroup.tt.omtrdc.net CNAME .
 ampserviceslimited.tt.omtrdc.net CNAME .
@@ -4989,10 +5050,12 @@ analytics.cyrillus.com CNAME .
 analytics.cyrillus.de CNAME .
 analytics.cyrillus.fr CNAME .
 analytics.data.lloydsbankinggroup.com CNAME .
+analytics.directenergy.ca CNAME .
 analytics.directenergy.com CNAME .
 analytics.discountpowertx.com CNAME .
 analytics.egernsund.com CNAME .
 analytics.egernsund.de CNAME .
+analytics.fleetmentor.com CNAME .
 analytics.greenmountain.com CNAME .
 analytics.greenmountainenergy.com CNAME .
 analytics.hazeldenbettyford.org CNAME .
@@ -5093,6 +5156,7 @@ analyticsresults.datev.de CNAME .
 analyticsresults.dev.datev.de CNAME .
 analyticsresults.trialog-magazin.de CNAME .
 anaplan.tt.omtrdc.net CNAME .
+ancanitulescu.tt.omtrdc.net CNAME .
 andagar.tt.omtrdc.net CNAME .
 andrew-semple-florida.tt.omtrdc.net CNAME .
 andrewtsai.tt.omtrdc.net CNAME .
@@ -5123,6 +5187,7 @@ anessa.tt.omtrdc.net CNAME .
 anewuat-wserver-r-itssl.hb-api.tt.omtrdc.net CNAME .
 angara-swagger.tt.omtrdc.net CNAME .
 angara.tt.omtrdc.net CNAME .
+angara5c.tt.tt.omtrdc.net CNAME .
 angaraltd.tt.omtrdc.net CNAME .
 angels-sino.tt.omtrdc.net CNAME .
 angieslist.hb.tt.omtrdc.net CNAME .
@@ -5130,6 +5195,7 @@ angieslist.tt.omtrdc.net CNAME .
 angryorchardrocktheroots.tt.omtrdc.net CNAME .
 anheuserbusch.tt.omtrdc.net CNAME .
 animalitoshuerfanos.tt.omtrdc.net CNAME .
+anixterinc-staginga.tt.tt.omtrdc.net CNAME .
 anixterinc.tt.omtrdc.net CNAME .
 anjezhis.tt.omtrdc.net CNAME .
 anjunabeats.tt.omtrdc.net CNAME .
@@ -5194,6 +5260,7 @@ apex92.cbp.tt.omtrdc.net CNAME .
 apexprd.tt.omtrdc.net CNAME .
 apg.tt.omtrdc.net CNAME .
 apg02-fihaarob.dev.pedp-remote.tt.omtrdc.net CNAME .
+apg3.tt.omtrdc.net CNAME .
 apgea-131-92-76-20.tt.omtrdc.net CNAME .
 apgsplunkclustermasterazurejppreprod-events.test.tt.omtrdc.net CNAME .
 aphtooqahm.45.87.133vrt.hb.tt.omtrdc.net CNAME .
@@ -5540,8 +5607,12 @@ aquapark.tt.omtrdc.net CNAME .
 ar-integrationsb01.tt.omtrdc.net CNAME .
 ar-inw-g-ri-rinew.hb-api.tt.omtrdc.net CNAME .
 ar-l.hb-api.tt.omtrdc.net CNAME .
+ar-mobileprod-saa-sip-b-pro.hb-api.tt.omtrdc.net CNAME .
+ar-servicesnet-store-netip-cloudshop.hb-api.tt.omtrdc.net CNAME .
 ar-supportthe-prodapimxvpn-o.hb-api.tt.omtrdc.net CNAME .
 ar101.tt.omtrdc.net CNAME .
+ar38-alb-tyo2.tt.tt.omtrdc.net CNAME .
+ar38-tyo2-rds.tt.tt.omtrdc.net CNAME .
 aramarkservices.tt.omtrdc.net CNAME .
 aramisauto.hb.tt.omtrdc.net CNAME .
 aransc-autou.tt.omtrdc.net CNAME .
@@ -5600,6 +5671,7 @@ argusmart224martie.tt.omtrdc.net CNAME .
 arhelan02.tt.omtrdc.net CNAME .
 ari53.tt.omtrdc.net CNAME .
 ariba.tt.hb-fa-stage.tt.omtrdc.net CNAME .
+ariba002.tt.tt.omtrdc.net CNAME .
 arielww1kim.meraki-go.tt.omtrdc.net CNAME .
 aries00a0085.tt.omtrdc.net CNAME .
 aries42.tt.omtrdc.net CNAME .
@@ -5664,6 +5736,7 @@ arubatourismauthoritynewmedia.hb.tt.omtrdc.net CNAME .
 aruiyer3kim.dev.network-auth.tt.omtrdc.net CNAME .
 arumsuc.tt.omtrdc.net CNAME .
 arxada.tt.omtrdc.net CNAME .
+arxada003danmark.tt.tt.omtrdc.net CNAME .
 arz-rz-pruksa.ddns.tt.omtrdc.net CNAME .
 arz2vf.ddns.tt.omtrdc.net CNAME .
 as-fw14.tt.omtrdc.net CNAME .
@@ -5677,6 +5750,7 @@ as2.jobs.tt.omtrdc.net CNAME .
 as95.prod.cloud.prod.cloud.tt.omtrdc.net CNAME .
 asa.hb-api.tt.omtrdc.net CNAME .
 asadvent.hb.tt.omtrdc.net CNAME .
+asadventure-ntp.tt.tt.omtrdc.net CNAME .
 asadventure.tt.omtrdc.net CNAME .
 asahikaseimicrodevic.tt.omtrdc.net CNAME .
 asaini55.meraki-go.tt.omtrdc.net CNAME .
@@ -5685,6 +5759,7 @@ asbbankltd.tt.omtrdc.net CNAME .
 asbr01d.tm-sjc-1a.tt.omtrdc.net CNAME .
 asbr01i.tm-hkg-1a.tt.omtrdc.net CNAME .
 asco.hb-api.tt.omtrdc.net CNAME .
+ascom4jobs.tt.tt.omtrdc.net CNAME .
 asd.bauhaus.lu CNAME .
 asdissn3.sing.tt.omtrdc.net CNAME .
 asengage-hc.mediapark.tt.omtrdc.net CNAME .
@@ -5782,8 +5857,10 @@ astaz12.tt.omtrdc.net CNAME .
 astra-beta.corp.tt.omtrdc.net CNAME .
 astrazenecauklimited.tt.omtrdc.net CNAME .
 astrogempakpoc.hb-api.tt.omtrdc.net CNAME .
+astsoftware-stagingb.tt.tt.omtrdc.net CNAME .
 asu-darmstadt.tt.omtrdc.net CNAME .
 asurioninsuranceserv.tt.omtrdc.net CNAME .
+asustekcomputerinc-np-2.tt.tt.tt.omtrdc.net CNAME .
 asustekcomputerinc.tt.omtrdc.net CNAME .
 asw-csp-m.central.central.tt.omtrdc.net CNAME .
 asw-prod.gslb.tt.omtrdc.net CNAME .
@@ -5808,6 +5885,7 @@ atarget.firstrepublic.com CNAME .
 atarget.harley-davidson.com CNAME .
 atc14.tt.omtrdc.net CNAME .
 atc7date.tt.omtrdc.net CNAME .
+atcase340-us-2.tt.tt.omtrdc.net CNAME .
 atcase360-us-2.tt.omtrdc.net CNAME .
 atcogroup.tt.omtrdc.net CNAME .
 ate-mbx.tt.omtrdc.net CNAME .
@@ -5821,6 +5899,7 @@ athena-lwl.tt.omtrdc.net CNAME .
 athena-site.sso.unstable.tt.omtrdc.net CNAME .
 athenahealth.tt.omtrdc.net CNAME .
 athkjbazvp.242metlife.hb.tt.omtrdc.net CNAME .
+athlond.tt.tt.omtrdc.net CNAME .
 athome.tt.omtrdc.net CNAME .
 athoughtfuleye.tt.omtrdc.net CNAME .
 atl-prd-cd-02-vl2.tt.omtrdc.net CNAME .
@@ -5830,6 +5909,7 @@ atlantichealth.tt.omtrdc.net CNAME .
 atlas-0.a.tt.omtrdc.net CNAME .
 atlas-api-docs.tt.omtrdc.net CNAME .
 atlas-lb.buh.tt.omtrdc.net CNAME .
+atlas-rstest.tt.tt.omtrdc.net CNAME .
 atlas.tt.omtrdc.net CNAME .
 atlascopco.hb.tt.omtrdc.net CNAME .
 atlascopco.tt.omtrdc.net CNAME .
@@ -5861,6 +5941,7 @@ attservicesinc.tt.omtrdc.net CNAME .
 attsj1-rdc-dc1-7.hb.tt.omtrdc.net CNAME .
 atut-rol.tt.omtrdc.net CNAME .
 atvodafone-fpssl.tt.omtrdc.net CNAME .
+atvodafone-tan.tt.tt.omtrdc.net CNAME .
 atwin-gimp.lib.tt.omtrdc.net CNAME .
 atwww3-gw.tt.omtrdc.net CNAME .
 au-3-6.idmapper.api.api.tt.omtrdc.net CNAME .
@@ -5888,6 +5969,7 @@ audible.tt.omtrdc.net CNAME .
 audibleuk.tt.omtrdc.net CNAME .
 audica4-admin.tt.omtrdc.net CNAME .
 audicentrumrzeszow-online.tt.omtrdc.net CNAME .
+audichina-dal-aws.tt.tt.omtrdc.net CNAME .
 audicityplock6a.tt.omtrdc.net CNAME .
 audience.d.tt.omtrdc.net CNAME .
 audience.standardchartered.com.tw CNAME .
@@ -5994,6 +6076,7 @@ auto-mart.tt.omtrdc.net CNAME .
 auto-media.hb.tt.omtrdc.net CNAME .
 auto-mega-lech.tt.omtrdc.net CNAME .
 auto05c.tt.omtrdc.net CNAME .
+auto14.cdn.tt.omtrdc.net CNAME .
 auto23b.tt.omtrdc.net CNAME .
 auto3kola.tt.omtrdc.net CNAME .
 auto9.tt.omtrdc.net CNAME .
@@ -6108,6 +6191,7 @@ autorestelo-car.tt.omtrdc.net CNAME .
 autorobi-lech.tt.omtrdc.net CNAME .
 autos-andar.tt.omtrdc.net CNAME .
 autoscout24.it.d1.sc.tt.omtrdc.net CNAME .
+autoscout24.nl.d1.sc.tt.omtrdc.net CNAME .
 autoserwa-astra.tt.omtrdc.net CNAME .
 autoserwice-barnowko-service.tt.omtrdc.net CNAME .
 autoserwis-servis.autotraf-rol.tt.omtrdc.net CNAME .
@@ -6166,6 +6250,7 @@ avivafrance.tt.omtrdc.net CNAME .
 avivafrance.tt.tt.omtrdc.net CNAME .
 avivaie.tt.omtrdc.net CNAME .
 avivainvestors.tt.omtrdc.net CNAME .
+avivainvestors71.tt.tt.omtrdc.net CNAME .
 avivaireland.tt.omtrdc.net CNAME .
 avivapl.tt.omtrdc.net CNAME .
 avivauk.tt.omtrdc.net CNAME .
@@ -6202,6 +6287,7 @@ axageneralinsurancec.tt.omtrdc.net CNAME .
 axagroupsolutions.tt.omtrdc.net CNAME .
 axatechnologyservice.tt.omtrdc.net CNAME .
 axisbank.tt.omtrdc.net CNAME .
+axisbank8a.tt.tt.omtrdc.net CNAME .
 axp.8newsnow.com CNAME .
 axp.abc27.com CNAME .
 axp.abc4.com CNAME .
@@ -6359,6 +6445,8 @@ b31557a295cc71323f6e8de5c673a0ed.tt.omtrdc.net CNAME .
 b4uomzctw02.tt.omtrdc.net CNAME .
 b63ww.click.klantacties.tt.omtrdc.net CNAME .
 b8.i44.tt.omtrdc.net CNAME .
+ba-pages.tt.tt.omtrdc.net CNAME .
+ba-sres.tt.tt.omtrdc.net CNAME .
 ba.tt.omtrdc.net CNAME .
 baa12c.st.tt.omtrdc.net CNAME .
 babelio.tt.omtrdc.net CNAME .
@@ -6386,6 +6474,7 @@ bahag.tt.omtrdc.net CNAME .
 baibai-conv3.tt.omtrdc.net CNAME .
 baidu1-auth.mbgcdn.tt.omtrdc.net CNAME .
 baiduspider-124-166-232-89.tt.omtrdc.net CNAME .
+bairdwarner-foxtel.tt.tt.omtrdc.net CNAME .
 bajajallianz.tt.omtrdc.net CNAME .
 bajajfinance.tt.omtrdc.net CNAME .
 bajajfinserv.tt.omtrdc.net CNAME .
@@ -6403,6 +6492,7 @@ bancobmg.tt.omtrdc.net CNAME .
 bancomundial.org.ssl.sc.tt.omtrdc.net CNAME .
 bancopansa.tt.omtrdc.net CNAME .
 bancosabadellsa.tt.omtrdc.net CNAME .
+bancosafra-brat.tt.tt.omtrdc.net CNAME .
 banen0.secure.tt.omtrdc.net CNAME .
 bangcardgame.tt.omtrdc.net CNAME .
 bank-api.app.tt.omtrdc.net CNAME .
@@ -6425,11 +6515,13 @@ barcelogestionhotele.tt.omtrdc.net CNAME .
 barclaycardus.tt.omtrdc.net CNAME .
 barclaysbankplc.tt.omtrdc.net CNAME .
 barclaysbankplc.tt.tt.omtrdc.net CNAME .
+barclaysuk.sc.tt.omtrdc.net CNAME .
 barco.tt.omtrdc.net CNAME .
 barebacktwinkscash.test.tt.omtrdc.net CNAME .
 bargain.staging.mifi.pt.tt.omtrdc.net CNAME .
 barnesandnoble.tt.omtrdc.net CNAME .
 barrett-cbd-gummies-united-kingdom-uk-1.tt.omtrdc.net CNAME .
+baruk-ee.tt.tt.omtrdc.net CNAME .
 baruk.tt.omtrdc.net CNAME .
 basf.tt.omtrdc.net CNAME .
 basfcorp.tt.omtrdc.net CNAME .
@@ -6437,6 +6529,7 @@ basic-calculator.en.tt.omtrdc.net CNAME .
 basic.dev-apply.prod.tt.omtrdc.net CNAME .
 basislabapi.origin.tt.omtrdc.net CNAME .
 basisweb.basisweb-ap.tt.omtrdc.net CNAME .
+bass-prod0.tt.tt.omtrdc.net CNAME .
 bass-rol.tt.omtrdc.net CNAME .
 bastion.ue1.d4.tt.omtrdc.net CNAME .
 bastionx-api-rds.erc.erc.tt.omtrdc.net CNAME .
@@ -6472,6 +6565,7 @@ bbs82.tt.omtrdc.net CNAME .
 bbtpnj33pdncerac2.tt.omtrdc.net CNAME .
 bbva.tt.omtrdc.net CNAME .
 bbvaargentina.tt.omtrdc.net CNAME .
+bbvaco-aarp.tt.tt.omtrdc.net CNAME .
 bbvaco.tt.omtrdc.net CNAME .
 bbvacolombia.tt.omtrdc.net CNAME .
 bbvait.tt.omtrdc.net CNAME .
@@ -6535,6 +6629,7 @@ beretta.tt.omtrdc.net CNAME .
 beritabca.tt.omtrdc.net CNAME .
 berkeleygroup.tt.omtrdc.net CNAME .
 best-health-keto-holland-united-kingdom.tt.omtrdc.net CNAME .
+bestauto2.tt.tt.omtrdc.net CNAME .
 bestbuy.ca.sc.tt.omtrdc.net CNAME .
 bestbuycanada.premera.tt.omtrdc.net CNAME .
 bestbuycanada.tt.omtrdc.net CNAME .
@@ -6570,6 +6665,7 @@ bfcds.learning.tt.omtrdc.net CNAME .
 bfqjctunat.254nbcume.hb.tt.omtrdc.net CNAME .
 bglgrouplimited.tt.omtrdc.net CNAME .
 bglido.tt.omtrdc.net CNAME .
+bglido8networks.tt.tt.omtrdc.net CNAME .
 bh-024facebookapp.tt.omtrdc.net CNAME .
 bhartiairtel.tt.omtrdc.net CNAME .
 bhg.tt.omtrdc.net CNAME .
@@ -6597,6 +6693,7 @@ biglots.tt.omtrdc.net CNAME .
 bijoucontemporain.tt.omtrdc.net CNAME .
 bikemanninc.hb.tt.omtrdc.net CNAME .
 bildconnect.hb.tt.omtrdc.net CNAME .
+billing-51.tt.tt.omtrdc.net CNAME .
 billing.fpssl.hb-api.tt.omtrdc.net CNAME .
 billingbskyb.hb-api.tt.omtrdc.net CNAME .
 billingheartbeats.hb.tt.omtrdc.net CNAME .
@@ -6614,6 +6711,7 @@ biologie-v-kostce.tt.omtrdc.net CNAME .
 biomerieux.tt.omtrdc.net CNAME .
 biomilk-be.tt.omtrdc.net CNAME .
 biopathwise1.med.tt.omtrdc.net CNAME .
+biorad-stg.tt.tt.omtrdc.net CNAME .
 biorad.tt.hb-api.tt.omtrdc.net CNAME .
 biorad.tt.omtrdc.net CNAME .
 biotech2.jobsmin.tt.omtrdc.net CNAME .
@@ -6626,6 +6724,7 @@ bitora-gimp.eu.tt.omtrdc.net CNAME .
 bitsdujour.tt.omtrdc.net CNAME .
 bivl.e2.ac.tt.omtrdc.net CNAME .
 bivl.p2-spint.ac.tt.omtrdc.net CNAME .
+biz7dev.tt.tt.omtrdc.net CNAME .
 bizcover.tt.omtrdc.net CNAME .
 bizjournalscom.tt.omtrdc.net CNAME .
 biztechsandbox.tt.omtrdc.net CNAME .
@@ -6640,15 +6739,18 @@ blablabus-test.cloud-prod.cloud.tt.omtrdc.net CNAME .
 black-card.tt.omtrdc.net CNAME .
 blackberrylimited.tt.omtrdc.net CNAME .
 blackhawknetwork.tt.omtrdc.net CNAME .
+blackhawknetwork5.tt.tt.omtrdc.net CNAME .
 blackhole.www.tt.omtrdc.net CNAME .
 blackholereviews.tt.omtrdc.net CNAME .
 blackmeatcentscash.vip.tt.omtrdc.net CNAME .
 blacknwhitepuss.tt.omtrdc.net CNAME .
 blackrock.tt.omtrdc.net CNAME .
 blackwoods.tt.omtrdc.net CNAME .
+blackwoods5networks.tt.tt.omtrdc.net CNAME .
 blade.tt.omtrdc.net CNAME .
 blanc10-mes-plaarquces.tt.omtrdc.net CNAME .
 blau-subdomain.b.information.blau.de CNAME .
+blinds-stgd.tt.tt.omtrdc.net CNAME .
 blinds.tt.omtrdc.net CNAME .
 blitz-d8-cbd-gummies-review-hashtag1-formula-does.tt.omtrdc.net CNAME .
 blnhx9.tt.omtrdc.net CNAME .
@@ -6743,6 +6845,7 @@ boingo.tt.omtrdc.net CNAME .
 boise93.tt.omtrdc.net CNAME .
 boku.q0-spint.ac.tt.omtrdc.net CNAME .
 bokuwamarinonaka.tt.omtrdc.net CNAME .
+bolcom02networks.tt.tt.omtrdc.net CNAME .
 bolk50.tt.omtrdc.net CNAME .
 bom3p.sqills-b-test.tt.omtrdc.net CNAME .
 bomgar1sgp.sc.tt.omtrdc.net CNAME .
@@ -6787,6 +6890,7 @@ bowlinggreenstateuni.tt.omtrdc.net CNAME .
 boxbskyb.hb-api.tt.omtrdc.net CNAME .
 boxinc.tt.omtrdc.net CNAME .
 boxycharm.tt.omtrdc.net CNAME .
+bpd01a.tt.tt.omtrdc.net CNAME .
 bprod-stake-dot-6.tt.omtrdc.net CNAME .
 br29.idmapper.api.api.tt.omtrdc.net CNAME .
 bradshawtaylor.tt.omtrdc.net CNAME .
@@ -6826,6 +6930,7 @@ brotherinternational.tt.omtrdc.net CNAME .
 brotherinternational.tt.tt.omtrdc.net CNAME .
 brp.tt.omtrdc.net CNAME .
 brs.tt.omtrdc.net CNAME .
+brs1d.tt.tt.omtrdc.net CNAME .
 brukerbiospin.tt.omtrdc.net CNAME .
 brunswickcorporation.tt.omtrdc.net CNAME .
 bsdokyrlfl.251metlife.hb.tt.omtrdc.net CNAME .
@@ -6861,18 +6966,24 @@ bt.tt.omtrdc.net CNAME .
 bt2a.tt.omtrdc.net CNAME .
 btbusiness.tt.omtrdc.net CNAME .
 btgpactual.tt.omtrdc.net CNAME .
+btioyo-rsc.tt.tt.omtrdc.net CNAME .
 btplc.tt.omtrdc.net CNAME .
 bucket.tt.omtrdc.net CNAME .
 budmat82.tt.omtrdc.net CNAME .
 buehne-und-kunst.tt.omtrdc.net CNAME .
 buesbc5.tt.omtrdc.net CNAME .
+buesbc74.tt.tt.omtrdc.net CNAME .
 bugs-poc.gov.tt.omtrdc.net CNAME .
 bugs13.e.tt.omtrdc.net CNAME .
 bugstar-staging.scauth.tt.omtrdc.net CNAME .
 bugzilla.hb.tt.omtrdc.net CNAME .
+buhlerag-sc-auta.tt.tt.omtrdc.net CNAME .
 buhlerag.tt.omtrdc.net CNAME .
+build8dd.tt.tt.omtrdc.net CNAME .
+buildabcnewsitunes.tt.tt.omtrdc.net CNAME .
 builddirect.tt.omtrdc.net CNAME .
 builder.controlpanel.tt.omtrdc.net CNAME .
+buildie.tt.tt.omtrdc.net CNAME .
 bullys-vom-eifeldiamant.tt.omtrdc.net CNAME .
 bundeskanzleramt.tt.omtrdc.net CNAME .
 bupa.tt.omtrdc.net CNAME .
@@ -6902,11 +7013,15 @@ c.i9.tt.omtrdc.net CNAME .
 c004.yyz002.teksavvy.isp.tt.omtrdc.net CNAME .
 c10a.tt.omtrdc.net CNAME .
 c6c7fc8a003312b9aeb5d9500d19db21.tt.omtrdc.net CNAME .
+c74f45c4-97e0-33b4-9f28-a93c6573286a-wdx-97e0.tt.omtrdc.net CNAME .
 caanjoumaine.tt.omtrdc.net CNAME .
 cabin-preprod.prod.tt.omtrdc.net CNAME .
+cabonite118test.tt.tt.omtrdc.net CNAME .
 cada-pdcb-02s3.sys.sys.tt.omtrdc.net CNAME .
 cadence.tt.omtrdc.net CNAME .
 cafestone.monroes1.tt.omtrdc.net CNAME .
+cah11d.tt.tt.omtrdc.net CNAME .
+cainz-tv.tt.tt.omtrdc.net CNAME .
 cainz.tt.omtrdc.net CNAME .
 caixinhadeisadora.tt.omtrdc.net CNAME .
 cal1.tt.omtrdc.net CNAME .
@@ -6925,6 +7040,7 @@ campomourao.tt.omtrdc.net CNAME .
 canada.tt.omtrdc.net CNAME .
 canadadrives.tt.omtrdc.net CNAME .
 canadaoneauto.tt.omtrdc.net CNAME .
+canadapost-pradaspasa.tt.tt.omtrdc.net CNAME .
 canadapost.ca.d1.sc.tt.omtrdc.net CNAME .
 canadapost.tt.omtrdc.net CNAME .
 canadianimperialbank.tt.omtrdc.net CNAME .
@@ -6932,16 +7048,19 @@ canadiantire.tt.omtrdc.net CNAME .
 canalsuperdicasfree.tt.omtrdc.net CNAME .
 canarahsbclife.tt.omtrdc.net CNAME .
 cancermediacenterbbvi.tt.omtrdc.net CNAME .
+canonusa-np.tt.tt.omtrdc.net CNAME .
 canonusa.tt.omtrdc.net CNAME .
 canopygrowthcorporat.tt.omtrdc.net CNAME .
 canterbury.tt.omtrdc.net CNAME .
 cantire.tt.omtrdc.net CNAME .
 caparis.tt.omtrdc.net CNAME .
+caparis4itunes.tt.tt.omtrdc.net CNAME .
 capellauniversity.tt.omtrdc.net CNAME .
 capitaland.tt.omtrdc.net CNAME .
 capitalgroupcompanie.tt.omtrdc.net CNAME .
 capitalone.tt.omtrdc.net CNAME .
 capitaloneservices.tt.omtrdc.net CNAME .
+caps2-1.tt.tt.omtrdc.net CNAME .
 car2go.com.ssl.sc.tt.omtrdc.net CNAME .
 carbonite.tt.omtrdc.net CNAME .
 carcheck.tt.omtrdc.net CNAME .
@@ -7006,6 +7125,7 @@ cartoonusdiarynewmedia.hb.tt.omtrdc.net CNAME .
 cartoonvattenfalleuropesalenewmedia.hb.tt.omtrdc.net CNAME .
 cartoonyounitednewmedia.hb.tt.omtrdc.net CNAME .
 cartoonzoohitnewmedia.hb.tt.omtrdc.net CNAME .
+casephora-t.tt.tt.omtrdc.net CNAME .
 caser.tt.omtrdc.net CNAME .
 cashconverters.tt.omtrdc.net CNAME .
 casio.tt.omtrdc.net CNAME .
@@ -7022,6 +7142,7 @@ catholicmuroranchurch.tt.omtrdc.net CNAME .
 cawscrvm4s-mgmt.tt.omtrdc.net CNAME .
 cba9.hb.tt.omtrdc.net CNAME .
 cbdgummiesaustralia.tt.omtrdc.net CNAME .
+cbp0c.tt.tt.omtrdc.net CNAME .
 cbs-stage.hb-api.tt.omtrdc.net CNAME .
 cbs-w3.hb-api.tt.omtrdc.net CNAME .
 cbscontrol.hb-api.tt.omtrdc.net CNAME .
@@ -7043,10 +7164,12 @@ cdbh.tt.omtrdc.net CNAME .
 cdiscount.tt.omtrdc.net CNAME .
 cdp.cifinancial.com CNAME .
 ceat.tt.omtrdc.net CNAME .
+ceat6-3.tt.tt.omtrdc.net CNAME .
 cedarssinaihealthsys.tt.omtrdc.net CNAME .
 celcomaxiata.tt.omtrdc.net CNAME .
 cellularsouth.tt.omtrdc.net CNAME .
 cemalmadanoglu.tt.omtrdc.net CNAME .
+cenpaticointegratedcareaz.com.sc.tt.omtrdc.net CNAME .
 censusbureau.tt.omtrdc.net CNAME .
 centerparcsoperating.tt.omtrdc.net CNAME .
 centerpointenergy.tt.omtrdc.net CNAME .
@@ -7058,6 +7181,7 @@ cerebosbrands.tt.omtrdc.net CNAME .
 ceridianhcm.tt.omtrdc.net CNAME .
 cetelemportugal.tt.omtrdc.net CNAME .
 cetelemspain.tt.omtrdc.net CNAME .
+cewecolorde-mobileglobal.tt.tt.omtrdc.net CNAME .
 cewecolorde.tt.omtrdc.net CNAME .
 cfcu-cms2.tt.omtrdc.net CNAME .
 cfs1.tt.omtrdc.net CNAME .
@@ -7076,6 +7200,7 @@ charteredaccountants.tt.omtrdc.net CNAME .
 chat-mmap-xe01.tt.omtrdc.net CNAME .
 chat.tt.omtrdc.net CNAME .
 chat38.tt.omtrdc.net CNAME .
+chatbot82sa.tt.tt.omtrdc.net CNAME .
 checkout-toolbox-na.tt.omtrdc.net CNAME .
 chegg.tt.omtrdc.net CNAME .
 chegginc.tt.omtrdc.net CNAME .
@@ -7099,11 +7224,13 @@ chrome.de.tt.omtrdc.net CNAME .
 chubb.tt.omtrdc.net CNAME .
 chugai.tt.omtrdc.net CNAME .
 churchillnewmedia.hb.tt.omtrdc.net CNAME .
+ci-wp-3.tt.tt.omtrdc.net CNAME .
 ci.tt.omtrdc.net CNAME .
 ciena.tt.omtrdc.net CNAME .
 cig1w271-payments.tt.omtrdc.net CNAME .
 cigarsinternational.tt.omtrdc.net CNAME .
 cigliegitimh.tt.omtrdc.net CNAME .
+cigna-3.tt.tt.omtrdc.net CNAME .
 ciinvestments.tt.omtrdc.net CNAME .
 cimbinvestmentbankbe.tt.omtrdc.net CNAME .
 cimpressnv.tt.omtrdc.net CNAME .
@@ -7113,7 +7240,9 @@ cingsyuan14.tt.omtrdc.net CNAME .
 cinnober-1.tt.omtrdc.net CNAME .
 cinyour06-2.tt.omtrdc.net CNAME .
 cinyour2-5.tt.omtrdc.net CNAME .
+circlek-care.tt.tt.omtrdc.net CNAME .
 circlek.tt.omtrdc.net CNAME .
+cisco-home.tt.tt.omtrdc.net CNAME .
 ciscolearningnetwork.tt.omtrdc.net CNAME .
 ciscosystemsinc.tt.omtrdc.net CNAME .
 cit.api-southeast-1.us.account.account.tt.omtrdc.net CNAME .
@@ -7123,8 +7252,10 @@ citbank.tt.omtrdc.net CNAME .
 citiaebhplgb.tt.omtrdc.net CNAME .
 citiapac.tt.omtrdc.net CNAME .
 citiau.tt.omtrdc.net CNAME .
+citiau78.tt.tt.omtrdc.net CNAME .
 citibanamex.tt.omtrdc.net CNAME .
 citicn.tt.omtrdc.net CNAME .
+citicnabnamro.tt.tt.omtrdc.net CNAME .
 citicorpcreditservic.tt.omtrdc.net CNAME .
 citihktw.tt.omtrdc.net CNAME .
 citiin.tt.omtrdc.net CNAME .
@@ -7133,6 +7264,7 @@ citisgsgipbmy.tt.omtrdc.net CNAME .
 citithidvn.tt.omtrdc.net CNAME .
 citizensbank.tt.omtrdc.net CNAME .
 citynationalbank.tt.omtrdc.net CNAME .
+cityofhope-d1.tt.tt.omtrdc.net CNAME .
 cityofhope.tt.omtrdc.net CNAME .
 cjcgv.tt.omtrdc.net CNAME .
 ckdevice-china-ic4.tt.omtrdc.net CNAME .
@@ -7147,6 +7279,7 @@ classmates.com.insight.tt.omtrdc.net CNAME .
 classmates.insight.tt.omtrdc.net CNAME .
 classtrucks-rumia-premium.tt.omtrdc.net CNAME .
 clddpprod32.tt.omtrdc.net CNAME .
+clddpprod32.tt.tt.omtrdc.net CNAME .
 clearcable.tt.omtrdc.net CNAME .
 cleveland.tt.omtrdc.net CNAME .
 clevnet.auth.tt.omtrdc.net CNAME .
@@ -7160,6 +7293,7 @@ clickpool.tt.omtrdc.net CNAME .
 clicks-us.frontend.tt.omtrdc.net CNAME .
 clicks.api.tt.omtrdc.net CNAME .
 clicks4.api.tt.omtrdc.net CNAME .
+clicktale-abnamro.tt.tt.omtrdc.net CNAME .
 client-api.app.tt.omtrdc.net CNAME .
 client-code.tt.omtrdc.net CNAME .
 client.tt.omtrdc.net CNAME .
@@ -7172,6 +7306,7 @@ cloud.1-the-jloginn-securey.hb-api.tt.omtrdc.net CNAME .
 cloud.tt.omtrdc.net CNAME .
 cloud.va504.insight.tt.omtrdc.net CNAME .
 cloudera.tt.omtrdc.net CNAME .
+clouderabo2-dc.tt.tt.omtrdc.net CNAME .
 cloudflareinc.tt.omtrdc.net CNAME .
 cloudfront-pragyatestweb.hb.tt.omtrdc.net CNAME .
 cloudsurfer.tt.omtrdc.net CNAME .
@@ -7181,6 +7316,7 @@ clubhkt.tt.omtrdc.net CNAME .
 cluster2survey.tt.omtrdc.net CNAME .
 clydesdalebank.tt.omtrdc.net CNAME .
 cmcpayperf-qdc.tt.omtrdc.net CNAME .
+cmegroup.tt.omtrdc.net CNAME .
 cmgstrategycollc.tt.omtrdc.net CNAME .
 cms-clients-git.tt.omtrdc.net CNAME .
 cms-proxyslaveconfig.tt.omtrdc.net CNAME .
@@ -7199,7 +7335,9 @@ co-mg6.tt.omtrdc.net CNAME .
 co.fpssl.hb-api.tt.omtrdc.net CNAME .
 co.uk.insight.tt.omtrdc.net CNAME .
 cocacolaco.tt.omtrdc.net CNAME .
+codandk-rs.tt.tt.omtrdc.net CNAME .
 codandk.tt.omtrdc.net CNAME .
+codata-fm.tt.tt.tt.omtrdc.net CNAME .
 code.tt.omtrdc.net CNAME .
 codelandsrlemeaptrsd.tt.omtrdc.net CNAME .
 codevkr.tt.omtrdc.net CNAME .
@@ -7211,6 +7349,7 @@ coherent.tt.omtrdc.net CNAME .
 coinlife.tt.omtrdc.net CNAME .
 coinsdev.tt.omtrdc.net CNAME .
 colessupermarketspty.tt.omtrdc.net CNAME .
+collect.helsana-integration.ch CNAME .
 collect.helsana-preprod.ch CNAME .
 collect.helsana.ch CNAME .
 collect.vans.com.cn CNAME .
@@ -7248,14 +7387,17 @@ commonspirit.tt.omtrdc.net CNAME .
 commonwealthbankofau.tt.omtrdc.net CNAME .
 commonwealthsecuriti.tt.omtrdc.net CNAME .
 comms-integration.tt.omtrdc.net CNAME .
+comms9company.tt.tt.omtrdc.net CNAME .
 commsec.tt.omtrdc.net CNAME .
 community-shop.pages.tt.omtrdc.net CNAME .
 community01.data.tt.omtrdc.net CNAME .
 community3b.tls.tt.omtrdc.net CNAME .
 communitypiv.piv.tt.omtrdc.net CNAME .
 comoeres.tt.omtrdc.net CNAME .
+compadev-nordea.tt.tt.tt.omtrdc.net CNAME .
 companies.tt.omtrdc.net CNAME .
 comparenetworks2.tt.omtrdc.net CNAME .
+compartamos-wp.tt.tt.omtrdc.net CNAME .
 compartamos.tt.omtrdc.net CNAME .
 compassbank.tt.omtrdc.net CNAME .
 competec.tt.omtrdc.net CNAME .
@@ -7267,7 +7409,9 @@ comrel11.tt.omtrdc.net CNAME .
 comssl.d2.sc.tt.omtrdc.net CNAME .
 comsslnewmedia.hb.tt.omtrdc.net CNAME .
 comwrapgmbh.tt.omtrdc.net CNAME .
+comwrapgmbh022ie.tt.tt.omtrdc.net CNAME .
 conad.tt.omtrdc.net CNAME .
+concerto62.tt.tt.omtrdc.net CNAME .
 concurtechnologies.tt.omtrdc.net CNAME .
 concurtechnologiesnewmedia.hb.tt.omtrdc.net CNAME .
 condenast.insight.tt.omtrdc.net CNAME .
@@ -7276,6 +7420,7 @@ condenast.tt.omtrdc.net CNAME .
 conference.tt.omtrdc.net CNAME .
 conferencecloud.tt.omtrdc.net CNAME .
 confetti.tt.omtrdc.net CNAME .
+confie.tt.omtrdc.net CNAME .
 configpreview-m.tt.omtrdc.net CNAME .
 confluence-7.tt.omtrdc.net CNAME .
 connect.tt.omtrdc.net CNAME .
@@ -7294,6 +7439,7 @@ consumercellular.tt.omtrdc.net CNAME .
 consumerinfo.hb.tt.omtrdc.net CNAME .
 consumerinfo.tt.omtrdc.net CNAME .
 consumerreports.tt.omtrdc.net CNAME .
+container.hb.tt.omtrdc.net CNAME .
 containerbskyb.hb-api.tt.omtrdc.net CNAME .
 content-api-staging02.tt.omtrdc.net CNAME .
 contoso-my.sharepoint.com CNAME .
@@ -7309,6 +7455,7 @@ cordobapedia.tt.omtrdc.net CNAME .
 core-dev-cdn.tt.omtrdc.net CNAME .
 corelinc.tt.omtrdc.net CNAME .
 coreyspencer.tt.omtrdc.net CNAME .
+cornerbanca-co1.tt.tt.omtrdc.net CNAME .
 cornerbanca.tt.omtrdc.net CNAME .
 corp-offers.tt.omtrdc.net CNAME .
 corporationserviceco.tt.omtrdc.net CNAME .
@@ -7379,6 +7526,9 @@ csflssqdoj.182dowjones.hb.tt.omtrdc.net CNAME .
 csgoserverkodlari.tt.omtrdc.net CNAME .
 csgw.tt.omtrdc.net CNAME .
 csmbi.tt.omtrdc.net CNAME .
+csproxy65.tt.tt.omtrdc.net CNAME .
+cspwww32.tt.tt.omtrdc.net CNAME .
+cspwww441.tt.tt.omtrdc.net CNAME .
 css-wasp3.tt.omtrdc.net CNAME .
 cssversicherung.tt.omtrdc.net CNAME .
 cstkvfsbzf.182nfl.hb.tt.omtrdc.net CNAME .
@@ -7389,9 +7539,12 @@ ctl.tt.omtrdc.net CNAME .
 ctpkanalizasyonkapagi.tt.omtrdc.net CNAME .
 ctshirts.tt.omtrdc.net CNAME .
 ctshirts.tt.tt.omtrdc.net CNAME .
+ctshirts5.tt.tt.omtrdc.net CNAME .
 ctwofo.tt.omtrdc.net CNAME .
 cua.tt.omtrdc.net CNAME .
+cua222a.tt.tt.omtrdc.net CNAME .
 cuart.tt.omtrdc.net CNAME .
+cubesmart-npdanmark.tt.tt.omtrdc.net CNAME .
 cubesmart.tt.omtrdc.net CNAME .
 culinariaterapiatododia.tt.omtrdc.net CNAME .
 culturenext.tt.omtrdc.net CNAME .
@@ -7400,6 +7553,7 @@ cuneiformrecords.tt.omtrdc.net CNAME .
 cunetllc.tt.omtrdc.net CNAME .
 cupidmedia.tt.omtrdc.net CNAME .
 cuqkqcvjza.32.17.241mediaset.hb.tt.omtrdc.net CNAME .
+curs-sj.tt.tt.omtrdc.net CNAME .
 cursopropeduticooficial.tt.omtrdc.net CNAME .
 customer-213-245.tt.omtrdc.net CNAME .
 customer-engagement-analytics-tool.tt.omtrdc.net CNAME .
@@ -7415,6 +7569,7 @@ cws-australiasoutheast-release-a-b.tt.omtrdc.net CNAME .
 cws.airon.test.tt.omtrdc.net CNAME .
 cx-pay.tt.omtrdc.net CNAME .
 cxlsx-bucks.tt.omtrdc.net CNAME .
+cxml-3.tt.tt.omtrdc.net CNAME .
 cxocockpit.tt.omtrdc.net CNAME .
 cyber8.cbp.tt.omtrdc.net CNAME .
 cyberark.tt.omtrdc.net CNAME .
@@ -7463,14 +7618,17 @@ dal688.oob.tt.omtrdc.net CNAME .
 danaeto38.meraki-go.tt.omtrdc.net CNAME .
 danaher.tt.omtrdc.net CNAME .
 danikaryaku.blog.tt.omtrdc.net CNAME .
+danonesa-323.tt.tt.omtrdc.net CNAME .
 danonesa.tt.hb-fa-stage.tt.omtrdc.net CNAME .
 danonesa.tt.omtrdc.net CNAME .
+danonesauk218test.tt.tt.omtrdc.net CNAME .
 danoneuk.tt.omtrdc.net CNAME .
 danreid.tt.omtrdc.net CNAME .
 danskebank.tt.omtrdc.net CNAME .
 dansksupermarked.tt.omtrdc.net CNAME .
 dardenrestaurants.tt.omtrdc.net CNAME .
 darnoc.tt.omtrdc.net CNAME .
+das336sc.tt.tt.omtrdc.net CNAME .
 dashboardmetrics.hb.tt.omtrdc.net CNAME .
 data-metrics.hb.tt.omtrdc.net CNAME .
 data-ssl.pnet.co.za CNAME .
@@ -7555,6 +7713,7 @@ data.dats24.be CNAME .
 data.deinfeedback.alditalk-kundenbetreuung.de CNAME .
 data.descubre.interbank.pe CNAME .
 data.devbmg.bancobmg.com.br CNAME .
+data.devmail.northeast.aaa.com CNAME .
 data.digital.costco.ca CNAME .
 data.digital.costco.com CNAME .
 data.discover.ringcentral.com CNAME .
@@ -7676,6 +7835,7 @@ data.m.philadelphiaeagles.com CNAME .
 data.ma1.techvaladobe.com CNAME .
 data.madridista-free.realmadrid.com CNAME .
 data.madridista-premium.realmadrid.com CNAME .
+data.magmail.northeast.aaa.com CNAME .
 data.mail.callme.dk CNAME .
 data.mail.marketing-bcthk.com CNAME .
 data.mail.metro.de CNAME .
@@ -7732,6 +7892,7 @@ data.prewards.palladiumhotelgroup.com CNAME .
 data.promo.timhortons.ca CNAME .
 data.promo.timhortons.com CNAME .
 data.promos.timsfinancial.ca CNAME .
+data.purchase.riteaid.com CNAME .
 data.qaegift.giftcards.com CNAME .
 data.qamailing.mcafee.com CNAME .
 data.qamarketing.giftcards.com CNAME .
@@ -7781,15 +7942,18 @@ datarouter-fairfield.tt.omtrdc.net CNAME .
 datev.tt.omtrdc.net CNAME .
 daveandbusters.tt.omtrdc.net CNAME .
 daws327-38-3.tt.omtrdc.net CNAME .
+daws8-36-2.tt.tt.omtrdc.net CNAME .
 dayintegrationintern.tt.omtrdc.net CNAME .
 dbmsdatadebug.tt.omtrdc.net CNAME .
 dbprivatundfirmenkun.tt.omtrdc.net CNAME .
 dbs.sc.tt.omtrdc.net CNAME .
 dbs.tt.omtrdc.net CNAME .
+dbs6c.tt.tt.omtrdc.net CNAME .
 dbseschenker.tt.omtrdc.net CNAME .
 dbsgsmc.tt.omtrdc.net CNAME .
 dbsystel.tt.omtrdc.net CNAME .
 dbsystelentities.tt.omtrdc.net CNAME .
+dbsystelgmbh.d3.sc.tt.omtrdc.net CNAME .
 dc.areacliente.repsolluzygas.com CNAME .
 dc.madridistas.com CNAME .
 dc.realmadrid.com CNAME .
@@ -7906,6 +8070,7 @@ delta-mcars.tt.omtrdc.net CNAME .
 delta-stagingfreedom.tt.omtrdc.net CNAME .
 delta2.fr.tt.omtrdc.net CNAME .
 deltaairlines.tt.omtrdc.net CNAME .
+deltaairlines2-staging.tt.tt.omtrdc.net CNAME .
 deltadentalca.tt.omtrdc.net CNAME .
 deltaed.tt.omtrdc.net CNAME .
 deltafarmpress.hb.tt.omtrdc.net CNAME .
@@ -7922,6 +8087,7 @@ demo.legalnews.tt.omtrdc.net CNAME .
 demo.mastercard2017growyourbiz.tt.omtrdc.net CNAME .
 demo.sapglobalmarketingin.tt.omtrdc.net CNAME .
 demo.tt.omtrdc.net CNAME .
+demo0612.tt.tt.omtrdc.net CNAME .
 demo1.tt-qe8.tt.omtrdc.net CNAME .
 demo1.tt-stage3.tt.omtrdc.net CNAME .
 demo1.tt.omtrdc.net CNAME .
@@ -7961,6 +8127,7 @@ desmoineschristianschool.tt.omtrdc.net CNAME .
 desq.tt.omtrdc.net CNAME .
 destinyfong.tt.omtrdc.net CNAME .
 desuscripcion.phg.palladiumhotelgroup.com CNAME .
+details5699.tt.tt.omtrdc.net CNAME .
 detelefoongidsnewmedia.hb.tt.omtrdc.net CNAME .
 detmodernegennembrud1d.tt.omtrdc.net CNAME .
 detroit-mi.tt.omtrdc.net CNAME .
@@ -7970,6 +8137,7 @@ deutschebankag.tt.omtrdc.net CNAME .
 deutschepostde.tt.omtrdc.net CNAME .
 dev-1-3.tt.omtrdc.net CNAME .
 dev-alliedhealth.tt.omtrdc.net CNAME .
+dev-dsmtp.tt.tt.omtrdc.net CNAME .
 dev-metrics.hb.tt.omtrdc.net CNAME .
 dev-mgmt01-eastb.tt.omtrdc.net CNAME .
 dev-on-dac.tt.omtrdc.net CNAME .
@@ -7980,22 +8148,28 @@ dev-registry.corp.corp.tt.omtrdc.net CNAME .
 dev-test-1newmedia.hb.tt.omtrdc.net CNAME .
 dev.thomson.insight.tt.omtrdc.net CNAME .
 dev1239.tt.omtrdc.net CNAME .
+dev219.tt.tt.omtrdc.net CNAME .
 devbackupsftp.tt.omtrdc.net CNAME .
 develauth-antiviruspre.tt.omtrdc.net CNAME .
 develop.hb.tt.omtrdc.net CNAME .
 develop.tt.omtrdc.net CNAME .
+device1862932-37ccc85b-local.tt.omtrdc.net CNAME .
 device2337777-0516b741.tt.omtrdc.net CNAME .
 device2742715-b03966ab.tt.omtrdc.net CNAME .
+device3039963-5e4a3196.tt.omtrdc.net CNAME .
 device3168782-14b8250b.tt.omtrdc.net CNAME .
 device3247599-3cc5af85.tt.omtrdc.net CNAME .
 devops.hb.tt.omtrdc.net CNAME .
+devopsheartbeats.hb.tt.omtrdc.net CNAME .
 devryuniversity.tt.omtrdc.net CNAME .
+devtvos-team.tt.tt.omtrdc.net CNAME .
 dfw3-foxentertainment.hb-api.tt.omtrdc.net CNAME .
 dgallon.blog75.tt.omtrdc.net CNAME .
 dh5guideblog.tt.omtrdc.net CNAME .
 dhc.tt.omtrdc.net CNAME .
 dhcp.tt.omtrdc.net CNAME .
 dial.tt.omtrdc.net CNAME .
+dial4y.tt.tt.omtrdc.net CNAME .
 diansano.tt.omtrdc.net CNAME .
 diar13-midyuin08.tt.omtrdc.net CNAME .
 diceinc.tt.omtrdc.net CNAME .
@@ -8169,9 +8343,11 @@ dl-dev.tt.omtrdc.net CNAME .
 dlinsuranceservicesl.tt.omtrdc.net CNAME .
 dm-target.fishersci.com CNAME .
 dm-target.thermofisher.com CNAME .
+dmm-sts.tt.tt.omtrdc.net CNAME .
 dmm.tt.omtrdc.net CNAME .
 dmm.tt.tt.omtrdc.net CNAME .
 dmzprdvs01.tt.omtrdc.net CNAME .
+dnbbankasa-mcarsapp01.tt.tt.omtrdc.net CNAME .
 dnbbankasa.tt.omtrdc.net CNAME .
 dnp.tt.omtrdc.net CNAME .
 dnsbl.test.adobe.tt.omtrdc.net CNAME .
@@ -8199,9 +8375,11 @@ dollargeneral.tt.omtrdc.net CNAME .
 dollarthriftyautomot.tt.omtrdc.net CNAME .
 dolomitienergia.tt.omtrdc.net CNAME .
 domain.tt.omtrdc.net CNAME .
+domain9pt.tt.tt.omtrdc.net CNAME .
 domecorporation.tt.omtrdc.net CNAME .
 domino.tt.omtrdc.net CNAME .
 dominos.tt.omtrdc.net CNAME .
+dominos66.tt.tt.tt.omtrdc.net CNAME .
 domo.tt.omtrdc.net CNAME .
 donaldson.tt.omtrdc.net CNAME .
 dondomenico.tt.omtrdc.net CNAME .
@@ -8212,11 +8390,13 @@ dotsourcegmbhpartner.tt.omtrdc.net CNAME .
 doudian.tt.omtrdc.net CNAME .
 douglasgmbh.tt.omtrdc.net CNAME .
 dovercorp.tt.omtrdc.net CNAME .
+dowjones-34.tt.tt.omtrdc.net CNAME .
 dowjones.hb-api.tt.omtrdc.net CNAME .
 downblouse-or-side-boob.tt.omtrdc.net CNAME .
 download.tt.omtrdc.net CNAME .
 dp-con-preprod-cn.tt.omtrdc.net CNAME .
 dpagco.tt.omtrdc.net CNAME .
+dpagco18.tt.tt.omtrdc.net CNAME .
 dpcomdhl.tt.omtrdc.net CNAME .
 dpcomepost.tt.omtrdc.net CNAME .
 dpgijjkslr.1.hb.tt.omtrdc.net CNAME .
@@ -8250,9 +8430,11 @@ dsmengineering.tt.omtrdc.net CNAME .
 dsmoon.tt.omtrdc.net CNAME .
 dsp.tt.omtrdc.net CNAME .
 dssp2mbw18.tt.omtrdc.net CNAME .
+dsw-2-np.tt.tt.omtrdc.net CNAME .
 dsw.tt.omtrdc.net CNAME .
 dta.tt.omtrdc.net CNAME .
 dteenergy.tt.omtrdc.net CNAME .
+dteenergy12.premera.tt.tt.omtrdc.net CNAME .
 dtis.tt.omtrdc.net CNAME .
 dtpartnersandbox.tt.omtrdc.net CNAME .
 dtwctsg.hb-api.tt.omtrdc.net CNAME .
@@ -8273,8 +8455,10 @@ dwellinghaven.tt.omtrdc.net CNAME .
 dxaop.bcbsla.com CNAME .
 dxctechnology.tt.omtrdc.net CNAME .
 dxop.bcbsla.com CNAME .
+dyson-ash.tt.tt.omtrdc.net CNAME .
 dyson.dk.ssl.sc.tt.omtrdc.net CNAME .
 dyson.tt.omtrdc.net CNAME .
+dyson02.tt.tt.omtrdc.net CNAME .
 e-bus.tt.omtrdc.net CNAME .
 e-siransija.tt.omtrdc.net CNAME .
 e-volucion.es.sc.tt.omtrdc.net CNAME .
@@ -8284,6 +8468,7 @@ e1tmelb0g1y4g2ek.tt.omtrdc.net CNAME .
 e28.tt.omtrdc.net CNAME .
 e2e-t360lookup.tt.omtrdc.net CNAME .
 e5s7mqjz.tt.omtrdc.net CNAME .
+ea5-3.tt.tt.omtrdc.net CNAME .
 eaas.tt.omtrdc.net CNAME .
 eaccess.tt.omtrdc.net CNAME .
 earlywarning-client.tt.omtrdc.net CNAME .
@@ -8294,11 +8479,15 @@ easy.dans.tt.omtrdc.net CNAME .
 eatonvanceinvestment.tt.omtrdc.net CNAME .
 ebooksrus1.tt.omtrdc.net CNAME .
 ec-dishpurchasingcorporation.hb-api.tt.omtrdc.net CNAME .
+ec-sc.tt.tt.omtrdc.net CNAME .
 ecampus.tt.omtrdc.net CNAME .
+ecashproducts2-44-216-112.tt.tt.omtrdc.net CNAME .
 ecn13bvat.tt.omtrdc.net CNAME .
 ecn19nikeid.tt.omtrdc.net CNAME .
+ecobee-ee-216.tt.tt.omtrdc.net CNAME .
 ecobee.tt.omtrdc.net CNAME .
 ecomputing.tt.omtrdc.net CNAME .
+ecs-us5.tt.tt.omtrdc.net CNAME .
 edb.tt.omtrdc.net CNAME .
 eddiebauer.com.sc.tt.omtrdc.net CNAME .
 edge-cg-rtc-shv-01-mrs2.tt.omtrdc.net CNAME .
@@ -8311,6 +8500,7 @@ edge-shortwave-shv-02-dfw5.tt.omtrdc.net CNAME .
 edge-z-p3-shv-01-lga3.tt.omtrdc.net CNAME .
 edge.afco.com CNAME .
 edge.bigbrothercanada.ca CNAME .
+edge.boomerang-tv.ca CNAME .
 edge.bridgetrusttitle.com CNAME .
 edge.cafo.com CNAME .
 edge.foodnetwork.ca CNAME .
@@ -8349,6 +8539,7 @@ eflnrbfejw.thissubdomainshouldonlyresolveifwildcard.aem.hb.tt.omtrdc.net CNAME .
 eftelingactie.tt.omtrdc.net CNAME .
 eg06.prod.cloud.prod.cloud.tt.omtrdc.net CNAME .
 eggy.tt.omtrdc.net CNAME .
+egion2tp.tt.tt.omtrdc.net CNAME .
 egopharmaceuticalspt.tt.omtrdc.net CNAME .
 ehealthinsurance.tt.omtrdc.net CNAME .
 ehkkjsxtno.cc.hb.tt.omtrdc.net CNAME .
@@ -8357,8 +8548,13 @@ eisregistration.tt.omtrdc.net CNAME .
 el-mundo.net.ssl.d2.sc.tt.omtrdc.net CNAME .
 elaine.tt.omtrdc.net CNAME .
 elal.tt.omtrdc.net CNAME .
+elal3y.tt.tt.omtrdc.net CNAME .
+elance-stg1.tt.tt.omtrdc.net CNAME .
+elance421.tt.tt.omtrdc.net CNAME .
 eldersrural.tt.omtrdc.net CNAME .
 electroworld.sk.d1.sc.tt.omtrdc.net CNAME .
+elizar2.tt.tt.omtrdc.net CNAME .
+elkjop-usitunes.tt.tt.omtrdc.net CNAME .
 elkjop.tt.omtrdc.net CNAME .
 ellosab.d2.sc.tt.omtrdc.net CNAME .
 ellosab.tt.omtrdc.net CNAME .
@@ -8376,7 +8572,9 @@ empiretodayllc.tt.omtrdc.net CNAME .
 emr-sbg-cdoml.tt.omtrdc.net CNAME .
 ems-lounge.tt.omtrdc.net CNAME .
 encimapartnersandbox.tt.omtrdc.net CNAME .
+encyclopaediabritann.tt.omtrdc.net CNAME .
 endesa.tt.omtrdc.net CNAME .
+endesa7-ash.tt.tt.omtrdc.net CNAME .
 endpoint-migration.tt.omtrdc.net CNAME .
 eneldhgpg.tt.omtrdc.net CNAME .
 enelglobal.tt.omtrdc.net CNAME .
@@ -8388,7 +8586,9 @@ engineering-dishpurchasingcorporation.hb-api.tt.omtrdc.net CNAME .
 engineering.tt.omtrdc.net CNAME .
 englishpic.tt.omtrdc.net CNAME .
 enigma.tt.omtrdc.net CNAME .
+enispa-wh.tt.tt.omtrdc.net CNAME .
 enispa.tt.omtrdc.net CNAME .
+enova-nordea.tt.tt.omtrdc.net CNAME .
 enquete.tt.omtrdc.net CNAME .
 enrichment-staging.tt.omtrdc.net CNAME .
 enterprisecontest.tt.omtrdc.net CNAME .
@@ -8402,9 +8602,12 @@ eondigitaluk.tt.omtrdc.net CNAME .
 eonitaly.tt.omtrdc.net CNAME .
 eonline.tt.omtrdc.net CNAME .
 eonromania.tt.omtrdc.net CNAME .
+eonse-12-ash.tt.tt.omtrdc.net CNAME .
+epiroc-h.tt.tt.omtrdc.net CNAME .
 epiroc.tt.omtrdc.net CNAME .
 episodeinteractiveguide.tt.omtrdc.net CNAME .
 epm.tt.omtrdc.net CNAME .
+eprice1-3.tt.tt.omtrdc.net CNAME .
 epson.tt.hb-fa-dev.tt.omtrdc.net CNAME .
 epson.tt.omtrdc.net CNAME .
 epsonukltd.hb.tt.omtrdc.net CNAME .
@@ -8412,7 +8615,9 @@ epsonukltd.tt.omtrdc.net CNAME .
 eqqlpokcpp.22nbcume.hb.tt.omtrdc.net CNAME .
 equides.tt.omtrdc.net CNAME .
 equifax.tt.omtrdc.net CNAME .
+equifaxinc-073.tt.tt.omtrdc.net CNAME .
 equifaxinc.tt.omtrdc.net CNAME .
+equifaxinces-staging.tt.tt.omtrdc.net CNAME .
 equifaxuk.tt.omtrdc.net CNAME .
 equinoxfitnessclubs.tt.omtrdc.net CNAME .
 equipsuper.tt.omtrdc.net CNAME .
@@ -8449,6 +8654,7 @@ etisalat.tt.omtrdc.net CNAME .
 etro.tt.omtrdc.net CNAME .
 eu17.tt.omtrdc.net CNAME .
 eui.tt.omtrdc.net CNAME .
+eui1c.tt.tt.omtrdc.net CNAME .
 eur-p-gen-6-126-108-45.tt.omtrdc.net CNAME .
 eurobetitaliasrl.tt.omtrdc.net CNAME .
 eurobetitalitasrl.tt.omtrdc.net CNAME .
@@ -8471,7 +8677,9 @@ exchangens2.tt.omtrdc.net CNAME .
 exchangepartnersegment.hb.tt.omtrdc.net CNAME .
 exercicesfrancais.tt.omtrdc.net CNAME .
 exipure-australia-3.tt.omtrdc.net CNAME .
+expedia-mx.tt.tt.omtrdc.net CNAME .
 expedia.tt.omtrdc.net CNAME .
+experian.tt.omtrdc.net CNAME .
 experience.acs.org.au CNAME .
 experience.amp.co.nz CNAME .
 experience.asb.co.nz CNAME .
@@ -8510,8 +8718,10 @@ famedigitalasiapteltd.hb.tt.omtrdc.net CNAME .
 family.tt.omtrdc.net CNAME .
 fandango.tt.hb-fa-stage.tt.omtrdc.net CNAME .
 fandango.tt.omtrdc.net CNAME .
+fandango6itunes.tt.tt.omtrdc.net CNAME .
 faomao.tt.omtrdc.net CNAME .
 fapq1-1.tt.omtrdc.net CNAME .
+fareastone-ppp.tt.tt.omtrdc.net CNAME .
 fareastone.tt.omtrdc.net CNAME .
 farheapsolutions.tt.omtrdc.net CNAME .
 farmersinsurance.tt.omtrdc.net CNAME .
@@ -8529,6 +8739,8 @@ fc-rohoznik.tt.omtrdc.net CNAME .
 fcaemea.tt.omtrdc.net CNAME .
 fcanafta.hb.tt.omtrdc.net CNAME .
 fcanafta.tt.omtrdc.net CNAME .
+fcanafta71.tt.tt.omtrdc.net CNAME .
+fcanaftabn-fcanafta.tt.tt.omtrdc.net CNAME .
 fcms-production-dikybg.tt.omtrdc.net CNAME .
 fdmerchantservicecenter.tt.omtrdc.net CNAME .
 featurereceipt-webappdata.tt.omtrdc.net CNAME .
@@ -8543,6 +8755,7 @@ ffoxentertainment.hb-api.tt.omtrdc.net CNAME .
 fgh.tt.omtrdc.net CNAME .
 fhh.tt.omtrdc.net CNAME .
 fiacardservicesgroup.tt.omtrdc.net CNAME .
+fico-h1.tt.tt.omtrdc.net CNAME .
 fico.tt.omtrdc.net CNAME .
 fidelityinternationa.tt.omtrdc.net CNAME .
 fidelitywi.tt.omtrdc.net CNAME .
@@ -8585,11 +8798,13 @@ floridapowerandlight.tt.omtrdc.net CNAME .
 flynorra.tt.omtrdc.net CNAME .
 flytastic.tt.omtrdc.net CNAME .
 flyunityair.tt.omtrdc.net CNAME .
+fmrcorp-2.tt.tt.omtrdc.net CNAME .
 fmrcorp.tt.omtrdc.net CNAME .
 fmsb2bprp03.tt.omtrdc.net CNAME .
 fnac.tt.omtrdc.net CNAME .
 fnaf-sister-location.tt.omtrdc.net CNAME .
 fnbouexxsq.att.hb.tt.omtrdc.net CNAME .
+fnp88.tt.tt.omtrdc.net CNAME .
 foldbyspisehus.tt.omtrdc.net CNAME .
 folksam.tt.omtrdc.net CNAME .
 follettschool.tt.omtrdc.net CNAME .
@@ -8628,6 +8843,7 @@ foxentertainmentgermany.hb-api.tt.omtrdc.net CNAME .
 foxentertainmentmobile.hb-api.tt.omtrdc.net CNAME .
 foxentertainmentsupport.hb-api.tt.omtrdc.net CNAME .
 foxentertainmentus-east-10.hb-api.tt.omtrdc.net CNAME .
+foxnetworks-huis-pf.tt.tt.omtrdc.net CNAME .
 foxnetworks.tt.omtrdc.net CNAME .
 foxnews.tt.omtrdc.net CNAME .
 foxsports.tt.omtrdc.net CNAME .
@@ -8670,9 +8886,12 @@ fressnapftiernahrung.tt.omtrdc.net CNAME .
 friendslakestudio.tt.omtrdc.net CNAME .
 frmboxedge38.tt.omtrdc.net CNAME .
 frog-hindleg.tt.omtrdc.net CNAME .
+frontend-scripts.hb.tt.omtrdc.net CNAME .
+frontend.gamma.us-east-1.translate.aws.tt.omtrdc.net CNAME .
 frontiercomm.tt.omtrdc.net CNAME .
 frp-bypass-app.tt.omtrdc.net CNAME .
 fs24.tt.omtrdc.net CNAME .
+fsd229.tt.tt.omtrdc.net CNAME .
 fsdu7-1.tt.omtrdc.net CNAME .
 fsecuregmbh.tt.omtrdc.net CNAME .
 fsfvg01kng9m.tt.omtrdc.net CNAME .
@@ -8704,10 +8923,12 @@ fuspena.tt.omtrdc.net CNAME .
 futbolclubbarcelona.tt.omtrdc.net CNAME .
 futuregenerali.tt.omtrdc.net CNAME .
 fw-sd.tt.omtrdc.net CNAME .
+fw.abbottlaboratories.tt.tt.omtrdc.net CNAME .
 fw2-ams01-p1-bc.tt.omtrdc.net CNAME .
 fwfd-euc1-lb20.tt.omtrdc.net CNAME .
 fwfd-use1-lb49.tt.omtrdc.net CNAME .
 fxrlrmc3lvv7.tt.omtrdc.net CNAME .
+g17.tt.tt.omtrdc.net CNAME .
 g5c9kxdo.tt.omtrdc.net CNAME .
 g6.tt.omtrdc.net CNAME .
 galiciabanco.tt.omtrdc.net CNAME .
@@ -8724,6 +8945,7 @@ gateway.tt.omtrdc.net CNAME .
 gaylordentertainment.tt.omtrdc.net CNAME .
 gaywhorevideos.tt.omtrdc.net CNAME .
 gbkh.tt.omtrdc.net CNAME .
+gce2.tt.tt.omtrdc.net CNAME .
 gcgruppe.tt.omtrdc.net CNAME .
 gcore-dev02-wlsadm.tt.omtrdc.net CNAME .
 gcpuserspostgresdoc-corporate.tt.omtrdc.net CNAME .
@@ -8762,6 +8984,8 @@ gh9dsjdq.hb-api.tt.omtrdc.net CNAME .
 ghaa-mock.hb-fa-stage.tt.omtrdc.net CNAME .
 ghbskyb.hb-api.tt.omtrdc.net CNAME .
 ghcpi-aa-mock.hb-fa-stage.tt.omtrdc.net CNAME .
+ghwee2jobs.tt.tt.omtrdc.net CNAME .
+gigamon-ee.tt.tt.omtrdc.net CNAME .
 gigamon.tt.omtrdc.net CNAME .
 gikunda-m.tt.omtrdc.net CNAME .
 giltgroup.tt.omtrdc.net CNAME .
@@ -8860,12 +9084,14 @@ gridsight3butor.tt.omtrdc.net CNAME .
 grim-soul-dark-fantasy-survival.tt.omtrdc.net CNAME .
 groceries-qa.asda.com.d2.sc.tt.omtrdc.net CNAME .
 groceriesnewmedia.hb.tt.omtrdc.net CNAME .
+groupama-ash.tt.tt.omtrdc.net CNAME .
 groupama.tt.omtrdc.net CNAME .
 groupedelhaize.tt.omtrdc.net CNAME .
 grouponeholdingspteltd.sc.tt.omtrdc.net CNAME .
 grouponinc.tt.omtrdc.net CNAME .
 grpc-server.staging-v2.tt.omtrdc.net CNAME .
 grpr.tt.omtrdc.net CNAME .
+grpr82.tt.tt.omtrdc.net CNAME .
 grrm.tt.omtrdc.net CNAME .
 gru-uat-ca.tt.omtrdc.net CNAME .
 grundfosholdingas.tt.omtrdc.net CNAME .
@@ -8883,13 +9109,16 @@ gsp35-vb11.tt.omtrdc.net CNAME .
 gtnnunlvbq.22nbcume.hb.tt.omtrdc.net CNAME .
 guardioesdoadventodire.tt.omtrdc.net CNAME .
 guc3-accesspoint-a-7wwv.tt.omtrdc.net CNAME .
+guess.com.ssl.d2.sc.tt.omtrdc.net CNAME .
 guia.edge46.testandtarget.omniture.com CNAME .
 guitarcenter.tt.omtrdc.net CNAME .
 gujarattourism.tt.omtrdc.net CNAME .
 gulliverbasketballclub.tt.omtrdc.net CNAME .
 guthyrenker.tt.omtrdc.net CNAME .
+gutterdogs-partner.tt.tt.omtrdc.net CNAME .
 gutterdogs.tt.omtrdc.net CNAME .
 gvb.tt.omtrdc.net CNAME .
+gvb2.tt.tt.omtrdc.net CNAME .
 gvt.tt.omtrdc.net CNAME .
 gws7.na3.tt.omtrdc.net CNAME .
 gwscognos.tt.omtrdc.net CNAME .
@@ -8925,6 +9154,7 @@ haproxy011.hb-api-stage.tt.omtrdc.net CNAME .
 hargreaveslansdownpl.tt.omtrdc.net CNAME .
 harianlagu76.tt.omtrdc.net CNAME .
 harleydavidson.tt.omtrdc.net CNAME .
+harrahs-testtest.tt.tt.omtrdc.net CNAME .
 harrahs.tt.omtrdc.net CNAME .
 harrisbankhelpscbs.hb-api.tt.omtrdc.net CNAME .
 harrischecking-fpssl.hb-api.tt.omtrdc.net CNAME .
@@ -8935,6 +9165,7 @@ harrisidprotection.insight.tt.omtrdc.net CNAME .
 harrismycfo.com.insight.tt.hb-fa-dev.tt.omtrdc.net CNAME .
 harrismycfo.insight.tt.hb-fa-dev.tt.omtrdc.net CNAME .
 harrisprivatebankstability.insight.tt.omtrdc.net CNAME .
+harrodsltd-nl.tt.tt.omtrdc.net CNAME .
 harrodsltd.tt.omtrdc.net CNAME .
 harvardbusinessonline.tt.omtrdc.net CNAME .
 harvardbusinessrevie.tt.omtrdc.net CNAME .
@@ -8959,9 +9190,12 @@ hb.tt.omtrdc.net CNAME .
 hb33.hb-api.tt.omtrdc.net CNAME .
 hbeegxjidz._tcp.arkena.hb.tt.omtrdc.net CNAME .
 hbkworld.tt.omtrdc.net CNAME .
+hbkworld02.tt.tt.omtrdc.net CNAME .
 hbolag.hb-api.tt.omtrdc.net CNAME .
 hbrbr.tt.omtrdc.net CNAME .
 hbus.tt.omtrdc.net CNAME .
+hc13.tt.tt.omtrdc.net CNAME .
+hc5c.tt.tt.omtrdc.net CNAME .
 hcf.tt.omtrdc.net CNAME .
 hcsc.tt.omtrdc.net CNAME .
 hdfcbank.tt.omtrdc.net CNAME .
@@ -8992,6 +9226,7 @@ heiferprojectsintern.tt.omtrdc.net CNAME .
 helenoftroy.tt.omtrdc.net CNAME .
 helpcms.tt.omtrdc.net CNAME .
 helsana.tt.omtrdc.net CNAME .
+helsanamacyss.tt.tt.omtrdc.net CNAME .
 helvetia.tt.omtrdc.net CNAME .
 henkel.tt.omtrdc.net CNAME .
 henntaikusuguri.blog.tt.omtrdc.net CNAME .
@@ -9015,7 +9250,9 @@ himki--mo.tt.omtrdc.net CNAME .
 hindalco.tt.omtrdc.net CNAME .
 hinditranslation.tt.omtrdc.net CNAME .
 hirezstudios3.tt.omtrdc.net CNAME .
+hisworld-co-ar.tt.tt.omtrdc.net CNAME .
 hisworld.tt.omtrdc.net CNAME .
+hitachi-stg.tt.tt.omtrdc.net CNAME .
 hitachi.tt.omtrdc.net CNAME .
 hk.entertainment.tt.omtrdc.net CNAME .
 hk.tt.omtrdc.net CNAME .
@@ -9037,6 +9274,7 @@ homedepot.tt.omtrdc.net CNAME .
 homedepotcanada.tt.omtrdc.net CNAME .
 homedepotmx.tt.omtrdc.net CNAME .
 homemadepornchannels.tt.omtrdc.net CNAME .
+homeroomab.tt.tt.omtrdc.net CNAME .
 honda.tt.omtrdc.net CNAME .
 honeypot2.tt.omtrdc.net CNAME .
 honeywellchina.tt.omtrdc.net CNAME .
@@ -9061,6 +9299,7 @@ hotels.cn.ssl.d2.sc.tt.omtrdc.net CNAME .
 houseoffraser.co.uk.ssl.sc.tt.omtrdc.net CNAME .
 housingdevelopment.tt.omtrdc.net CNAME .
 hoymotornewmedia.hb.tt.omtrdc.net CNAME .
+hp-mp.tt.tt.omtrdc.net CNAME .
 hp.com.ssl.d1.sc.tt.omtrdc.net CNAME .
 hp.tt.omtrdc.net CNAME .
 hpe.tt.omtrdc.net CNAME .
@@ -9122,12 +9361,15 @@ hw.tt.omtrdc.net CNAME .
 hwcdn.hb.tt.omtrdc.net CNAME .
 hwcdn.tt.omtrdc.net CNAME .
 hwm.tt.omtrdc.net CNAME .
+hwsrv-26423-5.tt.tt.omtrdc.net CNAME .
 hyattcorporation.tt.omtrdc.net CNAME .
 hypere.tt.omtrdc.net CNAME .
 hypn-prd-plan2.tt.omtrdc.net CNAME .
 hyundaimotorbrasil.tt.omtrdc.net CNAME .
 hyundaimotorcompany.tt.omtrdc.net CNAME .
 hyundaimotors.tt.omtrdc.net CNAME .
+i9c.tt.tt.omtrdc.net CNAME .
+ia2danmark.tt.tt.omtrdc.net CNAME .
 iad.tt.omtrdc.net CNAME .
 iad2v2-cmws.tt.omtrdc.net CNAME .
 iam-deployment-fix-github-status.tt.omtrdc.net CNAME .
@@ -9139,6 +9381,8 @@ ibankapacpartnersand.tt.omtrdc.net CNAME .
 ibap.tt.omtrdc.net CNAME .
 ibdf.tt.omtrdc.net CNAME .
 ibercaja.tt.omtrdc.net CNAME .
+ibis41tp.tt.tt.omtrdc.net CNAME .
+ibm-2y.tt.tt.omtrdc.net CNAME .
 ibm-power-systems.tt.omtrdc.net CNAME .
 ibm.tt.omtrdc.net CNAME .
 ibmwebsphere.tt.omtrdc.net CNAME .
@@ -9146,6 +9390,8 @@ ibursa-1.tt.omtrdc.net CNAME .
 icbanq.tt.omtrdc.net CNAME .
 iccu.com.ssl.sc.tt.omtrdc.net CNAME .
 icex.tt.omtrdc.net CNAME .
+icex5.tt.tt.omtrdc.net CNAME .
+icex7.tt.tt.omtrdc.net CNAME .
 ichiro-color.tt.omtrdc.net CNAME .
 icicihomefinance.tt.omtrdc.net CNAME .
 iciciprulife.tt.omtrdc.net CNAME .
@@ -9175,6 +9421,7 @@ ieweb-wc-a9s.tt.omtrdc.net CNAME .
 ifb.tt.omtrdc.net CNAME .
 ifmelectronic.tt.omtrdc.net CNAME .
 ifspdws01ermwvip01.cps.tt.omtrdc.net CNAME .
+igel-uss.tt.tt.omtrdc.net CNAME .
 iggroup.tt.omtrdc.net CNAME .
 igor.tt.omtrdc.net CNAME .
 ihgsixcontinentshote.tt.omtrdc.net CNAME .
@@ -9195,7 +9442,9 @@ ilotteryillinois.tt.omtrdc.net CNAME .
 ilotteryireland.tt.omtrdc.net CNAME .
 im.50ea31a.x3j8ew4.vid2.ll.tt.omtrdc.net CNAME .
 imaginextriojanewmedia.hb.tt.omtrdc.net CNAME .
+imagitasincc.tt.tt.omtrdc.net CNAME .
 img13.tt.omtrdc.net CNAME .
+imss-sre.tt.tt.omtrdc.net CNAME .
 imtstationers.tt.omtrdc.net CNAME .
 in.tt.omtrdc.net CNAME .
 incaencyclopediag.tt.omtrdc.net CNAME .
@@ -9231,13 +9480,16 @@ ingdirectit.tt.omtrdc.net CNAME .
 ingdirectit.tt.tt.omtrdc.net CNAME .
 ingrammicro.tt.omtrdc.net CNAME .
 ingredionincorporate.tt.omtrdc.net CNAME .
+ingress-rstest.tt.tt.omtrdc.net CNAME .
 ingress.hb.tt.omtrdc.net CNAME .
+ingressrogersmedia.tt.omtrdc.net CNAME .
 ingspain.tt.omtrdc.net CNAME .
 ingturkey.tt.omtrdc.net CNAME .
 initupdatehome-server-cdnhost-blog.1.hb-api.tt.omtrdc.net CNAME .
 innersource-petclinic-maven-prd-test.tt.omtrdc.net CNAME .
 innovationcu.tt.omtrdc.net CNAME .
 inome.tt.omtrdc.net CNAME .
+inomemacyss.tt.tt.omtrdc.net CNAME .
 ins.tvstore2.op.tt.omtrdc.net CNAME .
 inseec-msc.tt.omtrdc.net CNAME .
 inshot-editor.ru.tt.omtrdc.net CNAME .
@@ -9261,6 +9513,7 @@ intbafxiry.atresmedia.hb.tt.omtrdc.net CNAME .
 integryssjcnewmedia.hb.tt.omtrdc.net CNAME .
 intel.tt.omtrdc.net CNAME .
 intelcorporation.tt.omtrdc.net CNAME .
+intelius-usitunes.tt.tt.omtrdc.net CNAME .
 intelius.tt.omtrdc.net CNAME .
 intelligence.tt.omtrdc.net CNAME .
 interactsession-3117414.tt.omtrdc.net CNAME .
@@ -9268,6 +9521,7 @@ interactsession-79189.tt.omtrdc.net CNAME .
 interbank.tt.omtrdc.net CNAME .
 interface.tt.omtrdc.net CNAME .
 interflow.tt.omtrdc.net CNAME .
+intergamma2car.tt.tt.omtrdc.net CNAME .
 interlinebrands.tt.omtrdc.net CNAME .
 intermarkgroupinc.tt.omtrdc.net CNAME .
 intermixrds-coiejbint-int.ocaus.tt.omtrdc.net CNAME .
@@ -9316,6 +9570,7 @@ ip-143-10.tt.omtrdc.net CNAME .
 ip-35-168-14-144.tt.omtrdc.net CNAME .
 ip-4.tt.omtrdc.net CNAME .
 ip.tcp.arkena.hb.tt.omtrdc.net CNAME .
+ip1-3.tt.tt.omtrdc.net CNAME .
 ipad.tt.omtrdc.net CNAME .
 ipas-adminspo-admin.tt.omtrdc.net CNAME .
 ipask.api.tt.omtrdc.net CNAME .
@@ -9358,6 +9613,7 @@ iqmetrics.handelsblatt.com CNAME .
 iqmetrics.manager-magazin.de CNAME .
 iqmetrics.spiegel.de CNAME .
 iqmetrics.sueddeutsche.de CNAME .
+iqmetrics.tagesspiegel.de CNAME .
 ir4.6.tt.omtrdc.net CNAME .
 ir45.no.tt.omtrdc.net CNAME .
 irfss-pays-de-loire.tt.omtrdc.net CNAME .
@@ -9379,12 +9635,15 @@ it3-api.tt.omtrdc.net CNAME .
 itabus-uk-xc-prod.cloud.tt.omtrdc.net CNAME .
 itad2.americas.dyn.tt.omtrdc.net CNAME .
 itam.ifttt.tt.omtrdc.net CNAME .
+itaspa-coglobal.tt.tt.omtrdc.net CNAME .
 itaspa.tt.omtrdc.net CNAME .
 itauunibancosa.tt.omtrdc.net CNAME .
 itawcmail82.tt.omtrdc.net CNAME .
 itcars1.tt.omtrdc.net CNAME .
 itchotels-stage-65-p2.tt.omtrdc.net CNAME .
 itelecom38.de9.tt.omtrdc.net CNAME .
+ithakaharbors72.tt.tt.omtrdc.net CNAME .
+itlicensing-test-rts.tt.tt.omtrdc.net CNAME .
 itlicensing.tt.omtrdc.net CNAME .
 itp-ws.tt.omtrdc.net CNAME .
 itrepairservices.tt.omtrdc.net CNAME .
@@ -9401,6 +9660,7 @@ iwm2.rtct.tt.omtrdc.net CNAME .
 iwmb9-ic3.tt.omtrdc.net CNAME .
 ixjevtsrul.17.182adobecorp.hb.tt.omtrdc.net CNAME .
 iygsx1oadu45pubn.hb-api.tt.omtrdc.net CNAME .
+izotope-gn.tt.tt.omtrdc.net CNAME .
 izotope.tt.omtrdc.net CNAME .
 izumino.tt.omtrdc.net CNAME .
 j.apithe0-prodapi2-la.hb-api.tt.omtrdc.net CNAME .
@@ -9427,6 +9687,7 @@ jcb.tt.omtrdc.net CNAME .
 jcdecaux-recrute.tt.omtrdc.net CNAME .
 jch-monitoring-test.sx.cloud.tt.omtrdc.net CNAME .
 jcpenney.tt.omtrdc.net CNAME .
+jcrew.tt.omtrdc.net CNAME .
 jdcwebservices.tt.omtrdc.net CNAME .
 jecbm.tt.omtrdc.net CNAME .
 jeep-granturismo-6.tt.omtrdc.net CNAME .
@@ -9476,12 +9737,15 @@ jordan-morris-1.tt.omtrdc.net CNAME .
 jorgenboge.tt.omtrdc.net CNAME .
 jotexab.tt.omtrdc.net CNAME .
 joules.tt.omtrdc.net CNAME .
+joules2.premera.tt.omtrdc.net CNAME .
+joules37.tt.tt.omtrdc.net CNAME .
 joulesusa.com.ssl.sc.tt.omtrdc.net CNAME .
 jouying.tt.omtrdc.net CNAME .
 jp-animeland.tt.omtrdc.net CNAME .
 jpbodenandco.tt.omtrdc.net CNAME .
 jpmcam.tt.omtrdc.net CNAME .
 jpmcbankna.tt.omtrdc.net CNAME .
+jpmcbankna03.tt.tt.omtrdc.net CNAME .
 jpmorganchase.tt.omtrdc.net CNAME .
 jptegrazone.krnvidia.tt.omtrdc.net CNAME .
 jptgtr.astellas.jp CNAME .
@@ -9493,6 +9757,7 @@ jrss-215-74-21-61.tt.omtrdc.net CNAME .
 jrss-215-74-239-87.tt.omtrdc.net CNAME .
 jsums.tt.omtrdc.net CNAME .
 jt.tt.omtrdc.net CNAME .
+jtt83tp.tt.tt.omtrdc.net CNAME .
 jublfood.tt.omtrdc.net CNAME .
 juegos-de-carreras.tt.omtrdc.net CNAME .
 juju.tt.omtrdc.net CNAME .
@@ -9513,6 +9778,7 @@ jycpsdwubg.242pluralsight.hb.tt.omtrdc.net CNAME .
 jygbz335e5e.tt.omtrdc.net CNAME .
 k-e-t-o-super-burn-gummiesofficial.tt.omtrdc.net CNAME .
 k12.tt.omtrdc.net CNAME .
+k1prod-stg.tt.tt.omtrdc.net CNAME .
 k8s-dev.tt.omtrdc.net CNAME .
 k8s-mock-server-2.hb-fa-dev.tt.omtrdc.net CNAME .
 k8s-mock-server-3.hb-fa-dev.tt.omtrdc.net CNAME .
@@ -9553,10 +9819,12 @@ kellyswonderland.tt.omtrdc.net CNAME .
 kempinski.com.ssl.d3.sc.tt.omtrdc.net CNAME .
 kendrarenee.tt.omtrdc.net CNAME .
 kennametal.tt.omtrdc.net CNAME .
+kensetu.tt.omtrdc.net CNAME .
 kepco.tt.omtrdc.net CNAME .
 kepno14.tt.omtrdc.net CNAME .
 kerry.tt.omtrdc.net CNAME .
 keskustelut.tt.omtrdc.net CNAME .
+keurig-np-staging.tt.tt.omtrdc.net CNAME .
 keurig.tt.omtrdc.net CNAME .
 keybankassociation.tt.omtrdc.net CNAME .
 keysight.co.jp.ssl.sc.tt.omtrdc.net CNAME .
@@ -9589,7 +9857,9 @@ knrmosgjml.aetv.hb.tt.omtrdc.net CNAME .
 kocsma.tt.omtrdc.net CNAME .
 kodakimagingnetworki.tt.omtrdc.net CNAME .
 kohklkhwus.aetv.hb.tt.omtrdc.net CNAME .
+kohlberg-car-pf.tt.tt.omtrdc.net CNAME .
 kohlberg.tt.omtrdc.net CNAME .
+kohlerco-dc6.tt.tt.omtrdc.net CNAME .
 kohlerco.tt.omtrdc.net CNAME .
 kohls.tt.omtrdc.net CNAME .
 koisurunihon.tt.omtrdc.net CNAME .
@@ -9615,6 +9885,7 @@ kotakmahindrabank.tt.omtrdc.net CNAME .
 koufuku.blog.tt.omtrdc.net CNAME .
 kounenki.tt.omtrdc.net CNAME .
 kpmg.tt.omtrdc.net CNAME .
+kpmgess.tt.tt.omtrdc.net CNAME .
 kpmgllp.tt.omtrdc.net CNAME .
 kpn.sc.tt.omtrdc.net CNAME .
 kpnbv.tt.omtrdc.net CNAME .
@@ -9640,6 +9911,7 @@ lab.tt.omtrdc.net CNAME .
 labdishpurchasingcorporation.hb-api.tt.omtrdc.net CNAME .
 labomath.tt.omtrdc.net CNAME .
 labs-fpssl.hb-api.tt.omtrdc.net CNAME .
+labs-hb.tt.tt.omtrdc.net CNAME .
 labs0-4.tt.omtrdc.net CNAME .
 lacaixa.tt.omtrdc.net CNAME .
 laga.be.sc.tt.omtrdc.net CNAME .
@@ -9655,11 +9927,15 @@ landolakes.tt.omtrdc.net CNAME .
 landsend.tt.omtrdc.net CNAME .
 langhamhotels.tt.omtrdc.net CNAME .
 larry3.tt.omtrdc.net CNAME .
+lasalle-2.tt.tt.omtrdc.net CNAME .
 lasalle.tt.omtrdc.net CNAME .
 latin-dishpurchasingcorporation.hb-api.tt.omtrdc.net CNAME .
 latinamericacmnlistmailext-beta.tt.omtrdc.net CNAME .
 latinamericadishpurchasingcorporation.hb-api.tt.omtrdc.net CNAME .
+latrobe-ariba.tt.tt.omtrdc.net CNAME .
 latrobe.tt.omtrdc.net CNAME .
+latrobe2s.tt.tt.omtrdc.net CNAME .
+latrobe44.tt.tt.omtrdc.net CNAME .
 launchpad0-0.tt.omtrdc.net CNAME .
 launchpad2-25.tt.omtrdc.net CNAME .
 launchpad33.tt.omtrdc.net CNAME .
@@ -9683,11 +9959,14 @@ leadgen-sig.tt.omtrdc.net CNAME .
 learn.vet.tt.omtrdc.net CNAME .
 learn2go.ops.tt.omtrdc.net CNAME .
 lebara.tt.omtrdc.net CNAME .
+lebara1c.tt.tt.omtrdc.net CNAME .
 leedsbusworkers.tt.omtrdc.net CNAME .
 legalandgeneral.tt.omtrdc.net CNAME .
 lendingtreellc.tt.omtrdc.net CNAME .
 lendio.tt.omtrdc.net CNAME .
+lendio211sc.tt.tt.omtrdc.net CNAME .
 lenordik.tt.omtrdc.net CNAME .
+lenovo-mft.tt.tt.omtrdc.net CNAME .
 lenovo.tt.omtrdc.net CNAME .
 lenovo.tt.tt.omtrdc.net CNAME .
 lens.blogs.tt.omtrdc.net CNAME .
@@ -9702,6 +9981,7 @@ levis.tt.omtrdc.net CNAME .
 lexihealeywd.tt.omtrdc.net CNAME .
 lexisnexisrisksolutions.d5.sc.tt.omtrdc.net CNAME .
 lexmark.tt.omtrdc.net CNAME .
+lexmark24.tt.tt.omtrdc.net CNAME .
 lfosjghqbh._tcp.aem.hb.tt.omtrdc.net CNAME .
 lgadamericas.tt.omtrdc.net CNAME .
 lgelectronics.tt.omtrdc.net CNAME .
@@ -9709,6 +9989,7 @@ lgelectronicsinc.tt.omtrdc.net CNAME .
 lgvecdlf6xsdfpv8.tt.omtrdc.net CNAME .
 lib.tt.omtrdc.net CNAME .
 libertyglobalpaneu.tt.omtrdc.net CNAME .
+libertylatam-mx.tt.tt.omtrdc.net CNAME .
 libertylatam.tt.omtrdc.net CNAME .
 libertymutual.tt.omtrdc.net CNAME .
 library.tt.omtrdc.net CNAME .
@@ -9720,6 +10001,7 @@ lifetimeproducts.tt.omtrdc.net CNAME .
 lifewaychristianreso.tt.omtrdc.net CNAME .
 lightgift.tt.omtrdc.net CNAME .
 lily-baby-shop.tt.omtrdc.net CNAME .
+lindt-id.tt.tt.omtrdc.net CNAME .
 lindt.tt.omtrdc.net CNAME .
 lineadirectaes.tt.omtrdc.net CNAME .
 link.hb-api-stage.tt.omtrdc.net CNAME .
@@ -9755,7 +10037,9 @@ loadbalancer.tt.omtrdc.net CNAME .
 loadbalancerbskyb.hb-api.tt.omtrdc.net CNAME .
 loadbalancerfoxentertainment.hb-api.tt.omtrdc.net CNAME .
 loadchecker.tt.omtrdc.net CNAME .
+loans68.tt.tt.omtrdc.net CNAME .
 lobby.tt.omtrdc.net CNAME .
+loblawsinc-mobile1.tt.tt.omtrdc.net CNAME .
 loblawsinc.tt.omtrdc.net CNAME .
 localsearch.tt.omtrdc.net CNAME .
 locationapi.tt.omtrdc.net CNAME .
@@ -9787,6 +10071,7 @@ love.tt.omtrdc.net CNAME .
 lovekirugon.tt.omtrdc.net CNAME .
 lowes.tt.omtrdc.net CNAME .
 loyaltyone.tt.omtrdc.net CNAME .
+loyaltyone3.tt.tt.omtrdc.net CNAME .
 loyaltypacificptyltd.tt.omtrdc.net CNAME .
 loyaltypartner.tt.omtrdc.net CNAME .
 lp.b2bmail.adobe.com CNAME .
@@ -9828,10 +10113,12 @@ lucidsoftware.tt.omtrdc.net CNAME .
 luigi-sand.qwt.tt.omtrdc.net CNAME .
 luigilavazzaspa.tt.omtrdc.net CNAME .
 lululemonusa.tt.omtrdc.net CNAME .
+lulus-food.tt.tt.omtrdc.net CNAME .
 lulus.tt.omtrdc.net CNAME .
 lumberliquidators.tt.omtrdc.net CNAME .
 luna-dev.tt.omtrdc.net CNAME .
 lundbeck.tt.omtrdc.net CNAME .
+lundbeck8.tt.tt.omtrdc.net CNAME .
 luxottica.tt.omtrdc.net CNAME .
 lv.premera.tt.omtrdc.net CNAME .
 lv51s.tt.omtrdc.net CNAME .
@@ -9858,6 +10145,7 @@ ma-all-automation2-alb.demo.tt.omtrdc.net CNAME .
 mac9.tt.omtrdc.net CNAME .
 machine-foxentertainment.hb-api.tt.omtrdc.net CNAME .
 macquarie.tt.omtrdc.net CNAME .
+macys-ash.tt.tt.omtrdc.net CNAME .
 macys.tt.omtrdc.net CNAME .
 madarweather.tt.omtrdc.net CNAME .
 magaseek.tt.omtrdc.net CNAME .
@@ -9876,13 +10164,16 @@ mail.mboxedge1-alb.tt-qe7.tt.omtrdc.net CNAME .
 mail.tt.omtrdc.net CNAME .
 mail100dev.tt.omtrdc.net CNAME .
 mail2mosaikbusiness.insight.tt.omtrdc.net CNAME .
+mail33.tt.tt.omtrdc.net CNAME .
 mail5-98.tt.omtrdc.net CNAME .
 mail64prod.tt.omtrdc.net CNAME .
 mail7.systemalerts11.tt.omtrdc.net CNAME .
 mail7808.campaigns.tt.omtrdc.net CNAME .
 mailchimp-2-3.tt.omtrdc.net CNAME .
 mailing.hb-api-stage.tt.omtrdc.net CNAME .
+mailout-twuat.tt.tt.omtrdc.net CNAME .
 mailout.tt.omtrdc.net CNAME .
+mailout2you.tt.tt.omtrdc.net CNAME .
 mailsor-f61.tt.omtrdc.net CNAME .
 mailsusu.tt.omtrdc.net CNAME .
 maisprofessores.tt.omtrdc.net CNAME .
@@ -9897,8 +10188,12 @@ malaysiaflipflop.tt.omtrdc.net CNAME .
 malochemonnex.tt.omtrdc.net CNAME .
 mama.tt.omtrdc.net CNAME .
 mama01.tt.omtrdc.net CNAME .
+mama12.tt.omtrdc.net CNAME .
+mamamacys.tt.tt.omtrdc.net CNAME .
 mameo.tt.omtrdc.net CNAME .
 mammothmountainskiar.tt.omtrdc.net CNAME .
+manage7sc.tt.tt.omtrdc.net CNAME .
+management-unileverna.tt.omtrdc.net CNAME .
 management.tt.omtrdc.net CNAME .
 mandarat.tt.omtrdc.net CNAME .
 mansookim.tt.omtrdc.net CNAME .
@@ -9933,9 +10228,11 @@ marriottownershipres.tt.omtrdc.net CNAME .
 maruig.tt.omtrdc.net CNAME .
 marvel.hb-api.tt.omtrdc.net CNAME .
 marvel.tt.omtrdc.net CNAME .
+marvelesc.tt.tt.omtrdc.net CNAME .
 marvelvscapcom.tt.omtrdc.net CNAME .
 marykay.tt.omtrdc.net CNAME .
 maserati.tt.omtrdc.net CNAME .
+maserati2tp.tt.tt.omtrdc.net CNAME .
 masirh.tt.omtrdc.net CNAME .
 mask-h2.tt.omtrdc.net CNAME .
 masking.tt.omtrdc.net CNAME .
@@ -9982,8 +10279,10 @@ mbna.tt.tt.omtrdc.net CNAME .
 mbollu2.mluu.tt.omtrdc.net CNAME .
 mbox.offermatica.com CNAME .
 mbox.wegmans.com CNAME .
+mbox12.offermatica.com CNAME .
 mbox12e.offermatica.com CNAME .
 mbox12e.tt.omtrdc.net CNAME .
+mbox17.tt.tt.omtrdc.net CNAME .
 mbox3.offermatica.com CNAME .
 mbox3e.offermatica.com CNAME .
 mbox4.offermatica.com CNAME .
@@ -9997,15 +10296,21 @@ mboxedge.tt.hb-api.tt.omtrdc.net CNAME .
 mboxedge.tt.omtrdc.net CNAME .
 mboxedge1-alb.router-ethos.hb-fa-dev.tt.omtrdc.net CNAME .
 mboxedge1-alb.tt-qe7.tt.omtrdc.net CNAME .
+mboxedge14.tt.tt.omtrdc.net CNAME .
 mboxedge18.hb-api.tt.omtrdc.net CNAME .
+mboxedge18s-mboxedgeproxy-tyo2.tt.tt.omtrdc.net CNAME .
 mboxedge20.tt.omtrdc.net CNAME .
 mboxedge23centerpointenergy.tt.omtrdc.net CNAME .
 mboxedge24.tt.omtrdc.net CNAME .
+mboxedge25edge.tt.tt.omtrdc.net CNAME .
 mboxedge27.tt.omtrdc.net CNAME .
 mboxedge33.tt.omtrdc.net CNAME .
+mboxedge35-signed.staging.tt.tt.omtrdc.net CNAME .
 mboxedge37.abbottlaboratories.tt.omtrdc.net CNAME .
 mboxedge37.tt.hb-fa-dev.tt.omtrdc.net CNAME .
+mboxedge38--local.tt.tt.omtrdc.net CNAME .
 mboxedgeundefined.tt.omtrdc.net CNAME .
+mboxeks37edge.tt.tt.omtrdc.net CNAME .
 mboxpc.adobe.tt.omtrdc.net CNAME .
 mboxpc.ingspain.tt.omtrdc.net CNAME .
 mboxsession.adobe.tt.omtrdc.net CNAME .
@@ -10059,6 +10364,7 @@ mdds-i-tc-east1a.aw018.c.tt.omtrdc.net CNAME .
 mdis-ner-jira-sqmetadata-8964-ip.awscmhqa3.k8s.tt.omtrdc.net CNAME .
 mdl.learn.tt.omtrdc.net CNAME .
 mdm-csb-se.ins.ins.tt.omtrdc.net CNAME .
+mdm-octaneabnamro.tt.tt.omtrdc.net CNAME .
 mdm-prd.tt.omtrdc.net CNAME .
 mdm.athena.tt.omtrdc.net CNAME .
 mdmbo.tt.omtrdc.net CNAME .
@@ -10068,6 +10374,7 @@ mdmmail-ping-corp.tt.omtrdc.net CNAME .
 mdmp3.ftpd.tt.omtrdc.net CNAME .
 mdomsp.tt.omtrdc.net CNAME .
 mdzz-uncover.uncover.tt.omtrdc.net CNAME .
+me-test.tt.tt.omtrdc.net CNAME .
 me-uat-legacy.tt.omtrdc.net CNAME .
 me03s.tt.omtrdc.net CNAME .
 meaw0g8lie108nza.comune.tt.omtrdc.net CNAME .
@@ -10144,6 +10451,8 @@ metadata-02-03.erc.erc.tt.omtrdc.net CNAME .
 metadata.hb-api.tt.omtrdc.net CNAME .
 meteorites.tt.omtrdc.net CNAME .
 metlifeglobal.tt.omtrdc.net CNAME .
+metric-id-staging.tt.tt.omtrdc.net CNAME .
+metric-t.tt.tt.omtrdc.net CNAME .
 metric-twctsg.hb-api.tt.omtrdc.net CNAME .
 metric.tt.omtrdc.net CNAME .
 metricas.agzero.com.br CNAME .
@@ -10152,6 +10461,7 @@ metrics-cert2.citrix.tt.omtrdc.net CNAME .
 metrics-dev.metrics.tt.omtrdc.net CNAME .
 metrics-es-dev.tt.omtrdc.net CNAME .
 metrics-stg.devices-qa-cvr.g.tt.omtrdc.net CNAME .
+metrics-t.tt.tt.omtrdc.net CNAME .
 metrics-target.siriusxm.com CNAME .
 metrics-ws.tt.omtrdc.net CNAME .
 metrics.active.com.tt.omtrdc.net CNAME .
@@ -10370,6 +10680,7 @@ mml.ple.tt.omtrdc.net CNAME .
 mmpt.atlassian-app.eu.tt.omtrdc.net CNAME .
 mmserver1.tt.omtrdc.net CNAME .
 mmsngaa-mx.tt.omtrdc.net CNAME .
+mmsngaa-team-rts.tt.tt.omtrdc.net CNAME .
 mmsngaa.tt.hb-fa-dev.tt.omtrdc.net CNAME .
 mmsngaa.tt.omtrdc.net CNAME .
 mmspdistribe.tt.omtrdc.net CNAME .
@@ -10418,6 +10729,7 @@ moodysanalytics.tt.omtrdc.net CNAME .
 moollaza-new.tt.omtrdc.net CNAME .
 morgan-cultus-5.tt.omtrdc.net CNAME .
 morganstanleyandco.tt.omtrdc.net CNAME .
+morningstar-mxh.tt.tt.omtrdc.net CNAME .
 mosaikbusiness.insight.tt.omtrdc.net CNAME .
 mosax.tt.omtrdc.net CNAME .
 motegrity.com.ssl.sc.tt.omtrdc.net CNAME .
@@ -10438,6 +10750,8 @@ movie.tt.omtrdc.net CNAME .
 mozilla-firefox.hu.tt.omtrdc.net CNAME .
 mozilla-firefox.tr.tt.omtrdc.net CNAME .
 mozy.tt.omtrdc.net CNAME .
+mozy02s.tt.tt.omtrdc.net CNAME .
+mpark-uss.tt.tt.omtrdc.net CNAME .
 mpawmag04.miapp.tt.omtrdc.net CNAME .
 mphasislimited.tt.omtrdc.net CNAME .
 mpp-server.tcp.hb-fa-dev.tt.omtrdc.net CNAME .
@@ -10455,6 +10769,8 @@ mrsproxyfm5.tt.omtrdc.net CNAME .
 ms-cam-u035.tt.omtrdc.net CNAME .
 ms-darts-onebox.tt.omtrdc.net CNAME .
 ms.topschooljobs.org CNAME .
+msa-wh.tt.tt.omtrdc.net CNAME .
+msa2h018.tt.tt.omtrdc.net CNAME .
 mscdirect.tt.omtrdc.net CNAME .
 mt1-00.tt.omtrdc.net CNAME .
 mta-51.tt.omtrdc.net CNAME .
@@ -10469,6 +10785,8 @@ mtapia.amisaha.tt.omtrdc.net CNAME .
 mtb.tt.omtrdc.net CNAME .
 mtbcertdefault2m.gslb.tt.omtrdc.net CNAME .
 mtbmbscert-cert.tt.omtrdc.net CNAME .
+mtbmbscert.premera.tt.omtrdc.net CNAME .
+mtbmbscert3.tt.tt.tt.omtrdc.net CNAME .
 mtcnjv9porf01-eth2.tt.omtrdc.net CNAME .
 mtpecas3rodas.tt.omtrdc.net CNAME .
 mtr-events-worker-v1-eu-central-1.tt.omtrdc.net CNAME .
@@ -10488,11 +10806,13 @@ muisje707-7.tt.omtrdc.net CNAME .
 mulo3.msr.tt.omtrdc.net CNAME .
 mums.tt.omtrdc.net CNAME .
 mun-falltagomi-mun302.artifactory.prod.tt.omtrdc.net CNAME .
+munichre-rs.tt.tt.omtrdc.net CNAME .
 munin-insurance.insurance.tt.omtrdc.net CNAME .
 munin2.funding-sav2.tt.omtrdc.net CNAME .
 muradinc.tt.omtrdc.net CNAME .
 murdochuniversity.tt.omtrdc.net CNAME .
 muscleinfo.tt.omtrdc.net CNAME .
+musicdev.tt.tt.omtrdc.net CNAME .
 musicnotesinc.tt.omtrdc.net CNAME .
 musicplayer.tt.omtrdc.net CNAME .
 mutanpoloan.tt.omtrdc.net CNAME .
@@ -10534,6 +10854,7 @@ mylittlepony.tt.omtrdc.net CNAME .
 mylockerqa-2.vpn.tt.omtrdc.net CNAME .
 mylpl.tt.omtrdc.net CNAME .
 mymail-prod.corp.tt.omtrdc.net CNAME .
+myms.tt.tt.omtrdc.net CNAME .
 mynavi.tt.omtrdc.net CNAME .
 mypage-old.tt.omtrdc.net CNAME .
 myprogrammingguide.tt.omtrdc.net CNAME .
@@ -10549,6 +10870,7 @@ mytvsuperlimited.bskyb.hb.tt.omtrdc.net CNAME .
 mytvsuperlimited.elastic.hb.tt.omtrdc.net CNAME .
 myvh.tt.omtrdc.net CNAME .
 n.nationwideinsurance.tt.tt.omtrdc.net CNAME .
+n.tt.omtrdc.net CNAME .
 n2xt.tt.omtrdc.net CNAME .
 n3hubapacpartnersand.tt.omtrdc.net CNAME .
 n7fundqa.tt.omtrdc.net CNAME .
@@ -10576,11 +10898,14 @@ naturalhistorymuseum.tt.omtrdc.net CNAME .
 naturallife.tt.omtrdc.net CNAME .
 naturmachtproductions.tt.omtrdc.net CNAME .
 nautilus.tt.omtrdc.net CNAME .
+nautilus43.tt.tt.omtrdc.net CNAME .
 nautilusdishpurchasingcorporation.hb-api.tt.omtrdc.net CNAME .
 navi19.tt.omtrdc.net CNAME .
+navitas-id.tt.tt.omtrdc.net CNAME .
 navitas.tt.omtrdc.net CNAME .
 navitastarget.tt.omtrdc.net CNAME .
 navyfederalcu.tt.omtrdc.net CNAME .
+nbaprop-npcar.tt.tt.omtrdc.net CNAME .
 nbaprop.tt.omtrdc.net CNAME .
 nbcownedtvstations.tt.omtrdc.net CNAME .
 nbcuniversalmediasyf.tt.omtrdc.net CNAME .
@@ -10589,6 +10914,7 @@ nbly.tt.omtrdc.net CNAME .
 nbtyglobalinc.tt.omtrdc.net CNAME .
 nc-pod1-smp.tt.omtrdc.net CNAME .
 ncmec.tt.omtrdc.net CNAME .
+ncmecabcnewsjobs.tt.tt.omtrdc.net CNAME .
 ncrcorporation.tt.omtrdc.net CNAME .
 nebraskaccess.tt.omtrdc.net CNAME .
 nebraskafurnituremar.tt.omtrdc.net CNAME .
@@ -10598,6 +10924,7 @@ nedbanklimited.tt.omtrdc.net CNAME .
 negozio.tt.omtrdc.net CNAME .
 neimanmarcus.tt.omtrdc.net CNAME .
 neimanmarcus.tt.tt.omtrdc.net CNAME .
+neimanmarcus83.tt.tt.omtrdc.net CNAME .
 nekonecnalaska.tt.omtrdc.net CNAME .
 neleconomista.d1.sc.tt.omtrdc.net CNAME .
 neom.tt.omtrdc.net CNAME .
@@ -10640,6 +10967,7 @@ nfs-most-wanted.pt.tt.omtrdc.net CNAME .
 nftroyalties.tt.omtrdc.net CNAME .
 nginx.tt.omtrdc.net CNAME .
 nh.reports.tt.omtrdc.net CNAME .
+nhkonlinetraining5.tt.tt.omtrdc.net CNAME .
 nhkworld.tt.omtrdc.net CNAME .
 nhlnews.tt.omtrdc.net CNAME .
 nhst.tt.omtrdc.net CNAME .
@@ -10651,12 +10979,14 @@ nigeria.hb-api.tt.omtrdc.net CNAME .
 niina-xan.tt.omtrdc.net CNAME .
 nijidorop.blog.tt.omtrdc.net CNAME .
 nike.tt.omtrdc.net CNAME .
+nikenet-dal-auta.tt.tt.omtrdc.net CNAME .
 nikenet.tt.omtrdc.net CNAME .
 nikkei.tt.omtrdc.net CNAME .
 nilfiskadvance.tt.omtrdc.net CNAME .
 ninopal.tt.omtrdc.net CNAME .
 nintendoofamerica.tt.omtrdc.net CNAME .
 nippontravelagency.tt.omtrdc.net CNAME .
+nissaneurope.nissanheliosna.tt.omtrdc.net CNAME .
 nissanheliosami.tt.omtrdc.net CNAME .
 nissanhelioseu.tt.omtrdc.net CNAME .
 nissanhelioseurope.tt.omtrdc.net CNAME .
@@ -10674,7 +11004,10 @@ nokia.tt.omtrdc.net CNAME .
 nokiaus.tt.omtrdc.net CNAME .
 nomadictribes.tt.omtrdc.net CNAME .
 nomurasecurities.tt.omtrdc.net CNAME .
+norauto-tnetworks.tt.tt.omtrdc.net CNAME .
 norauto.tt.omtrdc.net CNAME .
+norauto2-ash.tt.tt.omtrdc.net CNAME .
+nordea-ppp.tt.tt.omtrdc.net CNAME .
 nordea.tt.omtrdc.net CNAME .
 norden.tt.omtrdc.net CNAME .
 nordstromrack.tt.omtrdc.net CNAME .
@@ -10709,6 +11042,7 @@ nuffieldhealth.tt.omtrdc.net CNAME .
 nutanix.tt.omtrdc.net CNAME .
 nutrimenta.tt.omtrdc.net CNAME .
 nvidia.tt.omtrdc.net CNAME .
+nvodafoneindia.tt.tt.omtrdc.net CNAME .
 nwfbr.tt.omtrdc.net CNAME .
 nycgo.com.ssl.d1.sc.tt.omtrdc.net CNAME .
 nyelvkonyv.tt.omtrdc.net CNAME .
@@ -10723,8 +11057,10 @@ oaamdev.tt.omtrdc.net CNAME .
 oahxmmyxxm.17.182nbcume.hb.tt.omtrdc.net CNAME .
 oaklawnmarketing.tt.omtrdc.net CNAME .
 oaz.tt.omtrdc.net CNAME .
+oboschool-rol1.tt.tt.omtrdc.net CNAME .
 oceanbank.tt.omtrdc.net CNAME .
 ochs.oldham.tt.omtrdc.net CNAME .
+ocio-2a.tt.tt.omtrdc.net CNAME .
 octannerco.tt.omtrdc.net CNAME .
 octarget.tt.omtrdc.net CNAME .
 odishatourismgov.tt.omtrdc.net CNAME .
@@ -10739,6 +11075,7 @@ ol777tokyo.blog41.tt.omtrdc.net CNAME .
 olaminformation.tt.omtrdc.net CNAME .
 olamnet.tt.omtrdc.net CNAME .
 omes.tt.omtrdc.net CNAME .
+omestp.tt.tt.omtrdc.net CNAME .
 omniture.tt.omtrdc.net CNAME .
 omniture.tt.tt.omtrdc.net CNAME .
 omniture8-8.tt.omtrdc.net CNAME .
@@ -10746,7 +11083,9 @@ omron.tt.omtrdc.net CNAME .
 oms.avira.com CNAME .
 omtrdc.netcbsnews.hb-api.tt.omtrdc.net CNAME .
 omtrdc.netdiscovery.hb-api.tt.omtrdc.net CNAME .
+omtrdcaustralianewzealandb.tt.omtrdc.net CNAME .
 oncourselearning.tt.omtrdc.net CNAME .
+onemarketingazap-se.tt.tt.omtrdc.net CNAME .
 onemarketingazap.tt.omtrdc.net CNAME .
 onemarketingazapsin.tt.omtrdc.net CNAME .
 onemarketingazd.tt.omtrdc.net CNAME .
@@ -10770,6 +11109,7 @@ oopt.norauto.fr CNAME .
 opass.tt.omtrdc.net CNAME .
 opelautomobilegmbh.tt.omtrdc.net CNAME .
 openbank.tt.omtrdc.net CNAME .
+openbank.tt.tt.tt.omtrdc.net CNAME .
 opentable.tt.omtrdc.net CNAME .
 opepalvelu.tt.omtrdc.net CNAME .
 operateurtec.tt.omtrdc.net CNAME .
@@ -10782,9 +11122,12 @@ optimum.tt.omtrdc.net CNAME .
 oquassa.tt.omtrdc.net CNAME .
 orangepl.tt.omtrdc.net CNAME .
 orangesoda.d2.sc.tt.omtrdc.net CNAME .
+orbitzmobileuk.tt.tt.omtrdc.net CNAME .
 oregoncommunitycredi.tt.omtrdc.net CNAME .
+orest-004.tt.tt.omtrdc.net CNAME .
 org-anissa-areariservatzcbd5zkupel.tt.omtrdc.net CNAME .
 org-apimobilemweb-careersocdiscover.0.hb-api.tt.omtrdc.net CNAME .
+org-productionuatuatru-servicesshop.1.hb-api.tt.omtrdc.net CNAME .
 organicgrowthpic.tt.omtrdc.net CNAME .
 origin-partnerconnect.tt.omtrdc.net CNAME .
 origin-secure-modules.tt.omtrdc.net CNAME .
@@ -10895,6 +11238,7 @@ panduitcorporation.tt.omtrdc.net CNAME .
 panel67.tt.omtrdc.net CNAME .
 panelstevemyers4.tt.omtrdc.net CNAME .
 panera.tt.omtrdc.net CNAME .
+panera44.tt.tt.omtrdc.net CNAME .
 panorama-dom.debscy.tt.omtrdc.net CNAME .
 panpacificmarketings.tt.hb-fa-dev.tt.omtrdc.net CNAME .
 panpacificmarketings.tt.omtrdc.net CNAME .
@@ -10922,6 +11266,7 @@ parttest4-ntsa.tt.omtrdc.net CNAME .
 partycitycorp.tt.omtrdc.net CNAME .
 parul.tt.omtrdc.net CNAME .
 pass-mock.hb-fa-stage.tt.omtrdc.net CNAME .
+pass.discovery.hb-api.tt.omtrdc.net CNAME .
 pass.tt.omtrdc.net CNAME .
 pastorthiagosanchez.tt.omtrdc.net CNAME .
 pathmaker-group-cloud.tt.omtrdc.net CNAME .
@@ -10943,6 +11288,7 @@ pbs-nets-global-prod.tt.omtrdc.net CNAME .
 pc.0info-jmedia-en-api-test.hb-api.tt.omtrdc.net CNAME .
 pc29-6-8.tt.omtrdc.net CNAME .
 pcc-51-75-114-58.tt.omtrdc.net CNAME .
+pccomponentes-135.tt.tt.omtrdc.net CNAME .
 pccomponentes.tt.omtrdc.net CNAME .
 pdc1sp003.tt.omtrdc.net CNAME .
 pdfotter.tt.omtrdc.net CNAME .
@@ -10993,6 +11339,7 @@ petcarerx.tt.omtrdc.net CNAME .
 petco.tt.omtrdc.net CNAME .
 petermillar.tt.omtrdc.net CNAME .
 petplan.tt.omtrdc.net CNAME .
+petplan.tt.tt.omtrdc.net CNAME .
 pexsupply.tt.omtrdc.net CNAME .
 pfapension.tt.omtrdc.net CNAME .
 pge.tt.omtrdc.net CNAME .
@@ -11022,6 +11369,7 @@ pikolin.tt.omtrdc.net CNAME .
 pinkpetsara.tt.omtrdc.net CNAME .
 pino.tt.omtrdc.net CNAME .
 pionas.tt.omtrdc.net CNAME .
+pipeline0.tt.tt.tt.omtrdc.net CNAME .
 pitneybowesinc.tt.omtrdc.net CNAME .
 pixel-32.tt.omtrdc.net CNAME .
 pizzahutllc.tt.omtrdc.net CNAME .
@@ -11033,9 +11381,11 @@ planthardiness.tt.omtrdc.net CNAME .
 plantronics.tt.omtrdc.net CNAME .
 planwiseau.tt.omtrdc.net CNAME .
 platform-api-dev-invalid.tt.omtrdc.net CNAME .
+platform18.tt.tt.omtrdc.net CNAME .
 playaio.tt.omtrdc.net CNAME .
 playerbadger.tt.omtrdc.net CNAME .
 playtune.tt.omtrdc.net CNAME .
+plera8s.tt.tt.omtrdc.net CNAME .
 plm-qa.tt.omtrdc.net CNAME .
 pluralsight.hb-api.tt.omtrdc.net CNAME .
 pluralsight.tt.omtrdc.net CNAME .
@@ -11060,6 +11410,7 @@ pomelomax.tt.omtrdc.net CNAME .
 pongosoftware.tt.omtrdc.net CNAME .
 pop-ela4-alpha.platform-src.tt.omtrdc.net CNAME .
 pop.tt.omtrdc.net CNAME .
+popmacys.tt.tt.omtrdc.net CNAME .
 popu.tt.omtrdc.net CNAME .
 popular-prize.tt.omtrdc.net CNAME .
 pornnarai16.tt.omtrdc.net CNAME .
@@ -11073,6 +11424,7 @@ portingclassi.tt.omtrdc.net CNAME .
 portoseguro.tt.omtrdc.net CNAME .
 portugalia.tt.omtrdc.net CNAME .
 portuguescomchocolate.tt.omtrdc.net CNAME .
+pos-se-np4.tt.tt.omtrdc.net CNAME .
 postfoxentertainment.hb-api.tt.omtrdc.net CNAME .
 postofficeltd.tt.omtrdc.net CNAME .
 postsearch.tt.omtrdc.net CNAME .
@@ -11092,7 +11444,9 @@ pr5965.preprod.tt.omtrdc.net CNAME .
 pradaspa.tt.omtrdc.net CNAME .
 prd.tt.omtrdc.net CNAME .
 pre-zcorp.tt.omtrdc.net CNAME .
+pre12y.tt.tt.omtrdc.net CNAME .
 pre2-upgrades.tt.omtrdc.net CNAME .
+pre34.tt.tt.omtrdc.net CNAME .
 preaccountsit.tt.omtrdc.net CNAME .
 prealc.apfepl01.tt.omtrdc.net CNAME .
 preferences-loadbalancer-v1-oceania-mx.tt.omtrdc.net CNAME .
@@ -11127,6 +11481,7 @@ primepagine.tt.omtrdc.net CNAME .
 primmr-ztzhi6iiyxyxp6sd.tt.omtrdc.net CNAME .
 printplacecomllc.tt.omtrdc.net CNAME .
 prisacom.tt.omtrdc.net CNAME .
+prisacom25.tt.tt.omtrdc.net CNAME .
 private-zkdjsxlhya6m7xfq.tt.omtrdc.net CNAME .
 private.cervicalcancer-risk.com CNAME .
 private.roche.com CNAME .
@@ -11138,6 +11493,7 @@ prn-dc08.tt.omtrdc.net CNAME .
 prnewswireassociatio.tt.omtrdc.net CNAME .
 pro.admin-1cdn.hb-api.tt.omtrdc.net CNAME .
 processoeletronico.tt.omtrdc.net CNAME .
+procore-carabnamro.tt.tt.omtrdc.net CNAME .
 procore.sc.tt.omtrdc.net CNAME .
 procore.tt.omtrdc.net CNAME .
 prod-kmprgaed-oce-002-ingress.tt.omtrdc.net CNAME .
@@ -11150,6 +11506,7 @@ prodportstanly.tt.omtrdc.net CNAME .
 prodsalesbetatemp-exchangedns.tt.omtrdc.net CNAME .
 prodtest1-select.tt.omtrdc.net CNAME .
 produban.tt.omtrdc.net CNAME .
+produban74.tt.tt.omtrdc.net CNAME .
 production-br-g-ri-assets-serverl.0.hb-api.tt.omtrdc.net CNAME .
 production.1-the-jloginn-securey.hb-api.tt.omtrdc.net CNAME .
 profile.heartbeats.hb.tt.omtrdc.net CNAME .
@@ -11183,10 +11540,12 @@ psenefile.tt.omtrdc.net CNAME .
 pseudomain.tt.omtrdc.net CNAME .
 pspperfc.tt.omtrdc.net CNAME .
 pspsso.tt.omtrdc.net CNAME .
+psychieb.tt.tt.omtrdc.net CNAME .
 pt-br.tokyoghoul.tt.omtrdc.net CNAME .
 ptowxtombv.vvzhujsqvg.att.hb.tt.omtrdc.net CNAME .
 ptrs.regione.tt.omtrdc.net CNAME .
 ptzinsurance.tt.omtrdc.net CNAME .
+ptzinsurance4.tt.tt.omtrdc.net CNAME .
 publicstorage.tt.omtrdc.net CNAME .
 publicten-minions.tt.omtrdc.net CNAME .
 pultegroup.tt.omtrdc.net CNAME .
@@ -11205,6 +11564,7 @@ pv01sac01.tt.omtrdc.net CNAME .
 pvhnorthamerica.tt.omtrdc.net CNAME .
 pvt.prd-p-o3ydf.tt.omtrdc.net CNAME .
 pwc.tt.omtrdc.net CNAME .
+pwcglsc-an.tt.tt.omtrdc.net CNAME .
 pwcglsc.tt.omtrdc.net CNAME .
 q71scy82wian7jhw.tt.omtrdc.net CNAME .
 qa-registered-boleto.tt.omtrdc.net CNAME .
@@ -11219,6 +11579,8 @@ qboy.tt.omtrdc.net CNAME .
 qbparzqzbm.20nbcume.hb.tt.omtrdc.net CNAME .
 qbse-stg.tt.omtrdc.net CNAME .
 qdp-production-9vumsb.tt.omtrdc.net CNAME .
+qiagen-nlc.tt.tt.omtrdc.net CNAME .
+qiagen-stagea.tt.tt.omtrdc.net CNAME .
 qiagen.tt.omtrdc.net CNAME .
 qintel-query.tt.omtrdc.net CNAME .
 qlrhfdaym5782ktu.tt.omtrdc.net CNAME .
@@ -11238,6 +11600,7 @@ r13.tt.omtrdc.net CNAME .
 r4-iad-ss-static-assets-admin.tt.omtrdc.net CNAME .
 racmotoringserv.tt.omtrdc.net CNAME .
 raconteur.tt.omtrdc.net CNAME .
+racq001a.tt.tt.omtrdc.net CNAME .
 radar2-m.tt.omtrdc.net CNAME .
 radioregenbogen.tt.omtrdc.net CNAME .
 radleyandco.tt.omtrdc.net CNAME .
@@ -11280,6 +11643,7 @@ recruitrikunabinext.tt.omtrdc.net CNAME .
 recruitstaffing.tt.omtrdc.net CNAME .
 recruitsuumo.tt.omtrdc.net CNAME .
 redbox.tt.omtrdc.net CNAME .
+redbox03-3.tt.tt.omtrdc.net CNAME .
 redbull.tv.ssl.sc.tt.omtrdc.net CNAME .
 redcatsusa.tt.omtrdc.net CNAME .
 redfcu.tt.omtrdc.net CNAME .
@@ -11308,13 +11672,17 @@ reliantenergyretails.tt.omtrdc.net CNAME .
 reliasllc.tt.omtrdc.net CNAME .
 removeexchange.tt.omtrdc.net CNAME .
 renaultglobal.tt.omtrdc.net CNAME .
+renesas-auta.tt.tt.omtrdc.net CNAME .
 renesas.tt.omtrdc.net CNAME .
 renfe.tt.omtrdc.net CNAME .
+renfe5d.tt.tt.omtrdc.net CNAME .
 renta.tt.omtrdc.net CNAME .
+renta82sa.premera.tt.omtrdc.net CNAME .
 rentcom.tt.omtrdc.net CNAME .
 rep.tt.omtrdc.net CNAME .
 repeater-local-008-dcp-aps1a.tt.omtrdc.net CNAME .
 repgateway.tt.omtrdc.net CNAME .
+repo11.tt.tt.omtrdc.net CNAME .
 repository.cbs.hb-api.tt.omtrdc.net CNAME .
 repsol.tt.omtrdc.net CNAME .
 republicservices.tt.omtrdc.net CNAME .
@@ -11332,6 +11700,7 @@ restrictedcbs.hb-api.tt.omtrdc.net CNAME .
 restrictfoxentertainment.hb-api.tt.omtrdc.net CNAME .
 results2.tt.omtrdc.net CNAME .
 resumeone.tt.omtrdc.net CNAME .
+reunion-eetp.tt.tt.omtrdc.net CNAME .
 reunion.tt.omtrdc.net CNAME .
 reviewcantikku.tt.omtrdc.net CNAME .
 reviewcnapi.tt.omtrdc.net CNAME .
@@ -11349,6 +11718,7 @@ rics.tt.omtrdc.net CNAME .
 riddler.tt.omtrdc.net CNAME .
 rikueri.tt.omtrdc.net CNAME .
 rimacsegurosyreasegu.tt.omtrdc.net CNAME .
+ringcentral-car.tt.tt.omtrdc.net CNAME .
 ringcentral.tt.omtrdc.net CNAME .
 riteaid.tt.omtrdc.net CNAME .
 ritkosovo-mlpui.tt.omtrdc.net CNAME .
@@ -11357,6 +11727,8 @@ riverside-courts-ca-gov.tt.omtrdc.net CNAME .
 rjanimeshop.tt.omtrdc.net CNAME .
 rli.tt.omtrdc.net CNAME .
 rmit.tt.omtrdc.net CNAME .
+rnandana-07company.tt.tt.omtrdc.net CNAME .
+rnandana-care-auta.tt.tt.omtrdc.net CNAME .
 roadrunner.tt.omtrdc.net CNAME .
 roberthalfintl.tt.omtrdc.net CNAME .
 robertwoodjohnsonfou.tt.omtrdc.net CNAME .
@@ -11365,6 +11737,7 @@ roboschool.tt.omtrdc.net CNAME .
 robotdyn.tt.omtrdc.net CNAME .
 roccofortehotels.tt.omtrdc.net CNAME .
 roche.tt.omtrdc.net CNAME .
+roche7.tt.tt.omtrdc.net CNAME .
 rocketsoftware.tt.omtrdc.net CNAME .
 rockreg.tt.omtrdc.net CNAME .
 rockwellautomation.tt.omtrdc.net CNAME .
@@ -11397,6 +11770,7 @@ rsvd-zw2wmwo4trqxhnqq.tt.omtrdc.net CNAME .
 rsw46-1-flk.tt.omtrdc.net CNAME .
 rti-rn2-vip01-credo.tt.omtrdc.net CNAME .
 rtldisneyfernsehengm.tt.omtrdc.net CNAME .
+ru-pla-login-shop.assets.hb-api.tt.omtrdc.net CNAME .
 rubrikinc.tt.omtrdc.net CNAME .
 ruletheearth-production-cse-redirectgw-dot-gov.tt.omtrdc.net CNAME .
 ruletheearth.tt.omtrdc.net CNAME .
@@ -11535,6 +11909,7 @@ sadbmetrics.7canibales.com CNAME .
 sadbmetrics.andorrataste.com CNAME .
 sadbmetrics.canarias7.es CNAME .
 sadbmetrics.congresomigueldelibes.es CNAME .
+sadbmetrics.finanza.eus CNAME .
 sadbmetrics.huelva24.com CNAME .
 sadbmetrics.mondragoncitychallenge.com CNAME .
 sadbmetrics.nextspain.es CNAME .
@@ -11561,8 +11936,10 @@ sainsburys.tt.omtrdc.net CNAME .
 saintgobain.tt.omtrdc.net CNAME .
 saintgobainbuildingd.tt.omtrdc.net CNAME .
 saksfifthavenueinc.tt.omtrdc.net CNAME .
+sales9sc.tt.tt.omtrdc.net CNAME .
 salesforcecom.tt.omtrdc.net CNAME .
 salliemae.tt.omtrdc.net CNAME .
+salon212b.tt.tt.omtrdc.net CNAME .
 saltanatmt2guncelhack.tt.omtrdc.net CNAME .
 samc.buero-zueri.ch CNAME .
 samc.frankly.ch CNAME .
@@ -11572,6 +11949,7 @@ sameday-loansau.tt.omtrdc.net CNAME .
 sammi67kimo.tt.omtrdc.net CNAME .
 samsclub.tt.omtrdc.net CNAME .
 samsonitechina.tt.omtrdc.net CNAME .
+samsung.tt.omtrdc.net CNAME .
 samsungafrica.tt.omtrdc.net CNAME .
 samsungbenelux.tt.omtrdc.net CNAME .
 samsungcanada.tt.omtrdc.net CNAME .
@@ -11583,8 +11961,10 @@ samsungfrance.tt.omtrdc.net CNAME .
 samsunggermany.tt.omtrdc.net CNAME .
 samsungitaly.tt.omtrdc.net CNAME .
 samsungjapan.tt.omtrdc.net CNAME .
+samsungkorea-home.tt.tt.omtrdc.net CNAME .
 samsungkorea.tt.omtrdc.net CNAME .
 samsunglatam.tt.omtrdc.net CNAME .
+samsunglatam09.tt.tt.omtrdc.net CNAME .
 samsungmena.tt.omtrdc.net CNAME .
 samsungnordics.tt.omtrdc.net CNAME .
 samsungpoland.tt.omtrdc.net CNAME .
@@ -11645,7 +12025,6 @@ sanalytics.tntsports.cl CNAME .
 sanalytics.tntsports.com.ar CNAME .
 sanalytics.tntsports.com.br CNAME .
 sanalytics.verizonenterprise.com CNAME .
-sanalytics.warnermediasales.co.uk CNAME .
 sanalytics.warnertv.de CNAME .
 sanalytics.warnertv.fr CNAME .
 sanalytics.warnertv.pl CNAME .
@@ -11678,6 +12057,7 @@ santen.tt.omtrdc.net CNAME .
 saorsa.tt.omtrdc.net CNAME .
 sap-g2papp00.tt.omtrdc.net CNAME .
 sapglobalmarketingin.tt.omtrdc.net CNAME .
+sapientinc.tt.omtrdc.net CNAME .
 sappmetrics.sprint.com CNAME .
 sarahmarteen.tt.omtrdc.net CNAME .
 sarairasiyouth.tt.omtrdc.net CNAME .
@@ -11685,6 +12065,7 @@ saria.tt.omtrdc.net CNAME .
 sarljouetonline.tt.omtrdc.net CNAME .
 sasadotcomlimited.tt.omtrdc.net CNAME .
 saseurobonusmastercard.no.ssl.sc.tt.omtrdc.net CNAME .
+satair-rol-staging.tt.tt.omtrdc.net CNAME .
 satair.tt.omtrdc.net CNAME .
 satarget.csu.edu.au CNAME .
 satarget.npubank.com.au CNAME .
@@ -11696,6 +12077,7 @@ saudicommissionforto.tt.omtrdc.net CNAME .
 savethechildrenfeder.tt.omtrdc.net CNAME .
 savukfccas01.tt.omtrdc.net CNAME .
 sawnd.tt.omtrdc.net CNAME .
+saxo.ssl.sc.tt.omtrdc.net CNAME .
 saxobank.tt.omtrdc.net CNAME .
 sazeraccompany.tt.omtrdc.net CNAME .
 sb6.tt.omtrdc.net CNAME .
@@ -11705,6 +12087,7 @@ sbmonkeyrabbit.tt.omtrdc.net CNAME .
 sbmultimediapvt.hb.tt.omtrdc.net CNAME .
 sbs.tt.omtrdc.net CNAME .
 sbtcorp.tt.omtrdc.net CNAME .
+sbtcorpbelow.tt.tt.omtrdc.net CNAME .
 sc.amc.devk.de.ssl.ldc.d3.sc.tt.omtrdc.net CNAME .
 sc.hulu-ios.hb-api.tt.omtrdc.net CNAME .
 sc.locator-rbs.co.uk CNAME .
@@ -11718,6 +12101,7 @@ scandigital.tt.omtrdc.net CNAME .
 scandlines.tt.omtrdc.net CNAME .
 scap1render.tt.omtrdc.net CNAME .
 scentsy.tt.omtrdc.net CNAME .
+scentsy2-auta.tt.tt.omtrdc.net CNAME .
 schemerule.tt.omtrdc.net CNAME .
 schibstedspain.tt.omtrdc.net CNAME .
 schindler.tt.omtrdc.net CNAME .
@@ -11735,6 +12119,7 @@ scookies-adobe.kbcsecurities.com CNAME .
 scotiabank.com.sc.tt.omtrdc.net CNAME .
 scotiabank.tt.omtrdc.net CNAME .
 scottsmiraclegro.tt.omtrdc.net CNAME .
+scripps-cartp.tt.tt.omtrdc.net CNAME .
 scripps.tt.omtrdc.net CNAME .
 scsmetrics.ho-mobile.it CNAME .
 scuttlenext.tt.omtrdc.net CNAME .
@@ -11768,10 +12153,13 @@ sdt-agency6.tt.omtrdc.net CNAME .
 sdwww13.tt.omtrdc.net CNAME .
 se.tt.omtrdc.net CNAME .
 seafile.tt.omtrdc.net CNAME .
+search-2.tt.tt.omtrdc.net CNAME .
 search97.prod.cloud.prod.cloud.tt.omtrdc.net CNAME .
 sears.com.ssl.d1.sc.tt.omtrdc.net CNAME .
 searsholdings.tt.omtrdc.net CNAME .
 seasonticket.tt.omtrdc.net CNAME .
+seatsa-2-83.tt.tt.omtrdc.net CNAME .
+seatsa-pages.tt.tt.omtrdc.net CNAME .
 seatsa.tt.omtrdc.net CNAME .
 secil.tt.omtrdc.net CNAME .
 secure.sigmaaldrich.com CNAME .
@@ -11820,6 +12208,7 @@ serpong.tt.omtrdc.net CNAME .
 server-fba335d2-ebc8-4.tt.omtrdc.net CNAME .
 server.tt.omtrdc.net CNAME .
 server0.tt.omtrdc.net CNAME .
+servers72.premera.tt.tt.omtrdc.net CNAME .
 serverwindow.tt.omtrdc.net CNAME .
 service-billing3-6.tt.omtrdc.net CNAME .
 service-billing7-6.tt.omtrdc.net CNAME .
@@ -11828,11 +12217,13 @@ service-profile-99.tt.omtrdc.net CNAME .
 service.2free-it-srv-shop-videohome.hb-api.tt.omtrdc.net CNAME .
 service.sanita.tt.omtrdc.net CNAME .
 service.sapglobalmarketingin.tt.omtrdc.net CNAME .
+service7.tt.tt.omtrdc.net CNAME .
 servicenowinc.tt.omtrdc.net CNAME .
 sesamlimited.tt.omtrdc.net CNAME .
 sesseatina1.tt.omtrdc.net CNAME .
 severntrentwaterlimi.tt.omtrdc.net CNAME .
 sew.tt.omtrdc.net CNAME .
+sew38.tt.tt.omtrdc.net CNAME .
 sf94.tt.omtrdc.net CNAME .
 sfirstparty.here.com CNAME .
 sfpc.changehealthcare.com CNAME .
@@ -11855,6 +12246,7 @@ shedzlppzh.114.6.24aetv.hb.tt.omtrdc.net CNAME .
 shell.tt.omtrdc.net CNAME .
 shelterorgtarget.tt.omtrdc.net CNAME .
 shiftter.tt.omtrdc.net CNAME .
+shoot-tvd.tt.tt.omtrdc.net CNAME .
 shop-classmates-test.insight.tt.omtrdc.net CNAME .
 shop-oh.tt.omtrdc.net CNAME .
 shopbupa.tt.omtrdc.net CNAME .
@@ -11868,6 +12260,7 @@ sia-wan.tt.omtrdc.net CNAME .
 siamcommercialbank.tt.omtrdc.net CNAME .
 sicas.ikea.net CNAME .
 siemens.tt.omtrdc.net CNAME .
+siemens13c.tt.tt.omtrdc.net CNAME .
 sigfig.tt.omtrdc.net CNAME .
 sigmasports.tt.omtrdc.net CNAME .
 signupbskyb.hb-api.tt.omtrdc.net CNAME .
@@ -11883,11 +12276,13 @@ simpliifinancial.tt.omtrdc.net CNAME .
 simplyhealthgroupltd.tt.omtrdc.net CNAME .
 simulator0-8.tt.omtrdc.net CNAME .
 singaporetourismboar.tt.omtrdc.net CNAME .
+singaporetourismboard.hb.tt.omtrdc.net CNAME .
 singlife.tt.omtrdc.net CNAME .
 sip.einvoice.tt.omtrdc.net CNAME .
 siriusxmradio.tt.omtrdc.net CNAME .
 sisal.it.ssl.sc.tt.omtrdc.net CNAME .
 sisalspa.tt.omtrdc.net CNAME .
+sisplc-nlc.tt.tt.omtrdc.net CNAME .
 sisplc.tt.omtrdc.net CNAME .
 siteadminfpssl.hb-api.tt.omtrdc.net CNAME .
 siteintercept.tt.omtrdc.net CNAME .
@@ -11898,6 +12293,7 @@ sivasdescalzo.tt.omtrdc.net CNAME .
 sizemodifier.tt.omtrdc.net CNAME .
 sj-waldo-qa.tt.omtrdc.net CNAME .
 sjab.tt.omtrdc.net CNAME .
+sjab5-dfw.tt.tt.omtrdc.net CNAME .
 sjc1-babelfishcassandra-a3.tt.omtrdc.net CNAME .
 sjourney.aarp.org CNAME .
 sjourney.penfed.org CNAME .
@@ -11911,6 +12307,7 @@ skydeutschland.cbs.hb-api.tt.omtrdc.net CNAME .
 skydeutschlandag.tt.omtrdc.net CNAME .
 skype.centerpointenergy.tt.omtrdc.net CNAME .
 skype.tt.omtrdc.net CNAME .
+skype15.tt.tt.omtrdc.net CNAME .
 skyserver2.tt.omtrdc.net CNAME .
 slack0-4-6.tt.omtrdc.net CNAME .
 slack7-4-2.tt.omtrdc.net CNAME .
@@ -11927,6 +12324,7 @@ slkacketpt.cc.hb.tt.omtrdc.net CNAME .
 slow-enjoy.tt.omtrdc.net CNAME .
 slu.tt.omtrdc.net CNAME .
 sm.macys.com CNAME .
+smapex-tv.tt.tt.omtrdc.net CNAME .
 smartcric.en.tt.omtrdc.net CNAME .
 smartmat.tt.omtrdc.net CNAME .
 smatning.volkswagen.se CNAME .
@@ -12173,9 +12571,11 @@ smetrics.daiwatv.jp CNAME .
 smetrics.dashandstars.com CNAME .
 smetrics.davidclulow.com CNAME .
 smetrics.dcu.org CNAME .
+smetrics.deadgoodbooks.co.uk CNAME .
 smetrics.dekalb.com.co CNAME .
 smetrics.dekalb.com.mx CNAME .
 smetrics.dekalbasgrowdeltapine.com CNAME .
+smetrics.derneuekaemmerer.de CNAME .
 smetrics.desparasitaatumascota.es CNAME .
 smetrics.destinythegame.com CNAME .
 smetrics.detect-afib.com CNAME .
@@ -12375,6 +12775,7 @@ smetrics.lasexta.com CNAME .
 smetrics.latitudefinancial.co.nz CNAME .
 smetrics.lcbo.com CNAME .
 smetrics.leonardo.essilorluxottica.com CNAME .
+smetrics.letsgofrance.pwc.fr CNAME .
 smetrics.lexusonthepark.ca CNAME .
 smetrics.lifestride.com CNAME .
 smetrics.lilly.com CNAME .
@@ -12693,6 +13094,7 @@ smetrics.ralphlauren.nl CNAME .
 smetrics.ralphlauren.pt CNAME .
 smetrics.rate.com CNAME .
 smetrics.realpropertymgt.com CNAME .
+smetrics.reblozylondemand.com CNAME .
 smetrics.recruit.co.jp CNAME .
 smetrics.redcapnow.com CNAME .
 smetrics.rejuvenationhome.ca CNAME .
@@ -12970,6 +13372,7 @@ smtp09.tt.omtrdc.net CNAME .
 smtphost49.tt.omtrdc.net CNAME .
 smtpout-212-33.tt.omtrdc.net CNAME .
 snagajob.tt.omtrdc.net CNAME .
+snagajob4c.tt.tt.omtrdc.net CNAME .
 snalytics.accidenthero.at CNAME .
 snalytics.allianz-assistance.at CNAME .
 snalytics.allianz-assistance.com.sg CNAME .
@@ -12987,7 +13390,9 @@ snapfish.com.ssl.sc.tt.omtrdc.net CNAME .
 sncaoyeyfg.abcnews.hb.tt.omtrdc.net CNAME .
 sncbxvndho.20corus.hb.tt.omtrdc.net CNAME .
 snellings.tt.omtrdc.net CNAME .
+sney-car.tt.tt.tt.omtrdc.net CNAME .
 snsbank.tt.omtrdc.net CNAME .
+snsbank63.tt.tt.omtrdc.net CNAME .
 so.blue.ch CNAME .
 so.bluecinema.ch CNAME .
 so.bluenews.ch CNAME .
@@ -13006,6 +13411,7 @@ solarwinds.tt.omtrdc.net CNAME .
 solaseedair.jp.ssl.sc.tt.omtrdc.net CNAME .
 solaseedairinc.tt.omtrdc.net CNAME .
 someclientid.tt.omtrdc.net CNAME .
+someclientidddellinc.tt.tt.omtrdc.net CNAME .
 sometimessweet.tt.omtrdc.net CNAME .
 somni.amrock.com CNAME .
 somni.bell.ca CNAME .
@@ -13046,6 +13452,7 @@ somni.thatsmymortgage.com CNAME .
 somniture.fitforfun.de CNAME .
 sompojapandiy.tt.omtrdc.net CNAME .
 sonova.tt.omtrdc.net CNAME .
+sony74.tt.tt.omtrdc.net CNAME .
 sonybank.tt.omtrdc.net CNAME .
 sonycn.tt.omtrdc.net CNAME .
 sonycomputer.tt.omtrdc.net CNAME .
@@ -13059,7 +13466,9 @@ sonymobcomm.tt.omtrdc.net CNAME .
 sonynetworkentertain.tt.omtrdc.net CNAME .
 sonypmoglobal.d1.sc.tt.omtrdc.net CNAME .
 sonyscei.tt.omtrdc.net CNAME .
+sonyscei3.tt.tt.omtrdc.net CNAME .
 sonysonet.tt.omtrdc.net CNAME .
+sonysonet12.tt.tt.omtrdc.net CNAME .
 sonysonet2.tt.omtrdc.net CNAME .
 sonysonpo.tt.omtrdc.net CNAME .
 soomla.tt.omtrdc.net CNAME .
@@ -13109,6 +13518,8 @@ sportsmanguide.tt.omtrdc.net CNAME .
 sportsmansguide.tt.omtrdc.net CNAME .
 sppo.tt.omtrdc.net CNAME .
 spptpdmsalazar.tt.omtrdc.net CNAME .
+sprdnetag4.tt.tt.omtrdc.net CNAME .
+sprdnetagc.tt.tt.omtrdc.net CNAME .
 spreadshirt.com.ssl.sc.tt.omtrdc.net CNAME .
 spricstonlinessournalytics.hb-api.tt.omtrdc.net CNAME .
 spring-bskyb.hb-api.tt.omtrdc.net CNAME .
@@ -13180,6 +13591,7 @@ ssc.mtv.co.uk CNAME .
 ssc.mtv.com.au CNAME .
 ssc.mtv.de CNAME .
 ssc.mtv.es CNAME .
+ssc.mtv.fr CNAME .
 ssc.mtv.it CNAME .
 ssc.mtv.nl CNAME .
 ssc.mtvema.com CNAME .
@@ -13392,6 +13804,7 @@ stat-ssl.idaten.ne.jp CNAME .
 stat-ssl.jobcube.com CNAME .
 stat.fpssl.hb-api.tt.omtrdc.net CNAME .
 stateofil.tt.omtrdc.net CNAME .
+stateofil78.tt.tt.omtrdc.net CNAME .
 statestreetcorporati.tt.omtrdc.net CNAME .
 static.tt.omtrdc.net CNAME .
 stats-cbs.hb-api.tt.omtrdc.net CNAME .
@@ -13405,6 +13818,7 @@ status-arma.tt.omtrdc.net CNAME .
 status.edge44.testandtarget.omniture.com CNAME .
 status.edge45.testandtarget.omniture.com CNAME .
 statusprovider.tt.omtrdc.net CNAME .
+staubli-1.tt.tt.omtrdc.net CNAME .
 stbg.bankonline.sboff.com CNAME .
 stbg.looksee.co.za CNAME .
 stbg.sbgsecurities.co.ke CNAME .
@@ -13418,6 +13832,7 @@ stbg.stanbicbank.co.zw CNAME .
 stbg.stanbicbank.com.gh CNAME .
 stbg.stanbicibtc.com CNAME .
 stbg.stanbicibtcassetmanagement.com CNAME .
+stbg.stanbicibtccapital.com CNAME .
 stbg.stanbicibtcinsurancebrokers.com CNAME .
 stbg.standardbank.co.ao CNAME .
 stbg.standardbank.co.mz CNAME .
@@ -13426,6 +13841,7 @@ stbg.standardbank.com CNAME .
 stbg.standardbank.mu CNAME .
 steelcase.tt.omtrdc.net CNAME .
 stenaline.tt.omtrdc.net CNAME .
+stenaline68.tt.tt.omtrdc.net CNAME .
 stepancompany.tt.omtrdc.net CNAME .
 stepstone.tt.omtrdc.net CNAME .
 stericycle.tt.omtrdc.net CNAME .
@@ -13437,7 +13853,9 @@ stgeorgebanklimited.tt.omtrdc.net CNAME .
 stieigi.tt.omtrdc.net CNAME .
 stilepochen.tt.omtrdc.net CNAME .
 stima.tt.omtrdc.net CNAME .
+stjude-dev-dfw.tt.tt.omtrdc.net CNAME .
 stjude.tt.omtrdc.net CNAME .
+stjude2tp.tt.tt.omtrdc.net CNAME .
 stlstcapvwa01.stage-ent.stage-ent.stage.tt.omtrdc.net CNAME .
 stmetrics.bbva.com.ar CNAME .
 stmetrics.bbva.com.co CNAME .
@@ -13516,6 +13934,7 @@ support.hb-api.tt.omtrdc.net CNAME .
 support.pepboys.tt.omtrdc.net CNAME .
 supportingyou.uat.bankline.tt.omtrdc.net CNAME .
 survey.gall.tt.omtrdc.net CNAME .
+surveymonkeycom.tt.omtrdc.net CNAME .
 surveys-enquetes.statcan.tt.omtrdc.net CNAME .
 sushant-do-1.dev.do.tt.omtrdc.net CNAME .
 susieplugin.tt.omtrdc.net CNAME .
@@ -13536,12 +13955,12 @@ sw88.cinemapp.com CNAME .
 sw88.disney.com.tr CNAME .
 sw88.disneyonstage.co.uk CNAME .
 sw88.disneyoutlet.co.uk CNAME .
+sw88.disneystore.de CNAME .
 sw88.disneytickets.co.uk CNAME .
 sw88.espnmanofthematch.nl CNAME .
 sw88.espnplayer.com CNAME .
 sw88.foxtv.es CNAME .
 sw88.foxtv.pt CNAME .
-sw88.foxtv.rs CNAME .
 sw88.fxchannel.pl CNAME .
 sw88.fxturkiye.com.tr CNAME .
 sw88.natgeo.pt CNAME .
@@ -13570,6 +13989,7 @@ swedis.tt.omtrdc.net CNAME .
 sweep5sc1n.tt.omtrdc.net CNAME .
 swiftsignals.tt.omtrdc.net CNAME .
 swiftyvk.tt.omtrdc.net CNAME .
+swiftyvk8.tt.tt.omtrdc.net CNAME .
 swinburne.tt.omtrdc.net CNAME .
 swisscomag.tt.omtrdc.net CNAME .
 swisslifeag.tt.omtrdc.net CNAME .
@@ -13847,6 +14267,7 @@ tariffesuper.tt.omtrdc.net CNAME .
 tarntaran.coimbatore04.tt.omtrdc.net CNAME .
 taskland-cdn.fr.tt.omtrdc.net CNAME .
 tastecard.tt.omtrdc.net CNAME .
+tataaig-stgc.tt.tt.omtrdc.net CNAME .
 tataaig.tt.omtrdc.net CNAME .
 tatacapital.tt.omtrdc.net CNAME .
 tataconsumerproducts.tt.omtrdc.net CNAME .
@@ -13885,6 +14306,7 @@ tdatpegqrt.dev.ext.tt.omtrdc.net CNAME .
 tdatpegqrt.tpeg.tt.omtrdc.net CNAME .
 tdbankfinancialgroup.tt.hb-fa-dev.tt.omtrdc.net CNAME .
 tdbankfinancialgroup.tt.omtrdc.net CNAME .
+tdc-3a.tt.tt.omtrdc.net CNAME .
 tdc.tt.omtrdc.net CNAME .
 tdf.tt.omtrdc.net CNAME .
 tdl.apps-disc.aws.tt.omtrdc.net CNAME .
@@ -13947,6 +14369,7 @@ telstracorporationlt.tt.omtrdc.net CNAME .
 telstrawholesale.tt.omtrdc.net CNAME .
 telus.hb-api.tt.omtrdc.net CNAME .
 telus.tt.omtrdc.net CNAME .
+telus41.tt.tt.omtrdc.net CNAME .
 tema-stal.tt.omtrdc.net CNAME .
 temasekpolytechnic.tt.omtrdc.net CNAME .
 temp-ws.loadtest.tt.omtrdc.net CNAME .
@@ -14016,6 +14439,7 @@ testweb.hb-api.tt.omtrdc.net CNAME .
 tgt.maep.ibm.com CNAME .
 tgtmail.tt.omtrdc.net CNAME .
 th-th.tt.omtrdc.net CNAME .
+thai18.tt.tt.omtrdc.net CNAME .
 thc1d2.tt.omtrdc.net CNAME .
 thcstanthanhdong.tt.omtrdc.net CNAME .
 the-dispatch.tt.omtrdc.net CNAME .
@@ -14083,10 +14507,12 @@ timeout.tt.omtrdc.net CNAME .
 timerbehavior.tt.omtrdc.net CNAME .
 timetrials.tt.omtrdc.net CNAME .
 tirerack.tt.omtrdc.net CNAME .
+tiscover67.tt.tt.omtrdc.net CNAME .
 titan.tt.omtrdc.net CNAME .
 titanauto-demo-demo.tt.omtrdc.net CNAME .
 tiusabcrws.www.adobecorp.hb.tt.omtrdc.net CNAME .
 tivo.tt.omtrdc.net CNAME .
+tivo4c.tt.tt.omtrdc.net CNAME .
 tivronplus2.tt.omtrdc.net CNAME .
 tkgapmon01gapslog01.gid.tt.omtrdc.net CNAME .
 tkmkci-cuc-sub-1.kor.thai.tt.omtrdc.net CNAME .
@@ -14097,6 +14523,7 @@ tmbime.tt.omtrdc.net CNAME .
 tmetrics.hdfcbank.com CNAME .
 tmetrics.webex.com CNAME .
 tmi.tt.omtrdc.net CNAME .
+tmi22a.tt.tt.omtrdc.net CNAME .
 tmobile.tt.omtrdc.net CNAME .
 tmp-logs-metrics.hb.tt.omtrdc.net CNAME .
 tnc15-platform-alisga.tt.omtrdc.net CNAME .
@@ -14116,6 +14543,7 @@ toad-geo-syd.tt.omtrdc.net CNAME .
 toad-geo-va.tt.omtrdc.net CNAME .
 toad-lon.tt.omtrdc.net CNAME .
 toad-sj.tt.omtrdc.net CNAME .
+toad03.tt.tt.omtrdc.net CNAME .
 toast-nde.tt.omtrdc.net CNAME .
 tobinsolutions.wi.tt.omtrdc.net CNAME .
 tobykitten51.tt.omtrdc.net CNAME .
@@ -14172,6 +14600,7 @@ tor320-457-pdb.tt.omtrdc.net CNAME .
 tor421-480-pdb.tt.omtrdc.net CNAME .
 tor44-60-grc.tt.omtrdc.net CNAME .
 tor48-106-pdb.tt.omtrdc.net CNAME .
+toray-brat.premera.tt.omtrdc.net CNAME .
 toray.tt.omtrdc.net CNAME .
 torrejon-de-ardoz.tt.omtrdc.net CNAME .
 totalgymfitness.tt.omtrdc.net CNAME .
@@ -14228,6 +14657,7 @@ transit.sp.tt.omtrdc.net CNAME .
 transitdev.ecomp.industrypartners.tt.omtrdc.net CNAME .
 translucenttb.tt.omtrdc.net CNAME .
 transunion.tt.omtrdc.net CNAME .
+transurban-ppp.tt.tt.tt.omtrdc.net CNAME .
 transurban.tt.omtrdc.net CNAME .
 trave3-2.tt.omtrdc.net CNAME .
 travel-bvm.web.tt.omtrdc.net CNAME .
@@ -14264,6 +14694,7 @@ trimeweb.ord.tt.omtrdc.net CNAME .
 trioofdipstas.tt.omtrdc.net CNAME .
 tripointehomesinc.tt.omtrdc.net CNAME .
 trisepttechnologyllc.tt.omtrdc.net CNAME .
+tristan82.premera.tt.tt.omtrdc.net CNAME .
 triton.staging-fonterra-fonterra.staging63-fonterra.tt.omtrdc.net CNAME .
 trk-svc1.tt.omtrdc.net CNAME .
 troweprice.tt.omtrdc.net CNAME .
@@ -14282,6 +14713,7 @@ trygghansa.tt.omtrdc.net CNAME .
 trygvesta.tt.omtrdc.net CNAME .
 ts.fpssl.hb-api.tt.omtrdc.net CNAME .
 tsab.tt.omtrdc.net CNAME .
+tsab212.tt.tt.omtrdc.net CNAME .
 tsadakagayan.tt.omtrdc.net CNAME .
 tsawebex-aip.tsa.tt.omtrdc.net CNAME .
 tsbuk.tt.omtrdc.net CNAME .
@@ -14322,14 +14754,17 @@ ttucxehxuodiva1jee.sparta.members.tt.omtrdc.net CNAME .
 ttzb.tt.omtrdc.net CNAME .
 tuebingen.tt.omtrdc.net CNAME .
 tuicom.tt.omtrdc.net CNAME .
+tuiholidays.ie.ssl.sc.tt.omtrdc.net CNAME .
 tuio.tt.omtrdc.net CNAME .
 tuiukltd.tt.omtrdc.net CNAME .
 tumiholdings.hb.tt.omtrdc.net CNAME .
 turais.tt.omtrdc.net CNAME .
 turnerbroadcastingsy.tt.omtrdc.net CNAME .
+turnereurope-ppp.tt.tt.omtrdc.net CNAME .
 turnintothedevil.tt.omtrdc.net CNAME .
 turtlesponge.tt.omtrdc.net CNAME .
 tuymazi.tt.omtrdc.net CNAME .
+tv-daldanmark.tt.tt.omtrdc.net CNAME .
 tv-downloads.tt.omtrdc.net CNAME .
 tv2danmark.tt.omtrdc.net CNAME .
 tvzonline.tt.omtrdc.net CNAME .
@@ -14342,6 +14777,7 @@ twentyfourhour.tt.omtrdc.net CNAME .
 twijtvliet.tt.omtrdc.net CNAME .
 twilio.tt.omtrdc.net CNAME .
 twitterinc.tt.omtrdc.net CNAME .
+twitterinctraining.tt.tt.omtrdc.net CNAME .
 txdot.tt.omtrdc.net CNAME .
 txrules.tt.omtrdc.net CNAME .
 txuenergy.tt.omtrdc.net CNAME .
@@ -14386,6 +14822,7 @@ ubteam.tt.omtrdc.net CNAME .
 ubuntu-01-nds.tt.omtrdc.net CNAME .
 ubuntutest1.tt.omtrdc.net CNAME .
 ucan.tt.omtrdc.net CNAME .
+ucan4s.tt.tt.omtrdc.net CNAME .
 ucawkhvfbl.thissubdomainshouldonlyresolveifwildcard.aem.hb.tt.omtrdc.net CNAME .
 uccard.co.jp.ssl.sc.tt.omtrdc.net CNAME .
 ucctvbada.tt.omtrdc.net CNAME .
@@ -14500,7 +14937,9 @@ us04xmpp-ngxsrv10.tt.omtrdc.net CNAME .
 us3-7.tt.omtrdc.net CNAME .
 usa1-dr.tt.omtrdc.net CNAME .
 usaa.tt.omtrdc.net CNAME .
+usaang-17.tt.tt.omtrdc.net CNAME .
 usaang.tt.omtrdc.net CNAME .
+usaang68company.tt.tt.omtrdc.net CNAME .
 usagetrackingservice-dev-us-east-1.cloud.tt.omtrdc.net CNAME .
 usajobs.dyn.tt.omtrdc.net CNAME .
 usanetworks.tt.omtrdc.net CNAME .
@@ -14510,6 +14949,8 @@ usbank.tt.omtrdc.net CNAME .
 usbankmetrics.insight.tt.hb-fa-dev.tt.omtrdc.net CNAME .
 usbr8.tt.omtrdc.net CNAME .
 uscellular.tt.omtrdc.net CNAME .
+uscg84.tt.tt.omtrdc.net CNAME .
+uscgma.tt.tt.omtrdc.net CNAME .
 uscis-cis.tt.omtrdc.net CNAME .
 usconstitutionexam.tt.omtrdc.net CNAME .
 user-api.tst-cat.miltonstreetcap.tt.omtrdc.net CNAME .
@@ -14521,6 +14962,7 @@ usersinternal-asterisk2.tt.omtrdc.net CNAME .
 usertesting.tt.omtrdc.net CNAME .
 uses0.tt.omtrdc.net CNAME .
 usg-origin.tt.omtrdc.net CNAME .
+usgaorg-ar.tt.tt.omtrdc.net CNAME .
 usgt.tt.omtrdc.net CNAME .
 usit383.crashplan.atlassian-app.eu.tt.omtrdc.net CNAME .
 usmlrs2623.tt.omtrdc.net CNAME .
@@ -14530,8 +14972,11 @@ uspizza.tt.omtrdc.net CNAME .
 uspizza7200.tt.omtrdc.net CNAME .
 uspxh104d6.tt.omtrdc.net CNAME .
 usqlsamples.tt.omtrdc.net CNAME .
+usqlsamples2.tt.tt.omtrdc.net CNAME .
 uss-vip-farm.tt.omtrdc.net CNAME .
 ussmelap094p.arrownao.corp.tt.omtrdc.net CNAME .
+ustglobal-car.tt.tt.omtrdc.net CNAME .
+ustglobal-fmh.tt.tt.omtrdc.net CNAME .
 ustglobal.tt.omtrdc.net CNAME .
 usulutancity.tt.omtrdc.net CNAME .
 usw2-89-gra.tt.omtrdc.net CNAME .
@@ -14570,6 +15015,7 @@ value-suite-dev-oi-fe-server-vvs-gke-dev.tt.omtrdc.net CNAME .
 valuu.tt.omtrdc.net CNAME .
 vamper.tt.omtrdc.net CNAME .
 vanantranscription.tt.omtrdc.net CNAME .
+variants2s.tt.tt.omtrdc.net CNAME .
 vattenfalleuropesale.tt.omtrdc.net CNAME .
 vcollegetest.tt.omtrdc.net CNAME .
 vdmwntw1of9t8xgd.edge41.testandtarget.omniture.com CNAME .
@@ -14583,6 +15029,7 @@ veracity.tt.omtrdc.net CNAME .
 verification-accept.tt.omtrdc.net CNAME .
 verify.tt.omtrdc.net CNAME .
 verily.tt.omtrdc.net CNAME .
+verisign-rol.tt.tt.omtrdc.net CNAME .
 veritastechnologiesl.tt.omtrdc.net CNAME .
 veritivoperatingcomp.tt.omtrdc.net CNAME .
 verizonenterprisesol.tt.omtrdc.net CNAME .
@@ -14595,6 +15042,7 @@ vestas.tt.omtrdc.net CNAME .
 vfservicesinc.tt.omtrdc.net CNAME .
 viaggimarilore.tt.omtrdc.net CNAME .
 viasat.tt.omtrdc.net CNAME .
+viator-apic.tt.tt.omtrdc.net CNAME .
 viavarejo.tt.omtrdc.net CNAME .
 vicentecamarasa.tt.omtrdc.net CNAME .
 vicpolreg.tt.omtrdc.net CNAME .
@@ -14614,6 +15062,7 @@ vineyardvines.tt.omtrdc.net CNAME .
 vip-wwwoldoceania-mx.tt.omtrdc.net CNAME .
 virginatlantic.tt.omtrdc.net CNAME .
 virginaustralia.tt.omtrdc.net CNAME .
+virginmedia-mfa.tt.omtrdc.net CNAME .
 virginmobilecanada.tt.omtrdc.net CNAME .
 virginmobileusa.tt.omtrdc.net CNAME .
 virginmobileusa.tt.tt.omtrdc.net CNAME .
@@ -14635,7 +15084,9 @@ vlaamseradio.tt.omtrdc.net CNAME .
 vlkch.tt.omtrdc.net CNAME .
 vma1fms.tt.omtrdc.net CNAME .
 vmail01.tt.omtrdc.net CNAME .
+vmboxedge353702mu.tt.tt.omtrdc.net CNAME .
 vmlnavy.tt.omtrdc.net CNAME .
+vmlnavy5go.tt.tt.omtrdc.net CNAME .
 vmotors-polmotors-motors.tt.omtrdc.net CNAME .
 vmqywmhpto.32.17.251espn.hb.tt.omtrdc.net CNAME .
 vmsdgcd-ho-a1p.sys.tt.omtrdc.net CNAME .
@@ -14720,6 +15171,7 @@ vpob.tt.omtrdc.net CNAME .
 vps4.my.tt.omtrdc.net CNAME .
 vpstun21.tt.omtrdc.net CNAME .
 vpsva-pool.tt.omtrdc.net CNAME .
+vpsva-va-dev-pool.tt.tt.omtrdc.net CNAME .
 vqipdr3p.nccr.tt.omtrdc.net CNAME .
 vqwckswxsf.meet.aem.hb.tt.omtrdc.net CNAME .
 vs-cam.u013.tt.omtrdc.net CNAME .
@@ -14805,6 +15257,7 @@ wdjcsqsdb.tt.omtrdc.net CNAME .
 wdnorql0i50hjdjj.241newimagitasinc.hb.tt.omtrdc.net CNAME .
 we4qrdxbiaa2ow3s.hb-fa-stage.tt.omtrdc.net CNAME .
 wealth17pic.tt.omtrdc.net CNAME .
+weatherbillcom-tyo.comcbsinteractiveinc.tt.omtrdc.net CNAME .
 weatherbillcom.tt.omtrdc.net CNAME .
 weaver-gr-athena-preview.tt.omtrdc.net CNAME .
 weaver01.tt.omtrdc.net CNAME .
@@ -14893,6 +15346,7 @@ webid-360.ias.tt.omtrdc.net CNAME .
 webid-xact.uat.tt.omtrdc.net CNAME .
 webid2.mdm.tt.omtrdc.net CNAME .
 webkitplus.tt.omtrdc.net CNAME .
+webkitplus5.tt.tt.omtrdc.net CNAME .
 webloan.tt.omtrdc.net CNAME .
 weblogic12-www.tt.omtrdc.net CNAME .
 webmail-alt.athena.tt.omtrdc.net CNAME .
@@ -14956,6 +15410,7 @@ wedding.tt.omtrdc.net CNAME .
 wedenik.tt.omtrdc.net CNAME .
 weeberry.tt.omtrdc.net CNAME .
 weekin.crisco.tt.omtrdc.net CNAME .
+wegmans.sc.tt.omtrdc.net CNAME .
 wegmans.tt.omtrdc.net CNAME .
 weichat.tt.omtrdc.net CNAME .
 weichiai.tt.omtrdc.net CNAME .
@@ -14967,6 +15422,7 @@ wellpoint.tt.omtrdc.net CNAME .
 wellpoint.tt.tt.omtrdc.net CNAME .
 wellsfsuat-att.tt.omtrdc.net CNAME .
 wellsspa.tt.omtrdc.net CNAME .
+wellui-test.tt.tt.omtrdc.net CNAME .
 wellui.tt.omtrdc.net CNAME .
 welovebigtits.tt.omtrdc.net CNAME .
 welp2.cmhqa2.k8s.tt.omtrdc.net CNAME .
@@ -14984,7 +15440,9 @@ westernunion.tt.omtrdc.net CNAME .
 westeuropeaa-mock.hb-fa-stage.tt.omtrdc.net CNAME .
 westgateresorts.tt.omtrdc.net CNAME .
 westjet.tt.omtrdc.net CNAME .
+westjet02s.tt.tt.omtrdc.net CNAME .
 westpac.tt.omtrdc.net CNAME .
+westpac3s.tt.tt.omtrdc.net CNAME .
 westpacnewzealand.tt.omtrdc.net CNAME .
 westpan.main.tt.omtrdc.net CNAME .
 westpublishingcorpor.tt.omtrdc.net CNAME .
@@ -15004,6 +15462,7 @@ wfadmin51.tt.omtrdc.net CNAME .
 wfhm-ox-test.tt.omtrdc.net CNAME .
 wfs.tt.omtrdc.net CNAME .
 wftp101.tt.omtrdc.net CNAME .
+wgi.tt.omtrdc.net CNAME .
 wgjemfwksx.32.17.182aem.hb.tt.omtrdc.net CNAME .
 wgu.tt.omtrdc.net CNAME .
 whatson4-6.tt.omtrdc.net CNAME .
@@ -15018,6 +15477,7 @@ whitbreadgroup.tt.omtrdc.net CNAME .
 whitehallcoplay.tt.omtrdc.net CNAME .
 whitelist-new.ti.tt.omtrdc.net CNAME .
 wideroeas.tt.omtrdc.net CNAME .
+wideroeascontacts.tt.tt.omtrdc.net CNAME .
 wienerbergerag.tt.omtrdc.net CNAME .
 wiernipolsce1.tt.omtrdc.net CNAME .
 wifo.tt.omtrdc.net CNAME .
@@ -15069,6 +15529,7 @@ wintrustfinancialcor.tt.omtrdc.net CNAME .
 wip1.tt.omtrdc.net CNAME .
 wiprolimited.tt.omtrdc.net CNAME .
 wirebit.tt.omtrdc.net CNAME .
+wireless-asp-ash.tt.tt.omtrdc.net CNAME .
 wireless.tt.omtrdc.net CNAME .
 wisedialogbankspa.tt.omtrdc.net CNAME .
 withplum.tt.omtrdc.net CNAME .
@@ -15097,6 +15558,7 @@ wordpress.aem.hb.tt.omtrdc.net CNAME .
 workday.tt.omtrdc.net CNAME .
 workfront.tt.omtrdc.net CNAME .
 workorders.tt.omtrdc.net CNAME .
+worldbank-vd.tt.tt.omtrdc.net CNAME .
 worldbank.tt.omtrdc.net CNAME .
 worldlinesa.tt.omtrdc.net CNAME .
 worldmtcs.nhk.jp CNAME .
@@ -15115,10 +15577,12 @@ wsdler.tt.omtrdc.net CNAME .
 wsone.tt.omtrdc.net CNAME .
 wsu.sc.tt.omtrdc.net CNAME .
 wsweinmannandschanzg.tt.omtrdc.net CNAME .
+wtsp.com.ssl.sc.tt.omtrdc.net CNAME .
 wurth.tt.omtrdc.net CNAME .
 wvmgglfovo.24aetv.hb.tt.omtrdc.net CNAME .
 ww2.tt.omtrdc.net CNAME .
 wwfmbjwuxo.tt.omtrdc.net CNAME .
+wwgraingerinc.secbsinteractiveinc.tt.omtrdc.net CNAME .
 wwgraingerinc.tt.omtrdc.net CNAME .
 wwservices.tt.omtrdc.net CNAME .
 www--0-0.tt.omtrdc.net CNAME .
@@ -15254,6 +15718,7 @@ www.mboxedge31.tt.omtrdc.net CNAME .
 www.mcclatchy.tt.omtrdc.net CNAME .
 www.megandscott.tt.omtrdc.net CNAME .
 www.membros.tt.omtrdc.net CNAME .
+www.merckgroup.d3.sc.tt.omtrdc.net CNAME .
 www.mobile.mail.tt.omtrdc.net CNAME .
 www.moduloacademico.tt.omtrdc.net CNAME .
 www.motordoctor.tt.omtrdc.net CNAME .
@@ -15387,6 +15852,7 @@ xbridge.tt.omtrdc.net CNAME .
 xcdgv7kf.tt.omtrdc.net CNAME .
 xcztjggjgx._tcp.abcotv.hb.tt.omtrdc.net CNAME .
 xd-plugins.tt.omtrdc.net CNAME .
+xdkentei-prd.tt.tt.omtrdc.net CNAME .
 xdkentei.tt.omtrdc.net CNAME .
 xdmua-ca.tt.omtrdc.net CNAME .
 xdxrxufnyw.17.242espn.hb.tt.omtrdc.net CNAME .
@@ -15431,6 +15897,7 @@ xpdc13.tt.omtrdc.net CNAME .
 xps.huk.de CNAME .
 xps.huk24.de CNAME .
 xptheme.tt.omtrdc.net CNAME .
+xzfgsmc2go.tt.tt.omtrdc.net CNAME .
 yace.tt.omtrdc.net CNAME .
 yahooapi.subscriptions-dispatcher-aws-prod.aws.tt.omtrdc.net CNAME .
 yahoojapanshopping.tt.omtrdc.net CNAME .
@@ -15457,12 +15924,15 @@ yellowpagescom.tt.omtrdc.net CNAME .
 yem1.tt.omtrdc.net CNAME .
 yeni-sarkisozleri.tt.omtrdc.net CNAME .
 yesbank.tt.omtrdc.net CNAME .
+yesbank65.tt.tt.omtrdc.net CNAME .
 yfoxentertainment.hb-api.tt.omtrdc.net CNAME .
 yiiwheels.tt.omtrdc.net CNAME .
 yisli.tt.omtrdc.net CNAME .
 yjadui.tt.omtrdc.net CNAME .
+yjaduia.tt.tt.omtrdc.net CNAME .
 yjh0ec8f.tt.omtrdc.net CNAME .
 ylautolayout.tt.omtrdc.net CNAME .
+ylautolayout1.tt.tt.omtrdc.net CNAME .
 yleisradio.hb-api.tt.omtrdc.net CNAME .
 ynotepadse.tt.omtrdc.net CNAME .
 yodleeinc.tt.omtrdc.net CNAME .
@@ -15509,6 +15979,7 @@ zhajinhuachulaoqian07-2.tt.omtrdc.net CNAME .
 zhgyawnfor.thissubdomainshouldonlyresolveifwildcard.aem.hb.tt.omtrdc.net CNAME .
 zhizhao.tt.omtrdc.net CNAME .
 zhxstruhdo.abcotv.hb.tt.omtrdc.net CNAME .
+ziffdavisenterprises.tt.omtrdc.net CNAME .
 ziggytheninja.tt.omtrdc.net CNAME .
 zimmerbiomet.tt.omtrdc.net CNAME .
 zimmercentegraph.hb-api.tt.omtrdc.net CNAME .
@@ -15760,7 +16231,6 @@ adobeanalytics.danmurphys.com.au CNAME .
 adobeanalytics.easi.com CNAME .
 adobeanalytics.geico.com CNAME .
 adobeanalytics.gettinghired.com CNAME .
-adobeanalytics.girlscouts.org CNAME .
 adobeanalytics.medline.com CNAME .
 adobeanalytics.mlaglobal.com CNAME .
 adobeanalytics.populusgroup.com CNAME .
@@ -15860,6 +16330,7 @@ analytics.sixtmiddleeast.com CNAME .
 analytics.smart.mercedes-benz.com CNAME .
 analytics.spark.co.nz CNAME .
 analytics.superstation.com CNAME .
+analytics.sydney.edu.au CNAME .
 analytics.tabichan.jp CNAME .
 analytics.tbs.com CNAME .
 analytics.tnt-tv.de CNAME .
@@ -15923,6 +16394,7 @@ b.telus.com CNAME .
 bc.law.com CNAME .
 bcomniture.focus.de CNAME .
 biz1.kddi.com CNAME .
+biz2.kddi.com CNAME .
 bsna.galeria-kaufhof.de CNAME .
 bsna.inno.be CNAME .
 c.snow.com CNAME .
@@ -16193,6 +16665,7 @@ metric.barclaycardus.com CNAME .
 metric.bizjournals.com CNAME .
 metric.caixabank.es CNAME .
 metric.carview.co.jp CNAME .
+metric.chapters.indigo.ca CNAME .
 metric.cort.com CNAME .
 metric.crateandbarrel.com CNAME .
 metric.dertour.de CNAME .
@@ -16221,6 +16694,7 @@ metric.nissan.lt CNAME .
 metric.nissan.lv CNAME .
 metric.nissan.nl CNAME .
 metric.nissan.no CNAME .
+metric.nissan.pt CNAME .
 metric.nissan.sk CNAME .
 metric.nissan.ua CNAME .
 metric.nomura.co.jp CNAME .
@@ -16280,6 +16754,7 @@ metrics.allianz.com.au CNAME .
 metrics.allianzlife.com CNAME .
 metrics.allstate.com CNAME .
 metrics.ally.com CNAME .
+metrics.amaguiz.com CNAME .
 metrics.ambetterhealth.com CNAME .
 metrics.ameise.de CNAME .
 metrics.american-airlines.nl CNAME .
@@ -16336,6 +16811,7 @@ metrics.barclays.co.uk CNAME .
 metrics.base.be CNAME .
 metrics.bayer.com CNAME .
 metrics.bayer.us CNAME .
+metrics.bbva.es CNAME .
 metrics.bbva.mx CNAME .
 metrics.bbvaleasing.mx CNAME .
 metrics.bcbsnc.com CNAME .
@@ -16457,6 +16933,9 @@ metrics.discover.com CNAME .
 metrics.discovertrk.com CNAME .
 metrics.dish.co CNAME .
 metrics.dish.com CNAME .
+metrics.dishlatino.com CNAME .
+metrics.dishmediasales.com CNAME .
+metrics.dishnetwork.com CNAME .
 metrics.distrelec.ch CNAME .
 metrics.dockers.com CNAME .
 metrics.donaldson.com CNAME .
@@ -16486,6 +16965,7 @@ metrics.erivedge.com CNAME .
 metrics.esbriet.com CNAME .
 metrics.esbriethcp.com CNAME .
 metrics.escape.com.au CNAME .
+metrics.estascontratado.com CNAME .
 metrics.etihad.com CNAME .
 metrics.etihadengineering.com CNAME .
 metrics.eu.playstation.com CNAME .
@@ -16538,6 +17018,7 @@ metrics.goldcoastbulletin.com.au CNAME .
 metrics.golfgalaxy.com CNAME .
 metrics.gomedigap.com CNAME .
 metrics.gq.com.au CNAME .
+metrics.greatsouthernbank.com.au CNAME .
 metrics.greenflag.com CNAME .
 metrics.groupama.fr CNAME .
 metrics.gvb.ch CNAME .
@@ -16711,6 +17192,7 @@ metrics.melectronics.ch CNAME .
 metrics.mercy.net CNAME .
 metrics.metrobyt-mobile.com CNAME .
 metrics.mgmresorts.com CNAME .
+metrics.midnightlounge.com CNAME .
 metrics.miles-and-more.com CNAME .
 metrics.misumi-ec.com CNAME .
 metrics.moneta.cz CNAME .
@@ -16719,6 +17201,7 @@ metrics.morganstanley.com CNAME .
 metrics.motortrend.com CNAME .
 metrics.mrporter.com CNAME .
 metrics.mrrooter.com CNAME .
+metrics.msg.com CNAME .
 metrics.msvoice.com CNAME .
 metrics.murad.com CNAME .
 metrics.murata.com CNAME .
@@ -16788,6 +17271,7 @@ metrics.perjeta.com CNAME .
 metrics.petco.com CNAME .
 metrics.phoenix.edu CNAME .
 metrics.pinkribbonbottle.com CNAME .
+metrics.plastiq.com CNAME .
 metrics.plusrewards.com.au CNAME .
 metrics.politico.com CNAME .
 metrics.politico.eu CNAME .
@@ -16825,6 +17309,7 @@ metrics.refrigeratedtransporter.com CNAME .
 metrics.regions.com CNAME .
 metrics.renesas.com CNAME .
 metrics.renfe.com CNAME .
+metrics.rermag.com CNAME .
 metrics.reseguiden.se CNAME .
 metrics.restaurant-hospitality.com CNAME .
 metrics.retailmenot.com CNAME .
@@ -16863,6 +17348,7 @@ metrics.scopus.com CNAME .
 metrics.sdcvisit.com CNAME .
 metrics.seabourn.com CNAME .
 metrics.seat.com CNAME .
+metrics.seawheeze.com CNAME .
 metrics.seloger.com CNAME .
 metrics.sensai-cosmetics.com CNAME .
 metrics.sephora.com CNAME .
@@ -16930,6 +17416,7 @@ metrics.tecentriq.com CNAME .
 metrics.teeoff.com CNAME .
 metrics.telegraph.co.uk CNAME .
 metrics.telenet.be CNAME .
+metrics.texas.aaa.com CNAME .
 metrics.tgifridays.com CNAME .
 metrics.theaustralian.com.au CNAME .
 metrics.thefork.com CNAME .
@@ -17075,6 +17562,7 @@ nmetrics.samsung.com CNAME .
 nom.familysearch.org CNAME .
 nom.lds.org CNAME .
 nsc.coutts.com CNAME .
+nsc.metrics-shell.com CNAME .
 nsc.natwest.com CNAME .
 nsc.natwestgroup.com CNAME .
 nsc.natwestgroupremembers.com CNAME .
@@ -17283,6 +17771,7 @@ repdata.montgomeryadvertiser.com CNAME .
 repdata.northjersey.com CNAME .
 repdata.packersnews.com CNAME .
 repdata.poughkeepsiejournal.com CNAME .
+repdata.statesmanjournal.com CNAME .
 repdata.tallahassee.com CNAME .
 repdata.usatoday.com CNAME .
 repdata.wcsh6.com CNAME .
@@ -17490,6 +17979,7 @@ sanalytics.boomerang-tv.pl CNAME .
 sanalytics.boomerang-tv.ro CNAME .
 sanalytics.boomerang.asia CNAME .
 sanalytics.boomerang.com.br CNAME .
+sanalytics.boomeranggo.co.kr CNAME .
 sanalytics.boomerangmena.com CNAME .
 sanalytics.boomerangtv.co.uk CNAME .
 sanalytics.boomerangtv.com.au CNAME .
@@ -17813,6 +18303,7 @@ smetric.volkswagen.com CNAME .
 smetric.yardhouse.com CNAME .
 smetrics-cns.panasonic.com CNAME .
 smetrics-ieeexplore.ieee.org CNAME .
+smetrics.1005freshradio.ca CNAME .
 smetrics.1011bigfm.com CNAME .
 smetrics.1031freshradio.ca CNAME .
 smetrics.1043freshradio.ca CNAME .
@@ -18196,9 +18687,11 @@ smetrics.discovertrk.com CNAME .
 smetrics.dish.co CNAME .
 smetrics.dish.com CNAME .
 smetrics.dishanywhere.com CNAME .
+smetrics.dishnetwork.com CNAME .
 smetrics.dishpuertorico.com CNAME .
 smetrics.distrelec.ch CNAME .
 smetrics.dlalekarzy.roche.pl CNAME .
+smetrics.dmfacility.org CNAME .
 smetrics.dnb.com CNAME .
 smetrics.dnszone.jp CNAME .
 smetrics.doingbusiness.org CNAME .
@@ -18609,6 +19102,7 @@ smetrics.lululemon.de CNAME .
 smetrics.lululemon.fr CNAME .
 smetrics.lululemon.jp CNAME .
 smetrics.lundbeck.com CNAME .
+smetrics.lusc.jp CNAME .
 smetrics.lww.com CNAME .
 smetrics.machinedesign.com CNAME .
 smetrics.mackenzieinvestments.com CNAME .
@@ -19665,10 +20159,12 @@ ssl.o.vitals.com CNAME .
 ssl.o.webmd.com CNAME .
 ssl.sc.amc.devk.de CNAME .
 ssl.sciencechannel.com CNAME .
+sslanalytics.sixt.ch CNAME .
 sslanalytics.sixt.co.uk CNAME .
 sslanalytics.sixt.com CNAME .
 sslanalytics.sixt.de CNAME .
 sslanalytics.sixt.es CNAME .
+sslanalytics.sixt.fr CNAME .
 sslanalytics.sixt.nl CNAME .
 ssldata.thepointsguy.com CNAME .
 sslmetrics.vivint.com CNAME .
@@ -19780,7 +20276,6 @@ sstats.oneilglobaladvisors.com CNAME .
 sstats.onetime.com CNAME .
 sstats.oui.sncf CNAME .
 sstats.oyster.com CNAME .
-sstats.perficientdigital.com CNAME .
 sstats.pitchfork.com CNAME .
 sstats.raffles.com CNAME .
 sstats.runnersneed.com CNAME .
@@ -20198,6 +20693,7 @@ wa.t-mobile.nl CNAME .
 wa.vodafone.cz CNAME .
 wa.vodafone.de CNAME .
 wa.vodafone.pt CNAME .
+was.ihsmarkit.com CNAME .
 was.stubhub.com CNAME .
 was.vodafone.de CNAME .
 was.vodafone.nl CNAME .
@@ -20268,6 +20764,7 @@ csvt002.harrisbank.com CNAME .
 csvt005.heretakethewheel.com CNAME .
 csvt009.bmoharris.com CNAME .
 csvti.intuit.ca CNAME .
+csvti.intuit.com CNAME .
 csvtq.intuit.co.uk CNAME .
 csvtr.bmo.com CNAME .
 csvtr02.bmocorpmc.com CNAME .
@@ -20279,6 +20776,7 @@ csvtr13.bmodelawaretrust.com CNAME .
 csvtt.bmolife.com CNAME .
 csvtu.bmolending.com CNAME .
 metrics.adobeprimetime.com CNAME .
+metrics.cartoonnetworkla.com CNAME .
 metrics.chron.com CNAME .
 smetrics.sharekhan.com CNAME .
 t3e.firstchoice.co.uk CNAME .

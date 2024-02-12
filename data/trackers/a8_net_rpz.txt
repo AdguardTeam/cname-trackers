@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -525,7 +525,6 @@ a8clk.guruyaku.jp CNAME .
 a8clk.hags-ec.com CNAME .
 a8clk.hikakaku.com CNAME .
 a8clk.hikarinobe.com CNAME .
-a8clk.hoken-hikaku.jpn.com CNAME .
 a8clk.hoken-minaoshi-lab.jp CNAME .
 a8clk.hokennews.jp CNAME .
 a8clk.hom.adebtt.info CNAME .
@@ -789,7 +788,6 @@ a8cv.atami-box.com CNAME .
 a8cv.atgp.jp CNAME .
 a8cv.auhikari-bykddi.com CNAME .
 a8cv.b-concept.tokyo CNAME .
-a8cv.b-e-l.jp CNAME .
 a8cv.b-noix.jp CNAME .
 a8cv.babybjorn.jp CNAME .
 a8cv.baku-art.jp CNAME .

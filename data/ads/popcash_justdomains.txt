@@ -327,7 +327,6 @@ cattle.meets.beer
 cattle.musikschule-bregenzerwald.at
 cattle.spiral11.com
 cattle.weiss-bregenz.at
-cattle.yourdallashandyman.com
 centipede.davimug.com
 centipede.roasted.dev
 centipede.wildbit.com
@@ -417,10 +416,8 @@ dog.justsketch.me
 dog.orbit.love
 dog.rejuvenateyouohio.com
 dog.streameon.com
-dolphin.biodom.rs
 dolphin.brandname.tech
 dolphin.mayansmithgobat.de
-dolphin.maybe.co
 dolphin.sfelc.com
 donkey.aerzteteam-luppe.de
 donkey.annieswinecottagepowell.com
@@ -615,7 +612,6 @@ i5ixiwch2f.themakersmob.com
 iguana.cypressridge-pca.org
 iguana.delbaoliveira.com
 iguana.indigospot.com
-iguana.senatevotes.us
 iguana.vivere.co
 ijogkae.churchserviceplanner.co.uk
 impala.vnv.nl
@@ -703,7 +699,6 @@ locust.michiel-gerritsen.com
 loon.davidalindahl.com
 loon.energizer.asia
 loon.jrmyfranck.com
-loon.ohmyfunds.com
 louse.16bit.it
 louse.demaree.space
 louse.seanconnolly.dev
@@ -761,7 +756,6 @@ mole.getfamealy.com
 mole.gostartupco.com
 mole.rtbhouse.com
 mole.vcntlee.com
-mollusk.saferingz.com
 mollusk.working.actor
 mongoose.jasonlbeggs.com
 mongoose.scrumgenius.com
@@ -866,7 +860,6 @@ platypus.tompec.com
 platypus.zwei-bags.ch
 polarbear.codeday.org
 porcupine.dvresolve.com
-porcupine.simpleprax.de
 porpoise.azettl.net
 porpoise.deschtimes.com
 porpoise.fruittreecottage.com.au
@@ -1175,6 +1168,9 @@ cdn.adsninja.ca
 cdn.affiliatable.io
 cdn.dircont3.com
 cdn.shrtfly.vip
+cdn.studiosis.in
+cdn.unibotscdn.com
+ucdn.adgebra.co
 cdn.track.dark.bz
 consent.cookiefirst.com
 contact-gloss-production.accelerator.net
@@ -1189,3 +1185,5 @@ sp.theladyshop.pk
 static.netfly.fun
 static.nfly.cc
 static.xlyyzx.sbs
+thirty-good.lugg.com
+video.adsninja.ca

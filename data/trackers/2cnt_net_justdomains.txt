@@ -28,12 +28,7 @@ vg09.met.vgwort.de
 wiley.met.vgwort.de
 zeit.met.vgwort.de
 aabybrop.tns-gallup.dk
-aktienyt.tns-gallup.dk
-aktivtraening.tns-gallup.dk
-alt.tns-gallup.dk
-altinget.tns-gallup.dk
-altomboern.tns-gallup.dk
-altomhistorie.tns-gallup.dk
+abendblatt.met.vgwort.de
 amica.met.vgwort.de
 beck.met.vgwort.de
 berliner-kurier.met.vgwort.de
@@ -74,6 +69,12 @@ vg04.met.vgwort.de
 vg06.met.vgwort.de
 vogel.met.vgwort.de
 weka.met.vgwort.de
+aktienyt.tns-gallup.dk
+aktivtraening.tns-gallup.dk
+alt.tns-gallup.dk
+altinget.tns-gallup.dk
+altomboern.tns-gallup.dk
+altomhistorie.tns-gallup.dk
 amtsavisen.tns-gallup.dk
 amwatch.tns-gallup.dk
 aok.tns-gallup.dk

@@ -312,7 +312,6 @@
     * gruntstyle.extole.io
     * gxvebeauty.extole.io
     * hair.extole.io
-    * hanacure.extole.io
     * harley.extole.io
     * harryrosen.extole.io
     * henri-bendel.extole.io
@@ -415,7 +414,6 @@
     * paulmitchell.extole.io
     * paylocity.extole.io
     * perriconemd.extole.io
-    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -479,9 +477,7 @@
     * signals.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
-    * skillshare.em.extole.io
     * skillshare.extole.io
-    * skillshare.xtl.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
     * skyone-federal-credit-union.extole.io
@@ -888,7 +884,6 @@
 | share.gruntstyle.com | gruntstyle.extole.io |
 | share.gxvebeauty.com | gxvebeauty.extole.io |
 | refer.hair.com | hair.extole.io |
-| share.hanacure.com | hanacure.extole.io |
 | refer.hannaandersson.com | hannaandersson.extole.com |
 | refer.harimari.com | harimari.extole.com |
 | refer.harley-davidsonfootwear.com | harley.extole.io |
@@ -1041,7 +1036,6 @@
 | refer.paylocity.com | paylocity.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
-| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1133,9 +1127,7 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
-| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
-| xtl._domainkey.skillshare.com | skillshare.xtl.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
 | refer.skyone.org | skyone-federal-credit-union.extole.io |
@@ -1269,6 +1261,7 @@
 | share.wombatinvest.com | wombat.extole.io |
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
+| xtl._domainkey.skillshare.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
 | refer.zazzlereferral.com | zazzle.extole.io |
 | share.zebit.com | zebit.extole.io |

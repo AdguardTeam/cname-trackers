@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,7 +24,6 @@ analytics.cheapcaribbean.com CNAME .
 analytics.dreamsresorts.com CNAME .
 analytics.funjet.com CNAME .
 analytics.nowresorts.com CNAME .
-analytics.secretsresorts.com CNAME .
 analytics.southwestvacations.com CNAME .
 analytics.sunscaperesorts.com CNAME .
 analytics.triseptsolutions.com CNAME .
@@ -368,6 +367,7 @@ css.sportsbet.io CNAME .
 cstm.gumtree.com CNAME .
 customer.homedepot.com CNAME .
 customercenter-img04.auto-owners.com CNAME .
+custprof.t-mobile.com CNAME .
 cybersource.shoplineapp.com CNAME .
 cybs.dhgate.com CNAME .
 cybs.dhpay.com CNAME .
@@ -420,7 +420,6 @@ enligne.bnc.ca CNAME .
 ep.vystarcu.org CNAME .
 eps.uprova.com CNAME .
 event.evtm.53.com CNAME .
-ex.exnessstats.com CNAME .
 faas.2dehands.be CNAME .
 faas.2ememain.be CNAME .
 faas.marktplaats.nl CNAME .
@@ -586,13 +585,13 @@ page1.parcelmonkey.com CNAME .
 pages.fiduciarytrust.com CNAME .
 pages.franklintempleton.com CNAME .
 paiement.cb4x.fr CNAME .
+partition.enterprise.com CNAME .
 payment.rewards.sony.com CNAME .
 payments-de.lidlplus.com CNAME .
 payments.direct.playstation.com CNAME .
 payments.hd-plus.de CNAME .
 payrisk-tmx.didiglobal.com CNAME .
 pf.intuit.com CNAME .
-pfp.intuit.com CNAME .
 phyon.communipay.net CNAME .
 phyon.visit-x.net CNAME .
 piafapp.poste.it CNAME .
@@ -935,7 +934,6 @@ tm.summit-services.ca CNAME .
 tm.tbcbank.uz CNAME .
 tm.telecharge.com CNAME .
 tm.uship.com CNAME .
-tma.caffeine.tv CNAME .
 tmcdn.homeaway.com CNAME .
 tmck.indigocard.com CNAME .
 tmck.milestonegoldcard.com CNAME .

@@ -13,7 +13,6 @@
 ||analytics.dreamsresorts.com^
 ||analytics.funjet.com^
 ||analytics.nowresorts.com^
-||analytics.secretsresorts.com^
 ||analytics.southwestvacations.com^
 ||analytics.sunscaperesorts.com^
 ||analytics.triseptsolutions.com^
@@ -357,6 +356,7 @@
 ||cstm.gumtree.com^
 ||customer.homedepot.com^
 ||customercenter-img04.auto-owners.com^
+||custprof.t-mobile.com^
 ||cybersource.shoplineapp.com^
 ||cybs.dhgate.com^
 ||cybs.dhpay.com^
@@ -409,7 +409,6 @@
 ||ep.vystarcu.org^
 ||eps.uprova.com^
 ||event.evtm.53.com^
-||ex.exnessstats.com^
 ||faas.2dehands.be^
 ||faas.2ememain.be^
 ||faas.marktplaats.nl^
@@ -575,13 +574,13 @@
 ||pages.fiduciarytrust.com^
 ||pages.franklintempleton.com^
 ||paiement.cb4x.fr^
+||partition.enterprise.com^
 ||payment.rewards.sony.com^
 ||payments-de.lidlplus.com^
 ||payments.direct.playstation.com^
 ||payments.hd-plus.de^
 ||payrisk-tmx.didiglobal.com^
 ||pf.intuit.com^
-||pfp.intuit.com^
 ||phyon.communipay.net^
 ||phyon.visit-x.net^
 ||piafapp.poste.it^
@@ -924,7 +923,6 @@
 ||tm.tbcbank.uz^
 ||tm.telecharge.com^
 ||tm.uship.com^
-||tma.caffeine.tv^
 ||tmcdn.homeaway.com^
 ||tmck.indigocard.com^
 ||tmck.milestonegoldcard.com^

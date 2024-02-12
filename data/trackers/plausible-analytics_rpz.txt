@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -102,7 +102,6 @@ counter.proxycrawl.com CNAME .
 counter.subtitlebee.com CNAME .
 counter.websitevoice.com CNAME .
 cp.phiilu.com CNAME .
-data.blog.swicket.io CNAME .
 datum.appfleet.com CNAME .
 ds.webprojectslab.com CNAME .
 eliteclng.ericksonbuilt.com CNAME .
@@ -386,7 +385,6 @@ stats.amaeya.media CNAME .
 stats.amiibo.life CNAME .
 stats.andrewlevinson.me CNAME .
 stats.appcessible.org CNAME .
-stats.arma.coffee CNAME .
 stats.arquido.com CNAME .
 stats.artisansfiables.fr CNAME .
 stats.artistchristinacarmel.com CNAME .
@@ -944,7 +942,6 @@ stats.www.agirpourlenvironnement.org CNAME .
 stats.wymanmobilenotary.com CNAME .
 stats.xactcode.com CNAME .
 stats.xn--antnio-dxa.pt CNAME .
-stats.yourdallashandyman.com CNAME .
 stats.zimri.net CNAME .
 statystyki.ekspertyzy-szkolenia.pl CNAME .
 sts.authramp.com CNAME .

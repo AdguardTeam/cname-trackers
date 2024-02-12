@@ -1022,6 +1022,7 @@
 ||data-75526e35eb.etailment.de^
 ||data-7555680eb3.ikz.de^
 ||data-75671117cf.radiowaf.de^
+||data-75671117cf.radiowafhilft.de^
 ||data-75adc1b92b.fleischerei.de^
 ||data-7609d780e9.apps.iocnt.de^
 ||data-767a8be759.berliner-kurier.de^
@@ -1490,6 +1491,7 @@
 ||data-ae81bed93b.verliebt-in-bw.de^
 ||data-ae8875c8b8.nordkurier.de^
 ||data-ae8b196712.hanser-fachverlag.de^
+||data-ae99031d75.mittelbayerische-events.de^
 ||data-ae99031d75.mittelbayerische-stellen.de^
 ||data-ae99031d75.mittelbayerische-trauer.de^
 ||data-ae99031d75.mittelbayerische.de^
@@ -1810,6 +1812,7 @@
 ||data-d61ee02db0.pirsch.de^
 ||data-d6484416fd.maclife.de^
 ||data-d6485d3579.playboy.de^
+||data-d67a03d16c.meintophotel.de^
 ||data-d687fc47c0.11freunde.de^
 ||data-d69d9a5415.aachen.de^
 ||data-d6a989bf01.kl-magazin.de^
@@ -1951,6 +1954,7 @@
 ||data-ecadc85e81.apps.iocnt.de^
 ||data-ecb5249bb2.falter.at^
 ||data-ecd887c1d0.weser-kurier.de^
+||data-ed1806e776.apps.iocnt.de^
 ||data-ed1ee98a6c.arzt-atlas.de^
 ||data-ed1ee98a6c.medpertise.de^
 ||data-ed1ee98a6c.miomedi.de^

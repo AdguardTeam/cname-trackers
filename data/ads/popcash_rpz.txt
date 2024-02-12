@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -338,7 +338,6 @@ cattle.meets.beer CNAME .
 cattle.musikschule-bregenzerwald.at CNAME .
 cattle.spiral11.com CNAME .
 cattle.weiss-bregenz.at CNAME .
-cattle.yourdallashandyman.com CNAME .
 centipede.davimug.com CNAME .
 centipede.roasted.dev CNAME .
 centipede.wildbit.com CNAME .
@@ -428,10 +427,8 @@ dog.justsketch.me CNAME .
 dog.orbit.love CNAME .
 dog.rejuvenateyouohio.com CNAME .
 dog.streameon.com CNAME .
-dolphin.biodom.rs CNAME .
 dolphin.brandname.tech CNAME .
 dolphin.mayansmithgobat.de CNAME .
-dolphin.maybe.co CNAME .
 dolphin.sfelc.com CNAME .
 donkey.aerzteteam-luppe.de CNAME .
 donkey.annieswinecottagepowell.com CNAME .
@@ -626,7 +623,6 @@ i5ixiwch2f.themakersmob.com CNAME .
 iguana.cypressridge-pca.org CNAME .
 iguana.delbaoliveira.com CNAME .
 iguana.indigospot.com CNAME .
-iguana.senatevotes.us CNAME .
 iguana.vivere.co CNAME .
 ijogkae.churchserviceplanner.co.uk CNAME .
 impala.vnv.nl CNAME .
@@ -714,7 +710,6 @@ locust.michiel-gerritsen.com CNAME .
 loon.davidalindahl.com CNAME .
 loon.energizer.asia CNAME .
 loon.jrmyfranck.com CNAME .
-loon.ohmyfunds.com CNAME .
 louse.16bit.it CNAME .
 louse.demaree.space CNAME .
 louse.seanconnolly.dev CNAME .
@@ -772,7 +767,6 @@ mole.getfamealy.com CNAME .
 mole.gostartupco.com CNAME .
 mole.rtbhouse.com CNAME .
 mole.vcntlee.com CNAME .
-mollusk.saferingz.com CNAME .
 mollusk.working.actor CNAME .
 mongoose.jasonlbeggs.com CNAME .
 mongoose.scrumgenius.com CNAME .
@@ -877,7 +871,6 @@ platypus.tompec.com CNAME .
 platypus.zwei-bags.ch CNAME .
 polarbear.codeday.org CNAME .
 porcupine.dvresolve.com CNAME .
-porcupine.simpleprax.de CNAME .
 porpoise.azettl.net CNAME .
 porpoise.deschtimes.com CNAME .
 porpoise.fruittreecottage.com.au CNAME .
@@ -1186,6 +1179,9 @@ cdn.adsninja.ca CNAME .
 cdn.affiliatable.io CNAME .
 cdn.dircont3.com CNAME .
 cdn.shrtfly.vip CNAME .
+cdn.studiosis.in CNAME .
+cdn.unibotscdn.com CNAME .
+ucdn.adgebra.co CNAME .
 cdn.track.dark.bz CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
@@ -1200,3 +1196,5 @@ sp.theladyshop.pk CNAME .
 static.netfly.fun CNAME .
 static.nfly.cc CNAME .
 static.xlyyzx.sbs CNAME .
+thirty-good.lugg.com CNAME .
+video.adsninja.ca CNAME .

@@ -66,6 +66,7 @@
     * 261826549347986.wt-eu02.net
     * 266905402333512.wt-eu02.net
     * 267062407301027.wt-eu02.net
+    * 274892701840429.wt-eu02.net
     * 285545256993116.wt-eu02.net
     * 286813086616891.wt-eu02.net
     * 292330999892453.wt-eu02.net
@@ -88,6 +89,7 @@
     * 367171131378433.wt-eu02.net
     * 368068733707725.wt-eu02.net
     * 368352020330673.wt-eu02.net
+    * 375567775761012.wt-eu02.net
     * 378118469332445.wt-eu02.net
     * 390993738581837.wt-eu02.net
     * 412666916963576.wt-eu02.net
@@ -268,6 +270,7 @@
 | web.mapp.whiteaway.com | 266905402333512.wt-eu02.net |
 | web.b2bimperialfashion.com | 267062407301027.wt-eu02.net |
 | web.news.imperialfashion.com | 267062407301027.wt-eu02.net |
+| web.e.obayaty.com | 274892701840429.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
 | backup.data.srf.ch | 292330999892453.wt-eu02.net |
@@ -309,6 +312,7 @@
 | startrekk.flaconi.pl | 367171131378433.wt-eu02.net |
 | da.bodenhaus.de | 368068733707725.wt-eu02.net |
 | web.ideaautorepair.com | 368352020330673.wt-eu02.net |
+| web.info.aiteca.it | 375567775761012.wt-eu02.net |
 | web.newsletter.koffer-to-go.de | 378118469332445.wt-eu02.net |
 | website-usage.b2bendix.com | 390993738581837.wt-eu02.net |
 | mff.messefrankfurt.com | 412666916963576.wt-eu02.net |

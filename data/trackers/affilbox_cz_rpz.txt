@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -311,7 +311,6 @@ isic.kopirkaostrava.cz CNAME .
 isicpartner.mamechut.cz CNAME .
 kaocko.swaglift.com CNAME .
 lhota.stanicezoo.cz CNAME .
-login.affiliatesit.cz CNAME .
 money.mioweb.cz CNAME .
 my.11teamsports.bg CNAME .
 my.11teamsports.com CNAME .
@@ -441,7 +440,6 @@ partner.artmaster.com CNAME .
 partner.artmasteracademy.cz CNAME .
 partner.astaxanthincz.cz CNAME .
 partner.avetour.cz CNAME .
-partner.azada.cz CNAME .
 partner.babysigns.cz CNAME .
 partner.bandana.cz CNAME .
 partner.barnaby.cz CNAME .
@@ -667,7 +665,6 @@ partner.sporthangar.cz CNAME .
 partner.stavario.com CNAME .
 partner.stickersmakers.com CNAME .
 partner.strendem.cz CNAME .
-partner.stromkyonline.cz CNAME .
 partner.summermyles.cz CNAME .
 partner.susenepochoutky.cz CNAME .
 partner.susmevem.com CNAME .
@@ -875,6 +872,7 @@ provize.mimulo.cz CNAME .
 provize.pracenasobe.cz CNAME .
 provize.radynacestu.cz CNAME .
 provize.rychle-pujcky-bez-registru.cz CNAME .
+provize.snubni-prsten.cz CNAME .
 provize.vybavenifitness.cz CNAME .
 provize.wugi.cz CNAME .
 provize.zazitkovelety.cz CNAME .
@@ -910,5 +908,6 @@ www.affilo.cz CNAME .
 www.partner.hubatacernoska.cz CNAME .
 www.partneri.zuzanaondrisova.sk CNAME .
 affiliate.kulturistika.com CNAME .
+login.affiliatesit.cz CNAME .
 partner.janapekna.cz CNAME .
 partner.topforteam.cz CNAME .

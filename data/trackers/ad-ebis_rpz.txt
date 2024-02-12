@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -90,6 +90,7 @@ adebis.lifestylemag.jp CNAME .
 adebis.livable.co.jp CNAME .
 adebis.logoshome.jp CNAME .
 adebis.mizunomori.com CNAME .
+adebis.muscledeli.jp CNAME .
 adebis.no.01.alo-organic.com CNAME .
 adebis.nursery.co.jp CNAME .
 adebis.o-baby.net CNAME .
@@ -200,7 +201,6 @@ ebis.bbo.co.jp CNAME .
 ebis.belta.co.jp CNAME .
 ebis.biyo-job.com CNAME .
 ebis.bulk.co.jp CNAME .
-ebis.c-3-esthe.com CNAME .
 ebis.care-tensyoku.com CNAME .
 ebis.ce-parfait.com CNAME .
 ebis.codecamp.jp CNAME .
@@ -281,7 +281,6 @@ isebis.takamiclinic.or.jp CNAME .
 isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
 itpebis03.recella3d.com CNAME .
-kyoufukudoucname.worldsmile.net CNAME .
 marketing.biz.mynavi.jp CNAME .
 marketing.zwei.com CNAME .
 matsubun.matsubun.com CNAME .

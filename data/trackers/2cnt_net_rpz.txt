@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -39,12 +39,7 @@ vg09.met.vgwort.de CNAME .
 wiley.met.vgwort.de CNAME .
 zeit.met.vgwort.de CNAME .
 aabybrop.tns-gallup.dk CNAME .
-aktienyt.tns-gallup.dk CNAME .
-aktivtraening.tns-gallup.dk CNAME .
-alt.tns-gallup.dk CNAME .
-altinget.tns-gallup.dk CNAME .
-altomboern.tns-gallup.dk CNAME .
-altomhistorie.tns-gallup.dk CNAME .
+abendblatt.met.vgwort.de CNAME .
 amica.met.vgwort.de CNAME .
 beck.met.vgwort.de CNAME .
 berliner-kurier.met.vgwort.de CNAME .
@@ -85,6 +80,12 @@ vg04.met.vgwort.de CNAME .
 vg06.met.vgwort.de CNAME .
 vogel.met.vgwort.de CNAME .
 weka.met.vgwort.de CNAME .
+aktienyt.tns-gallup.dk CNAME .
+aktivtraening.tns-gallup.dk CNAME .
+alt.tns-gallup.dk CNAME .
+altinget.tns-gallup.dk CNAME .
+altomboern.tns-gallup.dk CNAME .
+altomhistorie.tns-gallup.dk CNAME .
 amtsavisen.tns-gallup.dk CNAME .
 amwatch.tns-gallup.dk CNAME .
 aok.tns-gallup.dk CNAME .

@@ -269,6 +269,7 @@
 ||web.e.compositesales.co.uk^
 ||web.e.drainagepipe.co.uk^
 ||web.e.guttersupplies.co.uk^
+||web.e.obayaty.com^
 ||web.e.panmacmillan.com^
 ||web.e.pbslgroup.co.uk^
 ||web.e.professionalbuildingsupplies.co.uk^
@@ -283,6 +284,7 @@
 ||web.email.umbro.co.uk^
 ||web.email.zone3.com^
 ||web.ideaautorepair.com^
+||web.info.aiteca.it^
 ||web.info.bodybuildingwarehouse.co.uk^
 ||web.info.bodybuildingwarehouse.com^
 ||web.info.bonprix.es^

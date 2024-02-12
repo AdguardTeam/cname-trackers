@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707120021912        ; Serial
+           1707724818854        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,9 +140,7 @@ www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em3904.skillshare.com CNAME .
 em8561.go2bank.com CNAME .
-em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -540,7 +538,6 @@ share.greenlightcard.com CNAME .
 share.greenvilleonline.com CNAME .
 share.gruntstyle.com CNAME .
 share.gxvebeauty.com CNAME .
-share.hanacure.com CNAME .
 share.hicapitalize.com CNAME .
 share.hotwire.com CNAME .
 share.htrnews.com CNAME .
@@ -697,8 +694,10 @@ share.zebit.com CNAME .
 share.zenbusiness.com CNAME .
 www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
-xtl._domainkey.skillshare.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
+em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
+em8928.em.petco.com CNAME .
+xtl._domainkey.skillshare.com CNAME .
 sftp.extole.com CNAME .

@@ -91,7 +91,6 @@ counter.proxycrawl.com
 counter.subtitlebee.com
 counter.websitevoice.com
 cp.phiilu.com
-data.blog.swicket.io
 datum.appfleet.com
 ds.webprojectslab.com
 eliteclng.ericksonbuilt.com
@@ -375,7 +374,6 @@ stats.amaeya.media
 stats.amiibo.life
 stats.andrewlevinson.me
 stats.appcessible.org
-stats.arma.coffee
 stats.arquido.com
 stats.artisansfiables.fr
 stats.artistchristinacarmel.com
@@ -933,7 +931,6 @@ stats.www.agirpourlenvironnement.org
 stats.wymanmobilenotary.com
 stats.xactcode.com
 stats.xn--antnio-dxa.pt
-stats.yourdallashandyman.com
 stats.zimri.net
 statystyki.ekspertyzy-szkolenia.pl
 sts.authramp.com

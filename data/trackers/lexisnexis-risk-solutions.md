@@ -6,6 +6,7 @@
     * citi.online-metrix.net
     * h-1020poof.online-metrix.net
     * h-10kdwzzr.online-metrix.net
+    * h-10mkgm4b.online-metrix.net
     * h-11b6fun8-bl.online-metrix.net
     * h-11b6fun8-wn.online-metrix.net
     * h-14iyhddh.online-metrix.net
@@ -82,7 +83,6 @@
     * h-76ussz09.online-metrix.net
     * h-7aid6tml.online-metrix.net
     * h-7bugohi5.online-metrix.net
-    * h-7hs48cp7.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
     * h-7ij9mii1.online-metrix.net
     * h-7lw52x9e.online-metrix.net
@@ -187,6 +187,7 @@
     * h-bfiiada3-a.online-metrix.net
     * h-bhs5fatf.online-metrix.net
     * h-biggerbooks.online-metrix.net
+    * h-bjrekxkm.online-metrix.net
     * h-blp4gupl.online-metrix.net
     * h-blueorangebank.online-metrix.net
     * h-bluevine.online-metrix.net
@@ -217,7 +218,6 @@
     * h-cadmv.online-metrix.net
     * h-caesars888.online-metrix.net
     * h-cafa.online-metrix.net
-    * h-caffeine.online-metrix.net
     * h-cambiahealth.online-metrix.net
     * h-canadiantire.online-metrix.net
     * h-canyon.online-metrix.net
@@ -653,7 +653,6 @@
     * h-uscellular.online-metrix.net
     * h-uship.online-metrix.net
     * h-usps.online-metrix.net
-    * h-v60nf4oj-pfp.online-metrix.net
     * h-v60nf4oj-qfp.online-metrix.net
     * h-v60nf4oj-rfp.online-metrix.net
     * h-v60nf4oj-tfp.online-metrix.net
@@ -708,6 +707,7 @@
 | content22.citi.com | citi.online-metrix.net |
 | content-tix.topi.eu | h-1020poof.online-metrix.net |
 | h.truist.com | h-10kdwzzr.online-metrix.net |
+| partition.enterprise.com | h-10mkgm4b.online-metrix.net |
 | content.bankerslife.com | h-11b6fun8-bl.online-metrix.net |
 | content.washingtonnational.com | h-11b6fun8-wn.online-metrix.net |
 | tmx.monzo.co.uk | h-14iyhddh.online-metrix.net |
@@ -854,7 +854,6 @@
 | analyze.central1.cc | h-76ussz09.online-metrix.net |
 | apps.shift.com.au | h-7aid6tml.online-metrix.net |
 | r.hokodo.co | h-7bugohi5.online-metrix.net |
-| ex.exnessstats.com | h-7hs48cp7.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.royalvegascasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.rubyfortune.ca | h-7ij9mii1-a.online-metrix.net |
@@ -938,7 +937,6 @@
 | analytics.dreamsresorts.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.funjet.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.nowresorts.com | h-analytics.triseptsolutions.online-metrix.net |
-| analytics.secretsresorts.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.southwestvacations.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.sunscaperesorts.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.triseptsolutions.com | h-analytics.triseptsolutions.online-metrix.net |
@@ -990,6 +988,7 @@
 | jplspr.jackpot.com | h-bfiiada3-a.online-metrix.net |
 | content.byabcd.com | h-bhs5fatf.online-metrix.net |
 | content.biggerbooks.com | h-biggerbooks.online-metrix.net |
+| custprof.t-mobile.com | h-bjrekxkm.online-metrix.net |
 | checkout.walz.de | h-blp4gupl.online-metrix.net |
 | stat.bluorbank.lv | h-blueorangebank.online-metrix.net |
 | tm-analytics.bluevine.com | h-bluevine.online-metrix.net |
@@ -1028,7 +1027,6 @@
 | deviceauth.dmv.ca.gov | h-cadmv.online-metrix.net |
 | membership-device.secured-igaming-services.com | h-caesars888.online-metrix.net |
 | donor.cafamerica.org | h-cafa.online-metrix.net |
-| tma.caffeine.tv | h-caffeine.online-metrix.net |
 | hooru.regence.com | h-cambiahealth.online-metrix.net |
 | content.atmosphere.ca | h-canadiantire.online-metrix.net |
 | content.canadiantire.ca | h-canadiantire.online-metrix.net |
@@ -1650,7 +1648,6 @@
 | img4.uscellular.com | h-uscellular.online-metrix.net |
 | tm.uship.com | h-uship.online-metrix.net |
 | content.usps.com | h-usps.online-metrix.net |
-| pfp.intuit.com | h-v60nf4oj-pfp.online-metrix.net |
 | qfp.intuit.com | h-v60nf4oj-qfp.online-metrix.net |
 | rfp.intuit.com | h-v60nf4oj-rfp.online-metrix.net |
 | tfp.intuit.com | h-v60nf4oj-tfp.online-metrix.net |
