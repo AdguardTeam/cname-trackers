@@ -152,7 +152,6 @@
 ||aardwolf.keygen.sh^
 ||aardwolf.meinsmartplan.de^
 ||aardwolf.relaycorp.tech^
-||aj8md.johnhenry.ie^
 ||albatros.teamground.fr^
 ||albatross.mypromo.co^
 ||albatross.ohseesoftware.com^
@@ -263,7 +262,6 @@
 ||bobcat.pronounce.technology^
 ||bobcat.pushplay.nl^
 ||bobcat.snapshooter.io^
-||bobcat.wdng-fotograf.de^
 ||booby.deanyeong.com^
 ||boom.laravel.io^
 ||bovid.docutize.de^
@@ -392,6 +390,7 @@
 ||crayfish.thingelstad.com^
 ||crocodile.rapid-sale.co.uk^
 ||crow.claudiakeil.de^
+||crow.gim.technology^
 ||crow.manuel-metzger.com^
 ||crow.themarbleking.com^
 ||crow.voracious.dev^
@@ -619,7 +618,6 @@
 ||jackal.jakerunzer.com^
 ||jackal.thetie.io^
 ||jay.brauerei-egg.at^
-||jay.breakup.management^
 ||jay.plantainguy.com^
 ||jcpjfyikk.dogbonemarket.com^
 ||jellyfish.teresaharlow.com^
@@ -896,7 +894,6 @@
 ||rabbit.radicalxchange.org^
 ||rabbit.thebestproductlist.com^
 ||rabbit.upwardhomes.net^
-||raccoon.donateflow.com^
 ||raccoon.jaronheard.com^
 ||rat.gimlet.io^
 ||raven.konquadrat.de^
@@ -941,7 +938,6 @@
 ||sdegwynml.bmaci.me^
 ||seahorse.brightwayhealth.org^
 ||seahorse.dexterityvisuals.com^
-||seahorse.okse.no^
 ||shark.codeswitch.be^
 ||shark.getplayback.com^
 ||shark.rockyourlife.de^
@@ -959,6 +955,7 @@
 ||silverfish.dailybuilds.com^
 ||silverfish.djordjevanjek.com^
 ||skink.asorman.io^
+||skink.thoumi.ch^
 ||skunk.gameworkersolidarity.com^
 ||smelt.allenpike.com^
 ||smelt.gautrowski.com^
@@ -1135,6 +1132,8 @@
 ||assets-v2.northsidesun.com^
 ||avemariaas.vmrcommunications.com^
 ||carlsonmedia.streetinteractive.com^
+||floorforce.streetinteractive.com^
+||gemtun.ctnewsjunkie.com^
 ||images.decaturish.com^
 ||kitt.tucsonsentinel.com^
 ||partner.streetinteractive.com^
@@ -1150,9 +1149,11 @@
 ||sponsors-v2.floorforce.com^
 ||sponsors-v2.locablepublishernetwork.com^
 ||sponsors-v2.urbanistnetwork.com^
+||sponsors.asisonline.org^
 ||sponsors.bicmagazine.com^
 ||sponsors.floorforce.com^
 ||sponsors.macaronikid.com^
+||sponsors.njmonthly.com^
 ||sponsors.oaklandcountymoms.com^
 ||sponsors.salesforceben.com^
 ||sponsors.stateofdigitalpublishing.com^

@@ -515,6 +515,7 @@ tr.infos-admissions.com
 tr.infos.afpa.fr
 tr.infos.allianz-trade.com
 tr.infos.ariase.com
+tr.infos.enerplus-bordeaux.fr
 tr.infos.fongecifcentre.com
 tr.infos.gazdebordeaux.fr
 tr.infos.lacarte.demenagez-moi.com
@@ -973,6 +974,7 @@ tr.relation-mediametrie.fr
 tr.relation.uneo.fr
 tr.remboursement.orange.fr
 tr.renowizze.be
+tr.republicains-info.org
 tr.rh.auchan.com
 tr.route-solutiondata.fr
 tr.roxi02e.espmp-agfr.net
@@ -1088,6 +1090,7 @@ tr.welcome.odalys-vacances.com
 tr.welcome.perfectstay.com
 tr.welcome.smartdeals-transavia-fr.com
 tr.welcome.thelist-emirates.fr
+tr.welcome.unaoffertaalgiorno.com
 tr.welcome.vipmag.fr
 tr.wuei.espmp-agfr.net
 tr.xlead.digital

@@ -93,6 +93,7 @@
 | a8.denwa-kaisen.jp | trck.a8.net |
 | a8.denwa-kanyuken.com | trck.a8.net |
 | a8.diakaimasu.jp | trck.a8.net |
+| a8.direia-to.net | trck.a8.net |
 | a8.doctorstretch.com | trck.a8.net |
 | a8.dolcibolle.com | trck.a8.net |
 | a8.drinco.jp | trck.a8.net |
@@ -130,7 +131,6 @@
 | a8.fujiorganics.com | trck.a8.net |
 | a8.fxism.jp | trck.a8.net |
 | a8.gaizyu-taiji.com | trck.a8.net |
-| a8.gekisapo.com | trck.a8.net |
 | a8.geo-online.co.jp | trck.a8.net |
 | a8.global-mobility-service.com | trck.a8.net |
 | a8.gme.co.jp | trck.a8.net |
@@ -279,7 +279,6 @@
 | a8.sakuramobile.jp | trck.a8.net |
 | a8.sakuratravel.jp | trck.a8.net |
 | a8.sara-uv.com | trck.a8.net |
-| a8.sawadamarche.com | trck.a8.net |
 | a8.schecon.com | trck.a8.net |
 | a8.seminarshelf.com | trck.a8.net |
 | a8.sennendo.jp | trck.a8.net |
@@ -840,6 +839,7 @@
 | a8cv.cloudthome.com | trck.a8.net |
 | a8cv.coco-gourmet.com | trck.a8.net |
 | a8cv.codmon.com | trck.a8.net |
+| a8cv.contents-sales.net | trck.a8.net |
 | a8cv.control.cloudphotobook.com | trck.a8.net |
 | a8cv.coopnet.or.jp | trck.a8.net |
 | a8cv.cosmeonline.com | trck.a8.net |

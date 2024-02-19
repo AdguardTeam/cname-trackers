@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -110,6 +110,7 @@ a.porn369.net CNAME .
 a.pornhex.com CNAME .
 a.prigo.xyz CNAME .
 a.rafian.com CNAME .
+a.seksohub.com CNAME .
 a.shubatuuuu.site CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
@@ -186,6 +187,7 @@ apple.arabtoons.net CNAME .
 arabs.alarabsex.com CNAME .
 arabs.alarbda.com CNAME .
 arabs.arabxforum.com CNAME .
+arabs.arabxn.org CNAME .
 arabs.nodzway.com CNAME .
 arabs.xn--mgbcvg3b0d2b.com CNAME .
 arabs.xn--ngbcrg3b.net CNAME .
@@ -352,7 +354,6 @@ fg850ik01.6g0blqi1541polz4n0kjvwo1kjl5tcx30.xyz CNAME .
 fgf3312xcx.sanjay44.xyz CNAME .
 fght3322.sieglinde22.xyz CNAME .
 fgr3edff.sieglinde22.xyz CNAME .
-fineads.icu CNAME .
 free.srcdn.xyz CNAME .
 fuckers.nieuws.xxx CNAME .
 fuwn782kk.alphaporno.com CNAME .
@@ -396,7 +397,6 @@ huewaix.xyz CNAME .
 hutanz.xyz CNAME .
 hx1.tubepornbase.com CNAME .
 i.bloblohub.com CNAME .
-i.theglobepost.us CNAME .
 iduq.com CNAME .
 ignore.hot-bbw-tube.com CNAME .
 ijucr.justbokep.com CNAME .
@@ -509,7 +509,6 @@ newzilla.name CNAME .
 ngbcrg3b.xn--ngbcrg3b.com CNAME .
 nice.tranny.one CNAME .
 nice.tryboobs.com CNAME .
-niceads.icu CNAME .
 non.arabshentai.com CNAME .
 nope.arabxforum.com CNAME .
 nope.xn--mgbkt9eckr.net CNAME .
@@ -570,6 +569,7 @@ pivo.tracked.one CNAME .
 plutoclean.com CNAME .
 pnpjceawvmeu.cdnvideo3.com CNAME .
 pop.nkiris.com CNAME .
+porn18.me CNAME .
 pornve.sexyadsrun.com CNAME .
 pornvideos.casa CNAME .
 powe.asian-xxx-videos.com CNAME .
@@ -584,12 +584,14 @@ pre.pornuxaxa.com CNAME .
 puzzio.xyz CNAME .
 puzzoa.xyz CNAME .
 px9.nuderedtube.com CNAME .
+q.broes.xyz CNAME .
 q.ikre.xyz CNAME .
+q.kvovs.xyz CNAME .
 qhip.com CNAME .
+qoqv.com CNAME .
 qoutec.shop CNAME .
 qovua60gue.tubewolf.com CNAME .
 qsdr.mysunnylawn.com CNAME .
-qualityads.icu CNAME .
 quantoz.xyz CNAME .
 quatxio.xyz CNAME .
 question.hot-step-mom.com CNAME .
@@ -636,6 +638,7 @@ sdfdfff.flelgwe.site CNAME .
 sdfgggse.sieglinde22.xyz CNAME .
 sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
+sdtg.tjaard11.xyz CNAME .
 serve.bdsmstreak.com CNAME .
 sfw1a.dappab.site CNAME .
 sfw1b.dappab.site CNAME .
@@ -705,6 +708,7 @@ uotbzz.xyz CNAME .
 upinu.xyz CNAME .
 uthbxvz.bestzba.com CNAME .
 v.vidghjlgkuyfk.site CNAME .
+v1.sellbuy.click CNAME .
 vd.7vid.net CNAME .
 vi1.prettytube.net CNAME .
 vid.prettytube.net CNAME .
@@ -765,6 +769,7 @@ xserve.zapurl.cc CNAME .
 xxx.sdtraff.com CNAME .
 xxxddd.baijav.com CNAME .
 xxxlove.rooski.net CNAME .
+y43wd34.dagobert33.xyz CNAME .
 you75.youpornsexvideos.com CNAME .
 z0000g.yvmads.com CNAME .
 zaemi.xyz CNAME .
@@ -775,5 +780,3 @@ zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 zzzzaaa.baijav.com CNAME .
 ad.desibp.com CNAME .
-qoqv.com CNAME .
-www.p123p.com CNAME .

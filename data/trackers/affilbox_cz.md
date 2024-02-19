@@ -635,6 +635,7 @@
 | partner.parfemy-parfumeur.cz | cz.affilbox.cz |
 | partner.perfect-dress.eu | cz.affilbox.cz |
 | partner.pesar.cz | cz.affilbox.cz |
+| partner.pinkasistent.sk | cz.affilbox.cz |
 | partner.pletemesi.cz | cz.affilbox.cz |
 | partner.plotmarket.sk | cz.affilbox.cz |
 | partner.plotshop.sk | cz.affilbox.cz |
@@ -892,6 +893,7 @@
 | special.kvetinyexpres.cz | cz.affilbox.cz |
 | splatky.aquatrend.sk | cz.affilbox.cz |
 | spolu.kuskakaa.cz | cz.affilbox.cz |
+| spoluprace.amalcino.cz | cz.affilbox.cz |
 | spoluprace.aretacni-pripravky.cz | cz.affilbox.cz |
 | spoluprace.bafoo.cz | cz.affilbox.cz |
 | spoluprace.blackkale.cz | cz.affilbox.cz |

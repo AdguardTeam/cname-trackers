@@ -153,6 +153,7 @@
     * ashleyfurniturehomestore.extole.io
     * ashleyhomestore.extole.io
     * asics.extole.io
+    * asurion.extole.io
     * at-a-glance.extole.io
     * athleta.extole.io
     * atlasbars.extole.io
@@ -290,6 +291,7 @@
     * g2.extole.io
     * gannett.extole.io
     * gap-canada.extole.io
+    * gardenoflife.extole.io
     * garnethill.extole.io
     * gcefcu.extole.io
     * getlendly.extole.io
@@ -329,6 +331,7 @@
     * incommonbeauty.extole.io
     * incrediblebank.extole.io
     * indeed.extole.io
+    * inkpixi.extole.io
     * inspire-clean-energy.extole.io
     * installamerica.extole.io
     * iqfiber.extole.io
@@ -414,6 +417,7 @@
     * paulmitchell.extole.io
     * paylocity.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -448,6 +452,7 @@
     * refer-maccosmetics-fr.extole.io
     * reliasacademy.extole.io
     * rentapp.extole.io
+    * reveneer.extole.io
     * riley-rose.extole.io
     * rio-grande-credit-union.extole.io
     * robertmondaviwinery.extole.io
@@ -488,7 +493,6 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -622,6 +626,7 @@
 | refer.ashleyfurniturehomestore.com | ashleyfurniturehomestore.extole.io |
 | share.ashleyhomestore.ca | ashleyhomestore.extole.io |
 | share.asics.com | asics.extole.io |
+| share.asurion.com | asurion.extole.io |
 | refer.ataglance.com | at-a-glance.extole.io |
 | refer.athleta.com | athleta.extole.io |
 | refer.athletawell.com | athleta.extole.io |
@@ -838,6 +843,7 @@
 | share.patriotledger.com | gannett.extole.io |
 | share.pnj.com | gannett.extole.io |
 | share.poughkeepsiejournal.com | gannett.extole.io |
+| share.pressconnects.com | gannett.extole.io |
 | share.redding.com | gannett.extole.io |
 | share.reporternews.com | gannett.extole.io |
 | share.rgj.com | gannett.extole.io |
@@ -854,6 +860,7 @@
 | share.usatoday.com | gannett.extole.io |
 | share.vcstar.com | gannett.extole.io |
 | refer.gapcanada.ca | gap-canada.extole.io |
+| refer.gardenoflife.com | gardenoflife.extole.io |
 | refer.garnethill.com | garnethill.extole.io |
 | refer.gcefcu.org | gcefcu.extole.io |
 | refer.lendly.com | getlendly.extole.io |
@@ -908,6 +915,7 @@
 | share.incrediblebank.com | incrediblebank.extole.io |
 | refer.indeed.com | indeed.extole.io |
 | share.indochino.com | indochino.extole.com |
+| share.inkpixi.com | inkpixi.extole.io |
 | share.inspirecleanenergy.com | inspire-clean-energy.extole.io |
 | share.installamerica.com | installamerica.extole.io |
 | refer.integrativenutrition.com | integrativenutrition-ssl.extole.com |
@@ -1036,6 +1044,7 @@
 | refer.paylocity.com | paylocity.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1086,6 +1095,7 @@
 | refer.xoom.com | referxoom.extole.com |
 | refer.reliasacademy.com | reliasacademy.extole.io |
 | refer.rent.app | rentapp.extole.io |
+| share.reveneer.io | reveneer.extole.io |
 | refer.rileyrose.com | riley-rose.extole.io |
 | share.riograndecu.org | rio-grande-credit-union.extole.io |
 | refer.roadrunnersports.com | roadrunnersports-ssl.extole.com |
@@ -1141,7 +1151,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |

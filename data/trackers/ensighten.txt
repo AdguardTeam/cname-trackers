@@ -282,6 +282,7 @@
 ||privacy.latitudefinancial.com^
 ||privacy.latitudefinancial.com.au^
 ||privacy.latitudepay.com^
+||privacy.online.heineken.co.za^
 ||privacy.owllabs.com^
 ||privacy.tigerbeer.com^
 ||privacy.umiloans.com.au^
@@ -349,6 +350,7 @@
 ||tm.hdmtools.com^
 ||tms-test.nab.com.au^
 ||tms.betway.com^
+||tms.betwayarabia.com^
 ||tms.betwaysatta.com^
 ||tms.betwaysatta1.com^
 ||tms.capitalone.com^

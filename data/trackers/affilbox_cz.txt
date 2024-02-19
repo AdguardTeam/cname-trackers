@@ -616,6 +616,7 @@
 ||partner.parfemy-parfumeur.cz^
 ||partner.perfect-dress.eu^
 ||partner.pesar.cz^
+||partner.pinkasistent.sk^
 ||partner.pletemesi.cz^
 ||partner.plotmarket.sk^
 ||partner.plotshop.sk^
@@ -873,6 +874,7 @@
 ||special.kvetinyexpres.cz^
 ||splatky.aquatrend.sk^
 ||spolu.kuskakaa.cz^
+||spoluprace.amalcino.cz^
 ||spoluprace.aretacni-pripravky.cz^
 ||spoluprace.bafoo.cz^
 ||spoluprace.blackkale.cz^

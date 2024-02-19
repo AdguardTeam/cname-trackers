@@ -15,7 +15,6 @@ aardwolf.chrisblackwell.me
 aardwolf.keygen.sh
 aardwolf.meinsmartplan.de
 aardwolf.relaycorp.tech
-aj8md.johnhenry.ie
 albatros.teamground.fr
 albatross.mypromo.co
 albatross.ohseesoftware.com
@@ -126,7 +125,6 @@ bobcat.nug.news
 bobcat.pronounce.technology
 bobcat.pushplay.nl
 bobcat.snapshooter.io
-bobcat.wdng-fotograf.de
 booby.deanyeong.com
 boom.laravel.io
 bovid.docutize.de
@@ -254,6 +252,7 @@ crayfish.thecatherinewheel.co
 crayfish.thingelstad.com
 crocodile.rapid-sale.co.uk
 crow.claudiakeil.de
+crow.gim.technology
 crow.manuel-metzger.com
 crow.themarbleking.com
 crow.voracious.dev
@@ -479,7 +478,6 @@ ipgeaif.blairmacintyre.me
 jackal.jakerunzer.com
 jackal.thetie.io
 jay.brauerei-egg.at
-jay.breakup.management
 jay.plantainguy.com
 jcpjfyikk.dogbonemarket.com
 jellyfish.teresaharlow.com
@@ -505,6 +503,7 @@ kiwi.railway.app
 koala.getslopes.com
 koala.moontells.com
 koala.mynestbox.co.uk
+koala.readyfive.io
 koi.artsvp.co
 koi.fftf.cat
 koi.henrydennis.dev
@@ -755,7 +754,6 @@ rabbit.homamo.co
 rabbit.radicalxchange.org
 rabbit.thebestproductlist.com
 rabbit.upwardhomes.net
-raccoon.donateflow.com
 raccoon.jaronheard.com
 rat.gimlet.io
 raven.konquadrat.de
@@ -800,7 +798,6 @@ scorpion.clare.ink
 sdegwynml.bmaci.me
 seahorse.brightwayhealth.org
 seahorse.dexterityvisuals.com
-seahorse.okse.no
 shark.codeswitch.be
 shark.getplayback.com
 shark.rockyourlife.de
@@ -818,6 +815,7 @@ silverfish.camaleon.gt
 silverfish.dailybuilds.com
 silverfish.djordjevanjek.com
 skink.asorman.io
+skink.thoumi.ch
 skunk.gameworkersolidarity.com
 smelt.allenpike.com
 smelt.gautrowski.com
@@ -999,7 +997,6 @@ bee.farmaciavdg.com
 bison.equals.community
 crow.centresustains.com
 donkey.masteringfinland.com
-koala.readyfive.io
 llama.whatcha.io
 loon.analogjoe.com
 moose.octo.app

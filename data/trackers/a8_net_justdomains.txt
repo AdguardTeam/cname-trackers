@@ -80,6 +80,7 @@ a8.denwa-hikari.com
 a8.denwa-kaisen.jp
 a8.denwa-kanyuken.com
 a8.diakaimasu.jp
+a8.direia-to.net
 a8.doctorstretch.com
 a8.dolcibolle.com
 a8.drinco.jp
@@ -117,7 +118,6 @@ a8.ftcbeauty.com
 a8.fujiorganics.com
 a8.fxism.jp
 a8.gaizyu-taiji.com
-a8.gekisapo.com
 a8.geo-online.co.jp
 a8.global-mobility-service.com
 a8.gme.co.jp
@@ -266,7 +266,6 @@ a8.sakuradome-direct.com
 a8.sakuramobile.jp
 a8.sakuratravel.jp
 a8.sara-uv.com
-a8.sawadamarche.com
 a8.schecon.com
 a8.seminarshelf.com
 a8.sennendo.jp
@@ -828,6 +827,7 @@ a8cv.cloud-wi-fi.jp
 a8cv.cloudthome.com
 a8cv.coco-gourmet.com
 a8cv.codmon.com
+a8cv.contents-sales.net
 a8cv.control.cloudphotobook.com
 a8cv.coopnet.or.jp
 a8cv.cosmeonline.com

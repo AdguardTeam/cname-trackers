@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,7 +18,6 @@ a.getaawp.com CNAME .
 a.iiro.dev CNAME .
 a.kryptonitewp.com CNAME .
 a.linkz.ai CNAME .
-a.mhthemes.com CNAME .
 a.remy.world CNAME .
 aloha.getoperand.com CNAME .
 also.greatsecuritydebate.net CNAME .
@@ -218,7 +217,6 @@ plausible.baychi.org CNAME .
 plausible.beanti.me CNAME .
 plausible.bearer.sh CNAME .
 plausible.benscarblog.com CNAME .
-plausible.billfox.co CNAME .
 plausible.bostad.shop CNAME .
 plausible.buildfirst.tech CNAME .
 plausible.campwire.com CNAME .
@@ -422,6 +420,7 @@ stats.bmxdevils.be CNAME .
 stats.book-rec.com CNAME .
 stats.booncon.com CNAME .
 stats.boscabeatha.ie CNAME .
+stats.bostonedtech.org CNAME .
 stats.breathly.app CNAME .
 stats.brennholzauktion.com CNAME .
 stats.briskoda.net CNAME .
@@ -471,7 +470,6 @@ stats.cryptmail.io CNAME .
 stats.curbnumberpro.com CNAME .
 stats.curtiscummings.me CNAME .
 stats.dailyposter.com CNAME .
-stats.dailyposter.xyz CNAME .
 stats.danestevens.dev CNAME .
 stats.danielwolf.photography CNAME .
 stats.danner-landschaftsbau.at CNAME .
@@ -556,7 +554,6 @@ stats.galeb.org CNAME .
 stats.galleriacortona.com CNAME .
 stats.gbc.uk CNAME .
 stats.geobox.app CNAME .
-stats.gerard.fun CNAME .
 stats.gesund-vital-lebensfreude.com CNAME .
 stats.getdoks.org CNAME .
 stats.gethyas.com CNAME .
@@ -663,7 +660,6 @@ stats.leavetrackapp.com CNAME .
 stats.lefthoek.com CNAME .
 stats.legendofnom.com CNAME .
 stats.leoloso.com CNAME .
-stats.lessimpact.org CNAME .
 stats.liamdavis.dev CNAME .
 stats.libertyembers.com CNAME .
 stats.lica.at CNAME .
@@ -869,7 +865,6 @@ stats.suniboy.com CNAME .
 stats.suominaikidoacademy.com CNAME .
 stats.sushibyte.io CNAME .
 stats.svemir.co CNAME .
-stats.swicket.io CNAME .
 stats.symbiofest.cz CNAME .
 stats.table.party CNAME .
 stats.tarasyarema.com CNAME .
@@ -978,3 +973,4 @@ yolo.philipbjorge.com CNAME .
 zahlen.olereissmann.de CNAME .
 p.ianmjones.com CNAME .
 stats.citizenos.com CNAME .
+stats.dailyposter.xyz CNAME .

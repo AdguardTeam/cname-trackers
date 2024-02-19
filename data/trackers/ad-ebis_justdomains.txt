@@ -132,7 +132,6 @@ beeline.beeline-tire.co.jp
 campaign-direct.eisai.jp
 campaign-direct.ketsuatsu-taisaku.xyz
 campaign-direct.kouketsuatsu-health.xyz
-ccc.aqualink.tokyo
 cmass.massmedian.co.jp
 cname-ade.gom-in.com
 cname-ade.hankoya.com
@@ -161,8 +160,6 @@ cnebis.eisai.jp
 cnebis.i-no-science.com
 corporate.frontierconsul.net
 cs0010sbeda.theory-clinic.com
-cs0010sbeda.theory-diet.com
-cs0010sbeda.theory-kumatarumi.com
 cs1470sbeda.schoolasp.com
 cs1863sbeda.glaucoma-arrest.net
 cs2113sbeda.hokto-onlineshop.jp
@@ -282,8 +279,6 @@ mgn.ebis.xn--olsz5f0ufw02b.net
 msr.p-antiaging.com
 ncc.nip-col.jp
 nlp-japan.life-and-mind.com
-os-om-x.beauty-health.today
-os.beauty-health.today
 p5mcwdbu.ginzo-buy.jp
 partner.haru-shop.jp
 sem.tkc-biyou.jp

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -526,6 +526,7 @@ tr.infos-admissions.com CNAME .
 tr.infos.afpa.fr CNAME .
 tr.infos.allianz-trade.com CNAME .
 tr.infos.ariase.com CNAME .
+tr.infos.enerplus-bordeaux.fr CNAME .
 tr.infos.fongecifcentre.com CNAME .
 tr.infos.gazdebordeaux.fr CNAME .
 tr.infos.lacarte.demenagez-moi.com CNAME .
@@ -984,6 +985,7 @@ tr.relation-mediametrie.fr CNAME .
 tr.relation.uneo.fr CNAME .
 tr.remboursement.orange.fr CNAME .
 tr.renowizze.be CNAME .
+tr.republicains-info.org CNAME .
 tr.rh.auchan.com CNAME .
 tr.route-solutiondata.fr CNAME .
 tr.roxi02e.espmp-agfr.net CNAME .
@@ -1099,6 +1101,7 @@ tr.welcome.odalys-vacances.com CNAME .
 tr.welcome.perfectstay.com CNAME .
 tr.welcome.smartdeals-transavia-fr.com CNAME .
 tr.welcome.thelist-emirates.fr CNAME .
+tr.welcome.unaoffertaalgiorno.com CNAME .
 tr.welcome.vipmag.fr CNAME .
 tr.wuei.espmp-agfr.net CNAME .
 tr.xlead.digital CNAME .

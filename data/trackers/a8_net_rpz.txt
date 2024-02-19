@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -91,6 +91,7 @@ a8.denwa-hikari.com CNAME .
 a8.denwa-kaisen.jp CNAME .
 a8.denwa-kanyuken.com CNAME .
 a8.diakaimasu.jp CNAME .
+a8.direia-to.net CNAME .
 a8.doctorstretch.com CNAME .
 a8.dolcibolle.com CNAME .
 a8.drinco.jp CNAME .
@@ -128,7 +129,6 @@ a8.ftcbeauty.com CNAME .
 a8.fujiorganics.com CNAME .
 a8.fxism.jp CNAME .
 a8.gaizyu-taiji.com CNAME .
-a8.gekisapo.com CNAME .
 a8.geo-online.co.jp CNAME .
 a8.global-mobility-service.com CNAME .
 a8.gme.co.jp CNAME .
@@ -277,7 +277,6 @@ a8.sakuradome-direct.com CNAME .
 a8.sakuramobile.jp CNAME .
 a8.sakuratravel.jp CNAME .
 a8.sara-uv.com CNAME .
-a8.sawadamarche.com CNAME .
 a8.schecon.com CNAME .
 a8.seminarshelf.com CNAME .
 a8.sennendo.jp CNAME .
@@ -839,6 +838,7 @@ a8cv.cloud-wi-fi.jp CNAME .
 a8cv.cloudthome.com CNAME .
 a8cv.coco-gourmet.com CNAME .
 a8cv.codmon.com CNAME .
+a8cv.contents-sales.net CNAME .
 a8cv.control.cloudphotobook.com CNAME .
 a8cv.coopnet.or.jp CNAME .
 a8cv.cosmeonline.com CNAME .

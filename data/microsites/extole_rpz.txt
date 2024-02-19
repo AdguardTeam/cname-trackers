@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -141,7 +141,7 @@ businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
 em8561.go2bank.com CNAME .
-em924.refer.starbucks.com CNAME .
+em8928.em.petco.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -250,6 +250,7 @@ refer.forgetrust.com CNAME .
 refer.frontgate.com CNAME .
 refer.g2.com CNAME .
 refer.gapcanada.ca CNAME .
+refer.gardenoflife.com CNAME .
 refer.garnethill.com CNAME .
 refer.gcefcu.org CNAME .
 refer.giantfood.com CNAME .
@@ -450,6 +451,7 @@ share.app.com CNAME .
 share.applemontessorischools.com CNAME .
 share.ashleyhomestore.ca CNAME .
 share.asics.com CNAME .
+share.asurion.com CNAME .
 share.atlasbars.com CNAME .
 share.aveda.com.au CNAME .
 share.azcentral.com CNAME .
@@ -545,6 +547,7 @@ share.hydropeptide.com CNAME .
 share.imagemarket.com CNAME .
 share.incrediblebank.com CNAME .
 share.independentmail.com CNAME .
+share.inkpixi.com CNAME .
 share.inspirecleanenergy.com CNAME .
 share.installamerica.com CNAME .
 share.iqfiber.com CNAME .
@@ -598,6 +601,7 @@ share.pilotcoffeeroasters.com CNAME .
 share.pnj.com CNAME .
 share.policygenius.com CNAME .
 share.poughkeepsiejournal.com CNAME .
+share.pressconnects.com CNAME .
 share.princess.com CNAME .
 share.promofarma.com CNAME .
 share.redding.com CNAME .
@@ -623,6 +627,7 @@ share.refer-maccosmetics.it CNAME .
 share.refer-maccosmetics.jp CNAME .
 share.refer-smashbox.com CNAME .
 share.reporternews.com CNAME .
+share.reveneer.io CNAME .
 share.rgj.com CNAME .
 share.riograndecu.org CNAME .
 share.robertmondaviwinery.com CNAME .
@@ -698,6 +703,6 @@ em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em8928.em.petco.com CNAME .
+em924.refer.starbucks.com CNAME .
 xtl._domainkey.skillshare.com CNAME .
 sftp.extole.com CNAME .

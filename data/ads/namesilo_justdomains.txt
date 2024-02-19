@@ -312,6 +312,7 @@
 3352472.notifysrv.com
 3354470.notify6.com
 3354470.notifysrv.com
+3357356.notify6.com
 3358442.notify6.com
 3359790.notifysrv.com
 3359800.notifysrv.com
@@ -399,6 +400,7 @@
 3440153.notifysrv.com
 3440155.notify6.com
 3440155.notifysrv.com
+3440157.notify6.com
 3440401.notify6.com
 3440401.notifysrv.com
 3440403.notify6.com
@@ -527,6 +529,7 @@
 3551873.notifysrv.com
 3556327.notifysrv.com
 3556651.notifysrv.com
+3557559.notify6.com
 3557821.notifysrv.com
 3562657.notifysrv.com
 3562665.notify6.com
@@ -574,12 +577,14 @@
 3585435.notify6.com
 3587723.notifysrv.com
 3587729.notifysrv.com
+3587733.notifysrv.com
 3587739.notifysrv.com
 3587799.notifysrv.com
 3588.notify.optimizesrv.com
 3588135.notifysrv.com
 3588587.notify6.com
 3588587.notifysrv.com
+3588589.notify6.com
 3588593.notifysrv.com
 3588597.notifysrv.com
 3588599.notifysrv.com
@@ -606,6 +611,7 @@
 3607715.notify6.com
 3607715.notifysrv.com
 3608083.notifysrv.com
+3608417.notifysrv.com
 3613079.notify6.com
 3613299.notifysrv.com
 3617551.notify6.com
@@ -849,12 +855,14 @@
 4162032.notify6.com
 4162254.notify6.com
 4162256.notify6.com
+4166040.notify6.com
 4173044.notify6.com
 4177784.notify6.com
 4179930.notify6.com
 4182036.notify6.com
 4188246.notify6.com
 4189332.notify6.com
+4189336.notify6.com
 4189910.notify6.com
 4189916.notify6.com
 4191292.notify6.com
@@ -962,6 +970,7 @@
 4863208.notify6.com
 4872274.notify6.com
 4872816.notify6.com
+4881146.notify6.com
 4882380.notify6.com
 4882844.notify6.com
 4888136.notify6.com
@@ -969,6 +978,7 @@
 4897578.notify6.com
 4902880.notify6.com
 4917212.notify6.com
+4919236.notify6.com
 4960922.notify6.com
 4983200.notify6.com
 4983282.notify6.com
@@ -1018,6 +1028,7 @@ a.rocoads.net
 a.santabrowser.com
 a.slice.exchange
 a.stuffserve.com
+a.tf4srv.com
 admin.adnation.com
 admin.adstuff.io
 admin.datingclix.com
@@ -1086,8 +1097,11 @@ s.elnn14.com
 s.elnn20.com
 s.elnn22.com
 s.elnn24.com
+s.elnn26.com
 s.elnp11.com
+s.elnr14.com
 s.elnr15.com
+s.elnr16.com
 s.elns12.com
 s.elns4a.com
 s.elns4b.com
@@ -1169,6 +1183,7 @@ www.3466857.notify6.com
 www.3466863.notify6.com
 www.3815579.notify6.com
 www.3881818.notify6.com
+www.3972246.notify6.com
 www.4065194.notify6.com
 www.4069896.notify6.com
 www.4152316.notify6.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -293,6 +293,7 @@ privacy.latitudefinancial.co.nz CNAME .
 privacy.latitudefinancial.com CNAME .
 privacy.latitudefinancial.com.au CNAME .
 privacy.latitudepay.com CNAME .
+privacy.online.heineken.co.za CNAME .
 privacy.owllabs.com CNAME .
 privacy.tigerbeer.com CNAME .
 privacy.umiloans.com.au CNAME .
@@ -360,6 +361,7 @@ test3-dc.sterlingjewelers.com CNAME .
 tm.hdmtools.com CNAME .
 tms-test.nab.com.au CNAME .
 tms.betway.com CNAME .
+tms.betwayarabia.com CNAME .
 tms.betwaysatta.com CNAME .
 tms.betwaysatta1.com CNAME .
 tms.capitalone.com CNAME .

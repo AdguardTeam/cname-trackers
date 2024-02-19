@@ -126,6 +126,7 @@
     * 637511691483562.wt-eu02.net
     * 639871942536313.wt-eu02.net
     * 641523609775483.wt-eu02.net
+    * 642216731269756.wt-eu02.net
     * 654069251471705.wt-eu02.net
     * 657801072187647.wt-eu02.net
     * 658764551928548.wt-eu02.net
@@ -176,6 +177,7 @@
     * 969665527401678.wt-eu02.net
     * 982429105360946.wt-eu02.net
     * 987593120374077.wt-eu02.net
+    * 988523091244829.wt-eu02.net
     * 989502084988358.wt-eu02.net
     * 997311968670029.wt-eu02.net
     * airbusgroup-de01.wt-eu02.net
@@ -361,6 +363,7 @@
 | web.news.pleasefashion.com | 637511691483562.wt-eu02.net |
 | wt.generali.de | 639871942536313.wt-eu02.net |
 | web.x.ilpost.it | 641523609775483.wt-eu02.net |
+| mapp.peacocks.co.uk | 642216731269756.wt-eu02.net |
 | info.deltapublishing.co.uk | 654069251471705.wt-eu02.net |
 | web.slim-joy.de | 657801072187647.wt-eu02.net |
 | web.slimjoy.com | 657801072187647.wt-eu02.net |
@@ -423,6 +426,7 @@
 | abc.bayer04.de | 969665527401678.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | web.info.teamwarrior.com | 987593120374077.wt-eu02.net |
+| web.email.topfarmacia.it | 988523091244829.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
 | wbtrkk.teufelaudio.pl | 997311968670029.wt-eu02.net |
 | webts.adac.de | adac02.webtrekk.net |
@@ -433,8 +437,6 @@
 | pixel.augsburger-allgemeine.de | augsburgerallgemeine01.webtrekk.net |
 | cdn7.baunetz.de | baunetzprod01.wt-eu02.net |
 | w7.berlin.de | berlinonline-02.wt-eu02.net |
-| w7.berliner-silvester.de | berlinonline-02.wt-eu02.net |
-| w7.weihnachteninberlin.de | berlinonline-02.wt-eu02.net |
 | spr.bild.de | bild01.webtrekk.net |
 | trk.blume2000.de | blume2000.wt-eu02.net |
 | img.buch.ch | buchch02.webtrekk.net |

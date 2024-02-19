@@ -464,6 +464,7 @@ data-3bd3168117.boerse.de
 data-3bf5bac5c5.addradio.de
 data-3bf5bac5c5.radiohochstift.de
 data-3c53a472e7.dieoberoesterreicherin.at
+data-3c5dd2a388.zuhausewohnen.de
 data-3c606bc05f.baumetall.de
 data-3c672b4f0d.rtl-up.de
 data-3c672b4f0d.rtlplus.de
@@ -1138,6 +1139,7 @@ data-8522662a32.main-ding.de
 data-8522662a32.mainpost.de
 data-8522662a32.swity.de
 data-8522662a32.wuerzburgerleben.de
+data-855289ee2d.apps.iocnt.de
 data-857b860637.wir-in-der-praxis.de
 data-85ad330317.spielaffe.de
 data-85ca53d898.apps.iocnt.de
@@ -1596,7 +1598,6 @@ data-bb21a2f11b.stylebook.de
 data-bb21a2f11b.techbook.de
 data-bb21a2f11b.travelbook.de
 data-bb4ada6163.travelbook.de
-data-bc153aec3e.nmdn.net
 data-bc153aec3e.radioguetersloh.de
 data-bc16fafbba.stadtbibliothek-reutlingen.de
 data-bc52ee58ca.meinprospekt.de
@@ -1740,6 +1741,7 @@ data-cb12c9ce6a.superillu.de
 data-cb2c174131.menshealth.de
 data-cb62759f4c.rpr1.de
 data-cb62759f4c.vereinsleben.de
+data-cb6448e7d7.apps.iocnt.de
 data-cb9b83f47f.t3n.de
 data-cc21ca250f.apps.iocnt.de
 data-ccadb8b6f3.apps.iocnt.de
@@ -1822,6 +1824,7 @@ data-d7486a3850.nordkurier.de
 data-d75062df83.epaper-oesterreich.at
 data-d7b9b455b2.apps.iocnt.de
 data-d815104c6c.dastelefonbuch.de
+data-d815104c6c.it2media.de
 data-d815104c6c.telefonbuch.de
 data-d858e7585b.lokal26.de
 data-d85ba30209.solidbau.at
@@ -1979,6 +1982,7 @@ data-ee73ed6bf2.gera.de
 data-ee807be806.derwesten.de
 data-ee807be806.funkemediennrw.de
 data-ee807be806.ikz-online.de
+data-ee807be806.jobmarkt-nrw.de
 data-ee807be806.lokalkompass.de
 data-ee807be806.nrz.de
 data-ee807be806.radiobochum.de
@@ -1998,6 +2002,7 @@ data-eea926926e.connect-channel.de
 data-ef2b66d556.miss.at
 data-ef2df4302f.baumagazin-online.de
 data-ef3fcaa7e9.0rtl.de
+data-ef4e2c0163.infonline.de
 data-ef805f6034.apps.iocnt.de
 data-ef8760a9b2.fraenkische-rezepte.de
 data-ef8760a9b2.infranken.de
@@ -2077,6 +2082,7 @@ data-f1e447fbcf.ovb-online.de
 data-f1e447fbcf.rosenheim24.de
 data-f1e447fbcf.ruhr24.de
 data-f1e447fbcf.sauerlandkurier.de
+data-f1e447fbcf.serienjunkies.de
 data-f1e447fbcf.soester-anzeiger.de
 data-f1e447fbcf.suedwest24.de
 data-f1e447fbcf.torgranate.de

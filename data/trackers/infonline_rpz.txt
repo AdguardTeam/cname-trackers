@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -475,6 +475,7 @@ data-3bd3168117.boerse.de CNAME .
 data-3bf5bac5c5.addradio.de CNAME .
 data-3bf5bac5c5.radiohochstift.de CNAME .
 data-3c53a472e7.dieoberoesterreicherin.at CNAME .
+data-3c5dd2a388.zuhausewohnen.de CNAME .
 data-3c606bc05f.baumetall.de CNAME .
 data-3c672b4f0d.rtl-up.de CNAME .
 data-3c672b4f0d.rtlplus.de CNAME .
@@ -1149,6 +1150,7 @@ data-8522662a32.main-ding.de CNAME .
 data-8522662a32.mainpost.de CNAME .
 data-8522662a32.swity.de CNAME .
 data-8522662a32.wuerzburgerleben.de CNAME .
+data-855289ee2d.apps.iocnt.de CNAME .
 data-857b860637.wir-in-der-praxis.de CNAME .
 data-85ad330317.spielaffe.de CNAME .
 data-85ca53d898.apps.iocnt.de CNAME .
@@ -1607,7 +1609,6 @@ data-bb21a2f11b.stylebook.de CNAME .
 data-bb21a2f11b.techbook.de CNAME .
 data-bb21a2f11b.travelbook.de CNAME .
 data-bb4ada6163.travelbook.de CNAME .
-data-bc153aec3e.nmdn.net CNAME .
 data-bc153aec3e.radioguetersloh.de CNAME .
 data-bc16fafbba.stadtbibliothek-reutlingen.de CNAME .
 data-bc52ee58ca.meinprospekt.de CNAME .
@@ -1751,6 +1752,7 @@ data-cb12c9ce6a.superillu.de CNAME .
 data-cb2c174131.menshealth.de CNAME .
 data-cb62759f4c.rpr1.de CNAME .
 data-cb62759f4c.vereinsleben.de CNAME .
+data-cb6448e7d7.apps.iocnt.de CNAME .
 data-cb9b83f47f.t3n.de CNAME .
 data-cc21ca250f.apps.iocnt.de CNAME .
 data-ccadb8b6f3.apps.iocnt.de CNAME .
@@ -1833,6 +1835,7 @@ data-d7486a3850.nordkurier.de CNAME .
 data-d75062df83.epaper-oesterreich.at CNAME .
 data-d7b9b455b2.apps.iocnt.de CNAME .
 data-d815104c6c.dastelefonbuch.de CNAME .
+data-d815104c6c.it2media.de CNAME .
 data-d815104c6c.telefonbuch.de CNAME .
 data-d858e7585b.lokal26.de CNAME .
 data-d85ba30209.solidbau.at CNAME .
@@ -1990,6 +1993,7 @@ data-ee73ed6bf2.gera.de CNAME .
 data-ee807be806.derwesten.de CNAME .
 data-ee807be806.funkemediennrw.de CNAME .
 data-ee807be806.ikz-online.de CNAME .
+data-ee807be806.jobmarkt-nrw.de CNAME .
 data-ee807be806.lokalkompass.de CNAME .
 data-ee807be806.nrz.de CNAME .
 data-ee807be806.radiobochum.de CNAME .
@@ -2009,6 +2013,7 @@ data-eea926926e.connect-channel.de CNAME .
 data-ef2b66d556.miss.at CNAME .
 data-ef2df4302f.baumagazin-online.de CNAME .
 data-ef3fcaa7e9.0rtl.de CNAME .
+data-ef4e2c0163.infonline.de CNAME .
 data-ef805f6034.apps.iocnt.de CNAME .
 data-ef8760a9b2.fraenkische-rezepte.de CNAME .
 data-ef8760a9b2.infranken.de CNAME .
@@ -2088,6 +2093,7 @@ data-f1e447fbcf.ovb-online.de CNAME .
 data-f1e447fbcf.rosenheim24.de CNAME .
 data-f1e447fbcf.ruhr24.de CNAME .
 data-f1e447fbcf.sauerlandkurier.de CNAME .
+data-f1e447fbcf.serienjunkies.de CNAME .
 data-f1e447fbcf.soester-anzeiger.de CNAME .
 data-f1e447fbcf.suedwest24.de CNAME .
 data-f1e447fbcf.torgranate.de CNAME .

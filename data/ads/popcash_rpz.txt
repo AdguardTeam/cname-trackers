@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -163,7 +163,6 @@ aardwolf.chrisblackwell.me CNAME .
 aardwolf.keygen.sh CNAME .
 aardwolf.meinsmartplan.de CNAME .
 aardwolf.relaycorp.tech CNAME .
-aj8md.johnhenry.ie CNAME .
 albatros.teamground.fr CNAME .
 albatross.mypromo.co CNAME .
 albatross.ohseesoftware.com CNAME .
@@ -274,7 +273,6 @@ bobcat.nug.news CNAME .
 bobcat.pronounce.technology CNAME .
 bobcat.pushplay.nl CNAME .
 bobcat.snapshooter.io CNAME .
-bobcat.wdng-fotograf.de CNAME .
 booby.deanyeong.com CNAME .
 boom.laravel.io CNAME .
 bovid.docutize.de CNAME .
@@ -403,6 +401,7 @@ crayfish.thecatherinewheel.co CNAME .
 crayfish.thingelstad.com CNAME .
 crocodile.rapid-sale.co.uk CNAME .
 crow.claudiakeil.de CNAME .
+crow.gim.technology CNAME .
 crow.manuel-metzger.com CNAME .
 crow.themarbleking.com CNAME .
 crow.voracious.dev CNAME .
@@ -630,7 +629,6 @@ ipgeaif.blairmacintyre.me CNAME .
 jackal.jakerunzer.com CNAME .
 jackal.thetie.io CNAME .
 jay.brauerei-egg.at CNAME .
-jay.breakup.management CNAME .
 jay.plantainguy.com CNAME .
 jcpjfyikk.dogbonemarket.com CNAME .
 jellyfish.teresaharlow.com CNAME .
@@ -907,7 +905,6 @@ rabbit.homamo.co CNAME .
 rabbit.radicalxchange.org CNAME .
 rabbit.thebestproductlist.com CNAME .
 rabbit.upwardhomes.net CNAME .
-raccoon.donateflow.com CNAME .
 raccoon.jaronheard.com CNAME .
 rat.gimlet.io CNAME .
 raven.konquadrat.de CNAME .
@@ -952,7 +949,6 @@ scorpion.clare.ink CNAME .
 sdegwynml.bmaci.me CNAME .
 seahorse.brightwayhealth.org CNAME .
 seahorse.dexterityvisuals.com CNAME .
-seahorse.okse.no CNAME .
 shark.codeswitch.be CNAME .
 shark.getplayback.com CNAME .
 shark.rockyourlife.de CNAME .
@@ -970,6 +966,7 @@ silverfish.camaleon.gt CNAME .
 silverfish.dailybuilds.com CNAME .
 silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
+skink.thoumi.ch CNAME .
 skunk.gameworkersolidarity.com CNAME .
 smelt.allenpike.com CNAME .
 smelt.gautrowski.com CNAME .
@@ -1146,6 +1143,8 @@ assets-v2.invaluable.com CNAME .
 assets-v2.northsidesun.com CNAME .
 avemariaas.vmrcommunications.com CNAME .
 carlsonmedia.streetinteractive.com CNAME .
+floorforce.streetinteractive.com CNAME .
+gemtun.ctnewsjunkie.com CNAME .
 images.decaturish.com CNAME .
 kitt.tucsonsentinel.com CNAME .
 partner.streetinteractive.com CNAME .
@@ -1161,9 +1160,11 @@ sponsors-v2.automate.org CNAME .
 sponsors-v2.floorforce.com CNAME .
 sponsors-v2.locablepublishernetwork.com CNAME .
 sponsors-v2.urbanistnetwork.com CNAME .
+sponsors.asisonline.org CNAME .
 sponsors.bicmagazine.com CNAME .
 sponsors.floorforce.com CNAME .
 sponsors.macaronikid.com CNAME .
+sponsors.njmonthly.com CNAME .
 sponsors.oaklandcountymoms.com CNAME .
 sponsors.salesforceben.com CNAME .
 sponsors.stateofdigitalpublishing.com CNAME .

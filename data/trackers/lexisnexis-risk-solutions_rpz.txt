@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -258,6 +258,7 @@ content.massmutual.com CNAME .
 content.maxconnector.com CNAME .
 content.moneza.ru CNAME .
 content.moni.com.ar CNAME .
+content.myfamliplus.state.co.us CNAME .
 content.myonlyid.com CNAME .
 content.mywisely.com CNAME .
 content.name.com CNAME .
@@ -592,6 +593,7 @@ payments.direct.playstation.com CNAME .
 payments.hd-plus.de CNAME .
 payrisk-tmx.didiglobal.com CNAME .
 pf.intuit.com CNAME .
+pfp.intuit.com CNAME .
 phyon.communipay.net CNAME .
 phyon.visit-x.net CNAME .
 piafapp.poste.it CNAME .
@@ -751,6 +753,7 @@ secured.netflix.com CNAME .
 service.riverscontent.com CNAME .
 servicesdp.luckydays.ca CNAME .
 servicesdp.spinaway.ca CNAME .
+sfp.intuit.com CNAME .
 sg-payment.cydf.hoyoverse.com CNAME .
 shield.boostbusiness.my CNAME .
 sitehelper.myengageft.com CNAME .
@@ -985,6 +988,7 @@ txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
 ualaki-analytics.vacations.united.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
+ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .
 v.ayco.com CNAME .

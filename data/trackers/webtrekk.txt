@@ -157,6 +157,7 @@
 ||mapp.ewm.co.uk^
 ||mapp.jysk.dk^
 ||mapp.jysk.nl^
+||mapp.peacocks.co.uk^
 ||mapp.yesstyle.com^
 ||mff.messefrankfurt.com^
 ||mit.bhw.de^
@@ -227,8 +228,6 @@
 ||w.ilfattoquotidiano.it^
 ||w3.aktionaersbank.de^
 ||w7.berlin.de^
-||w7.berliner-silvester.de^
-||w7.weihnachteninberlin.de^
 ||wa.planet-wissen.de^
 ||wa.quarks.de^
 ||wa.wdr.de^
@@ -280,6 +279,7 @@
 ||web.email.principality.co.uk^
 ||web.email.superga.co.uk^
 ||web.email.theindependentpharmacy.co.uk^
+||web.email.topfarmacia.it^
 ||web.email.turtlebay.co.uk^
 ||web.email.umbro.co.uk^
 ||web.email.zone3.com^

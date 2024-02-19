@@ -29,7 +29,6 @@
 | aardwolf.keygen.sh | deprecated-custom-domains.b-cdn.net |
 | aardwolf.meinsmartplan.de | deprecated-custom-domains.b-cdn.net |
 | aardwolf.relaycorp.tech | deprecated-custom-domains.b-cdn.net |
-| aj8md.johnhenry.ie | deprecated-custom-domains.b-cdn.net |
 | albatros.teamground.fr | deprecated-custom-domains.b-cdn.net |
 | albatross.creacoon.com | deprecated-custom-domains.b-cdn.net |
 | albatross.mypromo.co | deprecated-custom-domains.b-cdn.net |
@@ -150,7 +149,6 @@
 | bobcat.pronounce.technology | deprecated-custom-domains.b-cdn.net |
 | bobcat.pushplay.nl | deprecated-custom-domains.b-cdn.net |
 | bobcat.snapshooter.io | deprecated-custom-domains.b-cdn.net |
-| bobcat.wdng-fotograf.de | deprecated-custom-domains.b-cdn.net |
 | booby.deanyeong.com | deprecated-custom-domains.b-cdn.net |
 | boom.laravel.io | deprecated-custom-domains.b-cdn.net |
 | bovid.docutize.de | deprecated-custom-domains.b-cdn.net |
@@ -239,7 +237,6 @@
 | chimpanzee.designerdailyreport.com | deprecated-custom-domains.b-cdn.net |
 | chimpanzee.ines-papert.com | deprecated-custom-domains.b-cdn.net |
 | chinchilla.68keys.io | deprecated-custom-domains.b-cdn.net |
-| chipmunk.brandy.is | deprecated-custom-domains.b-cdn.net |
 | chipmunk.sqltoapi.com | deprecated-custom-domains.b-cdn.net |
 | cicada.escapethecorporatecult.com | deprecated-custom-domains.b-cdn.net |
 | cicada.wordvested.org | deprecated-custom-domains.b-cdn.net |
@@ -411,7 +408,6 @@
 | goat.aicontentdojo.com | deprecated-custom-domains.b-cdn.net |
 | goat.kunalslab.com | deprecated-custom-domains.b-cdn.net |
 | goat.purposevisionfuture.com | deprecated-custom-domains.b-cdn.net |
-| goat.sigr.li | deprecated-custom-domains.b-cdn.net |
 | goat.studiobruikbaar.nl | deprecated-custom-domains.b-cdn.net |
 | goat.vrds.app | deprecated-custom-domains.b-cdn.net |
 | goldfish.boleary.dev | deprecated-custom-domains.b-cdn.net |
@@ -505,7 +501,6 @@
 | jackal.jakerunzer.com | deprecated-custom-domains.b-cdn.net |
 | jackal.thetie.io | deprecated-custom-domains.b-cdn.net |
 | jay.brauerei-egg.at | deprecated-custom-domains.b-cdn.net |
-| jay.breakup.management | deprecated-custom-domains.b-cdn.net |
 | jay.plantainguy.com | deprecated-custom-domains.b-cdn.net |
 | jcpjfyikk.dogbonemarket.com | deprecated-custom-domains.b-cdn.net |
 | jellyfish.teresaharlow.com | deprecated-custom-domains.b-cdn.net |
@@ -659,7 +654,6 @@
 | moth.jkundp.at | deprecated-custom-domains.b-cdn.net |
 | moth.treeferral.com | deprecated-custom-domains.b-cdn.net |
 | moth.underscoretw.com | deprecated-custom-domains.b-cdn.net |
-| mouse.andrewstiefel.com | deprecated-custom-domains.b-cdn.net |
 | mouse.anthony-noel.com | deprecated-custom-domains.b-cdn.net |
 | mouse.botreach.co | deprecated-custom-domains.b-cdn.net |
 | mule.caddyserver.com | deprecated-custom-domains.b-cdn.net |
@@ -788,7 +782,6 @@
 | rabbit.radicalxchange.org | deprecated-custom-domains.b-cdn.net |
 | rabbit.thebestproductlist.com | deprecated-custom-domains.b-cdn.net |
 | rabbit.upwardhomes.net | deprecated-custom-domains.b-cdn.net |
-| raccoon.donateflow.com | deprecated-custom-domains.b-cdn.net |
 | raccoon.jaronheard.com | deprecated-custom-domains.b-cdn.net |
 | rat.gimlet.io | deprecated-custom-domains.b-cdn.net |
 | raven.konquadrat.de | deprecated-custom-domains.b-cdn.net |
@@ -819,7 +812,6 @@
 | sailfish.the-psychedelicatessen.com | deprecated-custom-domains.b-cdn.net |
 | sailfish.youracademycommunity.com | deprecated-custom-domains.b-cdn.net |
 | salamander.augmentedmind.io | deprecated-custom-domains.b-cdn.net |
-| salamander.laboucheriebio.com | deprecated-custom-domains.b-cdn.net |
 | salamander.showandtelldata.com | deprecated-custom-domains.b-cdn.net |
 | salamander.yourownpay.com | deprecated-custom-domains.b-cdn.net |
 | salmon.literallife.church | deprecated-custom-domains.b-cdn.net |
@@ -834,7 +826,6 @@
 | sdegwynml.bmaci.me | deprecated-custom-domains.b-cdn.net |
 | seahorse.brightwayhealth.org | deprecated-custom-domains.b-cdn.net |
 | seahorse.dexterityvisuals.com | deprecated-custom-domains.b-cdn.net |
-| seahorse.okse.no | deprecated-custom-domains.b-cdn.net |
 | shark.codeswitch.be | deprecated-custom-domains.b-cdn.net |
 | shark.getplayback.com | deprecated-custom-domains.b-cdn.net |
 | shark.rockyourlife.de | deprecated-custom-domains.b-cdn.net |
@@ -1040,7 +1031,6 @@
 | aardwolf.keygen.sh | starman.fathomdns.com |
 | aardwolf.meinsmartplan.de | starman.fathomdns.com |
 | aardwolf.relaycorp.tech | starman.fathomdns.com |
-| aj8md.johnhenry.ie | starman.fathomdns.com |
 | albatros.teamground.fr | starman.fathomdns.com |
 | albatross.mypromo.co | starman.fathomdns.com |
 | albatross.ohseesoftware.com | starman.fathomdns.com |
@@ -1151,7 +1141,6 @@
 | bobcat.pronounce.technology | starman.fathomdns.com |
 | bobcat.pushplay.nl | starman.fathomdns.com |
 | bobcat.snapshooter.io | starman.fathomdns.com |
-| bobcat.wdng-fotograf.de | starman.fathomdns.com |
 | booby.deanyeong.com | starman.fathomdns.com |
 | boom.laravel.io | starman.fathomdns.com |
 | bovid.docutize.de | starman.fathomdns.com |
@@ -1279,6 +1268,7 @@
 | crayfish.thingelstad.com | starman.fathomdns.com |
 | crocodile.rapid-sale.co.uk | starman.fathomdns.com |
 | crow.claudiakeil.de | starman.fathomdns.com |
+| crow.gim.technology | starman.fathomdns.com |
 | crow.manuel-metzger.com | starman.fathomdns.com |
 | crow.themarbleking.com | starman.fathomdns.com |
 | crow.voracious.dev | starman.fathomdns.com |
@@ -1504,7 +1494,6 @@
 | jackal.jakerunzer.com | starman.fathomdns.com |
 | jackal.thetie.io | starman.fathomdns.com |
 | jay.brauerei-egg.at | starman.fathomdns.com |
-| jay.breakup.management | starman.fathomdns.com |
 | jay.plantainguy.com | starman.fathomdns.com |
 | jcpjfyikk.dogbonemarket.com | starman.fathomdns.com |
 | jellyfish.teresaharlow.com | starman.fathomdns.com |
@@ -1530,6 +1519,7 @@
 | koala.getslopes.com | starman.fathomdns.com |
 | koala.moontells.com | starman.fathomdns.com |
 | koala.mynestbox.co.uk | starman.fathomdns.com |
+| koala.readyfive.io | starman.fathomdns.com |
 | koi.artsvp.co | starman.fathomdns.com |
 | koi.fftf.cat | starman.fathomdns.com |
 | koi.henrydennis.dev | starman.fathomdns.com |
@@ -1780,7 +1770,6 @@
 | rabbit.radicalxchange.org | starman.fathomdns.com |
 | rabbit.thebestproductlist.com | starman.fathomdns.com |
 | rabbit.upwardhomes.net | starman.fathomdns.com |
-| raccoon.donateflow.com | starman.fathomdns.com |
 | raccoon.jaronheard.com | starman.fathomdns.com |
 | rat.gimlet.io | starman.fathomdns.com |
 | raven.konquadrat.de | starman.fathomdns.com |
@@ -1825,7 +1814,6 @@
 | sdegwynml.bmaci.me | starman.fathomdns.com |
 | seahorse.brightwayhealth.org | starman.fathomdns.com |
 | seahorse.dexterityvisuals.com | starman.fathomdns.com |
-| seahorse.okse.no | starman.fathomdns.com |
 | shark.codeswitch.be | starman.fathomdns.com |
 | shark.getplayback.com | starman.fathomdns.com |
 | shark.rockyourlife.de | starman.fathomdns.com |
@@ -1843,6 +1831,7 @@
 | silverfish.dailybuilds.com | starman.fathomdns.com |
 | silverfish.djordjevanjek.com | starman.fathomdns.com |
 | skink.asorman.io | starman.fathomdns.com |
+| skink.thoumi.ch | starman.fathomdns.com |
 | skunk.gameworkersolidarity.com | starman.fathomdns.com |
 | smelt.allenpike.com | starman.fathomdns.com |
 | smelt.gautrowski.com | starman.fathomdns.com |

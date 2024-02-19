@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -71,7 +71,6 @@ cq.stoundisocrat.com CNAME .
 cs.cowmankai.com CNAME .
 cs.daemonshymens.com CNAME .
 ct.eanlingtumfie.com CNAME .
-cu.fullssmirker.com CNAME .
 cz.peatmenwhatsis.com CNAME .
 db.relandsnouts.com CNAME .
 dc.swartlybeebee.com CNAME .
@@ -224,6 +223,7 @@ lf.hagweedtoytown.com CNAME .
 lf.minyascannat.com CNAME .
 lg.feoffortapetis.com CNAME .
 lh.limosiwooable.com CNAME .
+ll.vriddhiejidal.com CNAME .
 lm.rinserbefore.com CNAME .
 lr.bezoarschrysid.com CNAME .
 lr.coehornliebig.com CNAME .
@@ -239,7 +239,6 @@ mf.collopantony.com CNAME .
 mf.egridstaidly.com CNAME .
 mf.fauldbeeth.com CNAME .
 mh.zonulews.com CNAME .
-mi.bettingbulbous.com CNAME .
 mi.gaywayperkish.com CNAME .
 mj.mucinplanks.com CNAME .
 mn.prespurmaness.com CNAME .
@@ -399,6 +398,7 @@ ur.meteredrato.com CNAME .
 ur.olivetkneel.com CNAME .
 us.aghaneefigurae.com CNAME .
 ut.ammannests.com CNAME .
+ut.floraepixies.com CNAME .
 uv.elymimontauk.com CNAME .
 ux.arsesresumes.com CNAME .
 ux.withinshobbist.com CNAME .
@@ -440,7 +440,6 @@ wl.jimjumsalkes.com CNAME .
 wm.findalwaglike.com CNAME .
 wn.congostudia.com CNAME .
 wr.rugosehoarish.com CNAME .
-ws.blondsdixie.com CNAME .
 wv.donarynahane.com CNAME .
 wx.redealstonage.com CNAME .
 wz.bergallgenion.com CNAME .

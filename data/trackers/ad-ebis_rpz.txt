@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -143,7 +143,6 @@ beeline.beeline-tire.co.jp CNAME .
 campaign-direct.eisai.jp CNAME .
 campaign-direct.ketsuatsu-taisaku.xyz CNAME .
 campaign-direct.kouketsuatsu-health.xyz CNAME .
-ccc.aqualink.tokyo CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.gom-in.com CNAME .
 cname-ade.hankoya.com CNAME .
@@ -172,8 +171,6 @@ cnebis.eisai.jp CNAME .
 cnebis.i-no-science.com CNAME .
 corporate.frontierconsul.net CNAME .
 cs0010sbeda.theory-clinic.com CNAME .
-cs0010sbeda.theory-diet.com CNAME .
-cs0010sbeda.theory-kumatarumi.com CNAME .
 cs1470sbeda.schoolasp.com CNAME .
 cs1863sbeda.glaucoma-arrest.net CNAME .
 cs2113sbeda.hokto-onlineshop.jp CNAME .
@@ -293,8 +290,6 @@ mgn.ebis.xn--olsz5f0ufw02b.net CNAME .
 msr.p-antiaging.com CNAME .
 ncc.nip-col.jp CNAME .
 nlp-japan.life-and-mind.com CNAME .
-os-om-x.beauty-health.today CNAME .
-os.beauty-health.today CNAME .
 p5mcwdbu.ginzo-buy.jp CNAME .
 partner.haru-shop.jp CNAME .
 sem.tkc-biyou.jp CNAME .

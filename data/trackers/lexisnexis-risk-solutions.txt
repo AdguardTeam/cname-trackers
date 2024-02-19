@@ -247,6 +247,7 @@
 ||content.maxconnector.com^
 ||content.moneza.ru^
 ||content.moni.com.ar^
+||content.myfamliplus.state.co.us^
 ||content.myonlyid.com^
 ||content.mywisely.com^
 ||content.name.com^
@@ -581,6 +582,7 @@
 ||payments.hd-plus.de^
 ||payrisk-tmx.didiglobal.com^
 ||pf.intuit.com^
+||pfp.intuit.com^
 ||phyon.communipay.net^
 ||phyon.visit-x.net^
 ||piafapp.poste.it^
@@ -740,6 +742,7 @@
 ||service.riverscontent.com^
 ||servicesdp.luckydays.ca^
 ||servicesdp.spinaway.ca^
+||sfp.intuit.com^
 ||sg-payment.cydf.hoyoverse.com^
 ||shield.boostbusiness.my^
 ||sitehelper.myengageft.com^
@@ -974,6 +977,7 @@
 ||uafms.ocbc.com^
 ||ualaki-analytics.vacations.united.com^
 ||uat.cmprofile.cards.citidirect.com^
+||ufp.intuit.com^
 ||uldfp.srilankan.com^
 ||umst.mobile.de^
 ||v.ayco.com^

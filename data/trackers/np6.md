@@ -536,6 +536,7 @@
 | tr.infos.afpa.fr | tracking.bp01.net |
 | tr.infos.allianz-trade.com | tracking.bp01.net |
 | tr.infos.ariase.com | tracking.bp01.net |
+| tr.infos.enerplus-bordeaux.fr | tracking.bp01.net |
 | tr.infos.fongecifcentre.com | tracking.bp01.net |
 | tr.infos.gazdebordeaux.fr | tracking.bp01.net |
 | tr.infos.lacarte.demenagez-moi.com | tracking.bp01.net |
@@ -994,6 +995,7 @@
 | tr.relation.uneo.fr | tracking.bp01.net |
 | tr.remboursement.orange.fr | tracking.bp01.net |
 | tr.renowizze.be | tracking.bp01.net |
+| tr.republicains-info.org | tracking.bp01.net |
 | tr.rh.auchan.com | tracking.bp01.net |
 | tr.route-solutiondata.fr | tracking.bp01.net |
 | tr.roxi02e.espmp-agfr.net | tracking.bp01.net |
@@ -1109,6 +1111,7 @@
 | tr.welcome.perfectstay.com | tracking.bp01.net |
 | tr.welcome.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.welcome.thelist-emirates.fr | tracking.bp01.net |
+| tr.welcome.unaoffertaalgiorno.com | tracking.bp01.net |
 | tr.welcome.vipmag.fr | tracking.bp01.net |
 | tr.wuei.espmp-agfr.net | tracking.bp01.net |
 | tr.xlead.digital | tracking.bp01.net |

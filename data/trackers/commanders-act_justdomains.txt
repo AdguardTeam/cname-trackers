@@ -12,6 +12,7 @@ data.ubi.com
 data.wptag.net
 logger.yp.ca
 sales.disneylandparis.com
+tag.boulanger.fr
 tagcommander.laredoute.be
 tagcommander.laredoute.ch
 tc.europcar.com
@@ -21,4 +22,3 @@ tcdata.fnac.com
 configure.adlermode.com
 data.decathlon.it
 data.ouigo.com
-tag.boulanger.fr

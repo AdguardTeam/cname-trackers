@@ -9,7 +9,6 @@
 
 * api.clickaine.com
 * u53.hypnorat.com
-* 77980.bodis.com
 
 ## Cloaking domains
 
@@ -114,6 +113,7 @@
 | a.pornhex.com | 0i0i0i0.com |
 | a.prigo.xyz | 0i0i0i0.com |
 | a.rafian.com | 0i0i0i0.com |
+| a.seksohub.com | 0i0i0i0.com |
 | a.shubatuuuu.site | 0i0i0i0.com |
 | a.suptube.com | 0i0i0i0.com |
 | a.teencfnm.com | 0i0i0i0.com |
@@ -190,6 +190,7 @@
 | arabs.alarabsex.com | 0i0i0i0.com |
 | arabs.alarbda.com | 0i0i0i0.com |
 | arabs.arabxforum.com | 0i0i0i0.com |
+| arabs.arabxn.org | 0i0i0i0.com |
 | arabs.nodzway.com | 0i0i0i0.com |
 | arabs.xn--mgbcvg3b0d2b.com | 0i0i0i0.com |
 | arabs.xn--ngbcrg3b.net | 0i0i0i0.com |
@@ -356,7 +357,6 @@
 | fgf3312xcx.sanjay44.xyz | 0i0i0i0.com |
 | fght3322.sieglinde22.xyz | 0i0i0i0.com |
 | fgr3edff.sieglinde22.xyz | 0i0i0i0.com |
-| fineads.icu | 0i0i0i0.com |
 | free.srcdn.xyz | 0i0i0i0.com |
 | fuckers.nieuws.xxx | 0i0i0i0.com |
 | fuwn782kk.alphaporno.com | 0i0i0i0.com |
@@ -398,7 +398,6 @@
 | hutanz.xyz | 0i0i0i0.com |
 | hx1.tubepornbase.com | 0i0i0i0.com |
 | i.bloblohub.com | 0i0i0i0.com |
-| i.theglobepost.us | 0i0i0i0.com |
 | iduq.com | 0i0i0i0.com |
 | ignore.hot-bbw-tube.com | 0i0i0i0.com |
 | ijucr.justbokep.com | 0i0i0i0.com |
@@ -510,7 +509,6 @@
 | ngbcrg3b.xn--ngbcrg3b.com | 0i0i0i0.com |
 | nice.tranny.one | 0i0i0i0.com |
 | nice.tryboobs.com | 0i0i0i0.com |
-| niceads.icu | 0i0i0i0.com |
 | non.arabshentai.com | 0i0i0i0.com |
 | nope.arabxforum.com | 0i0i0i0.com |
 | nope.xn--mgbkt9eckr.net | 0i0i0i0.com |
@@ -570,6 +568,7 @@
 | pivo.tracked.one | 0i0i0i0.com |
 | pnpjceawvmeu.cdnvideo3.com | 0i0i0i0.com |
 | pop.nkiris.com | 0i0i0i0.com |
+| porn18.me | 0i0i0i0.com |
 | pornve.sexyadsrun.com | 0i0i0i0.com |
 | pornvideos.casa | 0i0i0i0.com |
 | powe.asian-xxx-videos.com | 0i0i0i0.com |
@@ -584,12 +583,14 @@
 | puzzio.xyz | 0i0i0i0.com |
 | puzzoa.xyz | 0i0i0i0.com |
 | px9.nuderedtube.com | 0i0i0i0.com |
+| q.broes.xyz | 0i0i0i0.com |
 | q.ikre.xyz | 0i0i0i0.com |
+| q.kvovs.xyz | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
+| qoqv.com | 0i0i0i0.com |
 | qoutec.shop | 0i0i0i0.com |
 | qovua60gue.tubewolf.com | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
-| qualityads.icu | 0i0i0i0.com |
 | quantoz.xyz | 0i0i0i0.com |
 | quatxio.xyz | 0i0i0i0.com |
 | question.hot-step-mom.com | 0i0i0i0.com |
@@ -636,6 +637,7 @@
 | sdfgggse.sieglinde22.xyz | 0i0i0i0.com |
 | sdg.desihamster.pro | 0i0i0i0.com |
 | sdg.fwtrck.com | 0i0i0i0.com |
+| sdtg.tjaard11.xyz | 0i0i0i0.com |
 | serve.bdsmstreak.com | 0i0i0i0.com |
 | sfw1a.dappab.site | 0i0i0i0.com |
 | sfw1b.dappab.site | 0i0i0i0.com |
@@ -705,6 +707,7 @@
 | upinu.xyz | 0i0i0i0.com |
 | uthbxvz.bestzba.com | 0i0i0i0.com |
 | v.vidghjlgkuyfk.site | 0i0i0i0.com |
+| v1.sellbuy.click | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
 | vi1.prettytube.net | 0i0i0i0.com |
 | vid.prettytube.net | 0i0i0i0.com |
@@ -764,6 +767,7 @@
 | xxx.sdtraff.com | 0i0i0i0.com |
 | xxxddd.baijav.com | 0i0i0i0.com |
 | xxxlove.rooski.net | 0i0i0i0.com |
+| y43wd34.dagobert33.xyz | 0i0i0i0.com |
 | you75.youpornsexvideos.com | 0i0i0i0.com |
 | z0000g.yvmads.com | 0i0i0i0.com |
 | zaemi.xyz | 0i0i0i0.com |
@@ -773,7 +777,6 @@
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
 | zzzzaaa.baijav.com | 0i0i0i0.com |
-| www.p123p.com | 77980.bodis.com |
 | ad.desibp.com | api.clickaine.com |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
 | hq3x.com | u50.0i0i0i0.com |

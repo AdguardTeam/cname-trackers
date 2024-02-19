@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1707724818854        ; Serial
+           1708329627124        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ data.ubi.com CNAME .
 data.wptag.net CNAME .
 logger.yp.ca CNAME .
 sales.disneylandparis.com CNAME .
+tag.boulanger.fr CNAME .
 tagcommander.laredoute.be CNAME .
 tagcommander.laredoute.ch CNAME .
 tc.europcar.com CNAME .
@@ -32,4 +33,3 @@ tcdata.fnac.com CNAME .
 configure.adlermode.com CNAME .
 data.decathlon.it CNAME .
 data.ouigo.com CNAME .
-tag.boulanger.fr CNAME .
