@@ -114,6 +114,7 @@
 | a.prigo.xyz | 0i0i0i0.com |
 | a.rafian.com | 0i0i0i0.com |
 | a.seksohub.com | 0i0i0i0.com |
+| a.shemale99.com | 0i0i0i0.com |
 | a.shubatuuuu.site | 0i0i0i0.com |
 | a.suptube.com | 0i0i0i0.com |
 | a.teencfnm.com | 0i0i0i0.com |
@@ -175,7 +176,6 @@
 | adzilla.icu | 0i0i0i0.com |
 | alt.fescity.com | 0i0i0i0.com |
 | amaz.emailon.top | 0i0i0i0.com |
-| anti.347movie.com | 0i0i0i0.com |
 | anti.nukedfans.com | 0i0i0i0.com |
 | anti.uiiumovies.net | 0i0i0i0.com |
 | antiadblock.info | 0i0i0i0.com |
@@ -232,7 +232,6 @@
 | asg1.xueserverhost.com | 0i0i0i0.com |
 | asg2.xueserverhost.com | 0i0i0i0.com |
 | asn.banginterracial.com | 0i0i0i0.com |
-| asp.reputate.org | 0i0i0i0.com |
 | assets.taghtia.com | 0i0i0i0.com |
 | awrfds3.pornpapa.com | 0i0i0i0.com |
 | ax4.xmoviesland.com | 0i0i0i0.com |
@@ -310,6 +309,7 @@
 | coolpornvids.com | 0i0i0i0.com |
 | crumpet.xxxpornhd.pro | 0i0i0i0.com |
 | custom1.shorterall.com | 0i0i0i0.com |
+| cvsd.tjaard11.xyz | 0i0i0i0.com |
 | cx6.lastxxxmovies.com | 0i0i0i0.com |
 | d.adultporn.tv | 0i0i0i0.com |
 | d.bloblohub.com | 0i0i0i0.com |
@@ -319,6 +319,7 @@
 | ddddd.javmilk.org | 0i0i0i0.com |
 | deliver.vkcdnservice.com | 0i0i0i0.com |
 | dfbdfh4w3.sanjay44.xyz | 0i0i0i0.com |
+| dfgw.neigh11.xyz | 0i0i0i0.com |
 | dg3qtwew.sanjay44.xyz | 0i0i0i0.com |
 | digiadzone.com | 0i0i0i0.com |
 | display.cdnbucket.com | 0i0i0i0.com |
@@ -363,6 +364,7 @@
 | fx9.freepornoboss.com | 0i0i0i0.com |
 | g.adultporn.tv | 0i0i0i0.com |
 | g.bloblohub.com | 0i0i0i0.com |
+| g33f.neigh11.xyz | 0i0i0i0.com |
 | g6j.cupidonmedia.com | 0i0i0i0.com |
 | game.starswalker.site | 0i0i0i0.com |
 | getallt1.com | 0i0i0i0.com |
@@ -384,6 +386,7 @@
 | hero3.nude-asian-videos.com | 0i0i0i0.com |
 | hetaer.xyz | 0i0i0i0.com |
 | heyyou.spinna.shop | 0i0i0i0.com |
+| hjdw.tjaard11.xyz | 0i0i0i0.com |
 | hjq9z7bw6f5tr3xe2yl8.giga-uqload.xyz | 0i0i0i0.com |
 | hoakz.xyz | 0i0i0i0.com |
 | hot.sexyadsrun.com | 0i0i0i0.com |
@@ -431,6 +434,7 @@
 | js.syosetu.top | 0i0i0i0.com |
 | js.xemkqxs.com | 0i0i0i0.com |
 | jx3.freepornobook.com | 0i0i0i0.com |
+| jyfvt.neigh11.xyz | 0i0i0i0.com |
 | k.bloblohub.com | 0i0i0i0.com |
 | kaizzz.xyz | 0i0i0i0.com |
 | key.sexymovie.name | 0i0i0i0.com |
@@ -540,8 +544,6 @@
 | ok.faptor.com | 0i0i0i0.com |
 | ok.hqbang.com | 0i0i0i0.com |
 | ok.starwank.com | 0i0i0i0.com |
-| ontj.com | 0i0i0i0.com |
-| open.oksrv.com | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | orznp.spinna.store | 0i0i0i0.com |
 | outya.xyz | 0i0i0i0.com |
@@ -580,12 +582,14 @@
 | pre.ebasos.org | 0i0i0i0.com |
 | pre.myfuck.club | 0i0i0i0.com |
 | pre.pornuxaxa.com | 0i0i0i0.com |
+| purp.sukaporn.com | 0i0i0i0.com |
 | puzzio.xyz | 0i0i0i0.com |
 | puzzoa.xyz | 0i0i0i0.com |
 | px9.nuderedtube.com | 0i0i0i0.com |
 | q.broes.xyz | 0i0i0i0.com |
 | q.ikre.xyz | 0i0i0i0.com |
 | q.kvovs.xyz | 0i0i0i0.com |
+| q.leru.xyz | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
 | qoqv.com | 0i0i0i0.com |
 | qoutec.shop | 0i0i0i0.com |
@@ -605,6 +609,7 @@
 | rdx.javmotion.com | 0i0i0i0.com |
 | redi.teengirl-pics.com | 0i0i0i0.com |
 | reklama.teenfuckhd.com | 0i0i0i0.com |
+| rema.neigh11.xyz | 0i0i0i0.com |
 | rest.sexypornvideo.net | 0i0i0i0.com |
 | reton.free-porn-videos.org | 0i0i0i0.com |
 | rosetua.xyz | 0i0i0i0.com |
@@ -643,8 +648,10 @@
 | sfw1b.dappab.site | 0i0i0i0.com |
 | sfw1c.dappab.site | 0i0i0i0.com |
 | sfw1d.dappab.site | 0i0i0i0.com |
+| sfwe.tjaard11.xyz | 0i0i0i0.com |
 | sg.xclick24.com | 0i0i0i0.com |
 | sgzhg.pornlovo.co | 0i0i0i0.com |
+| shaeian.xyz | 0i0i0i0.com |
 | shenzo.xyz | 0i0i0i0.com |
 | shmeia.xyz | 0i0i0i0.com |
 | shukri.mwikace.com | 0i0i0i0.com |
@@ -656,6 +663,7 @@
 | sor.pornxok.com | 0i0i0i0.com |
 | spa.arabtoons.net | 0i0i0i0.com |
 | spyglass.reklamko.pro | 0i0i0i0.com |
+| srtw.neigh11.xyz | 0i0i0i0.com |
 | srv1.bunnymediaserver.com | 0i0i0i0.com |
 | ssltest.soundrussian.com | 0i0i0i0.com |
 | staticz.hotpornfile.org | 0i0i0i0.com |
@@ -685,10 +693,12 @@
 | testcommon.soundrussian.com | 0i0i0i0.com |
 | thaz.xyz | 0i0i0i0.com |
 | tiktakz.xyz | 0i0i0i0.com |
+| tkwe.tjaard11.xyz | 0i0i0i0.com |
 | tlv.ui02.com | 0i0i0i0.com |
 | toabuck.xyz | 0i0i0i0.com |
 | topsexmovs.com | 0i0i0i0.com |
 | topvidstore.com | 0i0i0i0.com |
+| touaz.xyz | 0i0i0i0.com |
 | touzia.xyz | 0i0i0i0.com |
 | tozuoi.xyz | 0i0i0i0.com |
 | tpl.fuckxness.com | 0i0i0i0.com |
@@ -729,6 +739,7 @@
 | www.bloblohub.com | 0i0i0i0.com |
 | www.f.bloblohub.com | 0i0i0i0.com |
 | www.go.ss-n-30.com | 0i0i0i0.com |
+| www.invast.site | 0i0i0i0.com |
 | www.javtvnow.xyz | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
 | www.monsoonlassi.com | 0i0i0i0.com |
@@ -741,7 +752,6 @@
 | www.spinna.xyz | 0i0i0i0.com |
 | www.uk.boffinsoft.com | 0i0i0i0.com |
 | www.w00t.us | 0i0i0i0.com |
-| www.zqwe.ru | 0i0i0i0.com |
 | www4.hentai-rpg.com | 0i0i0i0.com |
 | www4.hentaigamecg.com | 0i0i0i0.com |
 | www6.freeanimesource.com | 0i0i0i0.com |
@@ -784,4 +794,3 @@
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
 | h-ay.com | u53.hypnorat.com |
-| qoqv.com | u53.hypnorat.com |

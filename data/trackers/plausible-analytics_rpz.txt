@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708329627124        ; Serial
+           1708934418726        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,7 +16,6 @@ a.aawp.de CNAME .
 a.easyazon.com CNAME .
 a.getaawp.com CNAME .
 a.iiro.dev CNAME .
-a.kryptonitewp.com CNAME .
 a.linkz.ai CNAME .
 a.remy.world CNAME .
 aloha.getoperand.com CNAME .
@@ -166,7 +165,6 @@ pa.travelwhiz.app CNAME .
 peards.zevvle.com CNAME .
 pine.clk.click CNAME .
 pine.nervecentral.com CNAME .
-ping.hedlund.xyz CNAME .
 ping.naturadapt.com CNAME .
 ping.resoluteoil.com CNAME .
 pl.1feed.app CNAME .
@@ -566,7 +564,6 @@ stats.gnalt.de CNAME .
 stats.goldsguide.com CNAME .
 stats.gounified.com CNAME .
 stats.graphql-api.com CNAME .
-stats.graphql-by-pop.com CNAME .
 stats.gras-system.org CNAME .
 stats.gravitaswins.com CNAME .
 stats.greatlakesdesign.co CNAME .
@@ -692,7 +689,6 @@ stats.mashword.com CNAME .
 stats.mastermeup.com CNAME .
 stats.masterybits.com CNAME .
 stats.matthiasloibl.com CNAME .
-stats.matthogg.fyi CNAME .
 stats.maximaconsulting.xyz CNAME .
 stats.meetnfly.com CNAME .
 stats.mein-futterlexikon.org CNAME .

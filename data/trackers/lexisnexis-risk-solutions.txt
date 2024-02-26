@@ -54,6 +54,7 @@
 ||cdn-content.bmtx.com^
 ||cdn-east.purchase.goto.com^
 ||cdn-ln.ozk.com^
+||cdn-lntmps.mintmobile.com^
 ||cdn-s.chumbacasino.com^
 ||cdn-s.dev.chumbacasino.com^
 ||cdn-s.dev.globalpoker.com^
@@ -423,9 +424,12 @@
 ||fp.corporatetravelmoney.com^
 ||fp.dior.com^
 ||fp.disney.go.com^
+||fp.fashionworld.co.uk^
+||fp.homeessentials.co.uk^
 ||fp.jacamo.co.uk^
 ||fp.jdwilliams.co.uk^
 ||fp.joyobank.chance.co.jp^
+||fp.marisota.co.uk^
 ||fp.simplybe.co.uk^
 ||fp.ubagroup.com^
 ||fp.ups.com^
@@ -511,6 +515,7 @@
 ||jytrnq.cm-cic.com^
 ||kyc.usend.com^
 ||lab4.lloydsbank.com^
+||ln.cash.app^
 ||ln.meudigio.com.br^
 ||lnc.mo.gov^
 ||lncdn.goosehead.com^

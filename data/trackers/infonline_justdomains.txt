@@ -6,9 +6,7 @@
 _.apps.iocnt.de
 ackrly.chip.de
 acksrc.chip.de
-acsam-relay.agof.de
 acsam-relay.ivwonline.org
-acsam-script.agof.de
 c4b720ded1.apps.iocnt.de
 data-0034231193.apps.iocnt.de
 data-00460c60fa.eurotransport.de
@@ -732,6 +730,7 @@ data-52a43bc433.gala.de
 data-53808e266e.nn.de
 data-53ba3c279a.apps.iocnt.de
 data-53ce61d695.bike-x.de
+data-545e23e607.kosmo.at
 data-5492b7d422.mz-jobs.de
 data-5492b7d422.mz.de
 data-5492b7d422.rblive.de
@@ -987,6 +986,7 @@ data-7023b17a38.oberpfalz-pages.de
 data-7023b17a38.onetz.de
 data-7023b17a38.weiden24.de
 data-706868203b.partytimer.at
+data-707aff899d.bildderfrau.de
 data-707aff899d.donna-magazin.de
 data-707aff899d.funke-lifestyle.de
 data-707aff899d.funke.fun
@@ -2121,6 +2121,7 @@ data-f59db3288b.24rhein.de
 data-f59db3288b.24royal.de
 data-f59db3288b.24vita.de
 data-f59db3288b.az-online.de
+data-f59db3288b.baden24.de
 data-f59db3288b.bgland24.de
 data-f59db3288b.brokser-heiratsmarkt.de
 data-f59db3288b.buzzfeed.at

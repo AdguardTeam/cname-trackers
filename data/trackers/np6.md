@@ -349,6 +349,7 @@
 | tr.email.directindustry.com | tracking.bp01.net |
 | tr.email.distributor-expo.com | tracking.bp01.net |
 | tr.email.gap-france.fr | tracking.bp01.net |
+| tr.email.grandjeupaysgourmand.fr | tracking.bp01.net |
 | tr.email.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.email.infocredit.orangebank.fr | tracking.bp01.net |
 | tr.email.janedeboy.com | tracking.bp01.net |

@@ -258,7 +258,6 @@
 ||boar.hopehollow.com^
 ||boar.indieweb.org^
 ||boar.kostholdsveilederen.no^
-||bobcat.nug.news^
 ||bobcat.pronounce.technology^
 ||bobcat.pushplay.nl^
 ||bobcat.snapshooter.io^
@@ -329,7 +328,6 @@
 ||centipede.roasted.dev^
 ||centipede.wildbit.com^
 ||centipede.yuv.al^
-||cephalopod.hometechnology.news^
 ||cephalopod.nucleus.us^
 ||cephalopod.revelio.io^
 ||cephalopod.staff.design^
@@ -337,7 +335,6 @@
 ||cheetah.songrender.com^
 ||cheetah.stolenboats.info^
 ||cheetah.zeh.co.il^
-||chickadee.e-seller.news^
 ||chickadee.laravel.tips^
 ||chickadee.mikebifulco.com^
 ||chickadee.och.dev^
@@ -351,7 +348,6 @@
 ||chimpanzee.designerdailyreport.com^
 ||chimpanzee.ines-papert.com^
 ||chinchilla.68keys.io^
-||chipmunk.brandy.is^
 ||chipmunk.sqltoapi.com^
 ||cicada.escapethecorporatecult.com^
 ||cicada.wordvested.org^
@@ -399,7 +395,6 @@
 ||cuckoo.jerandky.com^
 ||cuckoo.minaexplorer.com^
 ||cuckoo.peoplefirstjobs.com^
-||dakqbwpduu.coywolf.io^
 ||damselfly.clk.click^
 ||damselfly.previously.today^
 ||damselfly.vegenook.com^
@@ -410,7 +405,6 @@
 ||dog.christinamoore.us^
 ||dog.franchisesocial.co.uk^
 ||dog.ghvenue.com^
-||dog.goldcanvas.com^
 ||dog.justsketch.me^
 ||dog.orbit.love^
 ||dog.rejuvenateyouohio.com^
@@ -425,7 +419,6 @@
 ||donkey.guggenbichler.co.at^
 ||donkey.hackoregon.org^
 ||donkey.kontematik.com^
-||donkey.oncarbon.app^
 ||donkey.the3rd.place^
 ||dormouse.consentkit.com^
 ||dove.hoku.nz^
@@ -483,7 +476,6 @@
 ||finch.eyal.rocks^
 ||finch.koronasporing.no^
 ||finch.market.xyz^
-||fish.canyouexplain.me^
 ||fish.hyperfine.io^
 ||fish.muted.io^
 ||fish.trampoline.cx^
@@ -524,7 +516,6 @@
 ||goat.aicontentdojo.com^
 ||goat.kunalslab.com^
 ||goat.purposevisionfuture.com^
-||goat.sigr.li^
 ||goat.studiobruikbaar.nl^
 ||goat.vrds.app^
 ||goldfish.boleary.dev^
@@ -656,7 +647,6 @@
 ||krill.spoonrage.com^
 ||krill.swiss-uke.ch^
 ||ks42zt.spec.fm^
-||ladybug.ethanprintz.com^
 ||ladybug.paulstovell.com^
 ||lamprey.carolcassar.com^
 ||lamprey.seagyndavis.com^
@@ -689,7 +679,6 @@
 ||llama.lobbly.com^
 ||llama.mallardbay.com^
 ||llama.vivriticapital.com^
-||lobster.dispatch.fm^
 ||lobster.justunderwear.com^
 ||lobster.tonebleed.com^
 ||locust.ausrebellion.earth^
@@ -768,7 +757,6 @@
 ||moth.jkundp.at^
 ||moth.treeferral.com^
 ||moth.underscoretw.com^
-||mouse.andrewstiefel.com^
 ||mouse.anthony-noel.com^
 ||mouse.botreach.co^
 ||mule.caddyserver.com^
@@ -923,7 +911,6 @@
 ||sailfish.the-psychedelicatessen.com^
 ||sailfish.youracademycommunity.com^
 ||salamander.augmentedmind.io^
-||salamander.laboucheriebio.com^
 ||salamander.showandtelldata.com^
 ||salamander.yourownpay.com^
 ||salmon.literallife.church^
@@ -959,7 +946,6 @@
 ||skunk.gameworkersolidarity.com^
 ||smelt.allenpike.com^
 ||smelt.gautrowski.com^
-||snake.kiramclean.com^
 ||snipe.mfaber.at^
 ||snipe.mizzuu.co^
 ||snipe.nipht.io^
@@ -1172,7 +1158,6 @@
 ||cdn.studiosis.in^
 ||cdn.unibotscdn.com^
 ||ucdn.adgebra.co^
-||cdn.track.dark.bz^
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^
 ||dntcl.qualaroo.com^

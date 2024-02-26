@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708329627124        ; Serial
+           1708934418726        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -339,6 +339,7 @@ tr.email.d8.tv CNAME .
 tr.email.directindustry.com CNAME .
 tr.email.distributor-expo.com CNAME .
 tr.email.gap-france.fr CNAME .
+tr.email.grandjeupaysgourmand.fr CNAME .
 tr.email.harmonie-mutuelle.fr CNAME .
 tr.email.infocredit.orangebank.fr CNAME .
 tr.email.janedeboy.com CNAME .

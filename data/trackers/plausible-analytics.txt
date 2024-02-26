@@ -5,7 +5,6 @@
 ||a.easyazon.com^
 ||a.getaawp.com^
 ||a.iiro.dev^
-||a.kryptonitewp.com^
 ||a.linkz.ai^
 ||a.remy.world^
 ||aloha.getoperand.com^
@@ -155,7 +154,6 @@
 ||peards.zevvle.com^
 ||pine.clk.click^
 ||pine.nervecentral.com^
-||ping.hedlund.xyz^
 ||ping.naturadapt.com^
 ||ping.resoluteoil.com^
 ||pl.1feed.app^
@@ -555,7 +553,6 @@
 ||stats.goldsguide.com^
 ||stats.gounified.com^
 ||stats.graphql-api.com^
-||stats.graphql-by-pop.com^
 ||stats.gras-system.org^
 ||stats.gravitaswins.com^
 ||stats.greatlakesdesign.co^
@@ -681,7 +678,6 @@
 ||stats.mastermeup.com^
 ||stats.masterybits.com^
 ||stats.matthiasloibl.com^
-||stats.matthogg.fyi^
 ||stats.maximaconsulting.xyz^
 ||stats.meetnfly.com^
 ||stats.mein-futterlexikon.org^

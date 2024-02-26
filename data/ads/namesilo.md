@@ -36,6 +36,7 @@
 | a.santabrowser.com | 1208818836.rsc.cdn77.org |
 | a.slice.exchange | 1208818836.rsc.cdn77.org |
 | a.stuffserve.com | 1208818836.rsc.cdn77.org |
+| a.tf4srv.com | 1208818836.rsc.cdn77.org |
 | delivery.gettopple.com | 1208818836.rsc.cdn77.org |
 | main0.exosrv.com | a37zk9tr.ab1n.net |
 | syndication0.exoclick.com | a37zk9tr.ab1n.net |
@@ -754,6 +755,7 @@
 | 3843075.notifysrv.com | tk6if76q.ab1n.net |
 | 3845405.notify6.com | tk6if76q.ab1n.net |
 | 3849719.notify6.com | tk6if76q.ab1n.net |
+| 3853331.notify6.com | tk6if76q.ab1n.net |
 | 3853333.notify6.com | tk6if76q.ab1n.net |
 | 3856281.notify6.com | tk6if76q.ab1n.net |
 | 3856373.notify6.com | tk6if76q.ab1n.net |
@@ -874,6 +876,7 @@
 | 4080606.notify6.com | tk6if76q.ab1n.net |
 | 4086498.notify6.com | tk6if76q.ab1n.net |
 | 4093684.notify6.com | tk6if76q.ab1n.net |
+| 4093690.notify6.com | tk6if76q.ab1n.net |
 | 4093704.notify6.com | tk6if76q.ab1n.net |
 | 4096386.notify6.com | tk6if76q.ab1n.net |
 | 4097564.notify6.com | tk6if76q.ab1n.net |
@@ -1055,6 +1058,7 @@
 | click.advertrek.com | tk6if76q.ab1n.net |
 | engine.gettopple.com | tk6if76q.ab1n.net |
 | m.hue2m.com | tk6if76q.ab1n.net |
+| m.hue4a.com | tk6if76q.ab1n.net |
 | m.optidigital.com | tk6if76q.ab1n.net |
 | main.exdynsrv.com | tk6if76q.ab1n.net |
 | main.exoclick.com | tk6if76q.ab1n.net |
@@ -1076,6 +1080,7 @@
 | s.elna1w.com | tk6if76q.ab1n.net |
 | s.elna1x.com | tk6if76q.ab1n.net |
 | s.elnb21.com | tk6if76q.ab1n.net |
+| s.elnb22.com | tk6if76q.ab1n.net |
 | s.elnk4b.com | tk6if76q.ab1n.net |
 | s.elnk4d.com | tk6if76q.ab1n.net |
 | s.elnk90.com | tk6if76q.ab1n.net |
@@ -1100,6 +1105,7 @@
 | s.elns4a.com | tk6if76q.ab1n.net |
 | s.elns4b.com | tk6if76q.ab1n.net |
 | s.elns4c.com | tk6if76q.ab1n.net |
+| s.elnz01.com | tk6if76q.ab1n.net |
 | s.etology.com | tk6if76q.ab1n.net |
 | s.eunow4u.com | tk6if76q.ab1n.net |
 | s.linkw2e.com | tk6if76q.ab1n.net |
@@ -1209,6 +1215,7 @@
 | a.slice.exchange | w2u4v9e1.ab1n.net |
 | a.stuffserve.com | w2u4v9e1.ab1n.net |
 | a.tf4srv.com | w2u4v9e1.ab1n.net |
+| a.vws4brkfst.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
 | *.exaapi.com | x0xmrxm4.ab1n.net |
 | admin.adnation.com | x0xmrxm4.ab1n.net |

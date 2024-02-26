@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708329627124        ; Serial
+           1708934418726        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -65,6 +65,7 @@ cdle-prof.clouduim.cdle.state.co.us CNAME .
 cdn-content.bmtx.com CNAME .
 cdn-east.purchase.goto.com CNAME .
 cdn-ln.ozk.com CNAME .
+cdn-lntmps.mintmobile.com CNAME .
 cdn-s.chumbacasino.com CNAME .
 cdn-s.dev.chumbacasino.com CNAME .
 cdn-s.dev.globalpoker.com CNAME .
@@ -434,9 +435,12 @@ fp.cdn-scripts.com CNAME .
 fp.corporatetravelmoney.com CNAME .
 fp.dior.com CNAME .
 fp.disney.go.com CNAME .
+fp.fashionworld.co.uk CNAME .
+fp.homeessentials.co.uk CNAME .
 fp.jacamo.co.uk CNAME .
 fp.jdwilliams.co.uk CNAME .
 fp.joyobank.chance.co.jp CNAME .
+fp.marisota.co.uk CNAME .
 fp.simplybe.co.uk CNAME .
 fp.ubagroup.com CNAME .
 fp.ups.com CNAME .
@@ -522,6 +526,7 @@ jpubs.zodia.io CNAME .
 jytrnq.cm-cic.com CNAME .
 kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
+ln.cash.app CNAME .
 ln.meudigio.com.br CNAME .
 lnc.mo.gov CNAME .
 lncdn.goosehead.com CNAME .

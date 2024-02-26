@@ -126,7 +126,6 @@
 | affiliate.biooo.cz | cz.affilbox.cz |
 | affiliate.bitcoinzmenaren.sk | cz.affilbox.cz |
 | affiliate.cannyapp.cz | cz.affilbox.cz |
-| affiliate.cbweed.cz | cz.affilbox.cz |
 | affiliate.childhoodpotential.com | cz.affilbox.cz |
 | affiliate.chytryhonza.cz | cz.affilbox.cz |
 | affiliate.ckslniecko.sk | cz.affilbox.cz |
@@ -327,7 +326,6 @@
 | my.11teamsports.ee | cz.affilbox.cz |
 | my.11teamsports.es | cz.affilbox.cz |
 | my.11teamsports.fi | cz.affilbox.cz |
-| my.11teamsports.fr | cz.affilbox.cz |
 | my.11teamsports.gr | cz.affilbox.cz |
 | my.11teamsports.hr | cz.affilbox.cz |
 | my.11teamsports.hu | cz.affilbox.cz |
@@ -485,6 +483,7 @@
 | partner.chiashake.cz | cz.affilbox.cz |
 | partner.chilimarket.cz | cz.affilbox.cz |
 | partner.chococo.cz | cz.affilbox.cz |
+| partner.chocolatehill.cz | cz.affilbox.cz |
 | partner.chytranemovitost.cz | cz.affilbox.cz |
 | partner.chytrydopravce.cz | cz.affilbox.cz |
 | partner.cleanee.cz | cz.affilbox.cz |
@@ -821,7 +820,6 @@
 | partneri.roklen.cz | cz.affilbox.cz |
 | partneri.rondainvest.cz | cz.affilbox.cz |
 | partneri.salente.cz | cz.affilbox.cz |
-| partneri.samuelhornek.cz | cz.affilbox.cz |
 | partneri.serafinbyliny.cz | cz.affilbox.cz |
 | partneri.silaprozivot.com | cz.affilbox.cz |
 | partneri.smartemailing.cz | cz.affilbox.cz |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708329627124        ; Serial
+           1708934418726        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -34,6 +34,7 @@ a8.aliceandolivia.jp CNAME .
 a8.ama-mail.jp CNAME .
 a8.amairo-sky.com CNAME .
 a8.andethic.com CNAME .
+a8.anipos.com CNAME .
 a8.arrrt-shop.com CNAME .
 a8.asdf.co.jp CNAME .
 a8.au-hikarinet.com CNAME .
@@ -163,7 +164,6 @@ a8.ikkatsu.jp CNAME .
 a8.industrial-branch.com CNAME .
 a8.infinitussub.com CNAME .
 a8.ippin-do.com CNAME .
-a8.ixyee.net CNAME .
 a8.jiiawater.com CNAME .
 a8.joygirl.jp CNAME .
 a8.joylab.jp CNAME .
@@ -228,7 +228,6 @@ a8.nanafu.tokyo CNAME .
 a8.narikiri.me CNAME .
 a8.nengahonpo.com CNAME .
 a8.nengajyo.co.jp CNAME .
-a8.netdego.jp CNAME .
 a8.neur.jp CNAME .
 a8.next-hikari.jp CNAME .
 a8.nezumi-guard.com CNAME .
@@ -304,7 +303,6 @@ a8.softbank-hikari.jp CNAME .
 a8.sommelier.gift CNAME .
 a8.sp-hoken.net CNAME .
 a8.speever.jp CNAME .
-a8.sport-school.com CNAME .
 a8.ssl.aispr.jp CNAME .
 a8.st.oddspark.com CNAME .
 a8.store.aceservice.jp CNAME .
@@ -524,6 +522,7 @@ a8clk.guruyaku.jp CNAME .
 a8clk.hags-ec.com CNAME .
 a8clk.hikakaku.com CNAME .
 a8clk.hikarinobe.com CNAME .
+a8clk.hoiku.fine.me CNAME .
 a8clk.hoken-minaoshi-lab.jp CNAME .
 a8clk.hokennews.jp CNAME .
 a8clk.hom.adebtt.info CNAME .
@@ -764,6 +763,7 @@ a8cv.550909.com CNAME .
 a8cv.a-resort.jp CNAME .
 a8cv.a-ru-ku.co.jp CNAME .
 a8cv.a-satei.com CNAME .
+a8cv.accelfacter.co.jp CNAME .
 a8cv.access-jp.jp CNAME .
 a8cv.adornmonde.com CNAME .
 a8cv.aff.life-110.com CNAME .
@@ -795,7 +795,6 @@ a8cv.bb-internet-qsyu.net CNAME .
 a8cv.bbt757.com CNAME .
 a8cv.be-slim-spbikyou.com CNAME .
 a8cv.beaming.jp CNAME .
-a8cv.belion.jp CNAME .
 a8cv.bellcosme.com CNAME .
 a8cv.bellevie-inc.co.jp CNAME .
 a8cv.bettysbeauty.jp CNAME .
@@ -837,6 +836,7 @@ a8cv.clickjob.jp CNAME .
 a8cv.cloud-wi-fi.jp CNAME .
 a8cv.cloudthome.com CNAME .
 a8cv.coco-gourmet.com CNAME .
+a8cv.codexcode.jp CNAME .
 a8cv.codmon.com CNAME .
 a8cv.contents-sales.net CNAME .
 a8cv.control.cloudphotobook.com CNAME .

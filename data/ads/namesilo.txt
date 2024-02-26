@@ -713,6 +713,7 @@
 ||3843075.notifysrv.com^
 ||3845405.notify6.com^
 ||3849719.notify6.com^
+||3853331.notify6.com^
 ||3853333.notify6.com^
 ||3856281.notify6.com^
 ||3856373.notify6.com^
@@ -833,6 +834,7 @@
 ||4080606.notify6.com^
 ||4086498.notify6.com^
 ||4093684.notify6.com^
+||4093690.notify6.com^
 ||4093704.notify6.com^
 ||4096386.notify6.com^
 ||4097564.notify6.com^
@@ -1029,6 +1031,7 @@
 ||a.slice.exchange^
 ||a.stuffserve.com^
 ||a.tf4srv.com^
+||a.vws4brkfst.com^
 ||admin.adnation.com^
 ||admin.adstuff.io^
 ||admin.datingclix.com^
@@ -1047,6 +1050,7 @@
 ||delivery.gettopple.com^
 ||engine.gettopple.com^
 ||m.hue2m.com^
+||m.hue4a.com^
 ||m.optidigital.com^
 ||main.exdynsrv.com^
 ||main.exoclick.com^
@@ -1082,6 +1086,7 @@
 ||s.elna1w.com^
 ||s.elna1x.com^
 ||s.elnb21.com^
+||s.elnb22.com^
 ||s.elnk4b.com^
 ||s.elnk4d.com^
 ||s.elnk90.com^
@@ -1106,6 +1111,7 @@
 ||s.elns4a.com^
 ||s.elns4b.com^
 ||s.elns4c.com^
+||s.elnz01.com^
 ||s.etology.com^
 ||s.eunow4u.com^
 ||s.exv6.com^

@@ -23,6 +23,7 @@ a8.aliceandolivia.jp
 a8.ama-mail.jp
 a8.amairo-sky.com
 a8.andethic.com
+a8.anipos.com
 a8.arrrt-shop.com
 a8.asdf.co.jp
 a8.au-hikarinet.com
@@ -152,7 +153,6 @@ a8.ikkatsu.jp
 a8.industrial-branch.com
 a8.infinitussub.com
 a8.ippin-do.com
-a8.ixyee.net
 a8.jiiawater.com
 a8.joygirl.jp
 a8.joylab.jp
@@ -217,7 +217,6 @@ a8.nanafu.tokyo
 a8.narikiri.me
 a8.nengahonpo.com
 a8.nengajyo.co.jp
-a8.netdego.jp
 a8.neur.jp
 a8.next-hikari.jp
 a8.nezumi-guard.com
@@ -293,7 +292,6 @@ a8.softbank-hikari.jp
 a8.sommelier.gift
 a8.sp-hoken.net
 a8.speever.jp
-a8.sport-school.com
 a8.ssl.aispr.jp
 a8.st.oddspark.com
 a8.store.aceservice.jp
@@ -513,6 +511,7 @@ a8clk.guruyaku.jp
 a8clk.hags-ec.com
 a8clk.hikakaku.com
 a8clk.hikarinobe.com
+a8clk.hoiku.fine.me
 a8clk.hoken-minaoshi-lab.jp
 a8clk.hokennews.jp
 a8clk.hom.adebtt.info
@@ -753,6 +752,7 @@ a8cv.550909.com
 a8cv.a-resort.jp
 a8cv.a-ru-ku.co.jp
 a8cv.a-satei.com
+a8cv.accelfacter.co.jp
 a8cv.access-jp.jp
 a8cv.adornmonde.com
 a8cv.aff.life-110.com
@@ -784,7 +784,6 @@ a8cv.bb-internet-qsyu.net
 a8cv.bbt757.com
 a8cv.be-slim-spbikyou.com
 a8cv.beaming.jp
-a8cv.belion.jp
 a8cv.bellcosme.com
 a8cv.bellevie-inc.co.jp
 a8cv.bettysbeauty.jp
@@ -826,6 +825,7 @@ a8cv.clickjob.jp
 a8cv.cloud-wi-fi.jp
 a8cv.cloudthome.com
 a8cv.coco-gourmet.com
+a8cv.codexcode.jp
 a8cv.codmon.com
 a8cv.contents-sales.net
 a8cv.control.cloudphotobook.com

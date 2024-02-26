@@ -231,6 +231,7 @@ filter.adxfactory.com
 filter.adxnexus.com
 filter.adzestocp.com
 filter.afront.io
+filter.anuerprivatelimited.com
 filter.anytheengmedia.com
 filter.audiencedevelopers.com
 filter.babanetwork.net
@@ -283,7 +284,6 @@ filter.hangfly.net
 filter.hetcash.com
 filter.highsea.fun
 filter.hotmaracas.fun
-filter.howto5.io
 filter.hueads.com
 filter.hueadsxml.com
 filter.icyads.com
@@ -378,6 +378,7 @@ jfilter.vespymedia.com
 join.finevisit.com
 leads.uptownleads.com
 link.metaadserving.com
+live-eu.healthvot.com
 live-eu.newsvot.com
 live-eu.pornamigo.com
 live-eu.pushub.net
@@ -423,12 +424,14 @@ login.icyads.com
 login.junnifytech.com
 login.keenkale.com
 login.leoback.com
+login.mediacpc.com
 login.newchallenges-rtb.com
 login.pop.adacts.com
 login.popmonetizer.com
 login.pressize.com
 login.pressizeteam.com
 login.pushub.net
+login.reachableads.com
 login.relevanceads.com
 login.revrtb.com
 login.rtbdemand.com
@@ -489,6 +492,7 @@ rtb-apac-v4.afkwa.com
 rtb-apac-v4.broadadx.com
 rtb-apac-v4.didna.io
 rtb-apac-v4.jambojar.com
+rtb-apac-v4.pixelpluses.com
 rtb-apac-v4.qortex.ai
 rtb-apac-v4.vuukle.net
 rtb-apac.adportmedia.com
@@ -522,6 +526,7 @@ rtb-eu-v4.didna.io
 rtb-eu-v4.ezmob.com
 rtb-eu-v4.jambojar.com
 rtb-eu-v4.pixelpluses.com
+rtb-eu-v4.servvidisplay.com
 rtb-eu-v4.vuukle.net
 rtb-eu.152media.com
 rtb-eu.80xmedia.com
@@ -583,6 +588,7 @@ rtb-useast-v4.jambojar.com
 rtb-useast-v4.mobipromote.com
 rtb-useast-v4.nebulaads.com
 rtb-useast-v4.pixelpluses.com
+rtb-useast-v4.pronivydigital.com
 rtb-useast-v4.qortex.ai
 rtb-useast-v4.sahrel-server.com
 rtb-useast-v4.tri.media
@@ -772,6 +778,7 @@ selfservice.adoptim.com
 serv.bvsrv.com
 serve.datacygnal.io
 sm-rtb-useast.zmdvideo.com
+static-rtb.adksrv.com
 static-rtb2.adpluto.com
 static-rtb2.afkwa.com
 static-rtb2.catapultx.com
@@ -796,7 +803,6 @@ static.displayio.cloud
 static.explorads.com
 static.ezmob.com
 static.foremedia.net
-static.fstsrv1.com
 static.fstsrv2.com
 static.fstsrv3.com
 static.fstsrv4.com
@@ -811,6 +817,7 @@ static.pressize.com
 static.pushub.net
 static.qksrv.cc
 static.qksrv1.com
+static.reachableads.com
 static.realtime-bid.com
 static.revrtb.com
 static.rtb-serve.com
@@ -840,19 +847,21 @@ tq-eu.minsonbar2.online
 tq-eu.minutelight-1.online
 tq-eu.nxthost-1.info
 tq-eu.nxthost-2.info
+tq-eu.optimalscreen1.online
 tq-eu.resugovex-2.co
-tq-eu.trustflayer1.online
 tq.adventurefeeds.com
 tq.explorefast-2.com
 tq.iforcircles-1.online
 tq.iforcircles-2.online
+tq.ldnpointer.online
+tq.martlochoco1.online
 tq.minutelight-1.online
 tq.nxthost-1.info
 tq.nxthost-2.info
+tq.optimalscreen1.online
 tq.pdn-eu.com
 tq.resugovex-1.co
 tq.resugovex-2.co
-tq.trustflayer1.online
 track.adoptim.com
 traffic.adventurefeeds.com
 uixml.bidcampaign.com
@@ -954,6 +963,7 @@ xml-eu-v4.newbluetrue.xyz
 xml-eu-v4.nxthost-1.info
 xml-eu-v4.nxthost-2.info
 xml-eu-v4.onemediawork.com
+xml-eu-v4.optimalscreen1.online
 xml-eu-v4.outpush.net
 xml-eu-v4.pushub.net
 xml-eu-v4.pxfind3.com
@@ -963,9 +973,9 @@ xml-eu-v4.resugovex-1.co
 xml-eu-v4.resugovex-2.co
 xml-eu-v4.rocoads.com
 xml-eu-v4.skinkexchange.com
+xml-eu-v4.thenetwork18.com
 xml-eu-v4.topsolutionsmedia.com
 xml-eu-v4.tri.media
-xml-eu-v4.trustflayer1.online
 xml-eu-v4.webmedrtb.com
 xml-eu-v4.webmedxml.com
 xml-eu.acertb.com
@@ -996,6 +1006,7 @@ xml-eu.mobuppsrtb.com
 xml-eu.newbluetrue.xyz
 xml-eu.nxthost-1.info
 xml-eu.nxthost-2.info
+xml-eu.optimalscreen1.online
 xml-eu.outpush.net
 xml-eu.pushub.net
 xml-eu.pwr-ads.com
@@ -1007,7 +1018,6 @@ xml-eu.rtbfactory.com
 xml-eu.saturndynamic.pt
 xml-eu.topdealad.com
 xml-eu.tri.media
-xml-eu.trustflayer1.online
 xml-eu.vespymedia.com
 xml-eu.webmedxml.com
 xml-eu.yellow-resultsbidder.com
@@ -1026,6 +1036,7 @@ xml-v4.adtube.media
 xml-v4.advlistings.com
 xml-v4.adzgame.com
 xml-v4.afront.io
+xml-v4.anuerprivatelimited.com
 xml-v4.benrif-solutions.com
 xml-v4.bidderads.com
 xml-v4.boffoadsfeeds.com
@@ -1076,6 +1087,7 @@ xml-v4.nexrtb.com
 xml-v4.nxthost-1.info
 xml-v4.nxthost-2.info
 xml-v4.onemediawork.com
+xml-v4.optimalscreen1.online
 xml-v4.popadclick.com
 xml-v4.pushub.net
 xml-v4.pwr-ads.com
@@ -1096,7 +1108,6 @@ xml-v4.thetargetmachine.com
 xml-v4.topsolutionsmedia.com
 xml-v4.trafficmoose.com
 xml-v4.tri.media
-xml-v4.trustflayer1.online
 xml-v4.uclpointer.online
 xml-v4.webmedrtb.com
 xml-v4.webmedxml.com
@@ -1218,7 +1229,6 @@ xml.hangfly.net
 xml.hetcash.com
 xml.horse-bidforreal.org
 xml.hotmaracas.com
-xml.howto5.io
 xml.hueads.com
 xml.hueadsxml.com
 xml.icyads.com
@@ -1244,7 +1254,9 @@ xml.newbluetrue.xyz
 xml.nxthost-1.info
 xml.nxthost-2.info
 xml.octov8.com
+xml.onemediawork.com
 xml.online-adnetwork.com
+xml.optimalscreen1.online
 xml.pdn-1.com
 xml.pdn-2.com
 xml.pdn-3.com
@@ -1301,7 +1313,6 @@ xml.topdealad.com
 xml.topsolutionsmedia.com
 xml.trafficmoose.com
 xml.tri.media
-xml.trustflayer1.online
 xml.ultrads.net
 xml.uptowntraction.com
 xml.userwave.com
@@ -1334,3 +1345,4 @@ xmlv4-eu.mobuppsrtb.com
 xmlv4.chameleostudios.com
 xmlv4.mobuppsrtb.com
 xmlv4.reklama.network
+static.fstsrv1.com

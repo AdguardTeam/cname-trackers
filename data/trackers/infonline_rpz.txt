@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708329627124        ; Serial
+           1708934418726        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,9 +17,7 @@ $TTL 300
 _.apps.iocnt.de CNAME .
 ackrly.chip.de CNAME .
 acksrc.chip.de CNAME .
-acsam-relay.agof.de CNAME .
 acsam-relay.ivwonline.org CNAME .
-acsam-script.agof.de CNAME .
 c4b720ded1.apps.iocnt.de CNAME .
 data-0034231193.apps.iocnt.de CNAME .
 data-00460c60fa.eurotransport.de CNAME .
@@ -743,6 +741,7 @@ data-52a43bc433.gala.de CNAME .
 data-53808e266e.nn.de CNAME .
 data-53ba3c279a.apps.iocnt.de CNAME .
 data-53ce61d695.bike-x.de CNAME .
+data-545e23e607.kosmo.at CNAME .
 data-5492b7d422.mz-jobs.de CNAME .
 data-5492b7d422.mz.de CNAME .
 data-5492b7d422.rblive.de CNAME .
@@ -998,6 +997,7 @@ data-7023b17a38.oberpfalz-pages.de CNAME .
 data-7023b17a38.onetz.de CNAME .
 data-7023b17a38.weiden24.de CNAME .
 data-706868203b.partytimer.at CNAME .
+data-707aff899d.bildderfrau.de CNAME .
 data-707aff899d.donna-magazin.de CNAME .
 data-707aff899d.funke-lifestyle.de CNAME .
 data-707aff899d.funke.fun CNAME .
@@ -2132,6 +2132,7 @@ data-f59db3288b.24rhein.de CNAME .
 data-f59db3288b.24royal.de CNAME .
 data-f59db3288b.24vita.de CNAME .
 data-f59db3288b.az-online.de CNAME .
+data-f59db3288b.baden24.de CNAME .
 data-f59db3288b.bgland24.de CNAME .
 data-f59db3288b.brokser-heiratsmarkt.de CNAME .
 data-f59db3288b.buzzfeed.at CNAME .

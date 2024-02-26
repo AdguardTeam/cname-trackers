@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708329627124        ; Serial
+           1708934418726        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -234,6 +234,7 @@ ensighten.heishop.mx CNAME .
 ensighten.huntington.com CNAME .
 ensighten.huntingtonbank.com CNAME .
 ensighten.lightstream.com CNAME .
+ensighten.maurices.com CNAME .
 ensighten.norton.com CNAME .
 ensighten.postoffice.co.uk CNAME .
 ensighten.safeauto.com CNAME .

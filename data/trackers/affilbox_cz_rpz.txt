@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708329627124        ; Serial
+           1708934418726        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -118,7 +118,6 @@ affiliate.bikeplan.org CNAME .
 affiliate.biooo.cz CNAME .
 affiliate.bitcoinzmenaren.sk CNAME .
 affiliate.cannyapp.cz CNAME .
-affiliate.cbweed.cz CNAME .
 affiliate.childhoodpotential.com CNAME .
 affiliate.chytryhonza.cz CNAME .
 affiliate.ckslniecko.sk CNAME .
@@ -319,7 +318,6 @@ my.11teamsports.dk CNAME .
 my.11teamsports.ee CNAME .
 my.11teamsports.es CNAME .
 my.11teamsports.fi CNAME .
-my.11teamsports.fr CNAME .
 my.11teamsports.gr CNAME .
 my.11teamsports.hr CNAME .
 my.11teamsports.hu CNAME .
@@ -477,6 +475,7 @@ partner.chevronnutrition.cz CNAME .
 partner.chiashake.cz CNAME .
 partner.chilimarket.cz CNAME .
 partner.chococo.cz CNAME .
+partner.chocolatehill.cz CNAME .
 partner.chytranemovitost.cz CNAME .
 partner.chytrydopravce.cz CNAME .
 partner.cleanee.cz CNAME .
@@ -813,7 +812,6 @@ partneri.richardstepan.cz CNAME .
 partneri.roklen.cz CNAME .
 partneri.rondainvest.cz CNAME .
 partneri.salente.cz CNAME .
-partneri.samuelhornek.cz CNAME .
 partneri.serafinbyliny.cz CNAME .
 partneri.silaprozivot.com CNAME .
 partneri.smartemailing.cz CNAME .

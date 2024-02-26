@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708329627124        ; Serial
+           1708934418726        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,12 +21,12 @@ $TTL 300
 1baq2nvd6n7.www.keevowallet.com CNAME .
 1bpmtrvkqkj.pettoonies.com CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
+1eusy6.boxoffice.adventuretix.com CNAME .
 1hb4jkt1u2d.probemas.com CNAME .
+1j2n061x3td.www.digi.no CNAME .
 1k5vz1ejbcx.staging.probemas.com CNAME .
 1koa95e6z2j.www.future-fortune.com CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
-1xejnhs1zd1.staging.aporia.com CNAME .
-2107wrlgff5.development.taxmachine.be CNAME .
 21fhq0t574p.talentkit.io CNAME .
 21udflra4wd.app-dev.cainthus.com CNAME .
 25ix8gm8ien.sandbox.panprices.com CNAME .
@@ -40,6 +40,7 @@ $TTL 300
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
 4jaehnfqizyx.controlconceptsusa.com CNAME .
+5jgwflo4y935b8udrp.www.pmn-nerez.cz CNAME .
 5mc92su06suu.www.abhijith.page CNAME .
 6nwp0r33a71m.app.dev.cardahealth.com CNAME .
 6ynyejkv0j1s.app.tapmyback.com CNAME .
@@ -65,7 +66,6 @@ b1tow9h4erpw.anur.polymerdev.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
-bigbtmbvdzda.freelancer.taxmachine.be CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
 cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
@@ -101,7 +101,6 @@ nqyuel589fq5.esgrounding.com CNAME .
 o3gxzoewxl1x.cp.zomro.com CNAME .
 otx23nu6rzon.prep.toppers.com CNAME .
 p7h1silo3f.app.cainthus.com CNAME .
-q3xly8i4oz.app.taxmachine.be CNAME .
 q4l5gz6lqog6.www.eventus.io CNAME .
 qnlbs2m0uoto.www.videoath.com CNAME .
 qqeuq1cmoooq.accuretawealth.com CNAME .

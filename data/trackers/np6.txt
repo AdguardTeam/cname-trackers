@@ -328,6 +328,7 @@
 ||tr.email.directindustry.com^
 ||tr.email.distributor-expo.com^
 ||tr.email.gap-france.fr^
+||tr.email.grandjeupaysgourmand.fr^
 ||tr.email.harmonie-mutuelle.fr^
 ||tr.email.infocredit.orangebank.fr^
 ||tr.email.janedeboy.com^

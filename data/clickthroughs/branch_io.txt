@@ -22,12 +22,7 @@
 ||19035955.mktg.tajawal.com^
 ||22153974.branch.rocks^
 ||2540166.chalknation.com^
-||3565433061881492849.academyofconsciousleadership.com^
-||3587285621425460184.academyofconsciousleadership.net^
 ||3889082.dev.att.llabs.io^
-||3935128650935608632.academyofconsciousleadership.org^
-||3988408442896783715.theacademyforconsciousleadership.com^
-||492733704185584515.academyforconsciousculture.com^
 ||5363316.marketing.numi.com^
 ||5363316.trackerinfo.southbeachdiet.com^
 ||6068372.huckleberry-labs.com^
@@ -53,7 +48,6 @@
 ||9857064.notice.spriggy.com.au^
 ||9955951.pillar.app^
 ||9984342.reddoorz.in^
-||_tcp.academyofconsciousleadership.net^
 ||a.hibbett.com^
 ||ablink.1954.bk.com^
 ||ablink.8email.eightsleep.com^
@@ -193,7 +187,6 @@
 ||ablink.updates.gooseinsurance.com^
 ||ablink.your-way.bk.com^
 ||ablink.your.audacy.com^
-||ablinkclicktest.prod.aws.skyscnr.com^
 ||ablinkqa.hello.steadyapp.com^
 ||ablinks-staging.email.tispr.com^
 ||ablinks.comms.healthengine.com.au^
@@ -218,7 +211,6 @@
 ||abmail2.e.hungryjacks.com.au^
 ||activation.depop.com^
 ||active-email.branch.rocks^
-||admin.academyforconsciousleadership.net^
 ||alerts.steadyapp.com^
 ||alinks.outcomes4me.com^
 ||amazon-email.branch.rocks^
@@ -232,26 +224,20 @@
 ||app.sephora.com^
 ||applink-test.chalknation.com^
 ||applink.getbambu.com^
-||apps.wholefoodsmarket.com^
 ||atumanera.burgerking.com.mx^
 ||avasgtest.branch.rocks^
 ||b.dl.redcrossblood.org^
 ||b.iheart.southwest.com^
 ||b.itravel.southwest.com^
 ||b.iwanna.southwest.com^
-||b.lyst.com^
 ||b.mail.tabcorp.com.au^
 ||b.prod1.youroffers.dominos.ca^
 ||b.your.rewardsemail.dominos.ca^
-||bbs.theacademyforconsciousleadership.com^
-||bclicks.lyst.com^
 ||bde.beformance.com^
 ||bdtestsendpulse.branch.rocks^
 ||bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au^
 ||bit.beformance.com^
 ||bk.atumanera.burgerking.com.mx^
-||blinks.mindoktor.se^
-||blinkstest.mindoktor.se^
 ||bluecore-email.branch.rocks^
 ||bmf.branch.rocks^
 ||bnc.autopass.xyz^
@@ -390,7 +376,6 @@
 ||dlh1.hilton.com^
 ||e.e.themighty.com^
 ||e.mail.levi.com^
-||e.shop.app^
 ||e.synchronybank.com^
 ||elijah.tantawy.app^
 ||elinks.dice.com^
@@ -532,7 +517,6 @@
 ||emm.ca.puma.com^
 ||emm.us.puma.com^
 ||expertsender.branch.rocks^
-||fleet-eml.postmates.com^
 ||go.emails.discoveryplus.com^
 ||go.gaia.com^
 ||go.heybianca.co^
@@ -733,7 +717,6 @@
 ||links.ph.discoveryplus.com^
 ||links.playon.tv^
 ||links.schnucks.com^
-||links.sheroes.in^
 ||links.shipt.com^
 ||links.shoppers.instacartemail.com^
 ||links.shoprunner.com^
@@ -754,7 +737,6 @@
 ||m.irl.com^
 ||m.irlmail.org^
 ||m1.stadiumgoods.com^
-||mail.academyforconsciousleadership.net^
 ||mail.blueapronwine.com^
 ||mail.bravado.co^
 ||mail.central.co.th^
@@ -791,7 +773,6 @@
 ||smbranch.nc.mails.sssports.com^
 ||sms-vbs.branch.rocks^
 ||socialflow.branch.rocks^
-||staging.e.shop.app^
 ||t.ac.pandora.com^
 ||t.bztest.origin.com.au^
 ||t.comms.thetimes.co.uk^
@@ -910,6 +891,7 @@
 ||52d8.pandasuite.io^
 ||581b.pandasuite.io^
 ||5e00.pandasuite.io^
+||5edd.pandasuite.io^
 ||671c.pandasuite.io^
 ||757d.pandasuite.io^
 ||76ef.pandasuite.io^
@@ -963,6 +945,7 @@
 ||alibabapizza.openapp.link^
 ||alpha.go.levelbank.com^
 ||amandi.openapp.link^
+||ami.openapp.link^
 ||amo.myoyster.mx^
 ||ana.e-ticket.co.jp^
 ||analytics.adobe.ly^
@@ -1076,7 +1059,6 @@
 ||app.citylink.ro^
 ||app.clientbook.com^
 ||app.clovia.com^
-||app.cmnet.cf^
 ||app.coconuts.co^
 ||app.colesmobile.com.au^
 ||app.comparethemarket.com.au^
@@ -1345,6 +1327,7 @@
 ||app.studios.brain.ai^
 ||app.subs.tv^
 ||app.sunstone.in^
+||app.swari.in^
 ||app.sweeps.fyi^
 ||app.swiftgift.it^
 ||app.swiftgift.me^
@@ -1599,6 +1582,7 @@
 ||branch-4567w2a56q.salesfloor.net^
 ||branch-5q8gbnve37.salesfloor.net^
 ||branch-areena.yle.fi^
+||branch-dev.getmaintainx.com^
 ||branch-g993dvyzae-test.salesfloor.net^
 ||branch-g993dvyzae.salesfloor.net^
 ||branch-link.getseated.com^
@@ -1756,6 +1740,7 @@
 ||business.crib.in^
 ||business.face2.io^
 ||buyer.okiela.com^
+||c-app.heroes.jobs^
 ||c-t.topya.com^
 ||c.aquaservice.com^
 ||c.autozen.tv^
@@ -1829,7 +1814,6 @@
 ||ct.taskhuman.com^
 ||cucaido.abphotos.link^
 ||culture.pandasuite.io^
-||custom.tonyle.co^
 ||customer.libertycarz.com^
 ||cwapp.cw.com.tw^
 ||cz-anag.m-shop.me^
@@ -2117,6 +2101,7 @@
 ||g993dvyzae.branch.salesfloor.net^
 ||ga.groc.press^
 ||gallerysouvlakeri.openapp.link^
+||games.ppwr.io^
 ||gawayez.e-postserv.com^
 ||gb-asymbo.m-shop.me^
 ||gear.echovisuals.com^
@@ -2686,7 +2671,6 @@
 ||join.belive.sg^
 ||join.blimp.homes^
 ||join.callie.app^
-||join.deetzapp.com^
 ||join.entrylevel.net^
 ||join.evercoin.com^
 ||join.fitgrid.com^
@@ -2878,10 +2862,10 @@
 ||link.avenue.us^
 ||link.axshealthapp.com^
 ||link.babyquip.com^
+||link.bazery.com^
 ||link.beebs.app^
 ||link.beforekick.com^
 ||link.beforespring.com^
-||link.bellu.gg^
 ||link.bemachine.app^
 ||link.bestest.io^
 ||link.bigroom.tv^
@@ -2932,8 +2916,6 @@
 ||link.dana.id^
 ||link.daryse.com^
 ||link.dawriplus.com^
-||link.debatespace.app^
-||link.debatespace.io^
 ||link.deliverr.ca^
 ||link.dev-portal.icanbwell.com^
 ||link.dev.appewa.com^
@@ -3083,6 +3065,7 @@
 ||link.lcdg.io^
 ||link.lead-out-app-staging.specialized.com^
 ||link.lead-out-app.specialized.com^
+||link.ledgity.com^
 ||link.legapass.com^
 ||link.lendingtree.com^
 ||link.letsdayout.com^
@@ -3327,7 +3310,6 @@
 ||link.weepec.com^
 ||link.wefish.app^
 ||link.wegowhere.com^
-||link.welcomeapp.se^
 ||link.wetrade.app^
 ||link.winndixie.com^
 ||link.wisaw.com^
@@ -3451,6 +3433,7 @@
 ||links.tribe.fitness^
 ||links.trutify.com^
 ||links.tutorbin.com^
+||links.ventx-app.com^
 ||links.vestoapp.com^
 ||links.vyzivovetabulky.sk^
 ||links.weareher.com^
@@ -3471,13 +3454,11 @@
 ||lk.vrstories.com^
 ||lm.groc.press^
 ||lnk-stg.welthee.com^
-||lnk-test.jointakeoff.com^
 ||lnk.culturetrip.com^
 ||lnk.dgsta.com^
 ||lnk.ernesto.it^
 ||lnk.gleeph.net^
 ||lnk.joinpopp.in^
-||lnk.jointakeoff.com^
 ||lnk.most-days.com^
 ||lnk.mostdays.com^
 ||lnk.raceful.ly^
@@ -3674,10 +3655,12 @@
 ||open.fotition.com^
 ||open.freeplayapp.com^
 ||open.gaius.app^
+||open.gentimedia.com^
 ||open.getsigneasy.com^
 ||open.homepass.com^
 ||open.homey.app^
 ||open.howbout.app^
+||open.iproov.me^
 ||open.kidu.com^
 ||open.majelan.com^
 ||open.melomm.com^
@@ -3747,6 +3730,7 @@
 ||play.underdogfantasy.com^
 ||play.waka8et.com^
 ||play.wavelength.zone^
+||play.zeusgamez.io^
 ||plv.geocomply.com^
 ||poczta.happ.social^
 ||pod.spoti.fi^
@@ -3803,7 +3787,6 @@
 ||r.phhhoto.com^
 ||r.presspadnews.com^
 ||r.rover.com^
-||r.sportsie.com^
 ||racemanager-app.sapsailing.com^
 ||randstad.epoise.com^
 ||randstadtest.epoise.com^
@@ -3816,7 +3799,6 @@
 ||redirectdemoqpay.2c2p.com^
 ||ref.elitehrv.com^
 ||ref.mybb.id^
-||refer.chargerunning.com^
 ||refer.dev.wagr.us^
 ||refer.dragonfly.com.kh^
 ||refer.gober.app^
@@ -4030,6 +4012,7 @@
 ||smtpauth.happ.social^
 ||snapshotapp.progressive.com^
 ||snowman.odencat.com^
+||social.superbook.com^
 ||social.talenttitan.com^
 ||social.tinyview.com^
 ||sp-app.fixly.pl^
@@ -4261,6 +4244,7 @@
 ||web.givingli.com^
 ||webmail.happ.social^
 ||webtoons.naver.com^
+||welcome.pilot.ly^
 ||wl.bl.frequentvalues.com.au^
 ||won.wooribank.com^
 ||wop-bio.ubiwhere.com^

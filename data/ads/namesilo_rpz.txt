@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708329627124        ; Serial
+           1708934418726        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -724,6 +724,7 @@ $TTL 300
 3843075.notifysrv.com CNAME .
 3845405.notify6.com CNAME .
 3849719.notify6.com CNAME .
+3853331.notify6.com CNAME .
 3853333.notify6.com CNAME .
 3856281.notify6.com CNAME .
 3856373.notify6.com CNAME .
@@ -844,6 +845,7 @@ $TTL 300
 4080606.notify6.com CNAME .
 4086498.notify6.com CNAME .
 4093684.notify6.com CNAME .
+4093690.notify6.com CNAME .
 4093704.notify6.com CNAME .
 4096386.notify6.com CNAME .
 4097564.notify6.com CNAME .
@@ -1040,6 +1042,7 @@ a.santabrowser.com CNAME .
 a.slice.exchange CNAME .
 a.stuffserve.com CNAME .
 a.tf4srv.com CNAME .
+a.vws4brkfst.com CNAME .
 admin.adnation.com CNAME .
 admin.adstuff.io CNAME .
 admin.datingclix.com CNAME .
@@ -1058,6 +1061,7 @@ click.advertrek.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 m.hue2m.com CNAME .
+m.hue4a.com CNAME .
 m.optidigital.com CNAME .
 main.exdynsrv.com CNAME .
 main.exoclick.com CNAME .
@@ -1093,6 +1097,7 @@ s.elna1v.com CNAME .
 s.elna1w.com CNAME .
 s.elna1x.com CNAME .
 s.elnb21.com CNAME .
+s.elnb22.com CNAME .
 s.elnk4b.com CNAME .
 s.elnk4d.com CNAME .
 s.elnk90.com CNAME .
@@ -1117,6 +1122,7 @@ s.elns12.com CNAME .
 s.elns4a.com CNAME .
 s.elns4b.com CNAME .
 s.elns4c.com CNAME .
+s.elnz01.com CNAME .
 s.etology.com CNAME .
 s.eunow4u.com CNAME .
 s.exv6.com CNAME .

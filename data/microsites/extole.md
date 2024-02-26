@@ -141,7 +141,6 @@
     * allenedmonds.extole.io
     * allincu.extole.io
     * alltrucu.extole.io
-    * alphaindustries.extole.io
     * amazon-web-services.extole.io
     * americanmusical.extole.io
     * amerisleep.extole.io
@@ -306,7 +305,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -417,7 +415,6 @@
     * paulmitchell.extole.io
     * paylocity.extole.io
     * perriconemd.extole.io
-    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -493,6 +490,7 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -605,7 +603,6 @@
 | refer.alliedcash.com | alliedcash.extole.com |
 | share.allincu.com | allincu.extole.io |
 | share.alltrucu.org | alltrucu.extole.io |
-| share.alphaindustries.com | alphaindustries.extole.io |
 | refer.awscloud.com | amazon-web-services.extole.io |
 | refer.american-giant.com | american-giant.extole.com |
 | refer.americanexpress.com | americanexpress.extole.com |
@@ -878,7 +875,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1044,7 +1040,6 @@
 | refer.paylocity.com | paylocity.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
-| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1151,6 +1146,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |

@@ -223,6 +223,7 @@ ensighten.heishop.mx
 ensighten.huntington.com
 ensighten.huntingtonbank.com
 ensighten.lightstream.com
+ensighten.maurices.com
 ensighten.norton.com
 ensighten.postoffice.co.uk
 ensighten.safeauto.com

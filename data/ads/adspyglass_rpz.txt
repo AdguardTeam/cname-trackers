@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708329627124        ; Serial
+           1708934418726        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -111,6 +111,7 @@ a.pornhex.com CNAME .
 a.prigo.xyz CNAME .
 a.rafian.com CNAME .
 a.seksohub.com CNAME .
+a.shemale99.com CNAME .
 a.shubatuuuu.site CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
@@ -172,7 +173,6 @@ adspy.javrank.com CNAME .
 adzilla.icu CNAME .
 alt.fescity.com CNAME .
 amaz.emailon.top CNAME .
-anti.347movie.com CNAME .
 anti.nukedfans.com CNAME .
 anti.uiiumovies.net CNAME .
 antiadblock.info CNAME .
@@ -229,7 +229,6 @@ asg.zzipps.com CNAME .
 asg1.xueserverhost.com CNAME .
 asg2.xueserverhost.com CNAME .
 asn.banginterracial.com CNAME .
-asp.reputate.org CNAME .
 assets.taghtia.com CNAME .
 awrfds3.pornpapa.com CNAME .
 ax4.xmoviesland.com CNAME .
@@ -307,6 +306,7 @@ cool.tubous.com CNAME .
 coolpornvids.com CNAME .
 crumpet.xxxpornhd.pro CNAME .
 custom1.shorterall.com CNAME .
+cvsd.tjaard11.xyz CNAME .
 cx6.lastxxxmovies.com CNAME .
 d.adultporn.tv CNAME .
 d.bloblohub.com CNAME .
@@ -316,6 +316,7 @@ ddd.adil23.xyz CNAME .
 ddddd.javmilk.org CNAME .
 deliver.vkcdnservice.com CNAME .
 dfbdfh4w3.sanjay44.xyz CNAME .
+dfgw.neigh11.xyz CNAME .
 dg3qtwew.sanjay44.xyz CNAME .
 digiadzone.com CNAME .
 display.cdnbucket.com CNAME .
@@ -360,6 +361,7 @@ fuwn782kk.alphaporno.com CNAME .
 fx9.freepornoboss.com CNAME .
 g.adultporn.tv CNAME .
 g.bloblohub.com CNAME .
+g33f.neigh11.xyz CNAME .
 g6j.cupidonmedia.com CNAME .
 game.starswalker.site CNAME .
 getallt1.com CNAME .
@@ -382,6 +384,7 @@ help.fanza.cc CNAME .
 hero3.nude-asian-videos.com CNAME .
 hetaer.xyz CNAME .
 heyyou.spinna.shop CNAME .
+hjdw.tjaard11.xyz CNAME .
 hjq9z7bw6f5tr3xe2yl8.giga-uqload.xyz CNAME .
 hoakz.xyz CNAME .
 hot.sexyadsrun.com CNAME .
@@ -430,6 +433,7 @@ js.phoenixmanga.com CNAME .
 js.syosetu.top CNAME .
 js.xemkqxs.com CNAME .
 jx3.freepornobook.com CNAME .
+jyfvt.neigh11.xyz CNAME .
 k.bloblohub.com CNAME .
 kaizzz.xyz CNAME .
 key.sexymovie.name CNAME .
@@ -540,8 +544,6 @@ ok.fapnow.xxx CNAME .
 ok.faptor.com CNAME .
 ok.hqbang.com CNAME .
 ok.starwank.com CNAME .
-ontj.com CNAME .
-open.oksrv.com CNAME .
 opus.sexyxxx.biz CNAME .
 orznp.spinna.store CNAME .
 outya.xyz CNAME .
@@ -581,12 +583,14 @@ pre.ebasos.club CNAME .
 pre.ebasos.org CNAME .
 pre.myfuck.club CNAME .
 pre.pornuxaxa.com CNAME .
+purp.sukaporn.com CNAME .
 puzzio.xyz CNAME .
 puzzoa.xyz CNAME .
 px9.nuderedtube.com CNAME .
 q.broes.xyz CNAME .
 q.ikre.xyz CNAME .
 q.kvovs.xyz CNAME .
+q.leru.xyz CNAME .
 qhip.com CNAME .
 qoqv.com CNAME .
 qoutec.shop CNAME .
@@ -606,6 +610,7 @@ r.tropictube.com CNAME .
 rdx.javmotion.com CNAME .
 redi.teengirl-pics.com CNAME .
 reklama.teenfuckhd.com CNAME .
+rema.neigh11.xyz CNAME .
 rest.sexypornvideo.net CNAME .
 reton.free-porn-videos.org CNAME .
 rosetua.xyz CNAME .
@@ -644,8 +649,10 @@ sfw1a.dappab.site CNAME .
 sfw1b.dappab.site CNAME .
 sfw1c.dappab.site CNAME .
 sfw1d.dappab.site CNAME .
+sfwe.tjaard11.xyz CNAME .
 sg.xclick24.com CNAME .
 sgzhg.pornlovo.co CNAME .
+shaeian.xyz CNAME .
 shenzo.xyz CNAME .
 shmeia.xyz CNAME .
 shukri.mwikace.com CNAME .
@@ -657,6 +664,7 @@ solo.chinese-sex-tube.com CNAME .
 sor.pornxok.com CNAME .
 spa.arabtoons.net CNAME .
 spyglass.reklamko.pro CNAME .
+srtw.neigh11.xyz CNAME .
 srv1.bunnymediaserver.com CNAME .
 ssltest.soundrussian.com CNAME .
 staticz.hotpornfile.org CNAME .
@@ -686,10 +694,12 @@ test2.maxx.ddac.ru CNAME .
 testcommon.soundrussian.com CNAME .
 thaz.xyz CNAME .
 tiktakz.xyz CNAME .
+tkwe.tjaard11.xyz CNAME .
 tlv.ui02.com CNAME .
 toabuck.xyz CNAME .
 topsexmovs.com CNAME .
 topvidstore.com CNAME .
+touaz.xyz CNAME .
 touzia.xyz CNAME .
 tozuoi.xyz CNAME .
 tpl.fuckxness.com CNAME .
@@ -731,6 +741,7 @@ www.bloblohub.com CNAME .
 www.f.bloblohub.com CNAME .
 www.go.ss-n-30.com CNAME .
 www.hq3x.com CNAME .
+www.invast.site CNAME .
 www.javtvnow.xyz CNAME .
 www.letstry69.xyz CNAME .
 www.monsoonlassi.com CNAME .
@@ -743,7 +754,6 @@ www.spinna.store CNAME .
 www.spinna.xyz CNAME .
 www.uk.boffinsoft.com CNAME .
 www.w00t.us CNAME .
-www.zqwe.ru CNAME .
 www4.hentai-rpg.com CNAME .
 www4.hentaigamecg.com CNAME .
 www6.freeanimesource.com CNAME .

@@ -21,6 +21,7 @@
     * h-1qbwo7fx.online-metrix.net
     * h-1qeo60mk.online-metrix.net
     * h-1qpcog32.online-metrix.net
+    * h-1rvzo2et.online-metrix.net
     * h-1u7ubqzg.online-metrix.net
     * h-1vjjer2n.online-metrix.net
     * h-22outib0.online-metrix.net
@@ -111,6 +112,7 @@
     * h-8t63q4n4.online-metrix.net
     * h-8uj1s5zr.online-metrix.net
     * h-8ydtcbsf.online-metrix.net
+    * h-92z7am36.online-metrix.net
     * h-96ch0zc2.online-metrix.net
     * h-96clh8g7.online-metrix.net
     * h-9bkavv7r.online-metrix.net
@@ -704,6 +706,10 @@
     * qa2-h.online-metrix.net
     * qaperf2-h.online-metrix.net
 
+### Rarely active trackers
+
+* tm.production.eu1.tmfp.klarna.net
+
 ## Cloaking domains
 
 | Disguise | Tracker |
@@ -774,6 +780,7 @@
 | prod-wccuri.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-westccu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | matrix.cpg.org | h-1qpcog32.online-metrix.net |
+| cdn-lntmps.mintmobile.com | h-1rvzo2et.online-metrix.net |
 | cnt.goboo.com | h-1u7ubqzg.online-metrix.net |
 | ptm.creditas.com | h-1vjjer2n.online-metrix.net |
 | mtx.thirdstream.ca | h-22outib0.online-metrix.net |
@@ -784,8 +791,11 @@
 | metrics.myfrs.com | h-2fiylyk1.online-metrix.net |
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
+| fp.fashionworld.co.uk | h-2n067wr9.online-metrix.net |
+| fp.homeessentials.co.uk | h-2n067wr9.online-metrix.net |
 | fp.jacamo.co.uk | h-2n067wr9.online-metrix.net |
 | fp.jdwilliams.co.uk | h-2n067wr9.online-metrix.net |
+| fp.marisota.co.uk | h-2n067wr9.online-metrix.net |
 | fp.simplybe.co.uk | h-2n067wr9.online-metrix.net |
 | claimant.vec.virginia.gov | h-2qfdtlmr.online-metrix.net |
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
@@ -894,6 +904,7 @@
 | rba.apata.io | h-8t63q4n4.online-metrix.net |
 | req.secured-content.com | h-8uj1s5zr.online-metrix.net |
 | content.myfamliplus.state.co.us | h-8ydtcbsf.online-metrix.net |
+| ln.cash.app | h-92z7am36.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
@@ -1739,3 +1750,4 @@
 | invalid-qa2.threatmetrix.com | qa2-h.online-metrix.net |
 | portal-fp-qa2.qa.threatmetrix.com | qa2-h.online-metrix.net |
 | portal-fp-qaperf2.qa.threatmetrix.com | qaperf2-h.online-metrix.net |
+| tmfp.klarna.com | tm.production.eu1.tmfp.klarna.net |

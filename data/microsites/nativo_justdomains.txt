@@ -89,7 +89,6 @@ sponsor.syracuse.com
 3cb0d2bef3.be8df00f33.com
 3cfaca7d15.904ab4b24c.com
 3d247a90c0.6b3f9be238.com
-3e0bef2039.6e5181a4e4.com
 3e52d539f2.7a2cb45927.com
 3f38af9a78.290103cae6.com
 3ff30ad38a.9714ddef1d.com
@@ -136,6 +135,7 @@ sponsor.syracuse.com
 5e90a3a3f8.85d9d90c71.com
 5ea8f33fb6.61c6379963.com
 5f50953e05.4a277bbf1a.com
+5fb5f9ab05.75bbc9191d.com
 6002296e53.64df8e1c63.com
 60152c575a.015fcec3c6.com
 60dd313cd9.f93c43972f.com
@@ -172,7 +172,6 @@ sponsor.syracuse.com
 7347d63d89.d13dee4566.com
 73a73f7b7c.d613466cf9.com
 7471ccf72a.31385ffb82.com
-749e473277.b6deee8a5f.com
 75263a609c.143f0a3452.com
 76cdfd14c9.d5a710a006.com
 76d3c70aa9.d1f420dd98.com
@@ -188,6 +187,7 @@ sponsor.syracuse.com
 80d1a27de4.7776bf141c.com
 8137c6a639.32d39cd3fe.com
 8251cabcf2.e1bf37eb3f.com
+82eb7f5d59.6fe62b9eb9.com
 831a48f85e.2635ebb1c1.com
 84da976039.ea8e52e061.com
 84eeafa1d9.f02fa5826c.com
@@ -205,7 +205,6 @@ sponsor.syracuse.com
 8bc5a4b24f.91e59ecbfd.com
 8c3f7091b1.ea8816ca93.com
 8e85d46b25.dd3ba09ec2.com
-8ef71a6605.5115924dd3.com
 91f28dca60.47216dc00b.com
 92b943ed26.6bda3ba403.com
 9323b0c766.5ffdc5b302.com
@@ -223,6 +222,7 @@ sponsor.syracuse.com
 9a805c28fd.287feb149d.com
 9b0798654a.5a2d208cea.com
 9ce6218dd9.46d236df2c.com
+9d5e0e5b08.2c03b52128.com
 9d844b1143.7f00f312e5.com
 9e635b1caf.4afa370227.com
 9e813c2770.3227a4c431.com
@@ -242,6 +242,7 @@ b031f8fbcf.7071813400.com
 b06462f6f9.a2e137d716.com
 b2663fd5a9.c805892b5b.com
 b34760008c.8def8c352d.com
+b498be9950.6ea337b8a4.com
 b56d33d644.b72e4b93d9.com
 b598b37764.ce6fdab0f2.com
 b5c12def58.e09a290e1b.com
@@ -250,7 +251,6 @@ b87e6d6445.9900a0b18c.com
 b8c722115d.bf8b5751f4.com
 b99bb7cbd1.1551235f72.com
 bbb3badef0.d7fea0b8c4.com
-bdecfb7de6.e2ff92bcf8.com
 bdedbcaefd.09482aec5d.com
 be14c45da0.3301886f9e.com
 c36700d174.46febd8df8.com
@@ -276,13 +276,11 @@ d04674bbdd.e02b15bc59.com
 d096f50112.f80ab194b8.com
 d367720a8b.0faf13d8ae.com
 d36da22dfe.03c091d65a.com
-d387563a79.9a454e6651.com
 d4a90e546a.11a6670e45.com
 d4f9ed7c1a.047e541483.com
 d50c5ef2be.947a482789.com
 d5ca237575.8f70f539ce.com
 d834c8bfc5.e468aaeee7.com
-d93a7f2b7e.9c03f2208e.com
 d9d8248a89.220e561113.com
 db06a54c9c.abb357b8cc.com
 db23738aa3.a0ab3296e0.com
@@ -322,7 +320,9 @@ f377888b95.449715c797.com
 f571f387dc.2e51ef91bb.com
 f7edea5919.fce9830ba4.com
 f905b11999.4895a69f7e.com
+f95d80b33b.cf98a92559.com
 f9630bc2e3.6afd255116.com
+f965b45a51.e25ebbeb6b.com
 f9a0e80437.8ced271921.com
 f9aaa709bf.3e7dd00231.com
 f9f4465362.0d4146061c.com
@@ -336,7 +336,6 @@ fe62bfc689.a7f3b65b6b.com
 fe6d137dae.737d62f0c1.com
 fea6607a84.555dcda495.com
 fee3f8a74a.aee4e77dc5.com
-ff04a1538a.ced4d66e2d.com
 ff18e0b495.eeecc0e343.com
 ff6840b5f0.338d2db673.com
 i.selecttopoff.com
@@ -344,12 +343,12 @@ a135.actionnewsjax.com
 a135.fox23.com
 a135.kiro7.com
 a135.wftv.com
-a235.greenwichtime.com
-a235.ourmidland.com
 gva.share.ntv.io
 mlive.share.ntv.io
 share.ntv.io
 shared.sponsoredcontent.com
 a235.chron.com
+a235.greenwichtime.com
+a235.ourmidland.com
 a235.seattlepi.com
 img.nativo.net

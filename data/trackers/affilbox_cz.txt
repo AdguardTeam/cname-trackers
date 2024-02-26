@@ -107,7 +107,6 @@
 ||affiliate.biooo.cz^
 ||affiliate.bitcoinzmenaren.sk^
 ||affiliate.cannyapp.cz^
-||affiliate.cbweed.cz^
 ||affiliate.childhoodpotential.com^
 ||affiliate.chytryhonza.cz^
 ||affiliate.ckslniecko.sk^
@@ -308,7 +307,6 @@
 ||my.11teamsports.ee^
 ||my.11teamsports.es^
 ||my.11teamsports.fi^
-||my.11teamsports.fr^
 ||my.11teamsports.gr^
 ||my.11teamsports.hr^
 ||my.11teamsports.hu^
@@ -466,6 +464,7 @@
 ||partner.chiashake.cz^
 ||partner.chilimarket.cz^
 ||partner.chococo.cz^
+||partner.chocolatehill.cz^
 ||partner.chytranemovitost.cz^
 ||partner.chytrydopravce.cz^
 ||partner.cleanee.cz^
@@ -802,7 +801,6 @@
 ||partneri.roklen.cz^
 ||partneri.rondainvest.cz^
 ||partneri.salente.cz^
-||partneri.samuelhornek.cz^
 ||partneri.serafinbyliny.cz^
 ||partneri.silaprozivot.com^
 ||partneri.smartemailing.cz^

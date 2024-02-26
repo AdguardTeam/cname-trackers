@@ -171,6 +171,7 @@
     * 927703597199732.wt-eu02.net
     * 929152463666423.wt-eu02.net
     * 949365393396887.wt-eu02.net
+    * 950197453774939.wt-eu02.net
     * 958731023298385.wt-eu02.net
     * 964869656656022.wt-eu02.net
     * 965607891904117.wt-eu02.net
@@ -418,6 +419,7 @@
 | count.bank99.at | 927703597199732.wt-eu02.net |
 | web.email.turtlebay.co.uk | 929152463666423.wt-eu02.net |
 | web.autobodytoolmart.com | 949365393396887.wt-eu02.net |
+| ctdfm.ilgiornale.it | 950197453774939.wt-eu02.net |
 | web.mapp.ilgiardinodeilibri.it | 958731023298385.wt-eu02.net |
 | web.newsletter.viviennewestwood.com | 964869656656022.wt-eu02.net |
 | mit.researchlog.db.com | 965607891904117.wt-eu02.net |
