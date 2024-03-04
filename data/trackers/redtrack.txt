@@ -532,7 +532,6 @@
 ||ainegramestrk.com^
 ||aintialtrk.com^
 ||ajmtrk.xyz^
-||ajmtrkk.info^
 ||ajmtrkk.xyz^
 ||ajmtrkkk.xyz^
 ||aketguclk.activeketogummiesstore.online^
@@ -794,7 +793,6 @@
 ||click.successsylphstudios.com^
 ||click.switchtoyourfinefocus.com^
 ||click.topstoretext.cfd^
-||click.trackconv.online^
 ||click.try5mindivinemanifestation.com^
 ||click.us-benefit.org^
 ||click.us-relief.org^
@@ -1143,7 +1141,6 @@
 ||go.foreverhealthyandhappy.com^
 ||go.freephonenow.co^
 ||go.getgreatdeals.link^
-||go.getmybusinesserc.com^
 ||go.getnanosparkle.com^
 ||go.getrestowipe.com^
 ||go.getspartanman.com^
@@ -2040,7 +2037,6 @@
 ||redtrack.smoothskintopia.com^
 ||redtrack.thebraintumourcharity.org^
 ||redtrack.thecapsula.ru^
-||redtrack.thegeckopia.com^
 ||redtrack.topanbet.biz^
 ||redtrack.topanbet.org^
 ||redtrack.track.nuevomecanismo.website^
@@ -2136,7 +2132,6 @@
 ||rtrk.vibrationalwisdom.com^
 ||rtrk.wealthyvibrations.com^
 ||rtsandbox2.luckr.org^
-||rtsandbox2.secondsecure.com^
 ||rtsendbox2.hittiger.com^
 ||ruanda.trekkww.fun^
 ||run.keyjazz.com^
@@ -2246,7 +2241,6 @@
 ||sorgidesstrk.com^
 ||sp.solus.nu^
 ||sp.sponsorcoupon.com^
-||speclk.specialdealsstore.online^
 ||speed.beslloor.net^
 ||speed.greaterhealth.club^
 ||speed.lovewhisperer.club^
@@ -2395,7 +2389,6 @@
 ||track.1800customercare.com^
 ||track.24monetize.com^
 ||track.999apostas.com^
-||track.abounce.shop^
 ||track.actionsaude.fun^
 ||track.adchx.de^
 ||track.adherellc.com^
@@ -2698,7 +2691,6 @@
 ||track.healthymotif.com^
 ||track.healthysimpletoday.com^
 ||track.healthysolutionguide.com^
-||track.healthytipline.com^
 ||track.healthywealthyforyou.com^
 ||track.helpfordisability.org^
 ||track.helpsforsenior.com^
@@ -2789,7 +2781,6 @@
 ||track.makehealthiness.com^
 ||track.makeoverdeals.com^
 ||track.marketweb.online^
-||track.marktoget.com^
 ||track.masterindian.com^
 ||track.mawahebom.com^
 ||track.mboxtrk.com^
@@ -2849,7 +2840,6 @@
 ||track.myquotehealth.online^
 ||track.myspookyhalloween.com^
 ||track.naloxanon.ca^
-||track.namaclo.com^
 ||track.nativead.be^
 ||track.naturaltreats.eu^
 ||track.nea-kasashop.com^
@@ -3137,7 +3127,6 @@
 ||track.wellnesscircletoday.com^
 ||track.wellnessstayfit.com^
 ||track.wellnesswaytoday.com^
-||track.wellnesswith-emily.com^
 ||track.wellrighttoday.com^
 ||track.weposters.com^
 ||track.westore24.com^
@@ -3405,8 +3394,6 @@
 ||trk.getdreamhero.com^
 ||trk.getvamoose.com^
 ||trk.gobugmd.com^
-||trk.gogreentodaytips.com^
-||trk.gothelarss.com^
 ||trk.gotodeliverydetails.com^
 ||trk.grousanttrk.com^
 ||trk.gummyonlineshop.com^
@@ -3591,7 +3578,6 @@
 ||try.getdailyoffers.today^
 ||try.getliv-pure.com^
 ||try.healthywise.store^
-||try.myserenitylife.com^
 ||tryprovaclk.tryprovaslimnow.online^
 ||tumba.treker.fun^
 ||tupitclk.tupiteatry.online^
@@ -3724,9 +3710,6 @@
 ||www.go.lifestylehealthmastery.com^
 ||www.go.longevityandhappiness.com^
 ||www.go.yourtruehealthmastery.com^
-||www.goodhealthystrong.com^
-||www.goodlivingpoint.com^
-||www.goodstrongfit.com^
 ||www.goooslots.xyz^
 ||www.greathealthpoint.com^
 ||www.greatstronglife.com^
@@ -3756,9 +3739,6 @@
 ||www.nicebox.click^
 ||www.niceprod.click^
 ||www.onlinefrance.live^
-||www.optimalhealthyday.com^
-||www.optimalstrong.com^
-||www.optimalwellnessfit.com^
 ||www.plorvont.space^
 ||www.promdealss.top^
 ||www.reviewresourcehub.com^

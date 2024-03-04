@@ -16,7 +16,6 @@ pix.telekom.de
 pixel.augsburger-allgemeine.de
 prophet.heise.de
 service.hcob-bank.de
-spr.bild.de
 startrekk.flaconi.de
 sub1.cosmosdirekt.de
 text.mitarbeiterangebote.de
@@ -38,7 +37,6 @@ trk.nuernberger.de
 w3.flatex.es
 w3.flatex.nl
 wbtrkk.teufelaudio.co.uk
-webts.adac.de
 wt.distrelec.com
 wtm.interhyp.de
 www7.springer.com
@@ -154,6 +152,7 @@ info.genialklick.ch
 info.klett-sprachen.de
 intelligence.officialwesthamstore.com
 is.lg.com
+joda.quotidianodipuglia.it
 lax.data.srf.ch
 mapp.ewm.co.uk
 mapp.jysk.dk
@@ -206,7 +205,6 @@ scout.bergfreunde.it
 scout.bergfreunde.nl
 scout.bergfreunde.no
 scout.bergfreunde.se
-spr.welt.de
 stage.www.data.srf.ch
 startrekk.flaconi.at
 startrekk.flaconi.fr
@@ -277,7 +275,6 @@ web.e.pvccladding.com
 web.email.farrow-ball.com
 web.email.pizzaexpress.com
 web.email.pmtonline.co.uk
-web.email.principality.co.uk
 web.email.superga.co.uk
 web.email.theindependentpharmacy.co.uk
 web.email.topfarmacia.it

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -516,6 +516,7 @@ tr.information.fidalformations.fr CNAME .
 tr.information.labelleadresse.com CNAME .
 tr.information.lacollection-airfrance.be CNAME .
 tr.information.lacollection-airfrance.ch CNAME .
+tr.information.lacollection-airfrance.co.uk CNAME .
 tr.information.lacollection-airfrance.fr CNAME .
 tr.information.leclubtravel.fr CNAME .
 tr.information.perfectstay.com CNAME .
@@ -546,6 +547,7 @@ tr.jend.espmp-pofr.net CNAME .
 tr.jesuis.enformedelotus.com CNAME .
 tr.jevoteenligne.fr CNAME .
 tr.jimb.espmp-cufr.net CNAME .
+tr.jkcd.espmp-cufr.net CNAME .
 tr.jkcd.espmp-pofr.net CNAME .
 tr.jkyg.espmp-cufr.net CNAME .
 tr.kang.espmp-cufr.net CNAME .
@@ -758,7 +760,6 @@ tr.news.infopro-digital.com CNAME .
 tr.news.interforum.fr CNAME .
 tr.news.itancia.com CNAME .
 tr.news.jautomatise.com CNAME .
-tr.news.kalivet.com CNAME .
 tr.news.kpmg-avocats.fr CNAME .
 tr.news.kpmg.fr CNAME .
 tr.news.kpmgacademy.fr CNAME .
@@ -1051,6 +1052,7 @@ tr.unaoffertaalgiorno.com CNAME .
 tr.update.groupon.be CNAME .
 tr.urfk.espmp-agfr.net CNAME .
 tr.urfk02r.espmp-nifr.net CNAME .
+tr.urfk02t.espmp-agfr.net CNAME .
 tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk02z.espmp-nifr.net CNAME .
 tr.urfk03c.espmp-nifr.net CNAME .

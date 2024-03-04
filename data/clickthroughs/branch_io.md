@@ -703,8 +703,6 @@
 | betterhealthrewards.headuplabs.com | custom.bnc.lt |
 | bettermedical-app.hotdoc.com.au | custom.bnc.lt |
 | bfg.loanzify.app | custom.bnc.lt |
-| bh-test.groc.press | custom.bnc.lt |
-| bh.groc.press | custom.bnc.lt |
 | bi.irisdating.com | custom.bnc.lt |
 | bint.openapp.link | custom.bnc.lt |
 | bio.chups.co | custom.bnc.lt |
@@ -795,7 +793,6 @@
 | branch.locationlabs.com | custom.bnc.lt |
 | branch.mapstr.com | custom.bnc.lt |
 | branch.myoyster.mx | custom.bnc.lt |
-| branch.mypixie.co | custom.bnc.lt |
 | branch.olamoney.com | custom.bnc.lt |
 | branch.oneroof.co.nz | custom.bnc.lt |
 | branch.oraleye.com | custom.bnc.lt |
@@ -1013,10 +1010,8 @@
 | cz-velkykosik.m-shop.me | custom.bnc.lt |
 | d-app.progressive.com | custom.bnc.lt |
 | d-snapshotapp.progressive.com | custom.bnc.lt |
-| d-staging.groc.press | custom.bnc.lt |
 | d.cybtel.com | custom.bnc.lt |
 | d.delahorro.app | custom.bnc.lt |
-| d.groc.press | custom.bnc.lt |
 | d.jugnoo.in | custom.bnc.lt |
 | d.shopprecouriers.com | custom.bnc.lt |
 | d.stay-app.com | custom.bnc.lt |
@@ -1257,7 +1252,6 @@
 | friends.hyll.com | custom.bnc.lt |
 | fscareers.epoise.com | custom.bnc.lt |
 | fscareerstest.epoise.com | custom.bnc.lt |
-| ft.groc.press | custom.bnc.lt |
 | ftp.happ.social | custom.bnc.lt |
 | fullerton-app.hotdoc.com.au | custom.bnc.lt |
 | furnituredl.istaging.co | custom.bnc.lt |
@@ -1267,7 +1261,6 @@
 | g.staging.pathsha.re | custom.bnc.lt |
 | g2048.rgluk.com | custom.bnc.lt |
 | g993dvyzae.branch.salesfloor.net | custom.bnc.lt |
-| ga.groc.press | custom.bnc.lt |
 | gallerysouvlakeri.openapp.link | custom.bnc.lt |
 | games.ppwr.io | custom.bnc.lt |
 | gawayez.e-postserv.com | custom.bnc.lt |
@@ -2199,7 +2192,6 @@
 | link.immobilienscout24.at | custom.bnc.lt |
 | link.imprint.co | custom.bnc.lt |
 | link.imumz.com | custom.bnc.lt |
-| link.individuology.com | custom.bnc.lt |
 | link.inklusiv.io | custom.bnc.lt |
 | link.inoxmovies.com | custom.bnc.lt |
 | link.inploi.com | custom.bnc.lt |
@@ -2363,7 +2355,6 @@
 | link.sevencooks.com | custom.bnc.lt |
 | link.sheeriz.com | custom.bnc.lt |
 | link.shengcekeji.com | custom.bnc.lt |
-| link.shopbuo.com | custom.bnc.lt |
 | link.shopview.in | custom.bnc.lt |
 | link.shotgun.live | custom.bnc.lt |
 | link.shuffoe.com | custom.bnc.lt |
@@ -2441,7 +2432,6 @@
 | link.tradee.com | custom.bnc.lt |
 | link.tradle.io | custom.bnc.lt |
 | link.tribeup.social | custom.bnc.lt |
-| link.truckerpath.com | custom.bnc.lt |
 | link.trycircle.com | custom.bnc.lt |
 | link.trymida.com | custom.bnc.lt |
 | link.trytaptab.com | custom.bnc.lt |
@@ -2620,7 +2610,6 @@
 | listen.tunein.com | custom.bnc.lt |
 | lk.parisfoodies.fr | custom.bnc.lt |
 | lk.vrstories.com | custom.bnc.lt |
-| lm.groc.press | custom.bnc.lt |
 | lnk-stg.welthee.com | custom.bnc.lt |
 | lnk.culturetrip.com | custom.bnc.lt |
 | lnk.dgsta.com | custom.bnc.lt |
@@ -2880,7 +2869,6 @@
 | pizzaexpress.openapp.link | custom.bnc.lt |
 | pizzaromea.openapp.link | custom.bnc.lt |
 | pl-topgal.m-shop.me | custom.bnc.lt |
-| play.ab05.bet | custom.bnc.lt |
 | play.b-t11.com | custom.bnc.lt |
 | play.colorplay.fun | custom.bnc.lt |
 | play.fanslide.com | custom.bnc.lt |
@@ -2958,7 +2946,6 @@
 | racemanager-app.sapsailing.com | custom.bnc.lt |
 | randstad.epoise.com | custom.bnc.lt |
 | randstadtest.epoise.com | custom.bnc.lt |
-| rb.groc.press | custom.bnc.lt |
 | read.meistercody.com | custom.bnc.lt |
 | redditstream.arborapps.io | custom.bnc.lt |
 | redirect.cuballama.com | custom.bnc.lt |
@@ -3000,7 +2987,6 @@
 | rooms.itsme.video | custom.bnc.lt |
 | roulette.abzorbagames.com | custom.bnc.lt |
 | routes.navibration.com | custom.bnc.lt |
-| rr.groc.press | custom.bnc.lt |
 | rtek-link.shares.social | custom.bnc.lt |
 | rx-test.capsulecares.com | custom.bnc.lt |
 | rx.capsulecares.com | custom.bnc.lt |
@@ -3039,8 +3025,6 @@
 | sense.cliexa.com | custom.bnc.lt |
 | setup.physiapp.com | custom.bnc.lt |
 | sex.viralof.online | custom.bnc.lt |
-| sf-test.groc.press | custom.bnc.lt |
-| sf.groc.press | custom.bnc.lt |
 | sf4567w2a56q.branch.salesfloor.net | custom.bnc.lt |
 | sf5q8gbnve37.branch.salesfloor.net | custom.bnc.lt |
 | sg.carousellmotors.com | custom.bnc.lt |
@@ -3171,8 +3155,6 @@
 | sl.trycircle.com | custom.bnc.lt |
 | slotabrosdev.zharev.com | custom.bnc.lt |
 | slotabrosuat.zharev.com | custom.bnc.lt |
-| sm-test.groc.press | custom.bnc.lt |
-| sm.groc.press | custom.bnc.lt |
 | sm.sylectus.com | custom.bnc.lt |
 | sms.uphabit.com | custom.bnc.lt |
 | smtp.happ.social | custom.bnc.lt |

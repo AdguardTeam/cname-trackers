@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -232,7 +232,6 @@ data-191b2429e8.rtl.de CNAME .
 data-191b2429e8.rtlspiele.de CNAME .
 data-195efe600e.haus.de CNAME .
 data-196c083e38.heute.at CNAME .
-data-19e0ce8844.computerbild.de CNAME .
 data-19e0ce8844.wieistmeineip.de CNAME .
 data-19f62f6612.druckerchannel.de CNAME .
 data-19f62f6612.druckkosten.de CNAME .
@@ -279,6 +278,7 @@ data-1c0a3d83e3.transfermarkt.pt CNAME .
 data-1c0a3d83e3.transfermarkt.ru CNAME .
 data-1c0a3d83e3.transfermarkt.us CNAME .
 data-1c0a3d83e3.transfermarkt.world CNAME .
+data-1c70f16ae2.newsflix.at CNAME .
 data-1c9505e4f1.digitalphoto.de CNAME .
 data-1ce541951d.apps.iocnt.de CNAME .
 data-1ce6da1e66.diabetes-news.de CNAME .
@@ -380,6 +380,7 @@ data-2d86fd41e0.stern.de CNAME .
 data-2d86fd41e0.sternverlag.de CNAME .
 data-2d8c7b4f16.apps.iocnt.de CNAME .
 data-2db095276e.joyn.de CNAME .
+data-2dd4c084f5.hektar.com CNAME .
 data-2e1c59efe0.apps.iocnt.de CNAME .
 data-2e91d05bea.bluray-disc.de CNAME .
 data-2ee2564ecd.ariva.de CNAME .
@@ -704,7 +705,6 @@ data-4d32f71c16.stadtbuecherei-nuertingen.de CNAME .
 data-4d33656d8f.watson.de CNAME .
 data-4d5c7c2be6.boden-wand-decke.de CNAME .
 data-4e46e5dc90.spektrum.de CNAME .
-data-4e9ff460f2.autobild.de CNAME .
 data-4e9ff460f2.bike-bild.de CNAME .
 data-4eb828715f.apps.iocnt.de CNAME .
 data-4ede7e9c86.faz.de CNAME .
@@ -1695,6 +1695,7 @@ data-c5740f79ff.recklinghaeuser-zeitung.de CNAME .
 data-c5740f79ff.ruhrnachrichten.de CNAME .
 data-c5740f79ff.stimberg-zeitung.de CNAME .
 data-c5740f79ff.waltroper-zeitung.de CNAME .
+data-c5925d7d99.4players.de CNAME .
 data-c5925d7d99.buffed.de CNAME .
 data-c5925d7d99.gamesaktuell.de CNAME .
 data-c5925d7d99.gamesworld.de CNAME .
@@ -2183,6 +2184,7 @@ data-f59db3288b.ovb-online.de CNAME .
 data-f59db3288b.rosenheim24.de CNAME .
 data-f59db3288b.ruhr24.de CNAME .
 data-f59db3288b.sauerlandkurier.de CNAME .
+data-f59db3288b.serienjunkies.de CNAME .
 data-f59db3288b.soester-anzeiger.de CNAME .
 data-f59db3288b.suedwest24.de CNAME .
 data-f59db3288b.torgranate.de CNAME .

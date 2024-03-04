@@ -13,7 +13,6 @@
 * ppphubanalytics.eastus2.cloudapp.azure.com
 * glance-analytics.trafficmanager.net
 * analytics-listener.trafficmanager.net
-* k8s-prod-us-east-2-alb-561248032.us-east-2.elb.amazonaws.com
 * utm.semilab.trafficmanager.net
 * waws-prod-osl-001.norwayeast.cloudapp.azure.com
 * v3-eu-appgwv2.uksouth.cloudapp.azure.com
@@ -22,9 +21,9 @@
 * ods-logging-prod.eastus.cloudapp.azure.com
 * onedsblobprdcus07.centralus.cloudapp.azure.com
 * waws-prod-ln1-117-4094.uksouth.cloudapp.azure.com
+* k8s-prod-us-east-1-replace-p-alb-1042217541.us-east-1.elb.amazonaws.com
 * segment-api.inrix.com.trafficmanager.net
 * telemetry.eastus.trafficmanager.net
-* telemetry.sdk.eastus-ssp.appgw.inmobi.com
 * utm.trafficmanager.net
 
 ## Cloaking domains
@@ -340,6 +339,7 @@
 | www.1h2h54jkw.com | ghochv3eng.trafficmanager.net |
 | www.200-rockergod.com | ghochv3eng.trafficmanager.net |
 | www.22-trk-srv.com | ghochv3eng.trafficmanager.net |
+| www.24-visionaryenterprise.com | ghochv3eng.trafficmanager.net |
 | www.33-trk-srv.com | ghochv3eng.trafficmanager.net |
 | www.33infra-strat.com | ghochv3eng.trafficmanager.net |
 | www.44-trk-srv.com | ghochv3eng.trafficmanager.net |
@@ -352,10 +352,12 @@
 | www.acor1sign.com | ghochv3eng.trafficmanager.net |
 | www.adgjl13.com | ghochv3eng.trafficmanager.net |
 | www.agile-company-365.com | ghochv3eng.trafficmanager.net |
-| www.agile-enterprise-365.com | ghochv3eng.trafficmanager.net |
 | www.agiledata7.com | ghochv3eng.trafficmanager.net |
+| www.alda1mure.com | ghochv3eng.trafficmanager.net |
 | www.alga9frog.com | ghochv3eng.trafficmanager.net |
 | www.alnw3nsdi.com | ghochv3eng.trafficmanager.net |
+| www.alskd34.com | ghochv3eng.trafficmanager.net |
+| www.altabold1.com | ghochv3eng.trafficmanager.net |
 | www.amos5lynn.com | ghochv3eng.trafficmanager.net |
 | www.ape78cn2.com | ghochv3eng.trafficmanager.net |
 | www.aran9midi.com | ghochv3eng.trafficmanager.net |
@@ -364,15 +366,13 @@
 | www.bae5tracker.com | ghochv3eng.trafficmanager.net |
 | www.bait4role.com | ghochv3eng.trafficmanager.net |
 | www.bank8line.com | ghochv3eng.trafficmanager.net |
+| www.bass2poll.com | ghochv3eng.trafficmanager.net |
 | www.baw5tracker.com | ghochv3eng.trafficmanager.net |
 | www.bdg001a.com | ghochv3eng.trafficmanager.net |
 | www.benn8bord.com | ghochv3eng.trafficmanager.net |
 | www.bis-dic15.com | ghochv3eng.trafficmanager.net |
 | www.blue2fund.com | ghochv3eng.trafficmanager.net |
-| www.blzsnd02.com | ghochv3eng.trafficmanager.net |
-| www.boat3deer.com | ghochv3eng.trafficmanager.net |
 | www.bosctrl32.com | ghochv3eng.trafficmanager.net |
-| www.bred4tula.com | ghochv3eng.trafficmanager.net |
 | www.brie5jiff.com | ghochv3eng.trafficmanager.net |
 | www.burn5tilt.com | ghochv3eng.trafficmanager.net |
 | www.business-path-55.com | ghochv3eng.trafficmanager.net |
@@ -401,6 +401,7 @@
 | www.cntr-di7.com | ghochv3eng.trafficmanager.net |
 | www.co85264.com | ghochv3eng.trafficmanager.net |
 | www.coat0tire.com | ghochv3eng.trafficmanager.net |
+| www.coax7nice.com | ghochv3eng.trafficmanager.net |
 | www.connct-9.com | ghochv3eng.trafficmanager.net |
 | www.copy9loom.com | ghochv3eng.trafficmanager.net |
 | www.coup7cold.com | ghochv3eng.trafficmanager.net |
@@ -419,12 +420,13 @@
 | www.direct-azr-78.com | ghochv3eng.trafficmanager.net |
 | www.djkeun1bal.com | ghochv3eng.trafficmanager.net |
 | www.dkjn1bal2.com | ghochv3eng.trafficmanager.net |
+| www.doll8tune.com | ghochv3eng.trafficmanager.net |
 | www.doll9jiva.com | ghochv3eng.trafficmanager.net |
 | www.domainanalytics.net | ghochv3eng.trafficmanager.net |
 | www.dtc-330d.com | ghochv3eng.trafficmanager.net |
 | www.dtc-v6t.com | ghochv3eng.trafficmanager.net |
 | www.dthvdr9.com | ghochv3eng.trafficmanager.net |
-| www.east2pony.com | ghochv3eng.trafficmanager.net |
+| www.dump4barn.com | ghochv3eng.trafficmanager.net |
 | www.easy0bark.com | ghochv3eng.trafficmanager.net |
 | www.ed-clr-01.com | ghochv3eng.trafficmanager.net |
 | www.efvrgb12.com | ghochv3eng.trafficmanager.net |
@@ -437,10 +439,12 @@
 | www.eventcapture03.com | ghochv3eng.trafficmanager.net |
 | www.eventcapture06.com | ghochv3eng.trafficmanager.net |
 | www.ever-track-51.com | ghochv3eng.trafficmanager.net |
-| www.fear7calk.com | ghochv3eng.trafficmanager.net |
+| www.feed5baby.com | ghochv3eng.trafficmanager.net |
 | www.file3size.com | ghochv3eng.trafficmanager.net |
 | www.final-aws-01.com | ghochv3eng.trafficmanager.net |
+| www.final-azr-01.com | ghochv3eng.trafficmanager.net |
 | www.flow8free.com | ghochv3eng.trafficmanager.net |
+| www.game9time.com | ghochv3eng.trafficmanager.net |
 | www.gard4mass.com | ghochv3eng.trafficmanager.net |
 | www.gaza2lote.com | ghochv3eng.trafficmanager.net |
 | www.gbl007.com | ghochv3eng.trafficmanager.net |
@@ -456,7 +460,6 @@
 | www.hazy4cant.com | ghochv3eng.trafficmanager.net |
 | www.head3high.com | ghochv3eng.trafficmanager.net |
 | www.hear8crew.com | ghochv3eng.trafficmanager.net |
-| www.heat6have.com | ghochv3eng.trafficmanager.net |
 | www.herb2warn.com | ghochv3eng.trafficmanager.net |
 | www.herb7calk.com | ghochv3eng.trafficmanager.net |
 | www.hero6bell.com | ghochv3eng.trafficmanager.net |
@@ -464,6 +467,7 @@
 | www.hook6vein.com | ghochv3eng.trafficmanager.net |
 | www.hrb1tng0.com | ghochv3eng.trafficmanager.net |
 | www.hvgcfx1.com | ghochv3eng.trafficmanager.net |
+| www.imaginative-trade7.com | ghochv3eng.trafficmanager.net |
 | www.inc9lineedge.com | ghochv3eng.trafficmanager.net |
 | www.incline9edge.com | ghochv3eng.trafficmanager.net |
 | www.indpcr1.com | ghochv3eng.trafficmanager.net |
@@ -485,9 +489,11 @@
 | www.jsnzoe301m.com | ghochv3eng.trafficmanager.net |
 | www.keet1liod.com | ghochv3eng.trafficmanager.net |
 | www.kick1pore.com | ghochv3eng.trafficmanager.net |
+| www.kota3chat.com | ghochv3eng.trafficmanager.net |
 | www.kpr2exp21.com | ghochv3eng.trafficmanager.net |
 | www.kprbexp21.com | ghochv3eng.trafficmanager.net |
 | www.ksk-mjto-001.com | ghochv3eng.trafficmanager.net |
+| www.lack4skip.com | ghochv3eng.trafficmanager.net |
 | www.laksjd4.com | ghochv3eng.trafficmanager.net |
 | www.lane5down.com | ghochv3eng.trafficmanager.net |
 | www.lansrv020.com | ghochv3eng.trafficmanager.net |
@@ -507,12 +513,15 @@
 | www.left5lock.com | ghochv3eng.trafficmanager.net |
 | www.lforen-cloud-trace.com | ghochv3eng.trafficmanager.net |
 | www.line6agar.com | ghochv3eng.trafficmanager.net |
+| www.link5view.com | ghochv3eng.trafficmanager.net |
 | www.liod1ours.com | ghochv3eng.trafficmanager.net |
 | www.list1holp.com | ghochv3eng.trafficmanager.net |
 | www.lmknjb1.com | ghochv3eng.trafficmanager.net |
 | www.loki8lave.com | ghochv3eng.trafficmanager.net |
 | www.loom3otto.com | ghochv3eng.trafficmanager.net |
+| www.lope4refl.com | ghochv3eng.trafficmanager.net |
 | www.lote1otto.com | ghochv3eng.trafficmanager.net |
+| www.m1ll1c4n0.com | ghochv3eng.trafficmanager.net |
 | www.mack7oyes.com | ghochv3eng.trafficmanager.net |
 | www.main5poem.com | ghochv3eng.trafficmanager.net |
 | www.make6pain.com | ghochv3eng.trafficmanager.net |
@@ -521,11 +530,11 @@
 | www.mari4norm.com | ghochv3eng.trafficmanager.net |
 | www.marx7loki.com | ghochv3eng.trafficmanager.net |
 | www.mass1soma.com | ghochv3eng.trafficmanager.net |
-| www.mbljpu9.com | ghochv3eng.trafficmanager.net |
 | www.mean8sigh.com | ghochv3eng.trafficmanager.net |
 | www.mediaedge-info.com | ghochv3eng.trafficmanager.net |
 | www.mews2ruck.com | ghochv3eng.trafficmanager.net |
 | www.mile0tire.com | ghochv3eng.trafficmanager.net |
+| www.mill8grip.com | ghochv3eng.trafficmanager.net |
 | www.misc1bulk.com | ghochv3eng.trafficmanager.net |
 | www.mnbvc34.com | ghochv3eng.trafficmanager.net |
 | www.moat4shot.com | ghochv3eng.trafficmanager.net |
@@ -534,8 +543,12 @@
 | www.mown5gaze.com | ghochv3eng.trafficmanager.net |
 | www.n-core-pipe.com | ghochv3eng.trafficmanager.net |
 | www.navy9gear.com | ghochv3eng.trafficmanager.net |
+| www.neck6bake.com | ghochv3eng.trafficmanager.net |
+| www.network-handle.com | ghochv3eng.trafficmanager.net |
 | www.nhyund4.com | ghochv3eng.trafficmanager.net |
+| www.nice3aiea.com | ghochv3eng.trafficmanager.net |
 | www.nipe4head.com | ghochv3eng.trafficmanager.net |
+| www.node7seat.com | ghochv3eng.trafficmanager.net |
 | www.nora7nice.com | ghochv3eng.trafficmanager.net |
 | www.nw-rail-03.com | ghochv3eng.trafficmanager.net |
 | www.nyc14ny.com | ghochv3eng.trafficmanager.net |
@@ -546,6 +559,7 @@
 | www.operationintelligence7.com | ghochv3eng.trafficmanager.net |
 | www.otto5loki.com | ghochv3eng.trafficmanager.net |
 | www.page1monk.com | ghochv3eng.trafficmanager.net |
+| www.page9awry.com | ghochv3eng.trafficmanager.net |
 | www.pair1tune.com | ghochv3eng.trafficmanager.net |
 | www.pass8heal.com | ghochv3eng.trafficmanager.net |
 | www.path-follower.com | ghochv3eng.trafficmanager.net |
@@ -571,6 +585,7 @@
 | www.rate2self.com | ghochv3eng.trafficmanager.net |
 | www.rate8deny.com | ghochv3eng.trafficmanager.net |
 | www.rdeswa1.com | ghochv3eng.trafficmanager.net |
+| www.rear9axis.com | ghochv3eng.trafficmanager.net |
 | www.redd7liod.com | ghochv3eng.trafficmanager.net |
 | www.refl3alea.com | ghochv3eng.trafficmanager.net |
 | www.rep0pkgr.com | ghochv3eng.trafficmanager.net |
@@ -582,6 +597,7 @@
 | www.ripe8book.com | ghochv3eng.trafficmanager.net |
 | www.risk8belt.com | ghochv3eng.trafficmanager.net |
 | www.roar9beer.com | ghochv3eng.trafficmanager.net |
+| www.rock5rice.com | ghochv3eng.trafficmanager.net |
 | www.rote8mino.com | ghochv3eng.trafficmanager.net |
 | www.ruth8badb.com | ghochv3eng.trafficmanager.net |
 | www.ryke4peep.com | ghochv3eng.trafficmanager.net |
@@ -594,15 +610,17 @@
 | www.saon6harz.com | ghochv3eng.trafficmanager.net |
 | www.sas15k01.com | ghochv3eng.trafficmanager.net |
 | www.scan-trail.com | ghochv3eng.trafficmanager.net |
-| www.scan6show.com | ghochv3eng.trafficmanager.net |
 | www.sch-alt-91.com | ghochv3eng.trafficmanager.net |
+| www.sch-crt-91.com | ghochv3eng.trafficmanager.net |
 | www.se-core-pipe.com | ghochv3eng.trafficmanager.net |
+| www.seat6worn.com | ghochv3eng.trafficmanager.net |
 | www.seatac15.com | ghochv3eng.trafficmanager.net |
 | www.shoo5woop.com | ghochv3eng.trafficmanager.net |
 | www.shrfbdg004.com | ghochv3eng.trafficmanager.net |
 | www.skye6oner.com | ghochv3eng.trafficmanager.net |
 | www.slim2disc.com | ghochv3eng.trafficmanager.net |
 | www.smart-business-365.com | ghochv3eng.trafficmanager.net |
+| www.smart-business-intuition.com | ghochv3eng.trafficmanager.net |
 | www.smart-cloud-intelligence.com | ghochv3eng.trafficmanager.net |
 | www.smart-company-365.com | ghochv3eng.trafficmanager.net |
 | www.smart-enterprise-7.com | ghochv3eng.trafficmanager.net |
@@ -610,6 +628,7 @@
 | www.softtrack08.com | ghochv3eng.trafficmanager.net |
 | www.soil5hear.com | ghochv3eng.trafficmanager.net |
 | www.soma9vols.com | ghochv3eng.trafficmanager.net |
+| www.sour1bare.com | ghochv3eng.trafficmanager.net |
 | www.sour7will.com | ghochv3eng.trafficmanager.net |
 | www.spit0stge.com | ghochv3eng.trafficmanager.net |
 | www.srv00infra.com | ghochv3eng.trafficmanager.net |
@@ -628,7 +647,6 @@
 | www.tgvrfc4.com | ghochv3eng.trafficmanager.net |
 | www.tire1soak.com | ghochv3eng.trafficmanager.net |
 | www.tm1-001.com | ghochv3eng.trafficmanager.net |
-| www.trace-2000.com | ghochv3eng.trafficmanager.net |
 | www.trackercloud.net | ghochv3eng.trafficmanager.net |
 | www.trackinvestigate.net | ghochv3eng.trafficmanager.net |
 | www.trail-route.com | ghochv3eng.trafficmanager.net |
@@ -640,7 +658,6 @@
 | www.tst14netreal.com | ghochv3eng.trafficmanager.net |
 | www.tst16infra.com | ghochv3eng.trafficmanager.net |
 | www.uhygtf1.com | ghochv3eng.trafficmanager.net |
-| www.vane3alga.com | ghochv3eng.trafficmanager.net |
 | www.venture-enterprising.com | ghochv3eng.trafficmanager.net |
 | www.vice4beek.com | ghochv3eng.trafficmanager.net |
 | www.vick6duty.com | ghochv3eng.trafficmanager.net |
@@ -649,12 +666,12 @@
 | www.visionary-enterprise-wisdom.com | ghochv3eng.trafficmanager.net |
 | www.visionarybusiness7.com | ghochv3eng.trafficmanager.net |
 | www.visionarybusinessacumen.com | ghochv3eng.trafficmanager.net |
-| www.visionarycompany52.com | ghochv3eng.trafficmanager.net |
 | www.wa52613.com | ghochv3eng.trafficmanager.net |
 | www.wait8hurl.com | ghochv3eng.trafficmanager.net |
 | www.web-01-gbl.com | ghochv3eng.trafficmanager.net |
 | www.websiteexploration.com | ghochv3eng.trafficmanager.net |
 | www.wild0army.com | ghochv3eng.trafficmanager.net |
+| www.wild8prey.com | ghochv3eng.trafficmanager.net |
 | www.wivo2gaza.com | ghochv3eng.trafficmanager.net |
 | www.yama1hove.com | ghochv3eng.trafficmanager.net |
 | www.yami8alea.com | ghochv3eng.trafficmanager.net |
@@ -668,65 +685,58 @@
 | analytics.glance.inmobi.com | glance-analytics.trafficmanager.net |
 | id.analytics.glance.inmobi.com | glance-analytics.trafficmanager.net |
 | in.analytics.glance.inmobi.com | glance-analytics.trafficmanager.net |
-| android-analytics-prodhome1.mysoluto.com | k8s-prod-us-east-2-alb-561248032.us-east-2.elb.amazonaws.com |
-| prodhome1analyticslistener.mysoluto.com | k8s-prod-us-east-2-alb-561248032.us-east-2.elb.amazonaws.com |
+| prodhome1analyticslistener.mysoluto.com | k8s-prod-us-east-1-replace-p-alb-1042217541.us-east-1.elb.amazonaws.com |
 | data.diagnostics.office.com | o365diagtelemetry.trafficmanager.net |
 | data.diagnostics.office.com | ods-logging-prod.eastus.cloudapp.azure.com |
-| 04f9f24b-19fc-498e-9132-a28f1740fa4e.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| 0607a3c2-cbce-4785-93ec-c46344a884fb.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 09cda8e9-bd6f-4103-8e55-4aa6ebd3c718.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 11ae4775-2729-49ef-8926-ddd575d094b9.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| 1602d5b0-363e-4e62-b541-3bf353b88a4a.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 17a457ab-c36f-4727-b50e-735374b078ed.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 1f189647-bb21-4c4e-b229-50f93756d925.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 20e10958-21f4-41d7-8ce9-f27a4b8251ef.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| 1fb116b8-8e65-4399-afa1-ee2c516d9c8a.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 20fd8679-b31a-439e-aed8-ec23b657615a.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 22fb38dd-185f-4a2e-9183-6af6b45ca31a.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 23c29573-84bf-4003-9b6d-1278f0a56dfd.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 23e7ba1f-bf73-4465-a6f9-09531509278b.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 2adf2174-552f-4c8a-9564-650cb466d030.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 2af473ac-d45a-4278-b0cc-1a0d3f5a5759.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 2f5df36b-488b-45e2-93f4-23dc1714d672.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 30d3dfa8-5787-4cc8-9674-3de116f91368.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| 36a43598-86a9-43cf-916e-c0989c403885.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 388c12b2-b0b9-42cb-a736-2641b33b56a8.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 48b344ab-d8f2-478f-b762-ccfb280bb603.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 49338494-a23b-432f-aa50-ed7fabf93594.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| 3c21079f-dd65-4b92-bb59-b640a3ddec9f.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 5079a3a9-fc6d-484d-bed9-5cac3a662bb9.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 52041ccb-3008-42b2-ab25-60c8a2827ad5.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 52e22d27-9138-444a-a315-5cf440244793.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 52f94848-2641-4cb4-95c2-cb2c6fd29cd5.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 55852153-c668-469f-8398-133642f16ac7.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 5affcd89-d2d4-48fe-83c4-8a246c5099ba.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 5b06ee36-9c5b-4325-b457-83f538d5c9f6.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 5ea90664-472d-4663-a032-21a484131e2d.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 65e13d1f-4d2d-43de-a285-a3531d8d4b4c.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 69cc5a3e-9030-432c-824d-65544cb6b59b.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 6e8a8fd6-f43a-40f8-b419-5a72c5fcbd5a.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 7097bd70-5fe9-47fa-91b2-0100d5d79ac8.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 719d7501-cc97-4aac-9a69-d4fa1e77d61b.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 7354d17c-eef8-41d1-9804-9df7fbf7db01.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| 73db7377-99b9-4753-8aac-ac2b14dacb2a.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| 79d74a2b-9126-4178-93dc-b8b5f3e2d3b2.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 7a979b50-af66-4ef4-bb02-4f70160c193d.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| 7d14076f-7633-4a6c-ae9d-aea69a3a167c.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 86ec0aee-6f7d-4205-8e0e-e44177bf30cc.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 874e6853-3948-43b5-b5dd-89de2c9331d1.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 8975ed25-858a-4e34-8954-69ec9a430982.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 8fecd412-58ba-4c64-af68-7b7ffda0bbee.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 92781474-403c-46b5-aa29-aa6ee00de123.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| 93a45c63-182d-4b12-8ab3-8a0344216e44.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| 93b4ce9e-3410-4c0c-9c36-2337261d1424.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | 96480137-6c2e-4468-af6f-c548dd293bba.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| 9fc5662b-da2e-45e2-a322-958cced26764.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | a435212b-c7e7-4ce0-89c1-a30b1e753df2.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | a57dfb4c-7ec4-4663-83dc-1c61a379e743.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| a702469e-6792-4bbb-9914-93b7c09db81b.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| aa6ffc6e-11e0-4930-84fe-5b5c8b007557.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| aa91eea4-0338-43e7-a732-a25197e4dd7e.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| ad54919e-100d-431d-abfb-bfa6fedde4b2.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | ad6b2981-1fcd-4d0f-a9e7-d1433b6c3571.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| c1816cbd-7a2a-4292-9054-28c2fa9605bd.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| cbb82151-9228-42a8-8e2d-af5501e47eff.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| d299819f-c070-497e-a658-d31e4c18cdbe.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| ad892e01-4227-4949-9c60-6f419f211960.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| b625b7cf-1181-459e-8346-50eb8c123cc1.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| ba2af998-38ef-4e36-b32c-5bc3809d1386.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| c0b0a7d8-91c8-4b53-b2b2-c704920824ef.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| c1be0152-47ba-4e8e-9e6e-3c32ca89dfd9.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| c870ece5-5cb8-4d42-86f5-0011deb16ecb.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | d42a8ce9-e442-4632-ad63-7ed64ee23ec2.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| d73b75ac-9456-4a2d-8630-4a9688e37b59.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | d7a3a039-0525-4a46-a146-6549c6d62ce2.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | da8ee88f-2876-4f87-b9fc-1297414e7dd4.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| e2eb3745-8fbb-4962-bc8b-f901d7a30e8c.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| e5c49022-70c3-4298-8527-394e403bb93e.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| de91417b-93fa-48d3-bff1-c58ce48821db.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | e7a5bdfa-46c4-40b9-94e7-86debb0affb1.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| e87e989f-6448-4856-a476-448bfa0540f5.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | f0efc4b3-1e85-4153-9125-80f7bf3d39b3.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| f1475774-c36f-4959-a578-4028aed693a3.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
-| f5113434-e411-47a8-9ba5-015ab878031e.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
+| f2f52f05-2ece-43b0-b0e9-2629665ef810.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | f6dbadf1-b025-4999-824e-7fdd429d8075.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | f9087d5b-85b9-481b-8873-9e106850b968.oms.opinsights.azure.com | oms-analytics.trafficmanager.net |
 | oca.microsoft.com | onedsblobprdcus07.centralus.cloudapp.azure.com |
@@ -735,8 +745,6 @@
 | segment-api.inrix.com | segment-api.inrix.com.trafficmanager.net |
 | telemetry-eastus.trafficmanager.inmobi.com | telemetry.eastus.trafficmanager.net |
 | telemetry.sdk.inmobi.com | telemetry.eastus.trafficmanager.net |
-| telemetry-eastus.trafficmanager.inmobi.com | telemetry.sdk.eastus-ssp.appgw.inmobi.com |
-| telemetry.sdk.inmobi.com | telemetry.sdk.eastus-ssp.appgw.inmobi.com |
 | assp.semilab.hu | utm.semilab.trafficmanager.net |
 | mail.semilab.hu | utm.semilab.trafficmanager.net |
 | utm.semilab.hu | utm.semilab.trafficmanager.net |
@@ -873,6 +881,7 @@
 | secure.intelligentcompanywisdom.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.intelligentdataintuition.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.intelligentdatawisdom.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
+| secure.intuition-agile-7.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.intuitive-intuition.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.inventive52intuitive.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.inventiveperception365.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
@@ -1015,6 +1024,7 @@
 | secure.venture365office.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.vice4beek.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.vick6duty.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
+| secure.visionary-7-data.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.visionary-business-52.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.visionary-business-ingenuity.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.visionary-company-ingenuity.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |

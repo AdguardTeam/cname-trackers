@@ -423,7 +423,6 @@
 ||metrics.accuweather.com^
 ||metrics.aclu.org^
 ||metrics.active.com^
-||metrics.adt.com^
 ||metrics.advancedmd.com^
 ||metrics.aeo.com^
 ||metrics.aetnamedicare.com^
@@ -477,7 +476,6 @@
 ||metrics.cgu.com.au^
 ||metrics.chatrwireless.com^
 ||metrics.chghealthcare.com^
-||metrics.chron.com^
 ||metrics.ci.model.plymouthrocknj.com^
 ||metrics.citimortgage.com^
 ||metrics.claires.com^
@@ -521,7 +519,6 @@
 ||metrics.eiu.com^
 ||metrics.elle.co.jp^
 ||metrics.ellechina.com^
-||metrics.eloan.com^
 ||metrics.ems.com^
 ||metrics.ereplacementparts.com^
 ||metrics.esignal.com^
@@ -739,7 +736,6 @@
 ||metrics.sce.com^
 ||metrics.schooloutfitters.com^
 ||metrics.scottishpower.co.uk^
-||metrics.sfchronicle.com^
 ||metrics.sgic.com.au^
 ||metrics.sharecare.com^
 ||metrics.shinseibank.com^
@@ -1388,7 +1384,6 @@
 ||smetrics.myfreestyle.com^
 ||smetrics.mylifestages.org^
 ||smetrics.myrecipes.com^
-||smetrics.mysanantonio.com^
 ||smetrics.mysensiva.com^
 ||smetrics.nadaguides.com^
 ||smetrics.nationalbusinessfurniture.com^
@@ -14841,7 +14836,6 @@
 ||somni.rocketmortgagesquares.com^
 ||somni.rocketpro.com^
 ||somni.rocketprotpo.com^
-||somni.rocketsolar.com^
 ||somni.serve.com^
 ||somni.suntrust.com^
 ||somni.syf.com^
@@ -18523,7 +18517,6 @@
 ||metrics.cellcept.com^
 ||metrics.census.gov^
 ||metrics.centurylink.com^
-||metrics.cezigue.fr^
 ||metrics.channelfutures.com^
 ||metrics.chapters.indigo.ca^
 ||metrics.chicagobusiness.com^
@@ -18797,7 +18790,6 @@
 ||metrics.libertymutual.com^
 ||metrics.lifetime.life^
 ||metrics.liverpool.com.mx^
-||metrics.lmtonline.com^
 ||metrics.loblaws.ca^
 ||metrics.lolesports.com^
 ||metrics.lovefilm.com^
@@ -19989,7 +19981,6 @@
 ||smetrics.21nova.com^
 ||smetrics.24hourfitness.com^
 ||smetrics.28degreescard.com.au^
-||smetrics.31metrescarres.fr^
 ||smetrics.3m.com^
 ||smetrics.7eleven.com.au^
 ||smetrics.915thebeat.com^
@@ -20020,7 +20011,6 @@
 ||smetrics.adage.com^
 ||smetrics.addabilify.com^
 ||smetrics.adiglobal.us^
-||smetrics.adt.com^
 ||smetrics.adult.prevnar13.com^
 ||smetrics.aelca.es^
 ||smetrics.aem.playstation.com^
@@ -20249,7 +20239,6 @@
 ||smetrics.celticarehealthplan.com^
 ||smetrics.centex.com^
 ||smetrics.centurylink.com^
-||smetrics.cezigue.fr^
 ||smetrics.cfainstitute.org^
 ||smetrics.cfox.com^
 ||smetrics.cfshops.com^
@@ -20751,7 +20740,6 @@
 ||smetrics.leasy.dk^
 ||smetrics.leasy.se^
 ||smetrics.legalandgeneral.com^
-||smetrics.lesbonnesbouilles.fr^
 ||smetrics.lexus.com^
 ||smetrics.libertymutual.com^
 ||smetrics.lidea.today^
@@ -21106,7 +21094,6 @@
 ||smetrics.rozlytrek.com^
 ||smetrics.rtl.nl^
 ||smetrics.rubbernews.com^
-||smetrics.runbabyrun.fr^
 ||smetrics.sainsburysbank.co.uk^
 ||smetrics.saks.com^
 ||smetrics.saksoff5th.com^
@@ -21188,7 +21175,6 @@
 ||smetrics.shop.superstore.ca^
 ||smetrics.shopjapan.co.jp^
 ||smetrics.shopmyexchange.com^
-||smetrics.shopoon.fr^
 ||smetrics.shoppersdrugmart.ca^
 ||smetrics.shoppremiumoutlets.com^
 ||smetrics.showcase.ca^
@@ -21555,7 +21541,6 @@
 ||smetrics.y108.ca^
 ||smetrics.yellow.com.au^
 ||smetrics.yellowpages.com.au^
-||smetrics.yourconroenews.com^
 ||smetrics.yourheartyourdecision.com^
 ||smetrics.yourindependentgrocer.ca^
 ||smetrics.zagg.com^
@@ -22486,8 +22471,12 @@
 ||csvtu.bmolending.com^
 ||metrics.adobeprimetime.com^
 ||metrics.cartoonnetworkla.com^
+||metrics.chron.com^
+||metrics.sfchronicle.com^
 ||metrics.yourconroenews.com^
 ||smetrics.lmtonline.com^
+||smetrics.mysanantonio.com^
+||smetrics.yourconroenews.com^
 ||smetrics.sharekhan.com^
 ||t3e.firstchoice.co.uk^
 ||visualscience.external.bbc.co.uk^

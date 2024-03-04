@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1024,7 +1024,6 @@ $TTL 300
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
-a.a3ion.com CNAME .
 a.addisplaynetwork.com CNAME .
 a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
@@ -1081,7 +1080,6 @@ management.adxnow.com CNAME .
 rtb.advertrek.com CNAME .
 rtb.exoclick.com CNAME .
 rtb.trafficfactory.com CNAME .
-s.a3ion.com CNAME .
 s.adnflow.com CNAME .
 s.adsession.com CNAME .
 s.advantageclicks.net CNAME .
@@ -1147,6 +1145,7 @@ s.stuffserve.com CNAME .
 s.tf4srv.com CNAME .
 s.valuemedia-ltd.com CNAME .
 s.vlink6.com CNAME .
+s.vws4brkfst.com CNAME .
 s.wlink1.com CNAME .
 s.wlink2.com CNAME .
 s.zlink1.com CNAME .

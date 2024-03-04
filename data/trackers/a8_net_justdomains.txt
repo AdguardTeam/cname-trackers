@@ -100,7 +100,6 @@ a8.eonet.ne.jp
 a8.epauler.co.jp
 a8.epo.info
 a8.erasutamo.onlinestaff.jp
-a8.everest.ac
 a8.evertrust-inc.com
 a8.exam-katekyo.com
 a8.exetime.jp
@@ -261,7 +260,6 @@ a8.route-roller.info
 a8.runway-harmonia.co.jp
 a8.ryugaku.kuraveil.jp
 a8.sakemuseum.com
-a8.sakuradome-direct.com
 a8.sakuramobile.jp
 a8.sakuratravel.jp
 a8.sara-uv.com
@@ -404,7 +402,6 @@ a8clk.ands-tech.com
 a8clk.angeliebe.co.jp
 a8clk.aoki-style.com
 a8clk.ap.livede55.com
-a8clk.app.iioffice.net
 a8clk.app.offerbox.jp
 a8clk.apply-shop.menu.inc
 a8clk.asahi-net.or.jp
@@ -1106,7 +1103,6 @@ a8cv.physiqueframe.com
 a8cv.picksitter.com
 a8cv.pigeon-fw.com
 a8cv.pilates-k.jp
-a8cv.player.iam-ist.jp
 a8cv.pocket-sommelier.com
 a8cv.postcoffee.co
 a8cv.pre-sana.com
@@ -1486,7 +1482,6 @@ cv.xn--zbs202g.com
 cv.zephylrin-x.net
 cv1.start-eo.jp
 cv1.stefany.co.jp
-cvtk01.gmo-agree.com
 dwuzxuvwlq.winticket.jp
 electricity2.tokyu-ps.jp
 ems-a8net-tracking.easy-myshop.jp

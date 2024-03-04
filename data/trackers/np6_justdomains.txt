@@ -505,6 +505,7 @@ tr.information.fidalformations.fr
 tr.information.labelleadresse.com
 tr.information.lacollection-airfrance.be
 tr.information.lacollection-airfrance.ch
+tr.information.lacollection-airfrance.co.uk
 tr.information.lacollection-airfrance.fr
 tr.information.leclubtravel.fr
 tr.information.perfectstay.com
@@ -535,6 +536,7 @@ tr.jend.espmp-pofr.net
 tr.jesuis.enformedelotus.com
 tr.jevoteenligne.fr
 tr.jimb.espmp-cufr.net
+tr.jkcd.espmp-cufr.net
 tr.jkcd.espmp-pofr.net
 tr.jkyg.espmp-cufr.net
 tr.kang.espmp-cufr.net
@@ -747,7 +749,6 @@ tr.news.infopro-digital.com
 tr.news.interforum.fr
 tr.news.itancia.com
 tr.news.jautomatise.com
-tr.news.kalivet.com
 tr.news.kpmg-avocats.fr
 tr.news.kpmg.fr
 tr.news.kpmgacademy.fr
@@ -1040,6 +1041,7 @@ tr.unaoffertaalgiorno.com
 tr.update.groupon.be
 tr.urfk.espmp-agfr.net
 tr.urfk02r.espmp-nifr.net
+tr.urfk02t.espmp-agfr.net
 tr.urfk02v.espmp-cufr.net
 tr.urfk02z.espmp-nifr.net
 tr.urfk03c.espmp-nifr.net

@@ -3,9 +3,7 @@
 ## Disguised trackers list
 
 * webtrekk.net
-    * adac02.webtrekk.net
     * augsburgerallgemeine01.webtrekk.net
-    * bild01.webtrekk.net
     * buchch02.webtrekk.net
     * cbm02.webtrekk.net
     * cosmos01ssl.webtrekk.net
@@ -129,7 +127,6 @@
     * 642216731269756.wt-eu02.net
     * 654069251471705.wt-eu02.net
     * 657801072187647.wt-eu02.net
-    * 658764551928548.wt-eu02.net
     * 666882163750646.wt-eu02.net
     * 667035493029158.wt-eu02.net
     * 669154114435717.wt-eu02.net
@@ -168,6 +165,7 @@
     * 877979016491790.wt-eu02.net
     * 893825625040746.wt-eu02.net
     * 913761141602487.wt-eu02.net
+    * 927615140575951.wt-eu02.net
     * 927703597199732.wt-eu02.net
     * 929152463666423.wt-eu02.net
     * 949365393396887.wt-eu02.net
@@ -224,7 +222,6 @@
     * vhb-01.wt-eu02.net
     * volksfreund01.wt-eu02.net
     * wa-wdr.wt-eu02.net
-    * welt-01.wt-eu02.net
     * wt-ara.wt-eu02.net
     * wttd-douglas.wt-eu02.net
     * xxxlmoebelhaeuserde02.wt-eu02.net
@@ -373,7 +370,6 @@
 | web.slimjoy.ro | 657801072187647.wt-eu02.net |
 | web.slimjoy.se | 657801072187647.wt-eu02.net |
 | web.slimjoy.sk | 657801072187647.wt-eu02.net |
-| web.email.principality.co.uk | 658764551928548.wt-eu02.net |
 | data.westlotto.de | 666882163750646.wt-eu02.net |
 | web.mapp.edenred.it | 667035493029158.wt-eu02.net |
 | data.adlermode.com | 669154114435717.wt-eu02.net |
@@ -416,6 +412,7 @@
 | mit.deutschebank.be | 877979016491790.wt-eu02.net |
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
 | web.newsletterit.esprinet.com | 913761141602487.wt-eu02.net |
+| joda.quotidianodipuglia.it | 927615140575951.wt-eu02.net |
 | count.bank99.at | 927703597199732.wt-eu02.net |
 | web.email.turtlebay.co.uk | 929152463666423.wt-eu02.net |
 | web.autobodytoolmart.com | 949365393396887.wt-eu02.net |
@@ -431,7 +428,6 @@
 | web.email.topfarmacia.it | 988523091244829.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
 | wbtrkk.teufelaudio.pl | 997311968670029.wt-eu02.net |
-| webts.adac.de | adac02.webtrekk.net |
 | pix.airbusgroup.com | airbusgroup-de01.wt-eu02.net |
 | w3.aktionaersbank.de | aktionrsbank01.wt-eu02.net |
 | analytics.hermesworld.com | analytics-myhermes.wt-eu02.net |
@@ -439,7 +435,6 @@
 | pixel.augsburger-allgemeine.de | augsburgerallgemeine01.webtrekk.net |
 | cdn7.baunetz.de | baunetzprod01.wt-eu02.net |
 | w7.berlin.de | berlinonline-02.wt-eu02.net |
-| spr.bild.de | bild01.webtrekk.net |
 | trk.blume2000.de | blume2000.wt-eu02.net |
 | img.buch.ch | buchch02.webtrekk.net |
 | text.mitarbeiterangebote.de | cbm02.webtrekk.net |
@@ -623,7 +618,6 @@
 | wa.wdr.de | wa-wdr.wt-eu02.net |
 | wa.wdrmaus.de | wa-wdr.wt-eu02.net |
 | images1.test.de | warentest-de01.webtrekk.net |
-| spr.welt.de | welt-01.wt-eu02.net |
 | wt.ara.ad | wt-ara.wt-eu02.net |
 | wt.ara.cat | wt-ara.wt-eu02.net |
 | wt.arabalears.cat | wt-ara.wt-eu02.net |

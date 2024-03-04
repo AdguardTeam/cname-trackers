@@ -13,7 +13,6 @@
 | a3.hotpornfile.org | api.clickaine.com |
 | aabclkane.bachelorarchive.com | api.clickaine.com |
 | ad.desibp.com | api.clickaine.com |
-| ad.erotikflix.com | api.clickaine.com |
 | adb.xfilm.me | api.clickaine.com |
 | ads.imgdesu.art | api.clickaine.com |
 | anti.69vclub.com | api.clickaine.com |
@@ -24,7 +23,6 @@
 | api.rtnews.pro | api.clickaine.com |
 | api2.clickaine.com | api.clickaine.com |
 | app.rtnews.pro | api.clickaine.com |
-| asg.erotikflix.com | api.clickaine.com |
 | asg.javhoho.com | api.clickaine.com |
 | axx.aflamk1.net | api.clickaine.com |
 | c.gotoxxxtube.com | api.clickaine.com |

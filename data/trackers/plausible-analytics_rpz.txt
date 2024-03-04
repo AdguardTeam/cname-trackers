@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,7 +45,6 @@ analytics.littlekingdesigns.com CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
 analytics.martin-fieber.de CNAME .
-analytics.mattmcadams.com CNAME .
 analytics.mc500.info CNAME .
 analytics.multithread.studio CNAME .
 analytics.mycater.fr CNAME .
@@ -138,7 +137,6 @@ metric.methoddev.com CNAME .
 metrics.axiomatic-inc.com CNAME .
 metrics.creit.tech CNAME .
 metrics.earrieta.dev CNAME .
-metrics.javierarcheni.com CNAME .
 metrics.recunia.de CNAME .
 momotaro.craigmod.com CNAME .
 momotaro.walkkumano.com CNAME .
@@ -389,7 +387,6 @@ stats.astrr.ru CNAME .
 stats.asymptotic.io CNAME .
 stats.auto-dombrowski.de CNAME .
 stats.autofarm.network CNAME .
-stats.autoscholarwithmrb.com CNAME .
 stats.balticgruppen.se CNAME .
 stats.bananatimer.com CNAME .
 stats.bcdtravel.com CNAME .
@@ -619,7 +616,6 @@ stats.jerickson.net CNAME .
 stats.jhsheridan.com CNAME .
 stats.jjude.com CNAME .
 stats.joaopedro.dev CNAME .
-stats.jpc.dev CNAME .
 stats.jsbible.com CNAME .
 stats.jtrees.io CNAME .
 stats.jun-etan.com CNAME .
@@ -645,7 +641,6 @@ stats.ks-labs.de CNAME .
 stats.kyushoku2050.org CNAME .
 stats.labibli.com CNAME .
 stats.laptopsin.space CNAME .
-stats.larsroettig.dev CNAME .
 stats.lastfm.matthiasloibl.com CNAME .
 stats.latehours.net CNAME .
 stats.lauracpa.ca CNAME .
@@ -681,7 +676,6 @@ stats.magarantie5ans.fr CNAME .
 stats.makerr.market CNAME .
 stats.makingknown.xyz CNAME .
 stats.maklerupdate.de CNAME .
-stats.malizen.com CNAME .
 stats.malte-bartels.de CNAME .
 stats.martinbetz.eu CNAME .
 stats.martyntaylor.com CNAME .
@@ -800,7 +794,6 @@ stats.remotebear.io CNAME .
 stats.reprage.com CNAME .
 stats.respkt.de CNAME .
 stats.reto.tv CNAME .
-stats.retofunctional.com CNAME .
 stats.revitfamily.app CNAME .
 stats.rideinpeace.ie CNAME .
 stats.rightourhistoryhawaii.com CNAME .
@@ -923,7 +916,6 @@ stats.wellbeyond.com CNAME .
 stats.westswindon-pc.gov.uk CNAME .
 stats.whenpigsflybbq.com CNAME .
 stats.whereisit5pmrightnow.com CNAME .
-stats.wisebox.co CNAME .
 stats.wordvested.org CNAME .
 stats.world.hey.com CNAME .
 stats.wvs.org.uk CNAME .
@@ -958,7 +950,6 @@ views.emikajewelry.com CNAME .
 views.ericcapella.com CNAME .
 views.sikerlogistics.com CNAME .
 views.sikerproducts.com CNAME .
-visite.scambi.org CNAME .
 visitorcenter.ioafw.com CNAME .
 visitorcenter.srwild.com CNAME .
 visitors.gigianddavid.com CNAME .

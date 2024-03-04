@@ -246,7 +246,6 @@ bison.streamclocks.com
 bison.stuffmatic.com
 bison.weitweit.at
 blackbird.docstation.co
-blackbird.everythinginmoderation.co
 blackbird.stickerclub.org
 bluejay.edgesoftware.cloud
 bluejay.postmediagroup.com
@@ -302,7 +301,6 @@ cat.beunitedinchrist.com
 cat.gfx.io
 cat.laravel-news.com
 cat.mattr.global
-cat.remotefit.io
 cat.serverless.quest
 cat.sprucely.net
 cat.thisminute.app
@@ -401,7 +399,6 @@ damselfly.vegenook.com
 deer.m1x.co
 deer.ray.io
 dingo.moehring.dev
-dog.airfieldhub.com
 dog.christinamoore.us
 dog.franchisesocial.co.uk
 dog.ghvenue.com
@@ -510,7 +507,6 @@ gerbil.clapsaddleart.com
 gerbil.downtown-mafia.com
 gerbil.lost.design
 gerbil.recipe-ipsum.com
-giraffe.fnd.info
 giraffe.talktalent.com
 giraffe.viatorci.com
 goat.aicontentdojo.com
@@ -938,7 +934,6 @@ silkworm.hoprnet.io
 silkworm.preventingsuicideinsussex.org
 silkworm.waspexpert.com
 silkworm.westwoodmbc.org
-silverfish.camaleon.gt
 silverfish.dailybuilds.com
 silverfish.djordjevanjek.com
 skink.asorman.io
@@ -966,7 +961,6 @@ spoonbill.deknot.io
 spoonbill.shawnprice.com
 squid.adart.cc
 squid.antevo.com.au
-squirrel.cividi.ch
 squirrel.cobaltconnect.com
 squirrel.laravel-mix.com
 starfish.taskflow.io
@@ -1173,3 +1167,4 @@ static.nfly.cc
 static.xlyyzx.sbs
 thirty-good.lugg.com
 video.adsninja.ca
+giraffe.fnd.info

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,7 +27,6 @@ pix.telekom.de CNAME .
 pixel.augsburger-allgemeine.de CNAME .
 prophet.heise.de CNAME .
 service.hcob-bank.de CNAME .
-spr.bild.de CNAME .
 startrekk.flaconi.de CNAME .
 sub1.cosmosdirekt.de CNAME .
 text.mitarbeiterangebote.de CNAME .
@@ -49,7 +48,6 @@ trk.nuernberger.de CNAME .
 w3.flatex.es CNAME .
 w3.flatex.nl CNAME .
 wbtrkk.teufelaudio.co.uk CNAME .
-webts.adac.de CNAME .
 wt.distrelec.com CNAME .
 wtm.interhyp.de CNAME .
 www7.springer.com CNAME .
@@ -165,6 +163,7 @@ info.genialklick.ch CNAME .
 info.klett-sprachen.de CNAME .
 intelligence.officialwesthamstore.com CNAME .
 is.lg.com CNAME .
+joda.quotidianodipuglia.it CNAME .
 lax.data.srf.ch CNAME .
 mapp.ewm.co.uk CNAME .
 mapp.jysk.dk CNAME .
@@ -217,7 +216,6 @@ scout.bergfreunde.it CNAME .
 scout.bergfreunde.nl CNAME .
 scout.bergfreunde.no CNAME .
 scout.bergfreunde.se CNAME .
-spr.welt.de CNAME .
 stage.www.data.srf.ch CNAME .
 startrekk.flaconi.at CNAME .
 startrekk.flaconi.fr CNAME .
@@ -288,7 +286,6 @@ web.e.pvccladding.com CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.pizzaexpress.com CNAME .
 web.email.pmtonline.co.uk CNAME .
-web.email.principality.co.uk CNAME .
 web.email.superga.co.uk CNAME .
 web.email.theindependentpharmacy.co.uk CNAME .
 web.email.topfarmacia.it CNAME .

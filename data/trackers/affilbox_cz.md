@@ -288,7 +288,6 @@
 | affilo.lingerio.cz | cz.affilbox.cz |
 | affilo.vivaboty.cz | cz.affilbox.cz |
 | affilpartner.descanti.com | cz.affilbox.cz |
-| affilpartneri.affilbusiness.cz | cz.affilbox.cz |
 | afill.e-potisk.cz | cz.affilbox.cz |
 | ambasadorky.zenyzenam.cz | cz.affilbox.cz |
 | ambassador.notsofunnyany.com | cz.affilbox.cz |
@@ -742,7 +741,6 @@
 | partneri.chytraopicka.cz | cz.affilbox.cz |
 | partneri.chytrykvetinac.cz | cz.affilbox.cz |
 | partneri.cvicenie-strava.sk | cz.affilbox.cz |
-| partneri.cviky-na-brucho.sk | cz.affilbox.cz |
 | partneri.danahanouskova.cz | cz.affilbox.cz |
 | partneri.dietavkrabicce.cz | cz.affilbox.cz |
 | partneri.dluhopisomat.cz | cz.affilbox.cz |

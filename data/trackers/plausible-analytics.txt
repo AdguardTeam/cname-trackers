@@ -34,7 +34,6 @@
 ||analytics.lunge.de^
 ||analytics.mambaui.com^
 ||analytics.martin-fieber.de^
-||analytics.mattmcadams.com^
 ||analytics.mc500.info^
 ||analytics.multithread.studio^
 ||analytics.mycater.fr^
@@ -127,7 +126,6 @@
 ||metrics.axiomatic-inc.com^
 ||metrics.creit.tech^
 ||metrics.earrieta.dev^
-||metrics.javierarcheni.com^
 ||metrics.recunia.de^
 ||momotaro.craigmod.com^
 ||momotaro.walkkumano.com^
@@ -378,7 +376,6 @@
 ||stats.asymptotic.io^
 ||stats.auto-dombrowski.de^
 ||stats.autofarm.network^
-||stats.autoscholarwithmrb.com^
 ||stats.balticgruppen.se^
 ||stats.bananatimer.com^
 ||stats.bcdtravel.com^
@@ -608,7 +605,6 @@
 ||stats.jhsheridan.com^
 ||stats.jjude.com^
 ||stats.joaopedro.dev^
-||stats.jpc.dev^
 ||stats.jsbible.com^
 ||stats.jtrees.io^
 ||stats.jun-etan.com^
@@ -634,7 +630,6 @@
 ||stats.kyushoku2050.org^
 ||stats.labibli.com^
 ||stats.laptopsin.space^
-||stats.larsroettig.dev^
 ||stats.lastfm.matthiasloibl.com^
 ||stats.latehours.net^
 ||stats.lauracpa.ca^
@@ -670,7 +665,6 @@
 ||stats.makerr.market^
 ||stats.makingknown.xyz^
 ||stats.maklerupdate.de^
-||stats.malizen.com^
 ||stats.malte-bartels.de^
 ||stats.martinbetz.eu^
 ||stats.martyntaylor.com^
@@ -789,7 +783,6 @@
 ||stats.reprage.com^
 ||stats.respkt.de^
 ||stats.reto.tv^
-||stats.retofunctional.com^
 ||stats.revitfamily.app^
 ||stats.rideinpeace.ie^
 ||stats.rightourhistoryhawaii.com^
@@ -912,7 +905,6 @@
 ||stats.westswindon-pc.gov.uk^
 ||stats.whenpigsflybbq.com^
 ||stats.whereisit5pmrightnow.com^
-||stats.wisebox.co^
 ||stats.wordvested.org^
 ||stats.world.hey.com^
 ||stats.wvs.org.uk^
@@ -947,7 +939,6 @@
 ||views.ericcapella.com^
 ||views.sikerlogistics.com^
 ||views.sikerproducts.com^
-||visite.scambi.org^
 ||visitorcenter.ioafw.com^
 ||visitorcenter.srwild.com^
 ||visitors.gigianddavid.com^

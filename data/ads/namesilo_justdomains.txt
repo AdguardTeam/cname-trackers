@@ -1013,7 +1013,6 @@
 993.notify.optimizesrv.com
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
-a.a3ion.com
 a.addisplaynetwork.com
 a.adsession.com
 a.advantageclicks.net
@@ -1070,7 +1069,6 @@ management.adxnow.com
 rtb.advertrek.com
 rtb.exoclick.com
 rtb.trafficfactory.com
-s.a3ion.com
 s.adnflow.com
 s.adsession.com
 s.advantageclicks.net
@@ -1136,6 +1134,7 @@ s.stuffserve.com
 s.tf4srv.com
 s.valuemedia-ltd.com
 s.vlink6.com
+s.vws4brkfst.com
 s.wlink1.com
 s.wlink2.com
 s.zlink1.com

@@ -221,7 +221,6 @@
 ||data-191b2429e8.rtlspiele.de^
 ||data-195efe600e.haus.de^
 ||data-196c083e38.heute.at^
-||data-19e0ce8844.computerbild.de^
 ||data-19e0ce8844.wieistmeineip.de^
 ||data-19f62f6612.druckerchannel.de^
 ||data-19f62f6612.druckkosten.de^
@@ -268,6 +267,7 @@
 ||data-1c0a3d83e3.transfermarkt.ru^
 ||data-1c0a3d83e3.transfermarkt.us^
 ||data-1c0a3d83e3.transfermarkt.world^
+||data-1c70f16ae2.newsflix.at^
 ||data-1c9505e4f1.digitalphoto.de^
 ||data-1ce541951d.apps.iocnt.de^
 ||data-1ce6da1e66.diabetes-news.de^
@@ -369,6 +369,7 @@
 ||data-2d86fd41e0.sternverlag.de^
 ||data-2d8c7b4f16.apps.iocnt.de^
 ||data-2db095276e.joyn.de^
+||data-2dd4c084f5.hektar.com^
 ||data-2e1c59efe0.apps.iocnt.de^
 ||data-2e91d05bea.bluray-disc.de^
 ||data-2ee2564ecd.ariva.de^
@@ -693,7 +694,6 @@
 ||data-4d33656d8f.watson.de^
 ||data-4d5c7c2be6.boden-wand-decke.de^
 ||data-4e46e5dc90.spektrum.de^
-||data-4e9ff460f2.autobild.de^
 ||data-4e9ff460f2.bike-bild.de^
 ||data-4eb828715f.apps.iocnt.de^
 ||data-4ede7e9c86.faz.de^
@@ -1684,6 +1684,7 @@
 ||data-c5740f79ff.ruhrnachrichten.de^
 ||data-c5740f79ff.stimberg-zeitung.de^
 ||data-c5740f79ff.waltroper-zeitung.de^
+||data-c5925d7d99.4players.de^
 ||data-c5925d7d99.buffed.de^
 ||data-c5925d7d99.gamesaktuell.de^
 ||data-c5925d7d99.gamesworld.de^
@@ -2172,6 +2173,7 @@
 ||data-f59db3288b.rosenheim24.de^
 ||data-f59db3288b.ruhr24.de^
 ||data-f59db3288b.sauerlandkurier.de^
+||data-f59db3288b.serienjunkies.de^
 ||data-f59db3288b.soester-anzeiger.de^
 ||data-f59db3288b.suedwest24.de^
 ||data-f59db3288b.torgranate.de^

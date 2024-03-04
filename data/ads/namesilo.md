@@ -19,7 +19,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| a.a3ion.com | 1208818836.rsc.cdn77.org |
 | a.addisplaynetwork.com | 1208818836.rsc.cdn77.org |
 | a.adsession.com | 1208818836.rsc.cdn77.org |
 | a.advantageclicks.net | 1208818836.rsc.cdn77.org |
@@ -37,6 +36,7 @@
 | a.slice.exchange | 1208818836.rsc.cdn77.org |
 | a.stuffserve.com | 1208818836.rsc.cdn77.org |
 | a.tf4srv.com | 1208818836.rsc.cdn77.org |
+| a.vws4brkfst.com | 1208818836.rsc.cdn77.org |
 | delivery.gettopple.com | 1208818836.rsc.cdn77.org |
 | main0.exosrv.com | a37zk9tr.ab1n.net |
 | syndication0.exoclick.com | a37zk9tr.ab1n.net |
@@ -1064,7 +1064,6 @@
 | main.exoclick.com | tk6if76q.ab1n.net |
 | main.exosrv.com | tk6if76q.ab1n.net |
 | main.realsrv.com | tk6if76q.ab1n.net |
-| s.a3ion.com | tk6if76q.ab1n.net |
 | s.adnflow.com | tk6if76q.ab1n.net |
 | s.adsession.com | tk6if76q.ab1n.net |
 | s.advantageclicks.net | tk6if76q.ab1n.net |
@@ -1129,6 +1128,7 @@
 | s.tf4srv.com | tk6if76q.ab1n.net |
 | s.valuemedia-ltd.com | tk6if76q.ab1n.net |
 | s.vlink6.com | tk6if76q.ab1n.net |
+| s.vws4brkfst.com | tk6if76q.ab1n.net |
 | s.wlink1.com | tk6if76q.ab1n.net |
 | s.wlink2.com | tk6if76q.ab1n.net |
 | s.zlink1.com | tk6if76q.ab1n.net |
@@ -1197,7 +1197,6 @@
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
 | admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | admin.trafficfactory.com | v3j9t5q9.ab1n.net |
-| a.a3ion.com | w2u4v9e1.ab1n.net |
 | a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
 | a.adsession.com | w2u4v9e1.ab1n.net |
 | a.advantageclicks.net | w2u4v9e1.ab1n.net |

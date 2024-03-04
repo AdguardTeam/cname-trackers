@@ -1535,8 +1535,6 @@
 ||betterhealthrewards.headuplabs.com^
 ||bettermedical-app.hotdoc.com.au^
 ||bfg.loanzify.app^
-||bh-test.groc.press^
-||bh.groc.press^
 ||bi.irisdating.com^
 ||bint.openapp.link^
 ||bio.chups.co^
@@ -1627,7 +1625,6 @@
 ||branch.locationlabs.com^
 ||branch.mapstr.com^
 ||branch.myoyster.mx^
-||branch.mypixie.co^
 ||branch.olamoney.com^
 ||branch.oneroof.co.nz^
 ||branch.oraleye.com^
@@ -1845,10 +1842,8 @@
 ||cz-velkykosik.m-shop.me^
 ||d-app.progressive.com^
 ||d-snapshotapp.progressive.com^
-||d-staging.groc.press^
 ||d.cybtel.com^
 ||d.delahorro.app^
-||d.groc.press^
 ||d.jugnoo.in^
 ||d.shopprecouriers.com^
 ||d.stay-app.com^
@@ -2089,7 +2084,6 @@
 ||friends.hyll.com^
 ||fscareers.epoise.com^
 ||fscareerstest.epoise.com^
-||ft.groc.press^
 ||ftp.happ.social^
 ||fullerton-app.hotdoc.com.au^
 ||furnituredl.istaging.co^
@@ -2099,7 +2093,6 @@
 ||g.staging.pathsha.re^
 ||g2048.rgluk.com^
 ||g993dvyzae.branch.salesfloor.net^
-||ga.groc.press^
 ||gallerysouvlakeri.openapp.link^
 ||games.ppwr.io^
 ||gawayez.e-postserv.com^
@@ -3031,7 +3024,6 @@
 ||link.immobilienscout24.at^
 ||link.imprint.co^
 ||link.imumz.com^
-||link.individuology.com^
 ||link.inklusiv.io^
 ||link.inoxmovies.com^
 ||link.inploi.com^
@@ -3195,7 +3187,6 @@
 ||link.sevencooks.com^
 ||link.sheeriz.com^
 ||link.shengcekeji.com^
-||link.shopbuo.com^
 ||link.shopview.in^
 ||link.shotgun.live^
 ||link.shuffoe.com^
@@ -3273,7 +3264,6 @@
 ||link.tradee.com^
 ||link.tradle.io^
 ||link.tribeup.social^
-||link.truckerpath.com^
 ||link.trycircle.com^
 ||link.trymida.com^
 ||link.trytaptab.com^
@@ -3452,7 +3442,6 @@
 ||listen.tunein.com^
 ||lk.parisfoodies.fr^
 ||lk.vrstories.com^
-||lm.groc.press^
 ||lnk-stg.welthee.com^
 ||lnk.culturetrip.com^
 ||lnk.dgsta.com^
@@ -3712,7 +3701,6 @@
 ||pizzaexpress.openapp.link^
 ||pizzaromea.openapp.link^
 ||pl-topgal.m-shop.me^
-||play.ab05.bet^
 ||play.b-t11.com^
 ||play.colorplay.fun^
 ||play.fanslide.com^
@@ -3790,7 +3778,6 @@
 ||racemanager-app.sapsailing.com^
 ||randstad.epoise.com^
 ||randstadtest.epoise.com^
-||rb.groc.press^
 ||read.meistercody.com^
 ||redditstream.arborapps.io^
 ||redirect.cuballama.com^
@@ -3832,7 +3819,6 @@
 ||rooms.itsme.video^
 ||roulette.abzorbagames.com^
 ||routes.navibration.com^
-||rr.groc.press^
 ||rtek-link.shares.social^
 ||rx-test.capsulecares.com^
 ||rx.capsulecares.com^
@@ -3871,8 +3857,6 @@
 ||sense.cliexa.com^
 ||setup.physiapp.com^
 ||sex.viralof.online^
-||sf-test.groc.press^
-||sf.groc.press^
 ||sf4567w2a56q.branch.salesfloor.net^
 ||sf5q8gbnve37.branch.salesfloor.net^
 ||sg.carousellmotors.com^
@@ -4003,8 +3987,6 @@
 ||sl.trycircle.com^
 ||slotabrosdev.zharev.com^
 ||slotabrosuat.zharev.com^
-||sm-test.groc.press^
-||sm.groc.press^
 ||sm.sylectus.com^
 ||sms.uphabit.com^
 ||smtp.happ.social^

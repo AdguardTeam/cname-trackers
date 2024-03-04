@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,7 +140,6 @@ www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -192,7 +191,6 @@ refer.basbleu.com CNAME .
 refer.batesfootwear.com CNAME .
 refer.bathandbodyworks.com CNAME .
 refer.baxterofcalifornia.com CNAME .
-refer.bioionic.com CNAME .
 refer.bobstores.com CNAME .
 refer.booksy.com CNAME .
 refer.bose.co.uk CNAME .
@@ -325,7 +323,6 @@ refer.ninjakitchen.com CNAME .
 refer.nso.com CNAME .
 refer.olehenriksen.com CNAME .
 refer.orbitz.com CNAME .
-refer.ouidad.com CNAME .
 refer.pacificservice.org CNAME .
 refer.pacsafe.com CNAME .
 refer.pacu.com CNAME .
@@ -446,7 +443,6 @@ share.alltrucu.org CNAME .
 share.anatomie.com CNAME .
 share.aplaceformom.com CNAME .
 share.app.com CNAME .
-share.applemontessorischools.com CNAME .
 share.ashleyhomestore.ca CNAME .
 share.asics.com CNAME .
 share.asurion.com CNAME .
@@ -703,5 +699,6 @@ em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
+em924.refer.starbucks.com CNAME .
 xtl._domainkey.skillshare.com CNAME .
 sftp.extole.com CNAME .

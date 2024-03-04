@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -280,7 +280,6 @@ affilo.janie.cz CNAME .
 affilo.lingerio.cz CNAME .
 affilo.vivaboty.cz CNAME .
 affilpartner.descanti.com CNAME .
-affilpartneri.affilbusiness.cz CNAME .
 afill.e-potisk.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassador.notsofunnyany.com CNAME .
@@ -734,7 +733,6 @@ partneri.cestovatelskyobchod.cz CNAME .
 partneri.chytraopicka.cz CNAME .
 partneri.chytrykvetinac.cz CNAME .
 partneri.cvicenie-strava.sk CNAME .
-partneri.cviky-na-brucho.sk CNAME .
 partneri.danahanouskova.cz CNAME .
 partneri.dietavkrabicce.cz CNAME .
 partneri.dluhopisomat.cz CNAME .

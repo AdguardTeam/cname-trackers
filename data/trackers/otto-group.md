@@ -48,7 +48,6 @@
     * tp-heine-at.oghub.io
     * tp-heine-de.oghub.io
     * tp-heine-shop-nl.oghub.io
-    * tp-imwalking-de.oghub.io
     * tp-jelmoli-shop-ch.oghub.io
     * tp-limango-de.oghub.io
     * tp-mirapodo-de.oghub.io
@@ -92,7 +91,6 @@
 | tp.heine.at | js.oghub.io |
 | tp.heine.ch | js.oghub.io |
 | tp.heine.de | js.oghub.io |
-| tp.imwalking.de | js.oghub.io |
 | tp.imwalking.de | js.oghub.io |
 | tp.jelmoli-shop.ch | js.oghub.io |
 | tp.limango.de | js.oghub.io |
@@ -217,7 +215,6 @@
 | tp.heine.at | tp-heine-at.oghub.io |
 | tp.heine.de | tp-heine-de.oghub.io |
 | tp.heine-shop.nl | tp-heine-shop-nl.oghub.io |
-| tp.imwalking.de | tp-imwalking-de.oghub.io |
 | tp.jelmoli-shop.ch | tp-jelmoli-shop-ch.oghub.io |
 | tp.limango.de | tp-limango-de.oghub.io |
 | tp.mirapodo.de | tp-mirapodo-de.oghub.io |

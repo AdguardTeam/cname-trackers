@@ -49,7 +49,6 @@
 | analytics.lunge.de | custom.plausible.io |
 | analytics.mambaui.com | custom.plausible.io |
 | analytics.martin-fieber.de | custom.plausible.io |
-| analytics.mattmcadams.com | custom.plausible.io |
 | analytics.mc500.info | custom.plausible.io |
 | analytics.multithread.studio | custom.plausible.io |
 | analytics.mycater.fr | custom.plausible.io |
@@ -142,7 +141,6 @@
 | metrics.axiomatic-inc.com | custom.plausible.io |
 | metrics.creit.tech | custom.plausible.io |
 | metrics.earrieta.dev | custom.plausible.io |
-| metrics.javierarcheni.com | custom.plausible.io |
 | metrics.recunia.de | custom.plausible.io |
 | momotaro.craigmod.com | custom.plausible.io |
 | momotaro.walkkumano.com | custom.plausible.io |
@@ -393,7 +391,6 @@
 | stats.asymptotic.io | custom.plausible.io |
 | stats.auto-dombrowski.de | custom.plausible.io |
 | stats.autofarm.network | custom.plausible.io |
-| stats.autoscholarwithmrb.com | custom.plausible.io |
 | stats.balticgruppen.se | custom.plausible.io |
 | stats.bananatimer.com | custom.plausible.io |
 | stats.bcdtravel.com | custom.plausible.io |
@@ -623,7 +620,6 @@
 | stats.jhsheridan.com | custom.plausible.io |
 | stats.jjude.com | custom.plausible.io |
 | stats.joaopedro.dev | custom.plausible.io |
-| stats.jpc.dev | custom.plausible.io |
 | stats.jsbible.com | custom.plausible.io |
 | stats.jtrees.io | custom.plausible.io |
 | stats.jun-etan.com | custom.plausible.io |
@@ -649,7 +645,6 @@
 | stats.kyushoku2050.org | custom.plausible.io |
 | stats.labibli.com | custom.plausible.io |
 | stats.laptopsin.space | custom.plausible.io |
-| stats.larsroettig.dev | custom.plausible.io |
 | stats.lastfm.matthiasloibl.com | custom.plausible.io |
 | stats.latehours.net | custom.plausible.io |
 | stats.lauracpa.ca | custom.plausible.io |
@@ -685,7 +680,6 @@
 | stats.makerr.market | custom.plausible.io |
 | stats.makingknown.xyz | custom.plausible.io |
 | stats.maklerupdate.de | custom.plausible.io |
-| stats.malizen.com | custom.plausible.io |
 | stats.malte-bartels.de | custom.plausible.io |
 | stats.martinbetz.eu | custom.plausible.io |
 | stats.martyntaylor.com | custom.plausible.io |
@@ -804,7 +798,6 @@
 | stats.reprage.com | custom.plausible.io |
 | stats.respkt.de | custom.plausible.io |
 | stats.reto.tv | custom.plausible.io |
-| stats.retofunctional.com | custom.plausible.io |
 | stats.revitfamily.app | custom.plausible.io |
 | stats.rideinpeace.ie | custom.plausible.io |
 | stats.rightourhistoryhawaii.com | custom.plausible.io |
@@ -927,7 +920,6 @@
 | stats.westswindon-pc.gov.uk | custom.plausible.io |
 | stats.whenpigsflybbq.com | custom.plausible.io |
 | stats.whereisit5pmrightnow.com | custom.plausible.io |
-| stats.wisebox.co | custom.plausible.io |
 | stats.wordvested.org | custom.plausible.io |
 | stats.world.hey.com | custom.plausible.io |
 | stats.wvs.org.uk | custom.plausible.io |
@@ -962,7 +954,6 @@
 | views.ericcapella.com | custom.plausible.io |
 | views.sikerlogistics.com | custom.plausible.io |
 | views.sikerproducts.com | custom.plausible.io |
-| visite.scambi.org | custom.plausible.io |
 | visitorcenter.ioafw.com | custom.plausible.io |
 | visitorcenter.srwild.com | custom.plausible.io |
 | visitors.gigianddavid.com | custom.plausible.io |

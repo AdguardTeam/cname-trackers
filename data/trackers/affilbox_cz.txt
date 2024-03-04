@@ -269,7 +269,6 @@
 ||affilo.lingerio.cz^
 ||affilo.vivaboty.cz^
 ||affilpartner.descanti.com^
-||affilpartneri.affilbusiness.cz^
 ||afill.e-potisk.cz^
 ||ambasadorky.zenyzenam.cz^
 ||ambassador.notsofunnyany.com^
@@ -723,7 +722,6 @@
 ||partneri.chytraopicka.cz^
 ||partneri.chytrykvetinac.cz^
 ||partneri.cvicenie-strava.sk^
-||partneri.cviky-na-brucho.sk^
 ||partneri.danahanouskova.cz^
 ||partneri.dietavkrabicce.cz^
 ||partneri.dluhopisomat.cz^

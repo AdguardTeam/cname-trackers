@@ -8,7 +8,6 @@
 ### Rarely active trackers
 
 * api.clickaine.com
-* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -206,7 +205,6 @@
 | as1.maturexxx.vip | 0i0i0i0.com |
 | ascc.javquick.com | 0i0i0i0.com |
 | asdf.eldos.xyz | 0i0i0i0.com |
-| asg.allweb.click | 0i0i0i0.com |
 | asg.animehdl.net | 0i0i0i0.com |
 | asg.aphex.me | 0i0i0i0.com |
 | asg.asian-av.com | 0i0i0i0.com |
@@ -458,6 +456,7 @@
 | lol.globlax.com | 0i0i0i0.com |
 | loop.bengali-sex-video.com | 0i0i0i0.com |
 | losa.mkace.net | 0i0i0i0.com |
+| luckyz.xyz | 0i0i0i0.com |
 | lx5.homeporntuber.com | 0i0i0i0.com |
 | m.bloblohub.com | 0i0i0i0.com |
 | m.x-power.info | 0i0i0i0.com |
@@ -523,6 +522,7 @@
 | npbvqqkpuele.cdnvideo3.com | 0i0i0i0.com |
 | nx7.hdxxxclips.com | 0i0i0i0.com |
 | o.hotsextube.tv | 0i0i0i0.com |
+| o.xofilmes.com | 0i0i0i0.com |
 | o313o.com | 0i0i0i0.com |
 | o911o.com | 0i0i0i0.com |
 | oi.429men.com | 0i0i0i0.com |
@@ -544,6 +544,7 @@
 | ok.faptor.com | 0i0i0i0.com |
 | ok.hqbang.com | 0i0i0i0.com |
 | ok.starwank.com | 0i0i0i0.com |
+| oldsia.xyz | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | orznp.spinna.store | 0i0i0i0.com |
 | outya.xyz | 0i0i0i0.com |
@@ -565,6 +566,7 @@
 | parkurl.com | 0i0i0i0.com |
 | pempiz.xyz | 0i0i0i0.com |
 | penapne.xyz | 0i0i0i0.com |
+| penguest.xyz | 0i0i0i0.com |
 | perke.xxxpornhd.pro | 0i0i0i0.com |
 | pihu.xxxpornhd.pro | 0i0i0i0.com |
 | pivo.tracked.one | 0i0i0i0.com |
@@ -590,8 +592,8 @@
 | q.ikre.xyz | 0i0i0i0.com |
 | q.kvovs.xyz | 0i0i0i0.com |
 | q.leru.xyz | 0i0i0i0.com |
+| q.roovs.xyz | 0i0i0i0.com |
 | qhip.com | 0i0i0i0.com |
-| qoqv.com | 0i0i0i0.com |
 | qoutec.shop | 0i0i0i0.com |
 | qovua60gue.tubewolf.com | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
@@ -604,6 +606,7 @@
 | qx0.xnxxtubevideos.com | 0i0i0i0.com |
 | r.archertube.com | 0i0i0i0.com |
 | r.erohabu.com | 0i0i0i0.com |
+| r.eroticos.tv | 0i0i0i0.com |
 | r.freeadultporn.tv | 0i0i0i0.com |
 | r.tropictube.com | 0i0i0i0.com |
 | rdx.javmotion.com | 0i0i0i0.com |
@@ -681,6 +684,7 @@
 | tacumi.xyz | 0i0i0i0.com |
 | tagbucks.xyz | 0i0i0i0.com |
 | tagmai.xyz | 0i0i0i0.com |
+| tagrua.xyz | 0i0i0i0.com |
 | tagun.xyz | 0i0i0i0.com |
 | tangpuax.xyz | 0i0i0i0.com |
 | tankiuz.xyz | 0i0i0i0.com |
@@ -743,7 +747,6 @@
 | www.javtvnow.xyz | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
 | www.monsoonlassi.com | 0i0i0i0.com |
-| www.pelisestreno.cc | 0i0i0i0.com |
 | www.pleasedonotblockme.com | 0i0i0i0.com |
 | www.pornvideos.casa | 0i0i0i0.com |
 | www.spinna.shop | 0i0i0i0.com |
@@ -793,4 +796,3 @@
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | plutoclean.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
-| h-ay.com | u53.hypnorat.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -434,7 +434,6 @@ metrics.academy.com CNAME .
 metrics.accuweather.com CNAME .
 metrics.aclu.org CNAME .
 metrics.active.com CNAME .
-metrics.adt.com CNAME .
 metrics.advancedmd.com CNAME .
 metrics.aeo.com CNAME .
 metrics.aetnamedicare.com CNAME .
@@ -488,7 +487,6 @@ metrics.cbc.ca CNAME .
 metrics.cgu.com.au CNAME .
 metrics.chatrwireless.com CNAME .
 metrics.chghealthcare.com CNAME .
-metrics.chron.com CNAME .
 metrics.ci.model.plymouthrocknj.com CNAME .
 metrics.citimortgage.com CNAME .
 metrics.claires.com CNAME .
@@ -532,7 +530,6 @@ metrics.ehc.com CNAME .
 metrics.eiu.com CNAME .
 metrics.elle.co.jp CNAME .
 metrics.ellechina.com CNAME .
-metrics.eloan.com CNAME .
 metrics.ems.com CNAME .
 metrics.ereplacementparts.com CNAME .
 metrics.esignal.com CNAME .
@@ -750,7 +747,6 @@ metrics.rydahls.se CNAME .
 metrics.sce.com CNAME .
 metrics.schooloutfitters.com CNAME .
 metrics.scottishpower.co.uk CNAME .
-metrics.sfchronicle.com CNAME .
 metrics.sgic.com.au CNAME .
 metrics.sharecare.com CNAME .
 metrics.shinseibank.com CNAME .
@@ -1399,7 +1395,6 @@ smetrics.mybonuscenter.com CNAME .
 smetrics.myfreestyle.com CNAME .
 smetrics.mylifestages.org CNAME .
 smetrics.myrecipes.com CNAME .
-smetrics.mysanantonio.com CNAME .
 smetrics.mysensiva.com CNAME .
 smetrics.nadaguides.com CNAME .
 smetrics.nationalbusinessfurniture.com CNAME .
@@ -14852,7 +14847,6 @@ somni.rocketmortgage.ca CNAME .
 somni.rocketmortgagesquares.com CNAME .
 somni.rocketpro.com CNAME .
 somni.rocketprotpo.com CNAME .
-somni.rocketsolar.com CNAME .
 somni.serve.com CNAME .
 somni.suntrust.com CNAME .
 somni.syf.com CNAME .
@@ -18534,7 +18528,6 @@ metrics.cedars-sinai.org CNAME .
 metrics.cellcept.com CNAME .
 metrics.census.gov CNAME .
 metrics.centurylink.com CNAME .
-metrics.cezigue.fr CNAME .
 metrics.channelfutures.com CNAME .
 metrics.chapters.indigo.ca CNAME .
 metrics.chicagobusiness.com CNAME .
@@ -18808,7 +18801,6 @@ metrics.lexus.com CNAME .
 metrics.libertymutual.com CNAME .
 metrics.lifetime.life CNAME .
 metrics.liverpool.com.mx CNAME .
-metrics.lmtonline.com CNAME .
 metrics.loblaws.ca CNAME .
 metrics.lolesports.com CNAME .
 metrics.lovefilm.com CNAME .
@@ -20000,7 +19992,6 @@ smetrics.1800contacts.com CNAME .
 smetrics.21nova.com CNAME .
 smetrics.24hourfitness.com CNAME .
 smetrics.28degreescard.com.au CNAME .
-smetrics.31metrescarres.fr CNAME .
 smetrics.3m.com CNAME .
 smetrics.7eleven.com.au CNAME .
 smetrics.915thebeat.com CNAME .
@@ -20031,7 +20022,6 @@ smetrics.activenetwork.com CNAME .
 smetrics.adage.com CNAME .
 smetrics.addabilify.com CNAME .
 smetrics.adiglobal.us CNAME .
-smetrics.adt.com CNAME .
 smetrics.adult.prevnar13.com CNAME .
 smetrics.aelca.es CNAME .
 smetrics.aem.playstation.com CNAME .
@@ -20260,7 +20250,6 @@ smetrics.cellcept.com CNAME .
 smetrics.celticarehealthplan.com CNAME .
 smetrics.centex.com CNAME .
 smetrics.centurylink.com CNAME .
-smetrics.cezigue.fr CNAME .
 smetrics.cfainstitute.org CNAME .
 smetrics.cfox.com CNAME .
 smetrics.cfshops.com CNAME .
@@ -20762,7 +20751,6 @@ smetrics.leasy.com CNAME .
 smetrics.leasy.dk CNAME .
 smetrics.leasy.se CNAME .
 smetrics.legalandgeneral.com CNAME .
-smetrics.lesbonnesbouilles.fr CNAME .
 smetrics.lexus.com CNAME .
 smetrics.libertymutual.com CNAME .
 smetrics.lidea.today CNAME .
@@ -21117,7 +21105,6 @@ smetrics.royalcaribbean.com CNAME .
 smetrics.rozlytrek.com CNAME .
 smetrics.rtl.nl CNAME .
 smetrics.rubbernews.com CNAME .
-smetrics.runbabyrun.fr CNAME .
 smetrics.sainsburysbank.co.uk CNAME .
 smetrics.saks.com CNAME .
 smetrics.saksoff5th.com CNAME .
@@ -21199,7 +21186,6 @@ smetrics.sho.com CNAME .
 smetrics.shop.superstore.ca CNAME .
 smetrics.shopjapan.co.jp CNAME .
 smetrics.shopmyexchange.com CNAME .
-smetrics.shopoon.fr CNAME .
 smetrics.shoppersdrugmart.ca CNAME .
 smetrics.shoppremiumoutlets.com CNAME .
 smetrics.showcase.ca CNAME .
@@ -21566,7 +21552,6 @@ smetrics.xolairhcp.com CNAME .
 smetrics.y108.ca CNAME .
 smetrics.yellow.com.au CNAME .
 smetrics.yellowpages.com.au CNAME .
-smetrics.yourconroenews.com CNAME .
 smetrics.yourheartyourdecision.com CNAME .
 smetrics.yourindependentgrocer.ca CNAME .
 smetrics.zagg.com CNAME .
@@ -22497,8 +22482,12 @@ csvtt.bmolife.com CNAME .
 csvtu.bmolending.com CNAME .
 metrics.adobeprimetime.com CNAME .
 metrics.cartoonnetworkla.com CNAME .
+metrics.chron.com CNAME .
+metrics.sfchronicle.com CNAME .
 metrics.yourconroenews.com CNAME .
 smetrics.lmtonline.com CNAME .
+smetrics.mysanantonio.com CNAME .
+smetrics.yourconroenews.com CNAME .
 smetrics.sharekhan.com CNAME .
 t3e.firstchoice.co.uk CNAME .
 visualscience.external.bbc.co.uk CNAME .

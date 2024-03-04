@@ -20,6 +20,7 @@
 * unibotscdn.b-cdn.net
 * consent.b-cdn.net
 * b-cdn.net
+* fnd.info
 
 ## Cloaking domains
 
@@ -178,7 +179,6 @@
 | bison.stuffmatic.com | deprecated-custom-domains.b-cdn.net |
 | bison.weitweit.at | deprecated-custom-domains.b-cdn.net |
 | blackbird.docstation.co | deprecated-custom-domains.b-cdn.net |
-| blackbird.everythinginmoderation.co | deprecated-custom-domains.b-cdn.net |
 | blackbird.stickerclub.org | deprecated-custom-domains.b-cdn.net |
 | bluejay.edgesoftware.cloud | deprecated-custom-domains.b-cdn.net |
 | bluejay.postmediagroup.com | deprecated-custom-domains.b-cdn.net |
@@ -234,7 +234,6 @@
 | cat.gfx.io | deprecated-custom-domains.b-cdn.net |
 | cat.laravel-news.com | deprecated-custom-domains.b-cdn.net |
 | cat.mattr.global | deprecated-custom-domains.b-cdn.net |
-| cat.remotefit.io | deprecated-custom-domains.b-cdn.net |
 | cat.serverless.quest | deprecated-custom-domains.b-cdn.net |
 | cat.sprucely.net | deprecated-custom-domains.b-cdn.net |
 | cat.thisminute.app | deprecated-custom-domains.b-cdn.net |
@@ -333,7 +332,6 @@
 | deer.m1x.co | deprecated-custom-domains.b-cdn.net |
 | deer.ray.io | deprecated-custom-domains.b-cdn.net |
 | dingo.moehring.dev | deprecated-custom-domains.b-cdn.net |
-| dog.airfieldhub.com | deprecated-custom-domains.b-cdn.net |
 | dog.christinamoore.us | deprecated-custom-domains.b-cdn.net |
 | dog.franchisesocial.co.uk | deprecated-custom-domains.b-cdn.net |
 | dog.ghvenue.com | deprecated-custom-domains.b-cdn.net |
@@ -442,7 +440,6 @@
 | gerbil.downtown-mafia.com | deprecated-custom-domains.b-cdn.net |
 | gerbil.lost.design | deprecated-custom-domains.b-cdn.net |
 | gerbil.recipe-ipsum.com | deprecated-custom-domains.b-cdn.net |
-| giraffe.fnd.info | deprecated-custom-domains.b-cdn.net |
 | giraffe.talktalent.com | deprecated-custom-domains.b-cdn.net |
 | giraffe.viatorci.com | deprecated-custom-domains.b-cdn.net |
 | goat.aicontentdojo.com | deprecated-custom-domains.b-cdn.net |
@@ -870,7 +867,6 @@
 | silkworm.preventingsuicideinsussex.org | deprecated-custom-domains.b-cdn.net |
 | silkworm.waspexpert.com | deprecated-custom-domains.b-cdn.net |
 | silkworm.westwoodmbc.org | deprecated-custom-domains.b-cdn.net |
-| silverfish.camaleon.gt | deprecated-custom-domains.b-cdn.net |
 | silverfish.dailybuilds.com | deprecated-custom-domains.b-cdn.net |
 | silverfish.djordjevanjek.com | deprecated-custom-domains.b-cdn.net |
 | skink.asorman.io | deprecated-custom-domains.b-cdn.net |
@@ -898,7 +894,6 @@
 | spoonbill.shawnprice.com | deprecated-custom-domains.b-cdn.net |
 | squid.adart.cc | deprecated-custom-domains.b-cdn.net |
 | squid.antevo.com.au | deprecated-custom-domains.b-cdn.net |
-| squirrel.cividi.ch | deprecated-custom-domains.b-cdn.net |
 | squirrel.cobaltconnect.com | deprecated-custom-domains.b-cdn.net |
 | squirrel.laravel-mix.com | deprecated-custom-domains.b-cdn.net |
 | starfish.taskflow.io | deprecated-custom-domains.b-cdn.net |
@@ -1044,6 +1039,7 @@
 | yak.flutterblog.net | deprecated-custom-domains.b-cdn.net |
 | yak.gregsullivan.com | deprecated-custom-domains.b-cdn.net |
 | yak.withlindy.com | deprecated-custom-domains.b-cdn.net |
+| giraffe.fnd.info | fnd.info |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.adevbom.com | popcashjs.b-cdn.net |
 | cdn.adevppl.com | popcashjs.b-cdn.net |

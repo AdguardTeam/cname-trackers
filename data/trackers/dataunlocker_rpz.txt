@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -91,6 +91,7 @@ jiktq0fr9hv6.meleton.ru CNAME .
 k1usj3j6p706.dev.app.fika.community CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 li3k4d70ig52.resourceya.com CNAME .
+lofo3l15c674.platform.replai.io CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
 m4zoxtrcea1k.controlconceptsusa.com CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .

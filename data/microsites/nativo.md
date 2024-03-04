@@ -6,7 +6,6 @@
     * edge.ntv.io
 * ntvpforever.com
 * postrelease.com
-    * jadserve.postrelease.com
 
 ### Rarely active trackers
 
@@ -20,14 +19,6 @@
 | img.nativo.net | a1082.g.akamai.net |
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
-| a135.actionnewsjax.com | jadserve.postrelease.com |
-| a135.fox23.com | jadserve.postrelease.com |
-| a135.kiro7.com | jadserve.postrelease.com |
-| a135.wftv.com | jadserve.postrelease.com |
-| gva.share.ntv.io | jadserve.postrelease.com |
-| mlive.share.ntv.io | jadserve.postrelease.com |
-| share.ntv.io | jadserve.postrelease.com |
-| shared.sponsoredcontent.com | jadserve.postrelease.com |
 | 00f62a6f1c.8f0f3b8464.com | ntvpforever.com |
 | 022e699eb8.0497496f94.com | ntvpforever.com |
 | 027c544b22.70b4723db6.com | ntvpforever.com |
@@ -71,7 +62,6 @@
 | 20ddfbe344.7179c5492e.com | ntvpforever.com |
 | 212dc8d866.4a4a9db4ab.com | ntvpforever.com |
 | 213d2867ca.22ddebb169.com | ntvpforever.com |
-| 234e54cf56.e9f1af32f6.com | ntvpforever.com |
 | 2482cc116f.6105265d75.com | ntvpforever.com |
 | 24dbfd6c10.cebee32295.com | ntvpforever.com |
 | 276fbbc3fa.b5cecad47f.com | ntvpforever.com |
@@ -179,7 +169,6 @@
 | 651a584f5e.6c078023c1.com | ntvpforever.com |
 | 659cf6a582.a5c431d2e7.com | ntvpforever.com |
 | 65f952e85a.efebe8adb2.com | ntvpforever.com |
-| 67116813c6.89504d460b.com | ntvpforever.com |
 | 68c2f33440.691c37268a.com | ntvpforever.com |
 | 696a867e8a.e048fe379c.com | ntvpforever.com |
 | 69bd7e11c0.21f926d5ab.com | ntvpforever.com |
@@ -219,7 +208,6 @@
 | 84eeafa1d9.f02fa5826c.com | ntvpforever.com |
 | 856267c01d.41bcf8ddc1.com | ntvpforever.com |
 | 8577616b81.2045683976.com | ntvpforever.com |
-| 85ee48afef.479d86c670.com | ntvpforever.com |
 | 85fb7313d7.77e74062b1.com | ntvpforever.com |
 | 8863ee5a75.fe70a4ad4b.com | ntvpforever.com |
 | 89af0d0300.3862ce0006.com | ntvpforever.com |
@@ -237,7 +225,6 @@
 | 935d005ddf.42aa201382.com | ntvpforever.com |
 | 93cbb96d0d.75d1222852.com | ntvpforever.com |
 | 9590c92334.e0a38ec1d8.com | ntvpforever.com |
-| 95bb3314e7.66efeb9730.com | ntvpforever.com |
 | 9625e76603.9168bb21b4.com | ntvpforever.com |
 | 96d4f49a24.035adbe0d7.com | ntvpforever.com |
 | 9886b79e62.b785f3975b.com | ntvpforever.com |
@@ -255,9 +242,7 @@
 | 9ea415bca3.0816086bd1.com | ntvpforever.com |
 | 9fd272d79c.2f16d429ce.com | ntvpforever.com |
 | a0603102f5.5a9b48f0db.com | ntvpforever.com |
-| a10b5740ba.239333b133.com | ntvpforever.com |
 | a15d7c11f7.4e2c896383.com | ntvpforever.com |
-| a390770006.41291ba668.com | ntvpforever.com |
 | a9d40d3ddf.7811f1c9ec.com | ntvpforever.com |
 | ac91c791af.33508a34c3.com | ntvpforever.com |
 | acb1c4e96e.41033fcd44.com | ntvpforever.com |
@@ -366,6 +351,5 @@
 | ff6840b5f0.338d2db673.com | ntvpforever.com |
 | i.selecttopoff.com | ntvpforever.com |
 | a235.chron.com | unavailable.hearstnp.com |
-| a235.greenwichtime.com | unavailable.hearstnp.com |
 | a235.ourmidland.com | unavailable.hearstnp.com |
 | a235.seattlepi.com | unavailable.hearstnp.com |

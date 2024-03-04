@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -257,7 +257,6 @@ bison.streamclocks.com CNAME .
 bison.stuffmatic.com CNAME .
 bison.weitweit.at CNAME .
 blackbird.docstation.co CNAME .
-blackbird.everythinginmoderation.co CNAME .
 blackbird.stickerclub.org CNAME .
 bluejay.edgesoftware.cloud CNAME .
 bluejay.postmediagroup.com CNAME .
@@ -313,7 +312,6 @@ cat.beunitedinchrist.com CNAME .
 cat.gfx.io CNAME .
 cat.laravel-news.com CNAME .
 cat.mattr.global CNAME .
-cat.remotefit.io CNAME .
 cat.serverless.quest CNAME .
 cat.sprucely.net CNAME .
 cat.thisminute.app CNAME .
@@ -412,7 +410,6 @@ damselfly.vegenook.com CNAME .
 deer.m1x.co CNAME .
 deer.ray.io CNAME .
 dingo.moehring.dev CNAME .
-dog.airfieldhub.com CNAME .
 dog.christinamoore.us CNAME .
 dog.franchisesocial.co.uk CNAME .
 dog.ghvenue.com CNAME .
@@ -521,7 +518,6 @@ gerbil.clapsaddleart.com CNAME .
 gerbil.downtown-mafia.com CNAME .
 gerbil.lost.design CNAME .
 gerbil.recipe-ipsum.com CNAME .
-giraffe.fnd.info CNAME .
 giraffe.talktalent.com CNAME .
 giraffe.viatorci.com CNAME .
 goat.aicontentdojo.com CNAME .
@@ -949,7 +945,6 @@ silkworm.hoprnet.io CNAME .
 silkworm.preventingsuicideinsussex.org CNAME .
 silkworm.waspexpert.com CNAME .
 silkworm.westwoodmbc.org CNAME .
-silverfish.camaleon.gt CNAME .
 silverfish.dailybuilds.com CNAME .
 silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
@@ -977,7 +972,6 @@ spoonbill.deknot.io CNAME .
 spoonbill.shawnprice.com CNAME .
 squid.adart.cc CNAME .
 squid.antevo.com.au CNAME .
-squirrel.cividi.ch CNAME .
 squirrel.cobaltconnect.com CNAME .
 squirrel.laravel-mix.com CNAME .
 starfish.taskflow.io CNAME .
@@ -1184,3 +1178,4 @@ static.nfly.cc CNAME .
 static.xlyyzx.sbs CNAME .
 thirty-good.lugg.com CNAME .
 video.adsninja.ca CNAME .
+giraffe.fnd.info CNAME .

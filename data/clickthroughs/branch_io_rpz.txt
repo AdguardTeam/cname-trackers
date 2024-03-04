@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1546,8 +1546,6 @@ beta-link.liilix.com CNAME .
 betterhealthrewards.headuplabs.com CNAME .
 bettermedical-app.hotdoc.com.au CNAME .
 bfg.loanzify.app CNAME .
-bh-test.groc.press CNAME .
-bh.groc.press CNAME .
 bi.irisdating.com CNAME .
 bint.openapp.link CNAME .
 bio.chups.co CNAME .
@@ -1638,7 +1636,6 @@ branch.link.loop.net.nz CNAME .
 branch.locationlabs.com CNAME .
 branch.mapstr.com CNAME .
 branch.myoyster.mx CNAME .
-branch.mypixie.co CNAME .
 branch.olamoney.com CNAME .
 branch.oneroof.co.nz CNAME .
 branch.oraleye.com CNAME .
@@ -1856,10 +1853,8 @@ cz-tropicliberec.m-shop.me CNAME .
 cz-velkykosik.m-shop.me CNAME .
 d-app.progressive.com CNAME .
 d-snapshotapp.progressive.com CNAME .
-d-staging.groc.press CNAME .
 d.cybtel.com CNAME .
 d.delahorro.app CNAME .
-d.groc.press CNAME .
 d.jugnoo.in CNAME .
 d.shopprecouriers.com CNAME .
 d.stay-app.com CNAME .
@@ -2100,7 +2095,6 @@ fraudandcyberawareness.safeguard.hsbc.com CNAME .
 friends.hyll.com CNAME .
 fscareers.epoise.com CNAME .
 fscareerstest.epoise.com CNAME .
-ft.groc.press CNAME .
 ftp.happ.social CNAME .
 fullerton-app.hotdoc.com.au CNAME .
 furnituredl.istaging.co CNAME .
@@ -2110,7 +2104,6 @@ g.pathsha.re CNAME .
 g.staging.pathsha.re CNAME .
 g2048.rgluk.com CNAME .
 g993dvyzae.branch.salesfloor.net CNAME .
-ga.groc.press CNAME .
 gallerysouvlakeri.openapp.link CNAME .
 games.ppwr.io CNAME .
 gawayez.e-postserv.com CNAME .
@@ -3042,7 +3035,6 @@ link.igglo.com CNAME .
 link.immobilienscout24.at CNAME .
 link.imprint.co CNAME .
 link.imumz.com CNAME .
-link.individuology.com CNAME .
 link.inklusiv.io CNAME .
 link.inoxmovies.com CNAME .
 link.inploi.com CNAME .
@@ -3206,7 +3198,6 @@ link.setyawan.dev CNAME .
 link.sevencooks.com CNAME .
 link.sheeriz.com CNAME .
 link.shengcekeji.com CNAME .
-link.shopbuo.com CNAME .
 link.shopview.in CNAME .
 link.shotgun.live CNAME .
 link.shuffoe.com CNAME .
@@ -3284,7 +3275,6 @@ link.touchsurgery.com CNAME .
 link.tradee.com CNAME .
 link.tradle.io CNAME .
 link.tribeup.social CNAME .
-link.truckerpath.com CNAME .
 link.trycircle.com CNAME .
 link.trymida.com CNAME .
 link.trytaptab.com CNAME .
@@ -3463,7 +3453,6 @@ listen.trakks.com CNAME .
 listen.tunein.com CNAME .
 lk.parisfoodies.fr CNAME .
 lk.vrstories.com CNAME .
-lm.groc.press CNAME .
 lnk-stg.welthee.com CNAME .
 lnk.culturetrip.com CNAME .
 lnk.dgsta.com CNAME .
@@ -3723,7 +3712,6 @@ pizzacamels.openapp.link CNAME .
 pizzaexpress.openapp.link CNAME .
 pizzaromea.openapp.link CNAME .
 pl-topgal.m-shop.me CNAME .
-play.ab05.bet CNAME .
 play.b-t11.com CNAME .
 play.colorplay.fun CNAME .
 play.fanslide.com CNAME .
@@ -3801,7 +3789,6 @@ r.rover.com CNAME .
 racemanager-app.sapsailing.com CNAME .
 randstad.epoise.com CNAME .
 randstadtest.epoise.com CNAME .
-rb.groc.press CNAME .
 read.meistercody.com CNAME .
 redditstream.arborapps.io CNAME .
 redirect.cuballama.com CNAME .
@@ -3843,7 +3830,6 @@ rooms.itsme.cool CNAME .
 rooms.itsme.video CNAME .
 roulette.abzorbagames.com CNAME .
 routes.navibration.com CNAME .
-rr.groc.press CNAME .
 rtek-link.shares.social CNAME .
 rx-test.capsulecares.com CNAME .
 rx.capsulecares.com CNAME .
@@ -3882,8 +3868,6 @@ send.merit.me CNAME .
 sense.cliexa.com CNAME .
 setup.physiapp.com CNAME .
 sex.viralof.online CNAME .
-sf-test.groc.press CNAME .
-sf.groc.press CNAME .
 sf4567w2a56q.branch.salesfloor.net CNAME .
 sf5q8gbnve37.branch.salesfloor.net CNAME .
 sg.carousellmotors.com CNAME .
@@ -4014,8 +3998,6 @@ skosgrill.openapp.link CNAME .
 sl.trycircle.com CNAME .
 slotabrosdev.zharev.com CNAME .
 slotabrosuat.zharev.com CNAME .
-sm-test.groc.press CNAME .
-sm.groc.press CNAME .
 sm.sylectus.com CNAME .
 sms.uphabit.com CNAME .
 smtp.happ.social CNAME .

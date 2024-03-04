@@ -147,7 +147,6 @@
     * anatomie.extole.io
     * aon.extole.io
     * aplaceformom.extole.io
-    * applemontessorischools.extole.io
     * artcom.extole.io
     * ashleyfurniturehomestore.extole.io
     * ashleyhomestore.extole.io
@@ -179,7 +178,6 @@
     * beaspermdonor.extole.io
     * becu.extole.io
     * biblejourney.extole.io
-    * bioionic.extole.io
     * bjs.extole.io
     * bobstores.extole.io
     * boden-au.extole.io
@@ -406,7 +404,6 @@
     * opploans.extole.io
     * orbitz.extole.io
     * origins.extole.io
-    * ouidad.extole.io
     * pacific-service.extole.io
     * pacsafe.extole.io
     * pacu.extole.io
@@ -490,7 +487,6 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -617,7 +613,6 @@
 | refer.nso.com | aon.extole.io |
 | share.aplaceformom.com | aplaceformom.extole.io |
 | refer.app.com | app.extole.com |
-| share.applemontessorischools.com | applemontessorischools.extole.io |
 | refer.art.com | artcom.extole.io |
 | refer.ashleyfurniture.com | ashleyfurniturehomestore.extole.io |
 | refer.ashleyfurniturehomestore.com | ashleyfurniturehomestore.extole.io |
@@ -656,7 +651,6 @@
 | share.becu.org | becu.extole.io |
 | refer.betterbraces.com | betterbraces.extole.com |
 | share.biblejourney.com | biblejourney.extole.io |
-| refer.bioionic.com | bioionic.extole.io |
 | share.bjs.com | bjs.extole.io |
 | indique.bemmaisseguro.com | bms-br.extole.com |
 | refer.bobstores.com | bobstores.extole.io |
@@ -1023,7 +1017,6 @@
 | refer.orbitz.com | orbitz.extole.io |
 | refer.orientaltrading.com | oriental-trading.extole.com |
 | share.origins.com | origins.extole.io |
-| refer.ouidad.com | ouidad.extole.io |
 | refer.ofx.com | ozforex-au.extole.com |
 | refer.ozforex.com.au | ozforex-au.extole.com |
 | refer.nzforex.co.nz | ozforex-nz.extole.com |
@@ -1146,7 +1139,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |

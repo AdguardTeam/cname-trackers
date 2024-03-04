@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -111,7 +111,6 @@ a8.eonet.ne.jp CNAME .
 a8.epauler.co.jp CNAME .
 a8.epo.info CNAME .
 a8.erasutamo.onlinestaff.jp CNAME .
-a8.everest.ac CNAME .
 a8.evertrust-inc.com CNAME .
 a8.exam-katekyo.com CNAME .
 a8.exetime.jp CNAME .
@@ -272,7 +271,6 @@ a8.route-roller.info CNAME .
 a8.runway-harmonia.co.jp CNAME .
 a8.ryugaku.kuraveil.jp CNAME .
 a8.sakemuseum.com CNAME .
-a8.sakuradome-direct.com CNAME .
 a8.sakuramobile.jp CNAME .
 a8.sakuratravel.jp CNAME .
 a8.sara-uv.com CNAME .
@@ -415,7 +413,6 @@ a8clk.ands-tech.com CNAME .
 a8clk.angeliebe.co.jp CNAME .
 a8clk.aoki-style.com CNAME .
 a8clk.ap.livede55.com CNAME .
-a8clk.app.iioffice.net CNAME .
 a8clk.app.offerbox.jp CNAME .
 a8clk.apply-shop.menu.inc CNAME .
 a8clk.asahi-net.or.jp CNAME .
@@ -1117,7 +1114,6 @@ a8cv.physiqueframe.com CNAME .
 a8cv.picksitter.com CNAME .
 a8cv.pigeon-fw.com CNAME .
 a8cv.pilates-k.jp CNAME .
-a8cv.player.iam-ist.jp CNAME .
 a8cv.pocket-sommelier.com CNAME .
 a8cv.postcoffee.co CNAME .
 a8cv.pre-sana.com CNAME .
@@ -1497,7 +1493,6 @@ cv.xn--zbs202g.com CNAME .
 cv.zephylrin-x.net CNAME .
 cv1.start-eo.jp CNAME .
 cv1.stefany.co.jp CNAME .
-cvtk01.gmo-agree.com CNAME .
 dwuzxuvwlq.winticket.jp CNAME .
 electricity2.tokyu-ps.jp CNAME .
 ems-a8net-tracking.easy-myshop.jp CNAME .

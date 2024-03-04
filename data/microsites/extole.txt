@@ -129,7 +129,6 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em924.refer.starbucks.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -181,7 +180,6 @@
 ||refer.batesfootwear.com^
 ||refer.bathandbodyworks.com^
 ||refer.baxterofcalifornia.com^
-||refer.bioionic.com^
 ||refer.bobstores.com^
 ||refer.booksy.com^
 ||refer.bose.co.uk^
@@ -314,7 +312,6 @@
 ||refer.nso.com^
 ||refer.olehenriksen.com^
 ||refer.orbitz.com^
-||refer.ouidad.com^
 ||refer.pacificservice.org^
 ||refer.pacsafe.com^
 ||refer.pacu.com^
@@ -435,7 +432,6 @@
 ||share.anatomie.com^
 ||share.aplaceformom.com^
 ||share.app.com^
-||share.applemontessorischools.com^
 ||share.ashleyhomestore.ca^
 ||share.asics.com^
 ||share.asurion.com^
@@ -692,5 +688,6 @@
 ||em4367.raf-studentloans.discover.com^
 ||em8561.go2bank.com^
 ||em8928.em.petco.com^
+||em924.refer.starbucks.com^
 ||xtl._domainkey.skillshare.com^
 ||sftp.extole.com^

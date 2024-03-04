@@ -282,7 +282,6 @@
     * e6ffde45-yp7fpvcr.cname.ebis.ne.jp
     * e889caf6-3qe9sa9a.cname.ebis.ne.jp
     * e8efa80d-fbzwhcnp.cname.ebis.ne.jp
-    * e93f1def-vhd4fq1g.cname.ebis.ne.jp
     * eceb7b9f-6a92yces.cname.ebis.ne.jp
     * ee0f8438-thlsfh6z.cname.ebis.ne.jp
     * f050c5b4-cnza2mjg.cname.ebis.ne.jp
@@ -586,7 +585,6 @@
 | cname.lions-mansion.jp | e6ffde45-yp7fpvcr.cname.ebis.ne.jp |
 | adebis.sbpayment.jp | e889caf6-3qe9sa9a.cname.ebis.ne.jp |
 | cname-ade.gom-in.com | e8efa80d-fbzwhcnp.cname.ebis.ne.jp |
-| ad.aim-universe.co.jp | e93f1def-vhd4fq1g.cname.ebis.ne.jp |
 | adebisu.wowow.co.jp | eceb7b9f-6a92yces.cname.ebis.ne.jp |
 | itpebis03.recella3d.com | ee0f8438-thlsfh6z.cname.ebis.ne.jp |
 | ad.ordersuit.info | f050c5b4-cnza2mjg.cname.ebis.ne.jp |

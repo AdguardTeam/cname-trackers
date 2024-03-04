@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1708934418726        ; Serial
+           1709539219667        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -203,7 +203,6 @@ as.pomcdn.com CNAME .
 as1.maturexxx.vip CNAME .
 ascc.javquick.com CNAME .
 asdf.eldos.xyz CNAME .
-asg.allweb.click CNAME .
 asg.animehdl.net CNAME .
 asg.aphex.me CNAME .
 asg.asian-av.com CNAME .
@@ -457,6 +456,7 @@ load.try-games.com CNAME .
 lol.globlax.com CNAME .
 loop.bengali-sex-video.com CNAME .
 losa.mkace.net CNAME .
+luckyz.xyz CNAME .
 lx5.homeporntuber.com CNAME .
 m.bloblohub.com CNAME .
 m.x-power.info CNAME .
@@ -523,6 +523,7 @@ notonthebedsheets.com CNAME .
 npbvqqkpuele.cdnvideo3.com CNAME .
 nx7.hdxxxclips.com CNAME .
 o.hotsextube.tv CNAME .
+o.xofilmes.com CNAME .
 o313o.com CNAME .
 o911o.com CNAME .
 oi.429men.com CNAME .
@@ -544,6 +545,7 @@ ok.fapnow.xxx CNAME .
 ok.faptor.com CNAME .
 ok.hqbang.com CNAME .
 ok.starwank.com CNAME .
+oldsia.xyz CNAME .
 opus.sexyxxx.biz CNAME .
 orznp.spinna.store CNAME .
 outya.xyz CNAME .
@@ -565,6 +567,7 @@ panpant.xyz CNAME .
 parkurl.com CNAME .
 pempiz.xyz CNAME .
 penapne.xyz CNAME .
+penguest.xyz CNAME .
 perke.xxxpornhd.pro CNAME .
 pihu.xxxpornhd.pro CNAME .
 pivo.tracked.one CNAME .
@@ -591,8 +594,8 @@ q.broes.xyz CNAME .
 q.ikre.xyz CNAME .
 q.kvovs.xyz CNAME .
 q.leru.xyz CNAME .
+q.roovs.xyz CNAME .
 qhip.com CNAME .
-qoqv.com CNAME .
 qoutec.shop CNAME .
 qovua60gue.tubewolf.com CNAME .
 qsdr.mysunnylawn.com CNAME .
@@ -605,6 +608,7 @@ qwe4456133.justthegays.com CNAME .
 qx0.xnxxtubevideos.com CNAME .
 r.archertube.com CNAME .
 r.erohabu.com CNAME .
+r.eroticos.tv CNAME .
 r.freeadultporn.tv CNAME .
 r.tropictube.com CNAME .
 rdx.javmotion.com CNAME .
@@ -682,6 +686,7 @@ suzuhen.xyz CNAME .
 tacumi.xyz CNAME .
 tagbucks.xyz CNAME .
 tagmai.xyz CNAME .
+tagrua.xyz CNAME .
 tagun.xyz CNAME .
 tangpuax.xyz CNAME .
 tankiuz.xyz CNAME .
@@ -745,7 +750,6 @@ www.invast.site CNAME .
 www.javtvnow.xyz CNAME .
 www.letstry69.xyz CNAME .
 www.monsoonlassi.com CNAME .
-www.pelisestreno.cc CNAME .
 www.pleasedonotblockme.com CNAME .
 www.pornvideos.casa CNAME .
 www.spinna.shop CNAME .
