@@ -426,7 +426,6 @@
 ||dragonfly.jala-one.com^
 ||eagle.roarfilm.com.au^
 ||earthworm.creatifmediagroup.com^
-||earthworm.elenabirkenwald.com^
 ||earthworm.lidi.today^
 ||earthworm.makethemdebate.com^
 ||earthworm.mxdvl.com^
@@ -546,7 +545,6 @@
 ||haddock.affilimate.com^
 ||haddock.jeffreyknox.dev^
 ||haddock.simgenie.app^
-||haddock.stillio.com^
 ||halibut.codehooks.io^
 ||halibut.phytype.com^
 ||hamster.consentkit.io^
@@ -864,7 +862,6 @@
 ||puffin.jem.dev^
 ||puffin.nex4.net^
 ||puma.islingtonmecc.org.uk^
-||puma.strategyascode.com^
 ||python.casuallyprivate.com^
 ||python.jukejuke.app^
 ||quail.trueglowbylaura.com^

@@ -61,6 +61,7 @@ c4dv.copinesdevoyage.com
 ca.clubavantages.net
 cbl6.destinia.gt
 cc.conforama.es
+cc.conforama.pt
 cf.campagnes-france.com
 ch.credithypo.com
 ch0p.darty.com
@@ -181,6 +182,7 @@ ef.futuroscope.mobi
 eit3.destinia.nl
 ek8.voyage-prive.com
 elr.sfr.fr
+erb.tremblant.ca
 ert5.rmcsport.tv
 et.sncf.com
 eule1.pmu.fr
@@ -228,7 +230,6 @@ fbu8.montecarloluxuryhotels.com
 fbu8.montecarlosbm.com
 fbu8.montecarloseasonalsale.com
 fbu8.ticket-online.montecarlolive.com
-fec1.optimhome.com
 fek1.fnactickets.com
 fkwc.sfr.fr
 fl5dpe.oui.sncf
@@ -349,7 +350,6 @@ pbox.photobox.co.uk
 pbox.photobox.com.au
 pbox.photobox.de
 pbox.photobox.dk
-pbox.photobox.es
 pbox.photobox.fr
 pbox.photobox.ie
 pbox.photobox.it
@@ -406,6 +406,7 @@ snr4.canalplus.com
 srm4.destinia.co.no
 ssrlot.lotoquebec.com
 ssy7.destinia.com.ua
+su1.les-suites.ca
 t.locasun-vp.fr
 t.locasun.co.uk
 t.locasun.de
@@ -415,6 +416,7 @@ t.locasun.it
 t.locasun.nl
 t.pmu.fr
 t.voyages-sncf.com
+t0y.toyota.ca
 t9h2.ricardocuisine.com
 t9k3a.jeanpaulfortin.com
 tdf1.easyviaggio.com
@@ -498,12 +500,9 @@ c0i.ckoi.com
 c0p.cepsum.umontreal.ca
 d2u.dauphinquebec.com
 eat9.thebeat925.ca
-erb.tremblant.ca
 hk2d.tourismemauricie.com
 nym5c.bonlook.com
 ry0.rythmefm.com
-su1.les-suites.ca
-t0y.toyota.ca
 ea.mnt.fr
 gi7a.structube.com
 nym5c.laura.ca

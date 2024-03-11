@@ -351,7 +351,6 @@ statistik.apartments-tirolerhaus.at
 statman.sesong.info
 stats-aah.gigride.live
 stats-whatever.gigride.live
-stats.45rpm.ch
 stats.69grad.de
 stats.acadevor.com
 stats.achtsame-yonimassage.de
@@ -642,7 +641,6 @@ stats.lefthoek.com
 stats.legendofnom.com
 stats.leoloso.com
 stats.liamdavis.dev
-stats.libertyembers.com
 stats.lica.at
 stats.lik.fr
 stats.limitlessnetworks.eu
@@ -891,10 +889,8 @@ stats.uxtools.co
 stats.v4.agirpourlenvironnement.org
 stats.vanityprojects.com
 stats.vdsnow.ru
-stats.vertis.io
 stats.vican.me
 stats.visions.ch
-stats.voedingskussen.net
 stats.voltamediahouse.com
 stats.voltimum.com
 stats.wachstum.at

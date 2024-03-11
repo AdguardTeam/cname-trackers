@@ -323,7 +323,6 @@
 | tr.donateur.afm-telethon.fr | tracking.bp01.net |
 | tr.dossier-assurance.maaf.fr | tracking.bp01.net |
 | tr.drh-holding.lvmh.fr | tracking.bp01.net |
-| tr.e-mail.axa.fr | tracking.bp01.net |
 | tr.e-mail.axabanque.fr | tracking.bp01.net |
 | tr.e-travaux.info | tracking.bp01.net |
 | tr.e.entreprise-pm.fr | tracking.bp01.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1709539219667        ; Serial
+           1710144022398        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -72,6 +72,7 @@ c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
 cc.conforama.es CNAME .
+cc.conforama.pt CNAME .
 cf.campagnes-france.com CNAME .
 ch.credithypo.com CNAME .
 ch0p.darty.com CNAME .
@@ -192,6 +193,7 @@ ef.futuroscope.mobi CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
+erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 eule1.pmu.fr CNAME .
@@ -239,7 +241,6 @@ fbu8.montecarloluxuryhotels.com CNAME .
 fbu8.montecarlosbm.com CNAME .
 fbu8.montecarloseasonalsale.com CNAME .
 fbu8.ticket-online.montecarlolive.com CNAME .
-fec1.optimhome.com CNAME .
 fek1.fnactickets.com CNAME .
 fkwc.sfr.fr CNAME .
 fl5dpe.oui.sncf CNAME .
@@ -360,7 +361,6 @@ pbox.photobox.co.uk CNAME .
 pbox.photobox.com.au CNAME .
 pbox.photobox.de CNAME .
 pbox.photobox.dk CNAME .
-pbox.photobox.es CNAME .
 pbox.photobox.fr CNAME .
 pbox.photobox.ie CNAME .
 pbox.photobox.it CNAME .
@@ -417,6 +417,7 @@ snr4.canalplus.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
+su1.les-suites.ca CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
 t.locasun.de CNAME .
@@ -426,6 +427,7 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
+t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .
@@ -509,12 +511,9 @@ c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
-erb.tremblant.ca CNAME .
 hk2d.tourismemauricie.com CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
-su1.les-suites.ca CNAME .
-t0y.toyota.ca CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
 nym5c.laura.ca CNAME .

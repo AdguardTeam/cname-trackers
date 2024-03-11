@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME disguised clickthroughs list
 ! Description: The list of unique clickthroughs domains that disguise the real trackers by using CNAME records.
-! TimeUpdated: 2024-03-04T08:00:19+00:00
+! TimeUpdated: 2024-03-11T08:00:22+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 ||0-rootsweb.b2bmktg.com^
@@ -232,6 +232,7 @@
 ||ablink.help.sanvello.com^
 ||ablink.help.shopwell.com^
 ||ablink.info.felixmobile.com.au^
+||ablink.info.max.com^
 ||ablink.info.oneatwork.app^
 ||ablink.info.pressreader.com^
 ||ablink.info.sofi.org^
@@ -868,6 +869,7 @@
 ||app.meliuz.com.br^
 ||app.memor-i.com^
 ||app.menupromo.inlinefx.com^
+||app.metro60.com.au^
 ||app.mikedfitness.com^
 ||app.mingo.chat^
 ||app.mintmobile.com^
@@ -981,6 +983,7 @@
 ||app.sswt.co^
 ||app.stadac.mobilapp.gmbh^
 ||app.stagingsimpl.com^
+||app.straitpay.com^
 ||app.streaktrivia.com^
 ||app.stressbuoy.com^
 ||app.studios.brain.ai^
@@ -1001,7 +1004,6 @@
 ||app.th3rdwave.coffee^
 ||app.theachieveapp.com^
 ||app.theachieveproject.com^
-||app.thedealerapp.co.uk^
 ||app.themaven.net^
 ||app.thestaxapp.com^
 ||app.thetimes.link^
@@ -1103,7 +1105,6 @@
 ||applink.oskar.de^
 ||applink.picmasters.de^
 ||applink.pleizi.com^
-||applink.pod.io^
 ||applink.podimo.com^
 ||applink.psychonline.com^
 ||applink.qa.tarjetabumeran.com^
@@ -1166,7 +1167,6 @@
 ||apptracker.torob.com^
 ||appuat.intermiles.com^
 ||appway.fnz.com^
-||aps.a9.com^
 ||apsr.anritsu.com^
 ||apssdc.epoise.com^
 ||apssdctest.epoise.com^
@@ -1284,7 +1284,6 @@
 ||b.discotech.me^
 ||b.dl.redcrossblood.org^
 ||b.ewd.io^
-||b.getmaintainx.com^
 ||b.gett.com^
 ||b.home.com.au^
 ||b.iheart.southwest.com^
@@ -1377,7 +1376,6 @@
 ||bceglobalusa.bell.ca^
 ||bcg.geleidehond.be^
 ||bchsia-calvin8.b2bmktg.com^
-||bde.beformance.com^
 ||bdl.xefyr.com^
 ||bdtestsendpulse.branch.rocks^
 ||be.acloud.devoteam.com^
@@ -1423,7 +1421,6 @@
 ||biopharmaservices.xcenda.com^
 ||bioscience.biomb.ca^
 ||bis.lexisnexis.com^
-||bit.beformance.com^
 ||bitumen.shell.com^
 ||biz-info.fielding.co.jp^
 ||biz-sol.sony.jp^
@@ -1546,6 +1543,7 @@
 ||br.blablacar.pro^
 ||br.email.lifesum.com^
 ||br.eml.walgreens.com^
+||br.getmaintainx.com^
 ||br.inhaabit.com^
 ||br.kent.co.in^
 ||br.links.kmartphotos.com.au^
@@ -1553,7 +1551,6 @@
 ||br.potato1.influitive.com^
 ||br.probablecausesolutions.com^
 ||br.sprbl.st^
-||br.uk.beformance.com^
 ||br.zettle.com^
 ||bractivacar.eccocar.com^
 ||braddumacar.eccocar.com^
@@ -1840,7 +1837,6 @@
 ||ca.findyourpussy.net^
 ||ca.infomix.best^
 ||ca.keeptruckin.com^
-||ca.macheq.com^
 ||caapp.levi.com^
 ||cabinet-pro-range86-129xroads.b2bmktg.com^
 ||cables.conwire.com^
@@ -1928,7 +1924,6 @@
 ||cc.cornesmotors.com^
 ||cc.histoires-de-sexe-gratuites.com^
 ||cc.opowiadaniaerotyczne-darmowo.com^
-||cc.pornorasskazy-xxx.com^
 ||cc.raccontierotici-club.com^
 ||cc.relatoseroticos-gratis.com^
 ||cc.sersh.com^
@@ -2374,7 +2369,6 @@
 ||connect.uusc.org^
 ||connect.webee.io^
 ||connect.wingate.com.au^
-||connect.wri.org^
 ||connect.z.lighting^
 ||connect.zumtobel.com^
 ||connect.zumtobelgroup.com^
@@ -2710,6 +2704,7 @@
 ||cq.hq1.influitive.com^
 ||cr.crossface.co.jp^
 ||cr.izumigo.co.jp^
+||crats.openapp.link^
 ||cre.tscbank.com^
 ||createwith.wrapbook.com^
 ||cred.fudousan-toushi.jp^
@@ -2853,7 +2848,6 @@
 ||dashboardbntest.branchcustom.xyz^
 ||data.anyline.com^
 ||data.apollointelligence.net^
-||data.cloudian.com^
 ||data.edgenet.com^
 ||data.netrality.com^
 ||data.pajadata.fi^
@@ -3151,7 +3145,6 @@
 ||dl2.brandatt.com^
 ||dlabo.jmac.co.jp^
 ||dldev.wooribank.com.kh^
-||dlh1.hilton.com^
 ||dlink-staging.blueapron.com^
 ||dlink.blueapron.com^
 ||dlink.hsdyn.com^
@@ -3509,7 +3502,6 @@
 ||email.proshred.com^
 ||email.prosperoware.com^
 ||email.qa.member.theknot.com^
-||email.reflectlyapp.com^
 ||email.relationinsurance.com^
 ||email.remotelock.com^
 ||email.rentomojo.in^
@@ -3518,7 +3510,6 @@
 ||email.seminar-info.jp^
 ||email.sevencorners.com^
 ||email.shouta.co^
-||email.sitevibes.com^
 ||email.social.avasecurity.com^
 ||email.social.f5.com^
 ||email.social.gaf.com^
@@ -3681,6 +3672,7 @@
 ||eon.dominionaesthetic.com^
 ||epargne-salariale.generali.fr^
 ||epoisejobs.epoise.com^
+||epoiseprep.epoise.com^
 ||epoisepreptest.epoise.com^
 ||eq.6seconds.org^
 ||eqsolutions1.equiniti.com^
@@ -4568,7 +4560,6 @@
 ||go.addisonwhitney.com^
 ||go.additionmt.com^
 ||go.addix.co.jp^
-||go.address.love^
 ||go.addthis.com^
 ||go.addupsolutions.com^
 ||go.adec-innovations.com^
@@ -5234,7 +5225,6 @@
 ||go.axesslaw.com^
 ||go.axial3d.com^
 ||go.axialent.com^
-||go.axiomcp.com^
 ||go.axiomglobal.com^
 ||go.axiominvestors.com^
 ||go.axionbio.com^
@@ -5914,7 +5904,6 @@
 ||go.carmignac.it^
 ||go.carmignac.nl^
 ||go.carmignac.pt^
-||go.carnegielearning.ca^
 ||go.carolinatigerrescue.org^
 ||go.carson-saint.com^
 ||go.carst.com^
@@ -6218,7 +6207,6 @@
 ||go.cloudco.com.mx^
 ||go.cloudcoachers.com^
 ||go.cloudcraze.com^
-||go.cloudeq.com^
 ||go.cloudgateway.co.uk^
 ||go.cloudingo.com^
 ||go.cloudjunction.cloud^
@@ -6246,7 +6234,6 @@
 ||go.cnm.edu^
 ||go.cnr.com^
 ||go.co-mit.jp^
-||go.coanet.org^
 ||go.coastalcommercial.com^
 ||go.cob.csulb.edu^
 ||go.coconutsoftware.com^
@@ -6420,7 +6407,6 @@
 ||go.cosmosia.net^
 ||go.cosocloud.com^
 ||go.costar.com^
-||go.costquest.com^
 ||go.cotral.com^
 ||go.cottinghambutler.com^
 ||go.cottonteam.com^
@@ -6611,7 +6597,6 @@
 ||go.datamyte.com^
 ||go.datapilot.com^
 ||go.datapipe.com^
-||go.datarepublic.com^
 ||go.datasembly.com^
 ||go.dataserv.com^
 ||go.datasite.com^
@@ -7400,7 +7385,6 @@
 ||go.firstwave.com^
 ||go.firstwavecloud.com^
 ||go.fis-s.co.jp^
-||go.fiscaltec.com^
 ||go.fitfusion.com^
 ||go.fivestar-corporation.co.jp^
 ||go.fixturesanddisplays.com^
@@ -7427,7 +7411,6 @@
 ||go.flextrack.com^
 ||go.flexwheels.com^
 ||go.flexxray.com^
-||go.flightsafety.com^
 ||go.flightstats.com^
 ||go.flipauto.com^
 ||go.flipfit.com^
@@ -7505,7 +7488,6 @@
 ||go.forumdesimages.fr^
 ||go.forward.eu^
 ||go.forwardplatform.com^
-||go.foryourbusiness.jp^
 ||go.fospha.com^
 ||go.fossid.com^
 ||go.fossnational.com^
@@ -8480,7 +8462,6 @@
 ||go.integreon.com^
 ||go.integritynext.com^
 ||go.integritystaffing.com^
-||go.intelcia.com^
 ||go.intelerad.com^
 ||go.intelex.com^
 ||go.intelliantech.com^
@@ -9214,7 +9195,6 @@
 ||go.loopio.com^
 ||go.loopme.com^
 ||go.loopnet.com^
-||go.loopup.com^
 ||go.lordandrichards.com^
 ||go.lorienglobal.com^
 ||go.loudcloudsystems.com^
@@ -9562,7 +9542,6 @@
 ||go.meeq.com^
 ||go.meetings-incentives.com^
 ||go.meetingswinnipeg.com^
-||go.meetingzone.com^
 ||go.meevo.com^
 ||go.mega-hatsu.com^
 ||go.mega.co.jp^
@@ -10247,7 +10226,6 @@
 ||go.ofi.com^
 ||go.ofn.org^
 ||go.ohi.adra.org.au^
-||go.ohi.com^
 ||go.ohiodnr.gov^
 ||go.ohioinsuranceagents.com^
 ||go.ohiojusticefoundation.org^
@@ -10255,7 +10233,6 @@
 ||go.okazaki-mfg.com^
 ||go.okra.ai^
 ||go.oladc.org^
-||go.oldeschoolmarketing.com^
 ||go.olina.com^
 ||go.olinko.it^
 ||go.olivermanufacturing.com^
@@ -11025,7 +11002,6 @@
 ||go.rca.org^
 ||go.rcainc.com^
 ||go.rcdhousing.org^
-||go.rcgauto.com^
 ||go.rciadventure.com^
 ||go.rcmowersusa.com^
 ||go.rcnavi.jp^
@@ -11116,7 +11092,6 @@
 ||go.residenze.com^
 ||go.resisto.us^
 ||go.resodynmixers.com^
-||go.resolve.com^
 ||go.resonagate.co.jp^
 ||go.resonantcloudsolutions.com^
 ||go.resonantdigitalsolutions.com^
@@ -11353,7 +11328,6 @@
 ||go.sayama-f.co.jp^
 ||go.sayvero.com^
 ||go.sazas.nl^
-||go.sbhic.com^
 ||go.sbro.co.jp^
 ||go.scad.edu^
 ||go.scaleai.ca^
@@ -14273,7 +14247,6 @@
 ||info.preventchildabuse.org^
 ||info.pricebailey.co.uk^
 ||info.pridatect.com^
-||info.primarydata.com^
 ||info.printix.net^
 ||info.prioritydispatch.net^
 ||info.procareconnect.com^
@@ -14956,6 +14929,7 @@
 ||install.ottoradio.com^
 ||install.playgpl.com^
 ||install.pranavconstructions.com^
+||install.voucherify.io^
 ||install.xchange.sabx.com^
 ||instrumentations.endress.com^
 ||int-shares.ri.la^
@@ -15010,6 +14984,7 @@
 ||invite.gosunpro.com^
 ||invite.gust.show^
 ||invite.icars.cc^
+||invite.juiceboxit.com^
 ||invite.juke.ly^
 ||invite.openhouse.study^
 ||invite.paltalk.net^
@@ -15360,6 +15335,7 @@
 ||leb-app.diasporaid.com^
 ||legal.araggroup.com^
 ||legal.lexisnexis.com^
+||lekhha.cumulations.com^
 ||lemur.b2bmktg.com^
 ||lets-dev.irl.com^
 ||lets-talk-janny.cms-clean.com^
@@ -15419,7 +15395,6 @@
 ||link.1112.com^
 ||link.1800contacts.com^
 ||link.24go.co^
-||link.321okgo.com^
 ||link.360vuz.com^
 ||link.3dbear.io^
 ||link.7-eleven.vn^
@@ -15649,6 +15624,7 @@
 ||link.hivexchange.com.au^
 ||link.hobbinity.com^
 ||link.hola.health^
+||link.home.id^
 ||link.hrdirectapps.com^
 ||link.hugoapp.com^
 ||link.huuu.ge^
@@ -15716,6 +15692,7 @@
 ||link.loyalty.almosafer.com^
 ||link.lpm.surkus.com^
 ||link.lpt.surkus.com^
+||link.luxuriousgenie.com^
 ||link.made.com^
 ||link.mail.blidz.com^
 ||link.mail.burgerking.ca^
@@ -15771,7 +15748,6 @@
 ||link.news.clearpay.co.uk^
 ||link.news.goeuro.com^
 ||link.newsbeast.gr^
-||link.newspicks.us^
 ||link.nextaveapp.com^
 ||link.nextlevelsports.com^
 ||link.nilclub.com^
@@ -15866,6 +15842,7 @@
 ||link.shengcekeji.com^
 ||link.shopview.in^
 ||link.shotgun.live^
+||link.showhomes.io^
 ||link.shuffoe.com^
 ||link.shutterfly.com^
 ||link.sidechat.lol^
@@ -16490,7 +16467,6 @@
 ||ma.zebra-med.com^
 ||ma2.i3-systems.com^
 ||ma2.mitsuihome.co.jp^
-||mac.macheq.com^
 ||mafu.supporterz.jp^
 ||mag.isover.co.jp^
 ||mag.link-academy.co.jp^
@@ -17055,6 +17031,7 @@
 ||mercadeo.esri.co^
 ||merchant-app.th3rdwave.coffee^
 ||merchant.libertycarz.com^
+||mercyuat.app.myia.one^
 ||messagespardot.paysafe.com^
 ||metal.schrott24.at^
 ||metrology.accretech.eu^
@@ -17469,6 +17446,7 @@
 ||onlineprograms.acu.edu^
 ||onward.mccallie.org^
 ||ooh.walldecaux.de^
+||open-test.iproov.me^
 ||open-test.wynk.in^
 ||open.ailo.app^
 ||open.airtelxstream.in^
@@ -17808,10 +17786,8 @@
 ||pardot.welcomekyushu.jp^
 ||pardot.whatisessential.org^
 ||pardot.wildatheart.org^
-||pardot2.connecteduniversity.us^
 ||pardot4.enfusionsystems.com^
 ||pardotmail.raymondjames.com^
-||pardotmarketing.readymode.com^
 ||pardotsf.printpack.com^
 ||parentapp.byjus.com^
 ||parents.app.playosmo.com^
@@ -18018,6 +17994,7 @@
 ||play.spkr.com^
 ||play.staging.underdogfantasy.com^
 ||play.underdogfantasy.com^
+||play.underdogsports.com^
 ||play.waka8et.com^
 ||play.wavelength.zone^
 ||play.zeusgamez.io^
@@ -18085,6 +18062,7 @@
 ||press.finn.ai^
 ||primary-app.hotdoc.com.au^
 ||priority-app.hotdoc.com.au^
+||prism.epoise.com^
 ||prismtest.epoise.com^
 ||privacy.berlinpackaging.eu^
 ||prm.createfertility.co.uk^
@@ -18742,6 +18720,7 @@
 ||talent.falcon-pe.com^
 ||talent.roxiapp.com^
 ||talentsprint.epoise.com^
+||talentsprinttest.epoise.com^
 ||talk-test.stitch.cam^
 ||talk.stitch.cam^
 ||tally.bizanalyst.in^
@@ -20843,7 +20822,6 @@
 ||www2.hl.com^
 ||www2.hlcorporate.co.uk^
 ||www2.hmarkets.com^
-||www2.hni.com^
 ||www2.hokushu.net^
 ||www2.holliscobb.com^
 ||www2.holmes-cloud.com^
@@ -21356,7 +21334,6 @@
 ||www2.myriota.com^
 ||www2.mysitepass.com^
 ||www2.mytipsandadvice.co.uk^
-||www2.myxplor.com^
 ||www2.n4l.co.nz^
 ||www2.na-sika.com^
 ||www2.namsa.com^

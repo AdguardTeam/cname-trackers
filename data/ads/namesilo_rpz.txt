@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1709539219667        ; Serial
+           1710144022398        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1024,26 +1024,7 @@ $TTL 300
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
-a.addisplaynetwork.com CNAME .
-a.adsession.com CNAME .
-a.advantageclicks.net CNAME .
-a.advertrek.com CNAME .
-a.asvsm.com CNAME .
-a.bizonads-ssp.com CNAME .
-a.etology.com CNAME .
-a.ma3ion.com CNAME .
-a.optimizesrv.com CNAME .
-a.paradoxgroup.uk CNAME .
-a.r8lnet.com CNAME .
-a.redpathmedia.com CNAME .
-a.rocoads.net CNAME .
-a.santabrowser.com CNAME .
-a.slice.exchange CNAME .
-a.stuffserve.com CNAME .
-a.tf4srv.com CNAME .
-a.vws4brkfst.com CNAME .
 admin.adnation.com CNAME .
-admin.adstuff.io CNAME .
 admin.datingclix.com CNAME .
 admin.etology.com CNAME .
 admin.exoclick.com CNAME .
@@ -1057,9 +1038,7 @@ api.slice.exchange CNAME .
 api.tf4srv.com CNAME .
 api.trafficfactory.com CNAME .
 click.advertrek.com CNAME .
-delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
-m.hue2m.com CNAME .
 m.hue4a.com CNAME .
 m.optidigital.com CNAME .
 main.exdynsrv.com CNAME .
@@ -1207,3 +1186,22 @@ www.4389756.notify6.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
+a.addisplaynetwork.com CNAME .
+a.adsession.com CNAME .
+a.advantageclicks.net CNAME .
+a.advertrek.com CNAME .
+a.asvsm.com CNAME .
+a.bizonads-ssp.com CNAME .
+a.etology.com CNAME .
+a.ma3ion.com CNAME .
+a.optimizesrv.com CNAME .
+a.paradoxgroup.uk CNAME .
+a.r8lnet.com CNAME .
+a.redpathmedia.com CNAME .
+a.rocoads.net CNAME .
+a.santabrowser.com CNAME .
+a.slice.exchange CNAME .
+a.stuffserve.com CNAME .
+a.tf4srv.com CNAME .
+a.vws4brkfst.com CNAME .
+delivery.gettopple.com CNAME .

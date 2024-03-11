@@ -191,7 +191,6 @@
 ||refer.burtsbees.com^
 ||refer.caavo.com^
 ||refer.cacique.com^
-||refer.calo.app^
 ||refer.catfootwear.com^
 ||refer.cbdpillow.com^
 ||refer.centier.com^
@@ -488,7 +487,6 @@
 ||share.desmoinesregister.com^
 ||share.detroitnews.com^
 ||share.discountschoolsupply.com^
-||share.docmorris.fr^
 ||share.dslaboratories.com^
 ||share.dunlopsports.com^
 ||share.dutch.com^
@@ -586,7 +584,6 @@
 ||share.poughkeepsiejournal.com^
 ||share.pressconnects.com^
 ||share.princess.com^
-||share.promofarma.com^
 ||share.redding.com^
 ||share.refer-aveda.ca^
 ||share.refer-aveda.co.uk^

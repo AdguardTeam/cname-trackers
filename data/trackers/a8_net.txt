@@ -1413,7 +1413,6 @@
 ||cv.2jikaikun.com^
 ||cv.a-cial.com^
 ||cv.a-hikkoshi.com^
-||cv.a-internet.jp^
 ||cv.ag.cybersecurity-jp.com^
 ||cv.agent-sana.com^
 ||cv.atelier-shark.com^

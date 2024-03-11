@@ -30,6 +30,7 @@
 ||apps.shift.com.au^
 ||appschk.scotiabank.com^
 ||appscore.credilike.me^
+||asanalytics.booking.com^
 ||assessment.nj.betmgm.com^
 ||assets.werally.co^
 ||assets2.ihg.com^
@@ -43,6 +44,7 @@
 ||banque.banque-casino.fr^
 ||barnacle.tommybahama.com^
 ||bifpt.pepperfinance.es^
+||black-cat.crypto.com^
 ||caveo.boost-my.com^
 ||cbcdn.bankofscotland.co.uk^
 ||cbcdn.lloydsbank.com^
@@ -155,6 +157,7 @@
 ||client.online.sandyspringbank.com^
 ||clovergo.june-testing.firstdata.com^
 ||cmprofile.cards.citidirect.com^
+||cnt.didiglobal.com^
 ||cnt.goboo.com^
 ||cnt.patpat.com^
 ||cnt2.bank.za.group^
@@ -197,6 +200,7 @@
 ||content.ctfs.com^
 ||content.digital-credit.app^
 ||content.digital.citbank.com^
+||content.discover.com^
 ||content.discovercard.com^
 ||content.dstv.com^
 ||content.dwd.wisconsin.gov^
@@ -212,6 +216,7 @@
 ||content.familyprepaiddebit.com^
 ||content.fig.ca^
 ||content.firstinterstatebank.com^
+||content.fisglobal.com^
 ||content.floridarentals.com^
 ||content.frs.fl.gov^
 ||content.gap.com^
@@ -232,6 +237,7 @@
 ||content.kylottery.com^
 ||content.lequipeur.com^
 ||content.listsource.com^
+||content.lyft.com^
 ||content.mabanque.bnpparibas^
 ||content.mabanqueprivee.bnpparibas^
 ||content.mabanquepro.bnpparibas^
@@ -277,6 +283,7 @@
 ||content.sb.lt^
 ||content.sfbli.com^
 ||content.sheerid.com^
+||content.shop.post.ch^
 ||content.solutions-corporate.com^
 ||content.spincasino.ca^
 ||content.sportchek.ca^
@@ -296,6 +303,7 @@
 ||content.wizink.es^
 ||content1.esdiacapi.com^
 ||content1.reprisefinancial.com^
+||content2.instacart.com^
 ||content2.paywerk.co^
 ||content21.snapfinance.com^
 ||content22.accountonline.com^
@@ -422,6 +430,7 @@
 ||fp.marisota.co.uk^
 ||fp.simplybe.co.uk^
 ||fp.ubagroup.com^
+||fp.ups.com^
 ||fpcn.bpsgameserver.com^
 ||fpmobile.uplift-platform.com^
 ||fpt.norton.com^
@@ -540,6 +549,7 @@
 ||mobile.du.ae^
 ||mobilecontent.networks.prod.p0.phx-infra.com^
 ||mobilecontent.projectdrgn.com^
+||mobsessions.worldremit.com^
 ||msimkpups.michaels.com^
 ||mtx.thirdstream.ca^
 ||nav.sciencedirect.com^
@@ -571,7 +581,10 @@
 ||partition.enterprise.com^
 ||payment.rewards.sony.com^
 ||payments-de.lidlplus.com^
+||payments.direct.playstation.com^
 ||payments.hd-plus.de^
+||payrisk-tmx.didiglobal.com^
+||pf.intuit.com^
 ||phyon.communipay.net^
 ||phyon.visit-x.net^
 ||piafapp.poste.it^
@@ -638,9 +651,11 @@
 ||profiling.cmo.cibc.com^
 ||profiling.digitalbusiness.cibc.com^
 ||profiling.qacitizensbankonline.com^
+||ptm.creditas.com^
 ||public-check3-at.test.tiaa-cref.org^
 ||public-check3-at.test.tiaa.org^
 ||qa-check3.qa.everbank.com^
+||qfp.intuit.com^
 ||qrimages.qatarairways.com^
 ||qtbm.fundourselves.com^
 ||qtbm.welendus.com^
@@ -703,6 +718,7 @@
 ||sec.login.sdnp.ntt.ocn.ne.jp^
 ||sec.mypage.ntt.com^
 ||sec.mypage.ocn.ne.jp^
+||sec.plala.or.jp^
 ||secure-service.id.dbsdigibank.com^
 ||secure.freshbooks.com^
 ||secure.idbank.it^
@@ -727,6 +743,7 @@
 ||service.riverscontent.com^
 ||servicesdp.luckydays.ca^
 ||servicesdp.spinaway.ca^
+||sg-payment.cydf.hoyoverse.com^
 ||shield.boostbusiness.my^
 ||sitehelper.myengageft.com^
 ||sitehelper.optimizemoney.com^
@@ -772,7 +789,6 @@
 ||t.liberty.com.au^
 ||t.my.service1.org^
 ||t.myaccounts.shellfcu.org^
-||t.mydigital.jfcu.org^
 ||t.olb.hawaiistatefcu.com^
 ||t.olb.interracu.com^
 ||t.online.acutx.org^
@@ -823,6 +839,7 @@
 ||tags.bankline.ulsterbank.co.uk^
 ||tags.bankline.ulsterbank.ie^
 ||tags.currencypay.natwestmarkets.com^
+||tags.dazn.com^
 ||tags.emirates.com^
 ||tags.eq.iombank.com^
 ||tags.eq.natwestinternational.com^
@@ -845,6 +862,7 @@
 ||tblsdp.staging.tonybet.ca^
 ||tblsdp.tonybet.ca^
 ||tbp.tescobank.com^
+||tcontent.auchantelecom.fr^
 ||tcontent.cdiscountmobile.cdiscount.com^
 ||tcontent.nrjmobile.fr^
 ||telem.highlow.com^
@@ -913,6 +931,7 @@
 ||tmcontent.meridiancu.ca^
 ||tmcontent.motusbank.ca^
 ||tmcontent.sixt.com^
+||tmfp.klarna.com^
 ||tmi.my529.org^
 ||tmln.caesarscasino.com^
 ||tms.paysafe.com^
@@ -920,6 +939,7 @@
 ||tmuat.kotak.com^
 ||tmx-fpt.credit-agricole.pl^
 ||tmx.additionfi.com^
+||tmx.bestbuy.com^
 ||tmx.beyondbank.com.au^
 ||tmx.carhistory.com.au^
 ||tmx.efsllc.com^
@@ -959,6 +979,7 @@
 ||v.ayco.com^
 ||v.goldman.ch^
 ||v.goldman.com^
+||v.gs.com^
 ||v.gsselect.com^
 ||v.marcus.co.uk^
 ||v.marcus.com^
@@ -1002,3 +1023,4 @@
 ||ydkwim.targobank.de^
 ||yr3ioxw.hoaresbank.co.uk^
 ||zacchaeus.logos.com^
+||zfp.intuit.com^

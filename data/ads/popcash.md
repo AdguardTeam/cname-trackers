@@ -359,7 +359,6 @@
 | dragonfly.jala-one.com | deprecated-custom-domains.b-cdn.net |
 | eagle.roarfilm.com.au | deprecated-custom-domains.b-cdn.net |
 | earthworm.creatifmediagroup.com | deprecated-custom-domains.b-cdn.net |
-| earthworm.elenabirkenwald.com | deprecated-custom-domains.b-cdn.net |
 | earthworm.lidi.today | deprecated-custom-domains.b-cdn.net |
 | earthworm.makethemdebate.com | deprecated-custom-domains.b-cdn.net |
 | earthworm.mxdvl.com | deprecated-custom-domains.b-cdn.net |
@@ -479,7 +478,6 @@
 | haddock.affilimate.com | deprecated-custom-domains.b-cdn.net |
 | haddock.jeffreyknox.dev | deprecated-custom-domains.b-cdn.net |
 | haddock.simgenie.app | deprecated-custom-domains.b-cdn.net |
-| haddock.stillio.com | deprecated-custom-domains.b-cdn.net |
 | halibut.codehooks.io | deprecated-custom-domains.b-cdn.net |
 | halibut.phytype.com | deprecated-custom-domains.b-cdn.net |
 | hamster.consentkit.io | deprecated-custom-domains.b-cdn.net |
@@ -797,7 +795,6 @@
 | puffin.jem.dev | deprecated-custom-domains.b-cdn.net |
 | puffin.nex4.net | deprecated-custom-domains.b-cdn.net |
 | puma.islingtonmecc.org.uk | deprecated-custom-domains.b-cdn.net |
-| puma.strategyascode.com | deprecated-custom-domains.b-cdn.net |
 | python.casuallyprivate.com | deprecated-custom-domains.b-cdn.net |
 | python.jukejuke.app | deprecated-custom-domains.b-cdn.net |
 | quail.trueglowbylaura.com | deprecated-custom-domains.b-cdn.net |

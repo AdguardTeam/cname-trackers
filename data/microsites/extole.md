@@ -198,7 +198,6 @@
     * c1cufl.extole.io
     * caavo.extole.io
     * caleres.extole.io
-    * calo.extole.io
     * calvinklein.extole.io
     * carpartscom.extole.io
     * catfootwear.extole.io
@@ -428,7 +427,6 @@
     * princessuk.extole.io
     * procore.extole.io
     * prokeds.extole.io
-    * promofarma.extole.io
     * propark.extole.io
     * psecu.extole.io
     * pureology.extole.io
@@ -681,7 +679,6 @@
 | refer.communityfirstfl.org | c1cufl.extole.io |
 | refer.caavo.com | caavo.extole.io |
 | refer.drschollsshoes.com | caleres.extole.io |
-| refer.calo.app | calo.extole.io |
 | refer.calstate.aaa.com | calstate-aaa.extole.com |
 | share.calvinklein.us | calvinklein.extole.io |
 | refer.carbonite.com | carbonite-ssl.extole.com |
@@ -1057,8 +1054,6 @@
 | refer.procore.com | procore.extole.io |
 | refer.proflowers.com | proflowers-ssl.extole.com |
 | refer.prokeds.com | prokeds.extole.io |
-| share.docmorris.fr | promofarma.extole.io |
-| share.promofarma.com | promofarma.extole.io |
 | refer.jiffynewark.com | propark.extole.io |
 | refer.pvdparking.com | propark.extole.io |
 | refer.psecu.com | psecu.extole.io |

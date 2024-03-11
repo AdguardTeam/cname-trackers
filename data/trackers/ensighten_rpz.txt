@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1709539219667        ; Serial
+           1710144022398        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -323,6 +323,7 @@ sst.homegoods.com CNAME .
 sst.johnlewis.com CNAME .
 sst.marshalls.com CNAME .
 sst.nab.com.au CNAME .
+sst.subzero-wolf.com CNAME .
 sst.tjmaxx.tjx.com CNAME .
 suncorp.activate.ensighten.com CNAME .
 t.hagebau.de CNAME .

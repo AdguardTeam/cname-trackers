@@ -100,6 +100,7 @@ ablink.help.innit.com
 ablink.help.sanvello.com
 ablink.help.shopwell.com
 ablink.info.felixmobile.com.au
+ablink.info.max.com
 ablink.info.oneatwork.app
 ablink.info.pressreader.com
 ablink.info.sofi.org
@@ -233,10 +234,8 @@ b.iwanna.southwest.com
 b.mail.tabcorp.com.au
 b.prod1.youroffers.dominos.ca
 b.your.rewardsemail.dominos.ca
-bde.beformance.com
 bdtestsendpulse.branch.rocks
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
-bit.beformance.com
 bk.atumanera.burgerking.com.mx
 bluecore-email.branch.rocks
 bmf.branch.rocks
@@ -259,7 +258,6 @@ br.eml.walgreens.com
 br.links.kmartphotos.com.au
 br.links.kodakmoments.com
 br.potato1.influitive.com
-br.uk.beformance.com
 bran.sightdots.com
 branch-c.hipages.com.au
 branch-consumer.hipages.com.au
@@ -373,7 +371,6 @@ dl.mail.express-scripts.com
 dl.orders.accredo.com
 dl.orders.express-scripts.com
 dl.zola.com
-dlh1.hilton.com
 e.e.themighty.com
 e.mail.levi.com
 e.synchronybank.com
@@ -480,7 +477,6 @@ email.mypopshop.app
 email.pac-12.com
 email.pray.com
 email.qa.member.theknot.com
-email.reflectlyapp.com
 email.rentomojo.in
 email.rentomojo.org
 email.rentomojomailer.com
@@ -1214,6 +1210,7 @@ app.meihengyisheng.com
 app.meliuz.com.br
 app.memor-i.com
 app.menupromo.inlinefx.com
+app.metro60.com.au
 app.mikedfitness.com
 app.mingo.chat
 app.mintmobile.com
@@ -1323,6 +1320,7 @@ app.soultime.com
 app.sswt.co
 app.stadac.mobilapp.gmbh
 app.stagingsimpl.com
+app.straitpay.com
 app.stressbuoy.com
 app.studios.brain.ai
 app.subs.tv
@@ -1342,7 +1340,6 @@ app.test.elly.com
 app.th3rdwave.coffee
 app.theachieveapp.com
 app.theachieveproject.com
-app.thedealerapp.co.uk
 app.themaven.net
 app.thestaxapp.com
 app.thetimes.link
@@ -1430,7 +1427,6 @@ applink.mypostcardapp.com
 applink.oskar.de
 applink.picmasters.de
 applink.pleizi.com
-applink.pod.io
 applink.podimo.com
 applink.psychonline.com
 applink.qa.tarjetabumeran.com
@@ -1502,7 +1498,6 @@ b.arenum.games
 b.check-ins.com.my
 b.chme.io
 b.ewd.io
-b.getmaintainx.com
 b.gett.com
 b.home.com.au
 b.pickme.lk
@@ -1568,6 +1563,7 @@ bot.stackbots.com
 bot.streaktrivia.com
 botb.rtl2.de
 bp.mlb.com
+br.getmaintainx.com
 br.inhaabit.com
 br.kent.co.in
 br.probablecausesolutions.com
@@ -1751,7 +1747,6 @@ c.werally.com
 c4c9.pandasuite.io
 c6lc.pandasuite.io
 c917.pandasuite.io
-ca.macheq.com
 caapp.levi.com
 campaigns.impactive.io
 campaigns.outvote.io
@@ -1800,6 +1795,7 @@ contractor-app.buildforce.com
 converge.headuplabs.com
 cooking-app.lkk.com
 cp.rootielearning.com
+crats.openapp.link
 crepemania.openapp.link
 crew-qa.zubie.com
 crew.spektare.tv
@@ -2052,6 +2048,7 @@ emsexam.quantresear.ch
 encuestas.billeteramango.com
 enroll.workforcewellness.com
 epoisejobs.epoise.com
+epoiseprep.epoise.com
 epoisepreptest.epoise.com
 espaniapizza.openapp.link
 espressoroom.openapp.link
@@ -2603,6 +2600,7 @@ install.mushroomgui.de
 install.ottoradio.com
 install.playgpl.com
 install.pranavconstructions.com
+install.voucherify.io
 install.xchange.sabx.com
 int-shares.ri.la
 internet.degoo.com
@@ -2634,6 +2632,7 @@ invite.getwaitnot.com
 invite.gosunpro.com
 invite.gust.show
 invite.icars.cc
+invite.juiceboxit.com
 invite.juke.ly
 invite.openhouse.study
 invite.paltalk.net
@@ -2776,6 +2775,7 @@ learn.infinitylearn.com
 learn.mywallst.app
 learn.rubicoin.com
 leb-app.diasporaid.com
+lekhha.cumulations.com
 lets-dev.irl.com
 lets.instantify.it
 lets.playzingus.com
@@ -2823,7 +2823,6 @@ link-web.tatadigital.com
 link.1112.com
 link.1800contacts.com
 link.24go.co
-link.321okgo.com
 link.360vuz.com
 link.3dbear.io
 link.7-eleven.vn
@@ -3014,6 +3013,7 @@ link.hiccup.dev
 link.hivexchange.com.au
 link.hobbinity.com
 link.hola.health
+link.home.id
 link.hugoapp.com
 link.huuu.ge
 link.hyre.no
@@ -3069,6 +3069,7 @@ link.loop11.com
 link.loopedlive.com
 link.loopslive.com
 link.loxclubapp.com
+link.luxuriousgenie.com
 link.made.com
 link.mangoapp.com.py
 link.manutdfeed.com
@@ -3110,7 +3111,6 @@ link.nearpod.com
 link.neos.app
 link.never-missed.com
 link.newsbeast.gr
-link.newspicks.us
 link.nextaveapp.com
 link.nextlevelsports.com
 link.nilclub.com
@@ -3189,6 +3189,7 @@ link.sheeriz.com
 link.shengcekeji.com
 link.shopview.in
 link.shotgun.live
+link.showhomes.io
 link.shuffoe.com
 link.shutterfly.com
 link.sidechat.lol
@@ -3522,7 +3523,6 @@ m.vpc.ca
 m.washmen.com
 m.wishmindr.com
 m2.washmen.com
-mac.macheq.com
 magic.freetrade.io
 magicpets.recasty.com
 mail1.happ.social
@@ -3543,6 +3543,7 @@ member-app.rightwayhealthcare.com
 members.atomcomplete.com
 merchant-app.th3rdwave.coffee
 merchant.libertycarz.com
+mercyuat.app.myia.one
 microsoft.eventionapp.com
 mikelperaia.openapp.link
 mit3app.3.dk
@@ -3631,6 +3632,7 @@ on.hellostake.com
 one.appice.io
 one.godigit.com
 onelink.taptalk.io
+open-test.iproov.me
 open-test.wynk.in
 open.ailo.app
 open.airtelxstream.in
@@ -3716,6 +3718,7 @@ play.spdfun777.com
 play.spkr.com
 play.staging.underdogfantasy.com
 play.underdogfantasy.com
+play.underdogsports.com
 play.waka8et.com
 play.wavelength.zone
 play.zeusgamez.io
@@ -3735,6 +3738,7 @@ premiumapp.byjus.com
 prenesi-mojm.mercator.si
 primary-app.hotdoc.com.au
 priority-app.hotdoc.com.au
+prism.epoise.com
 prismtest.epoise.com
 pro.jig.space
 pro.pokerup.net
@@ -4050,6 +4054,7 @@ t.vrbo.io
 tagourounakia.openapp.link
 talent.roxiapp.com
 talentsprint.epoise.com
+talentsprinttest.epoise.com
 talk-test.stitch.cam
 talk.stitch.cam
 tally.bizanalyst.in

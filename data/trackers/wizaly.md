@@ -166,6 +166,7 @@
 | tk.svsound.com | tk-svsound-com.wizaly.com |
 | tk.teleshopping.fr | tk-teleshopping-fr.wizaly.com |
 | tk.tikamoon.at | tk-tikamoon-com.wizaly.com |
+| tk.tikamoon.be | tk-tikamoon-com.wizaly.com |
 | tk.tikamoon.ch | tk-tikamoon-com.wizaly.com |
 | tk.tikamoon.co.uk | tk-tikamoon-com.wizaly.com |
 | tk.tikamoon.com | tk-tikamoon-com.wizaly.com |

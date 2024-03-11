@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * webtrekk.net
+    * adac02.webtrekk.net
     * augsburgerallgemeine01.webtrekk.net
     * buchch02.webtrekk.net
     * cbm02.webtrekk.net
@@ -105,7 +106,6 @@
     * 482221458407393.wt-eu02.net
     * 484879729086450.wt-eu02.net
     * 489164258023327.wt-eu02.net
-    * 495967780350059.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
     * 545460378195639.wt-eu02.net
@@ -334,7 +334,6 @@
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
-| web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
@@ -428,6 +427,7 @@
 | web.email.topfarmacia.it | 988523091244829.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
 | wbtrkk.teufelaudio.pl | 997311968670029.wt-eu02.net |
+| webts.adac.de | adac02.webtrekk.net |
 | pix.airbusgroup.com | airbusgroup-de01.wt-eu02.net |
 | w3.aktionaersbank.de | aktionrsbank01.wt-eu02.net |
 | analytics.hermesworld.com | analytics-myhermes.wt-eu02.net |

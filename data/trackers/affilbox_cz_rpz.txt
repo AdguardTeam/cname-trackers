@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1709539219667        ; Serial
+           1710144022398        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -116,7 +116,6 @@ affiliate.batteryshop.cz CNAME .
 affiliate.bestdrink.cz CNAME .
 affiliate.bikeplan.org CNAME .
 affiliate.biooo.cz CNAME .
-affiliate.bitcoinzmenaren.sk CNAME .
 affiliate.cannyapp.cz CNAME .
 affiliate.childhoodpotential.com CNAME .
 affiliate.chytryhonza.cz CNAME .
@@ -543,7 +542,6 @@ partner.hubnutimarija.cz CNAME .
 partner.imrnous.cz CNAME .
 partner.investinslovakia.eu CNAME .
 partner.iodesign.cz CNAME .
-partner.iodicanatural.cz CNAME .
 partner.ioznameni.cz CNAME .
 partner.italier.cz CNAME .
 partner.ivadekor.cz CNAME .
@@ -682,7 +680,6 @@ partner.tyano.cz CNAME .
 partner.umio.eu CNAME .
 partner.umio.sk CNAME .
 partner.unuo.de CNAME .
-partner.vajacandle.cz CNAME .
 partner.vataonline.cz CNAME .
 partner.vffoto.com CNAME .
 partner.victus.cz CNAME .

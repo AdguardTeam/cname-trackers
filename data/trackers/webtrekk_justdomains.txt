@@ -37,6 +37,7 @@ trk.nuernberger.de
 w3.flatex.es
 w3.flatex.nl
 wbtrkk.teufelaudio.co.uk
+webts.adac.de
 wt.distrelec.com
 wtm.interhyp.de
 www7.springer.com
@@ -308,7 +309,6 @@ web.mapp.whiteaway.no
 web.mapp.whiteaway.se
 web.marcotozzi.com
 web.marketing.elbenwald.de
-web.marketing.jellybelly.com
 web.mytoys.de
 web.news.creedfragrances.co.uk
 web.news.dixiefashion.com
@@ -395,3 +395,4 @@ wttd.madeleine.co.uk
 wttd.madeleine.de
 wttd.madeleine.fr
 wttd.madeleine.gr
+web.marketing.jellybelly.com

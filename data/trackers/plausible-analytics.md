@@ -366,7 +366,6 @@
 | statman.sesong.info | custom.plausible.io |
 | stats-aah.gigride.live | custom.plausible.io |
 | stats-whatever.gigride.live | custom.plausible.io |
-| stats.45rpm.ch | custom.plausible.io |
 | stats.69grad.de | custom.plausible.io |
 | stats.acadevor.com | custom.plausible.io |
 | stats.achtsame-yonimassage.de | custom.plausible.io |
@@ -657,7 +656,6 @@
 | stats.legendofnom.com | custom.plausible.io |
 | stats.leoloso.com | custom.plausible.io |
 | stats.liamdavis.dev | custom.plausible.io |
-| stats.libertyembers.com | custom.plausible.io |
 | stats.lica.at | custom.plausible.io |
 | stats.lik.fr | custom.plausible.io |
 | stats.limitlessnetworks.eu | custom.plausible.io |
@@ -906,10 +904,8 @@
 | stats.v4.agirpourlenvironnement.org | custom.plausible.io |
 | stats.vanityprojects.com | custom.plausible.io |
 | stats.vdsnow.ru | custom.plausible.io |
-| stats.vertis.io | custom.plausible.io |
 | stats.vican.me | custom.plausible.io |
 | stats.visions.ch | custom.plausible.io |
-| stats.voedingskussen.net | custom.plausible.io |
 | stats.voltamediahouse.com | custom.plausible.io |
 | stats.voltimum.com | custom.plausible.io |
 | stats.wachstum.at | custom.plausible.io |

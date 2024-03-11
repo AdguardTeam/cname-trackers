@@ -105,7 +105,6 @@
 ||affiliate.bestdrink.cz^
 ||affiliate.bikeplan.org^
 ||affiliate.biooo.cz^
-||affiliate.bitcoinzmenaren.sk^
 ||affiliate.cannyapp.cz^
 ||affiliate.childhoodpotential.com^
 ||affiliate.chytryhonza.cz^
@@ -532,7 +531,6 @@
 ||partner.imrnous.cz^
 ||partner.investinslovakia.eu^
 ||partner.iodesign.cz^
-||partner.iodicanatural.cz^
 ||partner.ioznameni.cz^
 ||partner.italier.cz^
 ||partner.ivadekor.cz^
@@ -671,7 +669,6 @@
 ||partner.umio.eu^
 ||partner.umio.sk^
 ||partner.unuo.de^
-||partner.vajacandle.cz^
 ||partner.vataonline.cz^
 ||partner.vffoto.com^
 ||partner.victus.cz^

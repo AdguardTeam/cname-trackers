@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1709539219667        ; Serial
+           1710144022398        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -74,6 +74,7 @@ cq.stoundisocrat.com CNAME .
 cs.cowmankai.com CNAME .
 cs.daemonshymens.com CNAME .
 ct.eanlingtumfie.com CNAME .
+cy.chettikmacrli.com CNAME .
 cz.peatmenwhatsis.com CNAME .
 db.relandsnouts.com CNAME .
 dc.swartlybeebee.com CNAME .
@@ -96,7 +97,6 @@ dy.fitrootmisterm.com CNAME .
 dz.banyaitlingit.com CNAME .
 ed.druggertruckle.com CNAME .
 ed.urotoxykerch.com CNAME .
-ef.betosslingala.com CNAME .
 ef.derrybonedry.com CNAME .
 eh.stowingwhelks.com CNAME .
 ej.basialforced.com CNAME .
@@ -114,6 +114,7 @@ ew.physciahat.com CNAME .
 ey.hiedflashed.com CNAME .
 ez.cannelcaimito.com CNAME .
 ez.slabbernorland.com CNAME .
+fb.cushawbaized.com CNAME .
 fc.ferriesendless.com CNAME .
 fd.peguanmistone.com CNAME .
 fd.rusheedeserve.com CNAME .
@@ -176,7 +177,6 @@ ik.nuraghireels.com CNAME .
 il.nodderbeezers.com CNAME .
 im.inciseclops.com CNAME .
 in.becamechorist.com CNAME .
-ip.fazendatoxic.com CNAME .
 ir.avertinniello.com CNAME .
 ir.mildlydoucely.com CNAME .
 it.hokerlywaffies.com CNAME .
@@ -216,7 +216,6 @@ kl.osmoticchalah.com CNAME .
 kp.stingeantonia.com CNAME .
 kq.baggilymitoses.com CNAME .
 kr.cafenehkikki.com CNAME .
-ks.dagamemisdeed.com CNAME .
 kt.guywireincorp.com CNAME .
 ku.allnesskepped.com CNAME .
 ku.arbacindiplex.com CNAME .
@@ -285,7 +284,6 @@ on.culverscoping.com CNAME .
 oq.banterswalloon.com CNAME .
 or.alpieutieboy.com CNAME .
 ot.myotomyarkab.com CNAME .
-ou.laoosmesis.com CNAME .
 ou.samogonmarvy.com CNAME .
 oz.lokaforky.com CNAME .
 pb.shaledpaidle.com CNAME .
@@ -322,7 +320,6 @@ qo.enamelsdune.com CNAME .
 qr.grogsprats.com CNAME .
 qr.heezyvedaism.com CNAME .
 qs.levooutlast.com CNAME .
-qv.kempitepterin.com CNAME .
 qv.snaprosery.com CNAME .
 qw.garpikewoodbox.com CNAME .
 qw.teedoping.com CNAME .
@@ -333,7 +330,6 @@ rc.chemispelecan.com CNAME .
 rd.gamglossae.com CNAME .
 rd.pulayanyet.com CNAME .
 rg.canesbilker.com CNAME .
-rh.sirionehusky.com CNAME .
 ri.eightvowrinkle.com CNAME .
 rj.rivageroily.com CNAME .
 rj.unhaveabobra.com CNAME .
@@ -411,7 +407,6 @@ ut.ammannests.com CNAME .
 ut.floraepixies.com CNAME .
 ux.arsesresumes.com CNAME .
 ux.withinshobbist.com CNAME .
-uy.mawseednoblest.com CNAME .
 uz.gamyboxbush.com CNAME .
 va.ungracebaited.com CNAME .
 vc.rompishvariola.com CNAME .

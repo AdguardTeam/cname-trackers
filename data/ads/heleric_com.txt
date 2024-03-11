@@ -63,6 +63,7 @@
 ||cs.cowmankai.com^
 ||cs.daemonshymens.com^
 ||ct.eanlingtumfie.com^
+||cy.chettikmacrli.com^
 ||cz.peatmenwhatsis.com^
 ||db.relandsnouts.com^
 ||dc.swartlybeebee.com^
@@ -85,7 +86,6 @@
 ||dz.banyaitlingit.com^
 ||ed.druggertruckle.com^
 ||ed.urotoxykerch.com^
-||ef.betosslingala.com^
 ||ef.derrybonedry.com^
 ||eh.stowingwhelks.com^
 ||ej.basialforced.com^
@@ -103,6 +103,7 @@
 ||ey.hiedflashed.com^
 ||ez.cannelcaimito.com^
 ||ez.slabbernorland.com^
+||fb.cushawbaized.com^
 ||fc.ferriesendless.com^
 ||fd.peguanmistone.com^
 ||fd.rusheedeserve.com^
@@ -165,7 +166,6 @@
 ||il.nodderbeezers.com^
 ||im.inciseclops.com^
 ||in.becamechorist.com^
-||ip.fazendatoxic.com^
 ||ir.avertinniello.com^
 ||ir.mildlydoucely.com^
 ||it.hokerlywaffies.com^
@@ -205,7 +205,6 @@
 ||kp.stingeantonia.com^
 ||kq.baggilymitoses.com^
 ||kr.cafenehkikki.com^
-||ks.dagamemisdeed.com^
 ||kt.guywireincorp.com^
 ||ku.allnesskepped.com^
 ||ku.arbacindiplex.com^
@@ -274,7 +273,6 @@
 ||oq.banterswalloon.com^
 ||or.alpieutieboy.com^
 ||ot.myotomyarkab.com^
-||ou.laoosmesis.com^
 ||ou.samogonmarvy.com^
 ||oz.lokaforky.com^
 ||pb.shaledpaidle.com^
@@ -311,7 +309,6 @@
 ||qr.grogsprats.com^
 ||qr.heezyvedaism.com^
 ||qs.levooutlast.com^
-||qv.kempitepterin.com^
 ||qv.snaprosery.com^
 ||qw.garpikewoodbox.com^
 ||qw.teedoping.com^
@@ -322,7 +319,6 @@
 ||rd.gamglossae.com^
 ||rd.pulayanyet.com^
 ||rg.canesbilker.com^
-||rh.sirionehusky.com^
 ||ri.eightvowrinkle.com^
 ||rj.rivageroily.com^
 ||rj.unhaveabobra.com^
@@ -400,7 +396,6 @@
 ||ut.floraepixies.com^
 ||ux.arsesresumes.com^
 ||ux.withinshobbist.com^
-||uy.mawseednoblest.com^
 ||uz.gamyboxbush.com^
 ||va.ungracebaited.com^
 ||vc.rompishvariola.com^

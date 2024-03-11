@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1709539219667        ; Serial
+           1710144022398        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -202,7 +202,6 @@ refer.bumbleandbumble.com CNAME .
 refer.burtsbees.com CNAME .
 refer.caavo.com CNAME .
 refer.cacique.com CNAME .
-refer.calo.app CNAME .
 refer.catfootwear.com CNAME .
 refer.cbdpillow.com CNAME .
 refer.centier.com CNAME .
@@ -499,7 +498,6 @@ share.desertfinancial.com CNAME .
 share.desmoinesregister.com CNAME .
 share.detroitnews.com CNAME .
 share.discountschoolsupply.com CNAME .
-share.docmorris.fr CNAME .
 share.dslaboratories.com CNAME .
 share.dunlopsports.com CNAME .
 share.dutch.com CNAME .
@@ -597,7 +595,6 @@ share.policygenius.com CNAME .
 share.poughkeepsiejournal.com CNAME .
 share.pressconnects.com CNAME .
 share.princess.com CNAME .
-share.promofarma.com CNAME .
 share.redding.com CNAME .
 share.refer-aveda.ca CNAME .
 share.refer-aveda.co.uk CNAME .

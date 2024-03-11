@@ -156,7 +156,6 @@
 ||clicks.goldenitinc.com^
 ||clicks.ibusinesssolution.com^
 ||clicks.iic.com^
-||clicks.itech-us.com^
 ||clicks.ktekresourcing.com^
 ||clicks.linktms.com^
 ||clicks.lorventech.com^
@@ -422,7 +421,6 @@
 ||email.24vulkan-mail.com^
 ||email.26fit.com.br^
 ||email.27thstreetauto.us^
-||email.29shopping.com^
 ||email.2a0.fgfemail.com^
 ||email.2brotherspainting.com^
 ||email.2cloud.movidesk.com^
@@ -602,7 +600,6 @@
 ||email.a.remindermedia.net^
 ||email.a.sociallygoodcorporations.com^
 ||email.a1.myemsnow.com^
-||email.a1bestbuys.com^
 ||email.a1towers.com^
 ||email.a2.sitickets.com^
 ||email.a2koi.nl^
@@ -869,7 +866,6 @@
 ||email.adam-italia.it^
 ||email.adambuyshomes.us^
 ||email.adamjessop.net^
-||email.adap.com.do^
 ||email.adaptivebiotech.com^
 ||email.adbutler.com^
 ||email.adcombo.com^
@@ -996,7 +992,6 @@
 ||email.afctransport.com^
 ||email.afdc.com^
 ||email.afdentalsupply.com^
-||email.afdevelopment.org^
 ||email.affect3d.com^
 ||email.affekt.de^
 ||email.affinityclick.com^
@@ -1299,7 +1294,6 @@
 ||email.aligntechevents.com^
 ||email.alimentossemmitos.com.br^
 ||email.alingliziah.com^
-||email.alinkaip1.pro^
 ||email.alittlenutrition.com^
 ||email.alkaltham.sa^
 ||email.all2gift.com^
@@ -2289,7 +2283,6 @@
 ||email.autonomic.com^
 ||email.autopalvelu.com^
 ||email.autopartsexpress.net^
-||email.autoplusdubai.net^
 ||email.autordapropriasaude.movidesk.com^
 ||email.autoresponder.bamboostage.com^
 ||email.autornd.com^
@@ -2364,7 +2357,6 @@
 ||email.avtech.cc^
 ||email.avtotehnika-celje.si^
 ||email.avxsystems.io^
-||email.aw.hs.arcaygrwealths.biz^
 ||email.awantunai.com^
 ||email.award.koberd.com^
 ||email.aware.ninjio.com^
@@ -2524,7 +2516,6 @@
 ||email.b-quiet.com^
 ||email.b-reel.com^
 ||email.b-sharpe.com^
-||email.b.arcaygrwealths.biz^
 ||email.b.blancacreflorida.com^
 ||email.b.doctoracecilia.com^
 ||email.b.kajabimail.net^
@@ -3330,7 +3321,6 @@
 ||email.bluemoonballroomdancesupply.com^
 ||email.blueoakwm.com^
 ||email.bluepay.app^
-||email.bluepointstudio.be^
 ||email.blueridgeaxe.driverhub.ai^
 ||email.blueridgeriskpartners.com^
 ||email.blueroosterartsupplies.com^
@@ -3350,7 +3340,6 @@
 ||email.blvapparel.com^
 ||email.blxbuds.com^
 ||email.bm.breathmasters.academy^
-||email.bm.emarketing360.net^
 ||email.bmail.billomat.com^
 ||email.bmail.missionlane.com^
 ||email.bman.happycustomer.io^
@@ -4401,7 +4390,6 @@
 ||email.cbc.email^
 ||email.cbcneenah.org^
 ||email.cbcwoodlands.org^
-||email.cbdhemco.de^
 ||email.cbdsense.de^
 ||email.cbfa.co.za^
 ||email.cbhhomes.com^
@@ -4572,7 +4560,6 @@
 ||email.ceterainvestors.com^
 ||email.ceterais.com^
 ||email.ceteranetworks.com^
-||email.cetiati.com.mx^
 ||email.ceto.fi^
 ||email.ceuapp.net^
 ||email.ceumassage.com^
@@ -4602,7 +4589,6 @@
 ||email.cgmotortech.co.uk^
 ||email.cgnordic.com^
 ||email.cgsalsa.com^
-||email.cgslcharter.org^
 ||email.cgstud.io^
 ||email.cgv.com^
 ||email.ch.wowtea.eu^
@@ -4638,7 +4624,6 @@
 ||email.channel.nl^
 ||email.channelislands.eu^
 ||email.channelnews.autodesk.com^
-||email.chansilkflowers.com^
 ||email.chanty.com^
 ||email.chaosandpain.com^
 ||email.chaoslab.in^
@@ -4696,7 +4681,6 @@
 ||email.charteredsiteremediation.org^
 ||email.charteredtaxationlaws.com^
 ||email.charteredwhslaws.com^
-||email.charterhouse-aquatics.co.uk^
 ||email.charterindex.com^
 ||email.chartwell.redmailer.co.uk^
 ||email.chaseroofing.com^
@@ -4757,7 +4741,6 @@
 ||email.checksnforms.com^
 ||email.chedraui.com.mx^
 ||email.cheekydates.net^
-||email.cheeseburgersandrun.org^
 ||email.chefgood.com.au^
 ||email.chefsbay.co.uk^
 ||email.chefwise.com^
@@ -5228,7 +5211,6 @@
 ||email.co.angelinacrea.com^
 ||email.co.apemans.com^
 ||email.co.auraframes.com^
-||email.co.blueemoon.com^
 ||email.co.camelie.pl^
 ||email.co.charmfactory.com.mx^
 ||email.co.cielitocolombia.co^
@@ -5532,7 +5514,6 @@
 ||email.compass-group.dk^
 ||email.compassadjusters.com^
 ||email.compassclt.advocations.io^
-||email.compassfsslink.org^
 ||email.compasshealthcenter.net^
 ||email.compaxpackaging.com^
 ||email.compcar.ru^
@@ -6589,7 +6570,6 @@
 ||email.delcrest.com^
 ||email.delebil.no^
 ||email.deletent.org^
-||email.delftclay.co.nz^
 ||email.deli-hemp.fr^
 ||email.deliatwork.com^
 ||email.delicioushosting.co.uk^
@@ -7004,7 +6984,6 @@
 ||email.discovermoscow.info^
 ||email.discproducersupply.com^
 ||email.discuss.codecademy.com^
-||email.discuss.ens.domains^
 ||email.disfrutomisalud.com^
 ||email.disneygroupconnect.com^
 ||email.dispatch.avazapp.com^
@@ -7126,7 +7105,6 @@
 ||email.do-not-reply.pancakepixels.io^
 ||email.do-not-reply.peaklevelads.com^
 ||email.do-not-reply.perzonemail.com^
-||email.do-not-reply.phoenxsystems.net^
 ||email.do-not-reply.politek.us^
 ||email.do-not-reply.realprofunnel.com^
 ||email.do-not-reply.scalingsolutions.pro^
@@ -7933,10 +7911,8 @@
 ||email.elemailmarketing.com^
 ||email.elementoiltools.com^
 ||email.elements.matthey.com^
-||email.elementsmedical.com.au^
 ||email.elenamakri.com^
 ||email.elettromedicali.email^
-||email.elev3n.com^
 ||email.elevate-plus.supportlogic.io^
 ||email.elevate.salesforce.org^
 ||email.elevatearena.com^
@@ -8126,7 +8102,6 @@
 ||email.email.alinaquintana.com^
 ||email.email.alphaleanfitness.com^
 ||email.email.alphamaleclinic.com^
-||email.email.alyseparker.com^
 ||email.email.amazingtalker.com^
 ||email.email.america1stwarroom.com^
 ||email.email.americafirstpolicy.com^
@@ -8171,7 +8146,6 @@
 ||email.email.blazequel.co^
 ||email.email.blindpuma.com^
 ||email.email.blinkdigital.org^
-||email.email.boatsetter.com^
 ||email.email.boltbase.co.uk^
 ||email.email.boosting-lab.com^
 ||email.email.box.rebelangler.com^
@@ -8252,7 +8226,6 @@
 ||email.email.diveisc.com^
 ||email.email.dkp.hu^
 ||email.email.dlremote.co^
-||email.email.dmode.io^
 ||email.email.docraptor.com^
 ||email.email.dovetail.com^
 ||email.email.drbizboomsuccess.com^
@@ -9769,7 +9742,6 @@
 ||email.feelathome.gr^
 ||email.felfel.ch^
 ||email.felixmen.com^
-||email.felixtone.com^
 ||email.fellerfs.com^
 ||email.fellowshipchristian.myenotice.com^
 ||email.feltandwire.com^
@@ -9918,7 +9890,6 @@
 ||email.findthelions.com^
 ||email.findyourhometexas.com^
 ||email.findyourwaytowealth.net^
-||email.fineartviews.com^
 ||email.finecut.co.uk^
 ||email.finedayfunds.com^
 ||email.finefragrance.com.au^
@@ -9940,7 +9911,6 @@
 ||email.fintech-pitch.com^
 ||email.fintnewyork.com^
 ||email.fiolskolan.se^
-||email.fionasimpsoncoaching.systemisedtoscale.app^
 ||email.fiorentinoinc.onboardme.io^
 ||email.firamediterrania.cat^
 ||email.firealert.app^
@@ -10736,7 +10706,6 @@
 ||email.genesiswealthtx.com^
 ||email.genesys.cl^
 ||email.genesysonline.com^
-||email.genesysonline.net^
 ||email.genetec.com^
 ||email.genie.entrepreneurscircle.org^
 ||email.genima.co.uk^
@@ -10774,7 +10743,6 @@
 ||email.gerberlife.com^
 ||email.gerbing.co.uk^
 ||email.gerland.ironbodyfit.com^
-||email.germanaccelerator.com^
 ||email.gerovitalromania.com^
 ||email.gerryburke.com.au^
 ||email.gersamex.com.mx^
@@ -10825,11 +10793,9 @@
 ||email.getforgift.com^
 ||email.getfreed.ai^
 ||email.getfreshpr.com^
-||email.getgadgetcrate.com^
 ||email.getgear.io^
 ||email.getgekko.com^
 ||email.getgitguardian.com^
-||email.getgoatsoap.com^
 ||email.getgom.com^
 ||email.getgomakeup.com^
 ||email.gethelium.com^
@@ -10847,7 +10813,6 @@
 ||email.getmuto.com^
 ||email.getnaturafied.com^
 ||email.getnewbag.com^
-||email.getoemparts.com^
 ||email.getollie.com^
 ||email.getomnify.com^
 ||email.getpager.com^
@@ -10867,7 +10832,6 @@
 ||email.getsailebot.net^
 ||email.getscouted.com^
 ||email.getsnapsuite.io^
-||email.getsolarmax.com^
 ||email.getsportstime.com^
 ||email.getstorytap.net^
 ||email.getstream.io^
@@ -10881,7 +10845,6 @@
 ||email.getyourgunsamerica.com^
 ||email.getzipy.com^
 ||email.gevmemail.com^
-||email.gfa.aero^
 ||email.gfacademy.myenotice.com^
 ||email.gfal.com^
 ||email.gfinance.sk^
@@ -10962,7 +10925,6 @@
 ||email.gh-mail.aptum.com^
 ||email.gh-mail.arcadia.com^
 ||email.gh-mail.archer.com^
-||email.gh-mail.arqit.uk^
 ||email.gh-mail.array.com^
 ||email.gh-mail.artefact.com^
 ||email.gh-mail.artemysfoods.com^
@@ -10994,7 +10956,6 @@
 ||email.gh-mail.binance.us^
 ||email.gh-mail.bitcoindepot.com^
 ||email.gh-mail.bitgo.com^
-||email.gh-mail.bitmart.com^
 ||email.gh-mail.bitso.com^
 ||email.gh-mail.bitwarden.com^
 ||email.gh-mail.blackcape.io^
@@ -11070,7 +11031,6 @@
 ||email.gh-mail.cloud.upwork.com^
 ||email.gh-mail.cloudbeds.com^
 ||email.gh-mail.cloudflare.com^
-||email.gh-mail.cloudkitchens.com^
 ||email.gh-mail.cloudsek.com^
 ||email.gh-mail.cluedin.com^
 ||email.gh-mail.clumio.com^
@@ -11097,7 +11057,6 @@
 ||email.gh-mail.courierhealth.com^
 ||email.gh-mail.coursera.org^
 ||email.gh-mail.coveo.com^
-||email.gh-mail.cpisecurity.com^
 ||email.gh-mail.craftjack.com^
 ||email.gh-mail.crai.com^
 ||email.gh-mail.cranialtech.com^
@@ -11134,7 +11093,6 @@
 ||email.gh-mail.digitalextremes.com^
 ||email.gh-mail.digitalfemsa.com^
 ||email.gh-mail.digitalfutures.com^
-||email.gh-mail.discordapp.com^
 ||email.gh-mail.divvypay.com^
 ||email.gh-mail.doctolib.com^
 ||email.gh-mail.docusign.com^
@@ -11145,7 +11103,6 @@
 ||email.gh-mail.dreambox.com^
 ||email.gh-mail.drop.com^
 ||email.gh-mail.dunamu.com^
-||email.gh-mail.dunnhumby.com^
 ||email.gh-mail.duolingo.com^
 ||email.gh-mail.dutchie.com^
 ||email.gh-mail.e-core.com^
@@ -11234,7 +11191,6 @@
 ||email.gh-mail.frame.io^
 ||email.gh-mail.freelancer.blinkist.com^
 ||email.gh-mail.freshprints.com^
-||email.gh-mail.ft.com^
 ||email.gh-mail.fuga.com^
 ||email.gh-mail.fullstory.com^
 ||email.gh-mail.fundraiseup.com^
@@ -11247,7 +11203,6 @@
 ||email.gh-mail.garena.com^
 ||email.gh-mail.gcmlp.com^
 ||email.gh-mail.gdba.com^
-||email.gh-mail.gemini.com^
 ||email.gh-mail.gener8tor.com^
 ||email.gh-mail.generatebiomedicines.com^
 ||email.gh-mail.genevachat.com^
@@ -11289,12 +11244,10 @@
 ||email.gh-mail.goodvets.com^
 ||email.gh-mail.gopuff.com^
 ||email.gh-mail.gorevel.com^
-||email.gh-mail.govaris.com^
 ||email.gh-mail.grafana.com^
 ||email.gh-mail.grammarly.com^
 ||email.gh-mail.graphcore.ai^
 ||email.gh-mail.gravitypayments.com^
-||email.gh-mail.greenchef.com^
 ||email.gh-mail.greenhouse-test.outbrain.com^
 ||email.gh-mail.greenhouse.io^
 ||email.gh-mail.grindr.com^
@@ -11414,7 +11367,6 @@
 ||email.gh-mail.lattice.com^
 ||email.gh-mail.launchdarkly.com^
 ||email.gh-mail.launchpotato.com^
-||email.gh-mail.league.com^
 ||email.gh-mail.learfield.com^
 ||email.gh-mail.leveltenenergy.com^
 ||email.gh-mail.levio.ca^
@@ -11422,19 +11374,15 @@
 ||email.gh-mail.lgresearch.ai^
 ||email.gh-mail.libra.org^
 ||email.gh-mail.lightforceortho.com^
-||email.gh-mail.lightspeedhq.com^
 ||email.gh-mail.lily.ai^
 ||email.gh-mail.lineate.com^
 ||email.gh-mail.lithic.com^
 ||email.gh-mail.lob.com^
 ||email.gh-mail.logicgate.com^
-||email.gh-mail.loom.com^
 ||email.gh-mail.lucidchart.com^
 ||email.gh-mail.m3as.com^
-||email.gh-mail.madhive.com^
 ||email.gh-mail.magic.link^
 ||email.gh-mail.mailchimp.com^
-||email.gh-mail.manypets.com^
 ||email.gh-mail.mapbox.com^
 ||email.gh-mail.mastercontrol.com^
 ||email.gh-mail.materialbank.com^
@@ -11463,16 +11411,13 @@
 ||email.gh-mail.mixmax.com^
 ||email.gh-mail.mixpanel.com^
 ||email.gh-mail.mobilecoin.com^
-||email.gh-mail.mode.com^
 ||email.gh-mail.modeanalytics.com^
-||email.gh-mail.modular.com^
 ||email.gh-mail.moduscreate.com^
 ||email.gh-mail.moloco.com^
 ||email.gh-mail.momentive.ai^
 ||email.gh-mail.monzo.com^
 ||email.gh-mail.moonpay.com^
 ||email.gh-mail.moonpay.io^
-||email.gh-mail.mosaic.co^
 ||email.gh-mail.motional.com^
 ||email.gh-mail.moveparallel.com^
 ||email.gh-mail.mparticle.com^
@@ -11555,7 +11500,6 @@
 ||email.gh-mail.partnerize.com^
 ||email.gh-mail.partners.scale.com^
 ||email.gh-mail.pave.com^
-||email.gh-mail.pax8.com^
 ||email.gh-mail.paxful.com^
 ||email.gh-mail.payhawk.com^
 ||email.gh-mail.paypay-corp.co.jp^
@@ -11563,7 +11507,6 @@
 ||email.gh-mail.payu.com^
 ||email.gh-mail.pearlhealth.com^
 ||email.gh-mail.pecan.ai^
-||email.gh-mail.perion.com^
 ||email.gh-mail.permutive.com^
 ||email.gh-mail.perpay.com^
 ||email.gh-mail.petvisor.com^
@@ -11839,7 +11782,6 @@
 ||email.gh-mail.verveindustrial.com^
 ||email.gh-mail.verygood.systems^
 ||email.gh-mail.verygoodsecurity.com^
-||email.gh-mail.vetbox.com^
 ||email.gh-mail.vhsys.com.br^
 ||email.gh-mail.viderity.com^
 ||email.gh-mail.viessmann.com^
@@ -11897,7 +11839,6 @@
 ||email.gh.gg^
 ||email.gh.iotiip.org^
 ||email.gh5t.com^
-||email.ghanabusinessweb.com^
 ||email.gharpeshiksha.com^
 ||email.ghchscom.myenotice.com^
 ||email.ghctexas.com^
@@ -11954,7 +11895,6 @@
 ||email.ghost.ghost.org^
 ||email.ghost.io^
 ||email.ghost.itangtalk.com^
-||email.ghost.jebosseengrandedistribution.fr^
 ||email.ghost.jeffsu.org^
 ||email.ghost.levernews.com^
 ||email.ghost.maginative.com^
@@ -12311,7 +12251,6 @@
 ||email.goshopclothes.com^
 ||email.goshopgadget.com^
 ||email.gosimplefinance.com^
-||email.gosnaphop.com^
 ||email.gosnowmass.com^
 ||email.gosolo.io^
 ||email.gosouthpadreisland.com^
@@ -12486,7 +12425,6 @@
 ||email.grineopay.com^
 ||email.grinsteadagency.com^
 ||email.grintip.com^
-||email.grippr.nl^
 ||email.gristedes.com^
 ||email.grmouthpieces.com^
 ||email.grocerychoice.co.uk^
@@ -12511,7 +12449,6 @@
 ||email.grow.caaseattle.com^
 ||email.grow.celebrationcrossfit.com^
 ||email.grow.crossfitadm.com^
-||email.grow.crossfitbesomeone.com^
 ||email.grow.crossfitdevotion.com^
 ||email.grow.crossfitlapeer.com^
 ||email.grow.engcrossfit.com^
@@ -12524,24 +12461,20 @@
 ||email.growingfortunes.com^
 ||email.growingpractice.ai^
 ||email.growmybody.com^
-||email.growsmartsmb.com^
 ||email.growth-partner.org^
 ||email.growth.alecforshopify.com^
-||email.growth.changeyourresults.com^
 ||email.growth.reliefnowlaserdoc.com^
 ||email.growth.squidgy.io^
 ||email.growthceo.realestatenexus.io^
 ||email.growtheshow.com^
 ||email.growthonics.com^
 ||email.growthspaceteam.com^
-||email.growthub.app^
 ||email.growthzoneapp.com^
 ||email.growyourcoachingbiz.com^
 ||email.grps-sitemaps.com^
 ||email.grrrl.com^
 ||email.grubby.co.uk^
 ||email.grumpysdrains.com^
-||email.grundsteuer-app.de^
 ||email.grupoancla.co.cr^
 ||email.grupoassessor.movidesk.com^
 ||email.grupoaxo.queop.com^
@@ -12550,7 +12483,6 @@
 ||email.grupoboticario.com.br^
 ||email.grupocasamagalhaes.movidesk.com^
 ||email.grupocmc.es^
-||email.grupocolorines.mx^
 ||email.grupoconserpaenger.com.br^
 ||email.grupodanissa.org^
 ||email.grupoesoc.es^
@@ -12632,7 +12564,6 @@
 ||email.gumboot.com^
 ||email.gunnar.se^
 ||email.gunneryorg.myenotice.com^
-||email.gunpowdermagazine.net^
 ||email.gunrightsfoundation.org^
 ||email.gunsan.cloudoffix.com^
 ||email.gunsourcehawaii.com^
@@ -12685,7 +12616,6 @@
 ||email.hairshopgo.com^
 ||email.haitiwatch.com^
 ||email.hakahonu.cl^
-||email.hakizclub.com^
 ||email.hakkarestaurant.com^
 ||email.halaal.recipes^
 ||email.haldiskin.com^
@@ -12896,7 +12826,6 @@
 ||email.hello.almowear.com^
 ||email.hello.alycedailey.com^
 ||email.hello.anveshan.farm^
-||email.hello.applicantpro.com^
 ||email.hello.arirotoys.com^
 ||email.hello.backboneplm.com^
 ||email.hello.bananaclub.co.in^
@@ -12934,7 +12863,6 @@
 ||email.hello.fertilityliferaft.com^
 ||email.hello.forthelandlords.com^
 ||email.hello.freecultr.com^
-||email.hello.freedomchaserscapital.com^
 ||email.hello.freedomhomesltd.uk^
 ||email.hello.frenchcrown.in^
 ||email.hello.gerlyto.com^
@@ -12955,7 +12883,6 @@
 ||email.hello.homelinkproperty.co.uk^
 ||email.hello.houseofekam.com^
 ||email.hello.idbeingcult.com^
-||email.hello.indinoir.com^
 ||email.hello.interlace.digital^
 ||email.hello.inweaveindia.com^
 ||email.hello.jackedvegan.com^
@@ -12974,7 +12901,6 @@
 ||email.hello.linentrail.com^
 ||email.hello.magiceden.io^
 ||email.hello.mandygonzalez.net^
-||email.hello.mastermindyouragency.com^
 ||email.hello.matriarchdigital.com.au^
 ||email.hello.mindmillionsnotifcations.com^
 ||email.hello.minifeel.in^
@@ -12996,7 +12922,6 @@
 ||email.hello.parulgargbeauty.com^
 ||email.hello.patientsnow.ca^
 ||email.hello.pelagohealth.com^
-||email.hello.pengessentials.com^
 ||email.hello.pinklay.com^
 ||email.hello.poe.net.in^
 ||email.hello.publishinglife.com^
@@ -13258,7 +13183,6 @@
 ||email.hmc.edu^
 ||email.hmnaturopath.com.au^
 ||email.hmv.co.uk^
-||email.hnlaw.com.au^
 ||email.ho-hk.com^
 ||email.ho25.cbcofhouston.com^
 ||email.hoa.lakemoor.org^
@@ -13275,7 +13199,6 @@
 ||email.hobbysouls.com^
 ||email.hockey-cska.ru^
 ||email.hockeystickman.com^
-||email.hocza.com^
 ||email.hodsonconstruction.com^
 ||email.hoerdt.ironbodyfit.com^
 ||email.hogardecristo.trytoku.com^
@@ -13301,7 +13224,6 @@
 ||email.hollybanktrust.com^
 ||email.hollyrosehomes.com^
 ||email.hollywoodnailsspa.com^
-||email.holmesplace.es^
 ||email.holtgard.no^
 ||email.holtonframes.com^
 ||email.holycross.myenotice.com^
@@ -13408,7 +13330,6 @@
 ||email.host.leadbreeze.app^
 ||email.hostarmada.com^
 ||email.hosthinh.com^
-||email.hosting-bagus.com^
 ||email.hostinghype.com^
 ||email.hostkarle.in^
 ||email.hostunited.net^
@@ -13509,7 +13430,6 @@
 ||email.hstreetmedia.com^
 ||email.ht.bupa.com.au^
 ||email.ht.hopeworksdesign.com^
-||email.htapparel.com^
 ||email.htl.org.uk^
 ||email.htm.lawrenceburg.1caringcommunity.com^
 ||email.htmailsender.net^
@@ -13564,20 +13484,14 @@
 ||email.huntleyparks.org^
 ||email.hurdon.biz^
 ||email.hurley2.com^
-||email.hurleyinsurance.com^
 ||email.hurleyinsurancegroup.com^
-||email.hurraasankarit.fi^
 ||email.hurrahelden.at^
-||email.hurrahelden.de^
 ||email.hurraheroes.com^
 ||email.hurraheroes.es^
 ||email.hurraheroes.mx^
-||email.hurraherois.com.br^
 ||email.husfrua.no^
-||email.hushed.com^
 ||email.husl.au^
 ||email.hustlepaintball.com^
-||email.hustlershubacademy.gr^
 ||email.hustlescasino.com^
 ||email.hustlewp.com^
 ||email.hvac.corpmediastretegies.com^
@@ -13716,7 +13630,6 @@
 ||email.id.ese.plus^
 ||email.id.kijiji.ca^
 ||email.id.safetech.io^
-||email.id4africa.org^
 ||email.idahoregisteredagent.com^
 ||email.idata-mg.shopee.com^
 ||email.idcloudhost.com^
@@ -13966,7 +13879,6 @@
 ||email.indozone.id^
 ||email.indsci.com^
 ||email.industrion.com^
-||email.industriousoffice.com^
 ||email.industry.govbrief.us^
 ||email.industry.vfedcon.com^
 ||email.industrypartners.com^
@@ -14006,7 +13918,6 @@
 ||email.info.apolloenergycompany.com^
 ||email.info.artificialintelligencechat.io^
 ||email.info.asaanretail.pk^
-||email.info.athflex.in^
 ||email.info.automedik.cz^
 ||email.info.ayana.com^
 ||email.info.bajamarine.com^
@@ -14626,7 +14537,6 @@
 ||email.iremnyc.org^
 ||email.iresidenz.com^
 ||email.iriecard.com^
-||email.iriem.com^
 ||email.irin.ai^
 ||email.iris.greenhouse.io^
 ||email.irisa.website^
@@ -14812,7 +14722,6 @@
 ||email.janeenalley.com^
 ||email.janeylynns.com^
 ||email.janlburt488.modern-email.com^
-||email.janlenaerts.be^
 ||email.janoskiefinancial.com^
 ||email.jantzen.my^
 ||email.januar.com^
@@ -15247,7 +15156,6 @@
 ||email.jzbxjc.5foldmarketing.com^
 ||email.k-auto.fi^
 ||email.k-ep.hu^
-||email.k.b.aplombdesign.com^
 ||email.k12eta.org^
 ||email.k2automation.com^
 ||email.k2lifecbd.com^
@@ -15569,7 +15477,6 @@
 ||email.kjbm.academiademarketingmedico.net^
 ||email.kjbm.academiadeprosperitate.ro^
 ||email.kjbm.academiaentrenadoresonline.com^
-||email.kjbm.academianomade.com^
 ||email.kjbm.academiarealestate.com.ar^
 ||email.kjbm.academiasuina.com^
 ||email.kjbm.academiaunani.com^
@@ -16377,7 +16284,6 @@
 ||email.kjbm.harrietmharris.com^
 ||email.kjbm.hatchathletic.com^
 ||email.kjbm.healertohealer.com^
-||email.kjbm.healingoils.de^
 ||email.kjbm.healthiest-baby.com^
 ||email.kjbm.healthybrainblueprint.com^
 ||email.kjbm.healthyeatingattraderjoes.com^
@@ -16722,7 +16628,6 @@
 ||email.kjbm.lorenalichardi.com^
 ||email.kjbm.louanneward.com.au^
 ||email.kjbm.louderacademy.com^
-||email.kjbm.louiseamercier.com^
 ||email.kjbm.loveandlogic.com^
 ||email.kjbm.loveattractor.com^
 ||email.kjbm.lovelivinlowsugar.com^
@@ -16922,7 +16827,6 @@
 ||email.kjbm.mujeresensororidad.com^
 ||email.kjbm.mujertierramadre.com^
 ||email.kjbm.mulligainzfitness.com^
-||email.kjbm.mumswhohustle.com.au^
 ||email.kjbm.munirajiwa.ca^
 ||email.kjbm.munronutrition.com^
 ||email.kjbm.musicisum.com^
@@ -17439,7 +17343,6 @@
 ||email.kjbm.thebarbellballerina.com^
 ||email.kjbm.thebeerscholar.com^
 ||email.kjbm.thebeliefscoach.com^
-||email.kjbm.thebestwaytobreakfree.com^
 ||email.kjbm.thebillionsacademy.com^
 ||email.kjbm.thebromleymethod.com^
 ||email.kjbm.thebrothersclub.com^
@@ -17447,7 +17350,6 @@
 ||email.kjbm.thecareeraccelerators.ca^
 ||email.kjbm.thecentreforhealing.com^
 ||email.kjbm.thecentreforhealing.com.au^
-||email.kjbm.theclaritywizard.com^
 ||email.kjbm.thecompletioncoach.co.uk^
 ||email.kjbm.thecontentyogi.com^
 ||email.kjbm.theculturedkid.com^
@@ -17590,7 +17492,6 @@
 ||email.kjbm.uasuniv.com^
 ||email.kjbm.ugameclarity.org^
 ||email.kjbm.ugc.pro^
-||email.kjbm.ukai.com.au^
 ||email.kjbm.ukdividendstocks.com^
 ||email.kjbm.ukelikethepros.com^
 ||email.kjbm.ukulelezen.com^
@@ -17691,7 +17592,6 @@
 ||email.kjbm.yamankunbargi.com^
 ||email.kjbm.yazminvargas.com^
 ||email.kjbm.ynotraisethebar.com^
-||email.kjbm.yodabiku.com^
 ||email.kjbm.yogawithadriene.com^
 ||email.kjbm.yogicstudies.com^
 ||email.kjbm.yogiflightschool.com^
@@ -18069,7 +17969,6 @@
 ||email.layer.com^
 ||email.lays.be^
 ||email.laysanbio.com^
-||email.lazienkiabc.pl^
 ||email.lazyperks.com^
 ||email.lb-marketmedia.com^
 ||email.lbbonline.com^
@@ -18149,7 +18048,6 @@
 ||email.lc.duckettpointe.net^
 ||email.lc.dwiyananggara.com^
 ||email.lc.easybusiness.fr^
-||email.lc.easyfunnels.com.br^
 ||email.lc.ecomfreedom.com^
 ||email.lc.edilvision.it^
 ||email.lc.edubuildwc.co.za^
@@ -18646,7 +18544,6 @@
 ||email.lifecarte.net^
 ||email.lifechoicescenter.org^
 ||email.lifeforcemastery.org^
-||email.lifeinpalestine.org^
 ||email.lifeinsurance.firstdirect.com^
 ||email.lifeistech.co.jp^
 ||email.lifelearn.com^
@@ -19030,7 +18927,6 @@
 ||email.ltdgravelfest.cc^
 ||email.ltdm.ufgtools.com^
 ||email.ltfsoft.com^
-||email.ltigloball.com.br^
 ||email.ltk.leudelange.ironbodyfit.lu^
 ||email.ltk.narbonne.ironbodyfit.com^
 ||email.ltnexpress.com^
@@ -19121,7 +19017,6 @@
 ||email.lyntel.org^
 ||email.lynwoodstripsearch.com^
 ||email.lynxdigital.com.au^
-||email.lyrand.com^
 ||email.lywebmail.com^
 ||email.lzine.com^
 ||email.m-discover.teachable.com^
@@ -19703,11 +19598,9 @@
 ||email.mail.abrams.wiki^
 ||email.mail.abreulawyers.com^
 ||email.mail.academiagrisy.com^
-||email.mail.academiaweb.ca^
 ||email.mail.academicenglishnow.com^
 ||email.mail.academyforcoaches.com^
 ||email.mail.acast.com^
-||email.mail.acb.az^
 ||email.mail.acceladvantage.com^
 ||email.mail.accelpay.io^
 ||email.mail.accessorizelondon.in^
@@ -20355,7 +20248,6 @@
 ||email.mail.flamingoappliance.com^
 ||email.mail.flashpoint.productions^
 ||email.mail.flexdental.co^
-||email.mail.flexisaas.online^
 ||email.mail.flightbooking247.com^
 ||email.mail.flirtinlove.com^
 ||email.mail.flocksafety.com^
@@ -20773,7 +20665,6 @@
 ||email.mail.liquormax.com^
 ||email.mail.lirplan.com^
 ||email.mail.lisaderler.at^
-||email.mail.lisandramorales.com^
 ||email.mail.litige.fr^
 ||email.mail.livegoodinternationalgroup.online^
 ||email.mail.liverightsg.com^
@@ -20908,7 +20799,6 @@
 ||email.mail.mlmprotec.com^
 ||email.mail.mn.co^
 ||email.mail.mobilefox.club^
-||email.mail.mocemar.com.pt^
 ||email.mail.model-cv.com^
 ||email.mail.modelmediaus.com^
 ||email.mail.modento.io^
@@ -20986,7 +20876,6 @@
 ||email.mail.neohome.paris^
 ||email.mail.nepconnect.com^
 ||email.mail.netcredential.com^
-||email.mail.netgenius.co.za^
 ||email.mail.netmi.org^
 ||email.mail.netroadshowmail.com^
 ||email.mail.netscorepro.net^
@@ -21197,7 +21086,6 @@
 ||email.mail.projektpad.de^
 ||email.mail.proof.io^
 ||email.mail.property-portal.uk^
-||email.mail.propertyespresso.au^
 ||email.mail.propstack.de^
 ||email.mail.prospectprocrm.com^
 ||email.mail.protouchskin.com^
@@ -21259,7 +21147,6 @@
 ||email.mail.reepc.org^
 ||email.mail.refreshcoatl.com^
 ||email.mail.releeved.com^
-||email.mail.relentlesssuccessclub.com^
 ||email.mail.reliving.nl^
 ||email.mail.remind101.com^
 ||email.mail.remocure.com^
@@ -21280,7 +21167,6 @@
 ||email.mail.rets.ly^
 ||email.mail.retursenter.no^
 ||email.mail.reupi.net^
-||email.mail.revdmedia.com^
 ||email.mail.reveni.io^
 ||email.mail.revitalize.fitness^
 ||email.mail.revitalumail.com^
@@ -21571,7 +21457,6 @@
 ||email.mail.termin2go.com^
 ||email.mail.terriblytinytales.com^
 ||email.mail.teslertraining.com^
-||email.mail.texassmokeconnection.com^
 ||email.mail.tgfx-academy.com^
 ||email.mail.thamesweyenergy.co.uk^
 ||email.mail.the-barnyard.com^
@@ -22155,7 +22040,6 @@
 ||email.mailgun-us-dev.service.edubase.net^
 ||email.mailgun-us-live.service.edubase.net^
 ||email.mailgun.1729.com^
-||email.mailgun.4321property.com^
 ||email.mailgun.4innovations.ru^
 ||email.mailgun.actuscrm.com.br^
 ||email.mailgun.aimn.it^
@@ -22577,7 +22461,6 @@
 ||email.mails.searuncases.com^
 ||email.mails.spiru.de^
 ||email.mails.spiru.nl^
-||email.mails.talis.ro^
 ||email.mails.thefitboxx.com^
 ||email.mails.themusicden.com^
 ||email.mails.tpsonline.org.uk^
@@ -23174,7 +23057,6 @@
 ||email.medicalaffairs.genmab.com^
 ||email.medicaldevicedepot.com^
 ||email.medicalshield.cyex.com^
-||email.medicosconsultants.com^
 ||email.medidan.directinvoices.com^
 ||email.mediobanca.com^
 ||email.medios.sicar.mx^
@@ -23797,7 +23679,6 @@
 ||email.mg.bambinifashion.com^
 ||email.mg.bamlt.com^
 ||email.mg.bandtshirts.com.au^
-||email.mg.bankdire.co^
 ||email.mg.banksampah.id^
 ||email.mg.banquetrecords.com^
 ||email.mg.bar-bufet.ru^
@@ -24140,7 +24021,6 @@
 ||email.mg.cibofnyc.org^
 ||email.mg.cicerostickers.com^
 ||email.mg.cimm.com.br^
-||email.mg.cinemaemas6.com^
 ||email.mg.cipu.com.tw^
 ||email.mg.circlemedical.co^
 ||email.mg.circleonereferralclub.com^
@@ -24351,7 +24231,6 @@
 ||email.mg.cristianmoletto.com^
 ||email.mg.cristianpalacio.com^
 ||email.mg.crm-cjp.be^
-||email.mg.crm-solutions.org^
 ||email.mg.crmone.work^
 ||email.mg.crmv-pr.org.br^
 ||email.mg.crossfitlakewylie.com^
@@ -25049,7 +24928,6 @@
 ||email.mg.goindigo.tech^
 ||email.mg.goldencity.cz^
 ||email.mg.goldenrama.com^
-||email.mg.goldlinksolutions.com^
 ||email.mg.goldsgym.com.au^
 ||email.mg.goldsgymfl.com^
 ||email.mg.goldstar.com^
@@ -25459,7 +25337,6 @@
 ||email.mg.jobspresso.co^
 ||email.mg.jofanosolutions.com^
 ||email.mg.jogouganhou.com^
-||email.mg.john-anthony.com^
 ||email.mg.johnalan.com.au^
 ||email.mg.johnheng.com.au^
 ||email.mg.joinparallel.io^
@@ -25809,7 +25686,6 @@
 ||email.mg.manifold.markets^
 ||email.mg.mannaseife.de^
 ||email.mg.mannequinpro.fr^
-||email.mg.mapsregistrations.us^
 ||email.mg.marcioweb.com.br^
 ||email.mg.marieelle.co^
 ||email.mg.marijebaktbrood.nl^
@@ -25957,7 +25833,6 @@
 ||email.mg.monavis.io^
 ||email.mg.mondouxapp.com^
 ||email.mg.monetha.io^
-||email.mg.monetisewebsites.com^
 ||email.mg.monetization-providers.com^
 ||email.mg.monetizerei.com^
 ||email.mg.moneyboat.co.uk^
@@ -26412,7 +26287,6 @@
 ||email.mg.pinnacleonlinemarketing.net^
 ||email.mg.piousprojects.org^
 ||email.mg.pixelfiremarketing.com^
-||email.mg.pixsy.com^
 ||email.mg.planamatch.com^
 ||email.mg.planetweb.ng^
 ||email.mg.planinsurance.co.uk^
@@ -27307,7 +27181,6 @@
 ||email.mg.terminals.io^
 ||email.mg.terrigalbh.com.au^
 ||email.mg.test.12build.com^
-||email.mg.testing.qapa.us^
 ||email.mg.tevi.com^
 ||email.mg.tevrapetinsiders.com^
 ||email.mg.tfkworks.com^
@@ -27329,7 +27202,6 @@
 ||email.mg.theboudoirdivas.com^
 ||email.mg.thebouncehabit.com^
 ||email.mg.thebridesquad.co.uk^
-||email.mg.thecalin.com^
 ||email.mg.thecareteamchicago.com^
 ||email.mg.thecbcofmiami.com^
 ||email.mg.thecharlottechurch.org^
@@ -27337,7 +27209,6 @@
 ||email.mg.thecompass.net^
 ||email.mg.thecooperativelogisticsnetwork.com^
 ||email.mg.thecreatorsuniversity.com^
-||email.mg.thecreditchamps.com^
 ||email.mg.thecrossinglv.com^
 ||email.mg.thecryptocode.com^
 ||email.mg.thecsigroup.ca^
@@ -27369,7 +27240,6 @@
 ||email.mg.theloveburn.com^
 ||email.mg.themarketerstoolkit.com^
 ||email.mg.themillwood.ca^
-||email.mg.themine.fit^
 ||email.mg.themis.aurum.com.br^
 ||email.mg.themysticmoments.com^
 ||email.mg.thenetworkingqueen.co.uk^
@@ -27568,7 +27438,6 @@
 ||email.mg.undefeatedtribe.com^
 ||email.mg.undv.ru^
 ||email.mg.unifiedremote.com^
-||email.mg.unify-crm.io^
 ||email.mg.unionbids.com^
 ||email.mg.unionworx.cloud^
 ||email.mg.uniqkey.eu^
@@ -28019,7 +27888,6 @@
 ||email.mg2.skipthedrive.com^
 ||email.mg2.smeetz.com^
 ||email.mg2.social-fitness.co^
-||email.mg2.tejgyan.live^
 ||email.mg2.thedoctorsinternet.net^
 ||email.mg2.thestudentroom.co.uk^
 ||email.mg2.truthfinder.com^
@@ -28386,7 +28254,6 @@
 ||email.misterrei.com^
 ||email.misticopark.com^
 ||email.misticozen.com^
-||email.mistyisleinvestments.com^
 ||email.misynergy.com^
 ||email.mitchellandness.com^
 ||email.mitchellgroup.co.uk^
@@ -29102,7 +28969,6 @@
 ||email.my.nuspinechiropractic.com^
 ||email.my.pandai.org^
 ||email.my.parakey.co^
-||email.my.pixsy.com^
 ||email.my.random-coffee.com^
 ||email.my.rebelfit.io^
 ||email.my.sc.care^
@@ -29245,7 +29111,6 @@
 ||email.mynytg.com^
 ||email.myo.it^
 ||email.myopenads.com^
-||email.myorenew.com^
 ||email.myorganiccompany.store^
 ||email.myorthosoft.com^
 ||email.mypainreliefplan.com^
@@ -29398,7 +29263,6 @@
 ||email.namestation.com^
 ||email.namsebangdzo.com^
 ||email.namsenfiske.no^
-||email.namubaru.com^
 ||email.nanamacs.com^
 ||email.nanasshed.co.nz^
 ||email.nandangse.com^
@@ -29501,7 +29365,6 @@
 ||email.ncr-sea.com^
 ||email.ncrsecurepay.com^
 ||email.ncsglobalinc.com^
-||email.ncsimpact.co^
 ||email.ncsoft.com^
 ||email.ndaapplications.net^
 ||email.ndb.technology^
@@ -30960,7 +30823,6 @@
 ||email.ooshot.com^
 ||email.opaofgreece.com^
 ||email.open-net.co.jp^
-||email.open.aventurineplanning.com^
 ||email.open.dreamfirms.com^
 ||email.open.easymailsender.com^
 ||email.open.qualitycostseg.com^
@@ -31285,7 +31147,6 @@
 ||email.p-ls.org^
 ||email.p-wins.com^
 ||email.p.inyopools.com^
-||email.p.ota.to^
 ||email.p.panels.no^
 ||email.p.planet-ride.com^
 ||email.p.psychotherapymedia.com^
@@ -31941,7 +31802,6 @@
 ||email.pkrc.net^
 ||email.pksrf-mail.com^
 ||email.pkxi.playmetrics.com^
-||email.pl.ed.aplombdesign.com^
 ||email.pl.wowtea.eu^
 ||email.placecom.co^
 ||email.placeloop.com^
@@ -32567,7 +32427,6 @@
 ||email.promosupport.co.uk^
 ||email.promoter-staging-mail.theeventscalendar.com^
 ||email.promoter.theeventscalendar.com^
-||email.promotion.zakryto.sk^
 ||email.promotions-hp.com^
 ||email.promotions.blingbag.co.in^
 ||email.promotions.inayaaccessories.com^
@@ -32918,7 +32777,6 @@
 ||email.quotes.yellowpages.com.au^
 ||email.quparts.com^
 ||email.qupra.nl^
-||email.qwertytech.net^
 ||email.r-d.com.hk^
 ||email.r-health.md^
 ||email.r.congruentclarity.com^
@@ -32948,7 +32806,6 @@
 ||email.r1.getgymlaunched.com^
 ||email.r1.getwebinarkit.com^
 ||email.r1.gunassociation.org^
-||email.r1.guncarrier.com^
 ||email.r1.gymlaunch.com^
 ||email.r1.healingcellular.com^
 ||email.r1.ignitedrops.com^
@@ -34053,7 +33910,6 @@
 ||email.reply.bulkloads.com^
 ||email.reply.bulktms.com^
 ||email.reply.cameronjane.com.au^
-||email.reply.caninsureyou.com^
 ||email.reply.careerplug.com^
 ||email.reply.carehomeprograms.com^
 ||email.reply.casago.com^
@@ -34587,7 +34443,6 @@
 ||email.rg-mail.www.athensgahomesales.com^
 ||email.rg-mail.www.charlievinci.com^
 ||email.rg-mail.www.coloradosprings-homes.com^
-||email.rg-mail.www.discoverphoenixlistings.com^
 ||email.rg-mail.www.emedosrealty.com^
 ||email.rg-mail.www.guamhome.com^
 ||email.rg-mail.www.homesforsell.ca^
@@ -34613,7 +34468,6 @@
 ||email.rg-mail.www.veteranrp.com^
 ||email.rg-mail.www.victoriahousesearch.com^
 ||email.rg-mail.www.vvrela.com^
-||email.rg-mail.www.yourannapolishome.com^
 ||email.rg.cccd.edu^
 ||email.rg.corexcellence.com^
 ||email.rg.greenlandbotanicals.co^
@@ -34867,7 +34721,6 @@
 ||email.rosebox.co.uk^
 ||email.roseinsurancect.com^
 ||email.rosemami.com^
-||email.rosemary.joyfullifehypnotherapy.com^
 ||email.rosematch.com^
 ||email.rosenvik.no^
 ||email.rosettagreetings.com^
@@ -34888,7 +34741,6 @@
 ||email.rotato.app^
 ||email.rothe.cc^
 ||email.rothstaffing.com^
-||email.rotiemail.dcstack.nl^
 ||email.rotors-turbines.com^
 ||email.rotronic.com^
 ||email.rottatransportes.com.br^
@@ -35238,7 +35090,6 @@
 ||email.sat.qc.ca^
 ||email.satisfaction.garagescore.com^
 ||email.satmap.com^
-||email.satoricellars.com^
 ||email.satrabel.be^
 ||email.satsback.com^
 ||email.satsuki.fr^
@@ -35293,7 +35144,6 @@
 ||email.scannavini.wm-marketing.it^
 ||email.scannermaster.com^
 ||email.scarbrough-medlin.com^
-||email.scarfuler.com^
 ||email.scargglioni.pe^
 ||email.scb.bank^
 ||email.scballarat.catholic.edu.au^
@@ -35376,7 +35226,6 @@
 ||email.scrapcarcomparison.co.uk^
 ||email.scrapcarnetwork.org^
 ||email.scrapdelight.nl^
-||email.scrappinalong.com^
 ||email.screengrafexsupply.net^
 ||email.screening.applygateway.com^
 ||email.screening.services^
@@ -35746,7 +35595,6 @@
 ||email.send.yamanshop.ru^
 ||email.send.yellowhousebookrental.com^
 ||email.send.yourautomatedpractice.com^
-||email.send.zacuto.com^
 ||email.send.zinklondon.in^
 ||email.send.ziplinemail.com^
 ||email.send.zouk.co.in^
@@ -36175,7 +36023,6 @@
 ||email.shvetsgroup.com^
 ||email.shyd.de^
 ||email.shygothsecrets.com^
-||email.si.sg.aplombdesign.com^
 ||email.si.wowtea.eu^
 ||email.sia-us.com^
 ||email.siainsurance.com^
@@ -36198,7 +36045,6 @@
 ||email.sidik.id^
 ||email.sidoxia.com^
 ||email.sidwell.myenotice.com^
-||email.siecindia.in^
 ||email.sieg.movidesk.com^
 ||email.siennabyronbay.com.au^
 ||email.sierrapfa.com^
@@ -36716,7 +36562,6 @@
 ||email.snowplus-services.com^
 ||email.snowwash.online^
 ||email.snowyowlcove.com^
-||email.snp.pf^
 ||email.snsa.playmetrics.com^
 ||email.snspolk.tech^
 ||email.snuckls.com^
@@ -36941,7 +36786,6 @@
 ||email.spainculture.us^
 ||email.spandidospublications.net^
 ||email.spanner.org^
-||email.spapartsnet.com^
 ||email.sparcofashion.co.uk^
 ||email.sparcofashion.com^
 ||email.spardomaenesender.de^
@@ -37430,7 +37274,6 @@
 ||email.striv.online^
 ||email.strivehub.selectmedical.com^
 ||email.striveworks.us^
-||email.strk.emarketing360.net^
 ||email.strkecnl.playmetrics.com^
 ||email.strkfcn.playmetrics.com^
 ||email.strong-encryption.com^
@@ -37997,7 +37840,6 @@
 ||email.taglife.co^
 ||email.tahomaadvisory.com^
 ||email.taigersportswear.com^
-||email.taihengsteel.com^
 ||email.tainangviet.com.vn^
 ||email.tainstva.ru^
 ||email.taipei.myenotice.com^
@@ -38833,7 +38675,6 @@
 ||email.thomasleigh.ca^
 ||email.thomasmarsden.com.au^
 ||email.thomasmasi.com^
-||email.thompsonbaker.com^
 ||email.thompsontractor.com^
 ||email.thongtinvacxin.com^
 ||email.thorito.com^
@@ -39496,7 +39337,6 @@
 ||email.turbineservices.com^
 ||email.turboscribe.ai^
 ||email.turcu.co^
-||email.turegalo.axa.es^
 ||email.turegaloadeslas.es^
 ||email.turegalodirect.es^
 ||email.turegalopelayo.com^
@@ -40149,7 +39989,6 @@
 ||email.vendavoeps.com^
 ||email.vendor.pengadaan.com^
 ||email.veneziaimpianti.it^
-||email.venice-host.net^
 ||email.venio.com^
 ||email.vennamedia.com^
 ||email.ventalink.com^
@@ -40404,7 +40243,6 @@
 ||email.vitiligoorganics.com^
 ||email.vitinhphatdat.com^
 ||email.vitraining.com^
-||email.vitrinni.com.br^
 ||email.vitrolabsinc.com^
 ||email.vittorioarpini.it^
 ||email.viu.ca^
@@ -40516,7 +40354,6 @@
 ||email.vto.pe^
 ||email.vtpgroup.sell.do^
 ||email.vunesp.movidesk.com^
-||email.vuram.com^
 ||email.vushstimulation.com^
 ||email.vuxendejter.com^
 ||email.vwautomotiveparts.com^
@@ -40683,7 +40520,6 @@
 ||email.weathershieldpromise.co.uk^
 ||email.weavatools.com^
 ||email.web-adl.org^
-||email.web-pmg.com^
 ||email.web.docturno.com^
 ||email.web.garnetek.xyz^
 ||email.web.go-jek.com^
@@ -40840,7 +40676,6 @@
 ||email.westsidespa.ca^
 ||email.westslc.com.au^
 ||email.westvicphn.com.au^
-||email.westvirginiaregisteredagent.com^
 ||email.wesupporttrump.org^
 ||email.weswaplinks.app^
 ||email.wetid.de^
@@ -40944,7 +40779,6 @@
 ||email.win.govbrief.us^
 ||email.winacity.com^
 ||email.winandmaximize.co^
-||email.winarrow.com^
 ||email.winback.acerto.com.br^
 ||email.winback.meuacerto.com.br^
 ||email.winbet.bg^
@@ -41521,7 +41355,6 @@
 ||email.zoagelockusa.com^
 ||email.zocalo.sandbox.foldhealth.io^
 ||email.zocco.au^
-||email.zodadigitaldoctor.com^
 ||email.zodaonline.com^
 ||email.zodiix.com^
 ||email.zolamedia.com^
@@ -42903,7 +42736,6 @@
 ||track.clairoyant-ai.info^
 ||track.clairvoyant-ai.pro^
 ||track.csdpatientsolutions.com^
-||track.deerfoot.co.uk^
 ||track.email-coriosgroup.com^
 ||track.email-sorted.com^
 ||track.email.32.team^

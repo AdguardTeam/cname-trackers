@@ -54,6 +54,7 @@
 ||a.acervox.com^
 ||a.antiadxxxspy.com^
 ||a.artamkari.com^
+||a.atris.xyz^
 ||a.badword.xyz^
 ||a.bitporno.com^
 ||a.bitporno.to^
@@ -67,6 +68,7 @@
 ||a.dhoma.xyz^
 ||a.digitalgiftshopping.com^
 ||a.donyandmark.xyz^
+||a.ebolat.xyz^
 ||a.everymark.xyz^
 ||a.famestporn.com^
 ||a.fapcat.com^
@@ -84,14 +86,18 @@
 ||a.kamehaus.net^
 ||a.kantotin.net^
 ||a.kizzteen.com^
+||a.lakmus.xyz^
 ||a.letsjerk.org^
 ||a.letsjerk.tv^
 ||a.mafon.xyz^
 ||a.medriz.xyz^
+||a.memia.xyz^
 ||a.memosaqee.com^
+||a.merig.xyz^
 ||a.misctool.xyz^
 ||a.muipe.xyz^
 ||a.myprettyads.one^
+||a.obrom.xyz^
 ||a.pandaporner.com^
 ||a.pinayviralsexx.com^
 ||a.pinoymoviepedia.ru^
@@ -145,6 +151,7 @@
 ||ads.ad3d.icu^
 ||ads.ads-goodstream.homes^
 ||ads.crazyads.icu^
+||ads.eporno.pro^
 ||ads.free-to.download^
 ||ads.gotxx.net^
 ||ads.hentaiheart.com^
@@ -192,6 +199,7 @@
 ||as1.maturexxx.vip^
 ||ascc.javquick.com^
 ||asdf.eldos.xyz^
+||asds.hentaitimes.com^
 ||asg.animehdl.net^
 ||asg.aphex.me^
 ||asg.asian-av.com^
@@ -252,7 +260,6 @@
 ||blog.andropps.com^
 ||blow.week1time.com^
 ||bltkm.spinna.store^
-||bolz.lol^
 ||boob.sukaporn.com^
 ||bort.busty-wife.com^
 ||buatru.xyz^
@@ -276,7 +283,6 @@
 ||cdn.sdtraff.com^
 ||cdn.yenidwa.com^
 ||cdn1.delii2.art^
-||cdn1.hentaitimes.com^
 ||cdn3.cartoonporn.to^
 ||cdn3.hentaihand.com^
 ||cdn3.hentok.com^
@@ -332,6 +338,7 @@
 ||extra.imoxxnx.com^
 ||eznoz.xyz^
 ||f-g-l-j.22yy6.com^
+||f.bfvideo1.com^
 ||f.bloblohub.com^
 ||f5w.prettytube.net^
 ||f92or5.spinna.shop^
@@ -353,7 +360,6 @@
 ||g6j.cupidonmedia.com^
 ||game.starswalker.site^
 ||getallt1.com^
-||gg.xszcdn.com^
 ||ghtry.amateurswild.com^
 ||glass.rubyrevenue.com^
 ||glokta.info^
@@ -426,11 +432,9 @@
 ||kaizzz.xyz^
 ||key.sexymovie.name^
 ||kfioeld.spinna.shop^
-||khoilive.xyz^
 ||kliqz.com^
 ||ko.faptor.com^
 ||ko.starwank.com^
-||krplss.click^
 ||kuhdsysdas.indexsubtitle.com^
 ||kx4.firstsexfilm.com^
 ||l.bloblohub.com^
@@ -472,7 +476,6 @@
 ||menguzi.xyz^
 ||mentuab.xyz^
 ||menui.xyz^
-||meoem.lol^
 ||metabuz.xyz^
 ||mficlyxgvfsp.cdnvideo3.com^
 ||mgbkt9eckr.xn--mgbkt9eckr.net^
@@ -489,7 +492,6 @@
 ||n.bloblohub.com^
 ||n.hnntube.com^
 ||n.hubhubhub.name^
-||naiyoz.lol^
 ||nanbody.spinna.shop^
 ||nav.srcdn.xyz^
 ||net.contoseroticoscnn.com^
@@ -585,7 +587,7 @@
 ||q.leru.xyz^
 ||q.roovs.xyz^
 ||qhip.com^
-||qoutec.shop^
+||qoqv.com^
 ||qovua60gue.tubewolf.com^
 ||qsdr.mysunnylawn.com^
 ||quantoz.xyz^
@@ -646,8 +648,9 @@
 ||sg.xclick24.com^
 ||sgzhg.pornlovo.co^
 ||shaeian.xyz^
+||sharion.xyz^
 ||shenzo.xyz^
-||shmeia.xyz^
+||shinep.xyz^
 ||shukri.mwikace.com^
 ||shurku.mkace.net^
 ||sis.facesittingbbw.com^
@@ -679,14 +682,12 @@
 ||tagun.xyz^
 ||tangpuax.xyz^
 ||tankiuz.xyz^
-||tayrambo.lol^
 ||tb.turbocap.net^
 ||templa.xyz^
 ||tentubu.xyz^
 ||test.shrinkbit.in^
 ||test2.maxx.ddac.ru^
 ||testcommon.soundrussian.com^
-||thaz.xyz^
 ||tiktakz.xyz^
 ||tkwe.tjaard11.xyz^
 ||tlv.ui02.com^
@@ -724,7 +725,6 @@
 ||vv.7vid.net^
 ||vz.7vid.net^
 ||w00t.us^
-||waihoz.xyz^
 ||watekade.xyz^
 ||ww.0prn.com^
 ||ww.cvideos.stream^
@@ -747,6 +747,7 @@
 ||www.spinna.xyz^
 ||www.uk.boffinsoft.com^
 ||www.w00t.us^
+||www.zqwe.ru^
 ||www4.hentai-rpg.com^
 ||www4.hentaigamecg.com^
 ||www6.freeanimesource.com^

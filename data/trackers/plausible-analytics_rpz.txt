@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1709539219667        ; Serial
+           1710144022398        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -362,7 +362,6 @@ statistik.apartments-tirolerhaus.at CNAME .
 statman.sesong.info CNAME .
 stats-aah.gigride.live CNAME .
 stats-whatever.gigride.live CNAME .
-stats.45rpm.ch CNAME .
 stats.69grad.de CNAME .
 stats.acadevor.com CNAME .
 stats.achtsame-yonimassage.de CNAME .
@@ -653,7 +652,6 @@ stats.lefthoek.com CNAME .
 stats.legendofnom.com CNAME .
 stats.leoloso.com CNAME .
 stats.liamdavis.dev CNAME .
-stats.libertyembers.com CNAME .
 stats.lica.at CNAME .
 stats.lik.fr CNAME .
 stats.limitlessnetworks.eu CNAME .
@@ -902,10 +900,8 @@ stats.uxtools.co CNAME .
 stats.v4.agirpourlenvironnement.org CNAME .
 stats.vanityprojects.com CNAME .
 stats.vdsnow.ru CNAME .
-stats.vertis.io CNAME .
 stats.vican.me CNAME .
 stats.visions.ch CNAME .
-stats.voedingskussen.net CNAME .
 stats.voltamediahouse.com CNAME .
 stats.voltimum.com CNAME .
 stats.wachstum.at CNAME .

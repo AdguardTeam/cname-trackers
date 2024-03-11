@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1709539219667        ; Serial
+           1710144022398        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,6 +48,7 @@ trk.nuernberger.de CNAME .
 w3.flatex.es CNAME .
 w3.flatex.nl CNAME .
 wbtrkk.teufelaudio.co.uk CNAME .
+webts.adac.de CNAME .
 wt.distrelec.com CNAME .
 wtm.interhyp.de CNAME .
 www7.springer.com CNAME .
@@ -319,7 +320,6 @@ web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
 web.marcotozzi.com CNAME .
 web.marketing.elbenwald.de CNAME .
-web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.creedfragrances.co.uk CNAME .
 web.news.dixiefashion.com CNAME .
@@ -406,3 +406,4 @@ wttd.madeleine.co.uk CNAME .
 wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
+web.marketing.jellybelly.com CNAME .
