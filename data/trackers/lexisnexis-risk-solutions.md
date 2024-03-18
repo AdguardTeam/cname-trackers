@@ -115,7 +115,6 @@
     * h-96ch0zc2.online-metrix.net
     * h-96clh8g7.online-metrix.net
     * h-9bkavv7r.online-metrix.net
-    * h-9f85se8g.online-metrix.net
     * h-9ivuwf8u.online-metrix.net
     * h-9kqz9786.online-metrix.net
     * h-9wtp561i.online-metrix.net
@@ -894,7 +893,6 @@
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
-| wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
 | contendvc.cnouyi.pizza | h-9kqz9786.online-metrix.net |
 | devices.yondercard.com | h-9wtp561i.online-metrix.net |

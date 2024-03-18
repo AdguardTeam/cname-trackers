@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710144022398        ; Serial
+           1710748824706        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -282,7 +282,6 @@ plausible.tlschedule.com CNAME .
 plausible.treelightsoftware.com CNAME .
 plausible.umbrellaanalytics.net CNAME .
 plausible.urbanekuensteruhr.de CNAME .
-plausible.vaughanesports.org CNAME .
 plausible.veszelovszki.com CNAME .
 plausible.visitu.com CNAME .
 plausible.viteshot.com CNAME .
@@ -386,7 +385,6 @@ stats.astrr.ru CNAME .
 stats.asymptotic.io CNAME .
 stats.auto-dombrowski.de CNAME .
 stats.autofarm.network CNAME .
-stats.balticgruppen.se CNAME .
 stats.bananatimer.com CNAME .
 stats.bcdtravel.com CNAME .
 stats.beanr.coffee CNAME .
@@ -496,7 +494,6 @@ stats.dotplan.io CNAME .
 stats.doublejones.com CNAME .
 stats.dreher-dreher.eu CNAME .
 stats.drsaavedra.mx CNAME .
-stats.drtdentist.ro CNAME .
 stats.dt-esthetique.ch CNAME .
 stats.duetcode.io CNAME .
 stats.earlygame.com CNAME .
@@ -546,7 +543,6 @@ stats.fundimmo.com CNAME .
 stats.fungus.computer CNAME .
 stats.galeb.org CNAME .
 stats.galleriacortona.com CNAME .
-stats.gbc.uk CNAME .
 stats.geobox.app CNAME .
 stats.gesund-vital-lebensfreude.com CNAME .
 stats.getdoks.org CNAME .
@@ -902,7 +898,6 @@ stats.vanityprojects.com CNAME .
 stats.vdsnow.ru CNAME .
 stats.vican.me CNAME .
 stats.visions.ch CNAME .
-stats.voltamediahouse.com CNAME .
 stats.voltimum.com CNAME .
 stats.wachstum.at CNAME .
 stats.walkiees.co.uk CNAME .
@@ -940,7 +935,6 @@ traffic.hostedstatus.page CNAME .
 traffic.taktikal.is CNAME .
 tree.indot.nl CNAME .
 triton.companyegg.com CNAME .
-trolina.mikitvba.com CNAME .
 varys.asongofzandc.xyz CNAME .
 views.emikajewelry.com CNAME .
 views.ericcapella.com CNAME .

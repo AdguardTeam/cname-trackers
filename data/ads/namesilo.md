@@ -1201,7 +1201,6 @@
 | api.slice.exchange | x0xmrxm4.ab1n.net |
 | api.tf4srv.com | x0xmrxm4.ab1n.net |
 | api.trafficfactory.com | x0xmrxm4.ab1n.net |
-| main.trafficfactory.com | x0xmrxm4.ab1n.net |
 | management-addisplaynetwork.exads.com | x0xmrxm4.ab1n.net |
 | management-adwirk.exads.com | x0xmrxm4.ab1n.net |
 | management-boost.exads.com | x0xmrxm4.ab1n.net |

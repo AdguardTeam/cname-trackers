@@ -51,7 +51,6 @@
     * hattiesburgamerican.extole.com
     * healthypaws.extole.com
     * hostgator.extole.com
-    * icracked.extole.com
     * indochino.extole.com
     * integrativenutrition-ssl.extole.com
     * intuit-accountants.extole.com
@@ -219,6 +218,9 @@
     * cle-de-peau.extole.io
     * clevelandgolf.extole.io
     * clinique.extole.io
+    * cliniqueau.extole.io
+    * cliniquejp.extole.io
+    * cliniquekr.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -333,6 +335,7 @@
     * issaonline.extole.io
     * itbed.extole.io
     * iteach.extole.io
+    * jellybelly.extole.io
     * jewelersmutual.extole.io
     * jhfcu.extole.io
     * joann.extole.io
@@ -394,6 +397,7 @@
     * ngfcu.extole.io
     * ninja-kitchen.extole.io
     * novig.extole.io
+    * nuts.extole.io
     * obagi.extole.io
     * olehenriksen.extole.io
     * olivegarden.extole.io
@@ -471,7 +475,6 @@
     * shoplc.extole.io
     * shu-uemura-art-of-hair.extole.io
     * shutterstock.extole.io
-    * signals.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
     * skillshare.extole.io
@@ -485,6 +488,7 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -496,7 +500,9 @@
     * studentuniverse.extole.io
     * studiosashiko.extole.io
     * suncoastcreditunion.extole.io
+    * sundancevacations.extole.io
     * sundaysfordogs.extole.io
+    * suneast.extole.io
     * swansonvitamins.extole.io
     * swordhealth.extole.io
     * take5oilchange.extole.io
@@ -524,6 +530,7 @@
     * trafalgar.extole.io
     * travelzoo.extole.io
     * truckstop.extole.io
+    * turbotax.extole.io
     * tweglobal.extole.io
     * twisthair.extole.io
     * unchartedsociety.extole.io
@@ -546,6 +553,7 @@
     * vonagebusiness.extole.io
     * vonagebusinessuk.extole.io
     * wagwalking.extole.io
+    * walmartmoneycard.em.extole.io
     * walmartmoneycard.extole.io
     * wearesouthwind.extole.io
     * wecohospitality.extole.io
@@ -709,6 +717,9 @@
 | refer.clearme.com | clearme-ssl.extole.com |
 | share.dunlopsports.com | clevelandgolf.extole.io |
 | share.refer-clinique.com | clinique.extole.io |
+| share.refer-clinique.com.au | cliniqueau.extole.io |
+| share.refer-clinique.jp | cliniquejp.extole.io |
+| share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -896,7 +907,6 @@
 | refer.hsn.com | hsn.extole.io |
 | refer.hushpuppies.com | hush.extole.io |
 | share.hydropeptide.com | hydropeptide.extole.io |
-| refer.icracked.com | icracked.extole.com |
 | share.imagemarket.com | imagemarket.extole.io |
 | refer.incommonbeauty.com | incommonbeauty.extole.io |
 | share.incrediblebank.com | incrediblebank.extole.io |
@@ -913,6 +923,7 @@
 | refer.itbed.com | itbed.extole.io |
 | share.iteach.net | iteach.extole.io |
 | refer.jacksonsun.com | jacksonsun.extole.com |
+| share.jellybelly.com | jellybelly.extole.io |
 | refer.jewelersmutual.com | jewelersmutual.extole.io |
 | share.jhfcu.org | jhfcu.extole.io |
 | refer.joann.com | joann.extole.io |
@@ -999,6 +1010,7 @@
 | share.ngfcu.us | ngfcu.extole.io |
 | refer.ninjakitchen.com | ninja-kitchen.extole.io |
 | share.novig.us | novig.extole.io |
+| share.nuts.com | nuts.extole.io |
 | refer.nvidia.com | nvidia-ssl.extole.com |
 | share.obagi.com | obagi.extole.io |
 | refer.offset.com | offset.extole.com |
@@ -1116,7 +1128,6 @@
 | share.shoplc.com | shoplc.extole.io |
 | refer.shuuemuraartofhair-usa.com | shu-uemura-art-of-hair.extole.io |
 | share.shutterstock.com | shutterstock.extole.io |
-| refer.signals.com | signals.extole.io |
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
@@ -1134,6 +1145,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |
@@ -1147,7 +1159,9 @@
 | refer.studentuniverse.com.au | studentuniverse.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
+| refer.sundancevacations.com | sundancevacations.extole.io |
 | share.sundaysfordogs.com | sundaysfordogs.extole.io |
+| share.suneast.org | suneast.extole.io |
 | refer.swansonvitamins.com | swansonvitamins.extole.io |
 | share.swordhealth.com | swordhealth.extole.io |
 | refer.take5oilchange.com | take5oilchange.extole.io |
@@ -1191,6 +1205,7 @@
 | share.travelzoo.com | travelzoo.extole.io |
 | share.truckstop.com | truckstop.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
+| refer.intuit.com | turbotax.extole.io |
 | share.beringer.com | tweglobal.extole.io |
 | share.bvwines.com | tweglobal.extole.io |
 | share.penfolds.com | tweglobal.extole.io |
@@ -1235,6 +1250,7 @@
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
 | refer.vonage.co.uk | vonageuk.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
+| em9523.walmartmoneycard.com | walmartmoneycard.em.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |
 | refer.themvpkc.com | wearesouthwind.extole.io |

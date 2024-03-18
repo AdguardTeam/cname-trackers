@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710144022398        ; Serial
+           1710748824706        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1020,7 +1020,6 @@ west-eu-0156743.medirect.be CNAME .
 west-eu-0156743.medirect.com.mt CNAME .
 west-eu-0156743.medirect.nl CNAME .
 wildcard.humm.ie CNAME .
-wkvjee5b.globalpay.com CNAME .
 wp.kroger.com CNAME .
 ww3.fundingstream.com CNAME .
 ww3.marlincapitalsolutions.com CNAME .

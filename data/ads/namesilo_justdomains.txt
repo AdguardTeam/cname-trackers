@@ -1034,7 +1034,6 @@ main.exdynsrv.com
 main.exoclick.com
 main.exosrv.com
 main.realsrv.com
-main.trafficfactory.com
 main0.exosrv.com
 management-addisplaynetwork.exads.com
 management-adwirk.exads.com

@@ -72,6 +72,7 @@
 ||mkt.usz.ch^
 ||montpalatin.handicap.fr^
 ||pear.ca-eko-globetrotter.fr^
+||pear.youzful-by-ca.fr^
 ||ponyo.cheriefm.fr^
 ||protys.protys.fr^
 ||res.elle.fr^

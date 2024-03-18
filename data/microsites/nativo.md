@@ -358,5 +358,4 @@
 | ff6840b5f0.338d2db673.com | ntvpforever.com |
 | i.selecttopoff.com | ntvpforever.com |
 | a235.chron.com | unavailable.hearstnp.com |
-| a235.ourmidland.com | unavailable.hearstnp.com |
 | a235.seattlepi.com | unavailable.hearstnp.com |

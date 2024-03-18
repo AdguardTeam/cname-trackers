@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710144022398        ; Serial
+           1710748824706        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1023,7 +1023,6 @@ tern.daffy.org CNAME .
 tern.xebel.co CNAME .
 tick.pcrpriser.se CNAME .
 tick.sculch.app CNAME .
-tiger.devlib.se CNAME .
 tigershark.garethtdavies.com CNAME .
 tigershark.moonpot.com CNAME .
 tigershark.paavanmagic.com CNAME .
@@ -1156,10 +1155,11 @@ cdn.admatic.com.tr CNAME .
 cdn.adsninja.ca CNAME .
 cdn.affiliatable.io CNAME .
 cdn.dircont3.com CNAME .
-cdn.shrtfly.vip CNAME .
+cdn.responsiq.com CNAME .
 cdn.studiosis.in CNAME .
 cdn.unibotscdn.com CNAME .
 ucdn.adgebra.co CNAME .
+cdn.shrtfly.vip CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .
@@ -1175,4 +1175,3 @@ static.nfly.cc CNAME .
 static.xlyyzx.sbs CNAME .
 thirty-good.lugg.com CNAME .
 video.adsninja.ca CNAME .
-giraffe.fnd.info CNAME .

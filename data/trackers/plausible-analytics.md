@@ -286,7 +286,6 @@
 | plausible.treelightsoftware.com | custom.plausible.io |
 | plausible.umbrellaanalytics.net | custom.plausible.io |
 | plausible.urbanekuensteruhr.de | custom.plausible.io |
-| plausible.vaughanesports.org | custom.plausible.io |
 | plausible.veszelovszki.com | custom.plausible.io |
 | plausible.visitu.com | custom.plausible.io |
 | plausible.viteshot.com | custom.plausible.io |
@@ -390,7 +389,6 @@
 | stats.asymptotic.io | custom.plausible.io |
 | stats.auto-dombrowski.de | custom.plausible.io |
 | stats.autofarm.network | custom.plausible.io |
-| stats.balticgruppen.se | custom.plausible.io |
 | stats.bananatimer.com | custom.plausible.io |
 | stats.bcdtravel.com | custom.plausible.io |
 | stats.beanr.coffee | custom.plausible.io |
@@ -500,7 +498,6 @@
 | stats.doublejones.com | custom.plausible.io |
 | stats.dreher-dreher.eu | custom.plausible.io |
 | stats.drsaavedra.mx | custom.plausible.io |
-| stats.drtdentist.ro | custom.plausible.io |
 | stats.dt-esthetique.ch | custom.plausible.io |
 | stats.duetcode.io | custom.plausible.io |
 | stats.earlygame.com | custom.plausible.io |
@@ -550,7 +547,6 @@
 | stats.fungus.computer | custom.plausible.io |
 | stats.galeb.org | custom.plausible.io |
 | stats.galleriacortona.com | custom.plausible.io |
-| stats.gbc.uk | custom.plausible.io |
 | stats.geobox.app | custom.plausible.io |
 | stats.gesund-vital-lebensfreude.com | custom.plausible.io |
 | stats.getdoks.org | custom.plausible.io |
@@ -906,7 +902,6 @@
 | stats.vdsnow.ru | custom.plausible.io |
 | stats.vican.me | custom.plausible.io |
 | stats.visions.ch | custom.plausible.io |
-| stats.voltamediahouse.com | custom.plausible.io |
 | stats.voltimum.com | custom.plausible.io |
 | stats.wachstum.at | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
@@ -944,7 +939,6 @@
 | traffic.taktikal.is | custom.plausible.io |
 | tree.indot.nl | custom.plausible.io |
 | triton.companyegg.com | custom.plausible.io |
-| trolina.mikitvba.com | custom.plausible.io |
 | varys.asongofzandc.xyz | custom.plausible.io |
 | views.emikajewelry.com | custom.plausible.io |
 | views.ericcapella.com | custom.plausible.io |

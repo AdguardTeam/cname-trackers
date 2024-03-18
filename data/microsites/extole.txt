@@ -55,7 +55,6 @@
 ||refer.harimari.com^
 ||refer.hattiesburgamerican.com^
 ||refer.healthypawspetinsurance.com^
-||refer.icracked.com^
 ||refer.integrativenutrition.com^
 ||refer.jacksonsun.com^
 ||refer.johnson.ca^
@@ -129,6 +128,8 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
+||em924.refer.starbucks.com^
+||em9523.walmartmoneycard.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -262,6 +263,7 @@
 ||refer.hushpuppies.com^
 ||refer.incommonbeauty.com^
 ||refer.indeed.com^
+||refer.intuit.com^
 ||refer.issaonline.com^
 ||refer.itbed.com^
 ||refer.jewelersmutual.com^
@@ -349,7 +351,6 @@
 ||refer.sharetodoist.com^
 ||refer.sharkclean.com^
 ||refer.shuuemuraartofhair-usa.com^
-||refer.signals.com^
 ||refer.skinceuticals.com^
 ||refer.skyone.org^
 ||refer.sleepnumber.com^
@@ -365,6 +366,7 @@
 ||refer.studentuniverse.com^
 ||refer.studentuniverse.com.au^
 ||refer.sugarandjade.com^
+||refer.sundancevacations.com^
 ||refer.swansonvitamins.com^
 ||refer.take5oilchange.com^
 ||refer.tatcha.co.uk^
@@ -534,6 +536,7 @@
 ||share.iqfiber.com^
 ||share.iteach.net^
 ||share.jacksonsun.com^
+||share.jellybelly.com^
 ||share.jhfcu.org^
 ||share.juicepress.com^
 ||share.juvlabs.com^
@@ -564,6 +567,7 @@
 ||share.ngfcu.us^
 ||share.northjersey.com^
 ||share.novig.us^
+||share.nuts.com^
 ||share.obagi.com^
 ||share.olivegarden.com^
 ||share.ollocard.com^
@@ -592,6 +596,9 @@
 ||share.refer-bumbleandbumble.co.uk^
 ||share.refer-bumbleandbumble.com^
 ||share.refer-clinique.com^
+||share.refer-clinique.com.au^
+||share.refer-clinique.jp^
+||share.refer-cliniquekorea.co.kr^
 ||share.refer-darphin.com^
 ||share.refer-darphin.fr^
 ||share.refer-esteelauder.ca^
@@ -639,6 +646,7 @@
 ||share.stridehealth.com^
 ||share.studiosashiko.com^
 ||share.sundaysfordogs.com^
+||share.suneast.org^
 ||share.swordhealth.com^
 ||share.tallahassee.com^
 ||share.tauntongazette.com^
@@ -685,6 +693,5 @@
 ||em4367.raf-studentloans.discover.com^
 ||em8561.go2bank.com^
 ||em8928.em.petco.com^
-||em924.refer.starbucks.com^
 ||xtl._domainkey.skillshare.com^
 ||sftp.extole.com^

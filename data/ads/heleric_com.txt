@@ -10,7 +10,6 @@
 ||an.pintaentrep.com^
 ||ao.tournaipestles.com^
 ||ap.bouncelargo.com^
-||aq.ferisonledger.com^
 ||ar.pagodaskeeker.com^
 ||at.laundawaits.com^
 ||au.bolloxcyclism.com^
@@ -31,7 +30,6 @@
 ||be.jambertarry.com^
 ||bf.buffersling.com^
 ||bf.shodeoaters.com^
-||bg.unbarbpoured.com^
 ||bh.twifoilperoxyl.com^
 ||bi.narineware.com^
 ||bj.pplferio.com^
@@ -182,7 +180,6 @@
 ||jg.devaultautit.com^
 ||jj.boodymauves.com^
 ||jj.jaupsgrimes.com^
-||jl.reckonpretax.com^
 ||jm.ethylintusker.com^
 ||jm.fallagerampire.com^
 ||jo.dinahmirv.com^
@@ -315,7 +312,6 @@
 ||qy.narrateharmala.com^
 ||qz.equalsenframe.com^
 ||ra.birdeyedigenea.com^
-||rc.chemispelecan.com^
 ||rd.gamglossae.com^
 ||rd.pulayanyet.com^
 ||rg.canesbilker.com^
@@ -357,7 +353,6 @@
 ||ta.acedtousles.com^
 ||tb.nebackalien.com^
 ||tc.bovateoutrate.com^
-||tc.puinavikytes.com^
 ||td.anasphragma.com^
 ||te.stionicfives.com^
 ||th.micheryfrugal.com^
@@ -397,7 +392,6 @@
 ||ux.arsesresumes.com^
 ||ux.withinshobbist.com^
 ||uz.gamyboxbush.com^
-||va.ungracebaited.com^
 ||vc.rompishvariola.com^
 ||vd.clipserelock.com^
 ||ve.gweedunweld.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710144022398        ; Serial
+           1710748824706        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -270,6 +270,7 @@ pfa.levexis.com CNAME .
 privacy-digital.mandg.com CNAME .
 privacy-digital.pru.co.uk CNAME .
 privacy-digital.pruadviser.co.uk CNAME .
+privacy-digital.pruretire.co.uk CNAME .
 privacy.28degreescard.com.au CNAME .
 privacy.acaseforwomen.com CNAME .
 privacy.acc2-online.heineken.co.za CNAME .

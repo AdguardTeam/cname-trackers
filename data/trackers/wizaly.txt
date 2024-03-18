@@ -92,6 +92,7 @@
 ||tk.gustaveroussy.fr^
 ||tk.healthwarehouse.com^
 ||tk.hypnia.co.uk^
+||tk.hypnia.de^
 ||tk.hypnia.es^
 ||tk.hypnia.fr^
 ||tk.hypnia.nl^

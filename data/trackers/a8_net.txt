@@ -751,7 +751,6 @@
 ||a8cv.a-satei.com^
 ||a8cv.accelfacter.co.jp^
 ||a8cv.access-jp.jp^
-||a8cv.adornmonde.com^
 ||a8cv.aff.life-110.com^
 ||a8cv.aiambeauty.jp^
 ||a8cv.air-wifiinternet.jp^
@@ -1188,7 +1187,6 @@
 ||a8cv.success-idea.com^
 ||a8cv.sumai-surfin.com^
 ||a8cv.sunmillion-ikiiki.jp^
-||a8cv.surusuru.jp^
 ||a8cv.suzaku.or.jp^
 ||a8cv.suzette-shop.jp^
 ||a8cv.sweets-paradise-shop.com^
@@ -1298,7 +1296,6 @@
 ||a8net.gset.co.jp^
 ||a8net.hassyadai.com^
 ||a8net.kitamura-print.com^
-||a8net.mellow-cbd.jp^
 ||a8net.pg-learning.net^
 ||a8net.sourcenext.com^
 ||a8netcv.crebiq.com^
@@ -1505,7 +1502,6 @@
 ||rsv.pairorder.jp^
 ||salto.freeto.jp^
 ||sekaopi.nocre.jp^
-||sfcv.chinavi-shop.jp^
 ||shop.anu-cosme.com^
 ||shopping.cellpure.co.jp^
 ||smn.dankore.jp^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710144022398        ; Serial
+           1710748824706        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -170,6 +170,7 @@ affiliate.herbadent.cz CNAME .
 affiliate.hokr.eu CNAME .
 affiliate.horseandme.eu CNAME .
 affiliate.ihrelinsen.at CNAME .
+affiliate.inkytattoo.cz CNAME .
 affiliate.isetos.cz CNAME .
 affiliate.ispace.cz CNAME .
 affiliate.jasnaznacka.cz CNAME .
@@ -448,6 +449,7 @@ partner.bio-nechty.sk CNAME .
 partner.bio-nehty.cz CNAME .
 partner.bioaromakosmetika.cz CNAME .
 partner.bohemiaclean.eu CNAME .
+partner.bohempia.com CNAME .
 partner.bontonck.cz CNAME .
 partner.bonyplus.cz CNAME .
 partner.booktook.cz CNAME .
@@ -527,6 +529,7 @@ partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
 partner.forexrebel.net CNAME .
 partner.generatorvodiku.cz CNAME .
+partner.gingershot.cz CNAME .
 partner.giulieta.shop CNAME .
 partner.goelite.club CNAME .
 partner.gokids.cz CNAME .
@@ -641,6 +644,7 @@ partner.psidetektiv.cz CNAME .
 partner.root.cz CNAME .
 partner.royalfashion.cz CNAME .
 partner.rozhladna.sk CNAME .
+partner.roztouzeny.cz CNAME .
 partner.runningpro.cz CNAME .
 partner.ruzovyslon.cz CNAME .
 partner.salibandy.shop CNAME .
@@ -660,7 +664,6 @@ partner.smoothiekniha.sk CNAME .
 partner.spokojenypes.cz CNAME .
 partner.sporthangar.cz CNAME .
 partner.stavario.com CNAME .
-partner.stickersmakers.com CNAME .
 partner.strendem.cz CNAME .
 partner.summermyles.cz CNAME .
 partner.susenepochoutky.cz CNAME .
@@ -816,7 +819,6 @@ partneri.sportmentor.cz CNAME .
 partneri.sterixretro.cz CNAME .
 partneri.supportbox.cz CNAME .
 partneri.sviicka.cz CNAME .
-partneri.systemhry.cz CNAME .
 partneri.tajomstvochudnutia.sk CNAME .
 partneri.tanahavlickova.cz CNAME .
 partneri.tentino.cz CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710144022398        ; Serial
+           1710748824706        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,7 +21,6 @@ aj.stomalhobble.com CNAME .
 an.pintaentrep.com CNAME .
 ao.tournaipestles.com CNAME .
 ap.bouncelargo.com CNAME .
-aq.ferisonledger.com CNAME .
 ar.pagodaskeeker.com CNAME .
 at.laundawaits.com CNAME .
 au.bolloxcyclism.com CNAME .
@@ -42,7 +41,6 @@ be.hyahyalay.com CNAME .
 be.jambertarry.com CNAME .
 bf.buffersling.com CNAME .
 bf.shodeoaters.com CNAME .
-bg.unbarbpoured.com CNAME .
 bh.twifoilperoxyl.com CNAME .
 bi.narineware.com CNAME .
 bj.pplferio.com CNAME .
@@ -193,7 +191,6 @@ jf.palemaneleven.com CNAME .
 jg.devaultautit.com CNAME .
 jj.boodymauves.com CNAME .
 jj.jaupsgrimes.com CNAME .
-jl.reckonpretax.com CNAME .
 jm.ethylintusker.com CNAME .
 jm.fallagerampire.com CNAME .
 jo.dinahmirv.com CNAME .
@@ -326,7 +323,6 @@ qw.teedoping.com CNAME .
 qy.narrateharmala.com CNAME .
 qz.equalsenframe.com CNAME .
 ra.birdeyedigenea.com CNAME .
-rc.chemispelecan.com CNAME .
 rd.gamglossae.com CNAME .
 rd.pulayanyet.com CNAME .
 rg.canesbilker.com CNAME .
@@ -368,7 +364,6 @@ sz.famanils.com CNAME .
 ta.acedtousles.com CNAME .
 tb.nebackalien.com CNAME .
 tc.bovateoutrate.com CNAME .
-tc.puinavikytes.com CNAME .
 td.anasphragma.com CNAME .
 te.stionicfives.com CNAME .
 th.micheryfrugal.com CNAME .
@@ -408,7 +403,6 @@ ut.floraepixies.com CNAME .
 ux.arsesresumes.com CNAME .
 ux.withinshobbist.com CNAME .
 uz.gamyboxbush.com CNAME .
-va.ungracebaited.com CNAME .
 vc.rompishvariola.com CNAME .
 vd.clipserelock.com CNAME .
 ve.gweedunweld.com CNAME .

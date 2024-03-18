@@ -1012,7 +1012,6 @@
 ||tern.xebel.co^
 ||tick.pcrpriser.se^
 ||tick.sculch.app^
-||tiger.devlib.se^
 ||tigershark.garethtdavies.com^
 ||tigershark.moonpot.com^
 ||tigershark.paavanmagic.com^
@@ -1145,10 +1144,11 @@
 ||cdn.adsninja.ca^
 ||cdn.affiliatable.io^
 ||cdn.dircont3.com^
-||cdn.shrtfly.vip^
+||cdn.responsiq.com^
 ||cdn.studiosis.in^
 ||cdn.unibotscdn.com^
 ||ucdn.adgebra.co^
+||cdn.shrtfly.vip^
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^
 ||dntcl.qualaroo.com^
@@ -1164,4 +1164,3 @@
 ||static.xlyyzx.sbs^
 ||thirty-good.lugg.com^
 ||video.adsninja.ca^
-||giraffe.fnd.info^

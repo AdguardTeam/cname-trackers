@@ -259,6 +259,7 @@
 ||privacy-digital.mandg.com^
 ||privacy-digital.pru.co.uk^
 ||privacy-digital.pruadviser.co.uk^
+||privacy-digital.pruretire.co.uk^
 ||privacy.28degreescard.com.au^
 ||privacy.acaseforwomen.com^
 ||privacy.acc2-online.heineken.co.za^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710144022398        ; Serial
+           1710748824706        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -762,7 +762,6 @@ a8cv.a-ru-ku.co.jp CNAME .
 a8cv.a-satei.com CNAME .
 a8cv.accelfacter.co.jp CNAME .
 a8cv.access-jp.jp CNAME .
-a8cv.adornmonde.com CNAME .
 a8cv.aff.life-110.com CNAME .
 a8cv.aiambeauty.jp CNAME .
 a8cv.air-wifiinternet.jp CNAME .
@@ -1199,7 +1198,6 @@ a8cv.studygear.evidus.com CNAME .
 a8cv.success-idea.com CNAME .
 a8cv.sumai-surfin.com CNAME .
 a8cv.sunmillion-ikiiki.jp CNAME .
-a8cv.surusuru.jp CNAME .
 a8cv.suzaku.or.jp CNAME .
 a8cv.suzette-shop.jp CNAME .
 a8cv.sweets-paradise-shop.com CNAME .
@@ -1309,7 +1307,6 @@ a8net.beyond-gym.com CNAME .
 a8net.gset.co.jp CNAME .
 a8net.hassyadai.com CNAME .
 a8net.kitamura-print.com CNAME .
-a8net.mellow-cbd.jp CNAME .
 a8net.pg-learning.net CNAME .
 a8net.sourcenext.com CNAME .
 a8netcv.crebiq.com CNAME .
@@ -1516,7 +1513,6 @@ rsv.dankore.jp CNAME .
 rsv.pairorder.jp CNAME .
 salto.freeto.jp CNAME .
 sekaopi.nocre.jp CNAME .
-sfcv.chinavi-shop.jp CNAME .
 shop.anu-cosme.com CNAME .
 shopping.cellpure.co.jp CNAME .
 smn.dankore.jp CNAME .

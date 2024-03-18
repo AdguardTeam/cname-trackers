@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710144022398        ; Serial
+           1710748824706        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -185,6 +185,7 @@ tr.cclx.espmp-agfr.net CNAME .
 tr.cdiscount.3wregie.com CNAME .
 tr.ceeregion.moethennessy.com CNAME .
 tr.christmas.petit-bateau.com CNAME .
+tr.chronodrive.com CNAME .
 tr.ciblexo.fr CNAME .
 tr.cifa.espmp-nifr.net CNAME .
 tr.cifa02b.espmp-aufr.net CNAME .
@@ -262,6 +263,7 @@ tr.contrat.location.boulanger.com CNAME .
 tr.contrat.lokeo.fr CNAME .
 tr.contrats.cetelem.fr CNAME .
 tr.contrats.cofinoga.fr CNAME .
+tr.contrats.domofinance.fr CNAME .
 tr.corporate.moethennessy.com CNAME .
 tr.courriel.mae.fr CNAME .
 tr.courriel.ouestnormandie.cci.fr CNAME .
@@ -855,6 +857,7 @@ tr.newsletter.bauermedia.fr CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.bouygues.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
+tr.newsletter.chandon.com CNAME .
 tr.newsletter.cuisine-plus.tv CNAME .
 tr.newsletter.ecig-privee.fr CNAME .
 tr.newsletter.erenumerique.fr CNAME .
@@ -937,6 +940,7 @@ tr.partenaire.groupe-vyv.fr CNAME .
 tr.partenaire.manageo.info CNAME .
 tr.particuliers8.engie.com CNAME .
 tr.partners.younited-credit.it CNAME .
+tr.payment.lvmh.com CNAME .
 tr.phjk.espmp-nifr.net CNAME .
 tr.pixe.espmp-cufr.net CNAME .
 tr.pm.pelhammedia.com CNAME .
@@ -1080,6 +1084,7 @@ tr.urfk07s.espmp-nifr.net CNAME .
 tr.urfk080.espmp-agfr.net CNAME .
 tr.urfk08c.espmp-cufr.net CNAME .
 tr.vernede.huilesdolive.fr CNAME .
+tr.vf7n.espmp-agfr.net CNAME .
 tr.videofutur.fr CNAME .
 tr.ville.bordeaux.fr CNAME .
 tr.voeux-wishes.ipsilon-ip.com CNAME .

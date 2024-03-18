@@ -1009,7 +1009,6 @@
 ||west-eu-0156743.medirect.com.mt^
 ||west-eu-0156743.medirect.nl^
 ||wildcard.humm.ie^
-||wkvjee5b.globalpay.com^
 ||wp.kroger.com^
 ||ww3.fundingstream.com^
 ||ww3.marlincapitalsolutions.com^

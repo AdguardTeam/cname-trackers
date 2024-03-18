@@ -159,6 +159,7 @@
 ||affiliate.hokr.eu^
 ||affiliate.horseandme.eu^
 ||affiliate.ihrelinsen.at^
+||affiliate.inkytattoo.cz^
 ||affiliate.isetos.cz^
 ||affiliate.ispace.cz^
 ||affiliate.jasnaznacka.cz^
@@ -437,6 +438,7 @@
 ||partner.bio-nehty.cz^
 ||partner.bioaromakosmetika.cz^
 ||partner.bohemiaclean.eu^
+||partner.bohempia.com^
 ||partner.bontonck.cz^
 ||partner.bonyplus.cz^
 ||partner.booktook.cz^
@@ -516,6 +518,7 @@
 ||partner.firmin.cz^
 ||partner.forexrebel.net^
 ||partner.generatorvodiku.cz^
+||partner.gingershot.cz^
 ||partner.giulieta.shop^
 ||partner.goelite.club^
 ||partner.gokids.cz^
@@ -630,6 +633,7 @@
 ||partner.root.cz^
 ||partner.royalfashion.cz^
 ||partner.rozhladna.sk^
+||partner.roztouzeny.cz^
 ||partner.runningpro.cz^
 ||partner.ruzovyslon.cz^
 ||partner.salibandy.shop^
@@ -649,7 +653,6 @@
 ||partner.spokojenypes.cz^
 ||partner.sporthangar.cz^
 ||partner.stavario.com^
-||partner.stickersmakers.com^
 ||partner.strendem.cz^
 ||partner.summermyles.cz^
 ||partner.susenepochoutky.cz^
@@ -805,7 +808,6 @@
 ||partneri.sterixretro.cz^
 ||partneri.supportbox.cz^
 ||partneri.sviicka.cz^
-||partneri.systemhry.cz^
 ||partneri.tajomstvochudnutia.sk^
 ||partneri.tanahavlickova.cz^
 ||partneri.tentino.cz^

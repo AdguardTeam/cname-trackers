@@ -16,11 +16,10 @@
 * adsninjacdn.b-cdn.net
 * affiliatable1.b-cdn.net
 * prgm.b-cdn.net
-* popupads.b-cdn.net
 * unibotscdn.b-cdn.net
+* popupads.b-cdn.net
 * consent.b-cdn.net
 * b-cdn.net
-* fnd.info
 
 ## Cloaking domains
 
@@ -945,7 +944,6 @@
 | tern.xebel.co | deprecated-custom-domains.b-cdn.net |
 | tick.pcrpriser.se | deprecated-custom-domains.b-cdn.net |
 | tick.sculch.app | deprecated-custom-domains.b-cdn.net |
-| tiger.devlib.se | deprecated-custom-domains.b-cdn.net |
 | tigershark.garethtdavies.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.moonpot.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.paavanmagic.com | deprecated-custom-domains.b-cdn.net |
@@ -1036,7 +1034,6 @@
 | yak.flutterblog.net | deprecated-custom-domains.b-cdn.net |
 | yak.gregsullivan.com | deprecated-custom-domains.b-cdn.net |
 | yak.withlindy.com | deprecated-custom-domains.b-cdn.net |
-| giraffe.fnd.info | fnd.info |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.adevbom.com | popcashjs.b-cdn.net |
 | cdn.adevppl.com | popcashjs.b-cdn.net |
@@ -1187,6 +1184,7 @@
 | static.netfly.fun | st-fly.b-cdn.net |
 | static.nfly.cc | st-fly.b-cdn.net |
 | static.xlyyzx.sbs | st-fly.b-cdn.net |
+| cdn.responsiq.com | unibotscdn.b-cdn.net |
 | cdn.studiosis.in | unibotscdn.b-cdn.net |
 | cdn.unibotscdn.com | unibotscdn.b-cdn.net |
 | ucdn.adgebra.co | unibotscdn.b-cdn.net |

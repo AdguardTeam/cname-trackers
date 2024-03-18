@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710144022398        ; Serial
+           1710748824706        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -103,6 +103,7 @@ tk.frenchbee.com CNAME .
 tk.gustaveroussy.fr CNAME .
 tk.healthwarehouse.com CNAME .
 tk.hypnia.co.uk CNAME .
+tk.hypnia.de CNAME .
 tk.hypnia.es CNAME .
 tk.hypnia.fr CNAME .
 tk.hypnia.nl CNAME .

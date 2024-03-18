@@ -763,7 +763,6 @@
 | a8cv.a-satei.com | trck.a8.net |
 | a8cv.accelfacter.co.jp | trck.a8.net |
 | a8cv.access-jp.jp | trck.a8.net |
-| a8cv.adornmonde.com | trck.a8.net |
 | a8cv.aff.life-110.com | trck.a8.net |
 | a8cv.aiambeauty.jp | trck.a8.net |
 | a8cv.air-wifiinternet.jp | trck.a8.net |
@@ -1200,7 +1199,6 @@
 | a8cv.success-idea.com | trck.a8.net |
 | a8cv.sumai-surfin.com | trck.a8.net |
 | a8cv.sunmillion-ikiiki.jp | trck.a8.net |
-| a8cv.surusuru.jp | trck.a8.net |
 | a8cv.suzaku.or.jp | trck.a8.net |
 | a8cv.suzette-shop.jp | trck.a8.net |
 | a8cv.sweets-paradise-shop.com | trck.a8.net |
@@ -1310,7 +1308,6 @@
 | a8net.gset.co.jp | trck.a8.net |
 | a8net.hassyadai.com | trck.a8.net |
 | a8net.kitamura-print.com | trck.a8.net |
-| a8net.mellow-cbd.jp | trck.a8.net |
 | a8net.pg-learning.net | trck.a8.net |
 | a8net.sourcenext.com | trck.a8.net |
 | a8netcv.crebiq.com | trck.a8.net |
@@ -1517,7 +1514,6 @@
 | rsv.pairorder.jp | trck.a8.net |
 | salto.freeto.jp | trck.a8.net |
 | sekaopi.nocre.jp | trck.a8.net |
-| sfcv.chinavi-shop.jp | trck.a8.net |
 | shop.anu-cosme.com | trck.a8.net |
 | shopping.cellpure.co.jp | trck.a8.net |
 | smn.dankore.jp | trck.a8.net |

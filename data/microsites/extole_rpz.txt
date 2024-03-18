@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710144022398        ; Serial
+           1710748824706        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -66,7 +66,6 @@ refer.hannaandersson.com CNAME .
 refer.harimari.com CNAME .
 refer.hattiesburgamerican.com CNAME .
 refer.healthypawspetinsurance.com CNAME .
-refer.icracked.com CNAME .
 refer.integrativenutrition.com CNAME .
 refer.jacksonsun.com CNAME .
 refer.johnson.ca CNAME .
@@ -140,6 +139,8 @@ www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em924.refer.starbucks.com CNAME .
+em9523.walmartmoneycard.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -273,6 +274,7 @@ refer.hsn.com CNAME .
 refer.hushpuppies.com CNAME .
 refer.incommonbeauty.com CNAME .
 refer.indeed.com CNAME .
+refer.intuit.com CNAME .
 refer.issaonline.com CNAME .
 refer.itbed.com CNAME .
 refer.jewelersmutual.com CNAME .
@@ -360,7 +362,6 @@ refer.seabourn.com CNAME .
 refer.sharetodoist.com CNAME .
 refer.sharkclean.com CNAME .
 refer.shuuemuraartofhair-usa.com CNAME .
-refer.signals.com CNAME .
 refer.skinceuticals.com CNAME .
 refer.skyone.org CNAME .
 refer.sleepnumber.com CNAME .
@@ -376,6 +377,7 @@ refer.studentuniverse.co.uk CNAME .
 refer.studentuniverse.com CNAME .
 refer.studentuniverse.com.au CNAME .
 refer.sugarandjade.com CNAME .
+refer.sundancevacations.com CNAME .
 refer.swansonvitamins.com CNAME .
 refer.take5oilchange.com CNAME .
 refer.tatcha.co.uk CNAME .
@@ -545,6 +547,7 @@ share.installamerica.com CNAME .
 share.iqfiber.com CNAME .
 share.iteach.net CNAME .
 share.jacksonsun.com CNAME .
+share.jellybelly.com CNAME .
 share.jhfcu.org CNAME .
 share.juicepress.com CNAME .
 share.juvlabs.com CNAME .
@@ -575,6 +578,7 @@ share.newtonbaby.com CNAME .
 share.ngfcu.us CNAME .
 share.northjersey.com CNAME .
 share.novig.us CNAME .
+share.nuts.com CNAME .
 share.obagi.com CNAME .
 share.olivegarden.com CNAME .
 share.ollocard.com CNAME .
@@ -603,6 +607,9 @@ share.refer-aveda.jp CNAME .
 share.refer-bumbleandbumble.co.uk CNAME .
 share.refer-bumbleandbumble.com CNAME .
 share.refer-clinique.com CNAME .
+share.refer-clinique.com.au CNAME .
+share.refer-clinique.jp CNAME .
+share.refer-cliniquekorea.co.kr CNAME .
 share.refer-darphin.com CNAME .
 share.refer-darphin.fr CNAME .
 share.refer-esteelauder.ca CNAME .
@@ -650,6 +657,7 @@ share.stopagingnow.com CNAME .
 share.stridehealth.com CNAME .
 share.studiosashiko.com CNAME .
 share.sundaysfordogs.com CNAME .
+share.suneast.org CNAME .
 share.swordhealth.com CNAME .
 share.tallahassee.com CNAME .
 share.tauntongazette.com CNAME .
@@ -696,6 +704,5 @@ em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
-em924.refer.starbucks.com CNAME .
 xtl._domainkey.skillshare.com CNAME .
 sftp.extole.com CNAME .

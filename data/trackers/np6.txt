@@ -174,6 +174,7 @@
 ||tr.cdiscount.3wregie.com^
 ||tr.ceeregion.moethennessy.com^
 ||tr.christmas.petit-bateau.com^
+||tr.chronodrive.com^
 ||tr.ciblexo.fr^
 ||tr.cifa.espmp-nifr.net^
 ||tr.cifa02b.espmp-aufr.net^
@@ -251,6 +252,7 @@
 ||tr.contrat.lokeo.fr^
 ||tr.contrats.cetelem.fr^
 ||tr.contrats.cofinoga.fr^
+||tr.contrats.domofinance.fr^
 ||tr.corporate.moethennessy.com^
 ||tr.courriel.mae.fr^
 ||tr.courriel.ouestnormandie.cci.fr^
@@ -844,6 +846,7 @@
 ||tr.newsletter.bouygues-construction.com^
 ||tr.newsletter.bouygues.com^
 ||tr.newsletter.capdecision.fr^
+||tr.newsletter.chandon.com^
 ||tr.newsletter.cuisine-plus.tv^
 ||tr.newsletter.ecig-privee.fr^
 ||tr.newsletter.erenumerique.fr^
@@ -926,6 +929,7 @@
 ||tr.partenaire.manageo.info^
 ||tr.particuliers8.engie.com^
 ||tr.partners.younited-credit.it^
+||tr.payment.lvmh.com^
 ||tr.phjk.espmp-nifr.net^
 ||tr.pixe.espmp-cufr.net^
 ||tr.pm.pelhammedia.com^
@@ -1069,6 +1073,7 @@
 ||tr.urfk080.espmp-agfr.net^
 ||tr.urfk08c.espmp-cufr.net^
 ||tr.vernede.huilesdolive.fr^
+||tr.vf7n.espmp-agfr.net^
 ||tr.videofutur.fr^
 ||tr.ville.bordeaux.fr^
 ||tr.voeux-wishes.ipsilon-ip.com^

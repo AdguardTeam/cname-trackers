@@ -271,7 +271,6 @@
 ||plausible.treelightsoftware.com^
 ||plausible.umbrellaanalytics.net^
 ||plausible.urbanekuensteruhr.de^
-||plausible.vaughanesports.org^
 ||plausible.veszelovszki.com^
 ||plausible.visitu.com^
 ||plausible.viteshot.com^
@@ -375,7 +374,6 @@
 ||stats.asymptotic.io^
 ||stats.auto-dombrowski.de^
 ||stats.autofarm.network^
-||stats.balticgruppen.se^
 ||stats.bananatimer.com^
 ||stats.bcdtravel.com^
 ||stats.beanr.coffee^
@@ -485,7 +483,6 @@
 ||stats.doublejones.com^
 ||stats.dreher-dreher.eu^
 ||stats.drsaavedra.mx^
-||stats.drtdentist.ro^
 ||stats.dt-esthetique.ch^
 ||stats.duetcode.io^
 ||stats.earlygame.com^
@@ -535,7 +532,6 @@
 ||stats.fungus.computer^
 ||stats.galeb.org^
 ||stats.galleriacortona.com^
-||stats.gbc.uk^
 ||stats.geobox.app^
 ||stats.gesund-vital-lebensfreude.com^
 ||stats.getdoks.org^
@@ -891,7 +887,6 @@
 ||stats.vdsnow.ru^
 ||stats.vican.me^
 ||stats.visions.ch^
-||stats.voltamediahouse.com^
 ||stats.voltimum.com^
 ||stats.wachstum.at^
 ||stats.walkiees.co.uk^
@@ -929,7 +924,6 @@
 ||traffic.taktikal.is^
 ||tree.indot.nl^
 ||triton.companyegg.com^
-||trolina.mikitvba.com^
 ||varys.asongofzandc.xyz^
 ||views.emikajewelry.com^
 ||views.ericcapella.com^

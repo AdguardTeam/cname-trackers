@@ -178,6 +178,7 @@
 | affiliate.hokr.eu | cz.affilbox.cz |
 | affiliate.horseandme.eu | cz.affilbox.cz |
 | affiliate.ihrelinsen.at | cz.affilbox.cz |
+| affiliate.inkytattoo.cz | cz.affilbox.cz |
 | affiliate.isetos.cz | cz.affilbox.cz |
 | affiliate.ispace.cz | cz.affilbox.cz |
 | affiliate.jasnaznacka.cz | cz.affilbox.cz |
@@ -456,6 +457,7 @@
 | partner.bio-nehty.cz | cz.affilbox.cz |
 | partner.bioaromakosmetika.cz | cz.affilbox.cz |
 | partner.bohemiaclean.eu | cz.affilbox.cz |
+| partner.bohempia.com | cz.affilbox.cz |
 | partner.bontonck.cz | cz.affilbox.cz |
 | partner.bonyplus.cz | cz.affilbox.cz |
 | partner.booktook.cz | cz.affilbox.cz |
@@ -535,6 +537,7 @@
 | partner.firmin.cz | cz.affilbox.cz |
 | partner.forexrebel.net | cz.affilbox.cz |
 | partner.generatorvodiku.cz | cz.affilbox.cz |
+| partner.gingershot.cz | cz.affilbox.cz |
 | partner.giulieta.shop | cz.affilbox.cz |
 | partner.goelite.club | cz.affilbox.cz |
 | partner.gokids.cz | cz.affilbox.cz |
@@ -649,6 +652,7 @@
 | partner.root.cz | cz.affilbox.cz |
 | partner.royalfashion.cz | cz.affilbox.cz |
 | partner.rozhladna.sk | cz.affilbox.cz |
+| partner.roztouzeny.cz | cz.affilbox.cz |
 | partner.runningpro.cz | cz.affilbox.cz |
 | partner.ruzovyslon.cz | cz.affilbox.cz |
 | partner.salibandy.shop | cz.affilbox.cz |
@@ -668,7 +672,6 @@
 | partner.spokojenypes.cz | cz.affilbox.cz |
 | partner.sporthangar.cz | cz.affilbox.cz |
 | partner.stavario.com | cz.affilbox.cz |
-| partner.stickersmakers.com | cz.affilbox.cz |
 | partner.strendem.cz | cz.affilbox.cz |
 | partner.summermyles.cz | cz.affilbox.cz |
 | partner.susenepochoutky.cz | cz.affilbox.cz |
@@ -824,7 +827,6 @@
 | partneri.sterixretro.cz | cz.affilbox.cz |
 | partneri.supportbox.cz | cz.affilbox.cz |
 | partneri.sviicka.cz | cz.affilbox.cz |
-| partneri.systemhry.cz | cz.affilbox.cz |
 | partneri.tajomstvochudnutia.sk | cz.affilbox.cz |
 | partneri.tanahavlickova.cz | cz.affilbox.cz |
 | partneri.tentino.cz | cz.affilbox.cz |

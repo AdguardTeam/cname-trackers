@@ -18,7 +18,6 @@
 | an.pintaentrep.com | heleric.com |
 | ao.tournaipestles.com | heleric.com |
 | ap.bouncelargo.com | heleric.com |
-| aq.ferisonledger.com | heleric.com |
 | ar.pagodaskeeker.com | heleric.com |
 | at.laundawaits.com | heleric.com |
 | au.bolloxcyclism.com | heleric.com |
@@ -39,7 +38,6 @@
 | be.jambertarry.com | heleric.com |
 | bf.buffersling.com | heleric.com |
 | bf.shodeoaters.com | heleric.com |
-| bg.unbarbpoured.com | heleric.com |
 | bh.twifoilperoxyl.com | heleric.com |
 | bi.narineware.com | heleric.com |
 | bj.pplferio.com | heleric.com |
@@ -190,7 +188,6 @@
 | jg.devaultautit.com | heleric.com |
 | jj.boodymauves.com | heleric.com |
 | jj.jaupsgrimes.com | heleric.com |
-| jl.reckonpretax.com | heleric.com |
 | jm.ethylintusker.com | heleric.com |
 | jm.fallagerampire.com | heleric.com |
 | jo.dinahmirv.com | heleric.com |
@@ -323,7 +320,6 @@
 | qy.narrateharmala.com | heleric.com |
 | qz.equalsenframe.com | heleric.com |
 | ra.birdeyedigenea.com | heleric.com |
-| rc.chemispelecan.com | heleric.com |
 | rd.gamglossae.com | heleric.com |
 | rd.pulayanyet.com | heleric.com |
 | rg.canesbilker.com | heleric.com |
@@ -365,7 +361,6 @@
 | ta.acedtousles.com | heleric.com |
 | tb.nebackalien.com | heleric.com |
 | tc.bovateoutrate.com | heleric.com |
-| tc.puinavikytes.com | heleric.com |
 | td.anasphragma.com | heleric.com |
 | te.stionicfives.com | heleric.com |
 | th.micheryfrugal.com | heleric.com |
@@ -405,7 +400,6 @@
 | ux.arsesresumes.com | heleric.com |
 | ux.withinshobbist.com | heleric.com |
 | uz.gamyboxbush.com | heleric.com |
-| va.ungracebaited.com | heleric.com |
 | vc.rompishvariola.com | heleric.com |
 | vd.clipserelock.com | heleric.com |
 | ve.gweedunweld.com | heleric.com |
