@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710748824706        ; Serial
+           1711353623781        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -295,7 +295,6 @@ doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
 hcaffil.mironet.cz CNAME .
 hcbox.bikemax.cz CNAME .
-hcbox.boomshop.sk CNAME .
 hcbox.fitness-zone.cz CNAME .
 hcbox.itcomplet.sk CNAME .
 hcbox.mezamo.sk CNAME .
@@ -666,7 +665,6 @@ partner.sporthangar.cz CNAME .
 partner.stavario.com CNAME .
 partner.strendem.cz CNAME .
 partner.summermyles.cz CNAME .
-partner.susenepochoutky.cz CNAME .
 partner.susmevem.com CNAME .
 partner.svatba.cz CNAME .
 partner.svatebni-diar.cz CNAME .
@@ -674,7 +672,6 @@ partner.svetcukrarov.sk CNAME .
 partner.svetcukraru.cz CNAME .
 partner.svetruzi.cz CNAME .
 partner.sypanycaj.eu CNAME .
-partner.tahnabranu.cz CNAME .
 partner.tajemstvi-uspechu.cz CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.top-obaly.cz CNAME .

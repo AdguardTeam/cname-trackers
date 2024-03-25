@@ -93,7 +93,6 @@ a8.efax.co.jp
 a8.elife.clinic
 a8.emeao.jp
 a8.emestore.me
-a8.emma-sleep-japan.com
 a8.engineer-shukatu.jp
 a8.eonet.jp
 a8.eonet.ne.jp
@@ -678,7 +677,6 @@ a8clk.tsunorice.com
 a8clk.uchinotoypoo.jp
 a8clk.unihertz.com
 a8clk.unionspo.com
-a8clk.unlace.net
 a8clk.ur-s.me
 a8clk.uzu.team
 a8clk.videocash.tv
@@ -936,6 +934,7 @@ a8cv.hariocorp.co.jp
 a8cv.hello-people.jp
 a8cv.heybit.io
 a8cv.hi-tailor.jp
+a8cv.hikari-mega.com
 a8cv.hoken-laundry.com
 a8cv.holo-bell.com
 a8cv.homepage296.com
@@ -1502,6 +1501,7 @@ rsv.dankore.jp
 rsv.pairorder.jp
 salto.freeto.jp
 sekaopi.nocre.jp
+sfcv.chinavi-shop.jp
 shop.anu-cosme.com
 shopping.cellpure.co.jp
 smn.dankore.jp

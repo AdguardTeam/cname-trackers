@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710748824706        ; Serial
+           1711353623781        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -624,7 +624,6 @@ tr.marketing.younited-credit.es CNAME .
 tr.marketing.younited-credit.pt CNAME .
 tr.marketingdisruption.co.uk CNAME .
 tr.mart.espmp-agfr.net CNAME .
-tr.mattressman.co.uk CNAME .
 tr.mcom03b.espmp-aufr.net CNAME .
 tr.mcom04p.espmp-aufr.net CNAME .
 tr.media.harmonie-sante.fr CNAME .
@@ -956,7 +955,6 @@ tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro-renov.be CNAME .
 tr.pro.odalys-vacances.com CNAME .
-tr.prog.cinemanivel.fr CNAME .
 tr.programme-voyageur-sncf.com CNAME .
 tr.projet.cotemaison.fr CNAME .
 tr.promo.np6.fr CNAME .

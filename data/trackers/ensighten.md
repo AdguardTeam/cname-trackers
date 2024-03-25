@@ -4,7 +4,6 @@
 
 * nc0.co
     * aljazeera.edge.nc0.co
-    * amex.edge.nc0.co
     * amica.edge.nc0.co
     * anntaylor.edge.nc0.co
     * betway.edge.nc0.co
@@ -13,6 +12,8 @@
     * caltimes.edge.nc0.co
     * capitalone.edge.nc0.co
     * citi.edge.nc0.co
+    * co-operative.edge.nc0.co
+    * cq-owllabs.edge.nc0.co
     * cq-storable.edge.nc0.co
     * cq-zoll.edge.nc0.co
     * danskespil.edge.nc0.co
@@ -35,7 +36,6 @@
     * huntington.edge.nc0.co
     * irvinemanagementcompany.edge.nc0.co
     * janieandjack.edge.nc0.co
-    * jll.edge.nc0.co
     * johnlewis.edge.nc0.co
     * kone.edge.nc0.co
     * lanebryant.edge.nc0.co
@@ -49,10 +49,11 @@
     * nzz.edge.nc0.co
     * postoffice.edge.nc0.co
     * rac.edge.nc0.co
+    * safeauto.edge.nc0.co
     * sagaplc.edge.nc0.co
     * selectcomfort.edge.nc0.co
     * statefarm.edge.nc0.co
-    * subzero.edge.nc0.co
+    * sterlingjewelers.edge.nc0.co
     * suncorp.edge.nc0.co
     * symantec.edge.nc0.co
     * synchrony.edge.nc0.co
@@ -81,7 +82,6 @@
 | ---- | ---- |
 | tags.aljazeera.com | aljazeera.edge.nc0.co |
 | tags.aljazeera.net | aljazeera.edge.nc0.co |
-| ep.americanexpress.com | amex.edge.nc0.co |
 | analytics.amica.com | amica.edge.nc0.co |
 | activate.anntaylor.com | anntaylor.edge.nc0.co |
 | tms.betway.com | betway.edge.nc0.co |
@@ -91,9 +91,10 @@
 | activate.platform.californiatimes.com | caltimes.edge.nc0.co |
 | tms.capitalone.com | capitalone.edge.nc0.co |
 | tagmanager1.citi.com | citi.edge.nc0.co |
-| tagmanager1.citibank.com | citi.edge.nc0.co |
 | tagmanager1.citibankonline.com | citi.edge.nc0.co |
 | tagmanager1.citicards.com | citi.edge.nc0.co |
+| co-operative.activate.ensighten.com | co-operative.edge.nc0.co |
+| privacy.owllabs.com | cq-owllabs.edge.nc0.co |
 | privacyconsentmgmt.storable.com | cq-storable.edge.nc0.co |
 | privacy.zoll.com | cq-zoll.edge.nc0.co |
 | ensightenone.danskespil.dk | danskespil.edge.nc0.co |
@@ -130,6 +131,7 @@
 | activate.ctnow.com | edge-geo.nc0.co |
 | activate.dailypress.com | edge-geo.nc0.co |
 | activate.dailysouthtown.com | edge-geo.nc0.co |
+| activate.delmartimes.net | edge-geo.nc0.co |
 | activate.delmartimes.net | edge-geo.nc0.co |
 | activate.discoversd.com | edge-geo.nc0.co |
 | activate.elgincouriernews.com | edge-geo.nc0.co |
@@ -183,7 +185,6 @@
 | agility.nba.com | edge-geo.nc0.co |
 | agility.nba.com | edge-geo.nc0.co |
 | agility.ncaa.com | edge-geo.nc0.co |
-| agility.ncaa.com | edge-geo.nc0.co |
 | agility.tbs.com | edge-geo.nc0.co |
 | agility.tbs.com | edge-geo.nc0.co |
 | agility.tcm.com | edge-geo.nc0.co |
@@ -221,6 +222,7 @@
 | assets1.asteronlife.co.nz | edge-geo.nc0.co |
 | assets1.bingle.com.au | edge-geo.nc0.co |
 | assets1.cilinsurance.com.au | edge-geo.nc0.co |
+| assets1.cilinsurance.com.au | edge-geo.nc0.co |
 | assets1.gio.com.au | edge-geo.nc0.co |
 | assets1.gio.com.au | edge-geo.nc0.co |
 | assets1.shannons.com.au | edge-geo.nc0.co |
@@ -230,7 +232,6 @@
 | assets1.suncorpbank.com.au | edge-geo.nc0.co |
 | assets1.terrischeer.com.au | edge-geo.nc0.co |
 | assets1.vanz.vero.co.nz | edge-geo.nc0.co |
-| assets1.vero.co.nz | edge-geo.nc0.co |
 | assets1.vero.co.nz | edge-geo.nc0.co |
 | assets1.vero.com.au | edge-geo.nc0.co |
 | attribution.batesfootwear.com | edge-geo.nc0.co |
@@ -326,7 +327,6 @@
 | dc.sterlingjewelers.com | edge-geo.nc0.co |
 | dc.stokke.com | edge-geo.nc0.co |
 | dc.volkswagen.com | edge-geo.nc0.co |
-| dc.volkswagen.com | edge-geo.nc0.co |
 | dc.zales.com | edge-geo.nc0.co |
 | dc.zalesoutlet.com | edge-geo.nc0.co |
 | dcf.espn.com | edge-geo.nc0.co |
@@ -374,7 +374,6 @@
 | fcone.fidelity.com | edge-geo.nc0.co |
 | fcone.fidelity.com | edge-geo.nc0.co |
 | fcone.fidelitycharitable.org | edge-geo.nc0.co |
-| fcone.fidelitycharitable.org | edge-geo.nc0.co |
 | fctms.demo-charitablegift.com | edge-geo.nc0.co |
 | fctms.fidelity.com | edge-geo.nc0.co |
 | fctms.fidelitycharitable.org | edge-geo.nc0.co |
@@ -417,7 +416,6 @@
 | privacy.acc2.heishop.com.br | edge-geo.nc0.co |
 | privacy.affligembeer.com | edge-geo.nc0.co |
 | privacy.amadrinks.be | edge-geo.nc0.co |
-| privacy.amadrinks.be | edge-geo.nc0.co |
 | privacy.amstel.nl | edge-geo.nc0.co |
 | privacy.birramoretti.com | edge-geo.nc0.co |
 | privacy.birramoretti.com | edge-geo.nc0.co |
@@ -438,6 +436,7 @@
 | privacy.latitudefinancial.com.au | edge-geo.nc0.co |
 | privacy.latitudepay.com | edge-geo.nc0.co |
 | privacy.online.heineken.co.za | edge-geo.nc0.co |
+| privacy.owllabs.com | edge-geo.nc0.co |
 | privacy.owllabs.com | edge-geo.nc0.co |
 | privacy.tigerbeer.com | edge-geo.nc0.co |
 | privacy.umiloans.com.au | edge-geo.nc0.co |
@@ -471,7 +470,6 @@
 | sst.johnlewis.com | edge-geo.nc0.co |
 | sst.marshalls.com | edge-geo.nc0.co |
 | sst.nab.com.au | edge-geo.nc0.co |
-| sst.subzero-wolf.com | edge-geo.nc0.co |
 | sst.subzero-wolf.com | edge-geo.nc0.co |
 | sst.tjmaxx.tjx.com | edge-geo.nc0.co |
 | sst.tjmaxx.tjx.com | edge-geo.nc0.co |
@@ -549,15 +547,13 @@
 | tms.experian.com | experianus.edge.nc0.co |
 | activate1.fidelity.com | fidelity.edge.nc0.co |
 | fcone.fidelity.com | fidelitycgf.edge.nc0.co |
-| fcone.fidelitycharitable.org | fidelitycgf.edge.nc0.co |
 | fctms.fidelity.com | fidelitycgf.edge.nc0.co |
 | fctms.fidelitycharitable.org | fidelitycgf.edge.nc0.co |
 | gst.pulse.buyatoyota.com | gst.edge.nc0.co |
-| gst.pulse.toyota.com | gst.edge.nc0.co |
 | tm.hdmtools.com | hearst.edge.nc0.co |
 | ensighten.heishop.com.br | heineken-b2b.edge.nc0.co |
 | ensighten.heishop.mx | heineken-b2b.edge.nc0.co |
-| privacy.amadrinks.be | heineken.edge.nc0.co |
+| privacy.affligembeer.com | heineken.edge.nc0.co |
 | privacy.birramoretti.com | heineken.edge.nc0.co |
 | privacy.desperados.com | heineken.edge.nc0.co |
 | privacy.heineken.it | heineken.edge.nc0.co |
@@ -565,10 +561,8 @@
 | ensighten.huntingtonbank.com | huntington.edge.nc0.co |
 | consent.irvinecompany.com | irvinemanagementcompany.edge.nc0.co |
 | t.janieandjack.com | janieandjack.edge.nc0.co |
-| cookies.jll.cl | jll.edge.nc0.co |
 | sst.johnlewis.com | johnlewis.edge.nc0.co |
 | tags.kone.com | kone.edge.nc0.co |
-| tms.kone.com | kone.edge.nc0.co |
 | activate.lanebryant.com | lanebryant.edge.nc0.co |
 | tmsgi.lv.com | liverpoolvictoria.edge.nc0.co |
 | activate.loft.com | loft.edge.nc0.co |
@@ -584,19 +578,20 @@
 | ens.themarket.ch | nzz.edge.nc0.co |
 | ensighten.postoffice.co.uk | postoffice.edge.nc0.co |
 | pulse.rac.co.uk | rac.edge.nc0.co |
+| ensighten.safeauto.com | safeauto.edge.nc0.co |
 | csp.prod.saga.co.uk | sagaplc.edge.nc0.co |
 | pulse.sleepnumber.com | selectcomfort.edge.nc0.co |
 | ddc.statefarm.com | statefarm.edge.nc0.co |
-| sst.subzero-wolf.com | subzero.edge.nc0.co |
+| dc.zales.com | sterlingjewelers.edge.nc0.co |
 | activate.suncorp.com.au | suncorp.edge.nc0.co |
 | assets1.aainsurance.co.nz | suncorp.edge.nc0.co |
 | assets1.aami.com.au | suncorp.edge.nc0.co |
 | assets1.apia.com.au | suncorp.edge.nc0.co |
 | assets1.bingle.com.au | suncorp.edge.nc0.co |
+| assets1.cilinsurance.com.au | suncorp.edge.nc0.co |
 | assets1.gio.com.au | suncorp.edge.nc0.co |
 | assets1.shannons.com.au | suncorp.edge.nc0.co |
 | assets1.suncorp.com.au | suncorp.edge.nc0.co |
-| assets1.vero.co.nz | suncorp.edge.nc0.co |
 | ensighten.norton.com | symantec.edge.nc0.co |
 | analytics.syf.com | synchrony.edge.nc0.co |
 | analytics.synchrony.com | synchrony.edge.nc0.co |
@@ -608,7 +603,6 @@
 | metrics.synchronybusiness.com | synchronypaysol.edge.nc0.co |
 | securemetrics.mysynchrony.com | synchronypscc.edge.nc0.co |
 | metrics.syf.com | synchronyretail.edge.nc0.co |
-| analytics.ovative.com | t.nc0.co |
 | measure.ensighten.com | t.nc0.co |
 | sst.nab.com.au | t.nc0.co |
 | tea.tescobank.com | tescobank-ngt.edge.nc0.co |
@@ -619,13 +613,13 @@
 | nexus.toyota.com | toyotanational.edge.nc0.co |
 | p.pulse.lexus.com | toyotanational.edge.nc0.co |
 | p.pulse.toyota.com | toyotanational.edge.nc0.co |
+| activate.delmartimes.net | tronc.edge.nc0.co |
 | activate.latimes.com | tronc.edge.nc0.co |
 | activate.sandiegouniontribune.com | tronc.edge.nc0.co |
 | eb.trbas.com | tronc.edge.nc0.co |
 | agility.cartoonnetwork.com | turner.edge.nc0.co |
 | agility.cnn.com | turner.edge.nc0.co |
 | agility.nba.com | turner.edge.nc0.co |
-| agility.ncaa.com | turner.edge.nc0.co |
 | agility.tbs.com | turner.edge.nc0.co |
 | agility.tcm.com | turner.edge.nc0.co |
 | agility.tntdrama.com | turner.edge.nc0.co |
@@ -637,5 +631,4 @@
 | nexus.virginholidays.co.uk | vaa.edge.nc0.co |
 | tagman.virginatlantic.com | vaa.edge.nc0.co |
 | tms.virginatlantic.com | vaa.edge.nc0.co |
-| dc.volkswagen.com | vwd6.edge.nc0.co |
 | tam.volkswagen.com | vwd6.edge.nc0.co |

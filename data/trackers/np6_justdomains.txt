@@ -613,7 +613,6 @@ tr.marketing.younited-credit.es
 tr.marketing.younited-credit.pt
 tr.marketingdisruption.co.uk
 tr.mart.espmp-agfr.net
-tr.mattressman.co.uk
 tr.mcom03b.espmp-aufr.net
 tr.mcom04p.espmp-aufr.net
 tr.media.harmonie-sante.fr
@@ -945,7 +944,6 @@ tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
 tr.pro-renov.be
 tr.pro.odalys-vacances.com
-tr.prog.cinemanivel.fr
 tr.programme-voyageur-sncf.com
 tr.projet.cotemaison.fr
 tr.promo.np6.fr

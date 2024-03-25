@@ -8,13 +8,11 @@
 
 * ianmjones.com
 * plausible.io
-* 77980.bodis.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| stats.dailyposter.xyz | 77980.bodis.com |
 | a-api.skz.dev | custom.plausible.io |
 | a.aawp.de | custom.plausible.io |
 | a.easyazon.com | custom.plausible.io |
@@ -228,7 +226,6 @@
 | plausible.deploymentfromscratch.com | custom.plausible.io |
 | plausible.dev.logicboard.com | custom.plausible.io |
 | plausible.dingran.me | custom.plausible.io |
-| plausible.doberman.co | custom.plausible.io |
 | plausible.doctave.com | custom.plausible.io |
 | plausible.ejs.dev | custom.plausible.io |
 | plausible.eurostocks.nl | custom.plausible.io |
@@ -269,7 +266,6 @@
 | plausible.quo.wtf | custom.plausible.io |
 | plausible.rachel.systems | custom.plausible.io |
 | plausible.reabra.com.br | custom.plausible.io |
-| plausible.reactpreview.com | custom.plausible.io |
 | plausible.redchamp.net | custom.plausible.io |
 | plausible.regex.help | custom.plausible.io |
 | plausible.retune.de | custom.plausible.io |
@@ -751,7 +747,6 @@
 | stats.piranhas.co | custom.plausible.io |
 | stats.pise-notes.club | custom.plausible.io |
 | stats.pitstone.co.uk | custom.plausible.io |
-| stats.pizzapizza.io | custom.plausible.io |
 | stats.plainsending.com | custom.plausible.io |
 | stats.planxti.com | custom.plausible.io |
 | stats.poesieundgenuss.com | custom.plausible.io |
@@ -824,7 +819,6 @@
 | stats.shepherd.com | custom.plausible.io |
 | stats.shh.io | custom.plausible.io |
 | stats.shiftx.com | custom.plausible.io |
-| stats.siedentop.dev | custom.plausible.io |
 | stats.simplinetworks.com | custom.plausible.io |
 | stats.sirdata.com | custom.plausible.io |
 | stats.sixseven.at | custom.plausible.io |
@@ -847,7 +841,6 @@
 | stats.studypages.com | custom.plausible.io |
 | stats.sublimesecurity.com | custom.plausible.io |
 | stats.suenicholls.com | custom.plausible.io |
-| stats.suggestedit.com | custom.plausible.io |
 | stats.suniboy.com | custom.plausible.io |
 | stats.suominaikidoacademy.com | custom.plausible.io |
 | stats.sushibyte.io | custom.plausible.io |
@@ -861,7 +854,6 @@
 | stats.teenranch.com | custom.plausible.io |
 | stats.tekin.co.uk | custom.plausible.io |
 | stats.terre-compagne.fr | custom.plausible.io |
-| stats.terribleprojectideas.com | custom.plausible.io |
 | stats.textprotocol.org | custom.plausible.io |
 | stats.theiere-tasse.com | custom.plausible.io |
 | stats.thelandofar.be | custom.plausible.io |

@@ -303,7 +303,6 @@
 | equilist.raj-ohlavek.cz | cz.affilbox.cz |
 | hcaffil.mironet.cz | cz.affilbox.cz |
 | hcbox.bikemax.cz | cz.affilbox.cz |
-| hcbox.boomshop.sk | cz.affilbox.cz |
 | hcbox.fitness-zone.cz | cz.affilbox.cz |
 | hcbox.itcomplet.sk | cz.affilbox.cz |
 | hcbox.mezamo.sk | cz.affilbox.cz |
@@ -674,7 +673,6 @@
 | partner.stavario.com | cz.affilbox.cz |
 | partner.strendem.cz | cz.affilbox.cz |
 | partner.summermyles.cz | cz.affilbox.cz |
-| partner.susenepochoutky.cz | cz.affilbox.cz |
 | partner.susmevem.com | cz.affilbox.cz |
 | partner.svatba.cz | cz.affilbox.cz |
 | partner.svatebni-diar.cz | cz.affilbox.cz |
@@ -682,7 +680,6 @@
 | partner.svetcukraru.cz | cz.affilbox.cz |
 | partner.svetruzi.cz | cz.affilbox.cz |
 | partner.sypanycaj.eu | cz.affilbox.cz |
-| partner.tahnabranu.cz | cz.affilbox.cz |
 | partner.tajemstvi-uspechu.cz | cz.affilbox.cz |
 | partner.thechillidoctor.cz | cz.affilbox.cz |
 | partner.top-obaly.cz | cz.affilbox.cz |

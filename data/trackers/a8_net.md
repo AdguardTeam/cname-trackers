@@ -106,7 +106,6 @@
 | a8.elife.clinic | trck.a8.net |
 | a8.emeao.jp | trck.a8.net |
 | a8.emestore.me | trck.a8.net |
-| a8.emma-sleep-japan.com | trck.a8.net |
 | a8.engineer-shukatu.jp | trck.a8.net |
 | a8.eonet.jp | trck.a8.net |
 | a8.eonet.ne.jp | trck.a8.net |
@@ -690,7 +689,6 @@
 | a8clk.uchinotoypoo.jp | trck.a8.net |
 | a8clk.unihertz.com | trck.a8.net |
 | a8clk.unionspo.com | trck.a8.net |
-| a8clk.unlace.net | trck.a8.net |
 | a8clk.ur-s.me | trck.a8.net |
 | a8clk.uzu.team | trck.a8.net |
 | a8clk.videocash.tv | trck.a8.net |
@@ -948,6 +946,7 @@
 | a8cv.hello-people.jp | trck.a8.net |
 | a8cv.heybit.io | trck.a8.net |
 | a8cv.hi-tailor.jp | trck.a8.net |
+| a8cv.hikari-mega.com | trck.a8.net |
 | a8cv.hoken-laundry.com | trck.a8.net |
 | a8cv.holo-bell.com | trck.a8.net |
 | a8cv.homepage296.com | trck.a8.net |
@@ -1514,6 +1513,7 @@
 | rsv.pairorder.jp | trck.a8.net |
 | salto.freeto.jp | trck.a8.net |
 | sekaopi.nocre.jp | trck.a8.net |
+| sfcv.chinavi-shop.jp | trck.a8.net |
 | shop.anu-cosme.com | trck.a8.net |
 | shopping.cellpure.co.jp | trck.a8.net |
 | smn.dankore.jp | trck.a8.net |

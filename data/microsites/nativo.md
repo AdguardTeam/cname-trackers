@@ -62,7 +62,6 @@
 | 1e32421487.c9ff2ca544.com | ntvpforever.com |
 | 1f630c0f37.da5ac5f203.com | ntvpforever.com |
 | 201efd9d67.c3af119d07.com | ntvpforever.com |
-| 20ddfbe344.7179c5492e.com | ntvpforever.com |
 | 212dc8d866.4a4a9db4ab.com | ntvpforever.com |
 | 213d2867ca.22ddebb169.com | ntvpforever.com |
 | 217bf5cc5e.ad70bbfb11.com | ntvpforever.com |
@@ -80,7 +79,6 @@
 | 2abf7576ac.4fbe7621b8.com | ntvpforever.com |
 | 2c83d2caf6.d067641e02.com | ntvpforever.com |
 | 2caf7c08e0.fa84f180d1.com | ntvpforever.com |
-| 2cb68fec4a.4fde20c235.com | ntvpforever.com |
 | 2e29d385db.416deca3db.com | ntvpforever.com |
 | 2e59d53c1e.d1f10926c9.com | ntvpforever.com |
 | 2f5a638754.b44b3c5f19.com | ntvpforever.com |
@@ -205,7 +203,6 @@
 | 7d8f4c4c3d.bca286d743.com | ntvpforever.com |
 | 7fa2c26b89.fba8a9ab60.com | ntvpforever.com |
 | 7fb5021413.237199f0a1.com | ntvpforever.com |
-| 80d1a27de4.7776bf141c.com | ntvpforever.com |
 | 8137c6a639.32d39cd3fe.com | ntvpforever.com |
 | 8251cabcf2.e1bf37eb3f.com | ntvpforever.com |
 | 82eb7f5d59.6fe62b9eb9.com | ntvpforever.com |
@@ -276,7 +273,6 @@
 | c4686b1d62.0b617f0769.com | ntvpforever.com |
 | c481e18aa3.e2078be122.com | ntvpforever.com |
 | c54211e84b.a81004c24d.com | ntvpforever.com |
-| c580712027.ffcc2964d9.com | ntvpforever.com |
 | c5e6188341.fca4efa968.com | ntvpforever.com |
 | c688594720.933af389e0.com | ntvpforever.com |
 | c76100e6f6.bb17f09ee7.com | ntvpforever.com |
@@ -339,7 +335,6 @@
 | f7edea5919.fce9830ba4.com | ntvpforever.com |
 | f905b11999.4895a69f7e.com | ntvpforever.com |
 | f95d80b33b.cf98a92559.com | ntvpforever.com |
-| f9630bc2e3.6afd255116.com | ntvpforever.com |
 | f965b45a51.e25ebbeb6b.com | ntvpforever.com |
 | f9a0e80437.8ced271921.com | ntvpforever.com |
 | f9aaa709bf.3e7dd00231.com | ntvpforever.com |
@@ -357,5 +352,4 @@
 | ff18e0b495.eeecc0e343.com | ntvpforever.com |
 | ff6840b5f0.338d2db673.com | ntvpforever.com |
 | i.selecttopoff.com | ntvpforever.com |
-| a235.chron.com | unavailable.hearstnp.com |
 | a235.seattlepi.com | unavailable.hearstnp.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710748824706        ; Serial
+           1711353623781        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -224,7 +224,6 @@ plausible.dailytics.com CNAME .
 plausible.deploymentfromscratch.com CNAME .
 plausible.dev.logicboard.com CNAME .
 plausible.dingran.me CNAME .
-plausible.doberman.co CNAME .
 plausible.doctave.com CNAME .
 plausible.ejs.dev CNAME .
 plausible.eurostocks.nl CNAME .
@@ -265,7 +264,6 @@ plausible.quantumcomputingexplained.com CNAME .
 plausible.quo.wtf CNAME .
 plausible.rachel.systems CNAME .
 plausible.reabra.com.br CNAME .
-plausible.reactpreview.com CNAME .
 plausible.redchamp.net CNAME .
 plausible.regex.help CNAME .
 plausible.retune.de CNAME .
@@ -747,7 +745,6 @@ stats.piplette.co CNAME .
 stats.piranhas.co CNAME .
 stats.pise-notes.club CNAME .
 stats.pitstone.co.uk CNAME .
-stats.pizzapizza.io CNAME .
 stats.plainsending.com CNAME .
 stats.planxti.com CNAME .
 stats.poesieundgenuss.com CNAME .
@@ -820,7 +817,6 @@ stats.sheer.tj CNAME .
 stats.shepherd.com CNAME .
 stats.shh.io CNAME .
 stats.shiftx.com CNAME .
-stats.siedentop.dev CNAME .
 stats.simplinetworks.com CNAME .
 stats.sirdata.com CNAME .
 stats.sixseven.at CNAME .
@@ -843,7 +839,6 @@ stats.strawberry.rocks CNAME .
 stats.studypages.com CNAME .
 stats.sublimesecurity.com CNAME .
 stats.suenicholls.com CNAME .
-stats.suggestedit.com CNAME .
 stats.suniboy.com CNAME .
 stats.suominaikidoacademy.com CNAME .
 stats.sushibyte.io CNAME .
@@ -857,7 +852,6 @@ stats.tedserbinski.com CNAME .
 stats.teenranch.com CNAME .
 stats.tekin.co.uk CNAME .
 stats.terre-compagne.fr CNAME .
-stats.terribleprojectideas.com CNAME .
 stats.textprotocol.org CNAME .
 stats.theiere-tasse.com CNAME .
 stats.thelandofar.be CNAME .
@@ -950,4 +944,3 @@ yolo.philipbjorge.com CNAME .
 zahlen.olereissmann.de CNAME .
 p.ianmjones.com CNAME .
 stats.citizenos.com CNAME .
-stats.dailyposter.xyz CNAME .

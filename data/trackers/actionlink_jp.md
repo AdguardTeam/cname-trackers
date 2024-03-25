@@ -51,4 +51,5 @@
 | al.tsukurupajama.jp | mm.actionlink.jp |
 | al.webike.net | mm.actionlink.jp |
 | al.www.kijoan.com | mm.actionlink.jp |
+| al.yobomedical.clinic | mm.actionlink.jp |
 | m.aclk.jp | mm.actionlink.jp |

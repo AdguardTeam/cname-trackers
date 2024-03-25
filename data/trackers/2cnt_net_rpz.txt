@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710748824706        ; Serial
+           1711353623781        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -92,7 +92,6 @@ aok.tns-gallup.dk CNAME .
 avisen.tns-gallup.dk CNAME .
 ballerupb.tns-gallup.dk CNAME .
 bazoom.tns-gallup.dk CNAME .
-berlingske.tns-gallup.dk CNAME .
 bilbasen.tns-gallup.dk CNAME .
 bild.met.vgwort.de CNAME .
 bm.met.vgwort.de CNAME .

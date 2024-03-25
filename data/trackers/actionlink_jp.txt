@@ -43,4 +43,5 @@
 ||al.tsukurupajama.jp^
 ||al.webike.net^
 ||al.www.kijoan.com^
+||al.yobomedical.clinic^
 ||m.aclk.jp^

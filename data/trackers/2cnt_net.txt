@@ -81,7 +81,6 @@
 ||avisen.tns-gallup.dk^
 ||ballerupb.tns-gallup.dk^
 ||bazoom.tns-gallup.dk^
-||berlingske.tns-gallup.dk^
 ||bilbasen.tns-gallup.dk^
 ||bild.met.vgwort.de^
 ||bm.met.vgwort.de^

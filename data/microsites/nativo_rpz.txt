@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710748824706        ; Serial
+           1711353623781        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -56,7 +56,6 @@ sponsor.syracuse.com CNAME .
 1e32421487.c9ff2ca544.com CNAME .
 1f630c0f37.da5ac5f203.com CNAME .
 201efd9d67.c3af119d07.com CNAME .
-20ddfbe344.7179c5492e.com CNAME .
 212dc8d866.4a4a9db4ab.com CNAME .
 213d2867ca.22ddebb169.com CNAME .
 217bf5cc5e.ad70bbfb11.com CNAME .
@@ -74,7 +73,6 @@ sponsor.syracuse.com CNAME .
 2abf7576ac.4fbe7621b8.com CNAME .
 2c83d2caf6.d067641e02.com CNAME .
 2caf7c08e0.fa84f180d1.com CNAME .
-2cb68fec4a.4fde20c235.com CNAME .
 2e29d385db.416deca3db.com CNAME .
 2e59d53c1e.d1f10926c9.com CNAME .
 2f5a638754.b44b3c5f19.com CNAME .
@@ -199,7 +197,6 @@ sponsor.syracuse.com CNAME .
 7d8f4c4c3d.bca286d743.com CNAME .
 7fa2c26b89.fba8a9ab60.com CNAME .
 7fb5021413.237199f0a1.com CNAME .
-80d1a27de4.7776bf141c.com CNAME .
 8137c6a639.32d39cd3fe.com CNAME .
 8251cabcf2.e1bf37eb3f.com CNAME .
 82eb7f5d59.6fe62b9eb9.com CNAME .
@@ -270,7 +267,6 @@ c43295af7f.6d3f3332fd.com CNAME .
 c4686b1d62.0b617f0769.com CNAME .
 c481e18aa3.e2078be122.com CNAME .
 c54211e84b.a81004c24d.com CNAME .
-c580712027.ffcc2964d9.com CNAME .
 c5e6188341.fca4efa968.com CNAME .
 c688594720.933af389e0.com CNAME .
 c76100e6f6.bb17f09ee7.com CNAME .
@@ -333,7 +329,6 @@ f571f387dc.2e51ef91bb.com CNAME .
 f7edea5919.fce9830ba4.com CNAME .
 f905b11999.4895a69f7e.com CNAME .
 f95d80b33b.cf98a92559.com CNAME .
-f9630bc2e3.6afd255116.com CNAME .
 f965b45a51.e25ebbeb6b.com CNAME .
 f9a0e80437.8ced271921.com CNAME .
 f9aaa709bf.3e7dd00231.com CNAME .
@@ -351,6 +346,5 @@ fee3f8a74a.aee4e77dc5.com CNAME .
 ff18e0b495.eeecc0e343.com CNAME .
 ff6840b5f0.338d2db673.com CNAME .
 i.selecttopoff.com CNAME .
-a235.chron.com CNAME .
 a235.seattlepi.com CNAME .
 img.nativo.net CNAME .

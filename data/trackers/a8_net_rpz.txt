@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710748824706        ; Serial
+           1711353623781        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -104,7 +104,6 @@ a8.efax.co.jp CNAME .
 a8.elife.clinic CNAME .
 a8.emeao.jp CNAME .
 a8.emestore.me CNAME .
-a8.emma-sleep-japan.com CNAME .
 a8.engineer-shukatu.jp CNAME .
 a8.eonet.jp CNAME .
 a8.eonet.ne.jp CNAME .
@@ -689,7 +688,6 @@ a8clk.tsunorice.com CNAME .
 a8clk.uchinotoypoo.jp CNAME .
 a8clk.unihertz.com CNAME .
 a8clk.unionspo.com CNAME .
-a8clk.unlace.net CNAME .
 a8clk.ur-s.me CNAME .
 a8clk.uzu.team CNAME .
 a8clk.videocash.tv CNAME .
@@ -947,6 +945,7 @@ a8cv.hariocorp.co.jp CNAME .
 a8cv.hello-people.jp CNAME .
 a8cv.heybit.io CNAME .
 a8cv.hi-tailor.jp CNAME .
+a8cv.hikari-mega.com CNAME .
 a8cv.hoken-laundry.com CNAME .
 a8cv.holo-bell.com CNAME .
 a8cv.homepage296.com CNAME .
@@ -1513,6 +1512,7 @@ rsv.dankore.jp CNAME .
 rsv.pairorder.jp CNAME .
 salto.freeto.jp CNAME .
 sekaopi.nocre.jp CNAME .
+sfcv.chinavi-shop.jp CNAME .
 shop.anu-cosme.com CNAME .
 shopping.cellpure.co.jp CNAME .
 smn.dankore.jp CNAME .

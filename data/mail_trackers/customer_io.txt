@@ -106,7 +106,6 @@
 ||e.cio.shop.app^
 ||e.cotribute.com^
 ||e.cyclic.sh^
-||e.getenteredtowin.com^
 ||e.leadingcourses.com^
 ||e.pana.com^
 ||e.paycove.io^
@@ -250,7 +249,6 @@
 ||email.betterwild.com^
 ||email.bewriters.net^
 ||email.beyourzest.com^
-||email.bhuman.ai^
 ||email.bigrock.com^
 ||email.bigspring.io^
 ||email.bigstock.com^
@@ -475,7 +473,6 @@
 ||email.flick.com.au^
 ||email.flightclubdartsusa.com^
 ||email.flinderspartners.com.au^
-||email.floorplanner.com^
 ||email.flow.club^
 ||email.flowercompany.com^
 ||email.flux.ai^
@@ -587,7 +584,6 @@
 ||email.hometownapparel.com^
 ||email.homeyoumail.com^
 ||email.host.ie^
-||email.hotstreak.gg^
 ||email.hourstack.com^
 ||email.hourwork.com^
 ||email.housekeeper.com^
@@ -988,7 +984,6 @@
 ||email.runway.com^
 ||email.rwfs.com.au^
 ||email.s.secretmarketshare.com^
-||email.sacra.com^
 ||email.saferoot.io^
 ||email.sambla-sverige.se^
 ||email.saraivaaprova.com.br^
@@ -1215,7 +1210,6 @@
 ||email.wingstand.com^
 ||email.wisefinance.com.au^
 ||email.withlome.com^
-||email.withmoxie.com^
 ||email.wmmajors.com^
 ||email.wonder.fi^
 ||email.wonderschool.com^

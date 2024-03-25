@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710748824706        ; Serial
+           1711353623781        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -852,7 +852,6 @@ platypus.zwei-bags.ch CNAME .
 polarbear.codeday.org CNAME .
 porcupine.dvresolve.com CNAME .
 porpoise.azettl.net CNAME .
-porpoise.deschtimes.com CNAME .
 porpoise.fruittreecottage.com.au CNAME .
 porpoise.groupcalendar.app CNAME .
 porpoise.jackwhiting.co.uk CNAME .
@@ -882,7 +881,6 @@ quokka.curbnumberpro.com CNAME .
 quokka.howrightnow.org CNAME .
 quokka.joshuawood.net CNAME .
 quokka.oeshome.org CNAME .
-rabbit.homamo.co CNAME .
 rabbit.radicalxchange.org CNAME .
 rabbit.thebestproductlist.com CNAME .
 rabbit.upwardhomes.net CNAME .
@@ -987,7 +985,6 @@ stork.notlessbutbetter.com CNAME .
 swallow.axiom.co CNAME .
 swallow.pelias.io CNAME .
 swan.visualma.com CNAME .
-swan.zeitgeist.cool CNAME .
 swift.avenue.so CNAME .
 swift.ciudadanob.com CNAME .
 swift.jos.ht CNAME .
@@ -1104,10 +1101,8 @@ wolverine.jhdierenklinieken.nl CNAME .
 wombat.buildrtech.com CNAME .
 woodpecker.binario11.de CNAME .
 woodpecker.ember.ly CNAME .
-woodpecker.groupe-montagne.ch CNAME .
 woodpecker.mikehalliday.com CNAME .
 woodpecker.seabits.com CNAME .
-worm.discover-culture.com CNAME .
 www.stork.notlessbutbetter.com CNAME .
 yak.auclantis.com CNAME .
 yak.flutterblog.net CNAME .

@@ -120,7 +120,6 @@
 | e.cio.shop.app | edge-east.customer.io |
 | e.cotribute.com | edge-east.customer.io |
 | e.cyclic.sh | edge-east.customer.io |
-| e.getenteredtowin.com | edge-east.customer.io |
 | e.leadingcourses.com | edge-east.customer.io |
 | e.pana.com | edge-east.customer.io |
 | e.paycove.io | edge-east.customer.io |
@@ -264,7 +263,6 @@
 | email.betterwild.com | edge-east.customer.io |
 | email.bewriters.net | edge-east.customer.io |
 | email.beyourzest.com | edge-east.customer.io |
-| email.bhuman.ai | edge-east.customer.io |
 | email.bigrock.com | edge-east.customer.io |
 | email.bigspring.io | edge-east.customer.io |
 | email.bigstock.com | edge-east.customer.io |
@@ -489,7 +487,6 @@
 | email.flick.com.au | edge-east.customer.io |
 | email.flightclubdartsusa.com | edge-east.customer.io |
 | email.flinderspartners.com.au | edge-east.customer.io |
-| email.floorplanner.com | edge-east.customer.io |
 | email.flow.club | edge-east.customer.io |
 | email.flowercompany.com | edge-east.customer.io |
 | email.flux.ai | edge-east.customer.io |
@@ -601,7 +598,6 @@
 | email.hometownapparel.com | edge-east.customer.io |
 | email.homeyoumail.com | edge-east.customer.io |
 | email.host.ie | edge-east.customer.io |
-| email.hotstreak.gg | edge-east.customer.io |
 | email.hourstack.com | edge-east.customer.io |
 | email.hourwork.com | edge-east.customer.io |
 | email.housekeeper.com | edge-east.customer.io |
@@ -1002,7 +998,6 @@
 | email.runway.com | edge-east.customer.io |
 | email.rwfs.com.au | edge-east.customer.io |
 | email.s.secretmarketshare.com | edge-east.customer.io |
-| email.sacra.com | edge-east.customer.io |
 | email.saferoot.io | edge-east.customer.io |
 | email.sambla-sverige.se | edge-east.customer.io |
 | email.saraivaaprova.com.br | edge-east.customer.io |
@@ -1229,7 +1224,6 @@
 | email.wingstand.com | edge-east.customer.io |
 | email.wisefinance.com.au | edge-east.customer.io |
 | email.withlome.com | edge-east.customer.io |
-| email.withmoxie.com | edge-east.customer.io |
 | email.wmmajors.com | edge-east.customer.io |
 | email.wonder.fi | edge-east.customer.io |
 | email.wonderschool.com | edge-east.customer.io |

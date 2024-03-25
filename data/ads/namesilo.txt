@@ -1025,7 +1025,6 @@
 ||api.getblaze.app^
 ||api.slice.exchange^
 ||api.tf4srv.com^
-||api.trafficfactory.com^
 ||click.advertrek.com^
 ||engine.gettopple.com^
 ||m.hue4a.com^

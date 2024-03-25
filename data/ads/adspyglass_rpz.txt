@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710748824706        ; Serial
+           1711353623781        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,7 +19,6 @@ $TTL 300
 1111.sanjay44.xyz CNAME .
 1111.sieglinde22.xyz CNAME .
 1111.spinna.online CNAME .
-123.manga1001.top CNAME .
 1aaa.spinna.site CNAME .
 1aab.spinna.site CNAME .
 1aac.spinna.site CNAME .
@@ -419,7 +418,6 @@ imbdemfjjduu.cdnvideo3.com CNAME .
 in.fuckhardclips.com CNAME .
 invast.invast.site CNAME .
 invast.site CNAME .
-io.fapnado.com CNAME .
 io.fapnado.xxx CNAME .
 io.fapnow.xxx CNAME .
 ishikawa.steeelm.online CNAME .
@@ -430,10 +428,8 @@ j45.webringporn.com CNAME .
 javguru.gggsss.site CNAME .
 jfhnh.spinna.store CNAME .
 jo.429men.com CNAME .
-jo.4wank.com CNAME .
 jo.fapnado.xxx CNAME .
 jo.fapnow.xxx CNAME .
-jo.hqbang.com CNAME .
 jordan.qunis.ru CNAME .
 js.allporncomic.com CNAME .
 js.eroticmv.com CNAME .
@@ -453,8 +449,6 @@ kaizzz.xyz CNAME .
 key.sexymovie.name CNAME .
 kfioeld.spinna.shop CNAME .
 kliqz.com CNAME .
-ko.faptor.com CNAME .
-ko.starwank.com CNAME .
 kuhdsysdas.indexsubtitle.com CNAME .
 kx4.firstsexfilm.com CNAME .
 l.bloblohub.com CNAME .
@@ -541,26 +535,15 @@ o.xofilmes.com CNAME .
 o313o.com CNAME .
 o911o.com CNAME .
 oi.429men.com CNAME .
-oi.fapnado.com CNAME .
 oi.fapnado.xxx CNAME .
 oi.fapnow.xxx CNAME .
-oi.hqbang.com CNAME .
 oi.lesbianbliss.com CNAME .
 oi.transhero.com CNAME .
 oj.429men.com CNAME .
-oj.4wank.com CNAME .
 oj.fapnado.xxx CNAME .
 oj.fapnow.xxx CNAME .
-ok.4wank.com CNAME .
-ok.4wank.net CNAME .
-ok.fapnado.com CNAME .
-ok.fapnado.xxx CNAME .
 ok.fapnow.xxx CNAME .
-ok.faptor.com CNAME .
-ok.hqbang.com CNAME .
-ok.starwank.com CNAME .
 oldsia.xyz CNAME .
-ontj.com CNAME .
 opus.sexyxxx.biz CNAME .
 orznp.spinna.store CNAME .
 outya.xyz CNAME .
@@ -609,7 +592,6 @@ q.ikre.xyz CNAME .
 q.kvovs.xyz CNAME .
 q.leru.xyz CNAME .
 q.roovs.xyz CNAME .
-qhip.com CNAME .
 qoqv.com CNAME .
 qovua60gue.tubewolf.com CNAME .
 qsdr.mysunnylawn.com CNAME .
@@ -812,3 +794,4 @@ zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 zzzzaaa.baijav.com CNAME .
 ad.desibp.com CNAME .
+ontj.com CNAME .

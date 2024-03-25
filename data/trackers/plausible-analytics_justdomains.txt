@@ -213,7 +213,6 @@ plausible.dailytics.com
 plausible.deploymentfromscratch.com
 plausible.dev.logicboard.com
 plausible.dingran.me
-plausible.doberman.co
 plausible.doctave.com
 plausible.ejs.dev
 plausible.eurostocks.nl
@@ -254,7 +253,6 @@ plausible.quantumcomputingexplained.com
 plausible.quo.wtf
 plausible.rachel.systems
 plausible.reabra.com.br
-plausible.reactpreview.com
 plausible.redchamp.net
 plausible.regex.help
 plausible.retune.de
@@ -736,7 +734,6 @@ stats.piplette.co
 stats.piranhas.co
 stats.pise-notes.club
 stats.pitstone.co.uk
-stats.pizzapizza.io
 stats.plainsending.com
 stats.planxti.com
 stats.poesieundgenuss.com
@@ -809,7 +806,6 @@ stats.sheer.tj
 stats.shepherd.com
 stats.shh.io
 stats.shiftx.com
-stats.siedentop.dev
 stats.simplinetworks.com
 stats.sirdata.com
 stats.sixseven.at
@@ -832,7 +828,6 @@ stats.strawberry.rocks
 stats.studypages.com
 stats.sublimesecurity.com
 stats.suenicholls.com
-stats.suggestedit.com
 stats.suniboy.com
 stats.suominaikidoacademy.com
 stats.sushibyte.io
@@ -846,7 +841,6 @@ stats.tedserbinski.com
 stats.teenranch.com
 stats.tekin.co.uk
 stats.terre-compagne.fr
-stats.terribleprojectideas.com
 stats.textprotocol.org
 stats.theiere-tasse.com
 stats.thelandofar.be
@@ -939,4 +933,3 @@ yolo.philipbjorge.com
 zahlen.olereissmann.de
 p.ianmjones.com
 stats.citizenos.com
-stats.dailyposter.xyz

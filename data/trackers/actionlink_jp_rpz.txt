@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710748824706        ; Serial
+           1711353623781        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,4 +54,5 @@ al.tokimeku-otoriyose.jp CNAME .
 al.tsukurupajama.jp CNAME .
 al.webike.net CNAME .
 al.www.kijoan.com CNAME .
+al.yobomedical.clinic CNAME .
 m.aclk.jp CNAME .

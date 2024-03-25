@@ -284,7 +284,6 @@ doporucim.zjistitcenu.cz
 equilist.raj-ohlavek.cz
 hcaffil.mironet.cz
 hcbox.bikemax.cz
-hcbox.boomshop.sk
 hcbox.fitness-zone.cz
 hcbox.itcomplet.sk
 hcbox.mezamo.sk
@@ -655,7 +654,6 @@ partner.sporthangar.cz
 partner.stavario.com
 partner.strendem.cz
 partner.summermyles.cz
-partner.susenepochoutky.cz
 partner.susmevem.com
 partner.svatba.cz
 partner.svatebni-diar.cz
@@ -663,7 +661,6 @@ partner.svetcukrarov.sk
 partner.svetcukraru.cz
 partner.svetruzi.cz
 partner.sypanycaj.eu
-partner.tahnabranu.cz
 partner.tajemstvi-uspechu.cz
 partner.thechillidoctor.cz
 partner.top-obaly.cz

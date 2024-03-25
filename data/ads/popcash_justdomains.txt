@@ -841,7 +841,6 @@ platypus.zwei-bags.ch
 polarbear.codeday.org
 porcupine.dvresolve.com
 porpoise.azettl.net
-porpoise.deschtimes.com
 porpoise.fruittreecottage.com.au
 porpoise.groupcalendar.app
 porpoise.jackwhiting.co.uk
@@ -871,7 +870,6 @@ quokka.curbnumberpro.com
 quokka.howrightnow.org
 quokka.joshuawood.net
 quokka.oeshome.org
-rabbit.homamo.co
 rabbit.radicalxchange.org
 rabbit.thebestproductlist.com
 rabbit.upwardhomes.net
@@ -976,7 +974,6 @@ stork.notlessbutbetter.com
 swallow.axiom.co
 swallow.pelias.io
 swan.visualma.com
-swan.zeitgeist.cool
 swift.avenue.so
 swift.ciudadanob.com
 swift.jos.ht
@@ -1093,10 +1090,8 @@ wolverine.jhdierenklinieken.nl
 wombat.buildrtech.com
 woodpecker.binario11.de
 woodpecker.ember.ly
-woodpecker.groupe-montagne.ch
 woodpecker.mikehalliday.com
 woodpecker.seabits.com
-worm.discover-culture.com
 www.stork.notlessbutbetter.com
 yak.auclantis.com
 yak.flutterblog.net

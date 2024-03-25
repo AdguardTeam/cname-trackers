@@ -46,11 +46,8 @@
 | ca.findyourpussy.net | api.clickaine.com |
 | ca.infomix.best | api.clickaine.com |
 | cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
-| cc.opowiadaniaerotyczne-darmowo.com | api.clickaine.com |
-| cc.raccontierotici-club.com | api.clickaine.com |
 | cc.relatoseroticos-gratis.com | api.clickaine.com |
 | cc.sersh.com | api.clickaine.com |
-| cc.sexgeschichten-klub.com | api.clickaine.com |
 | cc.sexgeschichten-kostenlos.com | api.clickaine.com |
 | cc.sexgeschichten-xxx.com | api.clickaine.com |
 | cc.sexstories-hot.com | api.clickaine.com |

@@ -123,7 +123,6 @@
     * worldmarket.extole.com
     * yankeecandle-ssl.extole.com
 * extole.io
-    * 100xequine.extole.io
     * 1800contacts.extole.io
     * 2-10.extole.io
     * 2ndswing.extole.io
@@ -221,6 +220,7 @@
     * cliniqueau.extole.io
     * cliniquejp.extole.io
     * cliniquekr.extole.io
+    * cliniquetw.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -415,6 +415,7 @@
     * paulmitchell.extole.io
     * paylocity.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -475,6 +476,7 @@
     * shoplc.extole.io
     * shu-uemura-art-of-hair.extole.io
     * shutterstock.extole.io
+    * shyft.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
     * skillshare.extole.io
@@ -488,7 +490,6 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -553,7 +554,6 @@
     * vonagebusiness.extole.io
     * vonagebusinessuk.extole.io
     * wagwalking.extole.io
-    * walmartmoneycard.em.extole.io
     * walmartmoneycard.extole.io
     * wearesouthwind.extole.io
     * wecohospitality.extole.io
@@ -584,7 +584,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| share.100xequine.com | 100xequine.extole.io |
 | refer.1800contacts.com | 1800contacts.extole.io |
 | refer.2-10.com | 2-10.extole.io |
 | refer.2ndswing.com | 2ndswing.extole.io |
@@ -720,6 +719,7 @@
 | share.refer-clinique.com.au | cliniqueau.extole.io |
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
+| share.refer-clinique.com.tw | cliniquetw.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -1042,6 +1042,7 @@
 | refer.paylocity.com | paylocity.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1128,6 +1129,7 @@
 | share.shoplc.com | shoplc.extole.io |
 | refer.shuuemuraartofhair-usa.com | shu-uemura-art-of-hair.extole.io |
 | share.shutterstock.com | shutterstock.extole.io |
+| share.shyft.co.za | shyft.extole.io |
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
@@ -1145,7 +1147,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |
@@ -1218,6 +1219,7 @@
 | em8561.go2bank.com | u82658.wl159.sendgrid.net |
 | em8928.em.petco.com | u82658.wl159.sendgrid.net |
 | em924.refer.starbucks.com | u82658.wl159.sendgrid.net |
+| em9523.walmartmoneycard.com | u82658.wl159.sendgrid.net |
 | refer.ulta.com | ulta.extole.com |
 | share.unchartedsociety.com | unchartedsociety.extole.io |
 | refer.underarmour.co.uk | under-armour-1.extole.io |
@@ -1250,7 +1252,6 @@
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
 | refer.vonage.co.uk | vonageuk.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
-| em9523.walmartmoneycard.com | walmartmoneycard.em.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |
 | refer.themvpkc.com | wearesouthwind.extole.io |

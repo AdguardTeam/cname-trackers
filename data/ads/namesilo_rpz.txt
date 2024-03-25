@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1710748824706        ; Serial
+           1711353623781        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1036,7 +1036,6 @@ api.datingclix.com CNAME .
 api.getblaze.app CNAME .
 api.slice.exchange CNAME .
 api.tf4srv.com CNAME .
-api.trafficfactory.com CNAME .
 click.advertrek.com CNAME .
 engine.gettopple.com CNAME .
 m.hue4a.com CNAME .

@@ -8,6 +8,7 @@
 ### Rarely active trackers
 
 * api.clickaine.com
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -21,7 +22,6 @@
 | 1111.sanjay44.xyz | 0i0i0i0.com |
 | 1111.sieglinde22.xyz | 0i0i0i0.com |
 | 1111.spinna.online | 0i0i0i0.com |
-| 123.manga1001.top | 0i0i0i0.com |
 | 1aaa.spinna.site | 0i0i0i0.com |
 | 1aab.spinna.site | 0i0i0i0.com |
 | 1aac.spinna.site | 0i0i0i0.com |
@@ -419,7 +419,6 @@
 | in.fuckhardclips.com | 0i0i0i0.com |
 | invast.invast.site | 0i0i0i0.com |
 | invast.site | 0i0i0i0.com |
-| io.fapnado.com | 0i0i0i0.com |
 | io.fapnado.xxx | 0i0i0i0.com |
 | io.fapnow.xxx | 0i0i0i0.com |
 | ishikawa.steeelm.online | 0i0i0i0.com |
@@ -430,10 +429,8 @@
 | javguru.gggsss.site | 0i0i0i0.com |
 | jfhnh.spinna.store | 0i0i0i0.com |
 | jo.429men.com | 0i0i0i0.com |
-| jo.4wank.com | 0i0i0i0.com |
 | jo.fapnado.xxx | 0i0i0i0.com |
 | jo.fapnow.xxx | 0i0i0i0.com |
-| jo.hqbang.com | 0i0i0i0.com |
 | jordan.qunis.ru | 0i0i0i0.com |
 | js.allporncomic.com | 0i0i0i0.com |
 | js.eroticmv.com | 0i0i0i0.com |
@@ -453,8 +450,6 @@
 | key.sexymovie.name | 0i0i0i0.com |
 | kfioeld.spinna.shop | 0i0i0i0.com |
 | kliqz.com | 0i0i0i0.com |
-| ko.faptor.com | 0i0i0i0.com |
-| ko.starwank.com | 0i0i0i0.com |
 | kuhdsysdas.indexsubtitle.com | 0i0i0i0.com |
 | kx4.firstsexfilm.com | 0i0i0i0.com |
 | l.bloblohub.com | 0i0i0i0.com |
@@ -540,26 +535,15 @@
 | o313o.com | 0i0i0i0.com |
 | o911o.com | 0i0i0i0.com |
 | oi.429men.com | 0i0i0i0.com |
-| oi.fapnado.com | 0i0i0i0.com |
 | oi.fapnado.xxx | 0i0i0i0.com |
 | oi.fapnow.xxx | 0i0i0i0.com |
-| oi.hqbang.com | 0i0i0i0.com |
 | oi.lesbianbliss.com | 0i0i0i0.com |
 | oi.transhero.com | 0i0i0i0.com |
 | oj.429men.com | 0i0i0i0.com |
-| oj.4wank.com | 0i0i0i0.com |
 | oj.fapnado.xxx | 0i0i0i0.com |
 | oj.fapnow.xxx | 0i0i0i0.com |
-| ok.4wank.com | 0i0i0i0.com |
-| ok.4wank.net | 0i0i0i0.com |
-| ok.fapnado.com | 0i0i0i0.com |
-| ok.fapnado.xxx | 0i0i0i0.com |
 | ok.fapnow.xxx | 0i0i0i0.com |
-| ok.faptor.com | 0i0i0i0.com |
-| ok.hqbang.com | 0i0i0i0.com |
-| ok.starwank.com | 0i0i0i0.com |
 | oldsia.xyz | 0i0i0i0.com |
-| ontj.com | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | orznp.spinna.store | 0i0i0i0.com |
 | outya.xyz | 0i0i0i0.com |
@@ -608,7 +592,6 @@
 | q.kvovs.xyz | 0i0i0i0.com |
 | q.leru.xyz | 0i0i0i0.com |
 | q.roovs.xyz | 0i0i0i0.com |
-| qhip.com | 0i0i0i0.com |
 | qoqv.com | 0i0i0i0.com |
 | qovua60gue.tubewolf.com | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
@@ -814,3 +797,4 @@
 | hq3x.com | u50.0i0i0i0.com |
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| ontj.com | u53.hypnorat.com |
