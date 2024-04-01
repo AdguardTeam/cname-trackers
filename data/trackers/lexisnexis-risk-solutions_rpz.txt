@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711353623781        ; Serial
+           1711958420584        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,8 +41,6 @@ applicant.rbfcu.org CNAME .
 apps.shift.com.au CNAME .
 appschk.scotiabank.com CNAME .
 appscore.credilike.me CNAME .
-asanalytics.booking.com CNAME .
-assessment.nj.betmgm.com CNAME .
 assets.werally.co CNAME .
 assets2.ihg.com CNAME .
 assets2.thefirstclub.com CNAME .
@@ -168,7 +166,6 @@ clear.wallapop.com CNAME .
 client.online.sandyspringbank.com CNAME .
 clovergo.june-testing.firstdata.com CNAME .
 cmprofile.cards.citidirect.com CNAME .
-cnt.didiglobal.com CNAME .
 cnt.goboo.com CNAME .
 cnt.patpat.com CNAME .
 cnt2.bank.za.group CNAME .
@@ -227,7 +224,6 @@ content.ezbills.com CNAME .
 content.familyprepaiddebit.com CNAME .
 content.fig.ca CNAME .
 content.firstinterstatebank.com CNAME .
-content.fisglobal.com CNAME .
 content.floridarentals.com CNAME .
 content.frs.fl.gov CNAME .
 content.gap.com CNAME .
@@ -367,7 +363,6 @@ css.sportsbet.io CNAME .
 cstm.gumtree.com CNAME .
 customer.homedepot.com CNAME .
 customercenter-img04.auto-owners.com CNAME .
-custprof.t-mobile.com CNAME .
 cybersource.shoplineapp.com CNAME .
 cybs.dhgate.com CNAME .
 cybs.dhpay.com CNAME .
@@ -441,7 +436,6 @@ fp.joyobank.chance.co.jp CNAME .
 fp.marisota.co.uk CNAME .
 fp.simplybe.co.uk CNAME .
 fp.ubagroup.com CNAME .
-fp.ups.com CNAME .
 fpcn.bpsgameserver.com CNAME .
 fpmobile.uplift-platform.com CNAME .
 fpt.norton.com CNAME .
@@ -451,7 +445,6 @@ fss.glbank.com CNAME .
 fsta.leboncoin.info CNAME .
 ftd.quodxx.com.br CNAME .
 gateway.jmbullion.com CNAME .
-ghisa.subito.it CNAME .
 go.citizensaccess.com CNAME .
 h.chase.co.uk CNAME .
 h.greenmangaming.com CNAME .
@@ -590,12 +583,8 @@ pages.fiduciarytrust.com CNAME .
 pages.franklintempleton.com CNAME .
 paiement.cb4x.fr CNAME .
 partition.enterprise.com CNAME .
-payment.rewards.sony.com CNAME .
 payments-de.lidlplus.com CNAME .
-payments.direct.playstation.com CNAME .
 payments.hd-plus.de CNAME .
-payrisk-tmx.didiglobal.com CNAME .
-pf.intuit.com CNAME .
 phyon.communipay.net CNAME .
 phyon.visit-x.net CNAME .
 piafapp.poste.it CNAME .
@@ -666,7 +655,6 @@ ptm.creditas.com CNAME .
 public-check3-at.test.tiaa-cref.org CNAME .
 public-check3-at.test.tiaa.org CNAME .
 qa-check3.qa.everbank.com CNAME .
-qfp.intuit.com CNAME .
 qrimages.qatarairways.com CNAME .
 qtbm.fundourselves.com CNAME .
 qtbm.welendus.com CNAME .
@@ -754,7 +742,6 @@ secured.netflix.com CNAME .
 service.riverscontent.com CNAME .
 servicesdp.luckydays.ca CNAME .
 servicesdp.spinaway.ca CNAME .
-sg-payment.cydf.hoyoverse.com CNAME .
 shield.boostbusiness.my CNAME .
 sitehelper.myengageft.com CNAME .
 sitehelper.optimizemoney.com CNAME .
@@ -767,7 +754,6 @@ srv.squaretrade.com CNAME .
 srv.squaretrade.com.au CNAME .
 srv.squaretrade.dk CNAME .
 srv.squaretrade.es CNAME .
-ssafp.samsclub.com CNAME .
 st10.sofi.com CNAME .
 stat.bluorbank.lv CNAME .
 static.bc-cdn.io CNAME .
@@ -776,7 +762,6 @@ static.sb-cdn.io CNAME .
 static.yg-cdn.io CNAME .
 static2.gumtree.com.au CNAME .
 stats.badoostats.com CNAME .
-stats.dell.com CNAME .
 sub-a.crossmeetz.com CNAME .
 subcontent.galeria.de CNAME .
 sunshine.lillypulitzer.com CNAME .
@@ -850,7 +835,6 @@ tags.bankline.rbs.com CNAME .
 tags.bankline.ulsterbank.co.uk CNAME .
 tags.bankline.ulsterbank.ie CNAME .
 tags.currencypay.natwestmarkets.com CNAME .
-tags.dazn.com CNAME .
 tags.emirates.com CNAME .
 tags.eq.iombank.com CNAME .
 tags.eq.natwestinternational.com CNAME .
@@ -892,13 +876,6 @@ tm.barstoolsportsbook.com CNAME .
 tm.bdc-cdn.com CNAME .
 tm.beachbody.com CNAME .
 tm.benevity.org CNAME .
-tm.betano.ar CNAME .
-tm.betano.bg CNAME .
-tm.betano.ca CNAME .
-tm.betano.com CNAME .
-tm.betano.cz CNAME .
-tm.betano.de CNAME .
-tm.betano.mx CNAME .
 tm.cbd.ae CNAME .
 tm.clearcover.com CNAME .
 tm.cox.com CNAME .
@@ -906,7 +883,6 @@ tm.creditcheck.illion.co.nz CNAME .
 tm.creditcheck.illion.com.au CNAME .
 tm.creditprotect.illion.com.au CNAME .
 tm.cybersource.com CNAME .
-tm.directly.com CNAME .
 tm.fanduel.com CNAME .
 tm.fidelity.co.uk CNAME .
 tm.goldennuggetcasino.com CNAME .
@@ -916,7 +892,6 @@ tm.kotak.com CNAME .
 tm.kotak811.com CNAME .
 tm.okinushub.com CNAME .
 tm.paysafecard.com CNAME .
-tm.production.eu1.tmfp.klarna.net CNAME .
 tm.promotion-cdn.com CNAME .
 tm.regions.com CNAME .
 tm.regionsqa.com CNAME .
@@ -929,8 +904,6 @@ tm.stats.home24.ch CNAME .
 tm.stats.home24.de CNAME .
 tm.stats.home24.it CNAME .
 tm.stats.home24.nl CNAME .
-tm.stoiximan.com.cy CNAME .
-tm.stoiximan.gr CNAME .
 tm.summit-services.ca CNAME .
 tm.tbcbank.uz CNAME .
 tm.telecharge.com CNAME .
@@ -942,7 +915,6 @@ tmcontent.imvu.com CNAME .
 tmcontent.meridiancu.ca CNAME .
 tmcontent.motusbank.ca CNAME .
 tmcontent.sixt.com CNAME .
-tmfp.klarna.com CNAME .
 tmi.my529.org CNAME .
 tmln.caesarscasino.com CNAME .
 tms.paysafe.com CNAME .
@@ -967,7 +939,6 @@ tmx.tdbank.com CNAME .
 tmx.uptodate.com CNAME .
 tmx.vinci-autoroutes.com CNAME .
 tmxapi.globalsources.com CNAME .
-tmximg.draftkings.com CNAME .
 tmxjs.tokyodisneyresort.jp CNAME .
 tooling.ynap.biz CNAME .
 tprofile.goldmansachs.tech CNAME .
@@ -1033,4 +1004,3 @@ xmt.paze.com CNAME .
 ydkwim.targobank.de CNAME .
 yr3ioxw.hoaresbank.co.uk CNAME .
 zacchaeus.logos.com CNAME .
-zfp.intuit.com CNAME .

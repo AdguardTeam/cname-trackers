@@ -41,7 +41,6 @@
 | cio.mettzer.com | edge-east.customer.io |
 | cio.mettzermail.com | edge-east.customer.io |
 | cio.news.oncehub.com | edge-east.customer.io |
-| cio.oncehub.com | edge-east.customer.io |
 | cio.pave.com | edge-east.customer.io |
 | cio.paved.com | edge-east.customer.io |
 | cio.powerlinx.com | edge-east.customer.io |
@@ -179,7 +178,6 @@
 | email.adressa.no | edge-east.customer.io |
 | email.adresseavisen.no | edge-east.customer.io |
 | email.advancemortgagebrokers.com.au | edge-east.customer.io |
-| email.afalending.com.au | edge-east.customer.io |
 | email.affilimate.com | edge-east.customer.io |
 | email.afhouse.com.au | edge-east.customer.io |
 | email.aflore.co | edge-east.customer.io |
@@ -414,7 +412,6 @@
 | email.diagnosus.com | edge-east.customer.io |
 | email.digitalspace.net | edge-east.customer.io |
 | email.dihola.com | edge-east.customer.io |
-| email.directfinancial.com.au | edge-east.customer.io |
 | email.disco-mailer.net | edge-east.customer.io |
 | email.dmart.com.ua | edge-east.customer.io |
 | email.dobt.co | edge-east.customer.io |
@@ -453,7 +450,6 @@
 | email.empirecorp.com.au | edge-east.customer.io |
 | email.enroll-me.co | edge-east.customer.io |
 | email.eobs.biz | edge-east.customer.io |
-| email.epic.ai | edge-east.customer.io |
 | email.erkhet.biz | edge-east.customer.io |
 | email.erural.net | edge-east.customer.io |
 | email.ethoslife.com | edge-east.customer.io |
@@ -611,7 +607,6 @@
 | email.ibenjamen.com | edge-east.customer.io |
 | email.iconsavingsplan.com | edge-east.customer.io |
 | email.idealfinancial.com.au | edge-east.customer.io |
-| email.idfy.net | edge-east.customer.io |
 | email.ifghomeloans.com.au | edge-east.customer.io |
 | email.ignite.pg.com | edge-east.customer.io |
 | email.imaestri.com | edge-east.customer.io |
@@ -638,7 +633,6 @@
 | email.iziwork.com | edge-east.customer.io |
 | email.izzi.gg | edge-east.customer.io |
 | email.jackpix.bet | edge-east.customer.io |
-| email.jackpoty.com | edge-east.customer.io |
 | email.japanrabbit.com | edge-east.customer.io |
 | email.jaramba.se | edge-east.customer.io |
 | email.jetmailer.net | edge-east.customer.io |
@@ -1128,7 +1122,6 @@
 | email.tillersystems.com | edge-east.customer.io |
 | email.tireabc.com | edge-east.customer.io |
 | email.tngrealty.com | edge-east.customer.io |
-| email.toconvey.co.nz | edge-east.customer.io |
 | email.todoscomemos.com | edge-east.customer.io |
 | email.tokeet.com | edge-east.customer.io |
 | email.tome.page | edge-east.customer.io |

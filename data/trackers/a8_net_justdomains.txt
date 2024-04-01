@@ -249,7 +249,6 @@ a8.print-netsquare.com
 a8.projectee.online
 a8.rank-quest.jp
 a8.recmount-plus.com
-a8.remix-denki.com
 a8.remobiz.jp
 a8.renkindo.com
 a8.ricafrosh.com
@@ -1106,6 +1105,7 @@ a8cv.postcoffee.co
 a8cv.pre-sana.com
 a8cv.premium.aidemy.net
 a8cv.presence.jp
+a8cv.print-gakufu.com
 a8cv.pro.omobic.com
 a8cv.quattrocart.com
 a8cv.quick-management.jp

@@ -41,5 +41,4 @@
 | tck.wonderbox.fr | k.keyade.com |
 | k.truffaut.com | k.madmetrics.com |
 | ka.ilius.net | mt.k.keyade.com |
-| www.keyad.fr | www.keyade.com |
 | www.keyade.fr | www.keyade.com |

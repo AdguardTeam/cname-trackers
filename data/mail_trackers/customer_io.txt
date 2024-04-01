@@ -27,7 +27,6 @@
 ||cio.mettzer.com^
 ||cio.mettzermail.com^
 ||cio.news.oncehub.com^
-||cio.oncehub.com^
 ||cio.pave.com^
 ||cio.paved.com^
 ||cio.powerlinx.com^
@@ -165,7 +164,6 @@
 ||email.adressa.no^
 ||email.adresseavisen.no^
 ||email.advancemortgagebrokers.com.au^
-||email.afalending.com.au^
 ||email.affilimate.com^
 ||email.afhouse.com.au^
 ||email.aflore.co^
@@ -400,7 +398,6 @@
 ||email.diagnosus.com^
 ||email.digitalspace.net^
 ||email.dihola.com^
-||email.directfinancial.com.au^
 ||email.disco-mailer.net^
 ||email.dmart.com.ua^
 ||email.dobt.co^
@@ -439,7 +436,6 @@
 ||email.empirecorp.com.au^
 ||email.enroll-me.co^
 ||email.eobs.biz^
-||email.epic.ai^
 ||email.erkhet.biz^
 ||email.erural.net^
 ||email.ethoslife.com^
@@ -597,7 +593,6 @@
 ||email.ibenjamen.com^
 ||email.iconsavingsplan.com^
 ||email.idealfinancial.com.au^
-||email.idfy.net^
 ||email.ifghomeloans.com.au^
 ||email.ignite.pg.com^
 ||email.imaestri.com^
@@ -624,7 +619,6 @@
 ||email.iziwork.com^
 ||email.izzi.gg^
 ||email.jackpix.bet^
-||email.jackpoty.com^
 ||email.japanrabbit.com^
 ||email.jaramba.se^
 ||email.jetmailer.net^
@@ -1114,7 +1108,6 @@
 ||email.tillersystems.com^
 ||email.tireabc.com^
 ||email.tngrealty.com^
-||email.toconvey.co.nz^
 ||email.todoscomemos.com^
 ||email.tokeet.com^
 ||email.tome.page^

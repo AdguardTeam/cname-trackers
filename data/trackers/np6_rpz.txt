@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711353623781        ; Serial
+           1711958420584        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1047,7 +1047,6 @@ tr.tpe.harmonie-mutuelle.fr CNAME .
 tr.tr.bricodepot.com CNAME .
 tr.trafficnews.lyria.com CNAME .
 tr.ujsv.espmp-agfr.net CNAME .
-tr.uk.icicibank.com CNAME .
 tr.uk.katun.com CNAME .
 tr.unaoffertaalgiorno.com CNAME .
 tr.update.groupon.be CNAME .

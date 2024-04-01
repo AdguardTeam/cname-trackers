@@ -93,8 +93,6 @@
 | channelwatcher.panda.tech | custom.plausible.io |
 | cheese.guac.live | custom.plausible.io |
 | churro.noteapps.info | custom.plausible.io |
-| connect.adkhifi.com | custom.plausible.io |
-| connect.astrobotanicals.com | custom.plausible.io |
 | count.gothaer-digital.de | custom.plausible.io |
 | counter.cropvid.com | custom.plausible.io |
 | counter.proxycrawl.com | custom.plausible.io |
@@ -359,8 +357,6 @@
 | statistics.heatbeat.de | custom.plausible.io |
 | statistik.apartments-tirolerhaus.at | custom.plausible.io |
 | statman.sesong.info | custom.plausible.io |
-| stats-aah.gigride.live | custom.plausible.io |
-| stats-whatever.gigride.live | custom.plausible.io |
 | stats.69grad.de | custom.plausible.io |
 | stats.acadevor.com | custom.plausible.io |
 | stats.achtsame-yonimassage.de | custom.plausible.io |
@@ -549,7 +545,6 @@
 | stats.gethyas.com | custom.plausible.io |
 | stats.getpickaxe.com | custom.plausible.io |
 | stats.ghinda.com | custom.plausible.io |
-| stats.gigride.live | custom.plausible.io |
 | stats.glassmountains.co.uk | custom.plausible.io |
 | stats.glyphs.fyi | custom.plausible.io |
 | stats.gnalt.de | custom.plausible.io |
@@ -663,7 +658,6 @@
 | stats.lussoveloce.com | custom.plausible.io |
 | stats.lyricall.cz | custom.plausible.io |
 | stats.macosicons.com | custom.plausible.io |
-| stats.madeit.io | custom.plausible.io |
 | stats.madethis.gallery | custom.plausible.io |
 | stats.maferland.com | custom.plausible.io |
 | stats.magarantie5ans.fr | custom.plausible.io |
@@ -775,7 +769,6 @@
 | stats.radicalweb.design | custom.plausible.io |
 | stats.rasulkireev.com | custom.plausible.io |
 | stats.reactician.com | custom.plausible.io |
-| stats.reactshowcase.com | custom.plausible.io |
 | stats.readers.cafe | custom.plausible.io |
 | stats.readng.co | custom.plausible.io |
 | stats.redlabelsports.com | custom.plausible.io |
@@ -846,7 +839,6 @@
 | stats.sushibyte.io | custom.plausible.io |
 | stats.svemir.co | custom.plausible.io |
 | stats.symbiofest.cz | custom.plausible.io |
-| stats.table.party | custom.plausible.io |
 | stats.tarasyarema.com | custom.plausible.io |
 | stats.tax-venture.de | custom.plausible.io |
 | stats.teamdetails.com | custom.plausible.io |

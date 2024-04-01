@@ -38,7 +38,6 @@
     * tchibo07.webtrekk.net
     * tchibo08.webtrekk.net
     * tchibo09.webtrekk.net
-    * telekom01.webtrekk.net
     * telekom02.webtrekk.net
     * teufel-de01.webtrekk.net
     * warentest-de01.webtrekk.net
@@ -67,7 +66,6 @@
     * 267062407301027.wt-eu02.net
     * 274892701840429.wt-eu02.net
     * 285545256993116.wt-eu02.net
-    * 286813086616891.wt-eu02.net
     * 292330999892453.wt-eu02.net
     * 292595354576025.wt-eu02.net
     * 301407277754972.wt-eu02.net
@@ -110,7 +108,6 @@
     * 524656123914087.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
-    * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
     * 587628343151442.wt-eu02.net
     * 590341552297239.wt-eu02.net
@@ -162,7 +159,6 @@
     * 849036415619964.wt-eu02.net
     * 849715076759606.wt-eu02.net
     * 865411762489824.wt-eu02.net
-    * 877979016491790.wt-eu02.net
     * 893825625040746.wt-eu02.net
     * 913761141602487.wt-eu02.net
     * 927615140575951.wt-eu02.net
@@ -272,7 +268,6 @@
 | web.news.imperialfashion.com | 267062407301027.wt-eu02.net |
 | web.e.obayaty.com | 274892701840429.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
-| mit.db.com | 286813086616891.wt-eu02.net |
 | backup.data.srf.ch | 292330999892453.wt-eu02.net |
 | data.srf.ch | 292330999892453.wt-eu02.net |
 | foro.data.srf.ch | 292330999892453.wt-eu02.net |
@@ -339,7 +334,6 @@
 | census.misterspex.no | 524656123914087.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
-| pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
 | web.e.bolts.co.uk | 587628343151442.wt-eu02.net |
 | web.e.compositesales.co.uk | 587628343151442.wt-eu02.net |
@@ -408,7 +402,6 @@
 | mit.deutsche-bank.de | 849715076759606.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
 | wt.generalibewegtdeutschland.de | 865411762489824.wt-eu02.net |
-| mit.deutschebank.be | 877979016491790.wt-eu02.net |
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
 | web.newsletterit.esprinet.com | 913761141602487.wt-eu02.net |
 | joda.quotidianodipuglia.it | 927615140575951.wt-eu02.net |
@@ -418,7 +411,6 @@
 | ctdfm.ilgiornale.it | 950197453774939.wt-eu02.net |
 | web.mapp.ilgiardinodeilibri.it | 958731023298385.wt-eu02.net |
 | web.newsletter.viviennewestwood.com | 964869656656022.wt-eu02.net |
-| mit.researchlog.db.com | 965607891904117.wt-eu02.net |
 | mit.researchlog.dbresearch.com | 965607891904117.wt-eu02.net |
 | mit.researchlog.dbresearch.de | 965607891904117.wt-eu02.net |
 | abc.bayer04.de | 969665527401678.wt-eu02.net |
@@ -605,7 +597,6 @@
 | tracking.tchibo.sk | tchibo07.webtrekk.net |
 | tracking.tchibo.hu | tchibo08.webtrekk.net |
 | tracking.tchibo.com.tr | tchibo09.webtrekk.net |
-| pix.telekom.de | telekom01.webtrekk.net |
 | pix.telekom-dienste.de | telekom02.webtrekk.net |
 | wbtrkk.teufelaudio.co.uk | teufel-de01.webtrekk.net |
 | tippcom01.tipp24.com | tipp24-de01.wt-eu02.net |

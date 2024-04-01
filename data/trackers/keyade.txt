@@ -27,5 +27,4 @@
 ||tck.photobox.com^
 ||tck.wonderbox.fr^
 ||k.truffaut.com^
-||www.keyad.fr^
 ||www.keyade.fr^

@@ -1057,7 +1057,6 @@
 | tr.tr.bricodepot.com | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |
 | tr.ujsv.espmp-agfr.net | tracking.bp01.net |
-| tr.uk.icicibank.com | tracking.bp01.net |
 | tr.uk.katun.com | tracking.bp01.net |
 | tr.unaoffertaalgiorno.com | tracking.bp01.net |
 | tr.update.groupon.be | tracking.bp01.net |

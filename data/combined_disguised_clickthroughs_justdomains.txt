@@ -1,6 +1,6 @@
 # Title: AdGuard CNAME disguised clickthroughs list
 # Description: The list of unique clickthroughs domains that disguise the real trackers by using CNAME records.
-# TimeUpdated: 2024-03-25T08:00:23+00:00
+# TimeUpdated: 2024-04-01T08:00:20+00:00
 # Homepage: https://github.com/AdguardTeam/cname-trackers
 #
 0-rootsweb.b2bmktg.com
@@ -477,7 +477,6 @@ agency.thelevelup.com
 agendasearch.b2bmktg.com
 agentusers.b2bmktg.com
 aggelakia.openapp.link
-agis.atlas.us.com
 agora.catholic.org.au
 ahoy.15five.com
 ai-mpk.b2bmktg.com
@@ -626,7 +625,6 @@ app-test.barking.city
 app-test.barking.ee
 app-test.comparethemarket.com.au
 app-test.evntly.com
-app-test.get360fit.com
 app-test.goat.com
 app-test.hermo.my
 app-test.kisikates.com.tr
@@ -1104,7 +1102,6 @@ applink.moolban.com
 applink.mypostcardapp.com
 applink.oskar.de
 applink.picmasters.de
-applink.pleizi.com
 applink.pod.io
 applink.podimo.com
 applink.psychonline.com
@@ -1208,7 +1205,6 @@ ask.sjsu.edu
 ask.wearelistening.co.nz
 asm.enginekalendar-metrics.b2bmktg.com
 aspire.ivywise.com
-assetmanagement.att.com
 assets.35mm.es
 assets.campustraining.es
 assets.em3.capitalise.com
@@ -1594,7 +1590,6 @@ branch.craftsmanrepublic.com
 branch.dev.att.llabs.io
 branch.devishetty.net
 branch.dragonslayertravel.com
-branch.dstreet.finance
 branch.eccocar.com
 branch.employus.com
 branch.familybase.vzw.com
@@ -1602,7 +1597,6 @@ branch.frankctan.com
 branch.getcredible.io
 branch.gosunpro.com
 branch.hyr.work
-branch.indi.com
 branch.kastapp.link
 branch.kiddom.co
 branch.lacarte.com
@@ -1622,7 +1616,6 @@ branch.pgatour-mail.com
 branch.quantic.edu
 branch.rejuvenan.com
 branch.release.winfooz.com
-branch.reserveout.com
 branch.rockmyrun.com
 branch.servingchefs.com
 branch.seshfitnessapp.com
@@ -1768,7 +1761,6 @@ business.breezeline.com
 business.buchbinder.de
 business.cogeco.ca
 business.crib.in
-business.dyson.com
 business.europcar.com
 business.face2.io
 business.glico.com
@@ -2121,7 +2113,6 @@ cloud.ibapplications.com
 cloud.jumpcloud.com
 cloud.www2.celonis.com
 cloudcall.synety.com
-cloudgate.thewc.co.kr
 clp.lendersone.com
 clp.springhouseamc.com
 cltr.irlmail.org
@@ -2149,7 +2140,6 @@ colors.chamoji.com
 com.inops.fr
 combustibles.mobil.com.mx
 comingtogether.harvardpilgrim.org
-comm.adt.com
 comm.qapla.it
 comm2.jeld-wen.com
 commerce.gw.b2bmktg.com
@@ -2427,7 +2417,6 @@ content.cbmm.com
 content.cf.group
 content.chks.co.uk
 content.cin7.com
-content.civic.org.au
 content.claris.com
 content.clarke-energy.com
 content.cmpsolutions.com
@@ -2834,7 +2823,6 @@ dev-share.smartfashion.ai
 dev.branch.parkingpanda.com
 dev.domino.flycl.ps
 dev.enterprise.rev.com
-dev.getcontact.me
 dev.getemoji.me
 dev.gldn.io
 dev.go.levelbank.com
@@ -3070,7 +3058,6 @@ download.withu.fit
 download.worldagritechinnovation.com
 download.worldwatertechinnovation.com
 download.worldwatertechnorthamerica.com
-download.yuehlia.com
 download.zikirapp.com
 downloads.gptw.com.br
 dp.espritcam.com
@@ -3275,7 +3262,6 @@ email.eutelsat.com
 email.evan-moor.com
 email.everyonesocial.apptio.com
 email.everyonesocial.bostonscientific.com
-email.everyonesocial.circle.com
 email.everyonesocial.colt.net
 email.everyonesocial.coupa.com
 email.everyonesocial.dykema.com
@@ -3468,7 +3454,6 @@ enterprise.grab.com
 enterprise.medbridge.com
 enterprise.medbridgeeducation.com
 enterprise.sparklight.com
-enterprise.t-mobile.com
 enterprisesolutions.bell.ca
 environmental.aafintl.com
 envisionmore.appluent.net
@@ -3487,7 +3472,6 @@ esrthealthybuilding.com
 eu.gldn.io
 euapp.levi.com
 eureka-app.eurekaplatform.org
-ev.nasdaq.com
 evcharging-business.wallbox.com
 event.global-cosmetics.com
 event.globalcosmetics.hk
@@ -3789,7 +3773,6 @@ get.oshp.io
 get.peoople.app
 get.peoople.co
 get.plural.com
-get.pockit.com
 get.prapo.com
 get.printt.com
 get.printtapp.com
@@ -3852,7 +3835,6 @@ get.wishmindr.com
 get.wyndy.com
 get.wysa.uk
 get.xclick24.com
-get.yellw.co
 get.yourc.ar
 get.ypulse.com
 get.yugengamers.com
@@ -3986,7 +3968,6 @@ go.aadrivingacademy.net
 go.aakpersonalcare.com
 go.aami.org
 go.aamlive.com
-go.aati-us.com
 go.aauni.edu
 go.abacusdx.com
 go.abbyconnect.com
@@ -4923,7 +4904,6 @@ go.covau.com.au
 go.covetrus.com
 go.covoitici.fr
 go.coxprosight.com
-go.cpac.org
 go.cpe.kennesaw.edu
 go.cpgtoolbox.com
 go.cpie.csulb.edu
@@ -5168,13 +5148,11 @@ go.edifecs.com
 go.edm.nl
 go.edmundsgovtech.com
 go.edology.com
-go.edu.canva.com
 go.edu.chegg.com
 go.educ.queensu.ca
 go.education.benesse.co.jp
 go.educationadvanced.com
 go.educationaladvancement.org
-go.educatorsnowllc.com
 go.edynamiclearning.com
 go.eeplan.jp
 go.efaxcorporate.co.uk
@@ -5324,7 +5302,6 @@ go.everview.io
 go.every.tv
 go.evidentscientific.com
 go.evideon.com
-go.evisort.com
 go.exceldryer.com
 go.excelerateds2p.com
 go.excellarate.com
@@ -5674,8 +5651,6 @@ go.globalinvestigationsreview.com
 go.globalknowledge.com
 go.globalmeet.com
 go.globalpayments.com
-go.globalpaymentsinc.com
-go.globalpaymentsintegrated.com
 go.globalpolicywatch.com
 go.globalpwr.com
 go.globalrestructuringreview.com
@@ -5793,7 +5768,6 @@ go.growthengine.com
 go.growthoperators.com
 go.growthseed.jp
 go.growwithstudio.com
-go.grubhub.com
 go.grupopremo.com
 go.gruppopharmaservice.it
 go.gs-etc.info
@@ -5885,7 +5859,6 @@ go.hins.jp
 go.hirakata-kodate.com
 go.hireclix.com
 go.hisradiowrtp.com
-go.hitte.jp
 go.hks.harvard.edu
 go.hldc.co.jp
 go.hmark.com
@@ -5967,7 +5940,6 @@ go.hypori.com
 go.i-extend.com.au
 go.i-myrefer.jp
 go.i-pro.com
-go.i2max.co.kr
 go.iabc.com
 go.iacmi.org
 go.iangels.co
@@ -6323,7 +6295,6 @@ go.kakushin-cloud.com
 go.kanazawakiko.jp
 go.kango-houmon.com
 go.kantarmarketplace.com
-go.kanto-kasei.co.jp
 go.kaon.com
 go.kaplanhomes.com.au
 go.karos.fr
@@ -6418,7 +6389,6 @@ go.kitchenvalley.co.kr
 go.kitera-cloud.jp
 go.kito.co.jp
 go.kivnon.com
-go.klarivis.com
 go.kleer.com
 go.klimaholzhaus.swiss
 go.kmhlabs.com
@@ -6627,7 +6597,6 @@ go.listenfirstmedia.com
 go.litespeed.com
 go.lithon.co.jp
 go.littlegiantladders.com
-go.live.ft.com
 go.liveaction.com
 go.liveinwinnipeg.com
 go.liveon.ne.jp
@@ -6900,7 +6869,6 @@ go.mcgrory.com
 go.mchughsteel.com.au
 go.mcinc.org
 go.mclaneintel.com
-go.mcrel.org
 go.mcs2u.com
 go.mdc.mo.gov
 go.mdcprecision.com
@@ -6925,7 +6893,6 @@ go.mediacentric.net
 go.medical-tribune.co.jp
 go.medicall.cc
 go.medicept.com
-go.medicine.unimelb.edu.au
 go.medicom.ca
 go.medicom.phchd.com
 go.medigate.io
@@ -7337,7 +7304,6 @@ go.newpolitics.org
 go.newpoliticsacademy.org
 go.newpro.com
 go.news.equans.fr
-go.news.t-mobile.com
 go.newspringcapital.com
 go.newstatesman.com
 go.newtek.com
@@ -7860,7 +7826,6 @@ go.polyplastics-global.com
 go.polyplastics.com
 go.ponosecurity.com
 go.poolkungen.se
-go.poppy.com
 go.porex.com
 go.porkcheckoff.org
 go.porkinformation.com
@@ -7934,7 +7899,6 @@ go.princehotels.co.jp
 go.princewinestore.com.au
 go.prins.co.jp
 go.prioritycommerce.com
-go.priorityroofs.com
 go.prismahealth.org
 go.pritikin.com
 go.privtech.co.jp
@@ -8051,7 +8015,6 @@ go.quest.co.za
 go.questel.com
 go.questevents.com.au
 go.questica.com
-go.quickbooks.intuit.ca
 go.quickfi.com
 go.quickjack.com
 go.quinglobal.com.au
@@ -8225,7 +8188,6 @@ go.restrain.io
 go.resurety.com
 go.retailcapital.co.za
 go.retaildoctor.com.au
-go.retailers.instacart.com
 go.retailmenot.com
 go.retailnext.net
 go.rethinkevents.com
@@ -8275,7 +8237,6 @@ go.ringier-advertising.ch
 go.ringring.be
 go.ringteacher.com
 go.riseabove.com.au
-go.riskscreen.com
 go.risorse.it
 go.ritehite.com
 go.rivalea.com.au
@@ -8395,7 +8356,6 @@ go.salesmanago.com
 go.salesrabbit.com
 go.salesrenovation.jp
 go.saloniris.com
-go.salure.nl
 go.salvationarmy.org.nz
 go.salvo.net.au
 go.samaritanshope.org
@@ -9309,7 +9269,6 @@ go.universal-robots.com
 go.unmind.com
 go.unowhy.com
 go.unverbluemt.de
-go.upcloud.com
 go.upgrade.com
 go.uponor.info
 go.upwardlyglobal.org
@@ -9619,7 +9578,6 @@ grn.openapp.link
 grow.generalhydroponics.com
 grow.hawthorne-gardening.com
 guardian-app.hotdoc.com.au
-guidance.godaddy.com
 guitarlearning.deplike.com
 guterrat.gaius.app
 gyradiko.openapp.link
@@ -9639,7 +9597,6 @@ hello.beykoz.edu.tr
 hello.chartboost.com
 hello.commandalkon.com
 hello.constructor.university
-hello.esgpro.fidelity.com
 hello.foundationsoft.com
 hello.heroku.com
 hello.learn.mailjet.com
@@ -9791,17 +9748,14 @@ in.tulsaremote.com
 in.upipr.co
 inbg.pearlfinders.com
 indicator2.larcier-intersentia.com
-indir.boowetr.com
 industrial-content.filtrationgroup.com
 industrial.mtu-solutions.com
 industrialproducts.pidilite.com
 inf.clickpay.com
 influencer.picklebutnotcucumber.com
 info-bp.sodick.co.jp
-info-fiaminstitutional.fidelity.com
 info-forhealthconsulting.umassmed.edu
 info-mail.val.co.jp
-info-pyramis.fidelity.com
 info-ss1.sumitomoelectric.com
 info-swood.eficad.com
 info.1firsteco.fr
@@ -9855,7 +9809,6 @@ info.aeris.com
 info.affirm.com
 info.affordable-solar.com
 info.afma.ma
-info.agcs.allianz.com
 info.agilityrecovery.com
 info.agilysys.com
 info.agri-navi.com
@@ -10199,7 +10152,6 @@ info.jzandbergen.nl
 info.kag-plaza.co.jp
 info.kagoshimakita.selco-partner.jp
 info.kaigojob.com
-info.kala-m.co.jp
 info.kanaden.co.jp
 info.kanayaresorts.com
 info.kanden-rd.co.jp
@@ -10705,7 +10657,6 @@ info.sirtex.com
 info.sixfifty.com
 info.sixthsenselab.jp
 info.skope.com
-info.skroutz.gr
 info.sktextile.com
 info.skupos.com
 info.skylinesolar.com.au
@@ -10722,7 +10673,6 @@ info.snadisplays.com
 info.snapwa.org
 info.softbag.jp
 info.softbankhawks.co.jp
-info.sogo-ad.jp
 info.soken-home.jp
 info.solize.com
 info.solplanet.net
@@ -11036,12 +10986,9 @@ inform.fsm.kz
 inform.liilix.com
 informatie.iris.be
 information-eu.industrial.panasonic.com
-information.cel.sfsu.edu
-information.cpage.sfsu.edu
 information.crowncommercial.gov.uk
 information.kestrafinancial.com
 information.lexisnexis.jp
-information.mastercard.com
 informations.psl.eu
 infos.nxo.eu
 infos.seikovision.com
@@ -11057,7 +11004,6 @@ inquiry.renovefudosan.net
 inside.man.eu
 insight.armsreliability.com
 insight.longitude.co.uk
-insight.longitude.ft.com
 insight.nepa.com
 insight.tectia.com
 insight.theenergyproject.com
@@ -11174,7 +11120,6 @@ irl.campaigns.diageo-one.com
 isf.securityforum.org
 isflive.securityforum.org
 ism.brother.com
-iso.globalpaymentsinc.com
 it.cresco.co.jp
 it.gn.com
 it.zettle.com
@@ -11232,7 +11177,6 @@ join.newtrina.com
 join.our-story.co
 join.parentlove.me
 join.paymentstart.com
-join.pockit.com
 join.qa.fitgrid.com
 join.rainforest-alliance.org
 join.reakt.to
@@ -11432,7 +11376,6 @@ learn.cardus.ca
 learn.carpe.io
 learn.chirotouch.com
 learn.cisecurity.org
-learn.classdojo.com
 learn.clinicsource.com
 learn.coconino.edu
 learn.codefellows.org
@@ -11651,12 +11594,10 @@ link.doppels.com
 link.dosh.cash
 link.dralilabolsanelo.com
 link.drum.io
-link.dubble.me
 link.dvendor.com
 link.e.blog.myfitnesspal.com
 link.easy.me
 link.edapp.com
-link.eksperience.net
 link.electroneum.com
 link.electrover.se
 link.em.sssports.com
@@ -12200,7 +12141,6 @@ links.m.blueapron.com
 links.mail.stubhub.com
 links.marketing.getprizepool.com
 links.max.com
-links.mezurashigame.com
 links.mgmresorts.com
 links.motortrend.com
 links.myplace.co
@@ -12302,7 +12242,6 @@ live.ff.co
 live.imimobile.com
 live.localvox.com
 live.microban.com
-lkyspp1.nus.edu.sg
 ln-counsellink.lexisnexis.com
 lnk.christmaslistapp.com
 lnk.culturetrip.com
@@ -12696,7 +12635,6 @@ marketing.elettrotekkabel.com
 marketing.elizabethdolefoundation.org
 marketing.emagispace.com
 marketing.enento.com
-marketing.enterprise.grubhub.com
 marketing.equilar.com
 marketing.era.com.sg
 marketing.esprigas.com
@@ -13415,7 +13353,6 @@ now.savvas.com
 now.strategiccoach.com
 now.theceomagazine.com
 now.unimac.com
-now1.t-mobile.com
 np.fionta.com
 npr.black.news
 npteptptaexam.quantresear.ch
@@ -13687,7 +13624,6 @@ pardot.bioconnect.com
 pardot.blablacar.com
 pardot.bluepearlvet.com
 pardot.bmiaudit.com
-pardot.californiafamilyfitness.com
 pardot.cambriausa.com
 pardot.cambriausa.io
 pardot.camstar.industrysoftware.automation.siemens.com
@@ -13969,7 +13905,6 @@ pi.ogpnet.com
 pi.quantum-si.com
 pi.rockchoir.com
 pi.saintpaul.edu
-pi.sfsu.edu
 pi.spartascience.com
 pi.sysde.com
 pi.tiny.cloud
@@ -14603,7 +14538,6 @@ staging-link.docyt.com
 staging-link.kol.store
 staging-links.thriveglobal.com
 staging-refer.rooam.co
-staging-superset.getcontact.me
 staging.findeck.link
 staging.link.findeck.de
 staging.link.snapfeet.io
@@ -14625,7 +14559,6 @@ static.thentia.com
 stats.facs.com
 status.acutx.org
 status.b2bmktg.com
-std.analytics.getcontact.me
 stg-bnc-papago.naver.com
 stg-deeplink.ring.md
 stg.join.airvet.com
@@ -14634,10 +14567,7 @@ store.echovisuals.com
 store.esquirrel.at
 story.gkazas.com
 stream.9now.com.au
-studio.dev.vonage.com
 studio.joinsalut.com
-studio.qa.vonage.com
-studio.vonage.com
 studioid.industrydive.com
 studios.aboutamazon.com
 study.sjsu.edu
@@ -14674,7 +14604,6 @@ summercamps.swisseducationacademy.com
 sup.technical-s.co.jp
 super.rest.com.au
 super8-link.mysuki.io
-superset-production.getcontact.me
 suppliercommunications.walmart.com
 support.alephpark.b2bmktg.com
 support.b2bmktg.com
@@ -14807,7 +14736,6 @@ test.emails.hgtv.com
 test.emails.investigationdiscovery.com
 test.emails.tlc.com
 test.emails.travelchannel.com
-test.enterprise.t-mobile.com
 test.fbird.co
 test.findeck.link
 test.findplay.it
@@ -14821,7 +14749,6 @@ test.links.emails.emea.discoveryplus.com
 test.links.emails.ph.discoveryplus.com
 test.links.ph.discoveryplus.com
 test.oneview.roku.com
-test.open.ggwpacademy.com
 test.openapp.link
 test.partnerapp.kravein.com.au
 test.pooler.io
@@ -14964,7 +14891,6 @@ tr.naked.co.jp
 tr.pastis.co.jp
 tr.pathfinder.intel.com
 tr.traderisk.com.au
-trac.roomster.com
 track-mail.homage.co
 track-test.workframe.com
 track.armado.fr
@@ -15210,7 +15136,6 @@ url6035.clay-sendgrid-test.branch.rocks
 url6143.branch.rocks
 url6146.bastien.tantawy.app
 url644.promo.tops.co.th
-url6514.affirm.com
 url6633.ana.tantawy.app
 url6933.email.marcon.au
 url7542.fluz.app
@@ -15536,7 +15461,6 @@ ww2.womensworldbanking.org
 ww2.wuxibiologics.com
 ww3.achieve3000.com
 ww3.appgate.com
-ww3.business.vonage.com
 ww3.cardinalhealth.com
 ww3.coolfront.com
 ww3.culpepper.com
@@ -15554,9 +15478,6 @@ ww3.smyrnatruck.com
 ww3.vonagebusiness.com
 ww3.vonagebusiness.jp
 ww5.b2bmktg.com
-ww5.vonage.com
-ww6.business.vonage.com
-ww6.vonage.com
 ww6.vonage.com.br
 ww6.vonage.com.es
 ww6.vonage.fr
@@ -15568,7 +15489,6 @@ wwv.topspring.com.au
 wwvv.wilsongroupau.com
 www.1.cpanel.net
 www.admissions.pathrise.com
-www.ads.instacart.com
 www.amazon-brand-registry.com
 www.amazon-incentives.com
 www.amazonbusiness.co.in
@@ -16048,7 +15968,6 @@ www2.bizziphone.com
 www2.blackbullmarkets.com
 www2.blackstone.com
 www2.blanchardinternational.com.au
-www2.blinkist.com
 www2.blondi.it
 www2.blue-yonder.com
 www2.bluecart.com
@@ -16091,7 +16010,6 @@ www2.bridgepointfinancial.ca
 www2.bright.se
 www2.brightgen.com
 www2.brill.com
-www2.brinks.com.br
 www2.britishcoachawards.co.uk
 www2.brivo.com
 www2.broadbean.com
@@ -16345,7 +16263,6 @@ www2.definedlogic.com
 www2.degrootlogistics.com
 www2.demandmetric.com
 www2.demoboost.com
-www2.denmat.com
 www2.dentalhero.com
 www2.deposco.com
 www2.deptagency.com
@@ -18577,7 +18494,6 @@ www4.saba.com
 www4.stonel.com
 www4.superiorvision.com
 www4.valmet.com
-www4.verifone.com
 www4.watchdox.com
 www4.wexinc.com
 www4.yanmar.com

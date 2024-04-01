@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711353623781        ; Serial
+           1711958420584        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,5 +38,4 @@ tck.fr.transavia.com CNAME .
 tck.photobox.com CNAME .
 tck.wonderbox.fr CNAME .
 k.truffaut.com CNAME .
-www.keyad.fr CNAME .
 www.keyade.fr CNAME .

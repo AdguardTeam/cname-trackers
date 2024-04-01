@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711353623781        ; Serial
+           1711958420584        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -468,6 +468,7 @@ data-39f71aefaf.prisma.de CNAME .
 data-3aa56b5882.die-deutsche-wirtschaft.de CNAME .
 data-3adb48f023.apps.iocnt.de CNAME .
 data-3aee2d871a.hgtv.com CNAME .
+data-3b127a6eb1.mena-watch.com CNAME .
 data-3b1647c072.entdeckertag.de CNAME .
 data-3b1647c072.hannover.de CNAME .
 data-3b1647c072.landheime.de CNAME .
@@ -1750,6 +1751,7 @@ data-c854f15f64.eltern.de CNAME .
 data-c854f15f64.schwangerschaft.de CNAME .
 data-c854f15f64.urbia.de CNAME .
 data-c854f15f64.vorname.com CNAME .
+data-c94cf2beab.physiotherapeuten.de CNAME .
 data-c958fdb0ad.sk-one.de CNAME .
 data-c9739b4017.lecker.de CNAME .
 data-c9f0280444.apps.iocnt.de CNAME .
@@ -1993,6 +1995,7 @@ data-ee807be806.jobmarkt-nrw.de CNAME .
 data-ee807be806.lokalkompass.de CNAME .
 data-ee807be806.nrz.de CNAME .
 data-ee807be806.radioduisburg.de CNAME .
+data-ee807be806.radioemscherlippe.de CNAME .
 data-ee807be806.radioherne.de CNAME .
 data-ee807be806.radiokw.de CNAME .
 data-ee807be806.radiooberhausen.de CNAME .
@@ -2002,6 +2005,7 @@ data-ee807be806.waz.de CNAME .
 data-ee807be806.wp.de CNAME .
 data-ee807be806.wr.de CNAME .
 data-ef2b66d556.miss.at CNAME .
+data-ef2df4302f.baumagazin-online.de CNAME .
 data-ef805f6034.apps.iocnt.de CNAME .
 data-ef8760a9b2.fraenkische-rezepte.de CNAME .
 data-ef8760a9b2.infranken.de CNAME .
@@ -2263,7 +2267,6 @@ data-fdf4690b14.wp.de CNAME .
 data-fdf4690b14.wr.de CNAME .
 data-fe32da0431.news.at CNAME .
 data-fe34715c33.zi-online.info CNAME .
-data-fe452b2ed9.ok-magazin.de CNAME .
 data-fe51ff732b.e-media.at CNAME .
 data-fe7ee41789.apps.iocnt.de CNAME .
 data-fe87994a5d.freenet-group.de CNAME .

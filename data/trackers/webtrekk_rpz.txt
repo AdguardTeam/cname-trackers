@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711353623781        ; Serial
+           1711958420584        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,7 +23,6 @@ now.peek-cloppenburg.de CNAME .
 ot.obi.com CNAME .
 pix.eads.com CNAME .
 pix.telekom-dienste.de CNAME .
-pix.telekom.de CNAME .
 pixel.augsburger-allgemeine.de CNAME .
 prophet.heise.de CNAME .
 service.hcob-bank.de CNAME .
@@ -173,15 +172,12 @@ mapp.peacocks.co.uk CNAME .
 mapp.yesstyle.com CNAME .
 mff.messefrankfurt.com CNAME .
 mit.bhw.de CNAME .
-mit.db.com CNAME .
 mit.deutsche-bank.de CNAME .
-mit.deutschebank.be CNAME .
 mit.deutschewealth.com CNAME .
 mit.dslbank.de CNAME .
 mit.dws.com CNAME .
 mit.dws.de CNAME .
 mit.postbank.de CNAME .
-mit.researchlog.db.com CNAME .
 mit.researchlog.dbresearch.com CNAME .
 mit.researchlog.dbresearch.de CNAME .
 nov.data.srf.ch CNAME .
@@ -200,7 +196,6 @@ ot.obi.pl CNAME .
 ot.obi.si CNAME .
 ot.obi.sk CNAME .
 pix.airbusgroup.com CNAME .
-pix.telekom.com CNAME .
 proditor.sparda.de CNAME .
 prophet.heise-academy.de CNAME .
 s5.data.srf.ch CNAME .

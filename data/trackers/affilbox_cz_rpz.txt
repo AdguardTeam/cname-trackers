@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711353623781        ; Serial
+           1711958420584        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -146,7 +146,6 @@ affiliate.elektronickeobojkypropsy.cz CNAME .
 affiliate.elisdesign.cz CNAME .
 affiliate.ellex.cz CNAME .
 affiliate.epohledavky.cz CNAME .
-affiliate.eros.sk CNAME .
 affiliate.escapehouse.sk CNAME .
 affiliate.esensino.cz CNAME .
 affiliate.esensino.sk CNAME .
@@ -527,6 +526,7 @@ partner.fabulo.sk CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
 partner.forexrebel.net CNAME .
+partner.freshlabels.cz CNAME .
 partner.generatorvodiku.cz CNAME .
 partner.gingershot.cz CNAME .
 partner.giulieta.shop CNAME .
@@ -894,6 +894,7 @@ spoluprace.mentorkalucie.cz CNAME .
 spoluprace.nordictelecom.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .
 spoluprace.potravinyarax.cz CNAME .
+spoluprace.sikland.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .
 vydelavejtesnami.pg.cz CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711353623781        ; Serial
+           1711958420584        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -260,7 +260,6 @@ a8.print-netsquare.com CNAME .
 a8.projectee.online CNAME .
 a8.rank-quest.jp CNAME .
 a8.recmount-plus.com CNAME .
-a8.remix-denki.com CNAME .
 a8.remobiz.jp CNAME .
 a8.renkindo.com CNAME .
 a8.ricafrosh.com CNAME .
@@ -1117,6 +1116,7 @@ a8cv.postcoffee.co CNAME .
 a8cv.pre-sana.com CNAME .
 a8cv.premium.aidemy.net CNAME .
 a8cv.presence.jp CNAME .
+a8cv.print-gakufu.com CNAME .
 a8cv.pro.omobic.com CNAME .
 a8cv.quattrocart.com CNAME .
 a8cv.quick-management.jp CNAME .

@@ -30,8 +30,6 @@
 ||apps.shift.com.au^
 ||appschk.scotiabank.com^
 ||appscore.credilike.me^
-||asanalytics.booking.com^
-||assessment.nj.betmgm.com^
 ||assets.werally.co^
 ||assets2.ihg.com^
 ||assets2.thefirstclub.com^
@@ -157,7 +155,6 @@
 ||client.online.sandyspringbank.com^
 ||clovergo.june-testing.firstdata.com^
 ||cmprofile.cards.citidirect.com^
-||cnt.didiglobal.com^
 ||cnt.goboo.com^
 ||cnt.patpat.com^
 ||cnt2.bank.za.group^
@@ -216,7 +213,6 @@
 ||content.familyprepaiddebit.com^
 ||content.fig.ca^
 ||content.firstinterstatebank.com^
-||content.fisglobal.com^
 ||content.floridarentals.com^
 ||content.frs.fl.gov^
 ||content.gap.com^
@@ -356,7 +352,6 @@
 ||cstm.gumtree.com^
 ||customer.homedepot.com^
 ||customercenter-img04.auto-owners.com^
-||custprof.t-mobile.com^
 ||cybersource.shoplineapp.com^
 ||cybs.dhgate.com^
 ||cybs.dhpay.com^
@@ -430,7 +425,6 @@
 ||fp.marisota.co.uk^
 ||fp.simplybe.co.uk^
 ||fp.ubagroup.com^
-||fp.ups.com^
 ||fpcn.bpsgameserver.com^
 ||fpmobile.uplift-platform.com^
 ||fpt.norton.com^
@@ -440,7 +434,6 @@
 ||fsta.leboncoin.info^
 ||ftd.quodxx.com.br^
 ||gateway.jmbullion.com^
-||ghisa.subito.it^
 ||go.citizensaccess.com^
 ||h.chase.co.uk^
 ||h.greenmangaming.com^
@@ -579,12 +572,8 @@
 ||pages.franklintempleton.com^
 ||paiement.cb4x.fr^
 ||partition.enterprise.com^
-||payment.rewards.sony.com^
 ||payments-de.lidlplus.com^
-||payments.direct.playstation.com^
 ||payments.hd-plus.de^
-||payrisk-tmx.didiglobal.com^
-||pf.intuit.com^
 ||phyon.communipay.net^
 ||phyon.visit-x.net^
 ||piafapp.poste.it^
@@ -655,7 +644,6 @@
 ||public-check3-at.test.tiaa-cref.org^
 ||public-check3-at.test.tiaa.org^
 ||qa-check3.qa.everbank.com^
-||qfp.intuit.com^
 ||qrimages.qatarairways.com^
 ||qtbm.fundourselves.com^
 ||qtbm.welendus.com^
@@ -743,7 +731,6 @@
 ||service.riverscontent.com^
 ||servicesdp.luckydays.ca^
 ||servicesdp.spinaway.ca^
-||sg-payment.cydf.hoyoverse.com^
 ||shield.boostbusiness.my^
 ||sitehelper.myengageft.com^
 ||sitehelper.optimizemoney.com^
@@ -756,7 +743,6 @@
 ||srv.squaretrade.com.au^
 ||srv.squaretrade.dk^
 ||srv.squaretrade.es^
-||ssafp.samsclub.com^
 ||st10.sofi.com^
 ||stat.bluorbank.lv^
 ||static.bc-cdn.io^
@@ -765,7 +751,6 @@
 ||static.yg-cdn.io^
 ||static2.gumtree.com.au^
 ||stats.badoostats.com^
-||stats.dell.com^
 ||sub-a.crossmeetz.com^
 ||subcontent.galeria.de^
 ||sunshine.lillypulitzer.com^
@@ -839,7 +824,6 @@
 ||tags.bankline.ulsterbank.co.uk^
 ||tags.bankline.ulsterbank.ie^
 ||tags.currencypay.natwestmarkets.com^
-||tags.dazn.com^
 ||tags.emirates.com^
 ||tags.eq.iombank.com^
 ||tags.eq.natwestinternational.com^
@@ -881,13 +865,6 @@
 ||tm.bdc-cdn.com^
 ||tm.beachbody.com^
 ||tm.benevity.org^
-||tm.betano.ar^
-||tm.betano.bg^
-||tm.betano.ca^
-||tm.betano.com^
-||tm.betano.cz^
-||tm.betano.de^
-||tm.betano.mx^
 ||tm.cbd.ae^
 ||tm.clearcover.com^
 ||tm.cox.com^
@@ -895,7 +872,6 @@
 ||tm.creditcheck.illion.com.au^
 ||tm.creditprotect.illion.com.au^
 ||tm.cybersource.com^
-||tm.directly.com^
 ||tm.fanduel.com^
 ||tm.fidelity.co.uk^
 ||tm.goldennuggetcasino.com^
@@ -905,7 +881,6 @@
 ||tm.kotak811.com^
 ||tm.okinushub.com^
 ||tm.paysafecard.com^
-||tm.production.eu1.tmfp.klarna.net^
 ||tm.promotion-cdn.com^
 ||tm.regions.com^
 ||tm.regionsqa.com^
@@ -918,8 +893,6 @@
 ||tm.stats.home24.de^
 ||tm.stats.home24.it^
 ||tm.stats.home24.nl^
-||tm.stoiximan.com.cy^
-||tm.stoiximan.gr^
 ||tm.summit-services.ca^
 ||tm.tbcbank.uz^
 ||tm.telecharge.com^
@@ -931,7 +904,6 @@
 ||tmcontent.meridiancu.ca^
 ||tmcontent.motusbank.ca^
 ||tmcontent.sixt.com^
-||tmfp.klarna.com^
 ||tmi.my529.org^
 ||tmln.caesarscasino.com^
 ||tms.paysafe.com^
@@ -956,7 +928,6 @@
 ||tmx.uptodate.com^
 ||tmx.vinci-autoroutes.com^
 ||tmxapi.globalsources.com^
-||tmximg.draftkings.com^
 ||tmxjs.tokyodisneyresort.jp^
 ||tooling.ynap.biz^
 ||tprofile.goldmansachs.tech^
@@ -1022,4 +993,3 @@
 ||ydkwim.targobank.de^
 ||yr3ioxw.hoaresbank.co.uk^
 ||zacchaeus.logos.com^
-||zfp.intuit.com^

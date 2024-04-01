@@ -276,7 +276,6 @@
     * e050f08a-pc93j6qv.cname.ebis.ne.jp
     * e1e0a549-rq6mpz3n.cname.ebis.ne.jp
     * e2d9b43b-hutbyrck.cname.ebis.ne.jp
-    * e4261920-sca9scbo.cname.ebis.ne.jp
     * e42672f4-rqq2zpub.cname.ebis.ne.jp
     * e50af33d-hd5f4dhg.cname.ebis.ne.jp
     * e566cdfc-dvrv5nhw.cname.ebis.ne.jp
@@ -580,7 +579,6 @@
 | frontierconsul02.tsunagaru-office.com | e050f08a-pc93j6qv.cname.ebis.ne.jp |
 | adebis.ahjikan-shop.com | e1e0a549-rq6mpz3n.cname.ebis.ne.jp |
 | ebis.sbismile.co.jp | e2d9b43b-hutbyrck.cname.ebis.ne.jp |
-| adebisu.fairy-contact.jp | e4261920-sca9scbo.cname.ebis.ne.jp |
 | aesus.so-net.ne.jp | e42672f4-rqq2zpub.cname.ebis.ne.jp |
 | tracking.wao-corp.com | e50af33d-hd5f4dhg.cname.ebis.ne.jp |
 | ad1.tone.ne.jp | e566cdfc-dvrv5nhw.cname.ebis.ne.jp |

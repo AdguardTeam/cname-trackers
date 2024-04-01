@@ -115,7 +115,6 @@
 ||adebiscname.au-sonpo.co.jp^
 ||adebiscname.auone.jp^
 ||adebiscname.sumirin-ht.co.jp^
-||adebisu.fairy-contact.jp^
 ||adebisu.wowow.co.jp^
 ||adex.kintetsu-re.co.jp^
 ||adex.naruko333.jp^

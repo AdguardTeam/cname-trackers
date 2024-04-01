@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711353623781        ; Serial
+           1711958420584        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -126,7 +126,6 @@ adebis8628.matsui.co.jp CNAME .
 adebiscname.au-sonpo.co.jp CNAME .
 adebiscname.auone.jp CNAME .
 adebiscname.sumirin-ht.co.jp CNAME .
-adebisu.fairy-contact.jp CNAME .
 adebisu.wowow.co.jp CNAME .
 adex.kintetsu-re.co.jp CNAME .
 adex.naruko333.jp CNAME .

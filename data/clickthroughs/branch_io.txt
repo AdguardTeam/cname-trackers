@@ -439,7 +439,6 @@
 ||email.email-cusomerio.branch.rocks^
 ||email.everyonesocial.apptio.com^
 ||email.everyonesocial.bostonscientific.com^
-||email.everyonesocial.circle.com^
 ||email.everyonesocial.colt.net^
 ||email.everyonesocial.coupa.com^
 ||email.everyonesocial.dykema.com^
@@ -767,7 +766,6 @@
 ||testing.news.forhims.com^
 ||testing.news.hims.com^
 ||testlink.urban.com.au^
-||trac.roomster.com^
 ||track-mail.homage.co^
 ||track-test.workframe.com^
 ||track.cafu.com^
@@ -818,7 +816,6 @@
 ||url6143.branch.rocks^
 ||url6146.bastien.tantawy.app^
 ||url644.promo.tops.co.th^
-||url6514.affirm.com^
 ||url6633.ana.tantawy.app^
 ||url6933.email.marcon.au^
 ||url7542.fluz.app^
@@ -932,7 +929,6 @@
 ||app-test.barking.ee^
 ||app-test.comparethemarket.com.au^
 ||app-test.evntly.com^
-||app-test.get360fit.com^
 ||app-test.goat.com^
 ||app-test.hermo.my^
 ||app-test.kisikates.com.tr^
@@ -1383,7 +1379,6 @@
 ||applink.mypostcardapp.com^
 ||applink.oskar.de^
 ||applink.picmasters.de^
-||applink.pleizi.com^
 ||applink.pod.io^
 ||applink.podimo.com^
 ||applink.psychonline.com^
@@ -1563,7 +1558,6 @@
 ||branch.dev.att.llabs.io^
 ||branch.devishetty.net^
 ||branch.dragonslayertravel.com^
-||branch.dstreet.finance^
 ||branch.eccocar.com^
 ||branch.employus.com^
 ||branch.familybase.vzw.com^
@@ -1571,7 +1565,6 @@
 ||branch.getcredible.io^
 ||branch.gosunpro.com^
 ||branch.hyr.work^
-||branch.indi.com^
 ||branch.kastapp.link^
 ||branch.kiddom.co^
 ||branch.lacarte.com^
@@ -1588,9 +1581,7 @@
 ||branch.quantic.edu^
 ||branch.rejuvenan.com^
 ||branch.release.winfooz.com^
-||branch.reserveout.com^
 ||branch.rockmyrun.com^
-||branch.servingchefs.com^
 ||branch.seshfitnessapp.com^
 ||branch.shoprunner.com^
 ||branch.shuruapp.com^
@@ -1872,7 +1863,6 @@
 ||dev-share.smartfashion.ai^
 ||dev.branch.parkingpanda.com^
 ||dev.domino.flycl.ps^
-||dev.getcontact.me^
 ||dev.getemoji.me^
 ||dev.gldn.io^
 ||dev.go.levelbank.com^
@@ -1981,7 +1971,6 @@
 ||download.supercoating.com.hk^
 ||download.wearelistening.co.nz^
 ||download.withu.fit^
-||download.yuehlia.com^
 ||download.zikirapp.com^
 ||dp.tuex.ca^
 ||drive.carpoollogistics.com^
@@ -2135,7 +2124,6 @@
 ||get.peoople.app^
 ||get.peoople.co^
 ||get.plural.com^
-||get.pockit.com^
 ||get.prapo.com^
 ||get.printt.com^
 ||get.printtapp.com^
@@ -2546,7 +2534,6 @@
 ||in.app.puma.com^
 ||in.invitd.us^
 ||in.upipr.co^
-||indir.boowetr.com^
 ||influencer.picklebutnotcucumber.com^
 ||inform.fsm.kz^
 ||install.ibeor.com^
@@ -2628,7 +2615,6 @@
 ||join.newtrina.com^
 ||join.our-story.co^
 ||join.parentlove.me^
-||join.pockit.com^
 ||join.qa.fitgrid.com^
 ||join.reakt.to^
 ||join.schmooze.tech^
@@ -2854,11 +2840,9 @@
 ||link.dosh.cash^
 ||link.dralilabolsanelo.com^
 ||link.drum.io^
-||link.dubble.me^
 ||link.dvendor.com^
 ||link.easy.me^
 ||link.edapp.com^
-||link.eksperience.net^
 ||link.electroneum.com^
 ||link.electrover.se^
 ||link.emblyapp.com^
@@ -3274,7 +3258,6 @@
 ||links.kha.com^
 ||links.letzbig.com^
 ||links.max.com^
-||links.mezurashigame.com^
 ||links.mgmresorts.com^
 ||links.motortrend.com^
 ||links.myplace.co^
@@ -3883,7 +3866,6 @@
 ||staging-link.kol.store^
 ||staging-links.thriveglobal.com^
 ||staging-refer.rooam.co^
-||staging-superset.getcontact.me^
 ||staging.findeck.link^
 ||staging.link.findeck.de^
 ||staging.link.snapfeet.io^
@@ -3895,7 +3877,6 @@
 ||start.luscii.com^
 ||start.ramp.com^
 ||status.acutx.org^
-||std.analytics.getcontact.me^
 ||stg-bnc-papago.naver.com^
 ||stg-deeplink.ring.md^
 ||stg.join.airvet.com^
@@ -3907,7 +3888,6 @@
 ||summary.instaread.co^
 ||super.rest.com.au^
 ||super8-link.mysuki.io^
-||superset-production.getcontact.me^
 ||surpreendaapp.hanzo.com.br^
 ||swa.anydma.com^
 ||sxarakia.openapp.link^
@@ -3959,7 +3939,6 @@
 ||test.findplay.it^
 ||test.handy-alarm.com^
 ||test.links.discoveryplus.com^
-||test.open.ggwpacademy.com^
 ||test.openapp.link^
 ||test.partnerapp.kravein.com.au^
 ||test.pooler.io^
@@ -4132,7 +4111,6 @@
 ||email-eloqua.branch.rocks^
 ||email-marketo.branch.rocks^
 ||get.call-levels.com^
-||get.yellw.co^
 ||getapp.keepy.me^
 ||go.boxtiq.com^
 ||hanastage.branch.rocks^
@@ -4148,6 +4126,7 @@
 ||txt.appcity.com.au^
 ||welcome.peek.com^
 ||www.branch.rocks^
+||branch.servingchefs.com^
+||share.stiya.com^
 ||get.flareapp.co^
 ||r.cricbet.co^
-||share.stiya.com^

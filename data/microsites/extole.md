@@ -186,6 +186,7 @@
     * bose.extole.io
     * bountyhunterwine.extole.io
     * brava.extole.io
+    * brightspeed.extole.io
     * brunette-the-label.extole.io
     * bulova.extole.io
     * bumble-and-bumble-uk.extole.io
@@ -221,6 +222,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -554,6 +556,7 @@
     * vonagebusiness.extole.io
     * vonagebusinessuk.extole.io
     * wagwalking.extole.io
+    * walmartmoneycard.em.extole.io
     * walmartmoneycard.extole.io
     * wearesouthwind.extole.io
     * wecohospitality.extole.io
@@ -675,6 +678,7 @@
 | refer.bostonglobe.com | bostonglobe-ssl.extole.com |
 | share.bountyhunterwine.com | bountyhunterwine.extole.io |
 | share.brava.com | brava.extole.io |
+| refer.brightspeed.com | brightspeed.extole.io |
 | share.brunettethelabel.com | brunette-the-label.extole.io |
 | refer.bulova.com | bulova.extole.io |
 | share.refer-bumbleandbumble.co.uk | bumble-and-bumble-uk.extole.io |
@@ -720,6 +724,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -975,6 +980,7 @@
 | refer.lull.com | lull.extole.io |
 | refer.lumenoptical.com | lumen-optical.extole.io |
 | businessreferrals.lumen.com | lumen.extole.io |
+| refer.quantumfiber.com | lumen.extole.io |
 | referrals.lumen.com | lumen.extole.io |
 | refer.lymphedemaproducts.com | lymphedemaproducts.extole.com |
 | share.maccosmetics.com.au | mac-cosmetics.extole.io |
@@ -1252,6 +1258,7 @@
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
 | refer.vonage.co.uk | vonageuk.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
+| em9523.walmartmoneycard.com | walmartmoneycard.em.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |
 | refer.themvpkc.com | wearesouthwind.extole.io |

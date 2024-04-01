@@ -135,7 +135,6 @@
 ||affiliate.elisdesign.cz^
 ||affiliate.ellex.cz^
 ||affiliate.epohledavky.cz^
-||affiliate.eros.sk^
 ||affiliate.escapehouse.sk^
 ||affiliate.esensino.cz^
 ||affiliate.esensino.sk^
@@ -516,6 +515,7 @@
 ||partner.finstyle.cz^
 ||partner.firmin.cz^
 ||partner.forexrebel.net^
+||partner.freshlabels.cz^
 ||partner.generatorvodiku.cz^
 ||partner.gingershot.cz^
 ||partner.giulieta.shop^
@@ -883,6 +883,7 @@
 ||spoluprace.nordictelecom.cz^
 ||spoluprace.obchod-setrilek.cz^
 ||spoluprace.potravinyarax.cz^
+||spoluprace.sikland.cz^
 ||spoluprace.terrapotheka.cz^
 ||spoluprace.vcelarstvi-domovina.cz^
 ||vydelavejtesnami.pg.cz^

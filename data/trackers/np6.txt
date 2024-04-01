@@ -1036,7 +1036,6 @@
 ||tr.tr.bricodepot.com^
 ||tr.trafficnews.lyria.com^
 ||tr.ujsv.espmp-agfr.net^
-||tr.uk.icicibank.com^
 ||tr.uk.katun.com^
 ||tr.unaoffertaalgiorno.com^
 ||tr.update.groupon.be^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711353623781        ; Serial
+           1711958420584        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,7 +38,6 @@ cio.mailtrack.dlvr.it CNAME .
 cio.mettzer.com CNAME .
 cio.mettzermail.com CNAME .
 cio.news.oncehub.com CNAME .
-cio.oncehub.com CNAME .
 cio.pave.com CNAME .
 cio.paved.com CNAME .
 cio.powerlinx.com CNAME .
@@ -176,7 +175,6 @@ email.adamsmatkasse.no CNAME .
 email.adressa.no CNAME .
 email.adresseavisen.no CNAME .
 email.advancemortgagebrokers.com.au CNAME .
-email.afalending.com.au CNAME .
 email.affilimate.com CNAME .
 email.afhouse.com.au CNAME .
 email.aflore.co CNAME .
@@ -411,7 +409,6 @@ email.devemail.ringcentral.com CNAME .
 email.diagnosus.com CNAME .
 email.digitalspace.net CNAME .
 email.dihola.com CNAME .
-email.directfinancial.com.au CNAME .
 email.disco-mailer.net CNAME .
 email.dmart.com.ua CNAME .
 email.dobt.co CNAME .
@@ -450,7 +447,6 @@ email.empara.fr CNAME .
 email.empirecorp.com.au CNAME .
 email.enroll-me.co CNAME .
 email.eobs.biz CNAME .
-email.epic.ai CNAME .
 email.erkhet.biz CNAME .
 email.erural.net CNAME .
 email.ethoslife.com CNAME .
@@ -608,7 +604,6 @@ email.hygglo.se CNAME .
 email.ibenjamen.com CNAME .
 email.iconsavingsplan.com CNAME .
 email.idealfinancial.com.au CNAME .
-email.idfy.net CNAME .
 email.ifghomeloans.com.au CNAME .
 email.ignite.pg.com CNAME .
 email.imaestri.com CNAME .
@@ -635,7 +630,6 @@ email.iwonder.com CNAME .
 email.iziwork.com CNAME .
 email.izzi.gg CNAME .
 email.jackpix.bet CNAME .
-email.jackpoty.com CNAME .
 email.japanrabbit.com CNAME .
 email.jaramba.se CNAME .
 email.jetmailer.net CNAME .
@@ -1125,7 +1119,6 @@ email.tidy.com CNAME .
 email.tillersystems.com CNAME .
 email.tireabc.com CNAME .
 email.tngrealty.com CNAME .
-email.toconvey.co.nz CNAME .
 email.todoscomemos.com CNAME .
 email.tokeet.com CNAME .
 email.tome.page CNAME .

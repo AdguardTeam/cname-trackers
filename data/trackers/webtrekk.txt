@@ -12,7 +12,6 @@
 ||ot.obi.com^
 ||pix.eads.com^
 ||pix.telekom-dienste.de^
-||pix.telekom.de^
 ||pixel.augsburger-allgemeine.de^
 ||prophet.heise.de^
 ||service.hcob-bank.de^
@@ -162,15 +161,12 @@
 ||mapp.yesstyle.com^
 ||mff.messefrankfurt.com^
 ||mit.bhw.de^
-||mit.db.com^
 ||mit.deutsche-bank.de^
-||mit.deutschebank.be^
 ||mit.deutschewealth.com^
 ||mit.dslbank.de^
 ||mit.dws.com^
 ||mit.dws.de^
 ||mit.postbank.de^
-||mit.researchlog.db.com^
 ||mit.researchlog.dbresearch.com^
 ||mit.researchlog.dbresearch.de^
 ||nov.data.srf.ch^
@@ -189,7 +185,6 @@
 ||ot.obi.si^
 ||ot.obi.sk^
 ||pix.airbusgroup.com^
-||pix.telekom.com^
 ||proditor.sparda.de^
 ||prophet.heise-academy.de^
 ||s5.data.srf.ch^

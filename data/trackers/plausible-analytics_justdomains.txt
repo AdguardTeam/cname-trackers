@@ -80,8 +80,6 @@ cdn.arcstudiopro.com
 channelwatcher.panda.tech
 cheese.guac.live
 churro.noteapps.info
-connect.adkhifi.com
-connect.astrobotanicals.com
 count.gothaer-digital.de
 counter.cropvid.com
 counter.proxycrawl.com
@@ -346,8 +344,6 @@ statistic.jac-systeme.de
 statistics.heatbeat.de
 statistik.apartments-tirolerhaus.at
 statman.sesong.info
-stats-aah.gigride.live
-stats-whatever.gigride.live
 stats.69grad.de
 stats.acadevor.com
 stats.achtsame-yonimassage.de
@@ -536,7 +532,6 @@ stats.getdoks.org
 stats.gethyas.com
 stats.getpickaxe.com
 stats.ghinda.com
-stats.gigride.live
 stats.glassmountains.co.uk
 stats.glyphs.fyi
 stats.gnalt.de
@@ -650,7 +645,6 @@ stats.luieremmer.net
 stats.lussoveloce.com
 stats.lyricall.cz
 stats.macosicons.com
-stats.madeit.io
 stats.madethis.gallery
 stats.maferland.com
 stats.magarantie5ans.fr
@@ -762,7 +756,6 @@ stats.radicaldata.org
 stats.radicalweb.design
 stats.rasulkireev.com
 stats.reactician.com
-stats.reactshowcase.com
 stats.readers.cafe
 stats.readng.co
 stats.redlabelsports.com
@@ -833,7 +826,6 @@ stats.suominaikidoacademy.com
 stats.sushibyte.io
 stats.svemir.co
 stats.symbiofest.cz
-stats.table.party
 stats.tarasyarema.com
 stats.tax-venture.de
 stats.teamdetails.com

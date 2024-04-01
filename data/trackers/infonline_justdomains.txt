@@ -457,6 +457,7 @@ data-39f71aefaf.prisma.de
 data-3aa56b5882.die-deutsche-wirtschaft.de
 data-3adb48f023.apps.iocnt.de
 data-3aee2d871a.hgtv.com
+data-3b127a6eb1.mena-watch.com
 data-3b1647c072.entdeckertag.de
 data-3b1647c072.hannover.de
 data-3b1647c072.landheime.de
@@ -1739,6 +1740,7 @@ data-c854f15f64.eltern.de
 data-c854f15f64.schwangerschaft.de
 data-c854f15f64.urbia.de
 data-c854f15f64.vorname.com
+data-c94cf2beab.physiotherapeuten.de
 data-c958fdb0ad.sk-one.de
 data-c9739b4017.lecker.de
 data-c9f0280444.apps.iocnt.de
@@ -1982,6 +1984,7 @@ data-ee807be806.jobmarkt-nrw.de
 data-ee807be806.lokalkompass.de
 data-ee807be806.nrz.de
 data-ee807be806.radioduisburg.de
+data-ee807be806.radioemscherlippe.de
 data-ee807be806.radioherne.de
 data-ee807be806.radiokw.de
 data-ee807be806.radiooberhausen.de
@@ -1991,6 +1994,7 @@ data-ee807be806.waz.de
 data-ee807be806.wp.de
 data-ee807be806.wr.de
 data-ef2b66d556.miss.at
+data-ef2df4302f.baumagazin-online.de
 data-ef805f6034.apps.iocnt.de
 data-ef8760a9b2.fraenkische-rezepte.de
 data-ef8760a9b2.infranken.de
@@ -2252,7 +2256,6 @@ data-fdf4690b14.wp.de
 data-fdf4690b14.wr.de
 data-fe32da0431.news.at
 data-fe34715c33.zi-online.info
-data-fe452b2ed9.ok-magazin.de
 data-fe51ff732b.e-media.at
 data-fe7ee41789.apps.iocnt.de
 data-fe87994a5d.freenet-group.de
