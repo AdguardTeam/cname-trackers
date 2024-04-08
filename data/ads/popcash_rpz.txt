@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -509,7 +509,6 @@ gecko.withclarify.com CNAME .
 gerbil.buf.build CNAME .
 gerbil.clapsaddleart.com CNAME .
 gerbil.downtown-mafia.com CNAME .
-gerbil.lost.design CNAME .
 gerbil.recipe-ipsum.com CNAME .
 giraffe.talktalent.com CNAME .
 giraffe.viatorci.com CNAME .
@@ -622,7 +621,6 @@ kite.ibirthdayclub.com CNAME .
 kite.kochie.io CNAME .
 kite.launchcdn.com CNAME .
 kite.oakes.software CNAME .
-kite.ofenbau-voppichler.at CNAME .
 kiwi.coreyodonnell.tech CNAME .
 kiwi.emilkowal.ski CNAME .
 kiwi.railway.app CNAME .
@@ -1017,7 +1015,6 @@ toad.ettiennevorster.co.za CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.the-faithful.com CNAME .
 treefrog.kaffeknappen.no CNAME .
-treefrog.socialmarketinggateway.co.uk CNAME .
 treefrog.tschmeisser.com CNAME .
 trout.batzo.net CNAME .
 trout.openfpl.com CNAME .
@@ -1062,7 +1059,6 @@ walrus.oscaroarevalo.com CNAME .
 warbler.resumebuilder.dev CNAME .
 wasp.dyrynda.dev CNAME .
 wasp.mattjennings.io CNAME .
-waterboa.midu.dev CNAME .
 waterboa.nighttrain.co CNAME .
 whale.gdebrauwer.dev CNAME .
 whippet.ianglover.com CNAME .
@@ -1151,7 +1147,6 @@ sp.freshlooklens.pk CNAME .
 sp.lenspk.com CNAME .
 sp.theladyshop.pk CNAME .
 static.netfly.fun CNAME .
-static.nfly.cc CNAME .
 static.xlyyzx.sbs CNAME .
 thirty-good.lugg.com CNAME .
 video.adsninja.ca CNAME .

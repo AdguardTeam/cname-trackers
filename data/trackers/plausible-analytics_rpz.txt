@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,7 +14,6 @@ $TTL 300
 a-api.skz.dev CNAME .
 a.aawp.de CNAME .
 a.easyazon.com CNAME .
-a.getaawp.com CNAME .
 a.iiro.dev CNAME .
 a.linkz.ai CNAME .
 a.remy.world CNAME .
@@ -822,7 +821,6 @@ stats.sparkloop.app CNAME .
 stats.spreadtheworld.net CNAME .
 stats.sprune.com CNAME .
 stats.sqlteam.com CNAME .
-stats.squaddy.se CNAME .
 stats.stack11.io CNAME .
 stats.stackingthebricks.com CNAME .
 stats.stacks.org CNAME .

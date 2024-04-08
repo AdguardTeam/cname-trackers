@@ -136,6 +136,7 @@
 ||consent.irvinecompany.com^
 ||consent.irvinecompany.com.cdn.cloudflare.net^
 ||cookiebanner.heineken.com^
+||cookieconsent.kornferry.com^
 ||cookies.jll-mena.com^
 ||cookies.jll.ca^
 ||cookies.jll.ch^

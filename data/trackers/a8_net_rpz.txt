@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -231,7 +231,6 @@ a8.next-hikari.jp CNAME .
 a8.nezumi-guard.com CNAME .
 a8.nezumi-kanzentaiji.com CNAME .
 a8.nitta-biolab.co.jp CNAME .
-a8.nitta-gelatin.jp CNAME .
 a8.nosh.jp CNAME .
 a8.novicetokyo.com CNAME .
 a8.o-tayori.com CNAME .
@@ -248,7 +247,6 @@ a8.outline-gym.com CNAME .
 a8.papapa.baby CNAME .
 a8.parcys.com CNAME .
 a8.pcnext.shop CNAME .
-a8.pcrjapan.clinicnearme.jp CNAME .
 a8.pcwrap.com CNAME .
 a8.pearlizumi.co.jp CNAME .
 a8.petfood.mtflat.co.jp CNAME .
@@ -929,6 +927,7 @@ a8cv.global-link-seminar.com CNAME .
 a8cv.glocalnet.jp CNAME .
 a8cv.glow-clinic.com CNAME .
 a8cv.goodlucknail.com CNAME .
+a8cv.goods-station.jp CNAME .
 a8cv.goqoo.me CNAME .
 a8cv.grace-grace.info CNAME .
 a8cv.grassbeaute.jp CNAME .
@@ -1235,6 +1234,7 @@ a8cv.veggie-toreru.jp CNAME .
 a8cv.vieon.co.jp CNAME .
 a8cv.w2solution.co.jp CNAME .
 a8cv.wakan.shop CNAME .
+a8cv.wake.fun CNAME .
 a8cv.waterenergy.co.jp CNAME .
 a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
@@ -1320,7 +1320,6 @@ a8tatoo.ike-sunshine.co.jp CNAME .
 a8track.aidmybank.com CNAME .
 a8track.bizdigi.jp CNAME .
 a8track.speakbuddy-personalcoaching.com CNAME .
-a8track.ulp.co.jp CNAME .
 a8track.www.pontely.com CNAME .
 a8trck.aisatsujo.com CNAME .
 a8trck.aisatsujo.jp CNAME .

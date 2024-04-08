@@ -123,6 +123,7 @@
 ||0014.reminews.com^
 ||0014.shockynews.com^
 ||0015.bestoffers-wt.com^
+||0015.cosmicnewspulse.com^
 ||0015.groovinews.com^
 ||0015.lookinews.com^
 ||0015.reminews.com^
@@ -505,6 +506,7 @@
 ||0061.lookinews.com^
 ||0061.reminews.com^
 ||0061.shockynews.com^
+||0061.tegronews.com^
 ||0062.deeginews.com^
 ||0062.gofenews.com^
 ||0062.groovinews.com^
@@ -620,6 +622,7 @@
 ||0076.lookinews.com^
 ||0076.luronews.com^
 ||0076.reminews.com^
+||0076.shockynews.com^
 ||0077.4puuqeh41.com^
 ||0077.luronews.com^
 ||0077.rookinews.com^
@@ -732,6 +735,7 @@
 ||0096.reminews.com^
 ||0097.gofenews.com^
 ||0097.lookinews.com^
+||0098.bestandgreatests.com^
 ||0098.freshalldaynews.com^
 ||0098.j74y03g8u.com^
 ||0098.karponews.com^
@@ -803,10 +807,12 @@
 ||0114.jemonews.com^
 ||0115.guesswhatnews.com^
 ||0115.km14hkusz.com^
+||0115.reminews.com^
 ||0116.gofenews.com^
 ||0116.guesswhatnews.com^
 ||0116.lookinews.com^
 ||0116.lootynews.com^
+||0116.reminews.com^
 ||0116.sosqboh85.com^
 ||0117.4puuqeh41.com^
 ||0117.gofenews.com^
@@ -875,6 +881,7 @@
 ||0141.5clo0xmbf.com^
 ||0141.bealanews.com^
 ||0141.km14hkusz.com^
+||0141.l5eamr17d.com^
 ||0141.lookinews.com^
 ||0142.bestandgreatests.com^
 ||0142.freshalldaynews.com^
@@ -912,6 +919,7 @@
 ||0152.gofenews.com^
 ||0152.j74y03g8u.com^
 ||0152.jemonews.com^
+||0152.luronews.com^
 ||0153.guesswhatnews.com^
 ||0154.lootynews.com^
 ||0155.freshalldaynews.com^
@@ -920,6 +928,7 @@
 ||0156.bestandgreatests.com^
 ||0156.lookinews.com^
 ||0157.bestandgreatests.com^
+||0157.l5eamr17d.com^
 ||0157.luronews.com^
 ||0158.freshalldaynews.com^
 ||0158.k3718qw08.com^
@@ -972,6 +981,7 @@
 ||0174.freshalldaynews.com^
 ||0174.groovinews.com^
 ||0176.5clo0xmbf.com^
+||0176.cosmicnewspulse.com^
 ||0176.freshalldaynews.com^
 ||0176.lookinews.com^
 ||0176.ruranews.com^
@@ -980,7 +990,9 @@
 ||0178.bealanews.com^
 ||0178.luronews.com^
 ||0179.bestandgreatests.com^
+||0179.groovinews.com^
 ||0179.jumronews.com^
+||0179.k3718qw08.com^
 ||0180.bestoffers-fe.com^
 ||0180.jemonews.com^
 ||0180.karponews.com^
@@ -991,6 +1003,7 @@
 ||0182.lootynews.com^
 ||0182.reminews.com^
 ||0182.sifenews.com^
+||0182.tegronews.com^
 ||0183.km14hkusz.com^
 ||0184.lookinews.com^
 ||0185.j74y03g8u.com^
@@ -1000,6 +1013,7 @@
 ||0187.luronews.com^
 ||0187.sosqboh85.com^
 ||0188.bestandgreatests.com^
+||0188.luronews.com^
 ||0190.lookinews.com^
 ||0190.tegronews.com^
 ||0191.km14hkusz.com^
@@ -1089,22 +1103,26 @@
 ||0226.jemonews.com^
 ||0226.km14hkusz.com^
 ||0226.reminews.com^
+||0227.5clo0xmbf.com^
 ||0227.jemonews.com^
 ||0227.ksrtmgoym.com^
 ||0228.gofenews.com^
 ||0228.ogrt80r65.com^
 ||0229.km14hkusz.com^
 ||0229.lookinews.com^
+||0230.groovinews.com^
 ||0230.lookinews.com^
 ||0231.j74y03g8u.com^
 ||0232.km14hkusz.com^
 ||0232.lookinews.com^
+||0232.reminews.com^
 ||0233.bestandgreatests.com^
 ||0233.lookinews.com^
 ||0234.freshalldaynews.com^
 ||0234.lookinews.com^
 ||0235.freshalldaynews.com^
 ||0235.gofenews.com^
+||0235.jemonews.com^
 ||0235.karponews.com^
 ||0235.lookinews.com^
 ||0235.shockynews.com^
@@ -1148,6 +1166,7 @@
 ||0246.bestoffers-wt.com^
 ||0246.loopanews.com^
 ||0247.deeginews.com^
+||0249.bealanews.com^
 ||0250.gofenews.com^
 ||0250.j74y03g8u.com^
 ||0251.reminews.com^
@@ -1176,6 +1195,7 @@
 ||0265.jemonews.com^
 ||0265.lookinews.com^
 ||0266.bestandgreatests.com^
+||0266.jemonews.com^
 ||0266.lookinews.com^
 ||0267.bestandgreatests.com^
 ||0267.reminews.com^
@@ -1185,6 +1205,7 @@
 ||0269.gofenews.com^
 ||0269.selornews.com^
 ||0270.guesswhatnews.com^
+||0270.jemonews.com^
 ||0270.km14hkusz.com^
 ||0270.reminews.com^
 ||0270.tegronews.com^
@@ -1263,6 +1284,7 @@
 ||0295.freshalldaynews.com^
 ||0295.gofenews.com^
 ||0295.ksrtmgoym.com^
+||0295.luronews.com^
 ||0296.bealanews.com^
 ||0296.lookinews.com^
 ||0296.reminews.com^
@@ -1365,6 +1387,7 @@
 ||0324.luronews.com^
 ||0327.reminews.com^
 ||0328.freshalldaynews.com^
+||0328.km14hkusz.com^
 ||0328.ksrtmgoym.com^
 ||0329.freshalldaynews.com^
 ||0329.gofenews.com^
@@ -1385,6 +1408,7 @@
 ||0335.jumronews.com^
 ||0336.freshalldaynews.com^
 ||0336.reminews.com^
+||0336.shockynews.com^
 ||0337.karponews.com^
 ||0338.bestoffers-fe.com^
 ||0338.gofenews.com^
@@ -1409,6 +1433,7 @@
 ||0341.bestandgreatests.com^
 ||0341.freshalldaynews.com^
 ||0341.gofenews.com^
+||0341.jemonews.com^
 ||0341.km14hkusz.com^
 ||0341.lookinews.com^
 ||0342.bealanews.com^
@@ -1420,6 +1445,7 @@
 ||0343.deeginews.com^
 ||0343.freshalldaynews.com^
 ||0343.jemonews.com^
+||0343.karponews.com^
 ||0343.luronews.com^
 ||0343.reminews.com^
 ||0344.bealanews.com^
@@ -1462,6 +1488,7 @@
 ||0352.gofenews.com^
 ||0352.guesswhatnews.com^
 ||0353.bestandgreatests.com^
+||0353.deeginews.com^
 ||0353.freshalldaynews.com^
 ||0353.gofenews.com^
 ||0353.lootynews.com^
@@ -1487,6 +1514,7 @@
 ||0358.jemonews.com^
 ||0358.lookinews.com^
 ||0358.reminews.com^
+||0358.shockynews.com^
 ||0359.deeginews.com^
 ||0359.freshalldaynews.com^
 ||0359.km14hkusz.com^
@@ -1535,6 +1563,7 @@
 ||0369.reminews.com^
 ||0370.karponews.com^
 ||0370.lookinews.com^
+||0370.luronews.com^
 ||0372.bestandgreatests.com^
 ||0372.freshalldaynews.com^
 ||0372.km14hkusz.com^
@@ -1598,6 +1627,7 @@
 ||0390.lookinews.com^
 ||0390.reminews.com^
 ||0391.lookinews.com^
+||0391.luronews.com^
 ||0392.deeginews.com^
 ||0392.lookinews.com^
 ||0392.reminews.com^
@@ -1651,7 +1681,9 @@
 ||0407.freshalldaynews.com^
 ||0407.j74y03g8u.com^
 ||0407.km14hkusz.com^
+||0407.shockynews.com^
 ||0407.uho5m96ej.com^
+||0408.deeginews.com^
 ||0408.freshalldaynews.com^
 ||0408.km14hkusz.com^
 ||0408.lookinews.com^
@@ -1711,6 +1743,7 @@
 ||0422.sifenews.com^
 ||0423.freshalldaynews.com^
 ||0423.gofenews.com^
+||0423.jumronews.com^
 ||0423.lookinews.com^
 ||0424.bestandgreatests.com^
 ||0424.freshalldaynews.com^
@@ -1757,9 +1790,11 @@
 ||0433.groovinews.com^
 ||0433.km14hkusz.com^
 ||0433.lootynews.com^
+||0433.reminews.com^
 ||0433.rookinews.com^
 ||0434.freshalldaynews.com^
 ||0434.j74y03g8u.com^
+||0434.jemonews.com^
 ||0435.bestandgreatests.com^
 ||0435.jemonews.com^
 ||0435.lookinews.com^
@@ -1774,6 +1809,7 @@
 ||0438.lookinews.com^
 ||0438.reminews.com^
 ||0439.5clo0xmbf.com^
+||0440.79j68qav2.com^
 ||0440.freshalldaynews.com^
 ||0440.karponews.com^
 ||0440.tegronews.com^
@@ -1783,6 +1819,7 @@
 ||0441.lookinews.com^
 ||0442.freshalldaynews.com^
 ||0442.guesswhatnews.com^
+||0442.jemonews.com^
 ||0442.lookinews.com^
 ||0442.luronews.com^
 ||0443.lookinews.com^
@@ -1828,6 +1865,7 @@
 ||0453.freshalldaynews.com^
 ||0453.jemonews.com^
 ||0453.lookinews.com^
+||0454.cosmicnewspulse.com^
 ||0454.gofenews.com^
 ||0454.jemonews.com^
 ||0454.km14hkusz.com^
@@ -1866,6 +1904,7 @@
 ||0466.bestandgreatests.com^
 ||0466.deeginews.com^
 ||0466.freshalldaynews.com^
+||0467.5clo0xmbf.com^
 ||0467.bestandgreatests.com^
 ||0467.bestoffers-fe.com^
 ||0467.gofenews.com^
@@ -1887,6 +1926,7 @@
 ||0471.bestandgreatests.com^
 ||0471.km14hkusz.com^
 ||0471.ksrtmgoym.com^
+||0471.luronews.com^
 ||0471.reminews.com^
 ||0472.bestandgreatests.com^
 ||0472.freshalldaynews.com^
@@ -1924,6 +1964,7 @@
 ||0481.freshalldaynews.com^
 ||0481.km14hkusz.com^
 ||0481.luronews.com^
+||0482.4puuqeh41.com^
 ||0482.freshalldaynews.com^
 ||0482.rookinews.com^
 ||0483.bealanews.com^
@@ -2041,6 +2082,7 @@
 ||0517.jemonews.com^
 ||0517.lookinews.com^
 ||0517.reminews.com^
+||0517.tegronews.com^
 ||0518.bestoffers-wt.com^
 ||0518.freshalldaynews.com^
 ||0518.km14hkusz.com^
@@ -2083,6 +2125,7 @@
 ||0531.gofenews.com^
 ||0531.km14hkusz.com^
 ||0531.lookinews.com^
+||0533.bealanews.com^
 ||0533.gofenews.com^
 ||0533.jemonews.com^
 ||0533.lookinews.com^
@@ -2178,6 +2221,7 @@
 ||0555.km14hkusz.com^
 ||0555.lookinews.com^
 ||0555.reminews.com^
+||0555.shockynews.com^
 ||0556.deeginews.com^
 ||0556.jemonews.com^
 ||0557.freshalldaynews.com^
@@ -2221,6 +2265,7 @@
 ||0569.reminews.com^
 ||0570.km14hkusz.com^
 ||0570.reminews.com^
+||0571.4puuqeh41.com^
 ||0571.bealanews.com^
 ||0571.freshalldaynews.com^
 ||0571.j74y03g8u.com^
@@ -2264,6 +2309,7 @@
 ||0584.reminews.com^
 ||0585.freshalldaynews.com^
 ||0585.karponews.com^
+||0585.ksrtmgoym.com^
 ||0585.reminews.com^
 ||0586.freshalldaynews.com^
 ||0586.karponews.com^
@@ -2277,6 +2323,7 @@
 ||0588.karponews.com^
 ||0588.km14hkusz.com^
 ||0588.tegronews.com^
+||0589.guesswhatnews.com^
 ||0589.lookinews.com^
 ||0589.reminews.com^
 ||0590.jemonews.com^
@@ -2308,6 +2355,7 @@
 ||0596.gofenews.com^
 ||0596.luronews.com^
 ||0596.reminews.com^
+||0596.rookinews.com^
 ||0597.bestandgreatests.com^
 ||0597.ksrtmgoym.com^
 ||0597.reminews.com^
@@ -2396,6 +2444,7 @@
 ||0620.bestandgreatests.com^
 ||0620.guesswhatnews.com^
 ||0620.lookinews.com^
+||0620.reminews.com^
 ||0620.tegronews.com^
 ||0621.freshalldaynews.com^
 ||0621.jemonews.com^
@@ -2432,6 +2481,7 @@
 ||0630.jemonews.com^
 ||0630.jumronews.com^
 ||0630.k3718qw08.com^
+||0631.deeginews.com^
 ||0631.freshalldaynews.com^
 ||0631.luronews.com^
 ||0632.freshalldaynews.com^
@@ -2474,6 +2524,7 @@
 ||0646.lookinews.com^
 ||0646.luronews.com^
 ||0647.freshalldaynews.com^
+||0647.jemonews.com^
 ||0647.lookinews.com^
 ||0648.bestandgreatests.com^
 ||0648.luronews.com^
@@ -2489,12 +2540,14 @@
 ||0652.km14hkusz.com^
 ||0652.ksrtmgoym.com^
 ||0652.lookinews.com^
+||0653.jemonews.com^
 ||0653.km14hkusz.com^
 ||0653.rookinews.com^
 ||0654.bealanews.com^
 ||0654.freshalldaynews.com^
 ||0654.km14hkusz.com^
 ||0654.reminews.com^
+||0655.34gwl8v1a.com^
 ||0655.karponews.com^
 ||0655.lookinews.com^
 ||0655.reminews.com^
@@ -2536,8 +2589,10 @@
 ||0670.jemonews.com^
 ||0671.freshalldaynews.com^
 ||0671.p6qf8cqa0.com^
+||0671.reminews.com^
 ||0672.freshalldaynews.com^
 ||0672.lookinews.com^
+||0673.5clo0xmbf.com^
 ||0673.bestoffers-wt.com^
 ||0673.freshalldaynews.com^
 ||0673.gofenews.com^
@@ -2622,6 +2677,7 @@
 ||0698.leranews.com^
 ||0698.tegronews.com^
 ||0699.luronews.com^
+||0701.reminews.com^
 ||0703.freshalldaynews.com^
 ||0703.reminews.com^
 ||0704.gofenews.com^
@@ -2709,6 +2765,7 @@
 ||0731.km14hkusz.com^
 ||0732.4puuqeh41.com^
 ||0732.freshalldaynews.com^
+||0732.gofenews.com^
 ||0732.luronews.com^
 ||0733.bestoffers-wt.com^
 ||0733.lookinews.com^
@@ -2717,6 +2774,7 @@
 ||0734.gofenews.com^
 ||0734.lookinews.com^
 ||0734.reminews.com^
+||0735.jemonews.com^
 ||0735.lookinews.com^
 ||0735.reminews.com^
 ||0736.freshalldaynews.com^
@@ -2957,6 +3015,7 @@
 ||0807.freshalldaynews.com^
 ||0807.j74y03g8u.com^
 ||0807.luronews.com^
+||0808.freshalldaynews.com^
 ||0808.karponews.com^
 ||0808.km14hkusz.com^
 ||0808.lookinews.com^
@@ -2986,6 +3045,7 @@
 ||0814.groovinews.com^
 ||0814.jumronews.com^
 ||0814.luronews.com^
+||0814.tegronews.com^
 ||0815.freshalldaynews.com^
 ||0815.jemonews.com^
 ||0815.km14hkusz.com^
@@ -3033,6 +3093,7 @@
 ||0826.ksrtmgoym.com^
 ||0826.lookinews.com^
 ||0826.luronews.com^
+||0827.34gwl8v1a.com^
 ||0827.freshalldaynews.com^
 ||0827.lookinews.com^
 ||0827.reminews.com^
@@ -3228,6 +3289,7 @@
 ||0880.freshalldaynews.com^
 ||0880.lookinews.com^
 ||0880.tegronews.com^
+||0881.reminews.com^
 ||0882.4puuqeh41.com^
 ||0882.gofenews.com^
 ||0882.huronews.com^
@@ -3251,6 +3313,7 @@
 ||0889.freshalldaynews.com^
 ||0890.bestandgreatests.com^
 ||0890.guesswhatnews.com^
+||0891.reminews.com^
 ||0892.jemonews.com^
 ||0893.gofenews.com^
 ||0894.bestoffers-wt.com^
@@ -3270,12 +3333,14 @@
 ||0902.lookinews.com^
 ||0904.lootynews.com^
 ||0906.sifenews.com^
+||0907.reminews.com^
 ||0908.ksrtmgoym.com^
 ||0909.j74y03g8u.com^
 ||0909.reminews.com^
 ||0910.bestandgreatests.com^
 ||0912.tegronews.com^
 ||0913.bestandgreatests.com^
+||0914.5clo0xmbf.com^
 ||0916.km14hkusz.com^
 ||0921.deeginews.com^
 ||0921.luronews.com^
@@ -3286,6 +3351,7 @@
 ||0924.reminews.com^
 ||0929.j74y03g8u.com^
 ||0929.tegronews.com^
+||0932.luronews.com^
 ||0937.4puuqeh41.com^
 ||0938.reminews.com^
 ||0940.lookinews.com^
@@ -3418,6 +3484,7 @@
 ||1.guesswhatnews.com^
 ||1.huronews.com^
 ||1.j74y03g8u.com^
+||1.jemonews.com^
 ||1.jessunews.com^
 ||1.jumronews.com^
 ||1.k45z7tagm.com^
@@ -3455,6 +3522,7 @@
 ||100.lycheenews.com^
 ||1000.karponews.com^
 ||1001.4puuqeh41.com^
+||1001.bealanews.com^
 ||1001.bestoffers-fe.com^
 ||1001.gofenews.com^
 ||1001.ksrtmgoym.com^
@@ -3514,6 +3582,7 @@
 ||1025.luronews.com^
 ||1026.bestoffers-fe.com^
 ||1026.gofenews.com^
+||1026.reminews.com^
 ||1027.jessunews.com^
 ||1027.reminews.com^
 ||1027.ruranews.com^
@@ -3615,6 +3684,7 @@
 ||1065.jemonews.com^
 ||1065.km14hkusz.com^
 ||1065.lookinews.com^
+||1065.newsbeala.com^
 ||1066.jemonews.com^
 ||1066.lookinews.com^
 ||1066.lootynews.com^
@@ -3716,9 +3786,11 @@
 ||1095.karponews.com^
 ||1095.ksrtmgoym.com^
 ||1096.freshalldaynews.com^
+||1096.reminews.com^
 ||1097.lilonews.com^
 ||1097.reminews.com^
 ||1099.bealanews.com^
+||1099.groovinews.com^
 ||1099.jemonews.com^
 ||1099.lookinews.com^
 ||1099.reminews.com^
@@ -3727,12 +3799,15 @@
 ||10br.lycheenews.com^
 ||10vin.lycheenews.com^
 ||11.findgreatnews.com^
+||11.groovinews.com^
 ||11.guesswhatnews.com^
 ||11.jessunews.com^
+||11.jumronews.com^
 ||11.shockynews.com^
 ||11.y2sysv81v.com^
 ||110.deeginews.com^
 ||110.j6t91e89q.com^
+||1100.5clo0xmbf.com^
 ||1100.bestandgreatests.com^
 ||1100.km14hkusz.com^
 ||1101.freshalldaynews.com^
@@ -3746,20 +3821,26 @@
 ||1103.freshalldaynews.com^
 ||1104.km14hkusz.com^
 ||1104.luronews.com^
+||1104.reminews.com^
+||1104.tegronews.com^
+||1105.4puuqeh41.com^
 ||1105.karponews.com^
 ||1107.freshalldaynews.com^
 ||1108.luronews.com^
 ||1109.freshalldaynews.com^
 ||1109.ksrtmgoym.com^
+||111.bestandgreatests.com^
 ||111.freshalldaynews.com^
 ||111.km14hkusz.com^
 ||111.lycheenews.com^
 ||111.ruranews.com^
 ||1111.lilonews.com^
+||1111.luronews.com^
 ||1111.reminews.com^
 ||1111.selornews.com^
 ||1111.sifenews.com^
 ||1112.reminews.com^
+||1112.selornews.com^
 ||1114.ksrtmgoym.com^
 ||1115.bestandgreatests.com^
 ||1115.lookinews.com^
@@ -3779,6 +3860,7 @@
 ||1120.gofenews.com^
 ||1120.karponews.com^
 ||1121.freshalldaynews.com^
+||1122.5clo0xmbf.com^
 ||1123.gofenews.com^
 ||1124.j74y03g8u.com^
 ||1124.km14hkusz.com^
@@ -3849,6 +3931,7 @@
 ||1145.km14hkusz.com^
 ||1145.lootynews.com^
 ||1145.reminews.com^
+||1146.deeginews.com^
 ||1146.lookinews.com^
 ||1147.freshalldaynews.com^
 ||1149.freshalldaynews.com^
@@ -3859,6 +3942,7 @@
 ||1150.km14hkusz.com^
 ||1150.lookinews.com^
 ||1150.luronews.com^
+||1150.reminews.com^
 ||1152.bestandgreatests.com^
 ||1152.km14hkusz.com^
 ||1152.lookinews.com^
@@ -3868,6 +3952,7 @@
 ||1153.bestandgreatests.com^
 ||1153.freshalldaynews.com^
 ||1155.bestandgreatests.com^
+||1155.lootynews.com^
 ||1156.lookinews.com^
 ||1157.freshalldaynews.com^
 ||1157.gofenews.com^
@@ -3895,8 +3980,11 @@
 ||1164.bestandgreatests.com^
 ||1164.km14hkusz.com^
 ||1164.lookinews.com^
+||1165.4puuqeh41.com^
+||1165.5clo0xmbf.com^
 ||1165.bealanews.com^
 ||1165.freshalldaynews.com^
+||1165.jemonews.com^
 ||1165.reminews.com^
 ||1166.lookinews.com^
 ||1167.lookinews.com^
@@ -3911,6 +3999,7 @@
 ||1172.seponews.com^
 ||1173.bestandgreatests.com^
 ||1173.groovinews.com^
+||1173.reminews.com^
 ||1173.sifenews.com^
 ||1174.freshalldaynews.com^
 ||1174.lookinews.com^
@@ -3933,6 +4022,7 @@
 ||1180.j74y03g8u.com^
 ||1180.jemonews.com^
 ||1180.lookinews.com^
+||1181.reminews.com^
 ||1183.bestandgreatests.com^
 ||1183.ksrtmgoym.com^
 ||1183.lookinews.com^
@@ -4013,6 +4103,7 @@
 ||1205.luronews.com^
 ||1205.reminews.com^
 ||1206.gofenews.com^
+||1206.jemonews.com^
 ||1207.km14hkusz.com^
 ||1207.lookinews.com^
 ||1209.bestoffers-wt.com^
@@ -4036,6 +4127,7 @@
 ||1213.j74y03g8u.com^
 ||1213.lycheenews.com^
 ||1213.reminews.com^
+||1214.4puuqeh41.com^
 ||1214.freshalldaynews.com^
 ||1214.lookinews.com^
 ||1214.luronews.com^
@@ -4057,6 +4149,8 @@
 ||122.karponews.com^
 ||1220.leranews.com^
 ||1221.jemonews.com^
+||1222.4puuqeh41.com^
+||1222.groovinews.com^
 ||1222.guesswhatnews.com^
 ||1222.jemonews.com^
 ||1222.km14hkusz.com^
@@ -4068,6 +4162,7 @@
 ||1225.freshalldaynews.com^
 ||1225.lookinews.com^
 ||1225.reminews.com^
+||1226.reminews.com^
 ||1227.j74y03g8u.com^
 ||1227.reminews.com^
 ||1228.bestandgreatests.com^
@@ -4133,6 +4228,7 @@
 ||1244.bestandgreatests.com^
 ||1244.gofenews.com^
 ||1244.jumronews.com^
+||1244.reminews.com^
 ||1245.freshalldaynews.com^
 ||1247.4puuqeh41.com^
 ||1247.bestandgreatests.com^
@@ -4206,6 +4302,7 @@
 ||1264.karponews.com^
 ||1264.lookinews.com^
 ||1264.reminews.com^
+||1265.5clo0xmbf.com^
 ||1265.freshalldaynews.com^
 ||1265.gofenews.com^
 ||1265.ksrtmgoym.com^
@@ -4274,6 +4371,7 @@
 ||1280.guesswhatnews.com^
 ||1280.km14hkusz.com^
 ||1280.lookinews.com^
+||1280.luronews.com^
 ||1280.reminews.com^
 ||1281.j74y03g8u.com^
 ||1281.lootynews.com^
@@ -4420,6 +4518,7 @@
 ||1314.jemonews.com^
 ||1315.jemonews.com^
 ||1315.lookinews.com^
+||1315.reminews.com^
 ||1315.sifenews.com^
 ||1316.freshalldaynews.com^
 ||1317.j74y03g8u.com^
@@ -4508,10 +4607,12 @@
 ||1339.4puuqeh41.com^
 ||1339.bestoffers-fe.com^
 ||1339.jemonews.com^
+||1339.jumronews.com^
 ||1339.tegronews.com^
 ||134.deeginews.com^
 ||134.groovinews.com^
 ||134.guesswhatnews.com^
+||134.loopanews.com^
 ||134.selornews.com^
 ||134.sifenews.com^
 ||134.tegronews.com^
@@ -4587,8 +4688,10 @@
 ||1357.lookinews.com^
 ||1358.freshalldaynews.com^
 ||1359.shockynews.com^
+||136.deeginews.com^
 ||136.guesswhatnews.com^
 ||136.lycheenews.com^
+||136.sifenews.com^
 ||136.tegronews.com^
 ||1360.bestandgreatests.com^
 ||1360.gofenews.com^
@@ -4612,6 +4715,7 @@
 ||1368.833enmhob.com^
 ||1368.jemonews.com^
 ||1368.reminews.com^
+||1369.bestandgreatests.com^
 ||1369.gofenews.com^
 ||1369.lookinews.com^
 ||1369.reminews.com^
@@ -4644,6 +4748,7 @@
 ||1374.bestandgreatests.com^
 ||1374.freshalldaynews.com^
 ||1374.km14hkusz.com^
+||1375.groovinews.com^
 ||1375.lookinews.com^
 ||1375.reminews.com^
 ||1376.freshalldaynews.com^
@@ -4659,6 +4764,7 @@
 ||1379.km14hkusz.com^
 ||1379.lookinews.com^
 ||1379.luronews.com^
+||1379.reminews.com^
 ||138.groovinews.com^
 ||138.guesswhatnews.com^
 ||138.j6t91e89q.com^
@@ -4773,6 +4879,7 @@
 ||1409.bestandgreatests.com^
 ||1409.bestoffers-wt.com^
 ||1409.freshalldaynews.com^
+||1409.jemonews.com^
 ||1409.km14hkusz.com^
 ||1409.reminews.com^
 ||141.j6t91e89q.com^
@@ -4812,6 +4919,7 @@
 ||1424.4puuqeh41.com^
 ||1424.karponews.com^
 ||1424.lookinews.com^
+||1425.jemonews.com^
 ||1425.km14hkusz.com^
 ||1425.loopanews.com^
 ||1426.lookinews.com^
@@ -4841,9 +4949,11 @@
 ||1433.freshalldaynews.com^
 ||1433.lookinews.com^
 ||1433.luronews.com^
+||1434.5clo0xmbf.com^
 ||1434.deeginews.com^
 ||1434.freshalldaynews.com^
 ||1434.karponews.com^
+||1434.reminews.com^
 ||14342.lookinews.com^
 ||1435.bealanews.com^
 ||1435.freshalldaynews.com^
@@ -4870,6 +4980,7 @@
 ||1445.freshalldaynews.com^
 ||1445.lookinews.com^
 ||1446.4puuqeh41.com^
+||1446.j74y03g8u.com^
 ||1447.reminews.com^
 ||1448.freshalldaynews.com^
 ||1448.jemonews.com^
@@ -4888,6 +4999,7 @@
 ||1450.ksrtmgoym.com^
 ||1450.lookinews.com^
 ||1450.luronews.com^
+||1451.cosmicnewspulse.com^
 ||1452.lookinews.com^
 ||1453.freshalldaynews.com^
 ||1453.km14hkusz.com^
@@ -4984,6 +5096,7 @@
 ||1478.jemonews.com^
 ||1478.reminews.com^
 ||1479.lookinews.com^
+||148.tegronews.com^
 ||1480.bestoffers-wt.com^
 ||1480.freshalldaynews.com^
 ||1480.jumronews.com^
@@ -5084,6 +5197,7 @@
 ||1503.reminews.com^
 ||1503.shockynews.com^
 ||1504.bealanews.com^
+||1504.deeginews.com^
 ||1504.freshalldaynews.com^
 ||1504.groovinews.com^
 ||1504.ksrtmgoym.com^
@@ -5123,6 +5237,7 @@
 ||1516.shockynews.com^
 ||1517.gofenews.com^
 ||1517.j74y03g8u.com^
+||1517.jemonews.com^
 ||1517.lookinews.com^
 ||1517.reminews.com^
 ||1518.freshalldaynews.com^
@@ -5143,6 +5258,7 @@
 ||1522.km14hkusz.com^
 ||1522.reminews.com^
 ||1523.gofenews.com^
+||1524.jemonews.com^
 ||1524.ksrtmgoym.com^
 ||1524.lookinews.com^
 ||1524.luronews.com^
@@ -5159,6 +5275,7 @@
 ||1532.gofenews.com^
 ||1532.guesswhatnews.com^
 ||1532.km14hkusz.com^
+||1532.l5eamr17d.com^
 ||1532.reminews.com^
 ||1533.karponews.com^
 ||1533.ksrtmgoym.com^
@@ -5203,6 +5320,7 @@
 ||1547.freshalldaynews.com^
 ||1547.huronews.com^
 ||1547.km14hkusz.com^
+||1547.l5eamr17d.com^
 ||1547.lootynews.com^
 ||1547.reminews.com^
 ||1548.ksrtmgoym.com^
@@ -5246,6 +5364,7 @@
 ||1564.freshalldaynews.com^
 ||1564.reminews.com^
 ||1564645645645645645645.lookinews.com^
+||15648.shockynews.com^
 ||1565.freshalldaynews.com^
 ||1565.jumronews.com^
 ||1565.lookinews.com^
@@ -5270,6 +5389,7 @@
 ||1574.bestoffers-fe.com^
 ||1574.lookinews.com^
 ||1574.reminews.com^
+||1574.shockynews.com^
 ||1574.sifenews.com^
 ||1575.bestandgreatests.com^
 ||1575.freshalldaynews.com^
@@ -5421,6 +5541,7 @@
 ||1628.lookinews.com^
 ||1628.reminews.com^
 ||1629.lookinews.com^
+||1629.reminews.com^
 ||163.tegronews.com^
 ||1630.bealanews.com^
 ||1630.gofenews.com^
@@ -5474,6 +5595,7 @@
 ||1648.5clo0xmbf.com^
 ||1649.guesswhatnews.com^
 ||1649.leranews.com^
+||1649.luronews.com^
 ||1649.reminews.com^
 ||165.tegronews.com^
 ||1650.j74y03g8u.com^
@@ -5496,6 +5618,7 @@
 ||166.groovinews.com^
 ||166.shockynews.com^
 ||1660.freshalldaynews.com^
+||1660.gofenews.com^
 ||1661.freshalldaynews.com^
 ||1661.groovinews.com^
 ||1661.km14hkusz.com^
@@ -5556,11 +5679,13 @@
 ||1674.lookinews.com^
 ||1674.reminews.com^
 ||1675.bestoffers-wt.com^
+||1675.luronews.com^
 ||1676.reminews.com^
 ||1677.bestandgreatests.com^
 ||1677.freshalldaynews.com^
 ||1677.reminews.com^
 ||1678.j74y03g8u.com^
+||1678.jemonews.com^
 ||1678.reminews.com^
 ||1679.bealanews.com^
 ||1679.freshalldaynews.com^
@@ -5625,6 +5750,7 @@
 ||17.lookinews.com^
 ||17.lycheenews.com^
 ||17.newsbeala.com^
+||17.tegronews.com^
 ||17.wemakebestnews.com^
 ||17.y2sysv81v.com^
 ||170.j6t91e89q.com^
@@ -5655,6 +5781,7 @@
 ||1706.lookinews.com^
 ||1706.lootynews.com^
 ||1707.bestandgreatests.com^
+||1707.guesswhatnews.com^
 ||1707.k3718qw08.com^
 ||1707.km14hkusz.com^
 ||1707.ksrtmgoym.com^
@@ -5694,6 +5821,7 @@
 ||1716.uho5m96ej.com^
 ||1717.freshalldaynews.com^
 ||1717.gofenews.com^
+||1717.groovinews.com^
 ||1717.j74y03g8u.com^
 ||1717.reminews.com^
 ||1718.freshalldaynews.com^
@@ -5715,7 +5843,9 @@
 ||1722.freshalldaynews.com^
 ||1722.karponews.com^
 ||1722.lookinews.com^
+||1722w.gofenews.com^
 ||1723.freshalldaynews.com^
+||1723.gofenews.com^
 ||1723.km14hkusz.com^
 ||1723.lookinews.com^
 ||1724.gofenews.com^
@@ -5745,6 +5875,7 @@
 ||1733.gofenews.com^
 ||1733.lookinews.com^
 ||1734.deeginews.com^
+||1734.luronews.com^
 ||1735.freshalldaynews.com^
 ||1735.gofenews.com^
 ||1736.bestoffers-fe.com^
@@ -5756,6 +5887,7 @@
 ||1737.huronews.com^
 ||1737.lookinews.com^
 ||1738.j74y03g8u.com^
+||1738.jemonews.com^
 ||1739.lookinews.com^
 ||174.guesswhatnews.com^
 ||174.tegronews.com^
@@ -5792,6 +5924,7 @@
 ||1749.reminews.com^
 ||175.j6t91e89q.com^
 ||1750.bestandgreatests.com^
+||1750.cosmicnewspulse.com^
 ||1750.j74y03g8u.com^
 ||1750.lookinews.com^
 ||1751.4puuqeh41.com^
@@ -5838,12 +5971,14 @@
 ||176.tegronews.com^
 ||1760.karponews.com^
 ||1760.lookinews.com^
+||1761.bestandgreatests.com^
 ||1761.deeginews.com^
 ||1761.karponews.com^
 ||1761.km14hkusz.com^
 ||1761.lookinews.com^
 ||1761.luronews.com^
 ||1761.reminews.com^
+||1762.deeginews.com^
 ||1762.jumronews.com^
 ||1762.lookinews.com^
 ||1762.reminews.com^
@@ -5958,6 +6093,7 @@
 ||1806.lookinews.com^
 ||1806.luronews.com^
 ||1807.freshalldaynews.com^
+||1807.l5eamr17d.com^
 ||1808.bestoffers-fe.com^
 ||1809.freshalldaynews.com^
 ||1809.j74y03g8u.com^
@@ -6017,6 +6153,7 @@
 ||1828.lookinews.com^
 ||1829.freshalldaynews.com^
 ||1829.lookinews.com^
+||1829.sifenews.com^
 ||183.groovinews.com^
 ||183.j6t91e89q.com^
 ||183.lookinews.com^
@@ -6033,6 +6170,7 @@
 ||1835.lootynews.com^
 ||1835.reminews.com^
 ||1835.ruranews.com^
+||1836.4puuqeh41.com^
 ||1836.gofenews.com^
 ||1836.km14hkusz.com^
 ||1836.lookinews.com^
@@ -6089,18 +6227,25 @@
 ||1859.ruranews.com^
 ||1860.4puuqeh41.com^
 ||1860.freshalldaynews.com^
+||1860.reminews.com^
 ||1861.jemonews.com^
 ||1861.ksrtmgoym.com^
+||1862.cosmicnewspulse.com^
 ||1863.karponews.com^
+||1866.l5eamr17d.com^
 ||1866.rookinews.com^
 ||1868.jemonews.com^
 ||1868.karponews.com^
 ||1868.lookinews.com^
 ||1868.reminews.com^
 ||1869.deeginews.com^
+||1869.reminews.com^
+||1869.tegronews.com^
+||187.groovinews.com^
 ||187.guesswhatnews.com^
 ||187.tegronews.com^
 ||1871.jemonews.com^
+||1872.4puuqeh41.com^
 ||1872.5clo0xmbf.com^
 ||1872.bestoffers-wt.com^
 ||1873.bestoffers-fe.com^
@@ -6248,8 +6393,10 @@
 ||1927.freshalldaynews.com^
 ||1927.jemonews.com^
 ||1927.km14hkusz.com^
+||1927.luronews.com^
 ||1928.reminews.com^
 ||1929.karponews.com^
+||1929.shockynews.com^
 ||193.groovinews.com^
 ||1930.freshalldaynews.com^
 ||1930.lookinews.com^
@@ -6284,6 +6431,7 @@
 ||1941.bestoffers-fe.com^
 ||1941.km14hkusz.com^
 ||1942.reminews.com^
+||1943.4puuqeh41.com^
 ||1943.lookinews.com^
 ||1943.selornews.com^
 ||1944.lookinews.com^
@@ -6292,6 +6440,7 @@
 ||1946.freshalldaynews.com^
 ||1947.bestandgreatests.com^
 ||1947.jemonews.com^
+||1947.reminews.com^
 ||1948.freshalldaynews.com^
 ||1949.bestandgreatests.com^
 ||1949.lookinews.com^
@@ -6313,8 +6462,12 @@
 ||1956.reminews.com^
 ||1957.j74y03g8u.com^
 ||1958.freshalldaynews.com^
+||1958.lycheenews.com^
 ||1959.bestandgreatests.com^
 ||1959.ksrtmgoym.com^
+||1961.jemonews.com^
+||1962.lookinews.com^
+||1963.4puuqeh41.com^
 ||1966.groovinews.com^
 ||1966.reminews.com^
 ||1967.freshalldaynews.com^
@@ -6339,11 +6492,13 @@
 ||1972.reminews.com^
 ||1973.deeginews.com^
 ||1975.lootynews.com^
+||1977.deeginews.com^
 ||1977.guesswhatnews.com^
 ||1978.k3718qw08.com^
 ||1978.ksrtmgoym.com^
 ||198.guesswhatnews.com^
 ||198.lycheenews.com^
+||198.sifenews.com^
 ||198.tegronews.com^
 ||1981.gofenews.com^
 ||1982.karponews.com^
@@ -6359,6 +6514,7 @@
 ||1987.reminews.com^
 ||1988.reminews.com^
 ||199.j6t91e89q.com^
+||1991.5clo0xmbf.com^
 ||1991.ksrtmgoym.com^
 ||1995.freshalldaynews.com^
 ||1996.km14hkusz.com^
@@ -6383,6 +6539,7 @@
 ||1atksts.4puuqeh41.com^
 ||1atkygds.4puuqeh41.com^
 ||1atygds.4puuqeh41.com^
+||1b0111.jessunews.com^
 ||1br.lookinews.com^
 ||1br.lycheenews.com^
 ||1c3r13rc1c143rc34r.lookinews.com^
@@ -6391,15 +6548,20 @@
 ||1eegyffhuikddif.lycheenews.com^
 ||1epioegyffhuikddif.lycheenews.com^
 ||1fgdav.4puuqeh41.com^
+||1fgndv.4puuqeh41.com^
 ||1fthykkyy.lycheenews.com^
 ||1fys.jessunews.com^
 ||1fys.ruranews.com^
 ||1fys0111.jessunews.com^
 ||1gegr.4puuqeh41.com^
 ||1ghp.4puuqeh41.com^
+||1gmfdv.4puuqeh41.com^
+||1gndv.4puuqeh41.com^
+||1gtmfdv.4puuqeh41.com^
 ||1gyffhuikddif.lycheenews.com^
 ||1gyhuikddf.lycheenews.com^
 ||1gyhuikddif.lycheenews.com^
+||1iepioegyffhuikddif.lycheenews.com^
 ||1iqepioegyffhuikddif.lycheenews.com^
 ||1ittqyyepio.lycheenews.com^
 ||1jdrngr.lycheenews.com^
@@ -6473,6 +6635,7 @@
 ||2008.reminews.com^
 ||2009.bestoffers-fe.com^
 ||2009.deeginews.com^
+||201.guesswhatnews.com^
 ||201.j6t91e89q.com^
 ||201.lycheenews.com^
 ||2010.karponews.com^
@@ -6521,6 +6684,7 @@
 ||2025.reminews.com^
 ||2026.ksrtmgoym.com^
 ||2026.sifenews.com^
+||2027.reminews.com^
 ||2028.4puuqeh41.com^
 ||2028.freshalldaynews.com^
 ||2028.lookinews.com^
@@ -6565,6 +6729,7 @@
 ||2040.km14hkusz.com^
 ||2040.lookinews.com^
 ||2041.bestoffers-wt.com^
+||2041.jemonews.com^
 ||2042.5clo0xmbf.com^
 ||2042.freshalldaynews.com^
 ||2042.gofenews.com^
@@ -6606,6 +6771,7 @@
 ||2061.freshalldaynews.com^
 ||2062.bestoffers-fe.com^
 ||2062.freshalldaynews.com^
+||2062.reminews.com^
 ||2063.bestandgreatests.com^
 ||2063.freshalldaynews.com^
 ||2063.karponews.com^
@@ -6625,6 +6791,7 @@
 ||2072.4puuqeh41.com^
 ||2072.bealanews.com^
 ||2072.km14hkusz.com^
+||2072.reminews.com^
 ||2073.freshalldaynews.com^
 ||2073.ruranews.com^
 ||2075.deeginews.com^
@@ -6677,6 +6844,7 @@
 ||2095.bestandgreatests.com^
 ||2095.bestoffers-wt.com^
 ||2096.bestandgreatests.com^
+||2096.lookinews.com^
 ||2097.bestandgreatests.com^
 ||2097.freshalldaynews.com^
 ||2097.guesswhatnews.com^
@@ -6699,6 +6867,7 @@
 ||2100.ksrtmgoym.com^
 ||2101.bestandgreatests.com^
 ||2101.freshalldaynews.com^
+||2101.l5eamr17d.com^
 ||2101.reminews.com^
 ||2101.uho5m96ej.com^
 ||2102.bestandgreatests.com^
@@ -6735,14 +6904,17 @@
 ||2120.bestandgreatests.com^
 ||2120.km14hkusz.com^
 ||2121.freshalldaynews.com^
+||2121.jemonews.com^
 ||2122.bestandgreatests.com^
 ||2123.freshalldaynews.com^
 ||2124.guesswhatnews.com^
 ||2125.bestandgreatests.com^
 ||2126.freshalldaynews.com^
 ||2126.km14hkusz.com^
+||2126.reminews.com^
 ||2127.bestoffers-wt.com^
 ||2127.freshalldaynews.com^
+||2127.l5eamr17d.com^
 ||2128.5clo0xmbf.com^
 ||2128.gofenews.com^
 ||2128.karponews.com^
@@ -6752,10 +6924,13 @@
 ||2130.lootynews.com^
 ||2131.freshalldaynews.com^
 ||2131.km14hkusz.com^
+||2131.shockynews.com^
 ||2133.bestandgreatests.com^
 ||2134.freshalldaynews.com^
 ||2134.j74y03g8u.com^
+||2134.reminews.com^
 ||2135.karponews.com^
+||2136.4puuqeh41.com^
 ||2137.bestandgreatests.com^
 ||2138.freshalldaynews.com^
 ||2138.reminews.com^
@@ -6772,6 +6947,7 @@
 ||2142.deeginews.com^
 ||2143.freshalldaynews.com^
 ||2144.bealanews.com^
+||2144.guesswhatnews.com^
 ||2144.jemonews.com^
 ||2145.freshalldaynews.com^
 ||2146.j6t91e89q.com^
@@ -6826,6 +7002,7 @@
 ||2174.freshalldaynews.com^
 ||2175.ksrtmgoym.com^
 ||2176.karponews.com^
+||2176.lookinews.com^
 ||2176.reminews.com^
 ||2176.uho5m96ej.com^
 ||2177.bestandgreatests.com^
@@ -6837,6 +7014,7 @@
 ||218.jumronews.com^
 ||2180.4puuqeh41.com^
 ||2181.km14hkusz.com^
+||2181.loopanews.com^
 ||2182.bestandgreatests.com^
 ||2182.freshalldaynews.com^
 ||2182.ksrtmgoym.com^
@@ -6854,10 +7032,12 @@
 ||2187.ksrtmgoym.com^
 ||2188.freshalldaynews.com^
 ||219.bestoffers-fe.com^
+||219.groovinews.com^
 ||219.jessunews.com^
 ||219.lilonews.com^
 ||2190.reminews.com^
 ||2191.j74y03g8u.com^
+||2192.lycheenews.com^
 ||2192.rookinews.com^
 ||2193.lookinews.com^
 ||2193.luronews.com^
@@ -6922,6 +7102,7 @@
 ||2223.freshalldaynews.com^
 ||2223.lookinews.com^
 ||2224.ksrtmgoym.com^
+||2225.deeginews.com^
 ||2225.freshalldaynews.com^
 ||2226.sosqboh85.com^
 ||2228.freshalldaynews.com^
@@ -6952,6 +7133,7 @@
 ||2237.ksrtmgoym.com^
 ||2237.lookinews.com^
 ||2238.deeginews.com^
+||2240.l5eamr17d.com^
 ||2241.bestoffers-wt.com^
 ||2241.km14hkusz.com^
 ||2242.freshalldaynews.com^
@@ -6995,6 +7177,7 @@
 ||2256.km14hkusz.com^
 ||2256.lookinews.com^
 ||2256.reminews.com^
+||2257.4puuqeh41.com^
 ||2257.km14hkusz.com^
 ||2257.lookinews.com^
 ||2258.sifenews.com^
@@ -7010,6 +7193,7 @@
 ||2264.jemonews.com^
 ||2264.km14hkusz.com^
 ||2264.reminews.com^
+||2264.sifenews.com^
 ||2266.freshalldaynews.com^
 ||2266.karponews.com^
 ||2266.lookinews.com^
@@ -7042,6 +7226,7 @@
 ||2276.bestandgreatests.com^
 ||2276.freshalldaynews.com^
 ||2276.km14hkusz.com^
+||2276.ksrtmgoym.com^
 ||2277.karponews.com^
 ||2277.km14hkusz.com^
 ||2278.4puuqeh41.com^
@@ -7053,6 +7238,7 @@
 ||2280.km14hkusz.com^
 ||2281.bestandgreatests.com^
 ||2281.j6t91e89q.com^
+||2281.lootynews.com^
 ||2282.freshalldaynews.com^
 ||2282.luronews.com^
 ||2284.km14hkusz.com^
@@ -7068,6 +7254,7 @@
 ||2286.luronews.com^
 ||2286.reminews.com^
 ||2287.freshalldaynews.com^
+||2287.j74y03g8u.com^
 ||2287.tegronews.com^
 ||2288.gofenews.com^
 ||2289.freshalldaynews.com^
@@ -7104,6 +7291,7 @@
 ||2300.ksrtmgoym.com^
 ||2301.freshalldaynews.com^
 ||2301.gofenews.com^
+||2301.jemonews.com^
 ||2302.4puuqeh41.com^
 ||2302.bestoffers-fe.com^
 ||2302.gofenews.com^
@@ -7136,6 +7324,7 @@
 ||2312.freshalldaynews.com^
 ||2312.ksrtmgoym.com^
 ||231284.79j68qav2.com^
+||2313.jemonews.com^
 ||2314.bestandgreatests.com^
 ||2314.reminews.com^
 ||2315.freshalldaynews.com^
@@ -7146,7 +7335,9 @@
 ||2317.karponews.com^
 ||2318.karponews.com^
 ||2319.ksrtmgoym.com^
+||2320.4puuqeh41.com^
 ||2320.freshalldaynews.com^
+||2321.4puuqeh41.com^
 ||2321.bestandgreatests.com^
 ||2321.deeginews.com^
 ||2322.guesswhatnews.com^
@@ -7158,10 +7349,13 @@
 ||2327.bestandgreatests.com^
 ||2327.karponews.com^
 ||2327.ksrtmgoym.com^
+||2327.loopanews.com^
 ||2329.deeginews.com^
+||2329.luronews.com^
 ||2329.sifenews.com^
 ||2330.luronews.com^
 ||2330.reminews.com^
+||23301.n3kijf75r.com^
 ||2331.freshalldaynews.com^
 ||2332.bealanews.com^
 ||2332.freshalldaynews.com^
@@ -7196,6 +7390,7 @@
 ||2349.km14hkusz.com^
 ||235.79j68qav2.com^
 ||235.jessunews.com^
+||235.rhsy174op.com^
 ||2350.freshalldaynews.com^
 ||2351.freshalldaynews.com^
 ||2351.reminews.com^
@@ -7210,9 +7405,12 @@
 ||2356.reminews.com^
 ||2358.uho5m96ej.com^
 ||2359.bestoffers-fe.com^
+||2359.jemonews.com^
+||2361.ogrt80r65.com^
 ||2362.4puuqeh41.com^
 ||2363.guesswhatnews.com^
 ||2363.j74y03g8u.com^
+||2364.cosmicnewspulse.com^
 ||2366.freshalldaynews.com^
 ||2367.freshalldaynews.com^
 ||2367.gofenews.com^
@@ -7234,6 +7432,7 @@
 ||2377.freshalldaynews.com^
 ||2377.km14hkusz.com^
 ||2378.freshalldaynews.com^
+||2379.lookinews.com^
 ||2381.karponews.com^
 ||2381.uho5m96ej.com^
 ||2383.freshalldaynews.com^
@@ -7246,6 +7445,7 @@
 ||2385.karponews.com^
 ||2386.gofenews.com^
 ||2387.leranews.com^
+||2389.deeginews.com^
 ||2389.freshalldaynews.com^
 ||2390.5clo0xmbf.com^
 ||2390.bestoffers-wt.com^
@@ -7258,6 +7458,7 @@
 ||2394.ksrtmgoym.com^
 ||2395.bestoffers-wt.com^
 ||2395.freshalldaynews.com^
+||2395.luronews.com^
 ||2395.reminews.com^
 ||2397.bestandgreatests.com^
 ||2397.freshalldaynews.com^
@@ -7283,6 +7484,7 @@
 ||2408.bestoffers-wt.com^
 ||2408.km14hkusz.com^
 ||2408.w23eidn9j.com^
+||241.jumronews.com^
 ||241.lookinews.com^
 ||2410.freshalldaynews.com^
 ||2412.bestoffers-wt.com^
@@ -7299,6 +7501,7 @@
 ||2417.ohhmyoffers.com^
 ||2419.bestandgreatests.com^
 ||2420.jemonews.com^
+||2420.ksrtmgoym.com^
 ||2421.karponews.com^
 ||2422.bealanews.com^
 ||2423.freshalldaynews.com^
@@ -7307,6 +7510,7 @@
 ||2429.5clo0xmbf.com^
 ||2431.lookinews.com^
 ||2433.uho5m96ej.com^
+||2436.deeginews.com^
 ||2437.freshalldaynews.com^
 ||2437.km14hkusz.com^
 ||2437.lookinews.com^
@@ -7433,6 +7637,7 @@
 ||2498.freshalldaynews.com^
 ||2498.lookinews.com^
 ||2498.reminews.com^
+||2499.groovinews.com^
 ||25.findgreatnews.com^
 ||25.guesswhatnews.com^
 ||25.jessunews.com^
@@ -7444,6 +7649,7 @@
 ||2500.ksrtmgoym.com^
 ||2500.reminews.com^
 ||2501.j74y03g8u.com^
+||2502.huronews.com^
 ||2502.karponews.com^
 ||2502.shockynews.com^
 ||2503.bealanews.com^
@@ -7455,6 +7661,7 @@
 ||2504.km14hkusz.com^
 ||2505.jemonews.com^
 ||2505.km14hkusz.com^
+||2505.lookinews.com^
 ||2505.lootynews.com^
 ||2506.ksrtmgoym.com^
 ||2507.ksrtmgoym.com^
@@ -7466,6 +7673,7 @@
 ||2509.karponews.com^
 ||2509.ksrtmgoym.com^
 ||251.bealanews.com^
+||251.jumronews.com^
 ||2512.freshalldaynews.com^
 ||2512.karponews.com^
 ||2513.freshalldaynews.com^
@@ -7517,6 +7725,7 @@
 ||2534.freshalldaynews.com^
 ||2534.lookinews.com^
 ||2534.loopanews.com^
+||2534.sifenews.com^
 ||2536.j74y03g8u.com^
 ||2536.l5eamr17d.com^
 ||2539.freshalldaynews.com^
@@ -7533,6 +7742,7 @@
 ||2545.ksrtmgoym.com^
 ||2546.4puuqeh41.com^
 ||2546.reminews.com^
+||2547.4puuqeh41.com^
 ||2547.km14hkusz.com^
 ||2548.5clo0xmbf.com^
 ||2548.freshalldaynews.com^
@@ -7544,6 +7754,7 @@
 ||2552.lookinews.com^
 ||2553.freshalldaynews.com^
 ||2553.km14hkusz.com^
+||2553.loopanews.com^
 ||2554.ksrtmgoym.com^
 ||2554.lookinews.com^
 ||2555.5clo0xmbf.com^
@@ -7565,19 +7776,23 @@
 ||2564.karponews.com^
 ||2566.freshalldaynews.com^
 ||2566.km14hkusz.com^
+||2567.jemonews.com^
 ||2567.jumronews.com^
 ||2567.km14hkusz.com^
 ||2568.bestandgreatests.com^
 ||2568.j74y03g8u.com^
 ||2568.ksrtmgoym.com^
+||2569.reminews.com^
 ||2570.lootynews.com^
 ||2571.karponews.com^
 ||2571.km14hkusz.com^
 ||2571.ksrtmgoym.com^
+||2572.4puuqeh41.com^
 ||2573.freshalldaynews.com^
 ||2575.freshalldaynews.com^
 ||2575.j74y03g8u.com^
 ||2576.freshalldaynews.com^
+||2576.jumronews.com^
 ||2576.reminews.com^
 ||2577.5clo0xmbf.com^
 ||2578.km14hkusz.com^
@@ -7591,6 +7806,7 @@
 ||2583.j74y03g8u.com^
 ||2583.reminews.com^
 ||2585.bestoffers-wt.com^
+||2586.cosmicnewspulse.com^
 ||2586.km14hkusz.com^
 ||2586.reminews.com^
 ||2587.freshalldaynews.com^
@@ -7641,6 +7857,7 @@
 ||2607.km14hkusz.com^
 ||2607.ksrtmgoym.com^
 ||2607.sifenews.com^
+||2608.bestandgreatests.com^
 ||2608.bestoffers-wt.com^
 ||2608.gofenews.com^
 ||2609.bestoffers-fe.com^
@@ -7666,6 +7883,7 @@
 ||2622.shockynews.com^
 ||2623.freshalldaynews.com^
 ||2623.ksrtmgoym.com^
+||2624.4puuqeh41.com^
 ||2624.j74y03g8u.com^
 ||2624.p6qf8cqa0.com^
 ||2625.freshalldaynews.com^
@@ -7682,6 +7900,7 @@
 ||2632.bestoffers-wt.com^
 ||2632.km14hkusz.com^
 ||2632.reminews.com^
+||2633.jemonews.com^
 ||2633.ksrtmgoym.com^
 ||2633.lookinews.com^
 ||2634.freshalldaynews.com^
@@ -7696,6 +7915,7 @@
 ||2638.freshalldaynews.com^
 ||2639.ksrtmgoym.com^
 ||2639.ruranews.com^
+||2639.w23eidn9j.com^
 ||2640.bealanews.com^
 ||2640.sifenews.com^
 ||2642.freshalldaynews.com^
@@ -7723,6 +7943,7 @@
 ||2654.j74y03g8u.com^
 ||2654.reminews.com^
 ||2658.bestandgreatests.com^
+||2658.deeginews.com^
 ||2658.luronews.com^
 ||2661.bestandgreatests.com^
 ||2661.freshalldaynews.com^
@@ -7739,6 +7960,7 @@
 ||2666.bestoffers-wt.com^
 ||2666.freshalldaynews.com^
 ||2666.lookinews.com^
+||2666.reminews.com^
 ||2667.freshalldaynews.com^
 ||2667.luronews.com^
 ||2667.reminews.com^
@@ -7774,6 +7996,7 @@
 ||2683.km14hkusz.com^
 ||2683.ksrtmgoym.com^
 ||2683.reminews.com^
+||2685.cosmicnewspulse.com^
 ||2685.freshalldaynews.com^
 ||2686.ksrtmgoym.com^
 ||2687.bestandgreatests.com^
@@ -7900,6 +8123,7 @@
 ||2735.lootynews.com^
 ||2736.bestandgreatests.com^
 ||2736.freshalldaynews.com^
+||2737.deeginews.com^
 ||2737.lookinews.com^
 ||2738.bestandgreatests.com^
 ||2738.freshalldaynews.com^
@@ -7936,6 +8160,7 @@
 ||2750.karponews.com^
 ||2750.ksrtmgoym.com^
 ||2751.bestoffers-wt.com^
+||2751.jemonews.com^
 ||2751.ksrtmgoym.com^
 ||2752.j74y03g8u.com^
 ||2752.reminews.com^
@@ -7945,10 +8170,12 @@
 ||2754.reminews.com^
 ||2755.freshalldaynews.com^
 ||2755.km14hkusz.com^
+||2756.79j68qav2.com^
 ||2756.lookinews.com^
 ||2757.bestoffers-wt.com^
 ||2757.gofenews.com^
 ||2757.lookinews.com^
+||2758.4puuqeh41.com^
 ||2758.bestandgreatests.com^
 ||2759.freshalldaynews.com^
 ||2759.gofenews.com^
@@ -7992,6 +8219,7 @@
 ||2776.lootynews.com^
 ||2776.luronews.com^
 ||2777.bestandgreatests.com^
+||2777.luronews.com^
 ||2778.freshalldaynews.com^
 ||2779.freshalldaynews.com^
 ||2779.gofenews.com^
@@ -8011,9 +8239,11 @@
 ||2783.lookinews.com^
 ||2783.reminews.com^
 ||2785.freshalldaynews.com^
+||2785.reminews.com^
 ||2786.freshalldaynews.com^
 ||2787.freshalldaynews.com^
 ||2787.km14hkusz.com^
+||2787.lookinews.com^
 ||2787.ogrt80r65.com^
 ||2789.bestoffers-wt.com^
 ||2789.freshalldaynews.com^
@@ -8084,6 +8314,7 @@
 ||2818.jemonews.com^
 ||2818.km14hkusz.com^
 ||2818.lookinews.com^
+||2818.loopanews.com^
 ||2818.lootynews.com^
 ||2818.luronews.com^
 ||2818.reminews.com^
@@ -8142,6 +8373,7 @@
 ||2840.reminews.com^
 ||2841.jemonews.com^
 ||2842.karponews.com^
+||2842.reminews.com^
 ||2844.freshalldaynews.com^
 ||2844.jemonews.com^
 ||2844.reminews.com^
@@ -8272,6 +8504,7 @@
 ||2895.seponews.com^
 ||2896.freshalldaynews.com^
 ||2897.freshalldaynews.com^
+||2898.4puuqeh41.com^
 ||2898.freshalldaynews.com^
 ||2898.ksrtmgoym.com^
 ||2899.4puuqeh41.com^
@@ -8313,6 +8546,7 @@
 ||2912.reminews.com^
 ||2914.sifenews.com^
 ||2915.km14hkusz.com^
+||2915.lookinews.com^
 ||2915.reminews.com^
 ||2916.freshalldaynews.com^
 ||2916.km14hkusz.com^
@@ -8336,6 +8570,7 @@
 ||2923.km14hkusz.com^
 ||2923.uho5m96ej.com^
 ||2925.j74y03g8u.com^
+||2925.jemonews.com^
 ||2925.reminews.com^
 ||2927.ksrtmgoym.com^
 ||2929.j74y03g8u.com^
@@ -8353,6 +8588,7 @@
 ||2935.lootynews.com^
 ||2936.karponews.com^
 ||2937.gofenews.com^
+||2937.jemonews.com^
 ||2937.karponews.com^
 ||2938.freshalldaynews.com^
 ||2939.km14hkusz.com^
@@ -8401,10 +8637,12 @@
 ||2955.jemonews.com^
 ||2955.lookinews.com^
 ||2956.freshalldaynews.com^
+||2957.4puuqeh41.com^
 ||2957.freshalldaynews.com^
 ||2957.km14hkusz.com^
 ||2957.tegronews.com^
 ||2958.bestoffers-wt.com^
+||2958.jemonews.com^
 ||2958.km14hkusz.com^
 ||2959.bestandgreatests.com^
 ||2959.karponews.com^
@@ -8419,6 +8657,7 @@
 ||2963.lilonews.com^
 ||2963.lookinews.com^
 ||2963.lootynews.com^
+||2963.reminews.com^
 ||2964.jemonews.com^
 ||2966.gofenews.com^
 ||2967.gofenews.com^
@@ -8453,10 +8692,12 @@
 ||2983.bestandgreatests.com^
 ||2983.bestoffers-wt.com^
 ||2984.4puuqeh41.com^
+||2984.luronews.com^
 ||2984.reminews.com^
 ||2986.freshalldaynews.com^
 ||2986.guesswhatnews.com^
 ||2986.leranews.com^
+||2986.lookinews.com^
 ||2987.4puuqeh41.com^
 ||2987.bestoffers-wt.com^
 ||2987.jessunews.com^
@@ -8556,6 +8797,7 @@
 ||3010.bestandgreatests.com^
 ||3010.bestoffers-wt.com^
 ||3010.j74y03g8u.com^
+||3010.luronews.com^
 ||3010.reminews.com^
 ||3011.freshalldaynews.com^
 ||3011.km14hkusz.com^
@@ -8564,6 +8806,7 @@
 ||3012.freshalldaynews.com^
 ||3012.gofenews.com^
 ||3012.km14hkusz.com^
+||3012.luronews.com^
 ||3012.reminews.com^
 ||3013.gofenews.com^
 ||3013.ksrtmgoym.com^
@@ -8629,6 +8872,7 @@
 ||3040.km14hkusz.com^
 ||3041.bestandgreatests.com^
 ||3041.ksrtmgoym.com^
+||3042.gofenews.com^
 ||3042.km14hkusz.com^
 ||3042.ruranews.com^
 ||3043.jemonews.com^
@@ -8641,6 +8885,7 @@
 ||3044.reminews.com^
 ||3045.freshalldaynews.com^
 ||3047.luronews.com^
+||3048.jemonews.com^
 ||3049.j74y03g8u.com^
 ||3049.ksrtmgoym.com^
 ||3050.ksrtmgoym.com^
@@ -8662,11 +8907,13 @@
 ||3061.bestandgreatests.com^
 ||3061.freshalldaynews.com^
 ||3061.km14hkusz.com^
+||3061.reminews.com^
 ||3062.4e8bjpldk.com^
 ||3062.freshalldaynews.com^
 ||3062.jemonews.com^
 ||3062.jumronews.com^
 ||3063.freshalldaynews.com^
+||3063.jemonews.com^
 ||3064.freshalldaynews.com^
 ||3064.km14hkusz.com^
 ||3064.reminews.com^
@@ -8752,6 +8999,7 @@
 ||3100.freshalldaynews.com^
 ||3100.karponews.com^
 ||3100.ksrtmgoym.com^
+||3101.4puuqeh41.com^
 ||3101.bestandgreatests.com^
 ||3102.bestandgreatests.com^
 ||3102.freshalldaynews.com^
@@ -8781,11 +9029,13 @@
 ||3116.bestandgreatests.com^
 ||3116.freshalldaynews.com^
 ||3116.lookinews.com^
+||3117.4puuqeh41.com^
 ||3117.bestandgreatests.com^
 ||3118.freshalldaynews.com^
 ||3118.ksrtmgoym.com^
 ||3118.lookinews.com^
 ||3118.reminews.com^
+||3120.cosmicnewspulse.com^
 ||3120.deeginews.com^
 ||3121.freshalldaynews.com^
 ||3122.5clo0xmbf.com^
@@ -8794,6 +9044,7 @@
 ||3122.pr0xqyrgl.com^
 ||3123.freshalldaynews.com^
 ||3123.jemonews.com^
+||3123.reminews.com^
 ||3124.karponews.com^
 ||3125.bestandgreatests.com^
 ||3125.freshalldaynews.com^
@@ -8811,7 +9062,9 @@
 ||313.lycheenews.com^
 ||3130.5clo0xmbf.com^
 ||3130.bestoffers-wt.com^
+||3130.reminews.com^
 ||3130.uho5m96ej.com^
+||3131.bestandgreatests.com^
 ||3131.freshalldaynews.com^
 ||3131.jemonews.com^
 ||3131.lookinews.com^
@@ -8886,11 +9139,13 @@
 ||3159.jemonews.com^
 ||3160.freshalldaynews.com^
 ||3161.bestandgreatests.com^
+||3162.jemonews.com^
 ||3163.lookinews.com^
 ||3164.freshalldaynews.com^
 ||3165.freshalldaynews.com^
 ||3166.4puuqeh41.com^
 ||3166.lookinews.com^
+||3166.luronews.com^
 ||3168.freshalldaynews.com^
 ||3168.lookinews.com^
 ||3168.reminews.com^
@@ -8909,10 +9164,13 @@
 ||3172.ksrtmgoym.com^
 ||3173.lootynews.com^
 ||3174.ksrtmgoym.com^
+||3176.huronews.com^
 ||3176.ksrtmgoym.com^
+||3177.bestandgreatests.com^
 ||3179.jemonews.com^
 ||3179.km14hkusz.com^
 ||3179.lookinews.com^
+||3180.deeginews.com^
 ||3181.freshalldaynews.com^
 ||3182.freshalldaynews.com^
 ||3182.gofenews.com^
@@ -8937,6 +9195,7 @@
 ||3193.7bkzlyfvl.com^
 ||3193.bestandgreatests.com^
 ||3193.ksrtmgoym.com^
+||3193.lookinews.com^
 ||3194.bestoffers-wt.com^
 ||3194.karponews.com^
 ||3194.luronews.com^
@@ -8979,6 +9238,7 @@
 ||3207.km14hkusz.com^
 ||3207.ksrtmgoym.com^
 ||3209.4puuqeh41.com^
+||321.j6t91e89q.com^
 ||321.jemonews.com^
 ||321.lootynews.com^
 ||321.selornews.com^
@@ -8993,6 +9253,7 @@
 ||3213.bestandgreatests.com^
 ||321412d1.url25fatm.com^
 ||3216.freshalldaynews.com^
+||3218.jemonews.com^
 ||3219.km14hkusz.com^
 ||3219.reminews.com^
 ||322.jemonews.com^
@@ -9002,6 +9263,7 @@
 ||3222.tegronews.com^
 ||3224.freshalldaynews.com^
 ||3225.km14hkusz.com^
+||3227.4puuqeh41.com^
 ||3227.freshalldaynews.com^
 ||3227.k3718qw08.com^
 ||3227.reminews.com^
@@ -9009,6 +9271,7 @@
 ||3229.freshalldaynews.com^
 ||323.deeginews.com^
 ||3230.bestoffers-wt.com^
+||3231.groovinews.com^
 ||3231.km14hkusz.com^
 ||3231.lookinews.com^
 ||3232.bestoffers-fe.com^
@@ -9076,6 +9339,7 @@
 ||3264.freshalldaynews.com^
 ||3264.karponews.com^
 ||3265.lootynews.com^
+||3265.luronews.com^
 ||3267.freshalldaynews.com^
 ||3267.ksrtmgoym.com^
 ||3268.jemonews.com^
@@ -9091,6 +9355,7 @@
 ||3273.j74y03g8u.com^
 ||3274.bestandgreatests.com^
 ||3274.freshalldaynews.com^
+||3276.4puuqeh41.com^
 ||3276.bestandgreatests.com^
 ||3276.freshalldaynews.com^
 ||3277.bestandgreatests.com^
@@ -9104,6 +9369,7 @@
 ||3282.gofenews.com^
 ||3283.leranews.com^
 ||3284.bestandgreatests.com^
+||3284.cosmicnewspulse.com^
 ||3284.j74y03g8u.com^
 ||3284.jemonews.com^
 ||3284.km14hkusz.com^
@@ -9156,6 +9422,7 @@
 ||3303.luronews.com^
 ||3305.freshalldaynews.com^
 ||3305.km14hkusz.com^
+||3306.deeginews.com^
 ||3306.freshalldaynews.com^
 ||3306.km14hkusz.com^
 ||3306.lookinews.com^
@@ -9183,8 +9450,10 @@
 ||3318.km14hkusz.com^
 ||3319.km14hkusz.com^
 ||3319.reminews.com^
+||3319.tegronews.com^
 ||3321.j74y03g8u.com^
 ||3321.ksrtmgoym.com^
+||3324.jemonews.com^
 ||3324.reminews.com^
 ||3328.ksrtmgoym.com^
 ||3330.reminews.com^
@@ -9202,11 +9471,13 @@
 ||3336.reminews.com^
 ||3337.freshalldaynews.com^
 ||3337.lookinews.com^
+||3338.l5eamr17d.com^
 ||3339.j74y03g8u.com^
 ||334.lycheenews.com^
 ||3341.freshalldaynews.com^
 ||3341.k3718qw08.com^
 ||3341.ksrtmgoym.com^
+||3341.reminews.com^
 ||3343.freshalldaynews.com^
 ||3343.j74y03g8u.com^
 ||3343.lookinews.com^
@@ -9219,6 +9490,7 @@
 ||3349.km14hkusz.com^
 ||3349.luronews.com^
 ||3349.reminews.com^
+||3350.jemonews.com^
 ||3351.karponews.com^
 ||3351.km14hkusz.com^
 ||3352.deeginews.com^
@@ -9250,6 +9522,7 @@
 ||3368.j74y03g8u.com^
 ||3368.lookinews.com^
 ||3370.4puuqeh41.com^
+||3370.lookinews.com^
 ||3370.uho5m96ej.com^
 ||3371.bestandgreatests.com^
 ||3371.jemonews.com^
@@ -9257,11 +9530,14 @@
 ||3372.j74y03g8u.com^
 ||3372.km14hkusz.com^
 ||3372.lookinews.com^
+||3372.luronews.com^
 ||3373.huronews.com^
 ||3373.reminews.com^
 ||3374.karponews.com^
 ||3374.km14hkusz.com^
 ||3374.lookinews.com^
+||3375.luronews.com^
+||3376.deeginews.com^
 ||3377.freshalldaynews.com^
 ||3378.bestoffers-fe.com^
 ||3378.freshalldaynews.com^
@@ -9294,6 +9570,7 @@
 ||3390.j74y03g8u.com^
 ||3390.reminews.com^
 ||3391.groovinews.com^
+||3391.sifenews.com^
 ||3392.bestandgreatests.com^
 ||3392.freshalldaynews.com^
 ||3392.lookinews.com^
@@ -9374,6 +9651,7 @@
 ||3416.reminews.com^
 ||3416.ruranews.com^
 ||3417.freshalldaynews.com^
+||3417.luronews.com^
 ||3418.freshalldaynews.com^
 ||3418.karponews.com^
 ||3418.km14hkusz.com^
@@ -9420,17 +9698,21 @@
 ||3436.km14hkusz.com^
 ||3436.reminews.com^
 ||3437.4puuqeh41.com^
+||3437.gofenews.com^
 ||3438.jemonews.com^
 ||3439.bestandgreatests.com^
 ||3439.bestoffers-fe.com^
 ||3439.freshalldaynews.com^
 ||344.jemonews.com^
+||3440.freshalldaynews.com^
 ||3441.bestoffers-fe.com^
 ||3441.freshalldaynews.com^
 ||3441.reminews.com^
 ||3442.freshalldaynews.com^
+||3442.gofenews.com^
 ||3442.karponews.com^
 ||3442.km14hkusz.com^
+||3442.lookinews.com^
 ||3443.karponews.com^
 ||3444.bestoffers-fe.com^
 ||3444.freshalldaynews.com^
@@ -9441,6 +9723,7 @@
 ||3446.km14hkusz.com^
 ||3446.reminews.com^
 ||3446w.gofenews.com^
+||3446w.huronews.com^
 ||3448.freshalldaynews.com^
 ||3450.bestoffers-wt.com^
 ||3451.km14hkusz.com^
@@ -9448,6 +9731,7 @@
 ||3452.freshalldaynews.com^
 ||3452.gofenews.com^
 ||3452.km14hkusz.com^
+||3452.l5eamr17d.com^
 ||3452.loopanews.com^
 ||3452.lootynews.com^
 ||3452.luronews.com^
@@ -9479,6 +9763,7 @@
 ||3461.jemonews.com^
 ||3462.jemonews.com^
 ||3462.tegronews.com^
+||3463.4puuqeh41.com^
 ||3463.freshalldaynews.com^
 ||3463.gofenews.com^
 ||3464.freshalldaynews.com^
@@ -9522,6 +9807,7 @@
 ||3476.bestandgreatests.com^
 ||3476.freshalldaynews.com^
 ||3476.j74y03g8u.com^
+||3476.l5eamr17d.com^
 ||3476.reminews.com^
 ||3476.tegronews.com^
 ||3477.bealanews.com^
@@ -9553,6 +9839,7 @@
 ||3485.lookinews.com^
 ||3485.shockynews.com^
 ||3486.sosqboh85.com^
+||3487.5clo0xmbf.com^
 ||3487.freshalldaynews.com^
 ||3487.karponews.com^
 ||3487.km14hkusz.com^
@@ -9574,6 +9861,7 @@
 ||3493.bestandgreatests.com^
 ||3493.freshalldaynews.com^
 ||3493.ksrtmgoym.com^
+||3493.reminews.com^
 ||3495.freshalldaynews.com^
 ||3495.j74y03g8u.com^
 ||3495.km14hkusz.com^
@@ -9595,6 +9883,7 @@
 ||3501.freshalldaynews.com^
 ||3501.reminews.com^
 ||3502.gofenews.com^
+||3502.groovinews.com^
 ||3502.km14hkusz.com^
 ||3503.ksrtmgoym.com^
 ||3503.ruranews.com^
@@ -9609,6 +9898,7 @@
 ||3507.bestandgreatests.com^
 ||3507.karponews.com^
 ||3507.luronews.com^
+||3507.reminews.com^
 ||3508.bestoffers-fe.com^
 ||3508.freshalldaynews.com^
 ||3508.karponews.com^
@@ -9645,6 +9935,7 @@
 ||3519.freshalldaynews.com^
 ||3519.km14hkusz.com^
 ||3519.reminews.com^
+||352.bestoffers-fe.com^
 ||352.jessunews.com^
 ||352.leranews.com^
 ||3520.bestandgreatests.com^
@@ -9708,6 +9999,7 @@
 ||3537.freshalldaynews.com^
 ||3537.j74y03g8u.com^
 ||3537.lootynews.com^
+||3538.4puuqeh41.com^
 ||3538.freshalldaynews.com^
 ||3538.luronews.com^
 ||3538.reminews.com^
@@ -9771,7 +10063,9 @@
 ||3557.bestandgreatests.com^
 ||3557.j74y03g8u.com^
 ||3558.freshalldaynews.com^
+||3559.4puuqeh41.com^
 ||3559.bestoffers-wt.com^
+||3559.gofenews.com^
 ||3559.km14hkusz.com^
 ||3559.lootynews.com^
 ||3560.bestandgreatests.com^
@@ -9783,13 +10077,18 @@
 ||3562.freshalldaynews.com^
 ||3562.km14hkusz.com^
 ||3562.lootynews.com^
+||3562.reminews.com^
 ||3563.freshalldaynews.com^
 ||3563.km14hkusz.com^
+||3564.5clo0xmbf.com^
 ||3564.freshalldaynews.com^
 ||3564.ksrtmgoym.com^
+||3564.luronews.com^
+||3564.lycheenews.com^
 ||3564.reminews.com^
 ||3564.ruranews.com^
 ||3565.bestandgreatests.com^
+||3565.deeginews.com^
 ||3565.freshalldaynews.com^
 ||3566.bestoffers-wt.com^
 ||3567.freshalldaynews.com^
@@ -9891,6 +10190,8 @@
 ||3606.seponews.com^
 ||3607.deeginews.com^
 ||3608.freshalldaynews.com^
+||3608.reminews.com^
+||3609.5clo0xmbf.com^
 ||3609.bestandgreatests.com^
 ||3609.bestoffers-wt.com^
 ||3609.freshalldaynews.com^
@@ -9916,6 +10217,7 @@
 ||3616.km14hkusz.com^
 ||3616.ksrtmgoym.com^
 ||3617.lootynews.com^
+||3617.lycheenews.com^
 ||3618.4puuqeh41.com^
 ||3618.bestandgreatests.com^
 ||3618.bestoffers-fe.com^
@@ -9960,6 +10262,7 @@
 ||3635.bestandgreatests.com^
 ||3635.bestoffers-fe.com^
 ||3635.deeginews.com^
+||3635.jemonews.com^
 ||3636.bestandgreatests.com^
 ||3636.freshalldaynews.com^
 ||3636.km14hkusz.com^
@@ -9969,6 +10272,8 @@
 ||3641.j74y03g8u.com^
 ||3641.karponews.com^
 ||3641.km14hkusz.com^
+||3641.lookinews.com^
+||3641.lycheenews.com^
 ||3642.bestandgreatests.com^
 ||3642.freshalldaynews.com^
 ||3643.bestandgreatests.com^
@@ -9980,6 +10285,7 @@
 ||3645.bestandgreatests.com^
 ||3646.ksrtmgoym.com^
 ||3647.freshalldaynews.com^
+||3647.reminews.com^
 ||3648.freshalldaynews.com^
 ||3649.freshalldaynews.com^
 ||3649.guesswhatnews.com^
@@ -10077,13 +10383,16 @@
 ||3682.freshalldaynews.com^
 ||3683.bestoffers-wt.com^
 ||3683.huronews.com^
+||3683.j74y03g8u.com^
 ||3683.ksrtmgoym.com^
 ||3684.bestandgreatests.com^
 ||3684.deeginews.com^
 ||3684.freshalldaynews.com^
+||3684.huronews.com^
 ||3684.km14hkusz.com^
 ||3684.ruranews.com^
 ||3685.freshalldaynews.com^
+||3685.groovinews.com^
 ||3685.km14hkusz.com^
 ||3685.lootynews.com^
 ||3686.freshalldaynews.com^
@@ -10129,6 +10438,7 @@
 ||37.y2sysv81v.com^
 ||3700.km14hkusz.com^
 ||3701.freshalldaynews.com^
+||3701.gofenews.com^
 ||3701.groovinews.com^
 ||3701.jemonews.com^
 ||3701.km14hkusz.com^
@@ -10163,6 +10473,7 @@
 ||3712.km14hkusz.com^
 ||3712.ksrtmgoym.com^
 ||3712.lookinews.com^
+||3712.luronews.com^
 ||3712.reminews.com^
 ||3713.freshalldaynews.com^
 ||3713.jemonews.com^
@@ -10172,6 +10483,7 @@
 ||3715.5clo0xmbf.com^
 ||3715.bestoffers-fe.com^
 ||3715.reminews.com^
+||3716.bestandgreatests.com^
 ||3716.freshalldaynews.com^
 ||3716.ksrtmgoym.com^
 ||3716.lootynews.com^
@@ -10235,6 +10547,7 @@
 ||374.leranews.com^
 ||3741.bestandgreatests.com^
 ||3741.freshalldaynews.com^
+||3741.jemonews.com^
 ||3741.km14hkusz.com^
 ||3741.shockynews.com^
 ||3742.5clo0xmbf.com^
@@ -10477,6 +10790,7 @@
 ||3846.reminews.com^
 ||3847.freshalldaynews.com^
 ||3847.km14hkusz.com^
+||3848.4puuqeh41.com^
 ||3848.freshalldaynews.com^
 ||3848.uho5m96ej.com^
 ||3849.lookinews.com^
@@ -10506,10 +10820,12 @@
 ||3859.freshalldaynews.com^
 ||3859.km14hkusz.com^
 ||3859.ksrtmgoym.com^
+||3859.reminews.com^
 ||3860.reminews.com^
 ||3861.bestandgreatests.com^
 ||3861.freshalldaynews.com^
 ||3861.gofenews.com^
+||3861.reminews.com^
 ||3862.freshalldaynews.com^
 ||3862.km14hkusz.com^
 ||3862.ksrtmgoym.com^
@@ -10553,11 +10869,13 @@
 ||3878.karponews.com^
 ||3879.freshalldaynews.com^
 ||3879.ksrtmgoym.com^
+||3879.lookinews.com^
 ||3880.4puuqeh41.com^
 ||3880.bestandgreatests.com^
 ||3880.luronews.com^
 ||3881.karponews.com^
 ||3881.km14hkusz.com^
+||3881.reminews.com^
 ||3882.karponews.com^
 ||3882.reminews.com^
 ||3883.freshalldaynews.com^
@@ -10575,6 +10893,7 @@
 ||3891.freshalldaynews.com^
 ||3891.km14hkusz.com^
 ||3891.reminews.com^
+||3892.jemonews.com^
 ||3893.bestandgreatests.com^
 ||3893.freshalldaynews.com^
 ||3893.ksrtmgoym.com^
@@ -10607,6 +10926,7 @@
 ||3905.reminews.com^
 ||3907.j74y03g8u.com^
 ||3908.lookinews.com^
+||3909.ksrtmgoym.com^
 ||3909.reminews.com^
 ||391.jumronews.com^
 ||3910.bestandgreatests.com^
@@ -10622,6 +10942,7 @@
 ||3915.gofenews.com^
 ||3915.groovinews.com^
 ||3915.lookinews.com^
+||3915.sifenews.com^
 ||3917.bealanews.com^
 ||3917.bestandgreatests.com^
 ||3917.w23eidn9j.com^
@@ -10702,18 +11023,21 @@
 ||395639.bealanews.com^
 ||395694.bestoffers-fe.com^
 ||395694.p6qf8cqa0.com^
+||3957.bealanews.com^
 ||3957.freshalldaynews.com^
 ||3957.km14hkusz.com^
 ||3958.freshalldaynews.com^
 ||3958.reminews.com^
 ||3960.freshalldaynews.com^
 ||3960.ksrtmgoym.com^
+||3961.reminews.com^
 ||3962.bestoffers-wt.com^
 ||3962.freshalldaynews.com^
 ||3963.freshalldaynews.com^
 ||3964.freshalldaynews.com^
 ||3964.km14hkusz.com^
 ||3965.gofenews.com^
+||3965.l5eamr17d.com^
 ||3966.karponews.com^
 ||3966.km14hkusz.com^
 ||3967.bestandgreatests.com^
@@ -10741,10 +11065,14 @@
 ||3976.km14hkusz.com^
 ||3977.freshalldaynews.com^
 ||3979.4puuqeh41.com^
+||3979.jemonews.com^
+||3980.freshalldaynews.com^
 ||3980.j74y03g8u.com^
 ||3981.reminews.com^
 ||3982.freshalldaynews.com^
+||3982.huronews.com^
 ||3982.j74y03g8u.com^
+||3982.jemonews.com^
 ||3983.reminews.com^
 ||3984.deeginews.com^
 ||3984.lootynews.com^
@@ -10752,6 +11080,7 @@
 ||3985.reminews.com^
 ||3986.karponews.com^
 ||3987.freshalldaynews.com^
+||3988.cosmicnewspulse.com^
 ||3988.km14hkusz.com^
 ||3989.bestandgreatests.com^
 ||3989.karponews.com^
@@ -10799,6 +11128,7 @@
 ||4000.km14hkusz.com^
 ||4000.uho5m96ej.com^
 ||4001.bestandgreatests.com^
+||4002.34gwl8v1a.com^
 ||4002.bestandgreatests.com^
 ||4002.lookinews.com^
 ||4003.freshalldaynews.com^
@@ -10814,6 +11144,7 @@
 ||4005.reminews.com^
 ||4006.freshalldaynews.com^
 ||4006.gofenews.com^
+||4006.jemonews.com^
 ||4007.j74y03g8u.com^
 ||4007.jemonews.com^
 ||4007.reminews.com^
@@ -10830,6 +11161,7 @@
 ||4012.km14hkusz.com^
 ||4013.freshalldaynews.com^
 ||4013.karponews.com^
+||4014.deeginews.com^
 ||4014.freshalldaynews.com^
 ||4014.gofenews.com^
 ||4014.km14hkusz.com^
@@ -10882,6 +11214,7 @@
 ||4034.reminews.com^
 ||4035.freshalldaynews.com^
 ||4035.gofenews.com^
+||4035.jemonews.com^
 ||4035.km14hkusz.com^
 ||4035.lookinews.com^
 ||4036.bestandgreatests.com^
@@ -10916,6 +11249,7 @@
 ||4047.bealanews.com^
 ||4047.freshalldaynews.com^
 ||4048.5clo0xmbf.com^
+||4048.gofenews.com^
 ||4049.freshalldaynews.com^
 ||4049.jemonews.com^
 ||4050.bestoffers-fe.com^
@@ -10949,6 +11283,7 @@
 ||4059.lootynews.com^
 ||4059.tegronews.com^
 ||4060.bestoffers-wt.com^
+||4060.cosmicnewspulse.com^
 ||4060.km14hkusz.com^
 ||4060.ksrtmgoym.com^
 ||4060.tegronews.com^
@@ -10983,6 +11318,7 @@
 ||4069.ogrt80r65.com^
 ||4070.freshalldaynews.com^
 ||4070.karponews.com^
+||4070.tegronews.com^
 ||4071.bestandgreatests.com^
 ||4071.bestoffers-wt.com^
 ||4071.freshalldaynews.com^
@@ -11022,6 +11358,7 @@
 ||4082.freshalldaynews.com^
 ||4082.km14hkusz.com^
 ||4082.ksrtmgoym.com^
+||4082.rookinews.com^
 ||4083.freshalldaynews.com^
 ||4084.km14hkusz.com^
 ||4085.groovinews.com^
@@ -11033,6 +11370,7 @@
 ||4087.gofenews.com^
 ||4087.reminews.com^
 ||4089.freshalldaynews.com^
+||4090.cosmicnewspulse.com^
 ||4090.freshalldaynews.com^
 ||4090.km14hkusz.com^
 ||4091.freshalldaynews.com^
@@ -11070,6 +11408,7 @@
 ||4102.km14hkusz.com^
 ||4103.freshalldaynews.com^
 ||4103.lookinews.com^
+||4103.lootynews.com^
 ||4104.k3718qw08.com^
 ||4105.freshalldaynews.com^
 ||4105.gofenews.com^
@@ -11077,6 +11416,7 @@
 ||4105.km14hkusz.com^
 ||4106.bestandgreatests.com^
 ||4106.km14hkusz.com^
+||4106.reminews.com^
 ||4107.5clo0xmbf.com^
 ||4107.guesswhatnews.com^
 ||4107.reminews.com^
@@ -11100,6 +11440,7 @@
 ||4115.uho5m96ej.com^
 ||4116.freshalldaynews.com^
 ||4116.km14hkusz.com^
+||4117.4puuqeh41.com^
 ||4117.freshalldaynews.com^
 ||4118.5clo0xmbf.com^
 ||4118.bestandgreatests.com^
@@ -11163,6 +11504,7 @@
 ||4142.jemonews.com^
 ||4142.ksrtmgoym.com^
 ||4142.shockynews.com^
+||4142.tegronews.com^
 ||4143.5clo0xmbf.com^
 ||4143.freshalldaynews.com^
 ||4143.reminews.com^
@@ -11171,6 +11513,7 @@
 ||4144.tegronews.com^
 ||4145.5clo0xmbf.com^
 ||4145.bestandgreatests.com^
+||4145.reminews.com^
 ||4146.4puuqeh41.com^
 ||4146.bestandgreatests.com^
 ||4146.jemonews.com^
@@ -11192,6 +11535,7 @@
 ||4152.jemonews.com^
 ||4152.ksrtmgoym.com^
 ||4153.freshalldaynews.com^
+||4153.km14hkusz.com^
 ||4154.freshalldaynews.com^
 ||4154.jemonews.com^
 ||4155.bealanews.com^
@@ -11216,14 +11560,17 @@
 ||4161.km14hkusz.com^
 ||4162.freshalldaynews.com^
 ||4162.jemonews.com^
+||4162.reminews.com^
 ||4164.freshalldaynews.com^
 ||4164.karponews.com^
 ||4164.luronews.com^
+||4164.reminews.com^
 ||4165.bestoffers-wt.com^
 ||4165.freshalldaynews.com^
 ||4166.4puuqeh41.com^
 ||4166.bestandgreatests.com^
 ||4166.freshalldaynews.com^
+||4166.jemonews.com^
 ||4166.karponews.com^
 ||4166.lookinews.com^
 ||4167.karponews.com^
@@ -11290,10 +11637,12 @@
 ||4191.freshalldaynews.com^
 ||4192.km14hkusz.com^
 ||4192.ruranews.com^
+||4193.jemonews.com^
 ||4194.5clo0xmbf.com^
 ||4194.bestandgreatests.com^
 ||4194.huronews.com^
 ||4194.jemonews.com^
+||4195.4puuqeh41.com^
 ||4195.freshalldaynews.com^
 ||4195.groovinews.com^
 ||4195.uho5m96ej.com^
@@ -11312,10 +11661,14 @@
 ||4204.km14hkusz.com^
 ||4204.lookinews.com^
 ||4204.reminews.com^
+||4205.reminews.com^
 ||4205.sosqboh85.com^
 ||4206.jemonews.com^
 ||4206.ksrtmgoym.com^
+||4206.lookinews.com^
 ||4207.freshalldaynews.com^
+||4208.luronews.com^
+||4209.jemonews.com^
 ||4211.groovinews.com^
 ||4212.freshalldaynews.com^
 ||4212.km14hkusz.com^
@@ -11329,6 +11682,7 @@
 ||4217.jemonews.com^
 ||4217.km14hkusz.com^
 ||4217.reminews.com^
+||4217.sosqboh85.com^
 ||4218.freshalldaynews.com^
 ||4218.km14hkusz.com^
 ||4219.km14hkusz.com^
@@ -11369,6 +11723,7 @@
 ||4256.freshalldaynews.com^
 ||4257.bestandgreatests.com^
 ||4257.bestoffers-wt.com^
+||4257.gofenews.com^
 ||4258.deeginews.com^
 ||4258.j6t91e89q.com^
 ||4259.bestandgreatests.com^
@@ -11476,12 +11831,14 @@
 ||4332.lookinews.com^
 ||4334.freshalldaynews.com^
 ||4334.gofenews.com^
+||4334.jumronews.com^
 ||4334.karponews.com^
 ||4334.w23eidn9j.com^
 ||4337.79j68qav2.com^
 ||4338.lookinews.com^
 ||4341.karponews.com^
 ||4341.reminews.com^
+||4342.guesswhatnews.com^
 ||4342.karponews.com^
 ||4342.km14hkusz.com^
 ||4343.bestoffers-fe.com^
@@ -11489,6 +11846,7 @@
 ||4344.bealanews.com^
 ||4344.karponews.com^
 ||4344.lookinews.com^
+||4345.deeginews.com^
 ||4345.ksrtmgoym.com^
 ||4346.freshalldaynews.com^
 ||4346.gofenews.com^
@@ -11515,6 +11873,7 @@
 ||4363.freshalldaynews.com^
 ||4363.j74y03g8u.com^
 ||4364.km14hkusz.com^
+||4364.luronews.com^
 ||4364.reminews.com^
 ||4366.groovinews.com^
 ||4368.gofenews.com^
@@ -11525,6 +11884,7 @@
 ||4371.groovinews.com^
 ||4371.j74y03g8u.com^
 ||4372.4e8bjpldk.com^
+||4373.gofenews.com^
 ||4373.ksrtmgoym.com^
 ||4374.freshalldaynews.com^
 ||4374.groovinews.com^
@@ -11541,11 +11901,16 @@
 ||4381.uho5m96ej.com^
 ||4382.freshalldaynews.com^
 ||4383.groovinews.com^
+||4383.karponews.com^
 ||4384.freshalldaynews.com^
+||4384.p6qf8cqa0.com^
+||4387.luronews.com^
 ||4390.karponews.com^
 ||4390.luronews.com^
+||4390.tegronews.com^
 ||4391.j74y03g8u.com^
 ||4392.k3718qw08.com^
+||4395.reminews.com^
 ||4395.sifenews.com^
 ||4396.km14hkusz.com^
 ||4396.reminews.com^
@@ -11563,9 +11928,11 @@
 ||4406.freshalldaynews.com^
 ||4408.bestoffers-fe.com^
 ||4408.freshalldaynews.com^
+||4409.reminews.com^
 ||441.jumronews.com^
 ||441.p6qf8cqa0.com^
 ||4410.luronews.com^
+||4411.gofenews.com^
 ||4415.km14hkusz.com^
 ||4416.jemonews.com^
 ||4416.km14hkusz.com^
@@ -11577,6 +11944,7 @@
 ||4422.5clo0xmbf.com^
 ||4423.jemonews.com^
 ||4424.bestandgreatests.com^
+||4424.deeginews.com^
 ||4432.karponews.com^
 ||4432.reminews.com^
 ||4433.5clo0xmbf.com^
@@ -11615,6 +11983,7 @@
 ||4456.freshalldaynews.com^
 ||4456.km14hkusz.com^
 ||4456.shockynews.com^
+||4456.tegronews.com^
 ||4457.freshalldaynews.com^
 ||4457.gofenews.com^
 ||4458.lookinews.com^
@@ -11629,6 +11998,7 @@
 ||4468.bealanews.com^
 ||4469.bestandgreatests.com^
 ||4469.j74y03g8u.com^
+||4469.jumronews.com^
 ||4469.reminews.com^
 ||447.bestandgreatests.com^
 ||447.freshalldaynews.com^
@@ -11637,6 +12007,7 @@
 ||4470.km14hkusz.com^
 ||4471.freshalldaynews.com^
 ||4471.km14hkusz.com^
+||4471.luronews.com^
 ||4472.km14hkusz.com^
 ||4473.lookinews.com^
 ||4474.j74y03g8u.com^
@@ -11659,6 +12030,7 @@
 ||4482.luronews.com^
 ||4483.jemonews.com^
 ||4484.freshalldaynews.com^
+||4484.jemonews.com^
 ||4484.karponews.com^
 ||4484.km14hkusz.com^
 ||4485.bestandgreatests.com^
@@ -11685,6 +12057,7 @@
 ||4493.km14hkusz.com^
 ||4494.bestoffers-wt.com^
 ||4494.freshalldaynews.com^
+||4494.l5eamr17d.com^
 ||4495.guesswhatnews.com^
 ||4496.freshalldaynews.com^
 ||4496.lootynews.com^
@@ -11755,6 +12128,7 @@
 ||4534.bestoffers-wt.com^
 ||4534.tegronews.com^
 ||4536.ksrtmgoym.com^
+||4536.reminews.com^
 ||4537.reminews.com^
 ||4538.freshalldaynews.com^
 ||4538.ksrtmgoym.com^
@@ -11768,8 +12142,10 @@
 ||4545.freshalldaynews.com^
 ||4545.lootynews.com^
 ||4546.5clo0xmbf.com^
+||4546.gofenews.com^
 ||4546.pr0xqyrgl.com^
 ||4547.lootynews.com^
+||4549.deeginews.com^
 ||4549.jemonews.com^
 ||4550.luronews.com^
 ||4553.freshalldaynews.com^
@@ -11791,6 +12167,7 @@
 ||4563.jemonews.com^
 ||4564.bestandgreatests.com^
 ||4564.freshalldaynews.com^
+||4565.5clo0xmbf.com^
 ||4565.freshalldaynews.com^
 ||4565.j74y03g8u.com^
 ||4565.km14hkusz.com^
@@ -11812,6 +12189,7 @@
 ||4573.km14hkusz.com^
 ||4574.ksrtmgoym.com^
 ||4574.l5eamr17d.com^
+||4575.4puuqeh41.com^
 ||4575.lookinews.com^
 ||4575.luronews.com^
 ||4577.freshalldaynews.com^
@@ -11870,6 +12248,7 @@
 ||4601.bestoffers-fe.com^
 ||4603.5clo0xmbf.com^
 ||4603.freshalldaynews.com^
+||4603.jemonews.com^
 ||4603.km14hkusz.com^
 ||4604.gofenews.com^
 ||4604.km14hkusz.com^
@@ -11952,6 +12331,7 @@
 ||4648.jemonews.com^
 ||4650.km14hkusz.com^
 ||4651.freshalldaynews.com^
+||4652.shockynews.com^
 ||4653.k3718qw08.com^
 ||4654.freshalldaynews.com^
 ||4655.freshalldaynews.com^
@@ -11968,6 +12348,7 @@
 ||4662.bestandgreatests.com^
 ||4662.j74y03g8u.com^
 ||4662.karponews.com^
+||4662.luronews.com^
 ||4663.j74y03g8u.com^
 ||4663.ksrtmgoym.com^
 ||4664.bestoffers-fe.com^
@@ -11978,12 +12359,15 @@
 ||4665.ruranews.com^
 ||4667.bestandgreatests.com^
 ||4667.freshalldaynews.com^
+||4667.huronews.com^
 ||4667.jemonews.com^
 ||4669.km14hkusz.com^
 ||4669.lookinews.com^
 ||4669.shockynews.com^
+||4669.sifenews.com^
 ||4670.bestoffers-wt.com^
 ||4670.km14hkusz.com^
+||4670.reminews.com^
 ||4672.ruranews.com^
 ||4673.groovinews.com^
 ||4673.lootynews.com^
@@ -12004,9 +12388,11 @@
 ||4691.ksrtmgoym.com^
 ||4692.ksrtmgoym.com^
 ||4693.karponews.com^
+||4693.luronews.com^
 ||4694.huronews.com^
 ||4695.j74y03g8u.com^
 ||4696.bestandgreatests.com^
+||4697.4puuqeh41.com^
 ||4697.bestandgreatests.com^
 ||4697.deeginews.com^
 ||4698.5clo0xmbf.com^
@@ -12025,14 +12411,17 @@
 ||4710.bestoffers-fe.com^
 ||4710.gofenews.com^
 ||4713.5clo0xmbf.com^
+||4714.4puuqeh41.com^
 ||4716.jemonews.com^
 ||4716.lookinews.com^
 ||4717.groovinews.com^
 ||4724.lookinews.com^
 ||4725.lookinews.com^
+||4726.bealanews.com^
 ||4727.freshalldaynews.com^
 ||4731.luronews.com^
 ||4733.4puuqeh41.com^
+||4735.gofenews.com^
 ||4735.j74y03g8u.com^
 ||4737.freshalldaynews.com^
 ||4739.4puuqeh41.com^
@@ -12043,6 +12432,7 @@
 ||4747.freshalldaynews.com^
 ||4748.gofenews.com^
 ||4750.freshalldaynews.com^
+||4752.deeginews.com^
 ||4754.k3718qw08.com^
 ||4756.j74y03g8u.com^
 ||4760.jumronews.com^
@@ -12051,9 +12441,11 @@
 ||4767.4puuqeh41.com^
 ||4769.ksrtmgoym.com^
 ||4769.shockynews.com^
+||4772.5clo0xmbf.com^
 ||4772.j74y03g8u.com^
 ||4776.4e8bjpldk.com^
 ||4777.km14hkusz.com^
+||4779.groovinews.com^
 ||4779.lootynews.com^
 ||4782.km14hkusz.com^
 ||4783.4puuqeh41.com^
@@ -12062,8 +12454,10 @@
 ||4783.reminews.com^
 ||4784.bealanews.com^
 ||4784.freshalldaynews.com^
+||4784.reminews.com^
 ||4785.huronews.com^
 ||4786.freshalldaynews.com^
+||4787.luronews.com^
 ||4790.4puuqeh41.com^
 ||4790.uho5m96ej.com^
 ||4791.freshalldaynews.com^
@@ -12072,6 +12466,7 @@
 ||4794.j74y03g8u.com^
 ||4795.5clo0xmbf.com^
 ||4796.jemonews.com^
+||4796.tegronews.com^
 ||4798.j74y03g8u.com^
 ||48.tegronews.com^
 ||4801.lookinews.com^
@@ -12082,9 +12477,11 @@
 ||4810.jemonews.com^
 ||4811.reminews.com^
 ||4812.jemonews.com^
+||4814.gofenews.com^
 ||4814.j74y03g8u.com^
 ||4817.freshalldaynews.com^
 ||4822.reminews.com^
+||4824.bestandgreatests.com^
 ||4824.freshalldaynews.com^
 ||4825.km14hkusz.com^
 ||4826.bestandgreatests.com^
@@ -12095,11 +12492,15 @@
 ||4830.freshalldaynews.com^
 ||4832.5clo0xmbf.com^
 ||4833.j74y03g8u.com^
+||4833.reminews.com^
 ||4834.groovinews.com^
 ||4834.j74y03g8u.com^
 ||4834.lookinews.com^
+||4834.tegronews.com^
+||4836.5clo0xmbf.com^
 ||4837.4puuqeh41.com^
 ||4838.lookinews.com^
+||4840.reminews.com^
 ||4841.jumronews.com^
 ||4841.k3718qw08.com^
 ||4841.reminews.com^
@@ -12112,6 +12513,7 @@
 ||4852.bestoffers-wt.com^
 ||4853.j74y03g8u.com^
 ||4859.bestoffers-wt.com^
+||4859.sifenews.com^
 ||4862.reminews.com^
 ||4865.j6t91e89q.com^
 ||4865.j74y03g8u.com^
@@ -12125,6 +12527,7 @@
 ||4876.uho5m96ej.com^
 ||4878.km14hkusz.com^
 ||4879.karponews.com^
+||4880.jemonews.com^
 ||4881.jemonews.com^
 ||4884.reminews.com^
 ||4885.bestoffers-wt.com^
@@ -12135,6 +12538,7 @@
 ||4891.freshalldaynews.com^
 ||4892.groovinews.com^
 ||4893.freshalldaynews.com^
+||4893.j74y03g8u.com^
 ||4899.gofenews.com^
 ||49.bestandgreatests.com^
 ||49.bestinterestings.com^
@@ -12144,9 +12548,12 @@
 ||4901.freshalldaynews.com^
 ||4903.j74y03g8u.com^
 ||4904.tegronews.com^
+||4905.jemonews.com^
 ||4905.luronews.com^
 ||4908.ksrtmgoym.com^
+||4909.l5eamr17d.com^
 ||4909.reminews.com^
+||4911.4puuqeh41.com^
 ||4914.k3718qw08.com^
 ||4915.ksrtmgoym.com^
 ||4918.km14hkusz.com^
@@ -12157,19 +12564,25 @@
 ||4922.5clo0xmbf.com^
 ||4927.j74y03g8u.com^
 ||493.lycheenews.com^
+||4930.79j68qav2.com^
 ||4935.5clo0xmbf.com^
+||4935.lookinews.com^
 ||4936.groovinews.com^
 ||4941.freshalldaynews.com^
 ||4941.k3718qw08.com^
+||4941.reminews.com^
 ||4944.gofenews.com^
+||4945.cosmicnewspulse.com^
 ||4945.j74y03g8u.com^
 ||4947.lootynews.com^
 ||4952.j74y03g8u.com^
+||4955.bestandgreatests.com^
 ||4955.groovinews.com^
 ||4955.karponews.com^
 ||4955.km14hkusz.com^
 ||4957.ksrtmgoym.com^
 ||4957.reminews.com^
+||4961.4puuqeh41.com^
 ||4961.k3718qw08.com^
 ||4965.karponews.com^
 ||4966.4puuqeh41.com^
@@ -12184,15 +12597,22 @@
 ||4973.km14hkusz.com^
 ||4973.ksrtmgoym.com^
 ||4973.ohhmyoffers.com^
+||4973.reminews.com^
 ||4975.shockynews.com^
 ||4978.sosqboh85.com^
 ||4981.jemonews.com^
 ||4984.j74y03g8u.com^
 ||4984.reminews.com^
+||498461.shockynews.com^
+||4985.79j68qav2.com^
 ||4986.jemonews.com^
 ||4990.karponews.com^
+||4992.gofenews.com^
 ||4993.5clo0xmbf.com^
+||4993.luronews.com^
+||4994.gofenews.com^
 ||4994.ksrtmgoym.com^
+||4994.lootynews.com^
 ||4996.j74y03g8u.com^
 ||4996.lookinews.com^
 ||4br.lycheenews.com^
@@ -12212,6 +12632,7 @@
 ||4vik0111.jessunews.com^
 ||4vin.lycheenews.com^
 ||5.bealanews.com^
+||5.cosmicnewspulse.com^
 ||5.findgreatnews.com^
 ||5.guesswhatnews.com^
 ||5.jessunews.com^
@@ -12225,18 +12646,21 @@
 ||5.y2sysv81v.com^
 ||50.lycheenews.com^
 ||5001.url25fatm.com^
+||5002.gofenews.com^
 ||5002.jemonews.com^
 ||5003.km14hkusz.com^
 ||5005.gofenews.com^
 ||5005.jumronews.com^
 ||5006.reminews.com^
 ||5007.5clo0xmbf.com^
+||5007.bestandgreatests.com^
 ||5008.reminews.com^
 ||5009.ksrtmgoym.com^
 ||5010.k3718qw08.com^
 ||5010.lookinews.com^
 ||5011.freshalldaynews.com^
 ||5012.lootynews.com^
+||5013.4puuqeh41.com^
 ||5013.ksrtmgoym.com^
 ||5013.ruranews.com^
 ||5017.ksrtmgoym.com^
@@ -12268,6 +12692,7 @@
 ||5049.freshalldaynews.com^
 ||5050.luronews.com^
 ||5052.freshalldaynews.com^
+||5053.freshalldaynews.com^
 ||5059.reminews.com^
 ||5062.bestandgreatests.com^
 ||5062.freshalldaynews.com^
@@ -12280,9 +12705,11 @@
 ||5069.freshalldaynews.com^
 ||5070.jemonews.com^
 ||5070.km14hkusz.com^
+||5071.deeginews.com^
 ||5071.km14hkusz.com^
 ||5072.bestoffers-wt.com^
 ||5072.jumronews.com^
+||5072.reminews.com^
 ||5074.j74y03g8u.com^
 ||5078.gofenews.com^
 ||5078.km14hkusz.com^
@@ -12302,6 +12729,7 @@
 ||5102.zgoa097eh.com^
 ||511.jumronews.com^
 ||5112.rookinews.com^
+||5113.reminews.com^
 ||5116.j74y03g8u.com^
 ||5117.reminews.com^
 ||512.reminews.com^
@@ -12314,18 +12742,21 @@
 ||5126.bestoffers-fe.com^
 ||5126.ksrtmgoym.com^
 ||5127.lootynews.com^
+||5129.l5eamr17d.com^
 ||512w.reminews.com^
 ||5130.km14hkusz.com^
 ||5131.j74y03g8u.com^
 ||5132.guesswhatnews.com^
 ||5134.gofenews.com^
 ||5137.luronews.com^
+||5143.4puuqeh41.com^
 ||5145.karponews.com^
 ||5148.km14hkusz.com^
 ||5148.luronews.com^
 ||5149.ruranews.com^
 ||5150.reminews.com^
 ||5150.shockynews.com^
+||5151.jemonews.com^
 ||5153.freshalldaynews.com^
 ||5156.lycheenews.com^
 ||5157.lootynews.com^
@@ -12335,10 +12766,12 @@
 ||5162.lookinews.com^
 ||5163.gofenews.com^
 ||5163.sosqboh85.com^
+||5165.gofenews.com^
 ||5168.ksrtmgoym.com^
 ||5168.lootynews.com^
 ||5170.4puuqeh41.com^
 ||5173.jemonews.com^
+||5174.luronews.com^
 ||51761.lootynews.com^
 ||5177.gofenews.com^
 ||517s61.loopanews.com^
@@ -12353,24 +12786,31 @@
 ||5189.j74y03g8u.com^
 ||5191.reminews.com^
 ||5195.j74y03g8u.com^
+||5195.jemonews.com^
 ||5198.lootynews.com^
 ||5199.5clo0xmbf.com^
 ||5199.km14hkusz.com^
 ||5203.freshalldaynews.com^
+||5203.tegronews.com^
 ||5204.luronews.com^
+||5206.jemonews.com^
 ||5207.reminews.com^
+||5208.4puuqeh41.com^
 ||5208.5clo0xmbf.com^
+||5211.4puuqeh41.com^
 ||5212.loopanews.com^
 ||5214.reminews.com^
 ||5216.reminews.com^
 ||5218.gofenews.com^
 ||5224.freshalldaynews.com^
+||5224.j74y03g8u.com^
 ||5224.ksrtmgoym.com^
 ||5225.bestandgreatests.com^
 ||5227.bestandgreatests.com^
 ||5228.j74y03g8u.com^
 ||5228.km14hkusz.com^
 ||5230.freshalldaynews.com^
+||5233.gofenews.com^
 ||5234.deeginews.com^
 ||5235.km14hkusz.com^
 ||5237.4puuqeh41.com^
@@ -12396,6 +12836,7 @@
 ||5265.bealanews.com^
 ||5265.bestoffers-fe.com^
 ||5265.karponews.com^
+||5265.lycheenews.com^
 ||5267.bestandgreatests.com^
 ||5267.km14hkusz.com^
 ||5268.km14hkusz.com^
@@ -12419,6 +12860,7 @@
 ||5277.freshalldaynews.com^
 ||5277.k3718qw08.com^
 ||5277.km14hkusz.com^
+||5278.deeginews.com^
 ||5278.freshalldaynews.com^
 ||5279.bestandgreatests.com^
 ||5279.j74y03g8u.com^
@@ -12442,6 +12884,7 @@
 ||5290.leranews.com^
 ||5291.4puuqeh41.com^
 ||5292.bealanews.com^
+||5292.gofenews.com^
 ||5293.bestandgreatests.com^
 ||5293.gofenews.com^
 ||5298.reminews.com^
@@ -12456,19 +12899,25 @@
 ||5314.km14hkusz.com^
 ||5315.freshalldaynews.com^
 ||5316.guesswhatnews.com^
+||5317.lookinews.com^
 ||5318.j74y03g8u.com^
 ||5319.j74y03g8u.com^
 ||532.groovinews.com^
 ||5322.j74y03g8u.com^
 ||5322.jemonews.com^
+||5325.jemonews.com^
+||5327.lookinews.com^
 ||533.groovinews.com^
 ||5330.guesswhatnews.com^
 ||5333.5clo0xmbf.com^
 ||5335.j74y03g8u.com^
 ||5336.4puuqeh41.com^
+||5336.groovinews.com^
+||5336.reminews.com^
 ||5337.reminews.com^
 ||5338.uho5m96ej.com^
 ||5340.freshalldaynews.com^
+||5340.luronews.com^
 ||5341.freshalldaynews.com^
 ||5345.j74y03g8u.com^
 ||5347.freshalldaynews.com^
@@ -12477,6 +12926,7 @@
 ||5349.bealanews.com^
 ||5350.km14hkusz.com^
 ||5350.loopanews.com^
+||5350.reminews.com^
 ||5352.freshalldaynews.com^
 ||5352.ksrtmgoym.com^
 ||5353.ksrtmgoym.com^
@@ -12491,6 +12941,7 @@
 ||5358.freshalldaynews.com^
 ||5358.j74y03g8u.com^
 ||5358.karponews.com^
+||5358.w23eidn9j.com^
 ||5359.j74y03g8u.com^
 ||5359.ksrtmgoym.com^
 ||5360.bestandgreatests.com^
@@ -12506,29 +12957,35 @@
 ||5370.deeginews.com^
 ||5371.reminews.com^
 ||5372.km14hkusz.com^
+||5373.833enmhob.com^
 ||5373.freshalldaynews.com^
 ||5373.ksrtmgoym.com^
 ||5374.4puuqeh41.com^
 ||5374.freshalldaynews.com^
 ||5375.reminews.com^
 ||5377.ksrtmgoym.com^
+||5378.luronews.com^
 ||5380.groovinews.com^
 ||5383.freshalldaynews.com^
 ||5385.luronews.com^
 ||5387.freshalldaynews.com^
 ||5388.lookinews.com^
 ||5390.freshalldaynews.com^
+||5390.lycheenews.com^
 ||5392.freshalldaynews.com^
 ||5393.jemonews.com^
 ||5394.karponews.com^
 ||5394.lootynews.com^
 ||5395.freshalldaynews.com^
 ||5398.lookinews.com^
+||54.tegronews.com^
 ||5400.lookinews.com^
 ||5401.reminews.com^
 ||5403.freshalldaynews.com^
 ||5403.km14hkusz.com^
+||5404.lookinews.com^
 ||5405.luronews.com^
+||5406.reminews.com^
 ||5407.shockynews.com^
 ||5408.4puuqeh41.com^
 ||5408.x4q4g2zy7.com^
@@ -12536,6 +12993,7 @@
 ||5415.lookinews.com^
 ||5416.groovinews.com^
 ||5416.j74y03g8u.com^
+||5416.ksrtmgoym.com^
 ||5416461.4puuqeh41.com^
 ||541653.lycheenews.com^
 ||541653.rhsy174op.com^
@@ -12557,8 +13015,10 @@
 ||5433.deeginews.com^
 ||5434.karponews.com^
 ||5438.reminews.com^
+||5440.luronews.com^
 ||5441.ksrtmgoym.com^
 ||5443.4puuqeh41.com^
+||5444.tegronews.com^
 ||5445.lootynews.com^
 ||5446.reminews.com^
 ||5447.karponews.com^
@@ -12597,21 +13057,26 @@
 ||5491.freshalldaynews.com^
 ||5492.j74y03g8u.com^
 ||5492.jemonews.com^
+||5492.l5eamr17d.com^
 ||5493.bestoffers-wt.com^
 ||5493.freshalldaynews.com^
 ||5495.ksrtmgoym.com^
+||5496.cosmicnewspulse.com^
 ||5497.j74y03g8u.com^
 ||5497.lookinews.com^
 ||54ee1.reminews.com^
 ||55.findgreatnews.com^
 ||55.jessunews.com^
+||55.uyybde07w.com^
 ||55.wemakebestnews.com^
 ||55.y2sysv81v.com^
 ||5500.bealanews.com^
 ||5500.j74y03g8u.com^
 ||5501.km14hkusz.com^
 ||5501.uho5m96ej.com^
+||5502.jemonews.com^
 ||5502.ksrtmgoym.com^
+||5503.deeginews.com^
 ||5503.j74y03g8u.com^
 ||5504.gofenews.com^
 ||5505.5clo0xmbf.com^
@@ -12620,15 +13085,20 @@
 ||5509.groovinews.com^
 ||5509.j74y03g8u.com^
 ||5509.jemonews.com^
+||5510.jemonews.com^
 ||5512.freshalldaynews.com^
 ||5513.shockynews.com^
 ||5515.freshalldaynews.com^
 ||5515.leranews.com^
+||5517.bestandgreatests.com^
 ||5518.deeginews.com^
 ||5518.freshalldaynews.com^
 ||5522.karponews.com^
 ||5523.jemonews.com^
 ||5524.bestandgreatests.com^
+||5524.j74y03g8u.com^
+||5524.sosqboh85.com^
+||5525.lootynews.com^
 ||5525.reminews.com^
 ||5527.4puuqeh41.com^
 ||5527.bestandgreatests.com^
@@ -12642,13 +13112,16 @@
 ||5530.karponews.com^
 ||5530.lookinews.com^
 ||5532.freshalldaynews.com^
+||5533.5clo0xmbf.com^
 ||5536.km14hkusz.com^
 ||5536.ksrtmgoym.com^
 ||5537.freshalldaynews.com^
 ||554.luronews.com^
 ||5540.bestandgreatests.com^
 ||5546.freshalldaynews.com^
+||5546.luronews.com^
 ||5547.j74y03g8u.com^
+||5548.bealanews.com^
 ||5549.jemonews.com^
 ||555.bestandgreatests.com^
 ||555.jumronews.com^
@@ -12670,6 +13143,8 @@
 ||5555.ohhmyoffers.com^
 ||5556.bestandgreatests.com^
 ||5556.reminews.com^
+||5556.shockynews.com^
+||5557.gofenews.com^
 ||5559.lookinews.com^
 ||5560.deeginews.com^
 ||5561.freshalldaynews.com^
@@ -12688,6 +13163,8 @@
 ||5568.km14hkusz.com^
 ||5569.bestoffers-fe.com^
 ||5569.lookinews.com^
+||5570.luronews.com^
+||5572.5clo0xmbf.com^
 ||5572.km14hkusz.com^
 ||5573.groovinews.com^
 ||5574.freshalldaynews.com^
@@ -12702,10 +13179,13 @@
 ||5579.huronews.com^
 ||5579.jemonews.com^
 ||5579.km14hkusz.com^
+||5580.jemonews.com^
 ||5580.ksrtmgoym.com^
 ||5582.lootynews.com^
 ||5583.jemonews.com^
+||5583.luronews.com^
 ||5583.reminews.com^
+||5584.4puuqeh41.com^
 ||5584.jemonews.com^
 ||5584.uho5m96ej.com^
 ||5585.bestandgreatests.com^
@@ -12746,6 +13226,7 @@
 ||55rtjikredf65.lycheenews.com^
 ||56.deeginews.com^
 ||5600.bestandgreatests.com^
+||5600.bestoffers-wt.com^
 ||5601.freshalldaynews.com^
 ||5601.lookinews.com^
 ||5602.freshalldaynews.com^
@@ -12788,6 +13269,7 @@
 ||5630.karponews.com^
 ||5630.km14hkusz.com^
 ||5631.bestoffers-fe.com^
+||5634.4puuqeh41.com^
 ||5637.freshalldaynews.com^
 ||5640.ksrtmgoym.com^
 ||5641.km14hkusz.com^
@@ -12808,8 +13290,10 @@
 ||5651.karponews.com^
 ||5651.ksrtmgoym.com^
 ||5652.freshalldaynews.com^
+||5654.4puuqeh41.com^
 ||5654.uho5m96ej.com^
 ||5655.4puuqeh41.com^
+||5655.bealanews.com^
 ||5655.reminews.com^
 ||5657.km14hkusz.com^
 ||5659.luronews.com^
@@ -12830,6 +13314,7 @@
 ||5669.freshalldaynews.com^
 ||5669.leranews.com^
 ||5670.freshalldaynews.com^
+||5670.reminews.com^
 ||5671.bestandgreatests.com^
 ||5672.freshalldaynews.com^
 ||5673.lookinews.com^
@@ -12865,6 +13350,7 @@
 ||5685.km14hkusz.com^
 ||5685.leranews.com^
 ||5685.lookinews.com^
+||5685.luronews.com^
 ||5685.reminews.com^
 ||5687.freshalldaynews.com^
 ||5687.luronews.com^
@@ -12894,7 +13380,9 @@
 ||5698.bealanews.com^
 ||5698.deeginews.com^
 ||5698.w23eidn9j.com^
+||5699.jemonews.com^
 ||5699.luronews.com^
+||56porh7.jumronews.com^
 ||56porh7.lookinews.com^
 ||57.deeginews.com^
 ||57.tegronews.com^
@@ -12912,8 +13400,11 @@
 ||5715.gofenews.com^
 ||5716.4puuqeh41.com^
 ||5716.j74y03g8u.com^
+||5716.shockynews.com^
+||5716.sifenews.com^
 ||5717.4puuqeh41.com^
 ||5717.bestoffers-wt.com^
+||5717.gofenews.com^
 ||5717.reminews.com^
 ||5718.groovinews.com^
 ||5720.deeginews.com^
@@ -12927,6 +13418,7 @@
 ||5726.lookinews.com^
 ||5726.reminews.com^
 ||5727.j74y03g8u.com^
+||5728.deeginews.com^
 ||5731.4puuqeh41.com^
 ||5731.jumronews.com^
 ||5733.deeginews.com^
@@ -12939,9 +13431,12 @@
 ||5743.reminews.com^
 ||5744.4puuqeh41.com^
 ||5745.seponews.com^
+||5746.guesswhatnews.com^
 ||5746.j74y03g8u.com^
 ||5747.reminews.com^
 ||5748.reminews.com^
+||5748w.reminews.com^
+||5749.bealanews.com^
 ||5750.j74y03g8u.com^
 ||5752.huronews.com^
 ||5753.freshalldaynews.com^
@@ -12963,6 +13458,7 @@
 ||5768.karponews.com^
 ||5768.luronews.com^
 ||5769.5clo0xmbf.com^
+||5769.luronews.com^
 ||5771.j74y03g8u.com^
 ||5774.4puuqeh41.com^
 ||5775.j74y03g8u.com^
@@ -12971,10 +13467,13 @@
 ||5778.bestandgreatests.com^
 ||5778.gofenews.com^
 ||5780.lookinews.com^
+||5783.deeginews.com^
 ||5783.km14hkusz.com^
 ||5787.k3718qw08.com^
 ||5789.4puuqeh41.com^
+||5790.lookinews.com^
 ||5793.bealanews.com^
+||5793.luronews.com^
 ||5794.uho5m96ej.com^
 ||5795.bestandgreatests.com^
 ||5795.luronews.com^
@@ -12983,12 +13482,17 @@
 ||5799.reminews.com^
 ||5801.freshalldaynews.com^
 ||5803.ruranews.com^
+||5805.deeginews.com^
+||5806.jumronews.com^
 ||5808.jemonews.com^
 ||5809.lycheenews.com^
 ||581.j6t91e89q.com^
 ||5812.w23eidn9j.com^
 ||5813.bestandgreatests.com^
+||5815.luronews.com^
+||5816.4puuqeh41.com^
 ||5818.reminews.com^
+||5819.l5eamr17d.com^
 ||582.groovinews.com^
 ||5822.freshalldaynews.com^
 ||5823.luronews.com^
@@ -13006,7 +13510,9 @@
 ||5835.shockynews.com^
 ||583567986h.bestoffers-fe.com^
 ||583567986h.ruranews.com^
+||5836.4puuqeh41.com^
 ||5836.lookinews.com^
+||5836.luronews.com^
 ||5837.luronews.com^
 ||5838.bestandgreatests.com^
 ||5838.bestoffers-fe.com^
@@ -13015,6 +13521,8 @@
 ||5844.j74y03g8u.com^
 ||5845.lookinews.com^
 ||5846.reminews.com^
+||5851.5clo0xmbf.com^
+||5851.79j68qav2.com^
 ||5851.bealanews.com^
 ||5851.k3718qw08.com^
 ||5854.freshalldaynews.com^
@@ -13023,9 +13531,11 @@
 ||5857.freshalldaynews.com^
 ||5857.ksrtmgoym.com^
 ||5861.reminews.com^
+||5862.jemonews.com^
 ||5865.j74y03g8u.com^
 ||5866.bestoffers-fe.com^
 ||5867.karponews.com^
+||5868.freshalldaynews.com^
 ||5868.lootynews.com^
 ||5868.ruranews.com^
 ||5869.bestandgreatests.com^
@@ -13038,6 +13548,7 @@
 ||5880.j74y03g8u.com^
 ||5884.reminews.com^
 ||5885.ksrtmgoym.com^
+||5886.79j68qav2.com^
 ||5886.reminews.com^
 ||5888.lookinews.com^
 ||5890.4puuqeh41.com^
@@ -13052,6 +13563,7 @@
 ||5897.bestandgreatests.com^
 ||5898.freshalldaynews.com^
 ||5898.km14hkusz.com^
+||5899.4puuqeh41.com^
 ||5899.jemonews.com^
 ||59.deeginews.com^
 ||59.lycheenews.com^
@@ -13110,12 +13622,15 @@
 ||5935.reminews.com^
 ||5938.reminews.com^
 ||5939.freshalldaynews.com^
+||5939.jemonews.com^
 ||5940.bestoffers-wt.com^
 ||5940.km14hkusz.com^
+||5940.loopanews.com^
 ||5940.ruranews.com^
 ||5941.bestoffers-fe.com^
 ||5941.ksrtmgoym.com^
 ||5942.bestandgreatests.com^
+||5942.lootynews.com^
 ||5943.5clo0xmbf.com^
 ||5943.bestandgreatests.com^
 ||5943.km14hkusz.com^
@@ -13154,6 +13669,7 @@
 ||5968.gofenews.com^
 ||5968.reminews.com^
 ||5969.freshalldaynews.com^
+||5969.l5eamr17d.com^
 ||597.reminews.com^
 ||5970.bestandgreatests.com^
 ||5970.bestoffers-wt.com^
@@ -13169,6 +13685,7 @@
 ||5974.lootynews.com^
 ||5975.selornews.com^
 ||5976.ksrtmgoym.com^
+||5978.jemonews.com^
 ||5978.rookinews.com^
 ||597w.reminews.com^
 ||5980.freshalldaynews.com^
@@ -13209,6 +13726,7 @@
 ||5996.jemonews.com^
 ||5997.bestoffers-wt.com^
 ||5997.freshalldaynews.com^
+||5br.lycheenews.com^
 ||5fys0111.bealanews.com^
 ||5rib0111.bealanews.com^
 ||5t41.lootynews.com^
@@ -13228,6 +13746,7 @@
 ||6.uyybde07w.com^
 ||6.wemakebestnews.com^
 ||6.y2sysv81v.com^
+||60.deeginews.com^
 ||60.lycheenews.com^
 ||6000.bestoffers-wt.com^
 ||6000.freshalldaynews.com^
@@ -13283,6 +13802,7 @@
 ||6029.freshalldaynews.com^
 ||6029.km14hkusz.com^
 ||6029.luronews.com^
+||6029.reminews.com^
 ||6030.4puuqeh41.com^
 ||6030.bestandgreatests.com^
 ||6031.5clo0xmbf.com^
@@ -13292,6 +13812,7 @@
 ||6032.bestandgreatests.com^
 ||6033.bestandgreatests.com^
 ||6033.freshalldaynews.com^
+||6033.lootynews.com^
 ||6034.935ft4j96.com^
 ||6034.bestandgreatests.com^
 ||6034.k3718qw08.com^
@@ -13302,8 +13823,10 @@
 ||6037.gofenews.com^
 ||6037.j74y03g8u.com^
 ||6037.jemonews.com^
+||6037.reminews.com^
 ||6038.bestandgreatests.com^
 ||6038.freshalldaynews.com^
+||6038.reminews.com^
 ||6039.jemonews.com^
 ||6039.ksrtmgoym.com^
 ||6039.lookinews.com^
@@ -13387,6 +13910,7 @@
 ||6078.4puuqeh41.com^
 ||6079.bestoffers-wt.com^
 ||6079.freshalldaynews.com^
+||6079.reminews.com^
 ||6079.uho5m96ej.com^
 ||6080.freshalldaynews.com^
 ||6080.km14hkusz.com^
@@ -13398,6 +13922,7 @@
 ||6086.bealanews.com^
 ||6086.j74y03g8u.com^
 ||6087.luronews.com^
+||6087.shockynews.com^
 ||6090.j74y03g8u.com^
 ||6090.karponews.com^
 ||6091.j74y03g8u.com^
@@ -13446,6 +13971,7 @@
 ||6109.4puuqeh41.com^
 ||6109.bestoffers-fe.com^
 ||6109.lookinews.com^
+||6110.7bkzlyfvl.com^
 ||6110.freshalldaynews.com^
 ||6113.bestoffers-wt.com^
 ||6113.karponews.com^
@@ -13506,6 +14032,7 @@
 ||6137.freshalldaynews.com^
 ||6138.bestandgreatests.com^
 ||6138.bestoffers-wt.com^
+||6138.groovinews.com^
 ||6138.km14hkusz.com^
 ||6138.ksrtmgoym.com^
 ||6138.reminews.com^
@@ -13567,6 +14094,7 @@
 ||6162.freshalldaynews.com^
 ||6162.reminews.com^
 ||6163.freshalldaynews.com^
+||6163.karponews.com^
 ||6163.lookinews.com^
 ||6164.bestandgreatests.com^
 ||6164.freshalldaynews.com^
@@ -13604,6 +14132,7 @@
 ||6179.uho5m96ej.com^
 ||6180.reminews.com^
 ||6182.freshalldaynews.com^
+||6182.jemonews.com^
 ||6183.freshalldaynews.com^
 ||6184.freshalldaynews.com^
 ||6184.km14hkusz.com^
@@ -13673,6 +14202,8 @@
 ||6210.guesswhatnews.com^
 ||6211.4puuqeh41.com^
 ||6214.bestandgreatests.com^
+||6214.deeginews.com^
+||6215.4puuqeh41.com^
 ||6215.guesswhatnews.com^
 ||6216.km14hkusz.com^
 ||6217.freshalldaynews.com^
@@ -13716,6 +14247,7 @@
 ||6233.freshalldaynews.com^
 ||6233.jemonews.com^
 ||6233.lookinews.com^
+||6233.reminews.com^
 ||6234.freshalldaynews.com^
 ||6234.groovinews.com^
 ||6235.freshalldaynews.com^
@@ -13723,6 +14255,7 @@
 ||6237.bestandgreatests.com^
 ||6237.gofenews.com^
 ||6237.reminews.com^
+||6238.rookinews.com^
 ||6239.bestandgreatests.com^
 ||6239.freshalldaynews.com^
 ||6239.tegronews.com^
@@ -13732,6 +14265,7 @@
 ||624.km14hkusz.com^
 ||6240.4puuqeh41.com^
 ||6240.bestoffers-wt.com^
+||6240.luronews.com^
 ||6241.jemonews.com^
 ||6241.karponews.com^
 ||6242.bestandgreatests.com^
@@ -13779,6 +14313,7 @@
 ||6262.groovinews.com^
 ||6263.bestandgreatests.com^
 ||6263.luronews.com^
+||6263.reminews.com^
 ||6263.uho5m96ej.com^
 ||6265.freshalldaynews.com^
 ||6265.j74y03g8u.com^
@@ -13790,6 +14325,7 @@
 ||6267.freshalldaynews.com^
 ||6268.freshalldaynews.com^
 ||6269.km14hkusz.com^
+||6270.cosmicnewspulse.com^
 ||6270.freshalldaynews.com^
 ||6270.km14hkusz.com^
 ||6270.reminews.com^
@@ -13806,6 +14342,7 @@
 ||6274.freshalldaynews.com^
 ||6274.gofenews.com^
 ||6274.km14hkusz.com^
+||6274.sifenews.com^
 ||6275.ksrtmgoym.com^
 ||6275.luronews.com^
 ||6275.reminews.com^
@@ -13845,6 +14382,7 @@
 ||6288.reminews.com^
 ||6289.gofenews.com^
 ||6289.ksrtmgoym.com^
+||6289.lookinews.com^
 ||6290.bestandgreatests.com^
 ||6291.freshalldaynews.com^
 ||6291.j74y03g8u.com^
@@ -13885,6 +14423,7 @@
 ||6303.luronews.com^
 ||6304.freshalldaynews.com^
 ||6304.lookinews.com^
+||6304.luronews.com^
 ||6304.reminews.com^
 ||6305.karponews.com^
 ||6305.reminews.com^
@@ -13959,6 +14498,7 @@
 ||6336.km14hkusz.com^
 ||6337.freshalldaynews.com^
 ||6337.km14hkusz.com^
+||6337.reminews.com^
 ||6338.freshalldaynews.com^
 ||6338.gofenews.com^
 ||6339.karponews.com^
@@ -13975,11 +14515,13 @@
 ||6343.j74y03g8u.com^
 ||6344.freshalldaynews.com^
 ||6345.karponews.com^
+||6345.reminews.com^
 ||6346.lookinews.com^
 ||6346.reminews.com^
 ||6347.freshalldaynews.com^
 ||6349.freshalldaynews.com^
 ||6350.4puuqeh41.com^
+||6350.jemonews.com^
 ||6350.ksrtmgoym.com^
 ||6351.4puuqeh41.com^
 ||6351.bestandgreatests.com^
@@ -14041,6 +14583,7 @@
 ||6379.luronews.com^
 ||6380.bestandgreatests.com^
 ||6380.freshalldaynews.com^
+||6381.4puuqeh41.com^
 ||6381.bestandgreatests.com^
 ||6381.guesswhatnews.com^
 ||6382.km14hkusz.com^
@@ -14085,6 +14628,7 @@
 ||6408.km14hkusz.com^
 ||6408.lookinews.com^
 ||6409.freshalldaynews.com^
+||6410.km14hkusz.com^
 ||6411.bestandgreatests.com^
 ||6411.freshalldaynews.com^
 ||6411.karponews.com^
@@ -14116,6 +14660,7 @@
 ||6426.freshalldaynews.com^
 ||6426.gofenews.com^
 ||6426.karponews.com^
+||6427.reminews.com^
 ||6427.seponews.com^
 ||6427.tegronews.com^
 ||6428.karponews.com^
@@ -14125,6 +14670,7 @@
 ||6431.freshalldaynews.com^
 ||6431.uho5m96ej.com^
 ||6432.freshalldaynews.com^
+||6432.luronews.com^
 ||6433.km14hkusz.com^
 ||6433.reminews.com^
 ||6434.groovinews.com^
@@ -14156,6 +14702,7 @@
 ||6447.5clo0xmbf.com^
 ||6447.bestandgreatests.com^
 ||6447.freshalldaynews.com^
+||6447.groovinews.com^
 ||6447.luronews.com^
 ||6447.shockynews.com^
 ||6448.bestoffers-wt.com^
@@ -14194,6 +14741,7 @@
 ||6470.freshalldaynews.com^
 ||6471.freshalldaynews.com^
 ||6471.karponews.com^
+||6472.4puuqeh41.com^
 ||6472.bestoffers-fe.com^
 ||6472.freshalldaynews.com^
 ||6472.karponews.com^
@@ -14228,7 +14776,9 @@
 ||6483.freshalldaynews.com^
 ||6485.5clo0xmbf.com^
 ||6485.freshalldaynews.com^
+||6486.cosmicnewspulse.com^
 ||6486.ksrtmgoym.com^
+||6486.lookinews.com^
 ||6487.freshalldaynews.com^
 ||6488.freshalldaynews.com^
 ||6489.5clo0xmbf.com^
@@ -14236,6 +14786,7 @@
 ||6490.deeginews.com^
 ||6490.km14hkusz.com^
 ||6490.uho5m96ej.com^
+||6491.4puuqeh41.com^
 ||6491.freshalldaynews.com^
 ||6492.freshalldaynews.com^
 ||6492.ksrtmgoym.com^
@@ -14248,8 +14799,10 @@
 ||6495.bestandgreatests.com^
 ||6495.freshalldaynews.com^
 ||6495.gofenews.com^
+||6495.luronews.com^
 ||6496.gofenews.com^
 ||6498.reminews.com^
+||6498.sifenews.com^
 ||6500.bestandgreatests.com^
 ||6500.freshalldaynews.com^
 ||6503.reminews.com^
@@ -14258,6 +14811,7 @@
 ||6505.jumronews.com^
 ||6505.lookinews.com^
 ||6506.freshalldaynews.com^
+||6508.reminews.com^
 ||6509.79j68qav2.com^
 ||6510.freshalldaynews.com^
 ||6511.bestandgreatests.com^
@@ -14276,12 +14830,15 @@
 ||6515.loopanews.com^
 ||6516.luronews.com^
 ||6517.lookinews.com^
+||6518.cosmicnewspulse.com^
 ||6518.freshalldaynews.com^
 ||6519.gofenews.com^
+||6520.4puuqeh41.com^
 ||6520.j74y03g8u.com^
 ||6520.luronews.com^
 ||6522.freshalldaynews.com^
 ||6523.freshalldaynews.com^
+||6525.bestandgreatests.com^
 ||6525.lilonews.com^
 ||6525.lookinews.com^
 ||6526.deeginews.com^
@@ -14315,6 +14872,7 @@
 ||6541.km14hkusz.com^
 ||6542.deeginews.com^
 ||6542.jemonews.com^
+||6543.gofenews.com^
 ||6543.luronews.com^
 ||6544.4puuqeh41.com^
 ||6544.reminews.com^
@@ -14326,6 +14884,7 @@
 ||654629.ruranews.com^
 ||654629.w23eidn9j.com^
 ||6547.j74y03g8u.com^
+||6548.cosmicnewspulse.com^
 ||6550.4puuqeh41.com^
 ||6550.k45z7tagm.com^
 ||6550.w23eidn9j.com^
@@ -14350,6 +14909,9 @@
 ||657.lilonews.com^
 ||6572.bestoffers-wt.com^
 ||6572.ksrtmgoym.com^
+||6573.jemonews.com^
+||6574.jemonews.com^
+||6576.79j68qav2.com^
 ||6576.gofenews.com^
 ||6576.luronews.com^
 ||6576.uho5m96ej.com^
@@ -14368,12 +14930,14 @@
 ||6584.lookinews.com^
 ||6585.bestandgreatests.com^
 ||6585.freshalldaynews.com^
+||6585.luronews.com^
 ||6586.freshalldaynews.com^
 ||6587.sosqboh85.com^
 ||6588.freshalldaynews.com^
 ||6588.gofenews.com^
 ||6588.lookinews.com^
 ||6588.reminews.com^
+||6589.jumronews.com^
 ||6590.bealanews.com^
 ||6591.bealanews.com^
 ||6591.freshalldaynews.com^
@@ -14394,16 +14958,21 @@
 ||6602.guesswhatnews.com^
 ||6604.deeginews.com^
 ||6604.j74y03g8u.com^
+||6604.loopanews.com^
 ||6604.sosqboh85.com^
+||6605.gofenews.com^
 ||6605.reminews.com^
 ||6606.km14hkusz.com^
 ||6606.reminews.com^
 ||6607.freshalldaynews.com^
+||6607.luronews.com^
 ||6607.reminews.com^
 ||6608.km14hkusz.com^
 ||6609.luronews.com^
+||6610.guesswhatnews.com^
 ||6610.uho5m96ej.com^
 ||6611.freshalldaynews.com^
+||6611.jemonews.com^
 ||6612.bestandgreatests.com^
 ||6612.lookinews.com^
 ||6614.79j68qav2.com^
@@ -14452,6 +15021,7 @@
 ||6645.j74y03g8u.com^
 ||6647.bestandgreatests.com^
 ||6647.gofenews.com^
+||6647.selornews.com^
 ||6648.groovinews.com^
 ||6648.km14hkusz.com^
 ||6648.pr0xqyrgl.com^
@@ -14467,6 +15037,7 @@
 ||6652.uho5m96ej.com^
 ||6653.ksrtmgoym.com^
 ||6654.luronews.com^
+||6654.reminews.com^
 ||6655.lookinews.com^
 ||6656.freshalldaynews.com^
 ||6657.freshalldaynews.com^
@@ -14476,7 +15047,9 @@
 ||6659.reminews.com^
 ||666.groovinews.com^
 ||666.jumronews.com^
+||6660.pr0xqyrgl.com^
 ||6661.reminews.com^
+||6662.jemonews.com^
 ||6664.freshalldaynews.com^
 ||6664.gofenews.com^
 ||6664.karponews.com^
@@ -14517,7 +15090,9 @@
 ||6687.freshalldaynews.com^
 ||6687.j74y03g8u.com^
 ||6687.lookinews.com^
+||6687.w23eidn9j.com^
 ||6688.4puuqeh41.com^
+||6689.5clo0xmbf.com^
 ||6689.gofenews.com^
 ||6690.freshalldaynews.com^
 ||6690.karponews.com^
@@ -14538,6 +15113,7 @@
 ||6698.reminews.com^
 ||6699.bestandgreatests.com^
 ||6699.freshalldaynews.com^
+||67.deeginews.com^
 ||6701.freshalldaynews.com^
 ||6701.km14hkusz.com^
 ||6701.uho5m96ej.com^
@@ -14561,11 +15137,13 @@
 ||6712.freshalldaynews.com^
 ||6712.km14hkusz.com^
 ||6712.ksrtmgoym.com^
+||6713.reminews.com^
 ||6715.reminews.com^
 ||6716.gofenews.com^
 ||6716.reminews.com^
 ||6717.bestandgreatests.com^
 ||6718.freshalldaynews.com^
+||6718.ksrtmgoym.com^
 ||6719.freshalldaynews.com^
 ||6720.freshalldaynews.com^
 ||6722.km14hkusz.com^
@@ -14645,15 +15223,18 @@
 ||6775.km14hkusz.com^
 ||6775.reminews.com^
 ||6776.bestoffers-fe.com^
+||6776.deeginews.com^
 ||6778.4puuqeh41.com^
 ||6778.freshalldaynews.com^
 ||6778.j74y03g8u.com^
 ||6779.5clo0xmbf.com^
+||6779.gofenews.com^
 ||6779.j74y03g8u.com^
 ||6780.bestandgreatests.com^
 ||6780.bestoffers-fe.com^
 ||6780.km14hkusz.com^
 ||6780.reminews.com^
+||6781.bestandgreatests.com^
 ||6782.bestandgreatests.com^
 ||6782.freshalldaynews.com^
 ||6785.km14hkusz.com^
@@ -14688,6 +15269,7 @@
 ||68.lycheenews.com^
 ||6800.km14hkusz.com^
 ||6801.km14hkusz.com^
+||6801.reminews.com^
 ||6802.4puuqeh41.com^
 ||6804.jumronews.com^
 ||6804.reminews.com^
@@ -14715,6 +15297,7 @@
 ||6815.ogrt80r65.com^
 ||6815.reminews.com^
 ||6816.freshalldaynews.com^
+||6816.reminews.com^
 ||6817.bestoffers-wt.com^
 ||6817.lookinews.com^
 ||6818.karponews.com^
@@ -14759,6 +15342,7 @@
 ||6846.freshalldaynews.com^
 ||6846.karponews.com^
 ||6846.uho5m96ej.com^
+||6847.4puuqeh41.com^
 ||6847.karponews.com^
 ||6847.km14hkusz.com^
 ||6847.reminews.com^
@@ -14771,6 +15355,7 @@
 ||6850.freshalldaynews.com^
 ||6850.km14hkusz.com^
 ||6850.lookinews.com^
+||6850.reminews.com^
 ||6851.ksrtmgoym.com^
 ||6852.bestoffers-fe.com^
 ||6852.freshalldaynews.com^
@@ -14781,6 +15366,7 @@
 ||6855.4puuqeh41.com^
 ||6855.bestoffers-wt.com^
 ||6855.freshalldaynews.com^
+||6855.reminews.com^
 ||6857.bestoffers-wt.com^
 ||6857.lookinews.com^
 ||6858.bestandgreatests.com^
@@ -14814,6 +15400,7 @@
 ||6866.gofenews.com^
 ||6866.lookinews.com^
 ||6866.sosqboh85.com^
+||6866.uho5m96ej.com^
 ||6867.bestandgreatests.com^
 ||6867.freshalldaynews.com^
 ||6867.gofenews.com^
@@ -14831,6 +15418,7 @@
 ||6873.freshalldaynews.com^
 ||6873.karponews.com^
 ||6874.freshalldaynews.com^
+||6874.lookinews.com^
 ||6875.freshalldaynews.com^
 ||6875.luronews.com^
 ||6877.jemonews.com^
@@ -14866,6 +15454,7 @@
 ||6891.ksrtmgoym.com^
 ||6891.luronews.com^
 ||6891.reminews.com^
+||6892.reminews.com^
 ||6894.freshalldaynews.com^
 ||6894.gofenews.com^
 ||6895.bestandgreatests.com^
@@ -14882,12 +15471,16 @@
 ||69.tegronews.com^
 ||6902.j74y03g8u.com^
 ||6903.km14hkusz.com^
+||6904.4puuqeh41.com^
 ||6904.reminews.com^
 ||6904.tegronews.com^
+||6905.4puuqeh41.com^
 ||6905.freshalldaynews.com^
 ||6905.reminews.com^
 ||6906.groovinews.com^
+||6907.reminews.com^
 ||6908.gofenews.com^
+||6908.jemonews.com^
 ||6908.lookinews.com^
 ||6909.4puuqeh41.com^
 ||6909.5clo0xmbf.com^
@@ -14962,6 +15555,7 @@
 ||6942.km14hkusz.com^
 ||6943.bestandgreatests.com^
 ||6943.ksrtmgoym.com^
+||6944.huronews.com^
 ||6944.j6t91e89q.com^
 ||6944.ksrtmgoym.com^
 ||6945.reminews.com^
@@ -14969,6 +15563,7 @@
 ||6947.bestandgreatests.com^
 ||6947.bestoffers-wt.com^
 ||6947.shockynews.com^
+||6948.4puuqeh41.com^
 ||6948.gofenews.com^
 ||6948.jemonews.com^
 ||6948.km14hkusz.com^
@@ -15015,6 +15610,7 @@
 ||6967.lookinews.com^
 ||6967.reminews.com^
 ||6968.ksrtmgoym.com^
+||6969.5clo0xmbf.com^
 ||6969.groovinews.com^
 ||6969.lookinews.com^
 ||6969.p6qf8cqa0.com^
@@ -15119,6 +15715,8 @@
 ||701.bealanews.com^
 ||7010.j74y03g8u.com^
 ||7010.km14hkusz.com^
+||7010.luronews.com^
+||7011.luronews.com^
 ||7012.freshalldaynews.com^
 ||7014.bestandgreatests.com^
 ||7014.reminews.com^
@@ -15189,6 +15787,7 @@
 ||7052.reminews.com^
 ||7053.guesswhatnews.com^
 ||7055.j74y03g8u.com^
+||7055.l5eamr17d.com^
 ||7056.karponews.com^
 ||7056.tegronews.com^
 ||7057.ksrtmgoym.com^
@@ -15218,6 +15817,7 @@
 ||7076.bestoffers-fe.com^
 ||7076.karponews.com^
 ||7078.bestandgreatests.com^
+||7078.sifenews.com^
 ||7079.freshalldaynews.com^
 ||7079.j74y03g8u.com^
 ||7079.leranews.com^
@@ -15246,6 +15846,7 @@
 ||7097.lookinews.com^
 ||7097.shockynews.com^
 ||7098.bestandgreatests.com^
+||7098.jemonews.com^
 ||7098.loopanews.com^
 ||71.lookinews.com^
 ||71.lycheenews.com^
@@ -15272,6 +15873,7 @@
 ||7110.freshalldaynews.com^
 ||7112.gofenews.com^
 ||7112.lookinews.com^
+||7112.shockynews.com^
 ||7112.sifenews.com^
 ||7113.bealanews.com^
 ||7113.deeginews.com^
@@ -15296,6 +15898,7 @@
 ||7121.luronews.com^
 ||7122.4puuqeh41.com^
 ||7122.freshalldaynews.com^
+||7122.w23eidn9j.com^
 ||7123.bealanews.com^
 ||7123.j74y03g8u.com^
 ||7124.gofenews.com^
@@ -15379,6 +15982,7 @@
 ||7159.bestoffers-wt.com^
 ||7159.freshalldaynews.com^
 ||7159.groovinews.com^
+||7160.4puuqeh41.com^
 ||7160.bestandgreatests.com^
 ||7160.freshalldaynews.com^
 ||7161.bestoffers-wt.com^
@@ -15401,8 +16005,11 @@
 ||7167.bestandgreatests.com^
 ||7168.freshalldaynews.com^
 ||7169.jemonews.com^
+||7169.reminews.com^
 ||717.lycheenews.com^
 ||7172.reminews.com^
+||7173.reminews.com^
+||7176.bestoffers-wt.com^
 ||7177.km14hkusz.com^
 ||7178.ogrt80r65.com^
 ||7180.karponews.com^
@@ -15438,6 +16045,7 @@
 ||7198.freshalldaynews.com^
 ||7199.freshalldaynews.com^
 ||7199.groovinews.com^
+||72.guesswhatnews.com^
 ||72.lycheenews.com^
 ||720.jumronews.com^
 ||7200.freshalldaynews.com^
@@ -15469,6 +16077,7 @@
 ||7212.jemonews.com^
 ||7212.km14hkusz.com^
 ||7212.reminews.com^
+||7212.rookinews.com^
 ||7214.bestandgreatests.com^
 ||7214.luronews.com^
 ||7214.uho5m96ej.com^
@@ -15482,6 +16091,7 @@
 ||7220.luronews.com^
 ||7221.freshalldaynews.com^
 ||7221.km14hkusz.com^
+||7222.jemonews.com^
 ||7223.bestandgreatests.com^
 ||7223.gofenews.com^
 ||7224.ksrtmgoym.com^
@@ -15493,6 +16103,7 @@
 ||7226.gofenews.com^
 ||7226.km14hkusz.com^
 ||7226.lookinews.com^
+||7226.rookinews.com^
 ||7227.freshalldaynews.com^
 ||7228.freshalldaynews.com^
 ||7228.groovinews.com^
@@ -15505,6 +16116,7 @@
 ||7230.reminews.com^
 ||7231.freshalldaynews.com^
 ||7231.ksrtmgoym.com^
+||7232.sifenews.com^
 ||7233.jemonews.com^
 ||7233.km14hkusz.com^
 ||7234.bestoffers-wt.com^
@@ -15518,6 +16130,7 @@
 ||7237.bestandgreatests.com^
 ||7237.freshalldaynews.com^
 ||7237.k45z7tagm.com^
+||7238.reminews.com^
 ||7243.freshalldaynews.com^
 ||7243.ogrt80r65.com^
 ||7243.reminews.com^
@@ -15555,19 +16168,23 @@
 ||7273.km14hkusz.com^
 ||7273.lookinews.com^
 ||7274.km14hkusz.com^
+||7276.jemonews.com^
 ||7276.luronews.com^
+||7276.reminews.com^
 ||7277.ksrtmgoym.com^
 ||7280.karponews.com^
 ||7281.4puuqeh41.com^
 ||7281.bestinterestings.com^
 ||7281.j74y03g8u.com^
 ||7283.deeginews.com^
+||7285.bestandgreatests.com^
 ||7286.bealanews.com^
 ||7286.lookinews.com^
 ||7286.reminews.com^
 ||7290.reminews.com^
 ||7291.reminews.com^
 ||7293.j74y03g8u.com^
+||7294.luronews.com^
 ||7295.km14hkusz.com^
 ||7295.reminews.com^
 ||7296.freshalldaynews.com^
@@ -15595,6 +16212,7 @@
 ||7304.freshalldaynews.com^
 ||7305.freshalldaynews.com^
 ||7307.j74y03g8u.com^
+||7307.reminews.com^
 ||7308.bestoffers-fe.com^
 ||7308.freshalldaynews.com^
 ||7309.ksrtmgoym.com^
@@ -15604,6 +16222,7 @@
 ||7314.freshalldaynews.com^
 ||7315.j74y03g8u.com^
 ||7318.bestandgreatests.com^
+||732.tegronews.com^
 ||7320.freshalldaynews.com^
 ||7320.reminews.com^
 ||7322.reminews.com^
@@ -15619,6 +16238,7 @@
 ||7327.freshalldaynews.com^
 ||7327.karponews.com^
 ||7327.lookinews.com^
+||733.tegronews.com^
 ||7330.freshalldaynews.com^
 ||7331.bestandgreatests.com^
 ||7332.freshalldaynews.com^
@@ -15639,6 +16259,7 @@
 ||7338.bestandgreatests.com^
 ||7338.freshalldaynews.com^
 ||7339.karponews.com^
+||7339.lootynews.com^
 ||7339.ruranews.com^
 ||733dan.jessunews.com^
 ||7340.bestandgreatests.com^
@@ -15662,6 +16283,7 @@
 ||7347.freshalldaynews.com^
 ||7347.km14hkusz.com^
 ||7347.reminews.com^
+||7349.4puuqeh41.com^
 ||7349.bestoffers-fe.com^
 ||734tgg.bealanews.com^
 ||7350.freshalldaynews.com^
@@ -15682,12 +16304,14 @@
 ||736.jemonews.com^
 ||7360.bestandgreatests.com^
 ||7361.lootynews.com^
+||7363.deeginews.com^
 ||7363.groovinews.com^
 ||7363.jemonews.com^
 ||7363.lookinews.com^
 ||7364.reminews.com^
 ||7365.freshalldaynews.com^
 ||7365.ksrtmgoym.com^
+||7365.lookinews.com^
 ||7365.luronews.com^
 ||7365.rookinews.com^
 ||7366.ksrtmgoym.com^
@@ -15696,6 +16320,7 @@
 ||7368.lootynews.com^
 ||7370.bestoffers-wt.com^
 ||7370.km14hkusz.com^
+||7371.4puuqeh41.com^
 ||7371.bestandgreatests.com^
 ||7373.bestandgreatests.com^
 ||7373.km14hkusz.com^
@@ -15710,13 +16335,16 @@
 ||7378.lookinews.com^
 ||7380.freshalldaynews.com^
 ||7380.km14hkusz.com^
+||7380.lootynews.com^
 ||7381.freshalldaynews.com^
 ||7381.gofenews.com^
 ||7382.bestandgreatests.com^
+||7382.cosmicnewspulse.com^
 ||7382.gofenews.com^
 ||7382.jumronews.com^
 ||7382.km14hkusz.com^
 ||7382.ksrtmgoym.com^
+||7382.lookinews.com^
 ||7382.reminews.com^
 ||7383.lookinews.com^
 ||7383.luronews.com^
@@ -15747,6 +16375,7 @@
 ||7394.sifenews.com^
 ||7395.luronews.com^
 ||7396.tegronews.com^
+||7397.reminews.com^
 ||7398.freshalldaynews.com^
 ||7398.lookinews.com^
 ||7398.luronews.com^
@@ -15762,17 +16391,20 @@
 ||7403.4puuqeh41.com^
 ||7403.freshalldaynews.com^
 ||7403.reminews.com^
+||7405.4puuqeh41.com^
 ||7405.guesswhatnews.com^
 ||7405.km14hkusz.com^
 ||7406.km14hkusz.com^
 ||7406.lookinews.com^
 ||7407.deeginews.com^
 ||7407.jemonews.com^
+||7407.reminews.com^
 ||7408.5clo0xmbf.com^
 ||7408.karponews.com^
 ||7408.lookinews.com^
 ||7408.reminews.com^
 ||7409.km14hkusz.com^
+||7410.cosmicnewspulse.com^
 ||7410.freshalldaynews.com^
 ||7411.bestoffers-fe.com^
 ||7411.bestoffers-wt.com^
@@ -15790,6 +16422,7 @@
 ||7415.lookinews.com^
 ||7415.luronews.com^
 ||7415.sosqboh85.com^
+||7416.l5eamr17d.com^
 ||7417.jemonews.com^
 ||7417.karponews.com^
 ||7417.sifenews.com^
@@ -15812,6 +16445,7 @@
 ||7426.bestandgreatests.com^
 ||7426.freshalldaynews.com^
 ||7426.luronews.com^
+||7427.w23eidn9j.com^
 ||7430.reminews.com^
 ||7431.freshalldaynews.com^
 ||7431.km14hkusz.com^
@@ -15820,6 +16454,7 @@
 ||7432.reminews.com^
 ||7433.bealanews.com^
 ||7433.bestandgreatests.com^
+||7433.deeginews.com^
 ||7433.freshalldaynews.com^
 ||7433.gofenews.com^
 ||7433.ksrtmgoym.com^
@@ -15837,12 +16472,15 @@
 ||7439.lootynews.com^
 ||7440.luronews.com^
 ||7442.jemonews.com^
+||7445.4puuqeh41.com^
 ||744dan.jessunews.com^
 ||7450.freshalldaynews.com^
+||7451.4puuqeh41.com^
 ||7451.freshalldaynews.com^
 ||7451.k3718qw08.com^
 ||7451.ksrtmgoym.com^
 ||7453.reminews.com^
+||7454.4puuqeh41.com^
 ||7454.freshalldaynews.com^
 ||7454.karponews.com^
 ||7454.reminews.com^
@@ -15851,8 +16489,10 @@
 ||7455.lookinews.com^
 ||7456.5clo0xmbf.com^
 ||7456.km14hkusz.com^
+||7458.deeginews.com^
 ||7460.bestandgreatests.com^
 ||7460.freshalldaynews.com^
+||7461.luronews.com^
 ||7462.karponews.com^
 ||7464.bestandgreatests.com^
 ||7464.km14hkusz.com^
@@ -15872,8 +16512,10 @@
 ||7472.freshalldaynews.com^
 ||7474.bestandgreatests.com^
 ||7474.bestoffers-fe.com^
+||7474.jemonews.com^
 ||7475.freshalldaynews.com^
 ||7475.reminews.com^
+||7476.34gwl8v1a.com^
 ||7476.bestandgreatests.com^
 ||7476.gofenews.com^
 ||7476.jemonews.com^
@@ -15885,6 +16527,7 @@
 ||7482.freshalldaynews.com^
 ||7482.guesswhatnews.com^
 ||7482.lookinews.com^
+||7484.guesswhatnews.com^
 ||7485.bestoffers-fe.com^
 ||7486.ksrtmgoym.com^
 ||7486.lookinews.com^
@@ -15895,6 +16538,7 @@
 ||7488.freshalldaynews.com^
 ||7488.karponews.com^
 ||7489.km14hkusz.com^
+||7489.reminews.com^
 ||7490.bestoffers-fe.com^
 ||7490.karponews.com^
 ||7490.reminews.com^
@@ -15902,6 +16546,7 @@
 ||7491.rookinews.com^
 ||7495.j74y03g8u.com^
 ||7495.km14hkusz.com^
+||7496.km14hkusz.com^
 ||7497.freshalldaynews.com^
 ||7497.j74y03g8u.com^
 ||7500.bestandgreatests.com^
@@ -15917,6 +16562,7 @@
 ||7505.freshalldaynews.com^
 ||7505.gofenews.com^
 ||7507.k3718qw08.com^
+||7508.jemonews.com^
 ||7509.karponews.com^
 ||7509.reminews.com^
 ||7511.bestandgreatests.com^
@@ -15927,9 +16573,12 @@
 ||7515.ksrtmgoym.com^
 ||7518.karponews.com^
 ||7519.freshalldaynews.com^
+||7521.5clo0xmbf.com^
 ||7521.ksrtmgoym.com^
+||7522.5clo0xmbf.com^
 ||7523.reminews.com^
 ||7524.ksrtmgoym.com^
+||7525.freshalldaynews.com^
 ||7526.guesswhatnews.com^
 ||7526.reminews.com^
 ||7527.5clo0xmbf.com^
@@ -15950,10 +16599,12 @@
 ||7535.freshalldaynews.com^
 ||7536.5clo0xmbf.com^
 ||7538.bestoffers-wt.com^
+||7538.reminews.com^
 ||7539.lookinews.com^
 ||7539.reminews.com^
 ||7540.bestoffers-wt.com^
 ||7540.km14hkusz.com^
+||7541.reminews.com^
 ||7542.bestandgreatests.com^
 ||7543.reminews.com^
 ||7544.k3718qw08.com^
@@ -15973,6 +16624,7 @@
 ||7554.luronews.com^
 ||7554.uho5m96ej.com^
 ||7555.reminews.com^
+||7556.4puuqeh41.com^
 ||7556.freshalldaynews.com^
 ||7557.freshalldaynews.com^
 ||7557.km14hkusz.com^
@@ -15986,6 +16638,7 @@
 ||7563.km14hkusz.com^
 ||7564.gofenews.com^
 ||7564.j74y03g8u.com^
+||7565.jemonews.com^
 ||7566.freshalldaynews.com^
 ||7566.gofenews.com^
 ||7566.luronews.com^
@@ -15993,7 +16646,9 @@
 ||7567.deeginews.com^
 ||7567.ksrtmgoym.com^
 ||7569.freshalldaynews.com^
+||7569.jemonews.com^
 ||7569.km14hkusz.com^
+||7569.reminews.com^
 ||756dan.ruranews.com^
 ||7571.k3718qw08.com^
 ||7572.ksrtmgoym.com^
@@ -16049,12 +16704,15 @@
 ||761.deeginews.com^
 ||7611.j74y03g8u.com^
 ||7617.km14hkusz.com^
+||7617.luronews.com^
 ||7617.reminews.com^
+||7619.jemonews.com^
 ||7619.km14hkusz.com^
 ||7621.km14hkusz.com^
 ||7622.bestandgreatests.com^
 ||7622.uho5m96ej.com^
 ||7623.gofenews.com^
+||7623.luronews.com^
 ||7625.ksrtmgoym.com^
 ||7626.ksrtmgoym.com^
 ||7627.km14hkusz.com^
@@ -16068,12 +16726,14 @@
 ||7632.4puuqeh41.com^
 ||7632.lookinews.com^
 ||7632.shockynews.com^
+||7633.ksrtmgoym.com^
 ||7634.freshalldaynews.com^
 ||7634.loopanews.com^
 ||7634.reminews.com^
 ||7635.jemonews.com^
 ||7636.deeginews.com^
 ||7637.j74y03g8u.com^
+||7637.jemonews.com^
 ||7640.km14hkusz.com^
 ||7641.5clo0xmbf.com^
 ||7641.ksrtmgoym.com^
@@ -16099,6 +16759,7 @@
 ||7655.sifenews.com^
 ||7656.833enmhob.com^
 ||7657.huronews.com^
+||7657.jemonews.com^
 ||7657.karponews.com^
 ||7657.uho5m96ej.com^
 ||7658.j74y03g8u.com^
@@ -16111,6 +16772,7 @@
 ||7664.ksrtmgoym.com^
 ||7665.833enmhob.com^
 ||7665.935ft4j96.com^
+||7666.luronews.com^
 ||7667.freshalldaynews.com^
 ||7667.gofenews.com^
 ||7667.lookinews.com^
@@ -16129,9 +16791,12 @@
 ||7677.freshalldaynews.com^
 ||7677.j74y03g8u.com^
 ||7678.freshalldaynews.com^
+||7678.gofenews.com^
 ||7679.bestoffers-wt.com^
 ||7679.freshalldaynews.com^
 ||7680.luronews.com^
+||7681.4puuqeh41.com^
+||7681.cosmicnewspulse.com^
 ||7681.freshalldaynews.com^
 ||7681.km14hkusz.com^
 ||7682.k3718qw08.com^
@@ -16143,14 +16808,17 @@
 ||7687.j74y03g8u.com^
 ||7688.freshalldaynews.com^
 ||7688.j74y03g8u.com^
+||7688.jemonews.com^
 ||7688.karponews.com^
 ||7689.jemonews.com^
 ||7690.km14hkusz.com^
+||7690.lookinews.com^
 ||7692.ksrtmgoym.com^
 ||7692.tegronews.com^
 ||7693.freshalldaynews.com^
 ||7693.km14hkusz.com^
 ||7693.reminews.com^
+||7694.4puuqeh41.com^
 ||7694.freshalldaynews.com^
 ||7694.guesswhatnews.com^
 ||7694.j74y03g8u.com^
@@ -16164,9 +16832,11 @@
 ||77.jessunews.com^
 ||77.lookinews.com^
 ||77.ogrt80r65.com^
+||77.tegronews.com^
 ||770.7bkzlyfvl.com^
 ||770.freshalldaynews.com^
 ||770.km14hkusz.com^
+||7700.groovinews.com^
 ||7702.gofenews.com^
 ||7702.reminews.com^
 ||7703.freshalldaynews.com^
@@ -16209,6 +16879,7 @@
 ||7734.freshalldaynews.com^
 ||7734.km14hkusz.com^
 ||7734.ksrtmgoym.com^
+||7734.reminews.com^
 ||7735.freshalldaynews.com^
 ||7735.reminews.com^
 ||7736.freshalldaynews.com^
@@ -16229,9 +16900,11 @@
 ||7745.karponews.com^
 ||7746.bestoffers-fe.com^
 ||7746.ksrtmgoym.com^
+||7746.loopanews.com^
 ||7747.bestandgreatests.com^
 ||7747.freshalldaynews.com^
 ||7747.j74y03g8u.com^
+||7751.luronews.com^
 ||7753.j74y03g8u.com^
 ||7753.reminews.com^
 ||7754.bestandgreatests.com^
@@ -16248,6 +16921,7 @@
 ||7763.freshalldaynews.com^
 ||7763.jemonews.com^
 ||7764.freshalldaynews.com^
+||7765.5clo0xmbf.com^
 ||7765.freshalldaynews.com^
 ||7765.j74y03g8u.com^
 ||7765.lookinews.com^
@@ -16256,6 +16930,7 @@
 ||7766.5clo0xmbf.com^
 ||7766.reminews.com^
 ||7767.j6t91e89q.com^
+||7767.pr0xqyrgl.com^
 ||7769.freshalldaynews.com^
 ||7769.karponews.com^
 ||7769.lookinews.com^
@@ -16269,8 +16944,10 @@
 ||7770.km14hkusz.com^
 ||7771.guesswhatnews.com^
 ||7772.karponews.com^
+||7772.shockynews.com^
 ||7773.lookinews.com^
 ||7773.shockynews.com^
+||7774.deeginews.com^
 ||7774.karponews.com^
 ||7774.km14hkusz.com^
 ||7775.freshalldaynews.com^
@@ -16356,8 +17033,10 @@
 ||7808.freshalldaynews.com^
 ||7808.gofenews.com^
 ||7808.km14hkusz.com^
+||7809.tegronews.com^
 ||781.deeginews.com^
 ||7810.freshalldaynews.com^
+||7811.cosmicnewspulse.com^
 ||7811.freshalldaynews.com^
 ||7813.reminews.com^
 ||7814.bestoffers-fe.com^
@@ -16372,6 +17051,7 @@
 ||7818.j74y03g8u.com^
 ||7818.jemonews.com^
 ||7819.freshalldaynews.com^
+||7819.jemonews.com^
 ||7819.karponews.com^
 ||7820.bealanews.com^
 ||7822.karponews.com^
@@ -16433,6 +17113,7 @@
 ||7846.freshalldaynews.com^
 ||7846.jemonews.com^
 ||7847.km14hkusz.com^
+||7848.deeginews.com^
 ||7848.karponews.com^
 ||7848.lootynews.com^
 ||7848.w23eidn9j.com^
@@ -16441,6 +17122,7 @@
 ||7849.tegronews.com^
 ||7850.bestoffers-fe.com^
 ||7850.lookinews.com^
+||7851.jemonews.com^
 ||7851.km14hkusz.com^
 ||7852.freshalldaynews.com^
 ||7853.bestandgreatests.com^
@@ -16531,6 +17213,7 @@
 ||7888.karponews.com^
 ||7888.lookinews.com^
 ||7889.4e8bjpldk.com^
+||7889.lootynews.com^
 ||7889.uho5m96ej.com^
 ||7890.j74y03g8u.com^
 ||7891.freshalldaynews.com^
@@ -16546,6 +17229,7 @@
 ||7901.jemonews.com^
 ||7901.reminews.com^
 ||7902.bestoffers-fe.com^
+||7904.guesswhatnews.com^
 ||7905.freshalldaynews.com^
 ||7906.freshalldaynews.com^
 ||7906.karponews.com^
@@ -16635,8 +17319,10 @@
 ||7938.reminews.com^
 ||7939.bestandgreatests.com^
 ||7939.freshalldaynews.com^
+||7939.j6t91e89q.com^
 ||7940.freshalldaynews.com^
 ||7940.km14hkusz.com^
+||7940.luronews.com^
 ||7940.reminews.com^
 ||7941.bestandgreatests.com^
 ||7941.freshalldaynews.com^
@@ -16653,6 +17339,7 @@
 ||7945.j74y03g8u.com^
 ||7945.km14hkusz.com^
 ||7947.freshalldaynews.com^
+||7947.jemonews.com^
 ||7947.lookinews.com^
 ||7948.4puuqeh41.com^
 ||7948.bestandgreatests.com^
@@ -16755,6 +17442,7 @@
 ||7984.lookinews.com^
 ||7985.freshalldaynews.com^
 ||7986.5clo0xmbf.com^
+||7986.jemonews.com^
 ||7987.karponews.com^
 ||7987.km14hkusz.com^
 ||7989.luronews.com^
@@ -16780,6 +17468,7 @@
 ||7997.jemonews.com^
 ||7998.5clo0xmbf.com^
 ||7998.freshalldaynews.com^
+||7998.reminews.com^
 ||7999.freshalldaynews.com^
 ||7999.km14hkusz.com^
 ||7b0111.bealanews.com^
@@ -16788,6 +17477,8 @@
 ||7erfgdyu4yuf5ueq.lookinews.com^
 ||7fgdyu4yuf5ueq.lookinews.com^
 ||7iermfgdyu4yuf5ueq.lookinews.com^
+||7iueq.lycheenews.com^
+||7iueqr.lycheenews.com^
 ||7v0109.bealanews.com^
 ||7vik.lycheenews.com^
 ||7vin.lycheenews.com^
@@ -16814,11 +17505,14 @@
 ||8005.gofenews.com^
 ||8005.ksrtmgoym.com^
 ||8006.j74y03g8u.com^
+||8007.833enmhob.com^
+||8007.jemonews.com^
 ||8007.karponews.com^
 ||8008.km14hkusz.com^
 ||8009.gofenews.com^
 ||8010.karponews.com^
 ||8011.karponews.com^
+||8011.reminews.com^
 ||8012.km14hkusz.com^
 ||8013.freshalldaynews.com^
 ||8013.jessunews.com^
@@ -16842,6 +17536,7 @@
 ||8022.gofenews.com^
 ||8022.jemonews.com^
 ||8022.luronews.com^
+||8023.cosmicnewspulse.com^
 ||8023.km14hkusz.com^
 ||8023.ksrtmgoym.com^
 ||8023.reminews.com^
@@ -16863,6 +17558,7 @@
 ||8030.ksrtmgoym.com^
 ||8031.bestoffers-wt.com^
 ||8031.freshalldaynews.com^
+||8031.jemonews.com^
 ||8031.km14hkusz.com^
 ||8031.ksrtmgoym.com^
 ||8032.freshalldaynews.com^
@@ -16904,6 +17600,7 @@
 ||8049.km14hkusz.com^
 ||8050.freshalldaynews.com^
 ||8050.lookinews.com^
+||8050.reminews.com^
 ||8051.bestandgreatests.com^
 ||8052.deeginews.com^
 ||8052.freshalldaynews.com^
@@ -16919,6 +17616,7 @@
 ||8055.bestoffers-fe.com^
 ||8055.freshalldaynews.com^
 ||8056.freshalldaynews.com^
+||8056.jemonews.com^
 ||8056.lycheenews.com^
 ||8057.gofenews.com^
 ||8057.jemonews.com^
@@ -16954,6 +17652,7 @@
 ||8073.freshalldaynews.com^
 ||8073.rookinews.com^
 ||8074.j74y03g8u.com^
+||8074.jemonews.com^
 ||8075.km14hkusz.com^
 ||8076.freshalldaynews.com^
 ||8077.freshalldaynews.com^
@@ -16970,6 +17669,7 @@
 ||8080.bestoffers-fe.com^
 ||8080.freshalldaynews.com^
 ||8080.lookinews.com^
+||8081.lookinews.com^
 ||8083.km14hkusz.com^
 ||8084.4puuqeh41.com^
 ||8085.freshalldaynews.com^
@@ -16987,6 +17687,7 @@
 ||8091.bestoffers-fe.com^
 ||8091.km14hkusz.com^
 ||8091.leranews.com^
+||8092.cosmicnewspulse.com^
 ||8092.jemonews.com^
 ||8092.lookinews.com^
 ||8093.km14hkusz.com^
@@ -17000,7 +17701,9 @@
 ||8098.freshalldaynews.com^
 ||8099.bestandgreatests.com^
 ||8099.ksrtmgoym.com^
+||81.guesswhatnews.com^
 ||81.lycheenews.com^
+||8101.deeginews.com^
 ||8101.freshalldaynews.com^
 ||8102.karponews.com^
 ||8103.freshalldaynews.com^
@@ -17023,12 +17726,14 @@
 ||8113.4puuqeh41.com^
 ||8113.bestandgreatests.com^
 ||8113.reminews.com^
+||8114.jemonews.com^
 ||8116.bestandgreatests.com^
 ||8116.bestoffers-fe.com^
 ||8117.freshalldaynews.com^
 ||8117.luronews.com^
 ||8118.reminews.com^
 ||8119.karponews.com^
+||8120.bealanews.com^
 ||8120.km14hkusz.com^
 ||8120.leranews.com^
 ||8121.km14hkusz.com^
@@ -17041,12 +17746,15 @@
 ||8126.4puuqeh41.com^
 ||8126.freshalldaynews.com^
 ||8126.j74y03g8u.com^
+||8126.jemonews.com^
 ||8127.ksrtmgoym.com^
+||8127.tegronews.com^
 ||8128.bestandgreatests.com^
 ||8130.ksrtmgoym.com^
 ||8131.freshalldaynews.com^
 ||8131.karponews.com^
 ||8131.reminews.com^
+||8132.bealanews.com^
 ||8132.freshalldaynews.com^
 ||8132.j74y03g8u.com^
 ||8132.karponews.com^
@@ -17095,11 +17803,13 @@
 ||8157.bestandgreatests.com^
 ||8157.deeginews.com^
 ||8157.jemonews.com^
+||8158.jemonews.com^
 ||8159.bestandgreatests.com^
 ||8159.karponews.com^
 ||8160.4puuqeh41.com^
 ||8160.freshalldaynews.com^
 ||8161.karponews.com^
+||8162.bealanews.com^
 ||8162.j74y03g8u.com^
 ||8163.j74y03g8u.com^
 ||8163.jemonews.com^
@@ -17127,6 +17837,7 @@
 ||8173.freshalldaynews.com^
 ||8173.jemonews.com^
 ||8173.km14hkusz.com^
+||8173.l5eamr17d.com^
 ||8173.reminews.com^
 ||8174.gofenews.com^
 ||8174.ksrtmgoym.com^
@@ -17157,6 +17868,7 @@
 ||8187.lookinews.com^
 ||8187.reminews.com^
 ||8188.freshalldaynews.com^
+||8188.km14hkusz.com^
 ||8189.reminews.com^
 ||8190.bestoffers-wt.com^
 ||8190.reminews.com^
@@ -17186,6 +17898,7 @@
 ||8204.lootynews.com^
 ||8205.freshalldaynews.com^
 ||8206.freshalldaynews.com^
+||8206.jemonews.com^
 ||8206.ksrtmgoym.com^
 ||8207.freshalldaynews.com^
 ||8207.jemonews.com^
@@ -17214,6 +17927,7 @@
 ||8216.gofenews.com^
 ||8216.sifenews.com^
 ||8217.freshalldaynews.com^
+||8217.reminews.com^
 ||8218.bestandgreatests.com^
 ||8218.j74y03g8u.com^
 ||8218.jumronews.com^
@@ -17225,9 +17939,11 @@
 ||8220.reminews.com^
 ||8221.gofenews.com^
 ||8221.karponews.com^
+||8226.deeginews.com^
 ||8226.luronews.com^
 ||8228.bestandgreatests.com^
 ||8228.k3718qw08.com^
+||8229.4puuqeh41.com^
 ||8229.ksrtmgoym.com^
 ||8230.gofenews.com^
 ||8230.groovinews.com^
@@ -17235,6 +17951,7 @@
 ||8232.reminews.com^
 ||8234.tegronews.com^
 ||8235.groovinews.com^
+||8235.jemonews.com^
 ||8236.freshalldaynews.com^
 ||8237.j74y03g8u.com^
 ||8237.km14hkusz.com^
@@ -17260,11 +17977,13 @@
 ||8254.km14hkusz.com^
 ||8256.lootynews.com^
 ||8257.ksrtmgoym.com^
+||8257.luronews.com^
 ||8260.lookinews.com^
 ||8262.karponews.com^
 ||8262.km14hkusz.com^
 ||8262.lookinews.com^
 ||8264.bestoffers-fe.com^
+||8266.jemonews.com^
 ||8268.freshalldaynews.com^
 ||8268.reminews.com^
 ||8269.jemonews.com^
@@ -17278,6 +17997,7 @@
 ||8275.uho5m96ej.com^
 ||8276.bealanews.com^
 ||8276.freshalldaynews.com^
+||8276.groovinews.com^
 ||8276.karponews.com^
 ||8276.lookinews.com^
 ||8278.bestoffers-wt.com^
@@ -17295,6 +18015,7 @@
 ||8289.km14hkusz.com^
 ||8290.4puuqeh41.com^
 ||8291.jemonews.com^
+||8291.ksrtmgoym.com^
 ||8291.sifenews.com^
 ||8293.freshalldaynews.com^
 ||8293.lookinews.com^
@@ -17369,6 +18090,7 @@
 ||8326.km14hkusz.com^
 ||8327.karponews.com^
 ||8328.bestandgreatests.com^
+||8328.pr0xqyrgl.com^
 ||8328.reminews.com^
 ||8329.km14hkusz.com^
 ||8331.bestoffers-fe.com^
@@ -17456,6 +18178,7 @@
 ||8363.gofenews.com^
 ||8363.j74y03g8u.com^
 ||8363.jemonews.com^
+||8363.reminews.com^
 ||8364.freshalldaynews.com^
 ||8364.uho5m96ej.com^
 ||8365.jumronews.com^
@@ -17494,8 +18217,10 @@
 ||8378.jemonews.com^
 ||8378.km14hkusz.com^
 ||8378.uho5m96ej.com^
+||8379.4puuqeh41.com^
 ||8379.bestandgreatests.com^
 ||8379.freshalldaynews.com^
+||8379.sifenews.com^
 ||8380.freshalldaynews.com^
 ||8380.reminews.com^
 ||8381.bestandgreatests.com^
@@ -17531,9 +18256,11 @@
 ||8395.karponews.com^
 ||8395.shockynews.com^
 ||8396.freshalldaynews.com^
+||8396.reminews.com^
 ||8397.karponews.com^
 ||8397.lookinews.com^
 ||8397.luronews.com^
+||8398.bealanews.com^
 ||8398.freshalldaynews.com^
 ||8398.karponews.com^
 ||8399.ksrtmgoym.com^
@@ -17586,7 +18313,9 @@
 ||8415.km14hkusz.com^
 ||8415.lookinews.com^
 ||8415.reminews.com^
+||8416.4puuqeh41.com^
 ||8416.bestoffers-wt.com^
+||8416.reminews.com^
 ||8417.j74y03g8u.com^
 ||8418.bestandgreatests.com^
 ||8420.freshalldaynews.com^
@@ -17612,6 +18341,7 @@
 ||8429.km14hkusz.com^
 ||8430.jemonews.com^
 ||8430.km14hkusz.com^
+||8431.4puuqeh41.com^
 ||8431.km14hkusz.com^
 ||8432.bestandgreatests.com^
 ||8432.lookinews.com^
@@ -17639,6 +18369,7 @@
 ||8447.bestandgreatests.com^
 ||8447.ksrtmgoym.com^
 ||8447.pr0xqyrgl.com^
+||8448.jemonews.com^
 ||8448.lookinews.com^
 ||8449.bestoffers-wt.com^
 ||8449.lookinews.com^
@@ -17661,6 +18392,7 @@
 ||8456.bestandgreatests.com^
 ||8456.freshalldaynews.com^
 ||8456.j74y03g8u.com^
+||8456.reminews.com^
 ||8457.j74y03g8u.com^
 ||8457.lookinews.com^
 ||8458.freshalldaynews.com^
@@ -17699,6 +18431,7 @@
 ||8479.jemonews.com^
 ||8481.karponews.com^
 ||8481.ksrtmgoym.com^
+||8482.jemonews.com^
 ||8482.km14hkusz.com^
 ||8483.freshalldaynews.com^
 ||8483.ksrtmgoym.com^
@@ -17737,6 +18470,7 @@
 ||8502.km14hkusz.com^
 ||8503.freshalldaynews.com^
 ||85037.groovinews.com^
+||8504.4puuqeh41.com^
 ||8504.freshalldaynews.com^
 ||8504.km14hkusz.com^
 ||8505.freshalldaynews.com^
@@ -17771,6 +18505,7 @@
 ||8516.freshalldaynews.com^
 ||8516.km14hkusz.com^
 ||8516.ksrtmgoym.com^
+||8516.lookinews.com^
 ||8516.reminews.com^
 ||8517.km14hkusz.com^
 ||8518.bestandgreatests.com^
@@ -17817,6 +18552,7 @@
 ||8532.lookinews.com^
 ||8532.luronews.com^
 ||8532.sifenews.com^
+||8533.4puuqeh41.com^
 ||8533.freshalldaynews.com^
 ||8533.gofenews.com^
 ||8533.guesswhatnews.com^
@@ -17875,6 +18611,7 @@
 ||8551.freshalldaynews.com^
 ||8553.freshalldaynews.com^
 ||8554.freshalldaynews.com^
+||8555.jemonews.com^
 ||8555.km14hkusz.com^
 ||8556.km14hkusz.com^
 ||8557.4puuqeh41.com^
@@ -17911,6 +18648,7 @@
 ||8571.freshalldaynews.com^
 ||8573.jemonews.com^
 ||8573.karponews.com^
+||8573.reminews.com^
 ||8574.km14hkusz.com^
 ||8574.lookinews.com^
 ||8575.freshalldaynews.com^
@@ -17923,6 +18661,7 @@
 ||8577.j74y03g8u.com^
 ||8577.lycheenews.com^
 ||8577.uho5m96ej.com^
+||8578.4puuqeh41.com^
 ||8578.freshalldaynews.com^
 ||8578.ksrtmgoym.com^
 ||8579.ksrtmgoym.com^
@@ -17942,6 +18681,7 @@
 ||8582.reminews.com^
 ||8583.freshalldaynews.com^
 ||8583.km14hkusz.com^
+||8583.ksrtmgoym.com^
 ||8585.freshalldaynews.com^
 ||8585.ksrtmgoym.com^
 ||8585.lookinews.com^
@@ -17953,6 +18693,7 @@
 ||8588.bealanews.com^
 ||8589.bestoffers-fe.com^
 ||8589.karponews.com^
+||8589.pr0xqyrgl.com^
 ||8589.sosqboh85.com^
 ||8590.bestoffers-fe.com^
 ||8590.freshalldaynews.com^
@@ -17993,6 +18734,7 @@
 ||8609.jemonews.com^
 ||8609.ksrtmgoym.com^
 ||8610.freshalldaynews.com^
+||8611.reminews.com^
 ||8612.freshalldaynews.com^
 ||8612.j74y03g8u.com^
 ||8613.tegronews.com^
@@ -18068,6 +18810,7 @@
 ||8652.5clo0xmbf.com^
 ||8652.bestandgreatests.com^
 ||8653.bestandgreatests.com^
+||8653.guesswhatnews.com^
 ||8654.gofenews.com^
 ||8654.j74y03g8u.com^
 ||8655.km14hkusz.com^
@@ -18097,6 +18840,7 @@
 ||8670.freshalldaynews.com^
 ||8670.karponews.com^
 ||8670.uho5m96ej.com^
+||8672.4puuqeh41.com^
 ||8672.bestandgreatests.com^
 ||8672.freshalldaynews.com^
 ||8672.jemonews.com^
@@ -18150,6 +18894,8 @@
 ||8692.ksrtmgoym.com^
 ||8693.reminews.com^
 ||8694.km14hkusz.com^
+||8694.l5eamr17d.com^
+||8695.tegronews.com^
 ||8696.bestandgreatests.com^
 ||8696.freshalldaynews.com^
 ||8696.jemonews.com^
@@ -18221,6 +18967,7 @@
 ||8736.ksrtmgoym.com^
 ||8736.luronews.com^
 ||8737.bealanews.com^
+||8737.reminews.com^
 ||8738.bestandgreatests.com^
 ||8738.freshalldaynews.com^
 ||8738.j74y03g8u.com^
@@ -18243,6 +18990,7 @@
 ||8749.reminews.com^
 ||8752.freshalldaynews.com^
 ||8752.gofenews.com^
+||8752.reminews.com^
 ||8755.freshalldaynews.com^
 ||8755.reminews.com^
 ||8755.shockynews.com^
@@ -18264,6 +19012,7 @@
 ||8763.5clo0xmbf.com^
 ||8764.bestoffers-wt.com^
 ||8764.lookinews.com^
+||8765.4puuqeh41.com^
 ||8765.guesswhatnews.com^
 ||8765.ruranews.com^
 ||8765.shockynews.com^
@@ -18331,8 +19080,10 @@
 ||8800.karponews.com^
 ||8801.km14hkusz.com^
 ||8802.bestandgreatests.com^
+||8803.groovinews.com^
 ||8803.km14hkusz.com^
 ||8803.lookinews.com^
+||8803.reminews.com^
 ||8804.reminews.com^
 ||8805.4puuqeh41.com^
 ||8805.karponews.com^
@@ -18353,6 +19104,7 @@
 ||8817.freshalldaynews.com^
 ||8818.reminews.com^
 ||8819.5clo0xmbf.com^
+||8819.jemonews.com^
 ||8819.ksrtmgoym.com^
 ||8820.j74y03g8u.com^
 ||8820.tegronews.com^
@@ -18362,7 +19114,10 @@
 ||8822.guesswhatnews.com^
 ||8822.jemonews.com^
 ||8823.bestandgreatests.com^
+||8824.4puuqeh41.com^
+||8826.reminews.com^
 ||883.jemonews.com^
+||8830.deeginews.com^
 ||8832.j74y03g8u.com^
 ||8832.reminews.com^
 ||8832.shockynews.com^
@@ -18376,12 +19131,15 @@
 ||8835.luronews.com^
 ||8835.uho5m96ej.com^
 ||8836.lookinews.com^
+||8836.reminews.com^
 ||8837.freshalldaynews.com^
+||8837.gofenews.com^
 ||8839.lookinews.com^
 ||8840.freshalldaynews.com^
 ||8840.lootynews.com^
 ||8841.lookinews.com^
 ||8843.ksrtmgoym.com^
+||8846.freshalldaynews.com^
 ||8847.4puuqeh41.com^
 ||8847.bestandgreatests.com^
 ||8847.bestoffers-fe.com^
@@ -18390,8 +19148,11 @@
 ||8848.freshalldaynews.com^
 ||8848.km14hkusz.com^
 ||8849.bestoffers-fe.com^
+||8849.deeginews.com^
+||8849.reminews.com^
 ||8850.freshalldaynews.com^
 ||8850.km14hkusz.com^
+||8850.reminews.com^
 ||8851.freshalldaynews.com^
 ||8851.karponews.com^
 ||8852.lootynews.com^
@@ -18456,6 +19217,8 @@
 ||8876.bestoffers-wt.com^
 ||8876.km14hkusz.com^
 ||8876.luronews.com^
+||8876.reminews.com^
+||8876.tegronews.com^
 ||8877.bestandgreatests.com^
 ||8877.freshalldaynews.com^
 ||8877.km14hkusz.com^
@@ -18470,6 +19233,7 @@
 ||8883.freshalldaynews.com^
 ||8883.reminews.com^
 ||8884.freshalldaynews.com^
+||8884.groovinews.com^
 ||8884.ruranews.com^
 ||8885.5clo0xmbf.com^
 ||8885.bestoffers-fe.com^
@@ -18479,6 +19243,7 @@
 ||8886.luronews.com^
 ||8886.reminews.com^
 ||8887.ksrtmgoym.com^
+||8887.loopanews.com^
 ||8887.reminews.com^
 ||8888.freshalldaynews.com^
 ||8888.reminews.com^
@@ -18491,6 +19256,7 @@
 ||8893.bestandgreatests.com^
 ||8893.freshalldaynews.com^
 ||8893.ksrtmgoym.com^
+||8893.luronews.com^
 ||8894.4puuqeh41.com^
 ||8894.bestandgreatests.com^
 ||8894.km14hkusz.com^
@@ -18510,6 +19276,7 @@
 ||8899.karponews.com^
 ||88gh5yth5657.bestoffers-fe.com^
 ||88gh5yth5657.j74y03g8u.com^
+||89.7bkzlyfvl.com^
 ||89.bealanews.com^
 ||89.bestinterestings.com^
 ||89.bestoffers-fe.com^
@@ -18530,6 +19297,7 @@
 ||8904.gofenews.com^
 ||8904.ksrtmgoym.com^
 ||8904.reminews.com^
+||8905.5clo0xmbf.com^
 ||8905.ksrtmgoym.com^
 ||8906.bealanews.com^
 ||8906.luronews.com^
@@ -18570,6 +19338,7 @@
 ||8919.bestandgreatests.com^
 ||8919.freshalldaynews.com^
 ||8919.karponews.com^
+||8919.reminews.com^
 ||8920.freshalldaynews.com^
 ||8920.luronews.com^
 ||8921.gofenews.com^
@@ -18577,6 +19346,7 @@
 ||8924.bestandgreatests.com^
 ||8924.freshalldaynews.com^
 ||8924.km14hkusz.com^
+||8924.lookinews.com^
 ||8924.lootynews.com^
 ||8924.reminews.com^
 ||8925.freshalldaynews.com^
@@ -18614,6 +19384,7 @@
 ||8941.karponews.com^
 ||8941.reminews.com^
 ||8942.freshalldaynews.com^
+||8942.gofenews.com^
 ||8943.freshalldaynews.com^
 ||8943.lycheenews.com^
 ||8944.bestandgreatests.com^
@@ -18631,6 +19402,7 @@
 ||8947.bestandgreatests.com^
 ||8947.freshalldaynews.com^
 ||8947.luronews.com^
+||8948.deeginews.com^
 ||8948.freshalldaynews.com^
 ||8948.reminews.com^
 ||8948.tegronews.com^
@@ -18676,6 +19448,7 @@
 ||8963.lookinews.com^
 ||8963.reminews.com^
 ||8964.bestoffers-fe.com^
+||8964.freshalldaynews.com^
 ||8964.karponews.com^
 ||8964.luronews.com^
 ||8965.bestandgreatests.com^
@@ -18717,6 +19490,7 @@
 ||8982.luronews.com^
 ||8983.bestoffers-wt.com^
 ||8984.bestoffers-fe.com^
+||8984.jemonews.com^
 ||8984.km14hkusz.com^
 ||8985.guesswhatnews.com^
 ||8985.reminews.com^
@@ -18749,6 +19523,7 @@
 ||8997.bestandgreatests.com^
 ||8997.bestoffers-wt.com^
 ||8997.km14hkusz.com^
+||8998.4puuqeh41.com^
 ||8998.km14hkusz.com^
 ||8999.lookinews.com^
 ||8al.bestoffers-fe.com^
@@ -18810,8 +19585,10 @@
 ||9016.seponews.com^
 ||9020.bestandgreatests.com^
 ||9020.bestinterestings.com^
+||9021.huronews.com^
 ||9022.km14hkusz.com^
 ||9022.luronews.com^
+||9022.zgoa097eh.com^
 ||9023.ksrtmgoym.com^
 ||9024.bestoffers-fe.com^
 ||9024.km14hkusz.com^
@@ -18820,6 +19597,7 @@
 ||9025.km14hkusz.com^
 ||9025.reminews.com^
 ||9026.bestandgreatests.com^
+||9026.lookinews.com^
 ||903.j6t91e89q.com^
 ||9032.j74y03g8u.com^
 ||9032.km14hkusz.com^
@@ -18836,6 +19614,7 @@
 ||9042.bestoffers-fe.com^
 ||9045.5clo0xmbf.com^
 ||9046.reminews.com^
+||9048.jemonews.com^
 ||9049.4puuqeh41.com^
 ||9049.jemonews.com^
 ||9050.sifenews.com^
@@ -18878,8 +19657,12 @@
 ||9082.freshalldaynews.com^
 ||9083.reminews.com^
 ||9084.freshalldaynews.com^
+||9085.deeginews.com^
+||9085.j74y03g8u.com^
 ||9087.l5eamr17d.com^
 ||9089.j74y03g8u.com^
+||9089.reminews.com^
+||9092.5clo0xmbf.com^
 ||9092.gofenews.com^
 ||9092.km14hkusz.com^
 ||9092.luronews.com^
@@ -18893,6 +19676,7 @@
 ||9094.guesswhatnews.com^
 ||9094.km14hkusz.com^
 ||9095.79j68qav2.com^
+||9095.deeginews.com^
 ||9095.jumronews.com^
 ||9095.luronews.com^
 ||9095.uho5m96ej.com^
@@ -18917,12 +19701,14 @@
 ||9105.ogrt80r65.com^
 ||9105.reminews.com^
 ||9106.freshalldaynews.com^
+||9106.luronews.com^
 ||9107.freshalldaynews.com^
 ||9109.freshalldaynews.com^
 ||9109.reminews.com^
 ||9110.freshalldaynews.com^
 ||9110.km14hkusz.com^
 ||9111.freshalldaynews.com^
+||9112.gofenews.com^
 ||9112.jemonews.com^
 ||9112.lookinews.com^
 ||9114.groovinews.com^
@@ -18941,6 +19727,7 @@
 ||9122.j74y03g8u.com^
 ||9122.reminews.com^
 ||9123.freshalldaynews.com^
+||9123.luronews.com^
 ||9124.guesswhatnews.com^
 ||9124.j74y03g8u.com^
 ||9124.lookinews.com^
@@ -18949,6 +19736,7 @@
 ||9126.5clo0xmbf.com^
 ||9126.freshalldaynews.com^
 ||9126.lookinews.com^
+||9127.bealanews.com^
 ||9127.bestandgreatests.com^
 ||9127.uho5m96ej.com^
 ||9128.833enmhob.com^
@@ -18957,6 +19745,7 @@
 ||9129.freshalldaynews.com^
 ||9129.lookinews.com^
 ||9129.reminews.com^
+||9130.deeginews.com^
 ||9130.freshalldaynews.com^
 ||9130.sosqboh85.com^
 ||9134.km14hkusz.com^
@@ -18975,9 +19764,12 @@
 ||9142.freshalldaynews.com^
 ||9143.karponews.com^
 ||9143.ksrtmgoym.com^
+||9145.reminews.com^
 ||9148.4puuqeh41.com^
+||9148.5clo0xmbf.com^
 ||9150.freshalldaynews.com^
 ||9150.shockynews.com^
+||9151.reminews.com^
 ||9152.lookinews.com^
 ||9152.luronews.com^
 ||9153.bestandgreatests.com^
@@ -19023,7 +19815,9 @@
 ||9174.luronews.com^
 ||9174.w23eidn9j.com^
 ||9175.bestoffers-fe.com^
+||9175.l5eamr17d.com^
 ||9175.reminews.com^
+||9176.shockynews.com^
 ||9177.jemonews.com^
 ||9178.j74y03g8u.com^
 ||9181.k3718qw08.com^
@@ -19033,6 +19827,7 @@
 ||9186.reminews.com^
 ||9187.freshalldaynews.com^
 ||9187.ruranews.com^
+||9188.lootynews.com^
 ||9190.5clo0xmbf.com^
 ||9190.freshalldaynews.com^
 ||9191.reminews.com^
@@ -19047,6 +19842,7 @@
 ||9199.lookinews.com^
 ||9200.bestandgreatests.com^
 ||9201.bestandgreatests.com^
+||9202.4puuqeh41.com^
 ||9202.bealanews.com^
 ||9203.ksrtmgoym.com^
 ||9203.leranews.com^
@@ -19060,6 +19856,7 @@
 ||9208.4puuqeh41.com^
 ||9208.ksrtmgoym.com^
 ||9209.bestandgreatests.com^
+||9209.jemonews.com^
 ||9209.km14hkusz.com^
 ||9209.ksrtmgoym.com^
 ||9211.bealanews.com^
@@ -19068,10 +19865,12 @@
 ||9211.lycheenews.com^
 ||9212.bestoffers-fe.com^
 ||9212.lookinews.com^
+||9212.reminews.com^
 ||9213.bestoffers-fe.com^
 ||9213.gofenews.com^
 ||9213.j74y03g8u.com^
 ||9214.km14hkusz.com^
+||9214.l5eamr17d.com^
 ||9215.gofenews.com^
 ||9215.lookinews.com^
 ||9216.jemonews.com^
@@ -19080,6 +19879,7 @@
 ||9217.ksrtmgoym.com^
 ||9218.bestandgreatests.com^
 ||9218.lootynews.com^
+||9219.bestandgreatests.com^
 ||9219.jemonews.com^
 ||9219.reminews.com^
 ||9220.4puuqeh41.com^
@@ -19095,6 +19895,7 @@
 ||9228.ksrtmgoym.com^
 ||9230.4puuqeh41.com^
 ||9230.ksrtmgoym.com^
+||9230.sifenews.com^
 ||9230.tegronews.com^
 ||9231.bestoffers-wt.com^
 ||9232.p6qf8cqa0.com^
@@ -19111,6 +19912,7 @@
 ||9239.bestandgreatests.com^
 ||9239.gofenews.com^
 ||9239.km14hkusz.com^
+||9241.bestandgreatests.com^
 ||9243.lycheenews.com^
 ||9244.freshalldaynews.com^
 ||9245.bestandgreatests.com^
@@ -19127,12 +19929,14 @@
 ||9251.freshalldaynews.com^
 ||9252.freshalldaynews.com^
 ||9252.gofenews.com^
+||9254.4puuqeh41.com^
 ||9257.sosqboh85.com^
 ||9258.freshalldaynews.com^
 ||9258.tegronews.com^
 ||9259.freshalldaynews.com^
 ||9259.sifenews.com^
 ||9260.freshalldaynews.com^
+||9260.lootynews.com^
 ||9261.bestoffers-fe.com^
 ||9261.freshalldaynews.com^
 ||9261.j74y03g8u.com^
@@ -19160,6 +19964,7 @@
 ||9272.bestandgreatests.com^
 ||9272.bestoffers-fe.com^
 ||9272.ksrtmgoym.com^
+||9272.reminews.com^
 ||9273.bestandgreatests.com^
 ||9273.tegronews.com^
 ||9274.freshalldaynews.com^
@@ -19241,6 +20046,7 @@
 ||9306.karponews.com^
 ||9308.freshalldaynews.com^
 ||9308.j74y03g8u.com^
+||9308.jemonews.com^
 ||9308.reminews.com^
 ||9308.tegronews.com^
 ||9309.freshalldaynews.com^
@@ -19276,6 +20082,7 @@
 ||9323.freshalldaynews.com^
 ||9323.km14hkusz.com^
 ||9323.lookinews.com^
+||9323.luronews.com^
 ||9323.shockynews.com^
 ||9323.uho5m96ej.com^
 ||9325.freshalldaynews.com^
@@ -19295,7 +20102,9 @@
 ||9336.sifenews.com^
 ||9339.jemonews.com^
 ||9340.j74y03g8u.com^
+||9340.reminews.com^
 ||9341.uho5m96ej.com^
+||9342.reminews.com^
 ||9343.jemonews.com^
 ||9344.bealanews.com^
 ||9344.bestoffers-fe.com^
@@ -19303,6 +20112,7 @@
 ||9344.reminews.com^
 ||9344.rookinews.com^
 ||9345.luronews.com^
+||9346.guesswhatnews.com^
 ||9346.km14hkusz.com^
 ||9347.5clo0xmbf.com^
 ||9347.bestandgreatests.com^
@@ -19331,11 +20141,13 @@
 ||9360.bestoffers-fe.com^
 ||9361.bealanews.com^
 ||9361.ksrtmgoym.com^
+||9363.bestandgreatests.com^
 ||9366.ksrtmgoym.com^
 ||9367.freshalldaynews.com^
 ||9367.lookinews.com^
 ||9367.shockynews.com^
 ||9369.deeginews.com^
+||9369.jemonews.com^
 ||9369.reminews.com^
 ||9370.freshalldaynews.com^
 ||9371.freshalldaynews.com^
@@ -19403,6 +20215,7 @@
 ||9400.5clo0xmbf.com^
 ||9404.rookinews.com^
 ||9405.5clo0xmbf.com^
+||9405.tegronews.com^
 ||9407.4puuqeh41.com^
 ||9407.reminews.com^
 ||9408.j74y03g8u.com^
@@ -19440,6 +20253,7 @@
 ||9424.lookinews.com^
 ||9425.freshalldaynews.com^
 ||9425.luronews.com^
+||9425.lycheenews.com^
 ||9426.reminews.com^
 ||9427.uho5m96ej.com^
 ||9428.freshalldaynews.com^
@@ -19460,6 +20274,7 @@
 ||9438.reminews.com^
 ||9440.5clo0xmbf.com^
 ||9440.reminews.com^
+||9440.w23eidn9j.com^
 ||9441.5clo0xmbf.com^
 ||9442.5clo0xmbf.com^
 ||9445.bealanews.com^
@@ -19513,13 +20328,16 @@
 ||9475.j74y03g8u.com^
 ||9476.freshalldaynews.com^
 ||9476.lookinews.com^
+||9477.reminews.com^
 ||9477.uho5m96ej.com^
+||9478.jemonews.com^
 ||9479.gofenews.com^
 ||9479.karponews.com^
 ||9479.ksrtmgoym.com^
 ||9480.5clo0xmbf.com^
 ||9480.ksrtmgoym.com^
 ||9481.luronews.com^
+||9483.reminews.com^
 ||9484.freshalldaynews.com^
 ||9485.freshalldaynews.com^
 ||9486.freshalldaynews.com^
@@ -19546,6 +20364,7 @@
 ||9496.reminews.com^
 ||9497.bestandgreatests.com^
 ||9497.reminews.com^
+||9499.4puuqeh41.com^
 ||9499.lookinews.com^
 ||9499.reminews.com^
 ||9499.tegronews.com^
@@ -19566,8 +20385,10 @@
 ||9518.jemonews.com^
 ||9519.km14hkusz.com^
 ||9520.lootynews.com^
+||9521.freshalldaynews.com^
 ||9522.freshalldaynews.com^
 ||9523.luronews.com^
+||9525.5clo0xmbf.com^
 ||9525.deeginews.com^
 ||9525.jemonews.com^
 ||9528.deeginews.com^
@@ -19586,6 +20407,7 @@
 ||9539.j74y03g8u.com^
 ||9539.ruranews.com^
 ||9540.karponews.com^
+||9540.shockynews.com^
 ||9542.bestandgreatests.com^
 ||9542.freshalldaynews.com^
 ||9546.ksrtmgoym.com^
@@ -19616,11 +20438,15 @@
 ||9572.bestoffers-fe.com^
 ||9572.bestoffers-wt.com^
 ||9572.tegronews.com^
+||9574.reminews.com^
+||9575.reminews.com^
 ||9576.jemonews.com^
 ||9577.km14hkusz.com^
 ||9577.ksrtmgoym.com^
 ||9578.freshalldaynews.com^
 ||9578.jemonews.com^
+||9579.4puuqeh41.com^
+||9585.79j68qav2.com^
 ||9586.lookinews.com^
 ||9589.km14hkusz.com^
 ||9590.5clo0xmbf.com^
@@ -19628,6 +20454,7 @@
 ||9591.4puuqeh41.com^
 ||9591.freshalldaynews.com^
 ||9594.4puuqeh41.com^
+||9594.reminews.com^
 ||9595.4puuqeh41.com^
 ||9595.j74y03g8u.com^
 ||9596.jemonews.com^
@@ -19637,6 +20464,7 @@
 ||9598.freshalldaynews.com^
 ||9598.km14hkusz.com^
 ||9599.5clo0xmbf.com^
+||9600.jemonews.com^
 ||9601.freshalldaynews.com^
 ||9602.freshalldaynews.com^
 ||9602.reminews.com^
@@ -19660,6 +20488,7 @@
 ||9621.ksrtmgoym.com^
 ||9622.freshalldaynews.com^
 ||9622.km14hkusz.com^
+||9623.bestandgreatests.com^
 ||9623.deeginews.com^
 ||9623.gofenews.com^
 ||9625.bestandgreatests.com^
@@ -19667,16 +20496,21 @@
 ||9626.freshalldaynews.com^
 ||9626.reminews.com^
 ||9627.freshalldaynews.com^
+||9627.huronews.com^
 ||9627.km14hkusz.com^
 ||9627.reminews.com^
 ||9628.833enmhob.com^
+||9628.cosmicnewspulse.com^
 ||9628.km14hkusz.com^
 ||9628.reminews.com^
+||9629.reminews.com^
 ||9630.km14hkusz.com^
 ||9631.ksrtmgoym.com^
 ||9635.5clo0xmbf.com^
 ||9635.935ft4j96.com^
+||9636.gofenews.com^
 ||9637.freshalldaynews.com^
+||9641.guesswhatnews.com^
 ||9641.karponews.com^
 ||9644.lycheenews.com^
 ||9646.freshalldaynews.com^
@@ -19721,6 +20555,7 @@
 ||9677.lookinews.com^
 ||9679.km14hkusz.com^
 ||9681.bestandgreatests.com^
+||9681.guesswhatnews.com^
 ||9681.ksrtmgoym.com^
 ||9682.j74y03g8u.com^
 ||9683.freshalldaynews.com^
@@ -19744,6 +20579,7 @@
 ||9704.reminews.com^
 ||9705.reminews.com^
 ||9706.freshalldaynews.com^
+||9707.cosmicnewspulse.com^
 ||9707.freshalldaynews.com^
 ||9707.j74y03g8u.com^
 ||9708.jemonews.com^
@@ -19761,8 +20597,11 @@
 ||9715.freshalldaynews.com^
 ||9715.gofenews.com^
 ||9715.jemonews.com^
+||9716.jemonews.com^
 ||9717.bestandgreatests.com^
 ||9718.freshalldaynews.com^
+||9719.gofenews.com^
+||9719.jemonews.com^
 ||9719.uho5m96ej.com^
 ||9720.km14hkusz.com^
 ||9721.km14hkusz.com^
@@ -19798,6 +20637,7 @@
 ||9740.sifenews.com^
 ||9741.karponews.com^
 ||9741.ksrtmgoym.com^
+||9744.4puuqeh41.com^
 ||9744.freshalldaynews.com^
 ||9746.5clo0xmbf.com^
 ||9746.freshalldaynews.com^
@@ -19887,6 +20727,7 @@
 ||9779.ksrtmgoym.com^
 ||9779.shockynews.com^
 ||9780.freshalldaynews.com^
+||9781.ksrtmgoym.com^
 ||9782.freshalldaynews.com^
 ||9782.km14hkusz.com^
 ||9783.freshalldaynews.com^
@@ -19934,6 +20775,7 @@
 ||9797.bestandgreatests.com^
 ||9797.karponews.com^
 ||9797.km14hkusz.com^
+||9797.lookinews.com^
 ||9798.freshalldaynews.com^
 ||9798.karponews.com^
 ||9799.bestandgreatests.com^
@@ -19947,6 +20789,7 @@
 ||9802.bestoffers-fe.com^
 ||9802.freshalldaynews.com^
 ||9802.lootynews.com^
+||9803.seponews.com^
 ||9804.bestoffers-wt.com^
 ||9804.freshalldaynews.com^
 ||9804.ohhmyoffers.com^
@@ -19968,12 +20811,14 @@
 ||9808.reminews.com^
 ||9809.km14hkusz.com^
 ||9809.reminews.com^
+||981.jemonews.com^
 ||9811.km14hkusz.com^
 ||9812.freshalldaynews.com^
 ||9812.groovinews.com^
 ||9812.lookinews.com^
 ||9812.lootynews.com^
 ||9812.lycheenews.com^
+||9813.4puuqeh41.com^
 ||9813.karponews.com^
 ||9813.reminews.com^
 ||9814.bealanews.com^
@@ -19993,11 +20838,13 @@
 ||9823.jemonews.com^
 ||9824.ksrtmgoym.com^
 ||9824.lookinews.com^
+||9825.freshalldaynews.com^
 ||9825.j74y03g8u.com^
 ||9825.karponews.com^
 ||9825.km14hkusz.com^
 ||9826.freshalldaynews.com^
 ||9826.jemonews.com^
+||9827.huronews.com^
 ||9828.freshalldaynews.com^
 ||9828.karponews.com^
 ||9828.km14hkusz.com^
@@ -20011,6 +20858,7 @@
 ||9831.freshalldaynews.com^
 ||9831.karponews.com^
 ||9832.freshalldaynews.com^
+||9834.cosmicnewspulse.com^
 ||9834.freshalldaynews.com^
 ||9835.freshalldaynews.com^
 ||9836.freshalldaynews.com^
@@ -20033,12 +20881,14 @@
 ||9842.km14hkusz.com^
 ||9843.karponews.com^
 ||9843.lookinews.com^
+||9843.luronews.com^
 ||9844.4puuqeh41.com^
 ||9844.bestandgreatests.com^
 ||98440.jessunews.com^
 ||98440.lookinews.com^
 ||98440.x4q4g2zy7.com^
 ||98440.zgoa097eh.com^
+||9845.4puuqeh41.com^
 ||9845.freshalldaynews.com^
 ||9845.jumronews.com^
 ||9845.lookinews.com^
@@ -20064,6 +20914,7 @@
 ||9852.bestandgreatests.com^
 ||9852.j74y03g8u.com^
 ||9852.km14hkusz.com^
+||9852.lookinews.com^
 ||9852.shockynews.com^
 ||9853.bestoffers-wt.com^
 ||9853.freshalldaynews.com^
@@ -20094,8 +20945,10 @@
 ||9863.bestandgreatests.com^
 ||9863.deeginews.com^
 ||9864.bestandgreatests.com^
+||9864.jemonews.com^
 ||9864.km14hkusz.com^
 ||9864.lookinews.com^
+||9864.sifenews.com^
 ||9865.freshalldaynews.com^
 ||9866.km14hkusz.com^
 ||9866.reminews.com^
@@ -20127,6 +20980,7 @@
 ||9876.reminews.com^
 ||9877.bestandgreatests.com^
 ||9877.km14hkusz.com^
+||9877.lookinews.com^
 ||9877.reminews.com^
 ||9878.gofenews.com^
 ||9878.km14hkusz.com^
@@ -20134,6 +20988,7 @@
 ||9879.jemonews.com^
 ||9879.luronews.com^
 ||9880.bestandgreatests.com^
+||9880.freshalldaynews.com^
 ||9880.jemonews.com^
 ||9880.km14hkusz.com^
 ||9880.ksrtmgoym.com^
@@ -20164,6 +21019,7 @@
 ||9891.jemonews.com^
 ||9891.karponews.com^
 ||9891.ksrtmgoym.com^
+||9891.reminews.com^
 ||9892.freshalldaynews.com^
 ||9892.ksrtmgoym.com^
 ||9892.lookinews.com^
@@ -20194,6 +21050,7 @@
 ||9905.freshalldaynews.com^
 ||9906.bestoffers-wt.com^
 ||9906.freshalldaynews.com^
+||9906.jemonews.com^
 ||9906.lookinews.com^
 ||9907.freshalldaynews.com^
 ||9907.j74y03g8u.com^
@@ -20292,6 +21149,7 @@
 ||9952.reminews.com^
 ||9953.4puuqeh41.com^
 ||9953.bestandgreatests.com^
+||9953.luronews.com^
 ||9954.freshalldaynews.com^
 ||9954.km14hkusz.com^
 ||9954.lookinews.com^
@@ -20307,9 +21165,12 @@
 ||9956.lookinews.com^
 ||9957.bestoffers-fe.com^
 ||9958.freshalldaynews.com^
+||9959.4puuqeh41.com^
 ||9959.ksrtmgoym.com^
 ||9960.bealanews.com^
+||9960.deeginews.com^
 ||9960.luronews.com^
+||9961.gofenews.com^
 ||9962.bestoffers-wt.com^
 ||9962.freshalldaynews.com^
 ||9962.jemonews.com^
@@ -20349,6 +21210,7 @@
 ||9979.km14hkusz.com^
 ||9980.freshalldaynews.com^
 ||9980.km14hkusz.com^
+||9980.reminews.com^
 ||9981.km14hkusz.com^
 ||9982.freshalldaynews.com^
 ||9982.luronews.com^
@@ -20375,6 +21237,7 @@
 ||9993.freshalldaynews.com^
 ||9993.km14hkusz.com^
 ||9994.bestandgreatests.com^
+||9996.jemonews.com^
 ||9997.freshalldaynews.com^
 ||9997.jemonews.com^
 ||9997.km14hkusz.com^
@@ -20389,6 +21252,7 @@
 ||9999.lookinews.com^
 ||9999.ohhmyoffers.com^
 ||9999.sifenews.com^
+||999traxxassxxxxx777.j74y03g8u.com^
 ||999xxxdtn555111.j74y03g8u.com^
 ||9b0109.bealanews.com^
 ||9b0111.bealanews.com^
@@ -20415,7 +21279,9 @@
 ||a1.newsbeala.com^
 ||a1.shockynews.com^
 ||a15.jumronews.com^
+||a16.jumronews.com^
 ||a193.groovinews.com^
+||a3.7bkzlyfvl.com^
 ||a3.bealanews.com^
 ||a3.freshalldaynews.com^
 ||a3.groovinews.com^
@@ -20452,6 +21318,7 @@
 ||a5.tegronews.com^
 ||a6.freshalldaynews.com^
 ||a6.guesswhatnews.com^
+||a6.jumronews.com^
 ||a6.karponews.com^
 ||a6.km14hkusz.com^
 ||a6.shockynews.com^
@@ -20500,12 +21367,14 @@
 ||alina.5clo0xmbf.com^
 ||anal.jessunews.com^
 ||axlxxl71.lycheenews.com^
+||az100.cosmicnewspulse.com^
 ||azazki6830.groovinews.com^
 ||b.jessunews.com^
 ||bb3.bealanews.com^
 ||bb3.freshalldaynews.com^
 ||bb3.karponews.com^
 ||bb3.km14hkusz.com^
+||bob110.cosmicnewspulse.com^
 ||bob110.k3718qw08.com^
 ||bonus.groovinews.com^
 ||bonus.tegronews.com^
@@ -20521,10 +21390,12 @@
 ||br3.lookinews.com^
 ||br4.lookinews.com^
 ||br5.groovinews.com^
+||bz100.cosmicnewspulse.com^
 ||c.lycheenews.com^
 ||click-red.uho5m96ej.com^
 ||click.uho5m96ej.com^
 ||clickdila.uho5m96ej.com^
+||cz100.cosmicnewspulse.com^
 ||dan100.lookinews.com^
 ||dan102.groovinews.com^
 ||danp100.guesswhatnews.com^
@@ -20566,6 +21437,7 @@
 ||dkfnv.lycheenews.com^
 ||doik.lycheenews.com^
 ||doikimy.lycheenews.com^
+||dz100.cosmicnewspulse.com^
 ||e8e6e.x4q4g2zy7.com^
 ||e8e7e766e.jessunews.com^
 ||e8e7e766e.lookinews.com^
@@ -20633,6 +21505,7 @@
 ||ff4.freshalldaynews.com^
 ||ff4.karponews.com^
 ||ff4.km14hkusz.com^
+||ff4.newsbeala.com^
 ||ff5.bealanews.com^
 ||ff5.freshalldaynews.com^
 ||ff5.karponews.com^
@@ -20670,9 +21543,11 @@
 ||fqfq3512.jumronews.com^
 ||fre34f42141.pr0xqyrgl.com^
 ||fre34f42q141.pr0xqyrgl.com^
+||fre34f482141.pr0xqyrgl.com^
 ||fre34f642q141.pr0xqyrgl.com^
 ||fre34fr42141.pr0xqyrgl.com^
 ||fre3w4f42141.pr0xqyrgl.com^
+||fre3w4f452141.pr0xqyrgl.com^
 ||fre4f4141.jessunews.com^
 ||fre4f4141.ruranews.com^
 ||freebonus.groovinews.com^
@@ -20692,6 +21567,7 @@
 ||freepresent.sifenews.com^
 ||freepresent.tegronews.com^
 ||freepresentforyou.bealanews.com^
+||freepresentforyou.deeginews.com^
 ||freepresentforyou.groovinews.com^
 ||freepresentforyou.guesswhatnews.com^
 ||freepresentforyou.lookinews.com^
@@ -20722,6 +21598,7 @@
 ||glbor1.lycheenews.com^
 ||gosoeos2314.tsmt5revp.com^
 ||grirkd213r4d12.x4q4g2zy7.com^
+||grirkd215r4d22.findgreatnews.com^
 ||gxfgsd.bealanews.com^
 ||gyujr367t4g.jessunews.com^
 ||gyujr367t4g.x4q4g2zy7.com^
@@ -20732,6 +21609,7 @@
 ||h3.lookinews.com^
 ||h3.newsbeala.com^
 ||h3.tegronews.com^
+||h4.7bkzlyfvl.com^
 ||h4.bealanews.com^
 ||h4.freshalldaynews.com^
 ||h4.groovinews.com^
@@ -20761,6 +21639,7 @@
 ||h6.lookinews.com^
 ||h6.newsbeala.com^
 ||h6.shockynews.com^
+||h7.7bkzlyfvl.com^
 ||h7.bealanews.com^
 ||h7.freshalldaynews.com^
 ||h7.groovinews.com^
@@ -20792,6 +21671,7 @@
 ||hiroshimaresidents.jemonews.com^
 ||hkuy78i99i9.lookinews.com^
 ||host.luronews.com^
+||hotbonus.jumronews.com^
 ||hotcontent.tsmt5revp.com^
 ||hotidvideo2102.ruranews.com^
 ||hotsvideo374216x.4e8bjpldk.com^
@@ -20807,6 +21687,7 @@
 ||hovideo18.deeginews.com^
 ||hovideo18.jemonews.com^
 ||hovideo18.loopanews.com^
+||hovideo18.lootynews.com^
 ||htrtb24532gfdger24gs.jumronews.com^
 ||htrtb254gs.jumronews.com^
 ||htyj12h15421hs34.pr0xqyrgl.com^
@@ -20827,6 +21708,7 @@
 ||i0.jumronews.com^
 ||i0.karponews.com^
 ||i0.lookinews.com^
+||i0.newsbeala.com^
 ||i1.freshalldaynews.com^
 ||i1.groovinews.com^
 ||i1.jumronews.com^
@@ -20839,6 +21721,7 @@
 ||id4.lookinews.com^
 ||ie0.7bkzlyfvl.com^
 ||ie0.freshalldaynews.com^
+||ie0.groovinews.com^
 ||ie0.guesswhatnews.com^
 ||ie0.jumronews.com^
 ||ie0.karponews.com^
@@ -20868,6 +21751,7 @@
 ||iwo.newsbeala.com^
 ||j1.bealanews.com^
 ||j1.groovinews.com^
+||j1.jumronews.com^
 ||j1.tegronews.com^
 ||j2.tegronews.com^
 ||j3.tegronews.com^
@@ -20911,6 +21795,7 @@
 ||jj3.newsbeala.com^
 ||jj3.shockynews.com^
 ||jj4.7bkzlyfvl.com^
+||jj4.bealanews.com^
 ||jj4.freshalldaynews.com^
 ||jj4.karponews.com^
 ||jj4.km14hkusz.com^
@@ -20922,6 +21807,7 @@
 ||jj5.lookinews.com^
 ||jj6.bealanews.com^
 ||jj6.freshalldaynews.com^
+||jj6.groovinews.com^
 ||jj6.karponews.com^
 ||jj6.km14hkusz.com^
 ||jj6.lookinews.com^
@@ -20932,6 +21818,7 @@
 ||jj7.newsbeala.com^
 ||jj8.freshalldaynews.com^
 ||jj8.groovinews.com^
+||jj8.jumronews.com^
 ||jj8.karponews.com^
 ||jj8.km14hkusz.com^
 ||jj8.lookinews.com^
@@ -20940,6 +21827,8 @@
 ||jj9.karponews.com^
 ||jj9.km14hkusz.com^
 ||jj9.lookinews.com^
+||jj9.shockynews.com^
+||js.reminews.com^
 ||k1.freshalldaynews.com^
 ||k1.karponews.com^
 ||k1.km14hkusz.com^
@@ -21101,9 +21990,11 @@
 ||mm3.km14hkusz.com^
 ||mm3.lookinews.com^
 ||mm3.newsbeala.com^
+||mm3.shockynews.com^
 ||mm3.tegronews.com^
 ||mm4.bealanews.com^
 ||mm4.freshalldaynews.com^
+||mm4.groovinews.com^
 ||mm4.karponews.com^
 ||mm4.km14hkusz.com^
 ||mm4.lookinews.com^
@@ -21120,6 +22011,7 @@
 ||mm6.tegronews.com^
 ||mm7.bealanews.com^
 ||mm7.freshalldaynews.com^
+||mm7.groovinews.com^
 ||mm7.guesswhatnews.com^
 ||mm7.jumronews.com^
 ||mm7.karponews.com^
@@ -21190,6 +22082,7 @@
 ||pwqmc2kj113bka3.bestoffers-fe.com^
 ||pwqmc2kj113bka3.pr0xqyrgl.com^
 ||r.bestoffers-fe.com^
+||r1.jumronews.com^
 ||r1.lookinews.com^
 ||r1.newsbeala.com^
 ||r1.tegronews.com^
@@ -21215,6 +22108,7 @@
 ||sexropter3.l5eamr17d.com^
 ||sexsex2313.8pv9vvi9b.com^
 ||sexx.gofenews.com^
+||sexygirl.jumronews.com^
 ||sexygirl.tegronews.com^
 ||sk3.bealanews.com^
 ||sk3.freshalldaynews.com^
@@ -21236,7 +22130,9 @@
 ||sndqk51.j6t91e89q.com^
 ||sndqk6.j6t91e89q.com^
 ||sndqk6.ruranews.com^
+||sndqk61.cosmicnewspulse.com^
 ||sndqk61.j6t91e89q.com^
+||sndqk71.cosmicnewspulse.com^
 ||su4.bealanews.com^
 ||su4.freshalldaynews.com^
 ||su4.karponews.com^
@@ -21282,6 +22178,7 @@
 ||v1.7bkzlyfvl.com^
 ||v1.bealanews.com^
 ||v1.freshalldaynews.com^
+||v1.guesswhatnews.com^
 ||v1.jumronews.com^
 ||v1.karponews.com^
 ||v1.km14hkusz.com^
@@ -21290,6 +22187,7 @@
 ||v2.bealanews.com^
 ||v2.freshalldaynews.com^
 ||v2.groovinews.com^
+||v2.guesswhatnews.com^
 ||v2.jumronews.com^
 ||v2.karponews.com^
 ||v2.km14hkusz.com^
@@ -21307,6 +22205,7 @@
 ||v5.km14hkusz.com^
 ||v5.lookinews.com^
 ||v5.newsbeala.com^
+||v5.shockynews.com^
 ||v6.freshalldaynews.com^
 ||v6.karponews.com^
 ||v6.km14hkusz.com^
@@ -21325,6 +22224,7 @@
 ||v9.7bkzlyfvl.com^
 ||v9.bealanews.com^
 ||v9.freshalldaynews.com^
+||v9.groovinews.com^
 ||v9.guesswhatnews.com^
 ||v9.jumronews.com^
 ||v9.karponews.com^
@@ -21332,6 +22232,9 @@
 ||v9.lookinews.com^
 ||v9.newsbeala.com^
 ||v9.shockynews.com^
+||videohots23girl3.34gwl8v1a.com^
+||videohots23girls2.34gwl8v1a.com^
+||videohots2girl3.34gwl8v1a.com^
 ||videox23425.bestoffers-fe.com^
 ||videox2421.ruranews.com^
 ||videox4.jessunews.com^
@@ -21354,6 +22257,7 @@
 ||vk3.lookinews.com^
 ||vmail.jemonews.com^
 ||vn1.lookinews.com^
+||vn113.groovinews.com^
 ||w.k3718qw08.com^
 ||w0.bealanews.com^
 ||w0.freshalldaynews.com^
@@ -21367,6 +22271,7 @@
 ||w1.km14hkusz.com^
 ||w1.lookinews.com^
 ||w1.newsbeala.com^
+||w1541.gofenews.com^
 ||w1541.reminews.com^
 ||webmail.luronews.com^
 ||wilic101.bestoffers-fe.com^
@@ -21378,6 +22283,7 @@
 ||www.0203.reminews.com^
 ||www.0247.groovinews.com^
 ||www.0269.jemonews.com^
+||www.0319.bealanews.com^
 ||www.0338.groovinews.com^
 ||www.0353.deeginews.com^
 ||www.0388.lookinews.com^
@@ -21389,7 +22295,9 @@
 ||www.0699.jemonews.com^
 ||www.0724.reminews.com^
 ||www.0733.lookinews.com^
+||www.0756.jemonews.com^
 ||www.0779.jemonews.com^
+||www.0798.lookinews.com^
 ||www.0806.lookinews.com^
 ||www.0815.gofenews.com^
 ||www.0824.jemonews.com^
@@ -21401,11 +22309,13 @@
 ||www.1.cqyj3ii7r.com^
 ||www.1.shortestgoodnews.com^
 ||www.1016.lookinews.com^
+||www.1090.groovinews.com^
 ||www.1155.lootynews.com^
 ||www.1218.lookinews.com^
 ||www.1258.jemonews.com^
 ||www.1278.jemonews.com^
 ||www.1302.groovinews.com^
+||www.1306.reminews.com^
 ||www.142.groovinews.com^
 ||www.1485.jemonews.com^
 ||www.1508.bealanews.com^
@@ -21414,6 +22324,8 @@
 ||www.1625.jemonews.com^
 ||www.1630.lookinews.com^
 ||www.1666.gofenews.com^
+||www.1714.luronews.com^
+||www.1722w.gofenews.com^
 ||www.1878.gofenews.com^
 ||www.1933.jemonews.com^
 ||www.1946.groovinews.com^
@@ -21430,6 +22342,7 @@
 ||www.2254.reminews.com^
 ||www.2256.reminews.com^
 ||www.2274.reminews.com^
+||www.2290.shockynews.com^
 ||www.2392.reminews.com^
 ||www.2401.jemonews.com^
 ||www.2405.reminews.com^
@@ -21452,6 +22365,7 @@
 ||www.2950.gofenews.com^
 ||www.2974.groovinews.com^
 ||www.2981.selornews.com^
+||www.2990.reminews.com^
 ||www.2998.jemonews.com^
 ||www.3025.jemonews.com^
 ||www.3055.gofenews.com^
@@ -21461,8 +22375,10 @@
 ||www.3115.gofenews.com^
 ||www.3131.lookinews.com^
 ||www.3135.gofenews.com^
+||www.3156.lookinews.com^
 ||www.3162.reminews.com^
 ||www.3176.huronews.com^
+||www.3184.deeginews.com^
 ||www.3184.luronews.com^
 ||www.3187.reminews.com^
 ||www.3193.lookinews.com^
@@ -21489,6 +22405,7 @@
 ||www.3546.lookinews.com^
 ||www.3556.jemonews.com^
 ||www.3560.jemonews.com^
+||www.3567.deeginews.com^
 ||www.3581.reminews.com^
 ||www.3629.jemonews.com^
 ||www.3724.reminews.com^
@@ -21535,12 +22452,15 @@
 ||www.4686.jemonews.com^
 ||www.4694.lookinews.com^
 ||www.4725.lookinews.com^
+||www.4782.gofenews.com^
 ||www.4841.reminews.com^
 ||www.4877.gofenews.com^
+||www.4878.lookinews.com^
 ||www.4908.lookinews.com^
 ||www.4919.jemonews.com^
 ||www.4925.lookinews.com^
 ||www.4935.reminews.com^
+||www.4938.groovinews.com^
 ||www.5069.bealanews.com^
 ||www.5080.rookinews.com^
 ||www.5094.deeginews.com^
@@ -21553,11 +22473,13 @@
 ||www.5284.lookinews.com^
 ||www.5305.gofenews.com^
 ||www.5328.loopanews.com^
+||www.5350.reminews.com^
 ||www.5377.reminews.com^
 ||www.5389.deeginews.com^
 ||www.5400.lookinews.com^
 ||www.5409.lookinews.com^
 ||www.545t470.lookinews.com^
+||www.5542.reminews.com^
 ||www.5565.lookinews.com^
 ||www.5679.jemonews.com^
 ||www.5809.lycheenews.com^
@@ -21577,15 +22499,18 @@
 ||www.6064.jemonews.com^
 ||www.6079.lookinews.com^
 ||www.6083.deeginews.com^
+||www.6089.lookinews.com^
 ||www.6094.lookinews.com^
 ||www.6149.groovinews.com^
 ||www.6152.reminews.com^
 ||www.6239.jumronews.com^
+||www.6240.luronews.com^
 ||www.6262.groovinews.com^
 ||www.6277.jumronews.com^
 ||www.6287.lookinews.com^
 ||www.6377.reminews.com^
 ||www.6392.groovinews.com^
+||www.6398.lookinews.com^
 ||www.6427.reminews.com^
 ||www.6434.groovinews.com^
 ||www.6443.groovinews.com^
@@ -21608,6 +22533,7 @@
 ||www.673.jemonews.com^
 ||www.6733.luronews.com^
 ||www.6759.gofenews.com^
+||www.6779.gofenews.com^
 ||www.6784.lookinews.com^
 ||www.6797.luronews.com^
 ||www.6817.jemonews.com^
@@ -21617,6 +22543,8 @@
 ||www.6873.reminews.com^
 ||www.6874.lookinews.com^
 ||www.6935.lookinews.com^
+||www.6974.deeginews.com^
+||www.7012.groovinews.com^
 ||www.7090.jemonews.com^
 ||www.7097.jemonews.com^
 ||www.7103.reminews.com^
@@ -21645,6 +22573,7 @@
 ||www.7353.reminews.com^
 ||www.7364.jemonews.com^
 ||www.7372.reminews.com^
+||www.7382.lookinews.com^
 ||www.7383.luronews.com^
 ||www.7409.selornews.com^
 ||www.7409.shockynews.com^
@@ -21712,11 +22641,13 @@
 ||www.8123.gofenews.com^
 ||www.8131.reminews.com^
 ||www.8197.reminews.com^
+||www.8205.reminews.com^
 ||www.8221.gofenews.com^
 ||www.8240.gofenews.com^
 ||www.8253.groovinews.com^
 ||www.8277.lookinews.com^
 ||www.8280.jemonews.com^
+||www.8294.lycheenews.com^
 ||www.8297.lookinews.com^
 ||www.8305.groovinews.com^
 ||www.8310.reminews.com^
@@ -21729,6 +22660,7 @@
 ||www.8469.jemonews.com^
 ||www.8484.reminews.com^
 ||www.8507.bealanews.com^
+||www.8516.lookinews.com^
 ||www.8592.groovinews.com^
 ||www.8607.jemonews.com^
 ||www.8656.reminews.com^
@@ -21750,6 +22682,7 @@
 ||www.8785.reminews.com^
 ||www.8786.jemonews.com^
 ||www.8791.reminews.com^
+||www.8812.gofenews.com^
 ||www.8826.reminews.com^
 ||www.8835.groovinews.com^
 ||www.8835.jemonews.com^
@@ -21758,6 +22691,7 @@
 ||www.8889.luronews.com^
 ||www.8901.reminews.com^
 ||www.8904.gofenews.com^
+||www.8942.gofenews.com^
 ||www.8989.lookinews.com^
 ||www.8pv9vvi9b.com^
 ||www.9006.reminews.com^
@@ -21779,6 +22713,7 @@
 ||www.9430.gofenews.com^
 ||www.9464.jemonews.com^
 ||www.9479.jemonews.com^
+||www.9480.reminews.com^
 ||www.9496.reminews.com^
 ||www.9544.reminews.com^
 ||www.9550.gofenews.com^
@@ -21803,6 +22738,7 @@
 ||www.9771.deeginews.com^
 ||www.9773.gofenews.com^
 ||www.9774.lookinews.com^
+||www.9827.jumronews.com^
 ||www.9894.gofenews.com^
 ||www.9897.gofenews.com^
 ||www.9915.jemonews.com^
@@ -21818,6 +22754,7 @@
 ||www.hkuy78i99i9.lookinews.com^
 ||www.huronews.com^
 ||www.ir8.lookinews.com^
+||www.leranews.com^
 ||www.lootynews.com^
 ||www.luronews.com^
 ||www.lycheenews.com^
@@ -21825,6 +22762,9 @@
 ||www.p6qf8cqa0.com^
 ||www.seponews.com^
 ||www.sorinews.com^
+||www.tegronews.com^
+||www.th2mbxzqe.com^
+||www.w1541.gofenews.com^
 ||www.w23eidn9j.com^
 ||x1.bealanews.com^
 ||x1.karponews.com^
@@ -21838,7 +22778,6 @@
 ||xidvideo7384.ruranews.com^
 ||xll12e1.bealanews.com^
 ||xll212e1.bealanews.com^
-||xn--8334-976a.luronews.com^
 ||xn--c1a.bestoffers-fe.com^
 ||xsvideohs4824.4e8bjpldk.com^
 ||xsvideohs48241.4e8bjpldk.com^
@@ -21846,7 +22785,9 @@
 ||xx1xl71.lycheenews.com^
 ||xx21xl771.lycheenews.com^
 ||xx2l.j74y03g8u.com^
+||xxl1.j74y03g8u.com^
 ||xxx18374videohot.bestoffers-fe.com^
+||xxx21xl771.bealanews.com^
 ||xxx21xl771.lycheenews.com^
 ||xxx31171.bealanews.com^
 ||xxx321xl771.lycheenews.com^
@@ -21870,6 +22811,7 @@
 ||y5.lookinews.com^
 ||yb543.x4q4g2zy7.com^
 ||yb543.zgoa097eh.com^
+||yekkdoi14.ksrtmgoym.com^
 ||yhhb543n4b.jumronews.com^
 ||yiy9yi504orkgj.bealanews.com^
 ||yiy9yi504orkgj.lookinews.com^
@@ -21901,6 +22843,7 @@
 ||13205d007b.e83706dbfd.com^
 ||136cb85b18.ebb174824f.com^
 ||14ec0e14c1.aac0dba6de.com^
+||19b8d396fb.298ef1ff8f.com^
 ||1c7209ccb6.dde1c03601.com^
 ||1da64eb442.d2af63b326.com^
 ||1e7847eff5.cdd027b638.com^
@@ -21942,6 +22885,8 @@
 ||3f876ad3c2.92430e785d.com^
 ||3fcce9277a.5029bb74f2.com^
 ||406afea59d.2799f73c61.com^
+||4258912000.cf76b8779a.com^
+||42d086866d.9e4c6b5c4f.com^
 ||43bb4c3cf7.249c9885c1.com^
 ||4786ebd838.aeace15a82.com^
 ||484632cd9e.1624a08136.com^
@@ -21954,6 +22899,7 @@
 ||549508c53d.cac20acc0e.com^
 ||571a16a42b.a7a2789124.com^
 ||5c3ecd55a1.143a91b3e6.com^
+||6107a15b84.5bdb6e0e40.com^
 ||61726745d5.ee717332bb.com^
 ||6177f8d3df.1ac9365789.com^
 ||619d44d59f.1f1c1d50fe.com^
@@ -21963,6 +22909,7 @@
 ||6ead51fb47.de5d5c4a49.com^
 ||6f9978f41d.f3e3a6cea1.com^
 ||6fc154f794.4f369824ed.com^
+||70d09bab35.0b1f7ca090.com^
 ||734011070c.8ec9b7706a.com^
 ||736ec4b346.ffba7aab82.com^
 ||7578dca18a.20539787d1.com^
@@ -21994,6 +22941,7 @@
 ||89d9c155c8.a8bd627b41.com^
 ||8b70d4a219.15a3163caa.com^
 ||8cbf11312f.2989f3f0ff.com^
+||8cc514abf6.a9579899d4.com^
 ||8cf530b4c4.7dfbef87b6.com^
 ||8d8039a1eb.f63777e43d.com^
 ||90a82a7125.2b2b3adee6.com^
@@ -22003,6 +22951,7 @@
 ||939943e302.1e49ec466f.com^
 ||93fe0ef153.4f6ac84634.com^
 ||94a8ef8029.544c1a86a1.com^
+||9742f9bb9f.91c8522b7b.com^
 ||9762b90201.d2f86da573.com^
 ||985d5b8b8d.9ea1aedf40.com^
 ||99c0ae4d8b.2832278cae.com^
@@ -22044,7 +22993,6 @@
 ||b3ca032261.d3befd5a11.com^
 ||b45d7a9b8c.973e017e67.com^
 ||b631994c51.0e959bd265.com^
-||b64b02b34f.5f450dbe81.com^
 ||b6d8052764.13e72f87ba.com^
 ||b6e5ef2d8a.8b7abaa862.com^
 ||b7cc0eb404.dc564d181f.com^
@@ -22052,7 +23000,6 @@
 ||b99b5d43d7.42e228ef6f.com^
 ||b9e7525021.4d76a0f3a8.com^
 ||ba85457eb5.4f4e1936f7.com^
-||bac5fcec92.6472bb8689.com^
 ||bacdcdb004.88cff7936f.com^
 ||bb73db8996.7857ab56f4.com^
 ||bc930c99b5.77cdc6d130.com^
@@ -22069,6 +23016,7 @@
 ||c75b53b604.25d83d2f3d.com^
 ||c83c29be12.2a17f5b615.com^
 ||c862e11441.aeea61a72f.com^
+||cb1d14ec96.c38f521ff4.com^
 ||cb8fc37529.d15699e8b0.com^
 ||cd612e7a49.4901967b4b.com^
 ||ce59e12e0e.b2b9a56b6a.com^
@@ -22116,6 +23064,7 @@
 ||efd8d8a247.86e7d35526.com^
 ||efdeaeb7de.3fba1b901c.com^
 ||f0dcadf8bc.840c20b1c0.com^
+||f17583a90e.3feea3f6d1.com^
 ||f217d2f8b9.bf18c2661e.com^
 ||f21ea56300.e16a8cbec4.com^
 ||f3a86487b6.b1c3e3dfed.com^
@@ -22134,6 +23083,7 @@
 ||fa21aff8b2.1a714ee67c.com^
 ||fae9743927.9a1bc795b9.com^
 ||fc07b36003.5b10f288ee.com^
+||fd0a73b2b2.e7b05975f9.com^
 ||fdaea0335d.04b73980ec.com^
 ||fdc21e01c7.536fbeeea4.com^
 ||fe16743433.1c9ca7ac71.com^
@@ -22169,6 +23119,7 @@
 ||136d6c9687.9cc064a523.com^
 ||1394aaf132.2a9f8fc03a.com^
 ||1588b03038.97da4337b5.com^
+||15df670512.a5fa8c7726.com^
 ||15fe98159d.760ead33eb.com^
 ||167a376b78.f19893fb1c.com^
 ||16887bf91c.68109deb96.com^
@@ -22176,9 +23127,9 @@
 ||1adcb970f5.5ca59a669a.com^
 ||1ba3dea890.1fa028dea6.com^
 ||1cc315653c.4097ffb08f.com^
-||1e1356fa2f.00518b6f0c.com^
 ||20827c61a1.e99877e518.com^
 ||21b8787bcc.f773a03dcb.com^
+||23167df8b3.5e6062e991.com^
 ||25a1875913.e0d8634bdb.com^
 ||267e3dd15a.234f6ce965.com^
 ||2712a87392.1ec7a1a04b.com^
@@ -22207,9 +23158,11 @@
 ||42db495dfe.ad1e220ebc.com^
 ||4cec352372.19d1da8898.com^
 ||51f93c1dfd.a7245f3c59.com^
+||51fdc70d17.622bcf2c86.com^
 ||54a9c3de7c.5ba9bf8065.com^
 ||556ed3046f.3423b141ae.com^
 ||5662fe77fd.d787d0e334.com^
+||5b2e86f0bc.5bdd0a3c90.com^
 ||5d04e99ee0.52cc43c367.com^
 ||5d5e522cdc.c7d263f5d8.com^
 ||5efd1e6d20.5e6ef8e03b.com^
@@ -22223,7 +23176,7 @@
 ||6c16929ccf.cb15484c44.com^
 ||6d3002c602.1d0ec98437.com^
 ||6e5de13f26.5d8dd0486a.com^
-||7137bfd8a4.c6f23c189f.com^
+||6f7ad7ae07.142f8fb46a.com^
 ||7199fc3313.41a33ffca8.com^
 ||71f0ac40a9.f3663618ff.com^
 ||745f5eafee.04cb2afab7.com^
@@ -22273,6 +23226,7 @@
 ||a71e29214a.40a16d92b0.com^
 ||a78e8782bd.0d0c3ccf54.com^
 ||a7c6bb92a3.71e0e9090d.com^
+||a919ff0619.ec1e40f7b3.com^
 ||aa9eb1d867.386d0838ec.com^
 ||aad23f01c7.3c96ce165a.com^
 ||ab6eb51987.abfb1f1f31.com^
@@ -22352,6 +23306,7 @@
 ||e33f322d88.f5b34517b9.com^
 ||e3e60b55f0.c6dd9301cb.com^
 ||e413f53436.8be504503e.com^
+||e469e331ae.e056dd0e49.com^
 ||e4a99e6e85.6466f42158.com^
 ||e64b3eedca.d15455901a.com^
 ||e6adc8baa5.007a15696d.com^
@@ -22409,7 +23364,7 @@
 ||1472f9a583.12f01e3591.com^
 ||147cd49082.05e11c9f6f.com^
 ||1646881f8d.466f89f4d1.com^
-||175c73e308.24fea9d560.com^
+||1667fff40a.3b1ac6ca25.com^
 ||18871ebf69.c796b67474.com^
 ||19bb119eb8.7e0efcab8b.com^
 ||1b4aced679.09b1fcc95e.com^
@@ -22419,10 +23374,12 @@
 ||1f22732747.6ec5c9fcec.com^
 ||1fdcc75a35.722cba612c.com^
 ||20cfeef03f.bdf7a07377.com^
+||214ef3ad99.ab728d9dc8.com^
 ||22562e8fc2.35998bf09e.com^
 ||23232c06bc.6ef2279e3d.com^
 ||2390985f36.57d38e3023.com^
 ||24217ae8b1.2684e4fd7f.com^
+||24d6888ad7.00d3ed994e.com^
 ||251f86a5eb.e30a86a427.com^
 ||256097b212.5c01ad4cb7.com^
 ||26b1d20dfe.0008d6ba2e.com^
@@ -22444,6 +23401,7 @@
 ||333d629107.ee625e4b1d.com^
 ||33a81b5b91.6ec7e42994.com^
 ||34b6714314.592749d456.com^
+||352131387c.1f84e33459.com^
 ||35b263f978.a356ff8a25.com^
 ||3679a9b56f.b1298d230d.com^
 ||36b963fd4a.b5c28f9b84.com^
@@ -22463,8 +23421,10 @@
 ||491ce90108.a1c99093b6.com^
 ||495720ba1f.79dc3bce9d.com^
 ||499ad88d2d.03eea1b6dd.com^
+||4aa702b79e.2bac5b4837.com^
 ||4bbefa854f.f8e36bb73c.com^
 ||4c48e5395e.01c70a2a06.com^
+||4e22ae4181.bc16fd1a7f.com^
 ||4f75a8ee0c.d7c01d241b.com^
 ||51b8b4541b.4d15ee32c1.com^
 ||5265caeee4.295a9f642d.com^
@@ -22484,6 +23444,7 @@
 ||62f74791d5.2f1969b0e8.com^
 ||6300ffc51b.bad027ae34.com^
 ||6440d83992.8d1dce99ab.com^
+||64edfecf07.52ee3dc5fe.com^
 ||651e963c09.6de72955d8.com^
 ||658df0f059.6b70b1086b.com^
 ||689ac20aa2.d3da127b69.com^
@@ -22496,6 +23457,7 @@
 ||6a423ac897.81438456aa.com^
 ||6a50e3675e.3a17d27bf9.com^
 ||6a7d5a90ee.9a7f507754.com^
+||6acb7cce62.c01d3ac9cb.com^
 ||6bc84d8134.fadf617f13.com^
 ||6e8a9948e0.6e391732a2.com^
 ||6f0e0a9e80.5f6efdfc05.com^
@@ -22506,6 +23468,7 @@
 ||73fecf8e35.fb99ef9239.com^
 ||74202b8bcc.2e55a2d58f.com^
 ||74b967be3a.68069795d1.com^
+||7500037218.258a912d15.com^
 ||77677f4520.741a18df39.com^
 ||77be761a72.8c22d403cf.com^
 ||77d0835301.775cf6f1ae.com^
@@ -22546,6 +23509,7 @@
 ||901268600b.ec1e2c92b3.com^
 ||904f5ddbe2.78387c2566.com^
 ||906d339222.89dfa3575e.com^
+||9186bf9778.cca63f7d30.com^
 ||91c24db325.c67524ad03.com^
 ||91ceadfe3f.3854704790.com^
 ||92e2e3e863.5a6c114183.com^
@@ -22565,6 +23529,7 @@
 ||9e6b79c0d0.f4961f1b2e.com^
 ||9ef88213d8.91d626064c.com^
 ||a1b7fa8b46.250f851761.com^
+||a1bce399fb.3bfcfaa8c8.com^
 ||a21d5d92c2.59e5e13578.com^
 ||a314149bb7.4a136c118e.com^
 ||a31fa4d915.d59936b940.com^
@@ -22577,7 +23542,6 @@
 ||a96284ccdb.8d23f484c1.com^
 ||aa0d368567.dd0122893e.com^
 ||ab74c4c994.b50faca981.com^
-||ab809625a4.12573ddd51.com^
 ||ab810b774c.1facd1b75f.com^
 ||abb6927da1.b397db8f50.com^
 ||adchk.vasgenerete.com^
@@ -22591,7 +23555,6 @@
 ||b114cb3fb9.0083334e84.com^
 ||b17f66e540.ce2c208e9f.com^
 ||b21c815cab.bb1ba63212.com^
-||b2eacf64fc.530bc37e10.com^
 ||b2fda60d3a.28e096686b.com^
 ||b439570158.29dc237c9b.com^
 ||b44261ea37.1be76e820d.com^
@@ -22638,6 +23601,7 @@
 ||ce9ff432c8.9a7c81f58e.com^
 ||ceedd05fb4.cfc1afd774.com^
 ||cf035299fa.9123c34615.com^
+||cf545aa526.3eab231aec.com^
 ||cst.cstwpush.com^
 ||d1d2f8769f.2df0b2e308.com^
 ||d2621f99ff.d7c6491da0.com^
@@ -22650,7 +23614,6 @@
 ||d91b4c3a52.b4dda3f4a1.com^
 ||da0f7cbe94.ffe3ca7ae5.com^
 ||da37c08c29.36b7ca5028.com^
-||da56f02c2b.fc9115d2c7.com^
 ||dbd390fc66.7df3f71dc4.com^
 ||dc2242d761.47c8d48301.com^
 ||dc60cdfad8.d7fd9bace5.com^
@@ -22673,6 +23636,7 @@
 ||ea2f8770c9.3e950d4353.com^
 ||ea5fb8fec2.ff00c90f6a.com^
 ||ec7ee6de9c.fd2a9dd918.com^
+||ecf31c06c3.d52a6b131d.com^
 ||ed93dce354.f0657e4fd5.com^
 ||ee64f14ecf.beccc1d245.com^
 ||eedd245591.ed23b83fb5.com^

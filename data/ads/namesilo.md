@@ -610,6 +610,7 @@
 | 3572904.notifysrv.com | tk6if76q.ab1n.net |
 | 3576907.notifysrv.com | tk6if76q.ab1n.net |
 | 3578231.notify6.com | tk6if76q.ab1n.net |
+| 3578235.notify6.com | tk6if76q.ab1n.net |
 | 3578239.notify6.com | tk6if76q.ab1n.net |
 | 3578253.notifysrv.com | tk6if76q.ab1n.net |
 | 3580293.notifysrv.com | tk6if76q.ab1n.net |
@@ -923,6 +924,7 @@
 | 4212982.notify6.com | tk6if76q.ab1n.net |
 | 4213112.notify6.com | tk6if76q.ab1n.net |
 | 4214522.notify6.com | tk6if76q.ab1n.net |
+| 4224486.notify6.com | tk6if76q.ab1n.net |
 | 4225290.notify6.com | tk6if76q.ab1n.net |
 | 4231372.notify6.com | tk6if76q.ab1n.net |
 | 4231374.notify6.com | tk6if76q.ab1n.net |
@@ -1089,7 +1091,6 @@
 | s.elnk4d.com | tk6if76q.ab1n.net |
 | s.elnk90.com | tk6if76q.ab1n.net |
 | s.elnk92.com | tk6if76q.ab1n.net |
-| s.elnk93.com | tk6if76q.ab1n.net |
 | s.elnkp2.com | tk6if76q.ab1n.net |
 | s.elnkp4.com | tk6if76q.ab1n.net |
 | s.elnl2a.com | tk6if76q.ab1n.net |
@@ -1215,7 +1216,6 @@
 | a.ma3ion.com | w2u4v9e1.ab1n.net |
 | a.optimizesrv.com | w2u4v9e1.ab1n.net |
 | a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
-| a.r8lnet.com | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |
 | a.rocoads.net | w2u4v9e1.ab1n.net |
 | a.santabrowser.com | w2u4v9e1.ab1n.net |
@@ -1241,6 +1241,7 @@
 | api.getblaze.app | x0xmrxm4.ab1n.net |
 | api.slice.exchange | x0xmrxm4.ab1n.net |
 | api.tf4srv.com | x0xmrxm4.ab1n.net |
+| gateway.wearetopple.com | x0xmrxm4.ab1n.net |
 | management-addisplaynetwork.exads.com | x0xmrxm4.ab1n.net |
 | management-adwirk.exads.com | x0xmrxm4.ab1n.net |
 | management-boost.exads.com | x0xmrxm4.ab1n.net |

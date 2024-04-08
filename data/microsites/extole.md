@@ -222,7 +222,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -417,7 +416,6 @@
     * paulmitchell.extole.io
     * paylocity.extole.io
     * perriconemd.extole.io
-    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -556,7 +554,6 @@
     * vonagebusiness.extole.io
     * vonagebusinessuk.extole.io
     * wagwalking.extole.io
-    * walmartmoneycard.em.extole.io
     * walmartmoneycard.extole.io
     * wearesouthwind.extole.io
     * wecohospitality.extole.io
@@ -569,6 +566,7 @@
     * wolverine.extole.io
     * wombat.extole.io
     * wrangler.extole.io
+    * xfinity.extole.io
     * zazzle.extole.io
     * zebit.extole.io
     * zenbusiness.extole.io
@@ -724,7 +722,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -1048,7 +1045,6 @@
 | refer.paylocity.com | paylocity.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
-| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1258,7 +1254,6 @@
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
 | refer.vonage.co.uk | vonageuk.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
-| em9523.walmartmoneycard.com | walmartmoneycard.em.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |
 | refer.themvpkc.com | wearesouthwind.extole.io |
@@ -1277,6 +1272,10 @@
 | share.wombatinvest.com | wombat.extole.io |
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
+| refer.xfinity.com | xfinity.extole.io |
+| referafriend.comcast.com | xfinity.extole.io |
+| referafriend.xfinity.com | xfinity.extole.io |
+| www.refer.xfinity.com | xfinity.extole.io |
 | xtl._domainkey.skillshare.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
 | refer.zazzlereferral.com | zazzle.extole.io |

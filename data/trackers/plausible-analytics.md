@@ -16,7 +16,6 @@
 | a-api.skz.dev | custom.plausible.io |
 | a.aawp.de | custom.plausible.io |
 | a.easyazon.com | custom.plausible.io |
-| a.getaawp.com | custom.plausible.io |
 | a.iiro.dev | custom.plausible.io |
 | a.linkz.ai | custom.plausible.io |
 | a.remy.world | custom.plausible.io |
@@ -824,7 +823,6 @@
 | stats.spreadtheworld.net | custom.plausible.io |
 | stats.sprune.com | custom.plausible.io |
 | stats.sqlteam.com | custom.plausible.io |
-| stats.squaddy.se | custom.plausible.io |
 | stats.stack11.io | custom.plausible.io |
 | stats.stackingthebricks.com | custom.plausible.io |
 | stats.stacks.org | custom.plausible.io |

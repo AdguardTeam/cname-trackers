@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,62 +11,12 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
-ap.faxmate.com.au CNAME .
-cl.fps-inc.jp CNAME .
-engage.gsehd.gwu.edu CNAME .
-go.3eco.com CNAME .
-go.albahar.com CNAME .
-go.antylia.com CNAME .
-go.appengage.sinch.com CNAME .
-go.awcapital.ca CNAME .
-go.awpsafety.com CNAME .
-go.circlek.pl CNAME .
-go.elementbiosciences.com CNAME .
-go.krew.grapecity.com CNAME .
-go.kutavar.com CNAME .
-go.lion-specialty-chem.co.jp CNAME .
-go.locallogic.co CNAME .
-go.luware.com CNAME .
-go.magellanhealth.com CNAME .
-go.magnuminsurance.com CNAME .
-go.media-hakase.com CNAME .
-go.medis.is CNAME .
-go.mercermarshbenefits.com CNAME .
-go.metroaviation.com CNAME .
-go.net2phone.ca CNAME .
-go.oaktreecapital.com CNAME .
-go.opigno.org CNAME .
-go.optadata.de CNAME .
-go.pexapark.com CNAME .
-go.playads.jp CNAME .
-go.premiersafety.com CNAME .
-go.prosourceinfo.com CNAME .
-go.quartethealth.com CNAME .
-go.queens-henna.com CNAME .
-go.rrfedu.com CNAME .
-go.rusticisoftware.com CNAME .
-go.sapienceanalytics.com CNAME .
-go.schoonhuisshop.nl CNAME .
-go.sevenpoints.co CNAME .
-go.smithrx.com CNAME .
-go.socialtalent.com CNAME .
-go.solidifi.com CNAME .
-go.soliton.co.jp CNAME .
-go.soracom.io CNAME .
-go.sportalliance.com CNAME .
-go.submittable.com CNAME .
-go.sunbeltmh.com CNAME .
-go.technologyadvice.com CNAME .
-local.nielsen.com CNAME .
-mktlife.casadelascampanas.com CNAME .
-www2.datevkoinos.it CNAME .
 0-rootsweb.b2bmktg.com CNAME .
 03.b2bmktg.com CNAME .
 1.28ed48cdc058027f6b8c6e7142bb7c87.info CNAME .
 1.adidevelopments.com CNAME .
 1.appexchange.com CNAME .
 1.forumgroup.com.au CNAME .
-1.librestream.com CNAME .
 1.oceanfrontwealth.com CNAME .
 1.salesforce-partners.com CNAME .
 1.sayge.io CNAME .
@@ -323,6 +273,7 @@ ap.be-cloud-office.com CNAME .
 ap.efax.co.jp CNAME .
 ap.efaxcorporate.com.au CNAME .
 ap.enterprise.efax.com.au CNAME .
+ap.faxmate.com.au CNAME .
 ap.fudosantoushi.net CNAME .
 ap.shinoken-fcl.com CNAME .
 ap.shinoken.co.jp CNAME .
@@ -796,6 +747,7 @@ choose.urbanteachers.org CNAME .
 choosegrad.ttu.edu CNAME .
 cjm.leadershiptraining.info CNAME .
 cl.dwf.jp CNAME .
+cl.fps-inc.jp CNAME .
 cl.lmis.jp CNAME .
 cl.mitani.work CNAME .
 cl.nnlife.co.jp CNAME .
@@ -1068,6 +1020,7 @@ contact.apirem.fr CNAME .
 contact.aveliasolutions.com CNAME .
 contact.bank5connect.com CNAME .
 contact.coretec.be CNAME .
+contact.creativeplanning.com CNAME .
 contact.drummondgroup.com CNAME .
 contact.embroker.com CNAME .
 contact.flo.com CNAME .
@@ -1147,7 +1100,6 @@ content.clarke-energy.com CNAME .
 content.cmpsolutions.com CNAME .
 content.confluence.com CNAME .
 content.corelogic.com.au CNAME .
-content.corporatevideosummit.com CNAME .
 content.cottages.com CNAME .
 content.cssregtech.com CNAME .
 content.ctherm.com CNAME .
@@ -1702,6 +1654,7 @@ engage.epghealth.com CNAME .
 engage.fpt-intellinet.com CNAME .
 engage.gainfront.com CNAME .
 engage.globalaffairs.org CNAME .
+engage.gsehd.gwu.edu CNAME .
 engage.halliburton.com CNAME .
 engage.huronconsultinggroup.com CNAME .
 engage.innosight.com CNAME .
@@ -1829,7 +1782,6 @@ firesuppression.johnsoncontrols.com CNAME .
 fixedincome.twentyfouram.com CNAME .
 fj.gala-navi.com CNAME .
 flacktek.speedmixer.com CNAME .
-fleet.cupraofficial.co.uk CNAME .
 fleet.esupervision.com CNAME .
 fleet.nissan.co.uk CNAME .
 fleet.seat.co.uk CNAME .
@@ -2009,6 +1961,7 @@ go.365dagensuccesvol.nl CNAME .
 go.3cad.com CNAME .
 go.3dprintdirect.co.uk CNAME .
 go.3dtrekprinting.com CNAME .
+go.3eco.com CNAME .
 go.3qdept.com CNAME .
 go.3qdigital.com CNAME .
 go.3sixtydental.com CNAME .
@@ -2047,6 +2000,7 @@ go.abcfinancial.com CNAME .
 go.abcfitness.com CNAME .
 go.abel-s.co.jp CNAME .
 go.abi.co.jp CNAME .
+go.abilitymap.com CNAME .
 go.ablinc.com CNAME .
 go.absi.be CNAME .
 go.absolutely-karting.co.uk CNAME .
@@ -2090,7 +2044,6 @@ go.acoufelt.com CNAME .
 go.acoufelt.com.au CNAME .
 go.acoustic.com CNAME .
 go.acpe.edu.au CNAME .
-go.acquisconsulting.com CNAME .
 go.acrotec.ch CNAME .
 go.acrs.org CNAME .
 go.acsgbl.com CNAME .
@@ -2271,13 +2224,14 @@ go.akwealthadvisors.com CNAME .
 go.alabama.thejoyfm.com CNAME .
 go.alantraleasing.com CNAME .
 go.alarm.com CNAME .
-go.albanyassociates.com CNAME .
+go.albahar.com CNAME .
 go.albatrosspools.com.au CNAME .
 go.albertbakerfund.org CNAME .
 go.albirasolutions.com CNAME .
 go.albis-elcon.com CNAME .
 go.albumedix.com CNAME .
 go.alchemer.com CNAME .
+go.alchera.ai CNAME .
 go.alefeducation.com CNAME .
 go.alen.com CNAME .
 go.alertalarmhawaii.com CNAME .
@@ -2295,6 +2249,7 @@ go.alkaviva.com CNAME .
 go.all-different.co.jp CNAME .
 go.allacademicbasketball.com CNAME .
 go.allaccessequipment.com CNAME .
+go.allcells.com CNAME .
 go.allensportswear.com CNAME .
 go.allfisolutions.com CNAME .
 go.allflexheaters.com CNAME .
@@ -2329,6 +2284,7 @@ go.alvinailey.org CNAME .
 go.alwaysblink.com CNAME .
 go.ama-campus.com CNAME .
 go.amadaweldtech.com CNAME .
+go.amano.co.jp CNAME .
 go.amarok.com CNAME .
 go.amazon-accelerator.com CNAME .
 go.amazon-bulk-sales.co.uk CNAME .
@@ -2387,6 +2343,7 @@ go.ansafone.com CNAME .
 go.answerfirst.com CNAME .
 go.anthology.london CNAME .
 go.antunes.com CNAME .
+go.antylia.com CNAME .
 go.anyclip.com CNAME .
 go.anz.medical.canon CNAME .
 go.aogexpo.com.au CNAME .
@@ -2401,6 +2358,7 @@ go.app.futurefamily.com CNAME .
 go.appa.pe CNAME .
 go.appcentrica.com CNAME .
 go.appdirect.com CNAME .
+go.appengage.sinch.com CNAME .
 go.appexchange.com CNAME .
 go.apposite-tech.com CNAME .
 go.apprenticareers.org CNAME .
@@ -2518,6 +2476,7 @@ go.auto-ice.com CNAME .
 go.automationedgerpa.com CNAME .
 go.automationtomorrow.com CNAME .
 go.automotive.softing.com CNAME .
+go.autorabit.com CNAME .
 go.autoro.io CNAME .
 go.autosoftdms.com CNAME .
 go.autumncs.com CNAME .
@@ -2534,10 +2493,13 @@ go.avicado.com CNAME .
 go.avionos.com CNAME .
 go.avistone.com CNAME .
 go.avnersfoundation.org.au CNAME .
+go.avoka.com CNAME .
 go.avvo.com CNAME .
 go.award-inc.co.jp CNAME .
 go.awardsolutions.com CNAME .
+go.awcapital.ca CNAME .
 go.awcwire.com CNAME .
+go.awpsafety.com CNAME .
 go.awspartner.com CNAME .
 go.axc.ne.jp CNAME .
 go.axelera.ai CNAME .
@@ -2612,6 +2574,7 @@ go.bc-collection.eu CNAME .
 go.bccm.coop CNAME .
 go.bdainc.com CNAME .
 go.bdapartners.com CNAME .
+go.bdcaus.com CNAME .
 go.bebit.co.jp CNAME .
 go.becn.com CNAME .
 go.beecallingsolutions.com CNAME .
@@ -2651,11 +2614,13 @@ go.biohithealthcare.co.uk CNAME .
 go.biointellisense.com CNAME .
 go.biolase.com CNAME .
 go.biolegend.com CNAME .
+go.biolifesolutions.com CNAME .
 go.bioliquidator.com CNAME .
 go.biomerics.com CNAME .
 go.biomerieux.com CNAME .
 go.bionanogenomics.com CNAME .
 go.bionic.co.uk CNAME .
+go.bionly.jp CNAME .
 go.biosearchtech.com CNAME .
 go.biotek.com CNAME .
 go.biovectra.com CNAME .
@@ -2677,6 +2642,7 @@ go.bluecatnetworks.com CNAME .
 go.bluecorona.com CNAME .
 go.bluecrowcapital.com CNAME .
 go.bluedotcorp.com CNAME .
+go.bluefin.com CNAME .
 go.bluefort.com CNAME .
 go.blueplanet-works.com CNAME .
 go.bluepointleadership.com CNAME .
@@ -2849,8 +2815,10 @@ go.cigr.co.jp CNAME .
 go.cipher.ai CNAME .
 go.circlek.ee CNAME .
 go.circlek.ie CNAME .
+go.circlek.lt CNAME .
 go.circlek.lv CNAME .
 go.circlek.no CNAME .
+go.circlek.pl CNAME .
 go.circlek.se CNAME .
 go.cirrico.com CNAME .
 go.citymonitor.ai CNAME .
@@ -3051,6 +3019,7 @@ go.divcom.net.au CNAME .
 go.dlcom.net CNAME .
 go.dlink-jp.com CNAME .
 go.dlink.com CNAME .
+go.dmetrain.com CNAME .
 go.dnagenotek.com CNAME .
 go.dnanexus.com CNAME .
 go.dobson.net CNAME .
@@ -3094,6 +3063,7 @@ go.earnest.com CNAME .
 go.earth-support.jp CNAME .
 go.eastbanctech.com CNAME .
 go.eastbrookhomes.com CNAME .
+go.easternengineering.com CNAME .
 go.easyice.com CNAME .
 go.easyoffices.com CNAME .
 go.ebay.co.jp CNAME .
@@ -3102,6 +3072,7 @@ go.ebaymotorsgroup.co.uk CNAME .
 go.ebmc.jp CNAME .
 go.ec-force.com CNAME .
 go.eca.edu.au CNAME .
+go.ecampusontario.ca CNAME .
 go.ecamsecure.com CNAME .
 go.ecamsecure.garda.com CNAME .
 go.eccles.utah.edu CNAME .
@@ -3179,6 +3150,7 @@ go.elearningonline.co.nz CNAME .
 go.electraline.com CNAME .
 go.electroniccoating.com CNAME .
 go.element-designs.com CNAME .
+go.elementbiosciences.com CNAME .
 go.elementfleet.com CNAME .
 go.elementmusic.com CNAME .
 go.elements.org CNAME .
@@ -3266,7 +3238,6 @@ go.ethosenergy.com CNAME .
 go.etree.jp CNAME .
 go.etsglobal.org CNAME .
 go.eu.uponor.com CNAME .
-go.eu.wcs.global CNAME .
 go.eukleia.com CNAME .
 go.eunetworks.com CNAME .
 go.eurasiagroup.net CNAME .
@@ -3391,6 +3362,7 @@ go.fieldin.com CNAME .
 go.fieldpulse.com CNAME .
 go.fieramilano.it CNAME .
 go.filmless.com CNAME .
+go.financedrivencamp.com CNAME .
 go.financialengines.com CNAME .
 go.financialfitnessassociation.org CNAME .
 go.financialfreedomwmg.com CNAME .
@@ -3404,6 +3376,7 @@ go.finscan.com CNAME .
 go.fintech.com CNAME .
 go.fintech.net CNAME .
 go.fintechnexus.com CNAME .
+go.finvia.fo CNAME .
 go.fiorentini.com CNAME .
 go.fireandsafetyaustralia.com.au CNAME .
 go.firex.com CNAME .
@@ -3418,7 +3391,6 @@ go.firstsolar.com CNAME .
 go.firstwave.com CNAME .
 go.firstwavecloud.com CNAME .
 go.fis-s.co.jp CNAME .
-go.fivestar-corporation.co.jp CNAME .
 go.fixturesanddisplays.com CNAME .
 go.fj-com.co.jp CNAME .
 go.flamingogardens.org CNAME .
@@ -3470,7 +3442,6 @@ go.foodbankvictoria.org.au CNAME .
 go.foodjinzaibank.jp CNAME .
 go.foodmanufacture.co.uk CNAME .
 go.ford.sk CNAME .
-go.forefrontcorp.com CNAME .
 go.foresite.com CNAME .
 go.forethought.com CNAME .
 go.foreverlabs.com CNAME .
@@ -3546,6 +3517,7 @@ go.getconga.com CNAME .
 go.getcontrol.com.au CNAME .
 go.getconvey.com CNAME .
 go.getflowpath.com CNAME .
+go.getg5.com CNAME .
 go.getmobee.com CNAME .
 go.getnetset.com CNAME .
 go.getontop.com CNAME .
@@ -3642,6 +3614,7 @@ go.goga.co.jp CNAME .
 go.gogrid.com CNAME .
 go.goguardian.com CNAME .
 go.goldbelly.com CNAME .
+go.goldfingerholdings.com CNAME .
 go.goldstackers.com.au CNAME .
 go.goldtouch.com CNAME .
 go.goldwaterinstitute.org CNAME .
@@ -3709,9 +3682,7 @@ go.grocerysupply.com CNAME .
 go.grondmaps.com CNAME .
 go.groove.co CNAME .
 go.groovecarinc.com CNAME .
-go.grostaff.com CNAME .
 go.ground-f.com CNAME .
-go.groundlabs.com CNAME .
 go.groupe-espi.fr CNAME .
 go.groupe-ocea.fr CNAME .
 go.groupe-satec.com CNAME .
@@ -3744,7 +3715,6 @@ go.gym-s.jp CNAME .
 go.h1healthcare.com.au CNAME .
 go.h2igroup.com CNAME .
 go.haakerunderground.com CNAME .
-go.haas-fertigbau.de CNAME .
 go.habitat.org.nz CNAME .
 go.hair-model-bank.com CNAME .
 go.hairbook.jp CNAME .
@@ -3850,7 +3820,6 @@ go.houjudo.co.jp CNAME .
 go.house.allhouse.co.jp CNAME .
 go.hovione.com CNAME .
 go.howtelevision.co.jp CNAME .
-go.hoyavision.com CNAME .
 go.hpc.co.jp CNAME .
 go.hpe-co.com CNAME .
 go.hpslaw.com CNAME .
@@ -3945,7 +3914,6 @@ go.indexengines.com CNAME .
 go.indl-source.com CNAME .
 go.industrial-ia.com CNAME .
 go.industrialpress.com CNAME .
-go.industry.siemens.com CNAME .
 go.infiniq.ai CNAME .
 go.influencerintelligence.com CNAME .
 go.info-education.com CNAME .
@@ -3969,7 +3937,6 @@ go.innovativecompany.com CNAME .
 go.innovativedriven.com CNAME .
 go.innovativesystems.com CNAME .
 go.innovyze.com CNAME .
-go.inntopia.com CNAME .
 go.inoacorp.jp CNAME .
 go.inoapps.com CNAME .
 go.inoviopay.com CNAME .
@@ -4040,7 +4007,6 @@ go.investpmc.com CNAME .
 go.invision-inc.jp CNAME .
 go.invitedclubs.com CNAME .
 go.invitedhome.com CNAME .
-go.invivo.com CNAME .
 go.involta.com CNAME .
 go.inxpect.com CNAME .
 go.iocdf.org CNAME .
@@ -4301,6 +4267,7 @@ go.kinghogar.com CNAME .
 go.kingslax.com CNAME .
 go.kingstonvalves.com CNAME .
 go.kinnos.com CNAME .
+go.kinshipmke.org CNAME .
 go.kinsyodo.co.jp CNAME .
 go.kintaisystem.com CNAME .
 go.kirasystems.com CNAME .
@@ -4352,6 +4319,7 @@ go.kowapets.co.jp CNAME .
 go.koyo-co.co.jp CNAME .
 go.koyo-s.co.jp CNAME .
 go.kreitlerfinancial.com CNAME .
+go.krew.grapecity.com CNAME .
 go.krew.mescius.jp CNAME .
 go.kte-corp.co.jp CNAME .
 go.kubus.com CNAME .
@@ -4363,6 +4331,7 @@ go.kuraraydental.com CNAME .
 go.kureha.co.jp CNAME .
 go.kurzweiledu.com CNAME .
 go.kush.com CNAME .
+go.kutavar.com CNAME .
 go.kutol.com CNAME .
 go.kvh.com CNAME .
 go.kwiklok.com CNAME .
@@ -4401,6 +4370,7 @@ go.largebusiness.originenergy.com.au CNAME .
 go.lark.com CNAME .
 go.larsondavis.com CNAME .
 go.lasalle.com CNAME .
+go.lasenor.com CNAME .
 go.lastech.com.au CNAME .
 go.lat.london CNAME .
 go.latam.sinch.com CNAME .
@@ -4408,6 +4378,7 @@ go.latinlawyer.com CNAME .
 go.latutors123.com CNAME .
 go.launchpadrecruits.com CNAME .
 go.laurentide.com CNAME .
+go.law.ucla.edu CNAME .
 go.lawinorder.com CNAME .
 go.lawlogix.com CNAME .
 go.lawrencecompanies.com CNAME .
@@ -4470,7 +4441,6 @@ go.lightguidesys.com CNAME .
 go.lighthouseai.com CNAME .
 go.lighthouselife.com CNAME .
 go.lightspeeddms.com CNAME .
-go.lightware.com CNAME .
 go.lightwirebusiness.com CNAME .
 go.liiga.me CNAME .
 go.lilz.jp CNAME .
@@ -4484,14 +4454,13 @@ go.line-sm.com CNAME .
 go.linedriveu.com CNAME .
 go.linet.com CNAME .
 go.linetgroup.com CNAME .
-go.lineweaver.net CNAME .
-go.linkedall.com CNAME .
 go.linkers.net CNAME .
 go.linkstaff.co.jp CNAME .
 go.linnenatwork.nl CNAME .
 go.linup.it CNAME .
 go.linx.tw CNAME .
 go.lion-novelty.com CNAME .
+go.lion-specialty-chem.co.jp CNAME .
 go.lionfoxpartners.com CNAME .
 go.lionhygiene.co.jp CNAME .
 go.lippincott.com CNAME .
@@ -4523,6 +4492,7 @@ go.lobbycre.com CNAME .
 go.loc.northwestern.edu CNAME .
 go.local.fr CNAME .
 go.localist.com CNAME .
+go.locallogic.co CNAME .
 go.localsearchessentials.com CNAME .
 go.locationsmart.net CNAME .
 go.logicaloperations.com CNAME .
@@ -4570,6 +4540,8 @@ go.lum.it CNAME .
 go.lumary.com.au CNAME .
 go.lumedx.com CNAME .
 go.luminamarketing.com CNAME .
+go.lunafarm.it CNAME .
+go.luware.com CNAME .
 go.luxapatio.com CNAME .
 go.luxembourgforfinance.com CNAME .
 go.luxhub.com CNAME .
@@ -4583,7 +4555,6 @@ go.lytescholars.org CNAME .
 go.m-f-a.com CNAME .
 go.m-keiei.jp CNAME .
 go.m.io CNAME .
-go.m3b.de CNAME .
 go.ma-draft.com CNAME .
 go.maacproject.org CNAME .
 go.macdermidalpha.com CNAME .
@@ -4602,12 +4573,14 @@ go.madisontech.com.au CNAME .
 go.madria.net CNAME .
 go.maergo.com CNAME .
 go.magagym.com CNAME .
+go.magellanhealth.com CNAME .
 go.magmfg.com CNAME .
 go.magna5global.com CNAME .
 go.magnaflux.com CNAME .
 go.magnetrol.com CNAME .
 go.magnite.com CNAME .
 go.magnolia-medical.com CNAME .
+go.magnuminsurance.com CNAME .
 go.magnumsystems.com CNAME .
 go.maground.com CNAME .
 go.mail-betrading.com CNAME .
@@ -4644,9 +4617,7 @@ go.maravai.com CNAME .
 go.marchesibarolo.com CNAME .
 go.marcomcentral.com CNAME .
 go.marcus-fukuoka.com CNAME .
-go.marcusmillichap.com CNAME .
 go.mareana.com CNAME .
-go.mariacawealth.com CNAME .
 go.marianatek.com CNAME .
 go.marineco.com.au CNAME .
 go.marinoware.com CNAME .
@@ -4699,7 +4670,6 @@ go.marketing.qbtech.com CNAME .
 go.marketing.qintesi.it CNAME .
 go.marketing.rold.com CNAME .
 go.marketing.thompsontruck.com CNAME .
-go.marketing.triforce.com.au CNAME .
 go.marketinggeneral.com CNAME .
 go.marketingportal.nikkei.co.jp CNAME .
 go.marketingportal.nikkei.com CNAME .
@@ -4760,10 +4730,8 @@ go.mdc.mo.gov CNAME .
 go.mdcprecision.com CNAME .
 go.mdsave.com CNAME .
 go.mdxk.co.kr CNAME .
-go.meafarma.it CNAME .
 go.meainfo.org CNAME .
 go.measurand.com CNAME .
-go.mebaamorocco.aero CNAME .
 go.mecco.com CNAME .
 go.meclabs.com CNAME .
 go.mecyes.co.jp CNAME .
@@ -4772,6 +4740,7 @@ go.medalogix.com CNAME .
 go.medcast.com.au CNAME .
 go.medeanalytics.com CNAME .
 go.medfarsolutions.com CNAME .
+go.media-hakase.com CNAME .
 go.media-square.co.jp CNAME .
 go.mediabank.com CNAME .
 go.mediacentric.net CNAME .
@@ -4782,6 +4751,7 @@ go.medicom.phchd.com CNAME .
 go.medigate.io CNAME .
 go.mediphone.jp CNAME .
 go.mediquant.com CNAME .
+go.medis.is CNAME .
 go.mediware.com CNAME .
 go.medreps.com CNAME .
 go.medscape.com CNAME .
@@ -4804,13 +4774,13 @@ go.melp.life CNAME .
 go.menicon.co.jp CNAME .
 go.mercanproperties.pt CNAME .
 go.mercatoradvisorygroup.com CNAME .
+go.mercermarshbenefits.com CNAME .
 go.meredith.com CNAME .
 go.meridianbirdremoval.com CNAME .
 go.meridiancapital.com CNAME .
 go.meridianllc.com CNAME .
 go.meritfa.com CNAME .
 go.meritlifegroup.com CNAME .
-go.merrybiz.jp CNAME .
 go.mertztaggart.com CNAME .
 go.message.ofx.com CNAME .
 go.messe-berlin.asia CNAME .
@@ -4823,6 +4793,7 @@ go.methodsmachine.com CNAME .
 go.metocean.com CNAME .
 go.metrasens.com CNAME .
 go.metrc.com CNAME .
+go.metroaviation.com CNAME .
 go.metroclassified.co.uk CNAME .
 go.metroexhibits.com CNAME .
 go.metronome.io CNAME .
@@ -4835,7 +4806,6 @@ go.mgpingredients.com CNAME .
 go.mgrc.com CNAME .
 go.mhc.com CNAME .
 go.mhif.org CNAME .
-go.mhmcpa.com CNAME .
 go.mi-jack.com CNAME .
 go.mi.edu CNAME .
 go.miaaesthetics.com CNAME .
@@ -4879,7 +4849,6 @@ go.militaryembedded.com CNAME .
 go.millionaire-mind-academy.com CNAME .
 go.millpond.co.nz CNAME .
 go.millvi.jp CNAME .
-go.millwardbrown.com CNAME .
 go.miltonmfg.com CNAME .
 go.mimacom.com CNAME .
 go.mimetas.com CNAME .
@@ -4887,7 +4856,6 @@ go.mindeducation.org CNAME .
 go.mindhub.mx CNAME .
 go.mindstreaminteractive.com CNAME .
 go.mineraltree.com CNAME .
-go.minerva.edu CNAME .
 go.mingleanalytics.com CNAME .
 go.minglehealth.com CNAME .
 go.mini.jp CNAME .
@@ -4928,7 +4896,6 @@ go.mki.co.jp CNAME .
 go.mkjmarketing.com CNAME .
 go.mks.com CNAME .
 go.mksinst.com CNAME .
-go.mkt.generalcomspa.it CNAME .
 go.mktg.maximcrane.com CNAME .
 go.mktg.parsintl.com CNAME .
 go.mktg.spantechconveyors.com CNAME .
@@ -5001,7 +4968,6 @@ go.mp.ss-midori.com CNAME .
 go.mployee.com CNAME .
 go.mpsanet.org CNAME .
 go.mpulsesoftware.com CNAME .
-go.mpwservices.com CNAME .
 go.mrioa.com CNAME .
 go.mrpfd.com CNAME .
 go.mscc.edu CNAME .
@@ -5013,7 +4979,6 @@ go.mtrigger.com CNAME .
 go.mtuonsiteenergy.com CNAME .
 go.mudlickmail.com CNAME .
 go.muellerelectric.com CNAME .
-go.muih.edu CNAME .
 go.mullerec.com CNAME .
 go.multipacksolutions.com CNAME .
 go.multiplan.com CNAME .
@@ -5059,7 +5024,6 @@ go.na.org CNAME .
 go.na.surteco.com CNAME .
 go.nacacnet.org CNAME .
 go.nacionalgest.pt CNAME .
-go.nacomposites.com CNAME .
 go.nadeshiko-sapuri.com CNAME .
 go.naea.org CNAME .
 go.nagios.org CNAME .
@@ -5125,9 +5089,9 @@ go.neogenlatam.com CNAME .
 go.neotech.com CNAME .
 go.neoti.com CNAME .
 go.neoxam.com CNAME .
-go.neshealth-care.com CNAME .
 go.nesic.co.jp CNAME .
 go.nestwealth.com CNAME .
+go.net2phone.ca CNAME .
 go.netacea.com CNAME .
 go.netanium.com CNAME .
 go.netbasequid.com CNAME .
@@ -5137,14 +5101,12 @@ go.netcorecloud.com CNAME .
 go.netcraftsmen.com CNAME .
 go.netdebt.com CNAME .
 go.netdepot.com CNAME .
-go.neteller.com CNAME .
 go.netgaincloud.com CNAME .
 go.nethealth.com CNAME .
 go.netigate.net CNAME .
 go.netnordic.com CNAME .
 go.netradyne.com CNAME .
 go.netrixglobal.com CNAME .
-go.netrixllc.com CNAME .
 go.netsweeper.com CNAME .
 go.networkcablingservices.com CNAME .
 go.networkmediapartners.com CNAME .
@@ -5317,6 +5279,7 @@ go.nz.challenger.com.au CNAME .
 go.nzb.co.nz CNAME .
 go.nzse.ac.nz CNAME .
 go.nzytech.com CNAME .
+go.oaktreecapital.com CNAME .
 go.obeo.com CNAME .
 go.obora-pri.co.jp CNAME .
 go.oceanpowertech.com CNAME .
@@ -5396,7 +5359,9 @@ go.openwacca.com CNAME .
 go.operationgratitude.com CNAME .
 go.opfocus.com CNAME .
 go.ophiropt.com CNAME .
+go.opigno.org CNAME .
 go.opsecsecurity.com CNAME .
+go.optadata.de CNAME .
 go.optitex.com CNAME .
 go.optosystem.com CNAME .
 go.optrel.jp CNAME .
@@ -5521,7 +5486,6 @@ go.pblassaysci.com CNAME .
 go.pcapharmacy.com CNAME .
 go.pcb.com CNAME .
 go.pcigroup.com CNAME .
-go.pcma.org CNAME .
 go.pcssoft.com CNAME .
 go.pd-tech.com CNAME .
 go.pdf.com CNAME .
@@ -5534,7 +5498,6 @@ go.peergroup.com CNAME .
 go.pefservices.com CNAME .
 go.pegasus-sustainability.com CNAME .
 go.pegasusinvestments.com CNAME .
-go.pelorusx.com CNAME .
 go.pelorusyachting.com CNAME .
 go.pemphigus.org CNAME .
 go.pencol.edu CNAME .
@@ -5569,10 +5532,12 @@ go.persiskin.es CNAME .
 go.persistent.com CNAME .
 go.perspecsys.com CNAME .
 go.pertech.co.il CNAME .
+go.pestpac.com CNAME .
 go.petdesign.jp CNAME .
 go.peterssupply.com CNAME .
 go.petitpierre.ch CNAME .
 go.petsmartcharities.org CNAME .
+go.pexapark.com CNAME .
 go.pexco.com CNAME .
 go.pgpro.com CNAME .
 go.phantomhighspeed.com CNAME .
@@ -5639,6 +5604,7 @@ go.plaquick.com CNAME .
 go.plaspack.com CNAME .
 go.platformeventsuk.com CNAME .
 go.platinumassoc.com CNAME .
+go.playads.jp CNAME .
 go.playermaker.com CNAME .
 go.playonsports.com CNAME .
 go.plcorp.net CNAME .
@@ -5705,6 +5671,7 @@ go.precollege.risd.edu CNAME .
 go.precor.com CNAME .
 go.predicthq.com CNAME .
 go.premieranesthesia.com CNAME .
+go.premiersafety.com CNAME .
 go.premiumhealth.com.au CNAME .
 go.prepaid.usbank.com CNAME .
 go.preqin.com CNAME .
@@ -5769,6 +5736,7 @@ go.propio-ls.com CNAME .
 go.prosearch.com CNAME .
 go.proshipinc.com CNAME .
 go.proso.ai CNAME .
+go.prosourceinfo.com CNAME .
 go.prosperexperiential.com CNAME .
 go.prostormshelters.com CNAME .
 go.protechassociates.com CNAME .
@@ -5828,7 +5796,9 @@ go.quantela.com CNAME .
 go.quanterix.com CNAME .
 go.quantumtouchseries.com CNAME .
 go.quantumxc.com CNAME .
+go.quartethealth.com CNAME .
 go.qube.network CNAME .
+go.queens-henna.com CNAME .
 go.quentic.at CNAME .
 go.quentic.ch CNAME .
 go.quentic.com CNAME .
@@ -6060,6 +6030,7 @@ go.ringring.be CNAME .
 go.ringteacher.com CNAME .
 go.riseabove.com.au CNAME .
 go.risorse.it CNAME .
+go.ritehite.com CNAME .
 go.rivalea.com.au CNAME .
 go.riverradio.com CNAME .
 go.riversidemillwork.ca CNAME .
@@ -6114,6 +6085,7 @@ go.royalcanin.jp CNAME .
 go.roycefunds.com CNAME .
 go.rozetta.jp CNAME .
 go.rqipartners.com CNAME .
+go.rrfedu.com CNAME .
 go.rscapital.com CNAME .
 go.rspcawa.org.au CNAME .
 go.rstinstruments.com CNAME .
@@ -6130,6 +6102,7 @@ go.rul.ai CNAME .
 go.rulingourexperiences.com CNAME .
 go.runexy.co.jp CNAME .
 go.rustconsulting.com CNAME .
+go.rusticisoftware.com CNAME .
 go.rwhs.co.uk CNAME .
 go.rworks.jp CNAME .
 go.rxbenefits.com CNAME .
@@ -6156,6 +6129,7 @@ go.sage-growth.com CNAME .
 go.sage.edu CNAME .
 go.sageglass.com CNAME .
 go.sageusa.org CNAME .
+go.saiassurance.co.uk CNAME .
 go.saiassurance.com CNAME .
 go.saiassurance.com.au CNAME .
 go.saiassurance.id CNAME .
@@ -6187,6 +6161,7 @@ go.sangyoui.co.jp CNAME .
 go.sanikleen.co.jp CNAME .
 go.sanki.komatsu CNAME .
 go.sapeet.com CNAME .
+go.sapienceanalytics.com CNAME .
 go.sapphire.miletos.tech CNAME .
 go.sappi.com CNAME .
 go.saranen.fi CNAME .
@@ -6221,6 +6196,7 @@ go.schooltechsupply.com CNAME .
 go.schooltheatre.org CNAME .
 go.schoolwide.com CNAME .
 go.schoolwith.me CNAME .
+go.schoonhuisshop.nl CNAME .
 go.schuelke.com CNAME .
 go.schwabenhaus.de CNAME .
 go.science.ne.jp CNAME .
@@ -6325,7 +6301,6 @@ go.seo-nest.de CNAME .
 go.sepapower.org CNAME .
 go.septeni.co.jp CNAME .
 go.sequent-rewm.com CNAME .
-go.sequentum.com CNAME .
 go.seraku.co.jp CNAME .
 go.serda.com CNAME .
 go.serialio.com CNAME .
@@ -6349,6 +6324,7 @@ go.setantacollege.com CNAME .
 go.setsuyo.com.tw CNAME .
 go.seubert.com CNAME .
 go.sevendex.com CNAME .
+go.sevenpoints.co CNAME .
 go.sf.stockformer.com CNAME .
 go.sfc.com CNAME .
 go.sfcenter.org CNAME .
@@ -6507,6 +6483,7 @@ go.smec.com CNAME .
 go.smeinsurance.com CNAME .
 go.smiaware.com CNAME .
 go.smithbuy.com CNAME .
+go.smithrx.com CNAME .
 go.smithweb.com CNAME .
 go.smm.co.jp CNAME .
 go.smokeball.com CNAME .
@@ -6526,6 +6503,7 @@ go.socialclimb.com CNAME .
 go.socialdiscoverycorp.com CNAME .
 go.socialintel.com CNAME .
 go.socialtalent.co CNAME .
+go.socialtalent.com CNAME .
 go.socialtraders.com.au CNAME .
 go.socialware.com CNAME .
 go.socomec.com CNAME .
@@ -6552,10 +6530,13 @@ go.solarisgroup.com CNAME .
 go.solartechnologies.com CNAME .
 go.solarunitedneighbors.org CNAME .
 go.solbusiness.com.au CNAME .
+go.solcast.com CNAME .
 go.solect.com CNAME .
 go.solecta.com CNAME .
 go.soleno.com CNAME .
+go.solidifi.com CNAME .
 go.solidworld.si CNAME .
+go.soliton.co.jp CNAME .
 go.solmentalhealth.com CNAME .
 go.solonmfg.com CNAME .
 go.solosholidays.co.uk CNAME .
@@ -6579,6 +6560,7 @@ go.soprasteria.de CNAME .
 go.soprema.ca CNAME .
 go.soprema.cn CNAME .
 go.sora-michi.co.jp CNAME .
+go.soracom.io CNAME .
 go.soroco.com CNAME .
 go.sorsetech.com CNAME .
 go.soswhidbey.org CNAME .
@@ -6593,7 +6575,6 @@ go.sourcelink.com CNAME .
 go.soutaku.co.jp CNAME .
 go.southbendelkhart.org CNAME .
 go.southeastbank.com CNAME .
-go.southeastis.com CNAME .
 go.southernindustries.com CNAME .
 go.southpole.com CNAME .
 go.southwire.com CNAME .
@@ -6627,9 +6608,9 @@ go.spex.co.jp CNAME .
 go.spfadvisors.com CNAME .
 go.spidell.com CNAME .
 go.spire-group.eu CNAME .
-go.spireon.com CNAME .
 go.spirit-health.co.uk CNAME .
 go.sponsoredlinx.com.au CNAME .
+go.sportalliance.com CNAME .
 go.sportico.com CNAME .
 go.sportsnutritionsummit-europe.com CNAME .
 go.spottswoode.com CNAME .
@@ -6725,6 +6706,7 @@ go.studycheck.de CNAME .
 go.stworld.jp CNAME .
 go.style--plus.jp CNAME .
 go.stylecrafthomes.com CNAME .
+go.submittable.com CNAME .
 go.successplatform.hu CNAME .
 go.suggestic.com CNAME .
 go.sugiyama-kabaraikin.com CNAME .
@@ -6733,6 +6715,7 @@ go.suke-dachi.jp CNAME .
 go.sulzer.com CNAME .
 go.sumamoos.com CNAME .
 go.sumasapo.co.jp CNAME .
+go.sunbeltmh.com CNAME .
 go.sunburst.com CNAME .
 go.sunfire.com CNAME .
 go.sunnap.co.jp CNAME .
@@ -6765,7 +6748,6 @@ go.swiftcapital.com CNAME .
 go.swiftdisability.ca CNAME .
 go.swissbit.com CNAME .
 go.switzerassetmanagement.com.au CNAME .
-go.syftco.com CNAME .
 go.symbiorise.com CNAME .
 go.symin.org CNAME .
 go.symtrex.com CNAME .
@@ -6813,7 +6795,6 @@ go.taylorandfrancis.com CNAME .
 go.taylors.edu.my CNAME .
 go.tbrglobal.com CNAME .
 go.tcdi.com CNAME .
-go.tckwshop.com CNAME .
 go.tcu.edu CNAME .
 go.tdtrust.org CNAME .
 go.teac.co.jp CNAME .
@@ -6832,6 +6813,7 @@ go.tece.com CNAME .
 go.tech-labs.com CNAME .
 go.techequip.com CNAME .
 go.techetch.com CNAME .
+go.technologyadvice.com CNAME .
 go.technovation.org CNAME .
 go.techtalksummits.com CNAME .
 go.tecido.co.jp CNAME .
@@ -6866,7 +6848,6 @@ go.terratherm.com CNAME .
 go.tetrapak.com CNAME .
 go.tewsworks.com CNAME .
 go.thanks-gift.net CNAME .
-go.theabbotscircle.com CNAME .
 go.theacsi.org CNAME .
 go.theadvantage.com.au CNAME .
 go.theadvisorinsider.com CNAME .
@@ -7076,7 +7057,6 @@ go.vikingcloud.com CNAME .
 go.villageenterprise.org CNAME .
 go.vimly.com CNAME .
 go.virtuozzo.com CNAME .
-go.vivaeve.com CNAME .
 go.vixio.com CNAME .
 go.vizrt.com CNAME .
 go.vnoncwbrabantzeeland.nl CNAME .
@@ -7317,7 +7297,6 @@ hello.simon.io CNAME .
 hello.soprema.be CNAME .
 hello.soprema.nl CNAME .
 hello.soprema.se CNAME .
-hello.sourcewell-mn.gov CNAME .
 hello.springmath.org CNAME .
 hello.tollbrothers.com CNAME .
 help.datamars.co.uk CNAME .
@@ -7470,7 +7449,6 @@ info.apnic.net CNAME .
 info.appspace.com CNAME .
 info.aps.org CNAME .
 info.aptpod.co.jp CNAME .
-info.aramex.com CNAME .
 info.archerpoint.com CNAME .
 info.aristocrat.com CNAME .
 info.arrowjapan.com CNAME .
@@ -7606,7 +7584,6 @@ info.danielshealth.com CNAME .
 info.dardiscommunications.com CNAME .
 info.data3.com CNAME .
 info.datacore.com CNAME .
-info.datamasking.com CNAME .
 info.datavail.com CNAME .
 info.davinciroofscapes.com CNAME .
 info.dcmservices.com CNAME .
@@ -8211,6 +8188,7 @@ info.satoparts.co.jp CNAME .
 info.satosho.co.jp CNAME .
 info.sauercanada.ca CNAME .
 info.sauercompressors.mx CNAME .
+info.saultcollege.ca CNAME .
 info.savant.com CNAME .
 info.savanta.com CNAME .
 info.savilleassessment.com.au CNAME .
@@ -8931,6 +8909,7 @@ ln-counsellink.lexisnexis.com CNAME .
 lnss.lifetouch.com CNAME .
 loadlink.transcore.ca CNAME .
 loans.vitaslebanon.com CNAME .
+local.nielsen.com CNAME .
 locations.becn.com CNAME .
 log02v2201504829836648-cdn.b2bmktg.com CNAME .
 log02v2201604829836648.b2bmktg.com CNAME .
@@ -9262,6 +9241,7 @@ marketing.genesiscapital.com CNAME .
 marketing.get.gofan.co CNAME .
 marketing.gilderlehrman.org CNAME .
 marketing.giuseppemiele.it CNAME .
+marketing.gleaners.org CNAME .
 marketing.global.com CNAME .
 marketing.globalblue.com CNAME .
 marketing.globeius.com CNAME .
@@ -9708,6 +9688,7 @@ mktlife.beachwood.roseseniorliving.com CNAME .
 mktlife.brandonwilde.com CNAME .
 mktlife.broadviewseniorliving.org CNAME .
 mktlife.burchamhills.com CNAME .
+mktlife.casadelascampanas.com CNAME .
 mktlife.clarendaleclayton.com CNAME .
 mktlife.clarendaleofchandler.com CNAME .
 mktlife.clarendaleofmokena.com CNAME .
@@ -12002,6 +11983,7 @@ www2.danielmorcombe.com.au CNAME .
 www2.dasisolutions.com CNAME .
 www2.datalliance.com CNAME .
 www2.datapipe.com CNAME .
+www2.datevkoinos.it CNAME .
 www2.dcobys.com CNAME .
 www2.dealeron.com CNAME .
 www2.dechra.co.uk CNAME .
@@ -12562,7 +12544,6 @@ www2.imcd.sg CNAME .
 www2.imcdca.com CNAME .
 www2.imcdgroup.com CNAME .
 www2.imcdus.com CNAME .
-www2.imfine.jp CNAME .
 www2.imgtec.com CNAME .
 www2.impetus-pef.org.uk CNAME .
 www2.imtmems.com CNAME .
@@ -13731,7 +13712,6 @@ www2.tcc.group CNAME .
 www2.tcon-international.com CNAME .
 www2.tcpfilm.com CNAME .
 www2.tcwealthpartners.com CNAME .
-www2.tdipacksys.com CNAME .
 www2.teachforamerica.org CNAME .
 www2.team-con.de CNAME .
 www2.teamels.com CNAME .
@@ -14163,7 +14143,6 @@ www3.livestreamlearningstudio.com CNAME .
 www3.livingstonintl.com CNAME .
 www3.marketplacer.com CNAME .
 www3.metso.com CNAME .
-www3.mobilitie.com CNAME .
 www3.mogroup.com CNAME .
 www3.molnlycke.us CNAME .
 www3.nanbu-kogyo.okinawa CNAME .
@@ -14330,35 +14309,6 @@ za.arjo.com CNAME .
 za.getinge.com CNAME .
 zen.itrsgroup.com CNAME .
 zero-e.saysinter.com CNAME .
-contact.creativeplanning.com CNAME .
-go.abilitymap.com CNAME .
-go.allcells.com CNAME .
-go.bionly.jp CNAME .
-go.bluefin.com CNAME .
-go.easternengineering.com CNAME .
-go.ecampusontario.ca CNAME .
-go.financedrivencamp.com CNAME .
-go.finvia.fo CNAME .
-go.goldfingerholdings.com CNAME .
-go.law.ucla.edu CNAME .
-info.saultcollege.ca CNAME .
-marketing.gleaners.org CNAME .
-go.alchera.ai CNAME .
-go.amano.co.jp CNAME .
-go.autorabit.com CNAME .
-go.avoka.com CNAME .
-go.bdcaus.com CNAME .
-go.biolifesolutions.com CNAME .
-go.circlek.lt CNAME .
-go.dmetrain.com CNAME .
-go.getg5.com CNAME .
-go.kinshipmke.org CNAME .
-go.lasenor.com CNAME .
-go.lunafarm.it CNAME .
-go.pestpac.com CNAME .
-go.ritehite.com CNAME .
-go.saiassurance.co.uk CNAME .
-go.solcast.com CNAME .
 go.marketinet.com CNAME .
 go.qualified-dev.com CNAME .
 newsandbox.page.weber.fr CNAME .

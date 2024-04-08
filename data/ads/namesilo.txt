@@ -567,6 +567,7 @@
 ||3572904.notifysrv.com^
 ||3576907.notifysrv.com^
 ||3578231.notify6.com^
+||3578235.notify6.com^
 ||3578239.notify6.com^
 ||3578253.notifysrv.com^
 ||3580293.notifysrv.com^
@@ -880,6 +881,7 @@
 ||4212982.notify6.com^
 ||4213112.notify6.com^
 ||4214522.notify6.com^
+||4224486.notify6.com^
 ||4225290.notify6.com^
 ||4231372.notify6.com^
 ||4231374.notify6.com^
@@ -1027,7 +1029,6 @@
 ||a.ma3ion.com^
 ||a.optimizesrv.com^
 ||a.paradoxgroup.uk^
-||a.r8lnet.com^
 ||a.redpathmedia.com^
 ||a.rocoads.net^
 ||a.santabrowser.com^
@@ -1051,6 +1052,7 @@
 ||click.advertrek.com^
 ||delivery.gettopple.com^
 ||engine.gettopple.com^
+||gateway.wearetopple.com^
 ||m.hue4a.com^
 ||m.hue4c.com^
 ||m.optidigital.com^
@@ -1091,7 +1093,6 @@
 ||s.elnk4d.com^
 ||s.elnk90.com^
 ||s.elnk92.com^
-||s.elnk93.com^
 ||s.elnkp2.com^
 ||s.elnkp4.com^
 ||s.elnl2a.com^
@@ -1202,3 +1203,4 @@
 ||www.notify.bizonads-ssp.com^
 ||www.notify6.com^
 ||www.notifysrv.com^
+||a.r8lnet.com^

@@ -101,7 +101,6 @@
     * 4cee8f94-hnpxxjms.cname.ebis.ne.jp
     * 4d5e2130-zqngsxhf.cname.ebis.ne.jp
     * 4f187ea1-yphasapa.cname.ebis.ne.jp
-    * 4f9cdbe0-unrhytys.cname.ebis.ne.jp
     * 4ff9329a-digitalgarage.cname.ebis.ne.jp
     * 5032afa8-66fsga6n.cname.ebis.ne.jp
     * 518dea17-lwmskzks.cname.ebis.ne.jp
@@ -404,7 +403,6 @@
 | adebis1.1rnavi.com | 4cee8f94-hnpxxjms.cname.ebis.ne.jp |
 | ebis.ayura.co.jp | 4d5e2130-zqngsxhf.cname.ebis.ne.jp |
 | ac-ebis.usen-insurance.com | 4f187ea1-yphasapa.cname.ebis.ne.jp |
-| ad-track.paravi.jp | 4f9cdbe0-unrhytys.cname.ebis.ne.jp |
 | adebis.kirei-journal.jp | 4ff9329a-digitalgarage.cname.ebis.ne.jp |
 | adebis.nursery.co.jp | 5032afa8-66fsga6n.cname.ebis.ne.jp |
 | cvs.kireimo.jp | 518dea17-lwmskzks.cname.ebis.ne.jp |

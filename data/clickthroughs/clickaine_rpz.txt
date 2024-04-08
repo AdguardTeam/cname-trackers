@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,7 +29,6 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 axx.aflamk1.net CNAME .
 c.gotoxxxtube.com CNAME .
-c0n.tubestash.com CNAME .
 c4n.21hub.com CNAME .
 c4n.asianpinay.com CNAME .
 c4n.bigxxxsex.com CNAME .

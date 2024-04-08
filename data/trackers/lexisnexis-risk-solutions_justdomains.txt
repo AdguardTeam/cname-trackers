@@ -30,6 +30,8 @@ applicant.rbfcu.org
 apps.shift.com.au
 appschk.scotiabank.com
 appscore.credilike.me
+asanalytics.booking.com
+assessment.nj.betmgm.com
 assets.werally.co
 assets2.ihg.com
 assets2.thefirstclub.com
@@ -155,11 +157,13 @@ clear.wallapop.com
 client.online.sandyspringbank.com
 clovergo.june-testing.firstdata.com
 cmprofile.cards.citidirect.com
+cnt.didiglobal.com
 cnt.goboo.com
 cnt.patpat.com
 cnt2.bank.za.group
 compliance.mohegansuncasino.com
 compliance.resortscasino.com
+condition.applause.com
 contendvc.cnouyi.pizza
 content-tix.topi.eu
 content-uk.fundingcircle.com
@@ -213,6 +217,7 @@ content.ezbills.com
 content.familyprepaiddebit.com
 content.fig.ca
 content.firstinterstatebank.com
+content.fisglobal.com
 content.floridarentals.com
 content.frs.fl.gov
 content.gap.com
@@ -258,6 +263,7 @@ content.online.adp.com
 content.orixbank.co.jp
 content.partycity.ca
 content.paycardsolutions.com
+content.paysend.com
 content.personifyfinancial.com
 content.pledg.co
 content.pnbank.com.au
@@ -352,6 +358,7 @@ css.sportsbet.io
 cstm.gumtree.com
 customer.homedepot.com
 customercenter-img04.auto-owners.com
+custprof.t-mobile.com
 cybersource.shoplineapp.com
 cybs.dhgate.com
 cybs.dhpay.com
@@ -394,6 +401,7 @@ donor.cafamerica.org
 dp.barclaycardus.com
 dp.barclaysus.com
 dp.lottogo.com
+dp.mynylottery.org
 dpf.authorize.net
 drfdisvc.walmart.com
 dt.payla.io
@@ -415,6 +423,7 @@ fp.aion.be
 fp.avatrade.com
 fp.cdn-scripts.com
 fp.corporatetravelmoney.com
+fp.crazyclearance.co.uk
 fp.dior.com
 fp.disney.go.com
 fp.fashionworld.co.uk
@@ -423,8 +432,10 @@ fp.jacamo.co.uk
 fp.jdwilliams.co.uk
 fp.joyobank.chance.co.jp
 fp.marisota.co.uk
+fp.premierman.com
 fp.simplybe.co.uk
 fp.ubagroup.com
+fp.ups.com
 fpcn.bpsgameserver.com
 fpmobile.uplift-platform.com
 fpt.norton.com
@@ -434,6 +445,7 @@ fss.glbank.com
 fsta.leboncoin.info
 ftd.quodxx.com.br
 gateway.jmbullion.com
+ghisa.subito.it
 go.citizensaccess.com
 h.chase.co.uk
 h.greenmangaming.com
@@ -572,8 +584,13 @@ pages.fiduciarytrust.com
 pages.franklintempleton.com
 paiement.cb4x.fr
 partition.enterprise.com
+payment.rewards.sony.com
 payments-de.lidlplus.com
+payments.direct.playstation.com
 payments.hd-plus.de
+payrisk-tmx.didiglobal.com
+pf.intuit.com
+pfp.intuit.com
 phyon.communipay.net
 phyon.visit-x.net
 piafapp.poste.it
@@ -644,6 +661,7 @@ ptm.creditas.com
 public-check3-at.test.tiaa-cref.org
 public-check3-at.test.tiaa.org
 qa-check3.qa.everbank.com
+qfp.intuit.com
 qrimages.qatarairways.com
 qtbm.fundourselves.com
 qtbm.welendus.com
@@ -731,7 +749,10 @@ secured.netflix.com
 service.riverscontent.com
 servicesdp.luckydays.ca
 servicesdp.spinaway.ca
+sfp.intuit.com
+sg-payment.cydf.hoyoverse.com
 shield.boostbusiness.my
+shield.legalzoom.com
 sitehelper.myengageft.com
 sitehelper.optimizemoney.com
 solstice.ibotta.com
@@ -743,6 +764,7 @@ srv.squaretrade.com
 srv.squaretrade.com.au
 srv.squaretrade.dk
 srv.squaretrade.es
+ssafp.samsclub.com
 st10.sofi.com
 stat.bluorbank.lv
 static.bc-cdn.io
@@ -751,6 +773,7 @@ static.sb-cdn.io
 static.yg-cdn.io
 static2.gumtree.com.au
 stats.badoostats.com
+stats.dell.com
 sub-a.crossmeetz.com
 subcontent.galeria.de
 sunshine.lillypulitzer.com
@@ -790,7 +813,6 @@ t.onlinebanking.american1cu.org
 t.onlinebanking.consumerscu.org
 t.onlinebanking.firstmarkcu.org
 t.onlinebanking.sesloc.org
-t.safe.bcu.org
 t.secure.ascend.org
 t.secure.selco.org
 t.sunrise.ch
@@ -824,6 +846,7 @@ tags.bankline.rbs.com
 tags.bankline.ulsterbank.co.uk
 tags.bankline.ulsterbank.ie
 tags.currencypay.natwestmarkets.com
+tags.dazn.com
 tags.emirates.com
 tags.eq.iombank.com
 tags.eq.natwestinternational.com
@@ -865,6 +888,13 @@ tm.barstoolsportsbook.com
 tm.bdc-cdn.com
 tm.beachbody.com
 tm.benevity.org
+tm.betano.ar
+tm.betano.bg
+tm.betano.ca
+tm.betano.com
+tm.betano.cz
+tm.betano.de
+tm.betano.mx
 tm.cbd.ae
 tm.clearcover.com
 tm.cox.com
@@ -872,6 +902,7 @@ tm.creditcheck.illion.co.nz
 tm.creditcheck.illion.com.au
 tm.creditprotect.illion.com.au
 tm.cybersource.com
+tm.directly.com
 tm.fanduel.com
 tm.fidelity.co.uk
 tm.goldennuggetcasino.com
@@ -881,6 +912,7 @@ tm.kotak.com
 tm.kotak811.com
 tm.okinushub.com
 tm.paysafecard.com
+tm.production.eu1.tmfp.klarna.net
 tm.promotion-cdn.com
 tm.regions.com
 tm.regionsqa.com
@@ -893,6 +925,8 @@ tm.stats.home24.ch
 tm.stats.home24.de
 tm.stats.home24.it
 tm.stats.home24.nl
+tm.stoiximan.com.cy
+tm.stoiximan.gr
 tm.summit-services.ca
 tm.tbcbank.uz
 tm.telecharge.com
@@ -904,6 +938,7 @@ tmcontent.imvu.com
 tmcontent.meridiancu.ca
 tmcontent.motusbank.ca
 tmcontent.sixt.com
+tmfp.klarna.com
 tmi.my529.org
 tmln.caesarscasino.com
 tms.paysafe.com
@@ -928,6 +963,7 @@ tmx.tdbank.com
 tmx.uptodate.com
 tmx.vinci-autoroutes.com
 tmxapi.globalsources.com
+tmximg.draftkings.com
 tmxjs.tokyodisneyresort.jp
 tooling.ynap.biz
 tprofile.goldmansachs.tech
@@ -940,7 +976,6 @@ tulips.metrobankonline.co.uk
 tx.n11.com
 tx.suncoastcreditunion.com
 txcontent.iherb.cn
-txcontent.iherb.com
 txn.allianzlife.com
 uafms.ocbc.com
 ualaki-analytics.vacations.united.com
@@ -960,6 +995,7 @@ validacionlx.agaval.com
 verification.ndtco.com
 verify.metlife.com
 verify.philippineairlines.com
+vfp.intuit.com
 vlscppe.microsoft.com
 voto.credit24.com
 voto.creditea.com
@@ -979,8 +1015,11 @@ webftm.sterbc.com
 west-eu-0156743.medirect.be
 west-eu-0156743.medirect.com.mt
 west-eu-0156743.medirect.nl
+wfp.intuit.com
 wildcard.humm.ie
+wkvjee5b.globalpay.com
 wp.kroger.com
+wptm.worldvision.org
 ww3.fundingstream.com
 ww3.marlincapitalsolutions.com
 ww3.peacsolutions.com
@@ -989,7 +1028,9 @@ www.cdna.cofidis.be
 www.content.bnl.it
 www.content.mabanquepro.bnpparibas
 www7.raise.com
+xfp.intuit.com
 xmt.paze.com
 ydkwim.targobank.de
 yr3ioxw.hoaresbank.co.uk
 zacchaeus.logos.com
+zfp.intuit.com

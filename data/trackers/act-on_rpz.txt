@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -2560,7 +2560,6 @@ act.boxerproperty.com CNAME .
 act.colorlines.com CNAME .
 act.convergencetraining.com CNAME .
 act.cwsglobal.org CNAME .
-act.davistech.edu CNAME .
 act.enli.net CNAME .
 act.lanap.com CNAME .
 act.online.engineering.nyu.edu CNAME .
@@ -3023,7 +3022,6 @@ connect.dexterchaney.com CNAME .
 connect.digi.com CNAME .
 connect.evocalize.com CNAME .
 connect.frontier.com CNAME .
-connect.imam-us.org CNAME .
 connect.invibio.com CNAME .
 connect.kristechwire.com CNAME .
 connect.landy.com CNAME .
@@ -5333,7 +5331,6 @@ marketing.performantcorp.com CNAME .
 marketing.periscopewealthadvisors.com CNAME .
 marketing.petsit.com CNAME .
 marketing.piazzaavm.com.tr CNAME .
-marketing.pillartopost.com CNAME .
 marketing.pinkerton.com CNAME .
 marketing.pipelinepub.com CNAME .
 marketing.pitcher-nsw.com.au CNAME .
@@ -5365,7 +5362,6 @@ marketing.promiles.com CNAME .
 marketing.promoboxx.com CNAME .
 marketing.pronaca.com CNAME .
 marketing.prosperoware.com CNAME .
-marketing.protapes.com CNAME .
 marketing.protegic.com.au CNAME .
 marketing.protosell.se CNAME .
 marketing.publicinsightdata.com CNAME .
@@ -5505,7 +5501,6 @@ marketing.soha.io CNAME .
 marketing.soloprotect.com CNAME .
 marketing.somero.com CNAME .
 marketing.sonomawealthadvisors.com CNAME .
-marketing.soscanhelp.com CNAME .
 marketing.sosintl.com CNAME .
 marketing.sossystems.co.uk CNAME .
 marketing.soundtrackyourbrand.com CNAME .

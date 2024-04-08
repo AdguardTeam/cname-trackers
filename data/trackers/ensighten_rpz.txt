@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -147,6 +147,7 @@ co-operative.activate.ensighten.com CNAME .
 consent.irvinecompany.com CNAME .
 consent.irvinecompany.com.cdn.cloudflare.net CNAME .
 cookiebanner.heineken.com CNAME .
+cookieconsent.kornferry.com CNAME .
 cookies.jll-mena.com CNAME .
 cookies.jll.ca CNAME .
 cookies.jll.ch CNAME .

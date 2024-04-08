@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -741,7 +741,6 @@ tr.news.extenso-telecom.com CNAME .
 tr.news.externis.com CNAME .
 tr.news.extrabook.com CNAME .
 tr.news.flandrintechnologies.com CNAME .
-tr.news.frame.fr CNAME .
 tr.news.franceloc.fr CNAME .
 tr.news.futuramedia.fr CNAME .
 tr.news.geantcasino.fr CNAME .
@@ -986,7 +985,6 @@ tr.redaction.essentiel-sante-magazine.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .
 tr.relation-mediametrie.fr CNAME .
 tr.relation.uneo.fr CNAME .
-tr.remboursement.orange.fr CNAME .
 tr.renowizze.be CNAME .
 tr.republicains-info.org CNAME .
 tr.rh.auchan.com CNAME .

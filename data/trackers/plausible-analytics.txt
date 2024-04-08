@@ -3,7 +3,6 @@
 ||a-api.skz.dev^
 ||a.aawp.de^
 ||a.easyazon.com^
-||a.getaawp.com^
 ||a.iiro.dev^
 ||a.linkz.ai^
 ||a.remy.world^
@@ -811,7 +810,6 @@
 ||stats.spreadtheworld.net^
 ||stats.sprune.com^
 ||stats.sqlteam.com^
-||stats.squaddy.se^
 ||stats.stack11.io^
 ||stats.stackingthebricks.com^
 ||stats.stacks.org^

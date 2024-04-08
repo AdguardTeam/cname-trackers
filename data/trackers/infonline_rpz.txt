@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -94,7 +94,6 @@ data-08ab9d2892.fupa.net CNAME .
 data-08ab9d2892.volksstimme.de CNAME .
 data-08d52e2a42.handelsblatt.com CNAME .
 data-08ef81a003.sbz-online.de CNAME .
-data-09712f40c1.lustaufsleben.at CNAME .
 data-09aa07713c.diepta.de CNAME .
 data-09affd727b.bft-international.com CNAME .
 data-09d76f48f8.ivz-aktuell.de CNAME .
@@ -331,7 +330,6 @@ data-20ab42efbf.apps.iocnt.de CNAME .
 data-214f5a88c7.apps.iocnt.de CNAME .
 data-21f7fa6716.wiwo.de CNAME .
 data-226a0f54a7.azonline.de CNAME .
-data-232059cb53.vip.de CNAME .
 data-2340ac25bb.apps.iocnt.de CNAME .
 data-2356053920.meinmed.at CNAME .
 data-236c420b67.glamour.de CNAME .
@@ -543,7 +541,6 @@ data-44a005f23c.bergfex.pl CNAME .
 data-44a005f23c.bergfex.si CNAME .
 data-44baecba13.digitalfernsehen.de CNAME .
 data-44dbfe9e80.apps.iocnt.de CNAME .
-data-452782981b.eltern.de CNAME .
 data-452782981b.elternfamily.de CNAME .
 data-452782981b.geo.de CNAME .
 data-452782981b.schwangerschaft.de CNAME .
@@ -1286,6 +1283,7 @@ data-96d64cb150.bz-ticket.de CNAME .
 data-96d64cb150.bztrauer.de CNAME .
 data-96d64cb150.fupa.net CNAME .
 data-96d64cb150.handwerkjobs-bw.de CNAME .
+data-96d64cb150.pflegejobs-bw.de CNAME .
 data-96d64cb150.regiojob.de CNAME .
 data-96d64cb150.schnapp.de CNAME .
 data-96d64cb150.wohnverdient.de CNAME .
@@ -1747,7 +1745,6 @@ data-c7fa2f50f1.photovoltaik.eu CNAME .
 data-c835a62a97.runnersworld.de CNAME .
 data-c849cc593c.immobilien-zeitung.de CNAME .
 data-c849cc593c.iz.de CNAME .
-data-c854f15f64.eltern.de CNAME .
 data-c854f15f64.schwangerschaft.de CNAME .
 data-c854f15f64.urbia.de CNAME .
 data-c854f15f64.vorname.com CNAME .

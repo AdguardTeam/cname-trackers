@@ -730,7 +730,6 @@ tr.news.extenso-telecom.com
 tr.news.externis.com
 tr.news.extrabook.com
 tr.news.flandrintechnologies.com
-tr.news.frame.fr
 tr.news.franceloc.fr
 tr.news.futuramedia.fr
 tr.news.geantcasino.fr
@@ -975,7 +974,6 @@ tr.redaction.essentiel-sante-magazine.fr
 tr.reglementaire.emailing.bnpparibas
 tr.relation-mediametrie.fr
 tr.relation.uneo.fr
-tr.remboursement.orange.fr
 tr.renowizze.be
 tr.republicains-info.org
 tr.rh.auchan.com

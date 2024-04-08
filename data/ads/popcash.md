@@ -430,7 +430,6 @@
 | gerbil.buf.build | deprecated-custom-domains.b-cdn.net |
 | gerbil.clapsaddleart.com | deprecated-custom-domains.b-cdn.net |
 | gerbil.downtown-mafia.com | deprecated-custom-domains.b-cdn.net |
-| gerbil.lost.design | deprecated-custom-domains.b-cdn.net |
 | gerbil.recipe-ipsum.com | deprecated-custom-domains.b-cdn.net |
 | giraffe.talktalent.com | deprecated-custom-domains.b-cdn.net |
 | giraffe.viatorci.com | deprecated-custom-domains.b-cdn.net |
@@ -543,7 +542,6 @@
 | kite.kochie.io | deprecated-custom-domains.b-cdn.net |
 | kite.launchcdn.com | deprecated-custom-domains.b-cdn.net |
 | kite.oakes.software | deprecated-custom-domains.b-cdn.net |
-| kite.ofenbau-voppichler.at | deprecated-custom-domains.b-cdn.net |
 | kiwi.coreyodonnell.tech | deprecated-custom-domains.b-cdn.net |
 | kiwi.emilkowal.ski | deprecated-custom-domains.b-cdn.net |
 | kiwi.railway.app | deprecated-custom-domains.b-cdn.net |
@@ -938,7 +936,6 @@
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
-| treefrog.socialmarketinggateway.co.uk | deprecated-custom-domains.b-cdn.net |
 | treefrog.tschmeisser.com | deprecated-custom-domains.b-cdn.net |
 | trout.batzo.net | deprecated-custom-domains.b-cdn.net |
 | trout.openfpl.com | deprecated-custom-domains.b-cdn.net |
@@ -983,7 +980,6 @@
 | warbler.resumebuilder.dev | deprecated-custom-domains.b-cdn.net |
 | wasp.dyrynda.dev | deprecated-custom-domains.b-cdn.net |
 | wasp.mattjennings.io | deprecated-custom-domains.b-cdn.net |
-| waterboa.midu.dev | deprecated-custom-domains.b-cdn.net |
 | waterboa.nighttrain.co | deprecated-custom-domains.b-cdn.net |
 | whale.gdebrauwer.dev | deprecated-custom-domains.b-cdn.net |
 | whippet.ianglover.com | deprecated-custom-domains.b-cdn.net |
@@ -1162,7 +1158,6 @@
 | sp.theladyshop.pk | spixel.b-cdn.net |
 | img.7xixi.site | st-fly.b-cdn.net |
 | static.netfly.fun | st-fly.b-cdn.net |
-| static.nfly.cc | st-fly.b-cdn.net |
 | static.xlyyzx.sbs | st-fly.b-cdn.net |
 | cdn.responsiq.com | unibotscdn.b-cdn.net |
 | cdn.studiosis.in | unibotscdn.b-cdn.net |

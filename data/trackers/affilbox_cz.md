@@ -48,7 +48,6 @@
 | affil.dotykacka.cz | cz.affilbox.cz |
 | affil.econea.cz | cz.affilbox.cz |
 | affil.eshop-rychle.cz | cz.affilbox.cz |
-| affil.exkluzivita.cz | cz.affilbox.cz |
 | affil.fingood.cz | cz.affilbox.cz |
 | affil.fit-pro.cz | cz.affilbox.cz |
 | affil.gamlery.cz | cz.affilbox.cz |
@@ -291,7 +290,6 @@
 | ambasadorky.zenyzenam.cz | cz.affilbox.cz |
 | ambassador.notsofunnyany.com | cz.affilbox.cz |
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
-| benefit.genyprozivot.cz | cz.affilbox.cz |
 | box.cryptokingdom.tech | cz.affilbox.cz |
 | box.kryptotrejder.sk | cz.affilbox.cz |
 | brana.ritualyomlazeni.cz | cz.affilbox.cz |

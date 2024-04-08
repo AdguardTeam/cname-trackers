@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -578,6 +578,7 @@ $TTL 300
 3572904.notifysrv.com CNAME .
 3576907.notifysrv.com CNAME .
 3578231.notify6.com CNAME .
+3578235.notify6.com CNAME .
 3578239.notify6.com CNAME .
 3578253.notifysrv.com CNAME .
 3580293.notifysrv.com CNAME .
@@ -891,6 +892,7 @@ $TTL 300
 4212982.notify6.com CNAME .
 4213112.notify6.com CNAME .
 4214522.notify6.com CNAME .
+4224486.notify6.com CNAME .
 4225290.notify6.com CNAME .
 4231372.notify6.com CNAME .
 4231374.notify6.com CNAME .
@@ -1038,7 +1040,6 @@ a.etology.com CNAME .
 a.ma3ion.com CNAME .
 a.optimizesrv.com CNAME .
 a.paradoxgroup.uk CNAME .
-a.r8lnet.com CNAME .
 a.redpathmedia.com CNAME .
 a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
@@ -1062,6 +1063,7 @@ api.trafficfactory.com CNAME .
 click.advertrek.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
+gateway.wearetopple.com CNAME .
 m.hue4a.com CNAME .
 m.hue4c.com CNAME .
 m.optidigital.com CNAME .
@@ -1102,7 +1104,6 @@ s.elnk4b.com CNAME .
 s.elnk4d.com CNAME .
 s.elnk90.com CNAME .
 s.elnk92.com CNAME .
-s.elnk93.com CNAME .
 s.elnkp2.com CNAME .
 s.elnkp4.com CNAME .
 s.elnl2a.com CNAME .
@@ -1213,3 +1214,4 @@ www.8.notify.bizonads-ssp.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
+a.r8lnet.com CNAME .

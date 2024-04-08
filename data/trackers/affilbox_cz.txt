@@ -29,7 +29,6 @@
 ||affil.dotykacka.cz^
 ||affil.econea.cz^
 ||affil.eshop-rychle.cz^
-||affil.exkluzivita.cz^
 ||affil.fingood.cz^
 ||affil.fit-pro.cz^
 ||affil.gamlery.cz^
@@ -272,7 +271,6 @@
 ||ambasadorky.zenyzenam.cz^
 ||ambassador.notsofunnyany.com^
 ||ambassadors.childhoodpotential.com^
-||benefit.genyprozivot.cz^
 ||box.cryptokingdom.tech^
 ||box.kryptotrejder.sk^
 ||brana.ritualyomlazeni.cz^

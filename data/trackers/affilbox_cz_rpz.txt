@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,7 +40,6 @@ affil.domio.cz CNAME .
 affil.dotykacka.cz CNAME .
 affil.econea.cz CNAME .
 affil.eshop-rychle.cz CNAME .
-affil.exkluzivita.cz CNAME .
 affil.fingood.cz CNAME .
 affil.fit-pro.cz CNAME .
 affil.gamlery.cz CNAME .
@@ -283,7 +282,6 @@ afill.e-potisk.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassador.notsofunnyany.com CNAME .
 ambassadors.childhoodpotential.com CNAME .
-benefit.genyprozivot.cz CNAME .
 box.cryptokingdom.tech CNAME .
 box.kryptotrejder.sk CNAME .
 brana.ritualyomlazeni.cz CNAME .

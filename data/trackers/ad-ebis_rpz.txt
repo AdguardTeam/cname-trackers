@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,7 +30,6 @@ ac.geechs-job.com CNAME .
 ad-ebis.bookpass.auone.jp CNAME .
 ad-ebis.mynavi-job20s.jp CNAME .
 ad-ebis.toysub.jp CNAME .
-ad-track.paravi.jp CNAME .
 ad.320320.net CNAME .
 ad.aim-universe.co.jp CNAME .
 ad.aucfan.com CNAME .

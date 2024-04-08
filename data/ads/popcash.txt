@@ -498,7 +498,6 @@
 ||gerbil.buf.build^
 ||gerbil.clapsaddleart.com^
 ||gerbil.downtown-mafia.com^
-||gerbil.lost.design^
 ||gerbil.recipe-ipsum.com^
 ||giraffe.talktalent.com^
 ||giraffe.viatorci.com^
@@ -611,7 +610,6 @@
 ||kite.kochie.io^
 ||kite.launchcdn.com^
 ||kite.oakes.software^
-||kite.ofenbau-voppichler.at^
 ||kiwi.coreyodonnell.tech^
 ||kiwi.emilkowal.ski^
 ||kiwi.railway.app^
@@ -1006,7 +1004,6 @@
 ||toucan.ateliermilky.com^
 ||toucan.the-faithful.com^
 ||treefrog.kaffeknappen.no^
-||treefrog.socialmarketinggateway.co.uk^
 ||treefrog.tschmeisser.com^
 ||trout.batzo.net^
 ||trout.openfpl.com^
@@ -1051,7 +1048,6 @@
 ||warbler.resumebuilder.dev^
 ||wasp.dyrynda.dev^
 ||wasp.mattjennings.io^
-||waterboa.midu.dev^
 ||waterboa.nighttrain.co^
 ||whale.gdebrauwer.dev^
 ||whippet.ianglover.com^
@@ -1140,7 +1136,6 @@
 ||sp.lenspk.com^
 ||sp.theladyshop.pk^
 ||static.netfly.fun^
-||static.nfly.cc^
 ||static.xlyyzx.sbs^
 ||thirty-good.lugg.com^
 ||video.adsninja.ca^

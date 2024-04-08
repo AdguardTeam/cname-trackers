@@ -2549,7 +2549,6 @@ act.boxerproperty.com
 act.colorlines.com
 act.convergencetraining.com
 act.cwsglobal.org
-act.davistech.edu
 act.enli.net
 act.lanap.com
 act.online.engineering.nyu.edu
@@ -3012,7 +3011,6 @@ connect.dexterchaney.com
 connect.digi.com
 connect.evocalize.com
 connect.frontier.com
-connect.imam-us.org
 connect.invibio.com
 connect.kristechwire.com
 connect.landy.com
@@ -5322,7 +5320,6 @@ marketing.performantcorp.com
 marketing.periscopewealthadvisors.com
 marketing.petsit.com
 marketing.piazzaavm.com.tr
-marketing.pillartopost.com
 marketing.pinkerton.com
 marketing.pipelinepub.com
 marketing.pitcher-nsw.com.au
@@ -5354,7 +5351,6 @@ marketing.promiles.com
 marketing.promoboxx.com
 marketing.pronaca.com
 marketing.prosperoware.com
-marketing.protapes.com
 marketing.protegic.com.au
 marketing.protosell.se
 marketing.publicinsightdata.com
@@ -5494,7 +5490,6 @@ marketing.soha.io
 marketing.soloprotect.com
 marketing.somero.com
 marketing.sonomawealthadvisors.com
-marketing.soscanhelp.com
 marketing.sosintl.com
 marketing.sossystems.co.uk
 marketing.soundtrackyourbrand.com

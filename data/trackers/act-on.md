@@ -1703,7 +1703,6 @@
 | marketing.motionsolutions.com | forpci22.actonsoftware.com |
 | marketing.naes.com | forpci22.actonsoftware.com |
 | marketing.patriotcapitalcorp.com | forpci22.actonsoftware.com |
-| marketing.pillartopost.com | forpci22.actonsoftware.com |
 | marketing.promiles.com | forpci22.actonsoftware.com |
 | marketing.revegy.com | forpci22.actonsoftware.com |
 | member.usenix.org | forpci22.actonsoftware.com |
@@ -2407,7 +2406,6 @@
 | marketing.linkdex.com | forpci34.actonsoftware.com |
 | marketing.motleys.com | forpci34.actonsoftware.com |
 | marketing.pinkerton.com | forpci34.actonsoftware.com |
-| marketing.protapes.com | forpci34.actonsoftware.com |
 | marketing.puretechltd.com | forpci34.actonsoftware.com |
 | marketing.securakey.com | forpci34.actonsoftware.com |
 | marketing.thewilsonagency.com | forpci34.actonsoftware.com |
@@ -3586,7 +3584,6 @@
 | marketing.metropolislosangeles.com | forpci58.actonsoftware.com |
 | marketing.panviva.com | forpci58.actonsoftware.com |
 | marketing.papersave.com | forpci58.actonsoftware.com |
-| marketing.soscanhelp.com | forpci58.actonsoftware.com |
 | marketing.stay-rlhc.com | forpci58.actonsoftware.com |
 | marketing.topekapartnership.com | forpci58.actonsoftware.com |
 | marketing.tourismrichmond.com | forpci58.actonsoftware.com |
@@ -5127,7 +5124,6 @@
 | bluemountains.actonservice.com | forpci81.actonsoftware.com |
 | caliberco.actonservice.com | forpci81.actonsoftware.com |
 | carnegiecommunications.actonservice.com | forpci81.actonsoftware.com |
-| connect.imam-us.org | forpci81.actonsoftware.com |
 | dryvit.actonservice.com | forpci81.actonsoftware.com |
 | estore.biscoind.com | forpci81.actonsoftware.com |
 | farahatco.actonservice.com | forpci81.actonsoftware.com |
@@ -6017,7 +6013,6 @@
 | a28216.actonservice.com | forpci92.actonsoftware.com |
 | a28228.actonservice.com | forpci92.actonsoftware.com |
 | a28230.actonservice.com | forpci92.actonsoftware.com |
-| act.davistech.edu | forpci92.actonsoftware.com |
 | aod-cloud.actonservice.com | forpci92.actonsoftware.com |
 | apisensor.actonservice.com | forpci92.actonsoftware.com |
 | apllogistics.actonservice.com | forpci92.actonsoftware.com |

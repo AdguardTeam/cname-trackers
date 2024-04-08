@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -139,9 +139,6 @@ www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
-em8928.em.petco.com CNAME .
-em9523.walmartmoneycard.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -416,6 +413,7 @@ refer.windsorstore.com CNAME .
 refer.wine.com CNAME .
 refer.wolverine.com CNAME .
 refer.wrangler.com CNAME .
+refer.xfinity.com CNAME .
 refer.zazzlereferral.com CNAME .
 refer.zenhaven.com CNAME .
 refer.zipcar.ca CNAME .
@@ -424,7 +422,9 @@ refer.zomasleep.com CNAME .
 refer1.dollskill.com CNAME .
 refer1.experian.com CNAME .
 referacct.quickbooks.intuit.co.uk CNAME .
+referafriend.comcast.com CNAME .
 referafriend.discover.com CNAME .
+referafriend.xfinity.com CNAME .
 referavet.petco.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.drunkelephant.com CNAME .
@@ -700,12 +700,16 @@ share.wisdompanel.com CNAME .
 share.wombatinvest.com CNAME .
 share.zebit.com CNAME .
 share.zenbusiness.com CNAME .
+www.refer.xfinity.com CNAME .
 www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
+em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.skillshare.com CNAME .
 sftp.extole.com CNAME .

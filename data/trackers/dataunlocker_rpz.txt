@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,7 +12,6 @@ $TTL 300
 @    IN   NS    localhost.
 
 0d8is908gby1.www.terraform.com.ar CNAME .
-10ro53kulyb.groove.so CNAME .
 11b6n4ty2x3.taxliencode.com CNAME .
 13js1lbtbj3.sparkloop.app CNAME .
 16i6nuuc2ej.koelewijn.nl CNAME .
@@ -119,6 +118,7 @@ tzgurwizule3.app.cardahealth.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
 uhd5nn09mgml.fort-shop.kiev.ua CNAME .
 unl1zvy2zuyn.franchiseplus.nl CNAME .
+ut19suycy9vt.nowyformat.nofluffjobs.com CNAME .
 vyz3nn85ed0e.controlconceptsusa.com CNAME .
 vzal21mooz.hyperwrite.ai CNAME .
 w38ju82bano4.cv.gerardbosch.xyz CNAME .
@@ -129,3 +129,4 @@ y4e04gql5o1b.www.nookgaming.com CNAME .
 ysrrzgku6tar.us.themoneytizer.com CNAME .
 z3617cz9ep.fitness.tappbrothers.com CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
+zrg8pujtku8ff0isdz.www.bolighub.dk CNAME .

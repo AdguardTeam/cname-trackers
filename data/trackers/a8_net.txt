@@ -220,7 +220,6 @@
 ||a8.nezumi-guard.com^
 ||a8.nezumi-kanzentaiji.com^
 ||a8.nitta-biolab.co.jp^
-||a8.nitta-gelatin.jp^
 ||a8.nosh.jp^
 ||a8.novicetokyo.com^
 ||a8.o-tayori.com^
@@ -237,7 +236,6 @@
 ||a8.papapa.baby^
 ||a8.parcys.com^
 ||a8.pcnext.shop^
-||a8.pcrjapan.clinicnearme.jp^
 ||a8.pcwrap.com^
 ||a8.pearlizumi.co.jp^
 ||a8.petfood.mtflat.co.jp^
@@ -918,6 +916,7 @@
 ||a8cv.glocalnet.jp^
 ||a8cv.glow-clinic.com^
 ||a8cv.goodlucknail.com^
+||a8cv.goods-station.jp^
 ||a8cv.goqoo.me^
 ||a8cv.grace-grace.info^
 ||a8cv.grassbeaute.jp^
@@ -1224,6 +1223,7 @@
 ||a8cv.vieon.co.jp^
 ||a8cv.w2solution.co.jp^
 ||a8cv.wakan.shop^
+||a8cv.wake.fun^
 ||a8cv.waterenergy.co.jp^
 ||a8cv.waterserver.co.jp^
 ||a8cv.web-planners.net^
@@ -1309,7 +1309,6 @@
 ||a8track.aidmybank.com^
 ||a8track.bizdigi.jp^
 ||a8track.speakbuddy-personalcoaching.com^
-||a8track.ulp.co.jp^
 ||a8track.www.pontely.com^
 ||a8trck.aisatsujo.com^
 ||a8trck.aisatsujo.jp^

@@ -29,6 +29,7 @@ al.mitsubachi-note.com
 al.nakayamashouten.com
 al.nawa-store.jp
 al.office-com.jp
+al.packstyle.jp
 al.pierrotshop.jp
 al.saifuku-knit.jp
 al.santelabo.jp
@@ -44,5 +45,7 @@ al.tokimeku-otoriyose.jp
 al.tsukurupajama.jp
 al.webike.net
 al.www.kijoan.com
+al.yamachu.net
 al.yobomedical.clinic
+al.zenjirou.jp
 m.aclk.jp

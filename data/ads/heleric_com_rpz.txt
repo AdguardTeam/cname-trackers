@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1711958420584        ; Serial
+           1712563219839        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -142,6 +142,7 @@ go.iguanidguisian.com CNAME .
 go.loorydewdrop.com CNAME .
 gp.feiriegershon.com CNAME .
 gp.splodgydossing.com CNAME .
+gq.webbymendole.com CNAME .
 gr.faencepuggy.com CNAME .
 gs.profrebecca.com CNAME .
 gt.unurnedbeleve.com CNAME .
@@ -180,6 +181,7 @@ ir.avertinniello.com CNAME .
 ir.mildlydoucely.com CNAME .
 it.hokerlywaffies.com CNAME .
 ix.lithatelamnoid.com CNAME .
+ix.sparkleagings.com CNAME .
 iy.micastpyridic.com CNAME .
 iy.secalinonyxis.com CNAME .
 ja.ivegrandpa.com CNAME .
@@ -203,7 +205,6 @@ jq.obeyersshewn.com CNAME .
 jr.guestschewy.com CNAME .
 jr.wishjolty.com CNAME .
 js.gussiesarkosic.com CNAME .
-ju.kittlesoceania.com CNAME .
 ju.veganswingbow.com CNAME .
 jv.curiousuraemia.com CNAME .
 jv.sugaryestrone.com CNAME .
@@ -217,6 +218,7 @@ kl.osmoticchalah.com CNAME .
 kp.stingeantonia.com CNAME .
 kq.baggilymitoses.com CNAME .
 kr.cafenehkikki.com CNAME .
+ks.tipsifyfriezer.com CNAME .
 kt.guywireincorp.com CNAME .
 ku.allnesskepped.com CNAME .
 ku.arbacindiplex.com CNAME .
@@ -298,6 +300,7 @@ pm.clokemidriff.com CNAME .
 pm.teawaredanzon.com CNAME .
 pn.wendatopen.com CNAME .
 po.lepidjounces.com CNAME .
+po.nonehalides.com CNAME .
 pq.carlingquerent.com CNAME .
 pq.murkfrazil.com CNAME .
 ps.lanzontuareg.com CNAME .
@@ -314,6 +317,7 @@ qd.gibbarwaiting.com CNAME .
 qe.notersmilks.com CNAME .
 qg.mangerydewrot.com CNAME .
 qh.editormbiras.com CNAME .
+qh.escapedinbreed.com CNAME .
 qj.humusesphren.com CNAME .
 qk.eyrarbuggers.com CNAME .
 ql.nudistwhitlow.com CNAME .
@@ -350,6 +354,7 @@ rs.ashorestrifes.com CNAME .
 rw.davielyedith.com CNAME .
 rw.gundogleaker.com CNAME .
 rx.ominateamt.com CNAME .
+ry.holistnunatak.com CNAME .
 rz.salemcowbyre.com CNAME .
 sa.resailsgyse.com CNAME .
 sb.elfshippref.com CNAME .
@@ -390,6 +395,7 @@ tp.parcbegulf.com CNAME .
 tr.hiccupcotman.com CNAME .
 tr.impoundiranism.com CNAME .
 tr.keetsgray.com CNAME .
+ts.knappedmurshid.com CNAME .
 ts.toccatamotific.com CNAME .
 ts.trilledwoods.com CNAME .
 tt.smirkydiff.com CNAME .
