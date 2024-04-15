@@ -325,6 +325,7 @@
 | tr.donateur.afm-telethon.fr | tracking.bp01.net |
 | tr.dossier-assurance.maaf.fr | tracking.bp01.net |
 | tr.drh-holding.lvmh.fr | tracking.bp01.net |
+| tr.e-mail.axa.fr | tracking.bp01.net |
 | tr.e-mail.axabanque.fr | tracking.bp01.net |
 | tr.e-travaux.info | tracking.bp01.net |
 | tr.e.entreprise-pm.fr | tracking.bp01.net |
@@ -552,6 +553,7 @@
 | tr.invest.younited-credit.com | tracking.bp01.net |
 | tr.invitation-mesdessous.fr | tracking.bp01.net |
 | tr.invitation.perfectstay.com | tracking.bp01.net |
+| tr.ipsos-surveys.com | tracking.bp01.net |
 | tr.ispaconsulting.com | tracking.bp01.net |
 | tr.italia.plimsoll.it | tracking.bp01.net |
 | tr.jend.espmp-pofr.net | tracking.bp01.net |
@@ -693,6 +695,7 @@
 | tr.news-dfc.sciences-po.fr | tracking.bp01.net |
 | tr.news-fr.perfectstay.com | tracking.bp01.net |
 | tr.news-ingerop.com | tracking.bp01.net |
+| tr.news-longchamp.com | tracking.bp01.net |
 | tr.news.a-t.fr | tracking.bp01.net |
 | tr.news.a2micile.com | tracking.bp01.net |
 | tr.news.accessmastertour.com | tracking.bp01.net |
@@ -820,7 +823,6 @@
 | tr.news.prosfora-mou.gr | tracking.bp01.net |
 | tr.news.receiveyourquote.co.uk | tracking.bp01.net |
 | tr.news.retailglobalsolutions.com | tracking.bp01.net |
-| tr.news.roadzila.com | tracking.bp01.net |
 | tr.news.seine-estuaire.cci.fr | tracking.bp01.net |
 | tr.news.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.news.smartdealstransavia-fr.com | tracking.bp01.net |
@@ -1055,6 +1057,7 @@
 | tr.tr.bricodepot.com | tracking.bp01.net |
 | tr.trafficnews.lyria.com | tracking.bp01.net |
 | tr.ujsv.espmp-agfr.net | tracking.bp01.net |
+| tr.uk.icicibank.com | tracking.bp01.net |
 | tr.uk.katun.com | tracking.bp01.net |
 | tr.unaoffertaalgiorno.com | tracking.bp01.net |
 | tr.update.groupon.be | tracking.bp01.net |

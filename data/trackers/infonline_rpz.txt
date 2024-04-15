@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1712563219839        ; Serial
+           1713168007249        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -823,6 +823,7 @@ data-5e5ac4ec65.menshealth.de CNAME .
 data-5eb3b7b86d.abendblatt.de CNAME .
 data-5eb3b7b86d.hamburgerimmobilien.de CNAME .
 data-5ec2d41a8f.radiowestfalica.de CNAME .
+data-5f1c477bee.apps.iocnt.de CNAME .
 data-5f67d653dd.si-shk.de CNAME .
 data-5f7ebd9560.apps.iocnt.de CNAME .
 data-5fdd0f6a02.salzburg24.at CNAME .
@@ -871,6 +872,7 @@ data-60d896f23d.waz-online.de CNAME .
 data-60d896f23d.weihnachten-in-hannover.de CNAME .
 data-614d3891ff.e-fellows.net CNAME .
 data-614d3891ff.zeit.de CNAME .
+data-615a2eced5.grazer.at CNAME .
 data-62650cd9a5.golem.de CNAME .
 data-626887dee6.0rtl.de CNAME .
 data-626887dee6.890rtl.de CNAME .
@@ -1822,6 +1824,7 @@ data-d4ecb517ab.tvspielfilm.de CNAME .
 data-d4ecb517ab.tvtoday.de CNAME .
 data-d50f71e18f.apps.iocnt.de CNAME .
 data-d543661da8.oe24.at CNAME .
+data-d5c733accc.infonline.de CNAME .
 data-d5cb47d8e4.radiotop40.de CNAME .
 data-d5d9e85944.textilwirtschaft.de CNAME .
 data-d5efd1b9c0.dzonline.de CNAME .
@@ -2032,6 +2035,7 @@ data-f1e447fbcf.24vita.de CNAME .
 data-f1e447fbcf.az-online.de CNAME .
 data-f1e447fbcf.baden24.de CNAME .
 data-f1e447fbcf.bgland24.de CNAME .
+data-f1e447fbcf.brokser-heiratsmarkt.de CNAME .
 data-f1e447fbcf.buzzfeed.at CNAME .
 data-f1e447fbcf.buzzfeed.de CNAME .
 data-f1e447fbcf.bw24.de CNAME .
@@ -2230,6 +2234,7 @@ data-fcb7dbed1e.apps.iocnt.de CNAME .
 data-fd399543fe.elektroniknet.de CNAME .
 data-fd399543fe.medical-design.news CNAME .
 data-fd399543fe.mut-job.de CNAME .
+data-fd53e9bda6.holidayguru.ch CNAME .
 data-fd53e9bda6.holidayguru.es CNAME .
 data-fd53e9bda6.holidayguru.nl CNAME .
 data-fd53e9bda6.urlaubsguru.at CNAME .
@@ -2262,6 +2267,7 @@ data-fdf4690b14.trauer.de CNAME .
 data-fdf4690b14.waz.de CNAME .
 data-fdf4690b14.wp.de CNAME .
 data-fdf4690b14.wr.de CNAME .
+data-fdf649e16e.fussballn.de CNAME .
 data-fe32da0431.news.at CNAME .
 data-fe34715c33.zi-online.info CNAME .
 data-fe51ff732b.e-media.at CNAME .

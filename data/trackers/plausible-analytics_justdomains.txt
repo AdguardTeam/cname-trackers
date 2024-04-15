@@ -5,7 +5,6 @@ a.aawp.de
 a.easyazon.com
 a.iiro.dev
 a.linkz.ai
-a.remy.world
 aloha.getoperand.com
 also.greatsecuritydebate.net
 an.xavierrosee.com
@@ -794,7 +793,6 @@ stats.servicedesignjobs.com
 stats.seva.rocks
 stats.sexplore.app
 stats.shareup.app
-stats.sheer.tj
 stats.shepherd.com
 stats.shh.io
 stats.shiftx.com

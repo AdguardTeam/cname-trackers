@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1712563219839        ; Serial
+           1713168007249        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -131,7 +131,6 @@ share.tenmarks.com CNAME .
 share.vimeo.com CNAME .
 share.wimp.no CNAME .
 share.worldmarket.com CNAME .
-sharethelove.teacollection.com CNAME .
 social.fabkids.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
@@ -526,6 +525,7 @@ share.freep.com CNAME .
 share.fullbay.com CNAME .
 share.fundrive.savers.com CNAME .
 share.getsetup.io CNAME .
+share.getshyft.co.za CNAME .
 share.giftcardgranny.com CNAME .
 share.giftya.com CNAME .
 share.giorgioarmanibeauty-usa.com CNAME .

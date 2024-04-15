@@ -36,7 +36,6 @@ cdn.eeco.xyz
 cdn.elicaowl.com
 cdn.fajukc.com
 cdn.falkwo.com
-cdn.faspox.com
 cdn.fazanppq.com
 cdn.fedsy.xyz
 cdn.fedykr.com
@@ -65,11 +64,9 @@ cdn.jhkfd.com
 cdn.jhoncj.com
 cdn.jitanvlw.com
 cdn.jklpy.com
-cdn.jwalf.com
 cdn.karpatzi.com
 cdn.keajs.com
 cdn.kfjhd.com
-cdn.luxope.com
 cdn.mafyak.com
 cdn.masbpi.com
 cdn.miluwo.com
@@ -101,7 +98,6 @@ cdn.puyjjq.com
 cdn.puysis.com
 cdn.qgerr.com
 cdn.quagfa.com
-cdn.rapolok.com
 cdn.rausfml.com
 cdn.rawqel.com
 cdn.rgrd.xyz
@@ -141,7 +137,6 @@ cdn.zxclan.com
 7wrxo2xh.iriscreative.co
 8inhjmd.usefathom.com
 9kz9cttz76.antonsten.com
-aardvark.helpingpets.org.uk
 aardvark.mission-austria.at
 aardvark.revolana.rs
 aardvark.steadybit.com
@@ -246,14 +241,12 @@ bison.streamclocks.com
 bison.stuffmatic.com
 bison.weitweit.at
 blackbird.docstation.co
-blackbird.stickerclub.org
 bluejay.edgesoftware.cloud
 bluejay.postmediagroup.com
 bluejay.schreinerei-virnich.de
 bluejay.wearegray.com
 boa.auaesthetics.com
 boa.nolongerset.com
-boa.prostamped.com
 boar.hopehollow.com
 boar.indieweb.org
 boar.kostholdsveilederen.no
@@ -301,7 +294,6 @@ cat.beunitedinchrist.com
 cat.gfx.io
 cat.laravel-news.com
 cat.mattr.global
-cat.serverless.quest
 cat.sprucely.net
 cat.thisminute.app
 cat.tinylittlebusinesses.com
@@ -448,7 +440,6 @@ emu.motala.no
 emu.pin13.net
 eu.fathomdns.com
 eu.usefathom.com
-falcon.backgroundnoise.app
 falcon.designed.org
 falcon.executeprogram.com
 falcon.rowanmanning.com
@@ -504,7 +495,6 @@ giraffe.viatorci.com
 goat.aicontentdojo.com
 goat.kunalslab.com
 goat.purposevisionfuture.com
-goat.studiobruikbaar.nl
 goat.vrds.app
 goldfish.boleary.dev
 goldfish.clickand.de
@@ -828,7 +818,6 @@ polarbear.codeday.org
 porcupine.dvresolve.com
 porpoise.azettl.net
 porpoise.fruittreecottage.com.au
-porpoise.groupcalendar.app
 porpoise.jackwhiting.co.uk
 porpoise.kristinholl.com
 porpoise.numberzs.com
@@ -862,7 +851,6 @@ raccoon.jaronheard.com
 rat.gimlet.io
 raven.konquadrat.de
 raven.vethelpdirect.com
-reindeer.dunkeldholidayhome.co.uk
 reindeer.iainbroome.com
 reindeer.pablomaceda.com
 reptile.o-lit.fr
@@ -1010,7 +998,6 @@ trout.openfpl.com
 trout.travelmassive.com
 trout.unicornplatform.com
 tuna.ajaymantri.com
-tuna.peterfarms.com
 turkey.codeness.io
 turkey.docsy.cloud
 turkey.tella.tv
@@ -1060,7 +1047,6 @@ wildcat.vivritiamc.com
 wildebeest.gmk.today
 wildebeest.quarva.dev
 wildebeest.soft-spoken.dev
-wildebeest.theheritagelodge.com
 wildebeest.trigo.dev
 wildfowl.minter.io
 wolf.idthompson.com
@@ -1136,6 +1122,5 @@ sp.freshlooklens.pk
 sp.lenspk.com
 sp.theladyshop.pk
 static.netfly.fun
-static.xlyyzx.sbs
 thirty-good.lugg.com
 video.adsninja.ca

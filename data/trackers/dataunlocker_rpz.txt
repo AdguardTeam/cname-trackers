@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1712563219839        ; Serial
+           1713168007249        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -95,6 +95,7 @@ m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
 mteme7li1d6r.vertexmarketingagency.com CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
+n5o61tb.www.bolighub.dk CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
 o3gxzoewxl1x.cp.zomro.com CNAME .
 otx23nu6rzon.prep.toppers.com CNAME .
@@ -114,6 +115,7 @@ sxwxswg8z1xe.www.arnowebtv.com CNAME .
 t7baxp1xmw00.boxoffice.adventuretix.com CNAME .
 ti3av8k3ikwm.resume.gerardbosch.xyz CNAME .
 tnincvf1d1jl.de.themoneytizer.com CNAME .
+tutbc1.www.tapmyback.com CNAME .
 tzgurwizule3.app.cardahealth.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
 uhd5nn09mgml.fort-shop.kiev.ua CNAME .
@@ -129,4 +131,3 @@ y4e04gql5o1b.www.nookgaming.com CNAME .
 ysrrzgku6tar.us.themoneytizer.com CNAME .
 z3617cz9ep.fitness.tappbrothers.com CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .
-zrg8pujtku8ff0isdz.www.bolighub.dk CNAME .

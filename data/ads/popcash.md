@@ -73,7 +73,6 @@
 | 7wrxo2xh.iriscreative.co | deprecated-custom-domains.b-cdn.net |
 | 8inhjmd.usefathom.com | deprecated-custom-domains.b-cdn.net |
 | 9kz9cttz76.antonsten.com | deprecated-custom-domains.b-cdn.net |
-| aardvark.helpingpets.org.uk | deprecated-custom-domains.b-cdn.net |
 | aardvark.mission-austria.at | deprecated-custom-domains.b-cdn.net |
 | aardvark.revolana.rs | deprecated-custom-domains.b-cdn.net |
 | aardvark.steadybit.com | deprecated-custom-domains.b-cdn.net |
@@ -178,14 +177,12 @@
 | bison.stuffmatic.com | deprecated-custom-domains.b-cdn.net |
 | bison.weitweit.at | deprecated-custom-domains.b-cdn.net |
 | blackbird.docstation.co | deprecated-custom-domains.b-cdn.net |
-| blackbird.stickerclub.org | deprecated-custom-domains.b-cdn.net |
 | bluejay.edgesoftware.cloud | deprecated-custom-domains.b-cdn.net |
 | bluejay.postmediagroup.com | deprecated-custom-domains.b-cdn.net |
 | bluejay.schreinerei-virnich.de | deprecated-custom-domains.b-cdn.net |
 | bluejay.wearegray.com | deprecated-custom-domains.b-cdn.net |
 | boa.auaesthetics.com | deprecated-custom-domains.b-cdn.net |
 | boa.nolongerset.com | deprecated-custom-domains.b-cdn.net |
-| boa.prostamped.com | deprecated-custom-domains.b-cdn.net |
 | boar.hopehollow.com | deprecated-custom-domains.b-cdn.net |
 | boar.indieweb.org | deprecated-custom-domains.b-cdn.net |
 | boar.kostholdsveilederen.no | deprecated-custom-domains.b-cdn.net |
@@ -233,7 +230,6 @@
 | cat.gfx.io | deprecated-custom-domains.b-cdn.net |
 | cat.laravel-news.com | deprecated-custom-domains.b-cdn.net |
 | cat.mattr.global | deprecated-custom-domains.b-cdn.net |
-| cat.serverless.quest | deprecated-custom-domains.b-cdn.net |
 | cat.sprucely.net | deprecated-custom-domains.b-cdn.net |
 | cat.thisminute.app | deprecated-custom-domains.b-cdn.net |
 | cat.tinylittlebusinesses.com | deprecated-custom-domains.b-cdn.net |
@@ -380,7 +376,6 @@
 | emu.pin13.net | deprecated-custom-domains.b-cdn.net |
 | eu.fathomdns.com | deprecated-custom-domains.b-cdn.net |
 | eu.usefathom.com | deprecated-custom-domains.b-cdn.net |
-| falcon.backgroundnoise.app | deprecated-custom-domains.b-cdn.net |
 | falcon.designed.org | deprecated-custom-domains.b-cdn.net |
 | falcon.executeprogram.com | deprecated-custom-domains.b-cdn.net |
 | falcon.rowanmanning.com | deprecated-custom-domains.b-cdn.net |
@@ -436,7 +431,6 @@
 | goat.aicontentdojo.com | deprecated-custom-domains.b-cdn.net |
 | goat.kunalslab.com | deprecated-custom-domains.b-cdn.net |
 | goat.purposevisionfuture.com | deprecated-custom-domains.b-cdn.net |
-| goat.studiobruikbaar.nl | deprecated-custom-domains.b-cdn.net |
 | goat.vrds.app | deprecated-custom-domains.b-cdn.net |
 | goldfish.boleary.dev | deprecated-custom-domains.b-cdn.net |
 | goldfish.clickand.de | deprecated-custom-domains.b-cdn.net |
@@ -760,7 +754,6 @@
 | porcupine.dvresolve.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.azettl.net | deprecated-custom-domains.b-cdn.net |
 | porpoise.fruittreecottage.com.au | deprecated-custom-domains.b-cdn.net |
-| porpoise.groupcalendar.app | deprecated-custom-domains.b-cdn.net |
 | porpoise.jackwhiting.co.uk | deprecated-custom-domains.b-cdn.net |
 | porpoise.kristinholl.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.numberzs.com | deprecated-custom-domains.b-cdn.net |
@@ -794,7 +787,6 @@
 | rat.gimlet.io | deprecated-custom-domains.b-cdn.net |
 | raven.konquadrat.de | deprecated-custom-domains.b-cdn.net |
 | raven.vethelpdirect.com | deprecated-custom-domains.b-cdn.net |
-| reindeer.dunkeldholidayhome.co.uk | deprecated-custom-domains.b-cdn.net |
 | reindeer.iainbroome.com | deprecated-custom-domains.b-cdn.net |
 | reindeer.pablomaceda.com | deprecated-custom-domains.b-cdn.net |
 | reptile.o-lit.fr | deprecated-custom-domains.b-cdn.net |
@@ -942,7 +934,6 @@
 | trout.travelmassive.com | deprecated-custom-domains.b-cdn.net |
 | trout.unicornplatform.com | deprecated-custom-domains.b-cdn.net |
 | tuna.ajaymantri.com | deprecated-custom-domains.b-cdn.net |
-| tuna.peterfarms.com | deprecated-custom-domains.b-cdn.net |
 | turkey.codeness.io | deprecated-custom-domains.b-cdn.net |
 | turkey.docsy.cloud | deprecated-custom-domains.b-cdn.net |
 | turkey.tella.tv | deprecated-custom-domains.b-cdn.net |
@@ -992,7 +983,6 @@
 | wildebeest.gmk.today | deprecated-custom-domains.b-cdn.net |
 | wildebeest.quarva.dev | deprecated-custom-domains.b-cdn.net |
 | wildebeest.soft-spoken.dev | deprecated-custom-domains.b-cdn.net |
-| wildebeest.theheritagelodge.com | deprecated-custom-domains.b-cdn.net |
 | wildebeest.trigo.dev | deprecated-custom-domains.b-cdn.net |
 | wildfowl.minter.io | deprecated-custom-domains.b-cdn.net |
 | wolf.idthompson.com | deprecated-custom-domains.b-cdn.net |
@@ -1047,7 +1037,6 @@
 | cdn.elicaowl.com | popcashjs.b-cdn.net |
 | cdn.fajukc.com | popcashjs.b-cdn.net |
 | cdn.falkwo.com | popcashjs.b-cdn.net |
-| cdn.faspox.com | popcashjs.b-cdn.net |
 | cdn.fazanppq.com | popcashjs.b-cdn.net |
 | cdn.fedsy.xyz | popcashjs.b-cdn.net |
 | cdn.fedykr.com | popcashjs.b-cdn.net |
@@ -1076,11 +1065,9 @@
 | cdn.jhoncj.com | popcashjs.b-cdn.net |
 | cdn.jitanvlw.com | popcashjs.b-cdn.net |
 | cdn.jklpy.com | popcashjs.b-cdn.net |
-| cdn.jwalf.com | popcashjs.b-cdn.net |
 | cdn.karpatzi.com | popcashjs.b-cdn.net |
 | cdn.keajs.com | popcashjs.b-cdn.net |
 | cdn.kfjhd.com | popcashjs.b-cdn.net |
-| cdn.luxope.com | popcashjs.b-cdn.net |
 | cdn.mafyak.com | popcashjs.b-cdn.net |
 | cdn.masbpi.com | popcashjs.b-cdn.net |
 | cdn.miluwo.com | popcashjs.b-cdn.net |
@@ -1112,7 +1099,6 @@
 | cdn.puysis.com | popcashjs.b-cdn.net |
 | cdn.qgerr.com | popcashjs.b-cdn.net |
 | cdn.quagfa.com | popcashjs.b-cdn.net |
-| cdn.rapolok.com | popcashjs.b-cdn.net |
 | cdn.rausfml.com | popcashjs.b-cdn.net |
 | cdn.rawqel.com | popcashjs.b-cdn.net |
 | cdn.rgrd.xyz | popcashjs.b-cdn.net |
@@ -1158,7 +1144,6 @@
 | sp.theladyshop.pk | spixel.b-cdn.net |
 | img.7xixi.site | st-fly.b-cdn.net |
 | static.netfly.fun | st-fly.b-cdn.net |
-| static.xlyyzx.sbs | st-fly.b-cdn.net |
 | cdn.responsiq.com | unibotscdn.b-cdn.net |
 | cdn.studiosis.in | unibotscdn.b-cdn.net |
 | cdn.unibotscdn.com | unibotscdn.b-cdn.net |

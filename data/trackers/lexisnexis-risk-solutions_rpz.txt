@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1712563219839        ; Serial
+           1713168007249        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -131,6 +131,7 @@ cdntm.hsbc.com.ph CNAME .
 cdntm.hsbc.com.sg CNAME .
 cdntm.hsbc.fr CNAME .
 cdntm.johnlewisfinance.com CNAME .
+cdntm.mandsbank.com CNAME .
 cdntm.marksandspencer.com CNAME .
 cdntm.rodanandfields.com CNAME .
 cdntm.us.hsbc.com CNAME .
@@ -258,6 +259,7 @@ content.massmutual.com CNAME .
 content.maxconnector.com CNAME .
 content.moneza.ru CNAME .
 content.moni.com.ar CNAME .
+content.my100bank.com CNAME .
 content.myfamliplus.state.co.us CNAME .
 content.myonlyid.com CNAME .
 content.mywisely.com CNAME .
@@ -361,6 +363,7 @@ contentservices.ascendloans.com CNAME .
 contentservices.brightlending.com CNAME .
 contentservices.clearairlending.com CNAME .
 contentservices.zurvita.com CNAME .
+creditapp.rogersbank.com CNAME .
 creditcheck.digitecgalaxus.ch CNAME .
 csource.rentals.com CNAME .
 css.bitcasino.io CNAME .
@@ -431,6 +434,7 @@ fms-dev.citysavings.net.ph CNAME .
 fms.perahub.com.ph CNAME .
 fnvma.milanuncios.com CNAME .
 fp.aion.be CNAME .
+fp.ambrosewilson.com CNAME .
 fp.avatrade.com CNAME .
 fp.cdn-scripts.com CNAME .
 fp.corporatetravelmoney.com CNAME .
@@ -707,6 +711,7 @@ regstat.betfair.com CNAME .
 regstat.paddypower.com CNAME .
 req.secured-content.com CNAME .
 res.pay.ionos.com CNAME .
+rfp.intuit.com CNAME .
 rhino.gocardless.com CNAME .
 rm-3d84e791.payby.com CNAME .
 rmscheck.sbifxt.co.jp CNAME .
@@ -792,40 +797,8 @@ svc.bangkokbank.com CNAME .
 svc.ondeck.com.au CNAME .
 svc1.sc.com CNAME .
 svc2.sc.com CNAME .
-t.banking.blucurrent.org CNAME .
-t.banking.njfcu.org CNAME .
-t.demo.lumindigital.com CNAME .
-t.digital.communityfirstcu.org CNAME .
-t.digitalbanking.credithuman.com CNAME .
-t.digitalbanking.langleyfcu.org CNAME .
-t.digitalbanking.tronavalley.com CNAME .
-t.digitalbanking.uoficreditunion.org CNAME .
-t.ebank.mscu.net CNAME .
-t.ebanking.apcifcu.org CNAME .
-t.ebranch.hfcuvt.com CNAME .
-t.hb.mydccu.com CNAME .
 t.lebara.ch CNAME .
 t.liberty.com.au CNAME .
-t.my.service1.org CNAME .
-t.myaccounts.shellfcu.org CNAME .
-t.olb.hawaiistatefcu.com CNAME .
-t.olb.interracu.com CNAME .
-t.online.acutx.org CNAME .
-t.online.bankcfcu.org CNAME .
-t.online.bankingonyoucu.org CNAME .
-t.online.firstsouth.com CNAME .
-t.online.fortfinancial.org CNAME .
-t.online.lafcu.org CNAME .
-t.online.navigatorcu.org CNAME .
-t.online.oneazcreditunion.com CNAME .
-t.online.vsecu.com CNAME .
-t.online.westerlyccu.com CNAME .
-t.onlinebanking.american1cu.org CNAME .
-t.onlinebanking.consumerscu.org CNAME .
-t.onlinebanking.firstmarkcu.org CNAME .
-t.onlinebanking.sesloc.org CNAME .
-t.secure.ascend.org CNAME .
-t.secure.selco.org CNAME .
 t.sunrise.ch CNAME .
 t.us.williamhill.com CNAME .
 t.wepay.com CNAME .
@@ -1038,7 +1011,6 @@ ww9.lloydsbank.com CNAME .
 www.cdna.cofidis.be CNAME .
 www.content.bnl.it CNAME .
 www.content.mabanquepro.bnpparibas CNAME .
-www7.raise.com CNAME .
 xfp.intuit.com CNAME .
 xmt.paze.com CNAME .
 ydkwim.targobank.de CNAME .

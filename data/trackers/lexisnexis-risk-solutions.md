@@ -238,6 +238,7 @@
     * h-cdn2.intercambioexpress.online-metrix.net
     * h-cdryhofv.online-metrix.net
     * h-ce5udwb7.online-metrix.net
+    * h-centennial.online-metrix.net
     * h-certifid.online-metrix.net
     * h-cesikaps.online-metrix.net
     * h-ceurt9zj.online-metrix.net
@@ -568,7 +569,6 @@
     * h-portoseguro.online-metrix.net
     * h-prosper.online-metrix.net
     * h-provantage.online-metrix.net
-    * h-pscu.online-metrix.net
     * h-psecu.online-metrix.net
     * h-qasantanderbank.online-metrix.net
     * h-qlinkwireless.online-metrix.net
@@ -578,7 +578,6 @@
     * h-rabobank.online-metrix.net
     * h-rabobank2.online-metrix.net
     * h-rabobankuat.online-metrix.net
-    * h-raise.online-metrix.net
     * h-rakbankonline.online-metrix.net
     * h-rbc.online-metrix.net
     * h-rbs-bank.online-metrix.net
@@ -590,6 +589,7 @@
     * h-renttherunway.online-metrix.net
     * h-retail-sc.online-metrix.net
     * h-retailservicescommercial.citi.online-metrix.net
+    * h-rogersbank.online-metrix.net
     * h-royalairmaroc.online-metrix.net
     * h-rushstreet.online-metrix.net
     * h-s0b500qh.online-metrix.net
@@ -662,6 +662,7 @@
     * h-usps.online-metrix.net
     * h-v60nf4oj-pfp.online-metrix.net
     * h-v60nf4oj-qfp.online-metrix.net
+    * h-v60nf4oj-rfp.online-metrix.net
     * h-v60nf4oj-sfp.online-metrix.net
     * h-v60nf4oj-vfp.online-metrix.net
     * h-v60nf4oj-wfp.online-metrix.net
@@ -788,6 +789,7 @@
 | metrics.myfrs.com | h-2fiylyk1.online-metrix.net |
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
+| fp.ambrosewilson.com | h-2n067wr9.online-metrix.net |
 | fp.crazyclearance.co.uk | h-2n067wr9.online-metrix.net |
 | fp.fashionworld.co.uk | h-2n067wr9.online-metrix.net |
 | fp.homeessentials.co.uk | h-2n067wr9.online-metrix.net |
@@ -1075,6 +1077,7 @@
 | cdn2.intercambioexpress.com | h-cdn2.intercambioexpress.online-metrix.net |
 | tm.rsa-claims.co.uk | h-cdryhofv.online-metrix.net |
 | cdnm.sts.pl | h-ce5udwb7.online-metrix.net |
+| content.my100bank.com | h-centennial.online-metrix.net |
 | content.certifid.com | h-certifid.online-metrix.net |
 | contentneworks.nebraska.gov | h-cesikaps.online-metrix.net |
 | device.invoice2go.com | h-ceurt9zj.online-metrix.net |
@@ -1418,6 +1421,7 @@
 | cdna.lottohelden.de | h-lottohelden.online-metrix.net |
 | content.numobile.com.au | h-macquarie.online-metrix.net |
 | d.mlcdn.com.br | h-magazineluiza.online-metrix.net |
+| cdntm.mandsbank.com | h-mandsbank.online-metrix.net |
 | cdntm.marksandspencer.com | h-mandsbank.online-metrix.net |
 | faas.marktplaats.nl | h-marktplaats.online-metrix.net |
 | content.massmutual.com | h-massmutual.online-metrix.net |
@@ -1501,38 +1505,6 @@
 | meiodepagamento.campanhaporto.com.br | h-portoseguro.online-metrix.net |
 | img2.prosper.com | h-prosper.online-metrix.net |
 | dept.provantage.com | h-provantage.online-metrix.net |
-| t.banking.blucurrent.org | h-pscu.online-metrix.net |
-| t.banking.njfcu.org | h-pscu.online-metrix.net |
-| t.demo.lumindigital.com | h-pscu.online-metrix.net |
-| t.digital.communityfirstcu.org | h-pscu.online-metrix.net |
-| t.digitalbanking.credithuman.com | h-pscu.online-metrix.net |
-| t.digitalbanking.langleyfcu.org | h-pscu.online-metrix.net |
-| t.digitalbanking.tronavalley.com | h-pscu.online-metrix.net |
-| t.digitalbanking.uoficreditunion.org | h-pscu.online-metrix.net |
-| t.ebank.mscu.net | h-pscu.online-metrix.net |
-| t.ebanking.apcifcu.org | h-pscu.online-metrix.net |
-| t.ebranch.hfcuvt.com | h-pscu.online-metrix.net |
-| t.hb.mydccu.com | h-pscu.online-metrix.net |
-| t.my.service1.org | h-pscu.online-metrix.net |
-| t.myaccounts.shellfcu.org | h-pscu.online-metrix.net |
-| t.olb.hawaiistatefcu.com | h-pscu.online-metrix.net |
-| t.olb.interracu.com | h-pscu.online-metrix.net |
-| t.online.acutx.org | h-pscu.online-metrix.net |
-| t.online.bankcfcu.org | h-pscu.online-metrix.net |
-| t.online.bankingonyoucu.org | h-pscu.online-metrix.net |
-| t.online.firstsouth.com | h-pscu.online-metrix.net |
-| t.online.fortfinancial.org | h-pscu.online-metrix.net |
-| t.online.lafcu.org | h-pscu.online-metrix.net |
-| t.online.navigatorcu.org | h-pscu.online-metrix.net |
-| t.online.oneazcreditunion.com | h-pscu.online-metrix.net |
-| t.online.vsecu.com | h-pscu.online-metrix.net |
-| t.online.westerlyccu.com | h-pscu.online-metrix.net |
-| t.onlinebanking.american1cu.org | h-pscu.online-metrix.net |
-| t.onlinebanking.consumerscu.org | h-pscu.online-metrix.net |
-| t.onlinebanking.firstmarkcu.org | h-pscu.online-metrix.net |
-| t.onlinebanking.sesloc.org | h-pscu.online-metrix.net |
-| t.secure.ascend.org | h-pscu.online-metrix.net |
-| t.secure.selco.org | h-pscu.online-metrix.net |
 | tracking.psecu.com | h-psecu.online-metrix.net |
 | digitalid-qa.santanderbank.com | h-qasantanderbank.online-metrix.net |
 | content.hellomobile.com | h-qlinkwireless.online-metrix.net |
@@ -1544,7 +1516,6 @@
 | ranzg.rabobank.co.nz | h-rabobank2.online-metrix.net |
 | ranzg.agribank.co.nz | h-rabobankuat.online-metrix.net |
 | ranzg.agribank.com.au | h-rabobankuat.online-metrix.net |
-| www7.raise.com | h-raise.online-metrix.net |
 | channel.rakbankonline.ae | h-rakbankonline.online-metrix.net |
 | webftm.sterbc.com | h-rbc.online-metrix.net |
 | tags.api.openaccount.natwest.com | h-rbs-bank.online-metrix.net |
@@ -1576,6 +1547,7 @@
 | secure.rtrcdn.com | h-renttherunway.online-metrix.net |
 | svc2.sc.com | h-retail-sc.online-metrix.net |
 | content22.retailservicescommercial.citi.com | h-retailservicescommercial.citi.online-metrix.net |
+| creditapp.rogersbank.com | h-rogersbank.online-metrix.net |
 | content.royalairmaroc.com | h-royalairmaroc.online-metrix.net |
 | service.riverscontent.com | h-rushstreet.online-metrix.net |
 | img2.paywithmybank.com | h-s0b500qh.online-metrix.net |
@@ -1664,6 +1636,7 @@
 | content.usps.com | h-usps.online-metrix.net |
 | pfp.intuit.com | h-v60nf4oj-pfp.online-metrix.net |
 | qfp.intuit.com | h-v60nf4oj-qfp.online-metrix.net |
+| rfp.intuit.com | h-v60nf4oj-rfp.online-metrix.net |
 | sfp.intuit.com | h-v60nf4oj-sfp.online-metrix.net |
 | vfp.intuit.com | h-v60nf4oj-vfp.online-metrix.net |
 | wfp.intuit.com | h-v60nf4oj-wfp.online-metrix.net |

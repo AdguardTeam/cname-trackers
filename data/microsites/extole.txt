@@ -120,7 +120,6 @@
 ||share.vimeo.com^
 ||share.wimp.no^
 ||share.worldmarket.com^
-||sharethelove.teacollection.com^
 ||social.fabkids.com^
 ||tellapal.register.com^
 ||tellapal.web.com^
@@ -515,6 +514,7 @@
 ||share.fullbay.com^
 ||share.fundrive.savers.com^
 ||share.getsetup.io^
+||share.getshyft.co.za^
 ||share.giftcardgranny.com^
 ||share.giftya.com^
 ||share.giorgioarmanibeauty-usa.com^

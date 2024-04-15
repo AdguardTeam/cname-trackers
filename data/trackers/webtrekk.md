@@ -38,6 +38,7 @@
     * tchibo07.webtrekk.net
     * tchibo08.webtrekk.net
     * tchibo09.webtrekk.net
+    * telekom01.webtrekk.net
     * telekom02.webtrekk.net
     * teufel-de01.webtrekk.net
     * warentest-de01.webtrekk.net
@@ -595,6 +596,7 @@
 | tracking.tchibo.sk | tchibo07.webtrekk.net |
 | tracking.tchibo.hu | tchibo08.webtrekk.net |
 | tracking.tchibo.com.tr | tchibo09.webtrekk.net |
+| pix.telekom.de | telekom01.webtrekk.net |
 | pix.telekom-dienste.de | telekom02.webtrekk.net |
 | wbtrkk.teufelaudio.co.uk | teufel-de01.webtrekk.net |
 | tippcom01.tipp24.com | tipp24-de01.wt-eu02.net |

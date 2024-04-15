@@ -304,6 +304,7 @@ tr.dogstrust.org.uk
 tr.donateur.afm-telethon.fr
 tr.dossier-assurance.maaf.fr
 tr.drh-holding.lvmh.fr
+tr.e-mail.axa.fr
 tr.e-mail.axabanque.fr
 tr.e-travaux.info
 tr.e.entreprise-pm.fr
@@ -531,6 +532,7 @@ tr.interviews-mediametrie.fr
 tr.invest.younited-credit.com
 tr.invitation-mesdessous.fr
 tr.invitation.perfectstay.com
+tr.ipsos-surveys.com
 tr.ispaconsulting.com
 tr.italia.plimsoll.it
 tr.jend.espmp-pofr.net
@@ -672,6 +674,7 @@ tr.news-companeo.pl
 tr.news-dfc.sciences-po.fr
 tr.news-fr.perfectstay.com
 tr.news-ingerop.com
+tr.news-longchamp.com
 tr.news.a-t.fr
 tr.news.a2micile.com
 tr.news.accessmastertour.com
@@ -799,7 +802,6 @@ tr.news.pl.bata-esp.com
 tr.news.prosfora-mou.gr
 tr.news.receiveyourquote.co.uk
 tr.news.retailglobalsolutions.com
-tr.news.roadzila.com
 tr.news.seine-estuaire.cci.fr
 tr.news.smartdeals-transavia-fr.com
 tr.news.smartdealstransavia-fr.com
@@ -1034,6 +1036,7 @@ tr.tpe.harmonie-mutuelle.fr
 tr.tr.bricodepot.com
 tr.trafficnews.lyria.com
 tr.ujsv.espmp-agfr.net
+tr.uk.icicibank.com
 tr.uk.katun.com
 tr.unaoffertaalgiorno.com
 tr.update.groupon.be

@@ -88,6 +88,7 @@
 | a.bosda.xyz | 0i0i0i0.com |
 | a.boyjackpot.com | 0i0i0i0.com |
 | a.buicks.xyz | 0i0i0i0.com |
+| a.bumog.xyz | 0i0i0i0.com |
 | a.celebritytube.online | 0i0i0i0.com |
 | a.coinhub.wiki | 0i0i0i0.com |
 | a.craftbeerclub.com.ua | 0i0i0i0.com |
@@ -101,19 +102,19 @@
 | a.fapcat.com | 0i0i0i0.com |
 | a.fapster.xxx | 0i0i0i0.com |
 | a.fuckamouth.com | 0i0i0i0.com |
-| a.globtube.site | 0i0i0i0.com |
+| a.gatwins.site | 0i0i0i0.com |
 | a.glovet.xyz | 0i0i0i0.com |
 | a.goodweet.xyz | 0i0i0i0.com |
 | a.goteat.xyz | 0i0i0i0.com |
 | a.gurusex.one | 0i0i0i0.com |
 | a.hentai369.com | 0i0i0i0.com |
 | a.hubhubhub.name | 0i0i0i0.com |
+| a.icnp7v5905eom.shop | 0i0i0i0.com |
 | a.ieo8qjp3x9jn.pro | 0i0i0i0.com |
 | a.jerkdevice.tv | 0i0i0i0.com |
 | a.jhfhdkhkh.site | 0i0i0i0.com |
 | a.kainpopoy.com | 0i0i0i0.com |
 | a.kambistory.ml | 0i0i0i0.com |
-| a.kamehaus.net | 0i0i0i0.com |
 | a.kantotin.net | 0i0i0i0.com |
 | a.kizzteen.com | 0i0i0i0.com |
 | a.lakmus.xyz | 0i0i0i0.com |
@@ -126,6 +127,7 @@
 | a.memosaqee.com | 0i0i0i0.com |
 | a.merig.xyz | 0i0i0i0.com |
 | a.mikiporntube.one | 0i0i0i0.com |
+| a.mikop.xyz | 0i0i0i0.com |
 | a.misctool.xyz | 0i0i0i0.com |
 | a.moera.xyz | 0i0i0i0.com |
 | a.muipe.xyz | 0i0i0i0.com |
@@ -157,6 +159,7 @@
 | a.xmanga.online | 0i0i0i0.com |
 | a.xolen.xyz | 0i0i0i0.com |
 | a.xz1106wals3d.shop | 0i0i0i0.com |
+| a.zenam.xyz | 0i0i0i0.com |
 | a.zillastream.com | 0i0i0i0.com |
 | a.zvert.xyz | 0i0i0i0.com |
 | a2cid.kiteau.blue | 0i0i0i0.com |
@@ -170,7 +173,6 @@
 | ab.cumhot.org | 0i0i0i0.com |
 | abc.cda-hd.co | 0i0i0i0.com |
 | abc.comick.top | 0i0i0i0.com |
-| abutok.xyz | 0i0i0i0.com |
 | ad.animeitaly.tv | 0i0i0i0.com |
 | ad.emule-island.eu | 0i0i0i0.com |
 | ad.vvtadblk.online | 0i0i0i0.com |
@@ -209,7 +211,6 @@
 | anun.comicsarmy.com | 0i0i0i0.com |
 | aoihaizo.xyz | 0i0i0i0.com |
 | api.adultsclips.com | 0i0i0i0.com |
-| apiemb.xyz | 0i0i0i0.com |
 | app.phimvu.app | 0i0i0i0.com |
 | app.zrotary.com | 0i0i0i0.com |
 | apple.analnoe24.com | 0i0i0i0.com |
@@ -270,7 +271,6 @@
 | b.filexan.com | 0i0i0i0.com |
 | b.harehop.com | 0i0i0i0.com |
 | b.hubhubhub.name | 0i0i0i0.com |
-| b.pinetq.com | 0i0i0i0.com |
 | b.reissue2871.xyz | 0i0i0i0.com |
 | b.sexvids.cc | 0i0i0i0.com |
 | b.sonorousporn.com | 0i0i0i0.com |
@@ -329,6 +329,8 @@
 | cesbr.spinna.store | 0i0i0i0.com |
 | chuchle.all-usanomination.com | 0i0i0i0.com |
 | click.fastupload.io | 0i0i0i0.com |
+| clickid.meltsin.site | 0i0i0i0.com |
+| clickid.souristing.site | 0i0i0i0.com |
 | client2009x25.xcdn.ovh | 0i0i0i0.com |
 | comezz.xyz | 0i0i0i0.com |
 | content.zbporn.com | 0i0i0i0.com |
@@ -401,7 +403,6 @@
 | glokta.info | 0i0i0i0.com |
 | go.ss-n-30.com | 0i0i0i0.com |
 | goallbest.com | 0i0i0i0.com |
-| godhame.xyz | 0i0i0i0.com |
 | godogle.steeelm.online | 0i0i0i0.com |
 | gogqw56nfo.zzaqqwecd.lat | 0i0i0i0.com |
 | goofdo.axxxfeee.lat | 0i0i0i0.com |
@@ -410,7 +411,6 @@
 | goty4sxoo.asfgeaa.lat | 0i0i0i0.com |
 | great.xxxbanglavideo.com | 0i0i0i0.com |
 | gsa24.giaythethaonuhcm.com | 0i0i0i0.com |
-| gulto.xyz | 0i0i0i0.com |
 | h-ay.com | 0i0i0i0.com |
 | h.bloblohub.com | 0i0i0i0.com |
 | h037n.letsporn.com | 0i0i0i0.com |
@@ -443,6 +443,7 @@
 | ijucr.justbokep.com | 0i0i0i0.com |
 | imbdemfjjduu.cdnvideo3.com | 0i0i0i0.com |
 | in.fuckhardclips.com | 0i0i0i0.com |
+| intimatediary.com | 0i0i0i0.com |
 | invast.invast.site | 0i0i0i0.com |
 | invast.site | 0i0i0i0.com |
 | io.fapnado.xxx | 0i0i0i0.com |
@@ -512,7 +513,6 @@
 | manzosui.xyz | 0i0i0i0.com |
 | markxa.xyz | 0i0i0i0.com |
 | maxcdn.dmm-video.online | 0i0i0i0.com |
-| maxhold.xyz | 0i0i0i0.com |
 | maxx1.a.pleasedonotblockme.com | 0i0i0i0.com |
 | maxx1.pleasedonotblockme.com | 0i0i0i0.com |
 | maxx2.a.pleasedonotblockme.com | 0i0i0i0.com |
@@ -548,7 +548,6 @@
 | nav.srcdn.xyz | 0i0i0i0.com |
 | net.contoseroticoscnn.com | 0i0i0i0.com |
 | net.sexstories69.com | 0i0i0i0.com |
-| newhand.name | 0i0i0i0.com |
 | news.solitut.online | 0i0i0i0.com |
 | newtits.name | 0i0i0i0.com |
 | newzilla.name | 0i0i0i0.com |
@@ -591,7 +590,6 @@
 | p.upskirt.tv | 0i0i0i0.com |
 | pacaka.conxxx.pro | 0i0i0i0.com |
 | padtue.xyz | 0i0i0i0.com |
-| pakenta.xyz | 0i0i0i0.com |
 | pamtuea.xyz | 0i0i0i0.com |
 | pamury.xyz | 0i0i0i0.com |
 | pangoha.xyz | 0i0i0i0.com |
@@ -611,6 +609,7 @@
 | porn18.me | 0i0i0i0.com |
 | pornve.sexyadsrun.com | 0i0i0i0.com |
 | pornvideos.casa | 0i0i0i0.com |
+| pouam.xyz | 0i0i0i0.com |
 | pouanz.xyz | 0i0i0i0.com |
 | powe.asian-xxx-videos.com | 0i0i0i0.com |
 | pqaz.xyz | 0i0i0i0.com |
@@ -669,11 +668,13 @@
 | s.grova.buzz | 0i0i0i0.com |
 | s.grova.xyz | 0i0i0i0.com |
 | s.isoporno.com | 0i0i0i0.com |
+| s.joypornyou.cc | 0i0i0i0.com |
 | s.krivo.buzz | 0i0i0i0.com |
 | s.malay.buzz | 0i0i0i0.com |
 | s.oralblow.com | 0i0i0i0.com |
 | s.quedo.buzz | 0i0i0i0.com |
 | s.remonti.org | 0i0i0i0.com |
+| s.thepornbin.us | 0i0i0i0.com |
 | s.tubezas.site | 0i0i0i0.com |
 | s1sentablya.teenfuckhd.com | 0i0i0i0.com |
 | s2.everydaygayporn.com | 0i0i0i0.com |
@@ -754,7 +755,6 @@
 | tozuoi.xyz | 0i0i0i0.com |
 | tr.7vid.net | 0i0i0i0.com |
 | track.sexbule.one | 0i0i0i0.com |
-| tracking.globtube.site | 0i0i0i0.com |
 | traffictraders.com | 0i0i0i0.com |
 | tron.bbw-porn-video.com | 0i0i0i0.com |
 | ts.sopornvideos.com | 0i0i0i0.com |
@@ -765,6 +765,7 @@
 | ui.videojav.com | 0i0i0i0.com |
 | uk.boffinsoft.com | 0i0i0i0.com |
 | umtpopxcsedc.cdnvideo3.com | 0i0i0i0.com |
+| unpin.hothomefuck.com | 0i0i0i0.com |
 | uotbzz.xyz | 0i0i0i0.com |
 | upinu.xyz | 0i0i0i0.com |
 | upperoh.hubhubhub.name | 0i0i0i0.com |
@@ -775,6 +776,7 @@
 | vergo.ehrydnmdoe.com | 0i0i0i0.com |
 | vi1.prettytube.net | 0i0i0i0.com |
 | vid.prettytube.net | 0i0i0i0.com |
+| video.cdnako.com | 0i0i0i0.com |
 | vikaez.xyz | 0i0i0i0.com |
 | vivuple.xyz | 0i0i0i0.com |
 | vo.turbocap.net | 0i0i0i0.com |
@@ -804,6 +806,7 @@
 | www.spinna.site | 0i0i0i0.com |
 | www.spinna.store | 0i0i0i0.com |
 | www.spinna.xyz | 0i0i0i0.com |
+| www.sukigyik.xyz | 0i0i0i0.com |
 | www.tbussyb.com | 0i0i0i0.com |
 | www.uk.boffinsoft.com | 0i0i0i0.com |
 | www.xz8.ru | 0i0i0i0.com |
@@ -853,12 +856,11 @@
 | hq3x.com | u50.0i0i0i0.com |
 | makumva.all-usanomination.com | u50.0i0i0i0.com |
 | newdin.name | u50.0i0i0i0.com |
+| newhand.name | u50.0i0i0i0.com |
 | www.addin.name | u50.0i0i0i0.com |
 | www.adxhand.name | u50.0i0i0i0.com |
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
 | www.newdin.name | u50.0i0i0i0.com |
-| h-ay.com | u53.hypnorat.com |
 | ontj.com | u53.hypnorat.com |
 | qhip.com | u53.hypnorat.com |
-| qoqv.com | u53.hypnorat.com |

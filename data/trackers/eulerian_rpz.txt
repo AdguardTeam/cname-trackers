@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1712563219839        ; Serial
+           1713168007249        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -508,7 +508,6 @@ c0p.cepsum.umontreal.ca CNAME .
 d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
 erb.tremblant.ca CNAME .
-hk2d.tourismemauricie.com CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
 su1.les-suites.ca CNAME .

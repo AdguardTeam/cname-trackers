@@ -812,6 +812,7 @@
 ||data-5eb3b7b86d.abendblatt.de^
 ||data-5eb3b7b86d.hamburgerimmobilien.de^
 ||data-5ec2d41a8f.radiowestfalica.de^
+||data-5f1c477bee.apps.iocnt.de^
 ||data-5f67d653dd.si-shk.de^
 ||data-5f7ebd9560.apps.iocnt.de^
 ||data-5fdd0f6a02.salzburg24.at^
@@ -860,6 +861,7 @@
 ||data-60d896f23d.weihnachten-in-hannover.de^
 ||data-614d3891ff.e-fellows.net^
 ||data-614d3891ff.zeit.de^
+||data-615a2eced5.grazer.at^
 ||data-62650cd9a5.golem.de^
 ||data-626887dee6.0rtl.de^
 ||data-626887dee6.890rtl.de^
@@ -1811,6 +1813,7 @@
 ||data-d4ecb517ab.tvtoday.de^
 ||data-d50f71e18f.apps.iocnt.de^
 ||data-d543661da8.oe24.at^
+||data-d5c733accc.infonline.de^
 ||data-d5cb47d8e4.radiotop40.de^
 ||data-d5d9e85944.textilwirtschaft.de^
 ||data-d5efd1b9c0.dzonline.de^
@@ -2021,6 +2024,7 @@
 ||data-f1e447fbcf.az-online.de^
 ||data-f1e447fbcf.baden24.de^
 ||data-f1e447fbcf.bgland24.de^
+||data-f1e447fbcf.brokser-heiratsmarkt.de^
 ||data-f1e447fbcf.buzzfeed.at^
 ||data-f1e447fbcf.buzzfeed.de^
 ||data-f1e447fbcf.bw24.de^
@@ -2219,6 +2223,7 @@
 ||data-fd399543fe.elektroniknet.de^
 ||data-fd399543fe.medical-design.news^
 ||data-fd399543fe.mut-job.de^
+||data-fd53e9bda6.holidayguru.ch^
 ||data-fd53e9bda6.holidayguru.es^
 ||data-fd53e9bda6.holidayguru.nl^
 ||data-fd53e9bda6.urlaubsguru.at^
@@ -2251,6 +2256,7 @@
 ||data-fdf4690b14.waz.de^
 ||data-fdf4690b14.wp.de^
 ||data-fdf4690b14.wr.de^
+||data-fdf649e16e.fussballn.de^
 ||data-fe32da0431.news.at^
 ||data-fe34715c33.zi-online.info^
 ||data-fe51ff732b.e-media.at^

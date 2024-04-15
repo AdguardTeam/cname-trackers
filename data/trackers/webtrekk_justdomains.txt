@@ -12,6 +12,7 @@ now.peek-cloppenburg.de
 ot.obi.com
 pix.eads.com
 pix.telekom-dienste.de
+pix.telekom.de
 pixel.augsburger-allgemeine.de
 prophet.heise.de
 service.hcob-bank.de

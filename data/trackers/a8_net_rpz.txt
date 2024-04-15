@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1712563219839        ; Serial
+           1713168007249        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -287,7 +287,6 @@ a8.shop.tsukijiwadatsumi.com CNAME .
 a8.shopserve.jp CNAME .
 a8.shukatsu-note.com CNAME .
 a8.sibody.tw CNAME .
-a8.simple-hoiku.com CNAME .
 a8.skr-labo.jp CNAME .
 a8.smart-onepage.com CNAME .
 a8.smp.shanon.co.jp CNAME .
@@ -880,6 +879,7 @@ a8cv.eeo.today CNAME .
 a8cv.egmkt.co.jp CNAME .
 a8cv.eikajapan.com CNAME .
 a8cv.elife-shihou.com CNAME .
+a8cv.emma-sleep-japan.com CNAME .
 a8cv.encounter2017.jp CNAME .
 a8cv.english-bootcamp.com CNAME .
 a8cv.english-cc.com CNAME .
@@ -1075,7 +1075,6 @@ a8cv.nikugatodoke.com CNAME .
 a8cv.nippon-olive.co.jp CNAME .
 a8cv.nipt-clinic.jp CNAME .
 a8cv.nittei-group-alliance.com CNAME .
-a8cv.norikae-cashback.com CNAME .
 a8cv.o-juku.com CNAME .
 a8cv.o-ken.com CNAME .
 a8cv.oceanprincess.jp CNAME .

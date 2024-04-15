@@ -18,7 +18,6 @@
 | a.easyazon.com | custom.plausible.io |
 | a.iiro.dev | custom.plausible.io |
 | a.linkz.ai | custom.plausible.io |
-| a.remy.world | custom.plausible.io |
 | aloha.getoperand.com | custom.plausible.io |
 | also.greatsecuritydebate.net | custom.plausible.io |
 | an.xavierrosee.com | custom.plausible.io |
@@ -807,7 +806,6 @@
 | stats.seva.rocks | custom.plausible.io |
 | stats.sexplore.app | custom.plausible.io |
 | stats.shareup.app | custom.plausible.io |
-| stats.sheer.tj | custom.plausible.io |
 | stats.shepherd.com | custom.plausible.io |
 | stats.shh.io | custom.plausible.io |
 | stats.shiftx.com | custom.plausible.io |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1712563219839        ; Serial
+           1713168007249        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ now.peek-cloppenburg.de CNAME .
 ot.obi.com CNAME .
 pix.eads.com CNAME .
 pix.telekom-dienste.de CNAME .
+pix.telekom.de CNAME .
 pixel.augsburger-allgemeine.de CNAME .
 prophet.heise.de CNAME .
 service.hcob-bank.de CNAME .

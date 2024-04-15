@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1712563219839        ; Serial
+           1713168007249        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,7 +16,6 @@ a.aawp.de CNAME .
 a.easyazon.com CNAME .
 a.iiro.dev CNAME .
 a.linkz.ai CNAME .
-a.remy.world CNAME .
 aloha.getoperand.com CNAME .
 also.greatsecuritydebate.net CNAME .
 an.xavierrosee.com CNAME .
@@ -805,7 +804,6 @@ stats.servicedesignjobs.com CNAME .
 stats.seva.rocks CNAME .
 stats.sexplore.app CNAME .
 stats.shareup.app CNAME .
-stats.sheer.tj CNAME .
 stats.shepherd.com CNAME .
 stats.shh.io CNAME .
 stats.shiftx.com CNAME .

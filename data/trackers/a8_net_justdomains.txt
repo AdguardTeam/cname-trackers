@@ -276,7 +276,6 @@ a8.shop.tsukijiwadatsumi.com
 a8.shopserve.jp
 a8.shukatsu-note.com
 a8.sibody.tw
-a8.simple-hoiku.com
 a8.skr-labo.jp
 a8.smart-onepage.com
 a8.smp.shanon.co.jp
@@ -869,6 +868,7 @@ a8cv.eeo.today
 a8cv.egmkt.co.jp
 a8cv.eikajapan.com
 a8cv.elife-shihou.com
+a8cv.emma-sleep-japan.com
 a8cv.encounter2017.jp
 a8cv.english-bootcamp.com
 a8cv.english-cc.com
@@ -1064,7 +1064,6 @@ a8cv.nikugatodoke.com
 a8cv.nippon-olive.co.jp
 a8cv.nipt-clinic.jp
 a8cv.nittei-group-alliance.com
-a8cv.norikae-cashback.com
 a8cv.o-juku.com
 a8cv.o-ken.com
 a8cv.oceanprincess.jp

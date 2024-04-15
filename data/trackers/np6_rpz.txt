@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1712563219839        ; Serial
+           1713168007249        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -315,6 +315,7 @@ tr.dogstrust.org.uk CNAME .
 tr.donateur.afm-telethon.fr CNAME .
 tr.dossier-assurance.maaf.fr CNAME .
 tr.drh-holding.lvmh.fr CNAME .
+tr.e-mail.axa.fr CNAME .
 tr.e-mail.axabanque.fr CNAME .
 tr.e-travaux.info CNAME .
 tr.e.entreprise-pm.fr CNAME .
@@ -542,6 +543,7 @@ tr.interviews-mediametrie.fr CNAME .
 tr.invest.younited-credit.com CNAME .
 tr.invitation-mesdessous.fr CNAME .
 tr.invitation.perfectstay.com CNAME .
+tr.ipsos-surveys.com CNAME .
 tr.ispaconsulting.com CNAME .
 tr.italia.plimsoll.it CNAME .
 tr.jend.espmp-pofr.net CNAME .
@@ -683,6 +685,7 @@ tr.news-companeo.pl CNAME .
 tr.news-dfc.sciences-po.fr CNAME .
 tr.news-fr.perfectstay.com CNAME .
 tr.news-ingerop.com CNAME .
+tr.news-longchamp.com CNAME .
 tr.news.a-t.fr CNAME .
 tr.news.a2micile.com CNAME .
 tr.news.accessmastertour.com CNAME .
@@ -810,7 +813,6 @@ tr.news.pl.bata-esp.com CNAME .
 tr.news.prosfora-mou.gr CNAME .
 tr.news.receiveyourquote.co.uk CNAME .
 tr.news.retailglobalsolutions.com CNAME .
-tr.news.roadzila.com CNAME .
 tr.news.seine-estuaire.cci.fr CNAME .
 tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
@@ -1045,6 +1047,7 @@ tr.tpe.harmonie-mutuelle.fr CNAME .
 tr.tr.bricodepot.com CNAME .
 tr.trafficnews.lyria.com CNAME .
 tr.ujsv.espmp-agfr.net CNAME .
+tr.uk.icicibank.com CNAME .
 tr.uk.katun.com CNAME .
 tr.unaoffertaalgiorno.com CNAME .
 tr.update.groupon.be CNAME .

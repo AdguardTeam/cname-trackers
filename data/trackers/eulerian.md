@@ -79,7 +79,6 @@
 | d2u.dauphinquebec.com | aca.ca-eulerian.net |
 | eat9.thebeat925.ca | aca.ca-eulerian.net |
 | erb.tremblant.ca | aca.ca-eulerian.net |
-| hk2d.tourismemauricie.com | aca.ca-eulerian.net |
 | nym5c.bonlook.com | aca.ca-eulerian.net |
 | ry0.rythmefm.com | aca.ca-eulerian.net |
 | su1.les-suites.ca | aca.ca-eulerian.net |

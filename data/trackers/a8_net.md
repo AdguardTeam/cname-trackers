@@ -289,7 +289,6 @@
 | a8.shopserve.jp | trck.a8.net |
 | a8.shukatsu-note.com | trck.a8.net |
 | a8.sibody.tw | trck.a8.net |
-| a8.simple-hoiku.com | trck.a8.net |
 | a8.skr-labo.jp | trck.a8.net |
 | a8.smart-onepage.com | trck.a8.net |
 | a8.smp.shanon.co.jp | trck.a8.net |
@@ -881,6 +880,7 @@
 | a8cv.egmkt.co.jp | trck.a8.net |
 | a8cv.eikajapan.com | trck.a8.net |
 | a8cv.elife-shihou.com | trck.a8.net |
+| a8cv.emma-sleep-japan.com | trck.a8.net |
 | a8cv.encounter2017.jp | trck.a8.net |
 | a8cv.english-bootcamp.com | trck.a8.net |
 | a8cv.english-cc.com | trck.a8.net |
@@ -1076,7 +1076,6 @@
 | a8cv.nippon-olive.co.jp | trck.a8.net |
 | a8cv.nipt-clinic.jp | trck.a8.net |
 | a8cv.nittei-group-alliance.com | trck.a8.net |
-| a8cv.norikae-cashback.com | trck.a8.net |
 | a8cv.o-juku.com | trck.a8.net |
 | a8cv.o-ken.com | trck.a8.net |
 | a8cv.oceanprincess.jp | trck.a8.net |

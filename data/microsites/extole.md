@@ -97,7 +97,6 @@
     * staples.extole.com
     * talbots.extole.com
     * tassimodirect.extole.com
-    * teacollection.extole.com
     * tenmarks.extole.com
     * tennessean.extole.com
     * theleafchronicle.extole.com
@@ -1131,6 +1130,7 @@
 | share.shoplc.com | shoplc.extole.io |
 | refer.shuuemuraartofhair-usa.com | shu-uemura-art-of-hair.extole.io |
 | share.shutterstock.com | shutterstock.extole.io |
+| share.getshyft.co.za | shyft.extole.io |
 | share.shyft.co.za | shyft.extole.io |
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
@@ -1175,7 +1175,6 @@
 | refer.taxact.com | taxact.extole.io |
 | share.teachersfcu.org | teachersfcu.extole.io |
 | share.teachingchannel.com | teachingchannel.extole.io |
-| sharethelove.teacollection.com | teacollection.extole.com |
 | refer.teladoc.com | teladoc.extole.io |
 | refer.teladochealth.com | teladoc.extole.io |
 | share.tenmarks.com | tenmarks.extole.com |
