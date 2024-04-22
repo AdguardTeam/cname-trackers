@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713168007249        ; Serial
+           1713772807554        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -757,7 +757,6 @@ secure.jumia.ma CNAME .
 secure.jumia.sn CNAME .
 secure.jumia.ug CNAME .
 secure.meine.santander.de CNAME .
-secure.rtrcdn.com CNAME .
 secure.zando.co.za CNAME .
 secure3.segpay.com CNAME .
 securecheckout.halloweencostumes.com CNAME .

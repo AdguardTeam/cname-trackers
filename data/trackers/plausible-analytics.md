@@ -18,7 +18,6 @@
 | a.easyazon.com | custom.plausible.io |
 | a.iiro.dev | custom.plausible.io |
 | a.linkz.ai | custom.plausible.io |
-| aloha.getoperand.com | custom.plausible.io |
 | also.greatsecuritydebate.net | custom.plausible.io |
 | an.xavierrosee.com | custom.plausible.io |
 | analytics.adam.page | custom.plausible.io |
@@ -76,7 +75,6 @@
 | apis.4bn.xyz | custom.plausible.io |
 | app-stats.supernotes.app | custom.plausible.io |
 | artistchristinacarmel.ericksonbuilt.com | custom.plausible.io |
-| assets.garron.blog | custom.plausible.io |
 | assets.garron.me | custom.plausible.io |
 | assets.mikeroulston.com | custom.plausible.io |
 | assets.modeathletics.com | custom.plausible.io |
@@ -132,7 +130,6 @@
 | marsupial.roleup.com | custom.plausible.io |
 | meter.bref.sh | custom.plausible.io |
 | metric.methoddev.com | custom.plausible.io |
-| metrics.axiomatic-inc.com | custom.plausible.io |
 | metrics.creit.tech | custom.plausible.io |
 | metrics.earrieta.dev | custom.plausible.io |
 | metrics.recunia.de | custom.plausible.io |
@@ -276,7 +273,6 @@
 | plausible.tasteslikeme.ca | custom.plausible.io |
 | plausible.tlschedule.com | custom.plausible.io |
 | plausible.treelightsoftware.com | custom.plausible.io |
-| plausible.umbrellaanalytics.net | custom.plausible.io |
 | plausible.urbanekuensteruhr.de | custom.plausible.io |
 | plausible.veszelovszki.com | custom.plausible.io |
 | plausible.visitu.com | custom.plausible.io |
@@ -309,7 +305,6 @@
 | s.crackedthecode.co | custom.plausible.io |
 | s.cuoresportivo.no | custom.plausible.io |
 | s.cybercompass.io | custom.plausible.io |
-| s.drawingthemin.com | custom.plausible.io |
 | s.ergotherapieblog.de | custom.plausible.io |
 | s.fission.codes | custom.plausible.io |
 | s.fraservotes.com | custom.plausible.io |
@@ -466,7 +461,6 @@
 | stats.declanbyrd.co.uk | custom.plausible.io |
 | stats.deja-lu.de | custom.plausible.io |
 | stats.depends-on-the-definition.com | custom.plausible.io |
-| stats.deva.guru | custom.plausible.io |
 | stats.develop.wwdcscholars.com | custom.plausible.io |
 | stats.devenet.eu | custom.plausible.io |
 | stats.devenet.info | custom.plausible.io |

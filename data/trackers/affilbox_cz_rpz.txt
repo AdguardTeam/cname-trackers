@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713168007249        ; Serial
+           1713772807554        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -112,7 +112,6 @@ affiliate.appleking.cz CNAME .
 affiliate.applemix.cz CNAME .
 affiliate.atomer.cz CNAME .
 affiliate.batteryshop.cz CNAME .
-affiliate.bestdrink.cz CNAME .
 affiliate.bikeplan.org CNAME .
 affiliate.biooo.cz CNAME .
 affiliate.cannyapp.cz CNAME .
@@ -440,7 +439,6 @@ partner.bazaroveregaly.cz CNAME .
 partner.beautylash.cz CNAME .
 partner.bebidas.cz CNAME .
 partner.bed4dogs.com CNAME .
-partner.bilynabytek.cz CNAME .
 partner.bio-nechty.sk CNAME .
 partner.bio-nehty.cz CNAME .
 partner.bioaromakosmetika.cz CNAME .
@@ -534,6 +532,7 @@ partner.greenbeast.vip CNAME .
 partner.gurufinance.cz CNAME .
 partner.hanamoneam.com CNAME .
 partner.hegesztok-bolt.hu CNAME .
+partner.hizeromop.com CNAME .
 partner.hodinarstvi.cz CNAME .
 partner.hoska-tour.cz CNAME .
 partner.hothousecucumber.com CNAME .
@@ -642,7 +641,6 @@ partner.root.cz CNAME .
 partner.royalfashion.cz CNAME .
 partner.rozhladna.sk CNAME .
 partner.roztouzeny.cz CNAME .
-partner.runningpro.cz CNAME .
 partner.ruzovyslon.cz CNAME .
 partner.salibandy.shop CNAME .
 partner.santao.cz CNAME .
@@ -674,6 +672,8 @@ partner.tajemstvi-uspechu.cz CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.top-obaly.cz CNAME .
 partner.totalniplavani.cz CNAME .
+partner.tozax.cz CNAME .
+partner.tozax.sk CNAME .
 partner.tyano.cz CNAME .
 partner.umio.eu CNAME .
 partner.umio.sk CNAME .
@@ -830,6 +830,7 @@ partneri.viadelicia.cz CNAME .
 partneri.vitaon.cz CNAME .
 partneri.volejbal.sk CNAME .
 partneri.volny-termin.cz CNAME .
+partneri.vrkuuu.cz CNAME .
 partneri.vseprobeh.cz CNAME .
 partneri.vyzvaproimunitu.cz CNAME .
 partneri.way4life.cz CNAME .
@@ -848,7 +849,6 @@ partners.lawofattraction.cz CNAME .
 partners.oktagon.tv CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .
-partners.quantexpo.com CNAME .
 partners.rebelsfunding.com CNAME .
 partners.spiritradar.com CNAME .
 plus.mameradivlasy.cz CNAME .
@@ -879,7 +879,6 @@ spoluprace.amalcino.cz CNAME .
 spoluprace.aretacni-pripravky.cz CNAME .
 spoluprace.bafoo.cz CNAME .
 spoluprace.blackkale.cz CNAME .
-spoluprace.denikletusky.cz CNAME .
 spoluprace.eroticstore.cz CNAME .
 spoluprace.galaxy.cz CNAME .
 spoluprace.h2world.store CNAME .
@@ -892,6 +891,7 @@ spoluprace.mentorkalucie.cz CNAME .
 spoluprace.nordictelecom.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .
 spoluprace.potravinyarax.cz CNAME .
+spoluprace.prostor8.cz CNAME .
 spoluprace.sikland.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .

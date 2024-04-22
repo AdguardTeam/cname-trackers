@@ -187,7 +187,6 @@ ebis.biyo-job.com
 ebis.bulk.co.jp
 ebis.care-tensyoku.com
 ebis.ce-parfait.com
-ebis.codecamp.jp
 ebis.coyori.com
 ebis.cp.claudia.co.jp
 ebis.delis.co.jp

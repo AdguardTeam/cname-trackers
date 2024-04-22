@@ -355,7 +355,6 @@
 | tr.email.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.email.infocredit.orangebank.fr | tracking.bp01.net |
 | tr.email.janedeboy.com | tracking.bp01.net |
-| tr.email.land-rover-experience.fr | tracking.bp01.net |
 | tr.email.maisonfoody.com | tracking.bp01.net |
 | tr.email.medicalexpo.com | tracking.bp01.net |
 | tr.email.mnpaf.fr | tracking.bp01.net |

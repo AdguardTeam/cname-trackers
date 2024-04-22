@@ -101,7 +101,6 @@
 ||affiliate.applemix.cz^
 ||affiliate.atomer.cz^
 ||affiliate.batteryshop.cz^
-||affiliate.bestdrink.cz^
 ||affiliate.bikeplan.org^
 ||affiliate.biooo.cz^
 ||affiliate.cannyapp.cz^
@@ -429,7 +428,6 @@
 ||partner.beautylash.cz^
 ||partner.bebidas.cz^
 ||partner.bed4dogs.com^
-||partner.bilynabytek.cz^
 ||partner.bio-nechty.sk^
 ||partner.bio-nehty.cz^
 ||partner.bioaromakosmetika.cz^
@@ -523,6 +521,7 @@
 ||partner.gurufinance.cz^
 ||partner.hanamoneam.com^
 ||partner.hegesztok-bolt.hu^
+||partner.hizeromop.com^
 ||partner.hodinarstvi.cz^
 ||partner.hoska-tour.cz^
 ||partner.hothousecucumber.com^
@@ -631,7 +630,6 @@
 ||partner.royalfashion.cz^
 ||partner.rozhladna.sk^
 ||partner.roztouzeny.cz^
-||partner.runningpro.cz^
 ||partner.ruzovyslon.cz^
 ||partner.salibandy.shop^
 ||partner.santao.cz^
@@ -663,6 +661,8 @@
 ||partner.thechillidoctor.cz^
 ||partner.top-obaly.cz^
 ||partner.totalniplavani.cz^
+||partner.tozax.cz^
+||partner.tozax.sk^
 ||partner.tyano.cz^
 ||partner.umio.eu^
 ||partner.umio.sk^
@@ -819,6 +819,7 @@
 ||partneri.vitaon.cz^
 ||partneri.volejbal.sk^
 ||partneri.volny-termin.cz^
+||partneri.vrkuuu.cz^
 ||partneri.vseprobeh.cz^
 ||partneri.vyzvaproimunitu.cz^
 ||partneri.way4life.cz^
@@ -837,7 +838,6 @@
 ||partners.oktagon.tv^
 ||partners.pocitarna.cz^
 ||partners.puravidashop.cz^
-||partners.quantexpo.com^
 ||partners.rebelsfunding.com^
 ||partners.spiritradar.com^
 ||plus.mameradivlasy.cz^
@@ -868,7 +868,6 @@
 ||spoluprace.aretacni-pripravky.cz^
 ||spoluprace.bafoo.cz^
 ||spoluprace.blackkale.cz^
-||spoluprace.denikletusky.cz^
 ||spoluprace.eroticstore.cz^
 ||spoluprace.galaxy.cz^
 ||spoluprace.h2world.store^
@@ -881,6 +880,7 @@
 ||spoluprace.nordictelecom.cz^
 ||spoluprace.obchod-setrilek.cz^
 ||spoluprace.potravinyarax.cz^
+||spoluprace.prostor8.cz^
 ||spoluprace.sikland.cz^
 ||spoluprace.terrapotheka.cz^
 ||spoluprace.vcelarstvi-domovina.cz^

@@ -5,7 +5,6 @@ a.aawp.de
 a.easyazon.com
 a.iiro.dev
 a.linkz.ai
-aloha.getoperand.com
 also.greatsecuritydebate.net
 an.xavierrosee.com
 analytics.adam.page
@@ -63,7 +62,6 @@ api.ryanyao.design
 apis.4bn.xyz
 app-stats.supernotes.app
 artistchristinacarmel.ericksonbuilt.com
-assets.garron.blog
 assets.garron.me
 assets.mikeroulston.com
 assets.modeathletics.com
@@ -119,7 +117,6 @@ lytics.findairpods.com
 marsupial.roleup.com
 meter.bref.sh
 metric.methoddev.com
-metrics.axiomatic-inc.com
 metrics.creit.tech
 metrics.earrieta.dev
 metrics.recunia.de
@@ -263,7 +260,6 @@ plausible.tac.dappstar.io
 plausible.tasteslikeme.ca
 plausible.tlschedule.com
 plausible.treelightsoftware.com
-plausible.umbrellaanalytics.net
 plausible.urbanekuensteruhr.de
 plausible.veszelovszki.com
 plausible.visitu.com
@@ -296,7 +292,6 @@ s.cameratico.com
 s.crackedthecode.co
 s.cuoresportivo.no
 s.cybercompass.io
-s.drawingthemin.com
 s.ergotherapieblog.de
 s.fission.codes
 s.fraservotes.com
@@ -453,7 +448,6 @@ stats.dawn.md
 stats.declanbyrd.co.uk
 stats.deja-lu.de
 stats.depends-on-the-definition.com
-stats.deva.guru
 stats.develop.wwdcscholars.com
 stats.devenet.eu
 stats.devenet.info

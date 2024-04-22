@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713168007249        ; Serial
+           1713772807554        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -93,6 +93,7 @@ idgbusiness.met.vgwort.de CNAME .
 idgentertain.met.vgwort.de CNAME .
 idgmagazine.met.vgwort.de CNAME .
 juris.met.vgwort.de CNAME .
+kohlhammer.met.vgwort.de CNAME .
 mopo.met.vgwort.de CNAME .
 n-tv.met.vgwort.de CNAME .
 rtl.met.vgwort.de CNAME .

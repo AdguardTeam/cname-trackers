@@ -250,7 +250,6 @@
 | a8.parcys.com | trck.a8.net |
 | a8.pcnext.shop | trck.a8.net |
 | a8.pcwrap.com | trck.a8.net |
-| a8.pearlizumi.co.jp | trck.a8.net |
 | a8.petfood.mtflat.co.jp | trck.a8.net |
 | a8.pla-cole.wedding | trck.a8.net |
 | a8.pocket-m.jp | trck.a8.net |
@@ -1377,7 +1376,6 @@
 | afcv.champ-shop.com | trck.a8.net |
 | afep.pivn.shop | trck.a8.net |
 | affa8.hikkoshi-master.com | trck.a8.net |
-| affi.best-hoiku.com | trck.a8.net |
 | afficv.lettuce.co.jp | trck.a8.net |
 | affiliate.couleur-labo.com | trck.a8.net |
 | affiliate.dietician-family.jp | trck.a8.net |

@@ -746,7 +746,6 @@ secure.jumia.ma
 secure.jumia.sn
 secure.jumia.ug
 secure.meine.santander.de
-secure.rtrcdn.com
 secure.zando.co.za
 secure3.segpay.com
 securecheckout.halloweencostumes.com

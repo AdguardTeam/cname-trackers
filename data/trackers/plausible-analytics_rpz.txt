@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713168007249        ; Serial
+           1713772807554        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,7 +16,6 @@ a.aawp.de CNAME .
 a.easyazon.com CNAME .
 a.iiro.dev CNAME .
 a.linkz.ai CNAME .
-aloha.getoperand.com CNAME .
 also.greatsecuritydebate.net CNAME .
 an.xavierrosee.com CNAME .
 analytics.adam.page CNAME .
@@ -74,7 +73,6 @@ api.ryanyao.design CNAME .
 apis.4bn.xyz CNAME .
 app-stats.supernotes.app CNAME .
 artistchristinacarmel.ericksonbuilt.com CNAME .
-assets.garron.blog CNAME .
 assets.garron.me CNAME .
 assets.mikeroulston.com CNAME .
 assets.modeathletics.com CNAME .
@@ -130,7 +128,6 @@ lytics.findairpods.com CNAME .
 marsupial.roleup.com CNAME .
 meter.bref.sh CNAME .
 metric.methoddev.com CNAME .
-metrics.axiomatic-inc.com CNAME .
 metrics.creit.tech CNAME .
 metrics.earrieta.dev CNAME .
 metrics.recunia.de CNAME .
@@ -274,7 +271,6 @@ plausible.tac.dappstar.io CNAME .
 plausible.tasteslikeme.ca CNAME .
 plausible.tlschedule.com CNAME .
 plausible.treelightsoftware.com CNAME .
-plausible.umbrellaanalytics.net CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.veszelovszki.com CNAME .
 plausible.visitu.com CNAME .
@@ -307,7 +303,6 @@ s.cameratico.com CNAME .
 s.crackedthecode.co CNAME .
 s.cuoresportivo.no CNAME .
 s.cybercompass.io CNAME .
-s.drawingthemin.com CNAME .
 s.ergotherapieblog.de CNAME .
 s.fission.codes CNAME .
 s.fraservotes.com CNAME .
@@ -464,7 +459,6 @@ stats.dawn.md CNAME .
 stats.declanbyrd.co.uk CNAME .
 stats.deja-lu.de CNAME .
 stats.depends-on-the-definition.com CNAME .
-stats.deva.guru CNAME .
 stats.develop.wwdcscholars.com CNAME .
 stats.devenet.eu CNAME .
 stats.devenet.info CNAME .

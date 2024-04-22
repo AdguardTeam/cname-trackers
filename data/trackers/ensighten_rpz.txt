@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713168007249        ; Serial
+           1713772807554        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -353,7 +353,6 @@ tags.aumago.com CNAME .
 tags.experian.co.uk CNAME .
 tags.hickies.com CNAME .
 tags.hickies.eu CNAME .
-tags.kone.com CNAME .
 tags.wyndhamhotels.com CNAME .
 tam.volkswagen.com CNAME .
 tdi.cartoonnetwork.com CNAME .
@@ -371,6 +370,7 @@ tms.betwaysatta1.com CNAME .
 tms.capitalone.com CNAME .
 tms.delta.com CNAME .
 tms.experian.com CNAME .
+tms.jbwere.com.au CNAME .
 tms.kone.com CNAME .
 tms.marriott.com CNAME .
 tms.nab.com.au CNAME .

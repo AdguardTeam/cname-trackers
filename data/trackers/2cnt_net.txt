@@ -82,6 +82,7 @@
 ||idgentertain.met.vgwort.de^
 ||idgmagazine.met.vgwort.de^
 ||juris.met.vgwort.de^
+||kohlhammer.met.vgwort.de^
 ||mopo.met.vgwort.de^
 ||n-tv.met.vgwort.de^
 ||rtl.met.vgwort.de^

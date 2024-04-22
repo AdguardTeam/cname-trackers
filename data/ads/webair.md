@@ -195,7 +195,6 @@
     * adxnexus.fs.ak-is2.net
     * adxnexus.ui.ak-is2.net
     * adxnexus.xml.ak-is2.net
-    * adzealous.rtb-useast.ak-is2.net
     * adzesto.fs-eu.ak-is2.net
     * adzesto.fs.ak-is2.net
     * adzesto.xml-eu.ak-is2.net
@@ -1306,8 +1305,6 @@
 | filter.popunder.bid | adright.xml.ak-is2.net |
 | xml.adright.co | adright.xml.ak-is2.net |
 | xml.adright.com | adright.xml.ak-is2.net |
-| xml.fastdlx.info | adright.xml.ak-is2.net |
-| xml.fastdlx.net | adright.xml.ak-is2.net |
 | xml.fstsrv1.com | adright.xml.ak-is2.net |
 | xml.fstsrv2.com | adright.xml.ak-is2.net |
 | xml.fstsrv3.com | adright.xml.ak-is2.net |
@@ -1459,7 +1456,6 @@
 | filter.adxnexus.com | adxnexus.fs.ak-is2.net |
 | login.adxnexus.com | adxnexus.ui.ak-is2.net |
 | xml.adxnexus.com | adxnexus.xml.ak-is2.net |
-| rtb-useast.adzealous.com | adzealous.rtb-useast.ak-is2.net |
 | filter-eu.adzestocp.com | adzesto.fs-eu.ak-is2.net |
 | filter.adzestocp.com | adzesto.fs.ak-is2.net |
 | xml-eu.adzestocp.com | adzesto.xml-eu.ak-is2.net |

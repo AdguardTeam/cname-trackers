@@ -342,7 +342,6 @@
 ||tags.experian.co.uk^
 ||tags.hickies.com^
 ||tags.hickies.eu^
-||tags.kone.com^
 ||tags.wyndhamhotels.com^
 ||tam.volkswagen.com^
 ||tdi.cartoonnetwork.com^
@@ -360,6 +359,7 @@
 ||tms.capitalone.com^
 ||tms.delta.com^
 ||tms.experian.com^
+||tms.jbwere.com.au^
 ||tms.kone.com^
 ||tms.marriott.com^
 ||tms.nab.com.au^

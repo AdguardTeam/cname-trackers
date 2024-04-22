@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713168007249        ; Serial
+           1713772807554        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -248,7 +248,6 @@ a8.papapa.baby CNAME .
 a8.parcys.com CNAME .
 a8.pcnext.shop CNAME .
 a8.pcwrap.com CNAME .
-a8.pearlizumi.co.jp CNAME .
 a8.petfood.mtflat.co.jp CNAME .
 a8.pla-cole.wedding CNAME .
 a8.pocket-m.jp CNAME .
@@ -1376,7 +1375,6 @@ af.shozankan-shop.com CNAME .
 afcv.champ-shop.com CNAME .
 afep.pivn.shop CNAME .
 affa8.hikkoshi-master.com CNAME .
-affi.best-hoiku.com CNAME .
 afficv.lettuce.co.jp CNAME .
 affiliate.couleur-labo.com CNAME .
 affiliate.dietician-family.jp CNAME .

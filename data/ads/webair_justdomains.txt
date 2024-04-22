@@ -623,7 +623,6 @@ rtb-useast.adportmedia.com
 rtb-useast.adsolut.in
 rtb-useast.advlistings.com
 rtb-useast.adxfactory.com
-rtb-useast.adzealous.com
 rtb-useast.adzgame.com
 rtb-useast.andbeyond.media
 rtb-useast.anyclip-media.com
@@ -1200,8 +1199,6 @@ xml.explorads.com
 xml.explorefast-1.com
 xml.expplatdirect.com
 xml.ezmob.com
-xml.fastdlx.info
-xml.fastdlx.net
 xml.finevisit.com
 xml.flairads.com
 xml.flairadscpc.com

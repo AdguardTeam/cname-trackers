@@ -53,7 +53,6 @@
     * 27bc2a62-d23tnyeg.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
     * 2ab268f1-uxwrqv9t.cname.ebis.ne.jp
-    * 2c9c5766-qkdlymcx.cname.ebis.ne.jp
     * 2cc59598-pr6qwglj.cname.ebis.ne.jp
     * 2cf4b0df-n5mdheza.cname.ebis.ne.jp
     * 2effafae-p5xsryk6.cname.ebis.ne.jp
@@ -355,7 +354,6 @@
 | corporate.frontierconsul.net | 27bc2a62-d23tnyeg.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
 | ebis.studioindi.jp | 2ab268f1-uxwrqv9t.cname.ebis.ne.jp |
-| ebis.codecamp.jp | 2c9c5766-qkdlymcx.cname.ebis.ne.jp |
 | ebis.lululun.com | 2cc59598-pr6qwglj.cname.ebis.ne.jp |
 | adebis.zenyaku-hbshop.com | 2cf4b0df-n5mdheza.cname.ebis.ne.jp |
 | isebis.takamiclinic.or.jp | 2effafae-p5xsryk6.cname.ebis.ne.jp |

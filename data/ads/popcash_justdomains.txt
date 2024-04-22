@@ -36,6 +36,7 @@ cdn.eeco.xyz
 cdn.elicaowl.com
 cdn.fajukc.com
 cdn.falkwo.com
+cdn.faspox.com
 cdn.fazanppq.com
 cdn.fedsy.xyz
 cdn.fedykr.com
@@ -375,7 +376,6 @@ crayfish.thingelstad.com
 crocodile.rapid-sale.co.uk
 crow.claudiakeil.de
 crow.gim.technology
-crow.manuel-metzger.com
 crow.themarbleking.com
 crow.voracious.dev
 cuckoo.clientrock.app
@@ -779,7 +779,6 @@ panther.thestocks.im
 panther.tigil.rs
 parakeet.quotetweet.com
 parrot.lovably.com
-parrot.ohdear.app
 parrotfish.thenping.me
 parrotfish.wilderworld.com
 parrotfish.wus.immo
@@ -1065,6 +1064,7 @@ yak.flutterblog.net
 yak.gregsullivan.com
 yak.withlindy.com
 ads.djc.com
+allnews.chestertelegraph.org
 assets-v2.boisedev.com
 assets-v2.invaluable.com
 assets-v2.northsidesun.com

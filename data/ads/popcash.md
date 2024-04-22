@@ -33,6 +33,7 @@
 | contact-gloss-production.accelerator.net | b-cdn.net |
 | assets.diagomics.com | bannieres.b-cdn.net |
 | ads.djc.com | bs-adserver.b-cdn.net |
+| allnews.chestertelegraph.org | bs-adserver.b-cdn.net |
 | assets-v2.boisedev.com | bs-adserver.b-cdn.net |
 | assets-v2.invaluable.com | bs-adserver.b-cdn.net |
 | assets-v2.northsidesun.com | bs-adserver.b-cdn.net |
@@ -311,7 +312,6 @@
 | crocodile.rapid-sale.co.uk | deprecated-custom-domains.b-cdn.net |
 | crow.claudiakeil.de | deprecated-custom-domains.b-cdn.net |
 | crow.gim.technology | deprecated-custom-domains.b-cdn.net |
-| crow.manuel-metzger.com | deprecated-custom-domains.b-cdn.net |
 | crow.themarbleking.com | deprecated-custom-domains.b-cdn.net |
 | crow.voracious.dev | deprecated-custom-domains.b-cdn.net |
 | cuckoo.clientrock.app | deprecated-custom-domains.b-cdn.net |
@@ -715,7 +715,6 @@
 | panther.tigil.rs | deprecated-custom-domains.b-cdn.net |
 | parakeet.quotetweet.com | deprecated-custom-domains.b-cdn.net |
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
-| parrot.ohdear.app | deprecated-custom-domains.b-cdn.net |
 | parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wilderworld.com | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wus.immo | deprecated-custom-domains.b-cdn.net |
@@ -1037,6 +1036,7 @@
 | cdn.elicaowl.com | popcashjs.b-cdn.net |
 | cdn.fajukc.com | popcashjs.b-cdn.net |
 | cdn.falkwo.com | popcashjs.b-cdn.net |
+| cdn.faspox.com | popcashjs.b-cdn.net |
 | cdn.fazanppq.com | popcashjs.b-cdn.net |
 | cdn.fedsy.xyz | popcashjs.b-cdn.net |
 | cdn.fedykr.com | popcashjs.b-cdn.net |

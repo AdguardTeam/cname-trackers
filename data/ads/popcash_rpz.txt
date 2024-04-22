@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713168007249        ; Serial
+           1713772807554        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -47,6 +47,7 @@ cdn.eeco.xyz CNAME .
 cdn.elicaowl.com CNAME .
 cdn.fajukc.com CNAME .
 cdn.falkwo.com CNAME .
+cdn.faspox.com CNAME .
 cdn.fazanppq.com CNAME .
 cdn.fedsy.xyz CNAME .
 cdn.fedykr.com CNAME .
@@ -386,7 +387,6 @@ crayfish.thingelstad.com CNAME .
 crocodile.rapid-sale.co.uk CNAME .
 crow.claudiakeil.de CNAME .
 crow.gim.technology CNAME .
-crow.manuel-metzger.com CNAME .
 crow.themarbleking.com CNAME .
 crow.voracious.dev CNAME .
 cuckoo.clientrock.app CNAME .
@@ -790,7 +790,6 @@ panther.thestocks.im CNAME .
 panther.tigil.rs CNAME .
 parakeet.quotetweet.com CNAME .
 parrot.lovably.com CNAME .
-parrot.ohdear.app CNAME .
 parrotfish.thenping.me CNAME .
 parrotfish.wilderworld.com CNAME .
 parrotfish.wus.immo CNAME .
@@ -1076,6 +1075,7 @@ yak.flutterblog.net CNAME .
 yak.gregsullivan.com CNAME .
 yak.withlindy.com CNAME .
 ads.djc.com CNAME .
+allnews.chestertelegraph.org CNAME .
 assets-v2.boisedev.com CNAME .
 assets-v2.invaluable.com CNAME .
 assets-v2.northsidesun.com CNAME .

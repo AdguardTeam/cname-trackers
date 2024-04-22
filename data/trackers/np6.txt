@@ -334,7 +334,6 @@
 ||tr.email.harmonie-mutuelle.fr^
 ||tr.email.infocredit.orangebank.fr^
 ||tr.email.janedeboy.com^
-||tr.email.land-rover-experience.fr^
 ||tr.email.maisonfoody.com^
 ||tr.email.medicalexpo.com^
 ||tr.email.mnpaf.fr^

@@ -120,7 +120,6 @@
 | affiliate.applemix.cz | cz.affilbox.cz |
 | affiliate.atomer.cz | cz.affilbox.cz |
 | affiliate.batteryshop.cz | cz.affilbox.cz |
-| affiliate.bestdrink.cz | cz.affilbox.cz |
 | affiliate.bikeplan.org | cz.affilbox.cz |
 | affiliate.biooo.cz | cz.affilbox.cz |
 | affiliate.cannyapp.cz | cz.affilbox.cz |
@@ -448,7 +447,6 @@
 | partner.beautylash.cz | cz.affilbox.cz |
 | partner.bebidas.cz | cz.affilbox.cz |
 | partner.bed4dogs.com | cz.affilbox.cz |
-| partner.bilynabytek.cz | cz.affilbox.cz |
 | partner.bio-nechty.sk | cz.affilbox.cz |
 | partner.bio-nehty.cz | cz.affilbox.cz |
 | partner.bioaromakosmetika.cz | cz.affilbox.cz |
@@ -542,6 +540,7 @@
 | partner.gurufinance.cz | cz.affilbox.cz |
 | partner.hanamoneam.com | cz.affilbox.cz |
 | partner.hegesztok-bolt.hu | cz.affilbox.cz |
+| partner.hizeromop.com | cz.affilbox.cz |
 | partner.hodinarstvi.cz | cz.affilbox.cz |
 | partner.hoska-tour.cz | cz.affilbox.cz |
 | partner.hothousecucumber.com | cz.affilbox.cz |
@@ -650,7 +649,6 @@
 | partner.royalfashion.cz | cz.affilbox.cz |
 | partner.rozhladna.sk | cz.affilbox.cz |
 | partner.roztouzeny.cz | cz.affilbox.cz |
-| partner.runningpro.cz | cz.affilbox.cz |
 | partner.ruzovyslon.cz | cz.affilbox.cz |
 | partner.salibandy.shop | cz.affilbox.cz |
 | partner.santao.cz | cz.affilbox.cz |
@@ -682,6 +680,8 @@
 | partner.thechillidoctor.cz | cz.affilbox.cz |
 | partner.top-obaly.cz | cz.affilbox.cz |
 | partner.totalniplavani.cz | cz.affilbox.cz |
+| partner.tozax.cz | cz.affilbox.cz |
+| partner.tozax.sk | cz.affilbox.cz |
 | partner.tyano.cz | cz.affilbox.cz |
 | partner.umio.eu | cz.affilbox.cz |
 | partner.umio.sk | cz.affilbox.cz |
@@ -838,6 +838,7 @@
 | partneri.vitaon.cz | cz.affilbox.cz |
 | partneri.volejbal.sk | cz.affilbox.cz |
 | partneri.volny-termin.cz | cz.affilbox.cz |
+| partneri.vrkuuu.cz | cz.affilbox.cz |
 | partneri.vseprobeh.cz | cz.affilbox.cz |
 | partneri.vyzvaproimunitu.cz | cz.affilbox.cz |
 | partneri.way4life.cz | cz.affilbox.cz |
@@ -856,7 +857,6 @@
 | partners.oktagon.tv | cz.affilbox.cz |
 | partners.pocitarna.cz | cz.affilbox.cz |
 | partners.puravidashop.cz | cz.affilbox.cz |
-| partners.quantexpo.com | cz.affilbox.cz |
 | partners.rebelsfunding.com | cz.affilbox.cz |
 | partners.spiritradar.com | cz.affilbox.cz |
 | plus.mameradivlasy.cz | cz.affilbox.cz |
@@ -887,7 +887,6 @@
 | spoluprace.aretacni-pripravky.cz | cz.affilbox.cz |
 | spoluprace.bafoo.cz | cz.affilbox.cz |
 | spoluprace.blackkale.cz | cz.affilbox.cz |
-| spoluprace.denikletusky.cz | cz.affilbox.cz |
 | spoluprace.eroticstore.cz | cz.affilbox.cz |
 | spoluprace.galaxy.cz | cz.affilbox.cz |
 | spoluprace.h2world.store | cz.affilbox.cz |
@@ -900,6 +899,7 @@
 | spoluprace.nordictelecom.cz | cz.affilbox.cz |
 | spoluprace.obchod-setrilek.cz | cz.affilbox.cz |
 | spoluprace.potravinyarax.cz | cz.affilbox.cz |
+| spoluprace.prostor8.cz | cz.affilbox.cz |
 | spoluprace.sikland.cz | cz.affilbox.cz |
 | spoluprace.terrapotheka.cz | cz.affilbox.cz |
 | spoluprace.vcelarstvi-domovina.cz | cz.affilbox.cz |

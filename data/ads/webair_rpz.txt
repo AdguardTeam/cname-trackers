@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713168007249        ; Serial
+           1713772807554        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -634,7 +634,6 @@ rtb-useast.adportmedia.com CNAME .
 rtb-useast.adsolut.in CNAME .
 rtb-useast.advlistings.com CNAME .
 rtb-useast.adxfactory.com CNAME .
-rtb-useast.adzealous.com CNAME .
 rtb-useast.adzgame.com CNAME .
 rtb-useast.andbeyond.media CNAME .
 rtb-useast.anyclip-media.com CNAME .
@@ -1211,8 +1210,6 @@ xml.explorads.com CNAME .
 xml.explorefast-1.com CNAME .
 xml.expplatdirect.com CNAME .
 xml.ezmob.com CNAME .
-xml.fastdlx.info CNAME .
-xml.fastdlx.net CNAME .
 xml.finevisit.com CNAME .
 xml.flairads.com CNAME .
 xml.flairadscpc.com CNAME .

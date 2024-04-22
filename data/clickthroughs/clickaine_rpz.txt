@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713168007249        ; Serial
+           1713772807554        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -52,7 +52,6 @@ cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
 cc.sexgeschichten-kostenlos.com CNAME .
 cc.sexgeschichten-xxx.com CNAME .
-cc.sexstories-hot.com CNAME .
 cc.sexstories-xxx.com CNAME .
 cc.sexverhalen-gratis.com CNAME .
 cc2.camcaps.io CNAME .
@@ -112,6 +111,7 @@ reg.ancensored.com CNAME .
 s1.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
 snow.snowdayonline.xyz CNAME .
+taco.sexreels.net CNAME .
 v040419.badjojo.com CNAME .
 wafe.camcaps.sx CNAME .
 wp.brandnewapp.pro CNAME .

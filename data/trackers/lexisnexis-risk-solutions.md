@@ -586,7 +586,6 @@
     * h-regionsbank.online-metrix.net
     * h-regionsbank2.online-metrix.net
     * h-rentpath.online-metrix.net
-    * h-renttherunway.online-metrix.net
     * h-retail-sc.online-metrix.net
     * h-retailservicescommercial.citi.online-metrix.net
     * h-rogersbank.online-metrix.net
@@ -1544,7 +1543,6 @@
 | tm.regionstest.com | h-regionsbank.online-metrix.net |
 | tm.regions.com | h-regionsbank2.online-metrix.net |
 | csource.rentals.com | h-rentpath.online-metrix.net |
-| secure.rtrcdn.com | h-renttherunway.online-metrix.net |
 | svc2.sc.com | h-retail-sc.online-metrix.net |
 | content22.retailservicescommercial.citi.com | h-retailservicescommercial.citi.online-metrix.net |
 | creditapp.rogersbank.com | h-rogersbank.online-metrix.net |
