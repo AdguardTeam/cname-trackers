@@ -27,6 +27,7 @@
 ||cdn.clbaf.com^
 ||cdn.crsope.com^
 ||cdn.cryjun.com^
+||cdn.dajkq.com^
 ||cdn.dawplm.com^
 ||cdn.decpo.xyz^
 ||cdn.delutza.com^
@@ -99,6 +100,7 @@
 ||cdn.puysis.com^
 ||cdn.qgerr.com^
 ||cdn.quagfa.com^
+||cdn.rapolok.com^
 ||cdn.rausfml.com^
 ||cdn.rawqel.com^
 ||cdn.rgrd.xyz^
@@ -279,7 +281,6 @@
 ||cardinal.businessfirstonline.co.uk^
 ||cardinal.ensembleblock.com^
 ||cardinal.genx.be^
-||cardinal.iwgb.org.uk^
 ||cardinal.newman.is^
 ||cardinal.zenting.app^
 ||caribou.clintgwinter.com^
@@ -544,7 +545,6 @@
 ||heron.morphiq.digital^
 ||heron.notability.com^
 ||heron.oneaudiobooks.app^
-||heron.scarletnoir.co^
 ||herring.artemis.cloud^
 ||herring.panda.network^
 ||herring.superfast.dev^
@@ -732,7 +732,6 @@
 ||mouse.botreach.co^
 ||mule.caddyserver.com^
 ||mule.pricelessai.com^
-||mule.reel.so^
 ||muskox.appital.io^
 ||narwhal.bounty.studio^
 ||newt.javier.dev^
@@ -981,6 +980,7 @@
 ||tick.pcrpriser.se^
 ||tick.sculch.app^
 ||tigershark.garethtdavies.com^
+||tigershark.integratecolumbus.org^
 ||tigershark.moonpot.com^
 ||tigershark.paavanmagic.com^
 ||tigershark.samwaymire.com^

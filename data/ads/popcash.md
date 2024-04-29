@@ -215,7 +215,6 @@
 | cardinal.businessfirstonline.co.uk | deprecated-custom-domains.b-cdn.net |
 | cardinal.ensembleblock.com | deprecated-custom-domains.b-cdn.net |
 | cardinal.genx.be | deprecated-custom-domains.b-cdn.net |
-| cardinal.iwgb.org.uk | deprecated-custom-domains.b-cdn.net |
 | cardinal.newman.is | deprecated-custom-domains.b-cdn.net |
 | cardinal.zenting.app | deprecated-custom-domains.b-cdn.net |
 | caribou.clintgwinter.com | deprecated-custom-domains.b-cdn.net |
@@ -480,7 +479,6 @@
 | heron.morphiq.digital | deprecated-custom-domains.b-cdn.net |
 | heron.notability.com | deprecated-custom-domains.b-cdn.net |
 | heron.oneaudiobooks.app | deprecated-custom-domains.b-cdn.net |
-| heron.scarletnoir.co | deprecated-custom-domains.b-cdn.net |
 | herring.artemis.cloud | deprecated-custom-domains.b-cdn.net |
 | herring.panda.network | deprecated-custom-domains.b-cdn.net |
 | herring.superfast.dev | deprecated-custom-domains.b-cdn.net |
@@ -668,7 +666,6 @@
 | mouse.botreach.co | deprecated-custom-domains.b-cdn.net |
 | mule.caddyserver.com | deprecated-custom-domains.b-cdn.net |
 | mule.pricelessai.com | deprecated-custom-domains.b-cdn.net |
-| mule.reel.so | deprecated-custom-domains.b-cdn.net |
 | muskox.appital.io | deprecated-custom-domains.b-cdn.net |
 | narwhal.bounty.studio | deprecated-custom-domains.b-cdn.net |
 | newt.javier.dev | deprecated-custom-domains.b-cdn.net |
@@ -917,6 +914,7 @@
 | tick.pcrpriser.se | deprecated-custom-domains.b-cdn.net |
 | tick.sculch.app | deprecated-custom-domains.b-cdn.net |
 | tigershark.garethtdavies.com | deprecated-custom-domains.b-cdn.net |
+| tigershark.integratecolumbus.org | deprecated-custom-domains.b-cdn.net |
 | tigershark.moonpot.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.paavanmagic.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.samwaymire.com | deprecated-custom-domains.b-cdn.net |
@@ -1027,6 +1025,7 @@
 | cdn.clbaf.com | popcashjs.b-cdn.net |
 | cdn.crsope.com | popcashjs.b-cdn.net |
 | cdn.cryjun.com | popcashjs.b-cdn.net |
+| cdn.dajkq.com | popcashjs.b-cdn.net |
 | cdn.dawplm.com | popcashjs.b-cdn.net |
 | cdn.decpo.xyz | popcashjs.b-cdn.net |
 | cdn.delutza.com | popcashjs.b-cdn.net |
@@ -1099,6 +1098,7 @@
 | cdn.puysis.com | popcashjs.b-cdn.net |
 | cdn.qgerr.com | popcashjs.b-cdn.net |
 | cdn.quagfa.com | popcashjs.b-cdn.net |
+| cdn.rapolok.com | popcashjs.b-cdn.net |
 | cdn.rausfml.com | popcashjs.b-cdn.net |
 | cdn.rawqel.com | popcashjs.b-cdn.net |
 | cdn.rgrd.xyz | popcashjs.b-cdn.net |

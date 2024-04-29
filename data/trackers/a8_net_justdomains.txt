@@ -99,6 +99,7 @@ a8.eonet.ne.jp
 a8.epauler.co.jp
 a8.epo.info
 a8.erasutamo.onlinestaff.jp
+a8.everest.ac
 a8.evertrust-inc.com
 a8.exam-katekyo.com
 a8.exetime.jp
@@ -259,6 +260,7 @@ a8.sakuramobile.jp
 a8.sakuratravel.jp
 a8.sara-uv.com
 a8.schecon.com
+a8.seifu-ac.jp
 a8.seminarshelf.com
 a8.sennendo.jp
 a8.sharefull.com
@@ -322,6 +324,7 @@ a8.uchi-iwai.net
 a8.uchideno-kozuchi.com
 a8.uluwatutiger.com
 a8.unicoffee.tech
+a8.uridoki.net
 a8.uzuz-college.jp
 a8.vector-park.jp
 a8.vie-magique.com
@@ -877,6 +880,7 @@ a8cv.entry.renet.jp
 a8cv.euria.store
 a8cv.exrg-premium.shop
 a8cv.eys-musicschool.com
+a8cv.f.012grp.co.jp
 a8cv.factoringzero.jp
 a8cv.fafa-shop.com
 a8cv.favorric.com
@@ -994,7 +998,6 @@ a8cv.kkmatsusho.jp
 a8cv.kn-waterserver.com
 a8cv.kobe38.com
 a8cv.kosodatemoney.com
-a8cv.kstarselect.com
 a8cv.kuih.jp
 a8cv.kurashi-bears.com
 a8cv.kusmitea.jp
@@ -1124,6 +1127,7 @@ a8cv.runteq.jp
 a8cv.ryomon.jp
 a8cv.s-darts.com
 a8cv.sabusuta.jp
+a8cv.safetycart.jp
 a8cv.saitoma.com
 a8cv.sakura-forest.com
 a8cv.sanix.jp

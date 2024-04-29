@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713772807554        ; Serial
+           1714377607736        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -43,6 +43,7 @@ appschk.scotiabank.com CNAME .
 appscore.credilike.me CNAME .
 asanalytics.booking.com CNAME .
 assessment.nj.betmgm.com CNAME .
+assets.harlandclarke.com CNAME .
 assets.werally.co CNAME .
 assets2.ihg.com CNAME .
 assets2.thefirstclub.com CNAME .
@@ -66,6 +67,7 @@ cdn-content.bmtx.com CNAME .
 cdn-east.purchase.goto.com CNAME .
 cdn-ln.ozk.com CNAME .
 cdn-lntmps.mintmobile.com CNAME .
+cdn-lntmps.ultramobile.com CNAME .
 cdn-s.chumbacasino.com CNAME .
 cdn-s.dev.chumbacasino.com CNAME .
 cdn-s.dev.globalpoker.com CNAME .
@@ -169,7 +171,6 @@ clear.wallapop.com CNAME .
 client.online.sandyspringbank.com CNAME .
 clovergo.june-testing.firstdata.com CNAME .
 cmprofile.cards.citidirect.com CNAME .
-cnt.didiglobal.com CNAME .
 cnt.goboo.com CNAME .
 cnt.patpat.com CNAME .
 cnt2.bank.za.group CNAME .
@@ -310,6 +311,7 @@ content.tab.com.au CNAME .
 content.telusinternational.ai CNAME .
 content.tfbank.at CNAME .
 content.tfbank.de CNAME .
+content.tfbank.es CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
 content.vi.gov CNAME .
@@ -418,6 +420,7 @@ dp.lottogo.com CNAME .
 dp.mynylottery.org CNAME .
 dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
+dt.extrakarte.com CNAME .
 dt.payla.io CNAME .
 dtrust.atratopago.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
@@ -430,6 +433,7 @@ faas.2dehands.be CNAME .
 faas.2ememain.be CNAME .
 faas.marktplaats.nl CNAME .
 fdts.ebay-kleinanzeigen.de CNAME .
+fingerprint.fool.com CNAME .
 fms-dev.citysavings.net.ph CNAME .
 fms.perahub.com.ph CNAME .
 fnvma.milanuncios.com CNAME .
@@ -470,6 +474,7 @@ h.truist.com CNAME .
 hint-tmdp.opendoor.com CNAME .
 hooru.regence.com CNAME .
 id.latitudefinancial.com CNAME .
+identity.myblueprint.arkansasbluecross.com CNAME .
 idhtm.bb.com.br CNAME .
 idstatus.sky.com CNAME .
 im2.prod.amount.com CNAME .
@@ -536,7 +541,10 @@ lab4.lloydsbank.com CNAME .
 ln.cash.app CNAME .
 ln.meudigio.com.br CNAME .
 lnc.mo.gov CNAME .
+lncdn.aspire.com CNAME .
 lncdn.goosehead.com CNAME .
+lncdn.imaginecredit.com CNAME .
+lncdn.myfortiva.com CNAME .
 lndata.labor.maryland.gov CNAME .
 lndata.labor.md.gov CNAME .
 lnths.twc.texas.gov CNAME .
@@ -856,6 +864,7 @@ tcontent.auchantelecom.fr CNAME .
 tcontent.cdiscountmobile.cdiscount.com CNAME .
 tcontent.nrjmobile.fr CNAME .
 telem.highlow.com CNAME .
+tfp.intuit.com CNAME .
 th.barclays.co.uk CNAME .
 thm.v.me CNAME .
 thm.visa.com CNAME .
@@ -886,6 +895,7 @@ tm.creditcheck.illion.com.au CNAME .
 tm.creditprotect.illion.com.au CNAME .
 tm.cybersource.com CNAME .
 tm.directly.com CNAME .
+tm.espnbet.com CNAME .
 tm.fanduel.com CNAME .
 tm.fidelity.co.uk CNAME .
 tm.goldennuggetcasino.com CNAME .
@@ -937,7 +947,6 @@ tmx.gotobilling.com CNAME .
 tmx.kijiji.ca CNAME .
 tmx.monzo.co.uk CNAME .
 tmx.pampersrewards.com CNAME .
-tmx.pat.td.com CNAME .
 tmx.prod.efsllc.com CNAME .
 tmx.rnd.gemaltodigitalbankingidcloud.com CNAME .
 tmx.tchek.com CNAME .
@@ -978,7 +987,6 @@ validacionlx.agaval.com CNAME .
 verification.ndtco.com CNAME .
 verify.metlife.com CNAME .
 verify.philippineairlines.com CNAME .
-vfp.intuit.com CNAME .
 vlscppe.microsoft.com CNAME .
 voto.credit24.com CNAME .
 voto.creditea.com CNAME .

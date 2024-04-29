@@ -7,6 +7,8 @@
     * ka8ing2z.ab1n.net
     * tk6if76q.ab1n.net
     * tk6if76r.ab1n.net
+    * v3j9t5q9.ab1n.net
+    * w2u4v9e1.ab1n.net
     * x0xmrxm4.ab1n.net
     * x0xmrxm5.ab1n.net
 
@@ -41,6 +43,7 @@
 | syndication0.exoclick.com | a37zk9tr.ab1n.net |
 | rtb.advertrek.com | ka8ing2z.ab1n.net |
 | rtb.exoclick.com | ka8ing2z.ab1n.net |
+| rtb.nowsrv.com | ka8ing2z.ab1n.net |
 | rtb.trafficfactory.com | ka8ing2z.ab1n.net |
 | 10.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | 1109.notify.optimizesrv.com | tk6if76q.ab1n.net |
@@ -708,6 +711,7 @@
 | 3701939.notify6.com | tk6if76q.ab1n.net |
 | 3710061.notify6.com | tk6if76q.ab1n.net |
 | 3710063.notifysrv.com | tk6if76q.ab1n.net |
+| 3710069.notify6.com | tk6if76q.ab1n.net |
 | 3710069.notifysrv.com | tk6if76q.ab1n.net |
 | 3710075.notify6.com | tk6if76q.ab1n.net |
 | 3715633.notifysrv.com | tk6if76q.ab1n.net |
@@ -1111,6 +1115,7 @@
 | s.elnz01.com | tk6if76q.ab1n.net |
 | s.elnz02.com | tk6if76q.ab1n.net |
 | s.elnz03.com | tk6if76q.ab1n.net |
+| s.elnz23.com | tk6if76q.ab1n.net |
 | s.etology.com | tk6if76q.ab1n.net |
 | s.eunow4u.com | tk6if76q.ab1n.net |
 | s.linkw2e.com | tk6if76q.ab1n.net |
@@ -1198,14 +1203,47 @@
 | www.notify6.com | tk6if76q.ab1n.net |
 | www.notifysrv.com | tk6if76q.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
+| admin.adnation.com | v3j9t5q9.ab1n.net |
+| admin.datingclix.com | v3j9t5q9.ab1n.net |
+| admin.etology.com | v3j9t5q9.ab1n.net |
+| admin.gettopple.com | v3j9t5q9.ab1n.net |
+| admin.shafttraffic.com | v3j9t5q9.ab1n.net |
+| admin.trafficbaron.com | v3j9t5q9.ab1n.net |
+| admin.trafficfactory.com | v3j9t5q9.ab1n.net |
+| a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
+| a.adsession.com | w2u4v9e1.ab1n.net |
+| a.advantageclicks.net | w2u4v9e1.ab1n.net |
+| a.advertrek.com | w2u4v9e1.ab1n.net |
+| a.asvsm.com | w2u4v9e1.ab1n.net |
+| a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
+| a.etology.com | w2u4v9e1.ab1n.net |
+| a.eunow4u.com | w2u4v9e1.ab1n.net |
+| a.ma3ion.com | w2u4v9e1.ab1n.net |
+| a.optimizesrv.com | w2u4v9e1.ab1n.net |
+| a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
+| a.r8lnet.com | w2u4v9e1.ab1n.net |
+| a.redpathmedia.com | w2u4v9e1.ab1n.net |
+| a.rocoads.net | w2u4v9e1.ab1n.net |
+| a.santabrowser.com | w2u4v9e1.ab1n.net |
+| a.slice.exchange | w2u4v9e1.ab1n.net |
+| a.stuffserve.com | w2u4v9e1.ab1n.net |
+| a.tf4srv.com | w2u4v9e1.ab1n.net |
+| a.vws4brkfst.com | w2u4v9e1.ab1n.net |
+| delivery.gettopple.com | w2u4v9e1.ab1n.net |
 | *.exaapi.com | x0xmrxm4.ab1n.net |
 | admin.adnation.com | x0xmrxm4.ab1n.net |
 | admin.datingclix.com | x0xmrxm4.ab1n.net |
 | admin.etology.com | x0xmrxm4.ab1n.net |
+| admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.exoclick.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
+| admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
+| admin.shafttraffic.com | x0xmrxm4.ab1n.net |
+| admin.trafficbaron.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
+| admin.trafficfactory.com | x0xmrxm4.ab1n.net |
+| adrepository.opoxv.com | x0xmrxm4.ab1n.net |
 | api.adnation.com | x0xmrxm4.ab1n.net |
 | api.datingclix.com | x0xmrxm4.ab1n.net |
 | api.getblaze.app | x0xmrxm4.ab1n.net |

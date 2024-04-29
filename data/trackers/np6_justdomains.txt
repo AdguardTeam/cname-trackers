@@ -206,7 +206,6 @@ tr.com.sfr.fr
 tr.combca.fr
 tr.commande.location.boulanger.com
 tr.commercial.boursobank.info
-tr.commint.groupe.chapsvision.com
 tr.communaute.caradisiac.com
 tr.communautes-mediametrie.fr
 tr.communication.alticemedia.com
@@ -703,6 +702,7 @@ tr.news.chilican.com
 tr.news.clicochic.com
 tr.news.companeo.es
 tr.news.companeo.ro
+tr.news.corsicaferries.com
 tr.news.corsicalinea.com
 tr.news.cotemaison.fr
 tr.news.cporadio.tv

@@ -72,6 +72,10 @@ tk.balenciaga.com
 tk.biovea.com
 tk.blancheporte.be
 tk.blancheporte.fr
+tk.boutique.capital.fr
+tk.boutique.geo.fr
+tk.boutique.hbrfrance.fr
+tk.boutique.voici.fr
 tk.bricoprive.com
 tk.bullebleue.fr
 tk.cadeaux.com

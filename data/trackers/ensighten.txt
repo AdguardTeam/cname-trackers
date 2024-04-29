@@ -300,6 +300,7 @@
 ||secureanalytics.syf.com^
 ||secureanalytics.synchrony.com^
 ||secureanalytics.synchronybank.com^
+||secureanalytics.synchronybusiness.com^
 ||secureanalytics.synchronycarecredit.com^
 ||secureanalytics.synchronycredit.com^
 ||secureanalytics.synchronyretail.com^
@@ -363,6 +364,8 @@
 ||tms.kone.com^
 ||tms.marriott.com^
 ||tms.nab.com.au^
+||tms.nabmarginlending.com.au^
+||tms.nabtrade.com.au^
 ||tms.nationaltrust.org.uk^
 ||tms.rsa.com^
 ||tms.virginatlantic.com^

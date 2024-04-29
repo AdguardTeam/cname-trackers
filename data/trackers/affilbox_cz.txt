@@ -133,6 +133,7 @@
 ||affiliate.elisdesign.cz^
 ||affiliate.ellex.cz^
 ||affiliate.epohledavky.cz^
+||affiliate.eros.sk^
 ||affiliate.escapehouse.sk^
 ||affiliate.esensino.cz^
 ||affiliate.esensino.sk^
@@ -568,6 +569,7 @@
 ||partner.luckyalvin.cz^
 ||partner.lyzelyze.cz^
 ||partner.madio.cz^
+||partner.majtki.cz^
 ||partner.malujpodlecisel.cz^
 ||partner.marspom.cz^
 ||partner.martinreznicek.cz^
@@ -592,6 +594,7 @@
 ||partner.nanolab.cz^
 ||partner.naplne.cz^
 ||partner.naseano.cz^
+||partner.naslouchamesrdcem.cz^
 ||partner.natubea.cz^
 ||partner.nejlepsi-darecky.cz^
 ||partner.neviditelnepradlo.cz^
@@ -864,6 +867,7 @@
 ||special.kvetinyexpres.cz^
 ||splatky.aquatrend.sk^
 ||spolu.kuskakaa.cz^
+||spoluhraci.decathlon.cz^
 ||spoluprace.amalcino.cz^
 ||spoluprace.aretacni-pripravky.cz^
 ||spoluprace.bafoo.cz^

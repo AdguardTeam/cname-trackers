@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713772807554        ; Serial
+           1714377607736        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -73,6 +73,7 @@ api.ryanyao.design CNAME .
 apis.4bn.xyz CNAME .
 app-stats.supernotes.app CNAME .
 artistchristinacarmel.ericksonbuilt.com CNAME .
+assets.garron.blog CNAME .
 assets.garron.me CNAME .
 assets.mikeroulston.com CNAME .
 assets.modeathletics.com CNAME .

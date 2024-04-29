@@ -56,6 +56,7 @@ census.misterspex.at
 census.misterspex.no
 count.bank99.at
 ctdfm.ilgiornale.it
+ctrkd.ilsole24ore.com
 da.bodenhaus.de
 da.hornbach.at
 da.hornbach.be
@@ -70,6 +71,7 @@ da.hornbach.sk
 data.adlermode.com
 data.all-in.de
 data.allgaeuer-zeitung.de
+data.babista.de
 data.campaign.prenatal.com
 data.campaign.toyscenter.it
 data.charles-colby.com
@@ -153,6 +155,11 @@ info.genialklick.ch
 info.klett-sprachen.de
 intelligence.officialwesthamstore.com
 is.lg.com
+joda.corriereadriatico.it
+joda.ilgazzettino.it
+joda.ilmattino.it
+joda.ilmessaggero.it
+joda.leggo.it
 joda.quotidianodipuglia.it
 lax.data.srf.ch
 mapp.ewm.co.uk
@@ -162,12 +169,15 @@ mapp.peacocks.co.uk
 mapp.yesstyle.com
 mff.messefrankfurt.com
 mit.bhw.de
+mit.db.com
 mit.deutsche-bank.de
+mit.deutschebank.be
 mit.deutschewealth.com
 mit.dslbank.de
 mit.dws.com
 mit.dws.de
 mit.postbank.de
+mit.researchlog.db.com
 mit.researchlog.dbresearch.com
 mit.researchlog.dbresearch.de
 nov.data.srf.ch
@@ -186,6 +196,7 @@ ot.obi.pl
 ot.obi.si
 ot.obi.sk
 pix.airbusgroup.com
+pix.telekom.com
 proditor.sparda.de
 prophet.heise-academy.de
 s5.data.srf.ch
@@ -204,9 +215,11 @@ scout.bergfreunde.no
 scout.bergfreunde.se
 stage.www.data.srf.ch
 startrekk.flaconi.at
+startrekk.flaconi.ch
 startrekk.flaconi.fr
 startrekk.flaconi.pl
 statistics.tuv.com
+t.mediaset.it
 text.benefitsatwork.be
 text.benefitsatwork.ch
 text.benefitsatwork.pl
@@ -304,10 +317,12 @@ web.mapp.whiteaway.no
 web.mapp.whiteaway.se
 web.marcotozzi.com
 web.marketing.elbenwald.de
+web.marketing.jellybelly.com
 web.mytoys.de
 web.news.creedfragrances.co.uk
 web.news.dixiefashion.com
 web.news.eprice.it
+web.news.gnv.it
 web.news.imperialfashion.com
 web.news.lancel.com
 web.news.paganistore.com
@@ -318,7 +333,6 @@ web.newsletter.koffer-to-go.de
 web.newsletter.viviennewestwood.com
 web.newsletterit.esprinet.com
 web.online.monnalisa.com
-web.pages.lloydspharmacy.com
 web.redazione.milanofinanza.it
 web.sensilab.com
 web.sensilab.cz
@@ -390,4 +404,3 @@ wttd.madeleine.co.uk
 wttd.madeleine.de
 wttd.madeleine.fr
 wttd.madeleine.gr
-web.marketing.jellybelly.com

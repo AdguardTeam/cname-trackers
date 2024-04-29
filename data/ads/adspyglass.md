@@ -8,7 +8,6 @@
 ### Rarely active trackers
 
 * api.clickaine.com
-* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -38,7 +37,6 @@
 | 2222.sanjay44.xyz | 0i0i0i0.com |
 | 2222.sieglinde22.xyz | 0i0i0i0.com |
 | 2222.spinna.online | 0i0i0i0.com |
-| 23.sweetmanga.fun | 0i0i0i0.com |
 | 259luxu.xyz | 0i0i0i0.com |
 | 25serve.yourporngod.com | 0i0i0i0.com |
 | 2aaa.spinna.xyz | 0i0i0i0.com |
@@ -77,7 +75,6 @@
 | 99loz.xyz | 0i0i0i0.com |
 | a.123porner.net | 0i0i0i0.com |
 | a.1film.to | 0i0i0i0.com |
-| a.6vids.space | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.atris.xyz | 0i0i0i0.com |
 | a.babezunknown.com | 0i0i0i0.com |
@@ -89,7 +86,6 @@
 | a.boyjackpot.com | 0i0i0i0.com |
 | a.buicks.xyz | 0i0i0i0.com |
 | a.bumog.xyz | 0i0i0i0.com |
-| a.c898xynjvjt.shop | 0i0i0i0.com |
 | a.cloba.xyz | 0i0i0i0.com |
 | a.coinhub.wiki | 0i0i0i0.com |
 | a.craftbeerclub.com.ua | 0i0i0i0.com |
@@ -109,10 +105,8 @@
 | a.goodweet.xyz | 0i0i0i0.com |
 | a.goteat.xyz | 0i0i0i0.com |
 | a.gurusex.one | 0i0i0i0.com |
-| a.hentai369.com | 0i0i0i0.com |
 | a.hubhubhub.name | 0i0i0i0.com |
 | a.jerkdevice.tv | 0i0i0i0.com |
-| a.jhfhdkhkh.site | 0i0i0i0.com |
 | a.kainpopoy.com | 0i0i0i0.com |
 | a.kambistory.ml | 0i0i0i0.com |
 | a.kantotin.net | 0i0i0i0.com |
@@ -129,15 +123,16 @@
 | a.memia.xyz | 0i0i0i0.com |
 | a.memosaqee.com | 0i0i0i0.com |
 | a.merig.xyz | 0i0i0i0.com |
+| a.mf233y3dg6n.shop | 0i0i0i0.com |
 | a.mikiporntube.one | 0i0i0i0.com |
 | a.mikop.xyz | 0i0i0i0.com |
 | a.misctool.xyz | 0i0i0i0.com |
 | a.moera.xyz | 0i0i0i0.com |
 | a.muipe.xyz | 0i0i0i0.com |
 | a.myprettyads.one | 0i0i0i0.com |
-| a.n6fmh93mphnp.shop | 0i0i0i0.com |
 | a.naliw.xyz | 0i0i0i0.com |
 | a.obrom.xyz | 0i0i0i0.com |
+| a.oz79tx1oa0x.shop | 0i0i0i0.com |
 | a.paulsmatures.com | 0i0i0i0.com |
 | a.paulsmilfs.com | 0i0i0i0.com |
 | a.paulswomen.com | 0i0i0i0.com |
@@ -149,6 +144,7 @@
 | a.rafian.com | 0i0i0i0.com |
 | a.refia.xyz | 0i0i0i0.com |
 | a.reissue2871.xyz | 0i0i0i0.com |
+| a.rpjbtni186w9.shop | 0i0i0i0.com |
 | a.seksohub.com | 0i0i0i0.com |
 | a.shemale99.com | 0i0i0i0.com |
 | a.shubatuuuu.site | 0i0i0i0.com |
@@ -163,14 +159,12 @@
 | a.vrime.xyz | 0i0i0i0.com |
 | a.warddogs.com | 0i0i0i0.com |
 | a.welfasted.online | 0i0i0i0.com |
-| a.worldporncomix.com | 0i0i0i0.com |
 | a.xenar.xyz | 0i0i0i0.com |
-| a.xmanga.online | 0i0i0i0.com |
 | a.xolen.xyz | 0i0i0i0.com |
+| a.y9wgxd5oy7pi.shop | 0i0i0i0.com |
 | a.zenam.xyz | 0i0i0i0.com |
 | a.zillastream.com | 0i0i0i0.com |
 | a.zvert.xyz | 0i0i0i0.com |
-| a2cid.kiteau.blue | 0i0i0i0.com |
 | a5g.oves.biz | 0i0i0i0.com |
 | a9o.youlikeboys.com | 0i0i0i0.com |
 | aa.4wank.com | 0i0i0i0.com |
@@ -182,7 +176,6 @@
 | abc.cda-hd.co | 0i0i0i0.com |
 | abc.comick.top | 0i0i0i0.com |
 | ad.animeitaly.tv | 0i0i0i0.com |
-| ad.emule-island.eu | 0i0i0i0.com |
 | ad.vvtadblk.online | 0i0i0i0.com |
 | ad.wawacity.xyz | 0i0i0i0.com |
 | ad.xxam.org | 0i0i0i0.com |
@@ -208,6 +201,7 @@
 | ads.wetpussy.sexy | 0i0i0i0.com |
 | adserv.tbussyb.com | 0i0i0i0.com |
 | adspy.javrank.com | 0i0i0i0.com |
+| adv.globtube.com | 0i0i0i0.com |
 | alt.fescity.com | 0i0i0i0.com |
 | amaz.emailon.top | 0i0i0i0.com |
 | anti.nukedfans.com | 0i0i0i0.com |
@@ -221,12 +215,16 @@
 | apple.analnoe24.com | 0i0i0i0.com |
 | apple.arabtoons.net | 0i0i0i0.com |
 | arabs.alarabsex.com | 0i0i0i0.com |
+| arabs.alarabsex.net | 0i0i0i0.com |
 | arabs.alarbda.com | 0i0i0i0.com |
+| arabs.alarbda.net | 0i0i0i0.com |
 | arabs.arabxforum.com | 0i0i0i0.com |
 | arabs.arabxn.org | 0i0i0i0.com |
 | arabs.nodzway.com | 0i0i0i0.com |
+| arabs.sexalarbda.com | 0i0i0i0.com |
 | arabs.xn--mgbcvg3b0d2b.com | 0i0i0i0.com |
 | arabs.xn--ngbcrg3b.net | 0i0i0i0.com |
+| arabs.xn--ngboe5a6f.com | 0i0i0i0.com |
 | arabs.xn--ngbs7dg.net | 0i0i0i0.com |
 | arabss.arabxn.org | 0i0i0i0.com |
 | ars.comicarab.com | 0i0i0i0.com |
@@ -260,7 +258,6 @@
 | asg.soundrussian.com | 0i0i0i0.com |
 | asg.srvtax.com | 0i0i0i0.com |
 | asg.titdumps.com | 0i0i0i0.com |
-| asg.watchpornonline.xyz | 0i0i0i0.com |
 | asg.zzipps.com | 0i0i0i0.com |
 | asg1.xueserverhost.com | 0i0i0i0.com |
 | asg2.xueserverhost.com | 0i0i0i0.com |
@@ -463,6 +460,7 @@
 | isty4sxhi.asfgeaa.lat | 0i0i0i0.com |
 | ix2.deepsexvids.com | 0i0i0i0.com |
 | j.bloblohub.com | 0i0i0i0.com |
+| j.kiteau.blue | 0i0i0i0.com |
 | j45.webringporn.com | 0i0i0i0.com |
 | javguru.gggsss.site | 0i0i0i0.com |
 | jfhnh.spinna.store | 0i0i0i0.com |
@@ -503,7 +501,7 @@
 | logshort.xyz | 0i0i0i0.com |
 | lol.globlax.com | 0i0i0i0.com |
 | loop.bengali-sex-video.com | 0i0i0i0.com |
-| losa.mkace.net | 0i0i0i0.com |
+| lp.lepayung.shop | 0i0i0i0.com |
 | lpair.xyz | 0i0i0i0.com |
 | luckyz.xyz | 0i0i0i0.com |
 | lx5.homeporntuber.com | 0i0i0i0.com |
@@ -538,6 +536,7 @@
 | mido.steeelm.online | 0i0i0i0.com |
 | migqw56nfi.zzaqqwecd.lat | 0i0i0i0.com |
 | mioias.axxxfeee.lat | 0i0i0i0.com |
+| misszuo.xyz | 0i0i0i0.com |
 | mity4sxoi.asfgeaa.lat | 0i0i0i0.com |
 | mopeia.xyz | 0i0i0i0.com |
 | moster.granny-xxx-video.com | 0i0i0i0.com |
@@ -685,6 +684,8 @@
 | s.malay.buzz | 0i0i0i0.com |
 | s.moccapedia.com | 0i0i0i0.com |
 | s.oralblow.com | 0i0i0i0.com |
+| s.pornox.site | 0i0i0i0.com |
+| s.pornworld.pro | 0i0i0i0.com |
 | s.quedo.buzz | 0i0i0i0.com |
 | s.remonti.org | 0i0i0i0.com |
 | s.thepornbin.us | 0i0i0i0.com |
@@ -694,7 +695,6 @@
 | saddve23.fsseeewzz.lol | 0i0i0i0.com |
 | sailundu.xyz | 0i0i0i0.com |
 | sansuni.xyz | 0i0i0i0.com |
-| sape.ngumaz.com | 0i0i0i0.com |
 | satmon.neekstore.com | 0i0i0i0.com |
 | sbbb.spinna.xyz | 0i0i0i0.com |
 | sbm.stigmuuua.xyz | 0i0i0i0.com |
@@ -717,8 +717,6 @@
 | sharion.xyz | 0i0i0i0.com |
 | shenzo.xyz | 0i0i0i0.com |
 | shinep.xyz | 0i0i0i0.com |
-| shukri.mwikace.com | 0i0i0i0.com |
-| shurku.mkace.net | 0i0i0i0.com |
 | sis.facesittingbbw.com | 0i0i0i0.com |
 | slit.lewd.rip | 0i0i0i0.com |
 | smart.sunporno.com | 0i0i0i0.com |
@@ -857,6 +855,7 @@
 | z0000g.yvmads.com | 0i0i0i0.com |
 | zaemi.xyz | 0i0i0i0.com |
 | zdhq.xyz | 0i0i0i0.com |
+| zenaot.xyz | 0i0i0i0.com |
 | zhaner.xyz | 0i0i0i0.com |
 | zinipx.xyz | 0i0i0i0.com |
 | zone.pornlovo.co | 0i0i0i0.com |
@@ -877,5 +876,3 @@
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
 | www.newdin.name | u50.0i0i0i0.com |
-| ontj.com | u53.hypnorat.com |
-| qhip.com | u53.hypnorat.com |

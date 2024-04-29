@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713772807554        ; Serial
+           1714377607736        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1422,7 +1422,6 @@ data-a6faa6efe2.thueringen-gedenkt.de CNAME .
 data-a76072cba2.sbz-monteur.de CNAME .
 data-a764ba99aa.das-pta-magazin.de CNAME .
 data-a77fb9b63f.osthessen-news.de CNAME .
-data-a784464fa2.femeda.de CNAME .
 data-a7a0d7a6db.brigitte.de CNAME .
 data-a7a0d7a6db.bym.de CNAME .
 data-a7a8261f38.apps.iocnt.de CNAME .
@@ -1830,6 +1829,7 @@ data-d9c82db6b2.motor.at CNAME .
 data-da1d9cc48a.osthessen-news.de CNAME .
 data-da8b646558.dieniederoesterreicherin.at CNAME .
 data-daaad80bda.babelli.de CNAME .
+data-daab9294a5.eatclub.tv CNAME .
 data-dae559c4b7.ejz.de CNAME .
 data-db0ecef264.trafikantenzeitung.at CNAME .
 data-db3e9abc5d.muensterschezeitung.de CNAME .
@@ -1874,6 +1874,7 @@ data-e138bc4173.apps.iocnt.de CNAME .
 data-e159daf928.obermain.de CNAME .
 data-e16817998e.apps.iocnt.de CNAME .
 data-e16c65ad3c.antennevorarlberg.at CNAME .
+data-e18f7c3e0e.bib.dormagen.de CNAME .
 data-e1f099aeb5.apps.iocnt.de CNAME .
 data-e2b70f0c07.lb-oldenburg.de CNAME .
 data-e337e2a6a8.kuechenplaner-magazin.de CNAME .

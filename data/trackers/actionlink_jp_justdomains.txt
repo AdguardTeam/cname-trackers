@@ -1,7 +1,9 @@
 #
 # Company name: Actionlink.jp
 actionlk.ozie.co.jp
+al.484364.com
 al.amiami345.shop
+al.andyell2.com
 al.apros.co.jp
 al.atelierofsleep.com
 al.babyrenta.com
@@ -31,6 +33,7 @@ al.nakayamashouten.com
 al.nawa-store.jp
 al.office-com.jp
 al.packstyle.jp
+al.peak-blue.com
 al.pierrotshop.jp
 al.saifuku-knit.jp
 al.santelabo.jp

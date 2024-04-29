@@ -51,6 +51,7 @@
     * 148749046266446.wt-eu02.net
     * 151836596491843.wt-eu02.net
     * 158325876760515.wt-eu02.net
+    * 175750679116864.wt-eu02.net
     * 176652923057792.wt-eu02.net
     * 180629549208289.wt-eu02.net
     * 184874202187158.wt-eu02.net
@@ -67,6 +68,7 @@
     * 267062407301027.wt-eu02.net
     * 274892701840429.wt-eu02.net
     * 285545256993116.wt-eu02.net
+    * 286813086616891.wt-eu02.net
     * 292330999892453.wt-eu02.net
     * 292595354576025.wt-eu02.net
     * 301407277754972.wt-eu02.net
@@ -100,15 +102,18 @@
     * 467808562573270.wt-eu02.net
     * 470719744966924.wt-eu02.net
     * 472882311545060.wt-eu02.net
+    * 475966354471123.wt-eu02.net
     * 481394388917209.wt-eu02.net
     * 481977157370244.wt-eu02.net
     * 482221458407393.wt-eu02.net
     * 484879729086450.wt-eu02.net
     * 489164258023327.wt-eu02.net
+    * 495967780350059.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
     * 545460378195639.wt-eu02.net
     * 547882457626880.wt-eu02.net
+    * 579960529907681.wt-eu02.net
     * 584263287768398.wt-eu02.net
     * 587628343151442.wt-eu02.net
     * 590341552297239.wt-eu02.net
@@ -130,7 +135,6 @@
     * 669154114435717.wt-eu02.net
     * 669798445377675.wt-eu02.net
     * 671130969507772.wt-eu02.net
-    * 676623818960096.wt-eu02.net
     * 693380235006292.wt-eu02.net
     * 697968943875320.wt-eu02.net
     * 709031981525642.wt-eu02.net
@@ -147,8 +151,10 @@
     * 752828619977374.wt-eu02.net
     * 757421535252818.wt-eu02.net
     * 762510246968705.wt-eu02.net
+    * 769396664005295.wt-eu02.net
     * 790635424156780.wt-eu02.net
     * 792100555808051.wt-eu02.net
+    * 811475980920799.wt-eu02.net
     * 818150559802317.wt-eu02.net
     * 819363623263983.wt-eu02.net
     * 823532764568303.wt-eu02.net
@@ -159,6 +165,7 @@
     * 849036415619964.wt-eu02.net
     * 849715076759606.wt-eu02.net
     * 865411762489824.wt-eu02.net
+    * 877979016491790.wt-eu02.net
     * 893825625040746.wt-eu02.net
     * 913761141602487.wt-eu02.net
     * 927615140575951.wt-eu02.net
@@ -172,6 +179,7 @@
     * 969665527401678.wt-eu02.net
     * 982429105360946.wt-eu02.net
     * 987593120374077.wt-eu02.net
+    * 988195797407130.wt-eu02.net
     * 988523091244829.wt-eu02.net
     * 989502084988358.wt-eu02.net
     * 997311968670029.wt-eu02.net
@@ -250,6 +258,7 @@
 | web.sensilab.si | 151836596491843.wt-eu02.net |
 | web.sensilab.sk | 151836596491843.wt-eu02.net |
 | web.email.umbro.co.uk | 158325876760515.wt-eu02.net |
+| web.news.gnv.it | 175750679116864.wt-eu02.net |
 | trk.krebsversicherung.de | 176652923057792.wt-eu02.net |
 | trk.nuernberger.digital | 176652923057792.wt-eu02.net |
 | web.solesource.com | 180629549208289.wt-eu02.net |
@@ -268,6 +277,7 @@
 | web.news.imperialfashion.com | 267062407301027.wt-eu02.net |
 | web.e.obayaty.com | 274892701840429.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
+| mit.db.com | 286813086616891.wt-eu02.net |
 | backup.data.srf.ch | 292330999892453.wt-eu02.net |
 | data.srf.ch | 292330999892453.wt-eu02.net |
 | foro.data.srf.ch | 292330999892453.wt-eu02.net |
@@ -324,16 +334,19 @@
 | webt.pure-audio.com | 470719744966924.wt-eu02.net |
 | webt.store.okmilo.com | 470719744966924.wt-eu02.net |
 | web.email.zone3.com | 472882311545060.wt-eu02.net |
+| startrekk.flaconi.ch | 475966354471123.wt-eu02.net |
 | web.crm.beps.it | 481394388917209.wt-eu02.net |
 | web.marketing.elbenwald.de | 481977157370244.wt-eu02.net |
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
+| web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
 | startrekk.flaconi.fr | 545460378195639.wt-eu02.net |
 | website-usage.knorr-bremse.com | 547882457626880.wt-eu02.net |
+| pix.telekom.com | 579960529907681.wt-eu02.net |
 | web.news.lancel.com | 584263287768398.wt-eu02.net |
 | web.e.bolts.co.uk | 587628343151442.wt-eu02.net |
 | web.e.compositesales.co.uk | 587628343151442.wt-eu02.net |
@@ -368,7 +381,6 @@
 | data.adlermode.com | 669154114435717.wt-eu02.net |
 | web.news.thebridge.it | 669798445377675.wt-eu02.net |
 | mapp.jysk.nl | 671130969507772.wt-eu02.net |
-| web.pages.lloydspharmacy.com | 676623818960096.wt-eu02.net |
 | web.news.dixiefashion.com | 693380235006292.wt-eu02.net |
 | mit.dslbank.de | 697968943875320.wt-eu02.net |
 | info.klett-sprachen.de | 709031981525642.wt-eu02.net |
@@ -386,8 +398,10 @@
 | wbtrkk.teufel.ch | 752828619977374.wt-eu02.net |
 | web.sidsavage.com | 757421535252818.wt-eu02.net |
 | is.lg.com | 762510246968705.wt-eu02.net |
+| t.mediaset.it | 769396664005295.wt-eu02.net |
 | web.communications.amouage.com | 790635424156780.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
+| data.babista.de | 811475980920799.wt-eu02.net |
 | web.mapp.naturzeit.com | 818150559802317.wt-eu02.net |
 | web.online.monnalisa.com | 819363623263983.wt-eu02.net |
 | mit.dws.com | 823532764568303.wt-eu02.net |
@@ -401,8 +415,14 @@
 | mit.deutsche-bank.de | 849715076759606.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
 | wt.generalibewegtdeutschland.de | 865411762489824.wt-eu02.net |
+| mit.deutschebank.be | 877979016491790.wt-eu02.net |
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
 | web.newsletterit.esprinet.com | 913761141602487.wt-eu02.net |
+| joda.corriereadriatico.it | 927615140575951.wt-eu02.net |
+| joda.ilgazzettino.it | 927615140575951.wt-eu02.net |
+| joda.ilmattino.it | 927615140575951.wt-eu02.net |
+| joda.ilmessaggero.it | 927615140575951.wt-eu02.net |
+| joda.leggo.it | 927615140575951.wt-eu02.net |
 | joda.quotidianodipuglia.it | 927615140575951.wt-eu02.net |
 | count.bank99.at | 927703597199732.wt-eu02.net |
 | web.email.turtlebay.co.uk | 929152463666423.wt-eu02.net |
@@ -410,11 +430,13 @@
 | ctdfm.ilgiornale.it | 950197453774939.wt-eu02.net |
 | web.mapp.ilgiardinodeilibri.it | 958731023298385.wt-eu02.net |
 | web.newsletter.viviennewestwood.com | 964869656656022.wt-eu02.net |
+| mit.researchlog.db.com | 965607891904117.wt-eu02.net |
 | mit.researchlog.dbresearch.com | 965607891904117.wt-eu02.net |
 | mit.researchlog.dbresearch.de | 965607891904117.wt-eu02.net |
 | abc.bayer04.de | 969665527401678.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | web.info.teamwarrior.com | 987593120374077.wt-eu02.net |
+| ctrkd.ilsole24ore.com | 988195797407130.wt-eu02.net |
 | web.email.topfarmacia.it | 988523091244829.wt-eu02.net |
 | wbtrkk.teufelaudio.es | 989502084988358.wt-eu02.net |
 | wbtrkk.teufelaudio.pl | 997311968670029.wt-eu02.net |

@@ -32,6 +32,7 @@
 ||appscore.credilike.me^
 ||asanalytics.booking.com^
 ||assessment.nj.betmgm.com^
+||assets.harlandclarke.com^
 ||assets.werally.co^
 ||assets2.ihg.com^
 ||assets2.thefirstclub.com^
@@ -55,6 +56,7 @@
 ||cdn-east.purchase.goto.com^
 ||cdn-ln.ozk.com^
 ||cdn-lntmps.mintmobile.com^
+||cdn-lntmps.ultramobile.com^
 ||cdn-s.chumbacasino.com^
 ||cdn-s.dev.chumbacasino.com^
 ||cdn-s.dev.globalpoker.com^
@@ -158,7 +160,6 @@
 ||client.online.sandyspringbank.com^
 ||clovergo.june-testing.firstdata.com^
 ||cmprofile.cards.citidirect.com^
-||cnt.didiglobal.com^
 ||cnt.goboo.com^
 ||cnt.patpat.com^
 ||cnt2.bank.za.group^
@@ -299,6 +300,7 @@
 ||content.telusinternational.ai^
 ||content.tfbank.at^
 ||content.tfbank.de^
+||content.tfbank.es^
 ||content.usps.com^
 ||content.varetire.org^
 ||content.vi.gov^
@@ -407,6 +409,7 @@
 ||dp.mynylottery.org^
 ||dpf.authorize.net^
 ||drfdisvc.walmart.com^
+||dt.extrakarte.com^
 ||dt.payla.io^
 ||dtrust.atratopago.com^
 ||dvc0271.play.jackpocket.com^
@@ -419,6 +422,7 @@
 ||faas.2ememain.be^
 ||faas.marktplaats.nl^
 ||fdts.ebay-kleinanzeigen.de^
+||fingerprint.fool.com^
 ||fms-dev.citysavings.net.ph^
 ||fms.perahub.com.ph^
 ||fnvma.milanuncios.com^
@@ -459,6 +463,7 @@
 ||hint-tmdp.opendoor.com^
 ||hooru.regence.com^
 ||id.latitudefinancial.com^
+||identity.myblueprint.arkansasbluecross.com^
 ||idhtm.bb.com.br^
 ||idstatus.sky.com^
 ||im2.prod.amount.com^
@@ -525,7 +530,10 @@
 ||ln.cash.app^
 ||ln.meudigio.com.br^
 ||lnc.mo.gov^
+||lncdn.aspire.com^
 ||lncdn.goosehead.com^
+||lncdn.imaginecredit.com^
+||lncdn.myfortiva.com^
 ||lndata.labor.maryland.gov^
 ||lndata.labor.md.gov^
 ||lnths.twc.texas.gov^
@@ -845,6 +853,7 @@
 ||tcontent.cdiscountmobile.cdiscount.com^
 ||tcontent.nrjmobile.fr^
 ||telem.highlow.com^
+||tfp.intuit.com^
 ||th.barclays.co.uk^
 ||thm.v.me^
 ||thm.visa.com^
@@ -875,6 +884,7 @@
 ||tm.creditprotect.illion.com.au^
 ||tm.cybersource.com^
 ||tm.directly.com^
+||tm.espnbet.com^
 ||tm.fanduel.com^
 ||tm.fidelity.co.uk^
 ||tm.goldennuggetcasino.com^
@@ -926,7 +936,6 @@
 ||tmx.kijiji.ca^
 ||tmx.monzo.co.uk^
 ||tmx.pampersrewards.com^
-||tmx.pat.td.com^
 ||tmx.prod.efsllc.com^
 ||tmx.rnd.gemaltodigitalbankingidcloud.com^
 ||tmx.tchek.com^
@@ -967,7 +976,6 @@
 ||verification.ndtco.com^
 ||verify.metlife.com^
 ||verify.philippineairlines.com^
-||vfp.intuit.com^
 ||vlscppe.microsoft.com^
 ||voto.credit24.com^
 ||voto.creditea.com^

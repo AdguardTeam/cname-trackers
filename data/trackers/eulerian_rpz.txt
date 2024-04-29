@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713772807554        ; Serial
+           1714377607736        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ $TTL 300
 2efj.economies.cheque-dejeuner.com CNAME .
 2efj.up.coop CNAME .
 3esm.consubebe.es CNAME .
+5fm.985fm.ca CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -193,6 +194,7 @@ ef.futuroscope.mobi CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
+erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 eule1.pmu.fr CNAME .
@@ -329,6 +331,7 @@ nmo1.orpi.com CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
+nym5c.bonlook.com CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
 oae6.carrefour-banque.fr CNAME .
@@ -416,6 +419,7 @@ snr4.canalplus.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
+su1.les-suites.ca CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
 t.locasun.de CNAME .
@@ -425,6 +429,7 @@ t.locasun.it CNAME .
 t.locasun.nl CNAME .
 t.pmu.fr CNAME .
 t.voyages-sncf.com CNAME .
+t0y.toyota.ca CNAME .
 t9h2.ricardocuisine.com CNAME .
 t9k3a.jeanpaulfortin.com CNAME .
 tdf1.easyviaggio.com CNAME .
@@ -501,17 +506,12 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
-5fm.985fm.ca CNAME .
 b1n.carabins.umontreal.ca CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
-erb.tremblant.ca CNAME .
-nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
-su1.les-suites.ca CNAME .
-t0y.toyota.ca CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
 nym5c.laura.ca CNAME .

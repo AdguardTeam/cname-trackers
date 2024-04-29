@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713772807554        ; Serial
+           1714377607736        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -311,6 +311,7 @@ secureanalytics.carecredit.com CNAME .
 secureanalytics.syf.com CNAME .
 secureanalytics.synchrony.com CNAME .
 secureanalytics.synchronybank.com CNAME .
+secureanalytics.synchronybusiness.com CNAME .
 secureanalytics.synchronycarecredit.com CNAME .
 secureanalytics.synchronycredit.com CNAME .
 secureanalytics.synchronyretail.com CNAME .
@@ -374,6 +375,8 @@ tms.jbwere.com.au CNAME .
 tms.kone.com CNAME .
 tms.marriott.com CNAME .
 tms.nab.com.au CNAME .
+tms.nabmarginlending.com.au CNAME .
+tms.nabtrade.com.au CNAME .
 tms.nationaltrust.org.uk CNAME .
 tms.rsa.com CNAME .
 tms.virginatlantic.com CNAME .

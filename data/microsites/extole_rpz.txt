@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713772807554        ; Serial
+           1714377607736        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -49,6 +49,7 @@ refer.criquetshirts.com CNAME .
 refer.crystallight.com CNAME .
 refer.custudentloans.org CNAME .
 refer.discover.com CNAME .
+refer.discovercard.com CNAME .
 refer.divvybikes.com CNAME .
 refer.dna.ancestry.co.uk CNAME .
 refer.dna.ancestry.com CNAME .
@@ -432,6 +433,7 @@ referral.shiseido.com CNAME .
 referrals.lumen.com CNAME .
 referrals.visionsfcu.org CNAME .
 rob.extoleu.com CNAME .
+score.lumen.com CNAME .
 share-uk.princess.com CNAME .
 share-us.viktor-rolf.com CNAME .
 share.4wheelparts.com CNAME .

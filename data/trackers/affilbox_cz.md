@@ -152,6 +152,7 @@
 | affiliate.elisdesign.cz | cz.affilbox.cz |
 | affiliate.ellex.cz | cz.affilbox.cz |
 | affiliate.epohledavky.cz | cz.affilbox.cz |
+| affiliate.eros.sk | cz.affilbox.cz |
 | affiliate.escapehouse.sk | cz.affilbox.cz |
 | affiliate.esensino.cz | cz.affilbox.cz |
 | affiliate.esensino.sk | cz.affilbox.cz |
@@ -587,6 +588,7 @@
 | partner.luckyalvin.cz | cz.affilbox.cz |
 | partner.lyzelyze.cz | cz.affilbox.cz |
 | partner.madio.cz | cz.affilbox.cz |
+| partner.majtki.cz | cz.affilbox.cz |
 | partner.malujpodlecisel.cz | cz.affilbox.cz |
 | partner.marspom.cz | cz.affilbox.cz |
 | partner.martinreznicek.cz | cz.affilbox.cz |
@@ -611,6 +613,7 @@
 | partner.nanolab.cz | cz.affilbox.cz |
 | partner.naplne.cz | cz.affilbox.cz |
 | partner.naseano.cz | cz.affilbox.cz |
+| partner.naslouchamesrdcem.cz | cz.affilbox.cz |
 | partner.natubea.cz | cz.affilbox.cz |
 | partner.nejlepsi-darecky.cz | cz.affilbox.cz |
 | partner.neviditelnepradlo.cz | cz.affilbox.cz |
@@ -883,6 +886,7 @@
 | special.kvetinyexpres.cz | cz.affilbox.cz |
 | splatky.aquatrend.sk | cz.affilbox.cz |
 | spolu.kuskakaa.cz | cz.affilbox.cz |
+| spoluhraci.decathlon.cz | cz.affilbox.cz |
 | spoluprace.amalcino.cz | cz.affilbox.cz |
 | spoluprace.aretacni-pripravky.cz | cz.affilbox.cz |
 | spoluprace.bafoo.cz | cz.affilbox.cz |

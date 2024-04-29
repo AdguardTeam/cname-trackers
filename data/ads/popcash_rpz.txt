@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713772807554        ; Serial
+           1714377607736        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ cdn.cjlph.com CNAME .
 cdn.clbaf.com CNAME .
 cdn.crsope.com CNAME .
 cdn.cryjun.com CNAME .
+cdn.dajkq.com CNAME .
 cdn.dawplm.com CNAME .
 cdn.decpo.xyz CNAME .
 cdn.delutza.com CNAME .
@@ -110,6 +111,7 @@ cdn.puyjjq.com CNAME .
 cdn.puysis.com CNAME .
 cdn.qgerr.com CNAME .
 cdn.quagfa.com CNAME .
+cdn.rapolok.com CNAME .
 cdn.rausfml.com CNAME .
 cdn.rawqel.com CNAME .
 cdn.rgrd.xyz CNAME .
@@ -290,7 +292,6 @@ capybara.randyhamiltonelectric.com CNAME .
 cardinal.businessfirstonline.co.uk CNAME .
 cardinal.ensembleblock.com CNAME .
 cardinal.genx.be CNAME .
-cardinal.iwgb.org.uk CNAME .
 cardinal.newman.is CNAME .
 cardinal.zenting.app CNAME .
 caribou.clintgwinter.com CNAME .
@@ -555,7 +556,6 @@ heron.joel.is CNAME .
 heron.morphiq.digital CNAME .
 heron.notability.com CNAME .
 heron.oneaudiobooks.app CNAME .
-heron.scarletnoir.co CNAME .
 herring.artemis.cloud CNAME .
 herring.panda.network CNAME .
 herring.superfast.dev CNAME .
@@ -743,7 +743,6 @@ mouse.anthony-noel.com CNAME .
 mouse.botreach.co CNAME .
 mule.caddyserver.com CNAME .
 mule.pricelessai.com CNAME .
-mule.reel.so CNAME .
 muskox.appital.io CNAME .
 narwhal.bounty.studio CNAME .
 newt.javier.dev CNAME .
@@ -992,6 +991,7 @@ tern.xebel.co CNAME .
 tick.pcrpriser.se CNAME .
 tick.sculch.app CNAME .
 tigershark.garethtdavies.com CNAME .
+tigershark.integratecolumbus.org CNAME .
 tigershark.moonpot.com CNAME .
 tigershark.paavanmagic.com CNAME .
 tigershark.samwaymire.com CNAME .

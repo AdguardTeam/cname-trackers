@@ -761,6 +761,7 @@
 | friend.discover.com | discover-student-loan.extole.io |
 | friend.discoverstudentloans.com | discover-student-loan.extole.io |
 | refer.discover.com | discover.extole.com |
+| refer.discovercard.com | discover.extole.com |
 | refer.divvybikes.com | divvybikes.extole.com |
 | refer.dnj.com | dnj.extole.com |
 | refer1.dollskill.com | dolls-kill.extole.io |
@@ -978,6 +979,7 @@
 | businessreferrals.lumen.com | lumen.extole.io |
 | refer.quantumfiber.com | lumen.extole.io |
 | referrals.lumen.com | lumen.extole.io |
+| score.lumen.com | lumen.extole.io |
 | refer.lymphedemaproducts.com | lymphedemaproducts.extole.com |
 | share.maccosmetics.com.au | mac-cosmetics.extole.io |
 | share.refer-maccosmetics.com.tw | mac-cosmetics.extole.io |

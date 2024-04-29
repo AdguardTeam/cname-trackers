@@ -180,6 +180,10 @@
 | tk.verisure.fr | tk-verisure-fr.wizaly.com |
 | tk.viapresse.com | tk-viapresse-com.wizaly.com |
 | tk.zenpark.com | tk-zenpark-com.wizaly.com |
+| tk.boutique.capital.fr | tk_prismashop_fr.wizaly.com |
+| tk.boutique.geo.fr | tk_prismashop_fr.wizaly.com |
+| tk.boutique.hbrfrance.fr | tk_prismashop_fr.wizaly.com |
+| tk.boutique.voici.fr | tk_prismashop_fr.wizaly.com |
 | tk.prismashop.fr | tk_prismashop_fr.wizaly.com |
 | tk.transavia.com | tk_transavia_com.wizaly.com |
 | tk.airfrance.ae | tkairfrance.wizaly.com |

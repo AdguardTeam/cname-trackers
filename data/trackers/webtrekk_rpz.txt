@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713772807554        ; Serial
+           1714377607736        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -67,6 +67,7 @@ census.misterspex.at CNAME .
 census.misterspex.no CNAME .
 count.bank99.at CNAME .
 ctdfm.ilgiornale.it CNAME .
+ctrkd.ilsole24ore.com CNAME .
 da.bodenhaus.de CNAME .
 da.hornbach.at CNAME .
 da.hornbach.be CNAME .
@@ -81,6 +82,7 @@ da.hornbach.sk CNAME .
 data.adlermode.com CNAME .
 data.all-in.de CNAME .
 data.allgaeuer-zeitung.de CNAME .
+data.babista.de CNAME .
 data.campaign.prenatal.com CNAME .
 data.campaign.toyscenter.it CNAME .
 data.charles-colby.com CNAME .
@@ -164,6 +166,11 @@ info.genialklick.ch CNAME .
 info.klett-sprachen.de CNAME .
 intelligence.officialwesthamstore.com CNAME .
 is.lg.com CNAME .
+joda.corriereadriatico.it CNAME .
+joda.ilgazzettino.it CNAME .
+joda.ilmattino.it CNAME .
+joda.ilmessaggero.it CNAME .
+joda.leggo.it CNAME .
 joda.quotidianodipuglia.it CNAME .
 lax.data.srf.ch CNAME .
 mapp.ewm.co.uk CNAME .
@@ -173,12 +180,15 @@ mapp.peacocks.co.uk CNAME .
 mapp.yesstyle.com CNAME .
 mff.messefrankfurt.com CNAME .
 mit.bhw.de CNAME .
+mit.db.com CNAME .
 mit.deutsche-bank.de CNAME .
+mit.deutschebank.be CNAME .
 mit.deutschewealth.com CNAME .
 mit.dslbank.de CNAME .
 mit.dws.com CNAME .
 mit.dws.de CNAME .
 mit.postbank.de CNAME .
+mit.researchlog.db.com CNAME .
 mit.researchlog.dbresearch.com CNAME .
 mit.researchlog.dbresearch.de CNAME .
 nov.data.srf.ch CNAME .
@@ -197,6 +207,7 @@ ot.obi.pl CNAME .
 ot.obi.si CNAME .
 ot.obi.sk CNAME .
 pix.airbusgroup.com CNAME .
+pix.telekom.com CNAME .
 proditor.sparda.de CNAME .
 prophet.heise-academy.de CNAME .
 s5.data.srf.ch CNAME .
@@ -215,9 +226,11 @@ scout.bergfreunde.no CNAME .
 scout.bergfreunde.se CNAME .
 stage.www.data.srf.ch CNAME .
 startrekk.flaconi.at CNAME .
+startrekk.flaconi.ch CNAME .
 startrekk.flaconi.fr CNAME .
 startrekk.flaconi.pl CNAME .
 statistics.tuv.com CNAME .
+t.mediaset.it CNAME .
 text.benefitsatwork.be CNAME .
 text.benefitsatwork.ch CNAME .
 text.benefitsatwork.pl CNAME .
@@ -315,10 +328,12 @@ web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
 web.marcotozzi.com CNAME .
 web.marketing.elbenwald.de CNAME .
+web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.creedfragrances.co.uk CNAME .
 web.news.dixiefashion.com CNAME .
 web.news.eprice.it CNAME .
+web.news.gnv.it CNAME .
 web.news.imperialfashion.com CNAME .
 web.news.lancel.com CNAME .
 web.news.paganistore.com CNAME .
@@ -329,7 +344,6 @@ web.newsletter.koffer-to-go.de CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.newsletterit.esprinet.com CNAME .
 web.online.monnalisa.com CNAME .
-web.pages.lloydspharmacy.com CNAME .
 web.redazione.milanofinanza.it CNAME .
 web.sensilab.com CNAME .
 web.sensilab.cz CNAME .
@@ -401,4 +415,3 @@ wttd.madeleine.co.uk CNAME .
 wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
-web.marketing.jellybelly.com CNAME .

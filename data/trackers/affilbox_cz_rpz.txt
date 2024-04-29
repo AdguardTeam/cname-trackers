@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713772807554        ; Serial
+           1714377607736        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -144,6 +144,7 @@ affiliate.elektronickeobojkypropsy.cz CNAME .
 affiliate.elisdesign.cz CNAME .
 affiliate.ellex.cz CNAME .
 affiliate.epohledavky.cz CNAME .
+affiliate.eros.sk CNAME .
 affiliate.escapehouse.sk CNAME .
 affiliate.esensino.cz CNAME .
 affiliate.esensino.sk CNAME .
@@ -579,6 +580,7 @@ partner.ltx.cz CNAME .
 partner.luckyalvin.cz CNAME .
 partner.lyzelyze.cz CNAME .
 partner.madio.cz CNAME .
+partner.majtki.cz CNAME .
 partner.malujpodlecisel.cz CNAME .
 partner.marspom.cz CNAME .
 partner.martinreznicek.cz CNAME .
@@ -603,6 +605,7 @@ partner.muzskykruh.cz CNAME .
 partner.nanolab.cz CNAME .
 partner.naplne.cz CNAME .
 partner.naseano.cz CNAME .
+partner.naslouchamesrdcem.cz CNAME .
 partner.natubea.cz CNAME .
 partner.nejlepsi-darecky.cz CNAME .
 partner.neviditelnepradlo.cz CNAME .
@@ -875,6 +878,7 @@ royalfamily.royalchaga.sk CNAME .
 special.kvetinyexpres.cz CNAME .
 splatky.aquatrend.sk CNAME .
 spolu.kuskakaa.cz CNAME .
+spoluhraci.decathlon.cz CNAME .
 spoluprace.amalcino.cz CNAME .
 spoluprace.aretacni-pripravky.cz CNAME .
 spoluprace.bafoo.cz CNAME .

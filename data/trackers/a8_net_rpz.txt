@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1713772807554        ; Serial
+           1714377607736        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -110,6 +110,7 @@ a8.eonet.ne.jp CNAME .
 a8.epauler.co.jp CNAME .
 a8.epo.info CNAME .
 a8.erasutamo.onlinestaff.jp CNAME .
+a8.everest.ac CNAME .
 a8.evertrust-inc.com CNAME .
 a8.exam-katekyo.com CNAME .
 a8.exetime.jp CNAME .
@@ -270,6 +271,7 @@ a8.sakuramobile.jp CNAME .
 a8.sakuratravel.jp CNAME .
 a8.sara-uv.com CNAME .
 a8.schecon.com CNAME .
+a8.seifu-ac.jp CNAME .
 a8.seminarshelf.com CNAME .
 a8.sennendo.jp CNAME .
 a8.sharefull.com CNAME .
@@ -333,6 +335,7 @@ a8.uchi-iwai.net CNAME .
 a8.uchideno-kozuchi.com CNAME .
 a8.uluwatutiger.com CNAME .
 a8.unicoffee.tech CNAME .
+a8.uridoki.net CNAME .
 a8.uzuz-college.jp CNAME .
 a8.vector-park.jp CNAME .
 a8.vie-magique.com CNAME .
@@ -888,6 +891,7 @@ a8cv.entry.renet.jp CNAME .
 a8cv.euria.store CNAME .
 a8cv.exrg-premium.shop CNAME .
 a8cv.eys-musicschool.com CNAME .
+a8cv.f.012grp.co.jp CNAME .
 a8cv.factoringzero.jp CNAME .
 a8cv.fafa-shop.com CNAME .
 a8cv.favorric.com CNAME .
@@ -1005,7 +1009,6 @@ a8cv.kkmatsusho.jp CNAME .
 a8cv.kn-waterserver.com CNAME .
 a8cv.kobe38.com CNAME .
 a8cv.kosodatemoney.com CNAME .
-a8cv.kstarselect.com CNAME .
 a8cv.kuih.jp CNAME .
 a8cv.kurashi-bears.com CNAME .
 a8cv.kusmitea.jp CNAME .
@@ -1135,6 +1138,7 @@ a8cv.runteq.jp CNAME .
 a8cv.ryomon.jp CNAME .
 a8cv.s-darts.com CNAME .
 a8cv.sabusuta.jp CNAME .
+a8cv.safetycart.jp CNAME .
 a8cv.saitoma.com CNAME .
 a8cv.sakura-forest.com CNAME .
 a8cv.sanix.jp CNAME .

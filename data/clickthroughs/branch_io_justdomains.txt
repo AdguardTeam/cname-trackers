@@ -25,6 +25,7 @@
 3889082.dev.att.llabs.io
 5363316.marketing.numi.com
 5363316.trackerinfo.southbeachdiet.com
+5709751.ab.soul-cycle.email
 6068372.huckleberry-labs.com
 6519114.automated.almosafer.com
 6519114.automated.tajawal.com
@@ -52,6 +53,7 @@ a.hibbett.com
 ablink.1954.bk.com
 ablink.8email.eightsleep.com
 ablink.a.radio.com
+ablink.account.etsy.com
 ablink.account.one.app
 ablink.account.zip.co
 ablink.activation.depop.com
@@ -185,6 +187,7 @@ ablink.track.popeyes.com
 ablink.track.timhortons.ca
 ablink.track.timhortons.com
 ablink.uat.enjoy.wonder.com
+ablink.update.one.app
 ablink.updates.creator.shopltk.com
 ablink.updates.gooseinsurance.com
 ablink.your-way.bk.com
@@ -374,6 +377,7 @@ dl.orders.accredo.com
 dl.orders.express-scripts.com
 dl.zola.com
 e.e.themighty.com
+e.info.levi.com
 e.mail.levi.com
 e.synchronybank.com
 elijah.tantawy.app
@@ -512,6 +516,7 @@ emails.watchown.tv
 emlink.hermo.my
 emm.ca.puma.com
 emm.us.puma.com
+eu.mail.levi.com
 expertsender.branch.rocks
 go.emails.discoveryplus.com
 go.gaia.com
@@ -710,6 +715,7 @@ linktrace.diningcity.cn
 lnk2.patpat.com
 m.irlmail.org
 m1.stadiumgoods.com
+mail.blueapronwine.com
 mail.bravado.co
 mail.central.co.th
 mandrillapp.zola.com
@@ -800,6 +806,7 @@ trkemail.luisaviaroma.com
 trklink.luisaviaroma.com
 url1020.keycollectorcomics.com
 url1445.affirm.com
+url1451.careerkarma.info
 url1741.linktr.ee
 url1981.jhutnick.tantawy.app
 url2031.lemonaidhealth.com
@@ -1086,7 +1093,6 @@ app.gogovan.sg
 app.gogovan.tw
 app.goodiez.io
 app.goodwearmall.com
-app.gopib.net
 app.goqii.com
 app.got-it.link
 app.grabon.in
@@ -1202,6 +1208,7 @@ app.nursef.ly
 app.ocamping.fr
 app.oceans.io
 app.ofisten.com
+app.ollepass.org
 app.onet.pl
 app.onyx.fit
 app.onyxcharge.com
@@ -1219,7 +1226,6 @@ app.pawsket.com
 app.payomatic.com
 app.payon.mn
 app.pdf.ac
-app.pethoops.com
 app.pickwin.net
 app.pickyourtrail.com
 app.pixapp.com
@@ -1281,7 +1287,6 @@ app.stagingsimpl.com
 app.straitpay.com
 app.stressbuoy.com
 app.studios.brain.ai
-app.subs.tv
 app.sunstone.in
 app.swari.in
 app.sweeps.fyi
@@ -1459,7 +1464,6 @@ b.chme.io
 b.ewd.io
 b.ezyd.in
 b.gett.com
-b.home.com.au
 b.pickme.lk
 b.pscp.live
 b.sharechat.com
@@ -1581,7 +1585,6 @@ branch.mapstr.com
 branch.myoyster.mx
 branch.olamoney.com
 branch.oneroof.co.nz
-branch.oraleye.com
 branch.parkingpanda.com
 branch.quantic.edu
 branch.rejuvenan.com
@@ -1829,6 +1832,7 @@ deeplink.mobile360.io
 deeplink.newsandbox.notarycam.com
 deeplink.oxstreet.com
 deeplink.ring.md
+deeplink.the-secret-society.com
 deeplink.tytod.com
 deeplink.wagr.ai
 deeplink.wbnc.99array.com
@@ -2420,6 +2424,7 @@ go.southafrica.innovatedating.com
 go.southafricacupid.co
 go.spain.innovatedating.com
 go.spot.com
+go.stagger.co
 go.staging.hbnb.io
 go.steps.me
 go.stgapp.sharekey.com
@@ -2671,6 +2676,7 @@ l-t.topya.com
 l-test.civic.com
 l-test.guesthug.com
 l.apna.co
+l.arbor.news
 l.arborit.ai
 l.audibook.si
 l.azarlive.com
@@ -2799,9 +2805,11 @@ link.ascension-app.com
 link.atlys.com
 link.augmentedreality.jlg.com
 link.auraframes.com
+link.author-tag.com
 link.avenue.us
 link.axshealthapp.com
 link.babyquip.com
+link.baliapp.com
 link.bazery.com
 link.beebs.app
 link.beforekick.com
@@ -2988,6 +2996,7 @@ link.joinswoop.com
 link.joinworkpass.com
 link.joyraft.com
 link.justincase.jp
+link.keela.app
 link.kidfund.us
 link.kidzapp.com
 link.killi.io
@@ -2995,6 +3004,7 @@ link.kindred.co
 link.kitchnrock.com
 link.kofiz.ru
 link.kulina.id
+link.lawnlo.com
 link.lcdg.io
 link.lead-out-app-staging.specialized.com
 link.lead-out-app.specialized.com
@@ -3093,6 +3103,7 @@ link.qanva.st
 link.qeenatha.com
 link.qp.me
 link.quicktakes.io
+link.raa.com.au
 link.radiotunes.com
 link.rangde.in
 link.rc.faithplay.com
@@ -3473,6 +3484,7 @@ ml.houzz.com
 mlinkdev.bookedout.com
 mm.openapp.link
 mobile-app.luminpdf.com
+mobile-event-alternative.cvent.me
 mobile-event-development.cvent.me
 mobile-event.cvent.me
 mobile.aspensnowmass.com
@@ -3539,6 +3551,7 @@ oferte.cos2000.ro
 on.allposters.com
 on.art.com
 on.hellostake.com
+onarrival-event.cvent.me
 one.appice.io
 one.godigit.com
 onelink.taptalk.io
@@ -3747,6 +3760,7 @@ s.chatie.ai
 s.grabble.com
 s.grigora.com
 s.imagica.ai
+s.jugnoo.in
 s.mygl.in
 s.myvoleo.com
 s.nextblock.sg
@@ -3953,6 +3967,7 @@ stg.join.airvet.com
 store.echovisuals.com
 store.esquirrel.at
 stream.9now.com.au
+students.saarthipedagogy.com
 studio.joinsalut.com
 subito.openapp.link
 summary.instaread.co
@@ -3989,6 +4004,7 @@ test-link.electrover.se
 test-link.foodiapp.com
 test-link.hellobeerapp.com
 test-link.payulatam.com
+test-link.rmbr.in
 test-link.stabilitas.io
 test-link.touchsurgery.com
 test-link.tradle.io
@@ -4198,4 +4214,3 @@ txt.appcity.com.au
 welcome.peek.com
 www.branch.rocks
 branch.servingchefs.com
-get.flareapp.co

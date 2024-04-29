@@ -62,6 +62,7 @@
 ||apis.4bn.xyz^
 ||app-stats.supernotes.app^
 ||artistchristinacarmel.ericksonbuilt.com^
+||assets.garron.blog^
 ||assets.garron.me^
 ||assets.mikeroulston.com^
 ||assets.modeathletics.com^

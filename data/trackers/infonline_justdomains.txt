@@ -1411,7 +1411,6 @@ data-a6faa6efe2.thueringen-gedenkt.de
 data-a76072cba2.sbz-monteur.de
 data-a764ba99aa.das-pta-magazin.de
 data-a77fb9b63f.osthessen-news.de
-data-a784464fa2.femeda.de
 data-a7a0d7a6db.brigitte.de
 data-a7a0d7a6db.bym.de
 data-a7a8261f38.apps.iocnt.de
@@ -1819,6 +1818,7 @@ data-d9c82db6b2.motor.at
 data-da1d9cc48a.osthessen-news.de
 data-da8b646558.dieniederoesterreicherin.at
 data-daaad80bda.babelli.de
+data-daab9294a5.eatclub.tv
 data-dae559c4b7.ejz.de
 data-db0ecef264.trafikantenzeitung.at
 data-db3e9abc5d.muensterschezeitung.de
@@ -1863,6 +1863,7 @@ data-e138bc4173.apps.iocnt.de
 data-e159daf928.obermain.de
 data-e16817998e.apps.iocnt.de
 data-e16c65ad3c.antennevorarlberg.at
+data-e18f7c3e0e.bib.dormagen.de
 data-e1f099aeb5.apps.iocnt.de
 data-e2b70f0c07.lb-oldenburg.de
 data-e337e2a6a8.kuechenplaner-magazin.de
