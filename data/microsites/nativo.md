@@ -10,6 +10,7 @@
 
 ### Rarely active trackers
 
+* 548260.parkingcrew.net
 * jadserve.postrelease.com.akadns.net
 * unavailable.hearstnp.com
 * a1082.g.akamai.net
@@ -18,23 +19,27 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| 0b615d2390.53570bbe42.com | 548260.parkingcrew.net |
+| 96d4f49a24.035adbe0d7.com | 548260.parkingcrew.net |
 | img.nativo.net | a1082.g.akamai.net |
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
-| a135.fox23.com | jadserve.postrelease.com |
 | a135.wftv.com | jadserve.postrelease.com |
-| a135.wpxi.com | jadserve.postrelease.com |
-| a135.wsbtv.com | jadserve.postrelease.com |
-| a135.wsoctv.com | jadserve.postrelease.com |
 | a614.al.com | jadserve.postrelease.com |
-| a614.masslive.com | jadserve.postrelease.com |
-| a614.mlive.com | jadserve.postrelease.com |
-| a614.nj.com | jadserve.postrelease.com |
-| a614.pennlive.com | jadserve.postrelease.com |
 | mlive.share.ntv.io | jadserve.postrelease.com |
 | share.ntv.io | jadserve.postrelease.com |
 | shared.sponsoredcontent.com | jadserve.postrelease.com |
+| a135.fox23.com | jadserve.postrelease.com.akadns.net |
 | a135.wftv.com | jadserve.postrelease.com.akadns.net |
+| a135.wpxi.com | jadserve.postrelease.com.akadns.net |
+| a135.wsbtv.com | jadserve.postrelease.com.akadns.net |
+| a135.wsoctv.com | jadserve.postrelease.com.akadns.net |
+| a614.al.com | jadserve.postrelease.com.akadns.net |
+| a614.masslive.com | jadserve.postrelease.com.akadns.net |
+| a614.mlive.com | jadserve.postrelease.com.akadns.net |
+| a614.nj.com | jadserve.postrelease.com.akadns.net |
+| a614.pennlive.com | jadserve.postrelease.com.akadns.net |
+| mlive.share.ntv.io | jadserve.postrelease.com.akadns.net |
 | share.ntv.io | jadserve.postrelease.com.akadns.net |
 | shared.sponsoredcontent.com | jadserve.postrelease.com.akadns.net |
 | 0179234cdb.3201cba126.com | ntvpforever.com |
@@ -53,7 +58,6 @@
 | 09235b218b.8c4b010d44.com | ntvpforever.com |
 | 0b1b9dbb23.2b60794b99.com | ntvpforever.com |
 | 0b4dd9af1d.d2cc4794b1.com | ntvpforever.com |
-| 0b615d2390.53570bbe42.com | ntvpforever.com |
 | 0b8d3535ca.d675b32d34.com | ntvpforever.com |
 | 0c5395c299.f7144ba33d.com | ntvpforever.com |
 | 0c5b5ba32e.bf0a4afaf5.com | ntvpforever.com |
@@ -61,7 +65,6 @@
 | 0ebc52a9c6.c981f87754.com | ntvpforever.com |
 | 0f0249e503.533e4e8be4.com | ntvpforever.com |
 | 106dff4241.f5b40df5e2.com | ntvpforever.com |
-| 107a0e458a.93bc17bf29.com | ntvpforever.com |
 | 10a614120a.419dc53dcd.com | ntvpforever.com |
 | 116f21a281.7fbe2fd8a8.com | ntvpforever.com |
 | 1173fc98f8.871981043f.com | ntvpforever.com |
@@ -77,12 +80,14 @@
 | 1ba7882463.cf6ab9a135.com | ntvpforever.com |
 | 1e32421487.c9ff2ca544.com | ntvpforever.com |
 | 1f630c0f37.da5ac5f203.com | ntvpforever.com |
+| 1f659ac3f1.fea3389c8c.com | ntvpforever.com |
 | 201efd9d67.c3af119d07.com | ntvpforever.com |
 | 212dc8d866.4a4a9db4ab.com | ntvpforever.com |
 | 213d2867ca.22ddebb169.com | ntvpforever.com |
 | 217bf5cc5e.ad70bbfb11.com | ntvpforever.com |
 | 240f1e8590.da1bfba70b.com | ntvpforever.com |
 | 25f07559f6.85d2ae7308.com | ntvpforever.com |
+| 271bc17eeb.000a0aa565.com | ntvpforever.com |
 | 276fbbc3fa.b5cecad47f.com | ntvpforever.com |
 | 2899425181.c169b1582f.com | ntvpforever.com |
 | 2957601840.561bf1cf0d.com | ntvpforever.com |
@@ -90,7 +95,6 @@
 | 2a4f7c2be4.558c41c6ef.com | ntvpforever.com |
 | 2a5f6f9e90.b07109f884.com | ntvpforever.com |
 | 2a6b16dfe0.667fa1e9d4.com | ntvpforever.com |
-| 2abf7576ac.4fbe7621b8.com | ntvpforever.com |
 | 2c83d2caf6.d067641e02.com | ntvpforever.com |
 | 2caf7c08e0.fa84f180d1.com | ntvpforever.com |
 | 2e29d385db.416deca3db.com | ntvpforever.com |
@@ -123,11 +127,11 @@
 | 3d247a90c0.6b3f9be238.com | ntvpforever.com |
 | 3e52d539f2.7a2cb45927.com | ntvpforever.com |
 | 3f0b044b3e.ae9e2e4778.com | ntvpforever.com |
-| 3f38af9a78.290103cae6.com | ntvpforever.com |
 | 40ad005006.5193d620ce.com | ntvpforever.com |
 | 40b82a603b.eb716c1b4f.com | ntvpforever.com |
 | 41a90d0edd.0f0b46245d.com | ntvpforever.com |
 | 433bb3d20f.6542309b8a.com | ntvpforever.com |
+| 43b71e837e.d8388cd984.com | ntvpforever.com |
 | 4421e23b04.5e4563e9d9.com | ntvpforever.com |
 | 44de14362b.db7a44a117.com | ntvpforever.com |
 | 44feefddd1.08af00cd9e.com | ntvpforever.com |
@@ -150,8 +154,6 @@
 | 50c702568d.5305c68a0b.com | ntvpforever.com |
 | 50f0f4c399.3acf699e5d.com | ntvpforever.com |
 | 518b98b921.7ecd70404f.com | ntvpforever.com |
-| 52b517df93.d26b092649.com | ntvpforever.com |
-| 5366c7a4fb.a74242f89f.com | ntvpforever.com |
 | 53b06a6b24.b30674b49e.com | ntvpforever.com |
 | 53c3c44b72.a29172073b.com | ntvpforever.com |
 | 55479d4a4f.e97fff7188.com | ntvpforever.com |
@@ -163,8 +165,9 @@
 | 5a8545631e.47500e7317.com | ntvpforever.com |
 | 5ace42af7e.e2d79d2c74.com | ntvpforever.com |
 | 5b6710fae7.e841afabc8.com | ntvpforever.com |
+| 5d39fe7c75.2ac4fce9b8.com | ntvpforever.com |
+| 5dc5532e35.6a377e2b5c.com | ntvpforever.com |
 | 5ea8f33fb6.61c6379963.com | ntvpforever.com |
-| 5f50953e05.4a277bbf1a.com | ntvpforever.com |
 | 5fb5f9ab05.75bbc9191d.com | ntvpforever.com |
 | 6002296e53.64df8e1c63.com | ntvpforever.com |
 | 60152c575a.015fcec3c6.com | ntvpforever.com |
@@ -172,7 +175,6 @@
 | 621c57d6a4.6e76e4803d.com | ntvpforever.com |
 | 62c8cf5cd7.9f30f66189.com | ntvpforever.com |
 | 62cfc0b462.5a46641450.com | ntvpforever.com |
-| 62eddc0f6a.f984e0d579.com | ntvpforever.com |
 | 633d3edac4.7b494b2884.com | ntvpforever.com |
 | 6381b70b69.4a08d2ff2c.com | ntvpforever.com |
 | 63b41fa702.81a3bb38fb.com | ntvpforever.com |
@@ -186,6 +188,7 @@
 | 68c2f33440.691c37268a.com | ntvpforever.com |
 | 696a867e8a.e048fe379c.com | ntvpforever.com |
 | 69bd7e11c0.21f926d5ab.com | ntvpforever.com |
+| 69bd97630e.9460a8c99f.com | ntvpforever.com |
 | 6a29d7211a.502c849091.com | ntvpforever.com |
 | 6a5bc5ad4b.a0a8053f14.com | ntvpforever.com |
 | 6b4f801684.22ecbd33ca.com | ntvpforever.com |
@@ -208,7 +211,6 @@
 | 78f4639022.81f96b7f09.com | ntvpforever.com |
 | 7917287eb1.9978689407.com | ntvpforever.com |
 | 7a2d2c66d3.4b6563a120.com | ntvpforever.com |
-| 7b72e40059.4e5d31aaea.com | ntvpforever.com |
 | 7b808c74be.f3277f96a7.com | ntvpforever.com |
 | 7d6e3e04ac.6580789546.com | ntvpforever.com |
 | 7d8f4c4c3d.bca286d743.com | ntvpforever.com |
@@ -234,11 +236,9 @@
 | 91f28dca60.47216dc00b.com | ntvpforever.com |
 | 92b943ed26.6bda3ba403.com | ntvpforever.com |
 | 9323b0c766.5ffdc5b302.com | ntvpforever.com |
-| 935d005ddf.42aa201382.com | ntvpforever.com |
 | 9457e425ad.a716b318c7.com | ntvpforever.com |
 | 9590c92334.e0a38ec1d8.com | ntvpforever.com |
 | 9625e76603.9168bb21b4.com | ntvpforever.com |
-| 96d4f49a24.035adbe0d7.com | ntvpforever.com |
 | 9886b79e62.b785f3975b.com | ntvpforever.com |
 | 99074fec15.3553cadb79.com | ntvpforever.com |
 | 990a2f6c18.b0624e3ea6.com | ntvpforever.com |
@@ -251,13 +251,13 @@
 | 9d844b1143.7f00f312e5.com | ntvpforever.com |
 | 9e635b1caf.4afa370227.com | ntvpforever.com |
 | 9e813c2770.3227a4c431.com | ntvpforever.com |
-| 9ea415bca3.0816086bd1.com | ntvpforever.com |
 | 9f3c62edd5.b3742d97fe.com | ntvpforever.com |
 | 9fd272d79c.2f16d429ce.com | ntvpforever.com |
 | a0603102f5.5a9b48f0db.com | ntvpforever.com |
 | a15d7c11f7.4e2c896383.com | ntvpforever.com |
 | a18707820b.20001d1a3a.com | ntvpforever.com |
 | a9d40d3ddf.7811f1c9ec.com | ntvpforever.com |
+| abd749242d.6e12f10bdb.com | ntvpforever.com |
 | ac91c791af.33508a34c3.com | ntvpforever.com |
 | acb1c4e96e.41033fcd44.com | ntvpforever.com |
 | af03fbdca2.b7bd9f452b.com | ntvpforever.com |
@@ -299,6 +299,7 @@
 | ca149d02d1.ac14b9b34e.com | ntvpforever.com |
 | ca4c1f8493.e49638124f.com | ntvpforever.com |
 | cb2c6b9450.b12c138b39.com | ntvpforever.com |
+| cb69c2885d.c14a183a52.com | ntvpforever.com |
 | cc363782e3.03a17e7986.com | ntvpforever.com |
 | ccd2b46006.5cbaede643.com | ntvpforever.com |
 | ce972a61bd.38a2b8fa34.com | ntvpforever.com |
@@ -306,6 +307,7 @@
 | cee1ead9b3.fd3b334d49.com | ntvpforever.com |
 | d096f50112.f80ab194b8.com | ntvpforever.com |
 | d2495c1a07.7e4eb2b5eb.com | ntvpforever.com |
+| d2a500bd5e.87b7754886.com | ntvpforever.com |
 | d367720a8b.0faf13d8ae.com | ntvpforever.com |
 | d36da22dfe.03c091d65a.com | ntvpforever.com |
 | d4a90e546a.11a6670e45.com | ntvpforever.com |
@@ -368,7 +370,6 @@
 | fc2cea8e51.31a422feac.com | ntvpforever.com |
 | fc5f6008bc.6006833376.com | ntvpforever.com |
 | fd3a5d1372.b435c33c6c.com | ntvpforever.com |
-| fd91b5c89c.fb2d1abede.com | ntvpforever.com |
 | fe62bfc689.a7f3b65b6b.com | ntvpforever.com |
 | fe6d137dae.737d62f0c1.com | ntvpforever.com |
 | fea6607a84.555dcda495.com | ntvpforever.com |

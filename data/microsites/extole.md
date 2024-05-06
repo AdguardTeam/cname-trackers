@@ -407,6 +407,7 @@
     * opploans.extole.io
     * orbitz.extole.io
     * origins.extole.io
+    * owc.extole.io
     * pacific-service.extole.io
     * pacsafe.extole.io
     * pacu.extole.io
@@ -523,6 +524,7 @@
     * thewildest.extole.io
     * thirdlove.extole.io
     * tillys.extole.io
+    * tireagent.extole.io
     * todoist.extole.io
     * tommy.extole.io
     * tomorrowsleep.extole.io
@@ -541,6 +543,7 @@
     * under-armour.extole.io
     * uniqlo.extole.io
     * united.extole.io
+    * urbanmop.extole.io
     * useagle.extole.io
     * uvacreditunion.extole.io
     * vayasleep.extole.io
@@ -1030,6 +1033,7 @@
 | refer.orbitz.com | orbitz.extole.io |
 | refer.orientaltrading.com | oriental-trading.extole.com |
 | share.origins.com | origins.extole.io |
+| share.macsales.com | owc.extole.io |
 | refer.ofx.com | ozforex-au.extole.com |
 | refer.ozforex.com.au | ozforex-au.extole.com |
 | refer.nzforex.co.nz | ozforex-nz.extole.com |
@@ -1199,6 +1203,7 @@
 | refer.thirdlove.com | thirdlove.extole.io |
 | share.tillys.com | tillys.extole.io |
 | refer.timberland.com | timberland.extole.com |
+| share.tireagent.com | tireagent.extole.io |
 | refer.sharetodoist.com | todoist.extole.io |
 | share.tommy.com | tommy.extole.io |
 | refer.tomorrowsleep.com | tomorrowsleep.extole.io |
@@ -1235,6 +1240,7 @@
 | refer-us.uniqlo.com | uniqlo.extole.io |
 | share.united.net | united.extole.io |
 | refer.urbandaddy.com | urbandaddyperks.extole.com |
+| share.urbanmop.ca | urbanmop.extole.io |
 | share.useagle.org | useagle.extole.io |
 | friends.uvacreditunion.org | uvacreditunion.extole.io |
 | refer.vayasleep.com | vayasleep.extole.io |

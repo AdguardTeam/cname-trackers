@@ -748,6 +748,7 @@ data-574debde52.bunte.de
 data-574debde52.focus.de
 data-579dbb4ef1.airliners.de
 data-57b3173bb4.wallstreet-online.de
+data-57e4acce5f.oe24radio.at
 data-57ee451953.apps.iocnt.de
 data-583b460b43.edison.media
 data-583ff8cf8b.energate-messenger.de
@@ -1762,6 +1763,7 @@ data-cfdfd62451.apps.iocnt.de
 data-cfe819bed5.playboy.de
 data-d03ddf25a3.wissenschaft.de
 data-d0a45359d6.apps.iocnt.de
+data-d0d624845f.hcm-magazin.de
 data-d0efcc98f4.apps.iocnt.de
 data-d0f2ad8f69.apps.iocnt.de
 data-d14378f111.apps.iocnt.de
@@ -1886,6 +1888,7 @@ data-e54efb31a3.aachen-gratuliert.de
 data-e54efb31a3.aachener-zeitung.de
 data-e54efb31a3.fupa.net
 data-e54efb31a3.klenkes.de
+data-e58155ef3c.finden.at
 data-e58896b347.galileo.tv
 data-e623de9fda.finanzen100.de
 data-e623de9fda.focus.de

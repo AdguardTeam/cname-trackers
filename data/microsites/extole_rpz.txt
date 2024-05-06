@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -567,6 +567,7 @@ share.lifedna.com CNAME .
 share.livongo.com CNAME .
 share.lovesac.com CNAME .
 share.maccosmetics.com.au CNAME .
+share.macsales.com CNAME .
 share.maidpro.com CNAME .
 share.mamabearlegalforms.com CNAME .
 share.mansfieldnewsjournal.com CNAME .
@@ -679,6 +680,7 @@ share.theory.com CNAME .
 share.theoryoutlet.com CNAME .
 share.theprisonerwinecompany.com CNAME .
 share.tillys.com CNAME .
+share.tireagent.com CNAME .
 share.tommy.com CNAME .
 share.trafalgar.com CNAME .
 share.travelzoo.com CNAME .
@@ -686,6 +688,7 @@ share.truckstop.com CNAME .
 share.uk.theory.com CNAME .
 share.unchartedsociety.com CNAME .
 share.united.net CNAME .
+share.urbanmop.ca CNAME .
 share.usatoday.com CNAME .
 share.useagle.org CNAME .
 share.vcstar.com CNAME .

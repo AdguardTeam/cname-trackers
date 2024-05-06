@@ -68,6 +68,7 @@
     * h-5xx71132.online-metrix.net
     * h-68mv9954.online-metrix.net
     * h-6a6y6kka.online-metrix.net
+    * h-6bp8wff7.online-metrix.net
     * h-6e1hqgi3.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
     * h-6i24djkv.online-metrix.net
@@ -194,7 +195,7 @@
     * h-bewnb8q4.online-metrix.net
     * h-beyondbank.online-metrix.net
     * h-bfiiada3-a.online-metrix.net
-    * h-bhs5fatf.online-metrix.net
+    * h-bhs5fatf-2.online-metrix.net
     * h-bjrekxkm.online-metrix.net
     * h-blp4gupl.online-metrix.net
     * h-blueorangebank.online-metrix.net
@@ -668,6 +669,7 @@
     * h-v60nf4oj-rfp.online-metrix.net
     * h-v60nf4oj-sfp.online-metrix.net
     * h-v60nf4oj-tfp.online-metrix.net
+    * h-v60nf4oj-vfp.online-metrix.net
     * h-v60nf4oj-wfp.online-metrix.net
     * h-v60nf4oj-xfp.online-metrix.net
     * h-v60nf4oj-zfp.online-metrix.net
@@ -857,6 +859,7 @@
 | lncdn.goosehead.com | h-5xx71132.online-metrix.net |
 | fms-dev.citysavings.net.ph | h-68mv9954.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
+| device.register.greenlight.com | h-6bp8wff7.online-metrix.net |
 | tags.3ds.denizbank.at | h-6e1hqgi3.online-metrix.net |
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
 | cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
@@ -1015,7 +1018,7 @@
 | secure.idbank.it | h-bewnb8q4.online-metrix.net |
 | tmx.beyondbank.com.au | h-beyondbank.online-metrix.net |
 | jplspr.jackpot.com | h-bfiiada3-a.online-metrix.net |
-| content.byabcd.com | h-bhs5fatf.online-metrix.net |
+| content.byabcd.com | h-bhs5fatf-2.online-metrix.net |
 | custprof.t-mobile.com | h-bjrekxkm.online-metrix.net |
 | checkout.walz.de | h-blp4gupl.online-metrix.net |
 | stat.bluorbank.lv | h-blueorangebank.online-metrix.net |
@@ -1229,6 +1232,7 @@
 | wptm.worldvision.org | h-e0j3u9ji-wptm.online-metrix.net |
 | zacchaeus.logos.com | h-e0j3u9ji.online-metrix.net |
 | fdts.ebay-kleinanzeigen.de | h-ebay-kleinanzeigen.online-metrix.net |
+| fdts.kleinanzeigen.de | h-ebay-kleinanzeigen.online-metrix.net |
 | src.ebay-us.com | h-ebay.online-metrix.net |
 | content.ecampus.com | h-ecampus.online-metrix.net |
 | content1.esdiacapi.com | h-egs.online-metrix.net |
@@ -1444,7 +1448,6 @@
 | tulips.metrobankonline.co.uk | h-metrobank.online-metrix.net |
 | msimkpups.michaels.com | h-michaels.online-metrix.net |
 | vlscppe.microsoft.com | h-microsoft.online-metrix.net |
-| tmck.indigocard.com | h-milestonegoldcard.online-metrix.net |
 | tmck.milestonegoldcard.com | h-milestonegoldcard.online-metrix.net |
 | scdn.missionlane.com | h-missionlane.online-metrix.net |
 | directinfo.ib.mizuhobank.co.jp | h-mizuhobank.online-metrix.net |
@@ -1649,6 +1652,7 @@
 | rfp.intuit.com | h-v60nf4oj-rfp.online-metrix.net |
 | sfp.intuit.com | h-v60nf4oj-sfp.online-metrix.net |
 | tfp.intuit.com | h-v60nf4oj-tfp.online-metrix.net |
+| vfp.intuit.com | h-v60nf4oj-vfp.online-metrix.net |
 | wfp.intuit.com | h-v60nf4oj-wfp.online-metrix.net |
 | xfp.intuit.com | h-v60nf4oj-xfp.online-metrix.net |
 | zfp.intuit.com | h-v60nf4oj-zfp.online-metrix.net |

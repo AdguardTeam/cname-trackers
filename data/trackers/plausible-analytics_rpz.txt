@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,7 +20,6 @@ also.greatsecuritydebate.net CNAME .
 an.xavierrosee.com CNAME .
 analytics.adam.page CNAME .
 analytics.andrewsmith.com.au CNAME .
-analytics.angelina-fieber.com CNAME .
 analytics.arunraghavan.net CNAME .
 analytics.basistheory.com CNAME .
 analytics.betterplaces.nl CNAME .
@@ -36,12 +35,10 @@ analytics.geekyminds.net CNAME .
 analytics.hambleden-capital.com CNAME .
 analytics.hiome.com CNAME .
 analytics.kerns.co CNAME .
-analytics.krieselreihe.com CNAME .
 analytics.lifestyledemocracy.com CNAME .
 analytics.littlekingdesigns.com CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
-analytics.martin-fieber.de CNAME .
 analytics.mc500.info CNAME .
 analytics.multithread.studio CNAME .
 analytics.mycater.fr CNAME .
@@ -354,7 +351,6 @@ stats.acadevor.com CNAME .
 stats.achtsame-yonimassage.de CNAME .
 stats.activityvault.io CNAME .
 stats.adlperformance.es CNAME .
-stats.airtrafik.com CNAME .
 stats.aixbrain.de CNAME .
 stats.albert-kropp-gmbh.de CNAME .
 stats.alibhai.co CNAME .
@@ -499,7 +495,6 @@ stats.emmah.net CNAME .
 stats.emmas.site CNAME .
 stats.engel-apotheke.de CNAME .
 stats.engeldirekt.de CNAME .
-stats.engineering.freeagent.com CNAME .
 stats.equium.io CNAME .
 stats.erikinthekitchen.com CNAME .
 stats.erlef.org CNAME .
@@ -730,7 +725,6 @@ stats.pianoplanet.app CNAME .
 stats.pinoymusicstation.com CNAME .
 stats.piplette.co CNAME .
 stats.piranhas.co CNAME .
-stats.pise-notes.club CNAME .
 stats.pitstone.co.uk CNAME .
 stats.plainsending.com CNAME .
 stats.planxti.com CNAME .
@@ -917,6 +911,7 @@ views.emikajewelry.com CNAME .
 views.ericcapella.com CNAME .
 views.sikerlogistics.com CNAME .
 views.sikerproducts.com CNAME .
+views.wioks.com CNAME .
 visitorcenter.ioafw.com CNAME .
 visitorcenter.srwild.com CNAME .
 visitors.gigianddavid.com CNAME .

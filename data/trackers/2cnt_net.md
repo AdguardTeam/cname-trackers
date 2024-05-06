@@ -24,7 +24,6 @@
 * fr-online.vgwort-de.2cnt.net
 * gala.vgwort-de.2cnt.net
 * geo.vgwort-de.2cnt.net
-* hanser.vgwort-de.2cnt.net
 * hogrefe.vgwort-de.2cnt.net
 * juris.vgwort-de.2cnt.net
 * kr.vgwort-de.2cnt.net
@@ -71,7 +70,6 @@
 * vg09.vgwort-de.2cnt.net
 * vogel.vgwort-de.2cnt.net
 * waz.vgwort-de.2cnt.net
-* welt.vgwort-de.2cnt.net
 * wiley.vgwort-de.2cnt.net
 * zeit.vgwort-de.2cnt.net
 
@@ -94,7 +92,6 @@
 | fr-online.met.vgwort.de | fr-online.vgwort-de.2cnt.net |
 | gala.met.vgwort.de | gala.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | geo.vgwort-de.2cnt.net |
-| hanser.met.vgwort.de | hanser.vgwort-de.2cnt.net |
 | hogrefe.met.vgwort.de | hogrefe.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | juris.vgwort-de.2cnt.net |
 | kr.met.vgwort.de | kr.vgwort-de.2cnt.net |
@@ -168,7 +165,6 @@
 | brigitte.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | brigitte.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
-| hanser.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | hanser.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | heise.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
 | helpster.met.vgwort.de | slb-vgwort-de-pool02.vgwort-de.2cnt.net |
@@ -279,6 +275,5 @@
 | vg09.met.vgwort.de | vg09.vgwort-de.2cnt.net |
 | vogel.met.vgwort.de | vogel.vgwort-de.2cnt.net |
 | waz.met.vgwort.de | waz.vgwort-de.2cnt.net |
-| welt.met.vgwort.de | welt.vgwort-de.2cnt.net |
 | wiley.met.vgwort.de | wiley.vgwort-de.2cnt.net |
 | zeit.met.vgwort.de | zeit.vgwort-de.2cnt.net |

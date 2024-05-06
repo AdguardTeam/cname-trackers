@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -333,6 +333,7 @@ t.hagebau.de CNAME .
 t.janieandjack.com CNAME .
 tagman.britishairways.com CNAME .
 tagman.crystalsummer.co.uk CNAME .
+tagman.guoman.com CNAME .
 tagman.silversingles.com CNAME .
 tagman.surfstitch.com CNAME .
 tagman.thebodyshop-usa.com CNAME .

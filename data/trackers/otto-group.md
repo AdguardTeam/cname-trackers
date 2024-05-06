@@ -14,6 +14,7 @@
     * te-frankonia-com.oghub.io
     * te-frankonia-de.oghub.io
     * te-heine-at.oghub.io
+    * te-heine-ch.oghub.io
     * te-heine-de.oghub.io
     * te-heine-shop-nl.oghub.io
     * te-imwalking-de.oghub.io
@@ -28,7 +29,6 @@
     * te-sieh-an-at.oghub.io
     * te-sieh-an-de.oghub.io
     * te-universal-at.oghub.io
-    * te-waeschepur-de.oghub.io
     * te-witt-international-cz.oghub.io
     * te-witt-international-nl.oghub.io
     * te-witt-international-sk.oghub.io
@@ -140,6 +140,7 @@
 | te.frankonia.com | te-frankonia-com.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
 | te.heine.at | te-heine-at.oghub.io |
+| te.heine.ch | te-heine-ch.oghub.io |
 | te.heine.de | te-heine-de.oghub.io |
 | te.heine-shop.nl | te-heine-shop-nl.oghub.io |
 | te.imwalking.de | te-imwalking-de.oghub.io |
@@ -154,7 +155,6 @@
 | te.sieh-an.at | te-sieh-an-at.oghub.io |
 | te.sieh-an.de | te-sieh-an-de.oghub.io |
 | te.universal.at | te-universal-at.oghub.io |
-| te.waeschepur.de | te-waeschepur-de.oghub.io |
 | te.witt-international.cz | te-witt-international-cz.oghub.io |
 | te.witt-international.nl | te-witt-international-nl.oghub.io |
 | te.witt-international.sk | te-witt-international-sk.oghub.io |
@@ -196,7 +196,6 @@
 | te.sieh-an.ch | te.oghub.io |
 | te.sieh-an.de | te.oghub.io |
 | te.universal.at | te.oghub.io |
-| te.waeschepur.de | te.oghub.io |
 | te.waeschepur.de | te.oghub.io |
 | te.witt-international.cz | te.oghub.io |
 | te.witt-international.nl | te.oghub.io |

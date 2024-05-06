@@ -131,7 +131,6 @@
 ||tr.batiweb.co^
 ||tr.bel-pros.be^
 ||tr.bern.espmp-nifr.net^
-||tr.bgl.premium-benefits.lu^
 ||tr.bienvenue.envie-de-bien-manger.com^
 ||tr.bizzquotes.co.uk^
 ||tr.bobo.espmp-cufr.net^
@@ -196,6 +195,7 @@
 ||tr.clients.gemy.fr^
 ||tr.clients.idaia.group^
 ||tr.cnaf.espmp-nifr.net^
+||tr.cobranca.younited-credit.com^
 ||tr.cogedim.espmp-agfr.net^
 ||tr.collectif.groupe-vyv.fr^
 ||tr.com-clients.sfr.fr^
@@ -395,7 +395,6 @@
 ||tr.forum.veuveclicquot.fr^
 ||tr.fr.pro.accor.com^
 ||tr.france.plimsoll.fr^
-||tr.french-tax-compliance-booking.com^
 ||tr.futurecommerce.moethennessy.com^
 ||tr.gen.espmp-agfr.net^
 ||tr.gestion.cafineo.fr^
@@ -424,7 +423,6 @@
 ||tr.holidaycottages.co.uk^
 ||tr.impayes.filiassur.com^
 ||tr.info-btob-leaders.com^
-||tr.info-carte.fr^
 ||tr.info-companeo.be^
 ||tr.info-fr.assurant.com^
 ||tr.info-jeux.paris.fr^
@@ -551,6 +549,7 @@
 ||tr.kpyn02f.espmp-cufr.net^
 ||tr.kpyn059.espmp-pofr.net^
 ||tr.krus.espmp-agfr.net^
+||tr.lachaiselongue.fr^
 ||tr.landrover.compte-financial-services.fr^
 ||tr.laprairie.ifop.com^
 ||tr.lbar.espmp-agfr.net^
@@ -678,6 +677,7 @@
 ||tr.news.accessmastertour.com^
 ||tr.news.accessmbatour.com^
 ||tr.news.actu-man.com^
+||tr.news.ailleurs.com^
 ||tr.news.alcyon.com^
 ||tr.news.alibabuy.com^
 ||tr.news.alinea.com^
@@ -891,7 +891,6 @@
 ||tr.notification-gdpr.loisirs-finance.fr^
 ||tr.notification-gdpr.norrsken.fr^
 ||tr.notification-gdpr.personal-finance-location.bnpparibas^
-||tr.notification-gdpr.sygmabybnpparibas-pf.com^
 ||tr.notification.cafineo.fr^
 ||tr.notification.cdiscount.com^
 ||tr.notification.cetelem.fr^

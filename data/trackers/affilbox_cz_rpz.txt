@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -209,7 +209,6 @@ affiliate.nakladatelstvi-riva.cz CNAME .
 affiliate.nalepime.cz CNAME .
 affiliate.nejfotopasti.cz CNAME .
 affiliate.nomind.cz CNAME .
-affiliate.notifikuj.cz CNAME .
 affiliate.novakabelka.cz CNAME .
 affiliate.nutricnitycinky.cz CNAME .
 affiliate.offroadsafari.cz CNAME .
@@ -661,6 +660,7 @@ partner.slimpasta.sk CNAME .
 partner.smoothiekniha.sk CNAME .
 partner.spokojenypes.cz CNAME .
 partner.sporthangar.cz CNAME .
+partner.starnails.cz CNAME .
 partner.stavario.com CNAME .
 partner.strendem.cz CNAME .
 partner.summermyles.cz CNAME .
@@ -855,7 +855,6 @@ partners.puravidashop.cz CNAME .
 partners.rebelsfunding.com CNAME .
 partners.spiritradar.com CNAME .
 plus.mameradivlasy.cz CNAME .
-program.biocitia.eu CNAME .
 promo.smskouc.cz CNAME .
 provize.3dfitness.cz CNAME .
 provize.brilas.cz CNAME .
@@ -877,12 +876,14 @@ rek.rybizak.cz CNAME .
 royalfamily.royalchaga.sk CNAME .
 special.kvetinyexpres.cz CNAME .
 splatky.aquatrend.sk CNAME .
+splatkyzanulu.datart.sk CNAME .
 spolu.kuskakaa.cz CNAME .
 spoluhraci.decathlon.cz CNAME .
 spoluprace.amalcino.cz CNAME .
 spoluprace.aretacni-pripravky.cz CNAME .
 spoluprace.bafoo.cz CNAME .
 spoluprace.blackkale.cz CNAME .
+spoluprace.cistapohoda.cz CNAME .
 spoluprace.eroticstore.cz CNAME .
 spoluprace.galaxy.cz CNAME .
 spoluprace.h2world.store CNAME .

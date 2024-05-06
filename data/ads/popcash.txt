@@ -360,7 +360,6 @@
 ||cougar.wzulfikar.com^
 ||coyote.12gem.me^
 ||coyote.gnx.cloud^
-||coyote.hopr.swiss^
 ||coyote.nickgurney.com^
 ||coyote.txet.ch^
 ||crab.dunkeldbutchers.co.uk^
@@ -427,7 +426,6 @@
 ||eel.beekeeperstudio.io^
 ||eel.cuabuilders.com^
 ||eel.ieo.do^
-||eel.tunspress.com^
 ||egret.brothers.studio^
 ||elephant.superdense.com^
 ||elk.andrewfomera.com^
@@ -525,7 +523,6 @@
 ||gull.mayansmithgobat.com^
 ||guppy.ausowned.com.au^
 ||guppy.ironmic.fm^
-||guppy.under2.agency^
 ||haddock.affilimate.com^
 ||haddock.jeffreyknox.dev^
 ||haddock.simgenie.app^
@@ -831,7 +828,6 @@
 ||ptarmigan.natalieba.net^
 ||ptarmigan.q-free.com^
 ||puffin.geocode.earth^
-||puffin.jem.dev^
 ||puffin.nex4.net^
 ||puma.islingtonmecc.org.uk^
 ||python.casuallyprivate.com^
@@ -923,7 +919,6 @@
 ||spider.kearneyjaycees.com^
 ||spider.scottw.com^
 ||spider.storiesofchang.com^
-||spoonbill.deknot.io^
 ||spoonbill.shawnprice.com^
 ||squid.adart.cc^
 ||squid.antevo.com.au^
@@ -1070,10 +1065,12 @@
 ||assets-v2.northsidesun.com^
 ||avemariaas.vmrcommunications.com^
 ||carlsonmedia.streetinteractive.com^
+||daily.yubanet.com^
 ||floorforce.streetinteractive.com^
 ||gemtun.ctnewsjunkie.com^
 ||images.decaturish.com^
 ||kitt.tucsonsentinel.com^
+||ourtown.westportjournal.com^
 ||partner.streetinteractive.com^
 ||partners.hourmediagroup.com^
 ||partners.nationalmortgageprofessional.com^

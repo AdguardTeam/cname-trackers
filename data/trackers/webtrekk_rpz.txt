@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -162,6 +162,7 @@ img.foodspring.se CNAME .
 img.sparkasse-koelnbonn.de CNAME .
 info.allango.net CNAME .
 info.deltapublishing.co.uk CNAME .
+info.derdiedaf.com CNAME .
 info.genialklick.ch CNAME .
 info.klett-sprachen.de CNAME .
 intelligence.officialwesthamstore.com CNAME .
@@ -282,6 +283,7 @@ web.collisionservices.com CNAME .
 web.communications.amouage.com CNAME .
 web.comunicazioni.iol.it CNAME .
 web.crm.beps.it CNAME .
+web.crm.speedup.it CNAME .
 web.diebayerische.de CNAME .
 web.e.aldermore.co.uk CNAME .
 web.e.bolts.co.uk CNAME .

@@ -30,7 +30,6 @@
 ||ad.tempstaff.co.jp^
 ||ad.theatre.co.jp^
 ||ad.theatreacademy.jp^
-||ad.udition.jp^
 ||ad1.tone.ne.jp^
 ||adbq.bk.mufg.jp^
 ||ade.deskstyle.info^

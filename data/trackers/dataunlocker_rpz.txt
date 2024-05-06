@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -69,7 +69,6 @@ cqz6fn6aox.aporia.com CNAME .
 cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
-evhme0j57hqj.www.siteai.chat CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
 fkupm8697t19.eyevolution.de CNAME .
 fq9vy0muyqi3.www.madrigalmaps.com CNAME .

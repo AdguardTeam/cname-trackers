@@ -27,6 +27,7 @@
 | a.asvsm.com | 1208818836.rsc.cdn77.org |
 | a.bizonads-ssp.com | 1208818836.rsc.cdn77.org |
 | a.etology.com | 1208818836.rsc.cdn77.org |
+| a.eunow4u.com | 1208818836.rsc.cdn77.org |
 | a.ma3ion.com | 1208818836.rsc.cdn77.org |
 | a.optimizesrv.com | 1208818836.rsc.cdn77.org |
 | a.paradoxgroup.uk | 1208818836.rsc.cdn77.org |
@@ -613,6 +614,7 @@
 | 3578231.notify6.com | tk6if76q.ab1n.net |
 | 3578235.notify6.com | tk6if76q.ab1n.net |
 | 3578239.notify6.com | tk6if76q.ab1n.net |
+| 3578241.notify6.com | tk6if76q.ab1n.net |
 | 3578253.notifysrv.com | tk6if76q.ab1n.net |
 | 3580293.notifysrv.com | tk6if76q.ab1n.net |
 | 3580393.notify6.com | tk6if76q.ab1n.net |
@@ -624,6 +626,7 @@
 | 3585435.notify6.com | tk6if76q.ab1n.net |
 | 3587723.notifysrv.com | tk6if76q.ab1n.net |
 | 3587729.notifysrv.com | tk6if76q.ab1n.net |
+| 3587733.notify6.com | tk6if76q.ab1n.net |
 | 3587733.notifysrv.com | tk6if76q.ab1n.net |
 | 3587739.notifysrv.com | tk6if76q.ab1n.net |
 | 3587799.notifysrv.com | tk6if76q.ab1n.net |
@@ -1040,6 +1043,7 @@
 | 5114166.notify6.com | tk6if76q.ab1n.net |
 | 5132062.notify6.com | tk6if76q.ab1n.net |
 | 5153152.notify6.com | tk6if76q.ab1n.net |
+| 5296856.notify6.com | tk6if76q.ab1n.net |
 | 535.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 5602.notify.optimizesrv.com | tk6if76q.ab1n.net |
 | 577.notify.optimizesrv.com | tk6if76q.ab1n.net |
@@ -1203,7 +1207,6 @@
 | www.notify6.com | tk6if76q.ab1n.net |
 | www.notifysrv.com | tk6if76q.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
-| admin.adnation.com | v3j9t5q9.ab1n.net |
 | admin.datingclix.com | v3j9t5q9.ab1n.net |
 | admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
@@ -1216,7 +1219,6 @@
 | a.advertrek.com | w2u4v9e1.ab1n.net |
 | a.asvsm.com | w2u4v9e1.ab1n.net |
 | a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
-| a.etology.com | w2u4v9e1.ab1n.net |
 | a.eunow4u.com | w2u4v9e1.ab1n.net |
 | a.ma3ion.com | w2u4v9e1.ab1n.net |
 | a.optimizesrv.com | w2u4v9e1.ab1n.net |
@@ -1240,6 +1242,7 @@
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
+| admin.trafficbaron.com | x0xmrxm4.ab1n.net |
 | admin.trafficbaron.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |

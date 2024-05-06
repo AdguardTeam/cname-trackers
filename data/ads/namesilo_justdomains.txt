@@ -569,6 +569,7 @@
 3578231.notify6.com
 3578235.notify6.com
 3578239.notify6.com
+3578241.notify6.com
 3578253.notifysrv.com
 3580293.notifysrv.com
 3580393.notify6.com
@@ -580,6 +581,7 @@
 3585435.notify6.com
 3587723.notifysrv.com
 3587729.notifysrv.com
+3587733.notify6.com
 3587733.notifysrv.com
 3587739.notifysrv.com
 3587799.notifysrv.com
@@ -996,6 +998,7 @@
 5114166.notify6.com
 5132062.notify6.com
 5153152.notify6.com
+5296856.notify6.com
 535.notify.optimizesrv.com
 5602.notify.optimizesrv.com
 577.notify.optimizesrv.com
@@ -1026,7 +1029,6 @@ a.advantageclicks.net
 a.advertrek.com
 a.asvsm.com
 a.bizonads-ssp.com
-a.etology.com
 a.eunow4u.com
 a.ma3ion.com
 a.optimizesrv.com
@@ -1210,3 +1212,4 @@ www.8.notify.bizonads-ssp.com
 www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
+a.etology.com

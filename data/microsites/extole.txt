@@ -556,6 +556,7 @@
 ||share.livongo.com^
 ||share.lovesac.com^
 ||share.maccosmetics.com.au^
+||share.macsales.com^
 ||share.maidpro.com^
 ||share.mamabearlegalforms.com^
 ||share.mansfieldnewsjournal.com^
@@ -668,6 +669,7 @@
 ||share.theoryoutlet.com^
 ||share.theprisonerwinecompany.com^
 ||share.tillys.com^
+||share.tireagent.com^
 ||share.tommy.com^
 ||share.trafalgar.com^
 ||share.travelzoo.com^
@@ -675,6 +677,7 @@
 ||share.uk.theory.com^
 ||share.unchartedsociety.com^
 ||share.united.net^
+||share.urbanmop.ca^
 ||share.usatoday.com^
 ||share.useagle.org^
 ||share.vcstar.com^

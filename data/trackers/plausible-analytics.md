@@ -22,7 +22,6 @@
 | an.xavierrosee.com | custom.plausible.io |
 | analytics.adam.page | custom.plausible.io |
 | analytics.andrewsmith.com.au | custom.plausible.io |
-| analytics.angelina-fieber.com | custom.plausible.io |
 | analytics.arunraghavan.net | custom.plausible.io |
 | analytics.basistheory.com | custom.plausible.io |
 | analytics.betterplaces.nl | custom.plausible.io |
@@ -38,12 +37,10 @@
 | analytics.hambleden-capital.com | custom.plausible.io |
 | analytics.hiome.com | custom.plausible.io |
 | analytics.kerns.co | custom.plausible.io |
-| analytics.krieselreihe.com | custom.plausible.io |
 | analytics.lifestyledemocracy.com | custom.plausible.io |
 | analytics.littlekingdesigns.com | custom.plausible.io |
 | analytics.lunge.de | custom.plausible.io |
 | analytics.mambaui.com | custom.plausible.io |
-| analytics.martin-fieber.de | custom.plausible.io |
 | analytics.mc500.info | custom.plausible.io |
 | analytics.multithread.studio | custom.plausible.io |
 | analytics.mycater.fr | custom.plausible.io |
@@ -356,7 +353,6 @@
 | stats.achtsame-yonimassage.de | custom.plausible.io |
 | stats.activityvault.io | custom.plausible.io |
 | stats.adlperformance.es | custom.plausible.io |
-| stats.airtrafik.com | custom.plausible.io |
 | stats.aixbrain.de | custom.plausible.io |
 | stats.albert-kropp-gmbh.de | custom.plausible.io |
 | stats.alibhai.co | custom.plausible.io |
@@ -501,7 +497,6 @@
 | stats.emmas.site | custom.plausible.io |
 | stats.engel-apotheke.de | custom.plausible.io |
 | stats.engeldirekt.de | custom.plausible.io |
-| stats.engineering.freeagent.com | custom.plausible.io |
 | stats.equium.io | custom.plausible.io |
 | stats.erikinthekitchen.com | custom.plausible.io |
 | stats.erlef.org | custom.plausible.io |
@@ -732,7 +727,6 @@
 | stats.pinoymusicstation.com | custom.plausible.io |
 | stats.piplette.co | custom.plausible.io |
 | stats.piranhas.co | custom.plausible.io |
-| stats.pise-notes.club | custom.plausible.io |
 | stats.pitstone.co.uk | custom.plausible.io |
 | stats.plainsending.com | custom.plausible.io |
 | stats.planxti.com | custom.plausible.io |
@@ -919,6 +913,7 @@
 | views.ericcapella.com | custom.plausible.io |
 | views.sikerlogistics.com | custom.plausible.io |
 | views.sikerproducts.com | custom.plausible.io |
+| views.wioks.com | custom.plausible.io |
 | visitorcenter.ioafw.com | custom.plausible.io |
 | visitorcenter.srwild.com | custom.plausible.io |
 | visitors.gigianddavid.com | custom.plausible.io |

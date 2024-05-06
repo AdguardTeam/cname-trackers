@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1200,7 +1200,6 @@ a8cv.sumai-surfin.com CNAME .
 a8cv.sunmillion-ikiiki.jp CNAME .
 a8cv.suzaku.or.jp CNAME .
 a8cv.suzette-shop.jp CNAME .
-a8cv.sweets-paradise-shop.com CNAME .
 a8cv.t-bang.jp CNAME .
 a8cv.t-gaia.co.jp CNAME .
 a8cv.taclinic.jp CNAME .
@@ -1226,7 +1225,6 @@ a8cv.toybox-mnr.com CNAME .
 a8cv.toysub.net CNAME .
 a8cv.treasure-f.com CNAME .
 a8cv.trext.tokyo CNAME .
-a8cv.udition.jp CNAME .
 a8cv.unias.jp CNAME .
 a8cv.unico-fan.co.jp CNAME .
 a8cv.untenmenkyo-yi.com CNAME .

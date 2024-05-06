@@ -382,6 +382,7 @@ dev-rmscheck.sbifxt.co.jp
 device-profile.jeniusbank.com
 device.invoice2go.com
 device.messa.org
+device.register.greenlight.com
 deviceauth.dmv.ca.gov
 devicecontent.icuracao.com
 devices.yondercard.com
@@ -422,6 +423,7 @@ faas.2dehands.be
 faas.2ememain.be
 faas.marktplaats.nl
 fdts.ebay-kleinanzeigen.de
+fdts.kleinanzeigen.de
 fingerprint.fool.com
 fms-dev.citysavings.net.ph
 fms.perahub.com.ph
@@ -914,7 +916,6 @@ tm.tbcbank.uz
 tm.telecharge.com
 tm.uship.com
 tmcdn.homeaway.com
-tmck.indigocard.com
 tmck.milestonegoldcard.com
 tmcontent.imvu.com
 tmcontent.meridiancu.ca
@@ -976,6 +977,7 @@ validacionlx.agaval.com
 verification.ndtco.com
 verify.metlife.com
 verify.philippineairlines.com
+vfp.intuit.com
 vlscppe.microsoft.com
 voto.credit24.com
 voto.creditea.com

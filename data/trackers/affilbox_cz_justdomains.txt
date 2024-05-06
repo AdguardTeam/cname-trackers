@@ -198,7 +198,6 @@ affiliate.nakladatelstvi-riva.cz
 affiliate.nalepime.cz
 affiliate.nejfotopasti.cz
 affiliate.nomind.cz
-affiliate.notifikuj.cz
 affiliate.novakabelka.cz
 affiliate.nutricnitycinky.cz
 affiliate.offroadsafari.cz
@@ -650,6 +649,7 @@ partner.slimpasta.sk
 partner.smoothiekniha.sk
 partner.spokojenypes.cz
 partner.sporthangar.cz
+partner.starnails.cz
 partner.stavario.com
 partner.strendem.cz
 partner.summermyles.cz
@@ -844,7 +844,6 @@ partners.puravidashop.cz
 partners.rebelsfunding.com
 partners.spiritradar.com
 plus.mameradivlasy.cz
-program.biocitia.eu
 promo.smskouc.cz
 provize.3dfitness.cz
 provize.brilas.cz
@@ -866,12 +865,14 @@ rek.rybizak.cz
 royalfamily.royalchaga.sk
 special.kvetinyexpres.cz
 splatky.aquatrend.sk
+splatkyzanulu.datart.sk
 spolu.kuskakaa.cz
 spoluhraci.decathlon.cz
 spoluprace.amalcino.cz
 spoluprace.aretacni-pripravky.cz
 spoluprace.bafoo.cz
 spoluprace.blackkale.cz
+spoluprace.cistapohoda.cz
 spoluprace.eroticstore.cz
 spoluprace.galaxy.cz
 spoluprace.h2world.store

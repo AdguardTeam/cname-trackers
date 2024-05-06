@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -142,7 +142,6 @@ tr.batirenover.info CNAME .
 tr.batiweb.co CNAME .
 tr.bel-pros.be CNAME .
 tr.bern.espmp-nifr.net CNAME .
-tr.bgl.premium-benefits.lu CNAME .
 tr.bienvenue.envie-de-bien-manger.com CNAME .
 tr.bizzquotes.co.uk CNAME .
 tr.bobo.espmp-cufr.net CNAME .
@@ -207,6 +206,7 @@ tr.clients.europrogres.fr CNAME .
 tr.clients.gemy.fr CNAME .
 tr.clients.idaia.group CNAME .
 tr.cnaf.espmp-nifr.net CNAME .
+tr.cobranca.younited-credit.com CNAME .
 tr.cogedim.espmp-agfr.net CNAME .
 tr.collectif.groupe-vyv.fr CNAME .
 tr.com-clients.sfr.fr CNAME .
@@ -406,7 +406,6 @@ tr.fleetmatics.vraaguwofferte.be CNAME .
 tr.forum.veuveclicquot.fr CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.france.plimsoll.fr CNAME .
-tr.french-tax-compliance-booking.com CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
 tr.gen.espmp-agfr.net CNAME .
 tr.gestion.cafineo.fr CNAME .
@@ -435,7 +434,6 @@ tr.hmut.espmp-agfr.net CNAME .
 tr.holidaycottages.co.uk CNAME .
 tr.impayes.filiassur.com CNAME .
 tr.info-btob-leaders.com CNAME .
-tr.info-carte.fr CNAME .
 tr.info-companeo.be CNAME .
 tr.info-fr.assurant.com CNAME .
 tr.info-jeux.paris.fr CNAME .
@@ -562,6 +560,7 @@ tr.kpyn02a.espmp-cufr.net CNAME .
 tr.kpyn02f.espmp-cufr.net CNAME .
 tr.kpyn059.espmp-pofr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
+tr.lachaiselongue.fr CNAME .
 tr.landrover.compte-financial-services.fr CNAME .
 tr.laprairie.ifop.com CNAME .
 tr.lbar.espmp-agfr.net CNAME .
@@ -689,6 +688,7 @@ tr.news.a2micile.com CNAME .
 tr.news.accessmastertour.com CNAME .
 tr.news.accessmbatour.com CNAME .
 tr.news.actu-man.com CNAME .
+tr.news.ailleurs.com CNAME .
 tr.news.alcyon.com CNAME .
 tr.news.alibabuy.com CNAME .
 tr.news.alinea.com CNAME .
@@ -902,7 +902,6 @@ tr.notification-gdpr.domofinance.fr CNAME .
 tr.notification-gdpr.loisirs-finance.fr CNAME .
 tr.notification-gdpr.norrsken.fr CNAME .
 tr.notification-gdpr.personal-finance-location.bnpparibas CNAME .
-tr.notification-gdpr.sygmabybnpparibas-pf.com CNAME .
 tr.notification.cafineo.fr CNAME .
 tr.notification.cdiscount.com CNAME .
 tr.notification.cetelem.fr CNAME .

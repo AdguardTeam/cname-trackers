@@ -9,7 +9,6 @@ also.greatsecuritydebate.net
 an.xavierrosee.com
 analytics.adam.page
 analytics.andrewsmith.com.au
-analytics.angelina-fieber.com
 analytics.arunraghavan.net
 analytics.basistheory.com
 analytics.betterplaces.nl
@@ -25,12 +24,10 @@ analytics.geekyminds.net
 analytics.hambleden-capital.com
 analytics.hiome.com
 analytics.kerns.co
-analytics.krieselreihe.com
 analytics.lifestyledemocracy.com
 analytics.littlekingdesigns.com
 analytics.lunge.de
 analytics.mambaui.com
-analytics.martin-fieber.de
 analytics.mc500.info
 analytics.multithread.studio
 analytics.mycater.fr
@@ -343,7 +340,6 @@ stats.acadevor.com
 stats.achtsame-yonimassage.de
 stats.activityvault.io
 stats.adlperformance.es
-stats.airtrafik.com
 stats.aixbrain.de
 stats.albert-kropp-gmbh.de
 stats.alibhai.co
@@ -488,7 +484,6 @@ stats.emmah.net
 stats.emmas.site
 stats.engel-apotheke.de
 stats.engeldirekt.de
-stats.engineering.freeagent.com
 stats.equium.io
 stats.erikinthekitchen.com
 stats.erlef.org
@@ -719,7 +714,6 @@ stats.pianoplanet.app
 stats.pinoymusicstation.com
 stats.piplette.co
 stats.piranhas.co
-stats.pise-notes.club
 stats.pitstone.co.uk
 stats.plainsending.com
 stats.planxti.com
@@ -906,6 +900,7 @@ views.emikajewelry.com
 views.ericcapella.com
 views.sikerlogistics.com
 views.sikerproducts.com
+views.wioks.com
 visitorcenter.ioafw.com
 visitorcenter.srwild.com
 visitors.gigianddavid.com

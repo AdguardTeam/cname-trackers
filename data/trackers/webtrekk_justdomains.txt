@@ -151,6 +151,7 @@ img.foodspring.se
 img.sparkasse-koelnbonn.de
 info.allango.net
 info.deltapublishing.co.uk
+info.derdiedaf.com
 info.genialklick.ch
 info.klett-sprachen.de
 intelligence.officialwesthamstore.com
@@ -271,6 +272,7 @@ web.collisionservices.com
 web.communications.amouage.com
 web.comunicazioni.iol.it
 web.crm.beps.it
+web.crm.speedup.it
 web.diebayerische.de
 web.e.aldermore.co.uk
 web.e.bolts.co.uk

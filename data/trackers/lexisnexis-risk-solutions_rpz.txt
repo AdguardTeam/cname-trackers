@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -393,6 +393,7 @@ dev-rmscheck.sbifxt.co.jp CNAME .
 device-profile.jeniusbank.com CNAME .
 device.invoice2go.com CNAME .
 device.messa.org CNAME .
+device.register.greenlight.com CNAME .
 deviceauth.dmv.ca.gov CNAME .
 devicecontent.icuracao.com CNAME .
 devices.yondercard.com CNAME .
@@ -433,6 +434,7 @@ faas.2dehands.be CNAME .
 faas.2ememain.be CNAME .
 faas.marktplaats.nl CNAME .
 fdts.ebay-kleinanzeigen.de CNAME .
+fdts.kleinanzeigen.de CNAME .
 fingerprint.fool.com CNAME .
 fms-dev.citysavings.net.ph CNAME .
 fms.perahub.com.ph CNAME .
@@ -925,7 +927,6 @@ tm.tbcbank.uz CNAME .
 tm.telecharge.com CNAME .
 tm.uship.com CNAME .
 tmcdn.homeaway.com CNAME .
-tmck.indigocard.com CNAME .
 tmck.milestonegoldcard.com CNAME .
 tmcontent.imvu.com CNAME .
 tmcontent.meridiancu.ca CNAME .
@@ -987,6 +988,7 @@ validacionlx.agaval.com CNAME .
 verification.ndtco.com CNAME .
 verify.metlife.com CNAME .
 verify.philippineairlines.com CNAME .
+vfp.intuit.com CNAME .
 vlscppe.microsoft.com CNAME .
 voto.credit24.com CNAME .
 voto.creditea.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,7 +17,6 @@ $TTL 300
 2efj.economies.cheque-dejeuner.com CNAME .
 2efj.up.coop CNAME .
 3esm.consubebe.es CNAME .
-5fm.985fm.ca CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -257,6 +256,7 @@ gdm1.toner.fr CNAME .
 gf7t.cheques-cadeaux-culturels.fr CNAME .
 gfn1.ugap.fr CNAME .
 gfv4.destinia.co.za CNAME .
+gi7a.structube.com CNAME .
 gif1.gifi.fr CNAME .
 gli9.inseec-bs.com CNAME .
 gnh2.destinia.lv CNAME .
@@ -506,6 +506,7 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
+5fm.985fm.ca CNAME .
 b1n.carabins.umontreal.ca CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
@@ -513,6 +514,5 @@ d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
 ry0.rythmefm.com CNAME .
 ea.mnt.fr CNAME .
-gi7a.structube.com CNAME .
 nym5c.laura.ca CNAME .
 pk1u.melanielyne.com CNAME .

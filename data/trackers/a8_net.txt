@@ -1189,7 +1189,6 @@
 ||a8cv.sunmillion-ikiiki.jp^
 ||a8cv.suzaku.or.jp^
 ||a8cv.suzette-shop.jp^
-||a8cv.sweets-paradise-shop.com^
 ||a8cv.t-bang.jp^
 ||a8cv.t-gaia.co.jp^
 ||a8cv.taclinic.jp^
@@ -1215,7 +1214,6 @@
 ||a8cv.toysub.net^
 ||a8cv.treasure-f.com^
 ||a8cv.trext.tokyo^
-||a8cv.udition.jp^
 ||a8cv.unias.jp^
 ||a8cv.unico-fan.co.jp^
 ||a8cv.untenmenkyo-yi.com^

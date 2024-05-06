@@ -199,7 +199,6 @@ ablinks.e.foxsports.com.au
 ablinks.e.sportinanutshell.com.au
 ablinks.info.amaro.com
 ablinks.kfc.com.au
-ablinks.mail.claritymoney.com
 ablinks.mail.hinge.co
 ablinks.mail.pared.com
 ablinks.marketing.numi.com
@@ -1159,6 +1158,7 @@ app.libre.org
 app.link.justincase.jp
 app.link.livibank.com
 app.link.nba.com
+app.lionwheel.com
 app.liven.com.au
 app.lootpop.com
 app.luckysweater.com
@@ -1284,6 +1284,7 @@ app.soultime.com
 app.sswt.co
 app.stadac.mobilapp.gmbh
 app.stagingsimpl.com
+app.stan.world
 app.straitpay.com
 app.stressbuoy.com
 app.studios.brain.ai
@@ -1307,6 +1308,7 @@ app.themaven.net
 app.thestaxapp.com
 app.thetimes.link
 app.thetriviabar.com
+app.thewishlist.com
 app.thexlife.co
 app.thisiscleveland.com
 app.times.radio
@@ -1518,7 +1520,6 @@ bnc.mksp.io
 bnc.oustme.com
 bnc.squaretrade.com
 bnc.thewaya.com
-bnc.tripcody.com
 book.londonsoundacademy.com
 booking.getwaitnot.com
 boss.openapp.link
@@ -1604,21 +1605,17 @@ branch.thekono.com
 branch.threepiece.com
 branch.totalbrain.com
 branch.trevo.my
-branch.tripcody.com
 branch.uat.bfsgodirect.com
-branch.udl.io
 branch.vcf-test.vzw.dev.llabs.io
 branch.wallet.bitcoin.com
 branch.weeblme.com
 branch.wellsitenavigator.com
 branch.whatsnxt.app
-branch2.udl.io
 branchcust.zulln.se
 branchio.rsvp.com.au
 branchio.services.evaneos.com
 branchio.taxibeat.com
 branchioth.thehindu.co.in
-branchlink.tripcody.com
 branchtest.cocoon.today
 branchtest.veryableops.com
 branchtest.whataburger.com
@@ -1757,9 +1754,7 @@ corehome.myre.io
 cp.rootielearning.com
 crats.openapp.link
 crepemania.openapp.link
-crew-qa.zubie.com
 crew.spektare.tv
-crew.zubie.com
 crrm.onjoyri.de
 crypto.egghead.link
 cscsexam.quantresear.ch
@@ -1989,7 +1984,6 @@ drive.waitrapp.com
 driver.dctaxi.com
 driver.jugnoo.in
 driver.promo.gogo.org.ua
-driver.zubie.com
 dropcoffee.openapp.link
 e.vcty.co
 e035.pandasuite.io
@@ -2297,6 +2291,7 @@ go.germansingles.ignite.technology
 go.germany.innovatedating.com
 go.getcyclique.com
 go.getone.today
+go.gift.cool
 go.ginmon.de
 go.goflux.de
 go.gridwise.io
@@ -2507,6 +2502,7 @@ harnisch-schmid.app.mobilapp.io
 harpra-companion-test.harvinar.com
 harpra-companion.harvinar.com
 hdu-deeplinks.mindtickle.com
+healthsyncapp.headuplabs.com
 hello.ola.app
 hello.wellocution.com
 hf.forevernetworks.com
@@ -2576,6 +2572,7 @@ invite-test.sadapay.pk
 invite.abra.com
 invite.airtabapp.com
 invite.allflex.global
+invite.blue.social
 invite.camfrog.com
 invite.carselonadaily.com
 invite.chalo.com
@@ -2604,7 +2601,6 @@ invite.traktivity.com
 invite.trueteams.co
 invite.urbanclap.com
 invite.youmail.com
-invites.nospace.app
 io.piupiu.io
 iob.imgur.com
 ios.asktagapp.com
@@ -2996,7 +2992,6 @@ link.joinswoop.com
 link.joinworkpass.com
 link.joyraft.com
 link.justincase.jp
-link.keela.app
 link.kidfund.us
 link.kidzapp.com
 link.killi.io
@@ -3016,6 +3011,7 @@ link.litnet.com
 link.localmasters.com
 link.lola.com
 link.lomolist.com
+link.loop11.com
 link.loopedlive.com
 link.loopslive.com
 link.loxclubapp.com
@@ -3177,7 +3173,6 @@ link.stridekick.com
 link.studdy.ai
 link.stynt.com
 link.subscribly.com
-link.superlocal.com
 link.superviz.com
 link.surbee.io
 link.swa.info
@@ -3188,7 +3183,6 @@ link.t2o.io
 link.talescreator.com
 link.taptapapp.com
 link.target.com.au
-link.tastemade.com
 link.techmaxapp.com
 link.tenallaccess.com.au
 link.test.chalknation.com
@@ -3324,7 +3318,6 @@ links.motortrend.com
 links.myplace.co
 links.myvolly.com
 links.ottplay.com
-links.outskill.app
 links.own.tv
 links.oxstreet.com
 links.paradym.app
@@ -3442,6 +3435,7 @@ m.realself.com
 m.rifird.com
 m.riipay.my
 m.rsvy.io
+m.saycheese.my
 m.shopprecouriers.com
 m.shoppreparcels.com
 m.showaddict.com
@@ -3462,7 +3456,6 @@ mailer.happ.social
 mailx.happ.social
 mallioras.openapp.link
 mapp.biryanibykilo.com
-marketing.boostmi.com
 math.meistercody.com
 matrix.elecle.bike
 maui.shakaguide.com
@@ -3723,6 +3716,7 @@ refer.gober.app
 refer.kheloapp.com
 refer.payluy.com.kh
 referral-ca.mixtiles.com
+referral-staging.mixtiles.com
 referral.50fin.in
 referral.avena.io
 referral.mixtiles.com
@@ -3877,8 +3871,6 @@ share.sharafdg.com
 share.soundit.com
 share.sparemin.com
 share.squadx.online
-share.stayplus.com
-share.supp.film
 share.swishpick.com
 share.talkit.app
 share.tessie.com
@@ -3991,7 +3983,6 @@ tap.carling.com
 tasteeat.openapp.link
 tasukeai.link.justincase.jp
 tba.smrtp.link
-teen.zubie.com
 test-app.getgifted.com
 test-app.popsa.com
 test-app.rmbr.in
@@ -4056,6 +4047,7 @@ tmapp.fitnessyard.com
 tmobilapp.app.mobilapp.io
 tmpbr.getgifted.com
 tmvasapp.fitnessyard.com
+to.4sq.com
 to.5mins.ai
 to.card.com
 to.degree.plus
@@ -4169,6 +4161,7 @@ www1.happ.social
 x.gldn.io
 x.xtar.io
 x88s.pandasuite.io
+xxx.hottie.eu.org
 y-t.topya.com
 y.topya.com
 yo.inbots.online
@@ -4213,4 +4206,3 @@ sms.3.se
 txt.appcity.com.au
 welcome.peek.com
 www.branch.rocks
-branch.servingchefs.com

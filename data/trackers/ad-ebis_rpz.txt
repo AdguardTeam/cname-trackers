@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,7 +41,6 @@ ad.takasu.co.jp CNAME .
 ad.tempstaff.co.jp CNAME .
 ad.theatre.co.jp CNAME .
 ad.theatreacademy.jp CNAME .
-ad.udition.jp CNAME .
 ad1.tone.ne.jp CNAME .
 adbq.bk.mufg.jp CNAME .
 ade.deskstyle.info CNAME .

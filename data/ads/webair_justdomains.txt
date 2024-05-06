@@ -28,12 +28,14 @@ click-eu-v4.globlemath.com
 click-eu-v4.junmediadirect1.com
 click-eu-v4.plarimocl.com
 click-eu.celxkpdir.com
+click-eu.cldirplarimo.com
 click-eu.directrankcl.com
 click-eu.globlemath.com
 click-eu.jadspro.live
 click-eu.junmediadirect1.com
 click-eu.pclk.name
 click-eu.plarimocl.com
+click-eu.plarimoexocli.com
 click-eu.plarimoplus.com
 click-eu.precmd.com
 click-rtb2-apac.afkwa.com
@@ -120,6 +122,7 @@ cpm.fmlabsonline.com
 cpm.foremedia.net
 cpm.fw.tv
 cpm.geoadserver.com
+cpm.gwmexchange.com
 cpm.jambojar.com
 cpm.mediahubserver.com
 cpm.metaadserving.com
@@ -178,14 +181,15 @@ dsp.yeesshh.com
 eu.datacygnal.io
 exchange.adkernel.com
 exchange.nativeads.com
-exchange.nativeadshb.com
 feed.clickmenia.com
+filter-eu.adokutcontextual.com
 filter-eu.adoperatorx.com
 filter-eu.adright.co
 filter-eu.adsbuyclick.com
 filter-eu.adsupplyexchange.com
 filter-eu.adtube.media
 filter-eu.adzestocp.com
+filter-eu.benrif-solutions.com
 filter-eu.bidforclicks.com
 filter-eu.bidmyadz.com
 filter-eu.chameleostudios.com
@@ -207,6 +211,7 @@ filter-eu.qksrv1.com
 filter-eu.realtime-bid.com
 filter-eu.rocoads.com
 filter-eu.saturndynamic.pt
+filter-eu.solarad.net
 filter-eu.topdealad.com
 filter-eu.topsolutionsmedia.com
 filter-eu.trafficmoose.com
@@ -241,6 +246,7 @@ filter.adwooo.com
 filter.adxfactory.com
 filter.adxnexus.com
 filter.adzestocp.com
+filter.adzreach.com
 filter.afront.io
 filter.anuerprivatelimited.com
 filter.audiencedevelopers.com
@@ -318,6 +324,7 @@ filter.nativeadsfeed.com
 filter.nativexml.com
 filter.nexrtb.com
 filter.octov8.com
+filter.onemediawork.com
 filter.online-adnetwork.com
 filter.pensarmedia.com
 filter.plarimoplus.com
@@ -482,7 +489,6 @@ push.bvsrv.com
 push.cerineas.com
 push.ezmob.com
 push.icyads.com
-push.mywebqsearch.com
 push.newsvot.com
 push.pushub.net
 push.revrtb.com
@@ -505,6 +511,7 @@ results.clickverifier.online
 rtb-apac-v4.152media.cloud
 rtb-apac-v4.adpluto.com
 rtb-apac-v4.afkwa.com
+rtb-apac-v4.aserve1.net
 rtb-apac-v4.broadadx.com
 rtb-apac-v4.didna.io
 rtb-apac-v4.jambojar.com
@@ -550,6 +557,7 @@ rtb-eu-v4.pixelpluses.com
 rtb-eu-v4.servvidisplay.com
 rtb-eu-v4.voisetech.com
 rtb-eu-v4.vuukle.net
+rtb-eu-v4.xmlppc.net
 rtb-eu.152media.com
 rtb-eu.80xmedia.com
 rtb-eu.adbite.com
@@ -647,6 +655,7 @@ rtb-useast.anyclip-media.com
 rtb-useast.appocean.media
 rtb-useast.arbigo.com
 rtb-useast.audience.media
+rtb-useast.bidderads.com
 rtb-useast.bidmyadz.com
 rtb-useast.bidmyqps.xyz
 rtb-useast.blueparrot.media
@@ -681,7 +690,6 @@ rtb-useast.mobipromote.com
 rtb-useast.mobuppsrtb.com
 rtb-useast.motionspots.com
 rtb-useast.mybiddertop.xyz
-rtb-useast.nativeadshb.com
 rtb-useast.openrtb.in
 rtb-useast.pareto21.com
 rtb-useast.pressize.com
@@ -698,6 +706,7 @@ rtb-useast.rtbserve.io
 rtb-useast.saturndynamic.pt
 rtb-useast.stringads.com
 rtb-useast.superads.cn
+rtb-useast.unibots.in
 rtb-useast.vyadd.com
 rtb-useast.waardex.com
 rtb-useast.westcom.tv
@@ -709,6 +718,7 @@ rtb-uswest-v4.afkwa.com
 rtb-uswest-v4.aserve1.net
 rtb-uswest-v4.didna.io
 rtb-uswest-v4.jambojar.com
+rtb-uswest-v4.pixelpluses.com
 rtb-uswest-v4.qortex.ai
 rtb-uswest-v4.voisetech.com
 rtb-uswest-v4.vuukle.net
@@ -737,7 +747,6 @@ rtb-uswest.imprexis.biz
 rtb-uswest.kremsondigital.com
 rtb-uswest.mobipromote.com
 rtb-uswest.mobuppsrtb.com
-rtb-uswest.nativeadshb.com
 rtb-uswest.openrtb.in
 rtb-uswest.pressize.com
 rtb-uswest.rtb.vokut.com
@@ -862,16 +871,17 @@ static.pdn-1.com
 static.pixelpluses.com
 static.pressize.com
 static.pushub.net
+static.qksrv.cc
 static.qksrv1.com
 static.qualiclicks.com
 static.reachableads.com
 static.revrtb.com
-static.rtb-serve.com
 static.rtbserve.io
 static.rtbwire.com
 static.servingserved.com
 static.smoads.com
 static.theardent.group
+static.trafficmoose.com
 static.userwave.com
 static.webmedxml.com
 static.xmlppc.net
@@ -887,9 +897,11 @@ sw.looksmart.com
 sync.adkernel.com
 tag.adkernel.com
 tag.musiciansaudience.com
+tq-eu.clouback-1.online
 tq-eu.donkstar2.online
 tq-eu.explorefast-2.com
 tq-eu.iforcircles-1.online
+tq-eu.martlochoco1.online
 tq-eu.minsonbar2.online
 tq-eu.minutelight-1.online
 tq-eu.optimalscreen1.online
@@ -897,6 +909,7 @@ tq-eu.optimalscreen2.online
 tq-eu.otbackstage2.online
 tq-eu.resugovex-2.co
 tq.adventurefeeds.com
+tq.clouback-1.online
 tq.explorefast-2.com
 tq.iforcircles-1.online
 tq.iforcircles-2.online
@@ -992,6 +1005,7 @@ xml-eu-v4.boffoadsfeeds.com
 xml-eu-v4.chameleostudios.com
 xml-eu-v4.clickmeniaads.com
 xml-eu-v4.clixvista.com
+xml-eu-v4.clouback-1.online
 xml-eu-v4.convertap.com
 xml-eu-v4.coupontic.com
 xml-eu-v4.ctrtraffic.com
@@ -1006,7 +1020,6 @@ xml-eu-v4.fstsrv6.com
 xml-eu-v4.fstsrv7.com
 xml-eu-v4.fstsrv8.com
 xml-eu-v4.fstsrv9.com
-xml-eu-v4.hawkads.in
 xml-eu-v4.howboxmab.site
 xml-eu-v4.iforcircles-1.online
 xml-eu-v4.iforcircles-2.online
@@ -1035,6 +1048,7 @@ xml-eu-v4.resugovex-2.co
 xml-eu-v4.rocoads.com
 xml-eu-v4.sitamedal2.online
 xml-eu-v4.sitamedal3.online
+xml-eu-v4.solarad.net
 xml-eu-v4.thenetwork18.com
 xml-eu-v4.topsolutionsmedia.com
 xml-eu-v4.tri.media
@@ -1120,6 +1134,7 @@ xml-v4.clickmeniaads.com
 xml-v4.clickmi.net
 xml-v4.clixvista.com
 xml-v4.clkfst.com
+xml-v4.clouback-1.online
 xml-v4.convertap.com
 xml-v4.coupontic.com
 xml-v4.cpmvibes.com
@@ -1146,7 +1161,6 @@ xml-v4.fstsrv8.com
 xml-v4.fstsrv9.com
 xml-v4.glcsrv.com
 xml-v4.goclickz.net
-xml-v4.hawkads.in
 xml-v4.hetcash.com
 xml-v4.howboxmab.site
 xml-v4.iforcircles-1.online
@@ -1240,6 +1254,7 @@ xml.adxfactory.com
 xml.adxnexus.com
 xml.adzestocp.com
 xml.adzgame.com
+xml.adzreach.com
 xml.afront.io
 xml.aimkweb.com
 xml.ak-tracker.com
@@ -1275,6 +1290,7 @@ xml.clixforads.com
 xml.clixportal.com
 xml.clixvista.com
 xml.clixwells.com
+xml.clouback-1.online
 xml.convertise.io
 xml.conxstream.com
 xml.coupontic.com
@@ -1298,7 +1314,6 @@ xml.finevisit.com
 xml.flairads.com
 xml.flairadscpc.com
 xml.flurryad.com
-xml.flyerblaze.com
 xml.foremedia.net
 xml.fstsrv1.com
 xml.fstsrv2.com
@@ -1440,6 +1455,6 @@ xmlv4.chameleostudios.com
 xmlv4.mobuppsrtb.com
 xmlv4.reklama.network
 static.admozartxml.com
-static.qksrv.cc
 static.realtime-bid.com
-static.trafficmoose.com
+push.mywebqsearch.com
+static.rtb-serve.com

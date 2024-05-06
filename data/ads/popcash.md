@@ -39,10 +39,12 @@
 | assets-v2.northsidesun.com | bs-adserver.b-cdn.net |
 | avemariaas.vmrcommunications.com | bs-adserver.b-cdn.net |
 | carlsonmedia.streetinteractive.com | bs-adserver.b-cdn.net |
+| daily.yubanet.com | bs-adserver.b-cdn.net |
 | floorforce.streetinteractive.com | bs-adserver.b-cdn.net |
 | gemtun.ctnewsjunkie.com | bs-adserver.b-cdn.net |
 | images.decaturish.com | bs-adserver.b-cdn.net |
 | kitt.tucsonsentinel.com | bs-adserver.b-cdn.net |
+| ourtown.westportjournal.com | bs-adserver.b-cdn.net |
 | partner.streetinteractive.com | bs-adserver.b-cdn.net |
 | partners.hourmediagroup.com | bs-adserver.b-cdn.net |
 | partners.nationalmortgageprofessional.com | bs-adserver.b-cdn.net |
@@ -294,7 +296,6 @@
 | cougar.wzulfikar.com | deprecated-custom-domains.b-cdn.net |
 | coyote.12gem.me | deprecated-custom-domains.b-cdn.net |
 | coyote.gnx.cloud | deprecated-custom-domains.b-cdn.net |
-| coyote.hopr.swiss | deprecated-custom-domains.b-cdn.net |
 | coyote.nickgurney.com | deprecated-custom-domains.b-cdn.net |
 | coyote.txet.ch | deprecated-custom-domains.b-cdn.net |
 | crab.dunkeldbutchers.co.uk | deprecated-custom-domains.b-cdn.net |
@@ -361,7 +362,6 @@
 | eel.beekeeperstudio.io | deprecated-custom-domains.b-cdn.net |
 | eel.cuabuilders.com | deprecated-custom-domains.b-cdn.net |
 | eel.ieo.do | deprecated-custom-domains.b-cdn.net |
-| eel.tunspress.com | deprecated-custom-domains.b-cdn.net |
 | egret.brothers.studio | deprecated-custom-domains.b-cdn.net |
 | elephant.superdense.com | deprecated-custom-domains.b-cdn.net |
 | elk.andrewfomera.com | deprecated-custom-domains.b-cdn.net |
@@ -459,7 +459,6 @@
 | gull.mayansmithgobat.com | deprecated-custom-domains.b-cdn.net |
 | guppy.ausowned.com.au | deprecated-custom-domains.b-cdn.net |
 | guppy.ironmic.fm | deprecated-custom-domains.b-cdn.net |
-| guppy.under2.agency | deprecated-custom-domains.b-cdn.net |
 | haddock.affilimate.com | deprecated-custom-domains.b-cdn.net |
 | haddock.jeffreyknox.dev | deprecated-custom-domains.b-cdn.net |
 | haddock.simgenie.app | deprecated-custom-domains.b-cdn.net |
@@ -765,7 +764,6 @@
 | ptarmigan.natalieba.net | deprecated-custom-domains.b-cdn.net |
 | ptarmigan.q-free.com | deprecated-custom-domains.b-cdn.net |
 | puffin.geocode.earth | deprecated-custom-domains.b-cdn.net |
-| puffin.jem.dev | deprecated-custom-domains.b-cdn.net |
 | puffin.nex4.net | deprecated-custom-domains.b-cdn.net |
 | puma.islingtonmecc.org.uk | deprecated-custom-domains.b-cdn.net |
 | python.casuallyprivate.com | deprecated-custom-domains.b-cdn.net |
@@ -857,7 +855,6 @@
 | spider.kearneyjaycees.com | deprecated-custom-domains.b-cdn.net |
 | spider.scottw.com | deprecated-custom-domains.b-cdn.net |
 | spider.storiesofchang.com | deprecated-custom-domains.b-cdn.net |
-| spoonbill.deknot.io | deprecated-custom-domains.b-cdn.net |
 | spoonbill.shawnprice.com | deprecated-custom-domains.b-cdn.net |
 | squid.adart.cc | deprecated-custom-domains.b-cdn.net |
 | squid.antevo.com.au | deprecated-custom-domains.b-cdn.net |

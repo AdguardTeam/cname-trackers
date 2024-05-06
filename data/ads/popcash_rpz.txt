@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -371,7 +371,6 @@ cougar.augmentedmindapp.com CNAME .
 cougar.wzulfikar.com CNAME .
 coyote.12gem.me CNAME .
 coyote.gnx.cloud CNAME .
-coyote.hopr.swiss CNAME .
 coyote.nickgurney.com CNAME .
 coyote.txet.ch CNAME .
 crab.dunkeldbutchers.co.uk CNAME .
@@ -438,7 +437,6 @@ eel.aware7.de CNAME .
 eel.beekeeperstudio.io CNAME .
 eel.cuabuilders.com CNAME .
 eel.ieo.do CNAME .
-eel.tunspress.com CNAME .
 egret.brothers.studio CNAME .
 elephant.superdense.com CNAME .
 elk.andrewfomera.com CNAME .
@@ -536,7 +534,6 @@ guineapig.themenaffin.de CNAME .
 gull.mayansmithgobat.com CNAME .
 guppy.ausowned.com.au CNAME .
 guppy.ironmic.fm CNAME .
-guppy.under2.agency CNAME .
 haddock.affilimate.com CNAME .
 haddock.jeffreyknox.dev CNAME .
 haddock.simgenie.app CNAME .
@@ -842,7 +839,6 @@ ptarmigan.goudieworks.co CNAME .
 ptarmigan.natalieba.net CNAME .
 ptarmigan.q-free.com CNAME .
 puffin.geocode.earth CNAME .
-puffin.jem.dev CNAME .
 puffin.nex4.net CNAME .
 puma.islingtonmecc.org.uk CNAME .
 python.casuallyprivate.com CNAME .
@@ -934,7 +930,6 @@ spider.capricciocolumbus.org CNAME .
 spider.kearneyjaycees.com CNAME .
 spider.scottw.com CNAME .
 spider.storiesofchang.com CNAME .
-spoonbill.deknot.io CNAME .
 spoonbill.shawnprice.com CNAME .
 squid.adart.cc CNAME .
 squid.antevo.com.au CNAME .
@@ -1081,10 +1076,12 @@ assets-v2.invaluable.com CNAME .
 assets-v2.northsidesun.com CNAME .
 avemariaas.vmrcommunications.com CNAME .
 carlsonmedia.streetinteractive.com CNAME .
+daily.yubanet.com CNAME .
 floorforce.streetinteractive.com CNAME .
 gemtun.ctnewsjunkie.com CNAME .
 images.decaturish.com CNAME .
 kitt.tucsonsentinel.com CNAME .
+ourtown.westportjournal.com CNAME .
 partner.streetinteractive.com CNAME .
 partners.hourmediagroup.com CNAME .
 partners.nationalmortgageprofessional.com CNAME .

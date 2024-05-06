@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -210,7 +210,6 @@ ablinks.e.foxsports.com.au CNAME .
 ablinks.e.sportinanutshell.com.au CNAME .
 ablinks.info.amaro.com CNAME .
 ablinks.kfc.com.au CNAME .
-ablinks.mail.claritymoney.com CNAME .
 ablinks.mail.hinge.co CNAME .
 ablinks.mail.pared.com CNAME .
 ablinks.marketing.numi.com CNAME .
@@ -1170,6 +1169,7 @@ app.libre.org CNAME .
 app.link.justincase.jp CNAME .
 app.link.livibank.com CNAME .
 app.link.nba.com CNAME .
+app.lionwheel.com CNAME .
 app.liven.com.au CNAME .
 app.lootpop.com CNAME .
 app.luckysweater.com CNAME .
@@ -1295,6 +1295,7 @@ app.soultime.com CNAME .
 app.sswt.co CNAME .
 app.stadac.mobilapp.gmbh CNAME .
 app.stagingsimpl.com CNAME .
+app.stan.world CNAME .
 app.straitpay.com CNAME .
 app.stressbuoy.com CNAME .
 app.studios.brain.ai CNAME .
@@ -1318,6 +1319,7 @@ app.themaven.net CNAME .
 app.thestaxapp.com CNAME .
 app.thetimes.link CNAME .
 app.thetriviabar.com CNAME .
+app.thewishlist.com CNAME .
 app.thexlife.co CNAME .
 app.thisiscleveland.com CNAME .
 app.times.radio CNAME .
@@ -1529,7 +1531,6 @@ bnc.mksp.io CNAME .
 bnc.oustme.com CNAME .
 bnc.squaretrade.com CNAME .
 bnc.thewaya.com CNAME .
-bnc.tripcody.com CNAME .
 book.londonsoundacademy.com CNAME .
 booking.getwaitnot.com CNAME .
 boss.openapp.link CNAME .
@@ -1615,21 +1616,17 @@ branch.thekono.com CNAME .
 branch.threepiece.com CNAME .
 branch.totalbrain.com CNAME .
 branch.trevo.my CNAME .
-branch.tripcody.com CNAME .
 branch.uat.bfsgodirect.com CNAME .
-branch.udl.io CNAME .
 branch.vcf-test.vzw.dev.llabs.io CNAME .
 branch.wallet.bitcoin.com CNAME .
 branch.weeblme.com CNAME .
 branch.wellsitenavigator.com CNAME .
 branch.whatsnxt.app CNAME .
-branch2.udl.io CNAME .
 branchcust.zulln.se CNAME .
 branchio.rsvp.com.au CNAME .
 branchio.services.evaneos.com CNAME .
 branchio.taxibeat.com CNAME .
 branchioth.thehindu.co.in CNAME .
-branchlink.tripcody.com CNAME .
 branchtest.cocoon.today CNAME .
 branchtest.veryableops.com CNAME .
 branchtest.whataburger.com CNAME .
@@ -1768,9 +1765,7 @@ corehome.myre.io CNAME .
 cp.rootielearning.com CNAME .
 crats.openapp.link CNAME .
 crepemania.openapp.link CNAME .
-crew-qa.zubie.com CNAME .
 crew.spektare.tv CNAME .
-crew.zubie.com CNAME .
 crrm.onjoyri.de CNAME .
 crypto.egghead.link CNAME .
 cscsexam.quantresear.ch CNAME .
@@ -2000,7 +1995,6 @@ drive.waitrapp.com CNAME .
 driver.dctaxi.com CNAME .
 driver.jugnoo.in CNAME .
 driver.promo.gogo.org.ua CNAME .
-driver.zubie.com CNAME .
 dropcoffee.openapp.link CNAME .
 e.vcty.co CNAME .
 e035.pandasuite.io CNAME .
@@ -2308,6 +2302,7 @@ go.germansingles.ignite.technology CNAME .
 go.germany.innovatedating.com CNAME .
 go.getcyclique.com CNAME .
 go.getone.today CNAME .
+go.gift.cool CNAME .
 go.ginmon.de CNAME .
 go.goflux.de CNAME .
 go.gridwise.io CNAME .
@@ -2518,6 +2513,7 @@ harnisch-schmid.app.mobilapp.io CNAME .
 harpra-companion-test.harvinar.com CNAME .
 harpra-companion.harvinar.com CNAME .
 hdu-deeplinks.mindtickle.com CNAME .
+healthsyncapp.headuplabs.com CNAME .
 hello.ola.app CNAME .
 hello.wellocution.com CNAME .
 hf.forevernetworks.com CNAME .
@@ -2587,6 +2583,7 @@ invite-test.sadapay.pk CNAME .
 invite.abra.com CNAME .
 invite.airtabapp.com CNAME .
 invite.allflex.global CNAME .
+invite.blue.social CNAME .
 invite.camfrog.com CNAME .
 invite.carselonadaily.com CNAME .
 invite.chalo.com CNAME .
@@ -2615,7 +2612,6 @@ invite.traktivity.com CNAME .
 invite.trueteams.co CNAME .
 invite.urbanclap.com CNAME .
 invite.youmail.com CNAME .
-invites.nospace.app CNAME .
 io.piupiu.io CNAME .
 iob.imgur.com CNAME .
 ios.asktagapp.com CNAME .
@@ -3007,7 +3003,6 @@ link.joinswoop.com CNAME .
 link.joinworkpass.com CNAME .
 link.joyraft.com CNAME .
 link.justincase.jp CNAME .
-link.keela.app CNAME .
 link.kidfund.us CNAME .
 link.kidzapp.com CNAME .
 link.killi.io CNAME .
@@ -3027,6 +3022,7 @@ link.litnet.com CNAME .
 link.localmasters.com CNAME .
 link.lola.com CNAME .
 link.lomolist.com CNAME .
+link.loop11.com CNAME .
 link.loopedlive.com CNAME .
 link.loopslive.com CNAME .
 link.loxclubapp.com CNAME .
@@ -3188,7 +3184,6 @@ link.stridekick.com CNAME .
 link.studdy.ai CNAME .
 link.stynt.com CNAME .
 link.subscribly.com CNAME .
-link.superlocal.com CNAME .
 link.superviz.com CNAME .
 link.surbee.io CNAME .
 link.swa.info CNAME .
@@ -3199,7 +3194,6 @@ link.t2o.io CNAME .
 link.talescreator.com CNAME .
 link.taptapapp.com CNAME .
 link.target.com.au CNAME .
-link.tastemade.com CNAME .
 link.techmaxapp.com CNAME .
 link.tenallaccess.com.au CNAME .
 link.test.chalknation.com CNAME .
@@ -3335,7 +3329,6 @@ links.motortrend.com CNAME .
 links.myplace.co CNAME .
 links.myvolly.com CNAME .
 links.ottplay.com CNAME .
-links.outskill.app CNAME .
 links.own.tv CNAME .
 links.oxstreet.com CNAME .
 links.paradym.app CNAME .
@@ -3453,6 +3446,7 @@ m.realself.com CNAME .
 m.rifird.com CNAME .
 m.riipay.my CNAME .
 m.rsvy.io CNAME .
+m.saycheese.my CNAME .
 m.shopprecouriers.com CNAME .
 m.shoppreparcels.com CNAME .
 m.showaddict.com CNAME .
@@ -3473,7 +3467,6 @@ mailer.happ.social CNAME .
 mailx.happ.social CNAME .
 mallioras.openapp.link CNAME .
 mapp.biryanibykilo.com CNAME .
-marketing.boostmi.com CNAME .
 math.meistercody.com CNAME .
 matrix.elecle.bike CNAME .
 maui.shakaguide.com CNAME .
@@ -3734,6 +3727,7 @@ refer.gober.app CNAME .
 refer.kheloapp.com CNAME .
 refer.payluy.com.kh CNAME .
 referral-ca.mixtiles.com CNAME .
+referral-staging.mixtiles.com CNAME .
 referral.50fin.in CNAME .
 referral.avena.io CNAME .
 referral.mixtiles.com CNAME .
@@ -3888,8 +3882,6 @@ share.sharafdg.com CNAME .
 share.soundit.com CNAME .
 share.sparemin.com CNAME .
 share.squadx.online CNAME .
-share.stayplus.com CNAME .
-share.supp.film CNAME .
 share.swishpick.com CNAME .
 share.talkit.app CNAME .
 share.tessie.com CNAME .
@@ -4002,7 +3994,6 @@ tap.carling.com CNAME .
 tasteeat.openapp.link CNAME .
 tasukeai.link.justincase.jp CNAME .
 tba.smrtp.link CNAME .
-teen.zubie.com CNAME .
 test-app.getgifted.com CNAME .
 test-app.popsa.com CNAME .
 test-app.rmbr.in CNAME .
@@ -4067,6 +4058,7 @@ tmapp.fitnessyard.com CNAME .
 tmobilapp.app.mobilapp.io CNAME .
 tmpbr.getgifted.com CNAME .
 tmvasapp.fitnessyard.com CNAME .
+to.4sq.com CNAME .
 to.5mins.ai CNAME .
 to.card.com CNAME .
 to.degree.plus CNAME .
@@ -4180,6 +4172,7 @@ www1.happ.social CNAME .
 x.gldn.io CNAME .
 x.xtar.io CNAME .
 x88s.pandasuite.io CNAME .
+xxx.hottie.eu.org CNAME .
 y-t.topya.com CNAME .
 y.topya.com CNAME .
 yo.inbots.online CNAME .
@@ -4224,4 +4217,3 @@ sms.3.se CNAME .
 txt.appcity.com.au CNAME .
 welcome.peek.com CNAME .
 www.branch.rocks CNAME .
-branch.servingchefs.com CNAME .

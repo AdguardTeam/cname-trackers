@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714377607736        ; Serial
+           1714982408402        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -580,6 +580,7 @@ $TTL 300
 3578231.notify6.com CNAME .
 3578235.notify6.com CNAME .
 3578239.notify6.com CNAME .
+3578241.notify6.com CNAME .
 3578253.notifysrv.com CNAME .
 3580293.notifysrv.com CNAME .
 3580393.notify6.com CNAME .
@@ -591,6 +592,7 @@ $TTL 300
 3585435.notify6.com CNAME .
 3587723.notifysrv.com CNAME .
 3587729.notifysrv.com CNAME .
+3587733.notify6.com CNAME .
 3587733.notifysrv.com CNAME .
 3587739.notifysrv.com CNAME .
 3587799.notifysrv.com CNAME .
@@ -1007,6 +1009,7 @@ $TTL 300
 5114166.notify6.com CNAME .
 5132062.notify6.com CNAME .
 5153152.notify6.com CNAME .
+5296856.notify6.com CNAME .
 535.notify.optimizesrv.com CNAME .
 5602.notify.optimizesrv.com CNAME .
 577.notify.optimizesrv.com CNAME .
@@ -1037,7 +1040,6 @@ a.advantageclicks.net CNAME .
 a.advertrek.com CNAME .
 a.asvsm.com CNAME .
 a.bizonads-ssp.com CNAME .
-a.etology.com CNAME .
 a.eunow4u.com CNAME .
 a.ma3ion.com CNAME .
 a.optimizesrv.com CNAME .
@@ -1221,3 +1223,4 @@ www.8.notify.bizonads-ssp.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
+a.etology.com CNAME .

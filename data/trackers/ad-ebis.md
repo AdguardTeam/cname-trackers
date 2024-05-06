@@ -218,7 +218,6 @@
     * ba862930-6pusefyf.cname.ebis.ne.jp
     * bae37929-ehtgvvgm.cname.ebis.ne.jp
     * bb6aa604-kdknv6tt.cname.ebis.ne.jp
-    * bba13219-ehtgvvgm.cname.ebis.ne.jp
     * bcc4d612-qmmdzant.cname.ebis.ne.jp
     * bceaceed-neqq92z2.cname.ebis.ne.jp
     * bcff83bc-jpe7blqe.cname.ebis.ne.jp
@@ -519,7 +518,6 @@
 | ebis-tracking.tcb-setagaya.com | ba862930-6pusefyf.cname.ebis.ne.jp |
 | ad.theatreacademy.jp | bae37929-ehtgvvgm.cname.ebis.ne.jp |
 | cname2.shaken-yoyaku.com | bb6aa604-kdknv6tt.cname.ebis.ne.jp |
-| ad.udition.jp | bba13219-ehtgvvgm.cname.ebis.ne.jp |
 | adebis.shiseido.co.jp | bcc4d612-qmmdzant.cname.ebis.ne.jp |
 | admeasure.hh-online.jp | bceaceed-neqq92z2.cname.ebis.ne.jp |
 | adebis.pikaichi.co.jp | bcff83bc-jpe7blqe.cname.ebis.ne.jp |
