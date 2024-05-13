@@ -426,7 +426,6 @@
 ||partner.barnaby.cz^
 ||partner.bazaroveregaly.cz^
 ||partner.beautylash.cz^
-||partner.bebidas.cz^
 ||partner.bed4dogs.com^
 ||partner.bio-nechty.sk^
 ||partner.bio-nehty.cz^
@@ -575,6 +574,7 @@
 ||partner.massivo.cz^
 ||partner.maxori.cz^
 ||partner.mbytshop.cz^
+||partner.medela.cz^
 ||partner.memolingo.cz^
 ||partner.metagram.sk^
 ||partner.mhsexshop.com^
@@ -620,6 +620,7 @@
 ||partner.pod7kilo.cz^
 ||partner.porovnejsito.cz^
 ||partner.pozitivnerozpravky.sk^
+||partner.ppb-pohary.cz^
 ||partner.pradoch.cz^
 ||partner.pravopisne.cz^
 ||partner.pravopisne.sk^

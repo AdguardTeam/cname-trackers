@@ -108,6 +108,7 @@
 ||assets1.vero.com.au^
 ||attribution.batesfootwear.com^
 ||attribution.grasshoppers.com^
+||attribution.hushpuppies.com^
 ||attribution.keds.com^
 ||attribution.lebara.com^
 ||attribution.lendopolis.com^
@@ -156,7 +157,6 @@
 ||cookies.jll.com.my^
 ||cookies.jll.com.ph^
 ||cookies.jll.com.sg^
-||cookies.jll.com.tr^
 ||cookies.jll.cz^
 ||cookies.jll.de^
 ||cookies.jll.es^
@@ -179,6 +179,7 @@
 ||cookies.joneslanglasalle.com.vn^
 ||cookies.us.jll.com^
 ||csp.prod.saga.co.uk^
+||ctp.moneymetals.com^
 ||data.ensightendemo.com^
 ||data.experian.co.uk^
 ||data.experianidentityservice.co.uk^

@@ -723,7 +723,6 @@
 | stats.phili.pe | custom.plausible.io |
 | stats.philjava.com | custom.plausible.io |
 | stats.photographer.com.au | custom.plausible.io |
-| stats.pianoplanet.app | custom.plausible.io |
 | stats.pinoymusicstation.com | custom.plausible.io |
 | stats.piplette.co | custom.plausible.io |
 | stats.piranhas.co | custom.plausible.io |
@@ -858,7 +857,6 @@
 | stats.trussed.dev | custom.plausible.io |
 | stats.tubecalculator.co.uk | custom.plausible.io |
 | stats.twhl.xyz | custom.plausible.io |
-| stats.twirrl.co | custom.plausible.io |
 | stats.ubiwiz.com | custom.plausible.io |
 | stats.unka.space | custom.plausible.io |
 | stats.unusualtourist.com | custom.plausible.io |

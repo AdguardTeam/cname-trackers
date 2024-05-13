@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714982408402        ; Serial
+           1715587208341        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -165,6 +165,7 @@ info.deltapublishing.co.uk CNAME .
 info.derdiedaf.com CNAME .
 info.genialklick.ch CNAME .
 info.klett-sprachen.de CNAME .
+intel.web.noleggiare.it CNAME .
 intelligence.officialwesthamstore.com CNAME .
 is.lg.com CNAME .
 joda.corriereadriatico.it CNAME .
@@ -288,6 +289,7 @@ web.diebayerische.de CNAME .
 web.e.aldermore.co.uk CNAME .
 web.e.bolts.co.uk CNAME .
 web.e.compositesales.co.uk CNAME .
+web.e.dekogardensupplies.co.uk CNAME .
 web.e.drainagepipe.co.uk CNAME .
 web.e.guttersupplies.co.uk CNAME .
 web.e.obayaty.com CNAME .
@@ -295,6 +297,7 @@ web.e.panmacmillan.com CNAME .
 web.e.pbslgroup.co.uk CNAME .
 web.e.professionalbuildingsupplies.co.uk CNAME .
 web.e.pvccladding.com CNAME .
+web.e.soakaways.com CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.pizzaexpress.com CNAME .
 web.email.pmtonline.co.uk CNAME .

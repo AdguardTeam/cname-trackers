@@ -178,6 +178,7 @@
 ||content.apruvd.com^
 ||content.asurion53.com^
 ||content.atmosphere.ca^
+||content.b-social.io^
 ||content.bank-abc.com^
 ||content.bankerslife.com^
 ||content.bankoncit.com^
@@ -493,6 +494,7 @@
 ||img02.pensionfund.org^
 ||img1.bog.ge^
 ||img2.avant.com^
+||img2.bbva.com.ar^
 ||img2.bog.ge^
 ||img2.everbank.com^
 ||img2.otto.nl^
@@ -889,6 +891,7 @@
 ||tm.espnbet.com^
 ||tm.fanduel.com^
 ||tm.fidelity.co.uk^
+||tm.flowbirdapp.com^
 ||tm.goldennuggetcasino.com^
 ||tm.gumtree.co.za^
 ||tm.gumtree.com.au^
@@ -1011,6 +1014,7 @@
 ||www.content.mabanquepro.bnpparibas^
 ||xfp.intuit.com^
 ||xmt.paze.com^
+||xmt.wallet.cat.earlywarning.io^
 ||ydkwim.targobank.de^
 ||yr3ioxw.hoaresbank.co.uk^
 ||zacchaeus.logos.com^

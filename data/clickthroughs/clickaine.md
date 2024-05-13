@@ -13,7 +13,6 @@
 | a3.hotpornfile.org | api.clickaine.com |
 | aabclkane.bachelorarchive.com | api.clickaine.com |
 | ad.desibp.com | api.clickaine.com |
-| adb.xfilm.me | api.clickaine.com |
 | ads.imgdesu.art | api.clickaine.com |
 | anti.69vclub.com | api.clickaine.com |
 | api.hugemedia.cz | api.clickaine.com |

@@ -472,7 +472,6 @@ a8clk.dr-40.com
 a8clk.dr-8.com
 a8clk.driver-island.com
 a8clk.e-ninniku.jp
-a8clk.e-shikakunavi.com
 a8clk.ec.halmek.co.jp
 a8clk.ec.oreno.co.jp
 a8clk.ectool.jp
@@ -804,11 +803,11 @@ a8cv.career.medpeer.jp
 a8cv.careerpark-agent.jp
 a8cv.carryonmall.com
 a8cv.cart.bi-su.jp
+a8cv.cart3.toku-talk.com
 a8cv.cast-er.com
 a8cv.celav.net
 a8cv.celbest.urr.jp
 a8cv.cellbic.net
-a8cv.chapobook.com
 a8cv.chefbox.jp
 a8cv.chillaxy.jp
 a8cv.chuoms.com

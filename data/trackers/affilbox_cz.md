@@ -445,7 +445,6 @@
 | partner.barnaby.cz | cz.affilbox.cz |
 | partner.bazaroveregaly.cz | cz.affilbox.cz |
 | partner.beautylash.cz | cz.affilbox.cz |
-| partner.bebidas.cz | cz.affilbox.cz |
 | partner.bed4dogs.com | cz.affilbox.cz |
 | partner.bio-nechty.sk | cz.affilbox.cz |
 | partner.bio-nehty.cz | cz.affilbox.cz |
@@ -594,6 +593,7 @@
 | partner.massivo.cz | cz.affilbox.cz |
 | partner.maxori.cz | cz.affilbox.cz |
 | partner.mbytshop.cz | cz.affilbox.cz |
+| partner.medela.cz | cz.affilbox.cz |
 | partner.memolingo.cz | cz.affilbox.cz |
 | partner.metagram.sk | cz.affilbox.cz |
 | partner.mhsexshop.com | cz.affilbox.cz |
@@ -639,6 +639,7 @@
 | partner.pod7kilo.cz | cz.affilbox.cz |
 | partner.porovnejsito.cz | cz.affilbox.cz |
 | partner.pozitivnerozpravky.sk | cz.affilbox.cz |
+| partner.ppb-pohary.cz | cz.affilbox.cz |
 | partner.pradoch.cz | cz.affilbox.cz |
 | partner.pravopisne.cz | cz.affilbox.cz |
 | partner.pravopisne.sk | cz.affilbox.cz |

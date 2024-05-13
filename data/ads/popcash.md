@@ -149,6 +149,7 @@
 | bandicoot.p0.design | deprecated-custom-domains.b-cdn.net |
 | bandicoot.sigerr.org | deprecated-custom-domains.b-cdn.net |
 | barnacle.big-in-japan.com | deprecated-custom-domains.b-cdn.net |
+| barnacle.natalieandmikeyb.com | deprecated-custom-domains.b-cdn.net |
 | barnacle.nixfifty.com | deprecated-custom-domains.b-cdn.net |
 | barnacle.viewsource.io | deprecated-custom-domains.b-cdn.net |
 | barracuda.civicdatalibrary.org | deprecated-custom-domains.b-cdn.net |
@@ -162,6 +163,7 @@
 | bass.siterig.io | deprecated-custom-domains.b-cdn.net |
 | bat.heelix.be | deprecated-custom-domains.b-cdn.net |
 | bear.big.dk | deprecated-custom-domains.b-cdn.net |
+| bear.builtbyborda.com | deprecated-custom-domains.b-cdn.net |
 | bear.datingrelationshipsadvice.com | deprecated-custom-domains.b-cdn.net |
 | bear.jake.nyc | deprecated-custom-domains.b-cdn.net |
 | bear.modulr.design | deprecated-custom-domains.b-cdn.net |
@@ -213,6 +215,7 @@
 | canidae.collectingsocialphoto.org | deprecated-custom-domains.b-cdn.net |
 | canidae.fidum.uk | deprecated-custom-domains.b-cdn.net |
 | capybara.civicsoftwarefoundation.org | deprecated-custom-domains.b-cdn.net |
+| capybara.kylewinton.com | deprecated-custom-domains.b-cdn.net |
 | capybara.randyhamiltonelectric.com | deprecated-custom-domains.b-cdn.net |
 | cardinal.businessfirstonline.co.uk | deprecated-custom-domains.b-cdn.net |
 | cardinal.ensembleblock.com | deprecated-custom-domains.b-cdn.net |
@@ -607,7 +610,6 @@
 | magpie.onething.org | deprecated-custom-domains.b-cdn.net |
 | magpie.phil.dev | deprecated-custom-domains.b-cdn.net |
 | mammal.autoidle.com | deprecated-custom-domains.b-cdn.net |
-| mammal.robholmes.app | deprecated-custom-domains.b-cdn.net |
 | manatee.biodom.bio | deprecated-custom-domains.b-cdn.net |
 | manatee.creativepassport.net | deprecated-custom-domains.b-cdn.net |
 | mandrill.castingcollective.net | deprecated-custom-domains.b-cdn.net |
@@ -719,7 +721,6 @@
 | penguin.craftpeak.io | deprecated-custom-domains.b-cdn.net |
 | penguin.mobiadroit.com | deprecated-custom-domains.b-cdn.net |
 | penguin.revolana.com | deprecated-custom-domains.b-cdn.net |
-| penguin.sunny.app | deprecated-custom-domains.b-cdn.net |
 | perch.luckydiff.com | deprecated-custom-domains.b-cdn.net |
 | perch.matiasvad.com | deprecated-custom-domains.b-cdn.net |
 | perch.searchwp.com | deprecated-custom-domains.b-cdn.net |
@@ -753,7 +754,6 @@
 | porpoise.kristinholl.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.numberzs.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.hashnode.com | deprecated-custom-domains.b-cdn.net |
-| prawn.fffuel.co | deprecated-custom-domains.b-cdn.net |
 | prawn.lionsmouth.digital | deprecated-custom-domains.b-cdn.net |
 | prawn.samgarson.com | deprecated-custom-domains.b-cdn.net |
 | primate.oleggera.com | deprecated-custom-domains.b-cdn.net |

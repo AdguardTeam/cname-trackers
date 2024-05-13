@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714982408402        ; Serial
+           1715587208341        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -437,7 +437,6 @@ partner.bandana.cz CNAME .
 partner.barnaby.cz CNAME .
 partner.bazaroveregaly.cz CNAME .
 partner.beautylash.cz CNAME .
-partner.bebidas.cz CNAME .
 partner.bed4dogs.com CNAME .
 partner.bio-nechty.sk CNAME .
 partner.bio-nehty.cz CNAME .
@@ -586,6 +585,7 @@ partner.martinreznicek.cz CNAME .
 partner.massivo.cz CNAME .
 partner.maxori.cz CNAME .
 partner.mbytshop.cz CNAME .
+partner.medela.cz CNAME .
 partner.memolingo.cz CNAME .
 partner.metagram.sk CNAME .
 partner.mhsexshop.com CNAME .
@@ -631,6 +631,7 @@ partner.plotshop.sk CNAME .
 partner.pod7kilo.cz CNAME .
 partner.porovnejsito.cz CNAME .
 partner.pozitivnerozpravky.sk CNAME .
+partner.ppb-pohary.cz CNAME .
 partner.pradoch.cz CNAME .
 partner.pravopisne.cz CNAME .
 partner.pravopisne.sk CNAME .

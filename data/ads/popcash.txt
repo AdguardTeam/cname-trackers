@@ -213,6 +213,7 @@
 ||bandicoot.p0.design^
 ||bandicoot.sigerr.org^
 ||barnacle.big-in-japan.com^
+||barnacle.natalieandmikeyb.com^
 ||barnacle.nixfifty.com^
 ||barnacle.viewsource.io^
 ||barracuda.civicdatalibrary.org^
@@ -226,6 +227,7 @@
 ||bass.siterig.io^
 ||bat.heelix.be^
 ||bear.big.dk^
+||bear.builtbyborda.com^
 ||bear.datingrelationshipsadvice.com^
 ||bear.jake.nyc^
 ||bear.modulr.design^
@@ -277,6 +279,7 @@
 ||canidae.collectingsocialphoto.org^
 ||canidae.fidum.uk^
 ||capybara.civicsoftwarefoundation.org^
+||capybara.kylewinton.com^
 ||capybara.randyhamiltonelectric.com^
 ||cardinal.businessfirstonline.co.uk^
 ||cardinal.ensembleblock.com^
@@ -671,7 +674,6 @@
 ||magpie.onething.org^
 ||magpie.phil.dev^
 ||mammal.autoidle.com^
-||mammal.robholmes.app^
 ||manatee.biodom.bio^
 ||manatee.creativepassport.net^
 ||mandrill.castingcollective.net^
@@ -783,7 +785,6 @@
 ||penguin.craftpeak.io^
 ||penguin.mobiadroit.com^
 ||penguin.revolana.com^
-||penguin.sunny.app^
 ||perch.luckydiff.com^
 ||perch.matiasvad.com^
 ||perch.searchwp.com^
@@ -817,7 +818,6 @@
 ||porpoise.kristinholl.com^
 ||porpoise.numberzs.com^
 ||prairiedog.hashnode.com^
-||prawn.fffuel.co^
 ||prawn.lionsmouth.digital^
 ||prawn.samgarson.com^
 ||primate.oleggera.com^

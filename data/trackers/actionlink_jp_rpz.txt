@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714982408402        ; Serial
+           1715587208341        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ al.californiastreet.net CNAME .
 al.directishii.net CNAME .
 al.e-fitpro.jp CNAME .
 al.epoi-jp.com CNAME .
+al.fafa-shop.com CNAME .
 al.fakui.jp CNAME .
 al.fundokin.co.jp CNAME .
 al.ganzo.ne.jp CNAME .
@@ -40,6 +41,7 @@ al.kirario.jp CNAME .
 al.kosei.com CNAME .
 al.kurone.jp CNAME .
 al.mitsubachi-note.com CNAME .
+al.morigaku.jp CNAME .
 al.nakayamashouten.com CNAME .
 al.nawa-store.jp CNAME .
 al.office-com.jp CNAME .

@@ -710,7 +710,6 @@
 ||stats.phili.pe^
 ||stats.philjava.com^
 ||stats.photographer.com.au^
-||stats.pianoplanet.app^
 ||stats.pinoymusicstation.com^
 ||stats.piplette.co^
 ||stats.piranhas.co^
@@ -845,7 +844,6 @@
 ||stats.trussed.dev^
 ||stats.tubecalculator.co.uk^
 ||stats.twhl.xyz^
-||stats.twirrl.co^
 ||stats.ubiwiz.com^
 ||stats.unka.space^
 ||stats.unusualtourist.com^

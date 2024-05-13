@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714982408402        ; Serial
+           1715587208341        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -721,7 +721,6 @@ stats.petr.codes CNAME .
 stats.phili.pe CNAME .
 stats.philjava.com CNAME .
 stats.photographer.com.au CNAME .
-stats.pianoplanet.app CNAME .
 stats.pinoymusicstation.com CNAME .
 stats.piplette.co CNAME .
 stats.piranhas.co CNAME .
@@ -856,7 +855,6 @@ stats.trimbles.ie CNAME .
 stats.trussed.dev CNAME .
 stats.tubecalculator.co.uk CNAME .
 stats.twhl.xyz CNAME .
-stats.twirrl.co CNAME .
 stats.ubiwiz.com CNAME .
 stats.unka.space CNAME .
 stats.unusualtourist.com CNAME .

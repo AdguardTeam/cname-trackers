@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714982408402        ; Serial
+           1715587208341        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1169,6 +1169,7 @@ data-86d2aee9fa.sueddeutsche.de CNAME .
 data-87563bd275.apps.iocnt.de CNAME .
 data-8793ca6c7d.rpr1.de CNAME .
 data-8793ca6c7d.vereinsleben.de CNAME .
+data-87c1de682f.ingolstadt.de CNAME .
 data-87c7424086.apps.iocnt.de CNAME .
 data-88ba07a559.motor1.com CNAME .
 data-89254d05a3.alpin.de CNAME .
@@ -1837,6 +1838,7 @@ data-db0ecef264.trafikantenzeitung.at CNAME .
 data-db3e9abc5d.muensterschezeitung.de CNAME .
 data-db4b387c99.heizungsjournal.de CNAME .
 data-db73bfa52c.apps.iocnt.de CNAME .
+data-db9a1c2da1.konstanz.de CNAME .
 data-db9f015784.connect-living.de CNAME .
 data-db9f015784.pc-magazin.de CNAME .
 data-dbb3f1513f.apps.iocnt.de CNAME .

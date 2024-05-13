@@ -15,6 +15,7 @@ al.californiastreet.net
 al.directishii.net
 al.e-fitpro.jp
 al.epoi-jp.com
+al.fafa-shop.com
 al.fakui.jp
 al.fundokin.co.jp
 al.ganzo.ne.jp
@@ -29,6 +30,7 @@ al.kirario.jp
 al.kosei.com
 al.kurone.jp
 al.mitsubachi-note.com
+al.morigaku.jp
 al.nakayamashouten.com
 al.nawa-store.jp
 al.office-com.jp

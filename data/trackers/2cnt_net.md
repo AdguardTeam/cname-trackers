@@ -24,6 +24,7 @@
 * fr-online.vgwort-de.2cnt.net
 * gala.vgwort-de.2cnt.net
 * geo.vgwort-de.2cnt.net
+* helpster.vgwort-de.2cnt.net
 * hogrefe.vgwort-de.2cnt.net
 * juris.vgwort-de.2cnt.net
 * kr.vgwort-de.2cnt.net
@@ -92,6 +93,7 @@
 | fr-online.met.vgwort.de | fr-online.vgwort-de.2cnt.net |
 | gala.met.vgwort.de | gala.vgwort-de.2cnt.net |
 | geo.met.vgwort.de | geo.vgwort-de.2cnt.net |
+| helpster.met.vgwort.de | helpster.vgwort-de.2cnt.net |
 | hogrefe.met.vgwort.de | hogrefe.vgwort-de.2cnt.net |
 | juris.met.vgwort.de | juris.vgwort-de.2cnt.net |
 | kr.met.vgwort.de | kr.vgwort-de.2cnt.net |

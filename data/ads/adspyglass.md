@@ -8,6 +8,8 @@
 ### Rarely active trackers
 
 * api.clickaine.com
+* u53.hypnorat.com
+* 77980.bodis.com
 
 ## Cloaking domains
 
@@ -126,7 +128,6 @@
 | a.memia.xyz | 0i0i0i0.com |
 | a.memosaqee.com | 0i0i0i0.com |
 | a.merig.xyz | 0i0i0i0.com |
-| a.mf233y3dg6n.shop | 0i0i0i0.com |
 | a.mikiporntube.one | 0i0i0i0.com |
 | a.mikop.xyz | 0i0i0i0.com |
 | a.misctool.xyz | 0i0i0i0.com |
@@ -135,7 +136,6 @@
 | a.myprettyads.one | 0i0i0i0.com |
 | a.naliw.xyz | 0i0i0i0.com |
 | a.obrom.xyz | 0i0i0i0.com |
-| a.oz79tx1oa0x.shop | 0i0i0i0.com |
 | a.paulsmatures.com | 0i0i0i0.com |
 | a.paulsmilfs.com | 0i0i0i0.com |
 | a.paulswomen.com | 0i0i0i0.com |
@@ -148,7 +148,6 @@
 | a.rafian.com | 0i0i0i0.com |
 | a.refia.xyz | 0i0i0i0.com |
 | a.reissue2871.xyz | 0i0i0i0.com |
-| a.rpjbtni186w9.shop | 0i0i0i0.com |
 | a.seksohub.com | 0i0i0i0.com |
 | a.shemale99.com | 0i0i0i0.com |
 | a.shubatuuuu.site | 0i0i0i0.com |
@@ -165,7 +164,6 @@
 | a.welfasted.online | 0i0i0i0.com |
 | a.xenar.xyz | 0i0i0i0.com |
 | a.xolen.xyz | 0i0i0i0.com |
-| a.y9wgxd5oy7pi.shop | 0i0i0i0.com |
 | a.zenam.xyz | 0i0i0i0.com |
 | a.zillastream.com | 0i0i0i0.com |
 | a.zvert.xyz | 0i0i0i0.com |
@@ -247,6 +245,7 @@
 | asg.asian-av.com | 0i0i0i0.com |
 | asg.dormtapes.com | 0i0i0i0.com |
 | asg.faperoni.com | 0i0i0i0.com |
+| asg.hornygrail.com | 0i0i0i0.com |
 | asg.irontube.net | 0i0i0i0.com |
 | asg.laivue.com | 0i0i0i0.com |
 | asg.mrporn.online | 0i0i0i0.com |
@@ -278,6 +277,7 @@
 | b.cinvetica.com | 0i0i0i0.com |
 | b.comihon.com | 0i0i0i0.com |
 | b.filexan.com | 0i0i0i0.com |
+| b.gxxxx.site | 0i0i0i0.com |
 | b.harehop.com | 0i0i0i0.com |
 | b.hubhubhub.name | 0i0i0i0.com |
 | b.reissue2871.xyz | 0i0i0i0.com |
@@ -342,7 +342,11 @@
 | client2009x25.xcdn.ovh | 0i0i0i0.com |
 | comezz.xyz | 0i0i0i0.com |
 | communication3x.fun | 0i0i0i0.com |
+| concentration2.fun | 0i0i0i0.com |
+| confrontation2.fun | 0i0i0i0.com |
+| consciousness2.fun | 0i0i0i0.com |
 | content.zbporn.com | 0i0i0i0.com |
+| contradiction2.fun | 0i0i0i0.com |
 | cool.gaygo.tv | 0i0i0i0.com |
 | cool.sunporno.com | 0i0i0i0.com |
 | cool.tubous.com | 0i0i0i0.com |
@@ -358,6 +362,7 @@
 | data.streamtape.com | 0i0i0i0.com |
 | ddd.adil23.xyz | 0i0i0i0.com |
 | deliver.vkcdnservice.com | 0i0i0i0.com |
+| demonstration2.fun | 0i0i0i0.com |
 | dfbdfh4w3.sanjay44.xyz | 0i0i0i0.com |
 | dfgw.neigh11.xyz | 0i0i0i0.com |
 | dg3qtwew.sanjay44.xyz | 0i0i0i0.com |
@@ -370,7 +375,6 @@
 | dog.seetron.net | 0i0i0i0.com |
 | domineering1x.xyz | 0i0i0i0.com |
 | dore.new-indian-porn.com | 0i0i0i0.com |
-| ds.adoktagi.site | 0i0i0i0.com |
 | dsg.reifporn.de | 0i0i0i0.com |
 | dude.pleasedonotblockme.com | 0i0i0i0.com |
 | dust.xxx-video-indian.com | 0i0i0i0.com |
@@ -385,6 +389,7 @@
 | ebd.cda-hd.co | 0i0i0i0.com |
 | eco.blendxxx.com | 0i0i0i0.com |
 | eee.sanjay44.xyz | 0i0i0i0.com |
+| embarrassment2.fun | 0i0i0i0.com |
 | enrgy.fwtrck.com | 0i0i0i0.com |
 | esondvn.ehrydnmdoe.com | 0i0i0i0.com |
 | essential.awmcash.com | 0i0i0i0.com |
@@ -460,6 +465,7 @@
 | imbdemfjjduu.cdnvideo3.com | 0i0i0i0.com |
 | imported1x.xyz | 0i0i0i0.com |
 | in.fuckhardclips.com | 0i0i0i0.com |
+| inappropriate2.fun | 0i0i0i0.com |
 | invast.invast.site | 0i0i0i0.com |
 | invast.site | 0i0i0i0.com |
 | io.fapnado.xxx | 0i0i0i0.com |
@@ -515,7 +521,6 @@
 | lol.globlax.com | 0i0i0i0.com |
 | long1x.xyz | 0i0i0i0.com |
 | loop.bengali-sex-video.com | 0i0i0i0.com |
-| lp.lepayung.shop | 0i0i0i0.com |
 | lpair.xyz | 0i0i0i0.com |
 | luckyz.xyz | 0i0i0i0.com |
 | lx5.homeporntuber.com | 0i0i0i0.com |
@@ -587,7 +592,6 @@
 | o.xoporn.com | 0i0i0i0.com |
 | o313o.com | 0i0i0i0.com |
 | o911o.com | 0i0i0i0.com |
-| ob.chelstance.site | 0i0i0i0.com |
 | oi.429men.com | 0i0i0i0.com |
 | oi.fapnado.xxx | 0i0i0i0.com |
 | oi.fapnow.xxx | 0i0i0i0.com |
@@ -604,6 +608,7 @@
 | outya.xyz | 0i0i0i0.com |
 | ox8.topsexhdvideos.com | 0i0i0i0.com |
 | ozoj.com | 0i0i0i0.com |
+| p.gerdasetmay.site | 0i0i0i0.com |
 | p.hgfdtujlknhkghf.site | 0i0i0i0.com |
 | p.htdjylhttfm0424.space | 0i0i0i0.com |
 | p.strjuylfrjyk.site | 0i0i0i0.com |
@@ -639,6 +644,7 @@
 | pre.myfuck.club | 0i0i0i0.com |
 | pre.porno102.com | 0i0i0i0.com |
 | pre.pornuxaxa.com | 0i0i0i0.com |
+| preoccupation3x.fun | 0i0i0i0.com |
 | prsogokfqspc.cdnvideo3.com | 0i0i0i0.com |
 | purp.sukaporn.com | 0i0i0i0.com |
 | puzzio.xyz | 0i0i0i0.com |
@@ -653,6 +659,7 @@
 | qoqv.com | 0i0i0i0.com |
 | qovua60gue.tubewolf.com | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
+| qualification2.fun | 0i0i0i0.com |
 | quantoz.xyz | 0i0i0i0.com |
 | quanzai.xyz | 0i0i0i0.com |
 | quatxio.xyz | 0i0i0i0.com |
@@ -670,7 +677,6 @@
 | rdx.javmotion.com | 0i0i0i0.com |
 | recondite1x.xyz | 0i0i0i0.com |
 | redi.teengirl-pics.com | 0i0i0i0.com |
-| ref.assing.online | 0i0i0i0.com |
 | ref.dependered.site | 0i0i0i0.com |
 | ref.instandant.site | 0i0i0i0.com |
 | reklama.teenfuckhd.com | 0i0i0i0.com |
@@ -679,6 +685,7 @@
 | rerynjie.com | 0i0i0i0.com |
 | rest.sexypornvideo.net | 0i0i0i0.com |
 | reton.free-porn-videos.org | 0i0i0i0.com |
+| revolutionary2.fun | 0i0i0i0.com |
 | rich1x.xyz | 0i0i0i0.com |
 | rogligh.ehrydnmdoe.com | 0i0i0i0.com |
 | rosetua.xyz | 0i0i0i0.com |
@@ -696,6 +703,7 @@
 | s.malay.buzz | 0i0i0i0.com |
 | s.moccapedia.com | 0i0i0i0.com |
 | s.oralblow.com | 0i0i0i0.com |
+| s.porndub.us | 0i0i0i0.com |
 | s.pornox.site | 0i0i0i0.com |
 | s.pornworld.pro | 0i0i0i0.com |
 | s.quedo.buzz | 0i0i0i0.com |
@@ -741,10 +749,8 @@
 | spyglass.reklamko.pro | 0i0i0i0.com |
 | spyglass.reklon.net | 0i0i0i0.com |
 | srtw.neigh11.xyz | 0i0i0i0.com |
-| srv1.bunnymediaserver.com | 0i0i0i0.com |
 | ssltest.soundrussian.com | 0i0i0i0.com |
 | staticz.hotpornfile.org | 0i0i0i0.com |
-| stepfantasy.art | 0i0i0i0.com |
 | stkk.spinna.shop | 0i0i0i0.com |
 | store4porn.com | 0i0i0i0.com |
 | strengk.xyz | 0i0i0i0.com |
@@ -753,6 +759,7 @@
 | sub.empressleak.biz | 0i0i0i0.com |
 | sup.srvtax.com | 0i0i0i0.com |
 | super.koreanpornmovie.xyz | 0i0i0i0.com |
+| supplementary2.fun | 0i0i0i0.com |
 | support.streamjav.top | 0i0i0i0.com |
 | tagbucks.xyz | 0i0i0i0.com |
 | tagmai.xyz | 0i0i0i0.com |
@@ -794,6 +801,7 @@
 | uotbzz.xyz | 0i0i0i0.com |
 | upinu.xyz | 0i0i0i0.com |
 | upperoh.hubhubhub.name | 0i0i0i0.com |
+| usdtaz.xyz | 0i0i0i0.com |
 | uthbxvz.bestzba.com | 0i0i0i0.com |
 | v1.sellbuy.click | 0i0i0i0.com |
 | vd.7vid.net | 0i0i0i0.com |
@@ -861,6 +869,7 @@
 | xserve.zapurl.cc | 0i0i0i0.com |
 | xxx.sdtraff.com | 0i0i0i0.com |
 | xxxlove.rooski.net | 0i0i0i0.com |
+| y.sphinxtube.com | 0i0i0i0.com |
 | y43wd34.dagobert33.xyz | 0i0i0i0.com |
 | you75.youpornsexvideos.com | 0i0i0i0.com |
 | yt.jabesmen.shop | 0i0i0i0.com |
@@ -873,6 +882,7 @@
 | zinipx.xyz | 0i0i0i0.com |
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
+| stepfantasy.art | 77980.bodis.com |
 | ad.desibp.com | api.clickaine.com |
 | addin.name | u50.0i0i0i0.com |
 | adsxtits.com | u50.0i0i0i0.com |
@@ -889,3 +899,5 @@
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
 | www.newdin.name | u50.0i0i0i0.com |
+| ontj.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |

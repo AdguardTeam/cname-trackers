@@ -43,6 +43,7 @@
     * h-34mvnza6.online-metrix.net
     * h-39zuido3.online-metrix.net
     * h-3ch524y7.online-metrix.net
+    * h-3egydtt8.online-metrix.net
     * h-3gk2er3j.online-metrix.net
     * h-3r1xqsku.online-metrix.net
     * h-3u2bmrkg.online-metrix.net
@@ -122,8 +123,10 @@
     * h-96clh8g7.online-metrix.net
     * h-9bkavv7r.online-metrix.net
     * h-9f85se8g.online-metrix.net
+    * h-9i4fauog.online-metrix.net
     * h-9ivuwf8u.online-metrix.net
     * h-9kqz9786.online-metrix.net
+    * h-9t5j16he.online-metrix.net
     * h-9wtp561i.online-metrix.net
     * h-9yw99lm5.online-metrix.net
     * h-9zzsit89.online-metrix.net
@@ -234,6 +237,7 @@
     * h-cards.citidirect.online-metrix.net
     * h-carhistory.online-metrix.net
     * h-cas.online-metrix.net
+    * h-cb9r8vh8.online-metrix.net
     * h-cbd.online-metrix.net
     * h-cco37scf.online-metrix.net
     * h-cdcmobile.online-metrix.net
@@ -814,6 +818,7 @@
 | nv-2.liveaction.com | h-34mvnza6.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
 | fss.glbank.com | h-3ch524y7.online-metrix.net |
+| xmt.wallet.cat.earlywarning.io | h-3egydtt8.online-metrix.net |
 | r7s.scl.swisscom.ch | h-3gk2er3j.online-metrix.net |
 | tmcontent.sixt.com | h-3r1xqsku.online-metrix.net |
 | content.lyft.com | h-3u2bmrkg.online-metrix.net |
@@ -921,8 +926,10 @@
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
 | wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
+| img2.bbva.com.ar | h-9i4fauog.online-metrix.net |
 | pn1927.natwestplus.com | h-9ivuwf8u.online-metrix.net |
 | contendvc.cnouyi.pizza | h-9kqz9786.online-metrix.net |
+| tm.flowbirdapp.com | h-9t5j16he.online-metrix.net |
 | devices.yondercard.com | h-9wtp561i.online-metrix.net |
 | dvc0271.play.jackpocket.com | h-9yw99lm5.online-metrix.net |
 | tags.greenfeatheronline.com | h-9zzsit89.online-metrix.net |
@@ -1072,6 +1079,7 @@
 | cmprofile.cards.citidirect.com | h-cards.citidirect.online-metrix.net |
 | tmx.carhistory.com.au | h-carhistory.online-metrix.net |
 | osn-cirrus.cas.org | h-cas.online-metrix.net |
+| content.b-social.io | h-cb9r8vh8.online-metrix.net |
 | tm.cbd.ae | h-cbd.online-metrix.net |
 | content.bnpparibas.net | h-cco37scf.online-metrix.net |
 | content.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |

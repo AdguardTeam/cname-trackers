@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714982408402        ; Serial
+           1715587208341        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -119,6 +119,7 @@ assets1.vero.co.nz CNAME .
 assets1.vero.com.au CNAME .
 attribution.batesfootwear.com CNAME .
 attribution.grasshoppers.com CNAME .
+attribution.hushpuppies.com CNAME .
 attribution.keds.com CNAME .
 attribution.lebara.com CNAME .
 attribution.lendopolis.com CNAME .
@@ -167,7 +168,6 @@ cookies.jll.com.mx CNAME .
 cookies.jll.com.my CNAME .
 cookies.jll.com.ph CNAME .
 cookies.jll.com.sg CNAME .
-cookies.jll.com.tr CNAME .
 cookies.jll.cz CNAME .
 cookies.jll.de CNAME .
 cookies.jll.es CNAME .
@@ -190,6 +190,7 @@ cookies.joneslanglasalle.com.cn CNAME .
 cookies.joneslanglasalle.com.vn CNAME .
 cookies.us.jll.com CNAME .
 csp.prod.saga.co.uk CNAME .
+ctp.moneymetals.com CNAME .
 data.ensightendemo.com CNAME .
 data.experian.co.uk CNAME .
 data.experianidentityservice.co.uk CNAME .

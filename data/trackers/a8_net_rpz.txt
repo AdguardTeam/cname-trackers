@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714982408402        ; Serial
+           1715587208341        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -483,7 +483,6 @@ a8clk.dr-40.com CNAME .
 a8clk.dr-8.com CNAME .
 a8clk.driver-island.com CNAME .
 a8clk.e-ninniku.jp CNAME .
-a8clk.e-shikakunavi.com CNAME .
 a8clk.ec.halmek.co.jp CNAME .
 a8clk.ec.oreno.co.jp CNAME .
 a8clk.ectool.jp CNAME .
@@ -815,11 +814,11 @@ a8cv.career.medpeer.jp CNAME .
 a8cv.careerpark-agent.jp CNAME .
 a8cv.carryonmall.com CNAME .
 a8cv.cart.bi-su.jp CNAME .
+a8cv.cart3.toku-talk.com CNAME .
 a8cv.cast-er.com CNAME .
 a8cv.celav.net CNAME .
 a8cv.celbest.urr.jp CNAME .
 a8cv.cellbic.net CNAME .
-a8cv.chapobook.com CNAME .
 a8cv.chefbox.jp CNAME .
 a8cv.chillaxy.jp CNAME .
 a8cv.chuoms.com CNAME .

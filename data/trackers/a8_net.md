@@ -484,7 +484,6 @@
 | a8clk.dr-8.com | trck.a8.net |
 | a8clk.driver-island.com | trck.a8.net |
 | a8clk.e-ninniku.jp | trck.a8.net |
-| a8clk.e-shikakunavi.com | trck.a8.net |
 | a8clk.ec.halmek.co.jp | trck.a8.net |
 | a8clk.ec.oreno.co.jp | trck.a8.net |
 | a8clk.ectool.jp | trck.a8.net |
@@ -816,11 +815,11 @@
 | a8cv.careerpark-agent.jp | trck.a8.net |
 | a8cv.carryonmall.com | trck.a8.net |
 | a8cv.cart.bi-su.jp | trck.a8.net |
+| a8cv.cart3.toku-talk.com | trck.a8.net |
 | a8cv.cast-er.com | trck.a8.net |
 | a8cv.celav.net | trck.a8.net |
 | a8cv.celbest.urr.jp | trck.a8.net |
 | a8cv.cellbic.net | trck.a8.net |
-| a8cv.chapobook.com | trck.a8.net |
 | a8cv.chefbox.jp | trck.a8.net |
 | a8cv.chillaxy.jp | trck.a8.net |
 | a8cv.chuoms.com | trck.a8.net |

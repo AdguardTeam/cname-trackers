@@ -490,6 +490,7 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -1028,7 +1029,6 @@
 | refer.ooma.com | ooma-ssl.extole.com |
 | share.openenglish.com | openenglish.extole.io |
 | share.openenglish.com.br | openenglish.extole.io |
-| share.openenglish.com.tr | openenglish.extole.io |
 | share.opploans.com | opploans.extole.io |
 | refer.orbitz.com | orbitz.extole.io |
 | refer.orientaltrading.com | oriental-trading.extole.com |
@@ -1155,6 +1155,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |

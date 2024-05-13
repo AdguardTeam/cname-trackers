@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714982408402        ; Serial
+           1715587208341        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -189,6 +189,7 @@ content.amerantbank.com CNAME .
 content.apruvd.com CNAME .
 content.asurion53.com CNAME .
 content.atmosphere.ca CNAME .
+content.b-social.io CNAME .
 content.bank-abc.com CNAME .
 content.bankerslife.com CNAME .
 content.bankoncit.com CNAME .
@@ -504,6 +505,7 @@ img.zootweb.com CNAME .
 img02.pensionfund.org CNAME .
 img1.bog.ge CNAME .
 img2.avant.com CNAME .
+img2.bbva.com.ar CNAME .
 img2.bog.ge CNAME .
 img2.everbank.com CNAME .
 img2.otto.nl CNAME .
@@ -900,6 +902,7 @@ tm.directly.com CNAME .
 tm.espnbet.com CNAME .
 tm.fanduel.com CNAME .
 tm.fidelity.co.uk CNAME .
+tm.flowbirdapp.com CNAME .
 tm.goldennuggetcasino.com CNAME .
 tm.gumtree.co.za CNAME .
 tm.gumtree.com.au CNAME .
@@ -1022,6 +1025,7 @@ www.content.bnl.it CNAME .
 www.content.mabanquepro.bnpparibas CNAME .
 xfp.intuit.com CNAME .
 xmt.paze.com CNAME .
+xmt.wallet.cat.earlywarning.io CNAME .
 ydkwim.targobank.de CNAME .
 yr3ioxw.hoaresbank.co.uk CNAME .
 zacchaeus.logos.com CNAME .

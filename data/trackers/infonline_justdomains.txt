@@ -1158,6 +1158,7 @@ data-86d2aee9fa.sueddeutsche.de
 data-87563bd275.apps.iocnt.de
 data-8793ca6c7d.rpr1.de
 data-8793ca6c7d.vereinsleben.de
+data-87c1de682f.ingolstadt.de
 data-87c7424086.apps.iocnt.de
 data-88ba07a559.motor1.com
 data-89254d05a3.alpin.de
@@ -1826,6 +1827,7 @@ data-db0ecef264.trafikantenzeitung.at
 data-db3e9abc5d.muensterschezeitung.de
 data-db4b387c99.heizungsjournal.de
 data-db73bfa52c.apps.iocnt.de
+data-db9a1c2da1.konstanz.de
 data-db9f015784.connect-living.de
 data-db9f015784.pc-magazin.de
 data-dbb3f1513f.apps.iocnt.de

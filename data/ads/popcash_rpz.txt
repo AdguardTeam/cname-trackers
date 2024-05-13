@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714982408402        ; Serial
+           1715587208341        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -224,6 +224,7 @@ bandicoot.mohit.dev CNAME .
 bandicoot.p0.design CNAME .
 bandicoot.sigerr.org CNAME .
 barnacle.big-in-japan.com CNAME .
+barnacle.natalieandmikeyb.com CNAME .
 barnacle.nixfifty.com CNAME .
 barnacle.viewsource.io CNAME .
 barracuda.civicdatalibrary.org CNAME .
@@ -237,6 +238,7 @@ bass.goulet.dev CNAME .
 bass.siterig.io CNAME .
 bat.heelix.be CNAME .
 bear.big.dk CNAME .
+bear.builtbyborda.com CNAME .
 bear.datingrelationshipsadvice.com CNAME .
 bear.jake.nyc CNAME .
 bear.modulr.design CNAME .
@@ -288,6 +290,7 @@ canid.mestamaster.fi CNAME .
 canidae.collectingsocialphoto.org CNAME .
 canidae.fidum.uk CNAME .
 capybara.civicsoftwarefoundation.org CNAME .
+capybara.kylewinton.com CNAME .
 capybara.randyhamiltonelectric.com CNAME .
 cardinal.businessfirstonline.co.uk CNAME .
 cardinal.ensembleblock.com CNAME .
@@ -682,7 +685,6 @@ mackerel.passiveincome.io CNAME .
 magpie.onething.org CNAME .
 magpie.phil.dev CNAME .
 mammal.autoidle.com CNAME .
-mammal.robholmes.app CNAME .
 manatee.biodom.bio CNAME .
 manatee.creativepassport.net CNAME .
 mandrill.castingcollective.net CNAME .
@@ -794,7 +796,6 @@ peafowl.projectstrackt.dev CNAME .
 penguin.craftpeak.io CNAME .
 penguin.mobiadroit.com CNAME .
 penguin.revolana.com CNAME .
-penguin.sunny.app CNAME .
 perch.luckydiff.com CNAME .
 perch.matiasvad.com CNAME .
 perch.searchwp.com CNAME .
@@ -828,7 +829,6 @@ porpoise.jackwhiting.co.uk CNAME .
 porpoise.kristinholl.com CNAME .
 porpoise.numberzs.com CNAME .
 prairiedog.hashnode.com CNAME .
-prawn.fffuel.co CNAME .
 prawn.lionsmouth.digital CNAME .
 prawn.samgarson.com CNAME .
 primate.oleggera.com CNAME .

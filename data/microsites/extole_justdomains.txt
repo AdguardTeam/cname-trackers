@@ -128,6 +128,7 @@ www.trevoce.com
 businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
+em924.refer.starbucks.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -579,7 +580,6 @@ share.ollocard.com
 share.onenevada.org
 share.openenglish.com
 share.openenglish.com.br
-share.openenglish.com.tr
 share.opploans.com
 share.origins.com
 share.partsvu.com
@@ -703,7 +703,6 @@ em3904.skillshare.com
 em4367.raf-studentloans.discover.com
 em8561.go2bank.com
 em8928.em.petco.com
-em924.refer.starbucks.com
 em9523.walmartmoneycard.com
 xtl._domainkey.skillshare.com
 sftp.extole.com

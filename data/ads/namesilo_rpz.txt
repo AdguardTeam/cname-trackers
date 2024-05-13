@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1714982408402        ; Serial
+           1715587208341        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -581,6 +581,7 @@ $TTL 300
 3578235.notify6.com CNAME .
 3578239.notify6.com CNAME .
 3578241.notify6.com CNAME .
+3578245.notify6.com CNAME .
 3578253.notifysrv.com CNAME .
 3580293.notifysrv.com CNAME .
 3580393.notify6.com CNAME .
@@ -676,6 +677,7 @@ $TTL 300
 3670315.notify6.com CNAME .
 3672243.notifysrv.com CNAME .
 3682345.notifysrv.com CNAME .
+3684237.notify6.com CNAME .
 3701725.notifysrv.com CNAME .
 3701939.notify6.com CNAME .
 3710061.notify6.com CNAME .
@@ -939,6 +941,7 @@ $TTL 300
 4455804.notify6.com CNAME .
 4465254.notify6.com CNAME .
 4470554.notify6.com CNAME .
+4496664.notify6.com CNAME .
 4527824.notify6.com CNAME .
 4539496.notify6.com CNAME .
 4576708.notify6.com CNAME .
@@ -954,6 +957,7 @@ $TTL 300
 4636902.notify6.com CNAME .
 4648982.notify6.com CNAME .
 4656576.notify6.com CNAME .
+4668192.notify6.com CNAME .
 4680526.notify6.com CNAME .
 4682394.notify6.com CNAME .
 4735242.notify6.com CNAME .
@@ -1040,6 +1044,8 @@ a.advantageclicks.net CNAME .
 a.advertrek.com CNAME .
 a.asvsm.com CNAME .
 a.bizonads-ssp.com CNAME .
+a.cant3am.com CNAME .
+a.etology.com CNAME .
 a.eunow4u.com CNAME .
 a.ma3ion.com CNAME .
 a.optimizesrv.com CNAME .
@@ -1079,8 +1085,6 @@ main.exoclick.com CNAME .
 main.exosrv.com CNAME .
 main.realsrv.com CNAME .
 main0.exosrv.com CNAME .
-management-addisplaynetwork.exads.com CNAME .
-management-adwirk.exads.com CNAME .
 management-boost.exads.com CNAME .
 management-itsup.exads.com CNAME .
 management-slice.exads.com CNAME .
@@ -1098,6 +1102,7 @@ s.advantageclicks.net CNAME .
 s.advertrek.com CNAME .
 s.asvsm.com CNAME .
 s.bizonads-ssp.com CNAME .
+s.cant3am.com CNAME .
 s.datingclix.com CNAME .
 s.eaalink.com CNAME .
 s.elink2b.com CNAME .
@@ -1108,6 +1113,7 @@ s.elna1w.com CNAME .
 s.elna1x.com CNAME .
 s.elnb21.com CNAME .
 s.elnb22.com CNAME .
+s.elnc35.com CNAME .
 s.elnk4b.com CNAME .
 s.elnk4d.com CNAME .
 s.elnk90.com CNAME .
@@ -1211,6 +1217,7 @@ www.3254306.notifysrv.com CNAME .
 www.3270262.notifysrv.com CNAME .
 www.3466857.notify6.com CNAME .
 www.3466863.notify6.com CNAME .
+www.3684237.notify6.com CNAME .
 www.3815579.notify6.com CNAME .
 www.3881818.notify6.com CNAME .
 www.3972246.notify6.com CNAME .
@@ -1223,4 +1230,3 @@ www.8.notify.bizonads-ssp.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
-a.etology.com CNAME .
