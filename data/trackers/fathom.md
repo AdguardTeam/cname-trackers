@@ -25,7 +25,6 @@
 | aardvark.tonicaudio.com | deprecated-custom-domains.b-cdn.net |
 | aardvark.tracking.ovh | deprecated-custom-domains.b-cdn.net |
 | aardwolf.benbrignell.com | deprecated-custom-domains.b-cdn.net |
-| aardwolf.chrisblackwell.me | deprecated-custom-domains.b-cdn.net |
 | aardwolf.keygen.sh | deprecated-custom-domains.b-cdn.net |
 | aardwolf.meinsmartplan.de | deprecated-custom-domains.b-cdn.net |
 | aardwolf.relaycorp.tech | deprecated-custom-domains.b-cdn.net |
@@ -98,6 +97,7 @@
 | bandicoot.p0.design | deprecated-custom-domains.b-cdn.net |
 | bandicoot.sigerr.org | deprecated-custom-domains.b-cdn.net |
 | barnacle.big-in-japan.com | deprecated-custom-domains.b-cdn.net |
+| barnacle.natalieandmikeyb.com | deprecated-custom-domains.b-cdn.net |
 | barnacle.nixfifty.com | deprecated-custom-domains.b-cdn.net |
 | barnacle.viewsource.io | deprecated-custom-domains.b-cdn.net |
 | barracuda.civicdatalibrary.org | deprecated-custom-domains.b-cdn.net |
@@ -112,6 +112,7 @@
 | bass.siterig.io | deprecated-custom-domains.b-cdn.net |
 | bat.heelix.be | deprecated-custom-domains.b-cdn.net |
 | bear.big.dk | deprecated-custom-domains.b-cdn.net |
+| bear.builtbyborda.com | deprecated-custom-domains.b-cdn.net |
 | bear.datingrelationshipsadvice.com | deprecated-custom-domains.b-cdn.net |
 | bear.jake.nyc | deprecated-custom-domains.b-cdn.net |
 | bear.modulr.design | deprecated-custom-domains.b-cdn.net |
@@ -164,6 +165,7 @@
 | canidae.collectingsocialphoto.org | deprecated-custom-domains.b-cdn.net |
 | canidae.fidum.uk | deprecated-custom-domains.b-cdn.net |
 | capybara.civicsoftwarefoundation.org | deprecated-custom-domains.b-cdn.net |
+| capybara.kylewinton.com | deprecated-custom-domains.b-cdn.net |
 | capybara.randyhamiltonelectric.com | deprecated-custom-domains.b-cdn.net |
 | cardinal.businessfirstonline.co.uk | deprecated-custom-domains.b-cdn.net |
 | cardinal.ensembleblock.com | deprecated-custom-domains.b-cdn.net |
@@ -540,7 +542,6 @@
 | lobster.justunderwear.com | deprecated-custom-domains.b-cdn.net |
 | lobster.tonebleed.com | deprecated-custom-domains.b-cdn.net |
 | locust.ausrebellion.earth | deprecated-custom-domains.b-cdn.net |
-| locust.michiel-gerritsen.com | deprecated-custom-domains.b-cdn.net |
 | loon.analogjoe.com | deprecated-custom-domains.b-cdn.net |
 | loon.davidalindahl.com | deprecated-custom-domains.b-cdn.net |
 | loon.energizer.asia | deprecated-custom-domains.b-cdn.net |
@@ -965,7 +966,6 @@
 | aardvark.tonicaudio.com | starman.fathomdns.com |
 | aardvark.tracking.ovh | starman.fathomdns.com |
 | aardwolf.benbrignell.com | starman.fathomdns.com |
-| aardwolf.chrisblackwell.me | starman.fathomdns.com |
 | aardwolf.keygen.sh | starman.fathomdns.com |
 | aardwolf.meinsmartplan.de | starman.fathomdns.com |
 | aardwolf.relaycorp.tech | starman.fathomdns.com |
@@ -1470,7 +1470,6 @@
 | lobster.justunderwear.com | starman.fathomdns.com |
 | lobster.tonebleed.com | starman.fathomdns.com |
 | locust.ausrebellion.earth | starman.fathomdns.com |
-| locust.michiel-gerritsen.com | starman.fathomdns.com |
 | loon.davidalindahl.com | starman.fathomdns.com |
 | loon.energizer.asia | starman.fathomdns.com |
 | loon.jrmyfranck.com | starman.fathomdns.com |
@@ -1529,6 +1528,7 @@
 | mole.gostartupco.com | starman.fathomdns.com |
 | mole.rtbhouse.com | starman.fathomdns.com |
 | mole.vcntlee.com | starman.fathomdns.com |
+| mollusk.forwardmx.io | starman.fathomdns.com |
 | mollusk.working.actor | starman.fathomdns.com |
 | mongoose.jasonlbeggs.com | starman.fathomdns.com |
 | mongoose.scrumgenius.com | starman.fathomdns.com |

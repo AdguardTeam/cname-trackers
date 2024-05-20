@@ -370,6 +370,7 @@
 ||web.tummytox.it^
 ||web.tummytox.pt^
 ||web.tummytox.sk^
+||web.usautosupply.com^
 ||web.web.tomasiauto.com^
 ||web.x.ilpost.it^
 ||webanalytics.also.com^
@@ -382,9 +383,6 @@
 ||webt.eu.teac-audio.com^
 ||webt.pure-audio.com^
 ||webt.store.okmilo.com^
-||wetr.sportscheck.at^
-||wetr.sportscheck.ch^
-||wetr.sportscheck.com^
 ||wt.ara.ad^
 ||wt.ara.cat^
 ||wt.arabalears.cat^

@@ -33,7 +33,6 @@
     * te-witt-international-nl.oghub.io
     * te-witt-international-sk.oghub.io
     * te-witt-weiden-at.oghub.io
-    * te-witt-weiden-ch.oghub.io
     * te-witt-weiden-de.oghub.io
     * te-yomonda-de.oghub.io
     * te-your-look-for-less-nl.oghub.io
@@ -158,7 +157,6 @@
 | te.witt-international.nl | te-witt-international-nl.oghub.io |
 | te.witt-international.sk | te-witt-international-sk.oghub.io |
 | te.witt-weiden.at | te-witt-weiden-at.oghub.io |
-| te.witt-weiden.ch | te-witt-weiden-ch.oghub.io |
 | te.witt-weiden.de | te-witt-weiden-de.oghub.io |
 | te.yomonda.de | te-yomonda-de.oghub.io |
 | te.your-look-for-less.nl | te-your-look-for-less-nl.oghub.io |

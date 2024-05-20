@@ -146,7 +146,6 @@
 ||aardvark.tonicaudio.com^
 ||aardvark.tracking.ovh^
 ||aardwolf.benbrignell.com^
-||aardwolf.chrisblackwell.me^
 ||aardwolf.keygen.sh^
 ||aardwolf.meinsmartplan.de^
 ||aardwolf.relaycorp.tech^
@@ -654,7 +653,6 @@
 ||lobster.justunderwear.com^
 ||lobster.tonebleed.com^
 ||locust.ausrebellion.earth^
-||locust.michiel-gerritsen.com^
 ||loon.davidalindahl.com^
 ||loon.energizer.asia^
 ||loon.jrmyfranck.com^
@@ -713,6 +711,7 @@
 ||mole.gostartupco.com^
 ||mole.rtbhouse.com^
 ||mole.vcntlee.com^
+||mollusk.forwardmx.io^
 ||mollusk.working.actor^
 ||mongoose.jasonlbeggs.com^
 ||mongoose.scrumgenius.com^
@@ -1111,7 +1110,6 @@
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^
 ||dntcl.qualaroo.com^
-||img.7xixi.site^
 ||live-tag.creatopy.net^
 ||log.ads-m.net^
 ||sp.cleaningkeepers.com^

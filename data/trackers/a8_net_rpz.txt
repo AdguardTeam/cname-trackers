@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1715587208341        ; Serial
+           1716192007416        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -799,7 +799,6 @@ a8cv.bonaventura.shop CNAME .
 a8cv.borderfree-official.com CNAME .
 a8cv.brandeuse.jp CNAME .
 a8cv.brandnet.info CNAME .
-a8cv.brassiere-shorts.jp CNAME .
 a8cv.bresmile.jp CNAME .
 a8cv.bright-app.com CNAME .
 a8cv.broadbandservice.jp CNAME .
@@ -1433,7 +1432,6 @@ cv.cp-c21.com CNAME .
 cv.denkichoice.jp CNAME .
 cv.drive-hikari.net CNAME .
 cv.e-tukline.jp CNAME .
-cv.figure.toy-kaitoru.com CNAME .
 cv.fire-bird.jp CNAME .
 cv.gas-choice.net CNAME .
 cv.h-docomo.com CNAME .

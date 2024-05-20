@@ -65,7 +65,6 @@
 | analytics.zevvle.com | custom.plausible.io |
 | antitracking.owncast.online | custom.plausible.io |
 | api.digitalpiloten.org | custom.plausible.io |
-| api.eichendorffschule.online | custom.plausible.io |
 | api.elliehuxtable.com | custom.plausible.io |
 | api.fuck.education | custom.plausible.io |
 | api.ryanyao.design | custom.plausible.io |
@@ -510,7 +509,6 @@
 | stats.faluninfo.mk | custom.plausible.io |
 | stats.faluninfo.rs | custom.plausible.io |
 | stats.faluninfo.si | custom.plausible.io |
-| stats.fantinel.dev | custom.plausible.io |
 | stats.fastbackward.app | custom.plausible.io |
 | stats.felipesere.com | custom.plausible.io |
 | stats.femtobill.com | custom.plausible.io |
@@ -605,7 +603,6 @@
 | stats.kendix.org | custom.plausible.io |
 | stats.kensho.com | custom.plausible.io |
 | stats.kettlebellbundle.com | custom.plausible.io |
-| stats.keyscore.me | custom.plausible.io |
 | stats.kfcsint-lenaartsjeugd.be | custom.plausible.io |
 | stats.klj-consult.com | custom.plausible.io |
 | stats.knowkit.cloud | custom.plausible.io |
@@ -630,7 +627,6 @@
 | stats.lefthoek.com | custom.plausible.io |
 | stats.legendofnom.com | custom.plausible.io |
 | stats.leoloso.com | custom.plausible.io |
-| stats.liamdavis.dev | custom.plausible.io |
 | stats.lica.at | custom.plausible.io |
 | stats.lik.fr | custom.plausible.io |
 | stats.limitlessnetworks.eu | custom.plausible.io |
@@ -694,7 +690,6 @@
 | stats.officefoosball.com | custom.plausible.io |
 | stats.oldtinroof.com | custom.plausible.io |
 | stats.oliveoil.pro | custom.plausible.io |
-| stats.olliejudge.com | custom.plausible.io |
 | stats.onepagelove.com | custom.plausible.io |
 | stats.orbitalhealth.co | custom.plausible.io |
 | stats.ordinarypuzzles.com | custom.plausible.io |

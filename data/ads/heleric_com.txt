@@ -2,7 +2,6 @@
 ! Company name: heleric.com
 ||ac.stigmaicomfy.com^
 ||ae.craccaanybody.com^
-||ae.riataspardahs.com^
 ||ag.axonesjames.com^
 ||ah.cabbingdandled.com^
 ||ah.tabskeawe.com^
@@ -21,7 +20,6 @@
 ||ax.requotebatman.com^
 ||az.koipatolipper.com^
 ||bb.mahdianupcurls.com^
-||bb.vanhonker.com^
 ||bb.whaupburgeon.com^
 ||bc.manwaysprod.com^
 ||bd.inclipscalabur.com^
@@ -29,7 +27,6 @@
 ||be.habitueflasque.com^
 ||be.hyahyalay.com^
 ||be.jambertarry.com^
-||bf.buffersling.com^
 ||bh.twifoilperoxyl.com^
 ||bi.narineware.com^
 ||bj.unfeeddizoic.com^
@@ -53,6 +50,7 @@
 ||ck.abdalpaces.com^
 ||ck.barefitaiding.com^
 ||ck.fusainswheeled.com^
+||ck.kyoodlehewe.com^
 ||cl.durezzacrowns.com^
 ||cq.stoundisocrat.com^
 ||cs.daemonshymens.com^
@@ -81,7 +79,6 @@
 ||dw.organaamnions.com^
 ||dy.araucangozell.com^
 ||dy.dautedergot.com^
-||dy.fitrootmisterm.com^
 ||dz.banyaitlingit.com^
 ||ec.didnsunns.com^
 ||ed.druggertruckle.com^
@@ -186,7 +183,6 @@
 ||jr.wishjolty.com^
 ||js.gussiesarkosic.com^
 ||jv.curiousuraemia.com^
-||jv.sugaryestrone.com^
 ||jw.posiedcaridea.com^
 ||jw.scuddedsisals.com^
 ||jx.yonnersekere.com^
@@ -196,7 +192,6 @@
 ||ke.kabalagarsil.com^
 ||kl.embarupbuoy.com^
 ||kl.osmoticchalah.com^
-||kp.stingeantonia.com^
 ||kq.baggilymitoses.com^
 ||kr.cafenehkikki.com^
 ||ks.tipsifyfriezer.com^
@@ -206,7 +201,6 @@
 ||kv.patenssabzi.com^
 ||kw.phaseranarch.com^
 ||kx.ragerystenchy.com^
-||la.lamdensnip.com^
 ||lb.snakilyglebae.com^
 ||lc.punkahskayles.com^
 ||ld.stengskelped.com^
@@ -255,7 +249,6 @@
 ||oa.kettlewharves.com^
 ||oa.shticksconturb.com^
 ||of.thomismtoast.com^
-||og.cejainlike.com^
 ||og.elemeuric.com^
 ||ol.dundeesmemo.com^
 ||on.culverscoping.com^
@@ -265,8 +258,8 @@
 ||ou.samogonmarvy.com^
 ||oz.bjornesaviour.com^
 ||oz.lokaforky.com^
-||pg.maftirkolo.com^
 ||pi.beaufintorque.com^
+||pj.uptraceforlore.com^
 ||pk.tawersasocial.com^
 ||pl.tourteardass.com^
 ||pm.clokemidriff.com^
@@ -298,6 +291,7 @@
 ||qo.enamelsdune.com^
 ||qr.grogsprats.com^
 ||qr.heezyvedaism.com^
+||qs.planxtyroaring.com^
 ||qw.garpikewoodbox.com^
 ||qw.teedoping.com^
 ||qy.narrateharmala.com^
@@ -305,6 +299,7 @@
 ||ra.birdeyedigenea.com^
 ||rd.gamglossae.com^
 ||rd.pulayanyet.com^
+||rf.hwancangue.com^
 ||rh.impresasct.com^
 ||ri.eightvowrinkle.com^
 ||rj.rivageroily.com^
@@ -389,7 +384,6 @@
 ||va.aielheyrat.com^
 ||va.zoilistfrowzly.com^
 ||vc.rompishvariola.com^
-||vd.clipserelock.com^
 ||ve.gweedunweld.com^
 ||vg.piaroanjust.com^
 ||vh.pewageconcile.com^
@@ -409,7 +403,6 @@
 ||vw.snippyteevee.com^
 ||vx.azuresjukes.com^
 ||vx.womerasecocide.com^
-||wb.aliensplitch.com^
 ||wb.uncannyuneaths.com^
 ||wd.dimcarnie.com^
 ||wg.clagssyria.com^
@@ -421,10 +414,8 @@
 ||wr.rugosehoarish.com^
 ||wv.donarynahane.com^
 ||wx.redealstonage.com^
-||xb.sungzionism.com^
 ||xc.stupesinosine.com^
 ||xd.meritedyaws.com^
-||xe.ioniumentomic.com^
 ||xh.channercatasta.com^
 ||xi.rankinegaumish.com^
 ||xi.wifeskneels.com^
@@ -432,6 +423,7 @@
 ||xn.brocardgillar.com^
 ||xo.trigscocos.com^
 ||xs.odesschemes.com^
+||xu.chimerscoshing.com^
 ||xw.horrifyclausum.com^
 ||xx.architpled.com^
 ||xx.billaesopus.com^
@@ -440,7 +432,6 @@
 ||xz.rapsseme.com^
 ||ye.coresepyllia.com^
 ||yg.coehornjobbet.com^
-||yg.slantedsecno.com^
 ||yh.jewelyavoir.com^
 ||yk.dissentsangir.com^
 ||yl.calumetjowing.com^

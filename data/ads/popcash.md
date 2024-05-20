@@ -82,7 +82,6 @@
 | aardvark.tonicaudio.com | deprecated-custom-domains.b-cdn.net |
 | aardvark.tracking.ovh | deprecated-custom-domains.b-cdn.net |
 | aardwolf.benbrignell.com | deprecated-custom-domains.b-cdn.net |
-| aardwolf.chrisblackwell.me | deprecated-custom-domains.b-cdn.net |
 | aardwolf.keygen.sh | deprecated-custom-domains.b-cdn.net |
 | aardwolf.meinsmartplan.de | deprecated-custom-domains.b-cdn.net |
 | aardwolf.relaycorp.tech | deprecated-custom-domains.b-cdn.net |
@@ -590,7 +589,6 @@
 | lobster.justunderwear.com | deprecated-custom-domains.b-cdn.net |
 | lobster.tonebleed.com | deprecated-custom-domains.b-cdn.net |
 | locust.ausrebellion.earth | deprecated-custom-domains.b-cdn.net |
-| locust.michiel-gerritsen.com | deprecated-custom-domains.b-cdn.net |
 | loon.davidalindahl.com | deprecated-custom-domains.b-cdn.net |
 | loon.energizer.asia | deprecated-custom-domains.b-cdn.net |
 | loon.jrmyfranck.com | deprecated-custom-domains.b-cdn.net |
@@ -649,6 +647,7 @@
 | mole.gostartupco.com | deprecated-custom-domains.b-cdn.net |
 | mole.rtbhouse.com | deprecated-custom-domains.b-cdn.net |
 | mole.vcntlee.com | deprecated-custom-domains.b-cdn.net |
+| mollusk.forwardmx.io | deprecated-custom-domains.b-cdn.net |
 | mollusk.working.actor | deprecated-custom-domains.b-cdn.net |
 | mongoose.jasonlbeggs.com | deprecated-custom-domains.b-cdn.net |
 | mongoose.scrumgenius.com | deprecated-custom-domains.b-cdn.net |
@@ -1139,7 +1138,6 @@
 | sp.freshlooklens.pk | spixel.b-cdn.net |
 | sp.lenspk.com | spixel.b-cdn.net |
 | sp.theladyshop.pk | spixel.b-cdn.net |
-| img.7xixi.site | st-fly.b-cdn.net |
 | static.netfly.fun | st-fly.b-cdn.net |
 | cdn.responsiq.com | unibotscdn.b-cdn.net |
 | cdn.studiosis.in | unibotscdn.b-cdn.net |

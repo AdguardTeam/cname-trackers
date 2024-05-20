@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1715587208341        ; Serial
+           1716192007416        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -84,6 +84,7 @@ ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
 jii3gnhro.www.emanualonline.com CNAME .
 jiktq0fr9hv6.meleton.ru CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
+kpdp9rozqqublmht.www.bolighub.dk CNAME .
 li3k4d70ig52.resourceya.com CNAME .
 lofo3l15c674.platform.replai.io CNAME .
 lv6od3a4sz12.www.logology.co CNAME .

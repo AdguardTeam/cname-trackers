@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1715587208341        ; Serial
+           1716192007416        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -203,7 +203,6 @@ affiliate.mobilonline.sk CNAME .
 affiliate.mojemincovna.cz CNAME .
 affiliate.montessorihracky.cz CNAME .
 affiliate.montessorikurz.cz CNAME .
-affiliate.montessoriparenting.org CNAME .
 affiliate.nabytek-forliveshop.cz CNAME .
 affiliate.nakladatelstvi-riva.cz CNAME .
 affiliate.nalepime.cz CNAME .

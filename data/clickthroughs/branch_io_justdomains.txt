@@ -223,6 +223,7 @@ analytics.eventbrite.com
 ap.hibbett.com
 app-clicks-corporate.firstrepublic.com
 app-clicks.firstrepublic.com
+app.agebold.com
 app.dickssportinggoods.com
 app.email.influitive.com
 app.golfgalaxy.com
@@ -336,6 +337,7 @@ clicks.fabletics.com
 clicks.flaming.burger-king.ch
 clicks.food.mercato.com
 clicks.info.alle.com
+clicks.justfab.fr
 clicks.kfc.co.uk
 clicks.kfc.fr
 clicks.lifesum.com
@@ -456,12 +458,14 @@ email.everyonesocial.lexisnexisrisk.com
 email.everyonesocial.lumen.com
 email.everyonesocial.merckgroup.com
 email.everyonesocial.neat.no
+email.everyonesocial.netscout.com
 email.everyonesocial.ni.com
 email.everyonesocial.notarize.com
 email.everyonesocial.nuskin.com
 email.everyonesocial.rubrik.com
 email.everyonesocial.united.com
 email.everyonesocial.unity.com
+email.everyonesocial.vidyard.com
 email.firstam.com
 email.floatme.io
 email.fretello.com
@@ -1108,6 +1112,7 @@ app.headuplabs.com
 app.health2sync.com
 app.healthteams.com.au
 app.hear.com
+app.helloeyes.ca
 app.heponda.com
 app.hereiswhatilike.com
 app.hermo.my
@@ -1130,6 +1135,7 @@ app.iroomit.com
 app.itimes.com
 app.iwanttfc.com
 app.jamdoughnut.com
+app.jdrf.org
 app.jili178.us
 app.joatspace.com
 app.joinkroo.com
@@ -1289,6 +1295,7 @@ app.stan.world
 app.straitpay.com
 app.stressbuoy.com
 app.studios.brain.ai
+app.subs.tv
 app.sunstone.in
 app.swari.in
 app.sweeps.fyi
@@ -1488,7 +1495,6 @@ baton.cuetv.online
 battlenet.openapp.link
 bb.onjoyri.de
 bbanywhere.links.rosieapp.com
-bdl.xefyr.com
 be.slowmographer.co
 bears.daigostudio.com
 bentley.app.mobilapp.io
@@ -1796,6 +1802,7 @@ cz-trenyrkarna.m-shop.me
 cz-tropicliberec.m-shop.me
 cz-velkykosik.m-shop.me
 d-app.progressive.com
+d-safetravelsapp.progressive.com
 d-snapshotapp.progressive.com
 d.cybtel.com
 d.delahorro.app
@@ -1812,13 +1819,13 @@ de-metalshop.m-shop.me
 dealfastfood.openapp.link
 debug-r.rover.com
 deep.mimizoo.dev
-deep.plant.chat
 deep.souk.com.br
 deeplink-app.olympia.nl
 deeplink-staging.tops.co.th
 deeplink.api-sandbox.notarycam.com
 deeplink.app.notarycam.com
 deeplink.autotrader.com.au
+deeplink.bigw.com.au
 deeplink.dashnow.my
 deeplink.estheticon.com
 deeplink.gocover.co.za
@@ -2784,6 +2791,7 @@ link.24go.co
 link.360vuz.com
 link.7-eleven.vn
 link.abandonedmonkey.codes
+link.access.medstarhealth.org
 link.adhdinsight.com
 link.ag.fan
 link.aioremote.net
@@ -2794,6 +2802,7 @@ link.allyapp.com
 link.altrua.icanbwell.com
 link.angel.com
 link.antwak.com
+link.anz.com
 link.app.carrx.com
 link.app.dev.fixdapp.com
 link.app.fixdapp.com
@@ -2889,6 +2898,7 @@ link.electrover.se
 link.emblyapp.com
 link.empleyo.com
 link.epmyalptest.com
+link.equimap.app
 link.eventconnect.io
 link.evergreen-life.co.uk
 link.everlance.com
@@ -2912,6 +2922,7 @@ link.fjuul.com
 link.flickplay.co
 link.fn365.co.uk
 link.foodgroup.com
+link.foodi.fr
 link.foodiapp.com
 link.foodliapp.com
 link.forexhero.eu
@@ -2988,7 +2999,6 @@ link.jetstar.com
 link.jig.space
 link.jitta.co
 link.jittawealth.co
-link.jmbl.app
 link.jobble.com
 link.joincitro.com.au
 link.joinswitch.co
@@ -3165,6 +3175,7 @@ link.stabilitas.io
 link.staff.notab.com
 link.stage.easy.me
 link.staging.clearsky.jlg.com
+link.staging.quicktakes.io
 link.starshiphsa.com
 link.staycation.co
 link.staycircles.com
@@ -3258,7 +3269,6 @@ link.youpickit.de
 link.yuu.sg
 link.zikto.com
 link.zipsit.com
-link.zulily.com
 link.zurp.com
 link1.fanfight.com
 linkcmf.insights.md
@@ -3591,6 +3601,7 @@ open.wynk.in
 openshop.m-shop.me
 openshop.oshp.io
 oshp.io
+osn-link.shares.social
 othanasis.openapp.link
 outdoor.theres.co
 oxqq.pandasuite.io
@@ -3836,7 +3847,6 @@ share.elsanow.io
 share.entertainment.com
 share.finory.app
 share.flickasa.com
-share.foxtrotco.com
 share.furaha.co.uk
 share.getthatlemonade.com
 share.gleeph.net
@@ -3950,6 +3960,7 @@ staging-go.getsquire.com
 staging-link-ccontact.focuscura.com
 staging-link.docyt.com
 staging-link.kol.store
+staging-link1.divyabhaskar.com
 staging-links.thriveglobal.com
 staging-refer.rooam.co
 staging.findeck.link

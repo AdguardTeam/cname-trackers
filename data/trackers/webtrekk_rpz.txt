@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1715587208341        ; Serial
+           1716192007416        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -381,6 +381,7 @@ web.tummytox.fr CNAME .
 web.tummytox.it CNAME .
 web.tummytox.pt CNAME .
 web.tummytox.sk CNAME .
+web.usautosupply.com CNAME .
 web.web.tomasiauto.com CNAME .
 web.x.ilpost.it CNAME .
 webanalytics.also.com CNAME .
@@ -393,9 +394,6 @@ webt.eleonto.com CNAME .
 webt.eu.teac-audio.com CNAME .
 webt.pure-audio.com CNAME .
 webt.store.okmilo.com CNAME .
-wetr.sportscheck.at CNAME .
-wetr.sportscheck.ch CNAME .
-wetr.sportscheck.com CNAME .
 wt.ara.ad CNAME .
 wt.ara.cat CNAME .
 wt.arabalears.cat CNAME .

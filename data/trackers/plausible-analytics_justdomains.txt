@@ -52,7 +52,6 @@ analytics.xiloc.net
 analytics.zevvle.com
 antitracking.owncast.online
 api.digitalpiloten.org
-api.eichendorffschule.online
 api.elliehuxtable.com
 api.fuck.education
 api.ryanyao.design
@@ -497,7 +496,6 @@ stats.faluninfo.ba
 stats.faluninfo.mk
 stats.faluninfo.rs
 stats.faluninfo.si
-stats.fantinel.dev
 stats.fastbackward.app
 stats.felipesere.com
 stats.femtobill.com
@@ -592,7 +590,6 @@ stats.keirwhitaker.com
 stats.kendix.org
 stats.kensho.com
 stats.kettlebellbundle.com
-stats.keyscore.me
 stats.kfcsint-lenaartsjeugd.be
 stats.klj-consult.com
 stats.knowkit.cloud
@@ -617,7 +614,6 @@ stats.leavetrackapp.com
 stats.lefthoek.com
 stats.legendofnom.com
 stats.leoloso.com
-stats.liamdavis.dev
 stats.lica.at
 stats.lik.fr
 stats.limitlessnetworks.eu
@@ -681,7 +677,6 @@ stats.odysseeseine.org
 stats.officefoosball.com
 stats.oldtinroof.com
 stats.oliveoil.pro
-stats.olliejudge.com
 stats.onepagelove.com
 stats.orbitalhealth.co
 stats.ordinarypuzzles.com

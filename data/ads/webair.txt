@@ -43,6 +43,7 @@
 ||click-rtb2-apac.afkwa.com^
 ||click-rtb2-apac.newchallenges-dsp.com^
 ||click-rtb2-apac.onenativeads.com^
+||click-rtb2-apac.torchad.com^
 ||click-rtb2-apac.waardex.com^
 ||click-rtb2-apac.xaprio.net^
 ||click-rtb2-eu.afkwa.com^
@@ -123,7 +124,6 @@
 ||cpm.felixads.com^
 ||cpm.fmlabsonline.com^
 ||cpm.foremedia.net^
-||cpm.fw.tv^
 ||cpm.geoadserver.com^
 ||cpm.gwmexchange.com^
 ||cpm.jambojar.com^
@@ -180,6 +180,7 @@
 ||dsp.pushub.net^
 ||dsp.rtbplatform.net^
 ||dsp.xapads.com^
+||dsp.xaprio.net^
 ||dsp.yeesshh.com^
 ||eu.datacygnal.io^
 ||exchange.adkernel.com^
@@ -510,10 +511,12 @@
 ||redir.sunnyshore.xyz^
 ||redir.tropicalsands.club^
 ||redir.tropicalsummer.xyz^
+||redir.widebluetrue.xyz^
 ||results.certifyads.com^
 ||results.checkshield.net^
 ||results.clickverifier.online^
 ||rtb-apac-v4.152media.cloud^
+||rtb-apac-v4.admozartexchange.com^
 ||rtb-apac-v4.adpluto.com^
 ||rtb-apac-v4.afkwa.com^
 ||rtb-apac-v4.aserve1.net^
@@ -553,6 +556,7 @@
 ||rtb-as-uswest.pulsefintech.net^
 ||rtb-eu-v4.152media.cloud^
 ||rtb-eu-v4.adlive.io^
+||rtb-eu-v4.admozartexchange.com^
 ||rtb-eu-v4.adpluto.com^
 ||rtb-eu-v4.afkwa.com^
 ||rtb-eu-v4.aserve1.net^
@@ -724,6 +728,7 @@
 ||rtb-useast.xrtb.io^
 ||rtb-useast.zaimads.com^
 ||rtb-uswest-v4.152media.cloud^
+||rtb-uswest-v4.admozartexchange.com^
 ||rtb-uswest-v4.afkwa.com^
 ||rtb-uswest-v4.aserve1.net^
 ||rtb-uswest-v4.didna.io^
@@ -813,6 +818,7 @@
 ||rtb2-useast.geopop.io^
 ||rtb2-useast.jambojar.com^
 ||rtb2-useast.newchallenges-dsp.com^
+||rtb2-useast.qortex.ai^
 ||rtb2-useast.reachableads.com^
 ||rtb2-useast.t3dsp.com^
 ||rtb2-useast.torchad.com^
@@ -847,18 +853,22 @@
 ||static-rtb2.demandzoo.com^
 ||static-rtb2.e-volution.ai^
 ||static-rtb2.jambojar.com^
+||static-rtb2.n-data.io^
 ||static-rtb2.newchallenges-dsp.com^
 ||static-rtb2.qortex.ai^
 ||static-rtb2.reachableads.com^
 ||static-rtb2.xaprio.net^
 ||static-xml.vespymedia.com^
+||static.152media.cloud^
 ||static.adbite.com^
+||static.adjux.com^
 ||static.admeridianads.com^
 ||static.admidainsight.com^
 ||static.adoperatorx.com^
 ||static.adright.co^
 ||static.adright.com^
 ||static.adsolut.in^
+||static.appocean.media^
 ||static.barcelona-backlinks.es^
 ||static.cerineas.com^
 ||static.creativethingsdoneright.top^
@@ -877,7 +887,6 @@
 ||static.fstsrv6.com^
 ||static.fstsrv7.com^
 ||static.fstsrv8.com^
-||static.fstsrv9.com^
 ||static.myadcampaigns.com^
 ||static.openrtb.in^
 ||static.outpush.net^
@@ -913,10 +922,11 @@
 ||tag.adkernel.com^
 ||tag.musiciansaudience.com^
 ||tq-eu.clouback-1.online^
-||tq-eu.clouback-2.online^
+||tq-eu.clouback-3.online^
 ||tq-eu.donkstar2.online^
 ||tq-eu.explorefast-2.com^
 ||tq-eu.iforcircles-1.online^
+||tq-eu.iforcircles-2.online^
 ||tq-eu.martlochoco1.online^
 ||tq-eu.minsonbar2.online^
 ||tq-eu.minutelight-1.online^
@@ -926,7 +936,7 @@
 ||tq-eu.resugovex-2.co^
 ||tq.adventurefeeds.com^
 ||tq.clouback-1.online^
-||tq.clouback-2.online^
+||tq.clouback-3.online^
 ||tq.explorefast-2.com^
 ||tq.iforcircles-1.online^
 ||tq.iforcircles-2.online^
@@ -1023,7 +1033,7 @@
 ||xml-eu-v4.clickmeniaads.com^
 ||xml-eu-v4.clixvista.com^
 ||xml-eu-v4.clouback-1.online^
-||xml-eu-v4.clouback-2.online^
+||xml-eu-v4.clouback-3.online^
 ||xml-eu-v4.convertap.com^
 ||xml-eu-v4.coupontic.com^
 ||xml-eu-v4.ctrtraffic.com^
@@ -1066,7 +1076,6 @@
 ||xml-eu-v4.resugovex-2.co^
 ||xml-eu-v4.rocoads.com^
 ||xml-eu-v4.sitamedal2.online^
-||xml-eu-v4.sitamedal3.online^
 ||xml-eu-v4.solarad.net^
 ||xml-eu-v4.thenetwork18.com^
 ||xml-eu-v4.topsolutionsmedia.com^
@@ -1156,7 +1165,7 @@
 ||xml-v4.clixvista.com^
 ||xml-v4.clkfst.com^
 ||xml-v4.clouback-1.online^
-||xml-v4.clouback-2.online^
+||xml-v4.clouback-3.online^
 ||xml-v4.convertap.com^
 ||xml-v4.coupontic.com^
 ||xml-v4.cpmvibes.com^
@@ -1221,7 +1230,6 @@
 ||xml-v4.rtxfeed.com^
 ||xml-v4.safesearchguard.com^
 ||xml-v4.sitamedal2.online^
-||xml-v4.sitamedal3.online^
 ||xml-v4.sitamedal4.online^
 ||xml-v4.skycommission.com^
 ||xml-v4.solarad.net^
@@ -1317,7 +1325,7 @@
 ||xml.clixvista.com^
 ||xml.clixwells.com^
 ||xml.clouback-1.online^
-||xml.clouback-2.online^
+||xml.clouback-3.online^
 ||xml.convertise.io^
 ||xml.conxstream.com^
 ||xml.coupontic.com^
@@ -1378,6 +1386,7 @@
 ||xml.mobra.in^
 ||xml.mobreach.com^
 ||xml.mobuppsrtb.com^
+||xml.myadcampaigns.com^
 ||xml.mymedia.club^
 ||xml.newbluetrue.xyz^
 ||xml.octov8.com^
@@ -1430,7 +1439,6 @@
 ||xml.sedodna.com^
 ||xml.shieldcheckerservices.com^
 ||xml.showcasead.com^
-||xml.sitamedal3.online^
 ||xml.sitamedal4.online^
 ||xml.skycommission.com^
 ||xml.speroll.com^
@@ -1483,5 +1491,6 @@
 ||xmlv4.mobuppsrtb.com^
 ||xmlv4.reklama.network^
 ||static.admozartxml.com^
+||static.fstsrv9.com^
 ||static.realtime-bid.com^
 ||push.mywebqsearch.com^

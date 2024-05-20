@@ -192,7 +192,6 @@
 ||affiliate.mojemincovna.cz^
 ||affiliate.montessorihracky.cz^
 ||affiliate.montessorikurz.cz^
-||affiliate.montessoriparenting.org^
 ||affiliate.nabytek-forliveshop.cz^
 ||affiliate.nakladatelstvi-riva.cz^
 ||affiliate.nalepime.cz^

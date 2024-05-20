@@ -853,6 +853,7 @@
 ||4131834.notify6.com^
 ||4133026.notify6.com^
 ||4138684.notify6.com^
+||4142702.notify6.com^
 ||4143324.notify6.com^
 ||4144426.notify6.com^
 ||4149128.notify6.com^
@@ -1000,6 +1001,7 @@
 ||5085594.notify6.com^
 ||5111734.notify6.com^
 ||5114166.notify6.com^
+||5121952.notify6.com^
 ||5132062.notify6.com^
 ||5153152.notify6.com^
 ||5296856.notify6.com^
@@ -1037,6 +1039,7 @@
 ||a.etology.com^
 ||a.eunow4u.com^
 ||a.ma3ion.com^
+||a.n4m5x60.com^
 ||a.optimizesrv.com^
 ||a.paradoxgroup.uk^
 ||a.r8lnet.com^
@@ -1137,6 +1140,7 @@
 ||s.linkw2g.com^
 ||s.ma3ion.com^
 ||s.magsrv.com^
+||s.n4m5x60.com^
 ||s.nowsrv.com^
 ||s.opoxv.com^
 ||s.opti-digital.com^

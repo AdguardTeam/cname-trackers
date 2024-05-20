@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1715587208341        ; Serial
+           1716192007416        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 actionlk.ozie.co.jp CNAME .
 al.484364.com CNAME .
+al.aaa-shop.jp CNAME .
 al.amiami345.shop CNAME .
 al.andyell2.com CNAME .
 al.apros.co.jp CNAME .

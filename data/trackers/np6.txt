@@ -1027,6 +1027,7 @@
 ||tr.think.lvmh.fr^
 ||tr.thisiseurope.moethennessy.com^
 ||tr.tns.harmonie-mutuelle.fr^
+||tr.toner-service.fr^
 ||tr.tonerservices.fr^
 ||tr.tourisme.visit-lanarbonnaise.com^
 ||tr.tpe.harmonie-mutuelle.fr^

@@ -77,6 +77,7 @@ cdn17.citizensbank.com
 cdn2.intercambioexpress.com
 cdn2.lfg.com
 cdn2.moneycorp.com
+cdn3.littlecaesars.com
 cdn3.moneycorp.com
 cdna-paymentncb.cofidis.be
 cdna.cofidis.es
@@ -469,6 +470,7 @@ id.latitudefinancial.com
 identity.myblueprint.arkansasbluecross.com
 idhtm.bb.com.br
 idstatus.sky.com
+idstatus.sky.it
 im2.prod.amount.com
 image.online.adp.com
 images.applyfleet.com
@@ -566,6 +568,7 @@ metrix.motosport.com
 metrix.us.ovhcloud.com
 mnt.sbisec.co.jp
 mobile-content-f.autozone.com
+mobile-content.pumb.ua
 mobile-tmx.ssisurveys.com
 mobile.du.ae
 mobilecontent.networks.prod.p0.phx-infra.com
@@ -780,6 +783,7 @@ srv.squaretrade.com
 srv.squaretrade.com.au
 srv.squaretrade.dk
 srv.squaretrade.es
+srv.squaretrade.no
 ssafp.samsclub.com
 st10.sofi.com
 stat.bluorbank.lv
@@ -938,8 +942,10 @@ tmx.carhistory.com.au
 tmx.efsllc.com
 tmx.gotobilling.com
 tmx.kijiji.ca
+tmx.manulifebank.com
 tmx.monzo.co.uk
 tmx.pampersrewards.com
+tmx.pat.td.com
 tmx.prod.efsllc.com
 tmx.rnd.gemaltodigitalbankingidcloud.com
 tmx.tchek.com

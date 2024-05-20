@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1715587208341        ; Serial
+           1716192007416        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -88,6 +88,7 @@ cdn17.citizensbank.com CNAME .
 cdn2.intercambioexpress.com CNAME .
 cdn2.lfg.com CNAME .
 cdn2.moneycorp.com CNAME .
+cdn3.littlecaesars.com CNAME .
 cdn3.moneycorp.com CNAME .
 cdna-paymentncb.cofidis.be CNAME .
 cdna.cofidis.es CNAME .
@@ -480,6 +481,7 @@ id.latitudefinancial.com CNAME .
 identity.myblueprint.arkansasbluecross.com CNAME .
 idhtm.bb.com.br CNAME .
 idstatus.sky.com CNAME .
+idstatus.sky.it CNAME .
 im2.prod.amount.com CNAME .
 image.online.adp.com CNAME .
 images.applyfleet.com CNAME .
@@ -577,6 +579,7 @@ metrix.motosport.com CNAME .
 metrix.us.ovhcloud.com CNAME .
 mnt.sbisec.co.jp CNAME .
 mobile-content-f.autozone.com CNAME .
+mobile-content.pumb.ua CNAME .
 mobile-tmx.ssisurveys.com CNAME .
 mobile.du.ae CNAME .
 mobilecontent.networks.prod.p0.phx-infra.com CNAME .
@@ -791,6 +794,7 @@ srv.squaretrade.com CNAME .
 srv.squaretrade.com.au CNAME .
 srv.squaretrade.dk CNAME .
 srv.squaretrade.es CNAME .
+srv.squaretrade.no CNAME .
 ssafp.samsclub.com CNAME .
 st10.sofi.com CNAME .
 stat.bluorbank.lv CNAME .
@@ -949,8 +953,10 @@ tmx.carhistory.com.au CNAME .
 tmx.efsllc.com CNAME .
 tmx.gotobilling.com CNAME .
 tmx.kijiji.ca CNAME .
+tmx.manulifebank.com CNAME .
 tmx.monzo.co.uk CNAME .
 tmx.pampersrewards.com CNAME .
+tmx.pat.td.com CNAME .
 tmx.prod.efsllc.com CNAME .
 tmx.rnd.gemaltodigitalbankingidcloud.com CNAME .
 tmx.tchek.com CNAME .

@@ -33,6 +33,7 @@
     * h-2gssvh01.online-metrix.net
     * h-2lrwrk15.online-metrix.net
     * h-2n067wr9.online-metrix.net
+    * h-2odx9gtz.online-metrix.net
     * h-2qfdtlmr.online-metrix.net
     * h-2ql3c6py.online-metrix.net
     * h-2yf3c1v4.online-metrix.net
@@ -345,6 +346,7 @@
     * h-draftkings.online-metrix.net
     * h-drav45kl.online-metrix.net
     * h-drbo60la.online-metrix.net
+    * h-drnycoos.online-metrix.net
     * h-dsa7i4o8.online-metrix.net
     * h-dst402ij.online-metrix.net
     * h-dstssc.online-metrix.net
@@ -442,6 +444,7 @@
     * h-k8vif92e-2.online-metrix.net
     * h-k8vif92e-au.online-metrix.net
     * h-k8vif92e-av.online-metrix.net
+    * h-k8vif92e-cdn3.online-metrix.net
     * h-k8vif92e-cogno.online-metrix.net
     * h-k8vif92e-egy.online-metrix.net
     * h-k8vif92e-jm.online-metrix.net
@@ -561,6 +564,7 @@
     * h-paddypower.online-metrix.net
     * h-pampers.online-metrix.net
     * h-parcelmonkey.online-metrix.net
+    * h-pat-td.online-metrix.net
     * h-payby.online-metrix.net
     * h-paysafe.online-metrix.net
     * h-paysafecard2.online-metrix.net
@@ -808,6 +812,7 @@
 | fp.marisota.co.uk | h-2n067wr9.online-metrix.net |
 | fp.premierman.com | h-2n067wr9.online-metrix.net |
 | fp.simplybe.co.uk | h-2n067wr9.online-metrix.net |
+| tmx.manulifebank.com | h-2odx9gtz.online-metrix.net |
 | claimant.vec.virginia.gov | h-2qfdtlmr.online-metrix.net |
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
@@ -1005,6 +1010,7 @@
 | srv.squaretrade.com.au | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.dk | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.es | h-b6te0xmf.online-metrix.net |
+| srv.squaretrade.no | h-b6te0xmf.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
 | content.bank-abc.com | h-ban3nmwg.online-metrix.net |
@@ -1219,6 +1225,7 @@
 | tmximg.draftkings.com | h-draftkings.online-metrix.net |
 | content.wizink.es | h-drav45kl.online-metrix.net |
 | payments.hd-plus.de | h-drbo60la.online-metrix.net |
+| mobile-content.pumb.ua | h-drnycoos.online-metrix.net |
 | content22.gss.citi.com | h-dsa7i4o8.online-metrix.net |
 | dp.lottogo.com | h-dst402ij.online-metrix.net |
 | lspr.luckycasino.ca | h-dst402ij.online-metrix.net |
@@ -1384,6 +1391,7 @@
 | img3.avis.com | h-k8vif92e-av.online-metrix.net |
 | img3.budget.com | h-k8vif92e-av.online-metrix.net |
 | img3.paylesscar.com | h-k8vif92e-av.online-metrix.net |
+| cdn3.littlecaesars.com | h-k8vif92e-cdn3.online-metrix.net |
 | sg-payment.cydf.hoyoverse.com | h-k8vif92e-cogno.online-metrix.net |
 | content.egyptair.com | h-k8vif92e-egy.online-metrix.net |
 | cdncy.jmbullion.com | h-k8vif92e-jm.online-metrix.net |
@@ -1510,6 +1518,7 @@
 | regstat.paddypower.com | h-paddypower.online-metrix.net |
 | tmx.pampersrewards.com | h-pampers.online-metrix.net |
 | page1.parcelmonkey.com | h-parcelmonkey.online-metrix.net |
+| tmx.pat.td.com | h-pat-td.online-metrix.net |
 | rm-3d84e791.payby.com | h-payby.online-metrix.net |
 | tms.paysafe.com | h-paysafe.online-metrix.net |
 | tm.paysafecard.com | h-paysafecard2.online-metrix.net |
@@ -1586,6 +1595,7 @@
 | 1of1.skipcash.app | h-skipcash.online-metrix.net |
 | cdn1.skrill.com | h-skrill.online-metrix.net |
 | idstatus.sky.com | h-skyuk.online-metrix.net |
+| idstatus.sky.it | h-skyuk.online-metrix.net |
 | content21.snapfinance.com | h-snapfinance.online-metrix.net |
 | st10.sofi.com | h-sofi.online-metrix.net |
 | payments.direct.playstation.com | h-sonyie.online-metrix.net |

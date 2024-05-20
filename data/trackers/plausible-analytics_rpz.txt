@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1715587208341        ; Serial
+           1716192007416        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -63,7 +63,6 @@ analytics.xiloc.net CNAME .
 analytics.zevvle.com CNAME .
 antitracking.owncast.online CNAME .
 api.digitalpiloten.org CNAME .
-api.eichendorffschule.online CNAME .
 api.elliehuxtable.com CNAME .
 api.fuck.education CNAME .
 api.ryanyao.design CNAME .
@@ -508,7 +507,6 @@ stats.faluninfo.ba CNAME .
 stats.faluninfo.mk CNAME .
 stats.faluninfo.rs CNAME .
 stats.faluninfo.si CNAME .
-stats.fantinel.dev CNAME .
 stats.fastbackward.app CNAME .
 stats.felipesere.com CNAME .
 stats.femtobill.com CNAME .
@@ -603,7 +601,6 @@ stats.keirwhitaker.com CNAME .
 stats.kendix.org CNAME .
 stats.kensho.com CNAME .
 stats.kettlebellbundle.com CNAME .
-stats.keyscore.me CNAME .
 stats.kfcsint-lenaartsjeugd.be CNAME .
 stats.klj-consult.com CNAME .
 stats.knowkit.cloud CNAME .
@@ -628,7 +625,6 @@ stats.leavetrackapp.com CNAME .
 stats.lefthoek.com CNAME .
 stats.legendofnom.com CNAME .
 stats.leoloso.com CNAME .
-stats.liamdavis.dev CNAME .
 stats.lica.at CNAME .
 stats.lik.fr CNAME .
 stats.limitlessnetworks.eu CNAME .
@@ -692,7 +688,6 @@ stats.odysseeseine.org CNAME .
 stats.officefoosball.com CNAME .
 stats.oldtinroof.com CNAME .
 stats.oliveoil.pro CNAME .
-stats.olliejudge.com CNAME .
 stats.onepagelove.com CNAME .
 stats.orbitalhealth.co CNAME .
 stats.ordinarypuzzles.com CNAME .

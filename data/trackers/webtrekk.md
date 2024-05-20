@@ -58,6 +58,7 @@
     * 186015257614542.wt-eu02.net
     * 195357560818821.wt-eu02.net
     * 198101699966051.wt-eu02.net
+    * 209191871910909.wt-eu02.net
     * 215973748390194.wt-eu02.net
     * 227633596530844.wt-eu02.net
     * 229792913412288.wt-eu02.net
@@ -221,7 +222,6 @@
     * schleich-trail001.wt-eu02.net
     * sdkurier-de01.wt-eu02.net
     * sparda01.wt-eu02.net
-    * sportscheckde01.wt-eu02.net
     * tipp24-de01.wt-eu02.net
     * tr.computeruniverse.wt-eu02.net
     * unioninvestment-de01.wt-eu02.net
@@ -268,6 +268,7 @@
 | web.mapp.skousen.dk | 186015257614542.wt-eu02.net |
 | webmet.creditreform-mahnwesen.de | 195357560818821.wt-eu02.net |
 | web.campaign.jaked.com | 198101699966051.wt-eu02.net |
+| web.usautosupply.com | 209191871910909.wt-eu02.net |
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | web.collisionservices.com | 227633596530844.wt-eu02.net |
 | web.web.tomasiauto.com | 229792913412288.wt-eu02.net |
@@ -612,9 +613,6 @@
 | trail-001.schleich-s.com | schleich-trail001.wt-eu02.net |
 | tr.suedkurier.de | sdkurier-de01.wt-eu02.net |
 | proditor.sparda.de | sparda01.wt-eu02.net |
-| wetr.sportscheck.at | sportscheckde01.wt-eu02.net |
-| wetr.sportscheck.ch | sportscheckde01.wt-eu02.net |
-| wetr.sportscheck.com | sportscheckde01.wt-eu02.net |
 | www7.springer.com | springergmbh01.webtrekk.net |
 | tracking.shop.hunter.easynet.de | tchibo01.webtrekk.net |
 | tracking.tchibo.ch | tchibo02.webtrekk.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1715587208341        ; Serial
+           1716192007416        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,7 +21,6 @@ aardvark.steadybit.com CNAME .
 aardvark.tonicaudio.com CNAME .
 aardvark.tracking.ovh CNAME .
 aardwolf.benbrignell.com CNAME .
-aardwolf.chrisblackwell.me CNAME .
 aardwolf.keygen.sh CNAME .
 aardwolf.meinsmartplan.de CNAME .
 aardwolf.relaycorp.tech CNAME .
@@ -526,7 +525,6 @@ llama.vivriticapital.com CNAME .
 lobster.justunderwear.com CNAME .
 lobster.tonebleed.com CNAME .
 locust.ausrebellion.earth CNAME .
-locust.michiel-gerritsen.com CNAME .
 loon.davidalindahl.com CNAME .
 loon.energizer.asia CNAME .
 loon.jrmyfranck.com CNAME .
@@ -585,6 +583,7 @@ mole.getfamealy.com CNAME .
 mole.gostartupco.com CNAME .
 mole.rtbhouse.com CNAME .
 mole.vcntlee.com CNAME .
+mollusk.forwardmx.io CNAME .
 mollusk.working.actor CNAME .
 mongoose.jasonlbeggs.com CNAME .
 mongoose.scrumgenius.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1715587208341        ; Serial
+           1716192007416        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -74,6 +74,7 @@ $TTL 300
 a.123porner.net CNAME .
 a.1film.to CNAME .
 a.antiadxxxspy.com CNAME .
+a.asg24.cc CNAME .
 a.atris.xyz CNAME .
 a.b3mccglf4zqz.shop CNAME .
 a.babezunknown.com CNAME .
@@ -147,6 +148,7 @@ a.reissue2871.xyz CNAME .
 a.seksohub.com CNAME .
 a.shemale99.com CNAME .
 a.shubatuuuu.site CNAME .
+a.spyad.cc CNAME .
 a.suptube.com CNAME .
 a.teencfnm.com CNAME .
 a.testda.homes CNAME .
@@ -207,7 +209,6 @@ adzilla.name CNAME .
 alt.fescity.com CNAME .
 amaz.emailon.top CNAME .
 anti.nukedfans.com CNAME .
-anti.uiiumovies.net CNAME .
 antiadblock.info CNAME .
 anun.comicsarmy.com CNAME .
 aoihaizo.xyz CNAME .
@@ -301,6 +302,7 @@ bezuka.xyz CNAME .
 bigpornclips.com CNAME .
 bigsexvids.com CNAME .
 bikeno.xyz CNAME .
+bio.booseed.com CNAME .
 blog.andropps.com CNAME .
 blow.week1time.com CNAME .
 bltkm.spinna.store CNAME .
@@ -323,6 +325,8 @@ cangatu.xyz CNAME .
 cca.sanjay44.xyz CNAME .
 cckum.spinna.store CNAME .
 cdfr.hot4k.org CNAME .
+cdn.2024jphatomenesys35.top CNAME .
+cdn.2024jphatomenesys36.top CNAME .
 cdn.sdtraff.com CNAME .
 cdn.yenidwa.com CNAME .
 cdn1.delii2.art CNAME .
@@ -342,9 +346,12 @@ clickid.souristing.site CNAME .
 client2009x25.xcdn.ovh CNAME .
 comezz.xyz CNAME .
 communication3x.fun CNAME .
+comprehensive3x.fun CNAME .
 concentration2.fun CNAME .
 confrontation2.fun CNAME .
 consciousness2.fun CNAME .
+consideration3x.fun CNAME .
+constellation3x.fun CNAME .
 content.zbporn.com CNAME .
 contradiction2.fun CNAME .
 cool.gaygo.tv CNAME .
@@ -372,7 +379,6 @@ dl.4kporn.xxx CNAME .
 dl.crazyporn.xxx CNAME .
 dl.hoes.tube CNAME .
 dl.love4porn.com CNAME .
-dog.seetron.net CNAME .
 domineering1x.xyz CNAME .
 dore.new-indian-porn.com CNAME .
 dsg.reifporn.de CNAME .
@@ -391,8 +397,10 @@ eco.blendxxx.com CNAME .
 eee.sanjay44.xyz CNAME .
 embarrassment2.fun CNAME .
 enrgy.fwtrck.com CNAME .
+entertainment3x.fun CNAME .
 esondvn.ehrydnmdoe.com CNAME .
 essential.awmcash.com CNAME .
+euauosx.xyz CNAME .
 ex8.lostporntube.com CNAME .
 extra.imoxxnx.com CNAME .
 eznoz.xyz CNAME .
@@ -471,6 +479,7 @@ inappropriate2.fun CNAME .
 intimatediary.com CNAME .
 invast.invast.site CNAME .
 invast.site CNAME .
+investigation3x.fun CNAME .
 io.fapnado.xxx CNAME .
 io.fapnow.xxx CNAME .
 irate1x.xyz CNAME .
@@ -566,7 +575,6 @@ msioi.steeelm.xyz CNAME .
 mx6.3pornhere.com CNAME .
 my.shymilftube.com CNAME .
 mydomainbest.com CNAME .
-mydznew.xyz CNAME .
 mylives.xyz CNAME .
 mziso.xyz CNAME .
 n.bloblohub.com CNAME .
@@ -608,7 +616,6 @@ oj.fapnado.xxx CNAME .
 oj.fapnow.xxx CNAME .
 ok.fapnow.xxx CNAME .
 oldsia.xyz CNAME .
-ontj.com CNAME .
 opus.sexyxxx.biz CNAME .
 orznp.spinna.store CNAME .
 outya.xyz CNAME .
@@ -700,6 +707,7 @@ rst.pornyhd.com CNAME .
 ruozukk.xyz CNAME .
 s.brada.buzz CNAME .
 s.commissie.online CNAME .
+s.fapdu.us CNAME .
 s.freeporncave.com CNAME .
 s.grova.buzz CNAME .
 s.grova.xyz CNAME .
@@ -760,6 +768,7 @@ staticz.hotpornfile.org CNAME .
 stkk.spinna.shop CNAME .
 store4porn.com CNAME .
 strengk.xyz CNAME .
+strikebreaker3x.fun CNAME .
 strwaoz.xyz CNAME .
 stuff.wikiporno.org CNAME .
 sub.empressleak.biz CNAME .
@@ -803,6 +812,7 @@ uacabilqlgpw.cdnvideo3.com CNAME .
 ui.videojav.com CNAME .
 uk.boffinsoft.com CNAME .
 umtpopxcsedc.cdnvideo3.com CNAME .
+understanding3x.fun CNAME .
 unpin.hothomefuck.com CNAME .
 uotbzz.xyz CNAME .
 upinu.xyz CNAME .
@@ -894,4 +904,5 @@ zinipx.xyz CNAME .
 zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 ad.desibp.com CNAME .
+ontj.com CNAME .
 stepfantasy.art CNAME .

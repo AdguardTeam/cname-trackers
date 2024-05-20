@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1715587208341        ; Serial
+           1716192007416        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -82,6 +82,7 @@ data-05f15c0145.runnersworld.de CNAME .
 data-06562408eb.apps.iocnt.de CNAME .
 data-06d20d5dfa.radiobielefeld.de CNAME .
 data-06d9d19ba0.filmdienst.de CNAME .
+data-06e3bb70c5.th-ab.de CNAME .
 data-073db1ac20.rationell-reinigen.de CNAME .
 data-0797a61d67.starfm.de CNAME .
 data-07bc6012a0.apps.iocnt.de CNAME .
@@ -1151,6 +1152,7 @@ data-8522662a32.swity.de CNAME .
 data-8522662a32.wuerzburgerleben.de CNAME .
 data-855289ee2d.apps.iocnt.de CNAME .
 data-857b860637.wir-in-der-praxis.de CNAME .
+data-857b860637.wir-in-der-zahnarztpraxis.de CNAME .
 data-85ad330317.spielaffe.de CNAME .
 data-85ca53d898.apps.iocnt.de CNAME .
 data-85dba8a916.schwaebische.de CNAME .
@@ -1898,6 +1900,7 @@ data-e4cfccd10c.freundin.de CNAME .
 data-e4dc2eea88.kochbar.de CNAME .
 data-e54efb31a3.aachen-gedenkt.de CNAME .
 data-e54efb31a3.aachen-gratuliert.de CNAME .
+data-e54efb31a3.aachener-nachrichten.de CNAME .
 data-e54efb31a3.aachener-zeitung.de CNAME .
 data-e54efb31a3.fupa.net CNAME .
 data-e54efb31a3.klenkes.de CNAME .

@@ -71,6 +71,7 @@
 ||data-06562408eb.apps.iocnt.de^
 ||data-06d20d5dfa.radiobielefeld.de^
 ||data-06d9d19ba0.filmdienst.de^
+||data-06e3bb70c5.th-ab.de^
 ||data-073db1ac20.rationell-reinigen.de^
 ||data-0797a61d67.starfm.de^
 ||data-07bc6012a0.apps.iocnt.de^
@@ -1140,6 +1141,7 @@
 ||data-8522662a32.wuerzburgerleben.de^
 ||data-855289ee2d.apps.iocnt.de^
 ||data-857b860637.wir-in-der-praxis.de^
+||data-857b860637.wir-in-der-zahnarztpraxis.de^
 ||data-85ad330317.spielaffe.de^
 ||data-85ca53d898.apps.iocnt.de^
 ||data-85dba8a916.schwaebische.de^
@@ -1887,6 +1889,7 @@
 ||data-e4dc2eea88.kochbar.de^
 ||data-e54efb31a3.aachen-gedenkt.de^
 ||data-e54efb31a3.aachen-gratuliert.de^
+||data-e54efb31a3.aachener-nachrichten.de^
 ||data-e54efb31a3.aachener-zeitung.de^
 ||data-e54efb31a3.fupa.net^
 ||data-e54efb31a3.klenkes.de^

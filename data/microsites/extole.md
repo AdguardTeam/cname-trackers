@@ -221,6 +221,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -355,7 +356,6 @@
     * la-roche-posay.extole.io
     * lab-series.extole.io
     * lane-bryant.extole.io
-    * lark-health.extole.io
     * lasenza.extole.io
     * last-stitch.extole.io
     * lastcall.extole.io
@@ -369,6 +369,7 @@
     * lightstream.extole.io
     * little-passports.extole.io
     * livongo.extole.io
+    * lmcu.extole.io
     * lovesac.extole.io
     * lull.extole.io
     * lumen-optical.extole.io
@@ -490,7 +491,6 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -558,6 +558,7 @@
     * vonagebusinessuk.extole.io
     * wagwalking.extole.io
     * walmartmoneycard.extole.io
+    * washtrust.extole.io
     * wearesouthwind.extole.io
     * wecohospitality.extole.io
     * whiparound.extole.io
@@ -725,6 +726,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -958,7 +960,6 @@
 | refer.laroche-posay.us | la-roche-posay.extole.io |
 | refer.labseries.com | lab-series.extole.io |
 | refer.cacique.com | lane-bryant.extole.io |
-| share.lark.com | lark-health.extole.io |
 | refer.lasenza.ca | lasenza.extole.io |
 | refer.lasenza.com | lasenza.extole.io |
 | refer.last-stitch.com | last-stitch.extole.io |
@@ -975,6 +976,7 @@
 | refer.lightstream.com | lightstream.extole.io |
 | refer.littlepassports.com | little-passports.extole.io |
 | share.livongo.com | livongo.extole.io |
+| refer.lmcu.org | lmcu.extole.io |
 | share.lovesac.com | lovesac.extole.io |
 | refer.luckyvitamin.com | luckyvitamin.extole.com |
 | get.lull.com | lull.extole.io |
@@ -1155,7 +1157,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |
@@ -1263,6 +1264,7 @@
 | refer.vonage.co.uk | vonageuk.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
+| refer.washtrust.com | washtrust.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |
 | refer.themvpkc.com | wearesouthwind.extole.io |
 | www.trevoce.com | web-tool-qa.lb.extole.com |

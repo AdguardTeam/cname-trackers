@@ -788,7 +788,6 @@ a8cv.bonaventura.shop
 a8cv.borderfree-official.com
 a8cv.brandeuse.jp
 a8cv.brandnet.info
-a8cv.brassiere-shorts.jp
 a8cv.bresmile.jp
 a8cv.bright-app.com
 a8cv.broadbandservice.jp
@@ -1422,7 +1421,6 @@ cv.cp-c21.com
 cv.denkichoice.jp
 cv.drive-hikari.net
 cv.e-tukline.jp
-cv.figure.toy-kaitoru.com
 cv.fire-bird.jp
 cv.gas-choice.net
 cv.h-docomo.com

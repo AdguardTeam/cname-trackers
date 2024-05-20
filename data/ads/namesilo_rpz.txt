@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1715587208341        ; Serial
+           1716192007416        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -864,6 +864,7 @@ $TTL 300
 4131834.notify6.com CNAME .
 4133026.notify6.com CNAME .
 4138684.notify6.com CNAME .
+4142702.notify6.com CNAME .
 4143324.notify6.com CNAME .
 4144426.notify6.com CNAME .
 4149128.notify6.com CNAME .
@@ -1011,6 +1012,7 @@ $TTL 300
 5085594.notify6.com CNAME .
 5111734.notify6.com CNAME .
 5114166.notify6.com CNAME .
+5121952.notify6.com CNAME .
 5132062.notify6.com CNAME .
 5153152.notify6.com CNAME .
 5296856.notify6.com CNAME .
@@ -1048,6 +1050,7 @@ a.cant3am.com CNAME .
 a.etology.com CNAME .
 a.eunow4u.com CNAME .
 a.ma3ion.com CNAME .
+a.n4m5x60.com CNAME .
 a.optimizesrv.com CNAME .
 a.paradoxgroup.uk CNAME .
 a.r8lnet.com CNAME .
@@ -1148,6 +1151,7 @@ s.linkw2e.com CNAME .
 s.linkw2g.com CNAME .
 s.ma3ion.com CNAME .
 s.magsrv.com CNAME .
+s.n4m5x60.com CNAME .
 s.nowsrv.com CNAME .
 s.opoxv.com CNAME .
 s.opti-digital.com CNAME .
