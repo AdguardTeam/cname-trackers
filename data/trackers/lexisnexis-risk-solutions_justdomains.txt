@@ -46,6 +46,7 @@ banque.banque-casino.fr
 barnacle.tommybahama.com
 bifpt.pepperfinance.es
 black-cat.crypto.com
+business.streetshares.com
 caveo.boost-my.com
 cbcdn.bankofscotland.co.uk
 cbcdn.lloydsbank.com
@@ -552,6 +553,7 @@ login.eki-net.com
 loyaltyprogram.latam.com
 loyaltyprogram.latamairlines.com
 lpo.unionbank.com
+ls-dp.nj.thelotter.us
 lsdp.lotto.com
 lspr.luckycasino.ca
 lsprof.comeon.com
@@ -726,7 +728,6 @@ rttm.uniondigitalbank.io
 rvw.connection.com
 rvw.govconnection.com
 rvw.macconnection.com
-s4.partner.yoomoney.ru
 safe.joinmosaic.com
 sc.liveme.com
 scdn.missionlane.com
@@ -1025,3 +1026,4 @@ ydkwim.targobank.de
 yr3ioxw.hoaresbank.co.uk
 zacchaeus.logos.com
 zfp.intuit.com
+zrn.payglocal.com

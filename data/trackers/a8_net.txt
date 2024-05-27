@@ -212,6 +212,7 @@
 ||a8.mosh.jp^
 ||a8.musbell.co.jp^
 ||a8.n-pri.jp^
+||a8.nachurabo.com^
 ||a8.nanafu.tokyo^
 ||a8.narikiri.me^
 ||a8.nengahonpo.com^
@@ -867,7 +868,6 @@
 ||a8cv.eeo.today^
 ||a8cv.egmkt.co.jp^
 ||a8cv.eikajapan.com^
-||a8cv.elife-shihou.com^
 ||a8cv.emma-sleep-japan.com^
 ||a8cv.encounter2017.jp^
 ||a8cv.english-bootcamp.com^
@@ -875,6 +875,7 @@
 ||a8cv.english-village.net^
 ||a8cv.entre-salon.com^
 ||a8cv.entry.renet.jp^
+||a8cv.est-online.com^
 ||a8cv.euria.store^
 ||a8cv.exrg-premium.shop^
 ||a8cv.eys-musicschool.com^
@@ -1010,6 +1011,7 @@
 ||a8cv.lc-jewel.jp^
 ||a8cv.lear-caree.com^
 ||a8cv.leasonable.com^
+||a8cv.lens-1.jp^
 ||a8cv.leoandlea.com^
 ||a8cv.lianest.co.jp^
 ||a8cv.lp.nalevi.mynavi.jp^
@@ -1272,7 +1274,6 @@
 ||a8cv.zeroen-denki.com^
 ||a8cv.zerorenovation.com^
 ||a8cv.zoner.com^
-||a8cv2.hoken-choice.com^
 ||a8cv2.vapelog.jp^
 ||a8cventry.uqwimax.jp^
 ||a8cvhoiku.kidsmate.jp^

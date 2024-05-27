@@ -103,7 +103,6 @@
 ||adebis.toushi-up.com^
 ||adebis.tspot.co.jp^
 ||adebis.urban-research.jp^
-||adebis.wii-clinic.jp^
 ||adebis.zenyaku-hbshop.com^
 ||adebis01.job-con.jp^
 ||adebis02.juku.st^
@@ -129,6 +128,7 @@
 ||campaign-direct.eisai.jp^
 ||campaign-direct.ketsuatsu-taisaku.xyz^
 ||campaign-direct.kouketsuatsu-health.xyz^
+||ccc.aqualink.tokyo^
 ||cmass.massmedian.co.jp^
 ||cname-ade.gom-in.com^
 ||cname-ade.hankoya.com^

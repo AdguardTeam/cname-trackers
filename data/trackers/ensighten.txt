@@ -125,6 +125,7 @@
 ||cmp.cupra.be^
 ||cmp.dieteren.be^
 ||cmp.dieterengroup.com^
+||cmp.dieterenmobilitycompany.be^
 ||cmp.microlino.be^
 ||cmp.microlino.fr^
 ||cmp.myway.be^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716192007416        ; Serial
+           1716796807364        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -277,6 +277,7 @@ affilo.lingerio.cz CNAME .
 affilo.vivaboty.cz CNAME .
 affilpartner.descanti.com CNAME .
 afill.e-potisk.cz CNAME .
+ambasador.rustspolecne.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassador.notsofunnyany.com CNAME .
 ambassadors.childhoodpotential.com CNAME .
@@ -440,6 +441,7 @@ partner.bed4dogs.com CNAME .
 partner.bio-nechty.sk CNAME .
 partner.bio-nehty.cz CNAME .
 partner.bioaromakosmetika.cz CNAME .
+partner.bitcoinzmenaren.sk CNAME .
 partner.bohemiaclean.eu CNAME .
 partner.bohempia.com CNAME .
 partner.bontonck.cz CNAME .
@@ -519,6 +521,7 @@ partner.expresmenu.sk CNAME .
 partner.fabulo.sk CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
+partner.forcell.cz CNAME .
 partner.forexrebel.net CNAME .
 partner.freshlabels.cz CNAME .
 partner.generatorvodiku.cz CNAME .
@@ -589,6 +592,7 @@ partner.memolingo.cz CNAME .
 partner.metagram.sk CNAME .
 partner.mhsexshop.com CNAME .
 partner.milujifoceni.cz CNAME .
+partner.minikoioi.cz CNAME .
 partner.misinacokolada.cz CNAME .
 partner.mojeluha.cz CNAME .
 partner.mojetonery.sk CNAME .

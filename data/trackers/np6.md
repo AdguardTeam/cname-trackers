@@ -279,6 +279,7 @@
 | tr.courrier.charentelibre.fr | tracking.bp01.net |
 | tr.courrier.larepubliquedespyrenees.fr | tracking.bp01.net |
 | tr.courrier.sudouest.fr | tracking.bp01.net |
+| tr.crc.henner.com | tracking.bp01.net |
 | tr.credito.universo.pt | tracking.bp01.net |
 | tr.crtl.espmp-aufr.net | tracking.bp01.net |
 | tr.customer-solutions.np6.com | tracking.bp01.net |
@@ -504,7 +505,6 @@
 | tr.info.ph-bpifrance.fr | tracking.bp01.net |
 | tr.info.phsolidaire-bpifrance.fr | tracking.bp01.net |
 | tr.info.pret-bpifrance.fr | tracking.bp01.net |
-| tr.info.pret-participatif.fr | tracking.bp01.net |
 | tr.info.pretflashtpe-bpifrance.fr | tracking.bp01.net |
 | tr.info.projeo-finance.fr | tracking.bp01.net |
 | tr.info.promoneuve.fr | tracking.bp01.net |
@@ -1049,6 +1049,7 @@
 | tr.thisiseurope.moethennessy.com | tracking.bp01.net |
 | tr.tns.harmonie-mutuelle.fr | tracking.bp01.net |
 | tr.toner-service.fr | tracking.bp01.net |
+| tr.toner-services.fr | tracking.bp01.net |
 | tr.tonerservices.fr | tracking.bp01.net |
 | tr.tourisme.visit-lanarbonnaise.com | tracking.bp01.net |
 | tr.tpe.harmonie-mutuelle.fr | tracking.bp01.net |

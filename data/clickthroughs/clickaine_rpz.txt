@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716192007416        ; Serial
+           1716796807364        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,6 +28,7 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 axx.aflamk1.net CNAME .
 c.gotoxxxtube.com CNAME .
+c0n.tubestash.com CNAME .
 c4n.21hub.com CNAME .
 c4n.asianpinay.com CNAME .
 c4n.bigxxxsex.com CNAME .
@@ -114,6 +115,7 @@ v040419.badjojo.com CNAME .
 wafe.camcaps.sx CNAME .
 wp.brandnewapp.pro CNAME .
 www.bokep.su CNAME .
+www.brandnewapp.pro CNAME .
 www.faq.brandnewapp.pro CNAME .
 www.rtnews.pro CNAME .
 xd3r.javgg.eu CNAME .

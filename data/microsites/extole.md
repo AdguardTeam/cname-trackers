@@ -187,6 +187,7 @@
     * brava.extole.io
     * brightspeed.extole.io
     * brunette-the-label.extole.io
+    * buildertrend.extole.io
     * bulova.extole.io
     * bumble-and-bumble-uk.extole.io
     * bumble-and-bumble.extole.io
@@ -221,7 +222,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -305,6 +305,7 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -682,6 +683,7 @@
 | share.brava.com | brava.extole.io |
 | refer.brightspeed.com | brightspeed.extole.io |
 | share.brunettethelabel.com | brunette-the-label.extole.io |
+| share.buildertrend.com | buildertrend.extole.io |
 | refer.bulova.com | bulova.extole.io |
 | share.refer-bumbleandbumble.co.uk | bumble-and-bumble-uk.extole.io |
 | refer.bumbleandbumble.com | bumble-and-bumble.extole.io |
@@ -726,7 +728,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -885,6 +886,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |

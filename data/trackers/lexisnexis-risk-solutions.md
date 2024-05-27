@@ -14,6 +14,7 @@
     * h-16vzjy52.online-metrix.net
     * h-1d2p5fdt.online-metrix.net
     * h-1dwgke3d.online-metrix.net
+    * h-1hr2syw3.online-metrix.net
     * h-1k066192.online-metrix.net
     * h-1kcyydia.online-metrix.net
     * h-1lc506lh.online-metrix.net
@@ -90,6 +91,7 @@
     * h-76ussz09.online-metrix.net
     * h-7aid6tml.online-metrix.net
     * h-7bugohi5.online-metrix.net
+    * h-7g11ytc6.online-metrix.net
     * h-7ij9mii1-a.online-metrix.net
     * h-7ij9mii1.online-metrix.net
     * h-7lw52x9e.online-metrix.net
@@ -103,6 +105,7 @@
     * h-7yh412tv.online-metrix.net
     * h-87rxrdob.online-metrix.net
     * h-884tnrtj.online-metrix.net
+    * h-88zeyq1n.online-metrix.net
     * h-8b6zz5ug.online-metrix.net
     * h-8dvdxqz5.online-metrix.net
     * h-8e0pj0s9.online-metrix.net
@@ -389,7 +392,6 @@
     * h-franklintempleton.online-metrix.net
     * h-freelancer1.online-metrix.net
     * h-frshopdisney.online-metrix.net
-    * h-fsymclue.online-metrix.net
     * h-fundingcircle-uk.online-metrix.net
     * h-fundingstream.online-metrix.net
     * h-garmin.online-metrix.net
@@ -736,6 +738,7 @@
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
 | content.sb.lt | h-1d2p5fdt.online-metrix.net |
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
+| ls-dp.nj.thelotter.us | h-1hr2syw3.online-metrix.net |
 | posture.mtoken.zand.ae | h-1k066192.online-metrix.net |
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
@@ -889,6 +892,7 @@
 | analyze.central1.cc | h-76ussz09.online-metrix.net |
 | apps.shift.com.au | h-7aid6tml.online-metrix.net |
 | r.hokodo.co | h-7bugohi5.online-metrix.net |
+| business.streetshares.com | h-7g11ytc6.online-metrix.net |
 | content.jackpotcitycasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.royalvegascasino.ca | h-7ij9mii1-a.online-metrix.net |
 | content.rubyfortune.ca | h-7ij9mii1-a.online-metrix.net |
@@ -910,6 +914,7 @@
 | tm.production.eu1.tmfp.klarna.net | h-87rxrdob.online-metrix.net |
 | tmfp.klarna.com | h-87rxrdob.online-metrix.net |
 | phyon.visit-x.net | h-884tnrtj.online-metrix.net |
+| zrn.payglocal.com | h-88zeyq1n.online-metrix.net |
 | subcontent.galeria.de | h-8b6zz5ug.online-metrix.net |
 | secure.meine.santander.de | h-8dvdxqz5.online-metrix.net |
 | 1bf86f4b.tictoc.ai | h-8e0pj0s9.online-metrix.net |
@@ -1297,7 +1302,6 @@
 | pages.franklintempleton.com | h-franklintempleton.online-metrix.net |
 | cdn1.f-cdn.com | h-freelancer1.online-metrix.net |
 | fr.shopdisney.disney.co.jp | h-frshopdisney.online-metrix.net |
-| s4.partner.yoomoney.ru | h-fsymclue.online-metrix.net |
 | content-uk.fundingcircle.com | h-fundingcircle-uk.online-metrix.net |
 | ww3.fundingstream.com | h-fundingstream.online-metrix.net |
 | ww3.marlincapitalsolutions.com | h-fundingstream.online-metrix.net |

@@ -258,6 +258,7 @@
 ||tr.courrier.charentelibre.fr^
 ||tr.courrier.larepubliquedespyrenees.fr^
 ||tr.courrier.sudouest.fr^
+||tr.crc.henner.com^
 ||tr.credito.universo.pt^
 ||tr.crtl.espmp-aufr.net^
 ||tr.customer-solutions.np6.com^
@@ -483,7 +484,6 @@
 ||tr.info.ph-bpifrance.fr^
 ||tr.info.phsolidaire-bpifrance.fr^
 ||tr.info.pret-bpifrance.fr^
-||tr.info.pret-participatif.fr^
 ||tr.info.pretflashtpe-bpifrance.fr^
 ||tr.info.projeo-finance.fr^
 ||tr.info.promoneuve.fr^
@@ -1028,6 +1028,7 @@
 ||tr.thisiseurope.moethennessy.com^
 ||tr.tns.harmonie-mutuelle.fr^
 ||tr.toner-service.fr^
+||tr.toner-services.fr^
 ||tr.tonerservices.fr^
 ||tr.tourisme.visit-lanarbonnaise.com^
 ||tr.tpe.harmonie-mutuelle.fr^

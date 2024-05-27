@@ -7,9 +7,9 @@
 
 ### Rarely active trackers
 
+* 77980.bodis.com
 * api.clickaine.com
 * u53.hypnorat.com
-* 77980.bodis.com
 
 ## Cloaking domains
 
@@ -22,15 +22,8 @@
 | 0i.simply-hentai.com | 0i0i0i0.com |
 | 1111.sanjay44.xyz | 0i0i0i0.com |
 | 1111.sieglinde22.xyz | 0i0i0i0.com |
-| 1111.spinna.online | 0i0i0i0.com |
 | 123rtgeg.gr3hjjj.pics | 0i0i0i0.com |
 | 15g32211.gr3hjjj.pics | 0i0i0i0.com |
-| 1aaa.spinna.site | 0i0i0i0.com |
-| 1aab.spinna.site | 0i0i0i0.com |
-| 1aac.spinna.site | 0i0i0i0.com |
-| 1aad.spinna.site | 0i0i0i0.com |
-| 1aae.spinna.site | 0i0i0i0.com |
-| 1aaf.spinna.site | 0i0i0i0.com |
 | 1dfgh34g.gr3hjjj.pics | 0i0i0i0.com |
 | 2132dfd3.fsseeewzz.lol | 0i0i0i0.com |
 | 21s2dfg2.fsseeewzz.quest | 0i0i0i0.com |
@@ -38,25 +31,15 @@
 | 21sdf3g2.fsseeewzz.quest | 0i0i0i0.com |
 | 2222.sanjay44.xyz | 0i0i0i0.com |
 | 2222.sieglinde22.xyz | 0i0i0i0.com |
-| 2222.spinna.online | 0i0i0i0.com |
 | 259luxu.xyz | 0i0i0i0.com |
 | 25serve.yourporngod.com | 0i0i0i0.com |
-| 2aaa.spinna.xyz | 0i0i0i0.com |
-| 2aab.spinna.xyz | 0i0i0i0.com |
-| 2aac.spinna.xyz | 0i0i0i0.com |
-| 2aad.spinna.xyz | 0i0i0i0.com |
-| 2aae.spinna.xyz | 0i0i0i0.com |
-| 2aaf.spinna.xyz | 0i0i0i0.com |
 | 2asd3413.fsseeewzz.lol | 0i0i0i0.com |
 | 3333.sanjay44.xyz | 0i0i0i0.com |
 | 3333.sieglinde22.xyz | 0i0i0i0.com |
-| 3333.spinna.online | 0i0i0i0.com |
 | 33serve.bussyhunter.com | 0i0i0i0.com |
 | 4444.sanjay44.xyz | 0i0i0i0.com |
 | 4444.sieglinde22.xyz | 0i0i0i0.com |
-| 4444.spinna.online | 0i0i0i0.com |
 | 5475feaab.clicknplay.to | 0i0i0i0.com |
-| 5555.spinna.online | 0i0i0i0.com |
 | 58745.clicknplay.to | 0i0i0i0.com |
 | 5f25a.dappaa.site | 0i0i0i0.com |
 | 5f25b.dappaa.site | 0i0i0i0.com |
@@ -75,11 +58,11 @@
 | 7bd3d001ff6.clicknplay.to | 0i0i0i0.com |
 | 91199a.xyz | 0i0i0i0.com |
 | 99loz.xyz | 0i0i0i0.com |
-| a.123porner.net | 0i0i0i0.com |
 | a.1film.to | 0i0i0i0.com |
 | a.antiadxxxspy.com | 0i0i0i0.com |
 | a.asg24.cc | 0i0i0i0.com |
 | a.atris.xyz | 0i0i0i0.com |
+| a.avrom.xyz | 0i0i0i0.com |
 | a.b3mccglf4zqz.shop | 0i0i0i0.com |
 | a.babezunknown.com | 0i0i0i0.com |
 | a.badword.xyz | 0i0i0i0.com |
@@ -94,7 +77,6 @@
 | a.coinhub.wiki | 0i0i0i0.com |
 | a.cpbj8ddae04d.shop | 0i0i0i0.com |
 | a.craftbeerclub.com.ua | 0i0i0i0.com |
-| a.dajex.club | 0i0i0i0.com |
 | a.dhoma.xyz | 0i0i0i0.com |
 | a.digitalgiftshopping.com | 0i0i0i0.com |
 | a.donyandmark.xyz | 0i0i0i0.com |
@@ -146,7 +128,6 @@
 | a.porn369.net | 0i0i0i0.com |
 | a.pornhex.com | 0i0i0i0.com |
 | a.prigo.xyz | 0i0i0i0.com |
-| a.rafian.com | 0i0i0i0.com |
 | a.refia.xyz | 0i0i0i0.com |
 | a.reissue2871.xyz | 0i0i0i0.com |
 | a.seksohub.com | 0i0i0i0.com |
@@ -178,7 +159,6 @@
 | aabtest.asg-media.com | 0i0i0i0.com |
 | ab.cumhot.org | 0i0i0i0.com |
 | abc.cda-hd.co | 0i0i0i0.com |
-| abc.comick.top | 0i0i0i0.com |
 | ad.animeitaly.tv | 0i0i0i0.com |
 | ad.vvtadblk.online | 0i0i0i0.com |
 | ad.wawacity.xyz | 0i0i0i0.com |
@@ -198,9 +178,7 @@
 | ads.onetouchtv.me | 0i0i0i0.com |
 | ads.pornharlot.com | 0i0i0i0.com |
 | ads.pornharlot.net | 0i0i0i0.com |
-| ads.saplacikardepo.xyz | 0i0i0i0.com |
 | ads.sparkporn.com | 0i0i0i0.com |
-| ads.sturls.com | 0i0i0i0.com |
 | ads.tabuflix.com | 0i0i0i0.com |
 | ads.wetpussy.sexy | 0i0i0i0.com |
 | adserv.tbussyb.com | 0i0i0i0.com |
@@ -284,6 +262,7 @@
 | b.reissue2871.xyz | 0i0i0i0.com |
 | b.sexvids.cc | 0i0i0i0.com |
 | b.sonorousporn.com | 0i0i0i0.com |
+| b.xlineker.com | 0i0i0i0.com |
 | b1.hentaibaka.one | 0i0i0i0.com |
 | b1.maturesexvideos.pro | 0i0i0i0.com |
 | b43gf.sanjay44.xyz | 0i0i0i0.com |
@@ -305,7 +284,6 @@
 | bio.booseed.com | 0i0i0i0.com |
 | blog.andropps.com | 0i0i0i0.com |
 | blow.week1time.com | 0i0i0i0.com |
-| bltkm.spinna.store | 0i0i0i0.com |
 | boob.sukaporn.com | 0i0i0i0.com |
 | bort.busty-wife.com | 0i0i0i0.com |
 | buatru.xyz | 0i0i0i0.com |
@@ -323,7 +301,6 @@
 | cache.picxxxhub.com | 0i0i0i0.com |
 | cangatu.xyz | 0i0i0i0.com |
 | cca.sanjay44.xyz | 0i0i0i0.com |
-| cckum.spinna.store | 0i0i0i0.com |
 | cdfr.hot4k.org | 0i0i0i0.com |
 | cdn.2024jphatomenesys35.top | 0i0i0i0.com |
 | cdn.2024jphatomenesys36.top | 0i0i0i0.com |
@@ -337,7 +314,6 @@
 | cdn5.cartoonporn.to | 0i0i0i0.com |
 | cep.opprents.site | 0i0i0i0.com |
 | cep.princided.online | 0i0i0i0.com |
-| cesbr.spinna.store | 0i0i0i0.com |
 | changeable1x.xyz | 0i0i0i0.com |
 | cid.futurer.site | 0i0i0i0.com |
 | click.fastupload.io | 0i0i0i0.com |
@@ -408,7 +384,6 @@
 | f.bfvideo1.com | 0i0i0i0.com |
 | f.bloblohub.com | 0i0i0i0.com |
 | f5w.prettytube.net | 0i0i0i0.com |
-| f92or5.spinna.shop | 0i0i0i0.com |
 | fansang.xyz | 0i0i0i0.com |
 | fe34.sieglinde22.xyz | 0i0i0i0.com |
 | fff.sieglinde22.xyz | 0i0i0i0.com |
@@ -450,9 +425,7 @@
 | help.fanza.cc | 0i0i0i0.com |
 | hero3.nude-asian-videos.com | 0i0i0i0.com |
 | hetaer.xyz | 0i0i0i0.com |
-| heyyou.spinna.shop | 0i0i0i0.com |
 | hjdw.tjaard11.xyz | 0i0i0i0.com |
-| hjq9z7bw6f5tr3xe2yl8.giga-uqload.xyz | 0i0i0i0.com |
 | hot.sexyadsrun.com | 0i0i0i0.com |
 | hotmovstore.com | 0i0i0i0.com |
 | hotpornpro.com | 0i0i0i0.com |
@@ -489,13 +462,13 @@
 | j.kiteau.blue | 0i0i0i0.com |
 | j45.webringporn.com | 0i0i0i0.com |
 | javguru.gggsss.site | 0i0i0i0.com |
-| jfhnh.spinna.store | 0i0i0i0.com |
 | jo.429men.com | 0i0i0i0.com |
 | jo.fapnado.xxx | 0i0i0i0.com |
 | jo.fapnow.xxx | 0i0i0i0.com |
 | jo.lesbianbliss.com | 0i0i0i0.com |
 | jordan.qunis.ru | 0i0i0i0.com |
 | js.allporncomic.com | 0i0i0i0.com |
+| js.cmoa.pro | 0i0i0i0.com |
 | js.eroticmv.com | 0i0i0i0.com |
 | js.j8jp.com | 0i0i0i0.com |
 | js.manga1000.top | 0i0i0i0.com |
@@ -511,7 +484,6 @@
 | k.bloblohub.com | 0i0i0i0.com |
 | kaizzz.xyz | 0i0i0i0.com |
 | key.sexymovie.name | 0i0i0i0.com |
-| kfioeld.spinna.shop | 0i0i0i0.com |
 | kicka.xyz | 0i0i0i0.com |
 | kinktsy.com | 0i0i0i0.com |
 | kliqz.com | 0i0i0i0.com |
@@ -524,7 +496,6 @@
 | larasub.conxxx.pro | 0i0i0i0.com |
 | lengtikto.xyz | 0i0i0i0.com |
 | lixir.wargers.org | 0i0i0i0.com |
-| load.jabx.net | 0i0i0i0.com |
 | load.try-games.com | 0i0i0i0.com |
 | logshort.xyz | 0i0i0i0.com |
 | lol.globlax.com | 0i0i0i0.com |
@@ -546,6 +517,7 @@
 | mangzoi.xyz | 0i0i0i0.com |
 | manzosui.xyz | 0i0i0i0.com |
 | markxa.xyz | 0i0i0i0.com |
+| mauzna.xyz | 0i0i0i0.com |
 | maxcdn.dmm-video.online | 0i0i0i0.com |
 | maxx1.a.pleasedonotblockme.com | 0i0i0i0.com |
 | maxx1.pleasedonotblockme.com | 0i0i0i0.com |
@@ -576,7 +548,6 @@
 | n.bloblohub.com | 0i0i0i0.com |
 | n.hnntube.com | 0i0i0i0.com |
 | n.hubhubhub.name | 0i0i0i0.com |
-| nanbody.spinna.shop | 0i0i0i0.com |
 | nav.srcdn.xyz | 0i0i0i0.com |
 | net.contoseroticoscnn.com | 0i0i0i0.com |
 | net.sexstories69.com | 0i0i0i0.com |
@@ -610,8 +581,8 @@
 | oj.fapnow.xxx | 0i0i0i0.com |
 | ok.fapnow.xxx | 0i0i0i0.com |
 | oldsia.xyz | 0i0i0i0.com |
+| ontj.com | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
-| orznp.spinna.store | 0i0i0i0.com |
 | outya.xyz | 0i0i0i0.com |
 | ox8.topsexhdvideos.com | 0i0i0i0.com |
 | ozoj.com | 0i0i0i0.com |
@@ -711,6 +682,7 @@
 | s.malay.buzz | 0i0i0i0.com |
 | s.moccapedia.com | 0i0i0i0.com |
 | s.oralblow.com | 0i0i0i0.com |
+| s.perverttube.top | 0i0i0i0.com |
 | s.porndub.us | 0i0i0i0.com |
 | s.pornox.site | 0i0i0i0.com |
 | s.pornworld.pro | 0i0i0i0.com |
@@ -718,6 +690,7 @@
 | s.remonti.org | 0i0i0i0.com |
 | s.thepornbin.us | 0i0i0i0.com |
 | s.throatlust.top | 0i0i0i0.com |
+| s.xintube.us | 0i0i0i0.com |
 | s1sentablya.teenfuckhd.com | 0i0i0i0.com |
 | s2.everydaygayporn.com | 0i0i0i0.com |
 | s4.sb89347.com | 0i0i0i0.com |
@@ -726,7 +699,6 @@
 | sakcerl.ehrydnmdoe.com | 0i0i0i0.com |
 | sansuni.xyz | 0i0i0i0.com |
 | satmon.neekstore.com | 0i0i0i0.com |
-| sbbb.spinna.xyz | 0i0i0i0.com |
 | sbm.stigmuuua.xyz | 0i0i0i0.com |
 | scottk.hubhubhub.name | 0i0i0i0.com |
 | sda.seksohub.com | 0i0i0i0.com |
@@ -759,13 +731,13 @@
 | srtw.neigh11.xyz | 0i0i0i0.com |
 | ssltest.soundrussian.com | 0i0i0i0.com |
 | staticz.hotpornfile.org | 0i0i0i0.com |
-| stkk.spinna.shop | 0i0i0i0.com |
 | store4porn.com | 0i0i0i0.com |
 | strengk.xyz | 0i0i0i0.com |
 | strikebreaker3x.fun | 0i0i0i0.com |
 | strwaoz.xyz | 0i0i0i0.com |
 | stuff.wikiporno.org | 0i0i0i0.com |
 | sub.empressleak.biz | 0i0i0i0.com |
+| suckae.xyz | 0i0i0i0.com |
 | sup.srvtax.com | 0i0i0i0.com |
 | super.koreanpornmovie.xyz | 0i0i0i0.com |
 | supplementary2.fun | 0i0i0i0.com |
@@ -839,15 +811,12 @@
 | www.cicamica.xyz | 0i0i0i0.com |
 | www.f.bloblohub.com | 0i0i0i0.com |
 | www.go.ss-n-30.com | 0i0i0i0.com |
+| www.hubhubhub.name | 0i0i0i0.com |
 | www.invast.site | 0i0i0i0.com |
 | www.javtvnow.xyz | 0i0i0i0.com |
 | www.letstry69.xyz | 0i0i0i0.com |
 | www.pleasedonotblockme.com | 0i0i0i0.com |
 | www.pornvideos.casa | 0i0i0i0.com |
-| www.spinna.shop | 0i0i0i0.com |
-| www.spinna.site | 0i0i0i0.com |
-| www.spinna.store | 0i0i0i0.com |
-| www.spinna.xyz | 0i0i0i0.com |
 | www.sukigyik.xyz | 0i0i0i0.com |
 | www.tbussyb.com | 0i0i0i0.com |
 | www.uk.boffinsoft.com | 0i0i0i0.com |
@@ -892,7 +861,39 @@
 | zinipx.xyz | 0i0i0i0.com |
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
+| 1111.spinna.online | 77980.bodis.com |
+| 1aaa.spinna.site | 77980.bodis.com |
+| 1aab.spinna.site | 77980.bodis.com |
+| 1aac.spinna.site | 77980.bodis.com |
+| 1aad.spinna.site | 77980.bodis.com |
+| 1aae.spinna.site | 77980.bodis.com |
+| 1aaf.spinna.site | 77980.bodis.com |
+| 2222.spinna.online | 77980.bodis.com |
+| 2aaa.spinna.xyz | 77980.bodis.com |
+| 2aab.spinna.xyz | 77980.bodis.com |
+| 2aac.spinna.xyz | 77980.bodis.com |
+| 2aad.spinna.xyz | 77980.bodis.com |
+| 2aae.spinna.xyz | 77980.bodis.com |
+| 2aaf.spinna.xyz | 77980.bodis.com |
+| 3333.spinna.online | 77980.bodis.com |
+| 4444.spinna.online | 77980.bodis.com |
+| 5555.spinna.online | 77980.bodis.com |
+| bltkm.spinna.store | 77980.bodis.com |
+| cckum.spinna.store | 77980.bodis.com |
+| cesbr.spinna.store | 77980.bodis.com |
+| f92or5.spinna.shop | 77980.bodis.com |
+| heyyou.spinna.shop | 77980.bodis.com |
+| jfhnh.spinna.store | 77980.bodis.com |
+| kfioeld.spinna.shop | 77980.bodis.com |
+| nanbody.spinna.shop | 77980.bodis.com |
+| orznp.spinna.store | 77980.bodis.com |
+| sbbb.spinna.xyz | 77980.bodis.com |
 | stepfantasy.art | 77980.bodis.com |
+| stkk.spinna.shop | 77980.bodis.com |
+| www.spinna.shop | 77980.bodis.com |
+| www.spinna.site | 77980.bodis.com |
+| www.spinna.store | 77980.bodis.com |
+| www.spinna.xyz | 77980.bodis.com |
 | ad.desibp.com | api.clickaine.com |
 | addin.name | u50.0i0i0i0.com |
 | adsxtits.com | u50.0i0i0i0.com |
@@ -909,5 +910,5 @@
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
 | www.newdin.name | u50.0i0i0i0.com |
-| h-ay.com | u53.hypnorat.com |
 | ontj.com | u53.hypnorat.com |
+| qhip.com | u53.hypnorat.com |

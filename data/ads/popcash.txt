@@ -66,6 +66,7 @@
 ||cdn.jhoncj.com^
 ||cdn.jitanvlw.com^
 ||cdn.jklpy.com^
+||cdn.jwalf.com^
 ||cdn.karpatzi.com^
 ||cdn.keajs.com^
 ||cdn.kfjhd.com^
@@ -293,7 +294,6 @@
 ||carp.amespacios.com^
 ||carp.pbncontent.com^
 ||carp.spotonevent.no^
-||cat.acesandaros.org^
 ||cat.beunitedinchrist.com^
 ||cat.gfx.io^
 ||cat.laravel-news.com^
@@ -315,6 +315,7 @@
 ||cattle.kirkebaekke.dk^
 ||cattle.kumo.at^
 ||cattle.meets.beer^
+||cattle.mes-renovateurs.com^
 ||cattle.musikschule-bregenzerwald.at^
 ||cattle.spiral11.com^
 ||cattle.weiss-bregenz.at^
@@ -406,7 +407,6 @@
 ||donkey.elegantmusicgroup.com^
 ||donkey.guggenbichler.co.at^
 ||donkey.hackoregon.org^
-||donkey.kontematik.com^
 ||donkey.the3rd.place^
 ||dormouse.consentkit.com^
 ||dove.hoku.nz^
@@ -618,6 +618,8 @@
 ||krill.spoonrage.com^
 ||krill.swiss-uke.ch^
 ||ks42zt.spec.fm^
+||ladybug.dfour.space^
+||ladybug.ficabo.com^
 ||ladybug.paulstovell.com^
 ||lamprey.carolcassar.com^
 ||lamprey.seagyndavis.com^
@@ -900,6 +902,7 @@
 ||skink.asorman.io^
 ||skink.thoumi.ch^
 ||skunk.gameworkersolidarity.com^
+||sloth.vaalinstudio.com^
 ||smelt.allenpike.com^
 ||smelt.gautrowski.com^
 ||snipe.mfaber.at^
@@ -1107,6 +1110,7 @@
 ||cdn.unibotscdn.com^
 ||ucdn.adgebra.co^
 ||cdn.shrtfly.vip^
+||cdn.tracking.prepr.io^
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^
 ||dntcl.qualaroo.com^

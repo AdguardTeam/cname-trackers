@@ -47,7 +47,6 @@
 9735476.test.skyscanner.net
 9857064.hello.spriggy.com.au
 9857064.notice.spriggy.com.au
-9955951.pillar.app
 9984342.reddoorz.in
 a.hibbett.com
 ablink.1954.bk.com
@@ -124,6 +123,7 @@ ablink.m.jackpocket.com
 ablink.m.popeyes.com
 ablink.m.seatedapp.io
 ablink.m.sofi.org
+ablink.m.theiconic.com.au
 ablink.ma.linktr.ee
 ablink.mail.activearcade.ai
 ablink.mail.adobespark.com
@@ -147,6 +147,7 @@ ablink.news.felixmobile.com.au
 ablink.news.forhers.com
 ablink.news.gooseinsurance.com
 ablink.news.kfc.co.za
+ablink.news.theiconic.com.au
 ablink.newsletters1.motortrend.com
 ablink.newsletters2.motortrend.com
 ablink.notice.hoopladigital.com
@@ -337,7 +338,11 @@ clicks.fabletics.com
 clicks.flaming.burger-king.ch
 clicks.food.mercato.com
 clicks.info.alle.com
+clicks.justfab.co.uk
+clicks.justfab.de
+clicks.justfab.es
 clicks.justfab.fr
+clicks.justfab.se
 clicks.kfc.co.uk
 clicks.kfc.fr
 clicks.lifesum.com
@@ -561,6 +566,7 @@ lb.billing01.email-allstate.com
 lb.marketing01.email-allstate.com
 lb.quote01.email-allstate.com
 lb.service01.email-allstate.com
+levi247.levi.com
 link-beta.qonto.co
 link.admin.kodakmoments.com
 link.afterpay.com
@@ -656,6 +662,7 @@ links.email.distrokid.com
 links.email.getgocafe.com
 links.email.getprizepool.com
 links.email.gianteagle.com
+links.email.greenlight.me
 links.email.marketdistrict.com
 links.email.nbc.com
 links.email.usanetwork.com
@@ -671,6 +678,7 @@ links.glamsquad.com
 links.grand.co
 links.h5.hilton.com
 links.h6.hilton.com
+links.huckleberry-labs.com
 links.i.blueapron.com
 links.info.getgocafe.com
 links.info.gianteagle.com
@@ -714,7 +722,6 @@ links.younify.tv
 links.yummly.com
 links2.chownowmail.com
 links2.fluent-forever.com
-links2.pillar.app
 linktrace.diningcity.cn
 lnk2.patpat.com
 m.irlmail.org
@@ -728,6 +735,7 @@ mlinks.fluz.app
 mlinks.helloalfred.com
 monster.branch.rocks
 mx.carfax.com
+news.tracking.laredoute.es
 notice.hoopladigital.com
 pbm-email.rightwayhealthcare.com
 pint-dev-branch.airship.com
@@ -795,7 +803,6 @@ track.workframe.com
 tracking.email-mandrill.branch.rocks
 tracking.email-mandrill.pushd.com
 tracking.laredoute.fr
-tracking.sp.sofi.com
 tracking.staging.goshare.co
 tracks.roomster.com
 trk-branch.balinea.com
@@ -808,6 +815,7 @@ trk.shoppremiumoutlets.com
 trk.squeezemassage.com
 trkemail.luisaviaroma.com
 trklink.luisaviaroma.com
+updates.fabindia.info
 url1020.keycollectorcomics.com
 url1445.affirm.com
 url1451.careerkarma.info
@@ -838,6 +846,7 @@ url7674.fitgenieapp.com
 url8196.mindrise.app
 url8258.jshek.branch.rocks
 url9609.account.experience-muse.com
+url9684.wahi.com
 whatcounts.branch.rocks
 wl.spotify.com
 yiyemail.branch.rocks
@@ -1010,7 +1019,6 @@ app.bws.com.au
 app.byjus.com
 app.caden.io
 app.cambolink21.com
-app.campaignhero.ai
 app.campbowwow.com
 app.capitalbikeshare.com
 app.cardbaazi.com
@@ -1553,6 +1561,7 @@ branch-dev.getmaintainx.com
 branch-g993dvyzae-test.salesfloor.net
 branch-g993dvyzae.salesfloor.net
 branch-link.getseated.com
+branch-links.squadra.work
 branch-sandbox.thekono.com
 branch-sl-qc.trycircle.com
 branch-stage.jisp.com
@@ -1747,7 +1756,6 @@ colors.chamoji.com
 community.keeperz.app
 connect.goziohealth.com
 connect.huru.ai
-connect.im8.net
 connect.pixellot.link
 connectmychart.goziohealth.com
 content.booksplusapp.com
@@ -1888,7 +1896,6 @@ dev.me.thequad.com
 dev.punk.wagr.us
 dev.smartrbuyer.com
 dev.sswt.co
-development.me.thequad.com
 devlink.saganworks.com
 devlink.sprive.com
 devlink.thebpr.com
@@ -1996,6 +2003,7 @@ driver.jugnoo.in
 driver.promo.gogo.org.ua
 drngoc.abphotos.link
 dropcoffee.openapp.link
+dynamic.kayana.co.uk
 e.vcty.co
 e035.pandasuite.io
 e246.pandasuite.io
@@ -2244,7 +2252,6 @@ go.bouncie.com
 go.brazil.innovatedating.com
 go.bro.social
 go.callersmart.com
-go.calo.app
 go.cardless.com
 go.cb-w.com
 go.channel.io
@@ -2657,7 +2664,6 @@ join.staging.spur.io
 join.step.com
 join.stuypend.com
 join.talker.network
-join.thekrishi.com
 join.tlon.io
 join.travelxp.com
 join.vibely.io
@@ -3603,6 +3609,7 @@ openshop.oshp.io
 oshp.io
 osn-link.shares.social
 othanasis.openapp.link
+our.cauze.com
 outdoor.theres.co
 oxqq.pandasuite.io
 p.cab.ua
@@ -3693,6 +3700,7 @@ qa-branch-app.liketoknow.it
 qa-go.ebat.es
 qa-link.californiapsychics.com
 qa-prod.branch.rocks
+qa.go.rakuten.com
 qa.punk.wagr.us
 qaapp.forever21.com
 qlp.egghead.link
@@ -4004,6 +4012,7 @@ tap.carling.com
 tasteeat.openapp.link
 tasukeai.link.justincase.jp
 tba.smrtp.link
+teachers.saarthipedagogy.com
 test-app.getgifted.com
 test-app.popsa.com
 test-app.rmbr.in
@@ -4089,13 +4098,11 @@ travel.x.unikoom.com
 trk.luisaviaroma.com
 try.jaranda.kr
 try.joonapp.io
-try.popchart.family
 try.postmuseapp.com
 tsae.peblla.app
 tsg.spyn.co
 tsp.onjoyri.de
 tst-link-ccontact.focuscura.com
-tune.sckmediatv.com
 tw.spiriteq.com
 txt.fuelmyclub.com
 txt.hooplaguru.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716192007416        ; Serial
+           1716796807364        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -57,6 +57,7 @@ banque.banque-casino.fr CNAME .
 barnacle.tommybahama.com CNAME .
 bifpt.pepperfinance.es CNAME .
 black-cat.crypto.com CNAME .
+business.streetshares.com CNAME .
 caveo.boost-my.com CNAME .
 cbcdn.bankofscotland.co.uk CNAME .
 cbcdn.lloydsbank.com CNAME .
@@ -563,6 +564,7 @@ login.eki-net.com CNAME .
 loyaltyprogram.latam.com CNAME .
 loyaltyprogram.latamairlines.com CNAME .
 lpo.unionbank.com CNAME .
+ls-dp.nj.thelotter.us CNAME .
 lsdp.lotto.com CNAME .
 lspr.luckycasino.ca CNAME .
 lsprof.comeon.com CNAME .
@@ -737,7 +739,6 @@ rttm.uniondigitalbank.io CNAME .
 rvw.connection.com CNAME .
 rvw.govconnection.com CNAME .
 rvw.macconnection.com CNAME .
-s4.partner.yoomoney.ru CNAME .
 safe.joinmosaic.com CNAME .
 sc.liveme.com CNAME .
 scdn.missionlane.com CNAME .
@@ -1036,3 +1037,4 @@ ydkwim.targobank.de CNAME .
 yr3ioxw.hoaresbank.co.uk CNAME .
 zacchaeus.logos.com CNAME .
 zfp.intuit.com CNAME .
+zrn.payglocal.com CNAME .

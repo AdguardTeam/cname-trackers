@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716192007416        ; Serial
+           1716796807364        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -77,6 +77,7 @@ cdn.jhkfd.com CNAME .
 cdn.jhoncj.com CNAME .
 cdn.jitanvlw.com CNAME .
 cdn.jklpy.com CNAME .
+cdn.jwalf.com CNAME .
 cdn.karpatzi.com CNAME .
 cdn.keajs.com CNAME .
 cdn.kfjhd.com CNAME .
@@ -304,7 +305,6 @@ carp.acda.app CNAME .
 carp.amespacios.com CNAME .
 carp.pbncontent.com CNAME .
 carp.spotonevent.no CNAME .
-cat.acesandaros.org CNAME .
 cat.beunitedinchrist.com CNAME .
 cat.gfx.io CNAME .
 cat.laravel-news.com CNAME .
@@ -326,6 +326,7 @@ cattle.herojob.de CNAME .
 cattle.kirkebaekke.dk CNAME .
 cattle.kumo.at CNAME .
 cattle.meets.beer CNAME .
+cattle.mes-renovateurs.com CNAME .
 cattle.musikschule-bregenzerwald.at CNAME .
 cattle.spiral11.com CNAME .
 cattle.weiss-bregenz.at CNAME .
@@ -417,7 +418,6 @@ donkey.bahr.dev CNAME .
 donkey.elegantmusicgroup.com CNAME .
 donkey.guggenbichler.co.at CNAME .
 donkey.hackoregon.org CNAME .
-donkey.kontematik.com CNAME .
 donkey.the3rd.place CNAME .
 dormouse.consentkit.com CNAME .
 dove.hoku.nz CNAME .
@@ -629,6 +629,8 @@ krill.far.site CNAME .
 krill.spoonrage.com CNAME .
 krill.swiss-uke.ch CNAME .
 ks42zt.spec.fm CNAME .
+ladybug.dfour.space CNAME .
+ladybug.ficabo.com CNAME .
 ladybug.paulstovell.com CNAME .
 lamprey.carolcassar.com CNAME .
 lamprey.seagyndavis.com CNAME .
@@ -911,6 +913,7 @@ silverfish.djordjevanjek.com CNAME .
 skink.asorman.io CNAME .
 skink.thoumi.ch CNAME .
 skunk.gameworkersolidarity.com CNAME .
+sloth.vaalinstudio.com CNAME .
 smelt.allenpike.com CNAME .
 smelt.gautrowski.com CNAME .
 snipe.mfaber.at CNAME .
@@ -1118,6 +1121,7 @@ cdn.studiosis.in CNAME .
 cdn.unibotscdn.com CNAME .
 ucdn.adgebra.co CNAME .
 cdn.shrtfly.vip CNAME .
+cdn.tracking.prepr.io CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .

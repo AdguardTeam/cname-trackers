@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716192007416        ; Serial
+           1716796807364        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -64,7 +64,7 @@ b1tow9h4erpw.anur.polymerdev.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
-c75jfa9x96.www.bolighub.dk CNAME .
+cb4ss897xf.www.bolighub.dk CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
 cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
@@ -84,14 +84,12 @@ ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com CNAME .
 jii3gnhro.www.emanualonline.com CNAME .
 jiktq0fr9hv6.meleton.ru CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
-kpdp9rozqqublmht.www.bolighub.dk CNAME .
 li3k4d70ig52.resourceya.com CNAME .
 lofo3l15c674.platform.replai.io CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
 m4zoxtrcea1k.controlconceptsusa.com CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
-mkpfnsgl0sbe7smu0h.www.bolighub.dk CNAME .
 mteme7li1d6r.vertexmarketingagency.com CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
 nqyuel589fq5.esgrounding.com CNAME .

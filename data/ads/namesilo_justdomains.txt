@@ -1042,10 +1042,10 @@ a.ma3ion.com
 a.n4m5x60.com
 a.optimizesrv.com
 a.paradoxgroup.uk
+a.q88z1s3.com
 a.r8lnet.com
 a.redpathmedia.com
 a.rocoads.net
-a.santabrowser.com
 a.slice.exchange
 a.stuffserve.com
 a.tf4srv.com
@@ -1150,6 +1150,7 @@ s.optzsrv.com
 s.orbsrv.com
 s.paradoxgroup.uk
 s.pemsrv.com
+s.q88z1s3.com
 s.redpathmedia.com
 s.rocoads.net
 s.slice.exchange
@@ -1208,8 +1209,10 @@ www.3231172.notify6.com
 www.3243082.notifysrv.com
 www.3254306.notifysrv.com
 www.3270262.notifysrv.com
+www.3410343.notify6.com
 www.3466857.notify6.com
 www.3466863.notify6.com
+www.3475335.notify6.com
 www.3684237.notify6.com
 www.3815579.notify6.com
 www.3881818.notify6.com
@@ -1223,3 +1226,4 @@ www.8.notify.bizonads-ssp.com
 www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
+a.santabrowser.com

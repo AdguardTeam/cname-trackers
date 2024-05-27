@@ -49,6 +49,7 @@
     * 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp
     * 26349a15-esqb2ypb.cname.ebis.ne.jp
     * 267222ab-t3ucd5yy.cname.ebis.ne.jp
+    * 26ee0459-cb9pban5.cname.ebis.ne.jp
     * 272dd850-1tkscuog.cname.ebis.ne.jp
     * 27bc2a62-d23tnyeg.cname.ebis.ne.jp
     * 28398c99-cswptfaa.cname.ebis.ne.jp
@@ -62,7 +63,6 @@
     * 30a5817d-lkhaegjw.cname.ebis.ne.jp
     * 3161a54f-5b4wkpdw.cname.ebis.ne.jp
     * 31e48120-fbzwhcnp.cname.ebis.ne.jp
-    * 32733dbb-an5megta.cname.ebis.ne.jp
     * 337c50cc-ztaqjkmm.cname.ebis.ne.jp
     * 34213ab6-xnj2xrq7.cname.ebis.ne.jp
     * 359e2360-u9necda2.cname.ebis.ne.jp
@@ -349,6 +349,7 @@
 | marketing.biz.mynavi.jp | 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp |
 | ebis.smakon.jp | 26349a15-esqb2ypb.cname.ebis.ne.jp |
 | ebiscname.english-native.net | 267222ab-t3ucd5yy.cname.ebis.ne.jp |
+| ccc.aqualink.tokyo | 26ee0459-cb9pban5.cname.ebis.ne.jp |
 | ad-ebis.mynavi-job20s.jp | 272dd850-1tkscuog.cname.ebis.ne.jp |
 | corporate.frontierconsul.net | 27bc2a62-d23tnyeg.cname.ebis.ne.jp |
 | cname.jaic-college.jp | 28398c99-cswptfaa.cname.ebis.ne.jp |
@@ -362,7 +363,6 @@
 | adebis-morijuku.morijuku.com | 30a5817d-lkhaegjw.cname.ebis.ne.jp |
 | ebis.kimonoichiba.com | 3161a54f-5b4wkpdw.cname.ebis.ne.jp |
 | cname-ade.hankoya.com | 31e48120-fbzwhcnp.cname.ebis.ne.jp |
-| adebis.wii-clinic.jp | 32733dbb-an5megta.cname.ebis.ne.jp |
 | adebis.afc-shop.com | 337c50cc-ztaqjkmm.cname.ebis.ne.jp |
 | adebis.report.clinic | 34213ab6-xnj2xrq7.cname.ebis.ne.jp |
 | adebis.tipness.co.jp | 359e2360-u9necda2.cname.ebis.ne.jp |

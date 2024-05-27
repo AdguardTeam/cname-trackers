@@ -210,7 +210,6 @@
 | app.byjus.com | custom.bnc.lt |
 | app.caden.io | custom.bnc.lt |
 | app.cambolink21.com | custom.bnc.lt |
-| app.campaignhero.ai | custom.bnc.lt |
 | app.campbowwow.com | custom.bnc.lt |
 | app.capitalbikeshare.com | custom.bnc.lt |
 | app.cardbaazi.com | custom.bnc.lt |
@@ -753,6 +752,7 @@
 | branch-g993dvyzae-test.salesfloor.net | custom.bnc.lt |
 | branch-g993dvyzae.salesfloor.net | custom.bnc.lt |
 | branch-link.getseated.com | custom.bnc.lt |
+| branch-links.squadra.work | custom.bnc.lt |
 | branch-sandbox.thekono.com | custom.bnc.lt |
 | branch-sl-qc.trycircle.com | custom.bnc.lt |
 | branch-stage.jisp.com | custom.bnc.lt |
@@ -947,7 +947,6 @@
 | community.keeperz.app | custom.bnc.lt |
 | connect.goziohealth.com | custom.bnc.lt |
 | connect.huru.ai | custom.bnc.lt |
-| connect.im8.net | custom.bnc.lt |
 | connect.pixellot.link | custom.bnc.lt |
 | connectmychart.goziohealth.com | custom.bnc.lt |
 | content.booksplusapp.com | custom.bnc.lt |
@@ -1088,7 +1087,6 @@
 | dev.punk.wagr.us | custom.bnc.lt |
 | dev.smartrbuyer.com | custom.bnc.lt |
 | dev.sswt.co | custom.bnc.lt |
-| development.me.thequad.com | custom.bnc.lt |
 | devlink.saganworks.com | custom.bnc.lt |
 | devlink.sprive.com | custom.bnc.lt |
 | devlink.thebpr.com | custom.bnc.lt |
@@ -1196,6 +1194,7 @@
 | driver.promo.gogo.org.ua | custom.bnc.lt |
 | drngoc.abphotos.link | custom.bnc.lt |
 | dropcoffee.openapp.link | custom.bnc.lt |
+| dynamic.kayana.co.uk | custom.bnc.lt |
 | e.vcty.co | custom.bnc.lt |
 | e035.pandasuite.io | custom.bnc.lt |
 | e246.pandasuite.io | custom.bnc.lt |
@@ -1444,7 +1443,6 @@
 | go.brazil.innovatedating.com | custom.bnc.lt |
 | go.bro.social | custom.bnc.lt |
 | go.callersmart.com | custom.bnc.lt |
-| go.calo.app | custom.bnc.lt |
 | go.cardless.com | custom.bnc.lt |
 | go.cb-w.com | custom.bnc.lt |
 | go.channel.io | custom.bnc.lt |
@@ -1857,7 +1855,6 @@
 | join.step.com | custom.bnc.lt |
 | join.stuypend.com | custom.bnc.lt |
 | join.talker.network | custom.bnc.lt |
-| join.thekrishi.com | custom.bnc.lt |
 | join.tlon.io | custom.bnc.lt |
 | join.travelxp.com | custom.bnc.lt |
 | join.vibely.io | custom.bnc.lt |
@@ -2803,6 +2800,7 @@
 | oshp.io | custom.bnc.lt |
 | osn-link.shares.social | custom.bnc.lt |
 | othanasis.openapp.link | custom.bnc.lt |
+| our.cauze.com | custom.bnc.lt |
 | outdoor.theres.co | custom.bnc.lt |
 | oxqq.pandasuite.io | custom.bnc.lt |
 | p.cab.ua | custom.bnc.lt |
@@ -2893,6 +2891,7 @@
 | qa-go.ebat.es | custom.bnc.lt |
 | qa-link.californiapsychics.com | custom.bnc.lt |
 | qa-prod.branch.rocks | custom.bnc.lt |
+| qa.go.rakuten.com | custom.bnc.lt |
 | qa.punk.wagr.us | custom.bnc.lt |
 | qaapp.forever21.com | custom.bnc.lt |
 | qlp.egghead.link | custom.bnc.lt |
@@ -3204,6 +3203,7 @@
 | tasteeat.openapp.link | custom.bnc.lt |
 | tasukeai.link.justincase.jp | custom.bnc.lt |
 | tba.smrtp.link | custom.bnc.lt |
+| teachers.saarthipedagogy.com | custom.bnc.lt |
 | test-app.getgifted.com | custom.bnc.lt |
 | test-app.popsa.com | custom.bnc.lt |
 | test-app.rmbr.in | custom.bnc.lt |
@@ -3289,13 +3289,11 @@
 | trk.luisaviaroma.com | custom.bnc.lt |
 | try.jaranda.kr | custom.bnc.lt |
 | try.joonapp.io | custom.bnc.lt |
-| try.popchart.family | custom.bnc.lt |
 | try.postmuseapp.com | custom.bnc.lt |
 | tsae.peblla.app | custom.bnc.lt |
 | tsg.spyn.co | custom.bnc.lt |
 | tsp.onjoyri.de | custom.bnc.lt |
 | tst-link-ccontact.focuscura.com | custom.bnc.lt |
-| tune.sckmediatv.com | custom.bnc.lt |
 | tw.spiriteq.com | custom.bnc.lt |
 | txt.fuelmyclub.com | custom.bnc.lt |
 | txt.hooplaguru.com | custom.bnc.lt |
@@ -3456,7 +3454,6 @@
 | 9735476.test.skyscanner.net | thirdparty.bnc.lt |
 | 9857064.hello.spriggy.com.au | thirdparty.bnc.lt |
 | 9857064.notice.spriggy.com.au | thirdparty.bnc.lt |
-| 9955951.pillar.app | thirdparty.bnc.lt |
 | 9984342.reddoorz.in | thirdparty.bnc.lt |
 | a.hibbett.com | thirdparty.bnc.lt |
 | ablink.1954.bk.com | thirdparty.bnc.lt |
@@ -3533,6 +3530,7 @@
 | ablink.m.popeyes.com | thirdparty.bnc.lt |
 | ablink.m.seatedapp.io | thirdparty.bnc.lt |
 | ablink.m.sofi.org | thirdparty.bnc.lt |
+| ablink.m.theiconic.com.au | thirdparty.bnc.lt |
 | ablink.ma.linktr.ee | thirdparty.bnc.lt |
 | ablink.mail.activearcade.ai | thirdparty.bnc.lt |
 | ablink.mail.adobespark.com | thirdparty.bnc.lt |
@@ -3556,6 +3554,7 @@
 | ablink.news.forhers.com | thirdparty.bnc.lt |
 | ablink.news.gooseinsurance.com | thirdparty.bnc.lt |
 | ablink.news.kfc.co.za | thirdparty.bnc.lt |
+| ablink.news.theiconic.com.au | thirdparty.bnc.lt |
 | ablink.newsletters1.motortrend.com | thirdparty.bnc.lt |
 | ablink.newsletters2.motortrend.com | thirdparty.bnc.lt |
 | ablink.notice.hoopladigital.com | thirdparty.bnc.lt |
@@ -3742,7 +3741,11 @@
 | clicks.flaming.burger-king.ch | thirdparty.bnc.lt |
 | clicks.food.mercato.com | thirdparty.bnc.lt |
 | clicks.info.alle.com | thirdparty.bnc.lt |
+| clicks.justfab.co.uk | thirdparty.bnc.lt |
+| clicks.justfab.de | thirdparty.bnc.lt |
+| clicks.justfab.es | thirdparty.bnc.lt |
 | clicks.justfab.fr | thirdparty.bnc.lt |
+| clicks.justfab.se | thirdparty.bnc.lt |
 | clicks.kfc.co.uk | thirdparty.bnc.lt |
 | clicks.kfc.fr | thirdparty.bnc.lt |
 | clicks.lifesum.com | thirdparty.bnc.lt |
@@ -3964,6 +3967,7 @@
 | lb.marketing01.email-allstate.com | thirdparty.bnc.lt |
 | lb.quote01.email-allstate.com | thirdparty.bnc.lt |
 | lb.service01.email-allstate.com | thirdparty.bnc.lt |
+| levi247.levi.com | thirdparty.bnc.lt |
 | link-beta.qonto.co | thirdparty.bnc.lt |
 | link.admin.kodakmoments.com | thirdparty.bnc.lt |
 | link.afterpay.com | thirdparty.bnc.lt |
@@ -4059,6 +4063,7 @@
 | links.email.getgocafe.com | thirdparty.bnc.lt |
 | links.email.getprizepool.com | thirdparty.bnc.lt |
 | links.email.gianteagle.com | thirdparty.bnc.lt |
+| links.email.greenlight.me | thirdparty.bnc.lt |
 | links.email.marketdistrict.com | thirdparty.bnc.lt |
 | links.email.nbc.com | thirdparty.bnc.lt |
 | links.email.usanetwork.com | thirdparty.bnc.lt |
@@ -4074,6 +4079,7 @@
 | links.grand.co | thirdparty.bnc.lt |
 | links.h5.hilton.com | thirdparty.bnc.lt |
 | links.h6.hilton.com | thirdparty.bnc.lt |
+| links.huckleberry-labs.com | thirdparty.bnc.lt |
 | links.i.blueapron.com | thirdparty.bnc.lt |
 | links.info.getgocafe.com | thirdparty.bnc.lt |
 | links.info.gianteagle.com | thirdparty.bnc.lt |
@@ -4117,7 +4123,6 @@
 | links.yummly.com | thirdparty.bnc.lt |
 | links2.chownowmail.com | thirdparty.bnc.lt |
 | links2.fluent-forever.com | thirdparty.bnc.lt |
-| links2.pillar.app | thirdparty.bnc.lt |
 | linktrace.diningcity.cn | thirdparty.bnc.lt |
 | lnk2.patpat.com | thirdparty.bnc.lt |
 | m.irlmail.org | thirdparty.bnc.lt |
@@ -4131,6 +4136,7 @@
 | mlinks.helloalfred.com | thirdparty.bnc.lt |
 | monster.branch.rocks | thirdparty.bnc.lt |
 | mx.carfax.com | thirdparty.bnc.lt |
+| news.tracking.laredoute.es | thirdparty.bnc.lt |
 | notice.hoopladigital.com | thirdparty.bnc.lt |
 | pbm-email.rightwayhealthcare.com | thirdparty.bnc.lt |
 | pint-dev-branch.airship.com | thirdparty.bnc.lt |
@@ -4196,7 +4202,6 @@
 | tracking.email-mandrill.branch.rocks | thirdparty.bnc.lt |
 | tracking.email-mandrill.pushd.com | thirdparty.bnc.lt |
 | tracking.laredoute.fr | thirdparty.bnc.lt |
-| tracking.sp.sofi.com | thirdparty.bnc.lt |
 | tracking.staging.goshare.co | thirdparty.bnc.lt |
 | tracks.roomster.com | thirdparty.bnc.lt |
 | trk-branch.balinea.com | thirdparty.bnc.lt |
@@ -4209,6 +4214,7 @@
 | trk.squeezemassage.com | thirdparty.bnc.lt |
 | trkemail.luisaviaroma.com | thirdparty.bnc.lt |
 | trklink.luisaviaroma.com | thirdparty.bnc.lt |
+| updates.fabindia.info | thirdparty.bnc.lt |
 | url1020.keycollectorcomics.com | thirdparty.bnc.lt |
 | url1445.affirm.com | thirdparty.bnc.lt |
 | url1451.careerkarma.info | thirdparty.bnc.lt |
@@ -4239,6 +4245,7 @@
 | url8196.mindrise.app | thirdparty.bnc.lt |
 | url8258.jshek.branch.rocks | thirdparty.bnc.lt |
 | url9609.account.experience-muse.com | thirdparty.bnc.lt |
+| url9684.wahi.com | thirdparty.bnc.lt |
 | whatcounts.branch.rocks | thirdparty.bnc.lt |
 | wl.spotify.com | thirdparty.bnc.lt |
 | yiyemail.branch.rocks | thirdparty.bnc.lt |

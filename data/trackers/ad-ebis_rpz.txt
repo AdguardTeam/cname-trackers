@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716192007416        ; Serial
+           1716796807364        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -114,7 +114,6 @@ adebis.tokyuhotels.co.jp CNAME .
 adebis.toushi-up.com CNAME .
 adebis.tspot.co.jp CNAME .
 adebis.urban-research.jp CNAME .
-adebis.wii-clinic.jp CNAME .
 adebis.zenyaku-hbshop.com CNAME .
 adebis01.job-con.jp CNAME .
 adebis02.juku.st CNAME .
@@ -140,6 +139,7 @@ beeline.beeline-tire.co.jp CNAME .
 campaign-direct.eisai.jp CNAME .
 campaign-direct.ketsuatsu-taisaku.xyz CNAME .
 campaign-direct.kouketsuatsu-health.xyz CNAME .
+ccc.aqualink.tokyo CNAME .
 cmass.massmedian.co.jp CNAME .
 cname-ade.gom-in.com CNAME .
 cname-ade.hankoya.com CNAME .

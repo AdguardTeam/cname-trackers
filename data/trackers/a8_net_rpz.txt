@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716192007416        ; Serial
+           1716796807364        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -223,6 +223,7 @@ a8.moku.info CNAME .
 a8.mosh.jp CNAME .
 a8.musbell.co.jp CNAME .
 a8.n-pri.jp CNAME .
+a8.nachurabo.com CNAME .
 a8.nanafu.tokyo CNAME .
 a8.narikiri.me CNAME .
 a8.nengahonpo.com CNAME .
@@ -878,7 +879,6 @@ a8cv.ecodepa.jp CNAME .
 a8cv.eeo.today CNAME .
 a8cv.egmkt.co.jp CNAME .
 a8cv.eikajapan.com CNAME .
-a8cv.elife-shihou.com CNAME .
 a8cv.emma-sleep-japan.com CNAME .
 a8cv.encounter2017.jp CNAME .
 a8cv.english-bootcamp.com CNAME .
@@ -886,6 +886,7 @@ a8cv.english-cc.com CNAME .
 a8cv.english-village.net CNAME .
 a8cv.entre-salon.com CNAME .
 a8cv.entry.renet.jp CNAME .
+a8cv.est-online.com CNAME .
 a8cv.euria.store CNAME .
 a8cv.exrg-premium.shop CNAME .
 a8cv.eys-musicschool.com CNAME .
@@ -1021,6 +1022,7 @@ a8cv.laviepre.co.jp CNAME .
 a8cv.lc-jewel.jp CNAME .
 a8cv.lear-caree.com CNAME .
 a8cv.leasonable.com CNAME .
+a8cv.lens-1.jp CNAME .
 a8cv.leoandlea.com CNAME .
 a8cv.lianest.co.jp CNAME .
 a8cv.lp.nalevi.mynavi.jp CNAME .
@@ -1283,7 +1285,6 @@ a8cv.zacc.jp CNAME .
 a8cv.zeroen-denki.com CNAME .
 a8cv.zerorenovation.com CNAME .
 a8cv.zoner.com CNAME .
-a8cv2.hoken-choice.com CNAME .
 a8cv2.vapelog.jp CNAME .
 a8cventry.uqwimax.jp CNAME .
 a8cvhoiku.kidsmate.jp CNAME .

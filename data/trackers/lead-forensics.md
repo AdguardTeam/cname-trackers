@@ -7,8 +7,7 @@
 ### Rarely active trackers
 
 * xsp-mvp.trafficmanager.net
-* ipv4-cses-oms-eus-az01-prod.eastus.cloudapp.azure.com
-* adssp.trafficmanager.net
+* ipv4-cses-oms-eus-prod.eastus.cloudapp.azure.com
 * ppphubanalytics.eastus2.cloudapp.azure.com
 * glance-analytics.trafficmanager.net
 * utm.semilab.trafficmanager.net
@@ -25,7 +24,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| adssp.dunia.ae | adssp.trafficmanager.net |
 | f5.track-mv-01.com | ghochv3eng.trafficmanager.net |
 | secure.24-information-acute.com | ghochv3eng.trafficmanager.net |
 | secure.24-visionaryenterprise.com | ghochv3eng.trafficmanager.net |
@@ -117,7 +115,6 @@
 | secure.game9time.com | ghochv3eng.trafficmanager.net |
 | secure.gard4mass.com | ghochv3eng.trafficmanager.net |
 | secure.garm9yuma.com | ghochv3eng.trafficmanager.net |
-| secure.gaza2lote.com | ghochv3eng.trafficmanager.net |
 | secure.gift2pair.com | ghochv3eng.trafficmanager.net |
 | secure.give2hill.com | ghochv3eng.trafficmanager.net |
 | secure.glue1lazy.com | ghochv3eng.trafficmanager.net |
@@ -343,7 +340,6 @@
 | www.143nchrtl3.com | ghochv3eng.trafficmanager.net |
 | www.1h2h54jkw.com | ghochv3eng.trafficmanager.net |
 | www.200-rockergod.com | ghochv3eng.trafficmanager.net |
-| www.22-trk-srv.com | ghochv3eng.trafficmanager.net |
 | www.24-visionaryenterprise.com | ghochv3eng.trafficmanager.net |
 | www.33-trk-srv.com | ghochv3eng.trafficmanager.net |
 | www.33infra-strat.com | ghochv3eng.trafficmanager.net |
@@ -354,11 +350,9 @@
 | www.66infra-strat.com | ghochv3eng.trafficmanager.net |
 | www.7-companycompany.com | ghochv3eng.trafficmanager.net |
 | www.88infra-strat.com | ghochv3eng.trafficmanager.net |
-| www.acor1sign.com | ghochv3eng.trafficmanager.net |
 | www.adgjl13.com | ghochv3eng.trafficmanager.net |
-| www.agile-company-365.com | ghochv3eng.trafficmanager.net |
-| www.agile-enterprise-365.com | ghochv3eng.trafficmanager.net |
 | www.agiledata7.com | ghochv3eng.trafficmanager.net |
+| www.aiea6gaza.com | ghochv3eng.trafficmanager.net |
 | www.alda1mure.com | ghochv3eng.trafficmanager.net |
 | www.alga9frog.com | ghochv3eng.trafficmanager.net |
 | www.alnw3nsdi.com | ghochv3eng.trafficmanager.net |
@@ -380,10 +374,13 @@
 | www.bis-dic15.com | ghochv3eng.trafficmanager.net |
 | www.blue2fund.com | ghochv3eng.trafficmanager.net |
 | www.boat3deer.com | ghochv3eng.trafficmanager.net |
+| www.bolt8snap.com | ghochv3eng.trafficmanager.net |
 | www.bosctrl32.com | ghochv3eng.trafficmanager.net |
+| www.bred4tula.com | ghochv3eng.trafficmanager.net |
 | www.brie5jiff.com | ghochv3eng.trafficmanager.net |
 | www.burn5tilt.com | ghochv3eng.trafficmanager.net |
 | www.business-path-55.com | ghochv3eng.trafficmanager.net |
+| www.bux1le001.com | ghochv3eng.trafficmanager.net |
 | www.cable-cen-01.com | ghochv3eng.trafficmanager.net |
 | www.cage6west.com | ghochv3eng.trafficmanager.net |
 | www.care5alea.com | ghochv3eng.trafficmanager.net |
@@ -402,7 +399,6 @@
 | www.cloud-9751.com | ghochv3eng.trafficmanager.net |
 | www.cloud-ingenuity.com | ghochv3eng.trafficmanager.net |
 | www.cloud-trail.com | ghochv3eng.trafficmanager.net |
-| www.cloudpath82.com | ghochv3eng.trafficmanager.net |
 | www.clue6load.com | ghochv3eng.trafficmanager.net |
 | www.cnej4912jks.com | ghochv3eng.trafficmanager.net |
 | www.cnt-tm-1.com | ghochv3eng.trafficmanager.net |
@@ -418,7 +414,6 @@
 | www.cuba7tilt.com | ghochv3eng.trafficmanager.net |
 | www.curl7bike.com | ghochv3eng.trafficmanager.net |
 | www.dakic-ia-300.com | ghochv3eng.trafficmanager.net |
-| www.dana8herb.com | ghochv3eng.trafficmanager.net |
 | www.dbrtkwaa81.com | ghochv3eng.trafficmanager.net |
 | www.deng3rada.com | ghochv3eng.trafficmanager.net |
 | www.dens1raec.com | ghochv3eng.trafficmanager.net |
@@ -444,7 +439,6 @@
 | www.enterprisingoperation-7.com | ghochv3eng.trafficmanager.net |
 | www.etym6cero.com | ghochv3eng.trafficmanager.net |
 | www.eue21east.com | ghochv3eng.trafficmanager.net |
-| www.eue27west.com | ghochv3eng.trafficmanager.net |
 | www.eventcapture03.com | ghochv3eng.trafficmanager.net |
 | www.eventcapture06.com | ghochv3eng.trafficmanager.net |
 | www.ever-track-51.com | ghochv3eng.trafficmanager.net |
@@ -471,6 +465,7 @@
 | www.haag0some.com | ghochv3eng.trafficmanager.net |
 | www.haig7anax.com | ghochv3eng.trafficmanager.net |
 | www.half1hell.com | ghochv3eng.trafficmanager.net |
+| www.hall3hook.com | ghochv3eng.trafficmanager.net |
 | www.harm6stop.com | ghochv3eng.trafficmanager.net |
 | www.hazy4cant.com | ghochv3eng.trafficmanager.net |
 | www.head3high.com | ghochv3eng.trafficmanager.net |
@@ -484,7 +479,7 @@
 | www.hook6vein.com | ghochv3eng.trafficmanager.net |
 | www.hrb1tng0.com | ghochv3eng.trafficmanager.net |
 | www.hvgcfx1.com | ghochv3eng.trafficmanager.net |
-| www.inc9lineedge.com | ghochv3eng.trafficmanager.net |
+| www.imaginative-trade7.com | ghochv3eng.trafficmanager.net |
 | www.incline9edge.com | ghochv3eng.trafficmanager.net |
 | www.indpcr1.com | ghochv3eng.trafficmanager.net |
 | www.insightful-company-52.com | ghochv3eng.trafficmanager.net |
@@ -495,10 +490,8 @@
 | www.intelligent-data-247.com | ghochv3eng.trafficmanager.net |
 | www.intelligentcompanywisdom.com | ghochv3eng.trafficmanager.net |
 | www.intelligentdatawisdom.com | ghochv3eng.trafficmanager.net |
-| www.intuition-agile-7.com | ghochv3eng.trafficmanager.net |
 | www.ip-a-box.com | ghochv3eng.trafficmanager.net |
 | www.ip-route.net | ghochv3eng.trafficmanager.net |
-| www.iron0walk.com | ghochv3eng.trafficmanager.net |
 | www.jaup0lake.com | ghochv3eng.trafficmanager.net |
 | www.jebb8hurt.com | ghochv3eng.trafficmanager.net |
 | www.jenxsw21lb.com | ghochv3eng.trafficmanager.net |
@@ -522,14 +515,15 @@
 | www.lansrv070.com | ghochv3eng.trafficmanager.net |
 | www.lansrv080.com | ghochv3eng.trafficmanager.net |
 | www.lansrv090.com | ghochv3eng.trafficmanager.net |
+| www.late6year.com | ghochv3eng.trafficmanager.net |
 | www.late8chew.com | ghochv3eng.trafficmanager.net |
 | www.lave6loki.com | ghochv3eng.trafficmanager.net |
 | www.lazy8krti.com | ghochv3eng.trafficmanager.net |
 | www.ldfr-cloud.net | ghochv3eng.trafficmanager.net |
 | www.lead-analytics-1000.com | ghochv3eng.trafficmanager.net |
 | www.lead-watcher.com | ghochv3eng.trafficmanager.net |
-| www.leads.goldenshovel.com | ghochv3eng.trafficmanager.net |
 | www.left5lock.com | ghochv3eng.trafficmanager.net |
+| www.letterbox-path.com | ghochv3eng.trafficmanager.net |
 | www.lforen-cloud-trace.com | ghochv3eng.trafficmanager.net |
 | www.line6agar.com | ghochv3eng.trafficmanager.net |
 | www.link5view.com | ghochv3eng.trafficmanager.net |
@@ -539,7 +533,6 @@
 | www.loki8lave.com | ghochv3eng.trafficmanager.net |
 | www.loom3otto.com | ghochv3eng.trafficmanager.net |
 | www.lope4refl.com | ghochv3eng.trafficmanager.net |
-| www.lote1otto.com | ghochv3eng.trafficmanager.net |
 | www.mack7oyes.com | ghochv3eng.trafficmanager.net |
 | www.main5poem.com | ghochv3eng.trafficmanager.net |
 | www.make6pain.com | ghochv3eng.trafficmanager.net |
@@ -548,7 +541,6 @@
 | www.mari4norm.com | ghochv3eng.trafficmanager.net |
 | www.marx7loki.com | ghochv3eng.trafficmanager.net |
 | www.mass1soma.com | ghochv3eng.trafficmanager.net |
-| www.me1294hlx.com | ghochv3eng.trafficmanager.net |
 | www.mean8sigh.com | ghochv3eng.trafficmanager.net |
 | www.mediaedge-info.com | ghochv3eng.trafficmanager.net |
 | www.meet3monk.com | ghochv3eng.trafficmanager.net |
@@ -576,6 +568,7 @@
 | www.oita4bali.com | ghochv3eng.trafficmanager.net |
 | www.operationintelligence7.com | ghochv3eng.trafficmanager.net |
 | www.otto5loki.com | ghochv3eng.trafficmanager.net |
+| www.ours3care.com | ghochv3eng.trafficmanager.net |
 | www.page1monk.com | ghochv3eng.trafficmanager.net |
 | www.page9awry.com | ghochv3eng.trafficmanager.net |
 | www.pair1tune.com | ghochv3eng.trafficmanager.net |
@@ -598,12 +591,9 @@
 | www.qetup12.com | ghochv3eng.trafficmanager.net |
 | www.qlzn6i1l.com | ghochv3eng.trafficmanager.net |
 | www.qpwoei2.com | ghochv3eng.trafficmanager.net |
-| www.r45j15.com | ghochv3eng.trafficmanager.net |
 | www.raab3frog.com | ghochv3eng.trafficmanager.net |
 | www.rals4alum.com | ghochv3eng.trafficmanager.net |
-| www.rate2self.com | ghochv3eng.trafficmanager.net |
 | www.rate8deny.com | ghochv3eng.trafficmanager.net |
-| www.rdeswa1.com | ghochv3eng.trafficmanager.net |
 | www.rear9axis.com | ghochv3eng.trafficmanager.net |
 | www.redd7liod.com | ghochv3eng.trafficmanager.net |
 | www.refl3alea.com | ghochv3eng.trafficmanager.net |
@@ -615,8 +605,6 @@
 | www.rime8lope.com | ghochv3eng.trafficmanager.net |
 | www.ripe8book.com | ghochv3eng.trafficmanager.net |
 | www.risk8belt.com | ghochv3eng.trafficmanager.net |
-| www.roar9beer.com | ghochv3eng.trafficmanager.net |
-| www.rock5rice.com | ghochv3eng.trafficmanager.net |
 | www.rote8mino.com | ghochv3eng.trafficmanager.net |
 | www.ruth8badb.com | ghochv3eng.trafficmanager.net |
 | www.ryke4peep.com | ghochv3eng.trafficmanager.net |
@@ -625,7 +613,6 @@
 | www.saas-eue-1.com | ghochv3eng.trafficmanager.net |
 | www.saas-euw-1.com | ghochv3eng.trafficmanager.net |
 | www.said3page.com | ghochv3eng.trafficmanager.net |
-| www.sale0home.com | ghochv3eng.trafficmanager.net |
 | www.saon6harz.com | ghochv3eng.trafficmanager.net |
 | www.sas15k01.com | ghochv3eng.trafficmanager.net |
 | www.scan-trail.com | ghochv3eng.trafficmanager.net |
@@ -641,8 +628,8 @@
 | www.smart-business-365.com | ghochv3eng.trafficmanager.net |
 | www.smart-cloud-intelligence.com | ghochv3eng.trafficmanager.net |
 | www.smart-company-365.com | ghochv3eng.trafficmanager.net |
+| www.smart-company365.com | ghochv3eng.trafficmanager.net |
 | www.smart-enterprise-7.com | ghochv3eng.trafficmanager.net |
-| www.smart-enterprise-acumen.com | ghochv3eng.trafficmanager.net |
 | www.snta0034.com | ghochv3eng.trafficmanager.net |
 | www.softtrack08.com | ghochv3eng.trafficmanager.net |
 | www.soil5hear.com | ghochv3eng.trafficmanager.net |
@@ -650,7 +637,6 @@
 | www.sour1bare.com | ghochv3eng.trafficmanager.net |
 | www.sour7will.com | ghochv3eng.trafficmanager.net |
 | www.spit0stge.com | ghochv3eng.trafficmanager.net |
-| www.srv00infra.com | ghochv3eng.trafficmanager.net |
 | www.srv1010elan.com | ghochv3eng.trafficmanager.net |
 | www.srv2020real.com | ghochv3eng.trafficmanager.net |
 | www.srvtrkxx1.com | ghochv3eng.trafficmanager.net |
@@ -666,7 +652,6 @@
 | www.tgvrfc4.com | ghochv3eng.trafficmanager.net |
 | www.tire1soak.com | ghochv3eng.trafficmanager.net |
 | www.tm1-001.com | ghochv3eng.trafficmanager.net |
-| www.trace-2000.com | ghochv3eng.trafficmanager.net |
 | www.trackercloud.net | ghochv3eng.trafficmanager.net |
 | www.trackinvestigate.net | ghochv3eng.trafficmanager.net |
 | www.trail-route.com | ghochv3eng.trafficmanager.net |
@@ -683,7 +668,6 @@
 | www.vane3alga.com | ghochv3eng.trafficmanager.net |
 | www.venture-enterprising.com | ghochv3eng.trafficmanager.net |
 | www.vice4beek.com | ghochv3eng.trafficmanager.net |
-| www.vick6duty.com | ghochv3eng.trafficmanager.net |
 | www.visionary-business-52.com | ghochv3eng.trafficmanager.net |
 | www.visionary-data-intuition.com | ghochv3eng.trafficmanager.net |
 | www.visionary-enterprise-wisdom.com | ghochv3eng.trafficmanager.net |
@@ -692,6 +676,7 @@
 | www.wa52613.com | ghochv3eng.trafficmanager.net |
 | www.wait8hurl.com | ghochv3eng.trafficmanager.net |
 | www.want7feed.com | ghochv3eng.trafficmanager.net |
+| www.wauk1care.com | ghochv3eng.trafficmanager.net |
 | www.web-01-gbl.com | ghochv3eng.trafficmanager.net |
 | www.websiteexploration.com | ghochv3eng.trafficmanager.net |
 | www.wild0army.com | ghochv3eng.trafficmanager.net |
@@ -710,7 +695,7 @@
 | gionee.analytics.glance.inmobi.com | glance-analytics.trafficmanager.net |
 | id.analytics.glance.inmobi.com | glance-analytics.trafficmanager.net |
 | in.analytics.glance.inmobi.com | glance-analytics.trafficmanager.net |
-| 65b134eb-c593-4d2e-b75b-165d41e949f9.oms.opinsights.azure.com | ipv4-cses-oms-eus-az01-prod.eastus.cloudapp.azure.com |
+| 65b134eb-c593-4d2e-b75b-165d41e949f9.oms.opinsights.azure.com | ipv4-cses-oms-eus-prod.eastus.cloudapp.azure.com |
 | data.diagnostics.office.com | ods-logging-prod.eastus.cloudapp.azure.com |
 | oca.microsoft.com | onedsblobprdcus07.centralus.cloudapp.azure.com |
 | watson.microsoft.com | onedsblobprdcus07.centralus.cloudapp.azure.com |
@@ -839,6 +824,7 @@
 | secure.hook6vein.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.imaginative-24.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.imaginative-trade7.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
+| secure.imaginativeenterprising-intelligent.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.informationcreativeinnovative.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.innovation-perceptive52.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.insight-52.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
@@ -852,6 +838,7 @@
 | secure.insightfulcompanyinsight.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.instinct-52.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.intelligence-enterprise.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
+| secure.intelligence52.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.intelligent-business-wisdom.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.intelligent-company-365.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | secure.intelligent-company-foresight.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |

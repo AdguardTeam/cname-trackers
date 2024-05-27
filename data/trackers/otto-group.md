@@ -33,6 +33,7 @@
     * te-witt-international-nl.oghub.io
     * te-witt-international-sk.oghub.io
     * te-witt-weiden-at.oghub.io
+    * te-witt-weiden-ch.oghub.io
     * te-witt-weiden-de.oghub.io
     * te-yomonda-de.oghub.io
     * te-your-look-for-less-nl.oghub.io
@@ -46,7 +47,9 @@
     * tp-frankonia-at.oghub.io
     * tp-frankonia-com.oghub.io
     * tp-frankonia-de.oghub.io
+    * tp-frankoniamoda-ch.oghub.io
     * tp-heine-at.oghub.io
+    * tp-heine-ch.oghub.io
     * tp-heine-de.oghub.io
     * tp-heine-shop-nl.oghub.io
     * tp-jelmoli-shop-ch.oghub.io
@@ -86,6 +89,7 @@
 | tp.frankonia.at | js.oghub.io |
 | tp.frankonia.com | js.oghub.io |
 | tp.frankonia.de | js.oghub.io |
+| tp.frankoniamoda.ch | js.oghub.io |
 | tp.frankoniamoda.ch | js.oghub.io |
 | tp.heine-shop.nl | js.oghub.io |
 | tp.heine-shop.nl | js.oghub.io |
@@ -157,6 +161,7 @@
 | te.witt-international.nl | te-witt-international-nl.oghub.io |
 | te.witt-international.sk | te-witt-international-sk.oghub.io |
 | te.witt-weiden.at | te-witt-weiden-at.oghub.io |
+| te.witt-weiden.ch | te-witt-weiden-ch.oghub.io |
 | te.witt-weiden.de | te-witt-weiden-de.oghub.io |
 | te.yomonda.de | te-yomonda-de.oghub.io |
 | te.your-look-for-less.nl | te-your-look-for-less-nl.oghub.io |
@@ -214,7 +219,9 @@
 | tp.frankonia.at | tp-frankonia-at.oghub.io |
 | tp.frankonia.com | tp-frankonia-com.oghub.io |
 | tp.frankonia.de | tp-frankonia-de.oghub.io |
+| tp.frankoniamoda.ch | tp-frankoniamoda-ch.oghub.io |
 | tp.heine.at | tp-heine-at.oghub.io |
+| tp.heine.ch | tp-heine-ch.oghub.io |
 | tp.heine.de | tp-heine-de.oghub.io |
 | tp.heine-shop.nl | tp-heine-shop-nl.oghub.io |
 | tp.jelmoli-shop.ch | tp-jelmoli-shop-ch.oghub.io |

@@ -344,6 +344,7 @@
 ||web.sensilab.de^
 ||web.sensilab.dk^
 ||web.sensilab.es^
+||web.sensilab.fi^
 ||web.sensilab.hr^
 ||web.sensilab.ie^
 ||web.sensilab.it^

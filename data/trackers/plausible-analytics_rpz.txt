@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716192007416        ; Serial
+           1716796807364        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -97,13 +97,11 @@ events.mikescerealshack.co CNAME .
 explore.bytelab.uk CNAME .
 external.techopian.com CNAME .
 extramilefloorcare.ericksonbuilt.com CNAME .
-eyes.jstew.art CNAME .
 f8phvntohv.tpetry.me CNAME .
 galop.leferacheval-saintcloud.com CNAME .
 hej.henriksommerfeld.se CNAME .
 hi.koalendar.com CNAME .
 hi.streetworkoutlist.com CNAME .
-hi.victorbaudot.com CNAME .
 hola.xebel.co CNAME .
 hstats.askmiso.com CNAME .
 hurricane.tinybird.co CNAME .

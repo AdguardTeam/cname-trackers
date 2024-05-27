@@ -18,6 +18,7 @@
 * prgm.b-cdn.net
 * unibotscdn.b-cdn.net
 * popupads.b-cdn.net
+* tracking.b-cdn.net
 * consent.b-cdn.net
 * b-cdn.net
 
@@ -229,7 +230,6 @@
 | carp.amespacios.com | deprecated-custom-domains.b-cdn.net |
 | carp.pbncontent.com | deprecated-custom-domains.b-cdn.net |
 | carp.spotonevent.no | deprecated-custom-domains.b-cdn.net |
-| cat.acesandaros.org | deprecated-custom-domains.b-cdn.net |
 | cat.beunitedinchrist.com | deprecated-custom-domains.b-cdn.net |
 | cat.gfx.io | deprecated-custom-domains.b-cdn.net |
 | cat.laravel-news.com | deprecated-custom-domains.b-cdn.net |
@@ -251,6 +251,7 @@
 | cattle.kirkebaekke.dk | deprecated-custom-domains.b-cdn.net |
 | cattle.kumo.at | deprecated-custom-domains.b-cdn.net |
 | cattle.meets.beer | deprecated-custom-domains.b-cdn.net |
+| cattle.mes-renovateurs.com | deprecated-custom-domains.b-cdn.net |
 | cattle.musikschule-bregenzerwald.at | deprecated-custom-domains.b-cdn.net |
 | cattle.spiral11.com | deprecated-custom-domains.b-cdn.net |
 | cattle.weiss-bregenz.at | deprecated-custom-domains.b-cdn.net |
@@ -342,7 +343,6 @@
 | donkey.elegantmusicgroup.com | deprecated-custom-domains.b-cdn.net |
 | donkey.guggenbichler.co.at | deprecated-custom-domains.b-cdn.net |
 | donkey.hackoregon.org | deprecated-custom-domains.b-cdn.net |
-| donkey.kontematik.com | deprecated-custom-domains.b-cdn.net |
 | donkey.the3rd.place | deprecated-custom-domains.b-cdn.net |
 | dormouse.consentkit.com | deprecated-custom-domains.b-cdn.net |
 | dove.hoku.nz | deprecated-custom-domains.b-cdn.net |
@@ -554,6 +554,8 @@
 | krill.spoonrage.com | deprecated-custom-domains.b-cdn.net |
 | krill.swiss-uke.ch | deprecated-custom-domains.b-cdn.net |
 | ks42zt.spec.fm | deprecated-custom-domains.b-cdn.net |
+| ladybug.dfour.space | deprecated-custom-domains.b-cdn.net |
+| ladybug.ficabo.com | deprecated-custom-domains.b-cdn.net |
 | ladybug.paulstovell.com | deprecated-custom-domains.b-cdn.net |
 | lamprey.carolcassar.com | deprecated-custom-domains.b-cdn.net |
 | lamprey.seagyndavis.com | deprecated-custom-domains.b-cdn.net |
@@ -836,6 +838,7 @@
 | skink.asorman.io | deprecated-custom-domains.b-cdn.net |
 | skink.thoumi.ch | deprecated-custom-domains.b-cdn.net |
 | skunk.gameworkersolidarity.com | deprecated-custom-domains.b-cdn.net |
+| sloth.vaalinstudio.com | deprecated-custom-domains.b-cdn.net |
 | smelt.allenpike.com | deprecated-custom-domains.b-cdn.net |
 | smelt.gautrowski.com | deprecated-custom-domains.b-cdn.net |
 | snipe.mfaber.at | deprecated-custom-domains.b-cdn.net |
@@ -1060,6 +1063,7 @@
 | cdn.jhoncj.com | popcashjs.b-cdn.net |
 | cdn.jitanvlw.com | popcashjs.b-cdn.net |
 | cdn.jklpy.com | popcashjs.b-cdn.net |
+| cdn.jwalf.com | popcashjs.b-cdn.net |
 | cdn.karpatzi.com | popcashjs.b-cdn.net |
 | cdn.keajs.com | popcashjs.b-cdn.net |
 | cdn.kfjhd.com | popcashjs.b-cdn.net |
@@ -1139,6 +1143,7 @@
 | sp.lenspk.com | spixel.b-cdn.net |
 | sp.theladyshop.pk | spixel.b-cdn.net |
 | static.netfly.fun | st-fly.b-cdn.net |
+| cdn.tracking.prepr.io | tracking.b-cdn.net |
 | cdn.responsiq.com | unibotscdn.b-cdn.net |
 | cdn.studiosis.in | unibotscdn.b-cdn.net |
 | cdn.unibotscdn.com | unibotscdn.b-cdn.net |
