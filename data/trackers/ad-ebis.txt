@@ -86,6 +86,7 @@
 ||adebis.real-style.co.jp^
 ||adebis.report.clinic^
 ||adebis.reruju.com^
+||adebis.rishiria-furel.com^
 ||adebis.s-toushi.jp^
 ||adebis.saison-pocket.com^
 ||adebis.satori.marketing^

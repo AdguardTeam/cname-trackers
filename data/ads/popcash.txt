@@ -110,7 +110,6 @@
 ||cdn.rqwel.com^
 ||cdn.rtyufo.com^
 ||cdn.sblhp.com^
-||cdn.shakre.com^
 ||cdn.spnut.com^
 ||cdn.srxy.xyz^
 ||cdn.sslph.com^
@@ -214,7 +213,6 @@
 ||bandicoot.sigerr.org^
 ||barnacle.big-in-japan.com^
 ||barnacle.natalieandmikeyb.com^
-||barnacle.nixfifty.com^
 ||barnacle.viewsource.io^
 ||barracuda.civicdatalibrary.org^
 ||barracuda.ottsysteme.rs^
@@ -274,7 +272,6 @@
 ||camel.nonpopularopinion.com^
 ||camel.warvik.no^
 ||canid.20inchlabs.com^
-||canid.innovatingchildrensservices.org^
 ||canid.mestamaster.fi^
 ||canidae.collectingsocialphoto.org^
 ||canidae.fidum.uk^
@@ -1092,6 +1089,7 @@
 ||sponsors.macaronikid.com^
 ||sponsors.njmonthly.com^
 ||sponsors.oaklandcountymoms.com^
+||sponsors.orthoinfo.org^
 ||sponsors.salesforceben.com^
 ||sponsors.stateofdigitalpublishing.com^
 ||sponsors.teethtalkgirl.com^
@@ -1106,6 +1104,7 @@
 ||cdn.affiliatable.io^
 ||cdn.dircont3.com^
 ||cdn.responsiq.com^
+||cdn.stoic-media.com^
 ||cdn.studiosis.in^
 ||cdn.unibotscdn.com^
 ||ucdn.adgebra.co^

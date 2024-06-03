@@ -202,6 +202,7 @@
 ||tr.com-parc.sfr.fr^
 ||tr.com-red.sfr.fr^
 ||tr.com-web.sfr.fr^
+||tr.com.santiane.fr^
 ||tr.com.sfr.fr^
 ||tr.combca.fr^
 ||tr.commande.location.boulanger.com^
@@ -803,7 +804,6 @@
 ||tr.news.receiveyourquote.co.uk^
 ||tr.news.retailglobalsolutions.com^
 ||tr.news.seine-estuaire.cci.fr^
-||tr.news.smartdeals-transavia-fr.com^
 ||tr.news.smartdealstransavia-fr.com^
 ||tr.news.sport2000.fr^
 ||tr.news.styles.lexpress.fr^
@@ -831,7 +831,6 @@
 ||tr.news2pjms.fr^
 ||tr.news5.cdiscount.com^
 ||tr.news6.cdiscount.com^
-||tr.newsletter-habitat.com^
 ||tr.newsletter-stressless.com^
 ||tr.newsletter-wonderbox.com^
 ||tr.newsletter.10h01.fr^

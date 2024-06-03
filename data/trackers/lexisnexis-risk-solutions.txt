@@ -418,6 +418,7 @@
 ||dtrust.atratopago.com^
 ||dvc0271.play.jackpocket.com^
 ||ela1.bankofscotland.co.uk^
+||elevate.stg.na02.aws.ballys.tech^
 ||enligne.bnc.ca^
 ||ep.vystarcu.org^
 ||eps.uprova.com^
@@ -440,6 +441,7 @@
 ||fp.dior.com^
 ||fp.disney.go.com^
 ||fp.fashionworld.co.uk^
+||fp.gucci.com^
 ||fp.homeessentials.co.uk^
 ||fp.jacamo.co.uk^
 ||fp.jdwilliams.co.uk^
@@ -523,6 +525,7 @@
 ||info.betway.co.zm^
 ||info.betway.fr^
 ||info.betway.lat^
+||info.betwaypartnersafrica.com^
 ||intlsdpntrca.nitrocasino.ca^
 ||intm.amwager.com^
 ||invalid-qa2.threatmetrix.com^
@@ -697,7 +700,6 @@
 ||rauth.chubb.com^
 ||rba-screen.healthsafe-id.com^
 ||rba-screen.myhealthcareview.com^
-||rba-screen.myuhc.com^
 ||rba-screen.optum.com^
 ||rba-screen.optumbank.com^
 ||rba-screen.optumfinancial.com^
@@ -923,6 +925,7 @@
 ||tm.tbcbank.uz^
 ||tm.telecharge.com^
 ||tm.uship.com^
+||tm.verify.illion.com.au^
 ||tmcdn.homeaway.com^
 ||tmck.milestonegoldcard.com^
 ||tmcontent.imvu.com^
@@ -972,6 +975,7 @@
 ||uafms.ocbc.com^
 ||ualaki-analytics.vacations.united.com^
 ||uat.cmprofile.cards.citidirect.com^
+||ufp.intuit.com^
 ||uldfp.srilankan.com^
 ||umst.mobile.de^
 ||v.ayco.com^

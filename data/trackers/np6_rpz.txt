@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716796807364        ; Serial
+           1717401607721        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -213,6 +213,7 @@ tr.com-clients.sfr.fr CNAME .
 tr.com-parc.sfr.fr CNAME .
 tr.com-red.sfr.fr CNAME .
 tr.com-web.sfr.fr CNAME .
+tr.com.santiane.fr CNAME .
 tr.com.sfr.fr CNAME .
 tr.combca.fr CNAME .
 tr.commande.location.boulanger.com CNAME .
@@ -814,7 +815,6 @@ tr.news.prosfora-mou.gr CNAME .
 tr.news.receiveyourquote.co.uk CNAME .
 tr.news.retailglobalsolutions.com CNAME .
 tr.news.seine-estuaire.cci.fr CNAME .
-tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
 tr.news.styles.lexpress.fr CNAME .
@@ -842,7 +842,6 @@ tr.news.younited-credit.com CNAME .
 tr.news2pjms.fr CNAME .
 tr.news5.cdiscount.com CNAME .
 tr.news6.cdiscount.com CNAME .
-tr.newsletter-habitat.com CNAME .
 tr.newsletter-stressless.com CNAME .
 tr.newsletter-wonderbox.com CNAME .
 tr.newsletter.10h01.fr CNAME .

@@ -14,6 +14,7 @@
     * h-16vzjy52.online-metrix.net
     * h-1d2p5fdt.online-metrix.net
     * h-1dwgke3d.online-metrix.net
+    * h-1fezyu0r.online-metrix.net
     * h-1hr2syw3.online-metrix.net
     * h-1k066192.online-metrix.net
     * h-1kcyydia.online-metrix.net
@@ -679,6 +680,7 @@
     * h-v60nf4oj-rfp.online-metrix.net
     * h-v60nf4oj-sfp.online-metrix.net
     * h-v60nf4oj-tfp.online-metrix.net
+    * h-v60nf4oj-ufp.online-metrix.net
     * h-v60nf4oj-vfp.online-metrix.net
     * h-v60nf4oj-wfp.online-metrix.net
     * h-v60nf4oj-xfp.online-metrix.net
@@ -738,6 +740,7 @@
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
 | content.sb.lt | h-1d2p5fdt.online-metrix.net |
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
+| elevate.stg.na02.aws.ballys.tech | h-1fezyu0r.online-metrix.net |
 | ls-dp.nj.thelotter.us | h-1hr2syw3.online-metrix.net |
 | posture.mtoken.zand.ae | h-1k066192.online-metrix.net |
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
@@ -909,6 +912,7 @@
 | info.betway.co.zm | h-7v30y901.online-metrix.net |
 | info.betway.fr | h-7v30y901.online-metrix.net |
 | info.betway.lat | h-7v30y901.online-metrix.net |
+| info.betwaypartnersafrica.com | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
 | sec.mypage.ocn.ne.jp | h-7yh412tv.online-metrix.net |
 | tm.production.eu1.tmfp.klarna.net | h-87rxrdob.online-metrix.net |
@@ -1362,7 +1366,6 @@
 | cdntm.us.hsbc.com | h-hsbcmx.online-metrix.net |
 | rba-screen.healthsafe-id.com | h-hsid.online-metrix.net |
 | rba-screen.myhealthcareview.com | h-hsid.online-metrix.net |
-| rba-screen.myuhc.com | h-hsid.online-metrix.net |
 | rba-screen.optum.com | h-hsid.online-metrix.net |
 | rba-screen.optumbank.com | h-hsid.online-metrix.net |
 | rba-screen.optumfinancial.com | h-hsid.online-metrix.net |
@@ -1377,6 +1380,7 @@
 | tm.creditcheck.illion.co.nz | h-illion.online-metrix.net |
 | tm.creditcheck.illion.com.au | h-illion.online-metrix.net |
 | tm.creditprotect.illion.com.au | h-illion.online-metrix.net |
+| tm.verify.illion.com.au | h-illion.online-metrix.net |
 | tmcontent.imvu.com | h-imvucontent.online-metrix.net |
 | content2.instacart.com | h-instacart.online-metrix.net |
 | content.etransfer.interac.ca | h-interacetransfer.online-metrix.net |
@@ -1674,6 +1678,7 @@
 | rfp.intuit.com | h-v60nf4oj-rfp.online-metrix.net |
 | sfp.intuit.com | h-v60nf4oj-sfp.online-metrix.net |
 | tfp.intuit.com | h-v60nf4oj-tfp.online-metrix.net |
+| ufp.intuit.com | h-v60nf4oj-ufp.online-metrix.net |
 | vfp.intuit.com | h-v60nf4oj-vfp.online-metrix.net |
 | wfp.intuit.com | h-v60nf4oj-wfp.online-metrix.net |
 | xfp.intuit.com | h-v60nf4oj-xfp.online-metrix.net |
@@ -1743,6 +1748,7 @@
 | content.readiness.paycardsolutions.com | h.online-metrix.net |
 | df.fragrancex.com | h.online-metrix.net |
 | fp.avatrade.com | h.online-metrix.net |
+| fp.gucci.com | h.online-metrix.net |
 | fraudcheck.walmart.ca | h.online-metrix.net |
 | gateway.jmbullion.com | h.online-metrix.net |
 | h.greenmangaming.com | h.online-metrix.net |

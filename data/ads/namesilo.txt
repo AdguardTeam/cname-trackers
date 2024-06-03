@@ -717,6 +717,7 @@
 ||3837365.notifysrv.com^
 ||3837607.notifysrv.com^
 ||3837643.notifysrv.com^
+||3839009.notifysrv.com^
 ||3843075.notify6.com^
 ||3843075.notifysrv.com^
 ||3845405.notify6.com^
@@ -1046,6 +1047,7 @@
 ||a.r8lnet.com^
 ||a.redpathmedia.com^
 ||a.rocoads.net^
+||a.santabrowser.com^
 ||a.slice.exchange^
 ||a.stuffserve.com^
 ||a.tf4srv.com^
@@ -1226,4 +1228,3 @@
 ||www.notify.bizonads-ssp.com^
 ||www.notify6.com^
 ||www.notifysrv.com^
-||a.santabrowser.com^

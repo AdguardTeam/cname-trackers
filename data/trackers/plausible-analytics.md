@@ -201,7 +201,6 @@
 | plausible.bacanalia.net | custom.plausible.io |
 | plausible.baychi.org | custom.plausible.io |
 | plausible.beanti.me | custom.plausible.io |
-| plausible.bearer.sh | custom.plausible.io |
 | plausible.benscarblog.com | custom.plausible.io |
 | plausible.bostad.shop | custom.plausible.io |
 | plausible.buildfirst.tech | custom.plausible.io |
@@ -552,7 +551,6 @@
 | stats.henkverlinde.com | custom.plausible.io |
 | stats.homepage-2021.askmiso-dev.com | custom.plausible.io |
 | stats.homestow.com | custom.plausible.io |
-| stats.hostfactor.io | custom.plausible.io |
 | stats.hpz-scharnhausen.de | custom.plausible.io |
 | stats.htmlcsstoimage.com | custom.plausible.io |
 | stats.htp.org | custom.plausible.io |
@@ -706,7 +704,6 @@
 | stats.patout.dev | custom.plausible.io |
 | stats.patriot.win | custom.plausible.io |
 | stats.paulronge.se | custom.plausible.io |
-| stats.paypresto.co | custom.plausible.io |
 | stats.paysagistes.pro | custom.plausible.io |
 | stats.pebkac.io | custom.plausible.io |
 | stats.pendleratlas.de | custom.plausible.io |
@@ -718,7 +715,6 @@
 | stats.photographer.com.au | custom.plausible.io |
 | stats.pinoymusicstation.com | custom.plausible.io |
 | stats.piplette.co | custom.plausible.io |
-| stats.piranhas.co | custom.plausible.io |
 | stats.pitstone.co.uk | custom.plausible.io |
 | stats.plainsending.com | custom.plausible.io |
 | stats.planxti.com | custom.plausible.io |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716796807364        ; Serial
+           1717401607721        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -199,7 +199,6 @@ plausible.bablab.com CNAME .
 plausible.bacanalia.net CNAME .
 plausible.baychi.org CNAME .
 plausible.beanti.me CNAME .
-plausible.bearer.sh CNAME .
 plausible.benscarblog.com CNAME .
 plausible.bostad.shop CNAME .
 plausible.buildfirst.tech CNAME .
@@ -550,7 +549,6 @@ stats.headhunted.com.au CNAME .
 stats.henkverlinde.com CNAME .
 stats.homepage-2021.askmiso-dev.com CNAME .
 stats.homestow.com CNAME .
-stats.hostfactor.io CNAME .
 stats.hpz-scharnhausen.de CNAME .
 stats.htmlcsstoimage.com CNAME .
 stats.htp.org CNAME .
@@ -704,7 +702,6 @@ stats.pastorwagner.com CNAME .
 stats.patout.dev CNAME .
 stats.patriot.win CNAME .
 stats.paulronge.se CNAME .
-stats.paypresto.co CNAME .
 stats.paysagistes.pro CNAME .
 stats.pebkac.io CNAME .
 stats.pendleratlas.de CNAME .
@@ -716,7 +713,6 @@ stats.philjava.com CNAME .
 stats.photographer.com.au CNAME .
 stats.pinoymusicstation.com CNAME .
 stats.piplette.co CNAME .
-stats.piranhas.co CNAME .
 stats.pitstone.co.uk CNAME .
 stats.plainsending.com CNAME .
 stats.planxti.com CNAME .

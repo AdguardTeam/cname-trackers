@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716796807364        ; Serial
+           1717401607721        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -121,7 +121,6 @@ cdn.rofant.com CNAME .
 cdn.rqwel.com CNAME .
 cdn.rtyufo.com CNAME .
 cdn.sblhp.com CNAME .
-cdn.shakre.com CNAME .
 cdn.spnut.com CNAME .
 cdn.srxy.xyz CNAME .
 cdn.sslph.com CNAME .
@@ -225,7 +224,6 @@ bandicoot.p0.design CNAME .
 bandicoot.sigerr.org CNAME .
 barnacle.big-in-japan.com CNAME .
 barnacle.natalieandmikeyb.com CNAME .
-barnacle.nixfifty.com CNAME .
 barnacle.viewsource.io CNAME .
 barracuda.civicdatalibrary.org CNAME .
 barracuda.ottsysteme.rs CNAME .
@@ -285,7 +283,6 @@ camel.gastro-plan.app CNAME .
 camel.nonpopularopinion.com CNAME .
 camel.warvik.no CNAME .
 canid.20inchlabs.com CNAME .
-canid.innovatingchildrensservices.org CNAME .
 canid.mestamaster.fi CNAME .
 canidae.collectingsocialphoto.org CNAME .
 canidae.fidum.uk CNAME .
@@ -1103,6 +1100,7 @@ sponsors.floorforce.com CNAME .
 sponsors.macaronikid.com CNAME .
 sponsors.njmonthly.com CNAME .
 sponsors.oaklandcountymoms.com CNAME .
+sponsors.orthoinfo.org CNAME .
 sponsors.salesforceben.com CNAME .
 sponsors.stateofdigitalpublishing.com CNAME .
 sponsors.teethtalkgirl.com CNAME .
@@ -1117,6 +1115,7 @@ cdn.adsninja.ca CNAME .
 cdn.affiliatable.io CNAME .
 cdn.dircont3.com CNAME .
 cdn.responsiq.com CNAME .
+cdn.stoic-media.com CNAME .
 cdn.studiosis.in CNAME .
 cdn.unibotscdn.com CNAME .
 ucdn.adgebra.co CNAME .

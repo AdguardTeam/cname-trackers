@@ -188,7 +188,6 @@ plausible.bablab.com
 plausible.bacanalia.net
 plausible.baychi.org
 plausible.beanti.me
-plausible.bearer.sh
 plausible.benscarblog.com
 plausible.bostad.shop
 plausible.buildfirst.tech
@@ -539,7 +538,6 @@ stats.headhunted.com.au
 stats.henkverlinde.com
 stats.homepage-2021.askmiso-dev.com
 stats.homestow.com
-stats.hostfactor.io
 stats.hpz-scharnhausen.de
 stats.htmlcsstoimage.com
 stats.htp.org
@@ -693,7 +691,6 @@ stats.pastorwagner.com
 stats.patout.dev
 stats.patriot.win
 stats.paulronge.se
-stats.paypresto.co
 stats.paysagistes.pro
 stats.pebkac.io
 stats.pendleratlas.de
@@ -705,7 +702,6 @@ stats.philjava.com
 stats.photographer.com.au
 stats.pinoymusicstation.com
 stats.piplette.co
-stats.piranhas.co
 stats.pitstone.co.uk
 stats.plainsending.com
 stats.planxti.com

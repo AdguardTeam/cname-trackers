@@ -39,6 +39,7 @@
 | c4n.thefreejapaneseporn.com | api.clickaine.com |
 | c4n.xporn.to | api.clickaine.com |
 | c4n.xxx8.me | api.clickaine.com |
+| c4n.xxxbold.com | api.clickaine.com |
 | c4s.bionestraff.pro | api.clickaine.com |
 | c8d.upde.cc | api.clickaine.com |
 | ca.findyourpussy.net | api.clickaine.com |
@@ -118,3 +119,4 @@
 | xd3r.javgg.eu | api.clickaine.com |
 | zone1.bestbdsm24.com | api.clickaine.com |
 | zone1.bestporn24.com | api.clickaine.com |
+| zvela.filegram.to | api.clickaine.com |

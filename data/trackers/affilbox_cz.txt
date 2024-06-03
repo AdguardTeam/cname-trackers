@@ -270,6 +270,7 @@
 ||ambasadorky.zenyzenam.cz^
 ||ambassador.notsofunnyany.com^
 ||ambassadors.childhoodpotential.com^
+||ambassadors.montessoriparenting.org^
 ||box.cryptokingdom.tech^
 ||box.kryptotrejder.sk^
 ||brana.ritualyomlazeni.cz^
@@ -484,6 +485,8 @@
 ||partner.dfprsteny.cz^
 ||partner.directalpine.cz^
 ||partner.doleo.cz^
+||partner.dolorescannon.cz^
+||partner.dolorescannon.sk^
 ||partner.domaca-pivoteka.sk^
 ||partner.domaci-pivoteka.cz^
 ||partner.dometa.cz^
@@ -521,6 +524,7 @@
 ||partner.greenbeast.vip^
 ||partner.gurufinance.cz^
 ||partner.hanamoneam.com^
+||partner.happy-power.cz^
 ||partner.hegesztok-bolt.hu^
 ||partner.hizeromop.com^
 ||partner.hodinarstvi.cz^
@@ -555,7 +559,6 @@
 ||partner.kvcar.cz^
 ||partner.laab.cz^
 ||partner.lascero.cz^
-||partner.lascivni.cz^
 ||partner.leadingtechnologies.cz^
 ||partner.legalni-konopi.cz^
 ||partner.lehatkapropsy.cz^
@@ -626,7 +629,6 @@
 ||partner.ppb-pohary.cz^
 ||partner.pradoch.cz^
 ||partner.pravopisne.cz^
-||partner.pravopisne.sk^
 ||partner.premiove-matrace.cz^
 ||partner.prosperity-vision.com^
 ||partner.prosperk.cz^

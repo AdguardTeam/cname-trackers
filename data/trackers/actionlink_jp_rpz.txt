@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716796807364        ; Serial
+           1717401607721        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ al.bath-ec.com CNAME .
 al.bulk.co.jp CNAME .
 al.caetus.jp CNAME .
 al.californiastreet.net CNAME .
+al.combinationmeal.com CNAME .
 al.directishii.net CNAME .
 al.e-fitpro.jp CNAME .
 al.epoi-jp.com CNAME .

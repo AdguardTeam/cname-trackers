@@ -99,6 +99,7 @@
     * 4cd0f380-sh2isfez.cname.ebis.ne.jp
     * 4cee8f94-hnpxxjms.cname.ebis.ne.jp
     * 4d5e2130-zqngsxhf.cname.ebis.ne.jp
+    * 4df7d9b9-gwtq7xgd.cname.ebis.ne.jp
     * 4f187ea1-yphasapa.cname.ebis.ne.jp
     * 4ff9329a-digitalgarage.cname.ebis.ne.jp
     * 5032afa8-66fsga6n.cname.ebis.ne.jp
@@ -399,6 +400,7 @@
 | adebis.sokamocka.com | 4cd0f380-sh2isfez.cname.ebis.ne.jp |
 | adebis1.1rnavi.com | 4cee8f94-hnpxxjms.cname.ebis.ne.jp |
 | ebis.ayura.co.jp | 4d5e2130-zqngsxhf.cname.ebis.ne.jp |
+| adebis.rishiria-furel.com | 4df7d9b9-gwtq7xgd.cname.ebis.ne.jp |
 | ac-ebis.usen-insurance.com | 4f187ea1-yphasapa.cname.ebis.ne.jp |
 | adebis.kirei-journal.jp | 4ff9329a-digitalgarage.cname.ebis.ne.jp |
 | adebis.nursery.co.jp | 5032afa8-66fsga6n.cname.ebis.ne.jp |

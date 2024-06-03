@@ -223,6 +223,7 @@
 | tr.com-parc.sfr.fr | tracking.bp01.net |
 | tr.com-red.sfr.fr | tracking.bp01.net |
 | tr.com-web.sfr.fr | tracking.bp01.net |
+| tr.com.santiane.fr | tracking.bp01.net |
 | tr.com.sfr.fr | tracking.bp01.net |
 | tr.combca.fr | tracking.bp01.net |
 | tr.commande.location.boulanger.com | tracking.bp01.net |
@@ -824,7 +825,6 @@
 | tr.news.receiveyourquote.co.uk | tracking.bp01.net |
 | tr.news.retailglobalsolutions.com | tracking.bp01.net |
 | tr.news.seine-estuaire.cci.fr | tracking.bp01.net |
-| tr.news.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.news.smartdealstransavia-fr.com | tracking.bp01.net |
 | tr.news.sport2000.fr | tracking.bp01.net |
 | tr.news.styles.lexpress.fr | tracking.bp01.net |
@@ -852,7 +852,6 @@
 | tr.news2pjms.fr | tracking.bp01.net |
 | tr.news5.cdiscount.com | tracking.bp01.net |
 | tr.news6.cdiscount.com | tracking.bp01.net |
-| tr.newsletter-habitat.com | tracking.bp01.net |
 | tr.newsletter-stressless.com | tracking.bp01.net |
 | tr.newsletter-wonderbox.com | tracking.bp01.net |
 | tr.newsletter.10h01.fr | tracking.bp01.net |

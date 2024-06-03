@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716796807364        ; Serial
+           1717401607721        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -182,6 +182,7 @@ adserv.tbussyb.com CNAME .
 adspi.xyz CNAME .
 adspy.javrank.com CNAME .
 adsxtits.com CNAME .
+adsxtits.pro CNAME .
 adxhand.name CNAME .
 adzilla.name CNAME .
 alt.fescity.com CNAME .
@@ -261,7 +262,6 @@ b.harehop.com CNAME .
 b.hubhubhub.name CNAME .
 b.reissue2871.xyz CNAME .
 b.sexvids.cc CNAME .
-b.sonorousporn.com CNAME .
 b.xlineker.com CNAME .
 b1.hentaibaka.one CNAME .
 b1.maturesexvideos.pro CNAME .
@@ -315,9 +315,8 @@ cdn5.cartoonporn.to CNAME .
 cep.opprents.site CNAME .
 cep.princided.online CNAME .
 changeable1x.xyz CNAME .
-cid.futurer.site CNAME .
+cjwp.cdnhls.pro CNAME .
 click.fastupload.io CNAME .
-clickid.meltsin.site CNAME .
 clickid.souristing.site CNAME .
 client2009x25.xcdn.ovh CNAME .
 comezz.xyz CNAME .
@@ -400,7 +399,6 @@ g.bloblohub.com CNAME .
 g33f.neigh11.xyz CNAME .
 g6j.cupidonmedia.com CNAME .
 game.starswalker.site CNAME .
-getallt1.com CNAME .
 gh3hswoo.sdbrrrr.lat CNAME .
 ghtry.amateurswild.com CNAME .
 glass.rubyrevenue.com CNAME .
@@ -604,6 +602,7 @@ pamury.xyz CNAME .
 pangtues.xyz CNAME .
 panoz.xyz CNAME .
 panpant.xyz CNAME .
+pantuz.xyz CNAME .
 parkurl.com CNAME .
 pempiz.xyz CNAME .
 penapne.xyz CNAME .
@@ -726,6 +725,8 @@ sharion.xyz CNAME .
 shenzo.xyz CNAME .
 shinep.xyz CNAME .
 sis.facesittingbbw.com CNAME .
+sl.edsgcgi11ii1iiwtsbno.online CNAME .
+sl.fsdhbfi2h4932hriegnd111fdsnfl1l.co.za CNAME .
 slit.lewd.rip CNAME .
 smart.sunporno.com CNAME .
 solo.chinese-sex-tube.com CNAME .

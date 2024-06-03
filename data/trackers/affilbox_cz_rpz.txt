@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716796807364        ; Serial
+           1717401607721        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -281,6 +281,7 @@ ambasador.rustspolecne.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassador.notsofunnyany.com CNAME .
 ambassadors.childhoodpotential.com CNAME .
+ambassadors.montessoriparenting.org CNAME .
 box.cryptokingdom.tech CNAME .
 box.kryptotrejder.sk CNAME .
 brana.ritualyomlazeni.cz CNAME .
@@ -495,6 +496,8 @@ partner.detskyeshop.cz CNAME .
 partner.dfprsteny.cz CNAME .
 partner.directalpine.cz CNAME .
 partner.doleo.cz CNAME .
+partner.dolorescannon.cz CNAME .
+partner.dolorescannon.sk CNAME .
 partner.domaca-pivoteka.sk CNAME .
 partner.domaci-pivoteka.cz CNAME .
 partner.dometa.cz CNAME .
@@ -532,6 +535,7 @@ partner.gokids.cz CNAME .
 partner.greenbeast.vip CNAME .
 partner.gurufinance.cz CNAME .
 partner.hanamoneam.com CNAME .
+partner.happy-power.cz CNAME .
 partner.hegesztok-bolt.hu CNAME .
 partner.hizeromop.com CNAME .
 partner.hodinarstvi.cz CNAME .
@@ -566,7 +570,6 @@ partner.kurzysusmevem.cz CNAME .
 partner.kvcar.cz CNAME .
 partner.laab.cz CNAME .
 partner.lascero.cz CNAME .
-partner.lascivni.cz CNAME .
 partner.leadingtechnologies.cz CNAME .
 partner.legalni-konopi.cz CNAME .
 partner.lehatkapropsy.cz CNAME .
@@ -637,7 +640,6 @@ partner.pozitivnerozpravky.sk CNAME .
 partner.ppb-pohary.cz CNAME .
 partner.pradoch.cz CNAME .
 partner.pravopisne.cz CNAME .
-partner.pravopisne.sk CNAME .
 partner.premiove-matrace.cz CNAME .
 partner.prosperity-vision.com CNAME .
 partner.prosperk.cz CNAME .

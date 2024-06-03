@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716796807364        ; Serial
+           1717401607721        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -728,6 +728,7 @@ $TTL 300
 3837365.notifysrv.com CNAME .
 3837607.notifysrv.com CNAME .
 3837643.notifysrv.com CNAME .
+3839009.notifysrv.com CNAME .
 3843075.notify6.com CNAME .
 3843075.notifysrv.com CNAME .
 3845405.notify6.com CNAME .
@@ -1057,6 +1058,7 @@ a.q88z1s3.com CNAME .
 a.r8lnet.com CNAME .
 a.redpathmedia.com CNAME .
 a.rocoads.net CNAME .
+a.santabrowser.com CNAME .
 a.slice.exchange CNAME .
 a.stuffserve.com CNAME .
 a.tf4srv.com CNAME .
@@ -1237,4 +1239,3 @@ www.8.notify.bizonads-ssp.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
-a.santabrowser.com CNAME .

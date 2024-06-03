@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716796807364        ; Serial
+           1717401607721        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ c4n.swift4claim.com CNAME .
 c4n.thefreejapaneseporn.com CNAME .
 c4n.xporn.to CNAME .
 c4n.xxx8.me CNAME .
+c4n.xxxbold.com CNAME .
 c4s.bionestraff.pro CNAME .
 c8d.upde.cc CNAME .
 ca.findyourpussy.net CNAME .
@@ -121,3 +122,4 @@ www.rtnews.pro CNAME .
 xd3r.javgg.eu CNAME .
 zone1.bestbdsm24.com CNAME .
 zone1.bestporn24.com CNAME .
+zvela.filegram.to CNAME .

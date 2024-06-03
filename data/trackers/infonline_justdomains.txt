@@ -436,7 +436,7 @@ data-39822b659f.fupa.net
 data-39822b659f.hessen-liebe.de
 data-39822b659f.lampertheimer-zeitung.de
 data-39822b659f.lauterbacher-anzeiger.de
-data-39822b659f.mein-medizinportal.de
+data-39822b659f.main-spitze.de
 data-39822b659f.meine-vrm.de
 data-39822b659f.mittelhessen.de
 data-39822b659f.oberhessische-zeitung.de
@@ -701,6 +701,7 @@ data-4f77096dc0.brocken.de
 data-4f77096dc0.radio-brocken.com
 data-4f77096dc0.radio-brocken.de
 data-4f77096dc0.radiobrocken.com
+data-4f8af6ded7.komm.one
 data-4fa18eb5e3.zvw.de
 data-4fec147c37.agrarheute.com
 data-501446ac98.einfachtierisch.de
@@ -717,6 +718,7 @@ data-512cafb4f7.radiowaf.de
 data-513a50551b.psychologie-heute.de
 data-5164524be6.apps.iocnt.de
 data-51c17cab74.aerztezeitung.de
+data-51ce0248a2.haz.de
 data-5206391739.shz.de
 data-524af4397a.weltfussball.de
 data-524af4397a.worldfootball.net
@@ -765,6 +767,7 @@ data-59d0914c04.wetter.com
 data-5a078ffbef.owl-am-sonntag.de
 data-5a078ffbef.wb-azubi.de
 data-5a078ffbef.wb-immo.de
+data-5a078ffbef.wb-immo.net
 data-5a078ffbef.wb-jobs.de
 data-5a078ffbef.wb-trauer.de
 data-5a078ffbef.westfalen-blatt.de
@@ -1178,6 +1181,7 @@ data-8abe5cc617.fupa.net
 data-8abe5cc617.handwerkjobs-bw.de
 data-8abe5cc617.schnapp.de
 data-8abe5cc617.wohnverdient.de
+data-8ad4a97c5f.apps.iocnt.de
 data-8b242b85ce.textilwirtschaft.de
 data-8b242b85ce.twjobs.de
 data-8b77a703e0.dasoertliche.de
@@ -1571,6 +1575,7 @@ data-b85ecb4160.stadionwelt.de
 data-b8625c5378.lz-job.de
 data-b8625c5378.lz-trauer.de
 data-b8625c5378.lz.de
+data-b8cbca7d61.finanzen.ch
 data-b8f9ef66dc.hogapage.at
 data-b8f9ef66dc.hogapage.ch
 data-b8f9ef66dc.hogapage.de
@@ -1884,6 +1889,7 @@ data-e44d38afc3.apps.iocnt.de
 data-e47ac57521.lokal26.de
 data-e4997adf31.bilanz.de
 data-e4997adf31.metal-hammer.de
+data-e4997adf31.musikexpress.de
 data-e4997adf31.welt.de
 data-e4cfccd10c.freundin.de
 data-e4dc2eea88.kochbar.de
@@ -2008,6 +2014,7 @@ data-f1e447fbcf.bw24.de
 data-f1e447fbcf.chiemgau24.de
 data-f1e447fbcf.come-on.de
 data-f1e447fbcf.costanachrichten.com
+data-f1e447fbcf.dasgelbeblatt.de
 data-f1e447fbcf.deichstube.de
 data-f1e447fbcf.einfach-tasty.de
 data-f1e447fbcf.extratipp.com

@@ -128,6 +128,7 @@ www.trevoce.com
 businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
+em225.codecademy.com
 em8561.go2bank.com
 externalreferral.freshworks.com
 friend.discover.com
@@ -422,6 +423,7 @@ referral.cledepeaubeaute.com
 referral.drunkelephant.com
 referral.servicechannel.com
 referral.shiseido.com
+referralrewards.brightspeed.com
 referrals.lumen.com
 referrals.visionsfcu.org
 rob.extoleu.com
@@ -700,7 +702,6 @@ www.refer.xfinity.com
 www.referessentials.com
 www.referquickbooks.com
 em1476.princesscruises.com
-em225.codecademy.com
 em3904.skillshare.com
 em4367.raf-studentloans.discover.com
 em8928.em.petco.com

@@ -222,6 +222,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -682,6 +683,7 @@
 | share.bountyhunterwine.com | bountyhunterwine.extole.io |
 | share.brava.com | brava.extole.io |
 | refer.brightspeed.com | brightspeed.extole.io |
+| referralrewards.brightspeed.com | brightspeed.extole.io |
 | share.brunettethelabel.com | brunette-the-label.extole.io |
 | share.buildertrend.com | buildertrend.extole.io |
 | refer.bulova.com | bulova.extole.io |
@@ -728,6 +730,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |

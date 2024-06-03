@@ -261,7 +261,6 @@
 | b.hubhubhub.name | 0i0i0i0.com |
 | b.reissue2871.xyz | 0i0i0i0.com |
 | b.sexvids.cc | 0i0i0i0.com |
-| b.sonorousporn.com | 0i0i0i0.com |
 | b.xlineker.com | 0i0i0i0.com |
 | b1.hentaibaka.one | 0i0i0i0.com |
 | b1.maturesexvideos.pro | 0i0i0i0.com |
@@ -315,9 +314,8 @@
 | cep.opprents.site | 0i0i0i0.com |
 | cep.princided.online | 0i0i0i0.com |
 | changeable1x.xyz | 0i0i0i0.com |
-| cid.futurer.site | 0i0i0i0.com |
+| cjwp.cdnhls.pro | 0i0i0i0.com |
 | click.fastupload.io | 0i0i0i0.com |
-| clickid.meltsin.site | 0i0i0i0.com |
 | clickid.souristing.site | 0i0i0i0.com |
 | client2009x25.xcdn.ovh | 0i0i0i0.com |
 | comezz.xyz | 0i0i0i0.com |
@@ -400,7 +398,6 @@
 | g33f.neigh11.xyz | 0i0i0i0.com |
 | g6j.cupidonmedia.com | 0i0i0i0.com |
 | game.starswalker.site | 0i0i0i0.com |
-| getallt1.com | 0i0i0i0.com |
 | gh3hswoo.sdbrrrr.lat | 0i0i0i0.com |
 | ghtry.amateurswild.com | 0i0i0i0.com |
 | glass.rubyrevenue.com | 0i0i0i0.com |
@@ -598,6 +595,7 @@
 | pangtues.xyz | 0i0i0i0.com |
 | panoz.xyz | 0i0i0i0.com |
 | panpant.xyz | 0i0i0i0.com |
+| pantuz.xyz | 0i0i0i0.com |
 | parkurl.com | 0i0i0i0.com |
 | pempiz.xyz | 0i0i0i0.com |
 | penapne.xyz | 0i0i0i0.com |
@@ -720,6 +718,8 @@
 | shenzo.xyz | 0i0i0i0.com |
 | shinep.xyz | 0i0i0i0.com |
 | sis.facesittingbbw.com | 0i0i0i0.com |
+| sl.edsgcgi11ii1iiwtsbno.online | 0i0i0i0.com |
+| sl.fsdhbfi2h4932hriegnd111fdsnfl1l.co.za | 0i0i0i0.com |
 | slit.lewd.rip | 0i0i0i0.com |
 | smart.sunporno.com | 0i0i0i0.com |
 | solo.chinese-sex-tube.com | 0i0i0i0.com |
@@ -897,6 +897,7 @@
 | ad.desibp.com | api.clickaine.com |
 | addin.name | u50.0i0i0i0.com |
 | adsxtits.com | u50.0i0i0i0.com |
+| adsxtits.pro | u50.0i0i0i0.com |
 | adxhand.name | u50.0i0i0i0.com |
 | adzilla.name | u50.0i0i0i0.com |
 | go.showmeyouradsnow.com | u50.0i0i0i0.com |
@@ -910,5 +911,4 @@
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
 | www.newdin.name | u50.0i0i0i0.com |
-| ontj.com | u53.hypnorat.com |
-| qhip.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |

@@ -65,6 +65,7 @@
 | sponsors.macaronikid.com | bs-adserver.b-cdn.net |
 | sponsors.njmonthly.com | bs-adserver.b-cdn.net |
 | sponsors.oaklandcountymoms.com | bs-adserver.b-cdn.net |
+| sponsors.orthoinfo.org | bs-adserver.b-cdn.net |
 | sponsors.salesforceben.com | bs-adserver.b-cdn.net |
 | sponsors.stateofdigitalpublishing.com | bs-adserver.b-cdn.net |
 | sponsors.teethtalkgirl.com | bs-adserver.b-cdn.net |
@@ -150,7 +151,6 @@
 | bandicoot.sigerr.org | deprecated-custom-domains.b-cdn.net |
 | barnacle.big-in-japan.com | deprecated-custom-domains.b-cdn.net |
 | barnacle.natalieandmikeyb.com | deprecated-custom-domains.b-cdn.net |
-| barnacle.nixfifty.com | deprecated-custom-domains.b-cdn.net |
 | barnacle.viewsource.io | deprecated-custom-domains.b-cdn.net |
 | barracuda.civicdatalibrary.org | deprecated-custom-domains.b-cdn.net |
 | barracuda.ottsysteme.rs | deprecated-custom-domains.b-cdn.net |
@@ -210,7 +210,6 @@
 | camel.nonpopularopinion.com | deprecated-custom-domains.b-cdn.net |
 | camel.warvik.no | deprecated-custom-domains.b-cdn.net |
 | canid.20inchlabs.com | deprecated-custom-domains.b-cdn.net |
-| canid.innovatingchildrensservices.org | deprecated-custom-domains.b-cdn.net |
 | canid.mestamaster.fi | deprecated-custom-domains.b-cdn.net |
 | canidae.collectingsocialphoto.org | deprecated-custom-domains.b-cdn.net |
 | canidae.fidum.uk | deprecated-custom-domains.b-cdn.net |
@@ -1107,7 +1106,6 @@
 | cdn.rqwel.com | popcashjs.b-cdn.net |
 | cdn.rtyufo.com | popcashjs.b-cdn.net |
 | cdn.sblhp.com | popcashjs.b-cdn.net |
-| cdn.shakre.com | popcashjs.b-cdn.net |
 | cdn.spnut.com | popcashjs.b-cdn.net |
 | cdn.srxy.xyz | popcashjs.b-cdn.net |
 | cdn.sslph.com | popcashjs.b-cdn.net |
@@ -1145,6 +1143,7 @@
 | static.netfly.fun | st-fly.b-cdn.net |
 | cdn.tracking.prepr.io | tracking.b-cdn.net |
 | cdn.responsiq.com | unibotscdn.b-cdn.net |
+| cdn.stoic-media.com | unibotscdn.b-cdn.net |
 | cdn.studiosis.in | unibotscdn.b-cdn.net |
 | cdn.unibotscdn.com | unibotscdn.b-cdn.net |
 | ucdn.adgebra.co | unibotscdn.b-cdn.net |

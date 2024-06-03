@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716796807364        ; Serial
+           1717401607721        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -760,7 +760,6 @@ a8cv.accelfacter.co.jp CNAME .
 a8cv.access-jp.jp CNAME .
 a8cv.aff.life-110.com CNAME .
 a8cv.aiambeauty.jp CNAME .
-a8cv.air-wifiinternet.jp CNAME .
 a8cv.akapon.kanritools.com CNAME .
 a8cv.akihabara-x.jp CNAME .
 a8cv.akippa.com CNAME .
@@ -1224,7 +1223,6 @@ a8cv.toushi-up.com CNAME .
 a8cv.toybox-mnr.com CNAME .
 a8cv.toysub.net CNAME .
 a8cv.treasure-f.com CNAME .
-a8cv.trext.tokyo CNAME .
 a8cv.unias.jp CNAME .
 a8cv.unico-fan.co.jp CNAME .
 a8cv.untenmenkyo-yi.com CNAME .
@@ -1560,7 +1558,6 @@ web.hikari-ocn.com CNAME .
 web.hikari-softbank.com CNAME .
 web.life-cw.com CNAME .
 webtest.lpio.jp CNAME .
-wnform.www.trecenti.com CNAME .
 www.a8clk.amelia.ne.jp CNAME .
 www.a8clk.kanagawa-zero.com CNAME .
 yoiku-sub.yoiku.support CNAME .

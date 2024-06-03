@@ -749,7 +749,6 @@
 ||a8cv.access-jp.jp^
 ||a8cv.aff.life-110.com^
 ||a8cv.aiambeauty.jp^
-||a8cv.air-wifiinternet.jp^
 ||a8cv.akapon.kanritools.com^
 ||a8cv.akihabara-x.jp^
 ||a8cv.akippa.com^
@@ -1213,7 +1212,6 @@
 ||a8cv.toybox-mnr.com^
 ||a8cv.toysub.net^
 ||a8cv.treasure-f.com^
-||a8cv.trext.tokyo^
 ||a8cv.unias.jp^
 ||a8cv.unico-fan.co.jp^
 ||a8cv.untenmenkyo-yi.com^
@@ -1549,7 +1547,6 @@
 ||web.hikari-softbank.com^
 ||web.life-cw.com^
 ||webtest.lpio.jp^
-||wnform.www.trecenti.com^
 ||www.a8clk.amelia.ne.jp^
 ||www.a8clk.kanagawa-zero.com^
 ||yoiku-sub.yoiku.support^

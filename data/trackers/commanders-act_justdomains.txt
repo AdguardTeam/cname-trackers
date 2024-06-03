@@ -1,5 +1,6 @@
 #
 # Company name: Commanders Act
+acquisition.klm.com
 data.auchandirect.fr
 data.decathlon.co.uk
 data.decathlon.de
@@ -7,6 +8,7 @@ data.decathlon.es
 data.decathlon.fr
 data.decathlon.it
 data.decathlon.pl
+data.ouigo.com
 data.ricaud.com
 data.ubi.com
 data.wptag.net
@@ -18,7 +20,5 @@ tc.europcar.com
 tc.europcar.com.au
 tc.europcar.de
 tcdata.fnac.com
-acquisition.klm.com
 configure.adlermode.com
-data.ouigo.com
 tag.boulanger.fr

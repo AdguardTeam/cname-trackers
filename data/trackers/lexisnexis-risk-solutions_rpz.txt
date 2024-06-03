@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1716796807364        ; Serial
+           1717401607721        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -429,6 +429,7 @@ dt.payla.io CNAME .
 dtrust.atratopago.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
+elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
 ep.vystarcu.org CNAME .
 eps.uprova.com CNAME .
@@ -451,6 +452,7 @@ fp.crazyclearance.co.uk CNAME .
 fp.dior.com CNAME .
 fp.disney.go.com CNAME .
 fp.fashionworld.co.uk CNAME .
+fp.gucci.com CNAME .
 fp.homeessentials.co.uk CNAME .
 fp.jacamo.co.uk CNAME .
 fp.jdwilliams.co.uk CNAME .
@@ -534,6 +536,7 @@ info.betway.co.za CNAME .
 info.betway.co.zm CNAME .
 info.betway.fr CNAME .
 info.betway.lat CNAME .
+info.betwaypartnersafrica.com CNAME .
 intlsdpntrca.nitrocasino.ca CNAME .
 intm.amwager.com CNAME .
 invalid-qa2.threatmetrix.com CNAME .
@@ -708,7 +711,6 @@ ranzg.rabobank.com.au CNAME .
 rauth.chubb.com CNAME .
 rba-screen.healthsafe-id.com CNAME .
 rba-screen.myhealthcareview.com CNAME .
-rba-screen.myuhc.com CNAME .
 rba-screen.optum.com CNAME .
 rba-screen.optumbank.com CNAME .
 rba-screen.optumfinancial.com CNAME .
@@ -934,6 +936,7 @@ tm.summit-services.ca CNAME .
 tm.tbcbank.uz CNAME .
 tm.telecharge.com CNAME .
 tm.uship.com CNAME .
+tm.verify.illion.com.au CNAME .
 tmcdn.homeaway.com CNAME .
 tmck.milestonegoldcard.com CNAME .
 tmcontent.imvu.com CNAME .
@@ -983,6 +986,7 @@ txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
 ualaki-analytics.vacations.united.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
+ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .
 v.ayco.com CNAME .
