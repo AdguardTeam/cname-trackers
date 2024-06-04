@@ -74,6 +74,20 @@
         ]
     },
     {
+		"company_name": "Adocean",
+		"type": "ad",
+		"domains": [
+			"adocean.pl"
+		]
+	},
+	{
+		"company_name": "Aquaplatform",
+		"type": "ad",
+		"domains": [
+			"aquaplatform.com"
+		]
+	},
+    {
         "company_name": "ahacdn.me",
         "type": "ad",
         "domains": [
@@ -247,6 +261,13 @@
             "postrelease.com"
         ]
     },
+    {
+		"company_name": "nonli.com",
+		"type": "ad",
+		"domains": [
+			"non.li"
+		]
+	},
     {
         "company_name": "NP6",
         "type": "tracker",
