@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1717401607721        ; Serial
+           1718006407111        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ $TTL 300
 1j2n061x3td.www.digi.no CNAME .
 1k5vz1ejbcx.staging.probemas.com CNAME .
 1kpv4njzilv.community.intersystems.com CNAME .
+1vyt1eguj27.ommasign.com CNAME .
 21fhq0t574p.talentkit.io CNAME .
 21udflra4wd.app-dev.cainthus.com CNAME .
 25ix8gm8ien.sandbox.panprices.com CNAME .
@@ -34,6 +35,7 @@ $TTL 300
 2e718yf5jypb.test.digitalsurge.io CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
+3g3v0rrv9q09.franchiseplus.nl CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
@@ -49,6 +51,7 @@ $TTL 300
 78rkcgj4i8c6.www.cefirates.com CNAME .
 7hdl8dlfjm4g.www.cybernetman.com CNAME .
 7mvmjg.www.emanualonline.com CNAME .
+83y2zbbv.www.bolighub.dk CNAME .
 8e0905osvgw5.taleez.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8ue4rp6yxyis.www.tapmyback.com CNAME .

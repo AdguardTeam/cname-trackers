@@ -1,0 +1,42 @@
+;
+; Company name: Adocean
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1718006407111        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+a.actualno.com CNAME .
+ad.santa.lv CNAME .
+ad.services.tvn.pl CNAME .
+ado.icorp.ro CNAME .
+ads.tvp.pl CNAME .
+ao.city24.lv CNAME .
+content.ingbank.pl CNAME .
+icorpado.9am.ro CNAME .
+ipla.hit.stat24.com CNAME .
+ocean.gigatron.rs CNAME .
+recontent.services.tvn.pl CNAME .
+redefine.hit.stat24.com CNAME .
+serveris.lnk.lt CNAME .
+siewca.topagrar.pl CNAME .
+tools.elle.pl CNAME .
+tools.glamour.pl CNAME .
+tools.gotujmy.pl CNAME .
+tools.kobieta.pl CNAME .
+tools.mamotoja.pl CNAME .
+tools.mojegotowanie.pl CNAME .
+tools.mojpieknyogrod.pl CNAME .
+tools.national-geographic.pl CNAME .
+tools.party.pl CNAME .
+tools.polki.pl CNAME .
+tools.przyslijprzepis.pl CNAME .
+tools.viva.pl CNAME .
+tools.wizaz.pl CNAME .
+tp.hit.stat24.com CNAME .
+zniwiarz.topagrar.pl CNAME .

@@ -193,7 +193,6 @@
 ||ebis.eiyoushi-tensyoku.com^
 ||ebis.forcas.com^
 ||ebis.funai-finance.com^
-||ebis.funai-ma.com^
 ||ebis.funaisoken.co.jp^
 ||ebis.glico-direct.jp^
 ||ebis.gokusen-ichiba.com^

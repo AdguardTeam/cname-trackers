@@ -1,0 +1,98 @@
+;
+; Company name: nonli.com
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1718006407111        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+go.3ds.com CNAME .
+go.france24.com CNAME .
+go.letelegramme.fr CNAME .
+go.mc-doualiya.com CNAME .
+go.meretmarine.com CNAME .
+go.publicsenat.fr CNAME .
+go.rfi.fr CNAME .
+go.solidworks.com CNAME .
+l.20minutes.fr CNAME .
+l.actu.fr CNAME .
+l.africabusinessplus.com CNAME .
+l.aufeminin.com CNAME .
+l.beauxarts.com CNAME .
+l.bfmtv.com CNAME .
+l.caminteresse.fr CNAME .
+l.capital.fr CNAME .
+l.centre-presse.fr CNAME .
+l.centrepresseaveyron.fr CNAME .
+l.challenges.fr CNAME .
+l.cuisineactuelle.fr CNAME .
+l.doctissimo.fr CNAME .
+l.enfant.com CNAME .
+l.familiscope.fr CNAME .
+l.femmeactuelle.fr CNAME .
+l.franceantilles.fr CNAME .
+l.francebleu.fr CNAME .
+l.franceculture.fr CNAME .
+l.franceguyane.fr CNAME .
+l.franceinter.fr CNAME .
+l.francemusique.fr CNAME .
+l.francetvinfo.fr CNAME .
+l.frandroid.com CNAME .
+l.gala.fr CNAME .
+l.gentside.com CNAME .
+l.gentside.de CNAME .
+l.geo.fr CNAME .
+l.grazia.fr CNAME .
+l.harpersbazaar.fr CNAME .
+l.heidi.news CNAME .
+l.humanite.fr CNAME .
+l.jeuneafrique.com CNAME .
+l.journaldemillau.fr CNAME .
+l.ladepeche.fr CNAME .
+l.lanouvellerepublique.fr CNAME .
+l.laprovence.com CNAME .
+l.lardennais.fr CNAME .
+l.lavoixdunord.fr CNAME .
+l.lefigaro.fr CNAME .
+l.leparisien.fr CNAME .
+l.lequotidiendelart.com CNAME .
+l.lindependant.fr CNAME .
+l.lunion.fr CNAME .
+l.madmoizelle.com CNAME .
+l.mariefrance.fr CNAME .
+l.marsactu.fr CNAME .
+l.maxisciences.com CNAME .
+l.mediapart.fr CNAME .
+l.melty.fr CNAME .
+l.midilibre.fr CNAME .
+l.monacomatin.mc CNAME .
+l.mprovence.com CNAME .
+l.nicematin.com CNAME .
+l.notretemps.com CNAME .
+l.numerama.com CNAME .
+l.ohmymag.co.uk CNAME .
+l.ohmymag.com CNAME .
+l.ohmymag.de CNAME .
+l.ouest-france.fr CNAME .
+l.programme-tv.net CNAME .
+l.programme.tv CNAME .
+l.radiofrance.fr CNAME .
+l.rmc.fr CNAME .
+l.sciencesetavenir.fr CNAME .
+l.sudouest.fr CNAME .
+l.tf1.fr CNAME .
+l.tf1info.fr CNAME .
+l.theafricareport.com CNAME .
+l.topmusic.fr CNAME .
+l.touteleurope.eu CNAME .
+l.traxmag.com CNAME .
+l.varmatin.com CNAME .
+l.voici.fr CNAME .
+sur.corsematin.com CNAME .
+www.20min.fr CNAME .
+www.altereco.media CNAME .

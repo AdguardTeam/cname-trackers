@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1717401607721        ; Serial
+           1718006407111        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -204,7 +204,6 @@ ebis.delis.co.jp CNAME .
 ebis.eiyoushi-tensyoku.com CNAME .
 ebis.forcas.com CNAME .
 ebis.funai-finance.com CNAME .
-ebis.funai-ma.com CNAME .
 ebis.funaisoken.co.jp CNAME .
 ebis.glico-direct.jp CNAME .
 ebis.gokusen-ichiba.com CNAME .

@@ -15,7 +15,6 @@
 | ---- | ---- |
 | a-api.skz.dev | custom.plausible.io |
 | a.aawp.de | custom.plausible.io |
-| a.easyazon.com | custom.plausible.io |
 | a.iiro.dev | custom.plausible.io |
 | a.linkz.ai | custom.plausible.io |
 | also.greatsecuritydebate.net | custom.plausible.io |
@@ -332,7 +331,6 @@
 | st.anastasija.lt | custom.plausible.io |
 | st.picshuffle.com | custom.plausible.io |
 | st.preciousamber.com | custom.plausible.io |
-| st.sheebamagazine.com | custom.plausible.io |
 | st.tulastudio.se | custom.plausible.io |
 | starman.floorcleanse.co.uk | custom.plausible.io |
 | stat.bill.harding.blog | custom.plausible.io |
@@ -893,7 +891,6 @@
 | track.slickinbox.com | custom.plausible.io |
 | traffic.hostedstatus.page | custom.plausible.io |
 | traffic.taktikal.is | custom.plausible.io |
-| tree.indot.nl | custom.plausible.io |
 | triton.companyegg.com | custom.plausible.io |
 | varys.asongofzandc.xyz | custom.plausible.io |
 | views.emikajewelry.com | custom.plausible.io |

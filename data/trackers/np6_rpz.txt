@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1717401607721        ; Serial
+           1718006407111        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -815,6 +815,7 @@ tr.news.prosfora-mou.gr CNAME .
 tr.news.receiveyourquote.co.uk CNAME .
 tr.news.retailglobalsolutions.com CNAME .
 tr.news.seine-estuaire.cci.fr CNAME .
+tr.news.smartdeals-transavia-fr.com CNAME .
 tr.news.smartdealstransavia-fr.com CNAME .
 tr.news.sport2000.fr CNAME .
 tr.news.styles.lexpress.fr CNAME .
@@ -961,6 +962,7 @@ tr.promotion.lexpress.fr CNAME .
 tr.prosfores-companeo.gr CNAME .
 tr.prosfores-etairias.gr CNAME .
 tr.ps.espmp-agfr.net CNAME .
+tr.psaparts.com CNAME .
 tr.publicisdrugstore.espmp-agfr.net CNAME .
 tr.qualitaetsumfrage.com CNAME .
 tr.qualitaveicolo.com CNAME .
@@ -1123,6 +1125,7 @@ tr1.mailperformance.com CNAME .
 tr1.mperf.com CNAME .
 tr1.peugeot-ipsos.com CNAME .
 tr1.psa-surveys.com CNAME .
+tr4.mailperf.com CNAME .
 tr5.mailperf.com CNAME .
 tr5.mperf.com CNAME .
 tr6.mperf.com CNAME .

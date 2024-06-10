@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1717401607721        ; Serial
+           1718006407111        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -91,7 +91,6 @@ hruk.jjikk.top CNAME .
 hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
-images.savetiknowm.org CNAME .
 jg1.trypicz.com CNAME .
 jg3.trypicz.com CNAME .
 jpnj.hotpornfile.org CNAME .

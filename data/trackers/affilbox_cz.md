@@ -48,6 +48,7 @@
 | affil.dotykacka.cz | cz.affilbox.cz |
 | affil.econea.cz | cz.affilbox.cz |
 | affil.eshop-rychle.cz | cz.affilbox.cz |
+| affil.finakademie.cz | cz.affilbox.cz |
 | affil.fingood.cz | cz.affilbox.cz |
 | affil.fit-pro.cz | cz.affilbox.cz |
 | affil.gamlery.cz | cz.affilbox.cz |
@@ -204,6 +205,7 @@
 | affiliate.loveo.cz | cz.affilbox.cz |
 | affiliate.luxor.cz | cz.affilbox.cz |
 | affiliate.manvel.cz | cz.affilbox.cz |
+| affiliate.marketingminer.com | cz.affilbox.cz |
 | affiliate.martinreznicek.cz | cz.affilbox.cz |
 | affiliate.milagro.cz | cz.affilbox.cz |
 | affiliate.mobilniplatby.cz | cz.affilbox.cz |
@@ -773,6 +775,7 @@
 | partneri.jakofenix.cz | cz.affilbox.cz |
 | partneri.jazykovedarky.cz | cz.affilbox.cz |
 | partneri.jazykyodpiky.cz | cz.affilbox.cz |
+| partneri.jrc.cz | cz.affilbox.cz |
 | partneri.keramika-dum.cz | cz.affilbox.cz |
 | partneri.kerasek.cz | cz.affilbox.cz |
 | partneri.kimgroup.cz | cz.affilbox.cz |
@@ -914,6 +917,7 @@
 | spoluprace.sikland.cz | cz.affilbox.cz |
 | spoluprace.terrapotheka.cz | cz.affilbox.cz |
 | spoluprace.vcelarstvi-domovina.cz | cz.affilbox.cz |
+| spoluprace.vivobarefoot.cz | cz.affilbox.cz |
 | vydelavejtesnami.pg.cz | cz.affilbox.cz |
 | www.affilbox.mironet.cz | cz.affilbox.cz |
 | www.affilo.cz | cz.affilbox.cz |

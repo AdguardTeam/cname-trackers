@@ -2,7 +2,6 @@
 ! Company name: Plausible Analytics
 ||a-api.skz.dev^
 ||a.aawp.de^
-||a.easyazon.com^
 ||a.iiro.dev^
 ||a.linkz.ai^
 ||also.greatsecuritydebate.net^
@@ -319,7 +318,6 @@
 ||st.anastasija.lt^
 ||st.picshuffle.com^
 ||st.preciousamber.com^
-||st.sheebamagazine.com^
 ||st.tulastudio.se^
 ||starman.floorcleanse.co.uk^
 ||stat.bill.harding.blog^
@@ -880,7 +878,6 @@
 ||track.slickinbox.com^
 ||traffic.hostedstatus.page^
 ||traffic.taktikal.is^
-||tree.indot.nl^
 ||triton.companyegg.com^
 ||varys.asongofzandc.xyz^
 ||views.emikajewelry.com^

@@ -3,7 +3,6 @@
 ## Disguised trackers list
 
 * a8.net
-    * test-trck.a8.net
     * trck-v4.a8.net
     * trck.a8.net
 
@@ -11,7 +10,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| a8clk.coreda.jp | test-trck.a8.net |
 | track-v4.ipadpresence.com | trck-v4.a8.net |
 | 1909a8.satofull.jp | trck.a8.net |
 | a8-22.hana-yume.net | trck.a8.net |
@@ -457,6 +455,7 @@
 | a8clk.cleaneo.jp | trck.a8.net |
 | a8clk.cocorotherapy.com | trck.a8.net |
 | a8clk.colone.cc | trck.a8.net |
+| a8clk.coreda.jp | trck.a8.net |
 | a8clk.cp.favorina.com | trck.a8.net |
 | a8clk.cp.formalklein.com | trck.a8.net |
 | a8clk.crefus.com | trck.a8.net |
@@ -781,6 +780,7 @@
 | a8cv.b-concept.tokyo | trck.a8.net |
 | a8cv.b-noix.jp | trck.a8.net |
 | a8cv.babybjorn.jp | trck.a8.net |
+| a8cv.bag-repair.pro | trck.a8.net |
 | a8cv.baku-art.jp | trck.a8.net |
 | a8cv.balanslab.jp | trck.a8.net |
 | a8cv.bb-internet-qsyu.net | trck.a8.net |
@@ -1224,6 +1224,7 @@
 | a8cv.toybox-mnr.com | trck.a8.net |
 | a8cv.toysub.net | trck.a8.net |
 | a8cv.treasure-f.com | trck.a8.net |
+| a8cv.ulp-kyoto.jp | trck.a8.net |
 | a8cv.unias.jp | trck.a8.net |
 | a8cv.unico-fan.co.jp | trck.a8.net |
 | a8cv.untenmenkyo-yi.com | trck.a8.net |
@@ -1551,7 +1552,6 @@
 | trcka8net.irobot-jp.com | trck.a8.net |
 | trcka8net.lenszero.com | trck.a8.net |
 | trcka8net.qieto.net | trck.a8.net |
-| web.air-entry.com | trck.a8.net |
 | web.collaboration-access.com | trck.a8.net |
 | web.hikari-biglobe.com | trck.a8.net |
 | web.hikari-ocn.com | trck.a8.net |

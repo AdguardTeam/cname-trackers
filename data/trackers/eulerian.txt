@@ -6,7 +6,6 @@
 ||2efj.economies.cheque-dejeuner.com^
 ||2efj.up.coop^
 ||3esm.consubebe.es^
-||5fm.985fm.ca^
 ||66jo.societegenerale.fr^
 ||6pal.consobaby.com^
 ||6swu.cpa-france.org^
@@ -487,6 +486,7 @@
 ||zsi7.destinia.do^
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
+||5fm.985fm.ca^
 ||b1n.carabins.umontreal.ca^
 ||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^

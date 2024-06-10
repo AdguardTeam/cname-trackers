@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1717401607721        ; Serial
+           1718006407111        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -995,6 +995,7 @@ tiglon.davidroessli.com CNAME .
 toad.ettiennevorster.co.za CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.the-faithful.com CNAME .
+treefrog.buyinsulin.com CNAME .
 treefrog.kaffeknappen.no CNAME .
 treefrog.tschmeisser.com CNAME .
 trout.batzo.net CNAME .
@@ -1054,7 +1055,6 @@ wildebeest.soft-spoken.dev CNAME .
 wildebeest.trigo.dev CNAME .
 wildfowl.minter.io CNAME .
 wolf.idthompson.com CNAME .
-wolf.minecraftserverhosts.com CNAME .
 wolf.samarasousa.com CNAME .
 wolverine.barac.at CNAME .
 wolverine.jhdierenklinieken.nl CNAME .

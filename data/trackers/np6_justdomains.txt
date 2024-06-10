@@ -804,6 +804,7 @@ tr.news.prosfora-mou.gr
 tr.news.receiveyourquote.co.uk
 tr.news.retailglobalsolutions.com
 tr.news.seine-estuaire.cci.fr
+tr.news.smartdeals-transavia-fr.com
 tr.news.smartdealstransavia-fr.com
 tr.news.sport2000.fr
 tr.news.styles.lexpress.fr
@@ -950,6 +951,7 @@ tr.promotion.lexpress.fr
 tr.prosfores-companeo.gr
 tr.prosfores-etairias.gr
 tr.ps.espmp-agfr.net
+tr.psaparts.com
 tr.publicisdrugstore.espmp-agfr.net
 tr.qualitaetsumfrage.com
 tr.qualitaveicolo.com
@@ -1112,6 +1114,7 @@ tr1.mailperformance.com
 tr1.mperf.com
 tr1.peugeot-ipsos.com
 tr1.psa-surveys.com
+tr4.mailperf.com
 tr5.mailperf.com
 tr5.mperf.com
 tr6.mperf.com

@@ -1,6 +1,6 @@
 ! Title: AdGuard CNAME original trackers list
 ! Description: The list of trackers that are often disguised using CNAME. This list is supposed to be used only by Software capable of scanning CNAME records.
-! TimeUpdated: 2024-06-03T08:00:07+00:00
+! TimeUpdated: 2024-06-10T08:00:07+00:00
 ! Homepage: https://github.com/AdguardTeam/cname-trackers
 !
 !
@@ -37,6 +37,12 @@
 ||data.adobedc.net^
 ||sc.adobedc.net^
 ||sc.omtrdc.net^
+!
+! Company: Adocean
+||adocean.pl^
+!
+! Company: Aquaplatform
+||aquaplatform.com^
 !
 ! Company: ahacdn.me
 ||cdn18685953.ahacdn.me^
@@ -115,6 +121,9 @@
 ||ntv.io^
 ||ntvpforever.com^
 ||postrelease.com^
+!
+! Company: nonli.com
+||non.li^
 !
 ! Company: NP6
 ||tracking.bp01.net^

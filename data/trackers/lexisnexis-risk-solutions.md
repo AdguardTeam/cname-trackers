@@ -218,6 +218,7 @@
     * h-bos-soc.online-metrix.net
     * h-bos.online-metrix.net
     * h-bossrevolution.online-metrix.net
+    * h-bpm0edvc.online-metrix.net
     * h-bpsgameserver.online-metrix.net
     * h-brightlending.online-metrix.net
     * h-bscelhtc.online-metrix.net
@@ -450,6 +451,7 @@
     * h-k8vif92e-cdn3.online-metrix.net
     * h-k8vif92e-cogno.online-metrix.net
     * h-k8vif92e-egy.online-metrix.net
+    * h-k8vif92e-gr4vy.online-metrix.net
     * h-k8vif92e-jm.online-metrix.net
     * h-k8vif92e-lulu.online-metrix.net
     * h-k8vif92e-mo.online-metrix.net
@@ -720,6 +722,7 @@
     * h-zootweb.online-metrix.net
     * h-zopa.online-metrix.net
     * h-zurvita.online-metrix.net
+    * h.idev.online-metrix.net
     * h.online-metrix.net
     * qa1-h.online-metrix.net
     * qa2-h.online-metrix.net
@@ -1014,6 +1017,7 @@
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
 | tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |
 | content.vi.gov | h-b4bq7y80.online-metrix.net |
+| srv.squaretrade.co.jp | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.co.uk | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.com | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.com.au | h-b6te0xmf.online-metrix.net |
@@ -1058,6 +1062,7 @@
 | cbcdn.bankofscotland.co.uk | h-bos-soc.online-metrix.net |
 | check2.bankofscotland.co.uk | h-bos.online-metrix.net |
 | imagestm.bossrevolution.com | h-bossrevolution.online-metrix.net |
+| content.mdeferred-payment.sevenbank.co.jp | h-bpm0edvc.online-metrix.net |
 | fpcn.bpsgameserver.com | h-bpsgameserver.online-metrix.net |
 | contentservices.brightlending.com | h-brightlending.online-metrix.net |
 | verification.ndtco.com | h-bscelhtc.online-metrix.net |
@@ -1402,6 +1407,7 @@
 | cdn3.littlecaesars.com | h-k8vif92e-cdn3.online-metrix.net |
 | sg-payment.cydf.hoyoverse.com | h-k8vif92e-cogno.online-metrix.net |
 | content.egyptair.com | h-k8vif92e-egy.online-metrix.net |
+| cdn-f.gr4vy.com | h-k8vif92e-gr4vy.online-metrix.net |
 | cdncy.jmbullion.com | h-k8vif92e-jm.online-metrix.net |
 | checkout-df.lululemon.com | h-k8vif92e-lulu.online-metrix.net |
 | mobile.du.ae | h-k8vif92e-mo.online-metrix.net |
@@ -1743,6 +1749,7 @@
 | img.zootweb.com | h-zootweb.online-metrix.net |
 | cdna.zopa.com | h-zopa.online-metrix.net |
 | contentservices.zurvita.com | h-zurvita.online-metrix.net |
+| portal-fp-idev.qa.threatmetrix.com | h.idev.online-metrix.net |
 | content.readiness.consumercardaccess.com | h.online-metrix.net |
 | content.readiness.familyprepaiddebit.com | h.online-metrix.net |
 | content.readiness.paycardsolutions.com | h.online-metrix.net |

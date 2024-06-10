@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1717401607721        ; Serial
+           1718006407111        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,6 +40,7 @@ affil.domio.cz CNAME .
 affil.dotykacka.cz CNAME .
 affil.econea.cz CNAME .
 affil.eshop-rychle.cz CNAME .
+affil.finakademie.cz CNAME .
 affil.fingood.cz CNAME .
 affil.fit-pro.cz CNAME .
 affil.gamlery.cz CNAME .
@@ -196,6 +197,7 @@ affiliate.licit.cz CNAME .
 affiliate.loveo.cz CNAME .
 affiliate.luxor.cz CNAME .
 affiliate.manvel.cz CNAME .
+affiliate.marketingminer.com CNAME .
 affiliate.martinreznicek.cz CNAME .
 affiliate.milagro.cz CNAME .
 affiliate.mobilniplatby.cz CNAME .
@@ -765,6 +767,7 @@ partneri.intimfitness.cz CNAME .
 partneri.jakofenix.cz CNAME .
 partneri.jazykovedarky.cz CNAME .
 partneri.jazykyodpiky.cz CNAME .
+partneri.jrc.cz CNAME .
 partneri.keramika-dum.cz CNAME .
 partneri.kerasek.cz CNAME .
 partneri.kimgroup.cz CNAME .
@@ -906,6 +909,7 @@ spoluprace.prostor8.cz CNAME .
 spoluprace.sikland.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .
+spoluprace.vivobarefoot.cz CNAME .
 vydelavejtesnami.pg.cz CNAME .
 www.affilbox.mironet.cz CNAME .
 www.affilo.cz CNAME .

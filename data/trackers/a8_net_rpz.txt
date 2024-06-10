@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1717401607721        ; Serial
+           1718006407111        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -780,6 +780,7 @@ a8cv.auhikari-bykddi.com CNAME .
 a8cv.b-concept.tokyo CNAME .
 a8cv.b-noix.jp CNAME .
 a8cv.babybjorn.jp CNAME .
+a8cv.bag-repair.pro CNAME .
 a8cv.baku-art.jp CNAME .
 a8cv.balanslab.jp CNAME .
 a8cv.bb-internet-qsyu.net CNAME .
@@ -1223,6 +1224,7 @@ a8cv.toushi-up.com CNAME .
 a8cv.toybox-mnr.com CNAME .
 a8cv.toysub.net CNAME .
 a8cv.treasure-f.com CNAME .
+a8cv.ulp-kyoto.jp CNAME .
 a8cv.unias.jp CNAME .
 a8cv.unico-fan.co.jp CNAME .
 a8cv.untenmenkyo-yi.com CNAME .
@@ -1551,7 +1553,6 @@ trcka8net.glens.jp CNAME .
 trcka8net.irobot-jp.com CNAME .
 trcka8net.lenszero.com CNAME .
 trcka8net.qieto.net CNAME .
-web.air-entry.com CNAME .
 web.collaboration-access.com CNAME .
 web.hikari-biglobe.com CNAME .
 web.hikari-ocn.com CNAME .

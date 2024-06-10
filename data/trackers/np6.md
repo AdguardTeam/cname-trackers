@@ -825,6 +825,7 @@
 | tr.news.receiveyourquote.co.uk | tracking.bp01.net |
 | tr.news.retailglobalsolutions.com | tracking.bp01.net |
 | tr.news.seine-estuaire.cci.fr | tracking.bp01.net |
+| tr.news.smartdeals-transavia-fr.com | tracking.bp01.net |
 | tr.news.smartdealstransavia-fr.com | tracking.bp01.net |
 | tr.news.sport2000.fr | tracking.bp01.net |
 | tr.news.styles.lexpress.fr | tracking.bp01.net |
@@ -971,6 +972,7 @@
 | tr.prosfores-companeo.gr | tracking.bp01.net |
 | tr.prosfores-etairias.gr | tracking.bp01.net |
 | tr.ps.espmp-agfr.net | tracking.bp01.net |
+| tr.psaparts.com | tracking.bp01.net |
 | tr.publicisdrugstore.espmp-agfr.net | tracking.bp01.net |
 | tr.qualitaetsumfrage.com | tracking.bp01.net |
 | tr.qualitaveicolo.com | tracking.bp01.net |
@@ -1133,6 +1135,7 @@
 | tr1.mperf.com | tracking.bp01.net |
 | tr1.peugeot-ipsos.com | tracking.bp01.net |
 | tr1.psa-surveys.com | tracking.bp01.net |
+| tr4.mailperf.com | tracking.bp01.net |
 | tr5.mailperf.com | tracking.bp01.net |
 | tr5.mperf.com | tracking.bp01.net |
 | tr6.mperf.com | tracking.bp01.net |

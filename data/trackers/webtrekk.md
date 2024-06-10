@@ -26,7 +26,6 @@
     * kfw04.webtrekk.net
     * kiomi-com01.webtrekk.net
     * netcologne-01.webtrekk.net
-    * nuernberger02.webtrekk.net
     * obi-com01.webtrekk.net
     * springergmbh01.webtrekk.net
     * tchibo01.webtrekk.net
@@ -105,7 +104,6 @@
     * 472882311545060.wt-eu02.net
     * 475966354471123.wt-eu02.net
     * 481394388917209.wt-eu02.net
-    * 481977157370244.wt-eu02.net
     * 482221458407393.wt-eu02.net
     * 484879729086450.wt-eu02.net
     * 489164258023327.wt-eu02.net
@@ -168,6 +166,7 @@
     * 849715076759606.wt-eu02.net
     * 865411762489824.wt-eu02.net
     * 877979016491790.wt-eu02.net
+    * 887450638197118.wt-eu02.net
     * 893825625040746.wt-eu02.net
     * 911505776570324.wt-eu02.net
     * 913761141602487.wt-eu02.net
@@ -295,6 +294,7 @@
 | web.campaign.v73.it | 302571338326011.wt-eu02.net |
 | data.engelhorn.com | 302631813489498.wt-eu02.net |
 | data.engelhorn.de | 302631813489498.wt-eu02.net |
+| web.capriceshoes.com | 306539831205028.wt-eu02.net |
 | web.jana-shoes.com | 306539831205028.wt-eu02.net |
 | web.marcotozzi.com | 306539831205028.wt-eu02.net |
 | web.tamaris.com | 306539831205028.wt-eu02.net |
@@ -341,7 +341,6 @@
 | startrekk.flaconi.ch | 475966354471123.wt-eu02.net |
 | web.crm.beps.it | 481394388917209.wt-eu02.net |
 | web.crm.speedup.it | 481394388917209.wt-eu02.net |
-| web.marketing.elbenwald.de | 481977157370244.wt-eu02.net |
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
@@ -424,6 +423,7 @@
 | wt.envivas.de | 865411762489824.wt-eu02.net |
 | wt.generalibewegtdeutschland.de | 865411762489824.wt-eu02.net |
 | mit.deutschebank.be | 877979016491790.wt-eu02.net |
+| trk.nuernberger.de | 887450638197118.wt-eu02.net |
 | web.mapp.skousen.no | 893825625040746.wt-eu02.net |
 | info.derdiedaf.com | 911505776570324.wt-eu02.net |
 | web.newsletterit.esprinet.com | 913761141602487.wt-eu02.net |
@@ -594,7 +594,6 @@
 | web.mytoys.de | mytoys02.wt-eu02.net |
 | tracking.netcologne.de | netcologne-01.webtrekk.net |
 | wt.netze-bw.de | netze-bw01.wt-eu02.net |
-| trk.nuernberger.de | nuernberger02.webtrekk.net |
 | ot.obi-baumarkt.ch | obi-all.wt-eu02.net |
 | ot.obi-brico.ch | obi-all.wt-eu02.net |
 | ot.obi-italia.it | obi-all.wt-eu02.net |

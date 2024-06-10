@@ -110,7 +110,6 @@
     * 531ea578-esqb2ypb.cname.ebis.ne.jp
     * 54defe46-yfrcguru.cname.ebis.ne.jp
     * 55f9731d-yghwwxr9.cname.ebis.ne.jp
-    * 56a8082e-yfrcguru.cname.ebis.ne.jp
     * 5913445d-scxitlgt.cname.ebis.ne.jp
     * 5affe8ce-skczc9vy.cname.ebis.ne.jp
     * 5c4367ff-jngsetpd.cname.ebis.ne.jp
@@ -411,7 +410,6 @@
 | ebis.2jikaikun.com | 531ea578-esqb2ypb.cname.ebis.ne.jp |
 | ebis.samurai271.com | 54defe46-yfrcguru.cname.ebis.ne.jp |
 | ad.320320.net | 55f9731d-yghwwxr9.cname.ebis.ne.jp |
-| ebis.funai-ma.com | 56a8082e-yfrcguru.cname.ebis.ne.jp |
 | cs2113sbeda.hokto-onlineshop.jp | 5913445d-scxitlgt.cname.ebis.ne.jp |
 | ac-ebis.usen-pos.com | 5affe8ce-skczc9vy.cname.ebis.ne.jp |
 | cnameebis.eizoshigoto.com | 5c4367ff-jngsetpd.cname.ebis.ne.jp |

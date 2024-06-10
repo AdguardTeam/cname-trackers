@@ -14,6 +14,7 @@
 ||1j2n061x3td.www.digi.no^
 ||1k5vz1ejbcx.staging.probemas.com^
 ||1kpv4njzilv.community.intersystems.com^
+||1vyt1eguj27.ommasign.com^
 ||21fhq0t574p.talentkit.io^
 ||21udflra4wd.app-dev.cainthus.com^
 ||25ix8gm8ien.sandbox.panprices.com^
@@ -23,6 +24,7 @@
 ||2e718yf5jypb.test.digitalsurge.io^
 ||2rid9fii9chx.www.atlaslane.com^
 ||2yqcaqbfnv.nextgen.shareablee.com^
+||3g3v0rrv9q09.franchiseplus.nl^
 ||3l0zszdzjhpw.www.comicleaks.com^
 ||3wn3w3skxpym.round.t3.gg^
 ||48z7wyjdsywu.www.revistaferramental.com.br^
@@ -38,6 +40,7 @@
 ||78rkcgj4i8c6.www.cefirates.com^
 ||7hdl8dlfjm4g.www.cybernetman.com^
 ||7mvmjg.www.emanualonline.com^
+||83y2zbbv.www.bolighub.dk^
 ||8e0905osvgw5.taleez.com^
 ||8ehhtsv9bo7i.monkeylearn.com^
 ||8ue4rp6yxyis.www.tapmyback.com^

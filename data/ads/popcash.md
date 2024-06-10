@@ -922,6 +922,7 @@
 | toad.ettiennevorster.co.za | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
+| treefrog.buyinsulin.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
 | treefrog.tschmeisser.com | deprecated-custom-domains.b-cdn.net |
 | trout.batzo.net | deprecated-custom-domains.b-cdn.net |
@@ -981,7 +982,6 @@
 | wildebeest.trigo.dev | deprecated-custom-domains.b-cdn.net |
 | wildfowl.minter.io | deprecated-custom-domains.b-cdn.net |
 | wolf.idthompson.com | deprecated-custom-domains.b-cdn.net |
-| wolf.minecraftserverhosts.com | deprecated-custom-domains.b-cdn.net |
 | wolf.samarasousa.com | deprecated-custom-domains.b-cdn.net |
 | wolverine.barac.at | deprecated-custom-domains.b-cdn.net |
 | wolverine.jhdierenklinieken.nl | deprecated-custom-domains.b-cdn.net |

@@ -55,6 +55,7 @@
 ||cdle-prof.clouduim.cdle.state.co.us^
 ||cdn-content.bmtx.com^
 ||cdn-east.purchase.goto.com^
+||cdn-f.gr4vy.com^
 ||cdn-ln.ozk.com^
 ||cdn-lntmps.mintmobile.com^
 ||cdn-lntmps.ultramobile.com^
@@ -250,6 +251,7 @@
 ||content.marks.com^
 ||content.massmutual.com^
 ||content.maxconnector.com^
+||content.mdeferred-payment.sevenbank.co.jp^
 ||content.moneza.ru^
 ||content.moni.com.ar^
 ||content.my100bank.com^
@@ -623,6 +625,7 @@
 ||pn1927.coutts.com^
 ||pn1927.couttscrowndependencies.com^
 ||pn1927.natwestplus.com^
+||portal-fp-idev.qa.threatmetrix.com^
 ||portal-fp-qa1.qa.threatmetrix.com^
 ||portal-fp-qa2.qa.threatmetrix.com^
 ||portal-fp-qaperf2.qa.threatmetrix.com^
@@ -781,6 +784,7 @@
 ||sptbb.pilates.com^
 ||src.ebay-us.com^
 ||src0.myvoffice.com^
+||srv.squaretrade.co.jp^
 ||srv.squaretrade.co.uk^
 ||srv.squaretrade.com^
 ||srv.squaretrade.com.au^

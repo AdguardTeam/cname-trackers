@@ -1,0 +1,98 @@
+;
+; Company name: Aquaplatform
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1718006407111        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+adamsads.midtc.com CNAME .
+adimages.eva.live CNAME .
+adimages.sniffies.com CNAME .
+ads-static.recon.com CNAME .
+ads.bidspotter.co.uk CNAME .
+ads.datateam.co.uk CNAME .
+ads.environmentalleader.com CNAME .
+ads.i-bidder.com CNAME .
+ads.lot-tissimo.com CNAME .
+ads.proxibid.com CNAME .
+ads.recon.com CNAME .
+ads.swiss-equestrian.ch CNAME .
+ads.the-saleroom.com CNAME .
+ads.worldofshowjumping.com CNAME .
+ads.xtra.ca CNAME .
+adserver.fa-mag.com CNAME .
+adserver.infotorg.se CNAME .
+adserver.kozoom.com CNAME .
+adserver.marriagetrac.com CNAME .
+adserver.rtvutrechtreclame.nl CNAME .
+adserver.sniffies.com CNAME .
+adserver.sonicplug.com CNAME .
+adv.consulcesi.it CNAME .
+adv.unionesarda.it CNAME .
+advertising.goldseek.com CNAME .
+assets.lintigroup.se CNAME .
+banners.leightonbroadcasting.com CNAME .
+banners.orangecoast.com CNAME .
+cdn-adv.unionesarda.it CNAME .
+cdn.myadsmyanmar.com CNAME .
+cdn.personare.com.br CNAME .
+cdn.pinktriangle.ca CNAME .
+cdn.revive-adserver.net CNAME .
+cdn.rlnads.net CNAME .
+championads.midtc.com CNAME .
+coreads.cambridge.org CNAME .
+images.cricketworld.com CNAME .
+images.informatm.com CNAME .
+lalala.geenstijl.nl CNAME .
+openx.mondiale.co.uk CNAME .
+ox.mequoda.com CNAME .
+proxena-secure.reviveservers.com CNAME .
+revive.worldscreen.com CNAME .
+serve.faithlifeads.com CNAME .
+servedby.adbility-media.com CNAME .
+servedby.ammoland.com CNAME .
+servedby.aqua-adserver.com CNAME .
+servedby.biohandel.de CNAME .
+servedby.ceramicartsnetwork.org CNAME .
+servedby.cricketworld.com CNAME .
+servedby.engineeringnews.co.za CNAME .
+servedby.everythingnevada.com CNAME .
+servedby.geminipub.com CNAME .
+servedby.imagineobx.com CNAME .
+servedby.insideradverts.com CNAME .
+servedby.lintigroup.se CNAME .
+servedby.livingmagonline.com CNAME .
+servedby.mannixmarketing.com CNAME .
+servedby.miningweekly.com CNAME .
+servedby.mondiale.co.uk CNAME .
+servedby.myadsmyanmar.com CNAME .
+servedby.personare.com.br CNAME .
+servedby.pinktriangle.ca CNAME .
+servedby.polity.org.za CNAME .
+servedby.pppmag.com CNAME .
+servedby.proxena-adserver.com CNAME .
+servedby.quirks.com CNAME .
+servedby.revive-adserver.net CNAME .
+servedby.reviveservers.com CNAME .
+servedby.rlnads.net CNAME .
+servedby.sacommunications.com CNAME .
+servedby.schrotundkorn.de CNAME .
+servedby.tahoe.com CNAME .
+servedby.trackandfieldnews.com CNAME .
+server.ad.logic-prod.viasat.io CNAME .
+static.aqua-adserver.com CNAME .
+static.biohandel.de CNAME .
+static.environmentalleader.com CNAME .
+static.mannixmarketing.com CNAME .
+static.proxibid.com CNAME .
+static.schrotundkorn.de CNAME .
+static.sonicplug.com CNAME .
+static.trackandfieldnews.com CNAME .
+treehouse.wwoz.org CNAME .
+xtraa-secure.reviveservers.com CNAME .

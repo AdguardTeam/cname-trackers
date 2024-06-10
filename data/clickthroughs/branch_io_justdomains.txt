@@ -333,6 +333,8 @@ clicks.drizly.com
 clicks.email.shakeshack.com
 clicks.equinoxplus.com
 clicks.fabletics.com
+clicks.fabletics.de
+clicks.fabletics.fr
 clicks.flaming.burger-king.ch
 clicks.food.mercato.com
 clicks.info.alle.com
@@ -732,6 +734,7 @@ m1.stadiumgoods.com
 mail.blueapronwine.com
 mail.bravado.co
 mail.central.co.th
+mail.tops.co.th
 mail.wondery.com
 mandrillapp.zola.com
 mlinks.fluz.app
@@ -1023,6 +1026,7 @@ app.bws.com.au
 app.byjus.com
 app.caden.io
 app.cambolink21.com
+app.campaignhero.ai
 app.campbowwow.com
 app.capitalbikeshare.com
 app.cardbaazi.com
@@ -1100,6 +1104,7 @@ app.getplayground.com
 app.getselect.co
 app.getsquirrel.io
 app.ggpoker.co.uk
+app.goat.com
 app.gobuncha.com
 app.gocheetah.com
 app.godtlevert.no
@@ -1276,6 +1281,7 @@ app.radixdlt.com
 app.raneen.com
 app.rclb.pl
 app.realnewsnow.com
+app.realtyonegroup.com
 app.renozee.com
 app.resq.club
 app.reuters.com
@@ -1364,7 +1370,6 @@ app.vitruvian.me
 app.voice.football
 app.vurse.com
 app.vyaparapp.in
-app.w3w.io
 app.waybetter.com
 app.well.co.uk
 app.what3words.com
@@ -1438,7 +1443,6 @@ applinks.fliplearn.com
 applinks.flybuys.com.au
 applinks.hotspot.travel
 applinks.laoshi.io
-applinks.makemytrip.com
 applinks.tarrakki.com
 applinks.truckersnearby.com
 applinks.xdressr.com
@@ -1747,9 +1751,7 @@ circle.pandasuite.io
 citizenship.quantresear.ch
 cl.inhaabit.com
 click-staging.getdreams.co
-click-testing.moselo.com
 click.glocurrency.com
-click.moselo.com
 click.pockee.com
 click.signaturemarket.co
 clicks.exploreshackle.app
@@ -1985,7 +1987,6 @@ download.ibuzza.net
 download.innit.com
 download.joingofree.com
 download.kesh5.co.il
-download.klarsmile.app
 download.kuailefun.com
 download.milkpot.com
 download.parkunload.com
@@ -2153,6 +2154,7 @@ get.oneatwork.app
 get.openph.one
 get.oshp.io
 get.peoople.app
+get.peoople.co
 get.playshiftboy.com
 get.plural.com
 get.prapo.com
@@ -2164,7 +2166,6 @@ get.pslove.dev
 get.pulsega.me
 get.qapital.com
 get.recolor.info
-get.revolut.com
 get.reward.me
 get.riyazapp.com
 get.roomiapp.com
@@ -2195,7 +2196,6 @@ get.venmo.com
 get.vent.co
 get.vero.co
 get.vida.co
-get.videokits.com
 get.viggo.com
 get.viggo.energy
 get.watchcat.app
@@ -2203,6 +2203,7 @@ get.wawa.games
 get.weme.sh
 get.wemoms.com
 get.wishmindr.com
+get.wishup.co
 get.wyndy.com
 get.wysa.uk
 get.yugengamers.com
@@ -2330,7 +2331,6 @@ go.homepass.com
 go.hongkong.innovatedating.com
 go.hongkongcupid.date
 go.huterra.com
-go.ibi.bo
 go.indo.innovatedating.com
 go.indonesiacupid.co
 go.insight.tv
@@ -2424,13 +2424,11 @@ go.qantaswellbeing.com
 go.queer.ignite.technology
 go.rakuten.com
 go.rate.sh
-go.ratengoods.com
 go.real.co
 go.russia.innovatedating.com
 go.rzr.to
 go.saudiarabia.innovatedating.com
 go.seniorppl.mingle.com
-go.shokshak.com
 go.shop.app
 go.shoppremiumoutlets.com
 go.sirved.com
@@ -2577,6 +2575,7 @@ in.invitd.us
 in.upipr.co
 influencer.picklebutnotcucumber.com
 inform.fsm.kz
+inhouse.link.snapfeet.io
 install.ibeor.com
 install.mushroomgui.de
 install.ottoradio.com
@@ -2625,6 +2624,7 @@ invite.supersonic.run
 invite.traktivity.com
 invite.trueteams.co
 invite.urbanclap.com
+invite.wizzy.app
 invite.youmail.com
 io.piupiu.io
 iob.imgur.com
@@ -2824,6 +2824,7 @@ link.app.medintegral.es
 link.app.notab.com
 link.appewa.com
 link.ascension-app.com
+link.atbaki.com
 link.atlys.com
 link.augmentedreality.jlg.com
 link.auraframes.com
@@ -2832,7 +2833,6 @@ link.avenue.us
 link.axshealthapp.com
 link.babyquip.com
 link.baliapp.com
-link.bazery.com
 link.beebs.app
 link.beforekick.com
 link.beforespring.com
@@ -2847,6 +2847,7 @@ link.bolsanelo.com.br
 link.booknet.com
 link.booknet.ua
 link.booksy.com
+link.boost.fit
 link.bounty.com
 link.brottsplats-app.se
 link.btl.vin
@@ -3266,6 +3267,7 @@ link.wakatoon.com
 link.walem.io
 link.wappiter.com
 link.wazirx.com
+link.wb.rewardgateway.com
 link.wearecauli.com
 link.weepec.com
 link.wefish.app
@@ -3300,6 +3302,7 @@ linkortdev.insights.md
 linkprod.sprive.com
 links-dev.letzbig.com
 links-dev.seed.co
+links.aclokey.com
 links.agoratix.com
 links.ahctv.com
 links.animalplanet.com
@@ -3423,6 +3426,7 @@ location.imsmetals.com
 login.e-ticket.co.jp
 lotte.myomee.com
 lp.egghead.link
+lpwlinks.mindtickle.com
 lub-links.eyecue.io
 lw.b.inhaabit.com
 m-t.topya.com
@@ -3655,6 +3659,7 @@ pirounakia.openapp.link
 pitapan.openapp.link
 pitatisisminis.openapp.link
 pittaking.openapp.link
+pixair.openapp.link
 pizzabeer.openapp.link
 pizzacamels.openapp.link
 pizzaexpress.openapp.link
@@ -3684,6 +3689,7 @@ poczta.happ.social
 pod.spoti.fi
 polis.openapp.link
 poll.pollinatepolls.com
+pontios.openapp.link
 pool.onjoyri.de
 pool.onjoyride.com
 pop3.happ.social
@@ -3700,7 +3706,6 @@ prismtest.epoise.com
 pro.jig.space
 pro.pokerup.net
 production-link-ccontact.focuscura.com
-promo.cafexapp.com
 promo.gogo.org.ua
 promo.roadie.com
 prunas.openapp.link
@@ -3777,6 +3782,7 @@ referrals.zunify.me
 rel-link.californiapsychics.com
 relay.happ.social
 remaxmetro369.myre.io
+reply.myhandwrite.com
 request.idangels.org
 review.openapp.link
 rewards-my.greateasternlife.com
@@ -3793,7 +3799,6 @@ rx.capsulecares.com
 s-t.topya.com
 s.brin.io
 s.chatie.ai
-s.grabble.com
 s.grigora.com
 s.imagica.ai
 s.jugnoo.in
@@ -3840,6 +3845,7 @@ share-local.sparemin.com
 share-staging.perchwell.com
 share-stg1.sparemin.com
 share-test.goswaggle.com
+share-test.joeyjoey.co
 share-test.tessie.com
 share-test.travelloapp.com
 share-test.usehamper.com
@@ -3893,6 +3899,7 @@ share.moonlightcake.com
 share.mooodek.com
 share.mzaalo.com
 share.nearpod.us
+share.nokioapp.com
 share.oneway.cab
 share.oppvenuz.com
 share.oyorooms.com
@@ -4104,6 +4111,7 @@ to.uptime.app
 tommys.openapp.link
 tongkhohangnhat.abphotos.link
 top3.inhaabit.com
+topmeat.openapp.link
 toto.pandasuite.io
 track.ivia.com
 transmissionapp.jacoblegrone.com
@@ -4145,6 +4153,7 @@ unsubscribe.openapp.link
 uptvmovies.uptv.com
 ur.b.inhaabit.com
 url.density.exchange
+url.wind.app
 us.app.puma.com
 use.fvr.to
 use.lunos.app
@@ -4190,7 +4199,6 @@ webtoons.naver.com
 welcome.pilot.ly
 wl.bl.frequentvalues.com.au
 won.wooribank.com
-wop-bio.ubiwhere.com
 worker-app-dev.buildforce.com
 worker-app-staging.buildforce.com
 worker-app.buildforce.com
@@ -4215,8 +4223,6 @@ your.tmro.me
 yummylink.funcapital.com
 z.inlist.com
 zelle.odencat.com
-zombieslayer-alternate.kano.link
-zombieslayer.kano.link
 app.brain.ly
 app.exercisetimer.net
 app.hirenodes.com

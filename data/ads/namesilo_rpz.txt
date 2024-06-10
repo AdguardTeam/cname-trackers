@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1717401607721        ; Serial
+           1718006407111        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -424,6 +424,7 @@ $TTL 300
 3440863.notifysrv.com CNAME .
 3442145.notifysrv.com CNAME .
 3447913.notifysrv.com CNAME .
+3451465.notifysrv.com CNAME .
 3453873.notifysrv.com CNAME .
 3454909.notifysrv.com CNAME .
 3456415.notifysrv.com CNAME .
@@ -484,6 +485,7 @@ $TTL 300
 3505119.notify6.com CNAME .
 3505123.notify6.com CNAME .
 3505123.notifysrv.com CNAME .
+3505127.notify6.com CNAME .
 3505135.notifysrv.com CNAME .
 3505139.notify6.com CNAME .
 3505141.notify6.com CNAME .
@@ -685,6 +687,7 @@ $TTL 300
 3710069.notify6.com CNAME .
 3710069.notifysrv.com CNAME .
 3710075.notify6.com CNAME .
+3714181.notifysrv.com CNAME .
 3715633.notifysrv.com CNAME .
 3717105.notify6.com CNAME .
 3717105.notifysrv.com CNAME .
@@ -899,6 +902,7 @@ $TTL 300
 4212982.notify6.com CNAME .
 4213112.notify6.com CNAME .
 4214522.notify6.com CNAME .
+4220540.notify6.com CNAME .
 4224486.notify6.com CNAME .
 4225290.notify6.com CNAME .
 4231372.notify6.com CNAME .
@@ -962,6 +966,7 @@ $TTL 300
 4668192.notify6.com CNAME .
 4680526.notify6.com CNAME .
 4682394.notify6.com CNAME .
+4694592.notify6.com CNAME .
 4735242.notify6.com CNAME .
 4743728.notify6.com CNAME .
 4794988.notify6.com CNAME .
@@ -1046,6 +1051,7 @@ a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
 a.advertrek.com CNAME .
 a.asvsm.com CNAME .
+a.b7q9v8z.com CNAME .
 a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
 a.etology.com CNAME .
@@ -1069,9 +1075,9 @@ admin.etology.com CNAME .
 admin.exoclick.com CNAME .
 admin.gettopple.com CNAME .
 admin.shafttraffic.com CNAME .
-admin.trafficbaron.com CNAME .
 admin.trafficfactory.com CNAME .
 adrepository.opoxv.com CNAME .
+ads.optimizesrv.com CNAME .
 api.adnation.com CNAME .
 api.datingclix.com CNAME .
 api.getblaze.app CNAME .
@@ -1222,6 +1228,7 @@ www.3231172.notify6.com CNAME .
 www.3243082.notifysrv.com CNAME .
 www.3254306.notifysrv.com CNAME .
 www.3270262.notifysrv.com CNAME .
+www.3352256.notify6.com CNAME .
 www.3410343.notify6.com CNAME .
 www.3466857.notify6.com CNAME .
 www.3466863.notify6.com CNAME .

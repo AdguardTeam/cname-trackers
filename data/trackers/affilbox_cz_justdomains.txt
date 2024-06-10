@@ -29,6 +29,7 @@ affil.domio.cz
 affil.dotykacka.cz
 affil.econea.cz
 affil.eshop-rychle.cz
+affil.finakademie.cz
 affil.fingood.cz
 affil.fit-pro.cz
 affil.gamlery.cz
@@ -185,6 +186,7 @@ affiliate.licit.cz
 affiliate.loveo.cz
 affiliate.luxor.cz
 affiliate.manvel.cz
+affiliate.marketingminer.com
 affiliate.martinreznicek.cz
 affiliate.milagro.cz
 affiliate.mobilniplatby.cz
@@ -754,6 +756,7 @@ partneri.intimfitness.cz
 partneri.jakofenix.cz
 partneri.jazykovedarky.cz
 partneri.jazykyodpiky.cz
+partneri.jrc.cz
 partneri.keramika-dum.cz
 partneri.kerasek.cz
 partneri.kimgroup.cz
@@ -895,6 +898,7 @@ spoluprace.prostor8.cz
 spoluprace.sikland.cz
 spoluprace.terrapotheka.cz
 spoluprace.vcelarstvi-domovina.cz
+spoluprace.vivobarefoot.cz
 vydelavejtesnami.pg.cz
 www.affilbox.mironet.cz
 www.affilo.cz

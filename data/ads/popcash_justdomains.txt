@@ -984,6 +984,7 @@ tiglon.davidroessli.com
 toad.ettiennevorster.co.za
 toucan.ateliermilky.com
 toucan.the-faithful.com
+treefrog.buyinsulin.com
 treefrog.kaffeknappen.no
 treefrog.tschmeisser.com
 trout.batzo.net
@@ -1043,7 +1044,6 @@ wildebeest.soft-spoken.dev
 wildebeest.trigo.dev
 wildfowl.minter.io
 wolf.idthompson.com
-wolf.minecraftserverhosts.com
 wolf.samarasousa.com
 wolverine.barac.at
 wolverine.jhdierenklinieken.nl

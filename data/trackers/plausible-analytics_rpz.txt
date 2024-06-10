@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1717401607721        ; Serial
+           1718006407111        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,7 +13,6 @@ $TTL 300
 
 a-api.skz.dev CNAME .
 a.aawp.de CNAME .
-a.easyazon.com CNAME .
 a.iiro.dev CNAME .
 a.linkz.ai CNAME .
 also.greatsecuritydebate.net CNAME .
@@ -330,7 +329,6 @@ sp.wvoil.com CNAME .
 st.anastasija.lt CNAME .
 st.picshuffle.com CNAME .
 st.preciousamber.com CNAME .
-st.sheebamagazine.com CNAME .
 st.tulastudio.se CNAME .
 starman.floorcleanse.co.uk CNAME .
 stat.bill.harding.blog CNAME .
@@ -891,7 +889,6 @@ tock.weg.plus CNAME .
 track.slickinbox.com CNAME .
 traffic.hostedstatus.page CNAME .
 traffic.taktikal.is CNAME .
-tree.indot.nl CNAME .
 triton.companyegg.com CNAME .
 varys.asongofzandc.xyz CNAME .
 views.emikajewelry.com CNAME .

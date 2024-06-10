@@ -8,7 +8,6 @@ data.decathlon.es
 data.decathlon.fr
 data.decathlon.it
 data.decathlon.pl
-data.ouigo.com
 data.ricaud.com
 data.ubi.com
 data.wptag.net
@@ -21,4 +20,5 @@ tc.europcar.com.au
 tc.europcar.de
 tcdata.fnac.com
 configure.adlermode.com
+data.ouigo.com
 tag.boulanger.fr

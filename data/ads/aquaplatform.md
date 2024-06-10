@@ -1,0 +1,153 @@
+# Tracker: Aquaplatform
+
+## Disguised trackers list
+
+* aquaplatform.com
+    * adbility-delivery.aquaplatform.com
+    * ammoland-delivery.aquaplatform.com
+    * artionet-delivery.aquaplatform.com
+    * atg-delivery.aquaplatform.com
+    * bioverlag-delivery.aquaplatform.com
+    * bioverlag-static.aquaplatform.com
+    * cambridge-delivery.aquaplatform.com
+    * ceramics-delivery.aquaplatform.com
+    * consulcesi-delivery.aquaplatform.com
+    * creamer-delivery.aquaplatform.com
+    * datateam-delivery.aquaplatform.com
+    * el-delivery.aquaplatform.com
+    * el-static.aquaplatform.com
+    * faithlife-delivery.aquaplatform.com
+    * famag-delivery.aquaplatform.com
+    * geenstijl-delivery.aquaplatform.com
+    * geodelivery.aquaplatform.com
+    * goldseek-delivery.aquaplatform.com
+    * hourmedia-delivery.aquaplatform.com
+    * hourmedia-static.aquaplatform.com
+    * im-delivery.aquaplatform.com
+    * lb-delivery.aquaplatform.com
+    * livingmag-delivery.aquaplatform.com
+    * localmatchmaker-delivery.aquaplatform.com
+    * localmatchmaker-static.aquaplatform.com
+    * mannix-delivery.aquaplatform.com
+    * mannix-static.aquaplatform.com
+    * mequoda-delivery.aquaplatform.com
+    * midtc2-delivery.aquaplatform.com
+    * midtc4-delivery.aquaplatform.com
+    * mondiale-delivery.aquaplatform.com
+    * myadsmyanmar-delivery.aquaplatform.com
+    * myadsmyanmar-static.aquaplatform.com
+    * oneboat-delivery.aquaplatform.com
+    * personare-delivery.aquaplatform.com
+    * personare-static.aquaplatform.com
+    * platformiq-cdn.aquaplatform.com
+    * platformiq-del.aquaplatform.com
+    * proxibid-delivery.aquaplatform.com
+    * proxibid-static.aquaplatform.com
+    * ptp-delivery.aquaplatform.com
+    * ptp-static.aquaplatform.com
+    * reservoir.aquaplatform.com
+    * revivehosted-delivery.aquaplatform.com
+    * revivehosted-static.aquaplatform.com
+    * ridgewood-delivery.aquaplatform.com
+    * sacomm-delivery.aquaplatform.com
+    * sonicplug-delivery.aquaplatform.com
+    * sonicplug-static.aquaplatform.com
+    * t101-delivery.aquaplatform.com
+    * t101-static.aquaplatform.com
+    * tfn-delivery.aquaplatform.com
+    * tfn-static.aquaplatform.com
+    * unionesarda-delivery.aquaplatform.com
+    * unionesarda-static.aquaplatform.com
+    * viasat-delivery.aquaplatform.com
+    * worldscreen-delivery.aquaplatform.com
+    * wwoz-delivery.aquaplatform.com
+
+## Cloaking domains
+
+| Disguise | Tracker |
+| ---- | ---- |
+| servedby.adbility-media.com | adbility-delivery.aquaplatform.com |
+| servedby.ammoland.com | ammoland-delivery.aquaplatform.com |
+| ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
+| ads.worldofshowjumping.com | artionet-delivery.aquaplatform.com |
+| ads.lot-tissimo.com | atg-delivery.aquaplatform.com |
+| servedby.biohandel.de | bioverlag-delivery.aquaplatform.com |
+| servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |
+| static.biohandel.de | bioverlag-static.aquaplatform.com |
+| static.schrotundkorn.de | bioverlag-static.aquaplatform.com |
+| coreads.cambridge.org | cambridge-delivery.aquaplatform.com |
+| servedby.ceramicartsnetwork.org | ceramics-delivery.aquaplatform.com |
+| adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
+| servedby.engineeringnews.co.za | creamer-delivery.aquaplatform.com |
+| servedby.miningweekly.com | creamer-delivery.aquaplatform.com |
+| servedby.polity.org.za | creamer-delivery.aquaplatform.com |
+| ads.datateam.co.uk | datateam-delivery.aquaplatform.com |
+| ads.environmentalleader.com | el-delivery.aquaplatform.com |
+| static.environmentalleader.com | el-static.aquaplatform.com |
+| serve.faithlifeads.com | faithlife-delivery.aquaplatform.com |
+| adserver.fa-mag.com | famag-delivery.aquaplatform.com |
+| lalala.geenstijl.nl | geenstijl-delivery.aquaplatform.com |
+| adserver.kozoom.com | geodelivery.aquaplatform.com |
+| servedby.aqua-adserver.com | geodelivery.aquaplatform.com |
+| servedby.quirks.com | geodelivery.aquaplatform.com |
+| advertising.goldseek.com | goldseek-delivery.aquaplatform.com |
+| servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
+| banners.orangecoast.com | hourmedia-static.aquaplatform.com |
+| servedby.insideradverts.com | im-delivery.aquaplatform.com |
+| banners.leightonbroadcasting.com | lb-delivery.aquaplatform.com |
+| servedby.livingmagonline.com | livingmag-delivery.aquaplatform.com |
+| servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
+| cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
+| servedby.mannixmarketing.com | mannix-delivery.aquaplatform.com |
+| static.mannixmarketing.com | mannix-static.aquaplatform.com |
+| ox.mequoda.com | mequoda-delivery.aquaplatform.com |
+| championads.midtc.com | midtc2-delivery.aquaplatform.com |
+| adamsads.midtc.com | midtc4-delivery.aquaplatform.com |
+| openx.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
+| servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
+| servedby.myadsmyanmar.com | myadsmyanmar-delivery.aquaplatform.com |
+| cdn.myadsmyanmar.com | myadsmyanmar-static.aquaplatform.com |
+| servedby.everythingnevada.com | oneboat-delivery.aquaplatform.com |
+| servedby.imagineobx.com | oneboat-delivery.aquaplatform.com |
+| servedby.tahoe.com | oneboat-delivery.aquaplatform.com |
+| servedby.personare.com.br | personare-delivery.aquaplatform.com |
+| cdn.personare.com.br | personare-static.aquaplatform.com |
+| assets.lintigroup.se | platformiq-cdn.aquaplatform.com |
+| images.informatm.com | platformiq-cdn.aquaplatform.com |
+| adserver.infotorg.se | platformiq-del.aquaplatform.com |
+| adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
+| adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
+| proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
+| servedby.lintigroup.se | platformiq-del.aquaplatform.com |
+| servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |
+| servedby.reviveservers.com | platformiq-del.aquaplatform.com |
+| xtraa-secure.reviveservers.com | platformiq-del.aquaplatform.com |
+| ads.bidspotter.co.uk | proxibid-delivery.aquaplatform.com |
+| ads.i-bidder.com | proxibid-delivery.aquaplatform.com |
+| ads.proxibid.com | proxibid-delivery.aquaplatform.com |
+| ads.the-saleroom.com | proxibid-delivery.aquaplatform.com |
+| static.proxibid.com | proxibid-static.aquaplatform.com |
+| ads.xtra.ca | ptp-delivery.aquaplatform.com |
+| servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |
+| cdn.pinktriangle.ca | ptp-static.aquaplatform.com |
+| static.aqua-adserver.com | reservoir.aquaplatform.com |
+| adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
+| servedby.cricketworld.com | revivehosted-delivery.aquaplatform.com |
+| servedby.revive-adserver.net | revivehosted-delivery.aquaplatform.com |
+| adimages.eva.live | revivehosted-static.aquaplatform.com |
+| adimages.sniffies.com | revivehosted-static.aquaplatform.com |
+| cdn.revive-adserver.net | revivehosted-static.aquaplatform.com |
+| images.cricketworld.com | revivehosted-static.aquaplatform.com |
+| servedby.pppmag.com | ridgewood-delivery.aquaplatform.com |
+| servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |
+| adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
+| static.sonicplug.com | sonicplug-static.aquaplatform.com |
+| ads.recon.com | t101-delivery.aquaplatform.com |
+| ads-static.recon.com | t101-static.aquaplatform.com |
+| servedby.trackandfieldnews.com | tfn-delivery.aquaplatform.com |
+| static.trackandfieldnews.com | tfn-static.aquaplatform.com |
+| adv.unionesarda.it | unionesarda-delivery.aquaplatform.com |
+| cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
+| server.ad.logic-prod.viasat.io | viasat-delivery.aquaplatform.com |
+| revive.worldscreen.com | worldscreen-delivery.aquaplatform.com |
+| treehouse.wwoz.org | wwoz-delivery.aquaplatform.com |

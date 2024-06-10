@@ -108,6 +108,7 @@
 ||data-0d9eff53aa.kuhn-fachmedien.de^
 ||data-0dc128409f.watchtime.net^
 ||data-0de2e36f03.nitro-tv.de^
+||data-0e160b5dfc.apps.iocnt.de^
 ||data-0e1ca78ad4.rw-textilservice.de^
 ||data-0e6bbb5192.bibkat.de^
 ||data-0e6bbb5192.eopac.net^
@@ -991,7 +992,6 @@
 ||data-706868203b.partytimer.at^
 ||data-707aff899d.bildderfrau.de^
 ||data-707aff899d.donna-magazin.de^
-||data-707aff899d.funke-lifestyle.de^
 ||data-707aff899d.funke.fun^
 ||data-707aff899d.myself.de^
 ||data-70f37c510a.jobs-im-suedwesten.de^
@@ -1058,6 +1058,7 @@
 ||data-7c0fd2a117.meinenzkreis.de^
 ||data-7c0fd2a117.pz-news.de^
 ||data-7c0fd2a117.pz-nightlife.de^
+||data-7c4521058c.apps.iocnt.de^
 ||data-7db347bc87.meinprospekt.de^
 ||data-7dd74630af.lecker.de^
 ||data-7de4e2b45e.zfk.de^
@@ -1982,6 +1983,7 @@
 ||data-ef8760a9b2.fraenkische-rezepte.de^
 ||data-ef8760a9b2.infranken.de^
 ||data-effb03adae.apps.iocnt.de^
+||data-f00aa2a607.dienews.net^
 ||data-f03c9f2339.jolie.de^
 ||data-f06c8efc81.fitforfun.de^
 ||data-f0a1fa7abc.cinestar.de^

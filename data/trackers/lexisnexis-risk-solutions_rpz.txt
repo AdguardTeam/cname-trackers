@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1717401607721        ; Serial
+           1718006407111        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -66,6 +66,7 @@ cda.thecardservicescenter.com CNAME .
 cdle-prof.clouduim.cdle.state.co.us CNAME .
 cdn-content.bmtx.com CNAME .
 cdn-east.purchase.goto.com CNAME .
+cdn-f.gr4vy.com CNAME .
 cdn-ln.ozk.com CNAME .
 cdn-lntmps.mintmobile.com CNAME .
 cdn-lntmps.ultramobile.com CNAME .
@@ -261,6 +262,7 @@ content.mabanquepro.bnpparibas CNAME .
 content.marks.com CNAME .
 content.massmutual.com CNAME .
 content.maxconnector.com CNAME .
+content.mdeferred-payment.sevenbank.co.jp CNAME .
 content.moneza.ru CNAME .
 content.moni.com.ar CNAME .
 content.my100bank.com CNAME .
@@ -634,6 +636,7 @@ plr.scb-payments.net CNAME .
 pn1927.coutts.com CNAME .
 pn1927.couttscrowndependencies.com CNAME .
 pn1927.natwestplus.com CNAME .
+portal-fp-idev.qa.threatmetrix.com CNAME .
 portal-fp-qa1.qa.threatmetrix.com CNAME .
 portal-fp-qa2.qa.threatmetrix.com CNAME .
 portal-fp-qaperf2.qa.threatmetrix.com CNAME .
@@ -792,6 +795,7 @@ solstice.ibotta.com CNAME .
 sptbb.pilates.com CNAME .
 src.ebay-us.com CNAME .
 src0.myvoffice.com CNAME .
+srv.squaretrade.co.jp CNAME .
 srv.squaretrade.co.uk CNAME .
 srv.squaretrade.com CNAME .
 srv.squaretrade.com.au CNAME .

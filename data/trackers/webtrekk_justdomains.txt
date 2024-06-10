@@ -33,7 +33,6 @@ tracking.tchibo.de
 tracking.tchibo.hu
 tracking.tchibo.pl
 tracking.tchibo.sk
-trk.nuernberger.de
 w3.flatex.es
 w3.flatex.nl
 wbtrkk.teufelaudio.co.uk
@@ -235,6 +234,7 @@ tr.suedkurier.de
 trail-001.schleich-s.com
 trk.blume2000.de
 trk.krebsversicherung.de
+trk.nuernberger.de
 trk.nuernberger.digital
 w.ilfattoquotidiano.it
 w3.aktionaersbank.de
@@ -269,6 +269,7 @@ web.bankofscotland.de
 web.campaign.jaked.com
 web.campaign.miriade.com
 web.campaign.v73.it
+web.capriceshoes.com
 web.collisionservices.com
 web.communications.amouage.com
 web.comunicazioni.iol.it
@@ -321,7 +322,6 @@ web.mapp.whiteaway.com
 web.mapp.whiteaway.no
 web.mapp.whiteaway.se
 web.marcotozzi.com
-web.marketing.elbenwald.de
 web.marketing.jellybelly.com
 web.mytoys.de
 web.news.creedfragrances.co.uk

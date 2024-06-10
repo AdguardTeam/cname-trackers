@@ -88,7 +88,6 @@
 | hruk.prikupok.com | api.clickaine.com |
 | hruk.prikupok.icu | api.clickaine.com |
 | icn.brandnewapp.pro | api.clickaine.com |
-| images.savetiknowm.org | api.clickaine.com |
 | jg1.trypicz.com | api.clickaine.com |
 | jg3.trypicz.com | api.clickaine.com |
 | jpnj.hotpornfile.org | api.clickaine.com |

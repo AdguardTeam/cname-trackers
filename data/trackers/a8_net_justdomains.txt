@@ -769,6 +769,7 @@ a8cv.auhikari-bykddi.com
 a8cv.b-concept.tokyo
 a8cv.b-noix.jp
 a8cv.babybjorn.jp
+a8cv.bag-repair.pro
 a8cv.baku-art.jp
 a8cv.balanslab.jp
 a8cv.bb-internet-qsyu.net
@@ -1212,6 +1213,7 @@ a8cv.toushi-up.com
 a8cv.toybox-mnr.com
 a8cv.toysub.net
 a8cv.treasure-f.com
+a8cv.ulp-kyoto.jp
 a8cv.unias.jp
 a8cv.unico-fan.co.jp
 a8cv.untenmenkyo-yi.com
@@ -1540,7 +1542,6 @@ trcka8net.glens.jp
 trcka8net.irobot-jp.com
 trcka8net.lenszero.com
 trcka8net.qieto.net
-web.air-entry.com
 web.collaboration-access.com
 web.hikari-biglobe.com
 web.hikari-ocn.com

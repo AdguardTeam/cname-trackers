@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1717401607721        ; Serial
+           1718006407111        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -119,6 +119,7 @@ data-0d5230f0d5.tvmovie.de CNAME .
 data-0d9eff53aa.kuhn-fachmedien.de CNAME .
 data-0dc128409f.watchtime.net CNAME .
 data-0de2e36f03.nitro-tv.de CNAME .
+data-0e160b5dfc.apps.iocnt.de CNAME .
 data-0e1ca78ad4.rw-textilservice.de CNAME .
 data-0e6bbb5192.bibkat.de CNAME .
 data-0e6bbb5192.eopac.net CNAME .
@@ -1002,7 +1003,6 @@ data-7023b17a38.weiden24.de CNAME .
 data-706868203b.partytimer.at CNAME .
 data-707aff899d.bildderfrau.de CNAME .
 data-707aff899d.donna-magazin.de CNAME .
-data-707aff899d.funke-lifestyle.de CNAME .
 data-707aff899d.funke.fun CNAME .
 data-707aff899d.myself.de CNAME .
 data-70f37c510a.jobs-im-suedwesten.de CNAME .
@@ -1069,6 +1069,7 @@ data-7bd40aa49e.laendleimmo.at CNAME .
 data-7c0fd2a117.meinenzkreis.de CNAME .
 data-7c0fd2a117.pz-news.de CNAME .
 data-7c0fd2a117.pz-nightlife.de CNAME .
+data-7c4521058c.apps.iocnt.de CNAME .
 data-7db347bc87.meinprospekt.de CNAME .
 data-7dd74630af.lecker.de CNAME .
 data-7de4e2b45e.zfk.de CNAME .
@@ -1993,6 +1994,7 @@ data-ef805f6034.apps.iocnt.de CNAME .
 data-ef8760a9b2.fraenkische-rezepte.de CNAME .
 data-ef8760a9b2.infranken.de CNAME .
 data-effb03adae.apps.iocnt.de CNAME .
+data-f00aa2a607.dienews.net CNAME .
 data-f03c9f2339.jolie.de CNAME .
 data-f06c8efc81.fitforfun.de CNAME .
 data-f0a1fa7abc.cinestar.de CNAME .

@@ -222,7 +222,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -306,7 +305,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -493,6 +491,7 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
+    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -730,7 +729,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -889,7 +887,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1162,6 +1159,7 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
+| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |
