@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -57,7 +57,6 @@ activate.prosoccerusa.com CNAME .
 activate.ramonasentinel.com CNAME .
 activate.ranchosantafereview.com CNAME .
 activate.redeyechicago.com CNAME .
-activate.sandiegouniontribune.com CNAME .
 activate.shopjustice.com CNAME .
 activate.southflorida.com CNAME .
 activate.sun-sentinel.com CNAME .
@@ -76,6 +75,7 @@ agility.cnn.com CNAME .
 agility.cnvrm.com CNAME .
 agility.nba.com CNAME .
 agility.ncaa.com CNAME .
+agility.staples-solutions.com CNAME .
 agility.tbs.com CNAME .
 agility.tcm.com CNAME .
 agility.tntdrama.com CNAME .

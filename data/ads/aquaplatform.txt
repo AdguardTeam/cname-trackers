@@ -3,6 +3,7 @@
 ||adamsads.midtc.com^
 ||adimages.eva.live^
 ||adimages.sniffies.com^
+||ads-delivery.milenarmedia.pt^
 ||ads-static.recon.com^
 ||ads.bidspotter.co.uk^
 ||ads.datateam.co.uk^
@@ -29,12 +30,14 @@
 ||banners.leightonbroadcasting.com^
 ||banners.orangecoast.com^
 ||cdn-adv.unionesarda.it^
+||cdn.datateam.co.uk^
 ||cdn.myadsmyanmar.com^
 ||cdn.personare.com.br^
 ||cdn.pinktriangle.ca^
 ||cdn.revive-adserver.net^
 ||cdn.rlnads.net^
 ||championads.midtc.com^
+||console.informingnews.com^
 ||coreads.cambridge.org^
 ||images.cricketworld.com^
 ||images.informatm.com^
@@ -49,10 +52,12 @@
 ||servedby.aqua-adserver.com^
 ||servedby.biohandel.de^
 ||servedby.ceramicartsnetwork.org^
+||servedby.cincinnatimagazine.com^
 ||servedby.cricketworld.com^
 ||servedby.engineeringnews.co.za^
 ||servedby.everythingnevada.com^
 ||servedby.geminipub.com^
+||servedby.hlipublishing.com^
 ||servedby.imagineobx.com^
 ||servedby.insideradverts.com^
 ||servedby.lintigroup.se^
@@ -77,6 +82,7 @@
 ||server.ad.logic-prod.viasat.io^
 ||static.aqua-adserver.com^
 ||static.biohandel.de^
+||static.consulcesi.it^
 ||static.environmentalleader.com^
 ||static.mannixmarketing.com^
 ||static.proxibid.com^

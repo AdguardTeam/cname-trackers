@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 adamsads.midtc.com CNAME .
 adimages.eva.live CNAME .
 adimages.sniffies.com CNAME .
+ads-delivery.milenarmedia.pt CNAME .
 ads-static.recon.com CNAME .
 ads.bidspotter.co.uk CNAME .
 ads.datateam.co.uk CNAME .
@@ -40,12 +41,14 @@ assets.lintigroup.se CNAME .
 banners.leightonbroadcasting.com CNAME .
 banners.orangecoast.com CNAME .
 cdn-adv.unionesarda.it CNAME .
+cdn.datateam.co.uk CNAME .
 cdn.myadsmyanmar.com CNAME .
 cdn.personare.com.br CNAME .
 cdn.pinktriangle.ca CNAME .
 cdn.revive-adserver.net CNAME .
 cdn.rlnads.net CNAME .
 championads.midtc.com CNAME .
+console.informingnews.com CNAME .
 coreads.cambridge.org CNAME .
 images.cricketworld.com CNAME .
 images.informatm.com CNAME .
@@ -60,10 +63,12 @@ servedby.ammoland.com CNAME .
 servedby.aqua-adserver.com CNAME .
 servedby.biohandel.de CNAME .
 servedby.ceramicartsnetwork.org CNAME .
+servedby.cincinnatimagazine.com CNAME .
 servedby.cricketworld.com CNAME .
 servedby.engineeringnews.co.za CNAME .
 servedby.everythingnevada.com CNAME .
 servedby.geminipub.com CNAME .
+servedby.hlipublishing.com CNAME .
 servedby.imagineobx.com CNAME .
 servedby.insideradverts.com CNAME .
 servedby.lintigroup.se CNAME .
@@ -88,6 +93,7 @@ servedby.trackandfieldnews.com CNAME .
 server.ad.logic-prod.viasat.io CNAME .
 static.aqua-adserver.com CNAME .
 static.biohandel.de CNAME .
+static.consulcesi.it CNAME .
 static.environmentalleader.com CNAME .
 static.mannixmarketing.com CNAME .
 static.proxibid.com CNAME .

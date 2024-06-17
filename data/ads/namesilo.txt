@@ -305,6 +305,7 @@
 ||3349680.notify6.com^
 ||3351068.notify6.com^
 ||3351068.notifysrv.com^
+||3351072.notify6.com^
 ||3351072.notifysrv.com^
 ||3351914.notifysrv.com^
 ||3352256.notify6.com^
@@ -567,6 +568,7 @@
 ||3572299.notifysrv.com^
 ||3572303.notifysrv.com^
 ||3572904.notifysrv.com^
+||3576531.notifysrv.com^
 ||3576907.notifysrv.com^
 ||3578231.notify6.com^
 ||3578235.notify6.com^
@@ -732,6 +734,7 @@
 ||3858841.notify6.com^
 ||3869256.notifysrv.com^
 ||3869316.notify6.com^
+||3869316.notifysrv.com^
 ||3869376.notify6.com^
 ||3869462.notify6.com^
 ||3869504.notify6.com^
@@ -872,6 +875,7 @@
 ||4162032.notify6.com^
 ||4162254.notify6.com^
 ||4162256.notify6.com^
+||4162264.notify6.com^
 ||4166040.notify6.com^
 ||4173044.notify6.com^
 ||4177784.notify6.com^
@@ -1004,12 +1008,14 @@
 ||4960922.notify6.com^
 ||4983200.notify6.com^
 ||4983282.notify6.com^
+||5077248.notify6.com^
 ||5085594.notify6.com^
 ||5111734.notify6.com^
 ||5114166.notify6.com^
 ||5121952.notify6.com^
 ||5132062.notify6.com^
 ||5153152.notify6.com^
+||5276648.notify6.com^
 ||5296856.notify6.com^
 ||535.notify.optimizesrv.com^
 ||5602.notify.optimizesrv.com^
@@ -1041,7 +1047,6 @@
 ||a.advertrek.com^
 ||a.asvsm.com^
 ||a.b7q9v8z.com^
-||a.bizonads-ssp.com^
 ||a.cant3am.com^
 ||a.etology.com^
 ||a.eunow4u.com^
@@ -1066,7 +1071,6 @@
 ||admin.shafttraffic.com^
 ||admin.trafficfactory.com^
 ||adrepository.opoxv.com^
-||ads.optimizesrv.com^
 ||api.adnation.com^
 ||api.datingclix.com^
 ||api.getblaze.app^
@@ -1113,7 +1117,9 @@
 ||s.elna1x.com^
 ||s.elnb21.com^
 ||s.elnb22.com^
+||s.elnc34.com^
 ||s.elnc35.com^
+||s.elnc36.com^
 ||s.elnk4b.com^
 ||s.elnk4d.com^
 ||s.elnk90.com^
@@ -1235,3 +1241,5 @@
 ||www.notify.bizonads-ssp.com^
 ||www.notify6.com^
 ||www.notifysrv.com^
+||a.bizonads-ssp.com^
+||ads.optimizesrv.com^

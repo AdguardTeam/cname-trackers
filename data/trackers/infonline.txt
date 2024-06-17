@@ -668,7 +668,6 @@
 ||data-49aef6b58e.shapeup-business.de^
 ||data-49bb023f99.finanznachrichten.de^
 ||data-49dc40e643.onvista.de^
-||data-4a575dad18.hamburgerimmobilien.de^
 ||data-4a5f71b500.highlight-web.de^
 ||data-4aed862c71.apps.iocnt.de^
 ||data-4b48d22435.kommune21.de^
@@ -807,7 +806,6 @@
 ||data-5dd8125a5b.gofeminin.de^
 ||data-5e25716aa5.apps.iocnt.de^
 ||data-5e5ac4ec65.menshealth.de^
-||data-5eb3b7b86d.hamburgerimmobilien.de^
 ||data-5ec2d41a8f.radiowestfalica.de^
 ||data-5f1c477bee.apps.iocnt.de^
 ||data-5f67d653dd.si-shk.de^
@@ -845,6 +843,7 @@
 ||data-60d896f23d.radio.pt^
 ||data-60d896f23d.radio.se^
 ||data-60d896f23d.reisereporter.de^
+||data-60d896f23d.remszeitung.de^
 ||data-60d896f23d.rga.de^
 ||data-60d896f23d.rnd.de^
 ||data-60d896f23d.siegener-zeitung.de^
@@ -963,6 +962,7 @@
 ||data-6dde45f576.radio.pt^
 ||data-6dde45f576.radio.se^
 ||data-6dde45f576.reisereporter.de^
+||data-6dde45f576.remszeitung.de^
 ||data-6dde45f576.rga.de^
 ||data-6dde45f576.rnd.de^
 ||data-6dde45f576.siegener-zeitung.de^
@@ -1481,6 +1481,7 @@
 ||data-ad103030ce.apps.iocnt.de^
 ||data-ad2a62779c.prosiebenmaxx.at^
 ||data-ad8351f80c.outdoor-magazin.com^
+||data-ad9e701841.apps.iocnt.de^
 ||data-adb7e5fd38.pfennigparade.de^
 ||data-ade1ea328b.stylebook.de^
 ||data-ae2238eacd.apps.iocnt.de^

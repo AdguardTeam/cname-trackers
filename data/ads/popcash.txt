@@ -167,7 +167,6 @@
 ||angelfish.dpya.com^
 ||angelfish.grayscale.design^
 ||angelfish.shorehamlife.com^
-||angelfish.wpsocialrocket.com^
 ||anglerfish.luminfire.com^
 ||anglerfish.pfolios.net^
 ||ant.b13.com^
@@ -231,7 +230,6 @@
 ||bear.modulr.design^
 ||beaver.bluebunnypaper.com^
 ||beaver.livechatlabs.com^
-||bedbug.bragi.com^
 ||bee.andreawhitmer.com^
 ||bee.jbkmobiledj.com^
 ||bee.nfte.app^
@@ -747,7 +745,6 @@
 ||orangutan.equaliteam.com^
 ||orangutan.renovare.org^
 ||orca.getnodo.com^
-||orca.ic3.network^
 ||orca.overbold.co^
 ||ostrich.getschools.org^
 ||ostrich.hegic-tokenizer.co^

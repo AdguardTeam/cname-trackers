@@ -32,6 +32,7 @@
 | affi.veronikahronkova.cz | cz.affilbox.cz |
 | affil.alkohol.cz | cz.affilbox.cz |
 | affil.atan.cz | cz.affilbox.cz |
+| affil.audioteka.cz | cz.affilbox.cz |
 | affil.avenatura.sk | cz.affilbox.cz |
 | affil.bitdef.cz | cz.affilbox.cz |
 | affil.blaire.cz | cz.affilbox.cz |
@@ -52,6 +53,7 @@
 | affil.fingood.cz | cz.affilbox.cz |
 | affil.fit-pro.cz | cz.affilbox.cz |
 | affil.gamlery.cz | cz.affilbox.cz |
+| affil.gastrofans.cz | cz.affilbox.cz |
 | affil.hifimarket.cz | cz.affilbox.cz |
 | affil.hobbytec.cz | cz.affilbox.cz |
 | affil.jobsik.cz | cz.affilbox.cz |
@@ -106,6 +108,7 @@
 | affilbox.kvaskovanie.sk | cz.affilbox.cz |
 | affilbox.rondopartner.cz | cz.affilbox.cz |
 | affilbox.stygremvkleci.cz | cz.affilbox.cz |
+| affilbox.tikoki.com | cz.affilbox.cz |
 | affilbox.zdravedesiate.sk | cz.affilbox.cz |
 | affiliate.4fresh.cz | cz.affilbox.cz |
 | affiliate.a1m.cz | cz.affilbox.cz |
@@ -178,12 +181,14 @@
 | affiliate.horseandme.eu | cz.affilbox.cz |
 | affiliate.ihrelinsen.at | cz.affilbox.cz |
 | affiliate.inkytattoo.cz | cz.affilbox.cz |
+| affiliate.innone.cz | cz.affilbox.cz |
 | affiliate.isetos.cz | cz.affilbox.cz |
 | affiliate.ispace.cz | cz.affilbox.cz |
 | affiliate.jasnaznacka.cz | cz.affilbox.cz |
 | affiliate.jewstone.cz | cz.affilbox.cz |
 | affiliate.jidlojevasen.cz | cz.affilbox.cz |
 | affiliate.jiristibor.cz | cz.affilbox.cz |
+| affiliate.ketofit.cz | cz.affilbox.cz |
 | affiliate.ketofit.sk | cz.affilbox.cz |
 | affiliate.krmivopropsy.cz | cz.affilbox.cz |
 | affiliate.kurzy-liecenia.sk | cz.affilbox.cz |
@@ -243,6 +248,7 @@
 | affiliate.rajkratomu.cz | cz.affilbox.cz |
 | affiliate.reduccia.cz | cz.affilbox.cz |
 | affiliate.reponio.cz | cz.affilbox.cz |
+| affiliate.richardstepan.cz | cz.affilbox.cz |
 | affiliate.rixo.cz | cz.affilbox.cz |
 | affiliate.rustspolecne.cz | cz.affilbox.cz |
 | affiliate.sexshop.cz | cz.affilbox.cz |
@@ -252,7 +258,9 @@
 | affiliate.smarty.cz | cz.affilbox.cz |
 | affiliate.smsticket.cz | cz.affilbox.cz |
 | affiliate.snowbitch.cz | cz.affilbox.cz |
+| affiliate.socialsprinters.cz | cz.affilbox.cz |
 | affiliate.soscredit.cz | cz.affilbox.cz |
+| affiliate.sperkin.cz | cz.affilbox.cz |
 | affiliate.sportinator.cz | cz.affilbox.cz |
 | affiliate.stanislavamrazkova.cz | cz.affilbox.cz |
 | affiliate.stibio.cz | cz.affilbox.cz |
@@ -260,6 +268,7 @@
 | affiliate.studio51.team | cz.affilbox.cz |
 | affiliate.svarecky-obchod.cz | cz.affilbox.cz |
 | affiliate.svetbot.cz | cz.affilbox.cz |
+| affiliate.t6power.cz | cz.affilbox.cz |
 | affiliate.terarijni-potreby.cz | cz.affilbox.cz |
 | affiliate.topol.io | cz.affilbox.cz |
 | affiliate.trikator.cz | cz.affilbox.cz |
@@ -275,6 +284,7 @@
 | affiliate.vox.cz | cz.affilbox.cz |
 | affiliate.warriorfactory.cz | cz.affilbox.cz |
 | affiliate.wugi.cz | cz.affilbox.cz |
+| affiliate.xbx.cz | cz.affilbox.cz |
 | affiliate.zdraviafitness.cz | cz.affilbox.cz |
 | affiliate.zdravykos.cz | cz.affilbox.cz |
 | affiliateold.firma20.cz | cz.affilbox.cz |
@@ -497,6 +507,7 @@
 | partner.dailymix.cz | cz.affilbox.cz |
 | partner.dancahajkova.com | cz.affilbox.cz |
 | partner.danfil.cz | cz.affilbox.cz |
+| partner.darinapetrakova.cz | cz.affilbox.cz |
 | partner.denato.cz | cz.affilbox.cz |
 | partner.denato.fr | cz.affilbox.cz |
 | partner.denato.it | cz.affilbox.cz |
@@ -514,6 +525,7 @@
 | partner.domoveda.cz | cz.affilbox.cz |
 | partner.doplnse.cz | cz.affilbox.cz |
 | partner.dr-nek.cz | cz.affilbox.cz |
+| partner.dressibly.cz | cz.affilbox.cz |
 | partner.drfit.cz | cz.affilbox.cz |
 | partner.dripit.cz | cz.affilbox.cz |
 | partner.dynamikabohatstvi.cz | cz.affilbox.cz |
@@ -553,7 +565,6 @@
 | partner.hothousecucumber.com | cz.affilbox.cz |
 | partner.hubnu.online | cz.affilbox.cz |
 | partner.hubnutimarija.cz | cz.affilbox.cz |
-| partner.imrnous.cz | cz.affilbox.cz |
 | partner.investinslovakia.eu | cz.affilbox.cz |
 | partner.iodesign.cz | cz.affilbox.cz |
 | partner.ioznameni.cz | cz.affilbox.cz |
@@ -695,7 +706,6 @@
 | partner.tozax.sk | cz.affilbox.cz |
 | partner.tyano.cz | cz.affilbox.cz |
 | partner.umio.eu | cz.affilbox.cz |
-| partner.umio.sk | cz.affilbox.cz |
 | partner.unuo.de | cz.affilbox.cz |
 | partner.vataonline.cz | cz.affilbox.cz |
 | partner.vffoto.com | cz.affilbox.cz |

@@ -105,7 +105,6 @@
 | angelfish.dpya.com | deprecated-custom-domains.b-cdn.net |
 | angelfish.grayscale.design | deprecated-custom-domains.b-cdn.net |
 | angelfish.shorehamlife.com | deprecated-custom-domains.b-cdn.net |
-| angelfish.wpsocialrocket.com | deprecated-custom-domains.b-cdn.net |
 | anglerfish.luminfire.com | deprecated-custom-domains.b-cdn.net |
 | anglerfish.pfolios.net | deprecated-custom-domains.b-cdn.net |
 | ant.b13.com | deprecated-custom-domains.b-cdn.net |
@@ -169,7 +168,6 @@
 | bear.modulr.design | deprecated-custom-domains.b-cdn.net |
 | beaver.bluebunnypaper.com | deprecated-custom-domains.b-cdn.net |
 | beaver.livechatlabs.com | deprecated-custom-domains.b-cdn.net |
-| bedbug.bragi.com | deprecated-custom-domains.b-cdn.net |
 | bee.andreawhitmer.com | deprecated-custom-domains.b-cdn.net |
 | bee.jbkmobiledj.com | deprecated-custom-domains.b-cdn.net |
 | bee.nfte.app | deprecated-custom-domains.b-cdn.net |
@@ -685,7 +683,6 @@
 | orangutan.equaliteam.com | deprecated-custom-domains.b-cdn.net |
 | orangutan.renovare.org | deprecated-custom-domains.b-cdn.net |
 | orca.getnodo.com | deprecated-custom-domains.b-cdn.net |
-| orca.ic3.network | deprecated-custom-domains.b-cdn.net |
 | orca.overbold.co | deprecated-custom-domains.b-cdn.net |
 | ostrich.getschools.org | deprecated-custom-domains.b-cdn.net |
 | ostrich.hegic-tokenizer.co | deprecated-custom-domains.b-cdn.net |

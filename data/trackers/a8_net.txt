@@ -1133,7 +1133,6 @@
 ||a8cv.sanix.jp^
 ||a8cv.sankyo-fs.jp^
 ||a8cv.saraschool.net^
-||a8cv.sarastear.com^
 ||a8cv.scheeme.com^
 ||a8cv.se-navi.jp^
 ||a8cv.second-hand.jp^
@@ -1543,7 +1542,6 @@
 ||trcka8net.lenszero.com^
 ||trcka8net.qieto.net^
 ||web.collaboration-access.com^
-||web.hikari-biglobe.com^
 ||web.hikari-ocn.com^
 ||web.hikari-softbank.com^
 ||web.life-cw.com^

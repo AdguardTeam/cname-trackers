@@ -43,6 +43,7 @@
 | l.enfant.com | tls.non.li |
 | l.familiscope.fr | tls.non.li |
 | l.femmeactuelle.fr | tls.non.li |
+| l.fip.fr | tls.non.li |
 | l.franceantilles.fr | tls.non.li |
 | l.francebleu.fr | tls.non.li |
 | l.franceculture.fr | tls.non.li |
@@ -86,6 +87,7 @@
 | l.programme.tv | tls.non.li |
 | l.radiofrance.fr | tls.non.li |
 | l.rmc.fr | tls.non.li |
+| l.rmcsport.fr | tls.non.li |
 | l.sciencesetavenir.fr | tls.non.li |
 | l.sudouest.fr | tls.non.li |
 | l.tf1.fr | tls.non.li |

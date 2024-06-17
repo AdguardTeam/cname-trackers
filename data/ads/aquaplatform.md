@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * aquaplatform.com
+    * adaptigo-console.aquaplatform.com
     * adbility-delivery.aquaplatform.com
     * ammoland-delivery.aquaplatform.com
     * artionet-delivery.aquaplatform.com
@@ -12,8 +13,10 @@
     * cambridge-delivery.aquaplatform.com
     * ceramics-delivery.aquaplatform.com
     * consulcesi-delivery.aquaplatform.com
+    * consulcesi-static.aquaplatform.com
     * creamer-delivery.aquaplatform.com
     * datateam-delivery.aquaplatform.com
+    * datateam-static.aquaplatform.com
     * el-delivery.aquaplatform.com
     * el-static.aquaplatform.com
     * faithlife-delivery.aquaplatform.com
@@ -33,6 +36,7 @@
     * mequoda-delivery.aquaplatform.com
     * midtc2-delivery.aquaplatform.com
     * midtc4-delivery.aquaplatform.com
+    * milenar-delivery.aquaplatform.com
     * mondiale-delivery.aquaplatform.com
     * myadsmyanmar-delivery.aquaplatform.com
     * myadsmyanmar-static.aquaplatform.com
@@ -66,6 +70,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| console.informingnews.com | adaptigo-console.aquaplatform.com |
 | servedby.adbility-media.com | adbility-delivery.aquaplatform.com |
 | servedby.ammoland.com | ammoland-delivery.aquaplatform.com |
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
@@ -78,10 +83,12 @@
 | coreads.cambridge.org | cambridge-delivery.aquaplatform.com |
 | servedby.ceramicartsnetwork.org | ceramics-delivery.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
+| static.consulcesi.it | consulcesi-static.aquaplatform.com |
 | servedby.engineeringnews.co.za | creamer-delivery.aquaplatform.com |
 | servedby.miningweekly.com | creamer-delivery.aquaplatform.com |
 | servedby.polity.org.za | creamer-delivery.aquaplatform.com |
 | ads.datateam.co.uk | datateam-delivery.aquaplatform.com |
+| cdn.datateam.co.uk | datateam-static.aquaplatform.com |
 | ads.environmentalleader.com | el-delivery.aquaplatform.com |
 | static.environmentalleader.com | el-static.aquaplatform.com |
 | serve.faithlifeads.com | faithlife-delivery.aquaplatform.com |
@@ -91,6 +98,7 @@
 | servedby.aqua-adserver.com | geodelivery.aquaplatform.com |
 | servedby.quirks.com | geodelivery.aquaplatform.com |
 | advertising.goldseek.com | goldseek-delivery.aquaplatform.com |
+| servedby.cincinnatimagazine.com | hourmedia-delivery.aquaplatform.com |
 | servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | banners.orangecoast.com | hourmedia-static.aquaplatform.com |
 | servedby.insideradverts.com | im-delivery.aquaplatform.com |
@@ -103,6 +111,7 @@
 | ox.mequoda.com | mequoda-delivery.aquaplatform.com |
 | championads.midtc.com | midtc2-delivery.aquaplatform.com |
 | adamsads.midtc.com | midtc4-delivery.aquaplatform.com |
+| ads-delivery.milenarmedia.pt | milenar-delivery.aquaplatform.com |
 | openx.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.myadsmyanmar.com | myadsmyanmar-delivery.aquaplatform.com |
@@ -118,6 +127,7 @@
 | adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
+| servedby.hlipublishing.com | platformiq-del.aquaplatform.com |
 | servedby.lintigroup.se | platformiq-del.aquaplatform.com |
 | servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |
 | servedby.reviveservers.com | platformiq-del.aquaplatform.com |

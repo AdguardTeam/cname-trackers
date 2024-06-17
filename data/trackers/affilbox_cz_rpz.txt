@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ affi.nostressmama.cz CNAME .
 affi.veronikahronkova.cz CNAME .
 affil.alkohol.cz CNAME .
 affil.atan.cz CNAME .
+affil.audioteka.cz CNAME .
 affil.avenatura.sk CNAME .
 affil.bitdef.cz CNAME .
 affil.blaire.cz CNAME .
@@ -44,6 +45,7 @@ affil.finakademie.cz CNAME .
 affil.fingood.cz CNAME .
 affil.fit-pro.cz CNAME .
 affil.gamlery.cz CNAME .
+affil.gastrofans.cz CNAME .
 affil.hifimarket.cz CNAME .
 affil.hobbytec.cz CNAME .
 affil.jobsik.cz CNAME .
@@ -98,6 +100,7 @@ affilbox.kronikazivota.sk CNAME .
 affilbox.kvaskovanie.sk CNAME .
 affilbox.rondopartner.cz CNAME .
 affilbox.stygremvkleci.cz CNAME .
+affilbox.tikoki.com CNAME .
 affilbox.zdravedesiate.sk CNAME .
 affiliate.4fresh.cz CNAME .
 affiliate.a1m.cz CNAME .
@@ -170,12 +173,14 @@ affiliate.hokr.eu CNAME .
 affiliate.horseandme.eu CNAME .
 affiliate.ihrelinsen.at CNAME .
 affiliate.inkytattoo.cz CNAME .
+affiliate.innone.cz CNAME .
 affiliate.isetos.cz CNAME .
 affiliate.ispace.cz CNAME .
 affiliate.jasnaznacka.cz CNAME .
 affiliate.jewstone.cz CNAME .
 affiliate.jidlojevasen.cz CNAME .
 affiliate.jiristibor.cz CNAME .
+affiliate.ketofit.cz CNAME .
 affiliate.ketofit.sk CNAME .
 affiliate.krmivopropsy.cz CNAME .
 affiliate.kurzy-liecenia.sk CNAME .
@@ -235,6 +240,7 @@ affiliate.pt-shop.cz CNAME .
 affiliate.rajkratomu.cz CNAME .
 affiliate.reduccia.cz CNAME .
 affiliate.reponio.cz CNAME .
+affiliate.richardstepan.cz CNAME .
 affiliate.rixo.cz CNAME .
 affiliate.rustspolecne.cz CNAME .
 affiliate.sexshop.cz CNAME .
@@ -244,7 +250,9 @@ affiliate.sexshop51.sk CNAME .
 affiliate.smarty.cz CNAME .
 affiliate.smsticket.cz CNAME .
 affiliate.snowbitch.cz CNAME .
+affiliate.socialsprinters.cz CNAME .
 affiliate.soscredit.cz CNAME .
+affiliate.sperkin.cz CNAME .
 affiliate.sportinator.cz CNAME .
 affiliate.stanislavamrazkova.cz CNAME .
 affiliate.stibio.cz CNAME .
@@ -252,6 +260,7 @@ affiliate.stips.cz CNAME .
 affiliate.studio51.team CNAME .
 affiliate.svarecky-obchod.cz CNAME .
 affiliate.svetbot.cz CNAME .
+affiliate.t6power.cz CNAME .
 affiliate.terarijni-potreby.cz CNAME .
 affiliate.topol.io CNAME .
 affiliate.trikator.cz CNAME .
@@ -267,6 +276,7 @@ affiliate.vianio.com CNAME .
 affiliate.vox.cz CNAME .
 affiliate.warriorfactory.cz CNAME .
 affiliate.wugi.cz CNAME .
+affiliate.xbx.cz CNAME .
 affiliate.zdraviafitness.cz CNAME .
 affiliate.zdravykos.cz CNAME .
 affiliateold.firma20.cz CNAME .
@@ -489,6 +499,7 @@ partner.cukraszvilag.hu CNAME .
 partner.dailymix.cz CNAME .
 partner.dancahajkova.com CNAME .
 partner.danfil.cz CNAME .
+partner.darinapetrakova.cz CNAME .
 partner.denato.cz CNAME .
 partner.denato.fr CNAME .
 partner.denato.it CNAME .
@@ -506,6 +517,7 @@ partner.dometa.cz CNAME .
 partner.domoveda.cz CNAME .
 partner.doplnse.cz CNAME .
 partner.dr-nek.cz CNAME .
+partner.dressibly.cz CNAME .
 partner.drfit.cz CNAME .
 partner.dripit.cz CNAME .
 partner.dynamikabohatstvi.cz CNAME .
@@ -545,7 +557,6 @@ partner.hoska-tour.cz CNAME .
 partner.hothousecucumber.com CNAME .
 partner.hubnu.online CNAME .
 partner.hubnutimarija.cz CNAME .
-partner.imrnous.cz CNAME .
 partner.investinslovakia.eu CNAME .
 partner.iodesign.cz CNAME .
 partner.ioznameni.cz CNAME .
@@ -687,7 +698,6 @@ partner.tozax.cz CNAME .
 partner.tozax.sk CNAME .
 partner.tyano.cz CNAME .
 partner.umio.eu CNAME .
-partner.umio.sk CNAME .
 partner.unuo.de CNAME .
 partner.vataonline.cz CNAME .
 partner.vffoto.com CNAME .

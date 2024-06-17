@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -35,6 +35,7 @@ l.doctissimo.fr CNAME .
 l.enfant.com CNAME .
 l.familiscope.fr CNAME .
 l.femmeactuelle.fr CNAME .
+l.fip.fr CNAME .
 l.franceantilles.fr CNAME .
 l.francebleu.fr CNAME .
 l.franceculture.fr CNAME .
@@ -83,6 +84,7 @@ l.programme-tv.net CNAME .
 l.programme.tv CNAME .
 l.radiofrance.fr CNAME .
 l.rmc.fr CNAME .
+l.rmcsport.fr CNAME .
 l.sciencesetavenir.fr CNAME .
 l.sudouest.fr CNAME .
 l.tf1.fr CNAME .

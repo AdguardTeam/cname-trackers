@@ -37,7 +37,6 @@
     * ebags.extole.com
     * fabkids-ssl.extole.com
     * fivestars.extole.com
-    * framesdirect.extole.com
     * freshly.extole.com
     * fuzebox-ssl.extole.com
     * gevalia.extole.com
@@ -139,9 +138,11 @@
     * allincu.extole.io
     * alltrucu.extole.io
     * amazon-web-services.extole.io
+    * americaneagle.extole.io
     * americanmusical.extole.io
     * amerisleep.extole.io
     * anatomie.extole.io
+    * andie-swim.extole.io
     * aon.extole.io
     * aplaceformom.extole.io
     * artcom.extole.io
@@ -176,7 +177,6 @@
     * becu.extole.io
     * biblejourney.extole.io
     * bjs.extole.io
-    * bobstores.extole.io
     * boden-au.extole.io
     * boden-de.extole.io
     * boden-fr.extole.io
@@ -305,6 +305,7 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -435,6 +436,7 @@
     * prokeds.extole.io
     * propark.extole.io
     * psecu.extole.io
+    * pureformulas.extole.io
     * pureology.extole.io
     * qboca.extole.io
     * qbouk.extole.io
@@ -491,7 +493,6 @@
     * soma.extole.io
     * spothero.extole.io
     * sstack.extole.io
-    * starbucks.em.extole.io
     * starbucks.extole.io
     * starfurniture.extole.io
     * steadyapp.extole.io
@@ -612,6 +613,7 @@
 | share.alltrucu.org | alltrucu.extole.io |
 | refer.awscloud.com | amazon-web-services.extole.io |
 | refer.american-giant.com | american-giant.extole.com |
+| refer.americaneagle.org | americaneagle.extole.io |
 | refer.americanexpress.com | americanexpress.extole.com |
 | refer.americanmusical.com | americanmusical.extole.io |
 | refer.amerisleep.com | amerisleep.extole.io |
@@ -619,6 +621,7 @@
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
 | refer.dna.ancestry.com | ancestrydna.extole.com |
+| refer.andieswim.com | andie-swim.extole.io |
 | refer.aol.com | aol.extole.com |
 | refer.hpso.com | aon.extole.io |
 | refer.nso.com | aon.extole.io |
@@ -631,6 +634,7 @@
 | share.asics.com | asics.extole.io |
 | share.asurion.com | asurion.extole.io |
 | refer.ataglance.com | at-a-glance.extole.io |
+| refer.daytimer.com | at-a-glance.extole.io |
 | refer.athleta.com | athleta.extole.io |
 | refer.athletawell.com | athleta.extole.io |
 | share.atlasbars.com | atlasbars.extole.io |
@@ -664,8 +668,6 @@
 | share.biblejourney.com | biblejourney.extole.io |
 | share.bjs.com | bjs.extole.io |
 | indique.bemmaisseguro.com | bms-br.extole.com |
-| refer.bobstores.com | bobstores.extole.io |
-| refer.ems.com | bobstores.extole.io |
 | share.bodenclothing.com.au | boden-au.extole.io |
 | share.bodendirect.de | boden-de.extole.io |
 | share.boden.fr | boden-fr.extole.io |
@@ -814,7 +816,6 @@
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
 | refer.forgetrust.com | forgetrust.extole.io |
-| refer.framesdirect.com | framesdirect.extole.com |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
 | refer.freshly.com | freshly.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
@@ -887,6 +888,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1082,6 +1084,7 @@
 | refer.pvdparking.com | propark.extole.io |
 | refer.psecu.com | psecu.extole.io |
 | refer.purchasingpower.com | purchasingpower.extole.com |
+| refer.pureformulas.com | pureformulas.extole.io |
 | refer.pureology.com | pureology.extole.io |
 | share.qalo.com | qalo.extole.com |
 | recommander.quickbooks.ca | qboca.extole.io |
@@ -1159,7 +1162,6 @@
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
 | refer.staples.com | staples.extole.com |
-| em924.refer.starbucks.com | starbucks.em.extole.io |
 | share.starbucks.com | starbucks.extole.io |
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |

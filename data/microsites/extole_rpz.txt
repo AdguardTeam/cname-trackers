@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -55,7 +55,6 @@ refer.dna.ancestry.co.uk CNAME .
 refer.dna.ancestry.com CNAME .
 refer.dnj.com CNAME .
 refer.fivestars.com CNAME .
-refer.framesdirect.com CNAME .
 refer.freshly.com CNAME .
 refer.fuzebox.com CNAME .
 refer.gevalia.com CNAME .
@@ -139,7 +138,7 @@ www.trevoce.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em924.refer.starbucks.com CNAME .
+em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -169,8 +168,10 @@ refer.abacusnext.com CNAME .
 refer.acornonline.com CNAME .
 refer.akcpetinsurance.com CNAME .
 refer.allenedmonds.com CNAME .
+refer.americaneagle.org CNAME .
 refer.americanmusical.com CNAME .
 refer.amerisleep.com CNAME .
+refer.andieswim.com CNAME .
 refer.art.com CNAME .
 refer.ashleyfurniture.com CNAME .
 refer.ashleyfurniturehomestore.com CNAME .
@@ -191,7 +192,6 @@ refer.basbleu.com CNAME .
 refer.batesfootwear.com CNAME .
 refer.bathandbodyworks.com CNAME .
 refer.baxterofcalifornia.com CNAME .
-refer.bobstores.com CNAME .
 refer.booksy.com CNAME .
 refer.bose.co.uk CNAME .
 refer.bose.com CNAME .
@@ -226,6 +226,7 @@ refer.crocs.com CNAME .
 refer.cspire.com CNAME .
 refer.cunard.com CNAME .
 refer.darphin.com CNAME .
+refer.daytimer.com CNAME .
 refer.delloutlet.com CNAME .
 refer.dreamlawn.com CNAME .
 refer.drschollsshoes.com CNAME .
@@ -234,7 +235,6 @@ refer.ecoterrabeds.com CNAME .
 refer.edelmanfinancial.com CNAME .
 refer.embracepetinsurance.com CNAME .
 refer.empiretoday.com CNAME .
-refer.ems.com CNAME .
 refer.eset.com CNAME .
 refer.etrade.net CNAME .
 refer.everlywell.com CNAME .
@@ -341,6 +341,7 @@ refer.princess.com CNAME .
 refer.procore.com CNAME .
 refer.prokeds.com CNAME .
 refer.psecu.com CNAME .
+refer.pureformulas.com CNAME .
 refer.pureology.com CNAME .
 refer.pvdparking.com CNAME .
 refer.quantumfiber.com CNAME .
@@ -715,8 +716,8 @@ em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
+em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.skillshare.com CNAME .
 sftp.extole.com CNAME .

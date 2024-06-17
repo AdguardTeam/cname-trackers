@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -178,7 +178,6 @@ anaconda.zephyrus.gg CNAME .
 angelfish.dpya.com CNAME .
 angelfish.grayscale.design CNAME .
 angelfish.shorehamlife.com CNAME .
-angelfish.wpsocialrocket.com CNAME .
 anglerfish.luminfire.com CNAME .
 anglerfish.pfolios.net CNAME .
 ant.b13.com CNAME .
@@ -242,7 +241,6 @@ bear.jake.nyc CNAME .
 bear.modulr.design CNAME .
 beaver.bluebunnypaper.com CNAME .
 beaver.livechatlabs.com CNAME .
-bedbug.bragi.com CNAME .
 bee.andreawhitmer.com CNAME .
 bee.jbkmobiledj.com CNAME .
 bee.nfte.app CNAME .
@@ -758,7 +756,6 @@ opossum.stephanieharari.com CNAME .
 orangutan.equaliteam.com CNAME .
 orangutan.renovare.org CNAME .
 orca.getnodo.com CNAME .
-orca.ic3.network CNAME .
 orca.overbold.co CNAME .
 ostrich.getschools.org CNAME .
 ostrich.hegic-tokenizer.co CNAME .

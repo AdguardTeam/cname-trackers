@@ -190,6 +190,8 @@
     * a1f251c6-iksdytmu.cname.ebis.ne.jp
     * a210b17a-hwsehbyq.cname.ebis.ne.jp
     * a24bb2f5-q4vseaye.cname.ebis.ne.jp
+    * a30db63a-h0sqxtcz.cname.ebis.ne.jp
+    * a32c8a4f-h0sqxtcz.cname.ebis.ne.jp
     * a39324ce-fgpe2gow.cname.ebis.ne.jp
     * a4ba7b93-e2mmxp45.cname.ebis.ne.jp
     * a5ede5f5-sn9wfkl3.cname.ebis.ne.jp
@@ -490,6 +492,8 @@
 | test-ad.lucia-c.com | a1f251c6-iksdytmu.cname.ebis.ne.jp |
 | ad.kddi-fs.com | a210b17a-hwsehbyq.cname.ebis.ne.jp |
 | ebis.radishbo-ya.co.jp | a24bb2f5-q4vseaye.cname.ebis.ne.jp |
+| adtrack.maisonlexia.com | a30db63a-h0sqxtcz.cname.ebis.ne.jp |
+| adtrack.alchemy-web.jp | a32c8a4f-h0sqxtcz.cname.ebis.ne.jp |
 | adex.naruko333.jp | a39324ce-fgpe2gow.cname.ebis.ne.jp |
 | cnameebis.usagi-online.com | a4ba7b93-e2mmxp45.cname.ebis.ne.jp |
 | adebis01.job-con.jp | a5ede5f5-sn9wfkl3.cname.ebis.ne.jp |

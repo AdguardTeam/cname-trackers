@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -102,6 +102,7 @@ data.vdi-wissensforum.de CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
+def.bayer04.de CNAME .
 di.fotos-fuers-leben.ch CNAME .
 di.ifolor.at CNAME .
 di.ifolor.be CNAME .

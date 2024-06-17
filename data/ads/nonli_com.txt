@@ -24,6 +24,7 @@
 ||l.enfant.com^
 ||l.familiscope.fr^
 ||l.femmeactuelle.fr^
+||l.fip.fr^
 ||l.franceantilles.fr^
 ||l.francebleu.fr^
 ||l.franceculture.fr^
@@ -72,6 +73,7 @@
 ||l.programme.tv^
 ||l.radiofrance.fr^
 ||l.rmc.fr^
+||l.rmcsport.fr^
 ||l.sciencesetavenir.fr^
 ||l.sudouest.fr^
 ||l.tf1.fr^

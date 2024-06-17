@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -679,7 +679,6 @@ data-49a8877855.apps.iocnt.de CNAME .
 data-49aef6b58e.shapeup-business.de CNAME .
 data-49bb023f99.finanznachrichten.de CNAME .
 data-49dc40e643.onvista.de CNAME .
-data-4a575dad18.hamburgerimmobilien.de CNAME .
 data-4a5f71b500.highlight-web.de CNAME .
 data-4aed862c71.apps.iocnt.de CNAME .
 data-4b48d22435.kommune21.de CNAME .
@@ -818,7 +817,6 @@ data-5d9e07c784.stadt-und-werk.de CNAME .
 data-5dd8125a5b.gofeminin.de CNAME .
 data-5e25716aa5.apps.iocnt.de CNAME .
 data-5e5ac4ec65.menshealth.de CNAME .
-data-5eb3b7b86d.hamburgerimmobilien.de CNAME .
 data-5ec2d41a8f.radiowestfalica.de CNAME .
 data-5f1c477bee.apps.iocnt.de CNAME .
 data-5f67d653dd.si-shk.de CNAME .
@@ -856,6 +854,7 @@ data-60d896f23d.radio.pl CNAME .
 data-60d896f23d.radio.pt CNAME .
 data-60d896f23d.radio.se CNAME .
 data-60d896f23d.reisereporter.de CNAME .
+data-60d896f23d.remszeitung.de CNAME .
 data-60d896f23d.rga.de CNAME .
 data-60d896f23d.rnd.de CNAME .
 data-60d896f23d.siegener-zeitung.de CNAME .
@@ -974,6 +973,7 @@ data-6dde45f576.radio.pl CNAME .
 data-6dde45f576.radio.pt CNAME .
 data-6dde45f576.radio.se CNAME .
 data-6dde45f576.reisereporter.de CNAME .
+data-6dde45f576.remszeitung.de CNAME .
 data-6dde45f576.rga.de CNAME .
 data-6dde45f576.rnd.de CNAME .
 data-6dde45f576.siegener-zeitung.de CNAME .
@@ -1492,6 +1492,7 @@ data-ace571875f.petra.de CNAME .
 data-ad103030ce.apps.iocnt.de CNAME .
 data-ad2a62779c.prosiebenmaxx.at CNAME .
 data-ad8351f80c.outdoor-magazin.com CNAME .
+data-ad9e701841.apps.iocnt.de CNAME .
 data-adb7e5fd38.pfennigparade.de CNAME .
 data-ade1ea328b.stylebook.de CNAME .
 data-ae2238eacd.apps.iocnt.de CNAME .

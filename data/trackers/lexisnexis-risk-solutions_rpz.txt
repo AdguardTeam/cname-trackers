@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -918,7 +918,6 @@ tm.goldennuggetcasino.com CNAME .
 tm.gumtree.co.za CNAME .
 tm.gumtree.com.au CNAME .
 tm.kotak.com CNAME .
-tm.kotak811.com CNAME .
 tm.okinushub.com CNAME .
 tm.paysafecard.com CNAME .
 tm.production.eu1.tmfp.klarna.net CNAME .

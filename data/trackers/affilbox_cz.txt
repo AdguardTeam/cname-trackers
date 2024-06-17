@@ -13,6 +13,7 @@
 ||affi.veronikahronkova.cz^
 ||affil.alkohol.cz^
 ||affil.atan.cz^
+||affil.audioteka.cz^
 ||affil.avenatura.sk^
 ||affil.bitdef.cz^
 ||affil.blaire.cz^
@@ -33,6 +34,7 @@
 ||affil.fingood.cz^
 ||affil.fit-pro.cz^
 ||affil.gamlery.cz^
+||affil.gastrofans.cz^
 ||affil.hifimarket.cz^
 ||affil.hobbytec.cz^
 ||affil.jobsik.cz^
@@ -87,6 +89,7 @@
 ||affilbox.kvaskovanie.sk^
 ||affilbox.rondopartner.cz^
 ||affilbox.stygremvkleci.cz^
+||affilbox.tikoki.com^
 ||affilbox.zdravedesiate.sk^
 ||affiliate.4fresh.cz^
 ||affiliate.a1m.cz^
@@ -159,12 +162,14 @@
 ||affiliate.horseandme.eu^
 ||affiliate.ihrelinsen.at^
 ||affiliate.inkytattoo.cz^
+||affiliate.innone.cz^
 ||affiliate.isetos.cz^
 ||affiliate.ispace.cz^
 ||affiliate.jasnaznacka.cz^
 ||affiliate.jewstone.cz^
 ||affiliate.jidlojevasen.cz^
 ||affiliate.jiristibor.cz^
+||affiliate.ketofit.cz^
 ||affiliate.ketofit.sk^
 ||affiliate.krmivopropsy.cz^
 ||affiliate.kurzy-liecenia.sk^
@@ -224,6 +229,7 @@
 ||affiliate.rajkratomu.cz^
 ||affiliate.reduccia.cz^
 ||affiliate.reponio.cz^
+||affiliate.richardstepan.cz^
 ||affiliate.rixo.cz^
 ||affiliate.rustspolecne.cz^
 ||affiliate.sexshop.cz^
@@ -233,7 +239,9 @@
 ||affiliate.smarty.cz^
 ||affiliate.smsticket.cz^
 ||affiliate.snowbitch.cz^
+||affiliate.socialsprinters.cz^
 ||affiliate.soscredit.cz^
+||affiliate.sperkin.cz^
 ||affiliate.sportinator.cz^
 ||affiliate.stanislavamrazkova.cz^
 ||affiliate.stibio.cz^
@@ -241,6 +249,7 @@
 ||affiliate.studio51.team^
 ||affiliate.svarecky-obchod.cz^
 ||affiliate.svetbot.cz^
+||affiliate.t6power.cz^
 ||affiliate.terarijni-potreby.cz^
 ||affiliate.topol.io^
 ||affiliate.trikator.cz^
@@ -256,6 +265,7 @@
 ||affiliate.vox.cz^
 ||affiliate.warriorfactory.cz^
 ||affiliate.wugi.cz^
+||affiliate.xbx.cz^
 ||affiliate.zdraviafitness.cz^
 ||affiliate.zdravykos.cz^
 ||affiliateold.firma20.cz^
@@ -478,6 +488,7 @@
 ||partner.dailymix.cz^
 ||partner.dancahajkova.com^
 ||partner.danfil.cz^
+||partner.darinapetrakova.cz^
 ||partner.denato.cz^
 ||partner.denato.fr^
 ||partner.denato.it^
@@ -495,6 +506,7 @@
 ||partner.domoveda.cz^
 ||partner.doplnse.cz^
 ||partner.dr-nek.cz^
+||partner.dressibly.cz^
 ||partner.drfit.cz^
 ||partner.dripit.cz^
 ||partner.dynamikabohatstvi.cz^
@@ -534,7 +546,6 @@
 ||partner.hothousecucumber.com^
 ||partner.hubnu.online^
 ||partner.hubnutimarija.cz^
-||partner.imrnous.cz^
 ||partner.investinslovakia.eu^
 ||partner.iodesign.cz^
 ||partner.ioznameni.cz^
@@ -676,7 +687,6 @@
 ||partner.tozax.sk^
 ||partner.tyano.cz^
 ||partner.umio.eu^
-||partner.umio.sk^
 ||partner.unuo.de^
 ||partner.vataonline.cz^
 ||partner.vffoto.com^

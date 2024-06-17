@@ -1144,7 +1144,6 @@
 | a8cv.sanix.jp | trck.a8.net |
 | a8cv.sankyo-fs.jp | trck.a8.net |
 | a8cv.saraschool.net | trck.a8.net |
-| a8cv.sarastear.com | trck.a8.net |
 | a8cv.scheeme.com | trck.a8.net |
 | a8cv.se-navi.jp | trck.a8.net |
 | a8cv.second-hand.jp | trck.a8.net |
@@ -1553,7 +1552,6 @@
 | trcka8net.lenszero.com | trck.a8.net |
 | trcka8net.qieto.net | trck.a8.net |
 | web.collaboration-access.com | trck.a8.net |
-| web.hikari-biglobe.com | trck.a8.net |
 | web.hikari-ocn.com | trck.a8.net |
 | web.hikari-softbank.com | trck.a8.net |
 | web.life-cw.com | trck.a8.net |

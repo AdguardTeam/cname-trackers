@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -191,7 +191,6 @@ ef.futuroscope.mobi CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 eule1.pmu.fr CNAME .
@@ -415,7 +414,6 @@ snr4.canalplus.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
-su1.les-suites.ca CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
 t.locasun.de CNAME .
@@ -503,8 +501,10 @@ c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
+erb.tremblant.ca CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
+su1.les-suites.ca CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
 nym5c.laura.ca CNAME .

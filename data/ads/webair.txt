@@ -107,6 +107,7 @@
 ||cpm.adbite.com^
 ||cpm.adjux.com^
 ||cpm.adlive.io^
+||cpm.adoptadx.com^
 ||cpm.adpluto.com^
 ||cpm.adsolut.in^
 ||cpm.afkwa.com^
@@ -209,6 +210,7 @@
 ||filter-eu.chameleostudios.com^
 ||filter-eu.convertap.com^
 ||filter-eu.coupontic.com^
+||filter-eu.dollopsdigital.com^
 ||filter-eu.expialidosius.com^
 ||filter-eu.ezmob.com^
 ||filter-eu.flairadscpc.com^
@@ -253,6 +255,7 @@
 ||filter.adokutcontextual.com^
 ||filter.adop.co^
 ||filter.adpalladium.com^
+||filter.adportonic.com^
 ||filter.adright.co^
 ||filter.adright.com^
 ||filter.adsailor.com^
@@ -307,6 +310,7 @@
 ||filter.expialidosius.com^
 ||filter.explorads.com^
 ||filter.ezmob.com^
+||filter.fastsearch.me^
 ||filter.finevisit.com^
 ||filter.flairadscpc.com^
 ||filter.flurryad.com^
@@ -426,12 +430,14 @@
 ||live-eu.pornamigo.com^
 ||live-eu.pornamigos.com^
 ||live-eu.pushub.net^
+||live-eu.sportsvot.com^
 ||live-eu.vot.media^
 ||live.healthvot.com^
 ||live.newsvot.com^
 ||live.pornamigo.com^
 ||live.pornamigos.com^
 ||live.pushub.net^
+||live.sportsvot.com^
 ||live.vot.media^
 ||login.152media.com^
 ||login.acertb.com^
@@ -535,6 +541,7 @@
 ||results.certifyads.com^
 ||results.checkshield.net^
 ||results.clickverifier.online^
+||results.uservalidate.co.uk^
 ||rtb-apac-v4.152media.cloud^
 ||rtb-apac-v4.admozartexchange.com^
 ||rtb-apac-v4.adpluto.com^
@@ -562,6 +569,7 @@
 ||rtb-apac.displayio.cloud^
 ||rtb-apac.fmlabsonline.com^
 ||rtb-apac.houseofpubs.com^
+||rtb-apac.intellectscoop.com^
 ||rtb-apac.kinesis-rtb.com^
 ||rtb-apac.mobuppsrtb.com^
 ||rtb-apac.motionspots.com^
@@ -596,6 +604,7 @@
 ||rtb-eu.adhunter.media^
 ||rtb-eu.adjux.com^
 ||rtb-eu.admeridianopenrtb.com^
+||rtb-eu.admidadsp.com^
 ||rtb-eu.adokutrtb.com^
 ||rtb-eu.adop.co^
 ||rtb-eu.adsolut.in^
@@ -616,6 +625,7 @@
 ||rtb-eu.fmlabsonline.com^
 ||rtb-eu.foremedia.net^
 ||rtb-eu.houseofpubs.com^
+||rtb-eu.hueads.com^
 ||rtb-eu.hueadsortb.com^
 ||rtb-eu.infinity-info.com^
 ||rtb-eu.mobipromote.com^
@@ -700,6 +710,7 @@
 ||rtb-useast.cerineas.com^
 ||rtb-useast.convergeselect.net^
 ||rtb-useast.convertap.com^
+||rtb-useast.convertise.io^
 ||rtb-useast.creativedot.net^
 ||rtb-useast.crowdegic.com^
 ||rtb-useast.denakop.com^
@@ -770,6 +781,7 @@
 ||rtb-uswest.ad-maven.com^
 ||rtb-uswest.adjux.com^
 ||rtb-uswest.admeridianopenrtb.com^
+||rtb-uswest.admidadsp.com^
 ||rtb-uswest.adokutrtb.com^
 ||rtb-uswest.adsolut.in^
 ||rtb-uswest.adventurefeeds.com^
@@ -790,6 +802,7 @@
 ||rtb-uswest.foremedia.net^
 ||rtb-uswest.imprexis.biz^
 ||rtb-uswest.kremsondigital.com^
+||rtb-uswest.mobclixs.com^
 ||rtb-uswest.mobipromote.com^
 ||rtb-uswest.mobuppsrtb.com^
 ||rtb-uswest.nativeadshb.com^
@@ -839,7 +852,6 @@
 ||rtb2-eu.torchad.com^
 ||rtb2-eu.waardex.com^
 ||rtb2-eu.xaprio.net^
-||rtb2-useast.a8dsp.com^
 ||rtb2-useast.adhunter.media^
 ||rtb2-useast.adpix.online^
 ||rtb2-useast.adsync.global^
@@ -862,7 +874,6 @@
 ||rtb2-useast.torchad.com^
 ||rtb2-useast.waardex.com^
 ||rtb2-useast.xaprio.net^
-||rtb2-uswest.a8dsp.com^
 ||rtb2-uswest.afkwa.com^
 ||rtb2-uswest.applabs.live^
 ||rtb2-uswest.catapultx.com^
@@ -887,13 +898,13 @@
 ||serve.datacygnal.io^
 ||sm-rtb-useast.zmdvideo.com^
 ||static-rtb.adksrv.com^
-||static-rtb.webtradingspot.com^
 ||static-rtb2.adpix.online^
 ||static-rtb2.adpluto.com^
 ||static-rtb2.afkwa.com^
 ||static-rtb2.applabs.live^
 ||static-rtb2.convergeselect.net^
 ||static-rtb2.demandzoo.com^
+||static-rtb2.foremedia.net^
 ||static-rtb2.jambojar.com^
 ||static-rtb2.n-data.io^
 ||static-rtb2.newchallenges-dsp.com^
@@ -903,12 +914,15 @@
 ||static-xml.vespymedia.com^
 ||static.100conversions.com^
 ||static.152media.cloud^
+||static.admozartxml.com^
 ||static.adoperatorx.com^
 ||static.adright.co^
 ||static.adright.com^
+||static.adsfloow.net^
 ||static.adsolut.in^
 ||static.barcelona-backlinks.es^
 ||static.cerineas.com^
+||static.cpcsources.com^
 ||static.creativethingsdoneright.top^
 ||static.danarimedia.com^
 ||static.datacygnal.io^
@@ -921,7 +935,6 @@
 ||static.fstsrv1.com^
 ||static.fstsrv2.com^
 ||static.fstsrv3.com^
-||static.fstsrv4.com^
 ||static.fstsrv5.com^
 ||static.fstsrv6.com^
 ||static.fstsrv7.com^
@@ -930,16 +943,13 @@
 ||static.hotmaracas.fun^
 ||static.myadcampaigns.com^
 ||static.openrtb.in^
-||static.outpush.net^
 ||static.pdn-1.com^
-||static.pixelpluses.com^
 ||static.pressize.com^
 ||static.pressizeteam.com^
 ||static.pushub.net^
-||static.qksrv.cc^
+||static.pwr-ads.com^
 ||static.qksrv1.com^
 ||static.qualiclicks.com^
-||static.reachableads.com^
 ||static.readywind.media^
 ||static.reklama.network^
 ||static.rtb-serve.com^
@@ -952,6 +962,7 @@
 ||static.webmedxml.com^
 ||static.xmlppc.net^
 ||static.xrtb.io^
+||static.zaimads.com^
 ||sub-eu-v4.adzgame.com^
 ||sub-v4.adzgame.com^
 ||sub.adzgame.com^
@@ -973,6 +984,7 @@
 ||tq-eu.minsonbar2.online^
 ||tq-eu.minutelight-1.online^
 ||tq-eu.mpds-smart1.online^
+||tq-eu.mpds-smart2.online^
 ||tq-eu.optimalscreen1.online^
 ||tq-eu.optimalscreen2.online^
 ||tq-eu.otbackstage2.online^
@@ -989,6 +1001,7 @@
 ||tq.martlochoco2.online^
 ||tq.minutelight-1.online^
 ||tq.mpds-smart1.online^
+||tq.mpds-smart2.online^
 ||tq.optimalscreen1.online^
 ||tq.optimalscreen2.online^
 ||tq.otbackstage1.online^
@@ -1111,6 +1124,7 @@
 ||xml-eu-v4.minsonbar2.online^
 ||xml-eu-v4.minutelight-1.online^
 ||xml-eu-v4.mpds-smart1.online^
+||xml-eu-v4.mpds-smart2.online^
 ||xml-eu-v4.newbluetrue.xyz^
 ||xml-eu-v4.onemediawork.com^
 ||xml-eu-v4.optimalscreen1.online^
@@ -1268,6 +1282,7 @@
 ||xml-v4.minsonbar2.online^
 ||xml-v4.minutelight-1.online^
 ||xml-v4.mpds-smart1.online^
+||xml-v4.mpds-smart2.online^
 ||xml-v4.newbluetrue.xyz^
 ||xml-v4.nexrtb.com^
 ||xml-v4.onemediawork.com^
@@ -1452,6 +1467,7 @@
 ||xml.mobreach.com^
 ||xml.mobuppsrtb.com^
 ||xml.mpds-smart1.online^
+||xml.mpds-smart2.online^
 ||xml.myadcampaigns.com^
 ||xml.mymedia.club^
 ||xml.newbluetrue.xyz^
@@ -1480,6 +1496,7 @@
 ||xml.pushub.net^
 ||xml.pwr-ads.com^
 ||xml.pxfind3.com^
+||xml.pyrrhicmechntech.com^
 ||xml.q32167.com^
 ||xml.qksrv.cc^
 ||xml.qksrv1.com^
@@ -1562,22 +1579,25 @@
 ||static.adjux.com^
 ||static.admeridianads.com^
 ||static.admidainsight.com^
-||static.admozartxml.com^
 ||static.appocean.media^
 ||static.catapultx.com^
 ||static.creativedot.net^
 ||static.explorads.com^
+||static.fstsrv4.com^
+||static.outpush.net^
+||static.pixelpluses.com^
+||static.qksrv.cc^
+||static.reachableads.com^
 ||static.realtime-bid.com^
 ||static.revrtb.com^
 ||static.rocoads.com^
 ||static.showcasead.com^
 ||static.trafficmoose.com^
 ||static.userwave.com^
-||static.zaimads.com^
 ||static.zeusadx.com^
 ||vid-static.xapads.com^
 ||dsp-static.nativeads.com^
+||static-rtb.webtradingspot.com^
 ||static-rtb2.catapultx.com^
 ||static-rtb2.e-volution.ai^
-||static-rtb2.foremedia.net^
 ||static-rtb2.qortex.ai^

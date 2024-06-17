@@ -46,7 +46,6 @@ activate.prosoccerusa.com
 activate.ramonasentinel.com
 activate.ranchosantafereview.com
 activate.redeyechicago.com
-activate.sandiegouniontribune.com
 activate.shopjustice.com
 activate.southflorida.com
 activate.sun-sentinel.com
@@ -65,6 +64,7 @@ agility.cnn.com
 agility.cnvrm.com
 agility.nba.com
 agility.ncaa.com
+agility.staples-solutions.com
 agility.tbs.com
 agility.tcm.com
 agility.tntdrama.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1144,7 +1144,6 @@ a8cv.sakura-forest.com CNAME .
 a8cv.sanix.jp CNAME .
 a8cv.sankyo-fs.jp CNAME .
 a8cv.saraschool.net CNAME .
-a8cv.sarastear.com CNAME .
 a8cv.scheeme.com CNAME .
 a8cv.se-navi.jp CNAME .
 a8cv.second-hand.jp CNAME .
@@ -1554,7 +1553,6 @@ trcka8net.irobot-jp.com CNAME .
 trcka8net.lenszero.com CNAME .
 trcka8net.qieto.net CNAME .
 web.collaboration-access.com CNAME .
-web.hikari-biglobe.com CNAME .
 web.hikari-ocn.com CNAME .
 web.hikari-softbank.com CNAME .
 web.life-cw.com CNAME .

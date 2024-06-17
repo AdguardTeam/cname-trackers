@@ -115,7 +115,6 @@
     * h-8la63gsu.online-metrix.net
     * h-8m7u92ti.online-metrix.net
     * h-8ms1wsqq.online-metrix.net
-    * h-8ms1wsqq2.online-metrix.net
     * h-8om29r2u-a.online-metrix.net
     * h-8om29r2u.online-metrix.net
     * h-8t63q4n4.online-metrix.net
@@ -930,7 +929,6 @@
 | afs.wearemp.com | h-8la63gsu.online-metrix.net |
 | ftd.quodxx.com.br | h-8m7u92ti.online-metrix.net |
 | tmuat.kotak.com | h-8ms1wsqq.online-metrix.net |
-| tm.kotak811.com | h-8ms1wsqq2.online-metrix.net |
 | digitalidentity.compass.it | h-8om29r2u-a.online-metrix.net |
 | piafapp.poste.it | h-8om29r2u.online-metrix.net |
 | rba.apata.io | h-8t63q4n4.online-metrix.net |

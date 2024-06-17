@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -303,6 +303,7 @@ tr.devisminute-securiteb2b.com CNAME .
 tr.devisminute-siteecommerce.com CNAME .
 tr.devisminute-weber.com CNAME .
 tr.devize-companeo.ro CNAME .
+tr.devizul-meu.ro CNAME .
 tr.digitalacademy.np6.com CNAME .
 tr.digitaldigest.lvmh.com CNAME .
 tr.directferries.com CNAME .
@@ -533,7 +534,6 @@ tr.infos.fongecifcentre.com CNAME .
 tr.infos.gazdebordeaux.fr CNAME .
 tr.infos.lacarte.demenagez-moi.com CNAME .
 tr.infos.lettre-resiliation.com CNAME .
-tr.infos.mailrungis.com CNAME .
 tr.infos.odalys-vacances.com CNAME .
 tr.inspiration.culture-data.fr CNAME .
 tr.interieur.cotemaison.fr CNAME .
@@ -885,7 +885,6 @@ tr.newsletters.alticemedia.com CNAME .
 tr.newsletters.coedition-contact.fr CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
 tr.newsletters.qapa-interim.fr CNAME .
-tr.newsletters.youmeetings.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .
 tr.nl.2wls.net CNAME .
 tr.nl.ardennes.cci.fr CNAME .

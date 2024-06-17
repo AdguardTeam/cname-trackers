@@ -292,6 +292,7 @@
 ||tr.devisminute-siteecommerce.com^
 ||tr.devisminute-weber.com^
 ||tr.devize-companeo.ro^
+||tr.devizul-meu.ro^
 ||tr.digitalacademy.np6.com^
 ||tr.digitaldigest.lvmh.com^
 ||tr.directferries.com^
@@ -522,7 +523,6 @@
 ||tr.infos.gazdebordeaux.fr^
 ||tr.infos.lacarte.demenagez-moi.com^
 ||tr.infos.lettre-resiliation.com^
-||tr.infos.mailrungis.com^
 ||tr.infos.odalys-vacances.com^
 ||tr.inspiration.culture-data.fr^
 ||tr.interieur.cotemaison.fr^
@@ -874,7 +874,6 @@
 ||tr.newsletters.coedition-contact.fr^
 ||tr.newsletters.odalys-vacances.com^
 ||tr.newsletters.qapa-interim.fr^
-||tr.newsletters.youmeetings.com^
 ||tr.newsmarketing.allopneus.com^
 ||tr.nl.2wls.net^
 ||tr.nl.ardennes.cci.fr^

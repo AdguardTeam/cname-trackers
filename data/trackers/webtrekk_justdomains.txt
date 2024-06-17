@@ -91,6 +91,7 @@ data.vdi-wissensforum.de
 data.volksfreund.de
 data.westlotto.de
 daten.union-investment.de
+def.bayer04.de
 di.fotos-fuers-leben.ch
 di.ifolor.at
 di.ifolor.be

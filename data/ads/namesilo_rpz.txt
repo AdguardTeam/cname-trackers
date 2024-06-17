@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -316,6 +316,7 @@ $TTL 300
 3349680.notify6.com CNAME .
 3351068.notify6.com CNAME .
 3351068.notifysrv.com CNAME .
+3351072.notify6.com CNAME .
 3351072.notifysrv.com CNAME .
 3351914.notifysrv.com CNAME .
 3352256.notify6.com CNAME .
@@ -578,6 +579,7 @@ $TTL 300
 3572299.notifysrv.com CNAME .
 3572303.notifysrv.com CNAME .
 3572904.notifysrv.com CNAME .
+3576531.notifysrv.com CNAME .
 3576907.notifysrv.com CNAME .
 3578231.notify6.com CNAME .
 3578235.notify6.com CNAME .
@@ -743,6 +745,7 @@ $TTL 300
 3858841.notify6.com CNAME .
 3869256.notifysrv.com CNAME .
 3869316.notify6.com CNAME .
+3869316.notifysrv.com CNAME .
 3869376.notify6.com CNAME .
 3869462.notify6.com CNAME .
 3869504.notify6.com CNAME .
@@ -883,6 +886,7 @@ $TTL 300
 4162032.notify6.com CNAME .
 4162254.notify6.com CNAME .
 4162256.notify6.com CNAME .
+4162264.notify6.com CNAME .
 4166040.notify6.com CNAME .
 4173044.notify6.com CNAME .
 4177784.notify6.com CNAME .
@@ -1015,12 +1019,14 @@ $TTL 300
 4960922.notify6.com CNAME .
 4983200.notify6.com CNAME .
 4983282.notify6.com CNAME .
+5077248.notify6.com CNAME .
 5085594.notify6.com CNAME .
 5111734.notify6.com CNAME .
 5114166.notify6.com CNAME .
 5121952.notify6.com CNAME .
 5132062.notify6.com CNAME .
 5153152.notify6.com CNAME .
+5276648.notify6.com CNAME .
 5296856.notify6.com CNAME .
 535.notify.optimizesrv.com CNAME .
 5602.notify.optimizesrv.com CNAME .
@@ -1052,7 +1058,6 @@ a.advantageclicks.net CNAME .
 a.advertrek.com CNAME .
 a.asvsm.com CNAME .
 a.b7q9v8z.com CNAME .
-a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
 a.etology.com CNAME .
 a.eunow4u.com CNAME .
@@ -1077,7 +1082,6 @@ admin.gettopple.com CNAME .
 admin.shafttraffic.com CNAME .
 admin.trafficfactory.com CNAME .
 adrepository.opoxv.com CNAME .
-ads.optimizesrv.com CNAME .
 api.adnation.com CNAME .
 api.datingclix.com CNAME .
 api.getblaze.app CNAME .
@@ -1124,7 +1128,9 @@ s.elna1w.com CNAME .
 s.elna1x.com CNAME .
 s.elnb21.com CNAME .
 s.elnb22.com CNAME .
+s.elnc34.com CNAME .
 s.elnc35.com CNAME .
+s.elnc36.com CNAME .
 s.elnk4b.com CNAME .
 s.elnk4d.com CNAME .
 s.elnk90.com CNAME .
@@ -1246,3 +1252,5 @@ www.8.notify.bizonads-ssp.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
+a.bizonads-ssp.com CNAME .
+ads.optimizesrv.com CNAME .

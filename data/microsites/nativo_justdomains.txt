@@ -25,7 +25,6 @@ sponsor.syracuse.com
 0cc118959f.bb3830357b.com
 0ebc52a9c6.c981f87754.com
 0f0249e503.533e4e8be4.com
-10a614120a.419dc53dcd.com
 116f21a281.7fbe2fd8a8.com
 1173fc98f8.871981043f.com
 134e00f267.9c58ac1287.com
@@ -50,12 +49,12 @@ sponsor.syracuse.com
 25f07559f6.85d2ae7308.com
 271bc17eeb.000a0aa565.com
 276fbbc3fa.b5cecad47f.com
-2899425181.c169b1582f.com
 2957601840.561bf1cf0d.com
 2a1b1b81ae.2fcde24f87.com
 2a4f7c2be4.558c41c6ef.com
 2a6b16dfe0.667fa1e9d4.com
 2c83d2caf6.d067641e02.com
+2cd3a118f8.d6344ef0f4.com
 2e29d385db.416deca3db.com
 2e59d53c1e.d1f10926c9.com
 2ee8c3ad24.3addb7ccee.com
@@ -110,7 +109,6 @@ sponsor.syracuse.com
 50c702568d.5305c68a0b.com
 50f0f4c399.3acf699e5d.com
 518b98b921.7ecd70404f.com
-53b06a6b24.b30674b49e.com
 53c3c44b72.a29172073b.com
 54a9d35aeb.eb8d45088d.com
 54efa233bd.cd52b495eb.com
@@ -123,6 +121,7 @@ sponsor.syracuse.com
 5d39fe7c75.2ac4fce9b8.com
 5dc5532e35.6a377e2b5c.com
 5ea8f33fb6.61c6379963.com
+5f69343b4b.cb8ef6fb70.com
 5fb5f9ab05.75bbc9191d.com
 6002296e53.64df8e1c63.com
 60152c575a.015fcec3c6.com
@@ -134,7 +133,6 @@ sponsor.syracuse.com
 63d145a6df.76655f963b.com
 63dfd5af39.dd5eca7281.com
 6424f99911.28b26b4604.com
-64ff5ac46a.5f1202853b.com
 651a584f5e.6c078023c1.com
 65f952e85a.efebe8adb2.com
 67153c6675.8f59f8d6a8.com
@@ -144,7 +142,6 @@ sponsor.syracuse.com
 69bd97630e.9460a8c99f.com
 6a29d7211a.502c849091.com
 6a5bc5ad4b.a0a8053f14.com
-6b4f801684.22ecbd33ca.com
 6b617ecc3b.877faa781e.com
 6cdd6559e1.df077d05e6.com
 6d2d067dd8.d870307884.com
@@ -158,7 +155,6 @@ sponsor.syracuse.com
 7347d63d89.d13dee4566.com
 73a73f7b7c.d613466cf9.com
 7471ccf72a.31385ffb82.com
-75263a609c.143f0a3452.com
 7655556e32.1366aab60d.com
 76b8aba987.265ccb08af.com
 76d3c70aa9.d1f420dd98.com
@@ -190,7 +186,6 @@ sponsor.syracuse.com
 91f28dca60.47216dc00b.com
 92b943ed26.6bda3ba403.com
 92beb1a850.316d9c5a70.com
-9323b0c766.5ffdc5b302.com
 942bb69d35.68141583dd.com
 9457e425ad.a716b318c7.com
 94925f6b5f.e9b55b8452.com
@@ -206,6 +201,7 @@ sponsor.syracuse.com
 9ce6218dd9.46d236df2c.com
 9d5e0e5b08.2c03b52128.com
 9d844b1143.7f00f312e5.com
+9dc66b2911.b74ceb1c82.com
 9e635b1caf.4afa370227.com
 9e813c2770.3227a4c431.com
 9f3c62edd5.b3742d97fe.com
@@ -283,6 +279,7 @@ d9d8248a89.220e561113.com
 da608f2382.87cc51d649.com
 db23738aa3.a0ab3296e0.com
 dbcbfd1f9e.6a3a727872.com
+dc8b1985cd.a336b509d9.com
 dc8ca1f9ac.557632af6e.com
 dcbf7a3c7d.435d243e12.com
 de2d6d62ab.bb9b49c131.com
@@ -304,6 +301,7 @@ e8ef4bbd3d.77bf977ba9.com
 e9232f0349.c00a7a585e.com
 e93b6d6f74.1c4912370a.com
 e9da20de4f.f79f51b7ec.com
+ea30436110.46f0529545.com
 eab95e94cc.f9dc239910.com
 ebde3ee436.29f37d2f17.com
 ec21f1f236.03e41ef81f.com
@@ -315,10 +313,12 @@ efb785d6e4.9476c211af.com
 efcb8115ab.88fc493306.com
 efea1cbd03.b2b1ac07e6.com
 efea624022.be5985b426.com
+f0522448da.f6196520b9.com
 f2b4e94d0f.3df9f27128.com
 f2e49209b4.bcab4297a6.com
 f30b951f89.b1f576d5c6.com
 f377888b95.449715c797.com
+f3d1a8ee12.c37b652f3a.com
 f571f387dc.2e51ef91bb.com
 f7edea5919.fce9830ba4.com
 f905b11999.4895a69f7e.com
@@ -338,12 +338,13 @@ ff18e0b495.eeecc0e343.com
 ff6840b5f0.338d2db673.com
 i.selecttopoff.com
 i.statelinear.com
-a135.wftv.com
 mlive.share.ntv.io
+nj.finegardening.com
 share.ntv.io
 shared.sponsoredcontent.com
-0b615d2390.53570bbe42.com
+silive.share.ntv.io
 a135.fox23.com
+a135.wftv.com
 a135.wpxi.com
 a135.wsbtv.com
 a135.wsoctv.com

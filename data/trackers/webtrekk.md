@@ -443,6 +443,7 @@
 | mit.researchlog.dbresearch.com | 965607891904117.wt-eu02.net |
 | mit.researchlog.dbresearch.de | 965607891904117.wt-eu02.net |
 | abc.bayer04.de | 969665527401678.wt-eu02.net |
+| def.bayer04.de | 969665527401678.wt-eu02.net |
 | wbtrkk.teufel.de | 982429105360946.wt-eu02.net |
 | web.info.teamwarrior.com | 987593120374077.wt-eu02.net |
 | ctrkd.ilsole24ore.com | 988195797407130.wt-eu02.net |

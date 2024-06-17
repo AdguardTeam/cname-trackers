@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -35,7 +35,6 @@ $TTL 300
 2e718yf5jypb.test.digitalsurge.io CNAME .
 2rid9fii9chx.www.atlaslane.com CNAME .
 2yqcaqbfnv.nextgen.shareablee.com CNAME .
-3g3v0rrv9q09.franchiseplus.nl CNAME .
 3l0zszdzjhpw.www.comicleaks.com CNAME .
 3wn3w3skxpym.round.t3.gg CNAME .
 48z7wyjdsywu.www.revistaferramental.com.br CNAME .
@@ -95,6 +94,7 @@ m4zoxtrcea1k.controlconceptsusa.com CNAME .
 m6c4t9vmqarj.www.cefirates.com CNAME .
 mh9qqwotr890.koelewijn.nl CNAME .
 mteme7li1d6r.vertexmarketingagency.com CNAME .
+n367tqpdxce0.quine.sh CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
 o3gxzoewxl1x.cp.zomro.com CNAME .
@@ -107,6 +107,7 @@ qri2r94eeajr.innovationcast.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 rbat6ac0zzjd.www.terraform.com.ar CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
+rxdkl9o9g7.franchiseplus.nl CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
 soahu1wnmt6l.www.replai.io CNAME .
 sr59t7wbx5.claricelin.com CNAME .

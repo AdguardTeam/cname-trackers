@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718006407111        ; Serial
+           1718611207938        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,6 +50,7 @@ db.sarcelgusla.com CNAME .
 dc.swartlybeebee.com CNAME .
 de.bronchichogset.com CNAME .
 dg.durgahsursize.com CNAME .
+dj.bergertubbie.com CNAME .
 dk.nanduquelch.com CNAME .
 dl.fatimacapos.com CNAME .
 du.jubhahbalize.com CNAME .
@@ -139,6 +140,7 @@ mh.wedgedgeoduck.com CNAME .
 mi.gaywayperkish.com CNAME .
 ml.estellaeyelet.com CNAME .
 mn.prespurmaness.com CNAME .
+mr.pudgilygrazes.com CNAME .
 mu.laplingskevish.com CNAME .
 mw.cinuralytic.com CNAME .
 my.ursstubs.com CNAME .
@@ -149,9 +151,11 @@ nl.yieldedshotter.com CNAME .
 nm.placoidtobyman.com CNAME .
 no.resailslemures.com CNAME .
 nr.celaenomash.com CNAME .
+nr.showdomhauld.com CNAME .
 ns.gyreneverist.com CNAME .
 nv.hirersnay.com CNAME .
 oa.frowllutetia.com CNAME .
+ob.objectsrented.com CNAME .
 og.elemeuric.com CNAME .
 ol.dundeesmemo.com CNAME .
 or.alpieutieboy.com CNAME .
@@ -174,6 +178,7 @@ qh.escapedinbreed.com CNAME .
 qm.veldtwalk.com CNAME .
 qo.dunganof.com CNAME .
 qo.enamelsdune.com CNAME .
+qr.arylidealchemy.com CNAME .
 qr.heezyvedaism.com CNAME .
 qs.planxtyroaring.com CNAME .
 qz.almudestilths.com CNAME .
