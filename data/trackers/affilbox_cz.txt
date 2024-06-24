@@ -286,6 +286,7 @@
 ||box.cryptokingdom.tech^
 ||box.kryptotrejder.sk^
 ||brana.ritualyomlazeni.cz^
+||collab.zdravetricko.cz^
 ||dekovacka.hezkres.cz^
 ||doporuc.hopsej.cz^
 ||doporuc.konferenceryba.cz^
@@ -678,6 +679,7 @@
 ||partner.svetcukrarov.sk^
 ||partner.svetcukraru.cz^
 ||partner.svetruzi.cz^
+||partner.swaglift.com^
 ||partner.sypanycaj.eu^
 ||partner.tajemstvi-uspechu.cz^
 ||partner.thechillidoctor.cz^
@@ -860,7 +862,6 @@
 ||partners.oktagon.tv^
 ||partners.pocitarna.cz^
 ||partners.puravidashop.cz^
-||partners.rebelsfunding.com^
 ||partners.spiritradar.com^
 ||plus.mameradivlasy.cz^
 ||promo.smskouc.cz^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -674,6 +674,7 @@ $TTL 300
 3662967.notifysrv.com CNAME .
 3662975.notifysrv.com CNAME .
 3668783.notifysrv.com CNAME .
+3668785.notify6.com CNAME .
 3668785.notifysrv.com CNAME .
 3668787.notifysrv.com CNAME .
 3668791.notify6.com CNAME .
@@ -744,6 +745,7 @@ $TTL 300
 3856373.notify6.com CNAME .
 3858841.notify6.com CNAME .
 3869256.notifysrv.com CNAME .
+3869270.notifysrv.com CNAME .
 3869316.notify6.com CNAME .
 3869316.notifysrv.com CNAME .
 3869376.notify6.com CNAME .
@@ -857,6 +859,7 @@ $TTL 300
 4068860.notify6.com CNAME .
 4069896.notify6.com CNAME .
 4069900.notify6.com CNAME .
+4078544.notify6.com CNAME .
 4080560.notify6.com CNAME .
 4080606.notify6.com CNAME .
 4086498.notify6.com CNAME .
@@ -879,6 +882,7 @@ $TTL 300
 4151384.notify6.com CNAME .
 4152268.notify6.com CNAME .
 4152316.notify6.com CNAME .
+4152324.notify6.com CNAME .
 4152328.notify6.com CNAME .
 4153216.notify6.com CNAME .
 4160048.notify6.com CNAME .
@@ -1052,6 +1056,7 @@ $TTL 300
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
+a.344eva.com CNAME .
 a.addisplaynetwork.com CNAME .
 a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
@@ -1070,7 +1075,6 @@ a.r8lnet.com CNAME .
 a.redpathmedia.com CNAME .
 a.rocoads.net CNAME .
 a.santabrowser.com CNAME .
-a.slice.exchange CNAME .
 a.stuffserve.com CNAME .
 a.tf4srv.com CNAME .
 a.vws4brkfst.com CNAME .
@@ -1079,6 +1083,7 @@ admin.datingclix.com CNAME .
 admin.etology.com CNAME .
 admin.exoclick.com CNAME .
 admin.gettopple.com CNAME .
+admin.redpathmedia.com CNAME .
 admin.shafttraffic.com CNAME .
 admin.trafficfactory.com CNAME .
 adrepository.opoxv.com CNAME .
@@ -1111,6 +1116,7 @@ rtb.advertrek.com CNAME .
 rtb.exoclick.com CNAME .
 rtb.nowsrv.com CNAME .
 rtb.trafficfactory.com CNAME .
+s.344eva.com CNAME .
 s.adnflow.com CNAME .
 s.adsession.com CNAME .
 s.advantageclicks.net CNAME .
@@ -1253,4 +1259,5 @@ www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 a.bizonads-ssp.com CNAME .
+a.slice.exchange CNAME .
 ads.optimizesrv.com CNAME .

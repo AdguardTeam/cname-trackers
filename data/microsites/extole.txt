@@ -85,6 +85,7 @@
 ||refer.sage.com^
 ||refer.shoesforcrews.com^
 ||refer.silvercar.com^
+||refer.solarwinds.com^
 ||refer.sperry.com^
 ||refer.staples.com^
 ||refer.talbots.com^
@@ -124,10 +125,11 @@
 ||tellapal.register.com^
 ||tellapal.web.com^
 ||www.trevoce.com^
+||acq.discover.com^
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em8561.go2bank.com^
+||em8928.em.petco.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -157,6 +159,7 @@
 ||refer.acornonline.com^
 ||refer.akcpetinsurance.com^
 ||refer.allenedmonds.com^
+||refer.amctheatres.com^
 ||refer.americaneagle.org^
 ||refer.americanmusical.com^
 ||refer.amerisleep.com^
@@ -195,6 +198,7 @@
 ||refer.catfootwear.com^
 ||refer.cbdpillow.com^
 ||refer.centier.com^
+||refer.centurylink.com^
 ||refer.chacos.com^
 ||refer.cheaptickets.com^
 ||refer.chicos.com^
@@ -556,6 +560,7 @@
 ||share.kumon.com^
 ||share.la-mariette.com^
 ||share.lansingstatejournal.com^
+||share.learnersedge.com^
 ||share.levi.com^
 ||share.lifedna.com^
 ||share.livongo.com^
@@ -696,7 +701,6 @@
 ||share.whistle.com^
 ||share.wisdompanel.com^
 ||share.wombatinvest.com^
-||share.zebit.com^
 ||share.zenbusiness.com^
 ||www.refer.xfinity.com^
 ||www.referessentials.com^
@@ -705,7 +709,7 @@
 ||em225.codecademy.com^
 ||em3904.skillshare.com^
 ||em4367.raf-studentloans.discover.com^
-||em8928.em.petco.com^
+||em8561.go2bank.com^
 ||em924.refer.starbucks.com^
 ||em9523.walmartmoneycard.com^
 ||xtl._domainkey.skillshare.com^

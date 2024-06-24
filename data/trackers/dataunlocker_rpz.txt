@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ $TTL 300
 16i6nuuc2ej.koelewijn.nl CNAME .
 1a715b8q5m3j.www.logology.co CNAME .
 1amehwchx31.bloxdhop.io CNAME .
+1b7eq4.www.bolighub.dk CNAME .
 1baq2nvd6n7.www.keevowallet.com CNAME .
 1bpmtrvkqkj.pettoonies.com CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
@@ -120,6 +121,7 @@ tutbc1.www.tapmyback.com CNAME .
 tzgurwizule3.app.cardahealth.com CNAME .
 u0crsrah75fy.camberlion.com CNAME .
 uhd5nn09mgml.fort-shop.kiev.ua CNAME .
+umylynsr9b.quira.sh CNAME .
 ut19suycy9vt.nowyformat.nofluffjobs.com CNAME .
 vyz3nn85ed0e.controlconceptsusa.com CNAME .
 vzal21mooz.hyperwrite.ai CNAME .

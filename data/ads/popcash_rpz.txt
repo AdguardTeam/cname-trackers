@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -20,7 +20,6 @@ cdn.aliwjo.com CNAME .
 cdn.almacz.com CNAME .
 cdn.alota.xyz CNAME .
 cdn.asce.xyz CNAME .
-cdn.asdb.xyz CNAME .
 cdn.asdfix.com CNAME .
 cdn.asdnow.xyz CNAME .
 cdn.asecv.xyz CNAME .
@@ -93,7 +92,6 @@ cdn.mwrgi.com CNAME .
 cdn.namol.xyz CNAME .
 cdn.nelhon.com CNAME .
 cdn.nlkli.com CNAME .
-cdn.nlop.xyz CNAME .
 cdn.nmkli.com CNAME .
 cdn.norymo.com CNAME .
 cdn.npcta.xyz CNAME .
@@ -732,7 +730,6 @@ mosquito.nooraldiyar.com CNAME .
 mosquito.zero.io CNAME .
 moth.artsmia.org CNAME .
 moth.jkundp.at CNAME .
-moth.treeferral.com CNAME .
 moth.underscoretw.com CNAME .
 mouse.anthony-noel.com CNAME .
 mouse.botreach.co CNAME .
@@ -851,6 +848,7 @@ raccoon.jaronheard.com CNAME .
 rat.gimlet.io CNAME .
 raven.konquadrat.de CNAME .
 raven.vethelpdirect.com CNAME .
+reindeer.cablemod.com CNAME .
 reindeer.iainbroome.com CNAME .
 reindeer.pablomaceda.com CNAME .
 reptile.o-lit.fr CNAME .
@@ -1050,6 +1048,7 @@ wildebeest.gmk.today CNAME .
 wildebeest.quarva.dev CNAME .
 wildebeest.soft-spoken.dev CNAME .
 wildebeest.trigo.dev CNAME .
+wildfowl.getmoneyoff.com CNAME .
 wildfowl.minter.io CNAME .
 wolf.idthompson.com CNAME .
 wolf.samarasousa.com CNAME .

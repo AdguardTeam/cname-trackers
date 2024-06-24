@@ -916,6 +916,7 @@
 ||tr.offresbtoc.engie.fr^
 ||tr.offrevip.floa.fr^
 ||tr.ojxm.espmp-aufr.net^
+||tr.online.longchamp.com^
 ||tr.openinnovation.lvmh.com^
 ||tr.orange-lease.fr^
 ||tr.orcamento-online.pt^

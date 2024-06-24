@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1348,6 +1348,7 @@ data-9e4f40dc7c.travelbook.de CNAME .
 data-9e4ff1c91f.wz.de CNAME .
 data-9e925e9341.this-magazin.de CNAME .
 data-9ea3ac5fe9.food-service.de CNAME .
+data-9f311cce4c.nofi-lauf.de CNAME .
 data-9f311cce4c.onetz.de CNAME .
 data-9f426096e1.wz-net.de CNAME .
 data-9f47bd3ec3.fupa.net CNAME .
@@ -1612,6 +1613,7 @@ data-bb21a2f11b.stylebook.de CNAME .
 data-bb21a2f11b.techbook.de CNAME .
 data-bb21a2f11b.travelbook.de CNAME .
 data-bb4ada6163.travelbook.de CNAME .
+data-bc153aec3e.addradio.de CNAME .
 data-bc153aec3e.radioguetersloh.de CNAME .
 data-bc16fafbba.stadtbibliothek-reutlingen.de CNAME .
 data-bc52ee58ca.meinprospekt.de CNAME .
@@ -2053,6 +2055,7 @@ data-f1e447fbcf.ippen.media CNAME .
 data-f1e447fbcf.kreis-anzeiger.de CNAME .
 data-f1e447fbcf.kreisbote.de CNAME .
 data-f1e447fbcf.kreiszeitung.de CNAME .
+data-f1e447fbcf.kurierverlag.de CNAME .
 data-f1e447fbcf.landtiere.de CNAME .
 data-f1e447fbcf.leinetal24.de CNAME .
 data-f1e447fbcf.ludwigshafen24.de CNAME .

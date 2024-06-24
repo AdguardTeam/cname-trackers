@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,6 +61,7 @@ l.lardennais.fr CNAME .
 l.lavoixdunord.fr CNAME .
 l.lefigaro.fr CNAME .
 l.leparisien.fr CNAME .
+l.lepoint.fr CNAME .
 l.lequotidiendelart.com CNAME .
 l.lindependant.fr CNAME .
 l.lunion.fr CNAME .

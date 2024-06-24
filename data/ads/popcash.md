@@ -659,7 +659,6 @@
 | mosquito.zero.io | deprecated-custom-domains.b-cdn.net |
 | moth.artsmia.org | deprecated-custom-domains.b-cdn.net |
 | moth.jkundp.at | deprecated-custom-domains.b-cdn.net |
-| moth.treeferral.com | deprecated-custom-domains.b-cdn.net |
 | moth.underscoretw.com | deprecated-custom-domains.b-cdn.net |
 | mouse.anthony-noel.com | deprecated-custom-domains.b-cdn.net |
 | mouse.botreach.co | deprecated-custom-domains.b-cdn.net |
@@ -778,6 +777,7 @@
 | rat.gimlet.io | deprecated-custom-domains.b-cdn.net |
 | raven.konquadrat.de | deprecated-custom-domains.b-cdn.net |
 | raven.vethelpdirect.com | deprecated-custom-domains.b-cdn.net |
+| reindeer.cablemod.com | deprecated-custom-domains.b-cdn.net |
 | reindeer.iainbroome.com | deprecated-custom-domains.b-cdn.net |
 | reindeer.pablomaceda.com | deprecated-custom-domains.b-cdn.net |
 | reptile.o-lit.fr | deprecated-custom-domains.b-cdn.net |
@@ -977,6 +977,7 @@
 | wildebeest.quarva.dev | deprecated-custom-domains.b-cdn.net |
 | wildebeest.soft-spoken.dev | deprecated-custom-domains.b-cdn.net |
 | wildebeest.trigo.dev | deprecated-custom-domains.b-cdn.net |
+| wildfowl.getmoneyoff.com | deprecated-custom-domains.b-cdn.net |
 | wildfowl.minter.io | deprecated-custom-domains.b-cdn.net |
 | wolf.idthompson.com | deprecated-custom-domains.b-cdn.net |
 | wolf.samarasousa.com | deprecated-custom-domains.b-cdn.net |
@@ -1002,7 +1003,6 @@
 | cdn.almacz.com | popcashjs.b-cdn.net |
 | cdn.alota.xyz | popcashjs.b-cdn.net |
 | cdn.asce.xyz | popcashjs.b-cdn.net |
-| cdn.asdb.xyz | popcashjs.b-cdn.net |
 | cdn.asdfix.com | popcashjs.b-cdn.net |
 | cdn.asdnow.xyz | popcashjs.b-cdn.net |
 | cdn.asecv.xyz | popcashjs.b-cdn.net |
@@ -1075,7 +1075,6 @@
 | cdn.namol.xyz | popcashjs.b-cdn.net |
 | cdn.nelhon.com | popcashjs.b-cdn.net |
 | cdn.nlkli.com | popcashjs.b-cdn.net |
-| cdn.nlop.xyz | popcashjs.b-cdn.net |
 | cdn.nmkli.com | popcashjs.b-cdn.net |
 | cdn.norymo.com | popcashjs.b-cdn.net |
 | cdn.npcta.xyz | popcashjs.b-cdn.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -111,7 +111,6 @@ jinx.skullctf.com CNAME .
 joy.ochronus.online CNAME .
 kaladyaudiology.ericksonbuilt.com CNAME .
 kingsandqueens.splowser.com CNAME .
-kon.mediaplatform.group CNAME .
 l.lilyzhou.com CNAME .
 l2k30jsa.theochu.com CNAME .
 lkj23jlkajsa.realestate.help CNAME .
@@ -740,7 +739,6 @@ stats.radicaldata.org CNAME .
 stats.radicalweb.design CNAME .
 stats.rasulkireev.com CNAME .
 stats.reactician.com CNAME .
-stats.readers.cafe CNAME .
 stats.readng.co CNAME .
 stats.redlabelsports.com CNAME .
 stats.redpandabooks.com CNAME .

@@ -138,6 +138,7 @@
     * allincu.extole.io
     * alltrucu.extole.io
     * amazon-web-services.extole.io
+    * amcstubs.extole.io
     * americaneagle.extole.io
     * americanmusical.extole.io
     * amerisleep.extole.io
@@ -248,6 +249,7 @@
     * desert-financial.extole.io
     * discountschoolsupply.extole.io
     * discover-bank.extole.io
+    * discover-digital-servicing.extole.io
     * discover-student-loan.extole.io
     * dolls-kill.extole.io
     * drunkelephant.extole.io
@@ -305,7 +307,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -362,6 +363,7 @@
     * lastcall.extole.io
     * laura-mercier.extole.io
     * layla-sleep.extole.io
+    * learnersedge.extole.io
     * lemonaidhealth.extole.io
     * lending-club.extole.io
     * lenscrafters.extole.io
@@ -418,6 +420,7 @@
     * paulmitchell.extole.io
     * paylocity.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -574,7 +577,6 @@
     * wrangler.extole.io
     * xfinity.extole.io
     * zazzle.extole.io
-    * zebit.extole.io
     * zenbusiness.extole.io
     * zenwork.extole.io
     * zinli.extole.io
@@ -612,6 +614,7 @@
 | share.allincu.com | allincu.extole.io |
 | share.alltrucu.org | alltrucu.extole.io |
 | refer.awscloud.com | amazon-web-services.extole.io |
+| refer.amctheatres.com | amcstubs.extole.io |
 | refer.american-giant.com | american-giant.extole.com |
 | refer.americaneagle.org | americaneagle.extole.io |
 | refer.americanexpress.com | americanexpress.extole.com |
@@ -756,6 +759,7 @@
 | share.cwbank.com | cwbank.extole.io |
 | ilove.volusion.com | d.extole.com |
 | refer-a-friend.trivantis.com | d.extole.com |
+| refer.solarwinds.com | d.extole.com |
 | tellapal.register.com | d.extole.com |
 | tellapal.web.com | d.extole.com |
 | share.dailypay.com | dailypay.extole.io |
@@ -768,6 +772,7 @@
 | share.desertfinancial.com | desert-financial.extole.io |
 | share.discountschoolsupply.com | discountschoolsupply.extole.io |
 | referafriend.discover.com | discover-bank.extole.io |
+| acq.discover.com | discover-digital-servicing.extole.io |
 | friend.discover.com | discover-student-loan.extole.io |
 | friend.discoverstudentloans.com | discover-student-loan.extole.io |
 | refer.discover.com | discover.extole.com |
@@ -888,7 +893,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -971,6 +975,7 @@
 | refer.lauramercier.com | laura-mercier.extole.io |
 | refer.laylasleep.com | layla-sleep.extole.io |
 | refer.leadmd.com | leadmd.extole.com |
+| share.learnersedge.com | learnersedge.extole.io |
 | refer.lemonaidhealth.com | lemonaidhealth.extole.io |
 | refer.lendingclub.com | lending-club.extole.io |
 | refer.lenscrafters.com | lenscrafters.extole.io |
@@ -987,6 +992,7 @@
 | refer.lull.com | lull.extole.io |
 | refer.lumenoptical.com | lumen-optical.extole.io |
 | businessreferrals.lumen.com | lumen.extole.io |
+| refer.centurylink.com | lumen.extole.io |
 | refer.quantumfiber.com | lumen.extole.io |
 | referrals.lumen.com | lumen.extole.io |
 | score.lumen.com | lumen.extole.io |
@@ -1056,6 +1062,7 @@
 | refer.paylocity.com | paylocity.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1294,7 +1301,6 @@
 | xtl._domainkey.skillshare.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
 | refer.zazzlereferral.com | zazzle.extole.io |
-| share.zebit.com | zebit.extole.io |
 | share.zenbusiness.com | zenbusiness.extole.io |
 | refer.1099online.com | zenwork.extole.io |
 | refer.tax1099.com | zenwork.extole.io |

@@ -173,6 +173,7 @@ contendvc.cnouyi.pizza
 content-tix.topi.eu
 content-uk.fundingcircle.com
 content.addisonlee.com
+content.affinityfcu.com
 content.ageas.co.uk
 content.allstate.com
 content.alterna.ca
@@ -400,6 +401,7 @@ dfp.mcdonalds.fr
 dfp.s-budget-mobile.at
 dfp.t-mobile.at
 dfp.telering.at
+dicontent.creditkarma.com
 did.fashionworld.co.uk
 did.koempf24.de
 digitalid-qa.santanderbank.com
@@ -428,6 +430,7 @@ event.evtm.53.com
 faas.2dehands.be
 faas.2ememain.be
 faas.marktplaats.nl
+fd-tm.upgrade.com
 fdts.ebay-kleinanzeigen.de
 fdts.kleinanzeigen.de
 fingerprint.fool.com

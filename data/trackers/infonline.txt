@@ -1337,6 +1337,7 @@
 ||data-9e4ff1c91f.wz.de^
 ||data-9e925e9341.this-magazin.de^
 ||data-9ea3ac5fe9.food-service.de^
+||data-9f311cce4c.nofi-lauf.de^
 ||data-9f311cce4c.onetz.de^
 ||data-9f426096e1.wz-net.de^
 ||data-9f47bd3ec3.fupa.net^
@@ -1601,6 +1602,7 @@
 ||data-bb21a2f11b.techbook.de^
 ||data-bb21a2f11b.travelbook.de^
 ||data-bb4ada6163.travelbook.de^
+||data-bc153aec3e.addradio.de^
 ||data-bc153aec3e.radioguetersloh.de^
 ||data-bc16fafbba.stadtbibliothek-reutlingen.de^
 ||data-bc52ee58ca.meinprospekt.de^
@@ -2042,6 +2044,7 @@
 ||data-f1e447fbcf.kreis-anzeiger.de^
 ||data-f1e447fbcf.kreisbote.de^
 ||data-f1e447fbcf.kreiszeitung.de^
+||data-f1e447fbcf.kurierverlag.de^
 ||data-f1e447fbcf.landtiere.de^
 ||data-f1e447fbcf.leinetal24.de^
 ||data-f1e447fbcf.ludwigshafen24.de^

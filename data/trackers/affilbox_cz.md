@@ -305,6 +305,7 @@
 | box.cryptokingdom.tech | cz.affilbox.cz |
 | box.kryptotrejder.sk | cz.affilbox.cz |
 | brana.ritualyomlazeni.cz | cz.affilbox.cz |
+| collab.zdravetricko.cz | cz.affilbox.cz |
 | dekovacka.hezkres.cz | cz.affilbox.cz |
 | doporuc.hopsej.cz | cz.affilbox.cz |
 | doporuc.konferenceryba.cz | cz.affilbox.cz |
@@ -697,6 +698,7 @@
 | partner.svetcukrarov.sk | cz.affilbox.cz |
 | partner.svetcukraru.cz | cz.affilbox.cz |
 | partner.svetruzi.cz | cz.affilbox.cz |
+| partner.swaglift.com | cz.affilbox.cz |
 | partner.sypanycaj.eu | cz.affilbox.cz |
 | partner.tajemstvi-uspechu.cz | cz.affilbox.cz |
 | partner.thechillidoctor.cz | cz.affilbox.cz |
@@ -879,7 +881,6 @@
 | partners.oktagon.tv | cz.affilbox.cz |
 | partners.pocitarna.cz | cz.affilbox.cz |
 | partners.puravidashop.cz | cz.affilbox.cz |
-| partners.rebelsfunding.com | cz.affilbox.cz |
 | partners.spiritradar.com | cz.affilbox.cz |
 | plus.mameradivlasy.cz | cz.affilbox.cz |
 | promo.smskouc.cz | cz.affilbox.cz |

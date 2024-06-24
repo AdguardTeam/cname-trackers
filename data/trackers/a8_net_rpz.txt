@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1446,7 +1446,6 @@ cv.japan-curtain.jp CNAME .
 cv.jidoumail.com CNAME .
 cv.joggo.jp CNAME .
 cv.just-size.net CNAME .
-cv.kids-laboratory.co.jp CNAME .
 cv.kuvings.jp CNAME .
 cv.liability.jp CNAME .
 cv.masteraxis.com CNAME .

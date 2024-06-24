@@ -9,7 +9,6 @@ cdn.aliwjo.com
 cdn.almacz.com
 cdn.alota.xyz
 cdn.asce.xyz
-cdn.asdb.xyz
 cdn.asdfix.com
 cdn.asdnow.xyz
 cdn.asecv.xyz
@@ -82,7 +81,6 @@ cdn.mwrgi.com
 cdn.namol.xyz
 cdn.nelhon.com
 cdn.nlkli.com
-cdn.nlop.xyz
 cdn.nmkli.com
 cdn.norymo.com
 cdn.npcta.xyz
@@ -721,7 +719,6 @@ mosquito.nooraldiyar.com
 mosquito.zero.io
 moth.artsmia.org
 moth.jkundp.at
-moth.treeferral.com
 moth.underscoretw.com
 mouse.anthony-noel.com
 mouse.botreach.co
@@ -840,6 +837,7 @@ raccoon.jaronheard.com
 rat.gimlet.io
 raven.konquadrat.de
 raven.vethelpdirect.com
+reindeer.cablemod.com
 reindeer.iainbroome.com
 reindeer.pablomaceda.com
 reptile.o-lit.fr
@@ -1039,6 +1037,7 @@ wildebeest.gmk.today
 wildebeest.quarva.dev
 wildebeest.soft-spoken.dev
 wildebeest.trigo.dev
+wildfowl.getmoneyoff.com
 wildfowl.minter.io
 wolf.idthompson.com
 wolf.samarasousa.com

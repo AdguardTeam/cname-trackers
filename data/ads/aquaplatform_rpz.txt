@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,12 +50,16 @@ cdn.rlnads.net CNAME .
 championads.midtc.com CNAME .
 console.informingnews.com CNAME .
 coreads.cambridge.org CNAME .
+display.lawbulletin.com CNAME .
+images.addurance.com CNAME .
 images.cricketworld.com CNAME .
 images.informatm.com CNAME .
 lalala.geenstijl.nl CNAME .
 openx.mondiale.co.uk CNAME .
 ox.mequoda.com CNAME .
+proxena-images.reviveservers.com CNAME .
 proxena-secure.reviveservers.com CNAME .
+revive.ahk.de CNAME .
 revive.worldscreen.com CNAME .
 serve.faithlifeads.com CNAME .
 servedby.adbility-media.com CNAME .
@@ -74,6 +78,7 @@ servedby.insideradverts.com CNAME .
 servedby.lintigroup.se CNAME .
 servedby.livingmagonline.com CNAME .
 servedby.mannixmarketing.com CNAME .
+servedby.medlabmag.com CNAME .
 servedby.miningweekly.com CNAME .
 servedby.mondiale.co.uk CNAME .
 servedby.myadsmyanmar.com CNAME .
@@ -91,11 +96,14 @@ servedby.schrotundkorn.de CNAME .
 servedby.tahoe.com CNAME .
 servedby.trackandfieldnews.com CNAME .
 server.ad.logic-prod.viasat.io CNAME .
+static.ad.logic-prod.viasat.io CNAME .
 static.aqua-adserver.com CNAME .
 static.biohandel.de CNAME .
 static.consulcesi.it CNAME .
 static.environmentalleader.com CNAME .
+static.livingmagonline.com CNAME .
 static.mannixmarketing.com CNAME .
+static.polity.org.za CNAME .
 static.proxibid.com CNAME .
 static.schrotundkorn.de CNAME .
 static.sonicplug.com CNAME .

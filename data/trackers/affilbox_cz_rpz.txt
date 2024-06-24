@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -297,6 +297,7 @@ ambassadors.montessoriparenting.org CNAME .
 box.cryptokingdom.tech CNAME .
 box.kryptotrejder.sk CNAME .
 brana.ritualyomlazeni.cz CNAME .
+collab.zdravetricko.cz CNAME .
 dekovacka.hezkres.cz CNAME .
 doporuc.hopsej.cz CNAME .
 doporuc.konferenceryba.cz CNAME .
@@ -689,6 +690,7 @@ partner.svatebni-diar.cz CNAME .
 partner.svetcukrarov.sk CNAME .
 partner.svetcukraru.cz CNAME .
 partner.svetruzi.cz CNAME .
+partner.swaglift.com CNAME .
 partner.sypanycaj.eu CNAME .
 partner.tajemstvi-uspechu.cz CNAME .
 partner.thechillidoctor.cz CNAME .
@@ -871,7 +873,6 @@ partners.lawofattraction.cz CNAME .
 partners.oktagon.tv CNAME .
 partners.pocitarna.cz CNAME .
 partners.puravidashop.cz CNAME .
-partners.rebelsfunding.com CNAME .
 partners.spiritradar.com CNAME .
 plus.mameradivlasy.cz CNAME .
 promo.smskouc.cz CNAME .

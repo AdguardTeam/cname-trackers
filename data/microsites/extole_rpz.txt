@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -96,6 +96,7 @@ refer.roadrunnersports.com CNAME .
 refer.sage.com CNAME .
 refer.shoesforcrews.com CNAME .
 refer.silvercar.com CNAME .
+refer.solarwinds.com CNAME .
 refer.sperry.com CNAME .
 refer.staples.com CNAME .
 refer.talbots.com CNAME .
@@ -135,10 +136,11 @@ social.fabkids.com CNAME .
 tellapal.register.com CNAME .
 tellapal.web.com CNAME .
 www.trevoce.com CNAME .
+acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -168,6 +170,7 @@ refer.abacusnext.com CNAME .
 refer.acornonline.com CNAME .
 refer.akcpetinsurance.com CNAME .
 refer.allenedmonds.com CNAME .
+refer.amctheatres.com CNAME .
 refer.americaneagle.org CNAME .
 refer.americanmusical.com CNAME .
 refer.amerisleep.com CNAME .
@@ -206,6 +209,7 @@ refer.cacique.com CNAME .
 refer.catfootwear.com CNAME .
 refer.cbdpillow.com CNAME .
 refer.centier.com CNAME .
+refer.centurylink.com CNAME .
 refer.chacos.com CNAME .
 refer.cheaptickets.com CNAME .
 refer.chicos.com CNAME .
@@ -567,6 +571,7 @@ share.knoxnews.com CNAME .
 share.kumon.com CNAME .
 share.la-mariette.com CNAME .
 share.lansingstatejournal.com CNAME .
+share.learnersedge.com CNAME .
 share.levi.com CNAME .
 share.lifedna.com CNAME .
 share.livongo.com CNAME .
@@ -707,7 +712,6 @@ share.whiparound.com CNAME .
 share.whistle.com CNAME .
 share.wisdompanel.com CNAME .
 share.wombatinvest.com CNAME .
-share.zebit.com CNAME .
 share.zenbusiness.com CNAME .
 www.refer.xfinity.com CNAME .
 www.referessentials.com CNAME .
@@ -716,7 +720,7 @@ em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em8928.em.petco.com CNAME .
+em8561.go2bank.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.skillshare.com CNAME .

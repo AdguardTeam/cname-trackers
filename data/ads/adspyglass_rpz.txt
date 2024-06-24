@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,7 +27,6 @@ $TTL 300
 21sdf3g2.fsseeewzz.quest CNAME .
 2222.sanjay44.xyz CNAME .
 2222.sieglinde22.xyz CNAME .
-259luxu.xyz CNAME .
 25serve.yourporngod.com CNAME .
 2asd3413.fsseeewzz.lol CNAME .
 3333.sanjay44.xyz CNAME .
@@ -74,6 +73,7 @@ a.cloba.xyz CNAME .
 a.coinhub.wiki CNAME .
 a.cpbj8ddae04d.shop CNAME .
 a.craftbeerclub.com.ua CNAME .
+a.cromq.xyz CNAME .
 a.dhoma.xyz CNAME .
 a.digitalgiftshopping.com CNAME .
 a.donyandmark.xyz CNAME .
@@ -149,7 +149,9 @@ a.zillastream.com CNAME .
 a.zvert.xyz CNAME .
 a5g.oves.biz CNAME .
 a9o.youlikeboys.com CNAME .
+aa.429men.com CNAME .
 aa.4wank.com CNAME .
+aa.fapnado.xxx CNAME .
 aa.zerg.pro CNAME .
 aaa.sieglinde22.xyz CNAME .
 aab.faperoni.com CNAME .
@@ -269,7 +271,6 @@ b1.hentaibaka.one CNAME .
 b1.maturesexvideos.pro CNAME .
 b43gf.sanjay44.xyz CNAME .
 b8ms7gkwq7g.crocotube.com CNAME .
-babynaz.xyz CNAME .
 bakld.com CNAME .
 banana.arabtoons.net CNAME .
 baukeri.ehrydnmdoe.com CNAME .
@@ -283,7 +284,6 @@ bigpornclips.com CNAME .
 bigsexvids.com CNAME .
 bikeno.xyz CNAME .
 bio.booseed.com CNAME .
-blog.andropps.com CNAME .
 blow.week1time.com CNAME .
 bnrs.esexa.online CNAME .
 boob.sukaporn.com CNAME .
@@ -350,7 +350,6 @@ dfgw.neigh11.xyz CNAME .
 dg3qtwew.sanjay44.xyz CNAME .
 digiadzone.com CNAME .
 display.cdnbucket.com CNAME .
-dl.4kporn.xxx CNAME .
 dl.crazyporn.xxx CNAME .
 dl.hoes.tube CNAME .
 dl.love4porn.com CNAME .
@@ -383,7 +382,6 @@ f-g-l-j.22yy6.com CNAME .
 f.bfvideo1.com CNAME .
 f.bloblohub.com CNAME .
 f5w.prettytube.net CNAME .
-fansang.xyz CNAME .
 fe34.sieglinde22.xyz CNAME .
 fff.sieglinde22.xyz CNAME .
 fg850ik01.6g0blqi1541polz4n0kjvwo1kjl5tcx30.xyz CNAME .
@@ -501,7 +499,6 @@ l.bloblohub.com CNAME .
 l9zkm.pleasedonotblockme.com CNAME .
 lagrys.xyz CNAME .
 larasub.conxxx.pro CNAME .
-lengtikto.xyz CNAME .
 lixir.wargers.org CNAME .
 load.try-games.com CNAME .
 logshort.xyz CNAME .
@@ -551,7 +548,6 @@ mx6.3pornhere.com CNAME .
 my.avatarweb.site CNAME .
 my.shymilftube.com CNAME .
 mydomainbest.com CNAME .
-mylives.xyz CNAME .
 mziso.xyz CNAME .
 n.bloblohub.com CNAME .
 n.hnntube.com CNAME .
@@ -581,6 +577,7 @@ o.xofilmes.com CNAME .
 o.xoporn.com CNAME .
 o313o.com CNAME .
 o911o.com CNAME .
+oainzuo.xyz CNAME .
 oi.429men.com CNAME .
 oi.fapnado.xxx CNAME .
 oi.fapnow.xxx CNAME .
@@ -591,11 +588,11 @@ oj.fapnado.xxx CNAME .
 oj.fapnow.xxx CNAME .
 ok.fapnow.xxx CNAME .
 oldsia.xyz CNAME .
+ontj.com CNAME .
 opus.sexyxxx.biz CNAME .
 ox8.topsexhdvideos.com CNAME .
 ozoj.com CNAME .
 p.gerdasetmay.site CNAME .
-p.hgfdtujlknhkghf.site CNAME .
 p.htdjylhttfm0424.space CNAME .
 p.strjuylfrjyk.site CNAME .
 p.upskirt.tv CNAME .
@@ -644,7 +641,6 @@ q.kvovs.xyz CNAME .
 q.leru.xyz CNAME .
 q.roovs.xyz CNAME .
 qhip.com CNAME .
-qoqv.com CNAME .
 qovua60gue.tubewolf.com CNAME .
 qsdr.mysunnylawn.com CNAME .
 qualification2.fun CNAME .
@@ -654,6 +650,7 @@ quatxio.xyz CNAME .
 question.hot-step-mom.com CNAME .
 quiazo.xyz CNAME .
 quickzo.xyz CNAME .
+quizna.xyz CNAME .
 qwe4456133.justthegays.com CNAME .
 qx0.xnxxtubevideos.com CNAME .
 r.archertube.com CNAME .
@@ -668,6 +665,7 @@ redi.teengirl-pics.com CNAME .
 reklama.teenfuckhd.com CNAME .
 rema.neigh11.xyz CNAME .
 reryn3ce.com CNAME .
+rerynjia.com CNAME .
 rerynjie.com CNAME .
 rest.sexypornvideo.net CNAME .
 reton.free-porn-videos.org CNAME .
@@ -754,7 +752,6 @@ sup.srvtax.com CNAME .
 super.koreanpornmovie.xyz CNAME .
 supplementary2.fun CNAME .
 support.streamjav.top CNAME .
-tagbucks.xyz CNAME .
 tagmai.xyz CNAME .
 tagrua.xyz CNAME .
 tagun.xyz CNAME .
@@ -771,7 +768,6 @@ tiktakz.xyz CNAME .
 tkauru.xyz CNAME .
 tkwe.tjaard11.xyz CNAME .
 tlv.ui02.com CNAME .
-toabuck.xyz CNAME .
 topsexmovs.com CNAME .
 touaz.xyz CNAME .
 touena.xyz CNAME .
@@ -804,7 +800,6 @@ vi1.prettytube.net CNAME .
 vid.prettytube.net CNAME .
 video.cdnako.com CNAME .
 vikaez.xyz CNAME .
-vivuple.xyz CNAME .
 vo.turbocap.net CNAME .
 vsx.hotpornfile.org CNAME .
 vuiluaz.xyz CNAME .

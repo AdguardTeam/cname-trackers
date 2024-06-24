@@ -100,7 +100,6 @@
 ||joy.ochronus.online^
 ||kaladyaudiology.ericksonbuilt.com^
 ||kingsandqueens.splowser.com^
-||kon.mediaplatform.group^
 ||l.lilyzhou.com^
 ||l2k30jsa.theochu.com^
 ||lkj23jlkajsa.realestate.help^
@@ -729,7 +728,6 @@
 ||stats.radicalweb.design^
 ||stats.rasulkireev.com^
 ||stats.reactician.com^
-||stats.readers.cafe^
 ||stats.readng.co^
 ||stats.redlabelsports.com^
 ||stats.redpandabooks.com^

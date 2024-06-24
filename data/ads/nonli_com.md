@@ -67,6 +67,7 @@
 | l.lavoixdunord.fr | tls.non.li |
 | l.lefigaro.fr | tls.non.li |
 | l.leparisien.fr | tls.non.li |
+| l.lepoint.fr | tls.non.li |
 | l.lequotidiendelart.com | tls.non.li |
 | l.lindependant.fr | tls.non.li |
 | l.lunion.fr | tls.non.li |

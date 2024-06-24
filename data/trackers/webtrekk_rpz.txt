@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -246,6 +246,7 @@ tr.suedkurier.de CNAME .
 trail-001.schleich-s.com CNAME .
 trk.blume2000.de CNAME .
 trk.krebsversicherung.de CNAME .
+trk.nuernberger.com CNAME .
 trk.nuernberger.de CNAME .
 trk.nuernberger.digital CNAME .
 w.ilfattoquotidiano.it CNAME .

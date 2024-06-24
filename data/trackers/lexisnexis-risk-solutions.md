@@ -16,6 +16,7 @@
     * h-1dwgke3d.online-metrix.net
     * h-1fezyu0r.online-metrix.net
     * h-1hr2syw3.online-metrix.net
+    * h-1j9pdvix.online-metrix.net
     * h-1k066192.online-metrix.net
     * h-1kcyydia.online-metrix.net
     * h-1lc506lh.online-metrix.net
@@ -74,6 +75,7 @@
     * h-6a6y6kka.online-metrix.net
     * h-6bp8wff7.online-metrix.net
     * h-6e1hqgi3.online-metrix.net
+    * h-6ej4o5iw.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
     * h-6i24djkv.online-metrix.net
     * h-6jfhwoo3.online-metrix.net
@@ -676,6 +678,7 @@
     * h-uscellular.online-metrix.net
     * h-uship.online-metrix.net
     * h-usps.online-metrix.net
+    * h-v60nf4oj-credkarm.online-metrix.net
     * h-v60nf4oj-pfp.online-metrix.net
     * h-v60nf4oj-qfp.online-metrix.net
     * h-v60nf4oj-rfp.online-metrix.net
@@ -744,6 +747,7 @@
 | fp.ubagroup.com | h-1dwgke3d.online-metrix.net |
 | elevate.stg.na02.aws.ballys.tech | h-1fezyu0r.online-metrix.net |
 | ls-dp.nj.thelotter.us | h-1hr2syw3.online-metrix.net |
+| fd-tm.upgrade.com | h-1j9pdvix.online-metrix.net |
 | posture.mtoken.zand.ae | h-1k066192.online-metrix.net |
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
@@ -879,6 +883,7 @@
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | device.register.greenlight.com | h-6bp8wff7.online-metrix.net |
 | tags.3ds.denizbank.at | h-6e1hqgi3.online-metrix.net |
+| content.affinityfcu.com | h-6ej4o5iw.online-metrix.net |
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
 | cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
@@ -1677,6 +1682,7 @@
 | img4.uscellular.com | h-uscellular.online-metrix.net |
 | tm.uship.com | h-uship.online-metrix.net |
 | content.usps.com | h-usps.online-metrix.net |
+| dicontent.creditkarma.com | h-v60nf4oj-credkarm.online-metrix.net |
 | pfp.intuit.com | h-v60nf4oj-pfp.online-metrix.net |
 | qfp.intuit.com | h-v60nf4oj-qfp.online-metrix.net |
 | rfp.intuit.com | h-v60nf4oj-rfp.online-metrix.net |

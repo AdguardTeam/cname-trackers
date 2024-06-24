@@ -663,6 +663,7 @@
 ||3662967.notifysrv.com^
 ||3662975.notifysrv.com^
 ||3668783.notifysrv.com^
+||3668785.notify6.com^
 ||3668785.notifysrv.com^
 ||3668787.notifysrv.com^
 ||3668791.notify6.com^
@@ -733,6 +734,7 @@
 ||3856373.notify6.com^
 ||3858841.notify6.com^
 ||3869256.notifysrv.com^
+||3869270.notifysrv.com^
 ||3869316.notify6.com^
 ||3869316.notifysrv.com^
 ||3869376.notify6.com^
@@ -846,6 +848,7 @@
 ||4068860.notify6.com^
 ||4069896.notify6.com^
 ||4069900.notify6.com^
+||4078544.notify6.com^
 ||4080560.notify6.com^
 ||4080606.notify6.com^
 ||4086498.notify6.com^
@@ -868,6 +871,7 @@
 ||4151384.notify6.com^
 ||4152268.notify6.com^
 ||4152316.notify6.com^
+||4152324.notify6.com^
 ||4152328.notify6.com^
 ||4153216.notify6.com^
 ||4160048.notify6.com^
@@ -1041,6 +1045,7 @@
 ||993.notify.optimizesrv.com^
 ||_sip._tcp.meet.3393147.notifysrv.com^
 ||_sips._tcp.3323174.notifysrv.com^
+||a.344eva.com^
 ||a.addisplaynetwork.com^
 ||a.adsession.com^
 ||a.advantageclicks.net^
@@ -1059,7 +1064,6 @@
 ||a.redpathmedia.com^
 ||a.rocoads.net^
 ||a.santabrowser.com^
-||a.slice.exchange^
 ||a.stuffserve.com^
 ||a.tf4srv.com^
 ||a.vws4brkfst.com^
@@ -1068,6 +1072,7 @@
 ||admin.etology.com^
 ||admin.exoclick.com^
 ||admin.gettopple.com^
+||admin.redpathmedia.com^
 ||admin.shafttraffic.com^
 ||admin.trafficfactory.com^
 ||adrepository.opoxv.com^
@@ -1100,6 +1105,7 @@
 ||rtb.exoclick.com^
 ||rtb.nowsrv.com^
 ||rtb.trafficfactory.com^
+||s.344eva.com^
 ||s.adnflow.com^
 ||s.adsession.com^
 ||s.advantageclicks.net^
@@ -1242,4 +1248,5 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||a.bizonads-ssp.com^
+||a.slice.exchange^
 ||ads.optimizesrv.com^

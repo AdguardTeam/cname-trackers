@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -118,6 +118,7 @@ jx.yonnersekere.com CNAME .
 jy.astylararsines.com CNAME .
 kc.droyltenuate.com CNAME .
 kl.embarupbuoy.com CNAME .
+kq.myrtolbanzai.com CNAME .
 kr.cafenehkikki.com CNAME .
 ks.tipsifyfriezer.com CNAME .
 kt.guywireincorp.com CNAME .
@@ -129,6 +130,7 @@ lc.nodoseamylic.com CNAME .
 ld.stengskelped.com CNAME .
 ld.wraithydecides.com CNAME .
 lf.hagweedtoytown.com CNAME .
+lf.taxwaxgrego.com CNAME .
 lg.feoffortapetis.com CNAME .
 ls.hongaries.com CNAME .
 lw.cupriteshride.com CNAME .
@@ -268,6 +270,7 @@ xw.horrifyclausum.com CNAME .
 xx.billaesopus.com CNAME .
 xx.foetorsnudisms.com CNAME .
 yg.coehornjobbet.com CNAME .
+yg.jivinggrazers.com CNAME .
 yh.jewelyavoir.com CNAME .
 yk.dissentsangir.com CNAME .
 yl.calumetjowing.com CNAME .

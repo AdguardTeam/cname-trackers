@@ -937,6 +937,7 @@
 | tr.offresbtoc.engie.fr | tracking.bp01.net |
 | tr.offrevip.floa.fr | tracking.bp01.net |
 | tr.ojxm.espmp-aufr.net | tracking.bp01.net |
+| tr.online.longchamp.com | tracking.bp01.net |
 | tr.openinnovation.lvmh.com | tracking.bp01.net |
 | tr.orange-lease.fr | tracking.bp01.net |
 | tr.orcamento-online.pt | tracking.bp01.net |

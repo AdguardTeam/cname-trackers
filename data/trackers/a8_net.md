@@ -1446,7 +1446,6 @@
 | cv.jidoumail.com | trck.a8.net |
 | cv.joggo.jp | trck.a8.net |
 | cv.just-size.net | trck.a8.net |
-| cv.kids-laboratory.co.jp | trck.a8.net |
 | cv.kuvings.jp | trck.a8.net |
 | cv.liability.jp | trck.a8.net |
 | cv.masteraxis.com | trck.a8.net |

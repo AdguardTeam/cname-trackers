@@ -5,6 +5,7 @@
 * aquaplatform.com
     * adaptigo-console.aquaplatform.com
     * adbility-delivery.aquaplatform.com
+    * ahk-delivery.aquaplatform.com
     * ammoland-delivery.aquaplatform.com
     * artionet-delivery.aquaplatform.com
     * atg-delivery.aquaplatform.com
@@ -15,6 +16,7 @@
     * consulcesi-delivery.aquaplatform.com
     * consulcesi-static.aquaplatform.com
     * creamer-delivery.aquaplatform.com
+    * creamer-static.aquaplatform.com
     * datateam-delivery.aquaplatform.com
     * datateam-static.aquaplatform.com
     * el-delivery.aquaplatform.com
@@ -27,8 +29,10 @@
     * hourmedia-delivery.aquaplatform.com
     * hourmedia-static.aquaplatform.com
     * im-delivery.aquaplatform.com
+    * lawbulletin-delivery.aquaplatform.com
     * lb-delivery.aquaplatform.com
     * livingmag-delivery.aquaplatform.com
+    * livingmag-static.aquaplatform.com
     * localmatchmaker-delivery.aquaplatform.com
     * localmatchmaker-static.aquaplatform.com
     * mannix-delivery.aquaplatform.com
@@ -63,6 +67,7 @@
     * unionesarda-delivery.aquaplatform.com
     * unionesarda-static.aquaplatform.com
     * viasat-delivery.aquaplatform.com
+    * viasat-static.aquaplatform.com
     * worldscreen-delivery.aquaplatform.com
     * wwoz-delivery.aquaplatform.com
 
@@ -72,6 +77,7 @@
 | ---- | ---- |
 | console.informingnews.com | adaptigo-console.aquaplatform.com |
 | servedby.adbility-media.com | adbility-delivery.aquaplatform.com |
+| revive.ahk.de | ahk-delivery.aquaplatform.com |
 | servedby.ammoland.com | ammoland-delivery.aquaplatform.com |
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
 | ads.worldofshowjumping.com | artionet-delivery.aquaplatform.com |
@@ -87,6 +93,7 @@
 | servedby.engineeringnews.co.za | creamer-delivery.aquaplatform.com |
 | servedby.miningweekly.com | creamer-delivery.aquaplatform.com |
 | servedby.polity.org.za | creamer-delivery.aquaplatform.com |
+| static.polity.org.za | creamer-static.aquaplatform.com |
 | ads.datateam.co.uk | datateam-delivery.aquaplatform.com |
 | cdn.datateam.co.uk | datateam-static.aquaplatform.com |
 | ads.environmentalleader.com | el-delivery.aquaplatform.com |
@@ -102,8 +109,10 @@
 | servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | banners.orangecoast.com | hourmedia-static.aquaplatform.com |
 | servedby.insideradverts.com | im-delivery.aquaplatform.com |
+| display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
 | banners.leightonbroadcasting.com | lb-delivery.aquaplatform.com |
 | servedby.livingmagonline.com | livingmag-delivery.aquaplatform.com |
+| static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
 | cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
 | servedby.mannixmarketing.com | mannix-delivery.aquaplatform.com |
@@ -122,7 +131,9 @@
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |
 | cdn.personare.com.br | personare-static.aquaplatform.com |
 | assets.lintigroup.se | platformiq-cdn.aquaplatform.com |
+| images.addurance.com | platformiq-cdn.aquaplatform.com |
 | images.informatm.com | platformiq-cdn.aquaplatform.com |
+| proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | adserver.infotorg.se | platformiq-del.aquaplatform.com |
 | adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
@@ -148,6 +159,7 @@
 | adimages.sniffies.com | revivehosted-static.aquaplatform.com |
 | cdn.revive-adserver.net | revivehosted-static.aquaplatform.com |
 | images.cricketworld.com | revivehosted-static.aquaplatform.com |
+| servedby.medlabmag.com | ridgewood-delivery.aquaplatform.com |
 | servedby.pppmag.com | ridgewood-delivery.aquaplatform.com |
 | servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |
 | adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
@@ -159,5 +171,6 @@
 | adv.unionesarda.it | unionesarda-delivery.aquaplatform.com |
 | cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
 | server.ad.logic-prod.viasat.io | viasat-delivery.aquaplatform.com |
+| static.ad.logic-prod.viasat.io | viasat-static.aquaplatform.com |
 | revive.worldscreen.com | worldscreen-delivery.aquaplatform.com |
 | treehouse.wwoz.org | wwoz-delivery.aquaplatform.com |

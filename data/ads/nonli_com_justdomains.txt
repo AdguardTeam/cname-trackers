@@ -50,6 +50,7 @@ l.lardennais.fr
 l.lavoixdunord.fr
 l.lefigaro.fr
 l.leparisien.fr
+l.lepoint.fr
 l.lequotidiendelart.com
 l.lindependant.fr
 l.lunion.fr

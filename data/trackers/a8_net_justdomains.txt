@@ -1435,7 +1435,6 @@ cv.japan-curtain.jp
 cv.jidoumail.com
 cv.joggo.jp
 cv.just-size.net
-cv.kids-laboratory.co.jp
 cv.kuvings.jp
 cv.liability.jp
 cv.masteraxis.com

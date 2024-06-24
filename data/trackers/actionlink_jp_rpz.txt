@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1718611207938        ; Serial
+           1719216006999        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ al.keymemory.co.jp CNAME .
 al.kirario.jp CNAME .
 al.kosei.com CNAME .
 al.kurone.jp CNAME .
+al.maikon.jp CNAME .
 al.mitsubachi-note.com CNAME .
 al.morigaku.jp CNAME .
 al.nakayamashouten.com CNAME .
