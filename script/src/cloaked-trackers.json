@@ -190,6 +190,13 @@
         ]
     },
     {
+        "company_name": "GoatCounter",
+        "type": "tracker",
+        "domains": [
+            "goatcounter.com"
+        ]
+    },
+    {
         "company_name": "heleric.com",
         "type": "ad",
         "domains": [
