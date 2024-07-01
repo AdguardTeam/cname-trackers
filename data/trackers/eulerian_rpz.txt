@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -78,7 +78,6 @@ ch.credithypo.com CNAME .
 ch0p.darty.com CNAME .
 cls7.theushuaiaexperience.com CNAME .
 cpgo.avatacar.com CNAME .
-cph.credit-pret-hypothecaire.com CNAME .
 cse3.chausport.com CNAME .
 csm.magnetintell.com CNAME .
 csv4.ebs-paris.fr CNAME .
@@ -191,6 +190,7 @@ ef.futuroscope.mobi CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
+erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 eule1.pmu.fr CNAME .
@@ -238,7 +238,6 @@ fbu8.montecarloluxuryhotels.com CNAME .
 fbu8.montecarlosbm.com CNAME .
 fbu8.montecarloseasonalsale.com CNAME .
 fbu8.ticket-online.montecarlolive.com CNAME .
-fek1.fnactickets.com CNAME .
 fkwc.sfr.fr CNAME .
 fl5dpe.oui.sncf CNAME .
 fma7.aegon.es CNAME .
@@ -504,7 +503,6 @@ c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
-erb.tremblant.ca CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
 ea.mnt.fr CNAME .

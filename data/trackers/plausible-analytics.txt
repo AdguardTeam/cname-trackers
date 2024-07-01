@@ -575,7 +575,6 @@
 ||stats.jsbible.com^
 ||stats.jtrees.io^
 ||stats.jun-etan.com^
-||stats.juniperslab.com^
 ||stats.justinwilliams.ca^
 ||stats.kaladyaudiology.com^
 ||stats.katharinascheitz.com^

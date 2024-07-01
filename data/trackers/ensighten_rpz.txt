@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -108,6 +108,7 @@ assets1.apia.com.au CNAME .
 assets1.asteronlife.co.nz CNAME .
 assets1.bingle.com.au CNAME .
 assets1.cilinsurance.com.au CNAME .
+assets1.gi.amp.co.nz CNAME .
 assets1.gio.com.au CNAME .
 assets1.shannons.com.au CNAME .
 assets1.suncorp.co.nz CNAME .
@@ -382,6 +383,7 @@ tms.nabmarginlending.com.au CNAME .
 tms.nabtrade.com.au CNAME .
 tms.nationaltrust.org.uk CNAME .
 tms.rsa.com CNAME .
+tms.suzukibusinesscloud-qa.com CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .
 uat1-dc.pagoda.com CNAME .

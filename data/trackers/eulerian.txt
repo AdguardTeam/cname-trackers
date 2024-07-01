@@ -67,7 +67,6 @@
 ||ch0p.darty.com^
 ||cls7.theushuaiaexperience.com^
 ||cpgo.avatacar.com^
-||cph.credit-pret-hypothecaire.com^
 ||cse3.chausport.com^
 ||csm.magnetintell.com^
 ||csv4.ebs-paris.fr^
@@ -180,6 +179,7 @@
 ||eit3.destinia.nl^
 ||ek8.voyage-prive.com^
 ||elr.sfr.fr^
+||erb.tremblant.ca^
 ||ert5.rmcsport.tv^
 ||et.sncf.com^
 ||eule1.pmu.fr^
@@ -227,7 +227,6 @@
 ||fbu8.montecarlosbm.com^
 ||fbu8.montecarloseasonalsale.com^
 ||fbu8.ticket-online.montecarlolive.com^
-||fek1.fnactickets.com^
 ||fkwc.sfr.fr^
 ||fl5dpe.oui.sncf^
 ||fma7.aegon.es^
@@ -493,7 +492,6 @@
 ||c0p.cepsum.umontreal.ca^
 ||d2u.dauphinquebec.com^
 ||eat9.thebeat925.ca^
-||erb.tremblant.ca^
 ||nym5c.bonlook.com^
 ||ry0.rythmefm.com^
 ||ea.mnt.fr^

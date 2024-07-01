@@ -6,6 +6,7 @@
 ||ap.saluteeyeseed.com^
 ||ar.pagodaskeeker.com^
 ||au.maniatoile.com^
+||av.dizziesferri.com^
 ||av.eulerupslant.com^
 ||ax.helcoidpedicel.com^
 ||ax.mousmeetrike.com^
@@ -33,6 +34,7 @@
 ||cl.durezzacrowns.com^
 ||cq.stoundisocrat.com^
 ||ct.eanlingtumfie.com^
+||cw.tynessubpart.com^
 ||cy.chettikmacrli.com^
 ||cy.icasmarbor.com^
 ||db.sarcelgusla.com^
@@ -78,6 +80,7 @@
 ||gn.afootwitword.com^
 ||gq.webbymendole.com^
 ||gr.faencepuggy.com^
+||hb.tewitfeoffee.com^
 ||hf.frisklelooms.com^
 ||hg.barwaltanha.com^
 ||hj.faggotbovidae.com^
@@ -166,6 +169,7 @@
 ||qd.gibbarwaiting.com^
 ||qh.editormbiras.com^
 ||qh.escapedinbreed.com^
+||ql.vinelethoner.com^
 ||qm.veldtwalk.com^
 ||qo.dunganof.com^
 ||qo.enamelsdune.com^
@@ -272,6 +276,7 @@
 ||yz.wrightdirely.com^
 ||zd.plattedrattons.com^
 ||zg.butaneailment.com^
+||zg.embraseupgo.com^
 ||zi.kissbluest.com^
 ||zj.rochermack.com^
 ||zk.cacciasupflame.com^

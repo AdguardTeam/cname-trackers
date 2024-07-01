@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -586,7 +586,6 @@ stats.joaopedro.dev CNAME .
 stats.jsbible.com CNAME .
 stats.jtrees.io CNAME .
 stats.jun-etan.com CNAME .
-stats.juniperslab.com CNAME .
 stats.justinwilliams.ca CNAME .
 stats.kaladyaudiology.com CNAME .
 stats.katharinascheitz.com CNAME .

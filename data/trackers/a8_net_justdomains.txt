@@ -221,7 +221,6 @@ a8.neur.jp
 a8.next-hikari.jp
 a8.nezumi-guard.com
 a8.nezumi-kanzentaiji.com
-a8.nitta-biolab.co.jp
 a8.nosh.jp
 a8.novicetokyo.com
 a8.o-tayori.com
@@ -328,13 +327,11 @@ a8.unicoffee.tech
 a8.uridoki.net
 a8.uzuz-college.jp
 a8.vector-park.jp
-a8.vie-magique.com
 a8.vinew.jp
 a8.virus-gekitai.com
 a8.volstar.jp
 a8.vtuber.sexy
 a8.watero.pet
-a8.waterstand.jp
 a8.web-hikari.net
 a8.webdeki.com
 a8.webist-cri.com

@@ -55,6 +55,7 @@
     * h-3zlt5rop.online-metrix.net
     * h-42guvm37.online-metrix.net
     * h-47blm1l4.online-metrix.net
+    * h-47z24dz9.online-metrix.net
     * h-4hq91r5k.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-4ulk5mz4.online-metrix.net
@@ -106,6 +107,7 @@
     * h-7v30y901.online-metrix.net
     * h-7xy7wvmp.online-metrix.net
     * h-7yh412tv.online-metrix.net
+    * h-84sv8qof.online-metrix.net
     * h-87rxrdob.online-metrix.net
     * h-884tnrtj.online-metrix.net
     * h-88zeyq1n.online-metrix.net
@@ -119,6 +121,7 @@
     * h-8ms1wsqq.online-metrix.net
     * h-8om29r2u-a.online-metrix.net
     * h-8om29r2u.online-metrix.net
+    * h-8s9j9vgb.online-metrix.net
     * h-8t63q4n4.online-metrix.net
     * h-8uj1s5zr.online-metrix.net
     * h-8vxymlqf.online-metrix.net
@@ -127,6 +130,7 @@
     * h-92z7am36.online-metrix.net
     * h-96ch0zc2.online-metrix.net
     * h-96clh8g7.online-metrix.net
+    * h-98oju8tz.online-metrix.net
     * h-9bkavv7r.online-metrix.net
     * h-9f85se8g.online-metrix.net
     * h-9i4fauog.online-metrix.net
@@ -153,6 +157,7 @@
     * h-agaval.online-metrix.net
     * h-agxcazcm.online-metrix.net
     * h-ahpv7hxn.online-metrix.net
+    * h-ai4j8x4g.online-metrix.net
     * h-alliantcreditunion.online-metrix.net
     * h-allianz.online-metrix.net
     * h-allstate.online-metrix.net
@@ -205,6 +210,7 @@
     * h-beyondbank.online-metrix.net
     * h-bfiiada3-a.online-metrix.net
     * h-bhs5fatf-2.online-metrix.net
+    * h-biggerbooks.online-metrix.net
     * h-bjrekxkm.online-metrix.net
     * h-blp4gupl.online-metrix.net
     * h-blueorangebank.online-metrix.net
@@ -610,6 +616,7 @@
     * h-rogersbank.online-metrix.net
     * h-royalairmaroc.online-metrix.net
     * h-rushstreet.online-metrix.net
+    * h-rz31aez3.online-metrix.net
     * h-s0b500qh.online-metrix.net
     * h-samsclub.online-metrix.net
     * h-santanderbank.online-metrix.net
@@ -690,7 +697,6 @@
     * h-v60nf4oj-xfp.online-metrix.net
     * h-v60nf4oj-zfp.online-metrix.net
     * h-vacations.united.online-metrix.net
-    * h-valcontent.online-metrix.net
     * h-vedacheck.online-metrix.net
     * h-verizon.online-metrix.net
     * h-vinci-autoroutes.online-metrix.net
@@ -717,6 +723,7 @@
     * h-worldpay.ddctest.online-metrix.net
     * h-worldremit.online-metrix.net
     * h-wrightexpress.online-metrix.net
+    * h-wxwt2znm.online-metrix.net
     * h-ynap.biz.online-metrix.net
     * h-zhongantechnologies.online-metrix.net
     * h-zions.online-metrix.net
@@ -777,6 +784,7 @@
 | prod-jfcudc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-lafcuca.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-lfcuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-michedcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-mscuct.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-navigator.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-njfcunj.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -843,6 +851,7 @@
 | shield.boostbusiness.my | h-3zlt5rop.online-metrix.net |
 | ivaacontent.ers.ga.gov | h-42guvm37.online-metrix.net |
 | api.v1.threatmetrix.space.ge | h-47blm1l4.online-metrix.net |
+| content002.bet365.com | h-47z24dz9.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | tmx-fpt.credit-agricole.pl | h-4ulk5mz4.online-metrix.net |
@@ -922,6 +931,8 @@
 | info.betwaypartnersafrica.com | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
 | sec.mypage.ocn.ne.jp | h-7yh412tv.online-metrix.net |
+| ltxup.sumup.com | h-84sv8qof.online-metrix.net |
+| ltxup.sumup.io | h-84sv8qof.online-metrix.net |
 | tm.production.eu1.tmfp.klarna.net | h-87rxrdob.online-metrix.net |
 | tmfp.klarna.com | h-87rxrdob.online-metrix.net |
 | phyon.visit-x.net | h-884tnrtj.online-metrix.net |
@@ -936,6 +947,7 @@
 | tmuat.kotak.com | h-8ms1wsqq.online-metrix.net |
 | digitalidentity.compass.it | h-8om29r2u-a.online-metrix.net |
 | piafapp.poste.it | h-8om29r2u.online-metrix.net |
+| cdna.monabanq.com | h-8s9j9vgb.online-metrix.net |
 | rba.apata.io | h-8t63q4n4.online-metrix.net |
 | req.secured-content.com | h-8uj1s5zr.online-metrix.net |
 | tm.espnbet.com | h-8vxymlqf.online-metrix.net |
@@ -944,6 +956,7 @@
 | ln.cash.app | h-92z7am36.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
+| tmcdn.spincasino.ca | h-98oju8tz.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
 | wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
 | img2.bbva.com.ar | h-9i4fauog.online-metrix.net |
@@ -975,6 +988,7 @@
 | validacionlx.agaval.com | h-agaval.online-metrix.net |
 | dt.payla.io | h-agxcazcm.online-metrix.net |
 | lnc.mo.gov | h-ahpv7hxn.online-metrix.net |
+| content.mypersi.idaho.gov | h-ai4j8x4g.online-metrix.net |
 | cdn.alliantcreditunion.com | h-alliantcreditunion.online-metrix.net |
 | txn.allianzlife.com | h-allianz.online-metrix.net |
 | content.allstate.com | h-allstate.online-metrix.net |
@@ -1048,6 +1062,7 @@
 | tmx.beyondbank.com.au | h-beyondbank.online-metrix.net |
 | jplspr.jackpot.com | h-bfiiada3-a.online-metrix.net |
 | content.byabcd.com | h-bhs5fatf-2.online-metrix.net |
+| content.biggerbooks.com | h-biggerbooks.online-metrix.net |
 | custprof.t-mobile.com | h-bjrekxkm.online-metrix.net |
 | checkout.walz.de | h-blp4gupl.online-metrix.net |
 | stat.bluorbank.lv | h-blueorangebank.online-metrix.net |
@@ -1597,6 +1612,7 @@
 | creditapp.rogersbank.com | h-rogersbank.online-metrix.net |
 | content.royalairmaroc.com | h-royalairmaroc.online-metrix.net |
 | service.riverscontent.com | h-rushstreet.online-metrix.net |
+| content55.getupgraded.com | h-rz31aez3.online-metrix.net |
 | img2.paywithmybank.com | h-s0b500qh.online-metrix.net |
 | ssafp.samsclub.com | h-samsclub.online-metrix.net |
 | digitalid.santanderbank.com | h-santanderbank.online-metrix.net |
@@ -1695,7 +1711,6 @@
 | zfp.intuit.com | h-v60nf4oj-zfp.online-metrix.net |
 | analytics.vacations.united.com | h-vacations.united.online-metrix.net |
 | ualaki-analytics.vacations.united.com | h-vacations.united.online-metrix.net |
-| valcontent.securustech.net | h-valcontent.online-metrix.net |
 | auth.vedacheck.com.au | h-vedacheck.online-metrix.net |
 | tsaian.verizonwireless.com | h-verizon.online-metrix.net |
 | tmx.vinci-autoroutes.com | h-vinci-autoroutes.online-metrix.net |
@@ -1739,6 +1754,7 @@
 | tmx.efsllc.com | h-wrightexpress.online-metrix.net |
 | tmx.prod.efsllc.com | h-wrightexpress.online-metrix.net |
 | tmx.tchek.com | h-wrightexpress.online-metrix.net |
+| valcontent.securustech.net | h-wxwt2znm.online-metrix.net |
 | tooling.ynap.biz | h-ynap.biz.online-metrix.net |
 | cnt2.bank.za.group | h-zhongantechnologies.online-metrix.net |
 | w3.amegybank.com | h-zions.online-metrix.net |

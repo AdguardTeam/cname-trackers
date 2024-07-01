@@ -162,6 +162,7 @@ tr.businessdev.younited-credit.es
 tr.cacf-acq.ipsos-surveys.com
 tr.cacf.ipsos-surveys.com
 tr.camara.eu.com
+tr.capu.espmp-agfr.net
 tr.carl.espmp-cufr.net
 tr.cart02d.espmp-agfr.net
 tr.carte.lcl.fr
@@ -663,6 +664,7 @@ tr.nespresso.mailsservices.com
 tr.new.offres-cartegie.fr
 tr.news-abweb.com
 tr.news-chocolat.com
+tr.news-companeo.be
 tr.news-companeo.cl
 tr.news-companeo.com.br
 tr.news-companeo.fr
@@ -833,7 +835,6 @@ tr.news2pjms.fr
 tr.news5.cdiscount.com
 tr.news6.cdiscount.com
 tr.newsletter-stressless.com
-tr.newsletter-wonderbox.com
 tr.newsletter.10h01.fr
 tr.newsletter.1664france.fr
 tr.newsletter.1oag.com
@@ -944,6 +945,7 @@ tr.prevention.harmonie-mutuelle.fr
 tr.preventivo.risparmiazienda.it
 tr.pro-renov.be
 tr.pro.odalys-vacances.com
+tr.pro.residencehappysenior.fr
 tr.programme-voyageur-sncf.com
 tr.projet.cotemaison.fr
 tr.promo.np6.fr

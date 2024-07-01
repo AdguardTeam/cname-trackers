@@ -49,7 +49,6 @@ abc.bayer04.de
 analytics.hermesworld.com
 analytics.myhermes.de
 app03.ikk-classic.de
-backup.data.srf.ch
 cdn7.baunetz.de
 census.misterspex.at
 census.misterspex.no
@@ -86,7 +85,6 @@ data.mainpost.de
 data.mapp.com
 data.mediaworld.it
 data.shirtmaster.com
-data.srf.ch
 data.vdi-wissensforum.de
 data.volksfreund.de
 data.westlotto.de
@@ -131,8 +129,6 @@ ed.originalpress.com
 eht.endress.com
 fiwinet.firmenwissen.com
 fiwinet.firmenwissen.de
-foro.data.srf.ch
-google.data.srf.ch
 hbbtv-track.prosieben.de
 hbbtv-track.prosiebensat1puls4.com
 img.foodspring.at
@@ -163,7 +159,6 @@ joda.ilmattino.it
 joda.ilmessaggero.it
 joda.leggo.it
 joda.quotidianodipuglia.it
-lax.data.srf.ch
 mapp.ewm.co.uk
 mapp.jysk.dk
 mapp.jysk.nl
@@ -182,7 +177,6 @@ mit.postbank.de
 mit.researchlog.db.com
 mit.researchlog.dbresearch.com
 mit.researchlog.dbresearch.de
-nov.data.srf.ch
 on.dextra.ch
 ot.obi-baumarkt.ch
 ot.obi-brico.ch
@@ -201,7 +195,6 @@ pix.airbusgroup.com
 pix.telekom.com
 proditor.sparda.de
 prophet.heise-academy.de
-s5.data.srf.ch
 scout.alpinetrek.co.uk
 scout.alpiniste.fr
 scout.berg-freunde.at
@@ -215,7 +208,6 @@ scout.bergfreunde.it
 scout.bergfreunde.nl
 scout.bergfreunde.no
 scout.bergfreunde.se
-stage.www.data.srf.ch
 startrekk.flaconi.at
 startrekk.flaconi.ch
 startrekk.flaconi.fr
@@ -361,12 +353,14 @@ web.slim-joy.de
 web.slimjoy.com
 web.slimjoy.cz
 web.slimjoy.dk
+web.slimjoy.it
 web.slimjoy.ro
 web.slimjoy.se
 web.slimjoy.sk
 web.solesource.com
 web.tamaris.com
 web.tummy-tox.com
+web.tummytox.at
 web.tummytox.de
 web.tummytox.es
 web.tummytox.fr

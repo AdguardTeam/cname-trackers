@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -60,7 +60,6 @@ abc.bayer04.de CNAME .
 analytics.hermesworld.com CNAME .
 analytics.myhermes.de CNAME .
 app03.ikk-classic.de CNAME .
-backup.data.srf.ch CNAME .
 cdn7.baunetz.de CNAME .
 census.misterspex.at CNAME .
 census.misterspex.no CNAME .
@@ -97,7 +96,6 @@ data.mainpost.de CNAME .
 data.mapp.com CNAME .
 data.mediaworld.it CNAME .
 data.shirtmaster.com CNAME .
-data.srf.ch CNAME .
 data.vdi-wissensforum.de CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
@@ -142,8 +140,6 @@ ed.originalpress.com CNAME .
 eht.endress.com CNAME .
 fiwinet.firmenwissen.com CNAME .
 fiwinet.firmenwissen.de CNAME .
-foro.data.srf.ch CNAME .
-google.data.srf.ch CNAME .
 hbbtv-track.prosieben.de CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
 img.foodspring.at CNAME .
@@ -174,7 +170,6 @@ joda.ilmattino.it CNAME .
 joda.ilmessaggero.it CNAME .
 joda.leggo.it CNAME .
 joda.quotidianodipuglia.it CNAME .
-lax.data.srf.ch CNAME .
 mapp.ewm.co.uk CNAME .
 mapp.jysk.dk CNAME .
 mapp.jysk.nl CNAME .
@@ -193,7 +188,6 @@ mit.postbank.de CNAME .
 mit.researchlog.db.com CNAME .
 mit.researchlog.dbresearch.com CNAME .
 mit.researchlog.dbresearch.de CNAME .
-nov.data.srf.ch CNAME .
 on.dextra.ch CNAME .
 ot.obi-baumarkt.ch CNAME .
 ot.obi-brico.ch CNAME .
@@ -212,7 +206,6 @@ pix.airbusgroup.com CNAME .
 pix.telekom.com CNAME .
 proditor.sparda.de CNAME .
 prophet.heise-academy.de CNAME .
-s5.data.srf.ch CNAME .
 scout.alpinetrek.co.uk CNAME .
 scout.alpiniste.fr CNAME .
 scout.berg-freunde.at CNAME .
@@ -226,7 +219,6 @@ scout.bergfreunde.it CNAME .
 scout.bergfreunde.nl CNAME .
 scout.bergfreunde.no CNAME .
 scout.bergfreunde.se CNAME .
-stage.www.data.srf.ch CNAME .
 startrekk.flaconi.at CNAME .
 startrekk.flaconi.ch CNAME .
 startrekk.flaconi.fr CNAME .
@@ -372,12 +364,14 @@ web.slim-joy.de CNAME .
 web.slimjoy.com CNAME .
 web.slimjoy.cz CNAME .
 web.slimjoy.dk CNAME .
+web.slimjoy.it CNAME .
 web.slimjoy.ro CNAME .
 web.slimjoy.se CNAME .
 web.slimjoy.sk CNAME .
 web.solesource.com CNAME .
 web.tamaris.com CNAME .
 web.tummy-tox.com CNAME .
+web.tummytox.at CNAME .
 web.tummytox.de CNAME .
 web.tummytox.es CNAME .
 web.tummytox.fr CNAME .

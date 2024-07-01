@@ -5,6 +5,7 @@
 * adocean.pl
     * city24lv.adocean.pl
     * edipresse.adocean.pl
+    * ee.adocean.pl
     * icorpro.adocean.pl
     * ing.adocean.pl
     * lt.adocean.pl
@@ -34,6 +35,7 @@
 | tools.przyslijprzepis.pl | edipresse.adocean.pl |
 | tools.viva.pl | edipresse.adocean.pl |
 | tools.wizaz.pl | edipresse.adocean.pl |
+| ee.sportacentrs.com | ee.adocean.pl |
 | ado.icorp.ro | icorpro.adocean.pl |
 | icorpado.9am.ro | icorpro.adocean.pl |
 | content.ingbank.pl | ing.adocean.pl |

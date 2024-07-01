@@ -4,6 +4,7 @@
 
 * aquaplatform.com
     * adaptigo-console.aquaplatform.com
+    * adbility-console.aquaplatform.com
     * adbility-delivery.aquaplatform.com
     * ahk-delivery.aquaplatform.com
     * ammoland-delivery.aquaplatform.com
@@ -13,6 +14,7 @@
     * bioverlag-static.aquaplatform.com
     * cambridge-delivery.aquaplatform.com
     * ceramics-delivery.aquaplatform.com
+    * console.aquaplatform.com
     * consulcesi-delivery.aquaplatform.com
     * consulcesi-static.aquaplatform.com
     * creamer-delivery.aquaplatform.com
@@ -26,6 +28,7 @@
     * geenstijl-delivery.aquaplatform.com
     * geodelivery.aquaplatform.com
     * goldseek-delivery.aquaplatform.com
+    * hcs-delivery.aquaplatform.com
     * hourmedia-delivery.aquaplatform.com
     * hourmedia-static.aquaplatform.com
     * im-delivery.aquaplatform.com
@@ -35,11 +38,13 @@
     * livingmag-static.aquaplatform.com
     * localmatchmaker-delivery.aquaplatform.com
     * localmatchmaker-static.aquaplatform.com
+    * mannix-console.aquaplatform.com
     * mannix-delivery.aquaplatform.com
     * mannix-static.aquaplatform.com
     * mequoda-delivery.aquaplatform.com
     * midtc2-delivery.aquaplatform.com
     * midtc4-delivery.aquaplatform.com
+    * midtc5-delivery.aquaplatform.com
     * milenar-delivery.aquaplatform.com
     * mondiale-delivery.aquaplatform.com
     * myadsmyanmar-delivery.aquaplatform.com
@@ -54,9 +59,11 @@
     * ptp-delivery.aquaplatform.com
     * ptp-static.aquaplatform.com
     * reservoir.aquaplatform.com
+    * revivehosted-console.aquaplatform.com
     * revivehosted-delivery.aquaplatform.com
     * revivehosted-static.aquaplatform.com
     * ridgewood-delivery.aquaplatform.com
+    * romand-delivery.aquaplatform.com
     * sacomm-delivery.aquaplatform.com
     * sonicplug-delivery.aquaplatform.com
     * sonicplug-static.aquaplatform.com
@@ -69,6 +76,7 @@
     * viasat-delivery.aquaplatform.com
     * viasat-static.aquaplatform.com
     * worldscreen-delivery.aquaplatform.com
+    * worldscreen-static.aquaplatform.com
     * wwoz-delivery.aquaplatform.com
 
 ## Cloaking domains
@@ -76,6 +84,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | console.informingnews.com | adaptigo-console.aquaplatform.com |
+| console.adbility-media.com | adbility-console.aquaplatform.com |
 | servedby.adbility-media.com | adbility-delivery.aquaplatform.com |
 | revive.ahk.de | ahk-delivery.aquaplatform.com |
 | servedby.ammoland.com | ammoland-delivery.aquaplatform.com |
@@ -88,6 +97,7 @@
 | static.schrotundkorn.de | bioverlag-static.aquaplatform.com |
 | coreads.cambridge.org | cambridge-delivery.aquaplatform.com |
 | servedby.ceramicartsnetwork.org | ceramics-delivery.aquaplatform.com |
+| api.metrike.com | console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
 | static.consulcesi.it | consulcesi-static.aquaplatform.com |
 | servedby.engineeringnews.co.za | creamer-delivery.aquaplatform.com |
@@ -105,6 +115,7 @@
 | servedby.aqua-adserver.com | geodelivery.aquaplatform.com |
 | servedby.quirks.com | geodelivery.aquaplatform.com |
 | advertising.goldseek.com | goldseek-delivery.aquaplatform.com |
+| servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
 | servedby.cincinnatimagazine.com | hourmedia-delivery.aquaplatform.com |
 | servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | banners.orangecoast.com | hourmedia-static.aquaplatform.com |
@@ -115,11 +126,13 @@
 | static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
 | cdn.rlnads.net | localmatchmaker-static.aquaplatform.com |
+| console.mannixmarketing.com | mannix-console.aquaplatform.com |
 | servedby.mannixmarketing.com | mannix-delivery.aquaplatform.com |
 | static.mannixmarketing.com | mannix-static.aquaplatform.com |
 | ox.mequoda.com | mequoda-delivery.aquaplatform.com |
 | championads.midtc.com | midtc2-delivery.aquaplatform.com |
 | adamsads.midtc.com | midtc4-delivery.aquaplatform.com |
+| media360ads.midtc.com | midtc5-delivery.aquaplatform.com |
 | ads-delivery.milenarmedia.pt | milenar-delivery.aquaplatform.com |
 | openx.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
@@ -152,6 +165,7 @@
 | servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |
 | cdn.pinktriangle.ca | ptp-static.aquaplatform.com |
 | static.aqua-adserver.com | reservoir.aquaplatform.com |
+| console.revive-adserver.net | revivehosted-console.aquaplatform.com |
 | adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
 | servedby.cricketworld.com | revivehosted-delivery.aquaplatform.com |
 | servedby.revive-adserver.net | revivehosted-delivery.aquaplatform.com |
@@ -161,6 +175,7 @@
 | images.cricketworld.com | revivehosted-static.aquaplatform.com |
 | servedby.medlabmag.com | ridgewood-delivery.aquaplatform.com |
 | servedby.pppmag.com | ridgewood-delivery.aquaplatform.com |
+| ads.cavalier-romand.ch | romand-delivery.aquaplatform.com |
 | servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |
 | adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | static.sonicplug.com | sonicplug-static.aquaplatform.com |
@@ -173,4 +188,5 @@
 | server.ad.logic-prod.viasat.io | viasat-delivery.aquaplatform.com |
 | static.ad.logic-prod.viasat.io | viasat-static.aquaplatform.com |
 | revive.worldscreen.com | worldscreen-delivery.aquaplatform.com |
+| revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |
 | treehouse.wwoz.org | wwoz-delivery.aquaplatform.com |

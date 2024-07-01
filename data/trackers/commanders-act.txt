@@ -8,8 +8,6 @@
 ||data.decathlon.fr^
 ||data.decathlon.it^
 ||data.decathlon.pl^
-||data.ouigo.com^
-||data.ricaud.com^
 ||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
@@ -17,8 +15,10 @@
 ||tagcommander.laredoute.be^
 ||tagcommander.laredoute.ch^
 ||tc.europcar.com^
+||tc.europcar.com.au^
 ||tc.europcar.de^
 ||tcdata.fnac.com^
 ||configure.adlermode.com^
+||data.ouigo.com^
+||data.ricaud.com^
 ||tag.boulanger.fr^
-||tc.europcar.com.au^

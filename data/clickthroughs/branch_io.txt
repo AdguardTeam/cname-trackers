@@ -336,6 +336,7 @@
 ||clicks.fabletics.co.uk^
 ||clicks.fabletics.com^
 ||clicks.fabletics.de^
+||clicks.fabletics.dk^
 ||clicks.fabletics.es^
 ||clicks.fabletics.fr^
 ||clicks.fabletics.se^
@@ -351,6 +352,7 @@
 ||clicks.kfc.fr^
 ||clicks.metronautapp.com^
 ||clicks.point.app^
+||clicks.rakuten.com^
 ||clicks.rallyrd.com^
 ||clicks.shakeshack.com^
 ||clicks.staging.worldremit.com^
@@ -632,6 +634,7 @@
 ||link.resy.com^
 ||link.ridewithvia.com^
 ||link.support.discovery.plus^
+||link.syfy-channel.com^
 ||link.tillfinancial.io^
 ||link.touchtunesmail.com^
 ||link.tr.freshly.com^
@@ -965,6 +968,7 @@
 ||app-link.republik.gg^
 ||app-link.smartvid.io^
 ||app-link.udex.us^
+||app-nclex.kingofthecurve.org^
 ||app-qa.mintmobile.com^
 ||app-qa.rnd.thronelabs.co^
 ||app-redirect.wearephlo.com^
@@ -1164,6 +1168,7 @@
 ||app.iroomit.com^
 ||app.itimes.com^
 ||app.iwanttfc.com^
+||app.jaihope.in^
 ||app.jamdoughnut.com^
 ||app.jili178.us^
 ||app.joatspace.com^
@@ -1378,6 +1383,7 @@
 ||app.vidds.ee^
 ||app.virdee.co^
 ||app.virginradio.co.uk^
+||app.vita.com.br^
 ||app.vitabuddy.de^
 ||app.vitruvian.me^
 ||app.voice.football^
@@ -1479,7 +1485,6 @@
 ||apps.spectrum-member.com^
 ||apps.uquote.io^
 ||apps.weekendgowhere.sg^
-||apps.zingeroo.com^
 ||apptest.gotvive.com^
 ||apptest.gwsportsapp.in^
 ||apptest.jow.fr^
@@ -1630,6 +1635,7 @@
 ||branch.olamoney.com^
 ||branch.oneroof.co.nz^
 ||branch.parkingpanda.com^
+||branch.primelister.com^
 ||branch.quantic.edu^
 ||branch.rejuvenan.com^
 ||branch.release.winfooz.com^
@@ -1902,6 +1908,7 @@
 ||dev-get.unhedged.com.au^
 ||dev-get.wysa.uk^
 ||dev-link.aira.io^
+||dev-link.appimin.com^
 ||dev-link.getprizepool.com^
 ||dev-link.myoptimity.com^
 ||dev-share.beaconlearningapp.com^
@@ -1914,7 +1921,6 @@
 ||dev.go.levelbank.com^
 ||dev.gomi.do^
 ||dev.got-it.link^
-||dev.link.kidfund.us^
 ||dev.links.myplace.co^
 ||dev.punk.wagr.us^
 ||dev.smartrbuyer.com^
@@ -2016,7 +2022,6 @@
 ||dp.tuex.ca^
 ||drive.carpoollogistics.com^
 ||drive.waitrapp.com^
-||driver.dctaxi.com^
 ||driver.jugnoo.in^
 ||driver.promo.gogo.org.ua^
 ||drngoc.abphotos.link^
@@ -2109,6 +2114,7 @@
 ||get.avakin.com^
 ||get.babyalbum.com^
 ||get.bambinoapp.com^
+||get.barkr.app^
 ||get.basicprint.co^
 ||get.betheshyft.com^
 ||get.biblechat.ai^
@@ -2121,7 +2127,6 @@
 ||get.codehub.ninja^
 ||get.conciergecare.app^
 ||get.cryptocontrol.io^
-||get.dctaxi.com^
 ||get.deplike.com^
 ||get.emma-app.com^
 ||get.endur.app^
@@ -2291,6 +2296,7 @@
 ||go.divorced.ignite.technology^
 ||go.dngn.kr^
 ||go.driveclutch.com^
+||go.drivekeeler.com^
 ||go.drivemyfreedom.com^
 ||go.drivencarsallaccess.ca^
 ||go.dubbi.com.br^
@@ -2506,6 +2512,7 @@
 ||go2.letscliq.com^
 ||goa.dngn.kr^
 ||god.vsee.me^
+||godev.stagehub.com^
 ||godev.steps.me^
 ||gone.pronhub.fun^
 ||gordev.atly.com^
@@ -2528,6 +2535,7 @@
 ||halm.app.mobilapp.io^
 ||hanadev.branch.rocks^
 ||hanatest.branch.rocks^
+||hang.gotfive.xyz^
 ||harman.epoise.com^
 ||harmantest.epoise.com^
 ||harnisch-schmid.app.mobilapp.io^
@@ -2653,7 +2661,6 @@
 ||join.amorus.net^
 ||join.asteride.co^
 ||join.belive.sg^
-||join.blimp.homes^
 ||join.entrylevel.net^
 ||join.evercoin.com^
 ||join.fitgrid.com^
@@ -2717,6 +2724,7 @@
 ||l.bspace.io^
 ||l.civic.com^
 ||l.claphere.com^
+||l.coachos.app^
 ||l.coastapp.com^
 ||l.cultgear.com^
 ||l.dev.audibook.si^
@@ -2916,6 +2924,7 @@
 ||link.dvendor.com^
 ||link.easy.me^
 ||link.edapp.com^
+||link.eksperience.io^
 ||link.electroneum.com^
 ||link.electrover.se^
 ||link.emblyapp.com^
@@ -3030,7 +3039,6 @@
 ||link.joinworkpass.com^
 ||link.joyraft.com^
 ||link.justincase.jp^
-||link.kidfund.us^
 ||link.kidzapp.com^
 ||link.killi.io^
 ||link.kindred.co^
@@ -3114,6 +3122,7 @@
 ||link.payris.app^
 ||link.payulatam.com^
 ||link.pbrry.com^
+||link.pebble.us^
 ||link.pedidosonline.com^
 ||link.perzzle.com^
 ||link.phaze.io^
@@ -3201,6 +3210,7 @@
 ||link.stabilitas.io^
 ||link.staff.notab.com^
 ||link.stage.easy.me^
+||link.stage.getremix.ai^
 ||link.staging.clearsky.jlg.com^
 ||link.staging.quicktakes.io^
 ||link.starshiphsa.com^
@@ -3301,6 +3311,7 @@
 ||link.zipsit.com^
 ||link.zurp.com^
 ||link1.fanfight.com^
+||linkcalidad.challer.app^
 ||linkcmf.insights.md^
 ||linkcmfdev.insights.md^
 ||linkd.trybany.com^
@@ -3322,6 +3333,7 @@
 ||links.bookshipapp.com^
 ||links.brickapp.se^
 ||links.claphere.com^
+||links.coles.com.au^
 ||links.communitycarehelp.com^
 ||links.consultaapp.com^
 ||links.cookingchanneltv.com^
@@ -3528,6 +3540,7 @@
 ||ml.houzz.com^
 ||mlinkdev.bookedout.com^
 ||mm.openapp.link^
+||mobil.hry.yt^
 ||mobile-app.luminpdf.com^
 ||mobile-event-alternative.cvent.me^
 ||mobile-event-development.cvent.me^
@@ -3762,7 +3775,6 @@
 ||redirect.indacar.io^
 ||redirect.kataklop.com^
 ||redirectdemoqpay.2c2p.com^
-||ref.bakai.kg^
 ||ref.elitehrv.com^
 ||ref.mybb.id^
 ||refer.dev.wagr.us^
@@ -3945,6 +3957,7 @@
 ||share.wigle.me^
 ||share.winit.nyc^
 ||share.wolfspreads.com^
+||share.workoutwithbolt.com^
 ||share.worldleaguelive.com^
 ||share.yabelink.com^
 ||share.yugengamers.com^
@@ -4128,6 +4141,7 @@
 ||travel.stage.x.unikoom.com^
 ||travel.x.unikoom.com^
 ||trk.luisaviaroma.com^
+||try.getbright.app^
 ||try.jaranda.kr^
 ||try.joonapp.io^
 ||try.postmuseapp.com^
@@ -4198,7 +4212,6 @@
 ||vrcamdl.istaging.com^
 ||vrcamdltest.istaging.com^
 ||vtneexam.quantresear.ch^
-||wallet.chain.com^
 ||watch.jawwy.tv^
 ||watch.stctv.com^
 ||watch.vipa.me^
@@ -4233,6 +4246,7 @@
 ||your.tmro.me^
 ||yummylink.funcapital.com^
 ||z.inlist.com^
+||z.ziki.app^
 ||zelle.odencat.com^
 ||zombieslayer-alternate.kano.link^
 ||zombieslayer.kano.link^

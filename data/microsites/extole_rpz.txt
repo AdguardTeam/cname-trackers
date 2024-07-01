@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -140,7 +140,8 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em8928.em.petco.com CNAME .
+em3904.skillshare.com CNAME .
+em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -351,6 +352,7 @@ refer.pvdparking.com CNAME .
 refer.quantumfiber.com CNAME .
 refer.quickbooks.ca CNAME .
 refer.quickbooks.co.uk CNAME .
+refer.quickfixtest5.com CNAME .
 refer.quickstart.com CNAME .
 refer.reebok.com CNAME .
 refer.reliasacademy.com CNAME .
@@ -572,6 +574,7 @@ share.kumon.com CNAME .
 share.la-mariette.com CNAME .
 share.lansingstatejournal.com CNAME .
 share.learnersedge.com CNAME .
+share.legalplans.com CNAME .
 share.levi.com CNAME .
 share.lifedna.com CNAME .
 share.livongo.com CNAME .
@@ -718,9 +721,8 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
-em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.skillshare.com CNAME .

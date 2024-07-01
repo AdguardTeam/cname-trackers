@@ -161,7 +161,6 @@
 | bass.goulet.dev | deprecated-custom-domains.b-cdn.net |
 | bass.siterig.io | deprecated-custom-domains.b-cdn.net |
 | bat.heelix.be | deprecated-custom-domains.b-cdn.net |
-| bear.big.dk | deprecated-custom-domains.b-cdn.net |
 | bear.builtbyborda.com | deprecated-custom-domains.b-cdn.net |
 | bear.datingrelationshipsadvice.com | deprecated-custom-domains.b-cdn.net |
 | bear.jake.nyc | deprecated-custom-domains.b-cdn.net |
@@ -436,7 +435,6 @@
 | goldfish.untitledspreadsheet.com | deprecated-custom-domains.b-cdn.net |
 | goose.accountsjs.com | deprecated-custom-domains.b-cdn.net |
 | goose.markerchase.com | deprecated-custom-domains.b-cdn.net |
-| goose.pooltogether.com | deprecated-custom-domains.b-cdn.net |
 | gopher.mina.ca | deprecated-custom-domains.b-cdn.net |
 | gorilla.celcyon.com | deprecated-custom-domains.b-cdn.net |
 | gorilla.hakai.org | deprecated-custom-domains.b-cdn.net |
@@ -524,7 +522,6 @@
 | kangaroo.triplightfantastic.com | deprecated-custom-domains.b-cdn.net |
 | kaxlfq.testingwithtestcafe.com | deprecated-custom-domains.b-cdn.net |
 | kingfisher.gedaly.com | deprecated-custom-domains.b-cdn.net |
-| kingfisher.startupdemoday.live | deprecated-custom-domains.b-cdn.net |
 | kingfisher.wishloom.com | deprecated-custom-domains.b-cdn.net |
 | kite.cardneyestate.co.uk | deprecated-custom-domains.b-cdn.net |
 | kite.devin.website | deprecated-custom-domains.b-cdn.net |
@@ -591,7 +588,6 @@
 | loon.davidalindahl.com | deprecated-custom-domains.b-cdn.net |
 | loon.energizer.asia | deprecated-custom-domains.b-cdn.net |
 | loon.jrmyfranck.com | deprecated-custom-domains.b-cdn.net |
-| louse.16bit.it | deprecated-custom-domains.b-cdn.net |
 | louse.demaree.space | deprecated-custom-domains.b-cdn.net |
 | louse.seanconnolly.dev | deprecated-custom-domains.b-cdn.net |
 | louse.sigle.io | deprecated-custom-domains.b-cdn.net |

@@ -183,6 +183,7 @@
 | tr.cacf-acq.ipsos-surveys.com | tracking.bp01.net |
 | tr.cacf.ipsos-surveys.com | tracking.bp01.net |
 | tr.camara.eu.com | tracking.bp01.net |
+| tr.capu.espmp-agfr.net | tracking.bp01.net |
 | tr.carl.espmp-cufr.net | tracking.bp01.net |
 | tr.cart02d.espmp-agfr.net | tracking.bp01.net |
 | tr.carte.lcl.fr | tracking.bp01.net |
@@ -684,6 +685,7 @@
 | tr.new.offres-cartegie.fr | tracking.bp01.net |
 | tr.news-abweb.com | tracking.bp01.net |
 | tr.news-chocolat.com | tracking.bp01.net |
+| tr.news-companeo.be | tracking.bp01.net |
 | tr.news-companeo.cl | tracking.bp01.net |
 | tr.news-companeo.com.br | tracking.bp01.net |
 | tr.news-companeo.fr | tracking.bp01.net |
@@ -854,7 +856,6 @@
 | tr.news5.cdiscount.com | tracking.bp01.net |
 | tr.news6.cdiscount.com | tracking.bp01.net |
 | tr.newsletter-stressless.com | tracking.bp01.net |
-| tr.newsletter-wonderbox.com | tracking.bp01.net |
 | tr.newsletter.10h01.fr | tracking.bp01.net |
 | tr.newsletter.1664france.fr | tracking.bp01.net |
 | tr.newsletter.1oag.com | tracking.bp01.net |
@@ -965,6 +966,7 @@
 | tr.preventivo.risparmiazienda.it | tracking.bp01.net |
 | tr.pro-renov.be | tracking.bp01.net |
 | tr.pro.odalys-vacances.com | tracking.bp01.net |
+| tr.pro.residencehappysenior.fr | tracking.bp01.net |
 | tr.programme-voyageur-sncf.com | tracking.bp01.net |
 | tr.projet.cotemaison.fr | tracking.bp01.net |
 | tr.promo.np6.fr | tracking.bp01.net |

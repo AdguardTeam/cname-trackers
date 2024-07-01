@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -105,6 +105,7 @@ adebis.sbishinseibank.co.jp CNAME .
 adebis.sbpayment.jp CNAME .
 adebis.shinseibank.com CNAME .
 adebis.shiseido.co.jp CNAME .
+adebis.shopserve.jp CNAME .
 adebis.sokamocka.com CNAME .
 adebis.thd-web.jp CNAME .
 adebis.theclinic.jp CNAME .

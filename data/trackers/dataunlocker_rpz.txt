@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,7 +17,6 @@ $TTL 300
 16i6nuuc2ej.koelewijn.nl CNAME .
 1a715b8q5m3j.www.logology.co CNAME .
 1amehwchx31.bloxdhop.io CNAME .
-1b7eq4.www.bolighub.dk CNAME .
 1baq2nvd6n7.www.keevowallet.com CNAME .
 1bpmtrvkqkj.pettoonies.com CNAME .
 1bw7etm93lf.www.woodbrass.com CNAME .
@@ -42,7 +41,6 @@ $TTL 300
 4jaehnfqizyx.controlconceptsusa.com CNAME .
 5jgwflo4y935b8udrp.www.pmn-nerez.cz CNAME .
 5mc92su06suu.www.abhijith.page CNAME .
-6egmoak.www.bolighub.dk CNAME .
 6nwp0r33a71m.app.dev.cardahealth.com CNAME .
 6ynyejkv0j1s.app.tapmyback.com CNAME .
 704g8xh7qfzx.www.intercity.technology CNAME .
@@ -51,7 +49,6 @@ $TTL 300
 78rkcgj4i8c6.www.cefirates.com CNAME .
 7hdl8dlfjm4g.www.cybernetman.com CNAME .
 7mvmjg.www.emanualonline.com CNAME .
-83y2zbbv.www.bolighub.dk CNAME .
 8e0905osvgw5.taleez.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8ue4rp6yxyis.www.tapmyback.com CNAME .
@@ -68,11 +65,11 @@ b1tow9h4erpw.anur.polymerdev.com CNAME .
 b20p6lt350nt.app.polymersearch.com CNAME .
 b536mpmxoqxa.www.themoneytizer.com CNAME .
 b5j6itccyluq.nofluffjobs.com CNAME .
-cb4ss897xf.www.bolighub.dk CNAME .
 cqsecshf4rd9.www.tracktheta.com CNAME .
 cqz6fn6aox.aporia.com CNAME .
 cy98g9wuwn0n.angularjs.poc.glenigan.com CNAME .
 dsoxjxin5jji.controlconceptsusa.com CNAME .
+dwdlpqm6d4ra.test1.emanualonline.com CNAME .
 e5obq1v261.www.lurkit.com CNAME .
 f02b61sgc617.es.themoneytizer.com CNAME .
 fkupm8697t19.eyevolution.de CNAME .
@@ -89,6 +86,7 @@ jii3gnhro.www.emanualonline.com CNAME .
 jiktq0fr9hv6.meleton.ru CNAME .
 kn81kivjwwc7.www.logology.co CNAME .
 li3k4d70ig52.resourceya.com CNAME .
+lj5s1u8ct5vz.app.chatpay.dev CNAME .
 lofo3l15c674.platform.replai.io CNAME .
 lv6od3a4sz12.www.logology.co CNAME .
 m4zoxtrcea1k.controlconceptsusa.com CNAME .
@@ -98,7 +96,9 @@ mteme7li1d6r.vertexmarketingagency.com CNAME .
 n367tqpdxce0.quine.sh CNAME .
 n4kb43cl2bsw.creatordrop.com CNAME .
 nqyuel589fq5.esgrounding.com CNAME .
+ns3w1qrlbk4s.tip.etip-staging.etip.io CNAME .
 o3gxzoewxl1x.cp.zomro.com CNAME .
+os270ojwwxtg.gameflow.tv CNAME .
 otx23nu6rzon.prep.toppers.com CNAME .
 p7h1silo3f.app.cainthus.com CNAME .
 q4l5gz6lqog6.www.eventus.io CNAME .
@@ -107,8 +107,8 @@ qqeuq1cmoooq.accuretawealth.com CNAME .
 qri2r94eeajr.innovationcast.com CNAME .
 qt5jl7r111h7.allesvoormijnvakantie.nl CNAME .
 rbat6ac0zzjd.www.terraform.com.ar CNAME .
+rgb9uinh2dej9ri.jacobzhang.de CNAME .
 ros3d4dbs3px.salud-masculina.info CNAME .
-rxdkl9o9g7.franchiseplus.nl CNAME .
 s2whyufxmzam.chatpay.com.br CNAME .
 soahu1wnmt6l.www.replai.io CNAME .
 sr59t7wbx5.claricelin.com CNAME .
@@ -130,6 +130,7 @@ wayyaj8t094u.www.kodalia.com CNAME .
 wiar9wff0ma9.ping.t3.gg CNAME .
 xlvvy4msxr.coolinastore.com CNAME .
 y4e04gql5o1b.www.nookgaming.com CNAME .
+yrjpgjv35y9x.salud-masculina.info CNAME .
 ysrrzgku6tar.us.themoneytizer.com CNAME .
 z3617cz9ep.fitness.tappbrothers.com CNAME .
 zkmhhr1fr79z.dictionary.basabali.org CNAME .

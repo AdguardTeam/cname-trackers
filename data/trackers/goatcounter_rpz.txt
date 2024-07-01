@@ -1,0 +1,28 @@
+;
+; Company name: GoatCounter
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1719820807659        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+anal.sataniskwijt.be CNAME .
+analytics.code.dccouncil.gov CNAME .
+contacapre.bortox.it CNAME .
+count.vidsrc.pro CNAME .
+goat.hepicgamerz.com CNAME .
+goat.tailspace.net CNAME .
+goat1.nhimmeo.cf CNAME .
+goatcounter.gamecraft.it CNAME .
+st.mapleranks.com CNAME .
+stats.boredkevin.com CNAME .
+stats.boringproxy.io CNAME .
+stats.how.wtf CNAME .
+stats.jakebailey.dev CNAME .
+stats.ksr.onl CNAME .
+stats.lspeed.org CNAME .

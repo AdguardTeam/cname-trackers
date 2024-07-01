@@ -588,7 +588,6 @@
 | stats.jsbible.com | custom.plausible.io |
 | stats.jtrees.io | custom.plausible.io |
 | stats.jun-etan.com | custom.plausible.io |
-| stats.juniperslab.com | custom.plausible.io |
 | stats.justinwilliams.ca | custom.plausible.io |
 | stats.kaladyaudiology.com | custom.plausible.io |
 | stats.katharinascheitz.com | custom.plausible.io |

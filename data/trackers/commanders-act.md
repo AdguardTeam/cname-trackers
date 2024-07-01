@@ -10,8 +10,8 @@
     * redirect343.tagcommander.com
     * redirect357.tagcommander.com
     * redirect360.tagcommander.com
-    * redirect362.tagcommander.com
     * redirect378.tagcommander.com
+    * redirect384.tagcommander.com
     * redirect395.tagcommander.com
     * redirect398.tagcommander.com
     * redirect440.tagcommander.com
@@ -19,7 +19,6 @@
     * redirect495.tagcommander.com
     * redirect521.tagcommander.com
     * redirect622.tagcommander.com
-    * redirect685.tagcommander.com
     * redirect891.tagcommander.com
     * ypg.tagcommander.com
 
@@ -51,8 +50,8 @@
 | data.decathlon.it | redirect343.tagcommander.com |
 | tc.europcar.com | redirect357.tagcommander.com |
 | data.auchandirect.fr | redirect360.tagcommander.com |
-| data.ouigo.com | redirect362.tagcommander.com |
 | tc.europcar.de | redirect378.tagcommander.com |
+| tc.europcar.com.au | redirect384.tagcommander.com |
 | acquisition.klm.com | redirect395.tagcommander.com |
 | data.decathlon.pl | redirect398.tagcommander.com |
 | data.decathlon.de | redirect440.tagcommander.com |
@@ -60,6 +59,5 @@
 | tagcommander.laredoute.ch | redirect495.tagcommander.com |
 | tagcommander.laredoute.be | redirect521.tagcommander.com |
 | data.ubi.com | redirect622.tagcommander.com |
-| data.ricaud.com | redirect685.tagcommander.com |
 | data.wptag.net | redirect891.tagcommander.com |
 | logger.yp.ca | ypg.tagcommander.com |

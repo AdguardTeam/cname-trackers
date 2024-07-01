@@ -84,6 +84,7 @@
 ||affilbox.andreashop.sk^
 ||affilbox.delibarry.com^
 ||affilbox.gurufinance.cz^
+||affilbox.imediafile.com^
 ||affilbox.kronikazivota.cz^
 ||affilbox.kronikazivota.sk^
 ||affilbox.kvaskovanie.sk^
@@ -176,6 +177,7 @@
 ||affiliate.ladylab.sk^
 ||affiliate.lasamba.cz^
 ||affiliate.lasun.cz^
+||affiliate.lavycosmetics.com^
 ||affiliate.lentiamo.be^
 ||affiliate.lentiamo.bg^
 ||affiliate.lentiamo.ch^
@@ -328,6 +330,7 @@
 ||my.11teamsports.sk^
 ||my.fr.top4fitness.be^
 ||my.fr.top4running.be^
+||my.tint-store.ro^
 ||my.top4fitness.at^
 ||my.top4fitness.be^
 ||my.top4fitness.bg^
@@ -390,6 +393,7 @@
 ||my.volleybaldirect.nl^
 ||my.weplaybasketball.bg^
 ||my.weplaybasketball.cz^
+||my.weplaybasketball.de^
 ||my.weplaybasketball.ee^
 ||my.weplaybasketball.gr^
 ||my.weplaybasketball.hu^
@@ -597,7 +601,6 @@
 ||partner.memolingo.cz^
 ||partner.metagram.sk^
 ||partner.mhsexshop.com^
-||partner.milujifoceni.cz^
 ||partner.minikoioi.cz^
 ||partner.misinacokolada.cz^
 ||partner.mojeluha.cz^
@@ -621,6 +624,7 @@
 ||partner.oblicejovajoga.cz^
 ||partner.obojky.cz^
 ||partner.ochutnejorech.cz^
+||partner.ochutnejorech.sk^
 ||partner.ocuway.cz^
 ||partner.olivie.cz^
 ||partner.olivie.sk^
@@ -761,6 +765,7 @@
 ||partneri.gigamat.cz^
 ||partneri.givt.cz^
 ||partneri.goaffiliate.cz^
+||partneri.heavytamper.com^
 ||partneri.heavytamper.cz^
 ||partneri.hopsaj.sk^
 ||partneri.incacollagen.eu^
@@ -815,6 +820,7 @@
 ||partneri.razdvapujcka.cz^
 ||partneri.realitnishaker.cz^
 ||partneri.richardstepan.cz^
+||partneri.robstark.cz^
 ||partneri.roklen.cz^
 ||partneri.rondainvest.cz^
 ||partneri.salente.cz^
@@ -896,6 +902,7 @@
 ||spoluprace.eroticstore.cz^
 ||spoluprace.galaxy.cz^
 ||spoluprace.h2world.store^
+||spoluprace.hyla.cz^
 ||spoluprace.interbohemia.cz^
 ||spoluprace.janitaurbanova.cz^
 ||spoluprace.luxusnipradlo.cz^

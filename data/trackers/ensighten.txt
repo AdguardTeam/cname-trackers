@@ -97,6 +97,7 @@
 ||assets1.asteronlife.co.nz^
 ||assets1.bingle.com.au^
 ||assets1.cilinsurance.com.au^
+||assets1.gi.amp.co.nz^
 ||assets1.gio.com.au^
 ||assets1.shannons.com.au^
 ||assets1.suncorp.co.nz^
@@ -371,6 +372,7 @@
 ||tms.nabtrade.com.au^
 ||tms.nationaltrust.org.uk^
 ||tms.rsa.com^
+||tms.suzukibusinesscloud-qa.com^
 ||tms.virginatlantic.com^
 ||tmsgi.lv.com^
 ||uat1-dc.pagoda.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ ap.bouncelargo.com CNAME .
 ap.saluteeyeseed.com CNAME .
 ar.pagodaskeeker.com CNAME .
 au.maniatoile.com CNAME .
+av.dizziesferri.com CNAME .
 av.eulerupslant.com CNAME .
 ax.helcoidpedicel.com CNAME .
 ax.mousmeetrike.com CNAME .
@@ -44,6 +45,7 @@ ck.kyoodlehewe.com CNAME .
 cl.durezzacrowns.com CNAME .
 cq.stoundisocrat.com CNAME .
 ct.eanlingtumfie.com CNAME .
+cw.tynessubpart.com CNAME .
 cy.chettikmacrli.com CNAME .
 cy.icasmarbor.com CNAME .
 db.sarcelgusla.com CNAME .
@@ -89,6 +91,7 @@ gh.outswumvinose.com CNAME .
 gn.afootwitword.com CNAME .
 gq.webbymendole.com CNAME .
 gr.faencepuggy.com CNAME .
+hb.tewitfeoffee.com CNAME .
 hf.frisklelooms.com CNAME .
 hg.barwaltanha.com CNAME .
 hj.faggotbovidae.com CNAME .
@@ -177,6 +180,7 @@ qa.usninicsooey.com CNAME .
 qd.gibbarwaiting.com CNAME .
 qh.editormbiras.com CNAME .
 qh.escapedinbreed.com CNAME .
+ql.vinelethoner.com CNAME .
 qm.veldtwalk.com CNAME .
 qo.dunganof.com CNAME .
 qo.enamelsdune.com CNAME .
@@ -283,6 +287,7 @@ yv.remountduretto.com CNAME .
 yz.wrightdirely.com CNAME .
 zd.plattedrattons.com CNAME .
 zg.butaneailment.com CNAME .
+zg.embraseupgo.com CNAME .
 zi.kissbluest.com CNAME .
 zj.rochermack.com CNAME .
 zk.cacciasupflame.com CNAME .

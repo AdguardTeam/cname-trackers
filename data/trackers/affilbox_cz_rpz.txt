@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -95,6 +95,7 @@ affilbox.25hodin.cz CNAME .
 affilbox.andreashop.sk CNAME .
 affilbox.delibarry.com CNAME .
 affilbox.gurufinance.cz CNAME .
+affilbox.imediafile.com CNAME .
 affilbox.kronikazivota.cz CNAME .
 affilbox.kronikazivota.sk CNAME .
 affilbox.kvaskovanie.sk CNAME .
@@ -187,6 +188,7 @@ affiliate.kurzy-liecenia.sk CNAME .
 affiliate.ladylab.sk CNAME .
 affiliate.lasamba.cz CNAME .
 affiliate.lasun.cz CNAME .
+affiliate.lavycosmetics.com CNAME .
 affiliate.lentiamo.be CNAME .
 affiliate.lentiamo.bg CNAME .
 affiliate.lentiamo.ch CNAME .
@@ -339,6 +341,7 @@ my.11teamsports.si CNAME .
 my.11teamsports.sk CNAME .
 my.fr.top4fitness.be CNAME .
 my.fr.top4running.be CNAME .
+my.tint-store.ro CNAME .
 my.top4fitness.at CNAME .
 my.top4fitness.be CNAME .
 my.top4fitness.bg CNAME .
@@ -401,6 +404,7 @@ my.top4sport.ro CNAME .
 my.volleybaldirect.nl CNAME .
 my.weplaybasketball.bg CNAME .
 my.weplaybasketball.cz CNAME .
+my.weplaybasketball.de CNAME .
 my.weplaybasketball.ee CNAME .
 my.weplaybasketball.gr CNAME .
 my.weplaybasketball.hu CNAME .
@@ -608,7 +612,6 @@ partner.medela.cz CNAME .
 partner.memolingo.cz CNAME .
 partner.metagram.sk CNAME .
 partner.mhsexshop.com CNAME .
-partner.milujifoceni.cz CNAME .
 partner.minikoioi.cz CNAME .
 partner.misinacokolada.cz CNAME .
 partner.mojeluha.cz CNAME .
@@ -632,6 +635,7 @@ partner.nextwood.cz CNAME .
 partner.oblicejovajoga.cz CNAME .
 partner.obojky.cz CNAME .
 partner.ochutnejorech.cz CNAME .
+partner.ochutnejorech.sk CNAME .
 partner.ocuway.cz CNAME .
 partner.olivie.cz CNAME .
 partner.olivie.sk CNAME .
@@ -772,6 +776,7 @@ partneri.frcime.cz CNAME .
 partneri.gigamat.cz CNAME .
 partneri.givt.cz CNAME .
 partneri.goaffiliate.cz CNAME .
+partneri.heavytamper.com CNAME .
 partneri.heavytamper.cz CNAME .
 partneri.hopsaj.sk CNAME .
 partneri.incacollagen.eu CNAME .
@@ -826,6 +831,7 @@ partneri.radostkazdyden.cz CNAME .
 partneri.razdvapujcka.cz CNAME .
 partneri.realitnishaker.cz CNAME .
 partneri.richardstepan.cz CNAME .
+partneri.robstark.cz CNAME .
 partneri.roklen.cz CNAME .
 partneri.rondainvest.cz CNAME .
 partneri.salente.cz CNAME .
@@ -907,6 +913,7 @@ spoluprace.cistapohoda.cz CNAME .
 spoluprace.eroticstore.cz CNAME .
 spoluprace.galaxy.cz CNAME .
 spoluprace.h2world.store CNAME .
+spoluprace.hyla.cz CNAME .
 spoluprace.interbohemia.cz CNAME .
 spoluprace.janitaurbanova.cz CNAME .
 spoluprace.luxusnipradlo.cz CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -232,7 +232,6 @@ a8.neur.jp CNAME .
 a8.next-hikari.jp CNAME .
 a8.nezumi-guard.com CNAME .
 a8.nezumi-kanzentaiji.com CNAME .
-a8.nitta-biolab.co.jp CNAME .
 a8.nosh.jp CNAME .
 a8.novicetokyo.com CNAME .
 a8.o-tayori.com CNAME .
@@ -339,13 +338,11 @@ a8.unicoffee.tech CNAME .
 a8.uridoki.net CNAME .
 a8.uzuz-college.jp CNAME .
 a8.vector-park.jp CNAME .
-a8.vie-magique.com CNAME .
 a8.vinew.jp CNAME .
 a8.virus-gekitai.com CNAME .
 a8.volstar.jp CNAME .
 a8.vtuber.sexy CNAME .
 a8.watero.pet CNAME .
-a8.waterstand.jp CNAME .
 a8.web-hikari.net CNAME .
 a8.webdeki.com CNAME .
 a8.webist-cri.com CNAME .

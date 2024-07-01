@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -173,6 +173,7 @@ tr.businessdev.younited-credit.es CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.cacf.ipsos-surveys.com CNAME .
 tr.camara.eu.com CNAME .
+tr.capu.espmp-agfr.net CNAME .
 tr.carl.espmp-cufr.net CNAME .
 tr.cart02d.espmp-agfr.net CNAME .
 tr.carte.lcl.fr CNAME .
@@ -674,6 +675,7 @@ tr.nespresso.mailsservices.com CNAME .
 tr.new.offres-cartegie.fr CNAME .
 tr.news-abweb.com CNAME .
 tr.news-chocolat.com CNAME .
+tr.news-companeo.be CNAME .
 tr.news-companeo.cl CNAME .
 tr.news-companeo.com.br CNAME .
 tr.news-companeo.fr CNAME .
@@ -844,7 +846,6 @@ tr.news2pjms.fr CNAME .
 tr.news5.cdiscount.com CNAME .
 tr.news6.cdiscount.com CNAME .
 tr.newsletter-stressless.com CNAME .
-tr.newsletter-wonderbox.com CNAME .
 tr.newsletter.10h01.fr CNAME .
 tr.newsletter.1664france.fr CNAME .
 tr.newsletter.1oag.com CNAME .
@@ -955,6 +956,7 @@ tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro-renov.be CNAME .
 tr.pro.odalys-vacances.com CNAME .
+tr.pro.residencehappysenior.fr CNAME .
 tr.programme-voyageur-sncf.com CNAME .
 tr.projet.cotemaison.fr CNAME .
 tr.promo.np6.fr CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ ado.icorp.ro CNAME .
 ads.tvp.pl CNAME .
 ao.city24.lv CNAME .
 content.ingbank.pl CNAME .
+ee.sportacentrs.com CNAME .
 icorpado.9am.ro CNAME .
 ipla.hit.stat24.com CNAME .
 ocean.gigatron.rs CNAME .

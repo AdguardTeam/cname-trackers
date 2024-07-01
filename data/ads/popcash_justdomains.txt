@@ -221,7 +221,6 @@ bass.alfrednerstu.com
 bass.goulet.dev
 bass.siterig.io
 bat.heelix.be
-bear.big.dk
 bear.builtbyborda.com
 bear.datingrelationshipsadvice.com
 bear.jake.nyc
@@ -496,7 +495,6 @@ goldfish.shingle.fi
 goldfish.untitledspreadsheet.com
 goose.accountsjs.com
 goose.markerchase.com
-goose.pooltogether.com
 gopher.mina.ca
 gorilla.celcyon.com
 gorilla.hakai.org
@@ -584,7 +582,6 @@ kangaroo.kraenk.de
 kangaroo.triplightfantastic.com
 kaxlfq.testingwithtestcafe.com
 kingfisher.gedaly.com
-kingfisher.startupdemoday.live
 kingfisher.wishloom.com
 kite.cardneyestate.co.uk
 kite.devin.website
@@ -651,7 +648,6 @@ locust.ausrebellion.earth
 loon.davidalindahl.com
 loon.energizer.asia
 loon.jrmyfranck.com
-louse.16bit.it
 louse.demaree.space
 louse.seanconnolly.dev
 louse.sigle.io

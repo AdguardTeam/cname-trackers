@@ -69,7 +69,6 @@
     * 274892701840429.wt-eu02.net
     * 285545256993116.wt-eu02.net
     * 286813086616891.wt-eu02.net
-    * 292330999892453.wt-eu02.net
     * 292595354576025.wt-eu02.net
     * 301407277754972.wt-eu02.net
     * 302571338326011.wt-eu02.net
@@ -281,14 +280,6 @@
 | web.e.obayaty.com | 274892701840429.wt-eu02.net |
 | web.news.eprice.it | 285545256993116.wt-eu02.net |
 | mit.db.com | 286813086616891.wt-eu02.net |
-| backup.data.srf.ch | 292330999892453.wt-eu02.net |
-| data.srf.ch | 292330999892453.wt-eu02.net |
-| foro.data.srf.ch | 292330999892453.wt-eu02.net |
-| google.data.srf.ch | 292330999892453.wt-eu02.net |
-| lax.data.srf.ch | 292330999892453.wt-eu02.net |
-| nov.data.srf.ch | 292330999892453.wt-eu02.net |
-| s5.data.srf.ch | 292330999892453.wt-eu02.net |
-| stage.www.data.srf.ch | 292330999892453.wt-eu02.net |
 | data.mapp.com | 292595354576025.wt-eu02.net |
 | data.kulturkaufhaus.de | 301407277754972.wt-eu02.net |
 | web.campaign.v73.it | 302571338326011.wt-eu02.net |
@@ -311,6 +302,7 @@
 | web.email.superga.co.uk | 339874301969258.wt-eu02.net |
 | statistics.tuv.com | 350258498646185.wt-eu02.net |
 | web.tummy-tox.com | 366003812072969.wt-eu02.net |
+| web.tummytox.at | 366003812072969.wt-eu02.net |
 | web.tummytox.de | 366003812072969.wt-eu02.net |
 | web.tummytox.es | 366003812072969.wt-eu02.net |
 | web.tummytox.fr | 366003812072969.wt-eu02.net |
@@ -379,6 +371,7 @@
 | web.slimjoy.com | 657801072187647.wt-eu02.net |
 | web.slimjoy.cz | 657801072187647.wt-eu02.net |
 | web.slimjoy.dk | 657801072187647.wt-eu02.net |
+| web.slimjoy.it | 657801072187647.wt-eu02.net |
 | web.slimjoy.ro | 657801072187647.wt-eu02.net |
 | web.slimjoy.se | 657801072187647.wt-eu02.net |
 | web.slimjoy.sk | 657801072187647.wt-eu02.net |

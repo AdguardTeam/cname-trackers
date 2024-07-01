@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -232,7 +232,6 @@ bass.alfrednerstu.com CNAME .
 bass.goulet.dev CNAME .
 bass.siterig.io CNAME .
 bat.heelix.be CNAME .
-bear.big.dk CNAME .
 bear.builtbyborda.com CNAME .
 bear.datingrelationshipsadvice.com CNAME .
 bear.jake.nyc CNAME .
@@ -507,7 +506,6 @@ goldfish.shingle.fi CNAME .
 goldfish.untitledspreadsheet.com CNAME .
 goose.accountsjs.com CNAME .
 goose.markerchase.com CNAME .
-goose.pooltogether.com CNAME .
 gopher.mina.ca CNAME .
 gorilla.celcyon.com CNAME .
 gorilla.hakai.org CNAME .
@@ -595,7 +593,6 @@ kangaroo.kraenk.de CNAME .
 kangaroo.triplightfantastic.com CNAME .
 kaxlfq.testingwithtestcafe.com CNAME .
 kingfisher.gedaly.com CNAME .
-kingfisher.startupdemoday.live CNAME .
 kingfisher.wishloom.com CNAME .
 kite.cardneyestate.co.uk CNAME .
 kite.devin.website CNAME .
@@ -662,7 +659,6 @@ locust.ausrebellion.earth CNAME .
 loon.davidalindahl.com CNAME .
 loon.energizer.asia CNAME .
 loon.jrmyfranck.com CNAME .
-louse.16bit.it CNAME .
 louse.demaree.space CNAME .
 louse.seanconnolly.dev CNAME .
 louse.sigle.io CNAME .

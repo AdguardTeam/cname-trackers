@@ -278,6 +278,7 @@
 3328404.notifysrv.com
 3329496.notify6.com
 3329496.notifysrv.com
+3329724.notifysrv.com
 3329726.notifysrv.com
 3334828.notify6.com
 3335306.notifysrv.com
@@ -343,6 +344,7 @@
 3396523.notifysrv.com
 3396611.notifysrv.com
 3398315.notify6.com
+3398771.notifysrv.com
 3398793.notifysrv.com
 3400453.notifysrv.com
 3402191.notifysrv.com
@@ -466,6 +468,7 @@
 3491507.notifysrv.com
 3491539.notifysrv.com
 3493551.notify6.com
+3493551.notifysrv.com
 3493753.notifysrv.com
 3496079.notify6.com
 3497467.notifysrv.com
@@ -609,6 +612,7 @@
 3593847.notifysrv.com
 3593859.notifysrv.com
 3595095.notifysrv.com
+3595711.notify6.com
 3595711.notifysrv.com
 3597775.notifysrv.com
 3598457.notifysrv.com
@@ -678,6 +682,7 @@
 3710063.notifysrv.com
 3710069.notify6.com
 3710069.notifysrv.com
+3710071.notify6.com
 3710075.notify6.com
 3714181.notifysrv.com
 3715633.notifysrv.com
@@ -795,6 +800,7 @@
 3961124.notify6.com
 3961140.notify6.com
 3961144.notify6.com
+3961146.notify6.com
 3961386.notify6.com
 3961402.notify6.com
 3961406.notify6.com
@@ -844,6 +850,7 @@
 4062424.notify6.com
 4062428.notify6.com
 4065194.notify6.com
+4067912.notify6.com
 4068856.notify6.com
 4068860.notify6.com
 4069896.notify6.com
@@ -912,6 +919,7 @@
 4270600.notify6.com
 4270606.notify6.com
 4270618.notify6.com
+4274616.notify6.com
 4274618.notify6.com
 4290976.notify6.com
 4292982.notify6.com
@@ -1050,7 +1058,6 @@ a.addisplaynetwork.com
 a.adsession.com
 a.advantageclicks.net
 a.advertrek.com
-a.asvsm.com
 a.b7q9v8z.com
 a.cant3am.com
 a.etology.com
@@ -1063,7 +1070,7 @@ a.q88z1s3.com
 a.r8lnet.com
 a.redpathmedia.com
 a.rocoads.net
-a.santabrowser.com
+a.slice.exchange
 a.stuffserve.com
 a.tf4srv.com
 a.vws4brkfst.com
@@ -1229,8 +1236,10 @@ www.3231172.notify6.com
 www.3243082.notifysrv.com
 www.3254306.notifysrv.com
 www.3270262.notifysrv.com
+www.3328380.notifysrv.com
 www.3352256.notify6.com
 www.3410343.notify6.com
+www.3440153.notify6.com
 www.3466857.notify6.com
 www.3466863.notify6.com
 www.3475335.notify6.com
@@ -1247,6 +1256,7 @@ www.8.notify.bizonads-ssp.com
 www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
+a.asvsm.com
 a.bizonads-ssp.com
-a.slice.exchange
+a.santabrowser.com
 ads.optimizesrv.com

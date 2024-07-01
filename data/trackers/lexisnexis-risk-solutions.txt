@@ -90,6 +90,7 @@
 ||cdna.jpay.com^
 ||cdna.kpers.org^
 ||cdna.lottohelden.de^
+||cdna.monabanq.com^
 ||cdna.moncofidispro.fr^
 ||cdna.paiement.cofidis.fr^
 ||cdna.paymentncb.cofidis.es^
@@ -188,6 +189,7 @@
 ||content.bankoncit.com^
 ||content.benefitsaccess.org^
 ||content.berluti.com^
+||content.biggerbooks.com^
 ||content.billdomain.com^
 ||content.billsupport.com^
 ||content.bnl.it^
@@ -258,6 +260,7 @@
 ||content.my100bank.com^
 ||content.myfamliplus.state.co.us^
 ||content.myonlyid.com^
+||content.mypersi.idaho.gov^
 ||content.mywisely.com^
 ||content.name.com^
 ||content.nebraska.gov^
@@ -313,6 +316,7 @@
 ||content.washingtonnational.com^
 ||content.westcreekfin.com^
 ||content.wizink.es^
+||content002.bet365.com^
 ||content1.esdiacapi.com^
 ||content1.reprisefinancial.com^
 ||content2.instacart.com^
@@ -350,6 +354,7 @@
 ||content3.lexisnexisrisk.com^
 ||content3.risk.lexisnexis.com^
 ||content4c.iberia.com^
+||content55.getupgraded.com^
 ||content9.lendingtree.com^
 ||contentfd.directcapital.com^
 ||contentimage.fretebras.com.br^
@@ -566,6 +571,8 @@
 ||lspr.luckycasino.ca^
 ||lsprof.comeon.com^
 ||lsr22.dzing.finance^
+||ltxup.sumup.com^
+||ltxup.sumup.io^
 ||m-profiling.cibc.com^
 ||m-profiling.simplii.com^
 ||m.vnforapps.com^
@@ -659,6 +666,7 @@
 ||prod-jfcudc.chaperone.lumindigitalhosting.com^
 ||prod-lafcuca.chaperone.lumindigitalhosting.com^
 ||prod-lfcuva.chaperone.lumindigitalhosting.com^
+||prod-michedcu.chaperone.lumindigitalhosting.com^
 ||prod-mscuct.chaperone.lumindigitalhosting.com^
 ||prod-navigator.chaperone.lumindigitalhosting.com^
 ||prod-njfcunj.chaperone.lumindigitalhosting.com^
@@ -933,6 +941,7 @@
 ||tm.uship.com^
 ||tm.verify.illion.com.au^
 ||tmcdn.homeaway.com^
+||tmcdn.spincasino.ca^
 ||tmck.milestonegoldcard.com^
 ||tmcontent.imvu.com^
 ||tmcontent.meridiancu.ca^

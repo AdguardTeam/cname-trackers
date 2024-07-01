@@ -6,6 +6,7 @@
 ||ads-delivery.milenarmedia.pt^
 ||ads-static.recon.com^
 ||ads.bidspotter.co.uk^
+||ads.cavalier-romand.ch^
 ||ads.datateam.co.uk^
 ||ads.environmentalleader.com^
 ||ads.i-bidder.com^
@@ -26,6 +27,7 @@
 ||adv.consulcesi.it^
 ||adv.unionesarda.it^
 ||advertising.goldseek.com^
+||api.metrike.com^
 ||assets.lintigroup.se^
 ||banners.leightonbroadcasting.com^
 ||banners.orangecoast.com^
@@ -37,17 +39,22 @@
 ||cdn.revive-adserver.net^
 ||cdn.rlnads.net^
 ||championads.midtc.com^
+||console.adbility-media.com^
 ||console.informingnews.com^
+||console.mannixmarketing.com^
+||console.revive-adserver.net^
 ||coreads.cambridge.org^
 ||display.lawbulletin.com^
 ||images.addurance.com^
 ||images.cricketworld.com^
 ||images.informatm.com^
 ||lalala.geenstijl.nl^
+||media360ads.midtc.com^
 ||openx.mondiale.co.uk^
 ||ox.mequoda.com^
 ||proxena-images.reviveservers.com^
 ||proxena-secure.reviveservers.com^
+||revive-static.worldscreen.com^
 ||revive.ahk.de^
 ||revive.worldscreen.com^
 ||serve.faithlifeads.com^
@@ -61,6 +68,7 @@
 ||servedby.engineeringnews.co.za^
 ||servedby.everythingnevada.com^
 ||servedby.geminipub.com^
+||servedby.healthcarescene.com^
 ||servedby.hlipublishing.com^
 ||servedby.imagineobx.com^
 ||servedby.insideradverts.com^

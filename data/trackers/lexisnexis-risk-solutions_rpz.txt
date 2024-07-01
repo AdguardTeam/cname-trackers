@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -101,6 +101,7 @@ cdna.ecommerce.cofidis.it CNAME .
 cdna.jpay.com CNAME .
 cdna.kpers.org CNAME .
 cdna.lottohelden.de CNAME .
+cdna.monabanq.com CNAME .
 cdna.moncofidispro.fr CNAME .
 cdna.paiement.cofidis.fr CNAME .
 cdna.paymentncb.cofidis.es CNAME .
@@ -199,6 +200,7 @@ content.bankerslife.com CNAME .
 content.bankoncit.com CNAME .
 content.benefitsaccess.org CNAME .
 content.berluti.com CNAME .
+content.biggerbooks.com CNAME .
 content.billdomain.com CNAME .
 content.billsupport.com CNAME .
 content.bnl.it CNAME .
@@ -269,6 +271,7 @@ content.moni.com.ar CNAME .
 content.my100bank.com CNAME .
 content.myfamliplus.state.co.us CNAME .
 content.myonlyid.com CNAME .
+content.mypersi.idaho.gov CNAME .
 content.mywisely.com CNAME .
 content.name.com CNAME .
 content.nebraska.gov CNAME .
@@ -324,6 +327,7 @@ content.vi.gov CNAME .
 content.washingtonnational.com CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
+content002.bet365.com CNAME .
 content1.esdiacapi.com CNAME .
 content1.reprisefinancial.com CNAME .
 content2.instacart.com CNAME .
@@ -361,6 +365,7 @@ content22.retailservicescommercial.citi.com CNAME .
 content3.lexisnexisrisk.com CNAME .
 content3.risk.lexisnexis.com CNAME .
 content4c.iberia.com CNAME .
+content55.getupgraded.com CNAME .
 content9.lendingtree.com CNAME .
 contentfd.directcapital.com CNAME .
 contentimage.fretebras.com.br CNAME .
@@ -577,6 +582,8 @@ lsdp.lotto.com CNAME .
 lspr.luckycasino.ca CNAME .
 lsprof.comeon.com CNAME .
 lsr22.dzing.finance CNAME .
+ltxup.sumup.com CNAME .
+ltxup.sumup.io CNAME .
 m-profiling.cibc.com CNAME .
 m-profiling.simplii.com CNAME .
 m.vnforapps.com CNAME .
@@ -670,6 +677,7 @@ prod-jaxfcufl.chaperone.lumindigitalhosting.com CNAME .
 prod-jfcudc.chaperone.lumindigitalhosting.com CNAME .
 prod-lafcuca.chaperone.lumindigitalhosting.com CNAME .
 prod-lfcuva.chaperone.lumindigitalhosting.com CNAME .
+prod-michedcu.chaperone.lumindigitalhosting.com CNAME .
 prod-mscuct.chaperone.lumindigitalhosting.com CNAME .
 prod-navigator.chaperone.lumindigitalhosting.com CNAME .
 prod-njfcunj.chaperone.lumindigitalhosting.com CNAME .
@@ -944,6 +952,7 @@ tm.telecharge.com CNAME .
 tm.uship.com CNAME .
 tm.verify.illion.com.au CNAME .
 tmcdn.homeaway.com CNAME .
+tmcdn.spincasino.ca CNAME .
 tmck.milestonegoldcard.com CNAME .
 tmcontent.imvu.com CNAME .
 tmcontent.meridiancu.ca CNAME .

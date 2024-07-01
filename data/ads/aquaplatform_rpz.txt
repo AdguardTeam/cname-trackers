@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719216006999        ; Serial
+           1719820807659        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ adimages.sniffies.com CNAME .
 ads-delivery.milenarmedia.pt CNAME .
 ads-static.recon.com CNAME .
 ads.bidspotter.co.uk CNAME .
+ads.cavalier-romand.ch CNAME .
 ads.datateam.co.uk CNAME .
 ads.environmentalleader.com CNAME .
 ads.i-bidder.com CNAME .
@@ -37,6 +38,7 @@ adserver.sonicplug.com CNAME .
 adv.consulcesi.it CNAME .
 adv.unionesarda.it CNAME .
 advertising.goldseek.com CNAME .
+api.metrike.com CNAME .
 assets.lintigroup.se CNAME .
 banners.leightonbroadcasting.com CNAME .
 banners.orangecoast.com CNAME .
@@ -48,17 +50,22 @@ cdn.pinktriangle.ca CNAME .
 cdn.revive-adserver.net CNAME .
 cdn.rlnads.net CNAME .
 championads.midtc.com CNAME .
+console.adbility-media.com CNAME .
 console.informingnews.com CNAME .
+console.mannixmarketing.com CNAME .
+console.revive-adserver.net CNAME .
 coreads.cambridge.org CNAME .
 display.lawbulletin.com CNAME .
 images.addurance.com CNAME .
 images.cricketworld.com CNAME .
 images.informatm.com CNAME .
 lalala.geenstijl.nl CNAME .
+media360ads.midtc.com CNAME .
 openx.mondiale.co.uk CNAME .
 ox.mequoda.com CNAME .
 proxena-images.reviveservers.com CNAME .
 proxena-secure.reviveservers.com CNAME .
+revive-static.worldscreen.com CNAME .
 revive.ahk.de CNAME .
 revive.worldscreen.com CNAME .
 serve.faithlifeads.com CNAME .
@@ -72,6 +79,7 @@ servedby.cricketworld.com CNAME .
 servedby.engineeringnews.co.za CNAME .
 servedby.everythingnevada.com CNAME .
 servedby.geminipub.com CNAME .
+servedby.healthcarescene.com CNAME .
 servedby.hlipublishing.com CNAME .
 servedby.imagineobx.com CNAME .
 servedby.insideradverts.com CNAME .
