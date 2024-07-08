@@ -79,6 +79,7 @@ affil.xgdpr.cz
 affil.zaslat.cz
 affil.zdravetricko.cz
 affil.zenskecykly.cz
+affilate.securepro.cz
 affilate.sklep38.cz
 affilbox.25hodin.cz
 affilbox.andreashop.sk
@@ -266,6 +267,7 @@ affiliate.velebny.cz
 affiliate.vianio.com
 affiliate.vox.cz
 affiliate.warriorfactory.cz
+affiliate.webium.cz
 affiliate.wugi.cz
 affiliate.xbx.cz
 affiliate.zdraviafitness.cz
@@ -284,7 +286,6 @@ ambasador.rustspolecne.cz
 ambasadorky.zenyzenam.cz
 ambassador.notsofunnyany.com
 ambassadors.childhoodpotential.com
-ambassadors.montessoriparenting.org
 box.cryptokingdom.tech
 box.kryptotrejder.sk
 brana.ritualyomlazeni.cz
@@ -292,6 +293,7 @@ collab.zdravetricko.cz
 dekovacka.hezkres.cz
 doporuc.hopsej.cz
 doporuc.konferenceryba.cz
+doporuc.mechaneo.cz
 doporucim.zjistitcenu.cz
 equilist.raj-ohlavek.cz
 hcaffil.mironet.cz
@@ -532,6 +534,7 @@ partner.expresmenu.sk
 partner.fabulo.sk
 partner.finstyle.cz
 partner.firmin.cz
+partner.fitnessrevolucia.sk
 partner.forcell.cz
 partner.forexrebel.net
 partner.freshlabels.cz
@@ -685,6 +688,7 @@ partner.svetcukraru.cz
 partner.svetruzi.cz
 partner.swaglift.com
 partner.sypanycaj.eu
+partner.tahnabranu.cz
 partner.tajemstvi-uspechu.cz
 partner.thechillidoctor.cz
 partner.top-obaly.cz

@@ -102,6 +102,7 @@
 ||steinbackhaus.viessmann.com^
 ||steinernehaus.viessmann.at^
 ||steinsala.viessmann.lu^
+||stiwa.test.de^
 ||strawberry.basf.com^
 ||tm.urssaf.fr^
 ||torropinto.viessmann.es^

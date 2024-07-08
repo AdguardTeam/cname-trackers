@@ -98,6 +98,7 @@
 | affil.zaslat.cz | cz.affilbox.cz |
 | affil.zdravetricko.cz | cz.affilbox.cz |
 | affil.zenskecykly.cz | cz.affilbox.cz |
+| affilate.securepro.cz | cz.affilbox.cz |
 | affilate.sklep38.cz | cz.affilbox.cz |
 | affilbox.25hodin.cz | cz.affilbox.cz |
 | affilbox.andreashop.sk | cz.affilbox.cz |
@@ -285,6 +286,7 @@
 | affiliate.vianio.com | cz.affilbox.cz |
 | affiliate.vox.cz | cz.affilbox.cz |
 | affiliate.warriorfactory.cz | cz.affilbox.cz |
+| affiliate.webium.cz | cz.affilbox.cz |
 | affiliate.wugi.cz | cz.affilbox.cz |
 | affiliate.xbx.cz | cz.affilbox.cz |
 | affiliate.zdraviafitness.cz | cz.affilbox.cz |
@@ -303,7 +305,6 @@
 | ambasadorky.zenyzenam.cz | cz.affilbox.cz |
 | ambassador.notsofunnyany.com | cz.affilbox.cz |
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
-| ambassadors.montessoriparenting.org | cz.affilbox.cz |
 | box.cryptokingdom.tech | cz.affilbox.cz |
 | box.kryptotrejder.sk | cz.affilbox.cz |
 | brana.ritualyomlazeni.cz | cz.affilbox.cz |
@@ -311,6 +312,7 @@
 | dekovacka.hezkres.cz | cz.affilbox.cz |
 | doporuc.hopsej.cz | cz.affilbox.cz |
 | doporuc.konferenceryba.cz | cz.affilbox.cz |
+| doporuc.mechaneo.cz | cz.affilbox.cz |
 | doporucim.zjistitcenu.cz | cz.affilbox.cz |
 | equilist.raj-ohlavek.cz | cz.affilbox.cz |
 | hcaffil.mironet.cz | cz.affilbox.cz |
@@ -551,6 +553,7 @@
 | partner.fabulo.sk | cz.affilbox.cz |
 | partner.finstyle.cz | cz.affilbox.cz |
 | partner.firmin.cz | cz.affilbox.cz |
+| partner.fitnessrevolucia.sk | cz.affilbox.cz |
 | partner.forcell.cz | cz.affilbox.cz |
 | partner.forexrebel.net | cz.affilbox.cz |
 | partner.freshlabels.cz | cz.affilbox.cz |
@@ -704,6 +707,7 @@
 | partner.svetruzi.cz | cz.affilbox.cz |
 | partner.swaglift.com | cz.affilbox.cz |
 | partner.sypanycaj.eu | cz.affilbox.cz |
+| partner.tahnabranu.cz | cz.affilbox.cz |
 | partner.tajemstvi-uspechu.cz | cz.affilbox.cz |
 | partner.thechillidoctor.cz | cz.affilbox.cz |
 | partner.top-obaly.cz | cz.affilbox.cz |

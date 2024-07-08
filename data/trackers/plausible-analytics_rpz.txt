@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,7 +12,6 @@ $TTL 300
 @    IN   NS    localhost.
 
 a-api.skz.dev CNAME .
-a.aawp.de CNAME .
 a.iiro.dev CNAME .
 a.linkz.ai CNAME .
 also.greatsecuritydebate.net CNAME .
@@ -281,9 +280,9 @@ prism.drivingkyoto.com CNAME .
 prism.feurer-network.ch CNAME .
 prism.netherlandlines.com CNAME .
 prism.pablonouvelle.com CNAME .
-prism.raumgleiter.com CNAME .
 prism.singapouring.com CNAME .
 prism.tramclockmunich.com CNAME .
+prism.villageneva.com CNAME .
 pstat.akathists.com CNAME .
 pstat.goodremotejobs.com CNAME .
 pstats.cloudpal.app CNAME .
@@ -337,6 +336,7 @@ stat.umsu.de CNAME .
 static.osalta.eu CNAME .
 statistic.jac-systeme.de CNAME .
 statistics.heatbeat.de CNAME .
+statistics.leohoesl.com CNAME .
 statistik.apartments-tirolerhaus.at CNAME .
 statman.sesong.info CNAME .
 stats.69grad.de CNAME .
@@ -372,6 +372,7 @@ stats.benui.ca CNAME .
 stats.bernardobordadagua.com CNAME .
 stats.bertwagner.com CNAME .
 stats.bestservers.co CNAME .
+stats.beyond-grace.co.uk CNAME .
 stats.bholmes.dev CNAME .
 stats.bikeschool.co.za CNAME .
 stats.bimbase.nl CNAME .
@@ -853,6 +854,7 @@ stats.vican.me CNAME .
 stats.visions.ch CNAME .
 stats.voltimum.com CNAME .
 stats.wachstum.at CNAME .
+stats.wafflemeido.art CNAME .
 stats.walkiees.co.uk CNAME .
 stats.websnap.app CNAME .
 stats.wecodeni.com CNAME .

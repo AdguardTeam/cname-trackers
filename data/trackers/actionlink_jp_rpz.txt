@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ al.atelierofsleep.com CNAME .
 al.babyrenta.com CNAME .
 al.ballon.jp CNAME .
 al.bath-ec.com CNAME .
+al.blvck.jp CNAME .
 al.bulk.co.jp CNAME .
 al.caetus.jp CNAME .
 al.californiastreet.net CNAME .

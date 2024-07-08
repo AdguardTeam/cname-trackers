@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * a8.net
+    * test-trck.a8.net
     * trck-v4.a8.net
     * trck.a8.net
 
@@ -10,6 +11,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| track.ipadpresence.com | test-trck.a8.net |
 | track-v4.ipadpresence.com | trck-v4.a8.net |
 | 1909a8.satofull.jp | trck.a8.net |
 | a8-22.hana-yume.net | trck.a8.net |
@@ -19,6 +21,7 @@
 | a8-itp.qoo10.jp | trck.a8.net |
 | a8-kouten.kouten.work | trck.a8.net |
 | a8-mamacareer.mama-9jin.com | trck.a8.net |
+| a8-printing.ink-revolution.com | trck.a8.net |
 | a8-wpxblog.secure.wpx.ne.jp | trck.a8.net |
 | a8-wpxshin.secure.wpx.ne.jp | trck.a8.net |
 | a8-xshop.secure.xserver.ne.jp | trck.a8.net |
@@ -282,6 +285,7 @@
 | a8.shizq.store | trck.a8.net |
 | a8.shokubun.net | trck.a8.net |
 | a8.shop.basefood.co.jp | trck.a8.net |
+| a8.shop.dreammug.co.jp | trck.a8.net |
 | a8.shop.km-link.jp | trck.a8.net |
 | a8.shop.nicosuma.com | trck.a8.net |
 | a8.shop.tsukijiwadatsumi.com | trck.a8.net |
@@ -317,6 +321,7 @@
 | a8.techis.jp | trck.a8.net |
 | a8.tecpartners.jp | trck.a8.net |
 | a8.teddyworks.co.jp | trck.a8.net |
+| a8.tential.jp | trck.a8.net |
 | a8.the-session.jp | trck.a8.net |
 | a8.themoonmilk.jp | trck.a8.net |
 | a8.thermostand.jp | trck.a8.net |
@@ -324,6 +329,7 @@
 | a8.tideisturning.com | trck.a8.net |
 | a8.tokihana.net | trck.a8.net |
 | a8.tokyo-hills-clinic.com | trck.a8.net |
+| a8.tomo.life | trck.a8.net |
 | a8.tone.ne.jp | trck.a8.net |
 | a8.toraiz.jp | trck.a8.net |
 | a8.tour-sys.com | trck.a8.net |
@@ -335,6 +341,7 @@
 | a8.uchideno-kozuchi.com | trck.a8.net |
 | a8.uluwatutiger.com | trck.a8.net |
 | a8.unicoffee.tech | trck.a8.net |
+| a8.uokura-hakata.com | trck.a8.net |
 | a8.uridoki.net | trck.a8.net |
 | a8.uzuz-college.jp | trck.a8.net |
 | a8.vector-park.jp | trck.a8.net |
@@ -583,6 +590,7 @@
 | a8clk.mynavi-job20s.jp | trck.a8.net |
 | a8clk.mypage.awesome-wash.com | trck.a8.net |
 | a8clk.nandemo-kimono.com | trck.a8.net |
+| a8clk.naturesway.jp | trck.a8.net |
 | a8clk.nenga-kazoku.com | trck.a8.net |
 | a8clk.nenga.fumiiro.jp | trck.a8.net |
 | a8clk.netowl.jp | trck.a8.net |
@@ -608,6 +616,7 @@
 | a8clk.patpat.com | trck.a8.net |
 | a8clk.petelect.jp | trck.a8.net |
 | a8clk.petitjob.jp | trck.a8.net |
+| a8clk.photo-gift.me | trck.a8.net |
 | a8clk.photorevo.info | trck.a8.net |
 | a8clk.plusone.space | trck.a8.net |
 | a8clk.point-island.com | trck.a8.net |
@@ -811,6 +820,7 @@
 | a8cv.careerpark-agent.jp | trck.a8.net |
 | a8cv.carryonmall.com | trck.a8.net |
 | a8cv.cart.bi-su.jp | trck.a8.net |
+| a8cv.cart.minorie-shop.com | trck.a8.net |
 | a8cv.cart3.toku-talk.com | trck.a8.net |
 | a8cv.cast-er.com | trck.a8.net |
 | a8cv.celav.net | trck.a8.net |
@@ -939,6 +949,7 @@
 | a8cv.harasawa.co.jp | trck.a8.net |
 | a8cv.hardwarewallet-japan.com | trck.a8.net |
 | a8cv.hariocorp.co.jp | trck.a8.net |
+| a8cv.hariti.shop | trck.a8.net |
 | a8cv.hello-people.jp | trck.a8.net |
 | a8cv.heybit.io | trck.a8.net |
 | a8cv.hi-tailor.jp | trck.a8.net |
@@ -997,6 +1008,7 @@
 | a8cv.kajier.jp | trck.a8.net |
 | a8cv.kamurogi.net | trck.a8.net |
 | a8cv.karitoke.jp | trck.a8.net |
+| a8cv.karrimor.jp | trck.a8.net |
 | a8cv.kidsmoneyschool.net | trck.a8.net |
 | a8cv.kikubari-bento.com | trck.a8.net |
 | a8cv.king-makura.com | trck.a8.net |
@@ -1005,6 +1017,7 @@
 | a8cv.kn-waterserver.com | trck.a8.net |
 | a8cv.kobe38.com | trck.a8.net |
 | a8cv.kosodatemoney.com | trck.a8.net |
+| a8cv.kstarselect.com | trck.a8.net |
 | a8cv.kuih.jp | trck.a8.net |
 | a8cv.kurashi-bears.com | trck.a8.net |
 | a8cv.kusmitea.jp | trck.a8.net |
@@ -1025,6 +1038,7 @@
 | a8cv.lp.nalevi.mynavi.jp | trck.a8.net |
 | a8cv.lp.x-house.co.jp | trck.a8.net |
 | a8cv.lyprinol.jp | trck.a8.net |
+| a8cv.ma-cp.com | trck.a8.net |
 | a8cv.machi-ene.jp | trck.a8.net |
 | a8cv.machicon.jp | trck.a8.net |
 | a8cv.macloud.jp | trck.a8.net |
@@ -1149,6 +1163,7 @@
 | a8cv.select-type.com | trck.a8.net |
 | a8cv.selkalabo.com | trck.a8.net |
 | a8cv.sell.miraias.co.jp | trck.a8.net |
+| a8cv.seminar.tapp-co.jp | trck.a8.net |
 | a8cv.setagayarecords.co | trck.a8.net |
 | a8cv.shadoten.com | trck.a8.net |
 | a8cv.sharing-tech.co.jp | trck.a8.net |
@@ -1245,6 +1260,7 @@
 | a8cv.wordman.jp | trck.a8.net |
 | a8cv.worker.sukimaworks.app | trck.a8.net |
 | a8cv.workman.jp | trck.a8.net |
+| a8cv.world-goods.online | trck.a8.net |
 | a8cv.worx.jp | trck.a8.net |
 | a8cv.www.bedstyle.jp | trck.a8.net |
 | a8cv.www.bigability.co.jp | trck.a8.net |
@@ -1312,8 +1328,10 @@
 | a8tag.emprorm.com | trck.a8.net |
 | a8tag.suplinx.com | trck.a8.net |
 | a8tatoo.ike-sunshine.co.jp | trck.a8.net |
+| a8tra.altana-design.com | trck.a8.net |
 | a8track.aidmybank.com | trck.a8.net |
 | a8track.bizdigi.jp | trck.a8.net |
+| a8track.boost-station.jp | trck.a8.net |
 | a8track.speakbuddy-personalcoaching.com | trck.a8.net |
 | a8track.www.pontely.com | trck.a8.net |
 | a8trck.aisatsujo.com | trck.a8.net |
@@ -1398,6 +1416,7 @@
 | aspa8.ozmall.co.jp | trck.a8.net |
 | car-a8.tabirai.net | trck.a8.net |
 | cart.matsuzaka-steak.com | trck.a8.net |
+| check.looser.jp | trck.a8.net |
 | click.techtree.jp | trck.a8.net |
 | clk.entry.surala.jp | trck.a8.net |
 | clk.glam-print.com | trck.a8.net |
@@ -1415,6 +1434,7 @@
 | cv.a-hikkoshi.com | trck.a8.net |
 | cv.ag.cybersecurity-jp.com | trck.a8.net |
 | cv.agent-sana.com | trck.a8.net |
+| cv.aqua-style.jp | trck.a8.net |
 | cv.atelier-shark.com | trck.a8.net |
 | cv.b2b.subscription-store.com | trck.a8.net |
 | cv.bc-force.com | trck.a8.net |
@@ -1465,8 +1485,10 @@
 | cv.taskar.online | trck.a8.net |
 | cv.tenjin.cc | trck.a8.net |
 | cv.theatreacademy.info | trck.a8.net |
+| cv.ticketpay.jp | trck.a8.net |
 | cv.tokyowork.jp | trck.a8.net |
 | cv.ui-chiho.clinic | trck.a8.net |
+| cv.viday.jp | trck.a8.net |
 | cv.virtualoffice-resonance.jp | trck.a8.net |
 | cv.web-sana.com | trck.a8.net |
 | cv.willbefit.jp | trck.a8.net |
@@ -1523,12 +1545,13 @@
 | thanks.olivesitter.com | trck.a8.net |
 | thanks.tsubaki-musicschool.com | trck.a8.net |
 | track.craudia.com | trck.a8.net |
+| track.entry.dokoyorimo.com | trck.a8.net |
 | track.kiafudousan.com | trck.a8.net |
 | track.xmarketech.com | trck.a8.net |
 | tracking.196189.com | trck.a8.net |
 | tracking.lead-plus.jp | trck.a8.net |
 | traka8.crypto-mall.org | trck.a8.net |
-| trck-a8.j-depo.com | trck.a8.net |
+| trc.hajime-asset.com | trck.a8.net |
 | trck.aeon.co.jp | trck.a8.net |
 | trck.atnenga.com | trck.a8.net |
 | trck.flexnet.co.jp | trck.a8.net |
@@ -1543,6 +1566,7 @@
 | trck02.magaseek.com | trck.a8.net |
 | trcka8.orobianco-jp.com | trck.a8.net |
 | trcka8net.bestlens.jp | trck.a8.net |
+| trcka8net.contact2han.com | trck.a8.net |
 | trcka8net.glens.jp | trck.a8.net |
 | trcka8net.irobot-jp.com | trck.a8.net |
 | trcka8net.lenszero.com | trck.a8.net |

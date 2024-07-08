@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -104,7 +104,6 @@ refer.tassimodirect.com CNAME .
 refer.tennessean.com CNAME .
 refer.theleafchronicle.com CNAME .
 refer.timberland.com CNAME .
-refer.transfast.com CNAME .
 refer.turbotax.intuit.com CNAME .
 refer.ukforex.co.uk CNAME .
 refer.ulta.com CNAME .
@@ -140,7 +139,6 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em3904.skillshare.com CNAME .
 em8561.go2bank.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -436,6 +434,7 @@ referafriend.comcast.com CNAME .
 referafriend.discover.com CNAME .
 referafriend.xfinity.com CNAME .
 referavet.petco.com CNAME .
+referral.bluehost.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.drunkelephant.com CNAME .
 referral.servicechannel.com CNAME .
@@ -609,6 +608,7 @@ share.partsvu.com CNAME .
 share.patriotledger.com CNAME .
 share.paulmitchell.com CNAME .
 share.penfolds.com CNAME .
+share.perfectgift.com CNAME .
 share.petsbest.com CNAME .
 share.pilotcoffeeroasters.com CNAME .
 share.pnj.com CNAME .
@@ -721,6 +721,7 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
+em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .

@@ -11,6 +11,7 @@ go.solidworks.com
 l.20minutes.fr
 l.actu.fr
 l.africabusinessplus.com
+l.alternatives-economiques.fr
 l.aufeminin.com
 l.beauxarts.com
 l.bfmtv.com

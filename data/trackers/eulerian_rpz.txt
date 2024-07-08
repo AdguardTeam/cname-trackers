@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -58,6 +58,7 @@ aod4.societegenerale.fr CNAME .
 ar.allrun.fr CNAME .
 ar.i-run.fr CNAME .
 azg1.emalu-store.com CNAME .
+b1n.carabins.umontreal.ca CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
 bft5.destinia.fr CNAME .
@@ -205,6 +206,7 @@ eulerian.belambra.fr CNAME .
 eulerian.canal-plus.com CNAME .
 eulerian.eidershop.com CNAME .
 eulerian.eveiletjeux.com CNAME .
+eulerian.homebox-suisse.ch CNAME .
 eulerian.look-voyages.fr CNAME .
 eulerian.maison-facile.com CNAME .
 eulerian.malakoffmederic.com CNAME .
@@ -416,6 +418,7 @@ srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
 su1.les-suites.ca CNAME .
+sykc.madeindesign.ch CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
 t.locasun.de CNAME .
@@ -487,6 +490,7 @@ yh6u.dealeusedevoyages.com CNAME .
 yoc.younited-credit.com CNAME .
 ysl3.destinia.ec CNAME .
 yst4.muchoviaje.com CNAME .
+yst4.torviajes.com CNAME .
 yyi7.consobaby.de CNAME .
 zdx5.destinia.pe CNAME .
 zkc5.fleurancenature.fr CNAME .
@@ -498,7 +502,6 @@ zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 5fm.985fm.ca CNAME .
-b1n.carabins.umontreal.ca CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 d2u.dauphinquebec.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -90,6 +90,7 @@ affil.xgdpr.cz CNAME .
 affil.zaslat.cz CNAME .
 affil.zdravetricko.cz CNAME .
 affil.zenskecykly.cz CNAME .
+affilate.securepro.cz CNAME .
 affilate.sklep38.cz CNAME .
 affilbox.25hodin.cz CNAME .
 affilbox.andreashop.sk CNAME .
@@ -277,6 +278,7 @@ affiliate.velebny.cz CNAME .
 affiliate.vianio.com CNAME .
 affiliate.vox.cz CNAME .
 affiliate.warriorfactory.cz CNAME .
+affiliate.webium.cz CNAME .
 affiliate.wugi.cz CNAME .
 affiliate.xbx.cz CNAME .
 affiliate.zdraviafitness.cz CNAME .
@@ -295,7 +297,6 @@ ambasador.rustspolecne.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassador.notsofunnyany.com CNAME .
 ambassadors.childhoodpotential.com CNAME .
-ambassadors.montessoriparenting.org CNAME .
 box.cryptokingdom.tech CNAME .
 box.kryptotrejder.sk CNAME .
 brana.ritualyomlazeni.cz CNAME .
@@ -303,6 +304,7 @@ collab.zdravetricko.cz CNAME .
 dekovacka.hezkres.cz CNAME .
 doporuc.hopsej.cz CNAME .
 doporuc.konferenceryba.cz CNAME .
+doporuc.mechaneo.cz CNAME .
 doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
 hcaffil.mironet.cz CNAME .
@@ -543,6 +545,7 @@ partner.expresmenu.sk CNAME .
 partner.fabulo.sk CNAME .
 partner.finstyle.cz CNAME .
 partner.firmin.cz CNAME .
+partner.fitnessrevolucia.sk CNAME .
 partner.forcell.cz CNAME .
 partner.forexrebel.net CNAME .
 partner.freshlabels.cz CNAME .
@@ -696,6 +699,7 @@ partner.svetcukraru.cz CNAME .
 partner.svetruzi.cz CNAME .
 partner.swaglift.com CNAME .
 partner.sypanycaj.eu CNAME .
+partner.tahnabranu.cz CNAME .
 partner.tajemstvi-uspechu.cz CNAME .
 partner.thechillidoctor.cz CNAME .
 partner.top-obaly.cz CNAME .

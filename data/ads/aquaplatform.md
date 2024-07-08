@@ -9,6 +9,7 @@
     * ahk-delivery.aquaplatform.com
     * ammoland-delivery.aquaplatform.com
     * artionet-delivery.aquaplatform.com
+    * artionet-static.aquaplatform.com
     * atg-delivery.aquaplatform.com
     * bioverlag-delivery.aquaplatform.com
     * bioverlag-static.aquaplatform.com
@@ -42,6 +43,7 @@
     * mannix-delivery.aquaplatform.com
     * mannix-static.aquaplatform.com
     * mequoda-delivery.aquaplatform.com
+    * midtc1-delivery.aquaplatform.com
     * midtc2-delivery.aquaplatform.com
     * midtc4-delivery.aquaplatform.com
     * midtc5-delivery.aquaplatform.com
@@ -54,6 +56,7 @@
     * personare-static.aquaplatform.com
     * platformiq-cdn.aquaplatform.com
     * platformiq-del.aquaplatform.com
+    * portwest-delivery.aquaplatform.com
     * proxibid-delivery.aquaplatform.com
     * proxibid-static.aquaplatform.com
     * ptp-delivery.aquaplatform.com
@@ -87,9 +90,11 @@
 | console.adbility-media.com | adbility-console.aquaplatform.com |
 | servedby.adbility-media.com | adbility-delivery.aquaplatform.com |
 | revive.ahk.de | ahk-delivery.aquaplatform.com |
+| www.revive.ahk.de | ahk-delivery.aquaplatform.com |
 | servedby.ammoland.com | ammoland-delivery.aquaplatform.com |
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
 | ads.worldofshowjumping.com | artionet-delivery.aquaplatform.com |
+| images.worldofshowjumping.com | artionet-static.aquaplatform.com |
 | ads.lot-tissimo.com | atg-delivery.aquaplatform.com |
 | servedby.biohandel.de | bioverlag-delivery.aquaplatform.com |
 | servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |
@@ -118,6 +123,7 @@
 | servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
 | servedby.cincinnatimagazine.com | hourmedia-delivery.aquaplatform.com |
 | servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
+| servedby.palmbeachmedia.com | hourmedia-delivery.aquaplatform.com |
 | banners.orangecoast.com | hourmedia-static.aquaplatform.com |
 | servedby.insideradverts.com | im-delivery.aquaplatform.com |
 | display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
@@ -130,6 +136,7 @@
 | servedby.mannixmarketing.com | mannix-delivery.aquaplatform.com |
 | static.mannixmarketing.com | mannix-static.aquaplatform.com |
 | ox.mequoda.com | mequoda-delivery.aquaplatform.com |
+| tlads.midtc.com | midtc1-delivery.aquaplatform.com |
 | championads.midtc.com | midtc2-delivery.aquaplatform.com |
 | adamsads.midtc.com | midtc4-delivery.aquaplatform.com |
 | media360ads.midtc.com | midtc5-delivery.aquaplatform.com |
@@ -155,7 +162,9 @@
 | servedby.lintigroup.se | platformiq-del.aquaplatform.com |
 | servedby.proxena-adserver.com | platformiq-del.aquaplatform.com |
 | servedby.reviveservers.com | platformiq-del.aquaplatform.com |
+| www.proforums.com | platformiq-del.aquaplatform.com |
 | xtraa-secure.reviveservers.com | platformiq-del.aquaplatform.com |
+| servedby.portwest.com | portwest-delivery.aquaplatform.com |
 | ads.bidspotter.co.uk | proxibid-delivery.aquaplatform.com |
 | ads.i-bidder.com | proxibid-delivery.aquaplatform.com |
 | ads.proxibid.com | proxibid-delivery.aquaplatform.com |

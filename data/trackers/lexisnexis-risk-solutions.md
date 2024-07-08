@@ -34,6 +34,7 @@
     * h-2ememain.online-metrix.net
     * h-2fiylyk1.online-metrix.net
     * h-2gssvh01.online-metrix.net
+    * h-2ic7z584.online-metrix.net
     * h-2lrwrk15.online-metrix.net
     * h-2n067wr9.online-metrix.net
     * h-2odx9gtz.online-metrix.net
@@ -128,6 +129,7 @@
     * h-8ydtcbsf.online-metrix.net
     * h-8z6ccesi.online-metrix.net
     * h-92z7am36.online-metrix.net
+    * h-94b5bk32.online-metrix.net
     * h-96ch0zc2.online-metrix.net
     * h-96clh8g7.online-metrix.net
     * h-98oju8tz.online-metrix.net
@@ -352,7 +354,6 @@
     * h-directly.online-metrix.net
     * h-discover.online-metrix.net
     * h-disney.online-metrix.net
-    * h-dlp-unionbank.online-metrix.net
     * h-dnp-cdms.online-metrix.net
     * h-doregtzf.online-metrix.net
     * h-draftkings.online-metrix.net
@@ -822,6 +823,7 @@
 | faas.2ememain.be | h-2ememain.online-metrix.net |
 | metrics.myfrs.com | h-2fiylyk1.online-metrix.net |
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
+| tm.sunbit.com | h-2ic7z584.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
 | fp.ambrosewilson.com | h-2n067wr9.online-metrix.net |
 | fp.crazyclearance.co.uk | h-2n067wr9.online-metrix.net |
@@ -954,6 +956,12 @@
 | content.myfamliplus.state.co.us | h-8ydtcbsf.online-metrix.net |
 | content.paysend.com | h-8z6ccesi.online-metrix.net |
 | ln.cash.app | h-92z7am36.online-metrix.net |
+| regstat.skybet.com | h-94b5bk32.online-metrix.net |
+| regstat.skybetservices.com | h-94b5bk32.online-metrix.net |
+| regstat.skybingo.com | h-94b5bk32.online-metrix.net |
+| regstat.skycasino.com | h-94b5bk32.online-metrix.net |
+| regstat.skypoker.com | h-94b5bk32.online-metrix.net |
+| regstat.skyvegas.com | h-94b5bk32.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
 | tmcdn.spincasino.ca | h-98oju8tz.online-metrix.net |
@@ -1161,6 +1169,7 @@
 | content.citbankapp.cit.com | h-citbank.online-metrix.net |
 | contentfd.directcapital.com | h-citcommercial.online-metrix.net |
 | img4.portaluat.citidirect.com | h-citi.vanity.online-metrix.net |
+| uatidentity4.citidirect.com | h-citi.vanity.online-metrix.net |
 | content22.citibank.ae | h-citibank-ae.online-metrix.net |
 | content22.citibank.com.au | h-citibank-au.online-metrix.net |
 | content22.citibank.com.cn | h-citibank-cn.online-metrix.net |
@@ -1251,7 +1260,6 @@
 | content.discover.com | h-discover.online-metrix.net |
 | content.discovercard.com | h-discover.online-metrix.net |
 | fp.disney.go.com | h-disney.online-metrix.net |
-| lpo.unionbank.com | h-dlp-unionbank.online-metrix.net |
 | acsweb-3dr1.dnp-cdms.jp | h-dnp-cdms.online-metrix.net |
 | asanalytics.booking.com | h-doregtzf.online-metrix.net |
 | tmximg.draftkings.com | h-draftkings.online-metrix.net |

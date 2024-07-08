@@ -2,9 +2,12 @@
 # Company name: GoatCounter
 anal.sataniskwijt.be
 analytics.code.dccouncil.gov
+analytics.code.dccouncil.us
+analytics.law.cityofsanmateo.org
 contacapre.bortox.it
 count.vidsrc.pro
 goat.hepicgamerz.com
+goat.skeetstats.xyz
 goat.tailspace.net
 goat1.nhimmeo.cf
 goatcounter.gamecraft.it
@@ -13,5 +16,7 @@ stats.boredkevin.com
 stats.boringproxy.io
 stats.how.wtf
 stats.jakebailey.dev
+stats.johanneswienke.de
 stats.ksr.onl
 stats.lspeed.org
+stats.msol.io

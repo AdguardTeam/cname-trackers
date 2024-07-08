@@ -397,6 +397,7 @@
 3428069.notifysrv.com
 3429075.notify6.com
 3432573.notify6.com
+3434551.notify6.com
 3436909.notify6.com
 3437433.notifysrv.com
 3440153.notify6.com
@@ -731,6 +732,7 @@
 3839009.notifysrv.com
 3843075.notify6.com
 3843075.notifysrv.com
+3845271.notify6.com
 3845405.notify6.com
 3849719.notify6.com
 3853331.notify6.com
@@ -878,6 +880,7 @@
 4151384.notify6.com
 4152268.notify6.com
 4152316.notify6.com
+4152318.notify6.com
 4152324.notify6.com
 4152328.notify6.com
 4153216.notify6.com
@@ -1058,9 +1061,10 @@ a.addisplaynetwork.com
 a.adsession.com
 a.advantageclicks.net
 a.advertrek.com
+a.asvsm.com
 a.b7q9v8z.com
+a.bizonads-ssp.com
 a.cant3am.com
-a.etology.com
 a.eunow4u.com
 a.ma3ion.com
 a.n4m5x60.com
@@ -1070,6 +1074,7 @@ a.q88z1s3.com
 a.r8lnet.com
 a.redpathmedia.com
 a.rocoads.net
+a.santabrowser.com
 a.slice.exchange
 a.stuffserve.com
 a.tf4srv.com
@@ -1081,6 +1086,7 @@ admin.exoclick.com
 admin.gettopple.com
 admin.redpathmedia.com
 admin.shafttraffic.com
+admin.trafficbaron.com
 admin.trafficfactory.com
 adrepository.opoxv.com
 api.adnation.com
@@ -1118,6 +1124,7 @@ s.adsession.com
 s.advantageclicks.net
 s.advertrek.com
 s.asvsm.com
+s.b7q9v8z.com
 s.bizonads-ssp.com
 s.cant3am.com
 s.datingclix.com
@@ -1128,6 +1135,7 @@ s.elink3x.com
 s.elna1v.com
 s.elna1w.com
 s.elna1x.com
+s.elnb20.com
 s.elnb21.com
 s.elnb22.com
 s.elnc34.com
@@ -1245,6 +1253,7 @@ www.3466863.notify6.com
 www.3475335.notify6.com
 www.3684237.notify6.com
 www.3815579.notify6.com
+www.3856281.notify6.com
 www.3881818.notify6.com
 www.3972246.notify6.com
 www.4065194.notify6.com
@@ -1256,7 +1265,5 @@ www.8.notify.bizonads-ssp.com
 www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
-a.asvsm.com
-a.bizonads-ssp.com
-a.santabrowser.com
+a.etology.com
 ads.optimizesrv.com

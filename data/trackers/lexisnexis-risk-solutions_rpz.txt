@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -576,7 +576,6 @@ log.open.investorsbank.com CNAME .
 login.eki-net.com CNAME .
 loyaltyprogram.latam.com CNAME .
 loyaltyprogram.latamairlines.com CNAME .
-lpo.unionbank.com CNAME .
 ls-dp.nj.thelotter.us CNAME .
 lsdp.lotto.com CNAME .
 lspr.luckycasino.ca CNAME .
@@ -742,6 +741,12 @@ rbawis.pocketcard.co.jp CNAME .
 rebatecontent.finance.delaware.gov CNAME .
 regstat.betfair.com CNAME .
 regstat.paddypower.com CNAME .
+regstat.skybet.com CNAME .
+regstat.skybetservices.com CNAME .
+regstat.skybingo.com CNAME .
+regstat.skycasino.com CNAME .
+regstat.skypoker.com CNAME .
+regstat.skyvegas.com CNAME .
 req.secured-content.com CNAME .
 res.pay.ionos.com CNAME .
 rfp.intuit.com CNAME .
@@ -947,6 +952,7 @@ tm.stats.home24.nl CNAME .
 tm.stoiximan.com.cy CNAME .
 tm.stoiximan.gr CNAME .
 tm.summit-services.ca CNAME .
+tm.sunbit.com CNAME .
 tm.tbcbank.uz CNAME .
 tm.telecharge.com CNAME .
 tm.uship.com CNAME .
@@ -1001,6 +1007,7 @@ txn.allianzlife.com CNAME .
 uafms.ocbc.com CNAME .
 ualaki-analytics.vacations.united.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
+uatidentity4.citidirect.com CNAME .
 ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .

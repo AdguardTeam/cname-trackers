@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,9 +13,12 @@ $TTL 300
 
 anal.sataniskwijt.be CNAME .
 analytics.code.dccouncil.gov CNAME .
+analytics.code.dccouncil.us CNAME .
+analytics.law.cityofsanmateo.org CNAME .
 contacapre.bortox.it CNAME .
 count.vidsrc.pro CNAME .
 goat.hepicgamerz.com CNAME .
+goat.skeetstats.xyz CNAME .
 goat.tailspace.net CNAME .
 goat1.nhimmeo.cf CNAME .
 goatcounter.gamecraft.it CNAME .
@@ -24,5 +27,7 @@ stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .
 stats.how.wtf CNAME .
 stats.jakebailey.dev CNAME .
+stats.johanneswienke.de CNAME .
 stats.ksr.onl CNAME .
 stats.lspeed.org CNAME .
+stats.msol.io CNAME .

@@ -31,6 +31,7 @@
 | l.20minutes.fr | tls.non.li |
 | l.actu.fr | tls.non.li |
 | l.africabusinessplus.com | tls.non.li |
+| l.alternatives-economiques.fr | tls.non.li |
 | l.beauxarts.com | tls.non.li |
 | l.bfmtv.com | tls.non.li |
 | l.caminteresse.fr | tls.non.li |

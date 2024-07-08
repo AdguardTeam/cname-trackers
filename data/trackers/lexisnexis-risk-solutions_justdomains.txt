@@ -565,7 +565,6 @@ log.open.investorsbank.com
 login.eki-net.com
 loyaltyprogram.latam.com
 loyaltyprogram.latamairlines.com
-lpo.unionbank.com
 ls-dp.nj.thelotter.us
 lsdp.lotto.com
 lspr.luckycasino.ca
@@ -731,6 +730,12 @@ rbawis.pocketcard.co.jp
 rebatecontent.finance.delaware.gov
 regstat.betfair.com
 regstat.paddypower.com
+regstat.skybet.com
+regstat.skybetservices.com
+regstat.skybingo.com
+regstat.skycasino.com
+regstat.skypoker.com
+regstat.skyvegas.com
 req.secured-content.com
 res.pay.ionos.com
 rfp.intuit.com
@@ -936,6 +941,7 @@ tm.stats.home24.nl
 tm.stoiximan.com.cy
 tm.stoiximan.gr
 tm.summit-services.ca
+tm.sunbit.com
 tm.tbcbank.uz
 tm.telecharge.com
 tm.uship.com
@@ -990,6 +996,7 @@ txn.allianzlife.com
 uafms.ocbc.com
 ualaki-analytics.vacations.united.com
 uat.cmprofile.cards.citidirect.com
+uatidentity4.citidirect.com
 ufp.intuit.com
 uldfp.srilankan.com
 umst.mobile.de

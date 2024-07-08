@@ -93,7 +93,6 @@ refer.tassimodirect.com
 refer.tennessean.com
 refer.theleafchronicle.com
 refer.timberland.com
-refer.transfast.com
 refer.turbotax.intuit.com
 refer.ukforex.co.uk
 refer.ulta.com
@@ -129,7 +128,6 @@ acq.discover.com
 businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
-em3904.skillshare.com
 em8561.go2bank.com
 externalreferral.freshworks.com
 friend.discover.com
@@ -425,6 +423,7 @@ referafriend.comcast.com
 referafriend.discover.com
 referafriend.xfinity.com
 referavet.petco.com
+referral.bluehost.com
 referral.cledepeaubeaute.com
 referral.drunkelephant.com
 referral.servicechannel.com
@@ -598,6 +597,7 @@ share.partsvu.com
 share.patriotledger.com
 share.paulmitchell.com
 share.penfolds.com
+share.perfectgift.com
 share.petsbest.com
 share.pilotcoffeeroasters.com
 share.pnj.com
@@ -710,6 +710,7 @@ www.referessentials.com
 www.referquickbooks.com
 em1476.princesscruises.com
 em225.codecademy.com
+em3904.skillshare.com
 em4367.raf-studentloans.discover.com
 em8928.em.petco.com
 em924.refer.starbucks.com

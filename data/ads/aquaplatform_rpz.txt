@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,6 +59,7 @@ display.lawbulletin.com CNAME .
 images.addurance.com CNAME .
 images.cricketworld.com CNAME .
 images.informatm.com CNAME .
+images.worldofshowjumping.com CNAME .
 lalala.geenstijl.nl CNAME .
 media360ads.midtc.com CNAME .
 openx.mondiale.co.uk CNAME .
@@ -90,9 +91,11 @@ servedby.medlabmag.com CNAME .
 servedby.miningweekly.com CNAME .
 servedby.mondiale.co.uk CNAME .
 servedby.myadsmyanmar.com CNAME .
+servedby.palmbeachmedia.com CNAME .
 servedby.personare.com.br CNAME .
 servedby.pinktriangle.ca CNAME .
 servedby.polity.org.za CNAME .
+servedby.portwest.com CNAME .
 servedby.pppmag.com CNAME .
 servedby.proxena-adserver.com CNAME .
 servedby.quirks.com CNAME .
@@ -116,5 +119,8 @@ static.proxibid.com CNAME .
 static.schrotundkorn.de CNAME .
 static.sonicplug.com CNAME .
 static.trackandfieldnews.com CNAME .
+tlads.midtc.com CNAME .
 treehouse.wwoz.org CNAME .
+www.proforums.com CNAME .
+www.revive.ahk.de CNAME .
 xtraa-secure.reviveservers.com CNAME .

@@ -101,7 +101,6 @@
     * theleafchronicle.extole.com
     * timberland.extole.com
     * toughmudder.extole.com
-    * transfast.extole.com
     * turbotax-ssl.extole.com
     * ulta.extole.com
     * unionprivilege-ssl.extole.com
@@ -178,6 +177,7 @@
     * becu.extole.io
     * biblejourney.extole.io
     * bjs.extole.io
+    * bluehost.extole.io
     * boden-au.extole.io
     * boden-de.extole.io
     * boden-fr.extole.io
@@ -421,6 +421,7 @@
     * partsvu.extole.io
     * paulmitchell.extole.io
     * paylocity.extole.io
+    * perfectgift.extole.io
     * perriconemd.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
@@ -486,7 +487,6 @@
     * shyft.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
-    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -672,6 +672,7 @@
 | refer.betterbraces.com | betterbraces.extole.com |
 | share.biblejourney.com | biblejourney.extole.io |
 | share.bjs.com | bjs.extole.io |
+| referral.bluehost.com | bluehost.extole.io |
 | indique.bemmaisseguro.com | bms-br.extole.com |
 | share.bodenclothing.com.au | boden-au.extole.io |
 | share.bodendirect.de | boden-de.extole.io |
@@ -1065,6 +1066,7 @@
 | share.partsvu.com | partsvu.extole.io |
 | share.paulmitchell.com | paulmitchell.extole.io |
 | refer.paylocity.com | paylocity.extole.io |
+| share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
 | groomrefer.petco.com | petco-grooming.extole.io |
@@ -1159,7 +1161,6 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
-| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1229,7 +1230,6 @@
 | invite.toughmudder.com | toughmudder.extole.com |
 | refer.tous.com | tous-jewelry.extole.io |
 | share.trafalgar.com | trafalgar.extole.io |
-| refer.transfast.com | transfast.extole.com |
 | share.travelzoo.com | travelzoo.extole.io |
 | share.truckstop.com | truckstop.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |

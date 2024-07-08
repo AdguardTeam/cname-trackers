@@ -1,7 +1,6 @@
 #
 # Company name: Plausible Analytics
 a-api.skz.dev
-a.aawp.de
 a.iiro.dev
 a.linkz.ai
 also.greatsecuritydebate.net
@@ -270,9 +269,9 @@ prism.drivingkyoto.com
 prism.feurer-network.ch
 prism.netherlandlines.com
 prism.pablonouvelle.com
-prism.raumgleiter.com
 prism.singapouring.com
 prism.tramclockmunich.com
+prism.villageneva.com
 pstat.akathists.com
 pstat.goodremotejobs.com
 pstats.cloudpal.app
@@ -326,6 +325,7 @@ stat.umsu.de
 static.osalta.eu
 statistic.jac-systeme.de
 statistics.heatbeat.de
+statistics.leohoesl.com
 statistik.apartments-tirolerhaus.at
 statman.sesong.info
 stats.69grad.de
@@ -361,6 +361,7 @@ stats.benui.ca
 stats.bernardobordadagua.com
 stats.bertwagner.com
 stats.bestservers.co
+stats.beyond-grace.co.uk
 stats.bholmes.dev
 stats.bikeschool.co.za
 stats.bimbase.nl
@@ -842,6 +843,7 @@ stats.vican.me
 stats.visions.ch
 stats.voltimum.com
 stats.wachstum.at
+stats.wafflemeido.art
 stats.walkiees.co.uk
 stats.websnap.app
 stats.wecodeni.com

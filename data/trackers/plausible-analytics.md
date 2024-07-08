@@ -14,7 +14,6 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | a-api.skz.dev | custom.plausible.io |
-| a.aawp.de | custom.plausible.io |
 | a.iiro.dev | custom.plausible.io |
 | a.linkz.ai | custom.plausible.io |
 | also.greatsecuritydebate.net | custom.plausible.io |
@@ -283,9 +282,9 @@
 | prism.feurer-network.ch | custom.plausible.io |
 | prism.netherlandlines.com | custom.plausible.io |
 | prism.pablonouvelle.com | custom.plausible.io |
-| prism.raumgleiter.com | custom.plausible.io |
 | prism.singapouring.com | custom.plausible.io |
 | prism.tramclockmunich.com | custom.plausible.io |
+| prism.villageneva.com | custom.plausible.io |
 | pstat.akathists.com | custom.plausible.io |
 | pstat.goodremotejobs.com | custom.plausible.io |
 | pstats.cloudpal.app | custom.plausible.io |
@@ -339,6 +338,7 @@
 | static.osalta.eu | custom.plausible.io |
 | statistic.jac-systeme.de | custom.plausible.io |
 | statistics.heatbeat.de | custom.plausible.io |
+| statistics.leohoesl.com | custom.plausible.io |
 | statistik.apartments-tirolerhaus.at | custom.plausible.io |
 | statman.sesong.info | custom.plausible.io |
 | stats.69grad.de | custom.plausible.io |
@@ -374,6 +374,7 @@
 | stats.bernardobordadagua.com | custom.plausible.io |
 | stats.bertwagner.com | custom.plausible.io |
 | stats.bestservers.co | custom.plausible.io |
+| stats.beyond-grace.co.uk | custom.plausible.io |
 | stats.bholmes.dev | custom.plausible.io |
 | stats.bikeschool.co.za | custom.plausible.io |
 | stats.bimbase.nl | custom.plausible.io |
@@ -855,6 +856,7 @@
 | stats.visions.ch | custom.plausible.io |
 | stats.voltimum.com | custom.plausible.io |
 | stats.wachstum.at | custom.plausible.io |
+| stats.wafflemeido.art | custom.plausible.io |
 | stats.walkiees.co.uk | custom.plausible.io |
 | stats.websnap.app | custom.plausible.io |
 | stats.wecodeni.com | custom.plausible.io |

@@ -104,6 +104,7 @@
     * steinbackhaus-viessmann-com-cddc.at-o.net
     * steinernehaus-viessmann-at-cddc.at-o.net
     * steinsala-viessmann-lu-cddc.at-o.net
+    * stiwa-test-de-cddc.at-o.net
     * strawberry-basf-com-cddc.at-o.net
     * tm-urssaf-fr-cddc.at-o.net
     * torropinto-viessmann-es-cddc.at-o.net
@@ -231,6 +232,7 @@
 | steinbackhaus.viessmann.com | steinbackhaus-viessmann-com-cddc.at-o.net |
 | steinernehaus.viessmann.at | steinernehaus-viessmann-at-cddc.at-o.net |
 | steinsala.viessmann.lu | steinsala-viessmann-lu-cddc.at-o.net |
+| stiwa.test.de | stiwa-test-de-cddc.at-o.net |
 | strawberry.basf.com | strawberry-basf-com-cddc.at-o.net |
 | www.strawberry.basf.com | strawberry-basf-com-cddc.at-o.net |
 | tm.urssaf.fr | tm-urssaf-fr-cddc.at-o.net |

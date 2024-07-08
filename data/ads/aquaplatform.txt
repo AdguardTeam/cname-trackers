@@ -48,6 +48,7 @@
 ||images.addurance.com^
 ||images.cricketworld.com^
 ||images.informatm.com^
+||images.worldofshowjumping.com^
 ||lalala.geenstijl.nl^
 ||media360ads.midtc.com^
 ||openx.mondiale.co.uk^
@@ -79,9 +80,11 @@
 ||servedby.miningweekly.com^
 ||servedby.mondiale.co.uk^
 ||servedby.myadsmyanmar.com^
+||servedby.palmbeachmedia.com^
 ||servedby.personare.com.br^
 ||servedby.pinktriangle.ca^
 ||servedby.polity.org.za^
+||servedby.portwest.com^
 ||servedby.pppmag.com^
 ||servedby.proxena-adserver.com^
 ||servedby.quirks.com^
@@ -105,5 +108,8 @@
 ||static.schrotundkorn.de^
 ||static.sonicplug.com^
 ||static.trackandfieldnews.com^
+||tlads.midtc.com^
 ||treehouse.wwoz.org^
+||www.proforums.com^
+||www.revive.ahk.de^
 ||xtraa-secure.reviveservers.com^

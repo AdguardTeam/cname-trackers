@@ -1047,6 +1047,7 @@
 | tr.strategie.gouv.fr | tracking.bp01.net |
 | tr.suivi-client-edf.com | tracking.bp01.net |
 | tr.surveys.np6.com | tracking.bp01.net |
+| tr.talentconnect.lvmh.com | tracking.bp01.net |
 | tr.tdgx.espmp-cufr.net | tracking.bp01.net |
 | tr.think.lvmh.fr | tracking.bp01.net |
 | tr.thisiseurope.moethennessy.com | tracking.bp01.net |

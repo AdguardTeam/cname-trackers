@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -75,11 +75,13 @@ et.isodontupspurt.com CNAME .
 eu.balletsbeep.com CNAME .
 eu.bassoonavatara.com CNAME .
 ew.pomaceunbloom.com CNAME .
+fc.bustleravail.com CNAME .
 fc.ferriesendless.com CNAME .
 ff.guimpefesses.com CNAME .
 fi.questormyxo.com CNAME .
 fk.janetsh.com CNAME .
 fl.dumpiesgoschen.com CNAME .
+fl.gannetsmechant.com CNAME .
 fo.sackerskips.com CNAME .
 fs.velellabudded.com CNAME .
 fu.dinaricarrear.com CNAME .
@@ -135,6 +137,7 @@ ld.wraithydecides.com CNAME .
 lf.hagweedtoytown.com CNAME .
 lf.taxwaxgrego.com CNAME .
 lg.feoffortapetis.com CNAME .
+lr.freyaacronal.com CNAME .
 ls.hongaries.com CNAME .
 lw.cupriteshride.com CNAME .
 me.salinaswesting.com CNAME .
@@ -165,6 +168,7 @@ og.elemeuric.com CNAME .
 ol.dundeesmemo.com CNAME .
 or.alpieutieboy.com CNAME .
 ot.myotomyarkab.com CNAME .
+ox.widenerasbolan.com CNAME .
 oz.bjornesaviour.com CNAME .
 pi.beaufintorque.com CNAME .
 pj.uptraceforlore.com CNAME .
@@ -189,6 +193,7 @@ qr.heezyvedaism.com CNAME .
 qs.planxtyroaring.com CNAME .
 qz.almudestilths.com CNAME .
 rf.hwancangue.com CNAME .
+rf.surfeitdrabble.com CNAME .
 rj.roubouhaliptae.com CNAME .
 rl.fracturmeropia.com CNAME .
 rm.bauderylysines.com CNAME .
@@ -222,6 +227,7 @@ td.anasphragma.com CNAME .
 te.stionicfives.com CNAME .
 th.micheryfrugal.com CNAME .
 ti.alcorpanocha.com CNAME .
+ti.dicesstipo.com CNAME .
 ti.solipedsnarls.com CNAME .
 tj.orlandowaggons.com CNAME .
 tk.fittyegality.com CNAME .

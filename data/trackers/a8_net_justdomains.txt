@@ -8,6 +8,7 @@ a8-hoiku.mama-9jin.com
 a8-itp.qoo10.jp
 a8-kouten.kouten.work
 a8-mamacareer.mama-9jin.com
+a8-printing.ink-revolution.com
 a8-wpxblog.secure.wpx.ne.jp
 a8-wpxshin.secure.wpx.ne.jp
 a8-xshop.secure.xserver.ne.jp
@@ -271,6 +272,7 @@ a8.shitsukekun.com
 a8.shizq.store
 a8.shokubun.net
 a8.shop.basefood.co.jp
+a8.shop.dreammug.co.jp
 a8.shop.km-link.jp
 a8.shop.nicosuma.com
 a8.shop.tsukijiwadatsumi.com
@@ -306,6 +308,7 @@ a8.tech-base.net
 a8.techis.jp
 a8.tecpartners.jp
 a8.teddyworks.co.jp
+a8.tential.jp
 a8.the-session.jp
 a8.themoonmilk.jp
 a8.thermostand.jp
@@ -313,6 +316,7 @@ a8.thg.co.jp
 a8.tideisturning.com
 a8.tokihana.net
 a8.tokyo-hills-clinic.com
+a8.tomo.life
 a8.tone.ne.jp
 a8.toraiz.jp
 a8.tour-sys.com
@@ -324,6 +328,7 @@ a8.uchi-iwai.net
 a8.uchideno-kozuchi.com
 a8.uluwatutiger.com
 a8.unicoffee.tech
+a8.uokura-hakata.com
 a8.uridoki.net
 a8.uzuz-college.jp
 a8.vector-park.jp
@@ -572,6 +577,7 @@ a8clk.mynavi-creator.jp
 a8clk.mynavi-job20s.jp
 a8clk.mypage.awesome-wash.com
 a8clk.nandemo-kimono.com
+a8clk.naturesway.jp
 a8clk.nenga-kazoku.com
 a8clk.nenga.fumiiro.jp
 a8clk.netowl.jp
@@ -597,6 +603,7 @@ a8clk.pages.supporterz.jp
 a8clk.patpat.com
 a8clk.petelect.jp
 a8clk.petitjob.jp
+a8clk.photo-gift.me
 a8clk.photorevo.info
 a8clk.plusone.space
 a8clk.point-island.com
@@ -800,6 +807,7 @@ a8cv.career.medpeer.jp
 a8cv.careerpark-agent.jp
 a8cv.carryonmall.com
 a8cv.cart.bi-su.jp
+a8cv.cart.minorie-shop.com
 a8cv.cart3.toku-talk.com
 a8cv.cast-er.com
 a8cv.celav.net
@@ -928,6 +936,7 @@ a8cv.happy-bears.com
 a8cv.harasawa.co.jp
 a8cv.hardwarewallet-japan.com
 a8cv.hariocorp.co.jp
+a8cv.hariti.shop
 a8cv.hello-people.jp
 a8cv.heybit.io
 a8cv.hi-tailor.jp
@@ -986,6 +995,7 @@ a8cv.kaitorisatei.info
 a8cv.kajier.jp
 a8cv.kamurogi.net
 a8cv.karitoke.jp
+a8cv.karrimor.jp
 a8cv.kidsmoneyschool.net
 a8cv.kikubari-bento.com
 a8cv.king-makura.com
@@ -994,6 +1004,7 @@ a8cv.kkmatsusho.jp
 a8cv.kn-waterserver.com
 a8cv.kobe38.com
 a8cv.kosodatemoney.com
+a8cv.kstarselect.com
 a8cv.kuih.jp
 a8cv.kurashi-bears.com
 a8cv.kusmitea.jp
@@ -1014,6 +1025,7 @@ a8cv.lianest.co.jp
 a8cv.lp.nalevi.mynavi.jp
 a8cv.lp.x-house.co.jp
 a8cv.lyprinol.jp
+a8cv.ma-cp.com
 a8cv.machi-ene.jp
 a8cv.machicon.jp
 a8cv.macloud.jp
@@ -1138,6 +1150,7 @@ a8cv.seikatsu-kojo.jp
 a8cv.select-type.com
 a8cv.selkalabo.com
 a8cv.sell.miraias.co.jp
+a8cv.seminar.tapp-co.jp
 a8cv.setagayarecords.co
 a8cv.shadoten.com
 a8cv.sharing-tech.co.jp
@@ -1234,6 +1247,7 @@ a8cv.womanmoney.net
 a8cv.wordman.jp
 a8cv.worker.sukimaworks.app
 a8cv.workman.jp
+a8cv.world-goods.online
 a8cv.worx.jp
 a8cv.www.bedstyle.jp
 a8cv.www.bigability.co.jp
@@ -1301,8 +1315,10 @@ a8sup.chapup.jp
 a8tag.emprorm.com
 a8tag.suplinx.com
 a8tatoo.ike-sunshine.co.jp
+a8tra.altana-design.com
 a8track.aidmybank.com
 a8track.bizdigi.jp
+a8track.boost-station.jp
 a8track.speakbuddy-personalcoaching.com
 a8track.www.pontely.com
 a8trck.aisatsujo.com
@@ -1387,6 +1403,7 @@ asp.taishokunext.com
 aspa8.ozmall.co.jp
 car-a8.tabirai.net
 cart.matsuzaka-steak.com
+check.looser.jp
 click.techtree.jp
 clk.entry.surala.jp
 clk.glam-print.com
@@ -1404,6 +1421,7 @@ cv.a-cial.com
 cv.a-hikkoshi.com
 cv.ag.cybersecurity-jp.com
 cv.agent-sana.com
+cv.aqua-style.jp
 cv.atelier-shark.com
 cv.b2b.subscription-store.com
 cv.bc-force.com
@@ -1454,8 +1472,10 @@ cv.sumaho-hoken.jp
 cv.taskar.online
 cv.tenjin.cc
 cv.theatreacademy.info
+cv.ticketpay.jp
 cv.tokyowork.jp
 cv.ui-chiho.clinic
+cv.viday.jp
 cv.virtualoffice-resonance.jp
 cv.web-sana.com
 cv.willbefit.jp
@@ -1513,12 +1533,14 @@ thanks.olivesitter.com
 thanks.tsubaki-musicschool.com
 track-v4.ipadpresence.com
 track.craudia.com
+track.entry.dokoyorimo.com
+track.ipadpresence.com
 track.kiafudousan.com
 track.xmarketech.com
 tracking.196189.com
 tracking.lead-plus.jp
 traka8.crypto-mall.org
-trck-a8.j-depo.com
+trc.hajime-asset.com
 trck.aeon.co.jp
 trck.atnenga.com
 trck.flexnet.co.jp
@@ -1533,6 +1555,7 @@ trck.stefany.co.jp
 trck02.magaseek.com
 trcka8.orobianco-jp.com
 trcka8net.bestlens.jp
+trcka8net.contact2han.com
 trcka8net.glens.jp
 trcka8net.irobot-jp.com
 trcka8net.lenszero.com

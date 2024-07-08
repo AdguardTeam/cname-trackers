@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1037,6 +1037,7 @@ tr.sportswear.np6.com CNAME .
 tr.strategie.gouv.fr CNAME .
 tr.suivi-client-edf.com CNAME .
 tr.surveys.np6.com CNAME .
+tr.talentconnect.lvmh.com CNAME .
 tr.tdgx.espmp-cufr.net CNAME .
 tr.think.lvmh.fr CNAME .
 tr.thisiseurope.moethennessy.com CNAME .

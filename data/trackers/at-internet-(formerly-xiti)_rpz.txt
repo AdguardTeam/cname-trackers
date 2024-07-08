@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -113,6 +113,7 @@ st1.lg.avendrealouer.fr CNAME .
 steinbackhaus.viessmann.com CNAME .
 steinernehaus.viessmann.at CNAME .
 steinsala.viessmann.lu CNAME .
+stiwa.test.de CNAME .
 strawberry.basf.com CNAME .
 tm.urssaf.fr CNAME .
 torropinto.viessmann.es CNAME .

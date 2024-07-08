@@ -188,6 +188,7 @@
 ||aphid.enjoleur.com^
 ||aphid.nihilnegativum.com^
 ||aphid.polarcop.com^
+||aphid.smartjournal.no^
 ||aphid.thyself.me^
 ||armadillo.axeneo7.qc.ca^
 ||armadillo.caj.ms^
@@ -195,6 +196,7 @@
 ||armadillo.stacking.club^
 ||armadillo.superpeak.dk^
 ||asp.ashesashes.org^
+||asp.brightmachine.uk^
 ||asp.dimileeh.com^
 ||asp.podlist.de^
 ||asp.sepiasoft.eu^
@@ -226,6 +228,7 @@
 ||bear.jake.nyc^
 ||bear.modulr.design^
 ||beaver.bluebunnypaper.com^
+||beaver.ecosecretariat.org^
 ||beaver.livechatlabs.com^
 ||bee.andreawhitmer.com^
 ||bee.jbkmobiledj.com^
@@ -296,8 +299,10 @@
 ||cat.weddingsabroad.com^
 ||caterpilla.ibon.live^
 ||catfish.lucalabs.com^
+||catfish.phuclh.com^
 ||catfish.sofatido.ch^
 ||catshark.janetalexandersson.com^
+||catshark.jimmyaldape.dev^
 ||catshark.spur.design^
 ||cattle.apisyouwonthate.com^
 ||cattle.driftbot.io^
@@ -318,6 +323,7 @@
 ||cephalopod.nucleus.us^
 ||cephalopod.revelio.io^
 ||cephalopod.staff.design^
+||chameleon.ryanmettler.com^
 ||cheetah.gaptry.com^
 ||cheetah.songrender.com^
 ||cheetah.stolenboats.info^
@@ -333,6 +339,7 @@
 ||chicken.zwei.haus^
 ||chimpanzee.designerdailyreport.com^
 ||chimpanzee.ines-papert.com^
+||chimpanzee.thestoryengine.co.uk^
 ||chinchilla.68keys.io^
 ||chipmunk.sqltoapi.com^
 ||cicada.escapethecorporatecult.com^
@@ -344,6 +351,7 @@
 ||clownfish.wrestlingiq.com^
 ||cobra.michaelkoper.com^
 ||cockroach.head4work.com.au^
+||cockroach.no.mortgage^
 ||cod.onemanandhisblog.com^
 ||cod.serverlesslaravelcourse.com^
 ||cod.tandartspraktijkjagtkade.nl^
@@ -401,6 +409,7 @@
 ||donkey.hackoregon.org^
 ||donkey.the3rd.place^
 ||dormouse.consentkit.com^
+||dormouse.nektarium.de^
 ||dove.hoku.nz^
 ||dragon.codemakes.art^
 ||dragon.codequeen.io^
@@ -409,6 +418,7 @@
 ||dragonfly.jala-one.com^
 ||eagle.roarfilm.com.au^
 ||earthworm.creatifmediagroup.com^
+||earthworm.elenabirkenwald.com^
 ||earthworm.lidi.today^
 ||earthworm.makethemdebate.com^
 ||earthworm.mxdvl.com^
@@ -421,6 +431,9 @@
 ||eel.cuabuilders.com^
 ||eel.ieo.do^
 ||egret.brothers.studio^
+||egret.chankaryik.com^
+||egret.hairproject.ch^
+||egret.legislative.tech^
 ||elephant.superdense.com^
 ||elk.andrewfomera.com^
 ||elk.itiden.se^
@@ -460,8 +473,8 @@
 ||flamingo.stacking-club.com^
 ||flea.artisan.school^
 ||flea.elbertsnaturalfoods.com^
+||flea.welikeoliver.com^
 ||fly.foggybottomfarm.org^
-||flyingfish.agilehedges.com^
 ||flyingfish.editorslab.de^
 ||flyingfish.whoisrepresented.org^
 ||fowl.saulhardman.com^
@@ -482,6 +495,8 @@
 ||gerbil.buf.build^
 ||gerbil.clapsaddleart.com^
 ||gerbil.downtown-mafia.com^
+||gerbil.lespetitsbots.com^
+||gerbil.meenit.com^
 ||gerbil.recipe-ipsum.com^
 ||giraffe.talktalent.com^
 ||giraffe.viatorci.com^
@@ -516,9 +531,11 @@
 ||gull.mayansmithgobat.com^
 ||guppy.ausowned.com.au^
 ||guppy.ironmic.fm^
+||guppy.omana.me^
 ||haddock.affilimate.com^
 ||haddock.jeffreyknox.dev^
 ||haddock.simgenie.app^
+||haddock.slack.rocks^
 ||halibut.codehooks.io^
 ||halibut.phytype.com^
 ||hamster.consentkit.io^
@@ -527,6 +544,7 @@
 ||hare.startupbootcamp.com.au^
 ||harrier.jasonsantamaria.com^
 ||harrier.progress.fyi^
+||harrier.scdamerica.com.au^
 ||hawk.affio.co.uk^
 ||hawk.makroskop.eu^
 ||hawk.mjsarfatti.com^
@@ -555,6 +573,7 @@
 ||horse.zwei-bags.com^
 ||hoverfly.1pageimpact.com.au^
 ||hoverfly.cdengine.co.uk^
+||hoverfly.cyberbytesinc.com^
 ||hoverfly.dailyblocks.tv^
 ||hoverfly.papercrowns.com^
 ||hoverfly.winchdesign.cn^
@@ -573,6 +592,7 @@
 ||jackal.jakerunzer.com^
 ||jackal.thetie.io^
 ||jay.brauerei-egg.at^
+||jay.howivscode.com^
 ||jay.plantainguy.com^
 ||jcpjfyikk.dogbonemarket.com^
 ||jellyfish.teresaharlow.com^
@@ -598,6 +618,7 @@
 ||koala.readyfive.io^
 ||koi.artsvp.co^
 ||koi.fftf.cat^
+||koi.fullyexplained.co.uk^
 ||koi.henrydennis.dev^
 ||koi.lkae.dev^
 ||koi.madebykind.com^
@@ -637,6 +658,7 @@
 ||lion.lastfrontiermagazine.com^
 ||lizard.juststeveking.uk^
 ||lizard.priorart.dev^
+||lizard.utropia.es^
 ||llama.eniston.io^
 ||llama.growthinkers.nl^
 ||llama.lobbly.com^
@@ -670,7 +692,9 @@
 ||mandrill.yellowfruit.co^
 ||mantaray.bullshitgoggles.com^
 ||marlin.firstline.org^
+||marmoset.acboforegon.org^
 ||marmoset.easycolour.app^
+||marmoset.rocketlog.app^
 ||marmot.hippiemodernism.com^
 ||marmot.jfontana.fr^
 ||marmot.theshootingcentre.com^
@@ -724,6 +748,7 @@
 ||narwhal.bounty.studio^
 ||newt.javier.dev^
 ||newt.jordin.eu^
+||newt.masonwear.co^
 ||nf1nknlw.mateforevents.com^
 ||nkydma.newbuild.studio^
 ||ocelot.anthroquiches.fr^
@@ -749,6 +774,7 @@
 ||otter.preferredequineonline.com^
 ||owl.gregwolanski.com^
 ||owl.heidipay.com^
+||owl.indigenoushiphopawards.com^
 ||owl.sentrydiscord.dev^
 ||ox.first-law.com^
 ||ox.ines-papert.de^
@@ -777,6 +803,7 @@
 ||perch.matiasvad.com^
 ||perch.searchwp.com^
 ||perch.stefangasser.com^
+||pheasant.ampapageorgiou.gr^
 ||pheasant.sonistaging.com^
 ||pig.civicplatform.org^
 ||pig.curtisherbert.com^
@@ -808,6 +835,7 @@
 ||prairiedog.hashnode.com^
 ||prawn.lionsmouth.digital^
 ||prawn.samgarson.com^
+||primate.logology.co^
 ||primate.oleggera.com^
 ||primate.productcolors.com^
 ||ptarmigan.bridal-hair-and-accessories-now.com^
@@ -816,6 +844,7 @@
 ||ptarmigan.natalieba.net^
 ||ptarmigan.q-free.com^
 ||puffin.geocode.earth^
+||puffin.leemoody.co.uk^
 ||puffin.nex4.net^
 ||puma.islingtonmecc.org.uk^
 ||python.casuallyprivate.com^
@@ -841,6 +870,7 @@
 ||reptile.wyattblogs.com^
 ||rhinoceros.codeagain.com^
 ||rhinoceros.krieger.io^
+||rhinoceros.valeriaborgese.it^
 ||rhinoceros.wus.life^
 ||roadrunner.ausmv.com.au^
 ||rodent.kevindendievel.com^
@@ -849,6 +879,7 @@
 ||rook.clarify.io^
 ||rook.flowlens.com^
 ||rook.grithix.com^
+||rook.sameerhazari.com^
 ||rooster.cashforcolumbushouses.com^
 ||rooster.ohqcloud.com^
 ||sailfish.hoap.com^
@@ -872,10 +903,12 @@
 ||sdegwynml.bmaci.me^
 ||seahorse.brightwayhealth.org^
 ||seahorse.dexterityvisuals.com^
+||seahorse.habitstack.com^
 ||shark.codeswitch.be^
 ||shark.getplayback.com^
 ||shark.rockyourlife.de^
 ||sheep.littleboat.digital^
+||sheep.peterfowler.com^
 ||sheep.pixair-survey.com^
 ||sheep.vaxstandby.com^
 ||silkworm.bobsmechanicalrepairs.co.uk^
@@ -889,6 +922,7 @@
 ||silverfish.djordjevanjek.com^
 ||skink.asorman.io^
 ||skink.thoumi.ch^
+||skunk.dwa.li^
 ||skunk.gameworkersolidarity.com^
 ||sloth.vaalinstudio.com^
 ||smelt.allenpike.com^
@@ -906,6 +940,7 @@
 ||spermwhale.rowansimpson.com^
 ||spermwhale.thankbox.co^
 ||spider.capricciocolumbus.org^
+||spider.hoomie.online^
 ||spider.kearneyjaycees.com^
 ||spider.scottw.com^
 ||spider.storiesofchang.com^
@@ -959,6 +994,7 @@
 ||tarantula.searchbox.tech^
 ||tarantula.tuxedo.media^
 ||tarsier.kriterie.se^
+||tarsier.webcrafters.co^
 ||termite.queerburners.org^
 ||tern.daffy.org^
 ||tern.xebel.co^
@@ -978,6 +1014,7 @@
 ||treefrog.buyinsulin.com^
 ||treefrog.kaffeknappen.no^
 ||treefrog.tschmeisser.com^
+||treefrog.walkingwithdaddy.com^
 ||trout.batzo.net^
 ||trout.openfpl.com^
 ||trout.travelmassive.com^
@@ -1004,6 +1041,7 @@
 ||vicuna.joblicant.de^
 ||viper.kyrelldixon.com^
 ||viper.sitesauce.app^
+||vmszxzvk.mysecondchancechurch.com^
 ||vole.contemporaryartlibrary.org^
 ||vole.nettskaperne.no^
 ||vole.noteapps.info^
@@ -1014,6 +1052,7 @@
 ||wallaby.cron.help^
 ||wallaby.legendkeeper.com^
 ||wallaby.short1.link^
+||walrus.5secondstoimpress.com^
 ||walrus.blindemployment.solutions^
 ||walrus.fetzcolor.at^
 ||walrus.oscaroarevalo.com^
@@ -1078,6 +1117,7 @@
 ||sponsors.asisonline.org^
 ||sponsors.bicmagazine.com^
 ||sponsors.floorforce.com^
+||sponsors.inklink.news^
 ||sponsors.macaronikid.com^
 ||sponsors.njmonthly.com^
 ||sponsors.oaklandcountymoms.com^
@@ -1111,6 +1151,10 @@
 ||sp.freshlooklens.pk^
 ||sp.lenspk.com^
 ||sp.theladyshop.pk^
+||ss.mndsrv.com^
+||ss.mrmnd.com^
+||ss.nwemnd.com^
+||ss.nwmnd.com^
 ||static.netfly.fun^
 ||thirty-good.lugg.com^
 ||video.adsninja.ca^

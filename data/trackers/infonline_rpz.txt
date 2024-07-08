@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1719820807659        ; Serial
+           1720425608259        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -81,6 +81,7 @@ data-05bc1a27ba.apps.iocnt.de CNAME .
 data-05c346d0b0.gea.de CNAME .
 data-05f15c0145.runnersworld.de CNAME .
 data-06562408eb.apps.iocnt.de CNAME .
+data-06d20d5dfa.addradio.de CNAME .
 data-06d20d5dfa.radiobielefeld.de CNAME .
 data-06d9d19ba0.filmdienst.de CNAME .
 data-06e3bb70c5.th-ab.de CNAME .
@@ -139,6 +140,7 @@ data-10e222a818.ligaportal.at CNAME .
 data-1105c42328.apps.iocnt.de CNAME .
 data-11c63b1cbc.abschied-nehmen.de CNAME .
 data-11c63b1cbc.fcmlive.de CNAME .
+data-11c63b1cbc.fupa.net CNAME .
 data-11c63b1cbc.magdeburg-fussball.de CNAME .
 data-11c63b1cbc.mz-jobs.de CNAME .
 data-11c63b1cbc.mz.de CNAME .
@@ -646,6 +648,7 @@ data-47ee1b0882.neuesrex.de CNAME .
 data-47ee1b0882.neuesrottmann.de CNAME .
 data-47ee1b0882.nickel-odeon.de CNAME .
 data-47ee1b0882.openairkino-langen.de CNAME .
+data-47ee1b0882.osnabrueck.hall-of-fame.online CNAME .
 data-47ee1b0882.ostseekino-kuehlungsborn.de CNAME .
 data-47ee1b0882.roxy-kino.de CNAME .
 data-47ee1b0882.saarfilm.net CNAME .
@@ -1216,6 +1219,7 @@ data-8b77a703e0.dasoertliche.de CNAME .
 data-8b77a703e0.golocal.de CNAME .
 data-8ba5310956.spielaffe.de CNAME .
 data-8c0b0197a5.weser-kurier.de CNAME .
+data-8c735401a9.wissen.de CNAME .
 data-8ca02b3a5d.versicherungsjournal.de CNAME .
 data-8cbd29cf98.kabeleins.at CNAME .
 data-8cc19d99e5.deutsche-handwerks-zeitung.de CNAME .
@@ -1482,6 +1486,7 @@ data-a9b566d4a7.k.at CNAME .
 data-a9dcbfdd12.dk-online.de CNAME .
 data-a9dcbfdd12.noz.de CNAME .
 data-aa4a1f6eab.apps.iocnt.de CNAME .
+data-aa5df368fb.landundforst.de CNAME .
 data-aa67ab16ab.form-werkzeug.de CNAME .
 data-aa70fe4f08.jam.fm CNAME .
 data-aa77362b45.autoflotte-online.de CNAME .
@@ -1509,6 +1514,7 @@ data-ac3d45df06.sueddeutsche.de CNAME .
 data-ac53158cce.apps.iocnt.de CNAME .
 data-ac54d3e2fa.boersenblatt.net CNAME .
 data-ace3993871.winario.de CNAME .
+data-ace571875f.das-onlinespiel.de CNAME .
 data-ace571875f.petra.de CNAME .
 data-ad103030ce.apps.iocnt.de CNAME .
 data-ad2a62779c.prosiebenmaxx.at CNAME .
@@ -1545,6 +1551,7 @@ data-af9f3dfb33.weltkunst.de CNAME .
 data-af9f3dfb33.zeit.de CNAME .
 data-afa8dd5312.kleinezeitung.at CNAME .
 data-b0980db7ec.wiwo.de CNAME .
+data-b0fd716f10.auto-medienportal.net CNAME .
 data-b182afd830.it-times.de CNAME .
 data-b19475ee82.focus.de CNAME .
 data-b19475ee82.weather.com CNAME .
@@ -1575,6 +1582,7 @@ data-b59e228e1d.apps.iocnt.de CNAME .
 data-b622eb90d0.apps.iocnt.de CNAME .
 data-b629679828.apps.iocnt.de CNAME .
 data-b640a0ce46.connect.de CNAME .
+data-b640a0ce46.wmp-dev.de CNAME .
 data-b71e59c9ac.servus.com CNAME .
 data-b7311f797c.fnweb.de CNAME .
 data-b784e2dbb0.echo24.de CNAME .
@@ -1600,6 +1608,7 @@ data-b80f3dd5d8.rnz.info CNAME .
 data-b84b30d10f.meinjob.at CNAME .
 data-b851447daf.praxisvita.de CNAME .
 data-b8520d61eb.apps.iocnt.de CNAME .
+data-b8587f1b76.familien-glueck.de CNAME .
 data-b8587f1b76.stimme.de CNAME .
 data-b8587f1b76.trauerundgedenken.de CNAME .
 data-b8587f1b76.verliebt-in-bw.de CNAME .
@@ -1846,6 +1855,7 @@ data-d61ee02db0.pirsch.de CNAME .
 data-d6485d3579.playboy.de CNAME .
 data-d67a03d16c.meintophotel.de CNAME .
 data-d687fc47c0.11freunde.de CNAME .
+data-d69d9a5415.aachen.de CNAME .
 data-d6a989bf01.kl-magazin.de CNAME .
 data-d6e13c60e8.orf.at CNAME .
 data-d708c3c3bc.freizeit.at CNAME .
@@ -1868,6 +1878,7 @@ data-d9c82db6b2.motor.at CNAME .
 data-da1d9cc48a.osthessen-news.de CNAME .
 data-da8b646558.dieniederoesterreicherin.at CNAME .
 data-daaad80bda.babelli.de CNAME .
+data-daab9294a5.eatclub.de CNAME .
 data-daab9294a5.eatclub.tv CNAME .
 data-dae559c4b7.ejz.de CNAME .
 data-db0ecef264.trafikantenzeitung.at CNAME .
@@ -1898,6 +1909,7 @@ data-deb04a4388.ezeitung3.info CNAME .
 data-deb04a4388.owl-am-sonntag.de CNAME .
 data-deb04a4388.wb-immo.de CNAME .
 data-deb04a4388.wb-immo.net CNAME .
+data-deb04a4388.wb-jobs.de CNAME .
 data-deb04a4388.wb-trauer.de CNAME .
 data-deb04a4388.westfalen-blatt.de CNAME .
 data-deb04a4388.westfalen-blatt2.de CNAME .
@@ -2186,6 +2198,7 @@ data-f59db3288b.ludwigshafen24.de CNAME .
 data-f59db3288b.mangfall24.de CNAME .
 data-f59db3288b.mannheim24.de CNAME .
 data-f59db3288b.meine-anzeigenzeitung.de CNAME .
+data-f59db3288b.merkur-online.de CNAME .
 data-f59db3288b.merkur.de CNAME .
 data-f59db3288b.news.bayern CNAME .
 data-f59db3288b.nextg.tv CNAME .

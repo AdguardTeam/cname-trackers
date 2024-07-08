@@ -35,6 +35,7 @@
     * 16df7011-m9x5lvqe.cname.ebis.ne.jp
     * 174d53fc-qrjtuhuw.cname.ebis.ne.jp
     * 17a0a051-yhrqdvjf.cname.ebis.ne.jp
+    * 17db93a8-scxitlgt.cname.ebis.ne.jp
     * 1846722d-4z4kfqrd.cname.ebis.ne.jp
     * 18aeb18f-orvgub9g.cname.ebis.ne.jp
     * 19740a52-z3l0wqwm.cname.ebis.ne.jp
@@ -338,6 +339,7 @@
 | adebis.kodomohamigaki.com | 16df7011-m9x5lvqe.cname.ebis.ne.jp |
 | adebis.furisode-ichikura.jp | 174d53fc-qrjtuhuw.cname.ebis.ne.jp |
 | ebis.nomu-silica.jp | 17a0a051-yhrqdvjf.cname.ebis.ne.jp |
+| cs0010sbeda.theory-diet.com | 17db93a8-scxitlgt.cname.ebis.ne.jp |
 | mcad.mods-clinic.info | 1846722d-4z4kfqrd.cname.ebis.ne.jp |
 | ebis.rozetta.jp | 18aeb18f-orvgub9g.cname.ebis.ne.jp |
 | adebis.jp.iface.com | 19740a52-z3l0wqwm.cname.ebis.ne.jp |

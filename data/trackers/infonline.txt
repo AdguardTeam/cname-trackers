@@ -70,6 +70,7 @@
 ||data-05c346d0b0.gea.de^
 ||data-05f15c0145.runnersworld.de^
 ||data-06562408eb.apps.iocnt.de^
+||data-06d20d5dfa.addradio.de^
 ||data-06d20d5dfa.radiobielefeld.de^
 ||data-06d9d19ba0.filmdienst.de^
 ||data-06e3bb70c5.th-ab.de^
@@ -128,6 +129,7 @@
 ||data-1105c42328.apps.iocnt.de^
 ||data-11c63b1cbc.abschied-nehmen.de^
 ||data-11c63b1cbc.fcmlive.de^
+||data-11c63b1cbc.fupa.net^
 ||data-11c63b1cbc.magdeburg-fussball.de^
 ||data-11c63b1cbc.mz-jobs.de^
 ||data-11c63b1cbc.mz.de^
@@ -635,6 +637,7 @@
 ||data-47ee1b0882.neuesrottmann.de^
 ||data-47ee1b0882.nickel-odeon.de^
 ||data-47ee1b0882.openairkino-langen.de^
+||data-47ee1b0882.osnabrueck.hall-of-fame.online^
 ||data-47ee1b0882.ostseekino-kuehlungsborn.de^
 ||data-47ee1b0882.roxy-kino.de^
 ||data-47ee1b0882.saarfilm.net^
@@ -1205,6 +1208,7 @@
 ||data-8b77a703e0.golocal.de^
 ||data-8ba5310956.spielaffe.de^
 ||data-8c0b0197a5.weser-kurier.de^
+||data-8c735401a9.wissen.de^
 ||data-8ca02b3a5d.versicherungsjournal.de^
 ||data-8cbd29cf98.kabeleins.at^
 ||data-8cc19d99e5.deutsche-handwerks-zeitung.de^
@@ -1471,6 +1475,7 @@
 ||data-a9dcbfdd12.dk-online.de^
 ||data-a9dcbfdd12.noz.de^
 ||data-aa4a1f6eab.apps.iocnt.de^
+||data-aa5df368fb.landundforst.de^
 ||data-aa67ab16ab.form-werkzeug.de^
 ||data-aa70fe4f08.jam.fm^
 ||data-aa77362b45.autoflotte-online.de^
@@ -1498,6 +1503,7 @@
 ||data-ac53158cce.apps.iocnt.de^
 ||data-ac54d3e2fa.boersenblatt.net^
 ||data-ace3993871.winario.de^
+||data-ace571875f.das-onlinespiel.de^
 ||data-ace571875f.petra.de^
 ||data-ad103030ce.apps.iocnt.de^
 ||data-ad2a62779c.prosiebenmaxx.at^
@@ -1534,6 +1540,7 @@
 ||data-af9f3dfb33.zeit.de^
 ||data-afa8dd5312.kleinezeitung.at^
 ||data-b0980db7ec.wiwo.de^
+||data-b0fd716f10.auto-medienportal.net^
 ||data-b182afd830.it-times.de^
 ||data-b19475ee82.focus.de^
 ||data-b19475ee82.weather.com^
@@ -1564,6 +1571,7 @@
 ||data-b622eb90d0.apps.iocnt.de^
 ||data-b629679828.apps.iocnt.de^
 ||data-b640a0ce46.connect.de^
+||data-b640a0ce46.wmp-dev.de^
 ||data-b71e59c9ac.servus.com^
 ||data-b7311f797c.fnweb.de^
 ||data-b784e2dbb0.echo24.de^
@@ -1589,6 +1597,7 @@
 ||data-b84b30d10f.meinjob.at^
 ||data-b851447daf.praxisvita.de^
 ||data-b8520d61eb.apps.iocnt.de^
+||data-b8587f1b76.familien-glueck.de^
 ||data-b8587f1b76.stimme.de^
 ||data-b8587f1b76.trauerundgedenken.de^
 ||data-b8587f1b76.verliebt-in-bw.de^
@@ -1835,6 +1844,7 @@
 ||data-d6485d3579.playboy.de^
 ||data-d67a03d16c.meintophotel.de^
 ||data-d687fc47c0.11freunde.de^
+||data-d69d9a5415.aachen.de^
 ||data-d6a989bf01.kl-magazin.de^
 ||data-d6e13c60e8.orf.at^
 ||data-d708c3c3bc.freizeit.at^
@@ -1857,6 +1867,7 @@
 ||data-da1d9cc48a.osthessen-news.de^
 ||data-da8b646558.dieniederoesterreicherin.at^
 ||data-daaad80bda.babelli.de^
+||data-daab9294a5.eatclub.de^
 ||data-daab9294a5.eatclub.tv^
 ||data-dae559c4b7.ejz.de^
 ||data-db0ecef264.trafikantenzeitung.at^
@@ -1887,6 +1898,7 @@
 ||data-deb04a4388.owl-am-sonntag.de^
 ||data-deb04a4388.wb-immo.de^
 ||data-deb04a4388.wb-immo.net^
+||data-deb04a4388.wb-jobs.de^
 ||data-deb04a4388.wb-trauer.de^
 ||data-deb04a4388.westfalen-blatt.de^
 ||data-deb04a4388.westfalen-blatt2.de^
@@ -2175,6 +2187,7 @@
 ||data-f59db3288b.mangfall24.de^
 ||data-f59db3288b.mannheim24.de^
 ||data-f59db3288b.meine-anzeigenzeitung.de^
+||data-f59db3288b.merkur-online.de^
 ||data-f59db3288b.merkur.de^
 ||data-f59db3288b.news.bayern^
 ||data-f59db3288b.nextg.tv^
