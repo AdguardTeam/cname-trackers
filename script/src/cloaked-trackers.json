@@ -339,6 +339,13 @@
         ]
     },
     {
+        "company_name": "Salesforce Mail Marketing",
+        "type": "mail_tracker",
+        "domains": [
+            "exacttarget.com"
+        ]
+    },
+    {
         "company_name": "TraceDock",
         "type": "microsite",
         "domains": [
