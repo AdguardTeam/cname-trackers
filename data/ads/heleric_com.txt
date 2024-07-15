@@ -2,6 +2,7 @@
 ! Company name: heleric.com
 ||ah.cabbingdandled.com^
 ||aj.stomalhobble.com^
+||ap.ansilumbar.com^
 ||ap.bouncelargo.com^
 ||ap.saluteeyeseed.com^
 ||ar.pagodaskeeker.com^
@@ -48,7 +49,6 @@
 ||dw.jiglikeshilla.com^
 ||dw.organaamnions.com^
 ||dy.araucangozell.com^
-||dy.dautedergot.com^
 ||dz.banyaitlingit.com^
 ||ec.didnsunns.com^
 ||ed.druggertruckle.com^
@@ -76,12 +76,14 @@
 ||fu.dinaricarrear.com^
 ||ga.asseizeenl.com^
 ||gd.waxbushengore.com^
+||ge.chassnincom.com^
 ||gf.goreplacers.com^
 ||gg.warmanmamelon.com^
 ||gh.outswumvinose.com^
 ||gn.afootwitword.com^
 ||gq.webbymendole.com^
 ||gr.faencepuggy.com^
+||gr.kitharapalanka.com^
 ||hb.tewitfeoffee.com^
 ||hf.frisklelooms.com^
 ||hg.barwaltanha.com^
@@ -111,6 +113,7 @@
 ||jx.yonnersekere.com^
 ||jy.astylararsines.com^
 ||kc.droyltenuate.com^
+||kk.dintshectar.com^
 ||kl.embarupbuoy.com^
 ||kq.myrtolbanzai.com^
 ||kr.cafenehkikki.com^
@@ -119,6 +122,7 @@
 ||ku.allnesskepped.com^
 ||kv.patenssabzi.com^
 ||kw.phaseranarch.com^
+||kx.gyppingargulus.com^
 ||lb.snakilyglebae.com^
 ||lc.nodoseamylic.com^
 ||ld.stengskelped.com^
@@ -129,6 +133,7 @@
 ||lr.freyaacronal.com^
 ||ls.hongaries.com^
 ||lw.cupriteshride.com^
+||md.tethsrump.com^
 ||me.salinaswesting.com^
 ||mf.collopantony.com^
 ||mf.egridstaidly.com^
@@ -136,6 +141,7 @@
 ||mh.wedgedgeoduck.com^
 ||mi.gaywayperkish.com^
 ||ml.estellaeyelet.com^
+||ml.sunspotbaffies.com^
 ||mn.prespurmaness.com^
 ||mr.pudgilygrazes.com^
 ||mu.laplingskevish.com^
@@ -202,6 +208,7 @@
 ||sk.tuskersecklein.com^
 ||sl.babistmucuses.com^
 ||sl.elinvarpayola.com^
+||sp.companychouan.com^
 ||sp.voleryclat.com^
 ||sq.knobblecleach.com^
 ||sq.volvellurol.com^
@@ -209,6 +216,7 @@
 ||ss.phallicbedsore.com^
 ||st.perteranorak.com^
 ||sw.pluckysups.com^
+||sx.followexciton.com^
 ||sy.sartishmoop.com^
 ||sz.createsgummous.com^
 ||sz.famanils.com^
@@ -234,9 +242,11 @@
 ||uc.corditespicous.com^
 ||uf.disbendcrumby.com^
 ||uh.dettepondok.com^
+||ui.marchesbragged.com^
 ||ul.spatingaegina.com^
 ||un.ginnleunshift.com^
 ||un.ingentdurn.com^
+||un.sleevetaa.com^
 ||uo.tubaronunheler.com^
 ||uq.skewlyshoggle.com^
 ||uz.gamyboxbush.com^

@@ -376,6 +376,7 @@
 | 3362426.notifysrv.com | tk6if76q.ab1n.net |
 | 3363688.notify6.com | tk6if76q.ab1n.net |
 | 3365442.notifysrv.com | tk6if76q.ab1n.net |
+| 3373381.notify6.com | tk6if76q.ab1n.net |
 | 3376753.notifysrv.com | tk6if76q.ab1n.net |
 | 3382743.notify6.com | tk6if76q.ab1n.net |
 | 3382743.notifysrv.com | tk6if76q.ab1n.net |
@@ -1179,7 +1180,6 @@
 | s.optnx.com | tk6if76q.ab1n.net |
 | s.optzsrv.com | tk6if76q.ab1n.net |
 | s.orbsrv.com | tk6if76q.ab1n.net |
-| s.paradoxgroup.uk | tk6if76q.ab1n.net |
 | s.pemsrv.com | tk6if76q.ab1n.net |
 | s.q88z1s3.com | tk6if76q.ab1n.net |
 | s.redpathmedia.com | tk6if76q.ab1n.net |
@@ -1263,10 +1263,7 @@
 | s.exv6.com | tk6if76r.ab1n.net |
 | admin.adnation.com | v3j9t5q9.ab1n.net |
 | admin.datingclix.com | v3j9t5q9.ab1n.net |
-| admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
-| admin.redpathmedia.com | v3j9t5q9.ab1n.net |
-| admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | admin.trafficbaron.com | v3j9t5q9.ab1n.net |
 | admin.trafficfactory.com | v3j9t5q9.ab1n.net |
 | a.344eva.com | w2u4v9e1.ab1n.net |
@@ -1278,11 +1275,11 @@
 | a.b7q9v8z.com | w2u4v9e1.ab1n.net |
 | a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
 | a.cant3am.com | w2u4v9e1.ab1n.net |
+| a.etology.com | w2u4v9e1.ab1n.net |
 | a.eunow4u.com | w2u4v9e1.ab1n.net |
 | a.ma3ion.com | w2u4v9e1.ab1n.net |
 | a.n4m5x60.com | w2u4v9e1.ab1n.net |
 | a.optimizesrv.com | w2u4v9e1.ab1n.net |
-| a.paradoxgroup.uk | w2u4v9e1.ab1n.net |
 | a.q88z1s3.com | w2u4v9e1.ab1n.net |
 | a.r8lnet.com | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |
@@ -1297,13 +1294,12 @@
 | admin.adnation.com | x0xmrxm4.ab1n.net |
 | admin.datingclix.com | x0xmrxm4.ab1n.net |
 | admin.etology.com | x0xmrxm4.ab1n.net |
-| admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.exoclick.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.redpathmedia.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
-| admin.shafttraffic.com | x0xmrxm4.ab1n.net |
+| admin.trafficbaron.com | x0xmrxm4.ab1n.net |
 | admin.trafficbaron.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |

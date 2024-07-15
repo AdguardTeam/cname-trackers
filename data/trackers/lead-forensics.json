@@ -424,8 +424,6 @@
   "secure.yeld9auto.com": "v3-eu-appgwv2.uksouth.cloudapp.azure.com",
   "secure.yirr5frog.com": "v3-eu-appgwv2.uksouth.cloudapp.azure.com",
   "segment-api.inrix.com": "segment-api.inrix.com.trafficmanager.net",
-  "telemetry-eastus.trafficmanager.inmobi.com": "telemetry.sdk.eastus-ssp.appgw.inmobi.com",
-  "telemetry.sdk.inmobi.com": "telemetry.sdk.eastus-ssp.appgw.inmobi.com",
   "utm.semilab.hu": "utm.semilab.trafficmanager.net",
   "utm.shireburn.com": "utm.trafficmanager.net",
   "watson.microsoft.com": "onedsblobprdcus07.centralus.cloudapp.azure.com",

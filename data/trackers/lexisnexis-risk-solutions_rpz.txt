@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -287,6 +287,7 @@ content.orixbank.co.jp CNAME .
 content.partycity.ca CNAME .
 content.paycardsolutions.com CNAME .
 content.paysend.com CNAME .
+content.pefcu.com CNAME .
 content.personifyfinancial.com CNAME .
 content.pledg.co CNAME .
 content.pnbank.com.au CNAME .
@@ -558,6 +559,7 @@ jpubs.zodia.io CNAME .
 jytrnq.cm-cic.com CNAME .
 kyc.usend.com CNAME .
 lab4.lloydsbank.com CNAME .
+ln.acornfun.com CNAME .
 ln.cash.app CNAME .
 ln.meudigio.com.br CNAME .
 lnc.mo.gov CNAME .
@@ -957,8 +959,15 @@ tm.tbcbank.uz CNAME .
 tm.telecharge.com CNAME .
 tm.uship.com CNAME .
 tm.verify.illion.com.au CNAME .
+tmcdn.gamingclub.com CNAME .
 tmcdn.homeaway.com CNAME .
+tmcdn.jackpotcity.ca CNAME .
+tmcdn.jackpotcitycasino.com CNAME .
+tmcdn.rubyfortune.com CNAME .
 tmcdn.spincasino.ca CNAME .
+tmcdn.spincasino.com CNAME .
+tmcdn.spincasino.mx CNAME .
+tmcdn.spinpalace.com CNAME .
 tmck.milestonegoldcard.com CNAME .
 tmcontent.imvu.com CNAME .
 tmcontent.meridiancu.ca CNAME .
@@ -972,6 +981,7 @@ tmt.houzz.com CNAME .
 tmuat.kotak.com CNAME .
 tmx-fpt.credit-agricole.pl CNAME .
 tmx.additionfi.com CNAME .
+tmx.banquemanuvie.com CNAME .
 tmx.bestbuy.com CNAME .
 tmx.beyondbank.com.au CNAME .
 tmx.carhistory.com.au CNAME .

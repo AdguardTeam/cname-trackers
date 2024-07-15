@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -305,6 +305,7 @@ dekovacka.hezkres.cz CNAME .
 doporuc.hopsej.cz CNAME .
 doporuc.konferenceryba.cz CNAME .
 doporuc.mechaneo.cz CNAME .
+doporuc.necojakocola.cz CNAME .
 doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
 hcaffil.mironet.cz CNAME .
@@ -433,7 +434,6 @@ my.weplayvolleyball.ro CNAME .
 my.weplayvolleyball.si CNAME .
 my.weplayvolleyball.sk CNAME .
 online.pdfknihovna.cz CNAME .
-owayfamily.ecoorganicbeauty.cz CNAME .
 partak.surfey.cz CNAME .
 partener.aeriumshop.ro CNAME .
 partner-affilbox.telly.cz CNAME .
@@ -461,6 +461,7 @@ partner.bed4dogs.com CNAME .
 partner.bio-nechty.sk CNAME .
 partner.bio-nehty.cz CNAME .
 partner.bioaromakosmetika.cz CNAME .
+partner.biomag.cz CNAME .
 partner.bitcoinzmenaren.sk CNAME .
 partner.bohemiaclean.eu CNAME .
 partner.bohempia.com CNAME .
@@ -565,6 +566,7 @@ partner.hoska-tour.cz CNAME .
 partner.hothousecucumber.com CNAME .
 partner.hubnu.online CNAME .
 partner.hubnutimarija.cz CNAME .
+partner.idoklad.cz CNAME .
 partner.investinslovakia.eu CNAME .
 partner.iodesign.cz CNAME .
 partner.ioznameni.cz CNAME .
@@ -686,6 +688,7 @@ partner.slimpasta.cz CNAME .
 partner.slimpasta.sk CNAME .
 partner.smoothiekniha.sk CNAME .
 partner.spokojenypes.cz CNAME .
+partner.spopo.cz CNAME .
 partner.sporthangar.cz CNAME .
 partner.starnails.cz CNAME .
 partner.stavario.com CNAME .
@@ -909,7 +912,7 @@ splatky.aquatrend.sk CNAME .
 splatkyzanulu.datart.sk CNAME .
 spolu.kuskakaa.cz CNAME .
 spoluhraci.decathlon.cz CNAME .
-spoluprace.amalcino.cz CNAME .
+spolupraca.aretacia-rozvodov.sk CNAME .
 spoluprace.aretacni-pripravky.cz CNAME .
 spoluprace.bafoo.cz CNAME .
 spoluprace.blackkale.cz CNAME .

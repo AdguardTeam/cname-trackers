@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -519,6 +519,7 @@ tr.information.labelleadresse.com CNAME .
 tr.information.lacollection-airfrance.be CNAME .
 tr.information.lacollection-airfrance.ch CNAME .
 tr.information.lacollection-airfrance.co.uk CNAME .
+tr.information.lacollection-airfrance.de CNAME .
 tr.information.lacollection-airfrance.fr CNAME .
 tr.information.leclubtravel.fr CNAME .
 tr.information.perfectstay.com CNAME .
@@ -544,6 +545,7 @@ tr.invitation-mesdessous.fr CNAME .
 tr.invitation.perfectstay.com CNAME .
 tr.ipsos-surveys.com CNAME .
 tr.ispaconsulting.com CNAME .
+tr.it4brands-com.moethennessy.com CNAME .
 tr.italia.plimsoll.it CNAME .
 tr.jend.espmp-pofr.net CNAME .
 tr.jesuis.enformedelotus.com CNAME .
@@ -729,6 +731,7 @@ tr.news.devisdirect.be CNAME .
 tr.news.devisdirect.com CNAME .
 tr.news.digitpjms.fr CNAME .
 tr.news.directeo.fr CNAME .
+tr.news.drveto.com CNAME .
 tr.news.easy-voyage.com CNAME .
 tr.news.easyviaggio.com CNAME .
 tr.news.easyviajar.com CNAME .

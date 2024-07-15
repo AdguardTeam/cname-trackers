@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,6 +31,7 @@ cdn.bhlph.com CNAME .
 cdn.bnmkl.com CNAME .
 cdn.borhaj.com CNAME .
 cdn.buram.xyz CNAME .
+cdn.caahwq.com CNAME .
 cdn.cabhwq.com CNAME .
 cdn.calcpol.com CNAME .
 cdn.cjlph.com CNAME .
@@ -46,6 +47,7 @@ cdn.eecd.xyz CNAME .
 cdn.eeco.xyz CNAME .
 cdn.elicaowl.com CNAME .
 cdn.fajukc.com CNAME .
+cdn.falkloo.cloud CNAME .
 cdn.falkwo.com CNAME .
 cdn.faspox.com CNAME .
 cdn.fazanppq.com CNAME .
@@ -62,6 +64,7 @@ cdn.gitajwl.com CNAME .
 cdn.gocolow.com CNAME .
 cdn.gpcrn.com CNAME .
 cdn.hhjow.com CNAME .
+cdn.hhmako.cloud CNAME .
 cdn.hjklq.com CNAME .
 cdn.holenhw.com CNAME .
 cdn.hqwa.xyz CNAME .
@@ -98,6 +101,7 @@ cdn.npcta.xyz CNAME .
 cdn.nuqwe.com CNAME .
 cdn.orjfun.com CNAME .
 cdn.ovqds.com CNAME .
+cdn.paluinho.cloud CNAME .
 cdn.pctv.xyz CNAME .
 cdn.pfiuyt.com CNAME .
 cdn.piuyt.com CNAME .
@@ -386,7 +390,6 @@ crawdad.dillonerhardt.com CNAME .
 crayfish.fansubbing.com CNAME .
 crayfish.portbanecottagelochtay.co.uk CNAME .
 crayfish.thecatherinewheel.co CNAME .
-crayfish.thingelstad.com CNAME .
 crocodile.rapid-sale.co.uk CNAME .
 crow.claudiakeil.de CNAME .
 crow.gim.technology CNAME .
@@ -632,7 +635,6 @@ koi.fftf.cat CNAME .
 koi.fullyexplained.co.uk CNAME .
 koi.henrydennis.dev CNAME .
 koi.lkae.dev CNAME .
-koi.madebykind.com CNAME .
 koi.project-tampah.com CNAME .
 koi.valleywestlandscapes.com CNAME .
 koi.vyer.com CNAME .
@@ -656,6 +658,7 @@ leech.privacycloud.com CNAME .
 leech.stargate-project.de CNAME .
 lemming.nicolasmenard.com CNAME .
 lemming.vivian.do CNAME .
+lemur.a-and-a-trucking.com CNAME .
 lemur.prinsdalpizza.no CNAME .
 leopard.davidlindahlphoto.com CNAME .
 leopard.laszlo.cloud CNAME .
@@ -947,7 +950,6 @@ sole.riverwalkdental.com.au CNAME .
 sparrow.carol.gg CNAME .
 sparrow.uitvaartzorg-vanraemdonck.be CNAME .
 sparrow.workingincontent.com CNAME .
-spermwhale.floofarazzi.com CNAME .
 spermwhale.rowansimpson.com CNAME .
 spermwhale.thankbox.co CNAME .
 spider.capricciocolumbus.org CNAME .
@@ -1058,7 +1060,6 @@ vole.nettskaperne.no CNAME .
 vole.noteapps.info CNAME .
 vole.sonicrida.com CNAME .
 vole.tsttechnology.com CNAME .
-vulture.downzeroky.com CNAME .
 vulture.lagosdesaliencia.com CNAME .
 wallaby.cron.help CNAME .
 wallaby.legendkeeper.com CNAME .
@@ -1129,6 +1130,7 @@ sponsors.asisonline.org CNAME .
 sponsors.bicmagazine.com CNAME .
 sponsors.floorforce.com CNAME .
 sponsors.inklink.news CNAME .
+sponsors.localcityplaces.com CNAME .
 sponsors.macaronikid.com CNAME .
 sponsors.njmonthly.com CNAME .
 sponsors.oaklandcountymoms.com CNAME .

@@ -74,6 +74,7 @@
   "l.programme-tv.net": "tls.non.li",
   "l.programme.tv": "tls.non.li",
   "l.radiofrance.fr": "tls.non.li",
+  "l.reporterre.net": "tls.non.li",
   "l.rmc.fr": "tls.non.li",
   "l.rmcsport.fr": "tls.non.li",
   "l.sciencesetavenir.fr": "tls.non.li",
@@ -87,6 +88,7 @@
   "l.varmatin.com": "non.li",
   "l.voici.fr": "tls.non.li",
   "sur.corsematin.com": "tls-lp-cm.non.li",
+  "sur.laprovence.com": "non.li",
   "www.20min.fr": "tls.non.li",
   "www.altereco.media": "tls.non.li"
 }

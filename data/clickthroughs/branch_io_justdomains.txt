@@ -134,7 +134,6 @@ ablink.mail1.iheart.com
 ablink.marketing.adobemailing.com
 ablink.marketing.li.me
 ablink.marketing.max.com
-ablink.marketing.motortrend.com
 ablink.marketing.onxmaps.com
 ablink.media.10play.com.au
 ablink.message.max.com
@@ -146,8 +145,6 @@ ablink.news.forhers.com
 ablink.news.gooseinsurance.com
 ablink.news.kfc.co.za
 ablink.news.theiconic.com.au
-ablink.newsletters1.motortrend.com
-ablink.newsletters2.motortrend.com
 ablink.notice.hoopladigital.com
 ablink.notice.spriggy.com.au
 ablink.notification.insighttimer.com
@@ -173,7 +170,6 @@ ablink.sender.skyscanner.net
 ablink.service.max.com
 ablink.stream.hbomax.com
 ablink.stream.max.com
-ablink.subscribers.motortrend.com
 ablink.support.oneatwork.app
 ablink.t.feelcove.com
 ablink.tchicken.popeyes.com
@@ -741,6 +737,7 @@ links.younify.tv
 links.yummly.com
 links2.chownowmail.com
 links2.fluent-forever.com
+linksg-1.nike.ae
 linktrace.diningcity.cn
 lnk2.patpat.com
 m.irlmail.org
@@ -760,6 +757,7 @@ news.tracking.laredoute.es
 news.tracking.laredoute.it
 news.tracking.laredoute.pt
 notice.hoopladigital.com
+notify.pray.com
 pbm-email.rightwayhealthcare.com
 pint-dev-branch.airship.com
 promo.tops.co.th
@@ -830,6 +828,7 @@ tracking.staging.goshare.co
 tracks.roomster.com
 trk-branch.balinea.com
 trk.bc.shutterfly.com
+trk.email.dxl.com
 trk.geico.com
 trk.m1.stadiumgoods.com
 trk.s.sephora.com
@@ -1088,7 +1087,6 @@ app.entwickler.de
 app.etc.se
 app.etcel.se
 app.evntly.com
-app.experience297.com
 app.explico.sg
 app.fashalot.com
 app.favorited.com
@@ -1271,6 +1269,7 @@ app.pdf.ac
 app.pickwin.net
 app.pickyourtrail.com
 app.pixapp.com
+app.playtally.com
 app.pointer.com.br
 app.pokerup.net
 app.polestar.com
@@ -1315,6 +1314,7 @@ app.seasonshare.com
 app.segno.org
 app.select.id
 app.semusi.com
+app.seoultravelpass.com
 app.servotrack.com.au
 app.shopback.com
 app.shoplooq.com
@@ -1375,6 +1375,7 @@ app.treering.com
 app.trell.co
 app.trimenu.com
 app.trulia.com
+app.truthify.com
 app.trutv.com
 app.tsgo.io
 app.tutorela.com
@@ -1420,6 +1421,7 @@ applink.beta.aspiration.com
 applink.calciumhealth.com
 applink.cw.com.tw
 applink.designengineapp.com
+applink.dev.tarjetabumeran.com
 applink.discuss.com.hk
 applink.eventable.com
 applink.flipboard.com
@@ -1600,6 +1602,7 @@ branch-sandbox.thekono.com
 branch-sl-qc.trycircle.com
 branch-stage.jisp.com
 branch-test.locationlabs.com
+branch-test.pushd.com
 branch-test.rejuvenan.com
 branch-test.step.com
 branch-test.tbal.io
@@ -1701,6 +1704,7 @@ brldassustitucion.eccocar.com
 brlesrochesmarbella.eccocar.com
 brlikecarsharing.eccocar.com
 brllanesrentacar.eccocar.com
+brmalco.eccocar.com
 brmbrenting.eccocar.com
 brmexrentacar.eccocar.com
 brmocean.eccocar.com
@@ -2148,7 +2152,6 @@ get.fullcourt.io
 get.getblood.com
 get.helloheart.com
 get.hiya.com
-get.homemealdeal.com
 get.howdy.co
 get.hugoapp.com
 get.ingomoney.com
@@ -2212,6 +2215,7 @@ get.telexa.mn
 get.tellusapp.com
 get.thenoplace.com
 get.thesmartapp.me
+get.thestunt.com
 get.toffapp.co
 get.tunableapp.com
 get.tunity.com
@@ -2245,6 +2249,7 @@ geystikigonia.openapp.link
 gh.vsee.me
 ghd.vsee.me
 gi.inhaabit.com
+go-beta.locosonic.com
 go-dev.callersmart.com
 go-dev.qantaswellbeing.com
 go-staging.qantaswellbeing.com
@@ -2423,7 +2428,6 @@ go.noondate.com
 go.norway.innovatedating.com
 go.ondutydoc.com
 go.onecart.co.za
-go.onefc.com
 go.ortholive.com
 go.palpita.net
 go.panda-click.com
@@ -2533,7 +2537,6 @@ gordev.atly.com
 goseri-link.mysuki.io
 gotest.bouncie.com
 gotest.onecart.co.za
-gotest.onefc.com
 gotest.real.co
 gotest.taillight.com
 goto.nearlist.com
@@ -2845,6 +2848,7 @@ link.airfarm.io
 link.alan.com
 link.allyapp.com
 link.altrua.icanbwell.com
+link.amaraclubapp.com
 link.angel.com
 link.antwak.com
 link.anz.com
@@ -2989,6 +2993,7 @@ link.getcoral.app
 link.getdinr.com
 link.getfxguru.com
 link.getoutpatient.com
+link.getpi.in
 link.getremix.ai
 link.getsaturday.com
 link.getsendit.com
@@ -3135,6 +3140,7 @@ link.outgo.com.br
 link.outpatient.ai
 link.palletml.com
 link.pariksha.co
+link.partyhunt.com
 link.patient.com
 link.pavilhaodaagua.pt
 link.payris.app
@@ -3265,6 +3271,7 @@ link.test.stickybeak.co
 link.testbook.com
 link.theagendaperiod.com
 link.thebpr.com
+link.thehealthwallet.com
 link.thejetjournal.com
 link.theprenatalnutritionlibrary.com
 link.thesecurityteam.rocks
@@ -3274,6 +3281,7 @@ link.tigerhall.isdemo.se
 link.togaapp.com
 link.tomoloyalty.com
 link.tomoloyaltysg.com
+link.touchsurgery.com
 link.tradee.com
 link.tradle.io
 link.tribeup.social
@@ -3464,6 +3472,7 @@ lnk.welthee.com
 local-shares.ri.la
 location.imsmetals.com
 login.e-ticket.co.jp
+london.masterofcity.com
 lotte.myomee.com
 lp.egghead.link
 lpwlinks.mindtickle.com
@@ -4012,7 +4021,6 @@ smtp.happ.social
 smtp2.happ.social
 smtpauth.happ.social
 snapshotapp.progressive.com
-snowman.odencat.com
 social.superbook.com
 social.talenttitan.com
 social.tinyview.com
@@ -4080,6 +4088,7 @@ tasteeat.openapp.link
 tasukeai.link.justincase.jp
 tba.smrtp.link
 teachers.saarthipedagogy.com
+tec.techieustad.com
 test-app.getgifted.com
 test-app.popsa.com
 test-app.rmbr.in
@@ -4257,6 +4266,7 @@ www.gawayez.e-postserv.com
 www.getone.today
 www.vetxanh.edu.vn
 www1.happ.social
+x-living-denver-staging-link.foxboxapp.com
 x.gldn.io
 x.xtar.io
 x88s.pandasuite.io

@@ -18,6 +18,7 @@
 | l.nicematin.com | non.li |
 | l.traxmag.com | non.li |
 | l.varmatin.com | non.li |
+| sur.laprovence.com | non.li |
 | l.laprovence.com | tls-lp-cm.non.li |
 | sur.corsematin.com | tls-lp-cm.non.li |
 | go.rfi.fr | tls-rfi.non.li |
@@ -89,6 +90,7 @@
 | l.programme-tv.net | tls.non.li |
 | l.programme.tv | tls.non.li |
 | l.radiofrance.fr | tls.non.li |
+| l.reporterre.net | tls.non.li |
 | l.rmc.fr | tls.non.li |
 | l.rmcsport.fr | tls.non.li |
 | l.sciencesetavenir.fr | tls.non.li |

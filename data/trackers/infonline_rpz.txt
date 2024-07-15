@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -751,6 +751,7 @@ data-53808e266e.nn.de CNAME .
 data-53ba3c279a.apps.iocnt.de CNAME .
 data-53ce61d695.bike-x.de CNAME .
 data-545e23e607.kosmo.at CNAME .
+data-5492b7d422.fupa.net CNAME .
 data-5492b7d422.mz-jobs.de CNAME .
 data-5492b7d422.mz.de CNAME .
 data-5492b7d422.rblive.de CNAME .
@@ -947,6 +948,7 @@ data-684c5faba8.ok-magazin.de CNAME .
 data-684c5faba8.okmag.de CNAME .
 data-686f12c8aa.regionaljobs.at CNAME .
 data-69f8b27f58.deutsche-handwerks-zeitung.de CNAME .
+data-6a61a15cf3.laendleanzeiger.at CNAME .
 data-6a83b9cb11.liferadio.tirol CNAME .
 data-6ad61cf514.das-onlinespiel.de CNAME .
 data-6ad61cf514.petra.de CNAME .
@@ -1315,6 +1317,7 @@ data-975521d9ad.horizont.de CNAME .
 data-975521d9ad.horizont.net CNAME .
 data-975521d9ad.horizontjobs.de CNAME .
 data-97d159685e.gemeinsam-gedenken.de CNAME .
+data-97d159685e.jobsbb.de CNAME .
 data-97d159685e.szbz.de CNAME .
 data-98b5a11c9b.addradio.de CNAME .
 data-98b5a11c9b.radiolippe.de CNAME .
@@ -2152,6 +2155,7 @@ data-f59db3288b.24garten.de CNAME .
 data-f59db3288b.24hamburg.de CNAME .
 data-f59db3288b.24rhein.de CNAME .
 data-f59db3288b.24royal.de CNAME .
+data-f59db3288b.24sport.de CNAME .
 data-f59db3288b.24vita.de CNAME .
 data-f59db3288b.az-online.de CNAME .
 data-f59db3288b.baden24.de CNAME .

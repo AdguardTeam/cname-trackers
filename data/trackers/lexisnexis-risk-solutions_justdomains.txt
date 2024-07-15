@@ -276,6 +276,7 @@ content.orixbank.co.jp
 content.partycity.ca
 content.paycardsolutions.com
 content.paysend.com
+content.pefcu.com
 content.personifyfinancial.com
 content.pledg.co
 content.pnbank.com.au
@@ -547,6 +548,7 @@ jpubs.zodia.io
 jytrnq.cm-cic.com
 kyc.usend.com
 lab4.lloydsbank.com
+ln.acornfun.com
 ln.cash.app
 ln.meudigio.com.br
 lnc.mo.gov
@@ -946,8 +948,15 @@ tm.tbcbank.uz
 tm.telecharge.com
 tm.uship.com
 tm.verify.illion.com.au
+tmcdn.gamingclub.com
 tmcdn.homeaway.com
+tmcdn.jackpotcity.ca
+tmcdn.jackpotcitycasino.com
+tmcdn.rubyfortune.com
 tmcdn.spincasino.ca
+tmcdn.spincasino.com
+tmcdn.spincasino.mx
+tmcdn.spinpalace.com
 tmck.milestonegoldcard.com
 tmcontent.imvu.com
 tmcontent.meridiancu.ca
@@ -961,6 +970,7 @@ tmt.houzz.com
 tmuat.kotak.com
 tmx-fpt.credit-agricole.pl
 tmx.additionfi.com
+tmx.banquemanuvie.com
 tmx.bestbuy.com
 tmx.beyondbank.com.au
 tmx.carhistory.com.au

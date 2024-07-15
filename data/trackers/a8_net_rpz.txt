@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1040,7 +1040,6 @@ a8cv.ma-cp.com CNAME .
 a8cv.machi-ene.jp CNAME .
 a8cv.machicon.jp CNAME .
 a8cv.macloud.jp CNAME .
-a8cv.madoguchi.com CNAME .
 a8cv.maenomery.jp CNAME .
 a8cv.magniflexk.com CNAME .
 a8cv.mamarket.co.jp CNAME .
@@ -1345,6 +1344,7 @@ a8wakiga.ike-sunshine.co.jp CNAME .
 a8wristcut.ike-sunshine.co.jp CNAME .
 a8x.piece-kaitori.jp CNAME .
 ac.livelty.com CNAME .
+acv.au-hikari-kddi.com CNAME .
 acv.auhikari-norikae.com CNAME .
 acv.aun-air-wifi.com CNAME .
 acv.aun-company.com CNAME .

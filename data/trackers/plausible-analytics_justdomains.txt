@@ -37,6 +37,7 @@ analytics.recamov.com
 analytics.sideprojectsoftware.com
 analytics.sixfigureswine.com
 analytics.teamcovenant.com
+analytics.thegroupbuyexperiment.com
 analytics.top10-charts.com
 analytics.trust.page
 analytics.uxmetrics.com
@@ -254,7 +255,6 @@ plausible.treelightsoftware.com
 plausible.urbanekuensteruhr.de
 plausible.veszelovszki.com
 plausible.visitu.com
-plausible.viteshot.com
 plausible.west.io
 plausible.x.baychi.org
 plausible.yalepaprika.com
@@ -556,7 +556,6 @@ stats.interactjs.io
 stats.interruptor.pt
 stats.intheloop.dev
 stats.intothebox.org
-stats.invoice.orballo.dev
 stats.ipadhire.co.nz
 stats.isabelsommerfeld.com
 stats.iscc-system.org
@@ -657,6 +656,7 @@ stats.napaconnect.ca
 stats.navedislam.com
 stats.nddmed.com
 stats.nerdbusiness.com
+stats.new.sublimesecurity.com
 stats.newslit.co
 stats.nexagon.dk
 stats.nodewood.com
@@ -730,7 +730,6 @@ stats.rasulkireev.com
 stats.reactician.com
 stats.readng.co
 stats.redlabelsports.com
-stats.redpandabooks.com
 stats.referralhero.com
 stats.rehaag-immobilien.de
 stats.reisemobil.pro

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -328,7 +328,6 @@ secure.yama1hove.com CNAME .
 secure.yami8alea.com CNAME .
 secure.yeld9auto.com CNAME .
 secure.yirr5frog.com CNAME .
-www.1-cl0ud.com CNAME .
 www.1-creative-1.com CNAME .
 www.100-flannelman.com CNAME .
 www.143nchrtl3.com CNAME .
@@ -430,6 +429,7 @@ www.deng3rada.com CNAME .
 www.dens1raec.com CNAME .
 www.dhenr54m.com CNAME .
 www.dial4gwyn.com CNAME .
+www.diet3dart.com CNAME .
 www.direct-aws-a1.com CNAME .
 www.direct-azr-78.com CNAME .
 www.djkeun1bal.com CNAME .
@@ -454,7 +454,6 @@ www.eue27west.com CNAME .
 www.eventcapture03.com CNAME .
 www.eventcapture06.com CNAME .
 www.ever-track-51.com CNAME .
-www.explore-123.com CNAME .
 www.fear7calk.com CNAME .
 www.feed5baby.com CNAME .
 www.feed5mown.com CNAME .
@@ -500,12 +499,10 @@ www.hvgcfx1.com CNAME .
 www.inc9lineedge.com CNAME .
 www.incline9edge.com CNAME .
 www.indpcr1.com CNAME .
-www.infra-gtc.com CNAME .
 www.insightful-company-52.com CNAME .
 www.insightfulbusinesswisdom.com CNAME .
 www.insightfulcompanyinsight.com CNAME .
 www.intelligence-enterprise.com CNAME .
-www.intelligence52.com CNAME .
 www.intelligent-company-foresight.com CNAME .
 www.intelligent-data-247.com CNAME .
 www.intelligentcompanywisdom.com CNAME .
@@ -589,7 +586,6 @@ www.nhyund4.com CNAME .
 www.nice3aiea.com CNAME .
 www.nipe4head.com CNAME .
 www.node7seat.com CNAME .
-www.nong3bram.com CNAME .
 www.nora7nice.com CNAME .
 www.norm0care.com CNAME .
 www.nw-rail-03.com CNAME .
@@ -615,7 +611,6 @@ www.pdxor02.com CNAME .
 www.peak-ip-54.com CNAME .
 www.peak2poem.com CNAME .
 www.peep1alea.com CNAME .
-www.perk0mean.com CNAME .
 www.pkrchp001.com CNAME .
 www.plokij1.com CNAME .
 www.plug1luge.com CNAME .
@@ -853,6 +848,7 @@ in.analytics.glance.inmobi.com CNAME .
 secure.1-cl0ud.com CNAME .
 secure.bux1le001.com CNAME .
 secure.enterprisingconsortium.com CNAME .
+www.1-cl0ud.com CNAME .
 www.123-tracker.com CNAME .
 www.200summit.com CNAME .
 www.52data-venture.com CNAME .
@@ -868,16 +864,18 @@ www.cloud-exploration.com CNAME .
 www.cloudtracer101.com CNAME .
 www.core-cen-54.com CNAME .
 www.detailsinspiration-data.com CNAME .
-www.diet3dart.com CNAME .
 www.discover-path.com CNAME .
 www.discovertrail.net CNAME .
 www.ela-3-tnk.com CNAME .
 www.elite-s001.com CNAME .
 www.enterprise-consortiumoperation.com CNAME .
+www.explore-123.com CNAME .
 www.forensics1000.com CNAME .
 www.gtcslt-di2.com CNAME .
 www.hunt-leads.com CNAME .
 www.imaginative-trade7.com CNAME .
+www.infra-gtc.com CNAME .
+www.intelligence52.com CNAME .
 www.intuition-agile-7.com CNAME .
 www.ksyrium0014.com CNAME .
 www.lead-123.com CNAME .
@@ -885,8 +883,10 @@ www.letterboxtrail.com CNAME .
 www.m1ll1c4n0.com CNAME .
 www.me1294hlx.com CNAME .
 www.mialbj6.com CNAME .
+www.nong3bram.com CNAME .
 www.ours3care.com CNAME .
 www.pass-1234.com CNAME .
+www.perk0mean.com CNAME .
 www.pto-slb-09.com CNAME .
 www.rng-snp-003.com CNAME .
 www.san-spr-01.net CNAME .
@@ -912,6 +912,4 @@ oca.microsoft.com CNAME .
 watson.microsoft.com CNAME .
 partners.dudley.gov.uk CNAME .
 segment-api.inrix.com CNAME .
-telemetry-eastus.trafficmanager.inmobi.com CNAME .
-telemetry.sdk.inmobi.com CNAME .
 utm.shireburn.com CNAME .

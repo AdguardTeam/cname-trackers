@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,8 @@ $TTL 300
 @    IN   NS    localhost.
 
 adamsads.midtc.com CNAME .
+adconsole.lot-tissimo.com CNAME .
+adconsole.sniffies.com CNAME .
 adimages.eva.live CNAME .
 adimages.sniffies.com CNAME .
 ads-delivery.milenarmedia.pt CNAME .
@@ -35,15 +37,19 @@ adserver.marriagetrac.com CNAME .
 adserver.rtvutrechtreclame.nl CNAME .
 adserver.sniffies.com CNAME .
 adserver.sonicplug.com CNAME .
+adstatic.kozoom.com CNAME .
 adv.consulcesi.it CNAME .
 adv.unionesarda.it CNAME .
 advertising.goldseek.com CNAME .
 api.metrike.com CNAME .
 assets.lintigroup.se CNAME .
+banners.geminipub.com CNAME .
 banners.leightonbroadcasting.com CNAME .
 banners.orangecoast.com CNAME .
 cdn-adv.unionesarda.it CNAME .
 cdn.datateam.co.uk CNAME .
+cdn.leightonbroadcasting.com CNAME .
+cdn.mequoda.com CNAME .
 cdn.myadsmyanmar.com CNAME .
 cdn.personare.com.br CNAME .
 cdn.pinktriangle.ca CNAME .
@@ -51,7 +57,10 @@ cdn.revive-adserver.net CNAME .
 cdn.rlnads.net CNAME .
 championads.midtc.com CNAME .
 console.adbility-media.com CNAME .
+console.hour-media.com CNAME .
+console.imagineobx.com CNAME .
 console.informingnews.com CNAME .
+console.livingmagonline.com CNAME .
 console.mannixmarketing.com CNAME .
 console.revive-adserver.net CNAME .
 coreads.cambridge.org CNAME .
@@ -122,5 +131,8 @@ static.trackandfieldnews.com CNAME .
 tlads.midtc.com CNAME .
 treehouse.wwoz.org CNAME .
 www.proforums.com CNAME .
+www.revive-static.worldscreen.com CNAME .
 www.revive.ahk.de CNAME .
+www.servedby.greenspring.com CNAME .
+www.servedby.quirks.com CNAME .
 xtraa-secure.reviveservers.com CNAME .

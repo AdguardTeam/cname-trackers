@@ -63,6 +63,7 @@
 | sponsors.bicmagazine.com | bs-adserver.b-cdn.net |
 | sponsors.floorforce.com | bs-adserver.b-cdn.net |
 | sponsors.inklink.news | bs-adserver.b-cdn.net |
+| sponsors.localcityplaces.com | bs-adserver.b-cdn.net |
 | sponsors.macaronikid.com | bs-adserver.b-cdn.net |
 | sponsors.njmonthly.com | bs-adserver.b-cdn.net |
 | sponsors.oaklandcountymoms.com | bs-adserver.b-cdn.net |
@@ -316,7 +317,6 @@
 | crayfish.fansubbing.com | deprecated-custom-domains.b-cdn.net |
 | crayfish.portbanecottagelochtay.co.uk | deprecated-custom-domains.b-cdn.net |
 | crayfish.thecatherinewheel.co | deprecated-custom-domains.b-cdn.net |
-| crayfish.thingelstad.com | deprecated-custom-domains.b-cdn.net |
 | crocodile.rapid-sale.co.uk | deprecated-custom-domains.b-cdn.net |
 | crow.claudiakeil.de | deprecated-custom-domains.b-cdn.net |
 | crow.gim.technology | deprecated-custom-domains.b-cdn.net |
@@ -562,7 +562,6 @@
 | koi.fullyexplained.co.uk | deprecated-custom-domains.b-cdn.net |
 | koi.henrydennis.dev | deprecated-custom-domains.b-cdn.net |
 | koi.lkae.dev | deprecated-custom-domains.b-cdn.net |
-| koi.madebykind.com | deprecated-custom-domains.b-cdn.net |
 | koi.project-tampah.com | deprecated-custom-domains.b-cdn.net |
 | koi.valleywestlandscapes.com | deprecated-custom-domains.b-cdn.net |
 | koi.vyer.com | deprecated-custom-domains.b-cdn.net |
@@ -586,6 +585,7 @@
 | leech.stargate-project.de | deprecated-custom-domains.b-cdn.net |
 | lemming.nicolasmenard.com | deprecated-custom-domains.b-cdn.net |
 | lemming.vivian.do | deprecated-custom-domains.b-cdn.net |
+| lemur.a-and-a-trucking.com | deprecated-custom-domains.b-cdn.net |
 | lemur.prinsdalpizza.no | deprecated-custom-domains.b-cdn.net |
 | leopard.davidlindahlphoto.com | deprecated-custom-domains.b-cdn.net |
 | leopard.laszlo.cloud | deprecated-custom-domains.b-cdn.net |
@@ -877,7 +877,6 @@
 | sparrow.carol.gg | deprecated-custom-domains.b-cdn.net |
 | sparrow.uitvaartzorg-vanraemdonck.be | deprecated-custom-domains.b-cdn.net |
 | sparrow.workingincontent.com | deprecated-custom-domains.b-cdn.net |
-| spermwhale.floofarazzi.com | deprecated-custom-domains.b-cdn.net |
 | spermwhale.rowansimpson.com | deprecated-custom-domains.b-cdn.net |
 | spermwhale.thankbox.co | deprecated-custom-domains.b-cdn.net |
 | spider.capricciocolumbus.org | deprecated-custom-domains.b-cdn.net |
@@ -988,7 +987,6 @@
 | vole.noteapps.info | deprecated-custom-domains.b-cdn.net |
 | vole.sonicrida.com | deprecated-custom-domains.b-cdn.net |
 | vole.tsttechnology.com | deprecated-custom-domains.b-cdn.net |
-| vulture.downzeroky.com | deprecated-custom-domains.b-cdn.net |
 | vulture.lagosdesaliencia.com | deprecated-custom-domains.b-cdn.net |
 | wallaby.cron.help | deprecated-custom-domains.b-cdn.net |
 | wallaby.legendkeeper.com | deprecated-custom-domains.b-cdn.net |
@@ -1050,6 +1048,7 @@
 | cdn.bnmkl.com | popcashjs.b-cdn.net |
 | cdn.borhaj.com | popcashjs.b-cdn.net |
 | cdn.buram.xyz | popcashjs.b-cdn.net |
+| cdn.caahwq.com | popcashjs.b-cdn.net |
 | cdn.cabhwq.com | popcashjs.b-cdn.net |
 | cdn.calcpol.com | popcashjs.b-cdn.net |
 | cdn.cjlph.com | popcashjs.b-cdn.net |
@@ -1065,6 +1064,7 @@
 | cdn.eeco.xyz | popcashjs.b-cdn.net |
 | cdn.elicaowl.com | popcashjs.b-cdn.net |
 | cdn.fajukc.com | popcashjs.b-cdn.net |
+| cdn.falkloo.cloud | popcashjs.b-cdn.net |
 | cdn.falkwo.com | popcashjs.b-cdn.net |
 | cdn.faspox.com | popcashjs.b-cdn.net |
 | cdn.fazanppq.com | popcashjs.b-cdn.net |
@@ -1081,6 +1081,7 @@
 | cdn.gocolow.com | popcashjs.b-cdn.net |
 | cdn.gpcrn.com | popcashjs.b-cdn.net |
 | cdn.hhjow.com | popcashjs.b-cdn.net |
+| cdn.hhmako.cloud | popcashjs.b-cdn.net |
 | cdn.hjklq.com | popcashjs.b-cdn.net |
 | cdn.holenhw.com | popcashjs.b-cdn.net |
 | cdn.hqwa.xyz | popcashjs.b-cdn.net |
@@ -1117,6 +1118,7 @@
 | cdn.nuqwe.com | popcashjs.b-cdn.net |
 | cdn.orjfun.com | popcashjs.b-cdn.net |
 | cdn.ovqds.com | popcashjs.b-cdn.net |
+| cdn.paluinho.cloud | popcashjs.b-cdn.net |
 | cdn.pctv.xyz | popcashjs.b-cdn.net |
 | cdn.pfiuyt.com | popcashjs.b-cdn.net |
 | cdn.piuyt.com | popcashjs.b-cdn.net |

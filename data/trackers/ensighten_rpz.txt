@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -58,6 +58,7 @@ activate.ramonasentinel.com CNAME .
 activate.ranchosantafereview.com CNAME .
 activate.redeyechicago.com CNAME .
 activate.shopjustice.com CNAME .
+activate.solanabeachsun.com CNAME .
 activate.southflorida.com CNAME .
 activate.sun-sentinel.com CNAME .
 activate.suncorp.com.au CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -300,7 +300,6 @@ web.email.superga.co.uk CNAME .
 web.email.topfarmacia.it CNAME .
 web.email.turtlebay.co.uk CNAME .
 web.email.umbro.co.uk CNAME .
-web.email.zone3.com CNAME .
 web.ideaautorepair.com CNAME .
 web.info.aiteca.it CNAME .
 web.info.bodybuildingwarehouse.co.uk CNAME .

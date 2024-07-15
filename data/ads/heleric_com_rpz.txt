@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,6 +13,7 @@ $TTL 300
 
 ah.cabbingdandled.com CNAME .
 aj.stomalhobble.com CNAME .
+ap.ansilumbar.com CNAME .
 ap.bouncelargo.com CNAME .
 ap.saluteeyeseed.com CNAME .
 ar.pagodaskeeker.com CNAME .
@@ -59,7 +60,6 @@ du.jubhahbalize.com CNAME .
 dw.jiglikeshilla.com CNAME .
 dw.organaamnions.com CNAME .
 dy.araucangozell.com CNAME .
-dy.dautedergot.com CNAME .
 dz.banyaitlingit.com CNAME .
 ec.didnsunns.com CNAME .
 ed.druggertruckle.com CNAME .
@@ -87,12 +87,14 @@ fs.velellabudded.com CNAME .
 fu.dinaricarrear.com CNAME .
 ga.asseizeenl.com CNAME .
 gd.waxbushengore.com CNAME .
+ge.chassnincom.com CNAME .
 gf.goreplacers.com CNAME .
 gg.warmanmamelon.com CNAME .
 gh.outswumvinose.com CNAME .
 gn.afootwitword.com CNAME .
 gq.webbymendole.com CNAME .
 gr.faencepuggy.com CNAME .
+gr.kitharapalanka.com CNAME .
 hb.tewitfeoffee.com CNAME .
 hf.frisklelooms.com CNAME .
 hg.barwaltanha.com CNAME .
@@ -122,6 +124,7 @@ jw.posiedcaridea.com CNAME .
 jx.yonnersekere.com CNAME .
 jy.astylararsines.com CNAME .
 kc.droyltenuate.com CNAME .
+kk.dintshectar.com CNAME .
 kl.embarupbuoy.com CNAME .
 kq.myrtolbanzai.com CNAME .
 kr.cafenehkikki.com CNAME .
@@ -130,6 +133,7 @@ kt.guywireincorp.com CNAME .
 ku.allnesskepped.com CNAME .
 kv.patenssabzi.com CNAME .
 kw.phaseranarch.com CNAME .
+kx.gyppingargulus.com CNAME .
 lb.snakilyglebae.com CNAME .
 lc.nodoseamylic.com CNAME .
 ld.stengskelped.com CNAME .
@@ -140,6 +144,7 @@ lg.feoffortapetis.com CNAME .
 lr.freyaacronal.com CNAME .
 ls.hongaries.com CNAME .
 lw.cupriteshride.com CNAME .
+md.tethsrump.com CNAME .
 me.salinaswesting.com CNAME .
 mf.collopantony.com CNAME .
 mf.egridstaidly.com CNAME .
@@ -147,6 +152,7 @@ mf.fauldbeeth.com CNAME .
 mh.wedgedgeoduck.com CNAME .
 mi.gaywayperkish.com CNAME .
 ml.estellaeyelet.com CNAME .
+ml.sunspotbaffies.com CNAME .
 mn.prespurmaness.com CNAME .
 mr.pudgilygrazes.com CNAME .
 mu.laplingskevish.com CNAME .
@@ -213,6 +219,7 @@ se.aspireetopee.com CNAME .
 sk.tuskersecklein.com CNAME .
 sl.babistmucuses.com CNAME .
 sl.elinvarpayola.com CNAME .
+sp.companychouan.com CNAME .
 sp.voleryclat.com CNAME .
 sq.knobblecleach.com CNAME .
 sq.volvellurol.com CNAME .
@@ -220,6 +227,7 @@ sr.awkwardpurfles.com CNAME .
 ss.phallicbedsore.com CNAME .
 st.perteranorak.com CNAME .
 sw.pluckysups.com CNAME .
+sx.followexciton.com CNAME .
 sy.sartishmoop.com CNAME .
 sz.createsgummous.com CNAME .
 sz.famanils.com CNAME .
@@ -245,9 +253,11 @@ ua.hullockotxi.com CNAME .
 uc.corditespicous.com CNAME .
 uf.disbendcrumby.com CNAME .
 uh.dettepondok.com CNAME .
+ui.marchesbragged.com CNAME .
 ul.spatingaegina.com CNAME .
 un.ginnleunshift.com CNAME .
 un.ingentdurn.com CNAME .
+un.sleevetaa.com CNAME .
 uo.tubaronunheler.com CNAME .
 uq.skewlyshoggle.com CNAME .
 uz.gamyboxbush.com CNAME .

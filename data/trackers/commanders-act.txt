@@ -9,10 +9,10 @@
 ||data.decathlon.it^
 ||data.decathlon.pl^
 ||data.ricaud.com^
+||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^
-||tag.boulanger.fr^
 ||tagcommander.laredoute.be^
 ||tagcommander.laredoute.ch^
 ||tc.europcar.com^
@@ -21,4 +21,4 @@
 ||tcdata.fnac.com^
 ||configure.adlermode.com^
 ||data.ouigo.com^
-||data.ubi.com^
+||tag.boulanger.fr^

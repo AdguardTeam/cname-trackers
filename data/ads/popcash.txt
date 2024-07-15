@@ -20,6 +20,7 @@
 ||cdn.bnmkl.com^
 ||cdn.borhaj.com^
 ||cdn.buram.xyz^
+||cdn.caahwq.com^
 ||cdn.cabhwq.com^
 ||cdn.calcpol.com^
 ||cdn.cjlph.com^
@@ -35,6 +36,7 @@
 ||cdn.eeco.xyz^
 ||cdn.elicaowl.com^
 ||cdn.fajukc.com^
+||cdn.falkloo.cloud^
 ||cdn.falkwo.com^
 ||cdn.faspox.com^
 ||cdn.fazanppq.com^
@@ -51,6 +53,7 @@
 ||cdn.gocolow.com^
 ||cdn.gpcrn.com^
 ||cdn.hhjow.com^
+||cdn.hhmako.cloud^
 ||cdn.hjklq.com^
 ||cdn.holenhw.com^
 ||cdn.hqwa.xyz^
@@ -87,6 +90,7 @@
 ||cdn.nuqwe.com^
 ||cdn.orjfun.com^
 ||cdn.ovqds.com^
+||cdn.paluinho.cloud^
 ||cdn.pctv.xyz^
 ||cdn.pfiuyt.com^
 ||cdn.piuyt.com^
@@ -375,7 +379,6 @@
 ||crayfish.fansubbing.com^
 ||crayfish.portbanecottagelochtay.co.uk^
 ||crayfish.thecatherinewheel.co^
-||crayfish.thingelstad.com^
 ||crocodile.rapid-sale.co.uk^
 ||crow.claudiakeil.de^
 ||crow.gim.technology^
@@ -621,7 +624,6 @@
 ||koi.fullyexplained.co.uk^
 ||koi.henrydennis.dev^
 ||koi.lkae.dev^
-||koi.madebykind.com^
 ||koi.project-tampah.com^
 ||koi.valleywestlandscapes.com^
 ||koi.vyer.com^
@@ -645,6 +647,7 @@
 ||leech.stargate-project.de^
 ||lemming.nicolasmenard.com^
 ||lemming.vivian.do^
+||lemur.a-and-a-trucking.com^
 ||lemur.prinsdalpizza.no^
 ||leopard.davidlindahlphoto.com^
 ||leopard.laszlo.cloud^
@@ -936,7 +939,6 @@
 ||sparrow.carol.gg^
 ||sparrow.uitvaartzorg-vanraemdonck.be^
 ||sparrow.workingincontent.com^
-||spermwhale.floofarazzi.com^
 ||spermwhale.rowansimpson.com^
 ||spermwhale.thankbox.co^
 ||spider.capricciocolumbus.org^
@@ -1047,7 +1049,6 @@
 ||vole.noteapps.info^
 ||vole.sonicrida.com^
 ||vole.tsttechnology.com^
-||vulture.downzeroky.com^
 ||vulture.lagosdesaliencia.com^
 ||wallaby.cron.help^
 ||wallaby.legendkeeper.com^
@@ -1118,6 +1119,7 @@
 ||sponsors.bicmagazine.com^
 ||sponsors.floorforce.com^
 ||sponsors.inklink.news^
+||sponsors.localcityplaces.com^
 ||sponsors.macaronikid.com^
 ||sponsors.njmonthly.com^
 ||sponsors.oaklandcountymoms.com^

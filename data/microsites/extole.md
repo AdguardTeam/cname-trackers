@@ -307,7 +307,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -428,7 +427,6 @@
     * petpartners.extole.io
     * petplan.extole.io
     * petsbest.extole.io
-    * pilotcoffeeroasters.extole.io
     * pimsleur.extole.io
     * plush-beds.extole.io
     * policygenius.extole.io
@@ -487,6 +485,7 @@
     * shyft.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
+    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -531,7 +530,6 @@
     * thewalkingcompany.extole.io
     * thewildest.extole.io
     * thirdlove.extole.io
-    * tillys.extole.io
     * tireagent.extole.io
     * todoist.extole.io
     * tommy.extole.io
@@ -896,7 +894,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1078,7 +1075,6 @@
 | refer.gopetplan.com | petplan.extole.io |
 | share.petsbest.com | petsbest.extole.io |
 | indique.phooto.com.br | phooto.extole.com |
-| share.pilotcoffeeroasters.com | pilotcoffeeroasters.extole.io |
 | refer.pimsleur.com | pimsleur.extole.io |
 | refer.cbdpillow.com | plush-beds.extole.io |
 | refer.ecoterrabeds.com | plush-beds.extole.io |
@@ -1161,6 +1157,7 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
+| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1221,7 +1218,6 @@
 | refer.thewalkingcompany.com | thewalkingcompany.extole.io |
 | refer.thewildest.com | thewildest.extole.io |
 | refer.thirdlove.com | thirdlove.extole.io |
-| share.tillys.com | tillys.extole.io |
 | refer.timberland.com | timberland.extole.com |
 | share.tireagent.com | tireagent.extole.io |
 | refer.sharetodoist.com | todoist.extole.io |

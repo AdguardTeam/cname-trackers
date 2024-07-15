@@ -10,6 +10,7 @@
     * ammoland-delivery.aquaplatform.com
     * artionet-delivery.aquaplatform.com
     * artionet-static.aquaplatform.com
+    * atg-console.aquaplatform.com
     * atg-delivery.aquaplatform.com
     * bioverlag-delivery.aquaplatform.com
     * bioverlag-static.aquaplatform.com
@@ -30,11 +31,14 @@
     * geodelivery.aquaplatform.com
     * goldseek-delivery.aquaplatform.com
     * hcs-delivery.aquaplatform.com
+    * hourmedia-console.aquaplatform.com
     * hourmedia-delivery.aquaplatform.com
     * hourmedia-static.aquaplatform.com
     * im-delivery.aquaplatform.com
     * lawbulletin-delivery.aquaplatform.com
     * lb-delivery.aquaplatform.com
+    * lb-static.aquaplatform.com
+    * livingmag-console.aquaplatform.com
     * livingmag-delivery.aquaplatform.com
     * livingmag-static.aquaplatform.com
     * localmatchmaker-delivery.aquaplatform.com
@@ -43,6 +47,7 @@
     * mannix-delivery.aquaplatform.com
     * mannix-static.aquaplatform.com
     * mequoda-delivery.aquaplatform.com
+    * mequoda-static.aquaplatform.com
     * midtc1-delivery.aquaplatform.com
     * midtc2-delivery.aquaplatform.com
     * midtc4-delivery.aquaplatform.com
@@ -51,6 +56,7 @@
     * mondiale-delivery.aquaplatform.com
     * myadsmyanmar-delivery.aquaplatform.com
     * myadsmyanmar-static.aquaplatform.com
+    * oneboat-console.aquaplatform.com
     * oneboat-delivery.aquaplatform.com
     * personare-delivery.aquaplatform.com
     * personare-static.aquaplatform.com
@@ -95,6 +101,7 @@
 | ads.swiss-equestrian.ch | artionet-delivery.aquaplatform.com |
 | ads.worldofshowjumping.com | artionet-delivery.aquaplatform.com |
 | images.worldofshowjumping.com | artionet-static.aquaplatform.com |
+| adconsole.lot-tissimo.com | atg-console.aquaplatform.com |
 | ads.lot-tissimo.com | atg-delivery.aquaplatform.com |
 | servedby.biohandel.de | bioverlag-delivery.aquaplatform.com |
 | servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |
@@ -119,15 +126,21 @@
 | adserver.kozoom.com | geodelivery.aquaplatform.com |
 | servedby.aqua-adserver.com | geodelivery.aquaplatform.com |
 | servedby.quirks.com | geodelivery.aquaplatform.com |
+| www.servedby.quirks.com | geodelivery.aquaplatform.com |
 | advertising.goldseek.com | goldseek-delivery.aquaplatform.com |
 | servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
+| console.hour-media.com | hourmedia-console.aquaplatform.com |
 | servedby.cincinnatimagazine.com | hourmedia-delivery.aquaplatform.com |
 | servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | servedby.palmbeachmedia.com | hourmedia-delivery.aquaplatform.com |
+| www.servedby.greenspring.com | hourmedia-delivery.aquaplatform.com |
+| banners.geminipub.com | hourmedia-static.aquaplatform.com |
 | banners.orangecoast.com | hourmedia-static.aquaplatform.com |
 | servedby.insideradverts.com | im-delivery.aquaplatform.com |
 | display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
 | banners.leightonbroadcasting.com | lb-delivery.aquaplatform.com |
+| cdn.leightonbroadcasting.com | lb-static.aquaplatform.com |
+| console.livingmagonline.com | livingmag-console.aquaplatform.com |
 | servedby.livingmagonline.com | livingmag-delivery.aquaplatform.com |
 | static.livingmagonline.com | livingmag-static.aquaplatform.com |
 | servedby.rlnads.net | localmatchmaker-delivery.aquaplatform.com |
@@ -136,6 +149,7 @@
 | servedby.mannixmarketing.com | mannix-delivery.aquaplatform.com |
 | static.mannixmarketing.com | mannix-static.aquaplatform.com |
 | ox.mequoda.com | mequoda-delivery.aquaplatform.com |
+| cdn.mequoda.com | mequoda-static.aquaplatform.com |
 | tlads.midtc.com | midtc1-delivery.aquaplatform.com |
 | championads.midtc.com | midtc2-delivery.aquaplatform.com |
 | adamsads.midtc.com | midtc4-delivery.aquaplatform.com |
@@ -145,6 +159,7 @@
 | servedby.mondiale.co.uk | mondiale-delivery.aquaplatform.com |
 | servedby.myadsmyanmar.com | myadsmyanmar-delivery.aquaplatform.com |
 | cdn.myadsmyanmar.com | myadsmyanmar-static.aquaplatform.com |
+| console.imagineobx.com | oneboat-console.aquaplatform.com |
 | servedby.everythingnevada.com | oneboat-delivery.aquaplatform.com |
 | servedby.imagineobx.com | oneboat-delivery.aquaplatform.com |
 | servedby.tahoe.com | oneboat-delivery.aquaplatform.com |
@@ -173,7 +188,9 @@
 | ads.xtra.ca | ptp-delivery.aquaplatform.com |
 | servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |
 | cdn.pinktriangle.ca | ptp-static.aquaplatform.com |
+| adstatic.kozoom.com | reservoir.aquaplatform.com |
 | static.aqua-adserver.com | reservoir.aquaplatform.com |
+| adconsole.sniffies.com | revivehosted-console.aquaplatform.com |
 | console.revive-adserver.net | revivehosted-console.aquaplatform.com |
 | adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
 | servedby.cricketworld.com | revivehosted-delivery.aquaplatform.com |
@@ -198,4 +215,5 @@
 | static.ad.logic-prod.viasat.io | viasat-static.aquaplatform.com |
 | revive.worldscreen.com | worldscreen-delivery.aquaplatform.com |
 | revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |
+| www.revive-static.worldscreen.com | worldscreen-static.aquaplatform.com |
 | treehouse.wwoz.org | wwoz-delivery.aquaplatform.com |

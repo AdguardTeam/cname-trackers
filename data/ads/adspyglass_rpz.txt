@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,6 +28,7 @@ $TTL 300
 2222.sanjay44.xyz CNAME .
 2222.sieglinde22.xyz CNAME .
 25serve.yourporngod.com CNAME .
+2appup.com CNAME .
 2asd3413.fsseeewzz.lol CNAME .
 3333.sanjay44.xyz CNAME .
 3333.sieglinde22.xyz CNAME .
@@ -49,14 +50,13 @@ $TTL 300
 7bd3d001ff6.clicknplay.to CNAME .
 91199a.xyz CNAME .
 99loz.xyz CNAME .
+a.1appup.com CNAME .
 a.1film.to CNAME .
 a.antiadxxxspy.com CNAME .
 a.atris.xyz CNAME .
 a.avrom.xyz CNAME .
 a.babezunknown.com CNAME .
 a.badword.xyz CNAME .
-a.bitporno.com CNAME .
-a.bitporno.to CNAME .
 a.bloblohub.com CNAME .
 a.bosda.xyz CNAME .
 a.boyjackpot.com CNAME .
@@ -83,6 +83,7 @@ a.globtube.com CNAME .
 a.glovet.xyz CNAME .
 a.goodweet.xyz CNAME .
 a.goteat.xyz CNAME .
+a.herto.xyz CNAME .
 a.hubhubhub.name CNAME .
 a.if20jadf8aj9bu.shop CNAME .
 a.jerkdevice.tv CNAME .
@@ -154,6 +155,7 @@ aab.faperoni.com CNAME .
 aabtest.asg-media.com CNAME .
 ab.cumhot.org CNAME .
 abc.cda-hd.co CNAME .
+acquaintance213.fun CNAME .
 ad.animeitaly.tv CNAME .
 ad.xxam.org CNAME .
 adanad.name CNAME .
@@ -186,12 +188,14 @@ adxhand.name CNAME .
 adzilla.name CNAME .
 alkosalvb.filasofighit.com CNAME .
 alt.fescity.com CNAME .
+announcement317.fun CNAME .
 antiadblock.info CNAME .
 anun.comicsarmy.com CNAME .
 aoihaizo.xyz CNAME .
 api.adultsclips.com CNAME .
 app.phimvu.app CNAME .
 app.zrotary.com CNAME .
+app2up.info CNAME .
 apple.analnoe24.com CNAME .
 apple.arabtoons.net CNAME .
 arabs.alarabsex.com CNAME .
@@ -310,6 +314,7 @@ cdn3.r34comix.com CNAME .
 cdn5.cartoonporn.to CNAME .
 cdrrvlkew.filasofighit.com CNAME .
 changeable1x.xyz CNAME .
+civilization474.fun CNAME .
 cjwp.cdnhls.pro CNAME .
 click.fastupload.io CNAME .
 client2009x25.xcdn.ovh CNAME .
@@ -318,8 +323,10 @@ comprehensive3x.fun CNAME .
 concentration2.fun CNAME .
 confrontation2.fun CNAME .
 consciousness2.fun CNAME .
+conservation277.fun CNAME .
 consideration3x.fun CNAME .
 constellation3x.fun CNAME .
+consultation233.fun CNAME .
 content.zbporn.com CNAME .
 contradiction2.fun CNAME .
 cool.gaygo.tv CNAME .
@@ -456,6 +463,8 @@ imported1x.xyz CNAME .
 in.fuckhardclips.com CNAME .
 inappropriate2.fun CNAME .
 innocent154.fun CNAME .
+interference350.fun CNAME .
+intervention304.fun CNAME .
 intimatediary.com CNAME .
 invast.invast.site CNAME .
 invast.site CNAME .
@@ -560,7 +569,9 @@ mziso.xyz CNAME .
 n.bloblohub.com CNAME .
 n.hnntube.com CNAME .
 n.hubhubhub.name CNAME .
+namjzoa.xyz CNAME .
 nav.srcdn.xyz CNAME .
+neighborhood268.fun CNAME .
 net.contoseroticoscnn.com CNAME .
 net.sexstories69.com CNAME .
 newdin.name CNAME .
@@ -673,7 +684,6 @@ r.eroticos.tv CNAME .
 r.freeadultporn.tv CNAME .
 r.timbedded.online CNAME .
 r.tropictube.com CNAME .
-rdx.javmotion.com CNAME .
 recondite1x.xyz CNAME .
 redi.teengirl-pics.com CNAME .
 reklama.teenfuckhd.com CNAME .
@@ -692,6 +702,7 @@ rosetua.xyz CNAME .
 rs.picmega.com CNAME .
 rst.pornyhd.com CNAME .
 ruozukk.xyz CNAME .
+ryauzo.xyz CNAME .
 s.brada.buzz CNAME .
 s.commissie.online CNAME .
 s.freeporncave.com CNAME .
@@ -719,6 +730,7 @@ saddve23.fsseeewzz.lol CNAME .
 sailundu.xyz CNAME .
 sakcerl.ehrydnmdoe.com CNAME .
 sansuni.xyz CNAME .
+satisfaction399.fun CNAME .
 satmon.neekstore.com CNAME .
 scottk.hubhubhub.name CNAME .
 sda.seksohub.com CNAME .
@@ -744,6 +756,7 @@ solo.chinese-sex-tube.com CNAME .
 sor.pornxok.com CNAME .
 sp1.freeonlinegayporn.com CNAME .
 spa.arabtoons.net CNAME .
+spokesperson254.fun CNAME .
 spyglass.reklamko.pro CNAME .
 spyglass.reklon.net CNAME .
 srtw.neigh11.xyz CNAME .

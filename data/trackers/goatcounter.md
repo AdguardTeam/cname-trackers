@@ -10,6 +10,7 @@
     * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
     * gamecraft.goatcounter.com
+    * gpuzelenograd-github.goatcounter.com
     * howwtf.goatcounter.com
     * jakebailey.goatcounter.com
     * johanneswienke.goatcounter.com
@@ -35,6 +36,7 @@
 | analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
+| github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | stats.jakebailey.dev | jakebailey.goatcounter.com |
 | stats.johanneswienke.de | johanneswienke.goatcounter.com |

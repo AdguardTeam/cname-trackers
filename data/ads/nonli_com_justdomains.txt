@@ -75,6 +75,7 @@ l.ouest-france.fr
 l.programme-tv.net
 l.programme.tv
 l.radiofrance.fr
+l.reporterre.net
 l.rmc.fr
 l.rmcsport.fr
 l.sciencesetavenir.fr
@@ -88,5 +89,6 @@ l.traxmag.com
 l.varmatin.com
 l.voici.fr
 sur.corsematin.com
+sur.laprovence.com
 www.20min.fr
 www.altereco.media

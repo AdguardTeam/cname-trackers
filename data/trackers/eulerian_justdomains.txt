@@ -2,6 +2,7 @@
 # Company name: Eulerian
 0sbm.consobaby.co.uk
 16ao.mathon.fr
+1bva.sg.fr
 1ctc.sfr.fr
 2efj.economies.cheque-dejeuner.com
 2efj.up.coop
@@ -47,7 +48,6 @@ aod4.societegenerale.fr
 ar.allrun.fr
 ar.i-run.fr
 azg1.emalu-store.com
-b1n.carabins.umontreal.ca
 bch8.destinia.co
 bdj5.terrassesmontecarlosbm.com
 bft5.destinia.fr
@@ -58,6 +58,7 @@ bn.voyage-prive.com
 bpe2.destinia.co.il
 bum7.bymycar.fr
 bwj4.hrhibiza.com
+c0i.ckoi.com
 c4dv.copinesdevoyage.com
 ca.clubavantages.net
 cbl6.destinia.gt
@@ -377,7 +378,6 @@ qpc4.visilab.ch
 qpl9.destinia.dk
 qtj0.destinia.pl
 quk9.destinia.com.ar
-qyn6.ofertastelecable.es
 qzl8.destinia.fi
 qzu5.carrefour-banque.fr
 r1ztni.oui.sncf
@@ -466,6 +466,7 @@ why3.inseec.education
 wlp3.aegon.es
 wnd2.destinia.cat
 wph2.destinia.us
+www.attribution-school.com
 www.dataholics.tech
 www.fasttrack.fr
 www.fasttracker.fr
@@ -491,7 +492,7 @@ zsi7.destinia.do
 zum7cc.oui.sncf
 zyq2.destinia.sk
 5fm.985fm.ca
-c0i.ckoi.com
+b1n.carabins.umontreal.ca
 c0p.cepsum.umontreal.ca
 d2u.dauphinquebec.com
 eat9.thebeat925.ca

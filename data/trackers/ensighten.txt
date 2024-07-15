@@ -47,6 +47,7 @@
 ||activate.ranchosantafereview.com^
 ||activate.redeyechicago.com^
 ||activate.shopjustice.com^
+||activate.solanabeachsun.com^
 ||activate.southflorida.com^
 ||activate.sun-sentinel.com^
 ||activate.suncorp.com.au^

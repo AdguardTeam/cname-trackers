@@ -294,6 +294,7 @@ dekovacka.hezkres.cz
 doporuc.hopsej.cz
 doporuc.konferenceryba.cz
 doporuc.mechaneo.cz
+doporuc.necojakocola.cz
 doporucim.zjistitcenu.cz
 equilist.raj-ohlavek.cz
 hcaffil.mironet.cz
@@ -422,7 +423,6 @@ my.weplayvolleyball.ro
 my.weplayvolleyball.si
 my.weplayvolleyball.sk
 online.pdfknihovna.cz
-owayfamily.ecoorganicbeauty.cz
 partak.surfey.cz
 partener.aeriumshop.ro
 partner-affilbox.telly.cz
@@ -450,6 +450,7 @@ partner.bed4dogs.com
 partner.bio-nechty.sk
 partner.bio-nehty.cz
 partner.bioaromakosmetika.cz
+partner.biomag.cz
 partner.bitcoinzmenaren.sk
 partner.bohemiaclean.eu
 partner.bohempia.com
@@ -554,6 +555,7 @@ partner.hoska-tour.cz
 partner.hothousecucumber.com
 partner.hubnu.online
 partner.hubnutimarija.cz
+partner.idoklad.cz
 partner.investinslovakia.eu
 partner.iodesign.cz
 partner.ioznameni.cz
@@ -675,6 +677,7 @@ partner.slimpasta.cz
 partner.slimpasta.sk
 partner.smoothiekniha.sk
 partner.spokojenypes.cz
+partner.spopo.cz
 partner.sporthangar.cz
 partner.starnails.cz
 partner.stavario.com
@@ -898,7 +901,7 @@ splatky.aquatrend.sk
 splatkyzanulu.datart.sk
 spolu.kuskakaa.cz
 spoluhraci.decathlon.cz
-spoluprace.amalcino.cz
+spolupraca.aretacia-rozvodov.sk
 spoluprace.aretacni-pripravky.cz
 spoluprace.bafoo.cz
 spoluprace.blackkale.cz

@@ -186,6 +186,7 @@
     * h-autozone.online-metrix.net
     * h-avant.online-metrix.net
     * h-axiata.online-metrix.net
+    * h-b2u9vacd.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
     * h-b3m5a8st.online-metrix.net
     * h-b3zpl92l.online-metrix.net
@@ -585,6 +586,7 @@
     * h-pcconnection1.online-metrix.net
     * h-pcconnection2.online-metrix.net
     * h-pci51dt4.online-metrix.net
+    * h-pefcu.online-metrix.net
     * h-pensionfund.online-metrix.net
     * h-personifyfinancial.online-metrix.net
     * h-phub.com.online-metrix.net
@@ -834,6 +836,7 @@
 | fp.marisota.co.uk | h-2n067wr9.online-metrix.net |
 | fp.premierman.com | h-2n067wr9.online-metrix.net |
 | fp.simplybe.co.uk | h-2n067wr9.online-metrix.net |
+| tmx.banquemanuvie.com | h-2odx9gtz.online-metrix.net |
 | tmx.manulifebank.com | h-2odx9gtz.online-metrix.net |
 | claimant.vec.virginia.gov | h-2qfdtlmr.online-metrix.net |
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
@@ -964,7 +967,14 @@
 | regstat.skyvegas.com | h-94b5bk32.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
+| tmcdn.gamingclub.com | h-98oju8tz.online-metrix.net |
+| tmcdn.jackpotcity.ca | h-98oju8tz.online-metrix.net |
+| tmcdn.jackpotcitycasino.com | h-98oju8tz.online-metrix.net |
+| tmcdn.rubyfortune.com | h-98oju8tz.online-metrix.net |
 | tmcdn.spincasino.ca | h-98oju8tz.online-metrix.net |
+| tmcdn.spincasino.com | h-98oju8tz.online-metrix.net |
+| tmcdn.spincasino.mx | h-98oju8tz.online-metrix.net |
+| tmcdn.spinpalace.com | h-98oju8tz.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
 | wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
 | img2.bbva.com.ar | h-9i4fauog.online-metrix.net |
@@ -1038,6 +1048,7 @@
 | mobile-content-f.autozone.com | h-autozone.online-metrix.net |
 | img2.avant.com | h-avant.online-metrix.net |
 | caveo.boost-my.com | h-axiata.online-metrix.net |
+| ln.acornfun.com | h-b2u9vacd.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
 | tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |
@@ -1566,6 +1577,7 @@
 | rvw.macconnection.com | h-pcconnection1.online-metrix.net |
 | rvw.govconnection.com | h-pcconnection2.online-metrix.net |
 | tm.promotion-cdn.com | h-pci51dt4.online-metrix.net |
+| content.pefcu.com | h-pefcu.online-metrix.net |
 | img02.pensionfund.org | h-pensionfund.online-metrix.net |
 | content.personifyfinancial.com | h-personifyfinancial.online-metrix.net |
 | rba.phub-im.uhg.com | h-phub.com.online-metrix.net |

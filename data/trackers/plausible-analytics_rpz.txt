@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -48,6 +48,7 @@ analytics.recamov.com CNAME .
 analytics.sideprojectsoftware.com CNAME .
 analytics.sixfigureswine.com CNAME .
 analytics.teamcovenant.com CNAME .
+analytics.thegroupbuyexperiment.com CNAME .
 analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
@@ -265,7 +266,6 @@ plausible.treelightsoftware.com CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.veszelovszki.com CNAME .
 plausible.visitu.com CNAME .
-plausible.viteshot.com CNAME .
 plausible.west.io CNAME .
 plausible.x.baychi.org CNAME .
 plausible.yalepaprika.com CNAME .
@@ -567,7 +567,6 @@ stats.interactjs.io CNAME .
 stats.interruptor.pt CNAME .
 stats.intheloop.dev CNAME .
 stats.intothebox.org CNAME .
-stats.invoice.orballo.dev CNAME .
 stats.ipadhire.co.nz CNAME .
 stats.isabelsommerfeld.com CNAME .
 stats.iscc-system.org CNAME .
@@ -668,6 +667,7 @@ stats.napaconnect.ca CNAME .
 stats.navedislam.com CNAME .
 stats.nddmed.com CNAME .
 stats.nerdbusiness.com CNAME .
+stats.new.sublimesecurity.com CNAME .
 stats.newslit.co CNAME .
 stats.nexagon.dk CNAME .
 stats.nodewood.com CNAME .
@@ -741,7 +741,6 @@ stats.rasulkireev.com CNAME .
 stats.reactician.com CNAME .
 stats.readng.co CNAME .
 stats.redlabelsports.com CNAME .
-stats.redpandabooks.com CNAME .
 stats.referralhero.com CNAME .
 stats.rehaag-immobilien.de CNAME .
 stats.reisemobil.pro CNAME .

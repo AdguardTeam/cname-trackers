@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,6 +86,7 @@ l.ouest-france.fr CNAME .
 l.programme-tv.net CNAME .
 l.programme.tv CNAME .
 l.radiofrance.fr CNAME .
+l.reporterre.net CNAME .
 l.rmc.fr CNAME .
 l.rmcsport.fr CNAME .
 l.sciencesetavenir.fr CNAME .
@@ -99,5 +100,6 @@ l.traxmag.com CNAME .
 l.varmatin.com CNAME .
 l.voici.fr CNAME .
 sur.corsematin.com CNAME .
+sur.laprovence.com CNAME .
 www.20min.fr CNAME .
 www.altereco.media CNAME .

@@ -508,6 +508,7 @@ tr.information.labelleadresse.com
 tr.information.lacollection-airfrance.be
 tr.information.lacollection-airfrance.ch
 tr.information.lacollection-airfrance.co.uk
+tr.information.lacollection-airfrance.de
 tr.information.lacollection-airfrance.fr
 tr.information.leclubtravel.fr
 tr.information.perfectstay.com
@@ -533,6 +534,7 @@ tr.invitation-mesdessous.fr
 tr.invitation.perfectstay.com
 tr.ipsos-surveys.com
 tr.ispaconsulting.com
+tr.it4brands-com.moethennessy.com
 tr.italia.plimsoll.it
 tr.jend.espmp-pofr.net
 tr.jesuis.enformedelotus.com
@@ -718,6 +720,7 @@ tr.news.devisdirect.be
 tr.news.devisdirect.com
 tr.news.digitpjms.fr
 tr.news.directeo.fr
+tr.news.drveto.com
 tr.news.easy-voyage.com
 tr.news.easyviaggio.com
 tr.news.easyviajar.com

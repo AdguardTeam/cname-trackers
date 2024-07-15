@@ -740,6 +740,7 @@
 ||data-53ba3c279a.apps.iocnt.de^
 ||data-53ce61d695.bike-x.de^
 ||data-545e23e607.kosmo.at^
+||data-5492b7d422.fupa.net^
 ||data-5492b7d422.mz-jobs.de^
 ||data-5492b7d422.mz.de^
 ||data-5492b7d422.rblive.de^
@@ -936,6 +937,7 @@
 ||data-684c5faba8.okmag.de^
 ||data-686f12c8aa.regionaljobs.at^
 ||data-69f8b27f58.deutsche-handwerks-zeitung.de^
+||data-6a61a15cf3.laendleanzeiger.at^
 ||data-6a83b9cb11.liferadio.tirol^
 ||data-6ad61cf514.das-onlinespiel.de^
 ||data-6ad61cf514.petra.de^
@@ -1304,6 +1306,7 @@
 ||data-975521d9ad.horizont.net^
 ||data-975521d9ad.horizontjobs.de^
 ||data-97d159685e.gemeinsam-gedenken.de^
+||data-97d159685e.jobsbb.de^
 ||data-97d159685e.szbz.de^
 ||data-98b5a11c9b.addradio.de^
 ||data-98b5a11c9b.radiolippe.de^
@@ -2141,6 +2144,7 @@
 ||data-f59db3288b.24hamburg.de^
 ||data-f59db3288b.24rhein.de^
 ||data-f59db3288b.24royal.de^
+||data-f59db3288b.24sport.de^
 ||data-f59db3288b.24vita.de^
 ||data-f59db3288b.az-online.de^
 ||data-f59db3288b.baden24.de^

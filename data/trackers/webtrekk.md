@@ -100,7 +100,6 @@
     * 467284992404886.wt-eu02.net
     * 467808562573270.wt-eu02.net
     * 470719744966924.wt-eu02.net
-    * 472882311545060.wt-eu02.net
     * 475966354471123.wt-eu02.net
     * 481394388917209.wt-eu02.net
     * 482221458407393.wt-eu02.net
@@ -330,7 +329,6 @@
 | webt.eu.teac-audio.com | 470719744966924.wt-eu02.net |
 | webt.pure-audio.com | 470719744966924.wt-eu02.net |
 | webt.store.okmilo.com | 470719744966924.wt-eu02.net |
-| web.email.zone3.com | 472882311545060.wt-eu02.net |
 | startrekk.flaconi.ch | 475966354471123.wt-eu02.net |
 | web.crm.beps.it | 481394388917209.wt-eu02.net |
 | web.crm.speedup.it | 481394388917209.wt-eu02.net |

@@ -317,7 +317,6 @@
 ||secure.yami8alea.com^
 ||secure.yeld9auto.com^
 ||secure.yirr5frog.com^
-||www.1-cl0ud.com^
 ||www.1-creative-1.com^
 ||www.100-flannelman.com^
 ||www.143nchrtl3.com^
@@ -419,6 +418,7 @@
 ||www.dens1raec.com^
 ||www.dhenr54m.com^
 ||www.dial4gwyn.com^
+||www.diet3dart.com^
 ||www.direct-aws-a1.com^
 ||www.direct-azr-78.com^
 ||www.djkeun1bal.com^
@@ -443,7 +443,6 @@
 ||www.eventcapture03.com^
 ||www.eventcapture06.com^
 ||www.ever-track-51.com^
-||www.explore-123.com^
 ||www.fear7calk.com^
 ||www.feed5baby.com^
 ||www.feed5mown.com^
@@ -489,12 +488,10 @@
 ||www.inc9lineedge.com^
 ||www.incline9edge.com^
 ||www.indpcr1.com^
-||www.infra-gtc.com^
 ||www.insightful-company-52.com^
 ||www.insightfulbusinesswisdom.com^
 ||www.insightfulcompanyinsight.com^
 ||www.intelligence-enterprise.com^
-||www.intelligence52.com^
 ||www.intelligent-company-foresight.com^
 ||www.intelligent-data-247.com^
 ||www.intelligentcompanywisdom.com^
@@ -578,7 +575,6 @@
 ||www.nice3aiea.com^
 ||www.nipe4head.com^
 ||www.node7seat.com^
-||www.nong3bram.com^
 ||www.nora7nice.com^
 ||www.norm0care.com^
 ||www.nw-rail-03.com^
@@ -604,7 +600,6 @@
 ||www.peak-ip-54.com^
 ||www.peak2poem.com^
 ||www.peep1alea.com^
-||www.perk0mean.com^
 ||www.pkrchp001.com^
 ||www.plokij1.com^
 ||www.plug1luge.com^
@@ -842,6 +837,7 @@
 ||secure.1-cl0ud.com^
 ||secure.bux1le001.com^
 ||secure.enterprisingconsortium.com^
+||www.1-cl0ud.com^
 ||www.123-tracker.com^
 ||www.200summit.com^
 ||www.52data-venture.com^
@@ -857,16 +853,18 @@
 ||www.cloudtracer101.com^
 ||www.core-cen-54.com^
 ||www.detailsinspiration-data.com^
-||www.diet3dart.com^
 ||www.discover-path.com^
 ||www.discovertrail.net^
 ||www.ela-3-tnk.com^
 ||www.elite-s001.com^
 ||www.enterprise-consortiumoperation.com^
+||www.explore-123.com^
 ||www.forensics1000.com^
 ||www.gtcslt-di2.com^
 ||www.hunt-leads.com^
 ||www.imaginative-trade7.com^
+||www.infra-gtc.com^
+||www.intelligence52.com^
 ||www.intuition-agile-7.com^
 ||www.ksyrium0014.com^
 ||www.lead-123.com^
@@ -874,8 +872,10 @@
 ||www.m1ll1c4n0.com^
 ||www.me1294hlx.com^
 ||www.mialbj6.com^
+||www.nong3bram.com^
 ||www.ours3care.com^
 ||www.pass-1234.com^
+||www.perk0mean.com^
 ||www.pto-slb-09.com^
 ||www.rng-snp-003.com^
 ||www.san-spr-01.net^
@@ -901,6 +901,4 @@
 ||watson.microsoft.com^
 ||partners.dudley.gov.uk^
 ||segment-api.inrix.com^
-||telemetry-eastus.trafficmanager.inmobi.com^
-||telemetry.sdk.inmobi.com^
 ||utm.shireburn.com^

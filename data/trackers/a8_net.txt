@@ -1029,7 +1029,6 @@
 ||a8cv.machi-ene.jp^
 ||a8cv.machicon.jp^
 ||a8cv.macloud.jp^
-||a8cv.madoguchi.com^
 ||a8cv.maenomery.jp^
 ||a8cv.magniflexk.com^
 ||a8cv.mamarket.co.jp^
@@ -1334,6 +1333,7 @@
 ||a8wristcut.ike-sunshine.co.jp^
 ||a8x.piece-kaitori.jp^
 ||ac.livelty.com^
+||acv.au-hikari-kddi.com^
 ||acv.auhikari-norikae.com^
 ||acv.aun-air-wifi.com^
 ||acv.aun-company.com^

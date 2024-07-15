@@ -1,6 +1,8 @@
 #
 # Company name: Aquaplatform
 adamsads.midtc.com
+adconsole.lot-tissimo.com
+adconsole.sniffies.com
 adimages.eva.live
 adimages.sniffies.com
 ads-delivery.milenarmedia.pt
@@ -24,15 +26,19 @@ adserver.marriagetrac.com
 adserver.rtvutrechtreclame.nl
 adserver.sniffies.com
 adserver.sonicplug.com
+adstatic.kozoom.com
 adv.consulcesi.it
 adv.unionesarda.it
 advertising.goldseek.com
 api.metrike.com
 assets.lintigroup.se
+banners.geminipub.com
 banners.leightonbroadcasting.com
 banners.orangecoast.com
 cdn-adv.unionesarda.it
 cdn.datateam.co.uk
+cdn.leightonbroadcasting.com
+cdn.mequoda.com
 cdn.myadsmyanmar.com
 cdn.personare.com.br
 cdn.pinktriangle.ca
@@ -40,7 +46,10 @@ cdn.revive-adserver.net
 cdn.rlnads.net
 championads.midtc.com
 console.adbility-media.com
+console.hour-media.com
+console.imagineobx.com
 console.informingnews.com
+console.livingmagonline.com
 console.mannixmarketing.com
 console.revive-adserver.net
 coreads.cambridge.org
@@ -111,5 +120,8 @@ static.trackandfieldnews.com
 tlads.midtc.com
 treehouse.wwoz.org
 www.proforums.com
+www.revive-static.worldscreen.com
 www.revive.ahk.de
+www.servedby.greenspring.com
+www.servedby.quirks.com
 xtraa-secure.reviveservers.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1720425608259        ; Serial
+           1721030408904        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -337,6 +337,7 @@ $TTL 300
 3362426.notifysrv.com CNAME .
 3363688.notify6.com CNAME .
 3365442.notifysrv.com CNAME .
+3373381.notify6.com CNAME .
 3376753.notifysrv.com CNAME .
 3382743.notify6.com CNAME .
 3382743.notifysrv.com CNAME .
@@ -1076,11 +1077,11 @@ a.asvsm.com CNAME .
 a.b7q9v8z.com CNAME .
 a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
+a.etology.com CNAME .
 a.eunow4u.com CNAME .
 a.ma3ion.com CNAME .
 a.n4m5x60.com CNAME .
 a.optimizesrv.com CNAME .
-a.paradoxgroup.uk CNAME .
 a.q88z1s3.com CNAME .
 a.r8lnet.com CNAME .
 a.redpathmedia.com CNAME .
@@ -1194,7 +1195,6 @@ s.optidigital.com CNAME .
 s.optnx.com CNAME .
 s.optzsrv.com CNAME .
 s.orbsrv.com CNAME .
-s.paradoxgroup.uk CNAME .
 s.pemsrv.com CNAME .
 s.q88z1s3.com CNAME .
 s.redpathmedia.com CNAME .
@@ -1276,5 +1276,4 @@ www.8.notify.bizonads-ssp.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
-a.etology.com CNAME .
 ads.optimizesrv.com CNAME .

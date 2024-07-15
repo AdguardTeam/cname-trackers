@@ -16,7 +16,6 @@
 * onedsblobprdcus07.centralus.cloudapp.azure.com
 * waws-prod-ln1-117-4094.uksouth.cloudapp.azure.com
 * segment-api.inrix.com.trafficmanager.net
-* telemetry.sdk.eastus-ssp.appgw.inmobi.com
 * utm.trafficmanager.net
 
 ## Cloaking domains
@@ -340,7 +339,6 @@
 | secure.yami8alea.com | ghochv3eng.trafficmanager.net |
 | secure.yeld9auto.com | ghochv3eng.trafficmanager.net |
 | secure.yirr5frog.com | ghochv3eng.trafficmanager.net |
-| www.1-cl0ud.com | ghochv3eng.trafficmanager.net |
 | www.1-creative-1.com | ghochv3eng.trafficmanager.net |
 | www.100-flannelman.com | ghochv3eng.trafficmanager.net |
 | www.143nchrtl3.com | ghochv3eng.trafficmanager.net |
@@ -442,6 +440,7 @@
 | www.dens1raec.com | ghochv3eng.trafficmanager.net |
 | www.dhenr54m.com | ghochv3eng.trafficmanager.net |
 | www.dial4gwyn.com | ghochv3eng.trafficmanager.net |
+| www.diet3dart.com | ghochv3eng.trafficmanager.net |
 | www.direct-aws-a1.com | ghochv3eng.trafficmanager.net |
 | www.direct-azr-78.com | ghochv3eng.trafficmanager.net |
 | www.djkeun1bal.com | ghochv3eng.trafficmanager.net |
@@ -466,7 +465,6 @@
 | www.eventcapture03.com | ghochv3eng.trafficmanager.net |
 | www.eventcapture06.com | ghochv3eng.trafficmanager.net |
 | www.ever-track-51.com | ghochv3eng.trafficmanager.net |
-| www.explore-123.com | ghochv3eng.trafficmanager.net |
 | www.fear7calk.com | ghochv3eng.trafficmanager.net |
 | www.feed5baby.com | ghochv3eng.trafficmanager.net |
 | www.feed5mown.com | ghochv3eng.trafficmanager.net |
@@ -512,12 +510,10 @@
 | www.inc9lineedge.com | ghochv3eng.trafficmanager.net |
 | www.incline9edge.com | ghochv3eng.trafficmanager.net |
 | www.indpcr1.com | ghochv3eng.trafficmanager.net |
-| www.infra-gtc.com | ghochv3eng.trafficmanager.net |
 | www.insightful-company-52.com | ghochv3eng.trafficmanager.net |
 | www.insightfulbusinesswisdom.com | ghochv3eng.trafficmanager.net |
 | www.insightfulcompanyinsight.com | ghochv3eng.trafficmanager.net |
 | www.intelligence-enterprise.com | ghochv3eng.trafficmanager.net |
-| www.intelligence52.com | ghochv3eng.trafficmanager.net |
 | www.intelligent-company-foresight.com | ghochv3eng.trafficmanager.net |
 | www.intelligent-data-247.com | ghochv3eng.trafficmanager.net |
 | www.intelligentcompanywisdom.com | ghochv3eng.trafficmanager.net |
@@ -601,7 +597,6 @@
 | www.nice3aiea.com | ghochv3eng.trafficmanager.net |
 | www.nipe4head.com | ghochv3eng.trafficmanager.net |
 | www.node7seat.com | ghochv3eng.trafficmanager.net |
-| www.nong3bram.com | ghochv3eng.trafficmanager.net |
 | www.nora7nice.com | ghochv3eng.trafficmanager.net |
 | www.norm0care.com | ghochv3eng.trafficmanager.net |
 | www.nw-rail-03.com | ghochv3eng.trafficmanager.net |
@@ -627,7 +622,6 @@
 | www.peak-ip-54.com | ghochv3eng.trafficmanager.net |
 | www.peak2poem.com | ghochv3eng.trafficmanager.net |
 | www.peep1alea.com | ghochv3eng.trafficmanager.net |
-| www.perk0mean.com | ghochv3eng.trafficmanager.net |
 | www.pkrchp001.com | ghochv3eng.trafficmanager.net |
 | www.plokij1.com | ghochv3eng.trafficmanager.net |
 | www.plug1luge.com | ghochv3eng.trafficmanager.net |
@@ -773,8 +767,6 @@
 | watson.microsoft.com | onedsblobprdcus07.centralus.cloudapp.azure.com |
 | analytics-hub.3plearning.com | ppphubanalytics.eastus2.cloudapp.azure.com |
 | segment-api.inrix.com | segment-api.inrix.com.trafficmanager.net |
-| telemetry-eastus.trafficmanager.inmobi.com | telemetry.sdk.eastus-ssp.appgw.inmobi.com |
-| telemetry.sdk.inmobi.com | telemetry.sdk.eastus-ssp.appgw.inmobi.com |
 | mail.semilab.hu | utm.semilab.trafficmanager.net |
 | utm.semilab.hu | utm.semilab.trafficmanager.net |
 | utm.shireburn.com | utm.trafficmanager.net |
@@ -1295,10 +1287,12 @@
 | www.inc9lineedge.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.incline9edge.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.indpcr1.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
+| www.infra-gtc.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.insightful-company-52.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.insightfulbusinesswisdom.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.insightfulcompanyinsight.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.intelligence-enterprise.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
+| www.intelligence52.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.intelligent-company-foresight.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.intelligent-data-247.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.intelligentcompanywisdom.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
@@ -1389,6 +1383,7 @@
 | www.nice3aiea.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.nipe4head.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.node7seat.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
+| www.nong3bram.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.nora7nice.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.norm0care.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
 | www.nw-rail-03.com | v3-eu-appgwv2.uksouth.cloudapp.azure.com |
