@@ -330,7 +330,6 @@
 | st.picshuffle.com | custom.plausible.io |
 | st.preciousamber.com | custom.plausible.io |
 | st.tulastudio.se | custom.plausible.io |
-| starman.floorcleanse.co.uk | custom.plausible.io |
 | stat.bill.harding.blog | custom.plausible.io |
 | stat.landingpro.pl | custom.plausible.io |
 | stat.recklesslove.co.za | custom.plausible.io |

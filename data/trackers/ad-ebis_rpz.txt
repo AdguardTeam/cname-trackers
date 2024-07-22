@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -162,6 +162,7 @@ cname.lions-mansion.jp CNAME .
 cname.mebiusseiyaku.co.jp CNAME .
 cname.mitsuihome.co.jp CNAME .
 cname.nikkei-cnbc.co.jp CNAME .
+cname.sokuyaku.jp CNAME .
 cname1.shakenkan.co.jp CNAME .
 cname2.shaken-yoyaku.com CNAME .
 cnameebis.eizoshigoto.com CNAME .
@@ -176,6 +177,8 @@ cs0010sbeda.theory-diet.com CNAME .
 cs1470sbeda.schoolasp.com CNAME .
 cs1863sbeda.glaucoma-arrest.net CNAME .
 cs2113sbeda.hokto-onlineshop.jp CNAME .
+cv-adebis.my-studies.net CNAME .
+cv-adebis.nlpjapan.co.jp CNAME .
 cvs.kireimo.jp CNAME .
 d-kint.d-kintetsu.co.jp CNAME .
 digital.anicom-sompo.co.jp CNAME .

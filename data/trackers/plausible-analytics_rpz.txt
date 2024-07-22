@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -328,7 +328,6 @@ st.anastasija.lt CNAME .
 st.picshuffle.com CNAME .
 st.preciousamber.com CNAME .
 st.tulastudio.se CNAME .
-starman.floorcleanse.co.uk CNAME .
 stat.bill.harding.blog CNAME .
 stat.landingpro.pl CNAME .
 stat.recklesslove.co.za CNAME .

@@ -770,6 +770,7 @@
 | prod-ascuaz.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-baxter.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-blucurrent.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-cardinal.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-cfcuwi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-citadel.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-comfin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -967,9 +968,12 @@
 | regstat.skyvegas.com | h-94b5bk32.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
+| tmcdn.europalace.com | h-98oju8tz.online-metrix.net |
 | tmcdn.gamingclub.com | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcity.ca | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcitycasino.com | h-98oju8tz.online-metrix.net |
+| tmcdn.luckynuggetcasino.com | h-98oju8tz.online-metrix.net |
+| tmcdn.mummysgold.com | h-98oju8tz.online-metrix.net |
 | tmcdn.rubyfortune.com | h-98oju8tz.online-metrix.net |
 | tmcdn.spincasino.ca | h-98oju8tz.online-metrix.net |
 | tmcdn.spincasino.com | h-98oju8tz.online-metrix.net |
@@ -1803,6 +1807,7 @@
 | om.pgw.fcbarcelona.com | h.online-metrix.net |
 | ons.tickets.com | h.online-metrix.net |
 | payrisk-tmx.didiglobal.com | h.online-metrix.net |
+| validacion.rayo.com.co | h.online-metrix.net |
 | portal-fp-qa1.qa.threatmetrix.com | qa1-h.online-metrix.net |
 | invalid-qa2.threatmetrix.com | qa2-h.online-metrix.net |
 | portal-fp-qa2.qa.threatmetrix.com | qa2-h.online-metrix.net |

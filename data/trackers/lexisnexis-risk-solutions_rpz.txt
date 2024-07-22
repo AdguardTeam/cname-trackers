@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -661,6 +661,7 @@ prod-apcifcu.chaperone.lumindigitalhosting.com CNAME .
 prod-ascuaz.chaperone.lumindigitalhosting.com CNAME .
 prod-baxter.chaperone.lumindigitalhosting.com CNAME .
 prod-blucurrent.chaperone.lumindigitalhosting.com CNAME .
+prod-cardinal.chaperone.lumindigitalhosting.com CNAME .
 prod-cfcuwi.chaperone.lumindigitalhosting.com CNAME .
 prod-citadel.chaperone.lumindigitalhosting.com CNAME .
 prod-comfin.chaperone.lumindigitalhosting.com CNAME .
@@ -959,10 +960,13 @@ tm.tbcbank.uz CNAME .
 tm.telecharge.com CNAME .
 tm.uship.com CNAME .
 tm.verify.illion.com.au CNAME .
+tmcdn.europalace.com CNAME .
 tmcdn.gamingclub.com CNAME .
 tmcdn.homeaway.com CNAME .
 tmcdn.jackpotcity.ca CNAME .
 tmcdn.jackpotcitycasino.com CNAME .
+tmcdn.luckynuggetcasino.com CNAME .
+tmcdn.mummysgold.com CNAME .
 tmcdn.rubyfortune.com CNAME .
 tmcdn.spincasino.ca CNAME .
 tmcdn.spincasino.com CNAME .
@@ -1030,6 +1034,7 @@ v.marcus.co.uk CNAME .
 v.marcus.com CNAME .
 v.sagasavings.co.uk CNAME .
 valcontent.securustech.net CNAME .
+validacion.rayo.com.co CNAME .
 validacionlx.agaval.com CNAME .
 verification.ndtco.com CNAME .
 verify.metlife.com CNAME .

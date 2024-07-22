@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -79,10 +79,12 @@ cdn.jhkfd.com CNAME .
 cdn.jhoncj.com CNAME .
 cdn.jitanvlw.com CNAME .
 cdn.jklpy.com CNAME .
+cdn.jkpes.com CNAME .
 cdn.jwalf.com CNAME .
 cdn.karpatzi.com CNAME .
 cdn.keajs.com CNAME .
 cdn.kfjhd.com CNAME .
+cdn.kizan.cloud CNAME .
 cdn.mafyak.com CNAME .
 cdn.masbpi.com CNAME .
 cdn.miluwo.com CNAME .
@@ -107,6 +109,7 @@ cdn.pfiuyt.com CNAME .
 cdn.piuyt.com CNAME .
 cdn.pllah.com CNAME .
 cdn.plmwsl.com CNAME .
+cdn.plowh.com CNAME .
 cdn.plrst.com CNAME .
 cdn.posawaj.com CNAME .
 cdn.ptomw.com CNAME .
@@ -137,6 +140,7 @@ cdn.ulesxbo.com CNAME .
 cdn.vcxzp.com CNAME .
 cdn.vehosw.com CNAME .
 cdn.verwh.com CNAME .
+cdn.vinit.cloud CNAME .
 cdn.viowrel.com CNAME .
 cdn.vonkol.com CNAME .
 cdn.wurqaz.com CNAME .
@@ -145,10 +149,12 @@ cdn.xbcpcn.com CNAME .
 cdn.xipteq.com CNAME .
 cdn.xwqea.com CNAME .
 cdn.ytihp.com CNAME .
+cdn.ziblo.cloud CNAME .
 cdn.zikpwr.com CNAME .
 cdn.zivtux.com CNAME .
 cdn.zkcvb.com CNAME .
 cdn.zxclan.com CNAME .
+1.bunkr-cache.se CNAME .
 4ke5b4ila.codedge.de CNAME .
 7wrxo2xh.iriscreative.co CNAME .
 8inhjmd.usefathom.com CNAME .
@@ -536,7 +542,6 @@ grouse.yannev.es CNAME .
 guan.domainnamesanity.com CNAME .
 guan.elfenkueche.at CNAME .
 guan.lathamcommunications.com CNAME .
-guanaco.jden.me CNAME .
 guanaco.redpixelthemes.com CNAME .
 guanaco.shelter.stream CNAME .
 guineapig.espressive.com CNAME .
@@ -1102,6 +1107,7 @@ yak.gregsullivan.com CNAME .
 yak.withlindy.com CNAME .
 ads.djc.com CNAME .
 allnews.chestertelegraph.org CNAME .
+apogee.spacenews.com CNAME .
 assets-v2.boisedev.com CNAME .
 assets-v2.invaluable.com CNAME .
 assets-v2.northsidesun.com CNAME .
@@ -1128,6 +1134,7 @@ sponsors-v2.locablepublishernetwork.com CNAME .
 sponsors-v2.urbanistnetwork.com CNAME .
 sponsors.asisonline.org CNAME .
 sponsors.bicmagazine.com CNAME .
+sponsors.compactequip.com CNAME .
 sponsors.floorforce.com CNAME .
 sponsors.inklink.news CNAME .
 sponsors.localcityplaces.com CNAME .

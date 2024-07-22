@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -139,7 +139,6 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em3904.skillshare.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -156,6 +155,7 @@ love.suncoastcreditunion.com CNAME .
 my.kotn.com CNAME .
 pals.petco.com CNAME .
 promos.zinli.com CNAME .
+propertyperks.xfinity.com CNAME .
 q.share.qvcemail.com CNAME .
 recommander.quickbooks.ca CNAME .
 refer-photo.cvs.com CNAME .
@@ -181,7 +181,6 @@ refer.ataglance.com CNAME .
 refer.athleta.com CNAME .
 refer.athletawell.com CNAME .
 refer.aveda.com CNAME .
-refer.avocadogreenmattress.com CNAME .
 refer.awscloud.com CNAME .
 refer.ballarddesigns.com CNAME .
 refer.bananarepublic.com CNAME .
@@ -630,6 +629,7 @@ share.refer-cliniquekorea.co.kr CNAME .
 share.refer-darphin.com CNAME .
 share.refer-darphin.fr CNAME .
 share.refer-esteelauder.ca CNAME .
+share.refer-esteelauder.com.hk CNAME .
 share.refer-esteelauder.jp CNAME .
 share.refer-glamglow.com CNAME .
 share.refer-maccosmetics.ca CNAME .
@@ -655,6 +655,7 @@ share.safecu.org CNAME .
 share.saintjanebeauty.com CNAME .
 share.securityplusfcu.org CNAME .
 share.sesamecare.com CNAME .
+share.shibumishade.com CNAME .
 share.shoplc.com CNAME .
 share.shoptruespirit.com CNAME .
 share.shutterstock.com CNAME .
@@ -664,7 +665,6 @@ share.skillshare.com CNAME .
 share.skycop.com CNAME .
 share.smartcu.org CNAME .
 share.sstack.com CNAME .
-share.staging.acorns.io CNAME .
 share.stagsleap.com CNAME .
 share.starbucks.com CNAME .
 share.stargazette.com CNAME .
@@ -692,6 +692,7 @@ share.theoryoutlet.com CNAME .
 share.theprisonerwinecompany.com CNAME .
 share.tireagent.com CNAME .
 share.tommy.com CNAME .
+share.tonies.com CNAME .
 share.trafalgar.com CNAME .
 share.travelzoo.com CNAME .
 share.truckstop.com CNAME .
@@ -719,6 +720,7 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
+em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .

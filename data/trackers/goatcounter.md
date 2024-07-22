@@ -20,6 +20,7 @@
     * maple.goatcounter.com
     * msol.goatcounter.com
     * nhimmeo.goatcounter.com
+    * psiyum.goatcounter.com
     * satanisk.goatcounter.com
     * skeetstats.goatcounter.com
     * tailspace.goatcounter.com
@@ -46,6 +47,7 @@
 | st.mapleranks.com | maple.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
 | goat1.nhimmeo.cf | nhimmeo.goatcounter.com |
+| gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
 | goat.skeetstats.xyz | skeetstats.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |

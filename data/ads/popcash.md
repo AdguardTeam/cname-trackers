@@ -6,6 +6,7 @@
 
 ### Rarely active trackers
 
+* core-apps.b-cdn.net
 * deprecated-custom-domains.b-cdn.net
 * bs-adserver.b-cdn.net
 * video-ad.b-cdn.net
@@ -35,6 +36,7 @@
 | assets.diagomics.com | bannieres.b-cdn.net |
 | ads.djc.com | bs-adserver.b-cdn.net |
 | allnews.chestertelegraph.org | bs-adserver.b-cdn.net |
+| apogee.spacenews.com | bs-adserver.b-cdn.net |
 | assets-v2.boisedev.com | bs-adserver.b-cdn.net |
 | assets-v2.invaluable.com | bs-adserver.b-cdn.net |
 | assets-v2.northsidesun.com | bs-adserver.b-cdn.net |
@@ -61,6 +63,7 @@
 | sponsors-v2.urbanistnetwork.com | bs-adserver.b-cdn.net |
 | sponsors.asisonline.org | bs-adserver.b-cdn.net |
 | sponsors.bicmagazine.com | bs-adserver.b-cdn.net |
+| sponsors.compactequip.com | bs-adserver.b-cdn.net |
 | sponsors.floorforce.com | bs-adserver.b-cdn.net |
 | sponsors.inklink.news | bs-adserver.b-cdn.net |
 | sponsors.localcityplaces.com | bs-adserver.b-cdn.net |
@@ -74,6 +77,7 @@
 | sponsors.vvng.com | bs-adserver.b-cdn.net |
 | support-v2.sweetwaternow.com | bs-adserver.b-cdn.net |
 | consent.cookiefirst.com | consent.b-cdn.net |
+| 1.bunkr-cache.se | core-apps.b-cdn.net |
 | bcdn.cpmstar.com | cpmstar.b-cdn.net |
 | live-tag.creatopy.net | creatopy-adtag-production.b-cdn.net |
 | 4ke5b4ila.codedge.de | deprecated-custom-domains.b-cdn.net |
@@ -463,7 +467,6 @@
 | guan.domainnamesanity.com | deprecated-custom-domains.b-cdn.net |
 | guan.elfenkueche.at | deprecated-custom-domains.b-cdn.net |
 | guan.lathamcommunications.com | deprecated-custom-domains.b-cdn.net |
-| guanaco.jden.me | deprecated-custom-domains.b-cdn.net |
 | guanaco.redpixelthemes.com | deprecated-custom-domains.b-cdn.net |
 | guanaco.shelter.stream | deprecated-custom-domains.b-cdn.net |
 | guineapig.espressive.com | deprecated-custom-domains.b-cdn.net |
@@ -1096,10 +1099,12 @@
 | cdn.jhoncj.com | popcashjs.b-cdn.net |
 | cdn.jitanvlw.com | popcashjs.b-cdn.net |
 | cdn.jklpy.com | popcashjs.b-cdn.net |
+| cdn.jkpes.com | popcashjs.b-cdn.net |
 | cdn.jwalf.com | popcashjs.b-cdn.net |
 | cdn.karpatzi.com | popcashjs.b-cdn.net |
 | cdn.keajs.com | popcashjs.b-cdn.net |
 | cdn.kfjhd.com | popcashjs.b-cdn.net |
+| cdn.kizan.cloud | popcashjs.b-cdn.net |
 | cdn.mafyak.com | popcashjs.b-cdn.net |
 | cdn.masbpi.com | popcashjs.b-cdn.net |
 | cdn.miluwo.com | popcashjs.b-cdn.net |
@@ -1124,6 +1129,7 @@
 | cdn.piuyt.com | popcashjs.b-cdn.net |
 | cdn.pllah.com | popcashjs.b-cdn.net |
 | cdn.plmwsl.com | popcashjs.b-cdn.net |
+| cdn.plowh.com | popcashjs.b-cdn.net |
 | cdn.plrst.com | popcashjs.b-cdn.net |
 | cdn.posawaj.com | popcashjs.b-cdn.net |
 | cdn.ptomw.com | popcashjs.b-cdn.net |
@@ -1154,6 +1160,7 @@
 | cdn.vcxzp.com | popcashjs.b-cdn.net |
 | cdn.vehosw.com | popcashjs.b-cdn.net |
 | cdn.verwh.com | popcashjs.b-cdn.net |
+| cdn.vinit.cloud | popcashjs.b-cdn.net |
 | cdn.viowrel.com | popcashjs.b-cdn.net |
 | cdn.vonkol.com | popcashjs.b-cdn.net |
 | cdn.wurqaz.com | popcashjs.b-cdn.net |
@@ -1162,6 +1169,7 @@
 | cdn.xipteq.com | popcashjs.b-cdn.net |
 | cdn.xwqea.com | popcashjs.b-cdn.net |
 | cdn.ytihp.com | popcashjs.b-cdn.net |
+| cdn.ziblo.cloud | popcashjs.b-cdn.net |
 | cdn.zikpwr.com | popcashjs.b-cdn.net |
 | cdn.zivtux.com | popcashjs.b-cdn.net |
 | cdn.zkcvb.com | popcashjs.b-cdn.net |

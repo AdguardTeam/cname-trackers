@@ -128,7 +128,6 @@ acq.discover.com
 businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
-em3904.skillshare.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -145,6 +144,7 @@ love.suncoastcreditunion.com
 my.kotn.com
 pals.petco.com
 promos.zinli.com
+propertyperks.xfinity.com
 q.share.qvcemail.com
 recommander.quickbooks.ca
 refer-photo.cvs.com
@@ -170,7 +170,6 @@ refer.ataglance.com
 refer.athleta.com
 refer.athletawell.com
 refer.aveda.com
-refer.avocadogreenmattress.com
 refer.awscloud.com
 refer.ballarddesigns.com
 refer.bananarepublic.com
@@ -619,6 +618,7 @@ share.refer-cliniquekorea.co.kr
 share.refer-darphin.com
 share.refer-darphin.fr
 share.refer-esteelauder.ca
+share.refer-esteelauder.com.hk
 share.refer-esteelauder.jp
 share.refer-glamglow.com
 share.refer-maccosmetics.ca
@@ -644,6 +644,7 @@ share.safecu.org
 share.saintjanebeauty.com
 share.securityplusfcu.org
 share.sesamecare.com
+share.shibumishade.com
 share.shoplc.com
 share.shoptruespirit.com
 share.shutterstock.com
@@ -653,7 +654,6 @@ share.skillshare.com
 share.skycop.com
 share.smartcu.org
 share.sstack.com
-share.staging.acorns.io
 share.stagsleap.com
 share.starbucks.com
 share.stargazette.com
@@ -681,6 +681,7 @@ share.theoryoutlet.com
 share.theprisonerwinecompany.com
 share.tireagent.com
 share.tommy.com
+share.tonies.com
 share.trafalgar.com
 share.travelzoo.com
 share.truckstop.com
@@ -708,6 +709,7 @@ www.referessentials.com
 www.referquickbooks.com
 em1476.princesscruises.com
 em225.codecademy.com
+em3904.skillshare.com
 em4367.raf-studentloans.discover.com
 em8561.go2bank.com
 em8928.em.petco.com

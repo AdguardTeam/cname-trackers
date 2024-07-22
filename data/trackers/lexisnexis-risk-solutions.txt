@@ -650,6 +650,7 @@
 ||prod-ascuaz.chaperone.lumindigitalhosting.com^
 ||prod-baxter.chaperone.lumindigitalhosting.com^
 ||prod-blucurrent.chaperone.lumindigitalhosting.com^
+||prod-cardinal.chaperone.lumindigitalhosting.com^
 ||prod-cfcuwi.chaperone.lumindigitalhosting.com^
 ||prod-citadel.chaperone.lumindigitalhosting.com^
 ||prod-comfin.chaperone.lumindigitalhosting.com^
@@ -948,10 +949,13 @@
 ||tm.telecharge.com^
 ||tm.uship.com^
 ||tm.verify.illion.com.au^
+||tmcdn.europalace.com^
 ||tmcdn.gamingclub.com^
 ||tmcdn.homeaway.com^
 ||tmcdn.jackpotcity.ca^
 ||tmcdn.jackpotcitycasino.com^
+||tmcdn.luckynuggetcasino.com^
+||tmcdn.mummysgold.com^
 ||tmcdn.rubyfortune.com^
 ||tmcdn.spincasino.ca^
 ||tmcdn.spincasino.com^
@@ -1019,6 +1023,7 @@
 ||v.marcus.com^
 ||v.sagasavings.co.uk^
 ||valcontent.securustech.net^
+||validacion.rayo.com.co^
 ||validacionlx.agaval.com^
 ||verification.ndtco.com^
 ||verify.metlife.com^

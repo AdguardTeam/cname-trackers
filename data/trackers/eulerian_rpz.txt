@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -59,6 +59,7 @@ aod4.societegenerale.fr CNAME .
 ar.allrun.fr CNAME .
 ar.i-run.fr CNAME .
 azg1.emalu-store.com CNAME .
+b1n.carabins.umontreal.ca CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
 bft5.destinia.fr CNAME .
@@ -69,7 +70,6 @@ bn.voyage-prive.com CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0i.ckoi.com CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
@@ -279,7 +279,6 @@ jfo0.societegenerale.fr CNAME .
 jfp6.destinia.de CNAME .
 jg0c.sfr.fr CNAME .
 jhm3.ifgexecutive.com CNAME .
-jln3.cl-brands.com CNAME .
 jln3.clstudios.com CNAME .
 jn23.madeindesign.ch CNAME .
 jn23.madeindesign.it CNAME .
@@ -503,7 +502,7 @@ zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
 5fm.985fm.ca CNAME .
-b1n.carabins.umontreal.ca CNAME .
+c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .

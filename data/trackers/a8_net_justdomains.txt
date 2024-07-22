@@ -282,7 +282,6 @@ a8.sibody.tw
 a8.skr-labo.jp
 a8.smart-onepage.com
 a8.smp.shanon.co.jp
-a8.snapmaker.jp
 a8.soelu.com
 a8.softbank-hikari.jp
 a8.sommelier.gift
@@ -1225,7 +1224,6 @@ a8cv.ulp-kyoto.jp
 a8cv.unias.jp
 a8cv.unico-fan.co.jp
 a8cv.untenmenkyo-yi.com
-a8cv.urocca.jp
 a8cv.usedfun.jp
 a8cv.veggie-toreru.jp
 a8cv.vieon.co.jp
@@ -1241,7 +1239,6 @@ a8cv.whynot.jp
 a8cv.will-agaclinic.com
 a8cv.will-gocon.net
 a8cv.willfu.jp
-a8cv.winkle.online
 a8cv.womanmoney.net
 a8cv.wordman.jp
 a8cv.worker.sukimaworks.app

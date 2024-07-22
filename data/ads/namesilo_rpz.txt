@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -984,6 +984,7 @@ $TTL 300
 4648982.notify6.com CNAME .
 4656576.notify6.com CNAME .
 4668192.notify6.com CNAME .
+4679368.notify6.com CNAME .
 4680526.notify6.com CNAME .
 4682394.notify6.com CNAME .
 4694592.notify6.com CNAME .
@@ -1101,6 +1102,7 @@ admin.shafttraffic.com CNAME .
 admin.trafficbaron.com CNAME .
 admin.trafficfactory.com CNAME .
 adrepository.opoxv.com CNAME .
+ads.optimizesrv.com CNAME .
 api.adnation.com CNAME .
 api.datingclix.com CNAME .
 api.getblaze.app CNAME .
@@ -1276,4 +1278,3 @@ www.8.notify.bizonads-ssp.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
-ads.optimizesrv.com CNAME .

@@ -2,7 +2,6 @@
 # Company name: Webtrekk
 image.deginvest.de
 image.kfw-entwicklungsbank.de
-image.kfw-formularsammlung.de
 image.kfw-ipex-bank.de
 image.kfw.de
 images1.test.de
@@ -52,7 +51,6 @@ app03.ikk-classic.de
 cdn7.baunetz.de
 census.misterspex.at
 census.misterspex.no
-count.bank99.at
 ctdfm.ilgiornale.it
 ctrkd.ilsole24ore.com
 da.bodenhaus.de

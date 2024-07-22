@@ -227,7 +227,9 @@
 | tk.airfrance.my | tkairfrance.wizaly.com |
 | tk.airfrance.ng | tkairfrance.wizaly.com |
 | tk.airfrance.nl | tkairfrance.wizaly.com |
+| tk.airfrance.no | tkairfrance.wizaly.com |
 | tk.airfrance.pa | tkairfrance.wizaly.com |
+| tk.airfrance.pe | tkairfrance.wizaly.com |
 | tk.airfrance.pf | tkairfrance.wizaly.com |
 | tk.airfrance.pl | tkairfrance.wizaly.com |
 | tk.airfrance.pt | tkairfrance.wizaly.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -229,7 +229,6 @@ affiliate.pesvbyte.cz CNAME .
 affiliate.petr-zeman.cz CNAME .
 affiliate.ph7.cz CNAME .
 affiliate.pietro-filipi.com CNAME .
-affiliate.platanclinique.cz CNAME .
 affiliate.plutoscompany.sk CNAME .
 affiliate.polti.cz CNAME .
 affiliate.portu.cz CNAME .
@@ -630,6 +629,7 @@ partner.muffik.eu CNAME .
 partner.mumijo.cz CNAME .
 partner.muzskykruh.cz CNAME .
 partner.nanolab.cz CNAME .
+partner.nanotech-europe.cz CNAME .
 partner.naplne.cz CNAME .
 partner.naseano.cz CNAME .
 partner.naslouchamesrdcem.cz CNAME .

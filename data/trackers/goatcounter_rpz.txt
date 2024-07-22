@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ analytics.code.dccouncil.us CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 contacapre.bortox.it CNAME .
 count.vidsrc.pro CNAME .
+gc.sanyamkapoor.com CNAME .
 github.gpuzelenograd.cloudns.be CNAME .
 goat.hepicgamerz.com CNAME .
 goat.skeetstats.xyz CNAME .

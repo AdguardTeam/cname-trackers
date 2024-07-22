@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -173,6 +173,7 @@ tr.businessdev.younited-credit.es CNAME .
 tr.cacf-acq.ipsos-surveys.com CNAME .
 tr.cacf.ipsos-surveys.com CNAME .
 tr.camara.eu.com CNAME .
+tr.candidats-dispos-fed.fr CNAME .
 tr.capu.espmp-agfr.net CNAME .
 tr.carl.espmp-cufr.net CNAME .
 tr.cart02d.espmp-agfr.net CNAME .
@@ -566,7 +567,6 @@ tr.kpyn02f.espmp-cufr.net CNAME .
 tr.kpyn059.espmp-pofr.net CNAME .
 tr.krus.espmp-agfr.net CNAME .
 tr.lachaiselongue.fr CNAME .
-tr.landrover.compte-financial-services.fr CNAME .
 tr.laprairie.ifop.com CNAME .
 tr.lbar.espmp-agfr.net CNAME .
 tr.leads.direct CNAME .
@@ -698,6 +698,7 @@ tr.news.ailleurs.com CNAME .
 tr.news.alcyon.com CNAME .
 tr.news.alibabuy.com CNAME .
 tr.news.alinea.com CNAME .
+tr.news.alinea.fr CNAME .
 tr.news.allopneus.com CNAME .
 tr.news.aramisauto.com CNAME .
 tr.news.assuragency.net CNAME .
@@ -757,7 +758,6 @@ tr.news.geomag.fr CNAME .
 tr.news.glance-mediametrie.com CNAME .
 tr.news.grandsmoulinsdeparis.com CNAME .
 tr.news.groupe-armonia.com CNAME .
-tr.news.hallobanden.be CNAME .
 tr.news.happycap-foundation.fr CNAME .
 tr.news.happycap.org CNAME .
 tr.news.helvyre.fr CNAME .

@@ -110,6 +110,7 @@
 ||static.biohandel.de^
 ||static.consulcesi.it^
 ||static.environmentalleader.com^
+||static.fa-mag.com^
 ||static.livingmagonline.com^
 ||static.mannixmarketing.com^
 ||static.polity.org.za^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -2035,6 +2035,7 @@ data-ee807be806.radiooberhausen.de CNAME .
 data-ee807be806.radiosauerland.de CNAME .
 data-ef2b66d556.miss.at CNAME .
 data-ef2df4302f.baumagazin-online.de CNAME .
+data-ef3fcaa7e9.0rtl.de CNAME .
 data-ef805f6034.apps.iocnt.de CNAME .
 data-ef8760a9b2.fraenkische-rezepte.de CNAME .
 data-ef8760a9b2.infranken.de CNAME .
@@ -2101,6 +2102,7 @@ data-f1e447fbcf.kreisbote.de CNAME .
 data-f1e447fbcf.kreiszeitung.de CNAME .
 data-f1e447fbcf.kurierverlag.de CNAME .
 data-f1e447fbcf.landtiere.de CNAME .
+data-f1e447fbcf.lauterbacher-anzeiger.de CNAME .
 data-f1e447fbcf.leinetal24.de CNAME .
 data-f1e447fbcf.ludwigshafen24.de CNAME .
 data-f1e447fbcf.mangfall24.de CNAME .
@@ -2284,7 +2286,6 @@ data-fc6e3104c2.finanztreff.de CNAME .
 data-fcb7dbed1e.apps.iocnt.de CNAME .
 data-fd399543fe.elektroniknet.de CNAME .
 data-fd399543fe.medical-design.news CNAME .
-data-fd399543fe.mut-job.de CNAME .
 data-fd53e9bda6.holidayguru.ch CNAME .
 data-fd53e9bda6.holidayguru.es CNAME .
 data-fd53e9bda6.holidayguru.nl CNAME .

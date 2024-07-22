@@ -151,6 +151,7 @@
 ||cname.mebiusseiyaku.co.jp^
 ||cname.mitsuihome.co.jp^
 ||cname.nikkei-cnbc.co.jp^
+||cname.sokuyaku.jp^
 ||cname1.shakenkan.co.jp^
 ||cname2.shaken-yoyaku.com^
 ||cnameebis.eizoshigoto.com^
@@ -165,6 +166,8 @@
 ||cs1470sbeda.schoolasp.com^
 ||cs1863sbeda.glaucoma-arrest.net^
 ||cs2113sbeda.hokto-onlineshop.jp^
+||cv-adebis.my-studies.net^
+||cv-adebis.nlpjapan.co.jp^
 ||cvs.kireimo.jp^
 ||d-kint.d-kintetsu.co.jp^
 ||digital.anicom-sompo.co.jp^

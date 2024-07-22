@@ -6,6 +6,7 @@
 ||analytics.law.cityofsanmateo.org^
 ||contacapre.bortox.it^
 ||count.vidsrc.pro^
+||gc.sanyamkapoor.com^
 ||github.gpuzelenograd.cloudns.be^
 ||goat.hepicgamerz.com^
 ||goat.skeetstats.xyz^

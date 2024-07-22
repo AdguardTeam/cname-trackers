@@ -973,6 +973,7 @@
 4648982.notify6.com
 4656576.notify6.com
 4668192.notify6.com
+4679368.notify6.com
 4680526.notify6.com
 4682394.notify6.com
 4694592.notify6.com
@@ -1090,6 +1091,7 @@ admin.shafttraffic.com
 admin.trafficbaron.com
 admin.trafficfactory.com
 adrepository.opoxv.com
+ads.optimizesrv.com
 api.adnation.com
 api.datingclix.com
 api.getblaze.app
@@ -1265,4 +1267,3 @@ www.8.notify.bizonads-ssp.com
 www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
-ads.optimizesrv.com

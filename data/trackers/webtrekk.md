@@ -22,7 +22,6 @@
     * kfw-05.webtrekk.net
     * kfw-06.webtrekk.net
     * kfw-07.webtrekk.net
-    * kfw03.webtrekk.net
     * kfw04.webtrekk.net
     * kiomi-com01.webtrekk.net
     * netcologne-01.webtrekk.net
@@ -169,7 +168,6 @@
     * 911505776570324.wt-eu02.net
     * 913761141602487.wt-eu02.net
     * 927615140575951.wt-eu02.net
-    * 927703597199732.wt-eu02.net
     * 929152463666423.wt-eu02.net
     * 949365393396887.wt-eu02.net
     * 950197453774939.wt-eu02.net
@@ -426,7 +424,6 @@
 | joda.ilmessaggero.it | 927615140575951.wt-eu02.net |
 | joda.leggo.it | 927615140575951.wt-eu02.net |
 | joda.quotidianodipuglia.it | 927615140575951.wt-eu02.net |
-| count.bank99.at | 927703597199732.wt-eu02.net |
 | web.email.turtlebay.co.uk | 929152463666423.wt-eu02.net |
 | web.autobodytoolmart.com | 949365393396887.wt-eu02.net |
 | ctdfm.ilgiornale.it | 950197453774939.wt-eu02.net |
@@ -565,7 +562,6 @@
 | image.deginvest.de | kfw-05.webtrekk.net |
 | image.kfw-ipex-bank.de | kfw-06.webtrekk.net |
 | image.kfw-entwicklungsbank.de | kfw-07.webtrekk.net |
-| image.kfw-formularsammlung.de | kfw03.webtrekk.net |
 | image.kfw.de | kfw04.webtrekk.net |
 | track.kiomi.com | kiomi-com01.webtrekk.net |
 | wttd.madeleine-fashion.be | madeleineprod01.wt-eu02.net |

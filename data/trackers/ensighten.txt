@@ -109,6 +109,7 @@
 ||assets1.vero.co.nz^
 ||assets1.vero.com.au^
 ||attribution.batesfootwear.com^
+||attribution.catfootwear.com^
 ||attribution.grasshoppers.com^
 ||attribution.hushpuppies.com^
 ||attribution.keds.com^

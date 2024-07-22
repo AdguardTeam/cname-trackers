@@ -84,7 +84,6 @@
 | hruk.afguk.top | api.clickaine.com |
 | hruk.gumasi.top | api.clickaine.com |
 | hruk.jjikk.top | api.clickaine.com |
-| hruk.prikupok.com | api.clickaine.com |
 | hruk.prikupok.icu | api.clickaine.com |
 | icn.brandnewapp.pro | api.clickaine.com |
 | jg1.trypicz.com | api.clickaine.com |
@@ -95,7 +94,6 @@
 | mail.7porn.ru | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |
 | orange.arabtoons.net | api.clickaine.com |
-| p.deporno.online | api.clickaine.com |
 | p.imagevk.site | api.clickaine.com |
 | p.porn0hd.online | api.clickaine.com |
 | p.russ-porno.net | api.clickaine.com |
@@ -105,6 +103,7 @@
 | reg.ancensored.com | api.clickaine.com |
 | s1.rtnews.pro | api.clickaine.com |
 | s5.rtnews.pro | api.clickaine.com |
+| sda.am-da.xyz | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |
 | taco.sexreels.net | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |

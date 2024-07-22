@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -293,7 +293,6 @@ a8.sibody.tw CNAME .
 a8.skr-labo.jp CNAME .
 a8.smart-onepage.com CNAME .
 a8.smp.shanon.co.jp CNAME .
-a8.snapmaker.jp CNAME .
 a8.soelu.com CNAME .
 a8.softbank-hikari.jp CNAME .
 a8.sommelier.gift CNAME .
@@ -1236,7 +1235,6 @@ a8cv.ulp-kyoto.jp CNAME .
 a8cv.unias.jp CNAME .
 a8cv.unico-fan.co.jp CNAME .
 a8cv.untenmenkyo-yi.com CNAME .
-a8cv.urocca.jp CNAME .
 a8cv.usedfun.jp CNAME .
 a8cv.veggie-toreru.jp CNAME .
 a8cv.vieon.co.jp CNAME .
@@ -1252,7 +1250,6 @@ a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .
-a8cv.winkle.online CNAME .
 a8cv.womanmoney.net CNAME .
 a8cv.wordman.jp CNAME .
 a8cv.worker.sukimaworks.app CNAME .

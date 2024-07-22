@@ -2024,6 +2024,7 @@ data-ee807be806.radiooberhausen.de
 data-ee807be806.radiosauerland.de
 data-ef2b66d556.miss.at
 data-ef2df4302f.baumagazin-online.de
+data-ef3fcaa7e9.0rtl.de
 data-ef805f6034.apps.iocnt.de
 data-ef8760a9b2.fraenkische-rezepte.de
 data-ef8760a9b2.infranken.de
@@ -2090,6 +2091,7 @@ data-f1e447fbcf.kreisbote.de
 data-f1e447fbcf.kreiszeitung.de
 data-f1e447fbcf.kurierverlag.de
 data-f1e447fbcf.landtiere.de
+data-f1e447fbcf.lauterbacher-anzeiger.de
 data-f1e447fbcf.leinetal24.de
 data-f1e447fbcf.ludwigshafen24.de
 data-f1e447fbcf.mangfall24.de
@@ -2273,7 +2275,6 @@ data-fc6e3104c2.finanztreff.de
 data-fcb7dbed1e.apps.iocnt.de
 data-fd399543fe.elektroniknet.de
 data-fd399543fe.medical-design.news
-data-fd399543fe.mut-job.de
 data-fd53e9bda6.holidayguru.ch
 data-fd53e9bda6.holidayguru.es
 data-fd53e9bda6.holidayguru.nl

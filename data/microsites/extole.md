@@ -127,7 +127,6 @@
     * aaaeagles.extole.io
     * abacusnext.extole.io
     * acornonline.extole.io
-    * acorns-sandbox.extole.io
     * acorns.extole.io
     * advanceamerica.extole.io
     * affinityfcu.extole.io
@@ -158,7 +157,6 @@
     * aveda-uk.extole.io
     * aveda.extole.io
     * avedajp.extole.io
-    * avocado-mattress.extole.io
     * baiconnect.extole.io
     * ballarddesigns.extole.io
     * banana-republic.extole.io
@@ -269,6 +267,7 @@
     * esteelauder-au.extole.io
     * esteelauder-kr.extole.io
     * esteelauder.extole.io
+    * esteelauderhk.extole.io
     * esteelauderjp.extole.io
     * etrade.extole.io
     * everlywell.extole.io
@@ -478,6 +477,7 @@
     * servicechannel.extole.io
     * sesamecare.extole.io
     * shark-clean.extole.io
+    * shibumishade.extole.io
     * shiseido.extole.io
     * shoplc.extole.io
     * shu-uemura-art-of-hair.extole.io
@@ -485,7 +485,6 @@
     * shyft.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
-    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -534,6 +533,7 @@
     * todoist.extole.io
     * tommy.extole.io
     * tomorrowsleep.extole.io
+    * tonies.extole.io
     * tous-jewelry.extole.io
     * trafalgar.extole.io
     * travelzoo.extole.io
@@ -601,7 +601,6 @@
 | refer.midatlantic.aaa.com | aaamid-atlantic.extole.com |
 | refer.abacusnext.com | abacusnext.extole.io |
 | refer.acornonline.com | acornonline.extole.io |
-| share.staging.acorns.io | acorns-sandbox.extole.io |
 | share.acorns.com | acorns.extole.io |
 | share.advanceamerica.net | advanceamerica.extole.io |
 | share.aeropostale.com | aeropostale.extole.com |
@@ -647,7 +646,6 @@
 | refer.aveda.com | aveda.extole.io |
 | share.refer-aveda.com | aveda.extole.io |
 | share.refer-aveda.jp | avedajp.extole.io |
-| refer.avocadogreenmattress.com | avocado-mattress.extole.io |
 | refer.backcountry.com | backcountry.extole.com |
 | share.baiconnect.com | baiconnect.extole.io |
 | refer.ballarddesigns.com | ballarddesigns.extole.io |
@@ -799,6 +797,7 @@
 | share.esteelauder.com.au | esteelauder-au.extole.io |
 | share.esteelauder.co.kr | esteelauder-kr.extole.io |
 | share.esteelauder.com.tw | esteelauder.extole.io |
+| share.refer-esteelauder.com.hk | esteelauderhk.extole.io |
 | share.refer-esteelauder.jp | esteelauderjp.extole.io |
 | refer.etrade.net | etrade.extole.io |
 | refer.everlywell.com | everlywell.extole.io |
@@ -1147,6 +1146,7 @@
 | share.sesamecare.com | sesamecare.extole.io |
 | friend.sharefile.com | sharefile-ssl.extole.com |
 | refer.sharkclean.com | shark-clean.extole.io |
+| share.shibumishade.com | shibumishade.extole.io |
 | referral.shiseido.com | shiseido.extole.io |
 | refer.shoesforcrews.com | shoesforcrews-ssl.extole.com |
 | share.shoplc.com | shoplc.extole.io |
@@ -1157,7 +1157,6 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
-| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1223,6 +1222,7 @@
 | refer.sharetodoist.com | todoist.extole.io |
 | share.tommy.com | tommy.extole.io |
 | refer.tomorrowsleep.com | tomorrowsleep.extole.io |
+| share.tonies.com | tonies.extole.io |
 | invite.toughmudder.com | toughmudder.extole.com |
 | refer.tous.com | tous-jewelry.extole.io |
 | share.trafalgar.com | trafalgar.extole.io |
@@ -1295,6 +1295,7 @@
 | share.wombatinvest.com | wombat.extole.io |
 | share.worldmarket.com | worldmarket.extole.com |
 | refer.wrangler.com | wrangler.extole.io |
+| propertyperks.xfinity.com | xfinity.extole.io |
 | refer.xfinity.com | xfinity.extole.io |
 | referafriend.comcast.com | xfinity.extole.io |
 | referafriend.xfinity.com | xfinity.extole.io |

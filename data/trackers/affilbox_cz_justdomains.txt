@@ -218,7 +218,6 @@ affiliate.pesvbyte.cz
 affiliate.petr-zeman.cz
 affiliate.ph7.cz
 affiliate.pietro-filipi.com
-affiliate.platanclinique.cz
 affiliate.plutoscompany.sk
 affiliate.polti.cz
 affiliate.portu.cz
@@ -619,6 +618,7 @@ partner.muffik.eu
 partner.mumijo.cz
 partner.muzskykruh.cz
 partner.nanolab.cz
+partner.nanotech-europe.cz
 partner.naplne.cz
 partner.naseano.cz
 partner.naslouchamesrdcem.cz

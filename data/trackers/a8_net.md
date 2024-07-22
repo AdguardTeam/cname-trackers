@@ -295,7 +295,6 @@
 | a8.skr-labo.jp | trck.a8.net |
 | a8.smart-onepage.com | trck.a8.net |
 | a8.smp.shanon.co.jp | trck.a8.net |
-| a8.snapmaker.jp | trck.a8.net |
 | a8.soelu.com | trck.a8.net |
 | a8.softbank-hikari.jp | trck.a8.net |
 | a8.sommelier.gift | trck.a8.net |
@@ -1238,7 +1237,6 @@
 | a8cv.unias.jp | trck.a8.net |
 | a8cv.unico-fan.co.jp | trck.a8.net |
 | a8cv.untenmenkyo-yi.com | trck.a8.net |
-| a8cv.urocca.jp | trck.a8.net |
 | a8cv.usedfun.jp | trck.a8.net |
 | a8cv.veggie-toreru.jp | trck.a8.net |
 | a8cv.vieon.co.jp | trck.a8.net |
@@ -1254,7 +1252,6 @@
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.willfu.jp | trck.a8.net |
-| a8cv.winkle.online | trck.a8.net |
 | a8cv.womanmoney.net | trck.a8.net |
 | a8cv.wordman.jp | trck.a8.net |
 | a8cv.worker.sukimaworks.app | trck.a8.net |

@@ -14,6 +14,7 @@
     * te-frankonia-com.oghub.io
     * te-frankonia-de.oghub.io
     * te-heine-at.oghub.io
+    * te-heine-ch.oghub.io
     * te-heine-de.oghub.io
     * te-heine-shop-nl.oghub.io
     * te-imwalking-de.oghub.io
@@ -141,6 +142,7 @@
 | te.frankonia.com | te-frankonia-com.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
 | te.heine.at | te-heine-at.oghub.io |
+| te.heine.ch | te-heine-ch.oghub.io |
 | te.heine.de | te-heine-de.oghub.io |
 | te.heine-shop.nl | te-heine-shop-nl.oghub.io |
 | te.imwalking.de | te-imwalking-de.oghub.io |

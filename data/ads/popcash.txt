@@ -68,10 +68,12 @@
 ||cdn.jhoncj.com^
 ||cdn.jitanvlw.com^
 ||cdn.jklpy.com^
+||cdn.jkpes.com^
 ||cdn.jwalf.com^
 ||cdn.karpatzi.com^
 ||cdn.keajs.com^
 ||cdn.kfjhd.com^
+||cdn.kizan.cloud^
 ||cdn.mafyak.com^
 ||cdn.masbpi.com^
 ||cdn.miluwo.com^
@@ -96,6 +98,7 @@
 ||cdn.piuyt.com^
 ||cdn.pllah.com^
 ||cdn.plmwsl.com^
+||cdn.plowh.com^
 ||cdn.plrst.com^
 ||cdn.posawaj.com^
 ||cdn.ptomw.com^
@@ -126,6 +129,7 @@
 ||cdn.vcxzp.com^
 ||cdn.vehosw.com^
 ||cdn.verwh.com^
+||cdn.vinit.cloud^
 ||cdn.viowrel.com^
 ||cdn.vonkol.com^
 ||cdn.wurqaz.com^
@@ -134,10 +138,12 @@
 ||cdn.xipteq.com^
 ||cdn.xwqea.com^
 ||cdn.ytihp.com^
+||cdn.ziblo.cloud^
 ||cdn.zikpwr.com^
 ||cdn.zivtux.com^
 ||cdn.zkcvb.com^
 ||cdn.zxclan.com^
+||1.bunkr-cache.se^
 ||4ke5b4ila.codedge.de^
 ||7wrxo2xh.iriscreative.co^
 ||8inhjmd.usefathom.com^
@@ -525,7 +531,6 @@
 ||guan.domainnamesanity.com^
 ||guan.elfenkueche.at^
 ||guan.lathamcommunications.com^
-||guanaco.jden.me^
 ||guanaco.redpixelthemes.com^
 ||guanaco.shelter.stream^
 ||guineapig.espressive.com^
@@ -1091,6 +1096,7 @@
 ||yak.withlindy.com^
 ||ads.djc.com^
 ||allnews.chestertelegraph.org^
+||apogee.spacenews.com^
 ||assets-v2.boisedev.com^
 ||assets-v2.invaluable.com^
 ||assets-v2.northsidesun.com^
@@ -1117,6 +1123,7 @@
 ||sponsors-v2.urbanistnetwork.com^
 ||sponsors.asisonline.org^
 ||sponsors.bicmagazine.com^
+||sponsors.compactequip.com^
 ||sponsors.floorforce.com^
 ||sponsors.inklink.news^
 ||sponsors.localcityplaces.com^

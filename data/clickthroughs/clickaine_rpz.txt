@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -87,7 +87,6 @@ hostmaster.rtnews.pro CNAME .
 hruk.afguk.top CNAME .
 hruk.gumasi.top CNAME .
 hruk.jjikk.top CNAME .
-hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
 jg1.trypicz.com CNAME .
@@ -98,7 +97,6 @@ k8.usefto.com CNAME .
 mail.7porn.ru CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .
-p.deporno.online CNAME .
 p.imagevk.site CNAME .
 p.porn0hd.online CNAME .
 p.russ-porno.net CNAME .
@@ -108,6 +106,7 @@ ps2.camcaps.to CNAME .
 reg.ancensored.com CNAME .
 s1.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
+sda.am-da.xyz CNAME .
 snow.snowdayonline.xyz CNAME .
 taco.sexreels.net CNAME .
 v040419.badjojo.com CNAME .

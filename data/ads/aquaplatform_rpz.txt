@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -121,6 +121,7 @@ static.aqua-adserver.com CNAME .
 static.biohandel.de CNAME .
 static.consulcesi.it CNAME .
 static.environmentalleader.com CNAME .
+static.fa-mag.com CNAME .
 static.livingmagonline.com CNAME .
 static.mannixmarketing.com CNAME .
 static.polity.org.za CNAME .

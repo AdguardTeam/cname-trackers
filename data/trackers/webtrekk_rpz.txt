@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,7 +13,6 @@ $TTL 300
 
 image.deginvest.de CNAME .
 image.kfw-entwicklungsbank.de CNAME .
-image.kfw-formularsammlung.de CNAME .
 image.kfw-ipex-bank.de CNAME .
 image.kfw.de CNAME .
 images1.test.de CNAME .
@@ -63,7 +62,6 @@ app03.ikk-classic.de CNAME .
 cdn7.baunetz.de CNAME .
 census.misterspex.at CNAME .
 census.misterspex.no CNAME .
-count.bank99.at CNAME .
 ctdfm.ilgiornale.it CNAME .
 ctrkd.ilsole24ore.com CNAME .
 da.bodenhaus.de CNAME .

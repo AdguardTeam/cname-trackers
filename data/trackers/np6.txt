@@ -162,6 +162,7 @@
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.cacf.ipsos-surveys.com^
 ||tr.camara.eu.com^
+||tr.candidats-dispos-fed.fr^
 ||tr.capu.espmp-agfr.net^
 ||tr.carl.espmp-cufr.net^
 ||tr.cart02d.espmp-agfr.net^
@@ -555,7 +556,6 @@
 ||tr.kpyn059.espmp-pofr.net^
 ||tr.krus.espmp-agfr.net^
 ||tr.lachaiselongue.fr^
-||tr.landrover.compte-financial-services.fr^
 ||tr.laprairie.ifop.com^
 ||tr.lbar.espmp-agfr.net^
 ||tr.leads.direct^
@@ -687,6 +687,7 @@
 ||tr.news.alcyon.com^
 ||tr.news.alibabuy.com^
 ||tr.news.alinea.com^
+||tr.news.alinea.fr^
 ||tr.news.allopneus.com^
 ||tr.news.aramisauto.com^
 ||tr.news.assuragency.net^
@@ -746,7 +747,6 @@
 ||tr.news.glance-mediametrie.com^
 ||tr.news.grandsmoulinsdeparis.com^
 ||tr.news.groupe-armonia.com^
-||tr.news.hallobanden.be^
 ||tr.news.happycap-foundation.fr^
 ||tr.news.happycap.org^
 ||tr.news.helvyre.fr^

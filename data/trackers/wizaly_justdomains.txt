@@ -46,7 +46,9 @@ tk.airfrance.mu
 tk.airfrance.my
 tk.airfrance.ng
 tk.airfrance.nl
+tk.airfrance.no
 tk.airfrance.pa
+tk.airfrance.pe
 tk.airfrance.pf
 tk.airfrance.pl
 tk.airfrance.pt

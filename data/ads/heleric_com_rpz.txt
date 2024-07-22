@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721030408904        ; Serial
+           1721635207450        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -63,6 +63,7 @@ dy.araucangozell.com CNAME .
 dz.banyaitlingit.com CNAME .
 ec.didnsunns.com CNAME .
 ed.druggertruckle.com CNAME .
+ef.washokanap.com CNAME .
 eg.rosttraborago.com CNAME .
 eh.stowingwhelks.com CNAME .
 ek.gisantscubit.com CNAME .
@@ -88,7 +89,6 @@ fu.dinaricarrear.com CNAME .
 ga.asseizeenl.com CNAME .
 gd.waxbushengore.com CNAME .
 ge.chassnincom.com CNAME .
-gf.goreplacers.com CNAME .
 gg.warmanmamelon.com CNAME .
 gh.outswumvinose.com CNAME .
 gn.afootwitword.com CNAME .
@@ -154,6 +154,7 @@ mi.gaywayperkish.com CNAME .
 ml.estellaeyelet.com CNAME .
 ml.sunspotbaffies.com CNAME .
 mn.prespurmaness.com CNAME .
+mq.amidicextruct.com CNAME .
 mr.pudgilygrazes.com CNAME .
 mu.laplingskevish.com CNAME .
 mw.cinuralytic.com CNAME .

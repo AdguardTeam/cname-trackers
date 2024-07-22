@@ -27,6 +27,7 @@
     * el-static.aquaplatform.com
     * faithlife-delivery.aquaplatform.com
     * famag-delivery.aquaplatform.com
+    * famag-static.aquaplatform.com
     * geenstijl-delivery.aquaplatform.com
     * geodelivery.aquaplatform.com
     * goldseek-delivery.aquaplatform.com
@@ -122,6 +123,7 @@
 | static.environmentalleader.com | el-static.aquaplatform.com |
 | serve.faithlifeads.com | faithlife-delivery.aquaplatform.com |
 | adserver.fa-mag.com | famag-delivery.aquaplatform.com |
+| static.fa-mag.com | famag-static.aquaplatform.com |
 | lalala.geenstijl.nl | geenstijl-delivery.aquaplatform.com |
 | adserver.kozoom.com | geodelivery.aquaplatform.com |
 | servedby.aqua-adserver.com | geodelivery.aquaplatform.com |
