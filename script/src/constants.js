@@ -21,7 +21,12 @@ const COMBINED_ORIGINALS_FILE_NAME = `${COMBINED_ORIGINALS_FILE_NAME_BASE}.${RUL
 const COMBINED_JSON_FILE_NAME = `${COMBINED_RULES_FILE_NAME_BASE}.${JSON_FILE_EXTENSION}`;
 
 // Length of the comment line in rpz files
-const LINE_LENGTH = 24;
+const RPZ_LINE_COMMENT_LENGTH = 24;
+
+/**
+ * Maximum length of the RPZ rule.
+ */
+const MAX_RPZ_RULE_LENGTH = 255;
 // Number of spaces before the comment in rpz files
 const SPACES_BEFORE_COMMENT_LENGTH = 8;
 // Space
@@ -30,8 +35,6 @@ const SPACE = ' ';
 const RIGHT_PARENTHESIS = ')';
 // Space + closing bracket;
 const CLOSING_VALUE_MARKER = `${SPACE}${RIGHT_PARENTHESIS}`;
-// Separator (semicolon and space)
-const COMMENT_START = `${RPZ_RULE_COMMENT_MARKER}${SPACE}`;
 
 /**
  * Time-to-live for RPZ (Response Policy Zone) records in seconds.
@@ -88,10 +91,10 @@ const RPZ_EXPIRE_TIME_SEC = 9 * 24 * 60 * 60; // 9 days
  * @param {string} comment - The comment.
  * @returns {string} - The string with the comment.
  */
-const createLineWithComment = (value, comment) => {
+const createRpzLineWithComment = (value, comment) => {
     let valueStr = value.toString();
     // Calculate the remaining number of spaces for the value
-    const spacesBeforeValueLength = LINE_LENGTH - valueStr.length;
+    const spacesBeforeValueLength = RPZ_LINE_COMMENT_LENGTH - valueStr.length;
     // Create a string with spaces on the left
     const spacesBeforeValue = SPACE.repeat(spacesBeforeValueLength);
     // Create a string with spaces before the comment
@@ -119,11 +122,11 @@ const rpzHeaderChunks = [
     '',
     `$TTL ${RPZ_TTL_SEC.toString()}`,
     '@    IN   SOA   localhost. root.localhost. (',
-    `${createLineWithComment(RPZ_SERIAL_NUMBER_MS, 'Serial')}`,
-    `${createLineWithComment(RPZ_UPDATE_RATE_SEC, 'Refresh')}`,
-    `${createLineWithComment(RPZ_RETRY_TIME_SEC, 'Retry')}`,
-    `${createLineWithComment(RPZ_EXPIRE_TIME_SEC, 'Expire')}`,
-    `${createLineWithComment(RPZ_TTL_SEC, 'Negative Cache TTL')}`,
+    `${createRpzLineWithComment(RPZ_SERIAL_NUMBER_MS, 'Serial')}`,
+    `${createRpzLineWithComment(RPZ_UPDATE_RATE_SEC, 'Refresh')}`,
+    `${createRpzLineWithComment(RPZ_RETRY_TIME_SEC, 'Retry')}`,
+    `${createRpzLineWithComment(RPZ_EXPIRE_TIME_SEC, 'Expire')}`,
+    `${createRpzLineWithComment(RPZ_TTL_SEC, 'Negative Cache TTL')}`,
     ';',
     '@    IN   NS    localhost.',
     '',
@@ -199,6 +202,7 @@ module.exports = {
     BASE_RULE_COMMENT_MARKER,
     HOSTS_RULE_COMMENT_MARKER,
     RPZ_RULE_COMMENT_MARKER,
+    MAX_RPZ_RULE_LENGTH,
     RULES_FILE_EXTENSION,
     JSON_FILE_EXTENSION,
     COMBINED_JSON_FILE_NAME,

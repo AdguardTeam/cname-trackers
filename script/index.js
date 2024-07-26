@@ -2,6 +2,7 @@
 const fs = require('fs-extra');
 const path = require('path');
 const ora = require('ora');
+const { logger } = require('./src/logger');
 
 const {
     formatFilename,
@@ -77,7 +78,7 @@ const main = async () => {
         // path for directory with companyType name
         const dirPath = path.resolve(__dirname, DATA_DIR, companyTypePlural);
 
-        console.log(`Fetching for tracker: ${companyName}`);
+        logger.info(`Fetching for tracker: ${companyName}`);
 
         // a variable to record fetched trackers
         const domainsInfo = [];
@@ -187,12 +188,12 @@ const main = async () => {
             );
 
             const doneNumStr = i === trackersLength - 1 ? '100%' : `~${Math.round(((i + 1) / trackersLength) * 100)}%`;
-            console.log(`Successfully fetched for tracker: ${companyName}, ${doneNumStr} done`);
+            logger.success(`Successfully fetched for tracker: ${companyName}, ${doneNumStr} done`);
         } catch (e) {
             // restore data directory from temp directory
             await fs.move(backupDir, dataDir);
-            console.log(`Failed to fetch for tracker: ${companyName}`);
-            console.log(e);
+            logger.error(`Failed to fetch for tracker: ${companyName}`);
+            logger.error(e);
         }
     }
 
@@ -202,17 +203,17 @@ const main = async () => {
         spinner.succeed('Successfully updated combined files');
     } catch (e) {
         spinner.fail('Failed to update combined files');
-        console.log(e);
+        logger.error(e);
     }
 };
 
 main()
     .then(async () => {
         await fs.remove(backupDir);
-        console.log('Successfully finished building cloaked trackers');
+        logger.success('Successfully finished building cloaked trackers');
         process.exit(0);
     })
     .catch((e) => {
-        console.log('Building cloaked trackers finished with an error', e);
+        logger.error('Building cloaked trackers finished with an error', e);
         process.exit(1);
     });

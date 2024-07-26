@@ -3,9 +3,7 @@ const { promises: fs } = require('fs');
 const path = require('path');
 
 const {
-    createBaseRule,
-    createHostsRule,
-    createRpzRule,
+    composeRuleWithNewline,
     writeCombinedFile,
     createCombinedFileName,
 } = require('./helpers');
@@ -45,7 +43,7 @@ const updateCombinedOriginals = async () => {
             originalTrackersCombinedChunks += `${CONST_DATA.ORIGINALS.commentMarker} Company: ${companyName}\n`;
 
             domains.forEach((domain) => {
-                originalTrackersCombinedChunks += `${createBaseRule(domain)}\n`;
+                originalTrackersCombinedChunks += composeRuleWithNewline.baseRule(domain);
             });
         });
 
@@ -83,9 +81,9 @@ const updateCombinedDisguises = async (rawCombinedData) => {
 
         // add content to base, hosts, rpz files from sorted keys combined_disguised_companyType.json
         sortedDisguiseTrackers.forEach((disguise) => {
-            baseCombinedContent += `${createBaseRule(disguise)}\n`;
-            hostsCombinedContent += `${createHostsRule(disguise)}\n`;
-            rpzCombinedContent += `${createRpzRule(disguise)}\n`;
+            baseCombinedContent += composeRuleWithNewline.baseRule(disguise);
+            hostsCombinedContent += composeRuleWithNewline.hostsRule(disguise);
+            rpzCombinedContent += composeRuleWithNewline.rpzRule(disguise);
         });
 
         // write content to base, hosts, rpz files

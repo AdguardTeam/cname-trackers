@@ -1,7 +1,5 @@
 const {
-    createBaseRule,
-    createHostsRule,
-    createRpzRule,
+    composeRuleWithNewline,
     identity,
 } = require('./helpers');
 
@@ -32,25 +30,32 @@ const buildRulesByType = (trackersData, type) => {
     ];
 
     // add specific header for rpz file format
-    const rulesChunks = type === CONST_DATA.RPZ.type ? [...commonChunks, ...rpzHeaderChunks] : commonChunks;
-
+    const headerRulesChunks = type === CONST_DATA.RPZ.type ? [...commonChunks, ...rpzHeaderChunks] : commonChunks;
+    headerRulesChunks.push('');
+    const rulesChunks = [];
     // get only disguised trackers items in array
     // flattering and filter nullable values
     const flattedDisguisedTrackers = trackersInfoItems
         .flatMap((trackersItem) => trackersItem.disguises)
         .filter(identity);
 
+    let getRule;
+
+    if (type === CONST_DATA.BASE.type) {
+        getRule = composeRuleWithNewline.baseRule;
+    } else if (type === CONST_DATA.HOSTS.type) {
+        getRule = composeRuleWithNewline.hostsRule;
+    } else if (type === CONST_DATA.RPZ.type) {
+        getRule = composeRuleWithNewline.rpzRule;
+    }
+
+    if (!getRule) {
+        throw new Error(`Unknown type: ${type}`);
+    }
+
     // make rule chunks by type
     new Set(flattedDisguisedTrackers).forEach((disguise) => {
-        let rule;
-        if (type === CONST_DATA.BASE.type) {
-            rule = createBaseRule(disguise);
-        } else if (type === CONST_DATA.HOSTS.type) {
-            rule = createHostsRule(disguise);
-        } else if (type === CONST_DATA.RPZ.type) {
-            rule = createRpzRule(disguise);
-        }
-        rulesChunks.push(rule);
+        rulesChunks.push(getRule(disguise));
     });
 
     /* Ensure there is a newline at the end of RPZ files. */
@@ -58,7 +63,7 @@ const buildRulesByType = (trackersData, type) => {
         rulesChunks.length += 1;
     }
 
-    const baseRulesString = rulesChunks.join('\n');
+    const baseRulesString = headerRulesChunks.join('\n') + rulesChunks.join('');
     return baseRulesString;
 };
 

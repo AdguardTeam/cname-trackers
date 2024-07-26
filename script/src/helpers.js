@@ -1,8 +1,9 @@
 const { promises: dns } = require('dns');
 const fs = require('fs-extra');
 const path = require('path');
+const { logger } = require('./logger');
 
-const { COMBINED_RULES_FILE_NAME_BASE } = require('./constants');
+const { COMBINED_RULES_FILE_NAME_BASE, MAX_RPZ_RULE_LENGTH } = require('./constants');
 
 const DATA_DIR_PATH = './../data';
 
@@ -37,6 +38,53 @@ const createHostsRule = (domain) => domain;
  * @returns {string}
  */
 const createRpzRule = (domain) => `${domain} CNAME .`;
+
+/**
+ * Checks if the RPZ rule string is valid based on its length
+ * @param {string} str - The RPZ rule string
+ * @returns {boolean} - True if the string length is less than MAX_RPZ_RULE_LENGTH, otherwise false
+ */
+const isValidPrzString = (str) => {
+    if (str.length <= MAX_RPZ_RULE_LENGTH) {
+        return true;
+    }
+    logger.warning(`Invalid RPZ rule: ${str}`);
+    return false;
+};
+
+/**
+ * Object containing functions to compose rules for different types
+ * - validate RPZ rule string by length
+ * - new line is added at the end for each rule type
+ */
+const composeRuleWithNewline = {
+    /**
+     * Validates and composes an RPZ rule, new line is added at the end
+     * @param {string} disguise - The disguise domain to validate and compose
+     * @returns {string} - The composed RPZ rule if valid, otherwise an empty string
+     */
+    rpzRule: (disguise) => {
+        const ruleString = createRpzRule(disguise);
+        if (!isValidPrzString(ruleString)) {
+            return '';
+        }
+        return `${ruleString}\n`;
+    },
+
+    /**
+     * Validates and composes a hosts rule, new line is added at the end
+     * @param {string} disguise - The disguise domain to validate and compose
+     * @returns {string} - The composed hosts rule if valid, otherwise an empty string
+     */
+    hostsRule: (disguise) => `${createHostsRule(disguise)}\n`,
+
+    /**
+     * Composes a base rule, new line is added at the end
+     * @param {string} disguise - The disguise domain to validate and compose
+     * @returns {string} - The composed base rule if valid, otherwise an empty string
+     */
+    baseRule: (disguise) => `${createBaseRule(disguise)}\n`,
+};
 
 /**
  * Writes `fileContent` to `fileName` in library root directory
@@ -306,11 +354,9 @@ const stashInfoPairs = async (pairs) => {
 };
 
 module.exports = {
+    composeRuleWithNewline,
     createCombinedFileName,
     writeCombinedFile,
-    createBaseRule,
-    createHostsRule,
-    createRpzRule,
     identity,
     formatFilename,
     sleep,
