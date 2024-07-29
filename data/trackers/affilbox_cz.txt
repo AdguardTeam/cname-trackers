@@ -864,6 +864,7 @@
 ||partneri.worldee.com^
 ||partneri.yoggspiration.cz^
 ||partneri.zaprovizi.cz^
+||partneri.zburnik.cz^
 ||partneri.zdravy-zivotny-styl.sk^
 ||partneri.zdravykram.cz^
 ||partneri.zijchytre.cz^

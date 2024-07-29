@@ -220,11 +220,13 @@
 | tk.airfrance.ie | tkairfrance.wizaly.com |
 | tk.airfrance.in | tkairfrance.wizaly.com |
 | tk.airfrance.it | tkairfrance.wizaly.com |
+| tk.airfrance.lu | tkairfrance.wizaly.com |
 | tk.airfrance.ma | tkairfrance.wizaly.com |
 | tk.airfrance.mg | tkairfrance.wizaly.com |
 | tk.airfrance.mq | tkairfrance.wizaly.com |
 | tk.airfrance.mu | tkairfrance.wizaly.com |
 | tk.airfrance.my | tkairfrance.wizaly.com |
+| tk.airfrance.ne | tkairfrance.wizaly.com |
 | tk.airfrance.ng | tkairfrance.wizaly.com |
 | tk.airfrance.nl | tkairfrance.wizaly.com |
 | tk.airfrance.no | tkairfrance.wizaly.com |
@@ -240,6 +242,7 @@
 | tk.airfrance.sa | tkairfrance.wizaly.com |
 | tk.airfrance.se | tkairfrance.wizaly.com |
 | tk.airfrance.sg | tkairfrance.wizaly.com |
+| tk.airfrance.si | tkairfrance.wizaly.com |
 | tk.airfrance.sk | tkairfrance.wizaly.com |
 | tk.airfrance.sn | tkairfrance.wizaly.com |
 | tk.airfrance.tn | tkairfrance.wizaly.com |

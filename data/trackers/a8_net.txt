@@ -75,7 +75,6 @@
 ||a8.cypris-online.jp^
 ||a8.daredemomobile.com^
 ||a8.de-limmo.jp^
-||a8.degicashop.com^
 ||a8.denki-koji.work^
 ||a8.denki-tatsujin.com^
 ||a8.denwa-hikari.com^
@@ -204,7 +203,6 @@
 ||a8.minion-wifi.com^
 ||a8.mira-feel.com^
 ||a8.miror.jp^
-||a8.mishii-list.com^
 ||a8.misshajp.com^
 ||a8.mm-digitalsales.academy^
 ||a8.mochu.jp^

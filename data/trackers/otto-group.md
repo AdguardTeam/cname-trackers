@@ -14,7 +14,6 @@
     * te-frankonia-com.oghub.io
     * te-frankonia-de.oghub.io
     * te-heine-at.oghub.io
-    * te-heine-ch.oghub.io
     * te-heine-de.oghub.io
     * te-heine-shop-nl.oghub.io
     * te-imwalking-de.oghub.io
@@ -27,7 +26,6 @@
     * te-quelle-de.oghub.io
     * te-sheego-de.oghub.io
     * te-sieh-an-at.oghub.io
-    * te-sieh-an-ch.oghub.io
     * te-sieh-an-de.oghub.io
     * te-universal-at.oghub.io
     * te-waeschepur-de.oghub.io
@@ -48,8 +46,8 @@
     * tp-frankonia-at.oghub.io
     * tp-frankonia-com.oghub.io
     * tp-frankonia-de.oghub.io
-    * tp-frankoniamoda-ch.oghub.io
     * tp-heine-at.oghub.io
+    * tp-heine-ch.oghub.io
     * tp-heine-de.oghub.io
     * tp-heine-shop-nl.oghub.io
     * tp-jelmoli-shop-ch.oghub.io
@@ -89,7 +87,6 @@
 | tp.frankonia.at | js.oghub.io |
 | tp.frankonia.com | js.oghub.io |
 | tp.frankonia.de | js.oghub.io |
-| tp.frankoniamoda.ch | js.oghub.io |
 | tp.frankoniamoda.ch | js.oghub.io |
 | tp.heine-shop.nl | js.oghub.io |
 | tp.heine-shop.nl | js.oghub.io |
@@ -142,7 +139,6 @@
 | te.frankonia.com | te-frankonia-com.oghub.io |
 | te.frankonia.de | te-frankonia-de.oghub.io |
 | te.heine.at | te-heine-at.oghub.io |
-| te.heine.ch | te-heine-ch.oghub.io |
 | te.heine.de | te-heine-de.oghub.io |
 | te.heine-shop.nl | te-heine-shop-nl.oghub.io |
 | te.imwalking.de | te-imwalking-de.oghub.io |
@@ -155,7 +151,6 @@
 | te.quelle.de | te-quelle-de.oghub.io |
 | te.sheego.de | te-sheego-de.oghub.io |
 | te.sieh-an.at | te-sieh-an-at.oghub.io |
-| te.sieh-an.ch | te-sieh-an-ch.oghub.io |
 | te.sieh-an.de | te-sieh-an-de.oghub.io |
 | te.universal.at | te-universal-at.oghub.io |
 | te.waeschepur.de | te-waeschepur-de.oghub.io |
@@ -220,8 +215,8 @@
 | tp.frankonia.at | tp-frankonia-at.oghub.io |
 | tp.frankonia.com | tp-frankonia-com.oghub.io |
 | tp.frankonia.de | tp-frankonia-de.oghub.io |
-| tp.frankoniamoda.ch | tp-frankoniamoda-ch.oghub.io |
 | tp.heine.at | tp-heine-at.oghub.io |
+| tp.heine.ch | tp-heine-ch.oghub.io |
 | tp.heine.de | tp-heine-de.oghub.io |
 | tp.heine-shop.nl | tp-heine-shop-nl.oghub.io |
 | tp.jelmoli-shop.ch | tp-jelmoli-shop-ch.oghub.io |

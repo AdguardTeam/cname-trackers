@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721635207450        ; Serial
+           1722240007348        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -436,6 +436,7 @@ dpf.authorize.net CNAME .
 drfdisvc.walmart.com CNAME .
 dt.extrakarte.com CNAME .
 dt.payla.io CNAME .
+dtpm.kuady.com CNAME .
 dtrust.atratopago.com CNAME .
 dvc0271.play.jackpocket.com CNAME .
 ela1.bankofscotland.co.uk CNAME .
@@ -614,7 +615,6 @@ ocs.ameriprise.com CNAME .
 offtest.fnfis.com CNAME .
 ofxmryjd.seller.walmart.com CNAME .
 ofxmryjd.walmart.com CNAME .
-ola2.tdameritrade.com CNAME .
 olacontent.schwab.com CNAME .
 om.pgw.fcbarcelona.com CNAME .
 online-metrix.imars.cloud CNAME .
@@ -655,6 +655,7 @@ portal-fp.threatmetrix.com CNAME .
 posture.mtoken.zand.ae CNAME .
 pov.spectrum.net CNAME .
 prod-acutx.chaperone.lumindigitalhosting.com CNAME .
+prod-addition.chaperone.lumindigitalhosting.com CNAME .
 prod-afcutn.chaperone.lumindigitalhosting.com CNAME .
 prod-aocumi.chaperone.lumindigitalhosting.com CNAME .
 prod-apcifcu.chaperone.lumindigitalhosting.com CNAME .
@@ -964,13 +965,16 @@ tmcdn.europalace.com CNAME .
 tmcdn.gamingclub.com CNAME .
 tmcdn.homeaway.com CNAME .
 tmcdn.jackpotcity.ca CNAME .
+tmcdn.jackpotcity.mx CNAME .
 tmcdn.jackpotcitycasino.com CNAME .
 tmcdn.luckynuggetcasino.com CNAME .
 tmcdn.mummysgold.com CNAME .
+tmcdn.riverbellecasino.com CNAME .
 tmcdn.rubyfortune.com CNAME .
 tmcdn.spincasino.ca CNAME .
 tmcdn.spincasino.com CNAME .
 tmcdn.spincasino.mx CNAME .
+tmcdn.spingalaxy.com CNAME .
 tmcdn.spinpalace.com CNAME .
 tmck.milestonegoldcard.com CNAME .
 tmcontent.imvu.com CNAME .

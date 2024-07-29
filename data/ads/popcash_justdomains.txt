@@ -201,7 +201,6 @@ aphid.polarcop.com
 aphid.smartjournal.no
 aphid.thyself.me
 armadillo.axeneo7.qc.ca
-armadillo.caj.ms
 armadillo.oceandecadenortheastpacific.org
 armadillo.stacking.club
 armadillo.superpeak.dk
@@ -488,7 +487,6 @@ flyingfish.editorslab.de
 flyingfish.whoisrepresented.org
 fowl.saulhardman.com
 fowl.teamyap.app
-fox.domainr.com
 fox.visionaudiovisual.com
 gamefowl.emailforward.mx
 gamefowl.karlsutt.com
@@ -1000,6 +998,7 @@ tapir.lindahlstudios.com
 tarantula.emotionalbaking.com
 tarantula.searchbox.tech
 tarantula.tuxedo.media
+tarsier.emitremmus.com
 tarsier.kriterie.se
 tarsier.webcrafters.co
 termite.queerburners.org
@@ -1016,6 +1015,7 @@ tigershark.vandevliet.me
 tiglon.beyondco.de
 tiglon.davidroessli.com
 toad.ettiennevorster.co.za
+tortoise.mdx.one
 toucan.ateliermilky.com
 toucan.the-faithful.com
 treefrog.buyinsulin.com

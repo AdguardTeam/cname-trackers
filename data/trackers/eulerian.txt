@@ -48,7 +48,6 @@
 ||ar.allrun.fr^
 ||ar.i-run.fr^
 ||azg1.emalu-store.com^
-||b1n.carabins.umontreal.ca^
 ||bch8.destinia.co^
 ||bdj5.terrassesmontecarlosbm.com^
 ||bft5.destinia.fr^
@@ -491,6 +490,7 @@
 ||zum7cc.oui.sncf^
 ||zyq2.destinia.sk^
 ||5fm.985fm.ca^
+||b1n.carabins.umontreal.ca^
 ||c0i.ckoi.com^
 ||c0p.cepsum.umontreal.ca^
 ||d2u.dauphinquebec.com^

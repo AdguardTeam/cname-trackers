@@ -325,6 +325,7 @@
 3362426.notify6.com
 3362426.notifysrv.com
 3363688.notify6.com
+3364366.notify6.com
 3365442.notifysrv.com
 3373381.notify6.com
 3376753.notifysrv.com
@@ -596,6 +597,7 @@
 3587739.notifysrv.com
 3587799.notifysrv.com
 3588.notify.optimizesrv.com
+3588135.notify6.com
 3588135.notifysrv.com
 3588587.notify6.com
 3588587.notifysrv.com
@@ -1030,6 +1032,7 @@
 5111734.notify6.com
 5114166.notify6.com
 5121952.notify6.com
+5129508.notify6.com
 5132062.notify6.com
 5153152.notify6.com
 5276648.notify6.com
@@ -1058,7 +1061,6 @@
 993.notify.optimizesrv.com
 _sip._tcp.meet.3393147.notifysrv.com
 _sips._tcp.3323174.notifysrv.com
-a.344eva.com
 a.addisplaynetwork.com
 a.adsession.com
 a.advantageclicks.net
@@ -1067,11 +1069,11 @@ a.asvsm.com
 a.b7q9v8z.com
 a.bizonads-ssp.com
 a.cant3am.com
-a.etology.com
 a.eunow4u.com
 a.ma3ion.com
 a.n4m5x60.com
 a.optimizesrv.com
+a.playa.to
 a.q88z1s3.com
 a.r8lnet.com
 a.redpathmedia.com
@@ -1091,7 +1093,6 @@ admin.shafttraffic.com
 admin.trafficbaron.com
 admin.trafficfactory.com
 adrepository.opoxv.com
-ads.optimizesrv.com
 api.adnation.com
 api.datingclix.com
 api.getblaze.app
@@ -1121,6 +1122,7 @@ rtb.advertrek.com
 rtb.exoclick.com
 rtb.nowsrv.com
 rtb.trafficfactory.com
+s.18ramp.com
 s.344eva.com
 s.adnflow.com
 s.adsession.com
@@ -1187,6 +1189,7 @@ s.optnx.com
 s.optzsrv.com
 s.orbsrv.com
 s.pemsrv.com
+s.playa.to
 s.q88z1s3.com
 s.redpathmedia.com
 s.rocoads.net
@@ -1210,6 +1213,7 @@ s.zlinkb.com
 s.zlinkc.com
 s.zlinkd.com
 s.zlinkm.com
+s.zlinkn.com
 syndication-adblock.exoclick.com
 syndication-json.exoclick.com
 syndication.dynsrvtbg.com
@@ -1262,8 +1266,12 @@ www.4065194.notify6.com
 www.4069896.notify6.com
 www.4152316.notify6.com
 www.4160048.notify6.com
+www.4270606.notify6.com
 www.4389756.notify6.com
 www.8.notify.bizonads-ssp.com
 www.notify.bizonads-ssp.com
 www.notify6.com
 www.notifysrv.com
+a.344eva.com
+a.etology.com
+ads.optimizesrv.com

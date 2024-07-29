@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721635207450        ; Serial
+           1722240007348        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -14,6 +14,7 @@ $TTL 300
 actionlk.ozie.co.jp CNAME .
 al.484364.com CNAME .
 al.aaa-shop.jp CNAME .
+al.agriz.net CNAME .
 al.amiami345.shop CNAME .
 al.andyell2.com CNAME .
 al.apros.co.jp CNAME .
@@ -27,14 +28,16 @@ al.caetus.jp CNAME .
 al.californiastreet.net CNAME .
 al.combinationmeal.com CNAME .
 al.directishii.net CNAME .
-al.e-fitpro.jp CNAME .
 al.eaphi.co.jp CNAME .
+al.entresquare.com CNAME .
 al.epoi-jp.com CNAME .
 al.fafa-shop.com CNAME .
 al.fakui.jp CNAME .
 al.fundokin.co.jp CNAME .
 al.ganzo.ne.jp CNAME .
 al.germanpet.com CNAME .
+al.gold-japan.jp CNAME .
+al.hamari-health.jp CNAME .
 al.happysun-hinode.com CNAME .
 al.junior-onlineshop.jp CNAME .
 al.kagukuro.com CNAME .
@@ -62,6 +65,7 @@ al.shiffon-online.jp CNAME .
 al.shinfulife.com CNAME .
 al.shopyamatoya-jp.com CNAME .
 al.sotouba.net CNAME .
+al.store.kyokotsu.jp CNAME .
 al.talex.co.jp CNAME .
 al.tanabesports.com CNAME .
 al.tokimeku-otoriyose.jp CNAME .

@@ -88,7 +88,6 @@
 | a8.cypris-online.jp | trck.a8.net |
 | a8.daredemomobile.com | trck.a8.net |
 | a8.de-limmo.jp | trck.a8.net |
-| a8.degicashop.com | trck.a8.net |
 | a8.denki-koji.work | trck.a8.net |
 | a8.denki-tatsujin.com | trck.a8.net |
 | a8.denwa-hikari.com | trck.a8.net |
@@ -217,7 +216,6 @@
 | a8.minion-wifi.com | trck.a8.net |
 | a8.mira-feel.com | trck.a8.net |
 | a8.miror.jp | trck.a8.net |
-| a8.mishii-list.com | trck.a8.net |
 | a8.misshajp.com | trck.a8.net |
 | a8.mm-digitalsales.academy | trck.a8.net |
 | a8.mochu.jp | trck.a8.net |

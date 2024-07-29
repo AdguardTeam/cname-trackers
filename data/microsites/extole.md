@@ -306,6 +306,7 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -349,7 +350,6 @@
     * keds.extole.io
     * kerastase-usa.extole.io
     * key.extole.io
-    * kfcu.extole.io
     * knixteen.extole.io
     * kotn.extole.io
     * kumon.extole.io
@@ -562,6 +562,7 @@
     * vonagebusiness.extole.io
     * vonagebusinessuk.extole.io
     * wagwalking.extole.io
+    * walmartmoneycard.em.extole.io
     * walmartmoneycard.extole.io
     * washtrust.extole.io
     * wearesouthwind.extole.io
@@ -576,7 +577,6 @@
     * wombat.extole.io
     * wrangler.extole.io
     * xfinity.extole.io
-    * zazzle.extole.io
     * zenbusiness.extole.io
     * zenwork.extole.io
     * zinli.extole.io
@@ -766,6 +766,7 @@
 | refer.darphin.com | darphin.extole.io |
 | share.refer-darphin.com | darphin.extole.io |
 | share.darwinspet.com | darwinspet.extole.io |
+| refer.ca.davines.com | davines.extole.io |
 | refer.us.davines.com | davines.extole.io |
 | refer.delloutlet.com | dell-outlet.extole.io |
 | share.desertfinancial.com | desert-financial.extole.io |
@@ -893,6 +894,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -958,7 +960,6 @@
 | friends.keurig.ca | keurigca.extole.com |
 | amis.keurig.ca | keurigfr.extole.com |
 | share.key.com | key.extole.io |
-| refer.kfcu.org | kfcu.extole.io |
 | refer.kipling-usa.com | kipling-usa.extole.com |
 | refer.knixteen.ca | knixteen.extole.io |
 | refer.knixteen.com | knixteen.extole.io |
@@ -1276,6 +1277,7 @@
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
 | refer.vonage.co.uk | vonageuk.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
+| em9523.walmartmoneycard.com | walmartmoneycard.em.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |
@@ -1302,7 +1304,6 @@
 | www.refer.xfinity.com | xfinity.extole.io |
 | xtl._domainkey.skillshare.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
-| refer.zazzlereferral.com | zazzle.extole.io |
 | share.zenbusiness.com | zenbusiness.extole.io |
 | refer.1099online.com | zenwork.extole.io |
 | refer.tax1099.com | zenwork.extole.io |

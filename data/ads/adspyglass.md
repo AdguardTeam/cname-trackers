@@ -8,6 +8,7 @@
 ### Rarely active trackers
 
 * api.clickaine.com
+* u53.hypnorat.com
 * 77980.bodis.com
 
 ## Cloaking domains
@@ -36,6 +37,7 @@
 | 3333.sanjay44.xyz | 0i0i0i0.com |
 | 3333.sieglinde22.xyz | 0i0i0i0.com |
 | 33serve.bussyhunter.com | 0i0i0i0.com |
+| 3haiaz.xyz | 0i0i0i0.com |
 | 4444.sanjay44.xyz | 0i0i0i0.com |
 | 4444.sieglinde22.xyz | 0i0i0i0.com |
 | 5475feaab.clicknplay.to | 0i0i0i0.com |
@@ -178,6 +180,7 @@
 | ads.tabuflix.com | 0i0i0i0.com |
 | ads.wetpussy.sexy | 0i0i0i0.com |
 | adserv.tbussyb.com | 0i0i0i0.com |
+| adservb.com | 0i0i0i0.com |
 | adservf.com | 0i0i0i0.com |
 | adspi.xyz | 0i0i0i0.com |
 | adspy.javrank.com | 0i0i0i0.com |
@@ -341,7 +344,6 @@
 | coolpornvids.com | 0i0i0i0.com |
 | creatives.x2lt.com | 0i0i0i0.com |
 | crumpet.xxxpornhd.pro | 0i0i0i0.com |
-| custom1.shorterall.com | 0i0i0i0.com |
 | cvsd.tjaard11.xyz | 0i0i0i0.com |
 | cx6.lastxxxmovies.com | 0i0i0i0.com |
 | d.3dfetishgirls.com | 0i0i0i0.com |
@@ -490,7 +492,19 @@
 | j.bloblohub.com | 0i0i0i0.com |
 | j.kiteau.blue | 0i0i0i0.com |
 | j45.webringporn.com | 0i0i0i0.com |
+| javacid.fun | 0i0i0i0.com |
+| javbeat.fun | 0i0i0i0.com |
+| javcost.fun | 0i0i0i0.com |
+| javdawn.fun | 0i0i0i0.com |
+| javgulf.fun | 0i0i0i0.com |
 | javguru.gggsss.site | 0i0i0i0.com |
+| javjean.fun | 0i0i0i0.com |
+| javmust.fun | 0i0i0i0.com |
+| javnine.fun | 0i0i0i0.com |
+| javtend.fun | 0i0i0i0.com |
+| javtype.fun | 0i0i0i0.com |
+| javwage.fun | 0i0i0i0.com |
+| javwait.fun | 0i0i0i0.com |
 | jo.429men.com | 0i0i0i0.com |
 | jo.fapnado.xxx | 0i0i0i0.com |
 | jo.fapnow.xxx | 0i0i0i0.com |
@@ -571,9 +585,8 @@
 | msioi.steeelm.xyz | 0i0i0i0.com |
 | mvmzlg.xyz | 0i0i0i0.com |
 | mx6.3pornhere.com | 0i0i0i0.com |
-| my.avatarhome.store | 0i0i0i0.com |
-| my.avatarweb.site | 0i0i0i0.com |
-| my.imagechat.site | 0i0i0i0.com |
+| my.infinitypixel.online | 0i0i0i0.com |
+| my.neogallery.xyz | 0i0i0i0.com |
 | my.shymilftube.com | 0i0i0i0.com |
 | mydomainbest.com | 0i0i0i0.com |
 | mziso.xyz | 0i0i0i0.com |
@@ -726,7 +739,6 @@
 | s.joypornyou.cc | 0i0i0i0.com |
 | s.krivo.buzz | 0i0i0i0.com |
 | s.malay.buzz | 0i0i0i0.com |
-| s.moccapedia.com | 0i0i0i0.com |
 | s.oralblow.com | 0i0i0i0.com |
 | s.perverttube.top | 0i0i0i0.com |
 | s.porndub.us | 0i0i0i0.com |
@@ -846,7 +858,6 @@
 | vuwjv7sjvg7.zedporn.com | 0i0i0i0.com |
 | vv.7vid.net | 0i0i0i0.com |
 | vz.7vid.net | 0i0i0i0.com |
-| watekade.xyz | 0i0i0i0.com |
 | workable1x.xyz | 0i0i0i0.com |
 | ww.0prn.com | 0i0i0i0.com |
 | ww.cvideos.stream | 0i0i0i0.com |
@@ -855,6 +866,7 @@
 | www.b.hubhubhub.name | 0i0i0i0.com |
 | www.bigboy.monster | 0i0i0i0.com |
 | www.bloblohub.com | 0i0i0i0.com |
+| www.cephei-b.com | 0i0i0i0.com |
 | www.cicamica.xyz | 0i0i0i0.com |
 | www.f.bloblohub.com | 0i0i0i0.com |
 | www.hubhubhub.name | 0i0i0i0.com |
@@ -889,6 +901,7 @@
 | x1cdn.fin.ovh | 0i0i0i0.com |
 | x2c1v4.hentaigold.net | 0i0i0i0.com |
 | x2sfa.javgg.eu | 0i0i0i0.com |
+| x9ner.anygay.com | 0i0i0i0.com |
 | xn--q1a.bloblohub.com | 0i0i0i0.com |
 | xs213.javgg.club | 0i0i0i0.com |
 | xserve.zapurl.cc | 0i0i0i0.com |
@@ -910,7 +923,6 @@
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
 | pivo.tracked.one | 77980.bodis.com |
-| stepfantasy.art | 77980.bodis.com |
 | ad.desibp.com | api.clickaine.com |
 | addin.name | u50.0i0i0i0.com |
 | adsxtits.com | u50.0i0i0i0.com |
@@ -928,3 +940,6 @@
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
 | www.newdin.name | u50.0i0i0i0.com |
+| h-ay.com | u53.hypnorat.com |
+| ontj.com | u53.hypnorat.com |
+| qoqv.com | u53.hypnorat.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721635207450        ; Serial
+           1722240007348        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -56,6 +56,7 @@ dg.durgahsursize.com CNAME .
 dj.bergertubbie.com CNAME .
 dk.nanduquelch.com CNAME .
 dl.fatimacapos.com CNAME .
+dr.encaseshay.com CNAME .
 du.jubhahbalize.com CNAME .
 dw.jiglikeshilla.com CNAME .
 dw.organaamnions.com CNAME .
@@ -84,6 +85,7 @@ fk.janetsh.com CNAME .
 fl.dumpiesgoschen.com CNAME .
 fl.gannetsmechant.com CNAME .
 fo.sackerskips.com CNAME .
+fp.rancheparsnip.com CNAME .
 fs.velellabudded.com CNAME .
 fu.dinaricarrear.com CNAME .
 ga.asseizeenl.com CNAME .
@@ -138,12 +140,15 @@ lb.snakilyglebae.com CNAME .
 lc.nodoseamylic.com CNAME .
 ld.stengskelped.com CNAME .
 ld.wraithydecides.com CNAME .
+le.morsalurluch.com CNAME .
 lf.hagweedtoytown.com CNAME .
+lf.newmownbuttes.com CNAME .
 lf.taxwaxgrego.com CNAME .
 lg.feoffortapetis.com CNAME .
 lr.freyaacronal.com CNAME .
 ls.hongaries.com CNAME .
 lw.cupriteshride.com CNAME .
+mc.aliencyinnerly.com CNAME .
 md.tethsrump.com CNAME .
 me.salinaswesting.com CNAME .
 mf.collopantony.com CNAME .
@@ -171,6 +176,7 @@ ns.gyreneverist.com CNAME .
 nv.hirersnay.com CNAME .
 oa.frowllutetia.com CNAME .
 ob.objectsrented.com CNAME .
+og.axductile.com CNAME .
 og.elemeuric.com CNAME .
 ol.dundeesmemo.com CNAME .
 or.alpieutieboy.com CNAME .
@@ -290,6 +296,7 @@ xu.chimerscoshing.com CNAME .
 xw.horrifyclausum.com CNAME .
 xx.billaesopus.com CNAME .
 xx.foetorsnudisms.com CNAME .
+ye.postsiodin.com CNAME .
 yg.coehornjobbet.com CNAME .
 yg.jivinggrazers.com CNAME .
 yh.jewelyavoir.com CNAME .

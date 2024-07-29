@@ -736,6 +736,7 @@
 ||data-524af4397a.worldfootball.net^
 ||data-525bd81403.a1.net^
 ||data-52a43bc433.gala.de^
+||data-53398d506e.apps.iocnt.de^
 ||data-53808e266e.nn.de^
 ||data-53ba3c279a.apps.iocnt.de^
 ||data-53ce61d695.bike-x.de^
@@ -1020,8 +1021,6 @@
 ||data-70f37c510a.suedkurier.de^
 ||data-70f3958feb.bauwelt.de^
 ||data-710a86ea68.apps.iocnt.de^
-||data-71286c9319.nnn.de^
-||data-71286c9319.svz.de^
 ||data-71544c0afd.apps.iocnt.de^
 ||data-718a2dc909.tageblatt.de^
 ||data-7198dfe960.meduniwien.ac.at^
@@ -1348,8 +1347,6 @@
 ||data-9c9d7ad92f.tagblatt-anzeiger.de^
 ||data-9c9d7ad92f.tagblatt.de^
 ||data-9cea99829d.apps.iocnt.de^
-||data-9ceed80655.nnn.de^
-||data-9ceed80655.svz.de^
 ||data-9d5c2cfc8c.baustoff-partner.de^
 ||data-9d5ca866eb.baunetz-architekten.de^
 ||data-9d5ca866eb.baunetz-campus.de^

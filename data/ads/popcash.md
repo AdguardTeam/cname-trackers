@@ -137,7 +137,6 @@
 | aphid.smartjournal.no | deprecated-custom-domains.b-cdn.net |
 | aphid.thyself.me | deprecated-custom-domains.b-cdn.net |
 | armadillo.axeneo7.qc.ca | deprecated-custom-domains.b-cdn.net |
-| armadillo.caj.ms | deprecated-custom-domains.b-cdn.net |
 | armadillo.oceandecadenortheastpacific.org | deprecated-custom-domains.b-cdn.net |
 | armadillo.stacking.club | deprecated-custom-domains.b-cdn.net |
 | armadillo.superpeak.dk | deprecated-custom-domains.b-cdn.net |
@@ -424,7 +423,6 @@
 | flyingfish.whoisrepresented.org | deprecated-custom-domains.b-cdn.net |
 | fowl.saulhardman.com | deprecated-custom-domains.b-cdn.net |
 | fowl.teamyap.app | deprecated-custom-domains.b-cdn.net |
-| fox.domainr.com | deprecated-custom-domains.b-cdn.net |
 | fox.visionaudiovisual.com | deprecated-custom-domains.b-cdn.net |
 | gamefowl.emailforward.mx | deprecated-custom-domains.b-cdn.net |
 | gamefowl.karlsutt.com | deprecated-custom-domains.b-cdn.net |
@@ -936,6 +934,7 @@
 | tarantula.emotionalbaking.com | deprecated-custom-domains.b-cdn.net |
 | tarantula.searchbox.tech | deprecated-custom-domains.b-cdn.net |
 | tarantula.tuxedo.media | deprecated-custom-domains.b-cdn.net |
+| tarsier.emitremmus.com | deprecated-custom-domains.b-cdn.net |
 | tarsier.kriterie.se | deprecated-custom-domains.b-cdn.net |
 | tarsier.webcrafters.co | deprecated-custom-domains.b-cdn.net |
 | termite.queerburners.org | deprecated-custom-domains.b-cdn.net |
@@ -952,6 +951,7 @@
 | tiglon.beyondco.de | deprecated-custom-domains.b-cdn.net |
 | tiglon.davidroessli.com | deprecated-custom-domains.b-cdn.net |
 | toad.ettiennevorster.co.za | deprecated-custom-domains.b-cdn.net |
+| tortoise.mdx.one | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.buyinsulin.com | deprecated-custom-domains.b-cdn.net |

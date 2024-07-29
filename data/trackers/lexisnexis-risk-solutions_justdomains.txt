@@ -425,6 +425,7 @@ dpf.authorize.net
 drfdisvc.walmart.com
 dt.extrakarte.com
 dt.payla.io
+dtpm.kuady.com
 dtrust.atratopago.com
 dvc0271.play.jackpocket.com
 ela1.bankofscotland.co.uk
@@ -603,7 +604,6 @@ ocs.ameriprise.com
 offtest.fnfis.com
 ofxmryjd.seller.walmart.com
 ofxmryjd.walmart.com
-ola2.tdameritrade.com
 olacontent.schwab.com
 om.pgw.fcbarcelona.com
 online-metrix.imars.cloud
@@ -644,6 +644,7 @@ portal-fp.threatmetrix.com
 posture.mtoken.zand.ae
 pov.spectrum.net
 prod-acutx.chaperone.lumindigitalhosting.com
+prod-addition.chaperone.lumindigitalhosting.com
 prod-afcutn.chaperone.lumindigitalhosting.com
 prod-aocumi.chaperone.lumindigitalhosting.com
 prod-apcifcu.chaperone.lumindigitalhosting.com
@@ -953,13 +954,16 @@ tmcdn.europalace.com
 tmcdn.gamingclub.com
 tmcdn.homeaway.com
 tmcdn.jackpotcity.ca
+tmcdn.jackpotcity.mx
 tmcdn.jackpotcitycasino.com
 tmcdn.luckynuggetcasino.com
 tmcdn.mummysgold.com
+tmcdn.riverbellecasino.com
 tmcdn.rubyfortune.com
 tmcdn.spincasino.ca
 tmcdn.spincasino.com
 tmcdn.spincasino.mx
+tmcdn.spingalaxy.com
 tmcdn.spinpalace.com
 tmck.milestonegoldcard.com
 tmcontent.imvu.com

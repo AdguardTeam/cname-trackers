@@ -56,7 +56,6 @@
 ||ablink.account.one.app^
 ||ablink.account.zip.co^
 ||ablink.activation.depop.com^
-||ablink.ae.linktr.ee^
 ||ablink.alerts.forhers.com^
 ||ablink.alerts.marketing.max.com^
 ||ablink.alerts.max.com^
@@ -122,7 +121,6 @@
 ||ablink.m.seatedapp.io^
 ||ablink.m.sofi.org^
 ||ablink.m.theiconic.com.au^
-||ablink.ma.linktr.ee^
 ||ablink.mail.activearcade.ai^
 ||ablink.mail.adobespark.com^
 ||ablink.mail.grailed.com^
@@ -341,6 +339,7 @@
 ||clicks.food.mercato.com^
 ||clicks.info.alle.com^
 ||clicks.justfab.co.uk^
+||clicks.justfab.com^
 ||clicks.justfab.de^
 ||clicks.justfab.es^
 ||clicks.justfab.fr^
@@ -734,7 +733,6 @@
 ||links.t.blueapron.com^
 ||links.t.totallymoney.com^
 ||links.t.wine.com^
-||links.thedyrt.com^
 ||links.younify.tv^
 ||links.yummly.com^
 ||links2.chownowmail.com^
@@ -824,6 +822,7 @@
 ||track.workframe.com^
 ||tracking.email-mandrill.branch.rocks^
 ||tracking.email-mandrill.pushd.com^
+||tracking.groceryoutlet.com^
 ||tracking.laredoute.fr^
 ||tracking.staging.goshare.co^
 ||tracks.roomster.com^
@@ -975,6 +974,7 @@
 ||app-test.albrt.co^
 ||app-test.barking.city^
 ||app-test.barking.ee^
+||app-test.coles.com.au^
 ||app-test.comparethemarket.com.au^
 ||app-test.evntly.com^
 ||app-test.goat.com^
@@ -989,6 +989,7 @@
 ||app-test.thestaxapp.com^
 ||app-test.travelly.vn^
 ||app-test.utlob.com^
+||app-testing.tsgo.io^
 ||app-uat.latrobehealth.com.au^
 ||app-uat.navyhealth.com.au^
 ||app.1112.com^
@@ -998,7 +999,6 @@
 ||app.acekuwait.com^
 ||app.activityhero.com^
 ||app.albrt.co^
-||app.allyos.com^
 ||app.almosafer.com^
 ||app.almutawapharmacies.com^
 ||app.ammanmart.com^
@@ -1173,6 +1173,7 @@
 ||app.jamdoughnut.com^
 ||app.jili178.us^
 ||app.joatspace.com^
+||app.join.goodapp.co.za^
 ||app.joinkroo.com^
 ||app.joinraft.com^
 ||app.jurishand.com^
@@ -1348,7 +1349,6 @@
 ||app.tajawal.com^
 ||app.talksport.com^
 ||app.task.io^
-||app.teachfx.com^
 ||app.test.elly.com^
 ||app.th3rdwave.coffee^
 ||app.theachieveapp.com^
@@ -1684,6 +1684,7 @@
 ||brc.englishdict.cc^
 ||brc.englishtimes.cc^
 ||brc.hellotalk.com^
+||brc.jollymax.com^
 ||brc.languageclass.cc^
 ||brc2.aigrammar.net^
 ||brcargreen.eccocar.com^
@@ -1762,6 +1763,7 @@
 ||c6lc.pandasuite.io^
 ||c917.pandasuite.io^
 ||caapp.levi.com^
+||campaign.moneyx.com.my^
 ||campaigns.impactive.io^
 ||campaigns.outvote.io^
 ||card.getgifted.com^
@@ -1802,7 +1804,6 @@
 ||content.mini.pix.style^
 ||content.pix.style^
 ||content.stage.mini.pix.style^
-||content.yole365.com^
 ||content.youmiam.com^
 ||contractor-app.buildforce.com^
 ||converge.headuplabs.com^
@@ -1853,7 +1854,6 @@
 ||d-app.progressive.com^
 ||d-safetravelsapp.progressive.com^
 ||d-snapshotapp.progressive.com^
-||d.cybtel.com^
 ||d.delahorro.app^
 ||d.jugnoo.in^
 ||d.shopprecouriers.com^
@@ -2030,6 +2030,7 @@
 ||download.parkunload.com^
 ||download.planify.io^
 ||download.poolking.in^
+||download.quiptgsm.com^
 ||download.quizdom.com^
 ||download.quizdom.gr^
 ||download.sendstack.africa^
@@ -2317,6 +2318,7 @@
 ||go.dateinasia.innovatedating.com^
 ||go.datingapp.mingle.com^
 ||go.dev.hbnb.io^
+||go.dev.hearsaylabs.com^
 ||go.dev.upnext.in^
 ||go.devapp.sharekey.com^
 ||go.develapme.com^
@@ -2443,7 +2445,6 @@
 ||go.onecart.co.za^
 ||go.ortholive.com^
 ||go.palpita.net^
-||go.panda-click.com^
 ||go.panda.sa^
 ||go.parents.mingle.com^
 ||go.peak.net^
@@ -2473,6 +2474,7 @@
 ||go.rzr.to^
 ||go.saudiarabia.innovatedating.com^
 ||go.seniorppl.mingle.com^
+||go.sheregesh.app^
 ||go.shop.app^
 ||go.shoppremiumoutlets.com^
 ||go.sirved.com^
@@ -2960,6 +2962,7 @@
 ||link.easy.me^
 ||link.edapp.com^
 ||link.eksperience.io^
+||link.eldorado.io^
 ||link.electroneum.com^
 ||link.electrover.se^
 ||link.emblyapp.com^
@@ -3110,6 +3113,7 @@
 ||link.mei-lan.app^
 ||link.melissawoodhealth.com^
 ||link.memwa.com^
+||link.mentia.me^
 ||link.metronaut.app^
 ||link.meumulti.com.br^
 ||link.midnite.com^
@@ -3325,6 +3329,7 @@
 ||link.vezeeta.com^
 ||link.vibo.io^
 ||link.victoriatheapp.com^
+||link.viim.ai^
 ||link.viivio.io^
 ||link.vinivia.live^
 ||link.viska.com^
@@ -3460,7 +3465,6 @@
 ||links.tlc.com^
 ||links.toriwallet.com^
 ||links.travelchannel.com^
-||links.tribe.fitness^
 ||links.trutify.com^
 ||links.tutorbin.com^
 ||links.vestoapp.com^
@@ -3653,6 +3657,7 @@
 ||nv.inhaabit.com^
 ||o.hmwy.io^
 ||o.myomnicard.in^
+||o388.pandasuite.io^
 ||oahu.shakaguide.com^
 ||ochre-app.hotdoc.com.au^
 ||oferte.cos2000.ro^
@@ -3738,6 +3743,7 @@
 ||pizzacamels.openapp.link^
 ||pizzaexpress.openapp.link^
 ||pizzaromea.openapp.link^
+||pkkc.peblla.app^
 ||pl-topgal.m-shop.me^
 ||play.b-t11.com^
 ||play.fanslide.com^
@@ -3746,7 +3752,6 @@
 ||play.king-01.com^
 ||play.maxgame.store^
 ||play.nekobot.vip^
-||play.nexcash88.net^
 ||play.pixellot.link^
 ||play.rheo.tv^
 ||play.scavos.com^
@@ -3835,7 +3840,6 @@
 ||refer.dev.wagr.us^
 ||refer.dragonfly.com.kh^
 ||refer.gober.app^
-||refer.kheloapp.com^
 ||refer.livwell.asia^
 ||refer.payluy.com.kh^
 ||referral-ca.mixtiles.com^
@@ -3863,6 +3867,8 @@
 ||review.openapp.link^
 ||rewards-my.greateasternlife.com^
 ||rewards-sg.greateasternlife.com^
+||rgmc.regina-maria.ro^
+||rgmc.reginamaria.ro^
 ||rimsha.viralof.online^
 ||rl.finalprice.com^
 ||rooms.itsme.cool^
@@ -4101,8 +4107,6 @@
 ||talent.roxiapp.com^
 ||talentsprint.epoise.com^
 ||talentsprinttest.epoise.com^
-||talk-test.stitch.cam^
-||talk.stitch.cam^
 ||tally.bizanalyst.in^
 ||tamedbc.roska.fr^
 ||tap.carling.com^
@@ -4304,7 +4308,6 @@
 ||z.inlist.com^
 ||z.ziki.app^
 ||zombieslayer-alternate.kano.link^
-||zombieslayer.kano.link^
 ||app.brain.ly^
 ||app.exercisetimer.net^
 ||app.hirenodes.com^

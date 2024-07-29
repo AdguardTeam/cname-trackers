@@ -39,11 +39,13 @@ tk.airfrance.id
 tk.airfrance.ie
 tk.airfrance.in
 tk.airfrance.it
+tk.airfrance.lu
 tk.airfrance.ma
 tk.airfrance.mg
 tk.airfrance.mq
 tk.airfrance.mu
 tk.airfrance.my
+tk.airfrance.ne
 tk.airfrance.ng
 tk.airfrance.nl
 tk.airfrance.no
@@ -59,6 +61,7 @@ tk.airfrance.ru
 tk.airfrance.sa
 tk.airfrance.se
 tk.airfrance.sg
+tk.airfrance.si
 tk.airfrance.sk
 tk.airfrance.sn
 tk.airfrance.tn

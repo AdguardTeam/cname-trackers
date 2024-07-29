@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721635207450        ; Serial
+           1722240007348        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -747,6 +747,7 @@ data-524af4397a.weltfussball.de CNAME .
 data-524af4397a.worldfootball.net CNAME .
 data-525bd81403.a1.net CNAME .
 data-52a43bc433.gala.de CNAME .
+data-53398d506e.apps.iocnt.de CNAME .
 data-53808e266e.nn.de CNAME .
 data-53ba3c279a.apps.iocnt.de CNAME .
 data-53ce61d695.bike-x.de CNAME .
@@ -1031,8 +1032,6 @@ data-70f37c510a.suedkurier-medienhaus.de CNAME .
 data-70f37c510a.suedkurier.de CNAME .
 data-70f3958feb.bauwelt.de CNAME .
 data-710a86ea68.apps.iocnt.de CNAME .
-data-71286c9319.nnn.de CNAME .
-data-71286c9319.svz.de CNAME .
 data-71544c0afd.apps.iocnt.de CNAME .
 data-718a2dc909.tageblatt.de CNAME .
 data-7198dfe960.meduniwien.ac.at CNAME .
@@ -1359,8 +1358,6 @@ data-9c9d7ad92f.neckar-chronik.de CNAME .
 data-9c9d7ad92f.tagblatt-anzeiger.de CNAME .
 data-9c9d7ad92f.tagblatt.de CNAME .
 data-9cea99829d.apps.iocnt.de CNAME .
-data-9ceed80655.nnn.de CNAME .
-data-9ceed80655.svz.de CNAME .
 data-9d5c2cfc8c.baustoff-partner.de CNAME .
 data-9d5ca866eb.baunetz-architekten.de CNAME .
 data-9d5ca866eb.baunetz-campus.de CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721635207450        ; Serial
+           1722240007348        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,7 +86,6 @@ a8.cyclemarket.jp CNAME .
 a8.cypris-online.jp CNAME .
 a8.daredemomobile.com CNAME .
 a8.de-limmo.jp CNAME .
-a8.degicashop.com CNAME .
 a8.denki-koji.work CNAME .
 a8.denki-tatsujin.com CNAME .
 a8.denwa-hikari.com CNAME .
@@ -215,7 +214,6 @@ a8.migxl.com CNAME .
 a8.minion-wifi.com CNAME .
 a8.mira-feel.com CNAME .
 a8.miror.jp CNAME .
-a8.mishii-list.com CNAME .
 a8.misshajp.com CNAME .
 a8.mm-digitalsales.academy CNAME .
 a8.mochu.jp CNAME .

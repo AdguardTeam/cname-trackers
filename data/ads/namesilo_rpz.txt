@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721635207450        ; Serial
+           1722240007348        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -336,6 +336,7 @@ $TTL 300
 3362426.notify6.com CNAME .
 3362426.notifysrv.com CNAME .
 3363688.notify6.com CNAME .
+3364366.notify6.com CNAME .
 3365442.notifysrv.com CNAME .
 3373381.notify6.com CNAME .
 3376753.notifysrv.com CNAME .
@@ -607,6 +608,7 @@ $TTL 300
 3587739.notifysrv.com CNAME .
 3587799.notifysrv.com CNAME .
 3588.notify.optimizesrv.com CNAME .
+3588135.notify6.com CNAME .
 3588135.notifysrv.com CNAME .
 3588587.notify6.com CNAME .
 3588587.notifysrv.com CNAME .
@@ -1041,6 +1043,7 @@ $TTL 300
 5111734.notify6.com CNAME .
 5114166.notify6.com CNAME .
 5121952.notify6.com CNAME .
+5129508.notify6.com CNAME .
 5132062.notify6.com CNAME .
 5153152.notify6.com CNAME .
 5276648.notify6.com CNAME .
@@ -1069,7 +1072,6 @@ $TTL 300
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
-a.344eva.com CNAME .
 a.addisplaynetwork.com CNAME .
 a.adsession.com CNAME .
 a.advantageclicks.net CNAME .
@@ -1078,11 +1080,11 @@ a.asvsm.com CNAME .
 a.b7q9v8z.com CNAME .
 a.bizonads-ssp.com CNAME .
 a.cant3am.com CNAME .
-a.etology.com CNAME .
 a.eunow4u.com CNAME .
 a.ma3ion.com CNAME .
 a.n4m5x60.com CNAME .
 a.optimizesrv.com CNAME .
+a.playa.to CNAME .
 a.q88z1s3.com CNAME .
 a.r8lnet.com CNAME .
 a.redpathmedia.com CNAME .
@@ -1102,7 +1104,6 @@ admin.shafttraffic.com CNAME .
 admin.trafficbaron.com CNAME .
 admin.trafficfactory.com CNAME .
 adrepository.opoxv.com CNAME .
-ads.optimizesrv.com CNAME .
 api.adnation.com CNAME .
 api.datingclix.com CNAME .
 api.getblaze.app CNAME .
@@ -1132,6 +1133,7 @@ rtb.advertrek.com CNAME .
 rtb.exoclick.com CNAME .
 rtb.nowsrv.com CNAME .
 rtb.trafficfactory.com CNAME .
+s.18ramp.com CNAME .
 s.344eva.com CNAME .
 s.adnflow.com CNAME .
 s.adsession.com CNAME .
@@ -1198,6 +1200,7 @@ s.optnx.com CNAME .
 s.optzsrv.com CNAME .
 s.orbsrv.com CNAME .
 s.pemsrv.com CNAME .
+s.playa.to CNAME .
 s.q88z1s3.com CNAME .
 s.redpathmedia.com CNAME .
 s.rocoads.net CNAME .
@@ -1221,6 +1224,7 @@ s.zlinkb.com CNAME .
 s.zlinkc.com CNAME .
 s.zlinkd.com CNAME .
 s.zlinkm.com CNAME .
+s.zlinkn.com CNAME .
 syndication-adblock.exoclick.com CNAME .
 syndication-json.exoclick.com CNAME .
 syndication.dynsrvtbg.com CNAME .
@@ -1273,8 +1277,12 @@ www.4065194.notify6.com CNAME .
 www.4069896.notify6.com CNAME .
 www.4152316.notify6.com CNAME .
 www.4160048.notify6.com CNAME .
+www.4270606.notify6.com CNAME .
 www.4389756.notify6.com CNAME .
 www.8.notify.bizonads-ssp.com CNAME .
 www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
+a.344eva.com CNAME .
+a.etology.com CNAME .
+ads.optimizesrv.com CNAME .

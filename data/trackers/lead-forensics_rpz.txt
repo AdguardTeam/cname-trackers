@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721635207450        ; Serial
+           1722240007348        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,7 +13,6 @@ $TTL 300
 
 capture.norm0care.com CNAME .
 f5.track-mv-01.com CNAME .
-secure.1-cl0ud.com CNAME .
 secure.24-astute.com CNAME .
 secure.24-information-acute.com CNAME .
 secure.24-visionaryenterprise.com CNAME .
@@ -330,10 +329,8 @@ secure.yama1hove.com CNAME .
 secure.yami8alea.com CNAME .
 secure.yeld9auto.com CNAME .
 secure.yirr5frog.com CNAME .
-www.1-cl0ud.com CNAME .
 www.1-creative-1.com CNAME .
 www.100-flannelman.com CNAME .
-www.123-tracker.com CNAME .
 www.143nchrtl3.com CNAME .
 www.1h2h54jkw.com CNAME .
 www.200-rockergod.com CNAME .
@@ -435,9 +432,9 @@ www.deng3rada.com CNAME .
 www.dens1raec.com CNAME .
 www.dhenr54m.com CNAME .
 www.dial4gwyn.com CNAME .
+www.diet3dart.com CNAME .
 www.direct-aws-a1.com CNAME .
 www.direct-azr-78.com CNAME .
-www.discover-path.com CNAME .
 www.djkeun1bal.com CNAME .
 www.dkjn1bal2.com CNAME .
 www.doll8tune.com CNAME .
@@ -461,7 +458,6 @@ www.eue27west.com CNAME .
 www.eventcapture03.com CNAME .
 www.eventcapture06.com CNAME .
 www.ever-track-51.com CNAME .
-www.explore-123.com CNAME .
 www.fear7calk.com CNAME .
 www.feed5baby.com CNAME .
 www.feed5mown.com CNAME .
@@ -504,6 +500,7 @@ www.hook6vein.com CNAME .
 www.hrb1tng0.com CNAME .
 www.hunter-details.com CNAME .
 www.hvgcfx1.com CNAME .
+www.imaginative-trade7.com CNAME .
 www.inc9lineedge.com CNAME .
 www.incline9edge.com CNAME .
 www.indpcr1.com CNAME .
@@ -608,7 +605,6 @@ www.okc-5191.com CNAME .
 www.operationintelligence7.com CNAME .
 www.optimum-xyz.com CNAME .
 www.otto5loki.com CNAME .
-www.ours3care.com CNAME .
 www.page1monk.com CNAME .
 www.page9awry.com CNAME .
 www.pair1tune.com CNAME .
@@ -620,6 +616,7 @@ www.pdxor02.com CNAME .
 www.peak-ip-54.com CNAME .
 www.peak2poem.com CNAME .
 www.peep1alea.com CNAME .
+www.perceptionastute7.com CNAME .
 www.pkrchp001.com CNAME .
 www.plokij1.com CNAME .
 www.plug1luge.com CNAME .
@@ -855,7 +852,10 @@ analytics.glance.inmobi.com CNAME .
 gionee.analytics.glance.inmobi.com CNAME .
 id.analytics.glance.inmobi.com CNAME .
 in.analytics.glance.inmobi.com CNAME .
+secure.1-cl0ud.com CNAME .
 secure.bux1le001.com CNAME .
+www.1-cl0ud.com CNAME .
+www.123-tracker.com CNAME .
 www.200summit.com CNAME .
 www.active-trk7.com CNAME .
 www.angorch-cdr7.com CNAME .
@@ -868,14 +868,14 @@ www.cloud-exploration.com CNAME .
 www.cloudtracer101.com CNAME .
 www.core-cen-54.com CNAME .
 www.detailsinspiration-data.com CNAME .
-www.diet3dart.com CNAME .
+www.discover-path.com CNAME .
 www.discovertrail.net CNAME .
 www.ela-3-tnk.com CNAME .
 www.elite-s001.com CNAME .
+www.explore-123.com CNAME .
 www.forensics1000.com CNAME .
 www.gtcslt-di2.com CNAME .
 www.hunt-leads.com CNAME .
-www.imaginative-trade7.com CNAME .
 www.infra-gtc.com CNAME .
 www.intelligence52.com CNAME .
 www.ksyrium0014.com CNAME .
@@ -886,6 +886,7 @@ www.mbljpu9.com CNAME .
 www.me1294hlx.com CNAME .
 www.mialbj6.com CNAME .
 www.nong3bram.com CNAME .
+www.ours3care.com CNAME .
 www.pass-1234.com CNAME .
 www.perk0mean.com CNAME .
 www.pto-slb-09.com CNAME .

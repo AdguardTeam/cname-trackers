@@ -116,6 +116,7 @@
 | servedby.engineeringnews.co.za | creamer-delivery.aquaplatform.com |
 | servedby.miningweekly.com | creamer-delivery.aquaplatform.com |
 | servedby.polity.org.za | creamer-delivery.aquaplatform.com |
+| static.miningweekly.com | creamer-static.aquaplatform.com |
 | static.polity.org.za | creamer-static.aquaplatform.com |
 | ads.datateam.co.uk | datateam-delivery.aquaplatform.com |
 | cdn.datateam.co.uk | datateam-static.aquaplatform.com |
@@ -168,6 +169,7 @@
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |
 | cdn.personare.com.br | personare-static.aquaplatform.com |
 | assets.lintigroup.se | platformiq-cdn.aquaplatform.com |
+| cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | images.addurance.com | platformiq-cdn.aquaplatform.com |
 | images.informatm.com | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |

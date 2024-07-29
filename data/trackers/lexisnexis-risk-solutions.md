@@ -181,6 +181,7 @@
     * h-asjl0mko-3.online-metrix.net
     * h-asjl0mko.online-metrix.net
     * h-asurion.online-metrix.net
+    * h-atahq1yn-2.online-metrix.net
     * h-atlanticus.online-metrix.net
     * h-autoowners.online-metrix.net
     * h-autozone.online-metrix.net
@@ -649,7 +650,6 @@
     * h-target.online-metrix.net
     * h-targobankonline.online-metrix.net
     * h-tcdrs.online-metrix.net
-    * h-tda.online-metrix.net
     * h-tdbank.online-metrix.net
     * h-tdcanada.online-metrix.net
     * h-telecharge.online-metrix.net
@@ -764,6 +764,7 @@
 | t.zinia.com | h-1ngztxrl.online-metrix.net |
 | content.nycers.org | h-1qbwo7fx.online-metrix.net |
 | prod-acutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-addition.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-afcutn.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-aocumi.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-apcifcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -971,13 +972,16 @@
 | tmcdn.europalace.com | h-98oju8tz.online-metrix.net |
 | tmcdn.gamingclub.com | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcity.ca | h-98oju8tz.online-metrix.net |
+| tmcdn.jackpotcity.mx | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcitycasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.luckynuggetcasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.mummysgold.com | h-98oju8tz.online-metrix.net |
+| tmcdn.riverbellecasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.rubyfortune.com | h-98oju8tz.online-metrix.net |
 | tmcdn.spincasino.ca | h-98oju8tz.online-metrix.net |
 | tmcdn.spincasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.spincasino.mx | h-98oju8tz.online-metrix.net |
+| tmcdn.spingalaxy.com | h-98oju8tz.online-metrix.net |
 | tmcdn.spinpalace.com | h-98oju8tz.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
 | wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
@@ -1045,6 +1049,7 @@
 | content.reisource.com | h-asjl0mko-3.online-metrix.net |
 | content.listsource.com | h-asjl0mko.online-metrix.net |
 | content.asurion53.com | h-asurion.online-metrix.net |
+| dtpm.kuady.com | h-atahq1yn-2.online-metrix.net |
 | lncdn.aspire.com | h-atlanticus.online-metrix.net |
 | lncdn.imaginecredit.com | h-atlanticus.online-metrix.net |
 | lncdn.myfortiva.com | h-atlanticus.online-metrix.net |
@@ -1668,7 +1673,6 @@
 | img9.target.com | h-target.online-metrix.net |
 | ydkwim.targobank.de | h-targobankonline.online-metrix.net |
 | contentinfo.tcdrs.org | h-tcdrs.online-metrix.net |
-| ola2.tdameritrade.com | h-tda.online-metrix.net |
 | tmx.tdbank.com | h-tdbank.online-metrix.net |
 | tmx.td.com | h-tdcanada.online-metrix.net |
 | tm.telecharge.com | h-telecharge.online-metrix.net |

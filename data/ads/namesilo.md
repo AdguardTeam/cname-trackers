@@ -375,6 +375,7 @@
 | 3362426.notify6.com | tk6if76q.ab1n.net |
 | 3362426.notifysrv.com | tk6if76q.ab1n.net |
 | 3363688.notify6.com | tk6if76q.ab1n.net |
+| 3364366.notify6.com | tk6if76q.ab1n.net |
 | 3365442.notifysrv.com | tk6if76q.ab1n.net |
 | 3373381.notify6.com | tk6if76q.ab1n.net |
 | 3376753.notifysrv.com | tk6if76q.ab1n.net |
@@ -646,6 +647,7 @@
 | 3587739.notifysrv.com | tk6if76q.ab1n.net |
 | 3587799.notifysrv.com | tk6if76q.ab1n.net |
 | 3588.notify.optimizesrv.com | tk6if76q.ab1n.net |
+| 3588135.notify6.com | tk6if76q.ab1n.net |
 | 3588135.notifysrv.com | tk6if76q.ab1n.net |
 | 3588587.notify6.com | tk6if76q.ab1n.net |
 | 3588587.notifysrv.com | tk6if76q.ab1n.net |
@@ -1080,6 +1082,7 @@
 | 5111734.notify6.com | tk6if76q.ab1n.net |
 | 5114166.notify6.com | tk6if76q.ab1n.net |
 | 5121952.notify6.com | tk6if76q.ab1n.net |
+| 5129508.notify6.com | tk6if76q.ab1n.net |
 | 5132062.notify6.com | tk6if76q.ab1n.net |
 | 5153152.notify6.com | tk6if76q.ab1n.net |
 | 5276648.notify6.com | tk6if76q.ab1n.net |
@@ -1117,6 +1120,7 @@
 | main.exoclick.com | tk6if76q.ab1n.net |
 | main.exosrv.com | tk6if76q.ab1n.net |
 | main.realsrv.com | tk6if76q.ab1n.net |
+| s.18ramp.com | tk6if76q.ab1n.net |
 | s.344eva.com | tk6if76q.ab1n.net |
 | s.adnflow.com | tk6if76q.ab1n.net |
 | s.adsession.com | tk6if76q.ab1n.net |
@@ -1182,6 +1186,7 @@
 | s.optzsrv.com | tk6if76q.ab1n.net |
 | s.orbsrv.com | tk6if76q.ab1n.net |
 | s.pemsrv.com | tk6if76q.ab1n.net |
+| s.playa.to | tk6if76q.ab1n.net |
 | s.q88z1s3.com | tk6if76q.ab1n.net |
 | s.redpathmedia.com | tk6if76q.ab1n.net |
 | s.rocoads.net | tk6if76q.ab1n.net |
@@ -1205,6 +1210,7 @@
 | s.zlinkc.com | tk6if76q.ab1n.net |
 | s.zlinkd.com | tk6if76q.ab1n.net |
 | s.zlinkm.com | tk6if76q.ab1n.net |
+| s.zlinkn.com | tk6if76q.ab1n.net |
 | syndication-adblock.exoclick.com | tk6if76q.ab1n.net |
 | syndication-json.exoclick.com | tk6if76q.ab1n.net |
 | syndication.dynsrvtbg.com | tk6if76q.ab1n.net |
@@ -1256,6 +1262,7 @@
 | www.4069896.notify6.com | tk6if76q.ab1n.net |
 | www.4152316.notify6.com | tk6if76q.ab1n.net |
 | www.4160048.notify6.com | tk6if76q.ab1n.net |
+| www.4270606.notify6.com | tk6if76q.ab1n.net |
 | www.4389756.notify6.com | tk6if76q.ab1n.net |
 | www.8.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
 | www.notify.bizonads-ssp.com | tk6if76q.ab1n.net |
@@ -1264,12 +1271,10 @@
 | s.exv6.com | tk6if76r.ab1n.net |
 | admin.adnation.com | v3j9t5q9.ab1n.net |
 | admin.datingclix.com | v3j9t5q9.ab1n.net |
-| admin.etology.com | v3j9t5q9.ab1n.net |
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
 | admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | admin.trafficbaron.com | v3j9t5q9.ab1n.net |
 | admin.trafficfactory.com | v3j9t5q9.ab1n.net |
-| a.344eva.com | w2u4v9e1.ab1n.net |
 | a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
 | a.adsession.com | w2u4v9e1.ab1n.net |
 | a.advantageclicks.net | w2u4v9e1.ab1n.net |
@@ -1278,11 +1283,11 @@
 | a.b7q9v8z.com | w2u4v9e1.ab1n.net |
 | a.bizonads-ssp.com | w2u4v9e1.ab1n.net |
 | a.cant3am.com | w2u4v9e1.ab1n.net |
-| a.etology.com | w2u4v9e1.ab1n.net |
 | a.eunow4u.com | w2u4v9e1.ab1n.net |
 | a.ma3ion.com | w2u4v9e1.ab1n.net |
 | a.n4m5x60.com | w2u4v9e1.ab1n.net |
 | a.optimizesrv.com | w2u4v9e1.ab1n.net |
+| a.playa.to | w2u4v9e1.ab1n.net |
 | a.q88z1s3.com | w2u4v9e1.ab1n.net |
 | a.r8lnet.com | w2u4v9e1.ab1n.net |
 | a.redpathmedia.com | w2u4v9e1.ab1n.net |
@@ -1292,12 +1297,10 @@
 | a.stuffserve.com | w2u4v9e1.ab1n.net |
 | a.tf4srv.com | w2u4v9e1.ab1n.net |
 | a.vws4brkfst.com | w2u4v9e1.ab1n.net |
-| ads.optimizesrv.com | w2u4v9e1.ab1n.net |
 | delivery.gettopple.com | w2u4v9e1.ab1n.net |
 | *.exaapi.com | x0xmrxm4.ab1n.net |
 | admin.adnation.com | x0xmrxm4.ab1n.net |
 | admin.datingclix.com | x0xmrxm4.ab1n.net |
-| admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.exoclick.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |

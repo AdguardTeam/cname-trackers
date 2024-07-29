@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721635207450        ; Serial
+           1722240007348        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -54,6 +54,7 @@ cdn.myadsmyanmar.com CNAME .
 cdn.personare.com.br CNAME .
 cdn.pinktriangle.ca CNAME .
 cdn.revive-adserver.net CNAME .
+cdn.reviveservers.com CNAME .
 cdn.rlnads.net CNAME .
 championads.midtc.com CNAME .
 console.adbility-media.com CNAME .
@@ -124,6 +125,7 @@ static.environmentalleader.com CNAME .
 static.fa-mag.com CNAME .
 static.livingmagonline.com CNAME .
 static.mannixmarketing.com CNAME .
+static.miningweekly.com CNAME .
 static.polity.org.za CNAME .
 static.proxibid.com CNAME .
 static.schrotundkorn.de CNAME .

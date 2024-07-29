@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1721635207450        ; Serial
+           1722240007348        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -212,7 +212,6 @@ aphid.polarcop.com CNAME .
 aphid.smartjournal.no CNAME .
 aphid.thyself.me CNAME .
 armadillo.axeneo7.qc.ca CNAME .
-armadillo.caj.ms CNAME .
 armadillo.oceandecadenortheastpacific.org CNAME .
 armadillo.stacking.club CNAME .
 armadillo.superpeak.dk CNAME .
@@ -499,7 +498,6 @@ flyingfish.editorslab.de CNAME .
 flyingfish.whoisrepresented.org CNAME .
 fowl.saulhardman.com CNAME .
 fowl.teamyap.app CNAME .
-fox.domainr.com CNAME .
 fox.visionaudiovisual.com CNAME .
 gamefowl.emailforward.mx CNAME .
 gamefowl.karlsutt.com CNAME .
@@ -1011,6 +1009,7 @@ tapir.lindahlstudios.com CNAME .
 tarantula.emotionalbaking.com CNAME .
 tarantula.searchbox.tech CNAME .
 tarantula.tuxedo.media CNAME .
+tarsier.emitremmus.com CNAME .
 tarsier.kriterie.se CNAME .
 tarsier.webcrafters.co CNAME .
 termite.queerburners.org CNAME .
@@ -1027,6 +1026,7 @@ tigershark.vandevliet.me CNAME .
 tiglon.beyondco.de CNAME .
 tiglon.davidroessli.com CNAME .
 toad.ettiennevorster.co.za CNAME .
+tortoise.mdx.one CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.the-faithful.com CNAME .
 treefrog.buyinsulin.com CNAME .
