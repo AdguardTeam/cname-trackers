@@ -28,6 +28,13 @@
         ]
     },
     {
+        "company_name": "ActionIQ",
+        "type": "tracker",
+        "domains": [
+            "mr-in.com"
+        ]
+    },
+    {
         "company_name": "AD EBiS",
         "type": "tracker",
         "domains": [
@@ -151,6 +158,13 @@
         "type": "tracker",
         "domains": [
             "nc0.co"
+        ]
+    },
+    {
+        "company_name": "Etracker",
+        "type": "tracker",
+        "domains": [
+            "customer.etracker.com"
         ]
     },
     {
@@ -353,6 +367,20 @@
             "a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com",
             "a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com",
             "afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com"
+        ]
+    },
+    {
+        "company_name": "TrueData",
+        "type": "tracker",
+        "domains": [
+            "e.truedata.co"
+        ]
+    },
+    {
+        "company_name": "Utiq",
+        "type": "tracker",
+        "domains": [
+            "utiq-aws.net"
         ]
     },
     {
