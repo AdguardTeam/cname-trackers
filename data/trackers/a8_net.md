@@ -34,7 +34,6 @@
 | a8.ahcswiss.com | trck.a8.net |
 | a8.air-snet.com | trck.a8.net |
 | a8.aliceandolivia.jp | trck.a8.net |
-| a8.ama-mail.jp | trck.a8.net |
 | a8.amairo-sky.com | trck.a8.net |
 | a8.andethic.com | trck.a8.net |
 | a8.anipos.com | trck.a8.net |
@@ -161,6 +160,7 @@
 | a8.idiy.biz | trck.a8.net |
 | a8.ihinnoseiriyasan.com | trck.a8.net |
 | a8.iisakafuji.online | trck.a8.net |
+| a8.ijinet.com | trck.a8.net |
 | a8.ikkatsu.jp | trck.a8.net |
 | a8.industrial-branch.com | trck.a8.net |
 | a8.infinitussub.com | trck.a8.net |
@@ -550,7 +550,6 @@
 | a8clk.kihada.jp | trck.a8.net |
 | a8clk.komochikon.jp | trck.a8.net |
 | a8clk.kyoto-health.co.jp | trck.a8.net |
-| a8clk.kyoyu-mochibun.com | trck.a8.net |
 | a8clk.label-seal-print.com | trck.a8.net |
 | a8clk.lasana.co.jp | trck.a8.net |
 | a8clk.laundry-out.jp | trck.a8.net |
@@ -751,6 +750,7 @@
 | a8cnv.rmsbeauty.jp | trck.a8.net |
 | a8cv.012grp.co.jp | trck.a8.net |
 | a8cv.03plus.net | trck.a8.net |
+| a8cv.04510.jp | trck.a8.net |
 | a8cv.1-class.jp | trck.a8.net |
 | a8cv.1sbc.com | trck.a8.net |
 | a8cv.464981.com | trck.a8.net |
@@ -1191,7 +1191,6 @@
 | a8cv.staffagent.co.jp | trck.a8.net |
 | a8cv.starpeg-music.com | trck.a8.net |
 | a8cv.store.alpen-group.jp | trck.a8.net |
-| a8cv.store.ion-e-air.jp | trck.a8.net |
 | a8cv.store.saneibd.com | trck.a8.net |
 | a8cv.store.tavenal.com | trck.a8.net |
 | a8cv.store.tiger-corporation.com | trck.a8.net |
@@ -1288,6 +1287,7 @@
 | a8cv.yui.gift | trck.a8.net |
 | a8cv.yuyu-tei.jp | trck.a8.net |
 | a8cv.zacc.jp | trck.a8.net |
+| a8cv.zeal-agent.com | trck.a8.net |
 | a8cv.zeroen-denki.com | trck.a8.net |
 | a8cv.zerorenovation.com | trck.a8.net |
 | a8cv.zoner.com | trck.a8.net |
@@ -1487,7 +1487,6 @@
 | cv.virtualoffice-resonance.jp | trck.a8.net |
 | cv.web-sana.com | trck.a8.net |
 | cv.willbefit.jp | trck.a8.net |
-| cv.wp-avenue.com | trck.a8.net |
 | cv.www.jobcareer.jp | trck.a8.net |
 | cv.www.risetokyo.jp | trck.a8.net |
 | cv.www.rokuzan.net | trck.a8.net |
@@ -1569,7 +1568,6 @@
 | web.collaboration-access.com | trck.a8.net |
 | web.hikari-ocn.com | trck.a8.net |
 | web.hikari-softbank.com | trck.a8.net |
-| web.life-cw.com | trck.a8.net |
 | webtest.lpio.jp | trck.a8.net |
 | www.a8clk.amelia.ne.jp | trck.a8.net |
 | www.a8clk.kanagawa-zero.com | trck.a8.net |

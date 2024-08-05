@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -343,7 +343,6 @@ centipede.yuv.al CNAME .
 cephalopod.nucleus.us CNAME .
 cephalopod.revelio.io CNAME .
 cephalopod.staff.design CNAME .
-chameleon.ryanmettler.com CNAME .
 cheetah.gaptry.com CNAME .
 cheetah.songrender.com CNAME .
 cheetah.stolenboats.info CNAME .
@@ -447,7 +446,6 @@ echidna.hellotomorrow.agency CNAME .
 echidna.honeybadger.io CNAME .
 eel.aware7.de CNAME .
 eel.beekeeperstudio.io CNAME .
-eel.cuabuilders.com CNAME .
 eel.ieo.do CNAME .
 egret.brothers.studio CNAME .
 egret.chankaryik.com CNAME .
@@ -520,6 +518,7 @@ giraffe.talktalent.com CNAME .
 giraffe.viatorci.com CNAME .
 goat.aicontentdojo.com CNAME .
 goat.kunalslab.com CNAME .
+goat.lymedocs.com CNAME .
 goat.purposevisionfuture.com CNAME .
 goat.vrds.app CNAME .
 goldfish.boleary.dev CNAME .
@@ -536,7 +535,6 @@ grouse.devopsnewsletters.com CNAME .
 grouse.i21.co CNAME .
 grouse.textile.io CNAME .
 grouse.ultimateballistics.com CNAME .
-grouse.yannev.es CNAME .
 guan.domainnamesanity.com CNAME .
 guan.elfenkueche.at CNAME .
 guan.lathamcommunications.com CNAME .
@@ -567,7 +565,6 @@ hawk.makroskop.eu CNAME .
 hawk.mjsarfatti.com CNAME .
 hedgehog.fightforthefuture.org CNAME .
 heron.joel.is CNAME .
-heron.morphiq.digital CNAME .
 heron.notability.com CNAME .
 heron.oneaudiobooks.app CNAME .
 herring.artemis.cloud CNAME .
@@ -876,6 +873,7 @@ quokka.oeshome.org CNAME .
 rabbit.radicalxchange.org CNAME .
 rabbit.upwardhomes.net CNAME .
 raccoon.jaronheard.com CNAME .
+rat.einfachlebenforum.com CNAME .
 rat.gimlet.io CNAME .
 raven.konquadrat.de CNAME .
 raven.vethelpdirect.com CNAME .
@@ -910,7 +908,6 @@ salamander.showandtelldata.com CNAME .
 salamander.yourownpay.com CNAME .
 salmon.literallife.church CNAME .
 salmon.thespiritualpsychologist.co.uk CNAME .
-sawfish.abracebrasil.org CNAME .
 sawfish.hxd-lab.de CNAME .
 sawfish.loqbooq.app CNAME .
 scallop.esolia.pro CNAME .
@@ -1050,7 +1047,6 @@ uktgg.dev-tester.com CNAME .
 vampirebat.datingmedellin.com CNAME .
 vampirebat.febolos.es CNAME .
 vampirebat.git-tower.com CNAME .
-vampirebat.sharpend.io CNAME .
 vampirebat.tinamrak.com CNAME .
 vicuna.callisoma.com CNAME .
 vicuna.casa-moebel.at CNAME .
@@ -1162,6 +1158,7 @@ cdn.unibotscdn.com CNAME .
 ucdn.adgebra.co CNAME .
 cdn.shrtfly.vip CNAME .
 cdn.tracking.prepr.io CNAME .
+chameleon.ryanmettler.com CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .

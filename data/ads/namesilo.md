@@ -34,6 +34,7 @@
 | a.ma3ion.com | 1208818836.rsc.cdn77.org |
 | a.n4m5x60.com | 1208818836.rsc.cdn77.org |
 | a.optimizesrv.com | 1208818836.rsc.cdn77.org |
+| a.playa.to | 1208818836.rsc.cdn77.org |
 | a.q88z1s3.com | 1208818836.rsc.cdn77.org |
 | a.r8lnet.com | 1208818836.rsc.cdn77.org |
 | a.redpathmedia.com | 1208818836.rsc.cdn77.org |
@@ -1253,6 +1254,7 @@
 | www.3466857.notify6.com | tk6if76q.ab1n.net |
 | www.3466863.notify6.com | tk6if76q.ab1n.net |
 | www.3475335.notify6.com | tk6if76q.ab1n.net |
+| www.3493551.notify6.com | tk6if76q.ab1n.net |
 | www.3684237.notify6.com | tk6if76q.ab1n.net |
 | www.3815579.notify6.com | tk6if76q.ab1n.net |
 | www.3856281.notify6.com | tk6if76q.ab1n.net |
@@ -1272,7 +1274,6 @@
 | admin.adnation.com | v3j9t5q9.ab1n.net |
 | admin.datingclix.com | v3j9t5q9.ab1n.net |
 | admin.gettopple.com | v3j9t5q9.ab1n.net |
-| admin.shafttraffic.com | v3j9t5q9.ab1n.net |
 | admin.trafficbaron.com | v3j9t5q9.ab1n.net |
 | admin.trafficfactory.com | v3j9t5q9.ab1n.net |
 | a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
@@ -1306,7 +1307,6 @@
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.redpathmedia.com | x0xmrxm4.ab1n.net |
-| admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.trafficbaron.com | x0xmrxm4.ab1n.net |
 | admin.trafficbaron.com | x0xmrxm4.ab1n.net |

@@ -294,6 +294,7 @@ doporuc.hopsej.cz
 doporuc.konferenceryba.cz
 doporuc.mechaneo.cz
 doporuc.necojakocola.cz
+doporuc.skolaslava.cz
 doporucim.zjistitcenu.cz
 equilist.raj-ohlavek.cz
 hcaffil.mironet.cz
@@ -581,6 +582,7 @@ partner.kurzysusmevem.cz
 partner.kvcar.cz
 partner.laab.cz
 partner.lascero.cz
+partner.lascivni.cz
 partner.leadingtechnologies.cz
 partner.legalni-konopi.cz
 partner.lehatkapropsy.cz

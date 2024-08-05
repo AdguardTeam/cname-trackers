@@ -12,7 +12,6 @@ data-0034231193.apps.iocnt.de
 data-00460c60fa.eurotransport.de
 data-004e4e6793.wetter.at
 data-007f9d19c8.sbz-monteur.de
-data-009c74b736.yesss.at
 data-00c4a5bd11.rockland.fm
 data-00db6fbb05.yachtrevue.at
 data-0142dcfbcf.yacht.de
@@ -1353,6 +1352,8 @@ data-9d5ca866eb.baunetz-campus.de
 data-9d5ca866eb.baunetz-id.de
 data-9d5ca866eb.baunetz.de
 data-9d5ca866eb.baunetzwissen.de
+data-9dc3fcd9b4.fitforfun.de
+data-9dc3fcd9b4.focus.de
 data-9dc3fcd9b4.mylife.de
 data-9dc3fcd9b4.netdoktor.de
 data-9df22f196a.motor1.com
@@ -1625,6 +1626,7 @@ data-bb21a2f11b.bild.de
 data-bb21a2f11b.bz-berlin.de
 data-bb21a2f11b.fitbook.de
 data-bb21a2f11b.myhomebook.de
+data-bb21a2f11b.petbook-magazine.com
 data-bb21a2f11b.petbook.de
 data-bb21a2f11b.sportbild.de
 data-bb21a2f11b.stylebook.de
@@ -1894,6 +1896,7 @@ data-de0603c645.apps.iocnt.de
 data-de5824e84b.lichtnet.de
 data-de83895c33.apps.iocnt.de
 data-dea12ffb25.prisma.de
+data-deb04a4388.ezeitung2.info
 data-deb04a4388.ezeitung3.info
 data-deb04a4388.owl-am-sonntag.de
 data-deb04a4388.wb-immo.de
@@ -2263,6 +2266,7 @@ data-fb37a1e7c3.stuttgarter-zeitung.de
 data-fb37a1e7c3.verlagshaus-jaumann.de
 data-fb6bd6ba7f.agrarzeitung.de
 data-fb6dfd42e8.rationell-reinigen.de
+data-fbb8842b89.focus.de
 data-fbb8842b89.mylife.de
 data-fbb8842b89.netdoktor.de
 data-fc03a8828d.streampicker.de
@@ -2324,6 +2328,7 @@ data-nl.tageskarte.io
 dnsbl.test.data-6dbef37a3c.apps.iocnt.de
 member.oewa.at
 pool1.i-am.io
+pool2.ioam.de
 report.oewa.at
 source-66584305d5.mainpost.de
 source-ed91a21bf0.dastelefonbuch.de

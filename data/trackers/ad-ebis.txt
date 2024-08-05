@@ -49,6 +49,7 @@
 ||adebis.angfa-store.jp^
 ||adebis.bathclin.jp^
 ||adebis.bbb-life.jp^
+||adebis.beautiful-voyager.com^
 ||adebis.chojyu.com^
 ||adebis.crowdcredit.jp^
 ||adebis.daiwahouse.co.jp^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -305,6 +305,7 @@ doporuc.hopsej.cz CNAME .
 doporuc.konferenceryba.cz CNAME .
 doporuc.mechaneo.cz CNAME .
 doporuc.necojakocola.cz CNAME .
+doporuc.skolaslava.cz CNAME .
 doporucim.zjistitcenu.cz CNAME .
 equilist.raj-ohlavek.cz CNAME .
 hcaffil.mironet.cz CNAME .
@@ -592,6 +593,7 @@ partner.kurzysusmevem.cz CNAME .
 partner.kvcar.cz CNAME .
 partner.laab.cz CNAME .
 partner.lascero.cz CNAME .
+partner.lascivni.cz CNAME .
 partner.leadingtechnologies.cz CNAME .
 partner.legalni-konopi.cz CNAME .
 partner.lehatkapropsy.cz CNAME .

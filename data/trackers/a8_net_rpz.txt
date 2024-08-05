@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,7 +32,6 @@ a8.aga-hakata.com CNAME .
 a8.ahcswiss.com CNAME .
 a8.air-snet.com CNAME .
 a8.aliceandolivia.jp CNAME .
-a8.ama-mail.jp CNAME .
 a8.amairo-sky.com CNAME .
 a8.andethic.com CNAME .
 a8.anipos.com CNAME .
@@ -159,6 +158,7 @@ a8.i-staff.jp CNAME .
 a8.idiy.biz CNAME .
 a8.ihinnoseiriyasan.com CNAME .
 a8.iisakafuji.online CNAME .
+a8.ijinet.com CNAME .
 a8.ikkatsu.jp CNAME .
 a8.industrial-branch.com CNAME .
 a8.infinitussub.com CNAME .
@@ -548,7 +548,6 @@ a8clk.kenkoukazoku.co.jp CNAME .
 a8clk.kihada.jp CNAME .
 a8clk.komochikon.jp CNAME .
 a8clk.kyoto-health.co.jp CNAME .
-a8clk.kyoyu-mochibun.com CNAME .
 a8clk.label-seal-print.com CNAME .
 a8clk.lasana.co.jp CNAME .
 a8clk.laundry-out.jp CNAME .
@@ -749,6 +748,7 @@ a8cname.nj-e.jp CNAME .
 a8cnv.rmsbeauty.jp CNAME .
 a8cv.012grp.co.jp CNAME .
 a8cv.03plus.net CNAME .
+a8cv.04510.jp CNAME .
 a8cv.1-class.jp CNAME .
 a8cv.1sbc.com CNAME .
 a8cv.464981.com CNAME .
@@ -1189,7 +1189,6 @@ a8cv.staff-manzoku.co.jp CNAME .
 a8cv.staffagent.co.jp CNAME .
 a8cv.starpeg-music.com CNAME .
 a8cv.store.alpen-group.jp CNAME .
-a8cv.store.ion-e-air.jp CNAME .
 a8cv.store.saneibd.com CNAME .
 a8cv.store.tavenal.com CNAME .
 a8cv.store.tiger-corporation.com CNAME .
@@ -1286,6 +1285,7 @@ a8cv.you-shoku.net CNAME .
 a8cv.yui.gift CNAME .
 a8cv.yuyu-tei.jp CNAME .
 a8cv.zacc.jp CNAME .
+a8cv.zeal-agent.com CNAME .
 a8cv.zeroen-denki.com CNAME .
 a8cv.zerorenovation.com CNAME .
 a8cv.zoner.com CNAME .
@@ -1485,7 +1485,6 @@ cv.viday.jp CNAME .
 cv.virtualoffice-resonance.jp CNAME .
 cv.web-sana.com CNAME .
 cv.willbefit.jp CNAME .
-cv.wp-avenue.com CNAME .
 cv.www.jobcareer.jp CNAME .
 cv.www.risetokyo.jp CNAME .
 cv.www.rokuzan.net CNAME .
@@ -1569,7 +1568,6 @@ trcka8net.qieto.net CNAME .
 web.collaboration-access.com CNAME .
 web.hikari-ocn.com CNAME .
 web.hikari-softbank.com CNAME .
-web.life-cw.com CNAME .
 webtest.lpio.jp CNAME .
 www.a8clk.amelia.ne.jp CNAME .
 www.a8clk.kanagawa-zero.com CNAME .

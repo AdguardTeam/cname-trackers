@@ -73,6 +73,7 @@
 ||tr.asp10b3.espmp-agfr.net^
 ||tr.asp10bq.espmp-nifr.net^
 ||tr.asp10bs.espmp-aufr.net^
+||tr.asp10c1.espmp-agfr.net^
 ||tr.asp10c8.espmp-agfr.net^
 ||tr.asp10cc.espmp-nifr.net^
 ||tr.asp10cg.espmp-nifr.net^
@@ -359,6 +360,7 @@
 ||tr.emailing.canalplus-afrique.com^
 ||tr.emailing.canalplus-caledonie.com^
 ||tr.emailing.canalplus-caraibes.com^
+||tr.emailing.canalplus-haiti.com^
 ||tr.emailing.canalplus-maurice.com^
 ||tr.emailing.canalplus-polynesie.com^
 ||tr.emailing.canalplus-reunion.com^
@@ -464,11 +466,11 @@
 ||tr.info.easyvoyage.co.uk^
 ||tr.info.easyvoyage.com^
 ||tr.info.ecole-de-savignac.com^
+||tr.info.epicery.com^
 ||tr.info.fulli.com^
 ||tr.info.galian.fr^
 ||tr.info.harmonie-mutuelle.fr^
 ||tr.info.lacentrale.fr^
-||tr.info.lettre.cci.fr^
 ||tr.info.linnc.com^
 ||tr.info.linxea.com^
 ||tr.info.mango-mobilites.fr^
@@ -607,6 +609,7 @@
 ||tr.mailperformance.com^
 ||tr.mailperformance.fr^
 ||tr.maisonsdumonde.com^
+||tr.marg.espmp-agfr.net^
 ||tr.marg02n.espmp-agfr.net^
 ||tr.marketing.bordeauxgironde.cci.fr^
 ||tr.marketing.comparadordeprestamos.es^
@@ -659,6 +662,7 @@
 ||tr.n.info.sygmabanque.fr^
 ||tr.n.kinder.fr^
 ||tr.n.nutella.fr^
+||tr.n.retif.eu^
 ||tr.n.tic-tac.fr^
 ||tr.nati02d.espmp-aufr.net^
 ||tr.nespresso.com^
@@ -1103,6 +1107,7 @@
 ||tr.welcome.thelist-emirates.fr^
 ||tr.welcome.unaoffertaalgiorno.com^
 ||tr.welcome.vipmag.fr^
+||tr.win.moethennessy.com^
 ||tr.wuei.espmp-agfr.net^
 ||tr.xlead.digital^
 ||tr.xleads.digital^

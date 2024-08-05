@@ -231,6 +231,7 @@
     * bf14bf36-iksdytmu.cname.ebis.ne.jp
     * bf6230ec-6pusefyf.cname.ebis.ne.jp
     * bf9a6318-sfkvsvst.cname.ebis.ne.jp
+    * c001201e-jpe7blqe.cname.ebis.ne.jp
     * c054b113-ztaqjkmm.cname.ebis.ne.jp
     * c07c2fd1-ccb9p988.cname.ebis.ne.jp
     * c0b8a8ee-bxd3nsfc.cname.ebis.ne.jp
@@ -538,6 +539,7 @@
 | test-ad.mens-lucia.com | bf14bf36-iksdytmu.cname.ebis.ne.jp |
 | ebis-tracking.tcb-recruit.com | bf6230ec-6pusefyf.cname.ebis.ne.jp |
 | adebis.mizunomori.com | bf9a6318-sfkvsvst.cname.ebis.ne.jp |
+| adebis.beautiful-voyager.com | c001201e-jpe7blqe.cname.ebis.ne.jp |
 | adebis.464981.com | c054b113-ztaqjkmm.cname.ebis.ne.jp |
 | tracking.mysurance.co.jp | c07c2fd1-ccb9p988.cname.ebis.ne.jp |
 | cv-adebis.nlpjapan.co.jp | c0b8a8ee-bxd3nsfc.cname.ebis.ne.jp |

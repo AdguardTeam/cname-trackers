@@ -1,0 +1,26 @@
+!
+! Company name: TrueData
+||td.bestproducts.com^
+||td.bicycling.com^
+||td.caranddriver.com^
+||td.cosmopolitan.com^
+||td.countryliving.com^
+||td.delish.com^
+||td.elle.com^
+||td.elledecor.com^
+||td.esquire.com^
+||td.goodhousekeeping.com^
+||td.harpersbazaar.com^
+||td.housebeautiful.com^
+||td.menshealth.com^
+||td.oprahdaily.com^
+||td.popularmechanics.com^
+||td.prevention.com^
+||td.roadandtrack.com^
+||td.runnersworld.com^
+||td.seventeen.com^
+||td.thepioneerwoman.com^
+||td.townandcountrymag.com^
+||td.veranda.com^
+||td.womansday.com^
+||td.womenshealthmag.com^

@@ -128,8 +128,7 @@ acq.discover.com
 businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
-em8561.go2bank.com
-em9523.walmartmoneycard.com
+em3904.skillshare.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -149,6 +148,7 @@ promos.zinli.com
 propertyperks.xfinity.com
 q.share.qvcemail.com
 recommander.quickbooks.ca
+refer-au.princess.com
 refer-photo.cvs.com
 refer-staging.freshly.com
 refer-us.uniqlo.com
@@ -423,6 +423,7 @@ referafriend.comcast.com
 referafriend.discover.com
 referafriend.xfinity.com
 referavet.petco.com
+referral.ammunitiondepot.com
 referral.bluehost.com
 referral.cledepeaubeaute.com
 referral.drunkelephant.com
@@ -573,13 +574,13 @@ share.maidpro.com
 share.mamabearlegalforms.com
 share.mansfieldnewsjournal.com
 share.medely.com
-share.meettally.com
 share.montgomeryadvertiser.com
 share.mtntough.com
 share.mycarpe.com
 share.myollie.com
 share.myq.com
 share.newarkadvocate.com
+share.news-press.com
 share.newtonbaby.com
 share.ngfcu.us
 share.northjersey.com
@@ -710,9 +711,10 @@ www.referessentials.com
 www.referquickbooks.com
 em1476.princesscruises.com
 em225.codecademy.com
-em3904.skillshare.com
 em4367.raf-studentloans.discover.com
+em8561.go2bank.com
 em8928.em.petco.com
 em924.refer.starbucks.com
+em9523.walmartmoneycard.com
 xtl._domainkey.skillshare.com
 sftp.extole.com

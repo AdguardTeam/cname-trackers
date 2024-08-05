@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -84,6 +84,7 @@ tr.asp10ar.espmp-cufr.net CNAME .
 tr.asp10b3.espmp-agfr.net CNAME .
 tr.asp10bq.espmp-nifr.net CNAME .
 tr.asp10bs.espmp-aufr.net CNAME .
+tr.asp10c1.espmp-agfr.net CNAME .
 tr.asp10c8.espmp-agfr.net CNAME .
 tr.asp10cc.espmp-nifr.net CNAME .
 tr.asp10cg.espmp-nifr.net CNAME .
@@ -370,6 +371,7 @@ tr.emailing.canalplay.com CNAME .
 tr.emailing.canalplus-afrique.com CNAME .
 tr.emailing.canalplus-caledonie.com CNAME .
 tr.emailing.canalplus-caraibes.com CNAME .
+tr.emailing.canalplus-haiti.com CNAME .
 tr.emailing.canalplus-maurice.com CNAME .
 tr.emailing.canalplus-polynesie.com CNAME .
 tr.emailing.canalplus-reunion.com CNAME .
@@ -475,11 +477,11 @@ tr.info.easyviajar.com CNAME .
 tr.info.easyvoyage.co.uk CNAME .
 tr.info.easyvoyage.com CNAME .
 tr.info.ecole-de-savignac.com CNAME .
+tr.info.epicery.com CNAME .
 tr.info.fulli.com CNAME .
 tr.info.galian.fr CNAME .
 tr.info.harmonie-mutuelle.fr CNAME .
 tr.info.lacentrale.fr CNAME .
-tr.info.lettre.cci.fr CNAME .
 tr.info.linnc.com CNAME .
 tr.info.linxea.com CNAME .
 tr.info.mango-mobilites.fr CNAME .
@@ -618,6 +620,7 @@ tr.mailperf.ngt-services.com CNAME .
 tr.mailperformance.com CNAME .
 tr.mailperformance.fr CNAME .
 tr.maisonsdumonde.com CNAME .
+tr.marg.espmp-agfr.net CNAME .
 tr.marg02n.espmp-agfr.net CNAME .
 tr.marketing.bordeauxgironde.cci.fr CNAME .
 tr.marketing.comparadordeprestamos.es CNAME .
@@ -670,6 +673,7 @@ tr.n.info.cdgp.fr CNAME .
 tr.n.info.sygmabanque.fr CNAME .
 tr.n.kinder.fr CNAME .
 tr.n.nutella.fr CNAME .
+tr.n.retif.eu CNAME .
 tr.n.tic-tac.fr CNAME .
 tr.nati02d.espmp-aufr.net CNAME .
 tr.nespresso.com CNAME .
@@ -1114,6 +1118,7 @@ tr.welcome.smartdeals-transavia-fr.com CNAME .
 tr.welcome.thelist-emirates.fr CNAME .
 tr.welcome.unaoffertaalgiorno.com CNAME .
 tr.welcome.vipmag.fr CNAME .
+tr.win.moethennessy.com CNAME .
 tr.wuei.espmp-agfr.net CNAME .
 tr.xlead.digital CNAME .
 tr.xleads.digital CNAME .

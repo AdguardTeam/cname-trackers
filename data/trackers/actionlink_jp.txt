@@ -40,6 +40,7 @@
 ||al.mitsubachi-note.com^
 ||al.morigaku.jp^
 ||al.nakayamashouten.com^
+||al.naniwayaseika.co.jp^
 ||al.nawa-store.jp^
 ||al.office-com.jp^
 ||al.packstyle.jp^

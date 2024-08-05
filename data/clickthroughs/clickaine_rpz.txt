@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,9 +28,7 @@ app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 c.gotoxxxtube.com CNAME .
 c0n.tubestash.com CNAME .
-c4n.21hub.com CNAME .
 c4n.asianpinay.com CNAME .
-c4n.bigxxxsex.com CNAME .
 c4n.hotjavmovies.com CNAME .
 c4n.mypornovideos.com CNAME .
 c4n.myteentgp.com CNAME .
@@ -86,6 +84,7 @@ hostmaster.rtnews.pro CNAME .
 hruk.afguk.top CNAME .
 hruk.gumasi.top CNAME .
 hruk.jjikk.top CNAME .
+hruk.prikupok.com CNAME .
 hruk.prikupok.icu CNAME .
 icn.brandnewapp.pro CNAME .
 jg1.trypicz.com CNAME .

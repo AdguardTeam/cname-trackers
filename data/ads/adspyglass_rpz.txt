@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -89,6 +89,7 @@ a.hubhubhub.name CNAME .
 a.if20jadf8aj9bu.shop CNAME .
 a.jerkdevice.tv CNAME .
 a.kainpopoy.com CNAME .
+a.kambistory.ml CNAME .
 a.kantotin.net CNAME .
 a.lakmus.xyz CNAME .
 a.letsjerk.tv CNAME .
@@ -188,7 +189,6 @@ adxhand.name CNAME .
 adzilla.name CNAME .
 alaot.com CNAME .
 alkosalvb.filasofighit.com CNAME .
-alt.fescity.com CNAME .
 ancestor3452.fun CNAME .
 announcement317.fun CNAME .
 antiadblock.info CNAME .
@@ -200,6 +200,7 @@ app.zrotary.com CNAME .
 app2up.info CNAME .
 apple.analnoe24.com CNAME .
 apple.arabtoons.net CNAME .
+aqhz.xyz CNAME .
 arabs.alarabsex.com CNAME .
 arabs.alarabsex.net CNAME .
 arabs.alarbda.com CNAME .
@@ -288,7 +289,6 @@ bestadultaction.com CNAME .
 bestxxxaction.com CNAME .
 bigpornclips.com CNAME .
 bigsexvids.com CNAME .
-bikeno.xyz CNAME .
 bio.booseed.com CNAME .
 birthday3452.fun CNAME .
 blow.week1time.com CNAME .
@@ -308,7 +308,6 @@ c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
 c6s.bionestraff.pro CNAME .
 cache.picxxxhub.com CNAME .
-cangatu.xyz CNAME .
 cca.sanjay44.xyz CNAME .
 cdfr.hot4k.org CNAME .
 cdn.2024jphatomenesys35.top CNAME .
@@ -361,7 +360,9 @@ dfgw.neigh11.xyz CNAME .
 dg3qtwew.sanjay44.xyz CNAME .
 digiadzone.com CNAME .
 display.cdnbucket.com CNAME .
+dl.4kporn.xxx CNAME .
 dl.hoes.tube CNAME .
+dl.love4porn.com CNAME .
 do4dude.com CNAME .
 domineering1x.xyz CNAME .
 doonedo.com CNAME .
@@ -506,6 +507,7 @@ javjean.fun CNAME .
 javmust.fun CNAME .
 javnine.fun CNAME .
 javtend.fun CNAME .
+javtrouble11.fun CNAME .
 javtype.fun CNAME .
 javwage.fun CNAME .
 javwait.fun CNAME .
@@ -562,6 +564,7 @@ mamamia.vintageporno.stream CNAME .
 mambus.xyz CNAME .
 manboo.xyz CNAME .
 manduzo.xyz CNAME .
+mangoa.xyz CNAME .
 mangtoz.xyz CNAME .
 mangzoi.xyz CNAME .
 manzosui.xyz CNAME .
@@ -638,6 +641,7 @@ oj.429men.com CNAME .
 oj.fapnado.xxx CNAME .
 oj.fapnow.xxx CNAME .
 ok.fapnow.xxx CNAME .
+okkodoo.com CNAME .
 oldsia.xyz CNAME .
 omission119.fun CNAME .
 onacao.com CNAME .
@@ -664,6 +668,7 @@ pempiz.xyz CNAME .
 penguest.xyz CNAME .
 pickard.hubhubhub.name CNAME .
 pihu.xxxpornhd.pro CNAME .
+pjsos.xyz CNAME .
 pnpjceawvmeu.cdnvideo3.com CNAME .
 poeze.xyz CNAME .
 pop.nkiris.com CNAME .
@@ -784,6 +789,8 @@ shinep.xyz CNAME .
 sis.facesittingbbw.com CNAME .
 sl.edsgcgi11ii1iiwtsbno.online CNAME .
 sl.fsdhbfi2h4932hriegnd111fdsnfl1l.co.za CNAME .
+slacdn.com CNAME .
+sli.crazyporn.xxx CNAME .
 slit.lewd.rip CNAME .
 smart.sunporno.com CNAME .
 solo.chinese-sex-tube.com CNAME .
@@ -815,7 +822,6 @@ tangpuax.xyz CNAME .
 tb.turbocap.net CNAME .
 templa.xyz CNAME .
 tentubu.xyz CNAME .
-test.shrinkbit.in CNAME .
 test2.maxx.ddac.ru CNAME .
 testcommon.soundrussian.com CNAME .
 tiaoap.xyz CNAME .
@@ -846,10 +852,8 @@ umtpopxcsedc.cdnvideo3.com CNAME .
 understanding3x.fun CNAME .
 unpin.hothomefuck.com CNAME .
 up1app.com CNAME .
-upinu.xyz CNAME .
 upperoh.hubhubhub.name CNAME .
 usdtaz.xyz CNAME .
-uthbxvz.bestzba.com CNAME .
 v1.sellbuy.click CNAME .
 vd.7vid.net CNAME .
 vergo.ehrydnmdoe.com CNAME .
@@ -865,9 +869,12 @@ vuruzy.xyz CNAME .
 vuwjv7sjvg7.zedporn.com CNAME .
 vv.7vid.net CNAME .
 vz.7vid.net CNAME .
+w.4kporn.xxx CNAME .
+w.love4porn.com CNAME .
 workable1x.xyz CNAME .
 ww.0prn.com CNAME .
 ww.cvideos.stream CNAME .
+ww.hoes.tube CNAME .
 www.addin.name CNAME .
 www.adxhand.name CNAME .
 www.adzilla.name CNAME .

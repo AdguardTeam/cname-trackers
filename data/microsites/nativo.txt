@@ -9,7 +9,6 @@
 ||0378acbc90.52e531519f.com^
 ||04655ba7cf.63383900e0.com^
 ||05415e502d.0c15ee8124.com^
-||074cc5d98c.6350e10f3a.com^
 ||07926caea4.7d03443cb7.com^
 ||07d57c935d.edd1f5ee3c.com^
 ||07dafbb50a.2f668bef8e.com^
@@ -43,7 +42,6 @@
 ||1f630c0f37.da5ac5f203.com^
 ||1f659ac3f1.fea3389c8c.com^
 ||212dc8d866.4a4a9db4ab.com^
-||213d2867ca.22ddebb169.com^
 ||217bf5cc5e.ad70bbfb11.com^
 ||240f1e8590.da1bfba70b.com^
 ||25f07559f6.85d2ae7308.com^
@@ -58,16 +56,15 @@
 ||2e29d385db.416deca3db.com^
 ||2e59d53c1e.d1f10926c9.com^
 ||2ee8c3ad24.3addb7ccee.com^
-||2f5a638754.b44b3c5f19.com^
 ||319317829f.b15560d3a9.com^
 ||330cc1be66.0a65b6165b.com^
 ||332c2b9009.2843b4bf95.com^
 ||337643a00f.8e403e6714.com^
+||34141a11eb.59fb4bffe0.com^
 ||344cfb3442.e76544118f.com^
 ||34bde6a6d2.7363b17589.com^
 ||3526ef6930.6e28e6bf7e.com^
 ||359489455a.01b4075d6c.com^
-||35d716093d.35494de512.com^
 ||3633d445ff.3a08b8ccd7.com^
 ||36f3024b37.9ee4971a50.com^
 ||36f619728b.e76e75ed51.com^
@@ -115,6 +112,7 @@
 ||5b6710fae7.e841afabc8.com^
 ||5d39fe7c75.2ac4fce9b8.com^
 ||5dc5532e35.6a377e2b5c.com^
+||5dc70c6440.4b6555c25a.com^
 ||5ea8f33fb6.61c6379963.com^
 ||5f69343b4b.cb8ef6fb70.com^
 ||5fb5f9ab05.75bbc9191d.com^
@@ -164,18 +162,19 @@
 ||8137c6a639.32d39cd3fe.com^
 ||8144314d93.7adec6d74e.com^
 ||81a6f6dd5e.bc0f12f04d.com^
+||823141f652.d0436eb7ca.com^
 ||8251cabcf2.e1bf37eb3f.com^
 ||82eb7f5d59.6fe62b9eb9.com^
 ||831a48f85e.2635ebb1c1.com^
 ||84da976039.ea8e52e061.com^
 ||84eeafa1d9.f02fa5826c.com^
-||856267c01d.41bcf8ddc1.com^
 ||85ce67f524.a50808b0d1.com^
 ||85fb7313d7.77e74062b1.com^
 ||882e281cd8.44d100644b.com^
 ||8863ee5a75.fe70a4ad4b.com^
 ||8a2c7cb1c4.9cfcbc9209.com^
 ||8a894bf49d.1ec640b692.com^
+||8c3ebbe6d3.0c9747d501.com^
 ||8c91443955.6ec0a61a52.com^
 ||8e85d46b25.dd3ba09ec2.com^
 ||8f33cfa4f5.2adc6faaa1.com^
@@ -187,7 +186,6 @@
 ||94925f6b5f.e9b55b8452.com^
 ||9590c92334.e0a38ec1d8.com^
 ||9625e76603.9168bb21b4.com^
-||9886b79e62.b785f3975b.com^
 ||99074fec15.3553cadb79.com^
 ||990a2f6c18.b0624e3ea6.com^
 ||9994e49efe.14f5718df1.com^
@@ -207,6 +205,7 @@
 ||a0603102f5.5a9b48f0db.com^
 ||a15d7c11f7.4e2c896383.com^
 ||a18707820b.20001d1a3a.com^
+||a2cad384fc.1332bfac2b.com^
 ||a2cc7ca664.3491a7e985.com^
 ||a2ef3e82bc.5144955a1c.com^
 ||a49db45a80.cd8f50cc9d.com^
@@ -230,8 +229,10 @@
 ||b4260c4455.2c9a6b1211.com^
 ||b498be9950.6ea337b8a4.com^
 ||b527fc6b10.00e7540027.com^
+||b53accf7d8.8f59bb0891.com^
 ||b5c12def58.e09a290e1b.com^
 ||b830a4d240.cfcebde8e4.com^
+||b841298463.cf7f9a4788.com^
 ||b8441b826c.0865a125ce.com^
 ||b86617af46.20823bd7c0.com^
 ||b88f0ff5d0.e81c936c0c.com^
@@ -278,7 +279,6 @@
 ||d8c90f1d70.945b8baa83.com^
 ||da608f2382.87cc51d649.com^
 ||db23738aa3.a0ab3296e0.com^
-||dbcbfd1f9e.6a3a727872.com^
 ||dc7b8b23dd.bf1685177f.com^
 ||dc8b1985cd.a336b509d9.com^
 ||dc8ca1f9ac.557632af6e.com^
@@ -338,6 +338,7 @@
 ||i.selecttopoff.com^
 ||i.statelinear.com^
 ||a135.wftv.com^
+||mlive.share.ntv.io^
 ||share.ntv.io^
 ||shared.sponsoredcontent.com^
 ||a135.fox23.com^
@@ -349,7 +350,6 @@
 ||a614.mlive.com^
 ||a614.nj.com^
 ||a614.pennlive.com^
-||mlive.share.ntv.io^
 ||nj.finegardening.com^
 ||silive.share.ntv.io^
 ||a235.beaumontenterprise.com^

@@ -26,6 +26,7 @@
   "adserver.sniffies.com": "revivehosted-delivery.aquaplatform.com",
   "adserver.sonicplug.com": "sonicplug-delivery.aquaplatform.com",
   "adstatic.kozoom.com": "reservoir.aquaplatform.com",
+  "adv.blulab.net": "blulab-delivery.aquaplatform.com",
   "adv.consulcesi.it": "consulcesi-delivery.aquaplatform.com",
   "adv.unionesarda.it": "unionesarda-delivery.aquaplatform.com",
   "advertising.goldseek.com": "goldseek-delivery.aquaplatform.com",
@@ -34,6 +35,7 @@
   "banners.geminipub.com": "hourmedia-static.aquaplatform.com",
   "banners.leightonbroadcasting.com": "lb-delivery.aquaplatform.com",
   "banners.orangecoast.com": "hourmedia-static.aquaplatform.com",
+  "by.addrecipes.com": "adaptigo-delivery.aquaplatform.com",
   "cdn-adv.unionesarda.it": "unionesarda-static.aquaplatform.com",
   "cdn.datateam.co.uk": "datateam-static.aquaplatform.com",
   "cdn.leightonbroadcasting.com": "lb-static.aquaplatform.com",
@@ -52,6 +54,7 @@
   "console.livingmagonline.com": "livingmag-console.aquaplatform.com",
   "console.mannixmarketing.com": "mannix-console.aquaplatform.com",
   "console.revive-adserver.net": "revivehosted-console.aquaplatform.com",
+  "console.sacommunications.com": "sacomm-console.aquaplatform.com",
   "coreads.cambridge.org": "cambridge-delivery.aquaplatform.com",
   "display.lawbulletin.com": "lawbulletin-delivery.aquaplatform.com",
   "images.addurance.com": "platformiq-cdn.aquaplatform.com",
@@ -61,6 +64,7 @@
   "lalala.geenstijl.nl": "geenstijl-delivery.aquaplatform.com",
   "media360ads.midtc.com": "midtc5-delivery.aquaplatform.com",
   "openx.mondiale.co.uk": "mondiale-delivery.aquaplatform.com",
+  "opx.webtool.net": "platformiq-del.aquaplatform.com",
   "ox.mequoda.com": "mequoda-delivery.aquaplatform.com",
   "proxena-images.reviveservers.com": "platformiq-cdn.aquaplatform.com",
   "proxena-secure.reviveservers.com": "platformiq-del.aquaplatform.com",
@@ -126,5 +130,6 @@
   "www.revive.ahk.de": "ahk-delivery.aquaplatform.com",
   "www.servedby.greenspring.com": "hourmedia-delivery.aquaplatform.com",
   "www.servedby.quirks.com": "geodelivery.aquaplatform.com",
+  "www.static.the-saleroom.com": "proxibid-static.aquaplatform.com",
   "xtraa-secure.reviveservers.com": "platformiq-del.aquaplatform.com"
 }

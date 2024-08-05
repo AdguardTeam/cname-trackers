@@ -13,6 +13,8 @@
 ||tk.airfrance.bg^
 ||tk.airfrance.bj^
 ||tk.airfrance.ca^
+||tk.airfrance.cd^
+||tk.airfrance.cg^
 ||tk.airfrance.ch^
 ||tk.airfrance.cm^
 ||tk.airfrance.co.ao^
@@ -42,6 +44,7 @@
 ||tk.airfrance.lu^
 ||tk.airfrance.ma^
 ||tk.airfrance.mg^
+||tk.airfrance.ml^
 ||tk.airfrance.mq^
 ||tk.airfrance.mu^
 ||tk.airfrance.my^

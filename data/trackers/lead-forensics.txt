@@ -83,7 +83,6 @@
 ||secure.enterprise7syndicate.com^
 ||secure.enterpriseforesight247.com^
 ||secure.enterpriseintelligence-24.com^
-||secure.enterprisingconsortium.com^
 ||secure.enterprisingoperation-7.com^
 ||secure.etym6cero.com^
 ||secure.fear7calk.com^
@@ -329,7 +328,6 @@
 ||www.33infra-strat.com^
 ||www.44-trk-srv.com^
 ||www.44tele-infra.com^
-||www.52data-venture.com^
 ||www.55-trk-srv.com^
 ||www.66-trk-srv.com^
 ||www.66infra-strat.com^
@@ -337,7 +335,6 @@
 ||www.88infra-strat.com^
 ||www.acor1sign.com^
 ||www.adgjl13.com^
-||www.agile-company-247.com^
 ||www.agile-company-365.com^
 ||www.agile-enterprise-365.com^
 ||www.agile365enterprise.com^
@@ -424,6 +421,7 @@
 ||www.diet3dart.com^
 ||www.direct-aws-a1.com^
 ||www.direct-azr-78.com^
+||www.discovertrail.net^
 ||www.djkeun1bal.com^
 ||www.dkjn1bal2.com^
 ||www.doll8tune.com^
@@ -438,7 +436,6 @@
 ||www.ed-clr-01.com^
 ||www.efvrgb12.com^
 ||www.emeu0circ.com^
-||www.enterprise-consortiumoperation.com^
 ||www.enterpriseforesight247.com^
 ||www.enterprisingoperation-7.com^
 ||www.etym6cero.com^
@@ -501,7 +498,6 @@
 ||www.intelligent-data-247.com^
 ||www.intelligentcompanywisdom.com^
 ||www.intelligentdatawisdom.com^
-||www.intuition-agile-7.com^
 ||www.ip-a-box.com^
 ||www.ip-route.net^
 ||www.iproute66.com^
@@ -605,7 +601,6 @@
 ||www.peak-ip-54.com^
 ||www.peak2poem.com^
 ||www.peep1alea.com^
-||www.perceptionastute7.com^
 ||www.pkrchp001.com^
 ||www.plokij1.com^
 ||www.plug1luge.com^
@@ -681,6 +676,7 @@
 ||www.srvtrkxx1.com^
 ||www.srvtrkxx2.com^
 ||www.sugh8yami.com^
+||www.svr-prc-01.com^
 ||www.svr007phz.com^
 ||www.sw-rail-7.com^
 ||www.swat8toot.com^
@@ -694,7 +690,7 @@
 ||www.tire1soak.com^
 ||www.tm1-001.com^
 ||www.torn6back.com^
-||www.toru0vane.com^
+||www.trace-2000.com^
 ||www.trackercloud.net^
 ||www.trackinvestigate.net^
 ||www.trail-route.com^
@@ -730,7 +726,6 @@
 ||www.web-01-gbl.com^
 ||www.web-cntr-07.com^
 ||www.websiteexploration.com^
-||www.weed6tape.com^
 ||www.wild0army.com^
 ||www.wild8prey.com^
 ||www.wivo2gaza.com^
@@ -843,10 +838,13 @@
 ||in.analytics.glance.inmobi.com^
 ||secure.1-cl0ud.com^
 ||secure.bux1le001.com^
+||secure.enterprisingconsortium.com^
 ||www.1-cl0ud.com^
 ||www.123-tracker.com^
 ||www.200summit.com^
+||www.52data-venture.com^
 ||www.active-trk7.com^
+||www.agile-company-247.com^
 ||www.angorch-cdr7.com^
 ||www.aqedsw4.com^
 ||www.azera-s014.com^
@@ -858,15 +856,16 @@
 ||www.core-cen-54.com^
 ||www.detailsinspiration-data.com^
 ||www.discover-path.com^
-||www.discovertrail.net^
 ||www.ela-3-tnk.com^
 ||www.elite-s001.com^
+||www.enterprise-consortiumoperation.com^
 ||www.explore-123.com^
 ||www.forensics1000.com^
 ||www.gtcslt-di2.com^
 ||www.hunt-leads.com^
 ||www.infra-gtc.com^
 ||www.intelligence52.com^
+||www.intuition-agile-7.com^
 ||www.ksyrium0014.com^
 ||www.lead-123.com^
 ||www.letterboxtrail.com^
@@ -877,6 +876,7 @@
 ||www.nong3bram.com^
 ||www.ours3care.com^
 ||www.pass-1234.com^
+||www.perceptionastute7.com^
 ||www.perk0mean.com^
 ||www.pto-slb-09.com^
 ||www.rng-snp-003.com^
@@ -886,13 +886,13 @@
 ||www.smart-company365.com^
 ||www.spn-twr-14.com^
 ||www.star-cntr-5.com^
-||www.svr-prc-01.com^
 ||www.toll6kerb.com^
-||www.trace-2000.com^
+||www.toru0vane.com^
 ||www.track-web.net^
 ||www.trackdiscovery.net^
 ||www.trail-web.com^
 ||www.visionarycompany52.com^
+||www.weed6tape.com^
 ||www.www-path.com^
 ||cloud.webtrack.online^
 ||data.diagnostics.office.com^

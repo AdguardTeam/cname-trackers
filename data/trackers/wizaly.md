@@ -194,6 +194,8 @@
 | tk.airfrance.bg | tkairfrance.wizaly.com |
 | tk.airfrance.bj | tkairfrance.wizaly.com |
 | tk.airfrance.ca | tkairfrance.wizaly.com |
+| tk.airfrance.cd | tkairfrance.wizaly.com |
+| tk.airfrance.cg | tkairfrance.wizaly.com |
 | tk.airfrance.ch | tkairfrance.wizaly.com |
 | tk.airfrance.cm | tkairfrance.wizaly.com |
 | tk.airfrance.co.ao | tkairfrance.wizaly.com |
@@ -223,6 +225,7 @@
 | tk.airfrance.lu | tkairfrance.wizaly.com |
 | tk.airfrance.ma | tkairfrance.wizaly.com |
 | tk.airfrance.mg | tkairfrance.wizaly.com |
+| tk.airfrance.ml | tkairfrance.wizaly.com |
 | tk.airfrance.mq | tkairfrance.wizaly.com |
 | tk.airfrance.mu | tkairfrance.wizaly.com |
 | tk.airfrance.my | tkairfrance.wizaly.com |

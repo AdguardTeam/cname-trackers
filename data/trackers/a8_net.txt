@@ -21,7 +21,6 @@
 ||a8.ahcswiss.com^
 ||a8.air-snet.com^
 ||a8.aliceandolivia.jp^
-||a8.ama-mail.jp^
 ||a8.amairo-sky.com^
 ||a8.andethic.com^
 ||a8.anipos.com^
@@ -148,6 +147,7 @@
 ||a8.idiy.biz^
 ||a8.ihinnoseiriyasan.com^
 ||a8.iisakafuji.online^
+||a8.ijinet.com^
 ||a8.ikkatsu.jp^
 ||a8.industrial-branch.com^
 ||a8.infinitussub.com^
@@ -537,7 +537,6 @@
 ||a8clk.kihada.jp^
 ||a8clk.komochikon.jp^
 ||a8clk.kyoto-health.co.jp^
-||a8clk.kyoyu-mochibun.com^
 ||a8clk.label-seal-print.com^
 ||a8clk.lasana.co.jp^
 ||a8clk.laundry-out.jp^
@@ -738,6 +737,7 @@
 ||a8cnv.rmsbeauty.jp^
 ||a8cv.012grp.co.jp^
 ||a8cv.03plus.net^
+||a8cv.04510.jp^
 ||a8cv.1-class.jp^
 ||a8cv.1sbc.com^
 ||a8cv.464981.com^
@@ -1178,7 +1178,6 @@
 ||a8cv.staffagent.co.jp^
 ||a8cv.starpeg-music.com^
 ||a8cv.store.alpen-group.jp^
-||a8cv.store.ion-e-air.jp^
 ||a8cv.store.saneibd.com^
 ||a8cv.store.tavenal.com^
 ||a8cv.store.tiger-corporation.com^
@@ -1275,6 +1274,7 @@
 ||a8cv.yui.gift^
 ||a8cv.yuyu-tei.jp^
 ||a8cv.zacc.jp^
+||a8cv.zeal-agent.com^
 ||a8cv.zeroen-denki.com^
 ||a8cv.zerorenovation.com^
 ||a8cv.zoner.com^
@@ -1474,7 +1474,6 @@
 ||cv.virtualoffice-resonance.jp^
 ||cv.web-sana.com^
 ||cv.willbefit.jp^
-||cv.wp-avenue.com^
 ||cv.www.jobcareer.jp^
 ||cv.www.risetokyo.jp^
 ||cv.www.rokuzan.net^
@@ -1558,7 +1557,6 @@
 ||web.collaboration-access.com^
 ||web.hikari-ocn.com^
 ||web.hikari-softbank.com^
-||web.life-cw.com^
 ||webtest.lpio.jp^
 ||www.a8clk.amelia.ne.jp^
 ||www.a8clk.kanagawa-zero.com^

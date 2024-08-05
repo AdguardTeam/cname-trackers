@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,7 +23,6 @@ data-0034231193.apps.iocnt.de CNAME .
 data-00460c60fa.eurotransport.de CNAME .
 data-004e4e6793.wetter.at CNAME .
 data-007f9d19c8.sbz-monteur.de CNAME .
-data-009c74b736.yesss.at CNAME .
 data-00c4a5bd11.rockland.fm CNAME .
 data-00db6fbb05.yachtrevue.at CNAME .
 data-0142dcfbcf.yacht.de CNAME .
@@ -1364,6 +1363,8 @@ data-9d5ca866eb.baunetz-campus.de CNAME .
 data-9d5ca866eb.baunetz-id.de CNAME .
 data-9d5ca866eb.baunetz.de CNAME .
 data-9d5ca866eb.baunetzwissen.de CNAME .
+data-9dc3fcd9b4.fitforfun.de CNAME .
+data-9dc3fcd9b4.focus.de CNAME .
 data-9dc3fcd9b4.mylife.de CNAME .
 data-9dc3fcd9b4.netdoktor.de CNAME .
 data-9df22f196a.motor1.com CNAME .
@@ -1636,6 +1637,7 @@ data-bb21a2f11b.bild.de CNAME .
 data-bb21a2f11b.bz-berlin.de CNAME .
 data-bb21a2f11b.fitbook.de CNAME .
 data-bb21a2f11b.myhomebook.de CNAME .
+data-bb21a2f11b.petbook-magazine.com CNAME .
 data-bb21a2f11b.petbook.de CNAME .
 data-bb21a2f11b.sportbild.de CNAME .
 data-bb21a2f11b.stylebook.de CNAME .
@@ -1905,6 +1907,7 @@ data-de0603c645.apps.iocnt.de CNAME .
 data-de5824e84b.lichtnet.de CNAME .
 data-de83895c33.apps.iocnt.de CNAME .
 data-dea12ffb25.prisma.de CNAME .
+data-deb04a4388.ezeitung2.info CNAME .
 data-deb04a4388.ezeitung3.info CNAME .
 data-deb04a4388.owl-am-sonntag.de CNAME .
 data-deb04a4388.wb-immo.de CNAME .
@@ -2274,6 +2277,7 @@ data-fb37a1e7c3.stuttgarter-zeitung.de CNAME .
 data-fb37a1e7c3.verlagshaus-jaumann.de CNAME .
 data-fb6bd6ba7f.agrarzeitung.de CNAME .
 data-fb6dfd42e8.rationell-reinigen.de CNAME .
+data-fbb8842b89.focus.de CNAME .
 data-fbb8842b89.mylife.de CNAME .
 data-fbb8842b89.netdoktor.de CNAME .
 data-fc03a8828d.streampicker.de CNAME .
@@ -2335,6 +2339,7 @@ data-nl.tageskarte.io CNAME .
 dnsbl.test.data-6dbef37a3c.apps.iocnt.de CNAME .
 member.oewa.at CNAME .
 pool1.i-am.io CNAME .
+pool2.ioam.de CNAME .
 report.oewa.at CNAME .
 source-66584305d5.mainpost.de CNAME .
 source-ed91a21bf0.dastelefonbuch.de CNAME .

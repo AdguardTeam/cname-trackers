@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ adserver.rtvutrechtreclame.nl CNAME .
 adserver.sniffies.com CNAME .
 adserver.sonicplug.com CNAME .
 adstatic.kozoom.com CNAME .
+adv.blulab.net CNAME .
 adv.consulcesi.it CNAME .
 adv.unionesarda.it CNAME .
 advertising.goldseek.com CNAME .
@@ -46,6 +47,7 @@ assets.lintigroup.se CNAME .
 banners.geminipub.com CNAME .
 banners.leightonbroadcasting.com CNAME .
 banners.orangecoast.com CNAME .
+by.addrecipes.com CNAME .
 cdn-adv.unionesarda.it CNAME .
 cdn.datateam.co.uk CNAME .
 cdn.leightonbroadcasting.com CNAME .
@@ -64,6 +66,7 @@ console.informingnews.com CNAME .
 console.livingmagonline.com CNAME .
 console.mannixmarketing.com CNAME .
 console.revive-adserver.net CNAME .
+console.sacommunications.com CNAME .
 coreads.cambridge.org CNAME .
 display.lawbulletin.com CNAME .
 images.addurance.com CNAME .
@@ -73,6 +76,7 @@ images.worldofshowjumping.com CNAME .
 lalala.geenstijl.nl CNAME .
 media360ads.midtc.com CNAME .
 openx.mondiale.co.uk CNAME .
+opx.webtool.net CNAME .
 ox.mequoda.com CNAME .
 proxena-images.reviveservers.com CNAME .
 proxena-secure.reviveservers.com CNAME .
@@ -138,4 +142,5 @@ www.revive-static.worldscreen.com CNAME .
 www.revive.ahk.de CNAME .
 www.servedby.greenspring.com CNAME .
 www.servedby.quirks.com CNAME .
+www.static.the-saleroom.com CNAME .
 xtraa-secure.reviveservers.com CNAME .

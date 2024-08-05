@@ -25,9 +25,7 @@
 | asg.javhoho.com | api.clickaine.com |
 | c.gotoxxxtube.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
-| c4n.21hub.com | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
-| c4n.bigxxxsex.com | api.clickaine.com |
 | c4n.hotjavmovies.com | api.clickaine.com |
 | c4n.mypornovideos.com | api.clickaine.com |
 | c4n.myteentgp.com | api.clickaine.com |
@@ -83,6 +81,7 @@
 | hruk.afguk.top | api.clickaine.com |
 | hruk.gumasi.top | api.clickaine.com |
 | hruk.jjikk.top | api.clickaine.com |
+| hruk.prikupok.com | api.clickaine.com |
 | hruk.prikupok.icu | api.clickaine.com |
 | icn.brandnewapp.pro | api.clickaine.com |
 | jg1.trypicz.com | api.clickaine.com |

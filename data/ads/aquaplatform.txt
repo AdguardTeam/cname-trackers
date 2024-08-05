@@ -27,6 +27,7 @@
 ||adserver.sniffies.com^
 ||adserver.sonicplug.com^
 ||adstatic.kozoom.com^
+||adv.blulab.net^
 ||adv.consulcesi.it^
 ||adv.unionesarda.it^
 ||advertising.goldseek.com^
@@ -35,6 +36,7 @@
 ||banners.geminipub.com^
 ||banners.leightonbroadcasting.com^
 ||banners.orangecoast.com^
+||by.addrecipes.com^
 ||cdn-adv.unionesarda.it^
 ||cdn.datateam.co.uk^
 ||cdn.leightonbroadcasting.com^
@@ -53,6 +55,7 @@
 ||console.livingmagonline.com^
 ||console.mannixmarketing.com^
 ||console.revive-adserver.net^
+||console.sacommunications.com^
 ||coreads.cambridge.org^
 ||display.lawbulletin.com^
 ||images.addurance.com^
@@ -62,6 +65,7 @@
 ||lalala.geenstijl.nl^
 ||media360ads.midtc.com^
 ||openx.mondiale.co.uk^
+||opx.webtool.net^
 ||ox.mequoda.com^
 ||proxena-images.reviveservers.com^
 ||proxena-secure.reviveservers.com^
@@ -127,4 +131,5 @@
 ||www.revive.ahk.de^
 ||www.servedby.greenspring.com^
 ||www.servedby.quirks.com^
+||www.static.the-saleroom.com^
 ||xtraa-secure.reviveservers.com^

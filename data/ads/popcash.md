@@ -20,6 +20,7 @@
 * unibotscdn.b-cdn.net
 * popupads.b-cdn.net
 * tracking.b-cdn.net
+* 77980.bodis.com
 * consent.b-cdn.net
 * b-cdn.net
 
@@ -27,6 +28,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| chameleon.ryanmettler.com | 77980.bodis.com |
 | thirty-good.lugg.com | absolutely-novel.b-cdn.net |
 | cdn.admatic.com.tr | admaticcdn.b-cdn.net |
 | video.adsninja.ca | adsninja.b-cdn.net |
@@ -268,7 +270,6 @@
 | cephalopod.nucleus.us | deprecated-custom-domains.b-cdn.net |
 | cephalopod.revelio.io | deprecated-custom-domains.b-cdn.net |
 | cephalopod.staff.design | deprecated-custom-domains.b-cdn.net |
-| chameleon.ryanmettler.com | deprecated-custom-domains.b-cdn.net |
 | cheetah.gaptry.com | deprecated-custom-domains.b-cdn.net |
 | cheetah.songrender.com | deprecated-custom-domains.b-cdn.net |
 | cheetah.stolenboats.info | deprecated-custom-domains.b-cdn.net |
@@ -372,7 +373,6 @@
 | echidna.honeybadger.io | deprecated-custom-domains.b-cdn.net |
 | eel.aware7.de | deprecated-custom-domains.b-cdn.net |
 | eel.beekeeperstudio.io | deprecated-custom-domains.b-cdn.net |
-| eel.cuabuilders.com | deprecated-custom-domains.b-cdn.net |
 | eel.ieo.do | deprecated-custom-domains.b-cdn.net |
 | egret.brothers.studio | deprecated-custom-domains.b-cdn.net |
 | egret.chankaryik.com | deprecated-custom-domains.b-cdn.net |
@@ -445,6 +445,7 @@
 | giraffe.viatorci.com | deprecated-custom-domains.b-cdn.net |
 | goat.aicontentdojo.com | deprecated-custom-domains.b-cdn.net |
 | goat.kunalslab.com | deprecated-custom-domains.b-cdn.net |
+| goat.lymedocs.com | deprecated-custom-domains.b-cdn.net |
 | goat.purposevisionfuture.com | deprecated-custom-domains.b-cdn.net |
 | goat.vrds.app | deprecated-custom-domains.b-cdn.net |
 | goldfish.boleary.dev | deprecated-custom-domains.b-cdn.net |
@@ -461,7 +462,6 @@
 | grouse.i21.co | deprecated-custom-domains.b-cdn.net |
 | grouse.textile.io | deprecated-custom-domains.b-cdn.net |
 | grouse.ultimateballistics.com | deprecated-custom-domains.b-cdn.net |
-| grouse.yannev.es | deprecated-custom-domains.b-cdn.net |
 | guan.domainnamesanity.com | deprecated-custom-domains.b-cdn.net |
 | guan.elfenkueche.at | deprecated-custom-domains.b-cdn.net |
 | guan.lathamcommunications.com | deprecated-custom-domains.b-cdn.net |
@@ -492,7 +492,6 @@
 | hawk.mjsarfatti.com | deprecated-custom-domains.b-cdn.net |
 | hedgehog.fightforthefuture.org | deprecated-custom-domains.b-cdn.net |
 | heron.joel.is | deprecated-custom-domains.b-cdn.net |
-| heron.morphiq.digital | deprecated-custom-domains.b-cdn.net |
 | heron.notability.com | deprecated-custom-domains.b-cdn.net |
 | heron.oneaudiobooks.app | deprecated-custom-domains.b-cdn.net |
 | herring.artemis.cloud | deprecated-custom-domains.b-cdn.net |
@@ -801,6 +800,7 @@
 | rabbit.radicalxchange.org | deprecated-custom-domains.b-cdn.net |
 | rabbit.upwardhomes.net | deprecated-custom-domains.b-cdn.net |
 | raccoon.jaronheard.com | deprecated-custom-domains.b-cdn.net |
+| rat.einfachlebenforum.com | deprecated-custom-domains.b-cdn.net |
 | rat.gimlet.io | deprecated-custom-domains.b-cdn.net |
 | raven.konquadrat.de | deprecated-custom-domains.b-cdn.net |
 | raven.vethelpdirect.com | deprecated-custom-domains.b-cdn.net |
@@ -835,7 +835,6 @@
 | salamander.yourownpay.com | deprecated-custom-domains.b-cdn.net |
 | salmon.literallife.church | deprecated-custom-domains.b-cdn.net |
 | salmon.thespiritualpsychologist.co.uk | deprecated-custom-domains.b-cdn.net |
-| sawfish.abracebrasil.org | deprecated-custom-domains.b-cdn.net |
 | sawfish.hxd-lab.de | deprecated-custom-domains.b-cdn.net |
 | sawfish.loqbooq.app | deprecated-custom-domains.b-cdn.net |
 | scallop.esolia.pro | deprecated-custom-domains.b-cdn.net |
@@ -975,7 +974,6 @@
 | vampirebat.datingmedellin.com | deprecated-custom-domains.b-cdn.net |
 | vampirebat.febolos.es | deprecated-custom-domains.b-cdn.net |
 | vampirebat.git-tower.com | deprecated-custom-domains.b-cdn.net |
-| vampirebat.sharpend.io | deprecated-custom-domains.b-cdn.net |
 | vampirebat.tinamrak.com | deprecated-custom-domains.b-cdn.net |
 | vicuna.callisoma.com | deprecated-custom-domains.b-cdn.net |
 | vicuna.casa-moebel.at | deprecated-custom-domains.b-cdn.net |

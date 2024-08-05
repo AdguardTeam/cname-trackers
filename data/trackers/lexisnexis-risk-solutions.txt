@@ -596,6 +596,7 @@
 ||msimkpups.michaels.com^
 ||mtx.thirdstream.ca^
 ||nav.sciencedirect.com^
+||neo.cdx-bankislam.com^
 ||neo.fashionette.de^
 ||netinf.curemd.com^
 ||nexus-svc.sc.com^
@@ -811,6 +812,7 @@
 ||srv.squaretrade.dk^
 ||srv.squaretrade.es^
 ||srv.squaretrade.no^
+||srv.squaretrade.se^
 ||ssafp.samsclub.com^
 ||st10.sofi.com^
 ||stat.bluorbank.lv^
@@ -956,9 +958,11 @@
 ||tmcdn.jackpotcity.ca^
 ||tmcdn.jackpotcity.mx^
 ||tmcdn.jackpotcitycasino.com^
+||tmcdn.jackpotcitycasino.com.py^
 ||tmcdn.luckynuggetcasino.com^
 ||tmcdn.mummysgold.com^
 ||tmcdn.riverbellecasino.com^
+||tmcdn.rubyfortune.ca^
 ||tmcdn.rubyfortune.com^
 ||tmcdn.spincasino.ca^
 ||tmcdn.spincasino.com^

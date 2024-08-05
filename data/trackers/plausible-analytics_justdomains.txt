@@ -42,7 +42,6 @@ analytics.top10-charts.com
 analytics.trust.page
 analytics.uxmetrics.com
 analytics.valheimgamer.com
-analytics.vanilla-project.guide
 analytics.wayland.app
 analytics.whostheboss.co.uk
 analytics.whotargets.me
@@ -582,6 +581,7 @@ stats.kendix.org
 stats.kensho.com
 stats.kettlebellbundle.com
 stats.kfcsint-lenaartsjeugd.be
+stats.kitspace.org
 stats.klj-consult.com
 stats.knowkit.cloud
 stats.kod.ru
@@ -605,6 +605,7 @@ stats.leavetrackapp.com
 stats.lefthoek.com
 stats.legendofnom.com
 stats.leoloso.com
+stats.levinowska.com
 stats.lica.at
 stats.lik.fr
 stats.limitlessnetworks.eu
@@ -624,7 +625,6 @@ stats.madethis.gallery
 stats.maferland.com
 stats.magarantie5ans.fr
 stats.makerr.market
-stats.makingknown.xyz
 stats.maklerupdate.de
 stats.malte-bartels.de
 stats.martinbetz.eu
@@ -639,6 +639,7 @@ stats.mein-futterlexikon.org
 stats.memberdrive.org
 stats.meno.science
 stats.mesenvies.fr
+stats.metamorphium.com
 stats.michaeloliver.dev
 stats.micv.works
 stats.missionrabies.com
@@ -773,7 +774,6 @@ stats.sixseven.at
 stats.ski.com
 stats.slicedthread.com
 stats.socialeurope.eu
-stats.soundbite.so
 stats.southswindon-pc.gov.uk
 stats.sparkloop.app
 stats.spreadtheworld.net

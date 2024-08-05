@@ -1,0 +1,67 @@
+;
+; Company name: Etracker
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1722844807306        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+bmkt.bernhardtmoden.de CNAME .
+click.easycosmetic.at CNAME .
+click.easycosmetic.be CNAME .
+click.easycosmetic.ch CNAME .
+click.easycosmetic.de CNAME .
+click.easycosmetic.nl CNAME .
+ctrl.guenther.de CNAME .
+data.drhauschka.de CNAME .
+e.mediherz-shop.de CNAME .
+e.medikamente-per-klick.de CNAME .
+e.preisapo.de CNAME .
+et.electronic4you.at CNAME .
+et.electronic4you.de CNAME .
+et.electronic4you.hr CNAME .
+et.electronic4you.si CNAME .
+et.majdic.at CNAME .
+et.pns24.de CNAME .
+ets.verivox.com CNAME .
+ferthu.seyffer.shop CNAME .
+js.edingershops.de CNAME .
+mensch.ekd.de CNAME .
+mktg.activemind.legal CNAME .
+mytrd.orion.at CNAME .
+src.vector.com CNAME .
+stats.folienmarkt.de CNAME .
+stats.kaerntnerjobs.at CNAME .
+stats.mopo.de CNAME .
+stats.pilz.com CNAME .
+stats.rumundco.de CNAME .
+stats.steirerjobs.at CNAME .
+stats.suedtirolerjobs.it CNAME .
+stats.tirolerjobs.at CNAME .
+stats.umziehen.de CNAME .
+stats.united-domains.de CNAME .
+stats.wienerjobs.at CNAME .
+track.dictum.com CNAME .
+track.karlstorz.com CNAME .
+track.thegundogaffair.com CNAME .
+wa.ostermann.eu CNAME .
+webanalytics.pwc.fr CNAME .
+webaus.dw-shop.de CNAME .
+webcontr.bet-at-home.com CNAME .
+webcontr.bet-at-home.de CNAME .
+webcontr.l.de CNAME .
+webcontr.ryzon.net CNAME .
+webcontr.synvia.de CNAME .
+wt.leitz.org CNAME .
+esub.autobatterie-markt.de CNAME .
+esub.online-batterien.de CNAME .
+esub.solarspeicher24.de CNAME .
+et.juskys.de CNAME .
+stats.bodenverkauf.de CNAME .
+stats.ekd.de CNAME .
+stats.maschinenprofi.de CNAME .

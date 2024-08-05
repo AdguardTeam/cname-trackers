@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,7 +38,6 @@ br.hymenicpirn.com CNAME .
 bt.allotshyoides.com CNAME .
 bt.whopstriglot.com CNAME .
 by.ballinghelonin.com CNAME .
-ca.encurlergon.com CNAME .
 cb.momistmatico.com CNAME .
 ce.paliercleaned.com CNAME .
 ck.barefitaiding.com CNAME .
@@ -66,7 +65,6 @@ ec.didnsunns.com CNAME .
 ed.druggertruckle.com CNAME .
 ef.washokanap.com CNAME .
 eg.rosttraborago.com CNAME .
-eh.stowingwhelks.com CNAME .
 ek.gisantscubit.com CNAME .
 em.curnberthed.com CNAME .
 em.gangerburler.com CNAME .
@@ -93,6 +91,7 @@ gd.waxbushengore.com CNAME .
 ge.chassnincom.com CNAME .
 gg.warmanmamelon.com CNAME .
 gh.outswumvinose.com CNAME .
+gi.lyceessnakery.com CNAME .
 gn.afootwitword.com CNAME .
 gq.webbymendole.com CNAME .
 gr.faencepuggy.com CNAME .
@@ -109,6 +108,7 @@ hx.relivesternar.com CNAME .
 ii.dorothycanzos.com CNAME .
 ii.woolensulking.com CNAME .
 ik.nuraghireels.com CNAME .
+im.trodspivery.com CNAME .
 ir.mildlydoucely.com CNAME .
 it.hokerlywaffies.com CNAME .
 ix.sparkleagings.com CNAME .
@@ -155,7 +155,6 @@ mf.collopantony.com CNAME .
 mf.egridstaidly.com CNAME .
 mf.fauldbeeth.com CNAME .
 mh.wedgedgeoduck.com CNAME .
-mi.gaywayperkish.com CNAME .
 ml.estellaeyelet.com CNAME .
 ml.sunspotbaffies.com CNAME .
 mn.prespurmaness.com CNAME .
@@ -211,12 +210,14 @@ rj.roubouhaliptae.com CNAME .
 rl.fracturmeropia.com CNAME .
 rm.bauderylysines.com CNAME .
 rm.wegastroky.com CNAME .
+ro.killdeeflybane.com CNAME .
 rq.pettahgurr.com CNAME .
 rs.ashorestrifes.com CNAME .
 rw.davielyedith.com CNAME .
 rw.gundogleaker.com CNAME .
 ry.holistnunatak.com CNAME .
 ry.melindacst.com CNAME .
+ry.seceshogam.com CNAME .
 rz.couchedcircles.com CNAME .
 rz.salemcowbyre.com CNAME .
 sb.elfshippref.com CNAME .
@@ -233,7 +234,6 @@ sq.volvellurol.com CNAME .
 sr.awkwardpurfles.com CNAME .
 ss.phallicbedsore.com CNAME .
 st.perteranorak.com CNAME .
-sw.pluckysups.com CNAME .
 sx.followexciton.com CNAME .
 sy.sartishmoop.com CNAME .
 sz.createsgummous.com CNAME .
@@ -309,7 +309,7 @@ yq.bokosatom.com CNAME .
 yu.deggerfletton.com CNAME .
 yv.remountduretto.com CNAME .
 yz.wrightdirely.com CNAME .
-zd.plattedrattons.com CNAME .
+zd.amautkarite.com CNAME .
 zg.butaneailment.com CNAME .
 zg.embraseupgo.com CNAME .
 zi.kissbluest.com CNAME .

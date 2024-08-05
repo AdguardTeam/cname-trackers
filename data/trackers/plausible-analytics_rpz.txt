@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -53,7 +53,6 @@ analytics.top10-charts.com CNAME .
 analytics.trust.page CNAME .
 analytics.uxmetrics.com CNAME .
 analytics.valheimgamer.com CNAME .
-analytics.vanilla-project.guide CNAME .
 analytics.wayland.app CNAME .
 analytics.whostheboss.co.uk CNAME .
 analytics.whotargets.me CNAME .
@@ -593,6 +592,7 @@ stats.kendix.org CNAME .
 stats.kensho.com CNAME .
 stats.kettlebellbundle.com CNAME .
 stats.kfcsint-lenaartsjeugd.be CNAME .
+stats.kitspace.org CNAME .
 stats.klj-consult.com CNAME .
 stats.knowkit.cloud CNAME .
 stats.kod.ru CNAME .
@@ -616,6 +616,7 @@ stats.leavetrackapp.com CNAME .
 stats.lefthoek.com CNAME .
 stats.legendofnom.com CNAME .
 stats.leoloso.com CNAME .
+stats.levinowska.com CNAME .
 stats.lica.at CNAME .
 stats.lik.fr CNAME .
 stats.limitlessnetworks.eu CNAME .
@@ -635,7 +636,6 @@ stats.madethis.gallery CNAME .
 stats.maferland.com CNAME .
 stats.magarantie5ans.fr CNAME .
 stats.makerr.market CNAME .
-stats.makingknown.xyz CNAME .
 stats.maklerupdate.de CNAME .
 stats.malte-bartels.de CNAME .
 stats.martinbetz.eu CNAME .
@@ -650,6 +650,7 @@ stats.mein-futterlexikon.org CNAME .
 stats.memberdrive.org CNAME .
 stats.meno.science CNAME .
 stats.mesenvies.fr CNAME .
+stats.metamorphium.com CNAME .
 stats.michaeloliver.dev CNAME .
 stats.micv.works CNAME .
 stats.missionrabies.com CNAME .
@@ -784,7 +785,6 @@ stats.sixseven.at CNAME .
 stats.ski.com CNAME .
 stats.slicedthread.com CNAME .
 stats.socialeurope.eu CNAME .
-stats.soundbite.so CNAME .
 stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
 stats.spreadtheworld.net CNAME .

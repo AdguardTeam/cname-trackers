@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -607,6 +607,7 @@ mobsessions.worldremit.com CNAME .
 msimkpups.michaels.com CNAME .
 mtx.thirdstream.ca CNAME .
 nav.sciencedirect.com CNAME .
+neo.cdx-bankislam.com CNAME .
 neo.fashionette.de CNAME .
 netinf.curemd.com CNAME .
 nexus-svc.sc.com CNAME .
@@ -822,6 +823,7 @@ srv.squaretrade.com.au CNAME .
 srv.squaretrade.dk CNAME .
 srv.squaretrade.es CNAME .
 srv.squaretrade.no CNAME .
+srv.squaretrade.se CNAME .
 ssafp.samsclub.com CNAME .
 st10.sofi.com CNAME .
 stat.bluorbank.lv CNAME .
@@ -967,9 +969,11 @@ tmcdn.homeaway.com CNAME .
 tmcdn.jackpotcity.ca CNAME .
 tmcdn.jackpotcity.mx CNAME .
 tmcdn.jackpotcitycasino.com CNAME .
+tmcdn.jackpotcitycasino.com.py CNAME .
 tmcdn.luckynuggetcasino.com CNAME .
 tmcdn.mummysgold.com CNAME .
 tmcdn.riverbellecasino.com CNAME .
+tmcdn.rubyfortune.ca CNAME .
 tmcdn.rubyfortune.com CNAME .
 tmcdn.spincasino.ca CNAME .
 tmcdn.spincasino.com CNAME .

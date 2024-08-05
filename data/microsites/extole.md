@@ -140,6 +140,7 @@
     * americaneagle.extole.io
     * americanmusical.extole.io
     * amerisleep.extole.io
+    * ammunition-depot.extole.io
     * anatomie.extole.io
     * andie-swim.extole.io
     * aon.extole.io
@@ -306,7 +307,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -383,7 +383,6 @@
     * marinerfinance.extole.io
     * mascaro.extole.io
     * medely.extole.io
-    * meettally.extole.io
     * merrell.extole.io
     * metlife.extole.io
     * minted.extole.io
@@ -433,6 +432,7 @@
     * pottery-barn-kids.extole.io
     * pottery-barn.extole.io
     * princess.extole.io
+    * princessau.extole.io
     * princessuk.extole.io
     * procore.extole.io
     * prokeds.extole.io
@@ -485,6 +485,7 @@
     * shyft.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
+    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -562,7 +563,6 @@
     * vonagebusiness.extole.io
     * vonagebusinessuk.extole.io
     * wagwalking.extole.io
-    * walmartmoneycard.em.extole.io
     * walmartmoneycard.extole.io
     * washtrust.extole.io
     * wearesouthwind.extole.io
@@ -619,6 +619,7 @@
 | refer.americanexpress.com | americanexpress.extole.com |
 | refer.americanmusical.com | americanmusical.extole.io |
 | refer.amerisleep.com | amerisleep.extole.io |
+| referral.ammunitiondepot.com | ammunition-depot.extole.io |
 | share.anatomie.com | anatomie.extole.io |
 | refer.ancestry.com | ancestrydna.extole.com |
 | refer.dna.ancestry.co.uk | ancestrydna.extole.com |
@@ -855,6 +856,7 @@
 | share.mansfieldnewsjournal.com | gannett.extole.io |
 | share.montgomeryadvertiser.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
+| share.news-press.com | gannett.extole.io |
 | share.northjersey.com | gannett.extole.io |
 | share.patriotledger.com | gannett.extole.io |
 | share.pnj.com | gannett.extole.io |
@@ -894,7 +896,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1009,7 +1010,6 @@
 | refer.prettyballerinas.co.uk | mascaro.extole.io |
 | refer.prettyballerinas.es | mascaro.extole.io |
 | share.medely.com | medely.extole.io |
-| share.meettally.com | meettally.extole.io |
 | refer.merrell.com | merrell.extole.io |
 | share.legalplans.com | metlife.extole.io |
 | refer.minted.com | minted.extole.io |
@@ -1085,6 +1085,7 @@
 | refer.potterybarn.com | pottery-barn.extole.io |
 | refer.princess.com | princess.extole.io |
 | share.princess.com | princess.extole.io |
+| refer-au.princess.com | princessau.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
 | refer.procore.com | procore.extole.io |
 | refer.proflowers.com | proflowers-ssl.extole.com |
@@ -1158,6 +1159,7 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
+| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1277,7 +1279,6 @@
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
 | refer.vonage.co.uk | vonageuk.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
-| em9523.walmartmoneycard.com | walmartmoneycard.em.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |

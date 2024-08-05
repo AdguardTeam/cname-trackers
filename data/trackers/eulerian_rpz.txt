@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -86,6 +86,7 @@ ct5m.citadium.com CNAME .
 ctp1.bforbank.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
+d2u.dauphinquebec.com CNAME .
 dbj.quebecregion.com CNAME .
 deut1.fdj.fr CNAME .
 deut2.fdj.fr CNAME .
@@ -504,7 +505,6 @@ zyq2.destinia.sk CNAME .
 b1n.carabins.umontreal.ca CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
-d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .

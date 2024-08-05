@@ -41,6 +41,7 @@
     * h-2qfdtlmr.online-metrix.net
     * h-2ql3c6py.online-metrix.net
     * h-2yf3c1v4.online-metrix.net
+    * h-2yf5pvfu.online-metrix.net
     * h-2zweytuc.online-metrix.net
     * h-30fpzt2y.online-metrix.net
     * h-324klu1j.online-metrix.net
@@ -271,6 +272,7 @@
     * h-cfi32dc4.online-metrix.net
     * h-cgfjrfto.online-metrix.net
     * h-cgvf1sqx.online-metrix.net
+    * h-ch968hx6.online-metrix.net
     * h-charter.online-metrix.net
     * h-chase.online-metrix.net
     * h-chubb.online-metrix.net
@@ -843,6 +845,7 @@
 | claimant.vec.virginia.gov | h-2qfdtlmr.online-metrix.net |
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
+| validacion.rayo.com.co | h-2yf5pvfu.online-metrix.net |
 | fpmobile.uplift-platform.com | h-2zweytuc.online-metrix.net |
 | app.uob.com.sg | h-30fpzt2y.online-metrix.net |
 | applicant.rbfcu.org | h-324klu1j.online-metrix.net |
@@ -974,9 +977,11 @@
 | tmcdn.jackpotcity.ca | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcity.mx | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcitycasino.com | h-98oju8tz.online-metrix.net |
+| tmcdn.jackpotcitycasino.com.py | h-98oju8tz.online-metrix.net |
 | tmcdn.luckynuggetcasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.mummysgold.com | h-98oju8tz.online-metrix.net |
 | tmcdn.riverbellecasino.com | h-98oju8tz.online-metrix.net |
+| tmcdn.rubyfortune.ca | h-98oju8tz.online-metrix.net |
 | tmcdn.rubyfortune.com | h-98oju8tz.online-metrix.net |
 | tmcdn.spincasino.ca | h-98oju8tz.online-metrix.net |
 | tmcdn.spincasino.com | h-98oju8tz.online-metrix.net |
@@ -1069,6 +1074,7 @@
 | srv.squaretrade.dk | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.es | h-b6te0xmf.online-metrix.net |
 | srv.squaretrade.no | h-b6te0xmf.online-metrix.net |
+| srv.squaretrade.se | h-b6te0xmf.online-metrix.net |
 | stats.badoostats.com | h-badoo.online-metrix.net |
 | cdn.bambusystems.com | h-bambu.online-metrix.net |
 | content.bank-abc.com | h-ban3nmwg.online-metrix.net |
@@ -1173,6 +1179,7 @@
 | dp.barclaysus.com | h-cfi32dc4.online-metrix.net |
 | content.nebraska.gov | h-cgfjrfto.online-metrix.net |
 | content2.paywerk.co | h-cgvf1sqx.online-metrix.net |
+| neo.cdx-bankislam.com | h-ch968hx6.online-metrix.net |
 | pov.spectrum.net | h-charter.online-metrix.net |
 | h.chase.co.uk | h-chase.online-metrix.net |
 | rauth.chubb.com | h-chubb.online-metrix.net |
@@ -1811,7 +1818,6 @@
 | om.pgw.fcbarcelona.com | h.online-metrix.net |
 | ons.tickets.com | h.online-metrix.net |
 | payrisk-tmx.didiglobal.com | h.online-metrix.net |
-| validacion.rayo.com.co | h.online-metrix.net |
 | portal-fp-qa1.qa.threatmetrix.com | qa1-h.online-metrix.net |
 | invalid-qa2.threatmetrix.com | qa2-h.online-metrix.net |
 | portal-fp-qa2.qa.threatmetrix.com | qa2-h.online-metrix.net |

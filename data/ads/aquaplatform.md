@@ -4,6 +4,7 @@
 
 * aquaplatform.com
     * adaptigo-console.aquaplatform.com
+    * adaptigo-delivery.aquaplatform.com
     * adbility-console.aquaplatform.com
     * adbility-delivery.aquaplatform.com
     * ahk-delivery.aquaplatform.com
@@ -14,6 +15,7 @@
     * atg-delivery.aquaplatform.com
     * bioverlag-delivery.aquaplatform.com
     * bioverlag-static.aquaplatform.com
+    * blulab-delivery.aquaplatform.com
     * cambridge-delivery.aquaplatform.com
     * ceramics-delivery.aquaplatform.com
     * console.aquaplatform.com
@@ -74,6 +76,7 @@
     * revivehosted-static.aquaplatform.com
     * ridgewood-delivery.aquaplatform.com
     * romand-delivery.aquaplatform.com
+    * sacomm-console.aquaplatform.com
     * sacomm-delivery.aquaplatform.com
     * sonicplug-delivery.aquaplatform.com
     * sonicplug-static.aquaplatform.com
@@ -94,6 +97,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | console.informingnews.com | adaptigo-console.aquaplatform.com |
+| by.addrecipes.com | adaptigo-delivery.aquaplatform.com |
 | console.adbility-media.com | adbility-console.aquaplatform.com |
 | servedby.adbility-media.com | adbility-delivery.aquaplatform.com |
 | revive.ahk.de | ahk-delivery.aquaplatform.com |
@@ -108,6 +112,7 @@
 | servedby.schrotundkorn.de | bioverlag-delivery.aquaplatform.com |
 | static.biohandel.de | bioverlag-static.aquaplatform.com |
 | static.schrotundkorn.de | bioverlag-static.aquaplatform.com |
+| adv.blulab.net | blulab-delivery.aquaplatform.com |
 | coreads.cambridge.org | cambridge-delivery.aquaplatform.com |
 | servedby.ceramicartsnetwork.org | ceramics-delivery.aquaplatform.com |
 | api.metrike.com | console.aquaplatform.com |
@@ -176,6 +181,7 @@
 | adserver.infotorg.se | platformiq-del.aquaplatform.com |
 | adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |
+| opx.webtool.net | platformiq-del.aquaplatform.com |
 | proxena-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.hlipublishing.com | platformiq-del.aquaplatform.com |
 | servedby.lintigroup.se | platformiq-del.aquaplatform.com |
@@ -189,6 +195,7 @@
 | ads.proxibid.com | proxibid-delivery.aquaplatform.com |
 | ads.the-saleroom.com | proxibid-delivery.aquaplatform.com |
 | static.proxibid.com | proxibid-static.aquaplatform.com |
+| www.static.the-saleroom.com | proxibid-static.aquaplatform.com |
 | ads.xtra.ca | ptp-delivery.aquaplatform.com |
 | servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |
 | cdn.pinktriangle.ca | ptp-static.aquaplatform.com |
@@ -206,6 +213,7 @@
 | servedby.medlabmag.com | ridgewood-delivery.aquaplatform.com |
 | servedby.pppmag.com | ridgewood-delivery.aquaplatform.com |
 | ads.cavalier-romand.ch | romand-delivery.aquaplatform.com |
+| console.sacommunications.com | sacomm-console.aquaplatform.com |
 | servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |
 | adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | static.sonicplug.com | sonicplug-static.aquaplatform.com |

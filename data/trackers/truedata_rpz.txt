@@ -1,0 +1,37 @@
+;
+; Company name: TrueData
+
+$TTL 300
+@    IN   SOA   localhost. root.localhost. (
+           1722844807306        ; Serial
+                  604800        ; Refresh
+                   86400        ; Retry
+                  777600        ; Expire
+                     300 )      ; Negative Cache TTL
+;
+@    IN   NS    localhost.
+
+td.bestproducts.com CNAME .
+td.bicycling.com CNAME .
+td.caranddriver.com CNAME .
+td.cosmopolitan.com CNAME .
+td.countryliving.com CNAME .
+td.delish.com CNAME .
+td.elle.com CNAME .
+td.elledecor.com CNAME .
+td.esquire.com CNAME .
+td.goodhousekeeping.com CNAME .
+td.harpersbazaar.com CNAME .
+td.housebeautiful.com CNAME .
+td.menshealth.com CNAME .
+td.oprahdaily.com CNAME .
+td.popularmechanics.com CNAME .
+td.prevention.com CNAME .
+td.roadandtrack.com CNAME .
+td.runnersworld.com CNAME .
+td.seventeen.com CNAME .
+td.thepioneerwoman.com CNAME .
+td.townandcountrymag.com CNAME .
+td.veranda.com CNAME .
+td.womansday.com CNAME .
+td.womenshealthmag.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722240007348        ; Serial
+           1722844807306        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -51,6 +51,7 @@ al.maikon.jp CNAME .
 al.mitsubachi-note.com CNAME .
 al.morigaku.jp CNAME .
 al.nakayamashouten.com CNAME .
+al.naniwayaseika.co.jp CNAME .
 al.nawa-store.jp CNAME .
 al.office-com.jp CNAME .
 al.packstyle.jp CNAME .
