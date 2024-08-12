@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722844807306        ; Serial
+           1723449608476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -141,6 +141,7 @@ a8.hakata-hisamatsu.net CNAME .
 a8.hana-mail.jp CNAME .
 a8.happy-card.jp CNAME .
 a8.haptic.co.jp CNAME .
+a8.hataractive.jp CNAME .
 a8.healthyolive.com CNAME .
 a8.heart-denpo.com CNAME .
 a8.hemptouch.co.jp CNAME .
@@ -1187,6 +1188,7 @@ a8cv.spalab-chintai.uk-corp.co.jp CNAME .
 a8cv.spot-pj.com CNAME .
 a8cv.staff-manzoku.co.jp CNAME .
 a8cv.staffagent.co.jp CNAME .
+a8cv.star-color.jp CNAME .
 a8cv.starpeg-music.com CNAME .
 a8cv.store.alpen-group.jp CNAME .
 a8cv.store.saneibd.com CNAME .
@@ -1408,7 +1410,6 @@ asp.hachipp119.com CNAME .
 asp.taishokunext.com CNAME .
 aspa8.ozmall.co.jp CNAME .
 car-a8.tabirai.net CNAME .
-cart.matsuzaka-steak.com CNAME .
 check.looser.jp CNAME .
 click.techtree.jp CNAME .
 clk.entry.surala.jp CNAME .
@@ -1462,6 +1463,7 @@ cv.masteraxis.com CNAME .
 cv.meo.tryhatch.co.jp CNAME .
 cv.michiuru.jp CNAME .
 cv.moena-eatstyle.net CNAME .
+cv.mupla-ab3.com CNAME .
 cv.my-lancul.com CNAME .
 cv.nell.life CNAME .
 cv.oiz-care.jp CNAME .

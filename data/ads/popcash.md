@@ -64,6 +64,7 @@
 | sponsors-v2.locablepublishernetwork.com | bs-adserver.b-cdn.net |
 | sponsors-v2.urbanistnetwork.com | bs-adserver.b-cdn.net |
 | sponsors.asisonline.org | bs-adserver.b-cdn.net |
+| sponsors.benjaminmedia.com | bs-adserver.b-cdn.net |
 | sponsors.bicmagazine.com | bs-adserver.b-cdn.net |
 | sponsors.compactequip.com | bs-adserver.b-cdn.net |
 | sponsors.floorforce.com | bs-adserver.b-cdn.net |
@@ -189,6 +190,7 @@
 | bison.stuffmatic.com | deprecated-custom-domains.b-cdn.net |
 | bison.weitweit.at | deprecated-custom-domains.b-cdn.net |
 | blackbird.docstation.co | deprecated-custom-domains.b-cdn.net |
+| blackbird.marcelgil.com | deprecated-custom-domains.b-cdn.net |
 | bluejay.edgesoftware.cloud | deprecated-custom-domains.b-cdn.net |
 | bluejay.postmediagroup.com | deprecated-custom-domains.b-cdn.net |
 | bluejay.schreinerei-virnich.de | deprecated-custom-domains.b-cdn.net |
@@ -552,6 +554,7 @@
 | kite.oakes.software | deprecated-custom-domains.b-cdn.net |
 | kiwi.coreyodonnell.tech | deprecated-custom-domains.b-cdn.net |
 | kiwi.emilkowal.ski | deprecated-custom-domains.b-cdn.net |
+| kiwi.halostats.app | deprecated-custom-domains.b-cdn.net |
 | kiwi.railway.app | deprecated-custom-domains.b-cdn.net |
 | koala.getslopes.com | deprecated-custom-domains.b-cdn.net |
 | koala.moontells.com | deprecated-custom-domains.b-cdn.net |
@@ -608,6 +611,7 @@
 | lobster.justunderwear.com | deprecated-custom-domains.b-cdn.net |
 | lobster.tonebleed.com | deprecated-custom-domains.b-cdn.net |
 | locust.ausrebellion.earth | deprecated-custom-domains.b-cdn.net |
+| loon.analogjoe.com | deprecated-custom-domains.b-cdn.net |
 | loon.davidalindahl.com | deprecated-custom-domains.b-cdn.net |
 | loon.energizer.asia | deprecated-custom-domains.b-cdn.net |
 | loon.jrmyfranck.com | deprecated-custom-domains.b-cdn.net |
@@ -627,7 +631,6 @@
 | magpie.phil.dev | deprecated-custom-domains.b-cdn.net |
 | mammal.autoidle.com | deprecated-custom-domains.b-cdn.net |
 | manatee.biodom.bio | deprecated-custom-domains.b-cdn.net |
-| manatee.creativepassport.net | deprecated-custom-domains.b-cdn.net |
 | mandrill.castingcollective.net | deprecated-custom-domains.b-cdn.net |
 | mandrill.phiilu.com | deprecated-custom-domains.b-cdn.net |
 | mandrill.yellowfruit.co | deprecated-custom-domains.b-cdn.net |
@@ -656,7 +659,6 @@
 | minnow.phasemedical.com | deprecated-custom-domains.b-cdn.net |
 | minnow.tapas-software.net | deprecated-custom-domains.b-cdn.net |
 | mite.cotinga.io | deprecated-custom-domains.b-cdn.net |
-| mite.downtotheearth.co.uk | deprecated-custom-domains.b-cdn.net |
 | mite.tetrameros.com | deprecated-custom-domains.b-cdn.net |
 | mockingbir.sgfunited.com | deprecated-custom-domains.b-cdn.net |
 | mole.bteam.co | deprecated-custom-domains.b-cdn.net |
@@ -950,6 +952,7 @@
 | tiglon.beyondco.de | deprecated-custom-domains.b-cdn.net |
 | tiglon.davidroessli.com | deprecated-custom-domains.b-cdn.net |
 | toad.ettiennevorster.co.za | deprecated-custom-domains.b-cdn.net |
+| toad.frontendmentor.io | deprecated-custom-domains.b-cdn.net |
 | tortoise.mdx.one | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |

@@ -90,9 +90,9 @@
 | k10.usefto.com | api.clickaine.com |
 | k8.usefto.com | api.clickaine.com |
 | mail.7porn.ru | api.clickaine.com |
+| notifications.animeshqip.info | api.clickaine.com |
 | omg.house.porn | api.clickaine.com |
 | orange.arabtoons.net | api.clickaine.com |
-| p.imagevk.site | api.clickaine.com |
 | p.porn0hd.online | api.clickaine.com |
 | p.russ-porno.net | api.clickaine.com |
 | pi4.piczhq.com | api.clickaine.com |

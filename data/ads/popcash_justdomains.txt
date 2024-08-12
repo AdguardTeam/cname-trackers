@@ -251,6 +251,7 @@ bison.streamclocks.com
 bison.stuffmatic.com
 bison.weitweit.at
 blackbird.docstation.co
+blackbird.marcelgil.com
 bluejay.edgesoftware.cloud
 bluejay.postmediagroup.com
 bluejay.schreinerei-virnich.de
@@ -614,6 +615,7 @@ kite.launchcdn.com
 kite.oakes.software
 kiwi.coreyodonnell.tech
 kiwi.emilkowal.ski
+kiwi.halostats.app
 kiwi.railway.app
 koala.getslopes.com
 koala.moontells.com
@@ -670,6 +672,7 @@ llama.vivriticapital.com
 lobster.justunderwear.com
 lobster.tonebleed.com
 locust.ausrebellion.earth
+loon.analogjoe.com
 loon.davidalindahl.com
 loon.energizer.asia
 loon.jrmyfranck.com
@@ -689,7 +692,6 @@ magpie.onething.org
 magpie.phil.dev
 mammal.autoidle.com
 manatee.biodom.bio
-manatee.creativepassport.net
 mandrill.castingcollective.net
 mandrill.phiilu.com
 mandrill.yellowfruit.co
@@ -718,7 +720,6 @@ minnow.mimosaagency.com
 minnow.phasemedical.com
 minnow.tapas-software.net
 mite.cotinga.io
-mite.downtotheearth.co.uk
 mite.tetrameros.com
 mockingbir.sgfunited.com
 mole.bteam.co
@@ -1012,6 +1013,7 @@ tigershark.vandevliet.me
 tiglon.beyondco.de
 tiglon.davidroessli.com
 toad.ettiennevorster.co.za
+toad.frontendmentor.io
 tortoise.mdx.one
 toucan.ateliermilky.com
 toucan.the-faithful.com
@@ -1118,6 +1120,7 @@ sponsors-v2.floorforce.com
 sponsors-v2.locablepublishernetwork.com
 sponsors-v2.urbanistnetwork.com
 sponsors.asisonline.org
+sponsors.benjaminmedia.com
 sponsors.bicmagazine.com
 sponsors.compactequip.com
 sponsors.floorforce.com

@@ -2,9 +2,11 @@
 ! Company name: heleric.com
 ||ah.cabbingdandled.com^
 ||aj.stomalhobble.com^
+||al.laichsbedamns.com^
 ||ap.ansilumbar.com^
 ||ap.bouncelargo.com^
 ||ap.saluteeyeseed.com^
+||aq.theurgyopine.com^
 ||ar.pagodaskeeker.com^
 ||au.maniatoile.com^
 ||av.dizziesferri.com^
@@ -86,6 +88,7 @@
 ||gr.faencepuggy.com^
 ||gr.kitharapalanka.com^
 ||hb.tewitfeoffee.com^
+||hb.vampednorbert.com^
 ||hf.frisklelooms.com^
 ||hg.barwaltanha.com^
 ||hj.faggotbovidae.com^
@@ -111,6 +114,7 @@
 ||jj.boodymauves.com^
 ||jm.fallagerampire.com^
 ||jm.newtsbowk.com^
+||jt.whunpainty.com^
 ||jw.posiedcaridea.com^
 ||jx.yonnersekere.com^
 ||jy.astylararsines.com^
@@ -273,14 +277,17 @@
 ||vv.tongabanky.com^
 ||vx.azuresjukes.com^
 ||vx.womerasecocide.com^
+||vy.withsaynapa.com^
 ||wg.clagssyria.com^
 ||wi.cohereseugene.com^
+||wm.quinelarumored.com^
 ||wr.rugosehoarish.com^
 ||wv.donarynahane.com^
 ||xd.meritedyaws.com^
 ||xl.demosbattik.com^
 ||xn.brocardgillar.com^
 ||xn.geoidalsericin.com^
+||xr.atriumsmiddum.com^
 ||xu.chimerscoshing.com^
 ||xw.horrifyclausum.com^
 ||xx.billaesopus.com^

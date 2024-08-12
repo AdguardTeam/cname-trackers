@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722844807306        ; Serial
+           1723449608476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -262,6 +262,7 @@ bison.streamclocks.com CNAME .
 bison.stuffmatic.com CNAME .
 bison.weitweit.at CNAME .
 blackbird.docstation.co CNAME .
+blackbird.marcelgil.com CNAME .
 bluejay.edgesoftware.cloud CNAME .
 bluejay.postmediagroup.com CNAME .
 bluejay.schreinerei-virnich.de CNAME .
@@ -625,6 +626,7 @@ kite.launchcdn.com CNAME .
 kite.oakes.software CNAME .
 kiwi.coreyodonnell.tech CNAME .
 kiwi.emilkowal.ski CNAME .
+kiwi.halostats.app CNAME .
 kiwi.railway.app CNAME .
 koala.getslopes.com CNAME .
 koala.moontells.com CNAME .
@@ -681,6 +683,7 @@ llama.vivriticapital.com CNAME .
 lobster.justunderwear.com CNAME .
 lobster.tonebleed.com CNAME .
 locust.ausrebellion.earth CNAME .
+loon.analogjoe.com CNAME .
 loon.davidalindahl.com CNAME .
 loon.energizer.asia CNAME .
 loon.jrmyfranck.com CNAME .
@@ -700,7 +703,6 @@ magpie.onething.org CNAME .
 magpie.phil.dev CNAME .
 mammal.autoidle.com CNAME .
 manatee.biodom.bio CNAME .
-manatee.creativepassport.net CNAME .
 mandrill.castingcollective.net CNAME .
 mandrill.phiilu.com CNAME .
 mandrill.yellowfruit.co CNAME .
@@ -729,7 +731,6 @@ minnow.mimosaagency.com CNAME .
 minnow.phasemedical.com CNAME .
 minnow.tapas-software.net CNAME .
 mite.cotinga.io CNAME .
-mite.downtotheearth.co.uk CNAME .
 mite.tetrameros.com CNAME .
 mockingbir.sgfunited.com CNAME .
 mole.bteam.co CNAME .
@@ -1023,6 +1024,7 @@ tigershark.vandevliet.me CNAME .
 tiglon.beyondco.de CNAME .
 tiglon.davidroessli.com CNAME .
 toad.ettiennevorster.co.za CNAME .
+toad.frontendmentor.io CNAME .
 tortoise.mdx.one CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.the-faithful.com CNAME .
@@ -1129,6 +1131,7 @@ sponsors-v2.floorforce.com CNAME .
 sponsors-v2.locablepublishernetwork.com CNAME .
 sponsors-v2.urbanistnetwork.com CNAME .
 sponsors.asisonline.org CNAME .
+sponsors.benjaminmedia.com CNAME .
 sponsors.bicmagazine.com CNAME .
 sponsors.compactequip.com CNAME .
 sponsors.floorforce.com CNAME .

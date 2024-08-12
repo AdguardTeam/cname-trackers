@@ -24,7 +24,6 @@
 | analytics.basistheory.com | custom.plausible.io |
 | analytics.betterplaces.nl | custom.plausible.io |
 | analytics.certifriedit.com | custom.plausible.io |
-| analytics.chattarize.de | custom.plausible.io |
 | analytics.churchthemes.com | custom.plausible.io |
 | analytics.codeforscience.org | custom.plausible.io |
 | analytics.codeskulptor.org | custom.plausible.io |
@@ -526,7 +525,6 @@
 | stats.ghinda.com | custom.plausible.io |
 | stats.glassmountains.co.uk | custom.plausible.io |
 | stats.glyphs.fyi | custom.plausible.io |
-| stats.gnalt.de | custom.plausible.io |
 | stats.goldsguide.com | custom.plausible.io |
 | stats.gounified.com | custom.plausible.io |
 | stats.graphql-api.com | custom.plausible.io |

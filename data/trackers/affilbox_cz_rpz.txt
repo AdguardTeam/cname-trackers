@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722844807306        ; Serial
+           1723449608476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -300,7 +300,6 @@ box.cryptokingdom.tech CNAME .
 box.kryptotrejder.sk CNAME .
 brana.ritualyomlazeni.cz CNAME .
 collab.zdravetricko.cz CNAME .
-dekovacka.hezkres.cz CNAME .
 doporuc.hopsej.cz CNAME .
 doporuc.konferenceryba.cz CNAME .
 doporuc.mechaneo.cz CNAME .
@@ -822,7 +821,6 @@ partneri.naenergie.cz CNAME .
 partneri.natu.cz CNAME .
 partneri.netfotbal.cz CNAME .
 partneri.nutricbistro.cz CNAME .
-partneri.odvizekzisku.cz CNAME .
 partneri.onlinejazyky.cz CNAME .
 partneri.onlinelearning.cz CNAME .
 partneri.oportskem.cz CNAME .

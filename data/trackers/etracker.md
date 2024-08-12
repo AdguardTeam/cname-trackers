@@ -47,6 +47,7 @@
 | stats.umziehen.de | customer.etracker.com |
 | stats.united-domains.de | customer.etracker.com |
 | stats.wienerjobs.at | customer.etracker.com |
+| track.dictum-shop.de | customer.etracker.com |
 | track.dictum.com | customer.etracker.com |
 | track.karlstorz.com | customer.etracker.com |
 | track.thegundogaffair.com | customer.etracker.com |
@@ -59,8 +60,11 @@
 | webcontr.ryzon.net | customer.etracker.com |
 | webcontr.synvia.de | customer.etracker.com |
 | wt.leitz.org | customer.etracker.com |
+| esub.akkusys.shop | customer2.etracker.com |
 | esub.autobatterie-markt.de | customer2.etracker.com |
+| esub.online-batterien.at | customer2.etracker.com |
 | esub.online-batterien.de | customer2.etracker.com |
+| esub.solarshopaustria.at | customer2.etracker.com |
 | esub.solarspeicher24.de | customer2.etracker.com |
 | et.juskys.de | customer2.etracker.com |
 | stats.bodenverkauf.de | customer2.etracker.com |

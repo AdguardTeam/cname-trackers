@@ -160,7 +160,6 @@ data-13d258638d.freiepresse.de
 data-143ac31e30.radio-brocken.com
 data-143ac31e30.radio-brocken.de
 data-143ac31e30.radiobrocken.com
-data-143ac31e30.radiobrocken.de
 data-1444ead958.kabeleinsdoku.at
 data-151922e62d.euskirchen.de
 data-15374d3e40.mein-schoener-garten.de
@@ -1411,6 +1410,7 @@ data-a25b878079.deutsche-apotheker-zeitung.de
 data-a29bc6fa2d.noen.at
 data-a2a13b1828.all-in.de
 data-a2c8256a75.radio-saw.de
+data-a2c8256a75.radiosaw.de
 data-a2c8256a75.radiosaw.eu
 data-a2c8256a75.sawmusikwelt.de
 data-a351401692.kachelmannwetter.com
@@ -2241,6 +2241,7 @@ data-fa2c5597f6.cavallo.de
 data-fa2c5597f6.outdoorchannel.de
 data-fa2c5597f6.roadbike.de
 data-fa2d848059.aachen-gedenkt.de
+data-fa2d848059.aachen-gratuliert.de
 data-fa2d848059.aachener-zeitung.de
 data-fa2d848059.fupa.net
 data-fa3432c50a.donaukurier.de
@@ -2266,6 +2267,7 @@ data-fb37a1e7c3.stuttgarter-zeitung.de
 data-fb37a1e7c3.verlagshaus-jaumann.de
 data-fb6bd6ba7f.agrarzeitung.de
 data-fb6dfd42e8.rationell-reinigen.de
+data-fbb8842b89.fitforfun.de
 data-fbb8842b89.focus.de
 data-fbb8842b89.mylife.de
 data-fbb8842b89.netdoktor.de

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722844807306        ; Serial
+           1723449608476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -171,7 +171,6 @@ data-13d258638d.freiepresse.de CNAME .
 data-143ac31e30.radio-brocken.com CNAME .
 data-143ac31e30.radio-brocken.de CNAME .
 data-143ac31e30.radiobrocken.com CNAME .
-data-143ac31e30.radiobrocken.de CNAME .
 data-1444ead958.kabeleinsdoku.at CNAME .
 data-151922e62d.euskirchen.de CNAME .
 data-15374d3e40.mein-schoener-garten.de CNAME .
@@ -1422,6 +1421,7 @@ data-a25b878079.deutsche-apotheker-zeitung.de CNAME .
 data-a29bc6fa2d.noen.at CNAME .
 data-a2a13b1828.all-in.de CNAME .
 data-a2c8256a75.radio-saw.de CNAME .
+data-a2c8256a75.radiosaw.de CNAME .
 data-a2c8256a75.radiosaw.eu CNAME .
 data-a2c8256a75.sawmusikwelt.de CNAME .
 data-a351401692.kachelmannwetter.com CNAME .
@@ -2252,6 +2252,7 @@ data-fa2c5597f6.cavallo.de CNAME .
 data-fa2c5597f6.outdoorchannel.de CNAME .
 data-fa2c5597f6.roadbike.de CNAME .
 data-fa2d848059.aachen-gedenkt.de CNAME .
+data-fa2d848059.aachen-gratuliert.de CNAME .
 data-fa2d848059.aachener-zeitung.de CNAME .
 data-fa2d848059.fupa.net CNAME .
 data-fa3432c50a.donaukurier.de CNAME .
@@ -2277,6 +2278,7 @@ data-fb37a1e7c3.stuttgarter-zeitung.de CNAME .
 data-fb37a1e7c3.verlagshaus-jaumann.de CNAME .
 data-fb6bd6ba7f.agrarzeitung.de CNAME .
 data-fb6dfd42e8.rationell-reinigen.de CNAME .
+data-fbb8842b89.fitforfun.de CNAME .
 data-fbb8842b89.focus.de CNAME .
 data-fbb8842b89.mylife.de CNAME .
 data-fbb8842b89.netdoktor.de CNAME .

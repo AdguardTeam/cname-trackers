@@ -34,7 +34,6 @@
 6519114.loyalty.tajawal.com
 6519114.mktg.almosafer.com
 6519114.mktg.tajawal.com
-6677648.reddoorz.com
 7701534.emails.tntdrama.com
 8041691.comms.hipages.com.au
 8041691.engage.hipages.com.au
@@ -363,6 +362,7 @@ clk.mindfulsuite.com
 cltr.irlmail.org
 cn1.stadiumgoods.com
 cn2.stadiumgoods.com
+concierge.intros.com
 cq.hq1.influitive.com
 ct.irl.co
 ct.irl.com
@@ -464,6 +464,7 @@ email.everyonesocial.dykema.com
 email.everyonesocial.frontier.com
 email.everyonesocial.gumgum.com
 email.everyonesocial.hmausa.com
+email.everyonesocial.indeedian.com
 email.everyonesocial.inmoment.com
 email.everyonesocial.integritystaffing.com
 email.everyonesocial.lexisnexisrisk.com
@@ -638,6 +639,7 @@ link.syfy-channel.com
 link.tillfinancial.io
 link.touchtunesmail.com
 link.tr.freshly.com
+link.transactional.bleacherreport.com
 link.usa-network.com
 link.watchbravotv.com
 link.watchoxygen.com
@@ -1358,6 +1360,7 @@ app.tajawal.com
 app.talksport.com
 app.task.io
 app.test.elly.com
+app.test.gobuncha.com
 app.th3rdwave.coffee
 app.theachieveapp.com
 app.theachieveproject.com
@@ -1435,6 +1438,7 @@ applink.designengineapp.com
 applink.dev.tarjetabumeran.com
 applink.discuss.com.hk
 applink.eventable.com
+applink.flightbridge.com
 applink.flipboard.com
 applink.fun88906.com
 applink.get-a-way.com
@@ -1483,6 +1487,7 @@ applinks.tarrakki.com
 applinks.truckersnearby.com
 applinks.xdressr.com
 applinks.zerista.com
+applywithwendy.loanzify.app
 appredirect.snapdeal.com
 apps-test.spectrum-member.com
 apps.airmeet.com
@@ -1793,6 +1798,7 @@ chef.getmenoo.com
 circle.pandasuite.io
 citizenship.quantresear.ch
 cl.inhaabit.com
+clck.peblla.app
 click-staging.getdreams.co
 click.glocurrency.com
 click.pockee.com
@@ -1963,6 +1969,7 @@ digital.acutx.org
 dinocraft-test.animocabrands.com
 dinocraft.animocabrands.com
 direct.diarymuslim.com
+directlink.hasdukmerahputih.com
 distiller.kano.link
 divya.bhaskar.com
 dl-dev.tablelist.com
@@ -2039,7 +2046,9 @@ download.joingofree.com
 download.kesh5.co.il
 download.kuailefun.com
 download.milkpot.com
+download.orgodaily.com
 download.parkunload.com
+download.pawsquad.com
 download.planify.io
 download.poolking.in
 download.quiptgsm.com
@@ -2197,6 +2206,7 @@ get.mistplay.com
 get.mndbdy.ly
 get.mojo.sport
 get.muchbetter.com
+get.mygihealth.io
 get.myoyster.mx
 get.nala.money
 get.nfit.club
@@ -2235,6 +2245,7 @@ get.spot.so
 get.staging.tellusapp.com
 get.starguide.app
 get.stationhead.com
+get.stepsinvesting.com
 get.switchapp.com
 get.telexa.mn
 get.tellusapp.com
@@ -2721,6 +2732,7 @@ join.klinkfinance.com
 join.kloaked.app
 join.lapse.app
 join.listmakerapp.com
+join.meetingpotes.com
 join.motion-app.com
 join.our-story.co
 join.parentlove.me
@@ -3121,6 +3133,7 @@ link.loopslive.com
 link.loxclubapp.com
 link.made.com
 link.magnifi.com
+link.manetho.com
 link.mangoapp.com.py
 link.manutdfeed.com
 link.mark.app
@@ -3225,6 +3238,7 @@ link.ride.staging.specialized.com
 link.ripple.thedacare.org
 link.rippling.com
 link.roveworld.xyz
+link.rtme.us
 link.ruhgu.com
 link.samewave.com
 link.sandboxx.us
@@ -3279,6 +3293,7 @@ link.staycation.co
 link.staycircles.com
 link.steadio.co
 link.steezy.co
+link.steezystud.io
 link.stg.boxofficevr.com
 link.stg.imprint.co
 link.stickybeak.co
@@ -3338,6 +3353,7 @@ link.upperinc.com
 link.uproad.com
 link.urbansitter.com
 link.us.paramountplus.com
+link.uwai.cn
 link.vavabid.fr
 link.velas.com
 link.vezeeta.com
@@ -3638,7 +3654,6 @@ mobile.suiste.com
 mobiletest.aspensnowmass.com
 mobilize.tupinambaenergia.com.br
 mobwars-alternate.kano.link
-mobwars.kano.link
 more.telier.app
 mpakal.openapp.link
 mt.plateiq.com
@@ -3659,6 +3674,7 @@ my.showin.gs
 my.tsgo.io
 my.w.tt
 myapp.branch.rocks
+myhoof.abphotos.link
 mymix.mixdevelopment.com
 mymix.mixtel.com
 mymix.mixtelematics.com
@@ -3710,7 +3726,6 @@ open.iproov.me
 open.kidu.com
 open.majelan.com
 open.melomm.com
-open.muze.chat
 open.myhiveapp.net
 open.novamoney.com
 open.osnplus.com
@@ -3753,7 +3768,6 @@ phlebotomyexam.quantresear.ch
 phoenix.thexlife.co
 phonetrack.hukumkaikka.in
 pirateclan-alternate.kano.link
-pirateclan.kano.link
 pirounakia.openapp.link
 pitapan.openapp.link
 pitatisisminis.openapp.link
@@ -3998,7 +4012,6 @@ share.mansi.io
 share.marrow.com
 share.moonlightcake.com
 share.mooodek.com
-share.mzaalo.com
 share.nearpod.us
 share.nokioapp.com
 share.oneway.cab
@@ -4175,6 +4188,7 @@ test.swa.info
 test.thei.co
 test.your.tmro.me
 test2.majelan.com
+testapplink.flightbridge.com
 testbnc.mksp.io
 testbranch.onsequel.com
 testgo.huterra.com
@@ -4275,7 +4289,6 @@ verizon-branch.locationlabs.com
 video.bzfd.it
 video.vitcord.com
 viewer.pandasuite.io
-vikingclan.kano.link
 vip.agentteam.com.au
 vip.brisbanerealestate.com.au
 visit.campermate.com
@@ -4329,7 +4342,6 @@ z.ziki.app
 zombieslayer-alternate.kano.link
 app.brain.ly
 app.exercisetimer.net
-app.hirenodes.com
 app.streaktrivia.com
 b.discotech.me
 b.fancred.com

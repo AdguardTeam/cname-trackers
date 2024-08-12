@@ -289,7 +289,6 @@
 ||box.kryptotrejder.sk^
 ||brana.ritualyomlazeni.cz^
 ||collab.zdravetricko.cz^
-||dekovacka.hezkres.cz^
 ||doporuc.hopsej.cz^
 ||doporuc.konferenceryba.cz^
 ||doporuc.mechaneo.cz^
@@ -811,7 +810,6 @@
 ||partneri.natu.cz^
 ||partneri.netfotbal.cz^
 ||partneri.nutricbistro.cz^
-||partneri.odvizekzisku.cz^
 ||partneri.onlinejazyky.cz^
 ||partneri.onlinelearning.cz^
 ||partneri.oportskem.cz^

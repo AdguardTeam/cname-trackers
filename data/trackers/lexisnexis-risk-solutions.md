@@ -129,6 +129,7 @@
     * h-8vxymlqf.online-metrix.net
     * h-8ydtcbsf.online-metrix.net
     * h-8z6ccesi.online-metrix.net
+    * h-92cpkbn2.online-metrix.net
     * h-92z7am36.online-metrix.net
     * h-94b5bk32.online-metrix.net
     * h-96ch0zc2.online-metrix.net
@@ -188,6 +189,7 @@
     * h-autozone.online-metrix.net
     * h-avant.online-metrix.net
     * h-axiata.online-metrix.net
+    * h-b124ow4n.online-metrix.net
     * h-b2u9vacd.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
     * h-b3m5a8st.online-metrix.net
@@ -569,6 +571,7 @@
     * h-okcoin.online-metrix.net
     * h-okinushub.online-metrix.net
     * h-onbudget.online-metrix.net
+    * h-onecall.online-metrix.net
     * h-oney.online-metrix.net
     * h-online.citi.online-metrix.net
     * h-opendoor.online-metrix.net
@@ -963,6 +966,7 @@
 | tm.espnbet.com | h-8vxymlqf.online-metrix.net |
 | content.myfamliplus.state.co.us | h-8ydtcbsf.online-metrix.net |
 | content.paysend.com | h-8z6ccesi.online-metrix.net |
+| catalyst.mashreq.com | h-92cpkbn2.online-metrix.net |
 | ln.cash.app | h-92z7am36.online-metrix.net |
 | regstat.skybet.com | h-94b5bk32.online-metrix.net |
 | regstat.skybetservices.com | h-94b5bk32.online-metrix.net |
@@ -972,6 +976,9 @@
 | regstat.skyvegas.com | h-94b5bk32.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
+| tmcdn.7sultanscasino.com | h-98oju8tz.online-metrix.net |
+| tmcdn.alljackpotscasino.com | h-98oju8tz.online-metrix.net |
+| tmcdn.allslotscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.europalace.com | h-98oju8tz.online-metrix.net |
 | tmcdn.gamingclub.com | h-98oju8tz.online-metrix.net |
 | tmcdn.jackpotcity.ca | h-98oju8tz.online-metrix.net |
@@ -988,6 +995,7 @@
 | tmcdn.spincasino.mx | h-98oju8tz.online-metrix.net |
 | tmcdn.spingalaxy.com | h-98oju8tz.online-metrix.net |
 | tmcdn.spinpalace.com | h-98oju8tz.online-metrix.net |
+| tmcdn.vegaspalmscasino.com | h-98oju8tz.online-metrix.net |
 | fnvma.milanuncios.com | h-9bkavv7r.online-metrix.net |
 | wkvjee5b.globalpay.com | h-9f85se8g.online-metrix.net |
 | img2.bbva.com.ar | h-9i4fauog.online-metrix.net |
@@ -1062,6 +1070,7 @@
 | mobile-content-f.autozone.com | h-autozone.online-metrix.net |
 | img2.avant.com | h-avant.online-metrix.net |
 | caveo.boost-my.com | h-axiata.online-metrix.net |
+| bland.starone.org | h-b124ow4n.online-metrix.net |
 | ln.acornfun.com | h-b2u9vacd.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
@@ -1570,6 +1579,7 @@
 | tm.okinushub.com | h-okinushub.online-metrix.net |
 | sitehelper.myengageft.com | h-onbudget.online-metrix.net |
 | sitehelper.optimizemoney.com | h-onbudget.online-metrix.net |
+| cdn1.onecalldirect.co.uk | h-onecall.online-metrix.net |
 | img.oney.fr | h-oney.online-metrix.net |
 | content22.online.citi.com | h-online.citi.online-metrix.net |
 | hint-tmdp.opendoor.com | h-opendoor.online-metrix.net |

@@ -130,6 +130,7 @@
 ||a8.hana-mail.jp^
 ||a8.happy-card.jp^
 ||a8.haptic.co.jp^
+||a8.hataractive.jp^
 ||a8.healthyolive.com^
 ||a8.heart-denpo.com^
 ||a8.hemptouch.co.jp^
@@ -1176,6 +1177,7 @@
 ||a8cv.spot-pj.com^
 ||a8cv.staff-manzoku.co.jp^
 ||a8cv.staffagent.co.jp^
+||a8cv.star-color.jp^
 ||a8cv.starpeg-music.com^
 ||a8cv.store.alpen-group.jp^
 ||a8cv.store.saneibd.com^
@@ -1397,7 +1399,6 @@
 ||asp.taishokunext.com^
 ||aspa8.ozmall.co.jp^
 ||car-a8.tabirai.net^
-||cart.matsuzaka-steak.com^
 ||check.looser.jp^
 ||click.techtree.jp^
 ||clk.entry.surala.jp^
@@ -1451,6 +1452,7 @@
 ||cv.meo.tryhatch.co.jp^
 ||cv.michiuru.jp^
 ||cv.moena-eatstyle.net^
+||cv.mupla-ab3.com^
 ||cv.my-lancul.com^
 ||cv.nell.life^
 ||cv.oiz-care.jp^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722844807306        ; Serial
+           1723449608476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -68,6 +68,7 @@ blog.tagcentral.fr CNAME .
 bn.voyage-prive.com CNAME .
 bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
+bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
@@ -86,7 +87,6 @@ ct5m.citadium.com CNAME .
 ctp1.bforbank.com CNAME .
 cvi6.destinia.qa CNAME .
 cyf9.destinia.cl CNAME .
-d2u.dauphinquebec.com CNAME .
 dbj.quebecregion.com CNAME .
 deut1.fdj.fr CNAME .
 deut2.fdj.fr CNAME .
@@ -471,7 +471,6 @@ vpf4.euskaltelofertas.com CNAME .
 vpl.voyage-prive.pl CNAME .
 vqp3.madeindesign.co.uk CNAME .
 vry9.destinia.com CNAME .
-vs.verisure.fr CNAME .
 why3.inseec.education CNAME .
 wlp3.aegon.es CNAME .
 wnd2.destinia.cat CNAME .
@@ -505,6 +504,7 @@ zyq2.destinia.sk CNAME .
 b1n.carabins.umontreal.ca CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
+d2u.dauphinquebec.com CNAME .
 eat9.thebeat925.ca CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .

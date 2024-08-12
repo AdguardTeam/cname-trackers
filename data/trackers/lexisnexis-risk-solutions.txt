@@ -46,7 +46,9 @@
 ||barnacle.tommybahama.com^
 ||bifpt.pepperfinance.es^
 ||black-cat.crypto.com^
+||bland.starone.org^
 ||business.streetshares.com^
+||catalyst.mashreq.com^
 ||caveo.boost-my.com^
 ||cbcdn.bankofscotland.co.uk^
 ||cbcdn.lloydsbank.com^
@@ -68,6 +70,7 @@
 ||cdn.coastcapitalsavings.com^
 ||cdn.gusto.com^
 ||cdn1.f-cdn.com^
+||cdn1.onecalldirect.co.uk^
 ||cdn1.skrill.com^
 ||cdn1.svbconnect.com^
 ||cdn1.thm.bankofmelbourne.com.au^
@@ -952,6 +955,9 @@
 ||tm.telecharge.com^
 ||tm.uship.com^
 ||tm.verify.illion.com.au^
+||tmcdn.7sultanscasino.com^
+||tmcdn.alljackpotscasino.com^
+||tmcdn.allslotscasino.com^
 ||tmcdn.europalace.com^
 ||tmcdn.gamingclub.com^
 ||tmcdn.homeaway.com^
@@ -969,6 +975,7 @@
 ||tmcdn.spincasino.mx^
 ||tmcdn.spingalaxy.com^
 ||tmcdn.spinpalace.com^
+||tmcdn.vegaspalmscasino.com^
 ||tmck.milestonegoldcard.com^
 ||tmcontent.imvu.com^
 ||tmcontent.meridiancu.ca^

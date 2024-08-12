@@ -2,12 +2,14 @@
 # Company name: Utiq
 orangefr.mno.link
 service.utiq.com
+tmi.jv-telcoid.es
 tmi.vodafone.de
 utiq.20minutos.es
 utiq.24auto.de
 utiq.24books.de
 utiq.24hamburg.de
 utiq.24rhein.de
+utiq.24vita.de
 utiq.3djuegos.com
 utiq.abc.es
 utiq.actu.fr
@@ -16,6 +18,7 @@ utiq.aufeminin.com
 utiq.autobild.de
 utiq.autojournal.fr
 utiq.autoplus.fr
+utiq.az-online.de
 utiq.bfmtv.com
 utiq.bibamagazine.fr
 utiq.bild.de
@@ -27,9 +30,11 @@ utiq.bw24.de
 utiq.bz-berlin.de
 utiq.caminteresse.fr
 utiq.cesoirtv.com
+utiq.cheriefm.fr
 utiq.chip.de
 utiq.cnetfrance.fr
 utiq.come-on.de
+utiq.compradiccion.com
 utiq.computerbild.de
 utiq.desired.de
 utiq.diariodelaltoaragon.es
@@ -50,8 +55,10 @@ utiq.elnacional.cat
 utiq.elnortedecastilla.es
 utiq.elperiodico.com
 utiq.elperiodicodearagon.com
+utiq.elperiodicomediterraneo.com
 utiq.espinof.com
 utiq.expansion.com
+utiq.extratipp.com
 utiq.familie.de
 utiq.farodevigo.es
 utiq.faz.net
@@ -76,10 +83,14 @@ utiq.hna.de
 utiq.hoy.es
 utiq.huelva24.com
 utiq.ideal.es
+utiq.informacion.es
+utiq.ingame.de
 utiq.jux.news
+utiq.kreisbote.de
 utiq.kreiszeitung.de
 utiq.lachainemeteo.com
 utiq.landtiere.de
+utiq.laopiniondemalaga.es
 utiq.laopiniondemurcia.es
 utiq.larioja.com
 utiq.lasprovincias.es
@@ -105,6 +116,9 @@ utiq.movistar.es
 utiq.mundoxiaomi.com
 utiq.myhomebook.de
 utiq.news38.de
+utiq.nostalgie.fr
+utiq.nrj-play.fr
+utiq.nrj.fr
 utiq.op-online.de
 utiq.ouest-france.fr
 utiq.palladiumhotelgroup.com
@@ -115,6 +129,7 @@ utiq.pleinevie.fr
 utiq.pnp.de
 utiq.programme.tv
 utiq.psychologies.com
+utiq.rireetchansons.fr
 utiq.salamancahoy.es
 utiq.schlager.de
 utiq.science-et-vie.com
@@ -140,11 +155,13 @@ utiq.tvspielfilm.de
 utiq.tz.de
 utiq.utopia.de
 utiq.vidaextra.com
+utiq.vitonica.com
 utiq.voici.fr
 utiq.wa.de
 utiq.welt.de
 utiq.wiwo.de
 utiq.wmn.de
+utiq.wochenblatt.de
 utiq.xataka.com
 utiq.xatakahome.com
 utiq.xatakamovil.com

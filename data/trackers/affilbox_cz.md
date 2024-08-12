@@ -308,7 +308,6 @@
 | box.kryptotrejder.sk | cz.affilbox.cz |
 | brana.ritualyomlazeni.cz | cz.affilbox.cz |
 | collab.zdravetricko.cz | cz.affilbox.cz |
-| dekovacka.hezkres.cz | cz.affilbox.cz |
 | doporuc.hopsej.cz | cz.affilbox.cz |
 | doporuc.konferenceryba.cz | cz.affilbox.cz |
 | doporuc.mechaneo.cz | cz.affilbox.cz |
@@ -830,7 +829,6 @@
 | partneri.natu.cz | cz.affilbox.cz |
 | partneri.netfotbal.cz | cz.affilbox.cz |
 | partneri.nutricbistro.cz | cz.affilbox.cz |
-| partneri.odvizekzisku.cz | cz.affilbox.cz |
 | partneri.onlinejazyky.cz | cz.affilbox.cz |
 | partneri.onlinelearning.cz | cz.affilbox.cz |
 | partneri.oportskem.cz | cz.affilbox.cz |

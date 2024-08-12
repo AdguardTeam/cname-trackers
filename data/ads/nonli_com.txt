@@ -44,6 +44,7 @@
 ||l.heidi.news^
 ||l.humanite.fr^
 ||l.jeuneafrique.com^
+||l.jeuxvideo.com^
 ||l.journaldemillau.fr^
 ||l.ladepeche.fr^
 ||l.lanouvellerepublique.fr^
@@ -89,6 +90,7 @@
 ||l.traxmag.com^
 ||l.varmatin.com^
 ||l.voici.fr^
+||social.lafranceagricole.fr^
 ||sur.corsematin.com^
 ||sur.laprovence.com^
 ||www.20min.fr^

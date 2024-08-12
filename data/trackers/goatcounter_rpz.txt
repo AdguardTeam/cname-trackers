@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722844807306        ; Serial
+           1723449608476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ goatcounter.gamecraft.it CNAME .
 st.mapleranks.com CNAME .
 stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .
+stats.cloudflex.team CNAME .
 stats.how.wtf CNAME .
 stats.jakebailey.dev CNAME .
 stats.johanneswienke.de CNAME .

@@ -16,6 +16,7 @@
 ||st.mapleranks.com^
 ||stats.boredkevin.com^
 ||stats.boringproxy.io^
+||stats.cloudflex.team^
 ||stats.how.wtf^
 ||stats.jakebailey.dev^
 ||stats.johanneswienke.de^

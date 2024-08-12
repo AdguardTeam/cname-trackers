@@ -18,6 +18,7 @@
     * law-cityofsanmateo-org.goatcounter.com
     * lspeed.goatcounter.com
     * maple.goatcounter.com
+    * mine.goatcounter.com
     * msol.goatcounter.com
     * nhimmeo.goatcounter.com
     * psiyum.goatcounter.com
@@ -45,6 +46,7 @@
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
 | st.mapleranks.com | maple.goatcounter.com |
+| stats.cloudflex.team | mine.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
 | goat1.nhimmeo.cf | nhimmeo.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |

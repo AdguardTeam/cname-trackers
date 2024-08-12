@@ -115,11 +115,6 @@
     * wasserkraftwerkkessel-viessmann-ch-cddc.at-o.net
     * waterlooberlin-viessmann-ca-cddc.at-o.net
     * woodstock-viessmann-com-au-cddc.at-o.net
-    * wvvw-france24-com-cddc.at-o.net
-    * wvvw-francemediasmonde-com-cddc.at-o.net
-    * wvvw-infomigrants-net-cddc.at-o.net
-    * wvvw-mc-doualiya-com-cddc.at-o.net
-    * wvvw-rfi-fr-cddc.at-o.net
     * y1-arte-tv-cddc.at-o.net
     * zagrabiti-viessmann-hr-cddc.at-o.net
     * zaventemdijleland-viessmann-be-cddc.at-o.net
@@ -244,11 +239,6 @@
 | wasserkraftwerkkessel.viessmann.ch | wasserkraftwerkkessel-viessmann-ch-cddc.at-o.net |
 | waterlooberlin.viessmann.ca | waterlooberlin-viessmann-ca-cddc.at-o.net |
 | woodstock.viessmann.com.au | woodstock-viessmann-com-au-cddc.at-o.net |
-| wvvw.france24.com | wvvw-france24-com-cddc.at-o.net |
-| wvvw.francemediasmonde.com | wvvw-francemediasmonde-com-cddc.at-o.net |
-| wvvw.infomigrants.net | wvvw-infomigrants-net-cddc.at-o.net |
-| wvvw.mc-doualiya.com | wvvw-mc-doualiya-com-cddc.at-o.net |
-| wvvw.rfi.fr | wvvw-rfi-fr-cddc.at-o.net |
 | y1.arte.tv | y1-arte-tv-cddc.at-o.net |
 | zagrabiti.viessmann.hr | zagrabiti-viessmann-hr-cddc.at-o.net |
 | zaventemdijleland.viessmann.be | zaventemdijleland-viessmann-be-cddc.at-o.net |

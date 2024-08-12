@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722844807306        ; Serial
+           1723449608476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -46,6 +46,7 @@ stats.tirolerjobs.at CNAME .
 stats.umziehen.de CNAME .
 stats.united-domains.de CNAME .
 stats.wienerjobs.at CNAME .
+track.dictum-shop.de CNAME .
 track.dictum.com CNAME .
 track.karlstorz.com CNAME .
 track.thegundogaffair.com CNAME .
@@ -58,8 +59,11 @@ webcontr.l.de CNAME .
 webcontr.ryzon.net CNAME .
 webcontr.synvia.de CNAME .
 wt.leitz.org CNAME .
+esub.akkusys.shop CNAME .
 esub.autobatterie-markt.de CNAME .
+esub.online-batterien.at CNAME .
 esub.online-batterien.de CNAME .
+esub.solarshopaustria.at CNAME .
 esub.solarspeicher24.de CNAME .
 et.juskys.de CNAME .
 stats.bodenverkauf.de CNAME .

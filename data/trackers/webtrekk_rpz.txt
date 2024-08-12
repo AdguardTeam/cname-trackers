@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722844807306        ; Serial
+           1723449608476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -326,6 +326,7 @@ web.mapp.whiteaway.se CNAME .
 web.marcotozzi.com CNAME .
 web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
+web.news.bottegaverde.com CNAME .
 web.news.creedfragrances.co.uk CNAME .
 web.news.dixiefashion.com CNAME .
 web.news.eprice.it CNAME .
@@ -348,6 +349,7 @@ web.sensilab.de CNAME .
 web.sensilab.dk CNAME .
 web.sensilab.es CNAME .
 web.sensilab.fi CNAME .
+web.sensilab.fr CNAME .
 web.sensilab.hr CNAME .
 web.sensilab.ie CNAME .
 web.sensilab.it CNAME .

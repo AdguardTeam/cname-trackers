@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722844807306        ; Serial
+           1723449608476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,7 +22,6 @@ analytics.arunraghavan.net CNAME .
 analytics.basistheory.com CNAME .
 analytics.betterplaces.nl CNAME .
 analytics.certifriedit.com CNAME .
-analytics.chattarize.de CNAME .
 analytics.churchthemes.com CNAME .
 analytics.codeforscience.org CNAME .
 analytics.codeskulptor.org CNAME .
@@ -524,7 +523,6 @@ stats.getpickaxe.com CNAME .
 stats.ghinda.com CNAME .
 stats.glassmountains.co.uk CNAME .
 stats.glyphs.fyi CNAME .
-stats.gnalt.de CNAME .
 stats.goldsguide.com CNAME .
 stats.gounified.com CNAME .
 stats.graphql-api.com CNAME .

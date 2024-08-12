@@ -315,6 +315,7 @@ web.mapp.whiteaway.se
 web.marcotozzi.com
 web.marketing.jellybelly.com
 web.mytoys.de
+web.news.bottegaverde.com
 web.news.creedfragrances.co.uk
 web.news.dixiefashion.com
 web.news.eprice.it
@@ -337,6 +338,7 @@ web.sensilab.de
 web.sensilab.dk
 web.sensilab.es
 web.sensilab.fi
+web.sensilab.fr
 web.sensilab.hr
 web.sensilab.ie
 web.sensilab.it

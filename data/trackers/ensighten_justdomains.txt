@@ -197,6 +197,8 @@ dc.kayoutlet.com
 dc.sterlingjewelers.com
 dc.stokke.com
 dc.volkswagen.com
+dc.volkswagen.de
+dc.volkswagen.pl
 dc.zales.com
 dc.zalesoutlet.com
 dcf.espn.com

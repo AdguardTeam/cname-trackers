@@ -222,6 +222,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -479,13 +480,11 @@
     * shark-clean.extole.io
     * shibumishade.extole.io
     * shiseido.extole.io
-    * shoplc.extole.io
     * shu-uemura-art-of-hair.extole.io
     * shutterstock.extole.io
     * shyft.extole.io
     * simon-and-schuster.extole.io
     * sizigi.extole.io
-    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -734,6 +733,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -1151,7 +1151,6 @@
 | share.shibumishade.com | shibumishade.extole.io |
 | referral.shiseido.com | shiseido.extole.io |
 | refer.shoesforcrews.com | shoesforcrews-ssl.extole.com |
-| share.shoplc.com | shoplc.extole.io |
 | refer.shuuemuraartofhair-usa.com | shu-uemura-art-of-hair.extole.io |
 | share.shutterstock.com | shutterstock.extole.io |
 | share.getshyft.co.za | shyft.extole.io |
@@ -1159,7 +1158,6 @@
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
-| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |

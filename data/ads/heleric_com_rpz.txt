@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722844807306        ; Serial
+           1723449608476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,9 +13,11 @@ $TTL 300
 
 ah.cabbingdandled.com CNAME .
 aj.stomalhobble.com CNAME .
+al.laichsbedamns.com CNAME .
 ap.ansilumbar.com CNAME .
 ap.bouncelargo.com CNAME .
 ap.saluteeyeseed.com CNAME .
+aq.theurgyopine.com CNAME .
 ar.pagodaskeeker.com CNAME .
 au.maniatoile.com CNAME .
 av.dizziesferri.com CNAME .
@@ -97,6 +99,7 @@ gq.webbymendole.com CNAME .
 gr.faencepuggy.com CNAME .
 gr.kitharapalanka.com CNAME .
 hb.tewitfeoffee.com CNAME .
+hb.vampednorbert.com CNAME .
 hf.frisklelooms.com CNAME .
 hg.barwaltanha.com CNAME .
 hj.faggotbovidae.com CNAME .
@@ -122,6 +125,7 @@ jf.palemaneleven.com CNAME .
 jj.boodymauves.com CNAME .
 jm.fallagerampire.com CNAME .
 jm.newtsbowk.com CNAME .
+jt.whunpainty.com CNAME .
 jw.posiedcaridea.com CNAME .
 jx.yonnersekere.com CNAME .
 jy.astylararsines.com CNAME .
@@ -284,14 +288,17 @@ vu.gombotrubu.com CNAME .
 vv.tongabanky.com CNAME .
 vx.azuresjukes.com CNAME .
 vx.womerasecocide.com CNAME .
+vy.withsaynapa.com CNAME .
 wg.clagssyria.com CNAME .
 wi.cohereseugene.com CNAME .
+wm.quinelarumored.com CNAME .
 wr.rugosehoarish.com CNAME .
 wv.donarynahane.com CNAME .
 xd.meritedyaws.com CNAME .
 xl.demosbattik.com CNAME .
 xn.brocardgillar.com CNAME .
 xn.geoidalsericin.com CNAME .
+xr.atriumsmiddum.com CNAME .
 xu.chimerscoshing.com CNAME .
 xw.horrifyclausum.com CNAME .
 xx.billaesopus.com CNAME .

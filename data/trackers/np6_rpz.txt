@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1722844807306        ; Serial
+           1723449608476        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -231,6 +231,7 @@ tr.communication.b2b-actualites.com CNAME .
 tr.communication.boursobank.info CNAME .
 tr.communication.boursorama.info CNAME .
 tr.communication.cgaaer.fr CNAME .
+tr.communication.eminente.com CNAME .
 tr.communication.enkiapp.io CNAME .
 tr.communication.harmonie-mutuelle.fr CNAME .
 tr.communication.hennessy.com CNAME .
@@ -343,6 +344,7 @@ tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
 tr.email.d17.tv CNAME .
 tr.email.d8.tv CNAME .
+tr.email.defiscaliser.com CNAME .
 tr.email.directindustry.com CNAME .
 tr.email.distributor-expo.com CNAME .
 tr.email.gap-france.fr CNAME .
@@ -381,6 +383,7 @@ tr.emailing.canalpro.fr CNAME .
 tr.emailing.canalsat.ch CNAME .
 tr.emailing.cifea-mkg.com CNAME .
 tr.emailing.cnam-paysdelaloire.fr CNAME .
+tr.emailing.coe.int CNAME .
 tr.emailing.cstar.fr CNAME .
 tr.emailing.detours.canal.fr CNAME .
 tr.emailing.grassavoye.com CNAME .
@@ -413,6 +416,7 @@ tr.fleetmatics.vraaguwofferte.be CNAME .
 tr.forum.veuveclicquot.fr CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.france.plimsoll.fr CNAME .
+tr.future-commerce.mhdfrance.fr CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
 tr.gen.espmp-agfr.net CNAME .
 tr.gestion.cafineo.fr CNAME .
@@ -427,6 +431,7 @@ tr.gestion.lexpress.fr CNAME .
 tr.gestion.liberation.fr CNAME .
 tr.gestion.norrsken.fr CNAME .
 tr.gestion.sygmabnpparibas-pf.com CNAME .
+tr.global-insights.moethennessy.com CNAME .
 tr.gplus.espmp-nifr.net CNAME .
 tr.grez.espmp-nifr.net CNAME .
 tr.group-appointments.lvmh.fr CNAME .
@@ -641,8 +646,10 @@ tr.mes-bonsplans.be CNAME .
 tr.mes-prestataires.fr CNAME .
 tr.message.maaf.fr CNAME .
 tr.mh-connect.moethennessy.com CNAME .
+tr.mhanz.moethennessy.com CNAME .
 tr.mhch.moet.hennessy.com CNAME .
 tr.mhdconnect.mhdfrance.fr CNAME .
+tr.mhic.moethennessy.com CNAME .
 tr.mhist.moethennessy.com CNAME .
 tr.mhlab78.moethennessy.com CNAME .
 tr.mhusa-trade-engagement.moethennessy.com CNAME .
@@ -797,6 +804,7 @@ tr.news.lentillesmoinscheres.com CNAME .
 tr.news.lentreprise.lexpress.fr CNAME .
 tr.news.lexpansion.lexpress.fr CNAME .
 tr.news.lexpress.fr CNAME .
+tr.news.libranoo.com CNAME .
 tr.news.linxea.com CNAME .
 tr.news.lisez.com CNAME .
 tr.news.lokapimail.com CNAME .

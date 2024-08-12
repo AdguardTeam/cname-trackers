@@ -35,6 +35,7 @@
 ||stats.umziehen.de^
 ||stats.united-domains.de^
 ||stats.wienerjobs.at^
+||track.dictum-shop.de^
 ||track.dictum.com^
 ||track.karlstorz.com^
 ||track.thegundogaffair.com^
@@ -47,8 +48,11 @@
 ||webcontr.ryzon.net^
 ||webcontr.synvia.de^
 ||wt.leitz.org^
+||esub.akkusys.shop^
 ||esub.autobatterie-markt.de^
+||esub.online-batterien.at^
 ||esub.online-batterien.de^
+||esub.solarshopaustria.at^
 ||esub.solarspeicher24.de^
 ||et.juskys.de^
 ||stats.bodenverkauf.de^
