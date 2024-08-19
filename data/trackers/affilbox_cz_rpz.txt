@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -277,7 +277,6 @@ affiliate.velebny.cz CNAME .
 affiliate.vianio.com CNAME .
 affiliate.vox.cz CNAME .
 affiliate.warriorfactory.cz CNAME .
-affiliate.webium.cz CNAME .
 affiliate.wugi.cz CNAME .
 affiliate.xbx.cz CNAME .
 affiliate.zdraviafitness.cz CNAME .
@@ -366,7 +365,6 @@ my.top4fitness.ro CNAME .
 my.top4fitness.se CNAME .
 my.top4fitness.si CNAME .
 my.top4fitness.sk CNAME .
-my.top4football.com CNAME .
 my.top4football.cz CNAME .
 my.top4football.de CNAME .
 my.top4football.dk CNAME .
@@ -374,7 +372,6 @@ my.top4football.es CNAME .
 my.top4football.fi CNAME .
 my.top4football.fr CNAME .
 my.top4football.ie CNAME .
-my.top4football.it CNAME .
 my.top4football.nl CNAME .
 my.top4football.se CNAME .
 my.top4run.cz CNAME .

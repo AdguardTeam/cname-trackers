@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -125,6 +125,7 @@ static.ad.logic-prod.viasat.io CNAME .
 static.aqua-adserver.com CNAME .
 static.biohandel.de CNAME .
 static.consulcesi.it CNAME .
+static.engineeringnews.co.za CNAME .
 static.environmentalleader.com CNAME .
 static.fa-mag.com CNAME .
 static.livingmagonline.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -210,6 +210,7 @@ dc.stokke.com CNAME .
 dc.volkswagen.com CNAME .
 dc.volkswagen.de CNAME .
 dc.volkswagen.pl CNAME .
+dc.vw.com.mx CNAME .
 dc.zales.com CNAME .
 dc.zalesoutlet.com CNAME .
 dcf.espn.com CNAME .

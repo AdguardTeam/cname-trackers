@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -210,6 +210,7 @@ a8.makeshop.jp CNAME .
 a8.mamacosme.co.jp CNAME .
 a8.mamaworks.jp CNAME .
 a8.manara.jp CNAME .
+a8.mar-cari.jp CNAME .
 a8.medireanetshopoi.com CNAME .
 a8.migxl.com CNAME .
 a8.minion-wifi.com CNAME .
@@ -601,7 +602,6 @@ a8clk.olulu-online.jp CNAME .
 a8clk.onemile.jp CNAME .
 a8clk.only-story.jp CNAME .
 a8clk.order-box.net CNAME .
-a8clk.order.banana-wifi.com CNAME .
 a8clk.order.lpio.jp CNAME .
 a8clk.orders.bon-book.jp CNAME .
 a8clk.osoujihonpo.com CNAME .

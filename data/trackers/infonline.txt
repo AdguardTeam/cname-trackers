@@ -1352,9 +1352,11 @@
 ||data-9d5ca866eb.baunetz.de^
 ||data-9d5ca866eb.baunetzwissen.de^
 ||data-9dc3fcd9b4.fitforfun.de^
+||data-9dc3fcd9b4.focus-gesundheit.de^
 ||data-9dc3fcd9b4.focus.de^
 ||data-9dc3fcd9b4.mylife.de^
 ||data-9dc3fcd9b4.netdoktor.de^
+||data-9dc3fcd9b4.netmoms.de^
 ||data-9df22f196a.motor1.com^
 ||data-9e4f40dc7c.travelbook.de^
 ||data-9e4ff1c91f.wz.de^
@@ -1824,7 +1826,6 @@
 ||data-d3b7b07de5.apps.iocnt.de^
 ||data-d3b9450695.tv-media.at^
 ||data-d47b934372.regionalheute.de^
-||data-d4cb803d00.pollux-fid.de^
 ||data-d4db30a18b.borkumer-zeitung.de^
 ||data-d4db30a18b.ga-online.de^
 ||data-d4db30a18b.on-online.de^
@@ -1973,7 +1974,6 @@
 ||data-e94c0aee45.apps.iocnt.de^
 ||data-e957dcbbbe.tele5.de^
 ||data-e9983e832a.boyens-medien.de^
-||data-e9b64d37c6.bbv-net.de^
 ||data-e9b83554f9.moserholding.com^
 ||data-e9eee8419a.si-shk.de^
 ||data-ea06a9645c.bauhof-online.de^
@@ -2254,6 +2254,7 @@
 ||data-fa59f9f6b5.kuki-landau.de^
 ||data-fa59f9f6b5.kulturhaus-pritzwalk.de^
 ||data-fa59f9f6b5.lichtspiele-grosshabersdorf.de^
+||data-faf3e659f2.apps.iocnt.de^
 ||data-fb37a1e7c3.cannstatter-zeitung.de^
 ||data-fb37a1e7c3.esslinger-zeitung.de^
 ||data-fb37a1e7c3.frankenpost.de^
@@ -2271,6 +2272,7 @@
 ||data-fbb8842b89.focus.de^
 ||data-fbb8842b89.mylife.de^
 ||data-fbb8842b89.netdoktor.de^
+||data-fbb8842b89.netmoms.de^
 ||data-fc03a8828d.streampicker.de^
 ||data-fc03a8828d.tvspielfilm.de^
 ||data-fc03a8828d.tvtoday.de^

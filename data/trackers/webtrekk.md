@@ -164,6 +164,7 @@
     * 849036415619964.wt-eu02.net
     * 849715076759606.wt-eu02.net
     * 865411762489824.wt-eu02.net
+    * 877361186099223.wt-eu02.net
     * 877979016491790.wt-eu02.net
     * 887450638197118.wt-eu02.net
     * 893825625040746.wt-eu02.net
@@ -417,6 +418,7 @@
 | mit.deutsche-bank.de | 849715076759606.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
 | wt.generalibewegtdeutschland.de | 865411762489824.wt-eu02.net |
+| web.news.turnbullandasser.co.uk | 877361186099223.wt-eu02.net |
 | mit.deutschebank.be | 877979016491790.wt-eu02.net |
 | trk.nuernberger.com | 887450638197118.wt-eu02.net |
 | trk.nuernberger.de | 887450638197118.wt-eu02.net |

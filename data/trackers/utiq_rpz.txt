@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+o2de.mno.link CNAME .
 orangefr.mno.link CNAME .
 service.utiq.com CNAME .
 tmi.jv-telcoid.es CNAME .
@@ -47,7 +48,9 @@ utiq.cnetfrance.fr CNAME .
 utiq.come-on.de CNAME .
 utiq.compradiccion.com CNAME .
 utiq.computerbild.de CNAME .
+utiq.dasgelbeblatt.de CNAME .
 utiq.desired.de CNAME .
+utiq.diariodeibiza.es CNAME .
 utiq.diariodelaltoaragon.es CNAME .
 utiq.diariodemallorca.es CNAME .
 utiq.diariogol.com CNAME .
@@ -66,7 +69,9 @@ utiq.elnacional.cat CNAME .
 utiq.elnortedecastilla.es CNAME .
 utiq.elperiodico.com CNAME .
 utiq.elperiodicodearagon.com CNAME .
+utiq.elperiodicoextremadura.com CNAME .
 utiq.elperiodicomediterraneo.com CNAME .
+utiq.epe.es CNAME .
 utiq.espinof.com CNAME .
 utiq.expansion.com CNAME .
 utiq.extratipp.com CNAME .
@@ -74,6 +79,7 @@ utiq.familie.de CNAME .
 utiq.farodevigo.es CNAME .
 utiq.faz.net CNAME .
 utiq.fehmarn24.de CNAME .
+utiq.finanzfrage.net CNAME .
 utiq.fitbook.de CNAME .
 utiq.fnp.de CNAME .
 utiq.focus.de CNAME .
@@ -87,6 +93,8 @@ utiq.giessener-allgemeine.de CNAME .
 utiq.giga.de CNAME .
 utiq.grazia.fr CNAME .
 utiq.gutefrage.net CNAME .
+utiq.hallo-eltern.de CNAME .
+utiq.hallo-muenchen.de CNAME .
 utiq.handelsblatt.com CNAME .
 utiq.heftig.de CNAME .
 utiq.helpster.de CNAME .
@@ -101,6 +109,7 @@ utiq.kreisbote.de CNAME .
 utiq.kreiszeitung.de CNAME .
 utiq.lachainemeteo.com CNAME .
 utiq.landtiere.de CNAME .
+utiq.laopinioncoruna.es CNAME .
 utiq.laopiniondemalaga.es CNAME .
 utiq.laopiniondemurcia.es CNAME .
 utiq.larioja.com CNAME .

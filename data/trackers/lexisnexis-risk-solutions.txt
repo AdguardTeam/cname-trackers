@@ -904,6 +904,7 @@
 ||tm-analytics.bluevine.com^
 ||tm-eps.neutrino.nu^
 ||tm-out.cardinalcommerce.com^
+||tm.acehardware.com^
 ||tm.barclays.co.uk^
 ||tm.barstoolsportsbook.com^
 ||tm.bdc-cdn.com^

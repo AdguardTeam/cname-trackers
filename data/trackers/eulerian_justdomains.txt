@@ -181,7 +181,6 @@ ef.futuroscope.mobi
 eit3.destinia.nl
 ek8.voyage-prive.com
 elr.sfr.fr
-erb.tremblant.ca
 ert5.rmcsport.tv
 et.sncf.com
 eule1.pmu.fr
@@ -405,7 +404,6 @@ snr4.canalplus.com
 srm4.destinia.co.no
 ssrlot.lotoquebec.com
 ssy7.destinia.com.ua
-su1.les-suites.ca
 sykc.madeindesign.ch
 t.locasun-vp.fr
 t.locasun.co.uk
@@ -495,8 +493,10 @@ c0i.ckoi.com
 c0p.cepsum.umontreal.ca
 d2u.dauphinquebec.com
 eat9.thebeat925.ca
+erb.tremblant.ca
 nym5c.bonlook.com
 ry0.rythmefm.com
+su1.les-suites.ca
 ea.mnt.fr
 gi7a.structube.com
 nym5c.laura.ca

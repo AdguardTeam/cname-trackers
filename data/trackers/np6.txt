@@ -163,6 +163,7 @@
 ||tr.cacf-acq.ipsos-surveys.com^
 ||tr.cacf.ipsos-surveys.com^
 ||tr.camara.eu.com^
+||tr.campaign.colossusbets.com^
 ||tr.candidats-dispos-fed.fr^
 ||tr.capu.espmp-agfr.net^
 ||tr.carl.espmp-cufr.net^
@@ -444,7 +445,6 @@
 ||tr.info.aeroportdeauville.com^
 ||tr.info.ag2rlamondiale.fr^
 ||tr.info.aliae.com^
-||tr.info.annoncesbateau.com^
 ||tr.info.aprr.fr^
 ||tr.info.arialcnp.fr^
 ||tr.info.astermod.net^
@@ -458,6 +458,7 @@
 ||tr.info.cartesaffaires.bnpparibas^
 ||tr.info.casino-proximites.fr^
 ||tr.info.certypro.fr^
+||tr.info.classe-de-demain.fr^
 ||tr.info.clicochic.com^
 ||tr.info.cnch.fr^
 ||tr.info.comparadordeprestamos.es^
@@ -577,7 +578,6 @@
 ||tr.livrephoto.espmp-aufr.net^
 ||tr.loreal.ifop.com^
 ||tr.louisvuittonmalletier.com^
-||tr.louvre-boites.com^
 ||tr.ltbu.espmp-nifr.net^
 ||tr.ltbu02o.espmp-agfr.net^
 ||tr.lvmhappening.lvmh.fr^
@@ -800,6 +800,7 @@
 ||tr.news.maisonfoody.com^
 ||tr.news.maisons-du-monde.com^
 ||tr.news.manufacturing.fr^
+||tr.news.manutan-collectivites.fr^
 ||tr.news.mdbp.fr^
 ||tr.news.mediametrie.fr^
 ||tr.news.meillandrichardier.com^

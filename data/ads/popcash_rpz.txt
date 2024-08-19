@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -237,7 +237,6 @@ barracuda.civicdatalibrary.org CNAME .
 barracuda.ottsysteme.rs CNAME .
 barracuda.saraos.tech CNAME .
 barracuda.verto.exchange CNAME .
-basilisk.kite.pub CNAME .
 basilisk.laosima.com CNAME .
 bass.alfrednerstu.com CNAME .
 bass.goulet.dev CNAME .
@@ -506,7 +505,6 @@ gayal.maxmasnick.com CNAME .
 gayal.stockshouse.co CNAME .
 gazelle.editorclub.com CNAME .
 gazelle.laurenagray.com CNAME .
-gecko.anagodeck.com CNAME .
 gecko.rrrelax.app CNAME .
 gecko.withclarify.com CNAME .
 gerbil.buf.build CNAME .
@@ -577,7 +575,6 @@ hornet.jeffgable.com CNAME .
 hornet.newburycompanies.com CNAME .
 hornet.stechstudio.com CNAME .
 horse.adventurousmachines.com CNAME .
-horse.deadmanssnitch.com CNAME .
 horse.erms.app CNAME .
 horse.hookrelay.dev CNAME .
 horse.mynorthstarapp.com CNAME .
@@ -704,7 +701,6 @@ magpie.phil.dev CNAME .
 mammal.autoidle.com CNAME .
 manatee.biodom.bio CNAME .
 mandrill.castingcollective.net CNAME .
-mandrill.phiilu.com CNAME .
 mandrill.yellowfruit.co CNAME .
 mantaray.bullshitgoggles.com CNAME .
 marlin.firstline.org CNAME .
@@ -849,7 +845,6 @@ porpoise.kristinholl.com CNAME .
 porpoise.numberzs.com CNAME .
 prairiedog.hashnode.com CNAME .
 prawn.lionsmouth.digital CNAME .
-prawn.samgarson.com CNAME .
 primate.logology.co CNAME .
 primate.oleggera.com CNAME .
 primate.productcolors.com CNAME .

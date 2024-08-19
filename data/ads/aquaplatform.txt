@@ -114,6 +114,7 @@
 ||static.aqua-adserver.com^
 ||static.biohandel.de^
 ||static.consulcesi.it^
+||static.engineeringnews.co.za^
 ||static.environmentalleader.com^
 ||static.fa-mag.com^
 ||static.livingmagonline.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -337,6 +337,7 @@ web.news.paganistore.com CNAME .
 web.news.piquadro.com CNAME .
 web.news.pleasefashion.com CNAME .
 web.news.thebridge.it CNAME .
+web.news.turnbullandasser.co.uk CNAME .
 web.newsletter.koffer-to-go.de CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.newsletterit.esprinet.com CNAME .

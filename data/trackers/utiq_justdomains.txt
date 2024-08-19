@@ -1,5 +1,6 @@
 #
 # Company name: Utiq
+o2de.mno.link
 orangefr.mno.link
 service.utiq.com
 tmi.jv-telcoid.es
@@ -36,7 +37,9 @@ utiq.cnetfrance.fr
 utiq.come-on.de
 utiq.compradiccion.com
 utiq.computerbild.de
+utiq.dasgelbeblatt.de
 utiq.desired.de
+utiq.diariodeibiza.es
 utiq.diariodelaltoaragon.es
 utiq.diariodemallorca.es
 utiq.diariogol.com
@@ -55,7 +58,9 @@ utiq.elnacional.cat
 utiq.elnortedecastilla.es
 utiq.elperiodico.com
 utiq.elperiodicodearagon.com
+utiq.elperiodicoextremadura.com
 utiq.elperiodicomediterraneo.com
+utiq.epe.es
 utiq.espinof.com
 utiq.expansion.com
 utiq.extratipp.com
@@ -63,6 +68,7 @@ utiq.familie.de
 utiq.farodevigo.es
 utiq.faz.net
 utiq.fehmarn24.de
+utiq.finanzfrage.net
 utiq.fitbook.de
 utiq.fnp.de
 utiq.focus.de
@@ -76,6 +82,8 @@ utiq.giessener-allgemeine.de
 utiq.giga.de
 utiq.grazia.fr
 utiq.gutefrage.net
+utiq.hallo-eltern.de
+utiq.hallo-muenchen.de
 utiq.handelsblatt.com
 utiq.heftig.de
 utiq.helpster.de
@@ -90,6 +98,7 @@ utiq.kreisbote.de
 utiq.kreiszeitung.de
 utiq.lachainemeteo.com
 utiq.landtiere.de
+utiq.laopinioncoruna.es
 utiq.laopiniondemalaga.es
 utiq.laopiniondemurcia.es
 utiq.larioja.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,6 +15,7 @@ anal.sataniskwijt.be CNAME .
 analytics.code.dccouncil.gov CNAME .
 analytics.code.dccouncil.us CNAME .
 analytics.law.cityofsanmateo.org CNAME .
+analytics.popov.link CNAME .
 contacapre.bortox.it CNAME .
 count.vidsrc.pro CNAME .
 gc.sanyamkapoor.com CNAME .
@@ -31,6 +32,8 @@ stats.cloudflex.team CNAME .
 stats.how.wtf CNAME .
 stats.jakebailey.dev CNAME .
 stats.johanneswienke.de CNAME .
+stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
 stats.lspeed.org CNAME .
 stats.msol.io CNAME .
+stats.semipol.de CNAME .

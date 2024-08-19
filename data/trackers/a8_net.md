@@ -212,6 +212,7 @@
 | a8.mamacosme.co.jp | trck.a8.net |
 | a8.mamaworks.jp | trck.a8.net |
 | a8.manara.jp | trck.a8.net |
+| a8.mar-cari.jp | trck.a8.net |
 | a8.medireanetshopoi.com | trck.a8.net |
 | a8.migxl.com | trck.a8.net |
 | a8.minion-wifi.com | trck.a8.net |
@@ -603,7 +604,6 @@
 | a8clk.onemile.jp | trck.a8.net |
 | a8clk.only-story.jp | trck.a8.net |
 | a8clk.order-box.net | trck.a8.net |
-| a8clk.order.banana-wifi.com | trck.a8.net |
 | a8clk.order.lpio.jp | trck.a8.net |
 | a8clk.orders.bon-book.jp | trck.a8.net |
 | a8clk.osoujihonpo.com | trck.a8.net |

@@ -199,6 +199,7 @@
 ||a8.mamacosme.co.jp^
 ||a8.mamaworks.jp^
 ||a8.manara.jp^
+||a8.mar-cari.jp^
 ||a8.medireanetshopoi.com^
 ||a8.migxl.com^
 ||a8.minion-wifi.com^
@@ -590,7 +591,6 @@
 ||a8clk.onemile.jp^
 ||a8clk.only-story.jp^
 ||a8clk.order-box.net^
-||a8clk.order.banana-wifi.com^
 ||a8clk.order.lpio.jp^
 ||a8clk.orders.bon-book.jp^
 ||a8clk.osoujihonpo.com^

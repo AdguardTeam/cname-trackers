@@ -14,6 +14,7 @@
     * howwtf.goatcounter.com
     * jakebailey.goatcounter.com
     * johanneswienke.goatcounter.com
+    * ksmets.goatcounter.com
     * ksr.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
     * lspeed.goatcounter.com
@@ -23,8 +24,10 @@
     * nhimmeo.goatcounter.com
     * psiyum.goatcounter.com
     * satanisk.goatcounter.com
+    * semipol.goatcounter.com
     * skeetstats.goatcounter.com
     * tailspace.goatcounter.com
+    * valentineus.goatcounter.com
     * vpro.goatcounter.com
 
 ## Cloaking domains
@@ -42,6 +45,7 @@
 | stats.how.wtf | howwtf.goatcounter.com |
 | stats.jakebailey.dev | jakebailey.goatcounter.com |
 | stats.johanneswienke.de | johanneswienke.goatcounter.com |
+| stats.ksmets.be | ksmets.goatcounter.com |
 | stats.ksr.onl | ksr.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
@@ -51,6 +55,8 @@
 | goat1.nhimmeo.cf | nhimmeo.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
+| stats.semipol.de | semipol.goatcounter.com |
 | goat.skeetstats.xyz | skeetstats.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |
+| analytics.popov.link | valentineus.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |

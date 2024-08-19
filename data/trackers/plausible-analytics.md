@@ -88,7 +88,6 @@
 | counter.proxycrawl.com | custom.plausible.io |
 | counter.subtitlebee.com | custom.plausible.io |
 | counter.websitevoice.com | custom.plausible.io |
-| cp.phiilu.com | custom.plausible.io |
 | datum.appfleet.com | custom.plausible.io |
 | ds.webprojectslab.com | custom.plausible.io |
 | eliteclng.ericksonbuilt.com | custom.plausible.io |
@@ -409,7 +408,6 @@
 | stats.catholicluv.com | custom.plausible.io |
 | stats.centralswindonnorth-pc.gov.uk | custom.plausible.io |
 | stats.cfcasts.com | custom.plausible.io |
-| stats.chadly.net | custom.plausible.io |
 | stats.changelog.com | custom.plausible.io |
 | stats.chomp.haus | custom.plausible.io |
 | stats.chronoslabs.net | custom.plausible.io |

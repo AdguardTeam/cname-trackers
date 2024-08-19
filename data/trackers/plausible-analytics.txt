@@ -75,7 +75,6 @@
 ||counter.proxycrawl.com^
 ||counter.subtitlebee.com^
 ||counter.websitevoice.com^
-||cp.phiilu.com^
 ||datum.appfleet.com^
 ||ds.webprojectslab.com^
 ||eliteclng.ericksonbuilt.com^
@@ -396,7 +395,6 @@
 ||stats.catholicluv.com^
 ||stats.centralswindonnorth-pc.gov.uk^
 ||stats.cfcasts.com^
-||stats.chadly.net^
 ||stats.changelog.com^
 ||stats.chomp.haus^
 ||stats.chronoslabs.net^

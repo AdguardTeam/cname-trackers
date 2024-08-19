@@ -81,6 +81,7 @@ l.reporterre.net
 l.rmc.fr
 l.rmcsport.fr
 l.sciencesetavenir.fr
+l.sudinfo.be
 l.sudouest.fr
 l.tf1.fr
 l.tf1info.fr

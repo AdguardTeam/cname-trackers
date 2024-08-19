@@ -121,6 +121,7 @@
 | servedby.engineeringnews.co.za | creamer-delivery.aquaplatform.com |
 | servedby.miningweekly.com | creamer-delivery.aquaplatform.com |
 | servedby.polity.org.za | creamer-delivery.aquaplatform.com |
+| static.engineeringnews.co.za | creamer-static.aquaplatform.com |
 | static.miningweekly.com | creamer-static.aquaplatform.com |
 | static.polity.org.za | creamer-static.aquaplatform.com |
 | ads.datateam.co.uk | datateam-delivery.aquaplatform.com |

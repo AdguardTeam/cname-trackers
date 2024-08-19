@@ -326,6 +326,7 @@
 ||web.news.piquadro.com^
 ||web.news.pleasefashion.com^
 ||web.news.thebridge.it^
+||web.news.turnbullandasser.co.uk^
 ||web.newsletter.koffer-to-go.de^
 ||web.newsletter.viviennewestwood.com^
 ||web.newsletterit.esprinet.com^

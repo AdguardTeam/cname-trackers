@@ -152,6 +152,7 @@
 ||cname.mebiusseiyaku.co.jp^
 ||cname.mitsuihome.co.jp^
 ||cname.nikkei-cnbc.co.jp^
+||cname.polestar-m.jp^
 ||cname.sokuyaku.jp^
 ||cname1.shakenkan.co.jp^
 ||cname2.shaken-yoyaku.com^

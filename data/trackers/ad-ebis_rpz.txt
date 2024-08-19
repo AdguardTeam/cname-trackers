@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -163,6 +163,7 @@ cname.lions-mansion.jp CNAME .
 cname.mebiusseiyaku.co.jp CNAME .
 cname.mitsuihome.co.jp CNAME .
 cname.nikkei-cnbc.co.jp CNAME .
+cname.polestar-m.jp CNAME .
 cname.sokuyaku.jp CNAME .
 cname1.shakenkan.co.jp CNAME .
 cname2.shaken-yoyaku.com CNAME .

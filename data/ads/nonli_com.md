@@ -97,6 +97,7 @@
 | l.rmc.fr | tls.non.li |
 | l.rmcsport.fr | tls.non.li |
 | l.sciencesetavenir.fr | tls.non.li |
+| l.sudinfo.be | tls.non.li |
 | l.sudouest.fr | tls.non.li |
 | l.tf1.fr | tls.non.li |
 | l.tf1info.fr | tls.non.li |

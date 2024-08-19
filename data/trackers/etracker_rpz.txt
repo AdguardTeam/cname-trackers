@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -40,6 +40,7 @@ stats.kaerntnerjobs.at CNAME .
 stats.mopo.de CNAME .
 stats.pilz.com CNAME .
 stats.rumundco.de CNAME .
+stats.salzburgerjobs.at CNAME .
 stats.steirerjobs.at CNAME .
 stats.suedtirolerjobs.it CNAME .
 stats.tirolerjobs.at CNAME .

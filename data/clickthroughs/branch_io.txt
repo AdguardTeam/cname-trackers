@@ -158,7 +158,6 @@
 ||ablink.promos.timhortons.ca^
 ||ablink.promos.timhortons.com^
 ||ablink.qa.enjoy.wonder.com^
-||ablink.r.sofi.com^
 ||ablink.recommendations.max.com^
 ||ablink.rider.li.me^
 ||ablink.seller.etsy.com^
@@ -830,7 +829,9 @@
 ||tracking.staging.goshare.co^
 ||tracks.roomster.com^
 ||trk-branch.balinea.com^
+||trk.bc.aloyoga.com^
 ||trk.bc.shutterfly.com^
+||trk.email.dxl.com^
 ||trk.geico.com^
 ||trk.m1.stadiumgoods.com^
 ||trk.s.sephora.com^
@@ -1251,7 +1252,6 @@
 ||app.nala.money^
 ||app.nalogi.online^
 ||app.nautilus.io^
-||app.navi.com^
 ||app.navyhealth.com.au^
 ||app.nhrmcmychart.com^
 ||app.nootric.com^
@@ -1270,7 +1270,6 @@
 ||app.oze789.com^
 ||app.p100.io^
 ||app.pac.ma^
-||app.pally.live^
 ||app.pandasuite.io^
 ||app.panomoments.com^
 ||app.pawsket.com^
@@ -1300,7 +1299,6 @@
 ||app.pyypl.io^
 ||app.qa.flykitt.com^
 ||app.qa.fount.bio^
-||app.qeenatha.com^
 ||app.qlan.gg^
 ||app.qooxydz.net^
 ||app.quidd.co^
@@ -1393,7 +1391,6 @@
 ||app.tutorela.com^
 ||app.unlockar.com^
 ||app.urbanculture.me^
-||app.utlob.com^
 ||app.vahak.in^
 ||app.vidds.ee^
 ||app.virdee.co^
@@ -1429,6 +1426,7 @@
 ||app2.220cordncode.com^
 ||application.mindshine.app^
 ||application.mybiglove.ru^
+||applink.a1pdf.co^
 ||applink.aspiration.com^
 ||applink.batterii.com^
 ||applink.beta.aspiration.com^
@@ -1526,6 +1524,7 @@
 ||athlete.uninterrupted.com^
 ||atiteasexam.quantresear.ch^
 ||atlantablackstar.black.news^
+||au.techieustad.com^
 ||authsmtp.happ.social^
 ||awsexam.quantresear.ch^
 ||b.arenum.games^
@@ -1773,7 +1772,6 @@
 ||c.refun.do^
 ||c.stext.id^
 ||c.topya.com^
-||c.vcty.co^
 ||c.werally.com^
 ||c4c9.pandasuite.io^
 ||c6lc.pandasuite.io^
@@ -1969,6 +1967,7 @@
 ||dinocraft-test.animocabrands.com^
 ||dinocraft.animocabrands.com^
 ||direct.diarymuslim.com^
+||directlink.hanapha.com^
 ||directlink.hasdukmerahputih.com^
 ||distiller.kano.link^
 ||divya.bhaskar.com^
@@ -2229,6 +2228,7 @@
 ||get.pulsega.me^
 ||get.qapital.com^
 ||get.recolor.info^
+||get.renegadefantasy.com^
 ||get.reward.me^
 ||get.riyazapp.com^
 ||get.roomiapp.com^
@@ -2460,6 +2460,7 @@
 ||go.muzz.com^
 ||go.myfave.com^
 ||go.mylike-app.com^
+||go.myraisify.com^
 ||go.mytwc.com.au^
 ||go.naratourapp.com^
 ||go.netherlands.innovatedating.com^
@@ -2795,6 +2796,7 @@
 ||l.gpay.to^
 ||l.guesthug.com^
 ||l.ialoc.app^
+||l.iamfy.co^
 ||l.imax.com^
 ||l.itribe.in^
 ||l.jayshetty.me^
@@ -2887,6 +2889,7 @@
 ||link.ag.fan^
 ||link.aioremote.net^
 ||link.aira.io^
+||link.airapay.my^
 ||link.airfarm.io^
 ||link.alan.com^
 ||link.allyapp.com^
@@ -3219,7 +3222,6 @@
 ||link.qa.bepretty.cl^
 ||link.qa.heal.com^
 ||link.qanva.st^
-||link.qeenatha.com^
 ||link.qonto.eu^
 ||link.qp.me^
 ||link.qr-fit.nl^
@@ -3458,6 +3460,7 @@
 ||links.max.com^
 ||links.mgmresorts.com^
 ||links.motortrend.com^
+||links.mymtnpicknfix.com^
 ||links.myplace.co^
 ||links.myvolly.com^
 ||links.ottplay.com^
@@ -3726,6 +3729,7 @@
 ||open.kidu.com^
 ||open.majelan.com^
 ||open.melomm.com^
+||open.migrainebuddy.com^
 ||open.myhiveapp.net^
 ||open.novamoney.com^
 ||open.osnplus.com^
@@ -3789,7 +3793,6 @@
 ||play.pixellot.link^
 ||play.rheo.tv^
 ||play.scavos.com^
-||play.skydreamcasino.net^
 ||play.spdfun777.com^
 ||play.spkr.com^
 ||play.staging.underdogfantasy.com^
@@ -3876,6 +3879,7 @@
 ||refer.gober.app^
 ||refer.livwell.asia^
 ||refer.payluy.com.kh^
+||refer.reco-bee.com^
 ||referral-ca.mixtiles.com^
 ||referral-staging.mixtiles.com^
 ||referral.50fin.in^
@@ -4008,6 +4012,7 @@
 ||share.keeano.com^
 ||share.ksedi.com^
 ||share.liv.rent^
+||share.made.me^
 ||share.mansi.io^
 ||share.marrow.com^
 ||share.moonlightcake.com^
@@ -4098,7 +4103,6 @@
 ||stagelink.lola.com^
 ||stagelink.supershare.com^
 ||stagelink.youareaceo.com^
-||staging-c.vcty.co^
 ||staging-go.getsquire.com^
 ||staging-link-ccontact.focuscura.com^
 ||staging-link.docyt.com^

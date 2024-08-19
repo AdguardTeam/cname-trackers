@@ -266,7 +266,6 @@ affiliate.velebny.cz
 affiliate.vianio.com
 affiliate.vox.cz
 affiliate.warriorfactory.cz
-affiliate.webium.cz
 affiliate.wugi.cz
 affiliate.xbx.cz
 affiliate.zdraviafitness.cz
@@ -355,7 +354,6 @@ my.top4fitness.ro
 my.top4fitness.se
 my.top4fitness.si
 my.top4fitness.sk
-my.top4football.com
 my.top4football.cz
 my.top4football.de
 my.top4football.dk
@@ -363,7 +361,6 @@ my.top4football.es
 my.top4football.fi
 my.top4football.fr
 my.top4football.ie
-my.top4football.it
 my.top4football.nl
 my.top4football.se
 my.top4run.cz

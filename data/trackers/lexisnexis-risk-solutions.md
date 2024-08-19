@@ -460,6 +460,7 @@
     * h-jpay.online-metrix.net
     * h-jreastnetstation.online-metrix.net
     * h-k8vif92e-2.online-metrix.net
+    * h-k8vif92e-ace.online-metrix.net
     * h-k8vif92e-au.online-metrix.net
     * h-k8vif92e-av.online-metrix.net
     * h-k8vif92e-cdn3.online-metrix.net
@@ -1462,6 +1463,7 @@
 | cdna.jpay.com | h-jpay.online-metrix.net |
 | login.eki-net.com | h-jreastnetstation.online-metrix.net |
 | fp.dior.com | h-k8vif92e-2.online-metrix.net |
+| tm.acehardware.com | h-k8vif92e-ace.online-metrix.net |
 | dpf.authorize.net | h-k8vif92e-au.online-metrix.net |
 | img3.avis.com | h-k8vif92e-av.online-metrix.net |
 | img3.budget.com | h-k8vif92e-av.online-metrix.net |

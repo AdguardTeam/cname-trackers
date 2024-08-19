@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -448,7 +448,6 @@ score.lumen.com CNAME .
 share-uk.princess.com CNAME .
 share-us.viktor-rolf.com CNAME .
 share.4wheelparts.com CNAME .
-share.acorns.com CNAME .
 share.advanceamerica.net CNAME .
 share.affinityfcu.org CNAME .
 share.ahs.com CNAME .

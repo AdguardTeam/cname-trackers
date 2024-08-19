@@ -127,7 +127,6 @@
     * aaaeagles.extole.io
     * abacusnext.extole.io
     * acornonline.extole.io
-    * acorns.extole.io
     * advanceamerica.extole.io
     * affinityfcu.extole.io
     * ahs-proconnect.extole.io
@@ -600,7 +599,6 @@
 | refer.midatlantic.aaa.com | aaamid-atlantic.extole.com |
 | refer.abacusnext.com | abacusnext.extole.io |
 | refer.acornonline.com | acornonline.extole.io |
-| share.acorns.com | acorns.extole.io |
 | share.advanceamerica.net | advanceamerica.extole.io |
 | share.aeropostale.com | aeropostale.extole.com |
 | share.affinityfcu.org | affinityfcu.extole.io |

@@ -184,6 +184,7 @@
 | tr.cacf-acq.ipsos-surveys.com | tracking.bp01.net |
 | tr.cacf.ipsos-surveys.com | tracking.bp01.net |
 | tr.camara.eu.com | tracking.bp01.net |
+| tr.campaign.colossusbets.com | tracking.bp01.net |
 | tr.candidats-dispos-fed.fr | tracking.bp01.net |
 | tr.capu.espmp-agfr.net | tracking.bp01.net |
 | tr.carl.espmp-cufr.net | tracking.bp01.net |
@@ -465,7 +466,6 @@
 | tr.info.aeroportdeauville.com | tracking.bp01.net |
 | tr.info.ag2rlamondiale.fr | tracking.bp01.net |
 | tr.info.aliae.com | tracking.bp01.net |
-| tr.info.annoncesbateau.com | tracking.bp01.net |
 | tr.info.aprr.fr | tracking.bp01.net |
 | tr.info.arialcnp.fr | tracking.bp01.net |
 | tr.info.astermod.net | tracking.bp01.net |
@@ -479,6 +479,7 @@
 | tr.info.cartesaffaires.bnpparibas | tracking.bp01.net |
 | tr.info.casino-proximites.fr | tracking.bp01.net |
 | tr.info.certypro.fr | tracking.bp01.net |
+| tr.info.classe-de-demain.fr | tracking.bp01.net |
 | tr.info.clicochic.com | tracking.bp01.net |
 | tr.info.cnch.fr | tracking.bp01.net |
 | tr.info.comparadordeprestamos.es | tracking.bp01.net |
@@ -598,7 +599,6 @@
 | tr.livrephoto.espmp-aufr.net | tracking.bp01.net |
 | tr.loreal.ifop.com | tracking.bp01.net |
 | tr.louisvuittonmalletier.com | tracking.bp01.net |
-| tr.louvre-boites.com | tracking.bp01.net |
 | tr.ltbu.espmp-nifr.net | tracking.bp01.net |
 | tr.ltbu02o.espmp-agfr.net | tracking.bp01.net |
 | tr.lvmhappening.lvmh.fr | tracking.bp01.net |
@@ -821,6 +821,7 @@
 | tr.news.maisonfoody.com | tracking.bp01.net |
 | tr.news.maisons-du-monde.com | tracking.bp01.net |
 | tr.news.manufacturing.fr | tracking.bp01.net |
+| tr.news.manutan-collectivites.fr | tracking.bp01.net |
 | tr.news.mdbp.fr | tracking.bp01.net |
 | tr.news.mediametrie.fr | tracking.bp01.net |
 | tr.news.meillandrichardier.com | tracking.bp01.net |

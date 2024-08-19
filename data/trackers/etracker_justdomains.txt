@@ -29,6 +29,7 @@ stats.kaerntnerjobs.at
 stats.mopo.de
 stats.pilz.com
 stats.rumundco.de
+stats.salzburgerjobs.at
 stats.steirerjobs.at
 stats.suedtirolerjobs.it
 stats.tirolerjobs.at

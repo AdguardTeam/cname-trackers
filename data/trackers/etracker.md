@@ -41,6 +41,7 @@
 | stats.mopo.de | customer.etracker.com |
 | stats.pilz.com | customer.etracker.com |
 | stats.rumundco.de | customer.etracker.com |
+| stats.salzburgerjobs.at | customer.etracker.com |
 | stats.steirerjobs.at | customer.etracker.com |
 | stats.suedtirolerjobs.it | customer.etracker.com |
 | stats.tirolerjobs.at | customer.etracker.com |

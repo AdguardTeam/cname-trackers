@@ -285,7 +285,6 @@
 | affiliate.vianio.com | cz.affilbox.cz |
 | affiliate.vox.cz | cz.affilbox.cz |
 | affiliate.warriorfactory.cz | cz.affilbox.cz |
-| affiliate.webium.cz | cz.affilbox.cz |
 | affiliate.wugi.cz | cz.affilbox.cz |
 | affiliate.xbx.cz | cz.affilbox.cz |
 | affiliate.zdraviafitness.cz | cz.affilbox.cz |
@@ -374,7 +373,6 @@
 | my.top4fitness.se | cz.affilbox.cz |
 | my.top4fitness.si | cz.affilbox.cz |
 | my.top4fitness.sk | cz.affilbox.cz |
-| my.top4football.com | cz.affilbox.cz |
 | my.top4football.cz | cz.affilbox.cz |
 | my.top4football.de | cz.affilbox.cz |
 | my.top4football.dk | cz.affilbox.cz |
@@ -382,7 +380,6 @@
 | my.top4football.fi | cz.affilbox.cz |
 | my.top4football.fr | cz.affilbox.cz |
 | my.top4football.ie | cz.affilbox.cz |
-| my.top4football.it | cz.affilbox.cz |
 | my.top4football.nl | cz.affilbox.cz |
 | my.top4football.se | cz.affilbox.cz |
 | my.top4run.cz | cz.affilbox.cz |

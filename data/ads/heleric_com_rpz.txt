@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1723449608476        ; Serial
+           1724054430953        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -42,6 +42,7 @@ bt.whopstriglot.com CNAME .
 by.ballinghelonin.com CNAME .
 cb.momistmatico.com CNAME .
 ce.paliercleaned.com CNAME .
+cf.pygopustimawa.com CNAME .
 ck.barefitaiding.com CNAME .
 ck.kyoodlehewe.com CNAME .
 cl.durezzacrowns.com CNAME .
@@ -106,6 +107,7 @@ hj.faggotbovidae.com CNAME .
 hl.queresspurdie.com CNAME .
 hm.alnuinvisayan.com CNAME .
 hr.codableprovene.com CNAME .
+hu.searswalers.com CNAME .
 hw.testulebottega.com CNAME .
 hx.relivesternar.com CNAME .
 ii.dorothycanzos.com CNAME .
@@ -125,6 +127,7 @@ jf.palemaneleven.com CNAME .
 jj.boodymauves.com CNAME .
 jm.fallagerampire.com CNAME .
 jm.newtsbowk.com CNAME .
+jq.gillingghi.com CNAME .
 jt.whunpainty.com CNAME .
 jw.posiedcaridea.com CNAME .
 jx.yonnersekere.com CNAME .
@@ -170,6 +173,7 @@ my.ursstubs.com CNAME .
 na.waywodeopus.com CNAME .
 nc.nominaturfy.com CNAME .
 nh.rimoseantdom.com CNAME .
+nj.tooledvacant.com CNAME .
 nl.yieldedshotter.com CNAME .
 nm.placoidtobyman.com CNAME .
 no.resailslemures.com CNAME .
@@ -192,6 +196,7 @@ pl.tourteardass.com CNAME .
 pm.unnicemahala.com CNAME .
 pn.wendatopen.com CNAME .
 po.nonehalides.com CNAME .
+po.quiresraviney.com CNAME .
 pq.carlingquerent.com CNAME .
 pt.handjarcranch.com CNAME .
 pu.serumchicha.com CNAME .
@@ -257,6 +262,7 @@ tm.tangasulfide.com CNAME .
 tn.frecklygozzan.com CNAME .
 tr.bhootolea.com CNAME .
 tr.keetsgray.com CNAME .
+ts.getherelf.com CNAME .
 ts.knappedmurshid.com CNAME .
 tt.didstfineer.com CNAME .
 tt.smirkydiff.com CNAME .
