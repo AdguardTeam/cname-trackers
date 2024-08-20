@@ -15,10 +15,32 @@ const RULES_FILE_EXTENSION = 'txt';
 const COMBINED_RULES_FILE_NAME_BASE = 'combined_disguised';
 const HOSTS_RULES_FILE_NAME_ENDING = '_justdomains';
 const RPZ_RULES_FILE_NAME_ENDING = '_rpz';
-const COMBINED_ORIGINALS_FILE_NAME_BASE = 'combined_original_trackers';
+const COMBINED_ORIGINALS_FILE_NAME = 'combined_original_trackers';
 
-const COMBINED_ORIGINALS_FILE_NAME = `${COMBINED_ORIGINALS_FILE_NAME_BASE}.${RULES_FILE_EXTENSION}`;
-const COMBINED_JSON_FILE_NAME = `${COMBINED_RULES_FILE_NAME_BASE}.${JSON_FILE_EXTENSION}`;
+const BASE_RULES_TYPE = 'BASE';
+const HOSTS_RULES_TYPE = 'HOSTS';
+const RPZ_RULES_TYPE = 'RPZ';
+
+/**
+ * Create the file name for the `combined_original_trackers` lists
+ * based on the provided rule type.
+ *
+ * @param {string} ruleType - The type of rule, which determines the file name format.
+ * Expected values are `BASE_RULES_TYPE` or `HOSTS_RULES_TYPE`.
+ * @returns {string} The generated file name corresponding to the provided rule type.
+ *
+ * @throws {Error} Throws an error if an unknown rule type is provided.
+ */
+const getOriginalsFileName = (ruleType) => {
+    switch (ruleType) {
+        case BASE_RULES_TYPE:
+            return `${COMBINED_ORIGINALS_FILE_NAME}.${RULES_FILE_EXTENSION}`;
+        case HOSTS_RULES_TYPE:
+            return `${COMBINED_ORIGINALS_FILE_NAME}${HOSTS_RULES_FILE_NAME_ENDING}.${RULES_FILE_EXTENSION}`;
+        default:
+            throw new Error(`Unknown type: ${ruleType}`);
+    }
+};
 
 // Length of the comment line in rpz files
 const RPZ_LINE_COMMENT_LENGTH = 24;
@@ -165,19 +187,38 @@ const getRpzRulesCombinedHeader = (type) => [
     ...rpzHeaderChunks,
 ].join('\n');
 
-const originalsCombinedHeader = [
-    `${BASE_RULE_COMMENT_MARKER} ${COMBINED_ORIGINAL_TRACKERS_HEADER_TITLE}`,
-    `${BASE_RULE_COMMENT_MARKER} ${COMBINED_ORIGINAL_TRACKERS_HEADER_DESC}`,
-    `${BASE_RULE_COMMENT_MARKER} ${COMBINED_FILTER_LIST_HEADER_TIME_UPDATED}`,
-    `${BASE_RULE_COMMENT_MARKER} ${COMBINED_FILTER_LIST_HEADER_HOMEPAGE}`,
-    `${BASE_RULE_COMMENT_MARKER}`,
-].join('\n');
+/**
+ * Creates a combined header string for `combined_original_trackers` files
+ * based on the provided rule type.
+ *
+ * @param {string} ruleType - The type of rule, which determines the comment marker used in the header.
+ * Expected values are `BASE_RULES_TYPE` or `HOSTS_RULES_TYPE`.
+ * @returns {string} The generated combined header as a multi-line string.
+ *
+ * @throws {Error} Throws an error if an unknown rule type is provided.
+ */
+const getOriginalsCombinedHeader = (ruleType) => {
+    let COMMENT_MARKER;
+    switch (ruleType) {
+        case BASE_RULES_TYPE:
+            COMMENT_MARKER = BASE_RULE_COMMENT_MARKER;
+            break;
+        case HOSTS_RULES_TYPE:
+            COMMENT_MARKER = HOSTS_RULE_COMMENT_MARKER;
+            break;
+        default:
+            throw new Error(`Unknown type: ${ruleType}`);
+    }
+    return [
+        `${COMMENT_MARKER} ${COMBINED_ORIGINAL_TRACKERS_HEADER_TITLE}`,
+        `${COMMENT_MARKER} ${COMBINED_ORIGINAL_TRACKERS_HEADER_DESC}`,
+        `${COMMENT_MARKER} ${COMBINED_FILTER_LIST_HEADER_TIME_UPDATED}`,
+        `${COMMENT_MARKER} ${COMBINED_FILTER_LIST_HEADER_HOMEPAGE}`,
+        `${COMMENT_MARKER}`,
+    ].join('\n');
+};
 
-const BASE_RULES_TYPE = 'BASE';
-const HOSTS_RULES_TYPE = 'HOSTS';
-const RPZ_RULES_TYPE = 'RPZ';
-
-const CONST_DATA = {
+const FORMATS = {
     [BASE_RULES_TYPE]: {
         type: BASE_RULES_TYPE,
         commentMarker: BASE_RULE_COMMENT_MARKER,
@@ -191,9 +232,16 @@ const CONST_DATA = {
         commentMarker: RPZ_RULE_COMMENT_MARKER,
     },
     ORIGINALS: {
-        commentMarker: BASE_RULE_COMMENT_MARKER,
-        combinedHeader: originalsCombinedHeader,
-        combinedFileName: COMBINED_ORIGINALS_FILE_NAME,
+        [BASE_RULES_TYPE]: {
+            commentMarker: BASE_RULE_COMMENT_MARKER,
+            combinedHeader: getOriginalsCombinedHeader(BASE_RULES_TYPE),
+            combinedFileName: getOriginalsFileName(BASE_RULES_TYPE),
+        },
+        [HOSTS_RULES_TYPE]: {
+            commentMarker: HOSTS_RULE_COMMENT_MARKER,
+            combinedHeader: getOriginalsCombinedHeader(HOSTS_RULES_TYPE),
+            combinedFileName: getOriginalsFileName(HOSTS_RULES_TYPE),
+        },
     },
 };
 
@@ -205,10 +253,9 @@ module.exports = {
     MAX_RPZ_RULE_LENGTH,
     RULES_FILE_EXTENSION,
     JSON_FILE_EXTENSION,
-    COMBINED_JSON_FILE_NAME,
     HOSTS_RULES_FILE_NAME_ENDING,
     RPZ_RULES_FILE_NAME_ENDING,
-    CONST_DATA,
+    FORMATS,
     rpzHeaderChunks,
     getBaseRulesCombinedHeader,
     getHostsRulesCombinedHeader,

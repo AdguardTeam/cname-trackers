@@ -11,7 +11,9 @@ module.exports = {
         ecmaVersion: 12,
     },
     rules: {
-        indent: ['error', 4],
+        indent: ['error', 4, {
+            SwitchCase: 1,
+        }],
         'no-console': 'off',
         'import/no-extraneous-dependencies': 'off',
         'max-len': ['error', {

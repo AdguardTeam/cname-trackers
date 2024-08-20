@@ -5,7 +5,7 @@ const {
 
 const {
     rpzHeaderChunks,
-    CONST_DATA,
+    FORMATS,
 } = require('./constants');
 
 /**
@@ -15,22 +15,22 @@ const {
 /**
  * Builds rules content by type
  * @param {TrackersData} trackersData
- * @param {'BASE'|'HOSTS'|'RPZ'} type rules type
+ * @param {'BASE'|'HOSTS'|'RPZ'} ruleType rules type
  * @returns {string}
  */
-const buildRulesByType = (trackersData, type) => {
+const buildRulesByType = (trackersData, ruleType) => {
     const {
         companyName,
         trackersInfoItems,
     } = trackersData;
 
     const commonChunks = [
-        CONST_DATA[type].commentMarker,
-        `${CONST_DATA[type].commentMarker} Company name: ${companyName}`,
+        FORMATS[ruleType].commentMarker,
+        `${FORMATS[ruleType].commentMarker} Company name: ${companyName}`,
     ];
 
     // add specific header for rpz file format
-    const headerRulesChunks = type === CONST_DATA.RPZ.type ? [...commonChunks, ...rpzHeaderChunks] : commonChunks;
+    const headerRulesChunks = ruleType === FORMATS.RPZ.type ? [...commonChunks, ...rpzHeaderChunks] : commonChunks;
     headerRulesChunks.push('');
     const rulesChunks = [];
     // get only disguised trackers items in array
@@ -39,18 +39,10 @@ const buildRulesByType = (trackersData, type) => {
         .flatMap((trackersItem) => trackersItem.disguises)
         .filter(identity);
 
-    let getRule;
-
-    if (type === CONST_DATA.BASE.type) {
-        getRule = composeRuleWithNewline.baseRule;
-    } else if (type === CONST_DATA.HOSTS.type) {
-        getRule = composeRuleWithNewline.hostsRule;
-    } else if (type === CONST_DATA.RPZ.type) {
-        getRule = composeRuleWithNewline.rpzRule;
-    }
+    const getRule = composeRuleWithNewline[ruleType];
 
     if (!getRule) {
-        throw new Error(`Unknown type: ${type}`);
+        throw new Error(`Unknown type: ${ruleType}`);
     }
 
     // make rule chunks by type
@@ -59,7 +51,7 @@ const buildRulesByType = (trackersData, type) => {
     });
 
     /* Ensure there is a newline at the end of RPZ files. */
-    if (type === CONST_DATA.RPZ.type) {
+    if (ruleType === FORMATS.RPZ.type) {
         rulesChunks.length += 1;
     }
 
@@ -80,9 +72,9 @@ const buildRulesByType = (trackersData, type) => {
  * @returns {RulesContent} content for base and hosts rules files
  */
 const buildRules = async (trackersData) => {
-    const baseRulesString = buildRulesByType(trackersData, CONST_DATA.BASE.type);
-    const hostsRulesString = buildRulesByType(trackersData, CONST_DATA.HOSTS.type);
-    const rpzRulesString = buildRulesByType(trackersData, CONST_DATA.RPZ.type);
+    const baseRulesString = buildRulesByType(trackersData, FORMATS.BASE.type);
+    const hostsRulesString = buildRulesByType(trackersData, FORMATS.HOSTS.type);
+    const rpzRulesString = buildRulesByType(trackersData, FORMATS.RPZ.type);
 
     return { baseRulesString, hostsRulesString, rpzRulesString };
 };

@@ -3,7 +3,11 @@ const fs = require('fs-extra');
 const path = require('path');
 const { logger } = require('./logger');
 
-const { COMBINED_RULES_FILE_NAME_BASE, MAX_RPZ_RULE_LENGTH } = require('./constants');
+const {
+    FORMATS,
+    COMBINED_RULES_FILE_NAME_BASE,
+    MAX_RPZ_RULE_LENGTH,
+} = require('./constants');
 
 const DATA_DIR_PATH = './../data';
 
@@ -63,7 +67,7 @@ const composeRuleWithNewline = {
      * @param {string} disguise - The disguise domain to validate and compose
      * @returns {string} - The composed RPZ rule if valid, otherwise an empty string
      */
-    rpzRule: (disguise) => {
+    [FORMATS.RPZ.type]: (disguise) => {
         const ruleString = createRpzRule(disguise);
         if (!isValidPrzString(ruleString)) {
             return '';
@@ -76,19 +80,19 @@ const composeRuleWithNewline = {
      * @param {string} disguise - The disguise domain to validate and compose
      * @returns {string} - The composed hosts rule if valid, otherwise an empty string
      */
-    hostsRule: (disguise) => `${createHostsRule(disguise)}\n`,
+    [FORMATS.HOSTS.type]: (disguise) => `${createHostsRule(disguise)}\n`,
 
     /**
      * Composes a base rule, new line is added at the end
      * @param {string} disguise - The disguise domain to validate and compose
      * @returns {string} - The composed base rule if valid, otherwise an empty string
      */
-    baseRule: (disguise) => `${createBaseRule(disguise)}\n`,
+    [FORMATS.BASE.type]: (disguise) => `${createBaseRule(disguise)}\n`,
 };
 
 /**
  * Writes `fileContent` to `fileName` in library root directory
- * @param {string} fileName property of CONST_DATA object for required file
+ * @param {string} fileName property of FORMATS object for required file
  * @param {object} fileContent writeable data
  */
 const writeCombinedFile = async (fileName, fileContent) => fs.writeFile(
@@ -111,7 +115,7 @@ const replace = (str, replaceable, replacement) => str
 
 /**
  * Changes the company name to the correct format for file naming
- * @param {string} companyName property of CONST_DATA object for required file
+ * @param {string} companyName property of FORMATS object for required file
  * @returns {string}
  */
 const formatFilename = (companyName) => {

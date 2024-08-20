@@ -1,4 +1,3 @@
-/* eslint-disable guard-for-in */
 const { promises: fs } = require('fs');
 const path = require('path');
 
@@ -13,7 +12,7 @@ const {
     RULES_FILE_EXTENSION,
     HOSTS_RULES_FILE_NAME_ENDING,
     RPZ_RULES_FILE_NAME_ENDING,
-    CONST_DATA,
+    FORMATS,
     getBaseRulesCombinedHeader,
     getHostsRulesCombinedHeader,
     getRpzRulesCombinedHeader,
@@ -22,33 +21,41 @@ const {
 const ORIGINALS_FILE_NAME = './cloaked-trackers.json';
 
 /**
- * Gets domains from cloaked-trackers.json, converts them to basic adblocker-type rules,
- * and saves to combined_original_trackers.txt in root of repository
- * @returns {Promise<void>}
-*/
-const updateCombinedOriginals = async () => {
-    // write header into the file
-    let originalTrackersCombinedChunks = `${CONST_DATA.ORIGINALS.combinedHeader}\n`;
-
+ * Updates the combined original trackers file for the specified rule types.
+ *
+ * This function reads a JSON file containing original tracker data, processes it
+ * for each specified rule type, and writes the combined results to a file.
+ *
+ * @param {string[]} ruleTypes - The rule types for which the combined trackers should be updated.
+ * Each rule type should correspond to a key in FORMATS.ORIGINALS.
+ * @throws {Error} If an unknown rule type is provided.
+ */
+const updateCombinedOriginals = async (...ruleTypes) => {
     // read cloaked-trackers.json
     const originalTrackersContent = await fs.readFile(path.resolve(__dirname, ORIGINALS_FILE_NAME));
 
     // parse originalTrackersContent in object
     const originalTrackers = JSON.parse(originalTrackersContent);
 
-    // add data in combined_original_trackers.txt
-    originalTrackers
-        .forEach(({ company_name: companyName, domains }) => {
-            originalTrackersCombinedChunks += `${CONST_DATA.ORIGINALS.commentMarker}\n`;
-            originalTrackersCombinedChunks += `${CONST_DATA.ORIGINALS.commentMarker} Company: ${companyName}\n`;
-
-            domains.forEach((domain) => {
-                originalTrackersCombinedChunks += composeRuleWithNewline.baseRule(domain);
+    ruleTypes.forEach(async (ruleType) => {
+        // Retrieve the corresponding data for the rule type from FORMATS.ORIGINALS
+        const originalData = FORMATS.ORIGINALS[ruleType];
+        if (!originalData) {
+            throw new Error(`Unknown type: ${ruleType}`);
+        }
+        let originalTrackersCombinedChunks = `${originalData.combinedHeader}\n`;
+        // add data in combined_original_trackers file
+        originalTrackers
+            .forEach(({ company_name: companyName, domains }) => {
+                originalTrackersCombinedChunks += `${originalData.commentMarker}\n`;
+                originalTrackersCombinedChunks += `${originalData.commentMarker} Company: ${companyName}\n`;
+                domains.forEach((domain) => {
+                    originalTrackersCombinedChunks += composeRuleWithNewline[ruleType](domain);
+                });
             });
-        });
-
-    // write combined_original_trackers.txt
-    await writeCombinedFile(CONST_DATA.ORIGINALS.combinedFileName, originalTrackersCombinedChunks);
+        // write combined_original_trackers.txt
+        await writeCombinedFile(originalData.combinedFileName, originalTrackersCombinedChunks);
+    });
 };
 
 /**
@@ -59,7 +66,7 @@ const updateCombinedDisguises = async (rawCombinedData) => {
     // convert object into array with sorted by key key-value pairs
     const combinedData = Object.entries(rawCombinedData);
 
-    await Promise.all(combinedData.map(async ([type, jsonDataObject]) => {
+    await Promise.all(combinedData.map(async ([companyType, jsonDataObject]) => {
         // sort keys in jsonDataObject
         const sortedDisguiseTrackers = Object.keys(jsonDataObject).sort();
         // add values to sorted keys
@@ -70,34 +77,34 @@ const updateCombinedDisguises = async (rawCombinedData) => {
 
         // write combined_disguised_companyType.json
         await writeCombinedFile(
-            createCombinedFileName(type, JSON_FILE_EXTENSION),
+            createCombinedFileName(companyType, JSON_FILE_EXTENSION),
             JSON.stringify(sortedDisguiseJsonData, null, 2),
         );
 
         // add headers to base, hosts, rpz files
-        let baseCombinedContent = `${getBaseRulesCombinedHeader(type)}\n`;
-        let hostsCombinedContent = `${getHostsRulesCombinedHeader(type)}\n`;
-        let rpzCombinedContent = `${getRpzRulesCombinedHeader(type)}\n`;
+        let baseCombinedContent = `${getBaseRulesCombinedHeader(companyType)}\n`;
+        let hostsCombinedContent = `${getHostsRulesCombinedHeader(companyType)}\n`;
+        let rpzCombinedContent = `${getRpzRulesCombinedHeader(companyType)}\n`;
 
         // add content to base, hosts, rpz files from sorted keys combined_disguised_companyType.json
         sortedDisguiseTrackers.forEach((disguise) => {
-            baseCombinedContent += composeRuleWithNewline.baseRule(disguise);
-            hostsCombinedContent += composeRuleWithNewline.hostsRule(disguise);
-            rpzCombinedContent += composeRuleWithNewline.rpzRule(disguise);
+            baseCombinedContent += composeRuleWithNewline[FORMATS.BASE.type](disguise);
+            hostsCombinedContent += composeRuleWithNewline[FORMATS.HOSTS.type](disguise);
+            rpzCombinedContent += composeRuleWithNewline[FORMATS.RPZ.type](disguise);
         });
 
         // write content to base, hosts, rpz files
         await Promise.all([
             writeCombinedFile(
-                createCombinedFileName(type, RULES_FILE_EXTENSION),
+                createCombinedFileName(companyType, RULES_FILE_EXTENSION),
                 baseCombinedContent,
             ),
             writeCombinedFile(
-                createCombinedFileName(type, RULES_FILE_EXTENSION, HOSTS_RULES_FILE_NAME_ENDING),
+                createCombinedFileName(companyType, RULES_FILE_EXTENSION, HOSTS_RULES_FILE_NAME_ENDING),
                 hostsCombinedContent,
             ),
             writeCombinedFile(
-                createCombinedFileName(type, RULES_FILE_EXTENSION, RPZ_RULES_FILE_NAME_ENDING),
+                createCombinedFileName(companyType, RULES_FILE_EXTENSION, RPZ_RULES_FILE_NAME_ENDING),
                 rpzCombinedContent,
             ),
         ]);
@@ -109,7 +116,7 @@ const updateCombinedDisguises = async (rawCombinedData) => {
  * @returns {Promise<void>}
  */
 const updateCombined = async (rawCombinedData) => Promise.all([
-    updateCombinedOriginals(),
+    updateCombinedOriginals(FORMATS.BASE.type, FORMATS.HOSTS.type),
     updateCombinedDisguises(rawCombinedData),
 ]);
 
