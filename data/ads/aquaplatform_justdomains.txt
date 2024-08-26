@@ -52,6 +52,7 @@ console.adbility-media.com
 console.hour-media.com
 console.imagineobx.com
 console.informingnews.com
+console.isn.nl
 console.livingmagonline.com
 console.mannixmarketing.com
 console.revive-adserver.net

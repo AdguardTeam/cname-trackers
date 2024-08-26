@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724054430953        ; Serial
+           1724659207404        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -41,7 +41,6 @@ data-02011e6008.dasoertliche.de CNAME .
 data-02011e6008.golocal.de CNAME .
 data-02011e6008.t-online.de CNAME .
 data-02038f306c.antenne.com CNAME .
-data-02038f306c.vereintes-niedersachsen.de CNAME .
 data-0282cb9d1f.apps.iocnt.de CNAME .
 data-029be27def.apps.iocnt.de CNAME .
 data-02d6c01d72.rga.de CNAME .
@@ -1831,6 +1830,7 @@ data-d1fc45050c.rundschau-online.de CNAME .
 data-d29d7a3de4.apps.iocnt.de CNAME .
 data-d2a8aec266.autohaus.de CNAME .
 data-d31fa5daa8.apps.iocnt.de CNAME .
+data-d3553711cd.firmenwissen.de CNAME .
 data-d398dd713b.apps.iocnt.de CNAME .
 data-d3ad057ab7.firmenauto.de CNAME .
 data-d3b795e73c.instyle.de CNAME .
@@ -1932,6 +1932,7 @@ data-e16817998e.apps.iocnt.de CNAME .
 data-e16c65ad3c.antennevorarlberg.at CNAME .
 data-e18f7c3e0e.bib.dormagen.de CNAME .
 data-e1f099aeb5.apps.iocnt.de CNAME .
+data-e208ca4264.uci-kinowelt.de CNAME .
 data-e2b70f0c07.lb-oldenburg.de CNAME .
 data-e337e2a6a8.kuechenplaner-magazin.de CNAME .
 data-e34440d805.das-onlinespiel.de CNAME .
@@ -1941,6 +1942,7 @@ data-e392d35d53.kino-zeit.de CNAME .
 data-e3af19e759.apps.iocnt.de CNAME .
 data-e3d4300b49.n-tv.de CNAME .
 data-e3d4300b49.sport.de CNAME .
+data-e3d4300b49.teleboerse.de CNAME .
 data-e44d38afc3.apps.iocnt.de CNAME .
 data-e47ac57521.lokal26.de CNAME .
 data-e4997adf31.bilanz.de CNAME .
@@ -2090,6 +2092,7 @@ data-f1e447fbcf.hallo-eltern.de CNAME .
 data-f1e447fbcf.hallo-muenchen.de CNAME .
 data-f1e447fbcf.hanauer.de CNAME .
 data-f1e447fbcf.heidelberg24.de CNAME .
+data-f1e447fbcf.herbstfest-rosenheim.de CNAME .
 data-f1e447fbcf.hersfelder-zeitung.de CNAME .
 data-f1e447fbcf.hna.de CNAME .
 data-f1e447fbcf.in-muenchen.de CNAME .
@@ -2279,6 +2282,7 @@ data-fb37a1e7c3.stuttgarter-zeitung.de CNAME .
 data-fb37a1e7c3.verlagshaus-jaumann.de CNAME .
 data-fb6bd6ba7f.agrarzeitung.de CNAME .
 data-fb6dfd42e8.rationell-reinigen.de CNAME .
+data-fbb8842b89.chip.de CNAME .
 data-fbb8842b89.fitforfun.de CNAME .
 data-fbb8842b89.focus.de CNAME .
 data-fbb8842b89.mylife.de CNAME .

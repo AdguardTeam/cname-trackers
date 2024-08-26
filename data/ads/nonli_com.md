@@ -3,6 +3,7 @@
 ## Disguised trackers list
 
 * non.li
+    * l.non.li
     * tls-lp-cm.non.li
     * tls-rfi.non.li
     * tls.non.li
@@ -11,6 +12,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| c.leparisien.fr | l.non.li |
 | l.aufeminin.com | non.li |
 | l.heidi.news | non.li |
 | l.monacomatin.mc | non.li |
@@ -30,6 +32,8 @@
 | go.meretmarine.com | tls.non.li |
 | go.publicsenat.fr | tls.non.li |
 | go.solidworks.com | tls.non.li |
+| in.h24.news | tls.non.li |
+| it.h24.news | tls.non.li |
 | l.20minutes.fr | tls.non.li |
 | l.actu.fr | tls.non.li |
 | l.africabusinessplus.com | tls.non.li |

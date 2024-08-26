@@ -79,6 +79,5 @@
 ||meta-events.yellowstonepark.com^
 ||meta-events.yogajournal.com^
 ||mr-in.beginlearning.com^
-||mr.homedepot.ca^
 ||mr.pinkbike.com^
 ||anx-staging.learnwithhomer.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724054430953        ; Serial
+           1724659207404        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+af.wenerhema.com CNAME .
 ah.cabbingdandled.com CNAME .
 aj.stomalhobble.com CNAME .
 al.laichsbedamns.com CNAME .
@@ -99,6 +100,7 @@ gn.afootwitword.com CNAME .
 gq.webbymendole.com CNAME .
 gr.faencepuggy.com CNAME .
 gr.kitharapalanka.com CNAME .
+gx.miskalsbending.com CNAME .
 hb.tewitfeoffee.com CNAME .
 hb.vampednorbert.com CNAME .
 hf.frisklelooms.com CNAME .
@@ -129,6 +131,7 @@ jm.fallagerampire.com CNAME .
 jm.newtsbowk.com CNAME .
 jq.gillingghi.com CNAME .
 jt.whunpainty.com CNAME .
+jv.beamierwaisted.com CNAME .
 jw.posiedcaridea.com CNAME .
 jx.yonnersekere.com CNAME .
 jy.astylararsines.com CNAME .
@@ -161,6 +164,7 @@ me.salinaswesting.com CNAME .
 mf.collopantony.com CNAME .
 mf.egridstaidly.com CNAME .
 mf.fauldbeeth.com CNAME .
+mh.carbintalonid.com CNAME .
 mh.wedgedgeoduck.com CNAME .
 ml.estellaeyelet.com CNAME .
 ml.sunspotbaffies.com CNAME .
@@ -169,6 +173,7 @@ mq.amidicextruct.com CNAME .
 mr.pudgilygrazes.com CNAME .
 mu.laplingskevish.com CNAME .
 mw.cinuralytic.com CNAME .
+my.thowajee.com CNAME .
 my.ursstubs.com CNAME .
 na.waywodeopus.com CNAME .
 nc.nominaturfy.com CNAME .
@@ -247,6 +252,7 @@ sx.followexciton.com CNAME .
 sy.sartishmoop.com CNAME .
 sz.createsgummous.com CNAME .
 sz.famanils.com CNAME .
+tc.tinmensorned.com CNAME .
 td.anasphragma.com CNAME .
 te.stionicfives.com CNAME .
 th.micheryfrugal.com CNAME .
@@ -266,6 +272,7 @@ ts.getherelf.com CNAME .
 ts.knappedmurshid.com CNAME .
 tt.didstfineer.com CNAME .
 tt.smirkydiff.com CNAME .
+tu.tantrumslab.com CNAME .
 ua.hullockotxi.com CNAME .
 uc.corditespicous.com CNAME .
 uf.disbendcrumby.com CNAME .
@@ -298,6 +305,7 @@ vy.withsaynapa.com CNAME .
 wg.clagssyria.com CNAME .
 wi.cohereseugene.com CNAME .
 wm.quinelarumored.com CNAME .
+wo.firrycandour.com CNAME .
 wr.rugosehoarish.com CNAME .
 wv.donarynahane.com CNAME .
 xd.meritedyaws.com CNAME .

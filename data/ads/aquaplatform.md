@@ -203,6 +203,7 @@
 | adstatic.kozoom.com | reservoir.aquaplatform.com |
 | static.aqua-adserver.com | reservoir.aquaplatform.com |
 | adconsole.sniffies.com | revivehosted-console.aquaplatform.com |
+| console.isn.nl | revivehosted-console.aquaplatform.com |
 | console.revive-adserver.net | revivehosted-console.aquaplatform.com |
 | adserver.sniffies.com | revivehosted-delivery.aquaplatform.com |
 | servedby.cricketworld.com | revivehosted-delivery.aquaplatform.com |

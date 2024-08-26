@@ -261,6 +261,7 @@ content.mdeferred-payment.sevenbank.co.jp
 content.moneza.ru
 content.moni.com.ar
 content.my100bank.com
+content.mycno.com
 content.myfamliplus.state.co.us
 content.myonlyid.com
 content.mypersi.idaho.gov
@@ -506,6 +507,7 @@ img.consumer.risk.lexisnexis.com
 img.dailylook.com
 img.fortunejack.com
 img.getkansasbenefits.gov
+img.kittykuddly.com
 img.lascana.nl
 img.neora.com
 img.oney.fr
@@ -968,6 +970,7 @@ tmcdn.jackpotcitycasino.com
 tmcdn.jackpotcitycasino.com.py
 tmcdn.luckynuggetcasino.com
 tmcdn.mummysgold.com
+tmcdn.platinumplaycasino.com
 tmcdn.riverbellecasino.com
 tmcdn.rubyfortune.ca
 tmcdn.rubyfortune.com

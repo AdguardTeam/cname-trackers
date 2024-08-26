@@ -235,6 +235,7 @@
     * c001201e-jpe7blqe.cname.ebis.ne.jp
     * c054b113-ztaqjkmm.cname.ebis.ne.jp
     * c07c2fd1-ccb9p988.cname.ebis.ne.jp
+    * c08307f8-mndzrztt.cname.ebis.ne.jp
     * c0b8a8ee-bxd3nsfc.cname.ebis.ne.jp
     * c0ea9e75-yfrcguru.cname.ebis.ne.jp
     * c1d1d278-4j4tjcfr.cname.ebis.ne.jp
@@ -544,6 +545,7 @@
 | adebis.beautiful-voyager.com | c001201e-jpe7blqe.cname.ebis.ne.jp |
 | adebis.464981.com | c054b113-ztaqjkmm.cname.ebis.ne.jp |
 | tracking.mysurance.co.jp | c07c2fd1-ccb9p988.cname.ebis.ne.jp |
+| adebis.shupita.jp | c08307f8-mndzrztt.cname.ebis.ne.jp |
 | cv-adebis.nlpjapan.co.jp | c0b8a8ee-bxd3nsfc.cname.ebis.ne.jp |
 | ebis.funaisoken.co.jp | c0ea9e75-yfrcguru.cname.ebis.ne.jp |
 | adebis.koutsujiko.jp | c1d1d278-4j4tjcfr.cname.ebis.ne.jp |

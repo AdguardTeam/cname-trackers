@@ -1,6 +1,7 @@
 #
 # Company name: Utiq
 o2de.mno.link
+orangefr-test.mno.link
 orangefr.mno.link
 service.utiq.com
 tmi.jv-telcoid.es
@@ -15,6 +16,7 @@ utiq.3djuegos.com
 utiq.abc.es
 utiq.actu.fr
 utiq.applesfera.com
+utiq.atf-tagmanager.de
 utiq.aufeminin.com
 utiq.autobild.de
 utiq.autojournal.fr
@@ -23,6 +25,7 @@ utiq.az-online.de
 utiq.bfmtv.com
 utiq.bibamagazine.fr
 utiq.bild.de
+utiq.bitban.com
 utiq.blogthinkbig.com
 utiq.bunte.de
 utiq.burgosconecta.es
@@ -47,6 +50,7 @@ utiq.diariosur.es
 utiq.diariovasco.com
 utiq.directoalpaladar.com
 utiq.donaukurier.de
+utiq.eatbetter.de
 utiq.einfach-tasty.de
 utiq.elcomercio.es
 utiq.elcorreo.com
@@ -62,6 +66,7 @@ utiq.elperiodicoextremadura.com
 utiq.elperiodicomediterraneo.com
 utiq.epe.es
 utiq.espinof.com
+utiq.eventfinder.de
 utiq.expansion.com
 utiq.extratipp.com
 utiq.familie.de
@@ -101,6 +106,7 @@ utiq.landtiere.de
 utiq.laopinioncoruna.es
 utiq.laopiniondemalaga.es
 utiq.laopiniondemurcia.es
+utiq.laprovincia.es
 utiq.larioja.com
 utiq.lasprovincias.es
 utiq.laverdad.es
@@ -128,8 +134,10 @@ utiq.news38.de
 utiq.nostalgie.fr
 utiq.nrj-play.fr
 utiq.nrj.fr
+utiq.numerama.com
 utiq.op-online.de
 utiq.ouest-france.fr
+utiq.ozap.com
 utiq.palladiumhotelgroup.com
 utiq.paris-normandie.fr
 utiq.paroledemamans.com
@@ -139,18 +147,22 @@ utiq.pnp.de
 utiq.programme.tv
 utiq.psychologies.com
 utiq.rireetchansons.fr
+utiq.rmcbfmplay.com
 utiq.salamancahoy.es
+utiq.sauerlandkurier.de
 utiq.schlager.de
 utiq.science-et-vie.com
 utiq.sensacine.com
 utiq.soester-anzeiger.de
 utiq.speisekarte.de
 utiq.sport.es
+utiq.sportlerfrage.net
 utiq.stimme.de
 utiq.stylebook.de
 utiq.sueddeutsche.de
 utiq.superdeporte.es
 utiq.t-online.de
+utiq.tagesspiegel.de
 utiq.techbook.de
 utiq.telekom.de
 utiq.thueringen24.de
@@ -168,7 +180,9 @@ utiq.vitonica.com
 utiq.voici.fr
 utiq.wa.de
 utiq.welt.de
+utiq.wetterauer-zeitung.de
 utiq.wiwo.de
+utiq.wlz-online.de
 utiq.wmn.de
 utiq.wochenblatt.de
 utiq.xataka.com
@@ -176,4 +190,6 @@ utiq.xatakahome.com
 utiq.xatakamovil.com
 utiq.xatakandroid.com
 utiq.zdnet.fr
+vfdemsp.mno.link
 vfes.mno.link
+vfesmsp.mno.link

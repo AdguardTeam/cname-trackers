@@ -35,7 +35,6 @@
 | analytics.hiome.com | custom.plausible.io |
 | analytics.kerns.co | custom.plausible.io |
 | analytics.lifestyledemocracy.com | custom.plausible.io |
-| analytics.littlekingdesigns.com | custom.plausible.io |
 | analytics.lunge.de | custom.plausible.io |
 | analytics.mambaui.com | custom.plausible.io |
 | analytics.mc500.info | custom.plausible.io |
@@ -405,6 +404,7 @@
 | stats.carrotsearch.com | custom.plausible.io |
 | stats.caseydunham.com | custom.plausible.io |
 | stats.cassidyjames.com | custom.plausible.io |
+| stats.castingdepot.com | custom.plausible.io |
 | stats.catholicluv.com | custom.plausible.io |
 | stats.centralswindonnorth-pc.gov.uk | custom.plausible.io |
 | stats.cfcasts.com | custom.plausible.io |
@@ -518,7 +518,6 @@
 | stats.geobox.app | custom.plausible.io |
 | stats.gesund-vital-lebensfreude.com | custom.plausible.io |
 | stats.getdoks.org | custom.plausible.io |
-| stats.gethyas.com | custom.plausible.io |
 | stats.getpickaxe.com | custom.plausible.io |
 | stats.ghinda.com | custom.plausible.io |
 | stats.glassmountains.co.uk | custom.plausible.io |
@@ -651,6 +650,7 @@
 | stats.metamorphium.com | custom.plausible.io |
 | stats.michaeloliver.dev | custom.plausible.io |
 | stats.micv.works | custom.plausible.io |
+| stats.missionmet.com | custom.plausible.io |
 | stats.missionrabies.com | custom.plausible.io |
 | stats.moco-comics.com | custom.plausible.io |
 | stats.mostlycoding.com.au | custom.plausible.io |

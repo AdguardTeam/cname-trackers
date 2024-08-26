@@ -140,7 +140,6 @@
 | boar.indieweb.org | deprecated-custom-domains.b-cdn.net |
 | boar.kostholdsveilederen.no | deprecated-custom-domains.b-cdn.net |
 | bobcat.pronounce.technology | deprecated-custom-domains.b-cdn.net |
-| bobcat.pushplay.nl | deprecated-custom-domains.b-cdn.net |
 | bobcat.snapshooter.io | deprecated-custom-domains.b-cdn.net |
 | booby.deanyeong.com | deprecated-custom-domains.b-cdn.net |
 | boom.laravel.io | deprecated-custom-domains.b-cdn.net |
@@ -355,7 +354,6 @@
 | flamingo.abihome.de | deprecated-custom-domains.b-cdn.net |
 | flamingo.apatonsrompus.com | deprecated-custom-domains.b-cdn.net |
 | flamingo.stacking-club.com | deprecated-custom-domains.b-cdn.net |
-| flea.artisan.school | deprecated-custom-domains.b-cdn.net |
 | flea.elbertsnaturalfoods.com | deprecated-custom-domains.b-cdn.net |
 | flea.welikeoliver.com | deprecated-custom-domains.b-cdn.net |
 | fly.foggybottomfarm.org | deprecated-custom-domains.b-cdn.net |
@@ -895,7 +893,6 @@
 | tortoise.mdx.one | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
-| treefrog.buyinsulin.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
 | treefrog.tschmeisser.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.walkingwithdaddy.com | deprecated-custom-domains.b-cdn.net |
@@ -1090,7 +1087,6 @@
 | boar.indieweb.org | starman.fathomdns.com |
 | boar.kostholdsveilederen.no | starman.fathomdns.com |
 | bobcat.pronounce.technology | starman.fathomdns.com |
-| bobcat.pushplay.nl | starman.fathomdns.com |
 | bobcat.snapshooter.io | starman.fathomdns.com |
 | booby.deanyeong.com | starman.fathomdns.com |
 | boom.laravel.io | starman.fathomdns.com |
@@ -1560,6 +1556,7 @@
 | monkey.colinjohnston.com | starman.fathomdns.com |
 | monkey.compulsivo.co | starman.fathomdns.com |
 | moose.cloverlearning.com | starman.fathomdns.com |
+| mosquito.birbs.art | starman.fathomdns.com |
 | mosquito.iamamandaperez.com | starman.fathomdns.com |
 | mosquito.nooraldiyar.com | starman.fathomdns.com |
 | mosquito.zero.io | starman.fathomdns.com |
@@ -1697,7 +1694,6 @@
 | rhinoceros.codeagain.com | starman.fathomdns.com |
 | rhinoceros.krieger.io | starman.fathomdns.com |
 | rhinoceros.valeriaborgese.it | starman.fathomdns.com |
-| rhinoceros.wus.life | starman.fathomdns.com |
 | roadrunner.ausmv.com.au | starman.fathomdns.com |
 | rodent.kevindendievel.com | starman.fathomdns.com |
 | rodent.livelinor.dk | starman.fathomdns.com |
@@ -1771,6 +1767,7 @@
 | spoonbill.shawnprice.com | starman.fathomdns.com |
 | squid.adart.cc | starman.fathomdns.com |
 | squid.antevo.com.au | starman.fathomdns.com |
+| squirrel.cobaltconnect.com | starman.fathomdns.com |
 | squirrel.laravel-mix.com | starman.fathomdns.com |
 | starfish.taskflow.io | starman.fathomdns.com |
 | starman.usefathom.com | starman.fathomdns.com |
@@ -1835,7 +1832,6 @@
 | tortoise.mdx.one | starman.fathomdns.com |
 | toucan.ateliermilky.com | starman.fathomdns.com |
 | toucan.the-faithful.com | starman.fathomdns.com |
-| treefrog.buyinsulin.com | starman.fathomdns.com |
 | treefrog.kaffeknappen.no | starman.fathomdns.com |
 | treefrog.tschmeisser.com | starman.fathomdns.com |
 | treefrog.walkingwithdaddy.com | starman.fathomdns.com |

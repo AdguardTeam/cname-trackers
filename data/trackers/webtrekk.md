@@ -373,6 +373,7 @@
 | web.slimjoy.com | 657801072187647.wt-eu02.net |
 | web.slimjoy.cz | 657801072187647.wt-eu02.net |
 | web.slimjoy.dk | 657801072187647.wt-eu02.net |
+| web.slimjoy.es | 657801072187647.wt-eu02.net |
 | web.slimjoy.it | 657801072187647.wt-eu02.net |
 | web.slimjoy.ro | 657801072187647.wt-eu02.net |
 | web.slimjoy.se | 657801072187647.wt-eu02.net |

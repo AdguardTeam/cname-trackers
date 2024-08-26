@@ -4,6 +4,7 @@
 
 * utiq-aws.net
     * frontend.prod.utiq-aws.net
+    * frontend.test.utiq-aws.net
 
 ## Cloaking domains
 
@@ -24,6 +25,7 @@
 | utiq.abc.es | frontend.prod.utiq-aws.net |
 | utiq.actu.fr | frontend.prod.utiq-aws.net |
 | utiq.applesfera.com | frontend.prod.utiq-aws.net |
+| utiq.atf-tagmanager.de | frontend.prod.utiq-aws.net |
 | utiq.aufeminin.com | frontend.prod.utiq-aws.net |
 | utiq.autobild.de | frontend.prod.utiq-aws.net |
 | utiq.autojournal.fr | frontend.prod.utiq-aws.net |
@@ -32,6 +34,7 @@
 | utiq.bfmtv.com | frontend.prod.utiq-aws.net |
 | utiq.bibamagazine.fr | frontend.prod.utiq-aws.net |
 | utiq.bild.de | frontend.prod.utiq-aws.net |
+| utiq.bitban.com | frontend.prod.utiq-aws.net |
 | utiq.blogthinkbig.com | frontend.prod.utiq-aws.net |
 | utiq.bunte.de | frontend.prod.utiq-aws.net |
 | utiq.burgosconecta.es | frontend.prod.utiq-aws.net |
@@ -56,6 +59,7 @@
 | utiq.diariovasco.com | frontend.prod.utiq-aws.net |
 | utiq.directoalpaladar.com | frontend.prod.utiq-aws.net |
 | utiq.donaukurier.de | frontend.prod.utiq-aws.net |
+| utiq.eatbetter.de | frontend.prod.utiq-aws.net |
 | utiq.einfach-tasty.de | frontend.prod.utiq-aws.net |
 | utiq.elcomercio.es | frontend.prod.utiq-aws.net |
 | utiq.elcorreo.com | frontend.prod.utiq-aws.net |
@@ -71,6 +75,7 @@
 | utiq.elperiodicomediterraneo.com | frontend.prod.utiq-aws.net |
 | utiq.epe.es | frontend.prod.utiq-aws.net |
 | utiq.espinof.com | frontend.prod.utiq-aws.net |
+| utiq.eventfinder.de | frontend.prod.utiq-aws.net |
 | utiq.expansion.com | frontend.prod.utiq-aws.net |
 | utiq.extratipp.com | frontend.prod.utiq-aws.net |
 | utiq.familie.de | frontend.prod.utiq-aws.net |
@@ -110,6 +115,7 @@
 | utiq.laopinioncoruna.es | frontend.prod.utiq-aws.net |
 | utiq.laopiniondemalaga.es | frontend.prod.utiq-aws.net |
 | utiq.laopiniondemurcia.es | frontend.prod.utiq-aws.net |
+| utiq.laprovincia.es | frontend.prod.utiq-aws.net |
 | utiq.larioja.com | frontend.prod.utiq-aws.net |
 | utiq.lasprovincias.es | frontend.prod.utiq-aws.net |
 | utiq.laverdad.es | frontend.prod.utiq-aws.net |
@@ -137,8 +143,10 @@
 | utiq.nostalgie.fr | frontend.prod.utiq-aws.net |
 | utiq.nrj-play.fr | frontend.prod.utiq-aws.net |
 | utiq.nrj.fr | frontend.prod.utiq-aws.net |
+| utiq.numerama.com | frontend.prod.utiq-aws.net |
 | utiq.op-online.de | frontend.prod.utiq-aws.net |
 | utiq.ouest-france.fr | frontend.prod.utiq-aws.net |
+| utiq.ozap.com | frontend.prod.utiq-aws.net |
 | utiq.palladiumhotelgroup.com | frontend.prod.utiq-aws.net |
 | utiq.paris-normandie.fr | frontend.prod.utiq-aws.net |
 | utiq.paroledemamans.com | frontend.prod.utiq-aws.net |
@@ -148,18 +156,22 @@
 | utiq.programme.tv | frontend.prod.utiq-aws.net |
 | utiq.psychologies.com | frontend.prod.utiq-aws.net |
 | utiq.rireetchansons.fr | frontend.prod.utiq-aws.net |
+| utiq.rmcbfmplay.com | frontend.prod.utiq-aws.net |
 | utiq.salamancahoy.es | frontend.prod.utiq-aws.net |
+| utiq.sauerlandkurier.de | frontend.prod.utiq-aws.net |
 | utiq.schlager.de | frontend.prod.utiq-aws.net |
 | utiq.science-et-vie.com | frontend.prod.utiq-aws.net |
 | utiq.sensacine.com | frontend.prod.utiq-aws.net |
 | utiq.soester-anzeiger.de | frontend.prod.utiq-aws.net |
 | utiq.speisekarte.de | frontend.prod.utiq-aws.net |
 | utiq.sport.es | frontend.prod.utiq-aws.net |
+| utiq.sportlerfrage.net | frontend.prod.utiq-aws.net |
 | utiq.stimme.de | frontend.prod.utiq-aws.net |
 | utiq.stylebook.de | frontend.prod.utiq-aws.net |
 | utiq.sueddeutsche.de | frontend.prod.utiq-aws.net |
 | utiq.superdeporte.es | frontend.prod.utiq-aws.net |
 | utiq.t-online.de | frontend.prod.utiq-aws.net |
+| utiq.tagesspiegel.de | frontend.prod.utiq-aws.net |
 | utiq.techbook.de | frontend.prod.utiq-aws.net |
 | utiq.telekom.de | frontend.prod.utiq-aws.net |
 | utiq.thueringen24.de | frontend.prod.utiq-aws.net |
@@ -177,7 +189,9 @@
 | utiq.voici.fr | frontend.prod.utiq-aws.net |
 | utiq.wa.de | frontend.prod.utiq-aws.net |
 | utiq.welt.de | frontend.prod.utiq-aws.net |
+| utiq.wetterauer-zeitung.de | frontend.prod.utiq-aws.net |
 | utiq.wiwo.de | frontend.prod.utiq-aws.net |
+| utiq.wlz-online.de | frontend.prod.utiq-aws.net |
 | utiq.wmn.de | frontend.prod.utiq-aws.net |
 | utiq.wochenblatt.de | frontend.prod.utiq-aws.net |
 | utiq.xataka.com | frontend.prod.utiq-aws.net |
@@ -186,3 +200,6 @@
 | utiq.xatakandroid.com | frontend.prod.utiq-aws.net |
 | utiq.zdnet.fr | frontend.prod.utiq-aws.net |
 | vfes.mno.link | frontend.prod.utiq-aws.net |
+| orangefr-test.mno.link | frontend.test.utiq-aws.net |
+| vfdemsp.mno.link | frontend.test.utiq-aws.net |
+| vfesmsp.mno.link | frontend.test.utiq-aws.net |

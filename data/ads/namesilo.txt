@@ -1120,7 +1120,6 @@
 ||administration.notifysrv.com^
 ||admissions.notifysrv.com^
 ||adrepository.opoxv.com^
-||ads.optimizesrv.com^
 ||adult.notifysrv.com^
 ||andy.notifysrv.com^
 ||answers.notifysrv.com^
@@ -1397,3 +1396,4 @@
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
 ||a.bizonads-ssp.com^
+||ads.optimizesrv.com^

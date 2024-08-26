@@ -12,8 +12,6 @@
     * skechers-prod.actioniq.mr-in.com
     * sony-prod.actioniq.mr-in.com
     * tcb-prod.actioniq.mr-in.com
-    * thd-ca-poc-prod.mr-in.com
-    * thdca-prod.mr-in.com
 
 ### Rarely active trackers
 
@@ -109,5 +107,3 @@
 | aiqx.travismathew.ca | tcb-prod.actioniq.mr-in.com |
 | aiqx.travismathew.co.uk | tcb-prod.actioniq.mr-in.com |
 | aiqx.travismathew.com | tcb-prod.actioniq.mr-in.com |
-| mr.homedepot.ca | thd-ca-poc-prod.mr-in.com |
-| mr.homedepot.ca | thdca-prod.mr-in.com |

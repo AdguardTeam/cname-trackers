@@ -80,7 +80,6 @@ a8.denwa-hikari.com
 a8.denwa-kaisen.jp
 a8.denwa-kanyuken.com
 a8.diakaimasu.jp
-a8.direia-to.net
 a8.doctorstretch.com
 a8.dolcibolle.com
 a8.drinco.jp
@@ -355,6 +354,7 @@ a8.www.nicosuma.com
 a8.www.retrospect.co.jp
 a8.www.seesaa.co.jp
 a8.www.smart-factor.co.jp
+a8.www.suaoki.jp
 a8.xn--google-873exa8m6161dbbyb.net
 a8.xn--y8jd4aybzqd.jp
 a8.yakumatch.com
@@ -697,6 +697,7 @@ a8clk.www.daiohs.com
 a8clk.www.doicoffee.com
 a8clk.www.duskin-chiyoda.com
 a8clk.www.duskin-hozumi.co.jp
+a8clk.www.duskin-hozumi.com
 a8clk.www.duskin-hozumi.jp
 a8clk.www.e87.com
 a8clk.www.fitnessshop.jp
@@ -907,7 +908,6 @@ a8cv.fukuoka-factoring.net
 a8cv.fundrop.jp
 a8cv.futurefinder.net
 a8cv.fxtrade.co.jp
-a8cv.gaiasign.co.jp
 a8cv.gaikokujin-support.com
 a8cv.gaikouexterior-partners.jp
 a8cv.gakuen.omobic.com
@@ -1140,6 +1140,7 @@ a8cv.sanix.jp
 a8cv.sankyo-fs.jp
 a8cv.saraschool.net
 a8cv.scheeme.com
+a8cv.scom-f.jp
 a8cv.se-navi.jp
 a8cv.second-hand.jp
 a8cv.secure.sakura.ad.jp
@@ -1366,6 +1367,7 @@ ad.kirara-support.jp
 ad.magokoro-care-shoku.com
 ad.rejichoice.jp
 ad.shinjuku-mens-chuoh.com
+ad.xn--o9jem5iv41o982db8k.jp
 ada8-2.ampleur.jp
 ada8.ampleur.jp
 ads.dandelionchocolate.jp
@@ -1408,6 +1410,7 @@ clk.liberty-e.com
 clk.wagon-hire.com
 clkcv.biglobehikari-kaisen.com
 clkcv.livede55.com
+complete.smilecbd.jp
 contact.kdg-yobi.com
 cosme.caseepo.jp
 cp.cp.twendee.jp
@@ -1524,7 +1527,6 @@ tag.minimaid.co.jp
 test.shigoto-web.com
 test.zeus-wifi.jp
 testa8wifi.dokoyorimo.com
-thanks.hubspaces.jp
 thanks.olivesitter.com
 thanks.tsubaki-musicschool.com
 track-v4.ipadpresence.com

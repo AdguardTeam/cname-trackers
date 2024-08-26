@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724054430953        ; Serial
+           1724659207404        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -128,7 +128,6 @@ boar.hopehollow.com CNAME .
 boar.indieweb.org CNAME .
 boar.kostholdsveilederen.no CNAME .
 bobcat.pronounce.technology CNAME .
-bobcat.pushplay.nl CNAME .
 bobcat.snapshooter.io CNAME .
 booby.deanyeong.com CNAME .
 boom.laravel.io CNAME .
@@ -598,6 +597,7 @@ mongoose.thechocolatelife.com CNAME .
 monkey.colinjohnston.com CNAME .
 monkey.compulsivo.co CNAME .
 moose.cloverlearning.com CNAME .
+mosquito.birbs.art CNAME .
 mosquito.iamamandaperez.com CNAME .
 mosquito.nooraldiyar.com CNAME .
 mosquito.zero.io CNAME .
@@ -735,7 +735,6 @@ reptile.wyattblogs.com CNAME .
 rhinoceros.codeagain.com CNAME .
 rhinoceros.krieger.io CNAME .
 rhinoceros.valeriaborgese.it CNAME .
-rhinoceros.wus.life CNAME .
 roadrunner.ausmv.com.au CNAME .
 rodent.kevindendievel.com CNAME .
 rodent.livelinor.dk CNAME .
@@ -809,6 +808,7 @@ spider.storiesofchang.com CNAME .
 spoonbill.shawnprice.com CNAME .
 squid.adart.cc CNAME .
 squid.antevo.com.au CNAME .
+squirrel.cobaltconnect.com CNAME .
 squirrel.laravel-mix.com CNAME .
 starfish.taskflow.io CNAME .
 starman.usefathom.com CNAME .
@@ -873,7 +873,6 @@ toad.frontendmentor.io CNAME .
 tortoise.mdx.one CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.the-faithful.com CNAME .
-treefrog.buyinsulin.com CNAME .
 treefrog.kaffeknappen.no CNAME .
 treefrog.tschmeisser.com CNAME .
 treefrog.walkingwithdaddy.com CNAME .
@@ -963,7 +962,6 @@ parakeet.jorenvanhocht.be CNAME .
 porcupine.reminyborg.com CNAME .
 prawn.inchperfect.com CNAME .
 raven.omamao.ch CNAME .
-squirrel.cobaltconnect.com CNAME .
 tapir.albertaguardtraining.ca CNAME .
 tigershark.hasanahmad.ca CNAME .
 vulture.bettershore.com CNAME .

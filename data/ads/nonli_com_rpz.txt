@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724054430953        ; Serial
+           1724659207404        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+c.leparisien.fr CNAME .
 go.3ds.com CNAME .
 go.france24.com CNAME .
 go.letelegramme.fr CNAME .
@@ -19,6 +20,8 @@ go.meretmarine.com CNAME .
 go.publicsenat.fr CNAME .
 go.rfi.fr CNAME .
 go.solidworks.com CNAME .
+in.h24.news CNAME .
+it.h24.news CNAME .
 l.20minutes.fr CNAME .
 l.actu.fr CNAME .
 l.africabusinessplus.com CNAME .

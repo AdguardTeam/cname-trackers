@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724054430953        ; Serial
+           1724659207404        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -272,6 +272,7 @@ content.mdeferred-payment.sevenbank.co.jp CNAME .
 content.moneza.ru CNAME .
 content.moni.com.ar CNAME .
 content.my100bank.com CNAME .
+content.mycno.com CNAME .
 content.myfamliplus.state.co.us CNAME .
 content.myonlyid.com CNAME .
 content.mypersi.idaho.gov CNAME .
@@ -517,6 +518,7 @@ img.consumer.risk.lexisnexis.com CNAME .
 img.dailylook.com CNAME .
 img.fortunejack.com CNAME .
 img.getkansasbenefits.gov CNAME .
+img.kittykuddly.com CNAME .
 img.lascana.nl CNAME .
 img.neora.com CNAME .
 img.oney.fr CNAME .
@@ -979,6 +981,7 @@ tmcdn.jackpotcitycasino.com CNAME .
 tmcdn.jackpotcitycasino.com.py CNAME .
 tmcdn.luckynuggetcasino.com CNAME .
 tmcdn.mummysgold.com CNAME .
+tmcdn.platinumplaycasino.com CNAME .
 tmcdn.riverbellecasino.com CNAME .
 tmcdn.rubyfortune.ca CNAME .
 tmcdn.rubyfortune.com CNAME .

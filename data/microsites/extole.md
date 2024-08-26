@@ -89,6 +89,7 @@
     * roadrunnersports-ssl.extole.com
     * sage-ssl.extole.com
     * sageca-ssl.extole.com
+    * seniorhelpers.extole.com
     * sharefile-ssl.extole.com
     * shoesforcrews-ssl.extole.com
     * silvercar.extole.com
@@ -221,7 +222,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -316,6 +316,7 @@
     * hair.extole.io
     * harley.extole.io
     * harryrosen.extole.io
+    * havenwellwithin.extole.io
     * henri-bendel.extole.io
     * hicapitalize.extole.io
     * hill-city.extole.io
@@ -410,7 +411,6 @@
     * opploans.extole.io
     * orbitz.extole.io
     * origins.extole.io
-    * owc.extole.io
     * pacific-service.extole.io
     * pacsafe.extole.io
     * pacu.extole.io
@@ -418,6 +418,7 @@
     * partsvu.extole.io
     * paulmitchell.extole.io
     * paylocity.extole.io
+    * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
     * petco-grooming.extole.io
@@ -568,7 +569,6 @@
     * whiparound.extole.io
     * whistle.extole.io
     * whitehouseblackmarket.extole.io
-    * windsor.extole.io
     * wine.extole.io
     * wisdompanel.extole.io
     * wolverine.extole.io
@@ -731,7 +731,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -911,6 +910,7 @@
 | refer.harley-davidsonfootwear.com | harley.extole.io |
 | refer.harryrosen.com | harryrosen.extole.io |
 | refer.hattiesburgamerican.com | hattiesburgamerican.extole.com |
+| share.havenwellwithin.com | havenwellwithin.extole.io |
 | refer.healthypawspetinsurance.com | healthypaws.extole.com |
 | refer.henribendel.com | henri-bendel.extole.io |
 | share.hicapitalize.com | hicapitalize.extole.io |
@@ -1046,7 +1046,6 @@
 | refer.orbitz.com | orbitz.extole.io |
 | refer.orientaltrading.com | oriental-trading.extole.com |
 | share.origins.com | origins.extole.io |
-| share.macsales.com | owc.extole.io |
 | refer.ofx.com | ozforex-au.extole.com |
 | refer.ozforex.com.au | ozforex-au.extole.com |
 | refer.nzforex.co.nz | ozforex-nz.extole.com |
@@ -1061,6 +1060,7 @@
 | share.partsvu.com | partsvu.extole.io |
 | share.paulmitchell.com | paulmitchell.extole.io |
 | refer.paylocity.com | paylocity.extole.io |
+| referral.pellaofdfw.com | pellaofdfw.extole.io |
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
@@ -1142,6 +1142,7 @@
 | refer.scoresense.com | scoresense.extole.io |
 | refer.seabourn.com | seabourn.extole.io |
 | share.securityplusfcu.org | securityplus.extole.io |
+| refer.seniorhelpers.com | seniorhelpers.extole.com |
 | referral.servicechannel.com | servicechannel.extole.io |
 | share.sesamecare.com | sesamecare.extole.io |
 | friend.sharefile.com | sharefile-ssl.extole.com |
@@ -1178,9 +1179,7 @@
 | share.stopagingnow.com | stopagingnow.extole.io |
 | refer.striderite.com | stride-rite.extole.io |
 | share.stridehealth.com | stridehealth.extole.io |
-| refer.studentuniverse.co.uk | studentuniverse.extole.io |
 | refer.studentuniverse.com | studentuniverse.extole.io |
-| refer.studentuniverse.com.au | studentuniverse.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |
@@ -1287,7 +1286,6 @@
 | share.whistle.com | whistle.extole.io |
 | refer.whitehouseblackmarket.com | whitehouseblackmarket.extole.io |
 | share.wimp.no | wimp.extole.com |
-| refer.windsorstore.com | windsor.extole.io |
 | refer.wine.com | wine.extole.io |
 | share.wisdompanel.com | wisdompanel.extole.io |
 | refer.wolverine.com | wolverine.extole.io |

@@ -261,7 +261,6 @@ boar.hopehollow.com
 boar.indieweb.org
 boar.kostholdsveilederen.no
 bobcat.pronounce.technology
-bobcat.pushplay.nl
 bobcat.snapshooter.io
 booby.deanyeong.com
 boom.laravel.io
@@ -734,6 +733,7 @@ mongoose.thechocolatelife.com
 monkey.colinjohnston.com
 monkey.compulsivo.co
 moose.cloverlearning.com
+mosquito.birbs.art
 mosquito.iamamandaperez.com
 mosquito.nooraldiyar.com
 mosquito.zero.io
@@ -871,7 +871,6 @@ reptile.wyattblogs.com
 rhinoceros.codeagain.com
 rhinoceros.krieger.io
 rhinoceros.valeriaborgese.it
-rhinoceros.wus.life
 roadrunner.ausmv.com.au
 rodent.kevindendievel.com
 rodent.livelinor.dk
@@ -1012,7 +1011,6 @@ toad.frontendmentor.io
 tortoise.mdx.one
 toucan.ateliermilky.com
 toucan.the-faithful.com
-treefrog.buyinsulin.com
 treefrog.kaffeknappen.no
 treefrog.tschmeisser.com
 treefrog.walkingwithdaddy.com
@@ -1095,6 +1093,7 @@ assets-v2.invaluable.com
 assets-v2.northsidesun.com
 avemariaas.vmrcommunications.com
 carlsonmedia.streetinteractive.com
+connected.ashrae.org
 daily.yubanet.com
 floorforce.streetinteractive.com
 gemtun.ctnewsjunkie.com
@@ -1130,6 +1129,7 @@ sponsors.stateofdigitalpublishing.com
 sponsors.teethtalkgirl.com
 sponsors.vvng.com
 support-v2.sweetwaternow.com
+supporters.redbankgreen.com
 adserve.bongocdn.com
 assets.diagomics.com
 bcdn.cpmstar.com

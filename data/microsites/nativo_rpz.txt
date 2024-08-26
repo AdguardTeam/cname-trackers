@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724054430953        ; Serial
+           1724659207404        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -26,6 +26,7 @@ sponsor.syracuse.com CNAME .
 08aa8322fb.5345952a3e.com CNAME .
 09235b218b.8c4b010d44.com CNAME .
 09b5b8e815.e5691e6be3.com CNAME .
+09ec99929f.ded5d3d100.com CNAME .
 0b1b9dbb23.2b60794b99.com CNAME .
 0b4dd9af1d.d2cc4794b1.com CNAME .
 0c02a7421b.42a84ebf4e.com CNAME .
@@ -68,7 +69,6 @@ sponsor.syracuse.com CNAME .
 2bdfa5663a.14cf88c422.com CNAME .
 2c83d2caf6.d067641e02.com CNAME .
 2cd3a118f8.d6344ef0f4.com CNAME .
-2e29d385db.416deca3db.com CNAME .
 2e59d53c1e.d1f10926c9.com CNAME .
 2ee8c3ad24.3addb7ccee.com CNAME .
 319317829f.b15560d3a9.com CNAME .
@@ -140,6 +140,7 @@ sponsor.syracuse.com CNAME .
 63dfd5af39.dd5eca7281.com CNAME .
 63e798263b.fef0033e72.com CNAME .
 6424f99911.28b26b4604.com CNAME .
+642e2d83a3.6a2ba2a948.com CNAME .
 6456462b8a.d5fb45ce94.com CNAME .
 64641981de.a1bc23fa98.com CNAME .
 651a584f5e.6c078023c1.com CNAME .
@@ -167,6 +168,7 @@ sponsor.syracuse.com CNAME .
 785dbf66d8.813256c799.com CNAME .
 78f4639022.81f96b7f09.com CNAME .
 7917287eb1.9978689407.com CNAME .
+7a22832f7a.8b25345f40.com CNAME .
 7a2d2c66d3.4b6563a120.com CNAME .
 7b808c74be.f3277f96a7.com CNAME .
 7d6e3e04ac.6580789546.com CNAME .
@@ -184,9 +186,9 @@ sponsor.syracuse.com CNAME .
 84da976039.ea8e52e061.com CNAME .
 84eeafa1d9.f02fa5826c.com CNAME .
 85ce67f524.a50808b0d1.com CNAME .
-85fb7313d7.77e74062b1.com CNAME .
 882e281cd8.44d100644b.com CNAME .
 8863ee5a75.fe70a4ad4b.com CNAME .
+8a0f91aaeb.995a3c624c.com CNAME .
 8a2c7cb1c4.9cfcbc9209.com CNAME .
 8a894bf49d.1ec640b692.com CNAME .
 8c3ebbe6d3.0c9747d501.com CNAME .
@@ -209,7 +211,6 @@ sponsor.syracuse.com CNAME .
 9cb99d5798.a7c023663a.com CNAME .
 9ce6218dd9.46d236df2c.com CNAME .
 9d5e0e5b08.2c03b52128.com CNAME .
-9d844b1143.7f00f312e5.com CNAME .
 9dc66b2911.b74ceb1c82.com CNAME .
 9e635b1caf.4afa370227.com CNAME .
 9f3c62edd5.b3742d97fe.com CNAME .
@@ -278,7 +279,6 @@ cee1ead9b3.fd3b334d49.com CNAME .
 d2495c1a07.7e4eb2b5eb.com CNAME .
 d2a500bd5e.87b7754886.com CNAME .
 d367720a8b.0faf13d8ae.com CNAME .
-d4a90e546a.11a6670e45.com CNAME .
 d4d1547cd0.80896e4695.com CNAME .
 d4f9ed7c1a.047e541483.com CNAME .
 d50c5ef2be.947a482789.com CNAME .
@@ -300,7 +300,6 @@ df10a4f4cc.34d6feddf3.com CNAME .
 df79826fce.38a5945374.com CNAME .
 dfcb02b251.43c346b6c6.com CNAME .
 e0647f5ed3.4c7ce5d4e5.com CNAME .
-e08409ce7e.e6460525b5.com CNAME .
 e11ba282e6.38711532a0.com CNAME .
 e232781e87.84d5dd9f1a.com CNAME .
 e2fd1de2bc.bfa09a4496.com CNAME .
@@ -334,6 +333,7 @@ f377888b95.449715c797.com CNAME .
 f3d1a8ee12.c37b652f3a.com CNAME .
 f571f387dc.2e51ef91bb.com CNAME .
 f7edea5919.fce9830ba4.com CNAME .
+f87b1af192.a60c6e0c85.com CNAME .
 f905b11999.4895a69f7e.com CNAME .
 f95d80b33b.cf98a92559.com CNAME .
 f965b45a51.e25ebbeb6b.com CNAME .
@@ -348,6 +348,8 @@ fea6607a84.555dcda495.com CNAME .
 fee3f8a74a.aee4e77dc5.com CNAME .
 i.selecttopoff.com CNAME .
 i.statelinear.com CNAME .
+a235.timesunion.com CNAME .
+mlive.share.ntv.io CNAME .
 share.ntv.io CNAME .
 shared.sponsoredcontent.com CNAME .
 68c2f33440.691c37268a.com CNAME .
@@ -361,7 +363,6 @@ a614.masslive.com CNAME .
 a614.mlive.com CNAME .
 a614.nj.com CNAME .
 a614.pennlive.com CNAME .
-mlive.share.ntv.io CNAME .
 nj.finegardening.com CNAME .
 silive.share.ntv.io CNAME .
 a235.beaumontenterprise.com CNAME .
@@ -387,5 +388,4 @@ a235.stamfordadvocate.com CNAME .
 a235.thehour.com CNAME .
 a235.theintelligencer.com CNAME .
 a235.thetelegraph.com CNAME .
-a235.timesunion.com CNAME .
 img.nativo.net CNAME .

@@ -9,6 +9,7 @@
     * h-10mkgm4b.online-metrix.net
     * h-11b6fun8-bl.online-metrix.net
     * h-11b6fun8-wn.online-metrix.net
+    * h-11b6fun8cno.online-metrix.net
     * h-14iyhddh.online-metrix.net
     * h-15wc9fpp.online-metrix.net
     * h-16vzjy52.online-metrix.net
@@ -494,6 +495,7 @@
     * h-kelmar-wa.online-metrix.net
     * h-kelmar.online-metrix.net
     * h-kijiji.online-metrix.net
+    * h-kittykuddly.online-metrix.net
     * h-knetbooks.online-metrix.net
     * h-kompf.online-metrix.net
     * h-kotak.online-metrix.net
@@ -756,6 +758,7 @@
 | partition.enterprise.com | h-10mkgm4b.online-metrix.net |
 | content.bankerslife.com | h-11b6fun8-bl.online-metrix.net |
 | content.washingtonnational.com | h-11b6fun8-wn.online-metrix.net |
+| content.mycno.com | h-11b6fun8cno.online-metrix.net |
 | tmx.monzo.co.uk | h-14iyhddh.online-metrix.net |
 | tmln.caesarscasino.com | h-15wc9fpp.online-metrix.net |
 | content1.reprisefinancial.com | h-16vzjy52.online-metrix.net |
@@ -988,6 +991,7 @@
 | tmcdn.jackpotcitycasino.com.py | h-98oju8tz.online-metrix.net |
 | tmcdn.luckynuggetcasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.mummysgold.com | h-98oju8tz.online-metrix.net |
+| tmcdn.platinumplaycasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.riverbellecasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.rubyfortune.ca | h-98oju8tz.online-metrix.net |
 | tmcdn.rubyfortune.com | h-98oju8tz.online-metrix.net |
@@ -1499,6 +1503,7 @@
 | tag.ucp.dor.wa.gov | h-kelmar-wa.online-metrix.net |
 | tag.findyourunclaimedproperty.com | h-kelmar.online-metrix.net |
 | tmx.kijiji.ca | h-kijiji.online-metrix.net |
+| img.kittykuddly.com | h-kittykuddly.online-metrix.net |
 | content.knetbooks.com | h-knetbooks.online-metrix.net |
 | did.koempf24.de | h-kompf.online-metrix.net |
 | tm.kotak.com | h-kotak.online-metrix.net |

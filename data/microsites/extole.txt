@@ -83,6 +83,7 @@
 ||refer.purchasingpower.com^
 ||refer.roadrunnersports.com^
 ||refer.sage.com^
+||refer.seniorhelpers.com^
 ||refer.shoesforcrews.com^
 ||refer.silvercar.com^
 ||refer.solarwinds.com^
@@ -128,7 +129,6 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em225.codecademy.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -370,9 +370,7 @@
 ||refer.steelseries.com^
 ||refer.stopandshop.com^
 ||refer.striderite.com^
-||refer.studentuniverse.co.uk^
 ||refer.studentuniverse.com^
-||refer.studentuniverse.com.au^
 ||refer.sugarandjade.com^
 ||refer.sundancevacations.com^
 ||refer.swansonvitamins.com^
@@ -407,7 +405,6 @@
 ||refer.vitaminshoppe.com^
 ||refer.washtrust.com^
 ||refer.whitehouseblackmarket.com^
-||refer.windsorstore.com^
 ||refer.wine.com^
 ||refer.wolverine.com^
 ||refer.wrangler.com^
@@ -427,6 +424,7 @@
 ||referral.bluehost.com^
 ||referral.cledepeaubeaute.com^
 ||referral.drunkelephant.com^
+||referral.pellaofdfw.com^
 ||referral.servicechannel.com^
 ||referral.shiseido.com^
 ||referralrewards.brightspeed.com^
@@ -538,6 +536,7 @@
 ||share.greenvilleonline.com^
 ||share.gruntstyle.com^
 ||share.gxvebeauty.com^
+||share.havenwellwithin.com^
 ||share.hicapitalize.com^
 ||share.hotwire.com^
 ||share.htrnews.com^
@@ -568,7 +567,6 @@
 ||share.livongo.com^
 ||share.lovesac.com^
 ||share.maccosmetics.com.au^
-||share.macsales.com^
 ||share.maidpro.com^
 ||share.mamabearlegalforms.com^
 ||share.mansfieldnewsjournal.com^
@@ -708,6 +706,7 @@
 ||www.referessentials.com^
 ||www.referquickbooks.com^
 ||em1476.princesscruises.com^
+||em225.codecademy.com^
 ||em3904.skillshare.com^
 ||em4367.raf-studentloans.discover.com^
 ||em8561.go2bank.com^

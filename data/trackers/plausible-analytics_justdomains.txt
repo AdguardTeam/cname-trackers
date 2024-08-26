@@ -22,7 +22,6 @@ analytics.hambleden-capital.com
 analytics.hiome.com
 analytics.kerns.co
 analytics.lifestyledemocracy.com
-analytics.littlekingdesigns.com
 analytics.lunge.de
 analytics.mambaui.com
 analytics.mc500.info
@@ -392,6 +391,7 @@ stats.carrot2.org
 stats.carrotsearch.com
 stats.caseydunham.com
 stats.cassidyjames.com
+stats.castingdepot.com
 stats.catholicluv.com
 stats.centralswindonnorth-pc.gov.uk
 stats.cfcasts.com
@@ -505,7 +505,6 @@ stats.galleriacortona.com
 stats.geobox.app
 stats.gesund-vital-lebensfreude.com
 stats.getdoks.org
-stats.gethyas.com
 stats.getpickaxe.com
 stats.ghinda.com
 stats.glassmountains.co.uk
@@ -638,6 +637,7 @@ stats.mesenvies.fr
 stats.metamorphium.com
 stats.michaeloliver.dev
 stats.micv.works
+stats.missionmet.com
 stats.missionrabies.com
 stats.moco-comics.com
 stats.mostlycoding.com.au

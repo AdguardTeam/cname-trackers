@@ -30,7 +30,6 @@
 ||data-02011e6008.golocal.de^
 ||data-02011e6008.t-online.de^
 ||data-02038f306c.antenne.com^
-||data-02038f306c.vereintes-niedersachsen.de^
 ||data-0282cb9d1f.apps.iocnt.de^
 ||data-029be27def.apps.iocnt.de^
 ||data-02d6c01d72.rga.de^
@@ -1820,6 +1819,7 @@
 ||data-d29d7a3de4.apps.iocnt.de^
 ||data-d2a8aec266.autohaus.de^
 ||data-d31fa5daa8.apps.iocnt.de^
+||data-d3553711cd.firmenwissen.de^
 ||data-d398dd713b.apps.iocnt.de^
 ||data-d3ad057ab7.firmenauto.de^
 ||data-d3b795e73c.instyle.de^
@@ -1921,6 +1921,7 @@
 ||data-e16c65ad3c.antennevorarlberg.at^
 ||data-e18f7c3e0e.bib.dormagen.de^
 ||data-e1f099aeb5.apps.iocnt.de^
+||data-e208ca4264.uci-kinowelt.de^
 ||data-e2b70f0c07.lb-oldenburg.de^
 ||data-e337e2a6a8.kuechenplaner-magazin.de^
 ||data-e34440d805.das-onlinespiel.de^
@@ -1930,6 +1931,7 @@
 ||data-e3af19e759.apps.iocnt.de^
 ||data-e3d4300b49.n-tv.de^
 ||data-e3d4300b49.sport.de^
+||data-e3d4300b49.teleboerse.de^
 ||data-e44d38afc3.apps.iocnt.de^
 ||data-e47ac57521.lokal26.de^
 ||data-e4997adf31.bilanz.de^
@@ -2079,6 +2081,7 @@
 ||data-f1e447fbcf.hallo-muenchen.de^
 ||data-f1e447fbcf.hanauer.de^
 ||data-f1e447fbcf.heidelberg24.de^
+||data-f1e447fbcf.herbstfest-rosenheim.de^
 ||data-f1e447fbcf.hersfelder-zeitung.de^
 ||data-f1e447fbcf.hna.de^
 ||data-f1e447fbcf.in-muenchen.de^
@@ -2268,6 +2271,7 @@
 ||data-fb37a1e7c3.verlagshaus-jaumann.de^
 ||data-fb6bd6ba7f.agrarzeitung.de^
 ||data-fb6dfd42e8.rationell-reinigen.de^
+||data-fbb8842b89.chip.de^
 ||data-fbb8842b89.fitforfun.de^
 ||data-fbb8842b89.focus.de^
 ||data-fbb8842b89.mylife.de^

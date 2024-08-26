@@ -43,6 +43,7 @@ al.nakayamashouten.com
 al.naniwayaseika.co.jp
 al.nawa-store.jp
 al.neckar.jp
+al.noemie.jp
 al.office-com.jp
 al.packstyle.jp
 al.peak-blue.com
@@ -61,6 +62,8 @@ al.talex.co.jp
 al.tanabesports.com
 al.tokimeku-otoriyose.jp
 al.tsukurupajama.jp
+al.uzu-japan.com
+al.vintorte.com
 al.webike.net
 al.www.kijoan.com
 al.yamachu.net

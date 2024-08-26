@@ -96,6 +96,7 @@
 ||adebis.shinseibank.com^
 ||adebis.shiseido.co.jp^
 ||adebis.shopserve.jp^
+||adebis.shupita.jp^
 ||adebis.sokamocka.com^
 ||adebis.thd-web.jp^
 ||adebis.theclinic.jp^

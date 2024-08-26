@@ -10,7 +10,6 @@ logger.yp.ca
 sales.disneylandparis.com
 tagcommander.laredoute.be
 tagcommander.laredoute.ch
-tcdata.fnac.com
 acquisition.klm.com
 configure.adlermode.com
 data.auchandirect.fr
@@ -21,3 +20,4 @@ tag.boulanger.fr
 tc.europcar.com
 tc.europcar.com.au
 tc.europcar.de
+tcdata.fnac.com

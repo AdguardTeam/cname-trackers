@@ -67,6 +67,7 @@
 | esub.online-batterien.de | customer2.etracker.com |
 | esub.solarshopaustria.at | customer2.etracker.com |
 | esub.solarspeicher24.de | customer2.etracker.com |
+| esub.staplerbatterie.center | customer2.etracker.com |
 | et.juskys.de | customer2.etracker.com |
 | stats.bodenverkauf.de | customer2.etracker.com |
 | stats.ekd.de | customer2.etracker.com |

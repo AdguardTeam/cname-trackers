@@ -403,6 +403,7 @@ my.weplayhandball.bg
 my.weplayhandball.ch
 my.weplayhandball.cz
 my.weplayhandball.de
+my.weplayhandball.es
 my.weplayhandball.eu
 my.weplayhandball.gr
 my.weplayhandball.hu
@@ -551,6 +552,7 @@ partner.hoska-tour.cz
 partner.hothousecucumber.com
 partner.hubnu.online
 partner.hubnutimarija.cz
+partner.hunter.games
 partner.idoklad.cz
 partner.investinslovakia.eu
 partner.iodesign.cz
@@ -584,6 +586,7 @@ partner.legalni-konopi.cz
 partner.lehatkapropsy.cz
 partner.lemurak.cz
 partner.lenkahomeopatie.cz
+partner.levanduloveudoli.cz
 partner.liberec-ubytovani.cz
 partner.lidajirickova.cz
 partner.ligsuniversity.cz
@@ -609,7 +612,6 @@ partner.mojeluha.cz
 partner.mojetonery.sk
 partner.mooda.cz
 partner.mooselife.cz
-partner.moringacaribbean.eu
 partner.motoobchod.cz
 partner.muffik.cz
 partner.muffik.eu
@@ -908,7 +910,6 @@ spoluprace.eroticstore.cz
 spoluprace.galaxy.cz
 spoluprace.h2world.store
 spoluprace.hyla.cz
-spoluprace.interbohemia.cz
 spoluprace.janitaurbanova.cz
 spoluprace.luxusnipradlo.cz
 spoluprace.m-soft.cz

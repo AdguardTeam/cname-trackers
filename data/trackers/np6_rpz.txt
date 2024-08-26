@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724054430953        ; Serial
+           1724659207404        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,8 +21,6 @@ shortener.np6.com CNAME .
 sms.gestion.cetelem.fr CNAME .
 sms.news.allopneus.com CNAME .
 t8.mailperformance.com CNAME .
-tr.3ou4xcb.cetelem.fr CNAME .
-tr.3xcb.cofinoga.fr CNAME .
 tr.aasi.espmp-agfr.net CNAME .
 tr.abo.cotemaison.fr CNAME .
 tr.account.np6.com CNAME .
@@ -910,14 +908,7 @@ tr.nl.myvipmag.fr CNAME .
 tr.nl.services-sncf.com CNAME .
 tr.nl2.sncf-fidelite.com CNAME .
 tr.nmcm.espmp-cufr.net CNAME .
-tr.notification-gdpr.bnpparibas-pf.fr CNAME .
-tr.notification-gdpr.cafineo.fr CNAME .
-tr.notification-gdpr.cofica.fr CNAME .
-tr.notification-gdpr.cofinoga.fr CNAME .
-tr.notification-gdpr.credit-moderne.fr CNAME .
-tr.notification-gdpr.domofinance.fr CNAME .
 tr.notification-gdpr.loisirs-finance.fr CNAME .
-tr.notification-gdpr.norrsken.fr CNAME .
 tr.notification-gdpr.personal-finance-location.bnpparibas CNAME .
 tr.notification.cafineo.fr CNAME .
 tr.notification.cdiscount.com CNAME .
@@ -968,6 +959,7 @@ tr.politicoevents.eu CNAME .
 tr.politicolive.eu CNAME .
 tr.politicomarketing.eu CNAME .
 tr.portail.afpa.fr CNAME .
+tr.presupuesto-b2b.es CNAME .
 tr.prevention.harmonie-mutuelle.fr CNAME .
 tr.preventivo.risparmiazienda.it CNAME .
 tr.pro-renov.be CNAME .

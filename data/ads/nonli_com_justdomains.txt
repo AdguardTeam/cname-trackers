@@ -1,5 +1,6 @@
 #
 # Company name: nonli.com
+c.leparisien.fr
 go.3ds.com
 go.france24.com
 go.letelegramme.fr
@@ -8,6 +9,8 @@ go.meretmarine.com
 go.publicsenat.fr
 go.rfi.fr
 go.solidworks.com
+in.h24.news
+it.h24.news
 l.20minutes.fr
 l.actu.fr
 l.africabusinessplus.com

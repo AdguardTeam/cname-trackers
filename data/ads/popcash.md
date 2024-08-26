@@ -44,6 +44,7 @@
 | assets-v2.northsidesun.com | bs-adserver.b-cdn.net |
 | avemariaas.vmrcommunications.com | bs-adserver.b-cdn.net |
 | carlsonmedia.streetinteractive.com | bs-adserver.b-cdn.net |
+| connected.ashrae.org | bs-adserver.b-cdn.net |
 | daily.yubanet.com | bs-adserver.b-cdn.net |
 | floorforce.streetinteractive.com | bs-adserver.b-cdn.net |
 | gemtun.ctnewsjunkie.com | bs-adserver.b-cdn.net |
@@ -79,6 +80,7 @@
 | sponsors.teethtalkgirl.com | bs-adserver.b-cdn.net |
 | sponsors.vvng.com | bs-adserver.b-cdn.net |
 | support-v2.sweetwaternow.com | bs-adserver.b-cdn.net |
+| supporters.redbankgreen.com | bs-adserver.b-cdn.net |
 | consent.cookiefirst.com | consent.b-cdn.net |
 | 1.bunkr-cache.se | core-apps.b-cdn.net |
 | bcdn.cpmstar.com | cpmstar.b-cdn.net |
@@ -200,7 +202,6 @@
 | boar.indieweb.org | deprecated-custom-domains.b-cdn.net |
 | boar.kostholdsveilederen.no | deprecated-custom-domains.b-cdn.net |
 | bobcat.pronounce.technology | deprecated-custom-domains.b-cdn.net |
-| bobcat.pushplay.nl | deprecated-custom-domains.b-cdn.net |
 | bobcat.snapshooter.io | deprecated-custom-domains.b-cdn.net |
 | booby.deanyeong.com | deprecated-custom-domains.b-cdn.net |
 | boom.laravel.io | deprecated-custom-domains.b-cdn.net |
@@ -673,6 +674,7 @@
 | monkey.colinjohnston.com | deprecated-custom-domains.b-cdn.net |
 | monkey.compulsivo.co | deprecated-custom-domains.b-cdn.net |
 | moose.cloverlearning.com | deprecated-custom-domains.b-cdn.net |
+| mosquito.birbs.art | deprecated-custom-domains.b-cdn.net |
 | mosquito.iamamandaperez.com | deprecated-custom-domains.b-cdn.net |
 | mosquito.nooraldiyar.com | deprecated-custom-domains.b-cdn.net |
 | mosquito.zero.io | deprecated-custom-domains.b-cdn.net |
@@ -810,7 +812,6 @@
 | rhinoceros.codeagain.com | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.krieger.io | deprecated-custom-domains.b-cdn.net |
 | rhinoceros.valeriaborgese.it | deprecated-custom-domains.b-cdn.net |
-| rhinoceros.wus.life | deprecated-custom-domains.b-cdn.net |
 | roadrunner.ausmv.com.au | deprecated-custom-domains.b-cdn.net |
 | rodent.kevindendievel.com | deprecated-custom-domains.b-cdn.net |
 | rodent.livelinor.dk | deprecated-custom-domains.b-cdn.net |
@@ -951,7 +952,6 @@
 | tortoise.mdx.one | deprecated-custom-domains.b-cdn.net |
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
-| treefrog.buyinsulin.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
 | treefrog.tschmeisser.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.walkingwithdaddy.com | deprecated-custom-domains.b-cdn.net |

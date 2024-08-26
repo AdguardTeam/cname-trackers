@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724054430953        ; Serial
+           1724659207404        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -414,6 +414,7 @@ my.weplayhandball.bg CNAME .
 my.weplayhandball.ch CNAME .
 my.weplayhandball.cz CNAME .
 my.weplayhandball.de CNAME .
+my.weplayhandball.es CNAME .
 my.weplayhandball.eu CNAME .
 my.weplayhandball.gr CNAME .
 my.weplayhandball.hu CNAME .
@@ -562,6 +563,7 @@ partner.hoska-tour.cz CNAME .
 partner.hothousecucumber.com CNAME .
 partner.hubnu.online CNAME .
 partner.hubnutimarija.cz CNAME .
+partner.hunter.games CNAME .
 partner.idoklad.cz CNAME .
 partner.investinslovakia.eu CNAME .
 partner.iodesign.cz CNAME .
@@ -595,6 +597,7 @@ partner.legalni-konopi.cz CNAME .
 partner.lehatkapropsy.cz CNAME .
 partner.lemurak.cz CNAME .
 partner.lenkahomeopatie.cz CNAME .
+partner.levanduloveudoli.cz CNAME .
 partner.liberec-ubytovani.cz CNAME .
 partner.lidajirickova.cz CNAME .
 partner.ligsuniversity.cz CNAME .
@@ -620,7 +623,6 @@ partner.mojeluha.cz CNAME .
 partner.mojetonery.sk CNAME .
 partner.mooda.cz CNAME .
 partner.mooselife.cz CNAME .
-partner.moringacaribbean.eu CNAME .
 partner.motoobchod.cz CNAME .
 partner.muffik.cz CNAME .
 partner.muffik.eu CNAME .
@@ -919,7 +921,6 @@ spoluprace.eroticstore.cz CNAME .
 spoluprace.galaxy.cz CNAME .
 spoluprace.h2world.store CNAME .
 spoluprace.hyla.cz CNAME .
-spoluprace.interbohemia.cz CNAME .
 spoluprace.janitaurbanova.cz CNAME .
 spoluprace.luxusnipradlo.cz CNAME .
 spoluprace.m-soft.cz CNAME .

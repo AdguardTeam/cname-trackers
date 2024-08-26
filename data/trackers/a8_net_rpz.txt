@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724054430953        ; Serial
+           1724659207404        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -91,7 +91,6 @@ a8.denwa-hikari.com CNAME .
 a8.denwa-kaisen.jp CNAME .
 a8.denwa-kanyuken.com CNAME .
 a8.diakaimasu.jp CNAME .
-a8.direia-to.net CNAME .
 a8.doctorstretch.com CNAME .
 a8.dolcibolle.com CNAME .
 a8.drinco.jp CNAME .
@@ -366,6 +365,7 @@ a8.www.nicosuma.com CNAME .
 a8.www.retrospect.co.jp CNAME .
 a8.www.seesaa.co.jp CNAME .
 a8.www.smart-factor.co.jp CNAME .
+a8.www.suaoki.jp CNAME .
 a8.xn--google-873exa8m6161dbbyb.net CNAME .
 a8.xn--y8jd4aybzqd.jp CNAME .
 a8.yakumatch.com CNAME .
@@ -708,6 +708,7 @@ a8clk.www.daiohs.com CNAME .
 a8clk.www.doicoffee.com CNAME .
 a8clk.www.duskin-chiyoda.com CNAME .
 a8clk.www.duskin-hozumi.co.jp CNAME .
+a8clk.www.duskin-hozumi.com CNAME .
 a8clk.www.duskin-hozumi.jp CNAME .
 a8clk.www.e87.com CNAME .
 a8clk.www.fitnessshop.jp CNAME .
@@ -918,7 +919,6 @@ a8cv.fukuoka-factoring.net CNAME .
 a8cv.fundrop.jp CNAME .
 a8cv.futurefinder.net CNAME .
 a8cv.fxtrade.co.jp CNAME .
-a8cv.gaiasign.co.jp CNAME .
 a8cv.gaikokujin-support.com CNAME .
 a8cv.gaikouexterior-partners.jp CNAME .
 a8cv.gakuen.omobic.com CNAME .
@@ -1151,6 +1151,7 @@ a8cv.sanix.jp CNAME .
 a8cv.sankyo-fs.jp CNAME .
 a8cv.saraschool.net CNAME .
 a8cv.scheeme.com CNAME .
+a8cv.scom-f.jp CNAME .
 a8cv.se-navi.jp CNAME .
 a8cv.second-hand.jp CNAME .
 a8cv.secure.sakura.ad.jp CNAME .
@@ -1377,6 +1378,7 @@ ad.kirara-support.jp CNAME .
 ad.magokoro-care-shoku.com CNAME .
 ad.rejichoice.jp CNAME .
 ad.shinjuku-mens-chuoh.com CNAME .
+ad.xn--o9jem5iv41o982db8k.jp CNAME .
 ada8-2.ampleur.jp CNAME .
 ada8.ampleur.jp CNAME .
 ads.dandelionchocolate.jp CNAME .
@@ -1419,6 +1421,7 @@ clk.liberty-e.com CNAME .
 clk.wagon-hire.com CNAME .
 clkcv.biglobehikari-kaisen.com CNAME .
 clkcv.livede55.com CNAME .
+complete.smilecbd.jp CNAME .
 contact.kdg-yobi.com CNAME .
 cosme.caseepo.jp CNAME .
 cp.cp.twendee.jp CNAME .
@@ -1535,7 +1538,6 @@ tag.minimaid.co.jp CNAME .
 test.shigoto-web.com CNAME .
 test.zeus-wifi.jp CNAME .
 testa8wifi.dokoyorimo.com CNAME .
-thanks.hubspaces.jp CNAME .
 thanks.olivesitter.com CNAME .
 thanks.tsubaki-musicschool.com CNAME .
 track-v4.ipadpresence.com CNAME .

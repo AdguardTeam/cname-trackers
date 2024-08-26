@@ -10,8 +10,6 @@
 ||sms.gestion.cetelem.fr^
 ||sms.news.allopneus.com^
 ||t8.mailperformance.com^
-||tr.3ou4xcb.cetelem.fr^
-||tr.3xcb.cofinoga.fr^
 ||tr.aasi.espmp-agfr.net^
 ||tr.abo.cotemaison.fr^
 ||tr.account.np6.com^
@@ -899,14 +897,7 @@
 ||tr.nl.services-sncf.com^
 ||tr.nl2.sncf-fidelite.com^
 ||tr.nmcm.espmp-cufr.net^
-||tr.notification-gdpr.bnpparibas-pf.fr^
-||tr.notification-gdpr.cafineo.fr^
-||tr.notification-gdpr.cofica.fr^
-||tr.notification-gdpr.cofinoga.fr^
-||tr.notification-gdpr.credit-moderne.fr^
-||tr.notification-gdpr.domofinance.fr^
 ||tr.notification-gdpr.loisirs-finance.fr^
-||tr.notification-gdpr.norrsken.fr^
 ||tr.notification-gdpr.personal-finance-location.bnpparibas^
 ||tr.notification.cafineo.fr^
 ||tr.notification.cdiscount.com^
@@ -957,6 +948,7 @@
 ||tr.politicolive.eu^
 ||tr.politicomarketing.eu^
 ||tr.portail.afpa.fr^
+||tr.presupuesto-b2b.es^
 ||tr.prevention.harmonie-mutuelle.fr^
 ||tr.preventivo.risparmiazienda.it^
 ||tr.pro-renov.be^

@@ -161,6 +161,7 @@ cookies.jll.com.mx
 cookies.jll.com.my
 cookies.jll.com.ph
 cookies.jll.com.sg
+cookies.jll.com.tr
 cookies.jll.cz
 cookies.jll.de
 cookies.jll.es

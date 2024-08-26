@@ -1,4 +1,5 @@
 {
+  "c.leparisien.fr": "non.li",
   "go.3ds.com": "tls.non.li",
   "go.france24.com": "tls.non.li",
   "go.letelegramme.fr": "tls.non.li",
@@ -7,6 +8,8 @@
   "go.publicsenat.fr": "tls.non.li",
   "go.rfi.fr": "tls-rfi.non.li",
   "go.solidworks.com": "tls.non.li",
+  "in.h24.news": "tls.non.li",
+  "it.h24.news": "tls.non.li",
   "l.20minutes.fr": "tls.non.li",
   "l.actu.fr": "tls.non.li",
   "l.africabusinessplus.com": "tls.non.li",

@@ -117,7 +117,6 @@
 ||boar.indieweb.org^
 ||boar.kostholdsveilederen.no^
 ||bobcat.pronounce.technology^
-||bobcat.pushplay.nl^
 ||bobcat.snapshooter.io^
 ||booby.deanyeong.com^
 ||boom.laravel.io^
@@ -587,6 +586,7 @@
 ||monkey.colinjohnston.com^
 ||monkey.compulsivo.co^
 ||moose.cloverlearning.com^
+||mosquito.birbs.art^
 ||mosquito.iamamandaperez.com^
 ||mosquito.nooraldiyar.com^
 ||mosquito.zero.io^
@@ -724,7 +724,6 @@
 ||rhinoceros.codeagain.com^
 ||rhinoceros.krieger.io^
 ||rhinoceros.valeriaborgese.it^
-||rhinoceros.wus.life^
 ||roadrunner.ausmv.com.au^
 ||rodent.kevindendievel.com^
 ||rodent.livelinor.dk^
@@ -798,6 +797,7 @@
 ||spoonbill.shawnprice.com^
 ||squid.adart.cc^
 ||squid.antevo.com.au^
+||squirrel.cobaltconnect.com^
 ||squirrel.laravel-mix.com^
 ||starfish.taskflow.io^
 ||starman.usefathom.com^
@@ -862,7 +862,6 @@
 ||tortoise.mdx.one^
 ||toucan.ateliermilky.com^
 ||toucan.the-faithful.com^
-||treefrog.buyinsulin.com^
 ||treefrog.kaffeknappen.no^
 ||treefrog.tschmeisser.com^
 ||treefrog.walkingwithdaddy.com^
@@ -952,7 +951,6 @@
 ||porcupine.reminyborg.com^
 ||prawn.inchperfect.com^
 ||raven.omamao.ch^
-||squirrel.cobaltconnect.com^
 ||tapir.albertaguardtraining.ca^
 ||tigershark.hasanahmad.ca^
 ||vulture.bettershore.com^

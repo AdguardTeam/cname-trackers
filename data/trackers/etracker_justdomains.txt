@@ -55,6 +55,7 @@ esub.online-batterien.at
 esub.online-batterien.de
 esub.solarshopaustria.at
 esub.solarspeicher24.de
+esub.staplerbatterie.center
 et.juskys.de
 stats.bodenverkauf.de
 stats.ekd.de

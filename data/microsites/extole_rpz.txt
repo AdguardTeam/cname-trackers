@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724054430953        ; Serial
+           1724659207404        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -94,6 +94,7 @@ refer.proflowers.com CNAME .
 refer.purchasingpower.com CNAME .
 refer.roadrunnersports.com CNAME .
 refer.sage.com CNAME .
+refer.seniorhelpers.com CNAME .
 refer.shoesforcrews.com CNAME .
 refer.silvercar.com CNAME .
 refer.solarwinds.com CNAME .
@@ -139,7 +140,6 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -381,9 +381,7 @@ refer.starfurniture.com CNAME .
 refer.steelseries.com CNAME .
 refer.stopandshop.com CNAME .
 refer.striderite.com CNAME .
-refer.studentuniverse.co.uk CNAME .
 refer.studentuniverse.com CNAME .
-refer.studentuniverse.com.au CNAME .
 refer.sugarandjade.com CNAME .
 refer.sundancevacations.com CNAME .
 refer.swansonvitamins.com CNAME .
@@ -418,7 +416,6 @@ refer.vitaminpacks.com CNAME .
 refer.vitaminshoppe.com CNAME .
 refer.washtrust.com CNAME .
 refer.whitehouseblackmarket.com CNAME .
-refer.windsorstore.com CNAME .
 refer.wine.com CNAME .
 refer.wolverine.com CNAME .
 refer.wrangler.com CNAME .
@@ -438,6 +435,7 @@ referral.ammunitiondepot.com CNAME .
 referral.bluehost.com CNAME .
 referral.cledepeaubeaute.com CNAME .
 referral.drunkelephant.com CNAME .
+referral.pellaofdfw.com CNAME .
 referral.servicechannel.com CNAME .
 referral.shiseido.com CNAME .
 referralrewards.brightspeed.com CNAME .
@@ -549,6 +547,7 @@ share.greenlightcard.com CNAME .
 share.greenvilleonline.com CNAME .
 share.gruntstyle.com CNAME .
 share.gxvebeauty.com CNAME .
+share.havenwellwithin.com CNAME .
 share.hicapitalize.com CNAME .
 share.hotwire.com CNAME .
 share.htrnews.com CNAME .
@@ -579,7 +578,6 @@ share.lifedna.com CNAME .
 share.livongo.com CNAME .
 share.lovesac.com CNAME .
 share.maccosmetics.com.au CNAME .
-share.macsales.com CNAME .
 share.maidpro.com CNAME .
 share.mamabearlegalforms.com CNAME .
 share.mansfieldnewsjournal.com CNAME .
@@ -719,6 +717,7 @@ www.refer.xfinity.com CNAME .
 www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .

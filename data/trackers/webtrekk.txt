@@ -354,6 +354,7 @@
 ||web.slimjoy.com^
 ||web.slimjoy.cz^
 ||web.slimjoy.dk^
+||web.slimjoy.es^
 ||web.slimjoy.it^
 ||web.slimjoy.ro^
 ||web.slimjoy.se^

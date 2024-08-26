@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724054430953        ; Serial
+           1724659207404        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,7 +33,6 @@ analytics.hambleden-capital.com CNAME .
 analytics.hiome.com CNAME .
 analytics.kerns.co CNAME .
 analytics.lifestyledemocracy.com CNAME .
-analytics.littlekingdesigns.com CNAME .
 analytics.lunge.de CNAME .
 analytics.mambaui.com CNAME .
 analytics.mc500.info CNAME .
@@ -403,6 +402,7 @@ stats.carrot2.org CNAME .
 stats.carrotsearch.com CNAME .
 stats.caseydunham.com CNAME .
 stats.cassidyjames.com CNAME .
+stats.castingdepot.com CNAME .
 stats.catholicluv.com CNAME .
 stats.centralswindonnorth-pc.gov.uk CNAME .
 stats.cfcasts.com CNAME .
@@ -516,7 +516,6 @@ stats.galleriacortona.com CNAME .
 stats.geobox.app CNAME .
 stats.gesund-vital-lebensfreude.com CNAME .
 stats.getdoks.org CNAME .
-stats.gethyas.com CNAME .
 stats.getpickaxe.com CNAME .
 stats.ghinda.com CNAME .
 stats.glassmountains.co.uk CNAME .
@@ -649,6 +648,7 @@ stats.mesenvies.fr CNAME .
 stats.metamorphium.com CNAME .
 stats.michaeloliver.dev CNAME .
 stats.micv.works CNAME .
+stats.missionmet.com CNAME .
 stats.missionrabies.com CNAME .
 stats.moco-comics.com CNAME .
 stats.mostlycoding.com.au CNAME .
