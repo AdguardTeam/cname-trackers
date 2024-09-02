@@ -15,6 +15,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | chameleon.ryanmettler.com | 77980.bodis.com |
+| flea.artisan.school | 77980.bodis.com |
 | 4ke5b4ila.codedge.de | deprecated-custom-domains.b-cdn.net |
 | 7wrxo2xh.iriscreative.co | deprecated-custom-domains.b-cdn.net |
 | 8inhjmd.usefathom.com | deprecated-custom-domains.b-cdn.net |
@@ -288,7 +289,6 @@
 | dolphin.sfelc.com | deprecated-custom-domains.b-cdn.net |
 | donkey.aerzteteam-luppe.de | deprecated-custom-domains.b-cdn.net |
 | donkey.annieswinecottagepowell.com | deprecated-custom-domains.b-cdn.net |
-| donkey.bahr.dev | deprecated-custom-domains.b-cdn.net |
 | donkey.elegantmusicgroup.com | deprecated-custom-domains.b-cdn.net |
 | donkey.guggenbichler.co.at | deprecated-custom-domains.b-cdn.net |
 | donkey.hackoregon.org | deprecated-custom-domains.b-cdn.net |
@@ -424,7 +424,6 @@
 | harrier.jasonsantamaria.com | deprecated-custom-domains.b-cdn.net |
 | harrier.progress.fyi | deprecated-custom-domains.b-cdn.net |
 | harrier.scdamerica.com.au | deprecated-custom-domains.b-cdn.net |
-| hawk.affio.co.uk | deprecated-custom-domains.b-cdn.net |
 | hawk.makroskop.eu | deprecated-custom-domains.b-cdn.net |
 | hawk.mjsarfatti.com | deprecated-custom-domains.b-cdn.net |
 | hedgehog.fightforthefuture.org | deprecated-custom-domains.b-cdn.net |
@@ -523,7 +522,6 @@
 | lemming.nicolasmenard.com | deprecated-custom-domains.b-cdn.net |
 | lemming.vivian.do | deprecated-custom-domains.b-cdn.net |
 | lemur.a-and-a-trucking.com | deprecated-custom-domains.b-cdn.net |
-| lemur.prinsdalpizza.no | deprecated-custom-domains.b-cdn.net |
 | leopard.davidlindahlphoto.com | deprecated-custom-domains.b-cdn.net |
 | leopard.laszlo.cloud | deprecated-custom-domains.b-cdn.net |
 | leopard.ui-snippets.dev | deprecated-custom-domains.b-cdn.net |
@@ -570,7 +568,6 @@
 | mandrill.yellowfruit.co | deprecated-custom-domains.b-cdn.net |
 | mantaray.bullshitgoggles.com | deprecated-custom-domains.b-cdn.net |
 | marlin.firstline.org | deprecated-custom-domains.b-cdn.net |
-| marmoset.acboforegon.org | deprecated-custom-domains.b-cdn.net |
 | marmoset.easycolour.app | deprecated-custom-domains.b-cdn.net |
 | marmoset.rocketlog.app | deprecated-custom-domains.b-cdn.net |
 | marmot.hippiemodernism.com | deprecated-custom-domains.b-cdn.net |
@@ -594,7 +591,6 @@
 | minnow.tapas-software.net | deprecated-custom-domains.b-cdn.net |
 | mite.cotinga.io | deprecated-custom-domains.b-cdn.net |
 | mite.tetrameros.com | deprecated-custom-domains.b-cdn.net |
-| mockingbir.sgfunited.com | deprecated-custom-domains.b-cdn.net |
 | mole.bteam.co | deprecated-custom-domains.b-cdn.net |
 | mole.bubblefoundation.org.uk | deprecated-custom-domains.b-cdn.net |
 | mole.dansksejlunion.dk | deprecated-custom-domains.b-cdn.net |
@@ -612,6 +608,7 @@
 | monkey.compulsivo.co | deprecated-custom-domains.b-cdn.net |
 | moose.cloverlearning.com | deprecated-custom-domains.b-cdn.net |
 | moose.octo.app | deprecated-custom-domains.b-cdn.net |
+| mosquito.birbs.art | deprecated-custom-domains.b-cdn.net |
 | mosquito.iamamandaperez.com | deprecated-custom-domains.b-cdn.net |
 | mosquito.nooraldiyar.com | deprecated-custom-domains.b-cdn.net |
 | mosquito.zero.io | deprecated-custom-domains.b-cdn.net |
@@ -969,7 +966,6 @@
 | yak.auclantis.com | deprecated-custom-domains.b-cdn.net |
 | yak.flutterblog.net | deprecated-custom-domains.b-cdn.net |
 | yak.gregsullivan.com | deprecated-custom-domains.b-cdn.net |
-| yak.withlindy.com | deprecated-custom-domains.b-cdn.net |
 | 4ke5b4ila.codedge.de | starman.fathomdns.com |
 | 7wrxo2xh.iriscreative.co | starman.fathomdns.com |
 | 8inhjmd.usefathom.com | starman.fathomdns.com |
@@ -1234,7 +1230,6 @@
 | dolphin.sfelc.com | starman.fathomdns.com |
 | donkey.aerzteteam-luppe.de | starman.fathomdns.com |
 | donkey.annieswinecottagepowell.com | starman.fathomdns.com |
-| donkey.bahr.dev | starman.fathomdns.com |
 | donkey.elegantmusicgroup.com | starman.fathomdns.com |
 | donkey.guggenbichler.co.at | starman.fathomdns.com |
 | donkey.hackoregon.org | starman.fathomdns.com |
@@ -1299,7 +1294,6 @@
 | flamingo.abihome.de | starman.fathomdns.com |
 | flamingo.apatonsrompus.com | starman.fathomdns.com |
 | flamingo.stacking-club.com | starman.fathomdns.com |
-| flea.artisan.school | starman.fathomdns.com |
 | flea.elbertsnaturalfoods.com | starman.fathomdns.com |
 | flea.welikeoliver.com | starman.fathomdns.com |
 | fly.foggybottomfarm.org | starman.fathomdns.com |
@@ -1370,7 +1364,6 @@
 | harrier.jasonsantamaria.com | starman.fathomdns.com |
 | harrier.progress.fyi | starman.fathomdns.com |
 | harrier.scdamerica.com.au | starman.fathomdns.com |
-| hawk.affio.co.uk | starman.fathomdns.com |
 | hawk.makroskop.eu | starman.fathomdns.com |
 | hawk.mjsarfatti.com | starman.fathomdns.com |
 | hedgehog.fightforthefuture.org | starman.fathomdns.com |
@@ -1515,7 +1508,6 @@
 | mandrill.yellowfruit.co | starman.fathomdns.com |
 | mantaray.bullshitgoggles.com | starman.fathomdns.com |
 | marlin.firstline.org | starman.fathomdns.com |
-| marmoset.acboforegon.org | starman.fathomdns.com |
 | marmoset.easycolour.app | starman.fathomdns.com |
 | marmoset.rocketlog.app | starman.fathomdns.com |
 | marmot.hippiemodernism.com | starman.fathomdns.com |
@@ -1904,4 +1896,3 @@
 | yak.auclantis.com | starman.fathomdns.com |
 | yak.flutterblog.net | starman.fathomdns.com |
 | yak.gregsullivan.com | starman.fathomdns.com |
-| yak.withlindy.com | starman.fathomdns.com |

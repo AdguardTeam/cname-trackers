@@ -19,6 +19,7 @@ tr.actiflip.devisdirect.com
 tr.activeprospects.info
 tr.actu-companeo.com
 tr.actu.bricodepot.com
+tr.actu.infopro-digital-media.fr
 tr.actu.reunica.com
 tr.actu.rmcbfmplay.com
 tr.actualites.bfmtv.com
@@ -570,7 +571,6 @@ tr.lesmarques.envie-de-bien-manger.com
 tr.lesmarquesenviedebienmanger.fr
 tr.lettre.dechets-infos.com
 tr.lettre.helianthal.fr
-tr.lettre.lecho-circulaire.com
 tr.leyravaud.devisdirect.com
 tr.liberation.espmp-aufr.net
 tr.livrephoto.espmp-aufr.net
@@ -828,7 +828,6 @@ tr.news.supercasino.fr
 tr.news.teklifim.pro
 tr.news.thelist-emirates.fr
 tr.news.themedtechforum.eu
-tr.news.tiptel.fr
 tr.news.toocampmail.com
 tr.news.toute-la-franchise.com
 tr.news.triskalia.fr
@@ -897,8 +896,6 @@ tr.nl.myvipmag.fr
 tr.nl.services-sncf.com
 tr.nl2.sncf-fidelite.com
 tr.nmcm.espmp-cufr.net
-tr.notification-gdpr.loisirs-finance.fr
-tr.notification-gdpr.personal-finance-location.bnpparibas
 tr.notification.cafineo.fr
 tr.notification.cdiscount.com
 tr.notification.cetelem.fr

@@ -222,6 +222,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -411,6 +412,7 @@
     * opploans.extole.io
     * orbitz.extole.io
     * origins.extole.io
+    * owc.extole.io
     * pacific-service.extole.io
     * pacsafe.extole.io
     * pacu.extole.io
@@ -576,6 +578,7 @@
     * wrangler.extole.io
     * xfinity.extole.io
     * zenbusiness.extole.io
+    * zentrointernet.extole.io
     * zenwork.extole.io
     * zinli.extole.io
     * zipcar-ca.extole.io
@@ -731,6 +734,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -1046,6 +1050,7 @@
 | refer.orbitz.com | orbitz.extole.io |
 | refer.orientaltrading.com | oriental-trading.extole.com |
 | share.origins.com | origins.extole.io |
+| share.macsales.com | owc.extole.io |
 | refer.ofx.com | ozforex-au.extole.com |
 | refer.ozforex.com.au | ozforex-au.extole.com |
 | refer.nzforex.co.nz | ozforex-nz.extole.com |
@@ -1232,6 +1237,7 @@
 | share.bvwines.com | tweglobal.extole.io |
 | share.penfolds.com | tweglobal.extole.io |
 | share.stagsleap.com | tweglobal.extole.io |
+| share.treasurywineevent.com | tweglobal.extole.io |
 | refer.twisthair.com | twisthair.extole.io |
 | em1476.princesscruises.com | u82658.wl159.sendgrid.net |
 | em225.codecademy.com | u82658.wl159.sendgrid.net |
@@ -1300,6 +1306,7 @@
 | xtl._domainkey.skillshare.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
 | share.zenbusiness.com | zenbusiness.extole.io |
+| refer.zentrointernet.com | zentrointernet.extole.io |
 | refer.1099online.com | zenwork.extole.io |
 | refer.tax1099.com | zenwork.extole.io |
 | promos.zinli.com | zinli.extole.io |

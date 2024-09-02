@@ -129,6 +129,7 @@ acq.discover.com
 businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
+em225.codecademy.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -410,6 +411,7 @@ refer.wolverine.com
 refer.wrangler.com
 refer.xfinity.com
 refer.zenhaven.com
+refer.zentrointernet.com
 refer.zipcar.ca
 refer.zipcar.com
 refer.zomasleep.com
@@ -567,6 +569,7 @@ share.lifedna.com
 share.livongo.com
 share.lovesac.com
 share.maccosmetics.com.au
+share.macsales.com
 share.maidpro.com
 share.mamabearlegalforms.com
 share.mansfieldnewsjournal.com
@@ -682,6 +685,7 @@ share.tommy.com
 share.tonies.com
 share.trafalgar.com
 share.travelzoo.com
+share.treasurywineevent.com
 share.truckstop.com
 share.uk.theory.com
 share.unchartedsociety.com
@@ -706,7 +710,6 @@ www.refer.xfinity.com
 www.referessentials.com
 www.referquickbooks.com
 em1476.princesscruises.com
-em225.codecademy.com
 em3904.skillshare.com
 em4367.raf-studentloans.discover.com
 em8561.go2bank.com

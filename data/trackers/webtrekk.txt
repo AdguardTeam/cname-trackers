@@ -281,6 +281,7 @@
 ||web.e.pvccladding.com^
 ||web.e.soakaways.com^
 ||web.email.farrow-ball.com^
+||web.email.mishimoto.co.uk^
 ||web.email.pizzaexpress.com^
 ||web.email.pmtonline.co.uk^
 ||web.email.superga.co.uk^
@@ -306,6 +307,7 @@
 ||web.mapp.edenred.it^
 ||web.mapp.ilgiardinodeilibri.it^
 ||web.mapp.naturzeit.com^
+||web.mapp.ozone.bg^
 ||web.mapp.skousen.dk^
 ||web.mapp.skousen.no^
 ||web.mapp.tretti.se^

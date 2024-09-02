@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -103,12 +103,14 @@ utiq.hallo-muenchen.de CNAME .
 utiq.handelsblatt.com CNAME .
 utiq.heftig.de CNAME .
 utiq.helpster.de CNAME .
+utiq.hersfelder-zeitung.de CNAME .
 utiq.hna.de CNAME .
 utiq.hoy.es CNAME .
 utiq.huelva24.com CNAME .
 utiq.ideal.es CNAME .
 utiq.informacion.es CNAME .
 utiq.ingame.de CNAME .
+utiq.ingolstadt-today.de CNAME .
 utiq.jux.news CNAME .
 utiq.kreisbote.de CNAME .
 utiq.kreiszeitung.de CNAME .
@@ -164,6 +166,7 @@ utiq.sauerlandkurier.de CNAME .
 utiq.schlager.de CNAME .
 utiq.science-et-vie.com CNAME .
 utiq.sensacine.com CNAME .
+utiq.serienjunkies.de CNAME .
 utiq.soester-anzeiger.de CNAME .
 utiq.speisekarte.de CNAME .
 utiq.sport.es CNAME .
@@ -174,6 +177,7 @@ utiq.sueddeutsche.de CNAME .
 utiq.superdeporte.es CNAME .
 utiq.t-online.de CNAME .
 utiq.tagesspiegel.de CNAME .
+utiq.tatort-fans.de CNAME .
 utiq.techbook.de CNAME .
 utiq.telekom.de CNAME .
 utiq.thueringen24.de CNAME .
@@ -191,6 +195,7 @@ utiq.vitonica.com CNAME .
 utiq.voici.fr CNAME .
 utiq.wa.de CNAME .
 utiq.welt.de CNAME .
+utiq.werra-rundschau.de CNAME .
 utiq.wetterauer-zeitung.de CNAME .
 utiq.wiwo.de CNAME .
 utiq.wlz-online.de CNAME .

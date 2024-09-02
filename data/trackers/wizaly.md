@@ -73,7 +73,6 @@
     * tkairfrance.wizaly.com
     * tklolivierfr.wizaly.com
     * tkmsccruisescom.wizaly.com
-    * wiz_mdhearingaid_com.wizaly.com
     * wiz_meilleurtaux_com.wizaly.com
     * wz-allianz-fr.wizaly.com
 
@@ -256,6 +255,5 @@
 | tk.klm.com | tkairfrance.wizaly.com |
 | tk.lolivier.fr | tklolivierfr.wizaly.com |
 | tk.msccruises.com | tkmsccruisescom.wizaly.com |
-| wiz.empowerhearing.com | wiz_mdhearingaid_com.wizaly.com |
 | t.wiz.meilleurtaux.com | wiz_meilleurtaux_com.wizaly.com |
 | wz.allianz.fr | wz-allianz-fr.wizaly.com |

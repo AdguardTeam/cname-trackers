@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,6 +28,7 @@ et.electronic4you.hr CNAME .
 et.electronic4you.si CNAME .
 et.majdic.at CNAME .
 et.pns24.de CNAME .
+etd.wackerneusongroup.com CNAME .
 ets.verivox.com CNAME .
 ferthu.seyffer.shop CNAME .
 js.edingershops.de CNAME .
@@ -47,6 +48,7 @@ stats.tirolerjobs.at CNAME .
 stats.umziehen.de CNAME .
 stats.united-domains.de CNAME .
 stats.wienerjobs.at CNAME .
+track.dictum-handwerksgalerie.de CNAME .
 track.dictum-shop.de CNAME .
 track.dictum.com CNAME .
 track.karlstorz.com CNAME .
@@ -70,4 +72,6 @@ esub.staplerbatterie.center CNAME .
 et.juskys.de CNAME .
 stats.bodenverkauf.de CNAME .
 stats.ekd.de CNAME .
+stats.hoeping.de CNAME .
 stats.maschinenprofi.de CNAME .
+www.visitormotion.com CNAME .

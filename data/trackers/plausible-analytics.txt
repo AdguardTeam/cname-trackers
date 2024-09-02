@@ -420,7 +420,6 @@
 ||stats.cremashop.se^
 ||stats.crewebo.de^
 ||stats.crypdit.com^
-||stats.cryptmail.io^
 ||stats.curbnumberpro.com^
 ||stats.curtiscummings.me^
 ||stats.dailyposter.com^
@@ -619,7 +618,6 @@
 ||stats.madethis.gallery^
 ||stats.maferland.com^
 ||stats.magarantie5ans.fr^
-||stats.makerr.market^
 ||stats.maklerupdate.de^
 ||stats.malte-bartels.de^
 ||stats.martinbetz.eu^

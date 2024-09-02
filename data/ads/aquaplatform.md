@@ -18,6 +18,8 @@
     * blulab-delivery.aquaplatform.com
     * cambridge-delivery.aquaplatform.com
     * ceramics-delivery.aquaplatform.com
+    * channelvas-console.aquaplatform.com
+    * channelvas-delivery.aquaplatform.com
     * console.aquaplatform.com
     * consulcesi-delivery.aquaplatform.com
     * consulcesi-static.aquaplatform.com
@@ -115,6 +117,8 @@
 | adv.blulab.net | blulab-delivery.aquaplatform.com |
 | coreads.cambridge.org | cambridge-delivery.aquaplatform.com |
 | servedby.ceramicartsnetwork.org | ceramics-delivery.aquaplatform.com |
+| console.channelvas.com | channelvas-console.aquaplatform.com |
+| servedby.channelvas.com | channelvas-delivery.aquaplatform.com |
 | api.metrike.com | console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
 | static.consulcesi.it | consulcesi-static.aquaplatform.com |
@@ -142,6 +146,7 @@
 | servedby.cincinnatimagazine.com | hourmedia-delivery.aquaplatform.com |
 | servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | servedby.palmbeachmedia.com | hourmedia-delivery.aquaplatform.com |
+| www.servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.greenspring.com | hourmedia-delivery.aquaplatform.com |
 | banners.geminipub.com | hourmedia-static.aquaplatform.com |
 | banners.orangecoast.com | hourmedia-static.aquaplatform.com |
@@ -179,6 +184,7 @@
 | images.addurance.com | platformiq-cdn.aquaplatform.com |
 | images.informatm.com | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
+| static.hollandhortimedia.nl | platformiq-cdn.aquaplatform.com |
 | adserver.infotorg.se | platformiq-del.aquaplatform.com |
 | adserver.marriagetrac.com | platformiq-del.aquaplatform.com |
 | adserver.rtvutrechtreclame.nl | platformiq-del.aquaplatform.com |

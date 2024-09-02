@@ -309,7 +309,6 @@
 | a8.sumai-planet.com | trck.a8.net |
 | a8.sumilena.co.jp | trck.a8.net |
 | a8.tabechoku.com | trck.a8.net |
-| a8.tailorenglish.jp | trck.a8.net |
 | a8.tapp-co.jp | trck.a8.net |
 | a8.taylormadegolf.jp | trck.a8.net |
 | a8.tcha-tcha-japan.com | trck.a8.net |
@@ -647,7 +646,6 @@
 | a8clk.shop.echigofuton.jp | trck.a8.net |
 | a8clk.shop.kitamura.jp | trck.a8.net |
 | a8clk.shop.saraya.com | trck.a8.net |
-| a8clk.shop.shareme.jp | trck.a8.net |
 | a8clk.shop.sunsorit.co.jp | trck.a8.net |
 | a8clk.shop.tanita.co.jp | trck.a8.net |
 | a8clk.sikatoru.com | trck.a8.net |
@@ -745,6 +743,7 @@
 | a8clk1.zkai.co.jp | trck.a8.net |
 | a8clkapply.mycredit.nexuscard.co.jp | trck.a8.net |
 | a8clkcv.lognavi.com | trck.a8.net |
+| a8clkcv.pcr.tokyo-brain.clinic | trck.a8.net |
 | a8clkcv.tcb-beauty.net | trck.a8.net |
 | a8cllk.arahataen.com | trck.a8.net |
 | a8cname.cloudwifi-nc.com | trck.a8.net |
@@ -1348,7 +1347,6 @@
 | acv.auhikari-norikae.com | trck.a8.net |
 | acv.aun-air-wifi.com | trck.a8.net |
 | acv.aun-company.com | trck.a8.net |
-| acv.aun-n-hikari.com | trck.a8.net |
 | acv.aun-softbank-hikari.com | trck.a8.net |
 | acv.biglobe-hikari.net | trck.a8.net |
 | acv.cmf-hikari.net | trck.a8.net |

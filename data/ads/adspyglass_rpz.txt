@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -66,13 +66,16 @@ a.boyjackpot.com CNAME .
 a.broim.xyz CNAME .
 a.buicks.xyz CNAME .
 a.bumog.xyz CNAME .
+a.bynix.xyz CNAME .
 a.cloba.xyz CNAME .
 a.coinhub.wiki CNAME .
 a.craftbeerclub.com.ua CNAME .
 a.cromq.xyz CNAME .
+a.cynem.xyz CNAME .
 a.demba.xyz CNAME .
 a.dhoma.xyz CNAME .
 a.digitalgiftshopping.com CNAME .
+a.dylop.xyz CNAME .
 a.ebolat.xyz CNAME .
 a.evrae.xyz CNAME .
 a.famestporn.com CNAME .
@@ -122,6 +125,7 @@ a.prigo.xyz CNAME .
 a.redd.porn CNAME .
 a.refia.xyz CNAME .
 a.reissue2871.xyz CNAME .
+a.rheinz.online CNAME .
 a.rule34.porn CNAME .
 a.seksohub.com CNAME .
 a.shemale99.com CNAME .
@@ -131,6 +135,7 @@ a.suptube.com CNAME .
 a.teencfnm.com CNAME .
 a.testda.homes CNAME .
 a.tixir.xyz CNAME .
+a.u5lxh1y1pgxy.shop CNAME .
 a.vergu.xyz CNAME .
 a.viralnewsbd.xyz CNAME .
 a.voxar.xyz CNAME .
@@ -238,6 +243,7 @@ asg.faperoni.com CNAME .
 asg.hornygrail.com CNAME .
 asg.irontube.net CNAME .
 asg.laivue.com CNAME .
+asg.mainos.pro CNAME .
 asg.mrporn.online CNAME .
 asg.nude-famous-people.com CNAME .
 asg.page-x.com CNAME .
@@ -272,6 +278,7 @@ avsink3431.fun CNAME .
 avview3431.fun CNAME .
 awrfds3.pornpapa.com CNAME .
 ax4.xmoviesland.com CNAME .
+b.accided.online CNAME .
 b.bengytone.com CNAME .
 b.bloblohub.com CNAME .
 b.carungo.com CNAME .
@@ -313,6 +320,7 @@ bx5.tubemaximum.com CNAME .
 bz-24.fin.ovh CNAME .
 bzcdn.fin.ovh CNAME .
 c.bloblohub.com CNAME .
+c.janged.online CNAME .
 c021b14e0782ad7ef6d74.clicknplay.to CNAME .
 c22x1.xcdn.ovh CNAME .
 c3s.bionestraff.pro CNAME .
@@ -362,6 +370,7 @@ cx6.lastxxxmovies.com CNAME .
 d.3dfetishgirls.com CNAME .
 d.adultporn.tv CNAME .
 d.bloblohub.com CNAME .
+d.reccent.online CNAME .
 daswercd.filasofighit.com CNAME .
 data.bangtubevideos.com CNAME .
 data.streamtape.com CNAME .
@@ -372,6 +381,7 @@ dfbdfh4w3.sanjay44.xyz CNAME .
 dfgw.neigh11.xyz CNAME .
 dg3qtwew.sanjay44.xyz CNAME .
 digiadzone.com CNAME .
+dinejav11.fun CNAME .
 display.cdnbucket.com CNAME .
 dl.4kporn.xxx CNAME .
 dl.hoes.tube CNAME .
@@ -414,6 +424,7 @@ familiar3452.fun CNAME .
 farewell457.fun CNAME .
 faspc.hubhubhub.name CNAME .
 fe34.sieglinde22.xyz CNAME .
+fearjav11.fun CNAME .
 fff.sieglinde22.xyz CNAME .
 fg850ik01.6g0blqi1541polz4n0kjvwo1kjl5tcx30.xyz CNAME .
 fgf3312xcx.sanjay44.xyz CNAME .
@@ -434,6 +445,7 @@ galvanize26.fun CNAME .
 game.starswalker.site CNAME .
 gamecocks24.fun CNAME .
 garbanzos24.fun CNAME .
+gatejav11.fun CNAME .
 gatejav12.fun CNAME .
 gauzelike26.fun CNAME .
 gazehound25.fun CNAME .
@@ -470,6 +482,7 @@ gsa24.giaythethaonuhcm.com CNAME .
 h-ay.com CNAME .
 h.bloblohub.com CNAME .
 h037n.letsporn.com CNAME .
+havejav11.fun CNAME .
 hazicu.hothomefuck.com CNAME .
 headline205.fun CNAME .
 headline3452.fun CNAME .
@@ -514,6 +527,7 @@ io.fapnado.xxx CNAME .
 io.fapnow.xxx CNAME .
 ip176-194.bloblohub.com CNAME .
 irate1x.xyz CNAME .
+ironjav11.fun CNAME .
 isgqw56nfi.zzaqqwecd.lat CNAME .
 ishikawa.steeelm.online CNAME .
 isshi.steeelm.xyz CNAME .
@@ -566,6 +580,7 @@ jx3.freepornobook.com CNAME .
 jyfvt.neigh11.xyz CNAME .
 k.bloblohub.com CNAME .
 kaizzz.xyz CNAME .
+kemaz.xyz CNAME .
 key.sexymovie.name CNAME .
 kicka.xyz CNAME .
 kinktsy.com CNAME .
@@ -593,6 +608,7 @@ m.x-power.info CNAME .
 m.xrum.info CNAME .
 m9xp1.hentaigold.net CNAME .
 maioux.xyz CNAME .
+makejav11.fun CNAME .
 makumva.all-usanomination.com CNAME .
 mamamia.vintageporno.stream CNAME .
 mambus.xyz CNAME .
@@ -678,7 +694,6 @@ okkodoo.com CNAME .
 oldsia.xyz CNAME .
 omission119.fun CNAME .
 onacao.com CNAME .
-ontj.com CNAME .
 opus.sexyxxx.biz CNAME .
 organize3452.fun CNAME .
 ox8.topsexhdvideos.com CNAME .
@@ -748,6 +763,7 @@ quatxio.xyz CNAME .
 question.hot-step-mom.com CNAME .
 quiazo.xyz CNAME .
 quickzo.xyz CNAME .
+quitjav11.fun CNAME .
 quizna.xyz CNAME .
 quote.bloblohub.com CNAME .
 qwe4456133.justthegays.com CNAME .
@@ -772,6 +788,7 @@ rest.sexypornvideo.net CNAME .
 reton.free-porn-videos.org CNAME .
 revolutionary2.fun CNAME .
 rich1x.xyz CNAME .
+riotjav11.fun CNAME .
 rogligh.ehrydnmdoe.com CNAME .
 rosetua.xyz CNAME .
 rs.picmega.com CNAME .
@@ -782,6 +799,7 @@ ryauzo.xyz CNAME .
 s.brada.buzz CNAME .
 s.commissie.online CNAME .
 s.freeporncave.com CNAME .
+s.fuxporn.vip CNAME .
 s.grova.buzz CNAME .
 s.grova.xyz CNAME .
 s.hellporner.com CNAME .
@@ -827,6 +845,8 @@ shaeian.xyz CNAME .
 sharion.xyz CNAME .
 shenzo.xyz CNAME .
 shinep.xyz CNAME .
+showjav11.fun CNAME .
+sidejav11.fun CNAME .
 sis.facesittingbbw.com CNAME .
 sl.edsgcgi11ii1iiwtsbno.online CNAME .
 sl.fsdhbfi2h4932hriegnd111fdsnfl1l.co.za CNAME .
@@ -919,6 +939,7 @@ w.4kporn.xxx CNAME .
 w.love4porn.com CNAME .
 weather.bloblohub.com CNAME .
 wecvhi.ekftei2weudt.info CNAME .
+wingjav11.fun CNAME .
 workable1x.xyz CNAME .
 ww.0prn.com CNAME .
 ww.hoes.tube CNAME .

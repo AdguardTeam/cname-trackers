@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -450,6 +450,7 @@ $TTL 300
 3459205.notifysrv.com CNAME .
 3459455.notify6.com CNAME .
 3459455.notifysrv.com CNAME .
+3461281.notify6.com CNAME .
 3461281.notifysrv.com CNAME .
 3461289.notify6.com CNAME .
 3461289.notifysrv.com CNAME .
@@ -602,6 +603,7 @@ $TTL 300
 3578239.notify6.com CNAME .
 3578241.notify6.com CNAME .
 3578245.notify6.com CNAME .
+3578247.notify6.com CNAME .
 3578253.notifysrv.com CNAME .
 3580293.notifysrv.com CNAME .
 3580393.notify6.com CNAME .
@@ -907,6 +909,7 @@ $TTL 300
 4152268.notify6.com CNAME .
 4152316.notify6.com CNAME .
 4152318.notify6.com CNAME .
+4152322.notify6.com CNAME .
 4152324.notify6.com CNAME .
 4152328.notify6.com CNAME .
 4153216.notify6.com CNAME .
@@ -1086,6 +1089,7 @@ $TTL 300
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
+a.18ramp.com CNAME .
 a.344eva.com CNAME .
 a.addisplaynetwork.com CNAME .
 a.adsession.com CNAME .
@@ -1127,6 +1131,7 @@ admin.redpathmedia.com CNAME .
 admin.shafttraffic.com CNAME .
 admin.trafficbaron.com CNAME .
 admin.trafficfactory.com CNAME .
+admin.vrumeads.com CNAME .
 admin1.notifysrv.com CNAME .
 administration.notifysrv.com CNAME .
 admissions.notifysrv.com CNAME .
@@ -1200,6 +1205,7 @@ rtb.nowsrv.com CNAME .
 rtb.trafficfactory.com CNAME .
 s.18ramp.com CNAME .
 s.344eva.com CNAME .
+s.addisplaynetwork.com CNAME .
 s.adnflow.com CNAME .
 s.adsession.com CNAME .
 s.advantageclicks.net CNAME .
@@ -1251,6 +1257,7 @@ s.elnz01.com CNAME .
 s.elnz02.com CNAME .
 s.elnz03.com CNAME .
 s.elnz11.com CNAME .
+s.elnz21.com CNAME .
 s.elnz23.com CNAME .
 s.etology.com CNAME .
 s.eunow4u.com CNAME .
@@ -1276,6 +1283,7 @@ s.slice.exchange CNAME .
 s.st1net.com CNAME .
 s.stuffserve.com CNAME .
 s.tf4srv.com CNAME .
+s.traffic-gold.com CNAME .
 s.valuemedia-ltd.com CNAME .
 s.vlink6.com CNAME .
 s.vws4brkfst.com CNAME .
@@ -1380,6 +1388,7 @@ www.3250420.notify6.com CNAME .
 www.3254306.notifysrv.com CNAME .
 www.3270262.notifysrv.com CNAME .
 www.3328380.notifysrv.com CNAME .
+www.3351072.notifysrv.com CNAME .
 www.3352256.notify6.com CNAME .
 www.3410343.notify6.com CNAME .
 www.3440153.notify6.com CNAME .
@@ -1387,6 +1396,7 @@ www.3466857.notify6.com CNAME .
 www.3466863.notify6.com CNAME .
 www.3475335.notify6.com CNAME .
 www.3493551.notify6.com CNAME .
+www.3593835.notify6.com CNAME .
 www.3684237.notify6.com CNAME .
 www.3815579.notify6.com CNAME .
 www.3856281.notify6.com CNAME .

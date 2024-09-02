@@ -79,5 +79,6 @@
   "meta-events.yellowstonepark.com": "outside.mr-in.com",
   "meta-events.yogajournal.com": "outside.mr-in.com",
   "mr-in.beginlearning.com": "homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com",
+  "mr-in.littlepassports.com": "homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com",
   "mr.pinkbike.com": "outside.mr-in.com"
 }

@@ -17,6 +17,7 @@
 ||et.electronic4you.si^
 ||et.majdic.at^
 ||et.pns24.de^
+||etd.wackerneusongroup.com^
 ||ets.verivox.com^
 ||ferthu.seyffer.shop^
 ||js.edingershops.de^
@@ -36,6 +37,7 @@
 ||stats.umziehen.de^
 ||stats.united-domains.de^
 ||stats.wienerjobs.at^
+||track.dictum-handwerksgalerie.de^
 ||track.dictum-shop.de^
 ||track.dictum.com^
 ||track.karlstorz.com^
@@ -59,4 +61,6 @@
 ||et.juskys.de^
 ||stats.bodenverkauf.de^
 ||stats.ekd.de^
+||stats.hoeping.de^
 ||stats.maschinenprofi.de^
+||www.visitormotion.com^

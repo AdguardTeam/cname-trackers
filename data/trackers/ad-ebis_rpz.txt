@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -283,6 +283,7 @@ hokkaidobank.rapi.jp CNAME .
 isebis.takamiclinic.or.jp CNAME .
 isebis.yutoriform.com CNAME .
 itp.phoebebeautyup.com CNAME .
+itpebis03.deep2031.com CNAME .
 itpebis03.recella3d.com CNAME .
 marketing.biz.mynavi.jp CNAME .
 marketing.zwei.com CNAME .

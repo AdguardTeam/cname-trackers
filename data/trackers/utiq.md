@@ -101,12 +101,14 @@
 | utiq.handelsblatt.com | frontend.prod.utiq-aws.net |
 | utiq.heftig.de | frontend.prod.utiq-aws.net |
 | utiq.helpster.de | frontend.prod.utiq-aws.net |
+| utiq.hersfelder-zeitung.de | frontend.prod.utiq-aws.net |
 | utiq.hna.de | frontend.prod.utiq-aws.net |
 | utiq.hoy.es | frontend.prod.utiq-aws.net |
 | utiq.huelva24.com | frontend.prod.utiq-aws.net |
 | utiq.ideal.es | frontend.prod.utiq-aws.net |
 | utiq.informacion.es | frontend.prod.utiq-aws.net |
 | utiq.ingame.de | frontend.prod.utiq-aws.net |
+| utiq.ingolstadt-today.de | frontend.prod.utiq-aws.net |
 | utiq.jux.news | frontend.prod.utiq-aws.net |
 | utiq.kreisbote.de | frontend.prod.utiq-aws.net |
 | utiq.kreiszeitung.de | frontend.prod.utiq-aws.net |
@@ -162,6 +164,7 @@
 | utiq.schlager.de | frontend.prod.utiq-aws.net |
 | utiq.science-et-vie.com | frontend.prod.utiq-aws.net |
 | utiq.sensacine.com | frontend.prod.utiq-aws.net |
+| utiq.serienjunkies.de | frontend.prod.utiq-aws.net |
 | utiq.soester-anzeiger.de | frontend.prod.utiq-aws.net |
 | utiq.speisekarte.de | frontend.prod.utiq-aws.net |
 | utiq.sport.es | frontend.prod.utiq-aws.net |
@@ -172,6 +175,7 @@
 | utiq.superdeporte.es | frontend.prod.utiq-aws.net |
 | utiq.t-online.de | frontend.prod.utiq-aws.net |
 | utiq.tagesspiegel.de | frontend.prod.utiq-aws.net |
+| utiq.tatort-fans.de | frontend.prod.utiq-aws.net |
 | utiq.techbook.de | frontend.prod.utiq-aws.net |
 | utiq.telekom.de | frontend.prod.utiq-aws.net |
 | utiq.thueringen24.de | frontend.prod.utiq-aws.net |
@@ -189,6 +193,7 @@
 | utiq.voici.fr | frontend.prod.utiq-aws.net |
 | utiq.wa.de | frontend.prod.utiq-aws.net |
 | utiq.welt.de | frontend.prod.utiq-aws.net |
+| utiq.werra-rundschau.de | frontend.prod.utiq-aws.net |
 | utiq.wetterauer-zeitung.de | frontend.prod.utiq-aws.net |
 | utiq.wiwo.de | frontend.prod.utiq-aws.net |
 | utiq.wlz-online.de | frontend.prod.utiq-aws.net |

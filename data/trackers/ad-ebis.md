@@ -112,6 +112,7 @@
     * 54defe46-yfrcguru.cname.ebis.ne.jp
     * 55ce18c7-ppn7hhsn.cname.ebis.ne.jp
     * 55f9731d-yghwwxr9.cname.ebis.ne.jp
+    * 57ec4b6d-thlsfh6z.cname.ebis.ne.jp
     * 5913445d-scxitlgt.cname.ebis.ne.jp
     * 5affe8ce-skczc9vy.cname.ebis.ne.jp
     * 5c4367ff-jngsetpd.cname.ebis.ne.jp
@@ -422,6 +423,7 @@
 | ebis.samurai271.com | 54defe46-yfrcguru.cname.ebis.ne.jp |
 | cname.polestar-m.jp | 55ce18c7-ppn7hhsn.cname.ebis.ne.jp |
 | ad.320320.net | 55f9731d-yghwwxr9.cname.ebis.ne.jp |
+| itpebis03.deep2031.com | 57ec4b6d-thlsfh6z.cname.ebis.ne.jp |
 | cs2113sbeda.hokto-onlineshop.jp | 5913445d-scxitlgt.cname.ebis.ne.jp |
 | ac-ebis.usen-pos.com | 5affe8ce-skczc9vy.cname.ebis.ne.jp |
 | cnameebis.eizoshigoto.com | 5c4367ff-jngsetpd.cname.ebis.ne.jp |

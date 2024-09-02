@@ -11,8 +11,10 @@
     * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
+    * dheinemann.goatcounter.com
     * gamecraft.goatcounter.com
     * gpuzelenograd-github.goatcounter.com
+    * hijacklibs.goatcounter.com
     * howwtf.goatcounter.com
     * jakebailey.goatcounter.com
     * johanneswienke.goatcounter.com
@@ -45,8 +47,10 @@
 | analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
+| goat.dheinemann.com | dheinemann.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
+| visit.hijacklibs.net | hijacklibs.goatcounter.com |
 | stats.how.wtf | howwtf.goatcounter.com |
 | stats.jakebailey.dev | jakebailey.goatcounter.com |
 | stats.johanneswienke.de | johanneswienke.goatcounter.com |

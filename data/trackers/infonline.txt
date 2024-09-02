@@ -366,6 +366,7 @@
 ||data-2bfd5a7f39.senioren-ratgeber.de^
 ||data-2bfd5a7f39.skystream.tv^
 ||data-2ccf0ea3cc.esquire.de^
+||data-2cda7c00b0.hanser-fachverlag.de^
 ||data-2cee0cb9fa.apps.iocnt.de^
 ||data-2cfc77297e.tagesspiegel.de^
 ||data-2d5e2d4006.apps.iocnt.de^
@@ -691,6 +692,7 @@
 ||data-4cd3a663da.all-in.de^
 ||data-4ce33a993b.addradio.de^
 ||data-4ce33a993b.radiohochstift.de^
+||data-4ce33a993b.radiohochstifthilft.de^
 ||data-4cf73e282f.fleischwirtschaft.de^
 ||data-4d32f71c16.stadtbuecherei-nuertingen.de^
 ||data-4d33656d8f.watson.de^
@@ -863,6 +865,7 @@
 ||data-60d896f23d.sn-online.de^
 ||data-60d896f23d.solinger-tageblatt.de^
 ||data-60d896f23d.sportbuzzer.de^
+||data-60d896f23d.sz-trauer.de^
 ||data-60d896f23d.szlz.de^
 ||data-60d896f23d.tah.de^
 ||data-60d896f23d.torgauerzeitung.de^
@@ -1230,6 +1233,7 @@
 ||data-90725c51d9.gn-online.de^
 ||data-908fd409d9.9monate.de^
 ||data-908fd409d9.bildderfrau.de^
+||data-908fd409d9.donna-magazin.de^
 ||data-908fd409d9.funke.fun^
 ||data-908fd409d9.gesundheit.de^
 ||data-908fd409d9.haemorriden.net^
@@ -2027,6 +2031,7 @@
 ||data-ef2b66d556.miss.at^
 ||data-ef2df4302f.baumagazin-online.de^
 ||data-ef3fcaa7e9.0rtl.de^
+||data-ef4e2c0163.infonline.de^
 ||data-ef805f6034.apps.iocnt.de^
 ||data-ef8760a9b2.fraenkische-rezepte.de^
 ||data-ef8760a9b2.infranken.de^

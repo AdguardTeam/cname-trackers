@@ -272,6 +272,7 @@
 ||isebis.takamiclinic.or.jp^
 ||isebis.yutoriform.com^
 ||itp.phoebebeautyup.com^
+||itpebis03.deep2031.com^
 ||itpebis03.recella3d.com^
 ||marketing.biz.mynavi.jp^
 ||marketing.zwei.com^

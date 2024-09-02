@@ -79,5 +79,6 @@ meta-events.womensrunning.com
 meta-events.yellowstonepark.com
 meta-events.yogajournal.com
 mr-in.beginlearning.com
+mr-in.littlepassports.com
 mr.pinkbike.com
 anx-staging.learnwithhomer.com

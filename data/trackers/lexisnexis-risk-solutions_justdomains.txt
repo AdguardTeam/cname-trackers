@@ -26,6 +26,7 @@ apicorporativops.portoseguro.com.br
 app.uob.com.my
 app.uob.com.sg
 app392.gerberlife.com
+applibs.fglife.com
 applicant.rbfcu.org
 apps.shift.com.au
 appschk.scotiabank.com
@@ -39,7 +40,6 @@ assets2.thefirstclub.com
 auth.vedacheck.com.au
 auth2.corelogic.asia
 authorizer-data.infinitepay.io
-b177.kabbage.com
 backend.pin-up.dev
 bank.bnpl.c24.de
 banque.banque-casino.fr
@@ -485,6 +485,7 @@ h.threatmetrix.com
 h.truist.com
 hint-tmdp.opendoor.com
 hooru.regence.com
+hunt.elcorteingles.es
 id.latitudefinancial.com
 identity.myblueprint.arkansasbluecross.com
 idhtm.bb.com.br
@@ -543,6 +544,7 @@ info.betway.co.zm
 info.betway.fr
 info.betway.lat
 info.betwaypartnersafrica.com
+info.jackpotcity.co.za
 intlsdpntrca.nitrocasino.ca
 intm.amwager.com
 invalid-qa2.threatmetrix.com
@@ -689,6 +691,7 @@ prod-selco.chaperone.lumindigitalhosting.com
 prod-sesloc.chaperone.lumindigitalhosting.com
 prod-sfcupa.chaperone.lumindigitalhosting.com
 prod-sfcutx.chaperone.lumindigitalhosting.com
+prod-sperofin.chaperone.lumindigitalhosting.com
 prod-travis.chaperone.lumindigitalhosting.com
 prod-tvfcuwy.chaperone.lumindigitalhosting.com
 prod-uecupa.chaperone.lumindigitalhosting.com
@@ -999,6 +1002,10 @@ tmx.beyondbank.com.au
 tmx.carhistory.com.au
 tmx.efsllc.com
 tmx.gotobilling.com
+tmx.idp.eu.safenetid.com
+tmx.idp.safenetid-staging.safenetid.com
+tmx.idp.safenetid.com
+tmx.idp.us.safenetid.com
 tmx.kijiji.ca
 tmx.manulifebank.com
 tmx.monzo.co.uk

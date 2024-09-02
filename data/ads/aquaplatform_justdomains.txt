@@ -49,6 +49,7 @@ cdn.reviveservers.com
 cdn.rlnads.net
 championads.midtc.com
 console.adbility-media.com
+console.channelvas.com
 console.hour-media.com
 console.imagineobx.com
 console.informingnews.com
@@ -79,6 +80,7 @@ servedby.ammoland.com
 servedby.aqua-adserver.com
 servedby.biohandel.de
 servedby.ceramicartsnetwork.org
+servedby.channelvas.com
 servedby.cincinnatimagazine.com
 servedby.cricketworld.com
 servedby.engineeringnews.co.za
@@ -118,6 +120,7 @@ static.consulcesi.it
 static.engineeringnews.co.za
 static.environmentalleader.com
 static.fa-mag.com
+static.hollandhortimedia.nl
 static.livingmagonline.com
 static.mannixmarketing.com
 static.miningweekly.com
@@ -131,6 +134,7 @@ treehouse.wwoz.org
 www.proforums.com
 www.revive-static.worldscreen.com
 www.revive.ahk.de
+www.servedby.geminipub.com
 www.servedby.greenspring.com
 www.servedby.quirks.com
 www.static.the-saleroom.com

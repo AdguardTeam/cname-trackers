@@ -92,12 +92,14 @@
 ||utiq.handelsblatt.com^
 ||utiq.heftig.de^
 ||utiq.helpster.de^
+||utiq.hersfelder-zeitung.de^
 ||utiq.hna.de^
 ||utiq.hoy.es^
 ||utiq.huelva24.com^
 ||utiq.ideal.es^
 ||utiq.informacion.es^
 ||utiq.ingame.de^
+||utiq.ingolstadt-today.de^
 ||utiq.jux.news^
 ||utiq.kreisbote.de^
 ||utiq.kreiszeitung.de^
@@ -153,6 +155,7 @@
 ||utiq.schlager.de^
 ||utiq.science-et-vie.com^
 ||utiq.sensacine.com^
+||utiq.serienjunkies.de^
 ||utiq.soester-anzeiger.de^
 ||utiq.speisekarte.de^
 ||utiq.sport.es^
@@ -163,6 +166,7 @@
 ||utiq.superdeporte.es^
 ||utiq.t-online.de^
 ||utiq.tagesspiegel.de^
+||utiq.tatort-fans.de^
 ||utiq.techbook.de^
 ||utiq.telekom.de^
 ||utiq.thueringen24.de^
@@ -180,6 +184,7 @@
 ||utiq.voici.fr^
 ||utiq.wa.de^
 ||utiq.welt.de^
+||utiq.werra-rundschau.de^
 ||utiq.wetterauer-zeitung.de^
 ||utiq.wiwo.de^
 ||utiq.wlz-online.de^

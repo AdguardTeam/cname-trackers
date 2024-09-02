@@ -7,6 +7,7 @@
 ### Rarely active trackers
 
 * customer2.etracker.com
+* etracker.com
 
 ## Cloaking domains
 
@@ -29,6 +30,7 @@
 | et.electronic4you.si | customer.etracker.com |
 | et.majdic.at | customer.etracker.com |
 | et.pns24.de | customer.etracker.com |
+| etd.wackerneusongroup.com | customer.etracker.com |
 | ets.verivox.com | customer.etracker.com |
 | ferthu.seyffer.shop | customer.etracker.com |
 | js.edingershops.de | customer.etracker.com |
@@ -48,6 +50,7 @@
 | stats.umziehen.de | customer.etracker.com |
 | stats.united-domains.de | customer.etracker.com |
 | stats.wienerjobs.at | customer.etracker.com |
+| track.dictum-handwerksgalerie.de | customer.etracker.com |
 | track.dictum-shop.de | customer.etracker.com |
 | track.dictum.com | customer.etracker.com |
 | track.karlstorz.com | customer.etracker.com |
@@ -71,4 +74,6 @@
 | et.juskys.de | customer2.etracker.com |
 | stats.bodenverkauf.de | customer2.etracker.com |
 | stats.ekd.de | customer2.etracker.com |
+| stats.hoeping.de | customer2.etracker.com |
 | stats.maschinenprofi.de | customer2.etracker.com |
+| www.visitormotion.com | etracker.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -95,6 +95,7 @@ cdn.mtinsqq.com CNAME .
 cdn.munilf.com CNAME .
 cdn.mwrgi.com CNAME .
 cdn.namol.xyz CNAME .
+cdn.nejxdoy.com CNAME .
 cdn.nelhon.com CNAME .
 cdn.nlkli.com CNAME .
 cdn.nmkli.com CNAME .
@@ -420,7 +421,6 @@ dolphin.mayansmithgobat.de CNAME .
 dolphin.sfelc.com CNAME .
 donkey.aerzteteam-luppe.de CNAME .
 donkey.annieswinecottagepowell.com CNAME .
-donkey.bahr.dev CNAME .
 donkey.elegantmusicgroup.com CNAME .
 donkey.guggenbichler.co.at CNAME .
 donkey.hackoregon.org CNAME .
@@ -487,7 +487,6 @@ fjikgr.dennmart.com CNAME .
 flamingo.abihome.de CNAME .
 flamingo.apatonsrompus.com CNAME .
 flamingo.stacking-club.com CNAME .
-flea.artisan.school CNAME .
 flea.elbertsnaturalfoods.com CNAME .
 flea.welikeoliver.com CNAME .
 fly.foggybottomfarm.org CNAME .
@@ -558,7 +557,6 @@ hare.startupbootcamp.com.au CNAME .
 harrier.jasonsantamaria.com CNAME .
 harrier.progress.fyi CNAME .
 harrier.scdamerica.com.au CNAME .
-hawk.affio.co.uk CNAME .
 hawk.makroskop.eu CNAME .
 hawk.mjsarfatti.com CNAME .
 hedgehog.fightforthefuture.org CNAME .
@@ -703,7 +701,6 @@ mandrill.castingcollective.net CNAME .
 mandrill.yellowfruit.co CNAME .
 mantaray.bullshitgoggles.com CNAME .
 marlin.firstline.org CNAME .
-marmoset.acboforegon.org CNAME .
 marmoset.easycolour.app CNAME .
 marmoset.rocketlog.app CNAME .
 marmot.hippiemodernism.com CNAME .
@@ -1095,7 +1092,6 @@ www.stork.notlessbutbetter.com CNAME .
 yak.auclantis.com CNAME .
 yak.flutterblog.net CNAME .
 yak.gregsullivan.com CNAME .
-yak.withlindy.com CNAME .
 ads.djc.com CNAME .
 allnews.chestertelegraph.org CNAME .
 apogee.spacenews.com CNAME .
@@ -1157,6 +1153,7 @@ ucdn.adgebra.co CNAME .
 cdn.shrtfly.vip CNAME .
 cdn.tracking.prepr.io CNAME .
 chameleon.ryanmettler.com CNAME .
+flea.artisan.school CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .

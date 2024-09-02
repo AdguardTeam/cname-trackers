@@ -3,7 +3,6 @@
 ## Disguised trackers list
 
 * non.li
-    * l.non.li
     * tls-lp-cm.non.li
     * tls-rfi.non.li
     * tls.non.li
@@ -12,7 +11,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| c.leparisien.fr | l.non.li |
+| c.leparisien.fr | non.li |
 | l.aufeminin.com | non.li |
 | l.heidi.news | non.li |
 | l.monacomatin.mc | non.li |
@@ -111,3 +110,4 @@
 | l.voici.fr | tls.non.li |
 | www.20min.fr | tls.non.li |
 | www.altereco.media | tls.non.li |
+| www.h24.news | tls.non.li |

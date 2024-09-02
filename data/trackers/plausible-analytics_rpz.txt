@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -431,7 +431,6 @@ stats.cremashop.eu CNAME .
 stats.cremashop.se CNAME .
 stats.crewebo.de CNAME .
 stats.crypdit.com CNAME .
-stats.cryptmail.io CNAME .
 stats.curbnumberpro.com CNAME .
 stats.curtiscummings.me CNAME .
 stats.dailyposter.com CNAME .
@@ -630,7 +629,6 @@ stats.macosicons.com CNAME .
 stats.madethis.gallery CNAME .
 stats.maferland.com CNAME .
 stats.magarantie5ans.fr CNAME .
-stats.makerr.market CNAME .
 stats.maklerupdate.de CNAME .
 stats.malte-bartels.de CNAME .
 stats.martinbetz.eu CNAME .

@@ -296,7 +296,6 @@ a8.suma-sapo.net
 a8.sumai-planet.com
 a8.sumilena.co.jp
 a8.tabechoku.com
-a8.tailorenglish.jp
 a8.tapp-co.jp
 a8.taylormadegolf.jp
 a8.tcha-tcha-japan.com
@@ -634,7 +633,6 @@ a8clk.shokutakubin.com
 a8clk.shop.echigofuton.jp
 a8clk.shop.kitamura.jp
 a8clk.shop.saraya.com
-a8clk.shop.shareme.jp
 a8clk.shop.sunsorit.co.jp
 a8clk.shop.tanita.co.jp
 a8clk.sikatoru.com
@@ -732,6 +730,7 @@ a8clk.zigen-shop.com
 a8clk1.zkai.co.jp
 a8clkapply.mycredit.nexuscard.co.jp
 a8clkcv.lognavi.com
+a8clkcv.pcr.tokyo-brain.clinic
 a8clkcv.tcb-beauty.net
 a8cllk.arahataen.com
 a8cname.cloudwifi-nc.com
@@ -1335,7 +1334,6 @@ acv.au-hikari-kddi.com
 acv.auhikari-norikae.com
 acv.aun-air-wifi.com
 acv.aun-company.com
-acv.aun-n-hikari.com
 acv.aun-softbank-hikari.com
 acv.biglobe-hikari.net
 acv.cmf-hikari.net

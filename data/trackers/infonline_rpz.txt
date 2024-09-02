@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -377,6 +377,7 @@ data-2bfd5a7f39.digital-ratgeber.de CNAME .
 data-2bfd5a7f39.senioren-ratgeber.de CNAME .
 data-2bfd5a7f39.skystream.tv CNAME .
 data-2ccf0ea3cc.esquire.de CNAME .
+data-2cda7c00b0.hanser-fachverlag.de CNAME .
 data-2cee0cb9fa.apps.iocnt.de CNAME .
 data-2cfc77297e.tagesspiegel.de CNAME .
 data-2d5e2d4006.apps.iocnt.de CNAME .
@@ -702,6 +703,7 @@ data-4ccf76e1ad.tagesspiegel.de CNAME .
 data-4cd3a663da.all-in.de CNAME .
 data-4ce33a993b.addradio.de CNAME .
 data-4ce33a993b.radiohochstift.de CNAME .
+data-4ce33a993b.radiohochstifthilft.de CNAME .
 data-4cf73e282f.fleischwirtschaft.de CNAME .
 data-4d32f71c16.stadtbuecherei-nuertingen.de CNAME .
 data-4d33656d8f.watson.de CNAME .
@@ -874,6 +876,7 @@ data-60d896f23d.siegener-zeitung.de CNAME .
 data-60d896f23d.sn-online.de CNAME .
 data-60d896f23d.solinger-tageblatt.de CNAME .
 data-60d896f23d.sportbuzzer.de CNAME .
+data-60d896f23d.sz-trauer.de CNAME .
 data-60d896f23d.szlz.de CNAME .
 data-60d896f23d.tah.de CNAME .
 data-60d896f23d.torgauerzeitung.de CNAME .
@@ -1241,6 +1244,7 @@ data-900b4339a4.page-online.de CNAME .
 data-90725c51d9.gn-online.de CNAME .
 data-908fd409d9.9monate.de CNAME .
 data-908fd409d9.bildderfrau.de CNAME .
+data-908fd409d9.donna-magazin.de CNAME .
 data-908fd409d9.funke.fun CNAME .
 data-908fd409d9.gesundheit.de CNAME .
 data-908fd409d9.haemorriden.net CNAME .
@@ -2038,6 +2042,7 @@ data-ee807be806.radiosauerland.de CNAME .
 data-ef2b66d556.miss.at CNAME .
 data-ef2df4302f.baumagazin-online.de CNAME .
 data-ef3fcaa7e9.0rtl.de CNAME .
+data-ef4e2c0163.infonline.de CNAME .
 data-ef805f6034.apps.iocnt.de CNAME .
 data-ef8760a9b2.fraenkische-rezepte.de CNAME .
 data-ef8760a9b2.infranken.de CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -307,7 +307,6 @@ a8.suma-sapo.net CNAME .
 a8.sumai-planet.com CNAME .
 a8.sumilena.co.jp CNAME .
 a8.tabechoku.com CNAME .
-a8.tailorenglish.jp CNAME .
 a8.tapp-co.jp CNAME .
 a8.taylormadegolf.jp CNAME .
 a8.tcha-tcha-japan.com CNAME .
@@ -645,7 +644,6 @@ a8clk.shokutakubin.com CNAME .
 a8clk.shop.echigofuton.jp CNAME .
 a8clk.shop.kitamura.jp CNAME .
 a8clk.shop.saraya.com CNAME .
-a8clk.shop.shareme.jp CNAME .
 a8clk.shop.sunsorit.co.jp CNAME .
 a8clk.shop.tanita.co.jp CNAME .
 a8clk.sikatoru.com CNAME .
@@ -743,6 +741,7 @@ a8clk.zigen-shop.com CNAME .
 a8clk1.zkai.co.jp CNAME .
 a8clkapply.mycredit.nexuscard.co.jp CNAME .
 a8clkcv.lognavi.com CNAME .
+a8clkcv.pcr.tokyo-brain.clinic CNAME .
 a8clkcv.tcb-beauty.net CNAME .
 a8cllk.arahataen.com CNAME .
 a8cname.cloudwifi-nc.com CNAME .
@@ -1346,7 +1345,6 @@ acv.au-hikari-kddi.com CNAME .
 acv.auhikari-norikae.com CNAME .
 acv.aun-air-wifi.com CNAME .
 acv.aun-company.com CNAME .
-acv.aun-n-hikari.com CNAME .
 acv.aun-softbank-hikari.com CNAME .
 acv.biglobe-hikari.net CNAME .
 acv.cmf-hikari.net CNAME .

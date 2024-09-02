@@ -84,6 +84,7 @@ cdn.mtinsqq.com
 cdn.munilf.com
 cdn.mwrgi.com
 cdn.namol.xyz
+cdn.nejxdoy.com
 cdn.nelhon.com
 cdn.nlkli.com
 cdn.nmkli.com
@@ -409,7 +410,6 @@ dolphin.mayansmithgobat.de
 dolphin.sfelc.com
 donkey.aerzteteam-luppe.de
 donkey.annieswinecottagepowell.com
-donkey.bahr.dev
 donkey.elegantmusicgroup.com
 donkey.guggenbichler.co.at
 donkey.hackoregon.org
@@ -476,7 +476,6 @@ fjikgr.dennmart.com
 flamingo.abihome.de
 flamingo.apatonsrompus.com
 flamingo.stacking-club.com
-flea.artisan.school
 flea.elbertsnaturalfoods.com
 flea.welikeoliver.com
 fly.foggybottomfarm.org
@@ -547,7 +546,6 @@ hare.startupbootcamp.com.au
 harrier.jasonsantamaria.com
 harrier.progress.fyi
 harrier.scdamerica.com.au
-hawk.affio.co.uk
 hawk.makroskop.eu
 hawk.mjsarfatti.com
 hedgehog.fightforthefuture.org
@@ -692,7 +690,6 @@ mandrill.castingcollective.net
 mandrill.yellowfruit.co
 mantaray.bullshitgoggles.com
 marlin.firstline.org
-marmoset.acboforegon.org
 marmoset.easycolour.app
 marmoset.rocketlog.app
 marmot.hippiemodernism.com
@@ -1084,7 +1081,6 @@ www.stork.notlessbutbetter.com
 yak.auclantis.com
 yak.flutterblog.net
 yak.gregsullivan.com
-yak.withlindy.com
 ads.djc.com
 allnews.chestertelegraph.org
 apogee.spacenews.com
@@ -1146,6 +1142,7 @@ ucdn.adgebra.co
 cdn.shrtfly.vip
 cdn.tracking.prepr.io
 chameleon.ryanmettler.com
+flea.artisan.school
 consent.cookiefirst.com
 contact-gloss-production.accelerator.net
 dntcl.qualaroo.com

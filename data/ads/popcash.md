@@ -29,6 +29,7 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | chameleon.ryanmettler.com | 77980.bodis.com |
+| flea.artisan.school | 77980.bodis.com |
 | thirty-good.lugg.com | absolutely-novel.b-cdn.net |
 | cdn.admatic.com.tr | admaticcdn.b-cdn.net |
 | video.adsninja.ca | adsninja.b-cdn.net |
@@ -350,7 +351,6 @@
 | dolphin.sfelc.com | deprecated-custom-domains.b-cdn.net |
 | donkey.aerzteteam-luppe.de | deprecated-custom-domains.b-cdn.net |
 | donkey.annieswinecottagepowell.com | deprecated-custom-domains.b-cdn.net |
-| donkey.bahr.dev | deprecated-custom-domains.b-cdn.net |
 | donkey.elegantmusicgroup.com | deprecated-custom-domains.b-cdn.net |
 | donkey.guggenbichler.co.at | deprecated-custom-domains.b-cdn.net |
 | donkey.hackoregon.org | deprecated-custom-domains.b-cdn.net |
@@ -417,7 +417,6 @@
 | flamingo.abihome.de | deprecated-custom-domains.b-cdn.net |
 | flamingo.apatonsrompus.com | deprecated-custom-domains.b-cdn.net |
 | flamingo.stacking-club.com | deprecated-custom-domains.b-cdn.net |
-| flea.artisan.school | deprecated-custom-domains.b-cdn.net |
 | flea.elbertsnaturalfoods.com | deprecated-custom-domains.b-cdn.net |
 | flea.welikeoliver.com | deprecated-custom-domains.b-cdn.net |
 | fly.foggybottomfarm.org | deprecated-custom-domains.b-cdn.net |
@@ -488,7 +487,6 @@
 | harrier.jasonsantamaria.com | deprecated-custom-domains.b-cdn.net |
 | harrier.progress.fyi | deprecated-custom-domains.b-cdn.net |
 | harrier.scdamerica.com.au | deprecated-custom-domains.b-cdn.net |
-| hawk.affio.co.uk | deprecated-custom-domains.b-cdn.net |
 | hawk.makroskop.eu | deprecated-custom-domains.b-cdn.net |
 | hawk.mjsarfatti.com | deprecated-custom-domains.b-cdn.net |
 | hedgehog.fightforthefuture.org | deprecated-custom-domains.b-cdn.net |
@@ -633,7 +631,6 @@
 | mandrill.yellowfruit.co | deprecated-custom-domains.b-cdn.net |
 | mantaray.bullshitgoggles.com | deprecated-custom-domains.b-cdn.net |
 | marlin.firstline.org | deprecated-custom-domains.b-cdn.net |
-| marmoset.acboforegon.org | deprecated-custom-domains.b-cdn.net |
 | marmoset.easycolour.app | deprecated-custom-domains.b-cdn.net |
 | marmoset.rocketlog.app | deprecated-custom-domains.b-cdn.net |
 | marmot.hippiemodernism.com | deprecated-custom-domains.b-cdn.net |
@@ -1025,7 +1022,6 @@
 | yak.auclantis.com | deprecated-custom-domains.b-cdn.net |
 | yak.flutterblog.net | deprecated-custom-domains.b-cdn.net |
 | yak.gregsullivan.com | deprecated-custom-domains.b-cdn.net |
-| yak.withlindy.com | deprecated-custom-domains.b-cdn.net |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.adevbom.com | popcashjs.b-cdn.net |
 | cdn.adevppl.com | popcashjs.b-cdn.net |
@@ -1111,6 +1107,7 @@
 | cdn.munilf.com | popcashjs.b-cdn.net |
 | cdn.mwrgi.com | popcashjs.b-cdn.net |
 | cdn.namol.xyz | popcashjs.b-cdn.net |
+| cdn.nejxdoy.com | popcashjs.b-cdn.net |
 | cdn.nelhon.com | popcashjs.b-cdn.net |
 | cdn.nlkli.com | popcashjs.b-cdn.net |
 | cdn.nmkli.com | popcashjs.b-cdn.net |

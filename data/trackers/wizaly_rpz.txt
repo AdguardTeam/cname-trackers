@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -186,6 +186,5 @@ trackv-test.esearchvision.com CNAME .
 tv-test.esvdigital.com CNAME .
 twiz.wizaly.co.uk CNAME .
 twiz.wizaly.fr CNAME .
-wiz.empowerhearing.com CNAME .
 wiz.sncf-connect.com CNAME .
 wz.allianz.fr CNAME .

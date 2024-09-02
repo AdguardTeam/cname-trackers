@@ -259,7 +259,6 @@
 ||affiliate.uncaria.cz^
 ||affiliate.unicare.sk^
 ||affiliate.urbanstore.cz^
-||affiliate.urbanstore.sk^
 ||affiliate.vasecocky.cz^
 ||affiliate.vasesosovky.sk^
 ||affiliate.velebny.cz^
@@ -405,6 +404,7 @@
 ||my.weplayhandball.de^
 ||my.weplayhandball.es^
 ||my.weplayhandball.eu^
+||my.weplayhandball.fr^
 ||my.weplayhandball.gr^
 ||my.weplayhandball.hu^
 ||my.weplayhandball.nl^
@@ -536,6 +536,7 @@
 ||partner.forcell.cz^
 ||partner.forexrebel.net^
 ||partner.freshlabels.cz^
+||partner.gel-gun.cz^
 ||partner.generatorvodiku.cz^
 ||partner.gingershot.cz^
 ||partner.giulieta.shop^
@@ -567,7 +568,6 @@
 ||partner.jillylenau.cz^
 ||partner.kafista.cz^
 ||partner.kalhotkomat.cz^
-||partner.kanabigerol.cz^
 ||partner.ketomix.cz^
 ||partner.ketomix.hu^
 ||partner.ketomix.sk^

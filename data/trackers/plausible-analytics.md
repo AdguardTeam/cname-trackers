@@ -433,7 +433,6 @@
 | stats.cremashop.se | custom.plausible.io |
 | stats.crewebo.de | custom.plausible.io |
 | stats.crypdit.com | custom.plausible.io |
-| stats.cryptmail.io | custom.plausible.io |
 | stats.curbnumberpro.com | custom.plausible.io |
 | stats.curtiscummings.me | custom.plausible.io |
 | stats.dailyposter.com | custom.plausible.io |
@@ -632,7 +631,6 @@
 | stats.madethis.gallery | custom.plausible.io |
 | stats.maferland.com | custom.plausible.io |
 | stats.magarantie5ans.fr | custom.plausible.io |
-| stats.makerr.market | custom.plausible.io |
 | stats.maklerupdate.de | custom.plausible.io |
 | stats.malte-bartels.de | custom.plausible.io |
 | stats.martinbetz.eu | custom.plausible.io |

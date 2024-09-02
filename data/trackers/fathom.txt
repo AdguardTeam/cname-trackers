@@ -264,7 +264,6 @@
 ||dolphin.sfelc.com^
 ||donkey.aerzteteam-luppe.de^
 ||donkey.annieswinecottagepowell.com^
-||donkey.bahr.dev^
 ||donkey.elegantmusicgroup.com^
 ||donkey.guggenbichler.co.at^
 ||donkey.hackoregon.org^
@@ -329,7 +328,6 @@
 ||flamingo.abihome.de^
 ||flamingo.apatonsrompus.com^
 ||flamingo.stacking-club.com^
-||flea.artisan.school^
 ||flea.elbertsnaturalfoods.com^
 ||flea.welikeoliver.com^
 ||fly.foggybottomfarm.org^
@@ -400,7 +398,6 @@
 ||harrier.jasonsantamaria.com^
 ||harrier.progress.fyi^
 ||harrier.scdamerica.com.au^
-||hawk.affio.co.uk^
 ||hawk.makroskop.eu^
 ||hawk.mjsarfatti.com^
 ||hedgehog.fightforthefuture.org^
@@ -545,7 +542,6 @@
 ||mandrill.yellowfruit.co^
 ||mantaray.bullshitgoggles.com^
 ||marlin.firstline.org^
-||marmoset.acboforegon.org^
 ||marmoset.easycolour.app^
 ||marmoset.rocketlog.app^
 ||marmot.hippiemodernism.com^
@@ -934,7 +930,6 @@
 ||yak.auclantis.com^
 ||yak.flutterblog.net^
 ||yak.gregsullivan.com^
-||yak.withlindy.com^
 ||albatross.creacoon.com^
 ||alligator.remotecyberwork.com^
 ||antelope.hoap.dev^
@@ -958,3 +953,4 @@
 ||wildcat.longviewforecasting.com^
 ||www.stork.notlessbutbetter.com^
 ||chameleon.ryanmettler.com^
+||flea.artisan.school^

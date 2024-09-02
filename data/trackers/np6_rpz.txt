@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,6 +30,7 @@ tr.actiflip.devisdirect.com CNAME .
 tr.activeprospects.info CNAME .
 tr.actu-companeo.com CNAME .
 tr.actu.bricodepot.com CNAME .
+tr.actu.infopro-digital-media.fr CNAME .
 tr.actu.reunica.com CNAME .
 tr.actu.rmcbfmplay.com CNAME .
 tr.actualites.bfmtv.com CNAME .
@@ -581,7 +582,6 @@ tr.lesmarques.envie-de-bien-manger.com CNAME .
 tr.lesmarquesenviedebienmanger.fr CNAME .
 tr.lettre.dechets-infos.com CNAME .
 tr.lettre.helianthal.fr CNAME .
-tr.lettre.lecho-circulaire.com CNAME .
 tr.leyravaud.devisdirect.com CNAME .
 tr.liberation.espmp-aufr.net CNAME .
 tr.livrephoto.espmp-aufr.net CNAME .
@@ -839,7 +839,6 @@ tr.news.supercasino.fr CNAME .
 tr.news.teklifim.pro CNAME .
 tr.news.thelist-emirates.fr CNAME .
 tr.news.themedtechforum.eu CNAME .
-tr.news.tiptel.fr CNAME .
 tr.news.toocampmail.com CNAME .
 tr.news.toute-la-franchise.com CNAME .
 tr.news.triskalia.fr CNAME .
@@ -908,8 +907,6 @@ tr.nl.myvipmag.fr CNAME .
 tr.nl.services-sncf.com CNAME .
 tr.nl2.sncf-fidelite.com CNAME .
 tr.nmcm.espmp-cufr.net CNAME .
-tr.notification-gdpr.loisirs-finance.fr CNAME .
-tr.notification-gdpr.personal-finance-location.bnpparibas CNAME .
 tr.notification.cafineo.fr CNAME .
 tr.notification.cdiscount.com CNAME .
 tr.notification.cetelem.fr CNAME .

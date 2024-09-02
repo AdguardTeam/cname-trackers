@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,6 +21,7 @@ contacapre.bortox.it CNAME .
 count.vidsrc.pro CNAME .
 gc.sanyamkapoor.com CNAME .
 github.gpuzelenograd.cloudns.be CNAME .
+goat.dheinemann.com CNAME .
 goat.hepicgamerz.com CNAME .
 goat.skeetstats.xyz CNAME .
 goat.tailspace.net CNAME .
@@ -40,3 +41,4 @@ stats.lspeed.org CNAME .
 stats.msol.io CNAME .
 stats.palaisdesfetes.eu CNAME .
 stats.semipol.de CNAME .
+visit.hijacklibs.net CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,7 +25,6 @@ $TTL 300
 7mx.eider.com CNAME .
 7mx.eidershop.com CNAME .
 8ezc.sfr.fr CNAME .
-a.audi.fr CNAME .
 a.audifrance.fr CNAME .
 a.oney.es CNAME .
 a.parfumsclub.de CNAME .

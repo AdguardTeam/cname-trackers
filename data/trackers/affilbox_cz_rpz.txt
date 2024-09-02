@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -270,7 +270,6 @@ affiliate.ucetni-portal.cz CNAME .
 affiliate.uncaria.cz CNAME .
 affiliate.unicare.sk CNAME .
 affiliate.urbanstore.cz CNAME .
-affiliate.urbanstore.sk CNAME .
 affiliate.vasecocky.cz CNAME .
 affiliate.vasesosovky.sk CNAME .
 affiliate.velebny.cz CNAME .
@@ -416,6 +415,7 @@ my.weplayhandball.cz CNAME .
 my.weplayhandball.de CNAME .
 my.weplayhandball.es CNAME .
 my.weplayhandball.eu CNAME .
+my.weplayhandball.fr CNAME .
 my.weplayhandball.gr CNAME .
 my.weplayhandball.hu CNAME .
 my.weplayhandball.nl CNAME .
@@ -547,6 +547,7 @@ partner.fitnessrevolucia.sk CNAME .
 partner.forcell.cz CNAME .
 partner.forexrebel.net CNAME .
 partner.freshlabels.cz CNAME .
+partner.gel-gun.cz CNAME .
 partner.generatorvodiku.cz CNAME .
 partner.gingershot.cz CNAME .
 partner.giulieta.shop CNAME .
@@ -578,7 +579,6 @@ partner.jedlenadobi.cz CNAME .
 partner.jillylenau.cz CNAME .
 partner.kafista.cz CNAME .
 partner.kalhotkomat.cz CNAME .
-partner.kanabigerol.cz CNAME .
 partner.ketomix.cz CNAME .
 partner.ketomix.hu CNAME .
 partner.ketomix.sk CNAME .

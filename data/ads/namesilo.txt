@@ -439,6 +439,7 @@
 ||3459205.notifysrv.com^
 ||3459455.notify6.com^
 ||3459455.notifysrv.com^
+||3461281.notify6.com^
 ||3461281.notifysrv.com^
 ||3461289.notify6.com^
 ||3461289.notifysrv.com^
@@ -591,6 +592,7 @@
 ||3578239.notify6.com^
 ||3578241.notify6.com^
 ||3578245.notify6.com^
+||3578247.notify6.com^
 ||3578253.notifysrv.com^
 ||3580293.notifysrv.com^
 ||3580393.notify6.com^
@@ -896,6 +898,7 @@
 ||4152268.notify6.com^
 ||4152316.notify6.com^
 ||4152318.notify6.com^
+||4152322.notify6.com^
 ||4152324.notify6.com^
 ||4152328.notify6.com^
 ||4153216.notify6.com^
@@ -1075,6 +1078,7 @@
 ||993.notify.optimizesrv.com^
 ||_sip._tcp.meet.3393147.notifysrv.com^
 ||_sips._tcp.3323174.notifysrv.com^
+||a.18ramp.com^
 ||a.344eva.com^
 ||a.addisplaynetwork.com^
 ||a.adsession.com^
@@ -1116,6 +1120,7 @@
 ||admin.shafttraffic.com^
 ||admin.trafficbaron.com^
 ||admin.trafficfactory.com^
+||admin.vrumeads.com^
 ||admin1.notifysrv.com^
 ||administration.notifysrv.com^
 ||admissions.notifysrv.com^
@@ -1189,6 +1194,7 @@
 ||rtb.trafficfactory.com^
 ||s.18ramp.com^
 ||s.344eva.com^
+||s.addisplaynetwork.com^
 ||s.adnflow.com^
 ||s.adsession.com^
 ||s.advantageclicks.net^
@@ -1240,6 +1246,7 @@
 ||s.elnz02.com^
 ||s.elnz03.com^
 ||s.elnz11.com^
+||s.elnz21.com^
 ||s.elnz23.com^
 ||s.etology.com^
 ||s.eunow4u.com^
@@ -1265,6 +1272,7 @@
 ||s.st1net.com^
 ||s.stuffserve.com^
 ||s.tf4srv.com^
+||s.traffic-gold.com^
 ||s.valuemedia-ltd.com^
 ||s.vlink6.com^
 ||s.vws4brkfst.com^
@@ -1369,6 +1377,7 @@
 ||www.3254306.notifysrv.com^
 ||www.3270262.notifysrv.com^
 ||www.3328380.notifysrv.com^
+||www.3351072.notifysrv.com^
 ||www.3352256.notify6.com^
 ||www.3410343.notify6.com^
 ||www.3440153.notify6.com^
@@ -1376,6 +1385,7 @@
 ||www.3466863.notify6.com^
 ||www.3475335.notify6.com^
 ||www.3493551.notify6.com^
+||www.3593835.notify6.com^
 ||www.3684237.notify6.com^
 ||www.3815579.notify6.com^
 ||www.3856281.notify6.com^

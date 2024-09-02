@@ -10,6 +10,7 @@
 ||count.vidsrc.pro^
 ||gc.sanyamkapoor.com^
 ||github.gpuzelenograd.cloudns.be^
+||goat.dheinemann.com^
 ||goat.hepicgamerz.com^
 ||goat.skeetstats.xyz^
 ||goat.tailspace.net^
@@ -29,3 +30,4 @@
 ||stats.msol.io^
 ||stats.palaisdesfetes.eu^
 ||stats.semipol.de^
+||visit.hijacklibs.net^

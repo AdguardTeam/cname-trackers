@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1724659207404        ; Serial
+           1725264007970        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,6 +37,7 @@ apicorporativops.portoseguro.com.br CNAME .
 app.uob.com.my CNAME .
 app.uob.com.sg CNAME .
 app392.gerberlife.com CNAME .
+applibs.fglife.com CNAME .
 applicant.rbfcu.org CNAME .
 apps.shift.com.au CNAME .
 appschk.scotiabank.com CNAME .
@@ -50,7 +51,6 @@ assets2.thefirstclub.com CNAME .
 auth.vedacheck.com.au CNAME .
 auth2.corelogic.asia CNAME .
 authorizer-data.infinitepay.io CNAME .
-b177.kabbage.com CNAME .
 backend.pin-up.dev CNAME .
 bank.bnpl.c24.de CNAME .
 banque.banque-casino.fr CNAME .
@@ -496,6 +496,7 @@ h.threatmetrix.com CNAME .
 h.truist.com CNAME .
 hint-tmdp.opendoor.com CNAME .
 hooru.regence.com CNAME .
+hunt.elcorteingles.es CNAME .
 id.latitudefinancial.com CNAME .
 identity.myblueprint.arkansasbluecross.com CNAME .
 idhtm.bb.com.br CNAME .
@@ -554,6 +555,7 @@ info.betway.co.zm CNAME .
 info.betway.fr CNAME .
 info.betway.lat CNAME .
 info.betwaypartnersafrica.com CNAME .
+info.jackpotcity.co.za CNAME .
 intlsdpntrca.nitrocasino.ca CNAME .
 intm.amwager.com CNAME .
 invalid-qa2.threatmetrix.com CNAME .
@@ -700,6 +702,7 @@ prod-selco.chaperone.lumindigitalhosting.com CNAME .
 prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcupa.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcutx.chaperone.lumindigitalhosting.com CNAME .
+prod-sperofin.chaperone.lumindigitalhosting.com CNAME .
 prod-travis.chaperone.lumindigitalhosting.com CNAME .
 prod-tvfcuwy.chaperone.lumindigitalhosting.com CNAME .
 prod-uecupa.chaperone.lumindigitalhosting.com CNAME .
@@ -1010,6 +1013,10 @@ tmx.beyondbank.com.au CNAME .
 tmx.carhistory.com.au CNAME .
 tmx.efsllc.com CNAME .
 tmx.gotobilling.com CNAME .
+tmx.idp.eu.safenetid.com CNAME .
+tmx.idp.safenetid-staging.safenetid.com CNAME .
+tmx.idp.safenetid.com CNAME .
+tmx.idp.us.safenetid.com CNAME .
 tmx.kijiji.ca CNAME .
 tmx.manulifebank.com CNAME .
 tmx.monzo.co.uk CNAME .

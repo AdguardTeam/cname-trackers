@@ -280,6 +280,7 @@
   "cdn.munilf.com": "popcashjs.b-cdn.net",
   "cdn.mwrgi.com": "popcashjs.b-cdn.net",
   "cdn.namol.xyz": "popcashjs.b-cdn.net",
+  "cdn.nejxdoy.com": "popcashjs.b-cdn.net",
   "cdn.nelhon.com": "popcashjs.b-cdn.net",
   "cdn.nlkli.com": "popcashjs.b-cdn.net",
   "cdn.nmkli.com": "popcashjs.b-cdn.net",
@@ -436,7 +437,6 @@
   "dolphin.sfelc.com": "deprecated-custom-domains.b-cdn.net",
   "donkey.aerzteteam-luppe.de": "deprecated-custom-domains.b-cdn.net",
   "donkey.annieswinecottagepowell.com": "deprecated-custom-domains.b-cdn.net",
-  "donkey.bahr.dev": "deprecated-custom-domains.b-cdn.net",
   "donkey.elegantmusicgroup.com": "deprecated-custom-domains.b-cdn.net",
   "donkey.guggenbichler.co.at": "deprecated-custom-domains.b-cdn.net",
   "donkey.hackoregon.org": "deprecated-custom-domains.b-cdn.net",
@@ -576,7 +576,6 @@
   "harrier.jasonsantamaria.com": "deprecated-custom-domains.b-cdn.net",
   "harrier.progress.fyi": "deprecated-custom-domains.b-cdn.net",
   "harrier.scdamerica.com.au": "deprecated-custom-domains.b-cdn.net",
-  "hawk.affio.co.uk": "deprecated-custom-domains.b-cdn.net",
   "hawk.makroskop.eu": "deprecated-custom-domains.b-cdn.net",
   "hawk.mjsarfatti.com": "deprecated-custom-domains.b-cdn.net",
   "hedgehog.fightforthefuture.org": "deprecated-custom-domains.b-cdn.net",
@@ -725,7 +724,6 @@
   "mandrill.yellowfruit.co": "deprecated-custom-domains.b-cdn.net",
   "mantaray.bullshitgoggles.com": "deprecated-custom-domains.b-cdn.net",
   "marlin.firstline.org": "deprecated-custom-domains.b-cdn.net",
-  "marmoset.acboforegon.org": "deprecated-custom-domains.b-cdn.net",
   "marmoset.easycolour.app": "deprecated-custom-domains.b-cdn.net",
   "marmoset.rocketlog.app": "deprecated-custom-domains.b-cdn.net",
   "marmot.hippiemodernism.com": "deprecated-custom-domains.b-cdn.net",
@@ -1159,6 +1157,5 @@
   "www.stork.notlessbutbetter.com": "deprecated-custom-domains.b-cdn.net",
   "yak.auclantis.com": "deprecated-custom-domains.b-cdn.net",
   "yak.flutterblog.net": "deprecated-custom-domains.b-cdn.net",
-  "yak.gregsullivan.com": "deprecated-custom-domains.b-cdn.net",
-  "yak.withlindy.com": "deprecated-custom-domains.b-cdn.net"
+  "yak.gregsullivan.com": "deprecated-custom-domains.b-cdn.net"
 }

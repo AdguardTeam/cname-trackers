@@ -41,6 +41,7 @@
     * h-2odx9gtz.online-metrix.net
     * h-2qfdtlmr.online-metrix.net
     * h-2ql3c6py.online-metrix.net
+    * h-2uk5c4md.online-metrix.net
     * h-2yf3c1v4.online-metrix.net
     * h-2yf5pvfu.online-metrix.net
     * h-2zweytuc.online-metrix.net
@@ -75,6 +76,7 @@
     * h-5wdrto0i.online-metrix.net
     * h-5wvo3z5x.online-metrix.net
     * h-5xx71132.online-metrix.net
+    * h-63ep99l5.online-metrix.net
     * h-68mv9954.online-metrix.net
     * h-6a6y6kka.online-metrix.net
     * h-6bp8wff7.online-metrix.net
@@ -189,6 +191,7 @@
     * h-autoowners.online-metrix.net
     * h-autozone.online-metrix.net
     * h-avant.online-metrix.net
+    * h-awaqftdj.online-metrix.net
     * h-axiata.online-metrix.net
     * h-b124ow4n.online-metrix.net
     * h-b2u9vacd.online-metrix.net
@@ -223,6 +226,7 @@
     * h-blp4gupl.online-metrix.net
     * h-blueorangebank.online-metrix.net
     * h-bluevine.online-metrix.net
+    * h-bmfe8lje.online-metrix.net
     * h-bmo.online-metrix.net
     * h-bmoharris2.online-metrix.net
     * h-bnc.online-metrix.net
@@ -479,7 +483,6 @@
     * h-k8vif92e.online-metrix.net
     * h-k8vif92e.qat.online-metrix.net
     * h-k8vif92e.sri3.online-metrix.net
-    * h-kabbage.online-metrix.net
     * h-kelmar-ak.online-metrix.net
     * h-kelmar-argov.online-metrix.net
     * h-kelmar-de.online-metrix.net
@@ -812,6 +815,7 @@
 | prod-sesloc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sfcupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sfcutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-sperofin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-travis.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-tvfcuwy.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-uecupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -851,6 +855,7 @@
 | tmx.manulifebank.com | h-2odx9gtz.online-metrix.net |
 | claimant.vec.virginia.gov | h-2qfdtlmr.online-metrix.net |
 | content22.bancanetempresarial.banamex.com.mx | h-2ql3c6py.online-metrix.net |
+| hunt.elcorteingles.es | h-2uk5c4md.online-metrix.net |
 | intlsdpntrca.nitrocasino.ca | h-2yf3c1v4.online-metrix.net |
 | validacion.rayo.com.co | h-2yf5pvfu.online-metrix.net |
 | fpmobile.uplift-platform.com | h-2zweytuc.online-metrix.net |
@@ -905,6 +910,7 @@
 | secure-service.id.dbsdigibank.com | h-5wdrto0i.online-metrix.net |
 | dp.mynylottery.org | h-5wvo3z5x.online-metrix.net |
 | lncdn.goosehead.com | h-5xx71132.online-metrix.net |
+| applibs.fglife.com | h-63ep99l5.online-metrix.net |
 | fms-dev.citysavings.net.ph | h-68mv9954.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | device.register.greenlight.com | h-6bp8wff7.online-metrix.net |
@@ -946,6 +952,7 @@
 | info.betway.fr | h-7v30y901.online-metrix.net |
 | info.betway.lat | h-7v30y901.online-metrix.net |
 | info.betwaypartnersafrica.com | h-7v30y901.online-metrix.net |
+| info.jackpotcity.co.za | h-7v30y901.online-metrix.net |
 | tm.tbcbank.uz | h-7xy7wvmp.online-metrix.net |
 | sec.mypage.ocn.ne.jp | h-7yh412tv.online-metrix.net |
 | ltxup.sumup.com | h-84sv8qof.online-metrix.net |
@@ -1074,6 +1081,7 @@
 | customercenter-img04.auto-owners.com | h-autoowners.online-metrix.net |
 | mobile-content-f.autozone.com | h-autozone.online-metrix.net |
 | img2.avant.com | h-avant.online-metrix.net |
+| tmx.idp.safenetid-staging.safenetid.com | h-awaqftdj.online-metrix.net |
 | caveo.boost-my.com | h-axiata.online-metrix.net |
 | bland.starone.org | h-b124ow4n.online-metrix.net |
 | ln.acornfun.com | h-b2u9vacd.online-metrix.net |
@@ -1115,6 +1123,9 @@
 | checkout.walz.de | h-blp4gupl.online-metrix.net |
 | stat.bluorbank.lv | h-blueorangebank.online-metrix.net |
 | tm-analytics.bluevine.com | h-bluevine.online-metrix.net |
+| tmx.idp.eu.safenetid.com | h-bmfe8lje.online-metrix.net |
+| tmx.idp.safenetid.com | h-bmfe8lje.online-metrix.net |
+| tmx.idp.us.safenetid.com | h-bmfe8lje.online-metrix.net |
 | content22.bmo.com | h-bmo.online-metrix.net |
 | content22.bmoharris.com | h-bmoharris2.online-metrix.net |
 | enligne.bnc.ca | h-bnc.online-metrix.net |
@@ -1487,7 +1498,6 @@
 | cybersource.shoplineapp.com | h-k8vif92e.online-metrix.net |
 | qrimages.qatarairways.com | h-k8vif92e.qat.online-metrix.net |
 | uldfp.srilankan.com | h-k8vif92e.sri3.online-metrix.net |
-| b177.kabbage.com | h-kabbage.online-metrix.net |
 | tag.unclaimedproperty.alaska.gov | h-kelmar-ak.online-metrix.net |
 | tag.claimitar.gov | h-kelmar-argov.online-metrix.net |
 | tag.unclaimedproperty.delaware.gov | h-kelmar-de.online-metrix.net |
