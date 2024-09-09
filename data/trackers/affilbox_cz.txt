@@ -21,7 +21,6 @@
 ||affil.cbdmedicals.com^
 ||affil.chlap20.sk^
 ||affil.chocome.cz^
-||affil.cityzenwear.cz^
 ||affil.claimcloud.cz^
 ||affil.comamdelat.com^
 ||affil.coolcocky.cz^
@@ -108,6 +107,7 @@
 ||affiliate.atomer.cz^
 ||affiliate.batteryshop.cz^
 ||affiliate.bikeplan.org^
+||affiliate.biocare.sk^
 ||affiliate.biooo.cz^
 ||affiliate.cannyapp.cz^
 ||affiliate.childhoodpotential.com^

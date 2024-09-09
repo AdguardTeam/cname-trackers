@@ -20,6 +20,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| a.18ramp.com | 1208818836.rsc.cdn77.org |
 | a.344eva.com | 1208818836.rsc.cdn77.org |
 | a.addisplaynetwork.com | 1208818836.rsc.cdn77.org |
 | a.adsession.com | 1208818836.rsc.cdn77.org |
@@ -545,6 +546,7 @@
 | 3505123.notifysrv.com | tk6if76q.ab1n.net |
 | 3505125.notify6.com | tk6if76q.ab1n.net |
 | 3505127.notify6.com | tk6if76q.ab1n.net |
+| 3505133.notify6.com | tk6if76q.ab1n.net |
 | 3505135.notifysrv.com | tk6if76q.ab1n.net |
 | 3505139.notify6.com | tk6if76q.ab1n.net |
 | 3505141.notify6.com | tk6if76q.ab1n.net |
@@ -743,6 +745,7 @@
 | 3670119.notifysrv.com | tk6if76q.ab1n.net |
 | 3670315.notify6.com | tk6if76q.ab1n.net |
 | 3672243.notifysrv.com | tk6if76q.ab1n.net |
+| 3682181.notify6.com | tk6if76q.ab1n.net |
 | 3682345.notifysrv.com | tk6if76q.ab1n.net |
 | 3684237.notify6.com | tk6if76q.ab1n.net |
 | 3701725.notifysrv.com | tk6if76q.ab1n.net |
@@ -1175,7 +1178,6 @@
 | joyce.notifysrv.com | tk6if76q.ab1n.net |
 | kiev.notifysrv.com | tk6if76q.ab1n.net |
 | law.notifysrv.com | tk6if76q.ab1n.net |
-| m.hue4a.com | tk6if76q.ab1n.net |
 | m.hue4c.com | tk6if76q.ab1n.net |
 | m.optidigital.com | tk6if76q.ab1n.net |
 | mail17.notifysrv.com | tk6if76q.ab1n.net |
@@ -1385,6 +1387,7 @@
 | www.3881818.notify6.com | tk6if76q.ab1n.net |
 | www.3972246.notify6.com | tk6if76q.ab1n.net |
 | www.4065194.notify6.com | tk6if76q.ab1n.net |
+| www.4065944.notify6.com | tk6if76q.ab1n.net |
 | www.4069896.notify6.com | tk6if76q.ab1n.net |
 | www.4152316.notify6.com | tk6if76q.ab1n.net |
 | www.4160048.notify6.com | tk6if76q.ab1n.net |
@@ -1452,12 +1455,14 @@
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.vrumeads.com | x0xmrxm4.ab1n.net |
+| admin.vrumeads.com | x0xmrxm4.ab1n.net |
 | adrepository.opoxv.com | x0xmrxm4.ab1n.net |
 | api.adnation.com | x0xmrxm4.ab1n.net |
 | api.datingclix.com | x0xmrxm4.ab1n.net |
 | api.getblaze.app | x0xmrxm4.ab1n.net |
 | api.slice.exchange | x0xmrxm4.ab1n.net |
 | api.tf4srv.com | x0xmrxm4.ab1n.net |
+| api.vrumeads.com | x0xmrxm4.ab1n.net |
 | gateway.wearetopple.com | x0xmrxm4.ab1n.net |
 | management-boost.exads.com | x0xmrxm4.ab1n.net |
 | management-itsup.exads.com | x0xmrxm4.ab1n.net |

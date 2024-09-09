@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -79,6 +79,7 @@ lalala.geenstijl.nl CNAME .
 media360ads.midtc.com CNAME .
 openx.mondiale.co.uk CNAME .
 opx.webtool.net CNAME .
+opximages.webtool.net CNAME .
 ox.mequoda.com CNAME .
 proxena-images.reviveservers.com CNAME .
 proxena-secure.reviveservers.com CNAME .

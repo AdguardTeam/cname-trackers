@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 c.leparisien.fr CNAME .
+flow-prod.h24.news CNAME .
 go.3ds.com CNAME .
 go.france24.com CNAME .
 go.letelegramme.fr CNAME .
@@ -105,6 +106,7 @@ l.touteleurope.eu CNAME .
 l.traxmag.com CNAME .
 l.varmatin.com CNAME .
 l.voici.fr CNAME .
+nr.lanouvellerepublique.fr CNAME .
 social.lafranceagricole.fr CNAME .
 sur.corsematin.com CNAME .
 sur.laprovence.com CNAME .

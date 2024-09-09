@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -293,6 +293,7 @@ filter.adright.co CNAME .
 filter.adright.com CNAME .
 filter.adsailor.com CNAME .
 filter.adsbuyclick.com CNAME .
+filter.adscholars.com CNAME .
 filter.adsfloow.net CNAME .
 filter.adsupplyexchange.com CNAME .
 filter.adtube.media CNAME .
@@ -301,6 +302,7 @@ filter.advlistings.com CNAME .
 filter.adwooo.com CNAME .
 filter.adxfactory.com CNAME .
 filter.adxnexus.com CNAME .
+filter.adxpoint.com CNAME .
 filter.adzestocp.com CNAME .
 filter.adzreach.com CNAME .
 filter.afront.io CNAME .
@@ -371,6 +373,7 @@ filter.laheatads.com CNAME .
 filter.leoback.com CNAME .
 filter.leoyard.com CNAME .
 filter.looksmartppc.com CNAME .
+filter.massmediaent.in CNAME .
 filter.mediacpc.com CNAME .
 filter.mediadstream.com CNAME .
 filter.mediastinct.com CNAME .
@@ -657,6 +660,7 @@ rtb-eu-v4.jambojar.com CNAME .
 rtb-eu-v4.pixelpluses.com CNAME .
 rtb-eu-v4.servvidisplay.com CNAME .
 rtb-eu-v4.trackifyy.com CNAME .
+rtb-eu-v4.tri.media CNAME .
 rtb-eu-v4.voisetech.com CNAME .
 rtb-eu-v4.vuukle.net CNAME .
 rtb-eu-v4.xmlppc.net CNAME .
@@ -844,6 +848,7 @@ rtb-useast.vyadd.com CNAME .
 rtb-useast.waardex.com CNAME .
 rtb-useast.westcom.tv CNAME .
 rtb-useast.wxadserve.xyz CNAME .
+rtb-useast.xmlppc.net CNAME .
 rtb-useast.xrtb.io CNAME .
 rtb-useast.zaimads.com CNAME .
 rtb-uswest-ak.solomath.com CNAME .
@@ -997,12 +1002,12 @@ selfservice.adoptim.com CNAME .
 serv.bvsrv.com CNAME .
 serve.datacygnal.io CNAME .
 sm-rtb-useast.zmdvideo.com CNAME .
+static-analytics.nativeads.com CNAME .
 static-rtb.adksrv.com CNAME .
 static-rtb2.adpix.online CNAME .
 static-rtb2.afkwa.com CNAME .
 static-rtb2.ak.bonanza.com CNAME .
 static-rtb2.applabs.live CNAME .
-static-rtb2.catapultx.com CNAME .
 static-rtb2.convergeselect.net CNAME .
 static-rtb2.gravityadnetwork.io CNAME .
 static-rtb2.magixengage.com CNAME .
@@ -1014,19 +1019,15 @@ static-rtb2.torchad.com CNAME .
 static-rtb2.xaprio.net CNAME .
 static.100conversions.com CNAME .
 static.152media.cloud CNAME .
-static.ad-maven.com CNAME .
-static.adbite.com CNAME .
+static.adflyer.media CNAME .
 static.adoperatorx.com CNAME .
 static.adright.co CNAME .
-static.adright.com CNAME .
 static.adsfloow.net CNAME .
 static.adsolut.in CNAME .
 static.ak.bonanza.com CNAME .
-static.analytics.nativeads.com CNAME .
 static.applixir.com CNAME .
 static.barcelona-backlinks.es CNAME .
 static.boffoadsapi.com CNAME .
-static.catapultx.com CNAME .
 static.cerineas.com CNAME .
 static.cpcsources.com CNAME .
 static.creativethingsdoneright.top CNAME .
@@ -1041,9 +1042,9 @@ static.fstsrv1.com CNAME .
 static.fstsrv10.com CNAME .
 static.fstsrv11.com CNAME .
 static.fstsrv13.com CNAME .
+static.fstsrv15.com CNAME .
 static.fstsrv2.com CNAME .
 static.fstsrv3.com CNAME .
-static.fstsrv5.com CNAME .
 static.fstsrv6.com CNAME .
 static.fstsrv7.com CNAME .
 static.fstsrv9.com CNAME .
@@ -1072,7 +1073,6 @@ static.sedodna.com CNAME .
 static.servingserved.com CNAME .
 static.smoads.com CNAME .
 static.theardent.group CNAME .
-static.trafficmoose.com CNAME .
 static.uzlifat.com CNAME .
 static.vashoot.com CNAME .
 static.webmedxml.com CNAME .
@@ -1234,6 +1234,7 @@ xml-eu-v4.ezmob.com CNAME .
 xml-eu-v4.flurryad.com CNAME .
 xml-eu-v4.fstsrv11.com CNAME .
 xml-eu-v4.fstsrv13.com CNAME .
+xml-eu-v4.fstsrv15.com CNAME .
 xml-eu-v4.fstsrv5.com CNAME .
 xml-eu-v4.fstsrv6.com CNAME .
 xml-eu-v4.fstsrv7.com CNAME .
@@ -1336,7 +1337,6 @@ xml-eu.rocoads.com CNAME .
 xml-eu.rtbfactory.com CNAME .
 xml-eu.saturndynamic.pt CNAME .
 xml-eu.servsserverz.com CNAME .
-xml-eu.setlitescmode-4.online CNAME .
 xml-eu.staradsmedia.com CNAME .
 xml-eu.thenetwork18.com CNAME .
 xml-eu.topdealad.com CNAME .
@@ -1349,6 +1349,7 @@ xml-eu.zaimads.com CNAME .
 xml-rtb.xapads.com CNAME .
 xml-v4.100conversions.com CNAME .
 xml-v4.9versemedia.com CNAME .
+xml-v4.a1.0network.com CNAME .
 xml-v4.acertb.com CNAME .
 xml-v4.adcannyxml.com CNAME .
 xml-v4.adflyer.media CNAME .
@@ -1381,6 +1382,7 @@ xml-v4.clouback-1.online CNAME .
 xml-v4.clouback-3.online CNAME .
 xml-v4.clouback-4.online CNAME .
 xml-v4.convertap.com CNAME .
+xml-v4.conxstream.com CNAME .
 xml-v4.coupontic.com CNAME .
 xml-v4.cpmvibes.com CNAME .
 xml-v4.ctrtraffic.com CNAME .
@@ -1396,6 +1398,7 @@ xml-v4.fmlabsonline.com CNAME .
 xml-v4.fstsrv1.com CNAME .
 xml-v4.fstsrv11.com CNAME .
 xml-v4.fstsrv13.com CNAME .
+xml-v4.fstsrv15.com CNAME .
 xml-v4.fstsrv2.com CNAME .
 xml-v4.fstsrv3.com CNAME .
 xml-v4.fstsrv4.com CNAME .
@@ -1458,6 +1461,7 @@ xml-v4.solarad.net CNAME .
 xml-v4.staradsmedia.com CNAME .
 xml-v4.starvalue-3.online CNAME .
 xml-v4.starvalue-4.online CNAME .
+xml-v4.strongkeyword.com CNAME .
 xml-v4.synthads.com CNAME .
 xml-v4.thenetwork18.com CNAME .
 xml-v4.thetargetmachine.com CNAME .
@@ -1578,6 +1582,7 @@ xml.fstsrv1.com CNAME .
 xml.fstsrv10.com CNAME .
 xml.fstsrv11.com CNAME .
 xml.fstsrv13.com CNAME .
+xml.fstsrv15.com CNAME .
 xml.fstsrv2.com CNAME .
 xml.fstsrv3.com CNAME .
 xml.fstsrv4.com CNAME .
@@ -1682,6 +1687,7 @@ xml.speroll.com CNAME .
 xml.staradsmedia.com CNAME .
 xml.starvalue-3.online CNAME .
 xml.starvalue-4.online CNAME .
+xml.strongkeyword.com CNAME .
 xml.sweetides.xyz CNAME .
 xml.synthads.com CNAME .
 xml.themediaad.com CNAME .
@@ -1734,17 +1740,23 @@ xmlv4.mobuppsrtb.com CNAME .
 xmlv4.reklama.network CNAME .
 akcdn.nativeadsfeed.com CNAME .
 static-xml.vespymedia.com CNAME .
+static.ad-maven.com CNAME .
+static.adbite.com CNAME .
 static.adcy.net CNAME .
 static.adjux.com CNAME .
 static.admeridianads.com CNAME .
 static.admidainsight.com CNAME .
 static.admozartxml.com CNAME .
 static.adokutcontextual.com CNAME .
+static.adright.com CNAME .
+static.analytics.nativeads.com CNAME .
 static.appocean.media CNAME .
+static.catapultx.com CNAME .
 static.creativedot.net CNAME .
 static.datacygnal.io CNAME .
 static.explorads.com CNAME .
 static.fstsrv4.com CNAME .
+static.fstsrv5.com CNAME .
 static.fstsrv8.com CNAME .
 static.hueadsxml.com CNAME .
 static.icyads.com CNAME .
@@ -1759,6 +1771,7 @@ static.revrtb.com CNAME .
 static.rocoads.com CNAME .
 static.rtbdemand.com CNAME .
 static.showcasead.com CNAME .
+static.trafficmoose.com CNAME .
 static.userwave.com CNAME .
 static.xrtb.io CNAME .
 static.zaimads.com CNAME .
@@ -1768,6 +1781,7 @@ dsp-static.nativeads.com CNAME .
 static-rtb.datacygnal.io CNAME .
 static-rtb.webtradingspot.com CNAME .
 static-rtb2.adpluto.com CNAME .
+static-rtb2.catapultx.com CNAME .
 static-rtb2.demandzoo.com CNAME .
 static-rtb2.e-volution.ai CNAME .
 static-rtb2.foremedia.net CNAME .

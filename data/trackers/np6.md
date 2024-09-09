@@ -325,6 +325,7 @@
 | tr.discover.perfectstay.com | tracking.bp01.net |
 | tr.djay.espmp-agfr.net | tracking.bp01.net |
 | tr.dkomaison.info | tracking.bp01.net |
+| tr.dl.mutcomplementaire.fr | tracking.bp01.net |
 | tr.dnapresse.fr | tracking.bp01.net |
 | tr.docapost-sirs.com | tracking.bp01.net |
 | tr.dogstrust.org.uk | tracking.bp01.net |
@@ -491,6 +492,7 @@
 | tr.info.easyviajar.com | tracking.bp01.net |
 | tr.info.easyvoyage.co.uk | tracking.bp01.net |
 | tr.info.easyvoyage.com | tracking.bp01.net |
+| tr.info.easyvoyage.de | tracking.bp01.net |
 | tr.info.ecole-de-savignac.com | tracking.bp01.net |
 | tr.info.epicery.com | tracking.bp01.net |
 | tr.info.fulli.com | tracking.bp01.net |
@@ -554,6 +556,7 @@
 | tr.infos.gazdebordeaux.fr | tracking.bp01.net |
 | tr.infos.lacarte.demenagez-moi.com | tracking.bp01.net |
 | tr.infos.lettre-resiliation.com | tracking.bp01.net |
+| tr.infos.mnt.fr | tracking.bp01.net |
 | tr.infos.odalys-vacances.com | tracking.bp01.net |
 | tr.inspiration.culture-data.fr | tracking.bp01.net |
 | tr.interieur.cotemaison.fr | tracking.bp01.net |
@@ -917,6 +920,7 @@
 | tr.nl.services-sncf.com | tracking.bp01.net |
 | tr.nl2.sncf-fidelite.com | tracking.bp01.net |
 | tr.nmcm.espmp-cufr.net | tracking.bp01.net |
+| tr.nmcm.espmp-nifr.net | tracking.bp01.net |
 | tr.notification.cafineo.fr | tracking.bp01.net |
 | tr.notification.cdiscount.com | tracking.bp01.net |
 | tr.notification.cetelem.fr | tracking.bp01.net |

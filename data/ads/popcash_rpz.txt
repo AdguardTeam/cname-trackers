@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -655,7 +655,6 @@ leech.stargate-project.de CNAME .
 lemming.nicolasmenard.com CNAME .
 lemming.vivian.do CNAME .
 lemur.a-and-a-trucking.com CNAME .
-lemur.prinsdalpizza.no CNAME .
 leopard.davidlindahlphoto.com CNAME .
 leopard.laszlo.cloud CNAME .
 leopard.ui-snippets.dev CNAME .
@@ -724,7 +723,6 @@ minnow.phasemedical.com CNAME .
 minnow.tapas-software.net CNAME .
 mite.cotinga.io CNAME .
 mite.tetrameros.com CNAME .
-mockingbir.sgfunited.com CNAME .
 mole.bteam.co CNAME .
 mole.bubblefoundation.org.uk CNAME .
 mole.dansksejlunion.dk CNAME .
@@ -776,7 +774,6 @@ ostrich.getschools.org CNAME .
 ostrich.hegic-tokenizer.co CNAME .
 ostrich.pergaudiaadastra.de CNAME .
 ostrich.scd-rv.com.au CNAME .
-otter.butika.fr CNAME .
 otter.emdegmbh.com CNAME .
 otter.jetting.no CNAME .
 otter.preferredequineonline.com CNAME .
@@ -797,6 +794,7 @@ panther.essentialwellnessyoga.com.au CNAME .
 panther.hoprnet.org CNAME .
 panther.thestocks.im CNAME .
 panther.tigil.rs CNAME .
+parakeet.jorenvanhocht.be CNAME .
 parakeet.quotetweet.com CNAME .
 parrot.lovably.com CNAME .
 parrotfish.thenping.me CNAME .
@@ -900,6 +898,7 @@ salamander.showandtelldata.com CNAME .
 salamander.yourownpay.com CNAME .
 salmon.literallife.church CNAME .
 salmon.thespiritualpsychologist.co.uk CNAME .
+sawfish.black-forest-digital.de CNAME .
 sawfish.hxd-lab.de CNAME .
 sawfish.loqbooq.app CNAME .
 scallop.esolia.pro CNAME .
@@ -994,6 +993,7 @@ takin.bottlebeagle.com CNAME .
 takin.cors.digital CNAME .
 takin.dripmacetas.com CNAME .
 takin.revolana.fr CNAME .
+tapir.albertaguardtraining.ca CNAME .
 tapir.lindahlstudios.com CNAME .
 tarantula.emotionalbaking.com CNAME .
 tarantula.searchbox.tech CNAME .
@@ -1007,6 +1007,7 @@ tern.xebel.co CNAME .
 tick.pcrpriser.se CNAME .
 tick.sculch.app CNAME .
 tigershark.garethtdavies.com CNAME .
+tigershark.hasanahmad.ca CNAME .
 tigershark.integratecolumbus.org CNAME .
 tigershark.moonpot.com CNAME .
 tigershark.paavanmagic.com CNAME .
@@ -1152,8 +1153,6 @@ cdn.unibotscdn.com CNAME .
 ucdn.adgebra.co CNAME .
 cdn.shrtfly.vip CNAME .
 cdn.tracking.prepr.io CNAME .
-chameleon.ryanmettler.com CNAME .
-flea.artisan.school CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .
@@ -1170,3 +1169,4 @@ ss.nwmnd.com CNAME .
 static.netfly.fun CNAME .
 thirty-good.lugg.com CNAME .
 video.adsninja.ca CNAME .
+flea.artisan.school CNAME .

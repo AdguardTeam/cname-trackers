@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ $TTL 300
 2efj.economies.cheque-dejeuner.com CNAME .
 2efj.up.coop CNAME .
 3esm.consubebe.es CNAME .
+5fm.985fm.ca CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -70,6 +71,7 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
@@ -92,6 +94,7 @@ deut1.fdj.fr CNAME .
 deut2.fdj.fr CNAME .
 deut3.fdj.fr CNAME .
 dko.vente-unique.nl CNAME .
+dlc9.destinia.ae CNAME .
 dqs3.darjeeling.fr CNAME .
 dsfe19.madeindesign.com CNAME .
 dv59b.montecarlomeeting.com CNAME .
@@ -186,7 +189,7 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-ebc1.capifrance.fr CNAME .
+eat9.thebeat925.ca CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
 eit3.destinia.nl CNAME .
@@ -330,6 +333,7 @@ nmo1.orpi.com CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
+nym5c.laura.ca CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
 oae6.carrefour-banque.fr CNAME .
@@ -416,6 +420,7 @@ snr4.canalplus.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
+su1.les-suites.ca CNAME .
 sykc.madeindesign.ch CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
@@ -500,15 +505,10 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
-5fm.985fm.ca CNAME .
 c0i.ckoi.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
 d2u.dauphinquebec.com CNAME .
-eat9.thebeat925.ca CNAME .
 nym5c.bonlook.com CNAME .
 ry0.rythmefm.com CNAME .
-su1.les-suites.ca CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
-nym5c.laura.ca CNAME .
 pk1u.melanielyne.com CNAME .

@@ -321,7 +321,15 @@ content.vi.gov
 content.washingtonnational.com
 content.westcreekfin.com
 content.wizink.es
+content002.bet365.ca
 content002.bet365.com
+content002.bet365.com.au
+content002.bet365.com.cy
+content002.bet365.de
+content002.bet365.dk
+content002.bet365.ee
+content002.bet365.it
+content002.bet365.mx
 content1.esdiacapi.com
 content1.reprisefinancial.com
 content2.instacart.com
@@ -406,6 +414,7 @@ df.fragrancex.com
 df.greenmangaming.com
 df.thumbtack.com
 dfme.kleinanzeigen.de
+dfp.cashpresso.com
 dfp.garmin.com
 dfp.mcdonalds.fr
 dfp.s-budget-mobile.at
@@ -437,6 +446,7 @@ elevate.stg.na02.aws.ballys.tech
 enligne.bnc.ca
 ep.vystarcu.org
 eps.uprova.com
+eve.playstation.com
 event.evtm.53.com
 faas.2dehands.be
 faas.2ememain.be
@@ -676,6 +686,7 @@ prod-interracu.chaperone.lumindigitalhosting.com
 prod-jaxfcufl.chaperone.lumindigitalhosting.com
 prod-jfcudc.chaperone.lumindigitalhosting.com
 prod-lafcuca.chaperone.lumindigitalhosting.com
+prod-latino.chaperone.lumindigitalhosting.com
 prod-lfcuva.chaperone.lumindigitalhosting.com
 prod-michedcu.chaperone.lumindigitalhosting.com
 prod-mscuct.chaperone.lumindigitalhosting.com
@@ -692,6 +703,7 @@ prod-sesloc.chaperone.lumindigitalhosting.com
 prod-sfcupa.chaperone.lumindigitalhosting.com
 prod-sfcutx.chaperone.lumindigitalhosting.com
 prod-sperofin.chaperone.lumindigitalhosting.com
+prod-tapco.chaperone.lumindigitalhosting.com
 prod-travis.chaperone.lumindigitalhosting.com
 prod-tvfcuwy.chaperone.lumindigitalhosting.com
 prod-uecupa.chaperone.lumindigitalhosting.com
@@ -947,6 +959,7 @@ tm.regionsqa.com
 tm.regionstest.com
 tm.rsa-claims.co.uk
 tm.solidgate.com
+tm.stats.fashionforhome.de
 tm.stats.home24.at
 tm.stats.home24.be
 tm.stats.home24.ch
@@ -1005,6 +1018,7 @@ tmx.gotobilling.com
 tmx.idp.eu.safenetid.com
 tmx.idp.safenetid-staging.safenetid.com
 tmx.idp.safenetid.com
+tmx.idp.us-staging.safenetid.com
 tmx.idp.us.safenetid.com
 tmx.kijiji.ca
 tmx.manulifebank.com

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -204,7 +204,6 @@ a8.looop-denki.com CNAME .
 a8.lwa-coating.com CNAME .
 a8.lyprimo.jp CNAME .
 a8.machino-housecleaning.com CNAME .
-a8.maf.mentor-capital.jp CNAME .
 a8.makeshop.jp CNAME .
 a8.mamacosme.co.jp CNAME .
 a8.mamaworks.jp CNAME .
@@ -683,7 +682,6 @@ a8clk.toretoku.jp CNAME .
 a8clk.tsuchiya-kaban.jp CNAME .
 a8clk.tsunorice.com CNAME .
 a8clk.uchinotoypoo.jp CNAME .
-a8clk.unihertz.com CNAME .
 a8clk.unionspo.com CNAME .
 a8clk.ur-s.me CNAME .
 a8clk.uzu.team CNAME .
@@ -905,6 +903,7 @@ a8cv.focusneo.net CNAME .
 a8cv.folio-sec.com CNAME .
 a8cv.folli.jp CNAME .
 a8cv.follome.motaras.co.jp CNAME .
+a8cv.foods-labo.com CNAME .
 a8cv.foresight.jp CNAME .
 a8cv.forza-gran.com CNAME .
 a8cv.fots.jp CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -332,7 +332,15 @@ content.vi.gov CNAME .
 content.washingtonnational.com CNAME .
 content.westcreekfin.com CNAME .
 content.wizink.es CNAME .
+content002.bet365.ca CNAME .
 content002.bet365.com CNAME .
+content002.bet365.com.au CNAME .
+content002.bet365.com.cy CNAME .
+content002.bet365.de CNAME .
+content002.bet365.dk CNAME .
+content002.bet365.ee CNAME .
+content002.bet365.it CNAME .
+content002.bet365.mx CNAME .
 content1.esdiacapi.com CNAME .
 content1.reprisefinancial.com CNAME .
 content2.instacart.com CNAME .
@@ -417,6 +425,7 @@ df.fragrancex.com CNAME .
 df.greenmangaming.com CNAME .
 df.thumbtack.com CNAME .
 dfme.kleinanzeigen.de CNAME .
+dfp.cashpresso.com CNAME .
 dfp.garmin.com CNAME .
 dfp.mcdonalds.fr CNAME .
 dfp.s-budget-mobile.at CNAME .
@@ -448,6 +457,7 @@ elevate.stg.na02.aws.ballys.tech CNAME .
 enligne.bnc.ca CNAME .
 ep.vystarcu.org CNAME .
 eps.uprova.com CNAME .
+eve.playstation.com CNAME .
 event.evtm.53.com CNAME .
 faas.2dehands.be CNAME .
 faas.2ememain.be CNAME .
@@ -687,6 +697,7 @@ prod-interracu.chaperone.lumindigitalhosting.com CNAME .
 prod-jaxfcufl.chaperone.lumindigitalhosting.com CNAME .
 prod-jfcudc.chaperone.lumindigitalhosting.com CNAME .
 prod-lafcuca.chaperone.lumindigitalhosting.com CNAME .
+prod-latino.chaperone.lumindigitalhosting.com CNAME .
 prod-lfcuva.chaperone.lumindigitalhosting.com CNAME .
 prod-michedcu.chaperone.lumindigitalhosting.com CNAME .
 prod-mscuct.chaperone.lumindigitalhosting.com CNAME .
@@ -703,6 +714,7 @@ prod-sesloc.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcupa.chaperone.lumindigitalhosting.com CNAME .
 prod-sfcutx.chaperone.lumindigitalhosting.com CNAME .
 prod-sperofin.chaperone.lumindigitalhosting.com CNAME .
+prod-tapco.chaperone.lumindigitalhosting.com CNAME .
 prod-travis.chaperone.lumindigitalhosting.com CNAME .
 prod-tvfcuwy.chaperone.lumindigitalhosting.com CNAME .
 prod-uecupa.chaperone.lumindigitalhosting.com CNAME .
@@ -958,6 +970,7 @@ tm.regionsqa.com CNAME .
 tm.regionstest.com CNAME .
 tm.rsa-claims.co.uk CNAME .
 tm.solidgate.com CNAME .
+tm.stats.fashionforhome.de CNAME .
 tm.stats.home24.at CNAME .
 tm.stats.home24.be CNAME .
 tm.stats.home24.ch CNAME .
@@ -1016,6 +1029,7 @@ tmx.gotobilling.com CNAME .
 tmx.idp.eu.safenetid.com CNAME .
 tmx.idp.safenetid-staging.safenetid.com CNAME .
 tmx.idp.safenetid.com CNAME .
+tmx.idp.us-staging.safenetid.com CNAME .
 tmx.idp.us.safenetid.com CNAME .
 tmx.kijiji.ca CNAME .
 tmx.manulifebank.com CNAME .

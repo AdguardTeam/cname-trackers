@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -32,7 +32,6 @@ affil.bruderland.cz CNAME .
 affil.cbdmedicals.com CNAME .
 affil.chlap20.sk CNAME .
 affil.chocome.cz CNAME .
-affil.cityzenwear.cz CNAME .
 affil.claimcloud.cz CNAME .
 affil.comamdelat.com CNAME .
 affil.coolcocky.cz CNAME .
@@ -119,6 +118,7 @@ affiliate.applemix.cz CNAME .
 affiliate.atomer.cz CNAME .
 affiliate.batteryshop.cz CNAME .
 affiliate.bikeplan.org CNAME .
+affiliate.biocare.sk CNAME .
 affiliate.biooo.cz CNAME .
 affiliate.cannyapp.cz CNAME .
 affiliate.childhoodpotential.com CNAME .

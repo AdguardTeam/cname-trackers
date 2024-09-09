@@ -18,6 +18,7 @@
     * h-1fezyu0r.online-metrix.net
     * h-1hr2syw3.online-metrix.net
     * h-1j9pdvix.online-metrix.net
+    * h-1jbum2vi.online-metrix.net
     * h-1k066192.online-metrix.net
     * h-1kcyydia.online-metrix.net
     * h-1lc506lh.online-metrix.net
@@ -34,6 +35,7 @@
     * h-2dehands.online-metrix.net
     * h-2ememain.online-metrix.net
     * h-2fiylyk1.online-metrix.net
+    * h-2gkqfg5y.online-metrix.net
     * h-2gssvh01.online-metrix.net
     * h-2ic7z584.online-metrix.net
     * h-2lrwrk15.online-metrix.net
@@ -770,6 +772,7 @@
 | elevate.stg.na02.aws.ballys.tech | h-1fezyu0r.online-metrix.net |
 | ls-dp.nj.thelotter.us | h-1hr2syw3.online-metrix.net |
 | fd-tm.upgrade.com | h-1j9pdvix.online-metrix.net |
+| dfp.cashpresso.com | h-1jbum2vi.online-metrix.net |
 | posture.mtoken.zand.ae | h-1k066192.online-metrix.net |
 | cnt.patpat.com | h-1kcyydia.online-metrix.net |
 | payments-de.lidlplus.com | h-1lc506lh.online-metrix.net |
@@ -800,6 +803,7 @@
 | prod-jaxfcufl.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-jfcudc.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-lafcuca.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-latino.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-lfcuva.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-michedcu.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-mscuct.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -816,6 +820,7 @@
 | prod-sfcupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sfcutx.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-sperofin.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
+| prod-tapco.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-travis.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-tvfcuwy.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
 | prod-uecupa.chaperone.lumindigitalhosting.com | h-1qeo60mk.online-metrix.net |
@@ -839,6 +844,7 @@
 | faas.2dehands.be | h-2dehands.online-metrix.net |
 | faas.2ememain.be | h-2ememain.online-metrix.net |
 | metrics.myfrs.com | h-2fiylyk1.online-metrix.net |
+| eve.playstation.com | h-2gkqfg5y.online-metrix.net |
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
 | tm.sunbit.com | h-2ic7z584.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
@@ -873,7 +879,15 @@
 | shield.boostbusiness.my | h-3zlt5rop.online-metrix.net |
 | ivaacontent.ers.ga.gov | h-42guvm37.online-metrix.net |
 | api.v1.threatmetrix.space.ge | h-47blm1l4.online-metrix.net |
+| content002.bet365.ca | h-47z24dz9.online-metrix.net |
 | content002.bet365.com | h-47z24dz9.online-metrix.net |
+| content002.bet365.com.au | h-47z24dz9.online-metrix.net |
+| content002.bet365.com.cy | h-47z24dz9.online-metrix.net |
+| content002.bet365.de | h-47z24dz9.online-metrix.net |
+| content002.bet365.dk | h-47z24dz9.online-metrix.net |
+| content002.bet365.ee | h-47z24dz9.online-metrix.net |
+| content002.bet365.it | h-47z24dz9.online-metrix.net |
+| content002.bet365.mx | h-47z24dz9.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | tmx-fpt.credit-agricole.pl | h-4ulk5mz4.online-metrix.net |
@@ -1082,6 +1096,7 @@
 | mobile-content-f.autozone.com | h-autozone.online-metrix.net |
 | img2.avant.com | h-avant.online-metrix.net |
 | tmx.idp.safenetid-staging.safenetid.com | h-awaqftdj.online-metrix.net |
+| tmx.idp.us-staging.safenetid.com | h-awaqftdj.online-metrix.net |
 | caveo.boost-my.com | h-axiata.online-metrix.net |
 | bland.starone.org | h-b124ow4n.online-metrix.net |
 | ln.acornfun.com | h-b2u9vacd.online-metrix.net |
@@ -1422,6 +1437,7 @@
 | cdnt.duobank.com | h-hie95lph-duo.online-metrix.net |
 | cdnt.walmartrewards.ca | h-hie95lph-walrew.online-metrix.net |
 | yr3ioxw.hoaresbank.co.uk | h-hoares.online-metrix.net |
+| tm.stats.fashionforhome.de | h-home24.online-metrix.net |
 | tm.stats.home24.at | h-home24.online-metrix.net |
 | tm.stats.home24.be | h-home24.online-metrix.net |
 | tm.stats.home24.ch | h-home24.online-metrix.net |

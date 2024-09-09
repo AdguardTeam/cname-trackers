@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -27,6 +27,7 @@ goat.skeetstats.xyz CNAME .
 goat.tailspace.net CNAME .
 goat1.nhimmeo.cf CNAME .
 goatcounter.gamecraft.it CNAME .
+monitor.rifki.xyz CNAME .
 st.mapleranks.com CNAME .
 stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .

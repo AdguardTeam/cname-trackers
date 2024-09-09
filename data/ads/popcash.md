@@ -20,15 +20,14 @@
 * unibotscdn.b-cdn.net
 * popupads.b-cdn.net
 * tracking.b-cdn.net
-* 77980.bodis.com
 * consent.b-cdn.net
 * b-cdn.net
+* 77980.bodis.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| chameleon.ryanmettler.com | 77980.bodis.com |
 | flea.artisan.school | 77980.bodis.com |
 | thirty-good.lugg.com | absolutely-novel.b-cdn.net |
 | cdn.admatic.com.tr | admaticcdn.b-cdn.net |
@@ -585,7 +584,6 @@
 | lemming.nicolasmenard.com | deprecated-custom-domains.b-cdn.net |
 | lemming.vivian.do | deprecated-custom-domains.b-cdn.net |
 | lemur.a-and-a-trucking.com | deprecated-custom-domains.b-cdn.net |
-| lemur.prinsdalpizza.no | deprecated-custom-domains.b-cdn.net |
 | leopard.davidlindahlphoto.com | deprecated-custom-domains.b-cdn.net |
 | leopard.laszlo.cloud | deprecated-custom-domains.b-cdn.net |
 | leopard.ui-snippets.dev | deprecated-custom-domains.b-cdn.net |
@@ -654,7 +652,6 @@
 | minnow.tapas-software.net | deprecated-custom-domains.b-cdn.net |
 | mite.cotinga.io | deprecated-custom-domains.b-cdn.net |
 | mite.tetrameros.com | deprecated-custom-domains.b-cdn.net |
-| mockingbir.sgfunited.com | deprecated-custom-domains.b-cdn.net |
 | mole.bteam.co | deprecated-custom-domains.b-cdn.net |
 | mole.bubblefoundation.org.uk | deprecated-custom-domains.b-cdn.net |
 | mole.dansksejlunion.dk | deprecated-custom-domains.b-cdn.net |
@@ -706,7 +703,6 @@
 | ostrich.hegic-tokenizer.co | deprecated-custom-domains.b-cdn.net |
 | ostrich.pergaudiaadastra.de | deprecated-custom-domains.b-cdn.net |
 | ostrich.scd-rv.com.au | deprecated-custom-domains.b-cdn.net |
-| otter.butika.fr | deprecated-custom-domains.b-cdn.net |
 | otter.emdegmbh.com | deprecated-custom-domains.b-cdn.net |
 | otter.jetting.no | deprecated-custom-domains.b-cdn.net |
 | otter.preferredequineonline.com | deprecated-custom-domains.b-cdn.net |
@@ -727,6 +723,7 @@
 | panther.hoprnet.org | deprecated-custom-domains.b-cdn.net |
 | panther.thestocks.im | deprecated-custom-domains.b-cdn.net |
 | panther.tigil.rs | deprecated-custom-domains.b-cdn.net |
+| parakeet.jorenvanhocht.be | deprecated-custom-domains.b-cdn.net |
 | parakeet.quotetweet.com | deprecated-custom-domains.b-cdn.net |
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
 | parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
@@ -830,6 +827,7 @@
 | salamander.yourownpay.com | deprecated-custom-domains.b-cdn.net |
 | salmon.literallife.church | deprecated-custom-domains.b-cdn.net |
 | salmon.thespiritualpsychologist.co.uk | deprecated-custom-domains.b-cdn.net |
+| sawfish.black-forest-digital.de | deprecated-custom-domains.b-cdn.net |
 | sawfish.hxd-lab.de | deprecated-custom-domains.b-cdn.net |
 | sawfish.loqbooq.app | deprecated-custom-domains.b-cdn.net |
 | scallop.esolia.pro | deprecated-custom-domains.b-cdn.net |
@@ -924,6 +922,7 @@
 | takin.cors.digital | deprecated-custom-domains.b-cdn.net |
 | takin.dripmacetas.com | deprecated-custom-domains.b-cdn.net |
 | takin.revolana.fr | deprecated-custom-domains.b-cdn.net |
+| tapir.albertaguardtraining.ca | deprecated-custom-domains.b-cdn.net |
 | tapir.lindahlstudios.com | deprecated-custom-domains.b-cdn.net |
 | tarantula.emotionalbaking.com | deprecated-custom-domains.b-cdn.net |
 | tarantula.searchbox.tech | deprecated-custom-domains.b-cdn.net |
@@ -937,6 +936,7 @@
 | tick.pcrpriser.se | deprecated-custom-domains.b-cdn.net |
 | tick.sculch.app | deprecated-custom-domains.b-cdn.net |
 | tigershark.garethtdavies.com | deprecated-custom-domains.b-cdn.net |
+| tigershark.hasanahmad.ca | deprecated-custom-domains.b-cdn.net |
 | tigershark.integratecolumbus.org | deprecated-custom-domains.b-cdn.net |
 | tigershark.moonpot.com | deprecated-custom-domains.b-cdn.net |
 | tigershark.paavanmagic.com | deprecated-custom-domains.b-cdn.net |

@@ -16,6 +16,7 @@
 ||goat.tailspace.net^
 ||goat1.nhimmeo.cf^
 ||goatcounter.gamecraft.it^
+||monitor.rifki.xyz^
 ||st.mapleranks.com^
 ||stats.boredkevin.com^
 ||stats.boringproxy.io^

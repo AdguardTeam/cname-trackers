@@ -493,6 +493,7 @@
 ||3505123.notifysrv.com^
 ||3505125.notify6.com^
 ||3505127.notify6.com^
+||3505133.notify6.com^
 ||3505135.notifysrv.com^
 ||3505139.notify6.com^
 ||3505141.notify6.com^
@@ -691,6 +692,7 @@
 ||3670119.notifysrv.com^
 ||3670315.notify6.com^
 ||3672243.notifysrv.com^
+||3682181.notify6.com^
 ||3682345.notifysrv.com^
 ||3684237.notify6.com^
 ||3701725.notifysrv.com^
@@ -1135,6 +1137,7 @@
 ||api.slice.exchange^
 ||api.tf4srv.com^
 ||api.trafficfactory.com^
+||api.vrumeads.com^
 ||argo.notifysrv.com^
 ||asb.notifysrv.com^
 ||asia.notifysrv.com^
@@ -1168,7 +1171,6 @@
 ||joyce.notifysrv.com^
 ||kiev.notifysrv.com^
 ||law.notifysrv.com^
-||m.hue4a.com^
 ||m.hue4c.com^
 ||m.optidigital.com^
 ||mail17.notifysrv.com^
@@ -1392,6 +1394,7 @@
 ||www.3881818.notify6.com^
 ||www.3972246.notify6.com^
 ||www.4065194.notify6.com^
+||www.4065944.notify6.com^
 ||www.4069896.notify6.com^
 ||www.4152316.notify6.com^
 ||www.4160048.notify6.com^

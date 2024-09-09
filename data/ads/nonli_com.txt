@@ -1,6 +1,7 @@
 !
 ! Company name: nonli.com
 ||c.leparisien.fr^
+||flow-prod.h24.news^
 ||go.3ds.com^
 ||go.france24.com^
 ||go.letelegramme.fr^
@@ -94,6 +95,7 @@
 ||l.traxmag.com^
 ||l.varmatin.com^
 ||l.voici.fr^
+||nr.lanouvellerepublique.fr^
 ||social.lafranceagricole.fr^
 ||sur.corsematin.com^
 ||sur.laprovence.com^

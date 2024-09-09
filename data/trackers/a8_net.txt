@@ -193,7 +193,6 @@
 ||a8.lwa-coating.com^
 ||a8.lyprimo.jp^
 ||a8.machino-housecleaning.com^
-||a8.maf.mentor-capital.jp^
 ||a8.makeshop.jp^
 ||a8.mamacosme.co.jp^
 ||a8.mamaworks.jp^
@@ -672,7 +671,6 @@
 ||a8clk.tsuchiya-kaban.jp^
 ||a8clk.tsunorice.com^
 ||a8clk.uchinotoypoo.jp^
-||a8clk.unihertz.com^
 ||a8clk.unionspo.com^
 ||a8clk.ur-s.me^
 ||a8clk.uzu.team^
@@ -894,6 +892,7 @@
 ||a8cv.folio-sec.com^
 ||a8cv.folli.jp^
 ||a8cv.follome.motaras.co.jp^
+||a8cv.foods-labo.com^
 ||a8cv.foresight.jp^
 ||a8cv.forza-gran.com^
 ||a8cv.fots.jp^

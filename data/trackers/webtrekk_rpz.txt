@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -389,6 +389,7 @@ web.x.ilpost.it CNAME .
 webanalytics.also.com CNAME .
 webmet.creditreform-mahnwesen.de CNAME .
 webmet.creditreform.de CNAME .
+webmet.crefotrust.de CNAME .
 website-usage.b2bendix.com CNAME .
 website-usage.knorr-bremse.com CNAME .
 webt.aqipa.com CNAME .

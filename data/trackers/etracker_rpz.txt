@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,6 +29,7 @@ et.electronic4you.si CNAME .
 et.majdic.at CNAME .
 et.pns24.de CNAME .
 etd.wackerneusongroup.com CNAME .
+etracker.alex-gross.com CNAME .
 ets.verivox.com CNAME .
 ferthu.seyffer.shop CNAME .
 js.edingershops.de CNAME .
@@ -48,11 +49,14 @@ stats.tirolerjobs.at CNAME .
 stats.umziehen.de CNAME .
 stats.united-domains.de CNAME .
 stats.wienerjobs.at CNAME .
+track.dictum-gartenwerkzeug.de CNAME .
 track.dictum-handwerksgalerie.de CNAME .
 track.dictum-shop.de CNAME .
 track.dictum.com CNAME .
 track.karlstorz.com CNAME .
+track.richtig-schaerfen.de CNAME .
 track.thegundogaffair.com CNAME .
+tracker.bkk24.de CNAME .
 wa.ostermann.eu CNAME .
 webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
@@ -74,4 +78,5 @@ stats.bodenverkauf.de CNAME .
 stats.ekd.de CNAME .
 stats.hoeping.de CNAME .
 stats.maschinenprofi.de CNAME .
+stats.mm-germany.com CNAME .
 www.visitormotion.com CNAME .

@@ -14,7 +14,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| chameleon.ryanmettler.com | 77980.bodis.com |
 | flea.artisan.school | 77980.bodis.com |
 | 4ke5b4ila.codedge.de | deprecated-custom-domains.b-cdn.net |
 | 7wrxo2xh.iriscreative.co | deprecated-custom-domains.b-cdn.net |
@@ -643,7 +642,6 @@
 | ostrich.hegic-tokenizer.co | deprecated-custom-domains.b-cdn.net |
 | ostrich.pergaudiaadastra.de | deprecated-custom-domains.b-cdn.net |
 | ostrich.scd-rv.com.au | deprecated-custom-domains.b-cdn.net |
-| otter.butika.fr | deprecated-custom-domains.b-cdn.net |
 | otter.emdegmbh.com | deprecated-custom-domains.b-cdn.net |
 | otter.jetting.no | deprecated-custom-domains.b-cdn.net |
 | otter.preferredequineonline.com | deprecated-custom-domains.b-cdn.net |
@@ -1462,7 +1460,6 @@
 | lemming.nicolasmenard.com | starman.fathomdns.com |
 | lemming.vivian.do | starman.fathomdns.com |
 | lemur.a-and-a-trucking.com | starman.fathomdns.com |
-| lemur.prinsdalpizza.no | starman.fathomdns.com |
 | leopard.davidlindahlphoto.com | starman.fathomdns.com |
 | leopard.laszlo.cloud | starman.fathomdns.com |
 | leopard.ui-snippets.dev | starman.fathomdns.com |
@@ -1531,7 +1528,6 @@
 | minnow.tapas-software.net | starman.fathomdns.com |
 | mite.cotinga.io | starman.fathomdns.com |
 | mite.tetrameros.com | starman.fathomdns.com |
-| mockingbir.sgfunited.com | starman.fathomdns.com |
 | mole.bteam.co | starman.fathomdns.com |
 | mole.bubblefoundation.org.uk | starman.fathomdns.com |
 | mole.dansksejlunion.dk | starman.fathomdns.com |
@@ -1583,7 +1579,6 @@
 | ostrich.hegic-tokenizer.co | starman.fathomdns.com |
 | ostrich.pergaudiaadastra.de | starman.fathomdns.com |
 | ostrich.scd-rv.com.au | starman.fathomdns.com |
-| otter.butika.fr | starman.fathomdns.com |
 | otter.emdegmbh.com | starman.fathomdns.com |
 | otter.jetting.no | starman.fathomdns.com |
 | otter.preferredequineonline.com | starman.fathomdns.com |
@@ -1604,6 +1599,7 @@
 | panther.hoprnet.org | starman.fathomdns.com |
 | panther.thestocks.im | starman.fathomdns.com |
 | panther.tigil.rs | starman.fathomdns.com |
+| parakeet.jorenvanhocht.be | starman.fathomdns.com |
 | parakeet.quotetweet.com | starman.fathomdns.com |
 | parrot.lovably.com | starman.fathomdns.com |
 | parrotfish.thenping.me | starman.fathomdns.com |
@@ -1707,6 +1703,7 @@
 | salamander.yourownpay.com | starman.fathomdns.com |
 | salmon.literallife.church | starman.fathomdns.com |
 | salmon.thespiritualpsychologist.co.uk | starman.fathomdns.com |
+| sawfish.black-forest-digital.de | starman.fathomdns.com |
 | sawfish.hxd-lab.de | starman.fathomdns.com |
 | sawfish.loqbooq.app | starman.fathomdns.com |
 | scallop.esolia.pro | starman.fathomdns.com |
@@ -1799,6 +1796,7 @@
 | takin.cors.digital | starman.fathomdns.com |
 | takin.dripmacetas.com | starman.fathomdns.com |
 | takin.revolana.fr | starman.fathomdns.com |
+| tapir.albertaguardtraining.ca | starman.fathomdns.com |
 | tapir.lindahlstudios.com | starman.fathomdns.com |
 | tarantula.emotionalbaking.com | starman.fathomdns.com |
 | tarantula.searchbox.tech | starman.fathomdns.com |
@@ -1812,6 +1810,7 @@
 | tick.pcrpriser.se | starman.fathomdns.com |
 | tick.sculch.app | starman.fathomdns.com |
 | tigershark.garethtdavies.com | starman.fathomdns.com |
+| tigershark.hasanahmad.ca | starman.fathomdns.com |
 | tigershark.integratecolumbus.org | starman.fathomdns.com |
 | tigershark.moonpot.com | starman.fathomdns.com |
 | tigershark.paavanmagic.com | starman.fathomdns.com |

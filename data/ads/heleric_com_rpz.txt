@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,6 +45,7 @@ cb.momistmatico.com CNAME .
 ce.paliercleaned.com CNAME .
 cf.pygopustimawa.com CNAME .
 ck.barefitaiding.com CNAME .
+ck.befoulsdaza.com CNAME .
 ck.kyoodlehewe.com CNAME .
 cl.durezzacrowns.com CNAME .
 cq.stoundisocrat.com CNAME .
@@ -86,6 +87,7 @@ fi.questormyxo.com CNAME .
 fk.janetsh.com CNAME .
 fl.dumpiesgoschen.com CNAME .
 fl.gannetsmechant.com CNAME .
+fn.dowagerbeurre.com CNAME .
 fo.sackerskips.com CNAME .
 fp.rancheparsnip.com CNAME .
 fs.velellabudded.com CNAME .
@@ -105,6 +107,7 @@ hb.tewitfeoffee.com CNAME .
 hb.vampednorbert.com CNAME .
 hf.frisklelooms.com CNAME .
 hg.barwaltanha.com CNAME .
+hi.burdenmapwise.com CNAME .
 hj.faggotbovidae.com CNAME .
 hl.queresspurdie.com CNAME .
 hm.alnuinvisayan.com CNAME .
@@ -139,6 +142,7 @@ kc.droyltenuate.com CNAME .
 kc.mazdeangastrea.com CNAME .
 kk.dintshectar.com CNAME .
 kl.embarupbuoy.com CNAME .
+ko.lohancosily.com CNAME .
 kq.myrtolbanzai.com CNAME .
 kr.cafenehkikki.com CNAME .
 ks.tipsifyfriezer.com CNAME .
@@ -209,6 +213,7 @@ pu.serumchicha.com CNAME .
 py.dittanyambreic.com CNAME .
 qa.usninicsooey.com CNAME .
 qd.gibbarwaiting.com CNAME .
+qf.ycleptbathing.com CNAME .
 qh.editormbiras.com CNAME .
 qh.escapedinbreed.com CNAME .
 ql.vinelethoner.com CNAME .
@@ -267,6 +272,7 @@ tl.hogtiescrawley.com CNAME .
 tl.larchentreeman.com CNAME .
 tm.tangasulfide.com CNAME .
 tn.frecklygozzan.com CNAME .
+tq.rationsofftake.com CNAME .
 tr.bhootolea.com CNAME .
 tr.keetsgray.com CNAME .
 ts.getherelf.com CNAME .
@@ -333,6 +339,7 @@ yu.deggerfletton.com CNAME .
 yv.remountduretto.com CNAME .
 yz.wrightdirely.com CNAME .
 zd.amautkarite.com CNAME .
+zf.dezaleyarmless.com CNAME .
 zg.butaneailment.com CNAME .
 zg.embraseupgo.com CNAME .
 zi.kissbluest.com CNAME .

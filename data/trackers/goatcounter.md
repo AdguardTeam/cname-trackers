@@ -31,6 +31,7 @@
     * satanisk.goatcounter.com
     * semipol.goatcounter.com
     * skeetstats.goatcounter.com
+    * statistik.goatcounter.com
     * tailspace.goatcounter.com
     * valentineus.goatcounter.com
     * vpro.goatcounter.com
@@ -67,6 +68,7 @@
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
 | goat.skeetstats.xyz | skeetstats.goatcounter.com |
+| monitor.rifki.xyz | statistik.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |
 | analytics.popov.link | valentineus.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |

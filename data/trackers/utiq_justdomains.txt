@@ -13,9 +13,11 @@ utiq.24hamburg.de
 utiq.24rhein.de
 utiq.24vita.de
 utiq.3djuegos.com
+utiq.750g.com
 utiq.abc.es
 utiq.actu.fr
 utiq.applesfera.com
+utiq.ariva.de
 utiq.atf-tagmanager.de
 utiq.aufeminin.com
 utiq.autobild.de
@@ -33,6 +35,7 @@ utiq.buzzfeed.de
 utiq.bw24.de
 utiq.bz-berlin.de
 utiq.caminteresse.fr
+utiq.capital.fr
 utiq.cesoirtv.com
 utiq.cheriefm.fr
 utiq.chip.de
@@ -40,6 +43,7 @@ utiq.cnetfrance.fr
 utiq.come-on.de
 utiq.compradiccion.com
 utiq.computerbild.de
+utiq.cuisineactuelle.fr
 utiq.dasgelbeblatt.de
 utiq.desired.de
 utiq.diariodeibiza.es
@@ -50,6 +54,7 @@ utiq.diariosur.es
 utiq.diariovasco.com
 utiq.directoalpaladar.com
 utiq.donaukurier.de
+utiq.easyvoyage.com
 utiq.eatbetter.de
 utiq.einfach-tasty.de
 utiq.elcomercio.es
@@ -73,6 +78,7 @@ utiq.familie.de
 utiq.farodevigo.es
 utiq.faz.net
 utiq.fehmarn24.de
+utiq.femmeactuelle.fr
 utiq.finanzfrage.net
 utiq.fitbook.de
 utiq.fnp.de
@@ -82,6 +88,7 @@ utiq.frandroid.com
 utiq.funandnews.de
 utiq.futurezone.de
 utiq.genbeta.com
+utiq.geo.fr
 utiq.gesundheitsfrage.net
 utiq.giessener-allgemeine.de
 utiq.giga.de
@@ -90,6 +97,7 @@ utiq.gutefrage.net
 utiq.hallo-eltern.de
 utiq.hallo-muenchen.de
 utiq.handelsblatt.com
+utiq.hbrfrance.fr
 utiq.heftig.de
 utiq.helpster.de
 utiq.hersfelder-zeitung.de
@@ -118,6 +126,7 @@ utiq.lejournaldelamaison.fr
 utiq.leonoticias.com
 utiq.levante-emv.com
 utiq.lne.es
+utiq.madmoizelle.com
 utiq.maennerseite.net
 utiq.maison-travaux.fr
 utiq.mallorcazeitung.es
@@ -129,6 +138,7 @@ utiq.mittelbayerische.de
 utiq.modesettravaux.fr
 utiq.mopo.de
 utiq.motor-talk.de
+utiq.motorradfrage.net
 utiq.movistar.es
 utiq.mundoxiaomi.com
 utiq.myhomebook.de

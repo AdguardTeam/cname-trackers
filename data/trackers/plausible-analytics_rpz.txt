@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -396,7 +396,6 @@ stats.bungeefit.co.uk CNAME .
 stats.burocratin.com CNAME .
 stats.byma.com.br CNAME .
 stats.byterocket.dev CNAME .
-stats.cable.tech CNAME .
 stats.callum.fyi CNAME .
 stats.carrot2.org CNAME .
 stats.carrotsearch.com CNAME .
@@ -756,7 +755,6 @@ stats.sapnininkas.com CNAME .
 stats.sascha-theobald.de CNAME .
 stats.savoirplus-risquermoins.net CNAME .
 stats.sax.net CNAME .
-stats.scailable.net CNAME .
 stats.scalesql.com CNAME .
 stats.scottbartell.com CNAME .
 stats.screenagers.com CNAME .

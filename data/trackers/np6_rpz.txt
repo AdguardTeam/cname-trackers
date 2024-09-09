@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -315,6 +315,7 @@ tr.dirigeants.harmonie-mutuelle.fr CNAME .
 tr.discover.perfectstay.com CNAME .
 tr.djay.espmp-agfr.net CNAME .
 tr.dkomaison.info CNAME .
+tr.dl.mutcomplementaire.fr CNAME .
 tr.dnapresse.fr CNAME .
 tr.docapost-sirs.com CNAME .
 tr.dogstrust.org.uk CNAME .
@@ -481,6 +482,7 @@ tr.info.easyviaggio.com CNAME .
 tr.info.easyviajar.com CNAME .
 tr.info.easyvoyage.co.uk CNAME .
 tr.info.easyvoyage.com CNAME .
+tr.info.easyvoyage.de CNAME .
 tr.info.ecole-de-savignac.com CNAME .
 tr.info.epicery.com CNAME .
 tr.info.fulli.com CNAME .
@@ -544,6 +546,7 @@ tr.infos.fongecifcentre.com CNAME .
 tr.infos.gazdebordeaux.fr CNAME .
 tr.infos.lacarte.demenagez-moi.com CNAME .
 tr.infos.lettre-resiliation.com CNAME .
+tr.infos.mnt.fr CNAME .
 tr.infos.odalys-vacances.com CNAME .
 tr.inspiration.culture-data.fr CNAME .
 tr.interieur.cotemaison.fr CNAME .
@@ -907,6 +910,7 @@ tr.nl.myvipmag.fr CNAME .
 tr.nl.services-sncf.com CNAME .
 tr.nl2.sncf-fidelite.com CNAME .
 tr.nmcm.espmp-cufr.net CNAME .
+tr.nmcm.espmp-nifr.net CNAME .
 tr.notification.cafineo.fr CNAME .
 tr.notification.cdiscount.com CNAME .
 tr.notification.cetelem.fr CNAME .

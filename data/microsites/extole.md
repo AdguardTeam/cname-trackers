@@ -24,7 +24,6 @@
     * chubbies.extole.com
     * citizen-times.extole.com
     * clarionledger.extole.com
-    * clarisonic.extole.com
     * clearme-ssl.extole.com
     * compexusa.extole.com
     * criquetshirts.extole.com
@@ -222,7 +221,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -308,6 +306,7 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -486,6 +485,7 @@
     * shutterstock.extole.io
     * shyft.extole.io
     * simon-and-schuster.extole.io
+    * simplepractice.extole.io
     * sizigi.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
@@ -550,6 +550,7 @@
     * under-armour-4.extole.io
     * under-armour.extole.io
     * uniqlo.extole.io
+    * unison.extole.io
     * united.extole.io
     * urbanmop.extole.io
     * useagle.extole.io
@@ -724,7 +725,6 @@
 | refer.citizenwatch.com | citizen.extole.io |
 | share.cityfurniture.com | cityfurniture.extole.io |
 | refer.clarionledger.com | clarionledger.extole.com |
-| refer.clarisonic.com | clarisonic.extole.com |
 | refer.clarksusa.com | clarksusa.extole.io |
 | referral.cledepeaubeaute.com | cle-de-peau.extole.io |
 | refer.clearme.com | clearme-ssl.extole.com |
@@ -734,7 +734,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -897,6 +896,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1161,6 +1161,7 @@
 | share.shyft.co.za | shyft.extole.io |
 | refer.silvercar.com | silvercar.extole.com |
 | share.simonandschuster.com | simon-and-schuster.extole.io |
+| share.simplepractice.com | simplepractice.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
@@ -1257,6 +1258,7 @@
 | refer.underarmour.it | under-armour.extole.io |
 | refer.unionplus.org | unionprivilege-ssl.extole.com |
 | refer-us.uniqlo.com | uniqlo.extole.io |
+| refer.unison.com | unison.extole.io |
 | share.united.net | united.extole.io |
 | refer.urbandaddy.com | urbandaddyperks.extole.com |
 | share.urbanmop.ca | urbanmop.extole.io |

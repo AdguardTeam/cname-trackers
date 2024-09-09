@@ -183,6 +183,7 @@
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | images.addurance.com | platformiq-cdn.aquaplatform.com |
 | images.informatm.com | platformiq-cdn.aquaplatform.com |
+| opximages.webtool.net | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | static.hollandhortimedia.nl | platformiq-cdn.aquaplatform.com |
 | adserver.infotorg.se | platformiq-del.aquaplatform.com |

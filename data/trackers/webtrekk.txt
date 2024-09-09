@@ -378,6 +378,7 @@
 ||webanalytics.also.com^
 ||webmet.creditreform-mahnwesen.de^
 ||webmet.creditreform.de^
+||webmet.crefotrust.de^
 ||website-usage.b2bendix.com^
 ||website-usage.knorr-bremse.com^
 ||webt.aqipa.com^

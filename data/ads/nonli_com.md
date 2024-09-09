@@ -19,11 +19,13 @@
 | l.nicematin.com | non.li |
 | l.traxmag.com | non.li |
 | l.varmatin.com | non.li |
+| nr.lanouvellerepublique.fr | non.li |
 | social.lafranceagricole.fr | non.li |
 | sur.laprovence.com | non.li |
 | l.laprovence.com | tls-lp-cm.non.li |
 | sur.corsematin.com | tls-lp-cm.non.li |
 | go.rfi.fr | tls-rfi.non.li |
+| flow-prod.h24.news | tls.non.li |
 | go.3ds.com | tls.non.li |
 | go.france24.com | tls.non.li |
 | go.letelegramme.fr | tls.non.li |

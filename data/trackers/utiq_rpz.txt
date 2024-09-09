@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,9 +24,11 @@ utiq.24hamburg.de CNAME .
 utiq.24rhein.de CNAME .
 utiq.24vita.de CNAME .
 utiq.3djuegos.com CNAME .
+utiq.750g.com CNAME .
 utiq.abc.es CNAME .
 utiq.actu.fr CNAME .
 utiq.applesfera.com CNAME .
+utiq.ariva.de CNAME .
 utiq.atf-tagmanager.de CNAME .
 utiq.aufeminin.com CNAME .
 utiq.autobild.de CNAME .
@@ -44,6 +46,7 @@ utiq.buzzfeed.de CNAME .
 utiq.bw24.de CNAME .
 utiq.bz-berlin.de CNAME .
 utiq.caminteresse.fr CNAME .
+utiq.capital.fr CNAME .
 utiq.cesoirtv.com CNAME .
 utiq.cheriefm.fr CNAME .
 utiq.chip.de CNAME .
@@ -51,6 +54,7 @@ utiq.cnetfrance.fr CNAME .
 utiq.come-on.de CNAME .
 utiq.compradiccion.com CNAME .
 utiq.computerbild.de CNAME .
+utiq.cuisineactuelle.fr CNAME .
 utiq.dasgelbeblatt.de CNAME .
 utiq.desired.de CNAME .
 utiq.diariodeibiza.es CNAME .
@@ -61,6 +65,7 @@ utiq.diariosur.es CNAME .
 utiq.diariovasco.com CNAME .
 utiq.directoalpaladar.com CNAME .
 utiq.donaukurier.de CNAME .
+utiq.easyvoyage.com CNAME .
 utiq.eatbetter.de CNAME .
 utiq.einfach-tasty.de CNAME .
 utiq.elcomercio.es CNAME .
@@ -84,6 +89,7 @@ utiq.familie.de CNAME .
 utiq.farodevigo.es CNAME .
 utiq.faz.net CNAME .
 utiq.fehmarn24.de CNAME .
+utiq.femmeactuelle.fr CNAME .
 utiq.finanzfrage.net CNAME .
 utiq.fitbook.de CNAME .
 utiq.fnp.de CNAME .
@@ -93,6 +99,7 @@ utiq.frandroid.com CNAME .
 utiq.funandnews.de CNAME .
 utiq.futurezone.de CNAME .
 utiq.genbeta.com CNAME .
+utiq.geo.fr CNAME .
 utiq.gesundheitsfrage.net CNAME .
 utiq.giessener-allgemeine.de CNAME .
 utiq.giga.de CNAME .
@@ -101,6 +108,7 @@ utiq.gutefrage.net CNAME .
 utiq.hallo-eltern.de CNAME .
 utiq.hallo-muenchen.de CNAME .
 utiq.handelsblatt.com CNAME .
+utiq.hbrfrance.fr CNAME .
 utiq.heftig.de CNAME .
 utiq.helpster.de CNAME .
 utiq.hersfelder-zeitung.de CNAME .
@@ -129,6 +137,7 @@ utiq.lejournaldelamaison.fr CNAME .
 utiq.leonoticias.com CNAME .
 utiq.levante-emv.com CNAME .
 utiq.lne.es CNAME .
+utiq.madmoizelle.com CNAME .
 utiq.maennerseite.net CNAME .
 utiq.maison-travaux.fr CNAME .
 utiq.mallorcazeitung.es CNAME .
@@ -140,6 +149,7 @@ utiq.mittelbayerische.de CNAME .
 utiq.modesettravaux.fr CNAME .
 utiq.mopo.de CNAME .
 utiq.motor-talk.de CNAME .
+utiq.motorradfrage.net CNAME .
 utiq.movistar.es CNAME .
 utiq.mundoxiaomi.com CNAME .
 utiq.myhomebook.de CNAME .

@@ -385,7 +385,6 @@ stats.bungeefit.co.uk
 stats.burocratin.com
 stats.byma.com.br
 stats.byterocket.dev
-stats.cable.tech
 stats.callum.fyi
 stats.carrot2.org
 stats.carrotsearch.com
@@ -745,7 +744,6 @@ stats.sapnininkas.com
 stats.sascha-theobald.de
 stats.savoirplus-risquermoins.net
 stats.sax.net
-stats.scailable.net
 stats.scalesql.com
 stats.scottbartell.com
 stats.screenagers.com

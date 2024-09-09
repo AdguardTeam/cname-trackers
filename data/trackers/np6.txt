@@ -304,6 +304,7 @@
 ||tr.discover.perfectstay.com^
 ||tr.djay.espmp-agfr.net^
 ||tr.dkomaison.info^
+||tr.dl.mutcomplementaire.fr^
 ||tr.dnapresse.fr^
 ||tr.docapost-sirs.com^
 ||tr.dogstrust.org.uk^
@@ -470,6 +471,7 @@
 ||tr.info.easyviajar.com^
 ||tr.info.easyvoyage.co.uk^
 ||tr.info.easyvoyage.com^
+||tr.info.easyvoyage.de^
 ||tr.info.ecole-de-savignac.com^
 ||tr.info.epicery.com^
 ||tr.info.fulli.com^
@@ -533,6 +535,7 @@
 ||tr.infos.gazdebordeaux.fr^
 ||tr.infos.lacarte.demenagez-moi.com^
 ||tr.infos.lettre-resiliation.com^
+||tr.infos.mnt.fr^
 ||tr.infos.odalys-vacances.com^
 ||tr.inspiration.culture-data.fr^
 ||tr.interieur.cotemaison.fr^
@@ -896,6 +899,7 @@
 ||tr.nl.services-sncf.com^
 ||tr.nl2.sncf-fidelite.com^
 ||tr.nmcm.espmp-cufr.net^
+||tr.nmcm.espmp-nifr.net^
 ||tr.notification.cafineo.fr^
 ||tr.notification.cdiscount.com^
 ||tr.notification.cetelem.fr^

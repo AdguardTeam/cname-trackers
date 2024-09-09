@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725264007970        ; Serial
+           1725868807952        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -89,6 +89,7 @@ meta-events.velonews.com CNAME .
 meta-events.womensrunning.com CNAME .
 meta-events.yellowstonepark.com CNAME .
 meta-events.yogajournal.com CNAME .
+mr-in-staging.beginlearning.com CNAME .
 mr-in.beginlearning.com CNAME .
 mr-in.littlepassports.com CNAME .
 mr.pinkbike.com CNAME .

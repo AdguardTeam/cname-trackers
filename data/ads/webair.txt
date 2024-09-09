@@ -282,6 +282,7 @@
 ||filter.adright.com^
 ||filter.adsailor.com^
 ||filter.adsbuyclick.com^
+||filter.adscholars.com^
 ||filter.adsfloow.net^
 ||filter.adsupplyexchange.com^
 ||filter.adtube.media^
@@ -290,6 +291,7 @@
 ||filter.adwooo.com^
 ||filter.adxfactory.com^
 ||filter.adxnexus.com^
+||filter.adxpoint.com^
 ||filter.adzestocp.com^
 ||filter.adzreach.com^
 ||filter.afront.io^
@@ -360,6 +362,7 @@
 ||filter.leoback.com^
 ||filter.leoyard.com^
 ||filter.looksmartppc.com^
+||filter.massmediaent.in^
 ||filter.mediacpc.com^
 ||filter.mediadstream.com^
 ||filter.mediastinct.com^
@@ -646,6 +649,7 @@
 ||rtb-eu-v4.pixelpluses.com^
 ||rtb-eu-v4.servvidisplay.com^
 ||rtb-eu-v4.trackifyy.com^
+||rtb-eu-v4.tri.media^
 ||rtb-eu-v4.voisetech.com^
 ||rtb-eu-v4.vuukle.net^
 ||rtb-eu-v4.xmlppc.net^
@@ -833,6 +837,7 @@
 ||rtb-useast.waardex.com^
 ||rtb-useast.westcom.tv^
 ||rtb-useast.wxadserve.xyz^
+||rtb-useast.xmlppc.net^
 ||rtb-useast.xrtb.io^
 ||rtb-useast.zaimads.com^
 ||rtb-uswest-ak.solomath.com^
@@ -986,12 +991,12 @@
 ||serv.bvsrv.com^
 ||serve.datacygnal.io^
 ||sm-rtb-useast.zmdvideo.com^
+||static-analytics.nativeads.com^
 ||static-rtb.adksrv.com^
 ||static-rtb2.adpix.online^
 ||static-rtb2.afkwa.com^
 ||static-rtb2.ak.bonanza.com^
 ||static-rtb2.applabs.live^
-||static-rtb2.catapultx.com^
 ||static-rtb2.convergeselect.net^
 ||static-rtb2.gravityadnetwork.io^
 ||static-rtb2.magixengage.com^
@@ -1003,19 +1008,15 @@
 ||static-rtb2.xaprio.net^
 ||static.100conversions.com^
 ||static.152media.cloud^
-||static.ad-maven.com^
-||static.adbite.com^
+||static.adflyer.media^
 ||static.adoperatorx.com^
 ||static.adright.co^
-||static.adright.com^
 ||static.adsfloow.net^
 ||static.adsolut.in^
 ||static.ak.bonanza.com^
-||static.analytics.nativeads.com^
 ||static.applixir.com^
 ||static.barcelona-backlinks.es^
 ||static.boffoadsapi.com^
-||static.catapultx.com^
 ||static.cerineas.com^
 ||static.cpcsources.com^
 ||static.creativethingsdoneright.top^
@@ -1030,9 +1031,9 @@
 ||static.fstsrv10.com^
 ||static.fstsrv11.com^
 ||static.fstsrv13.com^
+||static.fstsrv15.com^
 ||static.fstsrv2.com^
 ||static.fstsrv3.com^
-||static.fstsrv5.com^
 ||static.fstsrv6.com^
 ||static.fstsrv7.com^
 ||static.fstsrv9.com^
@@ -1061,7 +1062,6 @@
 ||static.servingserved.com^
 ||static.smoads.com^
 ||static.theardent.group^
-||static.trafficmoose.com^
 ||static.uzlifat.com^
 ||static.vashoot.com^
 ||static.webmedxml.com^
@@ -1223,6 +1223,7 @@
 ||xml-eu-v4.flurryad.com^
 ||xml-eu-v4.fstsrv11.com^
 ||xml-eu-v4.fstsrv13.com^
+||xml-eu-v4.fstsrv15.com^
 ||xml-eu-v4.fstsrv5.com^
 ||xml-eu-v4.fstsrv6.com^
 ||xml-eu-v4.fstsrv7.com^
@@ -1325,7 +1326,6 @@
 ||xml-eu.rtbfactory.com^
 ||xml-eu.saturndynamic.pt^
 ||xml-eu.servsserverz.com^
-||xml-eu.setlitescmode-4.online^
 ||xml-eu.staradsmedia.com^
 ||xml-eu.thenetwork18.com^
 ||xml-eu.topdealad.com^
@@ -1338,6 +1338,7 @@
 ||xml-rtb.xapads.com^
 ||xml-v4.100conversions.com^
 ||xml-v4.9versemedia.com^
+||xml-v4.a1.0network.com^
 ||xml-v4.acertb.com^
 ||xml-v4.adcannyxml.com^
 ||xml-v4.adflyer.media^
@@ -1370,6 +1371,7 @@
 ||xml-v4.clouback-3.online^
 ||xml-v4.clouback-4.online^
 ||xml-v4.convertap.com^
+||xml-v4.conxstream.com^
 ||xml-v4.coupontic.com^
 ||xml-v4.cpmvibes.com^
 ||xml-v4.ctrtraffic.com^
@@ -1385,6 +1387,7 @@
 ||xml-v4.fstsrv1.com^
 ||xml-v4.fstsrv11.com^
 ||xml-v4.fstsrv13.com^
+||xml-v4.fstsrv15.com^
 ||xml-v4.fstsrv2.com^
 ||xml-v4.fstsrv3.com^
 ||xml-v4.fstsrv4.com^
@@ -1447,6 +1450,7 @@
 ||xml-v4.staradsmedia.com^
 ||xml-v4.starvalue-3.online^
 ||xml-v4.starvalue-4.online^
+||xml-v4.strongkeyword.com^
 ||xml-v4.synthads.com^
 ||xml-v4.thenetwork18.com^
 ||xml-v4.thetargetmachine.com^
@@ -1567,6 +1571,7 @@
 ||xml.fstsrv10.com^
 ||xml.fstsrv11.com^
 ||xml.fstsrv13.com^
+||xml.fstsrv15.com^
 ||xml.fstsrv2.com^
 ||xml.fstsrv3.com^
 ||xml.fstsrv4.com^
@@ -1671,6 +1676,7 @@
 ||xml.staradsmedia.com^
 ||xml.starvalue-3.online^
 ||xml.starvalue-4.online^
+||xml.strongkeyword.com^
 ||xml.sweetides.xyz^
 ||xml.synthads.com^
 ||xml.themediaad.com^
@@ -1723,17 +1729,23 @@
 ||xmlv4.reklama.network^
 ||akcdn.nativeadsfeed.com^
 ||static-xml.vespymedia.com^
+||static.ad-maven.com^
+||static.adbite.com^
 ||static.adcy.net^
 ||static.adjux.com^
 ||static.admeridianads.com^
 ||static.admidainsight.com^
 ||static.admozartxml.com^
 ||static.adokutcontextual.com^
+||static.adright.com^
+||static.analytics.nativeads.com^
 ||static.appocean.media^
+||static.catapultx.com^
 ||static.creativedot.net^
 ||static.datacygnal.io^
 ||static.explorads.com^
 ||static.fstsrv4.com^
+||static.fstsrv5.com^
 ||static.fstsrv8.com^
 ||static.hueadsxml.com^
 ||static.icyads.com^
@@ -1748,6 +1760,7 @@
 ||static.rocoads.com^
 ||static.rtbdemand.com^
 ||static.showcasead.com^
+||static.trafficmoose.com^
 ||static.userwave.com^
 ||static.xrtb.io^
 ||static.zaimads.com^
@@ -1757,6 +1770,7 @@
 ||static-rtb.datacygnal.io^
 ||static-rtb.webtradingspot.com^
 ||static-rtb2.adpluto.com^
+||static-rtb2.catapultx.com^
 ||static-rtb2.demandzoo.com^
 ||static-rtb2.e-volution.ai^
 ||static-rtb2.foremedia.net^

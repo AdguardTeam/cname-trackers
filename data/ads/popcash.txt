@@ -644,7 +644,6 @@
 ||lemming.nicolasmenard.com^
 ||lemming.vivian.do^
 ||lemur.a-and-a-trucking.com^
-||lemur.prinsdalpizza.no^
 ||leopard.davidlindahlphoto.com^
 ||leopard.laszlo.cloud^
 ||leopard.ui-snippets.dev^
@@ -713,7 +712,6 @@
 ||minnow.tapas-software.net^
 ||mite.cotinga.io^
 ||mite.tetrameros.com^
-||mockingbir.sgfunited.com^
 ||mole.bteam.co^
 ||mole.bubblefoundation.org.uk^
 ||mole.dansksejlunion.dk^
@@ -765,7 +763,6 @@
 ||ostrich.hegic-tokenizer.co^
 ||ostrich.pergaudiaadastra.de^
 ||ostrich.scd-rv.com.au^
-||otter.butika.fr^
 ||otter.emdegmbh.com^
 ||otter.jetting.no^
 ||otter.preferredequineonline.com^
@@ -786,6 +783,7 @@
 ||panther.hoprnet.org^
 ||panther.thestocks.im^
 ||panther.tigil.rs^
+||parakeet.jorenvanhocht.be^
 ||parakeet.quotetweet.com^
 ||parrot.lovably.com^
 ||parrotfish.thenping.me^
@@ -889,6 +887,7 @@
 ||salamander.yourownpay.com^
 ||salmon.literallife.church^
 ||salmon.thespiritualpsychologist.co.uk^
+||sawfish.black-forest-digital.de^
 ||sawfish.hxd-lab.de^
 ||sawfish.loqbooq.app^
 ||scallop.esolia.pro^
@@ -983,6 +982,7 @@
 ||takin.cors.digital^
 ||takin.dripmacetas.com^
 ||takin.revolana.fr^
+||tapir.albertaguardtraining.ca^
 ||tapir.lindahlstudios.com^
 ||tarantula.emotionalbaking.com^
 ||tarantula.searchbox.tech^
@@ -996,6 +996,7 @@
 ||tick.pcrpriser.se^
 ||tick.sculch.app^
 ||tigershark.garethtdavies.com^
+||tigershark.hasanahmad.ca^
 ||tigershark.integratecolumbus.org^
 ||tigershark.moonpot.com^
 ||tigershark.paavanmagic.com^
@@ -1141,8 +1142,6 @@
 ||ucdn.adgebra.co^
 ||cdn.shrtfly.vip^
 ||cdn.tracking.prepr.io^
-||chameleon.ryanmettler.com^
-||flea.artisan.school^
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^
 ||dntcl.qualaroo.com^
@@ -1159,3 +1158,4 @@
 ||static.netfly.fun^
 ||thirty-good.lugg.com^
 ||video.adsninja.ca^
+||flea.artisan.school^

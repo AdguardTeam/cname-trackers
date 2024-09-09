@@ -398,7 +398,6 @@
 | stats.burocratin.com | custom.plausible.io |
 | stats.byma.com.br | custom.plausible.io |
 | stats.byterocket.dev | custom.plausible.io |
-| stats.cable.tech | custom.plausible.io |
 | stats.callum.fyi | custom.plausible.io |
 | stats.carrot2.org | custom.plausible.io |
 | stats.carrotsearch.com | custom.plausible.io |
@@ -758,7 +757,6 @@
 | stats.sascha-theobald.de | custom.plausible.io |
 | stats.savoirplus-risquermoins.net | custom.plausible.io |
 | stats.sax.net | custom.plausible.io |
-| stats.scailable.net | custom.plausible.io |
 | stats.scalesql.com | custom.plausible.io |
 | stats.scottbartell.com | custom.plausible.io |
 | stats.screenagers.com | custom.plausible.io |
