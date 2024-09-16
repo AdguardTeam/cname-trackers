@@ -278,6 +278,7 @@
 | affiliate.uncaria.cz | cz.affilbox.cz |
 | affiliate.unicare.sk | cz.affilbox.cz |
 | affiliate.urbanstore.cz | cz.affilbox.cz |
+| affiliate.urbanstore.sk | cz.affilbox.cz |
 | affiliate.vasecocky.cz | cz.affilbox.cz |
 | affiliate.vasesosovky.sk | cz.affilbox.cz |
 | affiliate.velebny.cz | cz.affilbox.cz |
@@ -317,7 +318,6 @@
 | hcbox.bikemax.cz | cz.affilbox.cz |
 | hcbox.fitness-zone.cz | cz.affilbox.cz |
 | hcbox.itcomplet.sk | cz.affilbox.cz |
-| hcbox.mezamo.sk | cz.affilbox.cz |
 | hcbox.mironet.cz | cz.affilbox.cz |
 | hcbox.tesla-electronics.eu | cz.affilbox.cz |
 | hcbox.tlamka.cz | cz.affilbox.cz |
@@ -465,7 +465,6 @@
 | partner.bed4dogs.com | cz.affilbox.cz |
 | partner.bio-nechty.sk | cz.affilbox.cz |
 | partner.bio-nehty.cz | cz.affilbox.cz |
-| partner.bioaromakosmetika.cz | cz.affilbox.cz |
 | partner.biomag.cz | cz.affilbox.cz |
 | partner.bitcoinzmenaren.sk | cz.affilbox.cz |
 | partner.bohemiaclean.eu | cz.affilbox.cz |
@@ -775,7 +774,6 @@
 | partneri.dluhopisomat.cz | cz.affilbox.cz |
 | partneri.domaci-outlet.cz | cz.affilbox.cz |
 | partneri.dusansoucek.cz | cz.affilbox.cz |
-| partneri.easyfocus.cz | cz.affilbox.cz |
 | partneri.easylingo.cz | cz.affilbox.cz |
 | partneri.ecstatic.cz | cz.affilbox.cz |
 | partneri.edibles.eu | cz.affilbox.cz |

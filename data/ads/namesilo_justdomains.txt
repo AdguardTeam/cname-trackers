@@ -317,6 +317,7 @@
 3351068.notifysrv.com
 3351072.notify6.com
 3351072.notifysrv.com
+3351914.notify6.com
 3351914.notifysrv.com
 3352256.notify6.com
 3352256.notifysrv.com
@@ -471,6 +472,7 @@
 3475341.notify6.com
 3475349.notify6.com
 3476453.notifysrv.com
+3477325.notify6.com
 3478737.notifysrv.com
 3483067.notifysrv.com
 3483233.notifysrv.com
@@ -910,6 +912,7 @@
 4162254.notify6.com
 4162256.notify6.com
 4162264.notify6.com
+4165670.notify6.com
 4166040.notify6.com
 4173044.notify6.com
 4177784.notify6.com
@@ -1106,6 +1109,7 @@ a.santabrowser.com
 a.slice.exchange
 a.stuffserve.com
 a.tf4srv.com
+a.traffic-gold.com
 a.vws4brkfst.com
 abc.notifysrv.com
 accept.notifysrv.com
@@ -1119,6 +1123,7 @@ admin.exoclick.com
 admin.gettopple.com
 admin.landingtrk.com
 admin.redpathmedia.com
+admin.rocoads.net
 admin.shafttraffic.com
 admin.trafficbaron.com
 admin.trafficfactory.com
@@ -1244,7 +1249,6 @@ s.elns2a.com
 s.elns4a.com
 s.elns4b.com
 s.elns4c.com
-s.elnz01.com
 s.elnz02.com
 s.elnz03.com
 s.elnz11.com
@@ -1253,6 +1257,7 @@ s.elnz23.com
 s.etology.com
 s.eunow4u.com
 s.exv6.com
+s.linkw2c.com
 s.linkw2e.com
 s.linkw2g.com
 s.ma3ion.com
@@ -1293,6 +1298,7 @@ s.zlinkd.com
 s.zlinkl.com
 s.zlinkm.com
 s.zlinkn.com
+s.zlinkp.com
 s25.notifysrv.com
 s30.notifysrv.com
 samba.notifysrv.com
@@ -1368,6 +1374,7 @@ web02.notifysrv.com
 webcast.notifysrv.com
 webdisk.client.notifysrv.com
 win4.notifysrv.com
+www.10.notify.bizonads-ssp.com
 www.12.notify.bizonads-ssp.com
 www.3177866.notifysrv.com
 www.3191479.notifysrv.com
@@ -1381,12 +1388,14 @@ www.3270262.notifysrv.com
 www.3328380.notifysrv.com
 www.3351072.notifysrv.com
 www.3352256.notify6.com
+www.3398315.notify6.com
 www.3410343.notify6.com
 www.3440153.notify6.com
 www.3466857.notify6.com
 www.3466863.notify6.com
 www.3475335.notify6.com
 www.3493551.notify6.com
+www.3501655.notify6.com
 www.3593835.notify6.com
 www.3684237.notify6.com
 www.3815579.notify6.com
@@ -1396,6 +1405,7 @@ www.3972246.notify6.com
 www.4065194.notify6.com
 www.4065944.notify6.com
 www.4069896.notify6.com
+www.4130286.notify6.com
 www.4152316.notify6.com
 www.4160048.notify6.com
 www.4195388.notify6.com

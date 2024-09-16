@@ -1423,7 +1423,6 @@
 ||cv.bc-force.com^
 ||cv.belta-shop.jp^
 ||cv.betrading.jp^
-||cv.bikoshaen.com^
 ||cv.bloomeelife.com^
 ||cv.cante-gym.com^
 ||cv.cart.naturath.jp^
@@ -1466,6 +1465,7 @@
 ||cv.stella-s.com^
 ||cv.subscription-store.com^
 ||cv.sumaho-hoken.jp^
+||cv.sunny-store-cart.com^
 ||cv.taskar.online^
 ||cv.tenjin.cc^
 ||cv.theatreacademy.info^

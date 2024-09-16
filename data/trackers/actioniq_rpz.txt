@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -67,6 +67,7 @@ meta-events.bikereg.com CNAME .
 meta-events.cleaneatingmag.com CNAME .
 meta-events.climbing.com CNAME .
 meta-events.finisherpix.com CNAME .
+meta-events.gaiagps.com CNAME .
 meta-events.mycoloradoparks.com CNAME .
 meta-events.mygrandcanyonpark.com CNAME .
 meta-events.myolympicpark.com CNAME .
@@ -78,6 +79,8 @@ meta-events.outside.io CNAME .
 meta-events.outsideonline.com CNAME .
 meta-events.oxygenmag.com CNAME .
 meta-events.pledgereg.com CNAME .
+meta-events.podiumrunner.com CNAME .
+meta-events.road-results.com CNAME .
 meta-events.runreg.com CNAME .
 meta-events.skimag.com CNAME .
 meta-events.trailforks.com CNAME .
@@ -89,8 +92,8 @@ meta-events.velonews.com CNAME .
 meta-events.womensrunning.com CNAME .
 meta-events.yellowstonepark.com CNAME .
 meta-events.yogajournal.com CNAME .
-mr-in-staging.beginlearning.com CNAME .
 mr-in.beginlearning.com CNAME .
 mr-in.littlepassports.com CNAME .
 mr.pinkbike.com CNAME .
 anx-staging.learnwithhomer.com CNAME .
+mr-in-staging.beginlearning.com CNAME .

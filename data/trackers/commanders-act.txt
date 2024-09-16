@@ -5,6 +5,7 @@
 ||data.decathlon.fr^
 ||data.decathlon.it^
 ||data.decathlon.pl^
+||data.ubi.com^
 ||data.wptag.net^
 ||logger.yp.ca^
 ||sales.disneylandparis.com^
@@ -15,7 +16,6 @@
 ||data.auchandirect.fr^
 ||data.ouigo.com^
 ||data.ricaud.com^
-||data.ubi.com^
 ||tag.boulanger.fr^
 ||tc.europcar.com^
 ||tc.europcar.com.au^

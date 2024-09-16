@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -21,24 +21,28 @@ contacapre.bortox.it CNAME .
 count.vidsrc.pro CNAME .
 gc.sanyamkapoor.com CNAME .
 github.gpuzelenograd.cloudns.be CNAME .
+goat.dabric.xyz CNAME .
 goat.dheinemann.com CNAME .
 goat.hepicgamerz.com CNAME .
 goat.skeetstats.xyz CNAME .
 goat.tailspace.net CNAME .
+goat.twoistoomany.com CNAME .
 goat1.nhimmeo.cf CNAME .
 goatcounter.gamecraft.it CNAME .
-monitor.rifki.xyz CNAME .
 st.mapleranks.com CNAME .
+stats.45rpm.ch CNAME .
 stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .
 stats.cassie.omg.lol CNAME .
 stats.cloudflex.team CNAME .
 stats.how.wtf CNAME .
 stats.jakebailey.dev CNAME .
+stats.jamesgwyer.com CNAME .
 stats.johanneswienke.de CNAME .
 stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
 stats.lspeed.org CNAME .
+stats.mele.dev CNAME .
 stats.msol.io CNAME .
 stats.palaisdesfetes.eu CNAME .
 stats.semipol.de CNAME .

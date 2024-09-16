@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -206,6 +206,7 @@ antelope.u3a.com.au CNAME .
 antlion.codivores.com CNAME .
 antlion.hendrikhaack.de CNAME .
 ape.mfj.se CNAME .
+ape.pytch.co.uk CNAME .
 ape.smartplanschema.se CNAME .
 aphid.enjoleur.com CNAME .
 aphid.nihilnegativum.com CNAME .
@@ -286,6 +287,7 @@ butterfly.dharsh.dev CNAME .
 butterfly.rfortherestofus.com CNAME .
 buzzard.donotresearch.net CNAME .
 buzzard.ficabo.com.au CNAME .
+buzzard.nimble.team CNAME .
 camel.gastro-plan.app CNAME .
 camel.nonpopularopinion.com CNAME .
 camel.warvik.no CNAME .
@@ -867,6 +869,7 @@ raccoon.jaronheard.com CNAME .
 rat.einfachlebenforum.com CNAME .
 rat.gimlet.io CNAME .
 raven.konquadrat.de CNAME .
+raven.omamao.ch CNAME .
 raven.vethelpdirect.com CNAME .
 reindeer.cablemod.com CNAME .
 reindeer.iainbroome.com CNAME .
@@ -1021,7 +1024,6 @@ tortoise.mdx.one CNAME .
 toucan.ateliermilky.com CNAME .
 toucan.the-faithful.com CNAME .
 treefrog.kaffeknappen.no CNAME .
-treefrog.tschmeisser.com CNAME .
 treefrog.walkingwithdaddy.com CNAME .
 trout.batzo.net CNAME .
 trout.openfpl.com CNAME .
@@ -1102,6 +1104,7 @@ assets-v2.northsidesun.com CNAME .
 avemariaas.vmrcommunications.com CNAME .
 carlsonmedia.streetinteractive.com CNAME .
 connected.ashrae.org CNAME .
+connected.county10.com CNAME .
 daily.yubanet.com CNAME .
 floorforce.streetinteractive.com CNAME .
 gemtun.ctnewsjunkie.com CNAME .

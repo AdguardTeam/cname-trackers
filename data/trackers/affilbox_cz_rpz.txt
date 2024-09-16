@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -270,6 +270,7 @@ affiliate.ucetni-portal.cz CNAME .
 affiliate.uncaria.cz CNAME .
 affiliate.unicare.sk CNAME .
 affiliate.urbanstore.cz CNAME .
+affiliate.urbanstore.sk CNAME .
 affiliate.vasecocky.cz CNAME .
 affiliate.vasesosovky.sk CNAME .
 affiliate.velebny.cz CNAME .
@@ -309,7 +310,6 @@ hcaffil.mironet.cz CNAME .
 hcbox.bikemax.cz CNAME .
 hcbox.fitness-zone.cz CNAME .
 hcbox.itcomplet.sk CNAME .
-hcbox.mezamo.sk CNAME .
 hcbox.mironet.cz CNAME .
 hcbox.tesla-electronics.eu CNAME .
 hcbox.tlamka.cz CNAME .
@@ -457,7 +457,6 @@ partner.beautylash.cz CNAME .
 partner.bed4dogs.com CNAME .
 partner.bio-nechty.sk CNAME .
 partner.bio-nehty.cz CNAME .
-partner.bioaromakosmetika.cz CNAME .
 partner.biomag.cz CNAME .
 partner.bitcoinzmenaren.sk CNAME .
 partner.bohemiaclean.eu CNAME .
@@ -767,7 +766,6 @@ partneri.dietavkrabicce.cz CNAME .
 partneri.dluhopisomat.cz CNAME .
 partneri.domaci-outlet.cz CNAME .
 partneri.dusansoucek.cz CNAME .
-partneri.easyfocus.cz CNAME .
 partneri.easylingo.cz CNAME .
 partneri.ecstatic.cz CNAME .
 partneri.edibles.eu CNAME .

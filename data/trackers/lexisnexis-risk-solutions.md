@@ -63,6 +63,7 @@
     * h-47blm1l4.online-metrix.net
     * h-47z24dz9.online-metrix.net
     * h-4hq91r5k.online-metrix.net
+    * h-4nyhdbu2.online-metrix.net
     * h-4ruz3ugq.online-metrix.net
     * h-4ulk5mz4.online-metrix.net
     * h-4vocbmhq.online-metrix.net
@@ -82,6 +83,7 @@
     * h-68mv9954.online-metrix.net
     * h-6a6y6kka.online-metrix.net
     * h-6bp8wff7.online-metrix.net
+    * h-6do2934n.online-metrix.net
     * h-6e1hqgi3.online-metrix.net
     * h-6ej4o5iw.online-metrix.net
     * h-6fytj79e-solid.online-metrix.net
@@ -845,6 +847,7 @@
 | faas.2ememain.be | h-2ememain.online-metrix.net |
 | metrics.myfrs.com | h-2fiylyk1.online-metrix.net |
 | eve.playstation.com | h-2gkqfg5y.online-metrix.net |
+| pdr.eve.sonyentertainmentnetwork.com | h-2gkqfg5y.online-metrix.net |
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
 | tm.sunbit.com | h-2ic7z584.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
@@ -889,6 +892,7 @@
 | content002.bet365.it | h-47z24dz9.online-metrix.net |
 | content002.bet365.mx | h-47z24dz9.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
+| onoutput.com | h-4nyhdbu2.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
 | tmx-fpt.credit-agricole.pl | h-4ulk5mz4.online-metrix.net |
 | svc.ondeck.com.au | h-4vocbmhq.online-metrix.net |
@@ -928,6 +932,7 @@
 | fms-dev.citysavings.net.ph | h-68mv9954.online-metrix.net |
 | dev-rmscheck.sbifxt.co.jp | h-6a6y6kka.online-metrix.net |
 | device.register.greenlight.com | h-6bp8wff7.online-metrix.net |
+| secure-collector.zen.com | h-6do2934n.online-metrix.net |
 | tags.3ds.denizbank.at | h-6e1hqgi3.online-metrix.net |
 | content.affinityfcu.com | h-6ej4o5iw.online-metrix.net |
 | tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
@@ -1373,6 +1378,7 @@
 | tm.betano.com | h-fekkqfzv.online-metrix.net |
 | tm.betano.cz | h-fekkqfzv.online-metrix.net |
 | tm.betano.de | h-fekkqfzv.online-metrix.net |
+| tm.betano.dk | h-fekkqfzv.online-metrix.net |
 | tm.betano.mx | h-fekkqfzv.online-metrix.net |
 | tm.stoiximan.com.cy | h-fekkqfzv.online-metrix.net |
 | tm.stoiximan.gr | h-fekkqfzv.online-metrix.net |

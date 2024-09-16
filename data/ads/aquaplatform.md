@@ -145,6 +145,7 @@
 | console.hour-media.com | hourmedia-console.aquaplatform.com |
 | servedby.cincinnatimagazine.com | hourmedia-delivery.aquaplatform.com |
 | servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
+| servedby.greenspring.com | hourmedia-delivery.aquaplatform.com |
 | servedby.palmbeachmedia.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.geminipub.com | hourmedia-delivery.aquaplatform.com |
 | www.servedby.greenspring.com | hourmedia-delivery.aquaplatform.com |
@@ -183,6 +184,8 @@
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | images.addurance.com | platformiq-cdn.aquaplatform.com |
 | images.informatm.com | platformiq-cdn.aquaplatform.com |
+| images.jacilla.no | platformiq-cdn.aquaplatform.com |
+| images.mannenmedia.nl | platformiq-cdn.aquaplatform.com |
 | opximages.webtool.net | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | static.hollandhortimedia.nl | platformiq-cdn.aquaplatform.com |

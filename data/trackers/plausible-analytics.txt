@@ -25,7 +25,6 @@
 ||analytics.lunge.de^
 ||analytics.mambaui.com^
 ||analytics.mc500.info^
-||analytics.multithread.studio^
 ||analytics.mycater.fr^
 ||analytics.naturequant.com^
 ||analytics.qualityquestions.co^

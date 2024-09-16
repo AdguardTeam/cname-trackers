@@ -50,6 +50,7 @@ antelope.u3a.com.au
 antlion.codivores.com
 antlion.hendrikhaack.de
 ape.mfj.se
+ape.pytch.co.uk
 ape.smartplanschema.se
 aphid.enjoleur.com
 aphid.nihilnegativum.com
@@ -129,6 +130,7 @@ butterfly.dharsh.dev
 butterfly.rfortherestofus.com
 buzzard.donotresearch.net
 buzzard.ficabo.com.au
+buzzard.nimble.team
 camel.gastro-plan.app
 camel.nonpopularopinion.com
 camel.warvik.no
@@ -708,6 +710,7 @@ raccoon.jaronheard.com
 rat.einfachlebenforum.com
 rat.gimlet.io
 raven.konquadrat.de
+raven.omamao.ch
 raven.vethelpdirect.com
 reindeer.cablemod.com
 reindeer.iainbroome.com
@@ -860,7 +863,6 @@ tortoise.mdx.one
 toucan.ateliermilky.com
 toucan.the-faithful.com
 treefrog.kaffeknappen.no
-treefrog.tschmeisser.com
 treefrog.walkingwithdaddy.com
 trout.batzo.net
 trout.openfpl.com
@@ -935,7 +937,6 @@ albatross.creacoon.com
 alligator.remotecyberwork.com
 antelope.hoap.dev
 antelope.targetinternet.com
-ape.pytch.co.uk
 basilisk.community-arts.net
 bee.farmaciavdg.com
 bison.equals.community
@@ -945,7 +946,6 @@ llama.whatcha.io
 moose.octo.app
 porcupine.reminyborg.com
 prawn.inchperfect.com
-raven.omamao.ch
 vulture.bettershore.com
 walrus.scalue.com
 wildcat.longviewforecasting.com

@@ -195,6 +195,7 @@
 ||antlion.codivores.com^
 ||antlion.hendrikhaack.de^
 ||ape.mfj.se^
+||ape.pytch.co.uk^
 ||ape.smartplanschema.se^
 ||aphid.enjoleur.com^
 ||aphid.nihilnegativum.com^
@@ -275,6 +276,7 @@
 ||butterfly.rfortherestofus.com^
 ||buzzard.donotresearch.net^
 ||buzzard.ficabo.com.au^
+||buzzard.nimble.team^
 ||camel.gastro-plan.app^
 ||camel.nonpopularopinion.com^
 ||camel.warvik.no^
@@ -856,6 +858,7 @@
 ||rat.einfachlebenforum.com^
 ||rat.gimlet.io^
 ||raven.konquadrat.de^
+||raven.omamao.ch^
 ||raven.vethelpdirect.com^
 ||reindeer.cablemod.com^
 ||reindeer.iainbroome.com^
@@ -1010,7 +1013,6 @@
 ||toucan.ateliermilky.com^
 ||toucan.the-faithful.com^
 ||treefrog.kaffeknappen.no^
-||treefrog.tschmeisser.com^
 ||treefrog.walkingwithdaddy.com^
 ||trout.batzo.net^
 ||trout.openfpl.com^
@@ -1091,6 +1093,7 @@
 ||avemariaas.vmrcommunications.com^
 ||carlsonmedia.streetinteractive.com^
 ||connected.ashrae.org^
+||connected.county10.com^
 ||daily.yubanet.com^
 ||floorforce.streetinteractive.com^
 ||gemtun.ctnewsjunkie.com^

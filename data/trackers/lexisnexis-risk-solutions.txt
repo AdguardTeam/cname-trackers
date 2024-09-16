@@ -629,6 +629,7 @@
 ||online.nbc.ca^
 ||onlineapplications.anz.com^
 ||onlinemetrix.liverpool.com.mx^
+||onoutput.com^
 ||ons.tickets.com^
 ||optm.optus.com.au^
 ||osn-cirrus.cas.org^
@@ -644,6 +645,7 @@
 ||payments.direct.playstation.com^
 ||payments.hd-plus.de^
 ||payrisk-tmx.didiglobal.com^
+||pdr.eve.sonyentertainmentnetwork.com^
 ||pf.intuit.com^
 ||pfp.intuit.com^
 ||phyon.communipay.net^
@@ -792,6 +794,7 @@
 ||sec.mypage.ntt.com^
 ||sec.mypage.ocn.ne.jp^
 ||sec.plala.or.jp^
+||secure-collector.zen.com^
 ||secure-service.id.dbsdigibank.com^
 ||secure.freshbooks.com^
 ||secure.idbank.it^
@@ -933,6 +936,7 @@
 ||tm.betano.com^
 ||tm.betano.cz^
 ||tm.betano.de^
+||tm.betano.dk^
 ||tm.betano.mx^
 ||tm.cbd.ae^
 ||tm.clearcover.com^

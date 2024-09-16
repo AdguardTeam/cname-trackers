@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -47,8 +47,8 @@ tr.allianz-trade.com CNAME .
 tr.allopneus.com CNAME .
 tr.animation.lexpress.fr CNAME .
 tr.animation.micromania.fr CNAME .
-tr.animations.alticemedia.com CNAME .
 tr.animations.bfmtv.com CNAME .
+tr.animations.rmcbfm.com CNAME .
 tr.apou032.espmp-agfr.net CNAME .
 tr.asp0010.espmp-nifr.net CNAME .
 tr.asp0018.espmp-aufr.net CNAME .
@@ -180,9 +180,7 @@ tr.carl.espmp-cufr.net CNAME .
 tr.cart02d.espmp-agfr.net CNAME .
 tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
-tr.cashback.floa.fr CNAME .
 tr.cb4x.banque-casino.fr CNAME .
-tr.cb4x.floa.fr CNAME .
 tr.cclx.espmp-agfr.net CNAME .
 tr.cdiscount.3wregie.com CNAME .
 tr.ceeregion.moethennessy.com CNAME .
@@ -223,7 +221,6 @@ tr.commande.location.boulanger.com CNAME .
 tr.commercial.boursobank.info CNAME .
 tr.communaute.caradisiac.com CNAME .
 tr.communautes-mediametrie.fr CNAME .
-tr.communication.alticemedia.com CNAME .
 tr.communication.ancv.com CNAME .
 tr.communication.armatis-lc.com CNAME .
 tr.communication.arthur-bonnet.com CNAME .
@@ -339,7 +336,6 @@ tr.email.agriexpo.online CNAME .
 tr.email.akerys.com CNAME .
 tr.email.aktuariat.fr CNAME .
 tr.email.archiexpo.com CNAME .
-tr.email.bon-placement-immobilier.fr CNAME .
 tr.email.contact-jaguar.fr CNAME .
 tr.email.contact-landrover.fr CNAME .
 tr.email.custom-campaign.com CNAME .
@@ -417,6 +413,7 @@ tr.fleetmatics.vraaguwofferte.be CNAME .
 tr.forum.veuveclicquot.fr CNAME .
 tr.fr.pro.accor.com CNAME .
 tr.france.plimsoll.fr CNAME .
+tr.fts.francetravail.fr CNAME .
 tr.future-commerce.mhdfrance.fr CNAME .
 tr.futurecommerce.moethennessy.com CNAME .
 tr.gen.espmp-agfr.net CNAME .
@@ -426,7 +423,6 @@ tr.gestion.coficabail.fr CNAME .
 tr.gestion.cofinoga.fr CNAME .
 tr.gestion.credit-moderne.fr CNAME .
 tr.gestion.domofinance.fr CNAME .
-tr.gestion.floa.fr CNAME .
 tr.gestion.hondafinancialservices.fr CNAME .
 tr.gestion.lexpress.fr CNAME .
 tr.gestion.liberation.fr CNAME .
@@ -830,6 +826,7 @@ tr.news.parisinfo.com CNAME .
 tr.news.perfectstay.com CNAME .
 tr.news.perl.fr CNAME .
 tr.news.pl.bata-esp.com CNAME .
+tr.news.pointfranchise.co.uk CNAME .
 tr.news.prosfora-mou.gr CNAME .
 tr.news.receiveyourquote.co.uk CNAME .
 tr.news.retailglobalsolutions.com CNAME .
@@ -898,10 +895,10 @@ tr.newsletter.tiragephoto.fr CNAME .
 tr.newsletter.younited-credit.com CNAME .
 tr.newsletterpagesjaunes.fr CNAME .
 tr.newsletters-bonpoint.com CNAME .
-tr.newsletters.alticemedia.com CNAME .
 tr.newsletters.coedition-contact.fr CNAME .
 tr.newsletters.odalys-vacances.com CNAME .
 tr.newsletters.qapa-interim.fr CNAME .
+tr.newsletters.rmcbfm.com CNAME .
 tr.newsmarketing.allopneus.com CNAME .
 tr.nl.2wls.net CNAME .
 tr.nl.ardennes.cci.fr CNAME .
@@ -934,7 +931,6 @@ tr.offres-professionnelles.fr CNAME .
 tr.offres.ap-regie.fr CNAME .
 tr.offres.bfmtv.com CNAME .
 tr.offresbtoc.engie.fr CNAME .
-tr.offrevip.floa.fr CNAME .
 tr.ojxm.espmp-aufr.net CNAME .
 tr.online.longchamp.com CNAME .
 tr.openinnovation.lvmh.com CNAME .
@@ -995,6 +991,7 @@ tr.recouvrement.finrec.com CNAME .
 tr.recouvrement.seeric.com CNAME .
 tr.recouvrement.younited-credit.com CNAME .
 tr.redaction.essentiel-sante-magazine.fr CNAME .
+tr.redaction.leguidedupouvoir.fr CNAME .
 tr.reglementaire.emailing.bnpparibas CNAME .
 tr.relation-mediametrie.fr CNAME .
 tr.relation.uneo.fr CNAME .

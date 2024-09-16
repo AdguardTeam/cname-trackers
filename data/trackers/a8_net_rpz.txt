@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1434,7 +1434,6 @@ cv.b2b.subscription-store.com CNAME .
 cv.bc-force.com CNAME .
 cv.belta-shop.jp CNAME .
 cv.betrading.jp CNAME .
-cv.bikoshaen.com CNAME .
 cv.bloomeelife.com CNAME .
 cv.cante-gym.com CNAME .
 cv.cart.naturath.jp CNAME .
@@ -1477,6 +1476,7 @@ cv.shiryoku1.com CNAME .
 cv.stella-s.com CNAME .
 cv.subscription-store.com CNAME .
 cv.sumaho-hoken.jp CNAME .
+cv.sunny-store-cart.com CNAME .
 cv.taskar.online CNAME .
 cv.tenjin.cc CNAME .
 cv.theatreacademy.info CNAME .

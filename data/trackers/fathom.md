@@ -167,7 +167,6 @@
 | cardinal.genx.be | deprecated-custom-domains.b-cdn.net |
 | cardinal.newman.is | deprecated-custom-domains.b-cdn.net |
 | cardinal.zenting.app | deprecated-custom-domains.b-cdn.net |
-| caribou.clintgwinter.com | deprecated-custom-domains.b-cdn.net |
 | caribou.color.io | deprecated-custom-domains.b-cdn.net |
 | caribou.mcgregorpublishing.com | deprecated-custom-domains.b-cdn.net |
 | caribou.reiterstolz.com | deprecated-custom-domains.b-cdn.net |
@@ -769,6 +768,7 @@
 | salamander.yourownpay.com | deprecated-custom-domains.b-cdn.net |
 | salmon.literallife.church | deprecated-custom-domains.b-cdn.net |
 | salmon.thespiritualpsychologist.co.uk | deprecated-custom-domains.b-cdn.net |
+| sawfish.black-forest-digital.de | deprecated-custom-domains.b-cdn.net |
 | sawfish.hxd-lab.de | deprecated-custom-domains.b-cdn.net |
 | sawfish.loqbooq.app | deprecated-custom-domains.b-cdn.net |
 | scallop.esolia.pro | deprecated-custom-domains.b-cdn.net |
@@ -889,7 +889,6 @@
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
-| treefrog.tschmeisser.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.walkingwithdaddy.com | deprecated-custom-domains.b-cdn.net |
 | trout.batzo.net | deprecated-custom-domains.b-cdn.net |
 | trout.openfpl.com | deprecated-custom-domains.b-cdn.net |
@@ -1014,6 +1013,7 @@
 | antlion.codivores.com | starman.fathomdns.com |
 | antlion.hendrikhaack.de | starman.fathomdns.com |
 | ape.mfj.se | starman.fathomdns.com |
+| ape.pytch.co.uk | starman.fathomdns.com |
 | ape.smartplanschema.se | starman.fathomdns.com |
 | aphid.enjoleur.com | starman.fathomdns.com |
 | aphid.nihilnegativum.com | starman.fathomdns.com |
@@ -1093,6 +1093,7 @@
 | butterfly.rfortherestofus.com | starman.fathomdns.com |
 | buzzard.donotresearch.net | starman.fathomdns.com |
 | buzzard.ficabo.com.au | starman.fathomdns.com |
+| buzzard.nimble.team | starman.fathomdns.com |
 | camel.gastro-plan.app | starman.fathomdns.com |
 | camel.nonpopularopinion.com | starman.fathomdns.com |
 | camel.warvik.no | starman.fathomdns.com |
@@ -1672,6 +1673,7 @@
 | rat.einfachlebenforum.com | starman.fathomdns.com |
 | rat.gimlet.io | starman.fathomdns.com |
 | raven.konquadrat.de | starman.fathomdns.com |
+| raven.omamao.ch | starman.fathomdns.com |
 | raven.vethelpdirect.com | starman.fathomdns.com |
 | reindeer.cablemod.com | starman.fathomdns.com |
 | reindeer.iainbroome.com | starman.fathomdns.com |
@@ -1824,7 +1826,6 @@
 | toucan.ateliermilky.com | starman.fathomdns.com |
 | toucan.the-faithful.com | starman.fathomdns.com |
 | treefrog.kaffeknappen.no | starman.fathomdns.com |
-| treefrog.tschmeisser.com | starman.fathomdns.com |
 | treefrog.walkingwithdaddy.com | starman.fathomdns.com |
 | trout.batzo.net | starman.fathomdns.com |
 | trout.openfpl.com | starman.fathomdns.com |

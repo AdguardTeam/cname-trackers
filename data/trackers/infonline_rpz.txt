@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -155,7 +155,6 @@ data-12c31c7daf.das-onlinespiel.de CNAME .
 data-12c31c7daf.fuersie.de CNAME .
 data-12c31c7daf.idee-fuer-mich.de CNAME .
 data-12cf56a65f.apps.iocnt.de CNAME .
-data-12e30527fd.kardiologie.org CNAME .
 data-130016e017.apps.iocnt.de CNAME .
 data-131970a2c9.business-on.de CNAME .
 data-1361b87d71.apps.iocnt.de CNAME .
@@ -296,6 +295,7 @@ data-1c9505e4f1.digitalphoto.de CNAME .
 data-1ce541951d.apps.iocnt.de CNAME .
 data-1ce6da1e66.diabetes-news.de CNAME .
 data-1ce9bdc9f1.krone.at CNAME .
+data-1cf17804f3.alpenverein.de CNAME .
 data-1cf566e125.gn-online.de CNAME .
 data-1d11624658.gutekueche.de CNAME .
 data-1d770934d4.mixed.de CNAME .
@@ -341,6 +341,7 @@ data-20ab42efbf.apps.iocnt.de CNAME .
 data-214f5a88c7.apps.iocnt.de CNAME .
 data-21f7fa6716.wiwo.de CNAME .
 data-226a0f54a7.azonline.de CNAME .
+data-232dae4db7.apps.iocnt.de CNAME .
 data-2340ac25bb.apps.iocnt.de CNAME .
 data-2356053920.meinmed.at CNAME .
 data-236c420b67.glamour.de CNAME .
@@ -1006,6 +1007,7 @@ data-6dde45f576.reisereporter.de CNAME .
 data-6dde45f576.remszeitung.de CNAME .
 data-6dde45f576.rga.de CNAME .
 data-6dde45f576.rnd.de CNAME .
+data-6dde45f576.rndtech.de CNAME .
 data-6dde45f576.saechsische.de CNAME .
 data-6dde45f576.siegener-zeitung.de CNAME .
 data-6dde45f576.sn-online.de CNAME .
@@ -1115,6 +1117,7 @@ data-7f59e1721b.huettentouren.net CNAME .
 data-7f59e1721b.planetoutdoor.de CNAME .
 data-7f6dde6aeb.spieletipps.de CNAME .
 data-7f9c14ceb6.telecom-handel.de CNAME .
+data-7fa3547eed.atv2.at CNAME .
 data-7fb07b8d65.tab.de CNAME .
 data-7fbde6a274.ticket24.at CNAME .
 data-804560170e.leichtathletik.de CNAME .
@@ -1248,6 +1251,7 @@ data-8dffad7d98.photovoltaik.eu CNAME .
 data-8e96b6cfc5.gelbeseiten.de CNAME .
 data-8ec1348702.apps.iocnt.de CNAME .
 data-8ec206415a.dnb.de CNAME .
+data-8ec206415a.gnd.network CNAME .
 data-8eeb5d63be.gast.at CNAME .
 data-8f03f9dd42.spiegel.de CNAME .
 data-8f7660c51c.apps.iocnt.de CNAME .
@@ -1512,6 +1516,7 @@ data-aa4a1f6eab.apps.iocnt.de CNAME .
 data-aa5df368fb.landundforst.de CNAME .
 data-aa67ab16ab.form-werkzeug.de CNAME .
 data-aa70fe4f08.jam.fm CNAME .
+data-aa77362b45.alternativantriebe.de CNAME .
 data-aa77362b45.autoflotte-online.de CNAME .
 data-aa77362b45.autoflotte.de CNAME .
 data-aac883f83b.offiziellecharts.de CNAME .
@@ -1905,6 +1910,7 @@ data-d8a16b307b.eishockeynews.de CNAME .
 data-d8a16b307b.idowa.de CNAME .
 data-d9000a5626.apps.iocnt.de CNAME .
 data-d946a9c4a1.thueringen24.de CNAME .
+data-d9be8dacc3.alpin-tiefschneetage.de CNAME .
 data-d9be8dacc3.alpin.de CNAME .
 data-d9c82db6b2.motor.at CNAME .
 data-da1d9cc48a.osthessen-news.de CNAME .
@@ -2307,6 +2313,7 @@ data-fa59f9f6b5.kronberger-lichtspiele.de CNAME .
 data-fa59f9f6b5.kuki-landau.de CNAME .
 data-fa59f9f6b5.kulturhaus-pritzwalk.de CNAME .
 data-fa59f9f6b5.lichtspiele-grosshabersdorf.de CNAME .
+data-fa59f9f6b5.saarfilm.net CNAME .
 data-faf3e659f2.apps.iocnt.de CNAME .
 data-fb37a1e7c3.cannstatter-zeitung.de CNAME .
 data-fb37a1e7c3.esslinger-zeitung.de CNAME .

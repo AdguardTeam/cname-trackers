@@ -45,6 +45,7 @@
 | avemariaas.vmrcommunications.com | bs-adserver.b-cdn.net |
 | carlsonmedia.streetinteractive.com | bs-adserver.b-cdn.net |
 | connected.ashrae.org | bs-adserver.b-cdn.net |
+| connected.county10.com | bs-adserver.b-cdn.net |
 | daily.yubanet.com | bs-adserver.b-cdn.net |
 | floorforce.streetinteractive.com | bs-adserver.b-cdn.net |
 | gemtun.ctnewsjunkie.com | bs-adserver.b-cdn.net |
@@ -135,6 +136,7 @@
 | antlion.codivores.com | deprecated-custom-domains.b-cdn.net |
 | antlion.hendrikhaack.de | deprecated-custom-domains.b-cdn.net |
 | ape.mfj.se | deprecated-custom-domains.b-cdn.net |
+| ape.pytch.co.uk | deprecated-custom-domains.b-cdn.net |
 | ape.smartplanschema.se | deprecated-custom-domains.b-cdn.net |
 | aphid.enjoleur.com | deprecated-custom-domains.b-cdn.net |
 | aphid.nihilnegativum.com | deprecated-custom-domains.b-cdn.net |
@@ -215,6 +217,7 @@
 | butterfly.rfortherestofus.com | deprecated-custom-domains.b-cdn.net |
 | buzzard.donotresearch.net | deprecated-custom-domains.b-cdn.net |
 | buzzard.ficabo.com.au | deprecated-custom-domains.b-cdn.net |
+| buzzard.nimble.team | deprecated-custom-domains.b-cdn.net |
 | camel.gastro-plan.app | deprecated-custom-domains.b-cdn.net |
 | camel.nonpopularopinion.com | deprecated-custom-domains.b-cdn.net |
 | camel.warvik.no | deprecated-custom-domains.b-cdn.net |
@@ -796,6 +799,7 @@
 | rat.einfachlebenforum.com | deprecated-custom-domains.b-cdn.net |
 | rat.gimlet.io | deprecated-custom-domains.b-cdn.net |
 | raven.konquadrat.de | deprecated-custom-domains.b-cdn.net |
+| raven.omamao.ch | deprecated-custom-domains.b-cdn.net |
 | raven.vethelpdirect.com | deprecated-custom-domains.b-cdn.net |
 | reindeer.cablemod.com | deprecated-custom-domains.b-cdn.net |
 | reindeer.iainbroome.com | deprecated-custom-domains.b-cdn.net |
@@ -950,7 +954,6 @@
 | toucan.ateliermilky.com | deprecated-custom-domains.b-cdn.net |
 | toucan.the-faithful.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.kaffeknappen.no | deprecated-custom-domains.b-cdn.net |
-| treefrog.tschmeisser.com | deprecated-custom-domains.b-cdn.net |
 | treefrog.walkingwithdaddy.com | deprecated-custom-domains.b-cdn.net |
 | trout.batzo.net | deprecated-custom-domains.b-cdn.net |
 | trout.openfpl.com | deprecated-custom-domains.b-cdn.net |

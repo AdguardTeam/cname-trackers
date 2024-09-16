@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ utiq.24hamburg.de CNAME .
 utiq.24rhein.de CNAME .
 utiq.24vita.de CNAME .
 utiq.3djuegos.com CNAME .
+utiq.3djuegosguias.com CNAME .
 utiq.750g.com CNAME .
 utiq.abc.es CNAME .
 utiq.actu.fr CNAME .
@@ -32,6 +33,7 @@ utiq.ariva.de CNAME .
 utiq.atf-tagmanager.de CNAME .
 utiq.aufeminin.com CNAME .
 utiq.autobild.de CNAME .
+utiq.autofrage.net CNAME .
 utiq.autojournal.fr CNAME .
 utiq.autoplus.fr CNAME .
 utiq.az-online.de CNAME .
@@ -107,6 +109,7 @@ utiq.grazia.fr CNAME .
 utiq.gutefrage.net CNAME .
 utiq.hallo-eltern.de CNAME .
 utiq.hallo-muenchen.de CNAME .
+utiq.hanauer.de CNAME .
 utiq.handelsblatt.com CNAME .
 utiq.hbrfrance.fr CNAME .
 utiq.heftig.de CNAME .
@@ -127,6 +130,7 @@ utiq.landtiere.de CNAME .
 utiq.laopinioncoruna.es CNAME .
 utiq.laopiniondemalaga.es CNAME .
 utiq.laopiniondemurcia.es CNAME .
+utiq.laopiniondezamora.es CNAME .
 utiq.laprovincia.es CNAME .
 utiq.larioja.com CNAME .
 utiq.lasprovincias.es CNAME .
@@ -153,6 +157,7 @@ utiq.motorradfrage.net CNAME .
 utiq.movistar.es CNAME .
 utiq.mundoxiaomi.com CNAME .
 utiq.myhomebook.de CNAME .
+utiq.neonmag.fr CNAME .
 utiq.news38.de CNAME .
 utiq.nostalgie.fr CNAME .
 utiq.nrj-play.fr CNAME .

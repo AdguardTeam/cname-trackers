@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -640,6 +640,7 @@ online-security.unionbankph.com CNAME .
 online.nbc.ca CNAME .
 onlineapplications.anz.com CNAME .
 onlinemetrix.liverpool.com.mx CNAME .
+onoutput.com CNAME .
 ons.tickets.com CNAME .
 optm.optus.com.au CNAME .
 osn-cirrus.cas.org CNAME .
@@ -655,6 +656,7 @@ payments-de.lidlplus.com CNAME .
 payments.direct.playstation.com CNAME .
 payments.hd-plus.de CNAME .
 payrisk-tmx.didiglobal.com CNAME .
+pdr.eve.sonyentertainmentnetwork.com CNAME .
 pf.intuit.com CNAME .
 pfp.intuit.com CNAME .
 phyon.communipay.net CNAME .
@@ -803,6 +805,7 @@ sec.login.sdnp.ntt.ocn.ne.jp CNAME .
 sec.mypage.ntt.com CNAME .
 sec.mypage.ocn.ne.jp CNAME .
 sec.plala.or.jp CNAME .
+secure-collector.zen.com CNAME .
 secure-service.id.dbsdigibank.com CNAME .
 secure.freshbooks.com CNAME .
 secure.idbank.it CNAME .
@@ -944,6 +947,7 @@ tm.betano.ca CNAME .
 tm.betano.com CNAME .
 tm.betano.cz CNAME .
 tm.betano.de CNAME .
+tm.betano.dk CNAME .
 tm.betano.mx CNAME .
 tm.cbd.ae CNAME .
 tm.clearcover.com CNAME .

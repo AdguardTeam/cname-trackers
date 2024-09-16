@@ -259,6 +259,7 @@
 ||affiliate.uncaria.cz^
 ||affiliate.unicare.sk^
 ||affiliate.urbanstore.cz^
+||affiliate.urbanstore.sk^
 ||affiliate.vasecocky.cz^
 ||affiliate.vasesosovky.sk^
 ||affiliate.velebny.cz^
@@ -298,7 +299,6 @@
 ||hcbox.bikemax.cz^
 ||hcbox.fitness-zone.cz^
 ||hcbox.itcomplet.sk^
-||hcbox.mezamo.sk^
 ||hcbox.mironet.cz^
 ||hcbox.tesla-electronics.eu^
 ||hcbox.tlamka.cz^
@@ -446,7 +446,6 @@
 ||partner.bed4dogs.com^
 ||partner.bio-nechty.sk^
 ||partner.bio-nehty.cz^
-||partner.bioaromakosmetika.cz^
 ||partner.biomag.cz^
 ||partner.bitcoinzmenaren.sk^
 ||partner.bohemiaclean.eu^
@@ -756,7 +755,6 @@
 ||partneri.dluhopisomat.cz^
 ||partneri.domaci-outlet.cz^
 ||partneri.dusansoucek.cz^
-||partneri.easyfocus.cz^
 ||partneri.easylingo.cz^
 ||partneri.ecstatic.cz^
 ||partneri.edibles.eu^

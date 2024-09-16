@@ -128,7 +128,7 @@ acq.discover.com
 businessreferrals.lumen.com
 demo.extole.com
 earn-and-refer.extoleu.com
-em8561.go2bank.com
+em225.codecademy.com
 externalreferral.freshworks.com
 friend.discover.com
 friend.discoverstudentloans.com
@@ -434,6 +434,7 @@ referrals.lumen.com
 referrals.visionsfcu.org
 rob.extoleu.com
 score.lumen.com
+share-fiber.t-mobile.com
 share-uk.princess.com
 share-us.viktor-rolf.com
 share.4wheelparts.com
@@ -585,6 +586,7 @@ share.newtonbaby.com
 share.ngfcu.us
 share.northjersey.com
 share.novig.us
+share.nutribullet.com
 share.nuts.com
 share.obagi.com
 share.olivegarden.com
@@ -711,9 +713,9 @@ www.refer.xfinity.com
 www.referessentials.com
 www.referquickbooks.com
 em1476.princesscruises.com
-em225.codecademy.com
 em3904.skillshare.com
 em4367.raf-studentloans.discover.com
+em8561.go2bank.com
 em8928.em.petco.com
 em924.refer.starbucks.com
 em9523.walmartmoneycard.com

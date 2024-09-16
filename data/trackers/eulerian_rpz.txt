@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -126,6 +126,7 @@ ea.fleurancenature.com CNAME .
 ea.fleurancenature.fr CNAME .
 ea.francoisesaget.com CNAME .
 ea.franziskasager.de CNAME .
+ea.greenweez.co.uk CNAME .
 ea.greenweez.com CNAME .
 ea.greenweez.de CNAME .
 ea.greenweez.es CNAME .
@@ -489,6 +490,7 @@ xoq.pmubrasil.com.br CNAME .
 xuc.monteleone.fr CNAME .
 xy33.smallable.com CNAME .
 xya4.groupefsc.com CNAME .
+xze5.femilet.dk CNAME .
 yf5.voyage-prive.at CNAME .
 yh6u.dealeusedevoyages.com CNAME .
 yoc.younited-credit.com CNAME .

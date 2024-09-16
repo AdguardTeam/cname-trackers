@@ -185,6 +185,7 @@ cookies.joneslanglasalle.com.vn
 cookies.us.jll.com
 csp.prod.saga.co.uk
 ctp.moneymetals.com
+data.creditexpert.co.uk
 data.ensightendemo.com
 data.experian.co.uk
 data.experianidentityservice.co.uk
@@ -266,6 +267,7 @@ p.pulse.buyatoyota.com
 p.pulse.lexus.com
 p.pulse.toyota.com
 pfa.levexis.com
+privacy-digital.infracapital.co.uk
 privacy-digital.mandg.com
 privacy-digital.pru.co.uk
 privacy-digital.pruadviser.co.uk

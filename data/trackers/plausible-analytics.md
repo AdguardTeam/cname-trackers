@@ -38,7 +38,6 @@
 | analytics.lunge.de | custom.plausible.io |
 | analytics.mambaui.com | custom.plausible.io |
 | analytics.mc500.info | custom.plausible.io |
-| analytics.multithread.studio | custom.plausible.io |
 | analytics.mycater.fr | custom.plausible.io |
 | analytics.naturequant.com | custom.plausible.io |
 | analytics.qualityquestions.co | custom.plausible.io |

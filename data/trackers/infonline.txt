@@ -144,7 +144,6 @@
 ||data-12c31c7daf.fuersie.de^
 ||data-12c31c7daf.idee-fuer-mich.de^
 ||data-12cf56a65f.apps.iocnt.de^
-||data-12e30527fd.kardiologie.org^
 ||data-130016e017.apps.iocnt.de^
 ||data-131970a2c9.business-on.de^
 ||data-1361b87d71.apps.iocnt.de^
@@ -285,6 +284,7 @@
 ||data-1ce541951d.apps.iocnt.de^
 ||data-1ce6da1e66.diabetes-news.de^
 ||data-1ce9bdc9f1.krone.at^
+||data-1cf17804f3.alpenverein.de^
 ||data-1cf566e125.gn-online.de^
 ||data-1d11624658.gutekueche.de^
 ||data-1d770934d4.mixed.de^
@@ -330,6 +330,7 @@
 ||data-214f5a88c7.apps.iocnt.de^
 ||data-21f7fa6716.wiwo.de^
 ||data-226a0f54a7.azonline.de^
+||data-232dae4db7.apps.iocnt.de^
 ||data-2340ac25bb.apps.iocnt.de^
 ||data-2356053920.meinmed.at^
 ||data-236c420b67.glamour.de^
@@ -995,6 +996,7 @@
 ||data-6dde45f576.remszeitung.de^
 ||data-6dde45f576.rga.de^
 ||data-6dde45f576.rnd.de^
+||data-6dde45f576.rndtech.de^
 ||data-6dde45f576.saechsische.de^
 ||data-6dde45f576.siegener-zeitung.de^
 ||data-6dde45f576.sn-online.de^
@@ -1104,6 +1106,7 @@
 ||data-7f59e1721b.planetoutdoor.de^
 ||data-7f6dde6aeb.spieletipps.de^
 ||data-7f9c14ceb6.telecom-handel.de^
+||data-7fa3547eed.atv2.at^
 ||data-7fb07b8d65.tab.de^
 ||data-7fbde6a274.ticket24.at^
 ||data-804560170e.leichtathletik.de^
@@ -1237,6 +1240,7 @@
 ||data-8e96b6cfc5.gelbeseiten.de^
 ||data-8ec1348702.apps.iocnt.de^
 ||data-8ec206415a.dnb.de^
+||data-8ec206415a.gnd.network^
 ||data-8eeb5d63be.gast.at^
 ||data-8f03f9dd42.spiegel.de^
 ||data-8f7660c51c.apps.iocnt.de^
@@ -1501,6 +1505,7 @@
 ||data-aa5df368fb.landundforst.de^
 ||data-aa67ab16ab.form-werkzeug.de^
 ||data-aa70fe4f08.jam.fm^
+||data-aa77362b45.alternativantriebe.de^
 ||data-aa77362b45.autoflotte-online.de^
 ||data-aa77362b45.autoflotte.de^
 ||data-aac883f83b.offiziellecharts.de^
@@ -1894,6 +1899,7 @@
 ||data-d8a16b307b.idowa.de^
 ||data-d9000a5626.apps.iocnt.de^
 ||data-d946a9c4a1.thueringen24.de^
+||data-d9be8dacc3.alpin-tiefschneetage.de^
 ||data-d9be8dacc3.alpin.de^
 ||data-d9c82db6b2.motor.at^
 ||data-da1d9cc48a.osthessen-news.de^
@@ -2296,6 +2302,7 @@
 ||data-fa59f9f6b5.kuki-landau.de^
 ||data-fa59f9f6b5.kulturhaus-pritzwalk.de^
 ||data-fa59f9f6b5.lichtspiele-grosshabersdorf.de^
+||data-fa59f9f6b5.saarfilm.net^
 ||data-faf3e659f2.apps.iocnt.de^
 ||data-fb37a1e7c3.cannstatter-zeitung.de^
 ||data-fb37a1e7c3.esslinger-zeitung.de^

@@ -13,6 +13,7 @@ utiq.24hamburg.de
 utiq.24rhein.de
 utiq.24vita.de
 utiq.3djuegos.com
+utiq.3djuegosguias.com
 utiq.750g.com
 utiq.abc.es
 utiq.actu.fr
@@ -21,6 +22,7 @@ utiq.ariva.de
 utiq.atf-tagmanager.de
 utiq.aufeminin.com
 utiq.autobild.de
+utiq.autofrage.net
 utiq.autojournal.fr
 utiq.autoplus.fr
 utiq.az-online.de
@@ -96,6 +98,7 @@ utiq.grazia.fr
 utiq.gutefrage.net
 utiq.hallo-eltern.de
 utiq.hallo-muenchen.de
+utiq.hanauer.de
 utiq.handelsblatt.com
 utiq.hbrfrance.fr
 utiq.heftig.de
@@ -116,6 +119,7 @@ utiq.landtiere.de
 utiq.laopinioncoruna.es
 utiq.laopiniondemalaga.es
 utiq.laopiniondemurcia.es
+utiq.laopiniondezamora.es
 utiq.laprovincia.es
 utiq.larioja.com
 utiq.lasprovincias.es
@@ -142,6 +146,7 @@ utiq.motorradfrage.net
 utiq.movistar.es
 utiq.mundoxiaomi.com
 utiq.myhomebook.de
+utiq.neonmag.fr
 utiq.news38.de
 utiq.nostalgie.fr
 utiq.nrj-play.fr

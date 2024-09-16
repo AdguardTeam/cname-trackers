@@ -57,8 +57,8 @@
 | tr.allopneus.com | tracking.bp01.net |
 | tr.animation.lexpress.fr | tracking.bp01.net |
 | tr.animation.micromania.fr | tracking.bp01.net |
-| tr.animations.alticemedia.com | tracking.bp01.net |
 | tr.animations.bfmtv.com | tracking.bp01.net |
+| tr.animations.rmcbfm.com | tracking.bp01.net |
 | tr.apou032.espmp-agfr.net | tracking.bp01.net |
 | tr.asp0010.espmp-nifr.net | tracking.bp01.net |
 | tr.asp0018.espmp-aufr.net | tracking.bp01.net |
@@ -190,9 +190,7 @@
 | tr.cart02d.espmp-agfr.net | tracking.bp01.net |
 | tr.carte.lcl.fr | tracking.bp01.net |
 | tr.cartegie.fr | tracking.bp01.net |
-| tr.cashback.floa.fr | tracking.bp01.net |
 | tr.cb4x.banque-casino.fr | tracking.bp01.net |
-| tr.cb4x.floa.fr | tracking.bp01.net |
 | tr.cclx.espmp-agfr.net | tracking.bp01.net |
 | tr.cdiscount.3wregie.com | tracking.bp01.net |
 | tr.ceeregion.moethennessy.com | tracking.bp01.net |
@@ -233,7 +231,6 @@
 | tr.commercial.boursobank.info | tracking.bp01.net |
 | tr.communaute.caradisiac.com | tracking.bp01.net |
 | tr.communautes-mediametrie.fr | tracking.bp01.net |
-| tr.communication.alticemedia.com | tracking.bp01.net |
 | tr.communication.ancv.com | tracking.bp01.net |
 | tr.communication.armatis-lc.com | tracking.bp01.net |
 | tr.communication.arthur-bonnet.com | tracking.bp01.net |
@@ -349,7 +346,6 @@
 | tr.email.akerys.com | tracking.bp01.net |
 | tr.email.aktuariat.fr | tracking.bp01.net |
 | tr.email.archiexpo.com | tracking.bp01.net |
-| tr.email.bon-placement-immobilier.fr | tracking.bp01.net |
 | tr.email.contact-jaguar.fr | tracking.bp01.net |
 | tr.email.contact-landrover.fr | tracking.bp01.net |
 | tr.email.custom-campaign.com | tracking.bp01.net |
@@ -427,6 +423,7 @@
 | tr.forum.veuveclicquot.fr | tracking.bp01.net |
 | tr.fr.pro.accor.com | tracking.bp01.net |
 | tr.france.plimsoll.fr | tracking.bp01.net |
+| tr.fts.francetravail.fr | tracking.bp01.net |
 | tr.future-commerce.mhdfrance.fr | tracking.bp01.net |
 | tr.futurecommerce.moethennessy.com | tracking.bp01.net |
 | tr.gen.espmp-agfr.net | tracking.bp01.net |
@@ -436,7 +433,6 @@
 | tr.gestion.cofinoga.fr | tracking.bp01.net |
 | tr.gestion.credit-moderne.fr | tracking.bp01.net |
 | tr.gestion.domofinance.fr | tracking.bp01.net |
-| tr.gestion.floa.fr | tracking.bp01.net |
 | tr.gestion.hondafinancialservices.fr | tracking.bp01.net |
 | tr.gestion.lexpress.fr | tracking.bp01.net |
 | tr.gestion.liberation.fr | tracking.bp01.net |
@@ -840,6 +836,7 @@
 | tr.news.perfectstay.com | tracking.bp01.net |
 | tr.news.perl.fr | tracking.bp01.net |
 | tr.news.pl.bata-esp.com | tracking.bp01.net |
+| tr.news.pointfranchise.co.uk | tracking.bp01.net |
 | tr.news.prosfora-mou.gr | tracking.bp01.net |
 | tr.news.receiveyourquote.co.uk | tracking.bp01.net |
 | tr.news.retailglobalsolutions.com | tracking.bp01.net |
@@ -908,10 +905,10 @@
 | tr.newsletter.younited-credit.com | tracking.bp01.net |
 | tr.newsletterpagesjaunes.fr | tracking.bp01.net |
 | tr.newsletters-bonpoint.com | tracking.bp01.net |
-| tr.newsletters.alticemedia.com | tracking.bp01.net |
 | tr.newsletters.coedition-contact.fr | tracking.bp01.net |
 | tr.newsletters.odalys-vacances.com | tracking.bp01.net |
 | tr.newsletters.qapa-interim.fr | tracking.bp01.net |
+| tr.newsletters.rmcbfm.com | tracking.bp01.net |
 | tr.newsmarketing.allopneus.com | tracking.bp01.net |
 | tr.nl.2wls.net | tracking.bp01.net |
 | tr.nl.ardennes.cci.fr | tracking.bp01.net |
@@ -944,7 +941,6 @@
 | tr.offres.ap-regie.fr | tracking.bp01.net |
 | tr.offres.bfmtv.com | tracking.bp01.net |
 | tr.offresbtoc.engie.fr | tracking.bp01.net |
-| tr.offrevip.floa.fr | tracking.bp01.net |
 | tr.ojxm.espmp-aufr.net | tracking.bp01.net |
 | tr.online.longchamp.com | tracking.bp01.net |
 | tr.openinnovation.lvmh.com | tracking.bp01.net |
@@ -1005,6 +1001,7 @@
 | tr.recouvrement.seeric.com | tracking.bp01.net |
 | tr.recouvrement.younited-credit.com | tracking.bp01.net |
 | tr.redaction.essentiel-sante-magazine.fr | tracking.bp01.net |
+| tr.redaction.leguidedupouvoir.fr | tracking.bp01.net |
 | tr.reglementaire.emailing.bnpparibas | tracking.bp01.net |
 | tr.relation-mediametrie.fr | tracking.bp01.net |
 | tr.relation.uneo.fr | tracking.bp01.net |

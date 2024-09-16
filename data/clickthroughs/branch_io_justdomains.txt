@@ -100,6 +100,7 @@ ablink.help.innit.com
 ablink.help.sanvello.com
 ablink.help.shopwell.com
 ablink.info.felixmobile.com.au
+ablink.info.marketingkfc.co
 ablink.info.max.com
 ablink.info.oneatwork.app
 ablink.info.pressreader.com
@@ -226,7 +227,6 @@ app.sephora.com
 applink-test.chalknation.com
 applink.getbambu.com
 atbe.mlb.com
-atumanera.burgerking.com.mx
 avasgtest.branch.rocks
 b.dl.redcrossblood.org
 b.iheart.southwest.com
@@ -237,7 +237,6 @@ b.prod1.youroffers.dominos.ca
 b.your.rewardsemail.dominos.ca
 bdtestsendpulse.branch.rocks
 bf35f69f2c6f6bcda64064b1f5b49218.domain.com.au
-bk.atumanera.burgerking.com.mx
 bluecore-email.branch.rocks
 bmf.branch.rocks
 bnc.autopass.xyz
@@ -439,7 +438,6 @@ email-vero.branch.rocks
 email-yesmail.branch.rocks
 email.agfuse.com
 email.app.theiconic.com.au
-email.atumanera.burgerking.com.mx
 email.branch.ninomail.com
 email.branchio.mg.kreezee.com
 email.chope.co
@@ -584,7 +582,6 @@ link.alerts.busuu.app
 link.angelstudios.com
 link.announce.busuu.app
 link.automated.almosafer.com
-link.bk.atumanera.burgerking.com.mx
 link.carfax.com
 link.cdl.freshly.com
 link.cheerz.com
@@ -594,7 +591,6 @@ link.design.unum.la
 link.e.blog.myfitnesspal.com
 link.em.sssports.com
 link.email.almosafer.com
-link.email.atumanera.burgerking.com.mx
 link.email.bnext.es
 link.email.myfitnesspal.com
 link.email.soothe.com
@@ -840,6 +836,7 @@ trk.email.dxl.com
 trk.geico.com
 trk.m1.stadiumgoods.com
 trk.send.safestyle.com.au
+trk.shop.simon.com
 trk.shoppremiumoutlets.com
 trkemail.luisaviaroma.com
 trklink.luisaviaroma.com
@@ -1053,6 +1050,7 @@ app.brandclub.com
 app.bruce.work
 app.buildd.co
 app.butterflymx.com
+app.buylink.info
 app.bws.com.au
 app.byjus.com
 app.caden.io
@@ -1381,6 +1379,7 @@ app.thisiscleveland.com
 app.times.radio
 app.tmro.com
 app.toastme.com
+app.tolans.com
 app.topgrad.co.uk
 app.topten10mall.com
 app.torfx.com
@@ -1537,7 +1536,6 @@ assistant.dg1.com
 atb.mlb.com
 athlete.uninterrupted.com
 atiteasexam.quantresear.ch
-atlantablackstar.black.news
 au.techieustad.com
 authsmtp.happ.social
 awsexam.quantresear.ch
@@ -1573,7 +1571,6 @@ be.slowmographer.co
 bears.daigostudio.com
 bentley.app.mobilapp.io
 bepartof.wechain.eu
-bet.black.news
 beta-link.liilix.com
 beta.view.repro.stream
 betterhealthrewards.headuplabs.com
@@ -1586,10 +1583,8 @@ bizlink.dinifi.com
 bkstg.flyx.me
 bl-test.curatedplanet.com
 blackdagger.openapp.link
-blackenterprise.black.news
 blackjack.abzorbagames.com
 blacks.ibeor.com
-blavity.black.news
 blink.checkworkrights.com.au
 blinks.outcomes4me.com
 bn.coupocket.com
@@ -2088,7 +2083,6 @@ e.vcty.co
 e035.pandasuite.io
 e246.pandasuite.io
 e403.pandasuite.io
-ebony.black.news
 edocs.didgigo.com
 edu.quizdom.gr
 educationlink.clear360.com
@@ -2164,6 +2158,7 @@ get-staging.soloyal.co
 get-test-employer.switchapp.com
 get-test.avakin.com
 get-test.livekick.com
+get-test.mojo.sport
 get-test.switchapp.com
 get.1tap.build
 get.1tap.io
@@ -3133,7 +3128,9 @@ link.insider.in
 link.instabridge.com
 link.instaeats.com
 link.instnt.com
+link.ionage.app
 link.itsdcode.com
+link.jadeclubapp.com
 link.jawwy.tv
 link.jeel.co
 link.jetsobee.com
@@ -3299,6 +3296,7 @@ link.setyawan.dev
 link.sevencooks.com
 link.sheeriz.com
 link.shengcekeji.com
+link.shopium.app
 link.shotgun.live
 link.shuffoe.com
 link.shutterfly.com
@@ -3326,6 +3324,7 @@ link.sporthub.io
 link.sportsbaazi.com
 link.sportyeah.com
 link.sprive.com
+link.srvme.com
 link.stabilitas.io
 link.staff.notab.com
 link.stage.easy.me
@@ -3349,7 +3348,6 @@ link.stynt.com
 link.subscribly.com
 link.super.money
 link.superviz.com
-link.surbee.io
 link.swa.info
 link.swaypayapp.com
 link.sweatpals.com
@@ -3359,6 +3357,7 @@ link.t2o.io
 link.talescreator.com
 link.taptapapp.com
 link.target.com.au
+link.teachfx.com
 link.techmaxapp.com
 link.tenallaccess.com.au
 link.test.chalknation.com
@@ -3378,6 +3377,7 @@ link.tomoloyalty.com
 link.tomoloyaltysg.com
 link.touchsurgery.com
 link.tradee.com
+link.tradhart.com
 link.tradle.io
 link.tribeup.social
 link.trycircle.com
@@ -3549,6 +3549,7 @@ links.travelchannel.com
 links.trutify.com
 links.tutorbin.com
 links.vestoapp.com
+links.virtuoso.com
 links.vyzivovetabulky.sk
 links.weareher.com
 links.well.co
@@ -3663,6 +3664,7 @@ matrix.elecle.bike
 maui.shakaguide.com
 md.diceid.com
 me.glamhive.com
+mealtime.openapp.link
 media.wave.qburst.com
 meinauto.hdd-dienste.de
 melodothogy.meng2x.com
@@ -3738,11 +3740,10 @@ mypowur.eyecue.io
 n.homepass.com
 nala.headuplabs.com
 naplexexam.quantresear.ch
-nbcnews.black.news
+nceexam.quantresear.ch
 nikitas.openapp.link
 nisaapp.nexus-dt.com
 now.getwifireapp.com
-npr.black.news
 npteptptaexam.quantresear.ch
 ns1.happ.social
 nv.inhaabit.com
@@ -3784,6 +3785,7 @@ open.melomm.com
 open.migrainebuddy.com
 open.myhiveapp.net
 open.novamoney.com
+open.olakrutrim.com
 open.osnplus.com
 open.speeko.co
 open.swapu.app
@@ -3989,6 +3991,7 @@ s.swishpick.com
 s.thebigfamily.app
 s.topya.com
 s.umba.com
+s.unikon.ai
 s.upoker.net
 s.utop.vn
 safepass.citizen.com
@@ -3998,6 +4001,7 @@ sailinsight20-app.sapsailing.com
 sales.pandasuite.io
 saltsabar.openapp.link
 sbc-app-links.specialized.com
+scan.playsight.com
 scanner-link.covve.com
 scheduling.qualifi.hr
 sd.sylectus.com
@@ -4251,8 +4255,10 @@ test.openapp.link
 test.partnerapp.kravein.com.au
 test.smrtp.link
 test.spenn.com
+test.staging.findeck.link
 test.swa.info
 test.thei.co
+test.to.figr.me
 test2.majelan.com
 testapp.panorama.id
 testapplink.flightbridge.com
@@ -4272,8 +4278,6 @@ testsocial.eduthrill.com
 thanecityfc.spyn.co
 the.foodium.app
 theme.echovisuals.com
-theroot.black.news
-thesource.black.news
 thraka.openapp.link
 timeclock.mytoolr.com
 tmapp.fitnessyard.com
@@ -4299,6 +4303,7 @@ toto.pandasuite.io
 track.ivia.com
 transmissionapp.jacoblegrone.com
 travel.stage.x.unikoom.com
+travel.travelfairy.ai
 travel.x.unikoom.com
 trk.luisaviaroma.com
 try.getbright.app
@@ -4393,6 +4398,7 @@ wsfc.topya.com
 www.bookmykitty.co.in
 www.gawayez.e-postserv.com
 www.getone.today
+www.smpgn.co
 www.vetxanh.edu.vn
 www1.happ.social
 x-living-denver-staging-link.foxboxapp.com

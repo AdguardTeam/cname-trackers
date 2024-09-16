@@ -63,6 +63,8 @@
 ||images.addurance.com^
 ||images.cricketworld.com^
 ||images.informatm.com^
+||images.jacilla.no^
+||images.mannenmedia.nl^
 ||images.worldofshowjumping.com^
 ||lalala.geenstijl.nl^
 ||media360ads.midtc.com^
@@ -87,6 +89,7 @@
 ||servedby.engineeringnews.co.za^
 ||servedby.everythingnevada.com^
 ||servedby.geminipub.com^
+||servedby.greenspring.com^
 ||servedby.healthcarescene.com^
 ||servedby.hlipublishing.com^
 ||servedby.imagineobx.com^

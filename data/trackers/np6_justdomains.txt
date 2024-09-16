@@ -36,8 +36,8 @@ tr.allianz-trade.com
 tr.allopneus.com
 tr.animation.lexpress.fr
 tr.animation.micromania.fr
-tr.animations.alticemedia.com
 tr.animations.bfmtv.com
+tr.animations.rmcbfm.com
 tr.apou032.espmp-agfr.net
 tr.asp0010.espmp-nifr.net
 tr.asp0018.espmp-aufr.net
@@ -169,9 +169,7 @@ tr.carl.espmp-cufr.net
 tr.cart02d.espmp-agfr.net
 tr.carte.lcl.fr
 tr.cartegie.fr
-tr.cashback.floa.fr
 tr.cb4x.banque-casino.fr
-tr.cb4x.floa.fr
 tr.cclx.espmp-agfr.net
 tr.cdiscount.3wregie.com
 tr.ceeregion.moethennessy.com
@@ -212,7 +210,6 @@ tr.commande.location.boulanger.com
 tr.commercial.boursobank.info
 tr.communaute.caradisiac.com
 tr.communautes-mediametrie.fr
-tr.communication.alticemedia.com
 tr.communication.ancv.com
 tr.communication.armatis-lc.com
 tr.communication.arthur-bonnet.com
@@ -328,7 +325,6 @@ tr.email.agriexpo.online
 tr.email.akerys.com
 tr.email.aktuariat.fr
 tr.email.archiexpo.com
-tr.email.bon-placement-immobilier.fr
 tr.email.contact-jaguar.fr
 tr.email.contact-landrover.fr
 tr.email.custom-campaign.com
@@ -406,6 +402,7 @@ tr.fleetmatics.vraaguwofferte.be
 tr.forum.veuveclicquot.fr
 tr.fr.pro.accor.com
 tr.france.plimsoll.fr
+tr.fts.francetravail.fr
 tr.future-commerce.mhdfrance.fr
 tr.futurecommerce.moethennessy.com
 tr.gen.espmp-agfr.net
@@ -415,7 +412,6 @@ tr.gestion.coficabail.fr
 tr.gestion.cofinoga.fr
 tr.gestion.credit-moderne.fr
 tr.gestion.domofinance.fr
-tr.gestion.floa.fr
 tr.gestion.hondafinancialservices.fr
 tr.gestion.lexpress.fr
 tr.gestion.liberation.fr
@@ -819,6 +815,7 @@ tr.news.parisinfo.com
 tr.news.perfectstay.com
 tr.news.perl.fr
 tr.news.pl.bata-esp.com
+tr.news.pointfranchise.co.uk
 tr.news.prosfora-mou.gr
 tr.news.receiveyourquote.co.uk
 tr.news.retailglobalsolutions.com
@@ -887,10 +884,10 @@ tr.newsletter.tiragephoto.fr
 tr.newsletter.younited-credit.com
 tr.newsletterpagesjaunes.fr
 tr.newsletters-bonpoint.com
-tr.newsletters.alticemedia.com
 tr.newsletters.coedition-contact.fr
 tr.newsletters.odalys-vacances.com
 tr.newsletters.qapa-interim.fr
+tr.newsletters.rmcbfm.com
 tr.newsmarketing.allopneus.com
 tr.nl.2wls.net
 tr.nl.ardennes.cci.fr
@@ -923,7 +920,6 @@ tr.offres-professionnelles.fr
 tr.offres.ap-regie.fr
 tr.offres.bfmtv.com
 tr.offresbtoc.engie.fr
-tr.offrevip.floa.fr
 tr.ojxm.espmp-aufr.net
 tr.online.longchamp.com
 tr.openinnovation.lvmh.com
@@ -984,6 +980,7 @@ tr.recouvrement.finrec.com
 tr.recouvrement.seeric.com
 tr.recouvrement.younited-credit.com
 tr.redaction.essentiel-sante-magazine.fr
+tr.redaction.leguidedupouvoir.fr
 tr.reglementaire.emailing.bnpparibas
 tr.relation-mediametrie.fr
 tr.relation.uneo.fr

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -25,6 +25,7 @@ av.dizziesferri.com CNAME .
 av.eulerupslant.com CNAME .
 ax.helcoidpedicel.com CNAME .
 ax.mousmeetrike.com CNAME .
+ax.plonksbunted.com CNAME .
 ax.requotebatman.com CNAME .
 az.koipatolipper.com CNAME .
 bb.whaupburgeon.com CNAME .
@@ -121,6 +122,8 @@ ik.nuraghireels.com CNAME .
 im.trodspivery.com CNAME .
 ir.mildlydoucely.com CNAME .
 it.hokerlywaffies.com CNAME .
+iu.chartsimmi.com CNAME .
+iu.ziramsochreae.com CNAME .
 ix.sparkleagings.com CNAME .
 iy.micastpyridic.com CNAME .
 jb.nockerlmrs.com CNAME .
@@ -316,6 +319,7 @@ wo.firrycandour.com CNAME .
 wr.rugosehoarish.com CNAME .
 wv.donarynahane.com CNAME .
 xd.meritedyaws.com CNAME .
+xg.daybeamposit.com CNAME .
 xl.demosbattik.com CNAME .
 xn.brocardgillar.com CNAME .
 xn.geoidalsericin.com CNAME .
@@ -337,6 +341,7 @@ yp.tronkparsed.com CNAME .
 yq.bokosatom.com CNAME .
 yu.deggerfletton.com CNAME .
 yv.remountduretto.com CNAME .
+yv.trolandmattes.com CNAME .
 yz.wrightdirely.com CNAME .
 zd.amautkarite.com CNAME .
 zf.dezaleyarmless.com CNAME .

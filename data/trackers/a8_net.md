@@ -1436,7 +1436,6 @@
 | cv.bc-force.com | trck.a8.net |
 | cv.belta-shop.jp | trck.a8.net |
 | cv.betrading.jp | trck.a8.net |
-| cv.bikoshaen.com | trck.a8.net |
 | cv.bloomeelife.com | trck.a8.net |
 | cv.cante-gym.com | trck.a8.net |
 | cv.cart.naturath.jp | trck.a8.net |
@@ -1479,6 +1478,7 @@
 | cv.stella-s.com | trck.a8.net |
 | cv.subscription-store.com | trck.a8.net |
 | cv.sumaho-hoken.jp | trck.a8.net |
+| cv.sunny-store-cart.com | trck.a8.net |
 | cv.taskar.online | trck.a8.net |
 | cv.tenjin.cc | trck.a8.net |
 | cv.theatreacademy.info | trck.a8.net |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1725868807952        ; Serial
+           1726473607097        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -74,6 +74,8 @@ display.lawbulletin.com CNAME .
 images.addurance.com CNAME .
 images.cricketworld.com CNAME .
 images.informatm.com CNAME .
+images.jacilla.no CNAME .
+images.mannenmedia.nl CNAME .
 images.worldofshowjumping.com CNAME .
 lalala.geenstijl.nl CNAME .
 media360ads.midtc.com CNAME .
@@ -98,6 +100,7 @@ servedby.cricketworld.com CNAME .
 servedby.engineeringnews.co.za CNAME .
 servedby.everythingnevada.com CNAME .
 servedby.geminipub.com CNAME .
+servedby.greenspring.com CNAME .
 servedby.healthcarescene.com CNAME .
 servedby.hlipublishing.com CNAME .
 servedby.imagineobx.com CNAME .

@@ -56,6 +56,7 @@ meta-events.bikereg.com
 meta-events.cleaneatingmag.com
 meta-events.climbing.com
 meta-events.finisherpix.com
+meta-events.gaiagps.com
 meta-events.mycoloradoparks.com
 meta-events.mygrandcanyonpark.com
 meta-events.myolympicpark.com
@@ -67,6 +68,8 @@ meta-events.outside.io
 meta-events.outsideonline.com
 meta-events.oxygenmag.com
 meta-events.pledgereg.com
+meta-events.podiumrunner.com
+meta-events.road-results.com
 meta-events.runreg.com
 meta-events.skimag.com
 meta-events.trailforks.com
@@ -78,8 +81,8 @@ meta-events.velonews.com
 meta-events.womensrunning.com
 meta-events.yellowstonepark.com
 meta-events.yogajournal.com
-mr-in-staging.beginlearning.com
 mr-in.beginlearning.com
 mr-in.littlepassports.com
 mr.pinkbike.com
 anx-staging.learnwithhomer.com
+mr-in-staging.beginlearning.com
