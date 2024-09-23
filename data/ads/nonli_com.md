@@ -20,6 +20,7 @@
 | l.traxmag.com | non.li |
 | l.varmatin.com | non.li |
 | nr.lanouvellerepublique.fr | non.li |
+| on.qobuz.com | non.li |
 | social.lafranceagricole.fr | non.li |
 | sur.laprovence.com | non.li |
 | l.laprovence.com | tls-lp-cm.non.li |

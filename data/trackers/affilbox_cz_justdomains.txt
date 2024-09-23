@@ -12,6 +12,7 @@ affi.dobra-miska.cz
 affi.nostressmama.cz
 affi.veronikahronkova.cz
 affil.alkohol.cz
+affil.aniball.cz
 affil.atan.cz
 affil.audioteka.cz
 affil.avenatura.sk
@@ -23,7 +24,6 @@ affil.chlap20.sk
 affil.chocome.cz
 affil.claimcloud.cz
 affil.comamdelat.com
-affil.coolcocky.cz
 affil.danfil.cz
 affil.domio.cz
 affil.dotykacka.cz
@@ -96,6 +96,7 @@ affiliate.4fresh.cz
 affiliate.a1m.cz
 affiliate.activeczech.com
 affiliate.agatinsvet.cz
+affiliate.akademia-online-podnikatela.sk
 affiliate.alchymiezeny.cz
 affiliate.alexandrajohn.com
 affiliate.alexandrajohn.cz
@@ -183,8 +184,10 @@ affiliate.lentiamo.be
 affiliate.lentiamo.bg
 affiliate.lentiamo.ch
 affiliate.lentiamo.co.uk
+affiliate.lentiamo.dk
 affiliate.lentiamo.es
 affiliate.lentiamo.fr
+affiliate.lentiamo.it
 affiliate.lentiamo.nl
 affiliate.lentiamo.se
 affiliate.levnoshop.cz
@@ -195,6 +198,7 @@ affiliate.loveo.cz
 affiliate.luxor.cz
 affiliate.manvel.cz
 affiliate.marketingminer.com
+affiliate.martinchudy.sk
 affiliate.martinreznicek.cz
 affiliate.milagro.cz
 affiliate.mobilniplatby.cz
@@ -288,6 +292,8 @@ box.cryptokingdom.tech
 box.kryptotrejder.sk
 brana.ritualyomlazeni.cz
 collab.zdravetricko.cz
+dekovacka.stickersmakers.cz
+devaff.bitcoinzmenaren.sk
 doporuc.hopsej.cz
 doporuc.konferenceryba.cz
 doporuc.mechaneo.cz
@@ -419,6 +425,7 @@ my.weplayvolleyball.gr
 my.weplayvolleyball.ro
 my.weplayvolleyball.si
 my.weplayvolleyball.sk
+obluk.equilist.cz
 online.pdfknihovna.cz
 partak.surfey.cz
 partener.aeriumshop.ro
@@ -433,6 +440,7 @@ partner.alesio.cz
 partner.amonit.sk
 partner.amonitsro.sk
 partner.anabix.cz
+partner.andelskasluzba.cz
 partner.antihacker.cz
 partner.artmaster.com
 partner.artmasteracademy.cz
@@ -444,6 +452,7 @@ partner.barnaby.cz
 partner.bazaroveregaly.cz
 partner.beautylash.cz
 partner.bed4dogs.com
+partner.bilynabytek.cz
 partner.bio-nechty.sk
 partner.bio-nehty.cz
 partner.biomag.cz
@@ -493,6 +502,7 @@ partner.dailymix.cz
 partner.dancahajkova.com
 partner.danfil.cz
 partner.darinapetrakova.cz
+partner.dellinger.cz
 partner.denato.cz
 partner.denato.fr
 partner.denato.it
@@ -520,6 +530,7 @@ partner.econea.cz
 partner.edutu.cz
 partner.energiezivota.com
 partner.epravo.cz
+partner.equilist.cz
 partner.eshop-gyorsan.hu
 partner.eshop-rodas.cz
 partner.evolutionhub.cz
@@ -534,6 +545,7 @@ partner.firmin.cz
 partner.fitnessrevolucia.sk
 partner.forcell.cz
 partner.forexrebel.net
+partner.fotoposta.sk
 partner.freshlabels.cz
 partner.gel-gun.cz
 partner.generatorvodiku.cz
@@ -563,6 +575,7 @@ partner.izlato24.cz
 partner.jak-na-bolava-zada.cz
 partner.jakfotitsladke.cz
 partner.jakserychlenaucit.cz
+partner.jbimbishop.cz
 partner.jedlenadobi.cz
 partner.jillylenau.cz
 partner.kafista.cz
@@ -574,7 +587,9 @@ partner.kidtown.cz
 partner.kokiskashop.cz
 partner.kokiskashop.sk
 partner.kominy-bokra.cz
+partner.korff.sk
 partner.kreativnisvet.cz
+partner.kupcomp.sk
 partner.kurzysusmevem.cz
 partner.kvcar.cz
 partner.laab.cz
@@ -609,19 +624,24 @@ partner.minikoioi.cz
 partner.misinacokolada.cz
 partner.mojeluha.cz
 partner.mojetonery.sk
+partner.monosoke.sk
+partner.montessorihracky.cz
 partner.mooda.cz
 partner.mooselife.cz
+partner.moravite.cz
 partner.motoobchod.cz
 partner.muffik.cz
 partner.muffik.eu
 partner.mumijo.cz
 partner.muzskykruh.cz
 partner.nanolab.cz
+partner.nanolab.sk
 partner.nanotech-europe.cz
 partner.naplne.cz
 partner.naseano.cz
 partner.naslouchamesrdcem.cz
 partner.natubea.cz
+partner.naturinka.cz
 partner.nejlepsi-darecky.cz
 partner.neviditelnepradlo.cz
 partner.nextwood.cz
@@ -639,6 +659,8 @@ partner.onlinepriznanie.sk
 partner.ozogan.cz
 partner.palstorm.cz
 partner.parfemy-parfumeur.cz
+partner.patchworkparty.sk
+partner.patizon.com
 partner.perfect-dress.eu
 partner.pesar.cz
 partner.pinkasistent.sk
@@ -681,6 +703,7 @@ partner.sporthangar.cz
 partner.starnails.cz
 partner.stavario.com
 partner.strendem.cz
+partner.stromkyonline.cz
 partner.summermyles.cz
 partner.susmevem.com
 partner.svatba.cz
@@ -693,6 +716,7 @@ partner.sypanycaj.eu
 partner.tahnabranu.cz
 partner.tajemstvi-uspechu.cz
 partner.thechillidoctor.cz
+partner.thelisteningworld.com
 partner.top-obaly.cz
 partner.totalniplavani.cz
 partner.tozax.cz
@@ -721,6 +745,7 @@ partner.xbx.cz
 partner.xm.cz
 partner.yummy.sk
 partner.zdravi.online
+partner.ziskamdobroupraci.cz
 partner.zkontrolujsiauto.cz
 partner.zombeek.cz
 partner.zonky.cz
@@ -778,6 +803,7 @@ partneri.intimfitness.cz
 partneri.jakofenix.cz
 partneri.jazykovedarky.cz
 partneri.jazykyodpiky.cz
+partneri.jipos.cz
 partneri.jrc.cz
 partneri.keramika-dum.cz
 partneri.kerasek.cz
@@ -836,6 +862,7 @@ partneri.sportfotbal.cz
 partneri.sportmentor.cz
 partneri.sterixretro.cz
 partneri.supportbox.cz
+partneri.svetfitness.cz
 partneri.sviicka.cz
 partneri.tajomstvochudnutia.sk
 partneri.tanahavlickova.cz

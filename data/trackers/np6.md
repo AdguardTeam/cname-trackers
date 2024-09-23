@@ -59,6 +59,7 @@
 | tr.animation.micromania.fr | tracking.bp01.net |
 | tr.animations.bfmtv.com | tracking.bp01.net |
 | tr.animations.rmcbfm.com | tracking.bp01.net |
+| tr.apac.coms.moethennessy.com | tracking.bp01.net |
 | tr.apou032.espmp-agfr.net | tracking.bp01.net |
 | tr.asp0010.espmp-nifr.net | tracking.bp01.net |
 | tr.asp0018.espmp-aufr.net | tracking.bp01.net |
@@ -138,7 +139,6 @@
 | tr.asp2078.espmp-nifr.net | tracking.bp01.net |
 | tr.asp207e.espmp-nifr.net | tracking.bp01.net |
 | tr.asp207f.espmp-cufr.net | tracking.bp01.net |
-| tr.assoc.cfsr-retine.com | tracking.bp01.net |
 | tr.avisecheance.maaf.fr | tracking.bp01.net |
 | tr.axa-millesimes.espmp-aufr.net | tracking.bp01.net |
 | tr.axa.espmp-aufr.net | tracking.bp01.net |
@@ -283,6 +283,7 @@
 | tr.courrier.sudouest.fr | tracking.bp01.net |
 | tr.crc.henner.com | tracking.bp01.net |
 | tr.credito.universo.pt | tracking.bp01.net |
+| tr.crm.intersportbypitte.com | tracking.bp01.net |
 | tr.crtl.espmp-aufr.net | tracking.bp01.net |
 | tr.customer-solutions.np6.com | tracking.bp01.net |
 | tr.cyberarchi.info | tracking.bp01.net |
@@ -433,6 +434,7 @@
 | tr.gestion.cofinoga.fr | tracking.bp01.net |
 | tr.gestion.credit-moderne.fr | tracking.bp01.net |
 | tr.gestion.domofinance.fr | tracking.bp01.net |
+| tr.gestion.floa.fr | tracking.bp01.net |
 | tr.gestion.hondafinancialservices.fr | tracking.bp01.net |
 | tr.gestion.lexpress.fr | tracking.bp01.net |
 | tr.gestion.liberation.fr | tracking.bp01.net |
@@ -619,6 +621,7 @@
 | tr.mail.vipmag.fr | tracking.bp01.net |
 | tr.mail.vo3000.com | tracking.bp01.net |
 | tr.mail1.macif.fr | tracking.bp01.net |
+| tr.mail306.com | tracking.bp01.net |
 | tr.mailatia.com | tracking.bp01.net |
 | tr.mailing.achatpublic.com | tracking.bp01.net |
 | tr.mailing.heliades.fr | tracking.bp01.net |
@@ -665,6 +668,7 @@
 | tr.mijnaanbieding.renowizz.be | tracking.bp01.net |
 | tr.mika.espmp-nifr.net | tracking.bp01.net |
 | tr.mktg.np6.com | tracking.bp01.net |
+| tr.ml.batiproduits.com | tracking.bp01.net |
 | tr.mm.infopro-digital.com | tracking.bp01.net |
 | tr.mnoc.espmp-nifr.net | tracking.bp01.net |
 | tr.mnpd.espmp-agfr.net | tracking.bp01.net |
@@ -680,6 +684,7 @@
 | tr.mp.actu-pm.fr | tracking.bp01.net |
 | tr.mp.infomanageo.fr | tracking.bp01.net |
 | tr.mp.ld-man.fr | tracking.bp01.net |
+| tr.mp.manageo.net | tracking.bp01.net |
 | tr.mrls.espmp-agfr.net | tracking.bp01.net |
 | tr.mydevisentreprise.com | tracking.bp01.net |
 | tr.n.ferrero.fr | tracking.bp01.net |
@@ -778,14 +783,17 @@
 | tr.news.groupe-armonia.com | tracking.bp01.net |
 | tr.news.happycap-foundation.fr | tracking.bp01.net |
 | tr.news.happycap.org | tracking.bp01.net |
+| tr.news.havasvoyages-groupes.fr | tracking.bp01.net |
 | tr.news.helvyre.fr | tracking.bp01.net |
 | tr.news.heredis.com | tracking.bp01.net |
 | tr.news.i24news.tv | tracking.bp01.net |
 | tr.news.ics.fr | tracking.bp01.net |
+| tr.news.ifh.fr | tracking.bp01.net |
 | tr.news.infopro-digital.com | tracking.bp01.net |
 | tr.news.interforum.fr | tracking.bp01.net |
 | tr.news.itancia.com | tracking.bp01.net |
 | tr.news.jautomatise.com | tracking.bp01.net |
+| tr.news.kaptainmusic.fr | tracking.bp01.net |
 | tr.news.kpmg-avocats.fr | tracking.bp01.net |
 | tr.news.kpmg.fr | tracking.bp01.net |
 | tr.news.kpmgacademy.fr | tracking.bp01.net |
@@ -881,6 +889,7 @@
 | tr.newsletter.bouygues-construction.com | tracking.bp01.net |
 | tr.newsletter.bouygues.com | tracking.bp01.net |
 | tr.newsletter.capdecision.fr | tracking.bp01.net |
+| tr.newsletter.caray.fr | tracking.bp01.net |
 | tr.newsletter.chandon.com | tracking.bp01.net |
 | tr.newsletter.cuisine-plus.tv | tracking.bp01.net |
 | tr.newsletter.ecig-privee.fr | tracking.bp01.net |
@@ -891,6 +900,7 @@
 | tr.newsletter.leocare.eu | tracking.bp01.net |
 | tr.newsletter.location.boulanger.com | tracking.bp01.net |
 | tr.newsletter.lokeo.fr | tracking.bp01.net |
+| tr.newsletter.maximag.fr | tracking.bp01.net |
 | tr.newsletter.meilleurmobile.com | tracking.bp01.net |
 | tr.newsletter.milleis.fr | tracking.bp01.net |
 | tr.newsletter.mixr.net | tracking.bp01.net |
@@ -941,6 +951,7 @@
 | tr.offres.ap-regie.fr | tracking.bp01.net |
 | tr.offres.bfmtv.com | tracking.bp01.net |
 | tr.offresbtoc.engie.fr | tracking.bp01.net |
+| tr.offrevip.floa.fr | tracking.bp01.net |
 | tr.ojxm.espmp-aufr.net | tracking.bp01.net |
 | tr.online.longchamp.com | tracking.bp01.net |
 | tr.openinnovation.lvmh.com | tracking.bp01.net |
@@ -972,6 +983,7 @@
 | tr.pro-renov.be | tracking.bp01.net |
 | tr.pro.odalys-vacances.com | tracking.bp01.net |
 | tr.pro.residencehappysenior.fr | tracking.bp01.net |
+| tr.pro.sgit.net | tracking.bp01.net |
 | tr.programme-voyageur-sncf.com | tracking.bp01.net |
 | tr.projet.cotemaison.fr | tracking.bp01.net |
 | tr.promo.np6.fr | tracking.bp01.net |
@@ -1077,6 +1089,7 @@
 | tr.urfk02z.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03c.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03h.espmp-nifr.net | tracking.bp01.net |
+| tr.urfk03i.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03k.espmp-agfr.net | tracking.bp01.net |
 | tr.urfk03q.espmp-nifr.net | tracking.bp01.net |
 | tr.urfk03u.espmp-nifr.net | tracking.bp01.net |

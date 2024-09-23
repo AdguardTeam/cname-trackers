@@ -45,6 +45,7 @@
 | a.slice.exchange | 1208818836.rsc.cdn77.org |
 | a.stuffserve.com | 1208818836.rsc.cdn77.org |
 | a.tf4srv.com | 1208818836.rsc.cdn77.org |
+| a.traffic-gold.com | 1208818836.rsc.cdn77.org |
 | a.vws4brkfst.com | 1208818836.rsc.cdn77.org |
 | ads.optimizesrv.com | 1208818836.rsc.cdn77.org |
 | delivery.gettopple.com | 1208818836.rsc.cdn77.org |
@@ -543,6 +544,7 @@
 | 3498081.notifysrv.com | tk6if76q.ab1n.net |
 | 3498171.notify6.com | tk6if76q.ab1n.net |
 | 3501655.notify6.com | tk6if76q.ab1n.net |
+| 3501923.notify6.com | tk6if76q.ab1n.net |
 | 3505119.notify6.com | tk6if76q.ab1n.net |
 | 3505123.notify6.com | tk6if76q.ab1n.net |
 | 3505123.notifysrv.com | tk6if76q.ab1n.net |
@@ -926,6 +928,7 @@
 | 4062424.notify6.com | tk6if76q.ab1n.net |
 | 4062428.notify6.com | tk6if76q.ab1n.net |
 | 4065194.notify6.com | tk6if76q.ab1n.net |
+| 4065944.notify6.com | tk6if76q.ab1n.net |
 | 4067912.notify6.com | tk6if76q.ab1n.net |
 | 4068856.notify6.com | tk6if76q.ab1n.net |
 | 4068860.notify6.com | tk6if76q.ab1n.net |
@@ -1157,6 +1160,7 @@
 | autoconfig.directory.notifysrv.com | tk6if76q.ab1n.net |
 | click.advertrek.com | tk6if76q.ab1n.net |
 | engine.gettopple.com | tk6if76q.ab1n.net |
+| feedback.notifysrv.com | tk6if76q.ab1n.net |
 | ftp1.notifysrv.com | tk6if76q.ab1n.net |
 | gamma.notifysrv.com | tk6if76q.ab1n.net |
 | gcc.notifysrv.com | tk6if76q.ab1n.net |

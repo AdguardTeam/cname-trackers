@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -94,6 +94,7 @@ extramilefloorcare.ericksonbuilt.com CNAME .
 f8phvntohv.tpetry.me CNAME .
 galop.leferacheval-saintcloud.com CNAME .
 hej.henriksommerfeld.se CNAME .
+hi.baudot.io CNAME .
 hi.koalendar.com CNAME .
 hi.streetworkoutlist.com CNAME .
 hola.xebel.co CNAME .
@@ -186,6 +187,7 @@ plausible-stats.tangodelta.media CNAME .
 plausible.adreform.com CNAME .
 plausible.alexandar.me CNAME .
 plausible.alpaga.io CNAME .
+plausible.altkey.club CNAME .
 plausible.app.kdojang.com CNAME .
 plausible.app.tlschedule.com CNAME .
 plausible.bablab.com CNAME .
@@ -271,6 +273,7 @@ pls.fcrpg.net CNAME .
 pls.skycastle.dev CNAME .
 plsbl-staging.edison.se CNAME .
 plsbl.edison.se CNAME .
+plsbl.martinkriegeskorte.de CNAME .
 prism.drivingkyoto.com CNAME .
 prism.feurer-network.ch CNAME .
 prism.netherlandlines.com CNAME .
@@ -311,6 +314,7 @@ sa.flux.community CNAME .
 sats.mailbrew.com CNAME .
 see.wasteorshare.com CNAME .
 server.japanbyrivercruise.com CNAME .
+server.officeclowns.live CNAME .
 server.olliehorn.com CNAME .
 site-stats.supernotes.app CNAME .
 sp.ballsdigroup.com CNAME .
@@ -482,7 +486,9 @@ stats.emmas.site CNAME .
 stats.engel-apotheke.de CNAME .
 stats.engeldirekt.de CNAME .
 stats.equium.io CNAME .
+stats.erik.joling.me CNAME .
 stats.erikinthekitchen.com CNAME .
+stats.erikkemp.eu CNAME .
 stats.erlef.org CNAME .
 stats.evenchilada.com CNAME .
 stats.executebig.org CNAME .
@@ -528,6 +534,7 @@ stats.gslc.utah.edu CNAME .
 stats.gtnetworks.com CNAME .
 stats.guersanguillaume.com CNAME .
 stats.guidingwallet.app CNAME .
+stats.gusmanson.nl CNAME .
 stats.gynsprechstunde.de CNAME .
 stats.hackershare.dev CNAME .
 stats.halcyon.hr CNAME .
@@ -569,6 +576,7 @@ stats.jamhouse.app CNAME .
 stats.jansix.at CNAME .
 stats.jasonludden.dev CNAME .
 stats.jdheyburn.co.uk CNAME .
+stats.jeremygreenawalt.com CNAME .
 stats.jerickson.net CNAME .
 stats.jhsheridan.com CNAME .
 stats.jjude.com CNAME .
@@ -662,6 +670,7 @@ stats.nerdbusiness.com CNAME .
 stats.new.sublimesecurity.com CNAME .
 stats.newslit.co CNAME .
 stats.nexagon.dk CNAME .
+stats.niceshitforbitcoiners.com CNAME .
 stats.nodewood.com CNAME .
 stats.nonprofit.foundation CNAME .
 stats.nothingbutnylon.com CNAME .
@@ -705,6 +714,7 @@ stats.piplette.co CNAME .
 stats.pitstone.co.uk CNAME .
 stats.plainsending.com CNAME .
 stats.planxti.com CNAME .
+stats.playoutgame.app CNAME .
 stats.poesieundgenuss.com CNAME .
 stats.pointflottant.com CNAME .
 stats.polekatfitness.com CNAME .
@@ -785,7 +795,10 @@ stats.stack11.io CNAME .
 stats.stackingthebricks.com CNAME .
 stats.stacks.org CNAME .
 stats.staging.hex.pm CNAME .
+stats.staging.hexdocs.pm CNAME .
+stats.stephlow.audio CNAME .
 stats.steuer-soldaten.de CNAME .
+stats.stoelverhoger.net CNAME .
 stats.strawberry.rocks CNAME .
 stats.studypages.com CNAME .
 stats.sublimesecurity.com CNAME .
@@ -866,6 +879,7 @@ sts.authramp.com CNAME .
 sts.eliasjarzombek.com CNAME .
 sts.papyrs.com CNAME .
 sts.tour-europe.org CNAME .
+stts.emplution.com CNAME .
 stts.sgab-srfp.ch CNAME .
 stts.swisshranalytics.ch CNAME .
 t.lastcast.fm CNAME .

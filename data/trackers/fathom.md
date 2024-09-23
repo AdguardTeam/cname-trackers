@@ -14,6 +14,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| caribou.clintgwinter.com | 77980.bodis.com |
 | flea.artisan.school | 77980.bodis.com |
 | 4ke5b4ila.codedge.de | deprecated-custom-domains.b-cdn.net |
 | 7wrxo2xh.iriscreative.co | deprecated-custom-domains.b-cdn.net |
@@ -152,6 +153,7 @@
 | butterfly.rfortherestofus.com | deprecated-custom-domains.b-cdn.net |
 | buzzard.donotresearch.net | deprecated-custom-domains.b-cdn.net |
 | buzzard.ficabo.com.au | deprecated-custom-domains.b-cdn.net |
+| buzzard.nimble.team | deprecated-custom-domains.b-cdn.net |
 | camel.gastro-plan.app | deprecated-custom-domains.b-cdn.net |
 | camel.nonpopularopinion.com | deprecated-custom-domains.b-cdn.net |
 | camel.warvik.no | deprecated-custom-domains.b-cdn.net |
@@ -196,7 +198,6 @@
 | cattle.herojob.de | deprecated-custom-domains.b-cdn.net |
 | cattle.kirkebaekke.dk | deprecated-custom-domains.b-cdn.net |
 | cattle.kumo.at | deprecated-custom-domains.b-cdn.net |
-| cattle.meets.beer | deprecated-custom-domains.b-cdn.net |
 | cattle.mes-renovateurs.com | deprecated-custom-domains.b-cdn.net |
 | cattle.musikschule-bregenzerwald.at | deprecated-custom-domains.b-cdn.net |
 | cattle.spiral11.com | deprecated-custom-domains.b-cdn.net |
@@ -666,8 +667,6 @@
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
 | parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wilderworld.com | deprecated-custom-domains.b-cdn.net |
-| parrotfish.wus.immo | deprecated-custom-domains.b-cdn.net |
-| peacock.psych.help | deprecated-custom-domains.b-cdn.net |
 | peafowl.projectstrackt.dev | deprecated-custom-domains.b-cdn.net |
 | penguin.craftpeak.io | deprecated-custom-domains.b-cdn.net |
 | penguin.mobiadroit.com | deprecated-custom-domains.b-cdn.net |
@@ -977,6 +976,7 @@
 | aardwolf.meinsmartplan.de | starman.fathomdns.com |
 | aardwolf.relaycorp.tech | starman.fathomdns.com |
 | albatros.teamground.fr | starman.fathomdns.com |
+| albatross.creacoon.com | starman.fathomdns.com |
 | albatross.mypromo.co | starman.fathomdns.com |
 | albatross.ohseesoftware.com | starman.fathomdns.com |
 | alpaca.hans-hornberger.com | starman.fathomdns.com |
@@ -1014,6 +1014,7 @@
 | antlion.hendrikhaack.de | starman.fathomdns.com |
 | ape.mfj.se | starman.fathomdns.com |
 | ape.pytch.co.uk | starman.fathomdns.com |
+| ape.saadsvoterguide.org | starman.fathomdns.com |
 | ape.smartplanschema.se | starman.fathomdns.com |
 | aphid.enjoleur.com | starman.fathomdns.com |
 | aphid.nihilnegativum.com | starman.fathomdns.com |
@@ -1028,6 +1029,7 @@
 | asp.brightmachine.uk | starman.fathomdns.com |
 | asp.dimileeh.com | starman.fathomdns.com |
 | asp.podlist.de | starman.fathomdns.com |
+| asp.rikkeekelund.com | starman.fathomdns.com |
 | asp.sepiasoft.eu | starman.fathomdns.com |
 | azlej8cdm.pragmaticwebsecurity.com | starman.fathomdns.com |
 | baboon.ideapotential.com | starman.fathomdns.com |
@@ -1065,6 +1067,7 @@
 | bird.brondby.com | starman.fathomdns.com |
 | bird.recruitkit.com.au | starman.fathomdns.com |
 | bird.webitizevoice.com | starman.fathomdns.com |
+| bison.equals.community | starman.fathomdns.com |
 | bison.joshhanley.com.au | starman.fathomdns.com |
 | bison.streamclocks.com | starman.fathomdns.com |
 | bison.stuffmatic.com | starman.fathomdns.com |
@@ -1109,7 +1112,6 @@
 | cardinal.genx.be | starman.fathomdns.com |
 | cardinal.newman.is | starman.fathomdns.com |
 | cardinal.zenting.app | starman.fathomdns.com |
-| caribou.clintgwinter.com | starman.fathomdns.com |
 | caribou.color.io | starman.fathomdns.com |
 | caribou.mcgregorpublishing.com | starman.fathomdns.com |
 | caribou.reiterstolz.com | starman.fathomdns.com |
@@ -1149,6 +1151,7 @@
 | centipede.wildbit.com | starman.fathomdns.com |
 | centipede.yuv.al | starman.fathomdns.com |
 | cephalopod.nucleus.us | starman.fathomdns.com |
+| cephalopod.photoprism.pro | starman.fathomdns.com |
 | cephalopod.revelio.io | starman.fathomdns.com |
 | cephalopod.staff.design | starman.fathomdns.com |
 | cheetah.gaptry.com | starman.fathomdns.com |
@@ -1278,6 +1281,7 @@
 | felidae.mysuperportal.com | starman.fathomdns.com |
 | felidae.theforeignarchitect.com | starman.fathomdns.com |
 | ferret.ecvan.io | starman.fathomdns.com |
+| ferret.firstprogressivechurch.org | starman.fathomdns.com |
 | ferret.helpspace.com | starman.fathomdns.com |
 | ferret.itsf.red | starman.fathomdns.com |
 | ferret.jesper.hk | starman.fathomdns.com |
@@ -1285,6 +1289,7 @@
 | ferret.tailgraph.com | starman.fathomdns.com |
 | finch.koronasporing.no | starman.fathomdns.com |
 | finch.market.xyz | starman.fathomdns.com |
+| firefly.jamesbrowne.me | starman.fathomdns.com |
 | fish.hyperfine.io | starman.fathomdns.com |
 | fish.muted.io | starman.fathomdns.com |
 | fish.trampoline.cx | starman.fathomdns.com |
@@ -1373,6 +1378,7 @@
 | herring.panda.network | starman.fathomdns.com |
 | herring.superfast.dev | starman.fathomdns.com |
 | hookworm.campaignzee.com | starman.fathomdns.com |
+| hornet.amandaheal.com.au | starman.fathomdns.com |
 | hornet.energizer.co.za | starman.fathomdns.com |
 | hornet.jeffgable.com | starman.fathomdns.com |
 | hornet.newburycompanies.com | starman.fathomdns.com |
@@ -1380,6 +1386,7 @@
 | horse.adventurousmachines.com | starman.fathomdns.com |
 | horse.erms.app | starman.fathomdns.com |
 | horse.hookrelay.dev | starman.fathomdns.com |
+| horse.kandsstudio.co.uk | starman.fathomdns.com |
 | horse.mynorthstarapp.com | starman.fathomdns.com |
 | horse.ohseemedia.com | starman.fathomdns.com |
 | horse.rmrk.app | starman.fathomdns.com |
@@ -1391,6 +1398,7 @@
 | hoverfly.cyberbytesinc.com | starman.fathomdns.com |
 | hoverfly.dailyblocks.tv | starman.fathomdns.com |
 | hoverfly.papercrowns.com | starman.fathomdns.com |
+| hoverfly.wholeheartedceremonies.com.au | starman.fathomdns.com |
 | hoverfly.winchdesign.cn | starman.fathomdns.com |
 | hyena.baseline.is | starman.fathomdns.com |
 | hyena.kitafund.com | starman.fathomdns.com |
@@ -1424,6 +1432,7 @@
 | kite.kochie.io | starman.fathomdns.com |
 | kite.launchcdn.com | starman.fathomdns.com |
 | kite.oakes.software | starman.fathomdns.com |
+| kite.zaahir.ca | starman.fathomdns.com |
 | kiwi.coreyodonnell.tech | starman.fathomdns.com |
 | kiwi.emilkowal.ski | starman.fathomdns.com |
 | kiwi.halostats.app | starman.fathomdns.com |
@@ -1558,6 +1567,7 @@
 | mule.pricelessai.com | starman.fathomdns.com |
 | muskox.appital.io | starman.fathomdns.com |
 | narwhal.bounty.studio | starman.fathomdns.com |
+| narwhal.quickbudget.xyz | starman.fathomdns.com |
 | newt.javier.dev | starman.fathomdns.com |
 | newt.jordin.eu | starman.fathomdns.com |
 | newt.masonwear.co | starman.fathomdns.com |
@@ -1584,6 +1594,7 @@
 | otter.jetting.no | starman.fathomdns.com |
 | otter.preferredequineonline.com | starman.fathomdns.com |
 | owl.gregwolanski.com | starman.fathomdns.com |
+| owl.gymme.nl | starman.fathomdns.com |
 | owl.heidipay.com | starman.fathomdns.com |
 | owl.indigenoushiphopawards.com | starman.fathomdns.com |
 | owl.sentrydiscord.dev | starman.fathomdns.com |
@@ -1600,6 +1611,7 @@
 | panther.hoprnet.org | starman.fathomdns.com |
 | panther.thestocks.im | starman.fathomdns.com |
 | panther.tigil.rs | starman.fathomdns.com |
+| parakeet.buildcodelearn.com | starman.fathomdns.com |
 | parakeet.jorenvanhocht.be | starman.fathomdns.com |
 | parakeet.quotetweet.com | starman.fathomdns.com |
 | parrot.lovably.com | starman.fathomdns.com |
@@ -1625,8 +1637,10 @@
 | pigeon.thankyuu.com | starman.fathomdns.com |
 | pinniped.gardenofficeguide.co.uk | starman.fathomdns.com |
 | pinniped.quarantinecup.live | starman.fathomdns.com |
+| pinniped.resist.bot | starman.fathomdns.com |
 | pinniped.spacecountdown.com | starman.fathomdns.com |
 | piranha.jsmobiledev.com | starman.fathomdns.com |
+| piranha.mediumsuite.co.uk | starman.fathomdns.com |
 | piranha.minnmyatsoe.com | starman.fathomdns.com |
 | planarian.614deals.com | starman.fathomdns.com |
 | planarian.dailylocation.com | starman.fathomdns.com |
@@ -1685,6 +1699,7 @@
 | rhinoceros.krieger.io | starman.fathomdns.com |
 | rhinoceros.valeriaborgese.it | starman.fathomdns.com |
 | roadrunner.ausmv.com.au | starman.fathomdns.com |
+| rodent.covisitor.app | starman.fathomdns.com |
 | rodent.kevindendievel.com | starman.fathomdns.com |
 | rodent.livelinor.dk | starman.fathomdns.com |
 | rook.behmann.at | starman.fathomdns.com |
@@ -1755,6 +1770,7 @@
 | spider.kearneyjaycees.com | starman.fathomdns.com |
 | spider.scottw.com | starman.fathomdns.com |
 | spider.storiesofchang.com | starman.fathomdns.com |
+| spoonbill.mumblebox.com | starman.fathomdns.com |
 | spoonbill.shawnprice.com | starman.fathomdns.com |
 | squid.adart.cc | starman.fathomdns.com |
 | squid.antevo.com.au | starman.fathomdns.com |
@@ -1811,6 +1827,7 @@
 | tern.xebel.co | starman.fathomdns.com |
 | tick.pcrpriser.se | starman.fathomdns.com |
 | tick.sculch.app | starman.fathomdns.com |
+| tick.weg.plus | starman.fathomdns.com |
 | tigershark.garethtdavies.com | starman.fathomdns.com |
 | tigershark.hasanahmad.ca | starman.fathomdns.com |
 | tigershark.integratecolumbus.org | starman.fathomdns.com |
@@ -1832,6 +1849,7 @@
 | trout.travelmassive.com | starman.fathomdns.com |
 | trout.unicornplatform.com | starman.fathomdns.com |
 | tuna.ajaymantri.com | starman.fathomdns.com |
+| tuna.purplespider.com | starman.fathomdns.com |
 | turkey.codeness.io | starman.fathomdns.com |
 | turkey.docsy.cloud | starman.fathomdns.com |
 | turkey.tella.tv | starman.fathomdns.com |
@@ -1869,6 +1887,7 @@
 | warbler.resumebuilder.dev | starman.fathomdns.com |
 | wasp.dyrynda.dev | starman.fathomdns.com |
 | wasp.mattjennings.io | starman.fathomdns.com |
+| waterboa.midu.dev | starman.fathomdns.com |
 | waterboa.nighttrain.co | starman.fathomdns.com |
 | whale.gdebrauwer.dev | starman.fathomdns.com |
 | whippet.ianglover.com | starman.fathomdns.com |
@@ -1877,6 +1896,7 @@
 | whitefish.autharmor.com | starman.fathomdns.com |
 | whitefish.kenku.fm | starman.fathomdns.com |
 | wildcat.fspy.io | starman.fathomdns.com |
+| wildcat.longviewforecasting.com | starman.fathomdns.com |
 | wildcat.vivritiamc.com | starman.fathomdns.com |
 | wildebeest.gmk.today | starman.fathomdns.com |
 | wildebeest.quarva.dev | starman.fathomdns.com |

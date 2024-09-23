@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,8 @@ $TTL 300
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 af.mobile.free.fr CNAME .
+afm.vantagemarkets.co CNAME .
+afm.vantagemarkets.com CNAME .
 afs.wearemp.com CNAME .
 analytics.amrcollection.com CNAME .
 analytics.beachbound.com CNAME .
@@ -166,7 +168,6 @@ check3-dev.test.tiaabank.com CNAME .
 check3-qa1.test.tiaabank.com CNAME .
 check3-qa2.test.tiaabank.com CNAME .
 check3-stg.test.tiaabank.com CNAME .
-check3.everbank.com CNAME .
 check3.tiaa-cref.org CNAME .
 check3.tiaa.org CNAME .
 check3.tiaabank.com CNAME .
@@ -310,6 +311,7 @@ content.rias.co.uk CNAME .
 content.royalairmaroc.com CNAME .
 content.royalvegascasino.ca CNAME .
 content.rubyfortune.ca CNAME .
+content.rubyfortunecasino.ca CNAME .
 content.sb.lt CNAME .
 content.sfbli.com CNAME .
 content.sheerid.com CNAME .
@@ -410,9 +412,9 @@ ddc-test.worldpay.com CNAME .
 ddc.worldpay.com CNAME .
 de9c635aa0404558bd527220ef4e6b4b.betway.ca CNAME .
 debs.my100bank.com CNAME .
+dep.gambit29.gameassists.co.uk CNAME .
 dep.gambit3.gameassists.co.uk CNAME .
 dept.provantage.com CNAME .
-dev-check3.dev.everbank.com CNAME .
 dev-rmscheck.sbifxt.co.jp CNAME .
 device-profile.jeniusbank.com CNAME .
 device.invoice2go.com CNAME .
@@ -434,6 +436,7 @@ dfp.telering.at CNAME .
 dicontent.creditkarma.com CNAME .
 did.fashionworld.co.uk CNAME .
 did.koempf24.de CNAME .
+diff3.orange.es CNAME .
 digitalid-qa.santanderbank.com CNAME .
 digitalid.santanderbank.com CNAME .
 digitalidentity.compass.it CNAME .
@@ -593,10 +596,12 @@ log.betdaq.com CNAME .
 log.checkmyfile.com CNAME .
 log.creditreport.co.uk CNAME .
 log.open.investorsbank.com CNAME .
+log.scanmypost.co.uk CNAME .
 login.eki-net.com CNAME .
 loyaltyprogram.latam.com CNAME .
 loyaltyprogram.latamairlines.com CNAME .
 ls-dp.nj.thelotter.us CNAME .
+ls-dp.ny.thelotter.us CNAME .
 lsdp.lotto.com CNAME .
 lspr.luckycasino.ca CNAME .
 lsprof.comeon.com CNAME .
@@ -735,7 +740,6 @@ profiling.qacitizensbankonline.com CNAME .
 ptm.creditas.com CNAME .
 public-check3-at.test.tiaa-cref.org CNAME .
 public-check3-at.test.tiaa.org CNAME .
-qa-check3.qa.everbank.com CNAME .
 qfp.intuit.com CNAME .
 qrimages.qatarairways.com CNAME .
 qtbm.fundourselves.com CNAME .
@@ -839,12 +843,15 @@ solstice.ibotta.com CNAME .
 sptbb.pilates.com CNAME .
 src.ebay-us.com CNAME .
 src0.myvoffice.com CNAME .
+srv.squaretrade.at CNAME .
 srv.squaretrade.co.jp CNAME .
 srv.squaretrade.co.uk CNAME .
 srv.squaretrade.com CNAME .
 srv.squaretrade.com.au CNAME .
+srv.squaretrade.de CNAME .
 srv.squaretrade.dk CNAME .
 srv.squaretrade.es CNAME .
+srv.squaretrade.fi CNAME .
 srv.squaretrade.no CNAME .
 srv.squaretrade.se CNAME .
 ssafp.samsclub.com CNAME .
@@ -944,11 +951,13 @@ tm.benevity.org CNAME .
 tm.betano.ar CNAME .
 tm.betano.bg CNAME .
 tm.betano.ca CNAME .
+tm.betano.co CNAME .
 tm.betano.com CNAME .
 tm.betano.cz CNAME .
 tm.betano.de CNAME .
 tm.betano.dk CNAME .
 tm.betano.mx CNAME .
+tm.betano.ng CNAME .
 tm.cbd.ae CNAME .
 tm.clearcover.com CNAME .
 tm.cox.com CNAME .
@@ -1080,6 +1089,7 @@ v.sagasavings.co.uk CNAME .
 valcontent.securustech.net CNAME .
 validacion.rayo.com.co CNAME .
 validacionlx.agaval.com CNAME .
+validators.ifpsoyyo.co CNAME .
 verification.ndtco.com CNAME .
 verify.metlife.com CNAME .
 verify.philippineairlines.com CNAME .
@@ -1106,6 +1116,7 @@ west-eu-0156743.medirect.nl CNAME .
 wfp.intuit.com CNAME .
 wildcard.humm.ie CNAME .
 wkvjee5b.globalpay.com CNAME .
+wkvjee5b.paviliononline.io CNAME .
 wp.kroger.com CNAME .
 wptm.worldvision.org CNAME .
 ww3.fundingstream.com CNAME .

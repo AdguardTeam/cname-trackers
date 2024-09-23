@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -34,7 +34,6 @@ keyade.alltricks.fr CNAME .
 keyade.ooreka.fr CNAME .
 keyade.uniqlo.com CNAME .
 market-keyade.macif.fr CNAME .
-tck.fr.transavia.com CNAME .
 tck.photobox.com CNAME .
 tck.wonderbox.fr CNAME .
 k.truffaut.com CNAME .

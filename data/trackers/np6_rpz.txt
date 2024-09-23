@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -49,6 +49,7 @@ tr.animation.lexpress.fr CNAME .
 tr.animation.micromania.fr CNAME .
 tr.animations.bfmtv.com CNAME .
 tr.animations.rmcbfm.com CNAME .
+tr.apac.coms.moethennessy.com CNAME .
 tr.apou032.espmp-agfr.net CNAME .
 tr.asp0010.espmp-nifr.net CNAME .
 tr.asp0018.espmp-aufr.net CNAME .
@@ -128,7 +129,6 @@ tr.asp2077.espmp-nifr.net CNAME .
 tr.asp2078.espmp-nifr.net CNAME .
 tr.asp207e.espmp-nifr.net CNAME .
 tr.asp207f.espmp-cufr.net CNAME .
-tr.assoc.cfsr-retine.com CNAME .
 tr.avisecheance.maaf.fr CNAME .
 tr.axa-millesimes.espmp-aufr.net CNAME .
 tr.axa.espmp-aufr.net CNAME .
@@ -273,6 +273,7 @@ tr.courrier.larepubliquedespyrenees.fr CNAME .
 tr.courrier.sudouest.fr CNAME .
 tr.crc.henner.com CNAME .
 tr.credito.universo.pt CNAME .
+tr.crm.intersportbypitte.com CNAME .
 tr.crtl.espmp-aufr.net CNAME .
 tr.customer-solutions.np6.com CNAME .
 tr.cyberarchi.info CNAME .
@@ -423,6 +424,7 @@ tr.gestion.coficabail.fr CNAME .
 tr.gestion.cofinoga.fr CNAME .
 tr.gestion.credit-moderne.fr CNAME .
 tr.gestion.domofinance.fr CNAME .
+tr.gestion.floa.fr CNAME .
 tr.gestion.hondafinancialservices.fr CNAME .
 tr.gestion.lexpress.fr CNAME .
 tr.gestion.liberation.fr CNAME .
@@ -609,6 +611,7 @@ tr.mail.vip-mag.co.uk CNAME .
 tr.mail.vipmag.fr CNAME .
 tr.mail.vo3000.com CNAME .
 tr.mail1.macif.fr CNAME .
+tr.mail306.com CNAME .
 tr.mailatia.com CNAME .
 tr.mailing.achatpublic.com CNAME .
 tr.mailing.heliades.fr CNAME .
@@ -655,6 +658,7 @@ tr.mijn-superaanbieding.be CNAME .
 tr.mijnaanbieding.renowizz.be CNAME .
 tr.mika.espmp-nifr.net CNAME .
 tr.mktg.np6.com CNAME .
+tr.ml.batiproduits.com CNAME .
 tr.mm.infopro-digital.com CNAME .
 tr.mnoc.espmp-nifr.net CNAME .
 tr.mnpd.espmp-agfr.net CNAME .
@@ -670,6 +674,7 @@ tr.mp.aconclue-pro.com CNAME .
 tr.mp.actu-pm.fr CNAME .
 tr.mp.infomanageo.fr CNAME .
 tr.mp.ld-man.fr CNAME .
+tr.mp.manageo.net CNAME .
 tr.mrls.espmp-agfr.net CNAME .
 tr.mydevisentreprise.com CNAME .
 tr.n.ferrero.fr CNAME .
@@ -768,14 +773,17 @@ tr.news.grandsmoulinsdeparis.com CNAME .
 tr.news.groupe-armonia.com CNAME .
 tr.news.happycap-foundation.fr CNAME .
 tr.news.happycap.org CNAME .
+tr.news.havasvoyages-groupes.fr CNAME .
 tr.news.helvyre.fr CNAME .
 tr.news.heredis.com CNAME .
 tr.news.i24news.tv CNAME .
 tr.news.ics.fr CNAME .
+tr.news.ifh.fr CNAME .
 tr.news.infopro-digital.com CNAME .
 tr.news.interforum.fr CNAME .
 tr.news.itancia.com CNAME .
 tr.news.jautomatise.com CNAME .
+tr.news.kaptainmusic.fr CNAME .
 tr.news.kpmg-avocats.fr CNAME .
 tr.news.kpmg.fr CNAME .
 tr.news.kpmgacademy.fr CNAME .
@@ -871,6 +879,7 @@ tr.newsletter.bauermedia.fr CNAME .
 tr.newsletter.bouygues-construction.com CNAME .
 tr.newsletter.bouygues.com CNAME .
 tr.newsletter.capdecision.fr CNAME .
+tr.newsletter.caray.fr CNAME .
 tr.newsletter.chandon.com CNAME .
 tr.newsletter.cuisine-plus.tv CNAME .
 tr.newsletter.ecig-privee.fr CNAME .
@@ -881,6 +890,7 @@ tr.newsletter.huilesdolive.fr CNAME .
 tr.newsletter.leocare.eu CNAME .
 tr.newsletter.location.boulanger.com CNAME .
 tr.newsletter.lokeo.fr CNAME .
+tr.newsletter.maximag.fr CNAME .
 tr.newsletter.meilleurmobile.com CNAME .
 tr.newsletter.milleis.fr CNAME .
 tr.newsletter.mixr.net CNAME .
@@ -931,6 +941,7 @@ tr.offres-professionnelles.fr CNAME .
 tr.offres.ap-regie.fr CNAME .
 tr.offres.bfmtv.com CNAME .
 tr.offresbtoc.engie.fr CNAME .
+tr.offrevip.floa.fr CNAME .
 tr.ojxm.espmp-aufr.net CNAME .
 tr.online.longchamp.com CNAME .
 tr.openinnovation.lvmh.com CNAME .
@@ -962,6 +973,7 @@ tr.preventivo.risparmiazienda.it CNAME .
 tr.pro-renov.be CNAME .
 tr.pro.odalys-vacances.com CNAME .
 tr.pro.residencehappysenior.fr CNAME .
+tr.pro.sgit.net CNAME .
 tr.programme-voyageur-sncf.com CNAME .
 tr.projet.cotemaison.fr CNAME .
 tr.promo.np6.fr CNAME .
@@ -1067,6 +1079,7 @@ tr.urfk02v.espmp-cufr.net CNAME .
 tr.urfk02z.espmp-nifr.net CNAME .
 tr.urfk03c.espmp-nifr.net CNAME .
 tr.urfk03h.espmp-nifr.net CNAME .
+tr.urfk03i.espmp-nifr.net CNAME .
 tr.urfk03k.espmp-agfr.net CNAME .
 tr.urfk03q.espmp-nifr.net CNAME .
 tr.urfk03u.espmp-nifr.net CNAME .

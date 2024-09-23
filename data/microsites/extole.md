@@ -221,7 +221,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -336,6 +335,7 @@
     * inspire-clean-energy.extole.io
     * installamerica.extole.io
     * iqfiber.extole.io
+    * ird.extole.io
     * issaonline.extole.io
     * itbed.extole.io
     * iteach.extole.io
@@ -488,6 +488,7 @@
     * simon-and-schuster.extole.io
     * simplepractice.extole.io
     * sizigi.extole.io
+    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -542,6 +543,7 @@
     * trafalgar.extole.io
     * travelzoo.extole.io
     * truckstop.extole.io
+    * truwest.extole.io
     * turbotax.extole.io
     * tweglobal.extole.io
     * twisthair.extole.io
@@ -736,7 +738,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -849,15 +850,19 @@
 | share.enterprisenews.com | gannett.extole.io |
 | share.floridatoday.com | gannett.extole.io |
 | share.freep.com | gannett.extole.io |
+| share.greatfallstribune.com | gannett.extole.io |
+| share.greenbaypressgazette.com | gannett.extole.io |
 | share.greenvilleonline.com | gannett.extole.io |
 | share.htrnews.com | gannett.extole.io |
 | share.independentmail.com | gannett.extole.io |
+| share.indystar.com | gannett.extole.io |
 | share.jacksonsun.com | gannett.extole.io |
 | share.kitsapsun.com | gannett.extole.io |
 | share.knoxnews.com | gannett.extole.io |
 | share.lansingstatejournal.com | gannett.extole.io |
 | share.mansfieldnewsjournal.com | gannett.extole.io |
 | share.montgomeryadvertiser.com | gannett.extole.io |
+| share.naplesnews.com | gannett.extole.io |
 | share.newarkadvocate.com | gannett.extole.io |
 | share.news-press.com | gannett.extole.io |
 | share.northjersey.com | gannett.extole.io |
@@ -942,6 +947,7 @@
 | refer.accountants.intuit.com | intuit-accountants.extole.com |
 | refer.payroll.intuit.com | iop.extole.com |
 | share.iqfiber.com | iqfiber.extole.io |
+| share.reading-programs.org | ird.extole.io |
 | refer.issaonline.com | issaonline.extole.io |
 | refer.itbed.com | itbed.extole.io |
 | share.iteach.net | iteach.extole.io |
@@ -1021,6 +1027,7 @@
 | share.mlb.tv | mlbtv.extole.com |
 | refer.mpgsport.ca | mondetta.extole.io |
 | refer.mpgsport.com | mondetta.extole.io |
+| www.styleitforwardreward.com | mondetta.extole.io |
 | refer.montgomeryadvertiser.com | montgomeryadvertiser.extole.com |
 | refer.moo.com | moo.extole.com |
 | share.mtntough.com | mtntough.extole.io |
@@ -1166,6 +1173,7 @@
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | share.simplepractice.com | simplepractice.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
+| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1236,6 +1244,7 @@
 | share.trafalgar.com | trafalgar.extole.io |
 | share.travelzoo.com | travelzoo.extole.io |
 | share.truckstop.com | truckstop.extole.io |
+| refer.truwest.org | truwest.extole.io |
 | refer.turbotax.intuit.com | turbotax-ssl.extole.com |
 | refer.intuit.com | turbotax.extole.io |
 | share.beringer.com | tweglobal.extole.io |

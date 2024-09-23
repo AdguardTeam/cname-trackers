@@ -2,6 +2,7 @@
 ! Company name: ActionIQ
 ||a.callawaygolf.com^
 ||a.callawaygolfpreowned.com^
+||a.mystery.software^
 ||a.ogio.com^
 ||a.topgolf.com^
 ||accounts-meta-events.outsideonline.com^
@@ -43,6 +44,7 @@
 ||aiq-in.veranda.com^
 ||aiq-in.womansday.com^
 ||aiq-in.womenshealthmag.com^
+||aiqx.anyonebutyou.movie^
 ||aiqx.ghostbusters.com^
 ||aiqx.sonypictures.com^
 ||aiqx.travismathew.ca^
@@ -67,6 +69,7 @@
 ||meta-events.outside.io^
 ||meta-events.outsideonline.com^
 ||meta-events.oxygenmag.com^
+||meta-events.pelotonmagazine.com^
 ||meta-events.pledgereg.com^
 ||meta-events.podiumrunner.com^
 ||meta-events.road-results.com^

@@ -1,6 +1,7 @@
 {
   "a.callawaygolf.com": "tcb-prod.actioniq.mr-in.com",
   "a.callawaygolfpreowned.com": "tcb-prod.actioniq.mr-in.com",
+  "a.mystery.software": "mr-platform-staging1.mr-in.com",
   "a.ogio.com": "tcb-prod.actioniq.mr-in.com",
   "a.topgolf.com": "tcb-prod.actioniq.mr-in.com",
   "accounts-meta-events.outsideonline.com": "outside.mr-in.com",
@@ -42,6 +43,7 @@
   "aiq-in.veranda.com": "hearst-prod.actioniq.mr-in.com",
   "aiq-in.womansday.com": "hearst-prod.actioniq.mr-in.com",
   "aiq-in.womenshealthmag.com": "hearst-prod.actioniq.mr-in.com",
+  "aiqx.anyonebutyou.movie": "sony-prod.actioniq.mr-in.com",
   "aiqx.ghostbusters.com": "sony-prod.actioniq.mr-in.com",
   "aiqx.sonypictures.com": "sony-prod.actioniq.mr-in.com",
   "aiqx.travismathew.ca": "tcb-prod.actioniq.mr-in.com",
@@ -67,6 +69,7 @@
   "meta-events.outside.io": "outside.mr-in.com",
   "meta-events.outsideonline.com": "outside.mr-in.com",
   "meta-events.oxygenmag.com": "outside.mr-in.com",
+  "meta-events.pelotonmagazine.com": "outside.mr-in.com",
   "meta-events.pledgereg.com": "outside.mr-in.com",
   "meta-events.podiumrunner.com": "outside.mr-in.com",
   "meta-events.road-results.com": "outside.mr-in.com",

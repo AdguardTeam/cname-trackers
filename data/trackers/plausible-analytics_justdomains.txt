@@ -83,6 +83,7 @@ extramilefloorcare.ericksonbuilt.com
 f8phvntohv.tpetry.me
 galop.leferacheval-saintcloud.com
 hej.henriksommerfeld.se
+hi.baudot.io
 hi.koalendar.com
 hi.streetworkoutlist.com
 hola.xebel.co
@@ -175,6 +176,7 @@ plausible-stats.tangodelta.media
 plausible.adreform.com
 plausible.alexandar.me
 plausible.alpaga.io
+plausible.altkey.club
 plausible.app.kdojang.com
 plausible.app.tlschedule.com
 plausible.bablab.com
@@ -260,6 +262,7 @@ pls.fcrpg.net
 pls.skycastle.dev
 plsbl-staging.edison.se
 plsbl.edison.se
+plsbl.martinkriegeskorte.de
 prism.drivingkyoto.com
 prism.feurer-network.ch
 prism.netherlandlines.com
@@ -300,6 +303,7 @@ sa.flux.community
 sats.mailbrew.com
 see.wasteorshare.com
 server.japanbyrivercruise.com
+server.officeclowns.live
 server.olliehorn.com
 site-stats.supernotes.app
 sp.ballsdigroup.com
@@ -471,7 +475,9 @@ stats.emmas.site
 stats.engel-apotheke.de
 stats.engeldirekt.de
 stats.equium.io
+stats.erik.joling.me
 stats.erikinthekitchen.com
+stats.erikkemp.eu
 stats.erlef.org
 stats.evenchilada.com
 stats.executebig.org
@@ -517,6 +523,7 @@ stats.gslc.utah.edu
 stats.gtnetworks.com
 stats.guersanguillaume.com
 stats.guidingwallet.app
+stats.gusmanson.nl
 stats.gynsprechstunde.de
 stats.hackershare.dev
 stats.halcyon.hr
@@ -558,6 +565,7 @@ stats.jamhouse.app
 stats.jansix.at
 stats.jasonludden.dev
 stats.jdheyburn.co.uk
+stats.jeremygreenawalt.com
 stats.jerickson.net
 stats.jhsheridan.com
 stats.jjude.com
@@ -651,6 +659,7 @@ stats.nerdbusiness.com
 stats.new.sublimesecurity.com
 stats.newslit.co
 stats.nexagon.dk
+stats.niceshitforbitcoiners.com
 stats.nodewood.com
 stats.nonprofit.foundation
 stats.nothingbutnylon.com
@@ -694,6 +703,7 @@ stats.piplette.co
 stats.pitstone.co.uk
 stats.plainsending.com
 stats.planxti.com
+stats.playoutgame.app
 stats.poesieundgenuss.com
 stats.pointflottant.com
 stats.polekatfitness.com
@@ -774,7 +784,10 @@ stats.stack11.io
 stats.stackingthebricks.com
 stats.stacks.org
 stats.staging.hex.pm
+stats.staging.hexdocs.pm
+stats.stephlow.audio
 stats.steuer-soldaten.de
+stats.stoelverhoger.net
 stats.strawberry.rocks
 stats.studypages.com
 stats.sublimesecurity.com
@@ -855,6 +868,7 @@ sts.authramp.com
 sts.eliasjarzombek.com
 sts.papyrs.com
 sts.tour-europe.org
+stts.emplution.com
 stts.sgab-srfp.ch
 stts.swisshranalytics.ch
 t.lastcast.fm

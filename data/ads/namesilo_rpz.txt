@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -501,6 +501,7 @@ $TTL 300
 3498081.notifysrv.com CNAME .
 3498171.notify6.com CNAME .
 3501655.notify6.com CNAME .
+3501923.notify6.com CNAME .
 3505119.notify6.com CNAME .
 3505123.notify6.com CNAME .
 3505123.notifysrv.com CNAME .
@@ -884,6 +885,7 @@ $TTL 300
 4062424.notify6.com CNAME .
 4062428.notify6.com CNAME .
 4065194.notify6.com CNAME .
+4065944.notify6.com CNAME .
 4067912.notify6.com CNAME .
 4068856.notify6.com CNAME .
 4068860.notify6.com CNAME .
@@ -1162,6 +1164,7 @@ autoconfig.directory.notifysrv.com CNAME .
 click.advertrek.com CNAME .
 delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
+feedback.notifysrv.com CNAME .
 ftp1.notifysrv.com CNAME .
 gamma.notifysrv.com CNAME .
 gateway.wearetopple.com CNAME .

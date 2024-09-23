@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,6 +61,7 @@ adebis.angfa-store.jp CNAME .
 adebis.bathclin.jp CNAME .
 adebis.bbb-life.jp CNAME .
 adebis.beautiful-voyager.com CNAME .
+adebis.blackboard60s.com CNAME .
 adebis.chojyu.com CNAME .
 adebis.crowdcredit.jp CNAME .
 adebis.daiwahouse.co.jp CNAME .
@@ -71,9 +72,11 @@ adebis.ferret-one.com CNAME .
 adebis.furisode-ichikura.jp CNAME .
 adebis.gfs-official.com CNAME .
 adebis.gfs.tokyo CNAME .
+adebis.gfschool.jp CNAME .
 adebis.gogin.co.jp CNAME .
 adebis.harutaka.jp CNAME .
 adebis.hotstaff.co.jp CNAME .
+adebis.invest-online.jp CNAME .
 adebis.jp.iface.com CNAME .
 adebis.juku.st CNAME .
 adebis.kamada.co.jp CNAME .
@@ -107,6 +110,7 @@ adebis.sbpayment.jp CNAME .
 adebis.shinseibank.com CNAME .
 adebis.shiseido.co.jp CNAME .
 adebis.shopserve.jp CNAME .
+adebis.shupita.com CNAME .
 adebis.shupita.jp CNAME .
 adebis.sokamocka.com CNAME .
 adebis.thd-web.jp CNAME .
@@ -165,6 +169,7 @@ cname.mebiusseiyaku.co.jp CNAME .
 cname.mitsuihome.co.jp CNAME .
 cname.nikkei-cnbc.co.jp CNAME .
 cname.polestar-m.jp CNAME .
+cname.sognando.jp CNAME .
 cname.sokuyaku.jp CNAME .
 cname1.shakenkan.co.jp CNAME .
 cname2.shaken-yoyaku.com CNAME .
@@ -179,6 +184,8 @@ cs0010sbeda.theory-clinic.com CNAME .
 cs0010sbeda.theory-diet.com CNAME .
 cs1470sbeda.schoolasp.com CNAME .
 cs1863sbeda.glaucoma-arrest.net CNAME .
+cs2087sbeda.aspex.co.jp CNAME .
+cs2087sbeda.manage-tempstaffing.net CNAME .
 cs2113sbeda.hokto-onlineshop.jp CNAME .
 cv-adebis.my-studies.net CNAME .
 cv-adebis.nlpjapan.co.jp CNAME .
@@ -274,6 +281,7 @@ ebiscname.native-phrase.com CNAME .
 ebiscname.urr.jp CNAME .
 ebiscosme.tamagokichi.com CNAME .
 ebisfracora.fracora.com CNAME .
+ebisfracora.like.jp CNAME .
 ebisstore.tamagokichi.com CNAME .
 ebistoppan1.kyowahakko-bio-campaign-1.com CNAME .
 emc.dr-stick.shop CNAME .
@@ -308,6 +316,7 @@ test-ad.mens-lucia.com CNAME .
 tracking.axis.onl CNAME .
 tracking.mysurance.co.jp CNAME .
 tracking.nokai.jp CNAME .
+tracking.stad-gakusyu.jp CNAME .
 tracking.wao-corp.com CNAME .
 tracking.wao.ne.jp CNAME .
 ureruadebis.papawash.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+1qrsumhcuudhkt4c.brandnewapp.pro CNAME .
 39236100.lotre.io CNAME .
 a2.hotpornfile.org CNAME .
 a3.hotpornfile.org CNAME .
@@ -30,6 +31,7 @@ api.rtnews.pro CNAME .
 api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
+asg.pienude.com CNAME .
 blabla.leakgallery.com CNAME .
 c.gotoxxxtube.com CNAME .
 c0n.tubestash.com CNAME .
@@ -67,12 +69,15 @@ clickc4n.pornharlot.com CNAME .
 clk.slutcam.org CNAME .
 clka.bondagevalley.cc CNAME .
 clkn.apostle.onl CNAME .
+clkn.moviesinspector.com CNAME .
 clkn2.apostle.onl CNAME .
 clkn3.apostle.onl CNAME .
 clknrtrg.pro CNAME .
 cln.willyporn.com CNAME .
 cn4.animehdl.net CNAME .
+cn4.cheemsporn.com CNAME .
 cvk.supklik.com CNAME .
+cza4wopwcvdiq6sg.brandnewapp.pro CNAME .
 ddd.contoseroticoscnn.com CNAME .
 ddd.sexstories69.com CNAME .
 dr1.piczlabs.com CNAME .

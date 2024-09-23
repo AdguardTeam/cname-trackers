@@ -216,6 +216,7 @@ ens.moneyhouse.ch
 ens.nidwaldnerzeitung.ch
 ens.nzz.ch
 ens.nzzmediasolutions.ch
+ens.obwaldnerzeitung.ch
 ens.tagblatt.ch
 ens.themarket.ch
 ens.thurgauerzeitung.ch
@@ -240,6 +241,7 @@ ensighten.postoffice.co.uk
 ensighten.safeauto.com
 ensightenone.danskespil.dk
 ep.americanexpress.com
+fcone.demo-charitablegift.com
 fcone.fidelity.com
 fcone.fidelitycharitable.org
 fctms.demo-charitablegift.com
@@ -304,6 +306,7 @@ privacy.uwm.com
 privacy.zoll.com
 privacyconsentmgmt.storable.com
 pulse.delta.com
+pulse.quaero.com
 pulse.rac.co.uk
 pulse.sleepnumber.com
 pulse.wyndhamhotels.com
@@ -339,7 +342,6 @@ tagman.surfstitch.com
 tagman.thebodyshop-usa.com
 tagman.thistle.com
 tagman.thomsonlakes.co.uk
-tagman.transavia.com
 tagman.virgin-atlantic.com
 tagman.virginatlantic.com
 tagman.waitrose.com
@@ -380,6 +382,7 @@ tms.nabmarginlending.com.au
 tms.nabtrade.com.au
 tms.nationaltrust.org.uk
 tms.rsa.com
+tms.securid.com
 tms.suzukibusinesscloud-qa.com
 tms.virginatlantic.com
 tmsgi.lv.com

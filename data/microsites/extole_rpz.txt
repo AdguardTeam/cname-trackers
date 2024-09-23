@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -139,7 +139,7 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
+em3904.skillshare.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -402,6 +402,7 @@ refer.thewildest.com CNAME .
 refer.thirdlove.com CNAME .
 refer.tomorrowsleep.com CNAME .
 refer.tous.com CNAME .
+refer.truwest.org CNAME .
 refer.twisthair.com CNAME .
 refer.underarmour.co.uk CNAME .
 refer.underarmour.de CNAME .
@@ -545,6 +546,8 @@ share.giftya.com CNAME .
 share.giorgioarmanibeauty-usa.com CNAME .
 share.go2bank.com CNAME .
 share.granitegaragefloors.com CNAME .
+share.greatfallstribune.com CNAME .
+share.greenbaypressgazette.com CNAME .
 share.greenlight.com CNAME .
 share.greenlightcard.com CNAME .
 share.greenvilleonline.com CNAME .
@@ -558,6 +561,7 @@ share.hydropeptide.com CNAME .
 share.imagemarket.com CNAME .
 share.incrediblebank.com CNAME .
 share.independentmail.com CNAME .
+share.indystar.com CNAME .
 share.inkpixi.com CNAME .
 share.inspirecleanenergy.com CNAME .
 share.installamerica.com CNAME .
@@ -591,6 +595,7 @@ share.mtntough.com CNAME .
 share.mycarpe.com CNAME .
 share.myollie.com CNAME .
 share.myq.com CNAME .
+share.naplesnews.com CNAME .
 share.newarkadvocate.com CNAME .
 share.news-press.com CNAME .
 share.newtonbaby.com CNAME .
@@ -618,6 +623,7 @@ share.policygenius.com CNAME .
 share.poughkeepsiejournal.com CNAME .
 share.pressconnects.com CNAME .
 share.princess.com CNAME .
+share.reading-programs.org CNAME .
 share.redding.com CNAME .
 share.refer-aveda.ca CNAME .
 share.refer-aveda.co.uk CNAME .
@@ -723,8 +729,9 @@ share.zenbusiness.com CNAME .
 www.refer.xfinity.com CNAME .
 www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
+www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
-em3904.skillshare.com CNAME .
+em225.codecademy.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .

@@ -114,6 +114,7 @@
 ||a8.freeengineer.btcagent.jp^
 ||a8.ftcbeauty.com^
 ||a8.fujiorganics.com^
+||a8.funtre.co.jp^
 ||a8.fxism.jp^
 ||a8.gaizyu-taiji.com^
 ||a8.geo-online.co.jp^
@@ -188,6 +189,7 @@
 ||a8.lens-labo.com^
 ||a8.lens-ocean.com^
 ||a8.liver-rhythm.jp^
+||a8.logrenove.jp^
 ||a8.looom.jp^
 ||a8.looop-denki.com^
 ||a8.lwa-coating.com^
@@ -423,6 +425,7 @@
 ||a8clk.buyking.club^
 ||a8clk.camerakaitori.jp^
 ||a8clk.campaigns.speed-kaitori.jp^
+||a8clk.car-auc.jp^
 ||a8clk.car-mo.jp^
 ||a8clk.carbattery110.com^
 ||a8clk.career.prismy.jp^
@@ -508,6 +511,7 @@
 ||a8clk.hoken-minaoshi-lab.jp^
 ||a8clk.hokennews.jp^
 ||a8clk.hom.adebtt.info^
+||a8clk.home.me.tech-clips.com^
 ||a8clk.hotman-onlineshop.com^
 ||a8clk.hozon.sp-site.jp^
 ||a8clk.hurugicom.jp^
@@ -666,6 +670,7 @@
 ||a8clk.tanp.jp^
 ||a8clk.tastytable-food.com^
 ||a8clk.teacon.jp^
+||a8clk.test.coreda.jp^
 ||a8clk.titivate.jp^
 ||a8clk.toretoku.jp^
 ||a8clk.tsuchiya-kaban.jp^
@@ -680,6 +685,7 @@
 ||a8clk.web-camp.io^
 ||a8clk.wedding.294p.com^
 ||a8clk.weleda.jp^
+||a8clk.wellness-job.jp^
 ||a8clk.wi-ho.net^
 ||a8clk.works.sagooo.com^
 ||a8clk.world-family.co.jp^
@@ -727,6 +733,7 @@
 ||a8clk.zigen-shop.com^
 ||a8clk1.zkai.co.jp^
 ||a8clkapply.mycredit.nexuscard.co.jp^
+||a8clkcd.ecostorecom.jp^
 ||a8clkcv.lognavi.com^
 ||a8clkcv.pcr.tokyo-brain.clinic^
 ||a8clkcv.tcb-beauty.net^
@@ -748,6 +755,7 @@
 ||a8cv.accelfacter.co.jp^
 ||a8cv.access-jp.jp^
 ||a8cv.aff.life-110.com^
+||a8cv.ageru-career.com^
 ||a8cv.aiambeauty.jp^
 ||a8cv.akapon.kanritools.com^
 ||a8cv.akihabara-x.jp^
@@ -867,6 +875,7 @@
 ||a8cv.eco-ring.com^
 ||a8cv.ecodepa.jp^
 ||a8cv.eeo.today^
+||a8cv.effisage.com^
 ||a8cv.egmkt.co.jp^
 ||a8cv.eikajapan.com^
 ||a8cv.emma-sleep-japan.com^
@@ -897,6 +906,7 @@
 ||a8cv.forza-gran.com^
 ||a8cv.fots.jp^
 ||a8cv.fp-life.design^
+||a8cv.fr-shinjuku.com^
 ||a8cv.frecious.jp^
 ||a8cv.free-max.com^
 ||a8cv.freeks-japan.com^
@@ -1017,6 +1027,7 @@
 ||a8cv.leasonable.com^
 ||a8cv.lens-1.jp^
 ||a8cv.leoandlea.com^
+||a8cv.leverage-learning.com^
 ||a8cv.lianest.co.jp^
 ||a8cv.lp.nalevi.mynavi.jp^
 ||a8cv.lp.x-house.co.jp^
@@ -1055,6 +1066,7 @@
 ||a8cv.nagatani-shop.com^
 ||a8cv.naire-seisakusho.jp^
 ||a8cv.naradenryoku.co.jp^
+||a8cv.naris-online.jp^
 ||a8cv.natulahonpo.com^
 ||a8cv.naturaltech.jp^
 ||a8cv.naturebreath-store.com^
@@ -1081,6 +1093,7 @@
 ||a8cv.omni7.jp^
 ||a8cv.omobic.com^
 ||a8cv.one-netbook.jp^
+||a8cv.onebride.jp^
 ||a8cv.online-mega.com^
 ||a8cv.online.aivil.jp^
 ||a8cv.online.bell-road.com^
@@ -1095,6 +1108,7 @@
 ||a8cv.otoriyose.site^
 ||a8cv.p-antiaging.com^
 ||a8cv.paidy.com^
+||a8cv.paintory.com^
 ||a8cv.palms-gym.com^
 ||a8cv.perrot.co^
 ||a8cv.pf.classicmusic.tokyo^
@@ -1111,12 +1125,15 @@
 ||a8cv.presence.jp^
 ||a8cv.print-gakufu.com^
 ||a8cv.pro.omobic.com^
+||a8cv.pxdt-store.com^
 ||a8cv.quattrocart.com^
+||a8cv.queenbee.co.jp^
 ||a8cv.quick-management.jp^
 ||a8cv.r-maid.com^
 ||a8cv.radi-cool.shop^
 ||a8cv.rakumizu.jp^
 ||a8cv.rawfood-lohas.com^
+||a8cv.raycop.co.jp^
 ||a8cv.rehome-navi.com^
 ||a8cv.renoveru.jp^
 ||a8cv.repairman.jp^
@@ -1132,6 +1149,7 @@
 ||a8cv.s-darts.com^
 ||a8cv.sabusuta.jp^
 ||a8cv.safetycart.jp^
+||a8cv.safie.jp^
 ||a8cv.saitoma.com^
 ||a8cv.sakura-forest.com^
 ||a8cv.sanix.jp^
@@ -1197,9 +1215,9 @@
 ||a8cv.t-bang.jp^
 ||a8cv.t-gaia.co.jp^
 ||a8cv.taclinic.jp^
+||a8cv.taiko-direct.jp^
 ||a8cv.taisyokudaiko.jp^
 ||a8cv.tamago-repeat.com^
-||a8cv.taxi-qjin.com^
 ||a8cv.techkidsschool.jp^
 ||a8cv.tenishokunext.jp^
 ||a8cv.tenkuryo.jp^
@@ -1237,6 +1255,7 @@
 ||a8cv.will-agaclinic.com^
 ||a8cv.will-gocon.net^
 ||a8cv.willfu.jp^
+||a8cv.withcode.tech^
 ||a8cv.womanmoney.net^
 ||a8cv.wordman.jp^
 ||a8cv.worker.sukimaworks.app^
@@ -1334,6 +1353,7 @@
 ||acv.aun-air-wifi.com^
 ||acv.aun-company.com^
 ||acv.aun-softbank-hikari.com^
+||acv.auncompany.co.jp^
 ||acv.biglobe-hikari.net^
 ||acv.cmf-hikari.net^
 ||acv.crea-lp.com^
@@ -1447,6 +1467,7 @@
 ||cv.just-size.net^
 ||cv.kuvings.jp^
 ||cv.liability.jp^
+||cv.mamaikuko.jp^
 ||cv.masteraxis.com^
 ||cv.meo.tryhatch.co.jp^
 ||cv.michiuru.jp^
@@ -1537,7 +1558,6 @@
 ||traka8.crypto-mall.org^
 ||trc.hajime-asset.com^
 ||trck.aeon.co.jp^
-||trck.atnenga.com^
 ||trck.flexnet.co.jp^
 ||trck.frutafrutashop.com^
 ||trck.kenkiya.com^
@@ -1555,9 +1575,11 @@
 ||trcka8net.irobot-jp.com^
 ||trcka8net.lenszero.com^
 ||trcka8net.qieto.net^
+||trialapp.live-english.co.jp^
 ||web.collaboration-access.com^
 ||web.hikari-ocn.com^
 ||web.hikari-softbank.com^
+||webcv.advan-corp.co.jp^
 ||webtest.lpio.jp^
 ||www.a8clk.amelia.ne.jp^
 ||www.a8clk.kanagawa-zero.com^

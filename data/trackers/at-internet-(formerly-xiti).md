@@ -100,6 +100,7 @@
     * selvi-viessmann-com-tr-cddc.at-o.net
     * severn-viessmann-co-uk-cddc.at-o.net
     * sheeta-nrj-play-fr-cddc.at-o.net
+    * slotcapelle-viessmann-nl-cddc.at-o.net
     * st1-lg-avendrealouer-fr-cddc.at-o.net
     * steinbackhaus-viessmann-com-cddc.at-o.net
     * steinernehaus-viessmann-at-cddc.at-o.net
@@ -223,6 +224,7 @@
 | selvi.viessmann.com.tr | selvi-viessmann-com-tr-cddc.at-o.net |
 | severn.viessmann.co.uk | severn-viessmann-co-uk-cddc.at-o.net |
 | sheeta.nrj-play.fr | sheeta-nrj-play-fr-cddc.at-o.net |
+| slotcapelle.viessmann.nl | slotcapelle-viessmann-nl-cddc.at-o.net |
 | st1.lg.avendrealouer.fr | st1-lg-avendrealouer-fr-cddc.at-o.net |
 | steinbackhaus.viessmann.com | steinbackhaus-viessmann-com-cddc.at-o.net |
 | steinernehaus.viessmann.at | steinernehaus-viessmann-at-cddc.at-o.net |

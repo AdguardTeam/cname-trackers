@@ -23,7 +23,6 @@
 ||keyade.ooreka.fr^
 ||keyade.uniqlo.com^
 ||market-keyade.macif.fr^
-||tck.fr.transavia.com^
 ||tck.photobox.com^
 ||tck.wonderbox.fr^
 ||k.truffaut.com^

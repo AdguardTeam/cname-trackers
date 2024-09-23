@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,7 +18,6 @@ $TTL 300
 2efj.economies.cheque-dejeuner.com CNAME .
 2efj.up.coop CNAME .
 3esm.consubebe.es CNAME .
-5fm.985fm.ca CNAME .
 66jo.societegenerale.fr CNAME .
 6pal.consobaby.com CNAME .
 6swu.cpa-france.org CNAME .
@@ -59,7 +58,6 @@ aod4.societegenerale.fr CNAME .
 ar.allrun.fr CNAME .
 ar.i-run.fr CNAME .
 azg1.emalu-store.com CNAME .
-b1n.carabins.umontreal.ca CNAME .
 bch8.destinia.co CNAME .
 bdj5.terrassesmontecarlosbm.com CNAME .
 bft5.destinia.fr CNAME .
@@ -71,7 +69,6 @@ bpe2.destinia.co.il CNAME .
 bum7.bymycar.fr CNAME .
 bvz5.destinia.com.tr CNAME .
 bwj4.hrhibiza.com CNAME .
-c0p.cepsum.umontreal.ca CNAME .
 c4dv.copinesdevoyage.com CNAME .
 ca.clubavantages.net CNAME .
 cbl6.destinia.gt CNAME .
@@ -133,6 +130,7 @@ ea.greenweez.es CNAME .
 ea.greenweez.eu CNAME .
 ea.habitat.de CNAME .
 ea.habitat.fr CNAME .
+ea.habitat.net CNAME .
 ea.handsenderplus.com CNAME .
 ea.histoiredor.com CNAME .
 ea.hofmann.es CNAME .
@@ -179,6 +177,7 @@ ea.sport2000.fr CNAME .
 ea.telecommandeonline.com CNAME .
 ea.tool-fitness.com CNAME .
 ea.topsante.com CNAME .
+ea.toscane-boutique.fr CNAME .
 ea.venta-del-diablo.com CNAME .
 ea.venta-unica.com CNAME .
 ea.vente-unique.be CNAME .
@@ -190,13 +189,11 @@ ea.voyage-prive.co.uk CNAME .
 ea.voyage-prive.es CNAME .
 ea.voyage-prive.it CNAME .
 ea.warnerbros.fr CNAME .
-eat9.thebeat925.ca CNAME .
 ef.futuroscope.com CNAME .
 ef.futuroscope.mobi CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 eule1.pmu.fr CNAME .
@@ -334,7 +331,7 @@ nmo1.orpi.com CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
-nym5c.laura.ca CNAME .
+nym5c.bonlook.com CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
 oae6.carrefour-banque.fr CNAME .
@@ -359,18 +356,12 @@ oqr4.destinia.in CNAME .
 ouk7.grantalexander.com CNAME .
 p.pmu.fr CNAME .
 pbox.no.photobox.com CNAME .
-pbox.photobox.at CNAME .
 pbox.photobox.be CNAME .
-pbox.photobox.co.nz CNAME .
 pbox.photobox.co.uk CNAME .
-pbox.photobox.com.au CNAME .
-pbox.photobox.de CNAME .
 pbox.photobox.dk CNAME .
 pbox.photobox.fr CNAME .
 pbox.photobox.ie CNAME .
 pbox.photobox.it CNAME .
-pbox.photobox.nl CNAME .
-pbox.photobox.se CNAME .
 pcnphysio-com.ca-eulerian.net CNAME .
 pgt1.voyage-prive.es CNAME .
 piq4.inseec.education CNAME .
@@ -421,7 +412,6 @@ snr4.canalplus.com CNAME .
 srm4.destinia.co.no CNAME .
 ssrlot.lotoquebec.com CNAME .
 ssy7.destinia.com.ua CNAME .
-su1.les-suites.ca CNAME .
 sykc.madeindesign.ch CNAME .
 t.locasun-vp.fr CNAME .
 t.locasun.co.uk CNAME .
@@ -507,10 +497,16 @@ zs.voyage-prive.com CNAME .
 zsi7.destinia.do CNAME .
 zum7cc.oui.sncf CNAME .
 zyq2.destinia.sk CNAME .
+5fm.985fm.ca CNAME .
+b1n.carabins.umontreal.ca CNAME .
 c0i.ckoi.com CNAME .
+c0p.cepsum.umontreal.ca CNAME .
 d2u.dauphinquebec.com CNAME .
-nym5c.bonlook.com CNAME .
+eat9.thebeat925.ca CNAME .
+erb.tremblant.ca CNAME .
 ry0.rythmefm.com CNAME .
+su1.les-suites.ca CNAME .
 ea.mnt.fr CNAME .
 gi7a.structube.com CNAME .
+nym5c.laura.ca CNAME .
 pk1u.melanielyne.com CNAME .

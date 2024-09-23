@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -19,6 +19,7 @@ click.easycosmetic.de CNAME .
 click.easycosmetic.nl CNAME .
 ctrl.guenther.de CNAME .
 data.drhauschka.de CNAME .
+data.moebel-style.de CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
 e.preisapo.de CNAME .
@@ -28,9 +29,12 @@ et.electronic4you.hr CNAME .
 et.electronic4you.si CNAME .
 et.majdic.at CNAME .
 et.pns24.de CNAME .
+etd.kramer-online.com CNAME .
 etd.wackerneusongroup.com CNAME .
+etd.weidemann.com CNAME .
 etracker.alex-gross.com CNAME .
 ets.verivox.com CNAME .
+ettcc.steute.com CNAME .
 ferthu.seyffer.shop CNAME .
 js.edingershops.de CNAME .
 mensch.ekd.de CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -114,6 +114,7 @@ di.ifolor.it CNAME .
 di.ifolor.lu CNAME .
 di.ifolor.net CNAME .
 di.ifolor.nl CNAME .
+di.ifolor.no CNAME .
 di.ifolor.se CNAME .
 di.spreadmorelove.ch CNAME .
 ed.emp-online.ch CNAME .
@@ -225,6 +226,7 @@ statistics.tuv.com CNAME .
 t.mediaset.it CNAME .
 text.benefitsatwork.be CNAME .
 text.benefitsatwork.ch CNAME .
+text.benefitsatwork.com.tr CNAME .
 text.benefitsatwork.pl CNAME .
 text.benefitsatwork.pt CNAME .
 text.convenzioniaziendali.it CNAME .
@@ -240,6 +242,7 @@ trk.nuernberger.com CNAME .
 trk.nuernberger.de CNAME .
 trk.nuernberger.digital CNAME .
 w.ilfattoquotidiano.it CNAME .
+w.m.nkl-peters.de CNAME .
 w3.aktionaersbank.de CNAME .
 w7.berlin.de CNAME .
 wa.planet-wissen.de CNAME .

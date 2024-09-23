@@ -5,6 +5,8 @@
 acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
 af.mobile.free.fr
+afm.vantagemarkets.co
+afm.vantagemarkets.com
 afs.wearemp.com
 analytics.amrcollection.com
 analytics.beachbound.com
@@ -155,7 +157,6 @@ check3-dev.test.tiaabank.com
 check3-qa1.test.tiaabank.com
 check3-qa2.test.tiaabank.com
 check3-stg.test.tiaabank.com
-check3.everbank.com
 check3.tiaa-cref.org
 check3.tiaa.org
 check3.tiaabank.com
@@ -299,6 +300,7 @@ content.rias.co.uk
 content.royalairmaroc.com
 content.royalvegascasino.ca
 content.rubyfortune.ca
+content.rubyfortunecasino.ca
 content.sb.lt
 content.sfbli.com
 content.sheerid.com
@@ -399,9 +401,9 @@ ddc-test.worldpay.com
 ddc.worldpay.com
 de9c635aa0404558bd527220ef4e6b4b.betway.ca
 debs.my100bank.com
+dep.gambit29.gameassists.co.uk
 dep.gambit3.gameassists.co.uk
 dept.provantage.com
-dev-check3.dev.everbank.com
 dev-rmscheck.sbifxt.co.jp
 device-profile.jeniusbank.com
 device.invoice2go.com
@@ -423,6 +425,7 @@ dfp.telering.at
 dicontent.creditkarma.com
 did.fashionworld.co.uk
 did.koempf24.de
+diff3.orange.es
 digitalid-qa.santanderbank.com
 digitalid.santanderbank.com
 digitalidentity.compass.it
@@ -582,10 +585,12 @@ log.betdaq.com
 log.checkmyfile.com
 log.creditreport.co.uk
 log.open.investorsbank.com
+log.scanmypost.co.uk
 login.eki-net.com
 loyaltyprogram.latam.com
 loyaltyprogram.latamairlines.com
 ls-dp.nj.thelotter.us
+ls-dp.ny.thelotter.us
 lsdp.lotto.com
 lspr.luckycasino.ca
 lsprof.comeon.com
@@ -724,7 +729,6 @@ profiling.qacitizensbankonline.com
 ptm.creditas.com
 public-check3-at.test.tiaa-cref.org
 public-check3-at.test.tiaa.org
-qa-check3.qa.everbank.com
 qfp.intuit.com
 qrimages.qatarairways.com
 qtbm.fundourselves.com
@@ -828,12 +832,15 @@ solstice.ibotta.com
 sptbb.pilates.com
 src.ebay-us.com
 src0.myvoffice.com
+srv.squaretrade.at
 srv.squaretrade.co.jp
 srv.squaretrade.co.uk
 srv.squaretrade.com
 srv.squaretrade.com.au
+srv.squaretrade.de
 srv.squaretrade.dk
 srv.squaretrade.es
+srv.squaretrade.fi
 srv.squaretrade.no
 srv.squaretrade.se
 ssafp.samsclub.com
@@ -933,11 +940,13 @@ tm.benevity.org
 tm.betano.ar
 tm.betano.bg
 tm.betano.ca
+tm.betano.co
 tm.betano.com
 tm.betano.cz
 tm.betano.de
 tm.betano.dk
 tm.betano.mx
+tm.betano.ng
 tm.cbd.ae
 tm.clearcover.com
 tm.cox.com
@@ -1069,6 +1078,7 @@ v.sagasavings.co.uk
 valcontent.securustech.net
 validacion.rayo.com.co
 validacionlx.agaval.com
+validators.ifpsoyyo.co
 verification.ndtco.com
 verify.metlife.com
 verify.philippineairlines.com
@@ -1095,6 +1105,7 @@ west-eu-0156743.medirect.nl
 wfp.intuit.com
 wildcard.humm.ie
 wkvjee5b.globalpay.com
+wkvjee5b.paviliononline.io
 wp.kroger.com
 wptm.worldvision.org
 ww3.fundingstream.com

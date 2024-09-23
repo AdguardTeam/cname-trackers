@@ -38,6 +38,7 @@
 ||tr.animation.micromania.fr^
 ||tr.animations.bfmtv.com^
 ||tr.animations.rmcbfm.com^
+||tr.apac.coms.moethennessy.com^
 ||tr.apou032.espmp-agfr.net^
 ||tr.asp0010.espmp-nifr.net^
 ||tr.asp0018.espmp-aufr.net^
@@ -117,7 +118,6 @@
 ||tr.asp2078.espmp-nifr.net^
 ||tr.asp207e.espmp-nifr.net^
 ||tr.asp207f.espmp-cufr.net^
-||tr.assoc.cfsr-retine.com^
 ||tr.avisecheance.maaf.fr^
 ||tr.axa-millesimes.espmp-aufr.net^
 ||tr.axa.espmp-aufr.net^
@@ -262,6 +262,7 @@
 ||tr.courrier.sudouest.fr^
 ||tr.crc.henner.com^
 ||tr.credito.universo.pt^
+||tr.crm.intersportbypitte.com^
 ||tr.crtl.espmp-aufr.net^
 ||tr.customer-solutions.np6.com^
 ||tr.cyberarchi.info^
@@ -412,6 +413,7 @@
 ||tr.gestion.cofinoga.fr^
 ||tr.gestion.credit-moderne.fr^
 ||tr.gestion.domofinance.fr^
+||tr.gestion.floa.fr^
 ||tr.gestion.hondafinancialservices.fr^
 ||tr.gestion.lexpress.fr^
 ||tr.gestion.liberation.fr^
@@ -598,6 +600,7 @@
 ||tr.mail.vipmag.fr^
 ||tr.mail.vo3000.com^
 ||tr.mail1.macif.fr^
+||tr.mail306.com^
 ||tr.mailatia.com^
 ||tr.mailing.achatpublic.com^
 ||tr.mailing.heliades.fr^
@@ -644,6 +647,7 @@
 ||tr.mijnaanbieding.renowizz.be^
 ||tr.mika.espmp-nifr.net^
 ||tr.mktg.np6.com^
+||tr.ml.batiproduits.com^
 ||tr.mm.infopro-digital.com^
 ||tr.mnoc.espmp-nifr.net^
 ||tr.mnpd.espmp-agfr.net^
@@ -659,6 +663,7 @@
 ||tr.mp.actu-pm.fr^
 ||tr.mp.infomanageo.fr^
 ||tr.mp.ld-man.fr^
+||tr.mp.manageo.net^
 ||tr.mrls.espmp-agfr.net^
 ||tr.mydevisentreprise.com^
 ||tr.n.ferrero.fr^
@@ -757,14 +762,17 @@
 ||tr.news.groupe-armonia.com^
 ||tr.news.happycap-foundation.fr^
 ||tr.news.happycap.org^
+||tr.news.havasvoyages-groupes.fr^
 ||tr.news.helvyre.fr^
 ||tr.news.heredis.com^
 ||tr.news.i24news.tv^
 ||tr.news.ics.fr^
+||tr.news.ifh.fr^
 ||tr.news.infopro-digital.com^
 ||tr.news.interforum.fr^
 ||tr.news.itancia.com^
 ||tr.news.jautomatise.com^
+||tr.news.kaptainmusic.fr^
 ||tr.news.kpmg-avocats.fr^
 ||tr.news.kpmg.fr^
 ||tr.news.kpmgacademy.fr^
@@ -860,6 +868,7 @@
 ||tr.newsletter.bouygues-construction.com^
 ||tr.newsletter.bouygues.com^
 ||tr.newsletter.capdecision.fr^
+||tr.newsletter.caray.fr^
 ||tr.newsletter.chandon.com^
 ||tr.newsletter.cuisine-plus.tv^
 ||tr.newsletter.ecig-privee.fr^
@@ -870,6 +879,7 @@
 ||tr.newsletter.leocare.eu^
 ||tr.newsletter.location.boulanger.com^
 ||tr.newsletter.lokeo.fr^
+||tr.newsletter.maximag.fr^
 ||tr.newsletter.meilleurmobile.com^
 ||tr.newsletter.milleis.fr^
 ||tr.newsletter.mixr.net^
@@ -920,6 +930,7 @@
 ||tr.offres.ap-regie.fr^
 ||tr.offres.bfmtv.com^
 ||tr.offresbtoc.engie.fr^
+||tr.offrevip.floa.fr^
 ||tr.ojxm.espmp-aufr.net^
 ||tr.online.longchamp.com^
 ||tr.openinnovation.lvmh.com^
@@ -951,6 +962,7 @@
 ||tr.pro-renov.be^
 ||tr.pro.odalys-vacances.com^
 ||tr.pro.residencehappysenior.fr^
+||tr.pro.sgit.net^
 ||tr.programme-voyageur-sncf.com^
 ||tr.projet.cotemaison.fr^
 ||tr.promo.np6.fr^
@@ -1056,6 +1068,7 @@
 ||tr.urfk02z.espmp-nifr.net^
 ||tr.urfk03c.espmp-nifr.net^
 ||tr.urfk03h.espmp-nifr.net^
+||tr.urfk03i.espmp-nifr.net^
 ||tr.urfk03k.espmp-agfr.net^
 ||tr.urfk03q.espmp-nifr.net^
 ||tr.urfk03u.espmp-nifr.net^

@@ -96,6 +96,7 @@
 | f8phvntohv.tpetry.me | custom.plausible.io |
 | galop.leferacheval-saintcloud.com | custom.plausible.io |
 | hej.henriksommerfeld.se | custom.plausible.io |
+| hi.baudot.io | custom.plausible.io |
 | hi.koalendar.com | custom.plausible.io |
 | hi.streetworkoutlist.com | custom.plausible.io |
 | hola.xebel.co | custom.plausible.io |
@@ -188,6 +189,7 @@
 | plausible.adreform.com | custom.plausible.io |
 | plausible.alexandar.me | custom.plausible.io |
 | plausible.alpaga.io | custom.plausible.io |
+| plausible.altkey.club | custom.plausible.io |
 | plausible.app.kdojang.com | custom.plausible.io |
 | plausible.app.tlschedule.com | custom.plausible.io |
 | plausible.bablab.com | custom.plausible.io |
@@ -273,6 +275,7 @@
 | pls.skycastle.dev | custom.plausible.io |
 | plsbl-staging.edison.se | custom.plausible.io |
 | plsbl.edison.se | custom.plausible.io |
+| plsbl.martinkriegeskorte.de | custom.plausible.io |
 | prism.drivingkyoto.com | custom.plausible.io |
 | prism.feurer-network.ch | custom.plausible.io |
 | prism.netherlandlines.com | custom.plausible.io |
@@ -313,6 +316,7 @@
 | sats.mailbrew.com | custom.plausible.io |
 | see.wasteorshare.com | custom.plausible.io |
 | server.japanbyrivercruise.com | custom.plausible.io |
+| server.officeclowns.live | custom.plausible.io |
 | server.olliehorn.com | custom.plausible.io |
 | site-stats.supernotes.app | custom.plausible.io |
 | sp.ballsdigroup.com | custom.plausible.io |
@@ -484,7 +488,9 @@
 | stats.engel-apotheke.de | custom.plausible.io |
 | stats.engeldirekt.de | custom.plausible.io |
 | stats.equium.io | custom.plausible.io |
+| stats.erik.joling.me | custom.plausible.io |
 | stats.erikinthekitchen.com | custom.plausible.io |
+| stats.erikkemp.eu | custom.plausible.io |
 | stats.erlef.org | custom.plausible.io |
 | stats.evenchilada.com | custom.plausible.io |
 | stats.executebig.org | custom.plausible.io |
@@ -530,6 +536,7 @@
 | stats.gtnetworks.com | custom.plausible.io |
 | stats.guersanguillaume.com | custom.plausible.io |
 | stats.guidingwallet.app | custom.plausible.io |
+| stats.gusmanson.nl | custom.plausible.io |
 | stats.gynsprechstunde.de | custom.plausible.io |
 | stats.hackershare.dev | custom.plausible.io |
 | stats.halcyon.hr | custom.plausible.io |
@@ -571,6 +578,7 @@
 | stats.jansix.at | custom.plausible.io |
 | stats.jasonludden.dev | custom.plausible.io |
 | stats.jdheyburn.co.uk | custom.plausible.io |
+| stats.jeremygreenawalt.com | custom.plausible.io |
 | stats.jerickson.net | custom.plausible.io |
 | stats.jhsheridan.com | custom.plausible.io |
 | stats.jjude.com | custom.plausible.io |
@@ -664,6 +672,7 @@
 | stats.new.sublimesecurity.com | custom.plausible.io |
 | stats.newslit.co | custom.plausible.io |
 | stats.nexagon.dk | custom.plausible.io |
+| stats.niceshitforbitcoiners.com | custom.plausible.io |
 | stats.nodewood.com | custom.plausible.io |
 | stats.nonprofit.foundation | custom.plausible.io |
 | stats.nothingbutnylon.com | custom.plausible.io |
@@ -707,6 +716,7 @@
 | stats.pitstone.co.uk | custom.plausible.io |
 | stats.plainsending.com | custom.plausible.io |
 | stats.planxti.com | custom.plausible.io |
+| stats.playoutgame.app | custom.plausible.io |
 | stats.poesieundgenuss.com | custom.plausible.io |
 | stats.pointflottant.com | custom.plausible.io |
 | stats.polekatfitness.com | custom.plausible.io |
@@ -787,7 +797,10 @@
 | stats.stackingthebricks.com | custom.plausible.io |
 | stats.stacks.org | custom.plausible.io |
 | stats.staging.hex.pm | custom.plausible.io |
+| stats.staging.hexdocs.pm | custom.plausible.io |
+| stats.stephlow.audio | custom.plausible.io |
 | stats.steuer-soldaten.de | custom.plausible.io |
+| stats.stoelverhoger.net | custom.plausible.io |
 | stats.strawberry.rocks | custom.plausible.io |
 | stats.studypages.com | custom.plausible.io |
 | stats.sublimesecurity.com | custom.plausible.io |
@@ -868,6 +881,7 @@
 | sts.eliasjarzombek.com | custom.plausible.io |
 | sts.papyrs.com | custom.plausible.io |
 | sts.tour-europe.org | custom.plausible.io |
+| stts.emplution.com | custom.plausible.io |
 | stts.sgab-srfp.ch | custom.plausible.io |
 | stts.swisshranalytics.ch | custom.plausible.io |
 | t.lastcast.fm | custom.plausible.io |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1726473607097        ; Serial
+           1727078406820        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -227,6 +227,7 @@ ens.moneyhouse.ch CNAME .
 ens.nidwaldnerzeitung.ch CNAME .
 ens.nzz.ch CNAME .
 ens.nzzmediasolutions.ch CNAME .
+ens.obwaldnerzeitung.ch CNAME .
 ens.tagblatt.ch CNAME .
 ens.themarket.ch CNAME .
 ens.thurgauerzeitung.ch CNAME .
@@ -251,6 +252,7 @@ ensighten.postoffice.co.uk CNAME .
 ensighten.safeauto.com CNAME .
 ensightenone.danskespil.dk CNAME .
 ep.americanexpress.com CNAME .
+fcone.demo-charitablegift.com CNAME .
 fcone.fidelity.com CNAME .
 fcone.fidelitycharitable.org CNAME .
 fctms.demo-charitablegift.com CNAME .
@@ -315,6 +317,7 @@ privacy.uwm.com CNAME .
 privacy.zoll.com CNAME .
 privacyconsentmgmt.storable.com CNAME .
 pulse.delta.com CNAME .
+pulse.quaero.com CNAME .
 pulse.rac.co.uk CNAME .
 pulse.sleepnumber.com CNAME .
 pulse.wyndhamhotels.com CNAME .
@@ -350,7 +353,6 @@ tagman.surfstitch.com CNAME .
 tagman.thebodyshop-usa.com CNAME .
 tagman.thistle.com CNAME .
 tagman.thomsonlakes.co.uk CNAME .
-tagman.transavia.com CNAME .
 tagman.virgin-atlantic.com CNAME .
 tagman.virginatlantic.com CNAME .
 tagman.waitrose.com CNAME .
@@ -391,6 +393,7 @@ tms.nabmarginlending.com.au CNAME .
 tms.nabtrade.com.au CNAME .
 tms.nationaltrust.org.uk CNAME .
 tms.rsa.com CNAME .
+tms.securid.com CNAME .
 tms.suzukibusinesscloud-qa.com CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .

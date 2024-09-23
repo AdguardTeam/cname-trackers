@@ -36,7 +36,6 @@
 | keyade.ooreka.fr | k.keyade.com |
 | keyade.uniqlo.com | k.keyade.com |
 | market-keyade.macif.fr | k.keyade.com |
-| tck.fr.transavia.com | k.keyade.com |
 | tck.photobox.com | k.keyade.com |
 | tck.wonderbox.fr | k.keyade.com |
 | k.truffaut.com | k.madmetrics.com |

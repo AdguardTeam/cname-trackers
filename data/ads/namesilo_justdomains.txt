@@ -490,6 +490,7 @@
 3498081.notifysrv.com
 3498171.notify6.com
 3501655.notify6.com
+3501923.notify6.com
 3505119.notify6.com
 3505123.notify6.com
 3505123.notifysrv.com
@@ -873,6 +874,7 @@
 4062424.notify6.com
 4062428.notify6.com
 4065194.notify6.com
+4065944.notify6.com
 4067912.notify6.com
 4068856.notify6.com
 4068860.notify6.com
@@ -1151,6 +1153,7 @@ autoconfig.directory.notifysrv.com
 click.advertrek.com
 delivery.gettopple.com
 engine.gettopple.com
+feedback.notifysrv.com
 ftp1.notifysrv.com
 gamma.notifysrv.com
 gateway.wearetopple.com

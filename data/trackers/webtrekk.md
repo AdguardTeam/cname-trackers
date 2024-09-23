@@ -150,6 +150,7 @@
     * 757421535252818.wt-eu02.net
     * 762510246968705.wt-eu02.net
     * 769396664005295.wt-eu02.net
+    * 770833460572104.wt-eu02.net
     * 790635424156780.wt-eu02.net
     * 792100555808051.wt-eu02.net
     * 795078683620107.wt-eu02.net
@@ -405,6 +406,7 @@
 | web.sidsavage.com | 757421535252818.wt-eu02.net |
 | is.lg.com | 762510246968705.wt-eu02.net |
 | t.mediaset.it | 769396664005295.wt-eu02.net |
+| w.m.nkl-peters.de | 770833460572104.wt-eu02.net |
 | web.communications.amouage.com | 790635424156780.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
 | web.powgen.it | 795078683620107.wt-eu02.net |
@@ -466,6 +468,7 @@
 | text.mitarbeiterangebote.de | cbm02.webtrekk.net |
 | text.benefitsatwork.be | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.ch | corporate-benefits.wt-eu02.net |
+| text.benefitsatwork.com.tr | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.pl | corporate-benefits.wt-eu02.net |
 | text.benefitsatwork.pt | corporate-benefits.wt-eu02.net |
 | text.convenzioniaziendali.it | corporate-benefits.wt-eu02.net |
@@ -494,6 +497,7 @@
 | di.ifolor.lu | di.ifolor.wt-eu02.net |
 | di.ifolor.net | di.ifolor.wt-eu02.net |
 | di.ifolor.nl | di.ifolor.wt-eu02.net |
+| di.ifolor.no | di.ifolor.wt-eu02.net |
 | di.ifolor.se | di.ifolor.wt-eu02.net |
 | di.spreadmorelove.ch | di.ifolor.wt-eu02.net |
 | wt.distrelec.com | distrelec-02.webtrekk.net |

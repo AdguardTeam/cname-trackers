@@ -50,6 +50,7 @@ adebis.angfa-store.jp
 adebis.bathclin.jp
 adebis.bbb-life.jp
 adebis.beautiful-voyager.com
+adebis.blackboard60s.com
 adebis.chojyu.com
 adebis.crowdcredit.jp
 adebis.daiwahouse.co.jp
@@ -60,9 +61,11 @@ adebis.ferret-one.com
 adebis.furisode-ichikura.jp
 adebis.gfs-official.com
 adebis.gfs.tokyo
+adebis.gfschool.jp
 adebis.gogin.co.jp
 adebis.harutaka.jp
 adebis.hotstaff.co.jp
+adebis.invest-online.jp
 adebis.jp.iface.com
 adebis.juku.st
 adebis.kamada.co.jp
@@ -96,6 +99,7 @@ adebis.sbpayment.jp
 adebis.shinseibank.com
 adebis.shiseido.co.jp
 adebis.shopserve.jp
+adebis.shupita.com
 adebis.shupita.jp
 adebis.sokamocka.com
 adebis.thd-web.jp
@@ -154,6 +158,7 @@ cname.mebiusseiyaku.co.jp
 cname.mitsuihome.co.jp
 cname.nikkei-cnbc.co.jp
 cname.polestar-m.jp
+cname.sognando.jp
 cname.sokuyaku.jp
 cname1.shakenkan.co.jp
 cname2.shaken-yoyaku.com
@@ -168,6 +173,8 @@ cs0010sbeda.theory-clinic.com
 cs0010sbeda.theory-diet.com
 cs1470sbeda.schoolasp.com
 cs1863sbeda.glaucoma-arrest.net
+cs2087sbeda.aspex.co.jp
+cs2087sbeda.manage-tempstaffing.net
 cs2113sbeda.hokto-onlineshop.jp
 cv-adebis.my-studies.net
 cv-adebis.nlpjapan.co.jp
@@ -263,6 +270,7 @@ ebiscname.native-phrase.com
 ebiscname.urr.jp
 ebiscosme.tamagokichi.com
 ebisfracora.fracora.com
+ebisfracora.like.jp
 ebisstore.tamagokichi.com
 ebistoppan1.kyowahakko-bio-campaign-1.com
 emc.dr-stick.shop
@@ -297,6 +305,7 @@ test-ad.mens-lucia.com
 tracking.axis.onl
 tracking.mysurance.co.jp
 tracking.nokai.jp
+tracking.stad-gakusyu.jp
 tracking.wao-corp.com
 tracking.wao.ne.jp
 ureruadebis.papawash.com
