@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -190,11 +190,9 @@ cattle.eprc.tools CNAME .
 cattle.herojob.de CNAME .
 cattle.kirkebaekke.dk CNAME .
 cattle.kumo.at CNAME .
-cattle.meets.beer CNAME .
 cattle.mes-renovateurs.com CNAME .
 cattle.musikschule-bregenzerwald.at CNAME .
 cattle.spiral11.com CNAME .
-cattle.weiss-bregenz.at CNAME .
 centipede.davimug.com CNAME .
 centipede.roasted.dev CNAME .
 centipede.wildbit.com CNAME .
@@ -203,8 +201,6 @@ cephalopod.nucleus.us CNAME .
 cephalopod.photoprism.pro CNAME .
 cephalopod.revelio.io CNAME .
 cephalopod.staff.design CNAME .
-cheetah.gaptry.com CNAME .
-cheetah.songrender.com CNAME .
 cheetah.stolenboats.info CNAME .
 cheetah.zeh.co.il CNAME .
 chickadee.mikebifulco.com CNAME .
@@ -253,7 +249,6 @@ crawdad.craiga.id.au CNAME .
 crawdad.dillonerhardt.com CNAME .
 crayfish.fansubbing.com CNAME .
 crayfish.portbanecottagelochtay.co.uk CNAME .
-crayfish.thecatherinewheel.co CNAME .
 crocodile.rapid-sale.co.uk CNAME .
 crow.claudiakeil.de CNAME .
 crow.gim.technology CNAME .
@@ -378,7 +373,6 @@ goat.kunalslab.com CNAME .
 goat.lymedocs.com CNAME .
 goat.purposevisionfuture.com CNAME .
 goat.vrds.app CNAME .
-goldfish.boleary.dev CNAME .
 goldfish.clickand.de CNAME .
 goldfish.shingle.fi CNAME .
 goldfish.untitledspreadsheet.com CNAME .
@@ -423,7 +417,6 @@ hedgehog.fightforthefuture.org CNAME .
 heron.joel.is CNAME .
 heron.notability.com CNAME .
 heron.oneaudiobooks.app CNAME .
-herring.artemis.cloud CNAME .
 herring.panda.network CNAME .
 herring.superfast.dev CNAME .
 hookworm.campaignzee.com CNAME .
@@ -666,8 +659,6 @@ parakeet.quotetweet.com CNAME .
 parrot.lovably.com CNAME .
 parrotfish.thenping.me CNAME .
 parrotfish.wilderworld.com CNAME .
-parrotfish.wus.immo CNAME .
-peacock.psych.help CNAME .
 peafowl.projectstrackt.dev CNAME .
 penguin.craftpeak.io CNAME .
 penguin.mobiadroit.com CNAME .
@@ -704,7 +695,6 @@ polarbear.codeday.org CNAME .
 porcupine.dvresolve.com CNAME .
 porpoise.azettl.net CNAME .
 porpoise.fruittreecottage.com.au CNAME .
-porpoise.jackwhiting.co.uk CNAME .
 porpoise.kristinholl.com CNAME .
 porpoise.numberzs.com CNAME .
 prairiedog.hashnode.com CNAME .
@@ -962,7 +952,6 @@ woodpecker.binario11.de CNAME .
 woodpecker.ember.ly CNAME .
 woodpecker.mikehalliday.com CNAME .
 woodpecker.seabits.com CNAME .
-yak.auclantis.com CNAME .
 yak.flutterblog.net CNAME .
 yak.gregsullivan.com CNAME .
 alligator.remotecyberwork.com CNAME .
@@ -970,8 +959,14 @@ antelope.hoap.dev CNAME .
 antelope.targetinternet.com CNAME .
 basilisk.community-arts.net CNAME .
 bee.farmaciavdg.com CNAME .
+cattle.weiss-bregenz.at CNAME .
+cheetah.gaptry.com CNAME .
+cheetah.songrender.com CNAME .
+crayfish.thecatherinewheel.co CNAME .
 crow.centresustains.com CNAME .
 donkey.masteringfinland.com CNAME .
+goldfish.boleary.dev CNAME .
+herring.artemis.cloud CNAME .
 llama.whatcha.io CNAME .
 moose.octo.app CNAME .
 porcupine.reminyborg.com CNAME .
@@ -979,5 +974,6 @@ prawn.inchperfect.com CNAME .
 vulture.bettershore.com CNAME .
 walrus.scalue.com CNAME .
 www.stork.notlessbutbetter.com CNAME .
+yak.auclantis.com CNAME .
 caribou.clintgwinter.com CNAME .
 flea.artisan.school CNAME .

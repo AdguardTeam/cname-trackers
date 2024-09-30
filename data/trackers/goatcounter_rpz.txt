@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -22,6 +22,7 @@ awesome-tunneling-stats.apitman.com CNAME .
 contacapre.bortox.it CNAME .
 count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
+gc.mindenugyved.hu CNAME .
 gc.sanyamkapoor.com CNAME .
 github.gpuzelenograd.cloudns.be CNAME .
 goat.belak.io CNAME .

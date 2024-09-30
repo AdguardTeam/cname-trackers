@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -411,7 +411,6 @@ stats.cfcasts.com CNAME .
 stats.changelog.com CNAME .
 stats.chomp.haus CNAME .
 stats.chronoslabs.net CNAME .
-stats.cinqsecondes.fr CNAME .
 stats.clavisaurea.xyz CNAME .
 stats.cleverdiabetic.com CNAME .
 stats.cloud-backup-for-podio.com CNAME .
@@ -569,7 +568,6 @@ stats.isabelsommerfeld.com CNAME .
 stats.iscc-system.org CNAME .
 stats.isthispoisonivy.website CNAME .
 stats.ivs.rocks CNAME .
-stats.jackwhiting.co.uk CNAME .
 stats.jamesevers.co.uk CNAME .
 stats.jamesilesantiques.com CNAME .
 stats.jamhouse.app CNAME .
@@ -775,7 +773,6 @@ stats.selectam.io CNAME .
 stats.sendngnt.com CNAME .
 stats.servicedesignjobs.com CNAME .
 stats.seva.rocks CNAME .
-stats.sexplore.app CNAME .
 stats.shareup.app CNAME .
 stats.shepherd.com CNAME .
 stats.shh.io CNAME .

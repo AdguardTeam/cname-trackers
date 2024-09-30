@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -45,7 +45,6 @@ aiq-in.runnersworld.com CNAME .
 aiq-in.seventeen.com CNAME .
 aiq-in.skechers.ca CNAME .
 aiq-in.skechers.co.uk CNAME .
-aiq-in.skechers.com CNAME .
 aiq-in.skechers.de CNAME .
 aiq-in.skechers.es CNAME .
 aiq-in.southwestvacations.com CNAME .

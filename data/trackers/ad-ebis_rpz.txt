@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -299,6 +299,7 @@ matsubun.matsubun.com CNAME .
 maz.zba.jp CNAME .
 mcad.mods-clinic.com CNAME .
 mcad.mods-clinic.info CNAME .
+mcad.modsclinic-osaka.com CNAME .
 mdm.hibinobi-mandom.jp CNAME .
 media.geinoschool-hikaku.net CNAME .
 mgn.ebis.xn--olsz5f0ufw02b.net CNAME .

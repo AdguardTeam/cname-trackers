@@ -37,6 +37,7 @@
     * lspeed.goatcounter.com
     * maple.goatcounter.com
     * mele.goatcounter.com
+    * mindenugyved.goatcounter.com
     * mine.goatcounter.com
     * msol.goatcounter.com
     * nhimmeo.goatcounter.com
@@ -96,6 +97,7 @@
 | stats.lspeed.org | lspeed.goatcounter.com |
 | st.mapleranks.com | maple.goatcounter.com |
 | stats.mele.dev | mele.goatcounter.com |
+| gc.mindenugyved.hu | mindenugyved.goatcounter.com |
 | stats.cloudflex.team | mine.goatcounter.com |
 | stats.msol.io | msol.goatcounter.com |
 | goat1.nhimmeo.cf | nhimmeo.goatcounter.com |

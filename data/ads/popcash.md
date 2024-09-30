@@ -17,7 +17,6 @@
 * admaticcdn.b-cdn.net
 * adsninjacdn.b-cdn.net
 * affiliatable1.b-cdn.net
-* prgm.b-cdn.net
 * unibotscdn.b-cdn.net
 * popupads.b-cdn.net
 * tracking.b-cdn.net
@@ -84,6 +83,7 @@
 | sponsors.stateofdigitalpublishing.com | bs-adserver.b-cdn.net |
 | sponsors.teethtalkgirl.com | bs-adserver.b-cdn.net |
 | sponsors.vvng.com | bs-adserver.b-cdn.net |
+| sponsors.weedweek.com | bs-adserver.b-cdn.net |
 | support-v2.sweetwaternow.com | bs-adserver.b-cdn.net |
 | supporters.redbankgreen.com | bs-adserver.b-cdn.net |
 | consent.cookiefirst.com | consent.b-cdn.net |
@@ -270,7 +270,6 @@
 | cattle.herojob.de | deprecated-custom-domains.b-cdn.net |
 | cattle.kirkebaekke.dk | deprecated-custom-domains.b-cdn.net |
 | cattle.kumo.at | deprecated-custom-domains.b-cdn.net |
-| cattle.meets.beer | deprecated-custom-domains.b-cdn.net |
 | cattle.mes-renovateurs.com | deprecated-custom-domains.b-cdn.net |
 | cattle.musikschule-bregenzerwald.at | deprecated-custom-domains.b-cdn.net |
 | cattle.spiral11.com | deprecated-custom-domains.b-cdn.net |
@@ -748,8 +747,6 @@
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
 | parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wilderworld.com | deprecated-custom-domains.b-cdn.net |
-| parrotfish.wus.immo | deprecated-custom-domains.b-cdn.net |
-| peacock.psych.help | deprecated-custom-domains.b-cdn.net |
 | peafowl.projectstrackt.dev | deprecated-custom-domains.b-cdn.net |
 | penguin.craftpeak.io | deprecated-custom-domains.b-cdn.net |
 | penguin.mobiadroit.com | deprecated-custom-domains.b-cdn.net |
@@ -786,7 +783,6 @@
 | porcupine.dvresolve.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.azettl.net | deprecated-custom-domains.b-cdn.net |
 | porpoise.fruittreecottage.com.au | deprecated-custom-domains.b-cdn.net |
-| porpoise.jackwhiting.co.uk | deprecated-custom-domains.b-cdn.net |
 | porpoise.kristinholl.com | deprecated-custom-domains.b-cdn.net |
 | porpoise.numberzs.com | deprecated-custom-domains.b-cdn.net |
 | prairiedog.hashnode.com | deprecated-custom-domains.b-cdn.net |
@@ -1198,7 +1194,6 @@
 | cdn.zxclan.com | popcashjs.b-cdn.net |
 | cdn.shrtfly.vip | popupads.b-cdn.net |
 | cdn-b.notsy.io | prebid.b-cdn.net |
-| cdn.dircont3.com | prgm.b-cdn.net |
 | dntcl.qualaroo.com | qualdnt.b-cdn.net |
 | sp.cleaningkeepers.com | spixel.b-cdn.net |
 | sp.freshlooklens.pk | spixel.b-cdn.net |

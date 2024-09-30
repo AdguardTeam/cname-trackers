@@ -5,6 +5,7 @@
 * online-metrix.net
     * citi.online-metrix.net
     * h-1020poof.online-metrix.net
+    * h-107yrgnw.online-metrix.net
     * h-10kdwzzr.online-metrix.net
     * h-10mkgm4b.online-metrix.net
     * h-11b6fun8-bl.online-metrix.net
@@ -36,6 +37,7 @@
     * h-2dehands.online-metrix.net
     * h-2ememain.online-metrix.net
     * h-2fiylyk1.online-metrix.net
+    * h-2g7dk5bn.online-metrix.net
     * h-2gkqfg5y.online-metrix.net
     * h-2gssvh01.online-metrix.net
     * h-2ic7z584.online-metrix.net
@@ -61,6 +63,7 @@
     * h-3z5dc3wi.online-metrix.net
     * h-3zlt5rop.online-metrix.net
     * h-40347ghm.online-metrix.net
+    * h-40347ghm2.online-metrix.net
     * h-42guvm37.online-metrix.net
     * h-47blm1l4.online-metrix.net
     * h-47z24dz9.online-metrix.net
@@ -103,6 +106,7 @@
     * h-6y7oe1nl.online-metrix.net
     * h-71i2mvka.online-metrix.net
     * h-72wrr4p1.online-metrix.net
+    * h-73e8orvb.online-metrix.net
     * h-748xxcci.online-metrix.net
     * h-76ussz09.online-metrix.net
     * h-7aid6tml.online-metrix.net
@@ -137,6 +141,7 @@
     * h-8t63q4n4.online-metrix.net
     * h-8uj1s5zr.online-metrix.net
     * h-8vxymlqf.online-metrix.net
+    * h-8wmmckk2.online-metrix.net
     * h-8ydtcbsf.online-metrix.net
     * h-8z6ccesi.online-metrix.net
     * h-92cpkbn2.online-metrix.net
@@ -204,6 +209,7 @@
     * h-axiata.online-metrix.net
     * h-b124ow4n.online-metrix.net
     * h-b2u9vacd.online-metrix.net
+    * h-b2u9vacd3.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
     * h-b3m5a8st.online-metrix.net
     * h-b3zpl92l.online-metrix.net
@@ -319,6 +325,7 @@
     * h-citibankonline.online-metrix.net
     * h-citicards.online-metrix.net
     * h-citidirect.online-metrix.net
+    * h-citidirect2.online-metrix.net
     * h-citiretailservices.online-metrix.net
     * h-citizensbank.online-metrix.net
     * h-citizensbankaccess.online-metrix.net
@@ -596,7 +603,6 @@
     * h-optummahix.online-metrix.net
     * h-optus.online-metrix.net
     * h-ottobv.online-metrix.net
-    * h-ow85iiu0.online-metrix.net
     * h-paddypower.online-metrix.net
     * h-pampers.online-metrix.net
     * h-parcelmonkey.online-metrix.net
@@ -680,7 +686,6 @@
     * h-thecardservicescenter.online-metrix.net
     * h-thefirstclub-ihg.online-metrix.net
     * h-thefirstclub.online-metrix.net
-    * h-thmep.zondaglobal.online-metrix.net
     * h-threatmetrix.ea.online-metrix.net
     * h-threatmetrix.online-metrix.net
     * h-thumbtack.online-metrix.net
@@ -767,6 +772,7 @@
 | ---- | ---- |
 | content22.citi.com | citi.online-metrix.net |
 | content-tix.topi.eu | h-1020poof.online-metrix.net |
+| aucrdtfrd.revolut.com | h-107yrgnw.online-metrix.net |
 | h.truist.com | h-10kdwzzr.online-metrix.net |
 | partition.enterprise.com | h-10mkgm4b.online-metrix.net |
 | content.bankerslife.com | h-11b6fun8-bl.online-metrix.net |
@@ -853,6 +859,7 @@
 | faas.2dehands.be | h-2dehands.online-metrix.net |
 | faas.2ememain.be | h-2ememain.online-metrix.net |
 | metrics.myfrs.com | h-2fiylyk1.online-metrix.net |
+| bkt-prod.sbishinseibank.co.jp | h-2g7dk5bn.online-metrix.net |
 | eve.playstation.com | h-2gkqfg5y.online-metrix.net |
 | pdr.eve.sonyentertainmentnetwork.com | h-2gkqfg5y.online-metrix.net |
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
@@ -888,6 +895,7 @@
 | event.evtm.53.com | h-3z5dc3wi.online-metrix.net |
 | shield.boostbusiness.my | h-3zlt5rop.online-metrix.net |
 | diff3.orange.es | h-40347ghm.online-metrix.net |
+| diff3.jazztel.com | h-40347ghm2.online-metrix.net |
 | ivaacontent.ers.ga.gov | h-42guvm37.online-metrix.net |
 | api.v1.threatmetrix.space.ge | h-47blm1l4.online-metrix.net |
 | content002.bet365.ca | h-47z24dz9.online-metrix.net |
@@ -897,8 +905,10 @@
 | content002.bet365.de | h-47z24dz9.online-metrix.net |
 | content002.bet365.dk | h-47z24dz9.online-metrix.net |
 | content002.bet365.ee | h-47z24dz9.online-metrix.net |
+| content002.bet365.gr | h-47z24dz9.online-metrix.net |
 | content002.bet365.it | h-47z24dz9.online-metrix.net |
 | content002.bet365.mx | h-47z24dz9.online-metrix.net |
+| content002.bet365.nl | h-47z24dz9.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | onoutput.com | h-4nyhdbu2.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
@@ -958,6 +968,7 @@
 | content.pledg.co | h-6y7oe1nl.online-metrix.net |
 | assets.harlandclarke.com | h-71i2mvka.online-metrix.net |
 | rba.infinitium.com | h-72wrr4p1.online-metrix.net |
+| tmcontent.zoom.com | h-73e8orvb.online-metrix.net |
 | analytics.vodafone.com.au | h-748xxcci.online-metrix.net |
 | analyze.central1.cc | h-76ussz09.online-metrix.net |
 | apps.shift.com.au | h-7aid6tml.online-metrix.net |
@@ -1004,6 +1015,7 @@
 | rba.apata.io | h-8t63q4n4.online-metrix.net |
 | req.secured-content.com | h-8uj1s5zr.online-metrix.net |
 | tm.espnbet.com | h-8vxymlqf.online-metrix.net |
+| thmep.zondacrypto.com | h-8wmmckk2.online-metrix.net |
 | content.myfamliplus.state.co.us | h-8ydtcbsf.online-metrix.net |
 | content.paysend.com | h-8z6ccesi.online-metrix.net |
 | catalyst.mashreq.com | h-92cpkbn2.online-metrix.net |
@@ -1016,8 +1028,22 @@
 | regstat.skyvegas.com | h-94b5bk32.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
+| afm.monetamarkets.com | h-96eziru5.online-metrix.net |
+| afm.puprime.com | h-96eziru5.online-metrix.net |
+| afm.puprime.online | h-96eziru5.online-metrix.net |
+| afm.startrader.asia | h-96eziru5.online-metrix.net |
+| afm.startrader.com | h-96eziru5.online-metrix.net |
+| afm.startrader.live | h-96eziru5.online-metrix.net |
+| afm.ultimamarkets.com | h-96eziru5.online-metrix.net |
+| afm.ultimamkts.com | h-96eziru5.online-metrix.net |
 | afm.vantagemarkets.co | h-96eziru5.online-metrix.net |
 | afm.vantagemarkets.com | h-96eziru5.online-metrix.net |
+| afm.vtg-mkt.com | h-96eziru5.online-metrix.net |
+| afm.vtmarkets.com | h-96eziru5.online-metrix.net |
+| afm.vtmarkets.net | h-96eziru5.online-metrix.net |
+| afm.vtmarketsfr.com | h-96eziru5.online-metrix.net |
+| afm.vtmarketsuk.com | h-96eziru5.online-metrix.net |
+| afm.vtmarketsweb.com | h-96eziru5.online-metrix.net |
 | tmcdn.7sultanscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.alljackpotscasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.allslotscasino.com | h-98oju8tz.online-metrix.net |
@@ -1118,6 +1144,7 @@
 | caveo.boost-my.com | h-axiata.online-metrix.net |
 | bland.starone.org | h-b124ow4n.online-metrix.net |
 | ln.acornfun.com | h-b2u9vacd.online-metrix.net |
+| ln.spinsorcery.net | h-b2u9vacd3.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
 | tprofile.goldmansachs.tech | h-b3zpl92l.online-metrix.net |
@@ -1279,6 +1306,7 @@
 | content22.citibankonline.com | h-citibankonline.online-metrix.net |
 | content22.citicards.com | h-citicards.online-metrix.net |
 | img4.portal.citidirect.com | h-citidirect.online-metrix.net |
+| identity4.citidirect.com | h-citidirect2.online-metrix.net |
 | content22.citiretailservices.com | h-citiretailservices.online-metrix.net |
 | profiling.qacitizensbankonline.com | h-citizensbank.online-metrix.net |
 | go.citizensaccess.com | h-citizensbankaccess.online-metrix.net |
@@ -1376,7 +1404,6 @@
 | shield.legalzoom.com | h-e0j3u9ji-legalzoom.online-metrix.net |
 | wptm.worldvision.org | h-e0j3u9ji-wptm.online-metrix.net |
 | zacchaeus.logos.com | h-e0j3u9ji.online-metrix.net |
-| fdts.ebay-kleinanzeigen.de | h-ebay-kleinanzeigen.online-metrix.net |
 | fdts.kleinanzeigen.de | h-ebay-kleinanzeigen.online-metrix.net |
 | src.ebay-us.com | h-ebay.online-metrix.net |
 | content.ecampus.com | h-ecampus.online-metrix.net |
@@ -1650,7 +1677,6 @@
 | rba.login.mahix.org | h-optummahix.online-metrix.net |
 | optm.optus.com.au | h-optus.online-metrix.net |
 | img2.otto.nl | h-ottobv.online-metrix.net |
-| content.online.adp.com | h-ow85iiu0.online-metrix.net |
 | regstat.paddypower.com | h-paddypower.online-metrix.net |
 | tmx.pampersrewards.com | h-pampers.online-metrix.net |
 | page1.parcelmonkey.com | h-parcelmonkey.online-metrix.net |
@@ -1758,7 +1784,6 @@
 | cda.thecardservicescenter.com | h-thecardservicescenter.online-metrix.net |
 | assets2.ihg.com | h-thefirstclub-ihg.online-metrix.net |
 | assets2.thefirstclub.com | h-thefirstclub.online-metrix.net |
-| thmep.zondacrypto.com | h-thmep.zondaglobal.online-metrix.net |
 | content.ea.com | h-threatmetrix.ea.online-metrix.net |
 | h.threatmetrix.com | h-threatmetrix.online-metrix.net |
 | df.thumbtack.com | h-thumbtack.online-metrix.net |

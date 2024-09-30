@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -246,6 +246,7 @@ a8.ones-ones.jp CNAME .
 a8.otoku-line.jp CNAME .
 a8.otonayaki.com CNAME .
 a8.outline-gym.com CNAME .
+a8.palclair.jp CNAME .
 a8.papapa.baby CNAME .
 a8.parcys.com CNAME .
 a8.pcnext.shop CNAME .
@@ -555,6 +556,7 @@ a8clk.kyoto-health.co.jp CNAME .
 a8clk.label-seal-print.com CNAME .
 a8clk.lasana.co.jp CNAME .
 a8clk.laundry-out.jp CNAME .
+a8clk.lecinq.medicalnote.jp CNAME .
 a8clk.lens-1.jp CNAME .
 a8clk.libinc.jp CNAME .
 a8clk.life.bang.co.jp CNAME .
@@ -1062,7 +1064,6 @@ a8cv.menina-joue.jp CNAME .
 a8cv.mentors-lwc.com CNAME .
 a8cv.mi-vision.co.jp CNAME .
 a8cv.minana-jp.com CNAME .
-a8cv.minnano-eikaiwa.com CNAME .
 a8cv.mitaina.tokyo CNAME .
 a8cv.mobabiji.jp CNAME .
 a8cv.modern-deco.jp CNAME .

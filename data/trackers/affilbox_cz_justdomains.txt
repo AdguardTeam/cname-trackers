@@ -612,6 +612,7 @@ partner.madio.cz
 partner.majtki.cz
 partner.malujpodlecisel.cz
 partner.marspom.cz
+partner.martinafallerova.cz
 partner.martinreznicek.cz
 partner.massivo.cz
 partner.maxori.cz
@@ -939,8 +940,10 @@ spoluprace.janitaurbanova.cz
 spoluprace.luxusnipradlo.cz
 spoluprace.m-soft.cz
 spoluprace.majka-shop.cz
+spoluprace.megalu.cz
 spoluprace.mentorkalucie.cz
 spoluprace.nordictelecom.cz
+spoluprace.obchod-kufry.cz
 spoluprace.obchod-setrilek.cz
 spoluprace.potravinyarax.cz
 spoluprace.prostor8.cz

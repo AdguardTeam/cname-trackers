@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -334,7 +334,6 @@ tr.em.cdiscount-pro.com CNAME .
 tr.em.cdiscountpro.com CNAME .
 tr.email.aeroexpo.online CNAME .
 tr.email.agriexpo.online CNAME .
-tr.email.akerys.com CNAME .
 tr.email.aktuariat.fr CNAME .
 tr.email.archiexpo.com CNAME .
 tr.email.contact-jaguar.fr CNAME .
@@ -482,7 +481,6 @@ tr.info.easyvoyage.co.uk CNAME .
 tr.info.easyvoyage.com CNAME .
 tr.info.easyvoyage.de CNAME .
 tr.info.ecole-de-savignac.com CNAME .
-tr.info.epicery.com CNAME .
 tr.info.fulli.com CNAME .
 tr.info.galian.fr CNAME .
 tr.info.harmonie-mutuelle.fr CNAME .
@@ -634,7 +632,6 @@ tr.marketing.tennaxia.com CNAME .
 tr.marketing.younited-credit.com CNAME .
 tr.marketing.younited-credit.es CNAME .
 tr.marketing.younited-credit.pt CNAME .
-tr.marketingdisruption.co.uk CNAME .
 tr.mart.espmp-agfr.net CNAME .
 tr.mcom03b.espmp-aufr.net CNAME .
 tr.mcom04p.espmp-aufr.net CNAME .
@@ -756,7 +753,6 @@ tr.news.economic-studies.fr CNAME .
 tr.news.editions-lva.fr CNAME .
 tr.news.enkiapp.io CNAME .
 tr.news.entreprise-pm.com CNAME .
-tr.news.epicery.com CNAME .
 tr.news.eureden.com CNAME .
 tr.news.eurodatatv.com CNAME .
 tr.news.exclu.fr CNAME .

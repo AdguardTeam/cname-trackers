@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -137,8 +137,6 @@ ed.large.be CNAME .
 ed.large.nl CNAME .
 ed.originalpress.com CNAME .
 eht.endress.com CNAME .
-fiwinet.firmenwissen.com CNAME .
-fiwinet.firmenwissen.de CNAME .
 hbbtv-track.prosieben.de CNAME .
 hbbtv-track.prosiebensat1puls4.com CNAME .
 img.foodspring.at CNAME .
@@ -157,12 +155,13 @@ img.foodspring.se CNAME .
 img.sparkasse-koelnbonn.de CNAME .
 info.allango.net CNAME .
 info.deltapublishing.co.uk CNAME .
+info.der-gruene-max.ch CNAME .
 info.derdiedaf.com CNAME .
 info.genialklick.ch CNAME .
+info.klett-international.com CNAME .
 info.klett-sprachen.de CNAME .
 intel.web.noleggiare.it CNAME .
 intelligence.officialwesthamstore.com CNAME .
-is.lg.com CNAME .
 joda.corriereadriatico.it CNAME .
 joda.ilgazzettino.it CNAME .
 joda.ilmattino.it CNAME .

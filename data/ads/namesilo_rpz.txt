@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,6 +36,7 @@ $TTL 300
 3164303.notifysrv.com CNAME .
 3164315.notify6.com CNAME .
 3164315.notifysrv.com CNAME .
+3164349.notify6.com CNAME .
 3164401.notifysrv.com CNAME .
 3164433.notifysrv.com CNAME .
 3164553.notifysrv.com CNAME .
@@ -146,6 +147,7 @@ $TTL 300
 3205733.notifysrv.com CNAME .
 3205919.notify6.com CNAME .
 3205971.notify6.com CNAME .
+3207479.notify6.com CNAME .
 3207479.notifysrv.com CNAME .
 3207573.notifysrv.com CNAME .
 3207695.notify6.com CNAME .
@@ -1112,7 +1114,6 @@ a.mx.notifysrv.com CNAME .
 a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
 a.optimizesrv.com CNAME .
-a.ouzads.com CNAME .
 a.playa.to CNAME .
 a.q88z1s3.com CNAME .
 a.r8lnet.com CNAME .
@@ -1338,6 +1339,7 @@ statistics.notifysrv.com CNAME .
 submit.notifysrv.com CNAME .
 subscribe.notifysrv.com CNAME .
 support2.notifysrv.com CNAME .
+survey.notifysrv.com CNAME .
 sv3.notifysrv.com CNAME .
 svn.notifysrv.com CNAME .
 sw.notifysrv.com CNAME .
@@ -1392,6 +1394,7 @@ www.10.notify.bizonads-ssp.com CNAME .
 www.12.notify.bizonads-ssp.com CNAME .
 www.3177866.notifysrv.com CNAME .
 www.3191479.notifysrv.com CNAME .
+www.3207479.notify6.com CNAME .
 www.3207695.notify6.com CNAME .
 www.3227697.notify6.com CNAME .
 www.3231172.notify6.com CNAME .
@@ -1405,17 +1408,21 @@ www.3352256.notify6.com CNAME .
 www.3398315.notify6.com CNAME .
 www.3410343.notify6.com CNAME .
 www.3440153.notify6.com CNAME .
+www.3440411.notify6.com CNAME .
 www.3466857.notify6.com CNAME .
 www.3466863.notify6.com CNAME .
 www.3475335.notify6.com CNAME .
 www.3493551.notify6.com CNAME .
 www.3501655.notify6.com CNAME .
 www.3593835.notify6.com CNAME .
+www.3618947.notify6.com CNAME .
+www.3662845.notifysrv.com CNAME .
 www.3684237.notify6.com CNAME .
 www.3815579.notify6.com CNAME .
 www.3856281.notify6.com CNAME .
 www.3881818.notify6.com CNAME .
 www.3972246.notify6.com CNAME .
+www.4.notify.bizonads-ssp.com CNAME .
 www.4065194.notify6.com CNAME .
 www.4065944.notify6.com CNAME .
 www.4069896.notify6.com CNAME .
@@ -1433,4 +1440,5 @@ www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
 a.bizonads-ssp.com CNAME .
+a.ouzads.com CNAME .
 ads.optimizesrv.com CNAME .

@@ -59,6 +59,7 @@
     * 2ab268f1-uxwrqv9t.cname.ebis.ne.jp
     * 2cc59598-pr6qwglj.cname.ebis.ne.jp
     * 2cf4b0df-n5mdheza.cname.ebis.ne.jp
+    * 2ea869fd-4z4kfqrd.cname.ebis.ne.jp
     * 2effafae-p5xsryk6.cname.ebis.ne.jp
     * 2f1d9b5c-skczc9vy.cname.ebis.ne.jp
     * 2f22dbfa-day5axk4.cname.ebis.ne.jp
@@ -380,6 +381,7 @@
 | ebis.studioindi.jp | 2ab268f1-uxwrqv9t.cname.ebis.ne.jp |
 | ebis.lululun.com | 2cc59598-pr6qwglj.cname.ebis.ne.jp |
 | adebis.zenyaku-hbshop.com | 2cf4b0df-n5mdheza.cname.ebis.ne.jp |
+| mcad.modsclinic-osaka.com | 2ea869fd-4z4kfqrd.cname.ebis.ne.jp |
 | isebis.takamiclinic.or.jp | 2effafae-p5xsryk6.cname.ebis.ne.jp |
 | ac-ebis.usen-service.com | 2f1d9b5c-skczc9vy.cname.ebis.ne.jp |
 | ebis.belta.co.jp | 2f22dbfa-day5axk4.cname.ebis.ne.jp |

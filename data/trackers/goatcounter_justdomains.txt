@@ -11,6 +11,7 @@ awesome-tunneling-stats.apitman.com
 contacapre.bortox.it
 count.vidsrc.pro
 counter.storydragon.nl
+gc.mindenugyved.hu
 gc.sanyamkapoor.com
 github.gpuzelenograd.cloudns.be
 goat.belak.io

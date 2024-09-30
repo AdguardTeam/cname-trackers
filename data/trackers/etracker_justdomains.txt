@@ -12,6 +12,7 @@ data.moebel-style.de
 e.mediherz-shop.de
 e.medikamente-per-klick.de
 e.preisapo.de
+estats.globus.de
 et.electronic4you.at
 et.electronic4you.de
 et.electronic4you.hr
@@ -23,6 +24,7 @@ etd.wackerneusongroup.com
 etd.weidemann.com
 etracker.alex-gross.com
 ets.verivox.com
+ettcc.steute-meditec.com
 ettcc.steute.com
 ferthu.seyffer.shop
 js.edingershops.de

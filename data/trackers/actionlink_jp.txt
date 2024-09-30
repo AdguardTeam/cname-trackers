@@ -25,6 +25,7 @@
 ||al.fundokin.co.jp^
 ||al.ganzo.ne.jp^
 ||al.germanpet.com^
+||al.gokokumai.co.jp^
 ||al.gold-japan.jp^
 ||al.hamari-health.jp^
 ||al.happysun-hinode.com^

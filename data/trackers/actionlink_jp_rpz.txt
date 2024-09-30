@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -36,6 +36,7 @@ al.fakui.jp CNAME .
 al.fundokin.co.jp CNAME .
 al.ganzo.ne.jp CNAME .
 al.germanpet.com CNAME .
+al.gokokumai.co.jp CNAME .
 al.gold-japan.jp CNAME .
 al.hamari-health.jp CNAME .
 al.happysun-hinode.com CNAME .

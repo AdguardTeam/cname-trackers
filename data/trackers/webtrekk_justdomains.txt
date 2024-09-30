@@ -126,8 +126,6 @@ ed.large.be
 ed.large.nl
 ed.originalpress.com
 eht.endress.com
-fiwinet.firmenwissen.com
-fiwinet.firmenwissen.de
 hbbtv-track.prosieben.de
 hbbtv-track.prosiebensat1puls4.com
 img.foodspring.at
@@ -146,12 +144,13 @@ img.foodspring.se
 img.sparkasse-koelnbonn.de
 info.allango.net
 info.deltapublishing.co.uk
+info.der-gruene-max.ch
 info.derdiedaf.com
 info.genialklick.ch
+info.klett-international.com
 info.klett-sprachen.de
 intel.web.noleggiare.it
 intelligence.officialwesthamstore.com
-is.lg.com
 joda.corriereadriatico.it
 joda.ilgazzettino.it
 joda.ilmattino.it

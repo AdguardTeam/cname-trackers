@@ -5,8 +5,22 @@
 acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
 af.mobile.free.fr
+afm.monetamarkets.com
+afm.puprime.com
+afm.puprime.online
+afm.startrader.asia
+afm.startrader.com
+afm.startrader.live
+afm.ultimamarkets.com
+afm.ultimamkts.com
 afm.vantagemarkets.co
 afm.vantagemarkets.com
+afm.vtg-mkt.com
+afm.vtmarkets.com
+afm.vtmarkets.net
+afm.vtmarketsfr.com
+afm.vtmarketsuk.com
+afm.vtmarketsweb.com
 afs.wearemp.com
 analytics.amrcollection.com
 analytics.beachbound.com
@@ -39,6 +53,7 @@ assets.harlandclarke.com
 assets.werally.co
 assets2.ihg.com
 assets2.thefirstclub.com
+aucrdtfrd.revolut.com
 auth.vedacheck.com.au
 auth2.corelogic.asia
 authorizer-data.infinitepay.io
@@ -47,6 +62,7 @@ bank.bnpl.c24.de
 banque.banque-casino.fr
 barnacle.tommybahama.com
 bifpt.pepperfinance.es
+bkt-prod.sbishinseibank.co.jp
 black-cat.crypto.com
 bland.starone.org
 business.streetshares.com
@@ -276,7 +292,6 @@ content.nubank.com.br
 content.numobile.com.au
 content.nycers.org
 content.olympus.ao.com
-content.online.adp.com
 content.orixbank.co.jp
 content.partycity.ca
 content.paycardsolutions.com
@@ -330,8 +345,10 @@ content002.bet365.com.cy
 content002.bet365.de
 content002.bet365.dk
 content002.bet365.ee
+content002.bet365.gr
 content002.bet365.it
 content002.bet365.mx
+content002.bet365.nl
 content1.esdiacapi.com
 content1.reprisefinancial.com
 content2.instacart.com
@@ -425,6 +442,7 @@ dfp.telering.at
 dicontent.creditkarma.com
 did.fashionworld.co.uk
 did.koempf24.de
+diff3.jazztel.com
 diff3.orange.es
 digitalid-qa.santanderbank.com
 digitalid.santanderbank.com
@@ -455,7 +473,6 @@ faas.2dehands.be
 faas.2ememain.be
 faas.marktplaats.nl
 fd-tm.upgrade.com
-fdts.ebay-kleinanzeigen.de
 fdts.kleinanzeigen.de
 fingerprint.fool.com
 fms-dev.citysavings.net.ph
@@ -501,6 +518,7 @@ hooru.regence.com
 hunt.elcorteingles.es
 id.latitudefinancial.com
 identity.myblueprint.arkansasbluecross.com
+identity4.citidirect.com
 idhtm.bb.com.br
 idstatus.sky.com
 idstatus.sky.it
@@ -572,6 +590,7 @@ lab4.lloydsbank.com
 ln.acornfun.com
 ln.cash.app
 ln.meudigio.com.br
+ln.spinsorcery.net
 lnc.mo.gov
 lncdn.aspire.com
 lncdn.goosehead.com
@@ -1014,6 +1033,7 @@ tmcontent.imvu.com
 tmcontent.meridiancu.ca
 tmcontent.motusbank.ca
 tmcontent.sixt.com
+tmcontent.zoom.com
 tmfp.klarna.com
 tmi.my529.org
 tmln.caesarscasino.com

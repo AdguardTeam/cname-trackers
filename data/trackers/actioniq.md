@@ -102,7 +102,6 @@
 | mr.pinkbike.com | outside.mr-in.com |
 | aiq-in.skechers.ca | skechers-prod.actioniq.mr-in.com |
 | aiq-in.skechers.co.uk | skechers-prod.actioniq.mr-in.com |
-| aiq-in.skechers.com | skechers-prod.actioniq.mr-in.com |
 | aiq-in.skechers.de | skechers-prod.actioniq.mr-in.com |
 | aiq-in.skechers.es | skechers-prod.actioniq.mr-in.com |
 | aiqx.anyonebutyou.movie | sony-prod.actioniq.mr-in.com |

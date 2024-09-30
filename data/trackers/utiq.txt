@@ -18,6 +18,7 @@
 ||utiq.abc.es^
 ||utiq.actu.fr^
 ||utiq.aisnenouvelle.fr^
+||utiq.allocine.fr^
 ||utiq.applesfera.com^
 ||utiq.ariva.de^
 ||utiq.atf-tagmanager.de^
@@ -50,6 +51,7 @@
 ||utiq.cuisineactuelle.fr^
 ||utiq.dasgelbeblatt.de^
 ||utiq.desired.de^
+||utiq.diariocordoba.com^
 ||utiq.diariodeibiza.es^
 ||utiq.diariodelaltoaragon.es^
 ||utiq.diariodemallorca.es^
@@ -61,8 +63,10 @@
 ||utiq.easyvoyage.com^
 ||utiq.eatbetter.de^
 ||utiq.einfach-tasty.de^
+||utiq.einfachkochen.de^
 ||utiq.elcomercio.es^
 ||utiq.elcorreo.com^
+||utiq.elcorreogallego.es^
 ||utiq.eldia.es^
 ||utiq.eldiario.es^
 ||utiq.eldiariomontanes.es^
@@ -130,6 +134,7 @@
 ||utiq.laverdad.es^
 ||utiq.lavoixdunord.fr^
 ||utiq.lavozdigital.es^
+||utiq.le10sport.com^
 ||utiq.lefigaro.fr^
 ||utiq.lejournaldelamaison.fr^
 ||utiq.lemessager.fr^
@@ -174,6 +179,7 @@
 ||utiq.pnp.de^
 ||utiq.programme.tv^
 ||utiq.psychologies.com^
+||utiq.purepeople.com^
 ||utiq.regio7.cat^
 ||utiq.rireetchansons.fr^
 ||utiq.rmcbfmplay.com^
@@ -209,6 +215,7 @@
 ||utiq.usinger-anzeiger.de^
 ||utiq.utest1-prod.work^
 ||utiq.utopia.de^
+||utiq.verisure.fr^
 ||utiq.vidaextra.com^
 ||utiq.vitonica.com^
 ||utiq.voici.fr^

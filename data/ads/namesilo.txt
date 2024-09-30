@@ -25,6 +25,7 @@
 ||3164303.notifysrv.com^
 ||3164315.notify6.com^
 ||3164315.notifysrv.com^
+||3164349.notify6.com^
 ||3164401.notifysrv.com^
 ||3164433.notifysrv.com^
 ||3164553.notifysrv.com^
@@ -135,6 +136,7 @@
 ||3205733.notifysrv.com^
 ||3205919.notify6.com^
 ||3205971.notify6.com^
+||3207479.notify6.com^
 ||3207479.notifysrv.com^
 ||3207573.notifysrv.com^
 ||3207695.notify6.com^
@@ -1101,7 +1103,6 @@
 ||a.n4m5x60.com^
 ||a.ns.notifysrv.com^
 ||a.optimizesrv.com^
-||a.ouzads.com^
 ||a.playa.to^
 ||a.q88z1s3.com^
 ||a.r8lnet.com^
@@ -1327,6 +1328,7 @@
 ||submit.notifysrv.com^
 ||subscribe.notifysrv.com^
 ||support2.notifysrv.com^
+||survey.notifysrv.com^
 ||sv3.notifysrv.com^
 ||svn.notifysrv.com^
 ||sw.notifysrv.com^
@@ -1381,6 +1383,7 @@
 ||www.12.notify.bizonads-ssp.com^
 ||www.3177866.notifysrv.com^
 ||www.3191479.notifysrv.com^
+||www.3207479.notify6.com^
 ||www.3207695.notify6.com^
 ||www.3227697.notify6.com^
 ||www.3231172.notify6.com^
@@ -1394,17 +1397,21 @@
 ||www.3398315.notify6.com^
 ||www.3410343.notify6.com^
 ||www.3440153.notify6.com^
+||www.3440411.notify6.com^
 ||www.3466857.notify6.com^
 ||www.3466863.notify6.com^
 ||www.3475335.notify6.com^
 ||www.3493551.notify6.com^
 ||www.3501655.notify6.com^
 ||www.3593835.notify6.com^
+||www.3618947.notify6.com^
+||www.3662845.notifysrv.com^
 ||www.3684237.notify6.com^
 ||www.3815579.notify6.com^
 ||www.3856281.notify6.com^
 ||www.3881818.notify6.com^
 ||www.3972246.notify6.com^
+||www.4.notify.bizonads-ssp.com^
 ||www.4065194.notify6.com^
 ||www.4065944.notify6.com^
 ||www.4069896.notify6.com^
@@ -1422,4 +1429,5 @@
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
 ||a.bizonads-ssp.com^
+||a.ouzads.com^
 ||ads.optimizesrv.com^

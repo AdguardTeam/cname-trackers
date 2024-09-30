@@ -326,7 +326,6 @@ cattle.eprc.tools
 cattle.herojob.de
 cattle.kirkebaekke.dk
 cattle.kumo.at
-cattle.meets.beer
 cattle.mes-renovateurs.com
 cattle.musikschule-bregenzerwald.at
 cattle.spiral11.com
@@ -804,8 +803,6 @@ parakeet.quotetweet.com
 parrot.lovably.com
 parrotfish.thenping.me
 parrotfish.wilderworld.com
-parrotfish.wus.immo
-peacock.psych.help
 peafowl.projectstrackt.dev
 penguin.craftpeak.io
 penguin.mobiadroit.com
@@ -842,7 +839,6 @@ polarbear.codeday.org
 porcupine.dvresolve.com
 porpoise.azettl.net
 porpoise.fruittreecottage.com.au
-porpoise.jackwhiting.co.uk
 porpoise.kristinholl.com
 porpoise.numberzs.com
 prairiedog.hashnode.com
@@ -1153,6 +1149,7 @@ sponsors.salesforceben.com
 sponsors.stateofdigitalpublishing.com
 sponsors.teethtalkgirl.com
 sponsors.vvng.com
+sponsors.weedweek.com
 support-v2.sweetwaternow.com
 supporters.redbankgreen.com
 adserve.bongocdn.com
@@ -1164,7 +1161,6 @@ cdn-b.notsy.io
 cdn.admatic.com.tr
 cdn.adsninja.ca
 cdn.affiliatable.io
-cdn.dircont3.com
 cdn.responsiq.com
 cdn.stoic-media.com
 cdn.studiosis.in

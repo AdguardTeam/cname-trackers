@@ -221,6 +221,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -423,6 +424,7 @@
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
+    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -488,7 +490,6 @@
     * simon-and-schuster.extole.io
     * simplepractice.extole.io
     * sizigi.extole.io
-    * skillshare.em.extole.io
     * skillshare.extole.io
     * skinceuticals.extole.io
     * skycop.extole.io
@@ -508,7 +509,6 @@
     * stopagingnow.extole.io
     * stride-rite.extole.io
     * stridehealth.extole.io
-    * studentuniverse.extole.io
     * studiosashiko.extole.io
     * suncoastcreditunion.extole.io
     * sundancevacations.extole.io
@@ -738,6 +738,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -1079,6 +1080,7 @@
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
+| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1173,7 +1175,6 @@
 | share.simonandschuster.com | simon-and-schuster.extole.io |
 | share.simplepractice.com | simplepractice.extole.io |
 | go.joinsizigi.com | sizigi.extole.io |
-| em3904.skillshare.com | skillshare.em.extole.io |
 | share.skillshare.com | skillshare.extole.io |
 | refer.skinceuticals.com | skinceuticals.extole.io |
 | share.skycop.com | skycop.extole.io |
@@ -1196,7 +1197,6 @@
 | share.stopagingnow.com | stopagingnow.extole.io |
 | refer.striderite.com | stride-rite.extole.io |
 | share.stridehealth.com | stridehealth.extole.io |
-| refer.studentuniverse.com | studentuniverse.extole.io |
 | share.studiosashiko.com | studiosashiko.extole.io |
 | love.suncoastcreditunion.com | suncoastcreditunion.extole.io |
 | refer.sundancevacations.com | sundancevacations.extole.io |

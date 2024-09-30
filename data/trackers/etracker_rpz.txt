@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -23,6 +23,7 @@ data.moebel-style.de CNAME .
 e.mediherz-shop.de CNAME .
 e.medikamente-per-klick.de CNAME .
 e.preisapo.de CNAME .
+estats.globus.de CNAME .
 et.electronic4you.at CNAME .
 et.electronic4you.de CNAME .
 et.electronic4you.hr CNAME .
@@ -34,6 +35,7 @@ etd.wackerneusongroup.com CNAME .
 etd.weidemann.com CNAME .
 etracker.alex-gross.com CNAME .
 ets.verivox.com CNAME .
+ettcc.steute-meditec.com CNAME .
 ettcc.steute.com CNAME .
 ferthu.seyffer.shop CNAME .
 js.edingershops.de CNAME .

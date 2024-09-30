@@ -413,7 +413,6 @@
 | stats.changelog.com | custom.plausible.io |
 | stats.chomp.haus | custom.plausible.io |
 | stats.chronoslabs.net | custom.plausible.io |
-| stats.cinqsecondes.fr | custom.plausible.io |
 | stats.clavisaurea.xyz | custom.plausible.io |
 | stats.cleverdiabetic.com | custom.plausible.io |
 | stats.cloud-backup-for-podio.com | custom.plausible.io |
@@ -571,7 +570,6 @@
 | stats.iscc-system.org | custom.plausible.io |
 | stats.isthispoisonivy.website | custom.plausible.io |
 | stats.ivs.rocks | custom.plausible.io |
-| stats.jackwhiting.co.uk | custom.plausible.io |
 | stats.jamesevers.co.uk | custom.plausible.io |
 | stats.jamesilesantiques.com | custom.plausible.io |
 | stats.jamhouse.app | custom.plausible.io |
@@ -777,7 +775,6 @@
 | stats.sendngnt.com | custom.plausible.io |
 | stats.servicedesignjobs.com | custom.plausible.io |
 | stats.seva.rocks | custom.plausible.io |
-| stats.sexplore.app | custom.plausible.io |
 | stats.shareup.app | custom.plausible.io |
 | stats.shepherd.com | custom.plausible.io |
 | stats.shh.io | custom.plausible.io |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -438,6 +438,7 @@ data-34c9d32b77.apps.iocnt.de CNAME .
 data-353c1c8501.falstaff.com CNAME .
 data-366a248b14.film.at CNAME .
 data-367bcf5bd6.german-retail-blog.com CNAME .
+data-367bcf5bd6.lebensmittelzeitung.de CNAME .
 data-367bcf5bd6.lebensmittelzeitung.net CNAME .
 data-367bcf5bd6.lzjobs.de CNAME .
 data-3698886e7b.manager-magazin.de CNAME .
@@ -634,7 +635,6 @@ data-47ee1b0882.kino-oehringen.de CNAME .
 data-47ee1b0882.kino-oelde.de CNAME .
 data-47ee1b0882.kino-offingen.de CNAME .
 data-47ee1b0882.kino-ottobrunn.de CNAME .
-data-47ee1b0882.kino-treuchtlingen.de CNAME .
 data-47ee1b0882.kino-ueberlingen.de CNAME .
 data-47ee1b0882.kino-wemding.de CNAME .
 data-47ee1b0882.kino-wolfhagen.de CNAME .
@@ -1274,6 +1274,7 @@ data-8e96b6cfc5.gelbeseiten.de CNAME .
 data-8ec1348702.apps.iocnt.de CNAME .
 data-8ec206415a.dnb.de CNAME .
 data-8ec206415a.gnd.network CNAME .
+data-8ec206415a.zdb-katalog.de CNAME .
 data-8eeb5d63be.gast.at CNAME .
 data-8f03f9dd42.spiegel.de CNAME .
 data-8f7660c51c.apps.iocnt.de CNAME .

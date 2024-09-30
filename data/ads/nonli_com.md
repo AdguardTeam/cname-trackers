@@ -81,6 +81,7 @@
 | l.lepoint.fr | tls.non.li |
 | l.lequotidiendelart.com | tls.non.li |
 | l.letemps.ch | tls.non.li |
+| l.lexpress.fr | tls.non.li |
 | l.lindependant.fr | tls.non.li |
 | l.lunion.fr | tls.non.li |
 | l.madmoizelle.com | tls.non.li |

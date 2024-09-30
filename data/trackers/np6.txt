@@ -323,7 +323,6 @@
 ||tr.em.cdiscountpro.com^
 ||tr.email.aeroexpo.online^
 ||tr.email.agriexpo.online^
-||tr.email.akerys.com^
 ||tr.email.aktuariat.fr^
 ||tr.email.archiexpo.com^
 ||tr.email.contact-jaguar.fr^
@@ -471,7 +470,6 @@
 ||tr.info.easyvoyage.com^
 ||tr.info.easyvoyage.de^
 ||tr.info.ecole-de-savignac.com^
-||tr.info.epicery.com^
 ||tr.info.fulli.com^
 ||tr.info.galian.fr^
 ||tr.info.harmonie-mutuelle.fr^
@@ -623,7 +621,6 @@
 ||tr.marketing.younited-credit.com^
 ||tr.marketing.younited-credit.es^
 ||tr.marketing.younited-credit.pt^
-||tr.marketingdisruption.co.uk^
 ||tr.mart.espmp-agfr.net^
 ||tr.mcom03b.espmp-aufr.net^
 ||tr.mcom04p.espmp-aufr.net^
@@ -745,7 +742,6 @@
 ||tr.news.editions-lva.fr^
 ||tr.news.enkiapp.io^
 ||tr.news.entreprise-pm.com^
-||tr.news.epicery.com^
 ||tr.news.eureden.com^
 ||tr.news.eurodatatv.com^
 ||tr.news.exclu.fr^

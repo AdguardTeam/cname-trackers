@@ -400,7 +400,6 @@ stats.cfcasts.com
 stats.changelog.com
 stats.chomp.haus
 stats.chronoslabs.net
-stats.cinqsecondes.fr
 stats.clavisaurea.xyz
 stats.cleverdiabetic.com
 stats.cloud-backup-for-podio.com
@@ -558,7 +557,6 @@ stats.isabelsommerfeld.com
 stats.iscc-system.org
 stats.isthispoisonivy.website
 stats.ivs.rocks
-stats.jackwhiting.co.uk
 stats.jamesevers.co.uk
 stats.jamesilesantiques.com
 stats.jamhouse.app
@@ -764,7 +762,6 @@ stats.selectam.io
 stats.sendngnt.com
 stats.servicedesignjobs.com
 stats.seva.rocks
-stats.sexplore.app
 stats.shareup.app
 stats.shepherd.com
 stats.shh.io

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -623,6 +623,7 @@ partner.madio.cz CNAME .
 partner.majtki.cz CNAME .
 partner.malujpodlecisel.cz CNAME .
 partner.marspom.cz CNAME .
+partner.martinafallerova.cz CNAME .
 partner.martinreznicek.cz CNAME .
 partner.massivo.cz CNAME .
 partner.maxori.cz CNAME .
@@ -950,8 +951,10 @@ spoluprace.janitaurbanova.cz CNAME .
 spoluprace.luxusnipradlo.cz CNAME .
 spoluprace.m-soft.cz CNAME .
 spoluprace.majka-shop.cz CNAME .
+spoluprace.megalu.cz CNAME .
 spoluprace.mentorkalucie.cz CNAME .
 spoluprace.nordictelecom.cz CNAME .
+spoluprace.obchod-kufry.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .
 spoluprace.potravinyarax.cz CNAME .
 spoluprace.prostor8.cz CNAME .

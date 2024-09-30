@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -337,7 +337,6 @@ cattle.eprc.tools CNAME .
 cattle.herojob.de CNAME .
 cattle.kirkebaekke.dk CNAME .
 cattle.kumo.at CNAME .
-cattle.meets.beer CNAME .
 cattle.mes-renovateurs.com CNAME .
 cattle.musikschule-bregenzerwald.at CNAME .
 cattle.spiral11.com CNAME .
@@ -815,8 +814,6 @@ parakeet.quotetweet.com CNAME .
 parrot.lovably.com CNAME .
 parrotfish.thenping.me CNAME .
 parrotfish.wilderworld.com CNAME .
-parrotfish.wus.immo CNAME .
-peacock.psych.help CNAME .
 peafowl.projectstrackt.dev CNAME .
 penguin.craftpeak.io CNAME .
 penguin.mobiadroit.com CNAME .
@@ -853,7 +850,6 @@ polarbear.codeday.org CNAME .
 porcupine.dvresolve.com CNAME .
 porpoise.azettl.net CNAME .
 porpoise.fruittreecottage.com.au CNAME .
-porpoise.jackwhiting.co.uk CNAME .
 porpoise.kristinholl.com CNAME .
 porpoise.numberzs.com CNAME .
 prairiedog.hashnode.com CNAME .
@@ -1164,6 +1160,7 @@ sponsors.salesforceben.com CNAME .
 sponsors.stateofdigitalpublishing.com CNAME .
 sponsors.teethtalkgirl.com CNAME .
 sponsors.vvng.com CNAME .
+sponsors.weedweek.com CNAME .
 support-v2.sweetwaternow.com CNAME .
 supporters.redbankgreen.com CNAME .
 adserve.bongocdn.com CNAME .
@@ -1175,7 +1172,6 @@ cdn-b.notsy.io CNAME .
 cdn.admatic.com.tr CNAME .
 cdn.adsninja.ca CNAME .
 cdn.affiliatable.io CNAME .
-cdn.dircont3.com CNAME .
 cdn.responsiq.com CNAME .
 cdn.stoic-media.com CNAME .
 cdn.studiosis.in CNAME .

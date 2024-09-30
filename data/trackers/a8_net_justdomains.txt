@@ -235,6 +235,7 @@ a8.ones-ones.jp
 a8.otoku-line.jp
 a8.otonayaki.com
 a8.outline-gym.com
+a8.palclair.jp
 a8.papapa.baby
 a8.parcys.com
 a8.pcnext.shop
@@ -544,6 +545,7 @@ a8clk.kyoto-health.co.jp
 a8clk.label-seal-print.com
 a8clk.lasana.co.jp
 a8clk.laundry-out.jp
+a8clk.lecinq.medicalnote.jp
 a8clk.lens-1.jp
 a8clk.libinc.jp
 a8clk.life.bang.co.jp
@@ -1051,7 +1053,6 @@ a8cv.menina-joue.jp
 a8cv.mentors-lwc.com
 a8cv.mi-vision.co.jp
 a8cv.minana-jp.com
-a8cv.minnano-eikaiwa.com
 a8cv.mitaina.tokyo
 a8cv.mobabiji.jp
 a8cv.modern-deco.jp

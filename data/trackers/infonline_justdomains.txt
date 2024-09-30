@@ -427,6 +427,7 @@ data-34c9d32b77.apps.iocnt.de
 data-353c1c8501.falstaff.com
 data-366a248b14.film.at
 data-367bcf5bd6.german-retail-blog.com
+data-367bcf5bd6.lebensmittelzeitung.de
 data-367bcf5bd6.lebensmittelzeitung.net
 data-367bcf5bd6.lzjobs.de
 data-3698886e7b.manager-magazin.de
@@ -623,7 +624,6 @@ data-47ee1b0882.kino-oehringen.de
 data-47ee1b0882.kino-oelde.de
 data-47ee1b0882.kino-offingen.de
 data-47ee1b0882.kino-ottobrunn.de
-data-47ee1b0882.kino-treuchtlingen.de
 data-47ee1b0882.kino-ueberlingen.de
 data-47ee1b0882.kino-wemding.de
 data-47ee1b0882.kino-wolfhagen.de
@@ -1263,6 +1263,7 @@ data-8e96b6cfc5.gelbeseiten.de
 data-8ec1348702.apps.iocnt.de
 data-8ec206415a.dnb.de
 data-8ec206415a.gnd.network
+data-8ec206415a.zdb-katalog.de
 data-8eeb5d63be.gast.at
 data-8f03f9dd42.spiegel.de
 data-8f7660c51c.apps.iocnt.de

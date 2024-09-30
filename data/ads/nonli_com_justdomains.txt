@@ -60,6 +60,7 @@ l.leparisien.fr
 l.lepoint.fr
 l.lequotidiendelart.com
 l.letemps.ch
+l.lexpress.fr
 l.lindependant.fr
 l.lunion.fr
 l.madmoizelle.com

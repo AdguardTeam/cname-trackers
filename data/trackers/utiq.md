@@ -27,6 +27,7 @@
 | utiq.abc.es | frontend.prod.utiq-aws.net |
 | utiq.actu.fr | frontend.prod.utiq-aws.net |
 | utiq.aisnenouvelle.fr | frontend.prod.utiq-aws.net |
+| utiq.allocine.fr | frontend.prod.utiq-aws.net |
 | utiq.applesfera.com | frontend.prod.utiq-aws.net |
 | utiq.ariva.de | frontend.prod.utiq-aws.net |
 | utiq.atf-tagmanager.de | frontend.prod.utiq-aws.net |
@@ -59,6 +60,7 @@
 | utiq.cuisineactuelle.fr | frontend.prod.utiq-aws.net |
 | utiq.dasgelbeblatt.de | frontend.prod.utiq-aws.net |
 | utiq.desired.de | frontend.prod.utiq-aws.net |
+| utiq.diariocordoba.com | frontend.prod.utiq-aws.net |
 | utiq.diariodeibiza.es | frontend.prod.utiq-aws.net |
 | utiq.diariodelaltoaragon.es | frontend.prod.utiq-aws.net |
 | utiq.diariodemallorca.es | frontend.prod.utiq-aws.net |
@@ -70,8 +72,10 @@
 | utiq.easyvoyage.com | frontend.prod.utiq-aws.net |
 | utiq.eatbetter.de | frontend.prod.utiq-aws.net |
 | utiq.einfach-tasty.de | frontend.prod.utiq-aws.net |
+| utiq.einfachkochen.de | frontend.prod.utiq-aws.net |
 | utiq.elcomercio.es | frontend.prod.utiq-aws.net |
 | utiq.elcorreo.com | frontend.prod.utiq-aws.net |
+| utiq.elcorreogallego.es | frontend.prod.utiq-aws.net |
 | utiq.eldia.es | frontend.prod.utiq-aws.net |
 | utiq.eldiario.es | frontend.prod.utiq-aws.net |
 | utiq.eldiariomontanes.es | frontend.prod.utiq-aws.net |
@@ -139,6 +143,7 @@
 | utiq.laverdad.es | frontend.prod.utiq-aws.net |
 | utiq.lavoixdunord.fr | frontend.prod.utiq-aws.net |
 | utiq.lavozdigital.es | frontend.prod.utiq-aws.net |
+| utiq.le10sport.com | frontend.prod.utiq-aws.net |
 | utiq.lefigaro.fr | frontend.prod.utiq-aws.net |
 | utiq.lejournaldelamaison.fr | frontend.prod.utiq-aws.net |
 | utiq.lemessager.fr | frontend.prod.utiq-aws.net |
@@ -183,6 +188,7 @@
 | utiq.pnp.de | frontend.prod.utiq-aws.net |
 | utiq.programme.tv | frontend.prod.utiq-aws.net |
 | utiq.psychologies.com | frontend.prod.utiq-aws.net |
+| utiq.purepeople.com | frontend.prod.utiq-aws.net |
 | utiq.regio7.cat | frontend.prod.utiq-aws.net |
 | utiq.rireetchansons.fr | frontend.prod.utiq-aws.net |
 | utiq.rmcbfmplay.com | frontend.prod.utiq-aws.net |
@@ -218,6 +224,7 @@
 | utiq.usinger-anzeiger.de | frontend.prod.utiq-aws.net |
 | utiq.utest1-prod.work | frontend.prod.utiq-aws.net |
 | utiq.utopia.de | frontend.prod.utiq-aws.net |
+| utiq.verisure.fr | frontend.prod.utiq-aws.net |
 | utiq.vidaextra.com | frontend.prod.utiq-aws.net |
 | utiq.vitonica.com | frontend.prod.utiq-aws.net |
 | utiq.voici.fr | frontend.prod.utiq-aws.net |

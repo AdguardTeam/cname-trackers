@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -71,6 +71,7 @@ l.leparisien.fr CNAME .
 l.lepoint.fr CNAME .
 l.lequotidiendelart.com CNAME .
 l.letemps.ch CNAME .
+l.lexpress.fr CNAME .
 l.lindependant.fr CNAME .
 l.lunion.fr CNAME .
 l.madmoizelle.com CNAME .

@@ -34,7 +34,6 @@
 ||aiq-in.seventeen.com^
 ||aiq-in.skechers.ca^
 ||aiq-in.skechers.co.uk^
-||aiq-in.skechers.com^
 ||aiq-in.skechers.de^
 ||aiq-in.skechers.es^
 ||aiq-in.southwestvacations.com^

@@ -92,6 +92,7 @@
     * 378118469332445.wt-eu02.net
     * 390993738581837.wt-eu02.net
     * 412666916963576.wt-eu02.net
+    * 419688409688487.wt-eu02.net
     * 425587064188106.wt-eu02.net
     * 427813503923049.wt-eu02.net
     * 444170171787319.wt-eu02.net
@@ -148,7 +149,6 @@
     * 752542050590835.wt-eu02.net
     * 752828619977374.wt-eu02.net
     * 757421535252818.wt-eu02.net
-    * 762510246968705.wt-eu02.net
     * 769396664005295.wt-eu02.net
     * 770833460572104.wt-eu02.net
     * 790635424156780.wt-eu02.net
@@ -166,6 +166,7 @@
     * 849036415619964.wt-eu02.net
     * 849715076759606.wt-eu02.net
     * 865411762489824.wt-eu02.net
+    * 876354769224974.wt-eu02.net
     * 877361186099223.wt-eu02.net
     * 877979016491790.wt-eu02.net
     * 887450638197118.wt-eu02.net
@@ -194,7 +195,6 @@
     * berlinonline-02.wt-eu02.net
     * blume2000.wt-eu02.net
     * corporate-benefits.wt-eu02.net
-    * creditreform01.wt-eu02.net
     * creditreform02.wt-eu02.net
     * data-inbank01.wt-eu02.net
     * data-leipzig.wt-eu02.net
@@ -324,6 +324,7 @@
 | web.newsletter.koffer-to-go.de | 378118469332445.wt-eu02.net |
 | website-usage.b2bendix.com | 390993738581837.wt-eu02.net |
 | mff.messefrankfurt.com | 412666916963576.wt-eu02.net |
+| info.klett-international.com | 419688409688487.wt-eu02.net |
 | web.news.piquadro.com | 425587064188106.wt-eu02.net |
 | wbtrkk.teufelaudio.com | 427813503923049.wt-eu02.net |
 | mit.bhw.de | 444170171787319.wt-eu02.net |
@@ -404,7 +405,6 @@
 | wt.generalihealthsolutions.de | 752542050590835.wt-eu02.net |
 | wbtrkk.teufel.ch | 752828619977374.wt-eu02.net |
 | web.sidsavage.com | 757421535252818.wt-eu02.net |
-| is.lg.com | 762510246968705.wt-eu02.net |
 | t.mediaset.it | 769396664005295.wt-eu02.net |
 | w.m.nkl-peters.de | 770833460572104.wt-eu02.net |
 | web.communications.amouage.com | 790635424156780.wt-eu02.net |
@@ -425,6 +425,7 @@
 | mit.deutsche-bank.de | 849715076759606.wt-eu02.net |
 | wt.envivas.de | 865411762489824.wt-eu02.net |
 | wt.generalibewegtdeutschland.de | 865411762489824.wt-eu02.net |
+| info.der-gruene-max.ch | 876354769224974.wt-eu02.net |
 | web.news.turnbullandasser.co.uk | 877361186099223.wt-eu02.net |
 | mit.deutschebank.be | 877979016491790.wt-eu02.net |
 | trk.nuernberger.com | 887450638197118.wt-eu02.net |
@@ -475,8 +476,6 @@
 | text.mitarbeiterangebote.at | corporate-benefits.wt-eu02.net |
 | text.rahmenvereinbarungen.de | corporate-benefits.wt-eu02.net |
 | sub1.cosmosdirekt.de | cosmos01ssl.webtrekk.net |
-| fiwinet.firmenwissen.com | creditreform01.wt-eu02.net |
-| fiwinet.firmenwissen.de | creditreform01.wt-eu02.net |
 | webmet.creditreform.de | creditreform02.wt-eu02.net |
 | data.inbank.it | data-inbank01.wt-eu02.net |
 | data.leipzig.de | data-leipzig.wt-eu02.net |

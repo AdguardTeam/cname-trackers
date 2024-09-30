@@ -3,6 +3,7 @@
 data.decathlon.co.uk
 data.decathlon.es
 data.decathlon.fr
+data.decathlon.it
 data.decathlon.pl
 data.ubi.com
 data.wptag.net
@@ -10,10 +11,8 @@ logger.yp.ca
 sales.disneylandparis.com
 tagcommander.laredoute.be
 tagcommander.laredoute.ch
-acquisition.klm.com
 configure.adlermode.com
 data.auchandirect.fr
-data.decathlon.it
 data.ouigo.com
 data.ricaud.com
 tag.boulanger.fr

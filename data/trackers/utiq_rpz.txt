@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727078406820        ; Serial
+           1727683207586        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -29,6 +29,7 @@ utiq.750g.com CNAME .
 utiq.abc.es CNAME .
 utiq.actu.fr CNAME .
 utiq.aisnenouvelle.fr CNAME .
+utiq.allocine.fr CNAME .
 utiq.applesfera.com CNAME .
 utiq.ariva.de CNAME .
 utiq.atf-tagmanager.de CNAME .
@@ -61,6 +62,7 @@ utiq.courrier-picard.fr CNAME .
 utiq.cuisineactuelle.fr CNAME .
 utiq.dasgelbeblatt.de CNAME .
 utiq.desired.de CNAME .
+utiq.diariocordoba.com CNAME .
 utiq.diariodeibiza.es CNAME .
 utiq.diariodelaltoaragon.es CNAME .
 utiq.diariodemallorca.es CNAME .
@@ -72,8 +74,10 @@ utiq.donaukurier.de CNAME .
 utiq.easyvoyage.com CNAME .
 utiq.eatbetter.de CNAME .
 utiq.einfach-tasty.de CNAME .
+utiq.einfachkochen.de CNAME .
 utiq.elcomercio.es CNAME .
 utiq.elcorreo.com CNAME .
+utiq.elcorreogallego.es CNAME .
 utiq.eldia.es CNAME .
 utiq.eldiario.es CNAME .
 utiq.eldiariomontanes.es CNAME .
@@ -141,6 +145,7 @@ utiq.lasprovincias.es CNAME .
 utiq.laverdad.es CNAME .
 utiq.lavoixdunord.fr CNAME .
 utiq.lavozdigital.es CNAME .
+utiq.le10sport.com CNAME .
 utiq.lefigaro.fr CNAME .
 utiq.lejournaldelamaison.fr CNAME .
 utiq.lemessager.fr CNAME .
@@ -185,6 +190,7 @@ utiq.pleinevie.fr CNAME .
 utiq.pnp.de CNAME .
 utiq.programme.tv CNAME .
 utiq.psychologies.com CNAME .
+utiq.purepeople.com CNAME .
 utiq.regio7.cat CNAME .
 utiq.rireetchansons.fr CNAME .
 utiq.rmcbfmplay.com CNAME .
@@ -220,6 +226,7 @@ utiq.tz.de CNAME .
 utiq.usinger-anzeiger.de CNAME .
 utiq.utest1-prod.work CNAME .
 utiq.utopia.de CNAME .
+utiq.verisure.fr CNAME .
 utiq.vidaextra.com CNAME .
 utiq.vitonica.com CNAME .
 utiq.voici.fr CNAME .
