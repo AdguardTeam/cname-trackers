@@ -61,7 +61,6 @@
     * 215973748390194.wt-eu02.net
     * 227633596530844.wt-eu02.net
     * 229792913412288.wt-eu02.net
-    * 242612945948096.wt-eu02.net
     * 243341177383246.wt-eu02.net
     * 261826549347986.wt-eu02.net
     * 266905402333512.wt-eu02.net
@@ -100,14 +99,12 @@
     * 458677892662477.wt-eu02.net
     * 461208225315439.wt-eu02.net
     * 467284992404886.wt-eu02.net
-    * 467808562573270.wt-eu02.net
     * 470719744966924.wt-eu02.net
     * 475966354471123.wt-eu02.net
     * 481394388917209.wt-eu02.net
     * 482221458407393.wt-eu02.net
     * 484879729086450.wt-eu02.net
     * 489164258023327.wt-eu02.net
-    * 495967780350059.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
     * 545460378195639.wt-eu02.net
@@ -277,7 +274,6 @@
 | web.comunicazioni.iol.it | 215973748390194.wt-eu02.net |
 | web.collisionservices.com | 227633596530844.wt-eu02.net |
 | web.web.tomasiauto.com | 229792913412288.wt-eu02.net |
-| web.email.pmtonline.co.uk | 242612945948096.wt-eu02.net |
 | web.info.yeppon.it | 243341177383246.wt-eu02.net |
 | mit.postbank.de | 261826549347986.wt-eu02.net |
 | web.mapp.whiteaway.com | 266905402333512.wt-eu02.net |
@@ -332,7 +328,6 @@
 | w.ilfattoquotidiano.it | 458677892662477.wt-eu02.net |
 | web.mapp.ozone.bg | 461208225315439.wt-eu02.net |
 | web.email.pizzaexpress.com | 467284992404886.wt-eu02.net |
-| a.deutschehospitality.com | 467808562573270.wt-eu02.net |
 | webt.aqipa.com | 470719744966924.wt-eu02.net |
 | webt.eleonto.com | 470719744966924.wt-eu02.net |
 | webt.eu.teac-audio.com | 470719744966924.wt-eu02.net |
@@ -344,7 +339,6 @@
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
-| web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
@@ -574,7 +568,6 @@
 | wtm.interhyp.de | interhyp02.webtrekk.net |
 | data.charles-colby.com | janvanderstorm-01.wt-eu02.net |
 | data.janvanderstorm.de | janvanderstorm-01.wt-eu02.net |
-| data.shirtmaster.com | janvanderstorm-01.wt-eu02.net |
 | image.deginvest.de | kfw-05.webtrekk.net |
 | image.kfw-ipex-bank.de | kfw-06.webtrekk.net |
 | image.kfw-entwicklungsbank.de | kfw-07.webtrekk.net |

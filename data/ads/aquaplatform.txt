@@ -4,7 +4,6 @@
 ||adconsole.lot-tissimo.com^
 ||adconsole.sniffies.com^
 ||adimages.eva.live^
-||adimages.marriagetrac.com^
 ||adimages.sniffies.com^
 ||ads-delivery.milenarmedia.pt^
 ||ads-static.recon.com^

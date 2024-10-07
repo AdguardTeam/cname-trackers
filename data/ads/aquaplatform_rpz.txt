@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727683207586        ; Serial
+           1728288007245        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -15,7 +15,6 @@ adamsads.midtc.com CNAME .
 adconsole.lot-tissimo.com CNAME .
 adconsole.sniffies.com CNAME .
 adimages.eva.live CNAME .
-adimages.marriagetrac.com CNAME .
 adimages.sniffies.com CNAME .
 ads-delivery.milenarmedia.pt CNAME .
 ads-static.recon.com CNAME .

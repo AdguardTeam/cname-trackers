@@ -93,7 +93,6 @@
 | explore.bytelab.uk | custom.plausible.io |
 | external.techopian.com | custom.plausible.io |
 | extramilefloorcare.ericksonbuilt.com | custom.plausible.io |
-| f8phvntohv.tpetry.me | custom.plausible.io |
 | galop.leferacheval-saintcloud.com | custom.plausible.io |
 | hej.henriksommerfeld.se | custom.plausible.io |
 | hi.baudot.io | custom.plausible.io |
@@ -586,7 +585,6 @@
 | stats.jun-etan.com | custom.plausible.io |
 | stats.justinwilliams.ca | custom.plausible.io |
 | stats.kaladyaudiology.com | custom.plausible.io |
-| stats.katharinascheitz.com | custom.plausible.io |
 | stats.keirwhitaker.com | custom.plausible.io |
 | stats.kendix.org | custom.plausible.io |
 | stats.kensho.com | custom.plausible.io |

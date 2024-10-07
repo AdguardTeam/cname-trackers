@@ -128,8 +128,6 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em225.codecademy.com^
-||em8928.em.petco.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -273,7 +271,6 @@
 ||refer.issaonline.com^
 ||refer.itbed.com^
 ||refer.jewelersmutual.com^
-||refer.jiffynewark.com^
 ||refer.joann.com^
 ||refer.join1440.com^
 ||refer.jonesservices.com^
@@ -526,7 +523,6 @@
 ||share.firstleaf.com^
 ||share.floridatoday.com^
 ||share.freep.com^
-||share.fullbay.com^
 ||share.fundrive.savers.com^
 ||share.getsetup.io^
 ||share.getshyft.co.za^
@@ -558,7 +554,6 @@
 ||share.iteach.net^
 ||share.jacksonsun.com^
 ||share.jellybelly.com^
-||share.jhfcu.org^
 ||share.juicepress.com^
 ||share.juvlabs.com^
 ||share.key.com^
@@ -720,9 +715,11 @@
 ||www.referquickbooks.com^
 ||www.styleitforwardreward.com^
 ||em1476.princesscruises.com^
+||em225.codecademy.com^
 ||em3904.skillshare.com^
 ||em4367.raf-studentloans.discover.com^
 ||em8561.go2bank.com^
+||em8928.em.petco.com^
 ||em924.refer.starbucks.com^
 ||em9523.walmartmoneycard.com^
 ||xtl._domainkey.skillshare.com^

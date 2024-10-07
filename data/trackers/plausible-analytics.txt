@@ -80,7 +80,6 @@
 ||explore.bytelab.uk^
 ||external.techopian.com^
 ||extramilefloorcare.ericksonbuilt.com^
-||f8phvntohv.tpetry.me^
 ||galop.leferacheval-saintcloud.com^
 ||hej.henriksommerfeld.se^
 ||hi.baudot.io^
@@ -573,7 +572,6 @@
 ||stats.jun-etan.com^
 ||stats.justinwilliams.ca^
 ||stats.kaladyaudiology.com^
-||stats.katharinascheitz.com^
 ||stats.keirwhitaker.com^
 ||stats.kendix.org^
 ||stats.kensho.com^

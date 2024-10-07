@@ -200,7 +200,6 @@
 | cdn.adspmg.com | pamplin-static.aquaplatform.com |
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |
 | cdn.personare.com.br | personare-static.aquaplatform.com |
-| adimages.marriagetrac.com | platformiq-cdn.aquaplatform.com |
 | assets.lintigroup.se | platformiq-cdn.aquaplatform.com |
 | cdn.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | images.addurance.com | platformiq-cdn.aquaplatform.com |

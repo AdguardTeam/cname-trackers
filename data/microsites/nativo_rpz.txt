@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727683207586        ; Serial
+           1728288007245        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -33,7 +33,6 @@ sponsor.syracuse.com CNAME .
 0d0680cd65.692847aa83.com CNAME .
 0d0d40efa5.ff4caac512.com CNAME .
 0e49988bd9.66edbd8744.com CNAME .
-0ebc52a9c6.c981f87754.com CNAME .
 0f0249e503.533e4e8be4.com CNAME .
 116f21a281.7fbe2fd8a8.com CNAME .
 1173fc98f8.871981043f.com CNAME .
@@ -49,7 +48,6 @@ sponsor.syracuse.com CNAME .
 194c1ce74c.98492e1a06.com CNAME .
 195063d014.4156f3bca2.com CNAME .
 19cdb461a5.32f689042e.com CNAME .
-1b38ccf99a.bdcebeabc4.com CNAME .
 1b99c23583.d25ce885a1.com CNAME .
 1c51040bb6.5ae2bab9af.com CNAME .
 1d69b919f0.8d7274ff35.com CNAME .
@@ -139,7 +137,6 @@ sponsor.syracuse.com CNAME .
 6456462b8a.d5fb45ce94.com CNAME .
 64641981de.a1bc23fa98.com CNAME .
 651a584f5e.6c078023c1.com CNAME .
-65f952e85a.efebe8adb2.com CNAME .
 67153c6675.8f59f8d6a8.com CNAME .
 6941fec370.d97356bd34.com CNAME .
 69bd97630e.9460a8c99f.com CNAME .
@@ -149,7 +146,6 @@ sponsor.syracuse.com CNAME .
 6bcab443c6.633140e52a.com CNAME .
 6cdd6559e1.df077d05e6.com CNAME .
 710d2004bd.2febf24dda.com CNAME .
-71e67c8a8f.96c50eb804.com CNAME .
 72ce6311c9.deb6268bc5.com CNAME .
 7633474a73.4754bbb117.com CNAME .
 7655556e32.1366aab60d.com CNAME .
@@ -174,7 +170,6 @@ sponsor.syracuse.com CNAME .
 82eb7f5d59.6fe62b9eb9.com CNAME .
 831a48f85e.2635ebb1c1.com CNAME .
 84da976039.ea8e52e061.com CNAME .
-84eeafa1d9.f02fa5826c.com CNAME .
 85ce67f524.a50808b0d1.com CNAME .
 882e281cd8.44d100644b.com CNAME .
 8863ee5a75.fe70a4ad4b.com CNAME .
@@ -211,7 +206,6 @@ sponsor.syracuse.com CNAME .
 9e635b1caf.4afa370227.com CNAME .
 9f3c62edd5.b3742d97fe.com CNAME .
 9f3e28a3a8.d0e2c5fec6.com CNAME .
-a0603102f5.5a9b48f0db.com CNAME .
 a15d7c11f7.4e2c896383.com CNAME .
 a18707820b.20001d1a3a.com CNAME .
 a2cad384fc.1332bfac2b.com CNAME .
@@ -340,8 +334,6 @@ f905b11999.4895a69f7e.com CNAME .
 f95d80b33b.cf98a92559.com CNAME .
 f965b45a51.e25ebbeb6b.com CNAME .
 f9a0e80437.8ced271921.com CNAME .
-f9aaa709bf.3e7dd00231.com CNAME .
-f9fd749395.a49f4feabf.com CNAME .
 fbb10acfdf.e98d6d914e.com CNAME .
 fc2cea8e51.31a422feac.com CNAME .
 fc5f6008bc.6006833376.com CNAME .
@@ -350,27 +342,10 @@ fea6607a84.555dcda495.com CNAME .
 fee3f8a74a.aee4e77dc5.com CNAME .
 i.selecttopoff.com CNAME .
 i.statelinear.com CNAME .
-a135.wftv.com CNAME .
-a235.chron.com CNAME .
-a235.ctpost.com CNAME .
-a235.greenstate.com CNAME .
-a235.myjournalcourier.com CNAME .
-a235.mysanantonio.com CNAME .
-a235.nhregister.com CNAME .
-a235.registercitizen.com CNAME .
-a235.sfchronicle.com CNAME .
-a235.sfgate.com CNAME .
-a235.stamfordadvocate.com CNAME .
-a235.thehour.com CNAME .
-a235.thetelegraph.com CNAME .
-a235.timesunion.com CNAME .
-mlive.share.ntv.io CNAME .
-share.ntv.io CNAME .
-shared.sponsoredcontent.com CNAME .
 34bde6a6d2.7363b17589.com CNAME .
 6b617ecc3b.877faa781e.com CNAME .
-bbb3badef0.d7fea0b8c4.com CNAME .
 a135.fox23.com CNAME .
+a135.wftv.com CNAME .
 a135.wpxi.com CNAME .
 a135.wsbtv.com CNAME .
 a135.wsoctv.com CNAME .
@@ -379,18 +354,34 @@ a614.masslive.com CNAME .
 a614.mlive.com CNAME .
 a614.nj.com CNAME .
 a614.pennlive.com CNAME .
+mlive.share.ntv.io CNAME .
 nj.finegardening.com CNAME .
+share.ntv.io CNAME .
+shared.sponsoredcontent.com CNAME .
 silive.share.ntv.io CNAME .
 a235.beaumontenterprise.com CNAME .
+a235.chron.com CNAME .
+a235.ctpost.com CNAME .
 a235.gametimect.com CNAME .
+a235.greenstate.com CNAME .
 a235.greenwichtime.com CNAME .
 a235.lmtonline.com CNAME .
 a235.michigansthumb.com CNAME .
 a235.middletownpress.com CNAME .
 a235.mrt.com CNAME .
+a235.myjournalcourier.com CNAME .
 a235.myplainview.com CNAME .
+a235.mysanantonio.com CNAME .
 a235.newstimes.com CNAME .
+a235.nhregister.com CNAME .
 a235.ourmidland.com CNAME .
+a235.registercitizen.com CNAME .
 a235.seattlepi.com CNAME .
+a235.sfchronicle.com CNAME .
+a235.sfgate.com CNAME .
+a235.stamfordadvocate.com CNAME .
+a235.thehour.com CNAME .
 a235.theintelligencer.com CNAME .
+a235.thetelegraph.com CNAME .
+a235.timesunion.com CNAME .
 img.nativo.net CNAME .

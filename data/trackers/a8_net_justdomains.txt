@@ -49,7 +49,6 @@ a8.buddyup.shop
 a8.buvlabo.com
 a8.calmia-clinic.com
 a8.careecen-shukatsu-agent.com
-a8.career.rexit.co.jp
 a8.careerpark.jp
 a8.casie.jp
 a8.cbd-cosme.jp
@@ -286,7 +285,6 @@ a8.smp.shanon.co.jp
 a8.soelu.com
 a8.softbank-hikari.jp
 a8.sommelier.gift
-a8.sp-hoken.net
 a8.speever.jp
 a8.ssl.aispr.jp
 a8.st.oddspark.com
@@ -923,7 +921,6 @@ a8cv.gaikouexterior-partners.jp
 a8cv.gakuen.omobic.com
 a8cv.gb-chat.com
 a8cv.gbset.jp
-a8cv.genesis-nipt.com
 a8cv.gigabaito.com
 a8cv.gimuiko.com
 a8cv.global-dive.jp
@@ -1051,7 +1048,6 @@ a8cv.memberpay.jp
 a8cv.members.race.sanspo.com
 a8cv.menina-joue.jp
 a8cv.mentors-lwc.com
-a8cv.mi-vision.co.jp
 a8cv.minana-jp.com
 a8cv.mitaina.tokyo
 a8cv.mobabiji.jp
@@ -1176,7 +1172,6 @@ a8cv.shimomoto-cl.co.jp
 a8cv.shokubun.ec-design.co.jp
 a8cv.shokunosoyokaze.com
 a8cv.shop.matsuo1956.jp
-a8cv.shop.mintme.jp
 a8cv.shop.pixela.jp
 a8cv.shop.solve-grp.com
 a8cv.sibody.co.jp
@@ -1472,7 +1467,6 @@ cv.mamaikuko.jp
 cv.masteraxis.com
 cv.meo.tryhatch.co.jp
 cv.michiuru.jp
-cv.moena-eatstyle.net
 cv.mupla-ab3.com
 cv.my-lancul.com
 cv.nell.life

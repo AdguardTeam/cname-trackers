@@ -128,7 +128,6 @@
 ||cdnfp.lexisnexisrisk.com^
 ||cdnfp.lexisnexisrisk.eu^
 ||cdnm.sts.pl^
-||cdns.moneyplace.com.au^
 ||cdnt.duobank.com^
 ||cdnt.walmartrewards.ca^
 ||cdntm.expat.hsbc.com^

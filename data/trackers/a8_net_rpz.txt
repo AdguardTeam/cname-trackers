@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727683207586        ; Serial
+           1728288007245        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -60,7 +60,6 @@ a8.buddyup.shop CNAME .
 a8.buvlabo.com CNAME .
 a8.calmia-clinic.com CNAME .
 a8.careecen-shukatsu-agent.com CNAME .
-a8.career.rexit.co.jp CNAME .
 a8.careerpark.jp CNAME .
 a8.casie.jp CNAME .
 a8.cbd-cosme.jp CNAME .
@@ -297,7 +296,6 @@ a8.smp.shanon.co.jp CNAME .
 a8.soelu.com CNAME .
 a8.softbank-hikari.jp CNAME .
 a8.sommelier.gift CNAME .
-a8.sp-hoken.net CNAME .
 a8.speever.jp CNAME .
 a8.ssl.aispr.jp CNAME .
 a8.st.oddspark.com CNAME .
@@ -934,7 +932,6 @@ a8cv.gaikouexterior-partners.jp CNAME .
 a8cv.gakuen.omobic.com CNAME .
 a8cv.gb-chat.com CNAME .
 a8cv.gbset.jp CNAME .
-a8cv.genesis-nipt.com CNAME .
 a8cv.gigabaito.com CNAME .
 a8cv.gimuiko.com CNAME .
 a8cv.global-dive.jp CNAME .
@@ -1062,7 +1059,6 @@ a8cv.memberpay.jp CNAME .
 a8cv.members.race.sanspo.com CNAME .
 a8cv.menina-joue.jp CNAME .
 a8cv.mentors-lwc.com CNAME .
-a8cv.mi-vision.co.jp CNAME .
 a8cv.minana-jp.com CNAME .
 a8cv.mitaina.tokyo CNAME .
 a8cv.mobabiji.jp CNAME .
@@ -1187,7 +1183,6 @@ a8cv.shimomoto-cl.co.jp CNAME .
 a8cv.shokubun.ec-design.co.jp CNAME .
 a8cv.shokunosoyokaze.com CNAME .
 a8cv.shop.matsuo1956.jp CNAME .
-a8cv.shop.mintme.jp CNAME .
 a8cv.shop.pixela.jp CNAME .
 a8cv.shop.solve-grp.com CNAME .
 a8cv.sibody.co.jp CNAME .
@@ -1483,7 +1478,6 @@ cv.mamaikuko.jp CNAME .
 cv.masteraxis.com CNAME .
 cv.meo.tryhatch.co.jp CNAME .
 cv.michiuru.jp CNAME .
-cv.moena-eatstyle.net CNAME .
 cv.mupla-ab3.com CNAME .
 cv.my-lancul.com CNAME .
 cv.nell.life CNAME .

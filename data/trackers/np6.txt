@@ -957,7 +957,6 @@
 ||tr.preventivo.risparmiazienda.it^
 ||tr.pro-renov.be^
 ||tr.pro.odalys-vacances.com^
-||tr.pro.residencehappysenior.fr^
 ||tr.pro.sgit.net^
 ||tr.programme-voyageur-sncf.com^
 ||tr.projet.cotemaison.fr^

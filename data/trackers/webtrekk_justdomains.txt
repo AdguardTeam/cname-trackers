@@ -39,7 +39,6 @@ webts.adac.de
 wt.distrelec.com
 wtm.interhyp.de
 www7.springer.com
-a.deutschehospitality.com
 a.hrewards.com
 a.jaz-hotel.com
 a.maxxhotel.com
@@ -82,7 +81,6 @@ data.main-ding.de
 data.mainpost.de
 data.mapp.com
 data.mediaworld.it
-data.shirtmaster.com
 data.vdi-wissensforum.de
 data.volksfreund.de
 data.westlotto.de
@@ -285,7 +283,6 @@ web.e.soakaways.com
 web.email.farrow-ball.com
 web.email.mishimoto.co.uk
 web.email.pizzaexpress.com
-web.email.pmtonline.co.uk
 web.email.superga.co.uk
 web.email.topfarmacia.it
 web.email.turtlebay.co.uk
@@ -317,7 +314,6 @@ web.mapp.whiteaway.com
 web.mapp.whiteaway.no
 web.mapp.whiteaway.se
 web.marcotozzi.com
-web.marketing.jellybelly.com
 web.mytoys.de
 web.news.bottegaverde.com
 web.news.creedfragrances.co.uk
@@ -412,3 +408,4 @@ wttd.madeleine.co.uk
 wttd.madeleine.de
 wttd.madeleine.fr
 wttd.madeleine.gr
+web.marketing.jellybelly.com

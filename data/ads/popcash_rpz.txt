@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727683207586        ; Serial
+           1728288007245        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -218,7 +218,6 @@ aphid.smartjournal.no CNAME .
 aphid.thyself.me CNAME .
 armadillo.axeneo7.qc.ca CNAME .
 armadillo.oceandecadenortheastpacific.org CNAME .
-armadillo.stacking.club CNAME .
 armadillo.superpeak.dk CNAME .
 asp.ashesashes.org CNAME .
 asp.brightmachine.uk CNAME .
@@ -280,7 +279,6 @@ boar.indieweb.org CNAME .
 boar.kostholdsveilederen.no CNAME .
 bobcat.pronounce.technology CNAME .
 bobcat.snapshooter.io CNAME .
-booby.deanyeong.com CNAME .
 boom.laravel.io CNAME .
 bovid.docutize.de CNAME .
 bovid.neural.love CNAME .
@@ -435,7 +433,6 @@ dormouse.consentkit.com CNAME .
 dormouse.nektarium.de CNAME .
 dove.hoku.nz CNAME .
 dragon.codemakes.art CNAME .
-dragon.codequeen.io CNAME .
 dragon.sh2.com CNAME .
 dragonfly.filmmakerfreedom.com CNAME .
 dragonfly.jala-one.com CNAME .
@@ -590,7 +587,6 @@ horse.rmrk.app CNAME .
 horse.usemiso.com CNAME .
 horse.vesuvius-publishing.com CNAME .
 horse.zwei-bags.com CNAME .
-hoverfly.1pageimpact.com.au CNAME .
 hoverfly.cdengine.co.uk CNAME .
 hoverfly.cyberbytesinc.com CNAME .
 hoverfly.dailyblocks.tv CNAME .
@@ -605,7 +601,6 @@ i5ixiwch2f.themakersmob.com CNAME .
 iguana.cypressridge-pca.org CNAME .
 iguana.delbaoliveira.com CNAME .
 iguana.indigospot.com CNAME .
-iguana.vivere.co CNAME .
 ijogkae.churchserviceplanner.co.uk CNAME .
 impala.vnv.nl CNAME .
 ipgeaif.blairmacintyre.me CNAME .
@@ -626,7 +621,6 @@ kingfisher.wishloom.com CNAME .
 kite.cardneyestate.co.uk CNAME .
 kite.devin.website CNAME .
 kite.ibirthdayclub.com CNAME .
-kite.kochie.io CNAME .
 kite.launchcdn.com CNAME .
 kite.oakes.software CNAME .
 kite.zaahir.ca CNAME .
@@ -650,7 +644,6 @@ krill.far.site CNAME .
 krill.spoonrage.com CNAME .
 krill.swiss-uke.ch CNAME .
 ks42zt.spec.fm CNAME .
-ladybug.dfour.space CNAME .
 ladybug.ficabo.com CNAME .
 ladybug.paulstovell.com CNAME .
 lamprey.carolcassar.com CNAME .
@@ -686,7 +679,6 @@ llama.lobbly.com CNAME .
 llama.mallardbay.com CNAME .
 llama.vivriticapital.com CNAME .
 lobster.justunderwear.com CNAME .
-lobster.tonebleed.com CNAME .
 locust.ausrebellion.earth CNAME .
 loon.analogjoe.com CNAME .
 loon.davidalindahl.com CNAME .
@@ -912,7 +904,6 @@ sailfish.youracademycommunity.com CNAME .
 salamander.augmentedmind.io CNAME .
 salamander.showandtelldata.com CNAME .
 salamander.yourownpay.com CNAME .
-salmon.literallife.church CNAME .
 salmon.thespiritualpsychologist.co.uk CNAME .
 sawfish.black-forest-digital.de CNAME .
 sawfish.hxd-lab.de CNAME .
@@ -1046,7 +1037,6 @@ trout.travelmassive.com CNAME .
 trout.unicornplatform.com CNAME .
 tuna.ajaymantri.com CNAME .
 tuna.purplespider.com CNAME .
-turkey.codeness.io CNAME .
 turkey.docsy.cloud CNAME .
 turkey.tella.tv CNAME .
 turtle.geshem.space CNAME .
@@ -1062,7 +1052,6 @@ vampirebat.tinamrak.com CNAME .
 vicuna.callisoma.com CNAME .
 vicuna.casa-moebel.at CNAME .
 vicuna.equity.no CNAME .
-vicuna.fortbinary.com CNAME .
 vicuna.joblicant.de CNAME .
 viper.kyrelldixon.com CNAME .
 viper.sitesauce.app CNAME .
@@ -1167,7 +1156,6 @@ adserve.bongocdn.com CNAME .
 assets.diagomics.com CNAME .
 bcdn.cpmstar.com CNAME .
 caribou.clintgwinter.com CNAME .
-flea.artisan.school CNAME .
 cdn-b.notsy.io CNAME .
 cdn.admatic.com.tr CNAME .
 cdn.adsninja.ca CNAME .

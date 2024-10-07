@@ -9,6 +9,8 @@
 
 * api.clickaine.com
 * 548260.parkingcrew.net
+* 77980.bodis.com
+* u53.hypnorat.com
 
 ## Cloaking domains
 
@@ -146,7 +148,6 @@
 | a.rule34.porn | 0i0i0i0.com |
 | a.seksohub.com | 0i0i0i0.com |
 | a.shemale99.com | 0i0i0i0.com |
-| a.shubatuuuu.site | 0i0i0i0.com |
 | a.smut.cc | 0i0i0i0.com |
 | a.spyad.cc | 0i0i0i0.com |
 | a.suptube.com | 0i0i0i0.com |
@@ -237,7 +238,6 @@
 | arabs.xn--ngbs7dg.net | 0i0i0i0.com |
 | arabss.arabxn.org | 0i0i0i0.com |
 | ars.bloblohub.com | 0i0i0i0.com |
-| ars.comicarab.com | 0i0i0i0.com |
 | as.ebacdn.com | 0i0i0i0.com |
 | as.ebalovo.adult | 0i0i0i0.com |
 | as.hobby.porn | 0i0i0i0.com |
@@ -246,7 +246,6 @@
 | as.pomcdn.com | 0i0i0i0.com |
 | as1.maturexxx.vip | 0i0i0i0.com |
 | ascc.javquick.com | 0i0i0i0.com |
-| asdascvf.f3tdfgvse.site | 0i0i0i0.com |
 | asdf.eldos.xyz | 0i0i0i0.com |
 | asds.hentaitimes.com | 0i0i0i0.com |
 | asg.animehdl.net | 0i0i0i0.com |
@@ -348,7 +347,6 @@
 | cdn.2024jphatomenesys36.top | 0i0i0i0.com |
 | cdn.sdtraff.com | 0i0i0i0.com |
 | cdn.throatbulge.com | 0i0i0i0.com |
-| cdn.yenidwa.com | 0i0i0i0.com |
 | cdn2up.com | 0i0i0i0.com |
 | cdn3.cartoonporn.to | 0i0i0i0.com |
 | cdn3.hentaihand.com | 0i0i0i0.com |
@@ -505,7 +503,6 @@
 | growjav11.fun | 0i0i0i0.com |
 | gruesome1x.xyz | 0i0i0i0.com |
 | gsa24.giaythethaonuhcm.com | 0i0i0i0.com |
-| h-ay.com | 0i0i0i0.com |
 | h.bloblohub.com | 0i0i0i0.com |
 | h037n.letsporn.com | 0i0i0i0.com |
 | haixomz.xyz | 0i0i0i0.com |
@@ -594,7 +591,6 @@
 | js.manga1000.top | 0i0i0i0.com |
 | js.manga1001.win | 0i0i0i0.com |
 | js.mangajp.top | 0i0i0i0.com |
-| js.mangakl.su | 0i0i0i0.com |
 | js.mangalove.top | 0i0i0i0.com |
 | js.phoenixmanga.com | 0i0i0i0.com |
 | js.syosetu.top | 0i0i0i0.com |
@@ -634,7 +630,6 @@
 | m.bloblohub.com | 0i0i0i0.com |
 | m.x-power.info | 0i0i0i0.com |
 | m.xrum.info | 0i0i0i0.com |
-| m9xp1.hentaigold.net | 0i0i0i0.com |
 | makejav11.fun | 0i0i0i0.com |
 | mamamia.vintageporno.stream | 0i0i0i0.com |
 | manboo.xyz | 0i0i0i0.com |
@@ -726,7 +721,6 @@
 | oldsia.xyz | 0i0i0i0.com |
 | omission119.fun | 0i0i0i0.com |
 | onacao.com | 0i0i0i0.com |
-| ontj.com | 0i0i0i0.com |
 | opus.sexyxxx.biz | 0i0i0i0.com |
 | organize3452.fun | 0i0i0i0.com |
 | ox8.topsexhdvideos.com | 0i0i0i0.com |
@@ -788,7 +782,6 @@
 | q.leru.xyz | 0i0i0i0.com |
 | q.roovs.xyz | 0i0i0i0.com |
 | q.tubetruck.com | 0i0i0i0.com |
-| qhip.com | 0i0i0i0.com |
 | qiaoxz.xyz | 0i0i0i0.com |
 | qovua60gue.tubewolf.com | 0i0i0i0.com |
 | qsdr.mysunnylawn.com | 0i0i0i0.com |
@@ -871,7 +864,6 @@
 | scottk.hubhubhub.name | 0i0i0i0.com |
 | scrapejav128.fun | 0i0i0i0.com |
 | sda.seksohub.com | 0i0i0i0.com |
-| sdfdfff.flelgwe.site | 0i0i0i0.com |
 | sdfgggse.sieglinde22.xyz | 0i0i0i0.com |
 | sdg.desihamster.pro | 0i0i0i0.com |
 | sdg.fwtrck.com | 0i0i0i0.com |
@@ -1018,7 +1010,6 @@
 | x.xxxxxx.name | 0i0i0i0.com |
 | x1-24.fin.ovh | 0i0i0i0.com |
 | x1cdn.fin.ovh | 0i0i0i0.com |
-| x2c1v4.hentaigold.net | 0i0i0i0.com |
 | x2sfa.javgg.eu | 0i0i0i0.com |
 | x9ner.anygay.com | 0i0i0i0.com |
 | xn--q1a.bloblohub.com | 0i0i0i0.com |
@@ -1044,6 +1035,8 @@
 | zone.pornlovo.co | 0i0i0i0.com |
 | zv.7vid.net | 0i0i0i0.com |
 | adanad.name | 548260.parkingcrew.net |
+| asdascvf.f3tdfgvse.site | 77980.bodis.com |
+| sdfdfff.flelgwe.site | 77980.bodis.com |
 | ad.desibp.com | api.clickaine.com |
 | addin.name | u50.0i0i0i0.com |
 | ads-xtits.pro | u50.0i0i0i0.com |
@@ -1059,3 +1052,4 @@
 | www.adxhand.name | u50.0i0i0i0.com |
 | www.adzilla.name | u50.0i0i0i0.com |
 | www.hq3x.com | u50.0i0i0i0.com |
+| ontj.com | u53.hypnorat.com |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727683207586        ; Serial
+           1728288007245        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -50,7 +50,6 @@ webts.adac.de CNAME .
 wt.distrelec.com CNAME .
 wtm.interhyp.de CNAME .
 www7.springer.com CNAME .
-a.deutschehospitality.com CNAME .
 a.hrewards.com CNAME .
 a.jaz-hotel.com CNAME .
 a.maxxhotel.com CNAME .
@@ -93,7 +92,6 @@ data.main-ding.de CNAME .
 data.mainpost.de CNAME .
 data.mapp.com CNAME .
 data.mediaworld.it CNAME .
-data.shirtmaster.com CNAME .
 data.vdi-wissensforum.de CNAME .
 data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
@@ -296,7 +294,6 @@ web.e.soakaways.com CNAME .
 web.email.farrow-ball.com CNAME .
 web.email.mishimoto.co.uk CNAME .
 web.email.pizzaexpress.com CNAME .
-web.email.pmtonline.co.uk CNAME .
 web.email.superga.co.uk CNAME .
 web.email.topfarmacia.it CNAME .
 web.email.turtlebay.co.uk CNAME .
@@ -328,7 +325,6 @@ web.mapp.whiteaway.com CNAME .
 web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
 web.marcotozzi.com CNAME .
-web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.bottegaverde.com CNAME .
 web.news.creedfragrances.co.uk CNAME .
@@ -423,3 +419,4 @@ wttd.madeleine.co.uk CNAME .
 wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
+web.marketing.jellybelly.com CNAME .

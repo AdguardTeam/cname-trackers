@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727683207586        ; Serial
+           1728288007245        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -143,7 +143,6 @@ a.rheinz.online CNAME .
 a.rule34.porn CNAME .
 a.seksohub.com CNAME .
 a.shemale99.com CNAME .
-a.shubatuuuu.site CNAME .
 a.smut.cc CNAME .
 a.spyad.cc CNAME .
 a.suptube.com CNAME .
@@ -240,7 +239,6 @@ arabs.xn--ngboe5a6f.com CNAME .
 arabs.xn--ngbs7dg.net CNAME .
 arabss.arabxn.org CNAME .
 ars.bloblohub.com CNAME .
-ars.comicarab.com CNAME .
 as.ebacdn.com CNAME .
 as.ebalovo.adult CNAME .
 as.hobby.porn CNAME .
@@ -249,7 +247,6 @@ as.lenkino.adult CNAME .
 as.pomcdn.com CNAME .
 as1.maturexxx.vip CNAME .
 ascc.javquick.com CNAME .
-asdascvf.f3tdfgvse.site CNAME .
 asdf.eldos.xyz CNAME .
 asds.hentaitimes.com CNAME .
 asg.animehdl.net CNAME .
@@ -351,7 +348,6 @@ cdn.2024jphatomenesys35.top CNAME .
 cdn.2024jphatomenesys36.top CNAME .
 cdn.sdtraff.com CNAME .
 cdn.throatbulge.com CNAME .
-cdn.yenidwa.com CNAME .
 cdn2up.com CNAME .
 cdn3.cartoonporn.to CNAME .
 cdn3.hentaihand.com CNAME .
@@ -509,7 +505,6 @@ grizzling33.fun CNAME .
 growjav11.fun CNAME .
 gruesome1x.xyz CNAME .
 gsa24.giaythethaonuhcm.com CNAME .
-h-ay.com CNAME .
 h.bloblohub.com CNAME .
 h037n.letsporn.com CNAME .
 haixomz.xyz CNAME .
@@ -600,7 +595,6 @@ js.j8jp.com CNAME .
 js.manga1000.top CNAME .
 js.manga1001.win CNAME .
 js.mangajp.top CNAME .
-js.mangakl.su CNAME .
 js.mangalove.top CNAME .
 js.phoenixmanga.com CNAME .
 js.syosetu.top CNAME .
@@ -640,7 +634,6 @@ lx5.homeporntuber.com CNAME .
 m.bloblohub.com CNAME .
 m.x-power.info CNAME .
 m.xrum.info CNAME .
-m9xp1.hentaigold.net CNAME .
 makejav11.fun CNAME .
 makumva.all-usanomination.com CNAME .
 mamamia.vintageporno.stream CNAME .
@@ -733,7 +726,6 @@ okkodoo.com CNAME .
 oldsia.xyz CNAME .
 omission119.fun CNAME .
 onacao.com CNAME .
-ontj.com CNAME .
 opus.sexyxxx.biz CNAME .
 organize3452.fun CNAME .
 ox8.topsexhdvideos.com CNAME .
@@ -795,7 +787,6 @@ q.kvovs.xyz CNAME .
 q.leru.xyz CNAME .
 q.roovs.xyz CNAME .
 q.tubetruck.com CNAME .
-qhip.com CNAME .
 qiaoxz.xyz CNAME .
 qovua60gue.tubewolf.com CNAME .
 qsdr.mysunnylawn.com CNAME .
@@ -878,7 +869,6 @@ satmon.neekstore.com CNAME .
 scottk.hubhubhub.name CNAME .
 scrapejav128.fun CNAME .
 sda.seksohub.com CNAME .
-sdfdfff.flelgwe.site CNAME .
 sdfgggse.sieglinde22.xyz CNAME .
 sdg.desihamster.pro CNAME .
 sdg.fwtrck.com CNAME .
@@ -1029,7 +1019,6 @@ x.xxxmovies.fun CNAME .
 x.xxxxxx.name CNAME .
 x1-24.fin.ovh CNAME .
 x1cdn.fin.ovh CNAME .
-x2c1v4.hentaigold.net CNAME .
 x2sfa.javgg.eu CNAME .
 x9ner.anygay.com CNAME .
 xn--q1a.bloblohub.com CNAME .
@@ -1056,3 +1045,6 @@ zone.pornlovo.co CNAME .
 zv.7vid.net CNAME .
 ad.desibp.com CNAME .
 adanad.name CNAME .
+asdascvf.f3tdfgvse.site CNAME .
+sdfdfff.flelgwe.site CNAME .
+ontj.com CNAME .

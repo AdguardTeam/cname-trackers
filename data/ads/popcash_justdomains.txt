@@ -207,7 +207,6 @@ aphid.smartjournal.no
 aphid.thyself.me
 armadillo.axeneo7.qc.ca
 armadillo.oceandecadenortheastpacific.org
-armadillo.stacking.club
 armadillo.superpeak.dk
 asp.ashesashes.org
 asp.brightmachine.uk
@@ -269,7 +268,6 @@ boar.indieweb.org
 boar.kostholdsveilederen.no
 bobcat.pronounce.technology
 bobcat.snapshooter.io
-booby.deanyeong.com
 boom.laravel.io
 bovid.docutize.de
 bovid.neural.love
@@ -424,7 +422,6 @@ dormouse.consentkit.com
 dormouse.nektarium.de
 dove.hoku.nz
 dragon.codemakes.art
-dragon.codequeen.io
 dragon.sh2.com
 dragonfly.filmmakerfreedom.com
 dragonfly.jala-one.com
@@ -579,7 +576,6 @@ horse.rmrk.app
 horse.usemiso.com
 horse.vesuvius-publishing.com
 horse.zwei-bags.com
-hoverfly.1pageimpact.com.au
 hoverfly.cdengine.co.uk
 hoverfly.cyberbytesinc.com
 hoverfly.dailyblocks.tv
@@ -594,7 +590,6 @@ i5ixiwch2f.themakersmob.com
 iguana.cypressridge-pca.org
 iguana.delbaoliveira.com
 iguana.indigospot.com
-iguana.vivere.co
 ijogkae.churchserviceplanner.co.uk
 impala.vnv.nl
 ipgeaif.blairmacintyre.me
@@ -615,7 +610,6 @@ kingfisher.wishloom.com
 kite.cardneyestate.co.uk
 kite.devin.website
 kite.ibirthdayclub.com
-kite.kochie.io
 kite.launchcdn.com
 kite.oakes.software
 kite.zaahir.ca
@@ -639,7 +633,6 @@ krill.far.site
 krill.spoonrage.com
 krill.swiss-uke.ch
 ks42zt.spec.fm
-ladybug.dfour.space
 ladybug.ficabo.com
 ladybug.paulstovell.com
 lamprey.carolcassar.com
@@ -675,7 +668,6 @@ llama.lobbly.com
 llama.mallardbay.com
 llama.vivriticapital.com
 lobster.justunderwear.com
-lobster.tonebleed.com
 locust.ausrebellion.earth
 loon.analogjoe.com
 loon.davidalindahl.com
@@ -901,7 +893,6 @@ sailfish.youracademycommunity.com
 salamander.augmentedmind.io
 salamander.showandtelldata.com
 salamander.yourownpay.com
-salmon.literallife.church
 salmon.thespiritualpsychologist.co.uk
 sawfish.black-forest-digital.de
 sawfish.hxd-lab.de
@@ -1035,7 +1026,6 @@ trout.travelmassive.com
 trout.unicornplatform.com
 tuna.ajaymantri.com
 tuna.purplespider.com
-turkey.codeness.io
 turkey.docsy.cloud
 turkey.tella.tv
 turtle.geshem.space
@@ -1051,7 +1041,6 @@ vampirebat.tinamrak.com
 vicuna.callisoma.com
 vicuna.casa-moebel.at
 vicuna.equity.no
-vicuna.fortbinary.com
 vicuna.joblicant.de
 viper.kyrelldixon.com
 viper.sitesauce.app
@@ -1156,7 +1145,6 @@ adserve.bongocdn.com
 assets.diagomics.com
 bcdn.cpmstar.com
 caribou.clintgwinter.com
-flea.artisan.school
 cdn-b.notsy.io
 cdn.admatic.com.tr
 cdn.adsninja.ca

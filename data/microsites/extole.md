@@ -221,7 +221,6 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
-    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -288,7 +287,6 @@
     * freshly-sandbox.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
-    * fullbay.extole.io
     * g2.extole.io
     * gannett.extole.io
     * gap-canada.extole.io
@@ -342,7 +340,6 @@
     * iteach.extole.io
     * jellybelly.extole.io
     * jewelersmutual.extole.io
-    * jhfcu.extole.io
     * joann.extole.io
     * join1440.extole.io
     * jonesservices.extole.io
@@ -424,7 +421,6 @@
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
-    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -738,7 +734,6 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
-| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -833,7 +828,6 @@
 | externalreferral.freshworks.com | freshworks.extole.io |
 | internalreferral.freshworks.com | freshworks.extole.io |
 | refer.frontgate.com | frontgate.extole.io |
-| share.fullbay.com | fullbay.extole.io |
 | refer.fuzebox.com | fuzebox-ssl.extole.com |
 | refer.g2.com | g2.extole.io |
 | share.app.com | gannett.extole.io |
@@ -955,7 +949,6 @@
 | refer.jacksonsun.com | jacksonsun.extole.com |
 | share.jellybelly.com | jellybelly.extole.io |
 | refer.jewelersmutual.com | jewelersmutual.extole.io |
-| share.jhfcu.org | jhfcu.extole.io |
 | refer.joann.com | joann.extole.io |
 | refer.johnson.ca | johnson.extole.com |
 | refer.join1440.com | join1440.extole.io |
@@ -1080,7 +1073,6 @@
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
-| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |
@@ -1105,7 +1097,6 @@
 | refer.procore.com | procore.extole.io |
 | refer.proflowers.com | proflowers-ssl.extole.com |
 | refer.prokeds.com | prokeds.extole.io |
-| refer.jiffynewark.com | propark.extole.io |
 | refer.pvdparking.com | propark.extole.io |
 | refer.psecu.com | psecu.extole.io |
 | refer.purchasingpower.com | purchasingpower.extole.com |

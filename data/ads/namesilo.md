@@ -7,8 +7,6 @@
     * ka8ing2z.ab1n.net
     * tk6if76q.ab1n.net
     * tk6if76r.ab1n.net
-    * v3j9t5q9.ab1n.net
-    * w2u4v9e1.ab1n.net
     * x0xmrxm4.ab1n.net
     * x0xmrxm5.ab1n.net
 
@@ -1422,57 +1420,17 @@
 | www.notifysrv.com | tk6if76q.ab1n.net |
 | www.survey.notifysrv.com | tk6if76q.ab1n.net |
 | s.exv6.com | tk6if76r.ab1n.net |
-| admin.adnation.com | v3j9t5q9.ab1n.net |
-| admin.datingclix.com | v3j9t5q9.ab1n.net |
-| admin.etology.com | v3j9t5q9.ab1n.net |
-| admin.gettopple.com | v3j9t5q9.ab1n.net |
-| admin.redpathmedia.com | v3j9t5q9.ab1n.net |
-| admin.rocoads.net | v3j9t5q9.ab1n.net |
-| admin.shafttraffic.com | v3j9t5q9.ab1n.net |
-| admin.trafficbaron.com | v3j9t5q9.ab1n.net |
-| admin.trafficfactory.com | v3j9t5q9.ab1n.net |
-| a.18ramp.com | w2u4v9e1.ab1n.net |
-| a.344eva.com | w2u4v9e1.ab1n.net |
-| a.addisplaynetwork.com | w2u4v9e1.ab1n.net |
-| a.adsession.com | w2u4v9e1.ab1n.net |
-| a.advantageclicks.net | w2u4v9e1.ab1n.net |
-| a.advertrek.com | w2u4v9e1.ab1n.net |
-| a.asvsm.com | w2u4v9e1.ab1n.net |
-| a.b7q9v8z.com | w2u4v9e1.ab1n.net |
-| a.cant3am.com | w2u4v9e1.ab1n.net |
-| a.etology.com | w2u4v9e1.ab1n.net |
-| a.eunow4u.com | w2u4v9e1.ab1n.net |
-| a.ma3ion.com | w2u4v9e1.ab1n.net |
-| a.n4m5x60.com | w2u4v9e1.ab1n.net |
-| a.optimizesrv.com | w2u4v9e1.ab1n.net |
-| a.playa.to | w2u4v9e1.ab1n.net |
-| a.q88z1s3.com | w2u4v9e1.ab1n.net |
-| a.r8lnet.com | w2u4v9e1.ab1n.net |
-| a.redpathmedia.com | w2u4v9e1.ab1n.net |
-| a.rocoads.net | w2u4v9e1.ab1n.net |
-| a.santabrowser.com | w2u4v9e1.ab1n.net |
-| a.slice.exchange | w2u4v9e1.ab1n.net |
-| a.stuffserve.com | w2u4v9e1.ab1n.net |
-| a.tf4srv.com | w2u4v9e1.ab1n.net |
-| a.traffic-gold.com | w2u4v9e1.ab1n.net |
-| a.vws4brkfst.com | w2u4v9e1.ab1n.net |
-| delivery.gettopple.com | w2u4v9e1.ab1n.net |
 | *.exaapi.com | x0xmrxm4.ab1n.net |
 | admin.adnation.com | x0xmrxm4.ab1n.net |
 | admin.datingclix.com | x0xmrxm4.ab1n.net |
 | admin.etology.com | x0xmrxm4.ab1n.net |
-| admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.exoclick.com | x0xmrxm4.ab1n.net |
-| admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.landingtrk.com | x0xmrxm4.ab1n.net |
 | admin.redpathmedia.com | x0xmrxm4.ab1n.net |
 | admin.rocoads.net | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
-| admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.trafficbaron.com | x0xmrxm4.ab1n.net |
-| admin.trafficbaron.com | x0xmrxm4.ab1n.net |
-| admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.vrumeads.com | x0xmrxm4.ab1n.net |
 | adrepository.opoxv.com | x0xmrxm4.ab1n.net |

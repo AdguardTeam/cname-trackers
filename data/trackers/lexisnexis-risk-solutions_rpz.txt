@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727683207586        ; Serial
+           1728288007245        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -139,7 +139,6 @@ cdnfp.accurint.com CNAME .
 cdnfp.lexisnexisrisk.com CNAME .
 cdnfp.lexisnexisrisk.eu CNAME .
 cdnm.sts.pl CNAME .
-cdns.moneyplace.com.au CNAME .
 cdnt.duobank.com CNAME .
 cdnt.walmartrewards.ca CNAME .
 cdntm.expat.hsbc.com CNAME .

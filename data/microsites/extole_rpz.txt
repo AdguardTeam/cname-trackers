@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727683207586        ; Serial
+           1728288007245        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -139,8 +139,6 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
-em8928.em.petco.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -284,7 +282,6 @@ refer.intuit.com CNAME .
 refer.issaonline.com CNAME .
 refer.itbed.com CNAME .
 refer.jewelersmutual.com CNAME .
-refer.jiffynewark.com CNAME .
 refer.joann.com CNAME .
 refer.join1440.com CNAME .
 refer.jonesservices.com CNAME .
@@ -537,7 +534,6 @@ share.firstleaf.club CNAME .
 share.firstleaf.com CNAME .
 share.floridatoday.com CNAME .
 share.freep.com CNAME .
-share.fullbay.com CNAME .
 share.fundrive.savers.com CNAME .
 share.getsetup.io CNAME .
 share.getshyft.co.za CNAME .
@@ -569,7 +565,6 @@ share.iqfiber.com CNAME .
 share.iteach.net CNAME .
 share.jacksonsun.com CNAME .
 share.jellybelly.com CNAME .
-share.jhfcu.org CNAME .
 share.juicepress.com CNAME .
 share.juvlabs.com CNAME .
 share.key.com CNAME .
@@ -731,9 +726,11 @@ www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.styleitforwardreward.com CNAME .
 em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.skillshare.com CNAME .

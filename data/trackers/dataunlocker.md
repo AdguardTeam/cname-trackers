@@ -3,23 +3,7 @@
 ## Disguised trackers list
 
 * dataunlocker.com
-    * 3t8sx4v70ug7.ddns.dataunlocker.com
-    * 48z7wyjdsywu.ddns.dataunlocker.com
-    * 4z2pmrbsv2vv.ddns.dataunlocker.com
-    * 5mc92su06suu.ddns.dataunlocker.com
-    * 704g8xh7qfzx.ddns.dataunlocker.com
-    * b9fr0ds67wwt.ddns.dataunlocker.com
-    * jeigkytglxc6.ddns.dataunlocker.com
-    * pmbkvlupohcz.ddns.dataunlocker.com
-    * rpyweom4v5j6.ddns.dataunlocker.com
     * smartproxy.dataunlocker.com
-    * sqzqnlcvbipp.ddns.dataunlocker.com
-    * uhd5nn09mgml.ddns.dataunlocker.com
-    * uhlsw7lhqnx8.ddns.dataunlocker.com
-    * umylynsr9b.ddns.dataunlocker.com
-    * x3anwt3wdn54.ddns.dataunlocker.com
-    * y4e04gql5o1b.ddns.dataunlocker.com
-    * yipdcyfffizy.ddns.dataunlocker.com
 * monopoly-drain.ga
 * friendly-community.tk
 
@@ -27,15 +11,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| av6fm8zw2cvz.furucombo.app | 3t8sx4v70ug7.ddns.dataunlocker.com |
-| 48z7wyjdsywu.www.revistaferramental.com.br | 48z7wyjdsywu.ddns.dataunlocker.com |
-| u0crsrah75fy.camberlion.com | 4z2pmrbsv2vv.ddns.dataunlocker.com |
-| 5mc92su06suu.www.abhijith.page | 5mc92su06suu.ddns.dataunlocker.com |
-| 704g8xh7qfzx.www.intercity.technology | 704g8xh7qfzx.ddns.dataunlocker.com |
-| hht8m6w8mnug.quine.sh | b9fr0ds67wwt.ddns.dataunlocker.com |
-| jiktq0fr9hv6.meleton.ru | jeigkytglxc6.ddns.dataunlocker.com |
-| dsoxjxin5jji.controlconceptsusa.com | pmbkvlupohcz.ddns.dataunlocker.com |
-| 2922qj5tf2n.swyftx.com.au | rpyweom4v5j6.ddns.dataunlocker.com |
 | 11b6n4ty2x3.taxliencode.com | smartproxy.dataunlocker.com |
 | 13js1lbtbj3.sparkloop.app | smartproxy.dataunlocker.com |
 | 16i6nuuc2ej.koelewijn.nl | smartproxy.dataunlocker.com |
@@ -65,10 +40,8 @@
 | 4jaehnfqizyx.controlconceptsusa.com | smartproxy.dataunlocker.com |
 | 5jgwflo4y935b8udrp.www.pmn-nerez.cz | smartproxy.dataunlocker.com |
 | 5mc92su06suu.www.abhijith.page | smartproxy.dataunlocker.com |
-| 5mc92su06suu.www.abhijith.page | smartproxy.dataunlocker.com |
 | 6nwp0r33a71m.app.dev.cardahealth.com | smartproxy.dataunlocker.com |
 | 6ynyejkv0j1s.app.tapmyback.com | smartproxy.dataunlocker.com |
-| 704g8xh7qfzx.www.intercity.technology | smartproxy.dataunlocker.com |
 | 704g8xh7qfzx.www.intercity.technology | smartproxy.dataunlocker.com |
 | 771fnypadw0j.pt.themoneytizer.com | smartproxy.dataunlocker.com |
 | 78rkcgj4i8c6.www.cefirates.com | smartproxy.dataunlocker.com |
@@ -84,7 +57,6 @@
 | 9ywl0cwf7e37m5yi.tapin.gg | smartproxy.dataunlocker.com |
 | ac9kpxbans1l.staging.unstoppabledomains.com | smartproxy.dataunlocker.com |
 | am3s622gcd6m.tt.live | smartproxy.dataunlocker.com |
-| av6fm8zw2cvz.furucombo.app | smartproxy.dataunlocker.com |
 | av6fm8zw2cvz.furucombo.app | smartproxy.dataunlocker.com |
 | b1tow9h4erpw.anur.polymerdev.com | smartproxy.dataunlocker.com |
 | b20p6lt350nt.app.polymersearch.com | smartproxy.dataunlocker.com |
@@ -104,14 +76,12 @@
 | gl5g98t0vfjb.panprices.com | smartproxy.dataunlocker.com |
 | gvmomuqjv1.swyftx.com | smartproxy.dataunlocker.com |
 | hht8m6w8mnug.quine.sh | smartproxy.dataunlocker.com |
-| hht8m6w8mnug.quine.sh | smartproxy.dataunlocker.com |
 | ia84berzxy7v.de.themoneytizer.com | smartproxy.dataunlocker.com |
 | ilkk97e98lvg.www.sidsplumbing.ie | smartproxy.dataunlocker.com |
 | ivrnfvlcgubm.www.cefirates.com | smartproxy.dataunlocker.com |
 | iwl2d7pa4yx1.www.logology.co | smartproxy.dataunlocker.com |
 | ixa9ill0f7bg.grundbuch.zentraler-antragsservice.com | smartproxy.dataunlocker.com |
 | jc917x3.adaptive.marketing | smartproxy.dataunlocker.com |
-| jiktq0fr9hv6.meleton.ru | smartproxy.dataunlocker.com |
 | jiktq0fr9hv6.meleton.ru | smartproxy.dataunlocker.com |
 | kn81kivjwwc7.www.logology.co | smartproxy.dataunlocker.com |
 | li3k4d70ig52.resourceya.com | smartproxy.dataunlocker.com |
@@ -147,11 +117,9 @@
 | sxwxswg8z1xe.www.arnowebtv.com | smartproxy.dataunlocker.com |
 | t7baxp1xmw00.boxoffice.adventuretix.com | smartproxy.dataunlocker.com |
 | ti3av8k3ikwm.resume.gerardbosch.xyz | smartproxy.dataunlocker.com |
-| ti3av8k3ikwm.resume.gerardbosch.xyz | smartproxy.dataunlocker.com |
 | tnincvf1d1jl.de.themoneytizer.com | smartproxy.dataunlocker.com |
 | tutbc1.www.tapmyback.com | smartproxy.dataunlocker.com |
 | tzgurwizule3.app.cardahealth.com | smartproxy.dataunlocker.com |
-| u0crsrah75fy.camberlion.com | smartproxy.dataunlocker.com |
 | u0crsrah75fy.camberlion.com | smartproxy.dataunlocker.com |
 | uhd5nn09mgml.fort-shop.kiev.ua | smartproxy.dataunlocker.com |
 | umylynsr9b.quira.sh | smartproxy.dataunlocker.com |
@@ -159,20 +127,11 @@
 | vyz3nn85ed0e.controlconceptsusa.com | smartproxy.dataunlocker.com |
 | vzal21mooz.hyperwrite.ai | smartproxy.dataunlocker.com |
 | w38ju82bano4.cv.gerardbosch.xyz | smartproxy.dataunlocker.com |
-| w38ju82bano4.cv.gerardbosch.xyz | smartproxy.dataunlocker.com |
 | wayyaj8t094u.www.kodalia.com | smartproxy.dataunlocker.com |
 | wiar9wff0ma9.ping.t3.gg | smartproxy.dataunlocker.com |
 | xlvvy4msxr.coolinastore.com | smartproxy.dataunlocker.com |
-| y4e04gql5o1b.www.nookgaming.com | smartproxy.dataunlocker.com |
 | y4e04gql5o1b.www.nookgaming.com | smartproxy.dataunlocker.com |
 | yrjpgjv35y9x.salud-masculina.info | smartproxy.dataunlocker.com |
 | ysrrzgku6tar.us.themoneytizer.com | smartproxy.dataunlocker.com |
 | z3617cz9ep.fitness.tappbrothers.com | smartproxy.dataunlocker.com |
 | zkmhhr1fr79z.dictionary.basabali.org | smartproxy.dataunlocker.com |
-| 2aa6f9qgrh9.acc.evservice.nl | sqzqnlcvbipp.ddns.dataunlocker.com |
-| uhd5nn09mgml.fort-shop.kiev.ua | uhd5nn09mgml.ddns.dataunlocker.com |
-| ti3av8k3ikwm.resume.gerardbosch.xyz | uhlsw7lhqnx8.ddns.dataunlocker.com |
-| umylynsr9b.quira.sh | umylynsr9b.ddns.dataunlocker.com |
-| w38ju82bano4.cv.gerardbosch.xyz | x3anwt3wdn54.ddns.dataunlocker.com |
-| y4e04gql5o1b.www.nookgaming.com | y4e04gql5o1b.ddns.dataunlocker.com |
-| 9uim1pc4ej4n.ru.themoneytizer.com | yipdcyfffizy.ddns.dataunlocker.com |

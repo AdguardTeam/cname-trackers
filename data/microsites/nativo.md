@@ -6,7 +6,6 @@
     * edge.ntv.io
 * ntvpforever.com
 * postrelease.com
-    * jadserve.postrelease.com
 
 ### Rarely active trackers
 
@@ -21,27 +20,9 @@
 | ---- | ---- |
 | 34bde6a6d2.7363b17589.com | 548260.parkingcrew.net |
 | 6b617ecc3b.877faa781e.com | 548260.parkingcrew.net |
-| bbb3badef0.d7fea0b8c4.com | 548260.parkingcrew.net |
 | img.nativo.net | a1082.g.akamai.net |
 | c333.macworld.co.uk | edge.ntv.io |
 | sponsor.syracuse.com | edge.ntv.io |
-| a135.wftv.com | jadserve.postrelease.com |
-| a235.chron.com | jadserve.postrelease.com |
-| a235.ctpost.com | jadserve.postrelease.com |
-| a235.greenstate.com | jadserve.postrelease.com |
-| a235.myjournalcourier.com | jadserve.postrelease.com |
-| a235.mysanantonio.com | jadserve.postrelease.com |
-| a235.nhregister.com | jadserve.postrelease.com |
-| a235.registercitizen.com | jadserve.postrelease.com |
-| a235.sfchronicle.com | jadserve.postrelease.com |
-| a235.sfgate.com | jadserve.postrelease.com |
-| a235.stamfordadvocate.com | jadserve.postrelease.com |
-| a235.thehour.com | jadserve.postrelease.com |
-| a235.thetelegraph.com | jadserve.postrelease.com |
-| a235.timesunion.com | jadserve.postrelease.com |
-| mlive.share.ntv.io | jadserve.postrelease.com |
-| share.ntv.io | jadserve.postrelease.com |
-| shared.sponsoredcontent.com | jadserve.postrelease.com |
 | a135.fox23.com | jadserve.postrelease.com.akadns.net |
 | a135.wftv.com | jadserve.postrelease.com.akadns.net |
 | a135.wpxi.com | jadserve.postrelease.com.akadns.net |
@@ -77,7 +58,6 @@
 | 0d0680cd65.692847aa83.com | ntvpforever.com |
 | 0d0d40efa5.ff4caac512.com | ntvpforever.com |
 | 0e49988bd9.66edbd8744.com | ntvpforever.com |
-| 0ebc52a9c6.c981f87754.com | ntvpforever.com |
 | 0f0249e503.533e4e8be4.com | ntvpforever.com |
 | 116f21a281.7fbe2fd8a8.com | ntvpforever.com |
 | 1173fc98f8.871981043f.com | ntvpforever.com |
@@ -93,7 +73,6 @@
 | 194c1ce74c.98492e1a06.com | ntvpforever.com |
 | 195063d014.4156f3bca2.com | ntvpforever.com |
 | 19cdb461a5.32f689042e.com | ntvpforever.com |
-| 1b38ccf99a.bdcebeabc4.com | ntvpforever.com |
 | 1b99c23583.d25ce885a1.com | ntvpforever.com |
 | 1c51040bb6.5ae2bab9af.com | ntvpforever.com |
 | 1d69b919f0.8d7274ff35.com | ntvpforever.com |
@@ -183,7 +162,6 @@
 | 6456462b8a.d5fb45ce94.com | ntvpforever.com |
 | 64641981de.a1bc23fa98.com | ntvpforever.com |
 | 651a584f5e.6c078023c1.com | ntvpforever.com |
-| 65f952e85a.efebe8adb2.com | ntvpforever.com |
 | 67153c6675.8f59f8d6a8.com | ntvpforever.com |
 | 6941fec370.d97356bd34.com | ntvpforever.com |
 | 69bd97630e.9460a8c99f.com | ntvpforever.com |
@@ -193,7 +171,6 @@
 | 6bcab443c6.633140e52a.com | ntvpforever.com |
 | 6cdd6559e1.df077d05e6.com | ntvpforever.com |
 | 710d2004bd.2febf24dda.com | ntvpforever.com |
-| 71e67c8a8f.96c50eb804.com | ntvpforever.com |
 | 72ce6311c9.deb6268bc5.com | ntvpforever.com |
 | 7633474a73.4754bbb117.com | ntvpforever.com |
 | 7655556e32.1366aab60d.com | ntvpforever.com |
@@ -218,7 +195,6 @@
 | 82eb7f5d59.6fe62b9eb9.com | ntvpforever.com |
 | 831a48f85e.2635ebb1c1.com | ntvpforever.com |
 | 84da976039.ea8e52e061.com | ntvpforever.com |
-| 84eeafa1d9.f02fa5826c.com | ntvpforever.com |
 | 85ce67f524.a50808b0d1.com | ntvpforever.com |
 | 882e281cd8.44d100644b.com | ntvpforever.com |
 | 8863ee5a75.fe70a4ad4b.com | ntvpforever.com |
@@ -255,7 +231,6 @@
 | 9e635b1caf.4afa370227.com | ntvpforever.com |
 | 9f3c62edd5.b3742d97fe.com | ntvpforever.com |
 | 9f3e28a3a8.d0e2c5fec6.com | ntvpforever.com |
-| a0603102f5.5a9b48f0db.com | ntvpforever.com |
 | a15d7c11f7.4e2c896383.com | ntvpforever.com |
 | a18707820b.20001d1a3a.com | ntvpforever.com |
 | a2cad384fc.1332bfac2b.com | ntvpforever.com |
@@ -384,8 +359,6 @@
 | f95d80b33b.cf98a92559.com | ntvpforever.com |
 | f965b45a51.e25ebbeb6b.com | ntvpforever.com |
 | f9a0e80437.8ced271921.com | ntvpforever.com |
-| f9aaa709bf.3e7dd00231.com | ntvpforever.com |
-| f9fd749395.a49f4feabf.com | ntvpforever.com |
 | fbb10acfdf.e98d6d914e.com | ntvpforever.com |
 | fc2cea8e51.31a422feac.com | ntvpforever.com |
 | fc5f6008bc.6006833376.com | ntvpforever.com |
@@ -413,6 +386,7 @@
 | a235.registercitizen.com | unavailable.hearstnp.com |
 | a235.seattlepi.com | unavailable.hearstnp.com |
 | a235.sfchronicle.com | unavailable.hearstnp.com |
+| a235.sfgate.com | unavailable.hearstnp.com |
 | a235.stamfordadvocate.com | unavailable.hearstnp.com |
 | a235.thehour.com | unavailable.hearstnp.com |
 | a235.theintelligencer.com | unavailable.hearstnp.com |

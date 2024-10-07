@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1727683207586        ; Serial
+           1728288007245        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1098,33 +1098,8 @@ $TTL 300
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
-a.18ramp.com CNAME .
-a.344eva.com CNAME .
-a.addisplaynetwork.com CNAME .
-a.adsession.com CNAME .
-a.advantageclicks.net CNAME .
-a.advertrek.com CNAME .
-a.asvsm.com CNAME .
-a.b7q9v8z.com CNAME .
-a.cant3am.com CNAME .
-a.etology.com CNAME .
-a.eunow4u.com CNAME .
-a.ma3ion.com CNAME .
 a.mx.notifysrv.com CNAME .
-a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
-a.optimizesrv.com CNAME .
-a.playa.to CNAME .
-a.q88z1s3.com CNAME .
-a.r8lnet.com CNAME .
-a.redpathmedia.com CNAME .
-a.rocoads.net CNAME .
-a.santabrowser.com CNAME .
-a.slice.exchange CNAME .
-a.stuffserve.com CNAME .
-a.tf4srv.com CNAME .
-a.traffic-gold.com CNAME .
-a.vws4brkfst.com CNAME .
 abc.notifysrv.com CNAME .
 accept.notifysrv.com CNAME .
 access.notifysrv.com CNAME .
@@ -1163,7 +1138,6 @@ asia.notifysrv.com CNAME .
 atrium.notifysrv.com CNAME .
 autoconfig.directory.notifysrv.com CNAME .
 click.advertrek.com CNAME .
-delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 feedback.notifysrv.com CNAME .
 ftp1.notifysrv.com CNAME .
@@ -1439,6 +1413,32 @@ www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
+a.18ramp.com CNAME .
+a.344eva.com CNAME .
+a.addisplaynetwork.com CNAME .
+a.adsession.com CNAME .
+a.advantageclicks.net CNAME .
+a.advertrek.com CNAME .
+a.asvsm.com CNAME .
+a.b7q9v8z.com CNAME .
 a.bizonads-ssp.com CNAME .
+a.cant3am.com CNAME .
+a.etology.com CNAME .
+a.eunow4u.com CNAME .
+a.ma3ion.com CNAME .
+a.n4m5x60.com CNAME .
+a.optimizesrv.com CNAME .
 a.ouzads.com CNAME .
+a.playa.to CNAME .
+a.q88z1s3.com CNAME .
+a.r8lnet.com CNAME .
+a.redpathmedia.com CNAME .
+a.rocoads.net CNAME .
+a.santabrowser.com CNAME .
+a.slice.exchange CNAME .
+a.stuffserve.com CNAME .
+a.tf4srv.com CNAME .
+a.traffic-gold.com CNAME .
+a.vws4brkfst.com CNAME .
 ads.optimizesrv.com CNAME .
+delivery.gettopple.com CNAME .

@@ -562,7 +562,6 @@
     * h-mofa.online-metrix.net
     * h-momentumventures.online-metrix.net
     * h-moneycorp.online-metrix.net
-    * h-moneyplace.online-metrix.net
     * h-moni.online-metrix.net
     * h-mosaic.online-metrix.net
     * h-motusbank.online-metrix.net
@@ -1632,7 +1631,6 @@
 | content.evisa.mofa.go.jp | h-mofa.online-metrix.net |
 | tm.summit-services.ca | h-momentumventures.online-metrix.net |
 | cdn2.moneycorp.com | h-moneycorp.online-metrix.net |
-| cdns.moneyplace.com.au | h-moneyplace.online-metrix.net |
 | content.moni.com.ar | h-moni.online-metrix.net |
 | safe.joinmosaic.com | h-mosaic.online-metrix.net |
 | tmcontent.motusbank.ca | h-motusbank.online-metrix.net |

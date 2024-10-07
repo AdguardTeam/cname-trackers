@@ -28,7 +28,6 @@
 | Disguise | Tracker |
 | ---- | ---- |
 | caribou.clintgwinter.com | 77980.bodis.com |
-| flea.artisan.school | 77980.bodis.com |
 | thirty-good.lugg.com | absolutely-novel.b-cdn.net |
 | cdn.admatic.com.tr | admaticcdn.b-cdn.net |
 | video.adsninja.ca | adsninja.b-cdn.net |
@@ -151,7 +150,6 @@
 | aphid.thyself.me | deprecated-custom-domains.b-cdn.net |
 | armadillo.axeneo7.qc.ca | deprecated-custom-domains.b-cdn.net |
 | armadillo.oceandecadenortheastpacific.org | deprecated-custom-domains.b-cdn.net |
-| armadillo.stacking.club | deprecated-custom-domains.b-cdn.net |
 | armadillo.superpeak.dk | deprecated-custom-domains.b-cdn.net |
 | asp.ashesashes.org | deprecated-custom-domains.b-cdn.net |
 | asp.brightmachine.uk | deprecated-custom-domains.b-cdn.net |
@@ -213,7 +211,6 @@
 | boar.kostholdsveilederen.no | deprecated-custom-domains.b-cdn.net |
 | bobcat.pronounce.technology | deprecated-custom-domains.b-cdn.net |
 | bobcat.snapshooter.io | deprecated-custom-domains.b-cdn.net |
-| booby.deanyeong.com | deprecated-custom-domains.b-cdn.net |
 | boom.laravel.io | deprecated-custom-domains.b-cdn.net |
 | bovid.docutize.de | deprecated-custom-domains.b-cdn.net |
 | bovid.neural.love | deprecated-custom-domains.b-cdn.net |
@@ -368,7 +365,6 @@
 | dormouse.nektarium.de | deprecated-custom-domains.b-cdn.net |
 | dove.hoku.nz | deprecated-custom-domains.b-cdn.net |
 | dragon.codemakes.art | deprecated-custom-domains.b-cdn.net |
-| dragon.codequeen.io | deprecated-custom-domains.b-cdn.net |
 | dragon.sh2.com | deprecated-custom-domains.b-cdn.net |
 | dragonfly.filmmakerfreedom.com | deprecated-custom-domains.b-cdn.net |
 | dragonfly.jala-one.com | deprecated-custom-domains.b-cdn.net |
@@ -523,7 +519,6 @@
 | horse.usemiso.com | deprecated-custom-domains.b-cdn.net |
 | horse.vesuvius-publishing.com | deprecated-custom-domains.b-cdn.net |
 | horse.zwei-bags.com | deprecated-custom-domains.b-cdn.net |
-| hoverfly.1pageimpact.com.au | deprecated-custom-domains.b-cdn.net |
 | hoverfly.cdengine.co.uk | deprecated-custom-domains.b-cdn.net |
 | hoverfly.cyberbytesinc.com | deprecated-custom-domains.b-cdn.net |
 | hoverfly.dailyblocks.tv | deprecated-custom-domains.b-cdn.net |
@@ -538,7 +533,6 @@
 | iguana.cypressridge-pca.org | deprecated-custom-domains.b-cdn.net |
 | iguana.delbaoliveira.com | deprecated-custom-domains.b-cdn.net |
 | iguana.indigospot.com | deprecated-custom-domains.b-cdn.net |
-| iguana.vivere.co | deprecated-custom-domains.b-cdn.net |
 | ijogkae.churchserviceplanner.co.uk | deprecated-custom-domains.b-cdn.net |
 | impala.vnv.nl | deprecated-custom-domains.b-cdn.net |
 | ipgeaif.blairmacintyre.me | deprecated-custom-domains.b-cdn.net |
@@ -559,7 +553,6 @@
 | kite.cardneyestate.co.uk | deprecated-custom-domains.b-cdn.net |
 | kite.devin.website | deprecated-custom-domains.b-cdn.net |
 | kite.ibirthdayclub.com | deprecated-custom-domains.b-cdn.net |
-| kite.kochie.io | deprecated-custom-domains.b-cdn.net |
 | kite.launchcdn.com | deprecated-custom-domains.b-cdn.net |
 | kite.oakes.software | deprecated-custom-domains.b-cdn.net |
 | kite.zaahir.ca | deprecated-custom-domains.b-cdn.net |
@@ -583,7 +576,6 @@
 | krill.spoonrage.com | deprecated-custom-domains.b-cdn.net |
 | krill.swiss-uke.ch | deprecated-custom-domains.b-cdn.net |
 | ks42zt.spec.fm | deprecated-custom-domains.b-cdn.net |
-| ladybug.dfour.space | deprecated-custom-domains.b-cdn.net |
 | ladybug.ficabo.com | deprecated-custom-domains.b-cdn.net |
 | ladybug.paulstovell.com | deprecated-custom-domains.b-cdn.net |
 | lamprey.carolcassar.com | deprecated-custom-domains.b-cdn.net |
@@ -619,7 +611,6 @@
 | llama.mallardbay.com | deprecated-custom-domains.b-cdn.net |
 | llama.vivriticapital.com | deprecated-custom-domains.b-cdn.net |
 | lobster.justunderwear.com | deprecated-custom-domains.b-cdn.net |
-| lobster.tonebleed.com | deprecated-custom-domains.b-cdn.net |
 | locust.ausrebellion.earth | deprecated-custom-domains.b-cdn.net |
 | loon.analogjoe.com | deprecated-custom-domains.b-cdn.net |
 | loon.davidalindahl.com | deprecated-custom-domains.b-cdn.net |
@@ -845,7 +836,6 @@
 | salamander.augmentedmind.io | deprecated-custom-domains.b-cdn.net |
 | salamander.showandtelldata.com | deprecated-custom-domains.b-cdn.net |
 | salamander.yourownpay.com | deprecated-custom-domains.b-cdn.net |
-| salmon.literallife.church | deprecated-custom-domains.b-cdn.net |
 | salmon.thespiritualpsychologist.co.uk | deprecated-custom-domains.b-cdn.net |
 | sawfish.black-forest-digital.de | deprecated-custom-domains.b-cdn.net |
 | sawfish.hxd-lab.de | deprecated-custom-domains.b-cdn.net |
@@ -979,7 +969,6 @@
 | trout.unicornplatform.com | deprecated-custom-domains.b-cdn.net |
 | tuna.ajaymantri.com | deprecated-custom-domains.b-cdn.net |
 | tuna.purplespider.com | deprecated-custom-domains.b-cdn.net |
-| turkey.codeness.io | deprecated-custom-domains.b-cdn.net |
 | turkey.docsy.cloud | deprecated-custom-domains.b-cdn.net |
 | turkey.tella.tv | deprecated-custom-domains.b-cdn.net |
 | turtle.geshem.space | deprecated-custom-domains.b-cdn.net |
@@ -995,7 +984,6 @@
 | vicuna.callisoma.com | deprecated-custom-domains.b-cdn.net |
 | vicuna.casa-moebel.at | deprecated-custom-domains.b-cdn.net |
 | vicuna.equity.no | deprecated-custom-domains.b-cdn.net |
-| vicuna.fortbinary.com | deprecated-custom-domains.b-cdn.net |
 | vicuna.joblicant.de | deprecated-custom-domains.b-cdn.net |
 | viper.kyrelldixon.com | deprecated-custom-domains.b-cdn.net |
 | viper.sitesauce.app | deprecated-custom-domains.b-cdn.net |
