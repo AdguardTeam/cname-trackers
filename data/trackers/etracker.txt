@@ -6,6 +6,7 @@
 ||click.easycosmetic.ch^
 ||click.easycosmetic.de^
 ||click.easycosmetic.nl^
+||ct.krauss.app^
 ||ctrl.guenther.de^
 ||data.drhauschka.de^
 ||data.moebel-style.de^
@@ -24,6 +25,7 @@
 ||etd.weidemann.com^
 ||etracker.alex-gross.com^
 ||ets.verivox.com^
+||ettcc.steute-controltec.com^
 ||ettcc.steute-meditec.com^
 ||ettcc.steute.com^
 ||ferthu.seyffer.shop^
@@ -32,6 +34,7 @@
 ||mktg.activemind.legal^
 ||mytrd.orion.at^
 ||src.vector.com^
+||statistics.fruchtbarewelt.de^
 ||stats.folienmarkt.de^
 ||stats.kaerntnerjobs.at^
 ||stats.mopo.de^
@@ -43,6 +46,7 @@
 ||stats.tirolerjobs.at^
 ||stats.umziehen.de^
 ||stats.united-domains.de^
+||stats.wasserfilteroase.de^
 ||stats.wienerjobs.at^
 ||track.dictum-gartenwerkzeug.de^
 ||track.dictum-handwerksgalerie.de^
@@ -57,9 +61,11 @@
 ||webaus.dw-shop.de^
 ||webcontr.bet-at-home.com^
 ||webcontr.bet-at-home.de^
+||webcontr.chairgo.de^
 ||webcontr.l.de^
 ||webcontr.ryzon.net^
 ||webcontr.synvia.de^
+||webcontr.verpoorten.de^
 ||wt.leitz.org^
 ||esub.akkusys.shop^
 ||esub.autobatterie-markt.de^

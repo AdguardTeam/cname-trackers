@@ -144,6 +144,7 @@
     * h-8wmmckk2.online-metrix.net
     * h-8ydtcbsf.online-metrix.net
     * h-8z6ccesi.online-metrix.net
+    * h-91hkii01.online-metrix.net
     * h-92cpkbn2.online-metrix.net
     * h-92z7am36.online-metrix.net
     * h-94b5bk32.online-metrix.net
@@ -179,6 +180,7 @@
     * h-agxcazcm.online-metrix.net
     * h-ahpv7hxn.online-metrix.net
     * h-ai4j8x4g.online-metrix.net
+    * h-aircanada.online-metrix.net
     * h-alliantcreditunion.online-metrix.net
     * h-allianz.online-metrix.net
     * h-allstate.online-metrix.net
@@ -209,6 +211,7 @@
     * h-axiata.online-metrix.net
     * h-b124ow4n.online-metrix.net
     * h-b2u9vacd.online-metrix.net
+    * h-b2u9vacd1.online-metrix.net
     * h-b2u9vacd3.online-metrix.net
     * h-b37tmm2aid.online-metrix.net
     * h-b3m5a8st.online-metrix.net
@@ -261,6 +264,7 @@
     * h-budget-mobile.online-metrix.net
     * h-buyfun.online-metrix.net
     * h-bw1fkozp.online-metrix.net
+    * h-bw1uup65.online-metrix.net
     * h-c3xmpcvr.online-metrix.net
     * h-c70ghtsb.online-metrix.net
     * h-c7f45hl1-ao.online-metrix.net
@@ -713,8 +717,8 @@
     * h-uscellular.online-metrix.net
     * h-uship.online-metrix.net
     * h-usps.online-metrix.net
+    * h-v60nf4oj-ckapis.online-metrix.net
     * h-v60nf4oj-credkarm.online-metrix.net
-    * h-v60nf4oj-pfp.online-metrix.net
     * h-v60nf4oj-qfp.online-metrix.net
     * h-v60nf4oj-rfp.online-metrix.net
     * h-v60nf4oj-sfp.online-metrix.net
@@ -753,7 +757,6 @@
     * h-wrightexpress.online-metrix.net
     * h-wxwt2znm.online-metrix.net
     * h-ynap.biz.online-metrix.net
-    * h-zhongantechnologies.online-metrix.net
     * h-zions.online-metrix.net
     * h-zodiacustody.online-metrix.net
     * h-zootweb.online-metrix.net
@@ -771,6 +774,7 @@
 | ---- | ---- |
 | content22.citi.com | citi.online-metrix.net |
 | content-tix.topi.eu | h-1020poof.online-metrix.net |
+| aucrdtfrd.revolut.codes | h-107yrgnw.online-metrix.net |
 | aucrdtfrd.revolut.com | h-107yrgnw.online-metrix.net |
 | h.truist.com | h-10kdwzzr.online-metrix.net |
 | partition.enterprise.com | h-10mkgm4b.online-metrix.net |
@@ -861,6 +865,7 @@
 | bkt-prod.sbishinseibank.co.jp | h-2g7dk5bn.online-metrix.net |
 | eve.playstation.com | h-2gkqfg5y.online-metrix.net |
 | pdr.eve.sonyentertainmentnetwork.com | h-2gkqfg5y.online-metrix.net |
+| skw.eve.account.sony.com | h-2gkqfg5y.online-metrix.net |
 | h.santanderconsumer.pl | h-2gssvh01.online-metrix.net |
 | tm.sunbit.com | h-2ic7z584.online-metrix.net |
 | eps.uprova.com | h-2lrwrk15.online-metrix.net |
@@ -1017,6 +1022,7 @@
 | thmep.zondacrypto.com | h-8wmmckk2.online-metrix.net |
 | content.myfamliplus.state.co.us | h-8ydtcbsf.online-metrix.net |
 | content.paysend.com | h-8z6ccesi.online-metrix.net |
+| app.uob.co.th | h-91hkii01.online-metrix.net |
 | catalyst.mashreq.com | h-92cpkbn2.online-metrix.net |
 | ln.cash.app | h-92z7am36.online-metrix.net |
 | regstat.skybet.com | h-94b5bk32.online-metrix.net |
@@ -1033,10 +1039,18 @@
 | afm.startrader.asia | h-96eziru5.online-metrix.net |
 | afm.startrader.com | h-96eziru5.online-metrix.net |
 | afm.startrader.live | h-96eziru5.online-metrix.net |
+| afm.sthub.cc | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.com | h-96eziru5.online-metrix.net |
+| afm.ultimamarketsglobal.com | h-96eziru5.online-metrix.net |
 | afm.ultimamkts.com | h-96eziru5.online-metrix.net |
+| afm.umtradings.com | h-96eziru5.online-metrix.net |
+| afm.vantage-markets.com | h-96eziru5.online-metrix.net |
 | afm.vantagemarkets.co | h-96eziru5.online-metrix.net |
+| afm.vantagemarkets.co.uk | h-96eziru5.online-metrix.net |
 | afm.vantagemarkets.com | h-96eziru5.online-metrix.net |
+| afm.vantagemarkets.io | h-96eziru5.online-metrix.net |
+| afm.vantagemarketsea.com | h-96eziru5.online-metrix.net |
+| afm.vantagetradings.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
@@ -1097,6 +1111,7 @@
 | dt.payla.io | h-agxcazcm.online-metrix.net |
 | lnc.mo.gov | h-ahpv7hxn.online-metrix.net |
 | content.mypersi.idaho.gov | h-ai4j8x4g.online-metrix.net |
+| csservice.aircanada.com | h-aircanada.online-metrix.net |
 | cdn.alliantcreditunion.com | h-alliantcreditunion.online-metrix.net |
 | txn.allianzlife.com | h-allianz.online-metrix.net |
 | content.allstate.com | h-allstate.online-metrix.net |
@@ -1143,6 +1158,7 @@
 | caveo.boost-my.com | h-axiata.online-metrix.net |
 | bland.starone.org | h-b124ow4n.online-metrix.net |
 | ln.acornfun.com | h-b2u9vacd.online-metrix.net |
+| ln.zenmerge.club | h-b2u9vacd1.online-metrix.net |
 | ln.spinsorcery.net | h-b2u9vacd3.online-metrix.net |
 | nexus-svc.sc.com | h-b37tmm2aid.online-metrix.net |
 | tmx.additionfi.com | h-b3m5a8st.online-metrix.net |
@@ -1210,6 +1226,7 @@
 | dfp.s-budget-mobile.at | h-budget-mobile.online-metrix.net |
 | securecheckout.halloweencostumes.com | h-buyfun.online-metrix.net |
 | tmxjs.tokyodisneyresort.jp | h-bw1fkozp.online-metrix.net |
+| content-48.cnb.com | h-bw1uup65.online-metrix.net |
 | content.koalafi.com | h-c3xmpcvr.online-metrix.net |
 | lndata.labor.maryland.gov | h-c70ghtsb.online-metrix.net |
 | lndata.labor.md.gov | h-c70ghtsb.online-metrix.net |
@@ -1249,6 +1266,7 @@
 | content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | content.prev-espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | content.prev.connexion-mabanque.bnpparibas | h-cco37scf.online-metrix.net |
+| www.content.espace-client.hellobank.fr | h-cco37scf.online-metrix.net |
 | www.content.mabanquepro.bnpparibas | h-cco37scf.online-metrix.net |
 | tcontent.cdiscountmobile.cdiscount.com | h-cdcmobile.online-metrix.net |
 | imagesmx.cdiscountpro.com | h-cdiscount.online-metrix.net |
@@ -1722,6 +1740,7 @@
 | tags.openaccount.rbs.co.uk | h-rbs-bank.online-metrix.net |
 | tags.rbs.co.uk | h-rbs-bank.online-metrix.net |
 | tags.rbsdigital.com | h-rbs-bank.online-metrix.net |
+| tags.sandbox.onlinebankingtest.natwestinternational.com | h-rbs-bank.online-metrix.net |
 | tags.ulsterbank.co.uk | h-rbs-bank.online-metrix.net |
 | tags.ulsterbankanytimebanking.co.uk | h-rbs-bank.online-metrix.net |
 | tags.ulsterbankanytimebanking.ie | h-rbs-bank.online-metrix.net |
@@ -1822,8 +1841,8 @@
 | img4.uscellular.com | h-uscellular.online-metrix.net |
 | tm.uship.com | h-uship.online-metrix.net |
 | content.usps.com | h-usps.online-metrix.net |
+| dicontent.ckapis.com | h-v60nf4oj-ckapis.online-metrix.net |
 | dicontent.creditkarma.com | h-v60nf4oj-credkarm.online-metrix.net |
-| pfp.intuit.com | h-v60nf4oj-pfp.online-metrix.net |
 | qfp.intuit.com | h-v60nf4oj-qfp.online-metrix.net |
 | rfp.intuit.com | h-v60nf4oj-rfp.online-metrix.net |
 | sfp.intuit.com | h-v60nf4oj-sfp.online-metrix.net |
@@ -1880,7 +1899,6 @@
 | tmx.tchek.com | h-wrightexpress.online-metrix.net |
 | valcontent.securustech.net | h-wxwt2znm.online-metrix.net |
 | tooling.ynap.biz | h-ynap.biz.online-metrix.net |
-| cnt2.bank.za.group | h-zhongantechnologies.online-metrix.net |
 | w3.amegybank.com | h-zions.online-metrix.net |
 | w3.calbanktrust.com | h-zions.online-metrix.net |
 | w3.nbarizona.com | h-zions.online-metrix.net |

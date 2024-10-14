@@ -20,6 +20,9 @@
     * croustade.goatcounter.com
     * demo-plateau-ng-open-law.goatcounter.com
     * dheinemann.goatcounter.com
+    * dungeon.goatcounter.com
+    * embedx.goatcounter.com
+    * fieald.goatcounter.com
     * gamecraft.goatcounter.com
     * gcyofbrc2390489439.goatcounter.com
     * gpuzelenograd-github.goatcounter.com
@@ -30,11 +33,13 @@
     * jam.goatcounter.com
     * jmmr-dev.goatcounter.com
     * johanneswienke.goatcounter.com
+    * jojonas.goatcounter.com
     * jsq.goatcounter.com
     * ksmets.goatcounter.com
     * ksr.goatcounter.com
     * law-cityofsanmateo-org.goatcounter.com
     * lspeed.goatcounter.com
+    * maik-dev.goatcounter.com
     * maple.goatcounter.com
     * mele.goatcounter.com
     * mindenugyved.goatcounter.com
@@ -49,6 +54,7 @@
     * satanisk.goatcounter.com
     * semipol.goatcounter.com
     * skeetstats.goatcounter.com
+    * sofianlak.goatcounter.com
     * stchris.goatcounter.com
     * storydragon.goatcounter.com
     * tailspace.goatcounter.com
@@ -80,6 +86,9 @@
 | goat.croustade.studio | croustade.goatcounter.com |
 | analytics.demo.plateau.ng.open.law | demo-plateau-ng-open-law.goatcounter.com |
 | goat.dheinemann.com | dheinemann.goatcounter.com |
+| gc.securitydungeon.sk | dungeon.goatcounter.com |
+| pixel.embed.su | embedx.goatcounter.com |
+| stats.fieald.com | fieald.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
@@ -90,11 +99,13 @@
 | stats.jamesgwyer.com | jam.goatcounter.com |
 | stats.jmmr.dev | jmmr-dev.goatcounter.com |
 | stats.johanneswienke.de | johanneswienke.goatcounter.com |
+| stats.jonaslieb.de | jojonas.goatcounter.com |
 | stats.jessesquires.com | jsq.goatcounter.com |
 | stats.ksmets.be | ksmets.goatcounter.com |
 | stats.ksr.onl | ksr.goatcounter.com |
 | analytics.law.cityofsanmateo.org | law-cityofsanmateo-org.goatcounter.com |
 | stats.lspeed.org | lspeed.goatcounter.com |
+| webstats.maik.dev | maik-dev.goatcounter.com |
 | st.mapleranks.com | maple.goatcounter.com |
 | stats.mele.dev | mele.goatcounter.com |
 | gc.mindenugyved.hu | mindenugyved.goatcounter.com |
@@ -109,6 +120,7 @@
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
 | goat.skeetstats.xyz | skeetstats.goatcounter.com |
+| stats.sofianlak.fr | sofianlak.goatcounter.com |
 | stats.stchris.net | stchris.goatcounter.com |
 | counter.storydragon.nl | storydragon.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |

@@ -13,6 +13,7 @@
 ||counter.storydragon.nl^
 ||gc.mindenugyved.hu^
 ||gc.sanyamkapoor.com^
+||gc.securitydungeon.sk^
 ||github.gpuzelenograd.cloudns.be^
 ||goat.belak.io^
 ||goat.croustade.studio^
@@ -27,6 +28,7 @@
 ||goatcounter.gamecraft.it^
 ||goatcounter.thedave.me^
 ||novi.webnovi.eu^
+||pixel.embed.su^
 ||st.mapleranks.com^
 ||stats.0chris.com^
 ||stats.45rpm.ch^
@@ -37,12 +39,14 @@
 ||stats.brandontoner.ca^
 ||stats.cassie.omg.lol^
 ||stats.cloudflex.team^
+||stats.fieald.com^
 ||stats.how.wtf^
 ||stats.jakebailey.dev^
 ||stats.jamesgwyer.com^
 ||stats.jessesquires.com^
 ||stats.jmmr.dev^
 ||stats.johanneswienke.de^
+||stats.jonaslieb.de^
 ||stats.ksmets.be^
 ||stats.ksr.onl^
 ||stats.lspeed.org^
@@ -51,7 +55,9 @@
 ||stats.palaisdesfetes.eu^
 ||stats.rocketgoboom.lol^
 ||stats.semipol.de^
+||stats.sofianlak.fr^
 ||stats.stchris.net^
 ||stats.thecrafters001.com^
 ||stats.trainsley69.me^
 ||visit.hijacklibs.net^
+||webstats.maik.dev^

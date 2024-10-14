@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -139,6 +139,8 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
+em225.codecademy.com CNAME .
+em9523.walmartmoneycard.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -148,6 +150,8 @@ get.lull.com CNAME .
 go.joinsizigi.com CNAME .
 groomrefer.petco.com CNAME .
 internalreferral.freshworks.com CNAME .
+invite.soundcloud.com CNAME .
+izoncl2caorfnn6o.extoleu.com CNAME .
 jessica-test-numero-dos.extoleu.com CNAME .
 kenn.extoleu.com CNAME .
 love.columbiacu.org CNAME .
@@ -309,6 +313,7 @@ refer.lmcu.org CNAME .
 refer.loomandleaf.com CNAME .
 refer.lull.com CNAME .
 refer.lumenoptical.com CNAME .
+refer.lumosfiber.com CNAME .
 refer.madison-reed.com CNAME .
 refer.marinerfinance.com CNAME .
 refer.martinsfoods.com CNAME .
@@ -446,6 +451,7 @@ score.lumen.com CNAME .
 share-fiber.t-mobile.com CNAME .
 share-uk.princess.com CNAME .
 share-us.viktor-rolf.com CNAME .
+share.3riversfcu.org CNAME .
 share.4wheelparts.com CNAME .
 share.advanceamerica.net CNAME .
 share.affinityfcu.org CNAME .
@@ -488,7 +494,6 @@ share.calvinklein.us CNAME .
 share.carparts.com CNAME .
 share.cefaly.com CNAME .
 share.cellcom.ca CNAME .
-share.certapro.com CNAME .
 share.cheaperthandirt.com CNAME .
 share.cheaperthandirt.net CNAME .
 share.chewsidental.com CNAME .
@@ -585,6 +590,7 @@ share.maidpro.com CNAME .
 share.mamabearlegalforms.com CNAME .
 share.mansfieldnewsjournal.com CNAME .
 share.medely.com CNAME .
+share.midlandusa.com CNAME .
 share.montgomeryadvertiser.com CNAME .
 share.mtntough.com CNAME .
 share.mycarpe.com CNAME .
@@ -720,18 +726,19 @@ share.whiparound.com CNAME .
 share.whistle.com CNAME .
 share.wisdompanel.com CNAME .
 share.wombatinvest.com CNAME .
+share.yogaworks.com CNAME .
 share.zenbusiness.com CNAME .
+ufsmdjkg1zhzcx9i.extoleu.com CNAME .
 www.refer.xfinity.com CNAME .
 www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.styleitforwardreward.com CNAME .
+xtl._domainkey.forgetrust.com CNAME .
 em1476.princesscruises.com CNAME .
-em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
 em8561.go2bank.com CNAME .
 em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
-em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.skillshare.com CNAME .
 sftp.extole.com CNAME .

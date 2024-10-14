@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -88,7 +88,6 @@ analytics.carecredit.com CNAME .
 analytics.carecreditlearning.com CNAME .
 analytics.carecreditprovidercenter.com CNAME .
 analytics.ensighten.com CNAME .
-analytics.lumberliquidators.com CNAME .
 analytics.mysynchrony.com CNAME .
 analytics.ovative.com CNAME .
 analytics.polaris.com CNAME .
@@ -207,11 +206,13 @@ dc.gordonsjewelers.com CNAME .
 dc.jared.com CNAME .
 dc.kay.com CNAME .
 dc.kayoutlet.com CNAME .
+dc.peoplesjewellers.com CNAME .
 dc.sterlingjewelers.com CNAME .
 dc.stokke.com CNAME .
 dc.volkswagen.com CNAME .
 dc.volkswagen.de CNAME .
 dc.volkswagen.pl CNAME .
+dc.vw.co.za CNAME .
 dc.vw.com.mx CNAME .
 dc.zales.com CNAME .
 dc.zalesoutlet.com CNAME .
@@ -309,6 +310,7 @@ privacy.latitudefinancial.co.nz CNAME .
 privacy.latitudefinancial.com CNAME .
 privacy.latitudefinancial.com.au CNAME .
 privacy.latitudepay.com CNAME .
+privacy.learcapital.com CNAME .
 privacy.online.heineken.co.za CNAME .
 privacy.owllabs.com CNAME .
 privacy.tigerbeer.com CNAME .
@@ -372,6 +374,7 @@ tags.wyndhamhotels.com CNAME .
 tam.volkswagen.com CNAME .
 tdi.cartoonnetwork.com CNAME .
 tea.tescobank.com CNAME .
+tea2.tescobank.com CNAME .
 test3-dc.jared.com CNAME .
 test3-dc.kay.com CNAME .
 test3-dc.kayoutlet.com CNAME .
@@ -398,6 +401,8 @@ tms.suzukibusinesscloud-qa.com CNAME .
 tms.virginatlantic.com CNAME .
 tmsgi.lv.com CNAME .
 uat1-dc.pagoda.com CNAME .
+uat1-dc.peoplesjewellers.com CNAME .
 uat1-dc.zales.com CNAME .
+uat1-dc.zalesoutlet.com CNAME .
 virginaustralia.activate.ensighten.com CNAME .
 www.themorningcallmediagroup.com CNAME .

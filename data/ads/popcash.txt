@@ -269,7 +269,6 @@
 ||bobcat.pronounce.technology^
 ||bobcat.snapshooter.io^
 ||boom.laravel.io^
-||bovid.docutize.de^
 ||bovid.neural.love^
 ||bowie-cdn.fathomdns.com^
 ||bug.aestheticpixels.io^
@@ -331,7 +330,6 @@
 ||centipede.davimug.com^
 ||centipede.roasted.dev^
 ||centipede.wildbit.com^
-||centipede.yuv.al^
 ||cephalopod.nucleus.us^
 ||cephalopod.photoprism.pro^
 ||cephalopod.revelio.io^
@@ -473,7 +471,6 @@
 ||finch.koronasporing.no^
 ||finch.market.xyz^
 ||firefly.jamesbrowne.me^
-||fish.hyperfine.io^
 ||fish.muted.io^
 ||fish.trampoline.cx^
 ||fish.whitney.org^
@@ -791,6 +788,7 @@
 ||panther.tigil.rs^
 ||parakeet.buildcodelearn.com^
 ||parakeet.jorenvanhocht.be^
+||parakeet.kenleyar.ai^
 ||parakeet.quotetweet.com^
 ||parrot.lovably.com^
 ||parrotfish.thenping.me^
@@ -930,7 +928,6 @@
 ||smelt.gautrowski.com^
 ||snipe.mfaber.at^
 ||snipe.mizzuu.co^
-||snipe.nipht.io^
 ||sole.bkosmetik.com^
 ||sole.pretto.fr^
 ||sole.riverwalkdental.com.au^
@@ -1077,7 +1074,6 @@
 ||wildebeest.soft-spoken.dev^
 ||wildebeest.trigo.dev^
 ||wildfowl.getmoneyoff.com^
-||wildfowl.minter.io^
 ||wolf.idthompson.com^
 ||wolf.samarasousa.com^
 ||wolverine.barac.at^
@@ -1155,7 +1151,6 @@
 ||cdn.unibotscdn.com^
 ||ucdn.adgebra.co^
 ||cdn.shrtfly.vip^
-||cdn.tracking.prepr.io^
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^
 ||dntcl.qualaroo.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ click.easycosmetic.be CNAME .
 click.easycosmetic.ch CNAME .
 click.easycosmetic.de CNAME .
 click.easycosmetic.nl CNAME .
+ct.krauss.app CNAME .
 ctrl.guenther.de CNAME .
 data.drhauschka.de CNAME .
 data.moebel-style.de CNAME .
@@ -35,6 +36,7 @@ etd.wackerneusongroup.com CNAME .
 etd.weidemann.com CNAME .
 etracker.alex-gross.com CNAME .
 ets.verivox.com CNAME .
+ettcc.steute-controltec.com CNAME .
 ettcc.steute-meditec.com CNAME .
 ettcc.steute.com CNAME .
 ferthu.seyffer.shop CNAME .
@@ -43,6 +45,7 @@ mensch.ekd.de CNAME .
 mktg.activemind.legal CNAME .
 mytrd.orion.at CNAME .
 src.vector.com CNAME .
+statistics.fruchtbarewelt.de CNAME .
 stats.folienmarkt.de CNAME .
 stats.kaerntnerjobs.at CNAME .
 stats.mopo.de CNAME .
@@ -54,6 +57,7 @@ stats.suedtirolerjobs.it CNAME .
 stats.tirolerjobs.at CNAME .
 stats.umziehen.de CNAME .
 stats.united-domains.de CNAME .
+stats.wasserfilteroase.de CNAME .
 stats.wienerjobs.at CNAME .
 track.dictum-gartenwerkzeug.de CNAME .
 track.dictum-handwerksgalerie.de CNAME .
@@ -68,9 +72,11 @@ webanalytics.pwc.fr CNAME .
 webaus.dw-shop.de CNAME .
 webcontr.bet-at-home.com CNAME .
 webcontr.bet-at-home.de CNAME .
+webcontr.chairgo.de CNAME .
 webcontr.l.de CNAME .
 webcontr.ryzon.net CNAME .
 webcontr.synvia.de CNAME .
+webcontr.verpoorten.de CNAME .
 wt.leitz.org CNAME .
 esub.akkusys.shop CNAME .
 esub.autobatterie-markt.de CNAME .

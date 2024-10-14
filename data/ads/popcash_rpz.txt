@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -280,7 +280,6 @@ boar.kostholdsveilederen.no CNAME .
 bobcat.pronounce.technology CNAME .
 bobcat.snapshooter.io CNAME .
 boom.laravel.io CNAME .
-bovid.docutize.de CNAME .
 bovid.neural.love CNAME .
 bowie-cdn.fathomdns.com CNAME .
 bug.aestheticpixels.io CNAME .
@@ -342,7 +341,6 @@ cattle.weiss-bregenz.at CNAME .
 centipede.davimug.com CNAME .
 centipede.roasted.dev CNAME .
 centipede.wildbit.com CNAME .
-centipede.yuv.al CNAME .
 cephalopod.nucleus.us CNAME .
 cephalopod.photoprism.pro CNAME .
 cephalopod.revelio.io CNAME .
@@ -484,7 +482,6 @@ ferret.tailgraph.com CNAME .
 finch.koronasporing.no CNAME .
 finch.market.xyz CNAME .
 firefly.jamesbrowne.me CNAME .
-fish.hyperfine.io CNAME .
 fish.muted.io CNAME .
 fish.trampoline.cx CNAME .
 fish.whitney.org CNAME .
@@ -802,6 +799,7 @@ panther.thestocks.im CNAME .
 panther.tigil.rs CNAME .
 parakeet.buildcodelearn.com CNAME .
 parakeet.jorenvanhocht.be CNAME .
+parakeet.kenleyar.ai CNAME .
 parakeet.quotetweet.com CNAME .
 parrot.lovably.com CNAME .
 parrotfish.thenping.me CNAME .
@@ -941,7 +939,6 @@ smelt.allenpike.com CNAME .
 smelt.gautrowski.com CNAME .
 snipe.mfaber.at CNAME .
 snipe.mizzuu.co CNAME .
-snipe.nipht.io CNAME .
 sole.bkosmetik.com CNAME .
 sole.pretto.fr CNAME .
 sole.riverwalkdental.com.au CNAME .
@@ -1088,7 +1085,6 @@ wildebeest.quarva.dev CNAME .
 wildebeest.soft-spoken.dev CNAME .
 wildebeest.trigo.dev CNAME .
 wildfowl.getmoneyoff.com CNAME .
-wildfowl.minter.io CNAME .
 wolf.idthompson.com CNAME .
 wolf.samarasousa.com CNAME .
 wolverine.barac.at CNAME .
@@ -1166,7 +1162,6 @@ cdn.studiosis.in CNAME .
 cdn.unibotscdn.com CNAME .
 ucdn.adgebra.co CNAME .
 cdn.shrtfly.vip CNAME .
-cdn.tracking.prepr.io CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .

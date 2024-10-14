@@ -50,6 +50,7 @@
 ||cdn7.baunetz.de^
 ||census.misterspex.at^
 ||census.misterspex.no^
+||ctd.domusweb.it^
 ||ctdfm.ilgiornale.it^
 ||ctrkd.ilsole24ore.com^
 ||da.bodenhaus.de^
@@ -314,6 +315,7 @@
 ||web.mapp.whiteaway.no^
 ||web.mapp.whiteaway.se^
 ||web.marcotozzi.com^
+||web.marketing.jellybelly.com^
 ||web.mytoys.de^
 ||web.news.bottegaverde.com^
 ||web.news.creedfragrances.co.uk^
@@ -408,4 +410,3 @@
 ||wttd.madeleine.de^
 ||wttd.madeleine.fr^
 ||wttd.madeleine.gr^
-||web.marketing.jellybelly.com^

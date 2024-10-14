@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -51,6 +51,7 @@ affil.jobsik.cz CNAME .
 affil.knihavyhod.cz CNAME .
 affil.knihazenasnov.sk CNAME .
 affil.kralovstvi-tiande.cz CNAME .
+affil.lesgoodies.com CNAME .
 affil.litinove-nadobi.cz CNAME .
 affil.moringamix.cz CNAME .
 affil.mydrinks.cz CNAME .
@@ -299,10 +300,12 @@ ambasador.rustspolecne.cz CNAME .
 ambasadorky.zenyzenam.cz CNAME .
 ambassador.notsofunnyany.com CNAME .
 ambassadors.childhoodpotential.com CNAME .
+ambassadors.guideandgrow.com CNAME .
 box.cryptokingdom.tech CNAME .
 box.kryptotrejder.sk CNAME .
 brana.ritualyomlazeni.cz CNAME .
 collab.zdravetricko.cz CNAME .
+dbsaysnba4ygmwav.algomoneo.com CNAME .
 dekovacka.stickersmakers.cz CNAME .
 devaff.bitcoinzmenaren.sk CNAME .
 doporuc.hopsej.cz CNAME .
@@ -612,6 +615,7 @@ partner.lehatkapropsy.cz CNAME .
 partner.lemurak.cz CNAME .
 partner.lenkahomeopatie.cz CNAME .
 partner.levanduloveudoli.cz CNAME .
+partner.levanduloveudolie.sk CNAME .
 partner.liberec-ubytovani.cz CNAME .
 partner.lidajirickova.cz CNAME .
 partner.ligsuniversity.cz CNAME .
@@ -636,6 +640,8 @@ partner.minikoioi.cz CNAME .
 partner.misinacokolada.cz CNAME .
 partner.mojeluha.cz CNAME .
 partner.mojetonery.sk CNAME .
+partner.momcare.cz CNAME .
+partner.momcare.sk CNAME .
 partner.monosoke.sk CNAME .
 partner.montessorihracky.cz CNAME .
 partner.mooda.cz CNAME .
@@ -686,6 +692,7 @@ partner.ppb-pohary.cz CNAME .
 partner.pradoch.cz CNAME .
 partner.pravopisne.cz CNAME .
 partner.premiove-matrace.cz CNAME .
+partner.prodejniakademie.cz CNAME .
 partner.prosperity-vision.com CNAME .
 partner.prosperk.cz CNAME .
 partner.proviznasiet.sk CNAME .
@@ -709,6 +716,7 @@ partner.sladkyklub.cz CNAME .
 partner.slimpasta.cz CNAME .
 partner.slimpasta.sk CNAME .
 partner.smoothiekniha.sk CNAME .
+partner.spodni-pradlo-rekova.cz CNAME .
 partner.spokojenypes.cz CNAME .
 partner.spopo.cz CNAME .
 partner.sporthangar.cz CNAME .
@@ -935,7 +943,6 @@ rek.rybizak.cz CNAME .
 royalfamily.royalchaga.sk CNAME .
 special.kvetinyexpres.cz CNAME .
 splatky.aquatrend.sk CNAME .
-splatkyzanulu.datart.sk CNAME .
 spolu.kuskakaa.cz CNAME .
 spoluhraci.decathlon.cz CNAME .
 spolupraca.aretacia-rozvodov.sk CNAME .
@@ -958,6 +965,7 @@ spoluprace.obchod-kufry.cz CNAME .
 spoluprace.obchod-setrilek.cz CNAME .
 spoluprace.potravinyarax.cz CNAME .
 spoluprace.prostor8.cz CNAME .
+spoluprace.sexito.cz CNAME .
 spoluprace.sikland.cz CNAME .
 spoluprace.terrapotheka.cz CNAME .
 spoluprace.vcelarstvi-domovina.cz CNAME .

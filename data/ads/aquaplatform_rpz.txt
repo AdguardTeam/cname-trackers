@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -81,9 +81,11 @@ console.mannixmarketing.com CNAME .
 console.revive-adserver.net CNAME .
 console.sacommunications.com CNAME .
 coreads.cambridge.org CNAME .
+creatives.goldseek.com CNAME .
 display.lawbulletin.com CNAME .
 images.addurance.com CNAME .
 images.cricketworld.com CNAME .
+images.goldseek.com CNAME .
 images.informatm.com CNAME .
 images.jacilla.no CNAME .
 images.mannenmedia.nl CNAME .
@@ -146,12 +148,16 @@ static.ad.logic-prod.viasat.io CNAME .
 static.ad.logic-test.viasat.io CNAME .
 static.aqua-adserver.com CNAME .
 static.biohandel.de CNAME .
+static.blulab.net CNAME .
+static.ceramicartsnetwork.org CNAME .
 static.consulcesi.it CNAME .
 static.engineeringnews.co.za CNAME .
 static.environmentalleader.com CNAME .
 static.everythingcolorado.com CNAME .
 static.fa-mag.com CNAME .
+static.healthcarescene.com CNAME .
 static.hollandhortimedia.nl CNAME .
+static.insideradverts.com CNAME .
 static.livingmagonline.com CNAME .
 static.mannixmarketing.com CNAME .
 static.miningweekly.com CNAME .
@@ -163,6 +169,7 @@ static.trackandfieldnews.com CNAME .
 static.walaplusadserver.com CNAME .
 tlads.midtc.com CNAME .
 treehouse.wwoz.org CNAME .
+www.cdn-adv.unionesarda.it CNAME .
 www.proforums.com CNAME .
 www.revive-static.worldscreen.com CNAME .
 www.revive.ahk.de CNAME .

@@ -11,10 +11,18 @@ afm.puprime.online
 afm.startrader.asia
 afm.startrader.com
 afm.startrader.live
+afm.sthub.cc
 afm.ultimamarkets.com
+afm.ultimamarketsglobal.com
 afm.ultimamkts.com
+afm.umtradings.com
+afm.vantage-markets.com
 afm.vantagemarkets.co
+afm.vantagemarkets.co.uk
 afm.vantagemarkets.com
+afm.vantagemarkets.io
+afm.vantagemarketsea.com
+afm.vantagetradings.com
 afm.vtg-mkt.com
 afm.vtmarkets.com
 afm.vtmarkets.net
@@ -39,6 +47,7 @@ analyze.central1.cc
 api.v1.threatmetrix.space.ge
 api1.sfcu.org
 apicorporativops.portoseguro.com.br
+app.uob.co.th
 app.uob.com.my
 app.uob.com.sg
 app392.gerberlife.com
@@ -53,6 +62,7 @@ assets.harlandclarke.com
 assets.werally.co
 assets2.ihg.com
 assets2.thefirstclub.com
+aucrdtfrd.revolut.codes
 aucrdtfrd.revolut.com
 auth.vedacheck.com.au
 auth2.corelogic.asia
@@ -185,11 +195,11 @@ clovergo.june-testing.firstdata.com
 cmprofile.cards.citidirect.com
 cnt.goboo.com
 cnt.patpat.com
-cnt2.bank.za.group
 compliance.mohegansuncasino.com
 compliance.resortscasino.com
 condition.applause.com
 contendvc.cnouyi.pizza
+content-48.cnb.com
 content-tix.topi.eu
 content-uk.fundingcircle.com
 content.addisonlee.com
@@ -402,6 +412,7 @@ csource.rentals.com
 css.bitcasino.io
 css.slots.io
 css.sportsbet.io
+csservice.aircanada.com
 cstm.gumtree.com
 customer.homedepot.com
 customercenter-img04.auto-owners.com
@@ -438,6 +449,7 @@ dfp.mcdonalds.fr
 dfp.s-budget-mobile.at
 dfp.t-mobile.at
 dfp.telering.at
+dicontent.ckapis.com
 dicontent.creditkarma.com
 did.fashionworld.co.uk
 did.koempf24.de
@@ -590,6 +602,7 @@ ln.acornfun.com
 ln.cash.app
 ln.meudigio.com.br
 ln.spinsorcery.net
+ln.zenmerge.club
 lnc.mo.gov
 lncdn.aspire.com
 lncdn.goosehead.com
@@ -670,7 +683,6 @@ payments.hd-plus.de
 payrisk-tmx.didiglobal.com
 pdr.eve.sonyentertainmentnetwork.com
 pf.intuit.com
-pfp.intuit.com
 phyon.communipay.net
 phyon.visit-x.net
 piafapp.poste.it
@@ -846,6 +858,7 @@ shield.boostbusiness.my
 shield.legalzoom.com
 sitehelper.myengageft.com
 sitehelper.optimizemoney.com
+skw.eve.account.sony.com
 solstice.ibotta.com
 sptbb.pilates.com
 src.ebay-us.com
@@ -928,6 +941,7 @@ tags.openaccount.rbs.co.uk
 tags.rbs.co.uk
 tags.rbsdigital.com
 tags.s-dati.com
+tags.sandbox.onlinebankingtest.natwestinternational.com
 tags.ulsterbank.co.uk
 tags.ulsterbankanytimebanking.co.uk
 tags.ulsterbankanytimebanking.ie
@@ -1133,6 +1147,7 @@ ww3.peacsolutions.com
 ww9.lloydsbank.com
 www.cdna.cofidis.be
 www.content.bnl.it
+www.content.espace-client.hellobank.fr
 www.content.mabanquepro.bnpparibas
 xfp.intuit.com
 xmt.paze.com

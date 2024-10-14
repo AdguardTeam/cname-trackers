@@ -69,7 +69,6 @@
 | clkn.moviesinspector.com | api.clickaine.com |
 | clkn2.apostle.onl | api.clickaine.com |
 | clkn3.apostle.onl | api.clickaine.com |
-| clknrtrg.pro | api.clickaine.com |
 | cln.willyporn.com | api.clickaine.com |
 | cn4.animehdl.net | api.clickaine.com |
 | cn4.cheemsporn.com | api.clickaine.com |
@@ -114,6 +113,7 @@
 | sda.am-da.xyz | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |
 | taco.sexreels.net | api.clickaine.com |
+| tcp.topcomicporno.net | api.clickaine.com |
 | v040419.badjojo.com | api.clickaine.com |
 | wafe.camcaps.sx | api.clickaine.com |
 | wp.brandnewapp.pro | api.clickaine.com |

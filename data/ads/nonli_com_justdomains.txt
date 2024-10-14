@@ -18,6 +18,7 @@ l.africabusinessplus.com
 l.allocine.fr
 l.alternatives-economiques.fr
 l.aufeminin.com
+l.aujourdhui.fr
 l.beauxarts.com
 l.bfmtv.com
 l.caminteresse.fr
@@ -28,6 +29,7 @@ l.challenges.fr
 l.cuisineactuelle.fr
 l.doctissimo.fr
 l.enfant.com
+l.euronews.com
 l.familiscope.fr
 l.femmeactuelle.fr
 l.fip.fr
@@ -85,6 +87,7 @@ l.radiofrance.fr
 l.reporterre.net
 l.rmc.fr
 l.rmcsport.fr
+l.roole.fr
 l.sciencesetavenir.fr
 l.sudinfo.be
 l.sudouest.fr

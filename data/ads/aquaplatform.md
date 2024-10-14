@@ -17,8 +17,10 @@
     * bioverlag-delivery.aquaplatform.com
     * bioverlag-static.aquaplatform.com
     * blulab-delivery.aquaplatform.com
+    * blulab-static.aquaplatform.com
     * cambridge-delivery.aquaplatform.com
     * ceramics-delivery.aquaplatform.com
+    * ceramics-static.aquaplatform.com
     * channelvas-console.aquaplatform.com
     * channelvas-delivery.aquaplatform.com
     * console.aquaplatform.com
@@ -37,12 +39,15 @@
     * geenstijl-delivery.aquaplatform.com
     * geodelivery.aquaplatform.com
     * goldseek-delivery.aquaplatform.com
+    * goldseek-static.aquaplatform.com
     * hcs-delivery.aquaplatform.com
+    * hcs-static.aquaplatform.com
     * hourmedia-console.aquaplatform.com
     * hourmedia-delivery.aquaplatform.com
     * hourmedia-static.aquaplatform.com
     * im-console.aquaplatform.com
     * im-delivery.aquaplatform.com
+    * im-static.aquaplatform.com
     * lawbulletin-delivery.aquaplatform.com
     * lb-delivery.aquaplatform.com
     * lb-static.aquaplatform.com
@@ -124,8 +129,10 @@
 | static.biohandel.de | bioverlag-static.aquaplatform.com |
 | static.schrotundkorn.de | bioverlag-static.aquaplatform.com |
 | adv.blulab.net | blulab-delivery.aquaplatform.com |
+| static.blulab.net | blulab-static.aquaplatform.com |
 | coreads.cambridge.org | cambridge-delivery.aquaplatform.com |
 | servedby.ceramicartsnetwork.org | ceramics-delivery.aquaplatform.com |
+| static.ceramicartsnetwork.org | ceramics-static.aquaplatform.com |
 | console.channelvas.com | channelvas-console.aquaplatform.com |
 | servedby.channelvas.com | channelvas-delivery.aquaplatform.com |
 | api.metrike.com | console.aquaplatform.com |
@@ -152,7 +159,10 @@
 | servedby.quirks.com | geodelivery.aquaplatform.com |
 | www.servedby.quirks.com | geodelivery.aquaplatform.com |
 | advertising.goldseek.com | goldseek-delivery.aquaplatform.com |
+| creatives.goldseek.com | goldseek-static.aquaplatform.com |
+| images.goldseek.com | goldseek-static.aquaplatform.com |
 | servedby.healthcarescene.com | hcs-delivery.aquaplatform.com |
+| static.healthcarescene.com | hcs-static.aquaplatform.com |
 | console.greenspring.com | hourmedia-console.aquaplatform.com |
 | console.hour-media.com | hourmedia-console.aquaplatform.com |
 | servedby.atlantamagazine.com | hourmedia-delivery.aquaplatform.com |
@@ -168,6 +178,7 @@
 | banners.orangecoast.com | hourmedia-static.aquaplatform.com |
 | console.insideradverts.com | im-console.aquaplatform.com |
 | servedby.insideradverts.com | im-delivery.aquaplatform.com |
+| static.insideradverts.com | im-static.aquaplatform.com |
 | display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
 | banners.leightonbroadcasting.com | lb-delivery.aquaplatform.com |
 | cdn.leightonbroadcasting.com | lb-static.aquaplatform.com |
@@ -257,6 +268,7 @@
 | static.trackandfieldnews.com | tfn-static.aquaplatform.com |
 | adv.unionesarda.it | unionesarda-delivery.aquaplatform.com |
 | cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
+| www.cdn-adv.unionesarda.it | unionesarda-static.aquaplatform.com |
 | server.ad.logic-prod.viasat.io | viasat-delivery.aquaplatform.com |
 | server.ad.logic.viasat.io | viasat-delivery.aquaplatform.com |
 | static.ad.logic-prod.viasat.io | viasat-static.aquaplatform.com |

@@ -40,6 +40,7 @@ affil.jobsik.cz
 affil.knihavyhod.cz
 affil.knihazenasnov.sk
 affil.kralovstvi-tiande.cz
+affil.lesgoodies.com
 affil.litinove-nadobi.cz
 affil.moringamix.cz
 affil.mydrinks.cz
@@ -288,10 +289,12 @@ ambasador.rustspolecne.cz
 ambasadorky.zenyzenam.cz
 ambassador.notsofunnyany.com
 ambassadors.childhoodpotential.com
+ambassadors.guideandgrow.com
 box.cryptokingdom.tech
 box.kryptotrejder.sk
 brana.ritualyomlazeni.cz
 collab.zdravetricko.cz
+dbsaysnba4ygmwav.algomoneo.com
 dekovacka.stickersmakers.cz
 devaff.bitcoinzmenaren.sk
 doporuc.hopsej.cz
@@ -601,6 +604,7 @@ partner.lehatkapropsy.cz
 partner.lemurak.cz
 partner.lenkahomeopatie.cz
 partner.levanduloveudoli.cz
+partner.levanduloveudolie.sk
 partner.liberec-ubytovani.cz
 partner.lidajirickova.cz
 partner.ligsuniversity.cz
@@ -625,6 +629,8 @@ partner.minikoioi.cz
 partner.misinacokolada.cz
 partner.mojeluha.cz
 partner.mojetonery.sk
+partner.momcare.cz
+partner.momcare.sk
 partner.monosoke.sk
 partner.montessorihracky.cz
 partner.mooda.cz
@@ -675,6 +681,7 @@ partner.ppb-pohary.cz
 partner.pradoch.cz
 partner.pravopisne.cz
 partner.premiove-matrace.cz
+partner.prodejniakademie.cz
 partner.prosperity-vision.com
 partner.prosperk.cz
 partner.proviznasiet.sk
@@ -698,6 +705,7 @@ partner.sladkyklub.cz
 partner.slimpasta.cz
 partner.slimpasta.sk
 partner.smoothiekniha.sk
+partner.spodni-pradlo-rekova.cz
 partner.spokojenypes.cz
 partner.spopo.cz
 partner.sporthangar.cz
@@ -924,7 +932,6 @@ rek.rybizak.cz
 royalfamily.royalchaga.sk
 special.kvetinyexpres.cz
 splatky.aquatrend.sk
-splatkyzanulu.datart.sk
 spolu.kuskakaa.cz
 spoluhraci.decathlon.cz
 spolupraca.aretacia-rozvodov.sk
@@ -947,6 +954,7 @@ spoluprace.obchod-kufry.cz
 spoluprace.obchod-setrilek.cz
 spoluprace.potravinyarax.cz
 spoluprace.prostor8.cz
+spoluprace.sexito.cz
 spoluprace.sikland.cz
 spoluprace.terrapotheka.cz
 spoluprace.vcelarstvi-domovina.cz

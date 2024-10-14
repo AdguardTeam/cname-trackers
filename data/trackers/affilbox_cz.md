@@ -59,6 +59,7 @@
 | affil.knihavyhod.cz | cz.affilbox.cz |
 | affil.knihazenasnov.sk | cz.affilbox.cz |
 | affil.kralovstvi-tiande.cz | cz.affilbox.cz |
+| affil.lesgoodies.com | cz.affilbox.cz |
 | affil.litinove-nadobi.cz | cz.affilbox.cz |
 | affil.moringamix.cz | cz.affilbox.cz |
 | affil.mydrinks.cz | cz.affilbox.cz |
@@ -307,10 +308,12 @@
 | ambasadorky.zenyzenam.cz | cz.affilbox.cz |
 | ambassador.notsofunnyany.com | cz.affilbox.cz |
 | ambassadors.childhoodpotential.com | cz.affilbox.cz |
+| ambassadors.guideandgrow.com | cz.affilbox.cz |
 | box.cryptokingdom.tech | cz.affilbox.cz |
 | box.kryptotrejder.sk | cz.affilbox.cz |
 | brana.ritualyomlazeni.cz | cz.affilbox.cz |
 | collab.zdravetricko.cz | cz.affilbox.cz |
+| dbsaysnba4ygmwav.algomoneo.com | cz.affilbox.cz |
 | dekovacka.stickersmakers.cz | cz.affilbox.cz |
 | devaff.bitcoinzmenaren.sk | cz.affilbox.cz |
 | doporuc.hopsej.cz | cz.affilbox.cz |
@@ -620,6 +623,7 @@
 | partner.lemurak.cz | cz.affilbox.cz |
 | partner.lenkahomeopatie.cz | cz.affilbox.cz |
 | partner.levanduloveudoli.cz | cz.affilbox.cz |
+| partner.levanduloveudolie.sk | cz.affilbox.cz |
 | partner.liberec-ubytovani.cz | cz.affilbox.cz |
 | partner.lidajirickova.cz | cz.affilbox.cz |
 | partner.ligsuniversity.cz | cz.affilbox.cz |
@@ -644,6 +648,8 @@
 | partner.misinacokolada.cz | cz.affilbox.cz |
 | partner.mojeluha.cz | cz.affilbox.cz |
 | partner.mojetonery.sk | cz.affilbox.cz |
+| partner.momcare.cz | cz.affilbox.cz |
+| partner.momcare.sk | cz.affilbox.cz |
 | partner.monosoke.sk | cz.affilbox.cz |
 | partner.montessorihracky.cz | cz.affilbox.cz |
 | partner.mooda.cz | cz.affilbox.cz |
@@ -694,6 +700,7 @@
 | partner.pradoch.cz | cz.affilbox.cz |
 | partner.pravopisne.cz | cz.affilbox.cz |
 | partner.premiove-matrace.cz | cz.affilbox.cz |
+| partner.prodejniakademie.cz | cz.affilbox.cz |
 | partner.prosperity-vision.com | cz.affilbox.cz |
 | partner.prosperk.cz | cz.affilbox.cz |
 | partner.proviznasiet.sk | cz.affilbox.cz |
@@ -717,6 +724,7 @@
 | partner.slimpasta.cz | cz.affilbox.cz |
 | partner.slimpasta.sk | cz.affilbox.cz |
 | partner.smoothiekniha.sk | cz.affilbox.cz |
+| partner.spodni-pradlo-rekova.cz | cz.affilbox.cz |
 | partner.spokojenypes.cz | cz.affilbox.cz |
 | partner.spopo.cz | cz.affilbox.cz |
 | partner.sporthangar.cz | cz.affilbox.cz |
@@ -943,7 +951,6 @@
 | royalfamily.royalchaga.sk | cz.affilbox.cz |
 | special.kvetinyexpres.cz | cz.affilbox.cz |
 | splatky.aquatrend.sk | cz.affilbox.cz |
-| splatkyzanulu.datart.sk | cz.affilbox.cz |
 | spolu.kuskakaa.cz | cz.affilbox.cz |
 | spoluhraci.decathlon.cz | cz.affilbox.cz |
 | spolupraca.aretacia-rozvodov.sk | cz.affilbox.cz |
@@ -966,6 +973,7 @@
 | spoluprace.obchod-setrilek.cz | cz.affilbox.cz |
 | spoluprace.potravinyarax.cz | cz.affilbox.cz |
 | spoluprace.prostor8.cz | cz.affilbox.cz |
+| spoluprace.sexito.cz | cz.affilbox.cz |
 | spoluprace.sikland.cz | cz.affilbox.cz |
 | spoluprace.terrapotheka.cz | cz.affilbox.cz |
 | spoluprace.vcelarstvi-domovina.cz | cz.affilbox.cz |

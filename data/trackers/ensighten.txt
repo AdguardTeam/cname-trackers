@@ -77,7 +77,6 @@
 ||analytics.carecreditlearning.com^
 ||analytics.carecreditprovidercenter.com^
 ||analytics.ensighten.com^
-||analytics.lumberliquidators.com^
 ||analytics.mysynchrony.com^
 ||analytics.ovative.com^
 ||analytics.polaris.com^
@@ -196,11 +195,13 @@
 ||dc.jared.com^
 ||dc.kay.com^
 ||dc.kayoutlet.com^
+||dc.peoplesjewellers.com^
 ||dc.sterlingjewelers.com^
 ||dc.stokke.com^
 ||dc.volkswagen.com^
 ||dc.volkswagen.de^
 ||dc.volkswagen.pl^
+||dc.vw.co.za^
 ||dc.vw.com.mx^
 ||dc.zales.com^
 ||dc.zalesoutlet.com^
@@ -298,6 +299,7 @@
 ||privacy.latitudefinancial.com^
 ||privacy.latitudefinancial.com.au^
 ||privacy.latitudepay.com^
+||privacy.learcapital.com^
 ||privacy.online.heineken.co.za^
 ||privacy.owllabs.com^
 ||privacy.tigerbeer.com^
@@ -361,6 +363,7 @@
 ||tam.volkswagen.com^
 ||tdi.cartoonnetwork.com^
 ||tea.tescobank.com^
+||tea2.tescobank.com^
 ||test3-dc.jared.com^
 ||test3-dc.kay.com^
 ||test3-dc.kayoutlet.com^
@@ -387,6 +390,8 @@
 ||tms.virginatlantic.com^
 ||tmsgi.lv.com^
 ||uat1-dc.pagoda.com^
+||uat1-dc.peoplesjewellers.com^
 ||uat1-dc.zales.com^
+||uat1-dc.zalesoutlet.com^
 ||virginaustralia.activate.ensighten.com^
 ||www.themorningcallmediagroup.com^

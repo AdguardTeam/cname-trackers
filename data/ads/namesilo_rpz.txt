@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,6 +12,7 @@ $TTL 300
 @    IN   NS    localhost.
 
 *.exaapi.com CNAME .
+0gjk78xazs6np76r.notifysrv.com CNAME .
 10.notify.bizonads-ssp.com CNAME .
 10.notifysrv.com CNAME .
 1109.notify.optimizesrv.com CNAME .
@@ -57,6 +58,7 @@ $TTL 300
 3166293.notifysrv.com CNAME .
 3166309.notifysrv.com CNAME .
 3166313.notifysrv.com CNAME .
+3166355.notifysrv.com CNAME .
 3167043.notifysrv.com CNAME .
 3167143.notifysrv.com CNAME .
 3168195.notify6.com CNAME .
@@ -171,6 +173,7 @@ $TTL 300
 3217033.notifysrv.com CNAME .
 3217213.notifysrv.com CNAME .
 3220723.notify6.com CNAME .
+3220913.notify6.com CNAME .
 3221653.notifysrv.com CNAME .
 3221733.notify6.com CNAME .
 3221733.notifysrv.com CNAME .
@@ -217,6 +220,7 @@ $TTL 300
 3281804.notifysrv.com CNAME .
 3282004.notifysrv.com CNAME .
 3282174.notifysrv.com CNAME .
+3282272.notify6.com CNAME .
 3283088.notifysrv.com CNAME .
 3283090.notify6.com CNAME .
 3283090.notifysrv.com CNAME .
@@ -361,6 +365,7 @@ $TTL 300
 3385991.notify6.com CNAME .
 3385991.notifysrv.com CNAME .
 3386671.notify6.com CNAME .
+3387583.notifysrv.com CNAME .
 3389741.notify6.com CNAME .
 3392623.notify6.com CNAME .
 3392623.notifysrv.com CNAME .
@@ -441,6 +446,7 @@ $TTL 300
 3440413.notifysrv.com CNAME .
 3440863.notifysrv.com CNAME .
 3442145.notifysrv.com CNAME .
+3442291.notify6.com CNAME .
 3447913.notifysrv.com CNAME .
 3451465.notifysrv.com CNAME .
 3453873.notifysrv.com CNAME .
@@ -458,12 +464,14 @@ $TTL 300
 3461289.notify6.com CNAME .
 3461289.notifysrv.com CNAME .
 3461293.notifysrv.com CNAME .
+3461347.notify6.com CNAME .
 3461347.notifysrv.com CNAME .
 3461533.notifysrv.com CNAME .
 3464703.notifysrv.com CNAME .
 3466497.notifysrv.com CNAME .
 3466503.notifysrv.com CNAME .
 3466845.notifysrv.com CNAME .
+3466847.notifysrv.com CNAME .
 3466857.notify6.com CNAME .
 3466857.notifysrv.com CNAME .
 3466861.notify6.com CNAME .
@@ -487,12 +495,14 @@ $TTL 300
 3476453.notifysrv.com CNAME .
 3477325.notify6.com CNAME .
 3478737.notifysrv.com CNAME .
+3479835.notifysrv.com CNAME .
 3483067.notifysrv.com CNAME .
 3483233.notifysrv.com CNAME .
 3483409.notify6.com CNAME .
 3484631.notify6.com CNAME .
 3485755.notifysrv.com CNAME .
 3489365.notify6.com CNAME .
+3489537.notifysrv.com CNAME .
 3491507.notifysrv.com CNAME .
 3491539.notifysrv.com CNAME .
 3493551.notify6.com CNAME .
@@ -524,6 +534,7 @@ $TTL 300
 3505993.notifysrv.com CNAME .
 3506005.notify6.com CNAME .
 3508349.notifysrv.com CNAME .
+3508759.notifysrv.com CNAME .
 3508819.notify6.com CNAME .
 3508819.notifysrv.com CNAME .
 3508993.notifysrv.com CNAME .
@@ -631,6 +642,7 @@ $TTL 300
 3588587.notify6.com CNAME .
 3588587.notifysrv.com CNAME .
 3588589.notify6.com CNAME .
+3588591.notify6.com CNAME .
 3588593.notifysrv.com CNAME .
 3588597.notifysrv.com CNAME .
 3588599.notifysrv.com CNAME .
@@ -683,11 +695,13 @@ $TTL 300
 3648599.notifysrv.com CNAME .
 3653677.notifysrv.com CNAME .
 3653689.notify6.com CNAME .
+3653689.notifysrv.com CNAME .
 3654845.notify6.com CNAME .
 3658633.notifysrv.com CNAME .
 3661193.notify6.com CNAME .
 3662555.notifysrv.com CNAME .
 3662557.notifysrv.com CNAME .
+3662559.notifysrv.com CNAME .
 3662563.notifysrv.com CNAME .
 3662591.notifysrv.com CNAME .
 3662593.notifysrv.com CNAME .
@@ -704,6 +718,7 @@ $TTL 300
 3668785.notify6.com CNAME .
 3668785.notifysrv.com CNAME .
 3668787.notifysrv.com CNAME .
+3668789.notify6.com CNAME .
 3668791.notify6.com CNAME .
 3670119.notifysrv.com CNAME .
 3670315.notify6.com CNAME .
@@ -728,6 +743,7 @@ $TTL 300
 3724345.notify6.com CNAME .
 3724345.notifysrv.com CNAME .
 3727723.notifysrv.com CNAME .
+3728675.notify6.com CNAME .
 3728675.notifysrv.com CNAME .
 3730893.notifysrv.com CNAME .
 3731701.notify6.com CNAME .
@@ -753,11 +769,13 @@ $TTL 300
 3791967.notify6.com CNAME .
 3793871.notifysrv.com CNAME .
 3793875.notify6.com CNAME .
+3793875.notifysrv.com CNAME .
 3794323.notify6.com CNAME .
 3805703.notifysrv.com CNAME .
 3814695.notifysrv.com CNAME .
 3815573.notify6.com CNAME .
 3815579.notify6.com CNAME .
+3822855.notifysrv.com CNAME .
 3822893.notifysrv.com CNAME .
 3832097.notifysrv.com CNAME .
 3837365.notifysrv.com CNAME .
@@ -798,11 +816,14 @@ $TTL 300
 3898244.notify6.com CNAME .
 3898280.notify6.com CNAME .
 3898378.notify6.com CNAME .
+3903162.notify6.com CNAME .
 3903164.notify6.com CNAME .
+3909064.notify6.com CNAME .
 3911078.notify6.com CNAME .
 3914108.notify6.com CNAME .
 3917502.notify6.com CNAME .
 3917506.notify6.com CNAME .
+3917528.notify6.com CNAME .
 3917534.notify6.com CNAME .
 3917542.notify6.com CNAME .
 3919748.notify6.com CNAME .
@@ -812,6 +833,7 @@ $TTL 300
 3935570.notify6.com CNAME .
 3937625.notify6.com CNAME .
 3938193.notify6.com CNAME .
+3938711.notify6.com CNAME .
 3939960.notify6.com CNAME .
 3943940.notify6.com CNAME .
 3944044.notify6.com CNAME .
@@ -896,6 +918,7 @@ $TTL 300
 4078544.notify6.com CNAME .
 4080560.notify6.com CNAME .
 4080606.notify6.com CNAME .
+4080872.notify6.com CNAME .
 4086498.notify6.com CNAME .
 4093684.notify6.com CNAME .
 4093690.notify6.com CNAME .
@@ -904,6 +927,7 @@ $TTL 300
 4097564.notify6.com CNAME .
 4097566.notify6.com CNAME .
 4104214.notify6.com CNAME .
+4106200.notify6.com CNAME .
 4130286.notify6.com CNAME .
 4131834.notify6.com CNAME .
 4133026.notify6.com CNAME .
@@ -952,6 +976,7 @@ $TTL 300
 4225290.notify6.com CNAME .
 4231372.notify6.com CNAME .
 4231374.notify6.com CNAME .
+4241048.notify6.com CNAME .
 4241052.notify6.com CNAME .
 4243868.notify6.com CNAME .
 4255510.notify6.com CNAME .
@@ -1098,8 +1123,33 @@ $TTL 300
 993.notify.optimizesrv.com CNAME .
 _sip._tcp.meet.3393147.notifysrv.com CNAME .
 _sips._tcp.3323174.notifysrv.com CNAME .
+a.18ramp.com CNAME .
+a.344eva.com CNAME .
+a.addisplaynetwork.com CNAME .
+a.adsession.com CNAME .
+a.advantageclicks.net CNAME .
+a.advertrek.com CNAME .
+a.asvsm.com CNAME .
+a.b7q9v8z.com CNAME .
+a.cant3am.com CNAME .
+a.etology.com CNAME .
+a.eunow4u.com CNAME .
+a.ma3ion.com CNAME .
 a.mx.notifysrv.com CNAME .
+a.n4m5x60.com CNAME .
 a.ns.notifysrv.com CNAME .
+a.optimizesrv.com CNAME .
+a.ouzads.com CNAME .
+a.playa.to CNAME .
+a.q88z1s3.com CNAME .
+a.r8lnet.com CNAME .
+a.redpathmedia.com CNAME .
+a.rocoads.net CNAME .
+a.santabrowser.com CNAME .
+a.slice.exchange CNAME .
+a.tf4srv.com CNAME .
+a.traffic-gold.com CNAME .
+a.vws4brkfst.com CNAME .
 abc.notifysrv.com CNAME .
 accept.notifysrv.com CNAME .
 access.notifysrv.com CNAME .
@@ -1137,7 +1187,9 @@ asb.notifysrv.com CNAME .
 asia.notifysrv.com CNAME .
 atrium.notifysrv.com CNAME .
 autoconfig.directory.notifysrv.com CNAME .
+az6a8nmuz5vbrgd2.exasrv.com CNAME .
 click.advertrek.com CNAME .
+delivery.gettopple.com CNAME .
 engine.gettopple.com CNAME .
 feedback.notifysrv.com CNAME .
 ftp1.notifysrv.com CNAME .
@@ -1163,6 +1215,7 @@ indonesia.notifysrv.com CNAME .
 internal.notifysrv.com CNAME .
 james.notifysrv.com CNAME .
 joyce.notifysrv.com CNAME .
+jzduxkeumwnrfp6x.exasrv.com CNAME .
 kiev.notifysrv.com CNAME .
 law.notifysrv.com CNAME .
 m.hue4c.com CNAME .
@@ -1266,7 +1319,6 @@ s.redpathmedia.com CNAME .
 s.rocoads.net CNAME .
 s.slice.exchange CNAME .
 s.st1net.com CNAME .
-s.stuffserve.com CNAME .
 s.tf4srv.com CNAME .
 s.traffic-gold.com CNAME .
 s.valuemedia-ltd.com CNAME .
@@ -1366,10 +1418,12 @@ webdisk.client.notifysrv.com CNAME .
 win4.notifysrv.com CNAME .
 www.10.notify.bizonads-ssp.com CNAME .
 www.12.notify.bizonads-ssp.com CNAME .
+www.3166293.notifysrv.com CNAME .
 www.3177866.notifysrv.com CNAME .
 www.3191479.notifysrv.com CNAME .
 www.3207479.notify6.com CNAME .
 www.3207695.notify6.com CNAME .
+www.3210363.notifysrv.com CNAME .
 www.3227697.notify6.com CNAME .
 www.3231172.notify6.com CNAME .
 www.3243082.notifysrv.com CNAME .
@@ -1377,12 +1431,15 @@ www.3250420.notify6.com CNAME .
 www.3254306.notifysrv.com CNAME .
 www.3270262.notifysrv.com CNAME .
 www.3328380.notifysrv.com CNAME .
+www.3345712.notify6.com CNAME .
 www.3351072.notifysrv.com CNAME .
 www.3352256.notify6.com CNAME .
+www.3389741.notify6.com CNAME .
 www.3398315.notify6.com CNAME .
 www.3410343.notify6.com CNAME .
 www.3440153.notify6.com CNAME .
 www.3440411.notify6.com CNAME .
+www.3442291.notify6.com CNAME .
 www.3466857.notify6.com CNAME .
 www.3466863.notify6.com CNAME .
 www.3475335.notify6.com CNAME .
@@ -1395,6 +1452,7 @@ www.3684237.notify6.com CNAME .
 www.3815579.notify6.com CNAME .
 www.3856281.notify6.com CNAME .
 www.3881818.notify6.com CNAME .
+www.3959292.notify6.com CNAME .
 www.3972246.notify6.com CNAME .
 www.4.notify.bizonads-ssp.com CNAME .
 www.4065194.notify6.com CNAME .
@@ -1413,32 +1471,5 @@ www.notify.bizonads-ssp.com CNAME .
 www.notify6.com CNAME .
 www.notifysrv.com CNAME .
 www.survey.notifysrv.com CNAME .
-a.18ramp.com CNAME .
-a.344eva.com CNAME .
-a.addisplaynetwork.com CNAME .
-a.adsession.com CNAME .
-a.advantageclicks.net CNAME .
-a.advertrek.com CNAME .
-a.asvsm.com CNAME .
-a.b7q9v8z.com CNAME .
 a.bizonads-ssp.com CNAME .
-a.cant3am.com CNAME .
-a.etology.com CNAME .
-a.eunow4u.com CNAME .
-a.ma3ion.com CNAME .
-a.n4m5x60.com CNAME .
-a.optimizesrv.com CNAME .
-a.ouzads.com CNAME .
-a.playa.to CNAME .
-a.q88z1s3.com CNAME .
-a.r8lnet.com CNAME .
-a.redpathmedia.com CNAME .
-a.rocoads.net CNAME .
-a.santabrowser.com CNAME .
-a.slice.exchange CNAME .
-a.stuffserve.com CNAME .
-a.tf4srv.com CNAME .
-a.traffic-gold.com CNAME .
-a.vws4brkfst.com CNAME .
 ads.optimizesrv.com CNAME .
-delivery.gettopple.com CNAME .

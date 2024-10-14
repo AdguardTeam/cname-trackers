@@ -105,6 +105,7 @@
     * 482221458407393.wt-eu02.net
     * 484879729086450.wt-eu02.net
     * 489164258023327.wt-eu02.net
+    * 495967780350059.wt-eu02.net
     * 517717528680725.wt-eu02.net
     * 524656123914087.wt-eu02.net
     * 545460378195639.wt-eu02.net
@@ -148,6 +149,7 @@
     * 757421535252818.wt-eu02.net
     * 769396664005295.wt-eu02.net
     * 770833460572104.wt-eu02.net
+    * 778835614863159.wt-eu02.net
     * 790635424156780.wt-eu02.net
     * 792100555808051.wt-eu02.net
     * 795078683620107.wt-eu02.net
@@ -339,6 +341,7 @@
 | web.mapp.whiteaway.se | 482221458407393.wt-eu02.net |
 | mapp.jysk.dk | 484879729086450.wt-eu02.net |
 | web.mailing.vapormed.com | 489164258023327.wt-eu02.net |
+| web.marketing.jellybelly.com | 495967780350059.wt-eu02.net |
 | data.all-in.de | 517717528680725.wt-eu02.net |
 | data.allgaeuer-zeitung.de | 517717528680725.wt-eu02.net |
 | census.misterspex.no | 524656123914087.wt-eu02.net |
@@ -401,6 +404,7 @@
 | web.sidsavage.com | 757421535252818.wt-eu02.net |
 | t.mediaset.it | 769396664005295.wt-eu02.net |
 | w.m.nkl-peters.de | 770833460572104.wt-eu02.net |
+| ctd.domusweb.it | 778835614863159.wt-eu02.net |
 | web.communications.amouage.com | 790635424156780.wt-eu02.net |
 | prophet.heise-academy.de | 792100555808051.wt-eu02.net |
 | web.powgen.it | 795078683620107.wt-eu02.net |

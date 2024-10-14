@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,6 +28,7 @@ al.caetus.jp CNAME .
 al.californiastreet.net CNAME .
 al.combinationmeal.com CNAME .
 al.directishii.net CNAME .
+al.dmjegao.com CNAME .
 al.eaphi.co.jp CNAME .
 al.entresquare.com CNAME .
 al.epoi-jp.com CNAME .

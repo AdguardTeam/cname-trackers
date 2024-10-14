@@ -169,6 +169,7 @@
 ||tr.cart02d.espmp-agfr.net^
 ||tr.carte.lcl.fr^
 ||tr.cartegie.fr^
+||tr.cashback.floa.fr^
 ||tr.cb4x.banque-casino.fr^
 ||tr.cclx.espmp-agfr.net^
 ||tr.cdiscount.3wregie.com^
@@ -393,6 +394,7 @@
 ||tr.eulerhermes.com^
 ||tr.ev001.net^
 ||tr.evenements.inpi.fr^
+||tr.events-europa-organisation.com^
 ||tr.expresofferte.be^
 ||tr.fg3p.espmp-cufr.net^
 ||tr.fidal.pro^
@@ -749,6 +751,7 @@
 ||tr.news.externis.com^
 ||tr.news.extrabook.com^
 ||tr.news.flandrintechnologies.com^
+||tr.news.frame.fr^
 ||tr.news.franceloc.fr^
 ||tr.news.futuramedia.fr^
 ||tr.news.geantcasino.fr^
@@ -930,6 +933,7 @@
 ||tr.ojxm.espmp-aufr.net^
 ||tr.online.longchamp.com^
 ||tr.openinnovation.lvmh.com^
+||tr.operations.butagaz.fr^
 ||tr.orange-lease.fr^
 ||tr.orcamento-online.pt^
 ||tr.orcamentos-companeo.pt^
@@ -1116,6 +1120,7 @@
 ||tr.welcome.vipmag.fr^
 ||tr.win.moethennessy.com^
 ||tr.wuei.espmp-agfr.net^
+||tr.wycena-companeo.pl^
 ||tr.xlead.digital^
 ||tr.xleads.digital^
 ||tr.zojh.espmp-aluk.net^

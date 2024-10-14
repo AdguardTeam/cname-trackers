@@ -19,7 +19,6 @@
 * affiliatable1.b-cdn.net
 * unibotscdn.b-cdn.net
 * popupads.b-cdn.net
-* tracking.b-cdn.net
 * consent.b-cdn.net
 * b-cdn.net
 
@@ -212,7 +211,6 @@
 | bobcat.pronounce.technology | deprecated-custom-domains.b-cdn.net |
 | bobcat.snapshooter.io | deprecated-custom-domains.b-cdn.net |
 | boom.laravel.io | deprecated-custom-domains.b-cdn.net |
-| bovid.docutize.de | deprecated-custom-domains.b-cdn.net |
 | bovid.neural.love | deprecated-custom-domains.b-cdn.net |
 | bowie-cdn.fathomdns.com | deprecated-custom-domains.b-cdn.net |
 | bug.aestheticpixels.io | deprecated-custom-domains.b-cdn.net |
@@ -274,7 +272,6 @@
 | centipede.davimug.com | deprecated-custom-domains.b-cdn.net |
 | centipede.roasted.dev | deprecated-custom-domains.b-cdn.net |
 | centipede.wildbit.com | deprecated-custom-domains.b-cdn.net |
-| centipede.yuv.al | deprecated-custom-domains.b-cdn.net |
 | cephalopod.nucleus.us | deprecated-custom-domains.b-cdn.net |
 | cephalopod.photoprism.pro | deprecated-custom-domains.b-cdn.net |
 | cephalopod.revelio.io | deprecated-custom-domains.b-cdn.net |
@@ -416,7 +413,6 @@
 | finch.koronasporing.no | deprecated-custom-domains.b-cdn.net |
 | finch.market.xyz | deprecated-custom-domains.b-cdn.net |
 | firefly.jamesbrowne.me | deprecated-custom-domains.b-cdn.net |
-| fish.hyperfine.io | deprecated-custom-domains.b-cdn.net |
 | fish.muted.io | deprecated-custom-domains.b-cdn.net |
 | fish.trampoline.cx | deprecated-custom-domains.b-cdn.net |
 | fish.whitney.org | deprecated-custom-domains.b-cdn.net |
@@ -734,6 +730,7 @@
 | panther.tigil.rs | deprecated-custom-domains.b-cdn.net |
 | parakeet.buildcodelearn.com | deprecated-custom-domains.b-cdn.net |
 | parakeet.jorenvanhocht.be | deprecated-custom-domains.b-cdn.net |
+| parakeet.kenleyar.ai | deprecated-custom-domains.b-cdn.net |
 | parakeet.quotetweet.com | deprecated-custom-domains.b-cdn.net |
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
 | parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
@@ -873,7 +870,6 @@
 | smelt.gautrowski.com | deprecated-custom-domains.b-cdn.net |
 | snipe.mfaber.at | deprecated-custom-domains.b-cdn.net |
 | snipe.mizzuu.co | deprecated-custom-domains.b-cdn.net |
-| snipe.nipht.io | deprecated-custom-domains.b-cdn.net |
 | sole.bkosmetik.com | deprecated-custom-domains.b-cdn.net |
 | sole.pretto.fr | deprecated-custom-domains.b-cdn.net |
 | sole.riverwalkdental.com.au | deprecated-custom-domains.b-cdn.net |
@@ -1020,7 +1016,6 @@
 | wildebeest.soft-spoken.dev | deprecated-custom-domains.b-cdn.net |
 | wildebeest.trigo.dev | deprecated-custom-domains.b-cdn.net |
 | wildfowl.getmoneyoff.com | deprecated-custom-domains.b-cdn.net |
-| wildfowl.minter.io | deprecated-custom-domains.b-cdn.net |
 | wolf.idthompson.com | deprecated-custom-domains.b-cdn.net |
 | wolf.samarasousa.com | deprecated-custom-domains.b-cdn.net |
 | wolverine.barac.at | deprecated-custom-domains.b-cdn.net |
@@ -1192,7 +1187,6 @@
 | ss.nwemnd.com | ss-mndsrv.b-cdn.net |
 | ss.nwmnd.com | ss-mndsrv.b-cdn.net |
 | static.netfly.fun | st-fly.b-cdn.net |
-| cdn.tracking.prepr.io | tracking.b-cdn.net |
 | cdn.responsiq.com | unibotscdn.b-cdn.net |
 | cdn.stoic-media.com | unibotscdn.b-cdn.net |
 | cdn.studiosis.in | unibotscdn.b-cdn.net |

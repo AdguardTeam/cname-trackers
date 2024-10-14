@@ -13,6 +13,7 @@
 | o2de.mno.link | frontend.prod.utiq-aws.net |
 | orangefr.mno.link | frontend.prod.utiq-aws.net |
 | service.utiq.com | frontend.prod.utiq-aws.net |
+| sfr.mno.link | frontend.prod.utiq-aws.net |
 | tmi.jv-telcoid.es | frontend.prod.utiq-aws.net |
 | tmi.vodafone.de | frontend.prod.utiq-aws.net |
 | utiq.20minutos.es | frontend.prod.utiq-aws.net |
@@ -35,6 +36,7 @@
 | utiq.autobild.de | frontend.prod.utiq-aws.net |
 | utiq.autofrage.net | frontend.prod.utiq-aws.net |
 | utiq.autojournal.fr | frontend.prod.utiq-aws.net |
+| utiq.automobile-magazine.fr | frontend.prod.utiq-aws.net |
 | utiq.autoplus.fr | frontend.prod.utiq-aws.net |
 | utiq.az-online.de | frontend.prod.utiq-aws.net |
 | utiq.bfmtv.com | frontend.prod.utiq-aws.net |
@@ -44,18 +46,21 @@
 | utiq.blogthinkbig.com | frontend.prod.utiq-aws.net |
 | utiq.bunte.de | frontend.prod.utiq-aws.net |
 | utiq.burgosconecta.es | frontend.prod.utiq-aws.net |
+| utiq.buzzfeed.at | frontend.prod.utiq-aws.net |
 | utiq.buzzfeed.de | frontend.prod.utiq-aws.net |
 | utiq.bw24.de | frontend.prod.utiq-aws.net |
 | utiq.bz-berlin.de | frontend.prod.utiq-aws.net |
 | utiq.caminteresse.fr | frontend.prod.utiq-aws.net |
 | utiq.capital.fr | frontend.prod.utiq-aws.net |
 | utiq.cesoirtv.com | frontend.prod.utiq-aws.net |
+| utiq.chartsinfrance.net | frontend.prod.utiq-aws.net |
 | utiq.cheriefm.fr | frontend.prod.utiq-aws.net |
 | utiq.chip.de | frontend.prod.utiq-aws.net |
 | utiq.cnetfrance.fr | frontend.prod.utiq-aws.net |
 | utiq.come-on.de | frontend.prod.utiq-aws.net |
 | utiq.compradiccion.com | frontend.prod.utiq-aws.net |
 | utiq.computerbild.de | frontend.prod.utiq-aws.net |
+| utiq.computerfrage.net | frontend.prod.utiq-aws.net |
 | utiq.courrier-picard.fr | frontend.prod.utiq-aws.net |
 | utiq.cuisineactuelle.fr | frontend.prod.utiq-aws.net |
 | utiq.dasgelbeblatt.de | frontend.prod.utiq-aws.net |
@@ -82,6 +87,7 @@
 | utiq.elmundo.es | frontend.prod.utiq-aws.net |
 | utiq.elnacional.cat | frontend.prod.utiq-aws.net |
 | utiq.elnortedecastilla.es | frontend.prod.utiq-aws.net |
+| utiq.elperiodico.cat | frontend.prod.utiq-aws.net |
 | utiq.elperiodico.com | frontend.prod.utiq-aws.net |
 | utiq.elperiodicodearagon.com | frontend.prod.utiq-aws.net |
 | utiq.elperiodicoextremadura.com | frontend.prod.utiq-aws.net |
@@ -104,6 +110,7 @@
 | utiq.frandroid.com | frontend.prod.utiq-aws.net |
 | utiq.funandnews.de | frontend.prod.utiq-aws.net |
 | utiq.futurezone.de | frontend.prod.utiq-aws.net |
+| utiq.gamekult.com | frontend.prod.utiq-aws.net |
 | utiq.genbeta.com | frontend.prod.utiq-aws.net |
 | utiq.geo.fr | frontend.prod.utiq-aws.net |
 | utiq.gesundheitsfrage.net | frontend.prod.utiq-aws.net |
@@ -126,6 +133,8 @@
 | utiq.informacion.es | frontend.prod.utiq-aws.net |
 | utiq.ingame.de | frontend.prod.utiq-aws.net |
 | utiq.ingolstadt-today.de | frontend.prod.utiq-aws.net |
+| utiq.inspirational.es | frontend.prod.utiq-aws.net |
+| utiq.jeuxvideo.com | frontend.prod.utiq-aws.net |
 | utiq.jux.news | frontend.prod.utiq-aws.net |
 | utiq.kreisbote.de | frontend.prod.utiq-aws.net |
 | utiq.kreiszeitung.de | frontend.prod.utiq-aws.net |
@@ -183,11 +192,13 @@
 | utiq.palladiumhotelgroup.com | frontend.prod.utiq-aws.net |
 | utiq.paris-normandie.fr | frontend.prod.utiq-aws.net |
 | utiq.paroledemamans.com | frontend.prod.utiq-aws.net |
+| utiq.petbook-magazine.com | frontend.prod.utiq-aws.net |
 | utiq.petbook.de | frontend.prod.utiq-aws.net |
 | utiq.pleinevie.fr | frontend.prod.utiq-aws.net |
 | utiq.pnp.de | frontend.prod.utiq-aws.net |
 | utiq.programme.tv | frontend.prod.utiq-aws.net |
 | utiq.psychologies.com | frontend.prod.utiq-aws.net |
+| utiq.purebreak.com | frontend.prod.utiq-aws.net |
 | utiq.purepeople.com | frontend.prod.utiq-aws.net |
 | utiq.regio7.cat | frontend.prod.utiq-aws.net |
 | utiq.rireetchansons.fr | frontend.prod.utiq-aws.net |
@@ -243,5 +254,7 @@
 | utiq.zdnet.fr | frontend.prod.utiq-aws.net |
 | vfes.mno.link | frontend.prod.utiq-aws.net |
 | orangefr-test.mno.link | frontend.test.utiq-aws.net |
+| utiq.utest2.work | frontend.test.utiq-aws.net |
+| utiq.utest3.work | frontend.test.utiq-aws.net |
 | vfdemsp.mno.link | frontend.test.utiq-aws.net |
 | vfesmsp.mno.link | frontend.test.utiq-aws.net |

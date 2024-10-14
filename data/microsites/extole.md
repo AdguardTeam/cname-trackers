@@ -123,6 +123,7 @@
     * 1800contacts.extole.io
     * 2-10.extole.io
     * 2ndswing.extole.io
+    * 3riversfcu.extole.io
     * 4wheelparts.extole.io
     * aaaeagles.extole.io
     * abacusnext.extole.io
@@ -202,7 +203,6 @@
     * cefaly.extole.io
     * cellcom.extole.io
     * centier.extole.io
-    * certapro.extole.io
     * chacos.extole.io
     * chamberlain.extole.io
     * cheaper-than-dirt.extole.io
@@ -221,6 +221,7 @@
     * cliniquejp.extole.io
     * cliniquekr.extole.io
     * cliniquetw.extole.io
+    * codecademy.em.extole.io
     * codecademy.extole.io
     * coleman.extole.io
     * columbiacu.extole.io
@@ -284,6 +285,7 @@
     * firstleaf.extole.io
     * forddrive.extole.io
     * forgetrust.extole.io
+    * forgetrust.xtl.extole.io
     * freshly-sandbox.extole.io
     * freshworks.extole.io
     * frontgate.extole.io
@@ -375,6 +377,7 @@
     * lull.extole.io
     * lumen-optical.extole.io
     * lumen.extole.io
+    * lumos-fiber.extole.io
     * mac-cosmetics.extole.io
     * madison-reed.extole.io
     * maidpro.extole.io
@@ -384,6 +387,7 @@
     * medely.extole.io
     * merrell.extole.io
     * metlife.extole.io
+    * midlandusa.extole.io
     * minted.extole.io
     * mission.extole.io
     * mondetta.extole.io
@@ -495,6 +499,7 @@
     * smashbox.extole.io
     * snap-finance.extole.io
     * soma.extole.io
+    * soundcloud.extole.io
     * spothero.extole.io
     * sstack.extole.io
     * starbucks.extole.io
@@ -565,6 +570,7 @@
     * vonagebusiness.extole.io
     * vonagebusinessuk.extole.io
     * wagwalking.extole.io
+    * walmartmoneycard.em.extole.io
     * walmartmoneycard.extole.io
     * washtrust.extole.io
     * wearesouthwind.extole.io
@@ -578,6 +584,7 @@
     * wombat.extole.io
     * wrangler.extole.io
     * xfinity.extole.io
+    * yogaworks.extole.io
     * zenbusiness.extole.io
     * zentrointernet.extole.io
     * zenwork.extole.io
@@ -598,6 +605,7 @@
 | refer.1800contacts.com | 1800contacts.extole.io |
 | refer.2-10.com | 2-10.extole.io |
 | refer.2ndswing.com | 2ndswing.extole.io |
+| share.3riversfcu.org | 3riversfcu.extole.io |
 | share.4wheelparts.com | 4wheelparts.extole.io |
 | share.cluballiance.aaa.com | aaaeagles.extole.io |
 | refer.midatlantic.aaa.com | aaamid-atlantic.extole.com |
@@ -709,7 +717,6 @@
 | share.cefaly.com | cefaly.extole.io |
 | share.cellcom.ca | cellcom.extole.io |
 | refer.centier.com | centier.extole.io |
-| share.certapro.com | certapro.extole.io |
 | refer.chacos.com | chacos.extole.io |
 | share.myq.com | chamberlain.extole.io |
 | share.cheaperthandirt.com | cheaper-than-dirt.extole.io |
@@ -734,6 +741,7 @@
 | share.refer-clinique.jp | cliniquejp.extole.io |
 | share.refer-cliniquekorea.co.kr | cliniquekr.extole.io |
 | share.refer-clinique.com.tw | cliniquetw.extole.io |
+| em225.codecademy.com | codecademy.em.extole.io |
 | refer.codecademy.com | codecademy.extole.io |
 | refer.colemancanada.ca | coleman.extole.io |
 | love.columbiacu.org | columbiacu.extole.io |
@@ -808,9 +816,11 @@
 | refer1.experian.com | experian.extole.io |
 | earn-and-refer.extoleu.com | extoleu.extole.io |
 | gabbie.extoleu.com | extoleu.extole.io |
+| izoncl2caorfnn6o.extoleu.com | extoleu.extole.io |
 | jessica-test-numero-dos.extoleu.com | extoleu.extole.io |
 | kenn.extoleu.com | extoleu.extole.io |
 | rob.extoleu.com | extoleu.extole.io |
+| ufsmdjkg1zhzcx9i.extoleu.com | extoleu.extole.io |
 | social.fabkids.com | fabkids-ssl.extole.com |
 | share.fetchpet.com | fetchpet.extole.io |
 | share.figopetinsurance.com | figo-pet-insurance.extole.io |
@@ -823,6 +833,7 @@
 | refer.fivestars.com | fivestars.extole.com |
 | refer.forddrive.com | forddrive.extole.io |
 | refer.forgetrust.com | forgetrust.extole.io |
+| xtl._domainkey.forgetrust.com | forgetrust.xtl.extole.io |
 | refer-staging.freshly.com | freshly-sandbox.extole.io |
 | refer.freshly.com | freshly.extole.com |
 | externalreferral.freshworks.com | freshworks.extole.io |
@@ -1003,6 +1014,7 @@
 | refer.quantumfiber.com | lumen.extole.io |
 | referrals.lumen.com | lumen.extole.io |
 | score.lumen.com | lumen.extole.io |
+| refer.lumosfiber.com | lumos-fiber.extole.io |
 | refer.lymphedemaproducts.com | lymphedemaproducts.extole.com |
 | share.maccosmetics.com.au | mac-cosmetics.extole.io |
 | share.refer-maccosmetics.com.tw | mac-cosmetics.extole.io |
@@ -1016,6 +1028,7 @@
 | share.medely.com | medely.extole.io |
 | refer.merrell.com | merrell.extole.io |
 | share.legalplans.com | metlife.extole.io |
+| share.midlandusa.com | midlandusa.extole.io |
 | refer.minted.com | minted.extole.io |
 | refer.mission.com | mission.extole.io |
 | share.mlb.tv | mlbtv.extole.com |
@@ -1176,6 +1189,7 @@
 | share.refer-smashbox.com | smashbox.extole.io |
 | refer.snapfinance.com | snap-finance.extole.io |
 | refer.soma.com | soma.extole.io |
+| invite.soundcloud.com | soundcloud.extole.io |
 | refer.sperry.com | sperry.extole.com |
 | refer.spothero.com | spothero.extole.io |
 | share.sstack.com | sstack.extole.io |
@@ -1286,6 +1300,7 @@
 | francais.refer.vonage.ca | vonagefr-ssl.extole.com |
 | refer.vonage.co.uk | vonageuk.extole.com |
 | share.wagwalking.com | wagwalking.extole.io |
+| em9523.walmartmoneycard.com | walmartmoneycard.em.extole.io |
 | share.walmartmoneycard.com | walmartmoneycard.extole.io |
 | refer.washtrust.com | washtrust.extole.io |
 | refer.dreamlawn.com | wearesouthwind.extole.io |
@@ -1311,6 +1326,7 @@
 | www.refer.xfinity.com | xfinity.extole.io |
 | xtl._domainkey.skillshare.com | xtl.domainkey.u82658.wl159.sendgrid.net |
 | refer.yankeecandle.com | yankeecandle-ssl.extole.com |
+| share.yogaworks.com | yogaworks.extole.io |
 | share.zenbusiness.com | zenbusiness.extole.io |
 | refer.zentrointernet.com | zentrointernet.extole.io |
 | refer.1099online.com | zenwork.extole.io |

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
 gc.mindenugyved.hu CNAME .
 gc.sanyamkapoor.com CNAME .
+gc.securitydungeon.sk CNAME .
 github.gpuzelenograd.cloudns.be CNAME .
 goat.belak.io CNAME .
 goat.croustade.studio CNAME .
@@ -38,6 +39,7 @@ goatcounter.blu3id.uk CNAME .
 goatcounter.gamecraft.it CNAME .
 goatcounter.thedave.me CNAME .
 novi.webnovi.eu CNAME .
+pixel.embed.su CNAME .
 st.mapleranks.com CNAME .
 stats.0chris.com CNAME .
 stats.45rpm.ch CNAME .
@@ -48,12 +50,14 @@ stats.boringproxy.io CNAME .
 stats.brandontoner.ca CNAME .
 stats.cassie.omg.lol CNAME .
 stats.cloudflex.team CNAME .
+stats.fieald.com CNAME .
 stats.how.wtf CNAME .
 stats.jakebailey.dev CNAME .
 stats.jamesgwyer.com CNAME .
 stats.jessesquires.com CNAME .
 stats.jmmr.dev CNAME .
 stats.johanneswienke.de CNAME .
+stats.jonaslieb.de CNAME .
 stats.ksmets.be CNAME .
 stats.ksr.onl CNAME .
 stats.lspeed.org CNAME .
@@ -62,7 +66,9 @@ stats.msol.io CNAME .
 stats.palaisdesfetes.eu CNAME .
 stats.rocketgoboom.lol CNAME .
 stats.semipol.de CNAME .
+stats.sofianlak.fr CNAME .
 stats.stchris.net CNAME .
 stats.thecrafters001.com CNAME .
 stats.trainsley69.me CNAME .
 visit.hijacklibs.net CNAME .
+webstats.maik.dev CNAME .

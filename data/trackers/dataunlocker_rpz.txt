@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -46,7 +46,6 @@ $TTL 300
 771fnypadw0j.pt.themoneytizer.com CNAME .
 78rkcgj4i8c6.www.cefirates.com CNAME .
 7hdl8dlfjm4g.www.cybernetman.com CNAME .
-8e0905osvgw5.taleez.com CNAME .
 8ehhtsv9bo7i.monkeylearn.com CNAME .
 8ue4rp6yxyis.www.tapmyback.com CNAME .
 8vwxqg.tapin.gg CNAME .

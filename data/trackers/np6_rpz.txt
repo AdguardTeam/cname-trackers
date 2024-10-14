@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -180,6 +180,7 @@ tr.carl.espmp-cufr.net CNAME .
 tr.cart02d.espmp-agfr.net CNAME .
 tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
+tr.cashback.floa.fr CNAME .
 tr.cb4x.banque-casino.fr CNAME .
 tr.cclx.espmp-agfr.net CNAME .
 tr.cdiscount.3wregie.com CNAME .
@@ -404,6 +405,7 @@ tr.etude.sncd.org CNAME .
 tr.eulerhermes.com CNAME .
 tr.ev001.net CNAME .
 tr.evenements.inpi.fr CNAME .
+tr.events-europa-organisation.com CNAME .
 tr.expresofferte.be CNAME .
 tr.fg3p.espmp-cufr.net CNAME .
 tr.fidal.pro CNAME .
@@ -760,6 +762,7 @@ tr.news.extenso-telecom.com CNAME .
 tr.news.externis.com CNAME .
 tr.news.extrabook.com CNAME .
 tr.news.flandrintechnologies.com CNAME .
+tr.news.frame.fr CNAME .
 tr.news.franceloc.fr CNAME .
 tr.news.futuramedia.fr CNAME .
 tr.news.geantcasino.fr CNAME .
@@ -941,6 +944,7 @@ tr.offrevip.floa.fr CNAME .
 tr.ojxm.espmp-aufr.net CNAME .
 tr.online.longchamp.com CNAME .
 tr.openinnovation.lvmh.com CNAME .
+tr.operations.butagaz.fr CNAME .
 tr.orange-lease.fr CNAME .
 tr.orcamento-online.pt CNAME .
 tr.orcamentos-companeo.pt CNAME .
@@ -1127,6 +1131,7 @@ tr.welcome.unaoffertaalgiorno.com CNAME .
 tr.welcome.vipmag.fr CNAME .
 tr.win.moethennessy.com CNAME .
 tr.wuei.espmp-agfr.net CNAME .
+tr.wycena-companeo.pl CNAME .
 tr.xlead.digital CNAME .
 tr.xleads.digital CNAME .
 tr.zojh.espmp-aluk.net CNAME .

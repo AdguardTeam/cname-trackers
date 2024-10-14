@@ -300,6 +300,7 @@
 ||data-1f251755af.apps.iocnt.de^
 ||data-1f42f38527.apps.iocnt.de^
 ||data-1f749567de.agrarzeitung.de^
+||data-1fbcf6d7f5.alb-flirt.de^
 ||data-1fbcf6d7f5.cannstatter-zeitung.de^
 ||data-1fbcf6d7f5.esslinger-zeitung.de^
 ||data-1fbcf6d7f5.franken-gedenkt.de^
@@ -515,6 +516,7 @@
 ||data-40370dcf13.ev-online.de^
 ||data-40370dcf13.mv-online.de^
 ||data-40370dcf13.newssquare.de^
+||data-40370dcf13.verlag-altmeppen.de^
 ||data-407c1ec0f8.apotheken-umschau.de^
 ||data-407c1ec0f8.diabetes-ratgeber.net^
 ||data-407c1ec0f8.senioren-ratgeber.de^
@@ -555,6 +557,7 @@
 ||data-452782981b.vorname.com^
 ||data-45798f2697.nils-nager.de^
 ||data-45798f2697.rheinpfalz.de^
+||data-4591916fcd.hanser-automotive.de^
 ||data-4591916fcd.hanser-fachverlag.de^
 ||data-459c29d3bd.lanline.de^
 ||data-45b14edd52.boote-magazin.de^
@@ -1307,6 +1310,7 @@
 ||data-9265b7c6dd.computer-automation.de^
 ||data-927768f668.pharmastellen.jobs^
 ||data-927768f668.pharmazeutische-zeitung.de^
+||data-927768f668.pz-markt.de^
 ||data-92cc871c16.glaswelt.de^
 ||data-92cf33b2ed.faz.net^
 ||data-93158690b1.moviepilot.de^

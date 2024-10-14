@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -61,6 +61,7 @@ app03.ikk-classic.de CNAME .
 cdn7.baunetz.de CNAME .
 census.misterspex.at CNAME .
 census.misterspex.no CNAME .
+ctd.domusweb.it CNAME .
 ctdfm.ilgiornale.it CNAME .
 ctrkd.ilsole24ore.com CNAME .
 da.bodenhaus.de CNAME .
@@ -325,6 +326,7 @@ web.mapp.whiteaway.com CNAME .
 web.mapp.whiteaway.no CNAME .
 web.mapp.whiteaway.se CNAME .
 web.marcotozzi.com CNAME .
+web.marketing.jellybelly.com CNAME .
 web.mytoys.de CNAME .
 web.news.bottegaverde.com CNAME .
 web.news.creedfragrances.co.uk CNAME .
@@ -419,4 +421,3 @@ wttd.madeleine.co.uk CNAME .
 wttd.madeleine.de CNAME .
 wttd.madeleine.fr CNAME .
 wttd.madeleine.gr CNAME .
-web.marketing.jellybelly.com CNAME .

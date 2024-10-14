@@ -70,9 +70,11 @@ console.mannixmarketing.com
 console.revive-adserver.net
 console.sacommunications.com
 coreads.cambridge.org
+creatives.goldseek.com
 display.lawbulletin.com
 images.addurance.com
 images.cricketworld.com
+images.goldseek.com
 images.informatm.com
 images.jacilla.no
 images.mannenmedia.nl
@@ -135,12 +137,16 @@ static.ad.logic-prod.viasat.io
 static.ad.logic-test.viasat.io
 static.aqua-adserver.com
 static.biohandel.de
+static.blulab.net
+static.ceramicartsnetwork.org
 static.consulcesi.it
 static.engineeringnews.co.za
 static.environmentalleader.com
 static.everythingcolorado.com
 static.fa-mag.com
+static.healthcarescene.com
 static.hollandhortimedia.nl
+static.insideradverts.com
 static.livingmagonline.com
 static.mannixmarketing.com
 static.miningweekly.com
@@ -152,6 +158,7 @@ static.trackandfieldnews.com
 static.walaplusadserver.com
 tlads.midtc.com
 treehouse.wwoz.org
+www.cdn-adv.unionesarda.it
 www.proforums.com
 www.revive-static.worldscreen.com
 www.revive.ahk.de

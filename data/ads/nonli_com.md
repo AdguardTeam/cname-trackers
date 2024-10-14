@@ -41,6 +41,7 @@
 | l.africabusinessplus.com | tls.non.li |
 | l.allocine.fr | tls.non.li |
 | l.alternatives-economiques.fr | tls.non.li |
+| l.aujourdhui.fr | tls.non.li |
 | l.beauxarts.com | tls.non.li |
 | l.bfmtv.com | tls.non.li |
 | l.caminteresse.fr | tls.non.li |
@@ -51,6 +52,7 @@
 | l.cuisineactuelle.fr | tls.non.li |
 | l.doctissimo.fr | tls.non.li |
 | l.enfant.com | tls.non.li |
+| l.euronews.com | tls.non.li |
 | l.familiscope.fr | tls.non.li |
 | l.femmeactuelle.fr | tls.non.li |
 | l.fip.fr | tls.non.li |
@@ -103,6 +105,7 @@
 | l.reporterre.net | tls.non.li |
 | l.rmc.fr | tls.non.li |
 | l.rmcsport.fr | tls.non.li |
+| l.roole.fr | tls.non.li |
 | l.sciencesetavenir.fr | tls.non.li |
 | l.sudinfo.be | tls.non.li |
 | l.sudouest.fr | tls.non.li |

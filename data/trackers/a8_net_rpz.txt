@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -259,6 +259,7 @@ a8.print-netsquare.com CNAME .
 a8.projectee.online CNAME .
 a8.rank-quest.jp CNAME .
 a8.recmount-plus.com CNAME .
+a8.refasta.com CNAME .
 a8.remobiz.jp CNAME .
 a8.renkindo.com CNAME .
 a8.ricafrosh.com CNAME .
@@ -606,6 +607,7 @@ a8clk.only-story.jp CNAME .
 a8clk.order-box.net CNAME .
 a8clk.order.lpio.jp CNAME .
 a8clk.orders.bon-book.jp CNAME .
+a8clk.osakekon.jp CNAME .
 a8clk.osoujihonpo.com CNAME .
 a8clk.owners-age.com CNAME .
 a8clk.p-bandai.jp CNAME .
@@ -1197,6 +1199,7 @@ a8cv.softbankhikari-collabo.net CNAME .
 a8cv.somresta.jp CNAME .
 a8cv.soundfun.co.jp CNAME .
 a8cv.soyafarm.com CNAME .
+a8cv.spacioshop.com CNAME .
 a8cv.spalab-chintai.uk-corp.co.jp CNAME .
 a8cv.spot-pj.com CNAME .
 a8cv.staff-manzoku.co.jp CNAME .
@@ -1519,6 +1522,7 @@ investment.lianest.co.jp CNAME .
 itp.yaku-job.com CNAME .
 ja-jp-a8.etudehouse.com CNAME .
 kaden.netoff.co.jp CNAME .
+kcecv.doctork.jp CNAME .
 kikoe.aisei.co.jp CNAME .
 kobetu.grand1corp.com CNAME .
 listing-a8-itp.hello-storage.com CNAME .

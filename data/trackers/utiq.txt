@@ -4,6 +4,7 @@
 ||orangefr-test.mno.link^
 ||orangefr.mno.link^
 ||service.utiq.com^
+||sfr.mno.link^
 ||tmi.jv-telcoid.es^
 ||tmi.vodafone.de^
 ||utiq.20minutos.es^
@@ -26,6 +27,7 @@
 ||utiq.autobild.de^
 ||utiq.autofrage.net^
 ||utiq.autojournal.fr^
+||utiq.automobile-magazine.fr^
 ||utiq.autoplus.fr^
 ||utiq.az-online.de^
 ||utiq.bfmtv.com^
@@ -35,18 +37,21 @@
 ||utiq.blogthinkbig.com^
 ||utiq.bunte.de^
 ||utiq.burgosconecta.es^
+||utiq.buzzfeed.at^
 ||utiq.buzzfeed.de^
 ||utiq.bw24.de^
 ||utiq.bz-berlin.de^
 ||utiq.caminteresse.fr^
 ||utiq.capital.fr^
 ||utiq.cesoirtv.com^
+||utiq.chartsinfrance.net^
 ||utiq.cheriefm.fr^
 ||utiq.chip.de^
 ||utiq.cnetfrance.fr^
 ||utiq.come-on.de^
 ||utiq.compradiccion.com^
 ||utiq.computerbild.de^
+||utiq.computerfrage.net^
 ||utiq.courrier-picard.fr^
 ||utiq.cuisineactuelle.fr^
 ||utiq.dasgelbeblatt.de^
@@ -73,6 +78,7 @@
 ||utiq.elmundo.es^
 ||utiq.elnacional.cat^
 ||utiq.elnortedecastilla.es^
+||utiq.elperiodico.cat^
 ||utiq.elperiodico.com^
 ||utiq.elperiodicodearagon.com^
 ||utiq.elperiodicoextremadura.com^
@@ -95,6 +101,7 @@
 ||utiq.frandroid.com^
 ||utiq.funandnews.de^
 ||utiq.futurezone.de^
+||utiq.gamekult.com^
 ||utiq.genbeta.com^
 ||utiq.geo.fr^
 ||utiq.gesundheitsfrage.net^
@@ -117,6 +124,8 @@
 ||utiq.informacion.es^
 ||utiq.ingame.de^
 ||utiq.ingolstadt-today.de^
+||utiq.inspirational.es^
+||utiq.jeuxvideo.com^
 ||utiq.jux.news^
 ||utiq.kreisbote.de^
 ||utiq.kreiszeitung.de^
@@ -174,11 +183,13 @@
 ||utiq.palladiumhotelgroup.com^
 ||utiq.paris-normandie.fr^
 ||utiq.paroledemamans.com^
+||utiq.petbook-magazine.com^
 ||utiq.petbook.de^
 ||utiq.pleinevie.fr^
 ||utiq.pnp.de^
 ||utiq.programme.tv^
 ||utiq.psychologies.com^
+||utiq.purebreak.com^
 ||utiq.purepeople.com^
 ||utiq.regio7.cat^
 ||utiq.rireetchansons.fr^
@@ -214,6 +225,8 @@
 ||utiq.tz.de^
 ||utiq.usinger-anzeiger.de^
 ||utiq.utest1-prod.work^
+||utiq.utest2.work^
+||utiq.utest3.work^
 ||utiq.utopia.de^
 ||utiq.verisure.fr^
 ||utiq.vidaextra.com^

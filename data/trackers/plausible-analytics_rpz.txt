@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728288007245        ; Serial
+           1728892807468        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -12,7 +12,6 @@ $TTL 300
 @    IN   NS    localhost.
 
 a-api.skz.dev CNAME .
-a.iiro.dev CNAME .
 a.linkz.ai CNAME .
 also.greatsecuritydebate.net CNAME .
 an.xavierrosee.com CNAME .
@@ -189,6 +188,7 @@ plausible.alpaga.io CNAME .
 plausible.altkey.club CNAME .
 plausible.app.kdojang.com CNAME .
 plausible.app.tlschedule.com CNAME .
+plausible.as207960.net CNAME .
 plausible.bablab.com CNAME .
 plausible.bacanalia.net CNAME .
 plausible.baychi.org CNAME .
@@ -391,7 +391,6 @@ stats.bostonedtech.org CNAME .
 stats.breathly.app CNAME .
 stats.brennholzauktion.com CNAME .
 stats.briskoda.net CNAME .
-stats.broddin.be CNAME .
 stats.brumtechtapas.co.uk CNAME .
 stats.buddiy.net CNAME .
 stats.bungeefit.co.uk CNAME .
@@ -589,6 +588,7 @@ stats.kensho.com CNAME .
 stats.kettlebellbundle.com CNAME .
 stats.kfcsint-lenaartsjeugd.be CNAME .
 stats.kitspace.org CNAME .
+stats.klaussteinke.com CNAME .
 stats.klj-consult.com CNAME .
 stats.knowkit.cloud CNAME .
 stats.kod.ru CNAME .
@@ -631,6 +631,7 @@ stats.macosicons.com CNAME .
 stats.madethis.gallery CNAME .
 stats.maferland.com CNAME .
 stats.magarantie5ans.fr CNAME .
+stats.mailphantom.io CNAME .
 stats.maklerupdate.de CNAME .
 stats.malte-bartels.de CNAME .
 stats.martinbetz.eu CNAME .
@@ -640,6 +641,7 @@ stats.mastermeup.com CNAME .
 stats.masterybits.com CNAME .
 stats.matthiasloibl.com CNAME .
 stats.maximaconsulting.xyz CNAME .
+stats.mazlandscaping.com CNAME .
 stats.meetnfly.com CNAME .
 stats.mein-futterlexikon.org CNAME .
 stats.memberdrive.org CNAME .
@@ -694,6 +696,7 @@ stats.passwordyeti.com CNAME .
 stats.pasteapp.io CNAME .
 stats.pastorwagner.com CNAME .
 stats.patout.dev CNAME .
+stats.patrickl.am CNAME .
 stats.patriot.win CNAME .
 stats.paulronge.se CNAME .
 stats.paysagistes.pro CNAME .

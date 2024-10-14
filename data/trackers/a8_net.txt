@@ -248,6 +248,7 @@
 ||a8.projectee.online^
 ||a8.rank-quest.jp^
 ||a8.recmount-plus.com^
+||a8.refasta.com^
 ||a8.remobiz.jp^
 ||a8.renkindo.com^
 ||a8.ricafrosh.com^
@@ -595,6 +596,7 @@
 ||a8clk.order-box.net^
 ||a8clk.order.lpio.jp^
 ||a8clk.orders.bon-book.jp^
+||a8clk.osakekon.jp^
 ||a8clk.osoujihonpo.com^
 ||a8clk.owners-age.com^
 ||a8clk.p-bandai.jp^
@@ -1186,6 +1188,7 @@
 ||a8cv.somresta.jp^
 ||a8cv.soundfun.co.jp^
 ||a8cv.soyafarm.com^
+||a8cv.spacioshop.com^
 ||a8cv.spalab-chintai.uk-corp.co.jp^
 ||a8cv.spot-pj.com^
 ||a8cv.staff-manzoku.co.jp^
@@ -1508,6 +1511,7 @@
 ||itp.yaku-job.com^
 ||ja-jp-a8.etudehouse.com^
 ||kaden.netoff.co.jp^
+||kcecv.doctork.jp^
 ||kikoe.aisei.co.jp^
 ||kobetu.grand1corp.com^
 ||listing-a8-itp.hello-storage.com^

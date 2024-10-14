@@ -1,7 +1,6 @@
 #
 # Company name: Plausible Analytics
 a-api.skz.dev
-a.iiro.dev
 a.linkz.ai
 also.greatsecuritydebate.net
 an.xavierrosee.com
@@ -178,6 +177,7 @@ plausible.alpaga.io
 plausible.altkey.club
 plausible.app.kdojang.com
 plausible.app.tlschedule.com
+plausible.as207960.net
 plausible.bablab.com
 plausible.bacanalia.net
 plausible.baychi.org
@@ -380,7 +380,6 @@ stats.bostonedtech.org
 stats.breathly.app
 stats.brennholzauktion.com
 stats.briskoda.net
-stats.broddin.be
 stats.brumtechtapas.co.uk
 stats.buddiy.net
 stats.bungeefit.co.uk
@@ -578,6 +577,7 @@ stats.kensho.com
 stats.kettlebellbundle.com
 stats.kfcsint-lenaartsjeugd.be
 stats.kitspace.org
+stats.klaussteinke.com
 stats.klj-consult.com
 stats.knowkit.cloud
 stats.kod.ru
@@ -620,6 +620,7 @@ stats.macosicons.com
 stats.madethis.gallery
 stats.maferland.com
 stats.magarantie5ans.fr
+stats.mailphantom.io
 stats.maklerupdate.de
 stats.malte-bartels.de
 stats.martinbetz.eu
@@ -629,6 +630,7 @@ stats.mastermeup.com
 stats.masterybits.com
 stats.matthiasloibl.com
 stats.maximaconsulting.xyz
+stats.mazlandscaping.com
 stats.meetnfly.com
 stats.mein-futterlexikon.org
 stats.memberdrive.org
@@ -683,6 +685,7 @@ stats.passwordyeti.com
 stats.pasteapp.io
 stats.pastorwagner.com
 stats.patout.dev
+stats.patrickl.am
 stats.patriot.win
 stats.paulronge.se
 stats.paysagistes.pro

@@ -5,6 +5,8 @@
 * mr-in.com
     * alg-prod.actioniq.mr-in.com
     * hearst-prod.actioniq.mr-in.com
+    * homer-prod1.aws-ap-south-1.mr-in.com
+    * homer-prod1.aws-us-east-1.mr-in.com
     * hp-prod.actioniq.mr-in.com
     * mr-platform-staging1.mr-in.com
     * outside.mr-in.com
@@ -56,6 +58,11 @@
 | anx.learnwithhomer.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
 | mr-in.beginlearning.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
 | mr-in.littlepassports.com | homer-prod1-blue-ingress-app-15649581cc923db6.elb.us-east-1.amazonaws.com |
+| anx.learnwithhomer.com | homer-prod1.aws-ap-south-1.mr-in.com |
+| mr-in.beginlearning.com | homer-prod1.aws-ap-south-1.mr-in.com |
+| anx.learnwithhomer.com | homer-prod1.aws-us-east-1.mr-in.com |
+| mr-in.beginlearning.com | homer-prod1.aws-us-east-1.mr-in.com |
+| mr-in.littlepassports.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx-staging.learnwithhomer.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
 | mr-in-staging.beginlearning.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
 | aiq-in.ext.hp.com | hp-prod.actioniq.mr-in.com |
@@ -83,6 +90,7 @@
 | meta-events.road-results.com | outside.mr-in.com |
 | meta-events.runreg.com | outside.mr-in.com |
 | meta-events.skimag.com | outside.mr-in.com |
+| meta-events.skireg.com | outside.mr-in.com |
 | meta-events.trailforks.com | outside.mr-in.com |
 | meta-events.trailrunnermag.com | outside.mr-in.com |
 | meta-events.triathlete.com | outside.mr-in.com |
@@ -100,6 +108,7 @@
 | aiqx.anyonebutyou.movie | sony-prod.actioniq.mr-in.com |
 | aiqx.ghostbusters.com | sony-prod.actioniq.mr-in.com |
 | aiqx.sonypictures.com | sony-prod.actioniq.mr-in.com |
+| aiqx.thebookofclarence.movie | sony-prod.actioniq.mr-in.com |
 | aiqx.wheeloffortune.com | sony-prod.actioniq.mr-in.com |
 | aiqx.www.ghostbusters.com | sony-prod.actioniq.mr-in.com |
 | a.callawaygolf.com | tcb-prod.actioniq.mr-in.com |
