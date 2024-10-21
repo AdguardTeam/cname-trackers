@@ -17,7 +17,6 @@
 ||tk.airfrance.cg^
 ||tk.airfrance.ch^
 ||tk.airfrance.cm^
-||tk.airfrance.co.ao^
 ||tk.airfrance.co.il^
 ||tk.airfrance.co.jp^
 ||tk.airfrance.co.kr^

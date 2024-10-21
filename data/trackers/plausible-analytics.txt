@@ -91,7 +91,6 @@
 ||informatics.filamentcolors.xyz^
 ||insights.affilimate.com^
 ||jinx.skullctf.com^
-||joy.ochronus.online^
 ||kaladyaudiology.ericksonbuilt.com^
 ||kingsandqueens.splowser.com^
 ||l.lilyzhou.com^
@@ -438,7 +437,6 @@
 ||stats.devetkomentara.net^
 ||stats.devrain.io^
 ||stats.devskills.co^
-||stats.dexie.me^
 ||stats.dflydev.com^
 ||stats.diarmuidsexton.com^
 ||stats.digiexpert.store^
@@ -764,6 +762,7 @@
 ||stats.servicedesignjobs.com^
 ||stats.seva.rocks^
 ||stats.shareup.app^
+||stats.shawnyeager.com^
 ||stats.shepherd.com^
 ||stats.shh.io^
 ||stats.shiftx.com^

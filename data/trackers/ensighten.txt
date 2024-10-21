@@ -184,7 +184,6 @@
 ||cookies.us.jll.com^
 ||csp.prod.saga.co.uk^
 ||ctp.moneymetals.com^
-||data.creditexpert.co.uk^
 ||data.ensightendemo.com^
 ||data.experian.co.uk^
 ||data.experianidentityservice.co.uk^
@@ -251,6 +250,7 @@
 ||fidelity.activate.ensighten.com^
 ||gst.pulse.buyatoyota.com^
 ||gst.pulse.toyota.com^
+||ims.tescoinsurance.com^
 ||latimes.activate.ensighten.com^
 ||letsencrypt.data.ensighten.com^
 ||measure.ensighten.com^
@@ -389,6 +389,7 @@
 ||tms.suzukibusinesscloud-qa.com^
 ||tms.virginatlantic.com^
 ||tmsgi.lv.com^
+||tracking-sst.clicksafety.com^
 ||uat1-dc.pagoda.com^
 ||uat1-dc.peoplesjewellers.com^
 ||uat1-dc.zales.com^

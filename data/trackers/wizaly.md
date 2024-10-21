@@ -197,7 +197,6 @@
 | tk.airfrance.cg | tkairfrance.wizaly.com |
 | tk.airfrance.ch | tkairfrance.wizaly.com |
 | tk.airfrance.cm | tkairfrance.wizaly.com |
-| tk.airfrance.co.ao | tkairfrance.wizaly.com |
 | tk.airfrance.co.il | tkairfrance.wizaly.com |
 | tk.airfrance.co.jp | tkairfrance.wizaly.com |
 | tk.airfrance.co.kr | tkairfrance.wizaly.com |

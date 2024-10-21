@@ -46,12 +46,14 @@
 ||aiqx.anyonebutyou.movie^
 ||aiqx.ghostbusters.com^
 ||aiqx.sonypictures.com^
+||aiqx.thanksgiving.movie^
 ||aiqx.thebookofclarence.movie^
 ||aiqx.travismathew.ca^
 ||aiqx.travismathew.co.uk^
 ||aiqx.travismathew.com^
 ||aiqx.wheeloffortune.com^
 ||aiqx.www.ghostbusters.com^
+||anx-staging.learnwithhomer.com^
 ||anx.learnwithhomer.com^
 ||meta-events.backpacker.com^
 ||meta-events.bikereg.com^
@@ -88,5 +90,4 @@
 ||mr-in.beginlearning.com^
 ||mr-in.littlepassports.com^
 ||mr.pinkbike.com^
-||anx-staging.learnwithhomer.com^
 ||mr-in-staging.beginlearning.com^

@@ -82,7 +82,6 @@
 ||res.marianne.net^
 ||res.programme-television.org^
 ||res.public.fr^
-||ressources.annoncesbateau.com^
 ||ressources.argusassurance.com^
 ||ressources.caradisiac.com^
 ||ressources.centraleauto.com^

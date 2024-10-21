@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -13,7 +13,6 @@ $TTL 300
 
 amis.keurig.ca CNAME .
 chubclub.chubbiesshorts.com CNAME .
-francais.refer.vonage.ca CNAME .
 friend.ebags.com CNAME .
 friend.sharefile.com CNAME .
 friends.keurig.ca CNAME .
@@ -112,8 +111,6 @@ refer.urbandaddy.com CNAME .
 refer.usforex.com CNAME .
 refer.verabradley.com CNAME .
 refer.volcom.com CNAME .
-refer.vonage.ca CNAME .
-refer.vonage.co.uk CNAME .
 refer.vonage.com CNAME .
 refer.webs.com CNAME .
 refer.wgu.edu CNAME .
@@ -139,8 +136,9 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em225.codecademy.com CNAME .
-em9523.walmartmoneycard.com CNAME .
+em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
+em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
 friend.discoverstudentloans.com CNAME .
@@ -733,12 +731,11 @@ www.refer.xfinity.com CNAME .
 www.referessentials.com CNAME .
 www.referquickbooks.com CNAME .
 www.styleitforwardreward.com CNAME .
-xtl._domainkey.forgetrust.com CNAME .
 em1476.princesscruises.com CNAME .
+em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
-em8561.go2bank.com CNAME .
-em8928.em.petco.com CNAME .
-em924.refer.starbucks.com CNAME .
+em9523.walmartmoneycard.com CNAME .
+xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.skillshare.com CNAME .
 sftp.extole.com CNAME .

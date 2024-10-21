@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,12 +17,14 @@ acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 af.mobile.free.fr CNAME .
 afm.monetamarkets.com CNAME .
+afm.monetaturkey.com CNAME .
 afm.puprime.com CNAME .
 afm.puprime.online CNAME .
 afm.startrader.asia CNAME .
 afm.startrader.com CNAME .
 afm.startrader.live CNAME .
 afm.sthub.cc CNAME .
+afm.ultimamarkets.asia CNAME .
 afm.ultimamarkets.com CNAME .
 afm.ultimamarketsglobal.com CNAME .
 afm.ultimamkts.com CNAME .
@@ -35,9 +37,11 @@ afm.vantagemarkets.io CNAME .
 afm.vantagemarketsea.com CNAME .
 afm.vantagetradings.com CNAME .
 afm.vtg-mkt.com CNAME .
+afm.vtg-mkts.com CNAME .
 afm.vtmarkets.com CNAME .
 afm.vtmarkets.net CNAME .
 afm.vtmarketsfr.com CNAME .
+afm.vtmarketsnet.com CNAME .
 afm.vtmarketsuk.com CNAME .
 afm.vtmarketsweb.com CNAME .
 afs.wearemp.com CNAME .
@@ -352,6 +356,7 @@ content.telusinternational.ai CNAME .
 content.tfbank.at CNAME .
 content.tfbank.de CNAME .
 content.tfbank.es CNAME .
+content.tfbank.it CNAME .
 content.usps.com CNAME .
 content.varetire.org CNAME .
 content.vi.gov CNAME .
@@ -365,10 +370,12 @@ content002.bet365.com.cy CNAME .
 content002.bet365.de CNAME .
 content002.bet365.dk CNAME .
 content002.bet365.ee CNAME .
+content002.bet365.es CNAME .
 content002.bet365.gr CNAME .
 content002.bet365.it CNAME .
 content002.bet365.mx CNAME .
 content002.bet365.nl CNAME .
+content002.bet365.pe CNAME .
 content1.esdiacapi.com CNAME .
 content1.reprisefinancial.com CNAME .
 content2.instacart.com CNAME .
@@ -522,7 +529,6 @@ fp.ups.com CNAME .
 fpcn.bpsgameserver.com CNAME .
 fpmobile.uplift-platform.com CNAME .
 fpt.norton.com CNAME .
-fr.shopdisney.disney.co.jp CNAME .
 fraudcheck.walmart.ca CNAME .
 fss.glbank.com CNAME .
 fsta.leboncoin.info CNAME .
@@ -539,6 +545,7 @@ hint-tmdp.opendoor.com CNAME .
 hooru.regence.com CNAME .
 hunt.elcorteingles.es CNAME .
 id.latitudefinancial.com CNAME .
+id.solidgate.com CNAME .
 identity.myblueprint.arkansasbluecross.com CNAME .
 identity4.citidirect.com CNAME .
 idhtm.bb.com.br CNAME .
@@ -680,6 +687,7 @@ onoutput.com CNAME .
 ons.tickets.com CNAME .
 optm.optus.com.au CNAME .
 osn-cirrus.cas.org CNAME .
+p8bbv1.fiservapps.com CNAME .
 pafms.ocbc.com CNAME .
 page-format.chase.com CNAME .
 page1.parcelmonkey.com CNAME .
@@ -977,6 +985,7 @@ tm-out.cardinalcommerce.com CNAME .
 tm.acehardware.com CNAME .
 tm.barclays.co.uk CNAME .
 tm.barstoolsportsbook.com CNAME .
+tm.bcc.kz CNAME .
 tm.bdc-cdn.com CNAME .
 tm.beachbody.com CNAME .
 tm.benevity.org CNAME .
@@ -1108,6 +1117,7 @@ uafms.ocbc.com CNAME .
 ualaki-analytics.vacations.united.com CNAME .
 uat.cmprofile.cards.citidirect.com CNAME .
 uatidentity4.citidirect.com CNAME .
+ucfs.sendpro360.pitneybowes.com CNAME .
 ufp.intuit.com CNAME .
 uldfp.srilankan.com CNAME .
 umst.mobile.de CNAME .
@@ -1122,6 +1132,7 @@ v.sagasavings.co.uk CNAME .
 valcontent.securustech.net CNAME .
 validacion.rayo.com.co CNAME .
 validacionlx.agaval.com CNAME .
+validafp.grupocasasbahia.com.br CNAME .
 validators.ifpsoyyo.co CNAME .
 verification.ndtco.com CNAME .
 verify.metlife.com CNAME .

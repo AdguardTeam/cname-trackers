@@ -1486,10 +1486,8 @@ data-a4ca7c0f04.apps.iocnt.de
 data-a4e945dbeb.augusto-sachsen.de
 data-a4e945dbeb.dawo-dresden.de
 data-a4e945dbeb.saechsische.de
-data-a4e945dbeb.sz-auktion.de
 data-a4e945dbeb.sz-fahrradfest.de
 data-a4e945dbeb.sz-immo.de
-data-a4e945dbeb.sz-jobs.de
 data-a4e945dbeb.sz-pinnwand.de
 data-a4e945dbeb.sz-ticketservice.de
 data-a4e945dbeb.sz-trauer.de
@@ -1952,7 +1950,6 @@ data-d9c82db6b2.motor.at
 data-da1d9cc48a.osthessen-news.de
 data-da8b646558.dieniederoesterreicherin.at
 data-daaad80bda.babelli.de
-data-daab9294a5.eatclub.de
 data-daab9294a5.eatclub.tv
 data-dae559c4b7.ejz.de
 data-db0ecef264.trafikantenzeitung.at

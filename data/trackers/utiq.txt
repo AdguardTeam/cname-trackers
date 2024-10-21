@@ -115,6 +115,7 @@
 ||utiq.handelsblatt.com^
 ||utiq.hbrfrance.fr^
 ||utiq.heftig.de^
+||utiq.heimatsport.de^
 ||utiq.helpster.de^
 ||utiq.hersfelder-zeitung.de^
 ||utiq.hna.de^
@@ -148,8 +149,10 @@
 ||utiq.lejournaldelamaison.fr^
 ||utiq.lemessager.fr^
 ||utiq.leonoticias.com^
+||utiq.lesnumeriques.com^
 ||utiq.lest-eclair.fr^
 ||utiq.levante-emv.com^
+||utiq.liberation-champagne.fr^
 ||utiq.lne.es^
 ||utiq.lunion.fr^
 ||utiq.madmoizelle.com^
@@ -162,6 +165,7 @@
 ||utiq.marmiton.org^
 ||utiq.merkur.de^
 ||utiq.millenium.gg^
+||utiq.millenium.org^
 ||utiq.mittelbayerische.de^
 ||utiq.modesettravaux.fr^
 ||utiq.mopo.de^
@@ -177,6 +181,7 @@
 ||utiq.nrj-play.fr^
 ||utiq.nrj.fr^
 ||utiq.numerama.com^
+||utiq.oberhessische-zeitung.de^
 ||utiq.op-online.de^
 ||utiq.ouest-france.fr^
 ||utiq.ozap.com^
@@ -192,6 +197,7 @@
 ||utiq.purebreak.com^
 ||utiq.purepeople.com^
 ||utiq.regio7.cat^
+||utiq.renault.fr^
 ||utiq.rireetchansons.fr^
 ||utiq.rmcbfmplay.com^
 ||utiq.salamancahoy.es^

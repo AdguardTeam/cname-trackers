@@ -7,6 +7,7 @@
     * 45rpm-ch.goatcounter.com
     * abdodaoud.goatcounter.com
     * apitman_com.goatcounter.com
+    * artur.goatcounter.com
     * awesome-tunneling-github.goatcounter.com
     * belak.goatcounter.com
     * bkvn.goatcounter.com
@@ -15,6 +16,7 @@
     * bortox.goatcounter.com
     * brandontoner.goatcounter.com
     * cassie.goatcounter.com
+    * cgcristi.goatcounter.com
     * code_dccouncil_gov.goatcounter.com
     * code_dccouncil_us.goatcounter.com
     * croustade.goatcounter.com
@@ -61,9 +63,11 @@
     * thecrafters001.goatcounter.com
     * thedave-me.goatcounter.com
     * trainsley69.goatcounter.com
+    * trool.goatcounter.com
     * twoistoomany.goatcounter.com
     * valentineus.goatcounter.com
     * vpro.goatcounter.com
+    * whatacools.goatcounter.com
 
 ## Cloaking domains
 
@@ -73,6 +77,7 @@
 | stats.45rpm.ch | 45rpm-ch.goatcounter.com |
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
 | stats.apitman.com | apitman_com.goatcounter.com |
+| stats.artur-rodrigues.com | artur.goatcounter.com |
 | awesome-tunneling-stats.apitman.com | awesome-tunneling-github.goatcounter.com |
 | goat.belak.io | belak.goatcounter.com |
 | stats.boredkevin.com | bkvn.goatcounter.com |
@@ -81,6 +86,7 @@
 | contacapre.bortox.it | bortox.goatcounter.com |
 | stats.brandontoner.ca | brandontoner.goatcounter.com |
 | stats.cassie.omg.lol | cassie.goatcounter.com |
+| stats.cgcristi.xyz | cgcristi.goatcounter.com |
 | analytics.code.dccouncil.gov | code_dccouncil_gov.goatcounter.com |
 | analytics.code.dccouncil.us | code_dccouncil_us.goatcounter.com |
 | goat.croustade.studio | croustade.goatcounter.com |
@@ -127,6 +133,8 @@
 | stats.thecrafters001.com | thecrafters001.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
 | stats.trainsley69.me | trainsley69.goatcounter.com |
+| moo.geopogs.party | trool.goatcounter.com |
 | goat.twoistoomany.com | twoistoomany.goatcounter.com |
 | analytics.popov.link | valentineus.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |
+| stats.whatacools.com | whatacools.goatcounter.com |

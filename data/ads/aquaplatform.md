@@ -79,6 +79,7 @@
     * platformiq-cdn.aquaplatform.com
     * platformiq-del.aquaplatform.com
     * portwest-delivery.aquaplatform.com
+    * postandparcel-delivery.aquaplatform.com
     * proxibid-delivery.aquaplatform.com
     * proxibid-static.aquaplatform.com
     * ptp-delivery.aquaplatform.com
@@ -232,11 +233,13 @@
 | www.proforums.com | platformiq-del.aquaplatform.com |
 | xtraa-secure.reviveservers.com | platformiq-del.aquaplatform.com |
 | servedby.portwest.com | portwest-delivery.aquaplatform.com |
+| ads.postandparcel.info | postandparcel-delivery.aquaplatform.com |
 | ads.bidspotter.co.uk | proxibid-delivery.aquaplatform.com |
 | ads.i-bidder.com | proxibid-delivery.aquaplatform.com |
 | ads.proxibid.com | proxibid-delivery.aquaplatform.com |
 | ads.the-saleroom.com | proxibid-delivery.aquaplatform.com |
 | static.proxibid.com | proxibid-static.aquaplatform.com |
+| static.the-saleroom.com | proxibid-static.aquaplatform.com |
 | www.static.the-saleroom.com | proxibid-static.aquaplatform.com |
 | ads.xtra.ca | ptp-delivery.aquaplatform.com |
 | servedby.pinktriangle.ca | ptp-delivery.aquaplatform.com |

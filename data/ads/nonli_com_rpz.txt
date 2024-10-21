@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -37,6 +37,7 @@ l.capital.fr CNAME .
 l.centre-presse.fr CNAME .
 l.centrepresseaveyron.fr CNAME .
 l.challenges.fr CNAME .
+l.charentelibre.fr CNAME .
 l.cuisineactuelle.fr CNAME .
 l.doctissimo.fr CNAME .
 l.enfant.com CNAME .
@@ -50,7 +51,6 @@ l.franceculture.fr CNAME .
 l.franceguyane.fr CNAME .
 l.franceinter.fr CNAME .
 l.francemusique.fr CNAME .
-l.francetvinfo.fr CNAME .
 l.frandroid.com CNAME .
 l.gala.fr CNAME .
 l.gentside.com CNAME .
@@ -67,8 +67,10 @@ l.ladepeche.fr CNAME .
 l.lanouvellerepublique.fr CNAME .
 l.laprovence.com CNAME .
 l.lardennais.fr CNAME .
+l.larepubliquedespyrenees.fr CNAME .
 l.lavoixdunord.fr CNAME .
 l.lefigaro.fr CNAME .
+l.lejournaldelamaison.fr CNAME .
 l.leparisien.fr CNAME .
 l.lepoint.fr CNAME .
 l.lequotidiendelart.com CNAME .
@@ -94,12 +96,16 @@ l.ohmymag.de CNAME .
 l.ouest-france.fr CNAME .
 l.programme-tv.net CNAME .
 l.programme.tv CNAME .
+l.psychologies.com CNAME .
+l.purebreak.com CNAME .
+l.purepeople.com CNAME .
 l.radiofrance.fr CNAME .
 l.reporterre.net CNAME .
 l.rmc.fr CNAME .
 l.rmcsport.fr CNAME .
 l.roole.fr CNAME .
 l.sciencesetavenir.fr CNAME .
+l.sports.fr CNAME .
 l.sudinfo.be CNAME .
 l.sudouest.fr CNAME .
 l.tf1.fr CNAME .

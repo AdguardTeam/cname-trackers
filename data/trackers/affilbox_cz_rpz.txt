@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -435,6 +435,7 @@ my.weplayvolleyball.bg CNAME .
 my.weplayvolleyball.ch CNAME .
 my.weplayvolleyball.cz CNAME .
 my.weplayvolleyball.de CNAME .
+my.weplayvolleyball.fr CNAME .
 my.weplayvolleyball.gr CNAME .
 my.weplayvolleyball.ro CNAME .
 my.weplayvolleyball.si CNAME .
@@ -605,6 +606,7 @@ partner.korff.sk CNAME .
 partner.kreativnisvet.cz CNAME .
 partner.kupcomp.sk CNAME .
 partner.kurzysusmevem.cz CNAME .
+partner.kutnohorskytolar.cz CNAME .
 partner.kvcar.cz CNAME .
 partner.laab.cz CNAME .
 partner.lascero.cz CNAME .
@@ -618,6 +620,7 @@ partner.levanduloveudoli.cz CNAME .
 partner.levanduloveudolie.sk CNAME .
 partner.liberec-ubytovani.cz CNAME .
 partner.lidajirickova.cz CNAME .
+partner.lightportal.cz CNAME .
 partner.ligsuniversity.cz CNAME .
 partner.lorooro.com CNAME .
 partner.ltx.cz CNAME .
@@ -914,6 +917,7 @@ partneri.zdravykram.cz CNAME .
 partneri.zijchytre.cz CNAME .
 partneri.zkustenzvuk.cz CNAME .
 partners.almaf.cz CNAME .
+partners.bonyacademy.com CNAME .
 partners.duckferries.com CNAME .
 partners.elitecoaching.cz CNAME .
 partners.lawofattraction.cz CNAME .

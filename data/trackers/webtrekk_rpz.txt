@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -98,22 +98,14 @@ data.volksfreund.de CNAME .
 data.westlotto.de CNAME .
 daten.union-investment.de CNAME .
 def.bayer04.de CNAME .
-di.fotos-fuers-leben.ch CNAME .
 di.ifolor.at CNAME .
-di.ifolor.be CNAME .
 di.ifolor.ch CNAME .
 di.ifolor.com CNAME .
 di.ifolor.de CNAME .
-di.ifolor.dk CNAME .
-di.ifolor.es CNAME .
 di.ifolor.fi CNAME .
 di.ifolor.fr CNAME .
-di.ifolor.ie CNAME .
 di.ifolor.it CNAME .
-di.ifolor.lu CNAME .
 di.ifolor.net CNAME .
-di.ifolor.nl CNAME .
-di.ifolor.no CNAME .
 di.ifolor.se CNAME .
 di.spreadmorelove.ch CNAME .
 ed.emp-online.ch CNAME .
@@ -219,6 +211,7 @@ scout.bergfreunde.se CNAME .
 startrekk.flaconi.at CNAME .
 startrekk.flaconi.ch CNAME .
 startrekk.flaconi.fr CNAME .
+startrekk.flaconi.nl CNAME .
 startrekk.flaconi.pl CNAME .
 statistics.tuv.com CNAME .
 t.mediaset.it CNAME .
@@ -340,6 +333,7 @@ web.news.piquadro.com CNAME .
 web.news.pleasefashion.com CNAME .
 web.news.thebridge.it CNAME .
 web.news.turnbullandasser.co.uk CNAME .
+web.newsletter.bennet.com CNAME .
 web.newsletter.koffer-to-go.de CNAME .
 web.newsletter.viviennewestwood.com CNAME .
 web.newsletterit.esprinet.com CNAME .

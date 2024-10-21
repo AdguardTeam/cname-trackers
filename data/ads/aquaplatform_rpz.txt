@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -24,6 +24,7 @@ ads.datateam.co.uk CNAME .
 ads.environmentalleader.com CNAME .
 ads.i-bidder.com CNAME .
 ads.lot-tissimo.com CNAME .
+ads.postandparcel.info CNAME .
 ads.proxibid.com CNAME .
 ads.recon.com CNAME .
 ads.swiss-equestrian.ch CNAME .
@@ -165,6 +166,7 @@ static.polity.org.za CNAME .
 static.proxibid.com CNAME .
 static.schrotundkorn.de CNAME .
 static.sonicplug.com CNAME .
+static.the-saleroom.com CNAME .
 static.trackandfieldnews.com CNAME .
 static.walaplusadserver.com CNAME .
 tlads.midtc.com CNAME .

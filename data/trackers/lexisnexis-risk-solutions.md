@@ -54,10 +54,12 @@
     * h-324klu1j.online-metrix.net
     * h-32rts1pk.online-metrix.net
     * h-34mvnza6.online-metrix.net
+    * h-35y9sib5.online-metrix.net
     * h-39zuido3.online-metrix.net
     * h-3ch524y7.online-metrix.net
     * h-3egydtt8.online-metrix.net
     * h-3gk2er3j.online-metrix.net
+    * h-3pucwmhv.online-metrix.net
     * h-3r1xqsku.online-metrix.net
     * h-3u2bmrkg.online-metrix.net
     * h-3z5dc3wi.online-metrix.net
@@ -365,6 +367,7 @@
     * h-cu2jhowq.online-metrix.net
     * h-cvps2xwa.online-metrix.net
     * h-cw88rpnh.online-metrix.net
+    * h-cx4xdqe6.online-metrix.net
     * h-cxup73qq.online-metrix.net
     * h-cybersource.online-metrix.net
     * h-czmm8tx9.online-metrix.net
@@ -433,7 +436,6 @@
     * h-fortunejack.online-metrix.net
     * h-franklintempleton.online-metrix.net
     * h-freelancer1.online-metrix.net
-    * h-frshopdisney.online-metrix.net
     * h-fundingcircle-uk.online-metrix.net
     * h-fundingstream.online-metrix.net
     * h-garmin.online-metrix.net
@@ -623,6 +625,7 @@
     * h-phub.com.online-metrix.net
     * h-picpay.online-metrix.net
     * h-pinup.online-metrix.net
+    * h-pitneybowes.online-metrix.net
     * h-pnbank.online-metrix.net
     * h-pocketcard.online-metrix.net
     * h-portoseguro.online-metrix.net
@@ -651,6 +654,7 @@
     * h-royalairmaroc.online-metrix.net
     * h-rushstreet.online-metrix.net
     * h-rz31aez3.online-metrix.net
+    * h-s0b500qh-fisapps.online-metrix.net
     * h-s0b500qh.online-metrix.net
     * h-samsclub.online-metrix.net
     * h-santanderbank.online-metrix.net
@@ -890,10 +894,12 @@
 | applicant.rbfcu.org | h-324klu1j.online-metrix.net |
 | secure.freshbooks.com | h-32rts1pk.online-metrix.net |
 | nv-2.liveaction.com | h-34mvnza6.online-metrix.net |
+| id.solidgate.com | h-35y9sib5.online-metrix.net |
 | olacontent.schwab.com | h-39zuido3.online-metrix.net |
 | fss.glbank.com | h-3ch524y7.online-metrix.net |
 | xmt.wallet.cat.earlywarning.io | h-3egydtt8.online-metrix.net |
 | r7s.scl.swisscom.ch | h-3gk2er3j.online-metrix.net |
+| validafp.grupocasasbahia.com.br | h-3pucwmhv.online-metrix.net |
 | tmcontent.sixt.com | h-3r1xqsku.online-metrix.net |
 | content.lyft.com | h-3u2bmrkg.online-metrix.net |
 | event.evtm.53.com | h-3z5dc3wi.online-metrix.net |
@@ -909,10 +915,12 @@
 | content002.bet365.de | h-47z24dz9.online-metrix.net |
 | content002.bet365.dk | h-47z24dz9.online-metrix.net |
 | content002.bet365.ee | h-47z24dz9.online-metrix.net |
+| content002.bet365.es | h-47z24dz9.online-metrix.net |
 | content002.bet365.gr | h-47z24dz9.online-metrix.net |
 | content002.bet365.it | h-47z24dz9.online-metrix.net |
 | content002.bet365.mx | h-47z24dz9.online-metrix.net |
 | content002.bet365.nl | h-47z24dz9.online-metrix.net |
+| content002.bet365.pe | h-47z24dz9.online-metrix.net |
 | check.fashionid.de | h-4hq91r5k.online-metrix.net |
 | onoutput.com | h-4nyhdbu2.online-metrix.net |
 | dep.gambit3.gameassists.co.uk | h-4ruz3ugq.online-metrix.net |
@@ -1034,12 +1042,14 @@
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
 | afm.monetamarkets.com | h-96eziru5.online-metrix.net |
+| afm.monetaturkey.com | h-96eziru5.online-metrix.net |
 | afm.puprime.com | h-96eziru5.online-metrix.net |
 | afm.puprime.online | h-96eziru5.online-metrix.net |
 | afm.startrader.asia | h-96eziru5.online-metrix.net |
 | afm.startrader.com | h-96eziru5.online-metrix.net |
 | afm.startrader.live | h-96eziru5.online-metrix.net |
 | afm.sthub.cc | h-96eziru5.online-metrix.net |
+| afm.ultimamarkets.asia | h-96eziru5.online-metrix.net |
 | afm.ultimamarkets.com | h-96eziru5.online-metrix.net |
 | afm.ultimamarketsglobal.com | h-96eziru5.online-metrix.net |
 | afm.ultimamkts.com | h-96eziru5.online-metrix.net |
@@ -1052,9 +1062,11 @@
 | afm.vantagemarketsea.com | h-96eziru5.online-metrix.net |
 | afm.vantagetradings.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt.com | h-96eziru5.online-metrix.net |
+| afm.vtg-mkts.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
 | afm.vtmarketsfr.com | h-96eziru5.online-metrix.net |
+| afm.vtmarketsnet.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsuk.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsweb.com | h-96eziru5.online-metrix.net |
 | tmcdn.7sultanscasino.com | h-98oju8tz.online-metrix.net |
@@ -1123,6 +1135,7 @@
 | content.tfbank.at | h-anai49qi.online-metrix.net |
 | content.tfbank.de | h-anai49qi.online-metrix.net |
 | content.tfbank.es | h-anai49qi.online-metrix.net |
+| content.tfbank.it | h-anai49qi.online-metrix.net |
 | analytics.amrcollection.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.beachbound.com | h-analytics.triseptsolutions.online-metrix.net |
 | analytics.breathlessresorts.com | h-analytics.triseptsolutions.online-metrix.net |
@@ -1372,6 +1385,7 @@
 | scuicss.dew.sc.gov | h-cu2jhowq.online-metrix.net |
 | thrm-scrq-0001.crypterium.com | h-cvps2xwa.online-metrix.net |
 | lsprof.comeon.com | h-cw88rpnh.online-metrix.net |
+| tm.bcc.kz | h-cx4xdqe6.online-metrix.net |
 | condition.applause.com | h-cxup73qq.online-metrix.net |
 | tm.cybersource.com | h-cybersource.online-metrix.net |
 | content.nu.com.co | h-czmm8tx9.online-metrix.net |
@@ -1473,7 +1487,6 @@
 | pages.fiduciarytrust.com | h-franklintempleton.online-metrix.net |
 | pages.franklintempleton.com | h-franklintempleton.online-metrix.net |
 | cdn1.f-cdn.com | h-freelancer1.online-metrix.net |
-| fr.shopdisney.disney.co.jp | h-frshopdisney.online-metrix.net |
 | content-uk.fundingcircle.com | h-fundingcircle-uk.online-metrix.net |
 | ww3.fundingstream.com | h-fundingstream.online-metrix.net |
 | ww3.marlincapitalsolutions.com | h-fundingstream.online-metrix.net |
@@ -1710,6 +1723,7 @@
 | rba.phub-im.uhg.com | h-phub.com.online-metrix.net |
 | ts04358.picpay.com | h-picpay.online-metrix.net |
 | backend.pin-up.dev | h-pinup.online-metrix.net |
+| ucfs.sendpro360.pitneybowes.com | h-pitneybowes.online-metrix.net |
 | content.pnbank.com.au | h-pnbank.online-metrix.net |
 | rbawis.pocketcard.co.jp | h-pocketcard.online-metrix.net |
 | meiodepagamento.campanhaporto.com.br | h-portoseguro.online-metrix.net |
@@ -1761,6 +1775,7 @@
 | content.royalairmaroc.com | h-royalairmaroc.online-metrix.net |
 | service.riverscontent.com | h-rushstreet.online-metrix.net |
 | content55.getupgraded.com | h-rz31aez3.online-metrix.net |
+| p8bbv1.fiservapps.com | h-s0b500qh-fisapps.online-metrix.net |
 | img2.paywithmybank.com | h-s0b500qh.online-metrix.net |
 | ssafp.samsclub.com | h-samsclub.online-metrix.net |
 | digitalid.santanderbank.com | h-santanderbank.online-metrix.net |

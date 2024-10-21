@@ -2,7 +2,6 @@
 ! Company name: Extole
 ||amis.keurig.ca^
 ||chubclub.chubbiesshorts.com^
-||francais.refer.vonage.ca^
 ||friend.ebags.com^
 ||friend.sharefile.com^
 ||friends.keurig.ca^
@@ -101,8 +100,6 @@
 ||refer.usforex.com^
 ||refer.verabradley.com^
 ||refer.volcom.com^
-||refer.vonage.ca^
-||refer.vonage.co.uk^
 ||refer.vonage.com^
 ||refer.webs.com^
 ||refer.wgu.edu^
@@ -128,8 +125,9 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em225.codecademy.com^
-||em9523.walmartmoneycard.com^
+||em8561.go2bank.com^
+||em8928.em.petco.com^
+||em924.refer.starbucks.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
 ||friend.discoverstudentloans.com^
@@ -722,12 +720,11 @@
 ||www.referessentials.com^
 ||www.referquickbooks.com^
 ||www.styleitforwardreward.com^
-||xtl._domainkey.forgetrust.com^
 ||em1476.princesscruises.com^
+||em225.codecademy.com^
 ||em3904.skillshare.com^
 ||em4367.raf-studentloans.discover.com^
-||em8561.go2bank.com^
-||em8928.em.petco.com^
-||em924.refer.starbucks.com^
+||em9523.walmartmoneycard.com^
+||xtl._domainkey.forgetrust.com^
 ||xtl._domainkey.skillshare.com^
 ||sftp.extole.com^

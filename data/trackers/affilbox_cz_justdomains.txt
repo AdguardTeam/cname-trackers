@@ -424,6 +424,7 @@ my.weplayvolleyball.bg
 my.weplayvolleyball.ch
 my.weplayvolleyball.cz
 my.weplayvolleyball.de
+my.weplayvolleyball.fr
 my.weplayvolleyball.gr
 my.weplayvolleyball.ro
 my.weplayvolleyball.si
@@ -594,6 +595,7 @@ partner.korff.sk
 partner.kreativnisvet.cz
 partner.kupcomp.sk
 partner.kurzysusmevem.cz
+partner.kutnohorskytolar.cz
 partner.kvcar.cz
 partner.laab.cz
 partner.lascero.cz
@@ -607,6 +609,7 @@ partner.levanduloveudoli.cz
 partner.levanduloveudolie.sk
 partner.liberec-ubytovani.cz
 partner.lidajirickova.cz
+partner.lightportal.cz
 partner.ligsuniversity.cz
 partner.lorooro.com
 partner.ltx.cz
@@ -903,6 +906,7 @@ partneri.zdravykram.cz
 partneri.zijchytre.cz
 partneri.zkustenzvuk.cz
 partners.almaf.cz
+partners.bonyacademy.com
 partners.duckferries.com
 partners.elitecoaching.cz
 partners.lawofattraction.cz

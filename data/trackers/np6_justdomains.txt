@@ -547,6 +547,7 @@ tr.it4brands-com.moethennessy.com
 tr.italia.plimsoll.it
 tr.jend.espmp-pofr.net
 tr.jesuis.enformedelotus.com
+tr.jevote.macif.fr
 tr.jevoteenligne.fr
 tr.jimb.espmp-cufr.net
 tr.jkcd.espmp-cufr.net
@@ -903,6 +904,8 @@ tr.nl.ardennes.cci.fr
 tr.nl.mondo-shop.fr
 tr.nl.myvipmag.fr
 tr.nl.services-sncf.com
+tr.nl.stadefrance.com
+tr.nl.troyes.cci.fr
 tr.nl2.sncf-fidelite.com
 tr.nmcm.espmp-cufr.net
 tr.nmcm.espmp-nifr.net
@@ -946,6 +949,7 @@ tr.particuliers8.engie.com
 tr.partners.younited-credit.it
 tr.payment.lvmh.com
 tr.phjk.espmp-nifr.net
+tr.pipa.espmp-aufr.net
 tr.pixe.espmp-cufr.net
 tr.pm.pelhammedia.com
 tr.poker.np6.com
@@ -1008,6 +1012,7 @@ tr.satisfaction.groupe-pv-cp.com
 tr.satisfaction.villagesnature.com
 tr.scienceshumaines.info
 tr.scienceshumaines.pro
+tr.seat-fs-email.fr
 tr.secretary.wfitn.org
 tr.secteurentreprises.harmonie-mutuelle.fr
 tr.service.linxea.com

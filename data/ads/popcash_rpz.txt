@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -211,7 +211,6 @@ ape.mfj.se CNAME .
 ape.pytch.co.uk CNAME .
 ape.saadsvoterguide.org CNAME .
 ape.smartplanschema.se CNAME .
-aphid.enjoleur.com CNAME .
 aphid.nihilnegativum.com CNAME .
 aphid.polarcop.com CNAME .
 aphid.smartjournal.no CNAME .
@@ -791,7 +790,6 @@ panda.moritz-petersen.de CNAME .
 panda.mvhphotoproject.org CNAME .
 panda.teraskolmio.fi CNAME .
 panda.unpublished.app CNAME .
-panther.atgonlinecoaching.com CNAME .
 panther.codyhatfield.me CNAME .
 panther.essentialwellnessyoga.com.au CNAME .
 panther.hoprnet.org CNAME .
@@ -859,7 +857,6 @@ puma.islingtonmecc.org.uk CNAME .
 python.casuallyprivate.com CNAME .
 python.jukejuke.app CNAME .
 quail.trueglowbylaura.com CNAME .
-quelea.igotcha.de CNAME .
 quokka.bulkbuyhosting.com CNAME .
 quokka.curbnumberpro.com CNAME .
 quokka.howrightnow.org CNAME .
@@ -1165,6 +1162,7 @@ cdn.shrtfly.vip CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .
+eegybest.7all.net CNAME .
 live-tag.creatopy.net CNAME .
 log.ads-m.net CNAME .
 sp.cleaningkeepers.com CNAME .

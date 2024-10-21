@@ -200,7 +200,6 @@ ape.mfj.se
 ape.pytch.co.uk
 ape.saadsvoterguide.org
 ape.smartplanschema.se
-aphid.enjoleur.com
 aphid.nihilnegativum.com
 aphid.polarcop.com
 aphid.smartjournal.no
@@ -780,7 +779,6 @@ panda.moritz-petersen.de
 panda.mvhphotoproject.org
 panda.teraskolmio.fi
 panda.unpublished.app
-panther.atgonlinecoaching.com
 panther.codyhatfield.me
 panther.essentialwellnessyoga.com.au
 panther.hoprnet.org
@@ -848,7 +846,6 @@ puma.islingtonmecc.org.uk
 python.casuallyprivate.com
 python.jukejuke.app
 quail.trueglowbylaura.com
-quelea.igotcha.de
 quokka.bulkbuyhosting.com
 quokka.curbnumberpro.com
 quokka.howrightnow.org
@@ -1154,6 +1151,7 @@ cdn.shrtfly.vip
 consent.cookiefirst.com
 contact-gloss-production.accelerator.net
 dntcl.qualaroo.com
+eegybest.7all.net
 live-tag.creatopy.net
 log.ads-m.net
 sp.cleaningkeepers.com

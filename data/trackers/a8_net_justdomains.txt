@@ -272,6 +272,7 @@ a8.shinnihonjisyo.co.jp
 a8.shitsukekun.com
 a8.shizq.store
 a8.shokubun.net
+a8.shop-jp.technogelworld.com
 a8.shop.basefood.co.jp
 a8.shop.dreammug.co.jp
 a8.shop.km-link.jp
@@ -652,7 +653,6 @@ a8clk.smart-keiri.com
 a8clk.smile-zemi.jp
 a8clk.sohbi-company.com
 a8clk.solideajapan.com
-a8clk.speedcoaching.co.jp
 a8clk.staff.mynavi.jp
 a8clk.star-mall.net
 a8clk.starwifi.jp

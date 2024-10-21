@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -38,6 +38,7 @@ goat1.nhimmeo.cf CNAME .
 goatcounter.blu3id.uk CNAME .
 goatcounter.gamecraft.it CNAME .
 goatcounter.thedave.me CNAME .
+moo.geopogs.party CNAME .
 novi.webnovi.eu CNAME .
 pixel.embed.su CNAME .
 st.mapleranks.com CNAME .
@@ -45,10 +46,12 @@ stats.0chris.com CNAME .
 stats.45rpm.ch CNAME .
 stats.abdodaoud.com CNAME .
 stats.apitman.com CNAME .
+stats.artur-rodrigues.com CNAME .
 stats.boredkevin.com CNAME .
 stats.boringproxy.io CNAME .
 stats.brandontoner.ca CNAME .
 stats.cassie.omg.lol CNAME .
+stats.cgcristi.xyz CNAME .
 stats.cloudflex.team CNAME .
 stats.fieald.com CNAME .
 stats.how.wtf CNAME .
@@ -70,5 +73,6 @@ stats.sofianlak.fr CNAME .
 stats.stchris.net CNAME .
 stats.thecrafters001.com CNAME .
 stats.trainsley69.me CNAME .
+stats.whatacools.com CNAME .
 visit.hijacklibs.net CNAME .
 webstats.maik.dev CNAME .

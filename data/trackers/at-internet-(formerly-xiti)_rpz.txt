@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -93,7 +93,6 @@ res.franc-tireur.fr CNAME .
 res.marianne.net CNAME .
 res.programme-television.org CNAME .
 res.public.fr CNAME .
-ressources.annoncesbateau.com CNAME .
 ressources.argusassurance.com CNAME .
 ressources.caradisiac.com CNAME .
 ressources.centraleauto.com CNAME .

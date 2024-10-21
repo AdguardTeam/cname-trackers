@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1497,10 +1497,8 @@ data-a4ca7c0f04.apps.iocnt.de CNAME .
 data-a4e945dbeb.augusto-sachsen.de CNAME .
 data-a4e945dbeb.dawo-dresden.de CNAME .
 data-a4e945dbeb.saechsische.de CNAME .
-data-a4e945dbeb.sz-auktion.de CNAME .
 data-a4e945dbeb.sz-fahrradfest.de CNAME .
 data-a4e945dbeb.sz-immo.de CNAME .
-data-a4e945dbeb.sz-jobs.de CNAME .
 data-a4e945dbeb.sz-pinnwand.de CNAME .
 data-a4e945dbeb.sz-ticketservice.de CNAME .
 data-a4e945dbeb.sz-trauer.de CNAME .
@@ -1963,7 +1961,6 @@ data-d9c82db6b2.motor.at CNAME .
 data-da1d9cc48a.osthessen-news.de CNAME .
 data-da8b646558.dieniederoesterreicherin.at CNAME .
 data-daaad80bda.babelli.de CNAME .
-data-daab9294a5.eatclub.de CNAME .
 data-daab9294a5.eatclub.tv CNAME .
 data-dae559c4b7.ejz.de CNAME .
 data-db0ecef264.trafikantenzeitung.at CNAME .

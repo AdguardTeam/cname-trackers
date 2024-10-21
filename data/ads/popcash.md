@@ -142,7 +142,6 @@
 | ape.pytch.co.uk | deprecated-custom-domains.b-cdn.net |
 | ape.saadsvoterguide.org | deprecated-custom-domains.b-cdn.net |
 | ape.smartplanschema.se | deprecated-custom-domains.b-cdn.net |
-| aphid.enjoleur.com | deprecated-custom-domains.b-cdn.net |
 | aphid.nihilnegativum.com | deprecated-custom-domains.b-cdn.net |
 | aphid.polarcop.com | deprecated-custom-domains.b-cdn.net |
 | aphid.smartjournal.no | deprecated-custom-domains.b-cdn.net |
@@ -722,7 +721,6 @@
 | panda.mvhphotoproject.org | deprecated-custom-domains.b-cdn.net |
 | panda.teraskolmio.fi | deprecated-custom-domains.b-cdn.net |
 | panda.unpublished.app | deprecated-custom-domains.b-cdn.net |
-| panther.atgonlinecoaching.com | deprecated-custom-domains.b-cdn.net |
 | panther.codyhatfield.me | deprecated-custom-domains.b-cdn.net |
 | panther.essentialwellnessyoga.com.au | deprecated-custom-domains.b-cdn.net |
 | panther.hoprnet.org | deprecated-custom-domains.b-cdn.net |
@@ -790,7 +788,6 @@
 | python.casuallyprivate.com | deprecated-custom-domains.b-cdn.net |
 | python.jukejuke.app | deprecated-custom-domains.b-cdn.net |
 | quail.trueglowbylaura.com | deprecated-custom-domains.b-cdn.net |
-| quelea.igotcha.de | deprecated-custom-domains.b-cdn.net |
 | quokka.bulkbuyhosting.com | deprecated-custom-domains.b-cdn.net |
 | quokka.curbnumberpro.com | deprecated-custom-domains.b-cdn.net |
 | quokka.howrightnow.org | deprecated-custom-domains.b-cdn.net |
@@ -1029,6 +1026,7 @@
 | yak.auclantis.com | deprecated-custom-domains.b-cdn.net |
 | yak.flutterblog.net | deprecated-custom-domains.b-cdn.net |
 | yak.gregsullivan.com | deprecated-custom-domains.b-cdn.net |
+| eegybest.7all.net | egybest.b-cdn.net |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.adevbom.com | popcashjs.b-cdn.net |
 | cdn.adevppl.com | popcashjs.b-cdn.net |

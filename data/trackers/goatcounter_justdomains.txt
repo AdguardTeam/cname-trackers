@@ -27,6 +27,7 @@ goat1.nhimmeo.cf
 goatcounter.blu3id.uk
 goatcounter.gamecraft.it
 goatcounter.thedave.me
+moo.geopogs.party
 novi.webnovi.eu
 pixel.embed.su
 st.mapleranks.com
@@ -34,10 +35,12 @@ stats.0chris.com
 stats.45rpm.ch
 stats.abdodaoud.com
 stats.apitman.com
+stats.artur-rodrigues.com
 stats.boredkevin.com
 stats.boringproxy.io
 stats.brandontoner.ca
 stats.cassie.omg.lol
+stats.cgcristi.xyz
 stats.cloudflex.team
 stats.fieald.com
 stats.how.wtf
@@ -59,5 +62,6 @@ stats.sofianlak.fr
 stats.stchris.net
 stats.thecrafters001.com
 stats.trainsley69.me
+stats.whatacools.com
 visit.hijacklibs.net
 webstats.maik.dev

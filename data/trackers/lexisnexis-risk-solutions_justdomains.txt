@@ -6,12 +6,14 @@ acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
 af.mobile.free.fr
 afm.monetamarkets.com
+afm.monetaturkey.com
 afm.puprime.com
 afm.puprime.online
 afm.startrader.asia
 afm.startrader.com
 afm.startrader.live
 afm.sthub.cc
+afm.ultimamarkets.asia
 afm.ultimamarkets.com
 afm.ultimamarketsglobal.com
 afm.ultimamkts.com
@@ -24,9 +26,11 @@ afm.vantagemarkets.io
 afm.vantagemarketsea.com
 afm.vantagetradings.com
 afm.vtg-mkt.com
+afm.vtg-mkts.com
 afm.vtmarkets.com
 afm.vtmarkets.net
 afm.vtmarketsfr.com
+afm.vtmarketsnet.com
 afm.vtmarketsuk.com
 afm.vtmarketsweb.com
 afs.wearemp.com
@@ -341,6 +345,7 @@ content.telusinternational.ai
 content.tfbank.at
 content.tfbank.de
 content.tfbank.es
+content.tfbank.it
 content.usps.com
 content.varetire.org
 content.vi.gov
@@ -354,10 +359,12 @@ content002.bet365.com.cy
 content002.bet365.de
 content002.bet365.dk
 content002.bet365.ee
+content002.bet365.es
 content002.bet365.gr
 content002.bet365.it
 content002.bet365.mx
 content002.bet365.nl
+content002.bet365.pe
 content1.esdiacapi.com
 content1.reprisefinancial.com
 content2.instacart.com
@@ -511,7 +518,6 @@ fp.ups.com
 fpcn.bpsgameserver.com
 fpmobile.uplift-platform.com
 fpt.norton.com
-fr.shopdisney.disney.co.jp
 fraudcheck.walmart.ca
 fss.glbank.com
 fsta.leboncoin.info
@@ -528,6 +534,7 @@ hint-tmdp.opendoor.com
 hooru.regence.com
 hunt.elcorteingles.es
 id.latitudefinancial.com
+id.solidgate.com
 identity.myblueprint.arkansasbluecross.com
 identity4.citidirect.com
 idhtm.bb.com.br
@@ -669,6 +676,7 @@ onoutput.com
 ons.tickets.com
 optm.optus.com.au
 osn-cirrus.cas.org
+p8bbv1.fiservapps.com
 pafms.ocbc.com
 page-format.chase.com
 page1.parcelmonkey.com
@@ -966,6 +974,7 @@ tm-out.cardinalcommerce.com
 tm.acehardware.com
 tm.barclays.co.uk
 tm.barstoolsportsbook.com
+tm.bcc.kz
 tm.bdc-cdn.com
 tm.beachbody.com
 tm.benevity.org
@@ -1097,6 +1106,7 @@ uafms.ocbc.com
 ualaki-analytics.vacations.united.com
 uat.cmprofile.cards.citidirect.com
 uatidentity4.citidirect.com
+ucfs.sendpro360.pitneybowes.com
 ufp.intuit.com
 uldfp.srilankan.com
 umst.mobile.de
@@ -1111,6 +1121,7 @@ v.sagasavings.co.uk
 valcontent.securustech.net
 validacion.rayo.com.co
 validacionlx.agaval.com
+validafp.grupocasasbahia.com.br
 validators.ifpsoyyo.co
 verification.ndtco.com
 verify.metlife.com

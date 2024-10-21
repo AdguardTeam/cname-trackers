@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -102,7 +102,6 @@ info.bestbudgetapps.com CNAME .
 informatics.filamentcolors.xyz CNAME .
 insights.affilimate.com CNAME .
 jinx.skullctf.com CNAME .
-joy.ochronus.online CNAME .
 kaladyaudiology.ericksonbuilt.com CNAME .
 kingsandqueens.splowser.com CNAME .
 l.lilyzhou.com CNAME .
@@ -449,7 +448,6 @@ stats.devenet.info CNAME .
 stats.devetkomentara.net CNAME .
 stats.devrain.io CNAME .
 stats.devskills.co CNAME .
-stats.dexie.me CNAME .
 stats.dflydev.com CNAME .
 stats.diarmuidsexton.com CNAME .
 stats.digiexpert.store CNAME .
@@ -775,6 +773,7 @@ stats.sendngnt.com CNAME .
 stats.servicedesignjobs.com CNAME .
 stats.seva.rocks CNAME .
 stats.shareup.app CNAME .
+stats.shawnyeager.com CNAME .
 stats.shepherd.com CNAME .
 stats.shh.io CNAME .
 stats.shiftx.com CNAME .

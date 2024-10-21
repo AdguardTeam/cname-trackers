@@ -49,6 +49,7 @@
 | l.centre-presse.fr | tls.non.li |
 | l.centrepresseaveyron.fr | tls.non.li |
 | l.challenges.fr | tls.non.li |
+| l.charentelibre.fr | tls.non.li |
 | l.cuisineactuelle.fr | tls.non.li |
 | l.doctissimo.fr | tls.non.li |
 | l.enfant.com | tls.non.li |
@@ -62,7 +63,6 @@
 | l.franceguyane.fr | tls.non.li |
 | l.franceinter.fr | tls.non.li |
 | l.francemusique.fr | tls.non.li |
-| l.francetvinfo.fr | tls.non.li |
 | l.frandroid.com | tls.non.li |
 | l.gala.fr | tls.non.li |
 | l.gentside.com | tls.non.li |
@@ -77,8 +77,10 @@
 | l.ladepeche.fr | tls.non.li |
 | l.lanouvellerepublique.fr | tls.non.li |
 | l.lardennais.fr | tls.non.li |
+| l.larepubliquedespyrenees.fr | tls.non.li |
 | l.lavoixdunord.fr | tls.non.li |
 | l.lefigaro.fr | tls.non.li |
+| l.lejournaldelamaison.fr | tls.non.li |
 | l.leparisien.fr | tls.non.li |
 | l.lepoint.fr | tls.non.li |
 | l.lequotidiendelart.com | tls.non.li |
@@ -101,12 +103,16 @@
 | l.ouest-france.fr | tls.non.li |
 | l.programme-tv.net | tls.non.li |
 | l.programme.tv | tls.non.li |
+| l.psychologies.com | tls.non.li |
+| l.purebreak.com | tls.non.li |
+| l.purepeople.com | tls.non.li |
 | l.radiofrance.fr | tls.non.li |
 | l.reporterre.net | tls.non.li |
 | l.rmc.fr | tls.non.li |
 | l.rmcsport.fr | tls.non.li |
 | l.roole.fr | tls.non.li |
 | l.sciencesetavenir.fr | tls.non.li |
+| l.sports.fr | tls.non.li |
 | l.sudinfo.be | tls.non.li |
 | l.sudouest.fr | tls.non.li |
 | l.tf1.fr | tls.non.li |

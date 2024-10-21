@@ -26,6 +26,7 @@ l.capital.fr
 l.centre-presse.fr
 l.centrepresseaveyron.fr
 l.challenges.fr
+l.charentelibre.fr
 l.cuisineactuelle.fr
 l.doctissimo.fr
 l.enfant.com
@@ -39,7 +40,6 @@ l.franceculture.fr
 l.franceguyane.fr
 l.franceinter.fr
 l.francemusique.fr
-l.francetvinfo.fr
 l.frandroid.com
 l.gala.fr
 l.gentside.com
@@ -56,8 +56,10 @@ l.ladepeche.fr
 l.lanouvellerepublique.fr
 l.laprovence.com
 l.lardennais.fr
+l.larepubliquedespyrenees.fr
 l.lavoixdunord.fr
 l.lefigaro.fr
+l.lejournaldelamaison.fr
 l.leparisien.fr
 l.lepoint.fr
 l.lequotidiendelart.com
@@ -83,12 +85,16 @@ l.ohmymag.de
 l.ouest-france.fr
 l.programme-tv.net
 l.programme.tv
+l.psychologies.com
+l.purebreak.com
+l.purepeople.com
 l.radiofrance.fr
 l.reporterre.net
 l.rmc.fr
 l.rmcsport.fr
 l.roole.fr
 l.sciencesetavenir.fr
+l.sports.fr
 l.sudinfo.be
 l.sudouest.fr
 l.tf1.fr

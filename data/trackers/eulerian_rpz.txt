@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -196,7 +196,6 @@ ef.futuroscope.mobi CNAME .
 eit3.destinia.nl CNAME .
 ek8.voyage-prive.com CNAME .
 elr.sfr.fr CNAME .
-erb.tremblant.ca CNAME .
 ert5.rmcsport.tv CNAME .
 et.sncf.com CNAME .
 eule1.pmu.fr CNAME .
@@ -333,6 +332,7 @@ nmo1.orpi.com CNAME .
 nmu3.destinia.be CNAME .
 noa0.compteczam.fr CNAME .
 nrg.red-by-sfr.fr CNAME .
+nym5c.bonlook.com CNAME .
 nyt1.biosens-leanature.fr CNAME .
 o68c.sfr.fr CNAME .
 oae6.carrefour-banque.fr CNAME .
@@ -357,12 +357,6 @@ oqr4.destinia.in CNAME .
 ouk7.grantalexander.com CNAME .
 p.pmu.fr CNAME .
 pbox.no.photobox.com CNAME .
-pbox.photobox.be CNAME .
-pbox.photobox.co.uk CNAME .
-pbox.photobox.dk CNAME .
-pbox.photobox.fr CNAME .
-pbox.photobox.ie CNAME .
-pbox.photobox.it CNAME .
 pcnphysio-com.ca-eulerian.net CNAME .
 pgt1.voyage-prive.es CNAME .
 piq4.inseec.education CNAME .
@@ -471,6 +465,7 @@ why3.inseec.education CNAME .
 wlp3.aegon.es CNAME .
 wnd2.destinia.cat CNAME .
 wph2.destinia.us CNAME .
+www.admanager.fr CNAME .
 www.attribution-school.com CNAME .
 www.dataholics.tech CNAME .
 www.fasttrack.fr CNAME .
@@ -502,7 +497,7 @@ zyq2.destinia.sk CNAME .
 c0i.ckoi.com CNAME .
 c0p.cepsum.umontreal.ca CNAME .
 d2u.dauphinquebec.com CNAME .
-nym5c.bonlook.com CNAME .
+erb.tremblant.ca CNAME .
 ry0.rythmefm.com CNAME .
 su1.les-suites.ca CNAME .
 ea.mnt.fr CNAME .

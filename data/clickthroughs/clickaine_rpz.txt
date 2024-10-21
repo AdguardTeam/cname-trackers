@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -72,6 +72,7 @@ clkn.apostle.onl CNAME .
 clkn.moviesinspector.com CNAME .
 clkn2.apostle.onl CNAME .
 clkn3.apostle.onl CNAME .
+clknrtrg.pro CNAME .
 cln.willyporn.com CNAME .
 cn4.animehdl.net CNAME .
 cn4.cheemsporn.com CNAME .
@@ -102,6 +103,7 @@ jpnj.hotpornfile.org CNAME .
 k10.usefto.com CNAME .
 k8.usefto.com CNAME .
 mail.7porn.ru CNAME .
+net.fuckxstream.com CNAME .
 notifications.animeshqip.info CNAME .
 omg.house.porn CNAME .
 orange.arabtoons.net CNAME .

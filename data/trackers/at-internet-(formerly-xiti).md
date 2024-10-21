@@ -84,7 +84,6 @@
     * res-marianne-net-cddc.at-o.net
     * res-programme-television-org-cddc.at-o.net
     * res-public-fr-cddc.at-o.net
-    * ressources-annoncesbateau-com-cddc.at-o.net
     * ressources-argusassurance-com-cddc.at-o.net
     * ressources-caradisiac-com-cddc.at-o.net
     * ressources-centraleauto-com-cddc.at-o.net
@@ -209,7 +208,6 @@
 | res.marianne.net | res-marianne-net-cddc.at-o.net |
 | res.programme-television.org | res-programme-television-org-cddc.at-o.net |
 | res.public.fr | res-public-fr-cddc.at-o.net |
-| ressources.annoncesbateau.com | ressources-annoncesbateau-com-cddc.at-o.net |
 | ressources.argusassurance.com | ressources-argusassurance-com-cddc.at-o.net |
 | ressources.caradisiac.com | ressources-caradisiac-com-cddc.at-o.net |
 | ressources.centraleauto.com | ressources-centraleauto-com-cddc.at-o.net |

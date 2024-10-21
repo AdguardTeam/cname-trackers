@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -126,6 +126,7 @@ utiq.hanauer.de CNAME .
 utiq.handelsblatt.com CNAME .
 utiq.hbrfrance.fr CNAME .
 utiq.heftig.de CNAME .
+utiq.heimatsport.de CNAME .
 utiq.helpster.de CNAME .
 utiq.hersfelder-zeitung.de CNAME .
 utiq.hna.de CNAME .
@@ -159,8 +160,10 @@ utiq.lefigaro.fr CNAME .
 utiq.lejournaldelamaison.fr CNAME .
 utiq.lemessager.fr CNAME .
 utiq.leonoticias.com CNAME .
+utiq.lesnumeriques.com CNAME .
 utiq.lest-eclair.fr CNAME .
 utiq.levante-emv.com CNAME .
+utiq.liberation-champagne.fr CNAME .
 utiq.lne.es CNAME .
 utiq.lunion.fr CNAME .
 utiq.madmoizelle.com CNAME .
@@ -173,6 +176,7 @@ utiq.mariefrance.fr CNAME .
 utiq.marmiton.org CNAME .
 utiq.merkur.de CNAME .
 utiq.millenium.gg CNAME .
+utiq.millenium.org CNAME .
 utiq.mittelbayerische.de CNAME .
 utiq.modesettravaux.fr CNAME .
 utiq.mopo.de CNAME .
@@ -188,6 +192,7 @@ utiq.nostalgie.fr CNAME .
 utiq.nrj-play.fr CNAME .
 utiq.nrj.fr CNAME .
 utiq.numerama.com CNAME .
+utiq.oberhessische-zeitung.de CNAME .
 utiq.op-online.de CNAME .
 utiq.ouest-france.fr CNAME .
 utiq.ozap.com CNAME .
@@ -203,6 +208,7 @@ utiq.psychologies.com CNAME .
 utiq.purebreak.com CNAME .
 utiq.purepeople.com CNAME .
 utiq.regio7.cat CNAME .
+utiq.renault.fr CNAME .
 utiq.rireetchansons.fr CNAME .
 utiq.rmcbfmplay.com CNAME .
 utiq.salamancahoy.es CNAME .

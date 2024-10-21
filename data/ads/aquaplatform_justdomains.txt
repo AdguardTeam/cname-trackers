@@ -13,6 +13,7 @@ ads.datateam.co.uk
 ads.environmentalleader.com
 ads.i-bidder.com
 ads.lot-tissimo.com
+ads.postandparcel.info
 ads.proxibid.com
 ads.recon.com
 ads.swiss-equestrian.ch
@@ -154,6 +155,7 @@ static.polity.org.za
 static.proxibid.com
 static.schrotundkorn.de
 static.sonicplug.com
+static.the-saleroom.com
 static.trackandfieldnews.com
 static.walaplusadserver.com
 tlads.midtc.com

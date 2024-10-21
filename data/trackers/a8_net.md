@@ -286,6 +286,7 @@
 | a8.shitsukekun.com | trck.a8.net |
 | a8.shizq.store | trck.a8.net |
 | a8.shokubun.net | trck.a8.net |
+| a8.shop-jp.technogelworld.com | trck.a8.net |
 | a8.shop.basefood.co.jp | trck.a8.net |
 | a8.shop.dreammug.co.jp | trck.a8.net |
 | a8.shop.km-link.jp | trck.a8.net |
@@ -666,7 +667,6 @@
 | a8clk.smile-zemi.jp | trck.a8.net |
 | a8clk.sohbi-company.com | trck.a8.net |
 | a8clk.solideajapan.com | trck.a8.net |
-| a8clk.speedcoaching.co.jp | trck.a8.net |
 | a8clk.staff.mynavi.jp | trck.a8.net |
 | a8clk.star-mall.net | trck.a8.net |
 | a8clk.starwifi.jp | trck.a8.net |

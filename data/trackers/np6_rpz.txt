@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -558,6 +558,7 @@ tr.it4brands-com.moethennessy.com CNAME .
 tr.italia.plimsoll.it CNAME .
 tr.jend.espmp-pofr.net CNAME .
 tr.jesuis.enformedelotus.com CNAME .
+tr.jevote.macif.fr CNAME .
 tr.jevoteenligne.fr CNAME .
 tr.jimb.espmp-cufr.net CNAME .
 tr.jkcd.espmp-cufr.net CNAME .
@@ -914,6 +915,8 @@ tr.nl.ardennes.cci.fr CNAME .
 tr.nl.mondo-shop.fr CNAME .
 tr.nl.myvipmag.fr CNAME .
 tr.nl.services-sncf.com CNAME .
+tr.nl.stadefrance.com CNAME .
+tr.nl.troyes.cci.fr CNAME .
 tr.nl2.sncf-fidelite.com CNAME .
 tr.nmcm.espmp-cufr.net CNAME .
 tr.nmcm.espmp-nifr.net CNAME .
@@ -957,6 +960,7 @@ tr.particuliers8.engie.com CNAME .
 tr.partners.younited-credit.it CNAME .
 tr.payment.lvmh.com CNAME .
 tr.phjk.espmp-nifr.net CNAME .
+tr.pipa.espmp-aufr.net CNAME .
 tr.pixe.espmp-cufr.net CNAME .
 tr.pm.pelhammedia.com CNAME .
 tr.poker.np6.com CNAME .
@@ -1019,6 +1023,7 @@ tr.satisfaction.groupe-pv-cp.com CNAME .
 tr.satisfaction.villagesnature.com CNAME .
 tr.scienceshumaines.info CNAME .
 tr.scienceshumaines.pro CNAME .
+tr.seat-fs-email.fr CNAME .
 tr.secretary.wfitn.org CNAME .
 tr.secteurentreprises.harmonie-mutuelle.fr CNAME .
 tr.service.linxea.com CNAME .

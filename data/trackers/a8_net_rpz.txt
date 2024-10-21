@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1728892807468        ; Serial
+           1729497607660        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -283,6 +283,7 @@ a8.shinnihonjisyo.co.jp CNAME .
 a8.shitsukekun.com CNAME .
 a8.shizq.store CNAME .
 a8.shokubun.net CNAME .
+a8.shop-jp.technogelworld.com CNAME .
 a8.shop.basefood.co.jp CNAME .
 a8.shop.dreammug.co.jp CNAME .
 a8.shop.km-link.jp CNAME .
@@ -663,7 +664,6 @@ a8clk.smart-keiri.com CNAME .
 a8clk.smile-zemi.jp CNAME .
 a8clk.sohbi-company.com CNAME .
 a8clk.solideajapan.com CNAME .
-a8clk.speedcoaching.co.jp CNAME .
 a8clk.staff.mynavi.jp CNAME .
 a8clk.star-mall.net CNAME .
 a8clk.starwifi.jp CNAME .
