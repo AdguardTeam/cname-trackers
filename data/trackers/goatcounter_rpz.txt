@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,6 +18,7 @@ analytics.demo.plateau.ng.open.law CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 analytics.popov.link CNAME .
 analytics.yofbrc.com CNAME .
+argus.umarbutler.com CNAME .
 awesome-tunneling-stats.apitman.com CNAME .
 contacapre.bortox.it CNAME .
 count.vidsrc.pro CNAME .

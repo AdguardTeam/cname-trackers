@@ -352,6 +352,7 @@
 ||tr.email.videofutur.fr^
 ||tr.email.virtual-expo.com^
 ||tr.email.voyagesleclerc.com^
+||tr.email.wtwco.com^
 ||tr.emailatia.fr^
 ||tr.emailing-wishesfactory.com^
 ||tr.emailing.agencereference.com^
@@ -608,7 +609,6 @@
 ||tr.mailing.laredoute.fr^
 ||tr.mailing.lvmhappening.com^
 ||tr.mailing.promodeclic.fr^
-||tr.mailingnp6.lavoirmoderne.com^
 ||tr.mailmp.macif.net^
 ||tr.mailperf.institut-de-la-protection-sociale.fr^
 ||tr.mailperf.ngt-services.com^
@@ -727,7 +727,6 @@
 ||tr.news.cotemaison.fr^
 ||tr.news.cporadio.tv^
 ||tr.news.crystal-partenaires.com^
-||tr.news.delifrance.com^
 ||tr.news.deneuville-chocolat.fr^
 ||tr.news.deshotelsetdesiles.com^
 ||tr.news.devisdirect.be^
@@ -743,6 +742,7 @@
 ||tr.news.easyvoyage.de^
 ||tr.news.economic-studies.fr^
 ||tr.news.editions-lva.fr^
+||tr.news.ekosport-rent.fr^
 ||tr.news.enkiapp.io^
 ||tr.news.entreprise-pm.com^
 ||tr.news.eureden.com^
@@ -771,7 +771,6 @@
 ||tr.news.infopro-digital.com^
 ||tr.news.interforum.fr^
 ||tr.news.itancia.com^
-||tr.news.jautomatise.com^
 ||tr.news.kaptainmusic.fr^
 ||tr.news.kpmg-avocats.fr^
 ||tr.news.kpmg.fr^
@@ -992,6 +991,7 @@
 ||tr.reactivation.vertbaudet.fr^
 ||tr.read.glose.com^
 ||tr.recouvrement.finrec.com^
+||tr.recouvrement.saint-louis-recouvrement.com^
 ||tr.recouvrement.seeric.com^
 ||tr.recouvrement.younited-credit.com^
 ||tr.redaction.essentiel-sante-magazine.fr^

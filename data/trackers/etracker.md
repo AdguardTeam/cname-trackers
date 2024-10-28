@@ -13,6 +13,7 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
+| analytics.freiraumakustik.de | customer.etracker.com |
 | bmkt.bernhardtmoden.de | customer.etracker.com |
 | click.easycosmetic.at | customer.etracker.com |
 | click.easycosmetic.be | customer.etracker.com |
@@ -51,6 +52,7 @@
 | stats.folienmarkt.de | customer.etracker.com |
 | stats.kaerntnerjobs.at | customer.etracker.com |
 | stats.mopo.de | customer.etracker.com |
+| stats.oberoejobs.at | customer.etracker.com |
 | stats.pilz.com | customer.etracker.com |
 | stats.rumundco.de | customer.etracker.com |
 | stats.salzburgerjobs.at | customer.etracker.com |

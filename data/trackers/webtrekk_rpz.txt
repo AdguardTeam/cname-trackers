@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -209,6 +209,7 @@ scout.bergfreunde.nl CNAME .
 scout.bergfreunde.no CNAME .
 scout.bergfreunde.se CNAME .
 startrekk.flaconi.at CNAME .
+startrekk.flaconi.be CNAME .
 startrekk.flaconi.ch CNAME .
 startrekk.flaconi.fr CNAME .
 startrekk.flaconi.nl CNAME .

@@ -12,7 +12,6 @@
 * video-ad.b-cdn.net
 * bannieres.b-cdn.net
 * cpmstar.b-cdn.net
-* 77980.bodis.com
 * prebid.b-cdn.net
 * admaticcdn.b-cdn.net
 * adsninjacdn.b-cdn.net
@@ -26,7 +25,6 @@
 
 | Disguise | Tracker |
 | ---- | ---- |
-| caribou.clintgwinter.com | 77980.bodis.com |
 | thirty-good.lugg.com | absolutely-novel.b-cdn.net |
 | cdn.admatic.com.tr | admaticcdn.b-cdn.net |
 | video.adsninja.ca | adsninja.b-cdn.net |
@@ -172,6 +170,7 @@
 | barracuda.ottsysteme.rs | deprecated-custom-domains.b-cdn.net |
 | barracuda.saraos.tech | deprecated-custom-domains.b-cdn.net |
 | barracuda.verto.exchange | deprecated-custom-domains.b-cdn.net |
+| basilisk.community-arts.net | deprecated-custom-domains.b-cdn.net |
 | basilisk.laosima.com | deprecated-custom-domains.b-cdn.net |
 | bass.alfrednerstu.com | deprecated-custom-domains.b-cdn.net |
 | bass.goulet.dev | deprecated-custom-domains.b-cdn.net |
@@ -356,6 +355,7 @@
 | donkey.elegantmusicgroup.com | deprecated-custom-domains.b-cdn.net |
 | donkey.guggenbichler.co.at | deprecated-custom-domains.b-cdn.net |
 | donkey.hackoregon.org | deprecated-custom-domains.b-cdn.net |
+| donkey.masteringfinland.com | deprecated-custom-domains.b-cdn.net |
 | donkey.the3rd.place | deprecated-custom-domains.b-cdn.net |
 | dormouse.consentkit.com | deprecated-custom-domains.b-cdn.net |
 | dormouse.nektarium.de | deprecated-custom-domains.b-cdn.net |
@@ -730,6 +730,7 @@
 | parakeet.jorenvanhocht.be | deprecated-custom-domains.b-cdn.net |
 | parakeet.kenleyar.ai | deprecated-custom-domains.b-cdn.net |
 | parakeet.quotetweet.com | deprecated-custom-domains.b-cdn.net |
+| parrot.alookwithin.ca | deprecated-custom-domains.b-cdn.net |
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
 | parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wilderworld.com | deprecated-custom-domains.b-cdn.net |
@@ -962,7 +963,6 @@
 | trout.unicornplatform.com | deprecated-custom-domains.b-cdn.net |
 | tuna.ajaymantri.com | deprecated-custom-domains.b-cdn.net |
 | tuna.purplespider.com | deprecated-custom-domains.b-cdn.net |
-| turkey.docsy.cloud | deprecated-custom-domains.b-cdn.net |
 | turkey.tella.tv | deprecated-custom-domains.b-cdn.net |
 | turtle.geshem.space | deprecated-custom-domains.b-cdn.net |
 | turtle.hackstock.net | deprecated-custom-domains.b-cdn.net |
@@ -1026,7 +1026,6 @@
 | yak.auclantis.com | deprecated-custom-domains.b-cdn.net |
 | yak.flutterblog.net | deprecated-custom-domains.b-cdn.net |
 | yak.gregsullivan.com | deprecated-custom-domains.b-cdn.net |
-| eegybest.7all.net | egybest.b-cdn.net |
 | log.ads-m.net | pixel-track.b-cdn.net |
 | cdn.adevbom.com | popcashjs.b-cdn.net |
 | cdn.adevppl.com | popcashjs.b-cdn.net |

@@ -251,6 +251,7 @@ fidelity.activate.ensighten.com
 gst.pulse.buyatoyota.com
 gst.pulse.toyota.com
 ims.tescoinsurance.com
+ims2.tescotravelmoney.com
 latimes.activate.ensighten.com
 letsencrypt.data.ensighten.com
 measure.ensighten.com

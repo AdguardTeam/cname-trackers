@@ -1,6 +1,7 @@
 #
 # Company name: Aquaplatform
 adamsads.midtc.com
+adconsole.kozoom.com
 adconsole.lot-tissimo.com
 adconsole.sniffies.com
 adimages.eva.live
@@ -79,6 +80,7 @@ images.goldseek.com
 images.informatm.com
 images.jacilla.no
 images.mannenmedia.nl
+images.proxena-adserver.com
 images.worldofshowjumping.com
 lalala.geenstijl.nl
 media360ads.midtc.com
@@ -160,7 +162,9 @@ static.trackandfieldnews.com
 static.walaplusadserver.com
 tlads.midtc.com
 treehouse.wwoz.org
+www.api.adbility-media.com
 www.cdn-adv.unionesarda.it
+www.display.lawbulletin.com
 www.proforums.com
 www.revive-static.worldscreen.com
 www.revive.ahk.de

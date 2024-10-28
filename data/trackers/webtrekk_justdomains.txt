@@ -198,6 +198,7 @@ scout.bergfreunde.nl
 scout.bergfreunde.no
 scout.bergfreunde.se
 startrekk.flaconi.at
+startrekk.flaconi.be
 startrekk.flaconi.ch
 startrekk.flaconi.fr
 startrekk.flaconi.nl

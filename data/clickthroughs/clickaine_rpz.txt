@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -18,9 +18,9 @@ a3.hotpornfile.org CNAME .
 a4.hotpornfile.org CNAME .
 aabclkane.bachelorarchive.com CNAME .
 ad.desibp.com CNAME .
-ads.cki.name CNAME .
 ads.imgdesu.art CNAME .
 ads.luffy.my.id CNAME .
+adsv.cki.name CNAME .
 anti.69vclub.com CNAME .
 api.animeshqip.icu CNAME .
 api.hugemedia.cz CNAME .

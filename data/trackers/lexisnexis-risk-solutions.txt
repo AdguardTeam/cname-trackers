@@ -142,6 +142,7 @@
 ||cdnfp.lexisnexisrisk.com^
 ||cdnfp.lexisnexisrisk.eu^
 ||cdnm.sts.pl^
+||cdns.moneyplace.com.au^
 ||cdnt.duobank.com^
 ||cdnt.walmartrewards.ca^
 ||cdntm.expat.hsbc.com^
@@ -182,13 +183,8 @@
 ||check2.lloydsbank.co.uk^
 ||check2.mbna.co.uk^
 ||check2.tsb.co.uk^
-||check3-dev.test.tiaabank.com^
-||check3-qa1.test.tiaabank.com^
-||check3-qa2.test.tiaabank.com^
-||check3-stg.test.tiaabank.com^
 ||check3.tiaa-cref.org^
 ||check3.tiaa.org^
-||check3.tiaabank.com^
 ||checkout-df.lululemon.com^
 ||checkout.walz.de^
 ||cib.currency.lloydsbank.com^
@@ -204,6 +200,7 @@
 ||condition.applause.com^
 ||contendvc.cnouyi.pizza^
 ||content-48.cnb.com^
+||content-static.emiratesnbd.com^
 ||content-tix.topi.eu^
 ||content-uk.fundingcircle.com^
 ||content.addisonlee.com^
@@ -960,6 +957,7 @@
 ||tcontent.cdiscountmobile.cdiscount.com^
 ||tcontent.nrjmobile.fr^
 ||telem.highlow.com^
+||testappcontent.fcmbtest.com^
 ||tfp.intuit.com^
 ||th.barclays.co.uk^
 ||thm.v.me^
@@ -1081,6 +1079,7 @@
 ||tmx.pampersrewards.com^
 ||tmx.pat.td.com^
 ||tmx.prod.efsllc.com^
+||tmx.revolut.codes^
 ||tmx.rnd.gemaltodigitalbankingidcloud.com^
 ||tmx.tchek.com^
 ||tmx.td.com^

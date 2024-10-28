@@ -7,6 +7,7 @@
 ||analytics.law.cityofsanmateo.org^
 ||analytics.popov.link^
 ||analytics.yofbrc.com^
+||argus.umarbutler.com^
 ||awesome-tunneling-stats.apitman.com^
 ||contacapre.bortox.it^
 ||count.vidsrc.pro^

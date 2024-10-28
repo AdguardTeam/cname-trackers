@@ -1,5 +1,6 @@
 !
 ! Company name: Etracker
+||analytics.freiraumakustik.de^
 ||bmkt.bernhardtmoden.de^
 ||click.easycosmetic.at^
 ||click.easycosmetic.be^
@@ -38,6 +39,7 @@
 ||stats.folienmarkt.de^
 ||stats.kaerntnerjobs.at^
 ||stats.mopo.de^
+||stats.oberoejobs.at^
 ||stats.pilz.com^
 ||stats.rumundco.de^
 ||stats.salzburgerjobs.at^

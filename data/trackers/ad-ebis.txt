@@ -233,7 +233,6 @@
 ||ebis.okasan-online.co.jp^
 ||ebis.onamae.com^
 ||ebis.palclair.jp^
-||ebis.pasonatech.co.jp^
 ||ebis.rabo.cat^
 ||ebis.radish-pocket.com^
 ||ebis.radishbo-ya.co.jp^

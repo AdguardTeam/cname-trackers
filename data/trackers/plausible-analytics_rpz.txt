@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -237,7 +237,6 @@ plausible.myvirtualsuper.com CNAME .
 plausible.nickmazuk.com CNAME .
 plausible.nmyvsn.net CNAME .
 plausible.nuqu.org CNAME .
-plausible.promlens.com CNAME .
 plausible.prufit.co CNAME .
 plausible.pumpkint.com CNAME .
 plausible.quantumcomputingexplained.com CNAME .
@@ -260,7 +259,6 @@ plausible.tlschedule.com CNAME .
 plausible.treelightsoftware.com CNAME .
 plausible.urbanekuensteruhr.de CNAME .
 plausible.veszelovszki.com CNAME .
-plausible.visitu.com CNAME .
 plausible.west.io CNAME .
 plausible.x.baychi.org CNAME .
 plausible.yalepaprika.com CNAME .
@@ -422,7 +420,6 @@ stats.connect.pm CNAME .
 stats.convaise.com CNAME .
 stats.corona-navi.de CNAME .
 stats.covid.vitordino.com CNAME .
-stats.craftybase.com CNAME .
 stats.creativinn.com CNAME .
 stats.crema.fi CNAME .
 stats.cremashop.eu CNAME .

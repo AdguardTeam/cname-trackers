@@ -426,6 +426,7 @@
 ||data-34565915dd.firmenwissen.de^
 ||data-34c9d32b77.apps.iocnt.de^
 ||data-353c1c8501.falstaff.com^
+||data-35b9638d7b.bibdia-mobil.de^
 ||data-366a248b14.film.at^
 ||data-367bcf5bd6.german-retail-blog.com^
 ||data-367bcf5bd6.lebensmittelzeitung.de^
@@ -807,6 +808,7 @@
 ||data-5a078ffbef.wb-jobs.de^
 ||data-5a078ffbef.wb-trauer.de^
 ||data-5a078ffbef.westfalen-blatt.de^
+||data-5a2bbd7d77.apps.iocnt.de^
 ||data-5a40478bd4.kino.de^
 ||data-5a9f6e282a.ingenieur.de^
 ||data-5a9f6e282a.ingenieurstage.de^
@@ -847,6 +849,7 @@
 ||data-5e8d192b40.fussballn.de^
 ||data-5ec2d41a8f.radiowestfalica.de^
 ||data-5f1c477bee.apps.iocnt.de^
+||data-5f31cc5b45.apps.iocnt.de^
 ||data-5f67d653dd.si-shk.de^
 ||data-5f7ebd9560.apps.iocnt.de^
 ||data-5fdd0f6a02.salzburg24.at^
@@ -1333,6 +1336,8 @@
 ||data-94db24a6dd.motorrad-magazin.at^
 ||data-94ef178492.comunio.de^
 ||data-951da6b717.detail.de^
+||data-9599593609.biotech-europe.de^
+||data-9599593609.laborjournal.com^
 ||data-9599593609.laborjournal.de^
 ||data-95c8053841.pirsch.de^
 ||data-95fff71409.boersennews.de^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -208,7 +208,6 @@ affiliate.lg-store.cz CNAME .
 affiliate.licit.cz CNAME .
 affiliate.loveo.cz CNAME .
 affiliate.luxor.cz CNAME .
-affiliate.manvel.cz CNAME .
 affiliate.marketingminer.com CNAME .
 affiliate.martinchudy.sk CNAME .
 affiliate.martinreznicek.cz CNAME .
@@ -238,7 +237,6 @@ affiliate.plutoscompany.sk CNAME .
 affiliate.polti.cz CNAME .
 affiliate.portu.cz CNAME .
 affiliate.postel.cz CNAME .
-affiliate.pouziteiphony.cz CNAME .
 affiliate.pravopropodnikatele.cz CNAME .
 affiliate.prikryvky-obchod.cz CNAME .
 affiliate.prodietix.cz CNAME .
@@ -330,6 +328,7 @@ isicpartner.mamechut.cz CNAME .
 kaocko.swaglift.com CNAME .
 lhota.stanicezoo.cz CNAME .
 money.mioweb.cz CNAME .
+my.11team-sports.hu CNAME .
 my.11teamsports.bg CNAME .
 my.11teamsports.com CNAME .
 my.11teamsports.cz CNAME .
@@ -596,7 +595,6 @@ partner.jillylenau.cz CNAME .
 partner.kafista.cz CNAME .
 partner.kalhotkomat.cz CNAME .
 partner.ketomix.cz CNAME .
-partner.ketomix.hu CNAME .
 partner.ketomix.sk CNAME .
 partner.kidtown.cz CNAME .
 partner.kokiskashop.cz CNAME .
@@ -645,7 +643,6 @@ partner.mojeluha.cz CNAME .
 partner.mojetonery.sk CNAME .
 partner.momcare.cz CNAME .
 partner.momcare.sk CNAME .
-partner.monosoke.sk CNAME .
 partner.montessorihracky.cz CNAME .
 partner.mooda.cz CNAME .
 partner.mooselife.cz CNAME .
@@ -749,7 +746,6 @@ partner.umio.eu CNAME .
 partner.unuo.de CNAME .
 partner.vataonline.cz CNAME .
 partner.vffoto.com CNAME .
-partner.victus.cz CNAME .
 partner.virulent.cz CNAME .
 partner.vladimirekart.cz CNAME .
 partner.volne-reality.cz CNAME .
@@ -950,6 +946,7 @@ splatky.aquatrend.sk CNAME .
 spolu.kuskakaa.cz CNAME .
 spoluhraci.decathlon.cz CNAME .
 spolupraca.aretacia-rozvodov.sk CNAME .
+spolupraca.vivobarefoot.sk CNAME .
 spoluprace.aretacni-pripravky.cz CNAME .
 spoluprace.bafoo.cz CNAME .
 spoluprace.blackkale.cz CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -11,6 +11,7 @@ $TTL 300
 ;
 @    IN   NS    localhost.
 
+analytics.freiraumakustik.de CNAME .
 bmkt.bernhardtmoden.de CNAME .
 click.easycosmetic.at CNAME .
 click.easycosmetic.be CNAME .
@@ -49,6 +50,7 @@ statistics.fruchtbarewelt.de CNAME .
 stats.folienmarkt.de CNAME .
 stats.kaerntnerjobs.at CNAME .
 stats.mopo.de CNAME .
+stats.oberoejobs.at CNAME .
 stats.pilz.com CNAME .
 stats.rumundco.de CNAME .
 stats.salzburgerjobs.at CNAME .

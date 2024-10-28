@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -95,6 +95,7 @@ barracuda.civicdatalibrary.org CNAME .
 barracuda.ottsysteme.rs CNAME .
 barracuda.saraos.tech CNAME .
 barracuda.verto.exchange CNAME .
+basilisk.community-arts.net CNAME .
 basilisk.laosima.com CNAME .
 bass.alfrednerstu.com CNAME .
 bass.goulet.dev CNAME .
@@ -278,6 +279,7 @@ donkey.annieswinecottagepowell.com CNAME .
 donkey.elegantmusicgroup.com CNAME .
 donkey.guggenbichler.co.at CNAME .
 donkey.hackoregon.org CNAME .
+donkey.masteringfinland.com CNAME .
 donkey.the3rd.place CNAME .
 dormouse.consentkit.com CNAME .
 dormouse.nektarium.de CNAME .
@@ -650,6 +652,7 @@ parakeet.buildcodelearn.com CNAME .
 parakeet.jorenvanhocht.be CNAME .
 parakeet.kenleyar.ai CNAME .
 parakeet.quotetweet.com CNAME .
+parrot.alookwithin.ca CNAME .
 parrot.lovably.com CNAME .
 parrotfish.thenping.me CNAME .
 parrotfish.wilderworld.com CNAME .
@@ -880,7 +883,6 @@ trout.travelmassive.com CNAME .
 trout.unicornplatform.com CNAME .
 tuna.ajaymantri.com CNAME .
 tuna.purplespider.com CNAME .
-turkey.docsy.cloud CNAME .
 turkey.tella.tv CNAME .
 turtle.geshem.space CNAME .
 turtle.hackstock.net CNAME .
@@ -946,10 +948,8 @@ yak.gregsullivan.com CNAME .
 alligator.remotecyberwork.com CNAME .
 antelope.hoap.dev CNAME .
 antelope.targetinternet.com CNAME .
-basilisk.community-arts.net CNAME .
 bee.farmaciavdg.com CNAME .
 crow.centresustains.com CNAME .
-donkey.masteringfinland.com CNAME .
 llama.whatcha.io CNAME .
 moose.octo.app CNAME .
 porcupine.reminyborg.com CNAME .
@@ -957,4 +957,3 @@ prawn.inchperfect.com CNAME .
 vulture.bettershore.com CNAME .
 walrus.scalue.com CNAME .
 www.stork.notlessbutbetter.com CNAME .
-caribou.clintgwinter.com CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -262,6 +262,7 @@ fidelity.activate.ensighten.com CNAME .
 gst.pulse.buyatoyota.com CNAME .
 gst.pulse.toyota.com CNAME .
 ims.tescoinsurance.com CNAME .
+ims2.tescotravelmoney.com CNAME .
 latimes.activate.ensighten.com CNAME .
 letsencrypt.data.ensighten.com CNAME .
 measure.ensighten.com CNAME .

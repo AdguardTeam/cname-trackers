@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,21 +30,31 @@ l.allocine.fr CNAME .
 l.alternatives-economiques.fr CNAME .
 l.aufeminin.com CNAME .
 l.aujourdhui.fr CNAME .
+l.autojournal.fr CNAME .
+l.autoplus.fr CNAME .
+l.beaute-test.com CNAME .
 l.beauxarts.com CNAME .
 l.bfmtv.com CNAME .
+l.bibamagazine.fr CNAME .
 l.caminteresse.fr CNAME .
 l.capital.fr CNAME .
 l.centre-presse.fr CNAME .
 l.centrepresseaveyron.fr CNAME .
 l.challenges.fr CNAME .
 l.charentelibre.fr CNAME .
+l.closermag.fr CNAME .
 l.cuisineactuelle.fr CNAME .
+l.diapasonmag.fr CNAME .
 l.doctissimo.fr CNAME .
+l.dzfoot.com CNAME .
 l.enfant.com CNAME .
+l.entrenous.fr CNAME .
 l.euronews.com CNAME .
 l.familiscope.fr CNAME .
 l.femmeactuelle.fr CNAME .
 l.fip.fr CNAME .
+l.football.fr CNAME .
+l.football365.fr CNAME .
 l.franceantilles.fr CNAME .
 l.francebleu.fr CNAME .
 l.franceculture.fr CNAME .
@@ -69,16 +79,20 @@ l.laprovence.com CNAME .
 l.lardennais.fr CNAME .
 l.larepubliquedespyrenees.fr CNAME .
 l.lavoixdunord.fr CNAME .
+l.le10sport.com CNAME .
+l.lechasseurfrancais.com CNAME .
 l.lefigaro.fr CNAME .
 l.lejournaldelamaison.fr CNAME .
 l.leparisien.fr CNAME .
 l.lepoint.fr CNAME .
 l.lequotidiendelart.com CNAME .
+l.lesnumeriques.com CNAME .
 l.letemps.ch CNAME .
 l.lexpress.fr CNAME .
 l.lindependant.fr CNAME .
 l.lunion.fr CNAME .
 l.madmoizelle.com CNAME .
+l.maison-travaux.fr CNAME .
 l.mariefrance.fr CNAME .
 l.marsactu.fr CNAME .
 l.maxisciences.com CNAME .
@@ -87,6 +101,8 @@ l.melty.fr CNAME .
 l.midilibre.fr CNAME .
 l.monacomatin.mc CNAME .
 l.mprovence.com CNAME .
+l.netmums.com CNAME .
+l.nextplz.fr CNAME .
 l.nicematin.com CNAME .
 l.notretemps.com CNAME .
 l.numerama.com CNAME .
@@ -94,6 +110,9 @@ l.ohmymag.co.uk CNAME .
 l.ohmymag.com CNAME .
 l.ohmymag.de CNAME .
 l.ouest-france.fr CNAME .
+l.ozap.com CNAME .
+l.paroledemamans.com CNAME .
+l.pleinevie.fr CNAME .
 l.programme-tv.net CNAME .
 l.programme.tv CNAME .
 l.psychologies.com CNAME .
@@ -104,18 +123,24 @@ l.reporterre.net CNAME .
 l.rmc.fr CNAME .
 l.rmcsport.fr CNAME .
 l.roole.fr CNAME .
+l.science-et-vie.com CNAME .
 l.sciencesetavenir.fr CNAME .
+l.sportauto.fr CNAME .
 l.sports.fr CNAME .
 l.sudinfo.be CNAME .
 l.sudouest.fr CNAME .
+l.telestar.fr CNAME .
+l.terrafemina.com CNAME .
 l.tf1.fr CNAME .
 l.tf1info.fr CNAME .
 l.theafricareport.com CNAME .
 l.topmusic.fr CNAME .
+l.topsante.com CNAME .
 l.touteleurope.eu CNAME .
 l.traxmag.com CNAME .
 l.varmatin.com CNAME .
 l.voici.fr CNAME .
+l.zdnet.fr CNAME .
 nr.lanouvellerepublique.fr CNAME .
 on.qobuz.com CNAME .
 social.lafranceagricole.fr CNAME .

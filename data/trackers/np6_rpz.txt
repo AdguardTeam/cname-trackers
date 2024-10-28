@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -363,6 +363,7 @@ tr.email.toute-la-franchise.com CNAME .
 tr.email.videofutur.fr CNAME .
 tr.email.virtual-expo.com CNAME .
 tr.email.voyagesleclerc.com CNAME .
+tr.email.wtwco.com CNAME .
 tr.emailatia.fr CNAME .
 tr.emailing-wishesfactory.com CNAME .
 tr.emailing.agencereference.com CNAME .
@@ -619,7 +620,6 @@ tr.mailing.heliades.fr CNAME .
 tr.mailing.laredoute.fr CNAME .
 tr.mailing.lvmhappening.com CNAME .
 tr.mailing.promodeclic.fr CNAME .
-tr.mailingnp6.lavoirmoderne.com CNAME .
 tr.mailmp.macif.net CNAME .
 tr.mailperf.institut-de-la-protection-sociale.fr CNAME .
 tr.mailperf.ngt-services.com CNAME .
@@ -738,7 +738,6 @@ tr.news.corsicalinea.com CNAME .
 tr.news.cotemaison.fr CNAME .
 tr.news.cporadio.tv CNAME .
 tr.news.crystal-partenaires.com CNAME .
-tr.news.delifrance.com CNAME .
 tr.news.deneuville-chocolat.fr CNAME .
 tr.news.deshotelsetdesiles.com CNAME .
 tr.news.devisdirect.be CNAME .
@@ -754,6 +753,7 @@ tr.news.easyvoyage.com CNAME .
 tr.news.easyvoyage.de CNAME .
 tr.news.economic-studies.fr CNAME .
 tr.news.editions-lva.fr CNAME .
+tr.news.ekosport-rent.fr CNAME .
 tr.news.enkiapp.io CNAME .
 tr.news.entreprise-pm.com CNAME .
 tr.news.eureden.com CNAME .
@@ -782,7 +782,6 @@ tr.news.ifh.fr CNAME .
 tr.news.infopro-digital.com CNAME .
 tr.news.interforum.fr CNAME .
 tr.news.itancia.com CNAME .
-tr.news.jautomatise.com CNAME .
 tr.news.kaptainmusic.fr CNAME .
 tr.news.kpmg-avocats.fr CNAME .
 tr.news.kpmg.fr CNAME .
@@ -1003,6 +1002,7 @@ tr.raym.espmp-agfr.net CNAME .
 tr.reactivation.vertbaudet.fr CNAME .
 tr.read.glose.com CNAME .
 tr.recouvrement.finrec.com CNAME .
+tr.recouvrement.saint-louis-recouvrement.com CNAME .
 tr.recouvrement.seeric.com CNAME .
 tr.recouvrement.younited-credit.com CNAME .
 tr.redaction.essentiel-sante-magazine.fr CNAME .

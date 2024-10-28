@@ -112,6 +112,7 @@
 | 3171864.notifysrv.com | tk6if76q.ab1n.net |
 | 3172914.notifysrv.com | tk6if76q.ab1n.net |
 | 3173432.notifysrv.com | tk6if76q.ab1n.net |
+| 3174336.notifysrv.com | tk6if76q.ab1n.net |
 | 3174430.notifysrv.com | tk6if76q.ab1n.net |
 | 3174744.notifysrv.com | tk6if76q.ab1n.net |
 | 3176222.notifysrv.com | tk6if76q.ab1n.net |
@@ -946,6 +947,7 @@
 | 4037384.notify6.com | tk6if76q.ab1n.net |
 | 4037426.notify6.com | tk6if76q.ab1n.net |
 | 4037428.notify6.com | tk6if76q.ab1n.net |
+| 4045406.notify6.com | tk6if76q.ab1n.net |
 | 4046268.notify6.com | tk6if76q.ab1n.net |
 | 4046272.notify6.com | tk6if76q.ab1n.net |
 | 4048172.notify6.com | tk6if76q.ab1n.net |
@@ -985,7 +987,9 @@
 | 4142702.notify6.com | tk6if76q.ab1n.net |
 | 4143324.notify6.com | tk6if76q.ab1n.net |
 | 4144426.notify6.com | tk6if76q.ab1n.net |
+| 4146994.notify6.com | tk6if76q.ab1n.net |
 | 4149128.notify6.com | tk6if76q.ab1n.net |
+| 4149204.notify6.com | tk6if76q.ab1n.net |
 | 4149216.notify6.com | tk6if76q.ab1n.net |
 | 4151384.notify6.com | tk6if76q.ab1n.net |
 | 4152268.notify6.com | tk6if76q.ab1n.net |
@@ -1259,6 +1263,7 @@
 | s.elnc34.com | tk6if76q.ab1n.net |
 | s.elnc35.com | tk6if76q.ab1n.net |
 | s.elnc36.com | tk6if76q.ab1n.net |
+| s.elnd25.com | tk6if76q.ab1n.net |
 | s.elnk40.com | tk6if76q.ab1n.net |
 | s.elnk4b.com | tk6if76q.ab1n.net |
 | s.elnk4d.com | tk6if76q.ab1n.net |
@@ -1455,6 +1460,7 @@
 | www.4065944.notify6.com | tk6if76q.ab1n.net |
 | www.4069896.notify6.com | tk6if76q.ab1n.net |
 | www.4130286.notify6.com | tk6if76q.ab1n.net |
+| www.4146994.notify6.com | tk6if76q.ab1n.net |
 | www.4152316.notify6.com | tk6if76q.ab1n.net |
 | www.4160048.notify6.com | tk6if76q.ab1n.net |
 | www.4195388.notify6.com | tk6if76q.ab1n.net |
@@ -1509,17 +1515,17 @@
 | *.exaapi.com | x0xmrxm4.ab1n.net |
 | admin.adnation.com | x0xmrxm4.ab1n.net |
 | admin.datingclix.com | x0xmrxm4.ab1n.net |
-| admin.etology.com | x0xmrxm4.ab1n.net |
+| admin.datingclix.com | x0xmrxm4.ab1n.net |
 | admin.etology.com | x0xmrxm4.ab1n.net |
 | admin.exoclick.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.gettopple.com | x0xmrxm4.ab1n.net |
 | admin.landingtrk.com | x0xmrxm4.ab1n.net |
+| admin.landingtrk.com | x0xmrxm4.ab1n.net |
 | admin.redpathmedia.com | x0xmrxm4.ab1n.net |
 | admin.rocoads.net | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
 | admin.shafttraffic.com | x0xmrxm4.ab1n.net |
-| admin.trafficbaron.com | x0xmrxm4.ab1n.net |
 | admin.trafficbaron.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
 | admin.trafficfactory.com | x0xmrxm4.ab1n.net |
@@ -1529,6 +1535,7 @@
 | api.adnation.com | x0xmrxm4.ab1n.net |
 | api.datingclix.com | x0xmrxm4.ab1n.net |
 | api.getblaze.app | x0xmrxm4.ab1n.net |
+| api.shafttraffic.com | x0xmrxm4.ab1n.net |
 | api.slice.exchange | x0xmrxm4.ab1n.net |
 | api.tf4srv.com | x0xmrxm4.ab1n.net |
 | api.vrumeads.com | x0xmrxm4.ab1n.net |

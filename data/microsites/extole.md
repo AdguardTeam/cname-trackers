@@ -180,7 +180,6 @@
     * boden-uk.extole.io
     * booksy.extole.io
     * bose.extole.io
-    * bountyhunterwine.extole.io
     * brava.extole.io
     * brightspeed.extole.io
     * brunette-the-label.extole.io
@@ -302,7 +301,6 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
-    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -421,7 +419,6 @@
     * pellaofdfw.extole.io
     * perfectgift.extole.io
     * perriconemd.extole.io
-    * petco-em.extole.io
     * petco-grooming.extole.io
     * petco-vet.extole.io
     * petpartners.extole.io
@@ -690,7 +687,6 @@
 | share.bose.co.nz | bose.extole.io |
 | share.bose.com.au | bose.extole.io |
 | refer.bostonglobe.com | bostonglobe-ssl.extole.com |
-| share.bountyhunterwine.com | bountyhunterwine.extole.io |
 | share.brava.com | brava.extole.io |
 | refer.brightspeed.com | brightspeed.extole.io |
 | referralrewards.brightspeed.com | brightspeed.extole.io |
@@ -761,6 +757,7 @@
 | refer.custudentloans.org | custudentloans.extole.com |
 | refer-photo.cvs.com | cvs.extole.io |
 | share.cwbank.com | cwbank.extole.io |
+| share.motivefinancial.com | cwbank.extole.io |
 | ilove.volusion.com | d.extole.com |
 | refer-a-friend.trivantis.com | d.extole.com |
 | refer.solarwinds.com | d.extole.com |
@@ -905,7 +902,6 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
-| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1082,7 +1078,6 @@
 | share.perfectgift.com | perfectgift.extole.io |
 | refer.perriconemd.com | perriconemd.extole.io |
 | refer.personalcreations.com | personalcreations-ssl.extole.com |
-| em8928.em.petco.com | petco-em.extole.io |
 | groomrefer.petco.com | petco-grooming.extole.io |
 | pals.petco.com | petco-grooming.extole.io |
 | referavet.petco.com | petco-vet.extole.io |

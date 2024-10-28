@@ -1263,7 +1263,6 @@
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
 | a8cv.wellcrew.net | trck.a8.net |
-| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.willfu.jp | trck.a8.net |
@@ -1593,4 +1592,5 @@
 | webtest.lpio.jp | trck.a8.net |
 | www.a8clk.amelia.ne.jp | trck.a8.net |
 | www.a8clk.kanagawa-zero.com | trck.a8.net |
+| www.ad.ehello.jp | trck.a8.net |
 | yoiku-sub.yoiku.support | trck.a8.net |

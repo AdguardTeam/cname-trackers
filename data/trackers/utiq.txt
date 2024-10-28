@@ -99,6 +99,7 @@
 ||utiq.focus.de^
 ||utiq.fr.de^
 ||utiq.frandroid.com^
+||utiq.fuehrerscheintest-online.de^
 ||utiq.funandnews.de^
 ||utiq.futurezone.de^
 ||utiq.gamekult.com^
@@ -128,6 +129,7 @@
 ||utiq.inspirational.es^
 ||utiq.jeuxvideo.com^
 ||utiq.jux.news^
+||utiq.kino.de^
 ||utiq.kreisbote.de^
 ||utiq.kreiszeitung.de^
 ||utiq.kundendienst-info.de^
@@ -152,6 +154,7 @@
 ||utiq.lesnumeriques.com^
 ||utiq.lest-eclair.fr^
 ||utiq.levante-emv.com^
+||utiq.lexpress.fr^
 ||utiq.liberation-champagne.fr^
 ||utiq.lne.es^
 ||utiq.lunion.fr^
@@ -163,6 +166,7 @@
 ||utiq.marca.com^
 ||utiq.mariefrance.fr^
 ||utiq.marmiton.org^
+||utiq.meine-anzeigenzeitung.de^
 ||utiq.merkur.de^
 ||utiq.millenium.gg^
 ||utiq.millenium.org^
@@ -208,6 +212,7 @@
 ||utiq.serienjunkies.de^
 ||utiq.soester-anzeiger.de^
 ||utiq.speisekarte.de^
+||utiq.spielaffe.de^
 ||utiq.sport.es^
 ||utiq.sportlerfrage.net^
 ||utiq.sports.fr^

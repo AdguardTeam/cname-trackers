@@ -199,7 +199,6 @@
     * 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp
     * 9fc5109a-rgq6b9zp.cname.ebis.ne.jp
     * a0550855-fbzwhcnp.cname.ebis.ne.jp
-    * a0dd7a11-rrtv6uew.cname.ebis.ne.jp
     * a16fee0d-vwmnftsa.cname.ebis.ne.jp
     * a1f251c6-iksdytmu.cname.ebis.ne.jp
     * a210b17a-hwsehbyq.cname.ebis.ne.jp
@@ -521,7 +520,6 @@
 | cname-adebis.nice2meet.us | 9f1e7ac9-zmhmrwhh.cname.ebis.ne.jp |
 | y8hxgv9m.kobetsu.co.jp | 9fc5109a-rgq6b9zp.cname.ebis.ne.jp |
 | cname-ade.shachihata.biz | a0550855-fbzwhcnp.cname.ebis.ne.jp |
-| ebis.pasonatech.co.jp | a0dd7a11-rrtv6uew.cname.ebis.ne.jp |
 | ebis.goldcrest.co.jp | a16fee0d-vwmnftsa.cname.ebis.ne.jp |
 | test-ad.lucia-c.com | a1f251c6-iksdytmu.cname.ebis.ne.jp |
 | ad.kddi-fs.com | a210b17a-hwsehbyq.cname.ebis.ne.jp |

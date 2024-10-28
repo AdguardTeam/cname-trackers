@@ -125,8 +125,6 @@
 ||businessreferrals.lumen.com^
 ||demo.extole.com^
 ||earn-and-refer.extoleu.com^
-||em8561.go2bank.com^
-||em8928.em.petco.com^
 ||em924.refer.starbucks.com^
 ||externalreferral.freshworks.com^
 ||friend.discover.com^
@@ -470,7 +468,6 @@
 ||share.bose.ca^
 ||share.bose.co.nz^
 ||share.bose.com.au^
-||share.bountyhunterwine.com^
 ||share.brava.com^
 ||share.brunettethelabel.com^
 ||share.buildertrend.com^
@@ -579,6 +576,7 @@
 ||share.medely.com^
 ||share.midlandusa.com^
 ||share.montgomeryadvertiser.com^
+||share.motivefinancial.com^
 ||share.mtntough.com^
 ||share.mycarpe.com^
 ||share.myollie.com^
@@ -724,6 +722,8 @@
 ||em225.codecademy.com^
 ||em3904.skillshare.com^
 ||em4367.raf-studentloans.discover.com^
+||em8561.go2bank.com^
+||em8928.em.petco.com^
 ||em9523.walmartmoneycard.com^
 ||xtl._domainkey.forgetrust.com^
 ||xtl._domainkey.skillshare.com^

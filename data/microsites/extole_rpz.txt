@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -136,8 +136,6 @@ acq.discover.com CNAME .
 businessreferrals.lumen.com CNAME .
 demo.extole.com CNAME .
 earn-and-refer.extoleu.com CNAME .
-em8561.go2bank.com CNAME .
-em8928.em.petco.com CNAME .
 em924.refer.starbucks.com CNAME .
 externalreferral.freshworks.com CNAME .
 friend.discover.com CNAME .
@@ -481,7 +479,6 @@ share.bodendirect.de CNAME .
 share.bose.ca CNAME .
 share.bose.co.nz CNAME .
 share.bose.com.au CNAME .
-share.bountyhunterwine.com CNAME .
 share.brava.com CNAME .
 share.brunettethelabel.com CNAME .
 share.buildertrend.com CNAME .
@@ -590,6 +587,7 @@ share.mansfieldnewsjournal.com CNAME .
 share.medely.com CNAME .
 share.midlandusa.com CNAME .
 share.montgomeryadvertiser.com CNAME .
+share.motivefinancial.com CNAME .
 share.mtntough.com CNAME .
 share.mycarpe.com CNAME .
 share.myollie.com CNAME .
@@ -735,6 +733,8 @@ em1476.princesscruises.com CNAME .
 em225.codecademy.com CNAME .
 em3904.skillshare.com CNAME .
 em4367.raf-studentloans.discover.com CNAME .
+em8561.go2bank.com CNAME .
+em8928.em.petco.com CNAME .
 em9523.walmartmoneycard.com CNAME .
 xtl._domainkey.forgetrust.com CNAME .
 xtl._domainkey.skillshare.com CNAME .

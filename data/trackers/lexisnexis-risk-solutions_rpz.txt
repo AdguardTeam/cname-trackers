@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -153,6 +153,7 @@ cdnfp.accurint.com CNAME .
 cdnfp.lexisnexisrisk.com CNAME .
 cdnfp.lexisnexisrisk.eu CNAME .
 cdnm.sts.pl CNAME .
+cdns.moneyplace.com.au CNAME .
 cdnt.duobank.com CNAME .
 cdnt.walmartrewards.ca CNAME .
 cdntm.expat.hsbc.com CNAME .
@@ -193,13 +194,8 @@ check2.halifax.co.uk CNAME .
 check2.lloydsbank.co.uk CNAME .
 check2.mbna.co.uk CNAME .
 check2.tsb.co.uk CNAME .
-check3-dev.test.tiaabank.com CNAME .
-check3-qa1.test.tiaabank.com CNAME .
-check3-qa2.test.tiaabank.com CNAME .
-check3-stg.test.tiaabank.com CNAME .
 check3.tiaa-cref.org CNAME .
 check3.tiaa.org CNAME .
-check3.tiaabank.com CNAME .
 checkout-df.lululemon.com CNAME .
 checkout.walz.de CNAME .
 cib.currency.lloydsbank.com CNAME .
@@ -215,6 +211,7 @@ compliance.resortscasino.com CNAME .
 condition.applause.com CNAME .
 contendvc.cnouyi.pizza CNAME .
 content-48.cnb.com CNAME .
+content-static.emiratesnbd.com CNAME .
 content-tix.topi.eu CNAME .
 content-uk.fundingcircle.com CNAME .
 content.addisonlee.com CNAME .
@@ -971,6 +968,7 @@ tcontent.auchantelecom.fr CNAME .
 tcontent.cdiscountmobile.cdiscount.com CNAME .
 tcontent.nrjmobile.fr CNAME .
 telem.highlow.com CNAME .
+testappcontent.fcmbtest.com CNAME .
 tfp.intuit.com CNAME .
 th.barclays.co.uk CNAME .
 thm.v.me CNAME .
@@ -1092,6 +1090,7 @@ tmx.monzo.co.uk CNAME .
 tmx.pampersrewards.com CNAME .
 tmx.pat.td.com CNAME .
 tmx.prod.efsllc.com CNAME .
+tmx.revolut.codes CNAME .
 tmx.rnd.gemaltodigitalbankingidcloud.com CNAME .
 tmx.tchek.com CNAME .
 tmx.td.com CNAME .

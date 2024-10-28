@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -70,6 +70,7 @@ $TTL 300
 3171864.notifysrv.com CNAME .
 3172914.notifysrv.com CNAME .
 3173432.notifysrv.com CNAME .
+3174336.notifysrv.com CNAME .
 3174430.notifysrv.com CNAME .
 3174744.notifysrv.com CNAME .
 3176222.notifysrv.com CNAME .
@@ -904,6 +905,7 @@ $TTL 300
 4037384.notify6.com CNAME .
 4037426.notify6.com CNAME .
 4037428.notify6.com CNAME .
+4045406.notify6.com CNAME .
 4046268.notify6.com CNAME .
 4046272.notify6.com CNAME .
 4048172.notify6.com CNAME .
@@ -943,7 +945,9 @@ $TTL 300
 4142702.notify6.com CNAME .
 4143324.notify6.com CNAME .
 4144426.notify6.com CNAME .
+4146994.notify6.com CNAME .
 4149128.notify6.com CNAME .
+4149204.notify6.com CNAME .
 4149216.notify6.com CNAME .
 4151384.notify6.com CNAME .
 4152268.notify6.com CNAME .
@@ -1187,6 +1191,7 @@ aphrodite.notifysrv.com CNAME .
 api.adnation.com CNAME .
 api.datingclix.com CNAME .
 api.getblaze.app CNAME .
+api.shafttraffic.com CNAME .
 api.slice.exchange CNAME .
 api.tf4srv.com CNAME .
 api.trafficfactory.com CNAME .
@@ -1276,6 +1281,7 @@ s.elnb22.com CNAME .
 s.elnc34.com CNAME .
 s.elnc35.com CNAME .
 s.elnc36.com CNAME .
+s.elnd25.com CNAME .
 s.elnk40.com CNAME .
 s.elnk4b.com CNAME .
 s.elnk4d.com CNAME .
@@ -1474,6 +1480,7 @@ www.4065194.notify6.com CNAME .
 www.4065944.notify6.com CNAME .
 www.4069896.notify6.com CNAME .
 www.4130286.notify6.com CNAME .
+www.4146994.notify6.com CNAME .
 www.4152316.notify6.com CNAME .
 www.4160048.notify6.com CNAME .
 www.4195388.notify6.com CNAME .

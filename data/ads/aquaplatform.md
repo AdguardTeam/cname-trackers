@@ -6,6 +6,7 @@
     * adaptigo-console.aquaplatform.com
     * adaptigo-delivery.aquaplatform.com
     * adaptigo-static.aquaplatform.com
+    * adbility-api.aquaplatform.com
     * adbility-console.aquaplatform.com
     * adbility-delivery.aquaplatform.com
     * ahk-delivery.aquaplatform.com
@@ -114,6 +115,7 @@
 | by.addrecipes.com | adaptigo-delivery.aquaplatform.com |
 | by.adxt.com | adaptigo-delivery.aquaplatform.com |
 | cdn.headlinesmart.com | adaptigo-static.aquaplatform.com |
+| www.api.adbility-media.com | adbility-api.aquaplatform.com |
 | console.adbility-media.com | adbility-console.aquaplatform.com |
 | servedby.adbility-media.com | adbility-delivery.aquaplatform.com |
 | revive.ahk.de | ahk-delivery.aquaplatform.com |
@@ -136,6 +138,7 @@
 | static.ceramicartsnetwork.org | ceramics-static.aquaplatform.com |
 | console.channelvas.com | channelvas-console.aquaplatform.com |
 | servedby.channelvas.com | channelvas-delivery.aquaplatform.com |
+| adconsole.kozoom.com | console.aquaplatform.com |
 | api.metrike.com | console.aquaplatform.com |
 | console.aqua-adserver.com | console.aquaplatform.com |
 | adv.consulcesi.it | consulcesi-delivery.aquaplatform.com |
@@ -181,6 +184,7 @@
 | servedby.insideradverts.com | im-delivery.aquaplatform.com |
 | static.insideradverts.com | im-static.aquaplatform.com |
 | display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
+| www.display.lawbulletin.com | lawbulletin-delivery.aquaplatform.com |
 | banners.leightonbroadcasting.com | lb-delivery.aquaplatform.com |
 | cdn.leightonbroadcasting.com | lb-static.aquaplatform.com |
 | console.livingmagonline.com | livingmag-console.aquaplatform.com |
@@ -218,6 +222,7 @@
 | images.informatm.com | platformiq-cdn.aquaplatform.com |
 | images.jacilla.no | platformiq-cdn.aquaplatform.com |
 | images.mannenmedia.nl | platformiq-cdn.aquaplatform.com |
+| images.proxena-adserver.com | platformiq-cdn.aquaplatform.com |
 | opximages.webtool.net | platformiq-cdn.aquaplatform.com |
 | proxena-images.reviveservers.com | platformiq-cdn.aquaplatform.com |
 | static.hollandhortimedia.nl | platformiq-cdn.aquaplatform.com |

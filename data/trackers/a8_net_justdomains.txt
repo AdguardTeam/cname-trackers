@@ -1250,7 +1250,6 @@ a8cv.waterserver.co.jp
 a8cv.web-planners.net
 a8cv.wedding.mynavi.jp
 a8cv.wellcrew.net
-a8cv.whynot.jp
 a8cv.will-agaclinic.com
 a8cv.will-gocon.net
 a8cv.willfu.jp
@@ -1582,4 +1581,5 @@ webcv.advan-corp.co.jp
 webtest.lpio.jp
 www.a8clk.amelia.ne.jp
 www.a8clk.kanagawa-zero.com
+www.ad.ehello.jp
 yoiku-sub.yoiku.support

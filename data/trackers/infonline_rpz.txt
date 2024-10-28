@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -437,6 +437,7 @@ data-34565915dd.firmenwissen.com CNAME .
 data-34565915dd.firmenwissen.de CNAME .
 data-34c9d32b77.apps.iocnt.de CNAME .
 data-353c1c8501.falstaff.com CNAME .
+data-35b9638d7b.bibdia-mobil.de CNAME .
 data-366a248b14.film.at CNAME .
 data-367bcf5bd6.german-retail-blog.com CNAME .
 data-367bcf5bd6.lebensmittelzeitung.de CNAME .
@@ -818,6 +819,7 @@ data-5a078ffbef.wb-immo.net CNAME .
 data-5a078ffbef.wb-jobs.de CNAME .
 data-5a078ffbef.wb-trauer.de CNAME .
 data-5a078ffbef.westfalen-blatt.de CNAME .
+data-5a2bbd7d77.apps.iocnt.de CNAME .
 data-5a40478bd4.kino.de CNAME .
 data-5a9f6e282a.ingenieur.de CNAME .
 data-5a9f6e282a.ingenieurstage.de CNAME .
@@ -858,6 +860,7 @@ data-5e5ac4ec65.menshealth.de CNAME .
 data-5e8d192b40.fussballn.de CNAME .
 data-5ec2d41a8f.radiowestfalica.de CNAME .
 data-5f1c477bee.apps.iocnt.de CNAME .
+data-5f31cc5b45.apps.iocnt.de CNAME .
 data-5f67d653dd.si-shk.de CNAME .
 data-5f7ebd9560.apps.iocnt.de CNAME .
 data-5fdd0f6a02.salzburg24.at CNAME .
@@ -1344,6 +1347,8 @@ data-94d154970c.boersenblatt.net CNAME .
 data-94db24a6dd.motorrad-magazin.at CNAME .
 data-94ef178492.comunio.de CNAME .
 data-951da6b717.detail.de CNAME .
+data-9599593609.biotech-europe.de CNAME .
+data-9599593609.laborjournal.com CNAME .
 data-9599593609.laborjournal.de CNAME .
 data-95c8053841.pirsch.de CNAME .
 data-95fff71409.boersennews.de CNAME .

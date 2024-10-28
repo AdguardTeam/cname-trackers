@@ -65,6 +65,7 @@
     * trainsley69.goatcounter.com
     * trool.goatcounter.com
     * twoistoomany.goatcounter.com
+    * ubr.goatcounter.com
     * valentineus.goatcounter.com
     * vpro.goatcounter.com
     * whatacools.goatcounter.com
@@ -135,6 +136,7 @@
 | stats.trainsley69.me | trainsley69.goatcounter.com |
 | moo.geopogs.party | trool.goatcounter.com |
 | goat.twoistoomany.com | twoistoomany.goatcounter.com |
+| argus.umarbutler.com | ubr.goatcounter.com |
 | analytics.popov.link | valentineus.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |

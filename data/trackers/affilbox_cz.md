@@ -216,7 +216,6 @@
 | affiliate.licit.cz | cz.affilbox.cz |
 | affiliate.loveo.cz | cz.affilbox.cz |
 | affiliate.luxor.cz | cz.affilbox.cz |
-| affiliate.manvel.cz | cz.affilbox.cz |
 | affiliate.marketingminer.com | cz.affilbox.cz |
 | affiliate.martinchudy.sk | cz.affilbox.cz |
 | affiliate.martinreznicek.cz | cz.affilbox.cz |
@@ -246,7 +245,6 @@
 | affiliate.polti.cz | cz.affilbox.cz |
 | affiliate.portu.cz | cz.affilbox.cz |
 | affiliate.postel.cz | cz.affilbox.cz |
-| affiliate.pouziteiphony.cz | cz.affilbox.cz |
 | affiliate.pravopropodnikatele.cz | cz.affilbox.cz |
 | affiliate.prikryvky-obchod.cz | cz.affilbox.cz |
 | affiliate.prodietix.cz | cz.affilbox.cz |
@@ -338,6 +336,7 @@
 | kaocko.swaglift.com | cz.affilbox.cz |
 | lhota.stanicezoo.cz | cz.affilbox.cz |
 | money.mioweb.cz | cz.affilbox.cz |
+| my.11team-sports.hu | cz.affilbox.cz |
 | my.11teamsports.bg | cz.affilbox.cz |
 | my.11teamsports.com | cz.affilbox.cz |
 | my.11teamsports.cz | cz.affilbox.cz |
@@ -604,7 +603,6 @@
 | partner.kafista.cz | cz.affilbox.cz |
 | partner.kalhotkomat.cz | cz.affilbox.cz |
 | partner.ketomix.cz | cz.affilbox.cz |
-| partner.ketomix.hu | cz.affilbox.cz |
 | partner.ketomix.sk | cz.affilbox.cz |
 | partner.kidtown.cz | cz.affilbox.cz |
 | partner.kokiskashop.cz | cz.affilbox.cz |
@@ -653,7 +651,6 @@
 | partner.mojetonery.sk | cz.affilbox.cz |
 | partner.momcare.cz | cz.affilbox.cz |
 | partner.momcare.sk | cz.affilbox.cz |
-| partner.monosoke.sk | cz.affilbox.cz |
 | partner.montessorihracky.cz | cz.affilbox.cz |
 | partner.mooda.cz | cz.affilbox.cz |
 | partner.mooselife.cz | cz.affilbox.cz |
@@ -757,7 +754,6 @@
 | partner.unuo.de | cz.affilbox.cz |
 | partner.vataonline.cz | cz.affilbox.cz |
 | partner.vffoto.com | cz.affilbox.cz |
-| partner.victus.cz | cz.affilbox.cz |
 | partner.virulent.cz | cz.affilbox.cz |
 | partner.vladimirekart.cz | cz.affilbox.cz |
 | partner.volne-reality.cz | cz.affilbox.cz |
@@ -958,6 +954,7 @@
 | spolu.kuskakaa.cz | cz.affilbox.cz |
 | spoluhraci.decathlon.cz | cz.affilbox.cz |
 | spolupraca.aretacia-rozvodov.sk | cz.affilbox.cz |
+| spolupraca.vivobarefoot.sk | cz.affilbox.cz |
 | spoluprace.aretacni-pripravky.cz | cz.affilbox.cz |
 | spoluprace.bafoo.cz | cz.affilbox.cz |
 | spoluprace.blackkale.cz | cz.affilbox.cz |

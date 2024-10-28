@@ -8,13 +8,11 @@
 ### Rarely active trackers
 
 * deprecated-custom-domains.b-cdn.net
-* 77980.bodis.com
 
 ## Cloaking domains
 
 | Disguise | Tracker |
 | ---- | ---- |
-| caribou.clintgwinter.com | 77980.bodis.com |
 | 4ke5b4ila.codedge.de | deprecated-custom-domains.b-cdn.net |
 | 7wrxo2xh.iriscreative.co | deprecated-custom-domains.b-cdn.net |
 | 8inhjmd.usefathom.com | deprecated-custom-domains.b-cdn.net |
@@ -895,7 +893,6 @@
 | trout.unicornplatform.com | deprecated-custom-domains.b-cdn.net |
 | tuna.ajaymantri.com | deprecated-custom-domains.b-cdn.net |
 | tuna.purplespider.com | deprecated-custom-domains.b-cdn.net |
-| turkey.docsy.cloud | deprecated-custom-domains.b-cdn.net |
 | turkey.tella.tv | deprecated-custom-domains.b-cdn.net |
 | turtle.geshem.space | deprecated-custom-domains.b-cdn.net |
 | turtle.hackstock.net | deprecated-custom-domains.b-cdn.net |
@@ -948,7 +945,6 @@
 | wildebeest.soft-spoken.dev | deprecated-custom-domains.b-cdn.net |
 | wildebeest.trigo.dev | deprecated-custom-domains.b-cdn.net |
 | wildfowl.getmoneyoff.com | deprecated-custom-domains.b-cdn.net |
-| wolf.idthompson.com | deprecated-custom-domains.b-cdn.net |
 | wolf.samarasousa.com | deprecated-custom-domains.b-cdn.net |
 | wolverine.barac.at | deprecated-custom-domains.b-cdn.net |
 | wolverine.jhdierenklinieken.nl | deprecated-custom-domains.b-cdn.net |
@@ -1045,6 +1041,7 @@
 | barracuda.ottsysteme.rs | starman.fathomdns.com |
 | barracuda.saraos.tech | starman.fathomdns.com |
 | barracuda.verto.exchange | starman.fathomdns.com |
+| basilisk.community-arts.net | starman.fathomdns.com |
 | basilisk.laosima.com | starman.fathomdns.com |
 | bass.alfrednerstu.com | starman.fathomdns.com |
 | bass.goulet.dev | starman.fathomdns.com |
@@ -1228,6 +1225,7 @@
 | donkey.elegantmusicgroup.com | starman.fathomdns.com |
 | donkey.guggenbichler.co.at | starman.fathomdns.com |
 | donkey.hackoregon.org | starman.fathomdns.com |
+| donkey.masteringfinland.com | starman.fathomdns.com |
 | donkey.the3rd.place | starman.fathomdns.com |
 | dormouse.consentkit.com | starman.fathomdns.com |
 | dormouse.nektarium.de | starman.fathomdns.com |
@@ -1600,6 +1598,7 @@
 | parakeet.jorenvanhocht.be | starman.fathomdns.com |
 | parakeet.kenleyar.ai | starman.fathomdns.com |
 | parakeet.quotetweet.com | starman.fathomdns.com |
+| parrot.alookwithin.ca | starman.fathomdns.com |
 | parrot.lovably.com | starman.fathomdns.com |
 | parrotfish.thenping.me | starman.fathomdns.com |
 | parrotfish.wilderworld.com | starman.fathomdns.com |
@@ -1830,7 +1829,6 @@
 | trout.unicornplatform.com | starman.fathomdns.com |
 | tuna.ajaymantri.com | starman.fathomdns.com |
 | tuna.purplespider.com | starman.fathomdns.com |
-| turkey.docsy.cloud | starman.fathomdns.com |
 | turkey.tella.tv | starman.fathomdns.com |
 | turtle.geshem.space | starman.fathomdns.com |
 | turtle.hackstock.net | starman.fathomdns.com |

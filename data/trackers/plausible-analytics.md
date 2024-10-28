@@ -239,7 +239,6 @@
 | plausible.nickmazuk.com | custom.plausible.io |
 | plausible.nmyvsn.net | custom.plausible.io |
 | plausible.nuqu.org | custom.plausible.io |
-| plausible.promlens.com | custom.plausible.io |
 | plausible.prufit.co | custom.plausible.io |
 | plausible.pumpkint.com | custom.plausible.io |
 | plausible.quantumcomputingexplained.com | custom.plausible.io |
@@ -262,7 +261,6 @@
 | plausible.treelightsoftware.com | custom.plausible.io |
 | plausible.urbanekuensteruhr.de | custom.plausible.io |
 | plausible.veszelovszki.com | custom.plausible.io |
-| plausible.visitu.com | custom.plausible.io |
 | plausible.west.io | custom.plausible.io |
 | plausible.x.baychi.org | custom.plausible.io |
 | plausible.yalepaprika.com | custom.plausible.io |
@@ -424,7 +422,6 @@
 | stats.convaise.com | custom.plausible.io |
 | stats.corona-navi.de | custom.plausible.io |
 | stats.covid.vitordino.com | custom.plausible.io |
-| stats.craftybase.com | custom.plausible.io |
 | stats.creativinn.com | custom.plausible.io |
 | stats.crema.fi | custom.plausible.io |
 | stats.cremashop.eu | custom.plausible.io |

@@ -59,6 +59,7 @@
 ||3171864.notifysrv.com^
 ||3172914.notifysrv.com^
 ||3173432.notifysrv.com^
+||3174336.notifysrv.com^
 ||3174430.notifysrv.com^
 ||3174744.notifysrv.com^
 ||3176222.notifysrv.com^
@@ -893,6 +894,7 @@
 ||4037384.notify6.com^
 ||4037426.notify6.com^
 ||4037428.notify6.com^
+||4045406.notify6.com^
 ||4046268.notify6.com^
 ||4046272.notify6.com^
 ||4048172.notify6.com^
@@ -932,7 +934,9 @@
 ||4142702.notify6.com^
 ||4143324.notify6.com^
 ||4144426.notify6.com^
+||4146994.notify6.com^
 ||4149128.notify6.com^
+||4149204.notify6.com^
 ||4149216.notify6.com^
 ||4151384.notify6.com^
 ||4152268.notify6.com^
@@ -1176,6 +1180,7 @@
 ||api.adnation.com^
 ||api.datingclix.com^
 ||api.getblaze.app^
+||api.shafttraffic.com^
 ||api.slice.exchange^
 ||api.tf4srv.com^
 ||api.trafficfactory.com^
@@ -1265,6 +1270,7 @@
 ||s.elnc34.com^
 ||s.elnc35.com^
 ||s.elnc36.com^
+||s.elnd25.com^
 ||s.elnk40.com^
 ||s.elnk4b.com^
 ||s.elnk4d.com^
@@ -1463,6 +1469,7 @@
 ||www.4065944.notify6.com^
 ||www.4069896.notify6.com^
 ||www.4130286.notify6.com^
+||www.4146994.notify6.com^
 ||www.4152316.notify6.com^
 ||www.4160048.notify6.com^
 ||www.4195388.notify6.com^

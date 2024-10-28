@@ -373,6 +373,7 @@
 | tr.email.videofutur.fr | tracking.bp01.net |
 | tr.email.virtual-expo.com | tracking.bp01.net |
 | tr.email.voyagesleclerc.com | tracking.bp01.net |
+| tr.email.wtwco.com | tracking.bp01.net |
 | tr.emailatia.fr | tracking.bp01.net |
 | tr.emailing-wishesfactory.com | tracking.bp01.net |
 | tr.emailing.agencereference.com | tracking.bp01.net |
@@ -629,7 +630,6 @@
 | tr.mailing.laredoute.fr | tracking.bp01.net |
 | tr.mailing.lvmhappening.com | tracking.bp01.net |
 | tr.mailing.promodeclic.fr | tracking.bp01.net |
-| tr.mailingnp6.lavoirmoderne.com | tracking.bp01.net |
 | tr.mailmp.macif.net | tracking.bp01.net |
 | tr.mailperf.institut-de-la-protection-sociale.fr | tracking.bp01.net |
 | tr.mailperf.ngt-services.com | tracking.bp01.net |
@@ -748,7 +748,6 @@
 | tr.news.cotemaison.fr | tracking.bp01.net |
 | tr.news.cporadio.tv | tracking.bp01.net |
 | tr.news.crystal-partenaires.com | tracking.bp01.net |
-| tr.news.delifrance.com | tracking.bp01.net |
 | tr.news.deneuville-chocolat.fr | tracking.bp01.net |
 | tr.news.deshotelsetdesiles.com | tracking.bp01.net |
 | tr.news.devisdirect.be | tracking.bp01.net |
@@ -764,6 +763,7 @@
 | tr.news.easyvoyage.de | tracking.bp01.net |
 | tr.news.economic-studies.fr | tracking.bp01.net |
 | tr.news.editions-lva.fr | tracking.bp01.net |
+| tr.news.ekosport-rent.fr | tracking.bp01.net |
 | tr.news.enkiapp.io | tracking.bp01.net |
 | tr.news.entreprise-pm.com | tracking.bp01.net |
 | tr.news.eureden.com | tracking.bp01.net |
@@ -792,7 +792,6 @@
 | tr.news.infopro-digital.com | tracking.bp01.net |
 | tr.news.interforum.fr | tracking.bp01.net |
 | tr.news.itancia.com | tracking.bp01.net |
-| tr.news.jautomatise.com | tracking.bp01.net |
 | tr.news.kaptainmusic.fr | tracking.bp01.net |
 | tr.news.kpmg-avocats.fr | tracking.bp01.net |
 | tr.news.kpmg.fr | tracking.bp01.net |
@@ -1013,6 +1012,7 @@
 | tr.reactivation.vertbaudet.fr | tracking.bp01.net |
 | tr.read.glose.com | tracking.bp01.net |
 | tr.recouvrement.finrec.com | tracking.bp01.net |
+| tr.recouvrement.saint-louis-recouvrement.com | tracking.bp01.net |
 | tr.recouvrement.seeric.com | tracking.bp01.net |
 | tr.recouvrement.younited-credit.com | tracking.bp01.net |
 | tr.redaction.essentiel-sante-magazine.fr | tracking.bp01.net |

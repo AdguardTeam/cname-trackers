@@ -197,7 +197,6 @@
 ||affiliate.licit.cz^
 ||affiliate.loveo.cz^
 ||affiliate.luxor.cz^
-||affiliate.manvel.cz^
 ||affiliate.marketingminer.com^
 ||affiliate.martinchudy.sk^
 ||affiliate.martinreznicek.cz^
@@ -227,7 +226,6 @@
 ||affiliate.polti.cz^
 ||affiliate.portu.cz^
 ||affiliate.postel.cz^
-||affiliate.pouziteiphony.cz^
 ||affiliate.pravopropodnikatele.cz^
 ||affiliate.prikryvky-obchod.cz^
 ||affiliate.prodietix.cz^
@@ -319,6 +317,7 @@
 ||kaocko.swaglift.com^
 ||lhota.stanicezoo.cz^
 ||money.mioweb.cz^
+||my.11team-sports.hu^
 ||my.11teamsports.bg^
 ||my.11teamsports.com^
 ||my.11teamsports.cz^
@@ -585,7 +584,6 @@
 ||partner.kafista.cz^
 ||partner.kalhotkomat.cz^
 ||partner.ketomix.cz^
-||partner.ketomix.hu^
 ||partner.ketomix.sk^
 ||partner.kidtown.cz^
 ||partner.kokiskashop.cz^
@@ -634,7 +632,6 @@
 ||partner.mojetonery.sk^
 ||partner.momcare.cz^
 ||partner.momcare.sk^
-||partner.monosoke.sk^
 ||partner.montessorihracky.cz^
 ||partner.mooda.cz^
 ||partner.mooselife.cz^
@@ -738,7 +735,6 @@
 ||partner.unuo.de^
 ||partner.vataonline.cz^
 ||partner.vffoto.com^
-||partner.victus.cz^
 ||partner.virulent.cz^
 ||partner.vladimirekart.cz^
 ||partner.volne-reality.cz^
@@ -939,6 +935,7 @@
 ||spolu.kuskakaa.cz^
 ||spoluhraci.decathlon.cz^
 ||spolupraca.aretacia-rozvodov.sk^
+||spolupraca.vivobarefoot.sk^
 ||spoluprace.aretacni-pripravky.cz^
 ||spoluprace.bafoo.cz^
 ||spoluprace.blackkale.cz^

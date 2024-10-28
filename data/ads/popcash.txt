@@ -230,6 +230,7 @@
 ||barracuda.ottsysteme.rs^
 ||barracuda.saraos.tech^
 ||barracuda.verto.exchange^
+||basilisk.community-arts.net^
 ||basilisk.laosima.com^
 ||bass.alfrednerstu.com^
 ||bass.goulet.dev^
@@ -414,6 +415,7 @@
 ||donkey.elegantmusicgroup.com^
 ||donkey.guggenbichler.co.at^
 ||donkey.hackoregon.org^
+||donkey.masteringfinland.com^
 ||donkey.the3rd.place^
 ||dormouse.consentkit.com^
 ||dormouse.nektarium.de^
@@ -788,6 +790,7 @@
 ||parakeet.jorenvanhocht.be^
 ||parakeet.kenleyar.ai^
 ||parakeet.quotetweet.com^
+||parrot.alookwithin.ca^
 ||parrot.lovably.com^
 ||parrotfish.thenping.me^
 ||parrotfish.wilderworld.com^
@@ -1020,7 +1023,6 @@
 ||trout.unicornplatform.com^
 ||tuna.ajaymantri.com^
 ||tuna.purplespider.com^
-||turkey.docsy.cloud^
 ||turkey.tella.tv^
 ||turtle.geshem.space^
 ||turtle.hackstock.net^
@@ -1137,7 +1139,6 @@
 ||adserve.bongocdn.com^
 ||assets.diagomics.com^
 ||bcdn.cpmstar.com^
-||caribou.clintgwinter.com^
 ||cdn-b.notsy.io^
 ||cdn.admatic.com.tr^
 ||cdn.adsninja.ca^
@@ -1151,7 +1152,6 @@
 ||consent.cookiefirst.com^
 ||contact-gloss-production.accelerator.net^
 ||dntcl.qualaroo.com^
-||eegybest.7all.net^
 ||live-tag.creatopy.net^
 ||log.ads-m.net^
 ||sp.cleaningkeepers.com^

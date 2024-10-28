@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -110,6 +110,7 @@ utiq.fnp.de CNAME .
 utiq.focus.de CNAME .
 utiq.fr.de CNAME .
 utiq.frandroid.com CNAME .
+utiq.fuehrerscheintest-online.de CNAME .
 utiq.funandnews.de CNAME .
 utiq.futurezone.de CNAME .
 utiq.gamekult.com CNAME .
@@ -139,6 +140,7 @@ utiq.ingolstadt-today.de CNAME .
 utiq.inspirational.es CNAME .
 utiq.jeuxvideo.com CNAME .
 utiq.jux.news CNAME .
+utiq.kino.de CNAME .
 utiq.kreisbote.de CNAME .
 utiq.kreiszeitung.de CNAME .
 utiq.kundendienst-info.de CNAME .
@@ -163,6 +165,7 @@ utiq.leonoticias.com CNAME .
 utiq.lesnumeriques.com CNAME .
 utiq.lest-eclair.fr CNAME .
 utiq.levante-emv.com CNAME .
+utiq.lexpress.fr CNAME .
 utiq.liberation-champagne.fr CNAME .
 utiq.lne.es CNAME .
 utiq.lunion.fr CNAME .
@@ -174,6 +177,7 @@ utiq.mappy.com CNAME .
 utiq.marca.com CNAME .
 utiq.mariefrance.fr CNAME .
 utiq.marmiton.org CNAME .
+utiq.meine-anzeigenzeitung.de CNAME .
 utiq.merkur.de CNAME .
 utiq.millenium.gg CNAME .
 utiq.millenium.org CNAME .
@@ -219,6 +223,7 @@ utiq.sensacine.com CNAME .
 utiq.serienjunkies.de CNAME .
 utiq.soester-anzeiger.de CNAME .
 utiq.speisekarte.de CNAME .
+utiq.spielaffe.de CNAME .
 utiq.sport.es CNAME .
 utiq.sportlerfrage.net CNAME .
 utiq.sports.fr CNAME .

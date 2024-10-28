@@ -226,7 +226,6 @@
 ||plausible.nickmazuk.com^
 ||plausible.nmyvsn.net^
 ||plausible.nuqu.org^
-||plausible.promlens.com^
 ||plausible.prufit.co^
 ||plausible.pumpkint.com^
 ||plausible.quantumcomputingexplained.com^
@@ -249,7 +248,6 @@
 ||plausible.treelightsoftware.com^
 ||plausible.urbanekuensteruhr.de^
 ||plausible.veszelovszki.com^
-||plausible.visitu.com^
 ||plausible.west.io^
 ||plausible.x.baychi.org^
 ||plausible.yalepaprika.com^
@@ -411,7 +409,6 @@
 ||stats.convaise.com^
 ||stats.corona-navi.de^
 ||stats.covid.vitordino.com^
-||stats.craftybase.com^
 ||stats.creativinn.com^
 ||stats.crema.fi^
 ||stats.cremashop.eu^

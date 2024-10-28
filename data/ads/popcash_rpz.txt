@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1729497607660        ; Serial
+           1730102407853        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -241,6 +241,7 @@ barracuda.civicdatalibrary.org CNAME .
 barracuda.ottsysteme.rs CNAME .
 barracuda.saraos.tech CNAME .
 barracuda.verto.exchange CNAME .
+basilisk.community-arts.net CNAME .
 basilisk.laosima.com CNAME .
 bass.alfrednerstu.com CNAME .
 bass.goulet.dev CNAME .
@@ -425,6 +426,7 @@ donkey.annieswinecottagepowell.com CNAME .
 donkey.elegantmusicgroup.com CNAME .
 donkey.guggenbichler.co.at CNAME .
 donkey.hackoregon.org CNAME .
+donkey.masteringfinland.com CNAME .
 donkey.the3rd.place CNAME .
 dormouse.consentkit.com CNAME .
 dormouse.nektarium.de CNAME .
@@ -799,6 +801,7 @@ parakeet.buildcodelearn.com CNAME .
 parakeet.jorenvanhocht.be CNAME .
 parakeet.kenleyar.ai CNAME .
 parakeet.quotetweet.com CNAME .
+parrot.alookwithin.ca CNAME .
 parrot.lovably.com CNAME .
 parrotfish.thenping.me CNAME .
 parrotfish.wilderworld.com CNAME .
@@ -1031,7 +1034,6 @@ trout.travelmassive.com CNAME .
 trout.unicornplatform.com CNAME .
 tuna.ajaymantri.com CNAME .
 tuna.purplespider.com CNAME .
-turkey.docsy.cloud CNAME .
 turkey.tella.tv CNAME .
 turtle.geshem.space CNAME .
 turtle.hackstock.net CNAME .
@@ -1148,7 +1150,6 @@ supporters.redbankgreen.com CNAME .
 adserve.bongocdn.com CNAME .
 assets.diagomics.com CNAME .
 bcdn.cpmstar.com CNAME .
-caribou.clintgwinter.com CNAME .
 cdn-b.notsy.io CNAME .
 cdn.admatic.com.tr CNAME .
 cdn.adsninja.ca CNAME .
@@ -1162,7 +1163,6 @@ cdn.shrtfly.vip CNAME .
 consent.cookiefirst.com CNAME .
 contact-gloss-production.accelerator.net CNAME .
 dntcl.qualaroo.com CNAME .
-eegybest.7all.net CNAME .
 live-tag.creatopy.net CNAME .
 log.ads-m.net CNAME .
 sp.cleaningkeepers.com CNAME .
