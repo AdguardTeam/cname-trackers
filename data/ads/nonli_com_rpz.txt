@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -31,6 +31,7 @@ l.alternatives-economiques.fr CNAME .
 l.aufeminin.com CNAME .
 l.aujourdhui.fr CNAME .
 l.autojournal.fr CNAME .
+l.automobile-magazine.fr CNAME .
 l.autoplus.fr CNAME .
 l.beaute-test.com CNAME .
 l.beauxarts.com CNAME .

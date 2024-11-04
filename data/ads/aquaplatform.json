@@ -32,6 +32,7 @@
   "adv.consulcesi.it": "consulcesi-delivery.aquaplatform.com",
   "adv.unionesarda.it": "unionesarda-delivery.aquaplatform.com",
   "advertising.goldseek.com": "goldseek-delivery.aquaplatform.com",
+  "adwin.geenstijl.nl": "geenstijl-console.aquaplatform.com",
   "api.metrike.com": "console.aquaplatform.com",
   "assets.lintigroup.se": "platformiq-cdn.aquaplatform.com",
   "banners.cincinnatimagazine.com": "hourmedia-static.aquaplatform.com",
@@ -161,6 +162,7 @@
   "static.walaplusadserver.com": "reservoir.aquaplatform.com",
   "tlads.midtc.com": "midtc1-delivery.aquaplatform.com",
   "treehouse.wwoz.org": "wwoz-delivery.aquaplatform.com",
+  "www.adserver.sonicplug.com": "sonicplug-delivery.aquaplatform.com",
   "www.api.adbility-media.com": "adbility-api.aquaplatform.com",
   "www.cdn-adv.unionesarda.it": "unionesarda-static.aquaplatform.com",
   "www.display.lawbulletin.com": "lawbulletin-delivery.aquaplatform.com",
@@ -171,6 +173,7 @@
   "www.servedby.greenspring.com": "hourmedia-delivery.aquaplatform.com",
   "www.servedby.quirks.com": "geodelivery.aquaplatform.com",
   "www.servedby.schrotundkorn.de": "bioverlag-delivery.aquaplatform.com",
+  "www.static.imagineobx.com": "oneboat-static.aquaplatform.com",
   "www.static.the-saleroom.com": "proxibid-static.aquaplatform.com",
   "xtraa-secure.reviveservers.com": "platformiq-del.aquaplatform.com"
 }

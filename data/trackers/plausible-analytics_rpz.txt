@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -364,7 +364,6 @@ stats.beausimensen.com CNAME .
 stats.belic.si CNAME .
 stats.benui.ca CNAME .
 stats.bernardobordadagua.com CNAME .
-stats.bertwagner.com CNAME .
 stats.bestservers.co CNAME .
 stats.beyond-grace.co.uk CNAME .
 stats.bholmes.dev CNAME .
@@ -701,7 +700,6 @@ stats.perpetual.pizza CNAME .
 stats.petanode.com CNAME .
 stats.petr.codes CNAME .
 stats.phili.pe CNAME .
-stats.philjava.com CNAME .
 stats.photographer.com.au CNAME .
 stats.pinoymusicstation.com CNAME .
 stats.piplette.co CNAME .
@@ -778,7 +776,6 @@ stats.simplinetworks.com CNAME .
 stats.sirdata.com CNAME .
 stats.sixseven.at CNAME .
 stats.ski.com CNAME .
-stats.slicedthread.com CNAME .
 stats.socialeurope.eu CNAME .
 stats.southswindon-pc.gov.uk CNAME .
 stats.sparkloop.app CNAME .
@@ -877,6 +874,7 @@ stts.emplution.com CNAME .
 stts.sgab-srfp.ch CNAME .
 stts.swisshranalytics.ch CNAME .
 t.lastcast.fm CNAME .
+taylor.gladspring.com CNAME .
 tics.cortex.gg CNAME .
 tics.seeker.gg CNAME .
 tics.techdirt.com CNAME .
@@ -894,6 +892,7 @@ views.sikerproducts.com CNAME .
 views.wioks.com CNAME .
 visitorcenter.ioafw.com CNAME .
 visitorcenter.srwild.com CNAME .
+visitors.asadis.net CNAME .
 visitors.gigianddavid.com CNAME .
 vitals.cgddrd.me CNAME .
 we-love-privacy.humane.club CNAME .

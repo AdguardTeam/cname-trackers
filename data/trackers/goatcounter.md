@@ -8,7 +8,6 @@
     * abdodaoud.goatcounter.com
     * apitman_com.goatcounter.com
     * artur.goatcounter.com
-    * awesome-tunneling-github.goatcounter.com
     * belak.goatcounter.com
     * bkvn.goatcounter.com
     * blu3id-uk.goatcounter.com
@@ -26,6 +25,7 @@
     * embedx.goatcounter.com
     * fieald.goatcounter.com
     * gamecraft.goatcounter.com
+    * gavin.goatcounter.com
     * gcyofbrc2390489439.goatcounter.com
     * gpuzelenograd-github.goatcounter.com
     * hijacklibs.goatcounter.com
@@ -52,6 +52,8 @@
     * ooo.goatcounter.com
     * palaisdesfetes.goatcounter.com
     * psiyum.goatcounter.com
+    * renit.goatcounter.com
+    * riggraz.goatcounter.com
     * rocketgoboom.goatcounter.com
     * satanisk.goatcounter.com
     * semipol.goatcounter.com
@@ -60,15 +62,18 @@
     * stchris.goatcounter.com
     * storydragon.goatcounter.com
     * tailspace.goatcounter.com
+    * tbx.goatcounter.com
     * thecrafters001.goatcounter.com
     * thedave-me.goatcounter.com
     * trainsley69.goatcounter.com
     * trool.goatcounter.com
     * twoistoomany.goatcounter.com
     * ubr.goatcounter.com
+    * ultimategopher.goatcounter.com
     * valentineus.goatcounter.com
     * vpro.goatcounter.com
     * whatacools.goatcounter.com
+    * ybbond.goatcounter.com
 
 ## Cloaking domains
 
@@ -79,7 +84,6 @@
 | stats.abdodaoud.com | abdodaoud.goatcounter.com |
 | stats.apitman.com | apitman_com.goatcounter.com |
 | stats.artur-rodrigues.com | artur.goatcounter.com |
-| awesome-tunneling-stats.apitman.com | awesome-tunneling-github.goatcounter.com |
 | goat.belak.io | belak.goatcounter.com |
 | stats.boredkevin.com | bkvn.goatcounter.com |
 | goatcounter.blu3id.uk | blu3id-uk.goatcounter.com |
@@ -97,6 +101,7 @@
 | pixel.embed.su | embedx.goatcounter.com |
 | stats.fieald.com | fieald.goatcounter.com |
 | goatcounter.gamecraft.it | gamecraft.goatcounter.com |
+| goat.gavv.in | gavin.goatcounter.com |
 | analytics.yofbrc.com | gcyofbrc2390489439.goatcounter.com |
 | github.gpuzelenograd.cloudns.be | gpuzelenograd-github.goatcounter.com |
 | visit.hijacklibs.net | hijacklibs.goatcounter.com |
@@ -123,6 +128,8 @@
 | goat.dabric.xyz | ooo.goatcounter.com |
 | stats.palaisdesfetes.eu | palaisdesfetes.goatcounter.com |
 | gc.sanyamkapoor.com | psiyum.goatcounter.com |
+| stats.renit.pl | renit.goatcounter.com |
+| analytics.riggraz.dev | riggraz.goatcounter.com |
 | stats.rocketgoboom.lol | rocketgoboom.goatcounter.com |
 | anal.sataniskwijt.be | satanisk.goatcounter.com |
 | stats.semipol.de | semipol.goatcounter.com |
@@ -131,12 +138,15 @@
 | stats.stchris.net | stchris.goatcounter.com |
 | counter.storydragon.nl | storydragon.goatcounter.com |
 | goat.tailspace.net | tailspace.goatcounter.com |
+| gc.tbx.at | tbx.goatcounter.com |
 | stats.thecrafters001.com | thecrafters001.goatcounter.com |
 | goatcounter.thedave.me | thedave-me.goatcounter.com |
 | stats.trainsley69.me | trainsley69.goatcounter.com |
 | moo.geopogs.party | trool.goatcounter.com |
 | goat.twoistoomany.com | twoistoomany.goatcounter.com |
 | argus.umarbutler.com | ubr.goatcounter.com |
+| stats.hedy.dev | ultimategopher.goatcounter.com |
 | analytics.popov.link | valentineus.goatcounter.com |
 | count.vidsrc.pro | vpro.goatcounter.com |
 | stats.whatacools.com | whatacools.goatcounter.com |
+| stats.ybbond.id | ybbond.goatcounter.com |

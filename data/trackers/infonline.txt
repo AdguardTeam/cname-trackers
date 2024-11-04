@@ -162,6 +162,7 @@
 ||data-13d258638d.erzgebirge.de^
 ||data-13d258638d.freiepresse-auktion.de^
 ||data-13d258638d.freiepresse.de^
+||data-13e75de547.labo.de^
 ||data-143ac31e30.brocken.de^
 ||data-143ac31e30.radio-brocken.com^
 ||data-143ac31e30.radio-brocken.de^
@@ -197,7 +198,6 @@
 ||data-1774ab3b64.fvw.de^
 ||data-1774ab3b64.fvwjobs.de^
 ||data-179369af40.connect-professional.de^
-||data-179369af40.funkschau.de^
 ||data-17a9ad77d6.phonostar.de^
 ||data-17c7ec5f16.fussballfieber.de^
 ||data-17c7ec5f16.giga.de^
@@ -560,7 +560,6 @@
 ||data-45798f2697.rheinpfalz.de^
 ||data-4591916fcd.hanser-automotive.de^
 ||data-4591916fcd.hanser-fachverlag.de^
-||data-459c29d3bd.lanline.de^
 ||data-45b14edd52.boote-magazin.de^
 ||data-45ccb8748c.bestcheck.de^
 ||data-45ccb8748c.chip.de^
@@ -622,6 +621,7 @@
 ||data-47ee1b0882.kino-groitzsch.de^
 ||data-47ee1b0882.kino-holzminden.de^
 ||data-47ee1b0882.kino-kelkheim.de^
+||data-47ee1b0882.kino-meinerzhagen.de^
 ||data-47ee1b0882.kino-meldorf.de^
 ||data-47ee1b0882.kino-movieworld.de^
 ||data-47ee1b0882.kino-oehringen.de^
@@ -760,6 +760,7 @@
 ||data-53808e266e.nn.de^
 ||data-53ba3c279a.apps.iocnt.de^
 ||data-53ce61d695.bike-x.de^
+||data-5400382129.kunststoff-magazin.de^
 ||data-545e23e607.kosmo.at^
 ||data-5492b7d422.fupa.net^
 ||data-5492b7d422.magdeburg-fussball.de^
@@ -1043,6 +1044,7 @@
 ||data-6fd9590058.apps.iocnt.de^
 ||data-7023b17a38.amberg24.de^
 ||data-7023b17a38.oberpfalz-pages.de^
+||data-7023b17a38.oberpfalznet.de^
 ||data-7023b17a38.onetz.de^
 ||data-7023b17a38.weiden24.de^
 ||data-706868203b.partytimer.at^
@@ -1466,6 +1468,7 @@
 ||data-a113f4b41d.trucker.de^
 ||data-a114e51991.ikz.de^
 ||data-a119898f35.kaufda.de^
+||data-a1937ab7ea.materialfluss.de^
 ||data-a195367ecc.apps.iocnt.de^
 ||data-a1aa7525b0.rw-textilservice.de^
 ||data-a1ce08382f.sat1.de^
@@ -1703,6 +1706,7 @@
 ||data-bb21a2f11b.petbook.de^
 ||data-bb21a2f11b.sportbild.de^
 ||data-bb21a2f11b.stylebook.de^
+||data-bb21a2f11b.techbook-magazine.com^
 ||data-bb21a2f11b.techbook.de^
 ||data-bb21a2f11b.travelbook.de^
 ||data-bb4ada6163.travelbook.de^
@@ -2102,6 +2106,7 @@
 ||data-ed9c138d79.trauer-dewezet.de^
 ||data-ede3421766.caraworld.de^
 ||data-ede3421766.promobil.de^
+||data-ee28b6fae3.industrial-production.de^
 ||data-ee73ed6bf2.gera.de^
 ||data-ee807be806.derwesten.de^
 ||data-ee807be806.jobmarkt-nrw.de^
@@ -2116,7 +2121,6 @@
 ||data-ee807be806.radiosauerland.de^
 ||data-ee807be806.trauer.de^
 ||data-eea926926e.connect-channel.de^
-||data-eea926926e.ict-channel.com^
 ||data-ef2b66d556.miss.at^
 ||data-ef2df4302f.baumagazin-online.de^
 ||data-ef3fcaa7e9.0rtl.de^
@@ -2348,6 +2352,7 @@
 ||data-fa3432c50a.donaukurier.de^
 ||data-fa3432c50a.ingolstadt-today.de^
 ||data-fa59f9f6b5.capitol-kornwestheim.de^
+||data-fa59f9f6b5.cincinnati-muenchen.de^
 ||data-fa59f9f6b5.cinema-badsaarow.de^
 ||data-fa59f9f6b5.cineworld-luenen.de^
 ||data-fa59f9f6b5.cinexx.de^
@@ -2364,6 +2369,8 @@
 ||data-fa59f9f6b5.kulturhaus-pritzwalk.de^
 ||data-fa59f9f6b5.lichtspiele-grosshabersdorf.de^
 ||data-fa59f9f6b5.saarfilm.net^
+||data-fa59f9f6b5.uc-kino-ruegen.de^
+||data-fa59f9f6b5.wied-scala.de^
 ||data-faf3e659f2.apps.iocnt.de^
 ||data-fb37a1e7c3.cannstatter-zeitung.de^
 ||data-fb37a1e7c3.esslinger-zeitung.de^
@@ -2440,9 +2447,6 @@
 ||data-nl.connect-professional.de^
 ||data-nl.deutsche-apotheker-zeitung.de^
 ||data-nl.elektroniknet.de^
-||data-nl.funkschau.de^
-||data-nl.ict-channel.com^
-||data-nl.lanline.de^
 ||data-nl.smarterworld.de^
 ||data-nl.tageskarte.io^
 ||dnsbl.test.data-6dbef37a3c.apps.iocnt.de^

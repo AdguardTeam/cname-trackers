@@ -37,6 +37,7 @@
     * faithlife-delivery.aquaplatform.com
     * famag-delivery.aquaplatform.com
     * famag-static.aquaplatform.com
+    * geenstijl-console.aquaplatform.com
     * geenstijl-delivery.aquaplatform.com
     * geodelivery.aquaplatform.com
     * goldseek-delivery.aquaplatform.com
@@ -157,6 +158,7 @@
 | serve.faithlifeads.com | faithlife-delivery.aquaplatform.com |
 | adserver.fa-mag.com | famag-delivery.aquaplatform.com |
 | static.fa-mag.com | famag-static.aquaplatform.com |
+| adwin.geenstijl.nl | geenstijl-console.aquaplatform.com |
 | lalala.geenstijl.nl | geenstijl-delivery.aquaplatform.com |
 | adserver.kozoom.com | geodelivery.aquaplatform.com |
 | servedby.aqua-adserver.com | geodelivery.aquaplatform.com |
@@ -212,6 +214,7 @@
 | servedby.imagineobx.com | oneboat-delivery.aquaplatform.com |
 | servedby.tahoe.com | oneboat-delivery.aquaplatform.com |
 | static.everythingcolorado.com | oneboat-static.aquaplatform.com |
+| www.static.imagineobx.com | oneboat-static.aquaplatform.com |
 | console.adspmg.com | pamplin-console.aquaplatform.com |
 | cdn.adspmg.com | pamplin-static.aquaplatform.com |
 | servedby.personare.com.br | personare-delivery.aquaplatform.com |
@@ -269,6 +272,7 @@
 | console.sacommunications.com | sacomm-console.aquaplatform.com |
 | servedby.sacommunications.com | sacomm-delivery.aquaplatform.com |
 | adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
+| www.adserver.sonicplug.com | sonicplug-delivery.aquaplatform.com |
 | static.sonicplug.com | sonicplug-static.aquaplatform.com |
 | ads.recon.com | t101-delivery.aquaplatform.com |
 | ads-static.recon.com | t101-static.aquaplatform.com |

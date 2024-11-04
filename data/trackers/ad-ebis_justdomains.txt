@@ -254,6 +254,7 @@ ebis.tokado.jp
 ebis.touhan-navi.com
 ebis.treasurenet.jp
 ebis.umulin-lab.com
+ebis.wanomiraika.com
 ebis.yumeyakata.com
 ebis01.vernal.co.jp
 ebis01.zkai.co.jp

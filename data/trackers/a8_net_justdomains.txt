@@ -172,7 +172,6 @@ a8.kireiyu.com
 a8.kissmusic.net
 a8.kizuna-link.jp
 a8.kland.shop
-a8.knew.jp
 a8.kojyo-worker.com
 a8.kotei-denwa.com
 a8.kougu-kaitoriyasan.com
@@ -851,6 +850,7 @@ a8cv.danjiki-net.jp
 a8cv.dazzyclinic.jp
 a8cv.deiba.jp
 a8cv.delis.co.jp
+a8cv.dentalhr.jp
 a8cv.designlearn.co.jp
 a8cv.direct-teleshop.jp
 a8cv.direct.shark.co.jp
@@ -944,7 +944,6 @@ a8cv.harasawa.co.jp
 a8cv.hardwarewallet-japan.com
 a8cv.hariocorp.co.jp
 a8cv.hariti.shop
-a8cv.hello-people.jp
 a8cv.heybit.io
 a8cv.hi-tailor.jp
 a8cv.hikari-mega.com
@@ -1109,7 +1108,6 @@ a8cv.p-antiaging.com
 a8cv.paidy.com
 a8cv.paintory.com
 a8cv.palms-gym.com
-a8cv.perrot.co
 a8cv.pf.classicmusic.tokyo
 a8cv.phonim.com
 a8cv.photojoy.jp
@@ -1250,6 +1248,7 @@ a8cv.waterserver.co.jp
 a8cv.web-planners.net
 a8cv.wedding.mynavi.jp
 a8cv.wellcrew.net
+a8cv.whynot.jp
 a8cv.will-agaclinic.com
 a8cv.will-gocon.net
 a8cv.willfu.jp

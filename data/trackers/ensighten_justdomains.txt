@@ -303,6 +303,7 @@ privacy.latitudepay.com
 privacy.learcapital.com
 privacy.online.heineken.co.za
 privacy.owllabs.com
+privacy.sekuremerchants.com
 privacy.tigerbeer.com
 privacy.umiloans.com.au
 privacy.uwm.com
@@ -385,7 +386,6 @@ tms.nab.com.au
 tms.nabmarginlending.com.au
 tms.nabtrade.com.au
 tms.nationaltrust.org.uk
-tms.rsa.com
 tms.securid.com
 tms.suzukibusinesscloud-qa.com
 tms.virginatlantic.com

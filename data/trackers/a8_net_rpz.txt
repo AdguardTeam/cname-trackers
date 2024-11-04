@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -183,7 +183,6 @@ a8.kireiyu.com CNAME .
 a8.kissmusic.net CNAME .
 a8.kizuna-link.jp CNAME .
 a8.kland.shop CNAME .
-a8.knew.jp CNAME .
 a8.kojyo-worker.com CNAME .
 a8.kotei-denwa.com CNAME .
 a8.kougu-kaitoriyasan.com CNAME .
@@ -862,6 +861,7 @@ a8cv.danjiki-net.jp CNAME .
 a8cv.dazzyclinic.jp CNAME .
 a8cv.deiba.jp CNAME .
 a8cv.delis.co.jp CNAME .
+a8cv.dentalhr.jp CNAME .
 a8cv.designlearn.co.jp CNAME .
 a8cv.direct-teleshop.jp CNAME .
 a8cv.direct.shark.co.jp CNAME .
@@ -955,7 +955,6 @@ a8cv.harasawa.co.jp CNAME .
 a8cv.hardwarewallet-japan.com CNAME .
 a8cv.hariocorp.co.jp CNAME .
 a8cv.hariti.shop CNAME .
-a8cv.hello-people.jp CNAME .
 a8cv.heybit.io CNAME .
 a8cv.hi-tailor.jp CNAME .
 a8cv.hikari-mega.com CNAME .
@@ -1120,7 +1119,6 @@ a8cv.p-antiaging.com CNAME .
 a8cv.paidy.com CNAME .
 a8cv.paintory.com CNAME .
 a8cv.palms-gym.com CNAME .
-a8cv.perrot.co CNAME .
 a8cv.pf.classicmusic.tokyo CNAME .
 a8cv.phonim.com CNAME .
 a8cv.photojoy.jp CNAME .
@@ -1261,6 +1259,7 @@ a8cv.waterserver.co.jp CNAME .
 a8cv.web-planners.net CNAME .
 a8cv.wedding.mynavi.jp CNAME .
 a8cv.wellcrew.net CNAME .
+a8cv.whynot.jp CNAME .
 a8cv.will-agaclinic.com CNAME .
 a8cv.will-gocon.net CNAME .
 a8cv.willfu.jp CNAME .

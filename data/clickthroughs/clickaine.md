@@ -25,11 +25,11 @@
 | api.kekw.world | api.clickaine.com |
 | api.ngamgaixinh.art | api.clickaine.com |
 | api.rtnews.pro | api.clickaine.com |
+| api.xxxbanjo.com | api.clickaine.com |
 | api2.clickaine.com | api.clickaine.com |
 | app.rtnews.pro | api.clickaine.com |
 | asg.javhoho.com | api.clickaine.com |
 | asg.pienude.com | api.clickaine.com |
-| blabla.leakgallery.com | api.clickaine.com |
 | c.gotoxxxtube.com | api.clickaine.com |
 | c0n.tubestash.com | api.clickaine.com |
 | c4n.asianpinay.com | api.clickaine.com |
@@ -47,6 +47,7 @@
 | c8d.upde.cc | api.clickaine.com |
 | ca.findyourpussy.net | api.clickaine.com |
 | ca.infomix.best | api.clickaine.com |
+| cat11.gimmeporn.xyz | api.clickaine.com |
 | cc.histoires-de-sexe-gratuites.com | api.clickaine.com |
 | cc.relatoseroticos-gratis.com | api.clickaine.com |
 | cc.sersh.com | api.clickaine.com |
@@ -63,6 +64,7 @@
 | cl.sexstories-all.com | api.clickaine.com |
 | click.freepopnews.skin | api.clickaine.com |
 | clickc4n.pornharlot.com | api.clickaine.com |
+| clickc4n.pornharlot.net | api.clickaine.com |
 | clk.slutcam.org | api.clickaine.com |
 | clka.bondagevalley.cc | api.clickaine.com |
 | clkn.apostle.onl | api.clickaine.com |
@@ -82,6 +84,7 @@
 | drt.cliomovies.com | api.clickaine.com |
 | faq.brandnewapp.pro | api.clickaine.com |
 | flw.camcaps.ac | api.clickaine.com |
+| g4s.nfss.my.id | api.clickaine.com |
 | ge6.getfto.com | api.clickaine.com |
 | ge8.getfto.com | api.clickaine.com |
 | get.xclick24.com | api.clickaine.com |
@@ -111,6 +114,7 @@
 | ps2.camcaps.to | api.clickaine.com |
 | reg.ancensored.com | api.clickaine.com |
 | s1.rtnews.pro | api.clickaine.com |
+| s3.rtnews.pro | api.clickaine.com |
 | s5.rtnews.pro | api.clickaine.com |
 | sda.am-da.xyz | api.clickaine.com |
 | snow.snowdayonline.xyz | api.clickaine.com |

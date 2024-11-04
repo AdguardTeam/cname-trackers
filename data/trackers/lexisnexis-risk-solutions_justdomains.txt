@@ -5,6 +5,7 @@
 acdc.toolineo.de
 acsweb-3dr1.dnp-cdms.jp
 af.mobile.free.fr
+afm.monetaindonesia.com
 afm.monetamarkets.com
 afm.monetaturkey.com
 afm.puprime.com
@@ -25,11 +26,13 @@ afm.vantagemarkets.com
 afm.vantagemarkets.io
 afm.vantagemarketsea.com
 afm.vantagetradings.com
+afm.vtg-mkt-apac.com
 afm.vtg-mkt.com
 afm.vtg-mkts.com
 afm.vtmarkets.com
 afm.vtmarkets.net
 afm.vtmarketsfr.com
+afm.vtmarketsid.com
 afm.vtmarketsnet.com
 afm.vtmarketsuk.com
 afm.vtmarketsweb.com
@@ -1010,7 +1013,6 @@ tm.regions.com
 tm.regionsqa.com
 tm.regionstest.com
 tm.rsa-claims.co.uk
-tm.solidgate.com
 tm.stats.fashionforhome.de
 tm.stats.home24.at
 tm.stats.home24.be
@@ -1040,6 +1042,7 @@ tmcdn.luckynuggetcasino.com
 tmcdn.mummysgold.com
 tmcdn.platinumplaycasino.com
 tmcdn.riverbellecasino.com
+tmcdn.royalvegas.ca
 tmcdn.rubyfortune.ca
 tmcdn.rubyfortune.com
 tmcdn.spincasino.ca

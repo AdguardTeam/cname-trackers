@@ -7,7 +7,6 @@
     * hearst-prod.actioniq.mr-in.com
     * homer-prod1.aws-ap-south-1.mr-in.com
     * homer-prod1.aws-us-east-1.mr-in.com
-    * homer-staging1.aws-us-east-1.mr-in.com
     * hp-prod.actioniq.mr-in.com
     * mr-platform-staging1.mr-in.com
     * outside.mr-in.com
@@ -66,7 +65,6 @@
 | mr-in.littlepassports.com | homer-prod1.aws-us-east-1.mr-in.com |
 | anx-staging.learnwithhomer.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
 | mr-in-staging.beginlearning.com | homer-staging1-blue-ingress-app-e8582b7320169c01.elb.us-east-1.amazonaws.com |
-| anx-staging.learnwithhomer.com | homer-staging1.aws-us-east-1.mr-in.com |
 | aiq-in.ext.hp.com | hp-prod.actioniq.mr-in.com |
 | a.mystery.software | mr-platform-staging1.mr-in.com |
 | accounts-meta-events.outsideonline.com | outside.mr-in.com |
@@ -101,7 +99,6 @@
 | meta-events.velonews.com | outside.mr-in.com |
 | meta-events.womensrunning.com | outside.mr-in.com |
 | meta-events.yellowstonepark.com | outside.mr-in.com |
-| meta-events.yogajournal.com | outside.mr-in.com |
 | mr.pinkbike.com | outside.mr-in.com |
 | aiq-in.skechers.ca | skechers-prod.actioniq.mr-in.com |
 | aiq-in.skechers.co.uk | skechers-prod.actioniq.mr-in.com |

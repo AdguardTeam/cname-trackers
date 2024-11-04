@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,6 +17,7 @@ ag.anquerafusser.com CNAME .
 ah.cabbingdandled.com CNAME .
 aj.stomalhobble.com CNAME .
 ap.saluteeyeseed.com CNAME .
+ap.taichnewcal.com CNAME .
 aq.theurgyopine.com CNAME .
 au.maniatoile.com CNAME .
 av.dizziesferri.com CNAME .
@@ -84,6 +85,7 @@ ex.fijiicaria.com CNAME .
 ey.scutmercury.com CNAME .
 fc.ferriesendless.com CNAME .
 ff.guimpefesses.com CNAME .
+fh.smugismprotea.com CNAME .
 fi.questormyxo.com CNAME .
 fk.janetsh.com CNAME .
 fl.dumpiesgoschen.com CNAME .
@@ -193,6 +195,7 @@ na.waywodeopus.com CNAME .
 nc.nominaturfy.com CNAME .
 ng.knittedhipbone.com CNAME .
 nh.rimoseantdom.com CNAME .
+nl.rowensrewound.com CNAME .
 nm.placoidtobyman.com CNAME .
 no.resailslemures.com CNAME .
 nr.celaenomash.com CNAME .

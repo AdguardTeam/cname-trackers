@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -16,6 +16,7 @@ $TTL 300
 acdc.toolineo.de CNAME .
 acsweb-3dr1.dnp-cdms.jp CNAME .
 af.mobile.free.fr CNAME .
+afm.monetaindonesia.com CNAME .
 afm.monetamarkets.com CNAME .
 afm.monetaturkey.com CNAME .
 afm.puprime.com CNAME .
@@ -36,11 +37,13 @@ afm.vantagemarkets.com CNAME .
 afm.vantagemarkets.io CNAME .
 afm.vantagemarketsea.com CNAME .
 afm.vantagetradings.com CNAME .
+afm.vtg-mkt-apac.com CNAME .
 afm.vtg-mkt.com CNAME .
 afm.vtg-mkts.com CNAME .
 afm.vtmarkets.com CNAME .
 afm.vtmarkets.net CNAME .
 afm.vtmarketsfr.com CNAME .
+afm.vtmarketsid.com CNAME .
 afm.vtmarketsnet.com CNAME .
 afm.vtmarketsuk.com CNAME .
 afm.vtmarketsweb.com CNAME .
@@ -1021,7 +1024,6 @@ tm.regions.com CNAME .
 tm.regionsqa.com CNAME .
 tm.regionstest.com CNAME .
 tm.rsa-claims.co.uk CNAME .
-tm.solidgate.com CNAME .
 tm.stats.fashionforhome.de CNAME .
 tm.stats.home24.at CNAME .
 tm.stats.home24.be CNAME .
@@ -1051,6 +1053,7 @@ tmcdn.luckynuggetcasino.com CNAME .
 tmcdn.mummysgold.com CNAME .
 tmcdn.platinumplaycasino.com CNAME .
 tmcdn.riverbellecasino.com CNAME .
+tmcdn.royalvegas.ca CNAME .
 tmcdn.rubyfortune.ca CNAME .
 tmcdn.rubyfortune.com CNAME .
 tmcdn.spincasino.ca CNAME .

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -90,6 +90,7 @@ affil.xgdpr.cz CNAME .
 affil.zaslat.cz CNAME .
 affil.zdravetricko.cz CNAME .
 affil.zenskecykly.cz CNAME .
+affilate.maximin.cz CNAME .
 affilate.securepro.cz CNAME .
 affilate.sklep38.cz CNAME .
 affilbox.25hodin.cz CNAME .
@@ -513,7 +514,6 @@ partner.cukrarskaskola.cz CNAME .
 partner.cukrarskyklub.cz CNAME .
 partner.cukraszvilag.hu CNAME .
 partner.dailymix.cz CNAME .
-partner.dancahajkova.com CNAME .
 partner.danfil.cz CNAME .
 partner.darinapetrakova.cz CNAME .
 partner.dellinger.cz CNAME .

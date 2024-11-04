@@ -49,6 +49,7 @@
     * 1c99a9c7-dsen3b5f.cname.ebis.ne.jp
     * 1d120bac-wlvncyr6.cname.ebis.ne.jp
     * 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp
+    * 2298f196-sz3ynfbf.cname.ebis.ne.jp
     * 23f58bd5-digitalgarage.cname.ebis.ne.jp
     * 26349a15-esqb2ypb.cname.ebis.ne.jp
     * 267222ab-t3ucd5yy.cname.ebis.ne.jp
@@ -370,6 +371,7 @@
 | ac-ebis.otoraku.jp | 1c99a9c7-dsen3b5f.cname.ebis.ne.jp |
 | adebis.tspot.co.jp | 1d120bac-wlvncyr6.cname.ebis.ne.jp |
 | marketing.biz.mynavi.jp | 1d33a2e2-mzfe7tqh.cname.ebis.ne.jp |
+| ebis.wanomiraika.com | 2298f196-sz3ynfbf.cname.ebis.ne.jp |
 | adebis.blackboard60s.com | 23f58bd5-digitalgarage.cname.ebis.ne.jp |
 | ebis.smakon.jp | 26349a15-esqb2ypb.cname.ebis.ne.jp |
 | ebiscname.english-native.net | 267222ab-t3ucd5yy.cname.ebis.ne.jp |

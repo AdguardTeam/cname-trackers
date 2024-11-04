@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -236,6 +236,7 @@ utiq.tagesspiegel.de CNAME .
 utiq.tatort-fans.de CNAME .
 utiq.techbook.de CNAME .
 utiq.telekom.de CNAME .
+utiq.terrafemina.com CNAME .
 utiq.thueringen24.de CNAME .
 utiq.tierfans.net CNAME .
 utiq.todoalicante.es CNAME .

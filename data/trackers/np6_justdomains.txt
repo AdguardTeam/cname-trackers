@@ -171,6 +171,7 @@ tr.carte.lcl.fr
 tr.cartegie.fr
 tr.cashback.floa.fr
 tr.cb4x.banque-casino.fr
+tr.cb4x.floa.fr
 tr.cclx.espmp-agfr.net
 tr.cdiscount.3wregie.com
 tr.ceeregion.moethennessy.com
@@ -512,6 +513,7 @@ tr.info.webikeo.fr
 tr.infolettre.securite-routiere.gouv.fr
 tr.infolettres.groupama.com
 tr.infomarche.hennessy.fr
+tr.information.cchezvous.fr
 tr.information.fidalformations.fr
 tr.information.labelleadresse.com
 tr.information.lacollection-airfrance.be
@@ -771,6 +773,7 @@ tr.news.ifh.fr
 tr.news.infopro-digital.com
 tr.news.interforum.fr
 tr.news.itancia.com
+tr.news.jautomatise.com
 tr.news.kaptainmusic.fr
 tr.news.kpmg-avocats.fr
 tr.news.kpmg.fr

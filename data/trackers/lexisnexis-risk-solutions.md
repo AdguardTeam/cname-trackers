@@ -94,7 +94,6 @@
     * h-6do2934n.online-metrix.net
     * h-6e1hqgi3.online-metrix.net
     * h-6ej4o5iw.online-metrix.net
-    * h-6fytj79e-solid.online-metrix.net
     * h-6i24djkv.online-metrix.net
     * h-6jfhwoo3.online-metrix.net
     * h-6mlhprq2-a.online-metrix.net
@@ -970,7 +969,6 @@
 | secure-collector.zen.com | h-6do2934n.online-metrix.net |
 | tags.3ds.denizbank.at | h-6e1hqgi3.online-metrix.net |
 | content.affinityfcu.com | h-6ej4o5iw.online-metrix.net |
-| tm.solidgate.com | h-6fytj79e-solid.online-metrix.net |
 | cdle-prof.clouduim.cdle.state.co.us | h-6i24djkv.online-metrix.net |
 | lnthxsvc.tsp.gov | h-6jfhwoo3.online-metrix.net |
 | tblsdp.staging.tonybet.ca | h-6mlhprq2-a.online-metrix.net |
@@ -1047,6 +1045,7 @@
 | regstat.skyvegas.com | h-94b5bk32.online-metrix.net |
 | content.dstv.com | h-96ch0zc2.online-metrix.net |
 | app.uob.com.my | h-96clh8g7.online-metrix.net |
+| afm.monetaindonesia.com | h-96eziru5.online-metrix.net |
 | afm.monetamarkets.com | h-96eziru5.online-metrix.net |
 | afm.monetaturkey.com | h-96eziru5.online-metrix.net |
 | afm.puprime.com | h-96eziru5.online-metrix.net |
@@ -1067,11 +1066,13 @@
 | afm.vantagemarkets.io | h-96eziru5.online-metrix.net |
 | afm.vantagemarketsea.com | h-96eziru5.online-metrix.net |
 | afm.vantagetradings.com | h-96eziru5.online-metrix.net |
+| afm.vtg-mkt-apac.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkt.com | h-96eziru5.online-metrix.net |
 | afm.vtg-mkts.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.com | h-96eziru5.online-metrix.net |
 | afm.vtmarkets.net | h-96eziru5.online-metrix.net |
 | afm.vtmarketsfr.com | h-96eziru5.online-metrix.net |
+| afm.vtmarketsid.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsnet.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsuk.com | h-96eziru5.online-metrix.net |
 | afm.vtmarketsweb.com | h-96eziru5.online-metrix.net |
@@ -1088,6 +1089,7 @@
 | tmcdn.mummysgold.com | h-98oju8tz.online-metrix.net |
 | tmcdn.platinumplaycasino.com | h-98oju8tz.online-metrix.net |
 | tmcdn.riverbellecasino.com | h-98oju8tz.online-metrix.net |
+| tmcdn.royalvegas.ca | h-98oju8tz.online-metrix.net |
 | tmcdn.rubyfortune.ca | h-98oju8tz.online-metrix.net |
 | tmcdn.rubyfortune.com | h-98oju8tz.online-metrix.net |
 | tmcdn.spincasino.ca | h-98oju8tz.online-metrix.net |

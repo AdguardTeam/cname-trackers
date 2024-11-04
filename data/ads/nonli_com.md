@@ -43,6 +43,7 @@
 | l.alternatives-economiques.fr | tls.non.li |
 | l.aujourdhui.fr | tls.non.li |
 | l.autojournal.fr | tls.non.li |
+| l.automobile-magazine.fr | tls.non.li |
 | l.autoplus.fr | tls.non.li |
 | l.beaute-test.com | tls.non.li |
 | l.beauxarts.com | tls.non.li |

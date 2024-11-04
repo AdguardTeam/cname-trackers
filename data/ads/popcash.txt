@@ -1050,7 +1050,6 @@
 ||wallaby.cron.help^
 ||wallaby.legendkeeper.com^
 ||wallaby.short1.link^
-||walrus.5secondstoimpress.com^
 ||walrus.blindemployment.solutions^
 ||walrus.fetzcolor.at^
 ||walrus.oscaroarevalo.com^
@@ -1073,7 +1072,6 @@
 ||wildebeest.soft-spoken.dev^
 ||wildebeest.trigo.dev^
 ||wildfowl.getmoneyoff.com^
-||wolf.idthompson.com^
 ||wolf.samarasousa.com^
 ||wolverine.barac.at^
 ||wolverine.jhdierenklinieken.nl^

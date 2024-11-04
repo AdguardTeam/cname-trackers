@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -265,6 +265,7 @@ ebis.tokado.jp CNAME .
 ebis.touhan-navi.com CNAME .
 ebis.treasurenet.jp CNAME .
 ebis.umulin-lab.com CNAME .
+ebis.wanomiraika.com CNAME .
 ebis.yumeyakata.com CNAME .
 ebis01.vernal.co.jp CNAME .
 ebis01.zkai.co.jp CNAME .

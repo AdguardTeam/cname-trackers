@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -1061,7 +1061,6 @@ vulture.lagosdesaliencia.com CNAME .
 wallaby.cron.help CNAME .
 wallaby.legendkeeper.com CNAME .
 wallaby.short1.link CNAME .
-walrus.5secondstoimpress.com CNAME .
 walrus.blindemployment.solutions CNAME .
 walrus.fetzcolor.at CNAME .
 walrus.oscaroarevalo.com CNAME .
@@ -1084,7 +1083,6 @@ wildebeest.quarva.dev CNAME .
 wildebeest.soft-spoken.dev CNAME .
 wildebeest.trigo.dev CNAME .
 wildfowl.getmoneyoff.com CNAME .
-wolf.idthompson.com CNAME .
 wolf.samarasousa.com CNAME .
 wolverine.barac.at CNAME .
 wolverine.jhdierenklinieken.nl CNAME .

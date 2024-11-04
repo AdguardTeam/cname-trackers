@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -173,6 +173,7 @@ data-13d258638d.blick.de CNAME .
 data-13d258638d.erzgebirge.de CNAME .
 data-13d258638d.freiepresse-auktion.de CNAME .
 data-13d258638d.freiepresse.de CNAME .
+data-13e75de547.labo.de CNAME .
 data-143ac31e30.brocken.de CNAME .
 data-143ac31e30.radio-brocken.com CNAME .
 data-143ac31e30.radio-brocken.de CNAME .
@@ -208,7 +209,6 @@ data-1774ab3b64.connected-events.de CNAME .
 data-1774ab3b64.fvw.de CNAME .
 data-1774ab3b64.fvwjobs.de CNAME .
 data-179369af40.connect-professional.de CNAME .
-data-179369af40.funkschau.de CNAME .
 data-17a9ad77d6.phonostar.de CNAME .
 data-17c7ec5f16.fussballfieber.de CNAME .
 data-17c7ec5f16.giga.de CNAME .
@@ -571,7 +571,6 @@ data-45798f2697.nils-nager.de CNAME .
 data-45798f2697.rheinpfalz.de CNAME .
 data-4591916fcd.hanser-automotive.de CNAME .
 data-4591916fcd.hanser-fachverlag.de CNAME .
-data-459c29d3bd.lanline.de CNAME .
 data-45b14edd52.boote-magazin.de CNAME .
 data-45ccb8748c.bestcheck.de CNAME .
 data-45ccb8748c.chip.de CNAME .
@@ -633,6 +632,7 @@ data-47ee1b0882.kino-dinslaken.de CNAME .
 data-47ee1b0882.kino-groitzsch.de CNAME .
 data-47ee1b0882.kino-holzminden.de CNAME .
 data-47ee1b0882.kino-kelkheim.de CNAME .
+data-47ee1b0882.kino-meinerzhagen.de CNAME .
 data-47ee1b0882.kino-meldorf.de CNAME .
 data-47ee1b0882.kino-movieworld.de CNAME .
 data-47ee1b0882.kino-oehringen.de CNAME .
@@ -771,6 +771,7 @@ data-53398d506e.apps.iocnt.de CNAME .
 data-53808e266e.nn.de CNAME .
 data-53ba3c279a.apps.iocnt.de CNAME .
 data-53ce61d695.bike-x.de CNAME .
+data-5400382129.kunststoff-magazin.de CNAME .
 data-545e23e607.kosmo.at CNAME .
 data-5492b7d422.fupa.net CNAME .
 data-5492b7d422.magdeburg-fussball.de CNAME .
@@ -1054,6 +1055,7 @@ data-6f4f333803.apps.iocnt.de CNAME .
 data-6fd9590058.apps.iocnt.de CNAME .
 data-7023b17a38.amberg24.de CNAME .
 data-7023b17a38.oberpfalz-pages.de CNAME .
+data-7023b17a38.oberpfalznet.de CNAME .
 data-7023b17a38.onetz.de CNAME .
 data-7023b17a38.weiden24.de CNAME .
 data-706868203b.partytimer.at CNAME .
@@ -1477,6 +1479,7 @@ data-a0f0ae1310.goyellow.de CNAME .
 data-a113f4b41d.trucker.de CNAME .
 data-a114e51991.ikz.de CNAME .
 data-a119898f35.kaufda.de CNAME .
+data-a1937ab7ea.materialfluss.de CNAME .
 data-a195367ecc.apps.iocnt.de CNAME .
 data-a1aa7525b0.rw-textilservice.de CNAME .
 data-a1ce08382f.sat1.de CNAME .
@@ -1714,6 +1717,7 @@ data-bb21a2f11b.petbook-magazine.com CNAME .
 data-bb21a2f11b.petbook.de CNAME .
 data-bb21a2f11b.sportbild.de CNAME .
 data-bb21a2f11b.stylebook.de CNAME .
+data-bb21a2f11b.techbook-magazine.com CNAME .
 data-bb21a2f11b.techbook.de CNAME .
 data-bb21a2f11b.travelbook.de CNAME .
 data-bb4ada6163.travelbook.de CNAME .
@@ -2113,6 +2117,7 @@ data-ed9c138d79.dewezet.de CNAME .
 data-ed9c138d79.trauer-dewezet.de CNAME .
 data-ede3421766.caraworld.de CNAME .
 data-ede3421766.promobil.de CNAME .
+data-ee28b6fae3.industrial-production.de CNAME .
 data-ee73ed6bf2.gera.de CNAME .
 data-ee807be806.derwesten.de CNAME .
 data-ee807be806.jobmarkt-nrw.de CNAME .
@@ -2127,7 +2132,6 @@ data-ee807be806.radiooberhausen.de CNAME .
 data-ee807be806.radiosauerland.de CNAME .
 data-ee807be806.trauer.de CNAME .
 data-eea926926e.connect-channel.de CNAME .
-data-eea926926e.ict-channel.com CNAME .
 data-ef2b66d556.miss.at CNAME .
 data-ef2df4302f.baumagazin-online.de CNAME .
 data-ef3fcaa7e9.0rtl.de CNAME .
@@ -2359,6 +2363,7 @@ data-fa2d848059.fupa.net CNAME .
 data-fa3432c50a.donaukurier.de CNAME .
 data-fa3432c50a.ingolstadt-today.de CNAME .
 data-fa59f9f6b5.capitol-kornwestheim.de CNAME .
+data-fa59f9f6b5.cincinnati-muenchen.de CNAME .
 data-fa59f9f6b5.cinema-badsaarow.de CNAME .
 data-fa59f9f6b5.cineworld-luenen.de CNAME .
 data-fa59f9f6b5.cinexx.de CNAME .
@@ -2375,6 +2380,8 @@ data-fa59f9f6b5.kuki-landau.de CNAME .
 data-fa59f9f6b5.kulturhaus-pritzwalk.de CNAME .
 data-fa59f9f6b5.lichtspiele-grosshabersdorf.de CNAME .
 data-fa59f9f6b5.saarfilm.net CNAME .
+data-fa59f9f6b5.uc-kino-ruegen.de CNAME .
+data-fa59f9f6b5.wied-scala.de CNAME .
 data-faf3e659f2.apps.iocnt.de CNAME .
 data-fb37a1e7c3.cannstatter-zeitung.de CNAME .
 data-fb37a1e7c3.esslinger-zeitung.de CNAME .
@@ -2451,9 +2458,6 @@ data-nl.connect-channel.de CNAME .
 data-nl.connect-professional.de CNAME .
 data-nl.deutsche-apotheker-zeitung.de CNAME .
 data-nl.elektroniknet.de CNAME .
-data-nl.funkschau.de CNAME .
-data-nl.ict-channel.com CNAME .
-data-nl.lanline.de CNAME .
 data-nl.smarterworld.de CNAME .
 data-nl.tageskarte.io CNAME .
 dnsbl.test.data-6dbef37a3c.apps.iocnt.de CNAME .

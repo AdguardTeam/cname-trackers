@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -182,6 +182,7 @@ tr.carte.lcl.fr CNAME .
 tr.cartegie.fr CNAME .
 tr.cashback.floa.fr CNAME .
 tr.cb4x.banque-casino.fr CNAME .
+tr.cb4x.floa.fr CNAME .
 tr.cclx.espmp-agfr.net CNAME .
 tr.cdiscount.3wregie.com CNAME .
 tr.ceeregion.moethennessy.com CNAME .
@@ -523,6 +524,7 @@ tr.info.webikeo.fr CNAME .
 tr.infolettre.securite-routiere.gouv.fr CNAME .
 tr.infolettres.groupama.com CNAME .
 tr.infomarche.hennessy.fr CNAME .
+tr.information.cchezvous.fr CNAME .
 tr.information.fidalformations.fr CNAME .
 tr.information.labelleadresse.com CNAME .
 tr.information.lacollection-airfrance.be CNAME .
@@ -782,6 +784,7 @@ tr.news.ifh.fr CNAME .
 tr.news.infopro-digital.com CNAME .
 tr.news.interforum.fr CNAME .
 tr.news.itancia.com CNAME .
+tr.news.jautomatise.com CNAME .
 tr.news.kaptainmusic.fr CNAME .
 tr.news.kpmg-avocats.fr CNAME .
 tr.news.kpmg.fr CNAME .

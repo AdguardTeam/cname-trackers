@@ -6,20 +6,22 @@
 ||analytics.demo.plateau.ng.open.law^
 ||analytics.law.cityofsanmateo.org^
 ||analytics.popov.link^
+||analytics.riggraz.dev^
 ||analytics.yofbrc.com^
 ||argus.umarbutler.com^
-||awesome-tunneling-stats.apitman.com^
 ||contacapre.bortox.it^
 ||count.vidsrc.pro^
 ||counter.storydragon.nl^
 ||gc.mindenugyved.hu^
 ||gc.sanyamkapoor.com^
 ||gc.securitydungeon.sk^
+||gc.tbx.at^
 ||github.gpuzelenograd.cloudns.be^
 ||goat.belak.io^
 ||goat.croustade.studio^
 ||goat.dabric.xyz^
 ||goat.dheinemann.com^
+||goat.gavv.in^
 ||goat.huku.rocks^
 ||goat.skeetstats.xyz^
 ||goat.tailspace.net^
@@ -44,6 +46,7 @@
 ||stats.cgcristi.xyz^
 ||stats.cloudflex.team^
 ||stats.fieald.com^
+||stats.hedy.dev^
 ||stats.how.wtf^
 ||stats.jakebailey.dev^
 ||stats.jamesgwyer.com^
@@ -57,6 +60,7 @@
 ||stats.mele.dev^
 ||stats.msol.io^
 ||stats.palaisdesfetes.eu^
+||stats.renit.pl^
 ||stats.rocketgoboom.lol^
 ||stats.semipol.de^
 ||stats.sofianlak.fr^
@@ -64,5 +68,6 @@
 ||stats.thecrafters001.com^
 ||stats.trainsley69.me^
 ||stats.whatacools.com^
+||stats.ybbond.id^
 ||visit.hijacklibs.net^
 ||webstats.maik.dev^

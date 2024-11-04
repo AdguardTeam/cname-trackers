@@ -19,6 +19,7 @@
 ||et.electronic4you.de^
 ||et.electronic4you.hr^
 ||et.electronic4you.si^
+||et.goal-based.investments^
 ||et.majdic.at^
 ||et.pns24.de^
 ||etd.kramer-online.com^
@@ -31,6 +32,7 @@
 ||ettcc.steute.com^
 ||ferthu.seyffer.shop^
 ||js.edingershops.de^
+||maschine.bengs-modellbau.de^
 ||mensch.ekd.de^
 ||mktg.activemind.legal^
 ||mytrd.orion.at^
@@ -66,11 +68,14 @@
 ||webcontr.bet-at-home.de^
 ||webcontr.chairgo.de^
 ||webcontr.chiptuning.com^
+||webcontr.ib-kc.de^
 ||webcontr.l.de^
+||webcontr.pedalbox.com^
 ||webcontr.ryzon.net^
 ||webcontr.synvia.de^
 ||webcontr.verpoorten.de^
 ||wt.leitz.org^
+||wurst.hausschlachtebedarf.de^
 ||esub.akkusys.de^
 ||esub.akkusys.shop^
 ||esub.autobatterie-markt.de^

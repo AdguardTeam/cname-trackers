@@ -33,6 +33,7 @@
 ||adv.consulcesi.it^
 ||adv.unionesarda.it^
 ||advertising.goldseek.com^
+||adwin.geenstijl.nl^
 ||api.metrike.com^
 ||assets.lintigroup.se^
 ||banners.cincinnatimagazine.com^
@@ -162,6 +163,7 @@
 ||static.walaplusadserver.com^
 ||tlads.midtc.com^
 ||treehouse.wwoz.org^
+||www.adserver.sonicplug.com^
 ||www.api.adbility-media.com^
 ||www.cdn-adv.unionesarda.it^
 ||www.display.lawbulletin.com^
@@ -172,5 +174,6 @@
 ||www.servedby.greenspring.com^
 ||www.servedby.quirks.com^
 ||www.servedby.schrotundkorn.de^
+||www.static.imagineobx.com^
 ||www.static.the-saleroom.com^
 ||xtraa-secure.reviveservers.com^

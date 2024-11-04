@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -44,6 +44,7 @@ adv.blulab.net CNAME .
 adv.consulcesi.it CNAME .
 adv.unionesarda.it CNAME .
 advertising.goldseek.com CNAME .
+adwin.geenstijl.nl CNAME .
 api.metrike.com CNAME .
 assets.lintigroup.se CNAME .
 banners.cincinnatimagazine.com CNAME .
@@ -173,6 +174,7 @@ static.trackandfieldnews.com CNAME .
 static.walaplusadserver.com CNAME .
 tlads.midtc.com CNAME .
 treehouse.wwoz.org CNAME .
+www.adserver.sonicplug.com CNAME .
 www.api.adbility-media.com CNAME .
 www.cdn-adv.unionesarda.it CNAME .
 www.display.lawbulletin.com CNAME .
@@ -183,5 +185,6 @@ www.servedby.geminipub.com CNAME .
 www.servedby.greenspring.com CNAME .
 www.servedby.quirks.com CNAME .
 www.servedby.schrotundkorn.de CNAME .
+www.static.imagineobx.com CNAME .
 www.static.the-saleroom.com CNAME .
 xtraa-secure.reviveservers.com CNAME .

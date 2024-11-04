@@ -752,6 +752,7 @@
 ||3745191.notify6.com^
 ||3745191.notifysrv.com^
 ||3745197.notify6.com^
+||3749331.notify6.com^
 ||3752469.notifysrv.com^
 ||3756889.notifysrv.com^
 ||3767411.notify6.com^
@@ -828,6 +829,7 @@
 ||3921002.notify6.com^
 ||3935380.notify6.com^
 ||3935570.notify6.com^
+||3935618.notify6.com^
 ||3937625.notify6.com^
 ||3938193.notify6.com^
 ||3938711.notify6.com^
@@ -861,6 +863,7 @@
 ||3961406.notify6.com^
 ||3965102.notify6.com^
 ||3968040.notify6.com^
+||3972246.notify6.com^
 ||3973252.notify6.com^
 ||3975710.notify6.com^
 ||3979160.notify6.com^
@@ -887,6 +890,7 @@
 ||4031264.notify6.com^
 ||4031266.notify6.com^
 ||4035140.notify6.com^
+||4035148.notify6.com^
 ||4035234.notify6.com^
 ||4035244.notify6.com^
 ||4037374.notify6.com^
@@ -900,6 +904,7 @@
 ||4048172.notify6.com^
 ||4050544.notify6.com^
 ||4052.notify.optimizesrv.com^
+||4052808.notify6.com^
 ||4052828.notify6.com^
 ||4060008.notify6.com^
 ||4061366.notify6.com^
@@ -976,6 +981,7 @@
 ||4220540.notify6.com^
 ||4224486.notify6.com^
 ||4225290.notify6.com^
+||4230500.notify6.com^
 ||4231372.notify6.com^
 ||4231374.notify6.com^
 ||4241048.notify6.com^
@@ -1097,6 +1103,7 @@
 ||5114166.notify6.com^
 ||5121952.notify6.com^
 ||5129508.notify6.com^
+||5131774.notify6.com^
 ||5132062.notify6.com^
 ||5153152.notify6.com^
 ||5276648.notify6.com^
@@ -1133,6 +1140,7 @@
 ||a.advertrek.com^
 ||a.asvsm.com^
 ||a.b7q9v8z.com^
+||a.bizonads-ssp.com^
 ||a.cant3am.com^
 ||a.etology.com^
 ||a.eunow4u.com^
@@ -1437,6 +1445,7 @@
 ||www.3250420.notify6.com^
 ||www.3254306.notifysrv.com^
 ||www.3270262.notifysrv.com^
+||www.3294264.notify6.com^
 ||www.3328380.notifysrv.com^
 ||www.3345712.notify6.com^
 ||www.3351072.notifysrv.com^
@@ -1458,6 +1467,7 @@
 ||www.3662845.notifysrv.com^
 ||www.3662967.notify6.com^
 ||www.3684237.notify6.com^
+||www.3745197.notify6.com^
 ||www.3815579.notify6.com^
 ||www.3856281.notify6.com^
 ||www.3881818.notify6.com^
@@ -1483,5 +1493,4 @@
 ||www.notify6.com^
 ||www.notifysrv.com^
 ||www.survey.notifysrv.com^
-||a.bizonads-ssp.com^
 ||ads.optimizesrv.com^

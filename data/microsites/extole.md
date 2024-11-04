@@ -171,6 +171,7 @@
     * bbw.extole.io
     * beaspermdonor.extole.io
     * becu.extole.io
+    * belkin.extole.io
     * biblejourney.extole.io
     * bjs.extole.io
     * bluehost.extole.io
@@ -227,6 +228,7 @@
     * copper-crane.extole.io
     * cos-bar.extole.io
     * coupon-cabin.extole.io
+    * cox.extole.io
     * creativelive.extole.io
     * credible.extole.io
     * creditninja.extole.io
@@ -301,6 +303,7 @@
     * glasses.extole.io
     * globalknowledge.extole.io
     * gnc.extole.io
+    * go2bank.em.extole.io
     * go2bank.extole.io
     * granitegaragefloors.extole.io
     * greatwesternbank.extole.io
@@ -433,7 +436,6 @@
     * princess.extole.io
     * princessau.extole.io
     * princessuk.extole.io
-    * procore.extole.io
     * prokeds.extole.io
     * propark.extole.io
     * psecu.extole.io
@@ -501,6 +503,7 @@
     * starfurniture.extole.io
     * steadyapp.extole.io
     * steelseries.extole.io
+    * stockpile.extole.io
     * stop-and-shop.extole.io
     * stopagingnow.extole.io
     * stride-rite.extole.io
@@ -669,6 +672,7 @@
 | refer.bathandbodyworks.com | bbw.extole.io |
 | share.beaspermdonor.com | beaspermdonor.extole.io |
 | share.becu.org | becu.extole.io |
+| refer.belkin.com | belkin.extole.io |
 | refer.betterbraces.com | betterbraces.extole.com |
 | share.biblejourney.com | biblejourney.extole.io |
 | share.bjs.com | bjs.extole.io |
@@ -746,6 +750,7 @@
 | refer.copperandcrane.com | copper-crane.extole.io |
 | share.cosbar.com | cos-bar.extole.io |
 | share.couponcabin.com | coupon-cabin.extole.io |
+| share.cox.com | cox.extole.io |
 | refer.creativelive.com | creativelive.extole.io |
 | share.credible.com | credible.extole.io |
 | share.creditninja.com | creditninja.extole.io |
@@ -902,6 +907,7 @@
 | refer.glasses.com | glasses.extole.io |
 | refer.globalknowledge.com | globalknowledge.extole.io |
 | refer.gnc.com | gnc.extole.io |
+| em8561.go2bank.com | go2bank.em.extole.io |
 | share.go2bank.com | go2bank.extole.io |
 | refer.gotoassist.com | gotoassist.extole.com |
 | refer.gotomeeting.com | gotomeeting.extole.com |
@@ -1099,7 +1105,6 @@
 | share.princess.com | princess.extole.io |
 | refer-au.princess.com | princessau.extole.io |
 | share-uk.princess.com | princessuk.extole.io |
-| refer.procore.com | procore.extole.io |
 | refer.proflowers.com | proflowers-ssl.extole.com |
 | refer.prokeds.com | prokeds.extole.io |
 | refer.pvdparking.com | propark.extole.io |
@@ -1191,6 +1196,7 @@
 | refer.starfurniture.com | starfurniture.extole.io |
 | share.steadyapp.com | steadyapp.extole.io |
 | refer.steelseries.com | steelseries.extole.io |
+| share.stockpile.com | stockpile.extole.io |
 | refer.stopandshop.com | stop-and-shop.extole.io |
 | share.stopagingnow.com | stopagingnow.extole.io |
 | refer.striderite.com | stride-rite.extole.io |

@@ -186,7 +186,6 @@
 | a8.kissmusic.net | trck.a8.net |
 | a8.kizuna-link.jp | trck.a8.net |
 | a8.kland.shop | trck.a8.net |
-| a8.knew.jp | trck.a8.net |
 | a8.kojyo-worker.com | trck.a8.net |
 | a8.kotei-denwa.com | trck.a8.net |
 | a8.kougu-kaitoriyasan.com | trck.a8.net |
@@ -864,6 +863,7 @@
 | a8cv.dazzyclinic.jp | trck.a8.net |
 | a8cv.deiba.jp | trck.a8.net |
 | a8cv.delis.co.jp | trck.a8.net |
+| a8cv.dentalhr.jp | trck.a8.net |
 | a8cv.designlearn.co.jp | trck.a8.net |
 | a8cv.direct-teleshop.jp | trck.a8.net |
 | a8cv.direct.shark.co.jp | trck.a8.net |
@@ -957,7 +957,6 @@
 | a8cv.hardwarewallet-japan.com | trck.a8.net |
 | a8cv.hariocorp.co.jp | trck.a8.net |
 | a8cv.hariti.shop | trck.a8.net |
-| a8cv.hello-people.jp | trck.a8.net |
 | a8cv.heybit.io | trck.a8.net |
 | a8cv.hi-tailor.jp | trck.a8.net |
 | a8cv.hikari-mega.com | trck.a8.net |
@@ -1122,7 +1121,6 @@
 | a8cv.paidy.com | trck.a8.net |
 | a8cv.paintory.com | trck.a8.net |
 | a8cv.palms-gym.com | trck.a8.net |
-| a8cv.perrot.co | trck.a8.net |
 | a8cv.pf.classicmusic.tokyo | trck.a8.net |
 | a8cv.phonim.com | trck.a8.net |
 | a8cv.photojoy.jp | trck.a8.net |
@@ -1263,6 +1261,7 @@
 | a8cv.web-planners.net | trck.a8.net |
 | a8cv.wedding.mynavi.jp | trck.a8.net |
 | a8cv.wellcrew.net | trck.a8.net |
+| a8cv.whynot.jp | trck.a8.net |
 | a8cv.will-agaclinic.com | trck.a8.net |
 | a8cv.will-gocon.net | trck.a8.net |
 | a8cv.willfu.jp | trck.a8.net |

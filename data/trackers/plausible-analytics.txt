@@ -353,7 +353,6 @@
 ||stats.belic.si^
 ||stats.benui.ca^
 ||stats.bernardobordadagua.com^
-||stats.bertwagner.com^
 ||stats.bestservers.co^
 ||stats.beyond-grace.co.uk^
 ||stats.bholmes.dev^
@@ -690,7 +689,6 @@
 ||stats.petanode.com^
 ||stats.petr.codes^
 ||stats.phili.pe^
-||stats.philjava.com^
 ||stats.photographer.com.au^
 ||stats.pinoymusicstation.com^
 ||stats.piplette.co^
@@ -767,7 +765,6 @@
 ||stats.sirdata.com^
 ||stats.sixseven.at^
 ||stats.ski.com^
-||stats.slicedthread.com^
 ||stats.socialeurope.eu^
 ||stats.southswindon-pc.gov.uk^
 ||stats.sparkloop.app^
@@ -866,6 +863,7 @@
 ||stts.sgab-srfp.ch^
 ||stts.swisshranalytics.ch^
 ||t.lastcast.fm^
+||taylor.gladspring.com^
 ||tics.cortex.gg^
 ||tics.seeker.gg^
 ||tics.techdirt.com^
@@ -883,6 +881,7 @@
 ||views.wioks.com^
 ||visitorcenter.ioafw.com^
 ||visitorcenter.srwild.com^
+||visitors.asadis.net^
 ||visitors.gigianddavid.com^
 ||vitals.cgddrd.me^
 ||we-love-privacy.humane.club^

@@ -79,6 +79,7 @@
 ||affil.zaslat.cz^
 ||affil.zdravetricko.cz^
 ||affil.zenskecykly.cz^
+||affilate.maximin.cz^
 ||affilate.securepro.cz^
 ||affilate.sklep38.cz^
 ||affilbox.25hodin.cz^
@@ -502,7 +503,6 @@
 ||partner.cukrarskyklub.cz^
 ||partner.cukraszvilag.hu^
 ||partner.dailymix.cz^
-||partner.dancahajkova.com^
 ||partner.danfil.cz^
 ||partner.darinapetrakova.cz^
 ||partner.dellinger.cz^

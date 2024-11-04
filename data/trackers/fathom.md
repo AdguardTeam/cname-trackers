@@ -201,7 +201,6 @@
 | centipede.roasted.dev | deprecated-custom-domains.b-cdn.net |
 | centipede.wildbit.com | deprecated-custom-domains.b-cdn.net |
 | cephalopod.nucleus.us | deprecated-custom-domains.b-cdn.net |
-| cephalopod.photoprism.pro | deprecated-custom-domains.b-cdn.net |
 | cephalopod.revelio.io | deprecated-custom-domains.b-cdn.net |
 | cephalopod.staff.design | deprecated-custom-domains.b-cdn.net |
 | cheetah.gaptry.com | deprecated-custom-domains.b-cdn.net |
@@ -661,6 +660,7 @@
 | parakeet.jorenvanhocht.be | deprecated-custom-domains.b-cdn.net |
 | parakeet.kenleyar.ai | deprecated-custom-domains.b-cdn.net |
 | parakeet.quotetweet.com | deprecated-custom-domains.b-cdn.net |
+| parrot.alookwithin.ca | deprecated-custom-domains.b-cdn.net |
 | parrot.lovably.com | deprecated-custom-domains.b-cdn.net |
 | parrotfish.thenping.me | deprecated-custom-domains.b-cdn.net |
 | parrotfish.wilderworld.com | deprecated-custom-domains.b-cdn.net |
@@ -921,8 +921,6 @@
 | wallaby.cron.help | deprecated-custom-domains.b-cdn.net |
 | wallaby.legendkeeper.com | deprecated-custom-domains.b-cdn.net |
 | wallaby.short1.link | deprecated-custom-domains.b-cdn.net |
-| walrus.5secondstoimpress.com | deprecated-custom-domains.b-cdn.net |
-| walrus.blindemployment.solutions | deprecated-custom-domains.b-cdn.net |
 | walrus.fetzcolor.at | deprecated-custom-domains.b-cdn.net |
 | walrus.oscaroarevalo.com | deprecated-custom-domains.b-cdn.net |
 | walrus.scalue.com | deprecated-custom-domains.b-cdn.net |
@@ -1856,7 +1854,6 @@
 | wallaby.cron.help | starman.fathomdns.com |
 | wallaby.legendkeeper.com | starman.fathomdns.com |
 | wallaby.short1.link | starman.fathomdns.com |
-| walrus.5secondstoimpress.com | starman.fathomdns.com |
 | walrus.blindemployment.solutions | starman.fathomdns.com |
 | walrus.fetzcolor.at | starman.fathomdns.com |
 | walrus.oscaroarevalo.com | starman.fathomdns.com |
@@ -1879,7 +1876,6 @@
 | wildebeest.soft-spoken.dev | starman.fathomdns.com |
 | wildebeest.trigo.dev | starman.fathomdns.com |
 | wildfowl.getmoneyoff.com | starman.fathomdns.com |
-| wolf.idthompson.com | starman.fathomdns.com |
 | wolf.samarasousa.com | starman.fathomdns.com |
 | wolverine.barac.at | starman.fathomdns.com |
 | wolverine.jhdierenklinieken.nl | starman.fathomdns.com |

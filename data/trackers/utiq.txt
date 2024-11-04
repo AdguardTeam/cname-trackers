@@ -225,6 +225,7 @@
 ||utiq.tatort-fans.de^
 ||utiq.techbook.de^
 ||utiq.telekom.de^
+||utiq.terrafemina.com^
 ||utiq.thueringen24.de^
 ||utiq.tierfans.net^
 ||utiq.todoalicante.es^

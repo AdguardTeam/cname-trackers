@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -17,20 +17,22 @@ analytics.code.dccouncil.us CNAME .
 analytics.demo.plateau.ng.open.law CNAME .
 analytics.law.cityofsanmateo.org CNAME .
 analytics.popov.link CNAME .
+analytics.riggraz.dev CNAME .
 analytics.yofbrc.com CNAME .
 argus.umarbutler.com CNAME .
-awesome-tunneling-stats.apitman.com CNAME .
 contacapre.bortox.it CNAME .
 count.vidsrc.pro CNAME .
 counter.storydragon.nl CNAME .
 gc.mindenugyved.hu CNAME .
 gc.sanyamkapoor.com CNAME .
 gc.securitydungeon.sk CNAME .
+gc.tbx.at CNAME .
 github.gpuzelenograd.cloudns.be CNAME .
 goat.belak.io CNAME .
 goat.croustade.studio CNAME .
 goat.dabric.xyz CNAME .
 goat.dheinemann.com CNAME .
+goat.gavv.in CNAME .
 goat.huku.rocks CNAME .
 goat.skeetstats.xyz CNAME .
 goat.tailspace.net CNAME .
@@ -55,6 +57,7 @@ stats.cassie.omg.lol CNAME .
 stats.cgcristi.xyz CNAME .
 stats.cloudflex.team CNAME .
 stats.fieald.com CNAME .
+stats.hedy.dev CNAME .
 stats.how.wtf CNAME .
 stats.jakebailey.dev CNAME .
 stats.jamesgwyer.com CNAME .
@@ -68,6 +71,7 @@ stats.lspeed.org CNAME .
 stats.mele.dev CNAME .
 stats.msol.io CNAME .
 stats.palaisdesfetes.eu CNAME .
+stats.renit.pl CNAME .
 stats.rocketgoboom.lol CNAME .
 stats.semipol.de CNAME .
 stats.sofianlak.fr CNAME .
@@ -75,5 +79,6 @@ stats.stchris.net CNAME .
 stats.thecrafters001.com CNAME .
 stats.trainsley69.me CNAME .
 stats.whatacools.com CNAME .
+stats.ybbond.id CNAME .
 visit.hijacklibs.net CNAME .
 webstats.maik.dev CNAME .

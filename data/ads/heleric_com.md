@@ -14,6 +14,7 @@
 | ah.cabbingdandled.com | heleric.com |
 | aj.stomalhobble.com | heleric.com |
 | ap.saluteeyeseed.com | heleric.com |
+| ap.taichnewcal.com | heleric.com |
 | aq.theurgyopine.com | heleric.com |
 | au.maniatoile.com | heleric.com |
 | av.dizziesferri.com | heleric.com |
@@ -81,6 +82,7 @@
 | ey.scutmercury.com | heleric.com |
 | fc.ferriesendless.com | heleric.com |
 | ff.guimpefesses.com | heleric.com |
+| fh.smugismprotea.com | heleric.com |
 | fi.questormyxo.com | heleric.com |
 | fk.janetsh.com | heleric.com |
 | fl.dumpiesgoschen.com | heleric.com |
@@ -190,6 +192,7 @@
 | nc.nominaturfy.com | heleric.com |
 | ng.knittedhipbone.com | heleric.com |
 | nh.rimoseantdom.com | heleric.com |
+| nl.rowensrewound.com | heleric.com |
 | nm.placoidtobyman.com | heleric.com |
 | no.resailslemures.com | heleric.com |
 | nr.celaenomash.com | heleric.com |

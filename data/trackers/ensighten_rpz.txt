@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -314,6 +314,7 @@ privacy.latitudepay.com CNAME .
 privacy.learcapital.com CNAME .
 privacy.online.heineken.co.za CNAME .
 privacy.owllabs.com CNAME .
+privacy.sekuremerchants.com CNAME .
 privacy.tigerbeer.com CNAME .
 privacy.umiloans.com.au CNAME .
 privacy.uwm.com CNAME .
@@ -396,7 +397,6 @@ tms.nab.com.au CNAME .
 tms.nabmarginlending.com.au CNAME .
 tms.nabtrade.com.au CNAME .
 tms.nationaltrust.org.uk CNAME .
-tms.rsa.com CNAME .
 tms.securid.com CNAME .
 tms.suzukibusinesscloud-qa.com CNAME .
 tms.virginatlantic.com CNAME .

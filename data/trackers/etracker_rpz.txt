@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -30,6 +30,7 @@ et.electronic4you.at CNAME .
 et.electronic4you.de CNAME .
 et.electronic4you.hr CNAME .
 et.electronic4you.si CNAME .
+et.goal-based.investments CNAME .
 et.majdic.at CNAME .
 et.pns24.de CNAME .
 etd.kramer-online.com CNAME .
@@ -42,6 +43,7 @@ ettcc.steute-meditec.com CNAME .
 ettcc.steute.com CNAME .
 ferthu.seyffer.shop CNAME .
 js.edingershops.de CNAME .
+maschine.bengs-modellbau.de CNAME .
 mensch.ekd.de CNAME .
 mktg.activemind.legal CNAME .
 mytrd.orion.at CNAME .
@@ -77,11 +79,14 @@ webcontr.bet-at-home.com CNAME .
 webcontr.bet-at-home.de CNAME .
 webcontr.chairgo.de CNAME .
 webcontr.chiptuning.com CNAME .
+webcontr.ib-kc.de CNAME .
 webcontr.l.de CNAME .
+webcontr.pedalbox.com CNAME .
 webcontr.ryzon.net CNAME .
 webcontr.synvia.de CNAME .
 webcontr.verpoorten.de CNAME .
 wt.leitz.org CNAME .
+wurst.hausschlachtebedarf.de CNAME .
 esub.akkusys.de CNAME .
 esub.akkusys.shop CNAME .
 esub.autobatterie-markt.de CNAME .

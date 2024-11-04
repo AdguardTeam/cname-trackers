@@ -20,6 +20,7 @@
 ||l.aufeminin.com^
 ||l.aujourdhui.fr^
 ||l.autojournal.fr^
+||l.automobile-magazine.fr^
 ||l.autoplus.fr^
 ||l.beaute-test.com^
 ||l.beauxarts.com^

@@ -3,7 +3,7 @@
 
 $TTL 300
 @    IN   SOA   localhost. root.localhost. (
-           1730102407853        ; Serial
+           1730707207352        ; Serial
                   604800        ; Refresh
                    86400        ; Retry
                   777600        ; Expire
@@ -28,11 +28,11 @@ api.kekw.website CNAME .
 api.kekw.world CNAME .
 api.ngamgaixinh.art CNAME .
 api.rtnews.pro CNAME .
+api.xxxbanjo.com CNAME .
 api2.clickaine.com CNAME .
 app.rtnews.pro CNAME .
 asg.javhoho.com CNAME .
 asg.pienude.com CNAME .
-blabla.leakgallery.com CNAME .
 c.gotoxxxtube.com CNAME .
 c0n.tubestash.com CNAME .
 c4n.asianpinay.com CNAME .
@@ -50,6 +50,7 @@ c4s.bionestraff.pro CNAME .
 c8d.upde.cc CNAME .
 ca.findyourpussy.net CNAME .
 ca.infomix.best CNAME .
+cat11.gimmeporn.xyz CNAME .
 cc.histoires-de-sexe-gratuites.com CNAME .
 cc.relatoseroticos-gratis.com CNAME .
 cc.sersh.com CNAME .
@@ -66,6 +67,7 @@ ck.zzipps.com CNAME .
 cl.sexstories-all.com CNAME .
 click.freepopnews.skin CNAME .
 clickc4n.pornharlot.com CNAME .
+clickc4n.pornharlot.net CNAME .
 clk.slutcam.org CNAME .
 clka.bondagevalley.cc CNAME .
 clkn.apostle.onl CNAME .
@@ -85,6 +87,7 @@ dr3.piczlabs.com CNAME .
 drt.cliomovies.com CNAME .
 faq.brandnewapp.pro CNAME .
 flw.camcaps.ac CNAME .
+g4s.nfss.my.id CNAME .
 ge6.getfto.com CNAME .
 ge8.getfto.com CNAME .
 get.xclick24.com CNAME .
@@ -114,6 +117,7 @@ ps1.reallifecam.to CNAME .
 ps2.camcaps.to CNAME .
 reg.ancensored.com CNAME .
 s1.rtnews.pro CNAME .
+s3.rtnews.pro CNAME .
 s5.rtnews.pro CNAME .
 sda.am-da.xyz CNAME .
 snow.snowdayonline.xyz CNAME .

@@ -990,7 +990,6 @@
 | wallaby.cron.help | deprecated-custom-domains.b-cdn.net |
 | wallaby.legendkeeper.com | deprecated-custom-domains.b-cdn.net |
 | wallaby.short1.link | deprecated-custom-domains.b-cdn.net |
-| walrus.5secondstoimpress.com | deprecated-custom-domains.b-cdn.net |
 | walrus.blindemployment.solutions | deprecated-custom-domains.b-cdn.net |
 | walrus.fetzcolor.at | deprecated-custom-domains.b-cdn.net |
 | walrus.oscaroarevalo.com | deprecated-custom-domains.b-cdn.net |
@@ -1013,7 +1012,6 @@
 | wildebeest.soft-spoken.dev | deprecated-custom-domains.b-cdn.net |
 | wildebeest.trigo.dev | deprecated-custom-domains.b-cdn.net |
 | wildfowl.getmoneyoff.com | deprecated-custom-domains.b-cdn.net |
-| wolf.idthompson.com | deprecated-custom-domains.b-cdn.net |
 | wolf.samarasousa.com | deprecated-custom-domains.b-cdn.net |
 | wolverine.barac.at | deprecated-custom-domains.b-cdn.net |
 | wolverine.jhdierenklinieken.nl | deprecated-custom-domains.b-cdn.net |
